@@ -1,33 +1,28 @@
 # THE_WORDS
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\7\7e\ns0%3ATHE_WORDS.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\7\7e\ns0%3ATHE_WORDS.html -->
 
 2017年8月11日 由 フレキシ 于 Comic Market 92 发布的漫画同人志，B5尺寸一共20页，登场人物有 小恶魔、本居小铃、稗田阿求、村纱水蜜，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人志 (未找到链接)** 的词条
-
+**[二次创作同人志](./二次创作.md#同人志)**的词条
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-THE_WORDS封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/f/f4/THE_WORDS%E5%B0%81%E9%9D%A2.jpg/157px-THE_WORDS%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="157" height="224" srcset="https://upload.thwiki.cc/thumb/f/f4/THE_WORDS%E5%B0%81%E9%9D%A2.jpg/235px-THE_WORDS%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/f/f4/THE_WORDS%E5%B0%81%E9%9D%A2.jpg/313px-THE_WORDS%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="700" data-file-height="1000"></a><div class="cover-char">角色：<a href="./本居小铃.md" title="本居小铃">本居小铃</a></div></td>
 </tr><tr><td class="label">名称</td><td colspan="2"> THE WORDS </td></tr><tr><td class="label">制作方</td><td><a href="./フレキシ.md" title="フレキシ">フレキシ</a></td><td class="cover-artwork" rowspan="8" style="min-width:224px;"><a href="./文件-THE_WORDS封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/f/f4/THE_WORDS%E5%B0%81%E9%9D%A2.jpg/157px-THE_WORDS%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="157" height="224" srcset="https://upload.thwiki.cc/thumb/f/f4/THE_WORDS%E5%B0%81%E9%9D%A2.jpg/235px-THE_WORDS%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/f/f4/THE_WORDS%E5%B0%81%E9%9D%A2.jpg/313px-THE_WORDS%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="700" data-file-height="1000"></a><div class="cover-char">角色：<a href="./本居小铃.md" title="本居小铃">本居小铃</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2017-08-11&#160;（<a href="/展会作品列表?e=Comic+Market%2392">Comic Market 92</a>）</td></tr><tr><td class="label">类型</td><td>漫画</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>B5</td></tr><tr><td class="label">页数</td><td>20P</td></tr><tr><td class="label">登场人物</td><td><a href="./小恶魔.md" title="小恶魔">小恶魔</a>，<a href="./本居小铃.md" title="本居小铃">本居小铃</a>，<a href="./稗田阿求.md" title="稗田阿求">稗田阿求</a>，<a href="./村纱水蜜.md" title="村纱水蜜">村纱水蜜</a></td></tr><tr><td class="label">售价</td><td>会场售价：200日元<br>通贩售价：278日元</td></tr>
+</tr><tr><td class="label">首发日期</td><td>2017-08-11 （<a href="./展会作品列表.md#92">Comic Market 92</a>）</td></tr><tr><td class="label">类型</td><td>漫画</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>B5</td></tr><tr><td class="label">页数</td><td>20P</td></tr><tr><td class="label">登场人物</td><td><a href="./小恶魔.md" title="小恶魔">小恶魔</a>，<a href="./本居小铃.md" title="本居小铃">本居小铃</a>，<a href="./稗田阿求.md" title="稗田阿求">稗田阿求</a>，<a href="./村纱水蜜.md" title="村纱水蜜">村纱水蜜</a></td></tr><tr><td class="label">售价</td><td>会场售价：200日元<br>通贩售价：278日元</td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/64203495">https://www.pixiv.net/artworks/64203495</a></td></tr></tbody></table>
 
 THE WORDS（同人志，フレキシ，2017） - 2017年8月11日 由 フレキシ 于 Comic Market 92 发布的漫画同人志，B5尺寸一共20页，登场人物有 小恶魔、本居小铃、稗田阿求、村纱水蜜，分级为 一般向
-
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://ec.toranoana.jp/tora_r/ec/item/040030559381">虎穴</a></td></tr></tbody></table>
 
 
-
 ## Staff
+
 - tog. (未找到链接)
 
 
 ## 评论
-
-
-
 
 ---
 

@@ -1,12 +1,8 @@
 # 文件:幽玄魔眼（dairi绘）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\16\ns6%3A%E5%B9%BD%E7%8E%84%E9%AD%94%E7%9C%BC%EF%BC%88dairi%E7%BB%98%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\16\ns6%3A%E5%B9%BD%E7%8E%84%E9%AD%94%E7%9C%BC%EF%BC%88dairi%E7%BB%98%EF%BC%89%2Epng.html -->
 
 NooblyPerson | 二次角色立绘 | 幽玄魔眼（天陨梦）
-
-
-
-
 
 
 ---

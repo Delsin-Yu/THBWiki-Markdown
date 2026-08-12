@@ -1,6 +1,6 @@
 # 文件:One's_way_of_life封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6a\ns6%3AOne%27s_way_of_life%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6a\ns6%3AOne%27s_way_of_life%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | ＊Cherry_Garden＊
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [One's way of life](./One's_way_of_life.md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)
-
-
-
+- [One's way of life](./One's_way_of_life.md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
 
 
 ---

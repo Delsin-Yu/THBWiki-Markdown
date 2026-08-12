@@ -1,12 +1,8 @@
 # 文件:THD2幻想乡日记.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\53\ns6%3ATHD2%E5%B9%BB%E6%83%B3%E4%B9%A1%E6%97%A5%E8%AE%B0%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\53\ns6%3ATHD2%E5%B9%BB%E6%83%B3%E4%B9%A1%E6%97%A5%E8%AE%B0%2Epng.html -->
 
 东方DOTS玩家社群
-
-
-
-
 
 
 ---

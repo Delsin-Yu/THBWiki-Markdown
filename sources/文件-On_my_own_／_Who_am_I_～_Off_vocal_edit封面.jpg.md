@@ -1,6 +1,6 @@
 # 文件:On_my_own_／_Who_am_I_～_Off_vocal_edit封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ca\ns6%3AOn_my_own_%EF%BC%8F_Who_am_I_%EF%BD%9E_Off_vocal_edit%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ca\ns6%3AOn_my_own_%EF%BC%8F_Who_am_I_%EF%BD%9E_Off_vocal_edit%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Spoo_and_Nick | 专辑封面 | 封面图片
 
@@ -13,12 +13,7 @@ Spoo_and_Nick | 专辑封面 | 封面图片
 - [On my own ／ Who am I ～ Off vocal edit](./On_my_own_／_Who_am_I_～_Off_vocal_edit.md)
 
   
-源地址：[direct image link](https://www.suruga-ya.jp/database/pics_light/game/186149048.jpg), [source page (suruga-ya ID: 186149048)](https://www.suruga-ya.jp/product/detail/186149048)
-  
-
-
-
-
+源地址：[direct image link](https://www.suruga-ya.jp/database/pics_light/game/186149048.jpg), [source page (suruga-ya ID: 186149048)](https://www.suruga-ya.jp/product/detail/186149048)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:GoToHellCat!!封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6d\ns6%3AGoToHellCat%21%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6d\ns6%3AGoToHellCat%21%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Evolution_Tunes | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@ Evolution_Tunes | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [GoToHellCat!!](./GoToHellCat!!.md)  
-该封面包含的角色：- [火焰猫燐](./火焰猫燐.md)
+- [GoToHellCat!!](./GoToHellCat!!.md)该封面包含的角色：
+- [火焰猫燐](./火焰猫燐.md)
 
   
-[Pixiv artwork ID: 60604626](https://www.pixiv.net/artworks/60604626)
-  
-
-
-
-
+[Pixiv artwork ID: 60604626](https://www.pixiv.net/artworks/60604626)  
 
 ---
 

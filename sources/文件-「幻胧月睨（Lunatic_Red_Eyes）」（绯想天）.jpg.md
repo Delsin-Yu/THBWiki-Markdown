@@ -1,12 +1,8 @@
 # 文件:「幻胧月睨（Lunatic_Red_Eyes）」（绯想天）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d1\ns6%3A%E3%80%8C%E5%B9%BB%E8%83%A7%E6%9C%88%E7%9D%A8%EF%BC%88Lunatic_Red_Eyes%EF%BC%89%E3%80%8D%EF%BC%88%E7%BB%AF%E6%83%B3%E5%A4%A9%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d1\ns6%3A%E3%80%8C%E5%B9%BB%E8%83%A7%E6%9C%88%E7%9D%A8%EF%BC%88Lunatic_Red_Eyes%EF%BC%89%E3%80%8D%EF%BC%88%E7%BB%AF%E6%83%B3%E5%A4%A9%EF%BC%89%2Ejpg.html -->
 
 东方绯想天 | 自机符卡 | 铃仙·优昙华院·因幡
-
-
-
-
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:苏生「Rising_Game」（永夜抄）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\35\ns6%3A%E8%8B%8F%E7%94%9F%E3%80%8CRising_Game%E3%80%8D%EF%BC%88%E6%B0%B8%E5%A4%9C%E6%8A%84%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\35\ns6%3A%E8%8B%8F%E7%94%9F%E3%80%8CRising_Game%E3%80%8D%EF%BC%88%E6%B0%B8%E5%A4%9C%E6%8A%84%EF%BC%89%2Ejpg.html -->
 
 东方永夜抄 | 八意永琳 | 敌机符卡
-
-
-
-
 
 
 ---

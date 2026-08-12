@@ -1,6 +1,6 @@
 # 文件:imaginary_happy_friend_!封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d2\ns6%3Aimaginary_happy_friend_%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d2\ns6%3Aimaginary_happy_friend_%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ハイウェイオアシス | 同人志封面 | 封面图片
 
@@ -10,16 +10,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [imaginary happy friend&#160;!](./imaginary_happy_friend_!.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)- 原创角色 (未找到链接)
+- [imaginary happy friend !](./imaginary_happy_friend_!.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- 原创角色 (未找到链接)
 
   
-源地址：[direct image link (original size)](https://64.media.tumblr.com/bd335cb31de3e44862a0b87563e1a6ed/tumblr_mtmtyzlbmH1snkiq0o1_r1_1280.png), [source page](https://highwayoasis.tumblr.com/post/62150982178/imaginary-happy)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://64.media.tumblr.com/bd335cb31de3e44862a0b87563e1a6ed/tumblr_mtmtyzlbmH1snkiq0o1_r1_1280.png), [source page](https://highwayoasis.tumblr.com/post/62150982178/imaginary-happy)  
 
 ---
 

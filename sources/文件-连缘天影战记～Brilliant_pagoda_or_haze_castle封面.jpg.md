@@ -1,6 +1,6 @@
 # 文件:连缘天影战记～Brilliant_pagoda_or_haze_castle封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e8\ns6%3A%E8%BF%9E%E7%BC%98%E5%A4%A9%E5%BD%B1%E6%88%98%E8%AE%B0%EF%BD%9EBrilliant_pagoda_or_haze_castle%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e8\ns6%3A%E8%BF%9E%E7%BC%98%E5%A4%A9%E5%BD%B1%E6%88%98%E8%AE%B0%EF%BD%9EBrilliant_pagoda_or_haze_castle%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 トリック・ノスタルジー | 封面图片 | 软件封面
 
@@ -9,9 +9,6 @@
   
 
 - [连缘天影战记～Brilliant pagoda or haze castle](./连缘天影战记～Brilliant_pagoda_or_haze_castle.md)
-
-
-
 
 
 ---

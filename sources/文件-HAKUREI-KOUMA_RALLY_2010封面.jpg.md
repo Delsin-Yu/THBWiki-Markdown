@@ -1,6 +1,6 @@
 # 文件:HAKUREI-KOUMA_RALLY_2010封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ae\ns6%3AHAKUREI-KOUMA_RALLY_2010%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ae\ns6%3AHAKUREI-KOUMA_RALLY_2010%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 PARANOIA_CAT | 同人志封面 | 封面图片
 
@@ -10,11 +10,15 @@ PARANOIA_CAT | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [HAKUREI-KOUMA RALLY 2010](./HAKUREI-KOUMA_RALLY_2010.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [魂魄妖梦](./魂魄妖梦.md)- [西行寺幽幽子](./西行寺幽幽子.md)- [八意永琳](./八意永琳.md)- [蓬莱山辉夜](./蓬莱山辉夜.md)- [东风谷早苗](./东风谷早苗.md)- [洩矢诹访子](./洩矢诹访子.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [HAKUREI-KOUMA RALLY 2010](./HAKUREI-KOUMA_RALLY_2010.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [魂魄妖梦](./魂魄妖梦.md)
+- [西行寺幽幽子](./西行寺幽幽子.md)
+- [八意永琳](./八意永琳.md)
+- [蓬莱山辉夜](./蓬莱山辉夜.md)
+- [东风谷早苗](./东风谷早苗.md)
+- [洩矢诹访子](./洩矢诹访子.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

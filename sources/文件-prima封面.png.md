@@ -1,6 +1,6 @@
 # 文件:prima封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\90\ns6%3Aprima%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\90\ns6%3Aprima%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 おるたねーと | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [prima](./prima.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
+- [prima](./prima.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-源地址：[direct image link (original size)](https://blog-imgs-19-origin.fc2.com/o/r/u/orutaneito/137335_1.jpg), [source page](http://orutaneito.blog56.fc2.com/blog-entry-4.html)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://blog-imgs-19-origin.fc2.com/o/r/u/orutaneito/137335_1.jpg), [source page](http://orutaneito.blog56.fc2.com/blog-entry-4.html)  
 
 ---
 

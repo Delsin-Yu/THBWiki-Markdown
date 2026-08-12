@@ -1,6 +1,6 @@
 # 文件:東華扇の舞_～Triple_Tea_Time～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3a\ns6%3A%E6%9D%B1%E8%8F%AF%E6%89%87%E3%81%AE%E8%88%9E_%EF%BD%9ETriple_Tea_Time%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3a\ns6%3A%E6%9D%B1%E8%8F%AF%E6%89%87%E3%81%AE%E8%88%9E_%EF%BD%9ETriple_Tea_Time%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 华绢花 | 封面图片
 
@@ -8,11 +8,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [東華扇の舞 ～Triple Tea Time～](./東華扇の舞_～Triple_Tea_Time～.md)  
-该封面包含的角色：- [红美铃](./红美铃.md)- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [上白泽慧音](./上白泽慧音.md)
-
-
-
+- [東華扇の舞 ～Triple Tea Time～](./東華扇の舞_～Triple_Tea_Time～.md)该封面包含的角色：
+- [红美铃](./红美铃.md)
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [上白泽慧音](./上白泽慧音.md)
 
 
 ---

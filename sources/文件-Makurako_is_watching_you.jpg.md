@@ -1,12 +1,8 @@
 # 文件:Makurako_is_watching_you.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\43\ns6%3AMakurako_is_watching_you%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\43\ns6%3AMakurako_is_watching_you%2Ejpg.html -->
 
 东方警察
-
-
-
-
 
 
 ---

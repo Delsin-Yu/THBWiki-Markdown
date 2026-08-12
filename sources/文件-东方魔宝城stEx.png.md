@@ -1,12 +1,8 @@
 # 文件:东方魔宝城stEx.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a0\ns6%3A%E4%B8%9C%E6%96%B9%E9%AD%94%E5%AE%9D%E5%9F%8EstEx%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a0\ns6%3A%E4%B8%9C%E6%96%B9%E9%AD%94%E5%AE%9D%E5%9F%8EstEx%2Epng.html -->
 
 東方邪星章製作チーム
-
-
-
-
 
 
 ---

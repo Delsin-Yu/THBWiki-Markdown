@@ -1,12 +1,8 @@
 # 文件:琪露诺（花映塚体验版Manual）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a3\ns6%3A%E7%90%AA%E9%9C%B2%E8%AF%BA%EF%BC%88%E8%8A%B1%E6%98%A0%E5%A1%9A%E4%BD%93%E9%AA%8C%E7%89%88Manual%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a3\ns6%3A%E7%90%AA%E9%9C%B2%E8%AF%BA%EF%BC%88%E8%8A%B1%E6%98%A0%E5%A1%9A%E4%BD%93%E9%AA%8C%E7%89%88Manual%EF%BC%89%2Ejpg.html -->
 
 Manual配图 | 东方花映塚 | 琪露诺
-
-
-
-
 
 
 ---

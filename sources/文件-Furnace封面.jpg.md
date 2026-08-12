@@ -1,6 +1,6 @@
 # 文件:Furnace封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\91\ns6%3AFurnace%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\91\ns6%3AFurnace%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Releska | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Releska | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Furnace](./Furnace.md)  
-该封面包含的角色：- [蓬莱人形](./蓬莱人形.md)
-
-
-
+- [Furnace](./Furnace.md)该封面包含的角色：
+- [蓬莱人形](./蓬莱人形.md)
 
 
 ---

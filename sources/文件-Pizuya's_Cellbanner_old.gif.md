@@ -1,14 +1,11 @@
 # 文件:Pizuya's_Cellbanner_old.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4e\ns6%3APizuya%27s_Cellbanner_old%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4e\ns6%3APizuya%27s_Cellbanner_old%2Egif.html -->
 
 Pizuya's_Cell | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

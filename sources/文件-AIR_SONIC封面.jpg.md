@@ -1,6 +1,6 @@
 # 文件:AIR_SONIC封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\03\ns6%3AAIR_SONIC%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\03\ns6%3AAIR_SONIC%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 モジャモジャごりら病 | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [AIR SONIC](./AIR_SONIC.md)  
-该封面包含的角色：- [河城荷取](./河城荷取.md)
+- [AIR SONIC](./AIR_SONIC.md)该封面包含的角色：
+- [河城荷取](./河城荷取.md)
 
   
-源地址：[suruga-ya](https://www.suruga-ya.jp/product/detail/186125582)
-  
-
-
-
-
+源地址：[suruga-ya](https://www.suruga-ya.jp/product/detail/186125582)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 游戏攻略/STG常用工具/VsyncPatch
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\3\3c\ns0%3A%E6%B8%B8%E6%88%8F%E6%94%BB%E7%95%A5%2FSTG%E5%B8%B8%E7%94%A8%E5%B7%A5%E5%85%B7%2FVsyncPatch.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\3\3c\ns0%3A%E6%B8%B8%E6%88%8F%E6%94%BB%E7%95%A5%2FSTG%E5%B8%B8%E7%94%A8%E5%B7%A5%E5%85%B7%2FVsyncPatch.html -->
 
 
 
@@ -9,42 +9,33 @@
 
 - [1 简介](#简介)
 - [2 基本使用方法](#基本使用方法)
-
   - [2.1 配合thcrap使用](#配合thcrap使用)
-
 
 
 - [3 配置文件介绍](#配置文件介绍)
 - [4 实用性功能](#实用性功能)
-
   - [4.1 游戏窗口设置](#游戏窗口设置)
   - [4.2 replay快进](#replay快进)
   - [4.3 replay慢放](#replay慢放)
   - [4.4 游戏加速](#游戏加速)
 
 
-
 - [5 修复性功能](#修复性功能)
-
   - [5.1 风神录弑神炮](#风神录弑神炮)
-
 
 
 - [6 注释](#注释)
 
 
-
-
-
 ## 简介
   
-VsyncPatch（直译：垂直同步补丁），一般简称为  **VPatch**  或  **VP** 。下文统一简称为VP。
+VsyncPatch（直译：垂直同步补丁），一般简称为 **VPatch** 或 **VP**。下文统一简称为VP。
   
   
 功能强大的辅助软件，一般用于减少射击作游戏的逻辑延迟，但也具有很多其他实用功能。
   
   
-支持红魔乡到绀珠传的所有射击作游戏（包括 **小数点射击作** 及 **黄昏酒场** ），以及东方弹幕风的0.12m版本（需先进行UPX展开）。
+支持红魔乡到绀珠传的所有射击作游戏（包括**小数点射击作**及**黄昏酒场**），以及东方弹幕风的0.12m版本（需先进行UPX展开）。
   
   
 请尽量使用日文原版游戏，或类似于启动器的汉化版游戏（如喵玉汉化和thcrap），否则会出现难以预料的错误。
@@ -63,12 +54,11 @@ VsyncPatch（直译：垂直同步补丁），一般简称为  **VPatch**  或  
 
 ## 基本使用方法
   
-将  **vpatch.exe** 、 **vpatch.ini** ，以及对应游戏的 **thxx.dll**  共 **3个文件** 放入游戏文件夹。
+将 **vpatch.exe**、**vpatch.ini**，以及对应游戏的**thxx.dll** 共**3个文件**放入游戏文件夹。
   
   
 thxx.dll中的xx为游戏代号，详见下表：
   
-
 
 <table>
 
@@ -129,7 +119,7 @@ thxx.dll中的xx为游戏代号，详见下表：
   </tr>
   <tr>
     <td>14</td>
-    <td>辉针城<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">1</a></sup></td>
+    <td>辉针城<span>[^cite_note-1]</span></td>
     <td>vpatch_th14.dll</td>
   </tr>
   <tr>
@@ -160,14 +150,12 @@ thxx.dll中的xx为游戏代号，详见下表：
 </tbody></table>
 </td></tr></tbody></table>
 
-
   
 调整好vpatch.ini后，运行vpatch.exe即可。
   
   
 VP对于游戏版本也有要求，一般要求为游戏的最新版本，详见下表：
   
-
 
 <table>
 
@@ -218,7 +206,7 @@ VP对于游戏版本也有要求，一般要求为游戏的最新版本，详见
   </tr>
   <tr>
     <td>辉针城</td>
-    <td>1.00b<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">2</a></sup></td>
+    <td>1.00b<span>[^cite_note-2]</span></td>
   </tr>
   <tr>
     <td>绀珠传</td>
@@ -238,11 +226,10 @@ VP对于游戏版本也有要求，一般要求为游戏的最新版本，详见
   </tr>
   <tr>
     <td>弹幕风</td>
-    <td>v0.12m<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">3</a></sup></td>
+    <td>v0.12m<span>[^cite_note-3]</span></td>
   </tr>
 </tbody></table>
 </td></tr></tbody></table>
-
 
 
 ### 配合thcrap使用
@@ -259,9 +246,7 @@ ini文件的格式如下：
   
 
 ```
-[这是一个节]
-配置项（键） = 值
-```
+[这是一个节]配置项（键） = 值```
 
   
 一对键和值的组合称为参数，所有的参数以节为单位组织在一起。
@@ -270,66 +255,45 @@ ini文件的格式如下：
 在某个节的声明之后，直到一个新的节的声明为止，所有的参数都属于该节。节没有显式的结束标识符。
   
   
-<big>本文中所有的参数前都会提示该参数归属的节，但 **一个节只需要声明一次，同属于这个节的参数只要加在后面即可。** </big>
-  
+<big>本文中所有的参数前都会提示该参数归属的节，但**一个节只需要声明一次，同属于这个节的参数只要加在后面即可。**</big>  
   
 正确示例：
   
 
 ```
-[Section1]
-Setting1 = 1
-Setting2 = 1
-[Section2]
-Setting3 = 1
-```
+[Section1]Setting1 = 1Setting2 = 1[Section2]Setting3 = 1```
 
   
 错误示例：
   
 
 ```
-[Section1]
-Setting1 = 1
-[Section1]
-Setting2 = 1
-[Section2]
-Setting3 = 1
-```
+[Section1]Setting1 = 1[Section1]Setting2 = 1[Section2]Setting3 = 1```
 
 
 ## 实用性功能
 
 ### 游戏窗口设置
+
 ```
-[Window]
-enabled = 1    ;是否使以下配置项生效。0为禁用，0以外为启用
-X = 0    ;画面顶点横坐标，单位像素
-Y = 0    ;画面顶点纵坐标，单位像素
-Width = 640    ;画面宽度，单位像素
-Height = 480    ;画面高度，单位像素
-TitleBar = 1    ;是否使用标题栏，0为不使用，0以外为使用
-AlwaysOnTop = 0    ;是否使用窗口置顶，0为不使用，0以外为使用
-```
+[Window]enabled = 1 ;是否使以下配置项生效。0为禁用，0以外为启用X = 0 ;画面顶点横坐标，单位像素Y = 0 ;画面顶点纵坐标，单位像素Width = 640 ;画面宽度，单位像素Height = 480 ;画面高度，单位像素TitleBar = 1 ;是否使用标题栏，0为不使用，0以外为使用AlwaysOnTop = 0 ;是否使用窗口置顶，0为不使用，0以外为使用```
 
   
 注意事项：
   
 
-- 请务必保持  **enabled**  这一配置项位于最上方（ **[Window]**  的下方），否则可能无法使位于该项上方的配置项生效。
+- 请务必保持 **enabled** 这一配置项位于最上方（**[Window]** 的下方），否则可能无法使位于该项上方的配置项生效。
 - 画面顶点指的是游戏画面左上角的点（也就是不包括标题栏的意思）
 - 如果不使用标题栏，你可以避免系统底部任务栏将游戏遮挡住的情况，但你将无法通过鼠标拖动来改变窗口位置，也就是固定死了。
 
 
 ### replay快进
   
-VP为 **红妖永花** 四作添加了rep快进的功能。
+VP为**红妖永花**四作添加了rep快进的功能。
   
 
 ```
-[Option]
-ReplaySkipFPS = 240    ;快进时的帧率，单位fps（帧每秒）
-```
+[Option]ReplaySkipFPS = 240 ;快进时的帧率，单位fps（帧每秒）```
 
   
 使用方法：长按Ctrl键（准确来说是跳过键）
@@ -349,9 +313,7 @@ VP为所有作品添加了rep慢放功能。
   
 
 ```
-[Option]
-ReplaySlowFPS = 30    ;慢放时的帧率，单位fps（帧每秒）
-```
+[Option]ReplaySlowFPS = 30 ;慢放时的帧率，单位fps（帧每秒）```
 
   
 使用方法：长按shift键（准确来说是低速键）
@@ -360,16 +322,14 @@ ReplaySlowFPS = 30    ;慢放时的帧率，单位fps（帧每秒）
 注意事项：默认值为30。如无需修改可以无视此条。
   
 
-
 ### 游戏加速
   
 VP可以通过设置运行帧率来使游戏加速运行。
   
 
 ```
-[Option]
-GameFPS = 60    ;游戏运行帧率，单位fps（帧每秒）。数值大于等于60才会生效。
-```
+[Option]GameFPS = 60 ;游戏运行帧率，单位fps（帧每秒）。数值大于等于60才会生效。```
+
 
 - 例如设置为90则相当于游戏整体加速至1.5倍。
 
@@ -382,19 +342,15 @@ GameFPS = 60    ;游戏运行帧率，单位fps（帧每秒）。数值大于等
   
 
 ```
-[Option]
-BugFixTh10Power3 = 0    ;0为不修复，1为修复。
-```
+[Option]BugFixTh10Power3 = 0 ;0为不修复，1为修复。```
+
 
 - 默认值为0（不修复）
 - 使用修复功能时保存的贯通机体replay在原版中无法正常播放。
 
-
 [^cite_note-1]: 疑似第三方添加支持。
-
-
-
-
+[^cite_note-2]: 疑似第三方添加支持，没有文档。
+[^cite_note-3]: 需要使用vp文件夹内附带的弹幕风启动器。
 
 ---
 

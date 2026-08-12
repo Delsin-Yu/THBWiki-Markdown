@@ -1,12 +1,8 @@
 # 文件:幻想巫女by绯神REI.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6c\ns6%3A%E5%B9%BB%E6%83%B3%E5%B7%AB%E5%A5%B3by%E7%BB%AF%E7%A5%9EREI%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6c\ns6%3A%E5%B9%BB%E6%83%B3%E5%B7%AB%E5%A5%B3by%E7%BB%AF%E7%A5%9EREI%2Ejpg.html -->
 
 蓬莱少女绘幻想
-
-
-
-
 
 
 ---

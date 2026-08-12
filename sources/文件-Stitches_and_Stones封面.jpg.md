@@ -1,6 +1,6 @@
 # 文件:Stitches_and_Stones封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e6\ns6%3AStitches_and_Stones%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e6\ns6%3AStitches_and_Stones%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Releska | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@ Releska | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Stitches and Stones](./Stitches_and_Stones.md)  
-该封面包含的角色：- [戎璎花](./戎璎花.md)
+- [Stitches and Stones](./Stitches_and_Stones.md)该封面包含的角色：
+- [戎璎花](./戎璎花.md)
 
   
-源地址：[官网](https://releska.com/2020/05/10/rele-13-jp/) [原图](https://releska.files.wordpress.com/2020/04/cover-art.jpg)
-  
-
-
-
-
+源地址：[官网](https://releska.com/2020/05/10/rele-13-jp/) [原图](https://releska.files.wordpress.com/2020/04/cover-art.jpg)  
 
 ---
 

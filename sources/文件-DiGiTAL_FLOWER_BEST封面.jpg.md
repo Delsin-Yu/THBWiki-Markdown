@@ -1,6 +1,6 @@
 # 文件:DiGiTAL_FLOWER_BEST封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\99\ns6%3ADiGiTAL_FLOWER_BEST%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\99\ns6%3ADiGiTAL_FLOWER_BEST%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 DiGiTAL_WiNG | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ DiGiTAL_WiNG | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [DiGiTAL FLOWER BEST](./DiGiTAL_FLOWER_BEST.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [DiGiTAL FLOWER BEST](./DiGiTAL_FLOWER_BEST.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:ぎゃてぶる_-Echo's_Sky_High-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f7\ns6%3A%E3%81%8E%E3%82%83%E3%81%A6%E3%81%B6%E3%82%8B_-Echo%27s_Sky_High-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f7\ns6%3A%E3%81%8E%E3%82%83%E3%81%A6%E3%81%B6%E3%82%8B_-Echo%27s_Sky_High-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 落ち葉
 
@@ -10,11 +10,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [ぎゃてぶる -Echo's Sky High-](./ぎゃてぶる_-Echo's_Sky_High-.md)  
-该封面包含的角色：- [幽谷响子](./幽谷响子.md)- [今泉影狼](./今泉影狼.md)- 原创角色 (未找到链接)
-
-
-
+- [ぎゃてぶる -Echo's Sky High-](./ぎゃてぶる_-Echo's_Sky_High-.md)该封面包含的角色：
+- [幽谷响子](./幽谷响子.md)
+- [今泉影狼](./今泉影狼.md)
+- 原创角色 (未找到链接)
 
 
 ---

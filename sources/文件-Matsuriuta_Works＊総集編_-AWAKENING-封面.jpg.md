@@ -1,6 +1,6 @@
 # 文件:Matsuriuta_Works＊総集編_-AWAKENING-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\08\ns6%3AMatsuriuta_Works%EF%BC%8A%E7%B7%8F%E9%9B%86%E7%B7%A8_-AWAKENING-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\08\ns6%3AMatsuriuta_Works%EF%BC%8A%E7%B7%8F%E9%9B%86%E7%B7%A8_-AWAKENING-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Rainbow_Vanilla | 同人志封面 | 封面图片
 
@@ -10,11 +10,9 @@ Rainbow_Vanilla | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Matsuriuta Works＊総集編 -AWAKENING-](./Matsuriuta_Works＊総集編_-AWAKENING-.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [Matsuriuta Works＊総集編 -AWAKENING-](./Matsuriuta_Works＊総集編_-AWAKENING-.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

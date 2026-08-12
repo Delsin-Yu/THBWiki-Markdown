@@ -1,10 +1,11 @@
 # 東方命雨滴_～_Unification_of_the_Artful_Rain./符卡
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\c\c9\ns0%3A%E6%9D%B1%E6%96%B9%E5%91%BD%E9%9B%A8%E6%BB%B4_%EF%BD%9E_Unification_of_the_Artful_Rain%2E%2F%E7%AC%A6%E5%8D%A1.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\c\c9\ns0%3A%E6%9D%B1%E6%96%B9%E5%91%BD%E9%9B%A8%E6%BB%B4_%EF%BD%9E_Unification_of_the_Artful_Rain%2E%2F%E7%AC%A6%E5%8D%A1.html -->
 
 Τeam_αlternative_Σnding
 
-: - [Stage 1 符卡](./東方命雨滴_～_Unification_of_the_Artful_Rain.-符卡-Stage_1.md)
+: 
+- [Stage 1 符卡](./東方命雨滴_～_Unification_of_the_Artful_Rain.-符卡-Stage_1.md)
 - [Stage 2 符卡](./東方命雨滴_～_Unification_of_the_Artful_Rain.-符卡-Stage_2.md)
 - [Stage 3 符卡](./東方命雨滴_～_Unification_of_the_Artful_Rain.-符卡-Stage_3.md)
 - Stage 4 符卡 (未找到链接)
@@ -12,9 +13,6 @@
 - Stage 6 符卡 (未找到链接)
 - Extra关卡 符卡 (未找到链接)
 - Secret关卡 符卡 (未找到链接)
-
-
-
 
 
 

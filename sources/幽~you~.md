@@ -1,29 +1,25 @@
 # 幽~you~
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\0e\ns0%3A%E5%B9%BD%7Eyou%7E.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\0e\ns0%3A%E5%B9%BD%7Eyou%7E.html -->
 
 2017年8月11日 由 落ち葉 于 Comic Market 92 发布的漫画同人志，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人志 (未找到链接)** 的词条
-
+**[二次创作同人志](./二次创作.md#同人志)**的词条
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-幽~you~封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/3/34/%E5%B9%BD~you~%E5%B0%81%E9%9D%A2.jpg/99px-%E5%B9%BD~you~%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="99" height="140" srcset="https://upload.thwiki.cc/thumb/3/34/%E5%B9%BD~you~%E5%B0%81%E9%9D%A2.jpg/149px-%E5%B9%BD~you~%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/3/34/%E5%B9%BD~you~%E5%B0%81%E9%9D%A2.jpg/198px-%E5%B9%BD~you~%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="850" data-file-height="1200"></a><div class="cover-char">角色：<a href="./幽谷响子.md" title="幽谷响子">幽谷响子</a></div></td>
 </tr><tr><td class="label">名称</td><td colspan="2"> 幽~you~ </td></tr><tr><td class="label">制作方</td><td><a href="./落ち葉.md" title="落ち葉">落ち葉</a></td><td class="cover-artwork" rowspan="5" style="min-width:140px;"><a href="./文件-幽~you~封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/3/34/%E5%B9%BD~you~%E5%B0%81%E9%9D%A2.jpg/99px-%E5%B9%BD~you~%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="99" height="140" srcset="https://upload.thwiki.cc/thumb/3/34/%E5%B9%BD~you~%E5%B0%81%E9%9D%A2.jpg/149px-%E5%B9%BD~you~%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/3/34/%E5%B9%BD~you~%E5%B0%81%E9%9D%A2.jpg/198px-%E5%B9%BD~you~%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="850" data-file-height="1200"></a><div class="cover-char">角色：<a href="./幽谷响子.md" title="幽谷响子">幽谷响子</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2017-08-11&#160;（<a href="/展会作品列表?e=Comic+Market%2392">Comic Market 92</a>）</td></tr><tr><td class="label">类型</td><td>漫画</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">售价</td><td>会场售价：500日元</td></tr>
+</tr><tr><td class="label">首发日期</td><td>2017-08-11 （<a href="./展会作品列表.md#92">Comic Market 92</a>）</td></tr><tr><td class="label">类型</td><td>漫画</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">售价</td><td>会场售价：500日元</td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/64141590">https://www.pixiv.net/artworks/64141590</a></td></tr></tbody></table>
 
 幽~you~（同人志，落ち葉，2017） - 2017年8月11日 由 落ち葉 于 Comic Market 92 发布的漫画同人志，分级为 一般向
-
 ## Staff
+
 - 秋乃 楓 (未找到链接)
 
 
 ## 评论
-
-
-
 
 ---
 

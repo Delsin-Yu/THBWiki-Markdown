@@ -1,6 +1,6 @@
 # 文件:Luna,_Sol,_Tiempo_y_Hombre／月と日と時と人封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a5\ns6%3ALuna%2C_Sol%2C_Tiempo_y_Hombre%EF%BC%8F%E6%9C%88%E3%81%A8%E6%97%A5%E3%81%A8%E6%99%82%E3%81%A8%E4%BA%BA%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a5\ns6%3ALuna%2C_Sol%2C_Tiempo_y_Hombre%EF%BC%8F%E6%9C%88%E3%81%A8%E6%97%A5%E3%81%A8%E6%99%82%E3%81%A8%E4%BA%BA%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ジャージと愉快な仲間たち | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Luna, Sol, Tiempo y Hombre／月と日と時と人](./Luna,_Sol,_Tiempo_y_Hombre／月と日と時と人.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
-
-
-
+- [Luna, Sol, Tiempo y Hombre／月と日と時と人](./Luna,_Sol,_Tiempo_y_Hombre／月と日と時と人.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
 
 
 ---

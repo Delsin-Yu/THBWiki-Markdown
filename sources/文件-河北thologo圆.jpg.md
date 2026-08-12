@@ -1,12 +1,8 @@
 # 文件:河北thologo圆.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\16\ns6%3A%E6%B2%B3%E5%8C%97thologo%E5%9C%86%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\16\ns6%3A%E6%B2%B3%E5%8C%97thologo%E5%9C%86%2Ejpg.html -->
 
 华胥梦蝶祭 | 活动LOGO
-
-
-
-
 
 
 ---

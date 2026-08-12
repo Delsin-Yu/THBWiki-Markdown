@@ -1,16 +1,11 @@
 # 文件:ビターショコラ抹茶ラテbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\80\ns6%3A%E3%83%93%E3%82%BF%E3%83%BC%E3%82%B7%E3%83%A7%E3%82%B3%E3%83%A9%E6%8A%B9%E8%8C%B6%E3%83%A9%E3%83%86banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\80\ns6%3A%E3%83%93%E3%82%BF%E3%83%BC%E3%82%B7%E3%83%A7%E3%82%B3%E3%83%A9%E6%8A%B9%E8%8C%B6%E3%83%A9%E3%83%86banner%2Epng.html -->
 
 ビターショコラ抹茶ラテ | 社团LOGO
 
   
-源地址：[[1]](https://static.wixstatic.com/media/0e55fe_d28e4651827140438d3ba2e78e081c05~mv2.png/v1/fill/w_517,h_92,al_c,usm_0.66_1.00_0.01/0e55fe_d28e4651827140438d3ba2e78e081c05~mv2.png)
-  
-
-
-
-
+源地址：[\[1\]](https://static.wixstatic.com/media/0e55fe_d28e4651827140438d3ba2e78e081c05~mv2.png/v1/fill/w_517,h_92,al_c,usm_0.66_1.00_0.01/0e55fe_d28e4651827140438d3ba2e78e081c05~mv2.png)  
 
 ---
 

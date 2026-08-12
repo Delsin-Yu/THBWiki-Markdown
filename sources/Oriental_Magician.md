@@ -1,40 +1,30 @@
 # Oriental_Magician
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\2d\ns0%3AOriental_Magician.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\2d\ns0%3AOriental_Magician.html -->
 
 由 ZUN 创作的官方曲目，原名 Oriental Magician
 
 本页是关于东方Project  
- **原作音乐** 的词条
-
+**原作音乐**的词条
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 出现作品](#出现作品)
 - [3 音乐文件](#音乐文件)
-
   - [3.1 东方灵异传](#东方灵异传)
   - [3.2 东方怪绮谈](#东方怪绮谈)
   - [3.3 幺乐团的历史 vol.5](#幺乐团的历史_vol.5)
 
 
-
 - [4 说明文本](#说明文本)
-
   - [4.1 东方灵异传](#东方灵异传_2)
   - [4.2 东方怪绮谈](#东方怪绮谈_2)
 
 
-
 - [5 其他资料](#其他资料)
-
   - [5.1 乐理资讯](#乐理资讯)
   - [5.2 分析考据](#分析考据)
   - [5.3 二次同人数据](#二次同人数据)
-
-
-
-
 
 
 
@@ -44,7 +34,6 @@
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">Oriental Magician</td></tr><tr><td><b>译名</b></td><td>Oriental Magician</td></tr><tr><td><b>其他译名</b></td><td>东方的魔术师<br>东方的魔法使</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 Oriental Magician（曲目） - 由 ZUN 创作的官方曲目，原名 Oriental Magician
-
 ## 出现作品
 
 <table>
@@ -54,7 +43,6 @@ Oriental Magician（曲目） - 由 ZUN 创作的官方曲目，原名 Oriental 
 </tbody></table>
 
 
-
 ## 音乐文件
 
 ### 东方灵异传
@@ -62,23 +50,18 @@ Oriental Magician（曲目） - 由 ZUN 创作的官方曲目，原名 Oriental 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-Oriental_Magician.mp3.md" title="文件:Oriental Magician.mp3">Oriental_Magician.mp3</a><br><audio src="https://upload.thwiki.cc/6/6b/Oriental_Magician.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>ST3.MDT</td></tr><tr><td><b>音轨时长</b></td><td>5:18</td></tr></tbody></table>
 
 
-
 ### 东方怪绮谈
   
 YM2203(OPN)，FM26K音源版。
   
 
-
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th05_R_07_1.ogg.md" title="文件:th05 R 07 1.ogg">th05_R_07_1.ogg</a><br><audio src="https://upload.thwiki.cc/8/81/th05_R_07_1.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>R_06.M</td></tr><tr><td><b>音轨时长</b></td><td>1:45.963</td></tr></tbody></table>
-
 
   
 YM2608(OPNA)，FM86音源版。
   
 
-
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th05_R_07_2.ogg.md" title="文件:th05 R 07 2.ogg">th05_R_07_2.ogg</a><br><audio src="https://upload.thwiki.cc/2/23/th05_R_07_2.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>R_06.M2</td></tr><tr><td><b>音轨时长</b></td><td>1:45.693</td></tr></tbody></table>
-
 
 
 ### 幺乐团的历史 vol.5
@@ -86,16 +69,16 @@ YM2608(OPNA)，FM86音源版。
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-ha05_07.mp3.md" title="文件:ha05 07.mp3">ha05_07.mp3</a><br><audio src="https://upload.thwiki.cc/5/50/ha05_07.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track07.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>3:54</td></tr></tbody></table>
 
 
-
 ## 说明文本
 
 ### 东方灵异传
-- Music Test (未找到链接)
+
+- [Music Test](./东方灵异传-Music.md#魔界11至14面主题曲)
 
 　Ｏｒｉｅｎｔａｌ　Ｍａｇｉｃｉａｎ　　　　　　　　　Composer  ZUN
-
 ### 东方怪绮谈
-- Music Room (未找到链接)
+
+- [Music Room](./东方怪绮谈-Music.md#魔界11至14面主题曲)
 
 　　　东方灵异传  愉快Arrange版  
 　　　　魔界１１～１４面主题曲  
@@ -107,10 +90,10 @@ YM2608(OPNA)，FM86音源版。
 ＺＵＮ（太田）  
 灵异传曲目。  
 特别Arrange版
-
 ## 其他资料
 
 ### 乐理资讯
+
 - BPM
 
 
@@ -135,23 +118,25 @@ YM2608(OPNA)，FM86音源版。
 </td></tr></tbody></table>
 
 
-
 ### 分析考据
   
- **Oriental Magician** 
-  
+**Oriental Magician**  
 东方魔法使
   
 
-- oriental：东方的。
+- oriental：东方的。 
   - 东方Project？
 
-- magician：魔法师；魔法使；魔术师，变戏法的人。
-  - [雾雨魔理沙](./雾雨魔理沙.md)？
+
+- magician：魔法师；魔法使；魔术师，变戏法的人。 
+  - [雾雨魔理沙](./雾雨魔理沙.md)？ 
     - 魔理沙的称号大多是魔法使或魔术师。
 
-  - [魔术师梅莉](./魔术师梅莉.md)？
+
+  - [魔术师梅莉](./魔术师梅莉.md)？ 
     - 梅莉的能力为「看得见结界的能力」（官方资料未直接说明，仅作推测）。ZUN将梅莉称作「魔术师」，可能是因为梅莉在故事中的能力使她能够看到一种矛盾的多维世界，而魔术师的魔术能够将诸多矛盾的事物「统一」在一起。
+
+
 
 
 
@@ -168,17 +153,6 @@ YM2608(OPNA)，FM86音源版。
 <tr><td>Arrange</td><td>23</td></tr>
 <tr><td>Vocal率</td><td>32.35%</td></tr>
 </tbody></table>
-
-
-
-
-  
-  
-
-  
-
-
-
 
 
 ---

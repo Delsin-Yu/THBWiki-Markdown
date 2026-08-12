@@ -1,6 +1,6 @@
 # 文件:RAINBOW_SOUNDS封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\54\ns6%3ARAINBOW_SOUNDS%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\54\ns6%3ARAINBOW_SOUNDS%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ちょこふぁん | 专辑封面 | 封面图片
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [RAINBOW SOUNDS](./RAINBOW_SOUNDS.md)  
-该封面包含的角色：- [天弓千亦](./天弓千亦.md)- [姬虫百百世](./姬虫百百世.md)
-
-
-
+- [RAINBOW SOUNDS](./RAINBOW_SOUNDS.md)该封面包含的角色：
+- [天弓千亦](./天弓千亦.md)
+- [姬虫百百世](./姬虫百百世.md)
 
 
 ---

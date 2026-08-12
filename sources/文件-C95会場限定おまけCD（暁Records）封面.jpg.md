@@ -1,6 +1,6 @@
 # 文件:C95会場限定おまけCD（暁Records）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4d\ns6%3AC95%E4%BC%9A%E5%A0%B4%E9%99%90%E5%AE%9A%E3%81%8A%E3%81%BE%E3%81%91CD%EF%BC%88%E6%9A%81Records%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4d\ns6%3AC95%E4%BC%9A%E5%A0%B4%E9%99%90%E5%AE%9A%E3%81%8A%E3%81%BE%E3%81%91CD%EF%BC%88%E6%9A%81Records%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 暁Records
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [C95会場限定おまけCD（暁Records）](./C95会場限定おまけCD（暁Records）.md)  
-该封面包含的角色：- [秋穰子](./秋穰子.md)
-
-
-
+- [C95会場限定おまけCD（暁Records）](./C95会場限定おまけCD（暁Records）.md)该封面包含的角色：
+- [秋穰子](./秋穰子.md)
 
 
 ---

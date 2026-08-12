@@ -1,6 +1,6 @@
 # 文件:紅く唄う魂_-Instrument_Ver.-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\58\ns6%3A%E7%B4%85%E3%81%8F%E5%94%84%E3%81%86%E9%AD%82_-Instrument_Ver%2E-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\58\ns6%3A%E7%B4%85%E3%81%8F%E5%94%84%E3%81%86%E9%AD%82_-Instrument_Ver%2E-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 少女フラクタル
 
@@ -11,9 +11,6 @@
   
 
 - [紅く唄う魂 -Instrument Ver.-](./紅く唄う魂_-Instrument_Ver.-.md)
-
-
-
 
 
 ---

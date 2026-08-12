@@ -1,6 +1,6 @@
 # 文件:あなたのことが知りたい：_REIMU_SIDE封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8d\ns6%3A%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AE%E3%81%93%E3%81%A8%E3%81%8C%E7%9F%A5%E3%82%8A%E3%81%9F%E3%81%84%EF%BC%9A_REIMU_SIDE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8d\ns6%3A%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AE%E3%81%93%E3%81%A8%E3%81%8C%E7%9F%A5%E3%82%8A%E3%81%9F%E3%81%84%EF%BC%9A_REIMU_SIDE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 太陽光工場 | 封面图片
 
@@ -10,16 +10,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [あなたのことが知りたい： REIMU SIDE](./あなたのことが知りたい：_REIMU_SIDE.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [あなたのことが知りたい： REIMU SIDE](./あなたのことが知りたい：_REIMU_SIDE.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
 
   
-[Pixiv artwork ID: 35921450](https://www.pixiv.net/artworks/35921450)
-  
-
-
-
-
+[Pixiv artwork ID: 35921450](https://www.pixiv.net/artworks/35921450)  
 
 ---
 

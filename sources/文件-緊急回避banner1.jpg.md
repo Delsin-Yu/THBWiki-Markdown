@@ -1,12 +1,8 @@
 # 文件:緊急回避banner1.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\ba\ns6%3A%E7%B7%8A%E6%80%A5%E5%9B%9E%E9%81%BFbanner1%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\ba\ns6%3A%E7%B7%8A%E6%80%A5%E5%9B%9E%E9%81%BFbanner1%2Ejpg.html -->
 
 社团LOGO | 緊急回避
-
-
-
-
 
 
 ---

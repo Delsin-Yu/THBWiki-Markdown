@@ -1,6 +1,6 @@
 # 文件:Crazy_Sweets封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f9\ns6%3ACrazy_Sweets%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f9\ns6%3ACrazy_Sweets%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ClearLeMel | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ ClearLeMel | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Crazy Sweets](./Crazy_Sweets.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [Crazy Sweets](./Crazy_Sweets.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
   
-源地址：[[1]](http://clmel.com/discography/img/jac.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://clmel.com/discography/img/jac.jpg)  
 
 ---
 

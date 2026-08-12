@@ -1,6 +1,6 @@
 # 文件:FM妖々夢封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\be\ns6%3AFM%E5%A6%96%E3%80%85%E5%A4%A2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\be\ns6%3AFM%E5%A6%96%E3%80%85%E5%A4%A2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 JUDSTYLE | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ JUDSTYLE | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [FM妖々夢](./FM妖々夢.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [FM妖々夢](./FM妖々夢.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

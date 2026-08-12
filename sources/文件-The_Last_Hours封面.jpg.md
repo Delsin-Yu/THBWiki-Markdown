@@ -1,6 +1,6 @@
 # 文件:The_Last_Hours封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7f\ns6%3AThe_Last_Hours%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7f\ns6%3AThe_Last_Hours%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Last_Dream | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Last_Dream | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [The Last Hours](./The_Last_Hours.md)  
-该封面包含的角色：- [古明地恋](./古明地恋.md)
-
-
-
+- [The Last Hours](./The_Last_Hours.md)该封面包含的角色：
+- [古明地恋](./古明地恋.md)
 
 
 ---

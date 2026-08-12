@@ -1,16 +1,11 @@
 # 文件:ぶるっくりん☆すてーしょんbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3f\ns6%3A%E3%81%B6%E3%82%8B%E3%81%A3%E3%81%8F%E3%82%8A%E3%82%93%E2%98%86%E3%81%99%E3%81%A6%E3%83%BC%E3%81%97%E3%82%87%E3%82%93banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3f\ns6%3A%E3%81%B6%E3%82%8B%E3%81%A3%E3%81%8F%E3%82%8A%E3%82%93%E2%98%86%E3%81%99%E3%81%A6%E3%83%BC%E3%81%97%E3%82%87%E3%82%93banner%2Epng.html -->
 
 ぶるっくりん☆すてーしょん | 社团LOGO
 
   
-源地址：[[1]](https://blog-imgs-45.fc2.com/b/r/o/brooklynstation/brookst.png)
-  
-
-
-
-
+源地址：[\[1\]](https://blog-imgs-45.fc2.com/b/r/o/brooklynstation/brookst.png)  
 
 ---
 

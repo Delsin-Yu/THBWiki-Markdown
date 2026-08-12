@@ -1,12 +1,11 @@
 # 游戏攻略/STG术语对照
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\a\aa\ns0%3A%E6%B8%B8%E6%88%8F%E6%94%BB%E7%95%A5%2FSTG%E6%9C%AF%E8%AF%AD%E5%AF%B9%E7%85%A7.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\a\aa\ns0%3A%E6%B8%B8%E6%88%8F%E6%94%BB%E7%95%A5%2FSTG%E6%9C%AF%E8%AF%AD%E5%AF%B9%E7%85%A7.html -->
 
 概念 | 游戏攻略
 
 本页是说明东方Project  
- **相关概念定义** 的词条
-  
+**相关概念定义**的词条  
 本词条收录在中文圈内常用词汇、说法以及简称的日文与英文对照。
   
 
@@ -24,9 +23,6 @@
 - [5 其他](#其他)
 
 
-
-
-
 ## 通用
 
 <table>
@@ -42,7 +38,7 @@
 <td>shoot 'em up<br>shmup
 </td></tr>
 <tr>
-<td><a href="/%E6%B8%B8%E6%88%8F%E6%94%BB%E7%95%A5/STG%E6%9C%AF%E8%AF%AD#弹幕" title="游戏攻略/STG术语">弹幕</a></td>
+<td><a href="./游戏攻略-STG术语.md#弹幕" title="游戏攻略/STG术语">弹幕</a></td>
 <td>弾幕</td>
 <td>danmaku(指子弹)<br>bullet hell(指游戏类型)
 </td></tr>
@@ -54,7 +50,7 @@
 <tr>
 <td>基板</td>
 <td>基板</td>
-<td>PCB<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">1</a></sup><br>circuit board
+<td>PCB<span>[^cite_note-1]</span><br>circuit board
 </td></tr>
 <tr>
 <td>框体</td>
@@ -82,12 +78,12 @@
 <td>loop<br>round
 </td></tr>
 <tr>
-<td>关<br><a href="/%E6%B8%B8%E6%88%8F%E6%94%BB%E7%95%A5/STG%E6%9C%AF%E8%AF%AD#面" title="游戏攻略/STG术语">面</a></td>
+<td>关<br><a href="./游戏攻略-STG术语.md#面" title="游戏攻略/STG术语">面</a></td>
 <td>面</td>
 <td>s(tage)<br>l(evel)
 </td></tr>
 <tr>
-<td><a href="/%E6%B8%B8%E6%88%8F%E6%94%BB%E7%95%A5/STG%E6%9C%AF%E8%AF%AD#其他词汇俗语等" title="游戏攻略/STG术语">打分</a></td>
+<td><a href="./游戏攻略-STG术语.md#其他词汇俗语等" title="游戏攻略/STG术语">打分</a></td>
 <td>稼ぐ</td>
 <td>scoring
 </td></tr>
@@ -112,7 +108,7 @@
 <td>popcorn enemy<br>zako
 </td></tr>
 <tr>
-<td>中型机<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">2</a></sup></td>
+<td>中型机<span>[^cite_note-2]</span></td>
 <td>中型機</td>
 <td>midsized enemy
 </td></tr>
@@ -132,7 +128,7 @@
 <td>true last boss<br>TLB
 </td></tr>
 <tr>
-<td><a href="/%E6%B8%B8%E6%88%8F%E6%94%BB%E7%95%A5/STG%E6%9C%AF%E8%AF%AD#身" title="游戏攻略/STG术语">身</a></td>
+<td><a href="./游戏攻略-STG术语.md#身" title="游戏攻略/STG术语">身</a></td>
 <td>形態</td>
 <td>form<br>phase
 </td></tr>
@@ -142,12 +138,12 @@
 <td>familiar
 </td></tr>
 <tr>
-<td><a href="/%E6%B8%B8%E6%88%8F%E6%94%BB%E7%95%A5/STG%E6%9C%AF%E8%AF%AD#自机" title="游戏攻略/STG术语">自机</a></td>
+<td><a href="./游戏攻略-STG术语.md#自机" title="游戏攻略/STG术语">自机</a></td>
 <td>自機</td>
 <td>player ship<br>character
 </td></tr>
 <tr>
-<td><a href="/%E6%B8%B8%E6%88%8F%E6%94%BB%E7%95%A5/STG%E6%9C%AF%E8%AF%AD#子机" title="游戏攻略/STG术语">子机</a></td>
+<td><a href="./游戏攻略-STG术语.md#子机" title="游戏攻略/STG术语">子机</a></td>
 <td>オプション</td>
 <td>option
 </td></tr>
@@ -162,7 +158,7 @@
 <td>bomb
 </td></tr>
 <tr>
-<td>中弹/<a href="/%E6%B8%B8%E6%88%8F%E6%94%BB%E7%95%A5/STG%E6%9C%AF%E8%AF%AD#miss" title="游戏攻略/STG术语">miss</a></td>
+<td>中弹/<a href="./游戏攻略-STG术语.md#miss" title="游戏攻略/STG术语">miss</a></td>
 <td>被弾<br>ミス</td>
 <td>miss、death（名）<br> die、lose a life （动）
 </td></tr>
@@ -172,7 +168,7 @@
 <td>laser
 </td></tr>
 <tr>
-<td>激光环<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">3</a></sup></td>
+<td>激光环<span>[^cite_note-3]</span></td>
 <td>オーラ</td>
 <td>aura
 </td></tr>
@@ -219,7 +215,7 @@
 <tr>
 <td>手柄</td>
 <td>ゲームパッド</td>
-<td>gamepad<br>controller<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">4</a></sup>
+<td>gamepad<br>controller<span>[^cite_note-4]</span>
 </td></tr>
 <tr>
 <td>摇杆</td>
@@ -248,7 +244,6 @@
 </td></tr></tbody></table>
 
 
-
 ## 游戏
 
 <table>
@@ -269,7 +264,7 @@
 <td>break a chain/combo
 </td></tr>
 <tr>
-<td>基本分<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">5</a></sup></td>
+<td>基本分<span>[^cite_note-5]</span></td>
 <td>素点</td>
 <td>base point
 </td></tr>
@@ -279,7 +274,7 @@
 <td>multiplier
 </td></tr>
 <tr>
-<td>射击分<br>击打分<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">6</a></sup></td>
+<td>射击分<br>击打分<span>[^cite_note-6]</span></td>
 <td>撃ち込み点</td>
 <td>chip points<br>tick points
 </td></tr>
@@ -289,12 +284,12 @@
 <td>planned bomb
 </td></tr>
 <tr>
-<td>走行分<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">7</a></sup></td>
+<td>走行分<span>[^cite_note-7]</span></td>
 <td>走行点</td>
 <td>survival points
 </td></tr>
 <tr>
-<td><a href="/%E6%B8%B8%E6%88%8F%E6%94%BB%E7%95%A5/STG%E6%9C%AF%E8%AF%AD#判定点" title="游戏攻略/STG术语">判定点、中弹判定</a></td>
+<td><a href="./游戏攻略-STG术语.md#判定点" title="游戏攻略/STG术语">判定点、中弹判定</a></td>
 <td>当たり判定</td>
 <td>hitbox
 </td></tr>
@@ -304,7 +299,7 @@
 <td>invincibility
 </td></tr>
 <tr>
-<td><a href="/%E6%B8%B8%E6%88%8F%E6%94%BB%E7%95%A5/STG%E6%9C%AF%E8%AF%AD#Playrank" title="游戏攻略/STG术语">(play)rank</a></td>
+<td><a href="./游戏攻略-STG术语.md#Playrank" title="游戏攻略/STG术语">(play)rank</a></td>
 <td>ランク</td>
 <td>(play)rank
 </td></tr>
@@ -334,29 +329,29 @@
 <td>health bars
 </td></tr>
 <tr>
-<td><a href="/%E6%B8%B8%E6%88%8F%E6%94%BB%E7%95%A5/STG%E6%9C%AF%E8%AF%AD#增援" title="游戏攻略/STG术语">增援</a></td>
+<td><a href="./游戏攻略-STG术语.md#增援" title="游戏攻略/STG术语">增援</a></td>
 <td>早回し/遅回し</td>
 <td>bonus enemies<br>additional enemies
 </td></tr>
 <tr>
-<td><a href="/%E6%B8%B8%E6%88%8F%E6%94%BB%E7%95%A5/STG%E6%9C%AF%E8%AF%AD#安定" title="游戏攻略/STG术语">安定</a></td>
+<td><a href="./游戏攻略-STG术语.md#安定" title="游戏攻略/STG术语">安定</a></td>
 <td>安地(安全地帯)<br>安定</td>
 <td>safespot（所有类型的安定都这么描述）
 </td></tr>
 <tr>
-<td><a href="/%E6%B8%B8%E6%88%8F%E6%94%BB%E7%95%A5/STG%E6%9C%AF%E8%AF%AD#其他弹幕类型" title="游戏攻略/STG术语">开幕</a></td>
+<td><a href="./游戏攻略-STG术语.md#其他弹幕类型" title="游戏攻略/STG术语">开幕</a></td>
 <td>開幕</td>
 <td>opening
 </td></tr>
 <tr>
-<td><a href="/%E6%B8%B8%E6%88%8F%E6%94%BB%E7%95%A5/STG%E6%9C%AF%E8%AF%AD#道中" title="游戏攻略/STG术语">前半、后半道中</a></td>
+<td><a href="./游戏攻略-STG术语.md#道中" title="游戏攻略/STG术语">前半、后半道中</a></td>
 <td></td>
 <td>pre-midboss、post-midboss<br>first（second） half of the stage
 </td></tr>
 <tr>
-<td><a href="/%E6%B8%B8%E6%88%8F%E6%94%BB%E7%95%A5/STG%E6%9C%AF%E8%AF%AD#时符" title="游戏攻略/STG术语">时符</a></td>
+<td><a href="./游戏攻略-STG术语.md#时符" title="游戏攻略/STG术语">时符</a></td>
 <td>耐久弾幕</td>
-<td>survival card<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">8</a></sup><br>survival spell<br>timeout spell
+<td>survival card<span>[^cite_note-8]</span><br>survival spell<br>timeout spell
 </td></tr>
 <tr>
 <td>敌机标志</td>
@@ -394,7 +389,7 @@
 <td>indicator
 </td></tr>
 <tr>
-<td>复活点<br>检查点<br>存档点<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">9</a></sup></td>
+<td>复活点<br>检查点<br>存档点<span>[^cite_note-9]</span></td>
 <td>復活地点</td>
 <td>checkpoint
 </td></tr>
@@ -416,7 +411,7 @@
 <tr>
 <td></td>
 <td>永久パターン</td>
-<td>infinite pattern<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">10</a></sup>
+<td>infinite pattern<span>[^cite_note-10]</span>
 </td></tr>
 <tr>
 <td>消弹</td>
@@ -439,16 +434,15 @@
 <td>suicide
 </td></tr>
 <tr>
-<td><a href="/%E6%B8%B8%E6%88%8F%E6%94%BB%E7%95%A5/STG%E6%9C%AF%E8%AF%AD#体术" title="游戏攻略/STG术语">体术</a></td>
+<td><a href="./游戏攻略-STG术语.md#体术" title="游戏攻略/STG术语">体术</a></td>
 <td>体当たり</td>
 <td>crash（ram、run into）<br>没有专用的名词
 </td></tr>
 <tr>
-<td><a href="/%E6%B8%B8%E6%88%8F%E6%94%BB%E7%95%A5/STG%E6%9C%AF%E8%AF%AD#通关" title="游戏攻略/STG术语">通关</a></td>
+<td><a href="./游戏攻略-STG术语.md#通关" title="游戏攻略/STG术语">通关</a></td>
 <td>オールクリア<br>ノーコンティニュークリア</td>
 <td>all clear<br>1cc(1 coin clear)
 </td></tr></tbody></table>
-
 
 
 ## 避弹
@@ -466,17 +460,17 @@
 <td>bullet dodging
 </td></tr>
 <tr>
-<td><a href="/%E6%B8%B8%E6%88%8F%E6%94%BB%E7%95%A5/STG%E6%9C%AF%E8%AF%AD#擦弹" title="游戏攻略/STG术语">擦弹</a></td>
+<td><a href="./游戏攻略-STG术语.md#擦弹" title="游戏攻略/STG术语">擦弹</a></td>
 <td>カスる</td>
 <td>graze
 </td></tr>
 <tr>
-<td><a href="/%E6%B8%B8%E6%88%8F%E6%94%BB%E7%95%A5/STG%E6%9C%AF%E8%AF%AD#其他弹幕类型" title="游戏攻略/STG术语">反击弹</a></td>
+<td><a href="./游戏攻略-STG术语.md#其他弹幕类型" title="游戏攻略/STG术语">反击弹</a></td>
 <td>撃ち返し</td>
 <td>suicide bullet<br>revenge bullet
 </td></tr>
 <tr>
-<td><a href="/%E6%B8%B8%E6%88%8F%E6%94%BB%E7%95%A5/STG%E6%9C%AF%E8%AF%AD#其他词汇俗语等" title="游戏攻略/STG术语">底力躲/扭/猴</a></td>
+<td><a href="./游戏攻略-STG术语.md#其他词汇俗语等" title="游戏攻略/STG术语">底力躲/扭/猴</a></td>
 <td>アドリブ<br>気合避け</td>
 <td>idodging relying on reflexes<br>improvising<br>random dodging（没章法的都可以这么叫）
 </td></tr>
@@ -561,18 +555,16 @@
 <td>multidirectional bullet pattern
 </td></tr>
 <tr>
-<td><a href="/%E6%B8%B8%E6%88%8F%E6%94%BB%E7%95%A5/STG%E6%9C%AF%E8%AF%AD#其他弹幕类型" title="游戏攻略/STG术语">发狂</a></td>
+<td><a href="./游戏攻略-STG术语.md#其他弹幕类型" title="游戏攻略/STG术语">发狂</a></td>
 <td>発狂</td>
-<td>rage phase<br>timeout phase<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">11</a></sup>
+<td>rage phase<br>timeout phase<span>[^cite_note-11]</span>
 </td></tr></tbody></table>
-
 
 
 ## 弹幕种类
   
 建议配合[弹幕类型与判定页面](./游戏攻略-STG判定数据.md)服用。
   
-
 
 <table>
 
@@ -693,7 +685,7 @@
 </td></tr>
 <tr>
 <td>光玉</td>
-<td>光弾<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">12</a></sup></td>
+<td>光弾<span>[^cite_note-12]</span></td>
 <td>Glowy Ball
 </td></tr>
 <tr>
@@ -723,12 +715,10 @@
 </td></tr></tbody></table>
 
 
-
 ## 其他
   
 未分类整理。
   
-
 
 <table>
 
@@ -783,50 +773,50 @@
 <td>cue<br>indicator
 </td></tr>
 <tr>
-<td><a href="/%E6%B8%B8%E6%88%8F%E6%94%BB%E7%95%A5/STG%E6%9C%AF%E8%AF%AD#被弹Bomb" title="游戏攻略/STG术语">决死</a></td>
+<td><a href="./游戏攻略-STG术语.md#被弹Bomb" title="游戏攻略/STG术语">决死</a></td>
 <td>喰らいボム</td>
 <td>death-bomb<br>counter bomb
 </td></tr>
 <tr>
-<td><a href="/%E6%B8%B8%E6%88%8F%E6%94%BB%E7%95%A5/STG%E6%9C%AF%E8%AF%AD#决死结界" title="游戏攻略/STG术语">决死结界</a></td>
+<td><a href="./游戏攻略-STG术语.md#决死结界" title="游戏攻略/STG术语">决死结界</a></td>
 <td>決死結界</td>
 <td>
 </td></tr>
 <tr>
-<td><a href="/%E6%B8%B8%E6%88%8F%E6%94%BB%E7%95%A5/STG%E6%9C%AF%E8%AF%AD#抱B撞" title="游戏攻略/STG术语">抱B撞</a></td>
+<td><a href="./游戏攻略-STG术语.md#抱B撞" title="游戏攻略/STG术语">抱B撞</a></td>
 <td>抱え落ち</td>
 <td>
 </td></tr>
 <tr>
-<td><a href="/%E6%B8%B8%E6%88%8F%E6%94%BB%E7%95%A5/STG%E6%9C%AF%E8%AF%AD#非符" title="游戏攻略/STG术语">非符</a></td>
+<td><a href="./游戏攻略-STG术语.md#非符" title="游戏攻略/STG术语">非符</a></td>
 <td>通常攻撃</td>
 <td>non-spell / nons(复数、缩略)
 </td></tr>
 <tr>
-<td><a href="/%E6%B8%B8%E6%88%8F%E6%94%BB%E7%95%A5/STG%E6%9C%AF%E8%AF%AD#回收线" title="游戏攻略/STG术语">道具回收线</a></td>
+<td><a href="./游戏攻略-STG术语.md#回收线" title="游戏攻略/STG术语">道具回收线</a></td>
 <td>上部回収ライン</td>
 <td>point of collection<br>PoC
 </td></tr>
 </tbody></table>
 
-
   
 参考页面： [STG glossary Japanese-English](https://pastebin.com/6DW0zyvu)  
-
 [用語集 - 攻略wiki](http://wikiwiki.jp/thk/?Dic)  
 
 Special Thanks to [Touhou Wiki Discord Channel](https://discord.gg/jkStRPc)!  
-
   
-
-  
-  
-
 [^cite_note-1]: 妖妖梦英文缩写也是PCB
-
-
-
-
+[^cite_note-2]: 还有小、大型机之类，从街机流传下来的目标体积称呼。
+[^cite_note-3]: 怒蜂系列机体在使用激光攻击时自机周围出现的特效，（需要贴近）击中敌人会有额外伤害。日文中，使用“オーラ撃ち”来指这种攻击方式。
+[^cite_note-4]: 手柄摇杆键盘啥的都可以叫controller。
+[^cite_note-5]: 道具的基础分数，通常会受到各种其他加成。
+[^cite_note-6]: 子弹击中（不是击破）敌人时增长的分数，按游戏不同占比也不同。
+[^cite_note-7]: 怒蜂系列中吃满bomb之后，分数每帧都会增长，随着bomb溢出更多分数也会提高。
+[^cite_note-8]: card是必须的，和survival（混关）区分开
+[^cite_note-9]: 有些游戏中，死亡后会回退一段重新打。比如达人王（喂）。
+[^cite_note-10]: 一般指卡bug无限刷怪之类的行为
+[^cite_note-11]: 只有描述倒计时结束导致发狂弹的词。
+[^cite_note-12]: 该词包括庙之前的有高光小玉
 
 ---
 

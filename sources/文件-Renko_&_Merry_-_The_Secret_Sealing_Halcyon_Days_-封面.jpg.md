@@ -1,6 +1,6 @@
 # 文件:Renko_&_Merry_-_The_Secret_Sealing_Halcyon_Days_-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f0\ns6%3ARenko_%26_Merry_-_The_Secret_Sealing_Halcyon_Days_-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f0\ns6%3ARenko_%26_Merry_-_The_Secret_Sealing_Halcyon_Days_-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ロンサム常時 | 同人志封面 | 封面图片
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [Renko &amp; Merry - The Secret Sealing Halcyon Days -](./Renko_&_Merry_-_The_Secret_Sealing_Halcyon_Days_-.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [Renko & Merry - The Secret Sealing Halcyon Days -](./Renko_&_Merry_-_The_Secret_Sealing_Halcyon_Days_-.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

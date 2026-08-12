@@ -1,6 +1,6 @@
 # 文件:AizzīΔmogots_arΔ_AffeΔkten封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3b\ns6%3AAizz%C4%AB%CE%94mogots_ar%CE%94_Affe%CE%94kten%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3b\ns6%3AAizz%C4%AB%CE%94mogots_ar%CE%94_Affe%CE%94kten%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Erica-Angelina_Kanarska-Sabat | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Erica-Angelina_Kanarska-Sabat | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [AizzīΔmogots arΔ AffeΔkten](./AizzīΔmogots_arΔ_AffeΔkten.md)  
-该封面包含的角色：- [赫卡提亚·拉碧斯拉祖利](./赫卡提亚·拉碧斯拉祖利.md)
-
-
-
+- [AizzīΔmogots arΔ AffeΔkten](./AizzīΔmogots_arΔ_AffeΔkten.md)该封面包含的角色：
+- [赫卡提亚·拉碧斯拉祖利](./赫卡提亚·拉碧斯拉祖利.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:THat'sTOHOBEAT_Vol.2_Instrumental_Version封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d6\ns6%3ATHat%27sTOHOBEAT_Vol%2E2_Instrumental_Version%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d6\ns6%3ATHat%27sTOHOBEAT_Vol%2E2_Instrumental_Version%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 恋色舞踏工房
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [THat'sTOHOBEAT Vol.2 Instrumental Version](./THat'sTOHOBEAT_Vol.2_Instrumental_Version.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
-
-
-
+- [THat'sTOHOBEAT Vol.2 Instrumental Version](./THat'sTOHOBEAT_Vol.2_Instrumental_Version.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
 
 ---

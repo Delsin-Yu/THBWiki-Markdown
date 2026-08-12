@@ -1,6 +1,6 @@
 # 文件:TOSX_TOKYO_at_clubasia_Live_DVD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d4\ns6%3ATOSX_TOKYO_at_clubasia_Live_DVD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d4\ns6%3ATOSX_TOKYO_at_clubasia_Live_DVD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 封面图片 | 视频封面 | 魂音泉
 
@@ -10,12 +10,19 @@
 使用了本文件作封面图片的作品：
   
 
-- [TOSX TOKYO at clubasia Live DVD](./TOSX_TOKYO_at_clubasia_Live_DVD.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)- [博丽灵梦](./博丽灵梦.md)- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)- 十六夜咲夜 (未找到链接)- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)- [魂魄妖梦](./魂魄妖梦.md)- [八云紫](./八云紫.md)- [藤原妹红](./藤原妹红.md)- [河城荷取](./河城荷取.md)- [洩矢诹访子](./洩矢诹访子.md)- [雾雨魔理沙](./雾雨魔理沙.md) 源地址：[[1]](https://s2.booth.pm/1785682a-0793-4b24-9e18-44a8d88532dc/i/1915329/930b0355-602c-421c-96a7-cc7519771d34.jpg)
-
-
-
-
+- [TOSX TOKYO at clubasia Live DVD](./TOSX_TOKYO_at_clubasia_Live_DVD.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
+- [博丽灵梦](./博丽灵梦.md)
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
+- [十六夜咲夜](./十六夜咲夜.md)
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [魂魄妖梦](./魂魄妖梦.md)
+- [八云紫](./八云紫.md)
+- [藤原妹红](./藤原妹红.md)
+- [河城荷取](./河城荷取.md)
+- [洩矢诹访子](./洩矢诹访子.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
+ 源地址：[\[1\]](https://s2.booth.pm/1785682a-0793-4b24-9e18-44a8d88532dc/i/1915329/930b0355-602c-421c-96a7-cc7519771d34.jpg)
 
 ---
 

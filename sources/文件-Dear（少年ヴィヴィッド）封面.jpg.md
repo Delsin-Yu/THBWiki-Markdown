@@ -1,6 +1,6 @@
 # 文件:Dear（少年ヴィヴィッド）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e5\ns6%3ADear%EF%BC%88%E5%B0%91%E5%B9%B4%E3%83%B4%E3%82%A3%E3%83%B4%E3%82%A3%E3%83%83%E3%83%89%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e5\ns6%3ADear%EF%BC%88%E5%B0%91%E5%B9%B4%E3%83%B4%E3%82%A3%E3%83%B4%E3%82%A3%E3%83%83%E3%83%89%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 少年ヴィヴィッド
 
@@ -8,12 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [Dear（少年ヴィヴィッド）](./Dear（少年ヴィヴィッド）.md)  
-该封面包含的角色：- [稗田阿求](./稗田阿求.md)源地址:[http://www.pixiv.net/member_illust.php?mode=medium&amp;illust_id=38856827](http://www.pixiv.net/member_illust.php?mode=medium&amp;illust_id=38856827)
-
-
-
-
+- [Dear（少年ヴィヴィッド）](./Dear（少年ヴィヴィッド）.md)该封面包含的角色：
+- [稗田阿求](./稗田阿求.md)
+源地址:[http://www.pixiv.net/member_illust.php?mode=medium&illust_id=38856827](http://www.pixiv.net/member_illust.php?mode=medium&illust_id=38856827)
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:いにしえに伝わる物語_-_The_Eastern_Story_Vol._1封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\63\ns6%3A%E3%81%84%E3%81%AB%E3%81%97%E3%81%88%E3%81%AB%E4%BC%9D%E3%82%8F%E3%82%8B%E7%89%A9%E8%AA%9E_-_The_Eastern_Story_Vol%2E_1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\63\ns6%3A%E3%81%84%E3%81%AB%E3%81%97%E3%81%88%E3%81%AB%E4%BC%9D%E3%82%8F%E3%82%8B%E7%89%A9%E8%AA%9E_-_The_Eastern_Story_Vol%2E_1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 AncientChronicle | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ AncientChronicle | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [いにしえに伝わる物語 - The Eastern Story Vol. 1](./いにしえに伝わる物語_-_The_Eastern_Story_Vol._1.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [いにしえに伝わる物語 - The Eastern Story Vol. 1](./いにしえに伝わる物語_-_The_Eastern_Story_Vol._1.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

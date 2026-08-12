@@ -1,6 +1,6 @@
 # 游戏攻略/STG安定总结/东方辉针城
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\c\cf\ns0%3A%E6%B8%B8%E6%88%8F%E6%94%BB%E7%95%A5%2FSTG%E5%AE%89%E5%AE%9A%E6%80%BB%E7%BB%93%2F%E4%B8%9C%E6%96%B9%E8%BE%89%E9%92%88%E5%9F%8E.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\c\cf\ns0%3A%E6%B8%B8%E6%88%8F%E6%94%BB%E7%95%A5%2FSTG%E5%AE%89%E5%AE%9A%E6%80%BB%E7%BB%93%2F%E4%B8%9C%E6%96%B9%E8%BE%89%E9%92%88%E5%9F%8E.html -->
 
 
 
@@ -55,10 +55,6 @@
 </p><p>由于碗碎掉时有一次散射中玉，可能需要一个bomb来消去。或者：<br>1：计算血量，在碗破碎之前就去站位，这样就只需要在中高位置躲避一轮中玉，以及碗破碎之前的火光弹。<br>2：在一边角落击破碗，然后迅速移动至另一边的安定，可能需要穿一下点弹。
 </p>
 </td></tr></tbody></table>
-
-
-
-
 
 
 ---

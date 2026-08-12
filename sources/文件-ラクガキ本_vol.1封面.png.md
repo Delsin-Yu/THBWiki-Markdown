@@ -1,6 +1,6 @@
 # 文件:ラクガキ本_vol.1封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\de\ns6%3A%E3%83%A9%E3%82%AF%E3%82%AC%E3%82%AD%E6%9C%AC_vol%2E1%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\de\ns6%3A%E3%83%A9%E3%82%AF%E3%82%AC%E3%82%AD%E6%9C%AC_vol%2E1%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 うり畑牧場 | 同人志封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [ラクガキ本 vol.1](./ラクガキ本_vol.1.md)  
-该封面包含的角色：- [丰聪耳神子](./丰聪耳神子.md)
-
-
-
+- [ラクガキ本 vol.1](./ラクガキ本_vol.1.md)该封面包含的角色：
+- [丰聪耳神子](./丰聪耳神子.md)
 
 
 ---

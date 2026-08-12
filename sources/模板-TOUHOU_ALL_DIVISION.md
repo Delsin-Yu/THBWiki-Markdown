@@ -1,16 +1,12 @@
 # 模板:TOUHOU_ALL_DIVISION
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\c\c5\ns10%3ATOUHOU_ALL_DIVISION.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\c\c5\ns10%3ATOUHOU_ALL_DIVISION.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

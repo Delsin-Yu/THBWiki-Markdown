@@ -1,18 +1,13 @@
 # 文件:B茄子屋banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fc\ns6%3AB%E8%8C%84%E5%AD%90%E5%B1%8Bbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fc\ns6%3AB%E8%8C%84%E5%AD%90%E5%B1%8Bbanner%2Epng.html -->
 
 B茄子屋 | 社团LOGO
 
 
 ## 摘要
   
-源地址：[direct image link](http://www.nasuya.net/Games/banner.png), [source page](http://www.nasuya.net/)
-  
-
-
-
-
+源地址：[direct image link](http://www.nasuya.net/Games/banner.png), [source page](http://www.nasuya.net/)  
 
 ---
 

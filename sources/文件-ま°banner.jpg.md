@@ -1,12 +1,8 @@
 # 文件:ま°banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\52\ns6%3A%E3%81%BE%C2%B0banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\52\ns6%3A%E3%81%BE%C2%B0banner%2Ejpg.html -->
 
 ま° | 社团LOGO
-
-
-
-
 
 
 ---

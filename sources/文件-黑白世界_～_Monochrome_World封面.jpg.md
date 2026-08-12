@@ -1,6 +1,6 @@
 # 文件:黑白世界_～_Monochrome_World封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b3\ns6%3A%E9%BB%91%E7%99%BD%E4%B8%96%E7%95%8C_%EF%BD%9E_Monochrome_World%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b3\ns6%3A%E9%BB%91%E7%99%BD%E4%B8%96%E7%95%8C_%EF%BD%9E_Monochrome_World%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 トリック・ノスタルジー | 封面图片 | 软件封面
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [黑白世界 ～ Monochrome World](./黑白世界_～_Monochrome_World.md)  
-该封面包含的角色：- [燕乐玄鸟](./燕乐玄鸟.md)
-
-
-
+- [黑白世界 ～ Monochrome World](./黑白世界_～_Monochrome_World.md)该封面包含的角色：
+- [燕乐玄鸟](./燕乐玄鸟.md)
 
 
 ---

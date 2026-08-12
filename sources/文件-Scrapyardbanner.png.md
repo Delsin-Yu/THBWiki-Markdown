@@ -1,16 +1,11 @@
 # 文件:Scrapyardbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\39\ns6%3AScrapyardbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\39\ns6%3AScrapyardbanner%2Epng.html -->
 
 Scrapyard | 社团LOGO
 
   
-源地址：[[1]](http://scrapyard12.web.fc2.com/images/banner/banner200x40.png)
-  
-
-
-
-
+源地址：[\[1\]](http://scrapyard12.web.fc2.com/images/banner/banner200x40.png)  
 
 ---
 

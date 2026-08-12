@@ -1,6 +1,6 @@
 # Polygon网站Mario节目
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\c\ce\ns0%3APolygon%E7%BD%91%E7%AB%99Mario%E8%8A%82%E7%9B%AE.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\c\ce\ns0%3APolygon%E7%BD%91%E7%AB%99Mario%E8%8A%82%E7%9B%AE.html -->
 
 ZUN
 
@@ -16,6 +16,7 @@ Devs Make Mario（开发者做马里奥）是美国游戏新闻网站Polygon的�
 - 视频地址：[https://www.youtube.com/watch?v=EkUf6L0_NSk](https://www.youtube.com/watch?v=EkUf6L0_NSk)
 - 翻译：St Maxwell
 - 由于本文是经由英文字幕得到的汉化，所以可能与ZUN的原话有出入，仅供参考。
+
 
 - <big><big>ZUN所做的关卡ID为8192-0000-02CE-AA88</big></big>
 - 本关卡相关页面：[https://supermariomakerbookmark.nintendo.net/courses/8192-0000-02CE-AA88](https://supermariomakerbookmark.nintendo.net/courses/8192-0000-02CE-AA88) （已经失效）
@@ -62,10 +63,6 @@ Devs Make Mario（开发者做马里奥）是美国游戏新闻网站Polygon的�
   
 正因如此，我还是希望玩家们能体验一下这个独特的关卡。
   
-
-
-
-
 
 ---
 

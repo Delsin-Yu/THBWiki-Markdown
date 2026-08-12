@@ -1,6 +1,6 @@
 # 文件:おいしいA.I.が喰べたくて～Affectionate.Indulgence～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\84\ns6%3A%E3%81%8A%E3%81%84%E3%81%97%E3%81%84A%2EI%2E%E3%81%8C%E5%96%B0%E3%81%B9%E3%81%9F%E3%81%8F%E3%81%A6%EF%BD%9EAffectionate%2EIndulgence%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\84\ns6%3A%E3%81%8A%E3%81%84%E3%81%97%E3%81%84A%2EI%2E%E3%81%8C%E5%96%B0%E3%81%B9%E3%81%9F%E3%81%8F%E3%81%A6%EF%BD%9EAffectionate%2EIndulgence%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 火豆式
 
@@ -10,15 +10,13 @@
 使用了本文件作封面图片的作品：
   
 
-- [おいしいA.I.が喰べたくて～Affectionate.Indulgence～](./おいしいA.I.が喰べたくて～Affectionate.Indulgence～.md)  
-该封面包含的角色：- [露米娅](./露米娅.md)- [古明地恋](./古明地恋.md)
+- [おいしいA.I.が喰べたくて～Affectionate.Indulgence～](./おいしいA.I.が喰べたくて～Affectionate.Indulgence～.md)该封面包含的角色：
+- [露米娅](./露米娅.md)
+- [古明地恋](./古明地恋.md)
 
 : 源地址
 
 - [蜜瓜](https://melonbooks.akamaized.net/user_data/packages/resize_image.php?image=212001124476.jpg)
-
-
-
 
 
 ---

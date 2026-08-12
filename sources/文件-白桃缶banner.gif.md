@@ -1,14 +1,11 @@
 # 文件:白桃缶banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\48\ns6%3A%E7%99%BD%E6%A1%83%E7%BC%B6banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\48\ns6%3A%E7%99%BD%E6%A1%83%E7%BC%B6banner%2Egif.html -->
 
 白桃缶 | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

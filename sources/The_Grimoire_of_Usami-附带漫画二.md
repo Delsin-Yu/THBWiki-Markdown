@@ -1,16 +1,10 @@
 # The_Grimoire_of_Usami/附带漫画二
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\44\ns0%3AThe_Grimoire_of_Usami%2F%E9%99%84%E5%B8%A6%E6%BC%AB%E7%94%BB%E4%BA%8C.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\44\ns0%3AThe_Grimoire_of_Usami%2F%E9%99%84%E5%B8%A6%E6%BC%AB%E7%94%BB%E4%BA%8C.html -->
 
 The_Grimoire_of_Usami | 使用了翻译表的页面 | 待完成页面
 
-  
-  
-
-  
-
 <center>
-
 <table>
 <tbody><tr>
 <td class="mbox-image"><div style="width: 52px;">
@@ -19,62 +13,43 @@ The_Grimoire_of_Usami | 使用了翻译表的页面 | 待完成页面
 </tr>
 </tbody></table>
 
-
-</center>
-<center>
-
+</center><center>
 <table>
 <tbody><tr>
-<td>&lt;
+<td><
 </td>
-<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./The_Grimoire_of_Usami-附带漫画一.md" title="The Grimoire of Usami/附带漫画一">附带漫画一</a>&#160;
+<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./The_Grimoire_of_Usami-附带漫画一.md" title="The Grimoire of Usami/附带漫画一">附带漫画一</a> 
 </td>
-<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="./The_Grimoire_of_Usami.md" title="The Grimoire of Usami">The Grimoire of Usami</a>&#160;
+<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;"> <a href="./The_Grimoire_of_Usami.md" title="The Grimoire of Usami">The Grimoire of Usami</a> 
 </td>
-<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left">&#160;<a href="./The_Grimoire_of_Usami-附带漫画三.md" title="The Grimoire of Usami/附带漫画三">附带漫画三</a>
+<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left"> <a href="./The_Grimoire_of_Usami-附带漫画三.md" title="The Grimoire of Usami/附带漫画三">附带漫画三</a>
 </td>
-<td>&gt;
+<td>>
 </td></tr></tbody></table>
 
   
 </center>
-- 本词条内容为官方出版物 **The Grimoire of Usami** 附带漫画的剧情对话文字版。
-- 观看在线漫画请点击[这里](https://bbs.nyasama.com/forum.php?mod=viewthread&amp;tid=1838261)。
+- 本词条内容为官方出版物**The Grimoire of Usami**附带漫画的剧情对话文字版。
+- 观看在线漫画请点击[这里](https://bbs.nyasama.com/forum.php?mod=viewthread&tid=1838261)。
 
 
 ## P81
-
-  
-  
-
-  
-
 <center>
-
 <table>
 <tbody><tr>
-<td>&lt;
+<td><
 </td>
-<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./The_Grimoire_of_Usami-附带漫画一.md" title="The Grimoire of Usami/附带漫画一">附带漫画一</a>&#160;
+<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./The_Grimoire_of_Usami-附带漫画一.md" title="The Grimoire of Usami/附带漫画一">附带漫画一</a> 
 </td>
-<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="./The_Grimoire_of_Usami.md" title="The Grimoire of Usami">The Grimoire of Usami</a>&#160;
+<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;"> <a href="./The_Grimoire_of_Usami.md" title="The Grimoire of Usami">The Grimoire of Usami</a> 
 </td>
-<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left">&#160;<a href="./The_Grimoire_of_Usami-附带漫画三.md" title="The Grimoire of Usami/附带漫画三">附带漫画三</a>
+<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left"> <a href="./The_Grimoire_of_Usami-附带漫画三.md" title="The Grimoire of Usami/附带漫画三">附带漫画三</a>
 </td>
-<td>&gt;
+<td>>
 </td></tr></tbody></table>
 
   
 </center>
-  
-  
-
-  
-
-
-
-
-
 ---
 
 此文档由 [THBWiki-Markdown-Builder](https://github.com/Delsin-Yu/THBWiki-Markdown-Builder) 构建。

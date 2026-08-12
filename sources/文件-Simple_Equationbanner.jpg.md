@@ -1,12 +1,8 @@
 # 文件:Simple_Equationbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a2\ns6%3ASimple_Equationbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a2\ns6%3ASimple_Equationbanner%2Ejpg.html -->
 
 Simple_Equation | 社团LOGO
-
-
-
-
 
 
 ---

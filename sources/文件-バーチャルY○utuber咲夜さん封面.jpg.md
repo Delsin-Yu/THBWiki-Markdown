@@ -1,6 +1,6 @@
 # 文件:バーチャルY○utuber咲夜さん封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\30\ns6%3A%E3%83%90%E3%83%BC%E3%83%81%E3%83%A3%E3%83%ABY%E2%97%8Butuber%E5%92%B2%E5%A4%9C%E3%81%95%E3%82%93%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\30\ns6%3A%E3%83%90%E3%83%BC%E3%83%81%E3%83%A3%E3%83%ABY%E2%97%8Butuber%E5%92%B2%E5%A4%9C%E3%81%95%E3%82%93%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 緑高原
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [バーチャルY○utuber咲夜さん](./バーチャルY○utuber咲夜さん.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)
+- [バーチャルY○utuber咲夜さん](./バーチャルY○utuber咲夜さん.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
 
   
-[Pixiv artwork ID: 71119502](https://www.pixiv.net/artworks/71119502)
-  
-
-
-
-
+[Pixiv artwork ID: 71119502](https://www.pixiv.net/artworks/71119502)  
 
 ---
 

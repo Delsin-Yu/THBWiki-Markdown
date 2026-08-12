@@ -1,6 +1,6 @@
 # 游戏攻略/STG安定总结/东方绀珠传
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\6d\ns0%3A%E6%B8%B8%E6%88%8F%E6%94%BB%E7%95%A5%2FSTG%E5%AE%89%E5%AE%9A%E6%80%BB%E7%BB%93%2F%E4%B8%9C%E6%96%B9%E7%BB%80%E7%8F%A0%E4%BC%A0.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\6d\ns0%3A%E6%B8%B8%E6%88%8F%E6%94%BB%E7%95%A5%2FSTG%E5%AE%89%E5%AE%9A%E6%80%BB%E7%BB%93%2F%E4%B8%9C%E6%96%B9%E7%BB%80%E7%8F%A0%E4%BC%A0.html -->
 
 
 
@@ -56,10 +56,6 @@
 兔子3层罩子卡不了，2罩子及以下可以。
 </p>
 </td></tr></tbody></table>
-
-
-
-
 
 
 ---

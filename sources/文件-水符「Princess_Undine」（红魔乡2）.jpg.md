@@ -1,12 +1,8 @@
 # 文件:水符「Princess_Undine」（红魔乡2）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\36\ns6%3A%E6%B0%B4%E7%AC%A6%E3%80%8CPrincess_Undine%E3%80%8D%EF%BC%88%E7%BA%A2%E9%AD%94%E4%B9%A12%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\36\ns6%3A%E6%B0%B4%E7%AC%A6%E3%80%8CPrincess_Undine%E3%80%8D%EF%BC%88%E7%BA%A2%E9%AD%94%E4%B9%A12%EF%BC%89%2Ejpg.html -->
 
 东方红魔乡 | 帕秋莉·诺蕾姬 | 敌机符卡
-
-
-
-
 
 
 ---

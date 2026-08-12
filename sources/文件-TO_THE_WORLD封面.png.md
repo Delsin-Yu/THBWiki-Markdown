@@ -1,6 +1,6 @@
 # 文件:TO_THE_WORLD封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2e\ns6%3ATO_THE_WORLD%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2e\ns6%3ATO_THE_WORLD%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 ALMA | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ ALMA | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [TO THE WORLD](./TO_THE_WORLD.md)  
-该封面包含的角色：- [圣白莲](./圣白莲.md)
-
-
-
+- [TO THE WORLD](./TO_THE_WORLD.md)该封面包含的角色：
+- [圣白莲](./圣白莲.md)
 
 
 ---

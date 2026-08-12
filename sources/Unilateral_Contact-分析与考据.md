@@ -1,6 +1,6 @@
 # Unilateral_Contact/分析与考据
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\e\ef\ns0%3AUnilateral_Contact%2F%E5%88%86%E6%9E%90%E4%B8%8E%E8%80%83%E6%8D%AE.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\e\ef\ns0%3AUnilateral_Contact%2F%E5%88%86%E6%9E%90%E4%B8%8E%E8%80%83%E6%8D%AE.html -->
 
 八云蓝 | 符卡
 
@@ -13,46 +13,39 @@
 - [4 导航](#导航)
 
 
-
-
-
 ## 分析考据
   
- **式弾「ユーニラタルコンタクト」**  式弹「Unilateral Contact」
+**式弾「ユーニラタルコンタクト」** 式弹「Unilateral Contact」
   
 
-- ユーニラタル
+- ユーニラタル 
   - 英语：Unilateral，单方面的、片面的。
 
-- コンタクト
+
+- コンタクト 
   - 英语：Contact，接触。
 
-- ユーニラタルコンタクト
+
+- ユーニラタルコンタクト 
   - 英语：Unilateral Contact，单方面接触。
   - 可能指日本民间传说中狐灵凭依于人的行为「狐憑き」？[^cite_note-1]
     - 日本民间传说中被狐灵凭依的人会精神错乱，做出异乎寻常的举动。
     - 狐灵凭依的行为本身是单方面的，被凭依者被狐灵附身操纵。
 
 
+
+
 - 弹幕样式为[八云紫](./八云紫.md)符卡[魍魉「二重黑死蝶」](./二重黑死蝶.md)的简化版。
 
-- [](./文件-式弹「Unilateral_Contact」（妖妖梦）.jpg.md)弹幕样式- [](./文件-魍魉「二重黑死蝶」（妖妖梦）.jpg.md)弹幕样式
 
+- <img alt="弹幕样式" src="https://upload.thwiki.cc/thumb/7/7c/%E5%BC%8F%E5%BC%B9%E3%80%8CUnilateral_Contact%E3%80%8D%EF%BC%88%E5%A6%96%E5%A6%96%E6%A2%A6%EF%BC%89.jpg/171px-%E5%BC%8F%E5%BC%B9%E3%80%8CUnilateral_Contact%E3%80%8D%EF%BC%88%E5%A6%96%E5%A6%96%E6%A2%A6%EF%BC%89.jpg" decoding="async" loading="lazy" width="171" height="200" srcset="https://upload.thwiki.cc/thumb/7/7c/%E5%BC%8F%E5%BC%B9%E3%80%8CUnilateral_Contact%E3%80%8D%EF%BC%88%E5%A6%96%E5%A6%96%E6%A2%A6%EF%BC%89.jpg/257px-%E5%BC%8F%E5%BC%B9%E3%80%8CUnilateral_Contact%E3%80%8D%EF%BC%88%E5%A6%96%E5%A6%96%E6%A2%A6%EF%BC%89.jpg 1.5x, https://upload.thwiki.cc/thumb/7/7c/%E5%BC%8F%E5%BC%B9%E3%80%8CUnilateral_Contact%E3%80%8D%EF%BC%88%E5%A6%96%E5%A6%96%E6%A2%A6%EF%BC%89.jpg/343px-%E5%BC%8F%E5%BC%B9%E3%80%8CUnilateral_Contact%E3%80%8D%EF%BC%88%E5%A6%96%E5%A6%96%E6%A2%A6%EF%BC%89.jpg 2x" data-file-width="386" data-file-height="450"> 弹幕样式
+- <img alt="弹幕样式" src="https://upload.thwiki.cc/thumb/c/ca/%E9%AD%8D%E9%AD%89%E3%80%8C%E4%BA%8C%E9%87%8D%E9%BB%91%E6%AD%BB%E8%9D%B6%E3%80%8D%EF%BC%88%E5%A6%96%E5%A6%96%E6%A2%A6%EF%BC%89.jpg/172px-%E9%AD%8D%E9%AD%89%E3%80%8C%E4%BA%8C%E9%87%8D%E9%BB%91%E6%AD%BB%E8%9D%B6%E3%80%8D%EF%BC%88%E5%A6%96%E5%A6%96%E6%A2%A6%EF%BC%89.jpg" decoding="async" loading="lazy" width="172" height="200" srcset="https://upload.thwiki.cc/thumb/c/ca/%E9%AD%8D%E9%AD%89%E3%80%8C%E4%BA%8C%E9%87%8D%E9%BB%91%E6%AD%BB%E8%9D%B6%E3%80%8D%EF%BC%88%E5%A6%96%E5%A6%96%E6%A2%A6%EF%BC%89.jpg/258px-%E9%AD%8D%E9%AD%89%E3%80%8C%E4%BA%8C%E9%87%8D%E9%BB%91%E6%AD%BB%E8%9D%B6%E3%80%8D%EF%BC%88%E5%A6%96%E5%A6%96%E6%A2%A6%EF%BC%89.jpg 1.5x, https://upload.thwiki.cc/thumb/c/ca/%E9%AD%8D%E9%AD%89%E3%80%8C%E4%BA%8C%E9%87%8D%E9%BB%91%E6%AD%BB%E8%9D%B6%E3%80%8D%EF%BC%88%E5%A6%96%E5%A6%96%E6%A2%A6%EF%BC%89.jpg/345px-%E9%AD%8D%E9%AD%89%E3%80%8C%E4%BA%8C%E9%87%8D%E9%BB%91%E6%AD%BB%E8%9D%B6%E3%80%8D%EF%BC%88%E5%A6%96%E5%A6%96%E6%A2%A6%EF%BC%89.jpg 2x" data-file-width="386" data-file-height="448"> 弹幕样式
 
 [^cite_note-1]: （日文）日文维基百科：[狐憑き](https://en.wikipedia.org/wiki/ja:狐憑き)
 
-
 ## 参见
+
 - [八云蓝/分析考据](./八云蓝-分析考据.md)
-
-
-## 导航
-
-<table><tbody><tr><td><table cellspacing="0" class="nowraplinks mw-collapsible mw-collapsed" style="width:100%;;;"><tbody><tr><th style=";" colspan="3" class="navbox-title"><div class="navbar"><div class="noprint plainlinksneverexpand" style="background-color:transparent; padding:0; font-weight:normal; font-size:80%; white-space:nowrap;"><a href="./模板-八云蓝符卡导航.md" title="模板:八云蓝符卡导航"><span style=";;border:none;" title="查看这个模板">查</span></a>&#160;<span style="font-size:80%;">•</span>&#160;<a href="/index.php?title=%E6%A8%A1%E6%9D%BF:%E5%85%AB%E4%BA%91%E8%93%9D%E7%AC%A6%E5%8D%A1%E5%AF%BC%E8%88%AA&amp;action=edit"><span style=";;border:none;" title="您可以编辑这个模板。请在储存变更之前先预览">编</span></a></div></div><span><a href="./八云蓝.md" title="八云蓝">八云蓝</a>符卡</span></th></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">射击游戏</td><td style=";;" class="navbox-list navbox-odd"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div><a href="./东方妖妖梦.md" title="东方妖妖梦">东方妖妖梦</a></div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./仙狐思念.md" title="仙狐思念" unred="">式神「仙狐思念」</a> &#8226; <a href="./十二神将之宴.md" title="十二神将之宴" unred="">式神「十二神将之宴」</a> &#8226; <a href="./狐狸妖怪激光.md" title="狐狸妖怪激光" unred="">式辉「狐狸妖怪激光」</a> &#8226; <a href="./迷人的四面楚歌.md" title="迷人的四面楚歌" unred="">式辉「迷人的四面楚歌」</a> &#8226; <a href="./天狐公主.md" title="天狐公主" unred="">式辉「天狐公主 -Illusion-」</a> &#8226; <a href="./Ultimate_Buddhist.md" title="Ultimate Buddhist" unred="">式弹「Ultimate Buddhist」</a> &#8226; <a href="./Unilateral_Contact.md" title="Unilateral Contact" unred="">式弹「Unilateral Contact」</a> &#8226; <a href="./橙（符卡）.md" title="橙（符卡）" unred="">式神「橙」</a> &#8226; <a href="./狐狗狸先生的契约.md" title="狐狗狸先生的契约" unred="">「狐狗狸先生的契约」</a> &#8226; <a href="./饭纲权现降临.md" title="饭纲权现降临" unred="">幻神「饭纲权现降临」</a> &#8226; <a href="./前鬼后鬼的守护.md" title="前鬼后鬼的守护" unred="">式神「前鬼后鬼的守护」</a> &#8226; <a href="./凭依荼吉尼天.md" title="凭依荼吉尼天" unred="">式神「凭依荼吉尼天」</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div><a href="./东方文花帖.md" title="东方文花帖">东方文花帖</a></div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./大师的密传.md" title="大师的密传" unred="">密符「大师的密传」</a> &#8226; <a href="./八千万块护摩.md" title="八千万块护摩" unred="">行符「八千万块护摩」</a> &#8226; <a href="./飞翔役小角.md" title="飞翔役小角" unred="">超人「飞翔役小角」</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div><a href="./秘封噩梦日记.md" title="秘封噩梦日记">秘封噩梦日记</a></div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./本我的式神.md" title="本我的式神" unred="">地妖符「本我的式神」</a> &#8226; <a href="./式神大星.md" title="式神大星" unred="">地妖符「式神大星」</a> &#8226; <a href="./自我的式神.md" title="自我的式神" unred="">地妖符「自我的式神」</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div><a href="./东方兽王园.md" title="东方兽王园">东方兽王园</a></div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./Still-hunter_Chen.md" title="Still-hunter Chen" unred="">式神「Still-hunter Chen」</a> &#8226; <a href="./Still-hunter_Chen.md" title="Still-hunter Chen" unred="">式神「Multi Still-hunter」</a></div></td></tr></tbody></table><div></div></td><td class="navbox-image" style="" rowspan="3"><a href="./文件-八云蓝（Q版立绘）.png.md" class="image"><img alt="八云蓝（Q版立绘）.png" src="https://upload.thwiki.cc/thumb/a/a1/%E5%85%AB%E4%BA%91%E8%93%9D%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png/160px-%E5%85%AB%E4%BA%91%E8%93%9D%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="160" height="160" srcset="https://upload.thwiki.cc/thumb/a/a1/%E5%85%AB%E4%BA%91%E8%93%9D%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png/240px-%E5%85%AB%E4%BA%91%E8%93%9D%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/a/a1/%E5%85%AB%E4%BA%91%E8%93%9D%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png/320px-%E5%85%AB%E4%BA%91%E8%93%9D%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="500" data-file-height="500"></a></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">出版物</td><td style=";;" class="navbox-list navbox-even"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div><a href="./The_Grimoire_of_Marisa.md" title="The Grimoire of Marisa" unred="">魔理沙的魔法书</a></div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./十二神将之宴.md" title="十二神将之宴" unred="">式神「十二神将之宴」</a> &#8226; <a href="./Ultimate_Buddhist.md" title="Ultimate Buddhist" unred="">式弹「Ultimate Buddhist」</a> &#8226; <a href="./狐狗狸先生的契约.md" title="狐狗狸先生的契约" unred="">「狐狗狸先生的契约」</a> &#8226; <a href="./前鬼后鬼的守护.md" title="前鬼后鬼的守护" unred="">式神「前鬼后鬼的守护」</a> &#8226; <a href="./飞翔役小角.md" title="飞翔役小角" unred="">超人「飞翔役小角」</a></div></td></tr></tbody></table><div></div></td></tr></tbody></table></td></tr></tbody></table>
-
-
-
-
 
 
 ---

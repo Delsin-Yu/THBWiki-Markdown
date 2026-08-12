@@ -1,18 +1,13 @@
 # 文件:黄昏边境banner2.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\de\ns6%3A%E9%BB%84%E6%98%8F%E8%BE%B9%E5%A2%83banner2%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\de\ns6%3A%E9%BB%84%E6%98%8F%E8%BE%B9%E5%A2%83banner2%2Egif.html -->
 
 社团LOGO | 黄昏边境
 
 
 ## 摘要
   
-源地址：[[1]](http://tasofro.net/img/tf_bnb.gif)
-  
-
-
-
-
+源地址：[\[1\]](http://tasofro.net/img/tf_bnb.gif)  
 
 ---
 

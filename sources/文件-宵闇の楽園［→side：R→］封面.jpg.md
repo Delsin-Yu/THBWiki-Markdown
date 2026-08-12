@@ -1,6 +1,6 @@
 # 文件:宵闇の楽園［→side：R→］封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9a\ns6%3A%E5%AE%B5%E9%97%87%E3%81%AE%E6%A5%BD%E5%9C%92%EF%BC%BB%E2%86%92side%EF%BC%9AR%E2%86%92%EF%BC%BD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9a\ns6%3A%E5%AE%B5%E9%97%87%E3%81%AE%E6%A5%BD%E5%9C%92%EF%BC%BB%E2%86%92side%EF%BC%9AR%E2%86%92%EF%BC%BD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 秘密結社七犯同盟
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [宵闇の楽園［→side：R→］](./宵闇の楽園［→side：R→］.md)  
-该封面包含的角色：- [露米娅](./露米娅.md)
-
-
-
+- [宵闇の楽園［→side：R→］](./宵闇の楽園［→side：R→］.md)该封面包含的角色：
+- [露米娅](./露米娅.md)
 
 
 ---

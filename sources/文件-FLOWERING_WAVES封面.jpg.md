@@ -1,6 +1,6 @@
 # 文件:FLOWERING_WAVES封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fc\ns6%3AFLOWERING_WAVES%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fc\ns6%3AFLOWERING_WAVES%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 彩音_～xi-on～
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [FLOWERING WAVES](./FLOWERING_WAVES.md)  
-该封面包含的角色：- [小野塚小町](./小野塚小町.md)- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)
-
-
-
+- [FLOWERING WAVES](./FLOWERING_WAVES.md)该封面包含的角色：
+- [小野塚小町](./小野塚小町.md)
+- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)
 
 
 ---

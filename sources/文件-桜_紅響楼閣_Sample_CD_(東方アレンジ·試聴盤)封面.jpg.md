@@ -1,6 +1,6 @@
 # 文件:桜_紅響楼閣_Sample_CD_(東方アレンジ·試聴盤)封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2b\ns6%3A%E6%A1%9C_%E7%B4%85%E9%9F%BF%E6%A5%BC%E9%96%A3_Sample_CD_%28%E6%9D%B1%E6%96%B9%E3%82%A2%E3%83%AC%E3%83%B3%E3%82%B8%C2%B7%E8%A9%A6%E8%81%B4%E7%9B%A4%29%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2b\ns6%3A%E6%A1%9C_%E7%B4%85%E9%9F%BF%E6%A5%BC%E9%96%A3_Sample_CD_%28%E6%9D%B1%E6%96%B9%E3%82%A2%E3%83%AC%E3%83%B3%E3%82%B8%C2%B7%E8%A9%A6%E8%81%B4%E7%9B%A4%29%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 趣味工房にんじんわいん
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [桜 紅響楼閣 Sample CD (東方アレンジ·試聴盤)](./桜_紅響楼閣_Sample_CD_(東方アレンジ·試聴盤).md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [桜 紅響楼閣 Sample CD (東方アレンジ·試聴盤)](./桜_紅響楼閣_Sample_CD_(東方アレンジ·試聴盤%29.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

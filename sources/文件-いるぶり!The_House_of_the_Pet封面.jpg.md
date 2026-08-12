@@ -1,6 +1,6 @@
 # 文件:いるぶり!The_House_of_the_Pet封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1d\ns6%3A%E3%81%84%E3%82%8B%E3%81%B6%E3%82%8A%21The_House_of_the_Pet%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1d\ns6%3A%E3%81%84%E3%82%8B%E3%81%B6%E3%82%8A%21The_House_of_the_Pet%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 苦笑邸
 
@@ -10,11 +10,17 @@
 使用了本文件作封面图片的作品：
   
 
-- [いるぶり!The House of the Pet](./いるぶり!The_House_of_the_Pet.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)- [射命丸文](./射命丸文.md)- [河城荷取](./河城荷取.md)- [东风谷早苗](./东风谷早苗.md)- [古明地觉](./古明地觉.md)- [火焰猫燐](./火焰猫燐.md)- [灵乌路空](./灵乌路空.md)- [古明地恋](./古明地恋.md)- [多多良小伞](./多多良小伞.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [いるぶり!The House of the Pet](./いるぶり!The_House_of_the_Pet.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
+- [射命丸文](./射命丸文.md)
+- [河城荷取](./河城荷取.md)
+- [东风谷早苗](./东风谷早苗.md)
+- [古明地觉](./古明地觉.md)
+- [火焰猫燐](./火焰猫燐.md)
+- [灵乌路空](./灵乌路空.md)
+- [古明地恋](./古明地恋.md)
+- [多多良小伞](./多多良小伞.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

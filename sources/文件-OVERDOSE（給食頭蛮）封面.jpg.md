@@ -1,6 +1,6 @@
 # 文件:OVERDOSE（給食頭蛮）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5b\ns6%3AOVERDOSE%EF%BC%88%E7%B5%A6%E9%A3%9F%E9%A0%AD%E8%9B%AE%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5b\ns6%3AOVERDOSE%EF%BC%88%E7%B5%A6%E9%A3%9F%E9%A0%AD%E8%9B%AE%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 給食頭蛮
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [OVERDOSE（給食頭蛮）](./OVERDOSE（給食頭蛮）.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)- [饕餮尤魔](./饕餮尤魔.md)
-
-
-
+- [OVERDOSE（給食頭蛮）](./OVERDOSE（給食頭蛮）.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [饕餮尤魔](./饕餮尤魔.md)
 
 
 ---

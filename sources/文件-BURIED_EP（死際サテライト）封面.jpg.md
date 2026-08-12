@@ -1,6 +1,6 @@
 # 文件:BURIED_EP（死際サテライト）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\50\ns6%3ABURIED_EP%EF%BC%88%E6%AD%BB%E9%9A%9B%E3%82%B5%E3%83%86%E3%83%A9%E3%82%A4%E3%83%88%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\50\ns6%3ABURIED_EP%EF%BC%88%E6%AD%BB%E9%9A%9B%E3%82%B5%E3%83%86%E3%83%A9%E3%82%A4%E3%83%88%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 死際サテライト
 
@@ -9,9 +9,6 @@
   
 
 - [BURIED EP（死際サテライト）](./BURIED_EP（死際サテライト）.md)
-
-
-
 
 
 ---

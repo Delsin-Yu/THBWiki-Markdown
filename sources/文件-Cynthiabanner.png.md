@@ -1,16 +1,11 @@
 # 文件:Cynthiabanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7e\ns6%3ACynthiabanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7e\ns6%3ACynthiabanner%2Epng.html -->
 
 Cynthia | 社团LOGO
 
   
-源地址：[[1]](http://cynthia.cc/gpi/bn_cynthia3a.png)
-  
-
-
-
-
+源地址：[\[1\]](http://cynthia.cc/gpi/bn_cynthia3a.png)  
 
 ---
 

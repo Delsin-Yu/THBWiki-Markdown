@@ -1,6 +1,6 @@
 # 文件:Interstellar_Voyager封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b9\ns6%3AInterstellar_Voyager%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b9\ns6%3AInterstellar_Voyager%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Kommisar | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@ Kommisar | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Interstellar Voyager](./Interstellar_Voyager.md)  
-该封面包含的角色：- [北白河千百合](./北白河千百合.md)
+- [Interstellar Voyager](./Interstellar_Voyager.md)该封面包含的角色：
+- [北白河千百合](./北白河千百合.md)
 
   
-源地址：[direct image link (10 size)](https://f4.bcbits.com/img/a2136547972_10.jpg), [source page (artist Bandcamp)](https://kommisarchiptune.bandcamp.com/album/interstellar-voyager)
-  
-
-
-
-
+源地址：[direct image link (10 size)](https://f4.bcbits.com/img/a2136547972_10.jpg), [source page (artist Bandcamp)](https://kommisarchiptune.bandcamp.com/album/interstellar-voyager)  
 
 ---
 

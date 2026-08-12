@@ -1,6 +1,6 @@
 # 文件:TOHO_PROGRESSIVE_HOUSE_COLLECTION_02封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a5\ns6%3ATOHO_PROGRESSIVE_HOUSE_COLLECTION_02%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a5\ns6%3ATOHO_PROGRESSIVE_HOUSE_COLLECTION_02%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 給食頭蛮
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [TOHO PROGRESSIVE HOUSE COLLECTION 02](./TOHO_PROGRESSIVE_HOUSE_COLLECTION_02.md)  
-该封面包含的角色：- [莉格露·奈特巴格](./莉格露·奈特巴格.md)
-
-
-
+- [TOHO PROGRESSIVE HOUSE COLLECTION 02](./TOHO_PROGRESSIVE_HOUSE_COLLECTION_02.md)该封面包含的角色：
+- [莉格露·奈特巴格](./莉格露·奈特巴格.md)
 
 
 ---

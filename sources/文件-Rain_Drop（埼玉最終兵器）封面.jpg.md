@@ -1,6 +1,6 @@
 # 文件:Rain_Drop（埼玉最終兵器）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\88\ns6%3ARain_Drop%EF%BC%88%E5%9F%BC%E7%8E%89%E6%9C%80%E7%B5%82%E5%85%B5%E5%99%A8%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\88\ns6%3ARain_Drop%EF%BC%88%E5%9F%BC%E7%8E%89%E6%9C%80%E7%B5%82%E5%85%B5%E5%99%A8%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Aether | 专辑封面 | 埼玉最終兵器 | 封面图片
 
@@ -9,9 +9,6 @@ Aether | 专辑封面 | 埼玉最終兵器 | 封面图片
   
 
 - [Rain Drop（埼玉最終兵器）](./Rain_Drop（埼玉最終兵器）.md)
-
-
-
 
 
 ---

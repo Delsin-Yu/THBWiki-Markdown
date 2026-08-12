@@ -1,6 +1,6 @@
 # 文件:DRIVE_14_HOURS_TO_THE_GRAND_CANYON_AND_DROP_YOUR_SWITCH_IN封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\db\ns6%3ADRIVE_14_HOURS_TO_THE_GRAND_CANYON_AND_DROP_YOUR_SWITCH_IN%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\db\ns6%3ADRIVE_14_HOURS_TO_THE_GRAND_CANYON_AND_DROP_YOUR_SWITCH_IN%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Find_Your_Way | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@ Find_Your_Way | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [DRIVE 14 HOURS TO THE GRAND CANYON AND DROP YOUR SWITCH IN](./DRIVE_14_HOURS_TO_THE_GRAND_CANYON_AND_DROP_YOUR_SWITCH_IN.md)  
-该封面包含的角色：- 罗素·凯斯（电影《独立日》） (未找到链接)
+- [DRIVE 14 HOURS TO THE GRAND CANYON AND DROP YOUR SWITCH IN](./DRIVE_14_HOURS_TO_THE_GRAND_CANYON_AND_DROP_YOUR_SWITCH_IN.md)该封面包含的角色：
+- 罗素·凯斯（电影《独立日》） (未找到链接)
 
   
-源地址：[[1]](https://f4.bcbits.com/img/a0826943922_10.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://f4.bcbits.com/img/a0826943922_10.jpg)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:dope.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bb\ns6%3Adope%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bb\ns6%3Adope%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 USONAX | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@ USONAX | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [dope.](./dope..md)  
-该封面包含的角色：- [封兽鵺](./封兽鵺.md)
+- [dope.](./dope..md)该封面包含的角色：
+- [封兽鵺](./封兽鵺.md)
 
   
-源地址：[direct image link (max size)](https://booth.pximg.net/326e1464-9201-4252-b5d7-ff9c1339eea7/i/3884098/dc1d2f68-f88b-40d5-8748-d3f33b24e9d4.jpeg), [source page (circle Booth)](https://moocop.booth.pm/items/3884098)
-  
-
-
-
-
+源地址：[direct image link (max size)](https://booth.pximg.net/326e1464-9201-4252-b5d7-ff9c1339eea7/i/3884098/dc1d2f68-f88b-40d5-8748-d3f33b24e9d4.jpeg), [source page (circle Booth)](https://moocop.booth.pm/items/3884098)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:MARKS_OF_SIN封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8a\ns6%3AMARKS_OF_SIN%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8a\ns6%3AMARKS_OF_SIN%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Yonder_Voice | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Yonder_Voice | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [MARKS OF SIN](./MARKS_OF_SIN.md)  
-该封面包含的角色：- [克劳恩皮丝](./克劳恩皮丝.md)
-
-
-
+- [MARKS OF SIN](./MARKS_OF_SIN.md)该封面包含的角色：
+- [克劳恩皮丝](./克劳恩皮丝.md)
 
 
 ---

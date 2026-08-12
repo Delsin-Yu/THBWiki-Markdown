@@ -1,6 +1,6 @@
 # 文件:東方音奏郷vol.春雪異変編封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8d\ns6%3A%E6%9D%B1%E6%96%B9%E9%9F%B3%E5%A5%8F%E9%83%B7vol%2E%E6%98%A5%E9%9B%AA%E7%95%B0%E5%A4%89%E7%B7%A8%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8d\ns6%3A%E6%9D%B1%E6%96%B9%E9%9F%B3%E5%A5%8F%E9%83%B7vol%2E%E6%98%A5%E9%9B%AA%E7%95%B0%E5%A4%89%E7%B7%A8%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 柏原めるよだうん
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方音奏郷vol.春雪異変編](./東方音奏郷vol.春雪異変編.md)  
-该封面包含的角色：- [八云紫](./八云紫.md)
-
-
-
+- [東方音奏郷vol.春雪異変編](./東方音奏郷vol.春雪異変編.md)该封面包含的角色：
+- [八云紫](./八云紫.md)
 
 
 ---

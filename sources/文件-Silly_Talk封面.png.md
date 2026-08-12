@@ -1,6 +1,6 @@
 # 文件:Silly_Talk封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\34\ns6%3ASilly_Talk%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\34\ns6%3ASilly_Talk%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 同人志封面 | 寝言但楽部 | 封面图片
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Silly Talk](./Silly_Talk.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [Silly Talk](./Silly_Talk.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
   
-[Pixiv artwork ID: 32180887 (original size)](https://www.pixiv.net/artworks/32180887)
-  
-
-
-
-
+[Pixiv artwork ID: 32180887 (original size)](https://www.pixiv.net/artworks/32180887)  
 
 ---
 

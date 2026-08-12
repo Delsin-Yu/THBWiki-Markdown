@@ -1,12 +1,8 @@
 # 文件:必杀「Heart_Break」（萃梦想）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e2\ns6%3A%E5%BF%85%E6%9D%80%E3%80%8CHeart_Break%E3%80%8D%EF%BC%88%E8%90%83%E6%A2%A6%E6%83%B3%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e2\ns6%3A%E5%BF%85%E6%9D%80%E3%80%8CHeart_Break%E3%80%8D%EF%BC%88%E8%90%83%E6%A2%A6%E6%83%B3%EF%BC%89%2Ejpg.html -->
 
 东方萃梦想 | 自机符卡 | 蕾米莉亚·斯卡蕾特
-
-
-
-
 
 
 ---

@@ -1,14 +1,11 @@
 # 文件:俺は十進法を採用しました。banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e2\ns6%3A%E4%BF%BA%E3%81%AF%E5%8D%81%E9%80%B2%E6%B3%95%E3%82%92%E6%8E%A1%E7%94%A8%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E3%80%82banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e2\ns6%3A%E4%BF%BA%E3%81%AF%E5%8D%81%E9%80%B2%E6%B3%95%E3%82%92%E6%8E%A1%E7%94%A8%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E3%80%82banner%2Ejpg.html -->
 
 俺は十進法を採用しました。 | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

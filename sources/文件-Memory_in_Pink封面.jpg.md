@@ -1,6 +1,6 @@
 # 文件:Memory_in_Pink封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\87\ns6%3AMemory_in_Pink%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\87\ns6%3AMemory_in_Pink%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Skylight_Bird | 同人志封面 | 封面图片
 
@@ -8,11 +8,8 @@ Skylight_Bird | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Memory in Pink](./Memory_in_Pink.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
-
-
-
+- [Memory in Pink](./Memory_in_Pink.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
 
 ---

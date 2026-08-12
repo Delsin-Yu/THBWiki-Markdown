@@ -1,6 +1,6 @@
 # 文件:東方三月精_～_Visionary_Fairies_in_Shrine._～第9話のやつ封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cc\ns6%3A%E6%9D%B1%E6%96%B9%E4%B8%89%E6%9C%88%E7%B2%BE_%EF%BD%9E_Visionary_Fairies_in_Shrine%2E_%EF%BD%9E%E7%AC%AC9%E8%A9%B1%E3%81%AE%E3%82%84%E3%81%A4%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cc\ns6%3A%E6%9D%B1%E6%96%B9%E4%B8%89%E6%9C%88%E7%B2%BE_%EF%BD%9E_Visionary_Fairies_in_Shrine%2E_%EF%BD%9E%E7%AC%AC9%E8%A9%B1%E3%81%AE%E3%82%84%E3%81%A4%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 草枕と
 
@@ -8,11 +8,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方三月精 ～ Visionary Fairies in Shrine. ～第9話のやつ](./東方三月精_～_Visionary_Fairies_in_Shrine._～第9話のやつ.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [风见幽香](./风见幽香.md)- [二岩猯藏](./二岩猯藏.md)
-
-
-
+- [東方三月精 ～ Visionary Fairies in Shrine. ～第9話のやつ](./東方三月精_～_Visionary_Fairies_in_Shrine._～第9話のやつ.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [风见幽香](./风见幽香.md)
+- [二岩猯藏](./二岩猯藏.md)
 
 
 ---

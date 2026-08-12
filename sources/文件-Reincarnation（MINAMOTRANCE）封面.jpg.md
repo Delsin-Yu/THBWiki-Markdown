@@ -1,6 +1,6 @@
 # 文件:Reincarnation（MINAMOTRANCE）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a6\ns6%3AReincarnation%EF%BC%88MINAMOTRANCE%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a6\ns6%3AReincarnation%EF%BC%88MINAMOTRANCE%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 MINAMOTRANCE | 专辑封面 | 封面图片
 
@@ -8,16 +8,12 @@ MINAMOTRANCE | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Reincarnation（MINAMOTRANCE）](./Reincarnation（MINAMOTRANCE）.md)  
-该封面包含的角色：- [小野塚小町](./小野塚小町.md)
+- [Reincarnation（MINAMOTRANCE）](./Reincarnation（MINAMOTRANCE）.md)该封面包含的角色：
+- [小野塚小町](./小野塚小町.md)
 
   
 源地址:TLMC
   
-
-
-
-
 
 ---
 

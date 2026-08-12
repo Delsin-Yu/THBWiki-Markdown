@@ -1,14 +1,11 @@
 # 文件:02logo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\db\ns6%3A02logo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\db\ns6%3A02logo%2Epng.html -->
 
 02 | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

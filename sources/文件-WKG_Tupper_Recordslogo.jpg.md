@@ -1,16 +1,11 @@
 # 文件:WKG_Tupper_Recordslogo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b9\ns6%3AWKG_Tupper_Recordslogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b9\ns6%3AWKG_Tupper_Recordslogo%2Ejpg.html -->
 
 WKG_Tupper_Records | 社团LOGO
 
   
-源地址：[[1]](https://booth.pximg.net/c/128x128/users/784742/icon_image/27c5dde1-5daf-4733-a86b-15b8c4fa4b60_base_resized.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://booth.pximg.net/c/128x128/users/784742/icon_image/27c5dde1-5daf-4733-a86b-15b8c4fa4b60_base_resized.jpg)  
 
 ---
 

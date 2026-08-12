@@ -1,16 +1,12 @@
 # 文件:若鹭姬工作室banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3a\ns6%3A%E8%8B%A5%E9%B9%AD%E5%A7%AC%E5%B7%A5%E4%BD%9C%E5%AE%A4banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3a\ns6%3A%E8%8B%A5%E9%B9%AD%E5%A7%AC%E5%B7%A5%E4%BD%9C%E5%AE%A4banner%2Ejpg.html -->
 
 社团LOGO | 若鹭姬工作室
 
   
 若鹭姬工作室
   
-
-
-
-
 
 ---
 

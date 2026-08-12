@@ -1,12 +1,8 @@
 # 文件:ぽぽぽbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ea\ns6%3A%E3%81%BD%E3%81%BD%E3%81%BDbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ea\ns6%3A%E3%81%BD%E3%81%BD%E3%81%BDbanner%2Ejpg.html -->
 
 ぽぽぽ | 社团LOGO
-
-
-
-
 
 
 ---

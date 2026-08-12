@@ -1,6 +1,6 @@
 # 文件:FESTA／しあわせをさがして封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\26\ns6%3AFESTA%EF%BC%8F%E3%81%97%E3%81%82%E3%82%8F%E3%81%9B%E3%82%92%E3%81%95%E3%81%8C%E3%81%97%E3%81%A6%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\26\ns6%3AFESTA%EF%BC%8F%E3%81%97%E3%81%82%E3%82%8F%E3%81%9B%E3%82%92%E3%81%95%E3%81%8C%E3%81%97%E3%81%A6%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Lunatico_fEs | 专辑封面 | 封面图片
 
@@ -10,11 +10,9 @@ Lunatico_fEs | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [FESTA／しあわせをさがして](./FESTA／しあわせをさがして.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [FESTA／しあわせをさがして](./FESTA／しあわせをさがして.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

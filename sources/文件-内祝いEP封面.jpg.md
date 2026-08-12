@@ -1,6 +1,6 @@
 # 文件:内祝いEP封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2b\ns6%3A%E5%86%85%E7%A5%9D%E3%81%84EP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2b\ns6%3A%E5%86%85%E7%A5%9D%E3%81%84EP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Adust_Rain | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Adust_Rain | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [内祝いEP](./内祝いEP.md)  
-该封面包含的角色：- [西行寺幽幽子](./西行寺幽幽子.md)
-
-
-
+- [内祝いEP](./内祝いEP.md)该封面包含的角色：
+- [西行寺幽幽子](./西行寺幽幽子.md)
 
 
 ---

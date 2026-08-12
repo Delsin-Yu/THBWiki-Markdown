@@ -1,12 +1,8 @@
 # 文件:秋空アグロテックLogo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\59\ns6%3A%E7%A7%8B%E7%A9%BA%E3%82%A2%E3%82%B0%E3%83%AD%E3%83%86%E3%83%83%E3%82%AFLogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\59\ns6%3A%E7%A7%8B%E7%A9%BA%E3%82%A2%E3%82%B0%E3%83%AD%E3%83%86%E3%83%83%E3%82%AFLogo%2Ejpg.html -->
 
 社团LOGO | 秋空アグロテック
-
-
-
-
 
 
 ---

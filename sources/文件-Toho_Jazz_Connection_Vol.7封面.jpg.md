@@ -1,6 +1,6 @@
 # 文件:Toho_Jazz_Connection_Vol.7封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d3\ns6%3AToho_Jazz_Connection_Vol%2E7%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d3\ns6%3AToho_Jazz_Connection_Vol%2E7%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Baguettes_Ensemble | 专辑封面 | 封面图片
 
@@ -10,11 +10,10 @@ Baguettes_Ensemble | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Toho Jazz Connection Vol.7](./Toho_Jazz_Connection_Vol.7.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [八意永琳](./八意永琳.md)- [纯狐](./纯狐.md)
-
-
-
+- [Toho Jazz Connection Vol.7](./Toho_Jazz_Connection_Vol.7.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [八意永琳](./八意永琳.md)
+- [纯狐](./纯狐.md)
 
 
 ---

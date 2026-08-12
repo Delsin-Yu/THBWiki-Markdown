@@ -1,6 +1,6 @@
 # 文件:Demoniac_Religion封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fb\ns6%3ADemoniac_Religion%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fb\ns6%3ADemoniac_Religion%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 SOUTH_OF_HEAVEN | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ SOUTH_OF_HEAVEN | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Demoniac Religion](./Demoniac_Religion.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [Demoniac Religion](./Demoniac_Religion.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

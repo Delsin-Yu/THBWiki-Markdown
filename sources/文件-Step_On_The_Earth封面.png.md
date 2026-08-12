@@ -1,6 +1,6 @@
 # 文件:Step_On_The_Earth封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\93\ns6%3AStep_On_The_Earth%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\93\ns6%3AStep_On_The_Earth%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 S.K'／Sound | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ S.K'／Sound | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Step On The Earth](./Step_On_The_Earth.md)  
-该封面包含的角色：- [红美铃](./红美铃.md)
-
-
-
+- [Step On The Earth](./Step_On_The_Earth.md)该封面包含的角色：
+- [红美铃](./红美铃.md)
 
 
 ---

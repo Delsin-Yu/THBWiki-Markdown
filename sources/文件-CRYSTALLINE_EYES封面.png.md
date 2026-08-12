@@ -1,6 +1,6 @@
 # 文件:CRYSTALLINE_EYES封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\25\ns6%3ACRYSTALLINE_EYES%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\25\ns6%3ACRYSTALLINE_EYES%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 MAD_MIND_MACHINE | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ MAD_MIND_MACHINE | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [CRYSTALLINE EYES](./CRYSTALLINE_EYES.md)  
-该封面包含的角色：- [古明地觉](./古明地觉.md)
-
-
-
+- [CRYSTALLINE EYES](./CRYSTALLINE_EYES.md)该封面包含的角色：
+- [古明地觉](./古明地觉.md)
 
 
 ---

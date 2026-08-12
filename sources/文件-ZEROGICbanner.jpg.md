@@ -1,12 +1,8 @@
 # 文件:ZEROGICbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1d\ns6%3AZEROGICbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1d\ns6%3AZEROGICbanner%2Ejpg.html -->
 
 ZEROGIC | 社团LOGO
-
-
-
-
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:莉莉卡·普莉兹姆利巴b（花映塚像素绘）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7a\ns6%3A%E8%8E%89%E8%8E%89%E5%8D%A1%C2%B7%E6%99%AE%E8%8E%89%E5%85%B9%E5%A7%86%E5%88%A9%E5%B7%B4b%EF%BC%88%E8%8A%B1%E6%98%A0%E5%A1%9A%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7a\ns6%3A%E8%8E%89%E8%8E%89%E5%8D%A1%C2%B7%E6%99%AE%E8%8E%89%E5%85%B9%E5%A7%86%E5%88%A9%E5%B7%B4b%EF%BC%88%E8%8A%B1%E6%98%A0%E5%A1%9A%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89%2Epng.html -->
 
 东方花映塚 | 官方游戏像素绘 | 莉莉卡·普莉兹姆利巴
-
-
-
-
 
 
 ---

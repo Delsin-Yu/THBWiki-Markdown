@@ -1,6 +1,6 @@
 # 文件:Special_Instrumental（DiGiTAL_WiNG）封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b4\ns6%3ASpecial_Instrumental%EF%BC%88DiGiTAL_WiNG%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b4\ns6%3ASpecial_Instrumental%EF%BC%88DiGiTAL_WiNG%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 DiGiTAL_WiNG | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ DiGiTAL_WiNG | 专辑封面 | 封面图片
   
 
 - [Special Instrumental（DiGiTAL WiNG）](./Special_Instrumental（DiGiTAL_WiNG）.md)
-
-
-
 
 
 ---

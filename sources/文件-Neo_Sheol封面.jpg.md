@@ -1,6 +1,6 @@
 # 文件:Neo_Sheol封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0a\ns6%3ANeo_Sheol%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0a\ns6%3ANeo_Sheol%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 MANDALLIUM | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ MANDALLIUM | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Neo Sheol](./Neo_Sheol.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
-
-
-
+- [Neo Sheol](./Neo_Sheol.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Pokerface_in_Disbelief封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\75\ns6%3APokerface_in_Disbelief%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\75\ns6%3APokerface_in_Disbelief%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Cradle_of_Emeria | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Cradle_of_Emeria | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Pokerface in Disbelief](./Pokerface_in_Disbelief.md)  
-该封面包含的角色：- [秦心](./秦心.md)
+- [Pokerface in Disbelief](./Pokerface_in_Disbelief.md)该封面包含的角色：
+- [秦心](./秦心.md)
 
   
-源地址：[[1]](https://pbs.twimg.com/media/C35YW4JVUAAFADU.jpg:large)
-  
-
-
-
-
+源地址：[\[1\]](https://pbs.twimg.com/media/C35YW4JVUAAFADU.jpg:large)  
 
 ---
 

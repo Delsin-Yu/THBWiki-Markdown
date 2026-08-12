@@ -1,14 +1,11 @@
 # 文件:あらいぐまファクトリーbanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5d\ns6%3A%E3%81%82%E3%82%89%E3%81%84%E3%81%90%E3%81%BE%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BCbanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5d\ns6%3A%E3%81%82%E3%82%89%E3%81%84%E3%81%90%E3%81%BE%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BCbanner%2Egif.html -->
 
 あらいぐまファクトリー | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

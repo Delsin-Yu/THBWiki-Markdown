@@ -1,12 +1,8 @@
 # 文件:「Subterranean_Rose」（地灵殿）-2.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1f\ns6%3A%E3%80%8CSubterranean_Rose%E3%80%8D%EF%BC%88%E5%9C%B0%E7%81%B5%E6%AE%BF%EF%BC%89-2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1f\ns6%3A%E3%80%8CSubterranean_Rose%E3%80%8D%EF%BC%88%E5%9C%B0%E7%81%B5%E6%AE%BF%EF%BC%89-2%2Ejpg.html -->
 
 东方地灵殿 | 古明地恋 | 敌机符卡
-
-
-
-
 
 
 ---

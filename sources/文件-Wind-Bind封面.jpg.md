@@ -1,6 +1,6 @@
 # 文件:Wind-Bind封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\13\ns6%3AWind-Bind%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\13\ns6%3AWind-Bind%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 けみかるしとらすけーき！ | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Wind-Bind](./Wind-Bind.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [Wind-Bind](./Wind-Bind.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
 
   
-源地址：[direct image link](https://i1.sndcdn.com/artworks-000079020825-zicj4c-t500x500.jpg), [source page](https://soundcloud.com/miefy/wind-bind-xfd)
-  
-
-
-
-
+源地址：[direct image link](https://i1.sndcdn.com/artworks-000079020825-zicj4c-t500x500.jpg), [source page](https://soundcloud.com/miefy/wind-bind-xfd)  
 
 ---
 

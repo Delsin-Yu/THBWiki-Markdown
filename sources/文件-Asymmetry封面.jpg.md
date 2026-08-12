@@ -1,6 +1,6 @@
 # 文件:Asymmetry封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f2\ns6%3AAsymmetry%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f2\ns6%3AAsymmetry%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Aftergrow | minimum_electric_design | 专辑封面 | 封面图片
 
@@ -10,11 +10,11 @@ Aftergrow | minimum_electric_design | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Asymmetry](./Asymmetry.md)  
-该封面包含的角色：- [东风谷早苗](./东风谷早苗.md)- [古明地觉](./古明地觉.md)- [古明地恋](./古明地恋.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [Asymmetry](./Asymmetry.md)该封面包含的角色：
+- [东风谷早苗](./东风谷早苗.md)
+- [古明地觉](./古明地觉.md)
+- [古明地恋](./古明地恋.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

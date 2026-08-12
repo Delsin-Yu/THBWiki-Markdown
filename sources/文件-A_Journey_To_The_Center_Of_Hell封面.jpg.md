@@ -1,6 +1,6 @@
 # 文件:A_Journey_To_The_Center_Of_Hell封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0b\ns6%3AA_Journey_To_The_Center_Of_Hell%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0b\ns6%3AA_Journey_To_The_Center_Of_Hell%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Ragathol_Enterprises | 同人志封面 | 封面图片
 
@@ -8,16 +8,15 @@ Ragathol_Enterprises | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [A Journey To The Center Of Hell](./A_Journey_To_The_Center_Of_Hell.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [古明地觉](./古明地觉.md)- [火焰猫燐](./火焰猫燐.md)- [灵乌路空](./灵乌路空.md)- [雾雨魔理沙](./雾雨魔理沙.md)
+- [A Journey To The Center Of Hell](./A_Journey_To_The_Center_Of_Hell.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [古明地觉](./古明地觉.md)
+- [火焰猫燐](./火焰猫燐.md)
+- [灵乌路空](./灵乌路空.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-[Pixiv ID: 50084303](https://www.pixiv.net/artworks/50084303)
-  
-
-
-
-
+[Pixiv ID: 50084303](https://www.pixiv.net/artworks/50084303)  
 
 ---
 

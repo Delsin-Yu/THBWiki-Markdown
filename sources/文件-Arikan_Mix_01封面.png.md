@@ -1,6 +1,6 @@
 # 文件:Arikan_Mix_01封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d3\ns6%3AArikan_Mix_01%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d3\ns6%3AArikan_Mix_01%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 moon_sally | 同人志封面 | 封面图片
 
@@ -10,16 +10,13 @@ moon_sally | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Arikan Mix 01](./Arikan_Mix_01.md)  
-该封面包含的角色：- [若鹭姬](./若鹭姬.md)- [赤蛮奇](./赤蛮奇.md)- [今泉影狼](./今泉影狼.md)
+- [Arikan Mix 01](./Arikan_Mix_01.md)该封面包含的角色：
+- [若鹭姬](./若鹭姬.md)
+- [赤蛮奇](./赤蛮奇.md)
+- [今泉影狼](./今泉影狼.md)
 
   
-[Pixiv artwork ID: 46750046 (original size)](https://www.pixiv.net/artworks/46750046)
-  
-
-
-
-
+[Pixiv artwork ID: 46750046 (original size)](https://www.pixiv.net/artworks/46750046)  
 
 ---
 

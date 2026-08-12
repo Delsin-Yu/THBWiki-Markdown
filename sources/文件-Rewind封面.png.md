@@ -1,6 +1,6 @@
 # 文件:Rewind封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\96\ns6%3ARewind%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\96\ns6%3ARewind%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 少年ヴィヴィッド
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Rewind](./Rewind.md)  
-该封面包含的角色：- [古明地觉](./古明地觉.md)
+- [Rewind](./Rewind.md)该封面包含的角色：
+- [古明地觉](./古明地觉.md)
 
   
-源地址：[[1]](http://syounenvivid.yu-nagi.com/image_rewind/jacket.png)
-  
-
-
-
-
+源地址：[\[1\]](http://syounenvivid.yu-nagi.com/image_rewind/jacket.png)  
 
 ---
 

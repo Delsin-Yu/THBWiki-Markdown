@@ -1,6 +1,6 @@
 # 文件:Desires_Dream封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6a\ns6%3ADesires_Dream%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6a\ns6%3ADesires_Dream%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Hungry_Tiger（同人社团） | 专辑封面 | 封面图片
 
@@ -8,11 +8,10 @@ Hungry_Tiger（同人社团） | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Desires Dream](./Desires_Dream.md)  
-该封面包含的角色：- [苏我屠自古](./苏我屠自古.md)- [物部布都](./物部布都.md)- [丰聪耳神子](./丰聪耳神子.md)
-
-
-
+- [Desires Dream](./Desires_Dream.md)该封面包含的角色：
+- [苏我屠自古](./苏我屠自古.md)
+- [物部布都](./物部布都.md)
+- [丰聪耳神子](./丰聪耳神子.md)
 
 
 ---

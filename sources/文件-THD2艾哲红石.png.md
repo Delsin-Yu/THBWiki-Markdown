@@ -1,12 +1,8 @@
 # 文件:THD2艾哲红石.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4f\ns6%3ATHD2%E8%89%BE%E5%93%B2%E7%BA%A2%E7%9F%B3%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4f\ns6%3ATHD2%E8%89%BE%E5%93%B2%E7%BA%A2%E7%9F%B3%2Epng.html -->
 
 AvalonStudioOfficial
-
-
-
-
 
 
 ---

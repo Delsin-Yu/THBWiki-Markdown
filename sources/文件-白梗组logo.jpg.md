@@ -1,12 +1,8 @@
 # 文件:白梗组logo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fc\ns6%3A%E7%99%BD%E6%A2%97%E7%BB%84logo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fc\ns6%3A%E7%99%BD%E6%A2%97%E7%BB%84logo%2Ejpg.html -->
 
 白梗组 | 社团LOGO
-
-
-
-
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:Rumia2.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d2\ns6%3ARumia2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d2\ns6%3ARumia2%2Epng.html -->
 
 露米娅
-
-
-
-
 
 
 ---

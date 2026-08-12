@@ -1,12 +1,8 @@
 # 文件:sound_sepher_-_シンデレラケージ.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\92\ns6%3Asound_sepher_-_%E3%82%B7%E3%83%B3%E3%83%87%E3%83%AC%E3%83%A9%E3%82%B1%E3%83%BC%E3%82%B8%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\92\ns6%3Asound_sepher_-_%E3%82%B7%E3%83%B3%E3%83%87%E3%83%AC%E3%83%A9%E3%82%B1%E3%83%BC%E3%82%B8%2Emp3.html -->
 
 Cradle_-_東方幻樂祀典 | 灰姑娘的笼子_～_Kagome-Kagome
-
-
-
-
 
 
 ---

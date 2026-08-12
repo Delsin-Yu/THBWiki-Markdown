@@ -1,6 +1,6 @@
 # 文件:東方紅魔録～Toho_Kouma_Rock~封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8a\ns6%3A%E6%9D%B1%E6%96%B9%E7%B4%85%E9%AD%94%E9%8C%B2%EF%BD%9EToho_Kouma_Rock%7E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8a\ns6%3A%E6%9D%B1%E6%96%B9%E7%B4%85%E9%AD%94%E9%8C%B2%EF%BD%9EToho_Kouma_Rock%7E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 毒吐き嫉妬弾
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方紅魔録～Toho Kouma Rock~](./東方紅魔録～Toho_Kouma_Rock~.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
-
-
-
+- [東方紅魔録～Toho Kouma Rock~](./東方紅魔録～Toho_Kouma_Rock~.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
 
 ---

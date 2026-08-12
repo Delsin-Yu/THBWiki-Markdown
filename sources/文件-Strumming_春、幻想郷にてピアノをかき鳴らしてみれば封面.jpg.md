@@ -1,6 +1,6 @@
 # 文件:Strumming_春、幻想郷にてピアノをかき鳴らしてみれば封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\22\ns6%3AStrumming_%E6%98%A5%E3%80%81%E5%B9%BB%E6%83%B3%E9%83%B7%E3%81%AB%E3%81%A6%E3%83%94%E3%82%A2%E3%83%8E%E3%82%92%E3%81%8B%E3%81%8D%E9%B3%B4%E3%82%89%E3%81%97%E3%81%A6%E3%81%BF%E3%82%8C%E3%81%B0%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\22\ns6%3AStrumming_%E6%98%A5%E3%80%81%E5%B9%BB%E6%83%B3%E9%83%B7%E3%81%AB%E3%81%A6%E3%83%94%E3%82%A2%E3%83%8E%E3%82%92%E3%81%8B%E3%81%8D%E9%B3%B4%E3%82%89%E3%81%97%E3%81%A6%E3%81%BF%E3%82%8C%E3%81%B0%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Lobgesang | 专辑封面 | 封面图片
 
@@ -8,16 +8,12 @@ Lobgesang | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Strumming 春、幻想郷にてピアノをかき鳴らしてみれば](./Strumming_春、幻想郷にてピアノをかき鳴らしてみれば.md)  
-该封面包含的角色：- [西行寺幽幽子](./西行寺幽幽子.md)
+- [Strumming 春、幻想郷にてピアノをかき鳴らしてみれば](./Strumming_春、幻想郷にてピアノをかき鳴らしてみれば.md)该封面包含的角色：
+- [西行寺幽幽子](./西行寺幽幽子.md)
 
   
 源地址: TLMC
   
-
-
-
-
 
 ---
 

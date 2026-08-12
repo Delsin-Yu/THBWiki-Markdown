@@ -1,6 +1,6 @@
 # 文件:frame封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\15\ns6%3Aframe%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\15\ns6%3Aframe%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 35.8℃ | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [frame](./frame.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
-
-
-
+- [frame](./frame.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
 
 
 ---

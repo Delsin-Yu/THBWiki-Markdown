@@ -1,6 +1,6 @@
 # 文件:TOUHOU_KOUKAI_TOUR封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d1\ns6%3ATOUHOU_KOUKAI_TOUR%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d1\ns6%3ATOUHOU_KOUKAI_TOUR%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 豆屋
 
@@ -8,11 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [TOUHOU KOUKAI TOUR](./TOUHOU_KOUKAI_TOUR.md)  
-该封面包含的角色：- [红美铃](./红美铃.md)- 十六夜咲夜 (未找到链接)- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
-
-
-
+- [TOUHOU KOUKAI TOUR](./TOUHOU_KOUKAI_TOUR.md)该封面包含的角色：
+- [红美铃](./红美铃.md)
+- [十六夜咲夜](./十六夜咲夜.md)
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
 
 ---

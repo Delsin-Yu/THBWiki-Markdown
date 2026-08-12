@@ -1,12 +1,8 @@
 # 文件:菊理（dairi绘）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a1\ns6%3A%E8%8F%8A%E7%90%86%EF%BC%88dairi%E7%BB%98%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a1\ns6%3A%E8%8F%8A%E7%90%86%EF%BC%88dairi%E7%BB%98%EF%BC%89%2Epng.html -->
 
 NooblyPerson | 二次角色立绘 | 菊理（天陨梦）
-
-
-
-
 
 
 ---

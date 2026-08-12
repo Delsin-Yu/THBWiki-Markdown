@@ -1,12 +1,8 @@
 # 文件:NCMRlogo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\80\ns6%3ANCMRlogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\80\ns6%3ANCMRlogo%2Ejpg.html -->
 
 NCMR | 社团LOGO
-
-
-
-
 
 
 ---

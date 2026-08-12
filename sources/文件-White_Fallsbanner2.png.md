@@ -1,14 +1,11 @@
 # 文件:White_Fallsbanner2.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\06\ns6%3AWhite_Fallsbanner2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\06\ns6%3AWhite_Fallsbanner2%2Epng.html -->
 
 White_Falls | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

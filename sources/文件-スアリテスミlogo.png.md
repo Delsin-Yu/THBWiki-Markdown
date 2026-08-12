@@ -1,12 +1,8 @@
 # 文件:スアリテスミlogo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6e\ns6%3A%E3%82%B9%E3%82%A2%E3%83%AA%E3%83%86%E3%82%B9%E3%83%9Flogo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6e\ns6%3A%E3%82%B9%E3%82%A2%E3%83%AA%E3%83%86%E3%82%B9%E3%83%9Flogo%2Epng.html -->
 
 スアリテスミ | 社团LOGO
-
-
-
-
 
 
 ---

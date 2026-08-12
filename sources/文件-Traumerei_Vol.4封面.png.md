@@ -1,6 +1,6 @@
 # 文件:Traumerei_Vol.4封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6d\ns6%3ATraumerei_Vol%2E4%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6d\ns6%3ATraumerei_Vol%2E4%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 同人志封面 | 封面图片 | 黒獅子帝
 
@@ -10,16 +10,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [Traumerei Vol.4](./Traumerei_Vol.4.md)  
-该封面包含的角色：- [东风谷早苗](./东风谷早苗.md)- [秦心](./秦心.md)
+- [Traumerei Vol.4](./Traumerei_Vol.4.md)该封面包含的角色：
+- [东风谷早苗](./东风谷早苗.md)
+- [秦心](./秦心.md)
 
   
-[Pixiv artwork ID: 47767689 (original size)](https://www.pixiv.net/artworks/47767689)
-  
-
-
-
-
+[Pixiv artwork ID: 47767689 (original size)](https://www.pixiv.net/artworks/47767689)  
 
 ---
 

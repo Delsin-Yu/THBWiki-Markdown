@@ -1,12 +1,8 @@
 # 文件:奇迹「弘安的神风」（DS文花帖）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9e\ns6%3A%E5%A5%87%E8%BF%B9%E3%80%8C%E5%BC%98%E5%AE%89%E7%9A%84%E7%A5%9E%E9%A3%8E%E3%80%8D%EF%BC%88DS%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9e\ns6%3A%E5%A5%87%E8%BF%B9%E3%80%8C%E5%BC%98%E5%AE%89%E7%9A%84%E7%A5%9E%E9%A3%8E%E3%80%8D%EF%BC%88DS%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Ejpg.html -->
 
 东方文花帖DS | 东风谷早苗 | 敌机符卡
-
-
-
-
 
 
 ---

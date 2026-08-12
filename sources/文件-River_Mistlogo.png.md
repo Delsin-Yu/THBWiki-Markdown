@@ -1,16 +1,11 @@
 # 文件:River_Mistlogo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8d\ns6%3ARiver_Mistlogo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8d\ns6%3ARiver_Mistlogo%2Epng.html -->
 
 River_Mist | 社团LOGO
 
   
-源地址：[[1]](https://static.wixstatic.com/media/d2995c_0fecca0437ec47a3aec580a3726d1970~mv2.png)
-  
-
-
-
-
+源地址：[\[1\]](https://static.wixstatic.com/media/d2995c_0fecca0437ec47a3aec580a3726d1970~mv2.png)  
 
 ---
 

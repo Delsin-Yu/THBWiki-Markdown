@@ -1,14 +1,11 @@
 # 文件:LiveLiqueurbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ed\ns6%3ALiveLiqueurbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ed\ns6%3ALiveLiqueurbanner%2Epng.html -->
 
 LiveLiqueur | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

@@ -1,12 +1,8 @@
 # 文件:THD2使魔斗篷.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\40\ns6%3ATHD2%E4%BD%BF%E9%AD%94%E6%96%97%E7%AF%B7%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\40\ns6%3ATHD2%E4%BD%BF%E9%AD%94%E6%96%97%E7%AF%B7%2Epng.html -->
 
 AvalonStudioOfficial
-
-
-
-
 
 
 ---

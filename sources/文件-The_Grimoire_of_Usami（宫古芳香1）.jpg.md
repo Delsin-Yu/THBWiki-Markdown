@@ -1,14 +1,11 @@
 # 文件:The_Grimoire_of_Usami（宫古芳香1）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\72\ns6%3AThe_Grimoire_of_Usami%EF%BC%88%E5%AE%AB%E5%8F%A4%E8%8A%B3%E9%A6%991%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\72\ns6%3AThe_Grimoire_of_Usami%EF%BC%88%E5%AE%AB%E5%8F%A4%E8%8A%B3%E9%A6%991%EF%BC%89%2Ejpg.html -->
 
 宇佐见的魔法书 | 宫古芳香
 
 
 ## 摘要
-
-
-
 
 ---
 

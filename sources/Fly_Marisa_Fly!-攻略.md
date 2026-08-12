@@ -1,32 +1,27 @@
 # Fly_Marisa_Fly!/攻略
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\1\1c\ns0%3AFly_Marisa_Fly%21%2F%E6%94%BB%E7%95%A5.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\1\1c\ns0%3AFly_Marisa_Fly%21%2F%E6%94%BB%E7%95%A5.html -->
 
 2D_Emotion
 
 
 ## 游戏界面
-
   
 分数位于游戏界面左下角，随着您前进而增加移动  
 
-移动[魔理沙](./雾雨魔理沙.md)躲避来袭的随机弹和BOSS发出的弹幕 (未找到链接)。[魔理沙](./雾雨魔理沙.md)中心的红点为判定点 (未找到链接),大玉的内圈是判定 (未找到链接)区域。  
+移动[魔理沙](./雾雨魔理沙.md)躲避来袭的随机弹和BOSS发出的[弹幕](./游戏攻略-STG术语.md#弹幕)。[魔理沙](./雾雨魔理沙.md)中心的红点为[判定点](./游戏攻略-STG术语.md#判定点),大玉的内圈是[判定](./游戏攻略-STG术语.md#判定)区域。  
 
 当BOSS出现时，击落他们，您的分数将加50分。  
 
-如果您的判定点 (未找到链接)触及子弹的内圈、敌人或头顶尖峰，游戏将结束。  
+如果您的[判定点](./游戏攻略-STG术语.md#判定点)触及子弹的内圈、敌人或头顶尖峰，游戏将结束。  
 
 之后，您可以选择将 ~~分数发送到2DEmotion.com(Summit)~~ (已失效)、重试(Retry)或转到菜单(Menu)。
   
-
-
   
-[](./文件-FlyMarisaFly1.png.md)
+<img alt="FlyMarisaFly1.png" src="https://upload.thwiki.cc/thumb/1/1e/FlyMarisaFly1.png/500px-FlyMarisaFly1.png" decoding="async" loading="lazy" width="500" height="375" srcset="https://upload.thwiki.cc/1/1e/FlyMarisaFly1.png 1.5x" data-file-width="640" data-file-height="480">
   
-
 
 ## 基本操作
-
   
 鼠标：攻击位置光标  
 
@@ -44,11 +39,6 @@ Esc：暂停游戏
 
 F4：切换全屏/窗口
   
-
-
-
-
-
 
 ---
 

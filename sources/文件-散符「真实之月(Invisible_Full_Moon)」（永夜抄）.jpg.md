@@ -1,12 +1,8 @@
 # 文件:散符「真实之月(Invisible_Full_Moon)」（永夜抄）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fc\ns6%3A%E6%95%A3%E7%AC%A6%E3%80%8C%E7%9C%9F%E5%AE%9E%E4%B9%8B%E6%9C%88%28Invisible_Full_Moon%29%E3%80%8D%EF%BC%88%E6%B0%B8%E5%A4%9C%E6%8A%84%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fc\ns6%3A%E6%95%A3%E7%AC%A6%E3%80%8C%E7%9C%9F%E5%AE%9E%E4%B9%8B%E6%9C%88%28Invisible_Full_Moon%29%E3%80%8D%EF%BC%88%E6%B0%B8%E5%A4%9C%E6%8A%84%EF%BC%89%2Ejpg.html -->
 
 东方永夜抄 | 敌机符卡 | 铃仙·优昙华院·因幡
-
-
-
-
 
 
 ---

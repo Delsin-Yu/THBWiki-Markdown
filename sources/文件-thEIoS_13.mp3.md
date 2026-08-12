@@ -1,6 +1,6 @@
 # 文件:thEIoS_13.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\61\ns6%3AthEIoS_13%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\61\ns6%3AthEIoS_13%2Emp3.html -->
 
 东方祈华梦制作组 | 徒名草之道_～神宫寺祈前哨战～
 
@@ -9,10 +9,6 @@
   
 祈华梦五面BOSS曲1
   
-
-
-
-
 
 ---
 

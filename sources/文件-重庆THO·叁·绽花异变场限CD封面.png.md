@@ -1,6 +1,6 @@
 # 文件:重庆THO·叁·绽花异变场限CD封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a3\ns6%3A%E9%87%8D%E5%BA%86THO%C2%B7%E5%8F%81%C2%B7%E7%BB%BD%E8%8A%B1%E5%BC%82%E5%8F%98%E5%9C%BA%E9%99%90CD%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a3\ns6%3A%E9%87%8D%E5%BA%86THO%C2%B7%E5%8F%81%C2%B7%E7%BB%BD%E8%8A%B1%E5%BC%82%E5%8F%98%E5%9C%BA%E9%99%90CD%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 重庆THONLY
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [重庆THO·叁·绽花异变场限CD](./重庆THO·叁·绽花异变场限CD.md)  
-该封面包含的角色：- [稗田阿求](./稗田阿求.md)
-
-
-
+- [重庆THO·叁·绽花异变场限CD](./重庆THO·叁·绽花异变场限CD.md)该封面包含的角色：
+- [稗田阿求](./稗田阿求.md)
 
 
 ---

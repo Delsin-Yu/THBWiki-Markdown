@@ -1,6 +1,6 @@
 # 文件:Tonight_Seiga封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a8\ns6%3ATonight_Seiga%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a8\ns6%3ATonight_Seiga%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Over_The_Coffee | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Over_The_Coffee | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Tonight Seiga](./Tonight_Seiga.md)  
-该封面包含的角色：- [霍青娥](./霍青娥.md)
-
-
-
+- [Tonight Seiga](./Tonight_Seiga.md)该封面包含的角色：
+- [霍青娥](./霍青娥.md)
 
 
 ---

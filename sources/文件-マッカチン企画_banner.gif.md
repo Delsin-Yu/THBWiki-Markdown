@@ -1,12 +1,8 @@
 # 文件:マッカチン企画_banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6d\ns6%3A%E3%83%9E%E3%83%83%E3%82%AB%E3%83%81%E3%83%B3%E4%BC%81%E7%94%BB_banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6d\ns6%3A%E3%83%9E%E3%83%83%E3%82%AB%E3%83%81%E3%83%B3%E4%BC%81%E7%94%BB_banner%2Egif.html -->
 
 マッカチン企画 | 社团LOGO
-
-
-
-
 
 
 ---

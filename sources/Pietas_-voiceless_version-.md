@@ -1,32 +1,29 @@
 # Pietas_-voiceless_version-
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\20\ns0%3APietas_-voiceless_version-.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\20\ns0%3APietas_-voiceless_version-.html -->
 
 2013年4月28日 由 Aphrodite 于 COMIC17 发布的单曲同人专辑，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人专辑 (未找到链接)** 的词条
-
+**[二次创作同人专辑](./二次创作.md#同人音乐)**的词条
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Pietas_-voiceless_version-封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/1/1a/Pietas_-voiceless_version-%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="224" data-file-width="200" data-file-height="200"></a></td>
 </tr><tr><td class="label">名称</td><td colspan="2"> Pietas -voiceless version- </td></tr><tr><td class="label">制作方</td><td><a href="./Aphrodite.md" title="Aphrodite">Aphrodite</a></td><td class="cover-artwork" rowspan="8" style="min-width:224px;"><a href="./文件-Pietas_-voiceless_version-封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/1/1a/Pietas_-voiceless_version-%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="224" data-file-width="200" data-file-height="200"></a></td>
-</tr><tr><td class="label">首发日期</td><td>2013-04-28&#160;（<a href="/展会作品列表?e=COMIC1%237">COMIC1☆7</a>）</td></tr><tr><td class="label">类型</td><td>单曲</td></tr><tr><td class="label">编号</td><td>KPCR-144</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>1</td></tr><tr><td class="label">总时长</td><td>00:00</td></tr>
+</tr><tr><td class="label">首发日期</td><td>2013-04-28 （<a href="./展会作品列表.md#7">COMIC1☆7</a>）</td></tr><tr><td class="label">类型</td><td>单曲</td></tr><tr><td class="label">编号</td><td>KPCR-144</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>1</td></tr><tr><td class="label">总时长</td><td>00:00</td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://kapparecords.com/AphroditeSymphonics/Aphrodite_KPCR-144.html">https://kapparecords.com/AphroditeSymphonics/Aphrodite_KPCR-144.html</a></td></tr></tbody></table>
 
 Pietas -voiceless version-（同人专辑，Aphrodite，2013） - 2013年4月28日 由 Aphrodite 于 COMIC17 发布的单曲同人专辑，分级为 一般向
-
 ## Staff
   
- **Arrangement**   
+**Arrangement**  
 
-<table><tbody><tr><td><a href="/index.php?title=Masashi_%22Jill%22_Okagaki&amp;action=edit&amp;redlink=1" class="new" title="Masashi &quot;Jill&quot; Okagaki（页面不存在）">Masashi "Jill" Okagaki</a></td><td></td><td>Tr.1</td></tr></tbody></table>
+<table><tbody><tr><td><a class="new" title="Masashi &quot;Jill&quot; Okagaki（页面不存在）">Masashi "Jill" Okagaki</a></td><td></td><td>Tr.1</td></tr></tbody></table>
 
   
- **Instrument**   
+**Instrument**  
 
-<table><tbody><tr><td><a href="/index.php?title=ANI-Katsu&amp;action=edit&amp;redlink=1" class="new" title="ANI-Katsu（页面不存在）">ANI-Katsu</a></td><td></td><td>Tr.1</td></tr><tr><td><a href="/index.php?title=Hiromi_Suzuki&amp;action=edit&amp;redlink=1" class="new" title="Hiromi Suzuki（页面不存在）">Hiromi Suzuki</a></td><td></td><td>Tr.1</td></tr><tr><td><a href="/index.php?title=Masashi_%22Jill%22_Okagaki&amp;action=edit&amp;redlink=1" class="new" title="Masashi &quot;Jill&quot; Okagaki（页面不存在）">Masashi "Jill" Okagaki</a></td><td></td><td>Tr.1</td></tr></tbody></table>
-
+<table><tbody><tr><td><a class="new" title="ANI-Katsu（页面不存在）">ANI-Katsu</a></td><td></td><td>Tr.1</td></tr><tr><td><a class="new" title="Hiromi Suzuki（页面不存在）">Hiromi Suzuki</a></td><td></td><td>Tr.1</td></tr><tr><td><a class="new" title="Masashi &quot;Jill&quot; Okagaki（页面不存在）">Masashi "Jill" Okagaki</a></td><td></td><td>Tr.1</td></tr></tbody></table>
 
 
 ## 试听
@@ -34,17 +31,12 @@ Pietas -voiceless version-（同人专辑，Aphrodite，2013） - 2013年4月28�
 暂不支援此类型
   
 
-
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Pietas_-voiceless_version-" colspan="2" class="title">Pietas -voiceless version-<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Masashi &quot;Jill&quot; Okagaki&amp;ogmusic=リジッドパラダイス&amp;fromwiki=Pietas_-voiceless_version-"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=Masashi_%22Jill%22_Okagaki&amp;action=edit&amp;redlink=1" class="new" title="Masashi &quot;Jill&quot; Okagaki（页面不存在）">Masashi "Jill" Okagaki</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Masashi &quot;Jill&quot; Okagaki&amp;fromwiki=Pietas_-voiceless_version-"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演奏</td><td class="text" colspan="2">Keyboards：Masashi "Jill" Okagaki <br>Guitar：Hiromi Suzuki <br>Bass：ANI-Katsu</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=リジッドパラダイス&amp;fromwiki=Pietas_-voiceless_version-"><span></span></a></span><div class="ogmusic"><a href="./リジッドパラダイス.md" class="mw-redirect" title="リジッドパラダイス">リジッドパラダイス</a></div><div class="source"><a href="./东方神灵庙_～_Ten_Desires..md" class="mw-redirect" title="东方神灵庙 ～ Ten Desires.">东方神灵庙　～ Ten Desires.</a></div></td></tr></tbody></table>
-
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Pietas_-voiceless_version-" colspan="2" class="title">Pietas -voiceless version-</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="Masashi &quot;Jill&quot; Okagaki（页面不存在）">Masashi "Jill" Okagaki</a></td></tr><tr><td class="left"></td><td class="label">演奏</td><td class="text" colspan="2">Keyboards：Masashi "Jill" Okagaki <br>Guitar：Hiromi Suzuki <br>Bass：ANI-Katsu</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./Rigid_Paradise.md" class="mw-redirect" title="リジッドパラダイス">リジッドパラダイス</a></div><div class="source"><a href="./东方神灵庙.md" class="mw-redirect" title="东方神灵庙 ～ Ten Desires.">东方神灵庙　～ Ten Desires.</a></div></td></tr></tbody></table>
 
 
 ## 评论
-
-
-
 
 ---
 

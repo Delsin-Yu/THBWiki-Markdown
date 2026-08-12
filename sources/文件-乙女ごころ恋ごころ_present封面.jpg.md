@@ -1,6 +1,6 @@
 # 文件:乙女ごころ恋ごころ_present封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\87\ns6%3A%E4%B9%99%E5%A5%B3%E3%81%94%E3%81%93%E3%82%8D%E6%81%8B%E3%81%94%E3%81%93%E3%82%8D_present%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\87\ns6%3A%E4%B9%99%E5%A5%B3%E3%81%94%E3%81%93%E3%82%8D%E6%81%8B%E3%81%94%E3%81%93%E3%82%8D_present%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ているこんちぇると（仮） | 同人志封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [乙女ごころ恋ごころ present](./乙女ごころ恋ごころ_present.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
-
-
-
+- [乙女ごころ恋ごころ present](./乙女ごころ恋ごころ_present.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
 
 
 ---

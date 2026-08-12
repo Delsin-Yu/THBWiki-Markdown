@@ -1,12 +1,8 @@
 # 文件:貴様それでも人間か！！banner1.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\de\ns6%3A%E8%B2%B4%E6%A7%98%E3%81%9D%E3%82%8C%E3%81%A7%E3%82%82%E4%BA%BA%E9%96%93%E3%81%8B%EF%BC%81%EF%BC%81banner1%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\de\ns6%3A%E8%B2%B4%E6%A7%98%E3%81%9D%E3%82%8C%E3%81%A7%E3%82%82%E4%BA%BA%E9%96%93%E3%81%8B%EF%BC%81%EF%BC%81banner1%2Ejpg.html -->
 
 社团LOGO | 貴様それでも人間か！！
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Spring_Spring_-Four_Seasons_Library_vol.1-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\34\ns6%3ASpring_Spring_-Four_Seasons_Library_vol%2E1-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\34\ns6%3ASpring_Spring_-Four_Seasons_Library_vol%2E1-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 少女理論観測所
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [Spring Spring -Four Seasons Library vol.1-](./Spring_Spring_-Four_Seasons_Library_vol.1-.md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)- [西行寺幽幽子](./西行寺幽幽子.md)
-
-
-
+- [Spring Spring -Four Seasons Library vol.1-](./Spring_Spring_-Four_Seasons_Library_vol.1-.md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
+- [西行寺幽幽子](./西行寺幽幽子.md)
 
 
 ---

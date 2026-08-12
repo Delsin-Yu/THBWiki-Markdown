@@ -1,6 +1,6 @@
 # 文件:Hetare_TOHO_Music_side：G_vol.1β封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\02\ns6%3AHetare_TOHO_Music_side%EF%BC%9AG_vol%2E1%CE%B2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\02\ns6%3AHetare_TOHO_Music_side%EF%BC%9AG_vol%2E1%CE%B2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 SLM-music | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ SLM-music | 专辑封面 | 封面图片
   
 
 - [Hetare TOHO Music side：G vol.1β](./Hetare_TOHO_Music_side：G_vol.1β.md)
-
-
-
 
 
 ---

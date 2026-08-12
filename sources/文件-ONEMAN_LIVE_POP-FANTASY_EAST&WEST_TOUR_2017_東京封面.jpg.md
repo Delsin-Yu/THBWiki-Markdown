@@ -1,6 +1,6 @@
 # 文件:ONEMAN_LIVE_POP-FANTASY_EAST&WEST_TOUR_2017_東京封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\ba\ns6%3AONEMAN_LIVE_POP-FANTASY_EAST%26WEST_TOUR_2017_%E6%9D%B1%E4%BA%AC%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\ba\ns6%3AONEMAN_LIVE_POP-FANTASY_EAST%26WEST_TOUR_2017_%E6%9D%B1%E4%BA%AC%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 R-note | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ R-note | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [ONEMAN LIVE POP-FANTASY EAST&amp;WEST TOUR 2017 東京](./ONEMAN_LIVE_POP-FANTASY_EAST&WEST_TOUR_2017_東京.md)  
-该封面包含的角色：- [丰聪耳神子](./丰聪耳神子.md)
-
-
-
+- [ONEMAN LIVE POP-FANTASY EAST&WEST TOUR 2017 東京](./ONEMAN_LIVE_POP-FANTASY_EAST&WEST_TOUR_2017_東京.md)该封面包含的角色：
+- [丰聪耳神子](./丰聪耳神子.md)
 
 
 ---

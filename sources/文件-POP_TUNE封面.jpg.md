@@ -1,6 +1,6 @@
 # 文件:POP_TUNE封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\88\ns6%3APOP_TUNE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\88\ns6%3APOP_TUNE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 竹音器
 
@@ -8,11 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [POP TUNE](./POP_TUNE.md)  
-该封面包含的角色：- [梅蒂欣·梅兰可莉](./梅蒂欣·梅兰可莉.md)- [风见幽香](./风见幽香.md)- [小野塚小町](./小野塚小町.md)- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)
-
-
-
+- [POP TUNE](./POP_TUNE.md)该封面包含的角色：
+- [梅蒂欣·梅兰可莉](./梅蒂欣·梅兰可莉.md)
+- [风见幽香](./风见幽香.md)
+- [小野塚小町](./小野塚小町.md)
+- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)
 
 
 ---

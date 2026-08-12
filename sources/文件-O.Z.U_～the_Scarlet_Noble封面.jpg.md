@@ -1,6 +1,6 @@
 # 文件:O.Z.U_～the_Scarlet_Noble封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\03\ns6%3AO%2EZ%2EU_%EF%BD%9Ethe_Scarlet_Noble%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\03\ns6%3AO%2EZ%2EU_%EF%BD%9Ethe_Scarlet_Noble%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Unity-Gain | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Unity-Gain | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [O.Z.U ～the Scarlet Noble](./O.Z.U_～the_Scarlet_Noble.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [O.Z.U ～the Scarlet Noble](./O.Z.U_～the_Scarlet_Noble.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
   
-源地址：[[1]](http://classic-imagecluster.img.mixi.jp/p/8a8a59ab7a1bf09b7117d8a40b53b69254ec1ed216/58f51f7a/bbs/50783184_186.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://classic-imagecluster.img.mixi.jp/p/8a8a59ab7a1bf09b7117d8a40b53b69254ec1ed216/58f51f7a/bbs/50783184_186.jpg)  
 
 ---
 

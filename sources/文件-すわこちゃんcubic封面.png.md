@@ -1,6 +1,6 @@
 # 文件:すわこちゃんcubic封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dd\ns6%3A%E3%81%99%E3%82%8F%E3%81%93%E3%81%A1%E3%82%83%E3%82%93cubic%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dd\ns6%3A%E3%81%99%E3%82%8F%E3%81%93%E3%81%A1%E3%82%83%E3%82%93cubic%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 UTG_Software | 封面图片 | 软件封面
 
@@ -8,11 +8,9 @@ UTG_Software | 封面图片 | 软件封面
 使用了本文件作封面图片的作品：
   
 
-- [すわこちゃんcubic](./すわこちゃんcubic.md)  
-该封面包含的角色：- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)- [洩矢诹访子](./洩矢诹访子.md)
-
-
-
+- [すわこちゃんcubic](./すわこちゃんcubic.md)该封面包含的角色：
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
+- [洩矢诹访子](./洩矢诹访子.md)
 
 
 ---

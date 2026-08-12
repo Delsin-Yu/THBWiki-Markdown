@@ -1,16 +1,12 @@
 # 文件:SH03_Cover_C65.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8f\ns6%3ASH03_Cover_C65%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8f\ns6%3ASH03_Cover_C65%2Ejpg.html -->
 
 幡紫龙 | 西方Project
 
   
 幡紫龙正式版Ver. 1.0封面，C65版。
   
-
-
-
-
 
 ---
 

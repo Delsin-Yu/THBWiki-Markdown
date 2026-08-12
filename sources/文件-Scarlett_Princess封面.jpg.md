@@ -1,6 +1,6 @@
 # 文件:Scarlett_Princess封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1f\ns6%3AScarlett_Princess%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1f\ns6%3AScarlett_Princess%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 アールグレイ | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Scarlett Princess](./Scarlett_Princess.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
-
-
-
+- [Scarlett Princess](./Scarlett_Princess.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
 
 ---

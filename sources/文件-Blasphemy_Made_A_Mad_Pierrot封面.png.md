@@ -1,6 +1,6 @@
 # 文件:Blasphemy_Made_A_Mad_Pierrot封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d2\ns6%3ABlasphemy_Made_A_Mad_Pierrot%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d2\ns6%3ABlasphemy_Made_A_Mad_Pierrot%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Sworn_To_The_Black | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Sworn_To_The_Black | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Blasphemy Made A Mad Pierrot](./Blasphemy_Made_A_Mad_Pierrot.md)  
-该封面包含的角色：- [克劳恩皮丝](./克劳恩皮丝.md)
-
-
-
+- [Blasphemy Made A Mad Pierrot](./Blasphemy_Made_A_Mad_Pierrot.md)该封面包含的角色：
+- [克劳恩皮丝](./克劳恩皮丝.md)
 
 
 ---

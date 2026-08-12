@@ -1,6 +1,6 @@
 # 文件:Nine_bit_memory封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6f\ns6%3ANine_bit_memory%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6f\ns6%3ANine_bit_memory%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 あやしー | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Nine bit memory](./Nine_bit_memory.md)  
-该封面包含的角色：- [赤蛮奇](./赤蛮奇.md)
-
-
-
+- [Nine bit memory](./Nine_bit_memory.md)该封面包含的角色：
+- [赤蛮奇](./赤蛮奇.md)
 
 
 ---

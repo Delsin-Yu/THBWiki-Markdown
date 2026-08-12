@@ -1,6 +1,6 @@
 # 文件:wonderland（同人志）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\72\ns6%3Awonderland%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\72\ns6%3Awonderland%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Emergency_Yellow | 同人志封面 | 封面图片
 
@@ -8,11 +8,17 @@ Emergency_Yellow | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [wonderland（同人志）](./wonderland（同人志）.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)- [红美铃](./红美铃.md)- [博丽灵梦](./博丽灵梦.md)- 十六夜咲夜 (未找到链接)- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)- [魂魄妖梦](./魂魄妖梦.md)- [八云紫](./八云紫.md)- [苏我屠自古](./苏我屠自古.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [wonderland（同人志）](./wonderland（同人志）.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
+- [红美铃](./红美铃.md)
+- [博丽灵梦](./博丽灵梦.md)
+- [十六夜咲夜](./十六夜咲夜.md)
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [魂魄妖梦](./魂魄妖梦.md)
+- [八云紫](./八云紫.md)
+- [苏我屠自古](./苏我屠自古.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

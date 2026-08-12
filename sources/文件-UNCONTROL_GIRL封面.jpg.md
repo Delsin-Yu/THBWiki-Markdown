@@ -1,6 +1,6 @@
 # 文件:UNCONTROL_GIRL封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8c\ns6%3AUNCONTROL_GIRL%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8c\ns6%3AUNCONTROL_GIRL%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 和囃子 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [UNCONTROL GIRL](./UNCONTROL_GIRL.md)  
-该封面包含的角色：- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
-
-
-
+- [UNCONTROL GIRL](./UNCONTROL_GIRL.md)该封面包含的角色：
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
 
 
 ---

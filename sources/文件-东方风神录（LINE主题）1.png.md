@@ -1,12 +1,8 @@
 # 文件:东方风神录（LINE主题）1.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6d\ns6%3A%E4%B8%9C%E6%96%B9%E9%A3%8E%E7%A5%9E%E5%BD%95%EF%BC%88LINE%E4%B8%BB%E9%A2%98%EF%BC%891%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6d\ns6%3A%E4%B8%9C%E6%96%B9%E9%A3%8E%E7%A5%9E%E5%BD%95%EF%BC%88LINE%E4%B8%BB%E9%A2%98%EF%BC%891%2Epng.html -->
 
 东方Project官方LINE主题
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Over_the_Moon（黒蜜きなこ工房）封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\aa\ns6%3AOver_the_Moon%EF%BC%88%E9%BB%92%E8%9C%9C%E3%81%8D%E3%81%AA%E3%81%93%E5%B7%A5%E6%88%BF%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\aa\ns6%3AOver_the_Moon%EF%BC%88%E9%BB%92%E8%9C%9C%E3%81%8D%E3%81%AA%E3%81%93%E5%B7%A5%E6%88%BF%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 黒蜜きなこ工房
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Over the Moon（黒蜜きなこ工房）](./Over_the_Moon（黒蜜きなこ工房）.md)  
-该封面包含的角色：- [稀神探女](./稀神探女.md)
-
-
-
+- [Over the Moon（黒蜜きなこ工房）](./Over_the_Moon（黒蜜きなこ工房）.md)该封面包含的角色：
+- [稀神探女](./稀神探女.md)
 
 
 ---

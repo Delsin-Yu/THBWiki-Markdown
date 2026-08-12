@@ -1,6 +1,6 @@
 # 文件:東方強力過給-トウホウスーパーチャージャー-_Demo.ver封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\01\ns6%3A%E6%9D%B1%E6%96%B9%E5%BC%B7%E5%8A%9B%E9%81%8E%E7%B5%A6-%E3%83%88%E3%82%A6%E3%83%9B%E3%82%A6%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%81%E3%83%A3%E3%83%BC%E3%82%B8%E3%83%A3%E3%83%BC-_Demo%2Ever%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\01\ns6%3A%E6%9D%B1%E6%96%B9%E5%BC%B7%E5%8A%9B%E9%81%8E%E7%B5%A6-%E3%83%88%E3%82%A6%E3%83%9B%E3%82%A6%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%81%E3%83%A3%E3%83%BC%E3%82%B8%E3%83%A3%E3%83%BC-_Demo%2Ever%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 燃費⑨デシリットル
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方強力過給-トウホウスーパーチャージャー- Demo.ver](./東方強力過給-トウホウスーパーチャージャー-_Demo.ver.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
-
-
-
+- [東方強力過給-トウホウスーパーチャージャー- Demo.ver](./東方強力過給-トウホウスーパーチャージャー-_Demo.ver.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
 
 
 ---

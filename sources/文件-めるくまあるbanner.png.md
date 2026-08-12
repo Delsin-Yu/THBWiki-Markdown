@@ -1,12 +1,8 @@
 # 文件:めるくまあるbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\22\ns6%3A%E3%82%81%E3%82%8B%E3%81%8F%E3%81%BE%E3%81%82%E3%82%8Bbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\22\ns6%3A%E3%82%81%E3%82%8B%E3%81%8F%E3%81%BE%E3%81%82%E3%82%8Bbanner%2Epng.html -->
 
 めるくまある | 社团LOGO
-
-
-
-
 
 
 ---

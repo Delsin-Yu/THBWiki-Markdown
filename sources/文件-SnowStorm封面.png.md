@@ -1,6 +1,6 @@
 # 文件:SnowStorm封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\26\ns6%3ASnowStorm%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\26\ns6%3ASnowStorm%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Pearls_Before_Swine | 专辑封面 | 封面图片
 
@@ -11,12 +11,7 @@ Pearls_Before_Swine | 专辑封面 | 封面图片
 - [SnowStorm](./SnowStorm.md)
 
   
-源地址：[[1]](http://pbswine.jp/pbs002-1/img/pbs002-1cd.png)
-  
-
-
-
-
+源地址：[\[1\]](http://pbswine.jp/pbs002-1/img/pbs002-1cd.png)  
 
 ---
 

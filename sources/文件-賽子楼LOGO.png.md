@@ -1,12 +1,8 @@
 # 文件:賽子楼LOGO.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c8\ns6%3A%E8%B3%BD%E5%AD%90%E6%A5%BCLOGO%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c8\ns6%3A%E8%B3%BD%E5%AD%90%E6%A5%BCLOGO%2Epng.html -->
 
 社团LOGO | 賽子楼
-
-
-
-
 
 
 ---

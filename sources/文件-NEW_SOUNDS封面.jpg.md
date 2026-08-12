@@ -1,6 +1,6 @@
 # 文件:NEW_SOUNDS封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\90\ns6%3ANEW_SOUNDS%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\90\ns6%3ANEW_SOUNDS%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 SNUG_SPACE | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ SNUG_SPACE | 专辑封面 | 封面图片
   
 
 - [NEW SOUNDS](./NEW_SOUNDS.md)
-
-
-
 
 
 ---

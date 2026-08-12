@@ -1,6 +1,6 @@
 # 文件:One_Love封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\47\ns6%3AOne_Love%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\47\ns6%3AOne_Love%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ちくたくとーん | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [One Love](./One_Love.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [魂魄妖梦](./魂魄妖梦.md)
-
-
-
+- [One Love](./One_Love.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [魂魄妖梦](./魂魄妖梦.md)
 
 
 ---

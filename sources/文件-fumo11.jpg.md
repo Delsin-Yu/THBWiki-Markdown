@@ -1,16 +1,12 @@
 # 文件:fumo11.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\90\ns6%3Afumo11%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\90\ns6%3Afumo11%2Ejpg.html -->
 
 ふもふも
 
   
 魂魄妖梦
   
-
-
-
-
 
 ---
 

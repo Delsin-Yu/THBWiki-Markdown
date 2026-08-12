@@ -1,6 +1,6 @@
 # 文件:Color_of_Life封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7f\ns6%3AColor_of_Life%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7f\ns6%3AColor_of_Life%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 XL_Project | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ XL_Project | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Color of Life](./Color_of_Life.md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)
-
-
-
+- [Color of Life](./Color_of_Life.md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
 
 
 ---

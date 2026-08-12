@@ -1,6 +1,6 @@
 # 文件:ComicMarket74限定77枚ヒソウ特典CD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\11\ns6%3AComicMarket74%E9%99%90%E5%AE%9A77%E6%9E%9A%E3%83%92%E3%82%BD%E3%82%A6%E7%89%B9%E5%85%B8CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\11\ns6%3AComicMarket74%E9%99%90%E5%AE%9A77%E6%9E%9A%E3%83%92%E3%82%BD%E3%82%A6%E7%89%B9%E5%85%B8CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Like_a_rabbit | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Like_a_rabbit | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [ComicMarket74限定77枚ヒソウ特典CD](./ComicMarket74限定77枚ヒソウ特典CD.md)  
-该封面包含的角色：- [比那名居天子](./比那名居天子.md)
-
-
-
+- [ComicMarket74限定77枚ヒソウ特典CD](./ComicMarket74限定77枚ヒソウ特典CD.md)该封面包含的角色：
+- [比那名居天子](./比那名居天子.md)
 
 
 ---

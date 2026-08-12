@@ -1,6 +1,6 @@
 # 文件:Moon_in_the_Dawn封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5d\ns6%3AMoon_in_the_Dawn%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5d\ns6%3AMoon_in_the_Dawn%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 あさつき堂 | 同人志封面 | 封面图片
 
@@ -8,11 +8,18 @@
 使用了本文件作封面图片的作品：
   
 
-- [Moon in the Dawn](./Moon_in_the_Dawn.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)- [博丽灵梦](./博丽灵梦.md)- [大妖精](./大妖精.md)- [小恶魔](./小恶魔.md)- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [八云蓝](./八云蓝.md)- [上白泽慧音](./上白泽慧音.md)- [八意永琳](./八意永琳.md)- [风见幽香](./风见幽香.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [Moon in the Dawn](./Moon_in_the_Dawn.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
+- [博丽灵梦](./博丽灵梦.md)
+- [大妖精](./大妖精.md)
+- [小恶魔](./小恶魔.md)
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [八云蓝](./八云蓝.md)
+- [上白泽慧音](./上白泽慧音.md)
+- [八意永琳](./八意永琳.md)
+- [风见幽香](./风见幽香.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

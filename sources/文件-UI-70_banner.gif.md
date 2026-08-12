@@ -1,12 +1,8 @@
 # 文件:UI-70_banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9c\ns6%3AUI-70_banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9c\ns6%3AUI-70_banner%2Egif.html -->
 
 UI-70 | 社团LOGO
-
-
-
-
 
 
 ---

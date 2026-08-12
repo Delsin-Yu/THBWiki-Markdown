@@ -1,14 +1,11 @@
 # 文件:怪人「Hermetic_Manteau」2（深秘录）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e4\ns6%3A%E6%80%AA%E4%BA%BA%E3%80%8CHermetic_Manteau%E3%80%8D2%EF%BC%88%E6%B7%B1%E7%A7%98%E5%BD%95%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e4\ns6%3A%E6%80%AA%E4%BA%BA%E3%80%8CHermetic_Manteau%E3%80%8D2%EF%BC%88%E6%B7%B1%E7%A7%98%E5%BD%95%EF%BC%89%2Epng.html -->
 
 东方深秘录 | 丰聪耳神子 | 敌机符卡
 
 
 ## 文件说明
-
-
-
 
 ---
 

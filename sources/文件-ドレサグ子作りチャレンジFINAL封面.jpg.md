@@ -1,6 +1,6 @@
 # 文件:ドレサグ子作りチャレンジFINAL封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\46\ns6%3A%E3%83%89%E3%83%AC%E3%82%B5%E3%82%B0%E5%AD%90%E4%BD%9C%E3%82%8A%E3%83%81%E3%83%A3%E3%83%AC%E3%83%B3%E3%82%B8FINAL%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\46\ns6%3A%E3%83%89%E3%83%AC%E3%82%B5%E3%82%B0%E5%AD%90%E4%BD%9C%E3%82%8A%E3%83%81%E3%83%A3%E3%83%AC%E3%83%B3%E3%82%B8FINAL%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 黒ごまスパもち
 
@@ -8,11 +8,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [ドレサグ子作りチャレンジFINAL](./ドレサグ子作りチャレンジFINAL.md)  
-该封面包含的角色：- [绵月丰姬](./绵月丰姬.md)- [绵月依姬](./绵月依姬.md)- 原创角色 (未找到链接)- [哆来咪·苏伊特](./哆来咪·苏伊特.md)- [稀神探女](./稀神探女.md)
-
-
-
+- [ドレサグ子作りチャレンジFINAL](./ドレサグ子作りチャレンジFINAL.md)该封面包含的角色：
+- [绵月丰姬](./绵月丰姬.md)
+- [绵月依姬](./绵月依姬.md)
+- 原创角色 (未找到链接)
+- [哆来咪·苏伊特](./哆来咪·苏伊特.md)
+- [稀神探女](./稀神探女.md)
 
 
 ---

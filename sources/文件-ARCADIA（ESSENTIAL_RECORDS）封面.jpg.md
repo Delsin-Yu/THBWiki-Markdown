@@ -1,6 +1,6 @@
 # 文件:ARCADIA（ESSENTIAL_RECORDS）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5d\ns6%3AARCADIA%EF%BC%88ESSENTIAL_RECORDS%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5d\ns6%3AARCADIA%EF%BC%88ESSENTIAL_RECORDS%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ESSENTIAL_RECORDS | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ ESSENTIAL_RECORDS | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [ARCADIA（ESSENTIAL RECORDS）](./ARCADIA（ESSENTIAL_RECORDS）.md)  
-该封面包含的角色：- [封兽鵺](./封兽鵺.md)
+- [ARCADIA（ESSENTIAL RECORDS）](./ARCADIA（ESSENTIAL_RECORDS）.md)该封面包含的角色：
+- [封兽鵺](./封兽鵺.md)
 
   
-源地址：[direct image link](https://blog-imgs-44.fc2.com/a/r/c/arceusremix/jacket01.jpg), [source page](http://arceusremix.blog84.fc2.com/blog-entry-32.html)
-  
-
-
-
-
+源地址：[direct image link](https://blog-imgs-44.fc2.com/a/r/c/arceusremix/jacket01.jpg), [source page](http://arceusremix.blog84.fc2.com/blog-entry-32.html)  
 
 ---
 

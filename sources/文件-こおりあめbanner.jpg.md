@@ -1,12 +1,8 @@
 # 文件:こおりあめbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e8\ns6%3A%E3%81%93%E3%81%8A%E3%82%8A%E3%81%82%E3%82%81banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e8\ns6%3A%E3%81%93%E3%81%8A%E3%82%8A%E3%81%82%E3%82%81banner%2Ejpg.html -->
 
 こおりあめ | 社团LOGO
-
-
-
-
 
 
 ---

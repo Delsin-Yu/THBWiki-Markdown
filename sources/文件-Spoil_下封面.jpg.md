@@ -1,6 +1,6 @@
 # 文件:Spoil_下封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\64\ns6%3ASpoil_%E4%B8%8B%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\64\ns6%3ASpoil_%E4%B8%8B%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 砂亭
 
@@ -10,11 +10,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [Spoil 下](./Spoil_下.md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)- [东风谷早苗](./东风谷早苗.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [Spoil 下](./Spoil_下.md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
+- [东风谷早苗](./东风谷早苗.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

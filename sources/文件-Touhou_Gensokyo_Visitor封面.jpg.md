@@ -1,6 +1,6 @@
 # 文件:Touhou_Gensokyo_Visitor封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5f\ns6%3ATouhou_Gensokyo_Visitor%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5f\ns6%3ATouhou_Gensokyo_Visitor%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 69Gate | 封面图片 | 软件封面
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Touhou Gensokyo Visitor](./Touhou_Gensokyo_Visitor.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [Touhou Gensokyo Visitor](./Touhou_Gensokyo_Visitor.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

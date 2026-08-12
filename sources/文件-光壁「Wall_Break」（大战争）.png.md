@@ -1,14 +1,11 @@
 # 文件:光壁「Wall_Break」（大战争）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\76\ns6%3A%E5%85%89%E5%A3%81%E3%80%8CWall_Break%E3%80%8D%EF%BC%88%E5%A4%A7%E6%88%98%E4%BA%89%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\76\ns6%3A%E5%85%89%E5%A3%81%E3%80%8CWall_Break%E3%80%8D%EF%BC%88%E5%A4%A7%E6%88%98%E4%BA%89%EF%BC%89%2Epng.html -->
 
 妖精大战争 | 敌机符卡 | 露娜切露德
 
 
 ## 文件说明
-
-
-
 
 ---
 

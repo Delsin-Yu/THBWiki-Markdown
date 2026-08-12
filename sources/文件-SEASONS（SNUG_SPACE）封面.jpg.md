@@ -1,6 +1,6 @@
 # 文件:SEASONS（SNUG_SPACE）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8f\ns6%3ASEASONS%EF%BC%88SNUG_SPACE%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8f\ns6%3ASEASONS%EF%BC%88SNUG_SPACE%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 SNUG_SPACE | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ SNUG_SPACE | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [SEASONS（SNUG SPACE）](./SEASONS（SNUG_SPACE）.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)- [矢田寺成美](./矢田寺成美.md)
-
-
-
+- [SEASONS（SNUG SPACE）](./SEASONS（SNUG_SPACE）.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
+- [矢田寺成美](./矢田寺成美.md)
 
 
 ---

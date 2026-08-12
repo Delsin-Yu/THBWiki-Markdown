@@ -1,12 +1,8 @@
 # 模板:非合理论理Show/届名
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\2\2c\ns10%3A%E9%9D%9E%E5%90%88%E7%90%86%E8%AE%BA%E7%90%86Show%2F%E5%B1%8A%E5%90%8D.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\2\2c\ns10%3A%E9%9D%9E%E5%90%88%E7%90%86%E8%AE%BA%E7%90%86Show%2F%E5%B1%8A%E5%90%8D.html -->
 
 活动届名模板
-
-
-
-
 
 
 ---

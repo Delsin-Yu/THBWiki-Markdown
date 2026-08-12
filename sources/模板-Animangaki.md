@@ -1,16 +1,12 @@
 # 模板:Animangaki
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\6\6e\ns10%3AAnimangaki.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\6\6e\ns10%3AAnimangaki.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

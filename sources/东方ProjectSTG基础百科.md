@@ -1,33 +1,28 @@
 # 东方ProjectSTG基础百科
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\8\85\ns0%3A%E4%B8%9C%E6%96%B9ProjectSTG%E5%9F%BA%E7%A1%80%E7%99%BE%E7%A7%91.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\8\85\ns0%3A%E4%B8%9C%E6%96%B9ProjectSTG%E5%9F%BA%E7%A1%80%E7%99%BE%E7%A7%91.html -->
 
 东方projectSTG基础百科 | 资料
 
 本页是整理东方Project  
- **相关资料** 的词条
-
+**相关资料**的词条
 ## 目录
 
 - [1 概述](#概述)
 - [2 目录](#目录)
 - [3 Staff](#Staff)
-
   - [3.1 初版Staff](#初版Staff)
   - [3.2 再版Staff](#再版Staff)
-
 
 
 - [4 外部链接](#外部链接)
 - [5 注释](#注释)
 
 
-
-
-
 ## 概述
 
 ## 目录
+
 - 第1页：[第三版编者的话](./东方ProjectSTG基础百科-第三版编者的话.md)[^cite_note-1]
 - 第2页：[再版编者的话](./东方ProjectSTG基础百科-再版编者的话.md)
 - 第3页：[序 写在新手上路之前](./东方ProjectSTG基础百科-序.md)
@@ -47,6 +42,7 @@
 
 
 
+
 ## Staff
 
 ### 初版Staff
@@ -57,8 +53,7 @@
 顾问
 : Slice
 主审
-: Slice&#160;&#160; SaturdayOnline
-
+: Slice   SaturdayOnline
 
 ### 再版Staff
 主编
@@ -68,16 +63,12 @@
 特别感谢
 : 悠然飘过 囧仙 星期六上线
 
-
 ## 外部链接
-- 下载地址：[http://pan.baidu.com/share/link?shareid=1868460612&amp;uk=3037574828](http://pan.baidu.com/share/link?shareid=1868460612&amp;uk=3037574828) （百度网盘）
 
+- 下载地址：[http://pan.baidu.com/share/link?shareid=1868460612&uk=3037574828](http://pan.baidu.com/share/link?shareid=1868460612&uk=3037574828) （百度网盘）
 
 [^cite_note-1]: 该版只在wiki上同步更新
-
-
-
-
+[^cite_note-2]: 附录经过了后期整理，为了避免过期内容造成误导因此搬运到了新的页面。如果有资料冲突，以最新的资料为准。
 
 ---
 

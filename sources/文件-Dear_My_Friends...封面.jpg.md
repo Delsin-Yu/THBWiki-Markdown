@@ -1,6 +1,6 @@
 # 文件:Dear_My_Friends...封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\35\ns6%3ADear_My_Friends%2E%2E%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\35\ns6%3ADear_My_Friends%2E%2E%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 LTEDTX | 专辑封面 | 封面图片
 
@@ -11,12 +11,7 @@ LTEDTX | 专辑封面 | 封面图片
 - [Dear My Friends...](./Dear_My_Friends....md)
 
   
-源地址：[[1]](https://ltedtx.files.wordpress.com/2019/11/dear-my-friends..._front.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://ltedtx.files.wordpress.com/2019/11/dear-my-friends..._front.jpg)  
 
 ---
 

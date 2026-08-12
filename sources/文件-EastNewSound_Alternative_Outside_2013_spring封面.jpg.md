@@ -1,6 +1,6 @@
 # 文件:EastNewSound_Alternative_Outside_2013_spring封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b3\ns6%3AEastNewSound_Alternative_Outside_2013_spring%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b3\ns6%3AEastNewSound_Alternative_Outside_2013_spring%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 EastNewSound | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ EastNewSound | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [EastNewSound Alternative Outside 2013 spring](./EastNewSound_Alternative_Outside_2013_spring.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [EastNewSound Alternative Outside 2013 spring](./EastNewSound_Alternative_Outside_2013_spring.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

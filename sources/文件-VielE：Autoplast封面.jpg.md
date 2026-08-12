@@ -1,6 +1,6 @@
 # 文件:VielE：Autoplast封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\79\ns6%3AVielE%EF%BC%9AAutoplast%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\79\ns6%3AVielE%EF%BC%9AAutoplast%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 緋月ノ雫
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [VielE：Autoplast](./VielE：Autoplast.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)
+- [VielE：Autoplast](./VielE：Autoplast.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
 
   
-源地址：[[1]](https://www.melonbooks.co.jp/detail/detail.php?product_id=291116)
-  
-
-
-
-
+源地址：[\[1\]](https://www.melonbooks.co.jp/detail/detail.php?product_id=291116)  
 
 ---
 

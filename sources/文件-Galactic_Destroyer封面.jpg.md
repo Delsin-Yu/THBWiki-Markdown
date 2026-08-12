@@ -1,6 +1,6 @@
 # 文件:Galactic_Destroyer封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a6\ns6%3AGalactic_Destroyer%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a6\ns6%3AGalactic_Destroyer%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Kommisar | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@ Kommisar | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Galactic Destroyer](./Galactic_Destroyer.md)  
-该封面包含的角色：- [清兰](./清兰.md)
+- [Galactic Destroyer](./Galactic_Destroyer.md)该封面包含的角色：
+- [清兰](./清兰.md)
 
   
-源地址：[[1]](https://f4.bcbits.com/img/a2745811783_10.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://f4.bcbits.com/img/a2745811783_10.jpg)  
 
 ---
 

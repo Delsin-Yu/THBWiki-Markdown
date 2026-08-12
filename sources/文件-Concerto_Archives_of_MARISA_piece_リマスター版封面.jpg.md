@@ -1,6 +1,6 @@
 # 文件:Concerto_Archives_of_MARISA_piece_リマスター版封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b4\ns6%3AConcerto_Archives_of_MARISA_piece_%E3%83%AA%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E7%89%88%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b4\ns6%3AConcerto_Archives_of_MARISA_piece_%E3%83%AA%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E7%89%88%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 弦奏水琴乐章
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Concerto Archives of MARISA piece リマスター版](./Concerto_Archives_of_MARISA_piece_リマスター版.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [Concerto Archives of MARISA piece リマスター版](./Concerto_Archives_of_MARISA_piece_リマスター版.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

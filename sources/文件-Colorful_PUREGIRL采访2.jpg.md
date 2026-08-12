@@ -1,12 +1,8 @@
 # 文件:Colorful_PUREGIRL采访2.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bc\ns6%3AColorful_PUREGIRL%E9%87%87%E8%AE%BF2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bc\ns6%3AColorful_PUREGIRL%E9%87%87%E8%AE%BF2%2Ejpg.html -->
 
 Colorful_PUREGIRL
-
-
-
-
 
 
 ---

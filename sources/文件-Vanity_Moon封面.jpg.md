@@ -1,6 +1,6 @@
 # 文件:Vanity_Moon封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f7\ns6%3AVanity_Moon%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f7\ns6%3AVanity_Moon%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Al-Kamar_Project | 专辑封面 | 封面图片
 
@@ -13,12 +13,7 @@ Al-Kamar_Project | 专辑封面 | 封面图片
 - [Vanity Moon](./Vanity_Moon.md)
 
   
-源地址：[direct image link (original size)](https://stat.ameba.jp/user_images/20101025/23/metalwasabi/65/d6/j/o0800080010821896832.jpg), [source page](https://ameblo.jp/metalwasabi/entry-10687711667.html)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://stat.ameba.jp/user_images/20101025/23/metalwasabi/65/d6/j/o0800080010821896832.jpg), [source page](https://ameblo.jp/metalwasabi/entry-10687711667.html)  
 
 ---
 

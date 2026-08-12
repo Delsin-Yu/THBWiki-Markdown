@@ -1,6 +1,6 @@
 # 文件:AKI_no_SAKENOMITAKATTA.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\12\ns6%3AAKI_no_SAKENOMITAKATTA%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\12\ns6%3AAKI_no_SAKENOMITAKATTA%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 SWAY_WIND | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@ SWAY_WIND | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [AKI no SAKENOMITAKATTA.](./AKI_no_SAKENOMITAKATTA..md)  
-该封面包含的角色：- [绵月丰姬](./绵月丰姬.md)
+- [AKI no SAKENOMITAKATTA.](./AKI_no_SAKENOMITAKATTA..md)该封面包含的角色：
+- [绵月丰姬](./绵月丰姬.md)
 
   
-源地址：[doujinshilorg: B1130517](https://www.doujinshi.org/book/1130517/AKI-no-SAKENOMITAKATTA./)
-  
-
-
-
-
+源地址：[doujinshilorg: B1130517](https://www.doujinshi.org/book/1130517/AKI-no-SAKENOMITAKATTA./)  
 
 ---
 

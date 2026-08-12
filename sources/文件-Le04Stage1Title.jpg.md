@@ -1,12 +1,8 @@
 # 文件:Le04Stage1Title.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\56\ns6%3ALe04Stage1Title%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\56\ns6%3ALe04Stage1Title%2Ejpg.html -->
 
 连缘天影战记
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Scenery_-East_Ambience_Vol.1封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c9\ns6%3AScenery_-East_Ambience_Vol%2E1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c9\ns6%3AScenery_-East_Ambience_Vol%2E1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 人生の気だるさ日和 | 封面图片
 
@@ -8,11 +8,14 @@
 使用了本文件作封面图片的作品：
   
 
-- [Scenery -East Ambience Vol.1](./Scenery_-East_Ambience_Vol.1.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)- [魂魄妖梦](./魂魄妖梦.md)- [藤原妹红](./藤原妹红.md)- [河城荷取](./河城荷取.md)- [东风谷早苗](./东风谷早苗.md)- [火焰猫燐](./火焰猫燐.md)
-
-
-
+- [Scenery -East Ambience Vol.1](./Scenery_-East_Ambience_Vol.1.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
+- [魂魄妖梦](./魂魄妖梦.md)
+- [藤原妹红](./藤原妹红.md)
+- [河城荷取](./河城荷取.md)
+- [东风谷早苗](./东风谷早苗.md)
+- [火焰猫燐](./火焰猫燐.md)
 
 
 ---

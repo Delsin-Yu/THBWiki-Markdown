@@ -1,14 +1,11 @@
 # 文件:部屋でYシャツで首輪で猫封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\58\ns6%3A%E9%83%A8%E5%B1%8B%E3%81%A7Y%E3%82%B7%E3%83%A3%E3%83%84%E3%81%A7%E9%A6%96%E8%BC%AA%E3%81%A7%E7%8C%AB%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\58\ns6%3A%E9%83%A8%E5%B1%8B%E3%81%A7Y%E3%82%B7%E3%83%A3%E3%83%84%E3%81%A7%E9%A6%96%E8%BC%AA%E3%81%A7%E7%8C%AB%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ホシニセ | 专辑封面 | 凋叶棕 | 封面图片
 
 
 ## 摘要
-
-
-
 
 ---
 

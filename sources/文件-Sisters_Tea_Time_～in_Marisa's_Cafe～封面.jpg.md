@@ -1,6 +1,6 @@
 # 文件:Sisters_Tea_Time_～in_Marisa's_Cafe～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\49\ns6%3ASisters_Tea_Time_%EF%BD%9Ein_Marisa%27s_Cafe%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\49\ns6%3ASisters_Tea_Time_%EF%BD%9Ein_Marisa%27s_Cafe%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Stardust.Memories | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ Stardust.Memories | 专辑封面 | 封面图片
   
 
 - [Sisters Tea Time ～in Marisa's Cafe～](./Sisters_Tea_Time_～in_Marisa's_Cafe～.md)
-
-
-
 
 
 ---

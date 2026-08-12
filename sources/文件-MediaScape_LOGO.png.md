@@ -1,12 +1,8 @@
 # 文件:MediaScape_LOGO.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\49\ns6%3AMediaScape_LOGO%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\49\ns6%3AMediaScape_LOGO%2Epng.html -->
 
 MediaScape | 企业LOGO
-
-
-
-
 
 
 ---

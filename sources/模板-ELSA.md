@@ -1,16 +1,12 @@
 # 模板:ELSA
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\2\23\ns10%3AELSA.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\2\23\ns10%3AELSA.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

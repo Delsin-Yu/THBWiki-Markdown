@@ -1,12 +1,8 @@
 # 文件:フランソワさんのよもぎ畑_banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0d\ns6%3A%E3%83%95%E3%83%A9%E3%83%B3%E3%82%BD%E3%83%AF%E3%81%95%E3%82%93%E3%81%AE%E3%82%88%E3%82%82%E3%81%8E%E7%95%91_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0d\ns6%3A%E3%83%95%E3%83%A9%E3%83%B3%E3%82%BD%E3%83%AF%E3%81%95%E3%82%93%E3%81%AE%E3%82%88%E3%82%82%E3%81%8E%E7%95%91_banner%2Ejpg.html -->
 
 フランソワさんのよもぎ畑 | 社团LOGO
-
-
-
-
 
 
 ---

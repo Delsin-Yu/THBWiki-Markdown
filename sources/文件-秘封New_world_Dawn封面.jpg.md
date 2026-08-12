@@ -1,6 +1,6 @@
 # 文件:秘封New_world_Dawn封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\90\ns6%3A%E7%A7%98%E5%B0%81New_world_Dawn%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\90\ns6%3A%E7%A7%98%E5%B0%81New_world_Dawn%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 スプリンタム | 同人志封面 | 封面图片
 
@@ -8,16 +8,13 @@
 使用了本文件作封面图片的作品：
   
 
-- [秘封New world Dawn](./秘封New_world_Dawn.md)  
-该封面包含的角色：- [宇佐见莲子](./宇佐见莲子.md)- [八云紫](./八云紫.md)- [宇佐见堇子](./宇佐见堇子.md)
+- [秘封New world Dawn](./秘封New_world_Dawn.md)该封面包含的角色：
+- [宇佐见莲子](./宇佐见莲子.md)
+- [八云紫](./八云紫.md)
+- [宇佐见堇子](./宇佐见堇子.md)
 
   
-[Pixiv artwork ID: 71395833](https://www.pixiv.net/artworks/71395833)
-  
-
-
-
-
+[Pixiv artwork ID: 71395833](https://www.pixiv.net/artworks/71395833)  
 
 ---
 

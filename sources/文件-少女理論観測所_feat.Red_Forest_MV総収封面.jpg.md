@@ -1,6 +1,6 @@
 # 文件:少女理論観測所_feat.Red_Forest_MV総収封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fa\ns6%3A%E5%B0%91%E5%A5%B3%E7%90%86%E8%AB%96%E8%A6%B3%E6%B8%AC%E6%89%80_feat%2ERed_Forest_MV%E7%B7%8F%E5%8F%8E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fa\ns6%3A%E5%B0%91%E5%A5%B3%E7%90%86%E8%AB%96%E8%A6%B3%E6%B8%AC%E6%89%80_feat%2ERed_Forest_MV%E7%B7%8F%E5%8F%8E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 RED_FOREST_METAL_ORCHESTRA | 封面图片 | 少女理論観測所 | 视频封面
 
@@ -8,11 +8,8 @@ RED_FOREST_METAL_ORCHESTRA | 封面图片 | 少女理論観測所 | 视频封面
 使用了本文件作封面图片的作品：
   
 
-- [少女理論観測所 feat.Red Forest MV総収](./少女理論観測所_feat.Red_Forest_MV総収.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
-
-
-
+- [少女理論観測所 feat.Red Forest MV総収](./少女理論観測所_feat.Red_Forest_MV総収.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
 
 ---

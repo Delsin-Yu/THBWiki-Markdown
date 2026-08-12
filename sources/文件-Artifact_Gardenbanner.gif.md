@@ -1,18 +1,13 @@
 # 文件:Artifact_Gardenbanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\41\ns6%3AArtifact_Gardenbanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\41\ns6%3AArtifact_Gardenbanner%2Egif.html -->
 
 Artifact_Garden | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[[1]](https://web.archive.org/web/20060502035738if_/http://babu.jp/~artifact/bnr/agbnr_3.gif)
-  
-
-
-
-
+源地址：[\[1\]](https://web.archive.org/web/20060502035738if_/http://babu.jp/~artifact/bnr/agbnr_3.gif)  
 
 ---
 

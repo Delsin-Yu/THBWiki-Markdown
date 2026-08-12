@@ -1,21 +1,17 @@
 # 旅行恋恋_~_Koishi_Navigation
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\27\ns0%3A%E6%97%85%E8%A1%8C%E6%81%8B%E6%81%8B_%7E_Koishi_Navigation.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\27\ns0%3A%E6%97%85%E8%A1%8C%E6%81%8B%E6%81%8B_%7E_Koishi_Navigation.html -->
 
 2019年2月7日 由 第零研究院  发布的RPG/AVG同人游戏，可在 Windows 系统上运行，游戏人数为 单人模式，多人模式，，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人软件 (未找到链接)** 的词条
-
+**[二次创作同人软件](./二次创作.md#同人软件)**的词条
 ## 目录
 
 - [1 软件信息](#软件信息)
 - [2 Staff](#Staff)
 - [3 内容页面](#内容页面)
 - [4 评论](#评论)
-
-
-
 
 
 ## 软件信息
@@ -25,21 +21,13 @@
 </tr><tr><td class="label">首发日期</td><td>2019-02-07</td></tr><tr><td class="label">类型</td><td>游戏</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">游戏人数</td><td>单人模式，多人模式</td></tr><tr><td class="label">游戏类型</td><td>RPG，AVG</td></tr><tr><td class="label">运行平台</td><td>Windows</td></tr><tr><td class="label">语言</td><td>简体中文，英文</td></tr><tr><td class="label">售价</td><td>14人民币</td></tr></tbody></table>
 
 旅行恋恋 ~ Koishi Navigation（同人游戏，第零研究院，2019） - 2019年2月7日 由 第零研究院  发布的RPG/AVG同人游戏，可在 Windows 系统上运行，游戏人数为 单人模式，多人模式，，分级为 一般向
-
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://store.steampowered.com/app/998490">Steam<span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span></a></td></tr></tbody></table>
-
-
-  
-  
-
-  
 
 
 <table>
 <tbody><tr><th colspan="2">配置需求</th></tr>
 <tr><td style="width:120px;padding-left:7px;"><b>操作系统</b></td><td>windows 7</td></tr><tr><td style="width:120px;padding-left:7px;"><b>CPU</b></td><td>2 Core CPU</td></tr><tr><td style="width:120px;padding-left:7px;"><b>内存</b></td><td>4 GB RAM</td></tr><tr><td style="width:120px;padding-left:7px;"><b>显示卡</b></td><td>任意</td></tr><tr><td style="width:120px;padding-left:7px;"><b>硬盘需求</b></td><td>300MB</td></tr>
 </tbody></table>
-
 
 
 ## Staff
@@ -59,14 +47,13 @@ UI：五月梅花落 [微博](https://weibo.com/ladymaggie)
 技术支持：Raphael Achtenberg(樱游社)  
 
 开源控件：WpfAnimatedGIF(由Apache许可)  
-
   
   
 外援：樱游社、一切为本游戏提供文本支持的同好们
   
 
-
 ## 内容页面
+
 - 游戏设定与剧情 (未找到链接)
 
   
@@ -81,9 +68,6 @@ UI：五月梅花落 [微博](https://weibo.com/ladymaggie)
 
 
 ## 评论
-
-
-
 
 ---
 

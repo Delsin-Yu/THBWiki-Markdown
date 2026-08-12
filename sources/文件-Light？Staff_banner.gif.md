@@ -1,16 +1,11 @@
 # 文件:Light？Staff_banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1f\ns6%3ALight%EF%BC%9FStaff_banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1f\ns6%3ALight%EF%BC%9FStaff_banner%2Egif.html -->
 
 Light？Staff | 社团LOGO
 
   
-源地址：[[1]](https://web.archive.org/web/20060927162442im_/http://light-staff.web.infoseek.co.jp/bana_.gif)
-  
-
-
-
-
+源地址：[\[1\]](https://web.archive.org/web/20060927162442im_/http://light-staff.web.infoseek.co.jp/bana_.gif)  
 
 ---
 

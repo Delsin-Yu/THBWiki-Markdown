@@ -1,6 +1,6 @@
 # Touhou_Luna_Nights/设定与剧情
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\e\e0\ns0%3ATouhou_Luna_Nights%2F%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\e\e0\ns0%3ATouhou_Luna_Nights%2F%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85.html -->
 
 Team_Ladybug | Vaka_Game_Magazine
 
@@ -19,19 +19,17 @@ Team_Ladybug | Vaka_Game_Magazine
 蕾米莉亚的目的到底是什么･･･？
   
 
-
 ## 游戏剧情
+
 - [游戏对话](./Touhou_Luna_Nights-设定与剧情-游戏对话.md)
 - 提示语 (未找到链接)
 
 
 ## 游戏地图
+
 - 地图 (未找到链接)
 - 道具与技能 (未找到链接)
 - 怪物与机关 (未找到链接)
-
-
-
 
 
 ---

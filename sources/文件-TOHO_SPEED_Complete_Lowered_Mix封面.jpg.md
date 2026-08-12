@@ -1,6 +1,6 @@
 # 文件:TOHO_SPEED_Complete_Lowered_Mix封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\28\ns6%3ATOHO_SPEED_Complete_Lowered_Mix%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\28\ns6%3ATOHO_SPEED_Complete_Lowered_Mix%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 LiLA'c_Records | 专辑封面 | 封面图片
 
@@ -11,12 +11,7 @@ LiLA'c_Records | 专辑封面 | 封面图片
 - [TOHO SPEED Complete Lowered Mix](./TOHO_SPEED_Complete_Lowered_Mix.md)
 
   
-源地址：[[1]](https://twitter.com/lilacrecords/status/859416265424633856)
-  
-
-
-
-
+源地址：[\[1\]](https://twitter.com/lilacrecords/status/859416265424633856)  
 
 ---
 

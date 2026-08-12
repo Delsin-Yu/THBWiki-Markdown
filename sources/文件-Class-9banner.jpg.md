@@ -1,14 +1,11 @@
 # 文件:Class-9banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\00\ns6%3AClass-9banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\00\ns6%3AClass-9banner%2Ejpg.html -->
 
 Class-9 | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

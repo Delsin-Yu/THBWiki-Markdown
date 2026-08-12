@@ -1,6 +1,6 @@
 # 文件:Doomsday_Clock_demo封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\df\ns6%3ADoomsday_Clock_demo%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\df\ns6%3ADoomsday_Clock_demo%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Driving_Kitchen | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ Driving_Kitchen | 专辑封面 | 封面图片
   
 
 - [Doomsday Clock demo](./Doomsday_Clock_demo.md)
-
-
-
 
 
 ---

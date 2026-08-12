@@ -1,6 +1,6 @@
 # 文件:We_won't_get_hole封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7c\ns6%3AWe_won%27t_get_hole%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7c\ns6%3AWe_won%27t_get_hole%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Taste_of_my_decadence | 专辑封面 | 封面图片
 
@@ -13,12 +13,7 @@ Taste_of_my_decadence | 专辑封面 | 封面图片
 - [We won't get hole](./We_won't_get_hole.md)
 
   
-源地址：[direct image link (max size)](https://static.wixstatic.com/media/0c9b38_ca1f922f95374b71a49a79b1e2b655e8~mv2.jpg), [source page](https://hirakishiyuiho.wixsite.com/tomd/discography)
-  
-
-
-
-
+源地址：[direct image link (max size)](https://static.wixstatic.com/media/0c9b38_ca1f922f95374b71a49a79b1e2b655e8~mv2.jpg), [source page](https://hirakishiyuiho.wixsite.com/tomd/discography)  
 
 ---
 

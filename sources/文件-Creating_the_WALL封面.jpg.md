@@ -1,6 +1,6 @@
 # 文件:Creating_the_WALL封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\04\ns6%3ACreating_the_WALL%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\04\ns6%3ACreating_the_WALL%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 言ノ刃幻想鍛刀地
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Creating the WALL](./Creating_the_WALL.md)  
-该封面包含的角色：- [杖刀偶磨弓](./杖刀偶磨弓.md)
-
-
-
+- [Creating the WALL](./Creating_the_WALL.md)该封面包含的角色：
+- [杖刀偶磨弓](./杖刀偶磨弓.md)
 
 
 ---

@@ -1,15 +1,12 @@
 # 文件:幻奏盛宴·幻想交响音乐会LOGO.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\84\ns6%3A%E5%B9%BB%E5%A5%8F%E7%9B%9B%E5%AE%B4%C2%B7%E5%B9%BB%E6%83%B3%E4%BA%A4%E5%93%8D%E9%9F%B3%E4%B9%90%E4%BC%9ALOGO%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\84\ns6%3A%E5%B9%BB%E5%A5%8F%E7%9B%9B%E5%AE%B4%C2%B7%E5%B9%BB%E6%83%B3%E4%BA%A4%E5%93%8D%E9%9F%B3%E4%B9%90%E4%BC%9ALOGO%2Ejpg.html -->
 
 幻奏盛宴·幻想交响音乐会 | 活动LOGO
 
+
 ```
-源地址：[[1]](https://tvax3.sinaimg.cn/large/006xTjssly8fe2133y4irj30dw0dwjsi.jpg)
-```
-
-
-
+源地址：[\[1\]](https://tvax3.sinaimg.cn/large/006xTjssly8fe2133y4irj30dw0dwjsi.jpg)```
 
 
 ---

@@ -1,16 +1,12 @@
 # 樱雪集~Yuyuko's_Butterfly_Dream/杂项
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\7\7d\ns0%3A%E6%A8%B1%E9%9B%AA%E9%9B%86%7EYuyuko%27s_Butterfly_Dream%2F%E6%9D%82%E9%A1%B9.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\7\7d\ns0%3A%E6%A8%B1%E9%9B%AA%E9%9B%86%7EYuyuko%27s_Butterfly_Dream%2F%E6%9D%82%E9%A1%B9.html -->
 
 墨斯卡林之翼
 
   
 游戏锐意开发中。最新消息欢迎关注微博@Munchem-慕尼。
   
-
-
-
-
 
 ---
 

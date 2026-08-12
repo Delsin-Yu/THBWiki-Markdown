@@ -1,6 +1,6 @@
 # 文件:TOHO_COSPLAY_SUMMIT封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a8\ns6%3ATOHO_COSPLAY_SUMMIT%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a8\ns6%3ATOHO_COSPLAY_SUMMIT%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 おさないようじょ | 同人志封面 | 封面图片
 
@@ -8,12 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [TOHO COSPLAY SUMMIT](./TOHO_COSPLAY_SUMMIT.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [八云紫](./八云紫.md)- 原创角色 (未找到链接)源地址：[[1]](https://pbs.twimg.com/media/DLslYw6VoAAxr2l.jpg:large)
-
-
-
-
+- [TOHO COSPLAY SUMMIT](./TOHO_COSPLAY_SUMMIT.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [八云紫](./八云紫.md)
+- 原创角色 (未找到链接)
+源地址：[\[1\]](https://pbs.twimg.com/media/DLslYw6VoAAxr2l.jpg:large)
 
 ---
 

@@ -1,12 +1,8 @@
 # 文件:「Homing_Amulet」高速（星莲船Manual）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f9\ns6%3A%E3%80%8CHoming_Amulet%E3%80%8D%E9%AB%98%E9%80%9F%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9Manual%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f9\ns6%3A%E3%80%8CHoming_Amulet%E3%80%8D%E9%AB%98%E9%80%9F%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9Manual%EF%BC%89%2Epng.html -->
 
 Manual配图 | 东方星莲船 | 博丽灵梦
-
-
-
-
 
 
 ---

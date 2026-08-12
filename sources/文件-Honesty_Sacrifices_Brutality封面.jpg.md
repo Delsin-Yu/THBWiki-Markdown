@@ -1,6 +1,6 @@
 # 文件:Honesty_Sacrifices_Brutality封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b7\ns6%3AHonesty_Sacrifices_Brutality%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b7\ns6%3AHonesty_Sacrifices_Brutality%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 situation_report | 专辑封面 | 封面图片
 
@@ -8,16 +8,12 @@ situation_report | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Honesty Sacrifices Brutality](./Honesty_Sacrifices_Brutality.md)  
-该封面包含的角色：- [雪](./雪.md)- [舞](./舞.md)
+- [Honesty Sacrifices Brutality](./Honesty_Sacrifices_Brutality.md)该封面包含的角色：
+- [雪](./雪.md)
+- [舞](./舞.md)
 
   
-源地址：[direct link](https://pbs.twimg.com/media/D5va7SJU0AIyjXI.jpg:orig), [source tweet](https://twitter.com/Airlitt/status/1124733249643696129)
-  
-
-
-
-
+源地址：[direct link](https://pbs.twimg.com/media/D5va7SJU0AIyjXI.jpg:orig), [source tweet](https://twitter.com/Airlitt/status/1124733249643696129)  
 
 ---
 

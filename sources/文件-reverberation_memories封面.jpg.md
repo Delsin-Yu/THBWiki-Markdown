@@ -1,6 +1,6 @@
 # 文件:reverberation_memories封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\db\ns6%3Areverberation_memories%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\db\ns6%3Areverberation_memories%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 BLUEMOON | 专辑封面 | 封面图片
 
@@ -10,11 +10,9 @@ BLUEMOON | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [reverberation memories](./reverberation_memories.md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)- [犬走椛](./犬走椛.md)
-
-
-
+- [reverberation memories](./reverberation_memories.md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
+- [犬走椛](./犬走椛.md)
 
 
 ---

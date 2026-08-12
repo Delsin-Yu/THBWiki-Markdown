@@ -1,6 +1,6 @@
 # 文件:Encouragement_of_Egoism封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\89\ns6%3AEncouragement_of_Egoism%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\89\ns6%3AEncouragement_of_Egoism%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Reset_All_Controllers | 专辑封面 | 封面图片
 
@@ -8,11 +8,10 @@ Reset_All_Controllers | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Encouragement of Egoism](./Encouragement_of_Egoism.md)  
-该封面包含的角色：- [伊吹萃香](./伊吹萃香.md)- [依神女苑](./依神女苑.md)- [依神紫苑](./依神紫苑.md)
-
-
-
+- [Encouragement of Egoism](./Encouragement_of_Egoism.md)该封面包含的角色：
+- [伊吹萃香](./伊吹萃香.md)
+- [依神女苑](./依神女苑.md)
+- [依神紫苑](./依神紫苑.md)
 
 
 ---

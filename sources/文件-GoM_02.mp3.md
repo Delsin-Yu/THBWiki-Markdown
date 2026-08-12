@@ -1,12 +1,8 @@
 # 文件:GoM_02.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\73\ns6%3AGoM_02%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\73\ns6%3AGoM_02%2Emp3.html -->
 
 原曲MP3 | 斯普特尼克幻夜 | 魔理沙的魔法书
-
-
-
-
 
 
 ---

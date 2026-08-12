@@ -1,6 +1,6 @@
 # 文件:東方角笛五重奏~the_Horn_ensemble_by_Scarlet_Devil.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2a\ns6%3A%E6%9D%B1%E6%96%B9%E8%A7%92%E7%AC%9B%E4%BA%94%E9%87%8D%E5%A5%8F%7Ethe_Horn_ensemble_by_Scarlet_Devil%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2a\ns6%3A%E6%9D%B1%E6%96%B9%E8%A7%92%E7%AC%9B%E4%BA%94%E9%87%8D%E5%A5%8F%7Ethe_Horn_ensemble_by_Scarlet_Devil%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 はるまめ工房 | 专辑封面 | 封面图片
 
@@ -8,10 +8,7 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方角笛五重奏~the Horn ensemble by Scarlet Devil.](./東方角笛五重奏~the_Horn_ensemble_by_Scarlet_Devil..md)源地址：[[1]](https://booth.pximg.net/c/620x620/3c89fe07-390c-4cda-a637-9170a3565ac2/i/411447/85455f9d-1abf-41b7-882d-2b802cf34461_base_resized.jpg)
-
-
-
+- [東方角笛五重奏~the Horn ensemble by Scarlet Devil.](./東方角笛五重奏~the_Horn_ensemble_by_Scarlet_Devil..md)源地址：[\[1\]](https://booth.pximg.net/c/620x620/3c89fe07-390c-4cda-a637-9170a3565ac2/i/411447/85455f9d-1abf-41b7-882d-2b802cf34461_base_resized.jpg)
 
 
 ---

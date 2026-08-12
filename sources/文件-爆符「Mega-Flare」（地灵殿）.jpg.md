@@ -1,12 +1,8 @@
 # 文件:爆符「Mega-Flare」（地灵殿）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2a\ns6%3A%E7%88%86%E7%AC%A6%E3%80%8CMega-Flare%E3%80%8D%EF%BC%88%E5%9C%B0%E7%81%B5%E6%AE%BF%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2a\ns6%3A%E7%88%86%E7%AC%A6%E3%80%8CMega-Flare%E3%80%8D%EF%BC%88%E5%9C%B0%E7%81%B5%E6%AE%BF%EF%BC%89%2Ejpg.html -->
 
 东方地灵殿 | 敌机符卡 | 灵乌路空
-
-
-
-
 
 
 ---

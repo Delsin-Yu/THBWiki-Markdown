@@ -1,6 +1,6 @@
 # 文件:Scarlet_Daydreams封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\26\ns6%3AScarlet_Daydreams%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\26\ns6%3AScarlet_Daydreams%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ボストン東方樂団 | 专辑封面 | 封面图片
 
@@ -8,16 +8,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [Scarlet Daydreams](./Scarlet_Daydreams.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [Scarlet Daydreams](./Scarlet_Daydreams.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
   
-源地址：[direct image link](https://ecdnimg.toranoana.jp/ec/img/04/0030/18/08/040030180828-1p.jpg), [origin page](https://ec.toranoana.jp/tora_r/ec/item/040030180828/)
-  
-
-
-
-
+源地址：[direct image link](https://ecdnimg.toranoana.jp/ec/img/04/0030/18/08/040030180828-1p.jpg), [origin page](https://ec.toranoana.jp/tora_r/ec/item/040030180828/)  
 
 ---
 

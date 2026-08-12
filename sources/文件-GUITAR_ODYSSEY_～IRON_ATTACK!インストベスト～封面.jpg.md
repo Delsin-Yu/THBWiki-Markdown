@@ -1,6 +1,6 @@
 # 文件:GUITAR_ODYSSEY_～IRON_ATTACK!インストベスト～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ac\ns6%3AGUITAR_ODYSSEY_%EF%BD%9EIRON_ATTACK%21%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%99%E3%82%B9%E3%83%88%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ac\ns6%3AGUITAR_ODYSSEY_%EF%BD%9EIRON_ATTACK%21%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%99%E3%82%B9%E3%83%88%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 IRON_ATTACK! | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ IRON_ATTACK! | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [GUITAR ODYSSEY ～IRON ATTACK!インストベスト～](./GUITAR_ODYSSEY_～IRON_ATTACK!インストベスト～.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [GUITAR ODYSSEY ～IRON ATTACK!インストベスト～](./GUITAR_ODYSSEY_～IRON_ATTACK!インストベスト～.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

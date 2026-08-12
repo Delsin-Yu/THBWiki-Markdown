@@ -1,6 +1,6 @@
 # 文件:遊星博覧会_MEMORIAL_DISC封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\30\ns6%3A%E9%81%8A%E6%98%9F%E5%8D%9A%E8%A6%A7%E4%BC%9A_MEMORIAL_DISC%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\30\ns6%3A%E9%81%8A%E6%98%9F%E5%8D%9A%E8%A6%A7%E4%BC%9A_MEMORIAL_DISC%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 豚乙女
 
@@ -9,9 +9,6 @@
   
 
 - [遊星博覧会 MEMORIAL DISC](./遊星博覧会_MEMORIAL_DISC.md)
-
-
-
 
 
 ---

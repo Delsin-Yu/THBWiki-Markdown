@@ -1,12 +1,8 @@
 # 文件:小风的拼豆幻想logo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\93\ns6%3A%E5%B0%8F%E9%A3%8E%E7%9A%84%E6%8B%BC%E8%B1%86%E5%B9%BB%E6%83%B3logo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\93\ns6%3A%E5%B0%8F%E9%A3%8E%E7%9A%84%E6%8B%BC%E8%B1%86%E5%B9%BB%E6%83%B3logo%2Epng.html -->
 
 小风的拼豆幻想 | 社团LOGO
-
-
-
-
 
 
 ---

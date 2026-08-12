@@ -1,12 +1,8 @@
 # 文件:Banamoon4.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0a\ns6%3ABanamoon4%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0a\ns6%3ABanamoon4%2Ejpg.html -->
 
 四面楚歌 | 社团LOGO
-
-
-
-
 
 
 ---

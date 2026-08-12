@@ -1,12 +1,8 @@
 # 文件:JF_UNIONbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\77\ns6%3AJF_UNIONbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\77\ns6%3AJF_UNIONbanner%2Ejpg.html -->
 
 JF_UNION | 社团LOGO
-
-
-
-
 
 
 ---

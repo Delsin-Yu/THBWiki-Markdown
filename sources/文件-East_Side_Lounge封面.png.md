@@ -1,6 +1,6 @@
 # 文件:East_Side_Lounge封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fd\ns6%3AEast_Side_Lounge%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fd\ns6%3AEast_Side_Lounge%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 XL_Project | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ XL_Project | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [East Side Lounge](./East_Side_Lounge.md)  
-该封面包含的角色：- [西行寺幽幽子](./西行寺幽幽子.md)
-
-
-
+- [East Side Lounge](./East_Side_Lounge.md)该封面包含的角色：
+- [西行寺幽幽子](./西行寺幽幽子.md)
 
 
 ---

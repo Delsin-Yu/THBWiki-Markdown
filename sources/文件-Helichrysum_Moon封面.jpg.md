@@ -1,6 +1,6 @@
 # 文件:Helichrysum_Moon封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\be\ns6%3AHelichrysum_Moon%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\be\ns6%3AHelichrysum_Moon%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Business_Windows | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@ Business_Windows | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Helichrysum Moon](./Helichrysum_Moon.md)  
-该封面包含的角色：- [稗田阿求](./稗田阿求.md)
+- [Helichrysum Moon](./Helichrysum_Moon.md)该封面包含的角色：
+- [稗田阿求](./稗田阿求.md)
 
   
-源地址：[[1]](http://businesswindows.iza-yoi.net/helichrysum-jacket.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://businesswindows.iza-yoi.net/helichrysum-jacket.jpg)  
 
 ---
 

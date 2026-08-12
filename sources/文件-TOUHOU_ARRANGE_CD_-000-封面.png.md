@@ -1,6 +1,6 @@
 # 文件:TOUHOU_ARRANGE_CD_"000"封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3f\ns6%3ATOUHOU_ARRANGE_CD_%22000%22%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3f\ns6%3ATOUHOU_ARRANGE_CD_%22000%22%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 ぬまうおハウス | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@
   
 
 - [TOUHOU ARRANGE CD "000"](./TOUHOU_ARRANGE_CD_-000-.md)
-
-
-
 
 
 ---

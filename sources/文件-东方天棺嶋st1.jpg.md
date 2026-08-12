@@ -1,12 +1,8 @@
 # 文件:东方天棺嶋st1.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b9\ns6%3A%E4%B8%9C%E6%96%B9%E5%A4%A9%E6%A3%BA%E5%B6%8Bst1%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b9\ns6%3A%E4%B8%9C%E6%96%B9%E5%A4%A9%E6%A3%BA%E5%B6%8Bst1%2Ejpg.html -->
 
 明ノ宮_飛鳥
-
-
-
-
 
 
 ---

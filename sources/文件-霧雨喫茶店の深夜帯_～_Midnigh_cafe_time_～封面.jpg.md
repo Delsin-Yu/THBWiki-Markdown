@@ -1,6 +1,6 @@
 # 文件:霧雨喫茶店の深夜帯_～_Midnigh_cafe_time_～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6f\ns6%3A%E9%9C%A7%E9%9B%A8%E5%96%AB%E8%8C%B6%E5%BA%97%E3%81%AE%E6%B7%B1%E5%A4%9C%E5%B8%AF_%EF%BD%9E_Midnigh_cafe_time_%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6f\ns6%3A%E9%9C%A7%E9%9B%A8%E5%96%AB%E8%8C%B6%E5%BA%97%E3%81%AE%E6%B7%B1%E5%A4%9C%E5%B8%AF_%EF%BD%9E_Midnigh_cafe_time_%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Stardust.Memories | 专辑封面 | 封面图片
 
@@ -8,10 +8,7 @@ Stardust.Memories | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [霧雨喫茶店の深夜帯 ～ Midnigh cafe time ～](./霧雨喫茶店の深夜帯_～_Midnigh_cafe_time_～.md)源地址：[[1]](http://stardustmemories.web.fc2.com/works/images/CDSAMPLE009.jpg)
-
-
-
+- [霧雨喫茶店の深夜帯 ～ Midnigh cafe time ～](./霧雨喫茶店の深夜帯_～_Midnigh_cafe_time_～.md)源地址：[\[1\]](http://stardustmemories.web.fc2.com/works/images/CDSAMPLE009.jpg)
 
 
 ---

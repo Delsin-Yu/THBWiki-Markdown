@@ -1,6 +1,6 @@
 # 東方魔宝城_～_Book_of_Star_Mythology./东方魔宝城分数榜
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\e\e8\ns0%3A%E6%9D%B1%E6%96%B9%E9%AD%94%E5%AE%9D%E5%9F%8E_%EF%BD%9E_Book_of_Star_Mythology%2E%2F%E4%B8%9C%E6%96%B9%E9%AD%94%E5%AE%9D%E5%9F%8E%E5%88%86%E6%95%B0%E6%A6%9C.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\e\e8\ns0%3A%E6%9D%B1%E6%96%B9%E9%AD%94%E5%AE%9D%E5%9F%8E_%EF%BD%9E_Book_of_Star_Mythology%2E%2F%E4%B8%9C%E6%96%B9%E9%AD%94%E5%AE%9D%E5%9F%8E%E5%88%86%E6%95%B0%E6%A6%9C.html -->
 
 Mace's_Secret_Base | 東方邪星章製作チーム
 
@@ -9,7 +9,6 @@ Mace's_Secret_Base | 東方邪星章製作チーム
   
 东方魔宝城传统模式各难度的最新纪录，将会在这里以在本wiki的记录时间顺序展出。
   
-
 
 <table>
 
@@ -123,13 +122,11 @@ Mace's_Secret_Base | 東方邪星章製作チーム
 </td></tr></tbody></table>
 
 
-
 ## 游戏世界纪录
   
 东方魔宝城传统模式各难度各机体的分数纪录，将在这里予以展示。
 ★代表全游戏内的最高分数，☆代表在对应难度下的最高分数。
   
-
 
 <table>
 
@@ -414,10 +411,6 @@ Mace's_Secret_Base | 東方邪星章製作チーム
 </td></tr>
 
 </tbody></table>
-
-
-
-
 
 
 ---

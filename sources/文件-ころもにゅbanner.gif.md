@@ -1,12 +1,8 @@
 # 文件:ころもにゅbanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\04\ns6%3A%E3%81%93%E3%82%8D%E3%82%82%E3%81%AB%E3%82%85banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\04\ns6%3A%E3%81%93%E3%82%8D%E3%82%82%E3%81%AB%E3%82%85banner%2Egif.html -->
 
 ころもにゅ | 社团LOGO
-
-
-
-
 
 
 ---

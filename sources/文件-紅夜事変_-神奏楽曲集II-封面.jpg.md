@@ -1,6 +1,6 @@
 # 文件:紅夜事変_-神奏楽曲集II-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\48\ns6%3A%E7%B4%85%E5%A4%9C%E4%BA%8B%E5%A4%89_-%E7%A5%9E%E5%A5%8F%E6%A5%BD%E6%9B%B2%E9%9B%86II-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\48\ns6%3A%E7%B4%85%E5%A4%9C%E4%BA%8B%E5%A4%89_-%E7%A5%9E%E5%A5%8F%E6%A5%BD%E6%9B%B2%E9%9B%86II-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 神楽庭園
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [紅夜事変 -神奏楽曲集II-](./紅夜事変_-神奏楽曲集II-.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
-
-
-
+- [紅夜事変 -神奏楽曲集II-](./紅夜事変_-神奏楽曲集II-.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
 
 ---

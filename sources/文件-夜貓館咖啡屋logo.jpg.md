@@ -1,18 +1,13 @@
 # 文件:夜貓館咖啡屋logo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\34\ns6%3A%E5%A4%9C%E8%B2%93%E9%A4%A8%E5%92%96%E5%95%A1%E5%B1%8Blogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\34\ns6%3A%E5%A4%9C%E8%B2%93%E9%A4%A8%E5%92%96%E5%95%A1%E5%B1%8Blogo%2Ejpg.html -->
 
 夜貓館咖啡屋 | 社团LOGO
 
 
 ## 摘要
   
-源地址：[source page (Facebook page logo)](https://www.facebook.com/yamyoukan/)
-  
-
-
-
-
+源地址：[source page (Facebook page logo)](https://www.facebook.com/yamyoukan/)  
 
 ---
 

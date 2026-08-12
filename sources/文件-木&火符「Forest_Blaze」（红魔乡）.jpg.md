@@ -1,12 +1,8 @@
 # 文件:木&火符「Forest_Blaze」（红魔乡）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\21\ns6%3A%E6%9C%A8%26%E7%81%AB%E7%AC%A6%E3%80%8CForest_Blaze%E3%80%8D%EF%BC%88%E7%BA%A2%E9%AD%94%E4%B9%A1%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\21\ns6%3A%E6%9C%A8%26%E7%81%AB%E7%AC%A6%E3%80%8CForest_Blaze%E3%80%8D%EF%BC%88%E7%BA%A2%E9%AD%94%E4%B9%A1%EF%BC%89%2Ejpg.html -->
 
 东方红魔乡 | 帕秋莉·诺蕾姬 | 敌机符卡
-
-
-
-
 
 
 ---

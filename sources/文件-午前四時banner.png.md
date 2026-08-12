@@ -1,16 +1,11 @@
 # 文件:午前四時banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\15\ns6%3A%E5%8D%88%E5%89%8D%E5%9B%9B%E6%99%82banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\15\ns6%3A%E5%8D%88%E5%89%8D%E5%9B%9B%E6%99%82banner%2Epng.html -->
 
 午前四時 | 社团LOGO
 
   
-源地址：[[1]](https://web.archive.org/web/20190103210018im_/http://mugentou.web.fc2.com/am4-banner.png)
-  
-
-
-
-
+源地址：[\[1\]](https://web.archive.org/web/20190103210018im_/http://mugentou.web.fc2.com/am4-banner.png)  
 
 ---
 

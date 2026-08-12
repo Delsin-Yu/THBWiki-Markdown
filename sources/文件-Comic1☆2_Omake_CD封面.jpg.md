@@ -1,6 +1,6 @@
 # 文件:Comic1☆2_Omake_CD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\be\ns6%3AComic1%E2%98%862_Omake_CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\be\ns6%3AComic1%E2%98%862_Omake_CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 いえろ～ぜぶら | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Comic1☆2 Omake CD](./Comic1☆2_Omake_CD.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
-
-
-
+- [Comic1☆2 Omake CD](./Comic1☆2_Omake_CD.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
 
 ---

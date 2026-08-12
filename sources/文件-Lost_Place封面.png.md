@@ -1,6 +1,6 @@
 # 文件:Lost_Place封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8a\ns6%3ALost_Place%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8a\ns6%3ALost_Place%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 マホトア豆腐店 | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Lost Place](./Lost_Place.md)  
-该封面包含的角色：- [黑谷山女](./黑谷山女.md)
-
-
-
+- [Lost Place](./Lost_Place.md)该封面包含的角色：
+- [黑谷山女](./黑谷山女.md)
 
 
 ---

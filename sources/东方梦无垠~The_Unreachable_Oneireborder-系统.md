@@ -1,6 +1,6 @@
 # 东方梦无垠~The_Unreachable_Oneireborder/系统
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\6d\ns0%3A%E4%B8%9C%E6%96%B9%E6%A2%A6%E6%97%A0%E5%9E%A0%7EThe_Unreachable_Oneireborder%2F%E7%B3%BB%E7%BB%9F.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\6d\ns0%3A%E4%B8%9C%E6%96%B9%E6%A2%A6%E6%97%A0%E5%9E%A0%7EThe_Unreachable_Oneireborder%2F%E7%B3%BB%E7%BB%9F.html -->
 
 实界
 
@@ -17,11 +17,7 @@
 - [8 词条导航](#词条导航)
 
 
-
-
-
 ## 游戏方式
-
   
 这是一个需要不断回避敌方射出的弹幕同时还要将其击败的游戏，如果感觉形势不妙还可以释放强大的符卡攻击和必杀技来消除敌方子弹。  
 
@@ -30,15 +26,11 @@
 不管怎样玩只要不被打中那肯定就能通关了吧。（笑
   
 
-
-
 ## 故事背景
-
   
 梦与现实的指针正在被缓缓拨动。  
 
 幻想乡不知何时已笼罩在异变的阴翳下。  
-
   
 
 茨木华扇焦急地行走在人类村落的街道上，村落中的气氛与往日大相径庭。  
@@ -66,7 +58,6 @@
 灵梦呆坐在赛钱箱旁，神社的庭院凌乱无比，仿佛开过宴会一般。  
 
 她已经大概猜出了灵梦的梦究竟是怎么样的了。  
-
   
 
 火焰将魔理沙从睡梦中惊醒，当她醒来时，梦中升起的大火就在她的床边燃烧。  
@@ -90,7 +81,6 @@
 “不过要修理你的房屋的话，最早也只能等到明天了。”  
 
 无家可归的魔理沙只好去博丽神社借宿一夜。  
-
   
 
 守矢神社，由于其位于攀登困难的妖怪之山上，导致参拜客常年稀少。  
@@ -116,10 +106,7 @@
 早苗做好了解决这场异变的十足准备，踏上了前往人类村落的行程。
   
 
-
-
 ## 操作方法
-
   
 上下左右键：操纵自机移动  
 
@@ -132,11 +119,9 @@ Special键（默认C键）：发动必杀技（有条件限制）
 Slow键（默认Shift键）：低速移动  
 
 Pause键（默认Esc键）：进入暂停菜单，非游戏界面时作用同Spell键  
-
   
 
 -高级操作-  
-
   
 
 长按Z：跳过对话  
@@ -148,10 +133,7 @@ Pause键（默认Esc键）：进入暂停菜单，非游戏界面时作用同Spe
 切换窗口的全屏：Ctrl+Enter（可能会需要等待一段时间）
   
 
-
-
 ## 游戏界面
-
   
 残机：剩余可以中弹的次数，一旦中弹会恢复所有符卡。  
 
@@ -168,10 +150,7 @@ Pause键（默认Esc键）：进入暂停菜单，非游戏界面时作用同Spe
 必杀充能：显示在自机下方，指示必杀技的充能程度，达到100%可以释放一次必杀技。
   
 
-
-
 ## 特殊系统
-
   
 异变使得梦与现实的界限变得捉摸不定，自机只能根据自己感受来判断处境——也就是梦现指针。  
 
@@ -182,11 +161,9 @@ Pause键（默认Esc键）：进入暂停菜单，非游戏界面时作用同Spe
 击破敌机，甚至速破敌机，贴脸射击，以及擦弹可以将指针往当前所处的这一侧推进，上面的增益效果会增加，但Miss几次很快就会让指针回到中间。  
 
 不管你选择的是哪一侧，积极地向前推进吧！总不能在混沌中停滞！  
-
   
 
 （以下内容面向高级玩家）  
-
   
 
 梦现指针数值范围在（-5,5）之间变化，负侧为梦境侧，正侧为现实侧。  
@@ -196,7 +173,6 @@ Pause键（默认Esc键）：进入暂停菜单，非游戏界面时作用同Spe
 Miss（大幅下降），遗漏道具和敌人（依角色而定）会使指针往0偏移。  
 
 在非对话时间，残机和符卡槽会无时无刻地增加，但只有在结算时会真正起效，增速会随着时间指数式衰减，但在道中结算点火击破Boss非符/符卡时会重置。  
-
   
 
 混关行为会使指针偏向梦境侧，这也会让混关变得容易：释放符卡、灵击、决死（增加更多）。  
@@ -204,7 +180,6 @@ Miss（大幅下降），遗漏道具和敌人（依角色而定）会使指针�
 增益效果：自己符卡持续时间和伤害增加，擦弹对必杀的充能变快，资源奖励衰减变慢。  
 
 减益效果：灵力上限减少到最少3，灵力自然恢复速度下降，无收卡和Chapter奖励分数。  
-
   
 
 拼底力行为会让指针偏向现实侧，但这会更加考验玩家的底力：单个Chapter或Boss阶段不Miss且不使用符卡和必杀技，收卡。  
@@ -214,12 +189,9 @@ Miss（大幅下降），遗漏道具和敌人（依角色而定）会使指针�
 减益效果：自机符卡持续时间和伤害减少，擦弹对必杀的充能变慢，资源奖励衰减变慢。
   
 
-
-
 ## 角色性能
 
 ## 道具效用
-
   
 P点：恢复灵力的道具，个头越大恢复越多，击败敌机就会出现很多很多。  
 
@@ -233,19 +205,6 @@ F点：恢复灵力到上限，看见它说明你的处境已经不大好了。
 
 符卡道具：拿到它就能重新充能一整个符卡，看到就一定要拿到手！
   
-
-
-
-## 词条导航
-  
-  
-
-<table><tbody><tr><td><table cellspacing="0" class="nowraplinks mw-collapsible mw-collapsed" style="width:100%;;;"><tbody><tr><th style=";" colspan="3" class="navbox-title"><div class="navbar"><div class="noprint plainlinksneverexpand" style="background-color:transparent; padding:0; font-weight:normal; font-size:80%; white-space:nowrap;"><a href="./东方梦无垠~The_Unreachable_Oneireborder-导航.md" title="东方梦无垠~The Unreachable Oneireborder/导航"><span style=";;border:none;" title="查看这个模板">查</span></a>&#160;<span style="font-size:80%;">•</span>&#160;<a href="/index.php?title=%E4%B8%9C%E6%96%B9%E6%A2%A6%E6%97%A0%E5%9E%A0~The_Unreachable_Oneireborder/%E5%AF%BC%E8%88%AA&amp;action=edit"><span style=";;border:none;" title="您可以编辑这个模板。请在储存变更之前先预览">编</span></a></div></div><span><a href="./东方梦无垠~The_Unreachable_Oneireborder.md" title="东方梦无垠~The Unreachable Oneireborder">东方梦无垠~The Unreachable Oneireborder</a></span></th></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="./东方梦无垠~The_Unreachable_Oneireborder-角色设定.md" title="东方梦无垠~The Unreachable Oneireborder/角色设定">角色</a></td><td style=";;" class="navbox-list navbox-odd"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>自机</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./东方梦无垠~The_Unreachable_Oneireborder-角色设定.md" title="东方梦无垠~The Unreachable Oneireborder/角色设定">博丽灵梦</a> &#8226; <a href="./东方梦无垠~The_Unreachable_Oneireborder-角色设定.md" title="东方梦无垠~The Unreachable Oneireborder/角色设定">雾雨魔理沙</a> &#8226; <a href="./东方梦无垠~The_Unreachable_Oneireborder-角色设定.md" title="东方梦无垠~The Unreachable Oneireborder/角色设定">东风谷早苗</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>BOSS</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./瓦伦瑞雅·莘诺.md" title="瓦伦瑞雅·莘诺">瓦伦瑞雅·莘诺</a> &#8226;<a href="./唤随翠鸟.md" title="唤随翠鸟">唤随翠鸟</a> &#8226;<a href="./时松弥庭.md" title="时松弥庭">时松弥庭</a> &#8226;<a href="./哈琉希恩.md" title="哈琉希恩">哈琉希恩</a></div></td></tr></tbody></table><div></div></td><td class="navbox-image" style="" rowspan="11"><a href="./文件-东方梦无垠~The_Unreachable_Oneireborder封面.jpg.md" class="image"><img alt="东方梦无垠~The Unreachable Oneireborder封面.jpg" src="https://upload.thwiki.cc/thumb/a/ae/%E4%B8%9C%E6%96%B9%E6%A2%A6%E6%97%A0%E5%9E%A0~The_Unreachable_Oneireborder%E5%B0%81%E9%9D%A2.jpg/160px-%E4%B8%9C%E6%96%B9%E6%A2%A6%E6%97%A0%E5%9E%A0~The_Unreachable_Oneireborder%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="160" height="160" srcset="https://upload.thwiki.cc/thumb/a/ae/%E4%B8%9C%E6%96%B9%E6%A2%A6%E6%97%A0%E5%9E%A0~The_Unreachable_Oneireborder%E5%B0%81%E9%9D%A2.jpg/240px-%E4%B8%9C%E6%96%B9%E6%A2%A6%E6%97%A0%E5%9E%A0~The_Unreachable_Oneireborder%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/a/ae/%E4%B8%9C%E6%96%B9%E6%A2%A6%E6%97%A0%E5%9E%A0~The_Unreachable_Oneireborder%E5%B0%81%E9%9D%A2.jpg/320px-%E4%B8%9C%E6%96%B9%E6%A2%A6%E6%97%A0%E5%9E%A0~The_Unreachable_Oneireborder%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="512" data-file-height="512"></a></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="./东方梦无垠~The_Unreachable_Oneireborder-设定与剧情.md" title="东方梦无垠~The Unreachable Oneireborder/设定与剧情">剧情</a></td><td style=";;" class="navbox-list navbox-even"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>剧情文本</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./东方梦无垠~The_Unreachable_Oneireborder-设定与剧情.md" title="东方梦无垠~The Unreachable Oneireborder/设定与剧情">故事背景</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>游戏对话&amp;结局</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./东方梦无垠~The_Unreachable_Oneireborder-设定与剧情-博丽灵梦.md" title="东方梦无垠~The Unreachable Oneireborder/设定与剧情/博丽灵梦">博丽灵梦</a> &#8226; <a href="./东方梦无垠~The_Unreachable_Oneireborder-设定与剧情-雾雨魔理沙.md" title="东方梦无垠~The Unreachable Oneireborder/设定与剧情/雾雨魔理沙">雾雨魔理沙</a> &#8226; <a href="/index.php?title=%E4%B8%9C%E6%96%B9%E6%A2%A6%E6%97%A0%E5%9E%A0~The_Unreachable_Oneireborder/%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85/%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97&amp;action=edit&amp;redlink=1" class="new" title="东方梦无垠~The Unreachable Oneireborder/设定与剧情/东风谷早苗（页面不存在）">东风谷早苗</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>EX游戏对话</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="/index.php?title=%E4%B8%9C%E6%96%B9%E6%A2%A6%E6%97%A0%E5%9E%A0~The_Unreachable_Oneireborder/%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6EX&amp;action=edit&amp;redlink=1" class="new" title="东方梦无垠~The Unreachable Oneireborder/设定与剧情/博丽灵梦EX（页面不存在）">博丽灵梦</a> &#8226; <a href="/index.php?title=%E4%B8%9C%E6%96%B9%E6%A2%A6%E6%97%A0%E5%9E%A0~The_Unreachable_Oneireborder/%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85/%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99EX&amp;action=edit&amp;redlink=1" class="new" title="东方梦无垠~The Unreachable Oneireborder/设定与剧情/雾雨魔理沙EX（页面不存在）">雾雨魔理沙</a> &#8226; <a href="/index.php?title=%E4%B8%9C%E6%96%B9%E6%A2%A6%E6%97%A0%E5%9E%A0~The_Unreachable_Oneireborder/%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85/%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97EX&amp;action=edit&amp;redlink=1" class="new" title="东方梦无垠~The Unreachable Oneireborder/设定与剧情/东风谷早苗EX（页面不存在）">东风谷早苗</a></div></td></tr></tbody></table><div></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">场景</td><td style=";;" class="navbox-list navbox-odd"><div><a href="./獣道.md" title="獣道" unred="">兽道</a> &#8226;<a href="./人类村落.md" title="人类村落">人类村落</a> &#8226;<a href="./魔法之森.md" class="mw-redirect" title="魔法之森">魔法之森</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">音乐</td><td style=";;" class="navbox-list navbox-even"><div><a href="./东方梦无垠~The_Unreachable_Oneireborder-音乐.md" title="东方梦无垠~The Unreachable Oneireborder/音乐">Music Room</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="/%E4%B8%9C%E6%96%B9%E6%A2%A6%E6%97%A0%E5%9E%A0~The_Unreachable_Oneireborder/%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85#附带文档" title="东方梦无垠~The Unreachable Oneireborder/设定与剧情">附带文档</a></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./东方梦无垠~The_Unreachable_Oneireborder-设定与剧情-readme.md" title="东方梦无垠~The Unreachable Oneireborder/设定与剧情/readme">Readme</a> &#8226; <a href="/index.php?title=%E4%B8%9C%E6%96%B9%E6%A2%A6%E6%97%A0%E5%9E%A0~The_Unreachable_Oneireborder/%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85/%E8%AE%BE%E5%AE%9A%E6%96%87%E6%A1%A3&amp;action=edit&amp;redlink=1" class="new" title="东方梦无垠~The Unreachable Oneireborder/设定与剧情/设定文档（页面不存在）">设定文档</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a class="mw-selflink selflink">系统</a></td><td style=";;" class="navbox-list navbox-even"><div><a class="mw-selflink selflink">系统</a> &#8226; <a href="./东方梦无垠~The_Unreachable_Oneireborder-其他相关资料.md" title="东方梦无垠~The Unreachable Oneireborder/其他相关资料">其他相关资料</a></div></td></tr></tbody></table></td></tr></tbody></table>
-
-
-
-
-
 
 ---
 

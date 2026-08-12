@@ -1,13 +1,11 @@
 # Border_Of_Dreams
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\8\8f\ns0%3ABorder_Of_Dreams.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\8\8f\ns0%3ABorder_Of_Dreams.html -->
 
 2012年5月27日 由 groovin' bullets 于 博丽神社例大祭9 发布的同人专辑，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人专辑 (未找到链接)** 的词条
-<center>
-
+**[二次创作同人专辑](./二次创作.md#同人音乐)**的词条<center>
 <table>
 <tbody><tr>
 <td class="mbox-image"><div style="width: 52px;">
@@ -16,38 +14,26 @@
 </tr>
 </tbody></table>
 
-
 </center>
-
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Border_Of_Dreams封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/a/a9/Border_Of_Dreams%E5%B0%81%E9%9D%A2.jpg/168px-Border_Of_Dreams%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="168" height="166" srcset="https://upload.thwiki.cc/thumb/a/a9/Border_Of_Dreams%E5%B0%81%E9%9D%A2.jpg/252px-Border_Of_Dreams%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/a/a9/Border_Of_Dreams%E5%B0%81%E9%9D%A2.jpg/336px-Border_Of_Dreams%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1296" data-file-height="1279"></a><div class="cover-char">角色：<a href="./八云紫.md" title="八云紫">八云紫</a></div></td>
 </tr><tr><td class="label">名称</td><td colspan="2"> Border Of Dreams </td></tr><tr><td class="label">制作方</td><td><a href="./groovin'_bullets.md" title="groovin&#39; bullets">groovin' bullets</a></td><td class="cover-artwork" rowspan="6" style="min-width:168px;"><a href="./文件-Border_Of_Dreams封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/a/a9/Border_Of_Dreams%E5%B0%81%E9%9D%A2.jpg/168px-Border_Of_Dreams%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="168" height="166" srcset="https://upload.thwiki.cc/thumb/a/a9/Border_Of_Dreams%E5%B0%81%E9%9D%A2.jpg/252px-Border_Of_Dreams%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/a/a9/Border_Of_Dreams%E5%B0%81%E9%9D%A2.jpg/336px-Border_Of_Dreams%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1296" data-file-height="1279"></a><div class="cover-char">角色：<a href="./八云紫.md" title="八云紫">八云紫</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2012-05-27&#160;（<a href="/展会作品列表?e=%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD%239">第九回 博麗神社例大祭</a>）</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>0</td></tr><tr><td class="label">总时长</td><td>00:00</td></tr></tbody></table>
+</tr><tr><td class="label">首发日期</td><td>2012-05-27 （<a href="./展会作品列表.md#9">第九回 博麗神社例大祭</a>）</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>0</td></tr><tr><td class="label">总时长</td><td>00:00</td></tr></tbody></table>
 
 Border Of Dreams（同人专辑，groovin' bullets，2012） - 2012年5月27日 由 groovin' bullets 于 博丽神社例大祭9 发布的同人专辑，分级为 一般向
-
 ## Staff
 Illustration
 : 芝樹 （[幻想町](./幻想町.md)）
-
 
 ## 试听
   
 暂不支援此类型
   
 
-
 ## 曲目列表
 
-<table></table>
-
-
-
 ## 评论
-
-
-
 
 ---
 

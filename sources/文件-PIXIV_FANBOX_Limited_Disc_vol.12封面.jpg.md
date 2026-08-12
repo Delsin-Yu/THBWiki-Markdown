@@ -1,6 +1,6 @@
 # 文件:PIXIV_FANBOX_Limited_Disc_vol.12封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1c\ns6%3APIXIV_FANBOX_Limited_Disc_vol%2E12%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1c\ns6%3APIXIV_FANBOX_Limited_Disc_vol%2E12%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 少女フラクタル
 
@@ -11,9 +11,6 @@
   
 
 - [PIXIV FANBOX Limited Disc vol.12](./PIXIV_FANBOX_Limited_Disc_vol.12.md)
-
-
-
 
 
 ---

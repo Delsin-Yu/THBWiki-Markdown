@@ -1,6 +1,6 @@
 # 文件:Emotional_Catastrophic_Wind封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c8\ns6%3AEmotional_Catastrophic_Wind%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c8\ns6%3AEmotional_Catastrophic_Wind%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Kyandoru_Raito_No_Konran | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Kyandoru_Raito_No_Konran | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Emotional Catastrophic Wind](./Emotional_Catastrophic_Wind.md)  
-该封面包含的角色：- [姬海棠果](./姬海棠果.md)
+- [Emotional Catastrophic Wind](./Emotional_Catastrophic_Wind.md)该封面包含的角色：
+- [姬海棠果](./姬海棠果.md)
 
   
-源地址：[[1]](https://kyandoruraitonokonranofficial.files.wordpress.com/2016/03/ecw.jpg?w=411&amp;h=411)
-  
-
-
-
-
+源地址：[\[1\]](https://kyandoruraitonokonranofficial.files.wordpress.com/2016/03/ecw.jpg?w=411&h=411)  
 
 ---
 

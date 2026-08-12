@@ -1,6 +1,6 @@
 # 文件:鈴奈庵FROZEN封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ea\ns6%3A%E9%88%B4%E5%A5%88%E5%BA%B5FROZEN%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ea\ns6%3A%E9%88%B4%E5%A5%88%E5%BA%B5FROZEN%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 なかもず火災保険 | 同人志封面 | 封面图片
 
@@ -10,16 +10,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [鈴奈庵FROZEN](./鈴奈庵FROZEN.md)  
-该封面包含的角色：- [本居小铃](./本居小铃.md)- [稗田阿求](./稗田阿求.md)
+- [鈴奈庵FROZEN](./鈴奈庵FROZEN.md)该封面包含的角色：
+- [本居小铃](./本居小铃.md)
+- [稗田阿求](./稗田阿求.md)
 
   
-[Pixiv artwork ID: 88515264](https://www.pixiv.net/artworks/88515264)
-  
-
-
-
-
+[Pixiv artwork ID: 88515264](https://www.pixiv.net/artworks/88515264)  
 
 ---
 

@@ -1,14 +1,11 @@
 # 文件:ばんだいく_banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\96\ns6%3A%E3%81%B0%E3%82%93%E3%81%A0%E3%81%84%E3%81%8F_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\96\ns6%3A%E3%81%B0%E3%82%93%E3%81%A0%E3%81%84%E3%81%8F_banner%2Ejpg.html -->
 
 ばんだいく | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

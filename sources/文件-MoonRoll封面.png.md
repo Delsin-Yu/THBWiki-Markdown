@@ -1,6 +1,6 @@
 # 文件:MoonRoll封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0e\ns6%3AMoonRoll%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0e\ns6%3AMoonRoll%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 ザ・飛ぶ狂うズ | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@
   
 
 - [MoonRoll](./MoonRoll.md)
-
-
-
 
 
 ---

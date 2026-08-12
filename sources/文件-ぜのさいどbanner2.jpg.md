@@ -1,14 +1,11 @@
 # 文件:ぜのさいどbanner2.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a7\ns6%3A%E3%81%9C%E3%81%AE%E3%81%95%E3%81%84%E3%81%A9banner2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a7\ns6%3A%E3%81%9C%E3%81%AE%E3%81%95%E3%81%84%E3%81%A9banner2%2Ejpg.html -->
 
 ぜのさいど | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

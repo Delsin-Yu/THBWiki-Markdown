@@ -1,6 +1,6 @@
 # 文件:遠い空を往く_-_Voyage_Note.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ab\ns6%3A%E9%81%A0%E3%81%84%E7%A9%BA%E3%82%92%E5%BE%80%E3%81%8F_-_Voyage_Note%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ab\ns6%3A%E9%81%A0%E3%81%84%E7%A9%BA%E3%82%92%E5%BE%80%E3%81%8F_-_Voyage_Note%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 AncientChronicle | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ AncientChronicle | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [遠い空を往く - Voyage Note.](./遠い空を往く_-_Voyage_Note..md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)
-
-
-
+- [遠い空を往く - Voyage Note.](./遠い空を往く_-_Voyage_Note..md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
 
 
 ---

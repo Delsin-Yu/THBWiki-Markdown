@@ -1,12 +1,8 @@
 # 文件:Folksy_Touhou_days.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0b\ns6%3AFolksy_Touhou_days%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0b\ns6%3AFolksy_Touhou_days%2Emp3.html -->
 
 原曲MP3 | 日日是红日_～_Folksy_Touhou_days.
-
-
-
-
 
 
 ---

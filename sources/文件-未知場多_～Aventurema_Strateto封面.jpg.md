@@ -1,6 +1,6 @@
 # 文件:未知場多_～Aventurema_Strateto封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1c\ns6%3A%E6%9C%AA%E7%9F%A5%E5%A0%B4%E5%A4%9A_%EF%BD%9EAventurema_Strateto%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1c\ns6%3A%E6%9C%AA%E7%9F%A5%E5%A0%B4%E5%A4%9A_%EF%BD%9EAventurema_Strateto%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 作画法界 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [未知場多 ～Aventurema Strateto](./未知場多_～Aventurema_Strateto.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)
-
-
-
+- [未知場多 ～Aventurema Strateto](./未知場多_～Aventurema_Strateto.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
 
 
 ---

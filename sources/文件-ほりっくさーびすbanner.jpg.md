@@ -1,12 +1,8 @@
 # 文件:ほりっくさーびすbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b6\ns6%3A%E3%81%BB%E3%82%8A%E3%81%A3%E3%81%8F%E3%81%95%E3%83%BC%E3%81%B3%E3%81%99banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b6\ns6%3A%E3%81%BB%E3%82%8A%E3%81%A3%E3%81%8F%E3%81%95%E3%83%BC%E3%81%B3%E3%81%99banner%2Ejpg.html -->
 
 ほりっくさーびす | 社团LOGO
-
-
-
-
 
 
 ---

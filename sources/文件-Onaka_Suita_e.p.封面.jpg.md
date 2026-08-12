@@ -1,6 +1,6 @@
 # 文件:Onaka_Suita_e.p.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5b\ns6%3AOnaka_Suita_e%2Ep%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5b\ns6%3AOnaka_Suita_e%2Ep%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 マンダライン | 专辑封面 | 封面图片
 
@@ -8,11 +8,13 @@
 使用了本文件作封面图片的作品：
   
 
-- [Onaka Suita e.p.](./Onaka_Suita_e.p..md)  
-该封面包含的角色：- [娜兹玲](./娜兹玲.md)- [村纱水蜜](./村纱水蜜.md)- [圣白莲](./圣白莲.md)- [苏我屠自古](./苏我屠自古.md)- [物部布都](./物部布都.md)- [丰聪耳神子](./丰聪耳神子.md)
-
-
-
+- [Onaka Suita e.p.](./Onaka_Suita_e.p..md)该封面包含的角色：
+- [娜兹玲](./娜兹玲.md)
+- [村纱水蜜](./村纱水蜜.md)
+- [圣白莲](./圣白莲.md)
+- [苏我屠自古](./苏我屠自古.md)
+- [物部布都](./物部布都.md)
+- [丰聪耳神子](./丰聪耳神子.md)
 
 
 ---

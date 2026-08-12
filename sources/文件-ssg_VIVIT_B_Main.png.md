@@ -1,16 +1,12 @@
 # 文件:ssg_VIVIT_B_Main.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\21\ns6%3Assg_VIVIT_B_Main%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\21\ns6%3Assg_VIVIT_B_Main%2Epng.html -->
 
 秋霜玉
 
   
 《秋霜玉》机体Homing Missile的主炮弹幕。
   
-
-
-
-
 
 ---
 

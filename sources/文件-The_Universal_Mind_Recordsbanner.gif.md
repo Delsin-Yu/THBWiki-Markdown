@@ -1,18 +1,13 @@
 # 文件:The_Universal_Mind_Recordsbanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\86\ns6%3AThe_Universal_Mind_Recordsbanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\86\ns6%3AThe_Universal_Mind_Recordsbanner%2Egif.html -->
 
 The_Universal_Mind_Records | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[[1]](http://universalmindrecords.web.fc2.com/img/tumrbn.gif)
-  
-
-
-
-
+源地址：[\[1\]](http://universalmindrecords.web.fc2.com/img/tumrbn.gif)  
 
 ---
 

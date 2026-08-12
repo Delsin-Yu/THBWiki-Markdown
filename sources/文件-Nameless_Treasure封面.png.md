@@ -1,6 +1,6 @@
 # 文件:Nameless_Treasure封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b0\ns6%3ANameless_Treasure%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b0\ns6%3ANameless_Treasure%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 E_Project | 同人志封面 | 封面图片
 
@@ -10,16 +10,13 @@ E_Project | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Nameless Treasure](./Nameless_Treasure.md)  
-该封面包含的角色：- [大妖精](./大妖精.md)- [小恶魔](./小恶魔.md)- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
+- [Nameless Treasure](./Nameless_Treasure.md)该封面包含的角色：
+- [大妖精](./大妖精.md)
+- [小恶魔](./小恶魔.md)
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
 
   
-[Pixiv artwork ID: 27405544 (original size)](https://www.pixiv.net/artworks/27405544)
-  
-
-
-
-
+[Pixiv artwork ID: 27405544 (original size)](https://www.pixiv.net/artworks/27405544)  
 
 ---
 

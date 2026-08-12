@@ -1,12 +1,8 @@
 # 文件:东风谷早苗（绀珠传立绘_sweat）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f8\ns6%3A%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97%EF%BC%88%E7%BB%80%E7%8F%A0%E4%BC%A0%E7%AB%8B%E7%BB%98_sweat%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f8\ns6%3A%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97%EF%BC%88%E7%BB%80%E7%8F%A0%E4%BC%A0%E7%AB%8B%E7%BB%98_sweat%EF%BC%89%2Epng.html -->
 
 ZUN绘 | 东方绀珠传 | 东风谷早苗 | 官方游戏立绘
-
-
-
-
 
 
 ---

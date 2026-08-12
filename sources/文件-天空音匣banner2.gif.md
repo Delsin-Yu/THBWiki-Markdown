@@ -1,18 +1,13 @@
 # 文件:天空音匣banner2.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\69\ns6%3A%E5%A4%A9%E7%A9%BA%E9%9F%B3%E5%8C%A3banner2%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\69\ns6%3A%E5%A4%A9%E7%A9%BA%E9%9F%B3%E5%8C%A3banner2%2Egif.html -->
 
 天空音匣 | 社团LOGO
 
 
 ## 摘要
   
-源地址：[direct image link](http://sky-attic.net/pic/ban/sabanner00b.gif), [source page](http://sky-attic.net/sa02c.html)
-  
-
-
-
-
+源地址：[direct image link](http://sky-attic.net/pic/ban/sabanner00b.gif), [source page](http://sky-attic.net/sa02c.html)  
 
 ---
 

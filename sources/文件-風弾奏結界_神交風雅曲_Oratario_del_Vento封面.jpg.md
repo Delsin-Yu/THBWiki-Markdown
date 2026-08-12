@@ -1,6 +1,6 @@
 # 文件:風弾奏結界_神交風雅曲_Oratario_del_Vento封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\93\ns6%3A%E9%A2%A8%E5%BC%BE%E5%A5%8F%E7%B5%90%E7%95%8C_%E7%A5%9E%E4%BA%A4%E9%A2%A8%E9%9B%85%E6%9B%B2_Oratario_del_Vento%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\93\ns6%3A%E9%A2%A8%E5%BC%BE%E5%A5%8F%E7%B5%90%E7%95%8C_%E7%A5%9E%E4%BA%A4%E9%A2%A8%E9%9B%85%E6%9B%B2_Oratario_del_Vento%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 dBu_music | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ dBu_music | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [風弾奏結界 神交風雅曲 Oratario del Vento](./風弾奏結界_神交風雅曲_Oratario_del_Vento.md)  
-该封面包含的角色：- [东风谷早苗](./东风谷早苗.md)- [八坂神奈子](./八坂神奈子.md)
-
-
-
+- [風弾奏結界 神交風雅曲 Oratario del Vento](./風弾奏結界_神交風雅曲_Oratario_del_Vento.md)该封面包含的角色：
+- [东风谷早苗](./东风谷早苗.md)
+- [八坂神奈子](./八坂神奈子.md)
 
 
 ---

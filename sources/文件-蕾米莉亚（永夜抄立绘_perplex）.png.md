@@ -1,12 +1,8 @@
 # 文件:蕾米莉亚（永夜抄立绘_perplex）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\92\ns6%3A%E8%95%BE%E7%B1%B3%E8%8E%89%E4%BA%9A%EF%BC%88%E6%B0%B8%E5%A4%9C%E6%8A%84%E7%AB%8B%E7%BB%98_perplex%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\92\ns6%3A%E8%95%BE%E7%B1%B3%E8%8E%89%E4%BA%9A%EF%BC%88%E6%B0%B8%E5%A4%9C%E6%8A%84%E7%AB%8B%E7%BB%98_perplex%EF%BC%89%2Epng.html -->
 
 ZUN绘 | 东方永夜抄 | 官方游戏立绘 | 蕾米莉亚·斯卡蕾特
-
-
-
-
 
 
 ---

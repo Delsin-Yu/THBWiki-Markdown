@@ -1,6 +1,6 @@
 # 文件:橋呑みマスタースパーク_～first_ignition～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\91\ns6%3A%E6%A9%8B%E5%91%91%E3%81%BF%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%B9%E3%83%91%E3%83%BC%E3%82%AF_%EF%BD%9Efirst_ignition%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\91\ns6%3A%E6%A9%8B%E5%91%91%E3%81%BF%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%B9%E3%83%91%E3%83%BC%E3%82%AF_%EF%BD%9Efirst_ignition%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Magical_Hazard | 专辑封面 | 封面图片
 
@@ -10,16 +10,13 @@ Magical_Hazard | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [橋呑みマスタースパーク ～first ignition～](./橋呑みマスタースパーク_～first_ignition～.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [橋呑みマスタースパーク ～first ignition～](./橋呑みマスタースパーク_～first_ignition～.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
   
 Image from TLMC scans
   
-
-
-
-
 
 ---
 

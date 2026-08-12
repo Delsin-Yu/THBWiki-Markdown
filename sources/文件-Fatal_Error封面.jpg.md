@@ -1,6 +1,6 @@
 # 文件:Fatal_Error封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4d\ns6%3AFatal_Error%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4d\ns6%3AFatal_Error%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 circle-rw | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ circle-rw | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Fatal Error](./Fatal_Error.md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)
-
-
-
+- [Fatal Error](./Fatal_Error.md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
 
 
 ---

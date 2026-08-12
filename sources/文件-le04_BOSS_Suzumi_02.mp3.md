@@ -1,16 +1,12 @@
 # 文件:le04_BOSS_Suzumi_02.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\77\ns6%3Ale04_BOSS_Suzumi_02%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\77\ns6%3Ale04_BOSS_Suzumi_02%2Emp3.html -->
 
 连缘Project官方音乐MP3
 
   
 连缘天影战记EX+α面 Boss-国主雀巳（Ardey）主题曲
   
-
-
-
-
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:不思議の幻想郷３PLUS封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c3\ns6%3A%E4%B8%8D%E6%80%9D%E8%AD%B0%E3%81%AE%E5%B9%BB%E6%83%B3%E9%83%B7%EF%BC%93PLUS%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c3\ns6%3A%E4%B8%8D%E6%80%9D%E8%AD%B0%E3%81%AE%E5%B9%BB%E6%83%B3%E9%83%B7%EF%BC%93PLUS%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 AQUA_STYLE | 封面图片 | 软件封面
 
@@ -8,11 +8,9 @@ AQUA_STYLE | 封面图片 | 软件封面
 使用了本文件作封面图片的作品：
   
 
-- [不思議の幻想郷３PLUS](./不思議の幻想郷３PLUS.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [秦心](./秦心.md)
-
-
-
+- [不思議の幻想郷３PLUS](./不思議の幻想郷３PLUS.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [秦心](./秦心.md)
 
 
 ---

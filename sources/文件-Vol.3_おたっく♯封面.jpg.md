@@ -1,6 +1,6 @@
 # 文件:Vol.3_おたっく♯封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\82\ns6%3AVol%2E3_%E3%81%8A%E3%81%9F%E3%81%A3%E3%81%8F%E2%99%AF%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\82\ns6%3AVol%2E3_%E3%81%8A%E3%81%9F%E3%81%A3%E3%81%8F%E2%99%AF%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 おたクインテット | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Vol.3 おたっく♯](./Vol.3_おたっく♯.md)  
-该封面包含的角色：- [八意永琳](./八意永琳.md)
+- [Vol.3 おたっく♯](./Vol.3_おたっく♯.md)该封面包含的角色：
+- [八意永琳](./八意永琳.md)
 
   
-源地址：[[1]](http://otaquintet.net/images/vol.3.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://otaquintet.net/images/vol.3.jpg)  
 
 ---
 

@@ -1,12 +1,8 @@
 # 文件:东方编曲管弦乐团_banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8d\ns6%3A%E4%B8%9C%E6%96%B9%E7%BC%96%E6%9B%B2%E7%AE%A1%E5%BC%A6%E4%B9%90%E5%9B%A2_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8d\ns6%3A%E4%B8%9C%E6%96%B9%E7%BC%96%E6%9B%B2%E7%AE%A1%E5%BC%A6%E4%B9%90%E5%9B%A2_banner%2Ejpg.html -->
 
 东方编曲管弦乐团 | 社团LOGO
-
-
-
-
 
 
 ---

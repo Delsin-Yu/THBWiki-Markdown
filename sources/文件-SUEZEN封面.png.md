@@ -1,6 +1,6 @@
 # 文件:SUEZEN封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\72\ns6%3ASUEZEN%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\72\ns6%3ASUEZEN%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 みんなの櫛 | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [SUEZEN](./SUEZEN.md)  
-该封面包含的角色：- [少名针妙丸](./少名针妙丸.md)
-
-
-
+- [SUEZEN](./SUEZEN.md)该封面包含的角色：
+- [少名针妙丸](./少名针妙丸.md)
 
 
 ---

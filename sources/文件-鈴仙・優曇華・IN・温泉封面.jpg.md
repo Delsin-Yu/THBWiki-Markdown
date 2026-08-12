@@ -1,6 +1,6 @@
 # 文件:鈴仙・優曇華・IN・温泉封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3e\ns6%3A%E9%88%B4%E4%BB%99%E3%83%BB%E5%84%AA%E6%9B%87%E8%8F%AF%E3%83%BBIN%E3%83%BB%E6%B8%A9%E6%B3%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3e\ns6%3A%E9%88%B4%E4%BB%99%E3%83%BB%E5%84%AA%E6%9B%87%E8%8F%AF%E3%83%BBIN%E3%83%BB%E6%B8%A9%E6%B3%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 どっこい瀟洒 | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [鈴仙・優曇華・IN・温泉](./鈴仙・優曇華・IN・温泉.md)  
-该封面包含的角色：- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
-
-
-
+- [鈴仙・優曇華・IN・温泉](./鈴仙・優曇華・IN・温泉.md)该封面包含的角色：
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
 
 
 ---

@@ -1,18 +1,13 @@
 # 文件:黒兎団banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0e\ns6%3A%E9%BB%92%E5%85%8E%E5%9B%A3banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0e\ns6%3A%E9%BB%92%E5%85%8E%E5%9B%A3banner%2Ejpg.html -->
 
 社团LOGO | 黒兎団
 
 
 ## 摘要
   
-源地址：[direct image link](https://web.archive.org/web/20070815082612im_/http://kurousagidan.net/kurousa_b.jpg), [source page](https://web.archive.org/web/20070629235938/http://kurousagidan.net:80/about/about.html)
-  
-
-
-
-
+源地址：[direct image link](https://web.archive.org/web/20070815082612im_/http://kurousagidan.net/kurousa_b.jpg), [source page](https://web.archive.org/web/20070629235938/http://kurousagidan.net:80/about/about.html)  
 
 ---
 

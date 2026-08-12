@@ -1,6 +1,6 @@
 # 文件:witches＋封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e8\ns6%3Awitches%EF%BC%8B%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e8\ns6%3Awitches%EF%BC%8B%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 N.B.W | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@ N.B.W | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [witches＋](./witches＋.md)  
-该封面包含的角色：- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
+- [witches＋](./witches＋.md)该封面包含的角色：
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
 
   
-源地址：[direct image link (10 size)](https://f4.bcbits.com/img/a3372851973_10.jpg), [source page (artist Bandcamp)](https://nbwnbw.bandcamp.com/album/witches)
-  
-
-
-
-
+源地址：[direct image link (10 size)](https://f4.bcbits.com/img/a3372851973_10.jpg), [source page (artist Bandcamp)](https://nbwnbw.bandcamp.com/album/witches)  
 
 ---
 

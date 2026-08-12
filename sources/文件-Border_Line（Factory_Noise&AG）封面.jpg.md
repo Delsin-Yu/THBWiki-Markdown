@@ -1,6 +1,6 @@
 # 文件:Border_Line（Factory_Noise&AG）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cc\ns6%3ABorder_Line%EF%BC%88Factory_Noise%26AG%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cc\ns6%3ABorder_Line%EF%BC%88Factory_Noise%26AG%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Factory_Noise&AG | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Factory_Noise&AG | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Border Line（Factory Noise&amp;AG）](./Border_Line（Factory_Noise&AG）.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [Border Line（Factory Noise&AG）](./Border_Line（Factory_Noise&AG）.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

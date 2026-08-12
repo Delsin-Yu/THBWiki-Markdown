@@ -1,6 +1,6 @@
 # 文件:ELECTRONIC_FANTASY封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1a\ns6%3AELECTRONIC_FANTASY%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1a\ns6%3AELECTRONIC_FANTASY%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 粒々アンサンブル
 
@@ -8,12 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [ELECTRONIC FANTASY](./ELECTRONIC_FANTASY.md)  
-该封面包含的角色：- [蓬莱山辉夜](./蓬莱山辉夜.md)源地址：[[1]](https://tt-ensemble.pppj.work/img/ELECTRONIC_FANTASY.png)
-
-
-
-
+- [ELECTRONIC FANTASY](./ELECTRONIC_FANTASY.md)该封面包含的角色：
+- [蓬莱山辉夜](./蓬莱山辉夜.md)
+源地址：[\[1\]](https://tt-ensemble.pppj.work/img/ELECTRONIC_FANTASY.png)
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:little_good-bye封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\74\ns6%3Alittle_good-bye%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\74\ns6%3Alittle_good-bye%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 味玉定食 | 封面图片
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [little good-bye](./little_good-bye.md)  
-该封面包含的角色：- [圣白莲](./圣白莲.md)
+- [little good-bye](./little_good-bye.md)该封面包含的角色：
+- [圣白莲](./圣白莲.md)
 
   
-源地址：[[1]](http://ajitamateisyoku.web.fc2.com/img/little_good-bye.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://ajitamateisyoku.web.fc2.com/img/little_good-bye.jpg)  
 
 ---
 

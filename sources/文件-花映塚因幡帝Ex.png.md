@@ -1,12 +1,8 @@
 # 文件:花映塚因幡帝Ex.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\29\ns6%3A%E8%8A%B1%E6%98%A0%E5%A1%9A%E5%9B%A0%E5%B9%A1%E5%B8%9DEx%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\29\ns6%3A%E8%8A%B1%E6%98%A0%E5%A1%9A%E5%9B%A0%E5%B9%A1%E5%B8%9DEx%2Epng.html -->
 
 东方花映塚 | 因幡帝
-
-
-
-
 
 
 ---

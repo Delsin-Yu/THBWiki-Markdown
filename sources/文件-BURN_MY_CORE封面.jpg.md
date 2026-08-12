@@ -1,6 +1,6 @@
 # 文件:BURN_MY_CORE封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\35\ns6%3ABURN_MY_CORE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\35\ns6%3ABURN_MY_CORE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 9bFOX | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [BURN MY CORE](./BURN_MY_CORE.md)  
-该封面包含的角色：- [灵乌路空](./灵乌路空.md)
-
-
-
+- [BURN MY CORE](./BURN_MY_CORE.md)该封面包含的角色：
+- [灵乌路空](./灵乌路空.md)
 
 
 ---

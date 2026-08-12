@@ -1,35 +1,28 @@
 # 東方夢終劇_～_Concealed_the_Conclusion/符卡/Stage_1B
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\7\75\ns0%3A%E6%9D%B1%E6%96%B9%E5%A4%A2%E7%B5%82%E5%8A%87_%EF%BD%9E_Concealed_the_Conclusion%2F%E7%AC%A6%E5%8D%A1%2FStage_1B.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\7\75\ns0%3A%E6%9D%B1%E6%96%B9%E5%A4%A2%E7%B5%82%E5%8A%87_%EF%BD%9E_Concealed_the_Conclusion%2F%E7%AC%A6%E5%8D%A1%2FStage_1B.html -->
 
 Danmaq | 含有受损文件链接的页面
 
 <center>
-
 <table>
 <tbody><tr>
 <td>
 </td>
 <td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right">
 </td>
-<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="./東方夢終劇_～_Concealed_the_Conclusion-符卡.md" title="東方夢終劇 ～ Concealed the Conclusion/符卡">符卡</a>&#160;
+<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;"> <a href="./東方夢終劇_～_Concealed_the_Conclusion-符卡.md" title="東方夢終劇 ～ Concealed the Conclusion/符卡">符卡</a> 
 </td>
-<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left">&#160;<a href="./東方夢終劇_～_Concealed_the_Conclusion-符卡-Stage_2B.md" title="東方夢終劇 ～ Concealed the Conclusion/符卡/Stage 2B">Stage 2B</a>
+<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left"> <a href="./東方夢終劇_～_Concealed_the_Conclusion-符卡-Stage_2B.md" title="東方夢終劇 ～ Concealed the Conclusion/符卡/Stage 2B">Stage 2B</a>
 </td>
-<td>&gt;
+<td>>
 </td></tr></tbody></table>
 
   
 </center>
-  
-  
-
-  
-
-
 <table>
-<tbody><tr><td width="80">符卡编号</td><td width="400">056</td><td rowspan="6" width="120"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%BB%88%E5%89%A7%E7%AC%A6%E5%8D%A1056.jpg" class="new" title="文件:东方梦终剧符卡056.jpg">文件:东方梦终剧符卡056.jpg</a></td></tr>
-<tr><td>符卡原名</td><td>不死 「ウロボロスの環」</td></tr><tr><td>符卡译名</td><td>不死「衔尾蛇之环」<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">1</a></sup></td></tr><tr><td>出现位置</td><td>Stage 1B
+<tbody><tr><td width="80">符卡编号</td><td width="400">056</td><td rowspan="6" width="120"><a class="new" title="文件:东方梦终剧符卡056.jpg">文件:东方梦终剧符卡056.jpg</a></td></tr>
+<tr><td>符卡原名</td><td>不死 「ウロボロスの環」</td></tr><tr><td>符卡译名</td><td>不死「衔尾蛇之环」<span>[^cite_note-1]</span></td></tr><tr><td>出现位置</td><td>Stage 1B
 - Hard（藤原妹红）</td></tr><tr><td>说明文本</td><td>不死を象徴した環より放たれるドラゴンの炎。
 <p>無限をも意味するこの環からの炎で死ぬことは
 </p>
@@ -39,14 +32,8 @@ Danmaq | 含有受损文件链接的页面
 是不幸的，然而不死更加不幸。</td></tr></tbody></table>
 
 
-  
-  
-
-  
-
-
 <table>
-<tbody><tr><td width="80">符卡编号</td><td width="400">057</td><td rowspan="6" width="120"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%BB%88%E5%89%A7%E7%AC%A6%E5%8D%A1057.jpg" class="new" title="文件:东方梦终剧符卡057.jpg">文件:东方梦终剧符卡057.jpg</a></td></tr>
+<tbody><tr><td width="80">符卡编号</td><td width="400">057</td><td rowspan="6" width="120"><a class="new" title="文件:东方梦终剧符卡057.jpg">文件:东方梦终剧符卡057.jpg</a></td></tr>
 <tr><td>符卡原名</td><td>不死 「ウロボロスの環 ～ Lunatic」</td></tr><tr><td>符卡译名</td><td>不死「衔尾蛇之环 ～ Lunatic」</td></tr><tr><td>出现位置</td><td>Stage 1B
 - Lunatic（藤原妹红）</td></tr><tr><td>说明文本</td><td>不死を象徴した環より放たれるドラゴンの炎。
 <p>蓬莱の薬とは服用すると一度体を分解された上で
@@ -59,14 +46,8 @@ Danmaq | 含有受损文件链接的页面
 如果真是这样的话那果然她也看见过真理了吧。</td></tr></tbody></table>
 
 
-  
-  
-
-  
-
-
 <table>
-<tbody><tr><td width="80">符卡编号</td><td width="400">058</td><td rowspan="6" width="120"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%BB%88%E5%89%A7%E7%AC%A6%E5%8D%A1058.jpg" class="new" title="文件:东方梦终剧符卡058.jpg">文件:东方梦终剧符卡058.jpg</a></td></tr>
+<tbody><tr><td width="80">符卡编号</td><td width="400">058</td><td rowspan="6" width="120"><a class="new" title="文件:东方梦终剧符卡058.jpg">文件:东方梦终剧符卡058.jpg</a></td></tr>
 <tr><td>符卡原名</td><td>難題「揮くトラペゾヘドロン ～ Easy」</td></tr><tr><td>符卡译名</td><td>难题「光辉之四边形体 ～ Easy」</td></tr><tr><td>出现位置</td><td>Stage 1B
 - Easy（蓬莱山辉夜）</td></tr><tr><td>说明文本</td><td>月の姫が提示する新たな難題の壱。
 <p>何やら不吉な存在を召喚するアイテムらしいが、
@@ -77,14 +58,8 @@ Danmaq | 含有受损文件链接的页面
 这位公主大人，这次究竟又在策划着什么呢？</td></tr></tbody></table>
 
 
-  
-  
-
-  
-
-
 <table>
-<tbody><tr><td width="80">符卡编号</td><td width="400">059</td><td rowspan="6" width="120"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%BB%88%E5%89%A7%E7%AC%A6%E5%8D%A1059.jpg" class="new" title="文件:东方梦终剧符卡059.jpg">文件:东方梦终剧符卡059.jpg</a></td></tr>
+<tbody><tr><td width="80">符卡编号</td><td width="400">059</td><td rowspan="6" width="120"><a class="new" title="文件:东方梦终剧符卡059.jpg">文件:东方梦终剧符卡059.jpg</a></td></tr>
 <tr><td>符卡原名</td><td>難題「揮くトラペゾヘドロン」</td></tr><tr><td>符卡译名</td><td>难题「光辉之四边形体」</td></tr><tr><td>出现位置</td><td>Stage 1B
 - Normal（蓬莱山辉夜）</td></tr><tr><td>说明文本</td><td>月の姫が提示する新たな難題の壱。
 <p>この小箱の中を見た者は狂気に陥ると言われるが、
@@ -97,14 +72,8 @@ Danmaq | 含有受损文件链接的页面
 就已经被疯狂所囚禁了吧。</td></tr></tbody></table>
 
 
-  
-  
-
-  
-
-
 <table>
-<tbody><tr><td width="80">符卡编号</td><td width="400">060</td><td rowspan="6" width="120"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%BB%88%E5%89%A7%E7%AC%A6%E5%8D%A1060.jpg" class="new" title="文件:东方梦终剧符卡060.jpg">文件:东方梦终剧符卡060.jpg</a></td></tr>
+<tbody><tr><td width="80">符卡编号</td><td width="400">060</td><td rowspan="6" width="120"><a class="new" title="文件:东方梦终剧符卡060.jpg">文件:东方梦终剧符卡060.jpg</a></td></tr>
 <tr><td>符卡原名</td><td>難題「揮くトラペゾヘドロン ～ Hard」</td></tr><tr><td>符卡译名</td><td>难题「光辉之四边形体 ～ Hard」</td></tr><tr><td>出现位置</td><td>Stage 1B
 - Hard（蓬莱山辉夜）</td></tr><tr><td>说明文本</td><td>月の姫が提示する新たな難題の壱。
 <p>この小箱の中を見た者は狂気に陥ると言われるが、
@@ -117,14 +86,8 @@ Danmaq | 含有受损文件链接的页面
 没有关系。</td></tr></tbody></table>
 
 
-  
-  
-
-  
-
-
 <table>
-<tbody><tr><td width="80">符卡编号</td><td width="400">061</td><td rowspan="6" width="120"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%BB%88%E5%89%A7%E7%AC%A6%E5%8D%A1061.jpg" class="new" title="文件:东方梦终剧符卡061.jpg">文件:东方梦终剧符卡061.jpg</a></td></tr>
+<tbody><tr><td width="80">符卡编号</td><td width="400">061</td><td rowspan="6" width="120"><a class="new" title="文件:东方梦终剧符卡061.jpg">文件:东方梦终剧符卡061.jpg</a></td></tr>
 <tr><td>符卡原名</td><td>難題「揮くトラペゾヘドロン ～ Lunatic」</td></tr><tr><td>符卡译名</td><td>难题「光辉之四边形体 ～ Lunatic」</td></tr><tr><td>出现位置</td><td>Stage 1B
 - Lunatic（蓬莱山辉夜）</td></tr><tr><td>说明文本</td><td>月の姫が提示する新たな難題の壱。
 <p>この美しい多面結晶体は鑑賞用オブジェとしても
@@ -137,15 +100,9 @@ Danmaq | 含有受损文件链接的页面
 唯一的缺点就是鉴赏的人不能平安无事。</td></tr></tbody></table>
 
 
-  
-  
-
-  
-
-
 <table>
-<tbody><tr><td width="80">符卡编号</td><td width="400">062</td><td rowspan="6" width="120"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%BB%88%E5%89%A7%E7%AC%A6%E5%8D%A1062.jpg" class="new" title="文件:东方梦终剧符卡062.jpg">文件:东方梦终剧符卡062.jpg</a></td></tr>
-<tr><td>符卡原名</td><td>難題「弥七の風車 ～ Easy」</td></tr><tr><td>符卡译名</td><td>难题「弥七的风车 ～ Easy」<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">2</a></sup></td></tr><tr><td>出现位置</td><td>Stage 1B
+<tbody><tr><td width="80">符卡编号</td><td width="400">062</td><td rowspan="6" width="120"><a class="new" title="文件:东方梦终剧符卡062.jpg">文件:东方梦终剧符卡062.jpg</a></td></tr>
+<tr><td>符卡原名</td><td>難題「弥七の風車 ～ Easy」</td></tr><tr><td>符卡译名</td><td>难题「弥七的风车 ～ Easy」<span>[^cite_note-2]</span></td></tr><tr><td>出现位置</td><td>Stage 1B
 - Easy（蓬莱山辉夜）</td></tr><tr><td>说明文本</td><td>月の姫が提示する新たな難題の弐。
 <p>投げて攻撃できる他、密書を送るのに使ったり、
 </p><p>拾うとボーナス点が入ったりするという伝説の
@@ -157,14 +114,8 @@ Danmaq | 含有受损文件链接的页面
 万能道具。</td></tr></tbody></table>
 
 
-  
-  
-
-  
-
-
 <table>
-<tbody><tr><td width="80">符卡编号</td><td width="400">063</td><td rowspan="6" width="120"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%BB%88%E5%89%A7%E7%AC%A6%E5%8D%A1063.jpg" class="new" title="文件:东方梦终剧符卡063.jpg">文件:东方梦终剧符卡063.jpg</a></td></tr>
+<tbody><tr><td width="80">符卡编号</td><td width="400">063</td><td rowspan="6" width="120"><a class="new" title="文件:东方梦终剧符卡063.jpg">文件:东方梦终剧符卡063.jpg</a></td></tr>
 <tr><td>符卡原名</td><td>難題「弥七の風車」</td></tr><tr><td>符卡译名</td><td>难题「弥七的风车」</td></tr><tr><td>出现位置</td><td>Stage 1B
 - Normal（蓬莱山辉夜）</td></tr><tr><td>说明文本</td><td>月の姫が提示する新たな難題の弐。
 <p>何かと便利なこの万能風車、実は弥七本人では
@@ -177,14 +128,8 @@ Danmaq | 含有受损文件链接的页面
 粗心大意的随从做出来的。</td></tr></tbody></table>
 
 
-  
-  
-
-  
-
-
 <table>
-<tbody><tr><td width="80">符卡编号</td><td width="400">064</td><td rowspan="6" width="120"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%BB%88%E5%89%A7%E7%AC%A6%E5%8D%A1064.jpg" class="new" title="文件:东方梦终剧符卡064.jpg">文件:东方梦终剧符卡064.jpg</a></td></tr>
+<tbody><tr><td width="80">符卡编号</td><td width="400">064</td><td rowspan="6" width="120"><a class="new" title="文件:东方梦终剧符卡064.jpg">文件:东方梦终剧符卡064.jpg</a></td></tr>
 <tr><td>符卡原名</td><td>難題「弥七の風車 ～ Hard」</td></tr><tr><td>符卡译名</td><td>难题「弥七的风车 ～ Hard」</td></tr><tr><td>出现位置</td><td>Stage 1B
 - Hard（蓬莱山辉夜）</td></tr><tr><td>说明文本</td><td>月の姫が提示する新たな難題の弐。
 <p>そもそもなぜ弥七は風車を愛用しているのか。
@@ -197,14 +142,8 @@ Danmaq | 含有受损文件链接的页面
 这可真的是个难题。</td></tr></tbody></table>
 
 
-  
-  
-
-  
-
-
 <table>
-<tbody><tr><td width="80">符卡编号</td><td width="400">065</td><td rowspan="6" width="120"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%BB%88%E5%89%A7%E7%AC%A6%E5%8D%A1065.jpg" class="new" title="文件:东方梦终剧符卡065.jpg">文件:东方梦终剧符卡065.jpg</a></td></tr>
+<tbody><tr><td width="80">符卡编号</td><td width="400">065</td><td rowspan="6" width="120"><a class="new" title="文件:东方梦终剧符卡065.jpg">文件:东方梦终剧符卡065.jpg</a></td></tr>
 <tr><td>符卡原名</td><td>難題「弥七の風車 ～ Lunatic」</td></tr><tr><td>符卡译名</td><td>难题「弥七的风车 ～ Lunatic」</td></tr><tr><td>出现位置</td><td>Stage 1B
 - Lunatic（蓬莱山辉夜）</td></tr><tr><td>说明文本</td><td>月の姫が提示する新たな難題の弐。
 <p>噂によるとレーダーが内蔵されており、ちりめん
@@ -216,14 +155,8 @@ Danmaq | 含有受损文件链接的页面
 绉绸批发商家灯笼的位置的机能，也许没有。</td></tr></tbody></table>
 
 
-  
-  
-
-  
-
-
 <table>
-<tbody><tr><td width="80">符卡编号</td><td width="400">066</td><td rowspan="6" width="120"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%BB%88%E5%89%A7%E7%AC%A6%E5%8D%A1066.jpg" class="new" title="文件:东方梦终剧符卡066.jpg">文件:东方梦终剧符卡066.jpg</a></td></tr>
+<tbody><tr><td width="80">符卡编号</td><td width="400">066</td><td rowspan="6" width="120"><a class="new" title="文件:东方梦终剧符卡066.jpg">文件:东方梦终剧符卡066.jpg</a></td></tr>
 <tr><td>符卡原名</td><td>難題「サンダーバードの翼」</td></tr><tr><td>符卡译名</td><td>难题「雷鸟之翼」</td></tr><tr><td>出现位置</td><td>Stage 1B
 - Normal（蓬莱山辉夜）</td></tr><tr><td>说明文本</td><td>月の姫が提示する新たな難題の参。
 <p>大陸の平原を我が物顔で飛び回り猛威を振るった
@@ -234,14 +167,8 @@ Danmaq | 含有受损文件链接的页面
 似乎最近开始做起了送信的工作。</td></tr></tbody></table>
 
 
-  
-  
-
-  
-
-
 <table>
-<tbody><tr><td width="80">符卡编号</td><td width="400">067</td><td rowspan="6" width="120"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%BB%88%E5%89%A7%E7%AC%A6%E5%8D%A1067.jpg" class="new" title="文件:东方梦终剧符卡067.jpg">文件:东方梦终剧符卡067.jpg</a></td></tr>
+<tbody><tr><td width="80">符卡编号</td><td width="400">067</td><td rowspan="6" width="120"><a class="new" title="文件:东方梦终剧符卡067.jpg">文件:东方梦终剧符卡067.jpg</a></td></tr>
 <tr><td>符卡原名</td><td>難題「サンダーバードの翼 ～ Hard」</td></tr><tr><td>符卡译名</td><td>难题「雷鸟之翼 ～ Hard」</td></tr><tr><td>出现位置</td><td>Stage 1B
 - Hard（蓬莱山辉夜）</td></tr><tr><td>说明文本</td><td>月の姫が提示する新たな難題の参。
 <p>主に5羽編隊で活動し、超音速で飛行する者や
@@ -254,14 +181,8 @@ Danmaq | 含有受损文件链接的页面
 宇宙中飞行，古老的怪鸟。</td></tr></tbody></table>
 
 
-  
-  
-
-  
-
-
 <table>
-<tbody><tr><td width="80">符卡编号</td><td width="400">068</td><td rowspan="6" width="120"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%BB%88%E5%89%A7%E7%AC%A6%E5%8D%A1068.jpg" class="new" title="文件:东方梦终剧符卡068.jpg">文件:东方梦终剧符卡068.jpg</a></td></tr>
+<tbody><tr><td width="80">符卡编号</td><td width="400">068</td><td rowspan="6" width="120"><a class="new" title="文件:东方梦终剧符卡068.jpg">文件:东方梦终剧符卡068.jpg</a></td></tr>
 <tr><td>符卡原名</td><td>難題「サンダーバードの翼 ～ Lunatic」</td></tr><tr><td>符卡译名</td><td>难题「雷鸟之翼 ～ Lunatic」</td></tr><tr><td>出现位置</td><td>Stage 1B
 - Lunatic（蓬莱山辉夜）</td></tr><tr><td>说明文本</td><td>月の姫が提示する新たな難題の参。
 <p>かつては狐より優れた速さで計算出来る優れた
@@ -273,29 +194,23 @@ Danmaq | 含有受损文件链接的页面
 </p>
 现在已经成为幻想了。</td></tr></tbody></table>
 
-
 <center>
-
 <table>
 <tbody><tr>
 <td>
 </td>
 <td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right">
 </td>
-<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="./東方夢終劇_～_Concealed_the_Conclusion-符卡.md" title="東方夢終劇 ～ Concealed the Conclusion/符卡">符卡</a>&#160;
+<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;"> <a href="./東方夢終劇_～_Concealed_the_Conclusion-符卡.md" title="東方夢終劇 ～ Concealed the Conclusion/符卡">符卡</a> 
 </td>
-<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left">&#160;<a href="./東方夢終劇_～_Concealed_the_Conclusion-符卡-Stage_2B.md" title="東方夢終劇 ～ Concealed the Conclusion/符卡/Stage 2B">Stage 2B</a>
+<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left"> <a href="./東方夢終劇_～_Concealed_the_Conclusion-符卡-Stage_2B.md" title="東方夢終劇 ～ Concealed the Conclusion/符卡/Stage 2B">Stage 2B</a>
 </td>
-<td>&gt;
+<td>>
 </td></tr></tbody></table>
 
   
-</center>
-[^cite_note-1]: [衔尾蛇](https://en.wikipedia.org/wiki/zh:衔尾蛇)是正在吞噬自己尾巴的蛇，形成一个圆环的图案。
-
-
-
-
+</center>[^cite_note-1]: [衔尾蛇](https://en.wikipedia.org/wiki/zh:衔尾蛇)是正在吞噬自己尾巴的蛇，形成一个圆环的图案。
+[^cite_note-2]: [弥七](https://en.wikipedia.org/wiki/ja:風車の弥七)是[TBS电视台](https://en.wikipedia.org/wiki/zh:TBS电视台)系列的时代剧[水户黄门](https://en.wikipedia.org/wiki/ja:水戸黄門_(パナソニック_ドラマシアター%29)的原创人物。另一说是弥七的风车是[Capcom](https://en.wikipedia.org/wiki/zh:Capcom)游戏中经常出现的道具。
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:YOUKAI_RECORD_0011_0001封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9d\ns6%3AYOUKAI_RECORD_0011_0001%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9d\ns6%3AYOUKAI_RECORD_0011_0001%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 キヨナッツ | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [YOUKAI RECORD 0011 0001](./YOUKAI_RECORD_0011_0001.md)  
-该封面包含的角色：- [河城荷取](./河城荷取.md)
+- [YOUKAI RECORD 0011 0001](./YOUKAI_RECORD_0011_0001.md)该封面包含的角色：
+- [河城荷取](./河城荷取.md)
 
   
-源地址：[direct image link (original size)](https://booth.pximg.net/1c8cfad3-07f4-4136-a6f0-0a0f49eb4e34/i/4301485/3ce636a3-3ecc-43e6-824b-d8823bdbf733.jpg), [source page (circle Booth)](https://flagcompany.booth.pm/items/4301485)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://booth.pximg.net/1c8cfad3-07f4-4136-a6f0-0a0f49eb4e34/i/4301485/3ce636a3-3ecc-43e6-824b-d8823bdbf733.jpg), [source page (circle Booth)](https://flagcompany.booth.pm/items/4301485)  
 
 ---
 

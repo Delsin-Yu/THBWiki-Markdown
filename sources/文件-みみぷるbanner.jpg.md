@@ -1,12 +1,8 @@
 # 文件:みみぷるbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\84\ns6%3A%E3%81%BF%E3%81%BF%E3%81%B7%E3%82%8Bbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\84\ns6%3A%E3%81%BF%E3%81%BF%E3%81%B7%E3%82%8Bbanner%2Ejpg.html -->
 
 みみぷる | 社团LOGO
-
-
-
-
 
 
 ---

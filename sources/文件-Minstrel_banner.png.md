@@ -1,14 +1,11 @@
 # 文件:Minstrel_banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\82\ns6%3AMinstrel_banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\82\ns6%3AMinstrel_banner%2Epng.html -->
 
 Minstrel | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

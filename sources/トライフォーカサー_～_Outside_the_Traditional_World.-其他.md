@@ -1,6 +1,6 @@
 # トライフォーカサー_～_Outside_the_Traditional_World./其他
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\0d\ns0%3A%E3%83%88%E3%83%A9%E3%82%A4%E3%83%95%E3%82%A9%E3%83%BC%E3%82%AB%E3%82%B5%E3%83%BC_%EF%BD%9E_Outside_the_Traditional_World%2E%2F%E5%85%B6%E4%BB%96.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\0d\ns0%3A%E3%83%88%E3%83%A9%E3%82%A4%E3%83%95%E3%82%A9%E3%83%BC%E3%82%AB%E3%82%B5%E3%83%BC_%EF%BD%9E_Outside_the_Traditional_World%2E%2F%E5%85%B6%E4%BB%96.html -->
 
 東方邪星章製作チーム
 
@@ -250,10 +250,6 @@
 <td>ヴィンカワーズは異変解決をした事もあるらしいがどうにも嘘臭い。
 </td></tr>
 </tbody></table>
-
-
-
-
 
 
 ---

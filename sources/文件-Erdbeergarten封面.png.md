@@ -1,6 +1,6 @@
 # 文件:Erdbeergarten封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\56\ns6%3AErdbeergarten%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\56\ns6%3AErdbeergarten%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Cafe_Erdbeere | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@ Cafe_Erdbeere | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Erdbeergarten](./Erdbeergarten.md)  
-该封面包含的角色：- [冈崎梦美](./冈崎梦美.md)
+- [Erdbeergarten](./Erdbeergarten.md)该封面包含的角色：
+- [冈崎梦美](./冈崎梦美.md)
 
   
-源地址：[direct image link (original size)](https://booth.pximg.net/7fe42d0f-d8fe-4c2f-96b8-2df6899a3df7/i/3825457/5041c8a3-9635-4176-a266-eb7db14272f8.png), [source page (circle Booth)](https://cafe-erdbeere.booth.pm/items/3825457)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://booth.pximg.net/7fe42d0f-d8fe-4c2f-96b8-2df6899a3df7/i/3825457/5041c8a3-9635-4176-a266-eb7db14272f8.png), [source page (circle Booth)](https://cafe-erdbeere.booth.pm/items/3825457)  
 
 ---
 

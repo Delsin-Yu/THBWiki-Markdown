@@ -1,12 +1,8 @@
 # 文件:Frost_Fragmentbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f1\ns6%3AFrost_Fragmentbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f1\ns6%3AFrost_Fragmentbanner%2Epng.html -->
 
 Frost_Fragment | 社团LOGO
-
-
-
-
 
 
 ---

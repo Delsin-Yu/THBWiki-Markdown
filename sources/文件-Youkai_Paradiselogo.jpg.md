@@ -1,16 +1,11 @@
 # 文件:Youkai_Paradiselogo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\90\ns6%3AYoukai_Paradiselogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\90\ns6%3AYoukai_Paradiselogo%2Ejpg.html -->
 
 Youkai_Paradise | 社团LOGO
 
   
-源地址：[[1]](https://f4.bcbits.com/img/0012736590_10.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://f4.bcbits.com/img/0012736590_10.jpg)  
 
 ---
 

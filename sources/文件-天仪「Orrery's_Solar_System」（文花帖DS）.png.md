@@ -1,12 +1,8 @@
 # 文件:天仪「Orrery's_Solar_System」（文花帖DS）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\89\ns6%3A%E5%A4%A9%E4%BB%AA%E3%80%8COrrery%27s_Solar_System%E3%80%8D%EF%BC%88%E6%96%87%E8%8A%B1%E5%B8%96DS%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\89\ns6%3A%E5%A4%A9%E4%BB%AA%E3%80%8COrrery%27s_Solar_System%E3%80%8D%EF%BC%88%E6%96%87%E8%8A%B1%E5%B8%96DS%EF%BC%89%2Epng.html -->
 
 东方文花帖DS | 敌机符卡 | 雾雨魔理沙
-
-
-
-
 
 
 ---

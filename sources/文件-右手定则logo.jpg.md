@@ -1,18 +1,13 @@
 # 文件:右手定则logo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\03\ns6%3A%E5%8F%B3%E6%89%8B%E5%AE%9A%E5%88%99logo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\03\ns6%3A%E5%8F%B3%E6%89%8B%E5%AE%9A%E5%88%99logo%2Ejpg.html -->
 
 右手定则 | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[direct image link](https://blog-imgs-26-origin.fc2.com/r/i/g/righthr/rhr_fc2.jpg), [source page](http://righthr.blog47.fc2.com/)
-  
-
-
-
-
+源地址：[direct image link](https://blog-imgs-26-origin.fc2.com/r/i/g/righthr/rhr_fc2.jpg), [source page](http://righthr.blog47.fc2.com/)  
 
 ---
 

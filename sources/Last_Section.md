@@ -1,63 +1,49 @@
 # Last_Section
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\1\18\ns0%3ALast_Section.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\1\18\ns0%3ALast_Section.html -->
 
 Last Section ，于 2022 年成立，主要制作 同人音乐，周边 的韩国同人社团，主催是 LS프로，当前状态为 活动
 
-本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
-
+本页是关于**[同人社团](./二次创作.md#同人社团)**的词条
 ## 目录
 
 - [1 社团信息](#社团信息)
 - [2 成员名单](#成员名单)
 - [3 作品列表](#作品列表)
-
   - [3.1 同人专辑](#同人专辑)
-
 
 
 - [4 参展信息](#参展信息)
 
 
-
-
-
 ## 社团信息
-[](./文件-Last_Sectionlogo.jpg.md)  [](./文件-Last_Sectionlogo.jpg.md)logo
-
-<table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Last Section </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐，周边</td></tr><tr><td><b>成立时间</b></td><td>2022</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=LS%ED%94%84%EB%A1%9C&amp;action=edit&amp;redlink=1" class="new" title="LS프로（页面不存在）">LS프로</a> </td></tr><tr><td><b>地区</b></td><td>韩国</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="https://twitter.com/Last_Section">https://twitter.com/Last_Section</a> <br><a rel="nofollow" class="external free" href="https://www.youtube.com/@lastsection">https://www.youtube.com/@lastsection</a></td></tr></tbody></table>
+<img alt="" src="https://upload.thwiki.cc/thumb/8/8c/Last_Sectionlogo.jpg/200px-Last_Sectionlogo.jpg" decoding="async" loading="lazy" width="200" height="200" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/8/8c/Last_Sectionlogo.jpg/300px-Last_Sectionlogo.jpg 1.5x, https://upload.thwiki.cc/8/8c/Last_Sectionlogo.jpg 2x" data-file-width="400" data-file-height="400">
+ [放大](./文件-Last_Sectionlogo.jpg.md)logo
+<table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Last Section </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐，周边</td></tr><tr><td><b>成立时间</b></td><td>2022</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a class="new" title="LS프로（页面不存在）">LS프로</a> </td></tr><tr><td><b>地区</b></td><td>韩国</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="https://twitter.com/Last_Section">https://twitter.com/Last_Section</a> <br><a rel="nofollow" class="external free" href="https://www.youtube.com/@lastsection">https://www.youtube.com/@lastsection</a></td></tr></tbody></table>
 
 Last Section（同人社团，同人音乐社团，周边社团） - Last Section ，于 2022 年成立，主要制作 同人音乐，周边 的韩国同人社团，主催是 LS프로，当前状态为 活动
-
 ## 成员名单
-- LS프로 (未找到链接)&#160;: representative
+
+- LS프로 (未找到链接) : representative
 
 : [Twitter: @lspro_](https://twitter.com/lspro_)
 
-- lazy_whee (未找到链接)&#160;: vice representative
-- 여우티아 (未找到链接)&#160;: illustration
+- lazy_whee (未找到链接) : vice representative
+- 여우티아 (未找到链接) : illustration
 
 : [Twitter: @foxtia0214](https://twitter.com/foxtia0214)
 
-- 곰돌이 (未找到链接)&#160;: illustration
-- 굴림 (未找到链接)&#160;: media creator
+- 곰돌이 (未找到链接) : illustration
+- 굴림 (未找到链接) : media creator
 
 : [Youtube: @gulimche](https://www.youtube.com/@gulimche), [Twitter: @gullim123](https://twitter.com/gullim123)
-
 
 ## 作品列表
 
 ### 同人专辑
-환상세계 封面图片 (未找到链接)[환상세계](./환상세계.md)首发日期：2023-02-18 （蓬莱祭2 (未找到链接)）EP （一般向）
-<table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
-</table>
-
-
+- **[환상세계](./환상세계.md)** — 首发日期：2023-02-18 （蓬莱祭2）；EP （一般向）
 
 ## 参展信息
-
-
-
 
 ---
 

@@ -1,14 +1,11 @@
 # 文件:BELL'S_BRANDbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\38\ns6%3ABELL%27S_BRANDbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\38\ns6%3ABELL%27S_BRANDbanner%2Ejpg.html -->
 
 BELL'S_BRAND | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

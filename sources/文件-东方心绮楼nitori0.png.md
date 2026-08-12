@@ -1,12 +1,8 @@
 # 文件:东方心绮楼nitori0.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\87\ns6%3A%E4%B8%9C%E6%96%B9%E5%BF%83%E7%BB%AE%E6%A5%BCnitori0%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\87\ns6%3A%E4%B8%9C%E6%96%B9%E5%BF%83%E7%BB%AE%E6%A5%BCnitori0%2Epng.html -->
 
 东方心绮楼结局图
-
-
-
-
 
 
 ---

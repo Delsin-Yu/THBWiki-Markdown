@@ -1,6 +1,6 @@
 # 文件:レミ咲短編集_you封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\57\ns6%3A%E3%83%AC%E3%83%9F%E5%92%B2%E7%9F%AD%E7%B7%A8%E9%9B%86_you%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\57\ns6%3A%E3%83%AC%E3%83%9F%E5%92%B2%E7%9F%AD%E7%B7%A8%E9%9B%86_you%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 KirororO | 同人志封面 | 封面图片
 
@@ -10,11 +10,9 @@ KirororO | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [レミ咲短編集 you](./レミ咲短編集_you.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
-
-
-
+- [レミ咲短編集 you](./レミ咲短編集_you.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
 
 ---

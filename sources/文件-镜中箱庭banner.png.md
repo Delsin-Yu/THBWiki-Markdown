@@ -1,12 +1,8 @@
 # 文件:镜中箱庭banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0a\ns6%3A%E9%95%9C%E4%B8%AD%E7%AE%B1%E5%BA%ADbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0a\ns6%3A%E9%95%9C%E4%B8%AD%E7%AE%B1%E5%BA%ADbanner%2Epng.html -->
 
 社团LOGO | 镜中箱庭
-
-
-
-
 
 
 ---

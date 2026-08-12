@@ -1,12 +1,8 @@
 # 文件:千守社banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f5\ns6%3A%E5%8D%83%E5%AE%88%E7%A4%BEbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f5\ns6%3A%E5%8D%83%E5%AE%88%E7%A4%BEbanner%2Ejpg.html -->
 
 千守社 | 社团LOGO
-
-
-
-
 
 
 ---

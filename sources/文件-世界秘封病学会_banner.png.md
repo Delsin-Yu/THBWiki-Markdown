@@ -1,12 +1,8 @@
 # 文件:世界秘封病学会_banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e3\ns6%3A%E4%B8%96%E7%95%8C%E7%A7%98%E5%B0%81%E7%97%85%E5%AD%A6%E4%BC%9A_banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e3\ns6%3A%E4%B8%96%E7%95%8C%E7%A7%98%E5%B0%81%E7%97%85%E5%AD%A6%E4%BC%9A_banner%2Epng.html -->
 
 世界秘封病学会 | 社团LOGO
-
-
-
-
 
 
 ---

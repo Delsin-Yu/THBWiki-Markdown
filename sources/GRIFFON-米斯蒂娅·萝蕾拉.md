@@ -1,38 +1,20 @@
 # GRIFFON/米斯蒂娅·萝蕾拉
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\f8\ns0%3AGRIFFON%2F%E7%B1%B3%E6%96%AF%E8%92%82%E5%A8%85%C2%B7%E8%90%9D%E8%95%BE%E6%8B%89.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\f8\ns0%3AGRIFFON%2F%E7%B1%B3%E6%96%AF%E8%92%82%E5%A8%85%C2%B7%E8%90%9D%E8%95%BE%E6%8B%89.html -->
 
 米斯蒂娅·萝蕾拉PVCFigure手办模型
 
 本页是关于东方Project  
- **相关实体周边 (未找到链接)** 的词条
-
+**相关实体周边 (未找到链接)**的词条
 ## 模型信息
 
-<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 米斯蒂娅·萝蕾拉 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>无</td></tr><tr><td class="label">角色</td><td><a href="./米斯蒂娅·萝蕾拉.md" title="米斯蒂娅·萝蕾拉">米斯蒂娅·萝蕾拉</a></td></tr><tr><td class="label">状态</td><td>未发售</td></tr><tr><td class="label">发售方</td><td><a href="/index.php?title=GRIFFON&amp;action=edit&amp;redlink=1" class="new" title="GRIFFON（页面不存在）">GRIFFON</a></td></tr><tr><td class="label">备注</td><td>只有这一张图，是2011年的。<br style="clear:both;">目前只有小碎骨到现在原型都没出，图中其他5个均已贩售。<br style="clear:both;">
+<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 米斯蒂娅·萝蕾拉 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>无</td></tr><tr><td class="label">角色</td><td><a href="./米斯蒂娅·萝蕾拉.md" title="米斯蒂娅·萝蕾拉">米斯蒂娅·萝蕾拉</a></td></tr><tr><td class="label">状态</td><td>未发售</td></tr><tr><td class="label">发售方</td><td><a class="new" title="GRIFFON（页面不存在）">GRIFFON</a></td></tr><tr><td class="label">备注</td><td>只有这一张图，是2011年的。<br style="clear:both;">目前只有小碎骨到现在原型都没出，图中其他5个均已贩售。<br style="clear:both;">
 至于到底没坑我也不知道<s>八成是坑了</s> <br style="clear:both;"> <span class="inside" title="你知道的太多了">其实是被幽幽子误食掉了</span></td></tr></tbody></table>
 
 GRIFFON/米斯蒂娅·萝蕾拉（周边） - 米斯蒂娅·萝蕾拉PVCFigure手办模型
-
 ## 参考图片
-
-
-
-[](./文件-GRIFFON米斯蒂娅·萝蕾拉-1.jpg.md)
-
-
-文件:GRIFFON米斯蒂娅·萝蕾拉-2.jpg (未找到链接)
-
-
-文件:GRIFFON米斯蒂娅·萝蕾拉-3.jpg (未找到链接)
-
-公式图
-
-
-
-
-
-
+<img alt="GRIFFON米斯蒂娅·萝蕾拉" src="https://upload.thwiki.cc/thumb/a/ab/GRIFFON%E7%B1%B3%E6%96%AF%E8%92%82%E5%A8%85%C2%B7%E8%90%9D%E8%95%BE%E6%8B%89-1.jpg/160px-GRIFFON%E7%B1%B3%E6%96%AF%E8%92%82%E5%A8%85%C2%B7%E8%90%9D%E8%95%BE%E6%8B%89-1.jpg" decoding="async" loading="lazy" width="160" height="120" srcset="https://upload.thwiki.cc/thumb/a/ab/GRIFFON%E7%B1%B3%E6%96%AF%E8%92%82%E5%A8%85%C2%B7%E8%90%9D%E8%95%BE%E6%8B%89-1.jpg/240px-GRIFFON%E7%B1%B3%E6%96%AF%E8%92%82%E5%A8%85%C2%B7%E8%90%9D%E8%95%BE%E6%8B%89-1.jpg 1.5x, https://upload.thwiki.cc/thumb/a/ab/GRIFFON%E7%B1%B3%E6%96%AF%E8%92%82%E5%A8%85%C2%B7%E8%90%9D%E8%95%BE%E6%8B%89-1.jpg/320px-GRIFFON%E7%B1%B3%E6%96%AF%E8%92%82%E5%A8%85%C2%B7%E8%90%9D%E8%95%BE%E6%8B%89-1.jpg 2x" data-file-width="600" data-file-height="450">
+文件:GRIFFON米斯蒂娅·萝蕾拉-2.jpg (未找到链接)文件:GRIFFON米斯蒂娅·萝蕾拉-3.jpg (未找到链接)公式图
 
 ---
 

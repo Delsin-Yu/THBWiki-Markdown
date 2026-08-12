@@ -1,16 +1,12 @@
 # 模板:广州YACA
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\4\45\ns10%3A%E5%B9%BF%E5%B7%9EYACA.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\4\45\ns10%3A%E5%B9%BF%E5%B7%9EYACA.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

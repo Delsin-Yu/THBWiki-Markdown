@@ -1,6 +1,6 @@
 # 文件:FANTASM_BREAKERS封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\78\ns6%3AFANTASM_BREAKERS%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\78\ns6%3AFANTASM_BREAKERS%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Colorful_Umbrella | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Colorful_Umbrella | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [FANTASM BREAKERS](./FANTASM_BREAKERS.md)  
-该封面包含的角色：- [八云紫](./八云紫.md)
+- [FANTASM BREAKERS](./FANTASM_BREAKERS.md)该封面包含的角色：
+- [八云紫](./八云紫.md)
 
   
-源地址：[[1]](http://static.tumblr.com/c1a87b4e395bb98f92a563a0acb525a0/k2o4z3i/q3kncbj51/tumblr_static_a629s5aytjsco8kwoc0w88k8g.png)
-  
-
-
-
-
+源地址：[\[1\]](http://static.tumblr.com/c1a87b4e395bb98f92a563a0acb525a0/k2o4z3i/q3kncbj51/tumblr_static_a629s5aytjsco8kwoc0w88k8g.png)  
 
 ---
 

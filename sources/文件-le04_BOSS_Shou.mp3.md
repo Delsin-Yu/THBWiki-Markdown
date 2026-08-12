@@ -1,16 +1,12 @@
 # 文件:le04_BOSS_Shou.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\00\ns6%3Ale04_BOSS_Shou%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\00\ns6%3Ale04_BOSS_Shou%2Emp3.html -->
 
 Act_the_Fool_～_HAHAHA | 连缘Project官方音乐MP3 | 连缘天影战记
 
   
 连缘天影战记中立线2面Boss-雨杏宵主题曲
   
-
-
-
-
 
 ---
 

@@ -1,12 +1,8 @@
 # 文件:Secret_Messenger_banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c7\ns6%3ASecret_Messenger_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c7\ns6%3ASecret_Messenger_banner%2Ejpg.html -->
 
 Secret_Messenger | 社团LOGO
-
-
-
-
 
 
 ---

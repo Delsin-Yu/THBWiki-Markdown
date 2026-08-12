@@ -1,38 +1,34 @@
 # Greenscarf's_Misc._｜_초록목도리_모음집
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\3\35\ns0%3AGreenscarf%27s_Misc%2E_%EF%BD%9C_%EC%B4%88%EB%A1%9D%EB%AA%A9%EB%8F%84%EB%A6%AC_%EB%AA%A8%EC%9D%8C%EC%A7%91.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\3\35\ns0%3AGreenscarf%27s_Misc%2E_%EF%BD%9C_%EC%B4%88%EB%A1%9D%EB%AA%A9%EB%8F%84%EB%A6%AC_%EB%AA%A8%EC%9D%8C%EC%A7%91.html -->
 
 2020年5月8日 由 greenscarf  发布的全长同人专辑，曲目主要风格是 House、Dance，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人专辑 (未找到链接)** 的词条
-
+**[二次创作同人专辑](./二次创作.md#同人音乐)**的词条
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Greenscarf's_Misc._｜_초록목도리_모음집封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/5/5f/Greenscarf%27s_Misc._%EF%BD%9C_%EC%B4%88%EB%A1%9D%EB%AA%A9%EB%8F%84%EB%A6%AC_%EB%AA%A8%EC%9D%8C%EC%A7%91%E5%B0%81%E9%9D%A2.jpg/252px-Greenscarf%27s_Misc._%EF%BD%9C_%EC%B4%88%EB%A1%9D%EB%AA%A9%EB%8F%84%EB%A6%AC_%EB%AA%A8%EC%9D%8C%EC%A7%91%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="252" height="252" srcset="https://upload.thwiki.cc/thumb/5/5f/Greenscarf%27s_Misc._%EF%BD%9C_%EC%B4%88%EB%A1%9D%EB%AA%A9%EB%8F%84%EB%A6%AC_%EB%AA%A8%EC%9D%8C%EC%A7%91%E5%B0%81%E9%9D%A2.jpg/378px-Greenscarf%27s_Misc._%EF%BD%9C_%EC%B4%88%EB%A1%9D%EB%AA%A9%EB%8F%84%EB%A6%AC_%EB%AA%A8%EC%9D%8C%EC%A7%91%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/5/5f/Greenscarf%27s_Misc._%EF%BD%9C_%EC%B4%88%EB%A1%9D%EB%AA%A9%EB%8F%84%EB%A6%AC_%EB%AA%A8%EC%9D%8C%EC%A7%91%E5%B0%81%E9%9D%A2.jpg/504px-Greenscarf%27s_Misc._%EF%BD%9C_%EC%B4%88%EB%A1%9D%EB%AA%A9%EB%8F%84%EB%A6%AC_%EB%AA%A8%EC%9D%8C%EC%A7%91%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1600" data-file-height="1600"></a><div class="cover-char">角色：<a href="./玛艾露贝莉·赫恩.md" title="玛艾露贝莉·赫恩">玛艾露贝莉·赫恩</a>，<a href="./宇佐见莲子.md" title="宇佐见莲子">宇佐见莲子</a></div></td>
-</tr><tr><td class="label">名称</td><td colspan="2"> Greenscarf&#39;s Misc. ｜ 초록목도리 모음집 </td></tr><tr><td class="label">制作方</td><td><a href="./greenscarf.md" title="greenscarf">greenscarf</a></td><td class="cover-artwork" rowspan="9" style="min-width:252px;"><a href="./文件-Greenscarf's_Misc._｜_초록목도리_모음집封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/5/5f/Greenscarf%27s_Misc._%EF%BD%9C_%EC%B4%88%EB%A1%9D%EB%AA%A9%EB%8F%84%EB%A6%AC_%EB%AA%A8%EC%9D%8C%EC%A7%91%E5%B0%81%E9%9D%A2.jpg/252px-Greenscarf%27s_Misc._%EF%BD%9C_%EC%B4%88%EB%A1%9D%EB%AA%A9%EB%8F%84%EB%A6%AC_%EB%AA%A8%EC%9D%8C%EC%A7%91%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="252" height="252" srcset="https://upload.thwiki.cc/thumb/5/5f/Greenscarf%27s_Misc._%EF%BD%9C_%EC%B4%88%EB%A1%9D%EB%AA%A9%EB%8F%84%EB%A6%AC_%EB%AA%A8%EC%9D%8C%EC%A7%91%E5%B0%81%E9%9D%A2.jpg/378px-Greenscarf%27s_Misc._%EF%BD%9C_%EC%B4%88%EB%A1%9D%EB%AA%A9%EB%8F%84%EB%A6%AC_%EB%AA%A8%EC%9D%8C%EC%A7%91%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/5/5f/Greenscarf%27s_Misc._%EF%BD%9C_%EC%B4%88%EB%A1%9D%EB%AA%A9%EB%8F%84%EB%A6%AC_%EB%AA%A8%EC%9D%8C%EC%A7%91%E5%B0%81%E9%9D%A2.jpg/504px-Greenscarf%27s_Misc._%EF%BD%9C_%EC%B4%88%EB%A1%9D%EB%AA%A9%EB%8F%84%EB%A6%AC_%EB%AA%A8%EC%9D%8C%EC%A7%91%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1600" data-file-height="1600"></a><div class="cover-char">角色：<a href="./玛艾露贝莉·赫恩.md" title="玛艾露贝莉·赫恩">玛艾露贝莉·赫恩</a>，<a href="./宇佐见莲子.md" title="宇佐见莲子">宇佐见莲子</a></div></td>
+</tr><tr><td class="label">名称</td><td colspan="2"> Greenscarf's Misc. ｜ 초록목도리 모음집 </td></tr><tr><td class="label">制作方</td><td><a href="./greenscarf.md" title="greenscarf">greenscarf</a></td><td class="cover-artwork" rowspan="9" style="min-width:252px;"><a href="./文件-Greenscarf's_Misc._｜_초록목도리_모음집封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/5/5f/Greenscarf%27s_Misc._%EF%BD%9C_%EC%B4%88%EB%A1%9D%EB%AA%A9%EB%8F%84%EB%A6%AC_%EB%AA%A8%EC%9D%8C%EC%A7%91%E5%B0%81%E9%9D%A2.jpg/252px-Greenscarf%27s_Misc._%EF%BD%9C_%EC%B4%88%EB%A1%9D%EB%AA%A9%EB%8F%84%EB%A6%AC_%EB%AA%A8%EC%9D%8C%EC%A7%91%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="252" height="252" srcset="https://upload.thwiki.cc/thumb/5/5f/Greenscarf%27s_Misc._%EF%BD%9C_%EC%B4%88%EB%A1%9D%EB%AA%A9%EB%8F%84%EB%A6%AC_%EB%AA%A8%EC%9D%8C%EC%A7%91%E5%B0%81%E9%9D%A2.jpg/378px-Greenscarf%27s_Misc._%EF%BD%9C_%EC%B4%88%EB%A1%9D%EB%AA%A9%EB%8F%84%EB%A6%AC_%EB%AA%A8%EC%9D%8C%EC%A7%91%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/5/5f/Greenscarf%27s_Misc._%EF%BD%9C_%EC%B4%88%EB%A1%9D%EB%AA%A9%EB%8F%84%EB%A6%AC_%EB%AA%A8%EC%9D%8C%EC%A7%91%E5%B0%81%E9%9D%A2.jpg/504px-Greenscarf%27s_Misc._%EF%BD%9C_%EC%B4%88%EB%A1%9D%EB%AA%A9%EB%8F%84%EB%A6%AC_%EB%AA%A8%EC%9D%8C%EC%A7%91%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1600" data-file-height="1600"></a><div class="cover-char">角色：<a href="./玛艾露贝莉·赫恩.md" title="玛艾露贝莉·赫恩">玛艾露贝莉·赫恩</a>，<a href="./宇佐见莲子.md" title="宇佐见莲子">宇佐见莲子</a></div></td>
 </tr><tr><td class="label">首发日期</td><td>2020-05-08</td></tr><tr><td class="label">类型</td><td>全长</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>6</td></tr><tr><td class="label">总时长</td><td>20:06</td></tr><tr><td class="label">风格类型</td><td>House，Dance</td></tr><tr><td class="label">售价</td><td>通贩售价：免费（Bandcamp下载，价格自定，可能因特殊情况而改价）</td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://greenscarf.bandcamp.com/album/greenscarfs-misc">https://greenscarf.bandcamp.com/album/greenscarfs-misc</a></td></tr></tbody></table>
 
 Greenscarf's Misc. ｜ 초록목도리 모음집（同人专辑，greenscarf，2020） - 2020年5月8日 由 greenscarf  发布的全长同人专辑，曲目主要风格是 House、Dance，分级为 一般向
-
 ## Staff
   
- **Compose**   
+**Compose**  
 
 <table><tbody><tr><td><a href="./greenscarf.md" title="greenscarf">greenscarf</a></td><td></td><td>Tr.5/6</td></tr></tbody></table>
 
   
- **Arrangement**   
+**Arrangement**  
 
 <table><tbody><tr><td><a href="./greenscarf.md" title="greenscarf">greenscarf</a></td><td></td><td>Tr.1-4</td></tr></tbody></table>
-
 
 Design
 : 
 Illustration
 : Greenscarf([https://www.pixiv.net/artworks/81401542](https://www.pixiv.net/artworks/81401542))
-
 
 ## 试听
 
@@ -46,7 +42,6 @@ Illustration
 </td></tr></tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
@@ -55,7 +50,6 @@ Illustration
 <tr>
 <td><iframe width="560" height="315" src="//www.youtube-nocookie.com/embed/Bu46U9BIJAI?" frameborder="0" allowfullscreen=""></iframe>
 </td></tr></tbody></table>
-
 
 
 <table>
@@ -68,7 +62,6 @@ Illustration
 </td></tr></tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
@@ -79,22 +72,17 @@ Illustration
 </td></tr></tbody></table>
 
 
-
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="A_Moonlit_Night" colspan="2" class="title">A Moonlit Night<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=greenscarf&amp;ogmusic=永夜の報い　～ Imperishable Night&amp;fromwiki=Greenscarf's_Misc._｜_초록목도리_모음집"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:12</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./greenscarf.md" title="greenscarf">greenscarf</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，greenscarf，&amp;fromwiki=Greenscarf's_Misc._｜_초록목도리_모음집"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=永夜の報い　～ Imperishable Night&amp;fromwiki=Greenscarf's_Misc._｜_초록목도리_모음집"><span></span></a></span><div class="ogmusic"><a href="./永夜の報い_～_Imperishable_Night.md" class="mw-redirect" title="永夜の報い ～ Imperishable Night">永夜の報い　～ Imperishable Night</a></div><div class="source"><a href="./东方永夜抄_～_Imperishable_Night..md" class="mw-redirect" title="东方永夜抄 ～ Imperishable Night.">东方永夜抄　～ Imperishable Night.</a></div></td></tr>
-<tr><td id="2" class="infoYD"><b>02</b></td><td id="Seen_things_you_won&#39;t_believe" colspan="2" class="title">Seen things you won&#39;t believe<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=greenscarf&amp;ogmusic=ラストオカルティズム　～ 現し世の秘術師&amp;fromwiki=Greenscarf's_Misc._｜_초록목도리_모음집"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:16</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./greenscarf.md" title="greenscarf">greenscarf</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，greenscarf，&amp;fromwiki=Greenscarf's_Misc._｜_초록목도리_모음집"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=ラストオカルティズム　～ 現し世の秘術師&amp;fromwiki=Greenscarf's_Misc._｜_초록목도리_모음집"><span></span></a></span><div class="ogmusic"><a href="./ラストオカルティズム_～_現し世の秘術師.md" class="mw-redirect" title="ラストオカルティズム ～ 現し世の秘術師">ラストオカルティズム　～ 現し世の秘術師</a></div><div class="source"><a href="./东方深秘录_～_Urban_Legend_in_Limbo..md" class="mw-redirect" title="东方深秘录 ～ Urban Legend in Limbo.">东方深秘录　～ Urban Legend in Limbo.</a></div></td></tr>
-<tr><td id="3" class="infoYD"><b>03</b></td><td id="A_Walk_at_the_Ghostly_Field" colspan="2" class="title">A Walk at the Ghostly Field<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=greenscarf&amp;ogmusic=昔話わんだーらんど&amp;fromwiki=Greenscarf's_Misc._｜_초록목도리_모음집"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:37</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./greenscarf.md" title="greenscarf">greenscarf</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，greenscarf，&amp;fromwiki=Greenscarf's_Misc._｜_초록목도리_모음집"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=昔話わんだーらんど&amp;fromwiki=Greenscarf's_Misc._｜_초록목도리_모음집"><span></span></a></span><div class="ogmusic"><a href="./昔話わんだーらんど.md" class="mw-redirect" title="昔話わんだーらんど">昔話わんだーらんど</a></div><div class="source"><a href="./东方封魔录_～_the_Story_of_Eastern_Wonderland..md" class="mw-redirect" title="东方封魔录 ～ the Story of Eastern Wonderland.">东方封魔录　～ the Story of Eastern Wonderland.</a></div></td></tr>
-<tr><td id="4" class="infoYD"><b>04</b></td><td id="To_You" colspan="2" class="title">To You<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=greenscarf&amp;ogmusic=童祭　～ Innocent Treasures&amp;fromwiki=Greenscarf's_Misc._｜_초록목도리_모음집"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:00</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./greenscarf.md" title="greenscarf">greenscarf</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，greenscarf，&amp;fromwiki=Greenscarf's_Misc._｜_초록목도리_모음집"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=童祭　～ Innocent Treasures&amp;fromwiki=Greenscarf's_Misc._｜_초록목도리_모음집"><span></span></a></span><div class="ogmusic"><a href="./童祭_～_Innocent_Treasures.md" title="童祭 ～ Innocent Treasures">童祭　～ Innocent Treasures</a></div><div class="source"><a href="./梦违科学世纪_～_Changeability_of_Strange_Dream.md" class="mw-redirect" title="梦违科学世纪 ～ Changeability of Strange Dream">梦违科学世纪　～ Changeability of Strange Dream</a></div></td></tr>
-<tr><td id="5" class="infoYL"><b>05</b></td><td id="53th" colspan="2" class="title">53th<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=greenscarf&amp;fromwiki=Greenscarf's_Misc._｜_초록목도리_모음집"><span title="搜索相似同人曲"></span></a></span></td><td class="time">05:16</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./greenscarf.md" title="greenscarf">greenscarf</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，greenscarf，&amp;fromwiki=Greenscarf's_Misc._｜_초록목도리_모음집"><span></span></a></span></td></tr>
-<tr><td id="6" class="infoYL"><b>06</b></td><td id="HILDA" colspan="2" class="title">HILDA<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=greenscarf&amp;fromwiki=Greenscarf's_Misc._｜_초록목도리_모음집"><span title="搜索相似同人曲"></span></a></span></td><td class="time">00:45</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./greenscarf.md" title="greenscarf">greenscarf</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，greenscarf，&amp;fromwiki=Greenscarf's_Misc._｜_초록목도리_모음집"><span></span></a></span></td></tr></tbody></table>
-
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="A_Moonlit_Night" colspan="2" class="title">A Moonlit Night</td><td class="time">03:12</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./greenscarf.md" title="greenscarf">greenscarf</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./永夜的报应_～_Imperishable_Night.md" class="mw-redirect" title="永夜の報い ～ Imperishable Night">永夜の報い　～ Imperishable Night</a></div><div class="source"><a href="./东方永夜抄.md" class="mw-redirect" title="东方永夜抄 ～ Imperishable Night.">东方永夜抄　～ Imperishable Night.</a></div></td></tr>
+<tr><td id="2" class="infoYD"><b>02</b></td><td id="Seen_things_you_won&#39;t_believe" colspan="2" class="title">Seen things you won't believe</td><td class="time">03:16</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./greenscarf.md" title="greenscarf">greenscarf</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./Last_Occultism_～_现世的秘术师.md" class="mw-redirect" title="ラストオカルティズム ～ 現し世の秘術師">ラストオカルティズム　～ 現し世の秘術師</a></div><div class="source"><a href="./东方深秘录.md" class="mw-redirect" title="东方深秘录 ～ Urban Legend in Limbo.">东方深秘录　～ Urban Legend in Limbo.</a></div></td></tr>
+<tr><td id="3" class="infoYD"><b>03</b></td><td id="A_Walk_at_the_Ghostly_Field" colspan="2" class="title">A Walk at the Ghostly Field</td><td class="time">03:37</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./greenscarf.md" title="greenscarf">greenscarf</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./传说中的仙境.md" class="mw-redirect" title="昔話わんだーらんど">昔話わんだーらんど</a></div><div class="source"><a href="./东方封魔录.md" class="mw-redirect" title="东方封魔录 ～ the Story of Eastern Wonderland.">东方封魔录　～ the Story of Eastern Wonderland.</a></div></td></tr>
+<tr><td id="4" class="infoYD"><b>04</b></td><td id="To_You" colspan="2" class="title">To You</td><td class="time">04:00</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./greenscarf.md" title="greenscarf">greenscarf</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./童祭_～_Innocent_Treasures.md" title="童祭 ～ Innocent Treasures">童祭　～ Innocent Treasures</a></div><div class="source"><a href="./梦违科学世纪.md" class="mw-redirect" title="梦违科学世纪 ～ Changeability of Strange Dream">梦违科学世纪　～ Changeability of Strange Dream</a></div></td></tr>
+<tr><td id="5" class="infoYL"><b>05</b></td><td id="53th" colspan="2" class="title">53th</td><td class="time">05:16</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./greenscarf.md" title="greenscarf">greenscarf</a></td></tr>
+<tr><td id="6" class="infoYL"><b>06</b></td><td id="HILDA" colspan="2" class="title">HILDA</td><td class="time">00:45</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./greenscarf.md" title="greenscarf">greenscarf</a></td></tr></tbody></table>
 
 
 ## 评论
-
-
-
 
 ---
 

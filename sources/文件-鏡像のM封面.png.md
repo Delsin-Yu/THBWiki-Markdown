@@ -1,6 +1,6 @@
 # 文件:鏡像のM封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f9\ns6%3A%E9%8F%A1%E5%83%8F%E3%81%AEM%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f9\ns6%3A%E9%8F%A1%E5%83%8F%E3%81%AEM%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 リレバ | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [鏡像のM](./鏡像のM.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
-
-
-
+- [鏡像のM](./鏡像のM.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
 
 
 ---

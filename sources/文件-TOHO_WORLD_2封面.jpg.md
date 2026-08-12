@@ -1,6 +1,6 @@
 # 文件:TOHO_WORLD_2封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e8\ns6%3ATOHO_WORLD_2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e8\ns6%3ATOHO_WORLD_2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 つっつん夜行 | 同人志封面 | 封面图片
 
@@ -10,11 +10,15 @@
 使用了本文件作封面图片的作品：
   
 
-- [TOHO WORLD 2](./TOHO_WORLD_2.md)  
-该封面包含的角色：- [琪斯美](./琪斯美.md)- [黑谷山女](./黑谷山女.md)- [水桥帕露西](./水桥帕露西.md)- [星熊勇仪](./星熊勇仪.md)- [古明地觉](./古明地觉.md)- [火焰猫燐](./火焰猫燐.md)- [灵乌路空](./灵乌路空.md)- [古明地恋](./古明地恋.md)
-
-
-
+- [TOHO WORLD 2](./TOHO_WORLD_2.md)该封面包含的角色：
+- [琪斯美](./琪斯美.md)
+- [黑谷山女](./黑谷山女.md)
+- [水桥帕露西](./水桥帕露西.md)
+- [星熊勇仪](./星熊勇仪.md)
+- [古明地觉](./古明地觉.md)
+- [火焰猫燐](./火焰猫燐.md)
+- [灵乌路空](./灵乌路空.md)
+- [古明地恋](./古明地恋.md)
 
 
 ---

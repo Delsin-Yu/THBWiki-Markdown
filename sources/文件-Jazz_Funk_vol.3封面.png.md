@@ -1,6 +1,6 @@
 # 文件:Jazz_Funk_vol.3封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\de\ns6%3AJazz_Funk_vol%2E3%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\de\ns6%3AJazz_Funk_vol%2E3%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 thj.quartet | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ thj.quartet | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Jazz Funk vol.3](./Jazz_Funk_vol.3.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [Jazz Funk vol.3](./Jazz_Funk_vol.3.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

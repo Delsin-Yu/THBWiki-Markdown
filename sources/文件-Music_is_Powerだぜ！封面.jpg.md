@@ -1,6 +1,6 @@
 # 文件:Music_is_Powerだぜ！封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e3\ns6%3AMusic_is_Power%E3%81%A0%E3%81%9C%EF%BC%81%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e3\ns6%3AMusic_is_Power%E3%81%A0%E3%81%9C%EF%BC%81%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 FLAMESTORM | 专辑封面 | 封面图片
 
@@ -10,11 +10,14 @@ FLAMESTORM | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Music is Powerだぜ！](./Music_is_Powerだぜ！.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)- [伊吹萃香](./伊吹萃香.md)- [秋静叶](./秋静叶.md)- [秋穰子](./秋穰子.md)- [古明地觉](./古明地觉.md)- [灵乌路空](./灵乌路空.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [Music is Powerだぜ！](./Music_is_Powerだぜ！.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
+- [伊吹萃香](./伊吹萃香.md)
+- [秋静叶](./秋静叶.md)
+- [秋穰子](./秋穰子.md)
+- [古明地觉](./古明地觉.md)
+- [灵乌路空](./灵乌路空.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

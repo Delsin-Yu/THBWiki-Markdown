@@ -1,18 +1,13 @@
 # 文件:LunarCometlogo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\59\ns6%3ALunarCometlogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\59\ns6%3ALunarCometlogo%2Ejpg.html -->
 
 LunarComet | 社团LOGO
 
 
 ## 摘要
   
-源地址：[direct image link](https://web.archive.org/web/20150523232603im_/http://kstd.net/img/rogo.jpg), [source page](https://web.archive.org/web/20090724083425/http://kstd.net/)
-  
-
-
-
-
+源地址：[direct image link](https://web.archive.org/web/20150523232603im_/http://kstd.net/img/rogo.jpg), [source page](https://web.archive.org/web/20090724083425/http://kstd.net/)  
 
 ---
 

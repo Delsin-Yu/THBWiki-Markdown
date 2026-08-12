@@ -1,21 +1,17 @@
 # 東方スカイアリーナ・幻想郷空戦姫-MATSURI-CLIMAX
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\e\e1\ns0%3A%E6%9D%B1%E6%96%B9%E3%82%B9%E3%82%AB%E3%82%A4%E3%82%A2%E3%83%AA%E3%83%BC%E3%83%8A%E3%83%BB%E5%B9%BB%E6%83%B3%E9%83%B7%E7%A9%BA%E6%88%A6%E5%A7%AB-MATSURI-CLIMAX.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\e\e1\ns0%3A%E6%9D%B1%E6%96%B9%E3%82%B9%E3%82%AB%E3%82%A4%E3%82%A2%E3%83%AA%E3%83%BC%E3%83%8A%E3%83%BB%E5%B9%BB%E6%83%B3%E9%83%B7%E7%A9%BA%E6%88%A6%E5%A7%AB-MATSURI-CLIMAX.html -->
 
 2016年5月20日 由 領域ZERO  发布的ACT/RPG同人游戏，可在 PS4/NS/PSVita/Windows 系统上运行，游戏人数为 单人模式，双人模式，多人模式，，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人软件 (未找到链接)** 的词条
-
+**[二次创作同人软件](./二次创作.md#同人软件)**的词条
 ## 目录
 
 - [1 软件信息](#软件信息)
 - [2 Staff](#Staff)
 - [3 内容页面](#内容页面)
 - [4 评论](#评论)
-
-
-
 
 
 ## 软件信息
@@ -26,14 +22,13 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://area-zero.net/product/tsa_climax/">http://area-zero.net/product/tsa_climax/</a></td></tr></tbody></table>
 
 東方スカイアリーナ・幻想郷空戦姫-MATSURI-CLIMAX（同人游戏，領域ZERO，2016） - 2016年5月20日 由 領域ZERO  发布的ACT/RPG同人游戏，可在 PS4/NS/PSVita/Windows 系统上运行，游戏人数为 单人模式，双人模式，多人模式，，分级为 一般向
-
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://ec.nintendo.com/JP/ja/titles/70010000012747">eShop（Switch版）</a>，<a rel="nofollow" class="external text" href="https://store.steampowered.com/app/1086860">Steam（PC版）</a></td></tr></tbody></table>
-
 
 
 ## Staff
 
 ## 内容页面
+
 - 游戏设定与剧情 (未找到链接)
 - 攻略 (未找到链接)
 - 使用说明 (未找到链接)
@@ -41,9 +36,6 @@
 
 
 ## 评论
-
-
-
 
 ---
 

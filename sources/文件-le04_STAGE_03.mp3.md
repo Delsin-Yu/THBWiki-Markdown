@@ -1,16 +1,12 @@
 # 文件:le04_STAGE_03.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1d\ns6%3Ale04_STAGE_03%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1d\ns6%3Ale04_STAGE_03%2Emp3.html -->
 
 海峡今天也是风平浪静 | 连缘Project官方音乐MP3 | 连缘天影战记
 
   
 连缘天影战记梦幻堤坝主题曲
   
-
-
-
-
 
 ---
 

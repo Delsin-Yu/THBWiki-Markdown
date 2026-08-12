@@ -1,27 +1,27 @@
 # 东方Project人气投票/第八回/角色部门
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\4a\ns0%3A%E4%B8%9C%E6%96%B9Project%E4%BA%BA%E6%B0%94%E6%8A%95%E7%A5%A8%2F%E7%AC%AC%E5%85%AB%E5%9B%9E%2F%E8%A7%92%E8%89%B2%E9%83%A8%E9%97%A8.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\4a\ns0%3A%E4%B8%9C%E6%96%B9Project%E4%BA%BA%E6%B0%94%E6%8A%95%E7%A5%A8%2F%E7%AC%AC%E5%85%AB%E5%9B%9E%2F%E8%A7%92%E8%89%B2%E9%83%A8%E9%97%A8.html -->
 
 东方Project人气投票
 
 <center>
-
 <table>
 <tbody><tr>
-<td>&lt;
+<td><
 </td>
-<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./东方Project人气投票-第七回-角色部门.md" title="东方Project人气投票/第七回/角色部门">第七回</a>&#160;
+<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./东方Project人气投票-第七回-角色部门.md" title="东方Project人气投票/第七回/角色部门">第七回</a> 
 </td>
-<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="./东方Project人气投票.md" title="东方Project人气投票">东方Project人气投票</a>（角色部门）&#160;
+<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;"> <a href="./东方Project人气投票.md" title="东方Project人气投票">东方Project人气投票</a>（角色部门） 
 </td>
-<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left">&#160;<a href="./东方Project人气投票-第⑨回-角色部门.md" title="东方Project人气投票/第⑨回/角色部门">第⑨回</a>
+<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left"> <a href="./东方Project人气投票-第⑨回-角色部门.md" title="东方Project人气投票/第⑨回/角色部门">第⑨回</a>
 </td>
-<td>&gt;
+<td>>
 </td></tr></tbody></table>
 
   
 </center>
 - 本页面为角色部门的票数排行简表，本命加权是指1本命票计算为2票。
+
 
 - 总有效票数8135， 总本命票数7908， 参投角色总数227， 全角色平均得票数235， 中位角色得票数38。
 
@@ -34,7 +34,6 @@
 <tr>
 <td><span style="color:#FBB">▇▇</span>：本回投票新加入的角色<br><span style="color:#BBF">▇▇</span>：本回投票名称有变动的角色<br>
 </td></tr></tbody></table>
-
 
 
 <table>
@@ -446,7 +445,7 @@
 </td></tr>
 <tr style="background:#BBF">
 <td>29</td>
-<td>四季映姬·夜摩仙那度<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">1</a></sup></td>
+<td>四季映姬·夜摩仙那度<span>[^cite_note-1]</span></td>
 <td>609</td>
 <td>90</td>
 <td>14.78%</td>
@@ -978,7 +977,7 @@
 </td></tr>
 <tr style="background:#BBF">
 <td>67</td>
-<td>因幡天为（因幡帝）<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">2</a></sup></td>
+<td>因幡天为（因幡帝）<span>[^cite_note-2]</span></td>
 <td>180</td>
 <td>19</td>
 <td>10.56%</td>
@@ -3231,12 +3230,8 @@
 <td>0%
 </td></tr></tbody></table>
 
-
 [^cite_note-1]: 上回为旧译名“四季映姬·亚玛萨那度”
-
-
-
-
+[^cite_note-2]: 上回为“因幡帝”
 
 ---
 

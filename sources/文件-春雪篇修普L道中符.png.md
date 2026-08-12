@@ -1,12 +1,8 @@
 # 文件:春雪篇修普L道中符.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\71\ns6%3A%E6%98%A5%E9%9B%AA%E7%AF%87%E4%BF%AE%E6%99%AEL%E9%81%93%E4%B8%AD%E7%AC%A6%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\71\ns6%3A%E6%98%A5%E9%9B%AA%E7%AF%87%E4%BF%AE%E6%99%AEL%E9%81%93%E4%B8%AD%E7%AC%A6%2Epng.html -->
 
 东方幕华祭制作组 | 修普 | 敌机符卡
-
-
-
-
 
 
 ---

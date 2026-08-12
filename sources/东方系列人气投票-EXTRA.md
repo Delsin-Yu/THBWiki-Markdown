@@ -1,12 +1,13 @@
 # 东方系列人气投票/EXTRA
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\b3\ns0%3A%E4%B8%9C%E6%96%B9%E7%B3%BB%E5%88%97%E4%BA%BA%E6%B0%94%E6%8A%95%E7%A5%A8%2FEXTRA.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\b3\ns0%3A%E4%B8%9C%E6%96%B9%E7%B3%BB%E5%88%97%E4%BA%BA%E6%B0%94%E6%8A%95%E7%A5%A8%2FEXTRA.html -->
 
 东方系列人气投票
 
-[](./文件-东方系列人气投票EXTRAbanner.jpg.md)
+<img alt="东方系列人气投票EXTRAbanner.jpg" src="https://upload.thwiki.cc/a/ac/%E4%B8%9C%E6%96%B9%E7%B3%BB%E5%88%97%E4%BA%BA%E6%B0%94%E6%8A%95%E7%A5%A8EXTRAbanner.jpg" decoding="async" loading="lazy" width="200" height="40" data-file-width="200" data-file-height="40">
+
 - 本页面内容是东方系列人气投票EXTRA。
-- 原投票地址：[[1]](http://thwiki.info/th/vote/result_ex.html)
+- 原投票地址：[\[1\]](http://thwiki.info/th/vote/result_ex.html)
 
 
 ## 投票信息
@@ -16,23 +17,11 @@
 投票者可以自己决定添加投票项目，但偏离东方太远的项目会被删除。
   
 
-
 ## 投票结果
-  
 <big>
-</big>  
-<big>- [角色部门](./东方系列人气投票-EXTRA-角色部门.md)
-</big><big></big>  
-<big></big>  
+- [角色部门](./东方系列人气投票-EXTRA-角色部门.md)
 
-  
-
-  
-
-
-
-
-
+</big>
 ---
 
 此文档由 [THBWiki-Markdown-Builder](https://github.com/Delsin-Yu/THBWiki-Markdown-Builder) 构建。

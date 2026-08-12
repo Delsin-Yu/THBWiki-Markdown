@@ -1,6 +1,6 @@
 # 文件:tremologic2封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\22\ns6%3Atremologic2%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\22\ns6%3Atremologic2%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 同人志封面 | 封面图片 | 月曜猫
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [tremologic2](./tremologic2.md)  
-该封面包含的角色：- [小恶魔](./小恶魔.md)
+- [tremologic2](./tremologic2.md)该封面包含的角色：
+- [小恶魔](./小恶魔.md)
 
   
-源地址：[announcement tweet (original image)](https://pbs.twimg.com/media/Ejwm09iVcAE5b7B?format=png&amp;name=orig)
-  
-
-
-
-
+源地址：[announcement tweet (original image)](https://pbs.twimg.com/media/Ejwm09iVcAE5b7B?format=png&name=orig)  
 
 ---
 

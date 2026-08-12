@@ -1,6 +1,6 @@
 # 文件:SANAE&MOMIE_～_WITH_IBARAKASEN封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bd\ns6%3ASANAE%26MOMIE_%EF%BD%9E_WITH_IBARAKASEN%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bd\ns6%3ASANAE%26MOMIE_%EF%BD%9E_WITH_IBARAKASEN%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 GATLING_CAT | 封面图片 | 软件封面
 
@@ -8,11 +8,10 @@ GATLING_CAT | 封面图片 | 软件封面
 使用了本文件作封面图片的作品：
   
 
-- [SANAE&amp;MOMIE ～ WITH IBARAKASEN](./SANAE&MOMIE_～_WITH_IBARAKASEN.md)  
-该封面包含的角色：- [犬走椛](./犬走椛.md)- [东风谷早苗](./东风谷早苗.md)- [茨木华扇](./茨木华扇.md)
-
-
-
+- [SANAE&MOMIE ～ WITH IBARAKASEN](./SANAE&MOMIE_～_WITH_IBARAKASEN.md)该封面包含的角色：
+- [犬走椛](./犬走椛.md)
+- [东风谷早苗](./东风谷早苗.md)
+- [茨木华扇](./茨木华扇.md)
 
 
 ---

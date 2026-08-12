@@ -1,6 +1,6 @@
 # 文件:夕闇光る-demo-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\75\ns6%3A%E5%A4%95%E9%97%87%E5%85%89%E3%82%8B-demo-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\75\ns6%3A%E5%A4%95%E9%97%87%E5%85%89%E3%82%8B-demo-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 no_brand_person | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ no_brand_person | 专辑封面 | 封面图片
   
 
 - [夕闇光る-demo-](./夕闇光る-demo-.md)
-
-
-
 
 
 ---

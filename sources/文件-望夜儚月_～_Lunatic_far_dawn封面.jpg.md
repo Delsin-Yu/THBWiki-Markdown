@@ -1,6 +1,6 @@
 # 文件:望夜儚月_～_Lunatic_far_dawn封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3a\ns6%3A%E6%9C%9B%E5%A4%9C%E5%84%9A%E6%9C%88_%EF%BD%9E_Lunatic_far_dawn%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3a\ns6%3A%E6%9C%9B%E5%A4%9C%E5%84%9A%E6%9C%88_%EF%BD%9E_Lunatic_far_dawn%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 NoCturne | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ NoCturne | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [望夜儚月 ～ Lunatic far dawn](./望夜儚月_～_Lunatic_far_dawn.md)  
-该封面包含的角色：- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
-
-
-
+- [望夜儚月 ～ Lunatic far dawn](./望夜儚月_～_Lunatic_far_dawn.md)该封面包含的角色：
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
 
 
 ---

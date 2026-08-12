@@ -1,16 +1,12 @@
 # 文件:WACCA_神寂_封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fa\ns6%3AWACCA_%E7%A5%9E%E5%AF%82_%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fa\ns6%3AWACCA_%E7%A5%9E%E5%AF%82_%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Marvelous
 
   
 WACCA_神寂_封面
   
-
-
-
-
 
 ---
 

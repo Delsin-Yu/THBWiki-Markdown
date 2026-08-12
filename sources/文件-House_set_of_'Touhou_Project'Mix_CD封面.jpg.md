@@ -1,6 +1,6 @@
 # 文件:House_set_of_'Touhou_Project'Mix_CD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\39\ns6%3AHouse_set_of_%27Touhou_Project%27Mix_CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\39\ns6%3AHouse_set_of_%27Touhou_Project%27Mix_CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 クロネコラウンジ | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@
   
 
 - [House set of 'Touhou Project'Mix CD](./House_set_of_'Touhou_Project'Mix_CD.md)
-
-
-
 
 
 ---

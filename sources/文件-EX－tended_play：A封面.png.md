@@ -1,6 +1,6 @@
 # 文件:EX－tended_play：A封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d2\ns6%3AEX%EF%BC%8Dtended_play%EF%BC%9AA%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d2\ns6%3AEX%EF%BC%8Dtended_play%EF%BC%9AA%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Siestail | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Siestail | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [EX－tended play：A](./EX－tended_play：A.md)  
-该封面包含的角色：- [封兽鵺](./封兽鵺.md)
-
-
-
+- [EX－tended play：A](./EX－tended_play：A.md)该封面包含的角色：
+- [封兽鵺](./封兽鵺.md)
 
 
 ---

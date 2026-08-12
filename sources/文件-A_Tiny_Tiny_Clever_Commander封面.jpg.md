@@ -1,6 +1,6 @@
 # 文件:A_Tiny_Tiny_Clever_Commander封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\81\ns6%3AA_Tiny_Tiny_Clever_Commander%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\81\ns6%3AA_Tiny_Tiny_Clever_Commander%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 いちごパルフェ | 同人志封面 | 封面图片
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [A Tiny Tiny Clever Commander](./A_Tiny_Tiny_Clever_Commander.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [娜兹玲](./娜兹玲.md)
-
-
-
+- [A Tiny Tiny Clever Commander](./A_Tiny_Tiny_Clever_Commander.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [娜兹玲](./娜兹玲.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:The_world_like_a_Palindrome封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b2\ns6%3AThe_world_like_a_Palindrome%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b2\ns6%3AThe_world_like_a_Palindrome%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Petrolatum_box | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Petrolatum_box | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [The world like a Palindrome](./The_world_like_a_Palindrome.md)  
-该封面包含的角色：- [鬼人正邪](./鬼人正邪.md)
+- [The world like a Palindrome](./The_world_like_a_Palindrome.md)该封面包含的角色：
+- [鬼人正邪](./鬼人正邪.md)
 
   
-源地址：[[1]](https://i1.sndcdn.com/artworks-000078335799-3xtb9m-t500x500.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://i1.sndcdn.com/artworks-000078335799-3xtb9m-t500x500.jpg)  
 
 ---
 

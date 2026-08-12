@@ -1,6 +1,6 @@
 # 文件:空也色_vol.7封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\48\ns6%3A%E7%A9%BA%E4%B9%9F%E8%89%B2_vol%2E7%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\48\ns6%3A%E7%A9%BA%E4%B9%9F%E8%89%B2_vol%2E7%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 GP1 | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ GP1 | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [空也色 vol.7](./空也色_vol.7.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [空也色 vol.7](./空也色_vol.7.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

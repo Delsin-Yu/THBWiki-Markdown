@@ -1,6 +1,6 @@
 # 文件:Dear（＊_Works）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\56\ns6%3ADear%EF%BC%88%EF%BC%8A_Works%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\56\ns6%3ADear%EF%BC%88%EF%BC%8A_Works%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | ＊_Works
 
@@ -9,9 +9,6 @@
   
 
 - [Dear（＊ Works）](./Dear（＊_Works）.md)
-
-
-
 
 
 ---

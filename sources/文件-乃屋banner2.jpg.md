@@ -1,12 +1,8 @@
 # 文件:乃屋banner2.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\48\ns6%3A%E4%B9%83%E5%B1%8Bbanner2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\48\ns6%3A%E4%B9%83%E5%B1%8Bbanner2%2Ejpg.html -->
 
 乃屋 | 社团LOGO
-
-
-
-
 
 
 ---

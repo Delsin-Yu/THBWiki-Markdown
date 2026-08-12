@@ -1,12 +1,8 @@
 # 文件:「World_Kodamaizer」.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\05\ns6%3A%E3%80%8CWorld_Kodamaizer%E3%80%8D%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\05\ns6%3A%E3%80%8CWorld_Kodamaizer%E3%80%8D%2Ejpg.html -->
 
 東方邪星章製作チーム
-
-
-
-
 
 
 ---

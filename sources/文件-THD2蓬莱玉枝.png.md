@@ -1,16 +1,12 @@
 # 文件:THD2蓬莱玉枝.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\be\ns6%3ATHD2%E8%93%AC%E8%8E%B1%E7%8E%89%E6%9E%9D%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\be\ns6%3ATHD2%E8%93%AC%E8%8E%B1%E7%8E%89%E6%9E%9D%2Epng.html -->
 
 东方DOTS玩家社群
 
   
 THD2蓬莱玉枝
   
-
-
-
-
 
 ---
 

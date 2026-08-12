@@ -1,6 +1,6 @@
 # 文件:TOUHOU_SKETCH封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2e\ns6%3ATOUHOU_SKETCH%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2e\ns6%3ATOUHOU_SKETCH%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 OriginZero | 同人志封面 | 封面图片
 
@@ -8,12 +8,16 @@ OriginZero | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [TOUHOU SKETCH](./TOUHOU_SKETCH.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)- [八云蓝](./八云蓝.md)- [八云紫](./八云紫.md)- [比那名居天子](./比那名居天子.md)- [伊吹萃香](./伊吹萃香.md)- [灵乌路空](./灵乌路空.md)- [茨木华扇](./茨木华扇.md)源地址：[[1]](http://www.origin-zero.com/OriginZero/407.jpg)
-
-
-
-
+- [TOUHOU SKETCH](./TOUHOU_SKETCH.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
+- [八云蓝](./八云蓝.md)
+- [八云紫](./八云紫.md)
+- [比那名居天子](./比那名居天子.md)
+- [伊吹萃香](./伊吹萃香.md)
+- [灵乌路空](./灵乌路空.md)
+- [茨木华扇](./茨木华扇.md)
+源地址：[\[1\]](http://www.origin-zero.com/OriginZero/407.jpg)
 
 ---
 

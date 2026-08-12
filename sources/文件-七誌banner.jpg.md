@@ -1,16 +1,11 @@
 # 文件:七誌banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d8\ns6%3A%E4%B8%83%E8%AA%8Cbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d8\ns6%3A%E4%B8%83%E8%AA%8Cbanner%2Ejpg.html -->
 
 七誌 | 社团LOGO
 
   
-源地址：[[1]](http://nanashi0089.com/wp-content/uploads/2012/06/bana-.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://nanashi0089.com/wp-content/uploads/2012/06/bana-.jpg)  
 
 ---
 

@@ -1,12 +1,8 @@
 # 文件:Frontier_Records_banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\62\ns6%3AFrontier_Records_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\62\ns6%3AFrontier_Records_banner%2Ejpg.html -->
 
 Frontier_Records | 社团LOGO
-
-
-
-
 
 
 ---

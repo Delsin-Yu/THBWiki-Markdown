@@ -1,12 +1,8 @@
 # 文件:飞梅「Flow_Flower_Blower」.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b5\ns6%3A%E9%A3%9E%E6%A2%85%E3%80%8CFlow_Flower_Blower%E3%80%8D%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b5\ns6%3A%E9%A3%9E%E6%A2%85%E3%80%8CFlow_Flower_Blower%E3%80%8D%2Ejpg.html -->
 
 東方邪星章製作チーム
-
-
-
-
 
 
 ---

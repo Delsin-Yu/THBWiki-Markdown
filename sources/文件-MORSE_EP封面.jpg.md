@@ -1,6 +1,6 @@
 # 文件:MORSE_EP封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ae\ns6%3AMORSE_EP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ae\ns6%3AMORSE_EP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 9bFOX | 专辑封面 | 封面图片 | 死際サテライト
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [MORSE EP](./MORSE_EP.md)  
-该封面包含的角色：- [橙](./橙.md)- [八云蓝](./八云蓝.md)
-
-
-
+- [MORSE EP](./MORSE_EP.md)该封面包含的角色：
+- [橙](./橙.md)
+- [八云蓝](./八云蓝.md)
 
 
 ---

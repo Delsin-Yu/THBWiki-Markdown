@@ -1,6 +1,6 @@
 # 文件:和奏-WAKANA-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\87\ns6%3A%E5%92%8C%E5%A5%8F-WAKANA-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\87\ns6%3A%E5%92%8C%E5%A5%8F-WAKANA-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ゆうぞう商事 | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [和奏-WAKANA-](./和奏-WAKANA-.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [和奏-WAKANA-](./和奏-WAKANA-.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

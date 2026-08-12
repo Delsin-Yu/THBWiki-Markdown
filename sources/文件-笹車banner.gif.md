@@ -1,14 +1,11 @@
 # 文件:笹車banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\09\ns6%3A%E7%AC%B9%E8%BB%8Abanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\09\ns6%3A%E7%AC%B9%E8%BB%8Abanner%2Egif.html -->
 
 笹車
 
 
 ## 文件说明
-
-
-
 
 ---
 

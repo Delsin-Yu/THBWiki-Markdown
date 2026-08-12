@@ -1,6 +1,6 @@
 # 文件:Flowery_Folks封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a9\ns6%3AFlowery_Folks%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a9\ns6%3AFlowery_Folks%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 でんしほたる | 专辑封面 | 封面图片
 
@@ -13,12 +13,7 @@
 - [Flowery Folks](./Flowery_Folks.md)
 
   
-源地址：[DLsite (cropped)](https://img.dlsite.jp/modpub/images2/work/doujin/RJ135000/RJ134544_img_main.jpg)
-  
-
-
-
-
+源地址：[DLsite (cropped)](https://img.dlsite.jp/modpub/images2/work/doujin/RJ135000/RJ134544_img_main.jpg)  
 
 ---
 

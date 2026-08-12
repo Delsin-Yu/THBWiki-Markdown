@@ -1,6 +1,6 @@
 # 文件:涅槃廻文書_～_Artificial_Heavenly_Idealists.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\28\ns6%3A%E6%B6%85%E6%A7%83%E5%BB%BB%E6%96%87%E6%9B%B8_%EF%BD%9E_Artificial_Heavenly_Idealists%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\28\ns6%3A%E6%B6%85%E6%A7%83%E5%BB%BB%E6%96%87%E6%9B%B8_%EF%BD%9E_Artificial_Heavenly_Idealists%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 幻想グリモワール
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [涅槃廻文書 ～ Artificial Heavenly Idealists.](./涅槃廻文書_～_Artificial_Heavenly_Idealists..md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [涅槃廻文書 ～ Artificial Heavenly Idealists.](./涅槃廻文書_～_Artificial_Heavenly_Idealists..md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

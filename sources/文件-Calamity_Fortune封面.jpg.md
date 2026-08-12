@@ -1,6 +1,6 @@
 # 文件:Calamity_Fortune封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\78\ns6%3ACalamity_Fortune%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\78\ns6%3ACalamity_Fortune%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 LeaF | Optie | 封面图片 | 视频封面
 
@@ -9,9 +9,6 @@ LeaF | Optie | 封面图片 | 视频封面
   
 
 - [Calamity Fortune](./Calamity_Fortune.md)
-
-
-
 
 
 ---

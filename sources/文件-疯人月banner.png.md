@@ -1,16 +1,12 @@
 # 文件:疯人月banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c0\ns6%3A%E7%96%AF%E4%BA%BA%E6%9C%88banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c0\ns6%3A%E7%96%AF%E4%BA%BA%E6%9C%88banner%2Epng.html -->
 
 疯人月 | 社团LOGO
 
   
 东方同人社团疯人月banner
   
-
-
-
-
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:Noir封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b9\ns6%3ANoir%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b9\ns6%3ANoir%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 A.M.A | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@ A.M.A | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Noir](./Noir.md)  
-该封面包含的角色：- [古明地恋](./古明地恋.md)
+- [Noir](./Noir.md)该封面包含的角色：
+- [古明地恋](./古明地恋.md)
 
   
-源地址：[direct image link (original size)](https://pbs.twimg.com/media/Cgys4TAU8AA9SLI?format=jpg&amp;name=orig), [source tweet](https://twitter.com/m1rimo/status/724143795076366336)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://pbs.twimg.com/media/Cgys4TAU8AA9SLI?format=jpg&name=orig), [source tweet](https://twitter.com/m1rimo/status/724143795076366336)  
 
 ---
 

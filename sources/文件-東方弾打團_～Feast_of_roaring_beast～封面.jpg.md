@@ -1,6 +1,6 @@
 # 文件:東方弾打團_～Feast_of_roaring_beast～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0d\ns6%3A%E6%9D%B1%E6%96%B9%E5%BC%BE%E6%89%93%E5%9C%98_%EF%BD%9EFeast_of_roaring_beast%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0d\ns6%3A%E6%9D%B1%E6%96%B9%E5%BC%BE%E6%89%93%E5%9C%98_%EF%BD%9EFeast_of_roaring_beast%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 石鹸屋
 
@@ -8,11 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方弾打團 ～Feast of roaring beast～](./東方弾打團_～Feast_of_roaring_beast～.md)  
-该封面包含的角色：- [露米娅](./露米娅.md)- [红美铃](./红美铃.md)- 十六夜咲夜 (未找到链接)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [東方弾打團 ～Feast of roaring beast～](./東方弾打團_～Feast_of_roaring_beast～.md)该封面包含的角色：
+- [露米娅](./露米娅.md)
+- [红美铃](./红美铃.md)
+- [十六夜咲夜](./十六夜咲夜.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

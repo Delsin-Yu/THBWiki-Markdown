@@ -1,6 +1,6 @@
 # 文件:KrasterのささやかなオマケCD_Vol.7封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e2\ns6%3AKraster%E3%81%AE%E3%81%95%E3%81%95%E3%82%84%E3%81%8B%E3%81%AA%E3%82%AA%E3%83%9E%E3%82%B1CD_Vol%2E7%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e2\ns6%3AKraster%E3%81%AE%E3%81%95%E3%81%95%E3%82%84%E3%81%8B%E3%81%AA%E3%82%AA%E3%83%9E%E3%82%B1CD_Vol%2E7%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Kraster | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Kraster | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [KrasterのささやかなオマケCD Vol.7](./KrasterのささやかなオマケCD_Vol.7.md)  
-该封面包含的角色：- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
-
-
-
+- [KrasterのささやかなオマケCD Vol.7](./KrasterのささやかなオマケCD_Vol.7.md)该封面包含的角色：
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
 
 
 ---

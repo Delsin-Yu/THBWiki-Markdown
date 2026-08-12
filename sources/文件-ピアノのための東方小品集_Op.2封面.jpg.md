@@ -1,6 +1,6 @@
 # 文件:ピアノのための東方小品集_Op.2封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\94\ns6%3A%E3%83%94%E3%82%A2%E3%83%8E%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E6%9D%B1%E6%96%B9%E5%B0%8F%E5%93%81%E9%9B%86_Op%2E2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\94\ns6%3A%E3%83%94%E3%82%A2%E3%83%8E%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E6%9D%B1%E6%96%B9%E5%B0%8F%E5%93%81%E9%9B%86_Op%2E2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 As／Hi_Soundworks | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ As／Hi_Soundworks | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [ピアノのための東方小品集 Op.2](./ピアノのための東方小品集_Op.2.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [ピアノのための東方小品集 Op.2](./ピアノのための東方小品集_Op.2.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

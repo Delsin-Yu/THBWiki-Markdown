@@ -1,6 +1,6 @@
 # 文件:TBK_BEST_COLLECTION_VOL.1精选集_～二色転一～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\62\ns6%3ATBK_BEST_COLLECTION_VOL%2E1%E7%B2%BE%E9%80%89%E9%9B%86_%EF%BD%9E%E4%BA%8C%E8%89%B2%E8%BB%A2%E4%B8%80%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\62\ns6%3ATBK_BEST_COLLECTION_VOL%2E1%E7%B2%BE%E9%80%89%E9%9B%86_%EF%BD%9E%E4%BA%8C%E8%89%B2%E8%BB%A2%E4%B8%80%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 TsuBaKi | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ TsuBaKi | 专辑封面 | 封面图片
   
 
 - [TBK BEST COLLECTION VOL.1精选集 ～二色転一～](./TBK_BEST_COLLECTION_VOL.1精选集_～二色転一～.md)
-
-
-
 
 
 ---

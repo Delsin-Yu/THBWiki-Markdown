@@ -1,6 +1,6 @@
 # 文件:亡き王女に捧げる七重奏_-_Septet_pour_une_infante_defunte_-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ac\ns6%3A%E4%BA%A1%E3%81%8D%E7%8E%8B%E5%A5%B3%E3%81%AB%E6%8D%A7%E3%81%92%E3%82%8B%E4%B8%83%E9%87%8D%E5%A5%8F_-_Septet_pour_une_infante_defunte_-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ac\ns6%3A%E4%BA%A1%E3%81%8D%E7%8E%8B%E5%A5%B3%E3%81%AB%E6%8D%A7%E3%81%92%E3%82%8B%E4%B8%83%E9%87%8D%E5%A5%8F_-_Septet_pour_une_infante_defunte_-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 UnLimited_Questions | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ UnLimited_Questions | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [亡き王女に捧げる七重奏 - Septet pour une infante defunte -](./亡き王女に捧げる七重奏_-_Septet_pour_une_infante_defunte_-.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
-
-
-
+- [亡き王女に捧げる七重奏 - Septet pour une infante defunte -](./亡き王女に捧げる七重奏_-_Septet_pour_une_infante_defunte_-.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
 
 ---

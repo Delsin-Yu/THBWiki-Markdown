@@ -1,14 +1,11 @@
 # 文件:Coolierbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e3\ns6%3ACoolierbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e3\ns6%3ACoolierbanner%2Epng.html -->
 
 Coolier | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

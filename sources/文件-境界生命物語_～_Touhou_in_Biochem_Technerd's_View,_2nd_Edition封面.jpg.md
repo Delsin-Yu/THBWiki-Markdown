@@ -1,6 +1,6 @@
 # 文件:境界生命物語_～_Touhou_in_Biochem_Technerd's_View,_2nd_Edition封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f4\ns6%3A%E5%A2%83%E7%95%8C%E7%94%9F%E5%91%BD%E7%89%A9%E8%AA%9E_%EF%BD%9E_Touhou_in_Biochem_Technerd%27s_View%2C_2nd_Edition%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f4\ns6%3A%E5%A2%83%E7%95%8C%E7%94%9F%E5%91%BD%E7%89%A9%E8%AA%9E_%EF%BD%9E_Touhou_in_Biochem_Technerd%27s_View%2C_2nd_Edition%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 玄女柳娟
 
@@ -9,9 +9,6 @@
   
 
 - [境界生命物語 ～ Touhou in Biochem Technerd's View, 2nd Edition](./境界生命物語_～_Touhou_in_Biochem_Technerd's_View,_2nd_Edition.md)
-
-
-
 
 
 ---

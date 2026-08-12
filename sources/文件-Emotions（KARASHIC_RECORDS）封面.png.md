@@ -1,6 +1,6 @@
 # 文件:Emotions（KARASHIC_RECORDS）封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\71\ns6%3AEmotions%EF%BC%88KARASHIC_RECORDS%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\71\ns6%3AEmotions%EF%BC%88KARASHIC_RECORDS%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 KARASHIC_RECORDS | 专辑封面 | 封面图片
 
@@ -8,11 +8,11 @@ KARASHIC_RECORDS | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Emotions（KARASHIC RECORDS）](./Emotions（KARASHIC_RECORDS）.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)- [博丽灵梦](./博丽灵梦.md)- [八云紫](./八云紫.md)
-
-
-
+- [Emotions（KARASHIC RECORDS）](./Emotions（KARASHIC_RECORDS）.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
+- [博丽灵梦](./博丽灵梦.md)
+- [八云紫](./八云紫.md)
 
 
 ---

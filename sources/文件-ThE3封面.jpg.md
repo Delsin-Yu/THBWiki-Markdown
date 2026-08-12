@@ -1,6 +1,6 @@
 # 文件:ThE3封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a2\ns6%3AThE3%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a2\ns6%3AThE3%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Diverse_System | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Diverse_System | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [thE3](./thE3.md)  
-该封面包含的角色：- [火焰猫燐](./火焰猫燐.md)
-
-
-
+- [thE3](./thE3.md)该封面包含的角色：
+- [火焰猫燐](./火焰猫燐.md)
 
 
 ---

@@ -1,13 +1,12 @@
 # 东方花逐夜_～_Touhoupachi_Blissful_Death/角色
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\fd\ns0%3A%E4%B8%9C%E6%96%B9%E8%8A%B1%E9%80%90%E5%A4%9C_%EF%BD%9E_Touhoupachi_Blissful_Death%2F%E8%A7%92%E8%89%B2.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\fd\ns0%3A%E4%B8%9C%E6%96%B9%E8%8A%B1%E9%80%90%E5%A4%9C_%EF%BD%9E_Touhoupachi_Blissful_Death%2F%E8%A7%92%E8%89%B2.html -->
 
 正灌
 
   
 敌方角色均无立绘-
   
-
 
 ## 玩家可用角色
   
@@ -24,7 +23,6 @@
   
 在前往博丽神社的路上察觉了元素异常而参与到调查中的少女，唯一的目的就是解决这起异变然后回去好 好泡个温泉。
   
-
 
 ## 敌方角色
   
@@ -107,10 +105,6 @@ DDF：Death Dark Flame（不是Deep Dark Fantasy），暂不剧透。
 
 暗魔工蜂：暂不剧透。
   
-
-
-
-
 
 ---
 

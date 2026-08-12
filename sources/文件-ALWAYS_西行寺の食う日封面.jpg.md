@@ -1,6 +1,6 @@
 # 文件:ALWAYS_西行寺の食う日封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a4\ns6%3AALWAYS_%E8%A5%BF%E8%A1%8C%E5%AF%BA%E3%81%AE%E9%A3%9F%E3%81%86%E6%97%A5%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a4\ns6%3AALWAYS_%E8%A5%BF%E8%A1%8C%E5%AF%BA%E3%81%AE%E9%A3%9F%E3%81%86%E6%97%A5%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 幻想四季
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [ALWAYS 西行寺の食う日](./ALWAYS_西行寺の食う日.md)  
-该封面包含的角色：- [西行寺幽幽子](./西行寺幽幽子.md)
-
-
-
+- [ALWAYS 西行寺の食う日](./ALWAYS_西行寺の食う日.md)该封面包含的角色：
+- [西行寺幽幽子](./西行寺幽幽子.md)
 
 
 ---

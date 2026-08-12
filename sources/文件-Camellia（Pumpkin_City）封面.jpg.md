@@ -1,6 +1,6 @@
 # 文件:Camellia（Pumpkin_City）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e1\ns6%3ACamellia%EF%BC%88Pumpkin_City%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e1\ns6%3ACamellia%EF%BC%88Pumpkin_City%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Pumpkin_City | 同人志封面 | 封面图片
 
@@ -10,11 +10,11 @@ Pumpkin_City | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Camellia（Pumpkin City）](./Camellia（Pumpkin_City）.md)  
-该封面包含的角色：- [西行寺幽幽子](./西行寺幽幽子.md)- [米斯蒂娅·萝蕾拉](./米斯蒂娅·萝蕾拉.md)- [茨木华扇](./茨木华扇.md)- [秦心](./秦心.md)
-
-
-
+- [Camellia（Pumpkin City）](./Camellia（Pumpkin_City）.md)该封面包含的角色：
+- [西行寺幽幽子](./西行寺幽幽子.md)
+- [米斯蒂娅·萝蕾拉](./米斯蒂娅·萝蕾拉.md)
+- [茨木华扇](./茨木华扇.md)
+- [秦心](./秦心.md)
 
 
 ---

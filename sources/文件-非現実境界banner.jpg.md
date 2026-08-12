@@ -1,16 +1,11 @@
 # 文件:非現実境界banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fd\ns6%3A%E9%9D%9E%E7%8F%BE%E5%AE%9F%E5%A2%83%E7%95%8Cbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fd\ns6%3A%E9%9D%9E%E7%8F%BE%E5%AE%9F%E5%A2%83%E7%95%8Cbanner%2Ejpg.html -->
 
 社团LOGO | 非現実境界
 
   
-源地址：[[1]](http://higenjitukyoukai.web.fc2.com/banar.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://higenjitukyoukai.web.fc2.com/banar.jpg)  
 
 ---
 

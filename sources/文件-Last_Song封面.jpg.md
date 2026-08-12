@@ -1,6 +1,6 @@
 # 文件:Last_Song封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\86\ns6%3ALast_Song%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\86\ns6%3ALast_Song%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Sound_I'z | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Sound_I'z | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Last Song](./Last_Song.md)  
-该封面包含的角色：- [古明地恋](./古明地恋.md)
+- [Last Song](./Last_Song.md)该封面包含的角色：
+- [古明地恋](./古明地恋.md)
 
   
-源地址：[direct image link (original size)](https://i1.sndcdn.com/artworks-000247123344-5lugy4-original.jpg), [source page (Soundcloud)](https://soundcloud.com/ai-z-1/last-song-xfd)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://i1.sndcdn.com/artworks-000247123344-5lugy4-original.jpg), [source page (Soundcloud)](https://soundcloud.com/ai-z-1/last-song-xfd)  
 
 ---
 

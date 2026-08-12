@@ -1,6 +1,6 @@
 # 文件:touhou_Acoustical封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b4\ns6%3Atouhou_Acoustical%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b4\ns6%3Atouhou_Acoustical%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 歩いて行きまっしょい!!
 
@@ -10,16 +10,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [touhou Acoustical](./touhou_Acoustical.md)  
-该封面包含的角色：- 原创角色 (未找到链接)
+- [touhou Acoustical](./touhou_Acoustical.md)该封面包含的角色：
+- 原创角色 (未找到链接)
 
   
 from TLMC scans
   
-
-
-
-
 
 ---
 

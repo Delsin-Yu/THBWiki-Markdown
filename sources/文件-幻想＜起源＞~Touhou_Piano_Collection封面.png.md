@@ -1,6 +1,6 @@
 # 文件:幻想＜起源＞~Touhou_Piano_Collection封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d6\ns6%3A%E5%B9%BB%E6%83%B3%EF%BC%9C%E8%B5%B7%E6%BA%90%EF%BC%9E%7ETouhou_Piano_Collection%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d6\ns6%3A%E5%B9%BB%E6%83%B3%EF%BC%9C%E8%B5%B7%E6%BA%90%EF%BC%9E%7ETouhou_Piano_Collection%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Psysia（同人社团） | 专辑封面 | 封面图片
 
@@ -9,11 +9,8 @@ Psysia（同人社团） | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [幻想＜起源＞~Touhou Piano Collection](./幻想＜起源＞~Touhou_Piano_Collection.md)  
-该封面包含的角色：- [东风谷早苗](./东风谷早苗.md)
-
-
-
+- [幻想＜起源＞~Touhou Piano Collection](./幻想＜起源＞~Touhou_Piano_Collection.md)该封面包含的角色：
+- [东风谷早苗](./东风谷早苗.md)
 
 
 ---

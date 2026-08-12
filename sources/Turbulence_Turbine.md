@@ -1,30 +1,22 @@
 # Turbulence_Turbine
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\d\d2\ns0%3ATurbulence_Turbine.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\d\d2\ns0%3ATurbulence_Turbine.html -->
 
 由 Wanwan 创作的东方风自作曲，原名 タービュランスタービン
 
 本页是关于东方Project  
- **东方风自作曲** 的词条
-
+**东方风自作曲**的词条
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 出现作品](#出现作品)
 - [3 说明文本](#说明文本)
-
   - [3.1 东方导命树](#东方导命树)
 
 
-
 - [4 其他资料](#其他资料)
-
   - [4.1 乐理资讯](#乐理资讯)
   - [4.2 分析考据](#分析考据)
-
-
-
-
 
 
 
@@ -34,7 +26,6 @@
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">タービュランスタービン</td></tr><tr><td><b>译名</b></td><td>Turbulence Turbine</td></tr><tr><td><b>作曲</b></td><td><a href="./Wanwan.md" title="Wanwan">Wanwan</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 Turbulence Turbine（曲目） - 由 Wanwan 创作的东方风自作曲，原名 タービュランスタービン
-
 ## 出现作品
 
 <table>
@@ -42,15 +33,14 @@ Turbulence Turbine（曲目） - 由 Wanwan 创作的东方风自作曲，原名
 </tbody></table>
 
 
-
 ## 说明文本
 
 ### 东方导命树
+
 - [Music Room](./東方導命樹_～_Mystical_Power_Plant.-音乐.md)
 
   
 4面的主题曲。  
-
   
   
 试着做成凉爽的曲子。  
@@ -60,15 +50,11 @@ Turbulence Turbine（曲目） - 由 Wanwan 创作的东方风自作曲，原名
 另一方面，完全没有飞流直下和涡轮发电机的感觉。轱辘轱辘。
   
 
-
 ## 其他资料
 
 ### 乐理资讯
 
 ### 分析考据
-
-
-
 
 ---
 

@@ -1,16 +1,11 @@
 # 文件:おたクインテットbanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1f\ns6%3A%E3%81%8A%E3%81%9F%E3%82%AF%E3%82%A4%E3%83%B3%E3%83%86%E3%83%83%E3%83%88banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1f\ns6%3A%E3%81%8A%E3%81%9F%E3%82%AF%E3%82%A4%E3%83%B3%E3%83%86%E3%83%83%E3%83%88banner%2Egif.html -->
 
 おたクインテット | 社团LOGO
 
   
-源地址：[[1]](http://otaquintet.net/images/bn.gif)
-  
-
-
-
-
+源地址：[\[1\]](http://otaquintet.net/images/bn.gif)  
 
 ---
 

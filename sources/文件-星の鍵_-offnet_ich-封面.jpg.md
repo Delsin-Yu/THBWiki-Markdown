@@ -1,6 +1,6 @@
 # 文件:星の鍵_-offnet_ich-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5a\ns6%3A%E6%98%9F%E3%81%AE%E9%8D%B5_-offnet_ich-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5a\ns6%3A%E6%98%9F%E3%81%AE%E9%8D%B5_-offnet_ich-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 有給休暇
 
@@ -9,9 +9,6 @@
   
 
 - [星の鍵 -offnet ich-](./星の鍵_-offnet_ich-.md)
-
-
-
 
 
 ---

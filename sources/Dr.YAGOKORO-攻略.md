@@ -1,6 +1,6 @@
 # Dr.YAGOKORO/攻略
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\e\e4\ns0%3ADr%2EYAGOKORO%2F%E6%94%BB%E7%95%A5.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\e\e4\ns0%3ADr%2EYAGOKORO%2F%E6%94%BB%E7%95%A5.html -->
 
 yu-ki
 
@@ -15,10 +15,6 @@ yu-ki
 
 如果只有一个胶囊不能被放进辉夜的嘴中时，游戏就结束了。
   
-
-
-
-
 
 ---
 

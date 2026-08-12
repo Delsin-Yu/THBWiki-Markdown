@@ -1,6 +1,6 @@
 # 文件:for_the_Lunatix封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\db\ns6%3Afor_the_Lunatix%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\db\ns6%3Afor_the_Lunatix%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 C.H.S | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ C.H.S | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [for the Lunatix](./for_the_Lunatix.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [for the Lunatix](./for_the_Lunatix.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
   
-源地址:[[1]](http://c-h-s.me/forthelunatix/imgs/jacket.jpg)
-  
-
-
-
-
+源地址:[\[1\]](http://c-h-s.me/forthelunatix/imgs/jacket.jpg)  
 
 ---
 

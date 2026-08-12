@@ -1,16 +1,11 @@
 # 文件:Synthikatelogo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\94\ns6%3ASynthikatelogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\94\ns6%3ASynthikatelogo%2Ejpg.html -->
 
 Synthikate | 社团LOGO
 
   
-源地址：[[1]](https://66.media.tumblr.com/avatar_b8598871ca1a_64.pnj)
-  
-
-
-
-
+源地址：[\[1\]](https://66.media.tumblr.com/avatar_b8598871ca1a_64.pnj)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:東方木管奏2_～_Beautiful_Chamber_Ensemble封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0a\ns6%3A%E6%9D%B1%E6%96%B9%E6%9C%A8%E7%AE%A1%E5%A5%8F2_%EF%BD%9E_Beautiful_Chamber_Ensemble%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0a\ns6%3A%E6%9D%B1%E6%96%B9%E6%9C%A8%E7%AE%A1%E5%A5%8F2_%EF%BD%9E_Beautiful_Chamber_Ensemble%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 おたクインテット | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方木管奏2 ～ Beautiful Chamber Ensemble](./東方木管奏2_～_Beautiful_Chamber_Ensemble.md)  
-该封面包含的角色：- [蓬莱山辉夜](./蓬莱山辉夜.md)- [古明地觉](./古明地觉.md)
-
-
-
+- [東方木管奏2 ～ Beautiful Chamber Ensemble](./東方木管奏2_～_Beautiful_Chamber_Ensemble.md)该封面包含的角色：
+- [蓬莱山辉夜](./蓬莱山辉夜.md)
+- [古明地觉](./古明地觉.md)
 
 
 ---

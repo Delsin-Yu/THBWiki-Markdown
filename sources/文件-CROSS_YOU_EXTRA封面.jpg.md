@@ -1,6 +1,6 @@
 # 文件:CROSS_YOU_EXTRA封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b6\ns6%3ACROSS_YOU_EXTRA%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b6\ns6%3ACROSS_YOU_EXTRA%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 空騒中継点
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [CROSS YOU EXTRA](./CROSS_YOU_EXTRA.md)  
-该封面包含的角色：- [风见幽香](./风见幽香.md)
-
-
-
+- [CROSS YOU EXTRA](./CROSS_YOU_EXTRA.md)该封面包含的角色：
+- [风见幽香](./风见幽香.md)
 
 
 ---

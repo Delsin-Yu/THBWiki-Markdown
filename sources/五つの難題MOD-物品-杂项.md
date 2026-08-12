@@ -1,6 +1,6 @@
 # 五つの難題MOD/物品/杂项
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\62\ns0%3A%E4%BA%94%E3%81%A4%E3%81%AE%E9%9B%A3%E9%A1%8CMOD%2F%E7%89%A9%E5%93%81%2F%E6%9D%82%E9%A1%B9.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\62\ns0%3A%E4%BA%94%E3%81%A4%E3%81%AE%E9%9B%A3%E9%A1%8CMOD%2F%E7%89%A9%E5%93%81%2F%E6%9D%82%E9%A1%B9.html -->
 
 くろあんこ | 五つの難題MOD
 
@@ -24,9 +24,6 @@
 - [15 注释](#注释)
 
 
-
-
-
 ## 渴望鲜血的阴阳玉
 
 <table>
@@ -36,7 +33,6 @@
 <p>以恶魂为目标进行传送时，会跑到恶魂模型内部<br>
 </p>
 若传送目的地在空中，则不免除摔落伤害</td></tr></tbody></table>
-
 
 
 ## 停表
@@ -49,14 +45,13 @@
 效果不会被主动取消，但会因为受到伤害而解除</td></tr><tr><td style="width:120px;padding-left:7px;"><b>备注</b></td><td>在使用停表时使用<a href="#咲夜的怀表">咲夜的怀表</a>会召唤一个怀表实体，然后取消两者的效果</td></tr></tbody></table>
 
 
-
 ## 咲夜的怀表
 
 <table>
 <tbody><tr><td style="width:120px;padding-left:7px;"><b>名称</b></td><td width="350">咲夜的怀表</td><td rowspan="8" width="190"><center>暂无图片</center></td></tr>
 <tr><td style="width:120px;padding-left:7px;"><b>默认ID</b></td><td>THKaguyaMod:Sakuya's Pocket Watch</td></tr><tr><td style="width:120px;padding-left:7px;"><b>别名</b></td><td>月时计</td></tr><tr><td style="width:120px;padding-left:7px;"><b>获得方式</b></td><td><table>
 <tbody><tr>
-<td></td><td><a href="/index.php?title=%E4%BA%94%E3%81%A4%E3%81%AE%E9%9B%A3%E9%A1%8CMOD/%E7%89%A9%E5%93%81/%E6%9D%90%E6%96%99&amp;action=edit&amp;redlink=1" class="new" title="五つの難題MOD/物品/材料（页面不存在）">黄珍珠</a></td><td></td>
+<td></td><td><a class="new" title="五つの難題MOD/物品/材料（页面不存在）">黄珍珠</a></td><td></td>
 </tr>
 <tr>
 <td>红石粉</td><td>钟</td><td>红石粉</td><td>→</td><td>咲夜的怀表*1</td>
@@ -77,7 +72,6 @@
 若在减速/时停时点燃TNT，则TNT会和沙子一样出现掉落显示bug，但其爆炸地点为其真坐标（掉落约2.5格/0格）</td></tr></tbody></table>
 
 
-
 ## 被诅咒的诱饵人偶
 
 <table>
@@ -89,7 +83,6 @@
 </p>
 本模组的妖精的弹幕攻击会优先以人偶为第一目标，即吸引自机狙</td></tr><tr><td style="width:120px;padding-left:7px;"><b>备注</b></td><td>和平模式下无法生成人偶，仅消耗耐久度<br>
 仅能生成一个人偶，在人偶存在的时候使用道具无效果也不会消耗耐久度</td></tr></tbody></table>
-
 
 
 ## 隙间
@@ -124,7 +117,6 @@
 若传送目标点在空中，则不免除摔落伤害，伤害等同于（目标点隙间的y坐标-落地点y坐标）高度的摔落伤害<span class="inside" title="你知道的太多了"><s>但是由于鸡免除掉落伤害，所以可以制造真·永动鸡</s></span></td></tr></tbody></table>
 
 
-
 ## 隙间的折叠伞
 
 <table>
@@ -136,17 +128,15 @@ Shift+右击可以切换伞的颜色，共16种颜色<br>
 不可跨维度传送</td></tr><tr><td style="width:120px;padding-left:7px;"><b>备注</b></td><td></td></tr></tbody></table>
 
 
-
 ## 病气平愈守
 
 <table>
 <tbody><tr><td style="width:120px;padding-left:7px;"><b>名称</b></td><td width="350">病气平愈守</td><td rowspan="8" width="190"><center>暂无图片</center></td></tr>
-<tr><td style="width:120px;padding-left:7px;"><b>默认ID</b></td><td>THKaguyaMod:Gap Folding Umbrella</td></tr><tr><td style="width:120px;padding-left:7px;"><b>别名</b></td><td>病气平愈护符，血药<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">1</a></sup></td></tr><tr><td style="width:120px;padding-left:7px;"><b>获得方式</b></td><td>与早苗交易<br>
+<tr><td style="width:120px;padding-left:7px;"><b>默认ID</b></td><td>THKaguyaMod:Gap Folding Umbrella</td></tr><tr><td style="width:120px;padding-left:7px;"><b>别名</b></td><td>病气平愈护符，血药<span>[^cite_note-1]</span></td></tr><tr><td style="width:120px;padding-left:7px;"><b>获得方式</b></td><td>与早苗交易<br>
 <table>
-<tbody><tr><td><a href="/index.php?title=%E4%BA%94%E3%81%A4%E3%81%AE%E9%9B%A3%E9%A1%8CMOD/%E7%89%A9%E5%93%81/%E6%9D%90%E6%96%99&amp;action=edit&amp;redlink=1" class="new" title="五つの難題MOD/物品/材料（页面不存在）" unred="">子弹之素</a>*16</td><td>→</td><td>病气平愈守*1</td></tr>
+<tbody><tr><td><a class="new" title="五つの難題MOD/物品/材料（页面不存在）" unred="">子弹之素</a>*16</td><td>→</td><td>病气平愈守*1</td></tr>
 </tbody></table></td></tr><tr><td style="width:120px;padding-left:7px;"><b>功能</b></td><td><b>消耗物品，最大堆叠：16</b><br>
 右键蓄力使用，给予玩家2秒的生命恢复IV效果</td></tr><tr><td style="width:120px;padding-left:7px;"><b>备注</b></td><td></td></tr></tbody></table>
-
 
 
 ## 第三只眼
@@ -170,7 +160,6 @@ Shift+右击可以切换伞的颜色，共16种颜色<br>
 对着已驯服的生物可以查看其主人</td></tr><tr><td style="width:120px;padding-left:7px;"><b>备注</b></td><td></td></tr></tbody></table>
 
 
-
 ## 闭上的第三只眼
 
 <table>
@@ -189,7 +178,6 @@ Shift+右击可以切换伞的颜色，共16种颜色<br>
 <span class="inside" title="你知道的太多了">然而手里拿着才能生效，而隐身的时候依旧显示手里的物品，所以并没有什么用</span></td></tr><tr><td style="width:120px;padding-left:7px;"><b>备注</b></td><td></td></tr></tbody></table>
 
 
-
 ## 娜兹玲灵摆
 
 <table>
@@ -204,20 +192,19 @@ Shift+右击可以切换伞的颜色，共16种颜色<br>
 <tr>
 <td></td><td>钻石</td><td></td>
 </tr>
-</tbody></table></td></tr><tr><td style="width:120px;padding-left:7px;"><b>功能</b></td><td>在灵摆所在格右侧物品是方块的情况下，右击释放灵摆，释放后生成一个灵摆实体，并显示提示文字“灵摆开始寻找&lt;方块名&gt;了!”<br>
+</tbody></table></td></tr><tr><td style="width:120px;padding-left:7px;"><b>功能</b></td><td>在灵摆所在格右侧物品是方块的情况下，右击释放灵摆，释放后生成一个灵摆实体，并显示提示文字“灵摆开始寻找<方块名>了!”<br>
 <p>该灵摆实体会搜索以灵摆为球心半径约为12.5格内的这种方块，若存在这种方块则开始旋转，离得越近转的越快<br>
 按下shift或过一段时间自动收回<br>
 </p>
-若按下shift+右键释放，则搜索半径扩大到约22.5格，靠近时旋转效果更明显；提示文字为“灵摆开始寻找&lt;方块名&gt;了，以高精度模式！”</td></tr><tr><td style="width:120px;padding-left:7px;"><b>备注</b></td><td>若右侧物品不是方块或没有物品，则不会释放灵摆<br>
+若按下shift+右键释放，则搜索半径扩大到约22.5格，靠近时旋转效果更明显；提示文字为“灵摆开始寻找<方块名>了，以高精度模式！”</td></tr><tr><td style="width:120px;padding-left:7px;"><b>备注</b></td><td>若右侧物品不是方块或没有物品，则不会释放灵摆<br>
 灵摆寻物时无视metadata，例如不同颜色的羊毛视为同一种</td></tr></tbody></table>
-
 
 
 ## 船幽灵的长勺
 
 <table>
 <tbody><tr><td style="width:120px;padding-left:7px;"><b>名称</b></td><td width="350">船幽灵的长勺</td><td rowspan="7" width="190"><center>暂无图片</center></td></tr>
-<tr><td style="width:120px;padding-left:7px;"><b>默认ID</b></td><td>THKaguyaMod:Ship Ghost's Dipper &lt;empty/full&gt;</td></tr><tr><td style="width:120px;padding-left:7px;"><b>获得方式</b></td><td><table>
+<tr><td style="width:120px;padding-left:7px;"><b>默认ID</b></td><td>THKaguyaMod:Ship Ghost's Dipper <empty/full></td></tr><tr><td style="width:120px;padding-left:7px;"><b>获得方式</b></td><td><table>
 <tbody><tr>
 <td></td><td>灵魂沙</td><td>碗</td>
 </tr>
@@ -232,7 +219,6 @@ Shift+右击可以切换伞的颜色，共16种颜色<br>
 </p>
 可以在不吸取水源的情况下放水</td></tr><tr><td style="width:120px;padding-left:7px;"><b>备注</b></td><td>在下界无效，也不会消耗耐久度<br>
 可以对着单个水源不断放水，但这样只会消耗耐久度，不会更新方块</td></tr></tbody></table>
-
 
 
 ## 魔人经卷
@@ -260,7 +246,6 @@ Shift+右击可以切换伞的颜色，共16种颜色<br>
 创造模式下咏唱同样需要经验值，计算方法和生存模式一致</td></tr></tbody></table>
 
 
-
 ## 穿墙之凿
 
 <table>
@@ -286,7 +271,6 @@ Shift+右击可以切换伞的颜色，共16种颜色<br>
 <b>或许可以穿过已经设置的领地，请酌情把此道具加入服务器</b><br>
 </p>
 可以在config里设置"Can Use Wall-Passing Chisel"=false以禁用此道具的穿墙功能</td></tr></tbody></table>
-
 
 
 ## 万宝槌
@@ -320,13 +304,7 @@ Shift+右击可以切换伞的颜色，共16种颜色<br>
 </tbody></table></td></tr><tr><td style="width:120px;padding-left:7px;"><b>功能</b></td><td><s><b>耐久度：101</b></s><br>
 右键使用，减少29耐久度，使自己放出的所有弹幕贴图和碰撞箱增大</td></tr><tr><td style="width:120px;padding-left:7px;"><b>备注</b></td><td>耐久度只是摆设，该道具耐久降至0后不会损坏，还能继续使用并使耐久度继续下降；同时会以约20耐久/秒的速度进行自动修补</td></tr></tbody></table>
 
-
-
-[^cite_note-1]: 参见非想天则系统卡 (未找到链接)。
-
-
-
-
+[^cite_note-1]: 参见[非想天则系统卡](./东方非想天则-系统卡.md#病气平愈护符)。
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:communication_breakdown封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\52\ns6%3Acommunication_breakdown%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\52\ns6%3Acommunication_breakdown%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ②号トピック | 同人志封面 | 封面图片
 
@@ -10,16 +10,13 @@
 使用了本文件作封面图片的作品：
   
 
-- [communication breakdown](./communication_breakdown.md)  
-该封面包含的角色：- [风见幽香](./风见幽香.md)- 博丽灵梦油库里 (未找到链接)- 雾雨魔理沙油库里 (未找到链接)
+- [communication breakdown](./communication_breakdown.md)该封面包含的角色：
+- [风见幽香](./风见幽香.md)
+- [博丽灵梦油库里](./馒馒来.md#博丽灵梦)
+- [雾雨魔理沙油库里](./馒馒来.md#雾雨魔理沙)
 
   
-源地址：[direct image link](http://2gotopic.web.fc2.com/g/hyousi_combre.jpg), [source page](http://2gotopic.web.fc2.com/off.htm)
-  
-
-
-
-
+源地址：[direct image link](http://2gotopic.web.fc2.com/g/hyousi_combre.jpg), [source page](http://2gotopic.web.fc2.com/off.htm)  
 
 ---
 

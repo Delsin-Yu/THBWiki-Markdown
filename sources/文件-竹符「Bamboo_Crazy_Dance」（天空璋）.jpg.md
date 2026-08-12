@@ -1,12 +1,8 @@
 # 文件:竹符「Bamboo_Crazy_Dance」（天空璋）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ec\ns6%3A%E7%AB%B9%E7%AC%A6%E3%80%8CBamboo_Crazy_Dance%E3%80%8D%EF%BC%88%E5%A4%A9%E7%A9%BA%E7%92%8B%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ec\ns6%3A%E7%AB%B9%E7%AC%A6%E3%80%8CBamboo_Crazy_Dance%E3%80%8D%EF%BC%88%E5%A4%A9%E7%A9%BA%E7%92%8B%EF%BC%89%2Ejpg.html -->
 
 丁礼田舞 | 东方天空璋 | 敌机符卡
-
-
-
-
 
 
 ---

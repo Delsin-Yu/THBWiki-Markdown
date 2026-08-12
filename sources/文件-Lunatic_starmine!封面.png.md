@@ -1,6 +1,6 @@
 # 文件:Lunatic_starmine!封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4e\ns6%3ALunatic_starmine%21%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4e\ns6%3ALunatic_starmine%21%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Rigune | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Rigune | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Lunatic starmine!](./Lunatic_starmine!.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [Lunatic starmine!](./Lunatic_starmine!.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
   
-源地址：[[1]](https://secure.static.tumblr.com/cd3d60a641accc01d7712636a029799d/jacfh5d/p5Doiea7y/tumblr_static_33d6jv9qamiosgkg88wkkk8wo.png)
-  
-
-
-
-
+源地址：[\[1\]](https://secure.static.tumblr.com/cd3d60a641accc01d7712636a029799d/jacfh5d/p5Doiea7y/tumblr_static_33d6jv9qamiosgkg88wkkk8wo.png)  
 
 ---
 

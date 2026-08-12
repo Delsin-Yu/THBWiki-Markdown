@@ -1,6 +1,6 @@
 # 文件:Embodiment_of_Frequency_Modulation封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\84\ns6%3AEmbodiment_of_Frequency_Modulation%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\84\ns6%3AEmbodiment_of_Frequency_Modulation%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 +tek | Yiter | blowitch | konamiscc | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Embodiment of Frequency Modulation](./Embodiment_of_Frequency_Modulation.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [Embodiment of Frequency Modulation](./Embodiment_of_Frequency_Modulation.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
   
-源地址：[direct image link (10 size)](https://f4.bcbits.com/img/a2787993425_10.jpg), [source page (artist Bandcamp)](https://plustek.bandcamp.com/album/embodiment-of-frequency-modulation)
-  
-
-
-
-
+源地址：[direct image link (10 size)](https://f4.bcbits.com/img/a2787993425_10.jpg), [source page (artist Bandcamp)](https://plustek.bandcamp.com/album/embodiment-of-frequency-modulation)  
 
 ---
 

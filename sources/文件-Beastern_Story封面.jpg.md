@@ -1,6 +1,6 @@
 # 文件:Beastern_Story封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\86\ns6%3ABeastern_Story%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\86\ns6%3ABeastern_Story%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Moonlight_Magic | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Moonlight_Magic | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Beastern Story](./Beastern_Story.md)  
-该封面包含的角色：- [火焰猫燐](./火焰猫燐.md)
-
-
-
+- [Beastern Story](./Beastern_Story.md)该封面包含的角色：
+- [火焰猫燐](./火焰猫燐.md)
 
 
 ---

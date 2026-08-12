@@ -1,14 +1,11 @@
 # 文件:PARANOIA_PARADOXbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f3\ns6%3APARANOIA_PARADOXbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f3\ns6%3APARANOIA_PARADOXbanner%2Ejpg.html -->
 
 PARANOIA_PARADOX | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

@@ -1,12 +1,8 @@
 # 文件:稀神探女（绀珠传立绘_surprise）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f9\ns6%3A%E7%A8%80%E7%A5%9E%E6%8E%A2%E5%A5%B3%EF%BC%88%E7%BB%80%E7%8F%A0%E4%BC%A0%E7%AB%8B%E7%BB%98_surprise%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f9\ns6%3A%E7%A8%80%E7%A5%9E%E6%8E%A2%E5%A5%B3%EF%BC%88%E7%BB%80%E7%8F%A0%E4%BC%A0%E7%AB%8B%E7%BB%98_surprise%EF%BC%89%2Epng.html -->
 
 ZUN绘 | 东方绀珠传 | 官方游戏立绘 | 稀神探女
-
-
-
-
 
 
 ---

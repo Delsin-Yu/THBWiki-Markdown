@@ -1,6 +1,6 @@
 # 文件:Oh_Deer封面.jpeg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b8\ns6%3AOh_Deer%E5%B0%81%E9%9D%A2%2Ejpeg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b8\ns6%3AOh_Deer%E5%B0%81%E9%9D%A2%2Ejpeg.html -->
 
 七园钴博 | 封面图片 | 软件封面
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Oh Deer](./Oh_Deer.md)  
-该封面包含的角色：- [吉吊八千慧](./吉吊八千慧.md)
-
-
-
+- [Oh Deer](./Oh_Deer.md)该封面包含的角色：
+- [吉吊八千慧](./吉吊八千慧.md)
 
 
 ---

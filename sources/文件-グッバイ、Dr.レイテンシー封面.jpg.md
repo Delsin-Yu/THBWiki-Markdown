@@ -1,6 +1,6 @@
 # 文件:グッバイ、Dr.レイテンシー封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e8\ns6%3A%E3%82%B0%E3%83%83%E3%83%90%E3%82%A4%E3%80%81Dr%2E%E3%83%AC%E3%82%A4%E3%83%86%E3%83%B3%E3%82%B7%E3%83%BC%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e8\ns6%3A%E3%82%B0%E3%83%83%E3%83%90%E3%82%A4%E3%80%81Dr%2E%E3%83%AC%E3%82%A4%E3%83%86%E3%83%B3%E3%82%B7%E3%83%BC%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 3rd_CLOCK | 同人志封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [グッバイ、Dr.レイテンシー](./グッバイ、Dr.レイテンシー.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
-
-
-
+- [グッバイ、Dr.レイテンシー](./グッバイ、Dr.レイテンシー.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
 
 
 ---

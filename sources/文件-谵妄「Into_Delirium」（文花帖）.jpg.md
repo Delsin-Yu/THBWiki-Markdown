@@ -1,12 +1,8 @@
 # 文件:谵妄「Into_Delirium」（文花帖）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\52\ns6%3A%E8%B0%B5%E5%A6%84%E3%80%8CInto_Delirium%E3%80%8D%EF%BC%88%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\52\ns6%3A%E8%B0%B5%E5%A6%84%E3%80%8CInto_Delirium%E3%80%8D%EF%BC%88%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Ejpg.html -->
 
 东方文花帖 | 敌机符卡 | 梅蒂欣·梅兰可莉
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Spring_Ephemeral封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bc\ns6%3ASpring_Ephemeral%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bc\ns6%3ASpring_Ephemeral%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 みっちぇる | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Spring Ephemeral](./Spring_Ephemeral.md)  
-该封面包含的角色：- [莉莉霍瓦特](./莉莉霍瓦特.md)
+- [Spring Ephemeral](./Spring_Ephemeral.md)该封面包含的角色：
+- [莉莉霍瓦特](./莉莉霍瓦特.md)
 
   
-源地址：[direct image link](https://www.suruga-ya.jp/database/pics_light/game/zhoro22150.jpg), [source page (suruga-ya ID: ZHORO22150)](https://www.suruga-ya.jp/product/detail/ZHORO22150)
-  
-
-
-
-
+源地址：[direct image link](https://www.suruga-ya.jp/database/pics_light/game/zhoro22150.jpg), [source page (suruga-ya ID: ZHORO22150)](https://www.suruga-ya.jp/product/detail/ZHORO22150)  
 
 ---
 

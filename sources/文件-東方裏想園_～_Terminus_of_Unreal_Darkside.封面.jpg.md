@@ -1,6 +1,6 @@
 # 文件:東方裏想園_～_Terminus_of_Unreal_Darkside.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d6\ns6%3A%E6%9D%B1%E6%96%B9%E8%A3%8F%E6%83%B3%E5%9C%92_%EF%BD%9E_Terminus_of_Unreal_Darkside%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d6\ns6%3A%E6%9D%B1%E6%96%B9%E8%A3%8F%E6%83%B3%E5%9C%92_%EF%BD%9E_Terminus_of_Unreal_Darkside%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Τeam_αlternative_Σnding | 封面图片 | 软件封面
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方裏想園 ～ Terminus of Unreal Darkside.](./東方裏想園_～_Terminus_of_Unreal_Darkside..md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [東方裏想園 ～ Terminus of Unreal Darkside.](./東方裏想園_～_Terminus_of_Unreal_Darkside..md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

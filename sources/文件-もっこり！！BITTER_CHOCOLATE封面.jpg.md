@@ -1,6 +1,6 @@
 # 文件:もっこり！！BITTER_CHOCOLATE封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e2\ns6%3A%E3%82%82%E3%81%A3%E3%81%93%E3%82%8A%EF%BC%81%EF%BC%81BITTER_CHOCOLATE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e2\ns6%3A%E3%82%82%E3%81%A3%E3%81%93%E3%82%8A%EF%BC%81%EF%BC%81BITTER_CHOCOLATE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 1569 | 同人志封面 | 封面图片
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [もっこり！！BITTER CHOCOLATE](./もっこり！！BITTER_CHOCOLATE.md)  
-该封面包含的角色：- [上白泽慧音](./上白泽慧音.md)- [藤原妹红](./藤原妹红.md)
-
-
-
+- [もっこり！！BITTER CHOCOLATE](./もっこり！！BITTER_CHOCOLATE.md)该封面包含的角色：
+- [上白泽慧音](./上白泽慧音.md)
+- [藤原妹红](./藤原妹红.md)
 
 
 ---

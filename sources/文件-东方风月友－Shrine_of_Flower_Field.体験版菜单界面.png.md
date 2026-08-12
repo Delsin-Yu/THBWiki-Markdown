@@ -1,18 +1,13 @@
 # 文件:东方风月友－Shrine_of_Flower_Field.体験版菜单界面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\77\ns6%3A%E4%B8%9C%E6%96%B9%E9%A3%8E%E6%9C%88%E5%8F%8B%EF%BC%8DShrine_of_Flower_Field%2E%E4%BD%93%E9%A8%93%E7%89%88%E8%8F%9C%E5%8D%95%E7%95%8C%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\77\ns6%3A%E4%B8%9C%E6%96%B9%E9%A3%8E%E6%9C%88%E5%8F%8B%EF%BC%8DShrine_of_Flower_Field%2E%E4%BD%93%E9%A8%93%E7%89%88%E8%8F%9C%E5%8D%95%E7%95%8C%E9%9D%A2%2Epng.html -->
 
 同人游戏菜单界面
 
 
 ## 文件说明
   
-[AncientChronicle](./AncientChronicle.md)
-  
-
-
-
-
+[AncientChronicle](./AncientChronicle.md)  
 
 ---
 

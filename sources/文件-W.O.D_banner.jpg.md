@@ -1,12 +1,8 @@
 # 文件:W.O.D_banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\89\ns6%3AW%2EO%2ED_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\89\ns6%3AW%2EO%2ED_banner%2Ejpg.html -->
 
 W.O.D | 社团LOGO
-
-
-
-
 
 
 ---

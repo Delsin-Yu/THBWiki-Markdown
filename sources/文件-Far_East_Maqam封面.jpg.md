@@ -1,6 +1,6 @@
 # 文件:Far_East_Maqam封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3d\ns6%3AFar_East_Maqam%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3d\ns6%3AFar_East_Maqam%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Metaluna | 专辑封面 | 封面图片
 
@@ -8,16 +8,12 @@ Metaluna | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Far East Maqam](./Far_East_Maqam.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [雾雨魔理沙](./雾雨魔理沙.md)
+- [Far East Maqam](./Far_East_Maqam.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-[Pixiv artwork ID: 5410074 (original size)](https://www.pixiv.net/artworks/5410074)
-  
-
-
-
-
+[Pixiv artwork ID: 5410074 (original size)](https://www.pixiv.net/artworks/5410074)  
 
 ---
 

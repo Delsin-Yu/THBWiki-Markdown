@@ -1,6 +1,6 @@
 # 文件:Relentless_Ultimatum封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\62\ns6%3ARelentless_Ultimatum%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\62\ns6%3ARelentless_Ultimatum%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 AGENT_0 | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@ AGENT_0 | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Relentless Ultimatum](./Relentless_Ultimatum.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
+- [Relentless Ultimatum](./Relentless_Ultimatum.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
   
-源地址：[direct image link (original size)](http://blog.cnobi.jp/v1/blog/user/fd1e811088495b0c59f57b40d9c7c265/1635142463), [source page](http://agent0bdm.blog.shinobi.jp/Entry/64/)
-  
-
-
-
-
+源地址：[direct image link (original size)](http://blog.cnobi.jp/v1/blog/user/fd1e811088495b0c59f57b40d9c7c265/1635142463), [source page](http://agent0bdm.blog.shinobi.jp/Entry/64/)  
 
 ---
 

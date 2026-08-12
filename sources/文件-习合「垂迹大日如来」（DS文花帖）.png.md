@@ -1,12 +1,8 @@
 # 文件:习合「垂迹大日如来」（DS文花帖）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6e\ns6%3A%E4%B9%A0%E5%90%88%E3%80%8C%E5%9E%82%E8%BF%B9%E5%A4%A7%E6%97%A5%E5%A6%82%E6%9D%A5%E3%80%8D%EF%BC%88DS%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6e\ns6%3A%E4%B9%A0%E5%90%88%E3%80%8C%E5%9E%82%E8%BF%B9%E5%A4%A7%E6%97%A5%E5%A6%82%E6%9D%A5%E3%80%8D%EF%BC%88DS%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Epng.html -->
 
 东方文花帖DS | 圣白莲 | 敌机符卡
-
-
-
-
 
 
 ---

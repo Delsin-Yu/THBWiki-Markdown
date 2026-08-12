@@ -1,6 +1,6 @@
 # 文件:文弾奏結界_文花風師曲_Arietta_Incalzando封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5f\ns6%3A%E6%96%87%E5%BC%BE%E5%A5%8F%E7%B5%90%E7%95%8C_%E6%96%87%E8%8A%B1%E9%A2%A8%E5%B8%AB%E6%9B%B2_Arietta_Incalzando%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5f\ns6%3A%E6%96%87%E5%BC%BE%E5%A5%8F%E7%B5%90%E7%95%8C_%E6%96%87%E8%8A%B1%E9%A2%A8%E5%B8%AB%E6%9B%B2_Arietta_Incalzando%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 dBu_music | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ dBu_music | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [文弾奏結界 文花風師曲 Arietta Incalzando](./文弾奏結界_文花風師曲_Arietta_Incalzando.md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)
-
-
-
+- [文弾奏結界 文花風師曲 Arietta Incalzando](./文弾奏結界_文花風師曲_Arietta_Incalzando.md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
 
 
 ---

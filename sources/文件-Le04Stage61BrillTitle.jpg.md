@@ -1,14 +1,11 @@
 # 文件:Le04Stage61BrillTitle.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a9\ns6%3ALe04Stage61BrillTitle%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a9\ns6%3ALe04Stage61BrillTitle%2Ejpg.html -->
 
 连缘天影战记
 
 
 ## 文件说明
-
-
-
 
 ---
 

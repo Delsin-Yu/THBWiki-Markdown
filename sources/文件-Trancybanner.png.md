@@ -1,16 +1,11 @@
 # 文件:Trancybanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3f\ns6%3ATrancybanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3f\ns6%3ATrancybanner%2Epng.html -->
 
 Trancy | 社团LOGO
 
   
-源地址：[[1]](http://trancy.web.fc2.com/homepage_sozai/hp_logo2.png)
-  
-
-
-
-
+源地址：[\[1\]](http://trancy.web.fc2.com/homepage_sozai/hp_logo2.png)  
 
 ---
 

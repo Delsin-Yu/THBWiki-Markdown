@@ -1,12 +1,8 @@
 # 文件:THD2速融的核聚变棒.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f0\ns6%3ATHD2%E9%80%9F%E8%9E%8D%E7%9A%84%E6%A0%B8%E8%81%9A%E5%8F%98%E6%A3%92%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f0\ns6%3ATHD2%E9%80%9F%E8%9E%8D%E7%9A%84%E6%A0%B8%E8%81%9A%E5%8F%98%E6%A3%92%2Epng.html -->
 
 THD2
-
-
-
-
 
 
 ---

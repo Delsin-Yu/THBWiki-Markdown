@@ -1,6 +1,6 @@
 # 文件:Fantasia＜初＞封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d0\ns6%3AFantasia%EF%BC%9C%E5%88%9D%EF%BC%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d0\ns6%3AFantasia%EF%BC%9C%E5%88%9D%EF%BC%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Psysia（同人社团） | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Psysia（同人社团） | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Fantasia＜初＞](./Fantasia＜初＞.md)  
-该封面包含的角色：- [东风谷早苗](./东风谷早苗.md)
-
-
-
+- [Fantasia＜初＞](./Fantasia＜初＞.md)该封面包含的角色：
+- [东风谷早苗](./东风谷早苗.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Resonance（同人专辑）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a9\ns6%3AResonance%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a9\ns6%3AResonance%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 LTEDTX | 专辑封面 | 封面图片
 
@@ -11,12 +11,7 @@ LTEDTX | 专辑封面 | 封面图片
 - [Resonance（同人专辑）](./Resonance（同人专辑）.md)
 
   
-源地址：[[1]](https://booth.pximg.net/c/620x620/9614d39a-c585-4d7a-8962-70e11937370e/i/1365497/b5aa9a77-fb15-4e65-a3df-f963116b3032_base_resized.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://booth.pximg.net/c/620x620/9614d39a-c585-4d7a-8962-70e11937370e/i/1365497/b5aa9a77-fb15-4e65-a3df-f963116b3032_base_resized.jpg)  
 
 ---
 

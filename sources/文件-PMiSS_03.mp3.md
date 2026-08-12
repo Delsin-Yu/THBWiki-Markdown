@@ -1,12 +1,8 @@
 # 文件:PMiSS_03.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2e\ns6%3APMiSS_03%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2e\ns6%3APMiSS_03%2Emp3.html -->
 
 东方求闻史纪 | 原曲MP3 | 飞翔在夜晚的鸠山_-Power_MIX
-
-
-
-
 
 
 ---

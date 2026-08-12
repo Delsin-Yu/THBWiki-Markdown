@@ -1,6 +1,6 @@
 # 文件:Melty_E.P.封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d3\ns6%3AMelty_E%2EP%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d3\ns6%3AMelty_E%2EP%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Sound_Square | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Sound_Square | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Melty E.P.](./Melty_E.P..md)  
-该封面包含的角色：- [火焰猫燐](./火焰猫燐.md)
+- [Melty E.P.](./Melty_E.P..md)该封面包含的角色：
+- [火焰猫燐](./火焰猫燐.md)
 
   
-源地址：[[1]](http://blog-imgs-60.fc2.com/s/o/u/soundsquare/melty_jacket_omote_500.png)
-  
-
-
-
-
+源地址：[\[1\]](http://blog-imgs-60.fc2.com/s/o/u/soundsquare/melty_jacket_omote_500.png)  
 
 ---
 

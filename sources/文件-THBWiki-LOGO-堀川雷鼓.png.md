@@ -1,12 +1,8 @@
 # 文件:THBWiki-LOGO-堀川雷鼓.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1b\ns6%3ATHBWiki-LOGO-%E5%A0%80%E5%B7%9D%E9%9B%B7%E9%BC%93%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1b\ns6%3ATHBWiki-LOGO-%E5%A0%80%E5%B7%9D%E9%9B%B7%E9%BC%93%2Epng.html -->
 
 THBWiki | Wiki词条分类用图
-
-
-
-
 
 
 ---

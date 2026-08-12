@@ -1,12 +1,8 @@
 # 文件:狂梦「疯狂的梦（Dream_World）」（文花帖）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\62\ns6%3A%E7%8B%82%E6%A2%A6%E3%80%8C%E7%96%AF%E7%8B%82%E7%9A%84%E6%A2%A6%EF%BC%88Dream_World%EF%BC%89%E3%80%8D%EF%BC%88%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\62\ns6%3A%E7%8B%82%E6%A2%A6%E3%80%8C%E7%96%AF%E7%8B%82%E7%9A%84%E6%A2%A6%EF%BC%88Dream_World%EF%BC%89%E3%80%8D%EF%BC%88%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Ejpg.html -->
 
 东方文花帖 | 敌机符卡 | 铃仙·优昙华院·因幡
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Packet_of_the_East封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\47\ns6%3APacket_of_the_East%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\47\ns6%3APacket_of_the_East%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 toppintetratorten♪ | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@ toppintetratorten♪ | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Packet of the East](./Packet_of_the_East.md)  
-该封面包含的角色：- [莉莉霍瓦特](./莉莉霍瓦特.md)
+- [Packet of the East](./Packet_of_the_East.md)该封面包含的角色：
+- [莉莉霍瓦特](./莉莉霍瓦特.md)
 
   
-源地址：[direct image link](http://tttspx.sakura.ne.jp/image/2010ezo1.png), [source page](http://tttspx.sakura.ne.jp/2010ezo.html)
-  
-
-
-
-
+源地址：[direct image link](http://tttspx.sakura.ne.jp/image/2010ezo1.png), [source page](http://tttspx.sakura.ne.jp/2010ezo.html)  
 
 ---
 

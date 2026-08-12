@@ -1,12 +1,8 @@
 # 文件:YaboiMatoibanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3a\ns6%3AYaboiMatoibanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3a\ns6%3AYaboiMatoibanner%2Ejpg.html -->
 
 YaboiMatoi | 社团LOGO
-
-
-
-
 
 
 ---

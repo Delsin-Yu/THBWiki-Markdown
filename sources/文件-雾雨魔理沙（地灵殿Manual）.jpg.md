@@ -1,12 +1,8 @@
 # 文件:雾雨魔理沙（地灵殿Manual）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2a\ns6%3A%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%EF%BC%88%E5%9C%B0%E7%81%B5%E6%AE%BFManual%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2a\ns6%3A%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%EF%BC%88%E5%9C%B0%E7%81%B5%E6%AE%BFManual%EF%BC%89%2Ejpg.html -->
 
 Manual配图 | 东方地灵殿 | 雾雨魔理沙
-
-
-
-
 
 
 ---

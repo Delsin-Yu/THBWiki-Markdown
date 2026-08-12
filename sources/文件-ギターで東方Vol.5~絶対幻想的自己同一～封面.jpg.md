@@ -1,6 +1,6 @@
 # 文件:ギターで東方Vol.5~絶対幻想的自己同一～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ee\ns6%3A%E3%82%AE%E3%82%BF%E3%83%BC%E3%81%A7%E6%9D%B1%E6%96%B9Vol%2E5%7E%E7%B5%B6%E5%AF%BE%E5%B9%BB%E6%83%B3%E7%9A%84%E8%87%AA%E5%B7%B1%E5%90%8C%E4%B8%80%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ee\ns6%3A%E3%82%AE%E3%82%BF%E3%83%BC%E3%81%A7%E6%9D%B1%E6%96%B9Vol%2E5%7E%E7%B5%B6%E5%AF%BE%E5%B9%BB%E6%83%B3%E7%9A%84%E8%87%AA%E5%B7%B1%E5%90%8C%E4%B8%80%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Arts＆Sounds：Utopia | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Arts＆Sounds：Utopia | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [ギターで東方Vol.5~絶対幻想的自己同一～](./ギターで東方Vol.5~絶対幻想的自己同一～.md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)
-
-
-
+- [ギターで東方Vol.5~絶対幻想的自己同一～](./ギターで東方Vol.5~絶対幻想的自己同一～.md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
 
 
 ---

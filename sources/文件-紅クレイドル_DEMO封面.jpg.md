@@ -1,6 +1,6 @@
 # 文件:紅クレイドル_DEMO封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bb\ns6%3A%E7%B4%85%E3%82%AF%E3%83%AC%E3%82%A4%E3%83%89%E3%83%AB_DEMO%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bb\ns6%3A%E7%B4%85%E3%82%AF%E3%83%AC%E3%82%A4%E3%83%89%E3%83%AB_DEMO%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 猫曼陀羅
 
@@ -11,9 +11,6 @@
   
 
 - [紅クレイドル DEMO](./紅クレイドル_DEMO.md)
-
-
-
 
 
 ---

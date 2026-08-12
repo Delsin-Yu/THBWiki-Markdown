@@ -1,14 +1,11 @@
 # 文件:ミツメ書房banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\28\ns6%3A%E3%83%9F%E3%83%84%E3%83%A1%E6%9B%B8%E6%88%BFbanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\28\ns6%3A%E3%83%9F%E3%83%84%E3%83%A1%E6%9B%B8%E6%88%BFbanner%2Egif.html -->
 
 ミツメ書房 | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

@@ -1,12 +1,8 @@
 # 文件:5150_banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\01\ns6%3A5150_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\01\ns6%3A5150_banner%2Ejpg.html -->
 
 5150 | 社团LOGO
-
-
-
-
 
 
 ---

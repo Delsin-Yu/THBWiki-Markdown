@@ -1,6 +1,6 @@
 # 文件:Floating_Cloud_C83_Special封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\17\ns6%3AFloating_Cloud_C83_Special%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\17\ns6%3AFloating_Cloud_C83_Special%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Floating_Cloud | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Floating_Cloud | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Floating Cloud C83 Special](./Floating_Cloud_C83_Special.md)  
-该封面包含的角色：- [蓬莱山辉夜](./蓬莱山辉夜.md)
-
-
-
+- [Floating Cloud C83 Special](./Floating_Cloud_C83_Special.md)该封面包含的角色：
+- [蓬莱山辉夜](./蓬莱山辉夜.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:詩夏_Si-ka封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\21\ns6%3A%E8%A9%A9%E5%A4%8F_Si-ka%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\21\ns6%3A%E8%A9%A9%E5%A4%8F_Si-ka%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 K2_SOUND | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ K2_SOUND | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [詩夏 Si-ka](./詩夏_Si-ka.md)  
-该封面包含的角色：- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
-
-
-
+- [詩夏 Si-ka](./詩夏_Si-ka.md)该封面包含的角色：
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
 
 
 ---

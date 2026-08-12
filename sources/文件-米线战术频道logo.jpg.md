@@ -1,12 +1,8 @@
 # 文件:米线战术频道logo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\62\ns6%3A%E7%B1%B3%E7%BA%BF%E6%88%98%E6%9C%AF%E9%A2%91%E9%81%93logo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\62\ns6%3A%E7%B1%B3%E7%BA%BF%E6%88%98%E6%9C%AF%E9%A2%91%E9%81%93logo%2Ejpg.html -->
 
 社团LOGO | 米线战术频道
-
-
-
-
 
 
 ---

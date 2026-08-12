@@ -1,6 +1,6 @@
 # 文件:Between_Life_and_Death封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\af\ns6%3ABetween_Life_and_Death%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\af\ns6%3ABetween_Life_and_Death%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Our_Oath_Of_Office | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Our_Oath_Of_Office | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Between Life and Death](./Between_Life_and_Death.md)  
-该封面包含的角色：- [八云紫](./八云紫.md)
-
-
-
+- [Between Life and Death](./Between_Life_and_Death.md)该封面包含的角色：
+- [八云紫](./八云紫.md)
 
 
 ---

@@ -1,14 +1,11 @@
 # 文件:だいどころbanner2.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\96\ns6%3A%E3%81%A0%E3%81%84%E3%81%A9%E3%81%93%E3%82%8Dbanner2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\96\ns6%3A%E3%81%A0%E3%81%84%E3%81%A9%E3%81%93%E3%82%8Dbanner2%2Epng.html -->
 
 だいどころ | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

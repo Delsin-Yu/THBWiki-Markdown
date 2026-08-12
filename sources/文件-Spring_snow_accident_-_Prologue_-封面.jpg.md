@@ -1,6 +1,6 @@
 # 文件:Spring_snow_accident_-_Prologue_-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6b\ns6%3ASpring_snow_accident_-_Prologue_-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6b\ns6%3ASpring_snow_accident_-_Prologue_-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 狐の居る湖
 
@@ -8,16 +8,13 @@
 使用了本文件作封面图片的作品：
   
 
-- [Spring snow accident - Prologue -](./Spring_snow_accident_-_Prologue_-.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)- [蕾蒂·霍瓦特洛克](./蕾蒂·霍瓦特洛克.md)- [橙](./橙.md)
+- [Spring snow accident - Prologue -](./Spring_snow_accident_-_Prologue_-.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
+- [蕾蒂·霍瓦特洛克](./蕾蒂·霍瓦特洛克.md)
+- [橙](./橙.md)
 
   
-源地址：[[1]](https://twitter.com/fox_prayer/status/681952271282769920)
-  
-
-
-
-
+源地址：[\[1\]](https://twitter.com/fox_prayer/status/681952271282769920)  
 
 ---
 

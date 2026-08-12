@@ -1,6 +1,6 @@
 # 文件:th08_12_SC88Pro.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0f\ns6%3Ath08_12_SC88Pro%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0f\ns6%3Ath08_12_SC88Pro%2Emp3.html -->
 
 东方永夜抄 | 狂气之瞳_～_Invisible_Full_Moon
 
@@ -9,12 +9,7 @@
   
 狂気の瞳　～ Invisible Full Moon 东方永夜抄5面Boss鈴仙・優曇華院・イナバ的主题曲MIDI版。由Roland Sound Canvas 88Pro实机录制；MP3采样率44.1KHz，码率192Kbps。  
 
-来源：[ZUN's MIDIs the way they were intended to be heard (100% COMPLETE)](https://www.shrinemaiden.org/forum/index.php/topic,18989.0.html)
-  
-
-
-
-
+来源：[ZUN's MIDIs the way they were intended to be heard (100% COMPLETE)](https://www.shrinemaiden.org/forum/index.php/topic,18989.0.html)  
 
 ---
 

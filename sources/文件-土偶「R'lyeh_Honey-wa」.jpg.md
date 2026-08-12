@@ -1,12 +1,8 @@
 # 文件:土偶「R'lyeh_Honey-wa」.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\12\ns6%3A%E5%9C%9F%E5%81%B6%E3%80%8CR%27lyeh_Honey-wa%E3%80%8D%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\12\ns6%3A%E5%9C%9F%E5%81%B6%E3%80%8CR%27lyeh_Honey-wa%E3%80%8D%2Ejpg.html -->
 
 東方邪星章製作チーム
-
-
-
-
 
 
 ---

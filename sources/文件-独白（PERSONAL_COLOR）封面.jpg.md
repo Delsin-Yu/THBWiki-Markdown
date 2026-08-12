@@ -1,6 +1,6 @@
 # 文件:独白（PERSONAL_COLOR）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7d\ns6%3A%E7%8B%AC%E7%99%BD%EF%BC%88PERSONAL_COLOR%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7d\ns6%3A%E7%8B%AC%E7%99%BD%EF%BC%88PERSONAL_COLOR%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 PERSONAL_COLOR | 同人志封面 | 封面图片
 
@@ -8,11 +8,8 @@ PERSONAL_COLOR | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [独白（PERSONAL COLOR）](./独白（PERSONAL_COLOR）.md)  
-该封面包含的角色：- [稗田阿求](./稗田阿求.md)
-
-
-
+- [独白（PERSONAL COLOR）](./独白（PERSONAL_COLOR）.md)该封面包含的角色：
+- [稗田阿求](./稗田阿求.md)
 
 
 ---

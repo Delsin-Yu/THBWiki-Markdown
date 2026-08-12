@@ -1,13 +1,11 @@
 # Extra_Arrange
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\8\80\ns0%3AExtra_Arrange.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\8\80\ns0%3AExtra_Arrange.html -->
 
 2014年3月19日 由 Active Sounds Zone  发布的EP同人专辑，曲目主要风格是 Trance、其他电子，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人专辑 (未找到链接)** 的词条
-<center>
-
+**[二次创作同人专辑](./二次创作.md#同人音乐)**的词条<center>
 <table>
 <tbody><tr>
 <td class="mbox-image"><div style="width: 52px;">
@@ -16,44 +14,35 @@
 </tr>
 </tbody></table>
 
-
 </center>
-
 ## 专辑信息
 
-<table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Extra_Arrange封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/5/5a/Extra_Arrange%E5%B0%81%E9%9D%A2.png/252px-Extra_Arrange%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="252" height="252" srcset="https://upload.thwiki.cc/thumb/5/5a/Extra_Arrange%E5%B0%81%E9%9D%A2.png/378px-Extra_Arrange%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/5/5a/Extra_Arrange%E5%B0%81%E9%9D%A2.png 2x" data-file-width="400" data-file-height="400"></a><div class="cover-char">角色：<a href="/index.php?title=%E5%8E%9F%E5%88%9B%E8%A7%92%E8%89%B2&amp;action=edit&amp;redlink=1" class="new" title="原创角色（页面不存在）">原创角色</a></div></td>
-</tr><tr><td class="label">名称</td><td colspan="2"> Extra Arrange </td></tr><tr><td class="label">制作方</td><td><a href="./Active_Sounds_Zone.md" title="Active Sounds Zone">Active Sounds Zone</a></td><td class="cover-artwork" rowspan="9" style="min-width:252px;"><a href="./文件-Extra_Arrange封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/5/5a/Extra_Arrange%E5%B0%81%E9%9D%A2.png/252px-Extra_Arrange%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="252" height="252" srcset="https://upload.thwiki.cc/thumb/5/5a/Extra_Arrange%E5%B0%81%E9%9D%A2.png/378px-Extra_Arrange%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/5/5a/Extra_Arrange%E5%B0%81%E9%9D%A2.png 2x" data-file-width="400" data-file-height="400"></a><div class="cover-char">角色：<a href="/index.php?title=%E5%8E%9F%E5%88%9B%E8%A7%92%E8%89%B2&amp;action=edit&amp;redlink=1" class="new" title="原创角色（页面不存在）">原创角色</a></div></td>
+<table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Extra_Arrange封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/5/5a/Extra_Arrange%E5%B0%81%E9%9D%A2.png/252px-Extra_Arrange%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="252" height="252" srcset="https://upload.thwiki.cc/thumb/5/5a/Extra_Arrange%E5%B0%81%E9%9D%A2.png/378px-Extra_Arrange%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/5/5a/Extra_Arrange%E5%B0%81%E9%9D%A2.png 2x" data-file-width="400" data-file-height="400"></a><div class="cover-char">角色：<a class="new" title="原创角色（页面不存在）">原创角色</a></div></td>
+</tr><tr><td class="label">名称</td><td colspan="2"> Extra Arrange </td></tr><tr><td class="label">制作方</td><td><a href="./Active_Sounds_Zone.md" title="Active Sounds Zone">Active Sounds Zone</a></td><td class="cover-artwork" rowspan="9" style="min-width:252px;"><a href="./文件-Extra_Arrange封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/5/5a/Extra_Arrange%E5%B0%81%E9%9D%A2.png/252px-Extra_Arrange%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="252" height="252" srcset="https://upload.thwiki.cc/thumb/5/5a/Extra_Arrange%E5%B0%81%E9%9D%A2.png/378px-Extra_Arrange%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/5/5a/Extra_Arrange%E5%B0%81%E9%9D%A2.png 2x" data-file-width="400" data-file-height="400"></a><div class="cover-char">角色：<a class="new" title="原创角色（页面不存在）">原创角色</a></div></td>
 </tr><tr><td class="label">首发日期</td><td>2014-03-19</td></tr><tr><td class="label">类型</td><td>EP</td></tr><tr><td class="label">编号</td><td>ASZM-0010</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>4</td></tr><tr><td class="label">总时长</td><td>00:00</td></tr><tr><td class="label">风格类型</td><td>Trance，其他电子</td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://aszr.info/disco/aszm-0010.html">http://aszr.info/disco/aszm-0010.html</a></td></tr></tbody></table>
 
 Extra Arrange（同人专辑，Active Sounds Zone，2014） - 2014年3月19日 由 Active Sounds Zone  发布的EP同人专辑，曲目主要风格是 Trance、其他电子，分级为 一般向
-
 ## Staff
   
- **Arrangement**   
+**Arrangement**  
 
-<table><tbody><tr><td><a href="/index.php?title=Def*rai&amp;action=edit&amp;redlink=1" class="new" title="Def*rai（页面不存在）">Def*rai</a></td><td><a href="./Active_Sounds_Zone.md" title="Active Sounds Zone">Active Sounds Zone</a></td><td>Tr.1-4</td></tr></tbody></table>
-
+<table><tbody><tr><td><a class="new" title="Def*rai（页面不存在）">Def*rai</a></td><td><a href="./Active_Sounds_Zone.md" title="Active Sounds Zone">Active Sounds Zone</a></td><td>Tr.1-4</td></tr></tbody></table>
 
 Mastering/Design
 : Def*rai
 Illustration
 : レンズ
 
-
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Break_Our_Heart_-_Scarlet_Devil" colspan="2" class="title">Break Our Heart - Scarlet Devil<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Def*rai&amp;ogmusic=U.N.オーエンは彼女なのか？&amp;fromwiki=Extra_Arrange"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=Def*rai&amp;action=edit&amp;redlink=1" class="new" title="Def*rai（页面不存在）">Def*rai</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Def*rai&amp;fromwiki=Extra_Arrange"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=U.N.オーエンは彼女なのか？&amp;fromwiki=Extra_Arrange"><span></span></a></span><div class="ogmusic"><a href="./U.N.オーエンは彼女なのか？.md" class="mw-redirect" title="U.N.オーエンは彼女なのか？">U.N.オーエンは彼女なのか？</a></div><div class="source"><a href="./东方红魔乡_～_the_Embodiment_of_Scarlet_Devil..md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr>
-<tr><td id="2" class="infoYD"><b>02</b></td><td id="Bad_Peanut!!" colspan="2" class="title">Bad Peanut!!<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Def*rai&amp;ogmusic=Bad Apple!!&amp;fromwiki=Extra_Arrange"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=Def*rai&amp;action=edit&amp;redlink=1" class="new" title="Def*rai（页面不存在）">Def*rai</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Def*rai&amp;fromwiki=Extra_Arrange"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=Bad Apple!!&amp;fromwiki=Extra_Arrange"><span></span></a></span><div class="ogmusic"><a href="./Bad_Apple!!.md" title="Bad Apple!!">Bad Apple!!</a></div><div class="source"><a href="./东方幻想乡_～_Lotus_Land_Story..md" class="mw-redirect" title="东方幻想乡 ～ Lotus Land Story.">东方幻想乡　～ Lotus Land Story.</a></div></td></tr>
-<tr><td id="3" class="infoYD"><b>03</b></td><td id="INSIDE_AND_DARKSIDE" colspan="2" class="title">INSIDE AND DARKSIDE<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Def*rai&amp;ogmusic=月まで届け、不死の煙，竹取飛翔　～ Lunatic Princess&amp;fromwiki=Extra_Arrange"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=Def*rai&amp;action=edit&amp;redlink=1" class="new" title="Def*rai（页面不存在）">Def*rai</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Def*rai&amp;fromwiki=Extra_Arrange"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=月まで届け、不死の煙，竹取飛翔　～ Lunatic Princess&amp;fromwiki=Extra_Arrange"><span></span></a></span><div class="ogmusic"><a href="./月まで届け、不死の煙.md" class="mw-redirect" title="月まで届け、不死の煙">月まで届け、不死の煙</a></div><div class="ogmusic"><a href="./竹取飛翔_～_Lunatic_Princess.md" class="mw-redirect" title="竹取飛翔 ～ Lunatic Princess">竹取飛翔　～ Lunatic Princess</a></div><div class="source"><a href="./东方永夜抄_～_Imperishable_Night..md" class="mw-redirect" title="东方永夜抄 ～ Imperishable Night.">东方永夜抄　～ Imperishable Night.</a></div></td></tr>
-<tr><td id="4" class="infoYL"><b>04</b></td><td id="Technical_Cheetah_Man" colspan="2" class="title">Technical Cheetah Man<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Def*rai&amp;ogmusic=CHEETAHMEN II&amp;fromwiki=Extra_Arrange"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=Def*rai&amp;action=edit&amp;redlink=1" class="new" title="Def*rai（页面不存在）">Def*rai</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Def*rai&amp;fromwiki=Extra_Arrange"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=CHEETAHMEN II&amp;fromwiki=Extra_Arrange"><span></span></a></span><div class="ogmusic">CHEETAHMEN II</div></td></tr></tbody></table>
-
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Break_Our_Heart_-_Scarlet_Devil" colspan="2" class="title">Break Our Heart - Scarlet Devil</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="Def*rai（页面不存在）">Def*rai</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./U.N.OWEN就是她吗？.md" class="mw-redirect" title="U.N.オーエンは彼女なのか？">U.N.オーエンは彼女なのか？</a></div><div class="source"><a href="./东方红魔乡.md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr>
+<tr><td id="2" class="infoYD"><b>02</b></td><td id="Bad_Peanut!!" colspan="2" class="title">Bad Peanut!!</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="Def*rai（页面不存在）">Def*rai</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./Bad_Apple!!.md" title="Bad Apple!!">Bad Apple!!</a></div><div class="source"><a href="./东方幻想乡.md" class="mw-redirect" title="东方幻想乡 ～ Lotus Land Story.">东方幻想乡　～ Lotus Land Story.</a></div></td></tr>
+<tr><td id="3" class="infoYD"><b>03</b></td><td id="INSIDE_AND_DARKSIDE" colspan="2" class="title">INSIDE AND DARKSIDE</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="Def*rai（页面不存在）">Def*rai</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./飘上月球，不死之烟.md" class="mw-redirect" title="月まで届け、不死の煙">月まで届け、不死の煙</a></div><div class="ogmusic"><a href="./竹取飞翔_～_Lunatic_Princess.md" class="mw-redirect" title="竹取飛翔 ～ Lunatic Princess">竹取飛翔　～ Lunatic Princess</a></div><div class="source"><a href="./东方永夜抄.md" class="mw-redirect" title="东方永夜抄 ～ Imperishable Night.">东方永夜抄　～ Imperishable Night.</a></div></td></tr>
+<tr><td id="4" class="infoYL"><b>04</b></td><td id="Technical_Cheetah_Man" colspan="2" class="title">Technical Cheetah Man</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="Def*rai（页面不存在）">Def*rai</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic">CHEETAHMEN II</div></td></tr></tbody></table>
 
 
 ## 评论
-
-
-
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:紫電一閃（White_Elephant）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\46\ns6%3A%E7%B4%AB%E9%9B%BB%E4%B8%80%E9%96%83%EF%BC%88White_Elephant%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\46\ns6%3A%E7%B4%AB%E9%9B%BB%E4%B8%80%E9%96%83%EF%BC%88White_Elephant%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 White_Elephant | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ White_Elephant | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [紫電一閃（White Elephant）](./紫電一閃（White_Elephant）.md)  
-该封面包含的角色：- [寅丸星](./寅丸星.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [紫電一閃（White Elephant）](./紫電一閃（White_Elephant）.md)该封面包含的角色：
+- [寅丸星](./寅丸星.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

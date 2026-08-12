@@ -1,6 +1,6 @@
 # 文件:神踊_-神奏楽曲集VII-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1c\ns6%3A%E7%A5%9E%E8%B8%8A_-%E7%A5%9E%E5%A5%8F%E6%A5%BD%E6%9B%B2%E9%9B%86VII-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1c\ns6%3A%E7%A5%9E%E8%B8%8A_-%E7%A5%9E%E5%A5%8F%E6%A5%BD%E6%9B%B2%E9%9B%86VII-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 神楽庭園
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [神踊 -神奏楽曲集VII-](./神踊_-神奏楽曲集VII-.md)  
-该封面包含的角色：- [丰聪耳神子](./丰聪耳神子.md)
-
-
-
+- [神踊 -神奏楽曲集VII-](./神踊_-神奏楽曲集VII-.md)该封面包含的角色：
+- [丰聪耳神子](./丰聪耳神子.md)
 
 
 ---

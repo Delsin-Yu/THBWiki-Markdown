@@ -1,6 +1,6 @@
 # 文件:WACCA封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\88\ns6%3AWACCA%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\88\ns6%3AWACCA%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 HARDCORE_TANO*C | Marvelous | 封面图片 | 软件封面
 
@@ -9,11 +9,8 @@ WACCA封面
 使用了本文件作封面图片的作品：
   
 
-- [WACCA](./WACCA.md)  
-该封面包含的角色：- 伊丽莎白 (未找到链接)
-
-
-
+- [WACCA](./WACCA.md)该封面包含的角色：
+- 伊丽莎白 (未找到链接)
 
 
 ---

@@ -1,16 +1,11 @@
 # 文件:へもぐろびんbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\51\ns6%3A%E3%81%B8%E3%82%82%E3%81%90%E3%82%8D%E3%81%B3%E3%82%93banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\51\ns6%3A%E3%81%B8%E3%82%82%E3%81%90%E3%82%8D%E3%81%B3%E3%82%93banner%2Epng.html -->
 
 へもぐろびん | 社团LOGO
 
   
-源地址：[[1]](http://www.geocities.jp/toho_hmglbn/img/bnr.png)
-  
-
-
-
-
+源地址：[\[1\]](http://www.geocities.jp/toho_hmglbn/img/bnr.png)  
 
 ---
 

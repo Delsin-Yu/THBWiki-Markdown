@@ -1,6 +1,6 @@
 # 文件:BREAK_MY_LABYRINTH_Ver0.5封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5a\ns6%3ABREAK_MY_LABYRINTH_Ver0%2E5%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5a\ns6%3ABREAK_MY_LABYRINTH_Ver0%2E5%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 吊るし処 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [BREAK MY LABYRINTH Ver0.5](./BREAK_MY_LABYRINTH_Ver0.5.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
-
-
-
+- [BREAK MY LABYRINTH Ver0.5](./BREAK_MY_LABYRINTH_Ver0.5.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
 
 ---

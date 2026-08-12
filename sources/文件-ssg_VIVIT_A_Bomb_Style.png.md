@@ -1,16 +1,12 @@
 # 文件:ssg_VIVIT_A_Bomb_Style.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\02\ns6%3Assg_VIVIT_A_Bomb_Style%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\02\ns6%3Assg_VIVIT_A_Bomb_Style%2Epng.html -->
 
 秋霜玉
 
   
 《秋霜玉》机体Wide Shoot的Bomb立绘。
   
-
-
-
-
 
 ---
 

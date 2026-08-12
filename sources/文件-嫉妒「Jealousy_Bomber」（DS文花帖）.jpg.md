@@ -1,12 +1,8 @@
 # 文件:嫉妒「Jealousy_Bomber」（DS文花帖）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5e\ns6%3A%E5%AB%89%E5%A6%92%E3%80%8CJealousy_Bomber%E3%80%8D%EF%BC%88DS%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5e\ns6%3A%E5%AB%89%E5%A6%92%E3%80%8CJealousy_Bomber%E3%80%8D%EF%BC%88DS%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Ejpg.html -->
 
 东方文花帖DS | 敌机符卡 | 水桥帕露西
-
-
-
-
 
 
 ---

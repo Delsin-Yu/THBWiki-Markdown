@@ -1,12 +1,8 @@
 # 文件:魂音泉10周年纪念单独巡回LIVE_-TOSX-_LOGO.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\47\ns6%3A%E9%AD%82%E9%9F%B3%E6%B3%8910%E5%91%A8%E5%B9%B4%E7%BA%AA%E5%BF%B5%E5%8D%95%E7%8B%AC%E5%B7%A1%E5%9B%9ELIVE_-TOSX-_LOGO%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\47\ns6%3A%E9%AD%82%E9%9F%B3%E6%B3%8910%E5%91%A8%E5%B9%B4%E7%BA%AA%E5%BF%B5%E5%8D%95%E7%8B%AC%E5%B7%A1%E5%9B%9ELIVE_-TOSX-_LOGO%2Epng.html -->
 
 活动LOGO | 魂音泉10周年纪念单独巡回LIVE_-TOSX-
-
-
-
-
 
 
 ---

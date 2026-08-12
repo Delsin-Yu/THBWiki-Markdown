@@ -1,12 +1,8 @@
 # 文件:Eight-Millionbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\32\ns6%3AEight-Millionbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\32\ns6%3AEight-Millionbanner%2Ejpg.html -->
 
 Eight-Million | 社团LOGO
-
-
-
-
 
 
 ---

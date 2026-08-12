@@ -1,12 +1,8 @@
 # 文件:アオイツキヲミテタlogo1.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a9\ns6%3A%E3%82%A2%E3%82%AA%E3%82%A4%E3%83%84%E3%82%AD%E3%83%B2%E3%83%9F%E3%83%86%E3%82%BFlogo1%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a9\ns6%3A%E3%82%A2%E3%82%AA%E3%82%A4%E3%83%84%E3%82%AD%E3%83%B2%E3%83%9F%E3%83%86%E3%82%BFlogo1%2Ejpg.html -->
 
 アオイツキヲミテタ | 社团LOGO
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Psychedelic_Mirage封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3c\ns6%3APsychedelic_Mirage%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3c\ns6%3APsychedelic_Mirage%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Groovy_Trancer | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Groovy_Trancer | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Psychedelic Mirage](./Psychedelic_Mirage.md)  
-该封面包含的角色：- [依神女苑](./依神女苑.md)
-
-
-
+- [Psychedelic Mirage](./Psychedelic_Mirage.md)该封面包含的角色：
+- [依神女苑](./依神女苑.md)
 
 
 ---

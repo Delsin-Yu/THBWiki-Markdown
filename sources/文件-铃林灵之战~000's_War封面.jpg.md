@@ -1,6 +1,6 @@
 # 文件:铃林灵之战~000's_War封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\67\ns6%3A%E9%93%83%E6%9E%97%E7%81%B5%E4%B9%8B%E6%88%98%7E000%27s_War%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\67\ns6%3A%E9%93%83%E6%9E%97%E7%81%B5%E4%B9%8B%E6%88%98%7E000%27s_War%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 八雾游戏制作组 | 封面图片 | 软件封面
 
@@ -11,9 +11,6 @@
   
 
 - [铃林灵之战 ~ 000's War](./铃林灵之战_~_000's_War.md)
-
-
-
 
 
 ---

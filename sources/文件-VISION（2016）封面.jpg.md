@@ -1,6 +1,6 @@
 # 文件:VISION（2016）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\48\ns6%3AVISION%EF%BC%882016%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\48\ns6%3AVISION%EF%BC%882016%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 TV_SHOP_ON_THE_SECOND_FLOOR | 专辑封面 | 封面图片 | 深夜放送
 
@@ -11,12 +11,7 @@ TV_SHOP_ON_THE_SECOND_FLOOR | 专辑封面 | 封面图片 | 深夜放送
 - [VISION（2016）](./VISION（2016）.md)
 
   
-源地址：[[1]](http://tvshoponthe2ndfloor.web.fc2.com/visionjk.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://tvshoponthe2ndfloor.web.fc2.com/visionjk.jpg)  
 
 ---
 

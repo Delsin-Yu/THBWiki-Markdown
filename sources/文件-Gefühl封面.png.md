@@ -1,6 +1,6 @@
 # 文件:Gefühl封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\51\ns6%3AGef%C3%BChl%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\51\ns6%3AGef%C3%BChl%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 α_music | 专辑封面 | 封面图片
 
@@ -8,16 +8,13 @@
 使用了本文件作封面图片的作品：
   
 
-- [Gefühl](./Gefühl.md)  
-该封面包含的角色：- [露娜切露德](./露娜切露德.md)- [桑尼米尔克](./桑尼米尔克.md)- [斯塔萨菲雅](./斯塔萨菲雅.md)
+- [Gefühl](./Gefühl.md)该封面包含的角色：
+- [露娜切露德](./露娜切露德.md)
+- [桑尼米尔克](./桑尼米尔克.md)
+- [斯塔萨菲雅](./斯塔萨菲雅.md)
 
   
-源地址：[[1]](http://alpha-music.sub.jp/amus0009/images/jacket.png)
-  
-
-
-
-
+源地址：[\[1\]](http://alpha-music.sub.jp/amus0009/images/jacket.png)  
 
 ---
 

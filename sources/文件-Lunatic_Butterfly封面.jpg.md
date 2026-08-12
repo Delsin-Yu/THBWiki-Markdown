@@ -1,6 +1,6 @@
 # 文件:Lunatic_Butterfly封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d1\ns6%3ALunatic_Butterfly%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d1\ns6%3ALunatic_Butterfly%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 こでまり小瑠璃 | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Lunatic Butterfly](./Lunatic_Butterfly.md)  
-该封面包含的角色：- [蓬莱山辉夜](./蓬莱山辉夜.md)
+- [Lunatic Butterfly](./Lunatic_Butterfly.md)该封面包含的角色：
+- [蓬莱山辉夜](./蓬莱山辉夜.md)
 
   
-源地址：[[1]](http://kodemari.sumomo.ne.jp/c90/KKCD-0004_jaket.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://kodemari.sumomo.ne.jp/c90/KKCD-0004_jaket.jpg)  
 
 ---
 

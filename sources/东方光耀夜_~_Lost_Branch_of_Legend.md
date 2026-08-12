@@ -1,12 +1,11 @@
 # 东方光耀夜_~_Lost_Branch_of_Legend
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\05\ns0%3A%E4%B8%9C%E6%96%B9%E5%85%89%E8%80%80%E5%A4%9C_%7E_Lost_Branch_of_Legend.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\05\ns0%3A%E4%B8%9C%E6%96%B9%E5%85%89%E8%80%80%E5%A4%9C_%7E_Lost_Branch_of_Legend.html -->
 
 2022年8月18日 由 Alioth Studio  发布的TAB同人游戏，可在 Windows 系统上运行，游戏人数为 单人模式，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人软件 (未找到链接)** 的词条
-
+**[二次创作同人软件](./二次创作.md#同人软件)**的词条
 ## 目录
 
 - [1 软件信息](#软件信息)
@@ -16,19 +15,14 @@
 - [5 外部链接](#外部链接)
 
 
-
-
-
 ## 软件信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-东方光耀夜_~_Lost_Branch_of_Legend封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/8/81/%E4%B8%9C%E6%96%B9%E5%85%89%E8%80%80%E5%A4%9C_~_Lost_Branch_of_Legend%E5%B0%81%E9%9D%A2.jpg/224px-%E4%B8%9C%E6%96%B9%E5%85%89%E8%80%80%E5%A4%9C_~_Lost_Branch_of_Legend%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="105" srcset="https://upload.thwiki.cc/thumb/8/81/%E4%B8%9C%E6%96%B9%E5%85%89%E8%80%80%E5%A4%9C_~_Lost_Branch_of_Legend%E5%B0%81%E9%9D%A2.jpg/336px-%E4%B8%9C%E6%96%B9%E5%85%89%E8%80%80%E5%A4%9C_~_Lost_Branch_of_Legend%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/8/81/%E4%B8%9C%E6%96%B9%E5%85%89%E8%80%80%E5%A4%9C_~_Lost_Branch_of_Legend%E5%B0%81%E9%9D%A2.jpg/448px-%E4%B8%9C%E6%96%B9%E5%85%89%E8%80%80%E5%A4%9C_~_Lost_Branch_of_Legend%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="460" data-file-height="215"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></div></td>
-</tr><tr><td class="label">名称</td><td colspan="2"> 东方光耀夜 ~ Lost Branch of Legend </td></tr><tr><td class="label">制作方</td><td><a href="/index.php?title=Alioth_Studio&amp;action=edit&amp;redlink=1" class="new" title="Alioth Studio（页面不存在）">Alioth Studio</a></td><td class="cover-artwork" rowspan="8" style="min-width:224px;"><a href="./文件-东方光耀夜_~_Lost_Branch_of_Legend封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/8/81/%E4%B8%9C%E6%96%B9%E5%85%89%E8%80%80%E5%A4%9C_~_Lost_Branch_of_Legend%E5%B0%81%E9%9D%A2.jpg/224px-%E4%B8%9C%E6%96%B9%E5%85%89%E8%80%80%E5%A4%9C_~_Lost_Branch_of_Legend%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="105" srcset="https://upload.thwiki.cc/thumb/8/81/%E4%B8%9C%E6%96%B9%E5%85%89%E8%80%80%E5%A4%9C_~_Lost_Branch_of_Legend%E5%B0%81%E9%9D%A2.jpg/336px-%E4%B8%9C%E6%96%B9%E5%85%89%E8%80%80%E5%A4%9C_~_Lost_Branch_of_Legend%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/8/81/%E4%B8%9C%E6%96%B9%E5%85%89%E8%80%80%E5%A4%9C_~_Lost_Branch_of_Legend%E5%B0%81%E9%9D%A2.jpg/448px-%E4%B8%9C%E6%96%B9%E5%85%89%E8%80%80%E5%A4%9C_~_Lost_Branch_of_Legend%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="460" data-file-height="215"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></div></td>
+</tr><tr><td class="label">名称</td><td colspan="2"> 东方光耀夜 ~ Lost Branch of Legend </td></tr><tr><td class="label">制作方</td><td><a class="new" title="Alioth Studio（页面不存在）">Alioth Studio</a></td><td class="cover-artwork" rowspan="8" style="min-width:224px;"><a href="./文件-东方光耀夜_~_Lost_Branch_of_Legend封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/8/81/%E4%B8%9C%E6%96%B9%E5%85%89%E8%80%80%E5%A4%9C_~_Lost_Branch_of_Legend%E5%B0%81%E9%9D%A2.jpg/224px-%E4%B8%9C%E6%96%B9%E5%85%89%E8%80%80%E5%A4%9C_~_Lost_Branch_of_Legend%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="105" srcset="https://upload.thwiki.cc/thumb/8/81/%E4%B8%9C%E6%96%B9%E5%85%89%E8%80%80%E5%A4%9C_~_Lost_Branch_of_Legend%E5%B0%81%E9%9D%A2.jpg/336px-%E4%B8%9C%E6%96%B9%E5%85%89%E8%80%80%E5%A4%9C_~_Lost_Branch_of_Legend%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/8/81/%E4%B8%9C%E6%96%B9%E5%85%89%E8%80%80%E5%A4%9C_~_Lost_Branch_of_Legend%E5%B0%81%E9%9D%A2.jpg/448px-%E4%B8%9C%E6%96%B9%E5%85%89%E8%80%80%E5%A4%9C_~_Lost_Branch_of_Legend%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="460" data-file-height="215"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></div></td>
 </tr><tr><td class="label">首发日期</td><td>2022-08-18</td></tr><tr><td class="label">类型</td><td>游戏</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">游戏人数</td><td>单人模式</td></tr><tr><td class="label">游戏类型</td><td>TAB</td></tr><tr><td class="label">运行平台</td><td>Windows</td></tr><tr><td class="label">语言</td><td>简体中文，英文，俄文，波兰文，法文，西班牙文，日文，韩文，繁体中文，葡萄牙文</td></tr><tr><td class="label">售价</td><td>98人民币</td></tr></tbody></table>
 
 东方光耀夜 ~ Lost Branch of Legend（同人游戏，Alioth Studio，2022） - 2022年8月18日 由 Alioth Studio  发布的TAB同人游戏，可在 Windows 系统上运行，游戏人数为 单人模式，分级为 一般向
-
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://store.steampowered.com/app/1140150">Steam</a></td></tr></tbody></table>
-
 
 
 <table>
@@ -37,19 +31,16 @@
 </tbody></table>
 
 
-
 ## Staff
-
   
- **Alioth Studio**   
+**Alioth Studio**  
 
 游戏设计/程序：Alice  
 
 美术指导/特效：Yutopia  
 
 程序：Salyu  
-
- **主要协力者**   
+**主要协力者**  
 
 美工：DD  
 
@@ -74,12 +65,10 @@
 场景美术：早川桃桃子  
 
 角色动画：Hujimoto、一丈、老冰辊的藤田兵器所、SAKSalad  
-
- **卡图插画**   
+**卡图插画**  
 
 tojorin、阿荣、vedjoti、breedo、DD、三折塔、老邢、灰木、和莱、五七七、尼特蠕动人、镜_Area、稀油金属、枕芯、千羽、NTE、Sana、苦露熙、地球哥哥、四動自半、纯粹致死、八鲤、失灵方程、rina、酒醉的蝴蝶、二阶堂、士气高昂之策、和莱、Zackary、早川桃桃子、理啧盐、北极背、kulomi、Dorothy、Kulomi、nice光光、AHENN、咯、小球  
-
- **鸣谢**   
+**鸣谢**  
 
 游戏原型讨论：Draco Gideon  
 
@@ -94,12 +83,10 @@ tojorin、阿荣、vedjoti、breedo、DD、三折塔、老邢、灰木、和莱�
 未呈现的美术：质谱仪、鬼鬼9669、TN千夏、江口宿桜、hcon、MR、桔桔子  
 
 音效：Noise Club  
-
- **英文本地化**   
+**英文本地化**  
 
 EggSlashEther、Reale雷耀、rareAYAYAcollector、Yutopia、Luvchan、Salyu、jimlee、Bill Roamer、AliceLast、Delta4S、奕凡、ImmortalFir  
-
- **俄语本地化**   
+**俄语本地化**  
 
 Никита Егоров  
 
@@ -110,24 +97,20 @@ Goldfish in a Red Kimono
 Salyu  
 
 Nikita Egorov  
-
- **波兰语本地化**   
+**波兰语本地化**  
 
 Robert Achtelik  
-
- **法语本地化**   
+**法语本地化**  
 
 Chirstophe VINCENT  
-
- **西班牙语本地化**   
+**西班牙语本地化**  
 
 asutnima  
 
 Kosuka  
 
 Ignacio Mardones  
-
- **日语本地化**   
+**日语本地化**  
 
 Draco Gideon  
 
@@ -148,8 +131,7 @@ Michiko Domoto
 穰静叶  
 
 KutaValley  
-
- **韩语本地化**   
+**韩语本地化**  
 
 ibisa  
 
@@ -160,14 +142,12 @@ JW. G.
 Paijes  
 
 scarf  
-
- **繁体中文本地化**   
+**繁体中文本地化**  
 
 Lvalon  
 
 Roger153  
-
- **葡萄牙语本地化**   
+**葡萄牙语本地化**  
 
 Fernando Oliveira（Boshy）  
 
@@ -178,15 +158,13 @@ Miguel Raomos
 Davi  
 
 asutnima  
-
- **原作**   
+**原作**  
 
 上海爱丽丝幻乐团
   
 
-
-
 ## 内容页面
+
 - 游戏设定与剧情 (未找到链接)
 - 攻略 (未找到链接)
 - 其他信息 (未找到链接)
@@ -195,21 +173,8 @@ asutnima
 ## 评论
 
 ## 外部链接
+
 - [Steam上的东方光耀夜 ~ Lost Branch of Legend](https://store.steampowered.com/app/1140150/__Lost_Branch_of_Legend/)
-
-  
-
-<iframe src="https://store.steampowered.com/widget/1140150/" frameborder="0" width="646" height="190" style="display: block" loading="lazy"></iframe>
-
-
-  
-  
-  
-
-  
-
-
-
 
 
 ---

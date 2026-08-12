@@ -1,6 +1,6 @@
 # 文件:TOHO_EUROBEAT_VOL.4_REMASTER封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dd\ns6%3ATOHO_EUROBEAT_VOL%2E4_REMASTER%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dd\ns6%3ATOHO_EUROBEAT_VOL%2E4_REMASTER%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 A-One | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ A-One | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [TOHO EUROBEAT VOL.4 REMASTER](./TOHO_EUROBEAT_VOL.4_REMASTER.md)  
-该封面包含的角色：- [八云紫](./八云紫.md)
-
-
-
+- [TOHO EUROBEAT VOL.4 REMASTER](./TOHO_EUROBEAT_VOL.4_REMASTER.md)该封面包含的角色：
+- [八云紫](./八云紫.md)
 
 
 ---

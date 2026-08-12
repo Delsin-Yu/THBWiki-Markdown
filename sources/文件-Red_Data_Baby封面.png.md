@@ -1,6 +1,6 @@
 # 文件:Red_Data_Baby封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d8\ns6%3ARed_Data_Baby%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d8\ns6%3ARed_Data_Baby%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 airdrop | 同人志封面 | 封面图片
 
@@ -8,11 +8,9 @@ airdrop | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Red Data Baby](./Red_Data_Baby.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
-
-
-
+- [Red Data Baby](./Red_Data_Baby.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
 
 ---

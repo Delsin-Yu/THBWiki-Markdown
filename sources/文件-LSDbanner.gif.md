@@ -1,14 +1,11 @@
 # 文件:LSDbanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f3\ns6%3ALSDbanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f3\ns6%3ALSDbanner%2Egif.html -->
 
 LSD | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

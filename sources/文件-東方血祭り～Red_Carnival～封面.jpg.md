@@ -1,6 +1,6 @@
 # 文件:東方血祭り～Red_Carnival～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d0\ns6%3A%E6%9D%B1%E6%96%B9%E8%A1%80%E7%A5%AD%E3%82%8A%EF%BD%9ERed_Carnival%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d0\ns6%3A%E6%9D%B1%E6%96%B9%E8%A1%80%E7%A5%AD%E3%82%8A%EF%BD%9ERed_Carnival%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 RED_BIRD | 专辑封面 | 封面图片 | 舌打カーニバル
 
@@ -8,11 +8,8 @@ RED_BIRD | 专辑封面 | 封面图片 | 舌打カーニバル
 使用了本文件作封面图片的作品：
   
 
-- [東方血祭り～Red Carnival～](./東方血祭り～Red_Carnival～.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)
-
-
-
+- [東方血祭り～Red Carnival～](./東方血祭り～Red_Carnival～.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
 
 
 ---

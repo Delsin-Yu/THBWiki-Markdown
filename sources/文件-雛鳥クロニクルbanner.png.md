@@ -1,14 +1,11 @@
 # 文件:雛鳥クロニクルbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\09\ns6%3A%E9%9B%9B%E9%B3%A5%E3%82%AF%E3%83%AD%E3%83%8B%E3%82%AF%E3%83%ABbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\09\ns6%3A%E9%9B%9B%E9%B3%A5%E3%82%AF%E3%83%AD%E3%83%8B%E3%82%AF%E3%83%ABbanner%2Epng.html -->
 
 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

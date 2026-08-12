@@ -1,12 +1,8 @@
 # 文件:The_Legend_of_KAGE.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ee\ns6%3AThe_Legend_of_KAGE%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ee\ns6%3AThe_Legend_of_KAGE%2Emp3.html -->
 
 The_Legend_of_KAGE | 东方灵异传 | 原曲MP3
-
-
-
-
 
 
 ---

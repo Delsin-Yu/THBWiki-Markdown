@@ -1,6 +1,6 @@
 # 文件:Snowdrop（アオイツキヲミテタ）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a0\ns6%3ASnowdrop%EF%BC%88%E3%82%A2%E3%82%AA%E3%82%A4%E3%83%84%E3%82%AD%E3%83%B2%E3%83%9F%E3%83%86%E3%82%BF%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a0\ns6%3ASnowdrop%EF%BC%88%E3%82%A2%E3%82%AA%E3%82%A4%E3%83%84%E3%82%AD%E3%83%B2%E3%83%9F%E3%83%86%E3%82%BF%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 アオイツキヲミテタ | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@
   
 
 - [Snowdrop（アオイツキヲミテタ）](./Snowdrop（アオイツキヲミテタ）.md)
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:If_I_Make_It_Through_The_Hell,_You're_Just_Still_Here.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\89\ns6%3AIf_I_Make_It_Through_The_Hell%2C_You%27re_Just_Still_Here%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\89\ns6%3AIf_I_Make_It_Through_The_Hell%2C_You%27re_Just_Still_Here%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Micazuki-Mo | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@ Micazuki-Mo | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [If I Make It Through The Hell, You're Just Still Here.](./If_I_Make_It_Through_The_Hell,_You're_Just_Still_Here..md)  
-该封面包含的角色：- [吉吊八千慧](./吉吊八千慧.md)
+- [If I Make It Through The Hell, You're Just Still Here.](./If_I_Make_It_Through_The_Hell,_You're_Just_Still_Here..md)该封面包含的角色：
+- [吉吊八千慧](./吉吊八千慧.md)
 
   
-源地址：[direct image link (original size)](https://pbs.twimg.com/media/EjU0ipkU8AEf6GJ?format=jpg&amp;name=orig), [source tweet](https://twitter.com/fore_seiga/status/1312014539571912705)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://pbs.twimg.com/media/EjU0ipkU8AEf6GJ?format=jpg&name=orig), [source tweet](https://twitter.com/fore_seiga/status/1312014539571912705)  
 
 ---
 

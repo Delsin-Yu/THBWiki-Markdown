@@ -1,16 +1,12 @@
 # 模板:JAM★REVO
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\c\c0\ns10%3AJAM%E2%98%85REVO.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\c\c0\ns10%3AJAM%E2%98%85REVO.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

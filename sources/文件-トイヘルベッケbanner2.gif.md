@@ -1,12 +1,8 @@
 # 文件:トイヘルベッケbanner2.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\61\ns6%3A%E3%83%88%E3%82%A4%E3%83%98%E3%83%AB%E3%83%99%E3%83%83%E3%82%B1banner2%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\61\ns6%3A%E3%83%88%E3%82%A4%E3%83%98%E3%83%AB%E3%83%99%E3%83%83%E3%82%B1banner2%2Egif.html -->
 
 トイヘルベッケ | 社团LOGO
-
-
-
-
 
 
 ---

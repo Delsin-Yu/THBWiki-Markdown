@@ -1,14 +1,11 @@
 # 文件:Analyze_-banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\60\ns6%3AAnalyze_-banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\60\ns6%3AAnalyze_-banner%2Epng.html -->
 
 Analyze_- | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

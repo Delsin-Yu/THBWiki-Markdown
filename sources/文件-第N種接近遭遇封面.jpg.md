@@ -1,6 +1,6 @@
 # 文件:第N種接近遭遇封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0e\ns6%3A%E7%AC%ACN%E7%A8%AE%E6%8E%A5%E8%BF%91%E9%81%AD%E9%81%87%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0e\ns6%3A%E7%AC%ACN%E7%A8%AE%E6%8E%A5%E8%BF%91%E9%81%AD%E9%81%87%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 黒豆屋
 
@@ -10,11 +10,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [第N種接近遭遇](./第N種接近遭遇.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)- [封兽鵺](./封兽鵺.md)
-
-
-
+- [第N種接近遭遇](./第N種接近遭遇.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
+- [封兽鵺](./封兽鵺.md)
 
 
 ---

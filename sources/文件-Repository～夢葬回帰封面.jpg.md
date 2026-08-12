@@ -1,6 +1,6 @@
 # 文件:Repository～夢葬回帰封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3e\ns6%3ARepository%EF%BD%9E%E5%A4%A2%E8%91%AC%E5%9B%9E%E5%B8%B0%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3e\ns6%3ARepository%EF%BD%9E%E5%A4%A2%E8%91%AC%E5%9B%9E%E5%B8%B0%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Re：Volte | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Re：Volte | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Repository～夢葬回帰](./Repository～夢葬回帰.md)  
-该封面包含的角色：- [西行寺幽幽子](./西行寺幽幽子.md)
-
-
-
+- [Repository～夢葬回帰](./Repository～夢葬回帰.md)该封面包含的角色：
+- [西行寺幽幽子](./西行寺幽幽子.md)
 
 
 ---

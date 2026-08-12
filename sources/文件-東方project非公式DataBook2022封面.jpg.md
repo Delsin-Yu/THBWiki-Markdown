@@ -1,6 +1,6 @@
 # 文件:東方project非公式DataBook2022封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2d\ns6%3A%E6%9D%B1%E6%96%B9project%E9%9D%9E%E5%85%AC%E5%BC%8FDataBook2022%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2d\ns6%3A%E6%9D%B1%E6%96%B9project%E9%9D%9E%E5%85%AC%E5%BC%8FDataBook2022%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 胡玉書厨
 
@@ -10,16 +10,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方project非公式DataBook2022](./東方project非公式DataBook2022.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [東方project非公式DataBook2022](./東方project非公式DataBook2022.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
   
-源地址：[direct image link (original size)](https://pbs.twimg.com/media/FdnmFVLVsAEMxSY?format=jpg&amp;name=orig), [source tweet](https://twitter.com/kanseiyu/status/1574543450086645761)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://pbs.twimg.com/media/FdnmFVLVsAEMxSY?format=jpg&name=orig), [source tweet](https://twitter.com/kanseiyu/status/1574543450086645761)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:colour封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5e\ns6%3Acolour%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5e\ns6%3Acolour%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Polychrome | 同人志封面 | 封面图片
 
@@ -10,16 +10,18 @@ Polychrome | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [colour](./colour.md)  
-该封面包含的角色：- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [键山雏](./键山雏.md)- [洩矢诹访子](./洩矢诹访子.md)- [古明地恋](./古明地恋.md)- [本居小铃](./本居小铃.md)
+- [colour](./colour.md)该封面包含的角色：
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [键山雏](./键山雏.md)
+- [洩矢诹访子](./洩矢诹访子.md)
+- [古明地恋](./古明地恋.md)
+- [本居小铃](./本居小铃.md)
 
   
-[Pixiv artwork ID: 42508655 (original size)](https://www.pixiv.net/artworks/42508655)
-  
-
-
-
-
+[Pixiv artwork ID: 42508655 (original size)](https://www.pixiv.net/artworks/42508655)  
 
 ---
 

@@ -1,12 +1,11 @@
 # Satellite_Iced_Coffee
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\9\98\ns0%3ASatellite_Iced_Coffee.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\9\98\ns0%3ASatellite_Iced_Coffee.html -->
 
 2020年7月31日 由 Yumi Sakata  发布的单曲同人专辑，曲目主要风格是 Rock、金属，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人专辑 (未找到链接)** 的词条
-
+**[二次创作同人专辑](./二次创作.md#同人音乐)**的词条
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Satellite_Iced_Coffee封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/4/46/Satellite_Iced_Coffee%E5%B0%81%E9%9D%A2.jpg/252px-Satellite_Iced_Coffee%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="252" height="252" srcset="https://upload.thwiki.cc/thumb/4/46/Satellite_Iced_Coffee%E5%B0%81%E9%9D%A2.jpg/378px-Satellite_Iced_Coffee%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/4/46/Satellite_Iced_Coffee%E5%B0%81%E9%9D%A2.jpg/504px-Satellite_Iced_Coffee%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1200" data-file-height="1200"></a><div class="cover-char">角色：<a href="./玛艾露贝莉·赫恩.md" title="玛艾露贝莉·赫恩">玛艾露贝莉·赫恩</a>，<a href="./宇佐见莲子.md" title="宇佐见莲子">宇佐见莲子</a></div></td>
@@ -15,22 +14,19 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.instagram.com/p/CDStnNiAcSs/">https://www.instagram.com/p/CDStnNiAcSs/</a></td></tr></tbody></table>
 
 Satellite Iced Coffee（同人专辑，Yumi Sakata，2020） - 2020年7月31日 由 Yumi Sakata  发布的单曲同人专辑，曲目主要风格是 Rock、金属，分级为 一般向
-
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://yumisakata.bandcamp.com/track/satellite-iced-coffee">bandcamp</a></td></tr></tbody></table>
-
 
 
 ## Staff
   
- **Arrangement**   
+**Arrangement**  
 
 <table><tbody><tr><td><a href="./Yumi_Sakata.md" title="Yumi Sakata">Yumi Sakata</a></td><td></td><td>Tr.1</td></tr></tbody></table>
 
   
- **Instrument**   
+**Instrument**  
 
 <table><tbody><tr><td><a href="./Yumi_Sakata.md" title="Yumi Sakata">Yumi Sakata</a></td><td></td><td>Tr.1</td></tr></tbody></table>
-
 
 
 ## 试听
@@ -45,22 +41,12 @@ Satellite Iced Coffee（同人专辑，Yumi Sakata，2020） - 2020年7月31日 
 </td></tr></tbody></table>
 
 
-  
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/867596542&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=false"></iframe>
-
-  
-
-
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Satellite_Iced_Coffee" colspan="2" class="title">Satellite Iced Coffee<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Yumi Sakata&amp;ogmusic=衛星カフェテラス&amp;fromwiki=Satellite_Iced_Coffee"><span title="搜索相似同人曲"></span></a></span></td><td class="time">05:58</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Yumi_Sakata.md" title="Yumi Sakata">Yumi Sakata</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Yumi Sakata&amp;fromwiki=Satellite_Iced_Coffee"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演奏</td><td class="text" colspan="2">Guitar：<a href="./Yumi_Sakata.md" title="Yumi Sakata">Yumi Sakata</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=衛星カフェテラス&amp;fromwiki=Satellite_Iced_Coffee"><span></span></a></span><div class="ogmusic"><a href="./衛星カフェテラス.md" class="mw-redirect" title="衛星カフェテラス">衛星カフェテラス</a></div><div class="source"><a href="./大空魔术_～_Magical_Astronomy.md" class="mw-redirect" title="大空魔术 ～ Magical Astronomy">大空魔术　～ Magical Astronomy</a></div></td></tr></tbody></table>
-
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Satellite_Iced_Coffee" colspan="2" class="title">Satellite Iced Coffee</td><td class="time">05:58</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Yumi_Sakata.md" title="Yumi Sakata">Yumi Sakata</a></td></tr><tr><td class="left"></td><td class="label">演奏</td><td class="text" colspan="2">Guitar：<a href="./Yumi_Sakata.md" title="Yumi Sakata">Yumi Sakata</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./卫星露天咖啡座.md" class="mw-redirect" title="衛星カフェテラス">衛星カフェテラス</a></div><div class="source"><a href="./大空魔术.md" class="mw-redirect" title="大空魔术 ～ Magical Astronomy">大空魔术　～ Magical Astronomy</a></div></td></tr></tbody></table>
 
 
 ## 评论
-
-
-
 
 ---
 

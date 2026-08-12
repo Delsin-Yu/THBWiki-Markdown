@@ -1,12 +1,8 @@
 # 文件:end2.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e5\ns6%3Aend2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e5\ns6%3Aend2%2Epng.html -->
 
 NOT_INK_FELL
-
-
-
-
 
 
 ---

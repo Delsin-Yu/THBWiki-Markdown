@@ -1,6 +1,6 @@
 # 文件:幻想反演量子论~The_Spirit_of_Science封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3a\ns6%3A%E5%B9%BB%E6%83%B3%E5%8F%8D%E6%BC%94%E9%87%8F%E5%AD%90%E8%AE%BA%7EThe_Spirit_of_Science%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3a\ns6%3A%E5%B9%BB%E6%83%B3%E5%8F%8D%E6%BC%94%E9%87%8F%E5%AD%90%E8%AE%BA%7EThe_Spirit_of_Science%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 东方黑历史复兴委员会 | 同人志封面 | 封面图片 | 永动之龛
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [幻想反演量子论~The Spirit of Science](./幻想反演量子论~The_Spirit_of_Science.md)  
-该封面包含的角色：- [冈崎梦美](./冈崎梦美.md)
-
-
-
+- [幻想反演量子论~The Spirit of Science](./幻想反演量子论~The_Spirit_of_Science.md)该封面包含的角色：
+- [冈崎梦美](./冈崎梦美.md)
 
 
 ---

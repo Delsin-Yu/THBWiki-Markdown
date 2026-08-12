@@ -1,12 +1,8 @@
 # 文件:Alice手工坊banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ef\ns6%3AAlice%E6%89%8B%E5%B7%A5%E5%9D%8Abanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ef\ns6%3AAlice%E6%89%8B%E5%B7%A5%E5%9D%8Abanner%2Ejpg.html -->
 
 Alice手工坊 | 社团LOGO
-
-
-
-
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:雾雨魔理沙（噩梦日记立绘）no.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\95\ns6%3A%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%EF%BC%88%E5%99%A9%E6%A2%A6%E6%97%A5%E8%AE%B0%E7%AB%8B%E7%BB%98%EF%BC%89no%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\95\ns6%3A%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%EF%BC%88%E5%99%A9%E6%A2%A6%E6%97%A5%E8%AE%B0%E7%AB%8B%E7%BB%98%EF%BC%89no%2Epng.html -->
 
 ZUN绘 | 官方游戏立绘 | 秘封噩梦日记 | 雾雨魔理沙
-
-
-
-
 
 
 ---

@@ -1,14 +1,11 @@
 # 文件:すずだんごlogo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\10\ns6%3A%E3%81%99%E3%81%9A%E3%81%A0%E3%82%93%E3%81%94logo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\10\ns6%3A%E3%81%99%E3%81%9A%E3%81%A0%E3%82%93%E3%81%94logo%2Epng.html -->
 
 すずだんご | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

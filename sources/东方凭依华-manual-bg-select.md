@@ -1,39 +1,33 @@
 # 东方凭依华/manual/bg-select
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\68\ns0%3A%E4%B8%9C%E6%96%B9%E5%87%AD%E4%BE%9D%E5%8D%8E%2Fmanual%2Fbg-select.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\68\ns0%3A%E4%B8%9C%E6%96%B9%E5%87%AD%E4%BE%9D%E5%8D%8E%2Fmanual%2Fbg-select.html -->
 
 东方凭依华
+
 
 - 来自[黄昏边境官方网站](http://tasofro.net/touhou155/manual/bg-select.html)的ONLINE MANUAL背景・音乐选择画面操作页面。
 
 <center>
-
 <table>
 <tbody><tr>
-<td>&lt;
+<td><
 </td>
-<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./东方凭依华-manual-chara-select.md" title="东方凭依华/manual/chara-select">人物选择画面操作</a>&#160;
+<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./东方凭依华-manual-chara-select.md" title="东方凭依华/manual/chara-select">人物选择画面操作</a> 
 </td>
-<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="./东方凭依华-manual.md" title="东方凭依华/manual">Manual目录</a>&#160;
+<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;"> <a href="./东方凭依华-manual.md" title="东方凭依华/manual">Manual目录</a> 
 </td>
-<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left">&#160;<a href="./东方凭依华-manual-story-select.md" title="东方凭依华/manual/story-select">故事选择画面</a>
+<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left"> <a href="./东方凭依华-manual-story-select.md" title="东方凭依华/manual/story-select">故事选择画面</a>
 </td>
-<td>&gt;
+<td>>
 </td></tr></tbody></table>
 
   
-</center>
-[](./文件-东方凭依华OnlineManual_back_select.jpg.md)
+</center><img alt="东方凭依华OnlineManual back select.jpg" src="https://upload.thwiki.cc/thumb/9/95/%E4%B8%9C%E6%96%B9%E5%87%AD%E4%BE%9D%E5%8D%8EOnlineManual_back_select.jpg/400px-%E4%B8%9C%E6%96%B9%E5%87%AD%E4%BE%9D%E5%8D%8EOnlineManual_back_select.jpg" decoding="async" loading="lazy" width="400" height="225" srcset="https://upload.thwiki.cc/thumb/9/95/%E4%B8%9C%E6%96%B9%E5%87%AD%E4%BE%9D%E5%8D%8EOnlineManual_back_select.jpg/600px-%E4%B8%9C%E6%96%B9%E5%87%AD%E4%BE%9D%E5%8D%8EOnlineManual_back_select.jpg 1.5x, https://upload.thwiki.cc/9/95/%E4%B8%9C%E6%96%B9%E5%87%AD%E4%BE%9D%E5%8D%8EOnlineManual_back_select.jpg 2x" data-file-width="720" data-file-height="405">
   
 按上下键选择战场背景，部分背景可以按下按键3来切换其他视角场景  
 
 按上下键选择背景音乐，可以按下按键3来切换曲目表  
-
   
-
-
-
-
 
 ---
 

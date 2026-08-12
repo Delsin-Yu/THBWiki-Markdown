@@ -1,6 +1,6 @@
 # 文件:missing_-鬼が見る夢-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f5\ns6%3Amissing_-%E9%AC%BC%E3%81%8C%E8%A6%8B%E3%82%8B%E5%A4%A2-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f5\ns6%3Amissing_-%E9%AC%BC%E3%81%8C%E8%A6%8B%E3%82%8B%E5%A4%A2-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Trinity_Note | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Trinity_Note | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [missing -鬼が見る夢-](./missing_-鬼が見る夢-.md)  
-该封面包含的角色：- [伊吹萃香](./伊吹萃香.md)
+- [missing -鬼が見る夢-](./missing_-鬼が見る夢-.md)该封面包含的角色：
+- [伊吹萃香](./伊吹萃香.md)
 
   
-源地址：[[1]](http://trinitynote.com/missing/img-size01.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://trinitynote.com/missing/img-size01.jpg)  
 
 ---
 

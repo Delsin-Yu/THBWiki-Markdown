@@ -1,14 +1,11 @@
 # 文件:Golden_Pe_Done_banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ac\ns6%3AGolden_Pe_Done_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ac\ns6%3AGolden_Pe_Done_banner%2Ejpg.html -->
 
 Golden_Pe_Done | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

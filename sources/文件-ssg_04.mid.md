@@ -1,16 +1,12 @@
 # 文件:ssg_04.mid
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\ba\ns6%3Assg_04%2Emid.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\ba\ns6%3Assg_04%2Emid.html -->
 
 东方幻想的音乐 | 官方MIDI | 幻想帝都 | 秋霜玉
 
   
 幻想帝都 秋霜玉2面道中主题曲。 东方的幻想音乐版，与原秋霜玉版本有出入！
   
-
-
-
-
 
 ---
 

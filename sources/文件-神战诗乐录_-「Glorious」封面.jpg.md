@@ -1,6 +1,6 @@
 # 文件:神战诗乐录_-「Glorious」封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a5\ns6%3A%E7%A5%9E%E6%88%98%E8%AF%97%E4%B9%90%E5%BD%95_-%E3%80%8CGlorious%E3%80%8D%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a5\ns6%3A%E7%A5%9E%E6%88%98%E8%AF%97%E4%B9%90%E5%BD%95_-%E3%80%8CGlorious%E3%80%8D%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 梦现彼岸结界社
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [神战诗乐录 -「Glorious」](./神战诗乐录_-「Glorious」.md)  
-该封面包含的角色：- [砂砾籽](./砂砾籽.md)- [无耳](./无耳.md)
-
-
-
+- [神战诗乐录 -「Glorious」](./神战诗乐录_-「Glorious」.md)该封面包含的角色：
+- [砂砾籽](./砂砾籽.md)
+- [无耳](./无耳.md)
 
 
 ---

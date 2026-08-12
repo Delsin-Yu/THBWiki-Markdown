@@ -1,14 +1,11 @@
 # 文件:自由という名の孤独_-one_and_lonely-封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c5\ns6%3A%E8%87%AA%E7%94%B1%E3%81%A8%E3%81%84%E3%81%86%E5%90%8D%E3%81%AE%E5%AD%A4%E7%8B%AC_-one_and_lonely-%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c5\ns6%3A%E8%87%AA%E7%94%B1%E3%81%A8%E3%81%84%E3%81%86%E5%90%8D%E3%81%AE%E5%AD%A4%E7%8B%AC_-one_and_lonely-%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 マスカルポーネ | 专辑封面 | 封面图片
 
 
 ## 摘要
-
-
-
 
 ---
 

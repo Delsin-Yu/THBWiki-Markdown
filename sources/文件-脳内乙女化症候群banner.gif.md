@@ -1,12 +1,8 @@
 # 文件:脳内乙女化症候群banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\48\ns6%3A%E8%84%B3%E5%86%85%E4%B9%99%E5%A5%B3%E5%8C%96%E7%97%87%E5%80%99%E7%BE%A4banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\48\ns6%3A%E8%84%B3%E5%86%85%E4%B9%99%E5%A5%B3%E5%8C%96%E7%97%87%E5%80%99%E7%BE%A4banner%2Egif.html -->
 
 社团LOGO | 脳内乙女化症候群
-
-
-
-
 
 
 ---

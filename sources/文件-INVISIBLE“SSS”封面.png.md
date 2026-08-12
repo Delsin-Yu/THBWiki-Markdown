@@ -1,6 +1,6 @@
 # 文件:INVISIBLE“SSS”封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e4\ns6%3AINVISIBLE%E2%80%9CSSS%E2%80%9D%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e4\ns6%3AINVISIBLE%E2%80%9CSSS%E2%80%9D%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 同人志封面 | 封面图片 | 朱山羊サクリファイス
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [INVISIBLE“SSS”](./INVISIBLE“SSS”.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
-
-
-
+- [INVISIBLE“SSS”](./INVISIBLE“SSS”.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
 
 ---

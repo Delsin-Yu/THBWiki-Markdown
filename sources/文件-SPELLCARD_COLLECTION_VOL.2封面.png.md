@@ -1,6 +1,6 @@
 # 文件:SPELLCARD_COLLECTION_VOL.2封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\63\ns6%3ASPELLCARD_COLLECTION_VOL%2E2%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\63\ns6%3ASPELLCARD_COLLECTION_VOL%2E2%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 こねこすけ | ちょこふぁん | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [SPELLCARD COLLECTION VOL.2](./SPELLCARD_COLLECTION_VOL.2.md)  
-该封面包含的角色：- [娜兹玲](./娜兹玲.md)
-
-
-
+- [SPELLCARD COLLECTION VOL.2](./SPELLCARD_COLLECTION_VOL.2.md)该封面包含的角色：
+- [娜兹玲](./娜兹玲.md)
 
 
 ---

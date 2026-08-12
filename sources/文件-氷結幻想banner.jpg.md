@@ -1,12 +1,8 @@
 # 文件:氷結幻想banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\83\ns6%3A%E6%B0%B7%E7%B5%90%E5%B9%BB%E6%83%B3banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\83\ns6%3A%E6%B0%B7%E7%B5%90%E5%B9%BB%E6%83%B3banner%2Ejpg.html -->
 
 氷結幻想 | 社团LOGO
-
-
-
-
 
 
 ---

@@ -1,29 +1,29 @@
 # 东方凭依华/manual
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\5\53\ns0%3A%E4%B8%9C%E6%96%B9%E5%87%AD%E4%BE%9D%E5%8D%8E%2Fmanual.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\5\53\ns0%3A%E4%B8%9C%E6%96%B9%E5%87%AD%E4%BE%9D%E5%8D%8E%2Fmanual.html -->
 
 东方凭依华
+
 
 - 来自[黄昏边境官方网站](http://tasofro.net/touhou155/manual/index.html)的ONLINE MANUAL目录页面。
 
 <center>
-
 <table>
 <tbody><tr>
 <td>
 </td>
 <td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right">
 </td>
-<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a class="mw-selflink selflink">Manual目录</a>&#160;
+<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;"> <a class="mw-selflink selflink">Manual目录</a> 
 </td>
-<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left">&#160;<a href="./东方凭依华-manual-pre-story.md" title="东方凭依华/manual/pre-story">故事概要</a>
+<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left"> <a href="./东方凭依华-manual-pre-story.md" title="东方凭依华/manual/pre-story">故事概要</a>
 </td>
-<td>&gt;
+<td>>
 </td></tr></tbody></table>
 
   
-</center>
-[](./文件-东方凭依华OnlineManual_capsule_main.jpg.md)
+</center><img alt="东方凭依华OnlineManual capsule main.jpg" src="https://upload.thwiki.cc/thumb/9/9d/%E4%B8%9C%E6%96%B9%E5%87%AD%E4%BE%9D%E5%8D%8EOnlineManual_capsule_main.jpg/400px-%E4%B8%9C%E6%96%B9%E5%87%AD%E4%BE%9D%E5%8D%8EOnlineManual_capsule_main.jpg" decoding="async" loading="lazy" width="400" height="229" srcset="https://upload.thwiki.cc/thumb/9/9d/%E4%B8%9C%E6%96%B9%E5%87%AD%E4%BE%9D%E5%8D%8EOnlineManual_capsule_main.jpg/600px-%E4%B8%9C%E6%96%B9%E5%87%AD%E4%BE%9D%E5%8D%8EOnlineManual_capsule_main.jpg 1.5x, https://upload.thwiki.cc/9/9d/%E4%B8%9C%E6%96%B9%E5%87%AD%E4%BE%9D%E5%8D%8EOnlineManual_capsule_main.jpg 2x" data-file-width="616" data-file-height="353">
+
 - [故事概要](./东方凭依华-manual-pre-story.md)
 - [基本操作](./东方凭依华-manual-basic.md)
 - [标题画面操作](./东方凭依华-manual-title.md)
@@ -39,9 +39,6 @@
 - [Config](./东方凭依华-manual-config.md)
 - [各个角色的技能表](./东方凭依华-manual-chara.md)
 - [License](./东方凭依华-manual-credit.md)
-
-
-
 
 
 ---

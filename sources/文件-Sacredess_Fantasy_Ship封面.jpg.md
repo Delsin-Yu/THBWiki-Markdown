@@ -1,6 +1,6 @@
 # 文件:Sacredess_Fantasy_Ship封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7f\ns6%3ASacredess_Fantasy_Ship%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7f\ns6%3ASacredess_Fantasy_Ship%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 音召缶
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [Sacredess Fantasy Ship](./Sacredess_Fantasy_Ship.md)  
-该封面包含的角色：- [娜兹玲](./娜兹玲.md)- [村纱水蜜](./村纱水蜜.md)
-
-
-
+- [Sacredess Fantasy Ship](./Sacredess_Fantasy_Ship.md)该封面包含的角色：
+- [娜兹玲](./娜兹玲.md)
+- [村纱水蜜](./村纱水蜜.md)
 
 
 ---

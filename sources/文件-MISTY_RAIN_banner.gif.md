@@ -1,12 +1,8 @@
 # 文件:MISTY_RAIN_banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\61\ns6%3AMISTY_RAIN_banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\61\ns6%3AMISTY_RAIN_banner%2Egif.html -->
 
 MISTY_RAIN | 社团LOGO
-
-
-
-
 
 
 ---

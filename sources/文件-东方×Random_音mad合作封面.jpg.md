@@ -1,6 +1,6 @@
 # 文件:东方×Random_音mad合作封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cf\ns6%3A%E4%B8%9C%E6%96%B9%C3%97Random_%E9%9F%B3mad%E5%90%88%E4%BD%9C%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cf\ns6%3A%E4%B8%9C%E6%96%B9%C3%97Random_%E9%9F%B3mad%E5%90%88%E4%BD%9C%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Pastaland同人社 | 封面图片 | 视频封面
 
@@ -11,9 +11,6 @@ Pastaland同人社 | 封面图片 | 视频封面
   
 
 - [东方×Random 音mad合作](./东方×Random_音mad合作.md)
-
-
-
 
 
 ---

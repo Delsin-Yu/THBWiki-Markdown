@@ -1,6 +1,6 @@
 # 文件:Lunatic_Break封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\df\ns6%3ALunatic_Break%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\df\ns6%3ALunatic_Break%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 BlackEditionFX | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@ BlackEditionFX | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Lunatic Break](./Lunatic_Break.md)  
-该封面包含的角色：- [灵乌路空](./灵乌路空.md)
+- [Lunatic Break](./Lunatic_Break.md)该封面包含的角色：
+- [灵乌路空](./灵乌路空.md)
 
   
-源地址：[direct image link (original size)](https://pbs.twimg.com/media/B2t-iVjCQAEQJaA?format=png&amp;name=orig), [source tweet](https://twitter.com/i/web/status/534660110795022336)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://pbs.twimg.com/media/B2t-iVjCQAEQJaA?format=png&name=orig), [source tweet](https://twitter.com/i/web/status/534660110795022336)  
 
 ---
 

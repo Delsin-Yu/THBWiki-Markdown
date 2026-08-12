@@ -1,12 +1,11 @@
 # WITHIN_EP
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\3\37\ns0%3AWITHIN_EP.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\3\37\ns0%3AWITHIN_EP.html -->
 
 2020年1月30日 由 求める者  发布的EP同人专辑，曲目主要风格是 Rock，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人专辑 (未找到链接)** 的词条
-
+**[二次创作同人专辑](./二次创作.md#同人音乐)**的词条
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-WITHIN_EP封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/9/97/WITHIN_EP%E5%B0%81%E9%9D%A2.jpg/252px-WITHIN_EP%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="252" height="252" srcset="https://upload.thwiki.cc/thumb/9/97/WITHIN_EP%E5%B0%81%E9%9D%A2.jpg/378px-WITHIN_EP%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/9/97/WITHIN_EP%E5%B0%81%E9%9D%A2.jpg/504px-WITHIN_EP%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1200" data-file-height="1200"></a><div class="cover-char">角色：<a href="./米斯蒂娅·萝蕾拉.md" title="米斯蒂娅·萝蕾拉">米斯蒂娅·萝蕾拉</a>，<a href="./幽谷响子.md" title="幽谷响子">幽谷响子</a></div></td>
@@ -15,42 +14,37 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://motomerumono.bandcamp.com/album/within-ep">https://motomerumono.bandcamp.com/album/within-ep</a></td></tr></tbody></table>
 
 WITHIN EP（同人专辑，求める者，2020） - 2020年1月30日 由 求める者  发布的EP同人专辑，曲目主要风格是 Rock，分级为 一般向
-
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://motomerumono.bandcamp.com/album/within-ep">bandcamp</a></td></tr></tbody></table>
-
 
 
 ## Staff
   
- **Arrangement**   
+**Arrangement**  
 
-<table><tbody><tr><td><a href="/index.php?title=%E3%81%84%E3%81%AE%E3%82%A6%E3%82%A7&amp;action=edit&amp;redlink=1" class="new" title="いのウェ（页面不存在）">いのウェ</a></td><td></td><td>Tr.1/2</td></tr></tbody></table>
-
-  
- **Vocal**   
-
-<table><tbody><tr><td><a href="/index.php?title=%E3%81%84%E3%81%AE%E3%82%A6%E3%82%A7&amp;action=edit&amp;redlink=1" class="new" title="いのウェ（页面不存在）">いのウェ</a></td><td></td><td>Tr.1/2</td></tr></tbody></table>
+<table><tbody><tr><td><a class="new" title="いのウェ（页面不存在）">いのウェ</a></td><td></td><td>Tr.1/2</td></tr></tbody></table>
 
   
- **Lyrics**   
+**Vocal**  
 
-<table><tbody><tr><td><a href="/index.php?title=%E3%81%84%E3%81%AE%E3%82%A6%E3%82%A7&amp;action=edit&amp;redlink=1" class="new" title="いのウェ（页面不存在）">いのウェ</a></td><td></td><td>Tr.1/2</td></tr></tbody></table>
+<table><tbody><tr><td><a class="new" title="いのウェ（页面不存在）">いのウェ</a></td><td></td><td>Tr.1/2</td></tr></tbody></table>
 
   
- **Instrument**   
+**Lyrics**  
 
-<table><tbody><tr><td><a href="/index.php?title=%E8%BF%B7%E3%81%84%E3%81%AE%E3%82%A6%E3%82%A7&amp;action=edit&amp;redlink=1" class="new" title="迷いのウェ（页面不存在）">迷いのウェ</a></td><td><a href="./求める者.md" title="求める者">求める者</a></td><td>Tr.1/2</td></tr></tbody></table>
+<table><tbody><tr><td><a class="new" title="いのウェ（页面不存在）">いのウェ</a></td><td></td><td>Tr.1/2</td></tr></tbody></table>
 
+  
+**Instrument**  
+
+<table><tbody><tr><td><a class="new" title="迷いのウェ（页面不存在）">迷いのウェ</a></td><td><a href="./求める者.md" title="求める者">求める者</a></td><td>Tr.1/2</td></tr></tbody></table>
 
 Drum Programming, Mixing, Cover Art
 : 迷いのウェ
 
-
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoRD"><b>01</b></td><td id="Blind_to_the_Light_(中身ハ何ナノカ_眩シイノカ_虚シイノカ)" colspan="2" class="title"><a href="./歌词-Blind_to_the_Light_(中身ハ何ナノカ_眩シイノカ_虚シイノカ).md" title="歌词:Blind to the Light (中身ハ何ナノカ 眩シイノカ 虚シイノカ)">Blind to the Light (中身ハ何ナノカ　眩シイノカ　虚シイノカ)</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=いのウェ&amp;vocal=いのウェ&amp;lyric=いのウェ&amp;ogmusic=もう歌しか聞こえない，ゴーストリード，幻視の夜　～ Ghostly Eyes&amp;fromwiki=WITHIN_EP"><span title="搜索相似同人曲"></span></a></span></td><td class="time">02:48</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E3%81%84%E3%81%AE%E3%82%A6%E3%82%A7&amp;action=edit&amp;redlink=1" class="new" title="いのウェ（页面不存在）">いのウェ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，いのウェ&amp;fromwiki=WITHIN_EP"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="/index.php?title=%E3%81%84%E3%81%AE%E3%82%A6%E3%82%A7&amp;action=edit&amp;redlink=1" class="new" title="いのウェ（页面不存在）">いのウェ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=いのウェ&amp;fromwiki=WITHIN_EP"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="/index.php?title=%E3%81%84%E3%81%AE%E3%82%A6%E3%82%A7&amp;action=edit&amp;redlink=1" class="new" title="いのウェ（页面不存在）">いのウェ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?lyric=いのウェ&amp;fromwiki=WITHIN_EP"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演奏</td><td class="text" colspan="2">Guitar：迷いのウェ <br>Bass：迷いのウェ <br>Percussion：迷いのウェ</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=もう歌しか聞こえない，ゴーストリード，幻視の夜　～ Ghostly Eyes&amp;fromwiki=WITHIN_EP"><span></span></a></span><div class="ogmusic"><a href="./もう歌しか聞こえない.md" class="mw-redirect" title="もう歌しか聞こえない">もう歌しか聞こえない</a></div><div class="source"><a href="./东方永夜抄_～_Imperishable_Night..md" class="mw-redirect" title="东方永夜抄 ～ Imperishable Night.">东方永夜抄　～ Imperishable Night.</a></div><hr><div class="ogmusic"><a href="./ゴーストリード.md" class="mw-redirect" title="ゴーストリード">ゴーストリード</a></div><div class="source"><a href="./东方神灵庙_～_Ten_Desires..md" class="mw-redirect" title="东方神灵庙 ～ Ten Desires.">东方神灵庙　～ Ten Desires.</a></div><hr><div class="ogmusic"><a href="./幻視の夜_～_Ghostly_Eyes.md" class="mw-redirect" title="幻視の夜 ～ Ghostly Eyes">幻視の夜　～ Ghostly Eyes</a></div><div class="source"><a href="./东方永夜抄_～_Imperishable_Night..md" class="mw-redirect" title="东方永夜抄 ～ Imperishable Night.">东方永夜抄　～ Imperishable Night.</a></div></td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">友達は大切ですよ。褒めて、助けて、抱いて。大切にしないとどうなるか、分かるの？その絆を…</td></tr>
-<tr><td id="2" class="infoRD"><b>02</b></td><td id="青春_(I_Still_Remember)" colspan="2" class="title"><a href="./歌词-青春_(I_Still_Remember).md" title="歌词:青春 (I Still Remember)">青春 (I Still Remember)</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=いのウェ&amp;vocal=いのウェ&amp;lyric=いのウェ&amp;ogmusic=幻想の永遠祭，トロヤ群の密林&amp;fromwiki=WITHIN_EP"><span title="搜索相似同人曲"></span></a></span></td><td class="time">02:56</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E3%81%84%E3%81%AE%E3%82%A6%E3%82%A7&amp;action=edit&amp;redlink=1" class="new" title="いのウェ（页面不存在）">いのウェ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，いのウェ&amp;fromwiki=WITHIN_EP"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="/index.php?title=%E3%81%84%E3%81%AE%E3%82%A6%E3%82%A7&amp;action=edit&amp;redlink=1" class="new" title="いのウェ（页面不存在）">いのウェ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=いのウェ&amp;fromwiki=WITHIN_EP"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="/index.php?title=%E3%81%84%E3%81%AE%E3%82%A6%E3%82%A7&amp;action=edit&amp;redlink=1" class="new" title="いのウェ（页面不存在）">いのウェ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?lyric=いのウェ&amp;fromwiki=WITHIN_EP"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演奏</td><td class="text" colspan="2">Guitar：迷いのウェ <br>Bass：迷いのウェ <br>Percussion：迷いのウェ</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=幻想の永遠祭，トロヤ群の密林&amp;fromwiki=WITHIN_EP"><span></span></a></span><div class="ogmusic"><a href="./幻想の永遠祭.md" class="mw-redirect" title="幻想の永遠祭">幻想の永遠祭</a></div><div class="source"><a href="./莲台野夜行_～_Ghostly_Field_Club..md" class="mw-redirect" title="莲台野夜行 ～ Ghostly Field Club.">莲台野夜行　～ Ghostly Field Club.</a></div><hr><div class="ogmusic"><a href="./トロヤ群の密林.md" class="mw-redirect" title="トロヤ群の密林">トロヤ群の密林</a></div><div class="source"><a href="./鸟船遗迹_～_Trojan_Green_Asteroid.md" class="mw-redirect" title="鸟船遗迹 ～ Trojan Green Asteroid">鸟船遗迹　～ Trojan Green Asteroid</a></div></td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">貴女との出会いは今も忘れていない。またあいましょう。</td></tr></tbody></table>
-
+<table><tbody><tr><td id="1" class="infoRD"><b>01</b></td><td id="Blind_to_the_Light_(中身ハ何ナノカ_眩シイノカ_虚シイノカ)" colspan="2" class="title"><a href="./歌词-Blind_to_the_Light_(中身ハ何ナノカ_眩シイノカ_虚シイノカ).md" title="歌词:Blind to the Light (中身ハ何ナノカ 眩シイノカ 虚シイノカ)">Blind to the Light (中身ハ何ナノカ　眩シイノカ　虚シイノカ)</a></td><td class="time">02:48</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="いのウェ（页面不存在）">いのウェ</a></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a class="new" title="いのウェ（页面不存在）">いのウェ</a></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a class="new" title="いのウェ（页面不存在）">いのウェ</a></td></tr><tr><td class="left"></td><td class="label">演奏</td><td class="text" colspan="2">Guitar：迷いのウェ <br>Bass：迷いのウェ <br>Percussion：迷いのウェ</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./已经只能听见歌声了.md" class="mw-redirect" title="もう歌しか聞こえない">もう歌しか聞こえない</a></div><div class="source"><a href="./东方永夜抄.md" class="mw-redirect" title="东方永夜抄 ～ Imperishable Night.">东方永夜抄　～ Imperishable Night.</a></div><hr><div class="ogmusic"><a href="./Ghost_Lead.md" class="mw-redirect" title="ゴーストリード">ゴーストリード</a></div><div class="source"><a href="./东方神灵庙.md" class="mw-redirect" title="东方神灵庙 ～ Ten Desires.">东方神灵庙　～ Ten Desires.</a></div><hr><div class="ogmusic"><a href="./幻视之夜_～_Ghostly_Eyes.md" class="mw-redirect" title="幻視の夜 ～ Ghostly Eyes">幻視の夜　～ Ghostly Eyes</a></div><div class="source"><a href="./东方永夜抄.md" class="mw-redirect" title="东方永夜抄 ～ Imperishable Night.">东方永夜抄　～ Imperishable Night.</a></div></td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">友達は大切ですよ。褒めて、助けて、抱いて。大切にしないとどうなるか、分かるの？その絆を…</td></tr>
+<tr><td id="2" class="infoRD"><b>02</b></td><td id="青春_(I_Still_Remember)" colspan="2" class="title"><a href="./歌词-青春_(I_Still_Remember).md" title="歌词:青春 (I Still Remember)">青春 (I Still Remember)</a></td><td class="time">02:56</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="いのウェ（页面不存在）">いのウェ</a></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a class="new" title="いのウェ（页面不存在）">いのウェ</a></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a class="new" title="いのウェ（页面不存在）">いのウェ</a></td></tr><tr><td class="left"></td><td class="label">演奏</td><td class="text" colspan="2">Guitar：迷いのウェ <br>Bass：迷いのウェ <br>Percussion：迷いのウェ</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./幻想的永远祭.md" class="mw-redirect" title="幻想の永遠祭">幻想の永遠祭</a></div><div class="source"><a href="./莲台野夜行.md" class="mw-redirect" title="莲台野夜行 ～ Ghostly Field Club.">莲台野夜行　～ Ghostly Field Club.</a></div><hr><div class="ogmusic"><a href="./特洛伊群的密林.md" class="mw-redirect" title="トロヤ群の密林">トロヤ群の密林</a></div><div class="source"><a href="./鸟船遗迹.md" class="mw-redirect" title="鸟船遗迹 ～ Trojan Green Asteroid">鸟船遗迹　～ Trojan Green Asteroid</a></div></td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">貴女との出会いは今も忘れていない。またあいましょう。</td></tr></tbody></table>
 
 
 ## 评论
@@ -58,10 +52,6 @@ Drum Programming, Mixing, Cover Art
 その身に、そしてその心に、貴重で大切な「何か」がある。その「何か」を大事にしているのでしょうか。
 エモパンクっぽい東方二次創作です。
   
-
-
-
-
 
 ---
 

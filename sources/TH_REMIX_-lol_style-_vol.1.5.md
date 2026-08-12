@@ -1,21 +1,19 @@
 # TH_REMIX_-lol_style-_vol.1.5
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\9\9e\ns0%3ATH_REMIX_-lol_style-_vol%2E1%2E5.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\9\9e\ns0%3ATH_REMIX_-lol_style-_vol%2E1%2E5.html -->
 
 2011年5月8日 由 laughing out loud 于 博丽神社例大祭8 发布的Demo同人专辑，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人专辑 (未找到链接)** 的词条
-
+**[二次创作同人专辑](./二次创作.md#同人音乐)**的词条
 ## 专辑信息
 
-<table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=TH_REMIX_-lol_style-_vol.1.5%E5%B0%81%E9%9D%A2.jpg" class="new" title="文件:TH REMIX -lol style- vol.1.5封面.jpg">封面图片</a></td>
-</tr><tr><td class="label">名称</td><td colspan="2"> TH REMIX -lol style- vol.1.5 </td></tr><tr><td class="label">制作方</td><td><a href="./laughing_out_loud.md" title="laughing out loud">laughing out loud</a></td><td class="cover-artwork" rowspan="8" style="min-width:224px;"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=TH_REMIX_-lol_style-_vol.1.5%E5%B0%81%E9%9D%A2.jpg" class="new" title="文件:TH REMIX -lol style- vol.1.5封面.jpg">封面图片</a></td>
-</tr><tr><td class="label">首发日期</td><td>2011-05-08&#160;（<a href="/展会作品列表?e=%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD%238">第八回 博麗神社例大祭</a>）</td></tr><tr><td class="label">类型</td><td>Demo</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>4</td></tr><tr><td class="label">总时长</td><td>00:00</td></tr><tr><td class="label">售价</td><td>会场售价：100日元</td></tr>
+<table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a class="new" title="文件:TH REMIX -lol style- vol.1.5封面.jpg">封面图片</a></td>
+</tr><tr><td class="label">名称</td><td colspan="2"> TH REMIX -lol style- vol.1.5 </td></tr><tr><td class="label">制作方</td><td><a href="./laughing_out_loud.md" title="laughing out loud">laughing out loud</a></td><td class="cover-artwork" rowspan="8" style="min-width:224px;"><a class="new" title="文件:TH REMIX -lol style- vol.1.5封面.jpg">封面图片</a></td>
+</tr><tr><td class="label">首发日期</td><td>2011-05-08 （<a href="./展会作品列表.md#8">第八回 博麗神社例大祭</a>）</td></tr><tr><td class="label">类型</td><td>Demo</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>4</td></tr><tr><td class="label">总时长</td><td>00:00</td></tr><tr><td class="label">售价</td><td>会场售价：100日元</td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://lollol.client.jp/r8tokusetsu.html">http://lollol.client.jp/r8tokusetsu.html</a></td></tr></tbody></table>
 
 TH REMIX -lol style- vol.1.5（同人专辑，laughing out loud，2011） - 2011年5月8日 由 laughing out loud 于 博丽神社例大祭8 发布的Demo同人专辑，分级为 一般向
-
 ## Staff
 
 ## 试听
@@ -23,20 +21,15 @@ TH REMIX -lol style- vol.1.5（同人专辑，laughing out loud，2011） - 2011
 暂不支援此类型
   
 
-
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="info"><b>01</b></td><td id="Lunatic_Princess_-2011_Club_Mix-" colspan="2" class="title">Lunatic Princess -2011 Club Mix-<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=竹取飛翔　～ Lunatic Princess&amp;fromwiki=TH_REMIX_-lol_style-_vol.1.5"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=竹取飛翔　～ Lunatic Princess&amp;fromwiki=TH_REMIX_-lol_style-_vol.1.5"><span></span></a></span><div class="ogmusic"><a href="./竹取飛翔_～_Lunatic_Princess.md" class="mw-redirect" title="竹取飛翔 ～ Lunatic Princess">竹取飛翔　～ Lunatic Princess</a></div><div class="source"><a href="./东方永夜抄_～_Imperishable_Night..md" class="mw-redirect" title="东方永夜抄 ～ Imperishable Night.">东方永夜抄　～ Imperishable Night.</a></div></td></tr>
-<tr><td id="2" class="info"><b>02</b></td><td id="風神少女_-4_Elements_Mix_Short_Version-" colspan="2" class="title">風神少女 -4 Elements Mix Short Version-<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=風神少女&amp;fromwiki=TH_REMIX_-lol_style-_vol.1.5"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=風神少女&amp;fromwiki=TH_REMIX_-lol_style-_vol.1.5"><span></span></a></span><div class="ogmusic"><a href="./風神少女.md" class="mw-redirect" title="風神少女">風神少女</a></div><div class="source"><a href="./东方文花帖_～_Shoot_the_Bullet..md" class="mw-redirect" title="东方文花帖 ～ Shoot the Bullet.">东方文花帖　～ Shoot the Bullet.</a></div></td></tr>
-<tr><td id="3" class="info"><b>03</b></td><td id="恋色マスタースパーク_-Guitar_Less_Extended_Mix-" colspan="2" class="title">恋色マスタースパーク -Guitar Less Extended Mix-<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=恋色マスタースパーク&amp;fromwiki=TH_REMIX_-lol_style-_vol.1.5"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=恋色マスタースパーク&amp;fromwiki=TH_REMIX_-lol_style-_vol.1.5"><span></span></a></span><div class="ogmusic"><a href="./恋色マスタースパーク.md" class="mw-redirect" title="恋色マスタースパーク">恋色マスタースパーク</a></div><div class="source"><a href="./东方永夜抄_～_Imperishable_Night..md" class="mw-redirect" title="东方永夜抄 ～ Imperishable Night.">东方永夜抄　～ Imperishable Night.</a></div></td></tr>
-<tr><td id="4" class="info"><b>04</b></td><td id="春の湊に_-2011_Trance_Mix-" colspan="2" class="title">春の湊に -2011 Trance Mix-<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=春の湊に&amp;fromwiki=TH_REMIX_-lol_style-_vol.1.5"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=春の湊に&amp;fromwiki=TH_REMIX_-lol_style-_vol.1.5"><span></span></a></span><div class="ogmusic"><a href="./春の湊に.md" class="mw-redirect" title="春の湊に">春の湊に</a></div><div class="source"><a href="./东方星莲船_～_Undefined_Fantastic_Object..md" class="mw-redirect" title="东方星莲船 ～ Undefined Fantastic Object.">东方星莲船　～ Undefined Fantastic Object.</a></div></td></tr></tbody></table>
-
+<table><tbody><tr><td id="1" class="info"><b>01</b></td><td id="Lunatic_Princess_-2011_Club_Mix-" colspan="2" class="title">Lunatic Princess -2011 Club Mix-</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./竹取飞翔_～_Lunatic_Princess.md" class="mw-redirect" title="竹取飛翔 ～ Lunatic Princess">竹取飛翔　～ Lunatic Princess</a></div><div class="source"><a href="./东方永夜抄.md" class="mw-redirect" title="东方永夜抄 ～ Imperishable Night.">东方永夜抄　～ Imperishable Night.</a></div></td></tr>
+<tr><td id="2" class="info"><b>02</b></td><td id="風神少女_-4_Elements_Mix_Short_Version-" colspan="2" class="title">風神少女 -4 Elements Mix Short Version-</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./风神少女.md" class="mw-redirect" title="風神少女">風神少女</a></div><div class="source"><a href="./东方文花帖.md" class="mw-redirect" title="东方文花帖 ～ Shoot the Bullet.">东方文花帖　～ Shoot the Bullet.</a></div></td></tr>
+<tr><td id="3" class="info"><b>03</b></td><td id="恋色マスタースパーク_-Guitar_Less_Extended_Mix-" colspan="2" class="title">恋色マスタースパーク -Guitar Less Extended Mix-</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./恋色Magic.md" class="mw-redirect" title="恋色マスタースパーク">恋色マスタースパーク</a></div><div class="source"><a href="./东方永夜抄.md" class="mw-redirect" title="东方永夜抄 ～ Imperishable Night.">东方永夜抄　～ Imperishable Night.</a></div></td></tr>
+<tr><td id="4" class="info"><b>04</b></td><td id="春の湊に_-2011_Trance_Mix-" colspan="2" class="title">春の湊に -2011 Trance Mix-</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./春之港湾.md" class="mw-redirect" title="春の湊に">春の湊に</a></div><div class="source"><a href="./东方星莲船.md" class="mw-redirect" title="东方星莲船 ～ Undefined Fantastic Object.">东方星莲船　～ Undefined Fantastic Object.</a></div></td></tr></tbody></table>
 
 
 ## 评论
-
-
-
 
 ---
 

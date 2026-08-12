@@ -1,14 +1,11 @@
 # 文件:東方女子流banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\04\ns6%3A%E6%9D%B1%E6%96%B9%E5%A5%B3%E5%AD%90%E6%B5%81banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\04\ns6%3A%E6%9D%B1%E6%96%B9%E5%A5%B3%E5%AD%90%E6%B5%81banner%2Ejpg.html -->
 
 東方女子流 | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

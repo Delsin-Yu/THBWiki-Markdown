@@ -1,6 +1,6 @@
 # 文件:SWING_HOLIC_VOL.12封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6c\ns6%3ASWING_HOLIC_VOL%2E12%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6c\ns6%3ASWING_HOLIC_VOL%2E12%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 SWING_HOLIC | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ SWING_HOLIC | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [SWING HOLIC VOL.12](./SWING_HOLIC_VOL.12.md)  
-该封面包含的角色：- [丰聪耳神子](./丰聪耳神子.md)
-
-
-
+- [SWING HOLIC VOL.12](./SWING_HOLIC_VOL.12.md)该封面包含的角色：
+- [丰聪耳神子](./丰聪耳神子.md)
 
 
 ---

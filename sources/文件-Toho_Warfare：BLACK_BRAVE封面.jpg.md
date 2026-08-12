@@ -1,6 +1,6 @@
 # 文件:Toho_Warfare：BLACK_BRAVE封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fe\ns6%3AToho_Warfare%EF%BC%9ABLACK_BRAVE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fe\ns6%3AToho_Warfare%EF%BC%9ABLACK_BRAVE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ユウノウミ | 专辑封面 | 封面图片
 
@@ -8,16 +8,13 @@
 使用了本文件作封面图片的作品：
   
 
-- [Toho Warfare：BLACK BRAVE](./Toho_Warfare：BLACK_BRAVE.md)  
-该封面包含的角色：- [橙](./橙.md)- [八云蓝](./八云蓝.md)- [雾雨魔理沙](./雾雨魔理沙.md)
+- [Toho Warfare：BLACK BRAVE](./Toho_Warfare：BLACK_BRAVE.md)该封面包含的角色：
+- [橙](./橙.md)
+- [八云蓝](./八云蓝.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-源地址：[[1]](http://younoumi.com/wp/wp-content/uploads/2015/08/BLACK5_jacket_600px.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://younoumi.com/wp/wp-content/uploads/2015/08/BLACK5_jacket_600px.jpg)  
 
 ---
 

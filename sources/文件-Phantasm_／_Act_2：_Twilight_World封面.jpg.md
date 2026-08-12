@@ -1,6 +1,6 @@
 # 文件:Phantasm_／_Act_2：_Twilight_World封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\79\ns6%3APhantasm_%EF%BC%8F_Act_2%EF%BC%9A_Twilight_World%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\79\ns6%3APhantasm_%EF%BC%8F_Act_2%EF%BC%9A_Twilight_World%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 DualInsomiNa | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@ DualInsomiNa | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Phantasm ／ Act 2： Twilight World](./Phantasm_／_Act_2：_Twilight_World.md)  
-该封面包含的角色：- [魅魔](./魅魔.md)
+- [Phantasm ／ Act 2： Twilight World](./Phantasm_／_Act_2：_Twilight_World.md)该封面包含的角色：
+- [魅魔](./魅魔.md)
 
   
-源地址：[direct image link (original size)](http://p1.music.126.net/FqI8Chxdw-UMWiUeTcXlmQ==/109951166543679782.jpg), [source page (网易云音乐)](https://music.163.com/#/album?id=135108456)
-  
-
-
-
-
+源地址：[direct image link (original size)](http://p1.music.126.net/FqI8Chxdw-UMWiUeTcXlmQ==/109951166543679782.jpg), [source page (网易云音乐)](https://music.163.com/#/album?id=135108456)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:緋色月下、狂咲ノ絶_10th_Anniversary封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5b\ns6%3A%E7%B7%8B%E8%89%B2%E6%9C%88%E4%B8%8B%E3%80%81%E7%8B%82%E5%92%B2%E3%83%8E%E7%B5%B6_10th_Anniversary%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5b\ns6%3A%E7%B7%8B%E8%89%B2%E6%9C%88%E4%B8%8B%E3%80%81%E7%8B%82%E5%92%B2%E3%83%8E%E7%B5%B6_10th_Anniversary%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 EastNewSound | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ EastNewSound | 专辑封面 | 封面图片
   
 
 - [緋色月下、狂咲ノ絶 10th Anniversary](./緋色月下、狂咲ノ絶_10th_Anniversary.md)
-
-
-
 
 
 ---

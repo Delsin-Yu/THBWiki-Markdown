@@ -1,12 +1,8 @@
 # 文件:TLM_03.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fb\ns6%3ATLM_03%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fb\ns6%3ATLM_03%2Emp3.html -->
 
 Sacred_Battle | Torte_Le_Magic | 原曲MP3
-
-
-
-
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:伤魂「Soul_Sculpture」（萃梦想）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f8\ns6%3A%E4%BC%A4%E9%AD%82%E3%80%8CSoul_Sculpture%E3%80%8D%EF%BC%88%E8%90%83%E6%A2%A6%E6%83%B3%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f8\ns6%3A%E4%BC%A4%E9%AD%82%E3%80%8CSoul_Sculpture%E3%80%8D%EF%BC%88%E8%90%83%E6%A2%A6%E6%83%B3%EF%BC%89%2Ejpg.html -->
 
 东方萃梦想 | 十六夜咲夜 | 自机符卡
-
-
-
-
 
 
 ---

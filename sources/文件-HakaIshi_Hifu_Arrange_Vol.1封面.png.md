@@ -1,6 +1,6 @@
 # 文件:HakaIshi_Hifu_Arrange_Vol.1封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5f\ns6%3AHakaIshi_Hifu_Arrange_Vol%2E1%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5f\ns6%3AHakaIshi_Hifu_Arrange_Vol%2E1%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 XEoN×少女墓石倶楽部 | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ XEoN×少女墓石倶楽部 | 专辑封面 | 封面图片
   
 
 - [HakaIshi Hifu Arrange Vol.1](./HakaIshi_Hifu_Arrange_Vol.1.md)
-
-
-
 
 
 ---

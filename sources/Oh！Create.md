@@ -1,12 +1,11 @@
 # Oh！Create
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\0e\ns0%3AOh%EF%BC%81Create.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\0e\ns0%3AOh%EF%BC%81Create.html -->
 
 2020年3月15日 由 Electric Ginger  发布的EP同人专辑，曲目主要风格是 爵士，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人专辑 (未找到链接)** 的词条
-
+**[二次创作同人专辑](./二次创作.md#同人音乐)**的词条
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Oh！Create封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/5/5e/Oh%EF%BC%81Create%E5%B0%81%E9%9D%A2.png/224px-Oh%EF%BC%81Create%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="224" height="224" srcset="https://upload.thwiki.cc/thumb/5/5e/Oh%EF%BC%81Create%E5%B0%81%E9%9D%A2.png/336px-Oh%EF%BC%81Create%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/5/5e/Oh%EF%BC%81Create%E5%B0%81%E9%9D%A2.png/448px-Oh%EF%BC%81Create%E5%B0%81%E9%9D%A2.png 2x" data-file-width="1080" data-file-height="1080"></a><div class="cover-char">角色：<a href="./埴安神袿姬.md" title="埴安神袿姬">埴安神袿姬</a>，<a href="./杖刀偶磨弓.md" title="杖刀偶磨弓">杖刀偶磨弓</a></div></td>
@@ -15,19 +14,15 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://music.163.com/#/album?id=86498045">https://music.163.com/#/album?id=86498045</a></td></tr></tbody></table>
 
 Oh！Create（同人专辑，Electric Ginger，2020） - 2020年3月15日 由 Electric Ginger  发布的EP同人专辑，曲目主要风格是 爵士，分级为 一般向
-
 ## Staff
   
- **Arrangement**   
+**Arrangement**  
 
 <table><tbody><tr><td><a href="./Electric_Ginger.md" title="Electric Ginger">Electric Ginger</a></td><td></td><td>Tr.1</td></tr></tbody></table>
 
 
-
 ## 试听
   
-
-
   
 
 <table>
@@ -36,20 +31,12 @@ Oh！Create（同人专辑，Electric Ginger，2020） - 2020年3月15日 由 El
 </table>
 
 
-
-
-
-
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Oh!Create" colspan="2" class="title">Oh!Create<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Electric Ginger&amp;ogmusic=偶像に世界を委ねて　～ Idoratrize World&amp;fromwiki=Oh！Create"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:25</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Electric_Ginger.md" title="Electric Ginger">Electric Ginger</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Electric Ginger&amp;fromwiki=Oh！Create"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=偶像に世界を委ねて　～ Idoratrize World&amp;fromwiki=Oh！Create"><span></span></a></span><div class="ogmusic"><a href="./偶像に世界を委ねて_～_Idoratrize_World.md" class="mw-redirect" title="偶像に世界を委ねて ～ Idoratrize World">偶像に世界を委ねて　～ Idoratrize World</a></div><div class="source"><a href="./东方鬼形兽_～_Wily_Beast_and_Weakest_Creature..md" class="mw-redirect" title="东方鬼形兽 ～ Wily Beast and Weakest Creature.">东方鬼形兽　～ Wily Beast and Weakest Creature.</a></div></td></tr></tbody></table>
-
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Oh!Create" colspan="2" class="title">Oh!Create</td><td class="time">03:25</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Electric_Ginger.md" title="Electric Ginger">Electric Ginger</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./寄世界于偶像_～_Idoratrize_World.md" class="mw-redirect" title="偶像に世界を委ねて ～ Idoratrize World">偶像に世界を委ねて　～ Idoratrize World</a></div><div class="source"><a href="./东方鬼形兽.md" class="mw-redirect" title="东方鬼形兽 ～ Wily Beast and Weakest Creature.">东方鬼形兽　～ Wily Beast and Weakest Creature.</a></div></td></tr></tbody></table>
 
 
 ## 评论
-
-
-
 
 ---
 

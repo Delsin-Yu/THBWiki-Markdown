@@ -1,6 +1,6 @@
 # 文件:The_Misadventures_of_a_Velvet_Magician_~_Piano_Solo_Phantasma封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\51\ns6%3AThe_Misadventures_of_a_Velvet_Magician_%7E_Piano_Solo_Phantasma%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\51\ns6%3AThe_Misadventures_of_a_Velvet_Magician_%7E_Piano_Solo_Phantasma%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Maiden's_Capriccio | 专辑封面 | 封面图片
 
@@ -8,16 +8,13 @@ Maiden's_Capriccio | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [The Misadventures of a Velvet Magician ~ Piano Solo Phantasma](./The_Misadventures_of_a_Velvet_Magician_~_Piano_Solo_Phantasma.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)- [八云紫](./八云紫.md)
+- [The Misadventures of a Velvet Magician ~ Piano Solo Phantasma](./The_Misadventures_of_a_Velvet_Magician_~_Piano_Solo_Phantasma.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
+- [八云紫](./八云紫.md)
 
   
-源地址：[[1]](https://kuroblood.bandcamp.com/track/the-misadventures-of-a-velvet-magician-piano-solo-phantasma)
-  
-
-
-
-
+源地址：[\[1\]](https://kuroblood.bandcamp.com/track/the-misadventures-of-a-velvet-magician-piano-solo-phantasma)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:Borderless_Phantasm封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bd\ns6%3ABorderless_Phantasm%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bd\ns6%3ABorderless_Phantasm%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 ギャラクティック・リボルバー | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Borderless Phantasm](./Borderless_Phantasm.md)  
-该封面包含的角色：- [八云紫](./八云紫.md)
-
-
-
+- [Borderless Phantasm](./Borderless_Phantasm.md)该封面包含的角色：
+- [八云紫](./八云紫.md)
 
 
 ---

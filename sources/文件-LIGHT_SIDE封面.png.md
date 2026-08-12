@@ -1,6 +1,6 @@
 # 文件:LIGHT_SIDE封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\35\ns6%3ALIGHT_SIDE%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\35\ns6%3ALIGHT_SIDE%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 蒼青藍碧
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [LIGHT SIDE](./LIGHT_SIDE.md)  
-该封面包含的角色：- [键山雏](./键山雏.md)
-
-
-
+- [LIGHT SIDE](./LIGHT_SIDE.md)该封面包含的角色：
+- [键山雏](./键山雏.md)
 
 
 ---

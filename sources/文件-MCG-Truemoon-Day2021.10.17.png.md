@@ -1,16 +1,12 @@
 # 文件:MCG-Truemoon-Day2021.10.17.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1b\ns6%3AMCG-Truemoon-Day2021%2E10%2E17%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1b\ns6%3AMCG-Truemoon-Day2021%2E10%2E17%2Epng.html -->
 
 MineCraft幻想乡
 
   
 MC幻想乡里月地图（日）
   
-
-
-
-
 
 ---
 

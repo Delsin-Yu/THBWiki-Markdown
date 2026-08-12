@@ -1,6 +1,6 @@
 # 文件:No_title（同人志）封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5d\ns6%3ANo_title%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5d\ns6%3ANo_title%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 同人志封面 | 封面图片 | 少女恋歌
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [No title（同人志）](./No_title（同人志）.md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)- [西行寺幽幽子](./西行寺幽幽子.md)
-
-
-
+- [No title（同人志）](./No_title（同人志）.md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
+- [西行寺幽幽子](./西行寺幽幽子.md)
 
 
 ---

@@ -1,14 +1,11 @@
 # 文件:射命丸文（文花帖DS立绘）pl07.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\80\ns6%3A%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87%EF%BC%88%E6%96%87%E8%8A%B1%E5%B8%96DS%E7%AB%8B%E7%BB%98%EF%BC%89pl07%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\80\ns6%3A%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87%EF%BC%88%E6%96%87%E8%8A%B1%E5%B8%96DS%E7%AB%8B%E7%BB%98%EF%BC%89pl07%2Epng.html -->
 
 ZUN绘 | 东方文花帖DS | 官方游戏立绘 | 射命丸文
 
 
 ## 摘要
-
-
-
 
 ---
 

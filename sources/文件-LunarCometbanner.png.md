@@ -1,18 +1,13 @@
 # 文件:LunarCometbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6a\ns6%3ALunarCometbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6a\ns6%3ALunarCometbanner%2Epng.html -->
 
 LunarComet | 社团LOGO
 
 
 ## 摘要
   
-源地址：[direct image link](https://kstd.net/banner/banner_kstd.png), [source page](https://kstd.net/link.html)
-  
-
-
-
-
+源地址：[direct image link](https://kstd.net/banner/banner_kstd.png), [source page](https://kstd.net/link.html)  
 
 ---
 

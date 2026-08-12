@@ -1,6 +1,6 @@
 # 文件:東方Projectの楽曲と音楽理論の考察_Ⅰ_旋律編封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9a\ns6%3A%E6%9D%B1%E6%96%B9Project%E3%81%AE%E6%A5%BD%E6%9B%B2%E3%81%A8%E9%9F%B3%E6%A5%BD%E7%90%86%E8%AB%96%E3%81%AE%E8%80%83%E5%AF%9F_%E2%85%A0_%E6%97%8B%E5%BE%8B%E7%B7%A8%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9a\ns6%3A%E6%9D%B1%E6%96%B9Project%E3%81%AE%E6%A5%BD%E6%9B%B2%E3%81%A8%E9%9F%B3%E6%A5%BD%E7%90%86%E8%AB%96%E3%81%AE%E8%80%83%E5%AF%9F_%E2%85%A0_%E6%97%8B%E5%BE%8B%E7%B7%A8%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 針の音楽
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方Projectの楽曲と音楽理論の考察 Ⅰ 旋律編](./東方Projectの楽曲と音楽理論の考察_Ⅰ_旋律編.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
+- [東方Projectの楽曲と音楽理論の考察 Ⅰ 旋律編](./東方Projectの楽曲と音楽理論の考察_Ⅰ_旋律編.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
   
-源地址:[http&#160;://static.tumblr.com/54809000341af4465965239c48ddcb58/pp2nkyk/pnonznhj4/tumblr_static_d5p0e336g1kww0wkookcs4sk0. jpg](http://static.tumblr.com/54809000341af4465965239c48ddcb58/pp2nkyk/pnonznhj4/tumblr_static_d5p0e336g1kww0wkookcs4sk0.jpg)
-  
-
-
-
-
+源地址:[http ://static.tumblr.com/54809000341af4465965239c48ddcb58/pp2nkyk/pnonznhj4/tumblr_static_d5p0e336g1kww0wkookcs4sk0. jpg](http://static.tumblr.com/54809000341af4465965239c48ddcb58/pp2nkyk/pnonznhj4/tumblr_static_d5p0e336g1kww0wkookcs4sk0.jpg)  
 
 ---
 

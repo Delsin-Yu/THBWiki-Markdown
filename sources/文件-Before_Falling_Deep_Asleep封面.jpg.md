@@ -1,6 +1,6 @@
 # 文件:Before_Falling_Deep_Asleep封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e6\ns6%3ABefore_Falling_Deep_Asleep%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e6\ns6%3ABefore_Falling_Deep_Asleep%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Pastel_World | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Pastel_World | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Before Falling Deep Asleep](./Before_Falling_Deep_Asleep.md)  
-该封面包含的角色：- [米斯蒂娅·萝蕾拉](./米斯蒂娅·萝蕾拉.md)
-
-
-
+- [Before Falling Deep Asleep](./Before_Falling_Deep_Asleep.md)该封面包含的角色：
+- [米斯蒂娅·萝蕾拉](./米斯蒂娅·萝蕾拉.md)
 
 
 ---

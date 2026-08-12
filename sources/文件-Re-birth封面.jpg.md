@@ -1,6 +1,6 @@
 # 文件:Re-birth封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1b\ns6%3ARe-birth%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1b\ns6%3ARe-birth%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 MagentaSpiral | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ MagentaSpiral | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Re-birth](./Re-birth.md)  
-该封面包含的角色：- [秦心](./秦心.md)
+- [Re-birth](./Re-birth.md)该封面包含的角色：
+- [秦心](./秦心.md)
 
   
-源地址：[[1]](https://i1.sndcdn.com/artworks-000198547833-276sl9-t500x500.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://i1.sndcdn.com/artworks-000198547833-276sl9-t500x500.jpg)  
 
 ---
 

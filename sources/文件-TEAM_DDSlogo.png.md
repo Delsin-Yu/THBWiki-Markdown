@@ -1,14 +1,11 @@
 # 文件:TEAM_DDSlogo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c2\ns6%3ATEAM_DDSlogo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c2\ns6%3ATEAM_DDSlogo%2Epng.html -->
 
 TEAM_DDS
 
 
 ## 文件说明
-
-
-
 
 ---
 

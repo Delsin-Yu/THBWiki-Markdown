@@ -1,6 +1,6 @@
 # 文件:Poison_meets_poisoN封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\25\ns6%3APoison_meets_poisoN%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\25\ns6%3APoison_meets_poisoN%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 HEPTAD | 同人志封面 | 封面图片
 
@@ -10,16 +10,12 @@ HEPTAD | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Poison meets poisoN](./Poison_meets_poisoN.md)  
-该封面包含的角色：- [梅蒂欣·梅兰可莉](./梅蒂欣·梅兰可莉.md)- [宫古芳香](./宫古芳香.md)
+- [Poison meets poisoN](./Poison_meets_poisoN.md)该封面包含的角色：
+- [梅蒂欣·梅兰可莉](./梅蒂欣·梅兰可莉.md)
+- [宫古芳香](./宫古芳香.md)
 
   
-[Pixiv artwork ID: 46382311 (original size)](https://www.pixiv.net/artworks/46382311)
-  
-
-
-
-
+[Pixiv artwork ID: 46382311 (original size)](https://www.pixiv.net/artworks/46382311)  
 
 ---
 

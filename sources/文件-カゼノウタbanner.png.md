@@ -1,14 +1,11 @@
 # 文件:カゼノウタbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bf\ns6%3A%E3%82%AB%E3%82%BC%E3%83%8E%E3%82%A6%E3%82%BFbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bf\ns6%3A%E3%82%AB%E3%82%BC%E3%83%8E%E3%82%A6%E3%82%BFbanner%2Epng.html -->
 
 カゼノウタ | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

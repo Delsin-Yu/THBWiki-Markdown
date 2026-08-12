@@ -1,6 +1,6 @@
 # 文件:結界戦線_Original_Sound_Album_RIVAL_SURVIVAL封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c7\ns6%3A%E7%B5%90%E7%95%8C%E6%88%A6%E7%B7%9A_Original_Sound_Album_RIVAL_SURVIVAL%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c7\ns6%3A%E7%B5%90%E7%95%8C%E6%88%A6%E7%B7%9A_Original_Sound_Album_RIVAL_SURVIVAL%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 白上さん家
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [結界戦線 Original Sound Album RIVAL SURVIVAL](./結界戦線_Original_Sound_Album_RIVAL_SURVIVAL.md)  
-该封面包含的角色：- [本居小铃](./本居小铃.md)
-
-
-
+- [結界戦線 Original Sound Album RIVAL SURVIVAL](./結界戦線_Original_Sound_Album_RIVAL_SURVIVAL.md)该封面包含的角色：
+- [本居小铃](./本居小铃.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:EASTERN_HARDCORE_SAGA_Vol._01封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e3\ns6%3AEASTERN_HARDCORE_SAGA_Vol%2E_01%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e3\ns6%3AEASTERN_HARDCORE_SAGA_Vol%2E_01%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Saga_Infinity | 专辑封面 | 封面图片
 
@@ -8,16 +8,12 @@ Saga_Infinity | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [EASTERN HARDCORE SAGA Vol. 01](./EASTERN_HARDCORE_SAGA_Vol._01.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
+- [EASTERN HARDCORE SAGA Vol. 01](./EASTERN_HARDCORE_SAGA_Vol._01.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
   
 源地址: Bandcamp下载附带
   
-
-
-
-
 
 ---
 

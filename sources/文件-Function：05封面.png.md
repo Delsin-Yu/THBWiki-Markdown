@@ -1,6 +1,6 @@
 # 文件:Function：05封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c4\ns6%3AFunction%EF%BC%9A05%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c4\ns6%3AFunction%EF%BC%9A05%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 dat_file_records | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ dat_file_records | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Function：05](./Function：05.md)  
-该封面包含的角色：- [伊吹萃香](./伊吹萃香.md)
-
-
-
+- [Function：05](./Function：05.md)该封面包含的角色：
+- [伊吹萃香](./伊吹萃香.md)
 
 
 ---

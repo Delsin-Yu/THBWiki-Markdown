@@ -1,6 +1,6 @@
 # 文件:Hope_of_Uplifting_Tranquility封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5d\ns6%3AHope_of_Uplifting_Tranquility%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5d\ns6%3AHope_of_Uplifting_Tranquility%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 LTEDTX | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ LTEDTX | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Hope of Uplifting Tranquility](./Hope_of_Uplifting_Tranquility.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)
+- [Hope of Uplifting Tranquility](./Hope_of_Uplifting_Tranquility.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
 
   
-源地址：[[1]](https://f4.bcbits.com/img/a0650996167_10.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://f4.bcbits.com/img/a0650996167_10.jpg)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:古星術十書_～_Mysterious_History_of_Magi封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d3\ns6%3A%E5%8F%A4%E6%98%9F%E8%A1%93%E5%8D%81%E6%9B%B8_%EF%BD%9E_Mysterious_History_of_Magi%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d3\ns6%3A%E5%8F%A4%E6%98%9F%E8%A1%93%E5%8D%81%E6%9B%B8_%EF%BD%9E_Mysterious_History_of_Magi%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 夢想夏月郷 | 封面图片
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [古星術十書 ～ Mysterious History of Magi](./古星術十書_～_Mysterious_History_of_Magi.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [古星術十書 ～ Mysterious History of Magi](./古星術十書_～_Mysterious_History_of_Magi.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

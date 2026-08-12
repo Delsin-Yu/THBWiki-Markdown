@@ -1,12 +1,8 @@
 # 文件:へたのよこずきbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\81\ns6%3A%E3%81%B8%E3%81%9F%E3%81%AE%E3%82%88%E3%81%93%E3%81%9A%E3%81%8Dbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\81\ns6%3A%E3%81%B8%E3%81%9F%E3%81%AE%E3%82%88%E3%81%93%E3%81%9A%E3%81%8Dbanner%2Ejpg.html -->
 
 へたのよこずき | 社团LOGO
-
-
-
-
 
 
 ---

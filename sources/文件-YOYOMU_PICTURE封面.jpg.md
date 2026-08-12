@@ -1,6 +1,6 @@
 # 文件:YOYOMU_PICTURE封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\99\ns6%3AYOYOMU_PICTURE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\99\ns6%3AYOYOMU_PICTURE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Ma-Hi-Te | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ Ma-Hi-Te | 专辑封面 | 封面图片
   
 
 - [YOYOMU PICTURE](./YOYOMU_PICTURE.md)
-
-
-
 
 
 ---

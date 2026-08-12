@@ -1,18 +1,13 @@
 # 文件:Rhyth.banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7a\ns6%3ARhyth%2Ebanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7a\ns6%3ARhyth%2Ebanner%2Ejpg.html -->
 
 Rhyth. | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[direct image link](https://web.archive.org/web/20051214044033im_/http://www.rhyth.sakura.ne.jp/pict/ban/baner.JPG), [source page](https://web.archive.org/web/20051214055728/http://www.rhyth.sakura.ne.jp/main.htm)
-  
-
-
-
-
+源地址：[direct image link](https://web.archive.org/web/20051214044033im_/http://www.rhyth.sakura.ne.jp/pict/ban/baner.JPG), [source page](https://web.archive.org/web/20051214055728/http://www.rhyth.sakura.ne.jp/main.htm)  
 
 ---
 

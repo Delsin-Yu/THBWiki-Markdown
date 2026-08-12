@@ -1,14 +1,11 @@
 # 文件:Tie_Storylogo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\45\ns6%3ATie_Storylogo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\45\ns6%3ATie_Storylogo%2Epng.html -->
 
 Tie_Story | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

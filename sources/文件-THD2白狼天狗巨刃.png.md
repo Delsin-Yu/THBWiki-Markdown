@@ -1,12 +1,8 @@
 # 文件:THD2白狼天狗巨刃.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\02\ns6%3ATHD2%E7%99%BD%E7%8B%BC%E5%A4%A9%E7%8B%97%E5%B7%A8%E5%88%83%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\02\ns6%3ATHD2%E7%99%BD%E7%8B%BC%E5%A4%A9%E7%8B%97%E5%B7%A8%E5%88%83%2Epng.html -->
 
 AvalonStudioOfficial
-
-
-
-
 
 
 ---

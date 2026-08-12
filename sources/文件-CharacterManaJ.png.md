@@ -1,12 +1,8 @@
 # 文件:CharacterManaJ.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3c\ns6%3ACharacterManaJ%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3c\ns6%3ACharacterManaJ%2Epng.html -->
 
 幻想幽玄庵
-
-
-
-
 
 
 ---

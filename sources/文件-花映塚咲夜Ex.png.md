@@ -1,12 +1,8 @@
 # 文件:花映塚咲夜Ex.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5e\ns6%3A%E8%8A%B1%E6%98%A0%E5%A1%9A%E5%92%B2%E5%A4%9CEx%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5e\ns6%3A%E8%8A%B1%E6%98%A0%E5%A1%9A%E5%92%B2%E5%A4%9CEx%2Epng.html -->
 
 东方花映塚 | 十六夜咲夜
-
-
-
-
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:scarpsbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0b\ns6%3Ascarpsbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0b\ns6%3Ascarpsbanner%2Ejpg.html -->
 
 scarps | 社团LOGO
-
-
-
-
 
 
 ---

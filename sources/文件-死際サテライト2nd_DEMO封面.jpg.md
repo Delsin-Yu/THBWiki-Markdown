@@ -1,6 +1,6 @@
 # 文件:死際サテライト2nd_DEMO封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\92\ns6%3A%E6%AD%BB%E9%9A%9B%E3%82%B5%E3%83%86%E3%83%A9%E3%82%A4%E3%83%882nd_DEMO%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\92\ns6%3A%E6%AD%BB%E9%9A%9B%E3%82%B5%E3%83%86%E3%83%A9%E3%82%A4%E3%83%882nd_DEMO%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 死際サテライト
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [死際サテライト2nd DEMO](./死際サテライト2nd_DEMO.md)  
-该封面包含的角色：- [铃瑚](./铃瑚.md)
+- [死際サテライト2nd DEMO](./死際サテライト2nd_DEMO.md)该封面包含的角色：
+- [铃瑚](./铃瑚.md)
 
   
-源地址：[[1]](http://shinigiwasatellite.wixsite.com/sgsl/purge-ep-1)
-  
-
-
-
-
+源地址：[\[1\]](http://shinigiwasatellite.wixsite.com/sgsl/purge-ep-1)  
 
 ---
 

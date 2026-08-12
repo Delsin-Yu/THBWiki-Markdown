@@ -1,12 +1,8 @@
 # 文件:THD2冰精跳跃装置.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2d\ns6%3ATHD2%E5%86%B0%E7%B2%BE%E8%B7%B3%E8%B7%83%E8%A3%85%E7%BD%AE%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2d\ns6%3ATHD2%E5%86%B0%E7%B2%BE%E8%B7%B3%E8%B7%83%E8%A3%85%E7%BD%AE%2Epng.html -->
 
 AvalonStudioOfficial
-
-
-
-
 
 
 ---

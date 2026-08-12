@@ -1,14 +1,11 @@
 # 文件:柏処-かしわどころ-banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\be\ns6%3A%E6%9F%8F%E5%87%A6-%E3%81%8B%E3%81%97%E3%82%8F%E3%81%A9%E3%81%93%E3%82%8D-banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\be\ns6%3A%E6%9F%8F%E5%87%A6-%E3%81%8B%E3%81%97%E3%82%8F%E3%81%A9%E3%81%93%E3%82%8D-banner%2Ejpg.html -->
 
 柏処-かしわどころ- | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

@@ -1,12 +1,8 @@
 # 文件:circle-rwlogo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5c\ns6%3Acircle-rwlogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5c\ns6%3Acircle-rwlogo%2Ejpg.html -->
 
 circle-rw | 社团LOGO
-
-
-
-
 
 
 ---

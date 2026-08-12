@@ -1,6 +1,6 @@
 # 文件:Lapis_Lazuli（同人志）封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\74\ns6%3ALapis_Lazuli%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\74\ns6%3ALapis_Lazuli%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 A.M.A | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@ A.M.A | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Lapis Lazuli（同人志）](./Lapis_Lazuli（同人志）.md)  
-该封面包含的角色：- [古明地恋](./古明地恋.md)
+- [Lapis Lazuli（同人志）](./Lapis_Lazuli（同人志）.md)该封面包含的角色：
+- [古明地恋](./古明地恋.md)
 
   
-[Pixiv artwork ID: 54890073 (original size)](https://www.pixiv.net/artworks/54890073)
-  
-
-
-
-
+[Pixiv artwork ID: 54890073 (original size)](https://www.pixiv.net/artworks/54890073)  
 
 ---
 

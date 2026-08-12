@@ -1,6 +1,6 @@
 # 文件:夏、腐乱EP封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f7\ns6%3A%E5%A4%8F%E3%80%81%E8%85%90%E4%B9%B1EP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f7\ns6%3A%E5%A4%8F%E3%80%81%E8%85%90%E4%B9%B1EP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 兎旨シカノ山 | 封面图片
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [夏、腐乱EP](./夏、腐乱EP.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [夏、腐乱EP](./夏、腐乱EP.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
   
-源地址：[direct image link (original size)](https://i1.sndcdn.com/artworks-000383527593-3ng85y-original.jpg), [source page (Soundcloud)](https://soundcloud.com/datto80/c9428bepxfd)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://i1.sndcdn.com/artworks-000383527593-3ng85y-original.jpg), [source page (Soundcloud)](https://soundcloud.com/datto80/c9428bepxfd)  
 
 ---
 

@@ -1,16 +1,11 @@
 # 文件:赤黄色向日葵banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bb\ns6%3A%E8%B5%A4%E9%BB%84%E8%89%B2%E5%90%91%E6%97%A5%E8%91%B5banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bb\ns6%3A%E8%B5%A4%E9%BB%84%E8%89%B2%E5%90%91%E6%97%A5%E8%91%B5banner%2Egif.html -->
 
 社团LOGO | 赤黄色向日葵
 
   
-源地址：[[1]](https://web.archive.org/web/20070806091417im_/http://halne.hp.infoseek.co.jp/halne_bn02.gif)
-  
-
-
-
-
+源地址：[\[1\]](https://web.archive.org/web/20070806091417im_/http://halne.hp.infoseek.co.jp/halne_bn02.gif)  
 
 ---
 

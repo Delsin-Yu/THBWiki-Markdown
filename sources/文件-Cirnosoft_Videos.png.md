@@ -1,12 +1,8 @@
 # 文件:Cirnosoft_Videos.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b3\ns6%3ACirnosoft_Videos%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b3\ns6%3ACirnosoft_Videos%2Epng.html -->
 
 东方幻想空间琪软公司
-
-
-
-
 
 
 ---

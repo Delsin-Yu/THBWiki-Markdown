@@ -1,6 +1,6 @@
 # 文件:第十四回博麗神社例大祭_Exclusive_Demo_CD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a1\ns6%3A%E7%AC%AC%E5%8D%81%E5%9B%9B%E5%9B%9E%E5%8D%9A%E9%BA%97%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD_Exclusive_Demo_CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a1\ns6%3A%E7%AC%AC%E5%8D%81%E5%9B%9B%E5%9B%9E%E5%8D%9A%E9%BA%97%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD_Exclusive_Demo_CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 CLOCKWORKS_TRACER | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ CLOCKWORKS_TRACER | 专辑封面 | 封面图片
   
 
 - [第十四回博麗神社例大祭 Exclusive Demo CD](./第十四回博麗神社例大祭_Exclusive_Demo_CD.md)
-
-
-
 
 
 ---

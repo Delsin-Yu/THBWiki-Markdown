@@ -1,6 +1,6 @@
 # 東方千夜帖~Thousand_Night_Anamnesis./敌机符卡
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\66\ns0%3A%E6%9D%B1%E6%96%B9%E5%8D%83%E5%A4%9C%E5%B8%96%7EThousand_Night_Anamnesis%2E%2F%E6%95%8C%E6%9C%BA%E7%AC%A6%E5%8D%A1.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\66\ns0%3A%E6%9D%B1%E6%96%B9%E5%8D%83%E5%A4%9C%E5%B8%96%7EThousand_Night_Anamnesis%2E%2F%E6%95%8C%E6%9C%BA%E7%AC%A6%E5%8D%A1.html -->
 
 サラダ
 
@@ -17,6 +17,7 @@
 
 
 ## 符卡列表
+
 - [红魔乡](./東方千夜帖~Thousand_Night_Anamnesis.-敌机符卡-红魔乡关卡符卡.md)
 - [妖妖梦](./東方千夜帖~Thousand_Night_Anamnesis.-敌机符卡-妖妖梦关卡符卡.md)
 - [永夜抄](./東方千夜帖~Thousand_Night_Anamnesis.-敌机符卡-永夜抄关卡符卡.md)
@@ -29,11 +30,6 @@
 - [天空璋](./東方千夜帖~Thousand_Night_Anamnesis.-敌机符卡-天空璋关卡符卡.md)
 - [怪绮谈](./東方千夜帖~Thousand_Night_Anamnesis.-敌机符卡-怪绮谈关卡符卡.md)
 - [封魔录](./東方千夜帖~Thousand_Night_Anamnesis.-敌机符卡-封魔录关卡符卡.md)
-
-
-
-
-
 
 
 ---

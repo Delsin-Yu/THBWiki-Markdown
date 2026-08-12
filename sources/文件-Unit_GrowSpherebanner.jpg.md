@@ -1,18 +1,13 @@
 # 文件:Unit_GrowSpherebanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d1\ns6%3AUnit_GrowSpherebanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d1\ns6%3AUnit_GrowSpherebanner%2Ejpg.html -->
 
 Unit_GrowSphere | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[direct image link](http://www.ginpatsu.com/ugs/imgs/ugsban.JPG), [source page](http://www.ginpatsu.com/ugs/)
-  
-
-
-
-
+源地址：[direct image link](http://www.ginpatsu.com/ugs/imgs/ugsban.JPG), [source page](http://www.ginpatsu.com/ugs/)  
 
 ---
 

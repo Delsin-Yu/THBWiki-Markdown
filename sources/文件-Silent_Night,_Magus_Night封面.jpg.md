@@ -1,6 +1,6 @@
 # 文件:Silent_Night,_Magus_Night封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b3\ns6%3ASilent_Night%2C_Magus_Night%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b3\ns6%3ASilent_Night%2C_Magus_Night%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Lunatyc_Records | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Lunatyc_Records | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Silent Night, Magus Night](./Silent_Night,_Magus_Night.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
+- [Silent Night, Magus Night](./Silent_Night,_Magus_Night.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-源地址：[[1]](https://f1.bcbits.com/img/a3524650102_10.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://f1.bcbits.com/img/a3524650102_10.jpg)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:2nd_Demo_CD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f1\ns6%3A2nd_Demo_CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f1\ns6%3A2nd_Demo_CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 マスカルポーネ | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [2nd Demo CD](./2nd_Demo_CD.md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)
+- [2nd Demo CD](./2nd_Demo_CD.md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
 
   
-源地址：[[1]](http://mascarpone.penne.jp/images/cd03.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://mascarpone.penne.jp/images/cd03.jpg)  
 
 ---
 

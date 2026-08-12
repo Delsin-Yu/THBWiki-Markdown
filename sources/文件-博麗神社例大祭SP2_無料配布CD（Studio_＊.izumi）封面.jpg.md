@@ -1,6 +1,6 @@
 # 文件:博麗神社例大祭SP2_無料配布CD（Studio_＊.izumi）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\57\ns6%3A%E5%8D%9A%E9%BA%97%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%ADSP2_%E7%84%A1%E6%96%99%E9%85%8D%E5%B8%83CD%EF%BC%88Studio_%EF%BC%8A%2Eizumi%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\57\ns6%3A%E5%8D%9A%E9%BA%97%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%ADSP2_%E7%84%A1%E6%96%99%E9%85%8D%E5%B8%83CD%EF%BC%88Studio_%EF%BC%8A%2Eizumi%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Studio_＊.izumi | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ Studio_＊.izumi | 专辑封面 | 封面图片
   
 
 - [博麗神社例大祭SP2 無料配布CD（Studio ＊.izumi）](./博麗神社例大祭SP2_無料配布CD（Studio_＊.izumi）.md)
-
-
-
 
 
 ---

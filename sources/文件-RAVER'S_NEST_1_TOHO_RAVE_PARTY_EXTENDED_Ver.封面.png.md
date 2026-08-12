@@ -1,6 +1,6 @@
 # 文件:RAVER'S_NEST_1_TOHO_RAVE_PARTY_EXTENDED_Ver.封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9e\ns6%3ARAVER%27S_NEST_1_TOHO_RAVE_PARTY_EXTENDED_Ver%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9e\ns6%3ARAVER%27S_NEST_1_TOHO_RAVE_PARTY_EXTENDED_Ver%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 DiGiTAL_WiNG | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ DiGiTAL_WiNG | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [RAVER'S NEST 1 TOHO RAVE PARTY EXTENDED Ver.](./RAVER'S_NEST_1_TOHO_RAVE_PARTY_EXTENDED_Ver..md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [RAVER'S NEST 1 TOHO RAVE PARTY EXTENDED Ver.](./RAVER'S_NEST_1_TOHO_RAVE_PARTY_EXTENDED_Ver..md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Little_Daybreaker封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\11\ns6%3ALittle_Daybreaker%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\11\ns6%3ALittle_Daybreaker%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 IRON_ATTACK! | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ IRON_ATTACK! | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Little Daybreaker](./Little_Daybreaker.md)  
-该封面包含的角色：- [米斯蒂娅·萝蕾拉](./米斯蒂娅·萝蕾拉.md)
-
-
-
+- [Little Daybreaker](./Little_Daybreaker.md)该封面包含的角色：
+- [米斯蒂娅·萝蕾拉](./米斯蒂娅·萝蕾拉.md)
 
 
 ---

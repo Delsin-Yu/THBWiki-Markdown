@@ -1,12 +1,8 @@
 # 文件:シロネコビートbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\35\ns6%3A%E3%82%B7%E3%83%AD%E3%83%8D%E3%82%B3%E3%83%93%E3%83%BC%E3%83%88banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\35\ns6%3A%E3%82%B7%E3%83%AD%E3%83%8D%E3%82%B3%E3%83%93%E3%83%BC%E3%83%88banner%2Epng.html -->
 
 シロネコビート | 社团LOGO
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Fate_umgekehrt_wird封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\27\ns6%3AFate_umgekehrt_wird%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\27\ns6%3AFate_umgekehrt_wird%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 m：Alone | 专辑封面 | 封面图片
 
@@ -8,16 +8,12 @@ m：Alone | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Fate umgekehrt wird](./Fate_umgekehrt_wird.md)  
-该封面包含的角色：- [稀神探女](./稀神探女.md)
+- [Fate umgekehrt wird](./Fate_umgekehrt_wird.md)该封面包含的角色：
+- [稀神探女](./稀神探女.md)
 
   
-源地址：[[1]](https://res.cloudinary.com/hrscywv4p/image/upload/c_limit,f_auto,h_1440,q_90,w_720/v1/211949/8dc26d934a114b76a51c63a1ad3351f5_s3g645.webp) (converted to png)
+源地址：[\[1\]](https://res.cloudinary.com/hrscywv4p/image/upload/c_limit,f_auto,h_1440,q_90,w_720/v1/211949/8dc26d934a114b76a51c63a1ad3351f5_s3g645.webp) (converted to png)
   
-
-
-
-
 
 ---
 

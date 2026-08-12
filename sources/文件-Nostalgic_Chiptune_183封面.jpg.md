@@ -1,6 +1,6 @@
 # 文件:Nostalgic_Chiptune_183封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ec\ns6%3ANostalgic_Chiptune_183%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ec\ns6%3ANostalgic_Chiptune_183%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Asilee_Sound_Group | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@ Asilee_Sound_Group | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Nostalgic Chiptune 183](./Nostalgic_Chiptune_183.md)  
-该封面包含的角色：- [米斯蒂娅·萝蕾拉](./米斯蒂娅·萝蕾拉.md)
+- [Nostalgic Chiptune 183](./Nostalgic_Chiptune_183.md)该封面包含的角色：
+- [米斯蒂娅·萝蕾拉](./米斯蒂娅·萝蕾拉.md)
 
   
-源地址：[direct image link (10 size)](https://f4.bcbits.com/img/a2929083325_10.jpg), [source page (artist Bandcamp)](https://asi14.bandcamp.com/album/nostalgic-chiptune-183)
-  
-
-
-
-
+源地址：[direct image link (10 size)](https://f4.bcbits.com/img/a2929083325_10.jpg), [source page (artist Bandcamp)](https://asi14.bandcamp.com/album/nostalgic-chiptune-183)  
 
 ---
 

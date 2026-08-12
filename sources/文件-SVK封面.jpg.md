@@ -1,6 +1,6 @@
 # 文件:SVK封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3b\ns6%3ASVK%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3b\ns6%3ASVK%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 カグラミクス | 同人志封面 | 封面图片
 
@@ -10,16 +10,15 @@
 使用了本文件作封面图片的作品：
   
 
-- [SVK](./SVK.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)- [魂魄妖梦](./魂魄妖梦.md)- [八云紫](./八云紫.md)- [雾雨魔理沙](./雾雨魔理沙.md)- 原创角色 (未找到链接)
+- [SVK](./SVK.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
+- [魂魄妖梦](./魂魄妖梦.md)
+- [八云紫](./八云紫.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
+- 原创角色 (未找到链接)
 
   
-源地址：[direct image link](http://kaguratsuna.sakura.ne.jp/sblo_files/kaguramix/image/01-4c205.jpg), [source page](http://kaguramix.sblo.jp/article/56018350.html)
-  
-
-
-
-
+源地址：[direct image link](http://kaguratsuna.sakura.ne.jp/sblo_files/kaguramix/image/01-4c205.jpg), [source page](http://kaguramix.sblo.jp/article/56018350.html)  
 
 ---
 

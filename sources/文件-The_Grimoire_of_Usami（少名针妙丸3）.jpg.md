@@ -1,14 +1,11 @@
 # 文件:The_Grimoire_of_Usami（少名针妙丸3）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b6\ns6%3AThe_Grimoire_of_Usami%EF%BC%88%E5%B0%91%E5%90%8D%E9%92%88%E5%A6%99%E4%B8%B83%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b6\ns6%3AThe_Grimoire_of_Usami%EF%BC%88%E5%B0%91%E5%90%8D%E9%92%88%E5%A6%99%E4%B8%B83%EF%BC%89%2Ejpg.html -->
 
 宇佐见的魔法书 | 少名针妙丸
 
 
 ## 摘要
-
-
-
 
 ---
 

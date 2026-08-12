@@ -1,6 +1,6 @@
 # 文件:CRIMSON'S_CREED_全編封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a7\ns6%3ACRIMSON%27S_CREED_%E5%85%A8%E7%B7%A8%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a7\ns6%3ACRIMSON%27S_CREED_%E5%85%A8%E7%B7%A8%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Fifiruu.FIF | 同人志封面 | 封面图片
 
@@ -10,11 +10,10 @@ Fifiruu.FIF | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [CRIMSON'S CREED 全編](./CRIMSON'S_CREED_全編.md)  
-该封面包含的角色：- [红美铃](./红美铃.md)- 十六夜咲夜 (未找到链接)- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
-
-
-
+- [CRIMSON'S CREED 全編](./CRIMSON'S_CREED_全編.md)该封面包含的角色：
+- [红美铃](./红美铃.md)
+- [十六夜咲夜](./十六夜咲夜.md)
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
 
 ---

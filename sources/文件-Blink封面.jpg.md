@@ -1,6 +1,6 @@
 # 文件:Blink封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\43\ns6%3ABlink%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\43\ns6%3ABlink%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 マスカルポーネ | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Blink](./Blink.md)  
-该封面包含的角色：- [小野塚小町](./小野塚小町.md)
+- [Blink](./Blink.md)该封面包含的角色：
+- [小野塚小町](./小野塚小町.md)
 
   
-源地址：[[1]](https://www.pixiv.net/member_illust.php?mode=medium&amp;illust_id=21624473)
-  
-
-
-
-
+源地址：[\[1\]](https://www.pixiv.net/member_illust.php?mode=medium&illust_id=21624473)  
 
 ---
 

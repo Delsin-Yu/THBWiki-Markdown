@@ -1,6 +1,6 @@
 # 文件:Magical_forest封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\10\ns6%3AMagical_forest%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\10\ns6%3AMagical_forest%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Dimension's_Gate | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Dimension's_Gate | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Magical forest](./Magical_forest.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
+- [Magical forest](./Magical_forest.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-源地址：[[1]](http://img.toranoana.jp/popup_img/04/0010/21/56/040010215649-1p.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://img.toranoana.jp/popup_img/04/0010/21/56/040010215649-1p.jpg)  
 
 ---
 

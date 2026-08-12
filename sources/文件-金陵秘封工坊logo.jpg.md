@@ -1,12 +1,8 @@
 # 文件:金陵秘封工坊logo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f5\ns6%3A%E9%87%91%E9%99%B5%E7%A7%98%E5%B0%81%E5%B7%A5%E5%9D%8Alogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f5\ns6%3A%E9%87%91%E9%99%B5%E7%A7%98%E5%B0%81%E5%B7%A5%E5%9D%8Alogo%2Ejpg.html -->
 
 社团LOGO | 金陵秘封工坊
-
-
-
-
 
 
 ---

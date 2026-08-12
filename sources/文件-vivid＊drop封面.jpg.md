@@ -1,6 +1,6 @@
 # 文件:vivid＊drop封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9f\ns6%3Avivid%EF%BC%8Adrop%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9f\ns6%3Avivid%EF%BC%8Adrop%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 少年ヴィヴィッド | 色色＊ドロップ
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [vivid＊drop](./vivid＊drop.md)  
-该封面包含的角色：- [村纱水蜜](./村纱水蜜.md)
+- [vivid＊drop](./vivid＊drop.md)该封面包含的角色：
+- [村纱水蜜](./村纱水蜜.md)
 
   
-[Pixiv artwork ID:21175003](https://www.pixiv.net/artworks/21175003)
-  
-
-
-
-
+[Pixiv artwork ID:21175003](https://www.pixiv.net/artworks/21175003)  
 
 ---
 

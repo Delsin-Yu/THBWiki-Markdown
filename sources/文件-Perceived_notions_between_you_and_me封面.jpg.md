@@ -1,6 +1,6 @@
 # 文件:Perceived_notions_between_you_and_me封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8c\ns6%3APerceived_notions_between_you_and_me%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8c\ns6%3APerceived_notions_between_you_and_me%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 situation_report | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@ situation_report | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Perceived notions between you and me](./Perceived_notions_between_you_and_me.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [Perceived notions between you and me](./Perceived_notions_between_you_and_me.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
   
-源地址：[direct image link (max size)](https://4.bp.blogspot.com/-USZjE7Z32kU/U01jhUTs0zI/AAAAAAAABVY/059m_Kr5GRI/s0/folder.jpg=s0?imgmax=0), [source page](http://touhounosekai.blogspot.com/2014/04/situation-report-perceived-notions.html)
-  
-
-
-
-
+源地址：[direct image link (max size)](https://4.bp.blogspot.com/-USZjE7Z32kU/U01jhUTs0zI/AAAAAAAABVY/059m_Kr5GRI/s0/folder.jpg=s0?imgmax=0), [source page](http://touhounosekai.blogspot.com/2014/04/situation-report-perceived-notions.html)  
 
 ---
 

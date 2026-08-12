@@ -1,6 +1,6 @@
 # 文件:柊野文庫_～_Crypto-porticus_in_Memory封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5f\ns6%3A%E6%9F%8A%E9%87%8E%E6%96%87%E5%BA%AB_%EF%BD%9E_Crypto-porticus_in_Memory%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5f\ns6%3A%E6%9F%8A%E9%87%8E%E6%96%87%E5%BA%AB_%EF%BD%9E_Crypto-porticus_in_Memory%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Yurihaka | 专辑封面 | 封面图片
 
@@ -10,16 +10,12 @@ Yurihaka | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [柊野文庫 ～ Crypto-porticus in Memory](./柊野文庫_～_Crypto-porticus_in_Memory.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
+- [柊野文庫 ～ Crypto-porticus in Memory](./柊野文庫_～_Crypto-porticus_in_Memory.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
   
-源地址：[direct image link](https://cradle-to-grave.jp/wp-content/uploads/2023/04/jacket-01.png), [source page](https://cradle-to-grave.jp/discography)
-  
-
-
-
-
+源地址：[direct image link](https://cradle-to-grave.jp/wp-content/uploads/2023/04/jacket-01.png), [source page](https://cradle-to-grave.jp/discography)  
 
 ---
 

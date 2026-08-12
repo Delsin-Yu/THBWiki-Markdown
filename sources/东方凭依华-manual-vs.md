@@ -1,29 +1,28 @@
 # 东方凭依华/manual/vs
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\05\ns0%3A%E4%B8%9C%E6%96%B9%E5%87%AD%E4%BE%9D%E5%8D%8E%2Fmanual%2Fvs.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\05\ns0%3A%E4%B8%9C%E6%96%B9%E5%87%AD%E4%BE%9D%E5%8D%8E%2Fmanual%2Fvs.html -->
 
 东方凭依华
+
 
 - 来自[黄昏边境官方网站](http://tasofro.net/touhou155/manual/vs.html)的ONLINE MANUAL对战画面页面。
 
 <center>
-
 <table>
 <tbody><tr>
-<td>&lt;
+<td><
 </td>
-<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./东方凭依华-manual-story-select.md" title="东方凭依华/manual/story-select">故事选择画面</a>&#160;
+<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./东方凭依华-manual-story-select.md" title="东方凭依华/manual/story-select">故事选择画面</a> 
 </td>
-<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="./东方凭依华-manual.md" title="东方凭依华/manual">Manual目录</a>&#160;
+<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;"> <a href="./东方凭依华-manual.md" title="东方凭依华/manual">Manual目录</a> 
 </td>
-<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left">&#160;<a href="./东方凭依华-manual-story-vs.md" title="东方凭依华/manual/story-vs">故事对战画面</a>
+<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left"> <a href="./东方凭依华-manual-story-vs.md" title="东方凭依华/manual/story-vs">故事对战画面</a>
 </td>
-<td>&gt;
+<td>>
 </td></tr></tbody></table>
 
   
-</center>
-[](./文件-东方凭依华OnlineManual_vs.jpg.md)
+</center><img alt="东方凭依华OnlineManual vs.jpg" src="https://upload.thwiki.cc/thumb/f/fc/%E4%B8%9C%E6%96%B9%E5%87%AD%E4%BE%9D%E5%8D%8EOnlineManual_vs.jpg/600px-%E4%B8%9C%E6%96%B9%E5%87%AD%E4%BE%9D%E5%8D%8EOnlineManual_vs.jpg" decoding="async" loading="lazy" width="600" height="347" srcset="https://upload.thwiki.cc/f/fc/%E4%B8%9C%E6%96%B9%E5%87%AD%E4%BE%9D%E5%8D%8EOnlineManual_vs.jpg 1.5x" data-file-width="900" data-file-height="520">
 
 <table>
 
@@ -88,10 +87,6 @@
 <td>⑩凭依道具</td>
 <td>击中对手的时候会出现，能增加怪奇值
 </td></tr></tbody></table>
-
-
-
-
 
 
 ---

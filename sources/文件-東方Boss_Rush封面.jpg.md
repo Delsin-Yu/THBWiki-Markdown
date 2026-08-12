@@ -1,6 +1,6 @@
 # 文件:東方Boss_Rush封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\37\ns6%3A%E6%9D%B1%E6%96%B9Boss_Rush%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\37\ns6%3A%E6%9D%B1%E6%96%B9Boss_Rush%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Under_Reverse | 专辑封面 | 封面图片
 
@@ -8,16 +8,12 @@ Under_Reverse | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方Boss Rush](./東方Boss_Rush.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [雾雨魔理沙](./雾雨魔理沙.md)
+- [東方Boss Rush](./東方Boss_Rush.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-源地址：[[1]](http://blog-imgs-83.fc2.com/u/n/d/underkm/1.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://blog-imgs-83.fc2.com/u/n/d/underkm/1.jpg)  
 
 ---
 

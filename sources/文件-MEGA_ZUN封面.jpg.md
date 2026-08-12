@@ -1,6 +1,6 @@
 # 文件:MEGA_ZUN封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a7\ns6%3AMEGA_ZUN%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a7\ns6%3AMEGA_ZUN%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 HertzDevil | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ HertzDevil | 专辑封面 | 封面图片
   
 
 - [MEGA ZUN](./MEGA_ZUN.md)
-
-
-
 
 
 ---

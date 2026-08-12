@@ -1,16 +1,12 @@
 # 文件:Translate_en_zh.svg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c4\ns6%3ATranslate_en_zh%2Esvg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c4\ns6%3ATranslate_en_zh%2Esvg.html -->
 
 帮助文档
 
   
 用于标记英译中页面。
   
-
-
-
-
 
 ---
 

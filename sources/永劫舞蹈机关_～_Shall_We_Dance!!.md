@@ -1,38 +1,28 @@
 # 永劫舞蹈机关_～_Shall_We_Dance!!
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\27\ns0%3A%E6%B0%B8%E5%8A%AB%E8%88%9E%E8%B9%88%E6%9C%BA%E5%85%B3_%EF%BD%9E_Shall_We_Dance%21%21.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\27\ns0%3A%E6%B0%B8%E5%8A%AB%E8%88%9E%E8%B9%88%E6%9C%BA%E5%85%B3_%EF%BD%9E_Shall_We_Dance%21%21.html -->
 
 JynX作曲 | 引用了翻译表的页面 | 永劫舞蹈机关_～_Shall_We_Dance!! | 连缘Project | 连缘Project官方音乐
 
-本页是关于 **向[东方Project](./东方Project.md)  
-致敬、形式类似的作品** 的词条
-
+本页是关于**向[东方Project](./东方Project.md)致敬、形式类似的作品**  
+的词条
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 出现作品](#出现作品)
 - [3 音乐文件](#音乐文件)
-
   - [3.1 连缘无现里](#连缘无现里)
   - [3.2 连缘天影战记](#连缘天影战记)
 
 
-
 - [4 说明文本](#说明文本)
-
   - [4.1 连缘无现里](#连缘无现里_2)
   - [4.2 连缘天影战记](#连缘天影战记_2)
 
 
-
 - [5 其他资料](#其他资料)
-
   - [5.1 乐理资讯](#乐理资讯)
   - [5.2 分析考据](#分析考据)
-
-
-
-
 
 
 
@@ -61,7 +51,6 @@ JynX作曲 | 引用了翻译表的页面 | 永劫舞蹈机关_～_Shall_We_Dance
 </td></tr></tbody></table>
 
 
-
 ## 出现作品
 
 <table>
@@ -71,7 +60,6 @@ JynX作曲 | 引用了翻译表的页面 | 永劫舞蹈机关_～_Shall_We_Dance
 </tbody></table>
 
 
-
 ## 音乐文件
 
 ### 连缘无现里
@@ -79,17 +67,16 @@ JynX作曲 | 引用了翻译表的页面 | 永劫舞蹈机关_～_Shall_We_Dance
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>MIDI格式</b></td><td>无播放信息</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-le01_17.mp3.md" title="文件:le01 17.mp3">le01_17.mp3</a><br><audio src="https://upload.thwiki.cc/5/5e/le01_17.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>未填写</td></tr></tbody></table>
 
 
-
 ### 连缘天影战记
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>MIDI格式</b></td><td>无播放信息</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-le04_BOSS_Tsurubami.mp3.md" title="文件:le04 BOSS Tsurubami.mp3">le04_BOSS_Tsurubami.mp3</a><br><audio src="https://upload.thwiki.cc/4/48/le04_BOSS_Tsurubami.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>未填写</td></tr></tbody></table>
 
 
-
 ## 说明文本
 
 ### 连缘无现里
-- Music Room (未找到链接)
+
+- [Music Room](./连缘无现里～Evanescent_Existence-Music.md#EXboss-阐里鹤喰主题曲)
 
 EX头目阐里鹤喰的曲子。  
 「一起来跳支舞吧！？（呯！）」的感觉呢。  
@@ -100,9 +87,9 @@ EX头目阐里鹤喰的曲子。
 头目战放起爵士乐真是气氛热烈呢，不过前卫摇滚也不错！  
 我觉得成品很棒，你觉得呢？  
 如果能演奏一番，应该会相当愉悦吧。
-
 ### 连缘天影战记
-- Music Room (未找到链接)
+
+- [Music Room](./连缘天影战记～Brilliant_pagoda_or_haze_castle-Music.md#EX%20α面_Boss-阐里鹤喰主题曲)
 
 里EX面BOSS，鹤喰的曲子。  
   
@@ -113,16 +100,14 @@ EX头目阐里鹤喰的曲子。
   
 还有与之相似的一首曲子，要做出区分感来真难呢。  
 就是上面那首曲子。
-
 ## 其他资料
 
 ### 乐理资讯
 
 ### 分析考据
-- 永劫
+
+- 永劫 
   - 指极长的时期。“劫”是梵语劫波的简称，是计算世界成坏相的名词。佛教里的“永劫”指永无穷尽之时。
-
-
 
 
 

@@ -1,37 +1,19 @@
 # GRIFFON/限定色/水桥帕露西
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\f3\ns0%3AGRIFFON%2F%E9%99%90%E5%AE%9A%E8%89%B2%2F%E6%B0%B4%E6%A1%A5%E5%B8%95%E9%9C%B2%E8%A5%BF.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\f3\ns0%3AGRIFFON%2F%E9%99%90%E5%AE%9A%E8%89%B2%2F%E6%B0%B4%E6%A1%A5%E5%B8%95%E9%9C%B2%E8%A5%BF.html -->
 
 水桥帕露西PVCFigure手办模型
 
 本页是关于东方Project  
- **相关实体周边 (未找到链接)** 的词条
-
+**相关实体周边 (未找到链接)**的词条
 ## 模型信息
 
-<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 水桥帕露西 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>限定色</td></tr><tr><td class="label">角色</td><td><a href="./水桥帕露西.md" title="水桥帕露西">水桥帕露西</a></td></tr><tr><td class="label">原型师</td><td><a href="/index.php?title=Derry&amp;action=edit&amp;redlink=1" class="new" title="Derry（页面不存在）">Derry</a></td></tr><tr><td class="label">比例</td><td>1/8</td></tr><tr><td class="label">尺寸</td><td>180 mm</td></tr><tr><td class="label">状态</td><td>已发售</td></tr><tr><td class="label">展会限定</td><td>第十回 博丽神社例大祭，Wonder Festival-2015冬</td></tr><tr><td class="label">售价</td><td>7619日元</td></tr><tr><td class="label">首发日期</td><td>2013-05-27</td></tr><tr><td class="label">发售方</td><td><a href="/index.php?title=GRIFFON&amp;action=edit&amp;redlink=1" class="new" title="GRIFFON（页面不存在）">GRIFFON</a></td></tr><tr><td class="label">再版日期</td><td>2015-02-08</td></tr></tbody></table>
+<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 水桥帕露西 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>限定色</td></tr><tr><td class="label">角色</td><td><a href="./水桥帕露西.md" title="水桥帕露西">水桥帕露西</a></td></tr><tr><td class="label">原型师</td><td><a class="new" title="Derry（页面不存在）">Derry</a></td></tr><tr><td class="label">比例</td><td>1/8</td></tr><tr><td class="label">尺寸</td><td>180 mm</td></tr><tr><td class="label">状态</td><td>已发售</td></tr><tr><td class="label">展会限定</td><td>第十回 博丽神社例大祭，Wonder Festival-2015冬</td></tr><tr><td class="label">售价</td><td>7619日元</td></tr><tr><td class="label">首发日期</td><td>2013-05-27</td></tr><tr><td class="label">发售方</td><td><a class="new" title="GRIFFON（页面不存在）">GRIFFON</a></td></tr><tr><td class="label">再版日期</td><td>2015-02-08</td></tr></tbody></table>
 
 GRIFFON/限定色/水桥帕露西（周边） - 水桥帕露西PVCFigure手办模型
-
 ## 参考图片
-
-
-
-[](./文件-GRIFFON限定色水桥帕露西-1.jpg.md)
-
-
-文件:GRIFFON限定色水桥帕露西-2.jpg (未找到链接)
-
-
-文件:GRIFFON限定色水桥帕露西-3.jpg (未找到链接)
-
-公式图
-
-
-
-
-
-
+<img alt="GRIFFON限定色水桥帕露西" src="https://upload.thwiki.cc/thumb/3/3a/GRIFFON%E9%99%90%E5%AE%9A%E8%89%B2%E6%B0%B4%E6%A1%A5%E5%B8%95%E9%9C%B2%E8%A5%BF-1.jpg/160px-GRIFFON%E9%99%90%E5%AE%9A%E8%89%B2%E6%B0%B4%E6%A1%A5%E5%B8%95%E9%9C%B2%E8%A5%BF-1.jpg" decoding="async" loading="lazy" width="160" height="188" srcset="https://upload.thwiki.cc/thumb/3/3a/GRIFFON%E9%99%90%E5%AE%9A%E8%89%B2%E6%B0%B4%E6%A1%A5%E5%B8%95%E9%9C%B2%E8%A5%BF-1.jpg/240px-GRIFFON%E9%99%90%E5%AE%9A%E8%89%B2%E6%B0%B4%E6%A1%A5%E5%B8%95%E9%9C%B2%E8%A5%BF-1.jpg 1.5x, https://upload.thwiki.cc/3/3a/GRIFFON%E9%99%90%E5%AE%9A%E8%89%B2%E6%B0%B4%E6%A1%A5%E5%B8%95%E9%9C%B2%E8%A5%BF-1.jpg 2x" data-file-width="305" data-file-height="358">
+文件:GRIFFON限定色水桥帕露西-2.jpg (未找到链接)文件:GRIFFON限定色水桥帕露西-3.jpg (未找到链接)公式图
 
 ---
 

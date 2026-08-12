@@ -1,6 +1,6 @@
 # 文件:Era_of_conagusuri_01封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\00\ns6%3AEra_of_conagusuri_01%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\00\ns6%3AEra_of_conagusuri_01%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 こなぐすり | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@
   
 
 - [Era of conagusuri 01](./Era_of_conagusuri_01.md)
-
-
-
 
 
 ---

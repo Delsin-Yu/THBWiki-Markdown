@@ -1,12 +1,8 @@
 # 文件:SCoOW02_02.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\54\ns6%3ASCoOW02_02%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\54\ns6%3ASCoOW02_02%2Emp3.html -->
 
 东方外来韦编 | 原曲MP3 | 永夜的报应_～_Pipes_and_Fiddle.
-
-
-
-
 
 
 ---

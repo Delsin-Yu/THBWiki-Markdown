@@ -1,6 +1,6 @@
 # 文件:純心の在処／It's_Lunatictime!!封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6a\ns6%3A%E7%B4%94%E5%BF%83%E3%81%AE%E5%9C%A8%E5%87%A6%EF%BC%8FIt%27s_Lunatictime%21%21%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6a\ns6%3A%E7%B4%94%E5%BF%83%E3%81%AE%E5%9C%A8%E5%87%A6%EF%BC%8FIt%27s_Lunatictime%21%21%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 舞々
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [純心の在処／It's Lunatictime!!](./純心の在処／It's_Lunatictime!!.md)  
-该封面包含的角色：- [纯狐](./纯狐.md)
-
-
-
+- [純心の在処／It's Lunatictime!!](./純心の在処／It's_Lunatictime!!.md)该封面包含的角色：
+- [纯狐](./纯狐.md)
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:夜樱怪道（大战争EX面场景）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\85\ns6%3A%E5%A4%9C%E6%A8%B1%E6%80%AA%E9%81%93%EF%BC%88%E5%A4%A7%E6%88%98%E4%BA%89EX%E9%9D%A2%E5%9C%BA%E6%99%AF%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\85\ns6%3A%E5%A4%9C%E6%A8%B1%E6%80%AA%E9%81%93%EF%BC%88%E5%A4%A7%E6%88%98%E4%BA%89EX%E9%9D%A2%E5%9C%BA%E6%99%AF%EF%BC%89%2Ejpg.html -->
 
 夜樱怪道 | 妖精大战争
-
-
-
-
 
 
 ---

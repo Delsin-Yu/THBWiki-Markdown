@@ -1,6 +1,6 @@
 # 文件:Perfect_Square_先行CD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1c\ns6%3APerfect_Square_%E5%85%88%E8%A1%8CCD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1c\ns6%3APerfect_Square_%E5%85%88%E8%A1%8CCD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ゆづき亭 | 专辑封面 | 封面图片
 
@@ -13,12 +13,7 @@
 - [Perfect Square 先行CD](./Perfect_Square_先行CD.md)
 
   
-源地址：[suruga-ya](https://www.suruga-ya.jp/database/pics/game/186119582.jpg)
-  
-
-
-
-
+源地址：[suruga-ya](https://www.suruga-ya.jp/database/pics/game/186119582.jpg)  
 
 ---
 

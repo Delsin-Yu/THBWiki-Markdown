@@ -1,18 +1,13 @@
 # 文件:BAT☆STARbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\67\ns6%3ABAT%E2%98%86STARbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\67\ns6%3ABAT%E2%98%86STARbanner%2Epng.html -->
 
 BAT☆STAR | 社团LOGO
 
 
 ## 摘要
   
-源地址：[direct image link (max size)](https://blog-imgs-57-origin.fc2.com/b/a/t/batstar/logo3.png), [source page](http://batstar.blog.fc2.com/blog-entry-1.html)
-  
-
-
-
-
+源地址：[direct image link (max size)](https://blog-imgs-57-origin.fc2.com/b/a/t/batstar/logo3.png), [source page](http://batstar.blog.fc2.com/blog-entry-1.html)  
 
 ---
 

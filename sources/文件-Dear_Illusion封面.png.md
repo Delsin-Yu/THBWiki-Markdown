@@ -1,6 +1,6 @@
 # 文件:Dear_Illusion封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\97\ns6%3ADear_Illusion%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\97\ns6%3ADear_Illusion%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 我楽多東京
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Dear Illusion](./Dear_Illusion.md)  
-该封面包含的角色：- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [Dear Illusion](./Dear_Illusion.md)该封面包含的角色：
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

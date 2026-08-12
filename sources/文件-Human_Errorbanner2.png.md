@@ -1,18 +1,13 @@
 # 文件:Human_Errorbanner2.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\60\ns6%3AHuman_Errorbanner2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\60\ns6%3AHuman_Errorbanner2%2Epng.html -->
 
 Human_Error | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[direct image link](http://epockmaking.web.fc2.com/link/human.png), [source page](http://epockmaking.web.fc2.com/link/link.html)
-  
-
-
-
-
+源地址：[direct image link](http://epockmaking.web.fc2.com/link/human.png), [source page](http://epockmaking.web.fc2.com/link/link.html)  
 
 ---
 

@@ -1,12 +1,8 @@
 # 文件:梯屋banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d1\ns6%3A%E6%A2%AF%E5%B1%8Bbanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d1\ns6%3A%E6%A2%AF%E5%B1%8Bbanner%2Egif.html -->
 
 梯屋 | 社团LOGO
-
-
-
-
 
 
 ---

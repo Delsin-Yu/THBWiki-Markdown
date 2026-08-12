@@ -1,6 +1,6 @@
 # 文件:Black_TOY_Box封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\52\ns6%3ABlack_TOY_Box%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\52\ns6%3ABlack_TOY_Box%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Colorful_Umbrella | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ Colorful_Umbrella | 专辑封面 | 封面图片
   
 
 - [Black TOY Box](./Black_TOY_Box.md)
-
-
-
 
 
 ---

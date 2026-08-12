@@ -1,12 +1,8 @@
 # 文件:狂视「狂视调律(Illusion_Seeker)」（永夜抄）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\28\ns6%3A%E7%8B%82%E8%A7%86%E3%80%8C%E7%8B%82%E8%A7%86%E8%B0%83%E5%BE%8B%28Illusion_Seeker%29%E3%80%8D%EF%BC%88%E6%B0%B8%E5%A4%9C%E6%8A%84%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\28\ns6%3A%E7%8B%82%E8%A7%86%E3%80%8C%E7%8B%82%E8%A7%86%E8%B0%83%E5%BE%8B%28Illusion_Seeker%29%E3%80%8D%EF%BC%88%E6%B0%B8%E5%A4%9C%E6%8A%84%EF%BC%89%2Ejpg.html -->
 
 东方永夜抄 | 敌机符卡 | 铃仙·优昙华院·因幡
-
-
-
-
 
 
 ---

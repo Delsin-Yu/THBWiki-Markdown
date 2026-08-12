@@ -1,22 +1,16 @@
 # 附带文档:VIVIT-99
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\d\dd\ns506%3AVIVIT-99.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\d\dd\ns506%3AVIVIT-99.html -->
 
 VIVIT-99 | 使用了翻译表的页面
 
-- 本词条内容为 **[VIVIT-99](./VIVIT-99.md)** 的附带文档之一
+
+- 本词条内容为**[VIVIT-99](./VIVIT-99.md)**的附带文档之一
 - 如果发现翻译问题可进行改正
+
 
 - [开发日志和留言区](https://ss-do.sakura.ne.jp/#/diary/97)
 - [回应和补充说明](https://ss-do.sakura.ne.jp/#/diary/98)
-
-  
-  
-
-  
-
-
-
 
 
 ---

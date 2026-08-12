@@ -1,43 +1,33 @@
 # 东方儚月抄_～_Cage_in_Lunatic_Runagate./第七话
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\7\7e\ns0%3A%E4%B8%9C%E6%96%B9%E5%84%9A%E6%9C%88%E6%8A%84_%EF%BD%9E_Cage_in_Lunatic_Runagate%2E%2F%E7%AC%AC%E4%B8%83%E8%AF%9D.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\7\7e\ns0%3A%E4%B8%9C%E6%96%B9%E5%84%9A%E6%9C%88%E6%8A%84_%EF%BD%9E_Cage_in_Lunatic_Runagate%2E%2F%E7%AC%AC%E4%B8%83%E8%AF%9D.html -->
 
 东方儚月抄_～_Cage_in_Lunatic_Runagate.
 
 <center>
-
 <table>
 <tbody><tr>
-<td>&lt;
+<td><
 </td>
-<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./东方儚月抄_～_Cage_in_Lunatic_Runagate.-第六话.md" title="东方儚月抄 ～ Cage in Lunatic Runagate./第六话">第六话</a>&#160;
+<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./东方儚月抄_～_Cage_in_Lunatic_Runagate.-第六话.md" title="东方儚月抄 ～ Cage in Lunatic Runagate./第六话">第六话</a> 
 </td>
-<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="./东方儚月抄_～_Cage_in_Lunatic_Runagate..md" title="东方儚月抄 ～ Cage in Lunatic Runagate.">东方儚月抄 ～ Cage in Lunatic Runagate.</a>&#160;
+<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;"> <a href="./东方儚月抄_～_Cage_in_Lunatic_Runagate..md" title="东方儚月抄 ～ Cage in Lunatic Runagate.">东方儚月抄 ～ Cage in Lunatic Runagate.</a> 
 </td>
-<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left">&#160;<a href="./东方儚月抄_～_Cage_in_Lunatic_Runagate.-最终话.md" title="东方儚月抄 ～ Cage in Lunatic Runagate./最终话">最终话</a>
+<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left"> <a href="./东方儚月抄_～_Cage_in_Lunatic_Runagate.-最终话.md" title="东方儚月抄 ～ Cage in Lunatic Runagate./最终话">最终话</a>
 </td>
-<td>&gt;
+<td>>
 </td></tr></tbody></table>
 
   
 </center>
-- 本词条为中文翻译版，如需要日文对照请参见 **[中日对照](./东方儚月抄_～_Cage_in_Lunatic_Runagate.-第七话-中日对照.md)** 
+- 本词条为中文翻译版，如需要日文对照请参见**[中日对照](./东方儚月抄_～_Cage_in_Lunatic_Runagate.-第七话-中日对照.md)**
 - 本话连载时间：2008年12月25日，Chara☆Mel Vol.7
 - 本话于单行本中页数：138-159
 
-  
-  
-
-  
-
-[](./文件-儚月抄小说封面7.jpg.md)  [](./文件-儚月抄小说封面7.jpg.md)
-  
- **<big><big>第七话 半身半义[^cite_note-1]</big></big>**   
-
-<big>不成熟的少女剑士，　不论剑技或为人之道，她都还未修成……</big>
-  
-
-
+<img alt="儚月抄小说封面7.jpg" src="https://upload.thwiki.cc/thumb/d/d3/%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E5%B0%81%E9%9D%A27.jpg/200px-%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E5%B0%81%E9%9D%A27.jpg" decoding="async" loading="lazy" width="200" height="282" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/d/d3/%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E5%B0%81%E9%9D%A27.jpg/300px-%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E5%B0%81%E9%9D%A27.jpg 1.5x, https://upload.thwiki.cc/thumb/d/d3/%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E5%B0%81%E9%9D%A27.jpg/400px-%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E5%B0%81%E9%9D%A27.jpg 2x" data-file-width="1418" data-file-height="2000">
+ [放大](./文件-儚月抄小说封面7.jpg.md)  
+**<big><big>第七话 半身半义[^cite_note-1]</big></big>**  
+<big>不成熟的少女剑士， 不论剑技或为人之道，她都还未修成……</big>  
   
 　　海水因一股不可思议的力量而上下起伏。那是波。  
 
@@ -112,11 +102,10 @@
 　　对于无法理解的事情，我一向有个立即提问的习惯。毕竟我曾被这么教导过，问乃一时之耻、不问乃一生之耻。  
 
 　　不过，我有时又觉得这样会妨碍理解。不管什么事情都要别人来告诉你，反而会失去自己认真思考的动力。  
-
   
 
-&#160;&#160;&#160;&#160;有一次我和往常一样向幽幽子大人提问后，得到了这样的教诲。[](./文件-儚月抄小说插图7-1.jpg.md)  [](./文件-儚月抄小说插图7-1.jpg.md)  
-
+    有一次我和往常一样向幽幽子大人提问后，得到了这样的教诲。<img alt="儚月抄小说插图7-1.jpg" src="https://upload.thwiki.cc/thumb/a/a6/%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE7-1.jpg/200px-%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE7-1.jpg" decoding="async" loading="lazy" width="200" height="138" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/a/a6/%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE7-1.jpg/300px-%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE7-1.jpg 1.5x, https://upload.thwiki.cc/thumb/a/a6/%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE7-1.jpg/400px-%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE7-1.jpg 2x" data-file-width="1413" data-file-height="977">
+ [放大](./文件-儚月抄小说插图7-1.jpg.md)  
   
 　　「妖梦只要一开口，就一定是‘那是什么？’、‘什么意思？’那些不说话的幽灵都要含蓄得多呢。」  
 
@@ -174,7 +163,7 @@
 
 　　让人在意的是，这架火箭看上去只不过是一间小号的奇怪房子，完全看不到任何用于飞行的构造。  
 
-&#160;&#160;&#160;&#160;……这么一来，不就仅仅是个别墅而已吗。  
+    ……这么一来，不就仅仅是个别墅而已吗。  
 
 　　该不会造火箭独自去月球之类的只是故弄玄虚，实际上最终的目的就是造个火箭型别墅赏月什么的，会不会是这种结局呢。  
 
@@ -273,11 +262,10 @@
 　　在我眼里，那些人在幻想乡中只能算是异己分子。  
 
 　　虽然我是打算监视吸血鬼，但那是因为我想知道紫大人的真正意图，绝对没有想成为月之民同伴的意思……而阻挠吸血鬼造火箭的话，就结果来说，不就成了那些家伙的同伙了吗？  
-
   
 
-　　总之，我留下一句「如果想到什么线索会帮忙的」，就离开了红魔馆。[](./文件-儚月抄小说插图7-2.jpg.md)  [](./文件-儚月抄小说插图7-2.jpg.md)  
-
+　　总之，我留下一句「如果想到什么线索会帮忙的」，就离开了红魔馆。<img alt="儚月抄小说插图7-2.jpg" src="https://upload.thwiki.cc/thumb/0/0d/%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE7-2.jpg/200px-%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE7-2.jpg" decoding="async" loading="lazy" width="200" height="142" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/0/0d/%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE7-2.jpg/300px-%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE7-2.jpg 1.5x, https://upload.thwiki.cc/thumb/0/0d/%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE7-2.jpg/400px-%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE7-2.jpg 2x" data-file-width="1434" data-file-height="1020">
+ [放大](./文件-儚月抄小说插图7-2.jpg.md)  
   
 　　——通往博丽神社的道路。  
 
@@ -446,11 +434,10 @@
 　　幽幽子大人来催了。  
 
 　　「不快点的话就要开始了哦？今天可是中秋的明月啊。」  
-
   
 
-　　与其说赏月要开始了，我感觉其实只是她自己肚子饿了。[](./文件-儚月抄小说插图7-3.jpg.md)  [](./文件-儚月抄小说插图7-3.jpg.md)  
-
+　　与其说赏月要开始了，我感觉其实只是她自己肚子饿了。<img alt="儚月抄小说插图7-3.jpg" src="https://upload.thwiki.cc/thumb/c/c7/%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE7-3.jpg/200px-%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE7-3.jpg" decoding="async" loading="lazy" width="200" height="250" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/c/c7/%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE7-3.jpg/300px-%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE7-3.jpg 1.5x, https://upload.thwiki.cc/thumb/c/c7/%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE7-3.jpg/400px-%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE7-3.jpg 2x" data-file-width="1175" data-file-height="1470">
+ [放大](./文件-儚月抄小说插图7-3.jpg.md)  
   
 　　「日历上是这样没错……可是看最近的天气，今晚恐怕还会下雨呢。」  
 
@@ -525,11 +512,10 @@
 　　然后，对于自己去思考并行动这件事彻底放弃了。  
 
 　　如同幽幽子大人所希望的那样，让吸血鬼完成火箭，抢在紫大人前面先去了月球。  
-
   
 
-　　这样就好了吗。[](./文件-儚月抄小说插图7-4.jpg.md)  [](./文件-儚月抄小说插图7-4.jpg.md)  
-
+　　这样就好了吗。<img alt="儚月抄小说插图7-4.jpg" src="https://upload.thwiki.cc/thumb/3/3a/%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE7-4.jpg/200px-%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE7-4.jpg" decoding="async" loading="lazy" width="200" height="142" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/3/3a/%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE7-4.jpg/300px-%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE7-4.jpg 1.5x, https://upload.thwiki.cc/thumb/3/3a/%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE7-4.jpg/400px-%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE7-4.jpg 2x" data-file-width="1380" data-file-height="983">
+ [放大](./文件-儚月抄小说插图7-4.jpg.md)  
   
 　　——形势发展的结果，我此刻正在月球上。  
 
@@ -572,37 +558,26 @@
 　　殊不知，那份感激之情转变为后悔，只是过了几个小时后的事。  
 
 　　我强烈地感觉到，自己只不过是被与自己波长截然不同的人们彻底耍了一通。   
-
   
-
- **第七话 半身半义 / 完** 
-  
-
-
-
+**第七话 半身半义 / 完**  
 [^cite_note-1]: 与“半信半疑”同音。
-
+[^cite_note-2]: 连载作“彼岸”，单行本（至少初版）作“此岸”。目测单行本出错，改成连载版。
 <center>
-
 <table>
 <tbody><tr>
-<td>&lt;
+<td><
 </td>
-<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./东方儚月抄_～_Cage_in_Lunatic_Runagate.-第六话.md" title="东方儚月抄 ～ Cage in Lunatic Runagate./第六话">第六话</a>&#160;
+<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./东方儚月抄_～_Cage_in_Lunatic_Runagate.-第六话.md" title="东方儚月抄 ～ Cage in Lunatic Runagate./第六话">第六话</a> 
 </td>
-<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="./东方儚月抄_～_Cage_in_Lunatic_Runagate..md" title="东方儚月抄 ～ Cage in Lunatic Runagate.">东方儚月抄 ～ Cage in Lunatic Runagate.</a>&#160;
+<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;"> <a href="./东方儚月抄_～_Cage_in_Lunatic_Runagate..md" title="东方儚月抄 ～ Cage in Lunatic Runagate.">东方儚月抄 ～ Cage in Lunatic Runagate.</a> 
 </td>
-<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left">&#160;<a href="./东方儚月抄_～_Cage_in_Lunatic_Runagate.-最终话.md" title="东方儚月抄 ～ Cage in Lunatic Runagate./最终话">最终话</a>
+<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left"> <a href="./东方儚月抄_～_Cage_in_Lunatic_Runagate.-最终话.md" title="东方儚月抄 ～ Cage in Lunatic Runagate./最终话">最终话</a>
 </td>
-<td>&gt;
+<td>>
 </td></tr></tbody></table>
 
   
 </center>
-
-
-
-
 ---
 
 此文档由 [THBWiki-Markdown-Builder](https://github.com/Delsin-Yu/THBWiki-Markdown-Builder) 构建。

@@ -1,6 +1,6 @@
 # 文件:鬼灯_HO-ZUKI封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2b\ns6%3A%E9%AC%BC%E7%81%AF_HO-ZUKI%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2b\ns6%3A%E9%AC%BC%E7%81%AF_HO-ZUKI%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 WAVEDRIVE | 专辑封面 | 封面图片
 
@@ -8,12 +8,10 @@ WAVEDRIVE | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [鬼灯 HO-ZUKI](./鬼灯_HO-ZUKI.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [蓬莱山辉夜](./蓬莱山辉夜.md)[从英文wiki下载；原出处未知](https://en.touhouwiki.net/images/a/ac/WDCD-0002.jpg)
-
-
-
-
+- [鬼灯 HO-ZUKI](./鬼灯_HO-ZUKI.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [蓬莱山辉夜](./蓬莱山辉夜.md)
+[从英文wiki下载；原出处未知](https://en.touhouwiki.net/images/a/ac/WDCD-0002.jpg)
 
 ---
 

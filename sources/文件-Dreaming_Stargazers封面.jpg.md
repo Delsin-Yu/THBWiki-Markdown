@@ -1,6 +1,6 @@
 # 文件:Dreaming_Stargazers封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\53\ns6%3ADreaming_Stargazers%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\53\ns6%3ADreaming_Stargazers%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Frozen_Starfall | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Frozen_Starfall | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Dreaming Stargazers](./Dreaming_Stargazers.md)  
-该封面包含的角色：- [埴安神袿姬](./埴安神袿姬.md)
-
-
-
+- [Dreaming Stargazers](./Dreaming_Stargazers.md)该封面包含的角色：
+- [埴安神袿姬](./埴安神袿姬.md)
 
 
 ---

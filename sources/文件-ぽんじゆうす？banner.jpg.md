@@ -1,14 +1,11 @@
 # 文件:ぽんじゆうす？banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\36\ns6%3A%E3%81%BD%E3%82%93%E3%81%98%E3%82%86%E3%81%86%E3%81%99%EF%BC%9Fbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\36\ns6%3A%E3%81%BD%E3%82%93%E3%81%98%E3%82%86%E3%81%86%E3%81%99%EF%BC%9Fbanner%2Ejpg.html -->
 
 ぽんじゆうす？ | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

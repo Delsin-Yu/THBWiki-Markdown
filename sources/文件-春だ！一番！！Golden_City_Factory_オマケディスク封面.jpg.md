@@ -1,6 +1,6 @@
 # 文件:春だ！一番！！Golden_City_Factory_オマケディスク封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ca\ns6%3A%E6%98%A5%E3%81%A0%EF%BC%81%E4%B8%80%E7%95%AA%EF%BC%81%EF%BC%81Golden_City_Factory_%E3%82%AA%E3%83%9E%E3%82%B1%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ca\ns6%3A%E6%98%A5%E3%81%A0%EF%BC%81%E4%B8%80%E7%95%AA%EF%BC%81%EF%BC%81Golden_City_Factory_%E3%82%AA%E3%83%9E%E3%82%B1%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Golden_City_Factory | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Golden_City_Factory | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [春だ！一番！！Golden City Factory オマケディスク](./春だ！一番！！Golden_City_Factory_オマケディスク.md)  
-该封面包含的角色：- [橙](./橙.md)
-
-
-
+- [春だ！一番！！Golden City Factory オマケディスク](./春だ！一番！！Golden_City_Factory_オマケディスク.md)该封面包含的角色：
+- [橙](./橙.md)
 
 
 ---

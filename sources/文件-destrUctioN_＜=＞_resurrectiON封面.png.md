@@ -1,6 +1,6 @@
 # 文件:destrUctioN_＜=＞_resurrectiON封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4e\ns6%3AdestrUctioN_%EF%BC%9C%3D%EF%BC%9E_resurrectiON%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4e\ns6%3AdestrUctioN_%EF%BC%9C%3D%EF%BC%9E_resurrectiON%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Reason_Is_Nowhere | ガネメ | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Reason_Is_Nowhere | ガネメ | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [destrUctioN ＜=＞ resurrectiON](./destrUctioN_＜=＞_resurrectiON.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [destrUctioN ＜=＞ resurrectiON](./destrUctioN_＜=＞_resurrectiON.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
   
-源地址：[[1]](http://static.tumblr.com/ea99721107729cf3d966b1d0c14258ec/lircoia/6b4mxnit4/tumblr_static_titlefra3png.png)
-  
-
-
-
-
+源地址：[\[1\]](http://static.tumblr.com/ea99721107729cf3d966b1d0c14258ec/lircoia/6b4mxnit4/tumblr_static_titlefra3png.png)  
 
 ---
 

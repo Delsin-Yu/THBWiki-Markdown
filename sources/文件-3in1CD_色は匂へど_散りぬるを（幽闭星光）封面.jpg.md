@@ -1,6 +1,6 @@
 # 文件:3in1CD_色は匂へど_散りぬるを（幽闭星光）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f5\ns6%3A3in1CD_%E8%89%B2%E3%81%AF%E5%8C%82%E3%81%B8%E3%81%A9_%E6%95%A3%E3%82%8A%E3%81%AC%E3%82%8B%E3%82%92%EF%BC%88%E5%B9%BD%E9%97%AD%E6%98%9F%E5%85%89%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f5\ns6%3A3in1CD_%E8%89%B2%E3%81%AF%E5%8C%82%E3%81%B8%E3%81%A9_%E6%95%A3%E3%82%8A%E3%81%AC%E3%82%8B%E3%82%92%EF%BC%88%E5%B9%BD%E9%97%AD%E6%98%9F%E5%85%89%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 幽闭星光
 
@@ -8,11 +8,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [3in1CD 色は匂へど散りぬるを（幽闭星光）](./3in1CD_色は匂へど散りぬるを（幽闭星光）.md)  
-该封面包含的角色：- [大妖精](./大妖精.md)- [西行寺幽幽子](./西行寺幽幽子.md)- [八云紫](./八云紫.md)- [蓬莱山辉夜](./蓬莱山辉夜.md)- [圣白莲](./圣白莲.md)
-
-
-
+- [3in1CD 色は匂へど散りぬるを（幽闭星光）](./3in1CD_色は匂へど散りぬるを（幽闭星光）.md)该封面包含的角色：
+- [大妖精](./大妖精.md)
+- [西行寺幽幽子](./西行寺幽幽子.md)
+- [八云紫](./八云紫.md)
+- [蓬莱山辉夜](./蓬莱山辉夜.md)
+- [圣白莲](./圣白莲.md)
 
 
 ---

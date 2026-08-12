@@ -1,12 +1,8 @@
 # 文件:平安喜乐四字神社logo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1f\ns6%3A%E5%B9%B3%E5%AE%89%E5%96%9C%E4%B9%90%E5%9B%9B%E5%AD%97%E7%A5%9E%E7%A4%BElogo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1f\ns6%3A%E5%B9%B3%E5%AE%89%E5%96%9C%E4%B9%90%E5%9B%9B%E5%AD%97%E7%A5%9E%E7%A4%BElogo%2Epng.html -->
 
 平安喜乐四字神社 | 社团LOGO
-
-
-
-
 
 
 ---

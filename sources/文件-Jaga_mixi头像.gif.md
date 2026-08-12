@@ -1,12 +1,8 @@
 # 文件:Jaga_mixi头像.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0a\ns6%3AJaga_mixi%E5%A4%B4%E5%83%8F%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0a\ns6%3AJaga_mixi%E5%A4%B4%E5%83%8F%2Egif.html -->
 
 Mixi
-
-
-
-
 
 
 ---

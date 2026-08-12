@@ -1,38 +1,28 @@
 # 粘稠的海索面_～_Act_the_FOOL_HAHAHA
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\5\5f\ns0%3A%E7%B2%98%E7%A8%A0%E7%9A%84%E6%B5%B7%E7%B4%A2%E9%9D%A2_%EF%BD%9E_Act_the_FOOL_HAHAHA.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\5\5f\ns0%3A%E7%B2%98%E7%A8%A0%E7%9A%84%E6%B5%B7%E7%B4%A2%E9%9D%A2_%EF%BD%9E_Act_the_FOOL_HAHAHA.html -->
 
 JynX作曲 | 引用了翻译表的页面 | 粘稠的海索面_～_Act_the_FOOL_HAHAHA | 连缘Project | 连缘Project官方音乐
 
-本页是关于 **向[东方Project](./东方Project.md)  
-致敬、形式类似的作品** 的词条
-
+本页是关于**向[东方Project](./东方Project.md)致敬、形式类似的作品**  
+的词条
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 出现作品](#出现作品)
 - [3 音乐文件](#音乐文件)
-
   - [3.1 连缘蛇丛剑](#连缘蛇丛剑)
   - [3.2 连缘天影战记](#连缘天影战记)
 
 
-
 - [4 说明文本](#说明文本)
-
   - [4.1 连缘蛇丛剑](#连缘蛇丛剑_2)
   - [4.2 连缘天影战记](#连缘天影战记_2)
 
 
-
 - [5 其他资料](#其他资料)
-
   - [5.1 乐理资讯](#乐理资讯)
   - [5.2 分析考据](#分析考据)
-
-
-
-
 
 
 
@@ -61,7 +51,6 @@ JynX作曲 | 引用了翻译表的页面 | 粘稠的海索面_～_Act_the_FOOL_H
 </td></tr></tbody></table>
 
 
-
 ## 出现作品
 
 <table>
@@ -71,7 +60,6 @@ JynX作曲 | 引用了翻译表的页面 | 粘稠的海索面_～_Act_the_FOOL_H
 </tbody></table>
 
 
-
 ## 音乐文件
 
 ### 连缘蛇丛剑
@@ -79,17 +67,16 @@ JynX作曲 | 引用了翻译表的页面 | 粘稠的海索面_～_Act_the_FOOL_H
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>MIDI格式</b></td><td>无播放信息</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-le02_05.mp3.md" title="文件:le02 05.mp3">le02_05.mp3</a><br><audio src="https://upload.thwiki.cc/d/dd/le02_05.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>未填写</td></tr></tbody></table>
 
 
-
 ### 连缘天影战记
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>MIDI格式</b></td><td>无播放信息</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-le04_BOSS_Shou.mp3.md" title="文件:le04 BOSS Shou.mp3">le04_BOSS_Shou.mp3</a><br><audio src="https://upload.thwiki.cc/c/ce/le04_BOSS_Shou.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>未填写</td></tr></tbody></table>
 
 
-
 ## 说明文本
 
 ### 连缘蛇丛剑
-- Music Room (未找到链接)
+
+- [Music Room](./连缘蛇丛剑～Earthen_Miraculous_Sword-Music.md#2面BOSS-雨杏宵主题曲)
 
 冒牌蛞蝓的曲子。  
 虽然是想做出纵情嬉闹的曲子就是了，  
@@ -98,9 +85,9 @@ JynX作曲 | 引用了翻译表的页面 | 粘稠的海索面_～_Act_the_FOOL_H
 不过硬要说的话算凯尔特风吧？  
 我也很喜欢爱尔兰风的乐曲。  
 但我不喜欢食用蜗牛啊。给我撒盐！盐！[^cite_note-1]
-
 ### 连缘天影战记
-- Music Room (未找到链接)
+
+- [Music Room](./连缘天影战记～Brilliant_pagoda_or_haze_castle-Music.md#中立线2面Boss-雨杏宵主题曲)
 
 二面BOSS，不是蛞蝓的家伙的曲子。  
 是再前作的曲子的改编版，  
@@ -110,17 +97,12 @@ JynX作曲 | 引用了翻译表的页面 | 粘稠的海索面_～_Act_the_FOOL_H
 为了不与那个角色形象撞车，祂好像很努力的样子  
   
 明明是海蛞蝓，却不在海里。
-
 ## 其他资料
 
 ### 乐理资讯
 
 ### 分析考据
 [^cite_note-1]: 蜗牛撒盐会死，这也是雨杏宵害怕的
-
-
-
-
 
 ---
 

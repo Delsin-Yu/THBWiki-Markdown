@@ -1,6 +1,6 @@
 # 文件:REBOOT（no_brand_person）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1e\ns6%3AREBOOT%EF%BC%88no_brand_person%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1e\ns6%3AREBOOT%EF%BC%88no_brand_person%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 no_brand_person | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ no_brand_person | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [REBOOT（no brand person）](./REBOOT（no_brand_person）.md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)
-
-
-
+- [REBOOT（no brand person）](./REBOOT（no_brand_person）.md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
 
 
 ---

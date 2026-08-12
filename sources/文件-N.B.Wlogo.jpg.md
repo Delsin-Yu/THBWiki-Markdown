@@ -1,18 +1,13 @@
 # 文件:N.B.Wlogo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\72\ns6%3AN%2EB%2EWlogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\72\ns6%3AN%2EB%2EWlogo%2Ejpg.html -->
 
 N.B.W | 社团LOGO
 
 
 ## 摘要
   
-源地址：[direct image link (original size)](http://n-b-w.tokyo/wp-content/uploads/2020/04/サークルロゴ.jpg), [source page](http://n-b-w.tokyo/2020/04/14/about/)
-  
-
-
-
-
+源地址：[direct image link (original size)](http://n-b-w.tokyo/wp-content/uploads/2020/04/サークルロゴ.jpg), [source page](http://n-b-w.tokyo/2020/04/14/about/)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:Sound_of_Witches!封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a9\ns6%3ASound_of_Witches%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a9\ns6%3ASound_of_Witches%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Bullet_IX | FLANKER | Reset_All_Controllers | 专辑封面 | 封面图片
 
@@ -8,16 +8,13 @@ Bullet_IX | FLANKER | Reset_All_Controllers | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Sound of Witches!](./Sound_of_Witches!.md)  
-该封面包含的角色：- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [雾雨魔理沙](./雾雨魔理沙.md)
+- [Sound of Witches!](./Sound_of_Witches!.md)该封面包含的角色：
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-源地址：[[1]](https://twitter.com/adazakura_midi/status/782901613765681152)
-  
-
-
-
-
+源地址：[\[1\]](https://twitter.com/adazakura_midi/status/782901613765681152)  
 
 ---
 

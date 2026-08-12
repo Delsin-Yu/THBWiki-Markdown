@@ -1,16 +1,11 @@
 # 文件:鍋インシュタインbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\05\ns6%3A%E9%8D%8B%E3%82%A4%E3%83%B3%E3%82%B7%E3%83%A5%E3%82%BF%E3%82%A4%E3%83%B3banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\05\ns6%3A%E9%8D%8B%E3%82%A4%E3%83%B3%E3%82%B7%E3%83%A5%E3%82%BF%E3%82%A4%E3%83%B3banner%2Epng.html -->
 
 社团LOGO | 鍋インシュタイン
 
   
-源地址：[[1]](http://nabeinstein.com/banner.png)
-  
-
-
-
-
+源地址：[\[1\]](http://nabeinstein.com/banner.png)  
 
 ---
 

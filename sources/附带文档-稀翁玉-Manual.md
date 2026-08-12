@@ -1,11 +1,10 @@
 # 附带文档:稀翁玉/Manual
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\d\d5\ns506%3A%E7%A8%80%E7%BF%81%E7%8E%89%2FManual.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\d\d5\ns506%3A%E7%A8%80%E7%BF%81%E7%8E%89%2FManual.html -->
 
 待完成页面 | 稀翁玉
 
 <center>
-
 <table>
 <tbody><tr>
 <td class="mbox-image"><div style="width: 52px;">
@@ -14,15 +13,11 @@
 </tr>
 </tbody></table>
 
-
 </center>
-- 本词条内容为 **[稀翁玉](./稀翁玉.md)** 的附带文档之一
+- 本词条内容为**[稀翁玉](./稀翁玉.md)**的附带文档之一
 - 如果发现翻译问题可进行改正
 - 注意：本词条其原文为HTML格式的网页说明书，鉴于HTML网页完整呈现在Wiki上比较复杂且费时，目前仍仅将部分内容以对照翻译的形式列出在本页面内。
-- <big>说明书的其他内容请点击下列网址来进行访问： **[日文版](http://omake.thwiki.cc/manual/sh02/ja/)** ， **[中文版](http://omake.thwiki.cc/manual/sh02/zh/)** </big>
-
-
-
+- <big>说明书的其他内容请点击下列网址来进行访问：**[日文版](http://omake.thwiki.cc/manual/sh02/ja/)**，**[中文版](http://omake.thwiki.cc/manual/sh02/zh/)**</big>
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:山鳥エリアbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\40\ns6%3A%E5%B1%B1%E9%B3%A5%E3%82%A8%E3%83%AA%E3%82%A2banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\40\ns6%3A%E5%B1%B1%E9%B3%A5%E3%82%A8%E3%83%AA%E3%82%A2banner%2Epng.html -->
 
 山鳥エリア | 社团LOGO
-
-
-
-
 
 
 ---

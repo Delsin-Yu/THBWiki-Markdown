@@ -1,6 +1,6 @@
 # 文件:LUNATIC_MILE／月面ダンスホールへようこそ。封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\60\ns6%3ALUNATIC_MILE%EF%BC%8F%E6%9C%88%E9%9D%A2%E3%83%80%E3%83%B3%E3%82%B9%E3%83%9B%E3%83%BC%E3%83%AB%E3%81%B8%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%E3%80%82%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\60\ns6%3ALUNATIC_MILE%EF%BC%8F%E6%9C%88%E9%9D%A2%E3%83%80%E3%83%B3%E3%82%B9%E3%83%9B%E3%83%BC%E3%83%AB%E3%81%B8%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%E3%80%82%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 歌恋人 | 魂音泉
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [LUNATIC MILE／月面ダンスホールへようこそ。](./LUNATIC_MILE／月面ダンスホールへようこそ。.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [LUNATIC MILE／月面ダンスホールへようこそ。](./LUNATIC_MILE／月面ダンスホールへようこそ。.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

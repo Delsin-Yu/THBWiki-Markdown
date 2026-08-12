@@ -1,6 +1,6 @@
 # 文件:Brand_New_Sky封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b9\ns6%3ABrand_New_Sky%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b9\ns6%3ABrand_New_Sky%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 A-One | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ A-One | 专辑封面 | 封面图片
   
 
 - [Brand New Sky](./Brand_New_Sky.md)
-
-
-
 
 
 ---

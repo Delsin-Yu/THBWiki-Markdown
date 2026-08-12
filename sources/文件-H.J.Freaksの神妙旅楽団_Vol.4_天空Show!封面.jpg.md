@@ -1,6 +1,6 @@
 # 文件:H.J.Freaksの神妙旅楽団_Vol.4_天空Show!封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\26\ns6%3AH%2EJ%2EFreaks%E3%81%AE%E7%A5%9E%E5%A6%99%E6%97%85%E6%A5%BD%E5%9B%A3_Vol%2E4_%E5%A4%A9%E7%A9%BAShow%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\26\ns6%3AH%2EJ%2EFreaks%E3%81%AE%E7%A5%9E%E5%A6%99%E6%97%85%E6%A5%BD%E5%9B%A3_Vol%2E4_%E5%A4%A9%E7%A9%BAShow%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 H.J.Freaks | 专辑封面 | 封面图片
 
@@ -8,11 +8,11 @@ H.J.Freaks | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [H.J.Freaksの神妙旅楽団 Vol.4 天空Show!](./H.J.Freaksの神妙旅楽団_Vol.4_天空Show!.md)  
-该封面包含的角色：- [高丽野阿吽](./高丽野阿吽.md)- [摩多罗隐岐奈](./摩多罗隐岐奈.md)- [尔子田里乃](./尔子田里乃.md)- [丁礼田舞](./丁礼田舞.md)
-
-
-
+- [H.J.Freaksの神妙旅楽団 Vol.4 天空Show!](./H.J.Freaksの神妙旅楽団_Vol.4_天空Show!.md)该封面包含的角色：
+- [高丽野阿吽](./高丽野阿吽.md)
+- [摩多罗隐岐奈](./摩多罗隐岐奈.md)
+- [尔子田里乃](./尔子田里乃.md)
+- [丁礼田舞](./丁礼田舞.md)
 
 
 ---

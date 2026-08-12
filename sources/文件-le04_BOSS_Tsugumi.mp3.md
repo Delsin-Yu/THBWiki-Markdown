@@ -1,16 +1,12 @@
 # 文件:le04_BOSS_Tsugumi.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7a\ns6%3Ale04_BOSS_Tsugumi%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7a\ns6%3Ale04_BOSS_Tsugumi%2Emp3.html -->
 
 Let's_'n_Go_～_to_run_away! | 连缘Project官方音乐MP3 | 连缘天影战记
 
   
 连缘天影战记中立线2面Boss-马立噤美主题曲
   
-
-
-
-
 
 ---
 

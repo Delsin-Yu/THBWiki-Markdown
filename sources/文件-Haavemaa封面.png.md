@@ -1,6 +1,6 @@
 # 文件:Haavemaa封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cc\ns6%3AHaavemaa%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cc\ns6%3AHaavemaa%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 NCMR | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@ NCMR | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Haavemaa](./Haavemaa.md)  
-该封面包含的角色：- [风见幽香](./风见幽香.md)
+- [Haavemaa](./Haavemaa.md)该封面包含的角色：
+- [风见幽香](./风见幽香.md)
 
   
-源地址：[图片链接](https://f4.bcbits.com/img/a3359323237_0.jpg) [bandcamp](https://ncmr.bandcamp.com/album/haavemaa)
-  
-
-
-
-
+源地址：[图片链接](https://f4.bcbits.com/img/a3359323237_0.jpg) [bandcamp](https://ncmr.bandcamp.com/album/haavemaa)  
 
 ---
 

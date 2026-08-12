@@ -1,12 +1,8 @@
 # 文件:小野塚小町b（花映塚自机像素绘）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\64\ns6%3A%E5%B0%8F%E9%87%8E%E5%A1%9A%E5%B0%8F%E7%94%BAb%EF%BC%88%E8%8A%B1%E6%98%A0%E5%A1%9A%E8%87%AA%E6%9C%BA%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\64\ns6%3A%E5%B0%8F%E9%87%8E%E5%A1%9A%E5%B0%8F%E7%94%BAb%EF%BC%88%E8%8A%B1%E6%98%A0%E5%A1%9A%E8%87%AA%E6%9C%BA%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89%2Epng.html -->
 
 STG自机像素绘 | 东方花映塚 | 官方游戏像素绘 | 小野塚小町
-
-
-
-
 
 
 ---

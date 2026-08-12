@@ -1,6 +1,6 @@
 # 文件:浙江_东方ONLY_东方樱蝶梦_纪念CD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1c\ns6%3A%E6%B5%99%E6%B1%9F_%E4%B8%9C%E6%96%B9ONLY_%E4%B8%9C%E6%96%B9%E6%A8%B1%E8%9D%B6%E6%A2%A6_%E7%BA%AA%E5%BF%B5CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1c\ns6%3A%E6%B5%99%E6%B1%9F_%E4%B8%9C%E6%96%B9ONLY_%E4%B8%9C%E6%96%B9%E6%A8%B1%E8%9D%B6%E6%A2%A6_%E7%BA%AA%E5%BF%B5CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 浙江THONLY
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [浙江 东方ONLY 东方樱蝶梦 纪念CD](./浙江_东方ONLY_东方樱蝶梦_纪念CD.md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)- [西行寺幽幽子](./西行寺幽幽子.md)
-
-
-
+- [浙江 东方ONLY 东方樱蝶梦 纪念CD](./浙江_东方ONLY_东方樱蝶梦_纪念CD.md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
+- [西行寺幽幽子](./西行寺幽幽子.md)
 
 
 ---

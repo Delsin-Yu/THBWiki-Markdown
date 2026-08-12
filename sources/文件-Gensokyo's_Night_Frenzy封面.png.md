@@ -1,6 +1,6 @@
 # 文件:Gensokyo's_Night_Frenzy封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8b\ns6%3AGensokyo%27s_Night_Frenzy%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8b\ns6%3AGensokyo%27s_Night_Frenzy%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Distorted_Music | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@ Distorted_Music | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Gensokyo's Night Frenzy](./Gensokyo's_Night_Frenzy.md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)
+- [Gensokyo's Night Frenzy](./Gensokyo's_Night_Frenzy.md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
 
   
-源地址：[direct image link (original size, converted from webp)](https://img.photobucket.com/albums/v686/Juliette55/cover-1.png~original), [source page](https://mindfuckedloli.wordpress.com/releases/)
-  
-
-
-
-
+源地址：[direct image link (original size, converted from webp)](https://img.photobucket.com/albums/v686/Juliette55/cover-1.png~original), [source page](https://mindfuckedloli.wordpress.com/releases/)  
 
 ---
 

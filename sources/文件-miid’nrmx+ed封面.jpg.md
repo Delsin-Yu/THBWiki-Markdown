@@ -1,6 +1,6 @@
 # 文件:miid’nrmx+ed封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\02\ns6%3Amiid%E2%80%99nrmx%2Bed%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\02\ns6%3Amiid%E2%80%99nrmx%2Bed%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Iemitsu. | 专辑封面 | 封面图片
 
@@ -8,11 +8,10 @@ Iemitsu. | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [miid’nrmx+ed](./miid’nrmx+ed.md)  
-该封面包含的角色：- [因幡帝](./因幡帝.md)- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)- [八意永琳](./八意永琳.md)
-
-
-
+- [miid’nrmx+ed](./miid’nrmx+ed.md)该封面包含的角色：
+- [因幡帝](./因幡帝.md)
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
+- [八意永琳](./八意永琳.md)
 
 
 ---

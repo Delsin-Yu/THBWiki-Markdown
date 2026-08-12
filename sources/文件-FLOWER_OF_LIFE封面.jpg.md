@@ -1,6 +1,6 @@
 # 文件:FLOWER_OF_LIFE封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ac\ns6%3AFLOWER_OF_LIFE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ac\ns6%3AFLOWER_OF_LIFE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 夢中界 | 封面图片
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [FLOWER OF LIFE](./FLOWER_OF_LIFE.md)  
-该封面包含的角色：- [风见幽香](./风见幽香.md)
+- [FLOWER OF LIFE](./FLOWER_OF_LIFE.md)该封面包含的角色：
+- [风见幽香](./风见幽香.md)
 
   
-源地址：[direct image link (original size)](https://blog-imgs-44-origin.fc2.com/h/a/n/hankouki17/ganesyai.jpg), [source page](http://hankouki17.blog62.fc2.com/blog-entry-248.html)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://blog-imgs-44-origin.fc2.com/h/a/n/hankouki17/ganesyai.jpg), [source page](http://hankouki17.blog62.fc2.com/blog-entry-248.html)  
 
 ---
 

@@ -1,18 +1,13 @@
 # 文件:玲瓏のHydrangealogo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bd\ns6%3A%E7%8E%B2%E7%93%8F%E3%81%AEHydrangealogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bd\ns6%3A%E7%8E%B2%E7%93%8F%E3%81%AEHydrangealogo%2Ejpg.html -->
 
 玲瓏のHydrangea | 社团LOGO
 
 
 ## 摘要
   
-[Pixiv ID: 116136710](https://www.pixiv.net/artworks/116136710)
-  
-
-
-
-
+[Pixiv ID: 116136710](https://www.pixiv.net/artworks/116136710)  
 
 ---
 

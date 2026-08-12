@@ -1,6 +1,6 @@
 # 文件:人魚の沐浴_-misty_merfolk-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e9\ns6%3A%E4%BA%BA%E9%AD%9A%E3%81%AE%E6%B2%90%E6%B5%B4_-misty_merfolk-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e9\ns6%3A%E4%BA%BA%E9%AD%9A%E3%81%AE%E6%B2%90%E6%B5%B4_-misty_merfolk-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 狐梦想屋
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [人魚の沐浴 -misty merfolk-](./人魚の沐浴_-misty_merfolk-.md)  
-该封面包含的角色：- [若鹭姬](./若鹭姬.md)
+- [人魚の沐浴 -misty merfolk-](./人魚の沐浴_-misty_merfolk-.md)该封面包含的角色：
+- [若鹭姬](./若鹭姬.md)
 
   
-源地址：[[1]](http://tsubu.ath.cx/~komso/kmcd0015/kmcd0015.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://tsubu.ath.cx/~komso/kmcd0015/kmcd0015.jpg)  
 
 ---
 

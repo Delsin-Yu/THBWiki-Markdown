@@ -1,12 +1,8 @@
 # 模板:头文字S/届名
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\8\81\ns10%3A%E5%A4%B4%E6%96%87%E5%AD%97S%2F%E5%B1%8A%E5%90%8D.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\8\81\ns10%3A%E5%A4%B4%E6%96%87%E5%AD%97S%2F%E5%B1%8A%E5%90%8D.html -->
 
 活动届名模板
-
-
-
-
 
 
 ---

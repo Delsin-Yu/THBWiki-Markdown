@@ -1,6 +1,6 @@
 # 文件:リトルストーンハート_Vol.4封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a4\ns6%3A%E3%83%AA%E3%83%88%E3%83%AB%E3%82%B9%E3%83%88%E3%83%BC%E3%83%B3%E3%83%8F%E3%83%BC%E3%83%88_Vol%2E4%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a4\ns6%3A%E3%83%AA%E3%83%88%E3%83%AB%E3%82%B9%E3%83%88%E3%83%BC%E3%83%B3%E3%83%8F%E3%83%BC%E3%83%88_Vol%2E4%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 くらっしゅハウス | 同人志封面 | 封面图片
 
@@ -8,11 +8,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [リトルストーンハート Vol.4](./リトルストーンハート_Vol.4.md)  
-该封面包含的角色：- [古明地恋](./古明地恋.md)- [露娜切露德](./露娜切露德.md)- [桑尼米尔克](./桑尼米尔克.md)- [斯塔萨菲雅](./斯塔萨菲雅.md)- [秦心](./秦心.md)
-
-
-
+- [リトルストーンハート Vol.4](./リトルストーンハート_Vol.4.md)该封面包含的角色：
+- [古明地恋](./古明地恋.md)
+- [露娜切露德](./露娜切露德.md)
+- [桑尼米尔克](./桑尼米尔克.md)
+- [斯塔萨菲雅](./斯塔萨菲雅.md)
+- [秦心](./秦心.md)
 
 
 ---

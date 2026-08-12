@@ -1,12 +1,8 @@
 # 文件:幕I「疯狂的茶会」.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8c\ns6%3A%E5%B9%95I%E3%80%8C%E7%96%AF%E7%8B%82%E7%9A%84%E8%8C%B6%E4%BC%9A%E3%80%8D%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8c\ns6%3A%E5%B9%95I%E3%80%8C%E7%96%AF%E7%8B%82%E7%9A%84%E8%8C%B6%E4%BC%9A%E3%80%8D%2Epng.html -->
 
 东方幕华祭制作组 | 敌机符卡 | 爱丽丝·玛格特洛依德
-
-
-
-
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:PHOENIX_Project_banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c9\ns6%3APHOENIX_Project_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c9\ns6%3APHOENIX_Project_banner%2Ejpg.html -->
 
 PHOENIX_Project | 社团LOGO
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Divine_Lotus_the_Instrumental封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fd\ns6%3ADivine_Lotus_the_Instrumental%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fd\ns6%3ADivine_Lotus_the_Instrumental%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 EastNewSound | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ EastNewSound | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Divine Lotus the Instrumental](./Divine_Lotus_the_Instrumental.md)  
-该封面包含的角色：- [圣白莲](./圣白莲.md)
+- [Divine Lotus the Instrumental](./Divine_Lotus_the_Instrumental.md)该封面包含的角色：
+- [圣白莲](./圣白莲.md)
 
   
-源地址：[[1]](https://twitter.com/EastNewSound/status/894757270482964481)
-  
-
-
-
-
+源地址：[\[1\]](https://twitter.com/EastNewSound/status/894757270482964481)  
 
 ---
 

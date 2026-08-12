@@ -1,6 +1,6 @@
 # 文件:Perish_In_Polaritia封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\81\ns6%3APerish_In_Polaritia%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\81\ns6%3APerish_In_Polaritia%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 CLOCKWORKS_TRACER | 专辑封面 | 封面图片
 
@@ -8,16 +8,12 @@ CLOCKWORKS_TRACER | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Perish In Polaritia](./Perish_In_Polaritia.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [爱丽丝（旧作角色）](./爱丽丝（旧作角色）.md)
+- [Perish In Polaritia](./Perish_In_Polaritia.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [爱丽丝（旧作角色）](./爱丽丝（旧作角色）.md)
 
   
-源地址：[[1]](http://static.tumblr.com/8d28e1640be3284054a842202ba718a0/vkku7pq/wuAobcc77/tumblr_static_t4ac4raqh4go4ogg0wsk48gk.png)
-  
-
-
-
-
+源地址：[\[1\]](http://static.tumblr.com/8d28e1640be3284054a842202ba718a0/vkku7pq/wuAobcc77/tumblr_static_t4ac4raqh4go4ogg0wsk48gk.png)  
 
 ---
 

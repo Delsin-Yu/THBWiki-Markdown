@@ -1,12 +1,8 @@
 # 文件:「Lunatic_Torch_Relay」（黑市）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\75\ns6%3A%E3%80%8CLunatic_Torch_Relay%E3%80%8D%EF%BC%88%E9%BB%91%E5%B8%82%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\75\ns6%3A%E3%80%8CLunatic_Torch_Relay%E3%80%8D%EF%BC%88%E9%BB%91%E5%B8%82%EF%BC%89%2Epng.html -->
 
 克劳恩皮丝 | 弹幕狂们的黑市 | 敌机符卡
-
-
-
-
 
 
 ---

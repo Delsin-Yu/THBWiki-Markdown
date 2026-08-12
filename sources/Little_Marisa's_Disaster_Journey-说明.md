@@ -1,6 +1,6 @@
 # Little_Marisa's_Disaster_Journey/说明
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\8\8c\ns0%3ALittle_Marisa%27s_Disaster_Journey%2F%E8%AF%B4%E6%98%8E.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\8\8c\ns0%3ALittle_Marisa%27s_Disaster_Journey%2F%E8%AF%B4%E6%98%8E.html -->
 
 Dark_Sky_Empire
 
@@ -22,12 +22,10 @@ Dark_Sky_Empire
 4、更改音量大小。
   
 
-
 ## 游戏帮助
   
 在游戏安装目录中有一个txt格式文件，它记录了详细的帮助说明。
   
-
 
 ## 常见问题
   
@@ -36,10 +34,6 @@ Dark_Sky_Empire
   
 2、如果WIN10出现不能打开游戏或游戏途中黑屏的情况，请将游戏程序和它所在的目录添加到安全软件的白名单或信任路径中。这个问题的原因是游戏程序的访问权限受到限制，导致不能正常加载背景图片。
   
-
-
-
-
 
 ---
 

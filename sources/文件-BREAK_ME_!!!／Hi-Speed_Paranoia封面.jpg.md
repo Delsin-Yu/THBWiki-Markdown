@@ -1,6 +1,6 @@
 # 文件:BREAK_ME_!!!／Hi-Speed_Paranoia封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\44\ns6%3ABREAK_ME_%21%21%21%EF%BC%8FHi-Speed_Paranoia%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\44\ns6%3ABREAK_ME_%21%21%21%EF%BC%8FHi-Speed_Paranoia%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 みずいろシャボン | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [BREAK ME&#160;!!!／Hi-Speed Paranoia](./BREAK_ME_!!!／Hi-Speed_Paranoia.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [BREAK ME !!!／Hi-Speed Paranoia](./BREAK_ME_!!!／Hi-Speed_Paranoia.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
   
-源地址：[direct image link](https://s2.booth.pm/f9a4cdbc-0653-4ea8-863d-0e95f87f2dfe/i/1302934/95915562-5497-4a52-a728-e2bf1b9961bb_base_resized.jpg), [source page (circle Booth)](https://chocobanana.booth.pm/items/1302934)
-  
-
-
-
-
+源地址：[direct image link](https://s2.booth.pm/f9a4cdbc-0653-4ea8-863d-0e95f87f2dfe/i/1302934/95915562-5497-4a52-a728-e2bf1b9961bb_base_resized.jpg), [source page (circle Booth)](https://chocobanana.booth.pm/items/1302934)  
 
 ---
 

@@ -1,12 +1,8 @@
 # 文件:幻爆「近眼花火（Mind_Star_Mine）」（绯想天）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bc\ns6%3A%E5%B9%BB%E7%88%86%E3%80%8C%E8%BF%91%E7%9C%BC%E8%8A%B1%E7%81%AB%EF%BC%88Mind_Star_Mine%EF%BC%89%E3%80%8D%EF%BC%88%E7%BB%AF%E6%83%B3%E5%A4%A9%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bc\ns6%3A%E5%B9%BB%E7%88%86%E3%80%8C%E8%BF%91%E7%9C%BC%E8%8A%B1%E7%81%AB%EF%BC%88Mind_Star_Mine%EF%BC%89%E3%80%8D%EF%BC%88%E7%BB%AF%E6%83%B3%E5%A4%A9%EF%BC%89%2Ejpg.html -->
 
 东方绯想天 | 自机符卡 | 铃仙·优昙华院·因幡
-
-
-
-
 
 
 ---

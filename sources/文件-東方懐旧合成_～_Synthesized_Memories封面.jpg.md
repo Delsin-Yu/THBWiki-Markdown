@@ -1,6 +1,6 @@
 # 文件:東方懐旧合成_～_Synthesized_Memories封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5d\ns6%3A%E6%9D%B1%E6%96%B9%E6%87%90%E6%97%A7%E5%90%88%E6%88%90_%EF%BD%9E_Synthesized_Memories%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5d\ns6%3A%E6%9D%B1%E6%96%B9%E6%87%90%E6%97%A7%E5%90%88%E6%88%90_%EF%BD%9E_Synthesized_Memories%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Silent_Sinner_in_Scarlet | 专辑封面 | 封面图片
 
@@ -8,16 +8,12 @@ Silent_Sinner_in_Scarlet | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方懐旧合成 ～ Synthesized Memories](./東方懐旧合成_～_Synthesized_Memories.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [博丽灵梦（旧作角色）](./博丽灵梦（旧作角色）.md)
+- [東方懐旧合成 ～ Synthesized Memories](./東方懐旧合成_～_Synthesized_Memories.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [博丽灵梦（旧作角色）](./博丽灵梦（旧作角色）.md)
 
   
-源地址：[[1]](https://f4.bcbits.com/img/a2553735122_10.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://f4.bcbits.com/img/a2553735122_10.jpg)  
 
 ---
 

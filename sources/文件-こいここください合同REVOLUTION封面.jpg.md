@@ -1,6 +1,6 @@
 # 文件:こいここください合同REVOLUTION封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\74\ns6%3A%E3%81%93%E3%81%84%E3%81%93%E3%81%93%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E5%90%88%E5%90%8CREVOLUTION%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\74\ns6%3A%E3%81%93%E3%81%84%E3%81%93%E3%81%93%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E5%90%88%E5%90%8CREVOLUTION%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 こめおファクトリー | 同人志封面 | 封面图片
 
@@ -10,11 +10,13 @@
 使用了本文件作封面图片的作品：
   
 
-- [こいここください合同REVOLUTION](./こいここください合同REVOLUTION.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- 十六夜咲夜 (未找到链接)- [东风谷早苗](./东风谷早苗.md)- [古明地恋](./古明地恋.md)- [雾雨魔理沙](./雾雨魔理沙.md)- [秦心](./秦心.md)
-
-
-
+- [こいここください合同REVOLUTION](./こいここください合同REVOLUTION.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [十六夜咲夜](./十六夜咲夜.md)
+- [东风谷早苗](./东风谷早苗.md)
+- [古明地恋](./古明地恋.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
+- [秦心](./秦心.md)
 
 
 ---

@@ -1,14 +1,11 @@
 # 文件:よいむつbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cc\ns6%3A%E3%82%88%E3%81%84%E3%82%80%E3%81%A4banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cc\ns6%3A%E3%82%88%E3%81%84%E3%82%80%E3%81%A4banner%2Ejpg.html -->
 
 よいむつ | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

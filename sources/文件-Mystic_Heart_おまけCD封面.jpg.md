@@ -1,6 +1,6 @@
 # 文件:Mystic_Heart_おまけCD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\84\ns6%3AMystic_Heart_%E3%81%8A%E3%81%BE%E3%81%91CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\84\ns6%3AMystic_Heart_%E3%81%8A%E3%81%BE%E3%81%91CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 efs | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ efs | 专辑封面 | 封面图片
   
 
 - [Mystic Heart おまけCD](./Mystic_Heart_おまけCD.md)
-
-
-
 
 
 ---

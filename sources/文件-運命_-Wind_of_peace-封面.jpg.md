@@ -1,6 +1,6 @@
 # 文件:運命_-Wind_of_peace-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bd\ns6%3A%E9%81%8B%E5%91%BD_-Wind_of_peace-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bd\ns6%3A%E9%81%8B%E5%91%BD_-Wind_of_peace-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Wind_of_being_peaceful | 专辑封面 | 封面图片
 
@@ -13,12 +13,7 @@ Wind_of_being_peaceful | 专辑封面 | 封面图片
 - [運命 -Wind of peace-](./運命_-Wind_of_peace-.md)
 
   
-源地址：[suruga-ya](https://www.suruga-ya.jp/product/detail/186104599)
-  
-
-
-
-
+源地址：[suruga-ya](https://www.suruga-ya.jp/product/detail/186104599)  
 
 ---
 

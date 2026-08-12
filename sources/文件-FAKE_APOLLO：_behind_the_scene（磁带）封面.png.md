@@ -1,6 +1,6 @@
 # 文件:FAKE_APOLLO：_behind_the_scene（磁带）封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9b\ns6%3AFAKE_APOLLO%EF%BC%9A_behind_the_scene%EF%BC%88%E7%A3%81%E5%B8%A6%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9b\ns6%3AFAKE_APOLLO%EF%BC%9A_behind_the_scene%EF%BC%88%E7%A3%81%E5%B8%A6%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 ごんばこんなか | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [FAKE APOLLO： behind the scene（磁带）](./FAKE_APOLLO：_behind_the_scene（磁带）.md)  
-该封面包含的角色：- [克劳恩皮丝](./克劳恩皮丝.md)
-
-
-
+- [FAKE APOLLO： behind the scene（磁带）](./FAKE_APOLLO：_behind_the_scene（磁带）.md)该封面包含的角色：
+- [克劳恩皮丝](./克劳恩皮丝.md)
 
 
 ---

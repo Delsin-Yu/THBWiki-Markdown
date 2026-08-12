@@ -1,6 +1,6 @@
 # 文件:ANSWER／／TALKER_LUNATIC_EDITION封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7c\ns6%3AANSWER%EF%BC%8F%EF%BC%8FTALKER_LUNATIC_EDITION%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7c\ns6%3AANSWER%EF%BC%8F%EF%BC%8FTALKER_LUNATIC_EDITION%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 紺碧studio
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [ANSWER／／TALKER LUNATIC EDITION](./ANSWER／／TALKER_LUNATIC_EDITION.md)  
-该封面包含的角色：- [上白泽慧音](./上白泽慧音.md)- [藤原妹红](./藤原妹红.md)
-
-
-
+- [ANSWER／／TALKER LUNATIC EDITION](./ANSWER／／TALKER_LUNATIC_EDITION.md)该封面包含的角色：
+- [上白泽慧音](./上白泽慧音.md)
+- [藤原妹红](./藤原妹红.md)
 
 
 ---

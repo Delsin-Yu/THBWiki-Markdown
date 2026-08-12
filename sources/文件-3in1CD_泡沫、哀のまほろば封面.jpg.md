@@ -1,6 +1,6 @@
 # 文件:3in1CD_泡沫、哀のまほろば封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2e\ns6%3A3in1CD_%E6%B3%A1%E6%B2%AB%E3%80%81%E5%93%80%E3%81%AE%E3%81%BE%E3%81%BB%E3%82%8D%E3%81%B0%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2e\ns6%3A3in1CD_%E6%B3%A1%E6%B2%AB%E3%80%81%E5%93%80%E3%81%AE%E3%81%BE%E3%81%BB%E3%82%8D%E3%81%B0%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 幽闭星光
 
@@ -8,11 +8,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [3in1CD 泡沫、哀のまほろば](./3in1CD_泡沫、哀のまほろば.md)  
-该封面包含的角色：- [上白泽慧音](./上白泽慧音.md)- [藤原妹红](./藤原妹红.md)- [小野塚小町](./小野塚小町.md)
-
-
-
+- [3in1CD 泡沫、哀のまほろば](./3in1CD_泡沫、哀のまほろば.md)该封面包含的角色：
+- [上白泽慧音](./上白泽慧音.md)
+- [藤原妹红](./藤原妹红.md)
+- [小野塚小町](./小野塚小町.md)
 
 
 ---

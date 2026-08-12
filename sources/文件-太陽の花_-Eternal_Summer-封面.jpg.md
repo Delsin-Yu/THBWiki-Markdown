@@ -1,6 +1,6 @@
 # 文件:太陽の花_-Eternal_Summer-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e0\ns6%3A%E5%A4%AA%E9%99%BD%E3%81%AE%E8%8A%B1_-Eternal_Summer-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e0\ns6%3A%E5%A4%AA%E9%99%BD%E3%81%AE%E8%8A%B1_-Eternal_Summer-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 暁Records
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [太陽の花 -Eternal Summer-](./太陽の花_-Eternal_Summer-.md)  
-该封面包含的角色：- [风见幽香](./风见幽香.md)
-
-
-
+- [太陽の花 -Eternal Summer-](./太陽の花_-Eternal_Summer-.md)该封面包含的角色：
+- [风见幽香](./风见幽香.md)
 
 
 ---

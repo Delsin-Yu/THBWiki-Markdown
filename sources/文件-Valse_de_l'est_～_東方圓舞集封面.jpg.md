@@ -1,6 +1,6 @@
 # 文件:Valse_de_l'est_～_東方圓舞集封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ef\ns6%3AValse_de_l%27est_%EF%BD%9E_%E6%9D%B1%E6%96%B9%E5%9C%93%E8%88%9E%E9%9B%86%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ef\ns6%3AValse_de_l%27est_%EF%BD%9E_%E6%9D%B1%E6%96%B9%E5%9C%93%E8%88%9E%E9%9B%86%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ELField | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ ELField | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Valse de l'est ～ 東方圓舞集](./Valse_de_l'est_～_東方圓舞集.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
-
-
-
+- [Valse de l'est ～ 東方圓舞集](./Valse_de_l'est_～_東方圓舞集.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
 
 ---

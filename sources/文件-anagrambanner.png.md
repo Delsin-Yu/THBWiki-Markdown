@@ -1,16 +1,11 @@
 # 文件:anagrambanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\75\ns6%3Aanagrambanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\75\ns6%3Aanagrambanner%2Epng.html -->
 
 anagram | 社团LOGO
 
   
-源地址：[[1]](http://anagram.ehoh.net/img/banner/anagramwebsite-bannar.png)
-  
-
-
-
-
+源地址：[\[1\]](http://anagram.ehoh.net/img/banner/anagramwebsite-bannar.png)  
 
 ---
 

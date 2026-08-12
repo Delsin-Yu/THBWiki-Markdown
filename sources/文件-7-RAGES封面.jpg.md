@@ -1,6 +1,6 @@
 # 文件:7-RAGES封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\80\ns6%3A7-RAGES%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\80\ns6%3A7-RAGES%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 こなぐすり | 专辑封面 | 封面图片
 
@@ -8,11 +8,14 @@
 使用了本文件作封面图片的作品：
   
 
-- [7-RAGES](./7-RAGES.md)  
-该封面包含的角色：- [西行寺幽幽子](./西行寺幽幽子.md)- [八云紫](./八云紫.md)- [蓬莱山辉夜](./蓬莱山辉夜.md)- [藤原妹红](./藤原妹红.md)- [八坂神奈子](./八坂神奈子.md)- [洩矢诹访子](./洩矢诹访子.md)- [封兽鵺](./封兽鵺.md)
-
-
-
+- [7-RAGES](./7-RAGES.md)该封面包含的角色：
+- [西行寺幽幽子](./西行寺幽幽子.md)
+- [八云紫](./八云紫.md)
+- [蓬莱山辉夜](./蓬莱山辉夜.md)
+- [藤原妹红](./藤原妹红.md)
+- [八坂神奈子](./八坂神奈子.md)
+- [洩矢诹访子](./洩矢诹访子.md)
+- [封兽鵺](./封兽鵺.md)
 
 
 ---

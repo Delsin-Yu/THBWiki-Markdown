@@ -1,6 +1,6 @@
 # 文件:A-One_ALL_TIME_BEST_Ⅱ_～CREATOR'S_CHOICE～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f8\ns6%3AA-One_ALL_TIME_BEST_%E2%85%A1_%EF%BD%9ECREATOR%27S_CHOICE%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f8\ns6%3AA-One_ALL_TIME_BEST_%E2%85%A1_%EF%BD%9ECREATOR%27S_CHOICE%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 A-One | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ A-One | 专辑封面 | 封面图片
   
 
 - [A-One ALL TIME BEST Ⅱ ～CREATOR'S CHOICE～](./A-One_ALL_TIME_BEST_Ⅱ_～CREATOR'S_CHOICE～.md)
-
-
-
 
 
 ---

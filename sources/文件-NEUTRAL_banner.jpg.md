@@ -1,12 +1,8 @@
 # 文件:NEUTRAL_banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9d\ns6%3ANEUTRAL_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9d\ns6%3ANEUTRAL_banner%2Ejpg.html -->
 
 NeutraL | 社团LOGO
-
-
-
-
 
 
 ---

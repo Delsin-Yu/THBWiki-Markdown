@@ -1,12 +1,8 @@
 # 文件:气性「勇气凛凛之剑」（DS文花帖）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3c\ns6%3A%E6%B0%94%E6%80%A7%E3%80%8C%E5%8B%87%E6%B0%94%E5%87%9B%E5%87%9B%E4%B9%8B%E5%89%91%E3%80%8D%EF%BC%88DS%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3c\ns6%3A%E6%B0%94%E6%80%A7%E3%80%8C%E5%8B%87%E6%B0%94%E5%87%9B%E5%87%9B%E4%B9%8B%E5%89%91%E3%80%8D%EF%BC%88DS%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Ejpg.html -->
 
 东方文花帖DS | 敌机符卡 | 比那名居天子
-
-
-
-
 
 
 ---

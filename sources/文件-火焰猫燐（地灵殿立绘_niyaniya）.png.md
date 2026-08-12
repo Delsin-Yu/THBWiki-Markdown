@@ -1,12 +1,8 @@
 # 文件:火焰猫燐（地灵殿立绘_niyaniya）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b5\ns6%3A%E7%81%AB%E7%84%B0%E7%8C%AB%E7%87%90%EF%BC%88%E5%9C%B0%E7%81%B5%E6%AE%BF%E7%AB%8B%E7%BB%98_niyaniya%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b5\ns6%3A%E7%81%AB%E7%84%B0%E7%8C%AB%E7%87%90%EF%BC%88%E5%9C%B0%E7%81%B5%E6%AE%BF%E7%AB%8B%E7%BB%98_niyaniya%EF%BC%89%2Epng.html -->
 
 ZUN绘 | 东方地灵殿 | 官方游戏立绘 | 火焰猫燐
-
-
-
-
 
 
 ---

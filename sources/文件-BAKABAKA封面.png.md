@@ -1,6 +1,6 @@
 # 文件:BAKABAKA封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\44\ns6%3ABAKABAKA%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\44\ns6%3ABAKABAKA%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 同人志封面 | 封面图片 | 里ノ抹茶
 
@@ -10,16 +10,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [BAKABAKA](./BAKABAKA.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [雾雨魔理沙](./雾雨魔理沙.md)
+- [BAKABAKA](./BAKABAKA.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-[Pixiv artwork ID: 100231338 (original size)](https://www.pixiv.net/artworks/100231338)
-  
-
-
-
-
+[Pixiv artwork ID: 100231338 (original size)](https://www.pixiv.net/artworks/100231338)  
 
 ---
 

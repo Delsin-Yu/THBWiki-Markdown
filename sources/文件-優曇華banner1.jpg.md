@@ -1,12 +1,8 @@
 # 文件:優曇華banner1.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e1\ns6%3A%E5%84%AA%E6%9B%87%E8%8F%AFbanner1%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e1\ns6%3A%E5%84%AA%E6%9B%87%E8%8F%AFbanner1%2Ejpg.html -->
 
 優曇華 | 社团LOGO
-
-
-
-
 
 
 ---

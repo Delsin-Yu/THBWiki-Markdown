@@ -1,6 +1,6 @@
 # 文件:Everlasting_Conviction封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4d\ns6%3AEverlasting_Conviction%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4d\ns6%3AEverlasting_Conviction%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Amateras_Records | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Amateras_Records | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Everlasting Conviction](./Everlasting_Conviction.md)  
-该封面包含的角色：- [伊吹萃香](./伊吹萃香.md)
-
-
-
+- [Everlasting Conviction](./Everlasting_Conviction.md)该封面包含的角色：
+- [伊吹萃香](./伊吹萃香.md)
 
 
 ---

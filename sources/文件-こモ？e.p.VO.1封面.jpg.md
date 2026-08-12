@@ -1,6 +1,6 @@
 # 文件:こモ？e.p.VO.1封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3b\ns6%3A%E3%81%93%E3%83%A2%EF%BC%9Fe%2Ep%2EVO%2E1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3b\ns6%3A%E3%81%93%E3%83%A2%EF%BC%9Fe%2Ep%2EVO%2E1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 モジャン棒 | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [こモ？e.p.VO.1](./こモ？e.p.VO.1.md)  
-该封面包含的角色：- [蓬莱山辉夜](./蓬莱山辉夜.md)
+- [こモ？e.p.VO.1](./こモ？e.p.VO.1.md)该封面包含的角色：
+- [蓬莱山辉夜](./蓬莱山辉夜.md)
 
   
-源地址：[[1]](https://i1.sndcdn.com/artworks-000078923178-0vsq7f-t500x500.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://i1.sndcdn.com/artworks-000078923178-0vsq7f-t500x500.jpg)  
 
 ---
 

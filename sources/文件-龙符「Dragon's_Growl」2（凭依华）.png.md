@@ -1,12 +1,8 @@
 # 文件:龙符「Dragon's_Growl」2（凭依华）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\aa\ns6%3A%E9%BE%99%E7%AC%A6%E3%80%8CDragon%27s_Growl%E3%80%8D2%EF%BC%88%E5%87%AD%E4%BE%9D%E5%8D%8E%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\aa\ns6%3A%E9%BE%99%E7%AC%A6%E3%80%8CDragon%27s_Growl%E3%80%8D2%EF%BC%88%E5%87%AD%E4%BE%9D%E5%8D%8E%EF%BC%89%2Epng.html -->
 
 东方凭依华 | 自机符卡 | 茨木华扇
-
-
-
-
 
 
 ---

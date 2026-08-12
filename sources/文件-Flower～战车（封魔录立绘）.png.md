@@ -1,12 +1,8 @@
 # 文件:Flower～战车（封魔录立绘）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8f\ns6%3AFlower%EF%BD%9E%E6%88%98%E8%BD%A6%EF%BC%88%E5%B0%81%E9%AD%94%E5%BD%95%E7%AB%8B%E7%BB%98%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8f\ns6%3AFlower%EF%BD%9E%E6%88%98%E8%BD%A6%EF%BC%88%E5%B0%81%E9%AD%94%E5%BD%95%E7%AB%8B%E7%BB%98%EF%BC%89%2Epng.html -->
 
 Flower～战车 | ZUN绘 | 东方封魔录 | 官方游戏立绘
-
-
-
-
 
 
 ---

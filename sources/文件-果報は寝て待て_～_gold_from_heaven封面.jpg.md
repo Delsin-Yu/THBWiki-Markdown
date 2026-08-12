@@ -1,6 +1,6 @@
 # 文件:果報は寝て待て_～_gold_from_heaven封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bd\ns6%3A%E6%9E%9C%E5%A0%B1%E3%81%AF%E5%AF%9D%E3%81%A6%E5%BE%85%E3%81%A6_%EF%BD%9E_gold_from_heaven%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bd\ns6%3A%E6%9E%9C%E5%A0%B1%E3%81%AF%E5%AF%9D%E3%81%A6%E5%BE%85%E3%81%A6_%EF%BD%9E_gold_from_heaven%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 bivrache | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@ bivrache | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [果報は寝て待て ～ gold from heaven](./果報は寝て待て_～_gold_from_heaven.md)  
-该封面包含的角色：- [娜兹玲](./娜兹玲.md)
-
-
-
+- [果報は寝て待て ～ gold from heaven](./果報は寝て待て_～_gold_from_heaven.md)该封面包含的角色：
+- [娜兹玲](./娜兹玲.md)
 
 
 ---

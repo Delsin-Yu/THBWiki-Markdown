@@ -1,12 +1,8 @@
 # 文件:深秘录koishi0.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cf\ns6%3A%E6%B7%B1%E7%A7%98%E5%BD%95koishi0%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cf\ns6%3A%E6%B7%B1%E7%A7%98%E5%BD%95koishi0%2Epng.html -->
 
 东方深秘录结局图
-
-
-
-
 
 
 ---

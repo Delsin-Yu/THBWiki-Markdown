@@ -1,16 +1,11 @@
 # 文件:Grazepointlogo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\70\ns6%3AGrazepointlogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\70\ns6%3AGrazepointlogo%2Ejpg.html -->
 
 Grazepoint | 社团LOGO
 
   
-源地址：[Twitter profile picture](https://pbs.twimg.com/profile_images/1198411117367906304/4iVti_H9_400x400.jpg)
-  
-
-
-
-
+源地址：[Twitter profile picture](https://pbs.twimg.com/profile_images/1198411117367906304/4iVti_H9_400x400.jpg)  
 
 ---
 

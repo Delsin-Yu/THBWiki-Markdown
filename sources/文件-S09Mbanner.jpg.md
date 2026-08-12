@@ -1,12 +1,8 @@
 # 文件:S09Mbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\12\ns6%3AS09Mbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\12\ns6%3AS09Mbanner%2Ejpg.html -->
 
 S09M | 社团LOGO
-
-
-
-
 
 
 ---

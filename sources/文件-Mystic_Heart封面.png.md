@@ -1,6 +1,6 @@
 # 文件:Mystic_Heart封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\27\ns6%3AMystic_Heart%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\27\ns6%3AMystic_Heart%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 efs | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ efs | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Mystic Heart](./Mystic_Heart.md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)
-
-
-
+- [Mystic Heart](./Mystic_Heart.md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
 
 
 ---

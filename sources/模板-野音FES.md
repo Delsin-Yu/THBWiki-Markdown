@@ -1,16 +1,12 @@
 # 模板:野音FES
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\1\1b\ns10%3A%E9%87%8E%E9%9F%B3FES.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\1\1b\ns10%3A%E9%87%8E%E9%9F%B3FES.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

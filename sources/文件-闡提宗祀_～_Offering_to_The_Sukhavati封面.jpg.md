@@ -1,6 +1,6 @@
 # 文件:闡提宗祀_～_Offering_to_The_Sukhavati封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\66\ns6%3A%E9%97%A1%E6%8F%90%E5%AE%97%E7%A5%80_%EF%BD%9E_Offering_to_The_Sukhavati%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\66\ns6%3A%E9%97%A1%E6%8F%90%E5%AE%97%E7%A5%80_%EF%BD%9E_Offering_to_The_Sukhavati%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Demetori | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Demetori | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [闡提宗祀 ～ Offering to The Sukhavati](./闡提宗祀_～_Offering_to_The_Sukhavati.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [闡提宗祀 ～ Offering to The Sukhavati](./闡提宗祀_～_Offering_to_The_Sukhavati.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

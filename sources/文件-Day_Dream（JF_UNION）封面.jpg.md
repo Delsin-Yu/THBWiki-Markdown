@@ -1,6 +1,6 @@
 # 文件:Day_Dream（JF_UNION）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3a\ns6%3ADay_Dream%EF%BC%88JF_UNION%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3a\ns6%3ADay_Dream%EF%BC%88JF_UNION%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 JF_UNION | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ JF_UNION | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Day Dream（JF UNION）](./Day_Dream（JF_UNION）.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [Day Dream（JF UNION）](./Day_Dream（JF_UNION）.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

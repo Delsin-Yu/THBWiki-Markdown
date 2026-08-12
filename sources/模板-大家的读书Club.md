@@ -1,16 +1,12 @@
 # 模板:大家的读书Club
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\d\d1\ns10%3A%E5%A4%A7%E5%AE%B6%E7%9A%84%E8%AF%BB%E4%B9%A6Club.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\d\d1\ns10%3A%E5%A4%A7%E5%AE%B6%E7%9A%84%E8%AF%BB%E4%B9%A6Club.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

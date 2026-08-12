@@ -1,6 +1,6 @@
 # 文件:東方夢景色_イメージイラスト集_vol.3封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\92\ns6%3A%E6%9D%B1%E6%96%B9%E5%A4%A2%E6%99%AF%E8%89%B2_%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E9%9B%86_vol%2E3%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\92\ns6%3A%E6%9D%B1%E6%96%B9%E5%A4%A2%E6%99%AF%E8%89%B2_%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E9%9B%86_vol%2E3%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Ridil | 同人志封面 | 封面图片
 
@@ -8,16 +8,11 @@ Ridil | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方夢景色 イメージイラスト集 vol.3](./東方夢景色_イメージイラスト集_vol.3.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [東方夢景色 イメージイラスト集 vol.3](./東方夢景色_イメージイラスト集_vol.3.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
   
-源地址：[[1]](http://ridil.sakura.ne.jp/sblo_files/ridil/image/yume3i.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://ridil.sakura.ne.jp/sblo_files/ridil/image/yume3i.jpg)  
 
 ---
 

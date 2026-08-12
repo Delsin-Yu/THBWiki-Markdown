@@ -1,6 +1,6 @@
 # 文件:MarisaLa_スーパーマリサランド封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0a\ns6%3AMarisaLa_%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%9E%E3%83%AA%E3%82%B5%E3%83%A9%E3%83%B3%E3%83%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0a\ns6%3AMarisaLa_%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%9E%E3%83%AA%E3%82%B5%E3%83%A9%E3%83%B3%E3%83%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 封面图片 | 软件封面 | 黄昏边境
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [MarisaLa スーパーマリサランド](./MarisaLa_スーパーマリサランド.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [MarisaLa スーパーマリサランド](./MarisaLa_スーパーマリサランド.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

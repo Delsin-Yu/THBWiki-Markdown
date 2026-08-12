@@ -1,6 +1,6 @@
 # 文件:PASSPORT封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\96\ns6%3APASSPORT%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\96\ns6%3APASSPORT%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 paroleise | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ paroleise | 专辑封面 | 封面图片
   
 
 - [PASSPORT](./PASSPORT.md)
-
-
-
 
 
 ---

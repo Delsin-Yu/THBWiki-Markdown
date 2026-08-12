@@ -1,32 +1,24 @@
 # 梦幻能_～_Taboo_Marionette
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\9\97\ns0%3A%E6%A2%A6%E5%B9%BB%E8%83%BD_%EF%BD%9E_Taboo_Marionette.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\9\97\ns0%3A%E6%A2%A6%E5%B9%BB%E8%83%BD_%EF%BD%9E_Taboo_Marionette.html -->
 
 由 ZUN 创作的官方曲目，原名 夢幻能　～ Taboo Marionette
 
 本页是关于东方Project  
- **原作音乐** 的词条
-
+**原作音乐**的词条
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 出现作品](#出现作品)
 - [3 音乐文件](#音乐文件)
-
   - [3.1 七夕坂梦幻能](#七夕坂梦幻能)
-
 
 
 - [4 说明文本](#说明文本)
 - [5 其他资料](#其他资料)
-
   - [5.1 乐理资讯](#乐理资讯)
   - [5.2 分析考据](#分析考据)
   - [5.3 二次同人数据](#二次同人数据)
-
-
-
-
 
 
 
@@ -36,7 +28,6 @@
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">夢幻能　～ Taboo Marionette</td></tr><tr><td><b>译名</b></td><td>梦幻能　～ Taboo Marionette</td></tr><tr><td><b>英文译名</b></td><td>Mugen Noh ~ Taboo Marionette</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 梦幻能 ～ Taboo Marionette（曲目） - 由 ZUN 创作的官方曲目，原名 夢幻能　～ Taboo Marionette
-
 ## 出现作品
 
 <table>
@@ -44,13 +35,11 @@
 </tbody></table>
 
 
-
 ## 音乐文件
 
 ### 七夕坂梦幻能
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-hr12_05.mp3.md" title="文件:hr12 05.mp3">hr12_05.mp3</a><br><audio src="https://upload.thwiki.cc/4/47/hr12_05.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track05.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>3:33</td></tr></tbody></table>
-
 
 
 ## 说明文本
@@ -73,17 +62,6 @@
 <tr><td>Arrange</td><td>2</td></tr>
 <tr><td>Vocal率</td><td>33.33%</td></tr>
 </tbody></table>
-
-
-
-
-  
-  
-
-  
-
-
-
 
 
 ---

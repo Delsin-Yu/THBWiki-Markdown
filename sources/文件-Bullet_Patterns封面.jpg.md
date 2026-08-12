@@ -1,6 +1,6 @@
 # 文件:Bullet_Patterns封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\63\ns6%3ABullet_Patterns%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\63\ns6%3ABullet_Patterns%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Panic_Bomb | 专辑封面 | 封面图片
 
@@ -13,12 +13,7 @@ Panic_Bomb | 专辑封面 | 封面图片
 - [Bullet Patterns](./Bullet_Patterns.md)
 
   
-源地址：[artist Bandcamp (10 size)](https://f4.bcbits.com/img/a3587744451_10.jpg)
-  
-
-
-
-
+源地址：[artist Bandcamp (10 size)](https://f4.bcbits.com/img/a3587744451_10.jpg)  
 
 ---
 

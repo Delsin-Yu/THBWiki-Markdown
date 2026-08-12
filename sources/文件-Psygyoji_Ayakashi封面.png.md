@@ -1,6 +1,6 @@
 # 文件:Psygyoji_Ayakashi封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\02\ns6%3APsygyoji_Ayakashi%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\02\ns6%3APsygyoji_Ayakashi%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 VBbeat | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ VBbeat | 专辑封面 | 封面图片
   
 
 - [Psygyoji Ayakashi](./Psygyoji_Ayakashi.md)
-
-
-
 
 
 ---

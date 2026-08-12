@@ -1,6 +1,6 @@
 # 文件:MERY_MERRY_MEMORIES封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\16\ns6%3AMERY_MERRY_MEMORIES%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\16\ns6%3AMERY_MERRY_MEMORIES%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 閑古鳥茶園
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [MERY MERRY MEMORIES](./MERY_MERRY_MEMORIES.md)  
-该封面包含的角色：- [古明地恋](./古明地恋.md)- [宇佐见堇子](./宇佐见堇子.md)
-
-
-
+- [MERY MERRY MEMORIES](./MERY_MERRY_MEMORIES.md)该封面包含的角色：
+- [古明地恋](./古明地恋.md)
+- [宇佐见堇子](./宇佐见堇子.md)
 
 
 ---

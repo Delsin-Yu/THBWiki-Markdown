@@ -1,18 +1,13 @@
 # 文件:太陽光工場logo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0c\ns6%3A%E5%A4%AA%E9%99%BD%E5%85%89%E5%B7%A5%E5%A0%B4logo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0c\ns6%3A%E5%A4%AA%E9%99%BD%E5%85%89%E5%B7%A5%E5%A0%B4logo%2Epng.html -->
 
 太陽光工場 | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[[1]](https://miluda.com/assets/images/sunshinemilllogo-100-292x100.png)
-  
-
-
-
-
+源地址：[\[1\]](https://miluda.com/assets/images/sunshinemilllogo-100-292x100.png)  
 
 ---
 

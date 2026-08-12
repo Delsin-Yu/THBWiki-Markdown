@@ -1,6 +1,6 @@
 # 文件:Ensemble_of_Gensokyo_1_-_Inity封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\20\ns6%3AEnsemble_of_Gensokyo_1_-_Inity%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\20\ns6%3AEnsemble_of_Gensokyo_1_-_Inity%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Dex_Hexallion | 专辑封面 | 封面图片
 
@@ -11,12 +11,7 @@ Dex_Hexallion | 专辑封面 | 封面图片
 - [Ensemble of Gensokyo 1 - Inity](./Ensemble_of_Gensokyo_1_-_Inity.md)
 
   
-源地址：[[1]](https://f4.bcbits.com/img/a2693494405_10.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://f4.bcbits.com/img/a2693494405_10.jpg)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:Future_Love_Instrumental封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\99\ns6%3AFuture_Love_Instrumental%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\99\ns6%3AFuture_Love_Instrumental%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Halozy | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Halozy | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Future Love Instrumental](./Future_Love_Instrumental.md)  
-该封面包含的角色：- [古明地觉](./古明地觉.md)
-
-
-
+- [Future Love Instrumental](./Future_Love_Instrumental.md)该封面包含的角色：
+- [古明地觉](./古明地觉.md)
 
 
 ---

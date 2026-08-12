@@ -1,12 +1,8 @@
 # 文件:THBWiki-LOGO-宇佐见堇子.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\79\ns6%3ATHBWiki-LOGO-%E5%AE%87%E4%BD%90%E8%A7%81%E5%A0%87%E5%AD%90%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\79\ns6%3ATHBWiki-LOGO-%E5%AE%87%E4%BD%90%E8%A7%81%E5%A0%87%E5%AD%90%2Epng.html -->
 
 THBWiki | Wiki词条分类用图
-
-
-
-
 
 
 ---

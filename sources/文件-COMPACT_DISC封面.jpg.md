@@ -1,6 +1,6 @@
 # 文件:COMPACT_DISC封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ab\ns6%3ACOMPACT_DISC%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ab\ns6%3ACOMPACT_DISC%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 岸田教団&THE明星ロケッツ
 
@@ -8,11 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [COMPACT DISC](./COMPACT_DISC.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)- [博丽灵梦](./博丽灵梦.md)- 十六夜咲夜 (未找到链接)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [COMPACT DISC](./COMPACT_DISC.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
+- [博丽灵梦](./博丽灵梦.md)
+- [十六夜咲夜](./十六夜咲夜.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

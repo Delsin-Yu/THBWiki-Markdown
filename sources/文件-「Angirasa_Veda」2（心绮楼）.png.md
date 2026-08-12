@@ -1,12 +1,8 @@
 # 文件:「Angirasa_Veda」2（心绮楼）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\01\ns6%3A%E3%80%8CAngirasa_Veda%E3%80%8D2%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\01\ns6%3A%E3%80%8CAngirasa_Veda%E3%80%8D2%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%EF%BC%89%2Epng.html -->
 
 东方心绮楼 | 圣白莲 | 自机符卡
-
-
-
-
 
 
 ---

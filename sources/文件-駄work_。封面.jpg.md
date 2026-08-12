@@ -1,6 +1,6 @@
 # 文件:駄work_。封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\10\ns6%3A%E9%A7%84work_%E3%80%82%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\10\ns6%3A%E9%A7%84work_%E3%80%82%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ClumsyRecord | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ ClumsyRecord | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [駄work 。](./駄work_。.md)  
-该封面包含的角色：- [尔子田里乃](./尔子田里乃.md)- [丁礼田舞](./丁礼田舞.md)
-
-
-
+- [駄work 。](./駄work_。.md)该封面包含的角色：
+- [尔子田里乃](./尔子田里乃.md)
+- [丁礼田舞](./丁礼田舞.md)
 
 
 ---

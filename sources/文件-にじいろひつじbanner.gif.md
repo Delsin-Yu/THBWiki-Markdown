@@ -1,14 +1,11 @@
 # 文件:にじいろひつじbanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6d\ns6%3A%E3%81%AB%E3%81%98%E3%81%84%E3%82%8D%E3%81%B2%E3%81%A4%E3%81%98banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6d\ns6%3A%E3%81%AB%E3%81%98%E3%81%84%E3%82%8D%E3%81%B2%E3%81%A4%E3%81%98banner%2Egif.html -->
 
 にじいろひつじ | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

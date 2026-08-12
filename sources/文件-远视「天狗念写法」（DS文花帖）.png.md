@@ -1,12 +1,8 @@
 # 文件:远视「天狗念写法」（DS文花帖）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7d\ns6%3A%E8%BF%9C%E8%A7%86%E3%80%8C%E5%A4%A9%E7%8B%97%E5%BF%B5%E5%86%99%E6%B3%95%E3%80%8D%EF%BC%88DS%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7d\ns6%3A%E8%BF%9C%E8%A7%86%E3%80%8C%E5%A4%A9%E7%8B%97%E5%BF%B5%E5%86%99%E6%B3%95%E3%80%8D%EF%BC%88DS%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Epng.html -->
 
 东方文花帖DS | 姬海棠果 | 敌机符卡
-
-
-
-
 
 
 ---

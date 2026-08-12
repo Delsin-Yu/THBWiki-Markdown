@@ -1,6 +1,6 @@
 # 文件:東方Projectあずまあや画集_はなおうぎ封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\61\ns6%3A%E6%9D%B1%E6%96%B9Project%E3%81%82%E3%81%9A%E3%81%BE%E3%81%82%E3%82%84%E7%94%BB%E9%9B%86_%E3%81%AF%E3%81%AA%E3%81%8A%E3%81%86%E3%81%8E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\61\ns6%3A%E6%9D%B1%E6%96%B9Project%E3%81%82%E3%81%9A%E3%81%BE%E3%81%82%E3%82%84%E7%94%BB%E9%9B%86_%E3%81%AF%E3%81%AA%E3%81%8A%E3%81%86%E3%81%8E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 あずまあや | 同人志封面 | 封面图片
 
@@ -8,11 +8,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方Projectあずまあや画集 はなおうぎ](./東方Projectあずまあや画集_はなおうぎ.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [雾雨魔理沙](./雾雨魔理沙.md)- [茨木华扇](./茨木华扇.md)
-
-
-
+- [東方Projectあずまあや画集 はなおうぎ](./東方Projectあずまあや画集_はなおうぎ.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
+- [茨木华扇](./茨木华扇.md)
 
 
 ---

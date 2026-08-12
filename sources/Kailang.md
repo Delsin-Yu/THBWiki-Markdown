@@ -1,33 +1,23 @@
 # Kailang
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\7\74\ns0%3AKailang.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\7\74\ns0%3AKailang.html -->
 
 现实人物
 
 本页是关于东方Project  
- **二次同人创作者** 的词条
-
+**二次同人创作者**的词条
 ## 基本信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="label"><b>名称</b></td><td> Kailang </td></tr><tr><td class="label"><b>别名</b></td><td>Kai</td></tr><tr><td class="label"><b>所属社团</b></td><td><b>当前</b><div style="margin-left:2em;">无所属社团</div></td></tr><tr><td class="label"><b>职位</b></td><td></td></tr><tr><td class="label"><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://thmix.org">http://thmix.org</a></td></tr><tr><td class="label"><b>个人页面</b></td><td><table border="0" cellspacing="0" cellpadding="0"></table></td></tr></tbody></table>
 
 Kailang（人物） - 现实人物
-
 ## 介绍
   
 东方同人二创音游Touhou Mix（即[东方混音传 ~ Note Phantasm of Reality](./东方混音传_~_Note_Phantasm_of_Reality.md)）作者。
   
 
-
 ## 参与作品
-[](./东方混音传_~_Note_Phantasm_of_Reality.md)[东方混音传 ~ Note Phantasm of Reality](./东方混音传_~_Note_Phantasm_of_Reality.md)首发日期：未知 MUG （一般向）又名Touhou Mix
-<table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
-</table>
-
-
-
-
-
+- **[东方混音传 ~ Note Phantasm of Reality](./东方混音传_~_Note_Phantasm_of_Reality.md)** — 首发日期：未知；MUG （一般向）；又名Touhou Mix
 
 ---
 

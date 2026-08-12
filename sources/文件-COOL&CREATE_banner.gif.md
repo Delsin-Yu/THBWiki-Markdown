@@ -1,12 +1,8 @@
 # 文件:COOL&CREATE_banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d8\ns6%3ACOOL%26CREATE_banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d8\ns6%3ACOOL%26CREATE_banner%2Egif.html -->
 
 COOL&CREATE | 社团LOGO
-
-
-
-
 
 
 ---

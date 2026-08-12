@@ -1,6 +1,6 @@
 # 文件:東方永想符_～Feelings_of_Eternity～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2a\ns6%3A%E6%9D%B1%E6%96%B9%E6%B0%B8%E6%83%B3%E7%AC%A6_%EF%BD%9EFeelings_of_Eternity%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2a\ns6%3A%E6%9D%B1%E6%96%B9%E6%B0%B8%E6%83%B3%E7%AC%A6_%EF%BD%9EFeelings_of_Eternity%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 猫柳-nekoyanagi-
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方永想符 ～Feelings of Eternity～](./東方永想符_～Feelings_of_Eternity～.md)  
-该封面包含的角色：- [上白泽慧音](./上白泽慧音.md)- [藤原妹红](./藤原妹红.md)
-
-
-
+- [東方永想符 ～Feelings of Eternity～](./東方永想符_～Feelings_of_Eternity～.md)该封面包含的角色：
+- [上白泽慧音](./上白泽慧音.md)
+- [藤原妹红](./藤原妹红.md)
 
 
 ---

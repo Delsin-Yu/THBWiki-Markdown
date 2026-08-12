@@ -1,14 +1,11 @@
 # 文件:NEKONAMibanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f2\ns6%3ANEKONAMibanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f2\ns6%3ANEKONAMibanner%2Ejpg.html -->
 
 NEKONAMi | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

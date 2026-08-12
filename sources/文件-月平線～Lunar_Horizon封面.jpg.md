@@ -1,6 +1,6 @@
 # 文件:月平線～Lunar_Horizon封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1c\ns6%3A%E6%9C%88%E5%B9%B3%E7%B7%9A%EF%BD%9ELunar_Horizon%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1c\ns6%3A%E6%9C%88%E5%B9%B3%E7%B7%9A%EF%BD%9ELunar_Horizon%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 bunny_rhyTHm | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ bunny_rhyTHm | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [月平線～Lunar Horizon](./月平線～Lunar_Horizon.md)  
-该封面包含的角色：- [克劳恩皮丝](./克劳恩皮丝.md)- [赫卡提亚·拉碧斯拉祖利](./赫卡提亚·拉碧斯拉祖利.md)
-
-
-
+- [月平線～Lunar Horizon](./月平線～Lunar_Horizon.md)该封面包含的角色：
+- [克劳恩皮丝](./克劳恩皮丝.md)
+- [赫卡提亚·拉碧斯拉祖利](./赫卡提亚·拉碧斯拉祖利.md)
 
 
 ---

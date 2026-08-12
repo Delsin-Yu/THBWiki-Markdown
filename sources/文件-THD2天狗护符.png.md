@@ -1,12 +1,8 @@
 # 文件:THD2天狗护符.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\21\ns6%3ATHD2%E5%A4%A9%E7%8B%97%E6%8A%A4%E7%AC%A6%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\21\ns6%3ATHD2%E5%A4%A9%E7%8B%97%E6%8A%A4%E7%AC%A6%2Epng.html -->
 
 AvalonStudioOfficial
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Eternal_Wind's_Fantasia_～新奇幻想曲～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6a\ns6%3AEternal_Wind%27s_Fantasia_%EF%BD%9E%E6%96%B0%E5%A5%87%E5%B9%BB%E6%83%B3%E6%9B%B2%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6a\ns6%3AEternal_Wind%27s_Fantasia_%EF%BD%9E%E6%96%B0%E5%A5%87%E5%B9%BB%E6%83%B3%E6%9B%B2%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 日本東方大学
 
@@ -10,16 +10,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [Eternal Wind's Fantasia ～新奇幻想曲～](./Eternal_Wind's_Fantasia_～新奇幻想曲～.md)  
-该封面包含的角色：- [东风谷早苗](./东风谷早苗.md)- [八坂神奈子](./八坂神奈子.md)
+- [Eternal Wind's Fantasia ～新奇幻想曲～](./Eternal_Wind's_Fantasia_～新奇幻想曲～.md)该封面包含的角色：
+- [东风谷早苗](./东风谷早苗.md)
+- [八坂神奈子](./八坂神奈子.md)
 
   
-源地址：[direct image link](https://static.wixstatic.com/media/1bd1ba_722ff2599c72482da01f7688e398aabd~mv2.jpg)
-  
-
-
-
-
+源地址：[direct image link](https://static.wixstatic.com/media/1bd1ba_722ff2599c72482da01f7688e398aabd~mv2.jpg)  
 
 ---
 

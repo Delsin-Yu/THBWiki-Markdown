@@ -1,6 +1,6 @@
 # 文件:上海TH10_東方滴星盞紀念CD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e4\ns6%3A%E4%B8%8A%E6%B5%B7TH10_%E6%9D%B1%E6%96%B9%E6%BB%B4%E6%98%9F%E7%9B%9E%E7%B4%80%E5%BF%B5CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e4\ns6%3A%E4%B8%8A%E6%B5%B7TH10_%E6%9D%B1%E6%96%B9%E6%BB%B4%E6%98%9F%E7%9B%9E%E7%B4%80%E5%BF%B5CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 上海THONLY组委会 | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [上海TH10 東方滴星盞紀念CD](./上海TH10_東方滴星盞紀念CD.md)  
-该封面包含的角色：- [村纱水蜜](./村纱水蜜.md)- [封兽鵺](./封兽鵺.md)
-
-
-
+- [上海TH10 東方滴星盞紀念CD](./上海TH10_東方滴星盞紀念CD.md)该封面包含的角色：
+- [村纱水蜜](./村纱水蜜.md)
+- [封兽鵺](./封兽鵺.md)
 
 
 ---

@@ -1,39 +1,29 @@
 # Tortoise_Dragon_～_幸运与不幸
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\9\94\ns0%3ATortoise_Dragon_%EF%BD%9E_%E5%B9%B8%E8%BF%90%E4%B8%8E%E4%B8%8D%E5%B9%B8.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\9\94\ns0%3ATortoise_Dragon_%EF%BD%9E_%E5%B9%B8%E8%BF%90%E4%B8%8E%E4%B8%8D%E5%B9%B8.html -->
 
 由 ZUN 创作的官方曲目，原名 トータスドラゴン　～ 幸運と不運
 
 本页是关于东方Project  
- **原作音乐** 的词条
-
+**原作音乐**的词条
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 出现作品](#出现作品)
 - [3 音乐文件](#音乐文件)
-
   - [3.1 东方鬼形兽](#东方鬼形兽)
   - [3.2 东方兽王园](#东方兽王园)
 
 
-
 - [4 说明文本](#说明文本)
-
   - [4.1 东方鬼形兽](#东方鬼形兽_2)
   - [4.2 东方兽王园](#东方兽王园_2)
 
 
-
 - [5 其他资料](#其他资料)
-
   - [5.1 乐理资讯](#乐理资讯)
   - [5.2 分析考据](#分析考据)
   - [5.3 二次同人数据](#二次同人数据)
-
-
-
-
 
 
 
@@ -43,14 +33,12 @@
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">トータスドラゴン　～ 幸運と不運</td></tr><tr><td><b>译名</b></td><td>Tortoise Dragon ～ 幸运与不幸</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 Tortoise Dragon ～ 幸运与不幸（曲目） - 由 ZUN 创作的官方曲目，原名 トータスドラゴン　～ 幸運と不運
-
 ## 出现作品
 
 <table>
 <tbody><tr><td>2019年8月12日（Comic Market 96）</td><td><b><a href="./东方鬼形兽.md" title="东方鬼形兽">东方鬼形兽</a>正式版</b></td><td><a href="./吉吊八千慧.md" title="吉吊八千慧">吉吊八千慧</a>角色曲</td><td style="padding-left:5px;">トータスドラゴン　～ 幸運と不運（Tortoise Dragon ～ 幸运与不幸）</td><td style="padding-left:10px;">作曲：ZUN</td></tr>
 <tr><td>2023年8月13日（Comic Market 102）</td><td><b><a href="./东方兽王园.md" title="东方兽王园">东方兽王园</a>正式版</b></td><td><a href="./吉吊八千慧.md" title="吉吊八千慧">吉吊八千慧</a>角色曲</td><td style="padding-left:5px;">トータスドラゴン　～ 幸運と不運（Tortoise Dragon ～ 幸运与不幸）</td><td style="padding-left:10px;">编曲：ZUN</td></tr>
 </tbody></table>
-
 
 
 ## 音乐文件
@@ -65,7 +53,6 @@ Tortoise Dragon ～ 幸运与不幸（曲目） - 由 ZUN 创作的官方曲目�
 </td></tr></tbody></table>
 
 
-
 ### 东方兽王园
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th19_18.mp3.md" title="文件:th19 18.mp3">th19_18.mp3</a><br><audio src="https://upload.thwiki.cc/c/ca/th19_18.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>BGM\th19_18.wav</td></tr><tr><td><b>BGMForAll</b></td><td><div class="mw-collapsible mw-collapsed">
@@ -76,49 +63,49 @@ Tortoise Dragon ～ 幸运与不幸（曲目） - 由 ZUN 创作的官方曲目�
 </td></tr></tbody></table>
 
 
-
 ## 说明文本
 
 ### 东方鬼形兽
-- Music Room (未找到链接)
+
+- [Music Room](./东方鬼形兽-Music.md#4面BOSS吉吊八千慧角色曲)
 
 　吉吊 八千慧的主题曲。  
-　  
+   
 　她是介于龙与龟之间的感觉的传说中的生物。  
 　这首曲子也能同时感受到帅气和可爱、轻快与厚重，  
 　是一首奇妙的曲子。  
 　她算是这款游戏的关键人物之一，所以虽然才到游戏中盘，曲子稍微热烈一些。
-
 ### 东方兽王园
-- Music Room (未找到链接)
+
+- [Music Room](./东方兽王园-Music.md#吉吊八千慧角色曲)
 
 　吉吊八千慧的主题曲。  
-　  
+   
 　重编自鬼形兽曲目。
-
 ## 其他资料
 
 ### 乐理资讯
 
 ### 分析考据
   
- **トータスドラゴン　～ 幸運と不運**  Tortoise Dragon　～ 幸运与不幸
+**トータスドラゴン ～ 幸運と不運** Tortoise Dragon　～ 幸运与不幸
   
 
-- トータス（tortoise）
+- トータス（tortoise） 
   - 陆龟。
 
-- ドラゴン（dragon）
+
+- ドラゴン（dragon） 
   - 龙。
 
-- トータスドラゴン（tortoise dragon）
+
+- トータスドラゴン（tortoise dragon） 
   - 龟 + 龙。
   - 传说中吉吊是龙之子，一般被认为具有蛇头、龟壳，因此是兼备龟与龙特征的幻兽。
 
-- <ruby lang="ja"><rb>幸運</rb><rp> (</rp><rt>こううん</rt><rp>) </rp></ruby>
-と<ruby lang="ja"><rb>不運</rb><rp> (</rp><rt>ふうん</rt><rp>) </rp></ruby>
-（幸运与不幸）
-  - 从「吉弔」的文字含义上来讲，「吉」意为幸运，而「弔」（吊）本义为悼念死者，代表不幸。参见吉吊八千慧/分析考据#姓名 (未找到链接)。
+
+- <ruby lang="ja"><rb>幸運</rb><rp> (</rp><rt>こううん</rt><rp>) </rp></ruby>と<ruby lang="ja"><rb>不運</rb><rp> (</rp><rt>ふうん</rt><rp>) </rp></ruby>（幸运与不幸） 
+  - 从「吉弔」的文字含义上来讲，「吉」意为幸运，而「弔」（吊）本义为悼念死者，代表不幸。参见[吉吊八千慧/分析考据#姓名](./吉吊八千慧-分析考据.md#姓名)。
   - 幸运与不幸，这和个人的运势相关联，或与日本「龙神卡片」（龍神カード）相关？[^cite_note-1]
     - 龙神卡片是日本一种风水占卜卡牌，正面绘有一种和龙相关的「龙神」，背面是对龙神代表运势的解释和建议。
     - 其中包含「吉吊」，作为龙神卡片象征「个性的统一」、「团结合作」、「合二而一」。
@@ -126,7 +113,11 @@ Tortoise Dragon ～ 幸运与不幸（曲目） - 由 ZUN 创作的官方曲目�
 
 
 
-- [](./文件-吉吊龙神卡片.jpg.md)吉吊龙神卡片- [](./文件-打开幸福之门的龙神卡片.jpg.md)《打开幸福之门的龙神卡片》（幸せと豊かさへの扉を開く 龍神カード）封面
+
+
+
+- <img alt="吉吊龙神卡片" src="https://upload.thwiki.cc/thumb/2/2e/%E5%90%89%E5%90%8A%E9%BE%99%E7%A5%9E%E5%8D%A1%E7%89%87.jpg/154px-%E5%90%89%E5%90%8A%E9%BE%99%E7%A5%9E%E5%8D%A1%E7%89%87.jpg" decoding="async" loading="lazy" width="154" height="200" srcset="https://upload.thwiki.cc/thumb/2/2e/%E5%90%89%E5%90%8A%E9%BE%99%E7%A5%9E%E5%8D%A1%E7%89%87.jpg/232px-%E5%90%89%E5%90%8A%E9%BE%99%E7%A5%9E%E5%8D%A1%E7%89%87.jpg 1.5x, https://upload.thwiki.cc/thumb/2/2e/%E5%90%89%E5%90%8A%E9%BE%99%E7%A5%9E%E5%8D%A1%E7%89%87.jpg/309px-%E5%90%89%E5%90%8A%E9%BE%99%E7%A5%9E%E5%8D%A1%E7%89%87.jpg 2x" data-file-width="429" data-file-height="555"> 吉吊龙神卡片
+- <img alt="《打开幸福之门的龙神卡片》（幸せと豊かさへの扉を開く 龍神カード）封面" src="https://upload.thwiki.cc/thumb/9/9d/%E6%89%93%E5%BC%80%E5%B9%B8%E7%A6%8F%E4%B9%8B%E9%97%A8%E7%9A%84%E9%BE%99%E7%A5%9E%E5%8D%A1%E7%89%87.jpg/137px-%E6%89%93%E5%BC%80%E5%B9%B8%E7%A6%8F%E4%B9%8B%E9%97%A8%E7%9A%84%E9%BE%99%E7%A5%9E%E5%8D%A1%E7%89%87.jpg" decoding="async" loading="lazy" width="137" height="200" srcset="https://upload.thwiki.cc/thumb/9/9d/%E6%89%93%E5%BC%80%E5%B9%B8%E7%A6%8F%E4%B9%8B%E9%97%A8%E7%9A%84%E9%BE%99%E7%A5%9E%E5%8D%A1%E7%89%87.jpg/206px-%E6%89%93%E5%BC%80%E5%B9%B8%E7%A6%8F%E4%B9%8B%E9%97%A8%E7%9A%84%E9%BE%99%E7%A5%9E%E5%8D%A1%E7%89%87.jpg 1.5x, https://upload.thwiki.cc/9/9d/%E6%89%93%E5%BC%80%E5%B9%B8%E7%A6%8F%E4%B9%8B%E9%97%A8%E7%9A%84%E9%BE%99%E7%A5%9E%E5%8D%A1%E7%89%87.jpg 2x" data-file-width="221" data-file-height="322"> 《打开幸福之门的龙神卡片》（幸せと豊かさへの扉を開く 龍神カード）封面
 
 
 ### 二次同人数据
@@ -142,19 +133,7 @@ Tortoise Dragon ～ 幸运与不幸（曲目） - 由 ZUN 创作的官方曲目�
 <tr><td>Vocal率</td><td>27.84%</td></tr>
 </tbody></table>
 
-
-
-
-  
-  
-
-  
-
-[^cite_note-1]: 大杉日香理：[幸せと豊かさへの扉を開く 龍神カード](https://www.kawade.co.jp/np/isbn/9784309231020/)． *河出書房新社* ．
-
-
-
-
+[^cite_note-1]: 大杉日香理：[幸せと豊かさへの扉を開く 龍神カード](https://www.kawade.co.jp/np/isbn/9784309231020/)．*河出書房新社*．
 
 ---
 

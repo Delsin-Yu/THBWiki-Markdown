@@ -1,12 +1,8 @@
 # 文件:AlphaVersion_Recordsbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\89\ns6%3AAlphaVersion_Recordsbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\89\ns6%3AAlphaVersion_Recordsbanner%2Ejpg.html -->
 
 AlphaVersion_Records | 社团LOGO
-
-
-
-
 
 
 ---

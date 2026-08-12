@@ -1,6 +1,6 @@
 # 文件:幻想レジスタンス_総集編I封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c2\ns6%3A%E5%B9%BB%E6%83%B3%E3%83%AC%E3%82%B8%E3%82%B9%E3%82%BF%E3%83%B3%E3%82%B9_%E7%B7%8F%E9%9B%86%E7%B7%A8I%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c2\ns6%3A%E5%B9%BB%E6%83%B3%E3%83%AC%E3%82%B8%E3%82%B9%E3%82%BF%E3%83%B3%E3%82%B9_%E7%B7%8F%E9%9B%86%E7%B7%A8I%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ラッキーハッピー | 同人志封面 | 封面图片
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [幻想レジスタンス 総集編I](./幻想レジスタンス_総集編I.md)  
-该封面包含的角色：- [鬼人正邪](./鬼人正邪.md)- [少名针妙丸](./少名针妙丸.md)
-
-
-
+- [幻想レジスタンス 総集編I](./幻想レジスタンス_総集編I.md)该封面包含的角色：
+- [鬼人正邪](./鬼人正邪.md)
+- [少名针妙丸](./少名针妙丸.md)
 
 
 ---

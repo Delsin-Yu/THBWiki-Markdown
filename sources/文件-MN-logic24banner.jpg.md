@@ -1,12 +1,8 @@
 # 文件:MN-logic24banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ea\ns6%3AMN-logic24banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ea\ns6%3AMN-logic24banner%2Ejpg.html -->
 
 MN-logic24 | 社团LOGO
-
-
-
-
 
 
 ---

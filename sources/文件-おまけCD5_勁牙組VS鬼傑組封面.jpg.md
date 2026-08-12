@@ -1,6 +1,6 @@
 # 文件:おまけCD5_勁牙組VS鬼傑組封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0e\ns6%3A%E3%81%8A%E3%81%BE%E3%81%91CD5_%E5%8B%81%E7%89%99%E7%B5%84VS%E9%AC%BC%E5%82%91%E7%B5%84%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0e\ns6%3A%E3%81%8A%E3%81%BE%E3%81%91CD5_%E5%8B%81%E7%89%99%E7%B5%84VS%E9%AC%BC%E5%82%91%E7%B5%84%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ちょこふぁん | 专辑封面 | 封面图片
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [おまけCD5 勁牙組VS鬼傑組](./おまけCD5_勁牙組VS鬼傑組.md)  
-该封面包含的角色：- [骊驹早鬼](./骊驹早鬼.md)- [吉吊八千慧](./吉吊八千慧.md)
-
-
-
+- [おまけCD5 勁牙組VS鬼傑組](./おまけCD5_勁牙組VS鬼傑組.md)该封面包含的角色：
+- [骊驹早鬼](./骊驹早鬼.md)
+- [吉吊八千慧](./吉吊八千慧.md)
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:唖采弦二／輪くすさが_Art_Works封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b0\ns6%3A%E5%94%96%E9%87%87%E5%BC%A6%E4%BA%8C%EF%BC%8F%E8%BC%AA%E3%81%8F%E3%81%99%E3%81%95%E3%81%8C_Art_Works%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b0\ns6%3A%E5%94%96%E9%87%87%E5%BC%A6%E4%BA%8C%EF%BC%8F%E8%BC%AA%E3%81%8F%E3%81%99%E3%81%95%E3%81%8C_Art_Works%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 唖采弦二／輪くすさが_Art_Works
-
-
-
-
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:ペキンダックメーカーズlogo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\61\ns6%3A%E3%83%9A%E3%82%AD%E3%83%B3%E3%83%80%E3%83%83%E3%82%AF%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E3%82%BAlogo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\61\ns6%3A%E3%83%9A%E3%82%AD%E3%83%B3%E3%83%80%E3%83%83%E3%82%AF%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E3%82%BAlogo%2Epng.html -->
 
 ペキンダックメーカーズ | 社团LOGO
-
-
-
-
 
 
 ---

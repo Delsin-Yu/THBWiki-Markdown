@@ -1,6 +1,6 @@
 # 文件:glossolalia封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f8\ns6%3Aglossolalia%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f8\ns6%3Aglossolalia%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 As／Hi_Soundworks | 专辑封面 | 封面图片 | 梶迫小道具店
 
@@ -10,16 +10,12 @@ As／Hi_Soundworks | 专辑封面 | 封面图片 | 梶迫小道具店
 使用了本文件作封面图片的作品：
   
 
-- [glossolalia](./glossolalia.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
+- [glossolalia](./glossolalia.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
   
-源地址：[图片链接](https://static.tumblr.com/943a21b8c6ab483e43970ceae56ed2f2/0ahxako/f6Vpvfjju/tumblr_static_1vnuv05wkd28g48kwog0cok4s.png) [官网页面](https://ahcj0004.tumblr.com/)
-  
-
-
-
-
+源地址：[图片链接](https://static.tumblr.com/943a21b8c6ab483e43970ceae56ed2f2/0ahxako/f6Vpvfjju/tumblr_static_1vnuv05wkd28g48kwog0cok4s.png) [官网页面](https://ahcj0004.tumblr.com/)  
 
 ---
 

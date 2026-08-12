@@ -1,12 +1,8 @@
 # 文件:SYNC_ART'S_banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c8\ns6%3ASYNC_ART%27S_banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c8\ns6%3ASYNC_ART%27S_banner%2Egif.html -->
 
 SYNC.ART'S | 社团LOGO
-
-
-
-
 
 
 ---

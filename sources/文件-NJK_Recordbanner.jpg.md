@@ -1,16 +1,11 @@
 # 文件:NJK_Recordbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cc\ns6%3ANJK_Recordbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cc\ns6%3ANJK_Recordbanner%2Ejpg.html -->
 
 NJK_Record | 社团LOGO
 
   
-源地址：[[1]](https://image.jimcdn.com/app/cms/image/transf/dimension=161x10000:format=jpg/path/sbafb16337c513172/image/icae0b76bb0aeccb0/version/1481207889/image.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://image.jimcdn.com/app/cms/image/transf/dimension=161x10000:format=jpg/path/sbafb16337c513172/image/icae0b76bb0aeccb0/version/1481207889/image.jpg)  
 
 ---
 

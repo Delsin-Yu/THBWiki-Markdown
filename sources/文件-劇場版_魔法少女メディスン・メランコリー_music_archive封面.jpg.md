@@ -1,6 +1,6 @@
 # 文件:劇場版_魔法少女メディスン・メランコリー_music_archive封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c0\ns6%3A%E5%8A%87%E5%A0%B4%E7%89%88_%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E3%83%A1%E3%83%87%E3%82%A3%E3%82%B9%E3%83%B3%E3%83%BB%E3%83%A1%E3%83%A9%E3%83%B3%E3%82%B3%E3%83%AA%E3%83%BC_music_archive%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c0\ns6%3A%E5%8A%87%E5%A0%B4%E7%89%88_%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E3%83%A1%E3%83%87%E3%82%A3%E3%82%B9%E3%83%B3%E3%83%BB%E3%83%A1%E3%83%A9%E3%83%B3%E3%82%B3%E3%83%AA%E3%83%BC_music_archive%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 あらいぐまファクトリー | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [劇場版 魔法少女メディスン・メランコリー music archive](./劇場版_魔法少女メディスン・メランコリー_music_archive.md)  
-该封面包含的角色：- [梅蒂欣·梅兰可莉](./梅蒂欣·梅兰可莉.md)
-
-
-
+- [劇場版 魔法少女メディスン・メランコリー music archive](./劇場版_魔法少女メディスン・メランコリー_music_archive.md)该封面包含的角色：
+- [梅蒂欣·梅兰可莉](./梅蒂欣·梅兰可莉.md)
 
 
 ---

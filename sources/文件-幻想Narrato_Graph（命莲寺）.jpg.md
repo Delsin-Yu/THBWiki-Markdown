@@ -1,14 +1,11 @@
 # 文件:幻想Narrato_Graph（命莲寺）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d8\ns6%3A%E5%B9%BB%E6%83%B3Narrato_Graph%EF%BC%88%E5%91%BD%E8%8E%B2%E5%AF%BA%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d8\ns6%3A%E5%B9%BB%E6%83%B3Narrato_Graph%EF%BC%88%E5%91%BD%E8%8E%B2%E5%AF%BA%EF%BC%89%2Ejpg.html -->
 
 幻想Narrato_Graph
 
 
 ## 摘要
-
-
-
 
 ---
 

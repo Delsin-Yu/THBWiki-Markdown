@@ -1,12 +1,8 @@
 # 文件:ConstructionClock.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\22\ns6%3AConstructionClock%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\22\ns6%3AConstructionClock%2Epng.html -->
 
 帮助文档
-
-
-
-
 
 
 ---

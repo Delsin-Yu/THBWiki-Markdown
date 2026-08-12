@@ -1,6 +1,6 @@
 # 文件:Prism（Traumerei_Fabrik）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3f\ns6%3APrism%EF%BC%88Traumerei_Fabrik%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3f\ns6%3APrism%EF%BC%88Traumerei_Fabrik%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Traumerei_Fabrik | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Traumerei_Fabrik | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Prism（Traumerei Fabrik）](./Prism（Traumerei_Fabrik）.md)  
-该封面包含的角色：- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
+- [Prism（Traumerei Fabrik）](./Prism（Traumerei_Fabrik）.md)该封面包含的角色：
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
 
   
-源地址：[[1]](https://img.dlsite.jp/modpub/images2/work/doujin/RJ062000/RJ061659_img_main.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://img.dlsite.jp/modpub/images2/work/doujin/RJ062000/RJ061659_img_main.jpg)  
 
 ---
 

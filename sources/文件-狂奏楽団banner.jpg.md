@@ -1,16 +1,11 @@
 # 文件:狂奏楽団banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\93\ns6%3A%E7%8B%82%E5%A5%8F%E6%A5%BD%E5%9B%A3banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\93\ns6%3A%E7%8B%82%E5%A5%8F%E6%A5%BD%E5%9B%A3banner%2Ejpg.html -->
 
 狂奏楽団 | 社团LOGO
 
   
-源地址：[[1]](http://kyousou-gakudan.com/bana/banner1.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://kyousou-gakudan.com/bana/banner1.jpg)  
 
 ---
 

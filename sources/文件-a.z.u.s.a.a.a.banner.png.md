@@ -1,12 +1,8 @@
 # 文件:a.z.u.s.a.a.a.banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\24\ns6%3Aa%2Ez%2Eu%2Es%2Ea%2Ea%2Ea%2Ebanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\24\ns6%3Aa%2Ez%2Eu%2Es%2Ea%2Ea%2Ea%2Ebanner%2Epng.html -->
 
 a.z.u.s.a.a.a. | 社团LOGO
-
-
-
-
 
 
 ---

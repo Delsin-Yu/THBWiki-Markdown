@@ -1,12 +1,8 @@
 # 文件:冻符「Cold_Divinity」2.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bc\ns6%3A%E5%86%BB%E7%AC%A6%E3%80%8CCold_Divinity%E3%80%8D2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bc\ns6%3A%E5%86%BB%E7%AC%A6%E3%80%8CCold_Divinity%E3%80%8D2%2Epng.html -->
 
 东方花映塚 | 琪露诺
-
-
-
-
 
 
 ---

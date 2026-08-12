@@ -1,12 +1,8 @@
 # 文件:SOUND_HOLIC_banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2b\ns6%3ASOUND_HOLIC_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2b\ns6%3ASOUND_HOLIC_banner%2Ejpg.html -->
 
 SOUND_HOLIC | 社团LOGO
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:あZUNまんが大王_1封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2f\ns6%3A%E3%81%82ZUN%E3%81%BE%E3%82%93%E3%81%8C%E5%A4%A7%E7%8E%8B_1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2f\ns6%3A%E3%81%82ZUN%E3%81%BE%E3%82%93%E3%81%8C%E5%A4%A7%E7%8E%8B_1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 真夜中のジムダステギ
 
@@ -10,11 +10,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [あZUNまんが大王 1](./あZUNまんが大王_1.md)  
-该封面包含的角色：- [红美铃](./红美铃.md)- 十六夜咲夜 (未找到链接)- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [上白泽慧音](./上白泽慧音.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [あZUNまんが大王 1](./あZUNまんが大王_1.md)该封面包含的角色：
+- [红美铃](./红美铃.md)
+- [十六夜咲夜](./十六夜咲夜.md)
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [上白泽慧音](./上白泽慧音.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

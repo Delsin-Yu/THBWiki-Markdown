@@ -1,6 +1,6 @@
 # 文件:fiD封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\ba\ns6%3AfiD%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\ba\ns6%3AfiD%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 氷笠家屋
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [fiD](./fiD.md)  
-该封面包含的角色：- [幽谷响子](./幽谷响子.md)
-
-
-
+- [fiD](./fiD.md)该封面包含的角色：
+- [幽谷响子](./幽谷响子.md)
 
 
 ---

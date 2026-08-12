@@ -1,6 +1,6 @@
 # 文件:かぐだい_Lunatic封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\80\ns6%3A%E3%81%8B%E3%81%90%E3%81%A0%E3%81%84_Lunatic%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\80\ns6%3A%E3%81%8B%E3%81%90%E3%81%A0%E3%81%84_Lunatic%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 封面图片 | 幻乃処 | 软件封面
 
@@ -9,9 +9,6 @@
   
 
 - [かぐだい Lunatic](./かぐだい_Lunatic.md)
-
-
-
 
 
 ---

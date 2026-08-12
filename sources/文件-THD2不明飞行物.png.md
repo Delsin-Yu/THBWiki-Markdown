@@ -1,12 +1,8 @@
 # 文件:THD2不明飞行物.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\03\ns6%3ATHD2%E4%B8%8D%E6%98%8E%E9%A3%9E%E8%A1%8C%E7%89%A9%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\03\ns6%3ATHD2%E4%B8%8D%E6%98%8E%E9%A3%9E%E8%A1%8C%E7%89%A9%2Epng.html -->
 
 东方DOTS玩家社群
-
-
-
-
 
 
 ---

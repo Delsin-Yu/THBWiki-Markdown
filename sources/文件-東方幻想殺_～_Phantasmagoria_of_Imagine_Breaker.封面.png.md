@@ -1,6 +1,6 @@
 # 文件:東方幻想殺_～_Phantasmagoria_of_Imagine_Breaker.封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\85\ns6%3A%E6%9D%B1%E6%96%B9%E5%B9%BB%E6%83%B3%E6%AE%BA_%EF%BD%9E_Phantasmagoria_of_Imagine_Breaker%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\85\ns6%3A%E6%9D%B1%E6%96%B9%E5%B9%BB%E6%83%B3%E6%AE%BA_%EF%BD%9E_Phantasmagoria_of_Imagine_Breaker%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Gore | 封面图片 | 软件封面
 
@@ -8,11 +8,8 @@ Gore | 封面图片 | 软件封面
 使用了本文件作封面图片的作品：
   
 
-- [東方幻想殺 ～ Phantasmagoria of Imagine Breaker.](./東方幻想殺_～_Phantasmagoria_of_Imagine_Breaker..md)  
-该封面包含的角色：- 亚雷斯塔·克劳利 (未找到链接)
-
-
-
+- [東方幻想殺 ～ Phantasmagoria of Imagine Breaker.](./東方幻想殺_～_Phantasmagoria_of_Imagine_Breaker..md)该封面包含的角色：
+- 亚雷斯塔·克劳利 (未找到链接)
 
 
 ---

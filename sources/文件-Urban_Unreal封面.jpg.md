@@ -1,6 +1,6 @@
 # 文件:Urban_Unreal封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0e\ns6%3AUrban_Unreal%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0e\ns6%3AUrban_Unreal%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 家主はJanus | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Urban Unreal](./Urban_Unreal.md)  
-该封面包含的角色：- [橙](./橙.md)
-
-
-
+- [Urban Unreal](./Urban_Unreal.md)该封面包含的角色：
+- [橙](./橙.md)
 
 
 ---

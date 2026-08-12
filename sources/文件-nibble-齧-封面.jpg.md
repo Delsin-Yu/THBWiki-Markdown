@@ -1,6 +1,6 @@
 # 文件:nibble-齧-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\05\ns6%3Anibble-%E9%BD%A7-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\05\ns6%3Anibble-%E9%BD%A7-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 遊星
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [nibble-齧-](./nibble-齧-.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
+- [nibble-齧-](./nibble-齧-.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-[Pixiv artwork ID: 13322792 (original size)](https://www.pixiv.net/artworks/13322792)
-  
-
-
-
-
+[Pixiv artwork ID: 13322792 (original size)](https://www.pixiv.net/artworks/13322792)  
 
 ---
 

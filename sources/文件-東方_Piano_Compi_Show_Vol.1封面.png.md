@@ -1,6 +1,6 @@
 # 文件:東方_Piano_Compi_Show_Vol.1封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0b\ns6%3A%E6%9D%B1%E6%96%B9_Piano_Compi_Show_Vol%2E1%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0b\ns6%3A%E6%9D%B1%E6%96%B9_Piano_Compi_Show_Vol%2E1%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Syo-_Time_Music | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ Syo-_Time_Music | 专辑封面 | 封面图片
   
 
 - [東方 Piano Compi Show Vol.1](./東方_Piano_Compi_Show_Vol.1.md)
-
-
-
 
 
 ---

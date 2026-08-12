@@ -1,16 +1,11 @@
 # 文件:幻想遊牧民banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fd\ns6%3A%E5%B9%BB%E6%83%B3%E9%81%8A%E7%89%A7%E6%B0%91banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fd\ns6%3A%E5%B9%BB%E6%83%B3%E9%81%8A%E7%89%A7%E6%B0%91banner%2Ejpg.html -->
 
 幻想遊牧民 | 社团LOGO
 
   
-源地址：[[1]](http://gensouyuubokumin.xxxxxxxx.jp/main/gennsou-bannar-b.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://gensouyuubokumin.xxxxxxxx.jp/main/gennsou-bannar-b.jpg)  
 
 ---
 

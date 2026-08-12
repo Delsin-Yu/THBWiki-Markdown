@@ -1,6 +1,6 @@
 # 文件:STAR_GAZER～魔理沙と学ぶ西洋占星学Ⅰ～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b2\ns6%3ASTAR_GAZER%EF%BD%9E%E9%AD%94%E7%90%86%E6%B2%99%E3%81%A8%E5%AD%A6%E3%81%B6%E8%A5%BF%E6%B4%8B%E5%8D%A0%E6%98%9F%E5%AD%A6%E2%85%A0%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b2\ns6%3ASTAR_GAZER%EF%BD%9E%E9%AD%94%E7%90%86%E6%B2%99%E3%81%A8%E5%AD%A6%E3%81%B6%E8%A5%BF%E6%B4%8B%E5%8D%A0%E6%98%9F%E5%AD%A6%E2%85%A0%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 パルピテリア | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [STAR GAZER～魔理沙と学ぶ西洋占星学Ⅰ～](./STAR_GAZER～魔理沙と学ぶ西洋占星学Ⅰ～.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
+- [STAR GAZER～魔理沙と学ぶ西洋占星学Ⅰ～](./STAR_GAZER～魔理沙と学ぶ西洋占星学Ⅰ～.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-[Pixiv artwork ID: 58363516](https://www.pixiv.net/artworks/58363516)
-  
-
-
-
-
+[Pixiv artwork ID: 58363516](https://www.pixiv.net/artworks/58363516)  
 
 ---
 

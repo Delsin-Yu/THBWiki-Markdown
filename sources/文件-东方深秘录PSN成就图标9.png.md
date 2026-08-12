@@ -1,12 +1,8 @@
 # 文件:东方深秘录PSN成就图标9.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fa\ns6%3A%E4%B8%9C%E6%96%B9%E6%B7%B1%E7%A7%98%E5%BD%95PSN%E6%88%90%E5%B0%B1%E5%9B%BE%E6%A0%879%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fa\ns6%3A%E4%B8%9C%E6%96%B9%E6%B7%B1%E7%A7%98%E5%BD%95PSN%E6%88%90%E5%B0%B1%E5%9B%BE%E6%A0%879%2Epng.html -->
 
 东方深秘录
-
-
-
-
 
 
 ---

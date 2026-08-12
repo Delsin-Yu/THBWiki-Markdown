@@ -1,6 +1,6 @@
 # 文件:Touhou_Chiptune_Remix_3封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7c\ns6%3ATouhou_Chiptune_Remix_3%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7c\ns6%3ATouhou_Chiptune_Remix_3%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 一ち茶や飲まん物 | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@
   
 
 - [Touhou Chiptune Remix 3](./Touhou_Chiptune_Remix_3.md)
-
-
-
 
 
 ---

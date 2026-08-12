@@ -1,31 +1,23 @@
 # Newsraven反省会场
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\b4\ns0%3ANewsraven%E5%8F%8D%E7%9C%81%E4%BC%9A%E5%9C%BA.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\b4\ns0%3ANewsraven%E5%8F%8D%E7%9C%81%E4%BC%9A%E5%9C%BA.html -->
 
 由 Wanwan 创作的东方风自作曲，原名 ニュースレイヴン反省会場
 
 本页是关于东方Project  
- **东方风自作曲** 的词条
-
+**东方风自作曲**的词条
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 出现作品](#出现作品)
 - [3 音乐文件](#音乐文件)
 - [4 说明文本](#说明文本)
-
   - [4.1 TriFocuser](#TriFocuser)
 
 
-
 - [5 其他资料](#其他资料)
-
   - [5.1 乐理资讯](#乐理资讯)
   - [5.2 分析考据](#分析考据)
-
-
-
-
 
 
 
@@ -35,7 +27,6 @@
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">ニュースレイヴン反省会場</td></tr><tr><td><b>译名</b></td><td>Newsraven反省会场</td></tr><tr><td><b>作曲</b></td><td><a href="./Wanwan.md" title="Wanwan">Wanwan</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 Newsraven反省会场（曲目） - 由 Wanwan 创作的东方风自作曲，原名 ニュースレイヴン反省会場
-
 ## 出现作品
 
 <table>
@@ -44,17 +35,16 @@ Newsraven反省会场（曲目） - 由 Wanwan 创作的东方风自作曲，原
 </tbody></table>
 
 
-
 ## 音乐文件
 
 ## 说明文本
 
 ### TriFocuser
-- Music Room (未找到链接)
+
+- [Music Room](./トライフォーカサー_～_Outside_the_Traditional_World.-音乐.md#Ending主题曲)
 
   
 Ending的主题曲。  
-
   
   
 曲子充满了哀愁的气氛。雨好像停了。  
@@ -64,15 +54,11 @@ Ending的主题曲。
 所以就想以此为契机，反省一下至今为止的创作生涯。
   
 
-
 ## 其他资料
 
 ### 乐理资讯
 
 ### 分析考据
-
-
-
 
 ---
 

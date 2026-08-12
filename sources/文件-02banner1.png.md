@@ -1,12 +1,8 @@
 # 文件:02banner1.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\85\ns6%3A02banner1%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\85\ns6%3A02banner1%2Epng.html -->
 
 02 | 社团LOGO
-
-
-
-
 
 
 ---

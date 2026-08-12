@@ -1,12 +1,8 @@
 # 文件:K-waves_labLOGO.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\74\ns6%3AK-waves_labLOGO%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\74\ns6%3AK-waves_labLOGO%2Ejpg.html -->
 
 K-waves_LAB | 社团LOGO
-
-
-
-
 
 
 ---

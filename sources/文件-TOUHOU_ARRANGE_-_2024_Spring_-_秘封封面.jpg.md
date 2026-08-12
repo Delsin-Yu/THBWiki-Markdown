@@ -1,6 +1,6 @@
 # 文件:TOUHOU_ARRANGE_-_2024_Spring_-_秘封封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\62\ns6%3ATOUHOU_ARRANGE_-_2024_Spring_-_%E7%A7%98%E5%B0%81%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\62\ns6%3ATOUHOU_ARRANGE_-_2024_Spring_-_%E7%A7%98%E5%B0%81%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Syo-_Time_Music | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ Syo-_Time_Music | 专辑封面 | 封面图片
   
 
 - [TOUHOU ARRANGE - 2024 Spring - 秘封](./TOUHOU_ARRANGE_-_2024_Spring_-_秘封.md)
-
-
-
 
 
 ---

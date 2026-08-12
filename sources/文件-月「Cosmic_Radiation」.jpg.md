@@ -1,12 +1,8 @@
 # 文件:月「Cosmic_Radiation」.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\14\ns6%3A%E6%9C%88%E3%80%8CCosmic_Radiation%E3%80%8D%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\14\ns6%3A%E6%9C%88%E3%80%8CCosmic_Radiation%E3%80%8D%2Ejpg.html -->
 
 敌机符卡 | 秘封噩梦日记 | 赫卡提亚·拉碧斯拉祖利
-
-
-
-
 
 
 ---

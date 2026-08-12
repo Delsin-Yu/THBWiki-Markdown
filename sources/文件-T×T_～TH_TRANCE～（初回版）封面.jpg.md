@@ -1,6 +1,6 @@
 # 文件:T×T_～TH_TRANCE～（初回版）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b1\ns6%3AT%C3%97T_%EF%BD%9ETH_TRANCE%EF%BD%9E%EF%BC%88%E5%88%9D%E5%9B%9E%E7%89%88%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b1\ns6%3AT%C3%97T_%EF%BD%9ETH_TRANCE%EF%BD%9E%EF%BC%88%E5%88%9D%E5%9B%9E%E7%89%88%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 laughing_out_loud | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ laughing_out_loud | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [T×T ～TH TRANCE～（初回版）](./T×T_～TH_TRANCE～（初回版）.md)  
-该封面包含的角色：- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
-
-
-
+- [T×T ～TH TRANCE～（初回版）](./T×T_～TH_TRANCE～（初回版）.md)该封面包含的角色：
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
 
 
 ---

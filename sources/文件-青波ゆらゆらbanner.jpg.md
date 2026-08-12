@@ -1,16 +1,11 @@
 # 文件:青波ゆらゆらbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bd\ns6%3A%E9%9D%92%E6%B3%A2%E3%82%86%E3%82%89%E3%82%86%E3%82%89banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bd\ns6%3A%E9%9D%92%E6%B3%A2%E3%82%86%E3%82%89%E3%82%86%E3%82%89banner%2Ejpg.html -->
 
 社团LOGO | 青波ゆらゆら
 
   
-源地址：[[1]](http://aonamiyurayura.web.fc2.com/image/aonami_banner.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://aonamiyurayura.web.fc2.com/image/aonami_banner.jpg)  
 
 ---
 

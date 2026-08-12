@@ -1,14 +1,11 @@
 # 文件:雾雨魔理沙B（梦时空立绘）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a1\ns6%3A%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99B%EF%BC%88%E6%A2%A6%E6%97%B6%E7%A9%BA%E7%AB%8B%E7%BB%98%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a1\ns6%3A%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99B%EF%BC%88%E6%A2%A6%E6%97%B6%E7%A9%BA%E7%AB%8B%E7%BB%98%EF%BC%89%2Ejpg.html -->
 
 ZUN绘 | 东方梦时空 | 官方游戏立绘 | 雾雨魔理沙（旧作角色）
 
 
 ## 摘要
-
-
-
 
 ---
 

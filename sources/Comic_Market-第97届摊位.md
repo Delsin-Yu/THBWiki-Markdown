@@ -1,20 +1,15 @@
 # Comic_Market/第97届摊位
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\9\99\ns0%3AComic_Market%2F%E7%AC%AC97%E5%B1%8A%E6%91%8A%E4%BD%8D.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\9\99\ns0%3AComic_Market%2F%E7%AC%AC97%E5%B1%8A%E6%91%8A%E4%BD%8D.html -->
 
 活动摊位列表
-
-  
-  
-
-  
 
 
 <table>
 
 <tbody><tr>
 <td><b>名称</b></td>
-<td><a href="/Comic_Market#97" title="Comic Market">Comic Market 97</a>
+<td><a href="./Comic_Market.md#97" title="Comic Market">Comic Market 97</a>
 </td></tr>
 <tr>
 <td><b>日期</b></td>
@@ -29,15 +24,9 @@
 <td>1,078
 </td></tr></tbody></table>
 
+**摊位信息**  
 
- **摊位信息**   
-
-<table><tbody><tr><th>摊位编号</th><th>社团名称</th><th>官网页面</th><th>宣传页面</th><th>备注</th></tr><tr><td id="黄昏フロンティア">南ナ28a</td><td><a href="./黄昏フロンティア.md" class="mw-redirect" title="黄昏フロンティア">黄昏フロンティア</a></td><td><a rel="nofollow" class="external text" href="http://www.tasofro.net/">官网</a></td><td></td><td><a href="./东方刚欲异闻.md" title="东方刚欲异闻">东方刚欲异闻</a>体验版</td></tr></tbody></table>
-
-
-
-
-
+<table><tbody><tr><th>摊位编号</th><th>社团名称</th><th>官网页面</th><th>宣传页面</th><th>备注</th></tr><tr><td id="黄昏フロンティア">南ナ28a</td><td><a href="./黄昏边境.md" class="mw-redirect" title="黄昏フロンティア">黄昏フロンティア</a></td><td><a rel="nofollow" class="external text" href="http://www.tasofro.net/">官网</a></td><td></td><td><a href="./东方刚欲异闻.md" title="东方刚欲异闻">东方刚欲异闻</a>体验版</td></tr></tbody></table>
 
 
 ---

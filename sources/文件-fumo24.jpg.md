@@ -1,12 +1,8 @@
 # 文件:fumo24.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fe\ns6%3Afumo24%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fe\ns6%3Afumo24%2Ejpg.html -->
 
 ふもふも
-
-
-
-
 
 
 ---

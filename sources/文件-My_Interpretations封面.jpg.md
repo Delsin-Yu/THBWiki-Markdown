@@ -1,6 +1,6 @@
 # 文件:My_Interpretations封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\28\ns6%3AMy_Interpretations%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\28\ns6%3AMy_Interpretations%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 DHS | 专辑封面 | 封面图片
 
@@ -11,12 +11,7 @@ DHS | 专辑封面 | 封面图片
 - [My Interpretations](./My_Interpretations.md)
 
   
-源地址：[[1]](http://static.tumblr.com/5449d466a0a12b151005f4253619477c/qcfv5kk/UPiogzzd7/tumblr_static_129i56cjuqfkcs0wwo8ws0oso.png)
-  
-
-
-
-
+源地址：[\[1\]](http://static.tumblr.com/5449d466a0a12b151005f4253619477c/qcfv5kk/UPiogzzd7/tumblr_static_129i56cjuqfkcs0wwo8ws0oso.png)  
 
 ---
 

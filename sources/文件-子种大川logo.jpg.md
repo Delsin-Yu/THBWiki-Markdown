@@ -1,12 +1,8 @@
 # 文件:子种大川logo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dd\ns6%3A%E5%AD%90%E7%A7%8D%E5%A4%A7%E5%B7%9Dlogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dd\ns6%3A%E5%AD%90%E7%A7%8D%E5%A4%A7%E5%B7%9Dlogo%2Ejpg.html -->
 
 子种大川 | 社团LOGO
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Tropical_Vacation封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\27\ns6%3ATropical_Vacation%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\27\ns6%3ATropical_Vacation%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Over_The_Coffee | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Over_The_Coffee | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Tropical Vacation](./Tropical_Vacation.md)  
-该封面包含的角色：- [比那名居天子](./比那名居天子.md)
-
-
-
+- [Tropical Vacation](./Tropical_Vacation.md)该封面包含的角色：
+- [比那名居天子](./比那名居天子.md)
 
 
 ---

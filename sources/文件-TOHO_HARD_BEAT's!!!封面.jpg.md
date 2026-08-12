@@ -1,6 +1,6 @@
 # 文件:TOHO_HARD_BEAT's!!!封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\da\ns6%3ATOHO_HARD_BEAT%27s%21%21%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\da\ns6%3ATOHO_HARD_BEAT%27s%21%21%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 BLACK_KIRISHIMA | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ BLACK_KIRISHIMA | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [TOHO HARD BEAT's!!!](./TOHO_HARD_BEAT's!!!.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)
-
-
-
+- [TOHO HARD BEAT's!!!](./TOHO_HARD_BEAT's!!!.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
 
 
 ---

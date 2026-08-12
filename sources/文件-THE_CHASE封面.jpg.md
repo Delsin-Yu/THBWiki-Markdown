@@ -1,6 +1,6 @@
 # 文件:THE_CHASE封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\21\ns6%3ATHE_CHASE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\21\ns6%3ATHE_CHASE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 アイシーエス | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [THE CHASE](./THE_CHASE.md)  
-该封面包含的角色：- [今泉影狼](./今泉影狼.md)
+- [THE CHASE](./THE_CHASE.md)该封面包含的角色：
+- [今泉影狼](./今泉影狼.md)
 
   
-源地址：[direct image link](https://s2.booth.pm/90304454-abcd-498f-baea-f57a85385285/i/394732/89bd2eef-573c-4ac3-8d03-92418acd3915_base_resized.jpg), [source page (circle Booth)](https://circle-ics.booth.pm/items/394732)
-  
-
-
-
-
+源地址：[direct image link](https://s2.booth.pm/90304454-abcd-498f-baea-f57a85385285/i/394732/89bd2eef-573c-4ac3-8d03-92418acd3915_base_resized.jpg), [source page (circle Booth)](https://circle-ics.booth.pm/items/394732)  
 
 ---
 

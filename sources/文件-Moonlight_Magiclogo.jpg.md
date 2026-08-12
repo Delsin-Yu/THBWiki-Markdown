@@ -1,12 +1,8 @@
 # 文件:Moonlight_Magiclogo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\42\ns6%3AMoonlight_Magiclogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\42\ns6%3AMoonlight_Magiclogo%2Ejpg.html -->
 
 Moonlight_Magic | 社团LOGO
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:存在考察_-III-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\00\ns6%3A%E5%AD%98%E5%9C%A8%E8%80%83%E5%AF%9F_-III-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\00\ns6%3A%E5%AD%98%E5%9C%A8%E8%80%83%E5%AF%9F_-III-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 mental_apricot | 同人志封面 | 封面图片
 
@@ -8,11 +8,9 @@ mental_apricot | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [存在考察 -III-](./存在考察_-III-.md)  
-该封面包含的角色：- [东风谷早苗](./东风谷早苗.md)- [八坂神奈子](./八坂神奈子.md)
-
-
-
+- [存在考察 -III-](./存在考察_-III-.md)该封面包含的角色：
+- [东风谷早苗](./东风谷早苗.md)
+- [八坂神奈子](./八坂神奈子.md)
 
 
 ---

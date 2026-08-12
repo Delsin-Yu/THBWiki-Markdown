@@ -1,12 +1,8 @@
 # 文件:Iris（同人社团）banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9f\ns6%3AIris%EF%BC%88%E5%90%8C%E4%BA%BA%E7%A4%BE%E5%9B%A2%EF%BC%89banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9f\ns6%3AIris%EF%BC%88%E5%90%8C%E4%BA%BA%E7%A4%BE%E5%9B%A2%EF%BC%89banner%2Ejpg.html -->
 
 Iris（同人社团） | 社团LOGO
-
-
-
-
 
 
 ---

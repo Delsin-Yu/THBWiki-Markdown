@@ -1,16 +1,12 @@
 # 模板:ITF
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\5\52\ns10%3AITF.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\5\52\ns10%3AITF.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

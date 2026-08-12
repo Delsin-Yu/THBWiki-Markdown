@@ -1,14 +1,11 @@
 # 文件:Music_Advancebanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\47\ns6%3AMusic_Advancebanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\47\ns6%3AMusic_Advancebanner%2Epng.html -->
 
 Music_Advance | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

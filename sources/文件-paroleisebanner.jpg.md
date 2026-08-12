@@ -1,12 +1,8 @@
 # 文件:paroleisebanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6a\ns6%3Aparoleisebanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6a\ns6%3Aparoleisebanner%2Ejpg.html -->
 
 paroleise | 社团LOGO
-
-
-
-
 
 
 ---

@@ -1,37 +1,21 @@
 # Ques_Q/洩矢诹访子
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\3\33\ns0%3AQues_Q%2F%E6%B4%A9%E7%9F%A2%E8%AF%B9%E8%AE%BF%E5%AD%90.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\3\33\ns0%3AQues_Q%2F%E6%B4%A9%E7%9F%A2%E8%AF%B9%E8%AE%BF%E5%AD%90.html -->
 
 洩矢诹访子PVCFigure手办模型
 
 本页是关于东方Project  
- **相关实体周边 (未找到链接)** 的词条
-
+**相关实体周边 (未找到链接)**的词条
 ## 模型信息
 
-<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 洩矢诹访子 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>无</td></tr><tr><td class="label">角色</td><td><a href="./洩矢诹访子.md" title="洩矢诹访子">洩矢诹访子</a></td></tr><tr><td class="label">原型师</td><td><a href="/index.php?title=Guhico&amp;action=edit&amp;redlink=1" class="new" title="Guhico（页面不存在）">Guhico</a></td></tr><tr><td class="label">尺寸</td><td>150mm</td></tr><tr><td class="label">状态</td><td>已发售</td></tr><tr><td class="label">售价</td><td>6400円</td></tr><tr><td class="label">首发日期</td><td>2011-06-15</td></tr><tr><td class="label">发售方</td><td><a href="/index.php?title=Ques_Q&amp;action=edit&amp;redlink=1" class="new" title="Ques Q（页面不存在）">Ques Q</a></td></tr><tr><td class="label">官网页面</td><td><a rel="nofollow" class="external free" href="http://www.quesq.net/">http://www.quesq.net/</a></td></tr><tr><td class="label">备注</td><td>コンパチブルパーツとして、輪を持たない右手も付属しています。</td></tr></tbody></table>
+<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 洩矢诹访子 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>无</td></tr><tr><td class="label">角色</td><td><a href="./洩矢诹访子.md" title="洩矢诹访子">洩矢诹访子</a></td></tr><tr><td class="label">原型师</td><td><a class="new" title="Guhico（页面不存在）">Guhico</a></td></tr><tr><td class="label">尺寸</td><td>150mm</td></tr><tr><td class="label">状态</td><td>已发售</td></tr><tr><td class="label">售价</td><td>6400円</td></tr><tr><td class="label">首发日期</td><td>2011-06-15</td></tr><tr><td class="label">发售方</td><td><a class="new" title="Ques Q（页面不存在）">Ques Q</a></td></tr><tr><td class="label">官网页面</td><td><a rel="nofollow" class="external free" href="http://www.quesq.net/">http://www.quesq.net/</a></td></tr><tr><td class="label">备注</td><td>コンパチブルパーツとして、輪を持たない右手も付属しています。</td></tr></tbody></table>
 
 Ques Q/洩矢诹访子（周边） - 洩矢诹访子PVCFigure手办模型
-
 ## 参考图片
-
-
-
-[](./文件-Ques_Q洩矢诹访子-1.jpg.md)
-
-
-[](./文件-Ques_Q洩矢诹访子-2.jpg.md)
-
-
-[](./文件-Ques_Q洩矢诹访子-3.jpg.md)
-
+<img alt="Ques Q洩矢诹访子" src="https://upload.thwiki.cc/thumb/1/16/Ques_Q%E6%B4%A9%E7%9F%A2%E8%AF%B9%E8%AE%BF%E5%AD%90-1.jpg/160px-Ques_Q%E6%B4%A9%E7%9F%A2%E8%AF%B9%E8%AE%BF%E5%AD%90-1.jpg" decoding="async" loading="lazy" width="160" height="240" srcset="https://upload.thwiki.cc/thumb/1/16/Ques_Q%E6%B4%A9%E7%9F%A2%E8%AF%B9%E8%AE%BF%E5%AD%90-1.jpg/240px-Ques_Q%E6%B4%A9%E7%9F%A2%E8%AF%B9%E8%AE%BF%E5%AD%90-1.jpg 1.5x, https://upload.thwiki.cc/thumb/1/16/Ques_Q%E6%B4%A9%E7%9F%A2%E8%AF%B9%E8%AE%BF%E5%AD%90-1.jpg/320px-Ques_Q%E6%B4%A9%E7%9F%A2%E8%AF%B9%E8%AE%BF%E5%AD%90-1.jpg 2x" data-file-width="533" data-file-height="800">
+<img alt="Ques Q洩矢诹访子" src="https://upload.thwiki.cc/thumb/e/e3/Ques_Q%E6%B4%A9%E7%9F%A2%E8%AF%B9%E8%AE%BF%E5%AD%90-2.jpg/160px-Ques_Q%E6%B4%A9%E7%9F%A2%E8%AF%B9%E8%AE%BF%E5%AD%90-2.jpg" decoding="async" loading="lazy" width="160" height="240" srcset="https://upload.thwiki.cc/thumb/e/e3/Ques_Q%E6%B4%A9%E7%9F%A2%E8%AF%B9%E8%AE%BF%E5%AD%90-2.jpg/240px-Ques_Q%E6%B4%A9%E7%9F%A2%E8%AF%B9%E8%AE%BF%E5%AD%90-2.jpg 1.5x, https://upload.thwiki.cc/thumb/e/e3/Ques_Q%E6%B4%A9%E7%9F%A2%E8%AF%B9%E8%AE%BF%E5%AD%90-2.jpg/320px-Ques_Q%E6%B4%A9%E7%9F%A2%E8%AF%B9%E8%AE%BF%E5%AD%90-2.jpg 2x" data-file-width="533" data-file-height="800">
+<img alt="Ques Q洩矢诹访子" src="https://upload.thwiki.cc/thumb/3/38/Ques_Q%E6%B4%A9%E7%9F%A2%E8%AF%B9%E8%AE%BF%E5%AD%90-3.jpg/160px-Ques_Q%E6%B4%A9%E7%9F%A2%E8%AF%B9%E8%AE%BF%E5%AD%90-3.jpg" decoding="async" loading="lazy" width="160" height="240" srcset="https://upload.thwiki.cc/thumb/3/38/Ques_Q%E6%B4%A9%E7%9F%A2%E8%AF%B9%E8%AE%BF%E5%AD%90-3.jpg/240px-Ques_Q%E6%B4%A9%E7%9F%A2%E8%AF%B9%E8%AE%BF%E5%AD%90-3.jpg 1.5x, https://upload.thwiki.cc/thumb/3/38/Ques_Q%E6%B4%A9%E7%9F%A2%E8%AF%B9%E8%AE%BF%E5%AD%90-3.jpg/320px-Ques_Q%E6%B4%A9%E7%9F%A2%E8%AF%B9%E8%AE%BF%E5%AD%90-3.jpg 2x" data-file-width="533" data-file-height="800">
 公式图
-
-
-
-
-
-
 
 ---
 

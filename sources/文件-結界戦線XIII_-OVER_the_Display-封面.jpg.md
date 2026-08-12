@@ -1,6 +1,6 @@
 # 文件:結界戦線XIII_-OVER_the_Display-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d0\ns6%3A%E7%B5%90%E7%95%8C%E6%88%A6%E7%B7%9AXIII_-OVER_the_Display-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d0\ns6%3A%E7%B5%90%E7%95%8C%E6%88%A6%E7%B7%9AXIII_-OVER_the_Display-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 白上さん家
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [結界戦線XIII -OVER the Display-](./結界戦線XIII_-OVER_the_Display-.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
-
-
-
+- [結界戦線XIII -OVER the Display-](./結界戦線XIII_-OVER_the_Display-.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
 
 
 ---

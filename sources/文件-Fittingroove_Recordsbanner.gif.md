@@ -1,18 +1,13 @@
 # 文件:Fittingroove_Recordsbanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e5\ns6%3AFittingroove_Recordsbanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e5\ns6%3AFittingroove_Recordsbanner%2Egif.html -->
 
 Fittingroove_Records | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[direct image link](https://web.archive.org/web/20111201125057im_/http://fittingroove.com/wp-content/uploads/GD-test12-3gif.gif), [source page](https://web.archive.org/web/20111012095300/http://fittingroove.com/)
-  
-
-
-
-
+源地址：[direct image link](https://web.archive.org/web/20111201125057im_/http://fittingroove.com/wp-content/uploads/GD-test12-3gif.gif), [source page](https://web.archive.org/web/20111012095300/http://fittingroove.com/)  
 
 ---
 

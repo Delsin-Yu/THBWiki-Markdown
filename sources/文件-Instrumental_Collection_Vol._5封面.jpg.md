@@ -1,6 +1,6 @@
 # 文件:Instrumental_Collection_Vol._5封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\65\ns6%3AInstrumental_Collection_Vol%2E_5%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\65\ns6%3AInstrumental_Collection_Vol%2E_5%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Frozen_Starfall | 专辑封面 | 封面图片
 
@@ -10,11 +10,10 @@ Frozen_Starfall | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Instrumental Collection Vol. 5](./Instrumental_Collection_Vol._5.md)  
-该封面包含的角色：- [八云紫](./八云紫.md)- [赫卡提亚·拉碧斯拉祖利](./赫卡提亚·拉碧斯拉祖利.md)- [高丽野阿吽](./高丽野阿吽.md)
-
-
-
+- [Instrumental Collection Vol. 5](./Instrumental_Collection_Vol._5.md)该封面包含的角色：
+- [八云紫](./八云紫.md)
+- [赫卡提亚·拉碧斯拉祖利](./赫卡提亚·拉碧斯拉祖利.md)
+- [高丽野阿吽](./高丽野阿吽.md)
 
 
 ---

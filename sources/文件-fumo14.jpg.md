@@ -1,16 +1,12 @@
 # 文件:fumo14.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d5\ns6%3Afumo14%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d5\ns6%3Afumo14%2Ejpg.html -->
 
 ふもふも
 
   
 fumo14
   
-
-
-
-
 
 ---
 

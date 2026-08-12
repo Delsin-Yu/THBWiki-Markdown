@@ -1,6 +1,6 @@
 # 文件:future_retro_Vol.6封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8e\ns6%3Afuture_retro_Vol%2E6%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8e\ns6%3Afuture_retro_Vol%2E6%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ばんだいく | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@
   
 
 - [future retro Vol.6](./future_retro_Vol.6.md)
-
-
-
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:物置小屋_banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fc\ns6%3A%E7%89%A9%E7%BD%AE%E5%B0%8F%E5%B1%8B_banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fc\ns6%3A%E7%89%A9%E7%BD%AE%E5%B0%8F%E5%B1%8B_banner%2Epng.html -->
 
 物置小屋 | 社团LOGO
-
-
-
-
 
 
 ---

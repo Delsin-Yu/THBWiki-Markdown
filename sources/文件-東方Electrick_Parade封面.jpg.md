@@ -1,6 +1,6 @@
 # 文件:東方Electrick_Parade封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bc\ns6%3A%E6%9D%B1%E6%96%B9Electrick_Parade%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bc\ns6%3A%E6%9D%B1%E6%96%B9Electrick_Parade%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 天然ジェミニ | 封面图片
 
@@ -8,16 +8,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方Electrick Parade](./東方Electrick_Parade.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [克劳恩皮丝](./克劳恩皮丝.md)
+- [東方Electrick Parade](./東方Electrick_Parade.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [克劳恩皮丝](./克劳恩皮丝.md)
 
   
-源地址：[[1]](http://tenjemi.com/tohoep/images/jake_l_01.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://tenjemi.com/tohoep/images/jake_l_01.jpg)  
 
 ---
 

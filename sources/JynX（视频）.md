@@ -1,13 +1,12 @@
 # JynX（视频）
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\b5\ns0%3AJynX%EF%BC%88%E8%A7%86%E9%A2%91%EF%BC%89.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\b5\ns0%3AJynX%EF%BC%88%E8%A7%86%E9%A2%91%EF%BC%89.html -->
 
 东方Project同人视频列表。
 
   
 本页面用于收录[JynX](./JynX.md)的东方视频作品
   
-
 
 <table>
 
@@ -132,14 +131,10 @@
 <th colspan="7" align="center"><b>同人视频共有分类：<a href="./分类-同人视频.md" title="分类:同人视频">同人视频</a></b>
 </th></tr></tbody></table>
 
-
 JynX - 东方Project同人视频列表。
-
 ## 符卡
+
 - [符卡](./JynX（视频）-符卡.md)
-
-
-
 
 
 ---

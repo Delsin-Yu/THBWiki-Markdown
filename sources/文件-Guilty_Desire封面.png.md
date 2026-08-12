@@ -1,6 +1,6 @@
 # 文件:Guilty_Desire封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\70\ns6%3AGuilty_Desire%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\70\ns6%3AGuilty_Desire%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 イノライ | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Guilty Desire](./Guilty_Desire.md)  
-该封面包含的角色：- [玉造魅须丸](./玉造魅须丸.md)
-
-
-
+- [Guilty Desire](./Guilty_Desire.md)该封面包含的角色：
+- [玉造魅须丸](./玉造魅须丸.md)
 
 
 ---

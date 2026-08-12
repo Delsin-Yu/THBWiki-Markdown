@@ -1,6 +1,6 @@
 # 文件:Beyond_Girl_etc.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\40\ns6%3ABeyond_Girl_etc%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\40\ns6%3ABeyond_Girl_etc%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 メンヘラテレビサイズ | 专辑封面 | 封面图片
 
@@ -8,16 +8,13 @@
 使用了本文件作封面图片的作品：
   
 
-- [Beyond Girl etc.](./Beyond_Girl_etc..md)  
-该封面包含的角色：- [因幡帝](./因幡帝.md)- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)- [蓬莱山辉夜](./蓬莱山辉夜.md)
+- [Beyond Girl etc.](./Beyond_Girl_etc..md)该封面包含的角色：
+- [因幡帝](./因幡帝.md)
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
+- [蓬莱山辉夜](./蓬莱山辉夜.md)
 
   
-源地址：[[1]](https://mentvsizec93.tumblr.com/)
-  
-
-
-
-
+源地址：[\[1\]](https://mentvsizec93.tumblr.com/)  
 
 ---
 

@@ -1,36 +1,26 @@
 # 花儿啊，凋零吧_～_Consumed_with_JEALOUSY!
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\fa\ns0%3A%E8%8A%B1%E5%84%BF%E5%95%8A%EF%BC%8C%E5%87%8B%E9%9B%B6%E5%90%A7_%EF%BD%9E_Consumed_with_JEALOUSY%21.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\fa\ns0%3A%E8%8A%B1%E5%84%BF%E5%95%8A%EF%BC%8C%E5%87%8B%E9%9B%B6%E5%90%A7_%EF%BD%9E_Consumed_with_JEALOUSY%21.html -->
 
 JynX作曲 | 引用了翻译表的页面 | 花儿啊，凋零吧_～_Consumed_with_JEALOUSY! | 连缘Project | 连缘Project官方音乐
 
-本页是关于 **向[东方Project](./东方Project.md)  
-致敬、形式类似的作品** 的词条
-
+本页是关于**向[东方Project](./东方Project.md)致敬、形式类似的作品**  
+的词条
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 出现作品](#出现作品)
 - [3 音乐文件](#音乐文件)
-
   - [3.1 连缘天影战记](#连缘天影战记)
 
 
-
 - [4 说明文本](#说明文本)
-
   - [4.1 连缘天影战记](#连缘天影战记_2)
 
 
-
 - [5 其他资料](#其他资料)
-
   - [5.1 乐理资讯](#乐理资讯)
   - [5.2 分析考据](#分析考据)
-
-
-
-
 
 
 
@@ -59,14 +49,12 @@ JynX作曲 | 引用了翻译表的页面 | 花儿啊，凋零吧_～_Consumed_wi
 </td></tr></tbody></table>
 
 
-
 ## 出现作品
 
 <table>
 
 <tbody><tr><td>2016年12月1日（非展会）</td><td><b><a href="./连缘天影战记～Brilliant_pagoda_or_haze_castle.md" title="连缘天影战记～Brilliant pagoda or haze castle" unred="">连缘天影战记</a></b></td><td>城线1面Boss-<a href="./银镜苍枯.md" title="银镜苍枯">银镜苍枯</a>主题曲</td><td style="padding-left:5px;">花よ散れ ～ Consumed with JEALOUSY!（花儿啊，凋零吧 ～ Consumed with JEALOUSY!）</td><td style="padding-left:10px;">作曲：JynX</td></tr>
 </tbody></table>
-
 
 
 ## 音乐文件
@@ -90,11 +78,11 @@ JynX作曲 | 引用了翻译表的页面 | 花儿啊，凋零吧_～_Consumed_wi
 </td></tr></tbody></table>
 
 
-
 ## 说明文本
 
 ### 连缘天影战记
-- Music Room (未找到链接)
+
+- [Music Room](./连缘天影战记～Brilliant_pagoda_or_haze_castle-Music.md#城线1面Boss-银镜苍枯主题曲)
 
 一面BOSS，苍枯的曲子。  
   
@@ -107,15 +95,11 @@ JynX作曲 | 引用了翻译表的页面 | 花儿啊，凋零吧_～_Consumed_wi
 即便是这无现里中。  
   
 不过嘛～还算和平的啦。
-
 ## 其他资料
 
 ### 乐理资讯
 
 ### 分析考据
-
-
-
 
 ---
 

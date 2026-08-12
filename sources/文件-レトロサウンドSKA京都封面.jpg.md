@@ -1,6 +1,6 @@
 # 文件:レトロサウンドSKA京都封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\10\ns6%3A%E3%83%AC%E3%83%88%E3%83%AD%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89SKA%E4%BA%AC%E9%83%BD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\10\ns6%3A%E3%83%AC%E3%83%88%E3%83%AD%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89SKA%E4%BA%AC%E9%83%BD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 レトロサウンドスカ京都 | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [レトロサウンドSKA京都](./レトロサウンドSKA京都.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
-
-
-
+- [レトロサウンドSKA京都](./レトロサウンドSKA京都.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
 
 ---

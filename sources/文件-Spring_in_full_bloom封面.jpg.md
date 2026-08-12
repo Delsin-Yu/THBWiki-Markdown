@@ -1,6 +1,6 @@
 # 文件:Spring_in_full_bloom封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\db\ns6%3ASpring_in_full_bloom%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\db\ns6%3ASpring_in_full_bloom%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 春乃二式
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Spring in full bloom](./Spring_in_full_bloom.md)  
-该封面包含的角色：- [莉莉霍瓦特](./莉莉霍瓦特.md)
-
-
-
+- [Spring in full bloom](./Spring_in_full_bloom.md)该封面包含的角色：
+- [莉莉霍瓦特](./莉莉霍瓦特.md)
 
 
 ---

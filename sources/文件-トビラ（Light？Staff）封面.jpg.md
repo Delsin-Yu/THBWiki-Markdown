@@ -1,6 +1,6 @@
 # 文件:トビラ（Light？Staff）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4f\ns6%3A%E3%83%88%E3%83%93%E3%83%A9%EF%BC%88Light%EF%BC%9FStaff%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4f\ns6%3A%E3%83%88%E3%83%93%E3%83%A9%EF%BC%88Light%EF%BC%9FStaff%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Light？Staff | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ Light？Staff | 专辑封面 | 封面图片
   
 
 - [トビラ（Light？Staff）](./トビラ（Light？Staff）.md)
-
-
-
 
 
 ---

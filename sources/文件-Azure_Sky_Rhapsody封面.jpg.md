@@ -1,6 +1,6 @@
 # 文件:Azure_Sky_Rhapsody封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c7\ns6%3AAzure_Sky_Rhapsody%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c7\ns6%3AAzure_Sky_Rhapsody%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 赤螢Clusters
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Azure Sky Rhapsody](./Azure_Sky_Rhapsody.md)  
-该封面包含的角色：- [比那名居天子](./比那名居天子.md)
-
-
-
+- [Azure Sky Rhapsody](./Azure_Sky_Rhapsody.md)该封面包含的角色：
+- [比那名居天子](./比那名居天子.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:よりぬきナズよんmame封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b1\ns6%3A%E3%82%88%E3%82%8A%E3%81%AC%E3%81%8D%E3%83%8A%E3%82%BA%E3%82%88%E3%82%93mame%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b1\ns6%3A%E3%82%88%E3%82%8A%E3%81%AC%E3%81%8D%E3%83%8A%E3%82%BA%E3%82%88%E3%82%93mame%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 タムリンビュー | 同人志封面 | 封面图片
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [よりぬきナズよんmame](./よりぬきナズよんmame.md)  
-该封面包含的角色：- [娜兹玲](./娜兹玲.md)- [寅丸星](./寅丸星.md)
-
-
-
+- [よりぬきナズよんmame](./よりぬきナズよんmame.md)该封面包含的角色：
+- [娜兹玲](./娜兹玲.md)
+- [寅丸星](./寅丸星.md)
 
 
 ---

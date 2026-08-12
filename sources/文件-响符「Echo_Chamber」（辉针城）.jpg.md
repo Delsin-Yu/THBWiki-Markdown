@@ -1,12 +1,8 @@
 # 文件:响符「Echo_Chamber」（辉针城）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b8\ns6%3A%E5%93%8D%E7%AC%A6%E3%80%8CEcho_Chamber%E3%80%8D%EF%BC%88%E8%BE%89%E9%92%88%E5%9F%8E%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b8\ns6%3A%E5%93%8D%E7%AC%A6%E3%80%8CEcho_Chamber%E3%80%8D%EF%BC%88%E8%BE%89%E9%92%88%E5%9F%8E%EF%BC%89%2Ejpg.html -->
 
 东方辉针城 | 九十九八桥 | 敌机符卡
-
-
-
-
 
 
 ---

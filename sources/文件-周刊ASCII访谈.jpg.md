@@ -1,12 +1,8 @@
 # 文件:周刊ASCII访谈.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8f\ns6%3A%E5%91%A8%E5%88%8AASCII%E8%AE%BF%E8%B0%88%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8f\ns6%3A%E5%91%A8%E5%88%8AASCII%E8%AE%BF%E8%B0%88%2Ejpg.html -->
 
 周刊ASCII访谈
-
-
-
-
 
 
 ---

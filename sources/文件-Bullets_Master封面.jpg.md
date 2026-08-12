@@ -1,6 +1,6 @@
 # 文件:Bullets_Master封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8d\ns6%3ABullets_Master%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8d\ns6%3ABullets_Master%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 USOL | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ USOL | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Bullets Master](./Bullets_Master.md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)
+- [Bullets Master](./Bullets_Master.md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
 
   
-源地址：[[1]](https://web.archive.org/web/20060614162718im_/http://usol-sound.info/img/bullets/WEBullets-Master.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://web.archive.org/web/20060614162718im_/http://usol-sound.info/img/bullets/WEBullets-Master.jpg)  
 
 ---
 

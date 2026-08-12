@@ -1,6 +1,6 @@
 # 文件:Inferno_de_Invierno封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b7\ns6%3AInferno_de_Invierno%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b7\ns6%3AInferno_de_Invierno%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 LTEDTX | 专辑封面 | 封面图片
 
@@ -11,12 +11,7 @@ LTEDTX | 专辑封面 | 封面图片
 - [Inferno de Invierno](./Inferno_de_Invierno.md)
 
   
-源地址：[[1]](https://f4.bcbits.com/img/a2063345377_10.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://f4.bcbits.com/img/a2063345377_10.jpg)  
 
 ---
 

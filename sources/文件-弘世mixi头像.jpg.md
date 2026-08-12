@@ -1,12 +1,8 @@
 # 文件:弘世mixi头像.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1a\ns6%3A%E5%BC%98%E4%B8%96mixi%E5%A4%B4%E5%83%8F%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1a\ns6%3A%E5%BC%98%E4%B8%96mixi%E5%A4%B4%E5%83%8F%2Ejpg.html -->
 
 Mixi
-
-
-
-
 
 
 ---

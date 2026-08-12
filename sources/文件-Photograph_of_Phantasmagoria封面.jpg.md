@@ -1,6 +1,6 @@
 # 文件:Photograph_of_Phantasmagoria封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9e\ns6%3APhotograph_of_Phantasmagoria%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9e\ns6%3APhotograph_of_Phantasmagoria%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Dust_Box_49 | N-tone | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ Dust_Box_49 | N-tone | 专辑封面 | 封面图片
   
 
 - [Photograph of Phantasmagoria](./Photograph_of_Phantasmagoria.md)
-
-
-
 
 
 ---

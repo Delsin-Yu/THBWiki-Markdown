@@ -1,6 +1,6 @@
 # 文件:Vekiĝu封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2e\ns6%3AVeki%C4%9Du%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2e\ns6%3AVeki%C4%9Du%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 上东研 | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@
   
 
 - [Vekiĝu](./Vekiĝu.md)
-
-
-
 
 
 ---

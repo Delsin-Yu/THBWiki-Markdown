@@ -1,6 +1,6 @@
 # 文件:Afternoon＊Tea_1st_Annyversary!!封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e6\ns6%3AAfternoon%EF%BC%8ATea_1st_Annyversary%21%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e6\ns6%3AAfternoon%EF%BC%8ATea_1st_Annyversary%21%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Afternoon*Tea | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@ Afternoon*Tea | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Afternoon＊Tea 1st Annyversary!!](./Afternoon＊Tea_1st_Annyversary!!.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
+- [Afternoon＊Tea 1st Annyversary!!](./Afternoon＊Tea_1st_Annyversary!!.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-源地址：[direct image link (original uploaded image)](https://pbs.twimg.com/media/FPY0UQnaIAA9dV-?format=jpg&amp;name=orig), [source tweet](https://twitter.com/AT_Officia_Info/status/1510452255602151424)
-  
-
-
-
-
+源地址：[direct image link (original uploaded image)](https://pbs.twimg.com/media/FPY0UQnaIAA9dV-?format=jpg&name=orig), [source tweet](https://twitter.com/AT_Officia_Info/status/1510452255602151424)  
 
 ---
 

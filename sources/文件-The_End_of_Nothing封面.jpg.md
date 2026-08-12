@@ -1,6 +1,6 @@
 # 文件:The_End_of_Nothing封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8c\ns6%3AThe_End_of_Nothing%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8c\ns6%3AThe_End_of_Nothing%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Again【ST】ratoSphere | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ Again【ST】ratoSphere | 专辑封面 | 封面图片
   
 
 - [The End of Nothing](./The_End_of_Nothing.md)
-
-
-
 
 
 ---

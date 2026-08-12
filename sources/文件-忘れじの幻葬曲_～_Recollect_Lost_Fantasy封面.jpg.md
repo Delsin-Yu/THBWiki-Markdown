@@ -1,6 +1,6 @@
 # 文件:忘れじの幻葬曲_～_Recollect_Lost_Fantasy封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f1\ns6%3A%E5%BF%98%E3%82%8C%E3%81%98%E3%81%AE%E5%B9%BB%E8%91%AC%E6%9B%B2_%EF%BD%9E_Recollect_Lost_Fantasy%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f1\ns6%3A%E5%BF%98%E3%82%8C%E3%81%98%E3%81%AE%E5%B9%BB%E8%91%AC%E6%9B%B2_%EF%BD%9E_Recollect_Lost_Fantasy%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 北方幻視林_～_Northern_Primeval_Forest | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [忘れじの幻葬曲 ～ Recollect Lost Fantasy](./忘れじの幻葬曲_～_Recollect_Lost_Fantasy.md)  
-该封面包含的角色：- [博丽灵梦（旧作角色）](./博丽灵梦（旧作角色）.md)
-
-
-
+- [忘れじの幻葬曲 ～ Recollect Lost Fantasy](./忘れじの幻葬曲_～_Recollect_Lost_Fantasy.md)该封面包含的角色：
+- [博丽灵梦（旧作角色）](./博丽灵梦（旧作角色）.md)
 
 
 ---

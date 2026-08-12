@@ -1,6 +1,6 @@
 # 文件:東方幻奏響UROBOROS業_～eNDoFtHEuLTIMATEoVERdRIVE～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f9\ns6%3A%E6%9D%B1%E6%96%B9%E5%B9%BB%E5%A5%8F%E9%9F%BFUROBOROS%E6%A5%AD_%EF%BD%9EeNDoFtHEuLTIMATEoVERdRIVE%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f9\ns6%3A%E6%9D%B1%E6%96%B9%E5%B9%BB%E5%A5%8F%E9%9F%BFUROBOROS%E6%A5%AD_%EF%BD%9EeNDoFtHEuLTIMATEoVERdRIVE%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 虎之穴
 
@@ -8,11 +8,13 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方幻奏響UROBOROS業 ～eNDoFtHEuLTIMATEoVERdRIVE～](./東方幻奏響UROBOROS業_～eNDoFtHEuLTIMATEoVERdRIVE～.md)  
-该封面包含的角色：- [露娜萨·普莉兹姆利巴](./露娜萨·普莉兹姆利巴.md)- [梅露兰·普莉兹姆利巴](./梅露兰·普莉兹姆利巴.md)- [莉莉卡·普莉兹姆利巴](./莉莉卡·普莉兹姆利巴.md)- [九十九弁弁](./九十九弁弁.md)- [九十九八桥](./九十九八桥.md)- [堀川雷鼓](./堀川雷鼓.md)
-
-
-
+- [東方幻奏響UROBOROS業 ～eNDoFtHEuLTIMATEoVERdRIVE～](./東方幻奏響UROBOROS業_～eNDoFtHEuLTIMATEoVERdRIVE～.md)该封面包含的角色：
+- [露娜萨·普莉兹姆利巴](./露娜萨·普莉兹姆利巴.md)
+- [梅露兰·普莉兹姆利巴](./梅露兰·普莉兹姆利巴.md)
+- [莉莉卡·普莉兹姆利巴](./莉莉卡·普莉兹姆利巴.md)
+- [九十九弁弁](./九十九弁弁.md)
+- [九十九八桥](./九十九八桥.md)
+- [堀川雷鼓](./堀川雷鼓.md)
 
 
 ---

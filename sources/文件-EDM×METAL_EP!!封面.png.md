@@ -1,6 +1,6 @@
 # 文件:EDM×METAL_EP!!封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b3\ns6%3AEDM%C3%97METAL_EP%21%21%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b3\ns6%3AEDM%C3%97METAL_EP%21%21%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 ㊥ | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [EDM×METAL EP!!](./EDM×METAL_EP!!.md)  
-该封面包含的角色：- [河城荷取](./河城荷取.md)
+- [EDM×METAL EP!!](./EDM×METAL_EP!!.md)该封面包含的角色：
+- [河城荷取](./河城荷取.md)
 
   
-源地址：[direct image link (original size)](https://pbs.twimg.com/media/CSGZsppUcAAdQz6?format=png&amp;name=orig), [source tweet](https://twitter.com/maru_tyu/status/657976014648164352)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://pbs.twimg.com/media/CSGZsppUcAAdQz6?format=png&name=orig), [source tweet](https://twitter.com/maru_tyu/status/657976014648164352)  
 
 ---
 

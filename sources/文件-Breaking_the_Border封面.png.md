@@ -1,6 +1,6 @@
 # 文件:Breaking_the_Border封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a2\ns6%3ABreaking_the_Border%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a2\ns6%3ABreaking_the_Border%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 猫乃塚
 
@@ -8,11 +8,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [Breaking the Border](./Breaking_the_Border.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)- [八云紫](./八云紫.md)
-
-
-
+- [Breaking the Border](./Breaking_the_Border.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
+- [八云紫](./八云紫.md)
 
 
 ---

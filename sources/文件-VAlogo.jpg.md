@@ -1,16 +1,11 @@
 # 文件:VAlogo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\85\ns6%3AVAlogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\85\ns6%3AVAlogo%2Ejpg.html -->
 
 VA | 社团LOGO
 
   
-源地址：[[1]](https://booth.pximg.net/c/128x128/users/1101291/icon_image/e9b95bb5-da66-4f44-93b3-e126233ea6ac_base_resized.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://booth.pximg.net/c/128x128/users/1101291/icon_image/e9b95bb5-da66-4f44-93b3-e126233ea6ac_base_resized.jpg)  
 
 ---
 

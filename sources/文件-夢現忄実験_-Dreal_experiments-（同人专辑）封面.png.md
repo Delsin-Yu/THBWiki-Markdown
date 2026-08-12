@@ -1,6 +1,6 @@
 # 文件:夢現忄実験_-Dreal_experiments-（同人专辑）封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c7\ns6%3A%E5%A4%A2%E7%8F%BE%E5%BF%84%E5%AE%9F%E9%A8%93_-Dreal_experiments-%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c7\ns6%3A%E5%A4%A2%E7%8F%BE%E5%BF%84%E5%AE%9F%E9%A8%93_-Dreal_experiments-%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 八雲総研 | 封面图片
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [夢現忄実験 -Dreal experiments-（同人专辑）](./夢現忄実験_-Dreal_experiments-（同人专辑）.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [夢現忄実験 -Dreal experiments-（同人专辑）](./夢現忄実験_-Dreal_experiments-（同人专辑）.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Glitter_&_Gold封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7f\ns6%3AGlitter_%26_Gold%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7f\ns6%3AGlitter_%26_Gold%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 粒々アンサンブル
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Glitter &amp; Gold](./Glitter_&_Gold.md)  
-该封面包含的角色：- [红美铃](./红美铃.md)
-
-
-
+- [Glitter & Gold](./Glitter_&_Gold.md)该封面包含的角色：
+- [红美铃](./红美铃.md)
 
 
 ---

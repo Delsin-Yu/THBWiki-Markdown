@@ -1,23 +1,18 @@
 # 東方謎域関_~_Puzzles_from_the_Mystic_Dimension/符卡
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\c\cf\ns0%3A%E6%9D%B1%E6%96%B9%E8%AC%8E%E5%9F%9F%E9%96%A2_%7E_Puzzles_from_the_Mystic_Dimension%2F%E7%AC%A6%E5%8D%A1.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\c\cf\ns0%3A%E6%9D%B1%E6%96%B9%E8%AC%8E%E5%9F%9F%E9%96%A2_%7E_Puzzles_from_the_Mystic_Dimension%2F%E7%AC%A6%E5%8D%A1.html -->
 
 RedstoneGate
 
 
 ## 符卡
 
-<table><tbody><tr><th><b>符卡名</b></th><th><b>难度</b></th></tr><tr><td style="width:200px">谜阵「十面埋伏」<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">1</a></sup></td><td style="width:180px">Overdrive</td></tr>
+<table><tbody><tr><th><b>符卡名</b></th><th><b>难度</b></th></tr><tr><td style="width:200px">谜阵「十面埋伏」<span>[^cite_note-1]</span></td><td style="width:180px">Overdrive</td></tr>
 <tr><td style="width:200px">谜题「新星漩涡」</td><td style="width:180px">Overdrive</td></tr>
-<tr><td style="width:200px">秘关「四象之门」<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">2</a></sup></td><td style="width:180px">Overdrive</td></tr></tbody></table>
-
-
+<tr><td style="width:200px">秘关「四象之门」<span>[^cite_note-2]</span></td><td style="width:180px">Overdrive</td></tr></tbody></table>
 
 [^cite_note-1]: 出自楚汉之争的垓下之战。
-
-
-
-
+[^cite_note-2]: 指佛教中的四大，即地水火风。
 
 ---
 

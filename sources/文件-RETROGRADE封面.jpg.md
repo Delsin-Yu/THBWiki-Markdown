@@ -1,6 +1,6 @@
 # 文件:RETROGRADE封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4b\ns6%3ARETROGRADE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4b\ns6%3ARETROGRADE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 かぼ屋 | 专辑封面 | 封面图片
 
@@ -10,11 +10,14 @@
 使用了本文件作封面图片的作品：
   
 
-- [RETROGRADE](./RETROGRADE.md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)- [村纱水蜜](./村纱水蜜.md)- [雾雨魔理沙](./雾雨魔理沙.md)- [姬海棠果](./姬海棠果.md)- [鬼人正邪](./鬼人正邪.md)- [哆来咪·苏伊特](./哆来咪·苏伊特.md)- [杖刀偶磨弓](./杖刀偶磨弓.md)
-
-
-
+- [RETROGRADE](./RETROGRADE.md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
+- [村纱水蜜](./村纱水蜜.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
+- [姬海棠果](./姬海棠果.md)
+- [鬼人正邪](./鬼人正邪.md)
+- [哆来咪·苏伊特](./哆来咪·苏伊特.md)
+- [杖刀偶磨弓](./杖刀偶磨弓.md)
 
 
 ---

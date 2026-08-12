@@ -1,6 +1,6 @@
 # 文件:No_crap_on_Tap!封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7d\ns6%3ANo_crap_on_Tap%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7d\ns6%3ANo_crap_on_Tap%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Casket | 专辑封面 | 封面图片 | 荒御灵
 
@@ -8,16 +8,13 @@ Casket | 专辑封面 | 封面图片 | 荒御灵
 使用了本文件作封面图片的作品：
   
 
-- [No crap on Tap!](./No_crap_on_Tap!.md)  
-该封面包含的角色：- [小恶魔](./小恶魔.md)- [露娜萨·普莉兹姆利巴](./露娜萨·普莉兹姆利巴.md)- [八云紫](./八云紫.md)
+- [No crap on Tap!](./No_crap_on_Tap!.md)该封面包含的角色：
+- [小恶魔](./小恶魔.md)
+- [露娜萨·普莉兹姆利巴](./露娜萨·普莉兹姆利巴.md)
+- [八云紫](./八云紫.md)
 
   
-源地址：[[1]](http://www.yukinohana.net/~casket/index.php?plugin=ref&amp;page=Prev.Works&amp;src=ACCP0002.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://www.yukinohana.net/~casket/index.php?plugin=ref&page=Prev.Works&src=ACCP0002.jpg)  
 
 ---
 

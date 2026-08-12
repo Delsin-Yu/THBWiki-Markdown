@@ -1,12 +1,8 @@
 # 文件:THD2奇迹之星.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7a\ns6%3ATHD2%E5%A5%87%E8%BF%B9%E4%B9%8B%E6%98%9F%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7a\ns6%3ATHD2%E5%A5%87%E8%BF%B9%E4%B9%8B%E6%98%9F%2Epng.html -->
 
 AvalonStudioOfficial
-
-
-
-
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:星幽剣士~_The_★Alice-in-Wonderland_Angel.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\eb\ns6%3A%E6%98%9F%E5%B9%BD%E5%89%A3%E5%A3%AB%7E_The_%E2%98%85Alice-in-Wonderland_Angel%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\eb\ns6%3A%E6%98%9F%E5%B9%BD%E5%89%A3%E5%A3%AB%7E_The_%E2%98%85Alice-in-Wonderland_Angel%2Emp3.html -->
 
 东方灵异传 | 原曲MP3 | 星幽剑士
-
-
-
-
 
 
 ---

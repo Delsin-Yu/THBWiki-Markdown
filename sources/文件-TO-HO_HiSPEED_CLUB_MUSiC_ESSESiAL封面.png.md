@@ -1,6 +1,6 @@
 # 文件:TO-HO_HiSPEED_CLUB_MUSiC_ESSESiAL封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bc\ns6%3ATO-HO_HiSPEED_CLUB_MUSiC_ESSESiAL%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bc\ns6%3ATO-HO_HiSPEED_CLUB_MUSiC_ESSESiAL%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 dat_file_records | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ dat_file_records | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [TO-HO HiSPEED CLUB MUSiC ESSESiAL](./TO-HO_HiSPEED_CLUB_MUSiC_ESSESiAL.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [TO-HO HiSPEED CLUB MUSiC ESSESiAL](./TO-HO_HiSPEED_CLUB_MUSiC_ESSESiAL.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
   
-源地址：[[1]](http://static.tumblr.com/803e4f9870bea99d7c35668079ddaa8d/e3lazzy/rx3myav0h/tumblr_static_xmas1_rogo_mini.png)
-  
-
-
-
-
+源地址：[\[1\]](http://static.tumblr.com/803e4f9870bea99d7c35668079ddaa8d/e3lazzy/rx3myav0h/tumblr_static_xmas1_rogo_mini.png)  
 
 ---
 

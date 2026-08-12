@@ -1,6 +1,6 @@
 # 文件:四コマLIVE幻想郷9封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0b\ns6%3A%E5%9B%9B%E3%82%B3%E3%83%9ELIVE%E5%B9%BB%E6%83%B3%E9%83%B79%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0b\ns6%3A%E5%9B%9B%E3%82%B3%E3%83%9ELIVE%E5%B9%BB%E6%83%B3%E9%83%B79%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 COM僧.com | 同人志封面 | 封面图片
 
@@ -8,16 +8,13 @@ COM僧.com | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [四コマLIVE幻想郷9](./四コマLIVE幻想郷9.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [四コマLIVE幻想郷9](./四コマLIVE幻想郷9.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
   
-源地址：[Pixiv ID: 68556385](https://i.pximg.net/c/600x600/img-master/img/2018/05/03/21/27/45/68556385_p0_master1200.jpg)
-  
-
-
-
-
+源地址：[Pixiv ID: 68556385](https://i.pximg.net/c/600x600/img-master/img/2018/05/03/21/27/45/68556385_p0_master1200.jpg)  
 
 ---
 

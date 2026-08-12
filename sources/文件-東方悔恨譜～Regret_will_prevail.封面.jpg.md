@@ -1,6 +1,6 @@
 # 文件:東方悔恨譜～Regret_will_prevail.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7e\ns6%3A%E6%9D%B1%E6%96%B9%E6%82%94%E6%81%A8%E8%AD%9C%EF%BD%9ERegret_will_prevail%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7e\ns6%3A%E6%9D%B1%E6%96%B9%E6%82%94%E6%81%A8%E8%AD%9C%EF%BD%9ERegret_will_prevail%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 堕武者グラインド | 封面图片
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方悔恨譜～Regret will prevail.](./東方悔恨譜～Regret_will_prevail..md)  
-该封面包含的角色：- [露娜萨·普莉兹姆利巴](./露娜萨·普莉兹姆利巴.md)- [射命丸文](./射命丸文.md)
-
-
-
+- [東方悔恨譜～Regret will prevail.](./東方悔恨譜～Regret_will_prevail..md)该封面包含的角色：
+- [露娜萨·普莉兹姆利巴](./露娜萨·普莉兹姆利巴.md)
+- [射命丸文](./射命丸文.md)
 
 
 ---

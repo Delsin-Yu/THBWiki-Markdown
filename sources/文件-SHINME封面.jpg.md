@@ -1,6 +1,6 @@
 # 文件:SHINME封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3f\ns6%3ASHINME%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3f\ns6%3ASHINME%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ネジロメイション! | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [SHINME](./SHINME.md)  
-该封面包含的角色：- [橙](./橙.md)
+- [SHINME](./SHINME.md)该封面包含的角色：
+- [橙](./橙.md)
 
   
-[Pixiv artwork ID: 84790937](https://www.pixiv.net/artworks/84790937)
-  
-
-
-
-
+[Pixiv artwork ID: 84790937](https://www.pixiv.net/artworks/84790937)  
 
 ---
 

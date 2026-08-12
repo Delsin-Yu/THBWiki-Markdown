@@ -1,18 +1,13 @@
 # 文件:ほらもるふぃずむbanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3f\ns6%3A%E3%81%BB%E3%82%89%E3%82%82%E3%82%8B%E3%81%B5%E3%81%83%E3%81%9A%E3%82%80banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3f\ns6%3A%E3%81%BB%E3%82%89%E3%82%82%E3%82%8B%E3%81%B5%E3%81%83%E3%81%9A%E3%82%80banner%2Egif.html -->
 
 ほらもるふぃずむ | 社团LOGO
 
 
 ## 摘要
   
-源地址：[direct image link](http://horamorphism.web.fc2.com/banner.gif), [source page](http://horamorphism.web.fc2.com/link.html)
-  
-
-
-
-
+源地址：[direct image link](http://horamorphism.web.fc2.com/banner.gif), [source page](http://horamorphism.web.fc2.com/link.html)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:そして誰もいなくなった_-_And_Then_There_Were_None_-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bb\ns6%3A%E3%81%9D%E3%81%97%E3%81%A6%E8%AA%B0%E3%82%82%E3%81%84%E3%81%AA%E3%81%8F%E3%81%AA%E3%81%A3%E3%81%9F_-_And_Then_There_Were_None_-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bb\ns6%3A%E3%81%9D%E3%81%97%E3%81%A6%E8%AA%B0%E3%82%82%E3%81%84%E3%81%AA%E3%81%8F%E3%81%AA%E3%81%A3%E3%81%9F_-_And_Then_There_Were_None_-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 UnLimited_Questions | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ UnLimited_Questions | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [そして誰もいなくなった - And Then There Were None -](./そして誰もいなくなった_-_And_Then_There_Were_None_-.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
-
-
-
+- [そして誰もいなくなった - And Then There Were None -](./そして誰もいなくなった_-_And_Then_There_Were_None_-.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
 
 ---

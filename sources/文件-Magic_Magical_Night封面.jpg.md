@@ -1,6 +1,6 @@
 # 文件:Magic_Magical_Night封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d0\ns6%3AMagic_Magical_Night%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d0\ns6%3AMagic_Magical_Night%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 FOX_RAVEL | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ FOX_RAVEL | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Magic Magical Night](./Magic_Magical_Night.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [Magic Magical Night](./Magic_Magical_Night.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

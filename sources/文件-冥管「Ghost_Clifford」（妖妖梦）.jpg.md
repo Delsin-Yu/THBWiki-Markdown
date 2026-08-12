@@ -1,12 +1,8 @@
 # 文件:冥管「Ghost_Clifford」（妖妖梦）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dc\ns6%3A%E5%86%A5%E7%AE%A1%E3%80%8CGhost_Clifford%E3%80%8D%EF%BC%88%E5%A6%96%E5%A6%96%E6%A2%A6%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dc\ns6%3A%E5%86%A5%E7%AE%A1%E3%80%8CGhost_Clifford%E3%80%8D%EF%BC%88%E5%A6%96%E5%A6%96%E6%A2%A6%EF%BC%89%2Ejpg.html -->
 
 东方妖妖梦 | 敌机符卡 | 梅露兰·普莉兹姆利巴
-
-
-
-
 
 
 ---

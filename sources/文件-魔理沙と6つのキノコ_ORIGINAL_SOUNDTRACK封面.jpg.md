@@ -1,6 +1,6 @@
 # 文件:魔理沙と6つのキノコ_ORIGINAL_SOUNDTRACK封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1d\ns6%3A%E9%AD%94%E7%90%86%E6%B2%99%E3%81%A86%E3%81%A4%E3%81%AE%E3%82%AD%E3%83%8E%E3%82%B3_ORIGINAL_SOUNDTRACK%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1d\ns6%3A%E9%AD%94%E7%90%86%E6%B2%99%E3%81%A86%E3%81%A4%E3%81%AE%E3%82%AD%E3%83%8E%E3%82%B3_ORIGINAL_SOUNDTRACK%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 うにぼく | 专辑封面 | 封面图片 | 黄昏边境
 
@@ -8,11 +8,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [魔理沙と6つのキノコ ORIGINAL SOUNDTRACK](./魔理沙と6つのキノコ_ORIGINAL_SOUNDTRACK.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [魔理沙と6つのキノコ ORIGINAL SOUNDTRACK](./魔理沙と6つのキノコ_ORIGINAL_SOUNDTRACK.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

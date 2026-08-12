@@ -1,12 +1,8 @@
 # 文件:心界巡回HeartsRoundsbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\42\ns6%3A%E5%BF%83%E7%95%8C%E5%B7%A1%E5%9B%9EHeartsRoundsbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\42\ns6%3A%E5%BF%83%E7%95%8C%E5%B7%A1%E5%9B%9EHeartsRoundsbanner%2Ejpg.html -->
 
 心界巡回HeartsRounds | 社团LOGO
-
-
-
-
 
 
 ---

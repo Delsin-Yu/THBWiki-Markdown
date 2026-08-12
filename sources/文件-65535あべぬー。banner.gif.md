@@ -1,18 +1,13 @@
 # 文件:65535あべぬー。banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2b\ns6%3A65535%E3%81%82%E3%81%B9%E3%81%AC%E3%83%BC%E3%80%82banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2b\ns6%3A65535%E3%81%82%E3%81%B9%E3%81%AC%E3%83%BC%E3%80%82banner%2Egif.html -->
 
 65535あべぬー。 | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[[1]](https://web.archive.org/web/20051215184804im_/http://65535th.sakura.ne.jp/gif/65535bn.gif)
-  
-
-
-
-
+源地址：[\[1\]](https://web.archive.org/web/20051215184804im_/http://65535th.sakura.ne.jp/gif/65535bn.gif)  
 
 ---
 

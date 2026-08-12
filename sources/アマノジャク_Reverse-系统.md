@@ -1,22 +1,20 @@
 # アマノジャク_Reverse/系统
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\d\dc\ns0%3A%E3%82%A2%E3%83%9E%E3%83%8E%E3%82%B8%E3%83%A3%E3%82%AF_Reverse%2F%E7%B3%BB%E7%BB%9F.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\d\dc\ns0%3A%E3%82%A2%E3%83%9E%E3%83%8E%E3%82%B8%E3%83%A3%E3%82%AF_Reverse%2F%E7%B3%BB%E7%BB%9F.html -->
 
 Raichu
 
 
 ## 画面要素
-[](./文件-反逆天邪鬼系统说明1.jpg.md)
+<img alt="反逆天邪鬼系统说明1.jpg" src="https://upload.thwiki.cc/thumb/c/ce/%E5%8F%8D%E9%80%86%E5%A4%A9%E9%82%AA%E9%AC%BC%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E1.jpg/300px-%E5%8F%8D%E9%80%86%E5%A4%A9%E9%82%AA%E9%AC%BC%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E1.jpg" decoding="async" loading="lazy" width="300" height="225" srcset="https://upload.thwiki.cc/thumb/c/ce/%E5%8F%8D%E9%80%86%E5%A4%A9%E9%82%AA%E9%AC%BC%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E1.jpg/450px-%E5%8F%8D%E9%80%86%E5%A4%A9%E9%82%AA%E9%AC%BC%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E1.jpg 1.5x, https://upload.thwiki.cc/thumb/c/ce/%E5%8F%8D%E9%80%86%E5%A4%A9%E9%82%AA%E9%AC%BC%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E1.jpg/600px-%E5%8F%8D%E9%80%86%E5%A4%A9%E9%82%AA%E9%AC%BC%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E1.jpg 2x" data-file-width="635" data-file-height="476">
   
 和[弹幕天邪鬼](./弹幕天邪鬼.md)的界面类似，左侧为关卡选择，右下为当前使用的技能，右上为符卡历史记录。  
 
 操作也是类似，Z键射击、shift键低速、X键使用技能。
   
 
-
-
 ## 技能说明
-[](./文件-反逆天邪鬼系统说明2.jpg.md)
+<img alt="反逆天邪鬼系统说明2.jpg" src="https://upload.thwiki.cc/thumb/2/2e/%E5%8F%8D%E9%80%86%E5%A4%A9%E9%82%AA%E9%AC%BC%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E2.jpg/300px-%E5%8F%8D%E9%80%86%E5%A4%A9%E9%82%AA%E9%AC%BC%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E2.jpg" decoding="async" loading="lazy" width="300" height="159" srcset="https://upload.thwiki.cc/2/2e/%E5%8F%8D%E9%80%86%E5%A4%A9%E9%82%AA%E9%AC%BC%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E2.jpg 1.5x" data-file-width="392" data-file-height="208">
   
 红：蓄力约1s后向boss所在方向突进，消除路径上所有弹幕并造成伤害。（最大使用次数3）  
 
@@ -29,10 +27,8 @@ Raichu
 橙：产生一个向前移动的区域，会吸引并吞噬弹幕，这个技能的消弹效果不是挺好。（最大使用次数3）
   
 
-
-
 ## 游戏设置
-[](./文件-反逆天邪鬼系统说明3.jpg.md)
+<img alt="反逆天邪鬼系统说明3.jpg" src="https://upload.thwiki.cc/thumb/6/61/%E5%8F%8D%E9%80%86%E5%A4%A9%E9%82%AA%E9%AC%BC%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E3.jpg/300px-%E5%8F%8D%E9%80%86%E5%A4%A9%E9%82%AA%E9%AC%BC%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E3.jpg" decoding="async" loading="lazy" width="300" height="303" srcset="https://upload.thwiki.cc/6/61/%E5%8F%8D%E9%80%86%E5%A4%A9%E9%82%AA%E9%AC%BC%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E3.jpg 1.5x" data-file-width="344" data-file-height="347">
   
 音效大小  
 
@@ -49,13 +45,7 @@ Raichu
 保存并退出（直接按X退出则不会保存）  
 
 重置为默认设置  
-
   
-
-
-
-
-
 
 ---
 

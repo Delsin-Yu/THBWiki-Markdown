@@ -1,6 +1,6 @@
 # 文件:Cont_Last封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7a\ns6%3ACont_Last%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7a\ns6%3ACont_Last%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 rack_pinion | 封面图片 | 软件封面
 
@@ -8,16 +8,11 @@ rack_pinion | 封面图片 | 软件封面
 使用了本文件作封面图片的作品：
   
 
-- [Cont Last](./Cont_Last.md)  
-该封面包含的角色：- [露米娅](./露米娅.md)
+- [Cont Last](./Cont_Last.md)该封面包含的角色：
+- [露米娅](./露米娅.md)
 
   
-源地址：[[1]](https://pbs.twimg.com/media/EBhufDIU8AIisYS.jpg:orig)
-  
-
-
-
-
+源地址：[\[1\]](https://pbs.twimg.com/media/EBhufDIU8AIisYS.jpg:orig)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:End_of_Summer_~_永遠封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\66\ns6%3AEnd_of_Summer_%7E_%E6%B0%B8%E9%81%A0%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\66\ns6%3AEnd_of_Summer_%7E_%E6%B0%B8%E9%81%A0%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Maiden's_Capriccio | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Maiden's_Capriccio | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [End of Summer ~ 永遠](./End_of_Summer_~_永遠.md)  
-该封面包含的角色：- [爱塔妮缇拉尔瓦](./爱塔妮缇拉尔瓦.md)
-
-
-
+- [End of Summer ~ 永遠](./End_of_Summer_~_永遠.md)该封面包含的角色：
+- [爱塔妮缇拉尔瓦](./爱塔妮缇拉尔瓦.md)
 
 
 ---

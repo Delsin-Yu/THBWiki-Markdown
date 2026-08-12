@@ -1,16 +1,11 @@
 # 文件:マスカルポーネbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9b\ns6%3A%E3%83%9E%E3%82%B9%E3%82%AB%E3%83%AB%E3%83%9D%E3%83%BC%E3%83%8Dbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9b\ns6%3A%E3%83%9E%E3%82%B9%E3%82%AB%E3%83%AB%E3%83%9D%E3%83%BC%E3%83%8Dbanner%2Ejpg.html -->
 
 マスカルポーネ | 社团LOGO
 
   
-源地址：[[1]](http://mascarpone.penne.jp/images/banner1.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://mascarpone.penne.jp/images/banner1.jpg)  
 
 ---
 

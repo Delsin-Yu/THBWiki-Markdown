@@ -1,10 +1,10 @@
 # 东方三月精_～_Eastern_and_Little_Nature_Deity.
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\1\17\ns0%3A%E4%B8%9C%E6%96%B9%E4%B8%89%E6%9C%88%E7%B2%BE_%EF%BD%9E_Eastern_and_Little_Nature_Deity%2E.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\1\17\ns0%3A%E4%B8%9C%E6%96%B9%E4%B8%89%E6%9C%88%E7%B2%BE_%EF%BD%9E_Eastern_and_Little_Nature_Deity%2E.html -->
 
 官方漫画东方三月精系列的第一季。
 
-本页是关于东方Project **[官方漫画](./官方出版物.md)** 的词条
+本页是关于东方Project**[官方漫画](./官方出版物.md)**的词条
 ## 目录
 
 - [1 概述](#概述)
@@ -14,8 +14,6 @@
 - [5 剧情对话文字版](#剧情对话文字版)
 - [6 其他](#其他)
 - [7 外部链接](#外部链接)
-
-
 
 
 ## 概述
@@ -37,21 +35,18 @@
 <tr><td></td></tr>
 </tbody></table>
 </td></tr><tr><th colspan="4" class="titleH1">东方三月精第一季单行本</th></tr>
-<tr><th scope="row" class="titleH2" width="60px">出版信息</th><td><a href="./角川书店.md" title="角川书店">角川书店</a></td><td>2007年1月26日</td><td>1500日元</td></tr><tr><th scope="row" class="titleH2"><b>店铺特典</b></th><td colspan="3"><a href="/%E4%B8%9C%E6%96%B9%E4%B8%89%E6%9C%88%E7%B2%BE_%EF%BD%9E_Eastern_and_Little_Nature_Deity./%E7%89%B9%E5%85%B8#第一卷" title="东方三月精 ～ Eastern and Little Nature Deity./特典">特典信息</a></td></tr><tr><th scope="row" class="titleH2"><b>ISBN</b></th><td colspan="3"><a href="http://thwiki.cc/Special:BookSources/9784047072343" class="extiw" title="isbn:9784047072343">9784047072343</a></td></tr></tbody></table>
-
+<tr><th scope="row" class="titleH2" width="60px">出版信息</th><td><a href="./角川书店.md" title="角川书店">角川书店</a></td><td>2007年1月26日</td><td>1500日元</td></tr><tr><th scope="row" class="titleH2"><b>店铺特典</b></th><td colspan="3"><a href="./东方三月精_～_Eastern_and_Little_Nature_Deity.-特典.md#第一卷" title="东方三月精 ～ Eastern and Little Nature Deity./特典">特典信息</a></td></tr><tr><th scope="row" class="titleH2"><b>ISBN</b></th><td colspan="3"><a class="extiw" title="isbn:9784047072343">9784047072343</a></td></tr></tbody></table>
 
   
-<big> **东方三月精 ～ Eastern and Little Nature Deity.**   
-</big>
-東方三月精 ～ Eastern and Little Nature Deity.<small>（とうほうさんげつせい， *Touhou Sangetsusei* ，东方小小的自然神）</small>  
+<big>**东方三月精 ～ Eastern and Little Nature Deity.**</big>
+東方三月精 ～ Eastern and Little Nature Deity.<small>（とうほうさんげつせい，*Touhou Sangetsusei*，东方小小的自然神）</small>  
 
 官方漫画[东方三月精](./东方三月精.md)的第一部（共四部，另外三部分别为[东方三月精 ～ Strange and Bright Nature Deity.](./东方三月精_～_Strange_and_Bright_Nature_Deity..md)、[东方三月精 ～ Oriental Sacred Place.](./东方三月精_～_Oriental_Sacred_Place..md)和[东方三月精 ～ Visionary Fairies in Shrine.](./东方三月精_～_Visionary_Fairies_in_Shrine..md)），由ZUN编剧、[松倉ねむ](./松倉ねむ.md)作画。该漫画从2005年3月起开始在角川旗下的杂志コンプエース<small>（Comp-Ace）</small>上连载，并于2006年5月结束连载。  
 
 有一卷单行本，于2007年1月26日发售，单行本收录内容较多，并附有一张音乐CD。  
 
-三月精第一部也被称为 **旧三月精** 、白月精。
+三月精第一部也被称为**旧三月精**、白月精。
   
-
 
 <table>
 <tbody><tr>
@@ -64,22 +59,20 @@
 东方三月精 ～ Eastern and Little Nature Deity.（官方书籍） - 官方漫画东方三月精系列的第一季。
 ## 相关信息
   
-从2005年3月26日发售的 **Comp Ace** 创刊号开始连载，由于Comp Ace前三期是季刊，因此旧三月精的前三话（0-2）也恰好是三月一话。之后Comp Ace改为双月刊，旧三月精也改为两月一话。
+从2005年3月26日发售的**Comp Ace**创刊号开始连载，由于Comp Ace前三期是季刊，因此旧三月精的前三话（0-2）也恰好是三月一话。之后Comp Ace改为双月刊，旧三月精也改为两月一话。
 可惜的是，松仓后期因为健康问题中止了漫画创作，因此旧三月精也就完结了。  
 
 连载时，除第0话外，漫画本篇后页均附有由ZUN所写的《[上海爱丽丝通信 ～三精版～](./上海爱丽丝通信-三精版.md)》，《上海爱丽丝通信 ～三精版～》内的四格漫画由比良坂真琴绘画。  
 
 2007年1月26日，三月精第一部的单行本发售，收录了本篇0-5话共6话漫画以及对应的《上海爱丽丝通信 ～三精版～》并附带了一部插图小说、一张CD以及其他一些内容。   
-
   
   
   
+<big>**关于Comp Ace**</big>  
 
-<big> **关于Comp Ace** </big>  
+现全名**月刊Comp Ace**，是由角川书店发行的漫画杂志。  
 
-现全名 **月刊Comp Ace** ，是由角川书店发行的漫画杂志。  
-
-其于2005年3月26日以 **Comptiq** <small>（角川旗下另一杂志）</small>增刊的名义创刊。创刊之初为季刊，后于同年11月26日发售的Vol.4开始改为双月刊。又自2006年12月26日发售的Vol.10开始月刊化。  
+其于2005年3月26日以**Comptiq**<small>（角川旗下另一杂志）</small>增刊的名义创刊。创刊之初为季刊，后于同年11月26日发售的Vol.4开始改为双月刊。又自2006年12月26日发售的Vol.10开始月刊化。  
 
 从2007年6月26日（8月号）起脱离Comptiq，不再作为增刊而是作为独立刊物开始发售，其杂志名亦增加“月刊”二字，刊号也不再使用“Vol.X”的形式而是改用“X月号”的形式。
   
@@ -128,13 +121,12 @@
 
 ## 目录
   
- **漫画的在线观看，均外链至喵玉殿中的对应页面。**   
+**漫画的在线观看，均外链至喵玉殿中的对应页面。**  
 
 连载时，第0话没有附带上海爱丽丝通信，而1-5话分别各附带了一号通信，  
 
 连载时的排序方式请参见[通信三精版](./上海爱丽丝通信-三精版.md)词条。
   
-
 
 <table>
 
@@ -190,83 +182,83 @@
 <tr>
 <td>007-016</td>
 <td rowspan="2">第0話　桜の距離</td>
-<td><a rel="nofollow" class="external text" href="https://bbs.nyasama.com/forum.php?mod=viewthread&amp;tid=1861496">第0话 樱花的距离（前半）</a></td>
+<td><a rel="nofollow" class="external text" href="https://bbs.nyasama.com/forum.php?mod=viewthread&tid=1861496">第0话 樱花的距离（前半）</a></td>
 <td>2005年03月26日</td>
 <td>Comp Ace Vol.1
 </td></tr>
 <tr>
 <td>017-022</td>
-<td><a rel="nofollow" class="external text" href="https://bbs.nyasama.com/forum.php?mod=viewthread&amp;tid=1861496#pid2674205">第0话 樱花的距离（后半）</a></td>
+<td><a rel="nofollow" class="external text" href="https://bbs.nyasama.com/forum.php?mod=viewthread&tid=1861496#pid2674205">第0话 樱花的距离（后半）</a></td>
 <td>2007年01月26日</td>
 <td>单行本特有
 </td></tr>
 <tr>
 <td>023</td>
 <td>上海アリス通信 ～三精版～　第1号</td>
-<td><a href="/%E4%B8%8A%E6%B5%B7%E7%88%B1%E4%B8%BD%E4%B8%9D%E9%80%9A%E4%BF%A1/%E4%B8%89%E7%B2%BE%E7%89%88#第1号" title="上海爱丽丝通信/三精版">上海爱丽丝通信 ～三精版～ 第1号</a></td>
+<td><a href="./上海爱丽丝通信-三精版.md#第1号" title="上海爱丽丝通信/三精版">上海爱丽丝通信 ～三精版～ 第1号</a></td>
 <td>2005年06月25日</td>
 <td>Comp Ace Vol.2
 </td></tr>
 <tr>
 <td>024-039</td>
 <td>第1話　梅雨明けの真実</td>
-<td><a rel="nofollow" class="external text" href="https://bbs.nyasama.com/forum.php?mod=viewthread&amp;tid=1854436">第1话 梅雨结束的真相</a></td>
+<td><a rel="nofollow" class="external text" href="https://bbs.nyasama.com/forum.php?mod=viewthread&tid=1854436">第1话 梅雨结束的真相</a></td>
 <td>2005年06月25日</td>
 <td>Comp Ace Vol.2
 </td></tr>
 <tr>
 <td>040-055</td>
 <td>第2話　迷いの無い巫女</td>
-<td><a rel="nofollow" class="external text" href="https://bbs.nyasama.com/forum.php?mod=viewthread&amp;tid=1854840">第2话 不会迷路的巫女</a></td>
+<td><a rel="nofollow" class="external text" href="https://bbs.nyasama.com/forum.php?mod=viewthread&tid=1854840">第2话 不会迷路的巫女</a></td>
 <td>2005年09月26日</td>
 <td>Comp Ace Vol.3
 </td></tr>
 <tr>
 <td>056</td>
 <td>上海アリス通信 ～三精版～　第2号</td>
-<td><a href="/%E4%B8%8A%E6%B5%B7%E7%88%B1%E4%B8%BD%E4%B8%9D%E9%80%9A%E4%BF%A1/%E4%B8%89%E7%B2%BE%E7%89%88#第2号" title="上海爱丽丝通信/三精版">上海爱丽丝通信 ～三精版～ 第2号</a></td>
+<td><a href="./上海爱丽丝通信-三精版.md#第2号" title="上海爱丽丝通信/三精版">上海爱丽丝通信 ～三精版～ 第2号</a></td>
 <td>2005年09月26日</td>
 <td>Comp Ace Vol.3
 </td></tr>
 <tr>
 <td>057-068</td>
 <td>第3話　月の画餅</td>
-<td><a rel="nofollow" class="external text" href="https://bbs.nyasama.com/forum.php?mod=viewthread&amp;tid=1855141">第3话 画月充饥</a></td>
+<td><a rel="nofollow" class="external text" href="https://bbs.nyasama.com/forum.php?mod=viewthread&tid=1855141">第3话 画月充饥</a></td>
 <td>2005年11月26日</td>
 <td>Comp Ace Vol.4
 </td></tr>
 <tr>
 <td>069</td>
 <td>上海アリス通信 ～三精版～　第3号</td>
-<td><a href="/%E4%B8%8A%E6%B5%B7%E7%88%B1%E4%B8%BD%E4%B8%9D%E9%80%9A%E4%BF%A1/%E4%B8%89%E7%B2%BE%E7%89%88#第3号" title="上海爱丽丝通信/三精版">上海爱丽丝通信 ～三精版～ 第3号</a></td>
+<td><a href="./上海爱丽丝通信-三精版.md#第3号" title="上海爱丽丝通信/三精版">上海爱丽丝通信 ～三精版～ 第3号</a></td>
 <td>2005年11月26日</td>
 <td>Comp Ace Vol.4
 </td></tr>
 <tr>
 <td>070</td>
 <td>上海アリス通信 ～三精版～　第4号</td>
-<td><a href="/%E4%B8%8A%E6%B5%B7%E7%88%B1%E4%B8%BD%E4%B8%9D%E9%80%9A%E4%BF%A1/%E4%B8%89%E7%B2%BE%E7%89%88#第4号" title="上海爱丽丝通信/三精版">上海爱丽丝通信 ～三精版～ 第4号</a></td>
+<td><a href="./上海爱丽丝通信-三精版.md#第4号" title="上海爱丽丝通信/三精版">上海爱丽丝通信 ～三精版～ 第4号</a></td>
 <td>2006年01月26日</td>
 <td>Comp Ace Vol.5
 </td></tr>
 <tr>
 <td>071-082</td>
 <td>第4話　星の鳥居</td>
-<td><a rel="nofollow" class="external text" href="https://bbs.nyasama.com/forum.php?mod=viewthread&amp;tid=1857407">第4话 星空鸟居</a></td>
+<td><a rel="nofollow" class="external text" href="https://bbs.nyasama.com/forum.php?mod=viewthread&tid=1857407">第4话 星空鸟居</a></td>
 <td>2006年01月26日</td>
 <td>Comp Ace Vol.5
 </td></tr>
 <tr>
 <td>083-094</td>
 <td>第5話　大卵の怪異</td>
-<td><a rel="nofollow" class="external text" href="https://bbs.nyasama.com/forum.php?mod=viewthread&amp;tid=1859068">第5话 奇怪的巨蛋</a></td>
+<td><a rel="nofollow" class="external text" href="https://bbs.nyasama.com/forum.php?mod=viewthread&tid=1859068">第5话 奇怪的巨蛋</a></td>
 <td>2006年03月25日</td>
 <td>Comp Ace Vol.6
 </td></tr>
 <tr>
 <td>095</td>
 <td>上海アリス通信 ～三精版～　第5号</td>
-<td><a href="/%E4%B8%8A%E6%B5%B7%E7%88%B1%E4%B8%BD%E4%B8%9D%E9%80%9A%E4%BF%A1/%E4%B8%89%E7%B2%BE%E7%89%88#第5号" title="上海爱丽丝通信/三精版">上海爱丽丝通信 ～三精版～ 第5号</a></td>
+<td><a href="./上海爱丽丝通信-三精版.md#第5号" title="上海爱丽丝通信/三精版">上海爱丽丝通信 ～三精版～ 第5号</a></td>
 <td>2006年03月25日</td>
 <td>Comp Ace Vol.6
 </td></tr>
@@ -359,29 +351,25 @@
 
 
 ## 其他
+
 - [单行本的错误订正](./东方三月精_～_Eastern_and_Little_Nature_Deity.-勘误.md)
 - [单行本附属音乐CD](./东方三月精_～_Eastern_and_Little_Nature_Deity.-附属CD.md)
 - [单行本设计](./东方三月精_～_Eastern_and_Little_Nature_Deity.-单行本设计.md)
 - 其他相关信息 (未找到链接)
 - [分析与考据](./东方三月精_～_Eastern_and_Little_Nature_Deity.-分析考据.md)
-- 漫画边栏人物简介 (未找到链接)
+- [漫画边栏人物简介](./漫画边栏人物简介-中日对照.md#东方三月精E)
+
 
 ## 外部链接
-- [Comp-Ace官方网站](http://www.kadokawa.co.jp/ca/)（日文）（ **失效** ）
 
-- [](./文件-东方三月精E001.jpg.md)单行本扉绘- [](./文件-东方三月精E003.jpg.md)「博丽神社例大祭」传单- [](./文件-东方三月精E004.jpg.md)「博丽神社例大祭」POP- [](./文件-东方三月精E005.jpg.md)Comp Ace Vol.2 扉绘- [](./文件-东方三月精E006.jpg.md)Comp Ace Vol.3 扉绘
-
-  
-  
-
-  
-
-  
-  
+- [Comp-Ace官方网站](http://www.kadokawa.co.jp/ca/)（日文）（**失效**）
 
 
-
-
+- <img alt="单行本扉绘" src="https://upload.thwiki.cc/thumb/0/07/%E4%B8%9C%E6%96%B9%E4%B8%89%E6%9C%88%E7%B2%BEE001.jpg/83px-%E4%B8%9C%E6%96%B9%E4%B8%89%E6%9C%88%E7%B2%BEE001.jpg" decoding="async" loading="lazy" width="83" height="120" srcset="https://upload.thwiki.cc/thumb/0/07/%E4%B8%9C%E6%96%B9%E4%B8%89%E6%9C%88%E7%B2%BEE001.jpg/124px-%E4%B8%9C%E6%96%B9%E4%B8%89%E6%9C%88%E7%B2%BEE001.jpg 1.5x, https://upload.thwiki.cc/thumb/0/07/%E4%B8%9C%E6%96%B9%E4%B8%89%E6%9C%88%E7%B2%BEE001.jpg/166px-%E4%B8%9C%E6%96%B9%E4%B8%89%E6%9C%88%E7%B2%BEE001.jpg 2x" data-file-width="1105" data-file-height="1600"> 单行本扉绘
+- <img alt="「博丽神社例大祭」传单" src="https://upload.thwiki.cc/thumb/8/88/%E4%B8%9C%E6%96%B9%E4%B8%89%E6%9C%88%E7%B2%BEE003.jpg/83px-%E4%B8%9C%E6%96%B9%E4%B8%89%E6%9C%88%E7%B2%BEE003.jpg" decoding="async" loading="lazy" width="83" height="120" srcset="https://upload.thwiki.cc/thumb/8/88/%E4%B8%9C%E6%96%B9%E4%B8%89%E6%9C%88%E7%B2%BEE003.jpg/124px-%E4%B8%9C%E6%96%B9%E4%B8%89%E6%9C%88%E7%B2%BEE003.jpg 1.5x, https://upload.thwiki.cc/thumb/8/88/%E4%B8%9C%E6%96%B9%E4%B8%89%E6%9C%88%E7%B2%BEE003.jpg/166px-%E4%B8%9C%E6%96%B9%E4%B8%89%E6%9C%88%E7%B2%BEE003.jpg 2x" data-file-width="1105" data-file-height="1600"> 「博丽神社例大祭」传单
+- <img alt="「博丽神社例大祭」POP" src="https://upload.thwiki.cc/thumb/4/45/%E4%B8%9C%E6%96%B9%E4%B8%89%E6%9C%88%E7%B2%BEE004.jpg/83px-%E4%B8%9C%E6%96%B9%E4%B8%89%E6%9C%88%E7%B2%BEE004.jpg" decoding="async" loading="lazy" width="83" height="120" srcset="https://upload.thwiki.cc/thumb/4/45/%E4%B8%9C%E6%96%B9%E4%B8%89%E6%9C%88%E7%B2%BEE004.jpg/124px-%E4%B8%9C%E6%96%B9%E4%B8%89%E6%9C%88%E7%B2%BEE004.jpg 1.5x, https://upload.thwiki.cc/thumb/4/45/%E4%B8%9C%E6%96%B9%E4%B8%89%E6%9C%88%E7%B2%BEE004.jpg/166px-%E4%B8%9C%E6%96%B9%E4%B8%89%E6%9C%88%E7%B2%BEE004.jpg 2x" data-file-width="1105" data-file-height="1600"> 「博丽神社例大祭」POP
+- <img alt="Comp Ace Vol.2 扉绘" src="https://upload.thwiki.cc/thumb/6/68/%E4%B8%9C%E6%96%B9%E4%B8%89%E6%9C%88%E7%B2%BEE005.jpg/83px-%E4%B8%9C%E6%96%B9%E4%B8%89%E6%9C%88%E7%B2%BEE005.jpg" decoding="async" loading="lazy" width="83" height="120" srcset="https://upload.thwiki.cc/thumb/6/68/%E4%B8%9C%E6%96%B9%E4%B8%89%E6%9C%88%E7%B2%BEE005.jpg/124px-%E4%B8%9C%E6%96%B9%E4%B8%89%E6%9C%88%E7%B2%BEE005.jpg 1.5x, https://upload.thwiki.cc/thumb/6/68/%E4%B8%9C%E6%96%B9%E4%B8%89%E6%9C%88%E7%B2%BEE005.jpg/166px-%E4%B8%9C%E6%96%B9%E4%B8%89%E6%9C%88%E7%B2%BEE005.jpg 2x" data-file-width="1105" data-file-height="1600"> Comp Ace Vol.2 扉绘
+- <img alt="Comp Ace Vol.3 扉绘" src="https://upload.thwiki.cc/thumb/d/d9/%E4%B8%9C%E6%96%B9%E4%B8%89%E6%9C%88%E7%B2%BEE006.jpg/83px-%E4%B8%9C%E6%96%B9%E4%B8%89%E6%9C%88%E7%B2%BEE006.jpg" decoding="async" loading="lazy" width="83" height="120" srcset="https://upload.thwiki.cc/thumb/d/d9/%E4%B8%9C%E6%96%B9%E4%B8%89%E6%9C%88%E7%B2%BEE006.jpg/124px-%E4%B8%9C%E6%96%B9%E4%B8%89%E6%9C%88%E7%B2%BEE006.jpg 1.5x, https://upload.thwiki.cc/thumb/d/d9/%E4%B8%9C%E6%96%B9%E4%B8%89%E6%9C%88%E7%B2%BEE006.jpg/166px-%E4%B8%9C%E6%96%B9%E4%B8%89%E6%9C%88%E7%B2%BEE006.jpg 2x" data-file-width="1105" data-file-height="1600"> Comp Ace Vol.3 扉绘
 
 
 ---

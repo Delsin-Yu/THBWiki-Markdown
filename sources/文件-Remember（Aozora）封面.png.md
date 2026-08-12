@@ -1,6 +1,6 @@
 # 文件:Remember（Aozora）封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dd\ns6%3ARemember%EF%BC%88Aozora%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dd\ns6%3ARemember%EF%BC%88Aozora%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Aozora | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Aozora | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Remember（Aozora）](./Remember（Aozora）.md)  
-该封面包含的角色：- [东风谷早苗](./东风谷早苗.md)
-
-
-
+- [Remember（Aozora）](./Remember（Aozora）.md)该封面包含的角色：
+- [东风谷早苗](./东风谷早苗.md)
 
 
 ---

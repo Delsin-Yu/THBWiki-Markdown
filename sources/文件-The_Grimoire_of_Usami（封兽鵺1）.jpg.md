@@ -1,14 +1,11 @@
 # 文件:The_Grimoire_of_Usami（封兽鵺1）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4c\ns6%3AThe_Grimoire_of_Usami%EF%BC%88%E5%B0%81%E5%85%BD%E9%B5%BA1%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4c\ns6%3AThe_Grimoire_of_Usami%EF%BC%88%E5%B0%81%E5%85%BD%E9%B5%BA1%EF%BC%89%2Ejpg.html -->
 
 宇佐见的魔法书 | 封兽鵺
 
 
 ## 摘要
-
-
-
 
 ---
 

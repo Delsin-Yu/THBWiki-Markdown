@@ -1,6 +1,6 @@
 # 文件:读心示踪法_~_Perspective_Tracer封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4f\ns6%3A%E8%AF%BB%E5%BF%83%E7%A4%BA%E8%B8%AA%E6%B3%95_%7E_Perspective_Tracer%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4f\ns6%3A%E8%AF%BB%E5%BF%83%E7%A4%BA%E8%B8%AA%E6%B3%95_%7E_Perspective_Tracer%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 第零研究院
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [读心示踪法 ~ Perspective Tracer](./读心示踪法_~_Perspective_Tracer.md)  
-该封面包含的角色：- [古明地觉](./古明地觉.md)- [古明地恋](./古明地恋.md)
-
-
-
+- [读心示踪法 ~ Perspective Tracer](./读心示踪法_~_Perspective_Tracer.md)该封面包含的角色：
+- [古明地觉](./古明地觉.md)
+- [古明地恋](./古明地恋.md)
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:高丽野阿吽（兽王园立绘）swl.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\53\ns6%3A%E9%AB%98%E4%B8%BD%E9%87%8E%E9%98%BF%E5%90%BD%EF%BC%88%E5%85%BD%E7%8E%8B%E5%9B%AD%E7%AB%8B%E7%BB%98%EF%BC%89swl%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\53\ns6%3A%E9%AB%98%E4%B8%BD%E9%87%8E%E9%98%BF%E5%90%BD%EF%BC%88%E5%85%BD%E7%8E%8B%E5%9B%AD%E7%AB%8B%E7%BB%98%EF%BC%89swl%2Epng.html -->
 
 ZUN绘 | 东方兽王园 | 官方游戏立绘 | 高丽野阿吽
-
-
-
-
 
 
 ---

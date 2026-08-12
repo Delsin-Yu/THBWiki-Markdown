@@ -1,6 +1,6 @@
 # 文件:Glacial_Inferno封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a3\ns6%3AGlacial_Inferno%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a3\ns6%3AGlacial_Inferno%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Ariflare | 专辑封面 | 封面图片
 
@@ -11,12 +11,7 @@ Ariflare | 专辑封面 | 封面图片
 - [Glacial Inferno](./Glacial_Inferno.md)
 
   
-源地址：[[1]](https://f4.bcbits.com/img/a1626688742_10.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://f4.bcbits.com/img/a1626688742_10.jpg)  
 
 ---
 

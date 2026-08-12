@@ -1,6 +1,6 @@
 # 文件:一意専心_-ICHII_SENSHIN-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5a\ns6%3A%E4%B8%80%E6%84%8F%E5%B0%82%E5%BF%83_-ICHII_SENSHIN-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5a\ns6%3A%E4%B8%80%E6%84%8F%E5%B0%82%E5%BF%83_-ICHII_SENSHIN-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 舞音KAGURA
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [一意専心 -ICHII SENSHIN-](./一意専心_-ICHII_SENSHIN-.md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)
-
-
-
+- [一意専心 -ICHII SENSHIN-](./一意専心_-ICHII_SENSHIN-.md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:唯心主义idealismbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2b\ns6%3A%E5%94%AF%E5%BF%83%E4%B8%BB%E4%B9%89idealismbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2b\ns6%3A%E5%94%AF%E5%BF%83%E4%B8%BB%E4%B9%89idealismbanner%2Ejpg.html -->
 
 唯心主义idealism | 社团LOGO
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Beyond_The_Infinite封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\14\ns6%3ABeyond_The_Infinite%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\14\ns6%3ABeyond_The_Infinite%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Sound∞Infinity | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Sound∞Infinity | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Beyond The Infinite](./Beyond_The_Infinite.md)  
-该封面包含的角色：- [比那名居天子](./比那名居天子.md)
-
-
-
+- [Beyond The Infinite](./Beyond_The_Infinite.md)该封面包含的角色：
+- [比那名居天子](./比那名居天子.md)
 
 
 ---

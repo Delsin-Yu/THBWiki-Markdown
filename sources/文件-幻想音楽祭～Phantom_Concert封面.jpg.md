@@ -1,6 +1,6 @@
 # 文件:幻想音楽祭～Phantom_Concert封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e5\ns6%3A%E5%B9%BB%E6%83%B3%E9%9F%B3%E6%A5%BD%E7%A5%AD%EF%BD%9EPhantom_Concert%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e5\ns6%3A%E5%B9%BB%E6%83%B3%E9%9F%B3%E6%A5%BD%E7%A5%AD%EF%BD%9EPhantom_Concert%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 耳コピスレッド
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [幻想音楽祭～Phantom Concert](./幻想音楽祭～Phantom_Concert.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [幻想音楽祭～Phantom Concert](./幻想音楽祭～Phantom_Concert.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

@@ -1,14 +1,11 @@
 # 文件:安全地帯banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\27\ns6%3A%E5%AE%89%E5%85%A8%E5%9C%B0%E5%B8%AFbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\27\ns6%3A%E5%AE%89%E5%85%A8%E5%9C%B0%E5%B8%AFbanner%2Epng.html -->
 
 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

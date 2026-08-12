@@ -1,16 +1,12 @@
 # 模板:CHF
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\b\b0\ns10%3ACHF.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\b\b0\ns10%3ACHF.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

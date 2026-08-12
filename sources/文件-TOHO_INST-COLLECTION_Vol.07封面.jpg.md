@@ -1,6 +1,6 @@
 # 文件:TOHO_INST-COLLECTION_Vol.07封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3e\ns6%3ATOHO_INST-COLLECTION_Vol%2E07%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3e\ns6%3ATOHO_INST-COLLECTION_Vol%2E07%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Crazy_Beats | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Crazy_Beats | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [TOHO INST-COLLECTION Vol.07](./TOHO_INST-COLLECTION_Vol.07.md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)
-
-
-
+- [TOHO INST-COLLECTION Vol.07](./TOHO_INST-COLLECTION_Vol.07.md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
 
 
 ---

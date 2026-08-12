@@ -1,6 +1,6 @@
 # 文件:東方おまけCDの壱封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\78\ns6%3A%E6%9D%B1%E6%96%B9%E3%81%8A%E3%81%BE%E3%81%91CD%E3%81%AE%E5%A3%B1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\78\ns6%3A%E6%9D%B1%E6%96%B9%E3%81%8A%E3%81%BE%E3%81%91CD%E3%81%AE%E5%A3%B1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 华绢花 | 封面图片
 
@@ -9,9 +9,6 @@
   
 
 - [東方おまけCDの壱](./東方おまけCDの壱.md)
-
-
-
 
 
 ---

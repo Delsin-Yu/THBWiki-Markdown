@@ -1,14 +1,11 @@
 # 文件:森家banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b1\ns6%3A%E6%A3%AE%E5%AE%B6banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b1\ns6%3A%E6%A3%AE%E5%AE%B6banner%2Egif.html -->
 
 森家 | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

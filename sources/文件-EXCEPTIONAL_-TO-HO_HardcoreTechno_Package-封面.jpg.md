@@ -1,6 +1,6 @@
 # 文件:EXCEPTIONAL_-TO-HO_HardcoreTechno_Package-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f6\ns6%3AEXCEPTIONAL_-TO-HO_HardcoreTechno_Package-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f6\ns6%3AEXCEPTIONAL_-TO-HO_HardcoreTechno_Package-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 dat_file_records | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ dat_file_records | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [EXCEPTIONAL -TO-HO HardcoreTechno Package-](./EXCEPTIONAL_-TO-HO_HardcoreTechno_Package-.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [EXCEPTIONAL -TO-HO HardcoreTechno Package-](./EXCEPTIONAL_-TO-HO_HardcoreTechno_Package-.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

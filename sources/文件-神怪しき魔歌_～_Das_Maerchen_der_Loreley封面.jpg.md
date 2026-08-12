@@ -1,6 +1,6 @@
 # 文件:神怪しき魔歌_～_Das_Maerchen_der_Loreley封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\82\ns6%3A%E7%A5%9E%E6%80%AA%E3%81%97%E3%81%8D%E9%AD%94%E6%AD%8C_%EF%BD%9E_Das_Maerchen_der_Loreley%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\82\ns6%3A%E7%A5%9E%E6%80%AA%E3%81%97%E3%81%8D%E9%AD%94%E6%AD%8C_%EF%BD%9E_Das_Maerchen_der_Loreley%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 青雲アステロイド
 
@@ -8,11 +8,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [神怪しき魔歌 ～ Das Maerchen der Loreley](./神怪しき魔歌_～_Das_Maerchen_der_Loreley.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)- [米斯蒂娅·萝蕾拉](./米斯蒂娅·萝蕾拉.md)
-
-
-
+- [神怪しき魔歌 ～ Das Maerchen der Loreley](./神怪しき魔歌_～_Das_Maerchen_der_Loreley.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
+- [米斯蒂娅·萝蕾拉](./米斯蒂娅·萝蕾拉.md)
 
 
 ---

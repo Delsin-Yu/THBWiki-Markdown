@@ -1,6 +1,6 @@
 # 文件:東方音伽盤_This_CD_Is_11／11_Only_Version封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3a\ns6%3A%E6%9D%B1%E6%96%B9%E9%9F%B3%E4%BC%BD%E7%9B%A4_This_CD_Is_11%EF%BC%8F11_Only_Version%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3a\ns6%3A%E6%9D%B1%E6%96%B9%E9%9F%B3%E4%BC%BD%E7%9B%A4_This_CD_Is_11%EF%BC%8F11_Only_Version%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Black_Label_Records | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ Black_Label_Records | 专辑封面 | 封面图片
   
 
 - [東方音伽盤 This CD Is 11／11 Only Version](./東方音伽盤_This_CD_Is_11／11_Only_Version.md)
-
-
-
 
 
 ---

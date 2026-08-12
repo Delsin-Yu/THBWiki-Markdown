@@ -1,12 +1,8 @@
 # 文件:THD2冰精完美钻石.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\12\ns6%3ATHD2%E5%86%B0%E7%B2%BE%E5%AE%8C%E7%BE%8E%E9%92%BB%E7%9F%B3%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\12\ns6%3ATHD2%E5%86%B0%E7%B2%BE%E5%AE%8C%E7%BE%8E%E9%92%BB%E7%9F%B3%2Epng.html -->
 
 AvalonStudioOfficial
-
-
-
-
 
 
 ---

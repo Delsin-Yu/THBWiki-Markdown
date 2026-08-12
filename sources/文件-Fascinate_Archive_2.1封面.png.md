@@ -1,6 +1,6 @@
 # 文件:Fascinate_Archive_2.1封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\84\ns6%3AFascinate_Archive_2%2E1%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\84\ns6%3AFascinate_Archive_2%2E1%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 夢想茶館 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Fascinate Archive 2.1](./Fascinate_Archive_2.1.md)  
-该封面包含的角色：- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [Fascinate Archive 2.1](./Fascinate_Archive_2.1.md)该封面包含的角色：
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

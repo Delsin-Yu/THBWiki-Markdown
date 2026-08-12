@@ -1,6 +1,6 @@
 # 文件:TOHO_紅_EURO_VOL.1封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\35\ns6%3ATOHO_%E7%B4%85_EURO_VOL%2E1%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\35\ns6%3ATOHO_%E7%B4%85_EURO_VOL%2E1%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 RELI | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ RELI | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [TOHO 紅 EURO VOL.1](./TOHO_紅_EURO_VOL.1.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
-
-
-
+- [TOHO 紅 EURO VOL.1](./TOHO_紅_EURO_VOL.1.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
 
 ---

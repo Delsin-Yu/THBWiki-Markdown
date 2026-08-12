@@ -1,6 +1,6 @@
 # 文件:THE_DUST_OF_SOCIETY_2nd_DEMO封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\29\ns6%3ATHE_DUST_OF_SOCIETY_2nd_DEMO%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\29\ns6%3ATHE_DUST_OF_SOCIETY_2nd_DEMO%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 The_Dust_of_Society | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ The_Dust_of_Society | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [THE DUST OF SOCIETY 2nd DEMO](./THE_DUST_OF_SOCIETY_2nd_DEMO.md)  
-该封面包含的角色：- [键山雏](./键山雏.md)
-
-
-
+- [THE DUST OF SOCIETY 2nd DEMO](./THE_DUST_OF_SOCIETY_2nd_DEMO.md)该封面包含的角色：
+- [键山雏](./键山雏.md)
 
 
 ---

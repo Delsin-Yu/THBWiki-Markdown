@@ -1,6 +1,6 @@
 # 文件:Night_Gypsy_-_東方JAZZROCK_-封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d4\ns6%3ANight_Gypsy_-_%E6%9D%B1%E6%96%B9JAZZROCK_-%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d4\ns6%3ANight_Gypsy_-_%E6%9D%B1%E6%96%B9JAZZROCK_-%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 IOSYS | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ IOSYS | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Night Gypsy - 東方JAZZROCK -](./Night_Gypsy_-_東方JAZZROCK_-.md)  
-该封面包含的角色：- [西行寺幽幽子](./西行寺幽幽子.md)
-
-
-
+- [Night Gypsy - 東方JAZZROCK -](./Night_Gypsy_-_東方JAZZROCK_-.md)该封面包含的角色：
+- [西行寺幽幽子](./西行寺幽幽子.md)
 
 
 ---

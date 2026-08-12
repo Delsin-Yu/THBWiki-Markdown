@@ -1,6 +1,6 @@
 # 文件:H.J.Freaksの神妙旅楽団_Vol.1封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e9\ns6%3AH%2EJ%2EFreaks%E3%81%AE%E7%A5%9E%E5%A6%99%E6%97%85%E6%A5%BD%E5%9B%A3_Vol%2E1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e9\ns6%3AH%2EJ%2EFreaks%E3%81%AE%E7%A5%9E%E5%A6%99%E6%97%85%E6%A5%BD%E5%9B%A3_Vol%2E1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 H.J.Freaks | 专辑封面 | 封面图片
 
@@ -8,16 +8,14 @@ H.J.Freaks | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [H.J.Freaksの神妙旅楽団 Vol.1](./H.J.Freaksの神妙旅楽団_Vol.1.md)  
-该封面包含的角色：- [小恶魔](./小恶魔.md)- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)- 十六夜咲夜 (未找到链接)- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [H.J.Freaksの神妙旅楽団 Vol.1](./H.J.Freaksの神妙旅楽団_Vol.1.md)该封面包含的角色：
+- [小恶魔](./小恶魔.md)
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
+- [十六夜咲夜](./十六夜咲夜.md)
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
   
-源地址：[[1]](https://f4.bcbits.com/img/a0563613498_10.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://f4.bcbits.com/img/a0563613498_10.jpg)  
 
 ---
 

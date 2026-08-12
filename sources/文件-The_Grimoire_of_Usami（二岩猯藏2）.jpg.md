@@ -1,14 +1,11 @@
 # 文件:The_Grimoire_of_Usami（二岩猯藏2）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0d\ns6%3AThe_Grimoire_of_Usami%EF%BC%88%E4%BA%8C%E5%B2%A9%E7%8C%AF%E8%97%8F2%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0d\ns6%3AThe_Grimoire_of_Usami%EF%BC%88%E4%BA%8C%E5%B2%A9%E7%8C%AF%E8%97%8F2%EF%BC%89%2Ejpg.html -->
 
 二岩猯藏 | 宇佐见的魔法书
 
 
 ## 摘要
-
-
-
 
 ---
 

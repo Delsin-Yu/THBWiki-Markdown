@@ -1,12 +1,8 @@
 # 文件:XP社banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\45\ns6%3AXP%E7%A4%BEbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\45\ns6%3AXP%E7%A4%BEbanner%2Ejpg.html -->
 
 XP社 | 社团LOGO
-
-
-
-
 
 
 ---

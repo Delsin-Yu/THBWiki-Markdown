@@ -1,6 +1,6 @@
 # 文件:TWILIGHT（同人志）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e3\ns6%3ATWILIGHT%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e3\ns6%3ATWILIGHT%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Brisa_Marina | 同人志封面 | 封面图片
 
@@ -10,11 +10,19 @@ Brisa_Marina | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [TWILIGHT（同人志）](./TWILIGHT（同人志）.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)- [红美铃](./红美铃.md)- [永江衣玖](./永江衣玖.md)- [比那名居天子](./比那名居天子.md)- [伊吹萃香](./伊吹萃香.md)- [东风谷早苗](./东风谷早苗.md)- [洩矢诹访子](./洩矢诹访子.md)- [丰聪耳神子](./丰聪耳神子.md)- [雾雨魔理沙](./雾雨魔理沙.md)- [茨木华扇](./茨木华扇.md)- [秦心](./秦心.md)- [非想天则](./非想天则.md)
-
-
-
+- [TWILIGHT（同人志）](./TWILIGHT（同人志）.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
+- [红美铃](./红美铃.md)
+- [永江衣玖](./永江衣玖.md)
+- [比那名居天子](./比那名居天子.md)
+- [伊吹萃香](./伊吹萃香.md)
+- [东风谷早苗](./东风谷早苗.md)
+- [洩矢诹访子](./洩矢诹访子.md)
+- [丰聪耳神子](./丰聪耳神子.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
+- [茨木华扇](./茨木华扇.md)
+- [秦心](./秦心.md)
+- [非想天则](./非想天则.md)
 
 
 ---

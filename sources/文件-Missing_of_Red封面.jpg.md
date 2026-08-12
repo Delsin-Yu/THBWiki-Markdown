@@ -1,6 +1,6 @@
 # 文件:Missing_of_Red封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7a\ns6%3AMissing_of_Red%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7a\ns6%3AMissing_of_Red%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Faintly_Citrus | 同人志封面 | 封面图片
 
@@ -8,11 +8,9 @@ Faintly_Citrus | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Missing of Red](./Missing_of_Red.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
-
-
-
+- [Missing of Red](./Missing_of_Red.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
 
 ---

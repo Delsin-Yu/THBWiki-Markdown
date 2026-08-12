@@ -1,6 +1,6 @@
 # 文件:-ReminiscencE_of_Fantasia-封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f9\ns6%3A-ReminiscencE_of_Fantasia-%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f9\ns6%3A-ReminiscencE_of_Fantasia-%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 StarGazer_C+ | 专辑封面 | 封面图片
 
@@ -8,11 +8,10 @@ StarGazer_C+ | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [-ReminiscencE of Fantasia-](./-ReminiscencE_of_Fantasia-.md)  
-该封面包含的角色：- [圣白莲](./圣白莲.md)- [丰聪耳神子](./丰聪耳神子.md)- [秦心](./秦心.md)
-
-
-
+- [-ReminiscencE of Fantasia-](./-ReminiscencE_of_Fantasia-.md)该封面包含的角色：
+- [圣白莲](./圣白莲.md)
+- [丰聪耳神子](./丰聪耳神子.md)
+- [秦心](./秦心.md)
 
 
 ---

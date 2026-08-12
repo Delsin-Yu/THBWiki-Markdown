@@ -1,6 +1,6 @@
 # 文件:Circle（やまねこ.NET）封面.PNG
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e6\ns6%3ACircle%EF%BC%88%E3%82%84%E3%81%BE%E3%81%AD%E3%81%93%2ENET%EF%BC%89%E5%B0%81%E9%9D%A2%2EPNG.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e6\ns6%3ACircle%EF%BC%88%E3%82%84%E3%81%BE%E3%81%AD%E3%81%93%2ENET%EF%BC%89%E5%B0%81%E9%9D%A2%2EPNG.html -->
 
 やまねこ.NET | 专辑封面 | 封面图片
 
@@ -8,11 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Circle（やまねこ.NET）](./Circle（やまねこ.NET）.md)  
-该封面包含的角色：- [古明地觉](./古明地觉.md)- [火焰猫燐](./火焰猫燐.md)- [灵乌路空](./灵乌路空.md)- [古明地恋](./古明地恋.md)
-
-
-
+- [Circle（やまねこ.NET）](./Circle（やまねこ.NET）.md)该封面包含的角色：
+- [古明地觉](./古明地觉.md)
+- [火焰猫燐](./火焰猫燐.md)
+- [灵乌路空](./灵乌路空.md)
+- [古明地恋](./古明地恋.md)
 
 
 ---

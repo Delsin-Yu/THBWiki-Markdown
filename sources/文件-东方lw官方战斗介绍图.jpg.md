@@ -1,16 +1,12 @@
 # 文件:东方lw官方战斗介绍图.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\45\ns6%3A%E4%B8%9C%E6%96%B9lw%E5%AE%98%E6%96%B9%E6%88%98%E6%96%97%E4%BB%8B%E7%BB%8D%E5%9B%BE%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\45\ns6%3A%E4%B8%9C%E6%96%B9lw%E5%AE%98%E6%96%B9%E6%88%98%E6%96%97%E4%BB%8B%E7%BB%8D%E5%9B%BE%2Ejpg.html -->
 
 Good_Smile_Company | NextNinja | 东方LostWord | 授权商业二次创作手机游戏
 
   
 战斗方面介绍
   
-
-
-
-
 
 ---
 

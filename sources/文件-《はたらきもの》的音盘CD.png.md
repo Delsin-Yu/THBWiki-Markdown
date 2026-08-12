@@ -1,12 +1,8 @@
 # 文件:《はたらきもの》的音盘CD.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7e\ns6%3A%E3%80%8A%E3%81%AF%E3%81%9F%E3%82%89%E3%81%8D%E3%82%82%E3%81%AE%E3%80%8B%E7%9A%84%E9%9F%B3%E7%9B%98CD%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7e\ns6%3A%E3%80%8A%E3%81%AF%E3%81%9F%E3%82%89%E3%81%8D%E3%82%82%E3%81%AE%E3%80%8B%E7%9A%84%E9%9F%B3%E7%9B%98CD%2Epng.html -->
 
 爱莲
-
-
-
-
 
 
 ---

@@ -1,13 +1,11 @@
 # DHS_Mystery_EP
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\d\d4\ns0%3ADHS_Mystery_EP.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\d\d4\ns0%3ADHS_Mystery_EP.html -->
 
 2013年5月26日 由 DHS 于 博丽神社例大祭10 发布的EP同人专辑，曲目主要风格是 Rock、金属，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人专辑 (未找到链接)** 的词条
-<center>
-
+**[二次创作同人专辑](./二次创作.md#同人音乐)**的词条<center>
 <table>
 <tbody><tr>
 <td class="mbox-image"><div style="width: 52px;">
@@ -16,34 +14,30 @@
 </tr>
 </tbody></table>
 
-
 </center>
-
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-DHS_Mystery_EP封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/6/68/DHS_Mystery_EP%E5%B0%81%E9%9D%A2.jpg/252px-DHS_Mystery_EP%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="252" height="252" srcset="https://upload.thwiki.cc/thumb/6/68/DHS_Mystery_EP%E5%B0%81%E9%9D%A2.jpg/378px-DHS_Mystery_EP%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/6/68/DHS_Mystery_EP%E5%B0%81%E9%9D%A2.jpg/504px-DHS_Mystery_EP%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1170" data-file-height="1170"></a></td>
 </tr><tr><td class="label">名称</td><td colspan="2"> DHS Mystery EP </td></tr><tr><td class="label">制作方</td><td><a href="./DHS.md" title="DHS">DHS</a></td><td class="cover-artwork" rowspan="9" style="min-width:252px;"><a href="./文件-DHS_Mystery_EP封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/6/68/DHS_Mystery_EP%E5%B0%81%E9%9D%A2.jpg/252px-DHS_Mystery_EP%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="252" height="252" srcset="https://upload.thwiki.cc/thumb/6/68/DHS_Mystery_EP%E5%B0%81%E9%9D%A2.jpg/378px-DHS_Mystery_EP%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/6/68/DHS_Mystery_EP%E5%B0%81%E9%9D%A2.jpg/504px-DHS_Mystery_EP%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1170" data-file-height="1170"></a></td>
-</tr><tr><td class="label">首发日期</td><td>2013-05-26&#160;（<a href="/展会作品列表?e=%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD%2310">第十回 博麗神社例大祭</a>）</td></tr><tr><td class="label">类型</td><td>EP</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>3</td></tr><tr><td class="label">总时长</td><td>14:22</td></tr><tr><td class="label">风格类型</td><td>Rock，金属</td></tr><tr><td class="label">售价</td><td>会场售价：300日元</td></tr>
+</tr><tr><td class="label">首发日期</td><td>2013-05-26 （<a href="./展会作品列表.md#10">第十回 博麗神社例大祭</a>）</td></tr><tr><td class="label">类型</td><td>EP</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>3</td></tr><tr><td class="label">总时长</td><td>14:22</td></tr><tr><td class="label">风格类型</td><td>Rock，金属</td></tr><tr><td class="label">售价</td><td>会场售价：300日元</td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/DHS_kyotoband/status/338209908279357440">https://twitter.com/DHS_kyotoband/status/338209908279357440</a><br><a rel="nofollow" class="external free" href="https://twitter.com/DHS_kyotoband/status/338210474934018048">https://twitter.com/DHS_kyotoband/status/338210474934018048</a><br><a rel="nofollow" class="external free" href="http://dhstohomystery.tumblr.com/">http://dhstohomystery.tumblr.com/</a><br><span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span><small>（无缓存页面）</small></td></tr></tbody></table>
 
 DHS Mystery EP（同人专辑，DHS，2013） - 2013年5月26日 由 DHS 于 博丽神社例大祭10 发布的EP同人专辑，曲目主要风格是 Rock、金属，分级为 一般向
-
 ## Staff
   
- **Compose**   
+**Compose**  
 
 <table><tbody><tr><td><a href="./DHS.md" title="DHS">DHS</a></td><td></td><td>Tr.1</td></tr></tbody></table>
 
   
- **Arrangement**   
+**Arrangement**  
 
 <table><tbody><tr><td><a href="./DHS.md" title="DHS">DHS</a></td><td></td><td>Tr.2/3</td></tr></tbody></table>
 
   
- **Vocal**   
+**Vocal**  
 
-<table><tbody><tr><td><a href="./kei（DHS）.md" class="mw-redirect" title="kei（DHS）">kei（DHS）</a></td><td><a href="./DHS.md" title="DHS">DHS</a></td><td>Tr.1-3</td></tr></tbody></table>
-
+<table><tbody><tr><td><a href="./kei（HEARTPLACE）.md" class="mw-redirect" title="kei（DHS）">kei（DHS）</a></td><td><a href="./DHS.md" title="DHS">DHS</a></td><td>Tr.1-3</td></tr></tbody></table>
 
 Guitar
 : Batta ([DHS](./DHS.md))
@@ -58,26 +52,16 @@ Key
 Tech
 : おにぎりメロンパン ([DHS](./DHS.md))
 
-
 ## 试听
-  
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/93374432&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=false"></iframe>
-
-  
-
 
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoRL"><b>01</b></td><td id="Mystery" colspan="2" class="title">Mystery<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=DHS&amp;vocal=kei（DHS）&amp;fromwiki=DHS_Mystery_EP"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:18</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./DHS.md" title="DHS">DHS</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，DHS，&amp;fromwiki=DHS_Mystery_EP"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="./kei（DHS）.md" class="mw-redirect" title="kei（DHS）">kei（DHS）</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=kei（DHS）&amp;fromwiki=DHS_Mystery_EP"><span></span></a></span></td></tr>
-<tr><td id="2" class="infoRD"><b>02</b></td><td id="Rise_And_Fall" colspan="2" class="title"><span class="new" title="（歌词页面不存在）"><a href="/index.php?title=%E6%AD%8C%E8%AF%8D:Rise_And_Fall&amp;boilerplate=模板:页面模板/曲目歌词&amp;action=edit">Rise And Fall</a></span><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=DHS&amp;vocal=kei（DHS）&amp;ogmusic=月時計　～ ルナ・ダイアル&amp;fromwiki=DHS_Mystery_EP"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:47</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./DHS.md" title="DHS">DHS</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，DHS，&amp;fromwiki=DHS_Mystery_EP"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="./kei（DHS）.md" class="mw-redirect" title="kei（DHS）">kei（DHS）</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=kei（DHS）&amp;fromwiki=DHS_Mystery_EP"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=月時計　～ ルナ・ダイアル&amp;fromwiki=DHS_Mystery_EP"><span></span></a></span><div class="ogmusic"><a href="./月時計_～_ルナ・ダイアル.md" class="mw-redirect" title="月時計 ～ ルナ・ダイアル">月時計　～ ルナ・ダイアル</a></div><div class="source"><a href="./东方红魔乡_～_the_Embodiment_of_Scarlet_Devil..md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr>
-<tr><td id="3" class="infoRD"><b>03</b></td><td id="Grace_of_Gray" colspan="2" class="title"><span class="new" title="（歌词页面不存在）"><a href="/index.php?title=%E6%AD%8C%E8%AF%8D:Grace_of_Gray&amp;boilerplate=模板:页面模板/曲目歌词&amp;action=edit">Grace of Gray</a></span><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=DHS&amp;vocal=kei（DHS）&amp;ogmusic=エクステンドアッシュ　～ 蓬莱人&amp;fromwiki=DHS_Mystery_EP"><span title="搜索相似同人曲"></span></a></span></td><td class="time">06:17</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./DHS.md" title="DHS">DHS</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，DHS，&amp;fromwiki=DHS_Mystery_EP"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="./kei（DHS）.md" class="mw-redirect" title="kei（DHS）">kei（DHS）</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=kei（DHS）&amp;fromwiki=DHS_Mystery_EP"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=エクステンドアッシュ　～ 蓬莱人&amp;fromwiki=DHS_Mystery_EP"><span></span></a></span><div class="ogmusic"><a href="./エクステンドアッシュ_～_蓬莱人.md" class="mw-redirect" title="エクステンドアッシュ ～ 蓬莱人">エクステンドアッシュ　～ 蓬莱人</a></div><div class="source"><a href="./东方永夜抄_～_Imperishable_Night..md" class="mw-redirect" title="东方永夜抄 ～ Imperishable Night.">东方永夜抄　～ Imperishable Night.</a></div></td></tr></tbody></table>
-
+<table><tbody><tr><td id="1" class="infoRL"><b>01</b></td><td id="Mystery" colspan="2" class="title">Mystery</td><td class="time">04:18</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./DHS.md" title="DHS">DHS</a></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="./kei（HEARTPLACE）.md" class="mw-redirect" title="kei（DHS）">kei（DHS）</a></td></tr>
+<tr><td id="2" class="infoRD"><b>02</b></td><td id="Rise_And_Fall" colspan="2" class="title"><span class="new" title="（歌词页面不存在）"><a>Rise And Fall</a></span></td><td class="time">03:47</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./DHS.md" title="DHS">DHS</a></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="./kei（HEARTPLACE）.md" class="mw-redirect" title="kei（DHS）">kei（DHS）</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./月时计_～_Luna_Dial.md" class="mw-redirect" title="月時計 ～ ルナ・ダイアル">月時計　～ ルナ・ダイアル</a></div><div class="source"><a href="./东方红魔乡.md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr>
+<tr><td id="3" class="infoRD"><b>03</b></td><td id="Grace_of_Gray" colspan="2" class="title"><span class="new" title="（歌词页面不存在）"><a>Grace of Gray</a></span></td><td class="time">06:17</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./DHS.md" title="DHS">DHS</a></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="./kei（HEARTPLACE）.md" class="mw-redirect" title="kei（DHS）">kei（DHS）</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./Extend_Ash_～_蓬莱人.md" class="mw-redirect" title="エクステンドアッシュ ～ 蓬莱人">エクステンドアッシュ　～ 蓬莱人</a></div><div class="source"><a href="./东方永夜抄.md" class="mw-redirect" title="东方永夜抄 ～ Imperishable Night.">东方永夜抄　～ Imperishable Night.</a></div></td></tr></tbody></table>
 
 
 ## 评论
-
-
-
 
 ---
 

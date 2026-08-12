@@ -1,6 +1,6 @@
 # 文件:C87会場限定オマケCD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\77\ns6%3AC87%E4%BC%9A%E5%A0%B4%E9%99%90%E5%AE%9A%E3%82%AA%E3%83%9E%E3%82%B1CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\77\ns6%3AC87%E4%BC%9A%E5%A0%B4%E9%99%90%E5%AE%9A%E3%82%AA%E3%83%9E%E3%82%B1CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 M.H.S | セブンスヘブンMAXION | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ M.H.S | セブンスヘブンMAXION | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [C87会場限定オマケCD](./C87会場限定オマケCD.md)  
-该封面包含的角色：- [八云紫](./八云紫.md)
-
-
-
+- [C87会場限定オマケCD](./C87会場限定オマケCD.md)该封面包含的角色：
+- [八云紫](./八云紫.md)
 
 
 ---

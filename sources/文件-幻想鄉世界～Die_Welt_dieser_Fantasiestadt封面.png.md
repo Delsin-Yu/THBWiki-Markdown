@@ -1,6 +1,6 @@
 # 文件:幻想鄉世界～Die_Welt_dieser_Fantasiestadt封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\15\ns6%3A%E5%B9%BB%E6%83%B3%E9%84%89%E4%B8%96%E7%95%8C%EF%BD%9EDie_Welt_dieser_Fantasiestadt%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\15\ns6%3A%E5%B9%BB%E6%83%B3%E9%84%89%E4%B8%96%E7%95%8C%EF%BD%9EDie_Welt_dieser_Fantasiestadt%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Scharlachrot_Kammermusik | 专辑封面 | 封面图片
 
@@ -8,11 +8,11 @@ Scharlachrot_Kammermusik | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [幻想鄉世界～Die Welt dieser Fantasiestadt](./幻想鄉世界～Die_Welt_dieser_Fantasiestadt.md)  
-该封面包含的角色：- [露娜萨·普莉兹姆利巴](./露娜萨·普莉兹姆利巴.md)- [梅露兰·普莉兹姆利巴](./梅露兰·普莉兹姆利巴.md)- [莉莉卡·普莉兹姆利巴](./莉莉卡·普莉兹姆利巴.md)- [堀川雷鼓](./堀川雷鼓.md)
-
-
-
+- [幻想鄉世界～Die Welt dieser Fantasiestadt](./幻想鄉世界～Die_Welt_dieser_Fantasiestadt.md)该封面包含的角色：
+- [露娜萨·普莉兹姆利巴](./露娜萨·普莉兹姆利巴.md)
+- [梅露兰·普莉兹姆利巴](./梅露兰·普莉兹姆利巴.md)
+- [莉莉卡·普莉兹姆利巴](./莉莉卡·普莉兹姆利巴.md)
+- [堀川雷鼓](./堀川雷鼓.md)
 
 
 ---

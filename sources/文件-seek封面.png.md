@@ -1,6 +1,6 @@
 # 文件:seek封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ea\ns6%3Aseek%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ea\ns6%3Aseek%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 StudioYKK | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ StudioYKK | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [seek](./seek.md)  
-该封面包含的角色：- [丰聪耳神子](./丰聪耳神子.md)
-
-
-
+- [seek](./seek.md)该封面包含的角色：
+- [丰聪耳神子](./丰聪耳神子.md)
 
 
 ---

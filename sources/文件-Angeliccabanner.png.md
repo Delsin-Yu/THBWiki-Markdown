@@ -1,12 +1,8 @@
 # 文件:Angeliccabanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\75\ns6%3AAngeliccabanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\75\ns6%3AAngeliccabanner%2Epng.html -->
 
 Angelicca | 社团LOGO
-
-
-
-
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:DNAS-MJST_17.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\be\ns6%3ADNAS-MJST_17%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\be\ns6%3ADNAS-MJST_17%2Emp3.html -->
 
 东方幻想麻将 | 原曲MP3 | 珍奇的上海古牌
-
-
-
-
 
 
 ---

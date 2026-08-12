@@ -1,6 +1,6 @@
 # 文件:c＊封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\29\ns6%3Ac%EF%BC%8A%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\29\ns6%3Ac%EF%BC%8A%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ゆめいろごろも | 同人志封面 | 封面图片
 
@@ -10,16 +10,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [c＊](./c＊.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [雾雨魔理沙](./雾雨魔理沙.md)
+- [c＊](./c＊.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-源地址：[direct image link](https://www.suruga-ya.jp/database/pics_light/game/zhore23951.jpg), [source page (suruga-ya ID: ZHORE23951)](https://www.suruga-ya.jp/product/detail/ZHORE23951)
-  
-
-
-
-
+源地址：[direct image link](https://www.suruga-ya.jp/database/pics_light/game/zhore23951.jpg), [source page (suruga-ya ID: ZHORE23951)](https://www.suruga-ya.jp/product/detail/ZHORE23951)  
 
 ---
 

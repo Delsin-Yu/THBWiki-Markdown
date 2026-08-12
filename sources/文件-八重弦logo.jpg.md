@@ -1,16 +1,11 @@
 # 文件:八重弦logo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3e\ns6%3A%E5%85%AB%E9%87%8D%E5%BC%A6logo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3e\ns6%3A%E5%85%AB%E9%87%8D%E5%BC%A6logo%2Ejpg.html -->
 
 社团LOGO
 
   
-源地址：[[1]](https://f4.bcbits.com/img/0013783483_10.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://f4.bcbits.com/img/0013783483_10.jpg)  
 
 ---
 

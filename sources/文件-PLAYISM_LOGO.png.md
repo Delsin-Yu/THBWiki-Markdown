@@ -1,14 +1,11 @@
 # 文件:PLAYISM_LOGO.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0e\ns6%3APLAYISM_LOGO%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0e\ns6%3APLAYISM_LOGO%2Epng.html -->
 
 企业LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

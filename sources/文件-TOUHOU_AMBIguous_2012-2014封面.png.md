@@ -1,6 +1,6 @@
 # 文件:TOUHOU_AMBIguous_2012-2014封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bd\ns6%3ATOUHOU_AMBIguous_2012-2014%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bd\ns6%3ATOUHOU_AMBIguous_2012-2014%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 ごんばこんなか | 专辑封面 | 封面图片
 
@@ -10,11 +10,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [TOUHOU AMBIguous 2012-2014](./TOUHOU_AMBIguous_2012-2014.md)  
-该封面包含的角色：- [八云紫](./八云紫.md)- [风见幽香](./风见幽香.md)- [多多良小伞](./多多良小伞.md)
-
-
-
+- [TOUHOU AMBIguous 2012-2014](./TOUHOU_AMBIguous_2012-2014.md)该封面包含的角色：
+- [八云紫](./八云紫.md)
+- [风见幽香](./风见幽香.md)
+- [多多良小伞](./多多良小伞.md)
 
 
 ---

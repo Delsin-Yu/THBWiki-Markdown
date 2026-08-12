@@ -1,6 +1,6 @@
 # 文件:MAGICAL_DAYS封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\95\ns6%3AMAGICAL_DAYS%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\95\ns6%3AMAGICAL_DAYS%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 またたびガーデン | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [MAGICAL DAYS](./MAGICAL_DAYS.md)  
-该封面包含的角色：- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
+- [MAGICAL DAYS](./MAGICAL_DAYS.md)该封面包含的角色：
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
 
   
-[Pixiv artwork ID: 68569272 (image 6/9; original size)](https://www.pixiv.net/artworks/68569272)
-  
-
-
-
-
+[Pixiv artwork ID: 68569272 (image 6/9; original size)](https://www.pixiv.net/artworks/68569272)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:Luce_naturale封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\73\ns6%3ALuce_naturale%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\73\ns6%3ALuce_naturale%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Drawers_Come_True | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@ Drawers_Come_True | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Luce naturale](./Luce_naturale.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)
+- [Luce naturale](./Luce_naturale.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
 
   
-源地址：[direct image link (original size)](https://booth.pximg.net/87f9fecf-3808-461c-a2a7-28658bdbcad1/i/1742758/d4498620-9c04-44ea-8f72-f3b0632e92c4.jpg), [source page (circle Booth)](https://nyuma.booth.pm/items/1742758)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://booth.pximg.net/87f9fecf-3808-461c-a2a7-28658bdbcad1/i/1742758/d4498620-9c04-44ea-8f72-f3b0632e92c4.jpg), [source page (circle Booth)](https://nyuma.booth.pm/items/1742758)  
 
 ---
 

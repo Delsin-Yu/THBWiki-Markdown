@@ -1,6 +1,6 @@
 # 文件:mythos_-紺-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8d\ns6%3Amythos_-%E7%B4%BA-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8d\ns6%3Amythos_-%E7%B4%BA-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 P-MANS | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@ P-MANS | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [mythos -紺-](./mythos_-紺-.md)  
-该封面包含的角色：- [纯狐](./纯狐.md)
-
-
-
+- [mythos -紺-](./mythos_-紺-.md)该封面包含的角色：
+- [纯狐](./纯狐.md)
 
 
 ---

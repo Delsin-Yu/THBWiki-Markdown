@@ -1,6 +1,6 @@
 # 文件:Innocent_Thirst_プレビュー版封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2f\ns6%3AInnocent_Thirst_%E3%83%97%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E7%89%88%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2f\ns6%3AInnocent_Thirst_%E3%83%97%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E7%89%88%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 布教我音
 
@@ -11,9 +11,6 @@
   
 
 - [Innocent Thirst プレビュー版](./Innocent_Thirst_プレビュー版.md)
-
-
-
 
 
 ---

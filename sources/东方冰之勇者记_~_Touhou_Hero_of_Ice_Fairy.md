@@ -1,21 +1,17 @@
 # 东方冰之勇者记_~_Touhou_Hero_of_Ice_Fairy
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\c\ce\ns0%3A%E4%B8%9C%E6%96%B9%E5%86%B0%E4%B9%8B%E5%8B%87%E8%80%85%E8%AE%B0_%7E_Touhou_Hero_of_Ice_Fairy.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\c\ce\ns0%3A%E4%B8%9C%E6%96%B9%E5%86%B0%E4%B9%8B%E5%8B%87%E8%80%85%E8%AE%B0_%7E_Touhou_Hero_of_Ice_Fairy.html -->
 
 2024年4月3日 由 GAMEPULSE 游戏脉冲  发布的ACT同人游戏，可在 Windows 系统上运行，游戏人数为 单人模式，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人软件 (未找到链接)** 的词条
-
+**[二次创作同人软件](./二次创作.md#同人软件)**的词条
 ## 目录
 
 - [1 软件信息](#软件信息)
 - [2 Staff](#Staff)
 - [3 内容页面](#内容页面)
 - [4 评论](#评论)
-
-
-
 
 
 ## 软件信息
@@ -26,9 +22,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.bilibili.com/space/1079825019">https://www.bilibili.com/space/1079825019</a></td></tr><tr><td class="label">备注</td><td colspan="2">于2023年2月25日发布正式版，2024年4月3日发布完整版。</td></tr></tbody></table>
 
 东方冰之勇者记 ~ Touhou Hero of Ice Fairy（同人游戏，GAMEPULSE 游戏脉冲，2024） - 2024年4月3日 由 GAMEPULSE 游戏脉冲  发布的ACT同人游戏，可在 Windows 系统上运行，游戏人数为 单人模式，分级为 一般向
-
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://store.steampowered.com/app/1955830">Steam</a></td></tr></tbody></table>
-
 
 
 <table>
@@ -37,10 +31,10 @@
 </tbody></table>
 
 
-
 ## Staff
 
 ## 内容页面
+
 - 游戏设定与剧情 (未找到链接)
 - 攻略 (未找到链接)
 - 其他信息 (未找到链接)
@@ -50,14 +44,6 @@
   
 《东方冰之勇者记》是一款将『横轴动作』+『弹幕射击』相结合的东方Project同人游戏。本作采用了 BOSS RUSH 的关卡模式，玩家需要操控东方人气角色「琪露诺」化身为冰之勇者，踏上对抗邪恶力量、解放幻想乡，并最终拯救珍重之人的旅途。
   
-  
-  
-
-  
-
-
-
-
 
 ---
 

@@ -1,6 +1,6 @@
 # 東方千夜帖~Thousand_Night_Anamnesis./敌机符卡/辉针城关卡符卡
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\a\a8\ns0%3A%E6%9D%B1%E6%96%B9%E5%8D%83%E5%A4%9C%E5%B8%96%7EThousand_Night_Anamnesis%2E%2F%E6%95%8C%E6%9C%BA%E7%AC%A6%E5%8D%A1%2F%E8%BE%89%E9%92%88%E5%9F%8E%E5%85%B3%E5%8D%A1%E7%AC%A6%E5%8D%A1.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\a\a8\ns0%3A%E6%9D%B1%E6%96%B9%E5%8D%83%E5%A4%9C%E5%B8%96%7EThousand_Night_Anamnesis%2E%2F%E6%95%8C%E6%9C%BA%E7%AC%A6%E5%8D%A1%2F%E8%BE%89%E9%92%88%E5%9F%8E%E5%85%B3%E5%8D%A1%E7%AC%A6%E5%8D%A1.html -->
 
 サラダ
 
@@ -8,7 +8,6 @@
 ## 目录
 
 - [1 辉针城](#辉针城)
-
   - [1.1 若鹭姬](#若鹭姬)
   - [1.2 赤蛮奇](#赤蛮奇)
   - [1.3 今泉影狼](#今泉影狼)
@@ -16,10 +15,6 @@
   - [1.5 堀川雷鼓](#堀川雷鼓)
   - [1.6 鬼人正邪](#鬼人正邪)
   - [1.7 少名针妙丸](#少名针妙丸)
-
-
-
-
 
 
 
@@ -54,7 +49,6 @@
 </td></tr></tbody></table>
 
 
-
 ### 赤蛮奇
 
 <table>
@@ -81,7 +75,6 @@
 <td>围绕玩家的攻击。 如果按原作那样越窄，这将成为强大符卡。</td>
 <td>早期版本中也有从屏幕外射击 因为太难了所以没有了。
 </td></tr></tbody></table>
-
 
 
 ### 今泉影狼
@@ -119,7 +112,6 @@
 </td></tr></tbody></table>
 
 
-
 ### 九十九姐妹
 
 <table>
@@ -153,7 +145,6 @@
 <td>灵魂释放的姿态。 无止休的沦陷。</td>
 <td>灵魂释放的姿态。 当你的心思沉浸在演出中时，你的灵魂就很容易脱节。
 </td></tr></tbody></table>
-
 
 
 ### 堀川雷鼓
@@ -198,7 +189,6 @@
 </td></tr></tbody></table>
 
 
-
 ### 鬼人正邪
 
 <table>
@@ -241,7 +231,6 @@
 </td></tr></tbody></table>
 
 
-
 ### 少名针妙丸
 
 <table>
@@ -282,10 +271,6 @@
 <td>因为这是最后一张符卡所以我很重视。 用无数的激光（针）装饰最后。</td>
 <td>因为这是最后一张符卡所以我很重视。 被蛰这么一针，鬼也会跑掉。
 </td></tr></tbody></table>
-
-
-
-
 
 
 ---

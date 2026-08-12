@@ -1,6 +1,6 @@
 # 文件:うどみょん_-Reisen&Youmu-_trainでGO!!_総集編封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fc\ns6%3A%E3%81%86%E3%81%A9%E3%81%BF%E3%82%87%E3%82%93_-Reisen%26Youmu-_train%E3%81%A7GO%21%21_%E7%B7%8F%E9%9B%86%E7%B7%A8%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fc\ns6%3A%E3%81%86%E3%81%A9%E3%81%BF%E3%82%87%E3%82%93_-Reisen%26Youmu-_train%E3%81%A7GO%21%21_%E7%B7%8F%E9%9B%86%E7%B7%A8%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 trainでGO!! | 同人志封面 | 封面图片
 
@@ -10,11 +10,9 @@ trainでGO!! | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [うどみょん -Reisen&amp;Youmu- trainでGO!! 総集編](./うどみょん_-Reisen&Youmu-_trainでGO!!_総集編.md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
-
-
-
+- [うどみょん -Reisen&Youmu- trainでGO!! 総集編](./うどみょん_-Reisen&Youmu-_trainでGO!!_総集編.md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
 
 
 ---

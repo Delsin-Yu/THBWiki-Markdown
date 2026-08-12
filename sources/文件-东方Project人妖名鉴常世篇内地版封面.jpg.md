@@ -1,14 +1,11 @@
 # 文件:东方Project人妖名鉴常世篇内地版封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\73\ns6%3A%E4%B8%9C%E6%96%B9Project%E4%BA%BA%E5%A6%96%E5%90%8D%E9%89%B4%E5%B8%B8%E4%B8%96%E7%AF%87%E5%86%85%E5%9C%B0%E7%89%88%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\73\ns6%3A%E4%B8%9C%E6%96%B9Project%E4%BA%BA%E5%A6%96%E5%90%8D%E9%89%B4%E5%B8%B8%E4%B8%96%E7%AF%87%E5%86%85%E5%9C%B0%E7%89%88%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 东方Project人妖名鉴 | 内地版官方书籍
 
 
 ## 摘要
-
-
-
 
 ---
 

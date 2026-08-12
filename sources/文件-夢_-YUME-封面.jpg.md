@@ -1,6 +1,6 @@
 # 文件:夢_-YUME-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\81\ns6%3A%E5%A4%A2_-YUME-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\81\ns6%3A%E5%A4%A2_-YUME-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 SOUND_HOLIC | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ SOUND_HOLIC | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [夢 -YUME-](./夢_-YUME-.md)  
-该封面包含的角色：- [冈崎梦美](./冈崎梦美.md)- [北白河千百合](./北白河千百合.md)
-
-
-
+- [夢 -YUME-](./夢_-YUME-.md)该封面包含的角色：
+- [冈崎梦美](./冈崎梦美.md)
+- [北白河千百合](./北白河千百合.md)
 
 
 ---

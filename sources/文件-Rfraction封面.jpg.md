@@ -1,6 +1,6 @@
 # 文件:Rfraction封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c3\ns6%3ARfraction%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c3\ns6%3ARfraction%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Asomosphere | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@ Asomosphere | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Rfraction](./Rfraction.md)  
-该封面包含的角色：- [天弓千亦](./天弓千亦.md)
+- [Rfraction](./Rfraction.md)该封面包含的角色：
+- [天弓千亦](./天弓千亦.md)
 
   
-源地址：[direct image link (max size)](https://64.media.tumblr.com/f8b7f027d4138809012e47d69debd365/2bdead69b944b5d5-db/s2048x3072/f3d349dc797cac5a87bdb98899cefb49cbf94f49.jpg), [source page](https://asomosphere02r-fraction.tumblr.com/)
-  
-
-
-
-
+源地址：[direct image link (max size)](https://64.media.tumblr.com/f8b7f027d4138809012e47d69debd365/2bdead69b944b5d5-db/s2048x3072/f3d349dc797cac5a87bdb98899cefb49cbf94f49.jpg), [source page](https://asomosphere02r-fraction.tumblr.com/)  
 
 ---
 

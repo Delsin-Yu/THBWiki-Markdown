@@ -1,6 +1,6 @@
 # 文件:Hypnotic_honey封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\99\ns6%3AHypnotic_honey%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\99\ns6%3AHypnotic_honey%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 金魚音楽盤
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Hypnotic honey](./Hypnotic_honey.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [Hypnotic honey](./Hypnotic_honey.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:origin_story封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\23\ns6%3Aorigin_story%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\23\ns6%3Aorigin_story%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 氷笠家屋
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [origin story](./origin_story.md)  
-该封面包含的角色：- [九十九弁弁](./九十九弁弁.md)- [九十九八桥](./九十九八桥.md)
-
-
-
+- [origin story](./origin_story.md)该封面包含的角色：
+- [九十九弁弁](./九十九弁弁.md)
+- [九十九八桥](./九十九八桥.md)
 
 
 ---

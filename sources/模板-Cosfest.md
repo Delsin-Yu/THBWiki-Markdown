@@ -1,16 +1,12 @@
 # 模板:Cosfest
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\a\a9\ns10%3ACosfest.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\a\a9\ns10%3ACosfest.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

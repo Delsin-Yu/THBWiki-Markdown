@@ -1,6 +1,6 @@
 # 文件:Skepticism封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e1\ns6%3ASkepticism%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e1\ns6%3ASkepticism%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Sleepless | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Sleepless | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Skepticism](./Skepticism.md)  
-该封面包含的角色：- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
+- [Skepticism](./Skepticism.md)该封面包含的角色：
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
 
   
-源地址：[[1]](https://static.wixstatic.com/media/7072af_a37e6af1cd304410b1ef765245277a58~mv2_d_1653_1653_s_2.png)
-  
-
-
-
-
+源地址：[\[1\]](https://static.wixstatic.com/media/7072af_a37e6af1cd304410b1ef765245277a58~mv2_d_1653_1653_s_2.png)  
 
 ---
 

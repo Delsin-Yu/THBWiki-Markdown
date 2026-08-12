@@ -1,6 +1,6 @@
 # 文件:弾き語り集_Vol.1封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5f\ns6%3A%E5%BC%BE%E3%81%8D%E8%AA%9E%E3%82%8A%E9%9B%86_Vol%2E1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5f\ns6%3A%E5%BC%BE%E3%81%8D%E8%AA%9E%E3%82%8A%E9%9B%86_Vol%2E1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 味玉定食 | 封面图片
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [弾き語り集 Vol.1](./弾き語り集_Vol.1.md)  
-该封面包含的角色：- [伊吹萃香](./伊吹萃香.md)
+- [弾き語り集 Vol.1](./弾き語り集_Vol.1.md)该封面包含的角色：
+- [伊吹萃香](./伊吹萃香.md)
 
   
-源地址：[[1]](http://ajitamateisyoku.web.fc2.com/img/suicam.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://ajitamateisyoku.web.fc2.com/img/suicam.jpg)  
 
 ---
 

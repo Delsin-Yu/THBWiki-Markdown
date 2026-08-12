@@ -1,12 +1,8 @@
 # 文件:十六夜咲夜（妖妖梦体验版立绘）sk_an.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\69\ns6%3A%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C%EF%BC%88%E5%A6%96%E5%A6%96%E6%A2%A6%E4%BD%93%E9%AA%8C%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89sk_an%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\69\ns6%3A%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C%EF%BC%88%E5%A6%96%E5%A6%96%E6%A2%A6%E4%BD%93%E9%AA%8C%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89sk_an%2Epng.html -->
 
 ZUN绘 | 东方妖妖梦 | 东方妖妖梦体验版 | 十六夜咲夜 | 官方游戏立绘
-
-
-
-
 
 
 ---

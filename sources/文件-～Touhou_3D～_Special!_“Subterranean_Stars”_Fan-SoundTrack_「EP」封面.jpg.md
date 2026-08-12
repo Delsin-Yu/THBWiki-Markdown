@@ -1,6 +1,6 @@
 # 文件:～Touhou_3D～_Special!_“Subterranean_Stars”_Fan-SoundTrack_「EP」封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\02\ns6%3A%EF%BD%9ETouhou_3D%EF%BD%9E_Special%21_%E2%80%9CSubterranean_Stars%E2%80%9D_Fan-SoundTrack_%E3%80%8CEP%E3%80%8D%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\02\ns6%3A%EF%BD%9ETouhou_3D%EF%BD%9E_Special%21_%E2%80%9CSubterranean_Stars%E2%80%9D_Fan-SoundTrack_%E3%80%8CEP%E3%80%8D%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Erica-Angelina_Kanarska-Sabat | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ Erica-Angelina_Kanarska-Sabat | 专辑封面 | 封面图片
   
 
 - [～Touhou 3D～ Special! “Subterranean Stars” Fan-SoundTrack 「EP」](./～Touhou_3D～_Special!_“Subterranean_Stars”_Fan-SoundTrack_「EP」.md)
-
-
-
 
 
 ---

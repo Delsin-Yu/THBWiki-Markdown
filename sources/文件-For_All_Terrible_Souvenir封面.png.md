@@ -1,6 +1,6 @@
 # 文件:For_All_Terrible_Souvenir封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\28\ns6%3AFor_All_Terrible_Souvenir%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\28\ns6%3AFor_All_Terrible_Souvenir%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 龍胆
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [For All Terrible Souvenir](./For_All_Terrible_Souvenir.md)  
-该封面包含的角色：- [古明地觉](./古明地觉.md)
+- [For All Terrible Souvenir](./For_All_Terrible_Souvenir.md)该封面包含的角色：
+- [古明地觉](./古明地觉.md)
 
   
-[Pixiv artwork ID: 27337164 (via Danbooru ID: 1186790)](https://danbooru.donmai.us/posts/1186790)
-  
-
-
-
-
+[Pixiv artwork ID: 27337164 (via Danbooru ID: 1186790)](https://danbooru.donmai.us/posts/1186790)  
 
 ---
 

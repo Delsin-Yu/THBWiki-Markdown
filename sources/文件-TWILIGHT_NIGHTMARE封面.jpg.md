@@ -1,6 +1,6 @@
 # 文件:TWILIGHT_NIGHTMARE封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\39\ns6%3ATWILIGHT_NIGHTMARE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\39\ns6%3ATWILIGHT_NIGHTMARE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Jeux_interdits | 专辑封面 | 封面图片
 
@@ -10,11 +10,9 @@ Jeux_interdits | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [TWILIGHT NIGHTMARE](./TWILIGHT_NIGHTMARE.md)  
-该封面包含的角色：- [魅魔](./魅魔.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [TWILIGHT NIGHTMARE](./TWILIGHT_NIGHTMARE.md)该封面包含的角色：
+- [魅魔](./魅魔.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

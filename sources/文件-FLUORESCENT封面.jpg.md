@@ -1,6 +1,6 @@
 # 文件:FLUORESCENT封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0c\ns6%3AFLUORESCENT%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0c\ns6%3AFLUORESCENT%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Re：glimmer | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@ Re：glimmer | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [FLUORESCENT](./FLUORESCENT.md)  
-该封面包含的角色：- [莉格露·奈特巴格](./莉格露·奈特巴格.md)
+- [FLUORESCENT](./FLUORESCENT.md)该封面包含的角色：
+- [莉格露·奈特巴格](./莉格露·奈特巴格.md)
 
   
-源地址：[direct image link](https://s2.booth.pm/5aafd012-7efd-41c9-9bf4-0de2e30ff6d9/i/4294005/b75b8672-e99a-488c-a4e0-12c815232d12_base_resized.jpg), [source page (circle Booth)](https://re-ggle.booth.pm/items/4294005)
-  
-
-
-
-
+源地址：[direct image link](https://s2.booth.pm/5aafd012-7efd-41c9-9bf4-0de2e30ff6d9/i/4294005/b75b8672-e99a-488c-a4e0-12c815232d12_base_resized.jpg), [source page (circle Booth)](https://re-ggle.booth.pm/items/4294005)  
 
 ---
 

@@ -1,14 +1,11 @@
 # 文件:Star_Skybanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ad\ns6%3AStar_Skybanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ad\ns6%3AStar_Skybanner%2Epng.html -->
 
 Star_Sky | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

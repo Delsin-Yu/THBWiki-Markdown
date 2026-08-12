@@ -1,16 +1,12 @@
 # 模板:Emotion_memory
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\3\3d\ns10%3AEmotion_memory.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\3\3d\ns10%3AEmotion_memory.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

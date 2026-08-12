@@ -1,14 +1,11 @@
 # 文件:ROUGH_TIMEbanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\28\ns6%3AROUGH_TIMEbanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\28\ns6%3AROUGH_TIMEbanner%2Egif.html -->
 
 ROUGH_TIME | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

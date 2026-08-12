@@ -1,6 +1,6 @@
 # 文件:東方短髪娘_～Short_Hair_Girls～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\72\ns6%3A%E6%9D%B1%E6%96%B9%E7%9F%AD%E9%AB%AA%E5%A8%98_%EF%BD%9EShort_Hair_Girls%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\72\ns6%3A%E6%9D%B1%E6%96%B9%E7%9F%AD%E9%AB%AA%E5%A8%98_%EF%BD%9EShort_Hair_Girls%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 全ピ连 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方短髪娘 ～Short Hair Girls～](./東方短髪娘_～Short_Hair_Girls～.md)  
-该封面包含的角色：- [大妖精](./大妖精.md)
-
-
-
+- [東方短髪娘 ～Short Hair Girls～](./東方短髪娘_～Short_Hair_Girls～.md)该封面包含的角色：
+- [大妖精](./大妖精.md)
 
 
 ---

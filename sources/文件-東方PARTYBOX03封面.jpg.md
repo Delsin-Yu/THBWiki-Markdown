@@ -1,6 +1,6 @@
 # 文件:東方PARTYBOX03封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\af\ns6%3A%E6%9D%B1%E6%96%B9PARTYBOX03%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\af\ns6%3A%E6%9D%B1%E6%96%B9PARTYBOX03%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Melonbooks_Records | 专辑封面 | 封面图片
 
@@ -8,16 +8,16 @@ Melonbooks_Records | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方PARTYBOX03](./東方PARTYBOX03.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- 十六夜咲夜 (未找到链接)- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)- [二岩猯藏](./二岩猯藏.md)- [雾雨魔理沙](./雾雨魔理沙.md)
+- [東方PARTYBOX03](./東方PARTYBOX03.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [十六夜咲夜](./十六夜咲夜.md)
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
+- [二岩猯藏](./二岩猯藏.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-源地址：[[1]](https://pbs.twimg.com/media/C4rA3PcUcAATHxF.jpg:large)
-  
-
-
-
-
+源地址：[\[1\]](https://pbs.twimg.com/media/C4rA3PcUcAATHxF.jpg:large)  
 
 ---
 

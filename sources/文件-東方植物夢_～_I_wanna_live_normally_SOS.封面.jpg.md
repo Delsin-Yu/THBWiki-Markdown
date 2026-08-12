@@ -1,6 +1,6 @@
 # 文件:東方植物夢_～_I_wanna_live_normally_SOS.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\18\ns6%3A%E6%9D%B1%E6%96%B9%E6%A4%8D%E7%89%A9%E5%A4%A2_%EF%BD%9E_I_wanna_live_normally_SOS%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\18\ns6%3A%E6%9D%B1%E6%96%B9%E6%A4%8D%E7%89%A9%E5%A4%A2_%EF%BD%9E_I_wanna_live_normally_SOS%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 まりもmarimoチャンネル | 封面图片 | 软件封面
 
@@ -11,9 +11,6 @@
   
 
 - [東方植物夢 ～ I wanna live normally SOS.](./東方植物夢_～_I_wanna_live_normally_SOS..md)
-
-
-
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:鸟符「Mysterious_Song」2.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\86\ns6%3A%E9%B8%9F%E7%AC%A6%E3%80%8CMysterious_Song%E3%80%8D2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\86\ns6%3A%E9%B8%9F%E7%AC%A6%E3%80%8CMysterious_Song%E3%80%8D2%2Epng.html -->
 
 东方花映塚 | 米斯蒂娅·萝蕾拉
-
-
-
-
 
 
 ---

@@ -1,14 +1,11 @@
 # 文件:红魔符「Bloody_Catastrophe」（噩梦日记）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bc\ns6%3A%E7%BA%A2%E9%AD%94%E7%AC%A6%E3%80%8CBloody_Catastrophe%E3%80%8D%EF%BC%88%E5%99%A9%E6%A2%A6%E6%97%A5%E8%AE%B0%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bc\ns6%3A%E7%BA%A2%E9%AD%94%E7%AC%A6%E3%80%8CBloody_Catastrophe%E3%80%8D%EF%BC%88%E5%99%A9%E6%A2%A6%E6%97%A5%E8%AE%B0%EF%BC%89%2Epng.html -->
 
 敌机符卡 | 秘封噩梦日记 | 芙兰朵露·斯卡蕾特 | 蕾米莉亚·斯卡蕾特
 
 
 ## 文件说明
-
-
-
 
 ---
 

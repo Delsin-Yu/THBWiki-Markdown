@@ -1,6 +1,6 @@
 # 文件:crazy_summer封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2b\ns6%3Acrazy_summer%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2b\ns6%3Acrazy_summer%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 国境横断 | 封面图片
 
@@ -8,16 +8,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [crazy summer](./crazy_summer.md)  
-该封面包含的角色：- [尔子田里乃](./尔子田里乃.md)- [丁礼田舞](./丁礼田舞.md)
+- [crazy summer](./crazy_summer.md)该封面包含的角色：
+- [尔子田里乃](./尔子田里乃.md)
+- [丁礼田舞](./丁礼田舞.md)
 
   
-[Pixiv Illust ID: 69776522](https://i.pximg.net/img-master/img/2018/07/20/19/32/26/69776522_p0_master1200.jpg)
-  
-
-
-
-
+[Pixiv Illust ID: 69776522](https://i.pximg.net/img-master/img/2018/07/20/19/32/26/69776522_p0_master1200.jpg)  
 
 ---
 

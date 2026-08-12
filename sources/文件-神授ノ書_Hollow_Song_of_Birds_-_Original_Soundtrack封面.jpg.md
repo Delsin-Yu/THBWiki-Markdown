@@ -1,6 +1,6 @@
 # 文件:神授ノ書_Hollow_Song_of_Birds_-_Original_Soundtrack封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\67\ns6%3A%E7%A5%9E%E6%8E%88%E3%83%8E%E6%9B%B8_Hollow_Song_of_Birds_-_Original_Soundtrack%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\67\ns6%3A%E7%A5%9E%E6%8E%88%E3%83%8E%E6%9B%B8_Hollow_Song_of_Birds_-_Original_Soundtrack%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 東方邪星章製作チーム
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [神授ノ書 Hollow Song of Birds - Original Soundtrack](./神授ノ書_Hollow_Song_of_Birds_-_Original_Soundtrack.md)  
-该封面包含的角色：- [鸟澄珠乌](./鸟澄珠乌.md)
-
-
-
+- [神授ノ書 Hollow Song of Birds - Original Soundtrack](./神授ノ書_Hollow_Song_of_Birds_-_Original_Soundtrack.md)该封面包含的角色：
+- [鸟澄珠乌](./鸟澄珠乌.md)
 
 
 ---

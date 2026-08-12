@@ -1,6 +1,6 @@
 # 文件:Wash_out［崩壊］封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\13\ns6%3AWash_out%EF%BC%BB%E5%B4%A9%E5%A3%8A%EF%BC%BD%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\13\ns6%3AWash_out%EF%BC%BB%E5%B4%A9%E5%A3%8A%EF%BC%BD%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Wally_bash | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Wally_bash | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Wash out［崩壊］](./Wash_out［崩壊］.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
-
-
-
+- [Wash out［崩壊］](./Wash_out［崩壊］.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
 
 ---

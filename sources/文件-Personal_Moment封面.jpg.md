@@ -1,6 +1,6 @@
 # 文件:Personal_Moment封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\30\ns6%3APersonal_Moment%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\30\ns6%3APersonal_Moment%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 フーリンキャットマーク | 专辑封面 | 封面图片
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [Personal Moment](./Personal_Moment.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)- [射命丸文](./射命丸文.md)
-
-
-
+- [Personal Moment](./Personal_Moment.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
+- [射命丸文](./射命丸文.md)
 
 
 ---

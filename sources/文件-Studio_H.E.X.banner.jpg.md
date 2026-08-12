@@ -1,12 +1,8 @@
 # 文件:Studio_H.E.X.banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\66\ns6%3AStudio_H%2EE%2EX%2Ebanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\66\ns6%3AStudio_H%2EE%2EX%2Ebanner%2Ejpg.html -->
 
 Studio_H.E.X. | 社团LOGO
-
-
-
-
 
 
 ---

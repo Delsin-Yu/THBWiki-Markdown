@@ -1,6 +1,6 @@
 # 文件:Ambiguous_Magical-power_&_Ambitious_Marketeer_Episode.1.0.1封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\63\ns6%3AAmbiguous_Magical-power_%26_Ambitious_Marketeer_Episode%2E1%2E0%2E1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\63\ns6%3AAmbiguous_Magical-power_%26_Ambitious_Marketeer_Episode%2E1%2E0%2E1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 八寺発電所 | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Ambiguous Magical-power &amp; Ambitious Marketeer Episode.1.0.1](./Ambiguous_Magical-power_&_Ambitious_Marketeer_Episode.1.0.1.md)  
-该封面包含的角色：- [堀川雷鼓](./堀川雷鼓.md)
-
-
-
+- [Ambiguous Magical-power & Ambitious Marketeer Episode.1.0.1](./Ambiguous_Magical-power_&_Ambitious_Marketeer_Episode.1.0.1.md)该封面包含的角色：
+- [堀川雷鼓](./堀川雷鼓.md)
 
 
 ---

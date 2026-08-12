@@ -1,14 +1,11 @@
 # 文件:カゲ路banner2.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\25\ns6%3A%E3%82%AB%E3%82%B2%E8%B7%AFbanner2%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\25\ns6%3A%E3%82%AB%E3%82%B2%E8%B7%AFbanner2%2Egif.html -->
 
 カゲ路 | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

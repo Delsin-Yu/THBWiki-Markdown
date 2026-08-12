@@ -1,6 +1,6 @@
 # 文件:(新)EP_&_RARE_TRACKS封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\73\ns6%3A%28%E6%96%B0%29EP_%26_RARE_TRACKS%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\73\ns6%3A%28%E6%96%B0%29EP_%26_RARE_TRACKS%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 GIRLSICK | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ GIRLSICK | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [(新)EP &amp; RARE TRACKS](./(新)EP_&_RARE_TRACKS.md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)
-
-
-
+- [(新)EP & RARE TRACKS](./(新%29EP_&_RARE_TRACKS.md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
 
 
 ---

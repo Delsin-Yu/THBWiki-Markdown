@@ -1,12 +1,8 @@
 # 文件:diyusi.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\29\ns6%3Adiyusi%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\29\ns6%3Adiyusi%2Ejpg.html -->
 
 曲奇
-
-
-
-
 
 
 ---

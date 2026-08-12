@@ -1,43 +1,37 @@
 # 东方三月精_～_Visionary_Fairies_in_Shrine./第九话前
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\a\a9\ns0%3A%E4%B8%9C%E6%96%B9%E4%B8%89%E6%9C%88%E7%B2%BE_%EF%BD%9E_Visionary_Fairies_in_Shrine%2E%2F%E7%AC%AC%E4%B9%9D%E8%AF%9D%E5%89%8D.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\a\a9\ns0%3A%E4%B8%9C%E6%96%B9%E4%B8%89%E6%9C%88%E7%B2%BE_%EF%BD%9E_Visionary_Fairies_in_Shrine%2E%2F%E7%AC%AC%E4%B9%9D%E8%AF%9D%E5%89%8D.html -->
 
 东方三月精_～_Visionary_Fairies_in_Shrine. | 使用了翻译表的页面 | 需要完善的词条
-
-  
-  
-
-  
 
 
 <table>
 <tbody><tr>
 <td class="mbox-image width"><div style="width: 52px;">
-  <a href="/%E6%96%87%E4%BB%B6:Books_Flat_Icon_Vector.svg" class="image"><img alt="Books Flat Icon Vector.svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Books_Flat_Icon_Vector.svg/langzh-60px-Books_Flat_Icon_Vector.svg.png" decoding="async" loading="lazy" width="60" height="50" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Books_Flat_Icon_Vector.svg/langzh-90px-Books_Flat_Icon_Vector.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Books_Flat_Icon_Vector.svg/langzh-120px-Books_Flat_Icon_Vector.svg.png 2x" data-file-width="691" data-file-height="577"></a></div></td>
-<td class="mbox-text" style=""><big>本词条的内容需要进行补充。</big><br><b>本页面需要对于 日文原文 方面的内容进行补充</b>。<br>如果您对于相关内容较为了解，请您<a href="/index.php?title=%E4%B8%9C%E6%96%B9%E4%B8%89%E6%9C%88%E7%B2%BE_%EF%BD%9E_Visionary_Fairies_in_Shrine./%E7%AC%AC%E4%B9%9D%E8%AF%9D%E5%89%8D&amp;action=edit">补充本词条的内容</a></td>
+  <a class="image"><img alt="Books Flat Icon Vector.svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Books_Flat_Icon_Vector.svg/langzh-60px-Books_Flat_Icon_Vector.svg.png" decoding="async" loading="lazy" width="60" height="50" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Books_Flat_Icon_Vector.svg/langzh-90px-Books_Flat_Icon_Vector.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Books_Flat_Icon_Vector.svg/langzh-120px-Books_Flat_Icon_Vector.svg.png 2x" data-file-width="691" data-file-height="577"></a></div></td>
+<td class="mbox-text" style=""><big>本词条的内容需要进行补充。</big><br><b>本页面需要对于 日文原文 方面的内容进行补充</b>。<br>如果您对于相关内容较为了解，请您<a>补充本词条的内容</a></td>
 </tr>
 </tbody></table>
 
-
 <center>
-
 <table>
 <tbody><tr>
-<td>&lt;
+<td><
 </td>
-<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./东方三月精_～_Visionary_Fairies_in_Shrine.-第八话.md" title="东方三月精 ～ Visionary Fairies in Shrine./第八话">第八话</a>&#160;
+<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./东方三月精_～_Visionary_Fairies_in_Shrine.-第八话.md" title="东方三月精 ～ Visionary Fairies in Shrine./第八话">第八话</a> 
 </td>
-<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="./东方三月精_～_Visionary_Fairies_in_Shrine..md" title="东方三月精 ～ Visionary Fairies in Shrine.">东方三月精V</a>&#160;
+<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;"> <a href="./东方三月精_～_Visionary_Fairies_in_Shrine..md" title="东方三月精 ～ Visionary Fairies in Shrine.">东方三月精V</a> 
 </td>
-<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left">&#160;<a href="./东方三月精_～_Visionary_Fairies_in_Shrine.-第九话后.md" title="东方三月精 ～ Visionary Fairies in Shrine./第九话后">第九话后</a>
+<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left"> <a href="./东方三月精_～_Visionary_Fairies_in_Shrine.-第九话后.md" title="东方三月精 ～ Visionary Fairies in Shrine./第九话后">第九话后</a>
 </td>
-<td>&gt;
+<td>>
 </td></tr></tbody></table>
 
   
 </center>
-- 本词条内容为官方漫画 **东方三月精 ～ Visionary Fairies in Shrine.** 的剧情对话文字版。
-- 观看在线漫画请点击[这里](http://bbs.nyasama.com/forum.php?mod=viewthread&amp;tid=77161)。
+- 本词条内容为官方漫画**东方三月精 ～ Visionary Fairies in Shrine.**的剧情对话文字版。
+- 观看在线漫画请点击[这里](http://bbs.nyasama.com/forum.php?mod=viewthread&tid=77161)。
+
 
 ## P1
 
@@ -61,7 +55,7 @@
 
 ## P5
 
-<table><tbody><tr class="tt-content" id="P5-1" data-pos="&#91;&quot;P5&quot;,1&#93;"><td id="露娜" class="tt-char" lang="zh"><div class="poem">露娜切露德</div></td><td class="tt-ja" lang="ja"><div class="poem"></div></td><td class="tt-zh" lang="zh"><div class="poem"><big><b>笨蛋<br><br>这种东西一定是凶暴的熊或其他什么干的啦<br><br>被吃了会死诶！</b></big></div></td></tr><tr class="tt-content" id="P5-2" data-pos="&#91;&quot;P5&quot;,2&#93;"><td id="桑尼" class="tt-char" lang="zh"><div class="poem">桑尼米尔克</div></td><td class="tt-ja" lang="ja"><div class="poem"></div></td><td class="tt-zh" lang="zh"><div class="poem"><b>不入虎穴 焉得虎子</b></div></td></tr><tr class="tt-status-header" id="P5-3" data-pos="&#91;&quot;P5&quot;,3&#93;"><td class="tt-s" lang="zh"><div class="poem"></div></td><td colspan="2" class="tt-status" lang="zh"><div class="poem">桑尼跳入洞中</div></td></tr><tr class="tt-content" id="P5-4" data-pos="&#91;&quot;P5&quot;,4&#93;"><td id="露娜&amp;amp;斯塔" class="tt-char" lang="zh"><div class="poem">露娜切露德&amp;斯塔萨菲雅</div></td><td class="tt-ja" lang="ja"><div class="poem"></div></td><td class="tt-zh" lang="zh"><div class="poem"><big><b>啊！</b></big></div></td></tr><tr class="tt-content" id="P5-5" data-pos="&#91;&quot;P5&quot;,5&#93;"><td id="桑尼" class="tt-char" lang="zh"><div class="poem">桑尼米尔克</div></td><td class="tt-ja" lang="ja"><div class="poem"></div></td><td class="tt-zh" lang="zh"><div class="poem"><b>都找到这种不自然的洞穴了<br><br>怎么可能无视呢！</b></div></td></tr><tr class="tt-status-header" id="P5-6" data-pos="&#91;&quot;P5&quot;,6&#93;"><td class="tt-s" lang="zh"><div class="poem"></div></td><td colspan="2" class="tt-status" lang="zh"><div class="poem">露娜偷偷地在洞中爬行</div></td></tr><tr class="tt-content" id="P5-7" data-pos="&#91;&quot;P5&quot;,7&#93;"><td id="露娜" class="tt-char" lang="zh"><div class="poem">露娜切露德</div></td><td class="tt-ja" lang="ja"><div class="poem"></div></td><td class="tt-zh" lang="zh"><div class="poem"><b>呜—嗯…</b></div></td></tr></tbody></table>
+<table><tbody><tr class="tt-content" id="P5-1" data-pos="&#91;&quot;P5&quot;,1&#93;"><td id="露娜" class="tt-char" lang="zh"><div class="poem">露娜切露德</div></td><td class="tt-ja" lang="ja"><div class="poem"></div></td><td class="tt-zh" lang="zh"><div class="poem"><big><b>笨蛋<br><br>这种东西一定是凶暴的熊或其他什么干的啦<br><br>被吃了会死诶！</b></big></div></td></tr><tr class="tt-content" id="P5-2" data-pos="&#91;&quot;P5&quot;,2&#93;"><td id="桑尼" class="tt-char" lang="zh"><div class="poem">桑尼米尔克</div></td><td class="tt-ja" lang="ja"><div class="poem"></div></td><td class="tt-zh" lang="zh"><div class="poem"><b>不入虎穴 焉得虎子</b></div></td></tr><tr class="tt-status-header" id="P5-3" data-pos="&#91;&quot;P5&quot;,3&#93;"><td class="tt-s" lang="zh"><div class="poem"></div></td><td colspan="2" class="tt-status" lang="zh"><div class="poem">桑尼跳入洞中</div></td></tr><tr class="tt-content" id="P5-4" data-pos="&#91;&quot;P5&quot;,4&#93;"><td id="露娜&amp;amp;斯塔" class="tt-char" lang="zh"><div class="poem">露娜切露德&斯塔萨菲雅</div></td><td class="tt-ja" lang="ja"><div class="poem"></div></td><td class="tt-zh" lang="zh"><div class="poem"><big><b>啊！</b></big></div></td></tr><tr class="tt-content" id="P5-5" data-pos="&#91;&quot;P5&quot;,5&#93;"><td id="桑尼" class="tt-char" lang="zh"><div class="poem">桑尼米尔克</div></td><td class="tt-ja" lang="ja"><div class="poem"></div></td><td class="tt-zh" lang="zh"><div class="poem"><b>都找到这种不自然的洞穴了<br><br>怎么可能无视呢！</b></div></td></tr><tr class="tt-status-header" id="P5-6" data-pos="&#91;&quot;P5&quot;,6&#93;"><td class="tt-s" lang="zh"><div class="poem"></div></td><td colspan="2" class="tt-status" lang="zh"><div class="poem">露娜偷偷地在洞中爬行</div></td></tr><tr class="tt-content" id="P5-7" data-pos="&#91;&quot;P5&quot;,7&#93;"><td id="露娜" class="tt-char" lang="zh"><div class="poem">露娜切露德</div></td><td class="tt-ja" lang="ja"><div class="poem"></div></td><td class="tt-zh" lang="zh"><div class="poem"><b>呜—嗯…</b></div></td></tr></tbody></table>
 
 
 ## P6
@@ -128,39 +122,22 @@
 
 <table><tbody><tr class="tt-status-header" id="P18-1" data-pos="&#91;&quot;P18&quot;,1&#93;"><td class="tt-s" lang="zh"><div class="poem"></div></td><td colspan="2" class="tt-status" lang="zh"><div class="poem">皮丝坐在赛钱箱上发抖</div></td></tr><tr class="tt-content" id="P18-2" data-pos="&#91;&quot;P18&quot;,2&#93;"><td id="克劳恩" class="tt-char" lang="zh"><div class="poem">克劳恩皮丝</div></td><td class="tt-ja" lang="ja"><div class="poem"></div></td><td class="tt-zh" lang="zh"><div class="poem">啊—<br><br>寒冬真的是地狱啊<br><br>不过<br><br>还真是期待明天的庙会呀—<br><br>我要用地狱那无法熄灭的火焰覆盖整个神社境内<br><br>把博丽神社变成比盛夏更加炎热的灼热之地<br><br><b>哼～哼～哼</b></div></td></tr><tr class="tt-header-white" id="P18-3" data-pos="&#91;&quot;P18&quot;,3&#93;"><td id="" class="tt-w" lang="zh"><div class="poem"></div></td><td class="tt-jaw" lang="ja"><div class="poem"></div></td><td class="tt-zhw" lang="zh"><div class="poem">下期，后篇待续哦！</div></td></tr></tbody></table>
 
-
-
-  
-  
-
-  
-
 <center>
-
 <table>
 <tbody><tr>
-<td>&lt;
+<td><
 </td>
-<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./东方三月精_～_Visionary_Fairies_in_Shrine.-第八话.md" title="东方三月精 ～ Visionary Fairies in Shrine./第八话">第八话</a>&#160;
+<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./东方三月精_～_Visionary_Fairies_in_Shrine.-第八话.md" title="东方三月精 ～ Visionary Fairies in Shrine./第八话">第八话</a> 
 </td>
-<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="./东方三月精_～_Visionary_Fairies_in_Shrine..md" title="东方三月精 ～ Visionary Fairies in Shrine.">东方三月精V</a>&#160;
+<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;"> <a href="./东方三月精_～_Visionary_Fairies_in_Shrine..md" title="东方三月精 ～ Visionary Fairies in Shrine.">东方三月精V</a> 
 </td>
-<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left">&#160;<a href="./东方三月精_～_Visionary_Fairies_in_Shrine.-第九话后.md" title="东方三月精 ～ Visionary Fairies in Shrine./第九话后">第九话后</a>
+<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left"> <a href="./东方三月精_～_Visionary_Fairies_in_Shrine.-第九话后.md" title="东方三月精 ～ Visionary Fairies in Shrine./第九话后">第九话后</a>
 </td>
-<td>&gt;
+<td>>
 </td></tr></tbody></table>
 
   
 </center>
-  
-  
-
-  
-
-
-
-
-
 ---
 
 此文档由 [THBWiki-Markdown-Builder](https://github.com/Delsin-Yu/THBWiki-Markdown-Builder) 构建。

@@ -1,40 +1,30 @@
 # 无损之功德_～_go_to_work...?
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\e\e1\ns0%3A%E6%97%A0%E6%8D%9F%E4%B9%8B%E5%8A%9F%E5%BE%B7_%EF%BD%9E_go_to_work%2E%2E%2E%3F.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\e\e1\ns0%3A%E6%97%A0%E6%8D%9F%E4%B9%8B%E5%8A%9F%E5%BE%B7_%EF%BD%9E_go_to_work%2E%2E%2E%3F.html -->
 
 JynX作曲 | 引用了翻译表的页面 | 无损之功德_～_go_to_work...? | 连缘Project | 连缘Project官方音乐
 
-本页是关于 **向[东方Project](./东方Project.md)  
-致敬、形式类似的作品** 的词条
-
+本页是关于**向[东方Project](./东方Project.md)致敬、形式类似的作品**  
+的词条
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 出现作品](#出现作品)
 - [3 音乐文件](#音乐文件)
-
   - [3.1 连缘蛇丛剑](#连缘蛇丛剑)
   - [3.2 连缘灵烈传](#连缘灵烈传)
   - [3.3 连缘天影战记](#连缘天影战记)
 
 
-
 - [4 说明文本](#说明文本)
-
   - [4.1 连缘蛇丛剑](#连缘蛇丛剑_2)
   - [4.2 连缘灵烈传](#连缘灵烈传_2)
   - [4.3 连缘天影战记](#连缘天影战记_2)
 
 
-
 - [5 其他资料](#其他资料)
-
   - [5.1 乐理资讯](#乐理资讯)
   - [5.2 分析考据](#分析考据)
-
-
-
-
 
 
 
@@ -63,7 +53,6 @@ JynX作曲 | 引用了翻译表的页面 | 无损之功德_～_go_to_work...? | 
 </td></tr></tbody></table>
 
 
-
 ## 出现作品
 
 <table>
@@ -74,13 +63,11 @@ JynX作曲 | 引用了翻译表的页面 | 无损之功德_～_go_to_work...? | 
 </tbody></table>
 
 
-
 ## 音乐文件
 
 ### 连缘蛇丛剑
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>MIDI格式</b></td><td>无播放信息</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-le02_02.mp3.md" title="文件:le02 02.mp3">le02_02.mp3</a><br><audio src="https://upload.thwiki.cc/2/2b/le02_02.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>未填写</td></tr></tbody></table>
-
 
 
 ### 连缘灵烈传
@@ -102,7 +89,6 @@ JynX作曲 | 引用了翻译表的页面 | 无损之功德_～_go_to_work...? | 
 </td></tr></tbody></table>
 
 
-
 ### 连缘天影战记
 
 <table>
@@ -122,11 +108,11 @@ JynX作曲 | 引用了翻译表的页面 | 无损之功德_～_go_to_work...? | 
 </td></tr></tbody></table>
 
 
-
 ## 说明文本
 
 ### 连缘蛇丛剑
-- Music Room (未找到链接)
+
+- [Music Room](./连缘蛇丛剑～Earthen_Miraculous_Sword-Music.md#1面道中曲)
 
 一面的道中曲。  
 无现里的主人公们第一次出勤的时间呢。  
@@ -134,9 +120,9 @@ JynX作曲 | 引用了翻译表的页面 | 无损之功德_～_go_to_work...? | 
 总之好像能炒热气氛呢，  
 在这个层面上或许和一面很合适。  
 但是可不能自作主张地期待功德哟。
-
 ### 连缘灵烈传
-- Music Room (未找到链接)
+
+- [Music Room](./连缘灵烈传～Reactivate_majestical_imperial-Music.md#1面道中曲)
 
 一面道中曲。  
 玩过前作的玩家，  
@@ -148,9 +134,9 @@ JynX作曲 | 引用了翻译表的页面 | 无损之功德_～_go_to_work...? | 
 四季印象版本都做出来就好了・・・  
   
 我想这首曲子，之后还要做两个版本。
-
 ### 连缘天影战记
-- Music Room (未找到链接)
+
+- [Music Room](./连缘天影战记～Brilliant_pagoda_or_haze_castle-Music.md#阐里神社参道(1到3面%29主题曲)
 
 一面之类的阐里神社参道曲子。  
   
@@ -162,26 +148,24 @@ JynX作曲 | 引用了翻译表的页面 | 无损之功德_～_go_to_work...? | 
 就还剩一回啦，再忍一忍吧  
   
 Spring！Biuuuu～
-
 ## 其他资料
 
 ### 乐理资讯
 
 ### 分析考据
   
- **爛れ過ぎた平穏 ～ be motivated**   
+**爛れ過ぎた平穏 ～ be motivated**  
 
 过于奢靡的平稳 ～ be motivated
   
 
-- 奢靡的平稳
+- 奢靡的平稳 
   - 指薮雨和玄鸟在神社里 ~~快乐摸鱼~~ 的生活
   - 没有异变发生的无现里
 
-- be motivated
+
+- be motivated 
   - 被激励去做某事，这里指神社组被甚平赶出去解决异变
-
-
 
 
 

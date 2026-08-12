@@ -1,12 +1,8 @@
 # 文件:永久立体＜キュービックループ＞banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ec\ns6%3A%E6%B0%B8%E4%B9%85%E7%AB%8B%E4%BD%93%EF%BC%9C%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%93%E3%83%83%E3%82%AF%E3%83%AB%E3%83%BC%E3%83%97%EF%BC%9Ebanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ec\ns6%3A%E6%B0%B8%E4%B9%85%E7%AB%8B%E4%BD%93%EF%BC%9C%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%93%E3%83%83%E3%82%AF%E3%83%AB%E3%83%BC%E3%83%97%EF%BC%9Ebanner%2Ejpg.html -->
 
 永久立体＜キュービックループ＞ | 社团LOGO
-
-
-
-
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:东方心梦游-人物-御井上祈（Q版）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f9\ns6%3A%E4%B8%9C%E6%96%B9%E5%BF%83%E6%A2%A6%E6%B8%B8-%E4%BA%BA%E7%89%A9-%E5%BE%A1%E4%BA%95%E4%B8%8A%E7%A5%88%EF%BC%88Q%E7%89%88%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f9\ns6%3A%E4%B8%9C%E6%96%B9%E5%BF%83%E6%A2%A6%E6%B8%B8-%E4%BA%BA%E7%89%A9-%E5%BE%A1%E4%BA%95%E4%B8%8A%E7%A5%88%EF%BC%88Q%E7%89%88%EF%BC%89%2Epng.html -->
 
 二次角色立绘 | 夢星琉璃 | 御井上祈
-
-
-
-
 
 
 ---

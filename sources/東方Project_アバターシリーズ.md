@@ -1,21 +1,17 @@
 # 東方Project_アバターシリーズ
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\02\ns0%3A%E6%9D%B1%E6%96%B9Project_%E3%82%A2%E3%83%90%E3%82%BF%E3%83%BC%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\02\ns0%3A%E6%9D%B1%E6%96%B9Project_%E3%82%A2%E3%83%90%E3%82%BF%E3%83%BC%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA.html -->
 
 2016年3月25日 由 MediaScape  发布的主题美化软件，可在 PS4 系统上运行，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人软件 (未找到链接)** 的词条
-
+**[二次创作同人软件](./二次创作.md#同人软件)**的词条
 ## 目录
 
 - [1 软件信息](#软件信息)
 - [2 概述](#概述)
 - [3 每月头像](#每月头像)
 - [4 评论](#评论)
-
-
-
 
 
 ## 软件信息
@@ -26,9 +22,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://playdoujin.mediascape.co.jp/th_avatar/">http://playdoujin.mediascape.co.jp/th_avatar/</a></td></tr></tbody></table>
 
 東方Project アバターシリーズ（同人软件，MediaScape，2016） - 2016年3月25日 由 MediaScape  发布的主题美化软件，可在 PS4 系统上运行，分级为 一般向
-
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://store.playstation.com/ja-jp/product/JP0704-CUSA05016_00-PARENT0000000000">PlayStation</a></td></tr></tbody></table>
-
 
 
 ## 概述
@@ -37,7 +31,6 @@
 
 购买后需要在PlayStation®4上进行切换头像操作。
   
-
 
 ## 每月头像
 
@@ -59,13 +52,13 @@
 <th>发售日期</th><td>2016年3月25日</td>
 </tr> 
 <tr>
-<th>角色</th><td colspan="3"><a href="./露米娅.md" title="露米娅">露米娅</a>、<a href="./大妖精.md" title="大妖精">大妖精</a>、<a href="./琪露诺.md" title="琪露诺">琪露诺</a>、<a href="./红美铃.md" title="红美铃">红美铃</a>、<a href="./小恶魔.md" title="小恶魔">小恶魔</a>、<a href="./帕秋莉·诺蕾姬.md" title="帕秋莉·诺蕾姬">帕秋莉·诺蕾姬</a>、<a href="/%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C" title="十六夜咲夜">十六夜咲夜</a>、<a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a>、<a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰朵露·斯卡蕾特</a></td>
+<th>角色</th><td colspan="3"><a href="./露米娅.md" title="露米娅">露米娅</a>、<a href="./大妖精.md" title="大妖精">大妖精</a>、<a href="./琪露诺.md" title="琪露诺">琪露诺</a>、<a href="./红美铃.md" title="红美铃">红美铃</a>、<a href="./小恶魔.md" title="小恶魔">小恶魔</a>、<a href="./帕秋莉·诺蕾姬.md" title="帕秋莉·诺蕾姬">帕秋莉·诺蕾姬</a>、<a href="./十六夜咲夜.md" title="十六夜咲夜">十六夜咲夜</a>、<a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a>、<a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰朵露·斯卡蕾特</a></td>
 <th>价格</th><td>360日元</td>
 </tr>
 <tr>
 <td rowspan="2"><a href="./文件-東方Project_アバターシリーズ（绀珠传）.jpg.md" class="image"><img alt="東方Project アバターシリーズ（绀珠传）.jpg" src="https://upload.thwiki.cc/thumb/1/10/%E6%9D%B1%E6%96%B9Project_%E3%82%A2%E3%83%90%E3%82%BF%E3%83%BC%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%EF%BC%88%E7%BB%80%E7%8F%A0%E4%BC%A0%EF%BC%89.jpg/100px-%E6%9D%B1%E6%96%B9Project_%E3%82%A2%E3%83%90%E3%82%BF%E3%83%BC%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%EF%BC%88%E7%BB%80%E7%8F%A0%E4%BC%A0%EF%BC%89.jpg" decoding="async" loading="lazy" width="100" height="100" srcset="https://upload.thwiki.cc/thumb/1/10/%E6%9D%B1%E6%96%B9Project_%E3%82%A2%E3%83%90%E3%82%BF%E3%83%BC%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%EF%BC%88%E7%BB%80%E7%8F%A0%E4%BC%A0%EF%BC%89.jpg/150px-%E6%9D%B1%E6%96%B9Project_%E3%82%A2%E3%83%90%E3%82%BF%E3%83%BC%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%EF%BC%88%E7%BB%80%E7%8F%A0%E4%BC%A0%EF%BC%89.jpg 1.5x, https://upload.thwiki.cc/thumb/1/10/%E6%9D%B1%E6%96%B9Project_%E3%82%A2%E3%83%90%E3%82%BF%E3%83%BC%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%EF%BC%88%E7%BB%80%E7%8F%A0%E4%BC%A0%EF%BC%89.jpg/200px-%E6%9D%B1%E6%96%B9Project_%E3%82%A2%E3%83%90%E3%82%BF%E3%83%BC%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%EF%BC%88%E7%BB%80%E7%8F%A0%E4%BC%A0%EF%BC%89.jpg 2x" data-file-width="520" data-file-height="520"></a></td>
 <th>类别</th><td><a href="./东方绀珠传.md" title="东方绀珠传">东方绀珠传</a></td>
-<th>画师</th><td><a href="/index.php?title=%E7%B2%97%E8%8C%B6&amp;action=edit&amp;redlink=1" class="new" title="粗茶（页面不存在）">粗茶</a></td>
+<th>画师</th><td><a class="new" title="粗茶（页面不存在）">粗茶</a></td>
 <th>发售日期</th><td>2016年3月25日</td>
 </tr> 
 <tr>
@@ -89,7 +82,7 @@
 <th>发售日期</th><td>2016年4月22日</td>
 </tr> 
 <tr>
-<th>角色</th><td colspan="3"><a href="./莉格露·奈特巴格.md" title="莉格露·奈特巴格">莉格露·奈特巴格</a>、<a href="./米斯蒂娅·萝蕾拉.md" title="米斯蒂娅·萝蕾拉">米斯蒂娅·萝蕾拉</a>、<a href="./上白泽慧音.md" title="上白泽慧音">上白泽慧音</a>、<a href="./因幡天为.md" class="mw-redirect" title="因幡天为">因幡天为</a>、<a href="./铃仙·优昙华院·因幡.md" title="铃仙·优昙华院·因幡">铃仙·优昙华院·因幡</a>、<a href="./八意永琳.md" title="八意永琳">八意永琳</a>、<a href="./蓬莱山辉夜.md" title="蓬莱山辉夜">蓬莱山辉夜</a>、<a href="./藤原妹红.md" title="藤原妹红">藤原妹红</a></td>
+<th>角色</th><td colspan="3"><a href="./莉格露·奈特巴格.md" title="莉格露·奈特巴格">莉格露·奈特巴格</a>、<a href="./米斯蒂娅·萝蕾拉.md" title="米斯蒂娅·萝蕾拉">米斯蒂娅·萝蕾拉</a>、<a href="./上白泽慧音.md" title="上白泽慧音">上白泽慧音</a>、<a href="./因幡帝.md" class="mw-redirect" title="因幡天为">因幡天为</a>、<a href="./铃仙·优昙华院·因幡.md" title="铃仙·优昙华院·因幡">铃仙·优昙华院·因幡</a>、<a href="./八意永琳.md" title="八意永琳">八意永琳</a>、<a href="./蓬莱山辉夜.md" title="蓬莱山辉夜">蓬莱山辉夜</a>、<a href="./藤原妹红.md" title="藤原妹红">藤原妹红</a></td>
 <th>价格</th><td>360日元</td>
 </tr>
 <tr>
@@ -115,17 +108,17 @@
 <tr>
 <td rowspan="2"><a href="./文件-東方Project_アバターシリーズ（小说·音乐CD）.jpg.md" class="image"><img alt="東方Project アバターシリーズ（小说·音乐CD）.jpg" src="https://upload.thwiki.cc/thumb/5/5c/%E6%9D%B1%E6%96%B9Project_%E3%82%A2%E3%83%90%E3%82%BF%E3%83%BC%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%EF%BC%88%E5%B0%8F%E8%AF%B4%C2%B7%E9%9F%B3%E4%B9%90CD%EF%BC%89.jpg/100px-%E6%9D%B1%E6%96%B9Project_%E3%82%A2%E3%83%90%E3%82%BF%E3%83%BC%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%EF%BC%88%E5%B0%8F%E8%AF%B4%C2%B7%E9%9F%B3%E4%B9%90CD%EF%BC%89.jpg" decoding="async" loading="lazy" width="100" height="100" srcset="https://upload.thwiki.cc/thumb/5/5c/%E6%9D%B1%E6%96%B9Project_%E3%82%A2%E3%83%90%E3%82%BF%E3%83%BC%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%EF%BC%88%E5%B0%8F%E8%AF%B4%C2%B7%E9%9F%B3%E4%B9%90CD%EF%BC%89.jpg/150px-%E6%9D%B1%E6%96%B9Project_%E3%82%A2%E3%83%90%E3%82%BF%E3%83%BC%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%EF%BC%88%E5%B0%8F%E8%AF%B4%C2%B7%E9%9F%B3%E4%B9%90CD%EF%BC%89.jpg 1.5x, https://upload.thwiki.cc/thumb/5/5c/%E6%9D%B1%E6%96%B9Project_%E3%82%A2%E3%83%90%E3%82%BF%E3%83%BC%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%EF%BC%88%E5%B0%8F%E8%AF%B4%C2%B7%E9%9F%B3%E4%B9%90CD%EF%BC%89.jpg/200px-%E6%9D%B1%E6%96%B9Project_%E3%82%A2%E3%83%90%E3%82%BF%E3%83%BC%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%EF%BC%88%E5%B0%8F%E8%AF%B4%C2%B7%E9%9F%B3%E4%B9%90CD%EF%BC%89.jpg 2x" data-file-width="520" data-file-height="520"></a></td>
 <th>类别</th><td>小说·音乐CD</td>
-<th>画师</th><td><a href="/index.php?title=%E3%82%A8%E3%83%93%E3%82%BE%E3%83%A1&amp;action=edit&amp;redlink=1" class="new" title="エビゾメ（页面不存在）">エビゾメ</a></td>
+<th>画师</th><td><a class="new" title="エビゾメ（页面不存在）">エビゾメ</a></td>
 <th>发售日期</th><td>2016年6月24日</td>
 </tr> 
 <tr>
-<th>角色</th><td colspan="3"><a href="./玛艾露贝莉·赫恩.md" title="玛艾露贝莉·赫恩">玛艾露贝莉·赫恩</a>、<a href="./宇佐见莲子.md" title="宇佐见莲子">宇佐见莲子</a>、<a href="./森近霖之助.md" title="森近霖之助">森近霖之助</a>、<a href="./朱鹭子.md" class="mw-redirect" title="朱鹭子">朱鹭子</a>、<a href="./稗田阿求.md" title="稗田阿求">稗田阿求</a>、<a href="./铃仙二号.md" class="mw-redirect" title="铃仙二号">铃仙</a>、<a href="./绵月丰姬.md" title="绵月丰姬">绵月丰姬</a>、<a href="./绵月依姬.md" title="绵月依姬">绵月依姬</a></td>
+<th>角色</th><td colspan="3"><a href="./玛艾露贝莉·赫恩.md" title="玛艾露贝莉·赫恩">玛艾露贝莉·赫恩</a>、<a href="./宇佐见莲子.md" title="宇佐见莲子">宇佐见莲子</a>、<a href="./森近霖之助.md" title="森近霖之助">森近霖之助</a>、<a href="./无名的读书妖怪.md" class="mw-redirect" title="朱鹭子">朱鹭子</a>、<a href="./稗田阿求.md" title="稗田阿求">稗田阿求</a>、<a href="./Reisen.md" class="mw-redirect" title="铃仙二号">铃仙</a>、<a href="./绵月丰姬.md" title="绵月丰姬">绵月丰姬</a>、<a href="./绵月依姬.md" title="绵月依姬">绵月依姬</a></td>
 <th>价格</th><td>320日元</td>
 </tr>
 <tr>
 <td rowspan="2"><a href="./文件-東方Project_アバターシリーズ（三月精·茨歌仙·铃奈庵）.jpg.md" class="image"><img alt="東方Project アバターシリーズ（三月精·茨歌仙·铃奈庵）.jpg" src="https://upload.thwiki.cc/thumb/1/18/%E6%9D%B1%E6%96%B9Project_%E3%82%A2%E3%83%90%E3%82%BF%E3%83%BC%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%EF%BC%88%E4%B8%89%E6%9C%88%E7%B2%BE%C2%B7%E8%8C%A8%E6%AD%8C%E4%BB%99%C2%B7%E9%93%83%E5%A5%88%E5%BA%B5%EF%BC%89.jpg/100px-%E6%9D%B1%E6%96%B9Project_%E3%82%A2%E3%83%90%E3%82%BF%E3%83%BC%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%EF%BC%88%E4%B8%89%E6%9C%88%E7%B2%BE%C2%B7%E8%8C%A8%E6%AD%8C%E4%BB%99%C2%B7%E9%93%83%E5%A5%88%E5%BA%B5%EF%BC%89.jpg" decoding="async" loading="lazy" width="100" height="100" srcset="https://upload.thwiki.cc/thumb/1/18/%E6%9D%B1%E6%96%B9Project_%E3%82%A2%E3%83%90%E3%82%BF%E3%83%BC%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%EF%BC%88%E4%B8%89%E6%9C%88%E7%B2%BE%C2%B7%E8%8C%A8%E6%AD%8C%E4%BB%99%C2%B7%E9%93%83%E5%A5%88%E5%BA%B5%EF%BC%89.jpg/150px-%E6%9D%B1%E6%96%B9Project_%E3%82%A2%E3%83%90%E3%82%BF%E3%83%BC%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%EF%BC%88%E4%B8%89%E6%9C%88%E7%B2%BE%C2%B7%E8%8C%A8%E6%AD%8C%E4%BB%99%C2%B7%E9%93%83%E5%A5%88%E5%BA%B5%EF%BC%89.jpg 1.5x, https://upload.thwiki.cc/thumb/1/18/%E6%9D%B1%E6%96%B9Project_%E3%82%A2%E3%83%90%E3%82%BF%E3%83%BC%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%EF%BC%88%E4%B8%89%E6%9C%88%E7%B2%BE%C2%B7%E8%8C%A8%E6%AD%8C%E4%BB%99%C2%B7%E9%93%83%E5%A5%88%E5%BA%B5%EF%BC%89.jpg/200px-%E6%9D%B1%E6%96%B9Project_%E3%82%A2%E3%83%90%E3%82%BF%E3%83%BC%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%EF%BC%88%E4%B8%89%E6%9C%88%E7%B2%BE%C2%B7%E8%8C%A8%E6%AD%8C%E4%BB%99%C2%B7%E9%93%83%E5%A5%88%E5%BA%B5%EF%BC%89.jpg 2x" data-file-width="520" data-file-height="520"></a></td>
 <th>类别</th><td><a href="./东方三月精.md" title="东方三月精">东方三月精</a>、<a href="./东方茨歌仙.md" title="东方茨歌仙">东方茨歌仙</a>、<a href="./东方铃奈庵.md" title="东方铃奈庵">东方铃奈庵</a></td>
-<th>画师</th><td><a href="/index.php?title=%E7%99%BD%E7%8B%90&amp;action=edit&amp;redlink=1" class="new" title="白狐（页面不存在）">白狐</a></td>
+<th>画师</th><td><a class="new" title="白狐（页面不存在）">白狐</a></td>
 <th>发售日期</th><td>2016年6月24日</td>
 </tr> 
 <tr>
@@ -135,7 +128,7 @@
 <tr>
 <td rowspan="2"><a href="./文件-東方Project_アバターシリーズ（花映塚·文花帖·Double_Spoiler）.jpg.md" class="image"><img alt="東方Project アバターシリーズ（花映塚·文花帖·Double Spoiler）.jpg" src="https://upload.thwiki.cc/thumb/d/da/%E6%9D%B1%E6%96%B9Project_%E3%82%A2%E3%83%90%E3%82%BF%E3%83%BC%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%EF%BC%88%E8%8A%B1%E6%98%A0%E5%A1%9A%C2%B7%E6%96%87%E8%8A%B1%E5%B8%96%C2%B7Double_Spoiler%EF%BC%89.jpg/100px-%E6%9D%B1%E6%96%B9Project_%E3%82%A2%E3%83%90%E3%82%BF%E3%83%BC%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%EF%BC%88%E8%8A%B1%E6%98%A0%E5%A1%9A%C2%B7%E6%96%87%E8%8A%B1%E5%B8%96%C2%B7Double_Spoiler%EF%BC%89.jpg" decoding="async" loading="lazy" width="100" height="100" srcset="https://upload.thwiki.cc/thumb/d/da/%E6%9D%B1%E6%96%B9Project_%E3%82%A2%E3%83%90%E3%82%BF%E3%83%BC%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%EF%BC%88%E8%8A%B1%E6%98%A0%E5%A1%9A%C2%B7%E6%96%87%E8%8A%B1%E5%B8%96%C2%B7Double_Spoiler%EF%BC%89.jpg/150px-%E6%9D%B1%E6%96%B9Project_%E3%82%A2%E3%83%90%E3%82%BF%E3%83%BC%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%EF%BC%88%E8%8A%B1%E6%98%A0%E5%A1%9A%C2%B7%E6%96%87%E8%8A%B1%E5%B8%96%C2%B7Double_Spoiler%EF%BC%89.jpg 1.5x, https://upload.thwiki.cc/thumb/d/da/%E6%9D%B1%E6%96%B9Project_%E3%82%A2%E3%83%90%E3%82%BF%E3%83%BC%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%EF%BC%88%E8%8A%B1%E6%98%A0%E5%A1%9A%C2%B7%E6%96%87%E8%8A%B1%E5%B8%96%C2%B7Double_Spoiler%EF%BC%89.jpg/200px-%E6%9D%B1%E6%96%B9Project_%E3%82%A2%E3%83%90%E3%82%BF%E3%83%BC%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%EF%BC%88%E8%8A%B1%E6%98%A0%E5%A1%9A%C2%B7%E6%96%87%E8%8A%B1%E5%B8%96%C2%B7Double_Spoiler%EF%BC%89.jpg 2x" data-file-width="520" data-file-height="520"></a></td>
 <th>类别</th><td><a href="./东方花映塚.md" title="东方花映塚">东方花映塚</a>、<a href="./东方文花帖.md" title="东方文花帖">东方文花帖</a>、<a href="./东方文花帖DS.md" title="东方文花帖DS">东方文花帖DS</a></td>
-<th>画师</th><td><a href="/index.php?title=%E6%AB%9B%E7%81%98%E3%82%90%E3%82%8B%E3%82%91&amp;action=edit&amp;redlink=1" class="new" title="櫛灘ゐるゑ（页面不存在）">櫛灘ゐるゑ</a></td>
+<th>画师</th><td><a class="new" title="櫛灘ゐるゑ（页面不存在）">櫛灘ゐるゑ</a></td>
 <th>发售日期</th><td>2016年7月29日</td>
 </tr> 
 <tr>
@@ -145,7 +138,7 @@
 <tr>
 <td rowspan="2"><a href="./文件-東方Project_アバターシリーズ（星莲船）.jpg.md" class="image"><img alt="東方Project アバターシリーズ（星莲船）.jpg" src="https://upload.thwiki.cc/thumb/b/b4/%E6%9D%B1%E6%96%B9Project_%E3%82%A2%E3%83%90%E3%82%BF%E3%83%BC%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%EF%BC%89.jpg/100px-%E6%9D%B1%E6%96%B9Project_%E3%82%A2%E3%83%90%E3%82%BF%E3%83%BC%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%EF%BC%89.jpg" decoding="async" loading="lazy" width="100" height="100" srcset="https://upload.thwiki.cc/thumb/b/b4/%E6%9D%B1%E6%96%B9Project_%E3%82%A2%E3%83%90%E3%82%BF%E3%83%BC%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%EF%BC%89.jpg/150px-%E6%9D%B1%E6%96%B9Project_%E3%82%A2%E3%83%90%E3%82%BF%E3%83%BC%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%EF%BC%89.jpg 1.5x, https://upload.thwiki.cc/thumb/b/b4/%E6%9D%B1%E6%96%B9Project_%E3%82%A2%E3%83%90%E3%82%BF%E3%83%BC%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%EF%BC%89.jpg/200px-%E6%9D%B1%E6%96%B9Project_%E3%82%A2%E3%83%90%E3%82%BF%E3%83%BC%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%EF%BC%89.jpg 2x" data-file-width="520" data-file-height="520"></a></td>
 <th>类别</th><td><a href="./东方星莲船.md" title="东方星莲船">东方星莲船</a></td>
-<th>画师</th><td><a href="/index.php?title=%E4%B9%83%E6%A8%B9%E5%9D%82%E3%81%8F%E3%81%97%E3%81%8A&amp;action=edit&amp;redlink=1" class="new" title="乃樹坂くしお（页面不存在）">乃樹坂くしお</a></td>
+<th>画师</th><td><a class="new" title="乃樹坂くしお（页面不存在）">乃樹坂くしお</a></td>
 <th>发售日期</th><td>2016年7月29日</td>
 </tr> 
 <tr>
@@ -165,7 +158,7 @@
 <tr>
 <td rowspan="2"><a href="./文件-東方Project_アバターシリーズ（辉针城）.jpg.md" class="image"><img alt="東方Project アバターシリーズ（辉针城）.jpg" src="https://upload.thwiki.cc/thumb/9/9f/%E6%9D%B1%E6%96%B9Project_%E3%82%A2%E3%83%90%E3%82%BF%E3%83%BC%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%EF%BC%88%E8%BE%89%E9%92%88%E5%9F%8E%EF%BC%89.jpg/100px-%E6%9D%B1%E6%96%B9Project_%E3%82%A2%E3%83%90%E3%82%BF%E3%83%BC%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%EF%BC%88%E8%BE%89%E9%92%88%E5%9F%8E%EF%BC%89.jpg" decoding="async" loading="lazy" width="100" height="100" srcset="https://upload.thwiki.cc/thumb/9/9f/%E6%9D%B1%E6%96%B9Project_%E3%82%A2%E3%83%90%E3%82%BF%E3%83%BC%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%EF%BC%88%E8%BE%89%E9%92%88%E5%9F%8E%EF%BC%89.jpg/150px-%E6%9D%B1%E6%96%B9Project_%E3%82%A2%E3%83%90%E3%82%BF%E3%83%BC%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%EF%BC%88%E8%BE%89%E9%92%88%E5%9F%8E%EF%BC%89.jpg 1.5x, https://upload.thwiki.cc/thumb/9/9f/%E6%9D%B1%E6%96%B9Project_%E3%82%A2%E3%83%90%E3%82%BF%E3%83%BC%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%EF%BC%88%E8%BE%89%E9%92%88%E5%9F%8E%EF%BC%89.jpg/200px-%E6%9D%B1%E6%96%B9Project_%E3%82%A2%E3%83%90%E3%82%BF%E3%83%BC%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%EF%BC%88%E8%BE%89%E9%92%88%E5%9F%8E%EF%BC%89.jpg 2x" data-file-width="520" data-file-height="520"></a></td>
 <th>类别</th><td><a href="./东方辉针城.md" title="东方辉针城">东方辉针城</a></td>
-<th>画师</th><td><a href="/index.php?title=%E3%81%88%E3%82%8D%E8%B1%86&amp;action=edit&amp;redlink=1" class="new" title="えろ豆（页面不存在）">えろ豆</a></td>
+<th>画师</th><td><a class="new" title="えろ豆（页面不存在）">えろ豆</a></td>
 <th>发售日期</th><td>2016年8月26日</td>
 </tr> 
 <tr>
@@ -173,9 +166,9 @@
 <th>价格</th><td>360日元</td>
 </tr>
 <tr>
-<td rowspan="2"><a href="/%E6%96%87%E4%BB%B6:%E6%9D%B1%E6%96%B9Project_%E3%82%A2%E3%83%90%E3%82%BF%E3%83%BC%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%EF%BC%88%E8%90%83%E6%A2%A6%E6%83%B3%C2%B7%E7%BB%AF%E6%83%B3%E5%A4%A9%C2%B7%E5%BF%83%E7%BB%AE%E6%A5%BC%C2%B7%E6%B7%B1%E7%A7%98%E5%BD%95%2B%E9%9D%9E%E6%83%B3%E5%A4%A9%E5%88%99%EF%BC%89.jpg" class="image"><img alt="東方Project アバターシリーズ（萃梦想·绯想天·心绮楼·深秘录+非想天则）.jpg" src="https://upload.thwiki.cc/thumb/2/29/%E6%9D%B1%E6%96%B9Project_%E3%82%A2%E3%83%90%E3%82%BF%E3%83%BC%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%EF%BC%88%E8%90%83%E6%A2%A6%E6%83%B3%C2%B7%E7%BB%AF%E6%83%B3%E5%A4%A9%C2%B7%E5%BF%83%E7%BB%AE%E6%A5%BC%C2%B7%E6%B7%B1%E7%A7%98%E5%BD%95%2B%E9%9D%9E%E6%83%B3%E5%A4%A9%E5%88%99%EF%BC%89.jpg/100px-%E6%9D%B1%E6%96%B9Project_%E3%82%A2%E3%83%90%E3%82%BF%E3%83%BC%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%EF%BC%88%E8%90%83%E6%A2%A6%E6%83%B3%C2%B7%E7%BB%AF%E6%83%B3%E5%A4%A9%C2%B7%E5%BF%83%E7%BB%AE%E6%A5%BC%C2%B7%E6%B7%B1%E7%A7%98%E5%BD%95%2B%E9%9D%9E%E6%83%B3%E5%A4%A9%E5%88%99%EF%BC%89.jpg" decoding="async" loading="lazy" width="100" height="100" srcset="https://upload.thwiki.cc/thumb/2/29/%E6%9D%B1%E6%96%B9Project_%E3%82%A2%E3%83%90%E3%82%BF%E3%83%BC%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%EF%BC%88%E8%90%83%E6%A2%A6%E6%83%B3%C2%B7%E7%BB%AF%E6%83%B3%E5%A4%A9%C2%B7%E5%BF%83%E7%BB%AE%E6%A5%BC%C2%B7%E6%B7%B1%E7%A7%98%E5%BD%95%2B%E9%9D%9E%E6%83%B3%E5%A4%A9%E5%88%99%EF%BC%89.jpg/150px-%E6%9D%B1%E6%96%B9Project_%E3%82%A2%E3%83%90%E3%82%BF%E3%83%BC%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%EF%BC%88%E8%90%83%E6%A2%A6%E6%83%B3%C2%B7%E7%BB%AF%E6%83%B3%E5%A4%A9%C2%B7%E5%BF%83%E7%BB%AE%E6%A5%BC%C2%B7%E6%B7%B1%E7%A7%98%E5%BD%95%2B%E9%9D%9E%E6%83%B3%E5%A4%A9%E5%88%99%EF%BC%89.jpg 1.5x, https://upload.thwiki.cc/thumb/2/29/%E6%9D%B1%E6%96%B9Project_%E3%82%A2%E3%83%90%E3%82%BF%E3%83%BC%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%EF%BC%88%E8%90%83%E6%A2%A6%E6%83%B3%C2%B7%E7%BB%AF%E6%83%B3%E5%A4%A9%C2%B7%E5%BF%83%E7%BB%AE%E6%A5%BC%C2%B7%E6%B7%B1%E7%A7%98%E5%BD%95%2B%E9%9D%9E%E6%83%B3%E5%A4%A9%E5%88%99%EF%BC%89.jpg/200px-%E6%9D%B1%E6%96%B9Project_%E3%82%A2%E3%83%90%E3%82%BF%E3%83%BC%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%EF%BC%88%E8%90%83%E6%A2%A6%E6%83%B3%C2%B7%E7%BB%AF%E6%83%B3%E5%A4%A9%C2%B7%E5%BF%83%E7%BB%AE%E6%A5%BC%C2%B7%E6%B7%B1%E7%A7%98%E5%BD%95%2B%E9%9D%9E%E6%83%B3%E5%A4%A9%E5%88%99%EF%BC%89.jpg 2x" data-file-width="520" data-file-height="520"></a></td>
+<td rowspan="2"><a href="./文件-東方Project_アバターシリーズ（萃梦想·绯想天·心绮楼·深秘录+非想天则）.jpg.md" class="image"><img alt="東方Project アバターシリーズ（萃梦想·绯想天·心绮楼·深秘录+非想天则）.jpg" src="https://upload.thwiki.cc/thumb/2/29/%E6%9D%B1%E6%96%B9Project_%E3%82%A2%E3%83%90%E3%82%BF%E3%83%BC%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%EF%BC%88%E8%90%83%E6%A2%A6%E6%83%B3%C2%B7%E7%BB%AF%E6%83%B3%E5%A4%A9%C2%B7%E5%BF%83%E7%BB%AE%E6%A5%BC%C2%B7%E6%B7%B1%E7%A7%98%E5%BD%95%2B%E9%9D%9E%E6%83%B3%E5%A4%A9%E5%88%99%EF%BC%89.jpg/100px-%E6%9D%B1%E6%96%B9Project_%E3%82%A2%E3%83%90%E3%82%BF%E3%83%BC%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%EF%BC%88%E8%90%83%E6%A2%A6%E6%83%B3%C2%B7%E7%BB%AF%E6%83%B3%E5%A4%A9%C2%B7%E5%BF%83%E7%BB%AE%E6%A5%BC%C2%B7%E6%B7%B1%E7%A7%98%E5%BD%95%2B%E9%9D%9E%E6%83%B3%E5%A4%A9%E5%88%99%EF%BC%89.jpg" decoding="async" loading="lazy" width="100" height="100" srcset="https://upload.thwiki.cc/thumb/2/29/%E6%9D%B1%E6%96%B9Project_%E3%82%A2%E3%83%90%E3%82%BF%E3%83%BC%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%EF%BC%88%E8%90%83%E6%A2%A6%E6%83%B3%C2%B7%E7%BB%AF%E6%83%B3%E5%A4%A9%C2%B7%E5%BF%83%E7%BB%AE%E6%A5%BC%C2%B7%E6%B7%B1%E7%A7%98%E5%BD%95%2B%E9%9D%9E%E6%83%B3%E5%A4%A9%E5%88%99%EF%BC%89.jpg/150px-%E6%9D%B1%E6%96%B9Project_%E3%82%A2%E3%83%90%E3%82%BF%E3%83%BC%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%EF%BC%88%E8%90%83%E6%A2%A6%E6%83%B3%C2%B7%E7%BB%AF%E6%83%B3%E5%A4%A9%C2%B7%E5%BF%83%E7%BB%AE%E6%A5%BC%C2%B7%E6%B7%B1%E7%A7%98%E5%BD%95%2B%E9%9D%9E%E6%83%B3%E5%A4%A9%E5%88%99%EF%BC%89.jpg 1.5x, https://upload.thwiki.cc/thumb/2/29/%E6%9D%B1%E6%96%B9Project_%E3%82%A2%E3%83%90%E3%82%BF%E3%83%BC%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%EF%BC%88%E8%90%83%E6%A2%A6%E6%83%B3%C2%B7%E7%BB%AF%E6%83%B3%E5%A4%A9%C2%B7%E5%BF%83%E7%BB%AE%E6%A5%BC%C2%B7%E6%B7%B1%E7%A7%98%E5%BD%95%2B%E9%9D%9E%E6%83%B3%E5%A4%A9%E5%88%99%EF%BC%89.jpg/200px-%E6%9D%B1%E6%96%B9Project_%E3%82%A2%E3%83%90%E3%82%BF%E3%83%BC%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%EF%BC%88%E8%90%83%E6%A2%A6%E6%83%B3%C2%B7%E7%BB%AF%E6%83%B3%E5%A4%A9%C2%B7%E5%BF%83%E7%BB%AE%E6%A5%BC%C2%B7%E6%B7%B1%E7%A7%98%E5%BD%95%2B%E9%9D%9E%E6%83%B3%E5%A4%A9%E5%88%99%EF%BC%89.jpg 2x" data-file-width="520" data-file-height="520"></a></td>
 <th>类别</th><td><a href="./东方萃梦想.md" title="东方萃梦想">东方萃梦想</a>、<a href="./东方绯想天.md" title="东方绯想天">东方绯想天</a>、<a href="./东方非想天则.md" title="东方非想天则">东方非想天则</a>、<a href="./东方心绮楼.md" title="东方心绮楼">东方心绮楼</a>、<a href="./东方深秘录.md" title="东方深秘录">东方深秘录</a></td>
-<th>画师</th><td><a href="/index.php?title=%E8%92%BC%E9%A6%AC%E3%81%BF%E3%81%9A%E3%81%8D&amp;action=edit&amp;redlink=1" class="new" title="蒼馬みずき（页面不存在）">蒼馬みずき</a></td>
+<th>画师</th><td><a class="new" title="蒼馬みずき（页面不存在）">蒼馬みずき</a></td>
 <th>发售日期</th><td>2016年8月26日</td>
 </tr> 
 <tr>
@@ -186,13 +179,6 @@
 
 
 ## 评论
-<table>
-</table>
-
-
-
-
-
 
 ---
 

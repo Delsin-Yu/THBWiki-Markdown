@@ -1,6 +1,6 @@
 # 文件:Reわたしがここにいるりゆう封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\da\ns6%3ARe%E3%82%8F%E3%81%9F%E3%81%97%E3%81%8C%E3%81%93%E3%81%93%E3%81%AB%E3%81%84%E3%82%8B%E3%82%8A%E3%82%86%E3%81%86%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\da\ns6%3ARe%E3%82%8F%E3%81%9F%E3%81%97%E3%81%8C%E3%81%93%E3%81%93%E3%81%AB%E3%81%84%E3%82%8B%E3%82%8A%E3%82%86%E3%81%86%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 みくらやめ | 同人志封面 | 封面图片
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [Reわたしがここにいるりゆう](./Reわたしがここにいるりゆう.md)  
-该封面包含的角色：- [尔子田里乃](./尔子田里乃.md)- [丁礼田舞](./丁礼田舞.md)
-
-
-
+- [Reわたしがここにいるりゆう](./Reわたしがここにいるりゆう.md)该封面包含的角色：
+- [尔子田里乃](./尔子田里乃.md)
+- [丁礼田舞](./丁礼田舞.md)
 
 
 ---

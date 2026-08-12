@@ -1,12 +1,8 @@
 # 文件:华灵「Butterfly_Delusion」（妖妖梦1）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\73\ns6%3A%E5%8D%8E%E7%81%B5%E3%80%8CButterfly_Delusion%E3%80%8D%EF%BC%88%E5%A6%96%E5%A6%96%E6%A2%A61%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\73\ns6%3A%E5%8D%8E%E7%81%B5%E3%80%8CButterfly_Delusion%E3%80%8D%EF%BC%88%E5%A6%96%E5%A6%96%E6%A2%A61%EF%BC%89%2Ejpg.html -->
 
 东方妖妖梦 | 敌机符卡 | 西行寺幽幽子
-
-
-
-
 
 
 ---

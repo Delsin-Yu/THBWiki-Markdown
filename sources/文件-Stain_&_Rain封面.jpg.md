@@ -1,6 +1,6 @@
 # 文件:Stain_&_Rain封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\10\ns6%3AStain_%26_Rain%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\10\ns6%3AStain_%26_Rain%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Silently_Shooting_Traitors | 专辑封面 | 封面图片
 
@@ -8,12 +8,9 @@ Silently_Shooting_Traitors | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Stain &amp; Rain](./Stain_&_Rain.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)源地址：[[1]](https://web.archive.org/web/20160507201152im_/http://silentlyshootingtraitors.jp/release/images/jacket_02.jpg)
-
-
-
-
+- [Stain & Rain](./Stain_&_Rain.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+源地址：[\[1\]](https://web.archive.org/web/20160507201152im_/http://silentlyshootingtraitors.jp/release/images/jacket_02.jpg)
 
 ---
 

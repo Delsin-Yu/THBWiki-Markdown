@@ -1,6 +1,6 @@
 # 文件:Länsimaa封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\ba\ns6%3AL%C3%A4nsimaa%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\ba\ns6%3AL%C3%A4nsimaa%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 NCMR | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ NCMR | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Länsimaa](./Länsimaa.md)  
-该封面包含的角色：- [VIVIT](./VIVIT.md)
+- [Länsimaa](./Länsimaa.md)该封面包含的角色：
+- [VIVIT](./VIVIT.md)
 
   
-源地址：[[1]](https://ncmr.bandcamp.com/album/l-nsimaa)
-  
-
-
-
-
+源地址：[\[1\]](https://ncmr.bandcamp.com/album/l-nsimaa)  
 
 ---
 

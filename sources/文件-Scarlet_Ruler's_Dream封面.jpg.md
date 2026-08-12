@@ -1,6 +1,6 @@
 # 文件:Scarlet_Ruler's_Dream封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fe\ns6%3AScarlet_Ruler%27s_Dream%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fe\ns6%3AScarlet_Ruler%27s_Dream%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 The_Oneiric_Orchestra_of_the_Unfindable_Palace | 专辑封面 | 封面图片
 
@@ -8,16 +8,13 @@ The_Oneiric_Orchestra_of_the_Unfindable_Palace | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Scarlet Ruler's Dream](./Scarlet_Ruler's_Dream.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [雾雨魔理沙](./雾雨魔理沙.md)
+- [Scarlet Ruler's Dream](./Scarlet_Ruler's_Dream.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-源地址：[[1]](https://theoneiricorchestraproject.bandcamp.com/album/scarlet-rulers-dream)
-  
-
-
-
-
+源地址：[\[1\]](https://theoneiricorchestraproject.bandcamp.com/album/scarlet-rulers-dream)  
 
 ---
 

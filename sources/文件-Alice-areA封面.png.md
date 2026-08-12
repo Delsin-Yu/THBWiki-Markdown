@@ -1,6 +1,6 @@
 # 文件:Alice-areA封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\61\ns6%3AAlice-areA%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\61\ns6%3AAlice-areA%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Colorful_Umbrella | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Colorful_Umbrella | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Alice-areA](./Alice-areA.md)  
-该封面包含的角色：- [爱丽丝（旧作角色）](./爱丽丝（旧作角色）.md)
+- [Alice-areA](./Alice-areA.md)该封面包含的角色：
+- [爱丽丝（旧作角色）](./爱丽丝（旧作角色）.md)
 
   
-源地址：[[1]](http://colorfulumbrella.sakura.ne.jp/special/img/jacket.png)
-  
-
-
-
-
+源地址：[\[1\]](http://colorfulumbrella.sakura.ne.jp/special/img/jacket.png)  
 
 ---
 

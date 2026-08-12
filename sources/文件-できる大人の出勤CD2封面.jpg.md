@@ -1,6 +1,6 @@
 # 文件:できる大人の出勤CD2封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\37\ns6%3A%E3%81%A7%E3%81%8D%E3%82%8B%E5%A4%A7%E4%BA%BA%E3%81%AE%E5%87%BA%E5%8B%A4CD2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\37\ns6%3A%E3%81%A7%E3%81%8D%E3%82%8B%E5%A4%A7%E4%BA%BA%E3%81%AE%E5%87%BA%E5%8B%A4CD2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 DDBY | 专辑封面 | 封面图片
 
@@ -8,11 +8,11 @@ DDBY | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [できる大人の出勤CD2](./できる大人の出勤CD2.md)  
-该封面包含的角色：- [莉格露·奈特巴格](./莉格露·奈特巴格.md)- [上白泽慧音](./上白泽慧音.md)- [蓬莱山辉夜](./蓬莱山辉夜.md)- [藤原妹红](./藤原妹红.md)
-
-
-
+- [できる大人の出勤CD2](./できる大人の出勤CD2.md)该封面包含的角色：
+- [莉格露·奈特巴格](./莉格露·奈特巴格.md)
+- [上白泽慧音](./上白泽慧音.md)
+- [蓬莱山辉夜](./蓬莱山辉夜.md)
+- [藤原妹红](./藤原妹红.md)
 
 
 ---

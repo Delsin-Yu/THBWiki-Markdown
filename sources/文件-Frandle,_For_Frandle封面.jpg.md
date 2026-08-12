@@ -1,6 +1,6 @@
 # 文件:Frandle,_For_Frandle封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\99\ns6%3AFrandle%2C_For_Frandle%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\99\ns6%3AFrandle%2C_For_Frandle%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 End_of_My_Lilith | 同人志封面 | 封面图片
 
@@ -10,16 +10,12 @@ End_of_My_Lilith | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Frandle, For Frandle](./Frandle,_For_Frandle.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)- [饕餮尤魔](./饕餮尤魔.md)
+- [Frandle, For Frandle](./Frandle,_For_Frandle.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [饕餮尤魔](./饕餮尤魔.md)
 
   
-源地址：[https://pbs.twimg.com/media/Fu3ptT4acAAlNxI?format=jpg&amp;name=orig](https://pbs.twimg.com/media/Fu3ptT4acAAlNxI?format=jpg&amp;name=orig)
-  
-
-
-
-
+源地址：[https://pbs.twimg.com/media/Fu3ptT4acAAlNxI?format=jpg&name=orig](https://pbs.twimg.com/media/Fu3ptT4acAAlNxI?format=jpg&name=orig)  
 
 ---
 

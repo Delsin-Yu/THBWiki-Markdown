@@ -1,6 +1,6 @@
 # 文件:At_The_Termination_Of_The_Phantasm封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3d\ns6%3AAt_The_Termination_Of_The_Phantasm%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3d\ns6%3AAt_The_Termination_Of_The_Phantasm%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 BLANKFIELD | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ BLANKFIELD | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [At The Termination Of The Phantasm](./At_The_Termination_Of_The_Phantasm.md)  
-该封面包含的角色：- [火焰猫燐](./火焰猫燐.md)
-
-
-
+- [At The Termination Of The Phantasm](./At_The_Termination_Of_The_Phantasm.md)该封面包含的角色：
+- [火焰猫燐](./火焰猫燐.md)
 
 
 ---

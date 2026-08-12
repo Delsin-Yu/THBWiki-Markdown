@@ -1,16 +1,12 @@
 # 模板:红魔馆Tea_Party
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\f\fc\ns10%3A%E7%BA%A2%E9%AD%94%E9%A6%86Tea_Party.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\f\fc\ns10%3A%E7%BA%A2%E9%AD%94%E9%A6%86Tea_Party.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:東方beats_to_relax／study_to封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2d\ns6%3A%E6%9D%B1%E6%96%B9beats_to_relax%EF%BC%8Fstudy_to%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2d\ns6%3A%E6%9D%B1%E6%96%B9beats_to_relax%EF%BC%8Fstudy_to%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Nocturnal_Aura | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Nocturnal_Aura | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方beats to relax／study to](./東方beats_to_relax／study_to.md)  
-该封面包含的角色：- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
+- [東方beats to relax／study to](./東方beats_to_relax／study_to.md)该封面包含的角色：
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
 
   
-源地址：[[1]](https://pbs.twimg.com/media/EM9OmLmXUAAGEBj.png:orig)
-  
-
-
-
-
+源地址：[\[1\]](https://pbs.twimg.com/media/EM9OmLmXUAAGEBj.png:orig)  
 
 ---
 

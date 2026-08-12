@@ -1,6 +1,6 @@
 # 文件:hematite封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4a\ns6%3Ahematite%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4a\ns6%3Ahematite%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 autumn-grass | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ autumn-grass | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [hematite](./hematite.md)  
-该封面包含的角色：- [西行寺幽幽子](./西行寺幽幽子.md)- [八云紫](./八云紫.md)
-
-
-
+- [hematite](./hematite.md)该封面包含的角色：
+- [西行寺幽幽子](./西行寺幽幽子.md)
+- [八云紫](./八云紫.md)
 
 
 ---

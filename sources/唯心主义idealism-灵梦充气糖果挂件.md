@@ -1,26 +1,20 @@
 # 唯心主义idealism/灵梦充气糖果挂件
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\46\ns0%3A%E5%94%AF%E5%BF%83%E4%B8%BB%E4%B9%89idealism%2F%E7%81%B5%E6%A2%A6%E5%85%85%E6%B0%94%E7%B3%96%E6%9E%9C%E6%8C%82%E4%BB%B6.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\46\ns0%3A%E5%94%AF%E5%BF%83%E4%B8%BB%E4%B9%89idealism%2F%E7%81%B5%E6%A2%A6%E5%85%85%E6%B0%94%E7%B3%96%E6%9E%9C%E6%8C%82%E4%BB%B6.html -->
 
 2020年10月31日 由 唯心主义idealism  发布的挂件周边，分级为 一般向
 
 本页是关于东方Project  
- **相关实体周边 (未找到链接)** 的词条
-
+**相关实体周边 (未找到链接)**的词条
 ## 目录
 
 - [1 周边信息](#周边信息)
 - [2 参考图](#参考图)
-
   - [2.1 实物图](#实物图)
-
 
 
 - [3 Staff](#Staff)
 - [4 评论](#评论)
-
-
-
 
 
 ## 周边信息
@@ -28,15 +22,14 @@
 <table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 灵梦充气糖果挂件 </td></tr><tr><td class="label">制作方</td><td><a href="./唯心主义idealism.md" title="唯心主义idealism">唯心主义idealism</a></td></tr><tr><td class="label">首发日期</td><td>2020-10-31</td></tr><tr><td class="label">类型</td><td>挂件</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">角色</td><td><a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></td></tr><tr><td class="label">售价</td><td>25人民币</td></tr></tbody></table>
 
 唯心主义idealism/灵梦充气糖果挂件（周边，唯心主义idealism，2020） - 2020年10月31日 由 唯心主义idealism  发布的挂件周边，分级为 一般向
-
 ## 参考图
   
 周边宣传、售卖时使用的作为参考图的预览图或实物图的图片。
   
 
-
 ### 实物图
-- [](./文件-唯心主义idealism／灵梦充气糖果挂件实物图1.jpg.md)
+
+- <img alt="唯心主义idealism／灵梦充气糖果挂件实物图1.jpg" src="https://upload.thwiki.cc/thumb/4/49/%E5%94%AF%E5%BF%83%E4%B8%BB%E4%B9%89idealism%EF%BC%8F%E7%81%B5%E6%A2%A6%E5%85%85%E6%B0%94%E7%B3%96%E6%9E%9C%E6%8C%82%E4%BB%B6%E5%AE%9E%E7%89%A9%E5%9B%BE1.jpg/253px-%E5%94%AF%E5%BF%83%E4%B8%BB%E4%B9%89idealism%EF%BC%8F%E7%81%B5%E6%A2%A6%E5%85%85%E6%B0%94%E7%B3%96%E6%9E%9C%E6%8C%82%E4%BB%B6%E5%AE%9E%E7%89%A9%E5%9B%BE1.jpg" decoding="async" loading="lazy" width="169" height="250" srcset="https://upload.thwiki.cc/thumb/4/49/%E5%94%AF%E5%BF%83%E4%B8%BB%E4%B9%89idealism%EF%BC%8F%E7%81%B5%E6%A2%A6%E5%85%85%E6%B0%94%E7%B3%96%E6%9E%9C%E6%8C%82%E4%BB%B6%E5%AE%9E%E7%89%A9%E5%9B%BE1.jpg/380px-%E5%94%AF%E5%BF%83%E4%B8%BB%E4%B9%89idealism%EF%BC%8F%E7%81%B5%E6%A2%A6%E5%85%85%E6%B0%94%E7%B3%96%E6%9E%9C%E6%8C%82%E4%BB%B6%E5%AE%9E%E7%89%A9%E5%9B%BE1.jpg 1.5x, https://upload.thwiki.cc/thumb/4/49/%E5%94%AF%E5%BF%83%E4%B8%BB%E4%B9%89idealism%EF%BC%8F%E7%81%B5%E6%A2%A6%E5%85%85%E6%B0%94%E7%B3%96%E6%9E%9C%E6%8C%82%E4%BB%B6%E5%AE%9E%E7%89%A9%E5%9B%BE1.jpg/506px-%E5%94%AF%E5%BF%83%E4%B8%BB%E4%B9%89idealism%EF%BC%8F%E7%81%B5%E6%A2%A6%E5%85%85%E6%B0%94%E7%B3%96%E6%9E%9C%E6%8C%82%E4%BB%B6%E5%AE%9E%E7%89%A9%E5%9B%BE1.jpg 2x" data-file-width="2592" data-file-height="3840"> 
 
 
 ## Staff
@@ -45,11 +38,7 @@
 策划
 : little_five
 
-
 ## 评论
-
-
-
 
 ---
 

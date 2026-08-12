@@ -1,6 +1,6 @@
 # 文件:Eternal_Atonement封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\44\ns6%3AEternal_Atonement%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\44\ns6%3AEternal_Atonement%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Colorful_Umbrella | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Colorful_Umbrella | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Eternal Atonement](./Eternal_Atonement.md)  
-该封面包含的角色：- [藤原妹红](./藤原妹红.md)
-
-
-
+- [Eternal Atonement](./Eternal_Atonement.md)该封面包含的角色：
+- [藤原妹红](./藤原妹红.md)
 
 
 ---

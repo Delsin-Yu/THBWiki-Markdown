@@ -1,6 +1,6 @@
 # 文件:Extended_Play_2015封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9b\ns6%3AExtended_Play_2015%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9b\ns6%3AExtended_Play_2015%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 at_the_mercy_of_sounds | 专辑封面 | 封面图片
 
@@ -13,12 +13,7 @@ at_the_mercy_of_sounds | 专辑封面 | 封面图片
 - [Extended Play 2015](./Extended_Play_2015.md)
 
   
-源地址：[suruga-ya](https://www.suruga-ya.jp/database/pics_light/game/186149506.jpg)
-  
-
-
-
-
+源地址：[suruga-ya](https://www.suruga-ya.jp/database/pics_light/game/186149506.jpg)  
 
 ---
 

@@ -1,14 +1,11 @@
 # 文件:Netcavy_Recordslogo.jpeg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f8\ns6%3ANetcavy_Recordslogo%2Ejpeg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f8\ns6%3ANetcavy_Recordslogo%2Ejpeg.html -->
 
 Netcavy_Records | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

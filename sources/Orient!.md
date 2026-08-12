@@ -1,12 +1,11 @@
 # Orient!
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\28\ns0%3AOrient%21.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\28\ns0%3AOrient%21.html -->
 
 2019年9月13日 由 颠神探女  发布的单曲同人专辑，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人专辑 (未找到链接)** 的词条
-
+**[二次创作同人专辑](./二次创作.md#同人音乐)**的词条
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Orient!封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/6/6c/Orient%21%E5%B0%81%E9%9D%A2.jpg/196px-Orient%21%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="196" height="196" srcset="https://upload.thwiki.cc/thumb/6/6c/Orient%21%E5%B0%81%E9%9D%A2.jpg/294px-Orient%21%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/6/6c/Orient%21%E5%B0%81%E9%9D%A2.jpg/392px-Orient%21%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="660" data-file-height="660"></a><div class="cover-char">角色：<a href="./射命丸文.md" title="射命丸文">射命丸文</a>，<a href="./犬走椛.md" title="犬走椛">犬走椛</a>，<a href="./玛艾露贝莉·赫恩.md" title="玛艾露贝莉·赫恩">玛艾露贝莉·赫恩</a>，<a href="./宇佐见莲子.md" title="宇佐见莲子">宇佐见莲子</a></div></td>
@@ -15,13 +14,11 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://music.163.com/#/album?id=81516480">https://music.163.com/#/album?id=81516480</a></td></tr></tbody></table>
 
 Orient!（同人专辑，颠神探女，2019） - 2019年9月13日 由 颠神探女  发布的单曲同人专辑，分级为 一般向
-
 ## Staff
   
- **Arrangement**   
+**Arrangement**  
 
 <table><tbody><tr><td><a href="./颠神探女.md" title="颠神探女">颠神探女</a></td><td></td><td>Tr.1</td></tr></tbody></table>
-
 
 
 ## 试听
@@ -29,17 +26,12 @@ Orient!（同人专辑，颠神探女，2019） - 2019年9月13日 由 颠神探
 暂不支援此类型
   
 
-
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Orient!" colspan="2" class="title">Orient!<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=颠神探女&amp;ogmusic=妖怪モダンコロニー&amp;fromwiki=Orient!"><span title="搜索相似同人曲"></span></a></span></td><td class="time">01:41</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./颠神探女.md" title="颠神探女">颠神探女</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，颠神探女&amp;fromwiki=Orient!"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">初发布</td><td class="text" colspan="2"><a href="./分类-初发布信息不明的同人作品.md" title="分类:初发布信息不明的同人作品">未知曲目</a>：<hr><a href="/index.php?title=%E9%95%BF%E6%B2%99THO%E7%BA%AA%E5%BF%B5CD%EF%BC%88%E9%A2%A0%E7%A5%9E%E6%8E%A2%E5%A5%B3%EF%BC%89&amp;action=edit&amp;redlink=1" class="new" title="长沙THO纪念CD（颠神探女）（页面不存在）">Orient!</a><div class="source"><a href="/index.php?title=%E9%95%BF%E6%B2%99THO%E7%BA%AA%E5%BF%B5CD%EF%BC%88%E9%A2%A0%E7%A5%9E%E6%8E%A2%E5%A5%B3%EF%BC%89&amp;action=edit&amp;redlink=1" class="new" title="长沙THO纪念CD（颠神探女）（页面不存在）" unred="">长沙THO纪念CD（颠神探女）</a></div></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=妖怪モダンコロニー&amp;fromwiki=Orient!"><span></span></a></span><div class="ogmusic"><a href="./妖怪モダンコロニー.md" class="mw-redirect" title="妖怪モダンコロニー">妖怪モダンコロニー</a></div><div class="source"><a href="./Double_Spoiler_～_东方文花帖.md" class="mw-redirect" title="Double Spoiler ～ 东方文花帖">Double Spoiler　～ 东方文花帖</a></div></td></tr></tbody></table>
-
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Orient!" colspan="2" class="title">Orient!</td><td class="time">01:41</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./颠神探女.md" title="颠神探女">颠神探女</a></td></tr><tr><td class="left"></td><td class="label">初发布</td><td class="text" colspan="2"><a href="./分类-初发布信息不明的同人作品.md" title="分类:初发布信息不明的同人作品">未知曲目</a>：<hr><a class="new" title="长沙THO纪念CD（颠神探女）（页面不存在）">Orient!</a><div class="source"><a class="new" title="长沙THO纪念CD（颠神探女）（页面不存在）" unred="">长沙THO纪念CD（颠神探女）</a></div></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./现代妖怪殖民地.md" class="mw-redirect" title="妖怪モダンコロニー">妖怪モダンコロニー</a></div><div class="source"><a href="./东方文花帖DS.md" class="mw-redirect" title="Double Spoiler ～ 东方文花帖">Double Spoiler　～ 东方文花帖</a></div></td></tr></tbody></table>
 
 
 ## 评论
-
-
-
 
 ---
 

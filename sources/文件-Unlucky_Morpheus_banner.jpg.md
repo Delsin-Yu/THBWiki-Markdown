@@ -1,12 +1,8 @@
 # 文件:Unlucky_Morpheus_banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\02\ns6%3AUnlucky_Morpheus_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\02\ns6%3AUnlucky_Morpheus_banner%2Ejpg.html -->
 
 Unlucky_Morpheus | 社团LOGO
-
-
-
-
 
 
 ---

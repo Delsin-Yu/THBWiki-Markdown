@@ -1,6 +1,6 @@
 # 文件:SATORI-EYE封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\da\ns6%3ASATORI-EYE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\da\ns6%3ASATORI-EYE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 HOTOKE＿PARTY | 同人志封面 | 封面图片
 
@@ -10,16 +10,12 @@ HOTOKE＿PARTY | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [SATORI-EYE](./SATORI-EYE.md)  
-该封面包含的角色：- [古明地觉](./古明地觉.md)- [古明地恋](./古明地恋.md)
+- [SATORI-EYE](./SATORI-EYE.md)该封面包含的角色：
+- [古明地觉](./古明地觉.md)
+- [古明地恋](./古明地恋.md)
 
   
-[Pixiv artwork ID: 104216410](https://www.pixiv.net/artworks/104216410)
-  
-
-
-
-
+[Pixiv artwork ID: 104216410](https://www.pixiv.net/artworks/104216410)  
 
 ---
 

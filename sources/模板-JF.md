@@ -1,16 +1,12 @@
 # 模板:JF
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\f\f1\ns10%3AJF.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\f\f1\ns10%3AJF.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

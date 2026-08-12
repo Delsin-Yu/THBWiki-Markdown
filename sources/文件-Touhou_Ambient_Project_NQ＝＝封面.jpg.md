@@ -1,6 +1,6 @@
 # 文件:Touhou_Ambient_Project_NQ＝＝封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\12\ns6%3ATouhou_Ambient_Project_NQ%EF%BC%9D%EF%BC%9D%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\12\ns6%3ATouhou_Ambient_Project_NQ%EF%BC%9D%EF%BC%9D%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Stas_Gavrik | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Stas_Gavrik | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Touhou Ambient Project NQ＝＝](./Touhou_Ambient_Project_NQ＝＝.md)  
-该封面包含的角色：- [哆来咪·苏伊特](./哆来咪·苏伊特.md)
+- [Touhou Ambient Project NQ＝＝](./Touhou_Ambient_Project_NQ＝＝.md)该封面包含的角色：
+- [哆来咪·苏伊特](./哆来咪·苏伊特.md)
 
   
-源地址：[[1]](https://f4.bcbits.com/img/a0170062781_10.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://f4.bcbits.com/img/a0170062781_10.jpg)  
 
 ---
 

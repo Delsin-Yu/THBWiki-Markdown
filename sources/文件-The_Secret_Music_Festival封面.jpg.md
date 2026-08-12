@@ -1,6 +1,6 @@
 # 文件:The_Secret_Music_Festival封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\da\ns6%3AThe_Secret_Music_Festival%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\da\ns6%3AThe_Secret_Music_Festival%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Lycoris_Sound | 专辑封面 | 封面图片
 
@@ -8,16 +8,21 @@ Lycoris_Sound | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [The Secret Music Festival](./The_Secret_Music_Festival.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)- [琪露诺](./琪露诺.md)- [红美铃](./红美铃.md)- 十六夜咲夜 (未找到链接)- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [八云紫](./八云紫.md)- [射命丸文](./射命丸文.md)- [小野塚小町](./小野塚小町.md)- [灵乌路空](./灵乌路空.md)- [宫古芳香](./宫古芳香.md)
+- [The Secret Music Festival](./The_Secret_Music_Festival.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
+- [琪露诺](./琪露诺.md)
+- [红美铃](./红美铃.md)
+- [十六夜咲夜](./十六夜咲夜.md)
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [八云紫](./八云紫.md)
+- [射命丸文](./射命丸文.md)
+- [小野塚小町](./小野塚小町.md)
+- [灵乌路空](./灵乌路空.md)
+- [宫古芳香](./宫古芳香.md)
 
   
-源地址：[[1]](https://f4.bcbits.com/img/a0315946765_10.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://f4.bcbits.com/img/a0315946765_10.jpg)  
 
 ---
 

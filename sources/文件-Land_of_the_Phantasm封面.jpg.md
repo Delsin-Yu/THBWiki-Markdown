@@ -1,6 +1,6 @@
 # 文件:Land_of_the_Phantasm封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2c\ns6%3ALand_of_the_Phantasm%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2c\ns6%3ALand_of_the_Phantasm%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ロリコンの地位向上 | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Land of the Phantasm](./Land_of_the_Phantasm.md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)
-
-
-
+- [Land of the Phantasm](./Land_of_the_Phantasm.md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
 
 
 ---

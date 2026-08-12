@@ -1,14 +1,11 @@
 # 文件:东方灵守祀st3.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d9\ns6%3A%E4%B8%9C%E6%96%B9%E7%81%B5%E5%AE%88%E7%A5%80st3%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d9\ns6%3A%E4%B8%9C%E6%96%B9%E7%81%B5%E5%AE%88%E7%A5%80st3%2Ejpg.html -->
 
 只鹳狸药堂
 
 
 ## 文件说明
-
-
-
 
 ---
 

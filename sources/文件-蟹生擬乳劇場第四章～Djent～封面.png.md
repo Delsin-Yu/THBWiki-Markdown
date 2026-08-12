@@ -1,6 +1,6 @@
 # 文件:蟹生擬乳劇場第四章～Djent～封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\25\ns6%3A%E8%9F%B9%E7%94%9F%E6%93%AC%E4%B9%B3%E5%8A%87%E5%A0%B4%E7%AC%AC%E5%9B%9B%E7%AB%A0%EF%BD%9EDjent%EF%BD%9E%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\25\ns6%3A%E8%9F%B9%E7%94%9F%E6%93%AC%E4%B9%B3%E5%8A%87%E5%A0%B4%E7%AC%AC%E5%9B%9B%E7%AB%A0%EF%BD%9EDjent%EF%BD%9E%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 かにくりいむ☆ちょこころね | 专辑封面 | 封面图片
 
@@ -10,16 +10,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [蟹生擬乳劇場第四章～Djent～](./蟹生擬乳劇場第四章～Djent～.md)  
-该封面包含的角色：- [八云蓝](./八云蓝.md)- [八云紫](./八云紫.md)
+- [蟹生擬乳劇場第四章～Djent～](./蟹生擬乳劇場第四章～Djent～.md)该封面包含的角色：
+- [八云蓝](./八云蓝.md)
+- [八云紫](./八云紫.md)
 
   
-源地址：[图片链接](https://static.wixstatic.com/media/5a64c6_23fe755dc77548dd8af7f17b5bedd98e~mv2_d_2650_2549_s_4_2.png) [官网页面](https://www.kanicream-chococornet.com/kaninews28)
-  
-
-
-
-
+源地址：[图片链接](https://static.wixstatic.com/media/5a64c6_23fe755dc77548dd8af7f17b5bedd98e~mv2_d_2650_2549_s_4_2.png) [官网页面](https://www.kanicream-chococornet.com/kaninews28)  
 
 ---
 

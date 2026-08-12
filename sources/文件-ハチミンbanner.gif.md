@@ -1,12 +1,8 @@
 # 文件:ハチミンbanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\82\ns6%3A%E3%83%8F%E3%83%81%E3%83%9F%E3%83%B3banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\82\ns6%3A%E3%83%8F%E3%83%81%E3%83%9F%E3%83%B3banner%2Egif.html -->
 
 ハチミン | 社团LOGO
-
-
-
-
 
 
 ---

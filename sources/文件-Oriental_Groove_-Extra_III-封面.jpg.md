@@ -1,6 +1,6 @@
 # 文件:Oriental_Groove_-Extra_III-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\92\ns6%3AOriental_Groove_-Extra_III-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\92\ns6%3AOriental_Groove_-Extra_III-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Sound_crew-I'll- | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Sound_crew-I'll- | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Oriental Groove -Extra III-](./Oriental_Groove_-Extra_III-.md)  
-该封面包含的角色：- [物部布都](./物部布都.md)
-
-
-
+- [Oriental Groove -Extra III-](./Oriental_Groove_-Extra_III-.md)该封面包含的角色：
+- [物部布都](./物部布都.md)
 
 
 ---

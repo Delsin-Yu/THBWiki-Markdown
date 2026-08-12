@@ -1,6 +1,6 @@
 # 文件:miniature_garden封面.jpeg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4b\ns6%3Aminiature_garden%E5%B0%81%E9%9D%A2%2Ejpeg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4b\ns6%3Aminiature_garden%E5%B0%81%E9%9D%A2%2Ejpeg.html -->
 
 专辑封面 | 封面图片 | 群雨アンブレイラ
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [miniature garden](./miniature_garden.md)  
-该封面包含的角色：- [东风谷早苗](./东风谷早苗.md)
-
-
-
+- [miniature garden](./miniature_garden.md)该封面包含的角色：
+- [东风谷早苗](./东风谷早苗.md)
 
 
 ---

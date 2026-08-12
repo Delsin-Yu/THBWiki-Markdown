@@ -1,6 +1,6 @@
 # 文件:東方バイオリンロック_氷-KORI-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6f\ns6%3A%E6%9D%B1%E6%96%B9%E3%83%90%E3%82%A4%E3%82%AA%E3%83%AA%E3%83%B3%E3%83%AD%E3%83%83%E3%82%AF_%E6%B0%B7-KORI-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6f\ns6%3A%E6%9D%B1%E6%96%B9%E3%83%90%E3%82%A4%E3%82%AA%E3%83%AA%E3%83%B3%E3%83%AD%E3%83%83%E3%82%AF_%E6%B0%B7-KORI-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 TAMUSIC | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ TAMUSIC | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方バイオリンロック 氷-KORI-](./東方バイオリンロック_氷-KORI-.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)
+- [東方バイオリンロック 氷-KORI-](./東方バイオリンロック_氷-KORI-.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
 
   
-源地址：[[1]](http://img.toranoana.jp/popup_img/04/0030/48/58/040030485891-1p.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://img.toranoana.jp/popup_img/04/0030/48/58/040030485891-1p.jpg)  
 
 ---
 

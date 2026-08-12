@@ -1,16 +1,12 @@
 # 模板:出行LIVE
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\1\14\ns10%3A%E5%87%BA%E8%A1%8CLIVE.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\1\14\ns10%3A%E5%87%BA%E8%A1%8CLIVE.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

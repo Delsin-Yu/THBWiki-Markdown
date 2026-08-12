@@ -1,6 +1,6 @@
 # 文件:Touhou_Artbook_by_Vietnamese_Artists封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\16\ns6%3ATouhou_Artbook_by_Vietnamese_Artists%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\16\ns6%3ATouhou_Artbook_by_Vietnamese_Artists%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Touhou_VN_Fanbase | 同人志封面 | 封面图片
 
@@ -11,9 +11,6 @@ Touhou_VN_Fanbase | 同人志封面 | 封面图片
   
 
 - [Touhou Artbook by Vietnamese Artists](./Touhou_Artbook_by_Vietnamese_Artists.md)
-
-
-
 
 
 ---

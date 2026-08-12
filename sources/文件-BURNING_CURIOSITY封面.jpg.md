@@ -1,6 +1,6 @@
 # 文件:BURNING_CURIOSITY封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\62\ns6%3ABURNING_CURIOSITY%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\62\ns6%3ABURNING_CURIOSITY%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ふあん亭 | 同人志封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [BURNING CURIOSITY](./BURNING_CURIOSITY.md)  
-该封面包含的角色：- [本居小铃](./本居小铃.md)
-
-
-
+- [BURNING CURIOSITY](./BURNING_CURIOSITY.md)该封面包含的角色：
+- [本居小铃](./本居小铃.md)
 
 
 ---

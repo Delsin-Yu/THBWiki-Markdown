@@ -1,6 +1,6 @@
 # 文件:NATSU_no_SAKAMORI封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8b\ns6%3ANATSU_no_SAKAMORI%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8b\ns6%3ANATSU_no_SAKAMORI%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 SWAY_WIND | 同人志封面 | 封面图片
 
@@ -10,16 +10,12 @@ SWAY_WIND | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [NATSU no SAKAMORI](./NATSU_no_SAKAMORI.md)  
-该封面包含的角色：- [因幡帝](./因幡帝.md)- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
+- [NATSU no SAKAMORI](./NATSU_no_SAKAMORI.md)该封面包含的角色：
+- [因幡帝](./因幡帝.md)
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
 
   
-[doujinshi.org: B834824](https://www.doujinshi.org/book/834824/NATSU-no-SAKENOMI/)
-  
-
-
-
-
+[doujinshi.org: B834824](https://www.doujinshi.org/book/834824/NATSU-no-SAKENOMI/)  
 
 ---
 

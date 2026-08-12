@@ -1,12 +1,8 @@
 # 文件:THD2衰人卡.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\ff\ns6%3ATHD2%E8%A1%B0%E4%BA%BA%E5%8D%A1%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\ff\ns6%3ATHD2%E8%A1%B0%E4%BA%BA%E5%8D%A1%2Epng.html -->
 
 THD2
-
-
-
-
 
 
 ---

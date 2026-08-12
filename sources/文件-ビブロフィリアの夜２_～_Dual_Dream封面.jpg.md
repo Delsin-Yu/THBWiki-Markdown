@@ -1,6 +1,6 @@
 # 文件:ビブロフィリアの夜２_～_Dual_Dream封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\68\ns6%3A%E3%83%93%E3%83%96%E3%83%AD%E3%83%95%E3%82%A3%E3%83%AA%E3%82%A2%E3%81%AE%E5%A4%9C%EF%BC%92_%EF%BD%9E_Dual_Dream%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\68\ns6%3A%E3%83%93%E3%83%96%E3%83%AD%E3%83%95%E3%82%A3%E3%83%AA%E3%82%A2%E3%81%AE%E5%A4%9C%EF%BC%92_%EF%BD%9E_Dual_Dream%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 スタジオネネム | 专辑封面 | 封面图片
 
@@ -8,11 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [ビブロフィリアの夜２ ～ Dual Dream](./ビブロフィリアの夜２_～_Dual_Dream.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)- [本居小铃](./本居小铃.md)- 原创角色 (未找到链接)
-
-
-
+- [ビブロフィリアの夜２ ～ Dual Dream](./ビブロフィリアの夜２_～_Dual_Dream.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
+- [本居小铃](./本居小铃.md)
+- 原创角色 (未找到链接)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:scarlet_for_the_maiden封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\28\ns6%3Ascarlet_for_the_maiden%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\28\ns6%3Ascarlet_for_the_maiden%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 味玉定食 | 封面图片
 
@@ -8,16 +8,14 @@
 使用了本文件作封面图片的作品：
   
 
-- [scarlet for the maiden](./scarlet_for_the_maiden.md)  
-该封面包含的角色：- [红美铃](./红美铃.md)- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)- 十六夜咲夜 (未找到链接)- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [scarlet for the maiden](./scarlet_for_the_maiden.md)该封面包含的角色：
+- [红美铃](./红美铃.md)
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
+- [十六夜咲夜](./十六夜咲夜.md)
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
   
-源地址：[[1]](http://ajitamateisyoku.web.fc2.com/img/sftm2.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://ajitamateisyoku.web.fc2.com/img/sftm2.jpg)  
 
 ---
 

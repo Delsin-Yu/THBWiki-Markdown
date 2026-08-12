@@ -1,12 +1,8 @@
 # 文件:ろまんすの猫狼娘banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7f\ns6%3A%E3%82%8D%E3%81%BE%E3%82%93%E3%81%99%E3%81%AE%E7%8C%AB%E7%8B%BC%E5%A8%98banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7f\ns6%3A%E3%82%8D%E3%81%BE%E3%82%93%E3%81%99%E3%81%AE%E7%8C%AB%E7%8B%BC%E5%A8%98banner%2Ejpg.html -->
 
 ろまんすの猫狼娘 | 社团LOGO
-
-
-
-
 
 
 ---

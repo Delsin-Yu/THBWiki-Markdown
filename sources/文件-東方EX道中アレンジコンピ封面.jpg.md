@@ -1,6 +1,6 @@
 # 文件:東方EX道中アレンジコンピ封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2a\ns6%3A%E6%9D%B1%E6%96%B9EX%E9%81%93%E4%B8%AD%E3%82%A2%E3%83%AC%E3%83%B3%E3%82%B8%E3%82%B3%E3%83%B3%E3%83%94%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2a\ns6%3A%E6%9D%B1%E6%96%B9EX%E9%81%93%E4%B8%AD%E3%82%A2%E3%83%AC%E3%83%B3%E3%82%B8%E3%82%B3%E3%83%B3%E3%83%94%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 マヨヒガレコーズ | 专辑封面 | 封面图片
 
@@ -8,12 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方EX道中アレンジコンピ](./東方EX道中アレンジコンピ.md)  
-该封面包含的角色：- [东风谷早苗](./东风谷早苗.md)源地址：[[1]](https://booth.pximg.net/c/620x620/ca56a833-67c9-4086-bde6-8a30e0a16457/i/851244/855388c7-2c8c-4a23-81d2-ddcbeedbabbc_base_resized.jpg)
-
-
-
-
+- [東方EX道中アレンジコンピ](./東方EX道中アレンジコンピ.md)该封面包含的角色：
+- [东风谷早苗](./东风谷早苗.md)
+源地址：[\[1\]](https://booth.pximg.net/c/620x620/ca56a833-67c9-4086-bde6-8a30e0a16457/i/851244/855388c7-2c8c-4a23-81d2-ddcbeedbabbc_base_resized.jpg)
 
 ---
 

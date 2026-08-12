@@ -1,6 +1,6 @@
 # 文件:記憶の彼方_-Under_the_Third_Layer-封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\17\ns6%3A%E8%A8%98%E6%86%B6%E3%81%AE%E5%BD%BC%E6%96%B9_-Under_the_Third_Layer-%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\17\ns6%3A%E8%A8%98%E6%86%B6%E3%81%AE%E5%BD%BC%E6%96%B9_-Under_the_Third_Layer-%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 洛水幻奏座
 
@@ -11,9 +11,6 @@
   
 
 - [記憶の彼方 -Under the Third Layer-](./記憶の彼方_-Under_the_Third_Layer-.md)
-
-
-
 
 
 ---

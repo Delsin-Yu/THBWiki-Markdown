@@ -1,6 +1,6 @@
 # 文件:th06_07_SC88Pro.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1c\ns6%3Ath06_07_SC88Pro%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1c\ns6%3Ath06_07_SC88Pro%2Emp3.html -->
 
 东方红魔乡 | 明治十七年的上海爱丽丝
 
@@ -9,12 +9,7 @@
   
 明治十七年の上海アリス 东方红魔乡3面Boss紅美鈴的主题曲MIDI版。由Roland Sound Canvas 88Pro实机录制；MP3采样率44.1KHz，码率192Kbps。  
 
-来源：[ZUN's MIDIs the way they were intended to be heard (100% COMPLETE)](https://www.shrinemaiden.org/forum/index.php/topic,18989.0.html)
-  
-
-
-
-
+来源：[ZUN's MIDIs the way they were intended to be heard (100% COMPLETE)](https://www.shrinemaiden.org/forum/index.php/topic,18989.0.html)  
 
 ---
 

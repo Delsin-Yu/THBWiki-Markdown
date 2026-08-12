@@ -1,6 +1,6 @@
 # 文件:Orbiter_-軌道船-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\98\ns6%3AOrbiter_-%E8%BB%8C%E9%81%93%E8%88%B9-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\98\ns6%3AOrbiter_-%E8%BB%8C%E9%81%93%E8%88%B9-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 waorlarts | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@ waorlarts | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Orbiter -軌道船-](./Orbiter_-軌道船-.md)  
-该封面包含的角色：- [上白泽慧音](./上白泽慧音.md)
+- [Orbiter -軌道船-](./Orbiter_-軌道船-.md)该封面包含的角色：
+- [上白泽慧音](./上白泽慧音.md)
 
   
-来源：[[1]](https://static.wixstatic.com/media/f5e029_25e086e2102c455b9f941bcf0e422849~mv2.jpg)
-  
-
-
-
-
+来源：[\[1\]](https://static.wixstatic.com/media/f5e029_25e086e2102c455b9f941bcf0e422849~mv2.jpg)  
 
 ---
 

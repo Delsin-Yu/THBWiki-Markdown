@@ -1,12 +1,8 @@
 # 文件:堀川雷鼓（辉针城立绘）sp.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f7\ns6%3A%E5%A0%80%E5%B7%9D%E9%9B%B7%E9%BC%93%EF%BC%88%E8%BE%89%E9%92%88%E5%9F%8E%E7%AB%8B%E7%BB%98%EF%BC%89sp%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f7\ns6%3A%E5%A0%80%E5%B7%9D%E9%9B%B7%E9%BC%93%EF%BC%88%E8%BE%89%E9%92%88%E5%9F%8E%E7%AB%8B%E7%BB%98%EF%BC%89sp%2Epng.html -->
 
 ZUN绘 | 东方辉针城 | 堀川雷鼓 | 官方游戏立绘
-
-
-
-
 
 
 ---

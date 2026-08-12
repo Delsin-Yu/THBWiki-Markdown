@@ -1,6 +1,6 @@
 # 文件:東方飛青海_~_Sanctuary_of_Sky_Ocean.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\27\ns6%3A%E6%9D%B1%E6%96%B9%E9%A3%9B%E9%9D%92%E6%B5%B7_%7E_Sanctuary_of_Sky_Ocean%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\27\ns6%3A%E6%9D%B1%E6%96%B9%E9%A3%9B%E9%9D%92%E6%B5%B7_%7E_Sanctuary_of_Sky_Ocean%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 燕晩春：求）時間配分
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方飛青海 ～ Sanctuary of Sky Ocean.](./東方飛青海_～_Sanctuary_of_Sky_Ocean..md)  
-该封面包含的角色：- [尼勒丝·艾斯莱特](./尼勒丝·艾斯莱特.md)
-
-
-
+- [東方飛青海 ～ Sanctuary of Sky Ocean.](./東方飛青海_～_Sanctuary_of_Sky_Ocean..md)该封面包含的角色：
+- [尼勒丝·艾斯莱特](./尼勒丝·艾斯莱特.md)
 
 
 ---

@@ -1,37 +1,21 @@
 # Ques_Q_/胸像/魂魄妖梦
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\d\dc\ns0%3AQues_Q_%2F%E8%83%B8%E5%83%8F%2F%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\d\dc\ns0%3AQues_Q_%2F%E8%83%B8%E5%83%8F%2F%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6.html -->
 
 魂魄妖梦PVCFigure手办模型
 
 本页是关于东方Project  
- **相关实体周边 (未找到链接)** 的词条
-
+**相关实体周边 (未找到链接)**的词条
 ## 模型信息
 
-<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 魂魄妖梦 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>胸像</td></tr><tr><td class="label">角色</td><td><a href="./魂魄妖梦.md" title="魂魄妖梦">魂魄妖梦</a></td></tr><tr><td class="label">原型师</td><td><a href="/index.php?title=ZASH&amp;action=edit&amp;redlink=1" class="new" title="ZASH（页面不存在）">ZASH</a></td></tr><tr><td class="label">比例</td><td>1/6</td></tr><tr><td class="label">尺寸</td><td>90mm</td></tr><tr><td class="label">状态</td><td>已发售</td></tr><tr><td class="label">售价</td><td>3360日元</td></tr><tr><td class="label">首发日期</td><td>2009-10</td></tr><tr><td class="label">发售方</td><td><a href="/index.php?title=Ques_Q&amp;action=edit&amp;redlink=1" class="new" title="Ques Q（页面不存在）">Ques Q</a></td></tr><tr><td class="label">官网页面</td><td><a rel="nofollow" class="external free" href="http://www.quesq.net/">http://www.quesq.net/</a></td></tr></tbody></table>
+<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 魂魄妖梦 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>胸像</td></tr><tr><td class="label">角色</td><td><a href="./魂魄妖梦.md" title="魂魄妖梦">魂魄妖梦</a></td></tr><tr><td class="label">原型师</td><td><a class="new" title="ZASH（页面不存在）">ZASH</a></td></tr><tr><td class="label">比例</td><td>1/6</td></tr><tr><td class="label">尺寸</td><td>90mm</td></tr><tr><td class="label">状态</td><td>已发售</td></tr><tr><td class="label">售价</td><td>3360日元</td></tr><tr><td class="label">首发日期</td><td>2009-10</td></tr><tr><td class="label">发售方</td><td><a class="new" title="Ques Q（页面不存在）">Ques Q</a></td></tr><tr><td class="label">官网页面</td><td><a rel="nofollow" class="external free" href="http://www.quesq.net/">http://www.quesq.net/</a></td></tr></tbody></table>
 
 Ques Q /胸像/魂魄妖梦（周边） - 魂魄妖梦PVCFigure手办模型
-
 ## 参考图片
-
-
-
-[](./文件-Ques_Q_胸像魂魄妖梦-1.jpg.md)
-
-
-[](./文件-Ques_Q_胸像魂魄妖梦-2.jpg.md)
-
-
-[](./文件-Ques_Q_胸像魂魄妖梦-3.jpg.md)
-
+<img alt="Ques Q 胸像魂魄妖梦" src="https://upload.thwiki.cc/thumb/5/5d/Ques_Q_%E8%83%B8%E5%83%8F%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6-1.jpg/160px-Ques_Q_%E8%83%B8%E5%83%8F%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6-1.jpg" decoding="async" loading="lazy" width="160" height="240" srcset="https://upload.thwiki.cc/thumb/5/5d/Ques_Q_%E8%83%B8%E5%83%8F%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6-1.jpg/240px-Ques_Q_%E8%83%B8%E5%83%8F%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6-1.jpg 1.5x, https://upload.thwiki.cc/5/5d/Ques_Q_%E8%83%B8%E5%83%8F%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6-1.jpg 2x" data-file-width="280" data-file-height="420">
+<img alt="Ques Q 胸像魂魄妖梦" src="https://upload.thwiki.cc/thumb/3/3e/Ques_Q_%E8%83%B8%E5%83%8F%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6-2.jpg/160px-Ques_Q_%E8%83%B8%E5%83%8F%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6-2.jpg" decoding="async" loading="lazy" width="160" height="240" srcset="https://upload.thwiki.cc/thumb/3/3e/Ques_Q_%E8%83%B8%E5%83%8F%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6-2.jpg/240px-Ques_Q_%E8%83%B8%E5%83%8F%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6-2.jpg 1.5x, https://upload.thwiki.cc/3/3e/Ques_Q_%E8%83%B8%E5%83%8F%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6-2.jpg 2x" data-file-width="280" data-file-height="420">
+<img alt="Ques Q 胸像魂魄妖梦" src="https://upload.thwiki.cc/thumb/2/25/Ques_Q_%E8%83%B8%E5%83%8F%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6-3.jpg/160px-Ques_Q_%E8%83%B8%E5%83%8F%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6-3.jpg" decoding="async" loading="lazy" width="160" height="240" srcset="https://upload.thwiki.cc/thumb/2/25/Ques_Q_%E8%83%B8%E5%83%8F%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6-3.jpg/240px-Ques_Q_%E8%83%B8%E5%83%8F%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6-3.jpg 1.5x, https://upload.thwiki.cc/2/25/Ques_Q_%E8%83%B8%E5%83%8F%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6-3.jpg 2x" data-file-width="280" data-file-height="420">
 公式图
-
-
-
-
-
-
 
 ---
 

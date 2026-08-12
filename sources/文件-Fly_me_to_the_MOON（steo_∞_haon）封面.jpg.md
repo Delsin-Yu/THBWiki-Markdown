@@ -1,6 +1,6 @@
 # 文件:Fly_me_to_the_MOON（steo_∞_haon）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\af\ns6%3AFly_me_to_the_MOON%EF%BC%88steo_%E2%88%9E_haon%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\af\ns6%3AFly_me_to_the_MOON%EF%BC%88steo_%E2%88%9E_haon%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 steo_∞_haon | 同人志封面 | 封面图片
 
@@ -10,16 +10,13 @@ steo_∞_haon | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Fly me to the MOON（steo ∞ haon）](./Fly_me_to_the_MOON（steo_∞_haon）.md)  
-该封面包含的角色：- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)- [蓬莱山辉夜](./蓬莱山辉夜.md)- [纯狐](./纯狐.md)
+- [Fly me to the MOON（steo ∞ haon）](./Fly_me_to_the_MOON（steo_∞_haon）.md)该封面包含的角色：
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
+- [蓬莱山辉夜](./蓬莱山辉夜.md)
+- [纯狐](./纯狐.md)
 
   
-[Pixiv artwork ID: 77204186](https://www.pixiv.net/artworks/77204186)
-  
-
-
-
-
+[Pixiv artwork ID: 77204186](https://www.pixiv.net/artworks/77204186)  
 
 ---
 

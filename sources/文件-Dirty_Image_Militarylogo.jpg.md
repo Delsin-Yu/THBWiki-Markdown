@@ -1,16 +1,12 @@
 # 文件:Dirty_Image_Militarylogo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\39\ns6%3ADirty_Image_Militarylogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\39\ns6%3ADirty_Image_Militarylogo%2Ejpg.html -->
 
 Dirty_Image_Military | 社团LOGO
 
   
-源地址：[[1]](https://i1.sndcdn.com/avatars-000435689079-gkdvd6-t500x500.jpg) ([soundcloud source](https://soundcloud.com/dirtyimagemilitary))
+源地址：[\[1\]](https://i1.sndcdn.com/avatars-000435689079-gkdvd6-t500x500.jpg) ([soundcloud source](https://soundcloud.com/dirtyimagemilitary))
   
-
-
-
-
 
 ---
 

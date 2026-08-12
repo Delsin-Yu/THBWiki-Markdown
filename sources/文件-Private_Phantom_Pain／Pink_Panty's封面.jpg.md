@@ -1,6 +1,6 @@
 # 文件:Private_Phantom_Pain／Pink_Panty's封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1c\ns6%3APrivate_Phantom_Pain%EF%BC%8FPink_Panty%27s%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1c\ns6%3APrivate_Phantom_Pain%EF%BC%8FPink_Panty%27s%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 太田ユリ | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Private Phantom Pain／Pink Panty's](./Private_Phantom_Pain／Pink_Panty's.md)  
-该封面包含的角色：- [物部布都](./物部布都.md)
-
-
-
+- [Private Phantom Pain／Pink Panty's](./Private_Phantom_Pain／Pink_Panty's.md)该封面包含的角色：
+- [物部布都](./物部布都.md)
 
 
 ---

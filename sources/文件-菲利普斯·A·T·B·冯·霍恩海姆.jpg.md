@@ -1,12 +1,8 @@
 # 文件:菲利普斯·A·T·B·冯·霍恩海姆.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1a\ns6%3A%E8%8F%B2%E5%88%A9%E6%99%AE%E6%96%AF%C2%B7A%C2%B7T%C2%B7B%C2%B7%E5%86%AF%C2%B7%E9%9C%8D%E6%81%A9%E6%B5%B7%E5%A7%86%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1a\ns6%3A%E8%8F%B2%E5%88%A9%E6%99%AE%E6%96%AF%C2%B7A%C2%B7T%C2%B7B%C2%B7%E5%86%AF%C2%B7%E9%9C%8D%E6%81%A9%E6%B5%B7%E5%A7%86%2Ejpg.html -->
 
 二次角色立绘 | 林檎ノスケ | 菲利普斯·A·T·B·冯·霍恩海姆
-
-
-
-
 
 
 ---

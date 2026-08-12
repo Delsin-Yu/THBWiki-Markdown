@@ -1,6 +1,6 @@
 # 文件:東方高三錄_-_The_Euphony_of_Senior_Highschoolers封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\66\ns6%3A%E6%9D%B1%E6%96%B9%E9%AB%98%E4%B8%89%E9%8C%84_-_The_Euphony_of_Senior_Highschoolers%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\66\ns6%3A%E6%9D%B1%E6%96%B9%E9%AB%98%E4%B8%89%E9%8C%84_-_The_Euphony_of_Senior_Highschoolers%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Go3R | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Go3R | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方高三錄 - The Euphony of Senior Highschoolers](./東方高三錄_-_The_Euphony_of_Senior_Highschoolers.md)  
-该封面包含的角色：- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
-
-
-
+- [東方高三錄 - The Euphony of Senior Highschoolers](./東方高三錄_-_The_Euphony_of_Senior_Highschoolers.md)该封面包含的角色：
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
 
 
 ---

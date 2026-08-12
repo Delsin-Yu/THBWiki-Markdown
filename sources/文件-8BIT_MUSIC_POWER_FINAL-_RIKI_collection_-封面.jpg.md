@@ -1,12 +1,8 @@
 # 文件:8BIT_MUSIC_POWER_FINAL-_RIKI_collection_-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\aa\ns6%3A8BIT_MUSIC_POWER_FINAL-_RIKI_collection_-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\aa\ns6%3A8BIT_MUSIC_POWER_FINAL-_RIKI_collection_-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 8BIT_MUSIC_POWER_FINAL
-
-
-
-
 
 
 ---

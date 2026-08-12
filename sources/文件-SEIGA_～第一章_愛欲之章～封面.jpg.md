@@ -1,6 +1,6 @@
 # 文件:SEIGA_～第一章_愛欲之章～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\76\ns6%3ASEIGA_%EF%BD%9E%E7%AC%AC%E4%B8%80%E7%AB%A0_%E6%84%9B%E6%AC%B2%E4%B9%8B%E7%AB%A0%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\76\ns6%3ASEIGA_%EF%BD%9E%E7%AC%AC%E4%B8%80%E7%AB%A0_%E6%84%9B%E6%AC%B2%E4%B9%8B%E7%AB%A0%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Ulka_Graphy | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@ Ulka_Graphy | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [SEIGA ～第一章 愛欲之章～](./SEIGA_～第一章_愛欲之章～.md)  
-该封面包含的角色：- [霍青娥](./霍青娥.md)
-
-
-
+- [SEIGA ～第一章 愛欲之章～](./SEIGA_～第一章_愛欲之章～.md)该封面包含的角色：
+- [霍青娥](./霍青娥.md)
 
 
 ---

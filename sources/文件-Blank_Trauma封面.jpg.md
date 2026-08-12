@@ -1,6 +1,6 @@
 # 文件:Blank_Trauma封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fc\ns6%3ABlank_Trauma%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fc\ns6%3ABlank_Trauma%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 BamBoO₂ノVOICE | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@ BamBoO₂ノVOICE | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Blank Trauma](./Blank_Trauma.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [Blank Trauma](./Blank_Trauma.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
   
-源地址：[direct image link](https://cdn.dizzylab.net/media/cover/BBOV-03.jpg), [from circle Dizzylab](https://www.dizzylab.net/d/BBOV-03/)
-  
-
-
-
-
+源地址：[direct image link](https://cdn.dizzylab.net/media/cover/BBOV-03.jpg), [from circle Dizzylab](https://www.dizzylab.net/d/BBOV-03/)  
 
 ---
 

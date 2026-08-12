@@ -1,16 +1,11 @@
 # 文件:Neo_Fictionbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\51\ns6%3ANeo_Fictionbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\51\ns6%3ANeo_Fictionbanner%2Epng.html -->
 
 Neo_Fiction | 社团LOGO
 
   
-源地址：[[1]](https://static.wixstatic.com/media/f9031a_46618a798511a9e5ea13821f62080a14.png/v1/fill/w_85,h_55,al_c,usm_0.66_1.00_0.01/f9031a_46618a798511a9e5ea13821f62080a14.png)
-  
-
-
-
-
+源地址：[\[1\]](https://static.wixstatic.com/media/f9031a_46618a798511a9e5ea13821f62080a14.png/v1/fill/w_85,h_55,al_c,usm_0.66_1.00_0.01/f9031a_46618a798511a9e5ea13821f62080a14.png)  
 
 ---
 

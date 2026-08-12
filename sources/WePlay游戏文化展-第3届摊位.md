@@ -1,20 +1,15 @@
 # WePlay游戏文化展/第3届摊位
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\a\aa\ns0%3AWePlay%E6%B8%B8%E6%88%8F%E6%96%87%E5%8C%96%E5%B1%95%2F%E7%AC%AC3%E5%B1%8A%E6%91%8A%E4%BD%8D.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\a\aa\ns0%3AWePlay%E6%B8%B8%E6%88%8F%E6%96%87%E5%8C%96%E5%B1%95%2F%E7%AC%AC3%E5%B1%8A%E6%91%8A%E4%BD%8D.html -->
 
 活动摊位列表
-
-  
-  
-
-  
 
 
 <table>
 
 <tbody><tr>
 <td><b>名称</b></td>
-<td><a href="/WePlay%E6%B8%B8%E6%88%8F%E6%96%87%E5%8C%96%E5%B1%95#3" title="WePlay游戏文化展">2019 WePlay游戏文化展</a>
+<td><a href="./WePlay游戏文化展.md#3" title="WePlay游戏文化展">2019 WePlay游戏文化展</a>
 </td></tr>
 <tr>
 <td><b>日期</b></td>
@@ -29,12 +24,11 @@
 <td>
 </td></tr></tbody></table>
 
-
- **摊位信息**   
+**摊位信息**  
 
 <table><tbody><tr><th>摊位编号</th><th>社团名称</th><th>官网页面</th><th>宣传页面</th><th>备注</th></tr><tr><td id="上海爱丽丝幻乐团">S区</td><td><a href="./上海爱丽丝幻乐团.md" title="上海爱丽丝幻乐团">上海爱丽丝幻乐团</a></td><td><a rel="nofollow" class="external text" href="https://www16.big.or.jp/~zun/">官网</a></td><td></td><td></td></tr>
-<tr><td id="神社社务所">博</td><td><a href="/index.php?title=%E7%A5%9E%E7%A4%BE%E7%A4%BE%E5%8A%A1%E6%89%80&amp;action=edit&amp;redlink=1" class="new" title="神社社务所（页面不存在）">神社社务所</a></td><td></td><td></td><td></td></tr>
-<tr><td id="Weplay东方区「东方Project·游戏幻想博览会」官方摊位">博-1</td><td><a href="/index.php?title=Weplay%E4%B8%9C%E6%96%B9%E5%8C%BA%E3%80%8C%E4%B8%9C%E6%96%B9Project%C2%B7%E6%B8%B8%E6%88%8F%E5%B9%BB%E6%83%B3%E5%8D%9A%E8%A7%88%E4%BC%9A%E3%80%8D%E5%AE%98%E6%96%B9%E6%91%8A%E4%BD%8D&amp;action=edit&amp;redlink=1" class="new" title="Weplay东方区「东方Project·游戏幻想博览会」官方摊位（页面不存在）">Weplay东方区「东方Project·游戏幻想博览会」官方摊位</a></td><td></td><td></td><td></td></tr>
+<tr><td id="神社社务所">博</td><td><a class="new" title="神社社务所（页面不存在）">神社社务所</a></td><td></td><td></td><td></td></tr>
+<tr><td id="Weplay东方区「东方Project·游戏幻想博览会」官方摊位">博-1</td><td><a class="new" title="Weplay东方区「东方Project·游戏幻想博览会」官方摊位（页面不存在）">Weplay东方区「东方Project·游戏幻想博览会」官方摊位</a></td><td></td><td></td><td></td></tr>
 <tr><td id="幻奏盛宴">博-2</td><td><a href="./幻奏盛宴.md" title="幻奏盛宴">幻奏盛宴</a></td><td><a rel="nofollow" class="external text" href="http://touhou-symphony.moe">官网</a><br><a rel="nofollow" class="external text" href="https://weibo.com/touhousymphony">微博</a></td><td></td><td></td></tr>
 <tr><td id="京都幻想剧团">博-3</td><td><a href="./京都幻想剧团.md" title="京都幻想剧团">京都幻想剧团</a></td><td><a rel="nofollow" class="external text" href="https://weibo.com/fantasytroupe">微博</a><br><a rel="nofollow" class="external text" href="https://twitter.com/fantasytroupe">Twitter</a><br><a rel="nofollow" class="external text" href="https://space.bilibili.com/12253">哔哩哔哩</a><br><a rel="nofollow" class="external text" href="https://kyotofantasytroupe.net/">官网</a></td><td></td><td></td></tr>
 <tr><td id="THB梦缘社">博-4</td><td><a href="./THB梦缘社.md" title="THB梦缘社">THB梦缘社</a></td><td><a rel="nofollow" class="external text" href="https://dream.thwiki.cc/">官网</a></td><td></td><td></td></tr>
@@ -46,12 +40,12 @@
 <tr><td id="过气废萌社团">丽-4</td><td><a href="./过气废萌社团.md" title="过气废萌社团">过气废萌社团</a></td><td><a rel="nofollow" class="external text" href="http://www.allcpp.cn/c/12980.do">官网</a><br><a rel="nofollow" class="external text" href="https://weibo.com/redreddd">微博</a></td><td></td><td>与<a href="./河外星系居酒屋.md" title="河外星系居酒屋">河外星系居酒屋</a>合摊</td></tr>
 <tr><td id="河外星系居酒屋">丽-5</td><td><a href="./河外星系居酒屋.md" title="河外星系居酒屋">河外星系居酒屋</a></td><td><a rel="nofollow" class="external text" href="http://doujin.bangumi.tv/club/anizakaya">官网</a><br><a rel="nofollow" class="external text" href="https://www.weibo.com/u/2583100830">微博</a><br><a rel="nofollow" class="external text" href="https://anizakaya.lofter.com/">官网</a></td><td></td><td>与<a href="./过气废萌社团.md" title="过气废萌社团">过气废萌社团</a>合摊</td></tr>
 <tr><td id="星月中枢站_StarryNightCentre">丽-6</td><td><a href="./星月中枢站_StarryNightCentre.md" title="星月中枢站 StarryNightCentre">星月中枢站</a></td><td><a rel="nofollow" class="external text" href="https://weibo.com/u/6663323453">微博</a></td><td></td><td></td></tr>
-<tr><td id="PaperyLadyland">丽-7</td><td><a href="./PaperyLadyland.md" title="PaperyLadyland">PaperyLadyland</a></td><td><a rel="nofollow" class="external text" href="https://weibo.com/paperyladyland">微博</a></td><td></td><td>与<a href="./秋空Agrotech.md" class="mw-redirect" title="秋空Agrotech">秋空Agrotech</a>合摊</td></tr>
+<tr><td id="PaperyLadyland">丽-7</td><td><a href="./PaperyLadyland.md" title="PaperyLadyland">PaperyLadyland</a></td><td><a rel="nofollow" class="external text" href="https://weibo.com/paperyladyland">微博</a></td><td></td><td>与<a href="./秋空アグロテック.md" class="mw-redirect" title="秋空Agrotech">秋空Agrotech</a>合摊</td></tr>
 <tr><td id="秋空アグロテック">丽-7</td><td><a href="./秋空アグロテック.md" title="秋空アグロテック">秋空Agrotech</a></td><td><a rel="nofollow" class="external text" href="https://weibo.com/u/6777366191">微博</a></td><td></td><td>与<a href="./PaperyLadyland.md" title="PaperyLadyland">PaperyLadyland</a>合摊</td></tr>
 <tr><td id="TouhouÜberAlles">丽-8</td><td><a href="./TouhouUberAlles.md" title="TouhouUberAlles" unred="">TouhouÜberAlles</a></td><td></td><td></td><td></td></tr>
 <tr><td id="狐灵薄Fox-Limbo">丽-9</td><td><a href="./狐灵薄Fox-Limbo.md" title="狐灵薄Fox-Limbo">狐灵薄Fox-Limbo</a></td><td><a rel="nofollow" class="external text" href="http://weibo.com/u/6296358933">微博</a></td><td></td><td></td></tr>
 <tr><td id="豚乙女">神-1</td><td><a href="./豚乙女.md" title="豚乙女">豚乙女</a></td><td><a rel="nofollow" class="external text" href="http://www.butaotome.com">官网</a><br><a rel="nofollow" class="external text" href="https://twitter.com/butaotome">Twitter</a><br><a rel="nofollow" class="external text" href="https://www.youtube.com/channel/UCliG2TPBFMc6zweohklZxFQ">Youtube</a></td><td></td><td></td></tr>
-<tr><td id="COOL&amp;CREATE">神-2</td><td><a href="./COOL&CREATE.md" title="COOL&amp;CREATE">COOL&amp;CREATE</a></td><td><a rel="nofollow" class="external text" href="http://cool-create.cc/">官网</a><br><a rel="nofollow" class="external text" href="https://www.youtube.com/channel/UClzpoRto1BJXaRGe9OkkGLQ">Youtube</a></td><td></td><td></td></tr>
+<tr><td id="COOL&amp;CREATE">神-2</td><td><a href="./COOL&CREATE.md" title="COOL&amp;CREATE">COOL&CREATE</a></td><td><a rel="nofollow" class="external text" href="http://cool-create.cc/">官网</a><br><a rel="nofollow" class="external text" href="https://www.youtube.com/channel/UClzpoRto1BJXaRGe9OkkGLQ">Youtube</a></td><td></td><td></td></tr>
 <tr><td id="Alstroemeria_Records">神-3</td><td><a href="./Alstroemeria_Records.md" title="Alstroemeria Records">Alstroemeria Records</a></td><td><a rel="nofollow" class="external text" href="http://alst.net/">官网</a><br><a rel="nofollow" class="external text" href="https://alr.booth.pm/">Booth</a></td><td></td><td></td></tr>
 <tr><td id="東京アクティブNEETs">神-4</td><td><a href="./東京アクティブNEETs.md" title="東京アクティブNEETs">东京ActiveNEETS</a></td><td><a rel="nofollow" class="external text" href="http://neets.tokyo/">官网</a><br><a rel="nofollow" class="external text" href="https://twitter.com/active_neets">Twitter</a><br><a rel="nofollow" class="external text" href="https://www.youtube.com/c/ActiveNEETs">Youtube</a></td><td></td><td></td></tr>
 <tr><td id="幽闭星光">神-5</td><td><a href="./幽闭星光.md" title="幽闭星光">幽闭星光</a></td><td><a rel="nofollow" class="external text" href="http://www.yuuhei-satellite.jp/">官网</a><br><a rel="nofollow" class="external text" href="https://space.bilibili.com/23052222">哔哩哔哩</a><br><a rel="nofollow" class="external text" href="https://twitter.com/Yuuka_st">Twitter</a><br><a rel="nofollow" class="external text" href="https://www.youtube.com/@yuuheitube2011">Youtube</a></td><td></td><td></td></tr>
@@ -74,10 +68,10 @@
 <tr><td id="幻响诗篇">社-12</td><td><a href="./幻响诗篇.md" title="幻响诗篇">幻响诗篇</a></td><td></td><td></td><td>与<a href="./NFT_conFuoco_orchestra.md" title="NFT conFuoco orchestra">NFT conFuoco orchestra</a>、<a href="./焦味芝麻糊.md" title="焦味芝麻糊">焦味芝麻糊</a>、<a href="./Scharlachrot_Kammermusik.md" title="Scharlachrot Kammermusik">Scharlachrot Kammermusik</a>合摊</td></tr>
 <tr><td id="焦味芝麻糊">社-12</td><td><a href="./焦味芝麻糊.md" title="焦味芝麻糊">焦味芝麻糊</a></td><td></td><td></td><td>与<a href="./NFT_conFuoco_orchestra.md" title="NFT conFuoco orchestra">NFT conFuoco orchestra</a>、<a href="./幻响诗篇.md" title="幻响诗篇">幻响诗篇</a>、<a href="./Scharlachrot_Kammermusik.md" title="Scharlachrot Kammermusik">Scharlachrot Kammermusik</a>合摊</td></tr>
 <tr><td id="Scharlachrot_Kammermusik">社-12</td><td><a href="./Scharlachrot_Kammermusik.md" title="Scharlachrot Kammermusik">Scharlachrot Kammermusik</a></td><td><a rel="nofollow" class="external text" href="https://weibo.com/u/6368777069">微博</a></td><td></td><td>与<a href="./NFT_conFuoco_orchestra.md" title="NFT conFuoco orchestra">NFT conFuoco orchestra</a>、<a href="./幻响诗篇.md" title="幻响诗篇">幻响诗篇</a>、<a href="./焦味芝麻糊.md" title="焦味芝麻糊">焦味芝麻糊</a>合摊</td></tr>
-<tr><td id="二维镜像">社-13，社-14</td><td><a href="./二维镜像.md" class="mw-redirect" title="二维镜像">二维镜像</a></td><td><a rel="nofollow" class="external text" href="http://2ndark.namidaame.com/">官网</a><br><a rel="nofollow" class="external text" href="http://weibo.com/niikyouzou">微博</a><br><a rel="nofollow" class="external text" href="https://space.bilibili.com/636723">哔哩哔哩</a></td><td></td><td></td></tr>
+<tr><td id="二维镜像">社-13，社-14</td><td><a href="./弐維鏡像.md" class="mw-redirect" title="二维镜像">二维镜像</a></td><td><a rel="nofollow" class="external text" href="http://2ndark.namidaame.com/">官网</a><br><a rel="nofollow" class="external text" href="http://weibo.com/niikyouzou">微博</a><br><a rel="nofollow" class="external text" href="https://space.bilibili.com/636723">哔哩哔哩</a></td><td></td><td></td></tr>
 <tr><td id="隙间月台">社-15</td><td><a href="./隙间月台.md" title="隙间月台">隙间月台</a></td><td><a rel="nofollow" class="external text" href="https://weibo.com/u/6764662231">微博</a></td><td></td><td></td></tr>
 <tr><td id="呆头笨六漫画">社-16</td><td><a href="./呆头笨六漫画.md" title="呆头笨六漫画">呆头笨六漫画</a></td><td><a rel="nofollow" class="external text" href="https://weibo.com/u/5834754601">微博</a></td><td></td><td></td></tr>
-<tr><td id="白玉家常小炒">社-17</td><td><a href="./白玉家常小炒.md" class="mw-redirect" title="白玉家常小炒">白玉家常小炒</a></td><td><a rel="nofollow" class="external text" href="https://weibo.com/u/6702105040">微博</a></td><td></td><td></td></tr>
+<tr><td id="白玉家常小炒">社-17</td><td><a href="./白玉家.md" class="mw-redirect" title="白玉家常小炒">白玉家常小炒</a></td><td><a rel="nofollow" class="external text" href="https://weibo.com/u/6702105040">微博</a></td><td></td><td></td></tr>
 <tr><td id="灿华幻梦">社-18</td><td><a href="./灿华幻梦.md" title="灿华幻梦">灿华幻梦</a></td><td><a rel="nofollow" class="external text" href="https://weibo.com/u/6778160330">微博</a><br><a rel="nofollow" class="external text" href="https://twitter.com/koakuma">Twitter</a></td><td></td><td></td></tr>
 <tr><td id="白楼印象">社-19</td><td><a href="./白楼印象.md" title="白楼印象">白楼印象</a></td><td><a rel="nofollow" class="external text" href="https://weibo.com/OSHX">微博</a><br><a rel="nofollow" class="external text" href="https://panmiestudio.taobao.com/">淘宝</a></td><td></td><td></td></tr>
 <tr><td id="幻梦缘起">社-20</td><td><a href="./幻梦缘起.md" title="幻梦缘起">幻梦缘起</a></td><td><a rel="nofollow" class="external text" href="http://weibo.com/u/5971410018">微博</a><br><a rel="nofollow" class="external text" href="https://space.bilibili.com/86142430">哔哩哔哩</a></td><td></td><td></td></tr>
@@ -89,11 +83,6 @@
 <tr><td id="醉梦笔笺">社-23</td><td><a href="./醉梦笔笺.md" title="醉梦笔笺">醉梦笔笺</a></td><td><a rel="nofollow" class="external text" href="https://weibo.com/u/5528004404">微博</a></td><td></td><td></td></tr>
 <tr><td id="幻想跃迁实验室">社-24</td><td><a href="./幻想跃迁实验室.md" title="幻想跃迁实验室">幻想跃迁实验室</a></td><td><a rel="nofollow" class="external text" href="https://weibo.com/u/6349819065">微博</a></td><td></td><td>与<a href="./Iris（同人社团）.md" title="Iris（同人社团）">Iris</a>合摊</td></tr>
 <tr><td id="Iris（同人社团）">社-24</td><td><a href="./Iris（同人社团）.md" title="Iris（同人社团）">Iris</a></td><td><a rel="nofollow" class="external text" href="https://weibo.com/p/1005057217509487">微博</a></td><td></td><td>与<a href="./幻想跃迁实验室.md" title="幻想跃迁实验室">幻想跃迁实验室</a>合摊</td></tr></tbody></table>
-
-
-
-
-
 
 
 ---

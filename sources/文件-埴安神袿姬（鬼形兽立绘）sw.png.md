@@ -1,12 +1,8 @@
 # 文件:埴安神袿姬（鬼形兽立绘）sw.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\27\ns6%3A%E5%9F%B4%E5%AE%89%E7%A5%9E%E8%A2%BF%E5%A7%AC%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89sw%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\27\ns6%3A%E5%9F%B4%E5%AE%89%E7%A5%9E%E8%A2%BF%E5%A7%AC%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89sw%2Epng.html -->
 
 ZUN绘 | 东方鬼形兽 | 埴安神袿姬 | 官方游戏立绘
-
-
-
-
 
 
 ---

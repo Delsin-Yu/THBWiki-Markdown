@@ -1,12 +1,8 @@
 # 文件:MILLIONbanner2.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\62\ns6%3AMILLIONbanner2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\62\ns6%3AMILLIONbanner2%2Ejpg.html -->
 
 MILLION | 社团LOGO
-
-
-
-
 
 
 ---

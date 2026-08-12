@@ -1,6 +1,6 @@
 # 文件:Chillout_condiment封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\60\ns6%3AChillout_condiment%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\60\ns6%3AChillout_condiment%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 S.C.X | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ S.C.X | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Chillout condiment](./Chillout_condiment.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)
+- [Chillout condiment](./Chillout_condiment.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
 
   
-源地址：[[1]](http://static.tumblr.com/a486b465a2655497968fc5116c26955d/vusmh3f/3ceogp473/tumblr_static_961bgxyhmc4c0gs84oswwc04w.png)
-  
-
-
-
-
+源地址：[\[1\]](http://static.tumblr.com/a486b465a2655497968fc5116c26955d/vusmh3f/3ceogp473/tumblr_static_961bgxyhmc4c0gs84oswwc04w.png)  
 
 ---
 

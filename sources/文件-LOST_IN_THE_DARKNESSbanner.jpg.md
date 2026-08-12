@@ -1,14 +1,11 @@
 # 文件:LOST_IN_THE_DARKNESSbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8f\ns6%3ALOST_IN_THE_DARKNESSbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8f\ns6%3ALOST_IN_THE_DARKNESSbanner%2Ejpg.html -->
 
 LOST_IN_THE_DARKNESS | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

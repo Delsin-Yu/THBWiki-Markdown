@@ -1,18 +1,13 @@
 # 文件:消灯現象logo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7b\ns6%3A%E6%B6%88%E7%81%AF%E7%8F%BE%E8%B1%A1logo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7b\ns6%3A%E6%B6%88%E7%81%AF%E7%8F%BE%E8%B1%A1logo%2Epng.html -->
 
 消灯現象 | 社团LOGO
 
 
 ## 摘要
   
-源地址：[direct image link (converted to png)](http://ktr.yukimizake.net/picture/logs.bmp), [source page](http://ktr.yukimizake.net)
-  
-
-
-
-
+源地址：[direct image link (converted to png)](http://ktr.yukimizake.net/picture/logs.bmp), [source page](http://ktr.yukimizake.net)  
 
 ---
 

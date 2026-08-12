@@ -1,51 +1,41 @@
 # instrumental
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\9\96\ns0%3Ainstrumental.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\9\96\ns0%3Ainstrumental.html -->
 
 2020年12月20日 由 T.H INDUSTRY 于 处处都是幻想乡SP1 发布的EP同人专辑，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人专辑 (未找到链接)** 的词条
-
+**[二次创作同人专辑](./二次创作.md#同人音乐)**的词条
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2">无封面</td>
 </tr><tr><td class="label">名称</td><td colspan="2"> instrumental </td></tr><tr><td class="label">制作方</td><td><a href="./T.H_INDUSTRY.md" title="T.H INDUSTRY">T.H INDUSTRY</a></td><td class="cover-artwork" rowspan="8" style="min-width:224px;">无封面</td>
-</tr><tr><td class="label">首发日期</td><td>2020-12-20&#160;（<a href="/展会作品列表?e=%E5%A4%84%E5%A4%84%E9%83%BD%E6%98%AF%E5%B9%BB%E6%83%B3%E4%B9%A1%23SP1">どこもかしこも幻想郷 in BS</a>）</td></tr><tr><td class="label">类型</td><td>EP</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>3</td></tr><tr><td class="label">总时长</td><td>00:00</td></tr><tr><td class="label">售价</td><td>会场售价：免费</td></tr>
+</tr><tr><td class="label">首发日期</td><td>2020-12-20 （<a href="./展会作品列表.md#SP1">どこもかしこも幻想郷 in BS</a>）</td></tr><tr><td class="label">类型</td><td>EP</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>3</td></tr><tr><td class="label">总时长</td><td>00:00</td></tr><tr><td class="label">售价</td><td>会场售价：免费</td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/touka610/status/1340336960162840576">https://twitter.com/touka610/status/1340336960162840576</a></td></tr></tbody></table>
 
 instrumental（同人专辑，T.H INDUSTRY，2020） - 2020年12月20日 由 T.H INDUSTRY 于 处处都是幻想乡SP1 发布的EP同人专辑，分级为 一般向
-
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://booth.pm/en/items/2615621">BoothDL</a></td></tr></tbody></table>
-
 
 
 ## Staff
   
- **Arrangement**   
+**Arrangement**  
 
-<table><tbody><tr><td><a href="/index.php?title=%E8%96%84%E6%9C%88%E6%A9%99%E8%8F%AF&amp;action=edit&amp;redlink=1" class="new" title="薄月橙華（页面不存在）">薄月橙華</a></td><td><a href="./T.H_INDUSTRY.md" title="T.H INDUSTRY">T.H INDUSTRY</a></td><td>Tr.1/2</td></tr><tr><td><a href="/index.php?title=%E3%81%82%E3%81%A5%E3%81%BE&amp;action=edit&amp;redlink=1" class="new" title="あづま（页面不存在）">あづま</a></td><td><a href="./T.H_INDUSTRY.md" title="T.H INDUSTRY">T.H INDUSTRY</a></td><td>Tr.2/3</td></tr></tbody></table>
-
+<table><tbody><tr><td><a class="new" title="薄月橙華（页面不存在）">薄月橙華</a></td><td><a href="./T.H_INDUSTRY.md" title="T.H INDUSTRY">T.H INDUSTRY</a></td><td>Tr.1/2</td></tr><tr><td><a class="new" title="あづま（页面不存在）">あづま</a></td><td><a href="./T.H_INDUSTRY.md" title="T.H INDUSTRY">T.H INDUSTRY</a></td><td>Tr.2/3</td></tr></tbody></table>
 
 
 ## 试听
   
-[Twitter XFD](https://twitter.com/touka610/status/1340336960162840576)
-  
-
+[Twitter XFD](https://twitter.com/touka610/status/1340336960162840576)  
 
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="冬桜" colspan="2" class="title">冬桜<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=薄月橙華&amp;ogmusic=無何有の郷　～ Deep Mountain&amp;fromwiki=instrumental"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E8%96%84%E6%9C%88%E6%A9%99%E8%8F%AF&amp;action=edit&amp;redlink=1" class="new" title="薄月橙華（页面不存在）">薄月橙華</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，薄月橙華&amp;fromwiki=instrumental"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">初发布</td><td class="text" colspan="2"><a href="/beginning%EF%BC%88T.H_INDUSTRY%EF%BC%89#2" title="beginning（T.H INDUSTRY）">冬桜</a><div class="source"><a href="./beginning（T.H_INDUSTRY）.md" title="beginning（T.H INDUSTRY）">beginning（T.H INDUSTRY）</a></div></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=無何有の郷　～ Deep Mountain&amp;fromwiki=instrumental"><span></span></a></span><div class="ogmusic"><a href="./無何有の郷_～_Deep_Mountain.md" class="mw-redirect" title="無何有の郷 ～ Deep Mountain">無何有の郷　～ Deep Mountain</a></div><div class="source"><a href="./东方妖妖梦_～_Perfect_Cherry_Blossom..md" class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr>
-<tr><td id="2" class="infoYD"><b>02</b></td><td id="Lost_River" colspan="2" class="title">Lost River<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=薄月橙華，あづま&amp;ogmusic=ロストリバー&amp;fromwiki=instrumental"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E8%96%84%E6%9C%88%E6%A9%99%E8%8F%AF&amp;action=edit&amp;redlink=1" class="new" title="薄月橙華（页面不存在）">薄月橙華</a>，<a href="/index.php?title=%E3%81%82%E3%81%A5%E3%81%BE&amp;action=edit&amp;redlink=1" class="new" title="あづま（页面不存在）">あづま</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，薄月橙華，あづま&amp;fromwiki=instrumental"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">初发布</td><td class="text" colspan="2"><a href="/Roaring#4" title="Roaring">Lost River</a><div class="source"><a href="./Roaring.md" title="Roaring">Roaring</a></div></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=ロストリバー&amp;fromwiki=instrumental"><span></span></a></span><div class="ogmusic"><a href="./ロストリバー.md" class="mw-redirect" title="ロストリバー">ロストリバー</a></div><div class="source"><a href="./东方鬼形兽_～_Wily_Beast_and_Weakest_Creature..md" class="mw-redirect" title="东方鬼形兽 ～ Wily Beast and Weakest Creature.">东方鬼形兽　～ Wily Beast and Weakest Creature.</a></div></td></tr>
-<tr><td id="3" class="infoYD"><b>03</b></td><td id="地蔵だけが知る哀嘆" colspan="2" class="title">地蔵だけが知る哀嘆<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=あづま&amp;ogmusic=地蔵だけが知る哀嘆&amp;fromwiki=instrumental"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E3%81%82%E3%81%A5%E3%81%BE&amp;action=edit&amp;redlink=1" class="new" title="あづま（页面不存在）">あづま</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，あづま&amp;fromwiki=instrumental"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=地蔵だけが知る哀嘆&amp;fromwiki=instrumental"><span></span></a></span><div class="ogmusic"><a href="./地蔵だけが知る哀嘆.md" class="mw-redirect" title="地蔵だけが知る哀嘆">地蔵だけが知る哀嘆</a></div><div class="source"><a href="./东方鬼形兽_～_Wily_Beast_and_Weakest_Creature..md" class="mw-redirect" title="东方鬼形兽 ～ Wily Beast and Weakest Creature.">东方鬼形兽　～ Wily Beast and Weakest Creature.</a></div></td></tr></tbody></table>
-
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="冬桜" colspan="2" class="title">冬桜</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="薄月橙華（页面不存在）">薄月橙華</a></td></tr><tr><td class="left"></td><td class="label">初发布</td><td class="text" colspan="2"><a href="./beginning（T.H_INDUSTRY）.md#2" title="beginning（T.H INDUSTRY）">冬桜</a><div class="source"><a href="./beginning（T.H_INDUSTRY）.md" title="beginning（T.H INDUSTRY）">beginning（T.H INDUSTRY）</a></div></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./无何有之乡_～_Deep_Mountain.md" class="mw-redirect" title="無何有の郷 ～ Deep Mountain">無何有の郷　～ Deep Mountain</a></div><div class="source"><a href="./东方妖妖梦.md" class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr>
+<tr><td id="2" class="infoYD"><b>02</b></td><td id="Lost_River" colspan="2" class="title">Lost River</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="薄月橙華（页面不存在）">薄月橙華</a>，<a class="new" title="あづま（页面不存在）">あづま</a></td></tr><tr><td class="left"></td><td class="label">初发布</td><td class="text" colspan="2"><a href="./Roaring.md#4" title="Roaring">Lost River</a><div class="source"><a href="./Roaring.md" title="Roaring">Roaring</a></div></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./Lost_River.md" class="mw-redirect" title="ロストリバー">ロストリバー</a></div><div class="source"><a href="./东方鬼形兽.md" class="mw-redirect" title="东方鬼形兽 ～ Wily Beast and Weakest Creature.">东方鬼形兽　～ Wily Beast and Weakest Creature.</a></div></td></tr>
+<tr><td id="3" class="infoYD"><b>03</b></td><td id="地蔵だけが知る哀嘆" colspan="2" class="title">地蔵だけが知る哀嘆</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="あづま（页面不存在）">あづま</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./只有地藏知晓的哀叹.md" class="mw-redirect" title="地蔵だけが知る哀嘆">地蔵だけが知る哀嘆</a></div><div class="source"><a href="./东方鬼形兽.md" class="mw-redirect" title="东方鬼形兽 ～ Wily Beast and Weakest Creature.">东方鬼形兽　～ Wily Beast and Weakest Creature.</a></div></td></tr></tbody></table>
 
 
 ## 评论
-
-
-
 
 ---
 

@@ -1,16 +1,11 @@
 # 文件:弐重クラスターbanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d9\ns6%3A%E5%BC%90%E9%87%8D%E3%82%AF%E3%83%A9%E3%82%B9%E3%82%BF%E3%83%BCbanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d9\ns6%3A%E5%BC%90%E9%87%8D%E3%82%AF%E3%83%A9%E3%82%B9%E3%82%BF%E3%83%BCbanner%2Egif.html -->
 
 弐重クラスター | 社团LOGO
 
   
-源地址：[[1]](http://tsubu.ath.cx/~double-cluster/img/banner04.gif)
-  
-
-
-
-
+源地址：[\[1\]](http://tsubu.ath.cx/~double-cluster/img/banner04.gif)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:Jointly_Ride封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0c\ns6%3AJointly_Ride%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0c\ns6%3AJointly_Ride%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Xenoglossy | 专辑封面 | 刹那パラドックス | 封面图片
 
@@ -8,11 +8,9 @@ Xenoglossy | 专辑封面 | 刹那パラドックス | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Jointly Ride](./Jointly_Ride.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [Jointly Ride](./Jointly_Ride.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

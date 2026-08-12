@@ -1,18 +1,13 @@
 # 文件:萌樂banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e8\ns6%3A%E8%90%8C%E6%A8%82banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e8\ns6%3A%E8%90%8C%E6%A8%82banner%2Ejpg.html -->
 
 社团LOGO | 萌樂
 
 
 ## 文件说明
   
-[https://mnya.tw/ms/about-meng-yue](https://mnya.tw/ms/about-meng-yue)
-  
-
-
-
-
+[https://mnya.tw/ms/about-meng-yue](https://mnya.tw/ms/about-meng-yue)  
 
 ---
 

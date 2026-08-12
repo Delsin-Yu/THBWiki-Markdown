@@ -1,12 +1,8 @@
 # 文件:东方邪星章st3.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\29\ns6%3A%E4%B8%9C%E6%96%B9%E9%82%AA%E6%98%9F%E7%AB%A0st3%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\29\ns6%3A%E4%B8%9C%E6%96%B9%E9%82%AA%E6%98%9F%E7%AB%A0st3%2Ejpg.html -->
 
 東方邪星章製作チーム
-
-
-
-
 
 
 ---

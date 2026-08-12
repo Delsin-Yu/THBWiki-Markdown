@@ -1,6 +1,6 @@
 # 文件:厄_SAN！_DRILLER封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\64\ns6%3A%E5%8E%84_SAN%EF%BC%81_DRILLER%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\64\ns6%3A%E5%8E%84_SAN%EF%BC%81_DRILLER%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Black_Rock_ONE | 封面图片 | 软件封面
 
@@ -8,11 +8,8 @@ Black_Rock_ONE | 封面图片 | 软件封面
 使用了本文件作封面图片的作品：
   
 
-- [厄 SAN！ DRILLER](./厄_SAN！_DRILLER.md)  
-该封面包含的角色：- [键山雏](./键山雏.md)
-
-
-
+- [厄 SAN！ DRILLER](./厄_SAN！_DRILLER.md)该封面包含的角色：
+- [键山雏](./键山雏.md)
 
 
 ---

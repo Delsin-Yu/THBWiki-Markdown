@@ -1,6 +1,6 @@
 # 文件:Ray（Ajatomi）封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\24\ns6%3ARay%EF%BC%88Ajatomi%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\24\ns6%3ARay%EF%BC%88Ajatomi%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Ajatomi | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Ajatomi | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Ray（Ajatomi）](./Ray（Ajatomi）.md)  
-该封面包含的角色：- [依神女苑](./依神女苑.md)
-
-
-
+- [Ray（Ajatomi）](./Ray（Ajatomi）.md)该封面包含的角色：
+- [依神女苑](./依神女苑.md)
 
 
 ---

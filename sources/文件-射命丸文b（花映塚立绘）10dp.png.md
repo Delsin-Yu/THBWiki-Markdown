@@ -1,12 +1,8 @@
 # 文件:射命丸文b（花映塚立绘）10dp.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\72\ns6%3A%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87b%EF%BC%88%E8%8A%B1%E6%98%A0%E5%A1%9A%E7%AB%8B%E7%BB%98%EF%BC%8910dp%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\72\ns6%3A%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87b%EF%BC%88%E8%8A%B1%E6%98%A0%E5%A1%9A%E7%AB%8B%E7%BB%98%EF%BC%8910dp%2Epng.html -->
 
 ZUN绘 | 东方花映塚 | 官方游戏立绘 | 射命丸文
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:TO-HO_Hi-SPEED_CLUB_MUSIC_ESSENTiAL_ver.2.0封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f9\ns6%3ATO-HO_Hi-SPEED_CLUB_MUSIC_ESSENTiAL_ver%2E2%2E0%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f9\ns6%3ATO-HO_Hi-SPEED_CLUB_MUSIC_ESSENTiAL_ver%2E2%2E0%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 dat_file_records | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ dat_file_records | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [TO-HO Hi-SPEED CLUB MUSIC ESSENTiAL ver.2.0](./TO-HO_Hi-SPEED_CLUB_MUSIC_ESSENTiAL_ver.2.0.md)  
-该封面包含的角色：- [茨木华扇](./茨木华扇.md)
-
-
-
+- [TO-HO Hi-SPEED CLUB MUSIC ESSENTiAL ver.2.0](./TO-HO_Hi-SPEED_CLUB_MUSIC_ESSENTiAL_ver.2.0.md)该封面包含的角色：
+- [茨木华扇](./茨木华扇.md)
 
 
 ---

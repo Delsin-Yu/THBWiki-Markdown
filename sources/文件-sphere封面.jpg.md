@@ -1,6 +1,6 @@
 # 文件:sphere封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\33\ns6%3Asphere%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\33\ns6%3Asphere%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Eastern_Old_Fashion | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Eastern_Old_Fashion | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [sphere](./sphere.md)  
-该封面包含的角色：- [伊吹萃香](./伊吹萃香.md)
-
-
-
+- [sphere](./sphere.md)该封面包含的角色：
+- [伊吹萃香](./伊吹萃香.md)
 
 
 ---

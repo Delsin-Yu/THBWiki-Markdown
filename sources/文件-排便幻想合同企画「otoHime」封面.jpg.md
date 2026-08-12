@@ -1,6 +1,6 @@
 # 文件:排便幻想合同企画「otoHime」封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3d\ns6%3A%E6%8E%92%E4%BE%BF%E5%B9%BB%E6%83%B3%E5%90%88%E5%90%8C%E4%BC%81%E7%94%BB%E3%80%8CotoHime%E3%80%8D%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3d\ns6%3A%E6%8E%92%E4%BE%BF%E5%B9%BB%E6%83%B3%E5%90%88%E5%90%8C%E4%BC%81%E7%94%BB%E3%80%8CotoHime%E3%80%8D%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 UPFG | 专辑封面 | 封面图片 | 神乃木制作所
 
@@ -9,9 +9,6 @@ UPFG | 专辑封面 | 封面图片 | 神乃木制作所
   
 
 - [排便幻想合同企画「otoHime」](./排便幻想合同企画「otoHime」.md)
-
-
-
 
 
 ---

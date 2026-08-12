@@ -1,6 +1,6 @@
 # 文件:東方夢想夏郷_1_DVD（新装版）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4e\ns6%3A%E6%9D%B1%E6%96%B9%E5%A4%A2%E6%83%B3%E5%A4%8F%E9%83%B7_1_DVD%EF%BC%88%E6%96%B0%E8%A3%85%E7%89%88%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4e\ns6%3A%E6%9D%B1%E6%96%B9%E5%A4%A2%E6%83%B3%E5%A4%8F%E9%83%B7_1_DVD%EF%BC%88%E6%96%B0%E8%A3%85%E7%89%88%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 封面图片 | 舞风 | 视频封面
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方夢想夏郷 1 DVD（新装版）](./東方夢想夏郷_1_DVD（新装版）.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [東方夢想夏郷 1 DVD（新装版）](./東方夢想夏郷_1_DVD（新装版）.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

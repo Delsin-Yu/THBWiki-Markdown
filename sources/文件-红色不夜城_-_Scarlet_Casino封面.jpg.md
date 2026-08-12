@@ -1,6 +1,6 @@
 # 文件:红色不夜城_-_Scarlet_Casino封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\73\ns6%3A%E7%BA%A2%E8%89%B2%E4%B8%8D%E5%A4%9C%E5%9F%8E_-_Scarlet_Casino%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\73\ns6%3A%E7%BA%A2%E8%89%B2%E4%B8%8D%E5%A4%9C%E5%9F%8E_-_Scarlet_Casino%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人狂热 | 封面图片 | 软件封面
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [红色不夜城 - Scarlet Casino](./红色不夜城_-_Scarlet_Casino.md)  
-该封面包含的角色：- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
-
-
-
+- [红色不夜城 - Scarlet Casino](./红色不夜城_-_Scarlet_Casino.md)该封面包含的角色：
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:KOISHI_BABY_DOLL_COLLECTION封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a5\ns6%3AKOISHI_BABY_DOLL_COLLECTION%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a5\ns6%3AKOISHI_BABY_DOLL_COLLECTION%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 うさゆりぽっぷ | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [KOISHI BABY DOLL COLLECTION](./KOISHI_BABY_DOLL_COLLECTION.md)  
-该封面包含的角色：- [古明地恋](./古明地恋.md)
-
-
-
+- [KOISHI BABY DOLL COLLECTION](./KOISHI_BABY_DOLL_COLLECTION.md)该封面包含的角色：
+- [古明地恋](./古明地恋.md)
 
 
 ---

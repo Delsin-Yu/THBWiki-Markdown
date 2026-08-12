@@ -1,6 +1,6 @@
 # 文件:Girl's_apart封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7e\ns6%3AGirl%27s_apart%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7e\ns6%3AGirl%27s_apart%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 NEKONAMi | 专辑封面 | 封面图片
 
@@ -8,16 +8,12 @@ NEKONAMi | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Girl's apart](./Girl's_apart.md)  
-该封面包含的角色：- [秋静叶](./秋静叶.md)- [秋穰子](./秋穰子.md)
+- [Girl's apart](./Girl's_apart.md)该封面包含的角色：
+- [秋静叶](./秋静叶.md)
+- [秋穰子](./秋穰子.md)
 
   
-源地址：[[1]](https://img.yaplog.jp/img/02/pc/n/e/k/nekonamicats/0/6.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://img.yaplog.jp/img/02/pc/n/e/k/nekonamicats/0/6.jpg)  
 
 ---
 

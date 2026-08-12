@@ -1,12 +1,8 @@
 # 文件:nekomimi_stylebanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cc\ns6%3Anekomimi_stylebanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cc\ns6%3Anekomimi_stylebanner%2Epng.html -->
 
 nekomimi_style | 社团LOGO
-
-
-
-
 
 
 ---

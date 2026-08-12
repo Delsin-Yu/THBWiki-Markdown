@@ -1,6 +1,6 @@
 # 文件:秋神たちの午後_AUTUMN_DAY’S_AFTERNOON封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5f\ns6%3A%E7%A7%8B%E7%A5%9E%E3%81%9F%E3%81%A1%E3%81%AE%E5%8D%88%E5%BE%8C_AUTUMN_DAY%E2%80%99S_AFTERNOON%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5f\ns6%3A%E7%A7%8B%E7%A5%9E%E3%81%9F%E3%81%A1%E3%81%AE%E5%8D%88%E5%BE%8C_AUTUMN_DAY%E2%80%99S_AFTERNOON%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ムラサキノオト | 专辑封面 | 封面图片
 
@@ -8,11 +8,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [秋神たちの午後 AUTUMN DAY’S AFTERNOON](./秋神たちの午後_AUTUMN_DAY’S_AFTERNOON.md)  
-该封面包含的角色：- [秋静叶](./秋静叶.md)- [秋穰子](./秋穰子.md)- [东风谷早苗](./东风谷早苗.md)
-
-
-
+- [秋神たちの午後 AUTUMN DAY’S AFTERNOON](./秋神たちの午後_AUTUMN_DAY’S_AFTERNOON.md)该封面包含的角色：
+- [秋静叶](./秋静叶.md)
+- [秋穰子](./秋穰子.md)
+- [东风谷早苗](./东风谷早苗.md)
 
 
 ---

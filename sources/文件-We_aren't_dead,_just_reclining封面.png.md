@@ -1,6 +1,6 @@
 # 文件:We_aren't_dead,_just_reclining封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d2\ns6%3AWe_aren%27t_dead%2C_just_reclining%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d2\ns6%3AWe_aren%27t_dead%2C_just_reclining%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 SG_2hu_Lepak_Corner | Tofucat_Workshop | 同人志封面 | 封面图片
 
@@ -8,17 +8,16 @@ SG_2hu_Lepak_Corner | Tofucat_Workshop | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [We aren't dead, just reclining](./We_aren't_dead,_just_reclining.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- 十六夜咲夜 (未找到链接)- [东风谷早苗](./东风谷早苗.md)- [雾雨魔理沙](./雾雨魔理沙.md)
+- [We aren't dead, just reclining](./We_aren't_dead,_just_reclining.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [十六夜咲夜](./十六夜咲夜.md)
+- [东风谷早苗](./东风谷早苗.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-源地址：[[1]](https://www.facebook.com/TofucatWS/posts/1780679228675903)
+源地址：[\[1\]](https://www.facebook.com/TofucatWS/posts/1780679228675903)
 Not the finalized cover, but this is the closest cover image that I found. (remove this part if you upload the finalized cover)
   
-
-
-
-
 
 ---
 

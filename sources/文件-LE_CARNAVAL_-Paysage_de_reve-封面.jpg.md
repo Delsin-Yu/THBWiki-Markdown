@@ -1,6 +1,6 @@
 # 文件:LE_CARNAVAL_-Paysage_de_reve-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\32\ns6%3ALE_CARNAVAL_-Paysage_de_reve-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\32\ns6%3ALE_CARNAVAL_-Paysage_de_reve-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Ridil | 专辑封面 | 封面图片
 
@@ -8,16 +8,12 @@ Ridil | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [LE CARNAVAL -Paysage de reve-](./LE_CARNAVAL_-Paysage_de_reve-.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
+- [LE CARNAVAL -Paysage de reve-](./LE_CARNAVAL_-Paysage_de_reve-.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
   
-源地址：[[1]](http://ridil.sakura.ne.jp/sblo_files/ridil/image/ssstop.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://ridil.sakura.ne.jp/sblo_files/ridil/image/ssstop.jpg)  
 
 ---
 

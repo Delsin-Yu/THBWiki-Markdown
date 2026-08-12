@@ -1,16 +1,12 @@
 # 模板:EGOR
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\9\98\ns10%3AEGOR.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\9\98\ns10%3AEGOR.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

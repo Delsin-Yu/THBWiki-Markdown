@@ -1,12 +1,8 @@
 # 文件:NEKONO_ISLANDbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\33\ns6%3ANEKONO_ISLANDbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\33\ns6%3ANEKONO_ISLANDbanner%2Epng.html -->
 
 NEKONO_ISLAND
-
-
-
-
 
 
 ---

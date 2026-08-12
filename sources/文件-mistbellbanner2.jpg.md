@@ -1,14 +1,11 @@
 # 文件:mistbellbanner2.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7d\ns6%3Amistbellbanner2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7d\ns6%3Amistbellbanner2%2Ejpg.html -->
 
 mistbell | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

@@ -1,12 +1,8 @@
 # 文件:Nzx_Studiologo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\63\ns6%3ANzx_Studiologo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\63\ns6%3ANzx_Studiologo%2Ejpg.html -->
 
 Nzx_Studio
-
-
-
-
 
 
 ---

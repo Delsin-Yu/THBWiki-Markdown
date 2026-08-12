@@ -1,6 +1,6 @@
 # 文件:Re_Letter-濡葉色の物語-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5c\ns6%3ARe_Letter-%E6%BF%A1%E8%91%89%E8%89%B2%E3%81%AE%E7%89%A9%E8%AA%9E-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5c\ns6%3ARe_Letter-%E6%BF%A1%E8%91%89%E8%89%B2%E3%81%AE%E7%89%A9%E8%AA%9E-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 落ち葉
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [Re Letter-濡葉色の物語-](./Re_Letter-濡葉色の物語-.md)  
-该封面包含的角色：- [多多良小伞](./多多良小伞.md)- [幽谷响子](./幽谷响子.md)
-
-
-
+- [Re Letter-濡葉色の物語-](./Re_Letter-濡葉色の物語-.md)该封面包含的角色：
+- [多多良小伞](./多多良小伞.md)
+- [幽谷响子](./幽谷响子.md)
 
 
 ---

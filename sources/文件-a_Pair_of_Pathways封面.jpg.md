@@ -1,6 +1,6 @@
 # 文件:a_Pair_of_Pathways封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\45\ns6%3Aa_Pair_of_Pathways%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\45\ns6%3Aa_Pair_of_Pathways%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Unity-Gain | 专辑封面 | 封面图片
 
@@ -10,16 +10,12 @@ Unity-Gain | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [a Pair of Pathways](./a_Pair_of_Pathways.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [高丽野阿吽](./高丽野阿吽.md)
+- [a Pair of Pathways](./a_Pair_of_Pathways.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [高丽野阿吽](./高丽野阿吽.md)
 
   
-源地址：[图片链接](http://kakeruichi.mydns.jp/cd/UTGN-0023/jacket_850.jpg) [官网特设页](http://kakeruichi.mydns.jp/cd/UTGN-0023/)
-  
-
-
-
-
+源地址：[图片链接](http://kakeruichi.mydns.jp/cd/UTGN-0023/jacket_850.jpg) [官网特设页](http://kakeruichi.mydns.jp/cd/UTGN-0023/)  
 
 ---
 

@@ -1,16 +1,12 @@
 # 模板:北斗秘封Planetarium
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\8\8d\ns10%3A%E5%8C%97%E6%96%97%E7%A7%98%E5%B0%81Planetarium.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\8\8d\ns10%3A%E5%8C%97%E6%96%97%E7%A7%98%E5%B0%81Planetarium.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

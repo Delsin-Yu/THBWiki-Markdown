@@ -1,16 +1,10 @@
 # 东方儚月抄_～_Silent_Sinner_in_Blue./第五话
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\c\cf\ns0%3A%E4%B8%9C%E6%96%B9%E5%84%9A%E6%9C%88%E6%8A%84_%EF%BD%9E_Silent_Sinner_in_Blue%2E%2F%E7%AC%AC%E4%BA%94%E8%AF%9D.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\c\cf\ns0%3A%E4%B8%9C%E6%96%B9%E5%84%9A%E6%9C%88%E6%8A%84_%EF%BD%9E_Silent_Sinner_in_Blue%2E%2F%E7%AC%AC%E4%BA%94%E8%AF%9D.html -->
 
 东方儚月抄_～_Silent_Sinner_in_Blue. | 使用了翻译表的页面 | 待完成页面
 
-  
-  
-
-  
-
 <center>
-
 <table>
 <tbody><tr>
 <td class="mbox-image"><div style="width: 52px;">
@@ -19,27 +13,24 @@
 </tr>
 </tbody></table>
 
-
-</center>
-<center>
-
+</center><center>
 <table>
 <tbody><tr>
-<td>&lt;
+<td><
 </td>
-<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./东方儚月抄_～_Silent_Sinner_in_Blue.-第四话.md" title="东方儚月抄 ～ Silent Sinner in Blue./第四话">第四话</a>&#160;
+<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./东方儚月抄_～_Silent_Sinner_in_Blue.-第四话.md" title="东方儚月抄 ～ Silent Sinner in Blue./第四话">第四话</a> 
 </td>
-<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="./东方儚月抄_～_Silent_Sinner_in_Blue..md" title="东方儚月抄 ～ Silent Sinner in Blue.">东方儚月抄</a>&#160;
+<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;"> <a href="./东方儚月抄_～_Silent_Sinner_in_Blue..md" title="东方儚月抄 ～ Silent Sinner in Blue.">东方儚月抄</a> 
 </td>
-<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left">&#160;<a href="./东方儚月抄_～_Silent_Sinner_in_Blue.-第六话.md" title="东方儚月抄 ～ Silent Sinner in Blue./第六话">第六话</a>
+<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left"> <a href="./东方儚月抄_～_Silent_Sinner_in_Blue.-第六话.md" title="东方儚月抄 ～ Silent Sinner in Blue./第六话">第六话</a>
 </td>
-<td>&gt;
+<td>>
 </td></tr></tbody></table>
 
   
 </center>
-- 本词条内容为官方漫画 **东方儚月抄 ～ Silent Sinner in Blue.** 的剧情对话文字版。
-- 观看在线漫画请点击[这里](https://bbs.nyasama.com/forum.php?mod=viewthread&amp;tid=465596)。
+- 本词条内容为官方漫画**东方儚月抄 ～ Silent Sinner in Blue.**的剧情对话文字版。
+- 观看在线漫画请点击[这里](https://bbs.nyasama.com/forum.php?mod=viewthread&tid=465596)。
 
 
 ## P1
@@ -47,46 +38,28 @@
 <table><tbody><tr class="tt-status-header" id="P1-1" data-pos="&#91;&quot;P1&quot;,1&#93;"><td class="tt-s" lang="zh"><div class="poem"></div></td><td colspan="2" class="tt-status" lang="zh"><div class="poem">群山</div></td></tr><tr class="tt-status-header" id="P1-2" data-pos="&#91;&quot;P1&quot;,2&#93;"><td class="tt-s" lang="zh"><div class="poem"></div></td><td colspan="2" class="tt-status" lang="zh"><div class="poem"><a href="./博丽神社.md" title="博丽神社">博丽神社</a><br><a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>正在扫地，突然捡起一个栗子剥开</div></td></tr></tbody></table>
 
 
-
 ## P2
 
 <table><tbody><tr class="tt-header" id="P2-1" data-pos="&#91;&quot;P2&quot;,1&#93;"><td id="" class="tt-h" lang="zh"><div class="poem"></div></td><td class="tt-ja" lang="ja"><div class="poem"><big><ruby lang="ja"><rb>東</rb><rp> (</rp><rt>とう</rt><rp>) </rp></ruby><ruby lang="ja"><rb>方</rb><rp> (</rp><rt>ほう</rt><rp>) </rp></ruby><ruby lang="ja"><rb>儚</rb><rp> (</rp><rt>ぼう</rt><rp>) </rp></ruby><ruby lang="ja"><rb>月</rb><rp> (</rp><rt>げつ</rt><rp>) </rp></ruby><ruby lang="ja"><rb>抄</rb><rp> (</rp><rt>しょう</rt><rp>) </rp></ruby></big><br>Silent Sinner in Blue.</div></td><td class="tt-zh" lang="zh"><div class="poem"><big>东方儚月抄</big><br>Silent Sinner in Blue.</div></td></tr><tr class="tt-header" id="P2-2" data-pos="&#91;&quot;P2&quot;,2&#93;"><td id="" class="tt-h" lang="zh"><div class="poem"></div></td><td class="tt-ja" lang="ja"><div class="poem">第五話『住吉計画』</div></td><td class="tt-zh" lang="zh"><div class="poem">第五话『住吉计划』</div></td></tr><tr class="tt-status-header" id="P2-3" data-pos="&#91;&quot;P2&quot;,3&#93;"><td class="tt-s" lang="zh"><div class="poem"></div></td><td colspan="2" class="tt-status" lang="zh"><div class="poem">原作：ZUN　漫画：秋☆枝</div></td></tr><tr class="tt-narrator" id="P2-4" data-pos="&#91;&quot;P2&quot;,4&#93;"><td id="" class="tt-narrator" lang="zh"><div class="poem"></div></td><td class="tt-ja" lang="ja"><div class="poem"></div></td><td class="tt-zh" lang="zh"><div class="poem">随便挤在赛钱箱上 神社的生意会完蛋的！</div></td></tr></tbody></table>
 
 
-
 ## P3
-
-  
-  
-
-  
-
 <center>
-
 <table>
 <tbody><tr>
-<td>&lt;
+<td><
 </td>
-<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./东方儚月抄_～_Silent_Sinner_in_Blue.-第四话.md" title="东方儚月抄 ～ Silent Sinner in Blue./第四话">第四话</a>&#160;
+<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./东方儚月抄_～_Silent_Sinner_in_Blue.-第四话.md" title="东方儚月抄 ～ Silent Sinner in Blue./第四话">第四话</a> 
 </td>
-<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="./东方儚月抄_～_Silent_Sinner_in_Blue..md" title="东方儚月抄 ～ Silent Sinner in Blue.">东方儚月抄</a>&#160;
+<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;"> <a href="./东方儚月抄_～_Silent_Sinner_in_Blue..md" title="东方儚月抄 ～ Silent Sinner in Blue.">东方儚月抄</a> 
 </td>
-<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left">&#160;<a href="./东方儚月抄_～_Silent_Sinner_in_Blue.-第六话.md" title="东方儚月抄 ～ Silent Sinner in Blue./第六话">第六话</a>
+<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left"> <a href="./东方儚月抄_～_Silent_Sinner_in_Blue.-第六话.md" title="东方儚月抄 ～ Silent Sinner in Blue./第六话">第六话</a>
 </td>
-<td>&gt;
+<td>>
 </td></tr></tbody></table>
 
   
 </center>
-  
-  
-
-  
-
-
-
-
-
 ---
 
 此文档由 [THBWiki-Markdown-Builder](https://github.com/Delsin-Yu/THBWiki-Markdown-Builder) 构建。

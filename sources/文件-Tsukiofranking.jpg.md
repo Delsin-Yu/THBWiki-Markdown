@@ -1,16 +1,12 @@
 # 文件:Tsukiofranking.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b7\ns6%3ATsukiofranking%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b7\ns6%3ATsukiofranking%2Ejpg.html -->
 
 概念
 
   
 东方手书-1
   
-
-
-
-
 
 ---
 

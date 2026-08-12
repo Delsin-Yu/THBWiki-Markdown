@@ -1,12 +1,8 @@
 # 文件:ありぃすいべりぃbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3e\ns6%3A%E3%81%82%E3%82%8A%E3%81%83%E3%81%99%E3%81%84%E3%81%B9%E3%82%8A%E3%81%83banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3e\ns6%3A%E3%81%82%E3%82%8A%E3%81%83%E3%81%99%E3%81%84%E3%81%B9%E3%82%8A%E3%81%83banner%2Ejpg.html -->
 
 ありぃすいべりぃ | 社团LOGO
-
-
-
-
 
 
 ---

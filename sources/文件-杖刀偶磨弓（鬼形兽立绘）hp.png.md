@@ -1,12 +1,8 @@
 # 文件:杖刀偶磨弓（鬼形兽立绘）hp.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\91\ns6%3A%E6%9D%96%E5%88%80%E5%81%B6%E7%A3%A8%E5%BC%93%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89hp%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\91\ns6%3A%E6%9D%96%E5%88%80%E5%81%B6%E7%A3%A8%E5%BC%93%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89hp%2Epng.html -->
 
 ZUN绘 | 东方鬼形兽 | 官方游戏立绘 | 杖刀偶磨弓
-
-
-
-
 
 
 ---

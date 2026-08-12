@@ -1,6 +1,6 @@
 # 文件:NO_BORDER_LINE封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\51\ns6%3ANO_BORDER_LINE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\51\ns6%3ANO_BORDER_LINE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ネガ⇄ポジ | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [NO BORDER LINE](./NO_BORDER_LINE.md)  
-该封面包含的角色：- [寅丸星](./寅丸星.md)
-
-
-
+- [NO BORDER LINE](./NO_BORDER_LINE.md)该封面包含的角色：
+- [寅丸星](./寅丸星.md)
 
 
 ---

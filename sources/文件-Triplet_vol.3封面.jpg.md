@@ -1,6 +1,6 @@
 # 文件:Triplet_vol.3封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\51\ns6%3ATriplet_vol%2E3%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\51\ns6%3ATriplet_vol%2E3%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 36MACHINE | Sound_Square | けみかるしとらすけーき！ | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Triplet vol.3](./Triplet_vol.3.md)  
-该封面包含的角色：- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
+- [Triplet vol.3](./Triplet_vol.3.md)该封面包含的角色：
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
 
   
-源地址：[[1]](https://i1.sndcdn.com/artworks-000066524077-cdgmpg-t500x500.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://i1.sndcdn.com/artworks-000066524077-cdgmpg-t500x500.jpg)  
 
 ---
 

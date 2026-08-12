@@ -1,6 +1,6 @@
 # 文件:東方紅楼夢8_無料頒布CD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\94\ns6%3A%E6%9D%B1%E6%96%B9%E7%B4%85%E6%A5%BC%E5%A4%A28_%E7%84%A1%E6%96%99%E9%A0%92%E5%B8%83CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\94\ns6%3A%E6%9D%B1%E6%96%B9%E7%B4%85%E6%A5%BC%E5%A4%A28_%E7%84%A1%E6%96%99%E9%A0%92%E5%B8%83CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Studio_*.izumi | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ Studio_*.izumi | 专辑封面 | 封面图片
   
 
 - [東方紅楼夢8 無料頒布CD](./東方紅楼夢8_無料頒布CD.md)
-
-
-
 
 
 ---

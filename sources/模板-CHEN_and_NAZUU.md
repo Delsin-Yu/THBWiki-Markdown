@@ -1,16 +1,12 @@
 # 模板:CHEN_and_NAZUU
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\7\71\ns10%3ACHEN_and_NAZUU.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\7\71\ns10%3ACHEN_and_NAZUU.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:Former_Frontier_2nd_cultivate封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\59\ns6%3AFormer_Frontier_2nd_cultivate%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\59\ns6%3AFormer_Frontier_2nd_cultivate%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 セブンスヘブンMAXION | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [Former Frontier 2nd cultivate](./Former_Frontier_2nd_cultivate.md)  
-该封面包含的角色：- [魅魔](./魅魔.md)- [雾雨魔理沙（旧作角色）](./雾雨魔理沙（旧作角色）.md)
-
-
-
+- [Former Frontier 2nd cultivate](./Former_Frontier_2nd_cultivate.md)该封面包含的角色：
+- [魅魔](./魅魔.md)
+- [雾雨魔理沙（旧作角色）](./雾雨魔理沙（旧作角色）.md)
 
 
 ---

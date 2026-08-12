@@ -1,6 +1,6 @@
 # 文件:Cherry_Blossom（J＿Orange）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ec\ns6%3ACherry_Blossom%EF%BC%88J%EF%BC%BFOrange%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ec\ns6%3ACherry_Blossom%EF%BC%88J%EF%BC%BFOrange%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 J＿Orange | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@ J＿Orange | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Cherry Blossom（J＿Orange）](./Cherry_Blossom（J＿Orange）.md)  
-该封面包含的角色：- [西行寺幽幽子](./西行寺幽幽子.md)
+- [Cherry Blossom（J＿Orange）](./Cherry_Blossom（J＿Orange）.md)该封面包含的角色：
+- [西行寺幽幽子](./西行寺幽幽子.md)
 
   
-源地址：[direct image link (10 size)](https://f4.bcbits.com/img/a3441021544_10.jpg), [source page (artist Bandcamp)](https://jorange.bandcamp.com/album/cherry-blossom)
-  
-
-
-
-
+源地址：[direct image link (10 size)](https://f4.bcbits.com/img/a3441021544_10.jpg), [source page (artist Bandcamp)](https://jorange.bandcamp.com/album/cherry-blossom)  
 
 ---
 

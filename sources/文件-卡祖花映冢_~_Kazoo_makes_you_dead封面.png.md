@@ -1,6 +1,6 @@
 # 文件:卡祖花映冢_~_Kazoo_makes_you_dead封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f7\ns6%3A%E5%8D%A1%E7%A5%96%E8%8A%B1%E6%98%A0%E5%86%A2_%7E_Kazoo_makes_you_dead%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f7\ns6%3A%E5%8D%A1%E7%A5%96%E8%8A%B1%E6%98%A0%E5%86%A2_%7E_Kazoo_makes_you_dead%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 萌萌哒的韭菜盒子
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [卡祖花映冢 ~ Kazoo makes you dead](./卡祖花映冢_~_Kazoo_makes_you_dead.md)  
-该封面包含的角色：- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)
-
-
-
+- [卡祖花映冢 ~ Kazoo makes you dead](./卡祖花映冢_~_Kazoo_makes_you_dead.md)该封面包含的角色：
+- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)
 
 
 ---

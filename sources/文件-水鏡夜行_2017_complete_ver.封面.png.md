@@ -1,6 +1,6 @@
 # 文件:水鏡夜行_2017_complete_ver.封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\05\ns6%3A%E6%B0%B4%E9%8F%A1%E5%A4%9C%E8%A1%8C_2017_complete_ver%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\05\ns6%3A%E6%B0%B4%E9%8F%A1%E5%A4%9C%E8%A1%8C_2017_complete_ver%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 RED_FOREST_METAL_ORCHESTRA | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ RED_FOREST_METAL_ORCHESTRA | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [水鏡夜行 2017 complete ver.](./水鏡夜行_2017_complete_ver..md)  
-该封面包含的角色：- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [水鏡夜行 2017 complete ver.](./水鏡夜行_2017_complete_ver..md)该封面包含的角色：
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

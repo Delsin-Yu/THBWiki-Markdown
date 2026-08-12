@@ -1,6 +1,6 @@
 # 文件:Again_EP封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\60\ns6%3AAgain_EP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\60\ns6%3AAgain_EP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 last_little_while | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ last_little_while | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Again EP](./Again_EP.md)  
-该封面包含的角色：- [米斯蒂娅·萝蕾拉](./米斯蒂娅·萝蕾拉.md)
+- [Again EP](./Again_EP.md)该封面包含的角色：
+- [米斯蒂娅·萝蕾拉](./米斯蒂娅·萝蕾拉.md)
 
   
-源地址：[[1]](http://static.tumblr.com/2171162af5877fa396a185f260e229b6/rlsd5dr/nMvo5de51/tumblr_static_7sjcvvchbvwog0o04k444wgwg.png)
-  
-
-
-
-
+源地址：[\[1\]](http://static.tumblr.com/2171162af5877fa396a185f260e229b6/rlsd5dr/nMvo5de51/tumblr_static_7sjcvvchbvwog0o04k444wgwg.png)  
 
 ---
 

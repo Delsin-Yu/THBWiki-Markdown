@@ -1,6 +1,6 @@
 # 文件:咲夜ヲメグル物語・零_-_UNTIL_THEN_-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d4\ns6%3A%E5%92%B2%E5%A4%9C%E3%83%B2%E3%83%A1%E3%82%B0%E3%83%AB%E7%89%A9%E8%AA%9E%E3%83%BB%E9%9B%B6_-_UNTIL_THEN_-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d4\ns6%3A%E5%92%B2%E5%A4%9C%E3%83%B2%E3%83%A1%E3%82%B0%E3%83%AB%E7%89%A9%E8%AA%9E%E3%83%BB%E9%9B%B6_-_UNTIL_THEN_-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 まーち | 同人志封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [咲夜ヲメグル物語・零 - UNTIL THEN -](./咲夜ヲメグル物語・零_-_UNTIL_THEN_-.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)
-
-
-
+- [咲夜ヲメグル物語・零 - UNTIL THEN -](./咲夜ヲメグル物語・零_-_UNTIL_THEN_-.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:劈音「Piercing_Circle」（天邪鬼）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a5\ns6%3A%E5%8A%88%E9%9F%B3%E3%80%8CPiercing_Circle%E3%80%8D%EF%BC%88%E5%A4%A9%E9%82%AA%E9%AC%BC%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a5\ns6%3A%E5%8A%88%E9%9F%B3%E3%80%8CPiercing_Circle%E3%80%8D%EF%BC%88%E5%A4%A9%E9%82%AA%E9%AC%BC%EF%BC%89%2Ejpg.html -->
 
 幽谷响子 | 弹幕天邪鬼 | 敌机符卡
-
-
-
-
 
 
 ---

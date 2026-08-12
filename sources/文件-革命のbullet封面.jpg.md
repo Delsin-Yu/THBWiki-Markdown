@@ -1,6 +1,6 @@
 # 文件:革命のbullet封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\21\ns6%3A%E9%9D%A9%E5%91%BD%E3%81%AEbullet%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\21\ns6%3A%E9%9D%A9%E5%91%BD%E3%81%AEbullet%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 森羅万象
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [革命のbullet](./革命のbullet.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [革命のbullet](./革命のbullet.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

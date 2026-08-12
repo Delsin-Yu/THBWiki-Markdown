@@ -1,6 +1,6 @@
 # 文件:鍵山雛うなじ合同「UNEXPLORED」封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d9\ns6%3A%E9%8D%B5%E5%B1%B1%E9%9B%9B%E3%81%86%E3%81%AA%E3%81%98%E5%90%88%E5%90%8C%E3%80%8CUNEXPLORED%E3%80%8D%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d9\ns6%3A%E9%8D%B5%E5%B1%B1%E9%9B%9B%E3%81%86%E3%81%AA%E3%81%98%E5%90%88%E5%90%8C%E3%80%8CUNEXPLORED%E3%80%8D%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 save | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@ save | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [鍵山雛うなじ合同「UNEXPLORED」](./鍵山雛うなじ合同「UNEXPLORED」.md)  
-该封面包含的角色：- [键山雏](./键山雏.md)
+- [鍵山雛うなじ合同「UNEXPLORED」](./鍵山雛うなじ合同「UNEXPLORED」.md)该封面包含的角色：
+- [键山雏](./键山雏.md)
 
   
-源地址：[direct image link (original uploaded image)](https://pbs.twimg.com/media/EvjeK14UcAg0Hj1?format=png&amp;name=orig), [source tweet](https://twitter.com/myan3891/status/1367087131332538369)
-  
-
-
-
-
+源地址：[direct image link (original uploaded image)](https://pbs.twimg.com/media/EvjeK14UcAg0Hj1?format=png&name=orig), [source tweet](https://twitter.com/myan3891/status/1367087131332538369)  
 
 ---
 

@@ -1,16 +1,12 @@
 # 文件:水星弹球酒吧LOGO.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\25\ns6%3A%E6%B0%B4%E6%98%9F%E5%BC%B9%E7%90%83%E9%85%92%E5%90%A7LOGO%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\25\ns6%3A%E6%B0%B4%E6%98%9F%E5%BC%B9%E7%90%83%E9%85%92%E5%90%A7LOGO%2Epng.html -->
 
 水星弹球酒吧 | 社团LOGO
 
   
 水星弹球酒吧LOGO
   
-
-
-
-
 
 ---
 

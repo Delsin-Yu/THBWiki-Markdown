@@ -1,6 +1,6 @@
 # 文件:moon_dust封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\09\ns6%3Amoon_dust%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\09\ns6%3Amoon_dust%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 脱兎屋
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [moon dust](./moon_dust.md)  
-该封面包含的角色：- [藤原妹红](./藤原妹红.md)
+- [moon dust](./moon_dust.md)该封面包含的角色：
+- [藤原妹红](./藤原妹红.md)
 
   
-源地址：[[1]](http://blog-imgs-37.fc2.com/i/p/p/ippozenshinth/20110311101956d7b.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://blog-imgs-37.fc2.com/i/p/p/ippozenshinth/20110311101956d7b.jpg)  
 
 ---
 

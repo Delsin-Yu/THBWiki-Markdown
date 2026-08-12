@@ -1,6 +1,6 @@
 # 文件:I_DON'T_HATE_YOU_DEMO封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1f\ns6%3AI_DON%27T_HATE_YOU_DEMO%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1f\ns6%3AI_DON%27T_HATE_YOU_DEMO%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 求める者
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [I DON'T HATE YOU DEMO](./I_DON'T_HATE_YOU_DEMO.md)  
-该封面包含的角色：- [古明地恋](./古明地恋.md)
-
-
-
+- [I DON'T HATE YOU DEMO](./I_DON'T_HATE_YOU_DEMO.md)该封面包含的角色：
+- [古明地恋](./古明地恋.md)
 
 
 ---

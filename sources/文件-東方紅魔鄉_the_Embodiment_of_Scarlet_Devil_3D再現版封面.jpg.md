@@ -1,6 +1,6 @@
 # 文件:東方紅魔鄉_the_Embodiment_of_Scarlet_Devil_3D再現版封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\36\ns6%3A%E6%9D%B1%E6%96%B9%E7%B4%85%E9%AD%94%E9%84%89_the_Embodiment_of_Scarlet_Devil_3D%E5%86%8D%E7%8F%BE%E7%89%88%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\36\ns6%3A%E6%9D%B1%E6%96%B9%E7%B4%85%E9%AD%94%E9%84%89_the_Embodiment_of_Scarlet_Devil_3D%E5%86%8D%E7%8F%BE%E7%89%88%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 カスタム団 | 封面图片 | 软件封面
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方紅魔鄉 the Embodiment of Scarlet Devil 3D再現版](./東方紅魔鄉_the_Embodiment_of_Scarlet_Devil_3D再現版.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [東方紅魔鄉 the Embodiment of Scarlet Devil 3D再現版](./東方紅魔鄉_the_Embodiment_of_Scarlet_Devil_3D再現版.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

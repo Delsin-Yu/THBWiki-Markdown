@@ -1,6 +1,6 @@
 # 文件:La_Niña_Pasa封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d9\ns6%3ALa_Ni%C3%B1a_Pasa%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d9\ns6%3ALa_Ni%C3%B1a_Pasa%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 すずだんご | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [La Niña Pasa](./La_Niña_Pasa.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [La Niña Pasa](./La_Niña_Pasa.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

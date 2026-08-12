@@ -1,6 +1,6 @@
 # 文件:幻想郷anthem封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fc\ns6%3A%E5%B9%BB%E6%83%B3%E9%83%B7anthem%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fc\ns6%3A%E5%B9%BB%E6%83%B3%E9%83%B7anthem%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 暴LADY
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [幻想郷anthem](./幻想郷anthem.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [幻想郷anthem](./幻想郷anthem.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

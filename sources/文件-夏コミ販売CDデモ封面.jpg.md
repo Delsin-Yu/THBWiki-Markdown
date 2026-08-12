@@ -1,6 +1,6 @@
 # 文件:夏コミ販売CDデモ封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e3\ns6%3A%E5%A4%8F%E3%82%B3%E3%83%9F%E8%B2%A9%E5%A3%B2CD%E3%83%87%E3%83%A2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e3\ns6%3A%E5%A4%8F%E3%82%B3%E3%83%9F%E8%B2%A9%E5%A3%B2CD%E3%83%87%E3%83%A2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 パンの耳のもっとはじっこ | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [夏コミ販売CDデモ](./夏コミ販売CDデモ.md)  
-该封面包含的角色：- [伊吹萃香](./伊吹萃香.md)
-
-
-
+- [夏コミ販売CDデモ](./夏コミ販売CDデモ.md)该封面包含的角色：
+- [伊吹萃香](./伊吹萃香.md)
 
 
 ---

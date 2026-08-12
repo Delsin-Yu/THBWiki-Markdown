@@ -1,6 +1,6 @@
 # 东方DOTS·续·桃花岛/内部名称
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\7\70\ns0%3A%E4%B8%9C%E6%96%B9DOTS%C2%B7%E7%BB%AD%C2%B7%E6%A1%83%E8%8A%B1%E5%B2%9B%2F%E5%86%85%E9%83%A8%E5%90%8D%E7%A7%B0.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\7\70\ns0%3A%E4%B8%9C%E6%96%B9DOTS%C2%B7%E7%BB%AD%C2%B7%E6%A1%83%E8%8A%B1%E5%B2%9B%2F%E5%86%85%E9%83%A8%E5%90%8D%E7%A7%B0.html -->
 
 东方DOTS玩家社群
 
@@ -9,7 +9,6 @@
   
 注：以下为简称，省略了“npc_dota_hero_”，全称例：npc_dota_hero_slark（射命丸文）
   
-
 
 <table>
 <caption>
@@ -376,12 +375,10 @@
 </td></tr></tbody></table>
 
 
-
 ## 物品
   
 注：以下为简称，省略了“item_”，全称例：item_broom（魔法使扫把）
   
-
 
 <table>
 <caption>
@@ -1021,10 +1018,6 @@
 
 
 </tbody></table>
-
-
-
-
 
 
 ---

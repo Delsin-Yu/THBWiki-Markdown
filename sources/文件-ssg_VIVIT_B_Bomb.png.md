@@ -1,16 +1,12 @@
 # 文件:ssg_VIVIT_B_Bomb.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0b\ns6%3Assg_VIVIT_B_Bomb%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0b\ns6%3Assg_VIVIT_B_Bomb%2Epng.html -->
 
 秋霜玉
 
   
 《秋霜玉》机体Homing Missile的Bomb弹幕。
   
-
-
-
-
 
 ---
 

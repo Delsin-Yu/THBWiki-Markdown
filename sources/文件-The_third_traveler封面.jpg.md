@@ -1,6 +1,6 @@
 # 文件:The_third_traveler封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e2\ns6%3AThe_third_traveler%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e2\ns6%3AThe_third_traveler%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 群雨アンブレイラ
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [the third traveler](./the_third_traveler.md)  
-该封面包含的角色：- [古明地觉](./古明地觉.md)
-
-
-
+- [the third traveler](./the_third_traveler.md)该封面包含的角色：
+- [古明地觉](./古明地觉.md)
 
 
 ---

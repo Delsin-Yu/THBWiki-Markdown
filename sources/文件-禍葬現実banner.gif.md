@@ -1,12 +1,8 @@
 # 文件:禍葬現実banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\ba\ns6%3A%E7%A6%8D%E8%91%AC%E7%8F%BE%E5%AE%9Fbanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\ba\ns6%3A%E7%A6%8D%E8%91%AC%E7%8F%BE%E5%AE%9Fbanner%2Egif.html -->
 
 社团LOGO | 禍葬現実
-
-
-
-
 
 
 ---

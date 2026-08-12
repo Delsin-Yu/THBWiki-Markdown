@@ -1,6 +1,6 @@
 # 文件:揺蕩夢澪標_～_Bright_Location_Unlike_Externals.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5c\ns6%3A%E6%8F%BA%E8%95%A9%E5%A4%A2%E6%BE%AA%E6%A8%99_%EF%BD%9E_Bright_Location_Unlike_Externals%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5c\ns6%3A%E6%8F%BA%E8%95%A9%E5%A4%A2%E6%BE%AA%E6%A8%99_%EF%BD%9E_Bright_Location_Unlike_Externals%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 東方邪星章製作チーム
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [揺蕩夢澪標 ～ Bright Location Unlike Externals.](./揺蕩夢澪標_～_Bright_Location_Unlike_Externals..md)  
-该封面包含的角色：- [邪马台与桃姬](./邪马台与桃姬.md)- [水天宫皇女](./水天宫皇女.md)
-
-
-
+- [揺蕩夢澪標 ～ Bright Location Unlike Externals.](./揺蕩夢澪標_～_Bright_Location_Unlike_Externals..md)该封面包含的角色：
+- [邪马台与桃姬](./邪马台与桃姬.md)
+- [水天宫皇女](./水天宫皇女.md)
 
 
 ---

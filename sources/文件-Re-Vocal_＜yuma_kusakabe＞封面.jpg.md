@@ -1,6 +1,6 @@
 # 文件:Re-Vocal_＜yuma_kusakabe＞封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fc\ns6%3ARe-Vocal_%EF%BC%9Cyuma_kusakabe%EF%BC%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fc\ns6%3ARe-Vocal_%EF%BC%9Cyuma_kusakabe%EF%BC%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 LiLA'c_Records | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ LiLA'c_Records | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Re-Vocal ＜yuma kusakabe＞](./Re-Vocal_＜yuma_kusakabe＞.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [Re-Vocal ＜yuma kusakabe＞](./Re-Vocal_＜yuma_kusakabe＞.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

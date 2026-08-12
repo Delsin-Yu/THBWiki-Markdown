@@ -1,16 +1,12 @@
 # 文件:ssg_E6.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\34\ns6%3Assg_E6%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\34\ns6%3Assg_E6%2Epng.html -->
 
 秋霜玉
 
   
 秋霜玉敌机6像素图。
   
-
-
-
-
 
 ---
 

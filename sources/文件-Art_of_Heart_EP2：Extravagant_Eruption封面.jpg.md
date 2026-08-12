@@ -1,6 +1,6 @@
 # 文件:Art_of_Heart_EP2：Extravagant_Eruption封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d7\ns6%3AArt_of_Heart_EP2%EF%BC%9AExtravagant_Eruption%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d7\ns6%3AArt_of_Heart_EP2%EF%BC%9AExtravagant_Eruption%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Art_of_Heart | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Art_of_Heart | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Art of Heart EP2：Extravagant Eruption](./Art_of_Heart_EP2：Extravagant_Eruption.md)  
-该封面包含的角色：- [藤原妹红](./藤原妹红.md)
-
-
-
+- [Art of Heart EP2：Extravagant Eruption](./Art_of_Heart_EP2：Extravagant_Eruption.md)该封面包含的角色：
+- [藤原妹红](./藤原妹红.md)
 
 
 ---

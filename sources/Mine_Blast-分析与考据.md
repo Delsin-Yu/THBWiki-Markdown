@@ -1,6 +1,6 @@
 # Mine_Blast/分析与考据
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\5\59\ns0%3AMine_Blast%2F%E5%88%86%E6%9E%90%E4%B8%8E%E8%80%83%E6%8D%AE.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\5\59\ns0%3AMine_Blast%2F%E5%88%86%E6%9E%90%E4%B8%8E%E8%80%83%E6%8D%AE.html -->
 
 姬虫百百世 | 符卡
 
@@ -13,48 +13,42 @@
 - [4 导航](#导航)
 
 
-
-
-
 ## 分析考据
   
- **採掘「マインブラスト」**  采掘「Mine Blast」（矿山爆破）
+**採掘「マインブラスト」** 采掘「Mine Blast」（矿山爆破）
   
 
-- マイン
+- マイン 
   - 英语：Mine，矿山。
 
-- ブラスト
+
+- ブラスト 
   - 英语：Blast，爆破。
 
-- マインブラスト
+
+- マインブラスト 
   - 英语：Mine Blast，矿山爆破。
   - 可能取自挖掘隧道常用的「钻爆法」（Drilling-Blasting Method），由于此法最早用于矿山隧道挖掘，因此也称作「矿山法」（Mine Tunnelling Method）。[^cite_note-1]
     - 全称「钻眼爆破法」，在早期主要是人工用铁钎、铁锤在岩体上凿出孔洞，再在孔洞中埋入烈性炸药包，最后用雷管引爆，将岩层整个炸穿。
     - 现代主要使用「凿岩台车」、「多臂钻车」等机械来钻孔，并应用「毫秒爆破」等技术来进行。
 
-  - 符卡中，[姬虫百百世](./姬虫百百世.md)先发射出椭弹，弹幕停留在画面边缘，之后发生爆炸。
+
+  - 符卡中，[姬虫百百世](./姬虫百百世.md)先发射出椭弹，弹幕停留在画面边缘，之后发生爆炸。 
     - 可能在模拟「钻爆法」的施工过程，先钻孔埋入烈性炸药包，之后雷管引爆，炸穿岩层。
 
 
 
-- [](./文件-传统人工凿孔.jpg.md)传统人工凿孔- [](./文件-现代施工爆破.jpg.md)现代施工爆破
 
+
+
+- <img alt="传统人工凿孔" src="https://upload.thwiki.cc/thumb/8/8c/%E4%BC%A0%E7%BB%9F%E4%BA%BA%E5%B7%A5%E5%87%BF%E5%AD%94.jpg/200px-%E4%BC%A0%E7%BB%9F%E4%BA%BA%E5%B7%A5%E5%87%BF%E5%AD%94.jpg" decoding="async" loading="lazy" width="200" height="157" srcset="https://upload.thwiki.cc/thumb/8/8c/%E4%BC%A0%E7%BB%9F%E4%BA%BA%E5%B7%A5%E5%87%BF%E5%AD%94.jpg/300px-%E4%BC%A0%E7%BB%9F%E4%BA%BA%E5%B7%A5%E5%87%BF%E5%AD%94.jpg 1.5x, https://upload.thwiki.cc/8/8c/%E4%BC%A0%E7%BB%9F%E4%BA%BA%E5%B7%A5%E5%87%BF%E5%AD%94.jpg 2x" data-file-width="329" data-file-height="258"> 传统人工凿孔
+- <img alt="现代施工爆破" src="https://upload.thwiki.cc/thumb/d/da/%E7%8E%B0%E4%BB%A3%E6%96%BD%E5%B7%A5%E7%88%86%E7%A0%B4.jpg/200px-%E7%8E%B0%E4%BB%A3%E6%96%BD%E5%B7%A5%E7%88%86%E7%A0%B4.jpg" decoding="async" loading="lazy" width="200" height="141" srcset="https://upload.thwiki.cc/thumb/d/da/%E7%8E%B0%E4%BB%A3%E6%96%BD%E5%B7%A5%E7%88%86%E7%A0%B4.jpg/300px-%E7%8E%B0%E4%BB%A3%E6%96%BD%E5%B7%A5%E7%88%86%E7%A0%B4.jpg 1.5x, https://upload.thwiki.cc/thumb/d/da/%E7%8E%B0%E4%BB%A3%E6%96%BD%E5%B7%A5%E7%88%86%E7%A0%B4.jpg/400px-%E7%8E%B0%E4%BB%A3%E6%96%BD%E5%B7%A5%E7%88%86%E7%A0%B4.jpg 2x" data-file-width="586" data-file-height="412"> 现代施工爆破
 
 [^cite_note-1]: 中文维基百科：[钻爆法](https://en.wikipedia.org/wiki/zh:钻爆法)
 
-
 ## 参见
+
 - [姬虫百百世/分析考据](./姬虫百百世-分析考据.md)
-
-
-## 导航
-
-<table><tbody><tr><td><table cellspacing="0" class="nowraplinks mw-collapsible mw-collapsed" style="width:100%;;;"><tbody><tr><th style=";" colspan="3" class="navbox-title"><div class="navbar"><div class="noprint plainlinksneverexpand" style="background-color:transparent; padding:0; font-weight:normal; font-size:80%; white-space:nowrap;"><a href="./模板-姬虫百百世符卡导航.md" title="模板:姬虫百百世符卡导航"><span style=";;border:none;" title="查看这个模板">查</span></a>&#160;<span style="font-size:80%;">•</span>&#160;<a href="/index.php?title=%E6%A8%A1%E6%9D%BF:%E5%A7%AC%E8%99%AB%E7%99%BE%E7%99%BE%E4%B8%96%E7%AC%A6%E5%8D%A1%E5%AF%BC%E8%88%AA&amp;action=edit"><span style=";;border:none;" title="您可以编辑这个模板。请在储存变更之前先预览">编</span></a></div></div><span><a href="./姬虫百百世.md" title="姬虫百百世">姬虫百百世</a>符卡</span></th></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">射击游戏</td><td style=";;" class="navbox-list navbox-odd"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div><a href="./东方虹龙洞.md" title="东方虹龙洞">东方虹龙洞</a></div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./Cannibalistic_Insect.md" title="Cannibalistic Insect" unred="">蛊毒「Cannibalistic Insect」</a> &#8226; <a href="./Cave_Swarmer.md" title="Cave Swarmer" unred="">蛊毒「Cave Swarmer」</a> &#8226; <a href="./Sky_Pendra.md" title="Sky Pendra" unred="">蛊毒「Sky Pendra」</a> &#8226; <a href="./不断累积的矿山废石.md" title="不断累积的矿山废石" unred="">采掘「不断累积的矿山废石」</a> &#8226; <a href="./Mine_Blast.md" title="Mine Blast" unred="">采掘「Mine Blast」</a> &#8226; <a href="./妖怪们的盾构法.md" title="妖怪们的盾构法" unred="">采掘「妖怪们的盾构法」</a> &#8226; <a href="./Snake_Eater.md" title="Snake Eater" unred="">大蜈蚣「Snake Eater」</a> &#8226; <a href="./Dragon_Eater.md" title="Dragon Eater" unred="">大蜈蚣「Dragon Eater」</a> &#8226; <a href="./蛊毒的美食家.md" title="蛊毒的美食家" unred="">「蛊毒的美食家」</a> &#8226; <a href="./虫姬殿下的闪耀忙乱的日常.md" title="虫姬殿下的闪耀忙乱的日常" unred="">「虫姬殿下的闪耀忙乱的日常」</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div><a href="./弹幕狂们的黑市.md" title="弹幕狂们的黑市">弹幕狂们的黑市</a></div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./Cave_Swarmer.md" title="Cave Swarmer" unred="">蛊毒「Revolt Swarmer」</a> &#8226; <a href="./四分五裂痛苦挣扎之虫的怨念.md" title="四分五裂痛苦挣扎之虫的怨念" unred="">「四分五裂痛苦挣扎之虫的怨念」</a></div></td></tr></tbody></table><div></div></td><td class="navbox-image" style="" rowspan="1"><a href="./文件-姬虫百百世（Q版立绘）.png.md" class="image"><img alt="姬虫百百世（Q版立绘）.png" src="https://upload.thwiki.cc/thumb/d/d5/%E5%A7%AC%E8%99%AB%E7%99%BE%E7%99%BE%E4%B8%96%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png/160px-%E5%A7%AC%E8%99%AB%E7%99%BE%E7%99%BE%E4%B8%96%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="160" height="160" srcset="https://upload.thwiki.cc/thumb/d/d5/%E5%A7%AC%E8%99%AB%E7%99%BE%E7%99%BE%E4%B8%96%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png/240px-%E5%A7%AC%E8%99%AB%E7%99%BE%E7%99%BE%E4%B8%96%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/d/d5/%E5%A7%AC%E8%99%AB%E7%99%BE%E7%99%BE%E4%B8%96%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png/320px-%E5%A7%AC%E8%99%AB%E7%99%BE%E7%99%BE%E4%B8%96%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="500" data-file-height="500"></a></td></tr></tbody></table></td></tr></tbody></table>
-
-
-
-
 
 
 ---

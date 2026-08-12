@@ -1,12 +1,8 @@
 # 文件:Silly_Walker_banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b4\ns6%3ASilly_Walker_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b4\ns6%3ASilly_Walker_banner%2Ejpg.html -->
 
 Silly_Walker | 社团LOGO
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:NEW_HORI-ZUN_1：_Listening_CD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\67\ns6%3ANEW_HORI-ZUN_1%EF%BC%9A_Listening_CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\67\ns6%3ANEW_HORI-ZUN_1%EF%BC%9A_Listening_CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ddiction | 专辑封面 | 封面图片
 
@@ -10,11 +10,9 @@ ddiction | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [NEW HORI-ZUN 1： Listening CD](./NEW_HORI-ZUN_1：_Listening_CD.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)- [大妖精](./大妖精.md)
-
-
-
+- [NEW HORI-ZUN 1： Listening CD](./NEW_HORI-ZUN_1：_Listening_CD.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
+- [大妖精](./大妖精.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Boundary_Distortion_DEMO_DISK_01封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ed\ns6%3ABoundary_Distortion_DEMO_DISK_01%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ed\ns6%3ABoundary_Distortion_DEMO_DISK_01%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Boundary_Distortion | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Boundary_Distortion | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Boundary Distortion DEMO DISK 01](./Boundary_Distortion_DEMO_DISK_01.md)  
-该封面包含的角色：- [莉格露·奈特巴格](./莉格露·奈特巴格.md)
-
-
-
+- [Boundary Distortion DEMO DISK 01](./Boundary_Distortion_DEMO_DISK_01.md)该封面包含的角色：
+- [莉格露·奈特巴格](./莉格露·奈特巴格.md)
 
 
 ---

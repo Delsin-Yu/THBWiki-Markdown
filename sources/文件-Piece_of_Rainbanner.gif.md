@@ -1,14 +1,11 @@
 # 文件:Piece_of_Rainbanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f1\ns6%3APiece_of_Rainbanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f1\ns6%3APiece_of_Rainbanner%2Egif.html -->
 
 Piece_of_Rain | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

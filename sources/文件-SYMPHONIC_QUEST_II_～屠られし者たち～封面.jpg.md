@@ -1,6 +1,6 @@
 # 文件:SYMPHONIC_QUEST_II_～屠られし者たち～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\96\ns6%3ASYMPHONIC_QUEST_II_%EF%BD%9E%E5%B1%A0%E3%82%89%E3%82%8C%E3%81%97%E8%80%85%E3%81%9F%E3%81%A1%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\96\ns6%3ASYMPHONIC_QUEST_II_%EF%BD%9E%E5%B1%A0%E3%82%89%E3%82%8C%E3%81%97%E8%80%85%E3%81%9F%E3%81%A1%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 趣味工房にんじんわいん
 
@@ -8,11 +8,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [SYMPHONIC QUEST II ～屠られし者たち～](./SYMPHONIC_QUEST_II_～屠られし者たち～.md)  
-该封面包含的角色：- [橙](./橙.md)- [魂魄妖梦](./魂魄妖梦.md)- [西行寺幽幽子](./西行寺幽幽子.md)- [八云蓝](./八云蓝.md)- [八云紫](./八云紫.md)
-
-
-
+- [SYMPHONIC QUEST II ～屠られし者たち～](./SYMPHONIC_QUEST_II_～屠られし者たち～.md)该封面包含的角色：
+- [橙](./橙.md)
+- [魂魄妖梦](./魂魄妖梦.md)
+- [西行寺幽幽子](./西行寺幽幽子.md)
+- [八云蓝](./八云蓝.md)
+- [八云紫](./八云紫.md)
 
 
 ---

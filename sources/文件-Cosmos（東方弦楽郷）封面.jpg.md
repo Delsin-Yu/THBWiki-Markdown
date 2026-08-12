@@ -1,6 +1,6 @@
 # 文件:Cosmos（東方弦楽郷）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0b\ns6%3ACosmos%EF%BC%88%E6%9D%B1%E6%96%B9%E5%BC%A6%E6%A5%BD%E9%83%B7%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0b\ns6%3ACosmos%EF%BC%88%E6%9D%B1%E6%96%B9%E5%BC%A6%E6%A5%BD%E9%83%B7%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 東方弦楽郷
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Cosmos（東方弦楽郷）](./Cosmos（東方弦楽郷）.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
-
-
-
+- [Cosmos（東方弦楽郷）](./Cosmos（東方弦楽郷）.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
 
 
 ---

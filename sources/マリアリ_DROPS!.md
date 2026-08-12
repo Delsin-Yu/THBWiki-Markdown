@@ -1,23 +1,20 @@
 # マリアリ_DROPS!
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\b9\ns0%3A%E3%83%9E%E3%83%AA%E3%82%A2%E3%83%AA_DROPS%21.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\b9\ns0%3A%E3%83%9E%E3%83%AA%E3%82%A2%E3%83%AA_DROPS%21.html -->
 
 2018年5月6日 由 狐の嫁入り 于 博丽神社例大祭15 发布的漫画/合同志同人志，B5尺寸一共36页，登场人物有 爱丽丝·玛格特洛依德、雾雨魔理沙，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人志 (未找到链接)** 的词条
-
+**[二次创作同人志](./二次创作.md#同人志)**的词条
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-マリアリ_DROPS!封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/7/72/%E3%83%9E%E3%83%AA%E3%82%A2%E3%83%AA_DROPS%21%E5%B0%81%E9%9D%A2.jpg/161px-%E3%83%9E%E3%83%AA%E3%82%A2%E3%83%AA_DROPS%21%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="161" height="224" srcset="https://upload.thwiki.cc/thumb/7/72/%E3%83%9E%E3%83%AA%E3%82%A2%E3%83%AA_DROPS%21%E5%B0%81%E9%9D%A2.jpg/242px-%E3%83%9E%E3%83%AA%E3%82%A2%E3%83%AA_DROPS%21%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/7/72/%E3%83%9E%E3%83%AA%E3%82%A2%E3%83%AA_DROPS%21%E5%B0%81%E9%9D%A2.jpg/322px-%E3%83%9E%E3%83%AA%E3%82%A2%E3%83%AA_DROPS%21%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="324" data-file-height="450"></a><div class="cover-char">角色：<a href="./爱丽丝·玛格特洛依德.md" title="爱丽丝·玛格特洛依德">爱丽丝·玛格特洛依德</a>，<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a></div></td>
 </tr><tr><td class="label">名称</td><td colspan="2"> マリアリ DROPS! </td></tr><tr><td class="label">制作方</td><td><a href="./狐の嫁入り.md" title="狐の嫁入り">狐の嫁入り</a></td><td class="cover-artwork" rowspan="8" style="min-width:224px;"><a href="./文件-マリアリ_DROPS!封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/7/72/%E3%83%9E%E3%83%AA%E3%82%A2%E3%83%AA_DROPS%21%E5%B0%81%E9%9D%A2.jpg/161px-%E3%83%9E%E3%83%AA%E3%82%A2%E3%83%AA_DROPS%21%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="161" height="224" srcset="https://upload.thwiki.cc/thumb/7/72/%E3%83%9E%E3%83%AA%E3%82%A2%E3%83%AA_DROPS%21%E5%B0%81%E9%9D%A2.jpg/242px-%E3%83%9E%E3%83%AA%E3%82%A2%E3%83%AA_DROPS%21%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/7/72/%E3%83%9E%E3%83%AA%E3%82%A2%E3%83%AA_DROPS%21%E5%B0%81%E9%9D%A2.jpg/322px-%E3%83%9E%E3%83%AA%E3%82%A2%E3%83%AA_DROPS%21%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="324" data-file-height="450"></a><div class="cover-char">角色：<a href="./爱丽丝·玛格特洛依德.md" title="爱丽丝·玛格特洛依德">爱丽丝·玛格特洛依德</a>，<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2018-05-06&#160;（<a href="/展会作品列表?e=%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD%2315">第十五回 博麗神社例大祭</a>）</td></tr><tr><td class="label">类型</td><td>漫画，合同志</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>B5</td></tr><tr><td class="label">页数</td><td>36P</td></tr><tr><td class="label">登场人物</td><td><a href="./爱丽丝·玛格特洛依德.md" title="爱丽丝·玛格特洛依德">爱丽丝·玛格特洛依德</a>，<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a></td></tr><tr><td class="label">售价</td><td>通贩售价：714日元</td></tr>
+</tr><tr><td class="label">首发日期</td><td>2018-05-06 （<a href="./展会作品列表.md#15">第十五回 博麗神社例大祭</a>）</td></tr><tr><td class="label">类型</td><td>漫画，合同志</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>B5</td></tr><tr><td class="label">页数</td><td>36P</td></tr><tr><td class="label">登场人物</td><td><a href="./爱丽丝·玛格特洛依德.md" title="爱丽丝·玛格特洛依德">爱丽丝·玛格特洛依德</a>，<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a></td></tr><tr><td class="label">售价</td><td>通贩售价：714日元</td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/rakugakiinuno/status/987661523148464128">https://twitter.com/rakugakiinuno/status/987661523148464128</a></td></tr></tbody></table>
 
 マリアリ DROPS!（同人志，狐の嫁入り，2018） - 2018年5月6日 由 狐の嫁入り 于 博丽神社例大祭15 发布的漫画/合同志同人志，B5尺寸一共36页，登场人物有 爱丽丝·玛格特洛依德、雾雨魔理沙，分级为 一般向
-
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=362114">蜜瓜</a></td></tr></tbody></table>
-
 
 
 ## Staff
@@ -32,21 +29,13 @@
 : 緋南紅夏 (未找到链接) （Fiesta de Caricatura (未找到链接)）
 : ふがし (未找到链接) （黒糖デブリ (未找到链接)）
 
-
 ## 评论
+
 - 作者
 
+
 ```
-マリアリの合同誌です　合同参加者　犬野ラクガキ、根黒、白山どんどゅるま、茶太丸、にらぴー、緋南紅夏、ふがし
-```
-
-  
-  
-
-  
-
-
-
+マリアリの合同誌です 合同参加者 犬野ラクガキ、根黒、白山どんどゅるま、茶太丸、にらぴー、緋南紅夏、ふがし ```
 
 
 ---

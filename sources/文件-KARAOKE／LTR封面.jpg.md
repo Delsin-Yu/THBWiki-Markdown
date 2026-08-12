@@ -1,6 +1,6 @@
 # 文件:KARAOKE／LTR封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2e\ns6%3AKARAOKE%EF%BC%8FLTR%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2e\ns6%3AKARAOKE%EF%BC%8FLTR%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ZYTOKINE | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ ZYTOKINE | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [KARAOKE／LTR](./KARAOKE／LTR.md)  
-该封面包含的角色：- [若鹭姬](./若鹭姬.md)
-
-
-
+- [KARAOKE／LTR](./KARAOKE／LTR.md)该封面包含的角色：
+- [若鹭姬](./若鹭姬.md)
 
 
 ---

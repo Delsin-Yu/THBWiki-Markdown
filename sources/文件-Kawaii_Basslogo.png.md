@@ -1,18 +1,13 @@
 # 文件:Kawaii_Basslogo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fd\ns6%3AKawaii_Basslogo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fd\ns6%3AKawaii_Basslogo%2Epng.html -->
 
 Kawaii_Bass | 社团LOGO
 
 
 ## 摘要
   
-源地址：[direct image link](https://www.kawaiibass.com/images/kb-logo-shadow.png), [source page](https://www.kawaiibass.com/)
-  
-
-
-
-
+源地址：[direct image link](https://www.kawaiibass.com/images/kb-logo-shadow.png), [source page](https://www.kawaiibass.com/)  
 
 ---
 

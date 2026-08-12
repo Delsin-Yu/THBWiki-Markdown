@@ -1,12 +1,8 @@
 # 文件:blackgatebanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b7\ns6%3Ablackgatebanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b7\ns6%3Ablackgatebanner%2Epng.html -->
 
 blackgate | 社团LOGO
-
-
-
-
 
 
 ---

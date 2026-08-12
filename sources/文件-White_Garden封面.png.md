@@ -1,6 +1,6 @@
 # 文件:White_Garden封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\46\ns6%3AWhite_Garden%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\46\ns6%3AWhite_Garden%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Freaks_Ground | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ Freaks_Ground | 专辑封面 | 封面图片
   
 
 - [White Garden](./White_Garden.md)
-
-
-
 
 
 ---

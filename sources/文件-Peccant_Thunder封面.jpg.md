@@ -1,6 +1,6 @@
 # 文件:Peccant_Thunder封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ea\ns6%3APeccant_Thunder%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ea\ns6%3APeccant_Thunder%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 AGENT_0 | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ AGENT_0 | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Peccant Thunder](./Peccant_Thunder.md)  
-该封面包含的角色：- [堀川雷鼓](./堀川雷鼓.md)
+- [Peccant Thunder](./Peccant_Thunder.md)该封面包含的角色：
+- [堀川雷鼓](./堀川雷鼓.md)
 
   
-[Pixiv artwork ID: 47679615 (image 2/3; original size)](https://www.pixiv.net/artworks/47679615)
-  
-
-
-
-
+[Pixiv artwork ID: 47679615 (image 2/3; original size)](https://www.pixiv.net/artworks/47679615)  
 
 ---
 

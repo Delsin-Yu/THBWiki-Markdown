@@ -1,14 +1,11 @@
 # 文件:onionclubbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\67\ns6%3Aonionclubbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\67\ns6%3Aonionclubbanner%2Ejpg.html -->
 
 onionclub | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

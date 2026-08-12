@@ -1,6 +1,6 @@
 # 文件:TUMENECO_Guitar_Collection封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ee\ns6%3ATUMENECO_Guitar_Collection%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ee\ns6%3ATUMENECO_Guitar_Collection%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 TUMENECO | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ TUMENECO | 专辑封面 | 封面图片
   
 
 - [TUMENECO Guitar Collection](./TUMENECO_Guitar_Collection.md)
-
-
-
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:古舟「Ancient_Ship」（天邪鬼）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a6\ns6%3A%E5%8F%A4%E8%88%9F%E3%80%8CAncient_Ship%E3%80%8D%EF%BC%88%E5%A4%A9%E9%82%AA%E9%AC%BC%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a6\ns6%3A%E5%8F%A4%E8%88%9F%E3%80%8CAncient_Ship%E3%80%8D%EF%BC%88%E5%A4%A9%E9%82%AA%E9%AC%BC%EF%BC%89%2Ejpg.html -->
 
 弹幕天邪鬼 | 敌机符卡 | 物部布都
-
-
-
-
 
 
 ---

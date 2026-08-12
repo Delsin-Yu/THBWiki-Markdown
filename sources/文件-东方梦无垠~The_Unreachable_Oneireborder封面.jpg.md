@@ -1,6 +1,6 @@
 # 文件:东方梦无垠~The_Unreachable_Oneireborder封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4c\ns6%3A%E4%B8%9C%E6%96%B9%E6%A2%A6%E6%97%A0%E5%9E%A0%7EThe_Unreachable_Oneireborder%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4c\ns6%3A%E4%B8%9C%E6%96%B9%E6%A2%A6%E6%97%A0%E5%9E%A0%7EThe_Unreachable_Oneireborder%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 实界 | 封面图片 | 软件封面
 
@@ -14,10 +14,6 @@
 东方梦无垠封面（未定稿）
 由云绝万里绘制
   
-
-
-
-
 
 ---
 

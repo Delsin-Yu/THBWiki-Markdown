@@ -1,12 +1,8 @@
 # 文件:夢色ゆーとぴあbanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\32\ns6%3A%E5%A4%A2%E8%89%B2%E3%82%86%E3%83%BC%E3%81%A8%E3%81%B4%E3%81%82banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\32\ns6%3A%E5%A4%A2%E8%89%B2%E3%82%86%E3%83%BC%E3%81%A8%E3%81%B4%E3%81%82banner%2Egif.html -->
 
 夢色ゆーとぴあ | 社团LOGO
-
-
-
-
 
 
 ---

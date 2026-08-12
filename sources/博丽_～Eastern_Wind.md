@@ -1,18 +1,16 @@
 # 博丽_～Eastern_Wind
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\e\e1\ns0%3A%E5%8D%9A%E4%B8%BD_%EF%BD%9EEastern_Wind.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\e\e1\ns0%3A%E5%8D%9A%E4%B8%BD_%EF%BD%9EEastern_Wind.html -->
 
 由 ZUN 创作的官方曲目，原名 博麗　～Eastern Wind
 
 本页是关于东方Project  
- **原作音乐** 的词条
-
+**原作音乐**的词条
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 出现作品](#出现作品)
 - [3 音乐文件](#音乐文件)
-
   - [3.1 东方封魔录](#东方封魔录)
   - [3.2 东方幻想乡](#东方幻想乡)
   - [3.3 东方怪绮谈](#东方怪绮谈)
@@ -21,28 +19,20 @@
   - [3.6 幺乐团的历史 vol.3](#幺乐团的历史_vol.3)
 
 
-
 - [4 说明文本](#说明文本)
-
   - [4.1 东方封魔录](#东方封魔录_2)
   - [4.2 东方怪绮谈](#东方怪绮谈_2)
   - [4.3 东方幻想的音乐](#东方幻想的音乐_2)
   - [4.4 东方幻想怀古曲](#东方幻想怀古曲_2)
 
 
-
 - [5 其他资料](#其他资料)
-
   - [5.1 乐理资讯](#乐理资讯)
   - [5.2 分析考据](#分析考据)
   - [5.3 二次同人数据](#二次同人数据)
 
 
-
 - [6 注释](#注释)
-
-
-
 
 
 ## 基本信息
@@ -50,7 +40,6 @@
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">博麗　～Eastern Wind</td></tr><tr><td><b>译名</b></td><td>博丽 ～Eastern Wind</td></tr><tr><td><b>英文译名</b></td><td>Hakurei ~ Eastern Wind</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 博丽 ～Eastern Wind（曲目） - 由 ZUN 创作的官方曲目，原名 博麗　～Eastern Wind
-
 ## 出现作品
 
 <table>
@@ -63,7 +52,6 @@
 </tbody></table>
 
 
-
 ## 音乐文件
 
 ### 东方封魔录
@@ -71,17 +59,13 @@
 FM86版，由PMDPlay导出。
   
 
-
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th02_02_FM.ogg.md" title="文件:th02 02 FM.ogg">th02_02_FM.ogg</a><br><audio src="https://upload.thwiki.cc/2/27/th02_02_FM.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>STAGE0.M</td></tr><tr><td><b>音轨时长</b></td><td>1:45.508</td></tr></tbody></table>
-
 
   
 MIDI版，由Roland Sound Canvas 88Pro实机录音得到。
   
 
-
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td><a href="./文件-th02_02.MID.md" title="文件:th02 02.MID">th02_02.MID</a></td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th02_02_MIDI.mp3.md" title="文件:th02 02 MIDI.mp3">th02_02_MIDI.mp3</a><br><audio src="https://upload.thwiki.cc/a/a2/th02_02_MIDI.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>STAGE0.MMD</td></tr><tr><td><b>音轨时长</b></td><td>2:25</td></tr></tbody></table>
-
 
 
 ### 东方幻想乡
@@ -89,9 +73,7 @@ MIDI版，由Roland Sound Canvas 88Pro实机录音得到。
 YM2608(OPNA)，FM86版。
   
 
-
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th04_H_02.ogg.md" title="文件:th04 H 02.ogg">th04_H_02.ogg</a><br><audio src="https://upload.thwiki.cc/f/fc/th04_H_02.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>HUU1_86.M</td></tr><tr><td><b>音轨时长</b></td><td>1:45.508</td></tr></tbody></table>
-
 
 
 ### 东方怪绮谈
@@ -99,9 +81,7 @@ YM2608(OPNA)，FM86版。
 YM2608(OPNA)，FM86版。
   
 
-
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th05_H_02.ogg.md" title="文件:th05 H 02.ogg">th05_H_02.ogg</a><br><audio src="https://upload.thwiki.cc/e/e3/th05_H_02.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>H_ST00.M</td></tr><tr><td><b>音轨时长</b></td><td>1:45.508</td></tr></tbody></table>
-
 
 
 ### 东方幻想的音乐
@@ -109,11 +89,9 @@ YM2608(OPNA)，FM86版。
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td><a href="./文件-th2_02.mid.md" title="文件:th2 02.mid">th2_02.mid</a></td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th2_02.mp3.md" title="文件:th2 02.mp3">th2_02.mp3</a><br><audio src="https://upload.thwiki.cc/4/41/th2_02.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>th2_02.mid</td></tr><tr><td><b>音轨时长</b></td><td>4:00</td></tr></tbody></table>
 
 
-
 ### 东方幻想怀古曲
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-thgs02_02.ogg.md" title="文件:thgs02 02.ogg">thgs02_02.ogg</a><br><audio src="https://upload.thwiki.cc/4/40/thgs02_02.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>th2_02.M</td></tr><tr><td><b>音轨时长</b></td><td>1:45.508</td></tr></tbody></table>
-
 
 
 ### 幺乐团的历史 vol.3
@@ -121,11 +99,11 @@ YM2608(OPNA)，FM86版。
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-ha03_02.mp3.md" title="文件:ha03 02.mp3">ha03_02.mp3</a><br><audio src="https://upload.thwiki.cc/c/ca/ha03_02.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track02.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>4:05</td></tr></tbody></table>
 
 
-
 ## 说明文本
 
 ### 东方封魔录
-- Music Mode (未找到链接)
+
+- [Music Mode](./东方封魔录-Music.md#1面主题曲)
 
 FM版第一关的主题曲。  
 （气氛）很沉重呢。许多STG的第一关音乐都有节奏感，  
@@ -142,9 +120,9 @@ FM版第一关的主题曲。
 ＳＴＡＧＥ　１的曲子  
 再做一次的话，就会多少有些黑暗了吧。  
 不过现在还是能够容忍的范围。STAGE0.MMD博丽　　～Ｅａｓｔｅｒｎ　Ｗｉｎｄ　　　　　　　　　　　　ＺＵＮ
-
 ### 东方怪绮谈
-- Music Room (未找到链接)
+
+- [Music Room](./东方怪绮谈-Music.md#1面主题曲)
 
 　　１面的主题曲  
 　　＊８６兼容音源专用博丽　～Eastern Wind  
@@ -152,9 +130,9 @@ FM版第一关的主题曲。
 ＳＴＡＧＥ　１的曲子  
 再做一次的话，就会多少有些黑暗了吧。  
 不过现在还是能够容忍的范围。
-
 ### 东方幻想的音乐
-- th2_02.txt (未找到链接)
+
+- [th2_02.txt](./东方幻想的音乐-过去的曲子-东方封魔录.md#博丽_～Eastern_Wind)
 
 +----------------------------------------------------------------------------+  
 |【 　 曲名　　】|【 博丽　～ Eastern Wind 】  
@@ -167,7 +145,7 @@ FM版第一关的主题曲。
 |【  可否转载  】| 基本自由。但是，请邮件联络。  
 |                | 这种时候，请不要更动压缩包内部文件。  
 |【演奏上的注意】| 用sc-88Pro 的人在演奏时请不要按55Map,88Map。  
-|                                                &#126;&#126;&#126;&#126;~   
+|                                                ~~~~~   
 +-----------------------------------------------------------------------------+  
   感谢下载本文件。  
   
@@ -178,9 +156,9 @@ FM版第一关的主题曲。
   不过，这样一听的话，FM 音源版、MIDI 音源版、然后这次的改编版就成了除了主旋律以外完全不同的旋律了，那么全部同样地听完是为什么呢(@_@?  
   
   那么，下次曲子再见吧　ＺＵＮ
-
 ### 东方幻想怀古曲
-- th2_02pmd.txt (未找到链接)
+
+- [th2_02pmd.txt](./东方幻想怀古曲-东方封魔录.md#博丽_～Eastern_Wind)
 
 +----------------------------------------------------------------------------+  
 |【 　 曲名　　】| 【 博丽　～ Eastern Wind 】（原版）  
@@ -218,36 +196,36 @@ FM版第一关的主题曲。
 曲子的感想、请求等，请这边  
 　东方幻想空间　「博丽神社」 [http://www16.big.or.jp/~zun/](http://www16.big.or.jp/~zun/)  
 　e-Mail                     zun@big.or.jp
-
 ## 其他资料
 
 ### 乐理资讯
 
 ### 分析考据
   
- **博麗　～Eastern Wind** 
-  
+**博麗 ～Eastern Wind**  
 博丽～Eastern Wind
   
 
-- 博丽
+- 博丽 
   - 博丽神社，一面的场景
   - 博丽灵梦
 
-- Eastern，东方的
+
+- Eastern，东方的 
   - 东方系列
 
-- Wind，风
+
+- Wind，风 
   - 一面的天气风雨交加
   - 《灵异传》未使用曲目《风之神社》
   - 《绀珠传》铃仙线二面台词：“从上方吹来了令人怀念的风”
+
 
 
   
   
 ZUN似乎很喜欢用“风”来代表某种情感。
   
-
 
 ### 二次同人数据
 
@@ -261,18 +239,6 @@ ZUN似乎很喜欢用“风”来代表某种情感。
 <tr><td>Arrange</td><td>76</td></tr>
 <tr><td>Vocal率</td><td>24%</td></tr>
 </tbody></table>
-
-
-
-
-
-  
-  
-
-  
-
-
-
 
 
 ---

@@ -1,16 +1,12 @@
 # 模板:武汉TH庙会
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\b\b5\ns10%3A%E6%AD%A6%E6%B1%89TH%E5%BA%99%E4%BC%9A.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\b\b5\ns10%3A%E6%AD%A6%E6%B1%89TH%E5%BA%99%E4%BC%9A.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

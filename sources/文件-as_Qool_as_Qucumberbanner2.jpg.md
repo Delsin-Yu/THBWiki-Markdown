@@ -1,14 +1,11 @@
 # 文件:as_Qool_as_Qucumberbanner2.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\60\ns6%3Aas_Qool_as_Qucumberbanner2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\60\ns6%3Aas_Qool_as_Qucumberbanner2%2Ejpg.html -->
 
 as_Qool_as_Qucumber | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

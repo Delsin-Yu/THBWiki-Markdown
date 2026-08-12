@@ -1,6 +1,6 @@
 # 文件:楽園へ_~_Rêveries_as_Rotating_Kaleidoscope.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b9\ns6%3A%E6%A5%BD%E5%9C%92%E3%81%B8_%7E_R%C3%AAveries_as_Rotating_Kaleidoscope%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b9\ns6%3A%E6%A5%BD%E5%9C%92%E3%81%B8_%7E_R%C3%AAveries_as_Rotating_Kaleidoscope%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 雨さかさまが夢のよう
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [楽園へ ~ Rêveries as Rotating Kaleidoscope.](./楽園へ_~_Rêveries_as_Rotating_Kaleidoscope..md)  
-该封面包含的角色：- [蓬莱人形](./蓬莱人形.md)
+- [楽園へ ~ Rêveries as Rotating Kaleidoscope.](./楽園へ_~_Rêveries_as_Rotating_Kaleidoscope..md)该封面包含的角色：
+- [蓬莱人形](./蓬莱人形.md)
 
   
-源地址：[direct image link (max size)](https://static.tumblr.com/90bee01a29a4b59396491f4226214d20/qcbi1ov/OwUp65jxa/tumblr_static_6ucz2adxyescs8g8w0g880k8k.png), [source page](https://rakuenhe.tumblr.com/)
-  
-
-
-
-
+源地址：[direct image link (max size)](https://static.tumblr.com/90bee01a29a4b59396491f4226214d20/qcbi1ov/OwUp65jxa/tumblr_static_6ucz2adxyescs8g8w0g880k8k.png), [source page](https://rakuenhe.tumblr.com/)  
 
 ---
 

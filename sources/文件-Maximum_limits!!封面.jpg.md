@@ -1,6 +1,6 @@
 # 文件:Maximum_limits!!封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7f\ns6%3AMaximum_limits%21%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7f\ns6%3AMaximum_limits%21%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 非可逆リズム
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [Maximum limits!!](./Maximum_limits!!.md)  
-该封面包含的角色：- [宫古芳香](./宫古芳香.md)- [霍青娥](./霍青娥.md)
-
-
-
+- [Maximum limits!!](./Maximum_limits!!.md)该封面包含的角色：
+- [宫古芳香](./宫古芳香.md)
+- [霍青娥](./霍青娥.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Nuclear_Blast（Argent_express）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7d\ns6%3ANuclear_Blast%EF%BC%88Argent_express%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7d\ns6%3ANuclear_Blast%EF%BC%88Argent_express%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Argent_express | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ Argent_express | 专辑封面 | 封面图片
   
 
 - [Nuclear Blast（Argent express）](./Nuclear_Blast（Argent_express）.md)
-
-
-
 
 
 ---

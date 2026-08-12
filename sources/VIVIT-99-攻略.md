@@ -1,6 +1,6 @@
 # VIVIT-99/攻略
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\fb\ns0%3AVIVIT-99%2F%E6%94%BB%E7%95%A5.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\fb\ns0%3AVIVIT-99%2F%E6%94%BB%E7%95%A5.html -->
 
 VIVIT-99
 
@@ -13,10 +13,6 @@ VIVIT-99
   
 初始血量为100%，每被击中一次即损失10%的血量并将擦弹值归零，重新累计。血量下降至0%或所有对手的血量都下降至0%时，游戏结束，显示玩家的排名和等级。可以在Twitter上发布，包括排名、等级、用时，并带有＃VIVIT99标签。
   
-
-
-
-
 
 ---
 

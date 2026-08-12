@@ -1,12 +1,8 @@
 # 文件:さぷりbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\11\ns6%3A%E3%81%95%E3%81%B7%E3%82%8Abanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\11\ns6%3A%E3%81%95%E3%81%B7%E3%82%8Abanner%2Ejpg.html -->
 
 さぷり | 社团LOGO
-
-
-
-
 
 
 ---

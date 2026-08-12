@@ -1,6 +1,6 @@
 # 文件:願いの欠片_EP封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\12\ns6%3A%E9%A1%98%E3%81%84%E3%81%AE%E6%AC%A0%E7%89%87_EP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\12\ns6%3A%E9%A1%98%E3%81%84%E3%81%AE%E6%AC%A0%E7%89%87_EP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 日本東方大学
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [願いの欠片 EP](./願いの欠片_EP.md)  
-该封面包含的角色：- [东风谷早苗](./东风谷早苗.md)
+- [願いの欠片 EP](./願いの欠片_EP.md)该封面包含的角色：
+- [东风谷早苗](./东风谷早苗.md)
 
   
-源地址：[direct image link](https://i1.sndcdn.com/artworks-000660089071-akf7wl-original.jpg), [source page](https://soundcloud.com/user-785400951/ep)
-  
-
-
-
-
+源地址：[direct image link](https://i1.sndcdn.com/artworks-000660089071-akf7wl-original.jpg), [source page](https://soundcloud.com/user-785400951/ep)  
 
 ---
 

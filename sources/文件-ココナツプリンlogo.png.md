@@ -1,16 +1,11 @@
 # 文件:ココナツプリンlogo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\82\ns6%3A%E3%82%B3%E3%82%B3%E3%83%8A%E3%83%84%E3%83%97%E3%83%AA%E3%83%B3logo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\82\ns6%3A%E3%82%B3%E3%82%B3%E3%83%8A%E3%83%84%E3%83%97%E3%83%AA%E3%83%B3logo%2Epng.html -->
 
 ココナツプリン | 社团LOGO
 
   
-源地址：[[1]](http://coconutpudding.xxxxxxxx.jp/top.png)
-  
-
-
-
-
+源地址：[\[1\]](http://coconutpudding.xxxxxxxx.jp/top.png)  
 
 ---
 

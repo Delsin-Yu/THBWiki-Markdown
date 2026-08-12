@@ -1,6 +1,6 @@
 # 文件:P_Horizon_Ⅱ_-_Spirit_Sphere_-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8b\ns6%3AP_Horizon_%E2%85%A1_-_Spirit_Sphere_-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8b\ns6%3AP_Horizon_%E2%85%A1_-_Spirit_Sphere_-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Cloister_Notes | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ Cloister_Notes | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [P Horizon Ⅱ - Spirit Sphere -](./P_Horizon_Ⅱ_-_Spirit_Sphere_-.md)  
-该封面包含的角色：- [霍青娥](./霍青娥.md)- [丰聪耳神子](./丰聪耳神子.md)
-
-
-
+- [P Horizon Ⅱ - Spirit Sphere -](./P_Horizon_Ⅱ_-_Spirit_Sphere_-.md)该封面包含的角色：
+- [霍青娥](./霍青娥.md)
+- [丰聪耳神子](./丰聪耳神子.md)
 
 
 ---

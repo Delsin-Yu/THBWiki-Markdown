@@ -1,45 +1,35 @@
 # Dim._Dream
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\b1\ns0%3ADim%2E_Dream.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\b1\ns0%3ADim%2E_Dream.html -->
 
 由 ZUN 创作的官方曲目，原名 Dim. Dream
 
 本页是关于东方Project  
- **原作音乐** 的词条
-
+**原作音乐**的词条
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 出现作品](#出现作品)
 - [3 音乐文件](#音乐文件)
-
   - [3.1 东方梦时空](#东方梦时空)
   - [3.2 东方怪绮谈](#东方怪绮谈)
   - [3.3 东方幻想怀古曲](#东方幻想怀古曲)
   - [3.4 幺乐团的历史 vol.4](#幺乐团的历史_vol.4)
 
 
-
 - [4 说明文本](#说明文本)
-
   - [4.1 东方梦时空](#东方梦时空_2)
   - [4.2 东方怪绮谈](#东方怪绮谈_2)
   - [4.3 东方幻想怀古曲](#东方幻想怀古曲_2)
 
 
-
 - [5 其他资料](#其他资料)
-
   - [5.1 乐理资讯](#乐理资讯)
   - [5.2 分析考据](#分析考据)
   - [5.3 二次同人数据](#二次同人数据)
 
 
-
 - [6 注释](#注释)
-
-
-
 
 
 ## 基本信息
@@ -47,7 +37,6 @@
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">Dim. Dream</td></tr><tr><td><b>译名</b></td><td>Dim. Dream</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 Dim. Dream（曲目） - 由 ZUN 创作的官方曲目，原名 Dim. Dream
-
 ## 出现作品
 
 <table>
@@ -58,7 +47,6 @@ Dim. Dream（曲目） - 由 ZUN 创作的官方曲目，原名 Dim. Dream
 </tbody></table>
 
 
-
 ## 音乐文件
 
 ### 东方梦时空
@@ -66,9 +54,7 @@ Dim. Dream（曲目） - 由 ZUN 创作的官方曲目，原名 Dim. Dream
 YM2608(OPNA)，FM86版。
   
 
-
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th03_05.ogg.md" title="文件:th03 05.ogg">th03_05.ogg</a><br><audio src="https://upload.thwiki.cc/8/83/th03_05.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>02MM.M</td></tr><tr><td><b>音轨时长</b></td><td>2:03.306</td></tr></tbody></table>
-
 
 
 ### 东方怪绮谈
@@ -76,9 +62,7 @@ YM2608(OPNA)，FM86版。
 YM2608(OPNA)，FM86版。
   
 
-
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th05_Y_05.ogg.md" title="文件:th05 Y 05.ogg">th05_Y_05.ogg</a><br><audio src="https://upload.thwiki.cc/7/71/th05_Y_05.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>Y_02MM.M</td></tr><tr><td><b>音轨时长</b></td><td>2:03.306</td></tr></tbody></table>
-
 
 
 ### 东方幻想怀古曲
@@ -86,17 +70,16 @@ YM2608(OPNA)，FM86版。
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-thgs03_04.ogg.md" title="文件:thgs03 04.ogg">thgs03_04.ogg</a><br><audio src="https://upload.thwiki.cc/a/a8/thgs03_04.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>th3_04.m</td></tr><tr><td><b>音轨时长</b></td><td>2:03.306</td></tr></tbody></table>
 
 
-
 ### 幺乐团的历史 vol.4
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-ha04_05.mp3.md" title="文件:ha04 05.mp3">ha04_05.mp3</a><br><audio src="https://upload.thwiki.cc/5/59/ha04_05.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track05.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>4:25</td></tr></tbody></table>
 
 
-
 ## 说明文本
 
 ### 东方梦时空
-- Music Room (未找到链接)
+
+- [Music Room](./东方梦时空-Music.md#雾雨魔理沙（旧作角色）雾雨魔理沙角色曲)
 
 　　　　　　雾雨魔理沙的主题曲  
 　　　怎么感觉这个角色和前作相比，性格好  
@@ -114,9 +97,9 @@ YM2608(OPNA)，FM86版。
 用于东方梦时空的曲子  
 雾雨　魔理沙的主题曲。（预定）  
 说不定稍微，与想象的有些不同。
-
 ### 东方怪绮谈
-- Music Room (未找到链接)
+
+- [Music Room](./东方怪绮谈-Music.md#雾雨魔理沙（旧作角色）雾雨魔理沙角色曲)
 
 　　雾雨 魔理沙的主题曲  
 　　＊８６兼容音源专用Dim. Dream  
@@ -124,9 +107,9 @@ YM2608(OPNA)，FM86版。
 用于东方梦时空的曲子  
 雾雨　魔理沙的主题曲。（预定）  
 说不定稍微，与想象的有些不同。
-
 ### 东方幻想怀古曲
-- th3_04pmd.txt (未找到链接)
+
+- [th3_04pmd.txt](./东方幻想怀古曲-东方梦时空.md#Dim._Dream)
 
 +----------------------------------------------------------------------------+  
 |【 　 曲名　　】| 【 Dim. Dream 】（原版）  
@@ -162,24 +145,25 @@ YM2608(OPNA)，FM86版。
 曲子的感想、请求等，这边请  
 　东方幻想空间　「博丽神社」 [http://www16.big.or.jp/~zun/](http://www16.big.or.jp/~zun/)  
 　e-Mail                     zun@big.or.jp
-
 ## 其他资料
 
 ### 乐理资讯
 
 ### 分析考据
   
- **Dim.Dream** 
-  
+**Dim.Dream**  
 梦次元
   
 
-- Dim.
-  - dim昏暗的；模糊的
+- Dim. 
+  - dim昏暗的；模糊的 
     - 模糊的→幻想
 
-  - dimension,次元
+
+  - dimension,次元 
     - 《梦时空》中的“时空”
+
+
 
 
 - 东方梦时空的副标题：Phantasmagoria of“Dim.Dream”。
@@ -197,18 +181,6 @@ YM2608(OPNA)，FM86版。
 <tr><td>Arrange</td><td>124</td></tr>
 <tr><td>Vocal率</td><td>34.39%</td></tr>
 </tbody></table>
-
-
-
-
-
-  
-  
-
-  
-
-
-
 
 
 ---

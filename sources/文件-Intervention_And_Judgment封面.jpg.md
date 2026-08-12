@@ -1,6 +1,6 @@
 # 文件:Intervention_And_Judgment封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1d\ns6%3AIntervention_And_Judgment%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1d\ns6%3AIntervention_And_Judgment%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Kyandoru_Raito_No_Konran | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Kyandoru_Raito_No_Konran | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Intervention And Judgment](./Intervention_And_Judgment.md)  
-该封面包含的角色：- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)
+- [Intervention And Judgment](./Intervention_And_Judgment.md)该封面包含的角色：
+- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)
 
   
-源地址：[[1]](https://kyandoruraitonokonranofficial.files.wordpress.com/2013/12/iaj.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://kyandoruraitonokonranofficial.files.wordpress.com/2013/12/iaj.jpg)  
 
 ---
 

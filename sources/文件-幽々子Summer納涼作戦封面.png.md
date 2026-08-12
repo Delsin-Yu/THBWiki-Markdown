@@ -1,6 +1,6 @@
 # 文件:幽々子Summer納涼作戦封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f7\ns6%3A%E5%B9%BD%E3%80%85%E5%AD%90Summer%E7%B4%8D%E6%B6%BC%E4%BD%9C%E6%88%A6%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f7\ns6%3A%E5%B9%BD%E3%80%85%E5%AD%90Summer%E7%B4%8D%E6%B6%BC%E4%BD%9C%E6%88%A6%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 同人志封面 | 封面图片 | 欠席裁判
 
@@ -10,16 +10,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [幽々子Summer納涼作戦](./幽々子Summer納涼作戦.md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)- [西行寺幽幽子](./西行寺幽幽子.md)
+- [幽々子Summer納涼作戦](./幽々子Summer納涼作戦.md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
+- [西行寺幽幽子](./西行寺幽幽子.md)
 
   
-[Pixiv artwork ID: 51876951 (original size)](https://www.pixiv.net/artworks/51876951)
-  
-
-
-
-
+[Pixiv artwork ID: 51876951 (original size)](https://www.pixiv.net/artworks/51876951)  
 
 ---
 

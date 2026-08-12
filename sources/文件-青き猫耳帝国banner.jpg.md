@@ -1,12 +1,8 @@
 # 文件:青き猫耳帝国banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\30\ns6%3A%E9%9D%92%E3%81%8D%E7%8C%AB%E8%80%B3%E5%B8%9D%E5%9B%BDbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\30\ns6%3A%E9%9D%92%E3%81%8D%E7%8C%AB%E8%80%B3%E5%B8%9D%E5%9B%BDbanner%2Ejpg.html -->
 
 社团LOGO | 青き猫耳帝国
-
-
-
-
 
 
 ---

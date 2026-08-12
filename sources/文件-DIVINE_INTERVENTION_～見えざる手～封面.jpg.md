@@ -1,6 +1,6 @@
 # 文件:DIVINE_INTERVENTION_～見えざる手～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4e\ns6%3ADIVINE_INTERVENTION_%EF%BD%9E%E8%A6%8B%E3%81%88%E3%81%96%E3%82%8B%E6%89%8B%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4e\ns6%3ADIVINE_INTERVENTION_%EF%BD%9E%E8%A6%8B%E3%81%88%E3%81%96%E3%82%8B%E6%89%8B%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 てんじんあんどん | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [DIVINE INTERVENTION ～見えざる手～](./DIVINE_INTERVENTION_～見えざる手～.md)  
-该封面包含的角色：- [八云紫](./八云紫.md)
+- [DIVINE INTERVENTION ～見えざる手～](./DIVINE_INTERVENTION_～見えざる手～.md)该封面包含的角色：
+- [八云紫](./八云紫.md)
 
   
-源地址：[direct image link](http://img.www5.hp-ez.com/img/tenjinandon/img_20110826-183529.jpg), [source page](https://www5.hp-ez.com/hp/tenjinandon)
-  
-
-
-
-
+源地址：[direct image link](http://img.www5.hp-ez.com/img/tenjinandon/img_20110826-183529.jpg), [source page](https://www5.hp-ez.com/hp/tenjinandon)  
 
 ---
 

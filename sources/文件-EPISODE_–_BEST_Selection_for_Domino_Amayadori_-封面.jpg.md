@@ -1,6 +1,6 @@
 # 文件:EPISODE_–_BEST_Selection_for_Domino_Amayadori_-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\53\ns6%3AEPISODE_%E2%80%93_BEST_Selection_for_Domino_Amayadori_-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\53\ns6%3AEPISODE_%E2%80%93_BEST_Selection_for_Domino_Amayadori_-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 DiGiTAL_WiNG | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ DiGiTAL_WiNG | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [EPISODE – BEST Selection for Domino Amayadori -](./EPISODE_–_BEST_Selection_for_Domino_Amayadori_-.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [EPISODE – BEST Selection for Domino Amayadori -](./EPISODE_–_BEST_Selection_for_Domino_Amayadori_-.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

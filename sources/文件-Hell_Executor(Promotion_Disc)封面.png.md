@@ -1,6 +1,6 @@
 # 文件:Hell_Executor(Promotion_Disc)封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f7\ns6%3AHell_Executor%28Promotion_Disc%29%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f7\ns6%3AHell_Executor%28Promotion_Disc%29%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Endless_Sound_匯音社 | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Endless_Sound_匯音社 | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Hell Executor(Promotion Disc)](./Hell_Executor(Promotion_Disc).md)  
-该封面包含的角色：- [豫母都日狭美](./豫母都日狭美.md)
-
-
-
+- [Hell Executor(Promotion Disc)](./Hell_Executor(Promotion_Disc%29.md)该封面包含的角色：
+- [豫母都日狭美](./豫母都日狭美.md)
 
 
 ---

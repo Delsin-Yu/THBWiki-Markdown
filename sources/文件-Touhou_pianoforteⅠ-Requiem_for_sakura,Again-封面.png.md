@@ -1,6 +1,6 @@
 # 文件:Touhou_pianoforteⅠ-Requiem_for_sakura,Again-封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\12\ns6%3ATouhou_pianoforte%E2%85%A0-Requiem_for_sakura%2CAgain-%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\12\ns6%3ATouhou_pianoforte%E2%85%A0-Requiem_for_sakura%2CAgain-%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 光と闇の協奏曲 | 封面图片
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [Touhou pianoforteⅠ-Requiem for sakura,Again-](./Touhou_pianoforteⅠ-Requiem_for_sakura,Again-.md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)- [西行寺幽幽子](./西行寺幽幽子.md)
-
-
-
+- [Touhou pianoforteⅠ-Requiem for sakura,Again-](./Touhou_pianoforteⅠ-Requiem_for_sakura,Again-.md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
+- [西行寺幽幽子](./西行寺幽幽子.md)
 
 
 ---

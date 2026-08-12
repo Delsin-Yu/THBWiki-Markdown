@@ -1,14 +1,11 @@
 # 文件:Frontier彩_banner2.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\38\ns6%3AFrontier%E5%BD%A9_banner2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\38\ns6%3AFrontier%E5%BD%A9_banner2%2Epng.html -->
 
 Frontier彩 | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

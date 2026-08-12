@@ -1,6 +1,6 @@
 # 文件:Touhou_Euroheroes封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\72\ns6%3ATouhou_Euroheroes%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\72\ns6%3ATouhou_Euroheroes%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Galaxian_Recordings | 专辑封面 | 封面图片
 
@@ -10,16 +10,13 @@ Galaxian_Recordings | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Touhou Euroheroes](./Touhou_Euroheroes.md)  
-该封面包含的角色：- [伊吹萃香](./伊吹萃香.md)- [星熊勇仪](./星熊勇仪.md)- [奥野田美宵](./奥野田美宵.md)
+- [Touhou Euroheroes](./Touhou_Euroheroes.md)该封面包含的角色：
+- [伊吹萃香](./伊吹萃香.md)
+- [星熊勇仪](./星熊勇仪.md)
+- [奥野田美宵](./奥野田美宵.md)
 
   
-源地址：[图片链接](https://f4.bcbits.com/img/a1187945275_0.jpg) [Bandcamp](https://galaxianrecordings.bandcamp.com/track/sake-bomb)
-  
-
-
-
-
+源地址：[图片链接](https://f4.bcbits.com/img/a1187945275_0.jpg) [Bandcamp](https://galaxianrecordings.bandcamp.com/track/sake-bomb)  
 
 ---
 

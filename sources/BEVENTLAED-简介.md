@@ -1,6 +1,6 @@
 # BEVENTLAED/简介
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\1\18\ns0%3ABEVENTLAED%2F%E7%AE%80%E4%BB%8B.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\1\18\ns0%3ABEVENTLAED%2F%E7%AE%80%E4%BB%8B.html -->
 
 yu-ki
 
@@ -9,10 +9,6 @@ BEVENTLAED 是由 [迷走ポタージュ](https://Mesopota.net)原创的东方Fl
 
 但它实际上除了玩法外跟宝石迷阵有很大区别。 以[东风谷早苗](./东风谷早苗.md) 和 [UFO](./东方星莲船.md) 元素为游戏特色。
   
-
-
-
-
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:OER_toho_REWORX_Vol.1+2封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c5\ns6%3AOER_toho_REWORX_Vol%2E1%2B2%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c5\ns6%3AOER_toho_REWORX_Vol%2E1%2B2%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 OTAKU-ELITE_Recordings | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ OTAKU-ELITE_Recordings | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [OER toho REWORX Vol.1+2](./OER_toho_REWORX_Vol.1+2.md)  
-该封面包含的角色：- [八云紫](./八云紫.md)
-
-
-
+- [OER toho REWORX Vol.1+2](./OER_toho_REWORX_Vol.1+2.md)该封面包含的角色：
+- [八云紫](./八云紫.md)
 
 
 ---

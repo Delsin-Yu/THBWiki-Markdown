@@ -1,6 +1,6 @@
 # 文件:東方活劇綺談_ONLINE2nd封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\95\ns6%3A%E6%9D%B1%E6%96%B9%E6%B4%BB%E5%8A%87%E7%B6%BA%E8%AB%87_ONLINE2nd%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\95\ns6%3A%E6%9D%B1%E6%96%B9%E6%B4%BB%E5%8A%87%E7%B6%BA%E8%AB%87_ONLINE2nd%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 GATLING_CAT | 封面图片 | 软件封面
 
@@ -8,11 +8,11 @@ GATLING_CAT | 封面图片 | 软件封面
 使用了本文件作封面图片的作品：
   
 
-- [東方活劇綺談 ONLINE2nd](./東方活劇綺談_ONLINE2nd.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [蓬莱山辉夜](./蓬莱山辉夜.md)- [犬走椛](./犬走椛.md)- [火焰猫燐](./火焰猫燐.md)
-
-
-
+- [東方活劇綺談 ONLINE2nd](./東方活劇綺談_ONLINE2nd.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [蓬莱山辉夜](./蓬莱山辉夜.md)
+- [犬走椛](./犬走椛.md)
+- [火焰猫燐](./火焰猫燐.md)
 
 
 ---

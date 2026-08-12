@@ -1,6 +1,6 @@
 # 文件:Don't_Falling_Asleep封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\59\ns6%3ADon%27t_Falling_Asleep%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\59\ns6%3ADon%27t_Falling_Asleep%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Diavolo_Nebbia | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Diavolo_Nebbia | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Don't Falling Asleep](./Don't_Falling_Asleep.md)  
-该封面包含的角色：- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [Don't Falling Asleep](./Don't_Falling_Asleep.md)该封面包含的角色：
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

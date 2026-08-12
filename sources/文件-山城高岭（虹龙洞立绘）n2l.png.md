@@ -1,12 +1,8 @@
 # 文件:山城高岭（虹龙洞立绘）n2l.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bc\ns6%3A%E5%B1%B1%E5%9F%8E%E9%AB%98%E5%B2%AD%EF%BC%88%E8%99%B9%E9%BE%99%E6%B4%9E%E7%AB%8B%E7%BB%98%EF%BC%89n2l%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bc\ns6%3A%E5%B1%B1%E5%9F%8E%E9%AB%98%E5%B2%AD%EF%BC%88%E8%99%B9%E9%BE%99%E6%B4%9E%E7%AB%8B%E7%BB%98%EF%BC%89n2l%2Epng.html -->
 
 ZUN绘 | 东方虹龙洞 | 官方游戏立绘 | 山城高岭
-
-
-
-
 
 
 ---

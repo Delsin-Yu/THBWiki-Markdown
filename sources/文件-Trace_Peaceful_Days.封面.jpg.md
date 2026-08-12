@@ -1,6 +1,6 @@
 # 文件:Trace_Peaceful_Days.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\02\ns6%3ATrace_Peaceful_Days%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\02\ns6%3ATrace_Peaceful_Days%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Third_row | 同人志封面 | 封面图片
 
@@ -10,16 +10,12 @@ Third_row | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Trace Peaceful Days.](./Trace_Peaceful_Days..md)  
-该封面包含的角色：- [冴月麟](./冴月麟.md)- [博丽灵梦](./博丽灵梦.md)
+- [Trace Peaceful Days.](./Trace_Peaceful_Days..md)该封面包含的角色：
+- [冴月麟](./冴月麟.md)
+- [博丽灵梦](./博丽灵梦.md)
 
   
-源地址：[direct image link](https://64.media.tumblr.com/883fb67fc108e17edee2edd2d3f513f7/tumblr_o71k281rFV1vu7id6o1_1280.jpg), [source page](https://m3rdrow.tumblr.com/post/144227381478/third-row-第十三回-博麗神社例大祭-新刊-trace-peaceful-days)
-  
-
-
-
-
+源地址：[direct image link](https://64.media.tumblr.com/883fb67fc108e17edee2edd2d3f513f7/tumblr_o71k281rFV1vu7id6o1_1280.jpg), [source page](https://m3rdrow.tumblr.com/post/144227381478/third-row-第十三回-博麗神社例大祭-新刊-trace-peaceful-days)  
 
 ---
 

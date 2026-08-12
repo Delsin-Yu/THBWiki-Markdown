@@ -1,6 +1,6 @@
 # 文件:RE：TAKE封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9b\ns6%3ARE%EF%BC%9ATAKE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9b\ns6%3ARE%EF%BC%9ATAKE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 dat_file_records | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ dat_file_records | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [RE：TAKE](./RE：TAKE.md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)
+- [RE：TAKE](./RE：TAKE.md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
 
   
-源地址：[[1]](http://static.tumblr.com/0daac24d8d984f75e4d06fd8c6b29841/e3lazzy/Wsumtj7pw/tumblr_static_jiki_jac1_r.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://static.tumblr.com/0daac24d8d984f75e4d06fd8c6b29841/e3lazzy/Wsumtj7pw/tumblr_static_jiki_jac1_r.jpg)  
 
 ---
 

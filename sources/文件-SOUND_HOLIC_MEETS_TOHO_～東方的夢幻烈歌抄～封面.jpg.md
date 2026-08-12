@@ -1,6 +1,6 @@
 # 文件:SOUND_HOLIC_MEETS_TOHO_～東方的夢幻烈歌抄～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\65\ns6%3ASOUND_HOLIC_MEETS_TOHO_%EF%BD%9E%E6%9D%B1%E6%96%B9%E7%9A%84%E5%A4%A2%E5%B9%BB%E7%83%88%E6%AD%8C%E6%8A%84%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\65\ns6%3ASOUND_HOLIC_MEETS_TOHO_%EF%BD%9E%E6%9D%B1%E6%96%B9%E7%9A%84%E5%A4%A2%E5%B9%BB%E7%83%88%E6%AD%8C%E6%8A%84%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 SOUND_HOLIC | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ SOUND_HOLIC | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [SOUND HOLIC MEETS TOHO ～東方的夢幻烈歌抄～](./SOUND_HOLIC_MEETS_TOHO_～東方的夢幻烈歌抄～.md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)- [西行寺幽幽子](./西行寺幽幽子.md)
-
-
-
+- [SOUND HOLIC MEETS TOHO ～東方的夢幻烈歌抄～](./SOUND_HOLIC_MEETS_TOHO_～東方的夢幻烈歌抄～.md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
+- [西行寺幽幽子](./西行寺幽幽子.md)
 
 
 ---

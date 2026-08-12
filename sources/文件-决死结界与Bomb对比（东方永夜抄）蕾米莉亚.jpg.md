@@ -1,12 +1,8 @@
 # 文件:决死结界与Bomb对比（东方永夜抄）蕾米莉亚.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\14\ns6%3A%E5%86%B3%E6%AD%BB%E7%BB%93%E7%95%8C%E4%B8%8EBomb%E5%AF%B9%E6%AF%94%EF%BC%88%E4%B8%9C%E6%96%B9%E6%B0%B8%E5%A4%9C%E6%8A%84%EF%BC%89%E8%95%BE%E7%B1%B3%E8%8E%89%E4%BA%9A%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\14\ns6%3A%E5%86%B3%E6%AD%BB%E7%BB%93%E7%95%8C%E4%B8%8EBomb%E5%AF%B9%E6%AF%94%EF%BC%88%E4%B8%9C%E6%96%B9%E6%B0%B8%E5%A4%9C%E6%8A%84%EF%BC%89%E8%95%BE%E7%B1%B3%E8%8E%89%E4%BA%9A%2Ejpg.html -->
 
 游戏攻略
-
-
-
-
 
 
 ---

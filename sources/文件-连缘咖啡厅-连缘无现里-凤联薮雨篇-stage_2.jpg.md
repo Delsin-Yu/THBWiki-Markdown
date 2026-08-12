@@ -1,16 +1,12 @@
 # 文件:连缘咖啡厅-连缘无现里-凤联薮雨篇-stage_2.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7c\ns6%3A%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E8%BF%9E%E7%BC%98%E6%97%A0%E7%8E%B0%E9%87%8C-%E5%87%A4%E8%81%94%E8%96%AE%E9%9B%A8%E7%AF%87-stage_2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7c\ns6%3A%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E8%BF%9E%E7%BC%98%E6%97%A0%E7%8E%B0%E9%87%8C-%E5%87%A4%E8%81%94%E8%96%AE%E9%9B%A8%E7%AF%87-stage_2%2Ejpg.html -->
 
 连缘咖啡厅
 
   
 连缘咖啡厅-连缘无现里-凤联薮雨篇-stage 2
   
-
-
-
-
 
 ---
 

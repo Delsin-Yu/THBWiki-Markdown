@@ -1,6 +1,6 @@
 # 文件:第1幕_協奏曲「色は匂へど散りぬるを」_SIDE_A封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\29\ns6%3A%E7%AC%AC1%E5%B9%95_%E5%8D%94%E5%A5%8F%E6%9B%B2%E3%80%8C%E8%89%B2%E3%81%AF%E5%8C%82%E3%81%B8%E3%81%A9%E6%95%A3%E3%82%8A%E3%81%AC%E3%82%8B%E3%82%92%E3%80%8D_SIDE_A%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\29\ns6%3A%E7%AC%AC1%E5%B9%95_%E5%8D%94%E5%A5%8F%E6%9B%B2%E3%80%8C%E8%89%B2%E3%81%AF%E5%8C%82%E3%81%B8%E3%81%A9%E6%95%A3%E3%82%8A%E3%81%AC%E3%82%8B%E3%82%92%E3%80%8D_SIDE_A%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 交響アクティブNEETs | 封面图片 | 少女フラクタル | 幽閉少女ActiveNEETs | 幽闭星光
 
@@ -8,11 +8,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [第1幕 協奏曲「色は匂へど散りぬるを」 SIDE A](./第1幕_協奏曲「色は匂へど散りぬるを」_SIDE_A.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [西行寺幽幽子](./西行寺幽幽子.md)- [射命丸文](./射命丸文.md)
-
-
-
+- [第1幕 協奏曲「色は匂へど散りぬるを」 SIDE A](./第1幕_協奏曲「色は匂へど散りぬるを」_SIDE_A.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [西行寺幽幽子](./西行寺幽幽子.md)
+- [射命丸文](./射命丸文.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Hell_Galaxy封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c0\ns6%3AHell_Galaxy%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c0\ns6%3AHell_Galaxy%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 アベニュールーム | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Hell Galaxy](./Hell_Galaxy.md)  
-该封面包含的角色：- [克劳恩皮丝](./克劳恩皮丝.md)
+- [Hell Galaxy](./Hell_Galaxy.md)该封面包含的角色：
+- [克劳恩皮丝](./克劳恩皮丝.md)
 
   
-源地址：[[1]](http://static.tumblr.com/f9c99dff25568648c090311dcaff1574/or9bxjg/4UBo6dvi3/tumblr_static_5pvhy5e9troco88cg4k0o04k8.png)
-  
-
-
-
-
+源地址：[\[1\]](http://static.tumblr.com/f9c99dff25568648c090311dcaff1574/or9bxjg/4UBo6dvi3/tumblr_static_5pvhy5e9troco88cg4k0o04k8.png)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:TH_MEDLEY_-夢幻天奏_弐-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cc\ns6%3ATH_MEDLEY_-%E5%A4%A2%E5%B9%BB%E5%A4%A9%E5%A5%8F_%E5%BC%90-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cc\ns6%3ATH_MEDLEY_-%E5%A4%A2%E5%B9%BB%E5%A4%A9%E5%A5%8F_%E5%BC%90-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Aether | 专辑封面 | 埼玉最終兵器 | 封面图片
 
@@ -11,12 +11,7 @@ Aether | 专辑封面 | 埼玉最終兵器 | 封面图片
 - [TH MEDLEY -夢幻天奏 弐-](./TH_MEDLEY_-夢幻天奏_弐-.md)
 
   
-源地址：[[1]](https://pbs.twimg.com/media/Co2opuzUIAAa91I.jpg:large)
-  
-
-
-
-
+源地址：[\[1\]](https://pbs.twimg.com/media/Co2opuzUIAAa91I.jpg:large)  
 
 ---
 

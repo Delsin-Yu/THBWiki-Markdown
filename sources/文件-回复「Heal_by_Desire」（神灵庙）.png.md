@@ -1,12 +1,8 @@
 # 文件:回复「Heal_by_Desire」（神灵庙）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\58\ns6%3A%E5%9B%9E%E5%A4%8D%E3%80%8CHeal_by_Desire%E3%80%8D%EF%BC%88%E7%A5%9E%E7%81%B5%E5%BA%99%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\58\ns6%3A%E5%9B%9E%E5%A4%8D%E3%80%8CHeal_by_Desire%E3%80%8D%EF%BC%88%E7%A5%9E%E7%81%B5%E5%BA%99%EF%BC%89%2Epng.html -->
 
 东方神灵庙 | 宫古芳香 | 敌机符卡
-
-
-
-
 
 
 ---

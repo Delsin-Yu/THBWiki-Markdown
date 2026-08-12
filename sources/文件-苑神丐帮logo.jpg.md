@@ -1,12 +1,8 @@
 # 文件:苑神丐帮logo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\58\ns6%3A%E8%8B%91%E7%A5%9E%E4%B8%90%E5%B8%AElogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\58\ns6%3A%E8%8B%91%E7%A5%9E%E4%B8%90%E5%B8%AElogo%2Ejpg.html -->
 
 社团LOGO | 苑神丐帮
-
-
-
-
 
 
 ---

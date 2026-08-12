@@ -1,16 +1,12 @@
 # 模板:TOUHOU_FESTIVAL
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\1\1a\ns10%3ATOUHOU_FESTIVAL.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\1\1a\ns10%3ATOUHOU_FESTIVAL.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

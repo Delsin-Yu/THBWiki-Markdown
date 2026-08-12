@@ -1,6 +1,6 @@
 # 文件:Ex.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9c\ns6%3AEx%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9c\ns6%3AEx%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Einherjar_Records | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ Einherjar_Records | 专辑封面 | 封面图片
   
 
 - [Ex.](./Ex..md)
-
-
-
 
 
 ---

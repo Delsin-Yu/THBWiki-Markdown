@@ -1,6 +1,6 @@
 # 文件:にゃんぷらーみゃ！-NYANG_PLAMJA-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ad\ns6%3A%E3%81%AB%E3%82%83%E3%82%93%E3%81%B7%E3%82%89%E3%83%BC%E3%81%BF%E3%82%83%EF%BC%81-NYANG_PLAMJA-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ad\ns6%3A%E3%81%AB%E3%82%83%E3%82%93%E3%81%B7%E3%82%89%E3%83%BC%E3%81%BF%E3%82%83%EF%BC%81-NYANG_PLAMJA-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 暁Records
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [にゃんぷらーみゃ！-NYANG PLAMJA-](./にゃんぷらーみゃ！-NYANG_PLAMJA-.md)  
-该封面包含的角色：- [火焰猫燐](./火焰猫燐.md)
-
-
-
+- [にゃんぷらーみゃ！-NYANG PLAMJA-](./にゃんぷらーみゃ！-NYANG_PLAMJA-.md)该封面包含的角色：
+- [火焰猫燐](./火焰猫燐.md)
 
 
 ---

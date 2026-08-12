@@ -1,44 +1,34 @@
 # 神秘的人偶_～_God_Knows
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\a\a7\ns0%3A%E7%A5%9E%E7%A7%98%E7%9A%84%E4%BA%BA%E5%81%B6_%EF%BD%9E_God_Knows.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\a\a7\ns0%3A%E7%A5%9E%E7%A7%98%E7%9A%84%E4%BA%BA%E5%81%B6_%EF%BD%9E_God_Knows.html -->
 
 由 ZUN 创作的官方曲目，原名 エニグマティクドール　～ God Knows
 
 本页是关于东方Project  
- **原作音乐** 的词条
+**原作音乐**的词条
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 出现作品](#出现作品)
 - [3 音乐文件](#音乐文件)
-
   - [3.1 WAV版](#WAV版)
   - [3.2 MIDI版](#MIDI版)
   - [3.3 蓬莱人形](#蓬莱人形)
 
 
-
 - [4 说明文本](#说明文本)
-
   - [4.1 稀翁玉](#稀翁玉)
-
     - [4.1.1 Music Room](#Music_Room)
     - [4.1.2 创曲幻想](#创曲幻想)
-
 
 
   - [4.2 东方Project人气投票](#东方Project人气投票)
 
 
-
 - [5 其他资料](#其他资料)
-
   - [5.1 乐理资讯](#乐理资讯)
   - [5.2 分析考据](#分析考据)
   - [5.3 二次同人数据](#二次同人数据)
-
-
-
 
 
 
@@ -66,7 +56,6 @@
 MP3来源于官方WAV压缩、剪接。
   
 
-
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td><a href="./文件-sh02_10.mid.md" title="文件:sh02 10.mid">sh02_10.mid</a></td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-SE02_10.mp3.md" title="文件:SE02 10.mp3">SE02_10.mp3</a><br><audio src="https://upload.thwiki.cc/1/15/SE02_10.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>wave\kog_09.wav（WAV）</td></tr><tr><td><b>音轨时长</b></td><td>2:26（WAV）</td></tr><tr><td><b>BGMForAll</b></td><td><div class="mw-collapsible mw-collapsed">
 <p><b>BGMForAll数据信息</b>
 </p>
@@ -86,14 +75,18 @@ MP3来源于官方WAV压缩、剪接。
 
 
 ## 说明文本
+
 ### 稀翁玉
+
 #### Music Room
-- Music Room (未找到链接)
+
+- [Music Room](./稀翁玉-Music.md#缪斯的主题曲)
 
 缪斯的主题曲  
 有最终Boss感觉的曲子，虽然不知道是不是这样，但却是首感觉相当时尚的最终Boss曲(^^;神秘的人偶　～ God Knows
 #### 创曲幻想
-- 创曲幻想 (未找到链接)
+
+- [创曲幻想](./附带文档-稀翁玉-创曲幻想.md#创曲幕后评论-12)
 
 １０．神秘的人偶　～ God Knows  
 　　如果说感觉像最终BOSS的话，有76%是最终BOSS吧。  
@@ -102,26 +95,34 @@ MP3来源于官方WAV压缩、剪接。
 　　这里的「Enigmatic Doll」，直译过来就是不可思议的人偶，  
 　　嘛，就当是诅咒人偶。
 ### 东方Project人气投票
-- 日文东方人气投票记录 (未找到链接)
+
+- [日文东方人气投票记录](./ZUN-日文东方人气投票记录.md#音乐部分1（3票）)
 
 这首曲子有着强烈的醉酒时演奏的感觉，我非常喜欢
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
   
- **エニグマティクドール　～ God Knows**  神秘的人偶　～ God Knows
+**エニグマティクドール ～ God Knows** 神秘的人偶　～ God Knows
   
 
-- エニグマティク（enigmatic）
-  - 神秘的，难以理解的
+- エニグマティク（enigmatic） 
+  - 神秘的，难以理解的 
     - 杀死正直者的小丑非常神秘
     - 《正直者之死》的故事非常神秘
 
 
-- ドール（doll）
-  - 人偶
+
+
+- ドール（doll） 
+  - 人偶 
     - 原曲为《稀翁玉》中缪斯的主题曲，缪斯的立绘手持玩偶
     - C63版的故事中提到了人偶
+
+
+
 
 
 
@@ -137,17 +138,6 @@ MP3来源于官方WAV压缩、剪接。
 <tr><td>Arrange</td><td>60</td></tr>
 <tr><td>Vocal率</td><td>15.49%</td></tr>
 </tbody></table>
-
-
-
-
-  
-  
-
-  
-
-
-
 
 
 ---

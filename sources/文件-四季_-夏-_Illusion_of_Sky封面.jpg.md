@@ -1,6 +1,6 @@
 # 文件:四季_-夏-_Illusion_of_Sky封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\20\ns6%3A%E5%9B%9B%E5%AD%A3_-%E5%A4%8F-_Illusion_of_Sky%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\20\ns6%3A%E5%9B%9B%E5%AD%A3_-%E5%A4%8F-_Illusion_of_Sky%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 t=NODE | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ t=NODE | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [四季 -夏- Illusion of Sky](./四季_-夏-_Illusion_of_Sky.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
-
-
-
+- [四季 -夏- Illusion of Sky](./四季_-夏-_Illusion_of_Sky.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
 
 ---

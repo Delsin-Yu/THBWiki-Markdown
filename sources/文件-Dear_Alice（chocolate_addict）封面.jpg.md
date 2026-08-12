@@ -1,6 +1,6 @@
 # 文件:Dear_Alice（chocolate_addict）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2d\ns6%3ADear_Alice%EF%BC%88chocolate_addict%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2d\ns6%3ADear_Alice%EF%BC%88chocolate_addict%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 chocolate_addict | 专辑封面 | 封面图片
 
@@ -10,11 +10,9 @@ chocolate_addict | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Dear Alice（chocolate addict）](./Dear_Alice（chocolate_addict）.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [爱丽丝（旧作角色）](./爱丽丝（旧作角色）.md)
-
-
-
+- [Dear Alice（chocolate addict）](./Dear_Alice（chocolate_addict）.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [爱丽丝（旧作角色）](./爱丽丝（旧作角色）.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Voyager_～_東方仙戯曲封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a3\ns6%3AVoyager_%EF%BD%9E_%E6%9D%B1%E6%96%B9%E4%BB%99%E6%88%AF%E6%9B%B2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a3\ns6%3AVoyager_%EF%BD%9E_%E6%9D%B1%E6%96%B9%E4%BB%99%E6%88%AF%E6%9B%B2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 WAVE | 专辑封面 | 封面图片
 
@@ -8,11 +8,14 @@ WAVE | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Voyager ～ 東方仙戯曲](./Voyager_～_東方仙戯曲.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- 十六夜咲夜 (未找到链接)- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [魂魄妖梦](./魂魄妖梦.md)- [八云紫](./八云紫.md)- [雾雨魔理沙](./雾雨魔理沙.md)- 原创角色 (未找到链接)
-
-
-
+- [Voyager ～ 東方仙戯曲](./Voyager_～_東方仙戯曲.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [十六夜咲夜](./十六夜咲夜.md)
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [魂魄妖梦](./魂魄妖梦.md)
+- [八云紫](./八云紫.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
+- 原创角色 (未找到链接)
 
 
 ---

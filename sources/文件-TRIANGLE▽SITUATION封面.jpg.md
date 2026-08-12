@@ -1,6 +1,6 @@
 # 文件:TRIANGLE▽SITUATION封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c1\ns6%3ATRIANGLE%E2%96%BDSITUATION%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c1\ns6%3ATRIANGLE%E2%96%BDSITUATION%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 紺碧studio
 
@@ -8,16 +8,13 @@
 使用了本文件作封面图片的作品：
   
 
-- [TRIANGLE▽SITUATION](./TRIANGLE▽SITUATION.md)  
-该封面包含的角色：- [东风谷早苗](./东风谷早苗.md)- [八坂神奈子](./八坂神奈子.md)- [洩矢诹访子](./洩矢诹访子.md)
+- [TRIANGLE▽SITUATION](./TRIANGLE▽SITUATION.md)该封面包含的角色：
+- [东风谷早苗](./东风谷早苗.md)
+- [八坂神奈子](./八坂神奈子.md)
+- [洩矢诹访子](./洩矢诹访子.md)
 
   
-源地址：[[1]](http://www.toranoana.jp/mailorder/article/04/0030/56/45/040030564573.html)
-  
-
-
-
-
+源地址：[\[1\]](http://www.toranoana.jp/mailorder/article/04/0030/56/45/040030564573.html)  
 
 ---
 

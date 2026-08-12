@@ -1,6 +1,6 @@
 # 文件:Aggressive_Maidens_Re：boot封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f9\ns6%3AAggressive_Maidens_Re%EF%BC%9Aboot%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f9\ns6%3AAggressive_Maidens_Re%EF%BC%9Aboot%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Login_Records | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Login_Records | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Aggressive Maidens Re：boot](./Aggressive_Maidens_Re：boot.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [Aggressive Maidens Re：boot](./Aggressive_Maidens_Re：boot.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

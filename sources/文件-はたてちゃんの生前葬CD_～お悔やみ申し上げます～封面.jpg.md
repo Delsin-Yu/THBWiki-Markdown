@@ -1,6 +1,6 @@
 # 文件:はたてちゃんの生前葬CD_～お悔やみ申し上げます～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0b\ns6%3A%E3%81%AF%E3%81%9F%E3%81%A6%E3%81%A1%E3%82%83%E3%82%93%E3%81%AE%E7%94%9F%E5%89%8D%E8%91%ACCD_%EF%BD%9E%E3%81%8A%E6%82%94%E3%82%84%E3%81%BF%E7%94%B3%E3%81%97%E4%B8%8A%E3%81%92%E3%81%BE%E3%81%99%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0b\ns6%3A%E3%81%AF%E3%81%9F%E3%81%A6%E3%81%A1%E3%82%83%E3%82%93%E3%81%AE%E7%94%9F%E5%89%8D%E8%91%ACCD_%EF%BD%9E%E3%81%8A%E6%82%94%E3%82%84%E3%81%BF%E7%94%B3%E3%81%97%E4%B8%8A%E3%81%92%E3%81%BE%E3%81%99%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Satellite_Himawari（同人社团） | ヘルガプリズン | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ Satellite_Himawari（同人社团） | ヘルガプリズン | 专辑封面 | �
 使用了本文件作封面图片的作品：
   
 
-- [はたてちゃんの生前葬CD ～お悔やみ申し上げます～](./はたてちゃんの生前葬CD_～お悔やみ申し上げます～.md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)- [姬海棠果](./姬海棠果.md)
-
-
-
+- [はたてちゃんの生前葬CD ～お悔やみ申し上げます～](./はたてちゃんの生前葬CD_～お悔やみ申し上げます～.md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
+- [姬海棠果](./姬海棠果.md)
 
 
 ---

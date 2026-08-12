@@ -1,6 +1,6 @@
 # 文件:蒼月の懺悔詩～Universal_Nemesis封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7f\ns6%3A%E8%92%BC%E6%9C%88%E3%81%AE%E6%87%BA%E6%82%94%E8%A9%A9%EF%BD%9EUniversal_Nemesis%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7f\ns6%3A%E8%92%BC%E6%9C%88%E3%81%AE%E6%87%BA%E6%82%94%E8%A9%A9%EF%BD%9EUniversal_Nemesis%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Yonder_Voice | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Yonder_Voice | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [蒼月の懺悔詩～Universal Nemesis](./蒼月の懺悔詩～Universal_Nemesis.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
-
-
-
+- [蒼月の懺悔詩～Universal Nemesis](./蒼月の懺悔詩～Universal_Nemesis.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
 
 ---

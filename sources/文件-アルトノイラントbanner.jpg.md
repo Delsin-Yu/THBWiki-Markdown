@@ -1,18 +1,13 @@
 # 文件:アルトノイラントbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6e\ns6%3A%E3%82%A2%E3%83%AB%E3%83%88%E3%83%8E%E3%82%A4%E3%83%A9%E3%83%B3%E3%83%88banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6e\ns6%3A%E3%82%A2%E3%83%AB%E3%83%88%E3%83%8E%E3%82%A4%E3%83%A9%E3%83%B3%E3%83%88banner%2Ejpg.html -->
 
 アルトノイラント | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[direct image link](https://web.archive.org/web/20071030100828im_/http://home.att.ne.jp/alpha/hiroyo/anlbanner.jpg), [source page](https://web.archive.org/web/20081219062802/http://home.att.ne.jp/alpha/hiroyo/)
-  
-
-
-
-
+源地址：[direct image link](https://web.archive.org/web/20071030100828im_/http://home.att.ne.jp/alpha/hiroyo/anlbanner.jpg), [source page](https://web.archive.org/web/20081219062802/http://home.att.ne.jp/alpha/hiroyo/)  
 
 ---
 

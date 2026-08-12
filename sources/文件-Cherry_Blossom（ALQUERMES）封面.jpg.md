@@ -1,6 +1,6 @@
 # 文件:Cherry_Blossom（ALQUERMES）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\66\ns6%3ACherry_Blossom%EF%BC%88ALQUERMES%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\66\ns6%3ACherry_Blossom%EF%BC%88ALQUERMES%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ALQUERMES | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@ ALQUERMES | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Cherry Blossom（ALQUERMES）](./Cherry_Blossom（ALQUERMES）.md)  
-该封面包含的角色：- [奥野田美宵](./奥野田美宵.md)
+- [Cherry Blossom（ALQUERMES）](./Cherry_Blossom（ALQUERMES）.md)该封面包含的角色：
+- [奥野田美宵](./奥野田美宵.md)
 
   
-源地址：[direct image link (original uploaded image)](https://pbs.twimg.com/media/FOLSb8NacAA_xlx?format=jpg&amp;name=orig), [source tweet](https://twitter.com/alquermes/status/1504996610757246976)
-  
-
-
-
-
+源地址：[direct image link (original uploaded image)](https://pbs.twimg.com/media/FOLSb8NacAA_xlx?format=jpg&name=orig), [source tweet](https://twitter.com/alquermes/status/1504996610757246976)  
 
 ---
 

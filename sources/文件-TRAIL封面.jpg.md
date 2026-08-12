@@ -1,6 +1,6 @@
 # 文件:TRAIL封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\64\ns6%3ATRAIL%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\64\ns6%3ATRAIL%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 minimum_electric_design | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ minimum_electric_design | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [TRAIL](./TRAIL.md)  
-该封面包含的角色：- [娜兹玲](./娜兹玲.md)
-
-
-
+- [TRAIL](./TRAIL.md)该封面包含的角色：
+- [娜兹玲](./娜兹玲.md)
 
 
 ---

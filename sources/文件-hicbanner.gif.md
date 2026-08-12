@@ -1,16 +1,11 @@
 # 文件:hicbanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4e\ns6%3Ahicbanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4e\ns6%3Ahicbanner%2Egif.html -->
 
 hic | 社团LOGO
 
   
-源地址：[[1]](http://file.hic.3rin.net/banner.gif)
-  
-
-
-
-
+源地址：[\[1\]](http://file.hic.3rin.net/banner.gif)  
 
 ---
 

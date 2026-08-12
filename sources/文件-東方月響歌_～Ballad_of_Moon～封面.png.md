@@ -1,6 +1,6 @@
 # 文件:東方月響歌_～Ballad_of_Moon～封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f2\ns6%3A%E6%9D%B1%E6%96%B9%E6%9C%88%E9%9F%BF%E6%AD%8C_%EF%BD%9EBallad_of_Moon%EF%BD%9E%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f2\ns6%3A%E6%9D%B1%E6%96%B9%E6%9C%88%E9%9F%BF%E6%AD%8C_%EF%BD%9EBallad_of_Moon%EF%BD%9E%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 いえろ～ぜぶら | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方月響歌 ～Ballad of Moon～](./東方月響歌_～Ballad_of_Moon～.md)  
-该封面包含的角色：- [蓬莱山辉夜](./蓬莱山辉夜.md)
-
-
-
+- [東方月響歌 ～Ballad of Moon～](./東方月響歌_～Ballad_of_Moon～.md)该封面包含的角色：
+- [蓬莱山辉夜](./蓬莱山辉夜.md)
 
 
 ---

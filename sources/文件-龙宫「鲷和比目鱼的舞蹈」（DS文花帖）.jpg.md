@@ -1,12 +1,8 @@
 # 文件:龙宫「鲷和比目鱼的舞蹈」（DS文花帖）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ca\ns6%3A%E9%BE%99%E5%AE%AB%E3%80%8C%E9%B2%B7%E5%92%8C%E6%AF%94%E7%9B%AE%E9%B1%BC%E7%9A%84%E8%88%9E%E8%B9%88%E3%80%8D%EF%BC%88DS%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ca\ns6%3A%E9%BE%99%E5%AE%AB%E3%80%8C%E9%B2%B7%E5%92%8C%E6%AF%94%E7%9B%AE%E9%B1%BC%E7%9A%84%E8%88%9E%E8%B9%88%E3%80%8D%EF%BC%88DS%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Ejpg.html -->
 
 东方文花帖DS | 敌机符卡 | 永江衣玖
-
-
-
-
 
 
 ---

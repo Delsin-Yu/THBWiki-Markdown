@@ -1,12 +1,8 @@
 # 文件:ギガメーカーbanner2.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\57\ns6%3A%E3%82%AE%E3%82%AC%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BCbanner2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\57\ns6%3A%E3%82%AE%E3%82%AC%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BCbanner2%2Ejpg.html -->
 
 ギガメーカー | 社团LOGO
-
-
-
-
 
 
 ---

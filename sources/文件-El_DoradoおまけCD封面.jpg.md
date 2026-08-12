@@ -1,6 +1,6 @@
 # 文件:El_DoradoおまけCD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\19\ns6%3AEl_Dorado%E3%81%8A%E3%81%BE%E3%81%91CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\19\ns6%3AEl_Dorado%E3%81%8A%E3%81%BE%E3%81%91CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 El_Dorado | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ El_Dorado | 专辑封面 | 封面图片
   
 
 - [El DoradoおまけCD](./El_DoradoおまけCD.md)
-
-
-
 
 
 ---

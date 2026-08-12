@@ -1,14 +1,11 @@
 # 文件:ロリコンの地位向上banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c9\ns6%3A%E3%83%AD%E3%83%AA%E3%82%B3%E3%83%B3%E3%81%AE%E5%9C%B0%E4%BD%8D%E5%90%91%E4%B8%8Abanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c9\ns6%3A%E3%83%AD%E3%83%AA%E3%82%B3%E3%83%B3%E3%81%AE%E5%9C%B0%E4%BD%8D%E5%90%91%E4%B8%8Abanner%2Ejpg.html -->
 
 ロリコンの地位向上 | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

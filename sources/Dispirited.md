@@ -1,12 +1,11 @@
 # Dispirited
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\e\e1\ns0%3ADispirited.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\e\e1\ns0%3ADispirited.html -->
 
 2022年6月27日 由 Dreams of Nihil  发布的EP同人专辑，曲目主要风格是 金属，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人专辑 (未找到链接)** 的词条
-
+**[二次创作同人专辑](./二次创作.md#同人音乐)**的词条
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Dispirited封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/1/1a/Dispirited%E5%B0%81%E9%9D%A2.jpg/252px-Dispirited%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="252" height="252" srcset="https://upload.thwiki.cc/thumb/1/1a/Dispirited%E5%B0%81%E9%9D%A2.jpg/378px-Dispirited%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/1/1a/Dispirited%E5%B0%81%E9%9D%A2.jpg/504px-Dispirited%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1200" data-file-height="1200"></a><div class="cover-char">角色：<a href="./古明地觉.md" title="古明地觉">古明地觉</a></div></td>
@@ -15,37 +14,33 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://dreamsofnihil.bandcamp.com/album/dispirited">https://dreamsofnihil.bandcamp.com/album/dispirited</a></td></tr></tbody></table>
 
 Dispirited（同人专辑，Dreams of Nihil，2022） - 2022年6月27日 由 Dreams of Nihil  发布的EP同人专辑，曲目主要风格是 金属，分级为 一般向
-
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://dreamsofnihil.bandcamp.com/album/dispirited">bandcamp</a></td></tr></tbody></table>
-
 
 
 ## Staff
   
- **Arrangement**   
+**Arrangement**  
 
-<table><tbody><tr><td><a href="/index.php?title=Ragnid&amp;action=edit&amp;redlink=1" class="new" title="Ragnid（页面不存在）">Ragnid</a></td><td><a href="./Dreams_of_Nihil.md" title="Dreams of Nihil">Dreams of Nihil</a></td><td>Tr.1-4</td></tr></tbody></table>
-
-  
- **Vocal**   
-
-<table><tbody><tr><td><a href="/index.php?title=Ragnid&amp;action=edit&amp;redlink=1" class="new" title="Ragnid（页面不存在）">Ragnid</a></td><td><a href="./Dreams_of_Nihil.md" title="Dreams of Nihil">Dreams of Nihil</a></td><td>Tr.1/3/4</td></tr></tbody></table>
+<table><tbody><tr><td><a class="new" title="Ragnid（页面不存在）">Ragnid</a></td><td><a href="./Dreams_of_Nihil.md" title="Dreams of Nihil">Dreams of Nihil</a></td><td>Tr.1-4</td></tr></tbody></table>
 
   
- **Lyrics**   
+**Vocal**  
 
-<table><tbody><tr><td><a href="/index.php?title=Ragnid&amp;action=edit&amp;redlink=1" class="new" title="Ragnid（页面不存在）">Ragnid</a></td><td><a href="./Dreams_of_Nihil.md" title="Dreams of Nihil">Dreams of Nihil</a></td><td>Tr.3/4</td></tr></tbody></table>
+<table><tbody><tr><td><a class="new" title="Ragnid（页面不存在）">Ragnid</a></td><td><a href="./Dreams_of_Nihil.md" title="Dreams of Nihil">Dreams of Nihil</a></td><td>Tr.1/3/4</td></tr></tbody></table>
 
   
- **Instrument**   
+**Lyrics**  
 
-<table><tbody><tr><td><a href="/index.php?title=Ragnid&amp;action=edit&amp;redlink=1" class="new" title="Ragnid（页面不存在）">Ragnid</a></td><td><a href="./Dreams_of_Nihil.md" title="Dreams of Nihil">Dreams of Nihil</a></td><td>Tr.1-3</td></tr></tbody></table>
+<table><tbody><tr><td><a class="new" title="Ragnid（页面不存在）">Ragnid</a></td><td><a href="./Dreams_of_Nihil.md" title="Dreams of Nihil">Dreams of Nihil</a></td><td>Tr.3/4</td></tr></tbody></table>
 
+  
+**Instrument**  
+
+<table><tbody><tr><td><a class="new" title="Ragnid（页面不存在）">Ragnid</a></td><td><a href="./Dreams_of_Nihil.md" title="Dreams of Nihil">Dreams of Nihil</a></td><td>Tr.1-3</td></tr></tbody></table>
 
 Artwork
 : Ragnid （[Dreams of Nihil](./Dreams_of_Nihil.md)）
 : Unexysted （[Youtube channel: Unexysted](https://www.youtube.com/c/Unexysted)）
-
 
 ## 试听
 
@@ -59,20 +54,15 @@ Artwork
 </td></tr></tbody></table>
 
 
-
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoRD"><b>01</b></td><td id="Dirge_of_Hundred_Voices" colspan="2" class="title"><span class="new" title="（歌词页面不存在）"><a href="/index.php?title=%E6%AD%8C%E8%AF%8D:Dirge_of_Hundred_Voices&amp;boilerplate=模板:页面模板/曲目歌词&amp;action=edit">Dirge of Hundred Voices</a></span><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Ragnid&amp;vocal=Ragnid&amp;ogmusic=夜雀の歌声　～ Night Bird&amp;fromwiki=Dispirited"><span title="搜索相似同人曲"></span></a></span></td><td class="time">06:04</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=Ragnid&amp;action=edit&amp;redlink=1" class="new" title="Ragnid（页面不存在）">Ragnid</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Ragnid&amp;fromwiki=Dispirited"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="/index.php?title=Ragnid&amp;action=edit&amp;redlink=1" class="new" title="Ragnid（页面不存在）">Ragnid</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=Ragnid&amp;fromwiki=Dispirited"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演奏</td><td class="text" colspan="2">guitar：<a href="/index.php?title=Ragnid&amp;action=edit&amp;redlink=1" class="new" title="Ragnid（页面不存在）">Ragnid</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=夜雀の歌声　～ Night Bird&amp;fromwiki=Dispirited"><span></span></a></span><div class="ogmusic"><a href="./夜雀の歌声_～_Night_Bird.md" class="mw-redirect" title="夜雀の歌声 ～ Night Bird">夜雀の歌声　～ Night Bird</a></div><div class="source"><a href="./东方永夜抄_～_Imperishable_Night..md" class="mw-redirect" title="东方永夜抄 ～ Imperishable Night.">东方永夜抄　～ Imperishable Night.</a></div></td></tr>
-<tr><td id="2" class="infoYD"><b>02</b></td><td id="The_Verdict" colspan="2" class="title">The Verdict<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Ragnid&amp;ogmusic=六十年目の東方裁判　～ Fate of Sixty Years&amp;fromwiki=Dispirited"><span title="搜索相似同人曲"></span></a></span></td><td class="time">07:55</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=Ragnid&amp;action=edit&amp;redlink=1" class="new" title="Ragnid（页面不存在）">Ragnid</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Ragnid&amp;fromwiki=Dispirited"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演奏</td><td class="text" colspan="2">guitar：<a href="/index.php?title=Ragnid&amp;action=edit&amp;redlink=1" class="new" title="Ragnid（页面不存在）">Ragnid</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=六十年目の東方裁判　～ Fate of Sixty Years&amp;fromwiki=Dispirited"><span></span></a></span><div class="ogmusic"><a href="./六十年目の東方裁判_～_Fate_of_Sixty_Years.md" class="mw-redirect" title="六十年目の東方裁判 ～ Fate of Sixty Years">六十年目の東方裁判　～ Fate of Sixty Years</a></div><div class="source"><a href="./东方花映塚_～_Phantasmagoria_of_Flower_View..md" class="mw-redirect" title="东方花映塚 ～ Phantasmagoria of Flower View.">东方花映塚　～ Phantasmagoria of Flower View.</a></div></td></tr>
-<tr><td id="3" class="infoRD"><b>03</b></td><td id="Weeping_Eyes" colspan="2" class="title"><a href="./歌词-Weeping_Eyes.md" title="歌词:Weeping Eyes">Weeping Eyes</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Ragnid&amp;vocal=Ragnid&amp;lyric=Ragnid&amp;ogmusic=ハートフェルトファンシー&amp;fromwiki=Dispirited"><span title="搜索相似同人曲"></span></a></span></td><td class="time">07:42</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=Ragnid&amp;action=edit&amp;redlink=1" class="new" title="Ragnid（页面不存在）">Ragnid</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Ragnid&amp;fromwiki=Dispirited"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="/index.php?title=Ragnid&amp;action=edit&amp;redlink=1" class="new" title="Ragnid（页面不存在）">Ragnid</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=Ragnid&amp;fromwiki=Dispirited"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="/index.php?title=Ragnid&amp;action=edit&amp;redlink=1" class="new" title="Ragnid（页面不存在）">Ragnid</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?lyric=Ragnid&amp;fromwiki=Dispirited"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演奏</td><td class="text" colspan="2">guitar：<a href="/index.php?title=Ragnid&amp;action=edit&amp;redlink=1" class="new" title="Ragnid（页面不存在）">Ragnid</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=ハートフェルトファンシー&amp;fromwiki=Dispirited"><span></span></a></span><div class="ogmusic"><a href="./ハートフェルトファンシー.md" class="mw-redirect" title="ハートフェルトファンシー">ハートフェルトファンシー</a></div><div class="source"><a href="./东方地灵殿_～_Subterranean_Animism..md" class="mw-redirect" title="东方地灵殿 ～ Subterranean Animism.">东方地灵殿　～ Subterranean Animism.</a></div></td></tr>
-<tr><td id="4" class="infoRD"><b>04</b></td><td id="Boundless_Dream_in_Crimson_Red" colspan="2" class="title"><a href="./歌词-Boundless_Dream_in_Crimson_Red.md" title="歌词:Boundless Dream in Crimson Red">Boundless Dream in Crimson Red</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Ragnid&amp;vocal=Ragnid&amp;lyric=Ragnid&amp;ogmusic=紅楼　～ Eastern Dream...&amp;fromwiki=Dispirited"><span title="搜索相似同人曲"></span></a></span></td><td class="time">05:39</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=Ragnid&amp;action=edit&amp;redlink=1" class="new" title="Ragnid（页面不存在）">Ragnid</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Ragnid&amp;fromwiki=Dispirited"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="/index.php?title=Ragnid&amp;action=edit&amp;redlink=1" class="new" title="Ragnid（页面不存在）">Ragnid</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=Ragnid&amp;fromwiki=Dispirited"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="/index.php?title=Ragnid&amp;action=edit&amp;redlink=1" class="new" title="Ragnid（页面不存在）">Ragnid</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?lyric=Ragnid&amp;fromwiki=Dispirited"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=紅楼　～ Eastern Dream...&amp;fromwiki=Dispirited"><span></span></a></span><div class="ogmusic"><a href="./紅楼_～_Eastern_Dream....md" class="mw-redirect" title="紅楼 ～ Eastern Dream...">紅楼　～ Eastern Dream...</a></div><div class="source"><a href="./东方红魔乡_～_the_Embodiment_of_Scarlet_Devil..md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr></tbody></table>
-
+<table><tbody><tr><td id="1" class="infoRD"><b>01</b></td><td id="Dirge_of_Hundred_Voices" colspan="2" class="title"><span class="new" title="（歌词页面不存在）"><a>Dirge of Hundred Voices</a></span></td><td class="time">06:04</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="Ragnid（页面不存在）">Ragnid</a></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a class="new" title="Ragnid（页面不存在）">Ragnid</a></td></tr><tr><td class="left"></td><td class="label">演奏</td><td class="text" colspan="2">guitar：<a class="new" title="Ragnid（页面不存在）">Ragnid</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./夜雀的歌声_～_Night_Bird.md" class="mw-redirect" title="夜雀の歌声 ～ Night Bird">夜雀の歌声　～ Night Bird</a></div><div class="source"><a href="./东方永夜抄.md" class="mw-redirect" title="东方永夜抄 ～ Imperishable Night.">东方永夜抄　～ Imperishable Night.</a></div></td></tr>
+<tr><td id="2" class="infoYD"><b>02</b></td><td id="The_Verdict" colspan="2" class="title">The Verdict</td><td class="time">07:55</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="Ragnid（页面不存在）">Ragnid</a></td></tr><tr><td class="left"></td><td class="label">演奏</td><td class="text" colspan="2">guitar：<a class="new" title="Ragnid（页面不存在）">Ragnid</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./第六十年的东方审判_～_Fate_of_Sixty_Years.md" class="mw-redirect" title="六十年目の東方裁判 ～ Fate of Sixty Years">六十年目の東方裁判　～ Fate of Sixty Years</a></div><div class="source"><a href="./东方花映塚.md" class="mw-redirect" title="东方花映塚 ～ Phantasmagoria of Flower View.">东方花映塚　～ Phantasmagoria of Flower View.</a></div></td></tr>
+<tr><td id="3" class="infoRD"><b>03</b></td><td id="Weeping_Eyes" colspan="2" class="title"><a href="./歌词-Weeping_Eyes.md" title="歌词:Weeping Eyes">Weeping Eyes</a></td><td class="time">07:42</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="Ragnid（页面不存在）">Ragnid</a></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a class="new" title="Ragnid（页面不存在）">Ragnid</a></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a class="new" title="Ragnid（页面不存在）">Ragnid</a></td></tr><tr><td class="left"></td><td class="label">演奏</td><td class="text" colspan="2">guitar：<a class="new" title="Ragnid（页面不存在）">Ragnid</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./Heartfelt_Fancy.md" class="mw-redirect" title="ハートフェルトファンシー">ハートフェルトファンシー</a></div><div class="source"><a href="./东方地灵殿.md" class="mw-redirect" title="东方地灵殿 ～ Subterranean Animism.">东方地灵殿　～ Subterranean Animism.</a></div></td></tr>
+<tr><td id="4" class="infoRD"><b>04</b></td><td id="Boundless_Dream_in_Crimson_Red" colspan="2" class="title"><a href="./歌词-Boundless_Dream_in_Crimson_Red.md" title="歌词:Boundless Dream in Crimson Red">Boundless Dream in Crimson Red</a></td><td class="time">05:39</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="Ragnid（页面不存在）">Ragnid</a></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a class="new" title="Ragnid（页面不存在）">Ragnid</a></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a class="new" title="Ragnid（页面不存在）">Ragnid</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./红楼_～_Eastern_Dream....md" class="mw-redirect" title="紅楼 ～ Eastern Dream...">紅楼　～ Eastern Dream...</a></div><div class="source"><a href="./东方红魔乡.md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr></tbody></table>
 
 
 ## 评论
-
-
-
 
 ---
 

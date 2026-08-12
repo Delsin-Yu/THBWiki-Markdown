@@ -1,56 +1,42 @@
 # FALL_in_BLUE
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\b2\ns0%3AFALL_in_BLUE.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\b2\ns0%3AFALL_in_BLUE.html -->
 
 2014年8月16日 由 Ende der Welt 于 Comic Market 86 发布的EP同人专辑，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人专辑 (未找到链接)** 的词条
-
+**[二次创作同人专辑](./二次创作.md#同人音乐)**的词条
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-FALL_in_BLUE封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/2/2e/FALL_in_BLUE%E5%B0%81%E9%9D%A2.png/252px-FALL_in_BLUE%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="252" height="252" srcset="https://upload.thwiki.cc/thumb/2/2e/FALL_in_BLUE%E5%B0%81%E9%9D%A2.png/378px-FALL_in_BLUE%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/2/2e/FALL_in_BLUE%E5%B0%81%E9%9D%A2.png/504px-FALL_in_BLUE%E5%B0%81%E9%9D%A2.png 2x" data-file-width="827" data-file-height="827"></a><div class="cover-char">角色：<a href="./比那名居天子.md" title="比那名居天子">比那名居天子</a></div></td>
 </tr><tr><td class="label">名称</td><td colspan="2"> FALL in BLUE </td></tr><tr><td class="label">制作方</td><td><a href="./Ende_der_Welt.md" title="Ende der Welt">Ende der Welt</a></td><td class="cover-artwork" rowspan="9" style="min-width:252px;"><a href="./文件-FALL_in_BLUE封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/2/2e/FALL_in_BLUE%E5%B0%81%E9%9D%A2.png/252px-FALL_in_BLUE%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="252" height="252" srcset="https://upload.thwiki.cc/thumb/2/2e/FALL_in_BLUE%E5%B0%81%E9%9D%A2.png/378px-FALL_in_BLUE%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/2/2e/FALL_in_BLUE%E5%B0%81%E9%9D%A2.png/504px-FALL_in_BLUE%E5%B0%81%E9%9D%A2.png 2x" data-file-width="827" data-file-height="827"></a><div class="cover-char">角色：<a href="./比那名居天子.md" title="比那名居天子">比那名居天子</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2014-08-16&#160;（<a href="/展会作品列表?e=Comic+Market%2386">Comic Market 86</a>）</td></tr><tr><td class="label">类型</td><td>EP</td></tr><tr><td class="label">编号</td><td>EDW0002</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>4</td></tr><tr><td class="label">总时长</td><td>16:31</td></tr><tr><td class="label">售价</td><td>会场售价：500日元</td></tr>
+</tr><tr><td class="label">首发日期</td><td>2014-08-16 （<a href="./展会作品列表.md#86">Comic Market 86</a>）</td></tr><tr><td class="label">类型</td><td>EP</td></tr><tr><td class="label">编号</td><td>EDW0002</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>4</td></tr><tr><td class="label">总时长</td><td>16:31</td></tr><tr><td class="label">售价</td><td>会场售价：500日元</td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://edw0002.tumblr.com/">http://edw0002.tumblr.com/</a></td></tr></tbody></table>
 
 FALL in BLUE（同人专辑，Ende der Welt，2014） - 2014年8月16日 由 Ende der Welt 于 Comic Market 86 发布的EP同人专辑，分级为 一般向
-
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://itunes.apple.com/album/fall-in-blue-ep/1455299660">Apple Music</a>，<a rel="nofollow" class="external text" href="https://play.google.com/store/music/album?id=Bx2l676new27bgfi5f3swivpppi">Google Play Music</a></td></tr></tbody></table>
-
 
 
 ## Staff
   
- **Arrangement**   
+**Arrangement**  
 
-<table><tbody><tr><td><a href="/index.php?title=%E7%99%BD%E9%B3%B3&amp;action=edit&amp;redlink=1" class="new" title="白鳳（页面不存在）">白鳳</a></td><td></td><td>Tr.1-4</td></tr></tbody></table>
-
+<table><tbody><tr><td><a class="new" title="白鳳（页面不存在）">白鳳</a></td><td></td><td>Tr.1-4</td></tr></tbody></table>
 
 Illustration
 : 白鳳
 
-
 ## 试听
-  
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/161393190&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=false"></iframe>
-
-  
-
 
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="青き邪仙" colspan="2" class="title">青き邪仙<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=白鳳&amp;ogmusic=古きユアンシェン&amp;fromwiki=FALL_in_BLUE"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:20</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E7%99%BD%E9%B3%B3&amp;action=edit&amp;redlink=1" class="new" title="白鳳（页面不存在）">白鳳</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，白鳳&amp;fromwiki=FALL_in_BLUE"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=古きユアンシェン&amp;fromwiki=FALL_in_BLUE"><span></span></a></span><div class="ogmusic"><a href="./古きユアンシェン.md" class="mw-redirect" title="古きユアンシェン">古きユアンシェン</a></div><div class="source"><a href="./东方神灵庙_～_Ten_Desires..md" class="mw-redirect" title="东方神灵庙 ～ Ten Desires.">东方神灵庙　～ Ten Desires.</a></div></td></tr>
-<tr><td id="2" class="infoYD"><b>02</b></td><td id="出藍" colspan="2" class="title">出藍<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=白鳳&amp;ogmusic=妖々跋扈　～ Who done it!&amp;fromwiki=FALL_in_BLUE"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:27</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E7%99%BD%E9%B3%B3&amp;action=edit&amp;redlink=1" class="new" title="白鳳（页面不存在）">白鳳</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，白鳳&amp;fromwiki=FALL_in_BLUE"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=妖々跋扈　～ Who done it!&amp;fromwiki=FALL_in_BLUE"><span></span></a></span><div class="ogmusic"><a href="./妖々跋扈_～_Who_done_it!.md" class="mw-redirect" title="妖々跋扈 ～ Who done it!">妖々跋扈　～ Who done it!</a></div><div class="source"><a href="./东方妖妖梦_～_Perfect_Cherry_Blossom..md" class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr>
-<tr><td id="3" class="infoYD"><b>03</b></td><td id="想うは蒼穹" colspan="2" class="title">想うは蒼穹<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=白鳳&amp;ogmusic=雲外蒼天&amp;fromwiki=FALL_in_BLUE"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:08</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E7%99%BD%E9%B3%B3&amp;action=edit&amp;redlink=1" class="new" title="白鳳（页面不存在）">白鳳</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，白鳳&amp;fromwiki=FALL_in_BLUE"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=雲外蒼天&amp;fromwiki=FALL_in_BLUE"><span></span></a></span><div class="ogmusic"><a href="./雲外蒼天.md" class="mw-redirect" title="雲外蒼天">雲外蒼天</a></div><div class="source"><a href="./东方绯想天_～_Scarlet_Weather_Rhapsody..md" class="mw-redirect" title="东方绯想天 ～ Scarlet Weather Rhapsody.">东方绯想天　～ Scarlet Weather Rhapsody.</a></div></td></tr>
-<tr><td id="4" class="infoYD"><b>04</b></td><td id="Silent_Blue_Sea" colspan="2" class="title">Silent Blue Sea<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=白鳳&amp;ogmusic=綿月のスペルカード　～ Lunatic Blue&amp;fromwiki=FALL_in_BLUE"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:36</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E7%99%BD%E9%B3%B3&amp;action=edit&amp;redlink=1" class="new" title="白鳳（页面不存在）">白鳳</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，白鳳&amp;fromwiki=FALL_in_BLUE"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=綿月のスペルカード　～ Lunatic Blue&amp;fromwiki=FALL_in_BLUE"><span></span></a></span><div class="ogmusic"><a href="./綿月のスペルカード_～_Lunatic_Blue.md" class="mw-redirect" title="綿月のスペルカード ～ Lunatic Blue">綿月のスペルカード　～ Lunatic Blue</a></div><div class="source"><a href="./东方儚月抄_～_Silent_Sinner_in_Blue._附属CD.md" class="mw-redirect" title="东方儚月抄 ～ Silent Sinner in Blue. 附属CD">东方儚月抄 ～ Silent Sinner in Blue. 附属CD</a></div></td></tr></tbody></table>
-
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="青き邪仙" colspan="2" class="title">青き邪仙</td><td class="time">03:20</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="白鳳（页面不存在）">白鳳</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./古老的元神.md" class="mw-redirect" title="古きユアンシェン">古きユアンシェン</a></div><div class="source"><a href="./东方神灵庙.md" class="mw-redirect" title="东方神灵庙 ～ Ten Desires.">东方神灵庙　～ Ten Desires.</a></div></td></tr>
+<tr><td id="2" class="infoYD"><b>02</b></td><td id="出藍" colspan="2" class="title">出藍</td><td class="time">04:27</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="白鳳（页面不存在）">白鳳</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./妖妖跋扈_～_Who_done_it!.md" class="mw-redirect" title="妖々跋扈 ～ Who done it!">妖々跋扈　～ Who done it!</a></div><div class="source"><a href="./东方妖妖梦.md" class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr>
+<tr><td id="3" class="infoYD"><b>03</b></td><td id="想うは蒼穹" colspan="2" class="title">想うは蒼穹</td><td class="time">04:08</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="白鳳（页面不存在）">白鳳</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./云外苍天.md" class="mw-redirect" title="雲外蒼天">雲外蒼天</a></div><div class="source"><a href="./东方绯想天.md" class="mw-redirect" title="东方绯想天 ～ Scarlet Weather Rhapsody.">东方绯想天　～ Scarlet Weather Rhapsody.</a></div></td></tr>
+<tr><td id="4" class="infoYD"><b>04</b></td><td id="Silent_Blue_Sea" colspan="2" class="title">Silent Blue Sea</td><td class="time">04:36</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="白鳳（页面不存在）">白鳳</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./绵月的符卡_～_Lunatic_Blue.md" class="mw-redirect" title="綿月のスペルカード ～ Lunatic Blue">綿月のスペルカード　～ Lunatic Blue</a></div><div class="source"><a href="./东方儚月抄_～_Silent_Sinner_in_Blue.-附属CD.md" class="mw-redirect" title="东方儚月抄 ～ Silent Sinner in Blue. 附属CD">东方儚月抄 ～ Silent Sinner in Blue. 附属CD</a></div></td></tr></tbody></table>
 
 
 ## 评论
-
-
-
 
 ---
 

@@ -1,12 +1,8 @@
 # 文件:ヒレ軍団LOGO.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4f\ns6%3A%E3%83%92%E3%83%AC%E8%BB%8D%E5%9B%A3LOGO%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4f\ns6%3A%E3%83%92%E3%83%AC%E8%BB%8D%E5%9B%A3LOGO%2Ejpg.html -->
 
 ヒレ軍団 | 社团LOGO
-
-
-
-
 
 
 ---

@@ -1,18 +1,13 @@
 # 文件:CREATIVE_TRAIN书架1.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d7\ns6%3ACREATIVE_TRAIN%E4%B9%A6%E6%9E%B61%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d7\ns6%3ACREATIVE_TRAIN%E4%B9%A6%E6%9E%B61%2Epng.html -->
 
 ZUN
 
 
 ## 文件说明
   
-出自[[1]](https://www.youtube.com/watch?v=92XsLXSRmU0&amp;t=603)
-  
-
-
-
-
+出自[\[1\]](https://www.youtube.com/watch?v=92XsLXSRmU0&t=603)  
 
 ---
 

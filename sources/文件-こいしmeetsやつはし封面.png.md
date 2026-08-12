@@ -1,6 +1,6 @@
 # 文件:こいしmeetsやつはし封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1a\ns6%3A%E3%81%93%E3%81%84%E3%81%97meets%E3%82%84%E3%81%A4%E3%81%AF%E3%81%97%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1a\ns6%3A%E3%81%93%E3%81%84%E3%81%97meets%E3%82%84%E3%81%A4%E3%81%AF%E3%81%97%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 はりたまご | 同人志封面 | 封面图片
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [こいしmeetsやつはし](./こいしmeetsやつはし.md)  
-该封面包含的角色：- [古明地恋](./古明地恋.md)- [九十九弁弁](./九十九弁弁.md)
-
-
-
+- [こいしmeetsやつはし](./こいしmeetsやつはし.md)该封面包含的角色：
+- [古明地恋](./古明地恋.md)
+- [九十九弁弁](./九十九弁弁.md)
 
 
 ---

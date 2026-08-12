@@ -1,6 +1,6 @@
 # 文件:Imperishable_UK_Groove!_-Truth_Moon_Ver.-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f6\ns6%3AImperishable_UK_Groove%21_-Truth_Moon_Ver%2E-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f6\ns6%3AImperishable_UK_Groove%21_-Truth_Moon_Ver%2E-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Flowin'line | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Flowin'line | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Imperishable UK Groove! -Truth Moon Ver.-](./Imperishable_UK_Groove!_-Truth_Moon_Ver.-.md)  
-该封面包含的角色：- [藤原妹红](./藤原妹红.md)
-
-
-
+- [Imperishable UK Groove! -Truth Moon Ver.-](./Imperishable_UK_Groove!_-Truth_Moon_Ver.-.md)该封面包含的角色：
+- [藤原妹红](./藤原妹红.md)
 
 
 ---

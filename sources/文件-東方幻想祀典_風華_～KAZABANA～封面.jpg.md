@@ -1,6 +1,6 @@
 # 文件:東方幻想祀典_風華_～KAZABANA～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\56\ns6%3A%E6%9D%B1%E6%96%B9%E5%B9%BB%E6%83%B3%E7%A5%80%E5%85%B8_%E9%A2%A8%E8%8F%AF_%EF%BD%9EKAZABANA%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\56\ns6%3A%E6%9D%B1%E6%96%B9%E5%B9%BB%E6%83%B3%E7%A5%80%E5%85%B8_%E9%A2%A8%E8%8F%AF_%EF%BD%9EKAZABANA%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 C-CLAYS | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ C-CLAYS | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方幻想祀典 風華 ～KAZABANA～](./東方幻想祀典_風華_～KAZABANA～.md)  
-该封面包含的角色：- [东风谷早苗](./东风谷早苗.md)- [八坂神奈子](./八坂神奈子.md)
-
-
-
+- [東方幻想祀典 風華 ～KAZABANA～](./東方幻想祀典_風華_～KAZABANA～.md)该封面包含的角色：
+- [东风谷早苗](./东风谷早苗.md)
+- [八坂神奈子](./八坂神奈子.md)
 
 
 ---

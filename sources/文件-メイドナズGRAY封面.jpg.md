@@ -1,6 +1,6 @@
 # 文件:メイドナズGRAY封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\42\ns6%3A%E3%83%A1%E3%82%A4%E3%83%89%E3%83%8A%E3%82%BAGRAY%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\42\ns6%3A%E3%83%A1%E3%82%A4%E3%83%89%E3%83%8A%E3%82%BAGRAY%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 安達貴族 | 封面图片
 
@@ -10,11 +10,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [メイドナズGRAY](./メイドナズGRAY.md)  
-该封面包含的角色：- [娜兹玲](./娜兹玲.md)- [寅丸星](./寅丸星.md)- [森近霖之助](./森近霖之助.md)
-
-
-
+- [メイドナズGRAY](./メイドナズGRAY.md)该封面包含的角色：
+- [娜兹玲](./娜兹玲.md)
+- [寅丸星](./寅丸星.md)
+- [森近霖之助](./森近霖之助.md)
 
 
 ---

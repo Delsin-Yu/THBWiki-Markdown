@@ -1,6 +1,6 @@
 # 文件:Aqua_Vitae_～Vol.7_神霊廟イメージカクテル～封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\85\ns6%3AAqua_Vitae_%EF%BD%9EVol%2E7_%E7%A5%9E%E9%9C%8A%E5%BB%9F%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E3%82%AB%E3%82%AF%E3%83%86%E3%83%AB%EF%BD%9E%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\85\ns6%3AAqua_Vitae_%EF%BD%9EVol%2E7_%E7%A5%9E%E9%9C%8A%E5%BB%9F%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E3%82%AB%E3%82%AF%E3%83%86%E3%83%AB%EF%BD%9E%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Bar_カルテット | 同人志封面 | 封面图片
 
@@ -11,12 +11,7 @@ Bar_カルテット | 同人志封面 | 封面图片
 - [Aqua Vitae ～Vol.7 神霊廟イメージカクテル～](./Aqua_Vitae_～Vol.7_神霊廟イメージカクテル～.md)
 
   
-源地址：[[1]](http://file.kudokemisati.dou-jin.com/0be3a229.png)
-  
-
-
-
-
+源地址：[\[1\]](http://file.kudokemisati.dou-jin.com/0be3a229.png)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:th07_19_SC88Pro.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b5\ns6%3Ath07_19_SC88Pro%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b5\ns6%3Ath07_19_SC88Pro%2Emp3.html -->
 
 东方妖妖梦 | 春风之梦
 
@@ -9,12 +9,7 @@
   
 春風の夢 东方妖妖梦END曲MIDI版。由Roland Sound Canvas 88Pro实机录制；MP3采样率44.1KHz，码率192Kbps。  
 
-来源：[ZUN's MIDIs the way they were intended to be heard (100% COMPLETE)](https://www.shrinemaiden.org/forum/index.php/topic,18989.0.html)
-  
-
-
-
-
+来源：[ZUN's MIDIs the way they were intended to be heard (100% COMPLETE)](https://www.shrinemaiden.org/forum/index.php/topic,18989.0.html)  
 
 ---
 

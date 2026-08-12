@@ -1,6 +1,6 @@
 # 文件:TANGO_IN_THE_RAIN封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3f\ns6%3ATANGO_IN_THE_RAIN%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3f\ns6%3ATANGO_IN_THE_RAIN%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 群生ブロッコリー
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [TANGO IN THE RAIN](./TANGO_IN_THE_RAIN.md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)
-
-
-
+- [TANGO IN THE RAIN](./TANGO_IN_THE_RAIN.md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
 
 
 ---

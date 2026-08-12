@@ -1,16 +1,12 @@
 # 文件:河童重工工作室LOGO.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0f\ns6%3A%E6%B2%B3%E7%AB%A5%E9%87%8D%E5%B7%A5%E5%B7%A5%E4%BD%9C%E5%AE%A4LOGO%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0f\ns6%3A%E6%B2%B3%E7%AB%A5%E9%87%8D%E5%B7%A5%E5%B7%A5%E4%BD%9C%E5%AE%A4LOGO%2Epng.html -->
 
 河童重工工作室 | 社团LOGO
 
   
 社团logo，代传
   
-
-
-
-
 
 ---
 

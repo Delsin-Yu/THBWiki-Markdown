@@ -1,51 +1,44 @@
 # ZUN/Play,Doujin!采访3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\bd\ns0%3AZUN%2FPlay%2CDoujin%21%E9%87%87%E8%AE%BF3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\bd\ns0%3AZUN%2FPlay%2CDoujin%21%E9%87%87%E8%AE%BF3.html -->
 
 Play,Doujin! | ZUN
+
 
 - 本文刊载于周刊Fami通2018年1月4日号
 - 翻译：京都人形
 
 
 ## 内容
-
 <center>报道特辑2  
 扩展的『东方Project世界』  
-<big><big> **UNTIES加入“Play,Doujin!”！** </big></big></center>
-
-  
+<big><big>**UNTIES加入“Play,Doujin!”！**</big></big></center>  
 索尼音乐娱乐开展的游戏发行厂牌“UNTIES”作为合作伙伴加入了“Play,Doujin!”。公司公布将会发行『东方Project』的爱好者游戏。在这里，我们向公司的主管询问了公司的战略等。
   
-
-[](./文件-pd采访3.jpg.md)
+<img alt="pd采访3.jpg" src="https://upload.thwiki.cc/thumb/3/3a/pd%E9%87%87%E8%AE%BF3.jpg/500px-pd%E9%87%87%E8%AE%BF3.jpg" decoding="async" loading="lazy" width="500" height="301" srcset="https://upload.thwiki.cc/3/3a/pd%E9%87%87%E8%AE%BF3.jpg 1.5x" data-file-width="637" data-file-height="383">
   
 从左至右：
   
   
 Mediascape 董事  
- **小山田文雄**   
+**小山田文雄**  
 （文中为小山田）
   
   
- **ZUN**   
+**ZUN**  
 （文中为ZUN）
   
   
 UNTIES  
- **伊东章成**   
+**伊东章成**  
 （文中为伊东）
   
   
 AQUASTYLE 代表  
- **JYUNYA**   
+**JYUNYA**  
 （文中为JYUNYA）
   
-
-
-<center> **为了让“想在家用游戏机上出游戏”的愿望更加容易地实现** </center>
-
-——
+<center>**为了让“想在家用游戏机上出游戏”的愿望更加容易地实现**</center>——
 : 首先，请讲一讲UNTIES参加“Play,Doujin!”的缘由。
 伊东
 : 关于“Play,Doujin!”，我还所属于索尼互动娱乐（亚洲日本）的时候就在一起进行企划，帮助了其创建，<font color="#FF0000">而在UNTIES启动的时候，我仍然觉得“想继续支持”。在我心中，也有着ZUN先生和Mediascape的小山田先生是一同奋斗过来的“同志”一般的意识</font>。最初我和ZUN先生这么说的时候，他却跟我说「我哪管！」（笑）。不过，实际上我想的还是「这么有意思的事情，还想继续做下去」（笑）。
@@ -98,23 +91,12 @@ ZUN
 ZUN
 : 实际上，不论是参加“Play,Doujin!”的人还是进行二次创作的人，都不一定是想着“要推广『东方Project』”才做的。<font color="#FF0000">大家都只是在做着自己想做的事情，作为其表现手段，在以『东方Project』为主题进行二次创作。如果在此延长线上，人们有“想在家用游戏机上出游戏”的心情，那我觉得我们理应尽可能去实现这样的愿望</font>。从这个意义上讲，我觉得将来人们要是能更自由地在家用游戏机上创作游戏就好了。
 
-
 <table>
-<tbody><tr><td><big><b>Play,Doujin!是？</b><br>以ZUN所运营的社团“上海爱丽丝幻乐团”制作的射击游戏『东方Project』的爱好者游戏为中心，以将各种各样的同人游戏面向家用游戏机开展为目的的项目。项目2014年在Mediascape的主导下启动，迄今为止发行的作品已有15部。2017年11月30日举办的PlayStation Awards 2017上，AQUASTYLE开发的『不可思议的幻想乡TOD -RELOADED-』赢得了“独立&amp;开发者奖”等等，引人注目的作品正在接二连三地发行。</big></td></tr>
+<tbody><tr><td><big><b>Play,Doujin!是？</b><br>以ZUN所运营的社团“上海爱丽丝幻乐团”制作的射击游戏『东方Project』的爱好者游戏为中心，以将各种各样的同人游戏面向家用游戏机开展为目的的项目。项目2014年在Mediascape的主导下启动，迄今为止发行的作品已有15部。2017年11月30日举办的PlayStation Awards 2017上，AQUASTYLE开发的『不可思议的幻想乡TOD -RELOADED-』赢得了“独立&开发者奖”等等，引人注目的作品正在接二连三地发行。</big></td></tr>
 </tbody></table>
 
-
-  
-  
-
-  
-
-
-<center> **预定由UNTIES发行的Play,Doujin!作品** </center>
-
-  
- **『不可思议的幻想乡TOD -RELOADED-』** 
-  
+<center>**预定由UNTIES发行的Play,Doujin!作品**</center>  
+**『不可思议的幻想乡TOD -RELOADED-』**  
 
 - 2017年12月28日发售
 - 价格：4500日元[不含税]（4860日元[含税]）
@@ -127,9 +109,7 @@ ZUN
   
   
   
-
- **『舞华苍魔镜』** 
-  
+**『舞华苍魔镜』**  
 
 - 2018年1月25日发售预定
 - 价格：未定
@@ -140,10 +120,6 @@ ZUN
   
 以幻想乡为舞台的“横版卷轴冲撞弹幕射击游戏”。在PlayStation 4版中，不仅达成了完全HD化，还将会追加新的可玩角色与BOSS。
   
-
-
-
-
 
 ---
 

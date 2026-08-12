@@ -1,6 +1,6 @@
 # 文件:過去と今の記憶-Memory_of_the_Past_and_Now-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\83\ns6%3A%E9%81%8E%E5%8E%BB%E3%81%A8%E4%BB%8A%E3%81%AE%E8%A8%98%E6%86%B6-Memory_of_the_Past_and_Now-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\83\ns6%3A%E9%81%8E%E5%8E%BB%E3%81%A8%E4%BB%8A%E3%81%AE%E8%A8%98%E6%86%B6-Memory_of_the_Past_and_Now-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 44_minute_of_insanity | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [過去と今の記憶-Memory of the Past and Now-](./過去と今の記憶-Memory_of_the_Past_and_Now-.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [過去と今の記憶-Memory of the Past and Now-](./過去と今の記憶-Memory_of_the_Past_and_Now-.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

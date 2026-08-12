@@ -1,12 +1,8 @@
 # 文件:死なばもろとも_~_Civilization_of_Magic.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bd\ns6%3A%E6%AD%BB%E3%81%AA%E3%81%B0%E3%82%82%E3%82%8D%E3%81%A8%E3%82%82_%7E_Civilization_of_Magic%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bd\ns6%3A%E6%AD%BB%E3%81%AA%E3%81%B0%E3%82%82%E3%82%8D%E3%81%A8%E3%82%82_%7E_Civilization_of_Magic%2Emp3.html -->
 
 东方灵异传 | 原曲MP3 | 同归于尽
-
-
-
-
 
 
 ---

@@ -1,16 +1,12 @@
 # 文件:周氏匠铺社团LOGO.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\97\ns6%3A%E5%91%A8%E6%B0%8F%E5%8C%A0%E9%93%BA%E7%A4%BE%E5%9B%A2LOGO%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\97\ns6%3A%E5%91%A8%E6%B0%8F%E5%8C%A0%E9%93%BA%E7%A4%BE%E5%9B%A2LOGO%2Epng.html -->
 
 周氏匠铺 | 社团LOGO
 
   
 鸟居，阴阳玉，logo，社团图标
   
-
-
-
-
 
 ---
 

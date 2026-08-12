@@ -1,12 +1,8 @@
 # 文件:Structure_Soundbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\55\ns6%3AStructure_Soundbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\55\ns6%3AStructure_Soundbanner%2Ejpg.html -->
 
 Structure_Sound | 社团LOGO
-
-
-
-
 
 
 ---

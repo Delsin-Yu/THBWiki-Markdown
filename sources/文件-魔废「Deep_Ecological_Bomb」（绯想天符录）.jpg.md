@@ -1,14 +1,11 @@
 # 文件:魔废「Deep_Ecological_Bomb」（绯想天符录）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\72\ns6%3A%E9%AD%94%E5%BA%9F%E3%80%8CDeep_Ecological_Bomb%E3%80%8D%EF%BC%88%E7%BB%AF%E6%83%B3%E5%A4%A9%E7%AC%A6%E5%BD%95%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\72\ns6%3A%E9%AD%94%E5%BA%9F%E3%80%8CDeep_Ecological_Bomb%E3%80%8D%EF%BC%88%E7%BB%AF%E6%83%B3%E5%A4%A9%E7%AC%A6%E5%BD%95%EF%BC%89%2Ejpg.html -->
 
 绯想天符录 | 雾雨魔理沙
 
 
 ## 摘要
-
-
-
 
 ---
 

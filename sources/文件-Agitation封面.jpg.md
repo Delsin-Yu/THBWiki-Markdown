@@ -1,6 +1,6 @@
 # 文件:Agitation封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b9\ns6%3AAgitation%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b9\ns6%3AAgitation%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 9bFOX | 专辑封面 | 封面图片
 
@@ -8,11 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Agitation](./Agitation.md)  
-该封面包含的角色：- [橙](./橙.md)- [八云蓝](./八云蓝.md)- [火焰猫燐](./火焰猫燐.md)- [稗田阿求](./稗田阿求.md)
-
-
-
+- [Agitation](./Agitation.md)该封面包含的角色：
+- [橙](./橙.md)
+- [八云蓝](./八云蓝.md)
+- [火焰猫燐](./火焰猫燐.md)
+- [稗田阿求](./稗田阿求.md)
 
 
 ---

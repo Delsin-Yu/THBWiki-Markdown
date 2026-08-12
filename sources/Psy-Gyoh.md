@@ -1,23 +1,19 @@
 # Psy-Gyoh
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\1\11\ns0%3APsy-Gyoh.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\1\11\ns0%3APsy-Gyoh.html -->
 
 现实人物
 
 本页是关于东方Project  
- **二次同人创作者** 的词条
-
+**二次同人创作者**的词条
 ## 基本信息
 
-<table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="label"><b>名称</b></td><td> Psy-Gyoh </td></tr><tr><td class="label"><b>所属社团</b></td><td><b>当前</b><div style="margin-left:2em;"><a href="/As%EF%BC%8FHi_Soundworks" title="As／Hi Soundworks" unred="">As/Hi Soundworks</a></div></td></tr><tr><td class="label"><b>职位</b></td><td>MC，演唱</td></tr><tr><td class="label"><b>参与社团</b></td><td><a href="/As%EF%BC%8FHi_Soundworks" title="As／Hi Soundworks">As／Hi Soundworks</a> （演唱）<br><a href="./梶迫小道具店.md" title="梶迫小道具店">梶迫小道具店</a> （演唱）</td></tr><tr><td class="label"><b>性别</b></td><td>男</td></tr><tr><td class="label"><b>个人页面</b></td><td><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><b>Twitter</b></td><td><a rel="nofollow" class="external free" href="https://twitter.com/psy_gyoh">https://twitter.com/psy_gyoh</a></td></tr></tbody></table></td></tr></tbody></table>
+<table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="label"><b>名称</b></td><td> Psy-Gyoh </td></tr><tr><td class="label"><b>所属社团</b></td><td><b>当前</b><div style="margin-left:2em;"><a href="./As／Hi_Soundworks.md" title="As／Hi Soundworks" unred="">As/Hi Soundworks</a></div></td></tr><tr><td class="label"><b>职位</b></td><td>MC，演唱</td></tr><tr><td class="label"><b>参与社团</b></td><td><a href="./As／Hi_Soundworks.md" title="As／Hi Soundworks">As／Hi Soundworks</a> （演唱）<br><a href="./梶迫小道具店.md" title="梶迫小道具店">梶迫小道具店</a> （演唱）</td></tr><tr><td class="label"><b>性别</b></td><td>男</td></tr><tr><td class="label"><b>个人页面</b></td><td><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><b>Twitter</b></td><td><a rel="nofollow" class="external free" href="https://twitter.com/psy_gyoh">https://twitter.com/psy_gyoh</a></td></tr></tbody></table></td></tr></tbody></table>
 
 Psy-Gyoh（人物） - 现实人物
-
 ## 参与作品
-- 除了As/Hi Soundworks (未找到链接)以外，也常在[梶迫小道具店](./梶迫小道具店.md)的专辑中担当MC、伴唱。
 
-
-
+- 除了[As/Hi Soundworks](./As／Hi_Soundworks.md)以外，也常在[梶迫小道具店](./梶迫小道具店.md)的专辑中担当MC、伴唱。
 
 
 ---

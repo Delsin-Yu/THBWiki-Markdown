@@ -1,12 +1,8 @@
 # 文件:祟德院天梦（TriFocuser立绘）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9a\ns6%3A%E7%A5%9F%E5%BE%B7%E9%99%A2%E5%A4%A9%E6%A2%A6%EF%BC%88TriFocuser%E7%AB%8B%E7%BB%98%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9a\ns6%3A%E7%A5%9F%E5%BE%B7%E9%99%A2%E5%A4%A9%E6%A2%A6%EF%BC%88TriFocuser%E7%AB%8B%E7%BB%98%EF%BC%89%2Epng.html -->
 
 二次角色立绘 | 東方邪星章製作チーム | 祟德院天梦
-
-
-
-
 
 
 ---

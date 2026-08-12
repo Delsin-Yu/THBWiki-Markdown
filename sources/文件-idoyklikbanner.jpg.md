@@ -1,16 +1,11 @@
 # 文件:idoyklikbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f2\ns6%3Aidoyklikbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f2\ns6%3Aidoyklikbanner%2Ejpg.html -->
 
 idoyklik | 社团LOGO
 
   
-源地址：[[1]](https://idoyklik.bandcamp.com/)
-  
-
-
-
-
+源地址：[\[1\]](https://idoyklik.bandcamp.com/)  
 
 ---
 

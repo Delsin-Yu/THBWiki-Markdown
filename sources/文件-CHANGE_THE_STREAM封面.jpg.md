@@ -1,6 +1,6 @@
 # 文件:CHANGE_THE_STREAM封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b3\ns6%3ACHANGE_THE_STREAM%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b3\ns6%3ACHANGE_THE_STREAM%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 SNUG_SPACE | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ SNUG_SPACE | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [CHANGE THE STREAM](./CHANGE_THE_STREAM.md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)
-
-
-
+- [CHANGE THE STREAM](./CHANGE_THE_STREAM.md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
 
 
 ---

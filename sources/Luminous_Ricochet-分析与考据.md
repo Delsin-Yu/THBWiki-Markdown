@@ -1,6 +1,6 @@
 # Luminous_Ricochet/分析与考据
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\68\ns0%3ALuminous_Ricochet%2F%E5%88%86%E6%9E%90%E4%B8%8E%E8%80%83%E6%8D%AE.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\68\ns0%3ALuminous_Ricochet%2F%E5%88%86%E6%9E%90%E4%B8%8E%E8%80%83%E6%8D%AE.html -->
 
 十六夜咲夜 | 符卡
 
@@ -8,10 +8,8 @@
 ## 目录
 
 - [1 分析与考据](#分析与考据)
-
   - [1.1 速符「ルミネスリコシェ」](#速符「ルミネスリコシェ」)
   - [1.2 光速「Ｃ．リコシェ」](#光速「Ｃ．リコシェ」)
-
 
 
 - [2 注释](#注释)
@@ -19,31 +17,33 @@
 - [4 导航](#导航)
 
 
-
-
-
 ## 分析与考据
 
 ### 速符「ルミネスリコシェ」
   
- **速符「ルミネスリコシェ」**  速符「Luminous Ricochet」（闪光跳弹）
+**速符「ルミネスリコシェ」** 速符「Luminous Ricochet」（闪光跳弹）
   
 
-- ルミネス（luminous）
+- ルミネス（luminous） 
   - 英语：发光的。
 
-- リコシェ（ricochet）
+
+- リコシェ（ricochet） 
   - 英语：跳弹。
-  - 指子弹以一定的情况下击中物体时被弹开的现象。
+  - 指子弹以一定的情况下击中物体时被弹开的现象。 
     - 一般而言入射角愈大，发生这种情况的可能性愈大。
+
+
 
 
 
 : : : 且一般不会完全弹向与入射时相反的方向，或是入射角等于反射角的情况。
 : 且发生跳弹的子弹动能通常会大幅衰减，也就是弹开后速度会变慢。
+
 - 但在符卡表现中咲夜的飞刀在来回弹跳中入射角和反射角基本相等（以屏幕的x/y轴处为入射面的话）且飞行速度不变，因此更加接近光的反射（reflection）而非跳弹。
 
-: - 这正好对应「ルミネス」？
+: 
+- 这正好对应「ルミネス」？
 
 
 
@@ -52,31 +52,35 @@
 
 ### 光速「Ｃ．リコシェ」
   
- **光速「Ｃ．リコシェ」**  光速「C. Ricochet」（光速跳弹）
+**光速「Ｃ．リコシェ」** 光速「C. Ricochet」（光速跳弹）
   
 
-- <ruby lang="ja"><rb>光速</rb><rp> (</rp><rt>こうそく</rt><rp>) </rp></ruby>
-[^cite_note-1]
+- <ruby lang="ja"><rb>光速</rb><rp> (</rp><rt>こうそく</rt><rp>) </rp></ruby>[^cite_note-1]
   - 光在真空中的速率，是一个物理常数，一般记作[math]\displaystyle{ c }[/math]，约为[math]\displaystyle{ 3.00 \times 10^8 m/s }[/math]。
   - 根据狭义相对论，光速是宇宙中所有的物质运动、信息传播的速度上限。
+
 
 - Ｃ.
   - 物理学中一般用[math]\displaystyle{ c }[/math]代表光速。
   - 在某些情况下，[math]\displaystyle{ c }[/math]表示任何媒介中波传播的速度，而[math]\displaystyle{ c_0 }[/math]则表示光在真空中的速度。
 
-- リコシェ（ricochet）
+
+- リコシェ（ricochet） 
   - 英语：跳弹。
-  - 指子弹以一定的情况下击中物体时被弹开的现象。
+  - 指子弹以一定的情况下击中物体时被弹开的现象。 
     - 一般而言入射角愈大，发生这种情况的可能性愈大。
+
+
 
 
 
 : : : 且一般不会完全弹向与入射时相反的方向，或是入射角等于反射角的情况。
 : 且发生跳弹的子弹动能通常会大幅衰减，也就是弹开后速度会变慢。
+
 - 但在符卡表现中咲夜的飞刀在来回弹跳中入射角和反射角的关系似乎随机（可能不以屏幕的x/y轴处为入射面）且飞行速度不变，因此更加接近光的反射（reflection）而非跳弹。
 
-: - 这正好对应「光速」？
-
+: 
+- 这正好对应「光速」？
 
 
 
@@ -84,18 +88,9 @@
 
 [^cite_note-1]: 中文维基百科：[光速](https://en.wikipedia.org/wiki/zh:光速)
 
-
 ## 参见
+
 - [十六夜咲夜/分析考据](./十六夜咲夜-分析考据.md)
-
-
-## 导航
-
-<table><tbody><tr><td><table cellspacing="0" class="nowraplinks mw-collapsible mw-collapsed" style="width:100%;;;"><tbody><tr><th style=";" colspan="3" class="navbox-title"><div class="navbar"><div class="noprint plainlinksneverexpand" style="background-color:transparent; padding:0; font-weight:normal; font-size:80%; white-space:nowrap;"><a href="./模板-十六夜咲夜符卡导航.md" title="模板:十六夜咲夜符卡导航"><span style=";;border:none;" title="查看这个模板">查</span></a>&#160;<span style="font-size:80%;">•</span>&#160;<a href="/index.php?title=%E6%A8%A1%E6%9D%BF:%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C%E7%AC%A6%E5%8D%A1%E5%AF%BC%E8%88%AA&amp;action=edit"><span style=";;border:none;" title="您可以编辑这个模板。请在储存变更之前先预览">编</span></a></div></div><span><a href="/%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C" title="十六夜咲夜">十六夜咲夜</a>符卡</span></th></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">射击游戏</td><td style=";;" class="navbox-list navbox-odd"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div><a href="./东方红魔乡.md" title="东方红魔乡">东方红魔乡</a></div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./奇术「Misdirection」.md" class="mw-redirect" title="奇术「Misdirection」">奇术「Misdirection」</a> &#8226; <a href="./奇术「幻惑Misdirection」.md" class="mw-redirect" title="奇术「幻惑Misdirection」">奇术「幻惑Misdirection」</a> &#8226; <a href="./幻在「Clock_Corpse」.md" class="mw-redirect" title="幻在「Clock Corpse」">幻在「Clock Corpse」</a> &#8226; <a href="./幻幽「Jack_the_Ludo_Bile」.md" class="mw-redirect" title="幻幽「Jack the Ludo Bile」">幻幽「Jack the Ludo Bile」</a> &#8226; <a href="./幻象「Luna_Clock」.md" class="mw-redirect" title="幻象「Luna Clock」">幻象「Luna Clock」</a> &#8226; <a href="./幻世「The_World」.md" class="mw-redirect" title="幻世「The World」">幻世「The World」</a> &#8226; <a href="./女仆秘技「操弄玩偶」.md" class="mw-redirect" title="女仆秘技「操弄玩偶」">女仆秘技「操弄玩偶」</a> &#8226; <a href="./女仆秘技「杀人玩偶」.md" class="mw-redirect" title="女仆秘技「杀人玩偶」">女仆秘技「杀人玩偶」</a> &#8226; <a href="./奇术「Eternal_Meek」.md" class="mw-redirect" title="奇术「Eternal Meek」">奇术「Eternal Meek」</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div><a href="./东方妖妖梦.md" title="东方妖妖梦">东方妖妖梦</a></div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./幻符「Indiscriminate」.md" class="mw-redirect" title="幻符「Indiscriminate」">幻符「Indiscriminate」</a> &#8226; <a href="./幻符「杀人玩偶」.md" class="mw-redirect" title="幻符「杀人玩偶」">幻符「杀人玩偶」</a> &#8226; <a href="./时符「Perfect_Square」.md" class="mw-redirect" title="时符「Perfect Square」">时符「Perfect Square」</a> &#8226; <a href="./时符「Private_Square」.md" class="mw-redirect" title="时符「Private Square」">时符「Private Square」</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div><a href="./东方永夜抄.md" title="东方永夜抄">东方永夜抄</a></div></td><td style=";;" class="navbox-list navbox-odd"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>自机符卡</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./幻符「杀人玩偶」.md" class="mw-redirect" title="幻符「杀人玩偶」">幻符「杀人玩偶」</a> &#8226; <a href="./幻葬「夜雾幻影杀人鬼」.md" class="mw-redirect" title="幻葬「夜雾幻影杀人鬼」">幻葬「夜雾幻影杀人鬼」</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>敌机符卡</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./「Deflation_World」.md" class="mw-redirect" title="「Deflation World」">「Deflation World」</a></div></td></tr></tbody></table><div></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div><a href="./东方花映塚.md" title="东方花映塚">东方花映塚</a></div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./时符「Private_Vision」.md" class="mw-redirect" title="时符「Private Vision」">时符「Private Vision」</a> &#8226; <a href="./时符「Mysterious_Jack」.md" class="mw-redirect" title="时符「Mysterious Jack」">时符「Mysterious Jack」</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div><a href="./东方文花帖.md" title="东方文花帖">东方文花帖</a></div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./时符「Tunnel_Effect」.md" class="mw-redirect" title="时符「Tunnel Effect」">时符「Tunnel Effect」</a> &#8226; <a href="./空虚「Inflation_Square」.md" class="mw-redirect" title="空虚「Inflation Square」">空虚「Inflation Square」</a> &#8226; <a href="./银符「Perfect_Maid」.md" class="mw-redirect" title="银符「Perfect Maid」">银符「Perfect Maid」</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div><a href="./东方辉针城.md" title="东方辉针城">东方辉针城</a></div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./妖器「银色异次元」.md" class="mw-redirect" title="妖器「银色异次元」">妖器「银色异次元」</a> &#8226; <a href="./时符「Dual_Vanish」.md" class="mw-redirect" title="时符「Dual Vanish」">时符「Dual Vanish」</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div><a href="./弹幕天邪鬼.md" title="弹幕天邪鬼">弹幕天邪鬼</a></div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./时符「时停者咲夜」.md" class="mw-redirect" title="时符「时停者咲夜」">时符「时停者咲夜」</a> &#8226; <a href="./时符「Changeling_Magic」.md" class="mw-redirect" title="时符「Changeling Magic」">时符「Changeling Magic」</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div><a href="./弹幕狂们的黑市.md" title="弹幕狂们的黑市">弹幕狂们的黑市</a></div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./时符「Eye-wink_Knife_Hell」.md" class="mw-redirect" title="时符「Eye-wink Knife Hell」">时符「Eye-wink Knife Hell」</a></div></td></tr></tbody></table><div></div></td><td class="navbox-image" style="" rowspan="7"><a href="./文件-十六夜咲夜（Q版立绘）.png.md" class="image"><img alt="十六夜咲夜（Q版立绘）.png" src="https://upload.thwiki.cc/thumb/5/50/%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png/160px-%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="160" height="160" srcset="https://upload.thwiki.cc/thumb/5/50/%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png/240px-%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/5/50/%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png/320px-%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="500" data-file-height="500"></a></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">格斗游戏</td><td style=";;" class="navbox-list navbox-even"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div><a href="./东方萃梦想.md" title="东方萃梦想">东方萃梦想</a></div></td><td style=";;" class="navbox-list navbox-odd"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>对战符卡</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./幻符「杀人玩偶」.md" class="mw-redirect" title="幻符「杀人玩偶」">幻符「杀人玩偶」</a> &#8226; <a href="./时符「Private_Square」.md" class="mw-redirect" title="时符「Private Square」">时符「Private Square」</a> &#8226; <a href="./伤符「Inscribe_Red_Soul」.md" class="mw-redirect" title="伤符「Inscribe Red Soul」">伤符「Inscribe Red Soul」</a> &#8226; <a href="./幻葬「夜雾幻影杀人鬼」.md" class="mw-redirect" title="幻葬「夜雾幻影杀人鬼」">幻葬「夜雾幻影杀人鬼」</a> &#8226; <a href="./「咲夜的世界」.md" class="mw-redirect" title="「咲夜的世界」">「咲夜的世界」</a> &#8226; <a href="./伤魂「Soul_Sculpture」.md" class="mw-redirect" title="伤魂「Soul Sculpture」">伤魂「Soul Sculpture」</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>故事符卡</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./符之一「连续杀人玩偶」.md" class="mw-redirect" title="符之一「连续杀人玩偶」">符之一「连续杀人玩偶」</a> &#8226; <a href="./符之二「Check-Maid」.md" class="mw-redirect" title="符之二「Check-Maid」">符之二「Check-Maid」</a> &#8226; <a href="./戏法「极近距离杀人鬼」.md" class="mw-redirect" title="戏法「极近距离杀人鬼」">戏法「极近距离杀人鬼」</a></div></td></tr></tbody></table><div></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div><a href="./东方绯想天.md" title="东方绯想天">东方绯想天</a></div></td><td style=";;" class="navbox-list navbox-even"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>对战符卡</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./幻符「杀人玩偶」.md" class="mw-redirect" title="幻符「杀人玩偶」">幻符「杀人玩偶」</a> &#8226; <a href="./时符「Private_Square」.md" class="mw-redirect" title="时符「Private Square」">时符「Private Square」</a> &#8226; <a href="./伤符「Inscribe_Red_Soul」.md" class="mw-redirect" title="伤符「Inscribe Red Soul」">伤符「Inscribe Red Soul」</a> &#8226; <a href="./幻葬「夜雾幻影杀人鬼」.md" class="mw-redirect" title="幻葬「夜雾幻影杀人鬼」">幻葬「夜雾幻影杀人鬼」</a> &#8226; <a href="./「咲夜的世界」.md" class="mw-redirect" title="「咲夜的世界」">「咲夜的世界」</a> &#8226; <a href="./伤魂「Soul_Sculpture」.md" class="mw-redirect" title="伤魂「Soul Sculpture」">伤魂「Soul Sculpture」</a> &#8226; <a href="./银符「Silver_Bound」.md" class="mw-redirect" title="银符「Silver Bound」">银符「Silver Bound」</a> &#8226; <a href="./奇术「Eternal_Meek」.md" class="mw-redirect" title="奇术「Eternal Meek」">奇术「Eternal Meek」</a> &#8226; <a href="./速符「Luminous_Ricochet」.md" class="mw-redirect" title="速符「Luminous Ricochet」">速符「Luminous Ricochet」</a> &#8226; <a href="./时符「咲夜特制秒表」.md" class="mw-redirect" title="时符「咲夜特制秒表」">时符「咲夜特制秒表」</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>故事符卡</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./银符「Silver_Bound」.md" class="mw-redirect" title="银符「Silver Bound」">银符「Silver Bound」</a> &#8226; <a href="./时符「咲夜特制秒表」.md" class="mw-redirect" title="时符「咲夜特制秒表」">时符「咲夜特制秒表」</a> &#8226; <a href="./幻术「My_Knife_Recursion」.md" class="mw-redirect" title="幻术「My Knife Recursion」">幻术「My Knife Recursion」</a> &#8226; <a href="./时符「Silver_Acute_360」.md" class="mw-redirect" title="时符「Silver Acute 360」">时符「Silver Acute 360」</a></div></td></tr></tbody></table><div></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div><a href="./东方非想天则.md" title="东方非想天则">东方非想天则</a></div></td><td style=";;" class="navbox-list navbox-odd"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>对战符卡</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./时符「Imaginary_Vertical_Time」.md" class="mw-redirect" title="时符「Imaginary Vertical Time」">时符「Imaginary Vertical Time」</a> &#8226; <a href="./时计「Luna_Dial」.md" class="mw-redirect" title="时计「Luna Dial」">时计「Luna Dial」</a> &#8226; <a href="./光速「C._Ricochet」.md" class="mw-redirect" title="光速「C. Ricochet」">光速「C. Ricochet」</a></div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">出版物</td><td style=";;" class="navbox-list navbox-odd"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div><a href="./东方儚月抄.md" title="东方儚月抄">东方儚月抄</a></div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./「Luminous_Ricochet」.md" class="mw-redirect" title="「Luminous Ricochet」">「Luminous Ricochet」</a> &#8226; <a href="./「我的世界」.md" class="mw-redirect" title="「我的世界」">「我的世界」</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div><a href="./魔理沙的魔法书.md" class="mw-redirect" title="魔理沙的魔法书">魔理沙的魔法书</a></div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./幻象「Luna_Clock」.md" class="mw-redirect" title="幻象「Luna Clock」">幻象「Luna Clock」</a> &#8226; <a href="./女仆秘技「杀人玩偶」.md" class="mw-redirect" title="女仆秘技「杀人玩偶」">女仆秘技「杀人玩偶」</a> &#8226; <a href="./空虚「Inflation_Square」.md" class="mw-redirect" title="空虚「Inflation Square」">空虚「Inflation Square」</a> &#8226; <a href="./「Deflation_World」.md" class="mw-redirect" title="「Deflation World」">「Deflation World」</a> &#8226; <a href="./时符「Tunnel_Effect」.md" class="mw-redirect" title="时符「Tunnel Effect」">时符「Tunnel Effect」</a></div></td></tr></tbody></table><div></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">周边</td><td style=";;" class="navbox-list navbox-even"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div><a href="./绯想天符录_WEATHER_LIGHT.md" title="绯想天符录 WEATHER LIGHT">绯想天符录 WEATHER LIGHT</a></div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./伤符「Inscribe_Red_Soul」.md" class="mw-redirect" title="伤符「Inscribe Red Soul」">伤符「Inscribe Red Soul」</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div><a href="./绯想天符录_非想天则20形态.md" title="绯想天符录 非想天则20形态">绯想天符录 非想天则20形态</a></div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./时符「Imaginary_Vertical_Time」.md" class="mw-redirect" title="时符「Imaginary Vertical Time」">时符「Imaginary Vertical Time」</a></div></td></tr></tbody></table><div></div></td></tr></tbody></table></td></tr></tbody></table>
-
-
-
-
 
 
 ---

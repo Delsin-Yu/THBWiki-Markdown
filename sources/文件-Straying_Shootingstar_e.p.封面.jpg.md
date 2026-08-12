@@ -1,6 +1,6 @@
 # 文件:Straying_Shootingstar_e.p.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dd\ns6%3AStraying_Shootingstar_e%2Ep%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dd\ns6%3AStraying_Shootingstar_e%2Ep%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 朝焼けにて群青
 
@@ -11,9 +11,6 @@
   
 
 - [Straying Shootingstar e.p.](./Straying_Shootingstar_e.p..md)
-
-
-
 
 
 ---

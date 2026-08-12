@@ -1,12 +1,8 @@
 # 文件:东方红魔乡end06.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5d\ns6%3A%E4%B8%9C%E6%96%B9%E7%BA%A2%E9%AD%94%E4%B9%A1end06%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5d\ns6%3A%E4%B8%9C%E6%96%B9%E7%BA%A2%E9%AD%94%E4%B9%A1end06%2Ejpg.html -->
 
 东方红魔乡结局图
-
-
-
-
 
 
 ---

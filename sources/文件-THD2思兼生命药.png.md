@@ -1,12 +1,8 @@
 # 文件:THD2思兼生命药.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d9\ns6%3ATHD2%E6%80%9D%E5%85%BC%E7%94%9F%E5%91%BD%E8%8D%AF%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d9\ns6%3ATHD2%E6%80%9D%E5%85%BC%E7%94%9F%E5%91%BD%E8%8D%AF%2Epng.html -->
 
 AvalonStudioOfficial
-
-
-
-
 
 
 ---

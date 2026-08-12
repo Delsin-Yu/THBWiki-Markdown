@@ -1,12 +1,8 @@
 # 文件:ロマンチックメロウbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\77\ns6%3A%E3%83%AD%E3%83%9E%E3%83%B3%E3%83%81%E3%83%83%E3%82%AF%E3%83%A1%E3%83%AD%E3%82%A6banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\77\ns6%3A%E3%83%AD%E3%83%9E%E3%83%B3%E3%83%81%E3%83%83%E3%82%AF%E3%83%A1%E3%83%AD%E3%82%A6banner%2Ejpg.html -->
 
 ロマンチックメロウ | 社团LOGO
-
-
-
-
 
 
 ---

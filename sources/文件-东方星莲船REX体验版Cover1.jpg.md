@@ -1,12 +1,8 @@
 # 文件:东方星莲船REX体验版Cover1.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\aa\ns6%3A%E4%B8%9C%E6%96%B9%E6%98%9F%E8%8E%B2%E8%88%B9REX%E4%BD%93%E9%AA%8C%E7%89%88Cover1%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\aa\ns6%3A%E4%B8%9C%E6%96%B9%E6%98%9F%E8%8E%B2%E8%88%B9REX%E4%BD%93%E9%AA%8C%E7%89%88Cover1%2Ejpg.html -->
 
 ComicREX | 东方星莲船 | 官方游戏体验版光盘扫图
-
-
-
-
 
 
 ---

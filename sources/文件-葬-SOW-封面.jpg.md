@@ -1,6 +1,6 @@
 # 文件:葬-SOW-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\87\ns6%3A%E8%91%AC-SOW-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\87\ns6%3A%E8%91%AC-SOW-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 罠
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [葬-SOW-](./葬-SOW-.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [葬-SOW-](./葬-SOW-.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
   
-源地址：[direct image link](https://img.doujinshi.org/big/173/346865.jpg?ver=3), [doujinshi.org ID: B346865 (V3)](https://www.doujinshi.org/book/346865/)
-  
-
-
-
-
+源地址：[direct image link](https://img.doujinshi.org/big/173/346865.jpg?ver=3), [doujinshi.org ID: B346865 (V3)](https://www.doujinshi.org/book/346865/)  
 
 ---
 

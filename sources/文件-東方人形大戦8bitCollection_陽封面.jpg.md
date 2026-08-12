@@ -1,6 +1,6 @@
 # 文件:東方人形大戦8bitCollection_陽封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b7\ns6%3A%E6%9D%B1%E6%96%B9%E4%BA%BA%E5%BD%A2%E5%A4%A7%E6%88%A68bitCollection_%E9%99%BD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b7\ns6%3A%E6%9D%B1%E6%96%B9%E4%BA%BA%E5%BD%A2%E5%A4%A7%E6%88%A68bitCollection_%E9%99%BD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 a-TTTempo | 专辑封面 | 封面图片
 
@@ -8,11 +8,14 @@ a-TTTempo | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方人形大戦8bitCollection 陽](./東方人形大戦8bitCollection_陽.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [博丽灵梦](./博丽灵梦.md)- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [八云紫](./八云紫.md)- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)- [伊吹萃香](./伊吹萃香.md)- [灵乌路空](./灵乌路空.md)
-
-
-
+- [東方人形大戦8bitCollection 陽](./東方人形大戦8bitCollection_陽.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [博丽灵梦](./博丽灵梦.md)
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [八云紫](./八云紫.md)
+- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)
+- [伊吹萃香](./伊吹萃香.md)
+- [灵乌路空](./灵乌路空.md)
 
 
 ---

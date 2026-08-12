@@ -1,6 +1,6 @@
 # 文件:悠啼_YU-NARI封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d9\ns6%3A%E6%82%A0%E5%95%BC_YU-NARI%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d9\ns6%3A%E6%82%A0%E5%95%BC_YU-NARI%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 C-CLAYS | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ C-CLAYS | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [悠啼 YU-NARI](./悠啼_YU-NARI.md)  
-该封面包含的角色：- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)- 十六夜咲夜 (未找到链接)
-
-
-
+- [悠啼 YU-NARI](./悠啼_YU-NARI.md)该封面包含的角色：
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
+- [十六夜咲夜](./十六夜咲夜.md)
 
 
 ---

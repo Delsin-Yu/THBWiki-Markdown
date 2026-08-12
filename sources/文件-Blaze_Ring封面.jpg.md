@@ -1,6 +1,6 @@
 # 文件:Blaze_Ring封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\96\ns6%3ABlaze_Ring%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\96\ns6%3ABlaze_Ring%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 こでまり小瑠璃 | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Blaze Ring](./Blaze_Ring.md)  
-该封面包含的角色：- [火焰猫燐](./火焰猫燐.md)
+- [Blaze Ring](./Blaze_Ring.md)该封面包含的角色：
+- [火焰猫燐](./火焰猫燐.md)
 
   
-源地址：[[1]](http://kodemari.sumomo.ne.jp/c91/KKCD-0005_jaket.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://kodemari.sumomo.ne.jp/c91/KKCD-0005_jaket.jpg)  
 
 ---
 

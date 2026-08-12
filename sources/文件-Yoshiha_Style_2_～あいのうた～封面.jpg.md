@@ -1,6 +1,6 @@
 # 文件:Yoshiha_Style_2_～あいのうた～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\21\ns6%3AYoshiha_Style_2_%EF%BD%9E%E3%81%82%E3%81%84%E3%81%AE%E3%81%86%E3%81%9F%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\21\ns6%3AYoshiha_Style_2_%EF%BD%9E%E3%81%82%E3%81%84%E3%81%AE%E3%81%86%E3%81%9F%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 R-note | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ R-note | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Yoshiha Style 2 ～あいのうた～](./Yoshiha_Style_2_～あいのうた～.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)
-
-
-
+- [Yoshiha Style 2 ～あいのうた～](./Yoshiha_Style_2_～あいのうた～.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
 
 
 ---

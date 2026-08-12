@@ -1,6 +1,6 @@
 # 文件:東方蒐集ネギみ!3OUTER_SCHOOL封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\41\ns6%3A%E6%9D%B1%E6%96%B9%E8%92%90%E9%9B%86%E3%83%8D%E3%82%AE%E3%81%BF%213OUTER_SCHOOL%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\41\ns6%3A%E6%9D%B1%E6%96%B9%E8%92%90%E9%9B%86%E3%83%8D%E3%82%AE%E3%81%BF%213OUTER_SCHOOL%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 かるーあみるく | 同人志封面 | 封面图片
 
@@ -8,11 +8,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方蒐集ネギみ!3OUTER SCHOOL](./東方蒐集ネギみ!3OUTER_SCHOOL.md)  
-该封面包含的角色：- [东风谷早苗](./东风谷早苗.md)- [圣白莲](./圣白莲.md)- [丰聪耳神子](./丰聪耳神子.md)- [雾雨魔理沙](./雾雨魔理沙.md)- [秦心](./秦心.md)
-
-
-
+- [東方蒐集ネギみ!3OUTER SCHOOL](./東方蒐集ネギみ!3OUTER_SCHOOL.md)该封面包含的角色：
+- [东风谷早苗](./东风谷早苗.md)
+- [圣白莲](./圣白莲.md)
+- [丰聪耳神子](./丰聪耳神子.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
+- [秦心](./秦心.md)
 
 
 ---

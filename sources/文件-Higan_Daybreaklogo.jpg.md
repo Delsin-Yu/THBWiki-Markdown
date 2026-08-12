@@ -1,16 +1,11 @@
 # 文件:Higan_Daybreaklogo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2f\ns6%3AHigan_Daybreaklogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2f\ns6%3AHigan_Daybreaklogo%2Ejpg.html -->
 
 Higan_Daybreak | 社团LOGO
 
   
-源地址：[[1]](https://f4.bcbits.com/img/0013902044_10.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://f4.bcbits.com/img/0013902044_10.jpg)  
 
 ---
 

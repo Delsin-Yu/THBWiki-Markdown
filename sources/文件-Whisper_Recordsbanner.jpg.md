@@ -1,12 +1,8 @@
 # 文件:Whisper_Recordsbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\78\ns6%3AWhisper_Recordsbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\78\ns6%3AWhisper_Recordsbanner%2Ejpg.html -->
 
 Whisper_Records | 社团LOGO
-
-
-
-
 
 
 ---

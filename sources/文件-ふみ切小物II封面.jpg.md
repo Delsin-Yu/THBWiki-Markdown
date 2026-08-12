@@ -1,6 +1,6 @@
 # 文件:ふみ切小物II封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\db\ns6%3A%E3%81%B5%E3%81%BF%E5%88%87%E5%B0%8F%E7%89%A9II%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\db\ns6%3A%E3%81%B5%E3%81%BF%E5%88%87%E5%B0%8F%E7%89%A9II%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ふみ庫 | 同人志封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [ふみ切小物II](./ふみ切小物II.md)  
-该封面包含的角色：- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
-
-
-
+- [ふみ切小物II](./ふみ切小物II.md)该封面包含的角色：
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
 
 
 ---

@@ -1,16 +1,11 @@
 # 文件:Floresta_Prateadabanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7f\ns6%3AFloresta_Prateadabanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7f\ns6%3AFloresta_Prateadabanner%2Ejpg.html -->
 
 Floresta_Prateada | 社团LOGO
 
   
-源地址：[[1]](http://flopra.com/images/flopraban.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://flopra.com/images/flopraban.jpg)  
 
 ---
 

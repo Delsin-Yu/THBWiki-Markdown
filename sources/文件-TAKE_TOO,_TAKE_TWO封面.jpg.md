@@ -1,6 +1,6 @@
 # 文件:TAKE_TOO,_TAKE_TWO封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e1\ns6%3ATAKE_TOO%2C_TAKE_TWO%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e1\ns6%3ATAKE_TOO%2C_TAKE_TWO%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 8686m | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [TAKE TOO, TAKE TWO](./TAKE_TOO,_TAKE_TWO.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [TAKE TOO, TAKE TWO](./TAKE_TOO,_TAKE_TWO.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
   
-源地址：[direct image link](https://static.tumblr.com/dd294c277c2236dd0a278c72da15dc1e/twykpvu/sajopj5mv/tumblr_static_dclb46q2c54wgo44k448oow4w.jpg), [source page](https://taketootwoto.tumblr.com/)
-  
-
-
-
-
+源地址：[direct image link](https://static.tumblr.com/dd294c277c2236dd0a278c72da15dc1e/twykpvu/sajopj5mv/tumblr_static_dclb46q2c54wgo44k448oow4w.jpg), [source page](https://taketootwoto.tumblr.com/)  
 
 ---
 

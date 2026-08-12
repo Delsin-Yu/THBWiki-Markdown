@@ -1,6 +1,6 @@
 # 文件:STELLER_FLOWER_OMNIBUS封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\45\ns6%3ASTELLER_FLOWER_OMNIBUS%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\45\ns6%3ASTELLER_FLOWER_OMNIBUS%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 遊星
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [STELLER FLOWER OMNIBUS](./STELLER_FLOWER_OMNIBUS.md)  
-该封面包含的角色：- [风见幽香](./风见幽香.md)
+- [STELLER FLOWER OMNIBUS](./STELLER_FLOWER_OMNIBUS.md)该封面包含的角色：
+- [风见幽香](./风见幽香.md)
 
   
-[Pixiv artwork ID: 50292220 (original size)](https://www.pixiv.net/artworks/50292220)
-  
-
-
-
-
+[Pixiv artwork ID: 50292220 (original size)](https://www.pixiv.net/artworks/50292220)  
 
 ---
 

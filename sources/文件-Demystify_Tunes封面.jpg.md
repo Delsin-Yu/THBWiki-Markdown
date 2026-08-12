@@ -1,6 +1,6 @@
 # 文件:Demystify_Tunes封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9e\ns6%3ADemystify_Tunes%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9e\ns6%3ADemystify_Tunes%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Echoes_Construction | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Echoes_Construction | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Demystify Tunes](./Demystify_Tunes.md)  
-该封面包含的角色：- [伊吹萃香](./伊吹萃香.md)
+- [Demystify Tunes](./Demystify_Tunes.md)该封面包含的角色：
+- [伊吹萃香](./伊吹萃香.md)
 
   
-源地址：[[1]](http://static.tumblr.com/8b2bde9461e9975b8b8b770aff0d7ba5/k8ubhjd/GMmnf0ty9/tumblr_static_akmr1v0p4s8wkc8kck0scgw4k.png)
-  
-
-
-
-
+源地址：[\[1\]](http://static.tumblr.com/8b2bde9461e9975b8b8b770aff0d7ba5/k8ubhjd/GMmnf0ty9/tumblr_static_akmr1v0p4s8wkc8kck0scgw4k.png)  
 
 ---
 

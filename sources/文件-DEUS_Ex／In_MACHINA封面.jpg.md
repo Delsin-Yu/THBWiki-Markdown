@@ -1,6 +1,6 @@
 # 文件:DEUS_Ex／In_MACHINA封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\be\ns6%3ADEUS_Ex%EF%BC%8FIn_MACHINA%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\be\ns6%3ADEUS_Ex%EF%BC%8FIn_MACHINA%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 星空華劇団
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [DEUS Ex／In MACHINA](./DEUS_Ex／In_MACHINA.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
+- [DEUS Ex／In MACHINA](./DEUS_Ex／In_MACHINA.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-源地址：[direct image link](http://hosizorakagekidan.web.fc2.com/hyousi-H02.jpg), [source page](http://hosizorakagekidan.web.fc2.com/works.html)
-  
-
-
-
-
+源地址：[direct image link](http://hosizorakagekidan.web.fc2.com/hyousi-H02.jpg), [source page](http://hosizorakagekidan.web.fc2.com/works.html)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:Harmony_of_Twice封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8f\ns6%3AHarmony_of_Twice%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8f\ns6%3AHarmony_of_Twice%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Amateras_Records | M.H.S | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ Amateras_Records | M.H.S | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Harmony of Twice](./Harmony_of_Twice.md)  
-该封面包含的角色：- [秋穰子](./秋穰子.md)- [古明地恋](./古明地恋.md)
-
-
-
+- [Harmony of Twice](./Harmony_of_Twice.md)该封面包含的角色：
+- [秋穰子](./秋穰子.md)
+- [古明地恋](./古明地恋.md)
 
 
 ---

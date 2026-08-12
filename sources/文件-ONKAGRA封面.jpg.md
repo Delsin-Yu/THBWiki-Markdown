@@ -1,6 +1,6 @@
 # 文件:ONKAGRA封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d1\ns6%3AONKAGRA%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d1\ns6%3AONKAGRA%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 梶迫小道具店
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [ONKAGRA](./ONKAGRA.md)  
-该封面包含的角色：- [茨木华扇](./茨木华扇.md)
+- [ONKAGRA](./ONKAGRA.md)该封面包含的角色：
+- [茨木华扇](./茨木华扇.md)
 
   
-源地址：[[1]](http://static.tumblr.com/e0154b66c3d596af1dea49679d8a0d05/ceutwp6/Uloo5e4kr/tumblr_static_34e7hmr86v6scgggwwkgoswkc.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://static.tumblr.com/e0154b66c3d596af1dea49679d8a0d05/ceutwp6/Uloo5e4kr/tumblr_static_34e7hmr86v6scgggwwkgoswkc.jpg)  
 
 ---
 

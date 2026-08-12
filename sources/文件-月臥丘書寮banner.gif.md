@@ -1,18 +1,13 @@
 # 文件:月臥丘書寮banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\57\ns6%3A%E6%9C%88%E8%87%A5%E4%B8%98%E6%9B%B8%E5%AF%AEbanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\57\ns6%3A%E6%9C%88%E8%87%A5%E4%B8%98%E6%9B%B8%E5%AF%AEbanner%2Egif.html -->
 
 月臥丘書寮 | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[[1]](https://web.archive.org/web/20050404012212im_/http://www.tsukigaokashoryo.com/banners/banner01.gif)
-  
-
-
-
-
+源地址：[\[1\]](https://web.archive.org/web/20050404012212im_/http://www.tsukigaokashoryo.com/banners/banner01.gif)  
 
 ---
 

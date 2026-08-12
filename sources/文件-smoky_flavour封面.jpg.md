@@ -1,6 +1,6 @@
 # 文件:smoky_flavour封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\69\ns6%3Asmoky_flavour%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\69\ns6%3Asmoky_flavour%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 よいむつ | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [smoky flavour](./smoky_flavour.md)  
-该封面包含的角色：- [东风谷早苗](./东风谷早苗.md)
-
-
-
+- [smoky flavour](./smoky_flavour.md)该封面包含的角色：
+- [东风谷早苗](./东风谷早苗.md)
 
 
 ---

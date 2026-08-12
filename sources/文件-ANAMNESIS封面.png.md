@@ -1,6 +1,6 @@
 # 文件:ANAMNESIS封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\18\ns6%3AANAMNESIS%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\18\ns6%3AANAMNESIS%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 クイックパンチ | 专辑封面 | 封面图片
 
@@ -10,11 +10,15 @@
 使用了本文件作封面图片的作品：
   
 
-- [ANAMNESIS](./ANAMNESIS.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [八云紫](./八云紫.md)- [射命丸文](./射命丸文.md)- [伊吹萃香](./伊吹萃香.md)- [河城荷取](./河城荷取.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [ANAMNESIS](./ANAMNESIS.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [八云紫](./八云紫.md)
+- [射命丸文](./射命丸文.md)
+- [伊吹萃香](./伊吹萃香.md)
+- [河城荷取](./河城荷取.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

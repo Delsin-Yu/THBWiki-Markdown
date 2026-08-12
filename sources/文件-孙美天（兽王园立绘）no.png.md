@@ -1,14 +1,11 @@
 # 文件:孙美天（兽王园立绘）no.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b8\ns6%3A%E5%AD%99%E7%BE%8E%E5%A4%A9%EF%BC%88%E5%85%BD%E7%8E%8B%E5%9B%AD%E7%AB%8B%E7%BB%98%EF%BC%89no%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b8\ns6%3A%E5%AD%99%E7%BE%8E%E5%A4%A9%EF%BC%88%E5%85%BD%E7%8E%8B%E5%9B%AD%E7%AB%8B%E7%BB%98%EF%BC%89no%2Epng.html -->
 
 ZUN绘 | 东方兽王园 | 孙美天 | 官方游戏立绘
 
 
 ## 摘要
-
-
-
 
 ---
 

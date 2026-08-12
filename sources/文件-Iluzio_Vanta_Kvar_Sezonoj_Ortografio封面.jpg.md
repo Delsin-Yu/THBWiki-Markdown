@@ -1,6 +1,6 @@
 # 文件:Iluzio_Vanta_Kvar_Sezonoj_Ortografio封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e8\ns6%3AIluzio_Vanta_Kvar_Sezonoj_Ortografio%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e8\ns6%3AIluzio_Vanta_Kvar_Sezonoj_Ortografio%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Paranoid_Android | 专辑封面 | 封面图片 | 街角麻婆豆
 
@@ -10,16 +10,15 @@ Paranoid_Android | 专辑封面 | 封面图片 | 街角麻婆豆
 使用了本文件作封面图片的作品：
   
 
-- [Iluzio Vanta Kvar Sezonoj Ortografio](./Iluzio_Vanta_Kvar_Sezonoj_Ortografio.md)  
-该封面包含的角色：- [蕾蒂·霍瓦特洛克](./蕾蒂·霍瓦特洛克.md)- [莉莉霍瓦特](./莉莉霍瓦特.md)- [秋静叶](./秋静叶.md)- [秋穰子](./秋穰子.md)- [河城荷取](./河城荷取.md)
+- [Iluzio Vanta Kvar Sezonoj Ortografio](./Iluzio_Vanta_Kvar_Sezonoj_Ortografio.md)该封面包含的角色：
+- [蕾蒂·霍瓦特洛克](./蕾蒂·霍瓦特洛克.md)
+- [莉莉霍瓦特](./莉莉霍瓦特.md)
+- [秋静叶](./秋静叶.md)
+- [秋穰子](./秋穰子.md)
+- [河城荷取](./河城荷取.md)
 
   
-源地址：[direct image link](https://www.suruga-ya.jp/database/pics_light/game/186149484.jpg), [source page](https://www.suruga-ya.jp/product/detail/186149484)
-  
-
-
-
-
+源地址：[direct image link](https://www.suruga-ya.jp/database/pics_light/game/186149484.jpg), [source page](https://www.suruga-ya.jp/product/detail/186149484)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:Shoot!_Beat_reporter!_vol.2封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\21\ns6%3AShoot%21_Beat_reporter%21_vol%2E2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\21\ns6%3AShoot%21_Beat_reporter%21_vol%2E2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 3S_Cubic | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Shoot! Beat reporter! vol.2](./Shoot!_Beat_reporter!_vol.2.md)  
-该封面包含的角色：- [丰聪耳神子](./丰聪耳神子.md)
-
-
-
+- [Shoot! Beat reporter! vol.2](./Shoot!_Beat_reporter!_vol.2.md)该封面包含的角色：
+- [丰聪耳神子](./丰聪耳神子.md)
 
 
 ---

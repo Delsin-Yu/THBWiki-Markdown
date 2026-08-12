@@ -1,12 +1,8 @@
 # 文件:Murder_Groundbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\93\ns6%3AMurder_Groundbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\93\ns6%3AMurder_Groundbanner%2Epng.html -->
 
 Murder_Ground | 社团LOGO
-
-
-
-
 
 
 ---

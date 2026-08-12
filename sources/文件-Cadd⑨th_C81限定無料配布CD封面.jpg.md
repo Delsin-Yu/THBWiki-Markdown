@@ -1,6 +1,6 @@
 # 文件:Cadd⑨th_C81限定無料配布CD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d1\ns6%3ACadd%E2%91%A8th_C81%E9%99%90%E5%AE%9A%E7%84%A1%E6%96%99%E9%85%8D%E5%B8%83CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d1\ns6%3ACadd%E2%91%A8th_C81%E9%99%90%E5%AE%9A%E7%84%A1%E6%96%99%E9%85%8D%E5%B8%83CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Cadd⑨th | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ Cadd⑨th | 专辑封面 | 封面图片
   
 
 - [Cadd⑨th C81限定無料配布CD](./Cadd⑨th_C81限定無料配布CD.md)
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Franc_east_M3封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d7\ns6%3AFranc_east_M3%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d7\ns6%3AFranc_east_M3%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Style.s | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Style.s | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Franc east M3](./Franc_east_M3.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
-
-
-
+- [Franc east M3](./Franc_east_M3.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
 
 ---

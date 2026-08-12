@@ -1,6 +1,6 @@
 # 文件:Twin_Pack_Voiceless_Disc封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\20\ns6%3ATwin_Pack_Voiceless_Disc%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\20\ns6%3ATwin_Pack_Voiceless_Disc%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 岡垣正志＆フレンズ
 
@@ -11,9 +11,6 @@
   
 
 - [Twin Pack Voiceless Disc](./Twin_Pack_Voiceless_Disc.md)
-
-
-
 
 
 ---

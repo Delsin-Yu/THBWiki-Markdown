@@ -1,12 +1,8 @@
 # 文件:吉吊八千慧（鬼形兽立绘）no.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\81\ns6%3A%E5%90%89%E5%90%8A%E5%85%AB%E5%8D%83%E6%85%A7%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89no%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\81\ns6%3A%E5%90%89%E5%90%8A%E5%85%AB%E5%8D%83%E6%85%A7%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89no%2Epng.html -->
 
 ZUN绘 | 东方鬼形兽 | 吉吊八千慧 | 官方游戏立绘
-
-
-
-
 
 
 ---

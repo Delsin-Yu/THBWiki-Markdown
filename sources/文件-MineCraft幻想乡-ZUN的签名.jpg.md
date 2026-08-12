@@ -1,14 +1,11 @@
 # 文件:MineCraft幻想乡-ZUN的签名.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\eb\ns6%3AMineCraft%E5%B9%BB%E6%83%B3%E4%B9%A1-ZUN%E7%9A%84%E7%AD%BE%E5%90%8D%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\eb\ns6%3AMineCraft%E5%B9%BB%E6%83%B3%E4%B9%A1-ZUN%E7%9A%84%E7%AD%BE%E5%90%8D%2Ejpg.html -->
 
 MineCraft幻想乡
 
 
 ## 文件说明
-
-
-
 
 ---
 

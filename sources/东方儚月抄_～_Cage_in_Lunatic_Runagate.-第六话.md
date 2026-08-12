@@ -1,43 +1,33 @@
 # 东方儚月抄_～_Cage_in_Lunatic_Runagate./第六话
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\06\ns0%3A%E4%B8%9C%E6%96%B9%E5%84%9A%E6%9C%88%E6%8A%84_%EF%BD%9E_Cage_in_Lunatic_Runagate%2E%2F%E7%AC%AC%E5%85%AD%E8%AF%9D.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\06\ns0%3A%E4%B8%9C%E6%96%B9%E5%84%9A%E6%9C%88%E6%8A%84_%EF%BD%9E_Cage_in_Lunatic_Runagate%2E%2F%E7%AC%AC%E5%85%AD%E8%AF%9D.html -->
 
 东方儚月抄_～_Cage_in_Lunatic_Runagate.
 
 <center>
-
 <table>
 <tbody><tr>
-<td>&lt;
+<td><
 </td>
-<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./东方儚月抄_～_Cage_in_Lunatic_Runagate.-第五话.md" title="东方儚月抄 ～ Cage in Lunatic Runagate./第五话">第五话</a>&#160;
+<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./东方儚月抄_～_Cage_in_Lunatic_Runagate.-第五话.md" title="东方儚月抄 ～ Cage in Lunatic Runagate./第五话">第五话</a> 
 </td>
-<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="./东方儚月抄_～_Cage_in_Lunatic_Runagate..md" title="东方儚月抄 ～ Cage in Lunatic Runagate.">东方儚月抄 ～ Cage in Lunatic Runagate.</a>&#160;
+<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;"> <a href="./东方儚月抄_～_Cage_in_Lunatic_Runagate..md" title="东方儚月抄 ～ Cage in Lunatic Runagate.">东方儚月抄 ～ Cage in Lunatic Runagate.</a> 
 </td>
-<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left">&#160;<a href="./东方儚月抄_～_Cage_in_Lunatic_Runagate.-第七话.md" title="东方儚月抄 ～ Cage in Lunatic Runagate./第七话">第七话</a>
+<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left"> <a href="./东方儚月抄_～_Cage_in_Lunatic_Runagate.-第七话.md" title="东方儚月抄 ～ Cage in Lunatic Runagate./第七话">第七话</a>
 </td>
-<td>&gt;
+<td>>
 </td></tr></tbody></table>
 
   
 </center>
-- 本词条为中文翻译版，如需要日文对照请参见 **[中日对照](./东方儚月抄_～_Cage_in_Lunatic_Runagate.-第六话-中日对照.md)** 
+- 本词条为中文翻译版，如需要日文对照请参见**[中日对照](./东方儚月抄_～_Cage_in_Lunatic_Runagate.-第六话-中日对照.md)**
 - 本话连载时间：2008年9月25日，Chara☆Mel Vol.6
 - 本话于单行本中页数：118-137
 
-  
-  
-
-  
-
-[](./文件-儚月抄小说封面6.jpg.md)  [](./文件-儚月抄小说封面6.jpg.md)
-  
- **<big><big>第六话 愚者的密信[^cite_note-1]</big></big>**   
-
-<big>铃仙、依姬、丰姬……　在交错的思念前方等待她们的是！？</big>
-  
-
-
+<img alt="儚月抄小说封面6.jpg" src="https://upload.thwiki.cc/thumb/8/85/%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E5%B0%81%E9%9D%A26.jpg/200px-%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E5%B0%81%E9%9D%A26.jpg" decoding="async" loading="lazy" width="200" height="283" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/8/85/%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E5%B0%81%E9%9D%A26.jpg/300px-%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E5%B0%81%E9%9D%A26.jpg 1.5x, https://upload.thwiki.cc/thumb/8/85/%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E5%B0%81%E9%9D%A26.jpg/400px-%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E5%B0%81%E9%9D%A26.jpg 2x" data-file-width="1413" data-file-height="2000">
+ [放大](./文件-儚月抄小说封面6.jpg.md)  
+**<big><big>第六话 愚者的密信[^cite_note-1]</big></big>**  
+<big>铃仙、依姬、丰姬…… 在交错的思念前方等待她们的是！？</big>  
   
 　　月之都的白天也很昏暗。让人觉得是否永远不会天亮。不，因为即使不点灯也能看得清，所以用昏暗来形容也许并不正确。应该说天空是黑色的才对吧。  
 
@@ -140,11 +130,10 @@
 　　「不、不，我实在是……」  
 
 　　「你在说什么？算了。有件事希望你能去做。」  
-
   
 
-　　她这样对我耳语道。[](./文件-儚月抄小说插图6-1.jpg.md)  [](./文件-儚月抄小说插图6-1.jpg.md)  
-
+　　她这样对我耳语道。<img alt="儚月抄小说插图6-1.jpg" src="https://upload.thwiki.cc/thumb/4/4a/%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE6-1.jpg/200px-%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE6-1.jpg" decoding="async" loading="lazy" width="200" height="140" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/4/4a/%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE6-1.jpg/300px-%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE6-1.jpg 1.5x, https://upload.thwiki.cc/thumb/4/4a/%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE6-1.jpg/400px-%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE6-1.jpg 2x" data-file-width="1869" data-file-height="1306">
+ [放大](./文件-儚月抄小说插图6-1.jpg.md)  
   
 　　「哎？交给我那种重要的工作吗？」  
 
@@ -217,8 +206,7 @@
 　　虽然知道没有人在，我还是先打了招呼后才打开房门。依姬大人的房间总让人感到紧张、难以接近。因为如果被单独叫来的话，大多不是什么好事。  
 
 　　我一进依姬大人的房间就马上拿出来纸笔。  
-
-　　  
+  
 
 　　「那个……‘好久不见。你还好吗？’，不，这么随意行不行啊？」  
 
@@ -265,11 +253,10 @@
 　　如果真是这样，我再次访问地上时，也许去拜托那名巫女会比较好。比起月之都的人团结起来与地上人类和妖怪敌对，成为巫女的同伴就可以简单地到地上去玩。我是这样考虑的。  
 
 　　「——哎呀，这不是Reisen吗？又逃出来了吗？」  
-
   
 
-　　我听到一个熟悉的声音。是丰姬大人的声音。[](./文件-儚月抄小说插图6-2.jpg.md)  [](./文件-儚月抄小说插图6-2.jpg.md)  
-
+　　我听到一个熟悉的声音。是丰姬大人的声音。<img alt="儚月抄小说插图6-2.jpg" src="https://upload.thwiki.cc/thumb/9/93/%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE6-2.jpg/200px-%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE6-2.jpg" decoding="async" loading="lazy" width="200" height="144" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/9/93/%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE6-2.jpg/300px-%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE6-2.jpg 1.5x, https://upload.thwiki.cc/thumb/9/93/%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE6-2.jpg/400px-%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE6-2.jpg 2x" data-file-width="1721" data-file-height="1239">
+ [放大](./文件-儚月抄小说插图6-2.jpg.md)  
   
 　　「哎？丰姬大人？你在哪里？不，我不是逃跑而是被依姬大人委派了工作。哎，奇怪？」  
 
@@ -316,11 +303,10 @@
 　　丰姬大人对这次骚动的起源抱有疑问。  
 
 　　月之都会流传不安的谣言，是因为依姬之外的人擅自召唤了众神。可是，不通过正式的手续擅自召唤这种事可不是谁都能做到的。  
-
   
 
-　　「啊，对了对了。召唤神明的是地上的巫女。似乎是为了让火箭飞起来才召唤住吉三神的。」[](./文件-儚月抄小说插图6-3.jpg.md)  [](./文件-儚月抄小说插图6-3.jpg.md)  
-
+　　「啊，对了对了。召唤神明的是地上的巫女。似乎是为了让火箭飞起来才召唤住吉三神的。」<img alt="儚月抄小说插图6-3.jpg" src="https://upload.thwiki.cc/thumb/1/15/%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE6-3.jpg/200px-%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE6-3.jpg" decoding="async" loading="lazy" width="200" height="257" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/1/15/%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE6-3.jpg/300px-%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE6-3.jpg 1.5x, https://upload.thwiki.cc/thumb/1/15/%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE6-3.jpg/400px-%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE6-3.jpg 2x" data-file-width="1406" data-file-height="1805">
+ [放大](./文件-儚月抄小说插图6-3.jpg.md)  
   
 　　「哎，巫女吗……」  
 
@@ -365,11 +351,10 @@
 　　之后到底会发生什么呢？  
 
 　　就算询问丰姬大人大概也会被岔开话题吧。再说现在也实在不是可以去打听的气氛。  
-
   
 
-　　只是几个月前捣年糕唱歌的生活好让人怀念。[](./文件-儚月抄小说插图6-4.jpg.md)  [](./文件-儚月抄小说插图6-4.jpg.md)  
-
+　　只是几个月前捣年糕唱歌的生活好让人怀念。<img alt="儚月抄小说插图6-4.jpg" src="https://upload.thwiki.cc/thumb/5/5b/%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE6-4.jpg/200px-%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE6-4.jpg" decoding="async" loading="lazy" width="200" height="139" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/5/5b/%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE6-4.jpg/300px-%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE6-4.jpg 1.5x, https://upload.thwiki.cc/thumb/5/5b/%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE6-4.jpg/400px-%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE6-4.jpg 2x" data-file-width="1413" data-file-height="984">
+ [放大](./文件-儚月抄小说插图6-4.jpg.md)  
   
 　　那时既没有像这样紧张到要吐，也不感到必须自己保护自己的恐怖。这时应该已经结束捣年糕了吧，和同伴边喝着酒边发着无聊的牢骚，或者在暖和的被窝里呼呼大睡了。  
 
@@ -404,37 +389,28 @@
 　　我朝丰姬大人的视线前方望去。  
 
 　　那里有一只在月亮上没见过的野兽身影。   
-
   
-
- **第六话 愚者的密信 / 完** 
-  
-
-
-
+**第六话 愚者的密信 / 完**  
 [^cite_note-1]: 与东方儚月抄 ～ Silent Sinner in Blue.第8话《贤者的密信》相对。
-
+[^cite_note-2]: 《竹取物语》里辉夜所穿的羽衣，“辉夜姬一穿上这件羽衣，便不再想起老翁和悲哀等事。因为穿了这件羽衣能忘记一切忧患。”。
+[^cite_note-3]: 住吉三神：《古事记》中记载的是日本神话中的三位海神，分别为“底筒之男命”、“中筒之男命”和“上筒之男命”。
+[^cite_note-4]: 月球背面的一个月海，日文名为“賢者の海”，中文名为“智海”，因存在[双关](./东方儚月抄_～_Silent_Sinner_in_Blue.-第十七话.md#P6)而译为“贤者之海”。
 <center>
-
 <table>
 <tbody><tr>
-<td>&lt;
+<td><
 </td>
-<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./东方儚月抄_～_Cage_in_Lunatic_Runagate.-第五话.md" title="东方儚月抄 ～ Cage in Lunatic Runagate./第五话">第五话</a>&#160;
+<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./东方儚月抄_～_Cage_in_Lunatic_Runagate.-第五话.md" title="东方儚月抄 ～ Cage in Lunatic Runagate./第五话">第五话</a> 
 </td>
-<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="./东方儚月抄_～_Cage_in_Lunatic_Runagate..md" title="东方儚月抄 ～ Cage in Lunatic Runagate.">东方儚月抄 ～ Cage in Lunatic Runagate.</a>&#160;
+<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;"> <a href="./东方儚月抄_～_Cage_in_Lunatic_Runagate..md" title="东方儚月抄 ～ Cage in Lunatic Runagate.">东方儚月抄 ～ Cage in Lunatic Runagate.</a> 
 </td>
-<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left">&#160;<a href="./东方儚月抄_～_Cage_in_Lunatic_Runagate.-第七话.md" title="东方儚月抄 ～ Cage in Lunatic Runagate./第七话">第七话</a>
+<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left"> <a href="./东方儚月抄_～_Cage_in_Lunatic_Runagate.-第七话.md" title="东方儚月抄 ～ Cage in Lunatic Runagate./第七话">第七话</a>
 </td>
-<td>&gt;
+<td>>
 </td></tr></tbody></table>
 
   
 </center>
-
-
-
-
 ---
 
 此文档由 [THBWiki-Markdown-Builder](https://github.com/Delsin-Yu/THBWiki-Markdown-Builder) 构建。

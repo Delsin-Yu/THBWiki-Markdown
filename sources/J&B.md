@@ -1,11 +1,10 @@
 # J&B
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\1\1e\ns0%3AJ%26B.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\1\1e\ns0%3AJ%26B.html -->
 
 J&B ，于 2007 年成立，主要制作 同人音乐 的日本同人社团，主催是 mcn，当前状态为 休止
 
-本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
-
+本页是关于**[同人社团](./二次创作.md#同人社团)**的词条
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -14,17 +13,14 @@ J&B ，于 2007 年成立，主要制作 同人音乐 的日本同人社团，�
 - [4 其他信息](#其他信息)
 
 
-
-
-
 ## 社团信息
-[](./文件-J&B_banner.jpg.md)  [](./文件-J&B_banner.jpg.md)Banner
+<img alt="" src="https://upload.thwiki.cc/thumb/2/2a/J%26B_banner.jpg/200px-J%26B_banner.jpg" decoding="async" loading="lazy" width="200" height="50" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/2/2a/J%26B_banner.jpg/300px-J%26B_banner.jpg 1.5x, https://upload.thwiki.cc/2/2a/J%26B_banner.jpg 2x" data-file-width="400" data-file-height="100">
+ [放大](./文件-J&B_banner.jpg.md)Banner
+<table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> J&B </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2007</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>主催</b></td><td> <a class="new" title="mcn（页面不存在）">mcn</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://www.m-jb.com/">http://www.m-jb.com/</a> <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span></td></tr></tbody></table>
 
-<table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> J&#38;B </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2007</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=mcn&amp;action=edit&amp;redlink=1" class="new" title="mcn（页面不存在）">mcn</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://www.m-jb.com/">http://www.m-jb.com/</a> <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span></td></tr></tbody></table>
-
-J&amp;B（同人社团，同人音乐社团） - J&amp;B ，于 2007 年成立，主要制作 同人音乐 的日本同人社团，主催是 mcn，当前状态为 休止
-
+J&B（同人社团，同人音乐社团） - J&B ，于 2007 年成立，主要制作 同人音乐 的日本同人社团，主催是 mcn，当前状态为 休止
 ## 成员名单
+
 - mcn (未找到链接)
 - うぇり (未找到链接)
 - 藍（人物） (未找到链接)
@@ -32,44 +28,23 @@ J&amp;B（同人社团，同人音乐社团） - J&amp;B ，于 2007 年成立�
 
 
 ## 作品列表
-[](./東方鋼鉄録.md)[東方鋼鉄録](./東方鋼鉄録.md)首发日期：2007-11-04 （東方紅楼夢3 (未找到链接)）EP （一般向）[](./Scarlet_Night.md)[Scarlet Night](./Scarlet_Night.md)首发日期：2008-05-25 （第五回 博麗神社例大祭 (未找到链接)）全长 （一般向）[](./Sweet_Home.md)[Sweet Home](./Sweet_Home.md)首发日期：2008-11-02 （東方紅楼夢4 (未找到链接)）JBCD-0002全长 （一般向）[](./Butterfly_Delusion.md)[Butterfly Delusion](./Butterfly_Delusion.md)首发日期：2008-11-02 （東方紅楼夢4 (未找到链接)）JBCD-0003全长 （一般向）[](./Transmigration_of_the_Soul.md)[Transmigration of the Soul](./Transmigration_of_the_Soul.md)首发日期：2009-03-08 （第六回 博麗神社例大祭 (未找到链接)）JBCD-0004全长 （一般向）[](./Girl's_Phantasmagoria.md)[Girl's Phantasmagoria](./Girl's_Phantasmagoria.md)首发日期：2009-08-15 （Comic Market 76 (未找到链接)）JBCD-0005全长 （一般向）[](./有閑アリスの妄想.md)[有閑アリスの妄想](./有閑アリスの妄想.md)首发日期：2009-08-15 （Comic Market 76 (未找到链接)）JBCD-0006全长 （一般向）[](./AirHead!.md)[AirHead!](./AirHead!.md)首发日期：2009-12-30 （Comic Market 77 (未找到链接)）JBCD-0007全长 （一般向）[](./ユメトウツツノトリトネコ.md)[ユメトウツツノトリトネコ](./ユメトウツツノトリトネコ.md)首发日期：2010-08-14 （Comic Market 78 (未找到链接)）JBCD-0008全长 （一般向）[](./有閑アリスの妄想_ver1.1.md)[有閑アリスの妄想 ver1.1](./有閑アリスの妄想_ver1.1.md)首发日期：2010-12-30 （Comic Market 79 (未找到链接)）全长 （一般向）[](./乙女心エゴイズム.md)[乙女心エゴイズム](./乙女心エゴイズム.md)首发日期：2011-08-13 （Comic Market 80 (未找到链接)）JBCD-0010全长 （一般向）[](./魔法のない世界.md)[魔法のない世界](./魔法のない世界.md)首发日期：2011-10-16 （東方紅楼夢7 (未找到链接)）全长 （一般向）该作品是与 [A-HEAD](./A-HEAD.md)、​[すたじおたわし](./すたじおたわし.md) 合作创作的[](./おもひでサンセット.md)[おもひでサンセット](./おもひでサンセット.md)首发日期：2011-12-30 （Comic Market 81 (未找到链接)）JBCD-0011全长 （一般向）[](./Vanitas_vanitatum.md)[Vanitas vanitatum](./Vanitas_vanitatum.md)首发日期：2012-08-11 （Comic Market 82 (未找到链接)）JBCD-0012全长 （一般向）[](./終想のリコリス.md)[終想のリコリス](./終想のリコリス.md)首发日期：2013-12-30 （Comic Market 85 (未找到链接)）JBCD-0014全长 （一般向）
-<table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
-
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
-
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
-
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
-
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
-
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
-
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
-
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
-
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
-
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
-
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
-
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
-
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
-
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
-
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
-</table>
-
-
+- **[東方鋼鉄録](./東方鋼鉄録.md)** — 首发日期：2007-11-04 （東方紅楼夢3）；EP （一般向）
+- **[Scarlet Night](./Scarlet_Night.md)** — 首发日期：2008-05-25 （第五回 博麗神社例大祭）；全长 （一般向）
+- **[Sweet Home](./Sweet_Home.md)** — 首发日期：2008-11-02 （東方紅楼夢4）；JBCD-0002；全长 （一般向）
+- **[Butterfly Delusion](./Butterfly_Delusion.md)** — 首发日期：2008-11-02 （東方紅楼夢4）；JBCD-0003；全长 （一般向）
+- **[Transmigration of the Soul](./Transmigration_of_the_Soul.md)** — 首发日期：2009-03-08 （第六回 博麗神社例大祭）；JBCD-0004；全长 （一般向）
+- **[Girl's Phantasmagoria](./Girl's_Phantasmagoria.md)** — 首发日期：2009-08-15 （Comic Market 76）；JBCD-0005；全长 （一般向）
+- **[有閑アリスの妄想](./有閑アリスの妄想.md)** — 首发日期：2009-08-15 （Comic Market 76）；JBCD-0006；全长 （一般向）
+- **[AirHead!](./AirHead!.md)** — 首发日期：2009-12-30 （Comic Market 77）；JBCD-0007；全长 （一般向）
+- **[ユメトウツツノトリトネコ](./ユメトウツツノトリトネコ.md)** — 首发日期：2010-08-14 （Comic Market 78）；JBCD-0008；全长 （一般向）
+- **[有閑アリスの妄想 ver1.1](./有閑アリスの妄想_ver1.1.md)** — 首发日期：2010-12-30 （Comic Market 79）；全长 （一般向）
+- **[乙女心エゴイズム](./乙女心エゴイズム.md)** — 首发日期：2011-08-13 （Comic Market 80）；JBCD-0010；全长 （一般向）
+- **[魔法のない世界](./魔法のない世界.md)** — 首发日期：2011-10-16 （東方紅楼夢7）；全长 （一般向）；该作品是与 A-HEAD、​すたじおたわし 合作创作的
+- **[おもひでサンセット](./おもひでサンセット.md)** — 首发日期：2011-12-30 （Comic Market 81）；JBCD-0011；全长 （一般向）
+- **[Vanitas vanitatum](./Vanitas_vanitatum.md)** — 首发日期：2012-08-11 （Comic Market 82）；JBCD-0012；全长 （一般向）
+- **[終想のリコリス](./終想のリコリス.md)** — 首发日期：2013-12-30 （Comic Market 85）；JBCD-0014；全长 （一般向）
 
 ## 其他信息
-
-
-
 
 ---
 

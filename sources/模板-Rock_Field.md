@@ -1,16 +1,12 @@
 # 模板:Rock_Field
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\0\0e\ns10%3ARock_Field.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\0\0e\ns10%3ARock_Field.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:LAST_DESTINY封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b0\ns6%3ALAST_DESTINY%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b0\ns6%3ALAST_DESTINY%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 暁Records
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [LAST DESTINY](./LAST_DESTINY.md)  
-该封面包含的角色：- [西行寺幽幽子](./西行寺幽幽子.md)
-
-
-
+- [LAST DESTINY](./LAST_DESTINY.md)该封面包含的角色：
+- [西行寺幽幽子](./西行寺幽幽子.md)
 
 
 ---

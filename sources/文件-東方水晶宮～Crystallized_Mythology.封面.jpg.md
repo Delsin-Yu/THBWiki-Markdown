@@ -1,6 +1,6 @@
 # 文件:東方水晶宮～Crystallized_Mythology.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8d\ns6%3A%E6%9D%B1%E6%96%B9%E6%B0%B4%E6%99%B6%E5%AE%AE%EF%BD%9ECrystallized_Mythology%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8d\ns6%3A%E6%9D%B1%E6%96%B9%E6%B0%B4%E6%99%B6%E5%AE%AE%EF%BD%9ECrystallized_Mythology%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Fe | 封面图片 | 软件封面
 
@@ -9,9 +9,6 @@ Fe | 封面图片 | 软件封面
   
 
 - [東方水晶宮～Crystallized Mythology.](./東方水晶宮～Crystallized_Mythology..md)
-
-
-
 
 
 ---

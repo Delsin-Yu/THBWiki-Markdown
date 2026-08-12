@@ -1,6 +1,6 @@
 # 文件:Blazing_Soul／アシンメトリィ封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\81\ns6%3ABlazing_Soul%EF%BC%8F%E3%82%A2%E3%82%B7%E3%83%B3%E3%83%A1%E3%83%88%E3%83%AA%E3%82%A3%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\81\ns6%3ABlazing_Soul%EF%BC%8F%E3%82%A2%E3%82%B7%E3%83%B3%E3%83%A1%E3%83%88%E3%83%AA%E3%82%A3%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 君の美術館 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Blazing Soul／アシンメトリィ](./Blazing_Soul／アシンメトリィ.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [Blazing Soul／アシンメトリィ](./Blazing_Soul／アシンメトリィ.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

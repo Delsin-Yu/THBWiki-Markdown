@@ -1,12 +1,8 @@
 # 文件:THBWiki-LOGO-九十九姐妹.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\43\ns6%3ATHBWiki-LOGO-%E4%B9%9D%E5%8D%81%E4%B9%9D%E5%A7%90%E5%A6%B9%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\43\ns6%3ATHBWiki-LOGO-%E4%B9%9D%E5%8D%81%E4%B9%9D%E5%A7%90%E5%A6%B9%2Epng.html -->
 
 THBWiki | Wiki词条分类用图
-
-
-
-
 
 
 ---

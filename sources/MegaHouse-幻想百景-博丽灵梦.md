@@ -1,37 +1,21 @@
 # MegaHouse/幻想百景/博丽灵梦
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\7\77\ns0%3AMegaHouse%2F%E5%B9%BB%E6%83%B3%E7%99%BE%E6%99%AF%2F%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\7\77\ns0%3AMegaHouse%2F%E5%B9%BB%E6%83%B3%E7%99%BE%E6%99%AF%2F%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6.html -->
 
 博丽灵梦PVCFigure手办模型
 
 本页是关于东方Project  
- **相关实体周边 (未找到链接)** 的词条
-
+**相关实体周边 (未找到链接)**的词条
 ## 模型信息
 
-<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 博丽灵梦 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>幻想百景</td></tr><tr><td class="label">角色</td><td><a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></td></tr><tr><td class="label">原型师</td><td><a href="/index.php?title=%E9%98%BF%E9%83%A8%E6%98%82%E5%A4%A7&amp;action=edit&amp;redlink=1" class="new" title="阿部昂大（页面不存在）">阿部昂大</a><br><a href="/index.php?title=Fenrir&amp;action=edit&amp;redlink=1" class="new" title="Fenrir（页面不存在）">Fenrir</a></td></tr><tr><td class="label">原画师</td><td><a href="/index.php?title=%E5%8D%83%E8%91%89%E3%82%B5%E3%83%89%E3%83%AB&amp;action=edit&amp;redlink=1" class="new" title="千葉サドル（页面不存在）">千葉サドル</a></td></tr><tr><td class="label">尺寸</td><td>140mm</td></tr><tr><td class="label">状态</td><td>已发售</td></tr><tr><td class="label">售价</td><td>5524日元</td></tr><tr><td class="label">首发日期</td><td>2014-01-17</td></tr><tr><td class="label">发售方</td><td><a href="/index.php?title=MegaHouse&amp;action=edit&amp;redlink=1" class="new" title="MegaHouse（页面不存在）">MegaHouse</a></td></tr><tr><td class="label">官网页面</td><td><a rel="nofollow" class="external free" href="http://hobbyjapan.co.jp/ltd_items/hj20130902/">http://hobbyjapan.co.jp/ltd_items/hj20130902/</a></td></tr><tr><td class="label">备注</td><td>志上限定</td></tr></tbody></table>
+<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 博丽灵梦 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>幻想百景</td></tr><tr><td class="label">角色</td><td><a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></td></tr><tr><td class="label">原型师</td><td><a class="new" title="阿部昂大（页面不存在）">阿部昂大</a><br><a class="new" title="Fenrir（页面不存在）">Fenrir</a></td></tr><tr><td class="label">原画师</td><td><a class="new" title="千葉サドル（页面不存在）">千葉サドル</a></td></tr><tr><td class="label">尺寸</td><td>140mm</td></tr><tr><td class="label">状态</td><td>已发售</td></tr><tr><td class="label">售价</td><td>5524日元</td></tr><tr><td class="label">首发日期</td><td>2014-01-17</td></tr><tr><td class="label">发售方</td><td><a class="new" title="MegaHouse（页面不存在）">MegaHouse</a></td></tr><tr><td class="label">官网页面</td><td><a rel="nofollow" class="external free" href="http://hobbyjapan.co.jp/ltd_items/hj20130902/">http://hobbyjapan.co.jp/ltd_items/hj20130902/</a></td></tr><tr><td class="label">备注</td><td>志上限定</td></tr></tbody></table>
 
 MegaHouse/幻想百景/博丽灵梦（周边） - 博丽灵梦PVCFigure手办模型
-
 ## 参考图片
-
-
-
-[](./文件-MegaHouse幻想百景博丽灵梦-1.jpg.md)
-
-
-[](./文件-MegaHouse幻想百景博丽灵梦-2.jpg.md)
-
-
-[](./文件-MegaHouse幻想百景博丽灵梦-3.jpg.md)
-
+<img alt="MegaHouse幻想百景博丽灵梦" src="https://upload.thwiki.cc/thumb/d/de/MegaHouse%E5%B9%BB%E6%83%B3%E7%99%BE%E6%99%AF%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6-1.jpg/160px-MegaHouse%E5%B9%BB%E6%83%B3%E7%99%BE%E6%99%AF%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6-1.jpg" decoding="async" loading="lazy" width="160" height="160" srcset="https://upload.thwiki.cc/thumb/d/de/MegaHouse%E5%B9%BB%E6%83%B3%E7%99%BE%E6%99%AF%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6-1.jpg/240px-MegaHouse%E5%B9%BB%E6%83%B3%E7%99%BE%E6%99%AF%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6-1.jpg 1.5x, https://upload.thwiki.cc/thumb/d/de/MegaHouse%E5%B9%BB%E6%83%B3%E7%99%BE%E6%99%AF%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6-1.jpg/320px-MegaHouse%E5%B9%BB%E6%83%B3%E7%99%BE%E6%99%AF%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6-1.jpg 2x" data-file-width="580" data-file-height="580">
+<img alt="MegaHouse幻想百景博丽灵梦" src="https://upload.thwiki.cc/thumb/0/0d/MegaHouse%E5%B9%BB%E6%83%B3%E7%99%BE%E6%99%AF%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6-2.jpg/160px-MegaHouse%E5%B9%BB%E6%83%B3%E7%99%BE%E6%99%AF%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6-2.jpg" decoding="async" loading="lazy" width="160" height="160" srcset="https://upload.thwiki.cc/thumb/0/0d/MegaHouse%E5%B9%BB%E6%83%B3%E7%99%BE%E6%99%AF%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6-2.jpg/240px-MegaHouse%E5%B9%BB%E6%83%B3%E7%99%BE%E6%99%AF%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6-2.jpg 1.5x, https://upload.thwiki.cc/thumb/0/0d/MegaHouse%E5%B9%BB%E6%83%B3%E7%99%BE%E6%99%AF%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6-2.jpg/320px-MegaHouse%E5%B9%BB%E6%83%B3%E7%99%BE%E6%99%AF%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6-2.jpg 2x" data-file-width="580" data-file-height="580">
+<img alt="MegaHouse幻想百景博丽灵梦" src="https://upload.thwiki.cc/thumb/e/ef/MegaHouse%E5%B9%BB%E6%83%B3%E7%99%BE%E6%99%AF%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6-3.jpg/160px-MegaHouse%E5%B9%BB%E6%83%B3%E7%99%BE%E6%99%AF%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6-3.jpg" decoding="async" loading="lazy" width="160" height="160" srcset="https://upload.thwiki.cc/thumb/e/ef/MegaHouse%E5%B9%BB%E6%83%B3%E7%99%BE%E6%99%AF%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6-3.jpg/240px-MegaHouse%E5%B9%BB%E6%83%B3%E7%99%BE%E6%99%AF%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6-3.jpg 1.5x, https://upload.thwiki.cc/thumb/e/ef/MegaHouse%E5%B9%BB%E6%83%B3%E7%99%BE%E6%99%AF%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6-3.jpg/320px-MegaHouse%E5%B9%BB%E6%83%B3%E7%99%BE%E6%99%AF%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6-3.jpg 2x" data-file-width="580" data-file-height="580">
 公式图
-
-
-
-
-
-
 
 ---
 

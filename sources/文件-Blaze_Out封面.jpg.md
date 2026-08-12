@@ -1,6 +1,6 @@
 # 文件:Blaze_Out封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ee\ns6%3ABlaze_Out%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ee\ns6%3ABlaze_Out%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 EastNewSound | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ EastNewSound | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Blaze Out](./Blaze_Out.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
-
-
-
+- [Blaze Out](./Blaze_Out.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
 
 ---

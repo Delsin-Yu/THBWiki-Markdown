@@ -1,16 +1,11 @@
 # 文件:鮮夏Deraynlogo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6b\ns6%3A%E9%AE%AE%E5%A4%8FDeraynlogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6b\ns6%3A%E9%AE%AE%E5%A4%8FDeraynlogo%2Ejpg.html -->
 
 社团LOGO | 鮮夏Derayn
 
   
-源地址：[from Soundcloud account](https://i1.sndcdn.com/avatars-000004916438-l83gjt-t500x500.jpg)
-  
-
-
-
-
+源地址：[from Soundcloud account](https://i1.sndcdn.com/avatars-000004916438-l83gjt-t500x500.jpg)  
 
 ---
 

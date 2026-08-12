@@ -1,12 +1,8 @@
 # 文件:THD2恶魔洋装.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\de\ns6%3ATHD2%E6%81%B6%E9%AD%94%E6%B4%8B%E8%A3%85%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\de\ns6%3ATHD2%E6%81%B6%E9%AD%94%E6%B4%8B%E8%A3%85%2Epng.html -->
 
 AvalonStudioOfficial
-
-
-
-
 
 
 ---

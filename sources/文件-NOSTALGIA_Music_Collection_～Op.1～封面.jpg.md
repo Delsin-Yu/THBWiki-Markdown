@@ -1,6 +1,6 @@
 # 文件:NOSTALGIA_Music_Collection_～Op.1～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\77\ns6%3ANOSTALGIA_Music_Collection_%EF%BD%9EOp%2E1%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\77\ns6%3ANOSTALGIA_Music_Collection_%EF%BD%9EOp%2E1%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 KONAMI | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ KONAMI | 专辑封面 | 封面图片
   
 
 - [NOSTALGIA Music Collection ～Op.1～](./NOSTALGIA_Music_Collection_～Op.1～.md)
-
-
-
 
 
 ---

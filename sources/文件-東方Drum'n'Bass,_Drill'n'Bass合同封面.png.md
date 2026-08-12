@@ -1,6 +1,6 @@
 # 文件:東方Drum'n'Bass,_Drill'n'Bass合同封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\43\ns6%3A%E6%9D%B1%E6%96%B9Drum%27n%27Bass%2C_Drill%27n%27Bass%E5%90%88%E5%90%8C%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\43\ns6%3A%E6%9D%B1%E6%96%B9Drum%27n%27Bass%2C_Drill%27n%27Bass%E5%90%88%E5%90%8C%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Medicine_Faktory | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ Medicine_Faktory | 专辑封面 | 封面图片
   
 
 - [東方Drum'n'Bass, Drill'n'Bass合同](./東方Drum'n'Bass,_Drill'n'Bass合同.md)
-
-
-
 
 
 ---

@@ -1,16 +1,12 @@
 # 文件:TestPermission.svg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\35\ns6%3ATestPermission%2Esvg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\35\ns6%3ATestPermission%2Esvg.html -->
 
 帮助文档
 
   
 用于[帮助:SMW](./帮助-SMW.md)页面，标注可以自由测试的代码。
   
-
-
-
-
 
 ---
 

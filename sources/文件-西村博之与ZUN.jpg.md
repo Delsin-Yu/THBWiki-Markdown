@@ -1,12 +1,8 @@
 # 文件:西村博之与ZUN.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3d\ns6%3A%E8%A5%BF%E6%9D%91%E5%8D%9A%E4%B9%8B%E4%B8%8EZUN%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3d\ns6%3A%E8%A5%BF%E6%9D%91%E5%8D%9A%E4%B9%8B%E4%B8%8EZUN%2Ejpg.html -->
 
 ZUN | 西村博之
-
-
-
-
 
 
 ---

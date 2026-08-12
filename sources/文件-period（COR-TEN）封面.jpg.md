@@ -1,6 +1,6 @@
 # 文件:period（COR-TEN）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3d\ns6%3Aperiod%EF%BC%88COR-TEN%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3d\ns6%3Aperiod%EF%BC%88COR-TEN%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 COR-TEN | 专辑封面 | 封面图片
 
@@ -8,11 +8,10 @@ COR-TEN | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [period（COR-TEN）](./period（COR-TEN）.md)  
-该封面包含的角色：- [露娜萨·普莉兹姆利巴](./露娜萨·普莉兹姆利巴.md)- [梅露兰·普莉兹姆利巴](./梅露兰·普莉兹姆利巴.md)- [莉莉卡·普莉兹姆利巴](./莉莉卡·普莉兹姆利巴.md)
-
-
-
+- [period（COR-TEN）](./period（COR-TEN）.md)该封面包含的角色：
+- [露娜萨·普莉兹姆利巴](./露娜萨·普莉兹姆利巴.md)
+- [梅露兰·普莉兹姆利巴](./梅露兰·普莉兹姆利巴.md)
+- [莉莉卡·普莉兹姆利巴](./莉莉卡·普莉兹姆利巴.md)
 
 
 ---

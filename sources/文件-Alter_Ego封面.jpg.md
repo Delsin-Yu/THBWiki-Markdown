@@ -1,6 +1,6 @@
 # 文件:Alter_Ego封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cc\ns6%3AAlter_Ego%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cc\ns6%3AAlter_Ego%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 GET_IN_THE_RING | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ GET_IN_THE_RING | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Alter Ego](./Alter_Ego.md)  
-该封面包含的角色：- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)- [八意永琳](./八意永琳.md)
-
-
-
+- [Alter Ego](./Alter_Ego.md)该封面包含的角色：
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
+- [八意永琳](./八意永琳.md)
 
 
 ---

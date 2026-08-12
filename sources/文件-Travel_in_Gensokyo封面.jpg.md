@@ -1,6 +1,6 @@
 # 文件:Travel_in_Gensokyo封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\80\ns6%3ATravel_in_Gensokyo%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\80\ns6%3ATravel_in_Gensokyo%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Armand | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@ Armand | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Travel in Gensokyo](./Travel_in_Gensokyo.md)  
-该封面包含的角色：- 原创角色 (未找到链接)
+- [Travel in Gensokyo](./Travel_in_Gensokyo.md)该封面包含的角色：
+- 原创角色 (未找到链接)
 
   
-源地址：[[1]](https://f4.bcbits.com/img/a2358601640_10.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://f4.bcbits.com/img/a2358601640_10.jpg)  
 
 ---
 

@@ -1,12 +1,8 @@
 # 文件:THBWiki-LOGO-克劳恩皮丝.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7a\ns6%3ATHBWiki-LOGO-%E5%85%8B%E5%8A%B3%E6%81%A9%E7%9A%AE%E4%B8%9D%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7a\ns6%3ATHBWiki-LOGO-%E5%85%8B%E5%8A%B3%E6%81%A9%E7%9A%AE%E4%B8%9D%2Epng.html -->
 
 THBWiki | Wiki词条分类用图
-
-
-
-
 
 
 ---

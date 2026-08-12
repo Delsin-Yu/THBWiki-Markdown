@@ -1,12 +1,8 @@
 # 文件:GRINPbanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4c\ns6%3AGRINPbanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4c\ns6%3AGRINPbanner%2Egif.html -->
 
 GRINP | 社团LOGO
-
-
-
-
 
 
 ---

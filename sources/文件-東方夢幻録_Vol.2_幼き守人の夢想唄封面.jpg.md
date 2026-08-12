@@ -1,6 +1,6 @@
 # 文件:東方夢幻録_Vol.2_幼き守人の夢想唄封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\89\ns6%3A%E6%9D%B1%E6%96%B9%E5%A4%A2%E5%B9%BB%E9%8C%B2_Vol%2E2_%E5%B9%BC%E3%81%8D%E5%AE%88%E4%BA%BA%E3%81%AE%E5%A4%A2%E6%83%B3%E5%94%84%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\89\ns6%3A%E6%9D%B1%E6%96%B9%E5%A4%A2%E5%B9%BB%E9%8C%B2_Vol%2E2_%E5%B9%BC%E3%81%8D%E5%AE%88%E4%BA%BA%E3%81%AE%E5%A4%A2%E6%83%B3%E5%94%84%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Re：Volte | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ Re：Volte | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方夢幻録 Vol.2 幼き守人の夢想唄](./東方夢幻録_Vol.2_幼き守人の夢想唄.md)  
-该封面包含的角色：- [橙](./橙.md)- [八云蓝](./八云蓝.md)
-
-
-
+- [東方夢幻録 Vol.2 幼き守人の夢想唄](./東方夢幻録_Vol.2_幼き守人の夢想唄.md)该封面包含的角色：
+- [橙](./橙.md)
+- [八云蓝](./八云蓝.md)
 
 
 ---

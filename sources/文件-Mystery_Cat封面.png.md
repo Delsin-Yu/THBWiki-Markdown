@@ -1,6 +1,6 @@
 # 文件:Mystery_Cat封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\59\ns6%3AMystery_Cat%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\59\ns6%3AMystery_Cat%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 CielArc | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ CielArc | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Mystery Cat](./Mystery_Cat.md)  
-该封面包含的角色：- [橙](./橙.md)
+- [Mystery Cat](./Mystery_Cat.md)该封面包含的角色：
+- [橙](./橙.md)
 
   
-源地址：[[1]](http://cielarc.konjiki.jp/img/5thjacket.png)
-  
-
-
-
-
+源地址：[\[1\]](http://cielarc.konjiki.jp/img/5thjacket.png)  
 
 ---
 

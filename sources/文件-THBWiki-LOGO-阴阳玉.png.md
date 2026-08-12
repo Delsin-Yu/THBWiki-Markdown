@@ -1,14 +1,11 @@
 # 文件:THBWiki-LOGO-阴阳玉.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\71\ns6%3ATHBWiki-LOGO-%E9%98%B4%E9%98%B3%E7%8E%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\71\ns6%3ATHBWiki-LOGO-%E9%98%B4%E9%98%B3%E7%8E%89%2Epng.html -->
 
 THBWiki | Wiki页面装修用图
 
 
 ## 文件说明
-
-
-
 
 ---
 

@@ -1,12 +1,8 @@
 # 文件:THD2飞行信使.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8d\ns6%3ATHD2%E9%A3%9E%E8%A1%8C%E4%BF%A1%E4%BD%BF%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8d\ns6%3ATHD2%E9%A3%9E%E8%A1%8C%E4%BF%A1%E4%BD%BF%2Epng.html -->
 
 THD2
-
-
-
-
 
 
 ---

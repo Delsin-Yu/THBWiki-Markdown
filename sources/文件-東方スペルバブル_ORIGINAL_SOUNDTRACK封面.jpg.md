@@ -1,6 +1,6 @@
 # 文件:東方スペルバブル_ORIGINAL_SOUNDTRACK封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\14\ns6%3A%E6%9D%B1%E6%96%B9%E3%82%B9%E3%83%9A%E3%83%AB%E3%83%90%E3%83%96%E3%83%AB_ORIGINAL_SOUNDTRACK%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\14\ns6%3A%E6%9D%B1%E6%96%B9%E3%82%B9%E3%83%9A%E3%83%AB%E3%83%90%E3%83%96%E3%83%AB_ORIGINAL_SOUNDTRACK%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 太东 | 封面图片
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方スペルバブル ORIGINAL SOUNDTRACK](./東方スペルバブル_ORIGINAL_SOUNDTRACK.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [東方スペルバブル ORIGINAL SOUNDTRACK](./東方スペルバブル_ORIGINAL_SOUNDTRACK.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

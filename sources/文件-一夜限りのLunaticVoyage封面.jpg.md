@@ -1,6 +1,6 @@
 # 文件:一夜限りのLunaticVoyage封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d3\ns6%3A%E4%B8%80%E5%A4%9C%E9%99%90%E3%82%8A%E3%81%AELunaticVoyage%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d3\ns6%3A%E4%B8%80%E5%A4%9C%E9%99%90%E3%82%8A%E3%81%AELunaticVoyage%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ナナシノ十字星団 | 同人志封面 | 封面图片
 
@@ -8,11 +8,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [一夜限りのLunaticVoyage](./一夜限りのLunaticVoyage.md)  
-该封面包含的角色：- [蓬莱人形](./蓬莱人形.md)- [宇佐见堇子](./宇佐见堇子.md)- [哆来咪·苏伊特](./哆来咪·苏伊特.md)- [稀神探女](./稀神探女.md)- [克劳恩皮丝](./克劳恩皮丝.md)
-
-
-
+- [一夜限りのLunaticVoyage](./一夜限りのLunaticVoyage.md)该封面包含的角色：
+- [蓬莱人形](./蓬莱人形.md)
+- [宇佐见堇子](./宇佐见堇子.md)
+- [哆来咪·苏伊特](./哆来咪·苏伊特.md)
+- [稀神探女](./稀神探女.md)
+- [克劳恩皮丝](./克劳恩皮丝.md)
 
 
 ---

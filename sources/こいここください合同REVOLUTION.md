@@ -1,23 +1,20 @@
 # こいここください合同REVOLUTION
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\2c\ns0%3A%E3%81%93%E3%81%84%E3%81%93%E3%81%93%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E5%90%88%E5%90%8CREVOLUTION.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\2c\ns0%3A%E3%81%93%E3%81%84%E3%81%93%E3%81%93%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E5%90%88%E5%90%8CREVOLUTION.html -->
 
 2019年12月31日 由 こめおファクトリー 于 Comic Market 97 发布的漫画/小说/合同志同人志，B5尺寸一共186页，登场人物有 古明地恋、秦心、古明地觉、博丽灵梦，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人志 (未找到链接)** 的词条
-
+**[二次创作同人志](./二次创作.md#同人志)**的词条
 ## 作品信息
 
-<table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-こいここください合同REVOLUTION封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/1/18/%E3%81%93%E3%81%84%E3%81%93%E3%81%93%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E5%90%88%E5%90%8CREVOLUTION%E5%B0%81%E9%9D%A2.jpg/224px-%E3%81%93%E3%81%84%E3%81%93%E3%81%93%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E5%90%88%E5%90%8CREVOLUTION%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="155" srcset="https://upload.thwiki.cc/thumb/1/18/%E3%81%93%E3%81%84%E3%81%93%E3%81%93%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E5%90%88%E5%90%8CREVOLUTION%E5%B0%81%E9%9D%A2.jpg/336px-%E3%81%93%E3%81%84%E3%81%93%E3%81%93%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E5%90%88%E5%90%8CREVOLUTION%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/1/18/%E3%81%93%E3%81%84%E3%81%93%E3%81%93%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E5%90%88%E5%90%8CREVOLUTION%E5%B0%81%E9%9D%A2.jpg/448px-%E3%81%93%E3%81%84%E3%81%93%E3%81%93%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E5%90%88%E5%90%8CREVOLUTION%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1569" data-file-height="1087"></a><div class="cover-char">角色：<a href="./古明地恋.md" title="古明地恋">古明地恋</a>，<a href="./秦心.md" title="秦心">秦心</a>，<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>，<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a>，<a href="./东风谷早苗.md" title="东风谷早苗">东风谷早苗</a>，<a href="/%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C" title="十六夜咲夜">十六夜咲夜</a></div></td>
-</tr><tr><td class="label">名称</td><td colspan="2"> こいここください合同REVOLUTION </td></tr><tr><td class="label">制作方</td><td><a href="./こめおファクトリー.md" title="こめおファクトリー">こめおファクトリー</a></td><td class="cover-artwork" rowspan="8" style="min-width:224px;"><a href="./文件-こいここください合同REVOLUTION封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/1/18/%E3%81%93%E3%81%84%E3%81%93%E3%81%93%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E5%90%88%E5%90%8CREVOLUTION%E5%B0%81%E9%9D%A2.jpg/224px-%E3%81%93%E3%81%84%E3%81%93%E3%81%93%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E5%90%88%E5%90%8CREVOLUTION%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="155" srcset="https://upload.thwiki.cc/thumb/1/18/%E3%81%93%E3%81%84%E3%81%93%E3%81%93%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E5%90%88%E5%90%8CREVOLUTION%E5%B0%81%E9%9D%A2.jpg/336px-%E3%81%93%E3%81%84%E3%81%93%E3%81%93%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E5%90%88%E5%90%8CREVOLUTION%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/1/18/%E3%81%93%E3%81%84%E3%81%93%E3%81%93%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E5%90%88%E5%90%8CREVOLUTION%E5%B0%81%E9%9D%A2.jpg/448px-%E3%81%93%E3%81%84%E3%81%93%E3%81%93%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E5%90%88%E5%90%8CREVOLUTION%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1569" data-file-height="1087"></a><div class="cover-char">角色：<a href="./古明地恋.md" title="古明地恋">古明地恋</a>，<a href="./秦心.md" title="秦心">秦心</a>，<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>，<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a>，<a href="./东风谷早苗.md" title="东风谷早苗">东风谷早苗</a>，<a href="/%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C" title="十六夜咲夜">十六夜咲夜</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2019-12-31&#160;（<a href="/展会作品列表?e=Comic+Market%2397">Comic Market 97</a>）</td></tr><tr><td class="label">类型</td><td>漫画，小说，合同志</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>B5</td></tr><tr><td class="label">页数</td><td>186P</td></tr><tr><td class="label">登场人物</td><td><a href="./古明地恋.md" title="古明地恋">古明地恋</a>，<a href="./秦心.md" title="秦心">秦心</a>，<a href="./古明地觉.md" title="古明地觉">古明地觉</a>，<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></td></tr><tr><td class="label">售价</td><td>会场售价：2000日元<br>通贩售价：2200日元</td></tr>
+<table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-こいここください合同REVOLUTION封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/1/18/%E3%81%93%E3%81%84%E3%81%93%E3%81%93%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E5%90%88%E5%90%8CREVOLUTION%E5%B0%81%E9%9D%A2.jpg/224px-%E3%81%93%E3%81%84%E3%81%93%E3%81%93%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E5%90%88%E5%90%8CREVOLUTION%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="155" srcset="https://upload.thwiki.cc/thumb/1/18/%E3%81%93%E3%81%84%E3%81%93%E3%81%93%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E5%90%88%E5%90%8CREVOLUTION%E5%B0%81%E9%9D%A2.jpg/336px-%E3%81%93%E3%81%84%E3%81%93%E3%81%93%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E5%90%88%E5%90%8CREVOLUTION%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/1/18/%E3%81%93%E3%81%84%E3%81%93%E3%81%93%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E5%90%88%E5%90%8CREVOLUTION%E5%B0%81%E9%9D%A2.jpg/448px-%E3%81%93%E3%81%84%E3%81%93%E3%81%93%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E5%90%88%E5%90%8CREVOLUTION%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1569" data-file-height="1087"></a><div class="cover-char">角色：<a href="./古明地恋.md" title="古明地恋">古明地恋</a>，<a href="./秦心.md" title="秦心">秦心</a>，<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>，<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a>，<a href="./东风谷早苗.md" title="东风谷早苗">东风谷早苗</a>，<a href="./十六夜咲夜.md" title="十六夜咲夜">十六夜咲夜</a></div></td>
+</tr><tr><td class="label">名称</td><td colspan="2"> こいここください合同REVOLUTION </td></tr><tr><td class="label">制作方</td><td><a href="./こめおファクトリー.md" title="こめおファクトリー">こめおファクトリー</a></td><td class="cover-artwork" rowspan="8" style="min-width:224px;"><a href="./文件-こいここください合同REVOLUTION封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/1/18/%E3%81%93%E3%81%84%E3%81%93%E3%81%93%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E5%90%88%E5%90%8CREVOLUTION%E5%B0%81%E9%9D%A2.jpg/224px-%E3%81%93%E3%81%84%E3%81%93%E3%81%93%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E5%90%88%E5%90%8CREVOLUTION%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="155" srcset="https://upload.thwiki.cc/thumb/1/18/%E3%81%93%E3%81%84%E3%81%93%E3%81%93%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E5%90%88%E5%90%8CREVOLUTION%E5%B0%81%E9%9D%A2.jpg/336px-%E3%81%93%E3%81%84%E3%81%93%E3%81%93%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E5%90%88%E5%90%8CREVOLUTION%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/1/18/%E3%81%93%E3%81%84%E3%81%93%E3%81%93%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E5%90%88%E5%90%8CREVOLUTION%E5%B0%81%E9%9D%A2.jpg/448px-%E3%81%93%E3%81%84%E3%81%93%E3%81%93%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E5%90%88%E5%90%8CREVOLUTION%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1569" data-file-height="1087"></a><div class="cover-char">角色：<a href="./古明地恋.md" title="古明地恋">古明地恋</a>，<a href="./秦心.md" title="秦心">秦心</a>，<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>，<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a>，<a href="./东风谷早苗.md" title="东风谷早苗">东风谷早苗</a>，<a href="./十六夜咲夜.md" title="十六夜咲夜">十六夜咲夜</a></div></td>
+</tr><tr><td class="label">首发日期</td><td>2019-12-31 （<a href="./展会作品列表.md#97">Comic Market 97</a>）</td></tr><tr><td class="label">类型</td><td>漫画，小说，合同志</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>B5</td></tr><tr><td class="label">页数</td><td>186P</td></tr><tr><td class="label">登场人物</td><td><a href="./古明地恋.md" title="古明地恋">古明地恋</a>，<a href="./秦心.md" title="秦心">秦心</a>，<a href="./古明地觉.md" title="古明地觉">古明地觉</a>，<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></td></tr><tr><td class="label">售价</td><td>会场售价：2000日元<br>通贩售价：2200日元</td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/78542679">https://www.pixiv.net/artworks/78542679</a><br><a rel="nofollow" class="external free" href="https://misheru2.wixsite.com/pleasekoikoko">https://misheru2.wixsite.com/pleasekoikoko</a></td></tr></tbody></table>
 
 こいここください合同REVOLUTION（同人志，こめおファクトリー，2019） - 2019年12月31日 由 こめおファクトリー 于 Comic Market 97 发布的漫画/小说/合同志同人志，B5尺寸一共186页，登场人物有 古明地恋、秦心、古明地觉、博丽灵梦，分级为 一般向
-
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=607405">蜜瓜</a></td></tr></tbody></table>
-
 
 
 ## 预览
@@ -25,6 +22,7 @@
 ## Staff
 
 ### 插图
+
 - えふぇ (未找到链接)
 - [バロン](./バロン.md)
 - 野マヨ (未找到链接)
@@ -54,6 +52,7 @@
 
 
 ### 小说
+
 - ばかのひ (未找到链接)
 - 闇万 (未找到链接)
 - Rain (未找到链接)
@@ -61,6 +60,7 @@
 
 
 ### 漫画
+
 - [煎兵衛](./煎兵衛.md)
 - 梅まろ (未找到链接)
 - 海野プリン (未找到链接)
@@ -92,9 +92,6 @@
 
 
 ## 评论
-
-
-
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:秘封前夜_preview_ver.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\54\ns6%3A%E7%A7%98%E5%B0%81%E5%89%8D%E5%A4%9C_preview_ver%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\54\ns6%3A%E7%A7%98%E5%B0%81%E5%89%8D%E5%A4%9C_preview_ver%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 傾き屋 | 同人志封面 | 封面图片
 
@@ -9,9 +9,6 @@
   
 
 - [秘封前夜 preview ver.](./秘封前夜_preview_ver..md)
-
-
-
 
 
 ---

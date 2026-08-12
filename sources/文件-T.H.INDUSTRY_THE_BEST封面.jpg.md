@@ -1,6 +1,6 @@
 # 文件:T.H.INDUSTRY_THE_BEST封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f5\ns6%3AT%2EH%2EINDUSTRY_THE_BEST%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f5\ns6%3AT%2EH%2EINDUSTRY_THE_BEST%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 T.H.INDUSTRY | 专辑封面 | 封面图片
 
@@ -10,11 +10,15 @@ T.H.INDUSTRY | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [T.H.INDUSTRY THE BEST](./T.H.INDUSTRY_THE_BEST.md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)- [八云紫](./八云紫.md)- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)- [射命丸文](./射命丸文.md)- [东风谷早苗](./东风谷早苗.md)- [姬海棠果](./姬海棠果.md)- [庭渡久侘歌](./庭渡久侘歌.md)- [吉吊八千慧](./吉吊八千慧.md)
-
-
-
+- [T.H.INDUSTRY THE BEST](./T.H.INDUSTRY_THE_BEST.md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
+- [八云紫](./八云紫.md)
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
+- [射命丸文](./射命丸文.md)
+- [东风谷早苗](./东风谷早苗.md)
+- [姬海棠果](./姬海棠果.md)
+- [庭渡久侘歌](./庭渡久侘歌.md)
+- [吉吊八千慧](./吉吊八千慧.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:1／2_Half封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\65\ns6%3A1%EF%BC%8F2_Half%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\65\ns6%3A1%EF%BC%8F2_Half%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 BON_VOYAGE | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@ BON_VOYAGE | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [1／2 Half](./1／2_Half.md)  
-该封面包含的角色：- [东风谷早苗](./东风谷早苗.md)
-
-
-
+- [1／2 Half](./1／2_Half.md)该封面包含的角色：
+- [东风谷早苗](./东风谷早苗.md)
 
 
 ---

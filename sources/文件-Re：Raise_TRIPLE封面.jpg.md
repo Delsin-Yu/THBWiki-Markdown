@@ -1,6 +1,6 @@
 # 文件:Re：Raise_TRIPLE封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\34\ns6%3ARe%EF%BC%9ARaise_TRIPLE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\34\ns6%3ARe%EF%BC%9ARaise_TRIPLE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 魂音泉
 
@@ -8,16 +8,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [Re：Raise TRIPLE](./Re：Raise_TRIPLE.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [雾雨魔理沙](./雾雨魔理沙.md)
+- [Re：Raise TRIPLE](./Re：Raise_TRIPLE.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-源地址：[[1]](http://tamaonsen.com/contents/TOS032_jkt_img_RGB.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://tamaonsen.com/contents/TOS032_jkt_img_RGB.jpg)  
 
 ---
 

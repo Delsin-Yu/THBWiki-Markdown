@@ -1,37 +1,21 @@
 # GRIFFON/茨木华扇
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\a\ac\ns0%3AGRIFFON%2F%E8%8C%A8%E6%9C%A8%E5%8D%8E%E6%89%87.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\a\ac\ns0%3AGRIFFON%2F%E8%8C%A8%E6%9C%A8%E5%8D%8E%E6%89%87.html -->
 
 茨木华扇PVCFigure手办模型
 
 本页是关于东方Project  
- **相关实体周边 (未找到链接)** 的词条
-
+**相关实体周边 (未找到链接)**的词条
 ## 模型信息
 
-<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 茨木华扇 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>无</td></tr><tr><td class="label">角色</td><td><a href="./茨木华扇.md" title="茨木华扇">茨木华扇</a></td></tr><tr><td class="label">原型师</td><td><a href="/index.php?title=%E3%81%A7%E3%82%8B&amp;action=edit&amp;redlink=1" class="new" title="でる（页面不存在）">でる</a></td></tr><tr><td class="label">比例</td><td>1/8</td></tr><tr><td class="label">尺寸</td><td>185mm</td></tr><tr><td class="label">状态</td><td>已发售</td></tr><tr><td class="label">售价</td><td>8800日元</td></tr><tr><td class="label">首发日期</td><td>2013-03</td></tr><tr><td class="label">发售方</td><td><a href="/index.php?title=GRIFFON&amp;action=edit&amp;redlink=1" class="new" title="GRIFFON（页面不存在）">GRIFFON</a></td></tr></tbody></table>
+<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 茨木华扇 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>无</td></tr><tr><td class="label">角色</td><td><a href="./茨木华扇.md" title="茨木华扇">茨木华扇</a></td></tr><tr><td class="label">原型师</td><td><a class="new" title="でる（页面不存在）">でる</a></td></tr><tr><td class="label">比例</td><td>1/8</td></tr><tr><td class="label">尺寸</td><td>185mm</td></tr><tr><td class="label">状态</td><td>已发售</td></tr><tr><td class="label">售价</td><td>8800日元</td></tr><tr><td class="label">首发日期</td><td>2013-03</td></tr><tr><td class="label">发售方</td><td><a class="new" title="GRIFFON（页面不存在）">GRIFFON</a></td></tr></tbody></table>
 
 GRIFFON/茨木华扇（周边） - 茨木华扇PVCFigure手办模型
-
 ## 参考图片
-
-
-
-[](./文件-GRIFFON茨木华扇-1.jpg.md)
-
-
-[](./文件-GRIFFON茨木华扇-2.jpg.md)
-
-
-[](./文件-GRIFFON茨木华扇-3.jpg.md)
-
+<img alt="GRIFFON茨木华扇" src="https://upload.thwiki.cc/thumb/c/cd/GRIFFON%E8%8C%A8%E6%9C%A8%E5%8D%8E%E6%89%87-1.jpg/160px-GRIFFON%E8%8C%A8%E6%9C%A8%E5%8D%8E%E6%89%87-1.jpg" decoding="async" loading="lazy" width="160" height="240" srcset="https://upload.thwiki.cc/thumb/c/cd/GRIFFON%E8%8C%A8%E6%9C%A8%E5%8D%8E%E6%89%87-1.jpg/240px-GRIFFON%E8%8C%A8%E6%9C%A8%E5%8D%8E%E6%89%87-1.jpg 1.5x, https://upload.thwiki.cc/thumb/c/cd/GRIFFON%E8%8C%A8%E6%9C%A8%E5%8D%8E%E6%89%87-1.jpg/320px-GRIFFON%E8%8C%A8%E6%9C%A8%E5%8D%8E%E6%89%87-1.jpg 2x" data-file-width="533" data-file-height="800">
+<img alt="GRIFFON茨木华扇" src="https://upload.thwiki.cc/thumb/f/fa/GRIFFON%E8%8C%A8%E6%9C%A8%E5%8D%8E%E6%89%87-2.jpg/160px-GRIFFON%E8%8C%A8%E6%9C%A8%E5%8D%8E%E6%89%87-2.jpg" decoding="async" loading="lazy" width="160" height="240" srcset="https://upload.thwiki.cc/thumb/f/fa/GRIFFON%E8%8C%A8%E6%9C%A8%E5%8D%8E%E6%89%87-2.jpg/240px-GRIFFON%E8%8C%A8%E6%9C%A8%E5%8D%8E%E6%89%87-2.jpg 1.5x, https://upload.thwiki.cc/thumb/f/fa/GRIFFON%E8%8C%A8%E6%9C%A8%E5%8D%8E%E6%89%87-2.jpg/320px-GRIFFON%E8%8C%A8%E6%9C%A8%E5%8D%8E%E6%89%87-2.jpg 2x" data-file-width="533" data-file-height="800">
+<img alt="GRIFFON茨木华扇" src="https://upload.thwiki.cc/thumb/c/ca/GRIFFON%E8%8C%A8%E6%9C%A8%E5%8D%8E%E6%89%87-3.jpg/360px-GRIFFON%E8%8C%A8%E6%9C%A8%E5%8D%8E%E6%89%87-3.jpg" decoding="async" loading="lazy" width="360" height="240" srcset="https://upload.thwiki.cc/thumb/c/ca/GRIFFON%E8%8C%A8%E6%9C%A8%E5%8D%8E%E6%89%87-3.jpg/540px-GRIFFON%E8%8C%A8%E6%9C%A8%E5%8D%8E%E6%89%87-3.jpg 1.5x, https://upload.thwiki.cc/c/ca/GRIFFON%E8%8C%A8%E6%9C%A8%E5%8D%8E%E6%89%87-3.jpg 2x" data-file-width="600" data-file-height="400">
 公式图
-
-
-
-
-
-
 
 ---
 

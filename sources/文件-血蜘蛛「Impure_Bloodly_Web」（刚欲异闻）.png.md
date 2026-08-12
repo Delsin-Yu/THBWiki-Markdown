@@ -1,14 +1,11 @@
 # 文件:血蜘蛛「Impure_Bloodly_Web」（刚欲异闻）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d9\ns6%3A%E8%A1%80%E8%9C%98%E8%9B%9B%E3%80%8CImpure_Bloodly_Web%E3%80%8D%EF%BC%88%E5%88%9A%E6%AC%B2%E5%BC%82%E9%97%BB%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d9\ns6%3A%E8%A1%80%E8%9C%98%E8%9B%9B%E3%80%8CImpure_Bloodly_Web%E3%80%8D%EF%BC%88%E5%88%9A%E6%AC%B2%E5%BC%82%E9%97%BB%EF%BC%89%2Epng.html -->
 
 东方刚欲异闻 | 敌机符卡 | 黑谷山女
 
 
 ## 摘要
-
-
-
 
 ---
 

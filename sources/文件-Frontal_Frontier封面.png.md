@@ -1,6 +1,6 @@
 # 文件:Frontal_Frontier封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7d\ns6%3AFrontal_Frontier%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7d\ns6%3AFrontal_Frontier%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 E.B.S._0／1 | 专辑封面 | 封面图片
 
@@ -8,11 +8,10 @@ E.B.S._0／1 | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Frontal Frontier](./Frontal_Frontier.md)  
-该封面包含的角色：- [河城荷取](./河城荷取.md)- [犬走椛](./犬走椛.md)- [洩矢诹访子](./洩矢诹访子.md)
-
-
-
+- [Frontal Frontier](./Frontal_Frontier.md)该封面包含的角色：
+- [河城荷取](./河城荷取.md)
+- [犬走椛](./犬走椛.md)
+- [洩矢诹访子](./洩矢诹访子.md)
 
 
 ---

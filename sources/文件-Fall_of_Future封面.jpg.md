@@ -1,6 +1,6 @@
 # 文件:Fall_of_Future封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4b\ns6%3AFall_of_Future%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4b\ns6%3AFall_of_Future%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 The_point_of_Origin | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ The_point_of_Origin | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Fall of Future](./Fall_of_Future.md)  
-该封面包含的角色：- [犬走椛](./犬走椛.md)
-
-
-
+- [Fall of Future](./Fall_of_Future.md)该封面包含的角色：
+- [犬走椛](./犬走椛.md)
 
 
 ---

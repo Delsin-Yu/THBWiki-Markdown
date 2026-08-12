@@ -1,6 +1,6 @@
 # 文件:凤凰花开_～_Fantastic_Land_第一卷封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e8\ns6%3A%E5%87%A4%E5%87%B0%E8%8A%B1%E5%BC%80_%EF%BD%9E_Fantastic_Land_%E7%AC%AC%E4%B8%80%E5%8D%B7%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e8\ns6%3A%E5%87%A4%E5%87%B0%E8%8A%B1%E5%BC%80_%EF%BD%9E_Fantastic_Land_%E7%AC%AC%E4%B8%80%E5%8D%B7%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ComicFishing | 同人志封面 | 封面图片
 
@@ -8,11 +8,8 @@ ComicFishing | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [凤凰花开 ～ Fantastic Land 第一卷](./凤凰花开_～_Fantastic_Land_第一卷.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [凤凰花开 ～ Fantastic Land 第一卷](./凤凰花开_～_Fantastic_Land_第一卷.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

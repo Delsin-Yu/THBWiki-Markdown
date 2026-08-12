@@ -1,6 +1,6 @@
 # 文件:吊るし処besT_-_ロック＆メタル編封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\df\ns6%3A%E5%90%8A%E3%82%8B%E3%81%97%E5%87%A6besT_-_%E3%83%AD%E3%83%83%E3%82%AF%EF%BC%86%E3%83%A1%E3%82%BF%E3%83%AB%E7%B7%A8%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\df\ns6%3A%E5%90%8A%E3%82%8B%E3%81%97%E5%87%A6besT_-_%E3%83%AD%E3%83%83%E3%82%AF%EF%BC%86%E3%83%A1%E3%82%BF%E3%83%AB%E7%B7%A8%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 吊るし処 | 封面图片
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [吊るし処besT - ロック＆メタル編](./吊るし処besT_-_ロック＆メタル編.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)- [射命丸文](./射命丸文.md)
-
-
-
+- [吊るし処besT - ロック＆メタル編](./吊るし処besT_-_ロック＆メタル編.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
+- [射命丸文](./射命丸文.md)
 
 
 ---

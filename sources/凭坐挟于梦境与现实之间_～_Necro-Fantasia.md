@@ -1,29 +1,23 @@
 # 凭坐挟于梦境与现实之间_～_Necro-Fantasia
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\d\dd\ns0%3A%E5%87%AD%E5%9D%90%E6%8C%9F%E4%BA%8E%E6%A2%A6%E5%A2%83%E4%B8%8E%E7%8E%B0%E5%AE%9E%E4%B9%8B%E9%97%B4_%EF%BD%9E_Necro-Fantasia.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\d\dd\ns0%3A%E5%87%AD%E5%9D%90%E6%8C%9F%E4%BA%8E%E6%A2%A6%E5%A2%83%E4%B8%8E%E7%8E%B0%E5%AE%9E%E4%B9%8B%E9%97%B4_%EF%BD%9E_Necro-Fantasia.html -->
 
 由 ZUN 创作的官方曲目，原名 憑坐は夢と現の間に　～ Necro-Fantasia
 
 本页是关于东方Project  
- **原作音乐** 的词条
-
+**原作音乐**的词条
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 出现作品](#出现作品)
 - [3 音乐文件](#音乐文件)
-
   - [3.1 完全凭依唱片名录](#完全凭依唱片名录)
   - [3.2 七夕坂梦幻能](#七夕坂梦幻能)
 
 
-
 - [4 其他资料](#其他资料)
-
   - [4.1 乐理资讯](#乐理资讯)
-
     - [4.1.1 使用乐器](#使用乐器)
-
 
 
   - [4.2 分析考据](#分析考据)
@@ -32,16 +26,11 @@
 
 
 
-
-
-
-
 ## 基本信息
 
-<table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">憑坐は夢と現の間に　～ Necro-Fantasia</td></tr><tr><td><b>译名</b></td><td>凭坐挟于梦境与现实之间 ～ Necro-Fantasia</td></tr><tr><td><b>英文译名</b></td><td>Yorimashi Between Dreams and Reality ~ Necro-Fantasia</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>引用</td></tr><tr><td style="padding-left:15px"><b>原曲</b></td><td><a href="./ネクロファンタジア.md" class="mw-redirect" title="ネクロファンタジア">ネクロファンタジア</a></td></tr><tr><td style="padding-left:15px"><b>　来源</b></td><td>东方妖妖梦　～ Perfect Cherry Blossom.</td></tr></tbody></table>
+<table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">憑坐は夢と現の間に　～ Necro-Fantasia</td></tr><tr><td><b>译名</b></td><td>凭坐挟于梦境与现实之间 ～ Necro-Fantasia</td></tr><tr><td><b>英文译名</b></td><td>Yorimashi Between Dreams and Reality ~ Necro-Fantasia</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>引用</td></tr><tr><td style="padding-left:15px"><b>原曲</b></td><td><a href="./Necro-Fantasia.md" class="mw-redirect" title="ネクロファンタジア">ネクロファンタジア</a></td></tr><tr><td style="padding-left:15px"><b>　来源</b></td><td>东方妖妖梦　～ Perfect Cherry Blossom.</td></tr></tbody></table>
 
 凭坐挟于梦境与现实之间 ～ Necro-Fantasia（曲目） - 由 ZUN 创作的官方曲目，原名 憑坐は夢と現の間に　～ Necro-Fantasia
-
 ## 出现作品
 
 <table>
@@ -52,7 +41,6 @@
 </tbody></table>
 
 
-
 ## 音乐文件
 
 ### 完全凭依唱片名录
@@ -60,9 +48,7 @@
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-TFM-009a_17.mp3.md" title="文件:TFM-009a 17.mp3">TFM-009a_17.mp3</a><br><audio src="https://upload.thwiki.cc/8/8f/TFM-009a_17.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track17.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>4:45</td></tr></tbody></table>
 
 
-
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-TFM-009c_08.mp3.md" title="文件:TFM-009c 08.mp3">TFM-009c_08.mp3</a><br><audio src="https://upload.thwiki.cc/d/d4/TFM-009c_08.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track08.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>4:32</td></tr></tbody></table>
-
 
 
 ### 七夕坂梦幻能
@@ -70,12 +56,12 @@
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-hr12_07.mp3.md" title="文件:hr12 07.mp3">hr12_07.mp3</a><br><audio src="https://upload.thwiki.cc/1/1a/hr12_07.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track07.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>3:01</td></tr></tbody></table>
 
 
-
 ## 其他资料
 
 ### 乐理资讯
 
 #### 使用乐器
+
 - SD-90 Romantic Tp
 - The Grand 3 Model D Close
 - Electri6ity Rickenbacker Amped
@@ -86,17 +72,20 @@
 
 ### 分析考据
   
- **憑坐は夢と現の間に　～ Necro-Fantasia**  凭坐挟于梦境与现实之间　～ Necro-Fantasia
+**憑坐は夢と現の間に ～ Necro-Fantasia** 凭坐挟于梦境与现实之间　～ Necro-Fantasia
   
 
-- 憑坐
+- 憑坐 
   - 凭坐，即凭依华中的主役。
 
-- 夢と現
-  - 梦境与现实，参见[梦境与现实的咒术/分析与考据](./梦境与现实的咒术-分析与考据.md)及梦境与现实的境界#分析考据 (未找到链接)。
 
-- Necro-Fantasia
-  - 该曲是[Necro-Fantasia](./Necro-Fantasia.md)的改编版，详见Necro-Fantasia#分析考据 (未找到链接)。
+- 夢と現 
+  - 梦境与现实，参见[梦境与现实的咒术/分析与考据](./梦境与现实的咒术-分析与考据.md)及[梦境与现实的境界#分析考据](./梦境与现实的境界.md#分析考据)。
+
+
+- Necro-Fantasia 
+  - 该曲是[Necro-Fantasia](./Necro-Fantasia.md)的改编版，详见[Necro-Fantasia#分析考据](./Necro-Fantasia.md#分析考据)。
+
 
 
 
@@ -112,17 +101,6 @@
 <tr><td>Arrange</td><td>39</td></tr>
 <tr><td>Vocal率</td><td>22%</td></tr>
 </tbody></table>
-
-
-
-
-  
-  
-
-  
-
-
-
 
 
 ---

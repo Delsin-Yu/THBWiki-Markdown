@@ -1,49 +1,41 @@
 # THE_GREEN_LABEL_E.P.
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\8\80\ns0%3ATHE_GREEN_LABEL_E%2EP%2E.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\8\80\ns0%3ATHE_GREEN_LABEL_E%2EP%2E.html -->
 
 2011年5月8日 由 Midicondria 于 博丽神社例大祭8 发布的EP同人专辑，曲目主要风格是 Rock，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人专辑 (未找到链接)** 的词条
-
+**[二次创作同人专辑](./二次创作.md#同人音乐)**的词条
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-THE_GREEN_LABEL_E.P.封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/5/59/THE_GREEN_LABEL_E.P.%E5%B0%81%E9%9D%A2.jpg/224px-THE_GREEN_LABEL_E.P.%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="224" srcset="https://upload.thwiki.cc/thumb/5/59/THE_GREEN_LABEL_E.P.%E5%B0%81%E9%9D%A2.jpg/336px-THE_GREEN_LABEL_E.P.%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/5/59/THE_GREEN_LABEL_E.P.%E5%B0%81%E9%9D%A2.jpg/448px-THE_GREEN_LABEL_E.P.%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="2800" data-file-height="2800"></a><div class="cover-char">角色：<a href="./东风谷早苗.md" title="东风谷早苗">东风谷早苗</a></div></td>
 </tr><tr><td class="label">名称</td><td colspan="2"> THE GREEN LABEL E.P. </td></tr><tr><td class="label">制作方</td><td><a href="./Midicondria.md" title="Midicondria">Midicondria</a></td><td class="cover-artwork" rowspan="8" style="min-width:224px;"><a href="./文件-THE_GREEN_LABEL_E.P.封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/5/59/THE_GREEN_LABEL_E.P.%E5%B0%81%E9%9D%A2.jpg/224px-THE_GREEN_LABEL_E.P.%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="224" srcset="https://upload.thwiki.cc/thumb/5/59/THE_GREEN_LABEL_E.P.%E5%B0%81%E9%9D%A2.jpg/336px-THE_GREEN_LABEL_E.P.%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/5/59/THE_GREEN_LABEL_E.P.%E5%B0%81%E9%9D%A2.jpg/448px-THE_GREEN_LABEL_E.P.%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="2800" data-file-height="2800"></a><div class="cover-char">角色：<a href="./东风谷早苗.md" title="东风谷早苗">东风谷早苗</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2011-05-08&#160;（<a href="/展会作品列表?e=%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD%238">第八回 博麗神社例大祭</a>）</td></tr><tr><td class="label">类型</td><td>EP</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>2</td></tr><tr><td class="label">总时长</td><td>09:03</td></tr><tr><td class="label">风格类型</td><td>Rock</td></tr></tbody></table>
+</tr><tr><td class="label">首发日期</td><td>2011-05-08 （<a href="./展会作品列表.md#8">第八回 博麗神社例大祭</a>）</td></tr><tr><td class="label">类型</td><td>EP</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>2</td></tr><tr><td class="label">总时长</td><td>09:03</td></tr><tr><td class="label">风格类型</td><td>Rock</td></tr></tbody></table>
 
 THE GREEN LABEL E.P.（同人专辑，Midicondria，2011） - 2011年5月8日 由 Midicondria 于 博丽神社例大祭8 发布的EP同人专辑，曲目主要风格是 Rock，分级为 一般向
-
 ## Staff
   
- **Arrangement**   
+**Arrangement**  
 
-<table><tbody><tr><td><a href="/index.php?title=ksk&amp;action=edit&amp;redlink=1" class="new" title="ksk（页面不存在）">ksk</a></td><td><a href="./Midicondria.md" title="Midicondria">Midicondria</a></td><td>Tr.1/2</td></tr></tbody></table>
+<table><tbody><tr><td><a class="new" title="ksk（页面不存在）">ksk</a></td><td><a href="./Midicondria.md" title="Midicondria">Midicondria</a></td><td>Tr.1/2</td></tr></tbody></table>
 
   
- **Instrument**   
+**Instrument**  
 
-<table><tbody><tr><td><a href="/index.php?title=ksk&amp;action=edit&amp;redlink=1" class="new" title="ksk（页面不存在）">ksk</a></td><td><a href="./Midicondria.md" title="Midicondria">Midicondria</a></td><td>Tr.1/2</td></tr></tbody></table>
-
+<table><tbody><tr><td><a class="new" title="ksk（页面不存在）">ksk</a></td><td><a href="./Midicondria.md" title="Midicondria">Midicondria</a></td><td>Tr.1/2</td></tr></tbody></table>
 
 Sound Engineering
 : ksk
-Illustration &amp; Design
+Illustration & Design
 : ksk
-
 
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="ラストリモート" colspan="2" class="title">ラストリモート<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=ksk&amp;ogmusic=ラストリモート&amp;fromwiki=THE_GREEN_LABEL_E.P."><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:57</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=ksk&amp;action=edit&amp;redlink=1" class="new" title="ksk（页面不存在）">ksk</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，ksk&amp;fromwiki=THE_GREEN_LABEL_E.P."><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演奏</td><td class="text" colspan="2">Guitar：ksk <br>Bass：ksk</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=ラストリモート&amp;fromwiki=THE_GREEN_LABEL_E.P."><span></span></a></span><div class="ogmusic"><a href="./ラストリモート.md" class="mw-redirect" title="ラストリモート">ラストリモート</a></div><div class="source"><a href="./东方地灵殿_～_Subterranean_Animism..md" class="mw-redirect" title="东方地灵殿 ～ Subterranean Animism.">东方地灵殿　～ Subterranean Animism.</a></div></td></tr>
-<tr><td id="2" class="infoYD"><b>02</b></td><td id="信仰は儚き人間の為に" colspan="2" class="title">信仰は儚き人間の為に<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=ksk&amp;ogmusic=信仰は儚き人間の為に&amp;fromwiki=THE_GREEN_LABEL_E.P."><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:06</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=ksk&amp;action=edit&amp;redlink=1" class="new" title="ksk（页面不存在）">ksk</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，ksk&amp;fromwiki=THE_GREEN_LABEL_E.P."><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演奏</td><td class="text" colspan="2">Guitar：ksk <br>Bass：ksk</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=信仰は儚き人間の為に&amp;fromwiki=THE_GREEN_LABEL_E.P."><span></span></a></span><div class="ogmusic"><a href="./信仰は儚き人間の為に.md" class="mw-redirect" title="信仰は儚き人間の為に">信仰は儚き人間の為に</a></div><div class="source"><a href="./东方风神录_～_Mountain_of_Faith..md" class="mw-redirect" title="东方风神录 ～ Mountain of Faith.">东方风神录　～ Mountain of Faith.</a></div></td></tr></tbody></table>
-
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="ラストリモート" colspan="2" class="title">ラストリモート</td><td class="time">04:57</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="ksk（页面不存在）">ksk</a></td></tr><tr><td class="left"></td><td class="label">演奏</td><td class="text" colspan="2">Guitar：ksk <br>Bass：ksk</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./Last_Remote.md" class="mw-redirect" title="ラストリモート">ラストリモート</a></div><div class="source"><a href="./东方地灵殿.md" class="mw-redirect" title="东方地灵殿 ～ Subterranean Animism.">东方地灵殿　～ Subterranean Animism.</a></div></td></tr>
+<tr><td id="2" class="infoYD"><b>02</b></td><td id="信仰は儚き人間の為に" colspan="2" class="title">信仰は儚き人間の為に</td><td class="time">04:06</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="ksk（页面不存在）">ksk</a></td></tr><tr><td class="left"></td><td class="label">演奏</td><td class="text" colspan="2">Guitar：ksk <br>Bass：ksk</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./信仰是为了虚幻之人.md" class="mw-redirect" title="信仰は儚き人間の為に">信仰は儚き人間の為に</a></div><div class="source"><a href="./东方风神录.md" class="mw-redirect" title="东方风神录 ～ Mountain of Faith.">东方风神录　～ Mountain of Faith.</a></div></td></tr></tbody></table>
 
 
 ## 评论
-
-
-
 
 ---
 

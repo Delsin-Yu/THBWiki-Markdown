@@ -1,6 +1,6 @@
 # 文件:変なTシャツオブザイヤー封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\53\ns6%3A%E5%A4%89%E3%81%AAT%E3%82%B7%E3%83%A3%E3%83%84%E3%82%AA%E3%83%96%E3%82%B6%E3%82%A4%E3%83%A4%E3%83%BC%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\53\ns6%3A%E5%A4%89%E3%81%AAT%E3%82%B7%E3%83%A3%E3%83%84%E3%82%AA%E3%83%96%E3%82%B6%E3%82%A4%E3%83%A4%E3%83%BC%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 豆猫の隙間
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [変なTシャツオブザイヤー](./変なTシャツオブザイヤー.md)  
-该封面包含的角色：- [橙](./橙.md)
-
-
-
+- [変なTシャツオブザイヤー](./変なTシャツオブザイヤー.md)该封面包含的角色：
+- [橙](./橙.md)
 
 
 ---

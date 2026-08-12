@@ -1,12 +1,8 @@
 # 文件:THBWiki-LOGO-本居小铃.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d3\ns6%3ATHBWiki-LOGO-%E6%9C%AC%E5%B1%85%E5%B0%8F%E9%93%83%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d3\ns6%3ATHBWiki-LOGO-%E6%9C%AC%E5%B1%85%E5%B0%8F%E9%93%83%2Epng.html -->
 
 THBWiki | Wiki词条分类用图
-
-
-
-
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:Alluvial_Cometlogo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\be\ns6%3AAlluvial_Cometlogo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\be\ns6%3AAlluvial_Cometlogo%2Epng.html -->
 
 Alluvial_Comet | 社团LOGO
-
-
-
-
 
 
 ---

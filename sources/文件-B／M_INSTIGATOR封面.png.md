@@ -1,6 +1,6 @@
 # 文件:B／M_INSTIGATOR封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9f\ns6%3AB%EF%BC%8FM_INSTIGATOR%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9f\ns6%3AB%EF%BC%8FM_INSTIGATOR%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Rolling_Contact | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Rolling_Contact | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [B／M INSTIGATOR](./B／M_INSTIGATOR.md)  
-该封面包含的角色：- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
-
-
-
+- [B／M INSTIGATOR](./B／M_INSTIGATOR.md)该封面包含的角色：
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
 
 
 ---

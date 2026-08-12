@@ -1,12 +1,8 @@
 # 文件:THD2替身人偶.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a3\ns6%3ATHD2%E6%9B%BF%E8%BA%AB%E4%BA%BA%E5%81%B6%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a3\ns6%3ATHD2%E6%9B%BF%E8%BA%AB%E4%BA%BA%E5%81%B6%2Epng.html -->
 
 THD2
-
-
-
-
 
 
 ---

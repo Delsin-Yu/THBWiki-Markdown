@@ -1,12 +1,8 @@
 # 文件:Siestail_logo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0e\ns6%3ASiestail_logo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0e\ns6%3ASiestail_logo%2Epng.html -->
 
 Siestail | 社团LOGO
-
-
-
-
 
 
 ---

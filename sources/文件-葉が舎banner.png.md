@@ -1,14 +1,11 @@
 # 文件:葉が舎banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0a\ns6%3A%E8%91%89%E3%81%8C%E8%88%8Ebanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0a\ns6%3A%E8%91%89%E3%81%8C%E8%88%8Ebanner%2Epng.html -->
 
 社团LOGO | 葉が舎
 
 
 ## 摘要
-
-
-
 
 ---
 

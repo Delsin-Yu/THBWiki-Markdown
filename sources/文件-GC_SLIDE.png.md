@@ -1,12 +1,8 @@
 # 文件:GC_SLIDE.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e6\ns6%3AGC_SLIDE%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e6\ns6%3AGC_SLIDE%2Epng.html -->
 
 GROOVE_COASTER | 太东
-
-
-
-
 
 
 ---

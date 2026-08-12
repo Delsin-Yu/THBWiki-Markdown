@@ -1,6 +1,6 @@
 # 文件:chipion×発熱巫女～ずコラボリミックスCD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d6\ns6%3Achipion%C3%97%E7%99%BA%E7%86%B1%E5%B7%AB%E5%A5%B3%EF%BD%9E%E3%81%9A%E3%82%B3%E3%83%A9%E3%83%9C%E3%83%AA%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d6\ns6%3Achipion%C3%97%E7%99%BA%E7%86%B1%E5%B7%AB%E5%A5%B3%EF%BD%9E%E3%81%9A%E3%82%B3%E3%83%A9%E3%83%9C%E3%83%AA%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 chipion | 专辑封面 | 封面图片 | 発熱巫女～ず
 
@@ -8,11 +8,8 @@ chipion | 专辑封面 | 封面图片 | 発熱巫女～ず
 使用了本文件作封面图片的作品：
   
 
-- [chipion×発熱巫女～ずコラボリミックスCD](./chipion×発熱巫女～ずコラボリミックスCD.md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)
-
-
-
+- [chipion×発熱巫女～ずコラボリミックスCD](./chipion×発熱巫女～ずコラボリミックスCD.md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
 
 
 ---

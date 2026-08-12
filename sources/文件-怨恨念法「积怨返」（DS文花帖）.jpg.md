@@ -1,12 +1,8 @@
 # 文件:怨恨念法「积怨返」（DS文花帖）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f2\ns6%3A%E6%80%A8%E6%81%A8%E5%BF%B5%E6%B3%95%E3%80%8C%E7%A7%AF%E6%80%A8%E8%BF%94%E3%80%8D%EF%BC%88DS%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f2\ns6%3A%E6%80%A8%E6%81%A8%E5%BF%B5%E6%B3%95%E3%80%8C%E7%A7%AF%E6%80%A8%E8%BF%94%E3%80%8D%EF%BC%88DS%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Ejpg.html -->
 
 东方文花帖DS | 敌机符卡 | 水桥帕露西
-
-
-
-
 
 
 ---

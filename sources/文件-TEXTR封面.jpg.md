@@ -1,6 +1,6 @@
 # 文件:TEXTR封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\29\ns6%3ATEXTR%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\29\ns6%3ATEXTR%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Asomosphere | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@ Asomosphere | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [TEXTR](./TEXTR.md)  
-该封面包含的角色：- [封兽鵺](./封兽鵺.md)
+- [TEXTR](./TEXTR.md)该封面包含的角色：
+- [封兽鵺](./封兽鵺.md)
 
   
-源地址：[direct image link (original size)](https://booth.pximg.net/19cbb0cc-a25f-46d9-ac2a-6456e9be4763/i/4033845/41867137-3f9a-44ef-b879-cb768f83e95f.jpg), [source page (circle Booth, DL version)](https://asomosphere.booth.pm/items/4033845)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://booth.pximg.net/19cbb0cc-a25f-46d9-ac2a-6456e9be4763/i/4033845/41867137-3f9a-44ef-b879-cb768f83e95f.jpg), [source page (circle Booth, DL version)](https://asomosphere.booth.pm/items/4033845)  
 
 ---
 

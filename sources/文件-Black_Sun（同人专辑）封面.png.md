@@ -1,6 +1,6 @@
 # 文件:Black_Sun（同人专辑）封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bb\ns6%3ABlack_Sun%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bb\ns6%3ABlack_Sun%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 トマト組 | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Black Sun（同人专辑）](./Black_Sun（同人专辑）.md)  
-该封面包含的角色：- [灵乌路空](./灵乌路空.md)
-
-
-
+- [Black Sun（同人专辑）](./Black_Sun（同人专辑）.md)该封面包含的角色：
+- [灵乌路空](./灵乌路空.md)
 
 
 ---

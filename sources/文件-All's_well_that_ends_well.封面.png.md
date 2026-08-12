@@ -1,6 +1,6 @@
 # 文件:All's_well_that_ends_well.封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d7\ns6%3AAll%27s_well_that_ends_well%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d7\ns6%3AAll%27s_well_that_ends_well%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 吊るし処 | 封面图片
 
@@ -8,11 +8,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [All's well that ends well.](./All's_well_that_ends_well..md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)- [琪斯美](./琪斯美.md)- [秋静叶](./秋静叶.md)
-
-
-
+- [All's well that ends well.](./All's_well_that_ends_well..md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
+- [琪斯美](./琪斯美.md)
+- [秋静叶](./秋静叶.md)
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:Ortho-Parabanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c7\ns6%3AOrtho-Parabanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c7\ns6%3AOrtho-Parabanner%2Egif.html -->
 
 Ortho-Para | 社团LOGO
-
-
-
-
 
 
 ---

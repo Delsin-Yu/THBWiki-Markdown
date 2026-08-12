@@ -1,16 +1,12 @@
 # 模板:HP
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\f\fa\ns10%3AHP.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\f\fa\ns10%3AHP.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:遗落珊石海_~_Forgotten_Marine-vita_Conunity封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\63\ns6%3A%E9%81%97%E8%90%BD%E7%8F%8A%E7%9F%B3%E6%B5%B7_%7E_Forgotten_Marine-vita_Conunity%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\63\ns6%3A%E9%81%97%E8%90%BD%E7%8F%8A%E7%9F%B3%E6%B5%B7_%7E_Forgotten_Marine-vita_Conunity%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 梦现彼岸结界社
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [遗落珊石海 ~ Forgotten Marine-vita Conunity](./遗落珊石海_~_Forgotten_Marine-vita_Conunity.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [遗落珊石海 ~ Forgotten Marine-vita Conunity](./遗落珊石海_~_Forgotten_Marine-vita_Conunity.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

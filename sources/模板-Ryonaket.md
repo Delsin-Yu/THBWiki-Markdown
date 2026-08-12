@@ -1,16 +1,12 @@
 # 模板:Ryonaket
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\b\b2\ns10%3ARyonaket.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\b\b2\ns10%3ARyonaket.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

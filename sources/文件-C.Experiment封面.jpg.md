@@ -1,6 +1,6 @@
 # 文件:C.Experiment封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f4\ns6%3AC%2EExperiment%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f4\ns6%3AC%2EExperiment%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ALADDIN | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ ALADDIN | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [C.Experiment](./C.Experiment.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [C.Experiment](./C.Experiment.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

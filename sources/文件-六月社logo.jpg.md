@@ -1,12 +1,8 @@
 # 文件:六月社logo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b1\ns6%3A%E5%85%AD%E6%9C%88%E7%A4%BElogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b1\ns6%3A%E5%85%AD%E6%9C%88%E7%A4%BElogo%2Ejpg.html -->
 
 六月社
-
-
-
-
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:StarXbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b6\ns6%3AStarXbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b6\ns6%3AStarXbanner%2Epng.html -->
 
 东方幕华祭制作组 | 社团LOGO
-
-
-
-
 
 
 ---

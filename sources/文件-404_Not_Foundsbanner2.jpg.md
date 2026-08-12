@@ -1,12 +1,8 @@
 # 文件:404_Not_Foundsbanner2.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\98\ns6%3A404_Not_Foundsbanner2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\98\ns6%3A404_Not_Foundsbanner2%2Ejpg.html -->
 
 404_Not_Founds | 社团LOGO
-
-
-
-
 
 
 ---

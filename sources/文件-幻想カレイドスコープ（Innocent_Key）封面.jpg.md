@@ -1,6 +1,6 @@
 # 文件:幻想カレイドスコープ（Innocent_Key）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e4\ns6%3A%E5%B9%BB%E6%83%B3%E3%82%AB%E3%83%AC%E3%82%A4%E3%83%89%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%97%EF%BC%88Innocent_Key%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e4\ns6%3A%E5%B9%BB%E6%83%B3%E3%82%AB%E3%83%AC%E3%82%A4%E3%83%89%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%97%EF%BC%88Innocent_Key%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Innocent_Key | 专辑封面 | 封面图片
 
@@ -8,11 +8,13 @@ Innocent_Key | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [幻想カレイドスコープ（Innocent Key）](./幻想カレイドスコープ（Innocent_Key）.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)- [博丽灵梦](./博丽灵梦.md)- 十六夜咲夜 (未找到链接)- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [西行寺幽幽子](./西行寺幽幽子.md)- [东风谷早苗](./东风谷早苗.md)
-
-
-
+- [幻想カレイドスコープ（Innocent Key）](./幻想カレイドスコープ（Innocent_Key）.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
+- [博丽灵梦](./博丽灵梦.md)
+- [十六夜咲夜](./十六夜咲夜.md)
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [西行寺幽幽子](./西行寺幽幽子.md)
+- [东风谷早苗](./东风谷早苗.md)
 
 
 ---

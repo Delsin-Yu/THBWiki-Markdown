@@ -1,6 +1,6 @@
 # 文件:In_The_Court_Of_The_Scarlet_Devil封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\da\ns6%3AIn_The_Court_Of_The_Scarlet_Devil%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\da\ns6%3AIn_The_Court_Of_The_Scarlet_Devil%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 QUINTET | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ QUINTET | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [In The Court Of The Scarlet Devil](./In_The_Court_Of_The_Scarlet_Devil.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [In The Court Of The Scarlet Devil](./In_The_Court_Of_The_Scarlet_Devil.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
   
-源地址: [[1]](http://lostcollection.net/img/1K/qmcd-0001.png)
-  
-
-
-
-
+源地址: [\[1\]](http://lostcollection.net/img/1K/qmcd-0001.png)  
 
 ---
 

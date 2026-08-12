@@ -1,6 +1,6 @@
 # 文件:現世の彼方／Bon_courage!!封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\29\ns6%3A%E7%8F%BE%E4%B8%96%E3%81%AE%E5%BD%BC%E6%96%B9%EF%BC%8FBon_courage%21%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\29\ns6%3A%E7%8F%BE%E4%B8%96%E3%81%AE%E5%BD%BC%E6%96%B9%EF%BC%8FBon_courage%21%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 猫大樹
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [現世の彼方／Bon courage!!](./現世の彼方／Bon_courage!!.md)  
-该封面包含的角色：- [古明地恋](./古明地恋.md)
+- [現世の彼方／Bon courage!!](./現世の彼方／Bon_courage!!.md)该封面包含的角色：
+- [古明地恋](./古明地恋.md)
 
   
-源地址：[[1]](https://cdn.melonbooks.co.jp/user_data/packages/resize_image.php?image=213001020890.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://cdn.melonbooks.co.jp/user_data/packages/resize_image.php?image=213001020890.jpg)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:FOUR_SEASON_GIRLS封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9a\ns6%3AFOUR_SEASON_GIRLS%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9a\ns6%3AFOUR_SEASON_GIRLS%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ちょこふぁん | 同人志封面 | 封面图片
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [FOUR SEASON GIRLS](./FOUR_SEASON_GIRLS.md)  
-该封面包含的角色：- [尔子田里乃](./尔子田里乃.md)- [丁礼田舞](./丁礼田舞.md)
-
-
-
+- [FOUR SEASON GIRLS](./FOUR_SEASON_GIRLS.md)该封面包含的角色：
+- [尔子田里乃](./尔子田里乃.md)
+- [丁礼田舞](./丁礼田舞.md)
 
 
 ---

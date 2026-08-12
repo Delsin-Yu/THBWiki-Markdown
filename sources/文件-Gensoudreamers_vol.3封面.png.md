@@ -1,6 +1,6 @@
 # 文件:Gensoudreamers_vol.3封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\97\ns6%3AGensoudreamers_vol%2E3%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\97\ns6%3AGensoudreamers_vol%2E3%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Evariaworks | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@ Evariaworks | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Gensoudreamers vol.3](./Gensoudreamers_vol.3.md)  
-该封面包含的角色：- [河城荷取](./河城荷取.md)
+- [Gensoudreamers vol.3](./Gensoudreamers_vol.3.md)该封面包含的角色：
+- [河城荷取](./河城荷取.md)
 
   
-源地址：[图片链接](https://f4.bcbits.com/img/a1626609313_0.jpg) [Bandcamp](https://evariaworks.bandcamp.com/album/gensoudreamers-vol-3)
-  
-
-
-
-
+源地址：[图片链接](https://f4.bcbits.com/img/a1626609313_0.jpg) [Bandcamp](https://evariaworks.bandcamp.com/album/gensoudreamers-vol-3)  
 
 ---
 

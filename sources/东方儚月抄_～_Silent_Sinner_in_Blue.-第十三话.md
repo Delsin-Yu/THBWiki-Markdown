@@ -1,16 +1,10 @@
 # 东方儚月抄_～_Silent_Sinner_in_Blue./第十三话
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\a\a3\ns0%3A%E4%B8%9C%E6%96%B9%E5%84%9A%E6%9C%88%E6%8A%84_%EF%BD%9E_Silent_Sinner_in_Blue%2E%2F%E7%AC%AC%E5%8D%81%E4%B8%89%E8%AF%9D.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\a\a3\ns0%3A%E4%B8%9C%E6%96%B9%E5%84%9A%E6%9C%88%E6%8A%84_%EF%BD%9E_Silent_Sinner_in_Blue%2E%2F%E7%AC%AC%E5%8D%81%E4%B8%89%E8%AF%9D.html -->
 
 东方儚月抄_～_Silent_Sinner_in_Blue. | 使用了翻译表的页面 | 待完成页面
 
-  
-  
-
-  
-
 <center>
-
 <table>
 <tbody><tr>
 <td class="mbox-image"><div style="width: 52px;">
@@ -19,27 +13,24 @@
 </tr>
 </tbody></table>
 
-
-</center>
-<center>
-
+</center><center>
 <table>
 <tbody><tr>
-<td>&lt;
+<td><
 </td>
-<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./东方儚月抄_～_Silent_Sinner_in_Blue.-第十二话.md" title="东方儚月抄 ～ Silent Sinner in Blue./第十二话">第十二话</a>&#160;
+<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./东方儚月抄_～_Silent_Sinner_in_Blue.-第十二话.md" title="东方儚月抄 ～ Silent Sinner in Blue./第十二话">第十二话</a> 
 </td>
-<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="./东方儚月抄_～_Silent_Sinner_in_Blue..md" title="东方儚月抄 ～ Silent Sinner in Blue.">东方儚月抄</a>&#160;
+<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;"> <a href="./东方儚月抄_～_Silent_Sinner_in_Blue..md" title="东方儚月抄 ～ Silent Sinner in Blue.">东方儚月抄</a> 
 </td>
-<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left">&#160;<a href="./东方儚月抄_～_Silent_Sinner_in_Blue.-第十四话.md" title="东方儚月抄 ～ Silent Sinner in Blue./第十四话">第十四话</a>
+<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left"> <a href="./东方儚月抄_～_Silent_Sinner_in_Blue.-第十四话.md" title="东方儚月抄 ～ Silent Sinner in Blue./第十四话">第十四话</a>
 </td>
-<td>&gt;
+<td>>
 </td></tr></tbody></table>
 
   
 </center>
-- 本词条内容为官方漫画 **东方儚月抄 ～ Silent Sinner in Blue.** 的剧情对话文字版。
-- 观看在线漫画请点击[这里](https://bbs.nyasama.com/forum.php?mod=viewthread&amp;tid=1166285)。
+- 本词条内容为官方漫画**东方儚月抄 ～ Silent Sinner in Blue.**的剧情对话文字版。
+- 观看在线漫画请点击[这里](https://bbs.nyasama.com/forum.php?mod=viewthread&tid=1166285)。
 
 
 ## P1
@@ -47,40 +38,23 @@
 <table><tbody><tr class="tt-header" id="P1-1" data-pos="&#91;&quot;P1&quot;,1&#93;"><td id="" class="tt-h" lang="zh"><div class="poem"></div></td><td class="tt-ja" lang="ja"><div class="poem"><big><ruby lang="ja"><rb>東</rb><rp> (</rp><rt>とう</rt><rp>) </rp></ruby><ruby lang="ja"><rb>方</rb><rp> (</rp><rt>ほう</rt><rp>) </rp></ruby><ruby lang="ja"><rb>儚</rb><rp> (</rp><rt>ぼう</rt><rp>) </rp></ruby><ruby lang="ja"><rb>月</rb><rp> (</rp><rt>げつ</rt><rp>) </rp></ruby><ruby lang="ja"><rb>抄</rb><rp> (</rp><rt>しょう</rt><rp>) </rp></ruby></big><br>Silent Sinner in Blue.</div></td><td class="tt-zh" lang="zh"><div class="poem"><big>东方儚月抄</big><br>Silent Sinner in Blue.</div></td></tr><tr class="tt-status-header" id="P1-2" data-pos="&#91;&quot;P1&quot;,2&#93;"><td class="tt-s" lang="zh"><div class="poem"></div></td><td colspan="2" class="tt-status" lang="zh"><div class="poem">原作：ZUN　漫画：秋☆枝</div></td></tr><tr class="tt-header" id="P1-3" data-pos="&#91;&quot;P1&quot;,3&#93;"><td id="" class="tt-h" lang="zh"><div class="poem"></div></td><td class="tt-ja" lang="ja"><div class="poem">第十三話『月面の美しさ』</div></td><td class="tt-zh" lang="zh"><div class="poem">第十三话『月面之美』</div></td></tr></tbody></table>
 
 
-
 ## P2
-
-  
-  
-
-  
-
 <center>
-
 <table>
 <tbody><tr>
-<td>&lt;
+<td><
 </td>
-<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./东方儚月抄_～_Silent_Sinner_in_Blue.-第十二话.md" title="东方儚月抄 ～ Silent Sinner in Blue./第十二话">第十二话</a>&#160;
+<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./东方儚月抄_～_Silent_Sinner_in_Blue.-第十二话.md" title="东方儚月抄 ～ Silent Sinner in Blue./第十二话">第十二话</a> 
 </td>
-<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="./东方儚月抄_～_Silent_Sinner_in_Blue..md" title="东方儚月抄 ～ Silent Sinner in Blue.">东方儚月抄</a>&#160;
+<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;"> <a href="./东方儚月抄_～_Silent_Sinner_in_Blue..md" title="东方儚月抄 ～ Silent Sinner in Blue.">东方儚月抄</a> 
 </td>
-<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left">&#160;<a href="./东方儚月抄_～_Silent_Sinner_in_Blue.-第十四话.md" title="东方儚月抄 ～ Silent Sinner in Blue./第十四话">第十四话</a>
+<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left"> <a href="./东方儚月抄_～_Silent_Sinner_in_Blue.-第十四话.md" title="东方儚月抄 ～ Silent Sinner in Blue./第十四话">第十四话</a>
 </td>
-<td>&gt;
+<td>>
 </td></tr></tbody></table>
 
   
 </center>
-  
-  
-
-  
-
-
-
-
-
 ---
 
 此文档由 [THBWiki-Markdown-Builder](https://github.com/Delsin-Yu/THBWiki-Markdown-Builder) 构建。

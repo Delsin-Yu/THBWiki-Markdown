@@ -1,12 +1,8 @@
 # 文件:暁Records_banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4c\ns6%3A%E6%9A%81Records_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4c\ns6%3A%E6%9A%81Records_banner%2Ejpg.html -->
 
 暁Records | 社团LOGO
-
-
-
-
 
 
 ---

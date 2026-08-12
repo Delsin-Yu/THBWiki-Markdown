@@ -1,16 +1,11 @@
 # 文件:RoundLoudnesslogo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\57\ns6%3ARoundLoudnesslogo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\57\ns6%3ARoundLoudnesslogo%2Epng.html -->
 
 RoundLoudness | 社团LOGO
 
   
-源地址：[[1]](https://cdn.amebaowndme.com/madrid-prd/madrid-web/images/sites/550353/4263be256e60a7ef183dbe6be9a8f1dc_c18e3da423acb42e5a9b81ab01255e01.png)
-  
-
-
-
-
+源地址：[\[1\]](https://cdn.amebaowndme.com/madrid-prd/madrid-web/images/sites/550353/4263be256e60a7ef183dbe6be9a8f1dc_c18e3da423acb42e5a9b81ab01255e01.png)  
 
 ---
 

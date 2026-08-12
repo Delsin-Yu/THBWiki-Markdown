@@ -1,6 +1,6 @@
 # 文件:Twilite_Tone封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b4\ns6%3ATwilite_Tone%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b4\ns6%3ATwilite_Tone%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Wriggle_Nightbug | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Wriggle_Nightbug | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Twilite Tone](./Twilite_Tone.md)  
-该封面包含的角色：- [莉格露·奈特巴格](./莉格露·奈特巴格.md)
-
-
-
+- [Twilite Tone](./Twilite_Tone.md)该封面包含的角色：
+- [莉格露·奈特巴格](./莉格露·奈特巴格.md)
 
 
 ---

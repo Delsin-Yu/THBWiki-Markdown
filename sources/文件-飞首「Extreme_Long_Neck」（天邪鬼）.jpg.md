@@ -1,12 +1,8 @@
 # 文件:飞首「Extreme_Long_Neck」（天邪鬼）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\29\ns6%3A%E9%A3%9E%E9%A6%96%E3%80%8CExtreme_Long_Neck%E3%80%8D%EF%BC%88%E5%A4%A9%E9%82%AA%E9%AC%BC%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\29\ns6%3A%E9%A3%9E%E9%A6%96%E3%80%8CExtreme_Long_Neck%E3%80%8D%EF%BC%88%E5%A4%A9%E9%82%AA%E9%AC%BC%EF%BC%89%2Ejpg.html -->
 
 弹幕天邪鬼 | 敌机符卡 | 赤蛮奇
-
-
-
-
 
 
 ---

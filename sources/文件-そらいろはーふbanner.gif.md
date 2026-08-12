@@ -1,18 +1,13 @@
 # 文件:そらいろはーふbanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7a\ns6%3A%E3%81%9D%E3%82%89%E3%81%84%E3%82%8D%E3%81%AF%E3%83%BC%E3%81%B5banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7a\ns6%3A%E3%81%9D%E3%82%89%E3%81%84%E3%82%8D%E3%81%AF%E3%83%BC%E3%81%B5banner%2Egif.html -->
 
 そらいろはーふ | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[direct image link](http://schalf.web.fc2.com/th/banner.gif), [source page](http://schalf.web.fc2.com/about.html)
-  
-
-
-
-
+源地址：[direct image link](http://schalf.web.fc2.com/th/banner.gif), [source page](http://schalf.web.fc2.com/about.html)  
 
 ---
 

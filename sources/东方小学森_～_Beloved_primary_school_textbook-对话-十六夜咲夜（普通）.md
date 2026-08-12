@@ -1,6 +1,6 @@
 # 东方小学森_～_Beloved_primary_school_textbook/对话/十六夜咲夜（普通）
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\63\ns0%3A%E4%B8%9C%E6%96%B9%E5%B0%8F%E5%AD%A6%E6%A3%AE_%EF%BD%9E_Beloved_primary_school_textbook%2F%E5%AF%B9%E8%AF%9D%2F%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C%EF%BC%88%E6%99%AE%E9%80%9A%EF%BC%89.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\63\ns0%3A%E4%B8%9C%E6%96%B9%E5%B0%8F%E5%AD%A6%E6%A3%AE_%EF%BD%9E_Beloved_primary_school_textbook%2F%E5%AF%B9%E8%AF%9D%2F%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C%EF%BC%88%E6%99%AE%E9%80%9A%EF%BC%89.html -->
 
 尹棱DANE
 
@@ -17,9 +17,6 @@
 - [8 Good Ending](#Good_Ending)
 - [9 Normal Ending](#Normal_Ending)
 - [10 Bad Ending](#Bad_Ending)
-
-
-
 
 
 ## Stage 1
@@ -231,7 +228,6 @@
 <p>哦？小厂？
 </p>
 </td></tr></tbody></table>
-
 
 
 ## Stage 2
@@ -522,7 +518,6 @@
 </td></tr></tbody></table>
 
 
-
 ## Stage 3
 
 <table>
@@ -798,7 +793,6 @@
 <p>小学森吗……好奇怪的名字……
 </p>
 </td></tr></tbody></table>
-
 
 
 ## Stage 4
@@ -1089,7 +1083,6 @@
 </td></tr></tbody></table>
 
 
-
 ## Stage 5
 
 <table>
@@ -1365,7 +1358,6 @@
 <p>这样一来，就能找到了吧。
 </p>
 </td></tr></tbody></table>
-
 
 
 ## Stage 6
@@ -1687,7 +1679,7 @@
 <td>
 </td>
 <th colspan="2">
-<p><a href="/%E4%B8%9C%E6%96%B9%E5%B0%8F%E5%AD%A6%E6%A3%AE_%EF%BD%9E_Beloved_primary_school_textbook/%E5%AF%B9%E8%AF%9D/%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C%EF%BC%88%E6%99%AE%E9%80%9A%EF%BC%89#True_Ending" title="东方小学森 ～ Beloved primary school textbook/对话/十六夜咲夜（普通）">True Ending</a>
+<p><a href="./东方小学森_～_Beloved_primary_school_textbook-对话-十六夜咲夜（普通）.md#True_Ending" title="东方小学森 ～ Beloved primary school textbook/对话/十六夜咲夜（普通）">True Ending</a>
 </p>
 </th></tr>
 <tr>
@@ -1701,7 +1693,7 @@
 <td>
 </td>
 <th colspan="2">
-<p><a href="/%E4%B8%9C%E6%96%B9%E5%B0%8F%E5%AD%A6%E6%A3%AE_%EF%BD%9E_Beloved_primary_school_textbook/%E5%AF%B9%E8%AF%9D/%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C%EF%BC%88%E6%99%AE%E9%80%9A%EF%BC%89#Good_Ending" title="东方小学森 ～ Beloved primary school textbook/对话/十六夜咲夜（普通）">Good Ending</a>
+<p><a href="./东方小学森_～_Beloved_primary_school_textbook-对话-十六夜咲夜（普通）.md#Good_Ending" title="东方小学森 ～ Beloved primary school textbook/对话/十六夜咲夜（普通）">Good Ending</a>
 </p>
 </th></tr>
 <tr>
@@ -1715,7 +1707,7 @@
 <td>
 </td>
 <th colspan="2">
-<p><a href="/%E4%B8%9C%E6%96%B9%E5%B0%8F%E5%AD%A6%E6%A3%AE_%EF%BD%9E_Beloved_primary_school_textbook/%E5%AF%B9%E8%AF%9D/%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C%EF%BC%88%E6%99%AE%E9%80%9A%EF%BC%89#Normal_Ending" title="东方小学森 ～ Beloved primary school textbook/对话/十六夜咲夜（普通）">Normal Ending</a>
+<p><a href="./东方小学森_～_Beloved_primary_school_textbook-对话-十六夜咲夜（普通）.md#Normal_Ending" title="东方小学森 ～ Beloved primary school textbook/对话/十六夜咲夜（普通）">Normal Ending</a>
 </p>
 </th></tr>
 <tr>
@@ -1729,16 +1721,14 @@
 <td>
 </td>
 <th colspan="2">
-<p><a href="/%E4%B8%9C%E6%96%B9%E5%B0%8F%E5%AD%A6%E6%A3%AE_%EF%BD%9E_Beloved_primary_school_textbook/%E5%AF%B9%E8%AF%9D/%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C%EF%BC%88%E6%99%AE%E9%80%9A%EF%BC%89#Bad_Ending" title="东方小学森 ～ Beloved primary school textbook/对话/十六夜咲夜（普通）">Bad Ending</a>
+<p><a href="./东方小学森_～_Beloved_primary_school_textbook-对话-十六夜咲夜（普通）.md#Bad_Ending" title="东方小学森 ～ Beloved primary school textbook/对话/十六夜咲夜（普通）">Bad Ending</a>
 </p>
 </th></tr></tbody></table>
 
 
-
 ## True Ending
 
-- <font color="Red"> **剧透提示:  *以下内容包含详细故事情节，请自行决定是否继续阅读* ** </font>
-
+- <font color="Red">**剧透提示: *以下内容包含详细故事情节，请自行决定是否继续阅读***</font>
 
 
 <table>
@@ -1984,13 +1974,9 @@
 </th></tr></tbody></table>
 
 
-
-
-
 ## Good Ending
 
-- <font color="Red"> **剧透提示:  *以下内容包含详细故事情节，请自行决定是否继续阅读* ** </font>
-
+- <font color="Red">**剧透提示: *以下内容包含详细故事情节，请自行决定是否继续阅读***</font>
 
 
 <table>
@@ -2225,13 +2211,9 @@
 </th></tr></tbody></table>
 
 
-
-
-
 ## Normal Ending
 
-- <font color="Red"> **剧透提示:  *以下内容包含详细故事情节，请自行决定是否继续阅读* ** </font>
-
+- <font color="Red">**剧透提示: *以下内容包含详细故事情节，请自行决定是否继续阅读***</font>
 
 
 <table>
@@ -2377,13 +2359,9 @@
 </th></tr></tbody></table>
 
 
-
-
-
 ## Bad Ending
 
-- <font color="Red"> **剧透提示:  *以下内容包含详细故事情节，请自行决定是否继续阅读* ** </font>
-
+- <font color="Red">**剧透提示: *以下内容包含详细故事情节，请自行决定是否继续阅读***</font>
 
 
 <table>
@@ -2484,13 +2462,6 @@
 <p>Ending 33 总之现在不去<br>你需要多练练提高水平。
 </p>
 </th></tr></tbody></table>
-
-
-
-
-
-
-
 
 
 ---

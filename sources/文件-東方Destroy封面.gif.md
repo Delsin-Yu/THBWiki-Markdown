@@ -1,6 +1,6 @@
 # 文件:東方Destroy封面.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\38\ns6%3A%E6%9D%B1%E6%96%B9Destroy%E5%B0%81%E9%9D%A2%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\38\ns6%3A%E6%9D%B1%E6%96%B9Destroy%E5%B0%81%E9%9D%A2%2Egif.html -->
 
 Circle_S＆G | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@ Circle_S＆G | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方Destroy](./東方Destroy.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
+- [東方Destroy](./東方Destroy.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-源地址：[[1]](https://web.archive.org/web/20130807154920im_/http://www.h2.dion.ne.jp/~sandg2/t_d.gif)
-  
-
-
-
-
+源地址：[\[1\]](https://web.archive.org/web/20130807154920im_/http://www.h2.dion.ne.jp/~sandg2/t_d.gif)  
 
 ---
 

@@ -1,12 +1,8 @@
 # 文件:THD2御守.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b8\ns6%3ATHD2%E5%BE%A1%E5%AE%88%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b8\ns6%3ATHD2%E5%BE%A1%E5%AE%88%2Epng.html -->
 
 AvalonStudioOfficial
-
-
-
-
 
 
 ---

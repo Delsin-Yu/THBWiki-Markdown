@@ -1,12 +1,8 @@
 # 文件:THD2真澄之镜.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\63\ns6%3ATHD2%E7%9C%9F%E6%BE%84%E4%B9%8B%E9%95%9C%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\63\ns6%3ATHD2%E7%9C%9F%E6%BE%84%E4%B9%8B%E9%95%9C%2Epng.html -->
 
 AvalonStudioOfficial
-
-
-
-
 
 
 ---

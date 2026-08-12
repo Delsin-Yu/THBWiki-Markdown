@@ -1,12 +1,8 @@
 # 文件:山彦「Amplify_Echo」（神灵庙）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c3\ns6%3A%E5%B1%B1%E5%BD%A6%E3%80%8CAmplify_Echo%E3%80%8D%EF%BC%88%E7%A5%9E%E7%81%B5%E5%BA%99%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c3\ns6%3A%E5%B1%B1%E5%BD%A6%E3%80%8CAmplify_Echo%E3%80%8D%EF%BC%88%E7%A5%9E%E7%81%B5%E5%BA%99%EF%BC%89%2Epng.html -->
 
 东方神灵庙 | 幽谷响子 | 敌机符卡
-
-
-
-
 
 
 ---

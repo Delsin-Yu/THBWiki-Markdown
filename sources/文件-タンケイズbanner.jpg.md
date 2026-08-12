@@ -1,16 +1,11 @@
 # 文件:タンケイズbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1a\ns6%3A%E3%82%BF%E3%83%B3%E3%82%B1%E3%82%A4%E3%82%BAbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1a\ns6%3A%E3%82%BF%E3%83%B3%E3%82%B1%E3%82%A4%E3%82%BAbanner%2Ejpg.html -->
 
 タンケイズ | 社团LOGO
 
   
-源地址：[[1]](https://blog-imgs-56-origin.fc2.com/t/k/z/tkztkz/tanbanner.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://blog-imgs-56-origin.fc2.com/t/k/z/tkztkz/tanbanner.jpg)  
 
 ---
 

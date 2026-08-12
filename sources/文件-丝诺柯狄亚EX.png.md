@@ -1,14 +1,11 @@
 # 文件:丝诺柯狄亚EX.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\52\ns6%3A%E4%B8%9D%E8%AF%BA%E6%9F%AF%E7%8B%84%E4%BA%9AEX%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\52\ns6%3A%E4%B8%9D%E8%AF%BA%E6%9F%AF%E7%8B%84%E4%BA%9AEX%2Epng.html -->
 
 丝诺柯狄亚 | 二次角色立绘 | 東方邪星章製作チーム
 
 
 ## 文件说明
-
-
-
 
 ---
 

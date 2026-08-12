@@ -1,6 +1,6 @@
 # 文件:逆弾奏結界_反逆諧謔曲_Reversal_Scherzo封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\13\ns6%3A%E9%80%86%E5%BC%BE%E5%A5%8F%E7%B5%90%E7%95%8C_%E5%8F%8D%E9%80%86%E8%AB%A7%E8%AC%94%E6%9B%B2_Reversal_Scherzo%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\13\ns6%3A%E9%80%86%E5%BC%BE%E5%A5%8F%E7%B5%90%E7%95%8C_%E5%8F%8D%E9%80%86%E8%AB%A7%E8%AC%94%E6%9B%B2_Reversal_Scherzo%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 dBu_music | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ dBu_music | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [逆弾奏結界 反逆諧謔曲 Reversal Scherzo](./逆弾奏結界_反逆諧謔曲_Reversal_Scherzo.md)  
-该封面包含的角色：- [鬼人正邪](./鬼人正邪.md)- [少名针妙丸](./少名针妙丸.md)
-
-
-
+- [逆弾奏結界 反逆諧謔曲 Reversal Scherzo](./逆弾奏結界_反逆諧謔曲_Reversal_Scherzo.md)该封面包含的角色：
+- [鬼人正邪](./鬼人正邪.md)
+- [少名针妙丸](./少名针妙丸.md)
 
 
 ---

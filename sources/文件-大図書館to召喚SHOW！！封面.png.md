@@ -1,6 +1,6 @@
 # 文件:大図書館to召喚SHOW！！封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f9\ns6%3A%E5%A4%A7%E5%9B%B3%E6%9B%B8%E9%A4%A8to%E5%8F%AC%E5%96%9ASHOW%EF%BC%81%EF%BC%81%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f9\ns6%3A%E5%A4%A7%E5%9B%B3%E6%9B%B8%E9%A4%A8to%E5%8F%AC%E5%96%9ASHOW%EF%BC%81%EF%BC%81%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 サイチル | 同人志封面 | 封面图片
 
@@ -8,11 +8,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [大図書館to召喚SHOW！！](./大図書館to召喚SHOW！！.md)  
-该封面包含的角色：- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [大図書館to召喚SHOW！！](./大図書館to召喚SHOW！！.md)该封面包含的角色：
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

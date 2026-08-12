@@ -1,6 +1,6 @@
 # 文件:The_Finale封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c8\ns6%3AThe_Finale%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c8\ns6%3AThe_Finale%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 KRASTERII | 专辑封面 | 封面图片
 
@@ -8,11 +8,10 @@ KRASTERII | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [The Finale](./The_Finale.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)- [封兽鵺](./封兽鵺.md)- [丰聪耳神子](./丰聪耳神子.md)
-
-
-
+- [The Finale](./The_Finale.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
+- [封兽鵺](./封兽鵺.md)
+- [丰聪耳神子](./丰聪耳神子.md)
 
 
 ---

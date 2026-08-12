@@ -1,6 +1,6 @@
 # 文件:Last_of_the_Year封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9c\ns6%3ALast_of_the_Year%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9c\ns6%3ALast_of_the_Year%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Babbe_Music | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Babbe_Music | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Last of the Year](./Last_of_the_Year.md)  
-该封面包含的角色：- [古明地觉](./古明地觉.md)
-
-
-
+- [Last of the Year](./Last_of_the_Year.md)该封面包含的角色：
+- [古明地觉](./古明地觉.md)
 
 
 ---

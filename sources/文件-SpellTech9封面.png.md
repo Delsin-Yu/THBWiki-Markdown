@@ -1,6 +1,6 @@
 # 文件:SpellTech9封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a3\ns6%3ASpellTech9%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a3\ns6%3ASpellTech9%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 荒御灵
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [SpellTech9](./SpellTech9.md)  
-该封面包含的角色：- [二岩猯藏](./二岩猯藏.md)
-
-
-
+- [SpellTech9](./SpellTech9.md)该封面包含的角色：
+- [二岩猯藏](./二岩猯藏.md)
 
 
 ---

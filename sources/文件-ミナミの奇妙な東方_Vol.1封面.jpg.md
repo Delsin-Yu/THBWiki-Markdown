@@ -1,6 +1,6 @@
 # 文件:ミナミの奇妙な東方_Vol.1封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b4\ns6%3A%E3%83%9F%E3%83%8A%E3%83%9F%E3%81%AE%E5%A5%87%E5%A6%99%E3%81%AA%E6%9D%B1%E6%96%B9_Vol%2E1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b4\ns6%3A%E3%83%9F%E3%83%8A%E3%83%9F%E3%81%AE%E5%A5%87%E5%A6%99%E3%81%AA%E6%9D%B1%E6%96%B9_Vol%2E1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 IOSYS | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ IOSYS | 专辑封面 | 封面图片
   
 
 - [ミナミの奇妙な東方 Vol.1](./ミナミの奇妙な東方_Vol.1.md)
-
-
-
 
 
 ---

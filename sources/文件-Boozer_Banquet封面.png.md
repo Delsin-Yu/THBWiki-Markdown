@@ -1,6 +1,6 @@
 # 文件:Boozer_Banquet封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\36\ns6%3ABoozer_Banquet%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\36\ns6%3ABoozer_Banquet%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 鍋インシュタイン
 
@@ -8,12 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [Boozer Banquet](./Boozer_Banquet.md)  
-该封面包含的角色：- [星熊勇仪](./星熊勇仪.md)源地址：[[1]](http://nabeinstein.com/rei9/img/jacket.png)
-
-
-
-
+- [Boozer Banquet](./Boozer_Banquet.md)该封面包含的角色：
+- [星熊勇仪](./星熊勇仪.md)
+源地址：[\[1\]](http://nabeinstein.com/rei9/img/jacket.png)
 
 ---
 

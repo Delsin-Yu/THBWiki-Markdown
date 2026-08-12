@@ -1,12 +1,11 @@
 # MUGEN
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\3\3c\ns0%3AMUGEN.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\3\3c\ns0%3AMUGEN.html -->
 
 MUGEN | 概念
 
 本页是说明东方Project  
- **相关概念定义** 的词条
-
+**相关概念定义**的词条
 ## 目录
 
 - [1 什么是M.U.G.E.N](#什么是M.U.G.E.N)
@@ -15,36 +14,25 @@ MUGEN | 概念
 - [4 其他信息](#其他信息)
 
 
-
-
-
 ## 什么是M.U.G.E.N
   
 M.U.G.E.N是一款由美国的Elecbyte小组使用C语言与Allegro程序库开发的免费的2D格斗游戏引擎。MUGEN在日文中意为"无限"。  
 M.U.G.E.N给予了不同系统的人物一个共有的平台。既适合AI观战，也适合手操对战。
   
 
-
 ## 主词条
-  
 <big>
-</big>  
-<big>- [术语](./MUGEN-术语.md)
+- [术语](./MUGEN-术语.md)
 - [东方马甲列表（作者检索）](./MUGEN-东方马甲列表.md)
 - [东方马甲列表（分类检索）](./MUGEN-东方马甲分类列表.md)
-</big><big></big>  
-<big></big>
-  
 
-
+</big>
 ## 使用M.U.G.E.N或相关引擎制作的东方游戏
+
 - [Touhou: Gensokyo Reloaded](./Touhou：_Gensokyo_Reloaded.md) （I.K.E.M.E.N引擎）
 
 
 ## 其他信息
-
-
-
 
 ---
 

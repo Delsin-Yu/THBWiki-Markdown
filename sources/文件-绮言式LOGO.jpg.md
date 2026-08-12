@@ -1,16 +1,12 @@
 # 文件:绮言式LOGO.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d9\ns6%3A%E7%BB%AE%E8%A8%80%E5%BC%8FLOGO%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d9\ns6%3A%E7%BB%AE%E8%A8%80%E5%BC%8FLOGO%2Ejpg.html -->
 
 社团LOGO | 绮言式
 
   
 绮言式LOGO
   
-
-
-
-
 
 ---
 

@@ -1,16 +1,12 @@
 # 模板:Mega秋叶原同人祭
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\a\a2\ns10%3AMega%E7%A7%8B%E5%8F%B6%E5%8E%9F%E5%90%8C%E4%BA%BA%E7%A5%AD.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\a\a2\ns10%3AMega%E7%A7%8B%E5%8F%B6%E5%8E%9F%E5%90%8C%E4%BA%BA%E7%A5%AD.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

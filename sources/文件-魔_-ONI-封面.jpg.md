@@ -1,6 +1,6 @@
 # 文件:魔_-ONI-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a6\ns6%3A%E9%AD%94_-ONI-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a6\ns6%3A%E9%AD%94_-ONI-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 SOUND_HOLIC | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ SOUND_HOLIC | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [魔 -ONI-](./魔_-ONI-.md)  
-该封面包含的角色：- [魅魔](./魅魔.md)- [雾雨魔理沙（旧作角色）](./雾雨魔理沙（旧作角色）.md)
-
-
-
+- [魔 -ONI-](./魔_-ONI-.md)该封面包含的角色：
+- [魅魔](./魅魔.md)
+- [雾雨魔理沙（旧作角色）](./雾雨魔理沙（旧作角色）.md)
 
 
 ---

@@ -1,18 +1,13 @@
 # 文件:ぷちとまとbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\84\ns6%3A%E3%81%B7%E3%81%A1%E3%81%A8%E3%81%BE%E3%81%A8banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\84\ns6%3A%E3%81%B7%E3%81%A1%E3%81%A8%E3%81%BE%E3%81%A8banner%2Ejpg.html -->
 
 ぷちとまと | 社团LOGO
 
 
 ## 摘要
   
-源地址：[direct image link](http://tomato.choitoippuku.com/sbana.jpg), [source page](http://tomato.choitoippuku.com/link.html)
-  
-
-
-
-
+源地址：[direct image link](http://tomato.choitoippuku.com/sbana.jpg), [source page](http://tomato.choitoippuku.com/link.html)  
 
 ---
 

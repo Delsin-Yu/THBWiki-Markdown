@@ -1,6 +1,6 @@
 # 東方千夜帖~Thousand_Night_Anamnesis./敌机符卡/绀珠传关卡符卡
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\a\af\ns0%3A%E6%9D%B1%E6%96%B9%E5%8D%83%E5%A4%9C%E5%B8%96%7EThousand_Night_Anamnesis%2E%2F%E6%95%8C%E6%9C%BA%E7%AC%A6%E5%8D%A1%2F%E7%BB%80%E7%8F%A0%E4%BC%A0%E5%85%B3%E5%8D%A1%E7%AC%A6%E5%8D%A1.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\a\af\ns0%3A%E6%9D%B1%E6%96%B9%E5%8D%83%E5%A4%9C%E5%B8%96%7EThousand_Night_Anamnesis%2E%2F%E6%95%8C%E6%9C%BA%E7%AC%A6%E5%8D%A1%2F%E7%BB%80%E7%8F%A0%E4%BC%A0%E5%85%B3%E5%8D%A1%E7%AC%A6%E5%8D%A1.html -->
 
 サラダ
 
@@ -8,7 +8,6 @@
 ## 目录
 
 - [1 绀珠传](#绀珠传)
-
   - [1.1 清兰](#清兰)
   - [1.2 铃瑚](#铃瑚)
   - [1.3 哆来咪·苏伊特](#哆来咪·苏伊特)
@@ -16,10 +15,6 @@
   - [1.5 克劳恩皮丝](#克劳恩皮丝)
   - [1.6 赫卡提亚·拉碧斯拉祖利](#赫卡提亚·拉碧斯拉祖利)
   - [1.7 纯狐](#纯狐)
-
-
-
-
 
 
 
@@ -54,7 +49,6 @@
 </td></tr></tbody></table>
 
 
-
 ### 铃瑚
 
 <table>
@@ -81,7 +75,6 @@
 <td>第一个符卡剩余的串 。 这也是一种武器。</td>
 <td>第一个符卡剩余的串 。 这看起来很疼。
 </td></tr></tbody></table>
-
 
 
 ### 哆来咪·苏伊特
@@ -119,7 +112,6 @@
 </td></tr></tbody></table>
 
 
-
 ### 稀神探女
 
 <table>
@@ -153,7 +145,6 @@
 <td>口舌之祸女神的能力。 现实或物理法则的逆转。</td>
 <td>口舌之祸女神的能力。 与正邪的第一张符卡相似。
 </td></tr></tbody></table>
-
 
 
 ### 克劳恩皮丝
@@ -198,7 +189,6 @@
 </td></tr></tbody></table>
 
 
-
 ### 赫卡提亚·拉碧斯拉祖利
 
 <table>
@@ -241,7 +231,6 @@
 </td></tr></tbody></table>
 
 
-
 ### 纯狐
 
 <table>
@@ -282,10 +271,6 @@
 <td>狂气疯狂绽放的样子。 正是因为最后一张符卡所有有压倒性的弹数</td>
 <td>狂气疯狂绽放的样子。 能收录就证明了你的实力！Congratulations!
 </td></tr></tbody></table>
-
-
-
-
 
 
 ---

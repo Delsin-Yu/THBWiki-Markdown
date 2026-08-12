@@ -1,12 +1,8 @@
 # 文件:コココソフトbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c5\ns6%3A%E3%82%B3%E3%82%B3%E3%82%B3%E3%82%BD%E3%83%95%E3%83%88banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c5\ns6%3A%E3%82%B3%E3%82%B3%E3%82%B3%E3%82%BD%E3%83%95%E3%83%88banner%2Epng.html -->
 
 コココソフト | 社团LOGO
-
-
-
-
 
 
 ---

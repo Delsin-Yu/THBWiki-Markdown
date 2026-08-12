@@ -1,16 +1,12 @@
 # 模板:GDF
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\7\76\ns10%3AGDF.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\7\76\ns10%3AGDF.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

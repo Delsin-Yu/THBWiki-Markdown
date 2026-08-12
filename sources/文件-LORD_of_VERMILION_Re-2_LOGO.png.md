@@ -1,12 +1,8 @@
 # 文件:LORD_of_VERMILION_Re-2_LOGO.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\19\ns6%3ALORD_of_VERMILION_Re-2_LOGO%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\19\ns6%3ALORD_of_VERMILION_Re-2_LOGO%2Epng.html -->
 
 LORD_of_VERMILION
-
-
-
-
 
 
 ---

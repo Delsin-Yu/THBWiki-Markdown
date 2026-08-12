@@ -1,12 +1,8 @@
 # 文件:矜羯罗（dairi绘）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d1\ns6%3A%E7%9F%9C%E7%BE%AF%E7%BD%97%EF%BC%88dairi%E7%BB%98%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d1\ns6%3A%E7%9F%9C%E7%BE%AF%E7%BD%97%EF%BC%88dairi%E7%BB%98%EF%BC%89%2Epng.html -->
 
 NooblyPerson | 二次角色立绘 | 矜羯罗（天陨梦）
-
-
-
-
 
 
 ---

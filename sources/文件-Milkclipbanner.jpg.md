@@ -1,12 +1,8 @@
 # 文件:Milkclipbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4f\ns6%3AMilkclipbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4f\ns6%3AMilkclipbanner%2Ejpg.html -->
 
 Milkclip | 社团LOGO
-
-
-
-
 
 
 ---

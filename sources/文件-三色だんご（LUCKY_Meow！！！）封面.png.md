@@ -1,6 +1,6 @@
 # 文件:三色だんご（LUCKY_Meow！！！）封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a0\ns6%3A%E4%B8%89%E8%89%B2%E3%81%A0%E3%82%93%E3%81%94%EF%BC%88LUCKY_Meow%EF%BC%81%EF%BC%81%EF%BC%81%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a0\ns6%3A%E4%B8%89%E8%89%B2%E3%81%A0%E3%82%93%E3%81%94%EF%BC%88LUCKY_Meow%EF%BC%81%EF%BC%81%EF%BC%81%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 kei_music | みずいろシャボン | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ kei_music | みずいろシャボン | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [三色だんご（LUCKY Meow!!!）](./三色だんご（LUCKY_Meow!!!）.md)  
-该封面包含的角色：- [豪德寺三花](./豪德寺三花.md)
-
-
-
+- [三色だんご（LUCKY Meow!!!）](./三色だんご（LUCKY_Meow!!!）.md)该封面包含的角色：
+- [豪德寺三花](./豪德寺三花.md)
 
 
 ---

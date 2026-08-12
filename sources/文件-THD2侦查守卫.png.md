@@ -1,12 +1,8 @@
 # 文件:THD2侦查守卫.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\08\ns6%3ATHD2%E4%BE%A6%E6%9F%A5%E5%AE%88%E5%8D%AB%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\08\ns6%3ATHD2%E4%BE%A6%E6%9F%A5%E5%AE%88%E5%8D%AB%2Epng.html -->
 
 THD2
-
-
-
-
 
 
 ---

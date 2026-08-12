@@ -1,6 +1,6 @@
 # 文件:東方の境界_~eastern_border~封面.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e1\ns6%3A%E6%9D%B1%E6%96%B9%E3%81%AE%E5%A2%83%E7%95%8C_%7Eeastern_border%7E%E5%B0%81%E9%9D%A2%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e1\ns6%3A%E6%9D%B1%E6%96%B9%E3%81%AE%E5%A2%83%E7%95%8C_%7Eeastern_border%7E%E5%B0%81%E9%9D%A2%2Egif.html -->
 
 ABOD | 同人志封面 | 封面图片
 
@@ -10,16 +10,13 @@ ABOD | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方の境界 ~eastern border~](./東方の境界_~eastern_border~.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)- 両儀式 (未找到链接)- キョン子 (未找到链接)
+- [東方の境界 ~eastern border~](./東方の境界_~eastern_border~.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
+- 両儀式 (未找到链接)
+- キョン子 (未找到链接)
 
   
-[Pixiv artwork ID: 1777637 (original size)](https://www.pixiv.net/artworks/1777637)
-  
-
-
-
-
+[Pixiv artwork ID: 1777637 (original size)](https://www.pixiv.net/artworks/1777637)  
 
 ---
 

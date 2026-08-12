@@ -1,6 +1,6 @@
 # 文件:Fall_Colors封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9c\ns6%3AFall_Colors%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9c\ns6%3AFall_Colors%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 hajime-saku- | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ hajime-saku- | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Fall Colors](./Fall_Colors.md)  
-该封面包含的角色：- [犬走椛](./犬走椛.md)
+- [Fall Colors](./Fall_Colors.md)该封面包含的角色：
+- [犬走椛](./犬走椛.md)
 
   
-源地址：[[1]](http://static.tumblr.com/6ec87784a9c396d9943b86688379d5ad/c0hi7o7/qHUnd9l66/tumblr_static_68egruzkawco4g0804wc48k4g.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://static.tumblr.com/6ec87784a9c396d9943b86688379d5ad/c0hi7o7/qHUnd9l66/tumblr_static_68egruzkawco4g0804wc48k4g.jpg)  
 
 ---
 

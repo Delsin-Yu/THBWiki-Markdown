@@ -1,12 +1,8 @@
 # 文件:Circle_WANTANbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c8\ns6%3ACircle_WANTANbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c8\ns6%3ACircle_WANTANbanner%2Epng.html -->
 
 Circle_WANTAN | 社团LOGO
-
-
-
-
 
 
 ---

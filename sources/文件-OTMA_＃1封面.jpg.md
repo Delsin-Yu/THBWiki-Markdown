@@ -1,6 +1,6 @@
 # 文件:OTMA_＃1封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\83\ns6%3AOTMA_%EF%BC%831%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\83\ns6%3AOTMA_%EF%BC%831%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 カゲ路 | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [OTMA ＃1](./OTMA_＃1.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [OTMA ＃1](./OTMA_＃1.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

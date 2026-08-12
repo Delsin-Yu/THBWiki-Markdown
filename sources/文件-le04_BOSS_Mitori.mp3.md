@@ -1,16 +1,12 @@
 # 文件:le04_BOSS_Mitori.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\24\ns6%3Ale04_BOSS_Mitori%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\24\ns6%3Ale04_BOSS_Mitori%2Emp3.html -->
 
 连缘Project官方音乐MP3
 
   
 连缘天影战记都线6面Boss-大天朱壬鸟主题曲
   
-
-
-
-
 
 ---
 

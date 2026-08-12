@@ -1,18 +1,13 @@
 # 文件:カレーラーメンlogo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\11\ns6%3A%E3%82%AB%E3%83%AC%E3%83%BC%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3logo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\11\ns6%3A%E3%82%AB%E3%83%AC%E3%83%BC%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3logo%2Epng.html -->
 
 カレーラーメン | 社团LOGO
 
 
 ## 摘要
   
-源地址：[direct image link (original size)](https://blog-imgs-136-origin.fc2.com/g/a/m/gamecurryramen/202103061246344bd.png), [source page (circle blog)](https://gamecurryramen.blog.fc2.com/)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://blog-imgs-136-origin.fc2.com/g/a/m/gamecurryramen/202103061246344bd.png), [source page (circle blog)](https://gamecurryramen.blog.fc2.com/)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:ADVANCE_TO_THE_DREAM封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3a\ns6%3AADVANCE_TO_THE_DREAM%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3a\ns6%3AADVANCE_TO_THE_DREAM%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Icarus'cry | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Icarus'cry | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [ADVANCE TO THE DREAM](./ADVANCE_TO_THE_DREAM.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [ADVANCE TO THE DREAM](./ADVANCE_TO_THE_DREAM.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

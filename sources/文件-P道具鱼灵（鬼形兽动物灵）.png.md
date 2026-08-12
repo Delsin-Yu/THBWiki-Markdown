@@ -1,12 +1,8 @@
 # 文件:P道具鱼灵（鬼形兽动物灵）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ea\ns6%3AP%E9%81%93%E5%85%B7%E9%B1%BC%E7%81%B5%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E5%8A%A8%E7%89%A9%E7%81%B5%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ea\ns6%3AP%E9%81%93%E5%85%B7%E9%B1%BC%E7%81%B5%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E5%8A%A8%E7%89%A9%E7%81%B5%EF%BC%89%2Epng.html -->
 
 东方鬼形兽
-
-
-
-
 
 
 ---

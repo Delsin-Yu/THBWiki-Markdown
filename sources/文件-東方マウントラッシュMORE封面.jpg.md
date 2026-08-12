@@ -1,6 +1,6 @@
 # 文件:東方マウントラッシュMORE封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\88\ns6%3A%E6%9D%B1%E6%96%B9%E3%83%9E%E3%82%A6%E3%83%B3%E3%83%88%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5MORE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\88\ns6%3A%E6%9D%B1%E6%96%B9%E3%83%9E%E3%82%A6%E3%83%B3%E3%83%88%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5MORE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 mistbell | 专辑封面 | 封面图片
 
@@ -8,16 +8,21 @@ mistbell | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方マウントラッシュMORE](./東方マウントラッシュMORE.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)- [八坂神奈子](./八坂神奈子.md)- [洩矢诹访子](./洩矢诹访子.md)- [火焰猫燐](./火焰猫燐.md)- [灵乌路空](./灵乌路空.md)- [娜兹玲](./娜兹玲.md)- [寅丸星](./寅丸星.md)- [圣白莲](./圣白莲.md)- [雾雨魔理沙](./雾雨魔理沙.md)- [神绮](./神绮.md)
+- [東方マウントラッシュMORE](./東方マウントラッシュMORE.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)
+- [八坂神奈子](./八坂神奈子.md)
+- [洩矢诹访子](./洩矢诹访子.md)
+- [火焰猫燐](./火焰猫燐.md)
+- [灵乌路空](./灵乌路空.md)
+- [娜兹玲](./娜兹玲.md)
+- [寅丸星](./寅丸星.md)
+- [圣白莲](./圣白莲.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
+- [神绮](./神绮.md)
 
   
-源地址：[direct image link](https://www.suruga-ya.jp/database/pics/game/186135384.jpg), [origin page](https://www.suruga-ya.jp/database/pics/game/186135384.jpg)
-  
-
-
-
-
+源地址：[direct image link](https://www.suruga-ya.jp/database/pics/game/186135384.jpg), [origin page](https://www.suruga-ya.jp/database/pics/game/186135384.jpg)  
 
 ---
 

@@ -1,14 +1,11 @@
 # 文件:SCoOW03_02.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\78\ns6%3ASCoOW03_02%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\78\ns6%3ASCoOW03_02%2Emp3.html -->
 
 Mist_Lake | 东方外来韦编 | 原曲MP3
 
 
 ## 文件说明
-
-
-
 
 ---
 

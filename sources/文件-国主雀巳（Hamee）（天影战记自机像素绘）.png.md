@@ -1,14 +1,11 @@
 # 文件:国主雀巳（Hamee）（天影战记自机像素绘）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d1\ns6%3A%E5%9B%BD%E4%B8%BB%E9%9B%80%E5%B7%B3%EF%BC%88Hamee%EF%BC%89%EF%BC%88%E5%A4%A9%E5%BD%B1%E6%88%98%E8%AE%B0%E8%87%AA%E6%9C%BA%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d1\ns6%3A%E5%9B%BD%E4%B8%BB%E9%9B%80%E5%B7%B3%EF%BC%88Hamee%EF%BC%89%EF%BC%88%E5%A4%A9%E5%BD%B1%E6%88%98%E8%AE%B0%E8%87%AA%E6%9C%BA%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89%2Epng.html -->
 
 トリック・ノスタルジー | 国主雀巳 | 连缘天影战记
 
 
 ## 摘要
-
-
-
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:ERRORLOG_mochiya00_TO-HO_Arrange_Album封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\86\ns6%3AERRORLOG_mochiya00_TO-HO_Arrange_Album%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\86\ns6%3AERRORLOG_mochiya00_TO-HO_Arrange_Album%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 dat_file_records | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ dat_file_records | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [ERRORLOG mochiya00 TO-HO Arrange Album](./ERRORLOG_mochiya00_TO-HO_Arrange_Album.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [ERRORLOG mochiya00 TO-HO Arrange Album](./ERRORLOG_mochiya00_TO-HO_Arrange_Album.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

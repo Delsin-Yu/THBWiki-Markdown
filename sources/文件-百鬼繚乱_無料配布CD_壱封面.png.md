@@ -1,6 +1,6 @@
 # 文件:百鬼繚乱_無料配布CD_壱封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b2\ns6%3A%E7%99%BE%E9%AC%BC%E7%B9%9A%E4%B9%B1_%E7%84%A1%E6%96%99%E9%85%8D%E5%B8%83CD_%E5%A3%B1%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b2\ns6%3A%E7%99%BE%E9%AC%BC%E7%B9%9A%E4%B9%B1_%E7%84%A1%E6%96%99%E9%85%8D%E5%B8%83CD_%E5%A3%B1%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 百鬼繚乱
 
@@ -9,9 +9,6 @@
   
 
 - [百鬼繚乱 無料配布CD 壱](./百鬼繚乱_無料配布CD_壱.md)
-
-
-
 
 
 ---

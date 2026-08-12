@@ -1,6 +1,6 @@
 # 文件:非可逆リズム_×_Environmental_Development封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fe\ns6%3A%E9%9D%9E%E5%8F%AF%E9%80%86%E3%83%AA%E3%82%BA%E3%83%A0_%C3%97_Environmental_Development%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fe\ns6%3A%E9%9D%9E%E5%8F%AF%E9%80%86%E3%83%AA%E3%82%BA%E3%83%A0_%C3%97_Environmental_Development%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Environmental_Development | 专辑封面 | 封面图片 | 非可逆リズム
 
@@ -8,11 +8,9 @@ Environmental_Development | 专辑封面 | 封面图片 | 非可逆リズム
 使用了本文件作封面图片的作品：
   
 
-- [非可逆リズム × Environmental Development](./非可逆リズム_×_Environmental_Development.md)  
-该封面包含的角色：- [风见幽香](./风见幽香.md)- [霍青娥](./霍青娥.md)
-
-
-
+- [非可逆リズム × Environmental Development](./非可逆リズム_×_Environmental_Development.md)该封面包含的角色：
+- [风见幽香](./风见幽香.md)
+- [霍青娥](./霍青娥.md)
 
 
 ---

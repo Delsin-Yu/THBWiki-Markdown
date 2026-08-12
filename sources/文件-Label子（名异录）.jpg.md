@@ -1,12 +1,8 @@
 # 文件:Label子（名异录）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2c\ns6%3ALabel%E5%AD%90%EF%BC%88%E5%90%8D%E5%BC%82%E5%BD%95%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2c\ns6%3ALabel%E5%AD%90%EF%BC%88%E5%90%8D%E5%BC%82%E5%BD%95%EF%BC%89%2Ejpg.html -->
 
 Label子（名异录） | 二次角色立绘 | 彩都神社
-
-
-
-
 
 
 ---

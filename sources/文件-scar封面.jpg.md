@@ -1,6 +1,6 @@
 # 文件:scar封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\49\ns6%3Ascar%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\49\ns6%3Ascar%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 PHOENIX_Project | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ PHOENIX_Project | 专辑封面 | 封面图片
   
 
 - [scar](./scar.md)
-
-
-
 
 
 ---

@@ -1,16 +1,12 @@
 # 文件:苹果核研究所logo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\00\ns6%3A%E8%8B%B9%E6%9E%9C%E6%A0%B8%E7%A0%94%E7%A9%B6%E6%89%80logo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\00\ns6%3A%E8%8B%B9%E6%9E%9C%E6%A0%B8%E7%A0%94%E7%A9%B6%E6%89%80logo%2Epng.html -->
 
 社团LOGO | 苹果核研究所
 
   
 苹果核研究所社团logo，尺寸1200*1200
   
-
-
-
-
 
 ---
 

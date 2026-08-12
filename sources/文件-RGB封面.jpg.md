@@ -1,6 +1,6 @@
 # 文件:RGB封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\73\ns6%3ARGB%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\73\ns6%3ARGB%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Ragathol_Enterprises | 同人志封面 | 封面图片
 
@@ -10,16 +10,14 @@ Ragathol_Enterprises | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [RGB](./RGB.md)  
-该封面包含的角色：- [蓬莱山辉夜](./蓬莱山辉夜.md)- [秋静叶](./秋静叶.md)- [秋穰子](./秋穰子.md)- [水桥帕露西](./水桥帕露西.md)
+- [RGB](./RGB.md)该封面包含的角色：
+- [蓬莱山辉夜](./蓬莱山辉夜.md)
+- [秋静叶](./秋静叶.md)
+- [秋穰子](./秋穰子.md)
+- [水桥帕露西](./水桥帕露西.md)
 
   
-[Pixiv artwork ID: 18662639 (original size)](https://www.pixiv.net/artworks/18662639)
-  
-
-
-
-
+[Pixiv artwork ID: 18662639 (original size)](https://www.pixiv.net/artworks/18662639)  
 
 ---
 

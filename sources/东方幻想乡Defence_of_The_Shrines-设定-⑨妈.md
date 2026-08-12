@@ -1,6 +1,6 @@
 # 东方幻想乡Defence_of_The_Shrines/设定/⑨妈
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\e\ed\ns0%3A%E4%B8%9C%E6%96%B9%E5%B9%BB%E6%83%B3%E4%B9%A1Defence_of_The_Shrines%2F%E8%AE%BE%E5%AE%9A%2F%E2%91%A8%E5%A6%88.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\e\ed\ns0%3A%E4%B8%9C%E6%96%B9%E5%B9%BB%E6%83%B3%E4%B9%A1Defence_of_The_Shrines%2F%E8%AE%BE%E5%AE%9A%2F%E2%91%A8%E5%A6%88.html -->
 
 东方DOTS制作组
 
@@ -11,24 +11,20 @@
 蕾蒂·霍瓦特洛克
   
   
-[](./文件-THD-Letty.jpg.md)
+<img alt="THD-Letty.jpg" src="https://upload.thwiki.cc/3/38/THD-Letty.jpg" decoding="async" loading="lazy" width="477" height="140" data-file-width="477" data-file-height="140">
   
   
-[](./文件-THD-Lettyd.jpg.md)
+<img alt="THD-Lettyd.jpg" src="https://upload.thwiki.cc/8/82/THD-Lettyd.jpg" decoding="async" loading="lazy" width="499" height="225" data-file-width="499" data-file-height="225">
   
   
-[](./文件-THD-Lettyf.jpg.md)
+<img alt="THD-Lettyf.jpg" src="https://upload.thwiki.cc/d/dd/THD-Lettyf.jpg" decoding="async" loading="lazy" width="514" height="173" data-file-width="514" data-file-height="173">
   
   
-[](./文件-THD-Lettyr.jpg.md)
+<img alt="THD-Lettyr.jpg" src="https://upload.thwiki.cc/1/13/THD-Lettyr.jpg" decoding="async" loading="lazy" width="497" height="138" data-file-width="497" data-file-height="138">
   
   
-[](./文件-THD-Lettyw.jpg.md)
+<img alt="THD-Lettyw.jpg" src="https://upload.thwiki.cc/0/0b/THD-Lettyw.jpg" decoding="async" loading="lazy" width="490" height="262" data-file-width="490" data-file-height="262">
   
-
-
-
-
 
 ---
 

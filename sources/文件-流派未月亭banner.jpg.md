@@ -1,12 +1,8 @@
 # 文件:流派未月亭banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cc\ns6%3A%E6%B5%81%E6%B4%BE%E6%9C%AA%E6%9C%88%E4%BA%ADbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cc\ns6%3A%E6%B5%81%E6%B4%BE%E6%9C%AA%E6%9C%88%E4%BA%ADbanner%2Ejpg.html -->
 
 流派未階堂 | 社团LOGO
-
-
-
-
 
 
 ---

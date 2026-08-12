@@ -1,6 +1,6 @@
 # 文件:MIND_CONNECTION封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\81\ns6%3AMIND_CONNECTION%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\81\ns6%3AMIND_CONNECTION%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 SYNC.ART'S | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ SYNC.ART'S | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [MIND CONNECTION](./MIND_CONNECTION.md)  
-该封面包含的角色：- [秦心](./秦心.md)
+- [MIND CONNECTION](./MIND_CONNECTION.md)该封面包含的角色：
+- [秦心](./秦心.md)
 
   
-源地址：[[1]](http://syncarts.jp/wp2015/wp-content/uploads/2016/08/SACD5039_jake1200.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://syncarts.jp/wp2015/wp-content/uploads/2016/08/SACD5039_jake1200.jpg)  
 
 ---
 

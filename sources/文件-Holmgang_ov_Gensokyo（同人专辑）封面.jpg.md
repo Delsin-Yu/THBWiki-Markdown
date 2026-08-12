@@ -1,6 +1,6 @@
 # 文件:Holmgang_ov_Gensokyo（同人专辑）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f1\ns6%3AHolmgang_ov_Gensokyo%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f1\ns6%3AHolmgang_ov_Gensokyo%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Holmgang_Ov_Gensokyo | 专辑封面 | 封面图片
 
@@ -8,16 +8,12 @@ Holmgang_Ov_Gensokyo | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Holmgang ov Gensokyo（同人专辑）](./Holmgang_ov_Gensokyo（同人专辑）.md)  
-该封面包含的角色：- [永江衣玖](./永江衣玖.md)- [比那名居天子](./比那名居天子.md)
+- [Holmgang ov Gensokyo（同人专辑）](./Holmgang_ov_Gensokyo（同人专辑）.md)该封面包含的角色：
+- [永江衣玖](./永江衣玖.md)
+- [比那名居天子](./比那名居天子.md)
 
   
-源地址：[direct image link](https://pbs.twimg.com/media/EMshJj9XsAAZaUZ.jpg:orig), [source tweet](https://twitter.com/ArmpitMaiden/status/1210097384144986112)
-  
-
-
-
-
+源地址：[direct image link](https://pbs.twimg.com/media/EMshJj9XsAAZaUZ.jpg:orig), [source tweet](https://twitter.com/ArmpitMaiden/status/1210097384144986112)  
 
 ---
 

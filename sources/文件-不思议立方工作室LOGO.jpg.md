@@ -1,12 +1,8 @@
 # 文件:不思议立方工作室LOGO.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\94\ns6%3A%E4%B8%8D%E6%80%9D%E8%AE%AE%E7%AB%8B%E6%96%B9%E5%B7%A5%E4%BD%9C%E5%AE%A4LOGO%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\94\ns6%3A%E4%B8%8D%E6%80%9D%E8%AE%AE%E7%AB%8B%E6%96%B9%E5%B7%A5%E4%BD%9C%E5%AE%A4LOGO%2Ejpg.html -->
 
 不思议立方工作室 | 社团LOGO
-
-
-
-
 
 
 ---

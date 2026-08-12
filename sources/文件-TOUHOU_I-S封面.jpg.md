@@ -1,6 +1,6 @@
 # 文件:TOUHOU_I-S封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\13\ns6%3ATOUHOU_I-S%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\13\ns6%3ATOUHOU_I-S%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 趣味工房にんじんわいん
 
@@ -8,11 +8,13 @@
 使用了本文件作封面图片的作品：
   
 
-- [TOUHOU I-S](./TOUHOU_I-S.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [魂魄妖梦](./魂魄妖梦.md)- [莉格露·奈特巴格](./莉格露·奈特巴格.md)- [米斯蒂娅·萝蕾拉](./米斯蒂娅·萝蕾拉.md)- [因幡帝](./因幡帝.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [TOUHOU I-S](./TOUHOU_I-S.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [魂魄妖梦](./魂魄妖梦.md)
+- [莉格露·奈特巴格](./莉格露·奈特巴格.md)
+- [米斯蒂娅·萝蕾拉](./米斯蒂娅·萝蕾拉.md)
+- [因幡帝](./因幡帝.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:自由な精神_~_To_Drink_From_Life_Itself封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8d\ns6%3A%E8%87%AA%E7%94%B1%E3%81%AA%E7%B2%BE%E7%A5%9E_%7E_To_Drink_From_Life_Itself%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8d\ns6%3A%E8%87%AA%E7%94%B1%E3%81%AA%E7%B2%BE%E7%A5%9E_%7E_To_Drink_From_Life_Itself%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Maiden's_Capriccio | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Maiden's_Capriccio | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [自由な精神 ~ To Drink From Life Itself](./自由な精神_~_To_Drink_From_Life_Itself.md)  
-该封面包含的角色：- [伊吹萃香](./伊吹萃香.md)
+- [自由な精神 ~ To Drink From Life Itself](./自由な精神_~_To_Drink_From_Life_Itself.md)该封面包含的角色：
+- [伊吹萃香](./伊吹萃香.md)
 
   
-源地址：[[1]](https://kuroblood.bandcamp.com/album/to-drink-from-life-itself-single)
-  
-
-
-
-
+源地址：[\[1\]](https://kuroblood.bandcamp.com/album/to-drink-from-life-itself-single)  
 
 ---
 

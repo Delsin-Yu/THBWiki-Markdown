@@ -1,6 +1,6 @@
 # 文件:-Ⅵ-Test_tube封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d8\ns6%3A-%E2%85%A5-Test_tube%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d8\ns6%3A-%E2%85%A5-Test_tube%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 JunKY-jaM | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ JunKY-jaM | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [-Ⅵ-Test tube](./-Ⅵ-Test_tube.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)- [古明地恋](./古明地恋.md)
-
-
-
+- [-Ⅵ-Test tube](./-Ⅵ-Test_tube.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [古明地恋](./古明地恋.md)
 
 
 ---

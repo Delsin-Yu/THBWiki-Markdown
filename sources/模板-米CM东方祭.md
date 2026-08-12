@@ -1,16 +1,12 @@
 # 模板:米CM东方祭
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\e\e9\ns10%3A%E7%B1%B3CM%E4%B8%9C%E6%96%B9%E7%A5%AD.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\e\e9\ns10%3A%E7%B1%B3CM%E4%B8%9C%E6%96%B9%E7%A5%AD.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

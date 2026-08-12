@@ -1,6 +1,6 @@
 # 文件:KAGUYAQUEST_～伝説のニート～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6a\ns6%3AKAGUYAQUEST_%EF%BD%9E%E4%BC%9D%E8%AA%AC%E3%81%AE%E3%83%8B%E3%83%BC%E3%83%88%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6a\ns6%3AKAGUYAQUEST_%EF%BD%9E%E4%BC%9D%E8%AA%AC%E3%81%AE%E3%83%8B%E3%83%BC%E3%83%88%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Berg_Heißer_Frühling | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Berg_Heißer_Frühling | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [KAGUYAQUEST ～伝説のニート～](./KAGUYAQUEST_～伝説のニート～.md)  
-该封面包含的角色：- [蓬莱山辉夜](./蓬莱山辉夜.md)
-
-
-
+- [KAGUYAQUEST ～伝説のニート～](./KAGUYAQUEST_～伝説のニート～.md)该封面包含的角色：
+- [蓬莱山辉夜](./蓬莱山辉夜.md)
 
 
 ---

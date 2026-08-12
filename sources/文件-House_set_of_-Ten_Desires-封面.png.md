@@ -1,6 +1,6 @@
 # 文件:House_set_of_"Ten_Desires"封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f0\ns6%3AHouse_set_of_%22Ten_Desires%22%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f0\ns6%3AHouse_set_of_%22Ten_Desires%22%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 クロネコラウンジ | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@
   
 
 - [House set of "Ten Desires"](./House_set_of_-Ten_Desires-.md)
-
-
-
 
 
 ---

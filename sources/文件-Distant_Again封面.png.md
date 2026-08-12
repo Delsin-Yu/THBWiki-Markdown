@@ -1,6 +1,6 @@
 # 文件:Distant_Again封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\56\ns6%3ADistant_Again%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\56\ns6%3ADistant_Again%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Loli-Hunter_Music | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Loli-Hunter_Music | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Distant Again](./Distant_Again.md)  
-该封面包含的角色：- [古明地恋](./古明地恋.md)
-
-
-
+- [Distant Again](./Distant_Again.md)该封面包含的角色：
+- [古明地恋](./古明地恋.md)
 
 
 ---

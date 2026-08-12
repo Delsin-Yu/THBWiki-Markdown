@@ -1,21 +1,19 @@
 # Glow_in_the_dark
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\4e\ns0%3AGlow_in_the_dark.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\4e\ns0%3AGlow_in_the_dark.html -->
 
 2022年10月23日 由 WeekEND. 于 博丽神社秋季例大祭9 发布的合同志/画集同人志，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人志 (未找到链接)** 的词条
-
+**[二次创作同人志](./二次创作.md#同人志)**的词条
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Glow_in_the_dark封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/a/af/Glow_in_the_dark%E5%B0%81%E9%9D%A2.jpg/99px-Glow_in_the_dark%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="99" height="140" srcset="https://upload.thwiki.cc/thumb/a/af/Glow_in_the_dark%E5%B0%81%E9%9D%A2.jpg/149px-Glow_in_the_dark%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/a/af/Glow_in_the_dark%E5%B0%81%E9%9D%A2.jpg/198px-Glow_in_the_dark%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1450" data-file-height="2048"></a><div class="cover-char">角色：<a href="./东风谷早苗.md" title="东风谷早苗">东风谷早苗</a></div></td>
 </tr><tr><td class="label">名称</td><td colspan="2"> Glow in the dark </td></tr><tr><td class="label">制作方</td><td><a href="./WeekEND..md" title="WeekEND.">WeekEND.</a></td><td class="cover-artwork" rowspan="5" style="min-width:140px;"><a href="./文件-Glow_in_the_dark封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/a/af/Glow_in_the_dark%E5%B0%81%E9%9D%A2.jpg/99px-Glow_in_the_dark%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="99" height="140" srcset="https://upload.thwiki.cc/thumb/a/af/Glow_in_the_dark%E5%B0%81%E9%9D%A2.jpg/149px-Glow_in_the_dark%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/a/af/Glow_in_the_dark%E5%B0%81%E9%9D%A2.jpg/198px-Glow_in_the_dark%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1450" data-file-height="2048"></a><div class="cover-char">角色：<a href="./东风谷早苗.md" title="东风谷早苗">东风谷早苗</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2022-10-23&#160;（<a href="/展会作品列表?e=%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E7%A7%8B%E5%AD%A3%E4%BE%8B%E5%A4%A7%E7%A5%AD%239">第九回 博麗神社秋季例大祭</a>）</td></tr><tr><td class="label">类型</td><td>合同志，画集</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">售价</td><td>会场售价：1000日元</td></tr>
+</tr><tr><td class="label">首发日期</td><td>2022-10-23 （<a href="./展会作品列表.md#9">第九回 博麗神社秋季例大祭</a>）</td></tr><tr><td class="label">类型</td><td>合同志，画集</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">售价</td><td>会场售价：1000日元</td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/WeekEND_gothic/status/1580519791328038913">https://twitter.com/WeekEND_gothic/status/1580519791328038913</a><br><a rel="nofollow" class="external free" href="https://twitter.com/oi_yoi_0/status/1582768929889738753">https://twitter.com/oi_yoi_0/status/1582768929889738753</a></td></tr><tr><td class="label">备注</td><td colspan="2">冠婚葬祭合同</td></tr></tbody></table>
 
 Glow in the dark（同人志，WeekEND.，2022） - 2022年10月23日 由 WeekEND. 于 博丽神社秋季例大祭9 发布的合同志/画集同人志，分级为 一般向
-
 ## 预览
 
 ## Staff
@@ -31,7 +29,6 @@ Participants
 : MUHA閣下 （[doneNaura](./doneNaura.md)）
 : リッチー （[Twitter: @skinnytorch](https://twitter.com/skinnytorch)）
 : 坂本 深雪 （[Twitter: @xxx_fiction](https://twitter.com/xxx_fiction)）
-
 Cover Art
 : イヌミ
 Inner Cover Art
@@ -39,11 +36,7 @@ Inner Cover Art
 Printing
 : おたクラブ
 
-
 ## 评论
-
-
-
 
 ---
 

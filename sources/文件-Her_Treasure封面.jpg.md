@@ -1,6 +1,6 @@
 # 文件:Her_Treasure封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a0\ns6%3AHer_Treasure%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a0\ns6%3AHer_Treasure%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 FLANKER | 专辑封面 | 封面图片
 
@@ -8,16 +8,14 @@ FLANKER | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Her Treasure](./Her_Treasure.md)  
-该封面包含的角色：- [古明地觉](./古明地觉.md)- [火焰猫燐](./火焰猫燐.md)- [灵乌路空](./灵乌路空.md)- [古明地恋](./古明地恋.md)
+- [Her Treasure](./Her_Treasure.md)该封面包含的角色：
+- [古明地觉](./古明地觉.md)
+- [火焰猫燐](./火焰猫燐.md)
+- [灵乌路空](./灵乌路空.md)
+- [古明地恋](./古明地恋.md)
 
   
-源地址:[http&#160;://flankerdoujin.web.fc2.com/t13/osirifuck. jpg](http://flankerdoujin.web.fc2.com/t13/osirifuck.jpg)
-  
-
-
-
-
+源地址:[http ://flankerdoujin.web.fc2.com/t13/osirifuck. jpg](http://flankerdoujin.web.fc2.com/t13/osirifuck.jpg)  
 
 ---
 

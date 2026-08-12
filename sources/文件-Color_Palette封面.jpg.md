@@ -1,6 +1,6 @@
 # 文件:Color_Palette封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fe\ns6%3AColor_Palette%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fe\ns6%3AColor_Palette%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 インクリボン | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Color Palette](./Color_Palette.md)  
-该封面包含的角色：- [古明地恋](./古明地恋.md)
+- [Color Palette](./Color_Palette.md)该封面包含的角色：
+- [古明地恋](./古明地恋.md)
 
   
-源地址：[direct image link (original size)](https://pbs.twimg.com/media/FCOaJ3HVkAoIDwL?format=jpg&amp;name=orig), [source tweet](https://twitter.com/miumiu8822/status/1451174892187963396)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://pbs.twimg.com/media/FCOaJ3HVkAoIDwL?format=jpg&name=orig), [source tweet](https://twitter.com/miumiu8822/status/1451174892187963396)  
 
 ---
 

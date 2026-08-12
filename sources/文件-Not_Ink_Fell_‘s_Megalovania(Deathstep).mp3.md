@@ -1,6 +1,6 @@
 # 文件:Not_Ink_Fell_‘s_Megalovania(Deathstep).mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e5\ns6%3ANot_Ink_Fell_%E2%80%98s_Megalovania%28Deathstep%29%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e5\ns6%3ANot_Ink_Fell_%E2%80%98s_Megalovania%28Deathstep%29%2Emp3.html -->
 
 NOT_INK_FELL
 
@@ -9,10 +9,6 @@ NIF的BOSS曲
 还得是零度那小子，重置整的挺好
 曲子是约的
   
-
-
-
-
 
 ---
 

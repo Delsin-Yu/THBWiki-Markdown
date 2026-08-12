@@ -1,14 +1,11 @@
 # 文件:淡森banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\15\ns6%3A%E6%B7%A1%E6%A3%AEbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\15\ns6%3A%E6%B7%A1%E6%A3%AEbanner%2Ejpg.html -->
 
 淡森 | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

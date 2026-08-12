@@ -1,16 +1,12 @@
 # 模板:BCB
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\a\ab\ns10%3ABCB.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\a\ab\ns10%3ABCB.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

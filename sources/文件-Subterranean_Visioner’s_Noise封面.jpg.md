@@ -1,6 +1,6 @@
 # 文件:Subterranean_Visioner’s_Noise封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2b\ns6%3ASubterranean_Visioner%E2%80%99s_Noise%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2b\ns6%3ASubterranean_Visioner%E2%80%99s_Noise%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Witch_Wist | 同人志封面 | 封面图片
 
@@ -10,11 +10,9 @@ Witch_Wist | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Subterranean Visioner’s Noise](./Subterranean_Visioner’s_Noise.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [古明地恋](./古明地恋.md)
-
-
-
+- [Subterranean Visioner’s Noise](./Subterranean_Visioner’s_Noise.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [古明地恋](./古明地恋.md)
 
 
 ---

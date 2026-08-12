@@ -1,6 +1,6 @@
 # 文件:東方戰騎譚_～_DrunkTankies_Battle_in_the_Eastern.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\41\ns6%3A%E6%9D%B1%E6%96%B9%E6%88%B0%E9%A8%8E%E8%AD%9A_%EF%BD%9E_DrunkTankies_Battle_in_the_Eastern%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\41\ns6%3A%E6%9D%B1%E6%96%B9%E6%88%B0%E9%A8%8E%E8%AD%9A_%EF%BD%9E_DrunkTankies_Battle_in_the_Eastern%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 D.N.A.Softwares | 封面图片 | 软件封面
 
@@ -8,11 +8,13 @@ D.N.A.Softwares | 封面图片 | 软件封面
 使用了本文件作封面图片的作品：
   
 
-- [東方戰騎譚 ～ DrunkTankies Battle in the Eastern.](./東方戰騎譚_～_DrunkTankies_Battle_in_the_Eastern..md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- 十六夜咲夜 (未找到链接)- [橙](./橙.md)- [八云蓝](./八云蓝.md)- [八云紫](./八云紫.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [東方戰騎譚 ～ DrunkTankies Battle in the Eastern.](./東方戰騎譚_～_DrunkTankies_Battle_in_the_Eastern..md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [十六夜咲夜](./十六夜咲夜.md)
+- [橙](./橙.md)
+- [八云蓝](./八云蓝.md)
+- [八云紫](./八云紫.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

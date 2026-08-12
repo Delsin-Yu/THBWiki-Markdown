@@ -1,6 +1,6 @@
 # 文件:Unsung_Memories封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5a\ns6%3AUnsung_Memories%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5a\ns6%3AUnsung_Memories%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Bullet_IX | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Bullet_IX | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Unsung Memories](./Unsung_Memories.md)  
-该封面包含的角色：- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
-
-
-
+- [Unsung Memories](./Unsung_Memories.md)该封面包含的角色：
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
 
 
 ---

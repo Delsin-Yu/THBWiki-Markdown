@@ -1,12 +1,8 @@
 # 文件:ClearLeMelbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e6\ns6%3AClearLeMelbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e6\ns6%3AClearLeMelbanner%2Epng.html -->
 
 ClearLeMel | 社团LOGO
-
-
-
-
 
 
 ---

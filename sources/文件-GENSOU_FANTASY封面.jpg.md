@@ -1,6 +1,6 @@
 # 文件:GENSOU_FANTASY封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6c\ns6%3AGENSOU_FANTASY%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6c\ns6%3AGENSOU_FANTASY%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 エントゲーゲン | 同人志封面 | 封面图片
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [GENSOU FANTASY](./GENSOU_FANTASY.md)  
-该封面包含的角色：- [大妖精](./大妖精.md)- [小恶魔](./小恶魔.md)
-
-
-
+- [GENSOU FANTASY](./GENSOU_FANTASY.md)该封面包含的角色：
+- [大妖精](./大妖精.md)
+- [小恶魔](./小恶魔.md)
 
 
 ---

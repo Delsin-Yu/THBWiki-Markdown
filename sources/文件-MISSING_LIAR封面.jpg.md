@@ -1,6 +1,6 @@
 # 文件:MISSING_LIAR封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\50\ns6%3AMISSING_LIAR%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\50\ns6%3AMISSING_LIAR%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 赤道
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [MISSING LIAR](./MISSING_LIAR.md)  
-该封面包含的角色：- [伊吹萃香](./伊吹萃香.md)
+- [MISSING LIAR](./MISSING_LIAR.md)该封面包含的角色：
+- [伊吹萃香](./伊吹萃香.md)
 
   
-源地址：[[1]](http://sm-sound.com/akamichi/missing/missingliar.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://sm-sound.com/akamichi/missing/missingliar.jpg)  
 
 ---
 

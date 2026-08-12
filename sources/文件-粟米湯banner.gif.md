@@ -1,12 +1,8 @@
 # 文件:粟米湯banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\06\ns6%3A%E7%B2%9F%E7%B1%B3%E6%B9%AFbanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\06\ns6%3A%E7%B2%9F%E7%B1%B3%E6%B9%AFbanner%2Egif.html -->
 
 社团LOGO | 粟米湯
-
-
-
-
 
 
 ---

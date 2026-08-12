@@ -1,12 +1,8 @@
 # 文件:日下平临伪ZUN绘.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\84\ns6%3A%E6%97%A5%E4%B8%8B%E5%B9%B3%E4%B8%B4%E4%BC%AAZUN%E7%BB%98%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\84\ns6%3A%E6%97%A5%E4%B8%8B%E5%B9%B3%E4%B8%B4%E4%BC%AAZUN%E7%BB%98%2Ejpg.html -->
 
 东方小学森 | 作者:月月 | 日下平临
-
-
-
-
 
 
 ---

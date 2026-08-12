@@ -1,6 +1,6 @@
 # 文件:DUGEM_WONDERLAND5_Preview_Edition封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\76\ns6%3ADUGEM_WONDERLAND5_Preview_Edition%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\76\ns6%3ADUGEM_WONDERLAND5_Preview_Edition%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 SoundTeam,LORB | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ SoundTeam,LORB | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [DUGEM WONDERLAND5 Preview Edition](./DUGEM_WONDERLAND5_Preview_Edition.md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)
-
-
-
+- [DUGEM WONDERLAND5 Preview Edition](./DUGEM_WONDERLAND5_Preview_Edition.md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
 
 
 ---

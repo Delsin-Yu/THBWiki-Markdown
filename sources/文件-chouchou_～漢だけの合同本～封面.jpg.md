@@ -1,6 +1,6 @@
 # 文件:chouchou_～漢だけの合同本～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\86\ns6%3Achouchou_%EF%BD%9E%E6%BC%A2%E3%81%A0%E3%81%91%E3%81%AE%E5%90%88%E5%90%8C%E6%9C%AC%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\86\ns6%3Achouchou_%EF%BD%9E%E6%BC%A2%E3%81%A0%E3%81%91%E3%81%AE%E5%90%88%E5%90%8C%E6%9C%AC%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 No_Color | 七色御伽草子 | 同人志封面 | 封面图片
 
@@ -8,11 +8,8 @@ No_Color | 七色御伽草子 | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [chouchou ～漢だけの合同本～](./chouchou_～漢だけの合同本～.md)  
-该封面包含的角色：- [东风谷早苗](./东风谷早苗.md)
-
-
-
+- [chouchou ～漢だけの合同本～](./chouchou_～漢だけの合同本～.md)该封面包含的角色：
+- [东风谷早苗](./东风谷早苗.md)
 
 
 ---

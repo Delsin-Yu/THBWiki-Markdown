@@ -1,16 +1,11 @@
 # 文件:モノクロ殺人現場写真banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2e\ns6%3A%E3%83%A2%E3%83%8E%E3%82%AF%E3%83%AD%E6%AE%BA%E4%BA%BA%E7%8F%BE%E5%A0%B4%E5%86%99%E7%9C%9Fbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2e\ns6%3A%E3%83%A2%E3%83%8E%E3%82%AF%E3%83%AD%E6%AE%BA%E4%BA%BA%E7%8F%BE%E5%A0%B4%E5%86%99%E7%9C%9Fbanner%2Ejpg.html -->
 
 モノクロ殺人現場写真 | 社团LOGO
 
   
-源地址：[[1]](http://monokurosatsujin.up.n.seesaa.net/monokurosatsujin/image/banner_monokurosatsujin.jpg?d=a0)
-  
-
-
-
-
+源地址：[\[1\]](http://monokurosatsujin.up.n.seesaa.net/monokurosatsujin/image/banner_monokurosatsujin.jpg?d=a0)  
 
 ---
 

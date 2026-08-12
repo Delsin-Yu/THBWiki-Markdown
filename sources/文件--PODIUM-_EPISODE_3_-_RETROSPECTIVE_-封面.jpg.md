@@ -1,6 +1,6 @@
 # 文件:"PODIUM"_EPISODE_3_-_RETROSPECTIVE_-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a1\ns6%3A%22PODIUM%22_EPISODE_3_-_RETROSPECTIVE_-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a1\ns6%3A%22PODIUM%22_EPISODE_3_-_RETROSPECTIVE_-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Alstroemeria_Records | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ Alstroemeria_Records | 专辑封面 | 封面图片
   
 
 - ["PODIUM" EPISODE 3 - RETROSPECTIVE -](./-PODIUM-_EPISODE_3_-_RETROSPECTIVE_-.md)
-
-
-
 
 
 ---

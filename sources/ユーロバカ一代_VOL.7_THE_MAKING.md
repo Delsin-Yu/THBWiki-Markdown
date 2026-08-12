@@ -1,26 +1,24 @@
 # ユーロバカ一代_VOL.7_THE_MAKING
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\6d\ns0%3A%E3%83%A6%E3%83%BC%E3%83%AD%E3%83%90%E3%82%AB%E4%B8%80%E4%BB%A3_VOL%2E7_THE_MAKING.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\6d\ns0%3A%E3%83%A6%E3%83%BC%E3%83%AD%E3%83%90%E3%82%AB%E4%B8%80%E4%BB%A3_VOL%2E7_THE_MAKING.html -->
 
 2016年12月29日 由 Eurobeat Union 于 Comic Market 91 发布的音乐同人视频，总长 0小时21分钟，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人视频 (未找到链接)** 的词条
-
+**[二次创作同人视频](./二次创作.md#视频创作)**的词条
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-ユーロバカ一代_VOL.7_THE_MAKING封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/f/f1/%E3%83%A6%E3%83%BC%E3%83%AD%E3%83%90%E3%82%AB%E4%B8%80%E4%BB%A3_VOL.7_THE_MAKING%E5%B0%81%E9%9D%A2.jpg/196px-%E3%83%A6%E3%83%BC%E3%83%AD%E3%83%90%E3%82%AB%E4%B8%80%E4%BB%A3_VOL.7_THE_MAKING%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="196" height="196" srcset="https://upload.thwiki.cc/thumb/f/f1/%E3%83%A6%E3%83%BC%E3%83%AD%E3%83%90%E3%82%AB%E4%B8%80%E4%BB%A3_VOL.7_THE_MAKING%E5%B0%81%E9%9D%A2.jpg/294px-%E3%83%A6%E3%83%BC%E3%83%AD%E3%83%90%E3%82%AB%E4%B8%80%E4%BB%A3_VOL.7_THE_MAKING%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/f/f1/%E3%83%A6%E3%83%BC%E3%83%AD%E3%83%90%E3%82%AB%E4%B8%80%E4%BB%A3_VOL.7_THE_MAKING%E5%B0%81%E9%9D%A2.jpg/392px-%E3%83%A6%E3%83%BC%E3%83%AD%E3%83%90%E3%82%AB%E4%B8%80%E4%BB%A3_VOL.7_THE_MAKING%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="599" data-file-height="599"></a></td>
 </tr><tr><td class="label">名称</td><td colspan="2"> ユーロバカ一代 VOL.7 THE MAKING </td></tr><tr><td class="label">制作方</td><td><a href="./Eurobeat_Union.md" title="Eurobeat Union">Eurobeat Union</a></td><td class="cover-artwork" rowspan="7" style="min-width:196px;"><a href="./文件-ユーロバカ一代_VOL.7_THE_MAKING封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/f/f1/%E3%83%A6%E3%83%BC%E3%83%AD%E3%83%90%E3%82%AB%E4%B8%80%E4%BB%A3_VOL.7_THE_MAKING%E5%B0%81%E9%9D%A2.jpg/196px-%E3%83%A6%E3%83%BC%E3%83%AD%E3%83%90%E3%82%AB%E4%B8%80%E4%BB%A3_VOL.7_THE_MAKING%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="196" height="196" srcset="https://upload.thwiki.cc/thumb/f/f1/%E3%83%A6%E3%83%BC%E3%83%AD%E3%83%90%E3%82%AB%E4%B8%80%E4%BB%A3_VOL.7_THE_MAKING%E5%B0%81%E9%9D%A2.jpg/294px-%E3%83%A6%E3%83%BC%E3%83%AD%E3%83%90%E3%82%AB%E4%B8%80%E4%BB%A3_VOL.7_THE_MAKING%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/f/f1/%E3%83%A6%E3%83%BC%E3%83%AD%E3%83%90%E3%82%AB%E4%B8%80%E4%BB%A3_VOL.7_THE_MAKING%E5%B0%81%E9%9D%A2.jpg/392px-%E3%83%A6%E3%83%BC%E3%83%AD%E3%83%90%E3%82%AB%E4%B8%80%E4%BB%A3_VOL.7_THE_MAKING%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="599" data-file-height="599"></a></td>
-</tr><tr><td class="label">首发日期</td><td>2016-12-29&#160;（<a href="/展会作品列表?e=Comic+Market%2391">Comic Market 91</a>）</td></tr><tr><td class="label">类型</td><td>音乐</td></tr><tr><td class="label">编号</td><td>EUCD-0007B</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">总时长</td><td>21:10</td></tr><tr><td class="label">售价</td><td>会场售价：免费<br>通贩售价：免费<br><a href="./ユーロバカ一代_VOL.7.md" title="ユーロバカ一代 VOL.7">ユーロバカ一代 VOL.7</a>、<a href="./ユーロバカ一代_VOL.8.md" title="ユーロバカ一代 VOL.8">ユーロバカ一代 VOL.8</a>同时购入特典，Melonbooks限定</td></tr>
+</tr><tr><td class="label">首发日期</td><td>2016-12-29 （<a href="./展会作品列表.md#91">Comic Market 91</a>）</td></tr><tr><td class="label">类型</td><td>音乐</td></tr><tr><td class="label">编号</td><td>EUCD-0007B</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">总时长</td><td>21:10</td></tr><tr><td class="label">售价</td><td>会场售价：免费<br>通贩售价：免费<br><a href="./ユーロバカ一代_VOL.7.md" title="ユーロバカ一代 VOL.7">ユーロバカ一代 VOL.7</a>、<a href="./ユーロバカ一代_VOL.8.md" title="ユーロバカ一代 VOL.8">ユーロバカ一代 VOL.8</a>同时购入特典，Melonbooks限定</td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://music.geocities.jp/plum_project/c91/index.html">http://music.geocities.jp/plum_project/c91/index.html</a></td></tr></tbody></table>
 
 ユーロバカ一代 VOL.7 THE MAKING（同人视频，Eurobeat Union，2016） - 2016年12月29日 由 Eurobeat Union 于 Comic Market 91 发布的音乐同人视频，总长 0小时21分钟，分级为 一般向
-
 ## Staff
 Video Edit
 : [LAN.na](./LAN.na.md) （[twitter](https://twitter.com/lanna_plum)）
-Key Grip &amp; Best Boy
-: [DJ Command](./DJ_Command.md) &amp; [FN2](./FN2.md)
+Key Grip & Best Boy
+: [DJ Command](./DJ_Command.md) & [FN2](./FN2.md)
 CD Label Design
 : [DJ Command](./DJ_Command.md)
 Sound Design
@@ -32,11 +30,7 @@ Special Thanks
 Total Produced
 : [Eurobeat Union](./Eurobeat_Union.md)
 
-
 ## 评论
-
-
-
 
 ---
 

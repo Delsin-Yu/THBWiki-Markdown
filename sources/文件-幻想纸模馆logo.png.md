@@ -1,12 +1,8 @@
 # 文件:幻想纸模馆logo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5c\ns6%3A%E5%B9%BB%E6%83%B3%E7%BA%B8%E6%A8%A1%E9%A6%86logo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5c\ns6%3A%E5%B9%BB%E6%83%B3%E7%BA%B8%E6%A8%A1%E9%A6%86logo%2Epng.html -->
 
 幻想纸模馆 | 社团LOGO
-
-
-
-
 
 
 ---

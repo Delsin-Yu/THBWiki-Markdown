@@ -1,6 +1,6 @@
 # 文件:アストラルメモリーEpisode_of_Elegant_purple封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\da\ns6%3A%E3%82%A2%E3%82%B9%E3%83%88%E3%83%A9%E3%83%AB%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%BCEpisode_of_Elegant_purple%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\da\ns6%3A%E3%82%A2%E3%82%B9%E3%83%88%E3%83%A9%E3%83%AB%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%BCEpisode_of_Elegant_purple%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ビターショコラ抹茶ラテ | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [アストラルメモリーEpisode of Elegant purple](./アストラルメモリーEpisode_of_Elegant_purple.md)  
-该封面包含的角色：- [小恶魔](./小恶魔.md)- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
-
-
-
+- [アストラルメモリーEpisode of Elegant purple](./アストラルメモリーEpisode_of_Elegant_purple.md)该封面包含的角色：
+- [小恶魔](./小恶魔.md)
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
 
 
 ---

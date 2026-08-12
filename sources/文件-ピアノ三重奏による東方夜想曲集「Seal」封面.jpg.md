@@ -1,6 +1,6 @@
 # 文件:ピアノ三重奏による東方夜想曲集「Seal」封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7c\ns6%3A%E3%83%94%E3%82%A2%E3%83%8E%E4%B8%89%E9%87%8D%E5%A5%8F%E3%81%AB%E3%82%88%E3%82%8B%E6%9D%B1%E6%96%B9%E5%A4%9C%E6%83%B3%E6%9B%B2%E9%9B%86%E3%80%8CSeal%E3%80%8D%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7c\ns6%3A%E3%83%94%E3%82%A2%E3%83%8E%E4%B8%89%E9%87%8D%E5%A5%8F%E3%81%AB%E3%82%88%E3%82%8B%E6%9D%B1%E6%96%B9%E5%A4%9C%E6%83%B3%E6%9B%B2%E9%9B%86%E3%80%8CSeal%E3%80%8D%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 TAMUSIC | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ TAMUSIC | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [ピアノ三重奏による東方夜想曲集「Seal」](./ピアノ三重奏による東方夜想曲集「Seal」.md)  
-该封面包含的角色：- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
-
-
-
+- [ピアノ三重奏による東方夜想曲集「Seal」](./ピアノ三重奏による東方夜想曲集「Seal」.md)该封面包含的角色：
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
 
 
 ---

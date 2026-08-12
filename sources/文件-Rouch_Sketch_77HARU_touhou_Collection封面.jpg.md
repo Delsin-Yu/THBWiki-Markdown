@@ -1,6 +1,6 @@
 # 文件:Rouch_Sketch_77HARU_touhou_Collection封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\22\ns6%3ARouch_Sketch_77HARU_touhou_Collection%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\22\ns6%3ARouch_Sketch_77HARU_touhou_Collection%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 はるもち | 七色御伽草子 | 同人志封面 | 封面图片
 
@@ -8,11 +8,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [Rouch Sketch 77HARU touhou Collection](./Rouch_Sketch_77HARU_touhou_Collection.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [八云紫](./八云紫.md)- [东风谷早苗](./东风谷早苗.md)
-
-
-
+- [Rouch Sketch 77HARU touhou Collection](./Rouch_Sketch_77HARU_touhou_Collection.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [八云紫](./八云紫.md)
+- [东风谷早苗](./东风谷早苗.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:REVIVAL／運命ノ銃爪封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3b\ns6%3AREVIVAL%EF%BC%8F%E9%81%8B%E5%91%BD%E3%83%8E%E9%8A%83%E7%88%AA%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3b\ns6%3AREVIVAL%EF%BC%8F%E9%81%8B%E5%91%BD%E3%83%8E%E9%8A%83%E7%88%AA%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Armelyrics | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Armelyrics | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [REVIVAL／運命ノ銃爪](./REVIVAL／運命ノ銃爪.md)  
-该封面包含的角色：- [东风谷早苗](./东风谷早苗.md)
-
-
-
+- [REVIVAL／運命ノ銃爪](./REVIVAL／運命ノ銃爪.md)该封面包含的角色：
+- [东风谷早苗](./东风谷早苗.md)
 
 
 ---

@@ -1,21 +1,14 @@
 # 东方我乐多丛志/ZUN创刊访谈
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\5\50\ns0%3A%E4%B8%9C%E6%96%B9%E6%88%91%E4%B9%90%E5%A4%9A%E4%B8%9B%E5%BF%97%2FZUN%E5%88%9B%E5%88%8A%E8%AE%BF%E8%B0%88.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\5\50\ns0%3A%E4%B8%9C%E6%96%B9%E6%88%91%E4%B9%90%E5%A4%9A%E4%B8%9B%E5%BF%97%2FZUN%E5%88%9B%E5%88%8A%E8%AE%BF%E8%B0%88.html -->
 
 ZUN | 东方我乐多丛志 | 使用了翻译表的页面 | 访谈
+
 
 - 该访谈刊登于官方网络媒体[东方我乐多丛志](./东方我乐多丛志.md)。
 - 日文链接：[https://touhougarakuta.com/index_interview/zun_long_interview/](https://touhougarakuta.com/index_interview/zun_long_interview/)
 - 中文链接：[https://cn.touhougarakuta.com/index_interview/cn_mokuji_specialtaidan_zun_hiroyuki_1/](https://cn.touhougarakuta.com/index_interview/cn_mokuji_specialtaidan_zun_hiroyuki_1/)
 - 翻译：京都人形
-
-  
-  
-
-  
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Gothic_style_of_Touhou封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\68\ns6%3AGothic_style_of_Touhou%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\68\ns6%3AGothic_style_of_Touhou%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Elemental_note | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@ Elemental_note | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Gothic style of Touhou](./Gothic_style_of_Touhou.md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)
+- [Gothic style of Touhou](./Gothic_style_of_Touhou.md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
 
   
-源地址：[[1]](http://www.elemental-note.com/gothic/jake.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://www.elemental-note.com/gothic/jake.jpg)  
 
 ---
 

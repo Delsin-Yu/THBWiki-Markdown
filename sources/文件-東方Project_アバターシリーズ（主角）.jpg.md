@@ -1,12 +1,8 @@
 # 文件:東方Project_アバターシリーズ（主角）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\18\ns6%3A%E6%9D%B1%E6%96%B9Project_%E3%82%A2%E3%83%90%E3%82%BF%E3%83%BC%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%EF%BC%88%E4%B8%BB%E8%A7%92%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\18\ns6%3A%E6%9D%B1%E6%96%B9Project_%E3%82%A2%E3%83%90%E3%82%BF%E3%83%BC%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%EF%BC%88%E4%B8%BB%E8%A7%92%EF%BC%89%2Ejpg.html -->
 
 Play,Doujin! | 東方Project_アバターシリーズ
-
-
-
-
 
 
 ---

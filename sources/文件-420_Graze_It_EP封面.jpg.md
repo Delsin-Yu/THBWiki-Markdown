@@ -1,6 +1,6 @@
 # 文件:420_Graze_It_EP封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\70\ns6%3A420_Graze_It_EP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\70\ns6%3A420_Graze_It_EP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Komeiji_Records | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Komeiji_Records | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [420 Graze It EP](./420_Graze_It_EP.md)  
-该封面包含的角色：- [若鹭姬](./若鹭姬.md)
+- [420 Graze It EP](./420_Graze_It_EP.md)该封面包含的角色：
+- [若鹭姬](./若鹭姬.md)
 
   
-源地址：[[1]](https://wilddakpaks.bandcamp.com/album/420-graze-it-ep)
-  
-
-
-
-
+源地址：[\[1\]](https://wilddakpaks.bandcamp.com/album/420-graze-it-ep)  
 
 ---
 

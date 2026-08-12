@@ -1,14 +1,11 @@
 # 文件:菅牧典（兽王园立绘）dp.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\71\ns6%3A%E8%8F%85%E7%89%A7%E5%85%B8%EF%BC%88%E5%85%BD%E7%8E%8B%E5%9B%AD%E7%AB%8B%E7%BB%98%EF%BC%89dp%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\71\ns6%3A%E8%8F%85%E7%89%A7%E5%85%B8%EF%BC%88%E5%85%BD%E7%8E%8B%E5%9B%AD%E7%AB%8B%E7%BB%98%EF%BC%89dp%2Epng.html -->
 
 ZUN绘 | 东方兽王园 | 官方游戏立绘 | 菅牧典
 
 
 ## 摘要
-
-
-
 
 ---
 

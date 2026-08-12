@@ -1,6 +1,6 @@
 # 文件:Hearts封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7c\ns6%3AHearts%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7c\ns6%3AHearts%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 月猫工房
 
@@ -9,9 +9,6 @@
   
 
 - [Hearts](./Hearts.md)
-
-
-
 
 
 ---

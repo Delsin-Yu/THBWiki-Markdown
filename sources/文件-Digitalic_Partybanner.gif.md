@@ -1,12 +1,8 @@
 # 文件:Digitalic_Partybanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\26\ns6%3ADigitalic_Partybanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\26\ns6%3ADigitalic_Partybanner%2Egif.html -->
 
 Digitalic_Party | 社团LOGO
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:With_Tears_In_Your_Eyes_...a_sequel_to_White_Embrace封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\92\ns6%3AWith_Tears_In_Your_Eyes_%2E%2E%2Ea_sequel_to_White_Embrace%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\92\ns6%3AWith_Tears_In_Your_Eyes_%2E%2E%2Ea_sequel_to_White_Embrace%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 PURE-POLLUTION | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@ PURE-POLLUTION | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [With Tears In Your Eyes ...a sequel to White Embrace](./With_Tears_In_Your_Eyes_...a_sequel_to_White_Embrace.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [With Tears In Your Eyes ...a sequel to White Embrace](./With_Tears_In_Your_Eyes_...a_sequel_to_White_Embrace.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
 
   
-源地址：[direct image link](http://www.snv.jp/img/jacket/P2CD-0014.jpg), [source page](http://www.snv.jp/album/)
-  
-
-
-
-
+源地址：[direct image link](http://www.snv.jp/img/jacket/P2CD-0014.jpg), [source page](http://www.snv.jp/album/)  
 
 ---
 

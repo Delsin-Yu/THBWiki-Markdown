@@ -1,14 +1,11 @@
 # 文件:Sound_crew-I'll-banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\44\ns6%3ASound_crew-I%27ll-banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\44\ns6%3ASound_crew-I%27ll-banner%2Ejpg.html -->
 
 Sound_crew-I'll- | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

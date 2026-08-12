@@ -1,12 +1,8 @@
 # 文件:博丽灵梦（谜缘塔）sp.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\27\ns6%3A%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E8%B0%9C%E7%BC%98%E5%A1%94%EF%BC%89sp%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\27\ns6%3A%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E8%B0%9C%E7%BC%98%E5%A1%94%EF%BC%89sp%2Epng.html -->
 
 二次角色立绘 | 博丽灵梦（谜缘塔） | 阐幽赜书房
-
-
-
-
 
 
 ---

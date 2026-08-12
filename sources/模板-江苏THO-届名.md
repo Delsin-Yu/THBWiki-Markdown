@@ -1,12 +1,8 @@
 # 模板:江苏THO/届名
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\1\16\ns10%3A%E6%B1%9F%E8%8B%8FTHO%2F%E5%B1%8A%E5%90%8D.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\1\16\ns10%3A%E6%B1%9F%E8%8B%8FTHO%2F%E5%B1%8A%E5%90%8D.html -->
 
 活动届名模板
-
-
-
-
 
 
 ---

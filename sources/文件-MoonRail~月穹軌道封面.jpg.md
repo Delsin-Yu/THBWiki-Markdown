@@ -1,6 +1,6 @@
 # 文件:MoonRail~月穹軌道封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c2\ns6%3AMoonRail%7E%E6%9C%88%E7%A9%B9%E8%BB%8C%E9%81%93%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c2\ns6%3AMoonRail%7E%E6%9C%88%E7%A9%B9%E8%BB%8C%E9%81%93%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 TsuBaKi | 专辑封面 | 封面图片
 
@@ -10,11 +10,9 @@ TsuBaKi | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [MoonRail~月穹軌道](./MoonRail~月穹軌道.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [MoonRail~月穹軌道](./MoonRail~月穹軌道.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

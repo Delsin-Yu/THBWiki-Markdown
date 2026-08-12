@@ -1,18 +1,13 @@
 # 文件:int.Worksbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\55\ns6%3Aint%2EWorksbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\55\ns6%3Aint%2EWorksbanner%2Ejpg.html -->
 
 int.Works | 社团LOGO
 
 
 ## 摘要
   
-源地址：[direct image link](http://intrecords.web.fc2.com/intbanner.jpg)
-  
-
-
-
-
+源地址：[direct image link](http://intrecords.web.fc2.com/intbanner.jpg)  
 
 ---
 

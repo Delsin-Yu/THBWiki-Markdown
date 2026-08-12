@@ -1,6 +1,6 @@
 # 文件:Dedicated_To_Ruby_1／2封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\72\ns6%3ADedicated_To_Ruby_1%EF%BC%8F2%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\72\ns6%3ADedicated_To_Ruby_1%EF%BC%8F2%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Neue_Freudenhaus | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@ Neue_Freudenhaus | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Dedicated To Ruby 1／2](./Dedicated_To_Ruby_1／2.md)  
-该封面包含的角色：- [姬海棠果](./姬海棠果.md)
+- [Dedicated To Ruby 1／2](./Dedicated_To_Ruby_1／2.md)该封面包含的角色：
+- [姬海棠果](./姬海棠果.md)
 
   
-[Pixiv artwork ID: 107880452 (image 2/3; original size)](https://www.pixiv.net/artworks/107880452)
-  
-
-
-
-
+[Pixiv artwork ID: 107880452 (image 2/3; original size)](https://www.pixiv.net/artworks/107880452)  
 
 ---
 

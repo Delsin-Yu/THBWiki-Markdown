@@ -1,12 +1,8 @@
 # 文件:まるちらbanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4c\ns6%3A%E3%81%BE%E3%82%8B%E3%81%A1%E3%82%89banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4c\ns6%3A%E3%81%BE%E3%82%8B%E3%81%A1%E3%82%89banner%2Egif.html -->
 
 まるちら | 社团LOGO
-
-
-
-
 
 
 ---

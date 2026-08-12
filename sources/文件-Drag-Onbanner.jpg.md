@@ -1,18 +1,13 @@
 # 文件:Drag-Onbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\70\ns6%3ADrag-Onbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\70\ns6%3ADrag-Onbanner%2Ejpg.html -->
 
 Drag-On | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[direct image link](https://blog-imgs-35.fc2.com/i/t/a/itachiwind/banner.jpg), [source page](http://itachiwind.blog47.fc2.com/blog-entry-1.html)
-  
-
-
-
-
+源地址：[direct image link](https://blog-imgs-35.fc2.com/i/t/a/itachiwind/banner.jpg), [source page](http://itachiwind.blog47.fc2.com/blog-entry-1.html)  
 
 ---
 

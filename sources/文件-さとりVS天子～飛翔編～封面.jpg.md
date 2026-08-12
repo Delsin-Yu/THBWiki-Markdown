@@ -1,6 +1,6 @@
 # 文件:さとりVS天子～飛翔編～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fe\ns6%3A%E3%81%95%E3%81%A8%E3%82%8AVS%E5%A4%A9%E5%AD%90%EF%BD%9E%E9%A3%9B%E7%BF%94%E7%B7%A8%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fe\ns6%3A%E3%81%95%E3%81%A8%E3%82%8AVS%E5%A4%A9%E5%AD%90%EF%BD%9E%E9%A3%9B%E7%BF%94%E7%B7%A8%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ロリエース | 同人志封面 | 封面图片
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [さとりVS天子～飛翔編～](./さとりVS天子～飛翔編～.md)  
-该封面包含的角色：- [比那名居天子](./比那名居天子.md)- [古明地觉](./古明地觉.md)
-
-
-
+- [さとりVS天子～飛翔編～](./さとりVS天子～飛翔編～.md)该封面包含的角色：
+- [比那名居天子](./比那名居天子.md)
+- [古明地觉](./古明地觉.md)
 
 
 ---

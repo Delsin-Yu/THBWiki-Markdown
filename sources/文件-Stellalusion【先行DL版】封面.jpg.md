@@ -1,6 +1,6 @@
 # 文件:Stellalusion【先行DL版】封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c3\ns6%3AStellalusion%E3%80%90%E5%85%88%E8%A1%8CDL%E7%89%88%E3%80%91%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c3\ns6%3AStellalusion%E3%80%90%E5%85%88%E8%A1%8CDL%E7%89%88%E3%80%91%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 LOVEマシーン | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ LOVEマシーン | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Stellalusion【先行DL版】](./Stellalusion【先行DL版】.md)  
-该封面包含的角色：- [埴安神袿姬](./埴安神袿姬.md)
-
-
-
+- [Stellalusion【先行DL版】](./Stellalusion【先行DL版】.md)该封面包含的角色：
+- [埴安神袿姬](./埴安神袿姬.md)
 
 
 ---

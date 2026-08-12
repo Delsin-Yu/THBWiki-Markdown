@@ -1,6 +1,6 @@
 # 文件:Skyscraper_E.P.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7d\ns6%3ASkyscraper_E%2EP%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7d\ns6%3ASkyscraper_E%2EP%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 enigma | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ enigma | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Skyscraper E.P.](./Skyscraper_E.P..md)  
-该封面包含的角色：- [东风谷早苗](./东风谷早苗.md)
-
-
-
+- [Skyscraper E.P.](./Skyscraper_E.P..md)该封面包含的角色：
+- [东风谷早苗](./东风谷早苗.md)
 
 
 ---

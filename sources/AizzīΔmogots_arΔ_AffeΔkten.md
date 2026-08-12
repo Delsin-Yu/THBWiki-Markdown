@@ -1,12 +1,11 @@
 # AizzīΔmogots_arΔ_AffeΔkten
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\c\c3\ns0%3AAizz%C4%AB%CE%94mogots_ar%CE%94_Affe%CE%94kten.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\c\c3\ns0%3AAizz%C4%AB%CE%94mogots_ar%CE%94_Affe%CE%94kten.html -->
 
 2015年12月30日 由 Erica-Angelina Kanarska-Sabat  发布的同人专辑，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人专辑 (未找到链接)** 的词条
-
+**[二次创作同人专辑](./二次创作.md#同人音乐)**的词条
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-AizzīΔmogots_arΔ_AffeΔkten封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/2/20/Aizz%C4%AB%CE%94mogots_ar%CE%94_Affe%CE%94kten%E5%B0%81%E9%9D%A2.jpg/130px-Aizz%C4%AB%CE%94mogots_ar%CE%94_Affe%CE%94kten%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="130" height="196" srcset="https://upload.thwiki.cc/thumb/2/20/Aizz%C4%AB%CE%94mogots_ar%CE%94_Affe%CE%94kten%E5%B0%81%E9%9D%A2.jpg/196px-Aizz%C4%AB%CE%94mogots_ar%CE%94_Affe%CE%94kten%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/2/20/Aizz%C4%AB%CE%94mogots_ar%CE%94_Affe%CE%94kten%E5%B0%81%E9%9D%A2.jpg/261px-Aizz%C4%AB%CE%94mogots_ar%CE%94_Affe%CE%94kten%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="2000" data-file-height="3000"></a><div class="cover-char">角色：<a href="./赫卡提亚·拉碧斯拉祖利.md" title="赫卡提亚·拉碧斯拉祖利">赫卡提亚·拉碧斯拉祖利</a></div></td>
@@ -15,48 +14,35 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://kanarskasabat.bandcamp.com/track/aizz-mogots-ar-affe-kten-instrumental">https://kanarskasabat.bandcamp.com/track/aizz-mogots-ar-affe-kten-instrumental</a></td></tr></tbody></table>
 
 AizzīΔmogots arΔ AffeΔkten（同人专辑，Erica-Angelina Kanarska-Sabat，2015） - 2015年12月30日 由 Erica-Angelina Kanarska-Sabat  发布的同人专辑，分级为 一般向
-
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://kanarskasabat.bandcamp.com/track/aizz-mogots-ar-affe-kten-instrumental">bandcamp</a></td></tr></tbody></table>
-
 
 
 ## Staff
   
- **Arrangement**   
+**Arrangement**  
 
-<table><tbody><tr><td><a href="/index.php?title=Soggates-Nyan_(aMURka-chan)&amp;action=edit&amp;redlink=1" class="new" title="Soggates-Nyan (aMURka-chan)（页面不存在）">Soggates-Nyan (aMURka-chan)</a></td><td></td><td>Tr.1-3</td></tr></tbody></table>
+<table><tbody><tr><td><a class="new" title="Soggates-Nyan (aMURka-chan)（页面不存在）">Soggates-Nyan (aMURka-chan)</a></td><td></td><td>Tr.1-3</td></tr></tbody></table>
 
   
- **Lyrics**   
+**Lyrics**  
 
-<table><tbody><tr><td><a href="/index.php?title=Soggates-Nyan_(aMURka-chan)&amp;action=edit&amp;redlink=1" class="new" title="Soggates-Nyan (aMURka-chan)（页面不存在）">Soggates-Nyan (aMURka-chan)</a></td><td></td><td>Tr.1</td></tr></tbody></table>
-
+<table><tbody><tr><td><a class="new" title="Soggates-Nyan (aMURka-chan)（页面不存在）">Soggates-Nyan (aMURka-chan)</a></td><td></td><td>Tr.1</td></tr></tbody></table>
 
 Design
 : Soggates-Nyan (aMURka-chan)
 Illustration
 : Soggates-Nyan (aMURka-chan)
 
-
 ## 试听
-  
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/239724977&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=false"></iframe>
-
-  
-
 
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="AizzīΔmogots_arΔ_AffeΔkten" colspan="2" class="title">AizzīΔmogots arΔ AffeΔkten<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Soggates-Nyan (aMURka-chan)&amp;lyric=Soggates-Nyan (aMURka-chan)&amp;ogmusic=パンデモニックプラネット&amp;fromwiki=AizzīΔmogots_arΔ_AffeΔkten"><span title="搜索相似同人曲"></span></a></span></td><td class="time">07:49</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=Soggates-Nyan_(aMURka-chan)&amp;action=edit&amp;redlink=1" class="new" title="Soggates-Nyan (aMURka-chan)（页面不存在）">Soggates-Nyan (aMURka-chan)</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Soggates-Nyan (aMURka-chan)&amp;fromwiki=AizzīΔmogots_arΔ_AffeΔkten"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="/index.php?title=Soggates-Nyan_(aMURka-chan)&amp;action=edit&amp;redlink=1" class="new" title="Soggates-Nyan (aMURka-chan)（页面不存在）">Soggates-Nyan (aMURka-chan)</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?lyric=Soggates-Nyan (aMURka-chan)&amp;fromwiki=AizzīΔmogots_arΔ_AffeΔkten"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=パンデモニックプラネット&amp;fromwiki=AizzīΔmogots_arΔ_AffeΔkten"><span></span></a></span><div class="ogmusic"><a href="./パンデモニックプラネット.md" class="mw-redirect" title="パンデモニックプラネット">パンデモニックプラネット</a></div><div class="source"><a href="./东方绀珠传_～_Legacy_of_Lunatic_Kingdom..md" class="mw-redirect" title="东方绀珠传 ～ Legacy of Lunatic Kingdom.">东方绀珠传　～ Legacy of Lunatic Kingdom.</a></div></td></tr>
-<tr><td id="2" class="infoYD"><b>02</b></td><td id="Aizz​ī​Δ​mogots_arΔ_Affe​Δ​kten_(Instrumental)" colspan="2" class="title">Aizz​ī​Δ​mogots arΔ Affe​Δ​kten (Instrumental)<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Soggates-Nyan (aMURka-chan)&amp;ogmusic=パンデモニックプラネット&amp;fromwiki=AizzīΔmogots_arΔ_AffeΔkten"><span title="搜索相似同人曲"></span></a></span></td><td class="time">07:49</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=Soggates-Nyan_(aMURka-chan)&amp;action=edit&amp;redlink=1" class="new" title="Soggates-Nyan (aMURka-chan)（页面不存在）">Soggates-Nyan (aMURka-chan)</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Soggates-Nyan (aMURka-chan)&amp;fromwiki=AizzīΔmogots_arΔ_AffeΔkten"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=パンデモニックプラネット&amp;fromwiki=AizzīΔmogots_arΔ_AffeΔkten"><span></span></a></span><div class="ogmusic"><a href="./パンデモニックプラネット.md" class="mw-redirect" title="パンデモニックプラネット">パンデモニックプラネット</a></div><div class="source"><a href="./东方绀珠传_～_Legacy_of_Lunatic_Kingdom..md" class="mw-redirect" title="东方绀珠传 ～ Legacy of Lunatic Kingdom.">东方绀珠传　～ Legacy of Lunatic Kingdom.</a></div></td></tr>
-<tr><td id="3" class="infoYD"><b>03</b></td><td id="AizzīΔmogots_arΔ_AffeΔkten_(8bit_Version)" colspan="2" class="title">AizzīΔmogots arΔ AffeΔkten (8bit Version)<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Soggates-Nyan (aMURka-chan)&amp;ogmusic=パンデモニックプラネット&amp;fromwiki=AizzīΔmogots_arΔ_AffeΔkten"><span title="搜索相似同人曲"></span></a></span></td><td class="time">07:49</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=Soggates-Nyan_(aMURka-chan)&amp;action=edit&amp;redlink=1" class="new" title="Soggates-Nyan (aMURka-chan)（页面不存在）">Soggates-Nyan (aMURka-chan)</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Soggates-Nyan (aMURka-chan)&amp;fromwiki=AizzīΔmogots_arΔ_AffeΔkten"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=パンデモニックプラネット&amp;fromwiki=AizzīΔmogots_arΔ_AffeΔkten"><span></span></a></span><div class="ogmusic"><a href="./パンデモニックプラネット.md" class="mw-redirect" title="パンデモニックプラネット">パンデモニックプラネット</a></div><div class="source"><a href="./东方绀珠传_～_Legacy_of_Lunatic_Kingdom..md" class="mw-redirect" title="东方绀珠传 ～ Legacy of Lunatic Kingdom.">东方绀珠传　～ Legacy of Lunatic Kingdom.</a></div></td></tr></tbody></table>
-
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="AizzīΔmogots_arΔ_AffeΔkten" colspan="2" class="title">AizzīΔmogots arΔ AffeΔkten</td><td class="time">07:49</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="Soggates-Nyan (aMURka-chan)（页面不存在）">Soggates-Nyan (aMURka-chan)</a></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a class="new" title="Soggates-Nyan (aMURka-chan)（页面不存在）">Soggates-Nyan (aMURka-chan)</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./Pandemonic_Planet.md" class="mw-redirect" title="パンデモニックプラネット">パンデモニックプラネット</a></div><div class="source"><a href="./东方绀珠传.md" class="mw-redirect" title="东方绀珠传 ～ Legacy of Lunatic Kingdom.">东方绀珠传　～ Legacy of Lunatic Kingdom.</a></div></td></tr>
+<tr><td id="2" class="infoYD"><b>02</b></td><td id="Aizz​ī​Δ​mogots_arΔ_Affe​Δ​kten_(Instrumental)" colspan="2" class="title">Aizz​ī​Δ​mogots arΔ Affe​Δ​kten (Instrumental)</td><td class="time">07:49</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="Soggates-Nyan (aMURka-chan)（页面不存在）">Soggates-Nyan (aMURka-chan)</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./Pandemonic_Planet.md" class="mw-redirect" title="パンデモニックプラネット">パンデモニックプラネット</a></div><div class="source"><a href="./东方绀珠传.md" class="mw-redirect" title="东方绀珠传 ～ Legacy of Lunatic Kingdom.">东方绀珠传　～ Legacy of Lunatic Kingdom.</a></div></td></tr>
+<tr><td id="3" class="infoYD"><b>03</b></td><td id="AizzīΔmogots_arΔ_AffeΔkten_(8bit_Version)" colspan="2" class="title">AizzīΔmogots arΔ AffeΔkten (8bit Version)</td><td class="time">07:49</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="Soggates-Nyan (aMURka-chan)（页面不存在）">Soggates-Nyan (aMURka-chan)</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./Pandemonic_Planet.md" class="mw-redirect" title="パンデモニックプラネット">パンデモニックプラネット</a></div><div class="source"><a href="./东方绀珠传.md" class="mw-redirect" title="东方绀珠传 ～ Legacy of Lunatic Kingdom.">东方绀珠传　～ Legacy of Lunatic Kingdom.</a></div></td></tr></tbody></table>
 
 
 ## 评论
-
-
-
 
 ---
 

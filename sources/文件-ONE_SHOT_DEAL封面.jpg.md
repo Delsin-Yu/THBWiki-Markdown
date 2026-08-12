@@ -1,6 +1,6 @@
 # 文件:ONE_SHOT_DEAL封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4f\ns6%3AONE_SHOT_DEAL%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4f\ns6%3AONE_SHOT_DEAL%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 anagram | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ anagram | 专辑封面 | 封面图片
   
 
 - [ONE SHOT DEAL](./ONE_SHOT_DEAL.md)
-
-
-
 
 
 ---

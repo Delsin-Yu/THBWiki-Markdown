@@ -1,34 +1,27 @@
 # Thrive_at_Thrice
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\3\33\ns0%3AThrive_at_Thrice.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\3\33\ns0%3AThrive_at_Thrice.html -->
 
 Thrive at Thrice ，主要制作 同人音乐 的日本同人社团，主催是 Solphy，当前状态为 解散
 
-本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
-
+本页是关于**[同人社团](./二次创作.md#同人社团)**的词条
 ## 目录
 
 - [1 社团信息](#社团信息)
 - [2 成员名单](#成员名单)
 - [3 作品列表](#作品列表)
-
   - [3.1 同人专辑](#同人专辑)
-
 
 
 - [4 其他信息](#其他信息)
 
 
-
-
-
 ## 社团信息
-[](./文件-Thrive_at_Thricebanner.gif.md)  [](./文件-Thrive_at_Thricebanner.gif.md)banner
-
-<table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Thrive at Thrice </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>当前状态</b></td><td>解散</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=Solphy&amp;action=edit&amp;redlink=1" class="new" title="Solphy（页面不存在）">Solphy</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://thrive-at-thrice.net/">http://thrive-at-thrice.net/</a> <br><a rel="nofollow" class="external free" href="https://twitter.com/tat_info">https://twitter.com/tat_info</a></td></tr></tbody></table>
+<img alt="" src="https://upload.thwiki.cc/f/fe/Thrive_at_Thricebanner.gif" decoding="async" loading="lazy" width="200" height="40" class="thumbimage" data-file-width="200" data-file-height="40">
+ [放大](./文件-Thrive_at_Thricebanner.gif.md)banner
+<table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Thrive at Thrice </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>当前状态</b></td><td>解散</td></tr><tr><td><b>主催</b></td><td> <a class="new" title="Solphy（页面不存在）">Solphy</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://thrive-at-thrice.net/">http://thrive-at-thrice.net/</a> <br><a rel="nofollow" class="external free" href="https://twitter.com/tat_info">https://twitter.com/tat_info</a></td></tr></tbody></table>
 
 Thrive at Thrice（同人社团，同人音乐社团） - Thrive at Thrice ，主要制作 同人音乐 的日本同人社团，主催是 Solphy，当前状态为 解散
-
 ## 成员名单
 
 - Solphy (未找到链接)：Arrangement, Lyrics
@@ -43,7 +36,7 @@ Thrive at Thrice（同人社团，同人音乐社团） - Thrive at Thrice ，�
 - くらりてぃ (未找到链接)：Arrangement
 - ふぃね (未找到链接)：Arrangement
 - あああああ (未找到链接)：Arrangement, Illustration
-- [朱](./朱.md)：Arrangement, Lyrics, Vocals
+- [朱](./在葉朱.md)：Arrangement, Lyrics, Vocals
 - [神酒](./神酒.md)：Arrangement
 - かざきりばね (未找到链接)：Arrangement
 - クロオリ (未找到链接)：Vocals, Illustration
@@ -54,26 +47,15 @@ Thrive at Thrice（同人社团，同人音乐社团） - Thrive at Thrice ，�
 - 平沢悠 (未找到链接)：Vocals, Illustration, Arrangement
 
 
-
 ## 作品列表
 
 ### 同人专辑
-[](./幻想フルーツ！.md)[幻想フルーツ！](./幻想フルーツ！.md)首发日期：2011-03-13 （Air第八回博麗神社例大祭 (未找到链接)）全长 （一般向）[](./東方夢小町.md)[東方夢小町](./東方夢小町.md)首发日期：2011-10-16 （東方紅楼夢7 (未找到链接)）全长、​合作 （一般向）该作品是与 [CHAOS MIXER](./CHAOS_MIXER.md) 合作创作的该专辑包含 2 张CD[](./Gods_And_Ghosts.md)[Gods And Ghosts](./Gods_And_Ghosts.md)首发日期：2012-10-07 （東方紅楼夢8 (未找到链接)）全长 （一般向）[](./／THRiCE／.md)[／THRiCE／](./／THRiCE／.md)首发日期：2013-10-13 （東方紅楼夢9 (未找到链接)）全长 （一般向）
-<table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
-
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
-
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
-
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
-</table>
-
-
+- **[幻想フルーツ！](./幻想フルーツ！.md)** — 首发日期：2011-03-13 （Air第八回博麗神社例大祭）；全长 （一般向）
+- **[東方夢小町](./東方夢小町.md)** — 首发日期：2011-10-16 （東方紅楼夢7）；全长、​合作 （一般向）；该作品是与 CHAOS MIXER 合作创作的；该专辑包含 2 张CD
+- **[Gods And Ghosts](./Gods_And_Ghosts.md)** — 首发日期：2012-10-07 （東方紅楼夢8）；全长 （一般向）
+- **[／THRiCE／](./／THRiCE／.md)** — 首发日期：2013-10-13 （東方紅楼夢9）；全长 （一般向）
 
 ## 其他信息
-
-
-
 
 ---
 

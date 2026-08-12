@@ -1,14 +1,11 @@
 # 文件:Seasidebanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\12\ns6%3ASeasidebanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\12\ns6%3ASeasidebanner%2Ejpg.html -->
 
 Seaside | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

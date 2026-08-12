@@ -1,6 +1,6 @@
 # 文件:覚_-PERCEPTION-封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\16\ns6%3A%E8%A6%9A_-PERCEPTION-%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\16\ns6%3A%E8%A6%9A_-PERCEPTION-%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 俺++(Includeore) | 封面图片
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [覚 -PERCEPTION-](./覚_-PERCEPTION-.md)  
-该封面包含的角色：- [古明地觉](./古明地觉.md)- [古明地恋](./古明地恋.md)
-
-
-
+- [覚 -PERCEPTION-](./覚_-PERCEPTION-.md)该封面包含的角色：
+- [古明地觉](./古明地觉.md)
+- [古明地恋](./古明地恋.md)
 
 
 ---

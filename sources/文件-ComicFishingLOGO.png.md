@@ -1,12 +1,8 @@
 # 文件:ComicFishingLOGO.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\22\ns6%3AComicFishingLOGO%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\22\ns6%3AComicFishingLOGO%2Epng.html -->
 
 ComicFishing | 社团LOGO
-
-
-
-
 
 
 ---

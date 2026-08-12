@@ -1,14 +1,11 @@
 # 文件:Studio-Stardustglassbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c6\ns6%3AStudio-Stardustglassbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c6\ns6%3AStudio-Stardustglassbanner%2Epng.html -->
 
 Studio-Stardustglass | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

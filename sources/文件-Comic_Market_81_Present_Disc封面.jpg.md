@@ -1,6 +1,6 @@
 # 文件:Comic_Market_81_Present_Disc封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e3\ns6%3AComic_Market_81_Present_Disc%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e3\ns6%3AComic_Market_81_Present_Disc%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Aphrodite | Jupiter | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ Aphrodite | Jupiter | 专辑封面 | 封面图片
   
 
 - [Comic Market 81 Present Disc](./Comic_Market_81_Present_Disc.md)
-
-
-
 
 
 ---

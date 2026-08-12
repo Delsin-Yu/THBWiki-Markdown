@@ -1,12 +1,8 @@
 # 文件:御柱「Rising_Onbashira」（天邪鬼）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e8\ns6%3A%E5%BE%A1%E6%9F%B1%E3%80%8CRising_Onbashira%E3%80%8D%EF%BC%88%E5%A4%A9%E9%82%AA%E9%AC%BC%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e8\ns6%3A%E5%BE%A1%E6%9F%B1%E3%80%8CRising_Onbashira%E3%80%8D%EF%BC%88%E5%A4%A9%E9%82%AA%E9%AC%BC%EF%BC%89%2Ejpg.html -->
 
 八坂神奈子 | 弹幕天邪鬼 | 敌机符卡
-
-
-
-
 
 
 ---

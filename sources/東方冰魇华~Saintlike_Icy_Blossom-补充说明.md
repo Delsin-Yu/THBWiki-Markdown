@@ -1,53 +1,41 @@
 # 東方冰魇华~Saintlike_Icy_Blossom/补充说明
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\a\ab\ns0%3A%E6%9D%B1%E6%96%B9%E5%86%B0%E9%AD%87%E5%8D%8E%7ESaintlike_Icy_Blossom%2F%E8%A1%A5%E5%85%85%E8%AF%B4%E6%98%8E.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\a\ab\ns0%3A%E6%9D%B1%E6%96%B9%E5%86%B0%E9%AD%87%E5%8D%8E%7ESaintlike_Icy_Blossom%2F%E8%A1%A5%E5%85%85%E8%AF%B4%E6%98%8E.html -->
 
 地上污秽之土
 
-
   
 素材来源  
-
   
 
 使用音乐素材：  
 
 标题菜单BGM：【东方风自作曲】魂の宿りし花【Touhou Style】  
-
 [https://www.bilibili.com/video/BV17741187Hh](https://www.bilibili.com/video/BV17741187Hh)  
 
 原作者：えばんさん  
-
 [https://space.bilibili.com/501135003](https://space.bilibili.com/501135003)  
-
   
 
 对话BGM：幻想的白色旅人——《東方天空璋 ～ Hidden Star in Four Seasons》  
 
 原作者：上海アリス幻樂団  
-
 [https://space.bilibili.com/517717593/](https://space.bilibili.com/517717593/)  
-
   
 
 Boss战BGM：【东方风自作曲/阿媂娅印象曲】凝霜的魇花 ～ Profound Spirit  
-
 [https://www.bilibili.com/video/BV1xa4y1J7BA](https://www.bilibili.com/video/BV1xa4y1J7BA)  
 
 原作者：11是谁啊  
-
 [https://space.bilibili.com/1664494/](https://space.bilibili.com/1664494/)  
-
   
 
 使用图片来源：  
-
   
 
 部分子弹贴图素材、UI、阿媂娅立绘与行走图：DFM  
 
 灵梦与魔理沙立绘，关卡背景及符卡背景等来自东方正作素材、LuaSTG素材与网络  
-
   
 
 特别感谢：  
@@ -59,7 +47,6 @@ Boss战BGM：【东方风自作曲/阿媂娅印象曲】凝霜的魇花 ～ Prof
 ——————————————————————  
 
 素材使用说明：  
-
   
 
 很容易就可以发现，这个游戏的素材包是没有加密的（其实是懒得弄）  
@@ -72,11 +59,6 @@ Boss战BGM：【东方风自作曲/阿媂娅印象曲】凝霜的魇花 ～ Prof
 
 感谢你的阅读
   
-
-
-
-
-
 
 ---
 

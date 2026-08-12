@@ -1,6 +1,6 @@
 # 文件:Escape_From_a_Sky封面.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\32\ns6%3AEscape_From_a_Sky%E5%B0%81%E9%9D%A2%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\32\ns6%3AEscape_From_a_Sky%E5%B0%81%E9%9D%A2%2Egif.html -->
 
 No_Gimmick_No_Life | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ No_Gimmick_No_Life | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Escape From a Sky](./Escape_From_a_Sky.md)  
-该封面包含的角色：- [高丽野阿吽](./高丽野阿吽.md)
-
-
-
+- [Escape From a Sky](./Escape_From_a_Sky.md)该封面包含的角色：
+- [高丽野阿吽](./高丽野阿吽.md)
 
 
 ---

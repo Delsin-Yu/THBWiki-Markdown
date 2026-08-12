@@ -1,6 +1,6 @@
 # Become_Fumo/人物
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\1\19\ns0%3ABecome_Fumo%2F%E4%BA%BA%E7%89%A9.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\1\19\ns0%3ABecome_Fumo%2F%E4%BA%BA%E7%89%A9.html -->
 
 
 
@@ -319,21 +319,13 @@ Yuuto「一华优朋」/原创角色
 Yuyuko「西行寺幽幽子」
   
 
-
 ## 后记
   
-参考:[参考文献](https://thwiki.cc/官方角色列表)
+参考:[参考文献](https://thwiki.cc/官方角色列表)  
   
+B站文献:[B站文献](https://b23.tv/ma3Wam)  
   
-B站文献:[B站文献](https://b23.tv/ma3Wam)
-  
-  
-喵玉殿文献:[普通版本](https://bbs.nyasama.com/forum.php?mod=viewthread&amp;tid=1845202)‖[详细版本](https://bbs.nyasama.com/forum.php?mod=viewthread&amp;tid=1845458)
-  
-
-
-
-
+喵玉殿文献:[普通版本](https://bbs.nyasama.com/forum.php?mod=viewthread&tid=1845202)‖[详细版本](https://bbs.nyasama.com/forum.php?mod=viewthread&tid=1845458)  
 
 ---
 

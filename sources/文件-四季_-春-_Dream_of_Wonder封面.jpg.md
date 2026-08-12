@@ -1,6 +1,6 @@
 # 文件:四季_-春-_Dream_of_Wonder封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3f\ns6%3A%E5%9B%9B%E5%AD%A3_-%E6%98%A5-_Dream_of_Wonder%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3f\ns6%3A%E5%9B%9B%E5%AD%A3_-%E6%98%A5-_Dream_of_Wonder%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 t=NODE | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ t=NODE | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [四季 -春- Dream of Wonder](./四季_-春-_Dream_of_Wonder.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [四季 -春- Dream of Wonder](./四季_-春-_Dream_of_Wonder.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

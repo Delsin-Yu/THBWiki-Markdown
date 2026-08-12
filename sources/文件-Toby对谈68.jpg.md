@@ -1,12 +1,8 @@
 # 文件:Toby对谈68.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a6\ns6%3AToby%E5%AF%B9%E8%B0%8868%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a6\ns6%3AToby%E5%AF%B9%E8%B0%8868%2Ejpg.html -->
 
 Toby对谈 | ZUN | 木村祥朗
-
-
-
-
 
 
 ---

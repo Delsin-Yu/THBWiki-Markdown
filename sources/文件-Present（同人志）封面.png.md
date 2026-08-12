@@ -1,6 +1,6 @@
 # 文件:Present（同人志）封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a0\ns6%3APresent%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a0\ns6%3APresent%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 同人志封面 | 封面图片 | 黄昏時ビニールハウス
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [Present（同人志）](./Present（同人志）.md)  
-该封面包含的角色：- [东风谷早苗](./东风谷早苗.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [Present（同人志）](./Present（同人志）.md)该封面包含的角色：
+- [东风谷早苗](./东风谷早苗.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

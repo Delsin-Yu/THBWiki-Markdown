@@ -1,6 +1,6 @@
 # 文件:幻_～GEN～封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1d\ns6%3A%E5%B9%BB_%EF%BD%9EGEN%EF%BD%9E%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1d\ns6%3A%E5%B9%BB_%EF%BD%9EGEN%EF%BD%9E%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 豚乙女
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [幻 ～GEN～](./幻_～GEN～.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [幻 ～GEN～](./幻_～GEN～.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

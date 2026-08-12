@@ -1,12 +1,8 @@
 # 文件:空色ぽりんbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cd\ns6%3A%E7%A9%BA%E8%89%B2%E3%81%BD%E3%82%8A%E3%82%93banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cd\ns6%3A%E7%A9%BA%E8%89%B2%E3%81%BD%E3%82%8A%E3%82%93banner%2Ejpg.html -->
 
 社团LOGO | 空色ぽりん
-
-
-
-
 
 
 ---

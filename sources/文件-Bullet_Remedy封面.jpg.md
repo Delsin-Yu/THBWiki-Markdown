@@ -1,6 +1,6 @@
 # 文件:Bullet_Remedy封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c2\ns6%3ABullet_Remedy%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c2\ns6%3ABullet_Remedy%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 MA.S_ATTACK | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ MA.S_ATTACK | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Bullet Remedy](./Bullet_Remedy.md)  
-该封面包含的角色：- [八意永琳](./八意永琳.md)
+- [Bullet Remedy](./Bullet_Remedy.md)该封面包含的角色：
+- [八意永琳](./八意永琳.md)
 
   
-源地址：[[1]](https://web.archive.org/web/20111014073142im_/http://masattack.flier.jp/BR_small.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://web.archive.org/web/20111014073142im_/http://masattack.flier.jp/BR_small.jpg)  
 
 ---
 

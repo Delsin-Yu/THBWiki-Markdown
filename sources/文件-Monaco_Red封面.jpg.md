@@ -1,6 +1,6 @@
 # 文件:Monaco_Red封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\50\ns6%3AMonaco_Red%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\50\ns6%3AMonaco_Red%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 雪工房
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Monaco Red](./Monaco_Red.md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)
-
-
-
+- [Monaco Red](./Monaco_Red.md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
 
 
 ---

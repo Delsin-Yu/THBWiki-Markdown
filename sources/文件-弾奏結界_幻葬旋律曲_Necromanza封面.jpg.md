@@ -1,6 +1,6 @@
 # 文件:弾奏結界_幻葬旋律曲_Necromanza封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\06\ns6%3A%E5%BC%BE%E5%A5%8F%E7%B5%90%E7%95%8C_%E5%B9%BB%E8%91%AC%E6%97%8B%E5%BE%8B%E6%9B%B2_Necromanza%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\06\ns6%3A%E5%BC%BE%E5%A5%8F%E7%B5%90%E7%95%8C_%E5%B9%BB%E8%91%AC%E6%97%8B%E5%BE%8B%E6%9B%B2_Necromanza%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 dBu_music | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ dBu_music | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [弾奏結界 幻葬旋律曲 Necromanza](./弾奏結界_幻葬旋律曲_Necromanza.md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)- [西行寺幽幽子](./西行寺幽幽子.md)
-
-
-
+- [弾奏結界 幻葬旋律曲 Necromanza](./弾奏結界_幻葬旋律曲_Necromanza.md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
+- [西行寺幽幽子](./西行寺幽幽子.md)
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:梦蝶「Crazy_Butterfly」（噩梦日记）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\84\ns6%3A%E6%A2%A6%E8%9D%B6%E3%80%8CCrazy_Butterfly%E3%80%8D%EF%BC%88%E5%99%A9%E6%A2%A6%E6%97%A5%E8%AE%B0%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\84\ns6%3A%E6%A2%A6%E8%9D%B6%E3%80%8CCrazy_Butterfly%E3%80%8D%EF%BC%88%E5%99%A9%E6%A2%A6%E6%97%A5%E8%AE%B0%EF%BC%89%2Ejpg.html -->
 
 敌机符卡 | 爱塔妮缇拉尔瓦 | 秘封噩梦日记
-
-
-
-
 
 
 ---

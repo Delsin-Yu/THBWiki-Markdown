@@ -1,16 +1,12 @@
 # 文件:ssg_Gyoku_1.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c9\ns6%3Assg_Gyoku_1%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c9\ns6%3Assg_Gyoku_1%2Epng.html -->
 
 秋霜玉
 
   
 《秋霜玉》弹幕阴阳玉1。
   
-
-
-
-
 
 ---
 

@@ -1,12 +1,8 @@
 # 文件:PERSONAL_COLORbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e5\ns6%3APERSONAL_COLORbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e5\ns6%3APERSONAL_COLORbanner%2Ejpg.html -->
 
 PERSONAL_COLOR | 社团LOGO
-
-
-
-
 
 
 ---

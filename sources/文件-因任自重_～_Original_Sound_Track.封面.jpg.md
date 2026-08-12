@@ -1,6 +1,6 @@
 # 文件:因任自重_～_Original_Sound_Track.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dc\ns6%3A%E5%9B%A0%E4%BB%BB%E8%87%AA%E9%87%8D_%EF%BD%9E_Original_Sound_Track%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dc\ns6%3A%E5%9B%A0%E4%BB%BB%E8%87%AA%E9%87%8D_%EF%BD%9E_Original_Sound_Track%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Saikoro_Club_Network | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Saikoro_Club_Network | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [因任自重 ～ Original Sound Track.](./因任自重_～_Original_Sound_Track..md)  
-该封面包含的角色：- [蓬莱山辉夜](./蓬莱山辉夜.md)
-
-
-
+- [因任自重 ～ Original Sound Track.](./因任自重_～_Original_Sound_Track..md)该封面包含的角色：
+- [蓬莱山辉夜](./蓬莱山辉夜.md)
 
 
 ---

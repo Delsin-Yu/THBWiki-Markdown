@@ -1,6 +1,6 @@
 # 文件:寂寞楽園_～_Forgotten_and_Unknown_Lonely_Lands.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a7\ns6%3A%E5%AF%82%E5%AF%9E%E6%A5%BD%E5%9C%92_%EF%BD%9E_Forgotten_and_Unknown_Lonely_Lands%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a7\ns6%3A%E5%AF%82%E5%AF%9E%E6%A5%BD%E5%9C%92_%EF%BD%9E_Forgotten_and_Unknown_Lonely_Lands%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 幻想グリモワール
 
@@ -11,9 +11,6 @@
   
 
 - [寂寞楽園 ～ Forgotten and Unknown Lonely Lands.](./寂寞楽園_～_Forgotten_and_Unknown_Lonely_Lands..md)
-
-
-
 
 
 ---

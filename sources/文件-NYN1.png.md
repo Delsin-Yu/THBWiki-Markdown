@@ -1,12 +1,8 @@
 # 文件:NYN1.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d0\ns6%3ANYN1%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d0\ns6%3ANYN1%2Epng.html -->
 
 曲奇
-
-
-
-
 
 
 ---

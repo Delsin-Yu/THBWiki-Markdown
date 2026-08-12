@@ -1,6 +1,6 @@
 # 文件:No_Way_-Gravity-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\59\ns6%3ANo_Way_-Gravity-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\59\ns6%3ANo_Way_-Gravity-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 暁Records
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [No Way -Gravity-](./No_Way_-Gravity-.md)  
-该封面包含的角色：- [八坂神奈子](./八坂神奈子.md)
-
-
-
+- [No Way -Gravity-](./No_Way_-Gravity-.md)该封面包含的角色：
+- [八坂神奈子](./八坂神奈子.md)
 
 
 ---

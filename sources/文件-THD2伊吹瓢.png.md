@@ -1,12 +1,8 @@
 # 文件:THD2伊吹瓢.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c6\ns6%3ATHD2%E4%BC%8A%E5%90%B9%E7%93%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c6\ns6%3ATHD2%E4%BC%8A%E5%90%B9%E7%93%A2%2Epng.html -->
 
 AvalonStudioOfficial
-
-
-
-
 
 
 ---

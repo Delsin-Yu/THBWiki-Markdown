@@ -1,6 +1,6 @@
 # 文件:地霊殿Another_締_-もう1つのちれいでん-封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3c\ns6%3A%E5%9C%B0%E9%9C%8A%E6%AE%BFAnother_%E7%B7%A0_-%E3%82%82%E3%81%861%E3%81%A4%E3%81%AE%E3%81%A1%E3%82%8C%E3%81%84%E3%81%A7%E3%82%93-%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3c\ns6%3A%E5%9C%B0%E9%9C%8A%E6%AE%BFAnother_%E7%B7%A0_-%E3%82%82%E3%81%861%E3%81%A4%E3%81%AE%E3%81%A1%E3%82%8C%E3%81%84%E3%81%A7%E3%82%93-%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 おきたできた | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [地霊殿Another 締 -もう1つのちれいでん-](./地霊殿Another_締_-もう1つのちれいでん-.md)  
-该封面包含的角色：- [古明地觉](./古明地觉.md)
+- [地霊殿Another 締 -もう1つのちれいでん-](./地霊殿Another_締_-もう1つのちれいでん-.md)该封面包含的角色：
+- [古明地觉](./古明地觉.md)
 
   
-源地址：[direct image link](http://yutorinooekaki.web.fc2.com/event/20130526_r10/image/chi3_01.png), [source page](http://yutorinooekaki.web.fc2.com/event/20130526_r10/main.html)
-  
-
-
-
-
+源地址：[direct image link](http://yutorinooekaki.web.fc2.com/event/20130526_r10/image/chi3_01.png), [source page](http://yutorinooekaki.web.fc2.com/event/20130526_r10/main.html)  
 
 ---
 

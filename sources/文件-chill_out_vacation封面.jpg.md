@@ -1,6 +1,6 @@
 # 文件:chill_out_vacation封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8a\ns6%3Achill_out_vacation%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8a\ns6%3Achill_out_vacation%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Silver_Forest | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Silver_Forest | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [chill out vacation](./chill_out_vacation.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)
-
-
-
+- [chill out vacation](./chill_out_vacation.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
 
 
 ---

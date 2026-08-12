@@ -1,12 +1,8 @@
 # 文件:GoM插图（因幡帝-1-2）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ee\ns6%3AGoM%E6%8F%92%E5%9B%BE%EF%BC%88%E5%9B%A0%E5%B9%A1%E5%B8%9D-1-2%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ee\ns6%3AGoM%E6%8F%92%E5%9B%BE%EF%BC%88%E5%9B%A0%E5%B9%A1%E5%B8%9D-1-2%EF%BC%89%2Ejpg.html -->
 
 因幡帝 | 魔理沙的魔法书
-
-
-
-
 
 
 ---

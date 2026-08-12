@@ -1,12 +1,8 @@
 # 文件:activity_banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\13\ns6%3Aactivity_banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\13\ns6%3Aactivity_banner%2Egif.html -->
 
 activity | 社团LOGO
-
-
-
-
 
 
 ---

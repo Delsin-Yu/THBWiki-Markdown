@@ -1,6 +1,6 @@
 # 文件:東方紅輝心～Original_Soundtrack～PS4改訂版封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a5\ns6%3A%E6%9D%B1%E6%96%B9%E7%B4%85%E8%BC%9D%E5%BF%83%EF%BD%9EOriginal_Soundtrack%EF%BD%9EPS4%E6%94%B9%E8%A8%82%E7%89%88%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a5\ns6%3A%E6%9D%B1%E6%96%B9%E7%B4%85%E8%BC%9D%E5%BF%83%EF%BD%9EOriginal_Soundtrack%EF%BD%9EPS4%E6%94%B9%E8%A8%82%E7%89%88%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 はちみつれもん | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方紅輝心～Original Soundtrack～PS4改訂版](./東方紅輝心～Original_Soundtrack～PS4改訂版.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
-
-
-
+- [東方紅輝心～Original Soundtrack～PS4改訂版](./東方紅輝心～Original_Soundtrack～PS4改訂版.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
 
 ---

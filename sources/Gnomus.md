@@ -1,12 +1,11 @@
 # Gnomus
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\b0\ns0%3AGnomus.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\b0\ns0%3AGnomus.html -->
 
 2011年12月25日 由 StarlessTrilogy  发布的单曲同人专辑，曲目主要风格是 Dance、Rock，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人专辑 (未找到链接)** 的词条
-
+**[二次创作同人专辑](./二次创作.md#同人音乐)**的词条
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Gnomus封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/2/22/Gnomus%E5%B0%81%E9%9D%A2.png/223px-Gnomus%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="223" height="224" srcset="https://upload.thwiki.cc/thumb/2/22/Gnomus%E5%B0%81%E9%9D%A2.png/334px-Gnomus%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/2/22/Gnomus%E5%B0%81%E9%9D%A2.png 2x" data-file-width="350" data-file-height="352"></a><div class="cover-char">角色：<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a></div></td>
@@ -15,36 +14,24 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://starlesstrilogy.wixsite.com/main/gnomus">https://starlesstrilogy.wixsite.com/main/gnomus</a></td></tr></tbody></table>
 
 Gnomus（同人专辑，StarlessTrilogy，2011） - 2011年12月25日 由 StarlessTrilogy  发布的单曲同人专辑，曲目主要风格是 Dance、Rock，分级为 一般向
-
 ## Staff
   
- **Arrangement**   
+**Arrangement**  
 
-<table><tbody><tr><td><a href="./satella.md" title="satella">satella</a></td><td><a rel="nofollow" class="external text" href="http://www.extracode.jp/">extracode <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span></a></td><td>Tr.1/2</td></tr><tr><td><a href="/index.php?title=yoppyyyy&amp;action=edit&amp;redlink=1" class="new" title="yoppyyyy（页面不存在）">yoppyyyy</a></td><td><a href="./StarlessTrilogy.md" title="StarlessTrilogy">StarlessTrilogy</a></td><td>Tr.1/2</td></tr></tbody></table>
-
+<table><tbody><tr><td><a href="./satella.md" title="satella">satella</a></td><td><a rel="nofollow" class="external text" href="http://www.extracode.jp/">extracode <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span></a></td><td>Tr.1/2</td></tr><tr><td><a class="new" title="yoppyyyy（页面不存在）">yoppyyyy</a></td><td><a href="./StarlessTrilogy.md" title="StarlessTrilogy">StarlessTrilogy</a></td><td>Tr.1/2</td></tr></tbody></table>
 
 Illustration
 : nove （[Pixiv ID: 892097](https://www.pixiv.net/users/892097), [Twitter: @ksm_nove](https://twitter.com/ksm_nove)）
 
-
 ## 试听
-  
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/36310534&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=false"></iframe>
-
-  
-
 
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Gnomus" colspan="2" class="title">Gnomus<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=yoppyyyy，satella&amp;ogmusic=ハルトマンの妖怪少女&amp;fromwiki=Gnomus"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=yoppyyyy&amp;action=edit&amp;redlink=1" class="new" title="yoppyyyy（页面不存在）">yoppyyyy</a>，<a href="./satella.md" title="satella">satella</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，yoppyyyy，satella&amp;fromwiki=Gnomus"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=ハルトマンの妖怪少女&amp;fromwiki=Gnomus"><span></span></a></span><div class="ogmusic"><a href="./ハルトマンの妖怪少女.md" class="mw-redirect" title="ハルトマンの妖怪少女">ハルトマンの妖怪少女</a></div><div class="source"><a href="./东方地灵殿_～_Subterranean_Animism..md" class="mw-redirect" title="东方地灵殿 ～ Subterranean Animism.">东方地灵殿　～ Subterranean Animism.</a></div></td></tr>
-<tr><td id="2" class="infoYD"><b>02</b></td><td id="Night_at_the_Mocking_Window" colspan="2" class="title">Night at the Mocking Window<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=yoppyyyy，satella&amp;ogmusic=メイガスナイト&amp;fromwiki=Gnomus"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=yoppyyyy&amp;action=edit&amp;redlink=1" class="new" title="yoppyyyy（页面不存在）">yoppyyyy</a>，<a href="./satella.md" title="satella">satella</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，yoppyyyy，satella&amp;fromwiki=Gnomus"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=メイガスナイト&amp;fromwiki=Gnomus"><span></span></a></span><div class="ogmusic"><a href="./メイガスナイト.md" class="mw-redirect" title="メイガスナイト">メイガスナイト</a></div><div class="source"><a href="./妖精大战争_～_东方三月精.md" class="mw-redirect" title="妖精大战争 ～ 东方三月精">妖精大战争　～ 东方三月精</a></div></td></tr></tbody></table>
-
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Gnomus" colspan="2" class="title">Gnomus</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="yoppyyyy（页面不存在）">yoppyyyy</a>，<a href="./satella.md" title="satella">satella</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./哈德曼的妖怪少女.md" class="mw-redirect" title="ハルトマンの妖怪少女">ハルトマンの妖怪少女</a></div><div class="source"><a href="./东方地灵殿.md" class="mw-redirect" title="东方地灵殿 ～ Subterranean Animism.">东方地灵殿　～ Subterranean Animism.</a></div></td></tr>
+<tr><td id="2" class="infoYD"><b>02</b></td><td id="Night_at_the_Mocking_Window" colspan="2" class="title">Night at the Mocking Window</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="yoppyyyy（页面不存在）">yoppyyyy</a>，<a href="./satella.md" title="satella">satella</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./Magus_Night.md" class="mw-redirect" title="メイガスナイト">メイガスナイト</a></div><div class="source"><a href="./妖精大战争.md" class="mw-redirect" title="妖精大战争 ～ 东方三月精">妖精大战争　～ 东方三月精</a></div></td></tr></tbody></table>
 
 
 ## 评论
-
-
-
 
 ---
 

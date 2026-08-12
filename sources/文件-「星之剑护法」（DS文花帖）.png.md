@@ -1,12 +1,8 @@
 # 文件:「星之剑护法」（DS文花帖）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0b\ns6%3A%E3%80%8C%E6%98%9F%E4%B9%8B%E5%89%91%E6%8A%A4%E6%B3%95%E3%80%8D%EF%BC%88DS%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0b\ns6%3A%E3%80%8C%E6%98%9F%E4%B9%8B%E5%89%91%E6%8A%A4%E6%B3%95%E3%80%8D%EF%BC%88DS%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Epng.html -->
 
 东方文花帖DS | 圣白莲 | 敌机符卡
-
-
-
-
 
 
 ---

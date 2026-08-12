@@ -1,6 +1,6 @@
 # 文件:NARCOLEPSY封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ac\ns6%3ANARCOLEPSY%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ac\ns6%3ANARCOLEPSY%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 8686m | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [NARCOLEPSY](./NARCOLEPSY.md)  
-该封面包含的角色：- [赤蛮奇](./赤蛮奇.md)
+- [NARCOLEPSY](./NARCOLEPSY.md)该封面包含的角色：
+- [赤蛮奇](./赤蛮奇.md)
 
   
-源地址：[[1]](http://static.tumblr.com/90379139bc9022ff7429b08ee4340861/twykpvu/a9ko6sidk/tumblr_static_6lso6qstghcskgk40o0cggkc4.png)
-  
-
-
-
-
+源地址：[\[1\]](http://static.tumblr.com/90379139bc9022ff7429b08ee4340861/twykpvu/a9ko6sidk/tumblr_static_6lso6qstghcskgk40o0cggkc4.png)  
 
 ---
 

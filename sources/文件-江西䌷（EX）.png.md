@@ -1,12 +1,8 @@
 # 文件:江西䌷（EX）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fc\ns6%3A%E6%B1%9F%E8%A5%BF%E4%8C%B7%EF%BC%88EX%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fc\ns6%3A%E6%B1%9F%E8%A5%BF%E4%8C%B7%EF%BC%88EX%EF%BC%89%2Epng.html -->
 
 二次角色立绘 | 東方宝天京制作委员会 | 江西䌷 | 色色堂
-
-
-
-
 
 
 ---

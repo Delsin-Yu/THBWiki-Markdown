@@ -1,12 +1,8 @@
 # 文件:monochrome-coat_banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b5\ns6%3Amonochrome-coat_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b5\ns6%3Amonochrome-coat_banner%2Ejpg.html -->
 
 monochrome-coat | 社团LOGO
-
-
-
-
 
 
 ---

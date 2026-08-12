@@ -1,18 +1,13 @@
 # 文件:Sprite_Wing_banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bc\ns6%3ASprite_Wing_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bc\ns6%3ASprite_Wing_banner%2Ejpg.html -->
 
 Sprite_Wing | 社团LOGO
 
 
 ## 文件说明
   
-[http://spritewing.com/#aboutArea](http://spritewing.com/#aboutArea)
-  
-
-
-
-
+[http://spritewing.com/#aboutArea](http://spritewing.com/#aboutArea)  
 
 ---
 

@@ -1,12 +1,8 @@
 # 文件:ているこんちぇると（仮）banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\73\ns6%3A%E3%81%A6%E3%81%84%E3%82%8B%E3%81%93%E3%82%93%E3%81%A1%E3%81%87%E3%82%8B%E3%81%A8%EF%BC%88%E4%BB%AE%EF%BC%89banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\73\ns6%3A%E3%81%A6%E3%81%84%E3%82%8B%E3%81%93%E3%82%93%E3%81%A1%E3%81%87%E3%82%8B%E3%81%A8%EF%BC%88%E4%BB%AE%EF%BC%89banner%2Egif.html -->
 
 ているこんちぇると（仮） | 社团LOGO
-
-
-
-
 
 
 ---

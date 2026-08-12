@@ -1,6 +1,6 @@
 # 文件:東方仮想RPG_SOUNDTRACK_Vol.4封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\96\ns6%3A%E6%9D%B1%E6%96%B9%E4%BB%AE%E6%83%B3RPG_SOUNDTRACK_Vol%2E4%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\96\ns6%3A%E6%9D%B1%E6%96%B9%E4%BB%AE%E6%83%B3RPG_SOUNDTRACK_Vol%2E4%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 うま | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方仮想RPG SOUNDTRACK Vol.4](./東方仮想RPG_SOUNDTRACK_Vol.4.md)  
-该封面包含的角色：- [鬼人正邪](./鬼人正邪.md)
-
-
-
+- [東方仮想RPG SOUNDTRACK Vol.4](./東方仮想RPG_SOUNDTRACK_Vol.4.md)该封面包含的角色：
+- [鬼人正邪](./鬼人正邪.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Fierce_Fight_Fatality_I封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a3\ns6%3AFierce_Fight_Fatality_I%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a3\ns6%3AFierce_Fight_Fatality_I%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 八寺発電所 | 同人志封面 | 封面图片
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [Fierce Fight Fatality I](./Fierce_Fight_Fatality_I.md)  
-该封面包含的角色：- [秦心](./秦心.md)- [堀川雷鼓](./堀川雷鼓.md)
-
-
-
+- [Fierce Fight Fatality I](./Fierce_Fight_Fatality_I.md)该封面包含的角色：
+- [秦心](./秦心.md)
+- [堀川雷鼓](./堀川雷鼓.md)
 
 
 ---

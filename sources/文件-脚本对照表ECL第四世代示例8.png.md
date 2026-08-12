@@ -1,12 +1,8 @@
 # 文件:脚本对照表ECL第四世代示例8.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\41\ns6%3A%E8%84%9A%E6%9C%AC%E5%AF%B9%E7%85%A7%E8%A1%A8ECL%E7%AC%AC%E5%9B%9B%E4%B8%96%E4%BB%A3%E7%A4%BA%E4%BE%8B8%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\41\ns6%3A%E8%84%9A%E6%9C%AC%E5%AF%B9%E7%85%A7%E8%A1%A8ECL%E7%AC%AC%E5%9B%9B%E4%B8%96%E4%BB%A3%E7%A4%BA%E4%BE%8B8%2Epng.html -->
 
 脚本对照表
-
-
-
-
 
 
 ---

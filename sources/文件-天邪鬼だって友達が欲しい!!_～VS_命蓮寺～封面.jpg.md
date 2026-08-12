@@ -1,6 +1,6 @@
 # 文件:天邪鬼だって友達が欲しい!!_～VS_命蓮寺～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dd\ns6%3A%E5%A4%A9%E9%82%AA%E9%AC%BC%E3%81%A0%E3%81%A3%E3%81%A6%E5%8F%8B%E9%81%94%E3%81%8C%E6%AC%B2%E3%81%97%E3%81%84%21%21_%EF%BD%9EVS_%E5%91%BD%E8%93%AE%E5%AF%BA%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dd\ns6%3A%E5%A4%A9%E9%82%AA%E9%AC%BC%E3%81%A0%E3%81%A3%E3%81%A6%E5%8F%8B%E9%81%94%E3%81%8C%E6%AC%B2%E3%81%97%E3%81%84%21%21_%EF%BD%9EVS_%E5%91%BD%E8%93%AE%E5%AF%BA%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ういろう大好きッ娘 | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [天邪鬼だって友達が欲しい!! ～VS 命蓮寺～](./天邪鬼だって友達が欲しい!!_～VS_命蓮寺～.md)  
-该封面包含的角色：- [鬼人正邪](./鬼人正邪.md)
-
-
-
+- [天邪鬼だって友達が欲しい!! ～VS 命蓮寺～](./天邪鬼だって友達が欲しい!!_～VS_命蓮寺～.md)该封面包含的角色：
+- [鬼人正邪](./鬼人正邪.md)
 
 
 ---

@@ -1,21 +1,17 @@
 # 不思議の幻想郷_-THE_TOWER_OF_DESIRE-
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\c\cd\ns0%3A%E4%B8%8D%E6%80%9D%E8%AD%B0%E3%81%AE%E5%B9%BB%E6%83%B3%E9%83%B7_-THE_TOWER_OF_DESIRE-.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\c\cd\ns0%3A%E4%B8%8D%E6%80%9D%E8%AD%B0%E3%81%AE%E5%B9%BB%E6%83%B3%E9%83%B7_-THE_TOWER_OF_DESIRE-.html -->
 
 2015年6月25日 由 AQUA STYLE  发布的RPG同人游戏，可在 PSVita 系统上运行，游戏人数为 单人模式，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人软件 (未找到链接)** 的词条
-
+**[二次创作同人软件](./二次创作.md#同人软件)**的词条
 ## 目录
 
 - [1 软件信息](#软件信息)
 - [2 Staff](#Staff)
 - [3 内容页面](#内容页面)
 - [4 评论](#评论)
-
-
-
 
 
 ## 软件信息
@@ -26,19 +22,16 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://www.aquastyle.org/fusgigen_tod/">http://www.aquastyle.org/fusgigen_tod/</a></td></tr></tbody></table>
 
 不思議の幻想郷 -THE TOWER OF DESIRE-（同人游戏，AQUA STYLE，2015） - 2015年6月25日 由 AQUA STYLE  发布的RPG同人游戏，可在 PSVita 系统上运行，游戏人数为 单人模式，分级为 一般向
-
 ## Staff
 
 ## 内容页面
+
 - 游戏设定与剧情 (未找到链接)
 - 攻略 (未找到链接)
 - 其他信息 (未找到链接)
 
 
 ## 评论
-
-
-
 
 ---
 

@@ -1,12 +1,8 @@
 # 文件:Sound_Ravebanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9d\ns6%3ASound_Ravebanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9d\ns6%3ASound_Ravebanner%2Epng.html -->
 
 Sound_Rave | 社团LOGO
-
-
-
-
 
 
 ---

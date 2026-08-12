@@ -1,6 +1,6 @@
 # 文件:第7回TAMUSICコンサート～東方編～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b3\ns6%3A%E7%AC%AC7%E5%9B%9ETAMUSIC%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%BC%E3%83%88%EF%BD%9E%E6%9D%B1%E6%96%B9%E7%B7%A8%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b3\ns6%3A%E7%AC%AC7%E5%9B%9ETAMUSIC%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%BC%E3%83%88%EF%BD%9E%E6%9D%B1%E6%96%B9%E7%B7%A8%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 TAMUSIC | 专辑封面 | 封面图片
 
@@ -8,11 +8,11 @@ TAMUSIC | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [第7回TAMUSICコンサート～東方編～](./第7回TAMUSICコンサート～東方編～.md)  
-该封面包含的角色：- [秋静叶](./秋静叶.md)- [秋穰子](./秋穰子.md)- [东风谷早苗](./东风谷早苗.md)- [洩矢诹访子](./洩矢诹访子.md)
-
-
-
+- [第7回TAMUSICコンサート～東方編～](./第7回TAMUSICコンサート～東方編～.md)该封面包含的角色：
+- [秋静叶](./秋静叶.md)
+- [秋穰子](./秋穰子.md)
+- [东风谷早苗](./东风谷早苗.md)
+- [洩矢诹访子](./洩矢诹访子.md)
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:雾雨魔理沙（风神录Manual）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\27\ns6%3A%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%EF%BC%88%E9%A3%8E%E7%A5%9E%E5%BD%95Manual%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\27\ns6%3A%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%EF%BC%88%E9%A3%8E%E7%A5%9E%E5%BD%95Manual%EF%BC%89%2Ejpg.html -->
 
 Manual配图 | 东方风神录 | 雾雨魔理沙
-
-
-
-
 
 
 ---

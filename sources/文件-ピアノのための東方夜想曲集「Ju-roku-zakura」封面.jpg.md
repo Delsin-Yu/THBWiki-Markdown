@@ -1,6 +1,6 @@
 # 文件:ピアノのための東方夜想曲集「Ju-roku-zakura」封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2b\ns6%3A%E3%83%94%E3%82%A2%E3%83%8E%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E6%9D%B1%E6%96%B9%E5%A4%9C%E6%83%B3%E6%9B%B2%E9%9B%86%E3%80%8CJu-roku-zakura%E3%80%8D%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2b\ns6%3A%E3%83%94%E3%82%A2%E3%83%8E%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E6%9D%B1%E6%96%B9%E5%A4%9C%E6%83%B3%E6%9B%B2%E9%9B%86%E3%80%8CJu-roku-zakura%E3%80%8D%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 TAMUSIC | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ TAMUSIC | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [ピアノのための東方夜想曲集「Ju-roku-zakura」](./ピアノのための東方夜想曲集「Ju-roku-zakura」.md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)
-
-
-
+- [ピアノのための東方夜想曲集「Ju-roku-zakura」](./ピアノのための東方夜想曲集「Ju-roku-zakura」.md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
 
 
 ---

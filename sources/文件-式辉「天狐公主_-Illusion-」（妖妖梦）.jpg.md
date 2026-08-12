@@ -1,12 +1,8 @@
 # 文件:式辉「天狐公主_-Illusion-」（妖妖梦）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\88\ns6%3A%E5%BC%8F%E8%BE%89%E3%80%8C%E5%A4%A9%E7%8B%90%E5%85%AC%E4%B8%BB_-Illusion-%E3%80%8D%EF%BC%88%E5%A6%96%E5%A6%96%E6%A2%A6%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\88\ns6%3A%E5%BC%8F%E8%BE%89%E3%80%8C%E5%A4%A9%E7%8B%90%E5%85%AC%E4%B8%BB_-Illusion-%E3%80%8D%EF%BC%88%E5%A6%96%E5%A6%96%E6%A2%A6%EF%BC%89%2Ejpg.html -->
 
 东方妖妖梦 | 八云蓝 | 敌机符卡
-
-
-
-
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:SERGEANTbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c9\ns6%3ASERGEANTbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c9\ns6%3ASERGEANTbanner%2Ejpg.html -->
 
 SERGEANT | 社团LOGO
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Buried_EP（AMONG_THE_GLOOM）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\16\ns6%3ABuried_EP%EF%BC%88AMONG_THE_GLOOM%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\16\ns6%3ABuried_EP%EF%BC%88AMONG_THE_GLOOM%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 AMONG_THE_GLOOM | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ AMONG_THE_GLOOM | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Buried EP（AMONG THE GLOOM）](./Buried_EP（AMONG_THE_GLOOM）.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
-
-
-
+- [Buried EP（AMONG THE GLOOM）](./Buried_EP（AMONG_THE_GLOOM）.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
 
 ---

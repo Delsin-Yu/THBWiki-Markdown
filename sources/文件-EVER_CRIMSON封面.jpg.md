@@ -1,6 +1,6 @@
 # 文件:EVER_CRIMSON封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1c\ns6%3AEVER_CRIMSON%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1c\ns6%3AEVER_CRIMSON%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Q-BIT | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Q-BIT | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [EVER CRIMSON](./EVER_CRIMSON.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
-
-
-
+- [EVER CRIMSON](./EVER_CRIMSON.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:响符「Power_Resonance」（神灵庙）-1.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\86\ns6%3A%E5%93%8D%E7%AC%A6%E3%80%8CPower_Resonance%E3%80%8D%EF%BC%88%E7%A5%9E%E7%81%B5%E5%BA%99%EF%BC%89-1%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\86\ns6%3A%E5%93%8D%E7%AC%A6%E3%80%8CPower_Resonance%E3%80%8D%EF%BC%88%E7%A5%9E%E7%81%B5%E5%BA%99%EF%BC%89-1%2Epng.html -->
 
 东方神灵庙 | 幽谷响子 | 敌机符卡
-
-
-
-
 
 
 ---

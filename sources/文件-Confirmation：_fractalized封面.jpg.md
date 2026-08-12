@@ -1,6 +1,6 @@
 # 文件:Confirmation：_fractalized封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\21\ns6%3AConfirmation%EF%BC%9A_fractalized%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\21\ns6%3AConfirmation%EF%BC%9A_fractalized%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 fractanisharmonicoo | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@ fractanisharmonicoo | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Confirmation： fractalized](./Confirmation：_fractalized.md)  
-该封面包含的角色：- [蓬莱山辉夜](./蓬莱山辉夜.md)
+- [Confirmation： fractalized](./Confirmation：_fractalized.md)该封面包含的角色：
+- [蓬莱山辉夜](./蓬莱山辉夜.md)
 
   
-源地址：[[1]](https://static.tumblr.com/468996501f41c4583b077f4fdea4d6ed/nlgspr5/6mWq78i7p/tumblr_static_2019foeeqva8kkcg80s44s0.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://static.tumblr.com/468996501f41c4583b077f4fdea4d6ed/nlgspr5/6mWq78i7p/tumblr_static_2019foeeqva8kkcg80s44s0.jpg)  
 
 ---
 

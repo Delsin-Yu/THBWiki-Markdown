@@ -1,12 +1,8 @@
 # 文件:THD2博丽御币.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\84\ns6%3ATHD2%E5%8D%9A%E4%B8%BD%E5%BE%A1%E5%B8%81%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\84\ns6%3ATHD2%E5%8D%9A%E4%B8%BD%E5%BE%A1%E5%B8%81%2Epng.html -->
 
 AvalonStudioOfficial
-
-
-
-
 
 
 ---

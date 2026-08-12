@@ -1,6 +1,6 @@
 # 文件:U.N.オーエンはずるむけなのか？封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9f\ns6%3AU%2EN%2E%E3%82%AA%E3%83%BC%E3%82%A8%E3%83%B3%E3%81%AF%E3%81%9A%E3%82%8B%E3%82%80%E3%81%91%E3%81%AA%E3%81%AE%E3%81%8B%EF%BC%9F%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9f\ns6%3AU%2EN%2E%E3%82%AA%E3%83%BC%E3%82%A8%E3%83%B3%E3%81%AF%E3%81%9A%E3%82%8B%E3%82%80%E3%81%91%E3%81%AA%E3%81%AE%E3%81%8B%EF%BC%9F%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 電開製作所
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [U.N.オーエンはずるむけなのか？](./U.N.オーエンはずるむけなのか？.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
-
-
-
+- [U.N.オーエンはずるむけなのか？](./U.N.オーエンはずるむけなのか？.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
 
 ---

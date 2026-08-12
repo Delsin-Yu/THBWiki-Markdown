@@ -1,14 +1,11 @@
 # 文件:Free-Logicbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\77\ns6%3AFree-Logicbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\77\ns6%3AFree-Logicbanner%2Ejpg.html -->
 
 Free-Logic | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

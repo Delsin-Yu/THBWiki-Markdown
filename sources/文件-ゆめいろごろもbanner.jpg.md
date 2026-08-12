@@ -1,12 +1,8 @@
 # 文件:ゆめいろごろもbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4e\ns6%3A%E3%82%86%E3%82%81%E3%81%84%E3%82%8D%E3%81%94%E3%82%8D%E3%82%82banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4e\ns6%3A%E3%82%86%E3%82%81%E3%81%84%E3%82%8D%E3%81%94%E3%82%8D%E3%82%82banner%2Ejpg.html -->
 
 ゆめいろごろも | 社团LOGO
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:SHINE（同人志）封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2d\ns6%3ASHINE%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2d\ns6%3ASHINE%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Honey／Orpheus | 同人志封面 | 封面图片
 
@@ -10,19 +10,14 @@ Honey／Orpheus | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [SHINE（同人志）](./SHINE（同人志）.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [SHINE（同人志）](./SHINE（同人志）.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
   
-源地址：[direct image link (original size)](https://blog-imgs-36-origin.fc2.com/o/r/p/orpheushoney/20091222210905118.png), [source page](http://orpheushoney.blog40.fc2.com/blog-entry-17.html)
-  
+源地址：[direct image link (original size)](https://blog-imgs-36-origin.fc2.com/o/r/p/orpheushoney/20091222210905118.png), [source page](http://orpheushoney.blog40.fc2.com/blog-entry-17.html)  
   
 note: the Pixiv version of the cover is weirdly low quality - it might have been upscaled
   
-
-
-
-
 
 ---
 

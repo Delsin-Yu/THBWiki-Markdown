@@ -1,6 +1,6 @@
 # 文件:幻想太公望II封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\65\ns6%3A%E5%B9%BB%E6%83%B3%E5%A4%AA%E5%85%AC%E6%9C%9BII%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\65\ns6%3A%E5%B9%BB%E6%83%B3%E5%A4%AA%E5%85%AC%E6%9C%9BII%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 あかてぃんち | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [幻想太公望II](./幻想太公望II.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
+- [幻想太公望II](./幻想太公望II.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-源地址：[[1]](https://cdn.melonbooks.co.jp/user_data/packages/resize_image.php?image=213001021629.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://cdn.melonbooks.co.jp/user_data/packages/resize_image.php?image=213001021629.jpg)  
 
 ---
 

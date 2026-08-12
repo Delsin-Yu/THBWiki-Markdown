@@ -1,6 +1,6 @@
 # 文件:A-Oneのそもそも論本封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\51\ns6%3AA-One%E3%81%AE%E3%81%9D%E3%82%82%E3%81%9D%E3%82%82%E8%AB%96%E6%9C%AC%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\51\ns6%3AA-One%E3%81%AE%E3%81%9D%E3%82%82%E3%81%9D%E3%82%82%E8%AB%96%E6%9C%AC%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 A-One | 同人志封面 | 封面图片
 
@@ -10,16 +10,29 @@ A-One | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [A-Oneのそもそも論本](./A-Oneのそもそも論本.md)  
-该封面包含的角色：- [露米娅](./露米娅.md)- [琪露诺](./琪露诺.md)- [红美铃](./红美铃.md)- [博丽灵梦](./博丽灵梦.md)- 十六夜咲夜 (未找到链接)- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [橙](./橙.md)- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [魂魄妖梦](./魂魄妖梦.md)- [西行寺幽幽子](./西行寺幽幽子.md)- [八云蓝](./八云蓝.md)- [八云紫](./八云紫.md)- [上白泽慧音](./上白泽慧音.md)- [藤原妹红](./藤原妹红.md)- [射命丸文](./射命丸文.md)- [东风谷早苗](./东风谷早苗.md)- [洩矢诹访子](./洩矢诹访子.md)- [雾雨魔理沙](./雾雨魔理沙.md)- 原创角色 (未找到链接)
+- [A-Oneのそもそも論本](./A-Oneのそもそも論本.md)该封面包含的角色：
+- [露米娅](./露米娅.md)
+- [琪露诺](./琪露诺.md)
+- [红美铃](./红美铃.md)
+- [博丽灵梦](./博丽灵梦.md)
+- [十六夜咲夜](./十六夜咲夜.md)
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [橙](./橙.md)
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [魂魄妖梦](./魂魄妖梦.md)
+- [西行寺幽幽子](./西行寺幽幽子.md)
+- [八云蓝](./八云蓝.md)
+- [八云紫](./八云紫.md)
+- [上白泽慧音](./上白泽慧音.md)
+- [藤原妹红](./藤原妹红.md)
+- [射命丸文](./射命丸文.md)
+- [东风谷早苗](./东风谷早苗.md)
+- [洩矢诹访子](./洩矢诹访子.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
+- 原创角色 (未找到链接)
 
   
-[https://www.melonbooks.co.jp/detail/detail.php?product_id=111220](https://www.melonbooks.co.jp/detail/detail.php?product_id=111220)
-  
-
-
-
-
+[https://www.melonbooks.co.jp/detail/detail.php?product_id=111220](https://www.melonbooks.co.jp/detail/detail.php?product_id=111220)  
 
 ---
 

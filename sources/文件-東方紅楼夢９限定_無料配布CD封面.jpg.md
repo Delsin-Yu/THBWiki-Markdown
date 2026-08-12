@@ -1,6 +1,6 @@
 # 文件:東方紅楼夢９限定_無料配布CD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bd\ns6%3A%E6%9D%B1%E6%96%B9%E7%B4%85%E6%A5%BC%E5%A4%A2%EF%BC%99%E9%99%90%E5%AE%9A_%E7%84%A1%E6%96%99%E9%85%8D%E5%B8%83CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bd\ns6%3A%E6%9D%B1%E6%96%B9%E7%B4%85%E6%A5%BC%E5%A4%A2%EF%BC%99%E9%99%90%E5%AE%9A_%E7%84%A1%E6%96%99%E9%85%8D%E5%B8%83CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 スタジオネネム | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方紅楼夢９限定 無料配布CD](./東方紅楼夢９限定_無料配布CD.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [東方紅楼夢９限定 無料配布CD](./東方紅楼夢９限定_無料配布CD.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

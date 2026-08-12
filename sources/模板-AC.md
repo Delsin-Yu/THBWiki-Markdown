@@ -1,16 +1,12 @@
 # 模板:AC
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\a\a6\ns10%3AAC.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\a\a6\ns10%3AAC.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

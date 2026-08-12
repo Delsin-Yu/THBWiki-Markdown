@@ -1,6 +1,6 @@
 # 文件:fragment（LOVEマシーン）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\04\ns6%3Afragment%EF%BC%88LOVE%E3%83%9E%E3%82%B7%E3%83%BC%E3%83%B3%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\04\ns6%3Afragment%EF%BC%88LOVE%E3%83%9E%E3%82%B7%E3%83%BC%E3%83%B3%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 LOVEマシーン | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ LOVEマシーン | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [fragment（LOVEマシーン）](./fragment（LOVEマシーン）.md)  
-该封面包含的角色：- [伊吹萃香](./伊吹萃香.md)
-
-
-
+- [fragment（LOVEマシーン）](./fragment（LOVEマシーン）.md)该封面包含的角色：
+- [伊吹萃香](./伊吹萃香.md)
 
 
 ---

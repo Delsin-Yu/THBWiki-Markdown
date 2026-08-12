@@ -1,6 +1,6 @@
 # 文件:幻華楽logo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\ba\ns6%3A%E5%B9%BB%E8%8F%AF%E6%A5%BDlogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\ba\ns6%3A%E5%B9%BB%E8%8F%AF%E6%A5%BDlogo%2Ejpg.html -->
 
 幻華楽 | 社团LOGO
 
@@ -9,10 +9,6 @@
   
 源地址：[douban avatar](https://img9.doubanio.com/view/site/large/public/4fc575bb13d435b.jpg) (same size but higher quality than weibo or bilibili avatar)
   
-
-
-
-
 
 ---
 

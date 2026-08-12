@@ -1,37 +1,21 @@
 # T's_System/射命丸文
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\f0\ns0%3AT%27s_System%2F%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\f0\ns0%3AT%27s_System%2F%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87.html -->
 
 射命丸文PVCFigure手办模型
 
 本页是关于东方Project  
- **相关实体周边 (未找到链接)** 的词条
-
+**相关实体周边 (未找到链接)**的词条
 ## 模型信息
 
-<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 射命丸文 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>无</td></tr><tr><td class="label">角色</td><td><a href="./射命丸文.md" title="射命丸文">射命丸文</a></td></tr><tr><td class="label">原型师</td><td><a href="/index.php?title=%E5%AE%AB%E5%B7%9D%E6%AD%A6&amp;action=edit&amp;redlink=1" class="new" title="宫川武（页面不存在）">宫川武</a></td></tr><tr><td class="label">比例</td><td>1/6</td></tr><tr><td class="label">尺寸</td><td>230mm</td></tr><tr><td class="label">状态</td><td>已发售</td></tr><tr><td class="label">售价</td><td>8500日元</td></tr><tr><td class="label">首发日期</td><td>2010-10</td></tr><tr><td class="label">发售方</td><td><a href="/index.php?title=T%27s_System&amp;action=edit&amp;redlink=1" class="new" title="T&#39;s System（页面不存在）">T&#39;s System</a></td></tr><tr><td class="label">官网页面</td><td><a rel="nofollow" class="external free" href="http://members.jcom.home.ne.jp/tssystem/">http://members.jcom.home.ne.jp/tssystem/</a></td></tr></tbody></table>
+<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 射命丸文 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>无</td></tr><tr><td class="label">角色</td><td><a href="./射命丸文.md" title="射命丸文">射命丸文</a></td></tr><tr><td class="label">原型师</td><td><a class="new" title="宫川武（页面不存在）">宫川武</a></td></tr><tr><td class="label">比例</td><td>1/6</td></tr><tr><td class="label">尺寸</td><td>230mm</td></tr><tr><td class="label">状态</td><td>已发售</td></tr><tr><td class="label">售价</td><td>8500日元</td></tr><tr><td class="label">首发日期</td><td>2010-10</td></tr><tr><td class="label">发售方</td><td><a class="new" title="T&#39;s System（页面不存在）">T's System</a></td></tr><tr><td class="label">官网页面</td><td><a rel="nofollow" class="external free" href="http://members.jcom.home.ne.jp/tssystem/">http://members.jcom.home.ne.jp/tssystem/</a></td></tr></tbody></table>
 
 T's System/射命丸文（周边） - 射命丸文PVCFigure手办模型
-
 ## 参考图片
-
-
-
-[](./文件-T's_System射命丸文-1.jpg.md)
-
-
-[](./文件-T's_System射命丸文-2.jpg.md)
-
-
-[](./文件-T's_System射命丸文-3.jpg.md)
-
+<img alt="T&#39;s System射命丸文" src="https://upload.thwiki.cc/thumb/6/69/T%27s_System%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87-1.jpg/160px-T%27s_System%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87-1.jpg" decoding="async" loading="lazy" width="160" height="241" srcset="https://upload.thwiki.cc/thumb/6/69/T%27s_System%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87-1.jpg/240px-T%27s_System%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87-1.jpg 1.5x, https://upload.thwiki.cc/thumb/6/69/T%27s_System%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87-1.jpg/320px-T%27s_System%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87-1.jpg 2x" data-file-width="532" data-file-height="800">
+<img alt="T&#39;s System射命丸文" src="https://upload.thwiki.cc/thumb/7/74/T%27s_System%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87-2.jpg/160px-T%27s_System%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87-2.jpg" decoding="async" loading="lazy" width="160" height="241" srcset="https://upload.thwiki.cc/thumb/7/74/T%27s_System%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87-2.jpg/240px-T%27s_System%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87-2.jpg 1.5x, https://upload.thwiki.cc/thumb/7/74/T%27s_System%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87-2.jpg/320px-T%27s_System%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87-2.jpg 2x" data-file-width="532" data-file-height="800">
+<img alt="T&#39;s System射命丸文" src="https://upload.thwiki.cc/thumb/6/6e/T%27s_System%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87-3.jpg/160px-T%27s_System%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87-3.jpg" decoding="async" loading="lazy" width="160" height="241" srcset="https://upload.thwiki.cc/thumb/6/6e/T%27s_System%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87-3.jpg/240px-T%27s_System%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87-3.jpg 1.5x, https://upload.thwiki.cc/thumb/6/6e/T%27s_System%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87-3.jpg/320px-T%27s_System%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87-3.jpg 2x" data-file-width="532" data-file-height="800">
 公式图
-
-
-
-
-
-
 
 ---
 

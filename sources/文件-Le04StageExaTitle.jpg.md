@@ -1,14 +1,11 @@
 # 文件:Le04StageExaTitle.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7e\ns6%3ALe04StageExaTitle%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7e\ns6%3ALe04StageExaTitle%2Ejpg.html -->
 
 连缘天影战记
 
 
 ## 文件说明
-
-
-
 
 ---
 

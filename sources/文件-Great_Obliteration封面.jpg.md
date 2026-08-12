@@ -1,6 +1,6 @@
 # 文件:Great_Obliteration封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e1\ns6%3AGreat_Obliteration%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e1\ns6%3AGreat_Obliteration%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ジェリコの法則 | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Great Obliteration](./Great_Obliteration.md)  
-该封面包含的角色：- [饕餮尤魔](./饕餮尤魔.md)
-
-
-
+- [Great Obliteration](./Great_Obliteration.md)该封面包含的角色：
+- [饕餮尤魔](./饕餮尤魔.md)
 
 
 ---

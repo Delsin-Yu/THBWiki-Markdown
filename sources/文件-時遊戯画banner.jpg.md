@@ -1,12 +1,8 @@
 # 文件:時遊戯画banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d7\ns6%3A%E6%99%82%E9%81%8A%E6%88%AF%E7%94%BBbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d7\ns6%3A%E6%99%82%E9%81%8A%E6%88%AF%E7%94%BBbanner%2Ejpg.html -->
 
 時遊戯画 | 社团LOGO
-
-
-
-
 
 
 ---

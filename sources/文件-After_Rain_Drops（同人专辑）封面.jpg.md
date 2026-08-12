@@ -1,6 +1,6 @@
 # 文件:After_Rain_Drops（同人专辑）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\33\ns6%3AAfter_Rain_Drops%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\33\ns6%3AAfter_Rain_Drops%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 After_Rain_Drops | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ After_Rain_Drops | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [After Rain Drops（同人专辑）](./After_Rain_Drops（同人专辑）.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [After Rain Drops（同人专辑）](./After_Rain_Drops（同人专辑）.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

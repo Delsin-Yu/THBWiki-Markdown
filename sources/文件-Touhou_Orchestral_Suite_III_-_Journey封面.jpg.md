@@ -1,6 +1,6 @@
 # 文件:Touhou_Orchestral_Suite_III_-_Journey封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\60\ns6%3ATouhou_Orchestral_Suite_III_-_Journey%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\60\ns6%3ATouhou_Orchestral_Suite_III_-_Journey%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 crescentia | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ crescentia | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Touhou Orchestral Suite III - Journey](./Touhou_Orchestral_Suite_III_-_Journey.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [Touhou Orchestral Suite III - Journey](./Touhou_Orchestral_Suite_III_-_Journey.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

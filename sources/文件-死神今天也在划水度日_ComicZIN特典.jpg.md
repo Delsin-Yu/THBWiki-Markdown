@@ -1,12 +1,8 @@
 # 文件:死神今天也在划水度日_ComicZIN特典.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\de\ns6%3A%E6%AD%BB%E7%A5%9E%E4%BB%8A%E5%A4%A9%E4%B9%9F%E5%9C%A8%E5%88%92%E6%B0%B4%E5%BA%A6%E6%97%A5_ComicZIN%E7%89%B9%E5%85%B8%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\de\ns6%3A%E6%AD%BB%E7%A5%9E%E4%BB%8A%E5%A4%A9%E4%B9%9F%E5%9C%A8%E5%88%92%E6%B0%B4%E5%BA%A6%E6%97%A5_ComicZIN%E7%89%B9%E5%85%B8%2Ejpg.html -->
 
 死神今天也在划水度日
-
-
-
-
 
 
 ---

@@ -1,16 +1,12 @@
 # 模板:はかくら☆Yahoo！
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\0\00\ns10%3A%E3%81%AF%E3%81%8B%E3%81%8F%E3%82%89%E2%98%86Yahoo%EF%BC%81.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\0\00\ns10%3A%E3%81%AF%E3%81%8B%E3%81%8F%E3%82%89%E2%98%86Yahoo%EF%BC%81.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

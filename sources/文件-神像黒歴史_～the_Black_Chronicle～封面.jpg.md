@@ -1,6 +1,6 @@
 # 文件:神像黒歴史_～the_Black_Chronicle～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4a\ns6%3A%E7%A5%9E%E5%83%8F%E9%BB%92%E6%AD%B4%E5%8F%B2_%EF%BD%9Ethe_Black_Chronicle%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4a\ns6%3A%E7%A5%9E%E5%83%8F%E9%BB%92%E6%AD%B4%E5%8F%B2_%EF%BD%9Ethe_Black_Chronicle%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 神像彫刻家
 
@@ -11,9 +11,6 @@
   
 
 - [神像黒歴史 ～the Black Chronicle～](./神像黒歴史_～the_Black_Chronicle～.md)
-
-
-
 
 
 ---

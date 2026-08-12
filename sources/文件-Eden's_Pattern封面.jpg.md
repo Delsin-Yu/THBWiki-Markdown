@@ -1,6 +1,6 @@
 # 文件:Eden's_Pattern封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ec\ns6%3AEden%27s_Pattern%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ec\ns6%3AEden%27s_Pattern%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Lost_Garden | 专辑封面 | 封面图片
 
@@ -8,16 +8,12 @@ Lost_Garden | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Eden's Pattern](./Eden's_Pattern.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)- [森近霖之助](./森近霖之助.md)
+- [Eden's Pattern](./Eden's_Pattern.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
+- [森近霖之助](./森近霖之助.md)
 
   
-源地址:[[1]](http://lost-garden.info/discography/images/edenspattern_jacket.jpg)
-  
-
-
-
-
+源地址:[\[1\]](http://lost-garden.info/discography/images/edenspattern_jacket.jpg)  
 
 ---
 

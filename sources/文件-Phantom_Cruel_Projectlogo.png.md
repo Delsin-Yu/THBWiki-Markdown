@@ -1,16 +1,11 @@
 # 文件:Phantom_Cruel_Projectlogo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\63\ns6%3APhantom_Cruel_Projectlogo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\63\ns6%3APhantom_Cruel_Projectlogo%2Epng.html -->
 
 Phantom_Cruel_Project | 社团LOGO
 
   
-源地址：[[1]](https://pbs.twimg.com/profile_images/1106934914908221441/KDozSd0W_400x400.png)
-  
-
-
-
-
+源地址：[\[1\]](https://pbs.twimg.com/profile_images/1106934914908221441/KDozSd0W_400x400.png)  
 
 ---
 

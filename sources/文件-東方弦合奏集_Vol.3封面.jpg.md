@@ -1,6 +1,6 @@
 # 文件:東方弦合奏集_Vol.3封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e1\ns6%3A%E6%9D%B1%E6%96%B9%E5%BC%A6%E5%90%88%E5%A5%8F%E9%9B%86_Vol%2E3%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e1\ns6%3A%E6%9D%B1%E6%96%B9%E5%BC%A6%E5%90%88%E5%A5%8F%E9%9B%86_Vol%2E3%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Arisaki_Works | 专辑封面 | 封面图片
 
@@ -10,11 +10,9 @@ Arisaki_Works | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方弦合奏集 Vol.3](./東方弦合奏集_Vol.3.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [小野塚小町](./小野塚小町.md)
-
-
-
+- [東方弦合奏集 Vol.3](./東方弦合奏集_Vol.3.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [小野塚小町](./小野塚小町.md)
 
 
 ---

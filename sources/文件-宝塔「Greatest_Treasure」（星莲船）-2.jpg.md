@@ -1,12 +1,8 @@
 # 文件:宝塔「Greatest_Treasure」（星莲船）-2.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ec\ns6%3A%E5%AE%9D%E5%A1%94%E3%80%8CGreatest_Treasure%E3%80%8D%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%EF%BC%89-2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ec\ns6%3A%E5%AE%9D%E5%A1%94%E3%80%8CGreatest_Treasure%E3%80%8D%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%EF%BC%89-2%2Ejpg.html -->
 
 东方星莲船 | 娜兹玲 | 敌机符卡
-
-
-
-
 
 
 ---

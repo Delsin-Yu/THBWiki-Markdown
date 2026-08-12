@@ -1,6 +1,6 @@
 # 文件:Imperishable_Night_EDM_Vol._1封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\44\ns6%3AImperishable_Night_EDM_Vol%2E_1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\44\ns6%3AImperishable_Night_EDM_Vol%2E_1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Nakarin | 专辑封面 | 封面图片
 
@@ -11,12 +11,7 @@ Nakarin | 专辑封面 | 封面图片
 - [Imperishable Night EDM Vol. 1](./Imperishable_Night_EDM_Vol._1.md)
 
   
-源地址：[[1]](https://nakarin.bandcamp.com/album/imperishable-night-edm-vol-1)
-  
-
-
-
-
+源地址：[\[1\]](https://nakarin.bandcamp.com/album/imperishable-night-edm-vol-1)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:theme_of_east_-preview-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d4\ns6%3Atheme_of_east_-preview-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d4\ns6%3Atheme_of_east_-preview-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ROUGH_TIME | 专辑封面 | 封面图片
 
@@ -10,8 +10,9 @@ ROUGH_TIME | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [theme of east -preview-](./theme_of_east_-preview-.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [雾雨魔理沙](./雾雨魔理沙.md)
+- [theme of east -preview-](./theme_of_east_-preview-.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
 included in download
@@ -19,10 +20,6 @@ included in download
   
 A version of the cover without the circle name and URL can be found on the artist's Pixiv ([ID: 1383341](https://www.pixiv.net/artworks/1383341)). It's not used on the physical release as shown on [Surugaya](https://www.suruga-ya.jp/product/detail/186121223).
   
-
-
-
-
 
 ---
 

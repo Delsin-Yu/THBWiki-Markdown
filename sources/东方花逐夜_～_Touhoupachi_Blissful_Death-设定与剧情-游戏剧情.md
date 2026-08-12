@@ -1,9 +1,8 @@
 # 东方花逐夜_～_Touhoupachi_Blissful_Death/设定与剧情/游戏剧情
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\7\70\ns0%3A%E4%B8%9C%E6%96%B9%E8%8A%B1%E9%80%90%E5%A4%9C_%EF%BD%9E_Touhoupachi_Blissful_Death%2F%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85%2F%E6%B8%B8%E6%88%8F%E5%89%A7%E6%83%85.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\7\70\ns0%3A%E4%B8%9C%E6%96%B9%E8%8A%B1%E9%80%90%E5%A4%9C_%EF%BD%9E_Touhoupachi_Blissful_Death%2F%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85%2F%E6%B8%B8%E6%88%8F%E5%89%A7%E6%83%85.html -->
 
 正灌
-
 
   
 已经是持续的第三天了。  
@@ -79,7 +78,6 @@
 对于幻想乡这种大背景来说，结局必然是美好的，大佐被击败了，神主也迅速地修复了大结界解除了这次异变，累了好几天带着一身疲倦返回到神社的博丽灵梦，再一次注意到塞钱箱里有什么东西。  
 
 还是一张纸，但是字数比起上一次多了很多。  
-
   
 
 真的很高兴能帮上你们这个忙，多少也赎了一些过去的罪孽。  
@@ -91,7 +89,6 @@
 真的很感谢这个理想的世界。  
 
 署名：曾经的首领蜂队队员  
-
   
 
 Extra  
@@ -122,11 +119,6 @@ Extra
 
 战斗，开始了。
   
-
-
-
-
-
 
 ---
 

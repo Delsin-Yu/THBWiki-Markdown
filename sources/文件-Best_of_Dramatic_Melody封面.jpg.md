@@ -1,6 +1,6 @@
 # 文件:Best_of_Dramatic_Melody封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7b\ns6%3ABest_of_Dramatic_Melody%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7b\ns6%3ABest_of_Dramatic_Melody%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Unlucky_Morpheus | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Unlucky_Morpheus | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Best of Dramatic Melody](./Best_of_Dramatic_Melody.md)  
-该封面包含的角色：- [萨丽爱尔](./萨丽爱尔.md)
+- [Best of Dramatic Melody](./Best_of_Dramatic_Melody.md)该封面包含的角色：
+- [萨丽爱尔](./萨丽爱尔.md)
 
   
-源地址：[[1]](http://sound.jp/ankimo/Best_400_RGB.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://sound.jp/ankimo/Best_400_RGB.jpg)  
 
 ---
 

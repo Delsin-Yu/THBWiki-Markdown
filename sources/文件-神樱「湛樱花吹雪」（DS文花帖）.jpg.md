@@ -1,12 +1,8 @@
 # 文件:神樱「湛樱花吹雪」（DS文花帖）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2c\ns6%3A%E7%A5%9E%E6%A8%B1%E3%80%8C%E6%B9%9B%E6%A8%B1%E8%8A%B1%E5%90%B9%E9%9B%AA%E3%80%8D%EF%BC%88DS%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2c\ns6%3A%E7%A5%9E%E6%A8%B1%E3%80%8C%E6%B9%9B%E6%A8%B1%E8%8A%B1%E5%90%B9%E9%9B%AA%E3%80%8D%EF%BC%88DS%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Ejpg.html -->
 
 东方文花帖DS | 敌机符卡 | 洩矢诹访子
-
-
-
-
 
 
 ---

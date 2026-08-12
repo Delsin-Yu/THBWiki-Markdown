@@ -1,26 +1,23 @@
 # PLUS_ALPHA
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\c\ce\ns0%3APLUS_ALPHA.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\c\ce\ns0%3APLUS_ALPHA.html -->
 
 2008年5月25日 由 DEMOUR402 于 博丽神社例大祭5 发布的漫画同人志，一共246页，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人志 (未找到链接)** 的词条
-
+**[二次创作同人志](./二次创作.md#同人志)**的词条
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-PLUS_ALPHA封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/4/47/PLUS_ALPHA%E5%B0%81%E9%9D%A2.jpg/117px-PLUS_ALPHA%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="117" height="168" srcset="https://upload.thwiki.cc/thumb/4/47/PLUS_ALPHA%E5%B0%81%E9%9D%A2.jpg/176px-PLUS_ALPHA%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/4/47/PLUS_ALPHA%E5%B0%81%E9%9D%A2.jpg/234px-PLUS_ALPHA%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="268" data-file-height="384"></a><div class="cover-char">角色：<a href="./爱丽丝·玛格特洛依德.md" title="爱丽丝·玛格特洛依德">爱丽丝·玛格特洛依德</a>，<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a>，<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></div></td>
 </tr><tr><td class="label">名称</td><td colspan="2"> PLUS ALPHA </td></tr><tr><td class="label">制作方</td><td><a href="./DEMOUR402.md" title="DEMOUR402">DEMOUR402</a></td><td class="cover-artwork" rowspan="6" style="min-width:168px;"><a href="./文件-PLUS_ALPHA封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/4/47/PLUS_ALPHA%E5%B0%81%E9%9D%A2.jpg/117px-PLUS_ALPHA%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="117" height="168" srcset="https://upload.thwiki.cc/thumb/4/47/PLUS_ALPHA%E5%B0%81%E9%9D%A2.jpg/176px-PLUS_ALPHA%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/4/47/PLUS_ALPHA%E5%B0%81%E9%9D%A2.jpg/234px-PLUS_ALPHA%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="268" data-file-height="384"></a><div class="cover-char">角色：<a href="./爱丽丝·玛格特洛依德.md" title="爱丽丝·玛格特洛依德">爱丽丝·玛格特洛依德</a>，<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a>，<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2008-05-25&#160;（<a href="/展会作品列表?e=%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD%235">第五回 博麗神社例大祭</a>）</td></tr><tr><td class="label">类型</td><td>漫画</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">页数</td><td>246P</td></tr><tr><td class="label">售价</td><td>2000日元</td></tr>
+</tr><tr><td class="label">首发日期</td><td>2008-05-25 （<a href="./展会作品列表.md#5">第五回 博麗神社例大祭</a>）</td></tr><tr><td class="label">类型</td><td>漫画</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">页数</td><td>246P</td></tr><tr><td class="label">售价</td><td>2000日元</td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://www8.plala.or.jp/syuji/">http://www8.plala.or.jp/syuji/</a><br><span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span></td></tr><tr><td class="label">备注</td><td colspan="2">总集编</td></tr></tbody></table>
 
 PLUS ALPHA（同人志，DEMOUR402，2008） - 2008年5月25日 由 DEMOUR402 于 博丽神社例大祭5 发布的漫画同人志，一共246页，分级为 一般向
-
 ## Staff
   
 ツヤダシシュウジ
   
-
 
 ## 作品列表
 
@@ -48,7 +45,7 @@ PLUS ALPHA（同人志，DEMOUR402，2008） - 2008年5月25日 由 DEMOUR402 �
 <td>[[../Loiseau Blew|Loiseau Blew]]</td>
 <td>2006-08-13</td>
 <td>Comic Market 70</td>
-<td><div class="floatright"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=Loiseau_Blew%E5%B0%81%E9%9D%A2.jpg" class="new" title="文件:Loiseau Blew封面.jpg">文件:Loiseau Blew封面.jpg</a></div>
+<td><div class="floatright"><a class="new" title="文件:Loiseau Blew封面.jpg">文件:Loiseau Blew封面.jpg</a></div>
 </td></tr>
 <tr>
 <td>[[../ALFA and OMEGA|ALFA and OMEGA]]</td>
@@ -70,11 +67,7 @@ PLUS ALPHA（同人志，DEMOUR402，2008） - 2008年5月25日 由 DEMOUR402 �
 </td></tr></tbody></table>
 
 
-
 ## 评论
-
-
-
 
 ---
 

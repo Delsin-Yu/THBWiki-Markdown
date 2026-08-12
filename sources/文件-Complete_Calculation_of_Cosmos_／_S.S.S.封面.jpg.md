@@ -1,6 +1,6 @@
 # 文件:Complete_Calculation_of_Cosmos_／_S.S.S.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\70\ns6%3AComplete_Calculation_of_Cosmos_%EF%BC%8F_S%2ES%2ES%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\70\ns6%3AComplete_Calculation_of_Cosmos_%EF%BC%8F_S%2ES%2ES%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 あなざーでぃめんしょん | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Complete Calculation of Cosmos ／ S.S.S.](./Complete_Calculation_of_Cosmos_／_S.S.S..md)  
-该封面包含的角色：- [娜兹玲](./娜兹玲.md)
+- [Complete Calculation of Cosmos ／ S.S.S.](./Complete_Calculation_of_Cosmos_／_S.S.S..md)该封面包含的角色：
+- [娜兹玲](./娜兹玲.md)
 
   
-[Pixiv artwork ID: 5845852 (original size)](https://www.pixiv.net/artworks/5845852)
-  
-
-
-
-
+[Pixiv artwork ID: 5845852 (original size)](https://www.pixiv.net/artworks/5845852)  
 
 ---
 

@@ -1,12 +1,8 @@
 # 文件:GoM插图（勇仪-3-5）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d1\ns6%3AGoM%E6%8F%92%E5%9B%BE%EF%BC%88%E5%8B%87%E4%BB%AA-3-5%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d1\ns6%3AGoM%E6%8F%92%E5%9B%BE%EF%BC%88%E5%8B%87%E4%BB%AA-3-5%EF%BC%89%2Ejpg.html -->
 
 星熊勇仪 | 魔理沙的魔法书
-
-
-
-
 
 
 ---

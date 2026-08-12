@@ -1,14 +1,11 @@
 # 文件:东方Project人妖名鉴_宵暗篇封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\51\ns6%3A%E4%B8%9C%E6%96%B9Project%E4%BA%BA%E5%A6%96%E5%90%8D%E9%89%B4_%E5%AE%B5%E6%9A%97%E7%AF%87%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\51\ns6%3A%E4%B8%9C%E6%96%B9Project%E4%BA%BA%E5%A6%96%E5%90%8D%E9%89%B4_%E5%AE%B5%E6%9A%97%E7%AF%87%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 东方Project人妖名鉴 | 官方出版物封面
 
 
 ## 文件说明
-
-
-
 
 ---
 

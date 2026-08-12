@@ -1,12 +1,8 @@
 # 文件:光学「Hydro-Camouflage」（风神录）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8a\ns6%3A%E5%85%89%E5%AD%A6%E3%80%8CHydro-Camouflage%E3%80%8D%EF%BC%88%E9%A3%8E%E7%A5%9E%E5%BD%95%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8a\ns6%3A%E5%85%89%E5%AD%A6%E3%80%8CHydro-Camouflage%E3%80%8D%EF%BC%88%E9%A3%8E%E7%A5%9E%E5%BD%95%EF%BC%89%2Epng.html -->
 
 东方风神录 | 敌机符卡 | 河城荷取
-
-
-
-
 
 
 ---

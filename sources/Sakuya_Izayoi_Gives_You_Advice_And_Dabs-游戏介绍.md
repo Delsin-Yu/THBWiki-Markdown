@@ -1,6 +1,6 @@
 # Sakuya_Izayoi_Gives_You_Advice_And_Dabs/游戏介绍
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\24\ns0%3ASakuya_Izayoi_Gives_You_Advice_And_Dabs%2F%E6%B8%B8%E6%88%8F%E4%BB%8B%E7%BB%8D.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\24\ns0%3ASakuya_Izayoi_Gives_You_Advice_And_Dabs%2F%E6%B8%B8%E6%88%8F%E4%BB%8B%E7%BB%8D.html -->
 
 Sigyaad_Team
 
@@ -16,10 +16,6 @@ Sigyaad_Team
 和咲夜小姐一起享受沙滩的美景，同时她也可以帮你分担内心的苦闷，给你一些人生的建议什么的。当你觉得难过，沮丧或者焦虑的时候，咲夜小姐可以给你一些小小的建议来帮助你改善心情。此外，咲夜小姐为了让你开心起来，还特地准备了神秘的动作。
 游戏内有着非常可爱的ZUN式风格的立绘，还有一片静谧的沙滩和许多能够帮得上忙的建议和策略，放下心中的杂念来享受它吧。
   
-
-
-
-
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:ガネメBEST2封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a0\ns6%3A%E3%82%AC%E3%83%8D%E3%83%A1BEST2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a0\ns6%3A%E3%82%AC%E3%83%8D%E3%83%A1BEST2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ガネメ | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [ガネメBEST2](./ガネメBEST2.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [ガネメBEST2](./ガネメBEST2.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

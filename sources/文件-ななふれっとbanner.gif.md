@@ -1,14 +1,11 @@
 # 文件:ななふれっとbanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0c\ns6%3A%E3%81%AA%E3%81%AA%E3%81%B5%E3%82%8C%E3%81%A3%E3%81%A8banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0c\ns6%3A%E3%81%AA%E3%81%AA%E3%81%B5%E3%82%8C%E3%81%A3%E3%81%A8banner%2Egif.html -->
 
 ななふれっと | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

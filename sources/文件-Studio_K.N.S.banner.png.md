@@ -1,16 +1,11 @@
 # 文件:Studio_K.N.S.banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f8\ns6%3AStudio_K%2EN%2ES%2Ebanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f8\ns6%3AStudio_K%2EN%2ES%2Ebanner%2Epng.html -->
 
 Studio_K.N.S. | 社团LOGO
 
   
-源地址：[[1]](https://web.archive.org/web/20120320021332im_/http://studiokns.web.fc2.com/Studio_K.N.S./HOME_files/kns.png)
-  
-
-
-
-
+源地址：[\[1\]](https://web.archive.org/web/20120320021332im_/http://studiokns.web.fc2.com/Studio_K.N.S./HOME_files/kns.png)  
 
 ---
 

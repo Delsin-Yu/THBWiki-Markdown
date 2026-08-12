@@ -1,6 +1,6 @@
 # 文件:おつきさまのそら_-_Lunar_Lite_Light.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3d\ns6%3A%E3%81%8A%E3%81%A4%E3%81%8D%E3%81%95%E3%81%BE%E3%81%AE%E3%81%9D%E3%82%89_-_Lunar_Lite_Light%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3d\ns6%3A%E3%81%8A%E3%81%A4%E3%81%8D%E3%81%95%E3%81%BE%E3%81%AE%E3%81%9D%E3%82%89_-_Lunar_Lite_Light%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 AncientChronicle | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ AncientChronicle | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [おつきさまのそら - Lunar Lite Light.](./おつきさまのそら_-_Lunar_Lite_Light..md)  
-该封面包含的角色：- [因幡帝](./因幡帝.md)- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
-
-
-
+- [おつきさまのそら - Lunar Lite Light.](./おつきさまのそら_-_Lunar_Lite_Light..md)该封面包含的角色：
+- [因幡帝](./因幡帝.md)
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
 
 
 ---

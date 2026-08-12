@@ -1,12 +1,8 @@
 # 文件:超特急「Dream_Express」（绀珠传）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e2\ns6%3A%E8%B6%85%E7%89%B9%E6%80%A5%E3%80%8CDream_Express%E3%80%8D%EF%BC%88%E7%BB%80%E7%8F%A0%E4%BC%A0%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e2\ns6%3A%E8%B6%85%E7%89%B9%E6%80%A5%E3%80%8CDream_Express%E3%80%8D%EF%BC%88%E7%BB%80%E7%8F%A0%E4%BC%A0%EF%BC%89%2Epng.html -->
 
 东方绀珠传 | 哆来咪·苏伊特 | 敌机符卡
-
-
-
-
 
 
 ---

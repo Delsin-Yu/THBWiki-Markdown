@@ -1,11 +1,10 @@
 # 东方儚月抄_～_Cage_in_Lunatic_Runagate./单行本设计
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\00\ns0%3A%E4%B8%9C%E6%96%B9%E5%84%9A%E6%9C%88%E6%8A%84_%EF%BD%9E_Cage_in_Lunatic_Runagate%2E%2F%E5%8D%95%E8%A1%8C%E6%9C%AC%E8%AE%BE%E8%AE%A1.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\00\ns0%3A%E4%B8%9C%E6%96%B9%E5%84%9A%E6%9C%88%E6%8A%84_%EF%BD%9E_Cage_in_Lunatic_Runagate%2E%2F%E5%8D%95%E8%A1%8C%E6%9C%AC%E8%AE%BE%E8%AE%A1.html -->
 
 东方儚月抄_～_Cage_in_Lunatic_Runagate. | 使用了翻译表的页面 | 含有受损文件链接的页面 | 官方书籍设计 | 待完成页面
 
 <center>
-
 <table>
 <tbody><tr>
 <td class="mbox-image"><div style="width: 52px;">
@@ -14,101 +13,45 @@
 </tr>
 </tbody></table>
 
-
 </center>
-  
-  
-
-  
-
-
 ## 目录
 
 - [1 封面设计](#封面设计)
 - [2 海外书籍封面](#海外书籍封面)
-
   - [2.1 台版](#台版)
   - [2.2 韩版](#韩版)
 
 
 
 
-
-
-
-
 ## 封面设计
+
 - 护封
 
-
-
-
-前勒口 (未找到链接)
-
-前勒口
-
-
-[](./文件-东方儚月抄（小说）封面.jpg.md)
+前勒口 (未找到链接)前勒口
+<img alt="封面" src="https://upload.thwiki.cc/thumb/2/2e/%E4%B8%9C%E6%96%B9%E5%84%9A%E6%9C%88%E6%8A%84%EF%BC%88%E5%B0%8F%E8%AF%B4%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/328px-%E4%B8%9C%E6%96%B9%E5%84%9A%E6%9C%88%E6%8A%84%EF%BC%88%E5%B0%8F%E8%AF%B4%EF%BC%89%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="328" height="458" srcset="https://upload.thwiki.cc/2/2e/%E4%B8%9C%E6%96%B9%E5%84%9A%E6%9C%88%E6%8A%84%EF%BC%88%E5%B0%8F%E8%AF%B4%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 1.5x" data-file-width="358" data-file-height="500">
 封面
-
-
-书脊 (未找到链接)
-书脊
-
-
-封底 (未找到链接)
-封底
-
-
-后勒口 (未找到链接)
-后勒口
-
-
-
-
-文件:东方儚月抄（小说）waist.jpg (未找到链接)  腰封（每次印刷有所不同）
-
-
+书脊 (未找到链接)书脊
+封底 (未找到链接)封底
+后勒口 (未找到链接)后勒口
+文件:东方儚月抄（小说）waist.jpg (未找到链接) 腰封（每次印刷有所不同）
 <table><tbody><tr class="tt-header" id="封面设计-1" data-pos="&#91;&quot;\u5c01\u9762\u8bbe\u8ba1&quot;,1&#93;"><td colspan="2" id="前勒口" class="tt-header" lang="zh"><div class="poem">前勒口</div></td></tr><tr class="tt-content" id="封面设计-2" data-pos="&#91;&quot;\u5c01\u9762\u8bbe\u8ba1&quot;,2&#93;"><td class="tt-ja" lang="ja"><div class="poem"></div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-content" id="封面设计-3" data-pos="&#91;&quot;\u5c01\u9762\u8bbe\u8ba1&quot;,3&#93;"><td class="tt-ja" lang="ja"><div class="poem"></div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-header" id="封面设计-4" data-pos="&#91;&quot;\u5c01\u9762\u8bbe\u8ba1&quot;,4&#93;"><td colspan="2" id="腰封" class="tt-header" lang="zh"><div class="poem">腰封</div></td></tr><tr class="tt-content" id="封面设计-5" data-pos="&#91;&quot;\u5c01\u9762\u8bbe\u8ba1&quot;,5&#93;"><td class="tt-ja" lang="ja"><div class="poem"></div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr></tbody></table>
 
 
 - 内面
 
-
-
-
-内封面 (未找到链接)
-
-内封面
-
-
-内书脊 (未找到链接)
-内书脊
-
-
-内封底 (未找到链接)
-内封底
-
-
-
-
+内封面 (未找到链接)内封面
+内书脊 (未找到链接)内书脊
+内封底 (未找到链接)内封底
 
 ## 海外书籍封面
 
 ### 台版
-[](./文件-东方儚月抄（小说）台版封面.jpg.md)  [](./文件-东方儚月抄（小说）台版封面.jpg.md)台版
-
+<img alt="" src="https://upload.thwiki.cc/thumb/c/ce/%E4%B8%9C%E6%96%B9%E5%84%9A%E6%9C%88%E6%8A%84%EF%BC%88%E5%B0%8F%E8%AF%B4%EF%BC%89%E5%8F%B0%E7%89%88%E5%B0%81%E9%9D%A2.jpg/300px-%E4%B8%9C%E6%96%B9%E5%84%9A%E6%9C%88%E6%8A%84%EF%BC%88%E5%B0%8F%E8%AF%B4%EF%BC%89%E5%8F%B0%E7%89%88%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="300" height="406" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/c/ce/%E4%B8%9C%E6%96%B9%E5%84%9A%E6%9C%88%E6%8A%84%EF%BC%88%E5%B0%8F%E8%AF%B4%EF%BC%89%E5%8F%B0%E7%89%88%E5%B0%81%E9%9D%A2.jpg/450px-%E4%B8%9C%E6%96%B9%E5%84%9A%E6%9C%88%E6%8A%84%EF%BC%88%E5%B0%8F%E8%AF%B4%EF%BC%89%E5%8F%B0%E7%89%88%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/c/ce/%E4%B8%9C%E6%96%B9%E5%84%9A%E6%9C%88%E6%8A%84%EF%BC%88%E5%B0%8F%E8%AF%B4%EF%BC%89%E5%8F%B0%E7%89%88%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="550" data-file-height="745">
+ [放大](./文件-东方儚月抄（小说）台版封面.jpg.md)台版
 ### 韩版
-[](./文件-东方儚月抄（小说）韩版封面.jpg.md)  [](./文件-东方儚月抄（小说）韩版封面.jpg.md)韩版
-  
-  
-
-  
-
-
-
-
-
+<img alt="" src="https://upload.thwiki.cc/thumb/f/fa/%E4%B8%9C%E6%96%B9%E5%84%9A%E6%9C%88%E6%8A%84%EF%BC%88%E5%B0%8F%E8%AF%B4%EF%BC%89%E9%9F%A9%E7%89%88%E5%B0%81%E9%9D%A2.jpg/300px-%E4%B8%9C%E6%96%B9%E5%84%9A%E6%9C%88%E6%8A%84%EF%BC%88%E5%B0%8F%E8%AF%B4%EF%BC%89%E9%9F%A9%E7%89%88%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="300" height="428" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/f/fa/%E4%B8%9C%E6%96%B9%E5%84%9A%E6%9C%88%E6%8A%84%EF%BC%88%E5%B0%8F%E8%AF%B4%EF%BC%89%E9%9F%A9%E7%89%88%E5%B0%81%E9%9D%A2.jpg/450px-%E4%B8%9C%E6%96%B9%E5%84%9A%E6%9C%88%E6%8A%84%EF%BC%88%E5%B0%8F%E8%AF%B4%EF%BC%89%E9%9F%A9%E7%89%88%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/f/fa/%E4%B8%9C%E6%96%B9%E5%84%9A%E6%9C%88%E6%8A%84%EF%BC%88%E5%B0%8F%E8%AF%B4%EF%BC%89%E9%9F%A9%E7%89%88%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="458" data-file-height="654">
+ [放大](./文件-东方儚月抄（小说）韩版封面.jpg.md)韩版
 ---
 
 此文档由 [THBWiki-Markdown-Builder](https://github.com/Delsin-Yu/THBWiki-Markdown-Builder) 构建。

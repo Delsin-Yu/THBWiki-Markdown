@@ -1,16 +1,12 @@
 # 模板:SIS
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\9\9a\ns10%3ASIS.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\9\9a\ns10%3ASIS.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

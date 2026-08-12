@@ -1,14 +1,11 @@
 # 文件:いよかん。banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\07\ns6%3A%E3%81%84%E3%82%88%E3%81%8B%E3%82%93%E3%80%82banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\07\ns6%3A%E3%81%84%E3%82%88%E3%81%8B%E3%82%93%E3%80%82banner%2Ejpg.html -->
 
 いよかん。 | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

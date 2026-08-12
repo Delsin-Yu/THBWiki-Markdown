@@ -1,6 +1,6 @@
 # 文件:UDONGEIN_VS_REMILIA_‐the_last_Volume‐封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2b\ns6%3AUDONGEIN_VS_REMILIA_%E2%80%90the_last_Volume%E2%80%90%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2b\ns6%3AUDONGEIN_VS_REMILIA_%E2%80%90the_last_Volume%E2%80%90%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 IMINIC | 同人志封面 | 封面图片
 
@@ -10,11 +10,9 @@ IMINIC | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [UDONGEIN VS REMILIA ‐the last Volume‐](./UDONGEIN_VS_REMILIA_‐the_last_Volume‐.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
-
-
-
+- [UDONGEIN VS REMILIA ‐the last Volume‐](./UDONGEIN_VS_REMILIA_‐the_last_Volume‐.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
 
 
 ---

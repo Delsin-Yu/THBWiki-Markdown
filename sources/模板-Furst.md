@@ -1,16 +1,12 @@
 # 模板:Furst
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\b\b7\ns10%3AFurst.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\b\b7\ns10%3AFurst.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

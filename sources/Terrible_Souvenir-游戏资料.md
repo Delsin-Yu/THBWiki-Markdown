@@ -1,6 +1,6 @@
 # Terrible_Souvenir/游戏资料
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\b8\ns0%3ATerrible_Souvenir%2F%E6%B8%B8%E6%88%8F%E8%B5%84%E6%96%99.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\b8\ns0%3ATerrible_Souvenir%2F%E6%B8%B8%E6%88%8F%E8%B5%84%E6%96%99.html -->
 
 古明地觉 | 符卡
 
@@ -17,16 +17,11 @@
 </td></tr></tbody></table>
 
 
-
 ## 东方地灵殿
 
 <table>
 <tbody><tr><td style="min-width:200px" colspan="4" align="center"><b>回忆「Terrible Souvenir」</b></td></tr><tr><td style="min-width:100px" colspan="2" align="center"><b>符卡使用者</b></td><td style="min-width:250px" colspan="2" align="center"><a href="./古明地觉.md" title="古明地觉">古明地觉</a></td></tr><tr><td style="min-width:100px" colspan="2" align="center"><b>符卡血量</b></td><td style="min-width:250px" colspan="2" align="center">待补充</td></tr><tr><td style="min-width:100px" colspan="2" align="center"><b>符卡时间</b></td><td style="min-width:250px" colspan="2" align="center">43s</td></tr><tr><td style="min-width:100px" colspan="2" align="center"><b>弹幕类型</b></td><td style="min-width:250px" colspan="2" align="center">激光自机狙</td></tr><tr><td style="min-width:100px" colspan="2" align="center"><b>应对建议</b></td><td style="min-width:250px" colspan="2" align="center">待补充</td></tr>
 </tbody></table>
-
-
-
-
 
 
 ---

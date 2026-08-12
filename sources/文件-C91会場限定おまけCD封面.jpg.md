@@ -1,6 +1,6 @@
 # 文件:C91会場限定おまけCD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e3\ns6%3AC91%E4%BC%9A%E5%A0%B4%E9%99%90%E5%AE%9A%E3%81%8A%E3%81%BE%E3%81%91CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e3\ns6%3AC91%E4%BC%9A%E5%A0%B4%E9%99%90%E5%AE%9A%E3%81%8A%E3%81%BE%E3%81%91CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 森羅万象
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [C91会場限定おまけCD](./C91会場限定おまけCD.md)  
-该封面包含的角色：- [橙](./橙.md)
-
-
-
+- [C91会場限定おまけCD](./C91会場限定おまけCD.md)该封面包含的角色：
+- [橙](./橙.md)
 
 
 ---

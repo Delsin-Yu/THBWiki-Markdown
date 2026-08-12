@@ -1,12 +1,8 @@
 # 文件:链接纪念byOz.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\11\ns6%3A%E9%93%BE%E6%8E%A5%E7%BA%AA%E5%BF%B5byOz%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\11\ns6%3A%E9%93%BE%E6%8E%A5%E7%BA%AA%E5%BF%B5byOz%2Ejpg.html -->
 
 蓬莱少女绘幻想
-
-
-
-
 
 
 ---

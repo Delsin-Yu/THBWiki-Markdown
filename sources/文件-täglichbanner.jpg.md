@@ -1,16 +1,11 @@
 # 文件:täglichbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\11\ns6%3At%C3%A4glichbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\11\ns6%3At%C3%A4glichbanner%2Ejpg.html -->
 
 täglich | 社团LOGO
 
   
-源地址：[[1]](https://pbs.twimg.com/profile_images/857148940315176960/y-ozD1RD_400x400.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://pbs.twimg.com/profile_images/857148940315176960/y-ozD1RD_400x400.jpg)  
 
 ---
 

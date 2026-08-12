@@ -1,10 +1,11 @@
 # 连缘蛇丛剑～Earthen_Miraculous_Sword/角色立绘
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\f9\ns0%3A%E8%BF%9E%E7%BC%98%E8%9B%87%E4%B8%9B%E5%89%91%EF%BD%9EEarthen_Miraculous_Sword%2F%E8%A7%92%E8%89%B2%E7%AB%8B%E7%BB%98.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\f9\ns0%3A%E8%BF%9E%E7%BC%98%E8%9B%87%E4%B8%9B%E5%89%91%EF%BD%9EEarthen_Miraculous_Sword%2F%E8%A7%92%E8%89%B2%E7%AB%8B%E7%BB%98.html -->
 
 トリック・ノスタルジー
 
--  **本词条内容为[连缘蛇丛剑～Earthen Miraculous Sword](./连缘蛇丛剑～Earthen_Miraculous_Sword.md)的所有角色立绘** 
+
+- **本词条内容为[连缘蛇丛剑～Earthen Miraculous Sword](./连缘蛇丛剑～Earthen_Miraculous_Sword.md)的所有角色立绘**
 
 
 <table>
@@ -77,10 +78,6 @@
     <td><a href="./文件-徒云蛇穴丸（蛇丛剑像素绘）.png.md" class="image"><img alt="徒云蛇穴丸（蛇丛剑像素绘）.png" src="https://upload.thwiki.cc/4/41/%E5%BE%92%E4%BA%91%E8%9B%87%E7%A9%B4%E4%B8%B8%EF%BC%88%E8%9B%87%E4%B8%9B%E5%89%91%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="90" height="113" data-file-width="80" data-file-height="100"></a></td>
     <td><a href="./文件-徒云蛇穴丸（蛇丛剑）.png.md" class="image"><img alt="徒云蛇穴丸（蛇丛剑）.png" src="https://upload.thwiki.cc/thumb/9/9a/%E5%BE%92%E4%BA%91%E8%9B%87%E7%A9%B4%E4%B8%B8%EF%BC%88%E8%9B%87%E4%B8%9B%E5%89%91%EF%BC%89.png/300px-%E5%BE%92%E4%BA%91%E8%9B%87%E7%A9%B4%E4%B8%B8%EF%BC%88%E8%9B%87%E4%B8%9B%E5%89%91%EF%BC%89.png" decoding="async" loading="lazy" width="300" height="410" srcset="https://upload.thwiki.cc/9/9a/%E5%BE%92%E4%BA%91%E8%9B%87%E7%A9%B4%E4%B8%B8%EF%BC%88%E8%9B%87%E4%B8%9B%E5%89%91%EF%BC%89.png 1.5x" data-file-width="380" data-file-height="519"></a></td>
   </tr></tbody></table>
-
-
-
-
 
 
 ---

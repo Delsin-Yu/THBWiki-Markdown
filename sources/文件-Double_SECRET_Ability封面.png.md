@@ -1,6 +1,6 @@
 # 文件:Double_SECRET_Ability封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c6\ns6%3ADouble_SECRET_Ability%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c6\ns6%3ADouble_SECRET_Ability%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 XEoN×少女墓石倶楽部 | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ XEoN×少女墓石倶楽部 | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Double SECRET Ability](./Double_SECRET_Ability.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [Double SECRET Ability](./Double_SECRET_Ability.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

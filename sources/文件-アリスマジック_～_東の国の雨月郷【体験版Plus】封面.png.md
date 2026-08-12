@@ -1,6 +1,6 @@
 # 文件:アリスマジック_～_東の国の雨月郷【体験版Plus】封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\40\ns6%3A%E3%82%A2%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B8%E3%83%83%E3%82%AF_%EF%BD%9E_%E6%9D%B1%E3%81%AE%E5%9B%BD%E3%81%AE%E9%9B%A8%E6%9C%88%E9%83%B7%E3%80%90%E4%BD%93%E9%A8%93%E7%89%88Plus%E3%80%91%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\40\ns6%3A%E3%82%A2%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B8%E3%83%83%E3%82%AF_%EF%BD%9E_%E6%9D%B1%E3%81%AE%E5%9B%BD%E3%81%AE%E9%9B%A8%E6%9C%88%E9%83%B7%E3%80%90%E4%BD%93%E9%A8%93%E7%89%88Plus%E3%80%91%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 夢想夏月郷 | 封面图片
 
@@ -10,16 +10,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [アリスマジック ～ 東の国の雨月郷【体験版Plus】](./アリスマジック_～_東の国の雨月郷【体験版Plus】.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
+- [アリスマジック ～ 東の国の雨月郷【体験版Plus】](./アリスマジック_～_東の国の雨月郷【体験版Plus】.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
   
 cover included in download
   
-
-
-
-
 
 ---
 

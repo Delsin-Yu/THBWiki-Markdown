@@ -1,6 +1,6 @@
 # 文件:LOOKING_FOR_A_HAVEN封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9d\ns6%3ALOOKING_FOR_A_HAVEN%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9d\ns6%3ALOOKING_FOR_A_HAVEN%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 AND_THEN_IT_PASSES | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ AND_THEN_IT_PASSES | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [LOOKING FOR A HAVEN](./LOOKING_FOR_A_HAVEN.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [LOOKING FOR A HAVEN](./LOOKING_FOR_A_HAVEN.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

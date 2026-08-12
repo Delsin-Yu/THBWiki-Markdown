@@ -1,45 +1,38 @@
 # 幻劇_-inst
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\b8\ns0%3A%E5%B9%BB%E5%8A%87_-inst.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\b8\ns0%3A%E5%B9%BB%E5%8A%87_-inst.html -->
 
 2021年11月27日 由 亡郷夜行 于 东方混舞23 发布的单曲同人专辑，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人专辑 (未找到链接)** 的词条
-
+**[二次创作同人专辑](./二次创作.md#同人音乐)**的词条
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-幻劇_-inst封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/9/91/%E5%B9%BB%E5%8A%87_-inst%E5%B0%81%E9%9D%A2.png/224px-%E5%B9%BB%E5%8A%87_-inst%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="224" height="224" srcset="https://upload.thwiki.cc/thumb/9/91/%E5%B9%BB%E5%8A%87_-inst%E5%B0%81%E9%9D%A2.png/335px-%E5%B9%BB%E5%8A%87_-inst%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/9/91/%E5%B9%BB%E5%8A%87_-inst%E5%B0%81%E9%9D%A2.png/447px-%E5%B9%BB%E5%8A%87_-inst%E5%B0%81%E9%9D%A2.png 2x" data-file-width="638" data-file-height="639"></a></td>
 </tr><tr><td class="label">名称</td><td colspan="2"> 幻劇 -inst </td></tr><tr><td class="label">制作方</td><td><a href="./亡郷夜行.md" title="亡郷夜行">亡郷夜行</a></td><td class="cover-artwork" rowspan="8" style="min-width:224px;"><a href="./文件-幻劇_-inst封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/9/91/%E5%B9%BB%E5%8A%87_-inst%E5%B0%81%E9%9D%A2.png/224px-%E5%B9%BB%E5%8A%87_-inst%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="224" height="224" srcset="https://upload.thwiki.cc/thumb/9/91/%E5%B9%BB%E5%8A%87_-inst%E5%B0%81%E9%9D%A2.png/335px-%E5%B9%BB%E5%8A%87_-inst%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/9/91/%E5%B9%BB%E5%8A%87_-inst%E5%B0%81%E9%9D%A2.png/447px-%E5%B9%BB%E5%8A%87_-inst%E5%B0%81%E9%9D%A2.png 2x" data-file-width="638" data-file-height="639"></a></td>
-</tr><tr><td class="label">首发日期</td><td>2021-11-27&#160;（<a href="/展会作品列表?e=%E4%B8%9C%E6%96%B9%E6%B7%B7%E8%88%9E%2323">東方混舞23</a>）</td></tr><tr><td class="label">类型</td><td>单曲</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>2</td></tr><tr><td class="label">总时长</td><td>00:00</td></tr><tr><td class="label">售价</td><td>会场售价：500日元</td></tr>
+</tr><tr><td class="label">首发日期</td><td>2021-11-27 （<a href="./展会作品列表.md#23">東方混舞23</a>）</td></tr><tr><td class="label">类型</td><td>单曲</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>2</td></tr><tr><td class="label">总时长</td><td>00:00</td></tr><tr><td class="label">售价</td><td>会场售价：500日元</td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/inaba_kei1969/status/1464275341841604614">https://twitter.com/inaba_kei1969/status/1464275341841604614</a></td></tr></tbody></table>
 
 幻劇 -inst（同人专辑，亡郷夜行，2021） - 2021年11月27日 由 亡郷夜行 于 东方混舞23 发布的单曲同人专辑，分级为 一般向
-
 ## Staff
   
- **Arrangement**   
+**Arrangement**  
 
-<table><tbody><tr><td><a href="/index.php?title=Ashwell&amp;action=edit&amp;redlink=1" class="new" title="Ashwell（页面不存在）">Ashwell</a></td><td><a href="./亡郷夜行.md" title="亡郷夜行">亡郷夜行</a></td><td>Tr.1/2</td></tr></tbody></table>
+<table><tbody><tr><td><a class="new" title="Ashwell（页面不存在）">Ashwell</a></td><td><a href="./亡郷夜行.md" title="亡郷夜行">亡郷夜行</a></td><td>Tr.1/2</td></tr></tbody></table>
 
   
- **Vocal**   
+**Vocal**  
 
-<table><tbody><tr><td><a href="/index.php?title=IA%EF%BC%88Cevio_AI%EF%BC%89&amp;action=edit&amp;redlink=1" class="new" title="IA（Cevio AI）（页面不存在）">IA（Cevio AI）</a></td><td></td><td>Tr.2</td></tr></tbody></table>
-
+<table><tbody><tr><td><a class="new" title="IA（Cevio AI）（页面不存在）">IA（Cevio AI）</a></td><td></td><td>Tr.2</td></tr></tbody></table>
 
 
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="幻劇_inst" colspan="2" class="title">幻劇 inst<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Ashwell&amp;ogmusic=ネクロファンタジア，月の妖鳥、化猫の幻&amp;fromwiki=幻劇_-inst"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=Ashwell&amp;action=edit&amp;redlink=1" class="new" title="Ashwell（页面不存在）">Ashwell</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Ashwell&amp;fromwiki=幻劇_-inst"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=ネクロファンタジア，月の妖鳥、化猫の幻&amp;fromwiki=幻劇_-inst"><span></span></a></span><div class="ogmusic"><a href="./ネクロファンタジア.md" class="mw-redirect" title="ネクロファンタジア">ネクロファンタジア</a></div><div class="source"><a href="./东方妖妖梦_～_Perfect_Cherry_Blossom..md" class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div><hr><div class="ogmusic"><a href="./月の妖鳥、化猫の幻.md" class="mw-redirect" title="月の妖鳥、化猫の幻">月の妖鳥、化猫の幻</a></div><div class="source"><a href="./莲台野夜行_～_Ghostly_Field_Club..md" class="mw-redirect" title="莲台野夜行 ～ Ghostly Field Club.">莲台野夜行　～ Ghostly Field Club.</a></div></td></tr>
-<tr><td id="2" class="infoRD"><b>02</b></td><td id="幻劇_feat._IA_&#91;Cevio_AI&#93;_ver.Solmization" colspan="2" class="title"><span class="new" title="（歌词页面不存在）"><a href="/index.php?title=%E6%AD%8C%E8%AF%8D:%E5%B9%BB%E5%8A%87_inst&amp;boilerplate=模板:页面模板/曲目歌词&amp;action=edit">幻劇 feat. IA &#91;Cevio AI&#93; ver.Solmization</a></span><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Ashwell&amp;vocal=IA（Cevio AI）&amp;ogmusic=ネクロファンタジア，月の妖鳥、化猫の幻&amp;fromwiki=幻劇_-inst"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=Ashwell&amp;action=edit&amp;redlink=1" class="new" title="Ashwell（页面不存在）">Ashwell</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Ashwell&amp;fromwiki=幻劇_-inst"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="/index.php?title=IA%EF%BC%88Cevio_AI%EF%BC%89&amp;action=edit&amp;redlink=1" class="new" title="IA（Cevio AI）（页面不存在）">IA（Cevio AI）</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=IA（Cevio AI）&amp;fromwiki=幻劇_-inst"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">初发布</td><td class="text" colspan="2"><a href="/%E5%B9%BB%E5%8A%87_-inst#1" title="幻劇 -inst">幻劇 inst</a><div class="source"><a class="mw-selflink selflink">幻劇 -inst</a></div></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=ネクロファンタジア，月の妖鳥、化猫の幻&amp;fromwiki=幻劇_-inst"><span></span></a></span><div class="ogmusic"><a href="./ネクロファンタジア.md" class="mw-redirect" title="ネクロファンタジア">ネクロファンタジア</a></div><div class="source"><a href="./东方妖妖梦_～_Perfect_Cherry_Blossom..md" class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div><hr><div class="ogmusic"><a href="./月の妖鳥、化猫の幻.md" class="mw-redirect" title="月の妖鳥、化猫の幻">月の妖鳥、化猫の幻</a></div><div class="source"><a href="./莲台野夜行_～_Ghostly_Field_Club..md" class="mw-redirect" title="莲台野夜行 ～ Ghostly Field Club.">莲台野夜行　～ Ghostly Field Club.</a></div></td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">bonus track</td></tr></tbody></table>
-
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="幻劇_inst" colspan="2" class="title">幻劇 inst</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="Ashwell（页面不存在）">Ashwell</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./Necro-Fantasia.md" class="mw-redirect" title="ネクロファンタジア">ネクロファンタジア</a></div><div class="source"><a href="./东方妖妖梦.md" class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div><hr><div class="ogmusic"><a href="./月之妖鸟、化猫之幻.md" class="mw-redirect" title="月の妖鳥、化猫の幻">月の妖鳥、化猫の幻</a></div><div class="source"><a href="./莲台野夜行.md" class="mw-redirect" title="莲台野夜行 ～ Ghostly Field Club.">莲台野夜行　～ Ghostly Field Club.</a></div></td></tr>
+<tr><td id="2" class="infoRD"><b>02</b></td><td id="幻劇_feat._IA_&#91;Cevio_AI&#93;_ver.Solmization" colspan="2" class="title"><span class="new" title="（歌词页面不存在）"><a>幻劇 feat. IA [Cevio AI] ver.Solmization</a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="Ashwell（页面不存在）">Ashwell</a></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a class="new" title="IA（Cevio AI）（页面不存在）">IA（Cevio AI）</a></td></tr><tr><td class="left"></td><td class="label">初发布</td><td class="text" colspan="2"><a href="./幻劇_-inst.md#1" title="幻劇 -inst">幻劇 inst</a><div class="source"><a class="mw-selflink selflink">幻劇 -inst</a></div></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./Necro-Fantasia.md" class="mw-redirect" title="ネクロファンタジア">ネクロファンタジア</a></div><div class="source"><a href="./东方妖妖梦.md" class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div><hr><div class="ogmusic"><a href="./月之妖鸟、化猫之幻.md" class="mw-redirect" title="月の妖鳥、化猫の幻">月の妖鳥、化猫の幻</a></div><div class="source"><a href="./莲台野夜行.md" class="mw-redirect" title="莲台野夜行 ～ Ghostly Field Club.">莲台野夜行　～ Ghostly Field Club.</a></div></td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">bonus track</td></tr></tbody></table>
 
 
 ## 评论
-
-
-
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:「夜ノ雨_-ImperishableNight-」-TohoSeries_Music_Image_Box-（同人专辑）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\84\ns6%3A%E3%80%8C%E5%A4%9C%E3%83%8E%E9%9B%A8_-ImperishableNight-%E3%80%8D-TohoSeries_Music_Image_Box-%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\84\ns6%3A%E3%80%8C%E5%A4%9C%E3%83%8E%E9%9B%A8_-ImperishableNight-%E3%80%8D-TohoSeries_Music_Image_Box-%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 NTconfess | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ NTconfess | 专辑封面 | 封面图片
   
 
 - [「夜ノ雨 -ImperishableNight-」-TohoSeries Music Image Box-（同人专辑）](./「夜ノ雨_-ImperishableNight-」-TohoSeries_Music_Image_Box-（同人专辑）.md)
-
-
-
 
 
 ---

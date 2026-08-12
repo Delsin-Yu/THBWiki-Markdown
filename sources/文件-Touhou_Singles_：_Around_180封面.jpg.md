@@ -1,6 +1,6 @@
 # 文件:Touhou_Singles_：_Around_180封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d7\ns6%3ATouhou_Singles_%EF%BC%9A_Around_180%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d7\ns6%3ATouhou_Singles_%EF%BC%9A_Around_180%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Ecriss | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ Ecriss | 专辑封面 | 封面图片
   
 
 - [Touhou Singles ： Around 180](./Touhou_Singles_：_Around_180.md)
-
-
-
 
 
 ---

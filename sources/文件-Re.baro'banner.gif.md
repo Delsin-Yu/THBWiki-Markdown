@@ -1,12 +1,8 @@
 # 文件:Re.baro'banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2a\ns6%3ARe%2Ebaro%27banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2a\ns6%3ARe%2Ebaro%27banner%2Egif.html -->
 
 Re.baro' | 社团LOGO
-
-
-
-
 
 
 ---

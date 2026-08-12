@@ -1,12 +1,8 @@
 # 文件:THD2神枪冈格尼尔.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\14\ns6%3ATHD2%E7%A5%9E%E6%9E%AA%E5%86%88%E6%A0%BC%E5%B0%BC%E5%B0%94%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\14\ns6%3ATHD2%E7%A5%9E%E6%9E%AA%E5%86%88%E6%A0%BC%E5%B0%BC%E5%B0%94%2Epng.html -->
 
 AvalonStudioOfficial
-
-
-
-
 
 
 ---

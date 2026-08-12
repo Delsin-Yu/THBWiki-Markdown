@@ -1,6 +1,6 @@
 # 文件:QQQのコピー本封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f3\ns6%3AQQQ%E3%81%AE%E3%82%B3%E3%83%94%E3%83%BC%E6%9C%AC%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f3\ns6%3AQQQ%E3%81%AE%E3%82%B3%E3%83%94%E3%83%BC%E6%9C%AC%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 QQQ | 同人志封面 | 封面图片
 
@@ -8,11 +8,10 @@ QQQ | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [QQQのコピー本](./QQQのコピー本.md)  
-该封面包含的角色：- [八云紫](./八云紫.md)- [灵乌路空](./灵乌路空.md)- 哥斯拉 (未找到链接)
-
-
-
+- [QQQのコピー本](./QQQのコピー本.md)该封面包含的角色：
+- [八云紫](./八云紫.md)
+- [灵乌路空](./灵乌路空.md)
+- 哥斯拉 (未找到链接)
 
 
 ---

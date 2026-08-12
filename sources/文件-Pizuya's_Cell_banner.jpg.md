@@ -1,12 +1,8 @@
 # 文件:Pizuya's_Cell_banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\77\ns6%3APizuya%27s_Cell_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\77\ns6%3APizuya%27s_Cell_banner%2Ejpg.html -->
 
 Pizuya's_Cell | 社团LOGO
-
-
-
-
 
 
 ---

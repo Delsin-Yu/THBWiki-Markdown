@@ -1,6 +1,6 @@
 # 文件:Vacation封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fb\ns6%3AVacation%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fb\ns6%3AVacation%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Unprepared_Orchestra | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Unprepared_Orchestra | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Vacation](./Vacation.md)  
-该封面包含的角色：- [红美铃](./红美铃.md)
-
-
-
+- [Vacation](./Vacation.md)该封面包含的角色：
+- [红美铃](./红美铃.md)
 
 
 ---

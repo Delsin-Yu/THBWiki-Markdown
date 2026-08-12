@@ -1,6 +1,6 @@
 # 文件:東方幕華祭_春雪篇_～_Fantastic_Danmaku_Festival_Part_II封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e8\ns6%3A%E6%9D%B1%E6%96%B9%E5%B9%95%E8%8F%AF%E7%A5%AD_%E6%98%A5%E9%9B%AA%E7%AF%87_%EF%BD%9E_Fantastic_Danmaku_Festival_Part_II%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e8\ns6%3A%E6%9D%B1%E6%96%B9%E5%B9%95%E8%8F%AF%E7%A5%AD_%E6%98%A5%E9%9B%AA%E7%AF%87_%EF%BD%9E_Fantastic_Danmaku_Festival_Part_II%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 东方幕华祭制作组 | 封面图片 | 软件封面
 
@@ -8,11 +8,14 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方幕華祭 春雪篇 ～ Fantastic Danmaku Festival Part II](./東方幕華祭_春雪篇_～_Fantastic_Danmaku_Festival_Part_II.md)  
-该封面包含的角色：- [橙](./橙.md)- [莉莉霍瓦特](./莉莉霍瓦特.md)- [魂魄妖梦](./魂魄妖梦.md)- [西行寺幽幽子](./西行寺幽幽子.md)- [八云蓝](./八云蓝.md)- [八云紫](./八云紫.md)- [修普](./修普.md)
-
-
-
+- [東方幕華祭 春雪篇 ～ Fantastic Danmaku Festival Part II](./東方幕華祭_春雪篇_～_Fantastic_Danmaku_Festival_Part_II.md)该封面包含的角色：
+- [橙](./橙.md)
+- [莉莉霍瓦特](./莉莉霍瓦特.md)
+- [魂魄妖梦](./魂魄妖梦.md)
+- [西行寺幽幽子](./西行寺幽幽子.md)
+- [八云蓝](./八云蓝.md)
+- [八云紫](./八云紫.md)
+- [修普](./修普.md)
 
 
 ---

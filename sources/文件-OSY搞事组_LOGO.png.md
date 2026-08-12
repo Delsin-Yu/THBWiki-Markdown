@@ -1,16 +1,12 @@
 # 文件:OSY搞事组_LOGO.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5d\ns6%3AOSY%E6%90%9E%E4%BA%8B%E7%BB%84_LOGO%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5d\ns6%3AOSY%E6%90%9E%E4%BA%8B%E7%BB%84_LOGO%2Epng.html -->
 
 OSY搞事组 | 社团LOGO
 
   
 DD绘制，内含鸽子。
   
-
-
-
-
 
 ---
 

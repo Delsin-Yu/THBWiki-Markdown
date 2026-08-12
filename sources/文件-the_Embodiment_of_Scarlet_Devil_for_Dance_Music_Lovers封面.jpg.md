@@ -1,6 +1,6 @@
 # 文件:the_Embodiment_of_Scarlet_Devil_for_Dance_Music_Lovers封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2c\ns6%3Athe_Embodiment_of_Scarlet_Devil_for_Dance_Music_Lovers%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2c\ns6%3Athe_Embodiment_of_Scarlet_Devil_for_Dance_Music_Lovers%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 PPK_Works | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ PPK_Works | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [the Embodiment of Scarlet Devil for Dance Music Lovers](./the_Embodiment_of_Scarlet_Devil_for_Dance_Music_Lovers.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
-
-
-
+- [the Embodiment of Scarlet Devil for Dance Music Lovers](./the_Embodiment_of_Scarlet_Devil_for_Dance_Music_Lovers.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
 
 ---

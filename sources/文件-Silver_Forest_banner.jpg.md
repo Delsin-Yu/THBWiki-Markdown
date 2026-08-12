@@ -1,12 +1,8 @@
 # 文件:Silver_Forest_banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6e\ns6%3ASilver_Forest_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6e\ns6%3ASilver_Forest_banner%2Ejpg.html -->
 
 Silver_Forest | 社团LOGO
-
-
-
-
 
 
 ---

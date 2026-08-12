@@ -1,18 +1,13 @@
 # 文件:OTADlogo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fa\ns6%3AOTADlogo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fa\ns6%3AOTADlogo%2Epng.html -->
 
 OTAD | 社团LOGO
 
 
 ## 摘要
   
-源地址：[direct image link](https://web.archive.org/web/20160604202034im_/http://undergo.symphonic-net.com/images/top_1109.png), [source page](https://web.archive.org/web/20160815221109/http://undergo.symphonic-net.com/)
-  
-
-
-
-
+源地址：[direct image link](https://web.archive.org/web/20160604202034im_/http://undergo.symphonic-net.com/images/top_1109.png), [source page](https://web.archive.org/web/20160815221109/http://undergo.symphonic-net.com/)  
 
 ---
 

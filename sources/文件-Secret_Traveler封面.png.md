@@ -1,6 +1,6 @@
 # 文件:Secret_Traveler封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\79\ns6%3ASecret_Traveler%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\79\ns6%3ASecret_Traveler%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Adust_Rain | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@ Adust_Rain | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Secret Traveler](./Secret_Traveler.md)  
-该封面包含的角色：- [蓬莱山辉夜](./蓬莱山辉夜.md)
+- [Secret Traveler](./Secret_Traveler.md)该封面包含的角色：
+- [蓬莱山辉夜](./蓬莱山辉夜.md)
 
   
-源地址：[direct image link (original size)](https://image.jimcdn.com/app/cms/image/transf/none/path/s2b48f01cf0d87509/image/i3861f07dc9d23f2d/version/1429452956/image.png), [source page](https://adustrain.jimdofree.com/discography/)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://image.jimcdn.com/app/cms/image/transf/none/path/s2b48f01cf0d87509/image/i3861f07dc9d23f2d/version/1429452956/image.png), [source page](https://adustrain.jimdofree.com/discography/)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:Dual_Circulation_Ⅲ_如夢似幻封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9e\ns6%3ADual_Circulation_%E2%85%A2_%E5%A6%82%E5%A4%A2%E4%BC%BC%E5%B9%BB%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9e\ns6%3ADual_Circulation_%E2%85%A2_%E5%A6%82%E5%A4%A2%E4%BC%BC%E5%B9%BB%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Crest | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Crest | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Dual Circulation Ⅲ 如夢似幻](./Dual_Circulation_Ⅲ_如夢似幻.md)  
-该封面包含的角色：- [宇佐见堇子](./宇佐见堇子.md)
-
-
-
+- [Dual Circulation Ⅲ 如夢似幻](./Dual_Circulation_Ⅲ_如夢似幻.md)该封面包含的角色：
+- [宇佐见堇子](./宇佐见堇子.md)
 
 
 ---

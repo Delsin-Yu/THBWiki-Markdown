@@ -1,18 +1,13 @@
 # 文件:ssg_01.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4b\ns6%3Assg_01%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4b\ns6%3Assg_01%2Emp3.html -->
 
 东方幻想的音乐 | 秋霜玉 | 秋霜玉_～_Clockworks
 
   
 秋霜玉　～ Clockworks 秋霜玉标题曲。东方的幻想音乐版，由Roland Sound Canvas 88Pro实机录制；MP3采样率44.1KHz，码率192Kbps。  
 
-来源：[ZUN's MIDIs the way they were intended to be heard (100% COMPLETE)](https://www.shrinemaiden.org/forum/index.php/topic,18989.0.html)
-  
-
-
-
-
+来源：[ZUN's MIDIs the way they were intended to be heard (100% COMPLETE)](https://www.shrinemaiden.org/forum/index.php/topic,18989.0.html)  
 
 ---
 

@@ -1,14 +1,11 @@
 # 文件:幻想Narrato_Graph（雾雨魔法店）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2a\ns6%3A%E5%B9%BB%E6%83%B3Narrato_Graph%EF%BC%88%E9%9B%BE%E9%9B%A8%E9%AD%94%E6%B3%95%E5%BA%97%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2a\ns6%3A%E5%B9%BB%E6%83%B3Narrato_Graph%EF%BC%88%E9%9B%BE%E9%9B%A8%E9%AD%94%E6%B3%95%E5%BA%97%EF%BC%89%2Ejpg.html -->
 
 幻想Narrato_Graph
 
 
 ## 摘要
-
-
-
 
 ---
 

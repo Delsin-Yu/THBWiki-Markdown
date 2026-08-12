@@ -1,6 +1,6 @@
 # 文件:フォックスバレット_-Piano_Ver.-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a8\ns6%3A%E3%83%95%E3%82%A9%E3%83%83%E3%82%AF%E3%82%B9%E3%83%90%E3%83%AC%E3%83%83%E3%83%88_-Piano_Ver%2E-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a8\ns6%3A%E3%83%95%E3%82%A9%E3%83%83%E3%82%AF%E3%82%B9%E3%83%90%E3%83%AC%E3%83%83%E3%83%88_-Piano_Ver%2E-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Liz_Triangle | 专辑封面 | 封面图片
 
@@ -10,12 +10,9 @@ Liz_Triangle | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [フォックスバレット -Piano Ver.-](./フォックスバレット_-Piano_Ver.-.md)  
-该封面包含的角色：- [菅牧典](./菅牧典.md)抠图抠出来的，分辨率就比较凑合了。
-
-
-
-
+- [フォックスバレット -Piano Ver.-](./フォックスバレット_-Piano_Ver.-.md)该封面包含的角色：
+- [菅牧典](./菅牧典.md)
+抠图抠出来的，分辨率就比较凑合了。
 
 ---
 

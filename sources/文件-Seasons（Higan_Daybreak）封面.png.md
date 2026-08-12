@@ -1,6 +1,6 @@
 # 文件:Seasons（Higan_Daybreak）封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\22\ns6%3ASeasons%EF%BC%88Higan_Daybreak%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\22\ns6%3ASeasons%EF%BC%88Higan_Daybreak%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Higan_Daybreak | 专辑封面 | 封面图片
 
@@ -10,16 +10,14 @@ Higan_Daybreak | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Seasons（Higan Daybreak）](./Seasons（Higan_Daybreak）.md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)- [犬走椛](./犬走椛.md)- [姬海棠果](./姬海棠果.md)- [饭纲丸龙](./饭纲丸龙.md)
+- [Seasons（Higan Daybreak）](./Seasons（Higan_Daybreak）.md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
+- [犬走椛](./犬走椛.md)
+- [姬海棠果](./姬海棠果.md)
+- [饭纲丸龙](./饭纲丸龙.md)
 
   
-源地址：[图片链接](https://f4.bcbits.com/img/a3474041188_0.jpg) [Bandcamp](https://higandaybreak.bandcamp.com/album/seasons)
-  
-
-
-
-
+源地址：[图片链接](https://f4.bcbits.com/img/a3474041188_0.jpg) [Bandcamp](https://higandaybreak.bandcamp.com/album/seasons)  
 
 ---
 

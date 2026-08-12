@@ -1,6 +1,6 @@
 # 文件:千年战争～iek_loin_staim_haf_il_dis_o-del_al封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2f\ns6%3A%E5%8D%83%E5%B9%B4%E6%88%98%E4%BA%89%EF%BD%9Eiek_loin_staim_haf_il_dis_o-del_al%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2f\ns6%3A%E5%8D%83%E5%B9%B4%E6%88%98%E4%BA%89%EF%BD%9Eiek_loin_staim_haf_il_dis_o-del_al%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Clip_Sounds | 专辑封面 | 封面图片 | 疯帽子茶会
 
@@ -8,11 +8,8 @@ Clip_Sounds | 专辑封面 | 封面图片 | 疯帽子茶会
 使用了本文件作封面图片的作品：
   
 
-- [千年战争～iek loin staim haf il dis o-del al](./千年战争～iek_loin_staim_haf_il_dis_o-del_al.md)  
-该封面包含的角色：- [纯狐](./纯狐.md)
-
-
-
+- [千年战争～iek loin staim haf il dis o-del al](./千年战争～iek_loin_staim_haf_il_dis_o-del_al.md)该封面包含的角色：
+- [纯狐](./纯狐.md)
 
 
 ---

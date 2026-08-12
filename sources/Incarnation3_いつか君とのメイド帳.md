@@ -1,26 +1,24 @@
 # Incarnation3_いつか君とのメイド帳
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\42\ns0%3AIncarnation3_%E3%81%84%E3%81%A4%E3%81%8B%E5%90%9B%E3%81%A8%E3%81%AE%E3%83%A1%E3%82%A4%E3%83%89%E5%B8%B3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\42\ns0%3AIncarnation3_%E3%81%84%E3%81%A4%E3%81%8B%E5%90%9B%E3%81%A8%E3%81%AE%E3%83%A1%E3%82%A4%E3%83%89%E5%B8%B3.html -->
 
 2012年5月27日 由 しぐれえび 于 博丽神社例大祭9 发布的漫画同人志，B5尺寸一共44页，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人志 (未找到链接)** 的词条
-
+**[二次创作同人志](./二次创作.md#同人志)**的词条
 ## 作品信息
 
-<table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Incarnation3_いつか君とのメイド帳封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/c/cd/Incarnation3_%E3%81%84%E3%81%A4%E3%81%8B%E5%90%9B%E3%81%A8%E3%81%AE%E3%83%A1%E3%82%A4%E3%83%89%E5%B8%B3%E5%B0%81%E9%9D%A2.jpg/139px-Incarnation3_%E3%81%84%E3%81%A4%E3%81%8B%E5%90%9B%E3%81%A8%E3%81%AE%E3%83%A1%E3%82%A4%E3%83%89%E5%B8%B3%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="139" height="196" srcset="https://upload.thwiki.cc/thumb/c/cd/Incarnation3_%E3%81%84%E3%81%A4%E3%81%8B%E5%90%9B%E3%81%A8%E3%81%AE%E3%83%A1%E3%82%A4%E3%83%89%E5%B8%B3%E5%B0%81%E9%9D%A2.jpg/208px-Incarnation3_%E3%81%84%E3%81%A4%E3%81%8B%E5%90%9B%E3%81%A8%E3%81%AE%E3%83%A1%E3%82%A4%E3%83%89%E5%B8%B3%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/c/cd/Incarnation3_%E3%81%84%E3%81%A4%E3%81%8B%E5%90%9B%E3%81%A8%E3%81%AE%E3%83%A1%E3%82%A4%E3%83%89%E5%B8%B3%E5%B0%81%E9%9D%A2.jpg/278px-Incarnation3_%E3%81%84%E3%81%A4%E3%81%8B%E5%90%9B%E3%81%A8%E3%81%AE%E3%83%A1%E3%82%A4%E3%83%89%E5%B8%B3%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="628" data-file-height="885"></a><div class="cover-char">角色：<a href="/%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C" title="十六夜咲夜">十六夜咲夜</a></div></td>
-</tr><tr><td class="label">名称</td><td colspan="2"> Incarnation3 いつか君とのメイド帳 </td></tr><tr><td class="label">制作方</td><td><a href="./しぐれえび.md" title="しぐれえび">しぐれえび</a></td><td class="cover-artwork" rowspan="7" style="min-width:196px;"><a href="./文件-Incarnation3_いつか君とのメイド帳封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/c/cd/Incarnation3_%E3%81%84%E3%81%A4%E3%81%8B%E5%90%9B%E3%81%A8%E3%81%AE%E3%83%A1%E3%82%A4%E3%83%89%E5%B8%B3%E5%B0%81%E9%9D%A2.jpg/139px-Incarnation3_%E3%81%84%E3%81%A4%E3%81%8B%E5%90%9B%E3%81%A8%E3%81%AE%E3%83%A1%E3%82%A4%E3%83%89%E5%B8%B3%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="139" height="196" srcset="https://upload.thwiki.cc/thumb/c/cd/Incarnation3_%E3%81%84%E3%81%A4%E3%81%8B%E5%90%9B%E3%81%A8%E3%81%AE%E3%83%A1%E3%82%A4%E3%83%89%E5%B8%B3%E5%B0%81%E9%9D%A2.jpg/208px-Incarnation3_%E3%81%84%E3%81%A4%E3%81%8B%E5%90%9B%E3%81%A8%E3%81%AE%E3%83%A1%E3%82%A4%E3%83%89%E5%B8%B3%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/c/cd/Incarnation3_%E3%81%84%E3%81%A4%E3%81%8B%E5%90%9B%E3%81%A8%E3%81%AE%E3%83%A1%E3%82%A4%E3%83%89%E5%B8%B3%E5%B0%81%E9%9D%A2.jpg/278px-Incarnation3_%E3%81%84%E3%81%A4%E3%81%8B%E5%90%9B%E3%81%A8%E3%81%AE%E3%83%A1%E3%82%A4%E3%83%89%E5%B8%B3%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="628" data-file-height="885"></a><div class="cover-char">角色：<a href="/%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C" title="十六夜咲夜">十六夜咲夜</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2012-05-27&#160;（<a href="/展会作品列表?e=%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD%239">第九回 博麗神社例大祭</a>）</td></tr><tr><td class="label">类型</td><td>漫画</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>B5</td></tr><tr><td class="label">页数</td><td>44P</td></tr><tr><td class="label">售价</td><td>500日元</td></tr>
+<table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Incarnation3_いつか君とのメイド帳封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/c/cd/Incarnation3_%E3%81%84%E3%81%A4%E3%81%8B%E5%90%9B%E3%81%A8%E3%81%AE%E3%83%A1%E3%82%A4%E3%83%89%E5%B8%B3%E5%B0%81%E9%9D%A2.jpg/139px-Incarnation3_%E3%81%84%E3%81%A4%E3%81%8B%E5%90%9B%E3%81%A8%E3%81%AE%E3%83%A1%E3%82%A4%E3%83%89%E5%B8%B3%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="139" height="196" srcset="https://upload.thwiki.cc/thumb/c/cd/Incarnation3_%E3%81%84%E3%81%A4%E3%81%8B%E5%90%9B%E3%81%A8%E3%81%AE%E3%83%A1%E3%82%A4%E3%83%89%E5%B8%B3%E5%B0%81%E9%9D%A2.jpg/208px-Incarnation3_%E3%81%84%E3%81%A4%E3%81%8B%E5%90%9B%E3%81%A8%E3%81%AE%E3%83%A1%E3%82%A4%E3%83%89%E5%B8%B3%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/c/cd/Incarnation3_%E3%81%84%E3%81%A4%E3%81%8B%E5%90%9B%E3%81%A8%E3%81%AE%E3%83%A1%E3%82%A4%E3%83%89%E5%B8%B3%E5%B0%81%E9%9D%A2.jpg/278px-Incarnation3_%E3%81%84%E3%81%A4%E3%81%8B%E5%90%9B%E3%81%A8%E3%81%AE%E3%83%A1%E3%82%A4%E3%83%89%E5%B8%B3%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="628" data-file-height="885"></a><div class="cover-char">角色：<a href="./十六夜咲夜.md" title="十六夜咲夜">十六夜咲夜</a></div></td>
+</tr><tr><td class="label">名称</td><td colspan="2"> Incarnation3 いつか君とのメイド帳 </td></tr><tr><td class="label">制作方</td><td><a href="./しぐれえび.md" title="しぐれえび">しぐれえび</a></td><td class="cover-artwork" rowspan="7" style="min-width:196px;"><a href="./文件-Incarnation3_いつか君とのメイド帳封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/c/cd/Incarnation3_%E3%81%84%E3%81%A4%E3%81%8B%E5%90%9B%E3%81%A8%E3%81%AE%E3%83%A1%E3%82%A4%E3%83%89%E5%B8%B3%E5%B0%81%E9%9D%A2.jpg/139px-Incarnation3_%E3%81%84%E3%81%A4%E3%81%8B%E5%90%9B%E3%81%A8%E3%81%AE%E3%83%A1%E3%82%A4%E3%83%89%E5%B8%B3%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="139" height="196" srcset="https://upload.thwiki.cc/thumb/c/cd/Incarnation3_%E3%81%84%E3%81%A4%E3%81%8B%E5%90%9B%E3%81%A8%E3%81%AE%E3%83%A1%E3%82%A4%E3%83%89%E5%B8%B3%E5%B0%81%E9%9D%A2.jpg/208px-Incarnation3_%E3%81%84%E3%81%A4%E3%81%8B%E5%90%9B%E3%81%A8%E3%81%AE%E3%83%A1%E3%82%A4%E3%83%89%E5%B8%B3%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/c/cd/Incarnation3_%E3%81%84%E3%81%A4%E3%81%8B%E5%90%9B%E3%81%A8%E3%81%AE%E3%83%A1%E3%82%A4%E3%83%89%E5%B8%B3%E5%B0%81%E9%9D%A2.jpg/278px-Incarnation3_%E3%81%84%E3%81%A4%E3%81%8B%E5%90%9B%E3%81%A8%E3%81%AE%E3%83%A1%E3%82%A4%E3%83%89%E5%B8%B3%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="628" data-file-height="885"></a><div class="cover-char">角色：<a href="./十六夜咲夜.md" title="十六夜咲夜">十六夜咲夜</a></div></td>
+</tr><tr><td class="label">首发日期</td><td>2012-05-27 （<a href="./展会作品列表.md#9">第九回 博麗神社例大祭</a>）</td></tr><tr><td class="label">类型</td><td>漫画</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>B5</td></tr><tr><td class="label">页数</td><td>44P</td></tr><tr><td class="label">售价</td><td>500日元</td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://kano12456.web.fc2.com/incarnation3.html">http://kano12456.web.fc2.com/incarnation3.html</a></td></tr></tbody></table>
 
 Incarnation3 いつか君とのメイド帳（同人志，しぐれえび，2012） - 2012年5月27日 由 しぐれえび 于 博丽神社例大祭9 发布的漫画同人志，B5尺寸一共44页，分级为 一般向
-
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://ec.toranoana.jp/tora_r/ec/item/040030047462">虎穴</a></td></tr></tbody></table>
 
 
-
 ## Staff
+
 - [レフトハンド](./レフトハンド.md)
 - [さわやか鮫肌](./さわやか鮫肌.md)
 - [玉之けだま](./玉之けだま.md)
@@ -30,14 +28,6 @@ Incarnation3 いつか君とのメイド帳（同人志，しぐれえび，2012
   
 悪魔が住むといわれる紅魔館。だからといってお屋敷の維持には仕えるメイド達の献身が必要不可欠！過ぎし日の十六夜咲夜もその情熱を燃やすのだった！
   
-  
-  
-
-  
-
-
-
-
 
 ---
 

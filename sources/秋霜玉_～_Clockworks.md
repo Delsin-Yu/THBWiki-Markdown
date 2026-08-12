@@ -1,53 +1,39 @@
 # 秋霜玉_～_Clockworks
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\7\71\ns0%3A%E7%A7%8B%E9%9C%9C%E7%8E%89_%EF%BD%9E_Clockworks.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\7\71\ns0%3A%E7%A7%8B%E9%9C%9C%E7%8E%89_%EF%BD%9E_Clockworks.html -->
 
 由 ZUN 创作的官方曲目，原名 秋霜玉　～ Clockworks
 
 本页是关于东方Project  
- **原作音乐** 的词条
-
+**原作音乐**的词条
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 出现作品](#出现作品)
 - [3 音乐文件](#音乐文件)
-
   - [3.1 秋霜玉](#秋霜玉)
   - [3.2 东方幻想的音乐](#东方幻想的音乐)
 
 
-
 - [4 说明文本](#说明文本)
-
   - [4.1 秋霜玉](#秋霜玉_2)
-
     - [4.1.1 Music Room](#Music_Room)
     - [4.1.2 创曲幻想](#创曲幻想)
 
 
-
   - [4.2 东方幻想的音乐](#东方幻想的音乐_2)
-
     - [4.2.1 秋霜玉](#秋霜玉_3)
 
 
 
 
-
-
 - [5 其他资料](#其他资料)
-
   - [5.1 乐理资讯](#乐理资讯)
   - [5.2 分析考据](#分析考据)
   - [5.3 二次同人数据](#二次同人数据)
 
 
-
 - [6 注释](#注释)
-
-
-
 
 
 ## 基本信息
@@ -55,14 +41,12 @@
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">秋霜玉　～ Clockworks</td></tr><tr><td><b>译名</b></td><td>秋霜玉 ～ Clockworks</td></tr><tr><td><b>英文译名</b></td><td>Autumn Frost Orb ~ Clockworks</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 秋霜玉 ～ Clockworks（曲目） - 由 ZUN 创作的官方曲目，原名 秋霜玉　～ Clockworks
-
 ## 出现作品
 
 <table>
 <tbody><tr><td>2000年12月30日（Comic Market 59）</td><td><b><a href="./秋霜玉.md" title="秋霜玉">秋霜玉</a></b></td><td>标题画面主题曲</td><td style="padding-left:5px;">秋霜玉　～ Clockworks（秋霜玉 ～ Clockworks）</td><td style="padding-left:10px;">作曲：ZUN</td></tr>
 <tr><td>2001年5月2日（非展会）</td><td><b><a href="./东方幻想的音乐.md" title="东方幻想的音乐">东方幻想的音乐</a></b></td><td>秋霜玉</td><td style="padding-left:5px;">秋霜玉　～ Clockworks（秋霜玉 ～ Clockworks）</td><td style="padding-left:10px;">编曲：ZUN</td></tr>
 </tbody></table>
-
 
 
 ## 音乐文件
@@ -72,9 +56,7 @@
 MP3由Roland SC-88Pro 实机录制。官方只发布MIDI而未发布MP3，故音轨长度以从游戏中提取的原MIDI文件为准。
   
 
-
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td><a href="./文件-sh01_01.mid.md" title="文件:sh01 01.mid">sh01_01.mid</a></td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-SE01_01.mp3.md" title="文件:SE01 01.mp3">SE01_01.mp3</a><br><audio src="https://upload.thwiki.cc/8/86/SE01_01.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>MUSIC\DATA0000（MIDI）</td></tr><tr><td><b>音轨时长</b></td><td>5:29</td></tr></tbody></table>
-
 
 
 ### 东方幻想的音乐
@@ -82,9 +64,7 @@ MP3由Roland SC-88Pro 实机录制。官方只发布MIDI而未发布MP3，故音
 MP3由Roland SC-88Pro 实机录制。官方只发布MIDI而未发布MP3，故音轨长度以原MIDI文件为准。
   
 
-
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td><a href="./文件-ssg_01.mid.md" title="文件:ssg 01.mid">ssg_01.mid</a></td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-ssg_01.mp3.md" title="文件:ssg 01.mp3">ssg_01.mp3</a><br><audio src="https://upload.thwiki.cc/c/c3/ssg_01.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td><a rel="nofollow" class="external free" href="http://www16.big.or.jp/~zun/html/music_old.html">http://www16.big.or.jp/~zun/html/music_old.html</a></td></tr><tr><td><b>音轨时长</b></td><td>3:23</td></tr></tbody></table>
-
 
 
 ## 说明文本
@@ -92,7 +72,8 @@ MP3由Roland SC-88Pro 实机录制。官方只发布MIDI而未发布MP3，故音
 ### 秋霜玉
 
 #### Music Room
-- Music Room (未找到链接)
+
+- [Music Room](./秋霜玉-Music.md#标题画面)
 
 标题画面曲  
   
@@ -102,18 +83,18 @@ MP3由Roland SC-88Pro 实机录制。官方只发布MIDI而未发布MP3，故音
   
 但是，这首曲子太阴暗了呢（笑）  
 一如既往（^^;秋霜玉　～ Clockworks
-
 #### 创曲幻想
-- 创曲幻想 (未找到链接)
+
+- [创曲幻想](./附带文档-秋霜玉-创曲幻想.md#曲名解说-2)
 
 【 秋霜玉 ～ Clockworks 】标题曲  
   
 这是标题曲。哎呀就是这样。Clockworks 来自机器人，所以这么命名。
-
 ### 东方幻想的音乐
 
 #### 秋霜玉
-- 东方幻想的音乐 (未找到链接)
+
+- [东方幻想的音乐](./东方幻想的音乐-过去的曲子-秋霜玉.md#秋霜玉_～_Clockworks)
 
 +----------------------------------------------------------------------------+  
 |【 　 曲名　　】| 【 秋霜玉　～ Clockworks 】  
@@ -127,7 +108,7 @@ MP3由Roland SC-88Pro 实机录制。官方只发布MIDI而未发布MP3，故音
 |                | 这种时候，请不要更动压缩包内部文件。  
 |【　 著作权 　】| ＺＵＮ (太田顺也）  
 |【演奏上的注意】| 用sc-88Pro 的人在演奏时请不要按88Map。  
-|                                          &#126;&#126;&#126;&#126;~   
+|                                          ~~~~~   
 +-----------------------------------------------------------------------------+  
 感谢您下载本文件。  
   
@@ -145,7 +126,6 @@ MP3由Roland SC-88Pro 实机录制。官方只发布MIDI而未发布MP3，故音
 曲子的感想、请求等，这边请  
 　东方幻想空间　「博丽神社」 [http://www16.big.or.jp/~zun/](http://www16.big.or.jp/~zun/)  
 　e-Mail                     zun@big.or.jp
-
 ## 其他资料
 
 ### 乐理资讯
@@ -164,18 +144,6 @@ MP3由Roland SC-88Pro 实机录制。官方只发布MIDI而未发布MP3，故音
 <tr><td>Arrange</td><td>14</td></tr>
 <tr><td>Vocal率</td><td>0%</td></tr>
 </tbody></table>
-
-
-
-
-
-  
-  
-
-  
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Turn_from_Red_to_White封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\60\ns6%3ATurn_from_Red_to_White%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\60\ns6%3ATurn_from_Red_to_White%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 ぬまうおハウス | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@
   
 
 - [Turn from Red to White](./Turn_from_Red_to_White.md)
-
-
-
 
 
 ---

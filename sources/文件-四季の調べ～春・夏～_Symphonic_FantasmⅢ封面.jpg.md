@@ -1,6 +1,6 @@
 # 文件:四季の調べ～春・夏～_Symphonic_FantasmⅢ封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f3\ns6%3A%E5%9B%9B%E5%AD%A3%E3%81%AE%E8%AA%BF%E3%81%B9%EF%BD%9E%E6%98%A5%E3%83%BB%E5%A4%8F%EF%BD%9E_Symphonic_Fantasm%E2%85%A2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f3\ns6%3A%E5%9B%9B%E5%AD%A3%E3%81%AE%E8%AA%BF%E3%81%B9%EF%BD%9E%E6%98%A5%E3%83%BB%E5%A4%8F%EF%BD%9E_Symphonic_Fantasm%E2%85%A2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 幻楽工房
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [四季の調べ～春・夏～ Symphonic FantasmⅢ](./四季の調べ～春・夏～_Symphonic_FantasmⅢ.md)  
-该封面包含的角色：- [西行寺幽幽子](./西行寺幽幽子.md)- [风见幽香](./风见幽香.md)
-
-
-
+- [四季の調べ～春・夏～ Symphonic FantasmⅢ](./四季の調べ～春・夏～_Symphonic_FantasmⅢ.md)该封面包含的角色：
+- [西行寺幽幽子](./西行寺幽幽子.md)
+- [风见幽香](./风见幽香.md)
 
 
 ---

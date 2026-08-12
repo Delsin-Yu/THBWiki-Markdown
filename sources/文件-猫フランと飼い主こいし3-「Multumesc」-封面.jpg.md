@@ -1,6 +1,6 @@
 # 文件:猫フランと飼い主こいし3-「Multumesc」-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\58\ns6%3A%E7%8C%AB%E3%83%95%E3%83%A9%E3%83%B3%E3%81%A8%E9%A3%BC%E3%81%84%E4%B8%BB%E3%81%93%E3%81%84%E3%81%973-%E3%80%8CMultumesc%E3%80%8D-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\58\ns6%3A%E7%8C%AB%E3%83%95%E3%83%A9%E3%83%B3%E3%81%A8%E9%A3%BC%E3%81%84%E4%B8%BB%E3%81%93%E3%81%84%E3%81%973-%E3%80%8CMultumesc%E3%80%8D-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 蒼色彼方
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [猫フランと飼い主こいし3-「Multumesc」-](./猫フランと飼い主こいし3-「Multumesc」-.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)- [古明地恋](./古明地恋.md)
-
-
-
+- [猫フランと飼い主こいし3-「Multumesc」-](./猫フランと飼い主こいし3-「Multumesc」-.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [古明地恋](./古明地恋.md)
 
 
 ---

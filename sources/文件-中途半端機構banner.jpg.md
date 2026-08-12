@@ -1,14 +1,11 @@
 # 文件:中途半端機構banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ca\ns6%3A%E4%B8%AD%E9%80%94%E5%8D%8A%E7%AB%AF%E6%A9%9F%E6%A7%8Bbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ca\ns6%3A%E4%B8%AD%E9%80%94%E5%8D%8A%E7%AB%AF%E6%A9%9F%E6%A7%8Bbanner%2Ejpg.html -->
 
 中途半端機構 | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

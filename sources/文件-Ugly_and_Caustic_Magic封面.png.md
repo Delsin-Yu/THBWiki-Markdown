@@ -1,6 +1,6 @@
 # 文件:Ugly_and_Caustic_Magic封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\40\ns6%3AUgly_and_Caustic_Magic%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\40\ns6%3AUgly_and_Caustic_Magic%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Tengu_Corp | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Tengu_Corp | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Ugly and Caustic Magic](./Ugly_and_Caustic_Magic.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [Ugly and Caustic Magic](./Ugly_and_Caustic_Magic.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:TRAJECTORY［2021-2022］封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\99\ns6%3ATRAJECTORY%EF%BC%BB2021-2022%EF%BC%BD%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\99\ns6%3ATRAJECTORY%EF%BC%BB2021-2022%EF%BC%BD%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 同人志封面 | 名沢 | 封面图片
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [TRAJECTORY［2021-2022］](./TRAJECTORY［2021-2022］.md)  
-该封面包含的角色：- [东风谷早苗](./东风谷早苗.md)
+- [TRAJECTORY［2021-2022］](./TRAJECTORY［2021-2022］.md)该封面包含的角色：
+- [东风谷早苗](./东风谷早苗.md)
 
   
-源地址：[direct image link (original size; cropped)](https://pbs.twimg.com/media/FlDj4CLagAEryL_?format=jpg&amp;name=orig), [source tweet](https://twitter.com/N_o_t_h_e_r/status/1608036652597006341)
-  
-
-
-
-
+源地址：[direct image link (original size; cropped)](https://pbs.twimg.com/media/FlDj4CLagAEryL_?format=jpg&name=orig), [source tweet](https://twitter.com/N_o_t_h_e_r/status/1608036652597006341)  
 
 ---
 

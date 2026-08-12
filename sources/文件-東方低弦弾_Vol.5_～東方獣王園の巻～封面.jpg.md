@@ -1,6 +1,6 @@
 # 文件:東方低弦弾_Vol.5_～東方獣王園の巻～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7e\ns6%3A%E6%9D%B1%E6%96%B9%E4%BD%8E%E5%BC%A6%E5%BC%BE_Vol%2E5_%EF%BD%9E%E6%9D%B1%E6%96%B9%E7%8D%A3%E7%8E%8B%E5%9C%92%E3%81%AE%E5%B7%BB%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7e\ns6%3A%E6%9D%B1%E6%96%B9%E4%BD%8E%E5%BC%A6%E5%BC%BE_Vol%2E5_%EF%BD%9E%E6%9D%B1%E6%96%B9%E7%8D%A3%E7%8E%8B%E5%9C%92%E3%81%AE%E5%B7%BB%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 H.J.Freaks | ぼいじゃあ | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ H.J.Freaks | ぼいじゃあ | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方低弦弾 Vol.5 ～東方獣王園の巻～](./東方低弦弾_Vol.5_～東方獣王園の巻～.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [東方低弦弾 Vol.5 ～東方獣王園の巻～](./東方低弦弾_Vol.5_～東方獣王園の巻～.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

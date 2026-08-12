@@ -1,6 +1,6 @@
 # 文件:Seconda_Viaggio封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1a\ns6%3ASeconda_Viaggio%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1a\ns6%3ASeconda_Viaggio%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Prismriver_de_la_nuit | 专辑封面 | 封面图片
 
@@ -8,11 +8,11 @@ Prismriver_de_la_nuit | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Seconda Viaggio](./Seconda_Viaggio.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [莉莉卡·普莉兹姆利巴](./莉莉卡·普莉兹姆利巴.md)- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
-
-
-
+- [Seconda Viaggio](./Seconda_Viaggio.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [莉莉卡·普莉兹姆利巴](./莉莉卡·普莉兹姆利巴.md)
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
 
 
 ---

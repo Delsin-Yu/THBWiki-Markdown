@@ -1,12 +1,8 @@
 # 文件:博丽灵梦（绯想天Spell_Card立绘）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\78\ns6%3A%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E7%BB%AF%E6%83%B3%E5%A4%A9Spell_Card%E7%AB%8B%E7%BB%98%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\78\ns6%3A%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E7%BB%AF%E6%83%B3%E5%A4%A9Spell_Card%E7%AB%8B%E7%BB%98%EF%BC%89%2Epng.html -->
 
 Alphes绘 | 东方绯想天 | 官方游戏立绘
-
-
-
-
 
 
 ---

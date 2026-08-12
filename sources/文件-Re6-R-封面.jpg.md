@@ -1,6 +1,6 @@
 # 文件:Re6-R-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\df\ns6%3ARe6-R-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\df\ns6%3ARe6-R-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Iemitsu. | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ Iemitsu. | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Re6-R-](./Re6-R-.md)  
-该封面包含的角色：- [小野塚小町](./小野塚小町.md)- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)
-
-
-
+- [Re6-R-](./Re6-R-.md)该封面包含的角色：
+- [小野塚小町](./小野塚小町.md)
+- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)
 
 
 ---

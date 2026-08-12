@@ -1,12 +1,8 @@
 # 文件:さんぼん堂banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\eb\ns6%3A%E3%81%95%E3%82%93%E3%81%BC%E3%82%93%E5%A0%82banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\eb\ns6%3A%E3%81%95%E3%82%93%E3%81%BC%E3%82%93%E5%A0%82banner%2Ejpg.html -->
 
 さんぼん堂 | 社团LOGO
-
-
-
-
 
 
 ---

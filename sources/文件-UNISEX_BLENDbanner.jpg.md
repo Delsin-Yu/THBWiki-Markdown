@@ -1,12 +1,8 @@
 # 文件:UNISEX_BLENDbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\54\ns6%3AUNISEX_BLENDbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\54\ns6%3AUNISEX_BLENDbanner%2Ejpg.html -->
 
 UNISEX_BLEND | 社团LOGO
-
-
-
-
 
 
 ---

@@ -1,12 +1,11 @@
 # ALLES_MEGA_MIX
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\b3\ns0%3AALLES_MEGA_MIX.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\b3\ns0%3AALLES_MEGA_MIX.html -->
 
 2024年6月22日 由 Another Place  发布的EP同人专辑，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人专辑 (未找到链接)** 的词条
-
+**[二次创作同人专辑](./二次创作.md#同人音乐)**的词条
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-ALLES_MEGA_MIX封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/e/e3/ALLES_MEGA_MIX%E5%B0%81%E9%9D%A2.jpg/196px-ALLES_MEGA_MIX%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="196" height="194" srcset="https://upload.thwiki.cc/thumb/e/e3/ALLES_MEGA_MIX%E5%B0%81%E9%9D%A2.jpg/294px-ALLES_MEGA_MIX%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/e/e3/ALLES_MEGA_MIX%E5%B0%81%E9%9D%A2.jpg/392px-ALLES_MEGA_MIX%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="512" data-file-height="508"></a><div class="cover-char">角色：<a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰朵露·斯卡蕾特</a></div></td>
@@ -14,22 +13,17 @@
 </tr><tr><td class="label">首发日期</td><td>未知</td></tr><tr><td class="label">类型</td><td>EP</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>4</td></tr><tr><td class="label">总时长</td><td>00:00</td></tr></tbody></table>
 
 ALLES MEGA MIX（同人专辑，Another Place） - 2024年6月22日 由 Another Place  发布的EP同人专辑，分级为 一般向
-
 ## Staff
 
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="info"><b>01</b></td><td id="Rotten_Doll" colspan="2" class="title">Rotten Doll<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=U.N.オーエンは彼女なのか？&amp;fromwiki=ALLES_MEGA_MIX"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=U.N.オーエンは彼女なのか？&amp;fromwiki=ALLES_MEGA_MIX"><span></span></a></span><div class="ogmusic"><a href="./U.N.オーエンは彼女なのか？.md" class="mw-redirect" title="U.N.オーエンは彼女なのか？">U.N.オーエンは彼女なのか？</a></div><div class="source"><a href="./东方红魔乡_～_the_Embodiment_of_Scarlet_Devil..md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr>
-<tr><td id="2" class="info"><b>02</b></td><td id="U_don’_Gain" colspan="2" class="title">U don’ Gain<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=狂気の瞳　～ Invisible Full Moon&amp;fromwiki=ALLES_MEGA_MIX"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=狂気の瞳　～ Invisible Full Moon&amp;fromwiki=ALLES_MEGA_MIX"><span></span></a></span><div class="ogmusic"><a href="./狂気の瞳_～_Invisible_Full_Moon.md" class="mw-redirect" title="狂気の瞳 ～ Invisible Full Moon">狂気の瞳　～ Invisible Full Moon</a></div><div class="source"><a href="./东方永夜抄_～_Imperishable_Night..md" class="mw-redirect" title="东方永夜抄 ～ Imperishable Night.">东方永夜抄　～ Imperishable Night.</a></div></td></tr>
-<tr><td id="3" class="info"><b>03</b></td><td id="ALLES_MEGA_MIX" colspan="2" class="title">ALLES MEGA MIX<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?&amp;fromwiki=ALLES_MEGA_MIX"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr>
-<tr><td id="4" class="info"><b>04</b></td><td id="Never_Unclose_(Bonus)" colspan="2" class="title">Never Unclose (Bonus)<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=少女さとり　～ 3rd eye&amp;fromwiki=ALLES_MEGA_MIX"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=少女さとり　～ 3rd eye&amp;fromwiki=ALLES_MEGA_MIX"><span></span></a></span><div class="ogmusic"><a href="./少女さとり_～_3rd_eye.md" class="mw-redirect" title="少女さとり ～ 3rd eye">少女さとり　～ 3rd eye</a></div><div class="source"><a href="./东方地灵殿_～_Subterranean_Animism..md" class="mw-redirect" title="东方地灵殿 ～ Subterranean Animism.">东方地灵殿　～ Subterranean Animism.</a></div></td></tr></tbody></table>
-
+<table><tbody><tr><td id="1" class="info"><b>01</b></td><td id="Rotten_Doll" colspan="2" class="title">Rotten Doll</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./U.N.OWEN就是她吗？.md" class="mw-redirect" title="U.N.オーエンは彼女なのか？">U.N.オーエンは彼女なのか？</a></div><div class="source"><a href="./东方红魔乡.md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr>
+<tr><td id="2" class="info"><b>02</b></td><td id="U_don’_Gain" colspan="2" class="title">U don’ Gain</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./狂气之瞳_～_Invisible_Full_Moon.md" class="mw-redirect" title="狂気の瞳 ～ Invisible Full Moon">狂気の瞳　～ Invisible Full Moon</a></div><div class="source"><a href="./东方永夜抄.md" class="mw-redirect" title="东方永夜抄 ～ Imperishable Night.">东方永夜抄　～ Imperishable Night.</a></div></td></tr>
+<tr><td id="3" class="info"><b>03</b></td><td id="ALLES_MEGA_MIX" colspan="2" class="title">ALLES MEGA MIX</td><td class="time">-</td></tr>
+<tr><td id="4" class="info"><b>04</b></td><td id="Never_Unclose_(Bonus)" colspan="2" class="title">Never Unclose (Bonus)</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./少女觉_～_3rd_eye.md" class="mw-redirect" title="少女さとり ～ 3rd eye">少女さとり　～ 3rd eye</a></div><div class="source"><a href="./东方地灵殿.md" class="mw-redirect" title="东方地灵殿 ～ Subterranean Animism.">东方地灵殿　～ Subterranean Animism.</a></div></td></tr></tbody></table>
 
 
 ## 评论
-
-
-
 
 ---
 

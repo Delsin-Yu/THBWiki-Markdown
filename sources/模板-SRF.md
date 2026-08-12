@@ -1,16 +1,12 @@
 # 模板:SRF
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\4\40\ns10%3ASRF.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\4\40\ns10%3ASRF.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

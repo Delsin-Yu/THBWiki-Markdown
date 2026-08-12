@@ -1,14 +1,11 @@
 # 文件:カレイドノートbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\74\ns6%3A%E3%82%AB%E3%83%AC%E3%82%A4%E3%83%89%E3%83%8E%E3%83%BC%E3%83%88banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\74\ns6%3A%E3%82%AB%E3%83%AC%E3%82%A4%E3%83%89%E3%83%8E%E3%83%BC%E3%83%88banner%2Ejpg.html -->
 
 カレイドノート | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

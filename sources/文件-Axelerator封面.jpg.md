@@ -1,6 +1,6 @@
 # 文件:Axelerator封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6c\ns6%3AAxelerator%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6c\ns6%3AAxelerator%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 GET_IN_THE_RING | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ GET_IN_THE_RING | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Axelerator](./Axelerator.md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)
+- [Axelerator](./Axelerator.md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
 
   
-源地址：[[1]](https://secure.static.tumblr.com/2912e5606756717ead97a5fecf0cb6a2/utfmbio/Pxcoi9sw8/tumblr_static_12ggrl6a4q1w4csogso0w4oks.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://secure.static.tumblr.com/2912e5606756717ead97a5fecf0cb6a2/utfmbio/Pxcoi9sw8/tumblr_static_12ggrl6a4q1w4csogso0w4oks.jpg)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:Blood_that_was_shed_among_the_samsara封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b7\ns6%3ABlood_that_was_shed_among_the_samsara%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b7\ns6%3ABlood_that_was_shed_among_the_samsara%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 As_Killing_your_Breakdown | 专辑封面 | 封面图片
 
@@ -11,12 +11,7 @@ As_Killing_your_Breakdown | 专辑封面 | 封面图片
 - [Blood that was shed among the samsara](./Blood_that_was_shed_among_the_samsara.md)
 
   
-源地址：[[1]](https://static.tumblr.com/56aef693f98831321559a30e7adc2cd7/xwxjxju/wwLnsguo8/tumblr_static_78sqqm2892g4ss0wwk40sooko.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://static.tumblr.com/56aef693f98831321559a30e7adc2cd7/xwxjxju/wwLnsguo8/tumblr_static_78sqqm2892g4ss0wwk40sooko.jpg)  
 
 ---
 

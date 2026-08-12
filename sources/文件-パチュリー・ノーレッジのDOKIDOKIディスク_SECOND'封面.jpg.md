@@ -1,6 +1,6 @@
 # 文件:パチュリー・ノーレッジのDOKIDOKIディスク_SECOND'封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a1\ns6%3A%E3%83%91%E3%83%81%E3%83%A5%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%8E%E3%83%BC%E3%83%AC%E3%83%83%E3%82%B8%E3%81%AEDOKIDOKI%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF_SECOND%27%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a1\ns6%3A%E3%83%91%E3%83%81%E3%83%A5%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%8E%E3%83%BC%E3%83%AC%E3%83%83%E3%82%B8%E3%81%AEDOKIDOKI%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF_SECOND%27%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 アールグレイ | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [パチュリー・ノーレッジのDOKIDOKIディスク SECOND'](./パチュリー・ノーレッジのDOKIDOKIディスク_SECOND'.md)  
-该封面包含的角色：- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
+- [パチュリー・ノーレッジのDOKIDOKIディスク SECOND'](./パチュリー・ノーレッジのDOKIDOKIディスク_SECOND'.md)该封面包含的角色：
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
 
   
-源地址：[[1]](https://cdn.melonbooks.co.jp/user_data/packages/resize_image.php?image=213001019655.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://cdn.melonbooks.co.jp/user_data/packages/resize_image.php?image=213001019655.jpg)  
 
 ---
 

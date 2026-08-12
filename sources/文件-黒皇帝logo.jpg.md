@@ -1,18 +1,13 @@
 # 文件:黒皇帝logo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\54\ns6%3A%E9%BB%92%E7%9A%87%E5%B8%9Dlogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\54\ns6%3A%E9%BB%92%E7%9A%87%E5%B8%9Dlogo%2Ejpg.html -->
 
 社团LOGO | 黒皇帝
 
 
 ## 文件说明
   
-源地址：[soundcloud avatar](https://i1.sndcdn.com/avatars-000230514422-jh7xpf-t500x500.jpg)
-  
-
-
-
-
+源地址：[soundcloud avatar](https://i1.sndcdn.com/avatars-000230514422-jh7xpf-t500x500.jpg)  
 
 ---
 

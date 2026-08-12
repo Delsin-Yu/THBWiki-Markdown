@@ -1,12 +1,8 @@
 # 文件:Ustlab_banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\34\ns6%3AUstlab_banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\34\ns6%3AUstlab_banner%2Epng.html -->
 
 宇部ソフトウェア技術研究所 | 社团LOGO
-
-
-
-
 
 
 ---

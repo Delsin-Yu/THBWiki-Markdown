@@ -1,6 +1,6 @@
 # 文件:Wired_into_the_Brick封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7a\ns6%3AWired_into_the_Brick%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7a\ns6%3AWired_into_the_Brick%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Unity-Gain | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Unity-Gain | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Wired into the Brick](./Wired_into_the_Brick.md)  
-该封面包含的角色：- [红美铃](./红美铃.md)
-
-
-
+- [Wired into the Brick](./Wired_into_the_Brick.md)该封面包含的角色：
+- [红美铃](./红美铃.md)
 
 
 ---

@@ -1,18 +1,13 @@
 # 文件:D-Typebanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\68\ns6%3AD-Typebanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\68\ns6%3AD-Typebanner%2Egif.html -->
 
 D-TYPE | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[direct image link](http://www.sgv417.jp/~D-TYPE/img/link/bana.gif), [source page](http://www.sgv417.jp/~D-TYPE/)
-  
-
-
-
-
+源地址：[direct image link](http://www.sgv417.jp/~D-TYPE/img/link/bana.gif), [source page](http://www.sgv417.jp/~D-TYPE/)  
 
 ---
 

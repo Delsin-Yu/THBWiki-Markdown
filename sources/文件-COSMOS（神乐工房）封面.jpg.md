@@ -1,6 +1,6 @@
 # 文件:COSMOS（神乐工房）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\de\ns6%3ACOSMOS%EF%BC%88%E7%A5%9E%E4%B9%90%E5%B7%A5%E6%88%BF%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\de\ns6%3ACOSMOS%EF%BC%88%E7%A5%9E%E4%B9%90%E5%B7%A5%E6%88%BF%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 神乐工房
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [COSMOS（神乐工房）](./COSMOS（神乐工房）.md)  
-该封面包含的角色：- [古明地恋](./古明地恋.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [COSMOS（神乐工房）](./COSMOS（神乐工房）.md)该封面包含的角色：
+- [古明地恋](./古明地恋.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

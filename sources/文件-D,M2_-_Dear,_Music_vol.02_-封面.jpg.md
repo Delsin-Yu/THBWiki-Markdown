@@ -1,6 +1,6 @@
 # 文件:D,M2_-_Dear,_Music_vol.02_-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\83\ns6%3AD%2CM2_-_Dear%2C_Music_vol%2E02_-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\83\ns6%3AD%2CM2_-_Dear%2C_Music_vol%2E02_-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Dear,_friends | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@ Dear,_friends | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [D,M2 - Dear, Music vol.02 -](./D,M2_-_Dear,_Music_vol.02_-.md)  
-该封面包含的角色：- [八云蓝](./八云蓝.md)
+- [D,M2 - Dear, Music vol.02 -](./D,M2_-_Dear,_Music_vol.02_-.md)该封面包含的角色：
+- [八云蓝](./八云蓝.md)
 
   
-源地址：[direct image link](https://www.suruga-ya.jp/database/pics_light/game/186117981.jpg), [source page (suruga-ya ID: 186117981)](https://www.suruga-ya.jp/product/detail/186117981)
-  
-
-
-
-
+源地址：[direct image link](https://www.suruga-ya.jp/database/pics_light/game/186117981.jpg), [source page (suruga-ya ID: 186117981)](https://www.suruga-ya.jp/product/detail/186117981)  
 
 ---
 

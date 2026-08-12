@@ -1,16 +1,12 @@
 # 文件:chia照片.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cb\ns6%3Achia%E7%85%A7%E7%89%87%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cb\ns6%3Achia%E7%85%A7%E7%89%87%2Ejpg.html -->
 
 chia
 
   
 chia
   
-
-
-
-
 
 ---
 

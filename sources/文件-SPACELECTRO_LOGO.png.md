@@ -1,12 +1,8 @@
 # 文件:SPACELECTRO_LOGO.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\01\ns6%3ASPACELECTRO_LOGO%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\01\ns6%3ASPACELECTRO_LOGO%2Epng.html -->
 
 SPACELECTRO | 社团LOGO
-
-
-
-
 
 
 ---

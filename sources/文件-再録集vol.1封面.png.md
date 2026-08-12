@@ -1,6 +1,6 @@
 # 文件:再録集vol.1封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\df\ns6%3A%E5%86%8D%E9%8C%B2%E9%9B%86vol%2E1%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\df\ns6%3A%E5%86%8D%E9%8C%B2%E9%9B%86vol%2E1%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 鉄腕トカゲ探知機
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [再録集vol.1](./再録集vol.1.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)
-
-
-
+- [再録集vol.1](./再録集vol.1.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
 
 
 ---

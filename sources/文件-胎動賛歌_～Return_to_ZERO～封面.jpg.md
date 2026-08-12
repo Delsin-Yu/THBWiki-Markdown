@@ -1,6 +1,6 @@
 # 文件:胎動賛歌_～Return_to_ZERO～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d5\ns6%3A%E8%83%8E%E5%8B%95%E8%B3%9B%E6%AD%8C_%EF%BD%9EReturn_to_ZERO%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d5\ns6%3A%E8%83%8E%E5%8B%95%E8%B3%9B%E6%AD%8C_%EF%BD%9EReturn_to_ZERO%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 神像彫刻家
 
@@ -11,9 +11,6 @@
   
 
 - [胎動賛歌 ～Return to ZERO～](./胎動賛歌_～Return_to_ZERO～.md)
-
-
-
 
 
 ---

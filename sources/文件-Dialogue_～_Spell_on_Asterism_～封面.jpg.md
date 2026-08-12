@@ -1,6 +1,6 @@
 # 文件:Dialogue_～_Spell_on_Asterism_～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\70\ns6%3ADialogue_%EF%BD%9E_Spell_on_Asterism_%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\70\ns6%3ADialogue_%EF%BD%9E_Spell_on_Asterism_%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 君の美術館 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [dialogue ～ Spell on Asterism ～](./dialogue_～_Spell_on_Asterism_～.md)  
-该封面包含的角色：- [圣白莲](./圣白莲.md)
-
-
-
+- [dialogue ～ Spell on Asterism ～](./dialogue_～_Spell_on_Asterism_～.md)该封面包含的角色：
+- [圣白莲](./圣白莲.md)
 
 
 ---

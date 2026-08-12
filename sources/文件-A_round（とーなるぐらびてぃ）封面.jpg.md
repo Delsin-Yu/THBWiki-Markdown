@@ -1,6 +1,6 @@
 # 文件:A_round（とーなるぐらびてぃ）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a8\ns6%3AA_round%EF%BC%88%E3%81%A8%E3%83%BC%E3%81%AA%E3%82%8B%E3%81%90%E3%82%89%E3%81%B3%E3%81%A6%E3%81%83%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a8\ns6%3AA_round%EF%BC%88%E3%81%A8%E3%83%BC%E3%81%AA%E3%82%8B%E3%81%90%E3%82%89%E3%81%B3%E3%81%A6%E3%81%83%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 とーなるぐらびてぃ | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@
   
 
 - [A round（とーなるぐらびてぃ）](./A_round（とーなるぐらびてぃ）.md)
-
-
-
 
 
 ---

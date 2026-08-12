@@ -1,14 +1,11 @@
 # 文件:セブンスヘブンMAXIONbanner_old.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a5\ns6%3A%E3%82%BB%E3%83%96%E3%83%B3%E3%82%B9%E3%83%98%E3%83%96%E3%83%B3MAXIONbanner_old%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a5\ns6%3A%E3%82%BB%E3%83%96%E3%83%B3%E3%82%B9%E3%83%98%E3%83%96%E3%83%B3MAXIONbanner_old%2Egif.html -->
 
 セブンスヘブンMAXION | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

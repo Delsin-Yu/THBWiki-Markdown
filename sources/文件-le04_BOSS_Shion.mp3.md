@@ -1,16 +1,12 @@
 # 文件:le04_BOSS_Shion.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ce\ns6%3Ale04_BOSS_Shion%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ce\ns6%3Ale04_BOSS_Shion%2Emp3.html -->
 
 连缘Project官方音乐MP3
 
   
 连缘天影战记中立线6面Boss-死宛主题曲
   
-
-
-
-
 
 ---
 

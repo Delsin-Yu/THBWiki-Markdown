@@ -1,6 +1,6 @@
 # 文件:響子ちゃんの門前読経テクノ_Remix_EP封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8f\ns6%3A%E9%9F%BF%E5%AD%90%E3%81%A1%E3%82%83%E3%82%93%E3%81%AE%E9%96%80%E5%89%8D%E8%AA%AD%E7%B5%8C%E3%83%86%E3%82%AF%E3%83%8E_Remix_EP%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8f\ns6%3A%E9%9F%BF%E5%AD%90%E3%81%A1%E3%82%83%E3%82%93%E3%81%AE%E9%96%80%E5%89%8D%E8%AA%AD%E7%B5%8C%E3%83%86%E3%82%AF%E3%83%8E_Remix_EP%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Dドライブ | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Dドライブ | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [響子ちゃんの門前読経テクノ Remix EP](./響子ちゃんの門前読経テクノ_Remix_EP.md)  
-该封面包含的角色：- [幽谷响子](./幽谷响子.md)
-
-
-
+- [響子ちゃんの門前読経テクノ Remix EP](./響子ちゃんの門前読経テクノ_Remix_EP.md)该封面包含的角色：
+- [幽谷响子](./幽谷响子.md)
 
 
 ---

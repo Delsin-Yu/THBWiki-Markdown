@@ -1,14 +1,11 @@
 # 文件:雏芥子工坊banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\74\ns6%3A%E9%9B%8F%E8%8A%A5%E5%AD%90%E5%B7%A5%E5%9D%8Abanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\74\ns6%3A%E9%9B%8F%E8%8A%A5%E5%AD%90%E5%B7%A5%E5%9D%8Abanner%2Ejpg.html -->
 
 雏芥子工坊
 
 
 ## 摘要
-
-
-
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:ユーロバカ一代_VOL.4封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\ff\ns6%3A%E3%83%A6%E3%83%BC%E3%83%AD%E3%83%90%E3%82%AB%E4%B8%80%E4%BB%A3_VOL%2E4%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\ff\ns6%3A%E3%83%A6%E3%83%BC%E3%83%AD%E3%83%90%E3%82%AB%E4%B8%80%E4%BB%A3_VOL%2E4%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Eurobeat_Union | 专辑封面 | 封面图片
 
@@ -8,11 +8,10 @@ Eurobeat_Union | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [ユーロバカ一代 VOL.4](./ユーロバカ一代_VOL.4.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [东风谷早苗](./东风谷早苗.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [ユーロバカ一代 VOL.4](./ユーロバカ一代_VOL.4.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [东风谷早苗](./东风谷早苗.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:东方LivePartyLOGO.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\92\ns6%3A%E4%B8%9C%E6%96%B9LivePartyLOGO%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\92\ns6%3A%E4%B8%9C%E6%96%B9LivePartyLOGO%2Ejpg.html -->
 
 东方LiveParty | 活动LOGO
-
-
-
-
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:机动战士联盟同人社banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\17\ns6%3A%E6%9C%BA%E5%8A%A8%E6%88%98%E5%A3%AB%E8%81%94%E7%9B%9F%E5%90%8C%E4%BA%BA%E7%A4%BEbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\17\ns6%3A%E6%9C%BA%E5%8A%A8%E6%88%98%E5%A3%AB%E8%81%94%E7%9B%9F%E5%90%8C%E4%BA%BA%E7%A4%BEbanner%2Ejpg.html -->
 
 机动战士联盟同人社 | 社团LOGO
-
-
-
-
 
 
 ---

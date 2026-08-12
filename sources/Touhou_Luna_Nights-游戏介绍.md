@@ -1,14 +1,14 @@
 # Touhou_Luna_Nights/游戏介绍
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\0b\ns0%3ATouhou_Luna_Nights%2F%E6%B8%B8%E6%88%8F%E4%BB%8B%E7%BB%8D.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\0b\ns0%3ATouhou_Luna_Nights%2F%E6%B8%B8%E6%88%8F%E4%BB%8B%E7%BB%8D.html -->
 
 Team_Ladybug | Vaka_Game_Magazine
 
 
 ## 关于这款游戏
   
-[](./文件-东方月神夜1.png.md)  
-
+<img alt="东方月神夜1.png" src="https://upload.thwiki.cc/b/b3/%E4%B8%9C%E6%96%B9%E6%9C%88%E7%A5%9E%E5%A4%9C1.png" decoding="async" loading="lazy" width="616" height="304" data-file-width="616" data-file-height="304">
+  
   
   
 Touhou Luna Night's为2D探索型动作(类银河战士恶魔城)游戏。　  
@@ -16,12 +16,7 @@ Touhou Luna Night's为2D探索型动作(类银河战士恶魔城)游戏。　
 是曾经制作参与过多款动作游戏Team Ladybug的最新作品。
   
   
-  
-
-  
-  
 “――来吧，开始我的世界”  
-
   
   
 女仆「十六夜 咲夜」  
@@ -34,32 +29,26 @@ Touhou Luna Night's为2D探索型动作(类银河战士恶魔城)游戏。　
 从未到过的地方，从未见过的妖怪，以及被封印的力量。  
 
 蕾米莉亚的目的到底是什么･･･？  
-
   
-
 
 ### 本游戏的特点
   
 需要灵活运用时间停止等特殊能力的地图机关  
-
-[](./文件-东方月神夜2.png.md)  
-
-[](./文件-东方月神夜1.png.md)  
-
+<img alt="东方月神夜2.png" src="https://upload.thwiki.cc/c/c6/%E4%B8%9C%E6%96%B9%E6%9C%88%E7%A5%9E%E5%A4%9C2.png" decoding="async" loading="lazy" width="616" height="304" data-file-width="616" data-file-height="304">
+  
+<img alt="东方月神夜1.png" src="https://upload.thwiki.cc/b/b3/%E4%B8%9C%E6%96%B9%E6%9C%88%E7%A5%9E%E5%A4%9C1.png" decoding="async" loading="lazy" width="616" height="304" data-file-width="616" data-file-height="304">
+  
   
 
 利用擦弹进行属性回复  
-
-[](./文件-东方月神夜3.png.md)  
-
+<img alt="东方月神夜3.png" src="https://upload.thwiki.cc/1/18/%E4%B8%9C%E6%96%B9%E6%9C%88%E7%A5%9E%E5%A4%9C3.png" decoding="async" loading="lazy" width="616" height="304" data-file-width="616" data-file-height="304">
+  
   
 
 充分展现东方世界观魅力的美术  
-
-[](./文件-东方月神夜4.png.md)  
-
+<img alt="东方月神夜4.png" src="https://upload.thwiki.cc/c/c4/%E4%B8%9C%E6%96%B9%E6%9C%88%E7%A5%9E%E5%A4%9C4.png" decoding="async" loading="lazy" width="700" height="393" data-file-width="700" data-file-height="393">
   
-
+  
 
 ### 来自发行方的话
   
@@ -90,10 +79,6 @@ Touhou Luna Night's为2D探索型动作(类银河战士恶魔城)游戏。　
 
 Touhou Luna Night's这款游戏，不仅面向东方Project的粉丝，同时也值得向所有喜欢2D动作类游戏的玩家强烈推荐。
   
-
-
-
-
 
 ---
 

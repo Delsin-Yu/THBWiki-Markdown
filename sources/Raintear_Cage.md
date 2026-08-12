@@ -1,41 +1,32 @@
 # Raintear_Cage
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\1\14\ns0%3ARaintear_Cage.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\1\14\ns0%3ARaintear_Cage.html -->
 
 由 水月 创作的东方风自作曲，原名 レインティアケージ
 
 本页是关于东方Project  
- **东方风自作曲** 的词条
-
+**东方风自作曲**的词条
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 出现作品](#出现作品)
 - [3 音乐文件](#音乐文件)
 - [4 说明文本](#说明文本)
-
   - [4.1 东方魔宝城](#东方魔宝城)
 
 
-
 - [5 其他资料](#其他资料)
-
   - [5.1 乐理资讯](#乐理资讯)
   - [5.2 分析考据](#分析考据)
 
 
 
 
-
-
-
-
 ## 基本信息
 
-<table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">レインティアケージ</td></tr><tr><td><b>译名</b></td><td>Raintear Cage</td></tr><tr><td><b>作曲</b></td><td><a href="/index.php?title=%E6%B0%B4%E6%9C%88&amp;action=edit&amp;redlink=1" class="new" title="水月（页面不存在）">水月</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
+<table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">レインティアケージ</td></tr><tr><td><b>译名</b></td><td>Raintear Cage</td></tr><tr><td><b>作曲</b></td><td><a class="new" title="水月（页面不存在）">水月</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 Raintear Cage（曲目） - 由 水月 创作的东方风自作曲，原名 レインティアケージ
-
 ## 出现作品
 
 <table>
@@ -44,13 +35,13 @@ Raintear Cage（曲目） - 由 水月 创作的东方风自作曲，原名 レ�
 </tbody></table>
 
 
-
 ## 音乐文件
 
 ## 说明文本
 
 ### 东方魔宝城
-- Music Room (未找到链接)
+
+- [Music Room](./東方魔宝城_～_Book_of_Star_Mythology.-音乐.md#3面boss-_谢莉亚·莱拉克主题曲)
 
   
 谢莉亚·莱拉克的主题曲。  
@@ -62,15 +53,11 @@ Raintear Cage（曲目） - 由 水月 创作的东方风自作曲，原名 レ�
 一边想着那种闪烁的感觉一边把曲子作了出来。
   
 
-
 ## 其他资料
 
 ### 乐理资讯
 
 ### 分析考据
-
-
-
 
 ---
 

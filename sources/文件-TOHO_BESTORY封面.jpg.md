@@ -1,6 +1,6 @@
 # 文件:TOHO_BESTORY封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f6\ns6%3ATOHO_BESTORY%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f6\ns6%3ATOHO_BESTORY%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 LUCIOLE*CAFE | 专辑封面 | 封面图片
 
@@ -8,11 +8,13 @@ LUCIOLE*CAFE | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [TOHO BESTORY](./TOHO_BESTORY.md)  
-该封面包含的角色：- [红美铃](./红美铃.md)- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)- [蕾蒂·霍瓦特洛克](./蕾蒂·霍瓦特洛克.md)- [上白泽慧音](./上白泽慧音.md)- [藤原妹红](./藤原妹红.md)- [圣白莲](./圣白莲.md)
-
-
-
+- [TOHO BESTORY](./TOHO_BESTORY.md)该封面包含的角色：
+- [红美铃](./红美铃.md)
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [蕾蒂·霍瓦特洛克](./蕾蒂·霍瓦特洛克.md)
+- [上白泽慧音](./上白泽慧音.md)
+- [藤原妹红](./藤原妹红.md)
+- [圣白莲](./圣白莲.md)
 
 
 ---

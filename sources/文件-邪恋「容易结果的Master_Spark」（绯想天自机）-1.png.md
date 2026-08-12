@@ -1,12 +1,8 @@
 # 文件:邪恋「容易结果的Master_Spark」（绯想天自机）-1.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\78\ns6%3A%E9%82%AA%E6%81%8B%E3%80%8C%E5%AE%B9%E6%98%93%E7%BB%93%E6%9E%9C%E7%9A%84Master_Spark%E3%80%8D%EF%BC%88%E7%BB%AF%E6%83%B3%E5%A4%A9%E8%87%AA%E6%9C%BA%EF%BC%89-1%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\78\ns6%3A%E9%82%AA%E6%81%8B%E3%80%8C%E5%AE%B9%E6%98%93%E7%BB%93%E6%9E%9C%E7%9A%84Master_Spark%E3%80%8D%EF%BC%88%E7%BB%AF%E6%83%B3%E5%A4%A9%E8%87%AA%E6%9C%BA%EF%BC%89-1%2Epng.html -->
 
 东方绯想天 | 自机符卡 | 雾雨魔理沙
-
-
-
-
 
 
 ---

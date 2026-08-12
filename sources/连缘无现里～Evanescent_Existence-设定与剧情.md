@@ -1,6 +1,6 @@
 # 连缘无现里～Evanescent_Existence/设定与剧情
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\04\ns0%3A%E8%BF%9E%E7%BC%98%E6%97%A0%E7%8E%B0%E9%87%8C%EF%BD%9EEvanescent_Existence%2F%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\04\ns0%3A%E8%BF%9E%E7%BC%98%E6%97%A0%E7%8E%B0%E9%87%8C%EF%BD%9EEvanescent_Existence%2F%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85.html -->
 
 トリック・ノスタルジー
 
@@ -13,10 +13,8 @@
 - [4 词条导航](#词条导航)
 
 
-
-
-
 ## 附带文档
+
 - [readme](./连缘无现里～Evanescent_Existence-设定与剧情-readme.md)
 - [FAQ](./连缘无现里～Evanescent_Existence-设定与剧情-FAQ.md)
 - [omake](./连缘无现里～Evanescent_Existence-设定与剧情-omake.md)
@@ -24,28 +22,18 @@
 
 
 ## 故事背景
+
 - [序章](./连缘无现里～Evanescent_Existence-设定与剧情-序章.md)
 
 
 ## 游戏对话
+
 - [凤联薮雨 游戏对话/结局](./游戏对话-连缘无现里～Evanescent_Existence-凤联薮雨.md)
 - [燕乐玄鸟 游戏对话/结局](./游戏对话-连缘无现里～Evanescent_Existence-燕乐玄鸟.md)
 - [国主雀巳 游戏对话/结局](./游戏对话-连缘无现里～Evanescent_Existence-国主雀巳.md)
 - [凤联薮雨 Ex游戏对话](./游戏对话-连缘无现里～Evanescent_Existence-凤联薮雨_ExStory.md)
 - [燕乐玄鸟 Ex游戏对话](./游戏对话-连缘无现里～Evanescent_Existence-燕乐玄鸟_ExStory.md)
 - [国主雀巳 Ex游戏对话](./游戏对话-连缘无现里～Evanescent_Existence-国主雀巳_ExStory.md)
-
-
-## 词条导航
-  
-  
-
-<table><tbody><tr><td><table cellspacing="0" class="nowraplinks mw-collapsible mw-collapsed" style="width:100%;;;"><tbody><tr><th style=";" colspan="3" class="navbox-title"><div class="navbar"><div class="noprint plainlinksneverexpand" style="background-color:transparent; padding:0; font-weight:normal; font-size:80%; white-space:nowrap;"><a href="./模板-连缘无现里导航.md" title="模板:连缘无现里导航"><span style=";;border:none;" title="查看这个模板">查</span></a>&#160;<span style="font-size:80%;">•</span>&#160;<a href="/index.php?title=%E6%A8%A1%E6%9D%BF:%E8%BF%9E%E7%BC%98%E6%97%A0%E7%8E%B0%E9%87%8C%E5%AF%BC%E8%88%AA&amp;action=edit"><span style=";;border:none;" title="您可以编辑这个模板。请在储存变更之前先预览">编</span></a></div></div><span><a href="./连缘无现里～Evanescent_Existence.md" title="连缘无现里～Evanescent Existence">连缘无现里～Evanescent Existence</a></span></th></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="./连缘无现里～Evanescent_Existence-角色设定.md" title="连缘无现里～Evanescent Existence/角色设定">角色</a></td><td style=";;" class="navbox-list navbox-odd"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>自机</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./凤联薮雨.md" title="凤联薮雨">凤联薮雨</a> &#8226; <a href="./燕乐玄鸟.md" title="燕乐玄鸟">燕乐玄鸟</a> &#8226; <a href="./国主雀巳.md" title="国主雀巳">国主雀巳</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>BOSS</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./乌蛇.md" title="乌蛇">乌蛇</a> &#8226; <a href="./鹀蒿雀.md" title="鹀蒿雀">鹀蒿雀</a> &#8226; <a href="./凤联薮雨.md" title="凤联薮雨">凤联薮雨</a> &#8226; <a href="./燕乐玄鸟.md" title="燕乐玄鸟">燕乐玄鸟</a> &#8226; <a href="./鹀颊赤.md" title="鹀颊赤">鹀颊赤</a> &#8226; <a href="./鹀黑巫鸟.md" title="鹀黑巫鸟">鹀黑巫鸟</a> &#8226; <a href="./（前略）克劳斯（后略）.md" title="（前略）克劳斯（后略）">（前略）克劳斯（后略）</a> &#8226; <a href="./阐里鹤喰.md" title="阐里鹤喰">阐里鹤喰</a></div></td></tr></tbody></table><div></div></td><td class="navbox-image" style="" rowspan="11"><a href="./文件-连缘无现里～Evanescent_Existence封面.jpg.md" class="image"><img alt="连缘无现里～Evanescent Existence封面.jpg" src="https://upload.thwiki.cc/thumb/f/fd/%E8%BF%9E%E7%BC%98%E6%97%A0%E7%8E%B0%E9%87%8C%EF%BD%9EEvanescent_Existence%E5%B0%81%E9%9D%A2.jpg/160px-%E8%BF%9E%E7%BC%98%E6%97%A0%E7%8E%B0%E9%87%8C%EF%BD%9EEvanescent_Existence%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="160" height="120" srcset="https://upload.thwiki.cc/thumb/f/fd/%E8%BF%9E%E7%BC%98%E6%97%A0%E7%8E%B0%E9%87%8C%EF%BD%9EEvanescent_Existence%E5%B0%81%E9%9D%A2.jpg/240px-%E8%BF%9E%E7%BC%98%E6%97%A0%E7%8E%B0%E9%87%8C%EF%BD%9EEvanescent_Existence%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/f/fd/%E8%BF%9E%E7%BC%98%E6%97%A0%E7%8E%B0%E9%87%8C%EF%BD%9EEvanescent_Existence%E5%B0%81%E9%9D%A2.jpg/320px-%E8%BF%9E%E7%BC%98%E6%97%A0%E7%8E%B0%E9%87%8C%EF%BD%9EEvanescent_Existence%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="640" data-file-height="480"></a></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a class="mw-selflink selflink">剧情</a></td><td style=";;" class="navbox-list navbox-even"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>剧情文本</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./连缘无现里～Evanescent_Existence-设定与剧情-序章.md" title="连缘无现里～Evanescent Existence/设定与剧情/序章">故事背景</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>游戏对话&amp;结局</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./游戏对话-连缘无现里～Evanescent_Existence-凤联薮雨.md" title="游戏对话:连缘无现里～Evanescent Existence/凤联薮雨" unred="">凤联薮雨</a> &#8226; <a href="./游戏对话-连缘无现里～Evanescent_Existence-燕乐玄鸟.md" title="游戏对话:连缘无现里～Evanescent Existence/燕乐玄鸟" unred="">燕乐玄鸟</a> &#8226; <a href="./游戏对话-连缘无现里～Evanescent_Existence-国主雀巳.md" title="游戏对话:连缘无现里～Evanescent Existence/国主雀巳" unred="">国主雀巳</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>Ex游戏对话</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./游戏对话-连缘无现里～Evanescent_Existence-凤联薮雨_ExStory.md" title="游戏对话:连缘无现里～Evanescent Existence/凤联薮雨 ExStory" unred="">凤联薮雨Ex</a> &#8226; <a href="./游戏对话-连缘无现里～Evanescent_Existence-燕乐玄鸟_ExStory.md" title="游戏对话:连缘无现里～Evanescent Existence/燕乐玄鸟 ExStory" unred="">燕乐玄鸟Ex</a> &#8226; <a href="./游戏对话-连缘无现里～Evanescent_Existence-国主雀巳_ExStory.md" title="游戏对话:连缘无现里～Evanescent Existence/国主雀巳 ExStory" unred="">国主雀巳Ex</a></div></td></tr></tbody></table><div></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">场景</td><td style=";;" class="navbox-list navbox-odd"><div><a href="/index.php?title=%E6%AC%A1%E5%85%83%E6%B4%9E%E7%AA%9F&amp;action=edit&amp;redlink=1" class="new" title="次元洞窟（页面不存在）">次元洞窟</a> &#8226; <a href="./无现里.md" title="无现里">无现里</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">音乐</td><td style=";;" class="navbox-list navbox-even"><div><a href="./连缘无现里～Evanescent_Existence-Music.md" title="连缘无现里～Evanescent Existence/Music">Music Room</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="/%E8%BF%9E%E7%BC%98%E6%97%A0%E7%8E%B0%E9%87%8C%EF%BD%9EEvanescent_Existence/%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85#附带文档" title="连缘无现里～Evanescent Existence/设定与剧情">附带文档</a></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./连缘无现里～Evanescent_Existence-设定与剧情-readme.md" title="连缘无现里～Evanescent Existence/设定与剧情/readme">Readme</a> &#8226; <a href="./连缘无现里～Evanescent_Existence-设定与剧情-FAQ.md" title="连缘无现里～Evanescent Existence/设定与剧情/FAQ">FAQ</a> &#8226; <a href="./连缘无现里～Evanescent_Existence-设定与剧情-omake.md" title="连缘无现里～Evanescent Existence/设定与剧情/omake">Omake</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">系统</td><td style=";;" class="navbox-list navbox-even"><div><a href="./连缘无现里～Evanescent_Existence-游戏系统.md" title="连缘无现里～Evanescent Existence/游戏系统">游戏系统</a></div></td></tr></tbody></table></td></tr></tbody></table>
-
-
-
-
-
 
 
 ---

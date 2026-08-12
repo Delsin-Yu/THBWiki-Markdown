@@ -1,6 +1,6 @@
 # 文件:Rock_Pop_Star封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0f\ns6%3ARock_Pop_Star%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0f\ns6%3ARock_Pop_Star%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ALMA | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ ALMA | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Rock Pop Star](./Rock_Pop_Star.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [Rock Pop Star](./Rock_Pop_Star.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:紅（AcAs!）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b4\ns6%3A%E7%B4%85%EF%BC%88AcAs%21%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b4\ns6%3A%E7%B4%85%EF%BC%88AcAs%21%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 AcAs! | J鍵 | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ AcAs! | J鍵 | 专辑封面 | 封面图片
   
 
 - [紅（AcAs!）](./紅（AcAs!）.md)
-
-
-
 
 
 ---

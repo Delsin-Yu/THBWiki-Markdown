@@ -1,6 +1,6 @@
 # 文件:Can't_Say...封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\41\ns6%3ACan%27t_Say%2E%2E%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\41\ns6%3ACan%27t_Say%2E%2E%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 豊島怪童
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Can't Say...](./Can't_Say....md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)
-
-
-
+- [Can't Say...](./Can't_Say....md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
 
 
 ---

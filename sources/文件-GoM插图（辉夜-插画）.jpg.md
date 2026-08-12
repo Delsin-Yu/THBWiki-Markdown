@@ -1,12 +1,8 @@
 # 文件:GoM插图（辉夜-插画）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ca\ns6%3AGoM%E6%8F%92%E5%9B%BE%EF%BC%88%E8%BE%89%E5%A4%9C-%E6%8F%92%E7%94%BB%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ca\ns6%3AGoM%E6%8F%92%E5%9B%BE%EF%BC%88%E8%BE%89%E5%A4%9C-%E6%8F%92%E7%94%BB%EF%BC%89%2Ejpg.html -->
 
 蓬莱山辉夜 | 魔理沙的魔法书
-
-
-
-
 
 
 ---

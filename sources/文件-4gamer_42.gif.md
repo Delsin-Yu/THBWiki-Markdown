@@ -1,12 +1,8 @@
 # 文件:4gamer_42.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fa\ns6%3A4gamer_42%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fa\ns6%3A4gamer_42%2Egif.html -->
 
 东方文花帖（书籍） | 采访
-
-
-
-
 
 
 ---

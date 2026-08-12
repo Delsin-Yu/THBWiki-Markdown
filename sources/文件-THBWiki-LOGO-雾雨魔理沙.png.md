@@ -1,12 +1,8 @@
 # 文件:THBWiki-LOGO-雾雨魔理沙.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\eb\ns6%3ATHBWiki-LOGO-%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\eb\ns6%3ATHBWiki-LOGO-%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%2Epng.html -->
 
 THBWiki | Wiki词条分类用图
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:祈風EP1遊戲設定資料集封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d4\ns6%3A%E7%A5%88%E9%A2%A8EP1%E9%81%8A%E6%88%B2%E8%A8%AD%E5%AE%9A%E8%B3%87%E6%96%99%E9%9B%86%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d4\ns6%3A%E7%A5%88%E9%A2%A8EP1%E9%81%8A%E6%88%B2%E8%A8%AD%E5%AE%9A%E8%B3%87%E6%96%99%E9%9B%86%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Twilight~日月之境~ | 同人志封面 | 封面图片
 
@@ -8,11 +8,8 @@ Twilight~日月之境~ | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [祈風EP1遊戲設定資料集](./祈風EP1遊戲設定資料集.md)  
-该封面包含的角色：- [东风谷早苗](./东风谷早苗.md)
-
-
-
+- [祈風EP1遊戲設定資料集](./祈風EP1遊戲設定資料集.md)该封面包含的角色：
+- [东风谷早苗](./东风谷早苗.md)
 
 
 ---

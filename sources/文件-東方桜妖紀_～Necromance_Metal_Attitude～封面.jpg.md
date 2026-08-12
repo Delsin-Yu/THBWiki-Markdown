@@ -1,6 +1,6 @@
 # 文件:東方桜妖紀_～Necromance_Metal_Attitude～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7a\ns6%3A%E6%9D%B1%E6%96%B9%E6%A1%9C%E5%A6%96%E7%B4%80_%EF%BD%9ENecromance_Metal_Attitude%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7a\ns6%3A%E6%9D%B1%E6%96%B9%E6%A1%9C%E5%A6%96%E7%B4%80_%EF%BD%9ENecromance_Metal_Attitude%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 まぐなむお～ぱす | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方桜妖紀 ～Necromance Metal Attitude～](./東方桜妖紀_～Necromance_Metal_Attitude～.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [東方桜妖紀 ～Necromance Metal Attitude～](./東方桜妖紀_～Necromance_Metal_Attitude～.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

@@ -1,16 +1,12 @@
 # 分类:Manual
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\d\d6\ns14%3AManual.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\d\d6\ns14%3AManual.html -->
 
 附带文档
 
   
 [官方游戏](./官方游戏.md)附带的Manual文档。
   
-
-
-
-
 
 ---
 

@@ -1,14 +1,11 @@
 # 文件:红魔「Scarlet_Devil」（绯想天符录）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\04\ns6%3A%E7%BA%A2%E9%AD%94%E3%80%8CScarlet_Devil%E3%80%8D%EF%BC%88%E7%BB%AF%E6%83%B3%E5%A4%A9%E7%AC%A6%E5%BD%95%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\04\ns6%3A%E7%BA%A2%E9%AD%94%E3%80%8CScarlet_Devil%E3%80%8D%EF%BC%88%E7%BB%AF%E6%83%B3%E5%A4%A9%E7%AC%A6%E5%BD%95%EF%BC%89%2Ejpg.html -->
 
 绯想天符录 | 蕾米莉亚·斯卡蕾特
 
 
 ## 摘要
-
-
-
 
 ---
 

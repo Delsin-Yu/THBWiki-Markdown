@@ -1,6 +1,6 @@
 # 文件:bloom（anagram）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\07\ns6%3Abloom%EF%BC%88anagram%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\07\ns6%3Abloom%EF%BC%88anagram%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 anagram | 专辑封面 | 封面图片
 
@@ -8,16 +8,13 @@ anagram | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [bloom（anagram）](./bloom（anagram）.md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)- [西行寺幽幽子](./西行寺幽幽子.md)- [八云紫](./八云紫.md)
+- [bloom（anagram）](./bloom（anagram）.md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
+- [西行寺幽幽子](./西行寺幽幽子.md)
+- [八云紫](./八云紫.md)
 
   
-源地址：[[1]](http://anagram.ehoh.net/img/works/bloom.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://anagram.ehoh.net/img/works/bloom.jpg)  
 
 ---
 

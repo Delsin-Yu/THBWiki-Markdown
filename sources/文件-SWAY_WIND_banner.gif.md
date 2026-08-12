@@ -1,14 +1,11 @@
 # 文件:SWAY_WIND_banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a5\ns6%3ASWAY_WIND_banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a5\ns6%3ASWAY_WIND_banner%2Egif.html -->
 
 SWAY_WIND | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

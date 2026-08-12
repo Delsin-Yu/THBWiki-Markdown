@@ -1,6 +1,6 @@
 # 文件:IOSYS_TOHO_MEGAMIX_-_GENSOKYO_HOUSE_EDITION_-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\11\ns6%3AIOSYS_TOHO_MEGAMIX_-_GENSOKYO_HOUSE_EDITION_-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\11\ns6%3AIOSYS_TOHO_MEGAMIX_-_GENSOKYO_HOUSE_EDITION_-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 IOSYS | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ IOSYS | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [IOSYS TOHO MEGAMIX - GENSOKYO HOUSE EDITION -](./IOSYS_TOHO_MEGAMIX_-_GENSOKYO_HOUSE_EDITION_-.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)
+- [IOSYS TOHO MEGAMIX - GENSOKYO HOUSE EDITION -](./IOSYS_TOHO_MEGAMIX_-_GENSOKYO_HOUSE_EDITION_-.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
 
   
-源地址：[[1]](http://www.iosysos.com/cd/tohomegamix/images/pic01.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://www.iosysos.com/cd/tohomegamix/images/pic01.jpg)  
 
 ---
 

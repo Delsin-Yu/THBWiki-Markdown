@@ -1,6 +1,6 @@
 # 文件:蓬莱樂描館_Pseudophilia封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6d\ns6%3A%E8%93%AC%E8%8E%B1%E6%A8%82%E6%8F%8F%E9%A4%A8_Pseudophilia%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6d\ns6%3A%E8%93%AC%E8%8E%B1%E6%A8%82%E6%8F%8F%E9%A4%A8_Pseudophilia%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ぼうしやヘンリィ | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [蓬莱樂描館 Pseudophilia](./蓬莱樂描館_Pseudophilia.md)  
-该封面包含的角色：- 蓬莱人形#封面角色 (未找到链接)
+- [蓬莱樂描館 Pseudophilia](./蓬莱樂描館_Pseudophilia.md)该封面包含的角色：
+- [蓬莱人形#封面角色](./蓬莱人形.md#封面角色)
 
   
-源地址：[direct image link (original size)](https://pbs.twimg.com/media/GR322ATbkAACOoI?format=jpg&amp;name=orig), [source tweet](https://twitter.com/HyJkl_907/status/1809875157001048376)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://pbs.twimg.com/media/GR322ATbkAACOoI?format=jpg&name=orig), [source tweet](https://twitter.com/HyJkl_907/status/1809875157001048376)  
 
 ---
 

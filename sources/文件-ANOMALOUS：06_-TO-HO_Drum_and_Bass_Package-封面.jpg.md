@@ -1,6 +1,6 @@
 # 文件:ANOMALOUS：06_-TO-HO_Drum_and_Bass_Package-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5e\ns6%3AANOMALOUS%EF%BC%9A06_-TO-HO_Drum_and_Bass_Package-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5e\ns6%3AANOMALOUS%EF%BC%9A06_-TO-HO_Drum_and_Bass_Package-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 dat_file_records | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ dat_file_records | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [ANOMALOUS：06 -TO-HO Drum and Bass Package-](./ANOMALOUS：06_-TO-HO_Drum_and_Bass_Package-.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [ANOMALOUS：06 -TO-HO Drum and Bass Package-](./ANOMALOUS：06_-TO-HO_Drum_and_Bass_Package-.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

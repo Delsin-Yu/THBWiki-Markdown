@@ -1,6 +1,6 @@
 # 文件:THE_CAUTION封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9e\ns6%3ATHE_CAUTION%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9e\ns6%3ATHE_CAUTION%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 天狗ノ舞 | 封面图片
 
@@ -8,11 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [THE CAUTION](./THE_CAUTION.md)  
-该封面包含的角色：- [莉莉卡·普莉兹姆利巴](./莉莉卡·普莉兹姆利巴.md)- [西行寺幽幽子](./西行寺幽幽子.md)- [古明地恋](./古明地恋.md)- [圣白莲](./圣白莲.md)
-
-
-
+- [THE CAUTION](./THE_CAUTION.md)该封面包含的角色：
+- [莉莉卡·普莉兹姆利巴](./莉莉卡·普莉兹姆利巴.md)
+- [西行寺幽幽子](./西行寺幽幽子.md)
+- [古明地恋](./古明地恋.md)
+- [圣白莲](./圣白莲.md)
 
 
 ---

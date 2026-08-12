@@ -1,16 +1,12 @@
 # 文件:ssg_15.mid
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\87\ns6%3Assg_15%2Emid.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\87\ns6%3Assg_15%2Emid.html -->
 
 东方幻想的音乐 | 官方MIDI | 少女神性_～_Pandora's_Box | 秋霜玉
 
   
 少女神性　～Pandora's_Box 秋霜玉6面Boss，VIVIT第3阶段的主题曲。 东方的幻想音乐版，与原秋霜玉版本有出入！
   
-
-
-
-
 
 ---
 

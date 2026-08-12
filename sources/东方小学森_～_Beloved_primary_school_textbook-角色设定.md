@@ -1,22 +1,15 @@
 # 东方小学森_～_Beloved_primary_school_textbook/角色设定
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\07\ns0%3A%E4%B8%9C%E6%96%B9%E5%B0%8F%E5%AD%A6%E6%A3%AE_%EF%BD%9E_Beloved_primary_school_textbook%2F%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\07\ns0%3A%E4%B8%9C%E6%96%B9%E5%B0%8F%E5%AD%A6%E6%A3%AE_%EF%BD%9E_Beloved_primary_school_textbook%2F%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A.html -->
 
 尹棱DANE
 
   
-[普通模式](./东方小学森_～_Beloved_primary_school_textbook-角色设定-普通模式角色设定.md)
+[普通模式](./东方小学森_～_Beloved_primary_school_textbook-角色设定-普通模式角色设定.md)  
   
+[EX模式](./东方小学森_～_Beloved_primary_school_textbook-角色设定-EX模式角色设定.md)  
   
-[EX模式](./东方小学森_～_Beloved_primary_school_textbook-角色设定-EX模式角色设定.md)
-  
-  
-[里世界模式](./东方小学森_～_Beloved_primary_school_textbook-角色设定-里世界模式角色设定.md)
-  
-
-
-
-
+[里世界模式](./东方小学森_～_Beloved_primary_school_textbook-角色设定-里世界模式角色设定.md)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:天狗Working封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a9\ns6%3A%E5%A4%A9%E7%8B%97Working%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a9\ns6%3A%E5%A4%A9%E7%8B%97Working%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 油脂の木
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [天狗Working](./天狗Working.md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)
-
-
-
+- [天狗Working](./天狗Working.md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
 
 
 ---

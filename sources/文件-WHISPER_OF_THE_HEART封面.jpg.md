@@ -1,6 +1,6 @@
 # 文件:WHISPER_OF_THE_HEART封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c1\ns6%3AWHISPER_OF_THE_HEART%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c1\ns6%3AWHISPER_OF_THE_HEART%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 unlockerfield | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ unlockerfield | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [WHISPER OF THE HEART](./WHISPER_OF_THE_HEART.md)  
-该封面包含的角色：- [娜兹玲](./娜兹玲.md)
-
-
-
+- [WHISPER OF THE HEART](./WHISPER_OF_THE_HEART.md)该封面包含的角色：
+- [娜兹玲](./娜兹玲.md)
 
 
 ---

@@ -1,10 +1,11 @@
 # 东方文花帖DS/角色立绘
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\29\ns0%3A%E4%B8%9C%E6%96%B9%E6%96%87%E8%8A%B1%E5%B8%96DS%2F%E8%A7%92%E8%89%B2%E7%AB%8B%E7%BB%98.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\29\ns0%3A%E4%B8%9C%E6%96%B9%E6%96%87%E8%8A%B1%E5%B8%96DS%2F%E8%A7%92%E8%89%B2%E7%AB%8B%E7%BB%98.html -->
 
 ZUN绘 | 东方文花帖DS | 官方游戏立绘
 
--  **本词条内容为官方游戏TH12.5[东方文花帖DS](./东方文花帖DS.md)的所有角色立绘** 
+
+- **本词条内容为官方游戏TH12.5[东方文花帖DS](./东方文花帖DS.md)的所有角色立绘**
 
 
 <table>
@@ -56,10 +57,6 @@ ZUN绘 | 东方文花帖DS | 官方游戏立绘
     <td><a href="./文件-姬海棠果（文花帖DS立绘）pl06.png.md" class="image"><img alt="姬海棠果（文花帖DS立绘）pl06.png" src="https://upload.thwiki.cc/thumb/2/23/%E5%A7%AC%E6%B5%B7%E6%A3%A0%E6%9E%9C%EF%BC%88%E6%96%87%E8%8A%B1%E5%B8%96DS%E7%AB%8B%E7%BB%98%EF%BC%89pl06.png/100px-%E5%A7%AC%E6%B5%B7%E6%A3%A0%E6%9E%9C%EF%BC%88%E6%96%87%E8%8A%B1%E5%B8%96DS%E7%AB%8B%E7%BB%98%EF%BC%89pl06.png" decoding="async" loading="lazy" width="100" height="249" srcset="https://upload.thwiki.cc/thumb/2/23/%E5%A7%AC%E6%B5%B7%E6%A3%A0%E6%9E%9C%EF%BC%88%E6%96%87%E8%8A%B1%E5%B8%96DS%E7%AB%8B%E7%BB%98%EF%BC%89pl06.png/150px-%E5%A7%AC%E6%B5%B7%E6%A3%A0%E6%9E%9C%EF%BC%88%E6%96%87%E8%8A%B1%E5%B8%96DS%E7%AB%8B%E7%BB%98%EF%BC%89pl06.png 1.5x, https://upload.thwiki.cc/thumb/2/23/%E5%A7%AC%E6%B5%B7%E6%A3%A0%E6%9E%9C%EF%BC%88%E6%96%87%E8%8A%B1%E5%B8%96DS%E7%AB%8B%E7%BB%98%EF%BC%89pl06.png/200px-%E5%A7%AC%E6%B5%B7%E6%A3%A0%E6%9E%9C%EF%BC%88%E6%96%87%E8%8A%B1%E5%B8%96DS%E7%AB%8B%E7%BB%98%EF%BC%89pl06.png 2x" data-file-width="224" data-file-height="557"></a></td>
     <td><a href="./文件-姬海棠果（文花帖DS立绘）pl07.png.md" class="image"><img alt="姬海棠果（文花帖DS立绘）pl07.png" src="https://upload.thwiki.cc/thumb/b/bb/%E5%A7%AC%E6%B5%B7%E6%A3%A0%E6%9E%9C%EF%BC%88%E6%96%87%E8%8A%B1%E5%B8%96DS%E7%AB%8B%E7%BB%98%EF%BC%89pl07.png/100px-%E5%A7%AC%E6%B5%B7%E6%A3%A0%E6%9E%9C%EF%BC%88%E6%96%87%E8%8A%B1%E5%B8%96DS%E7%AB%8B%E7%BB%98%EF%BC%89pl07.png" decoding="async" loading="lazy" width="100" height="249" srcset="https://upload.thwiki.cc/thumb/b/bb/%E5%A7%AC%E6%B5%B7%E6%A3%A0%E6%9E%9C%EF%BC%88%E6%96%87%E8%8A%B1%E5%B8%96DS%E7%AB%8B%E7%BB%98%EF%BC%89pl07.png/150px-%E5%A7%AC%E6%B5%B7%E6%A3%A0%E6%9E%9C%EF%BC%88%E6%96%87%E8%8A%B1%E5%B8%96DS%E7%AB%8B%E7%BB%98%EF%BC%89pl07.png 1.5x, https://upload.thwiki.cc/thumb/b/bb/%E5%A7%AC%E6%B5%B7%E6%A3%A0%E6%9E%9C%EF%BC%88%E6%96%87%E8%8A%B1%E5%B8%96DS%E7%AB%8B%E7%BB%98%EF%BC%89pl07.png/200px-%E5%A7%AC%E6%B5%B7%E6%A3%A0%E6%9E%9C%EF%BC%88%E6%96%87%E8%8A%B1%E5%B8%96DS%E7%AB%8B%E7%BB%98%EF%BC%89pl07.png 2x" data-file-width="224" data-file-height="557"></a></td>
   </tr></tbody></table>
-
-
-
-
 
 
 ---

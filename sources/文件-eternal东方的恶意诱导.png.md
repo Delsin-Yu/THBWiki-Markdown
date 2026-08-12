@@ -1,12 +1,8 @@
 # 文件:eternal东方的恶意诱导.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\38\ns6%3Aeternal%E4%B8%9C%E6%96%B9%E7%9A%84%E6%81%B6%E6%84%8F%E8%AF%B1%E5%AF%BC%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\38\ns6%3Aeternal%E4%B8%9C%E6%96%B9%E7%9A%84%E6%81%B6%E6%84%8F%E8%AF%B1%E5%AF%BC%2Epng.html -->
 
 东方警察
-
-
-
-
 
 
 ---

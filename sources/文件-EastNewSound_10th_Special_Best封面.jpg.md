@@ -1,6 +1,6 @@
 # 文件:EastNewSound_10th_Special_Best封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ac\ns6%3AEastNewSound_10th_Special_Best%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ac\ns6%3AEastNewSound_10th_Special_Best%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 EastNewSound | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ EastNewSound | 专辑封面 | 封面图片
   
 
 - [EastNewSound 10th Special Best](./EastNewSound_10th_Special_Best.md)
-
-
-
 
 
 ---

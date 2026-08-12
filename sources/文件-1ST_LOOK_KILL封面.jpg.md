@@ -1,6 +1,6 @@
 # 文件:1ST_LOOK_KILL封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\77\ns6%3A1ST_LOOK_KILL%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\77\ns6%3A1ST_LOOK_KILL%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 EXCESS_STANDARD | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ EXCESS_STANDARD | 专辑封面 | 封面图片
   
 
 - [1ST LOOK KILL](./1ST_LOOK_KILL.md)
-
-
-
 
 
 ---

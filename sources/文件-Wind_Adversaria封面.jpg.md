@@ -1,6 +1,6 @@
 # 文件:Wind_Adversaria封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\10\ns6%3AWind_Adversaria%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\10\ns6%3AWind_Adversaria%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Cloister_Notes | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Cloister_Notes | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Wind Adversaria](./Wind_Adversaria.md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)
-
-
-
+- [Wind Adversaria](./Wind_Adversaria.md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
 
 
 ---

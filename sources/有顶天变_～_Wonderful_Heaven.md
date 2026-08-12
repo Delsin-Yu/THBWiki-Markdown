@@ -1,44 +1,32 @@
 # 有顶天变_～_Wonderful_Heaven
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\f5\ns0%3A%E6%9C%89%E9%A1%B6%E5%A4%A9%E5%8F%98_%EF%BD%9E_Wonderful_Heaven.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\f5\ns0%3A%E6%9C%89%E9%A1%B6%E5%A4%A9%E5%8F%98_%EF%BD%9E_Wonderful_Heaven.html -->
 
 由 ZUN 创作的官方曲目，原名 有頂天変　～ Wonderful Heaven
 
 本页是关于东方Project  
- **原作音乐** 的词条
-
+**原作音乐**的词条
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 出现作品](#出现作品)
 - [3 音乐文件](#音乐文件)
-
   - [3.1 全人类的天乐录](#全人类的天乐录)
-
     - [3.1.1 DISC1](#DISC1)
     - [3.1.2 DISC2](#DISC2)
-
 
 
   - [3.2 完全凭依唱片名录](#完全凭依唱片名录)
 
 
-
 - [4 说明文本](#说明文本)
-
   - [4.1 东方绯想天](#东方绯想天)
 
 
-
 - [5 其他资料](#其他资料)
-
   - [5.1 乐理资讯](#乐理资讯)
   - [5.2 分析考据](#分析考据)
   - [5.3 二次同人数据](#二次同人数据)
-
-
-
-
 
 
 
@@ -48,7 +36,6 @@
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">有頂天変　～ Wonderful Heaven</td></tr><tr><td><b>译名</b></td><td>有顶天变 ～ Wonderful Heaven</td></tr><tr><td><b>英文译名</b></td><td>Catastrophe in Bhavaagra ~ Wonderful Heaven</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 有顶天变 ～ Wonderful Heaven（曲目） - 由 ZUN 创作的官方曲目，原名 有頂天変　～ Wonderful Heaven
-
 ## 出现作品
 
 <table>
@@ -60,7 +47,6 @@
 </tbody></table>
 
 
-
 ## 音乐文件
 
 ### 全人类的天乐录
@@ -70,11 +56,9 @@
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-TFM-003O_15.mp3.md" title="文件:TFM-003O 15.mp3">TFM-003O_15.mp3</a><br><audio src="https://upload.thwiki.cc/1/10/TFM-003O_15.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track15.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>4:06</td></tr></tbody></table>
 
 
-
 #### DISC2
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-TFM-003A_16.mp3.md" title="文件:TFM-003A 16.mp3">TFM-003A_16.mp3</a><br><audio src="https://upload.thwiki.cc/3/3f/TFM-003A_16.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track16.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>5:06</td></tr></tbody></table>
-
 
 
 ### 完全凭依唱片名录
@@ -82,11 +66,11 @@
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-TFM-009c_05.mp3.md" title="文件:TFM-009c 05.mp3">TFM-009c_05.mp3</a><br><audio src="https://upload.thwiki.cc/5/56/TFM-009c_05.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track05.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>5:50</td></tr></tbody></table>
 
 
-
 ## 说明文本
 
 ### 东方绯想天
-- 曲评 (未找到链接)
+
+- [曲评](./附带文档-东方绯想天-Omake.md#曲评-3)
 
 　　■有顶天变　～ Wonderful Heaven  
   
@@ -101,43 +85,46 @@
 　　天界的绿洲啊。  
   
 　　嘛但是和这曲子貌似没什么太大关系。
-
 ## 其他资料
 
 ### 乐理资讯
 
 ### 分析考据
   
- **有頂天変　～ Wonderful Heaven**  有顶天变　～ Wonderful Heaven
+**有頂天変 ～ Wonderful Heaven** 有顶天变　～ Wonderful Heaven
   
 
-- 有頂天（うちょうてん）
-  - 非想非非想天的别名。
+- 有頂天（うちょうてん） 
+  - 非想非非想天的别名。 
     - 最后一关的场景[有顶天](./有顶天.md)。
     - 在日语中有意气洋洋、气势高涨之意，对应[比那名居天子](./比那名居天子.md)的性格。
 
 
-- 天変（てんぺん）
-  - 天候剧变、大灾变，联系四字熟语「天変地異」。
+
+
+- 天変（てんぺん） 
+  - 天候剧变、大灾变，联系四字熟语「天変地異」。 
     - [绯想天](./东方绯想天.md)的故事中，出现了波及幻想乡全境的天气异变，同时也出现大地震的灾难预兆。
 
 
-- 有頂天変
-  - 可能意指来自[有顶天](./有顶天.md)的灾变，即[比那名居天子](./比那名居天子.md)？
+
+
+- 有頂天変 
+  - 可能意指来自[有顶天](./有顶天.md)的灾变，即[比那名居天子](./比那名居天子.md)？ 
     - 设定中[比那名居天子](./比那名居天子.md)厌烦了[天界](./有顶天.md)的生活，便降临[幻想乡](./幻想乡.md)引发异变。
 
 
 
-```
-然后有一天，幻想乡的妖怪们以自己的力量引发了异变，
-在幻想乡境内引发骚动并以此为乐。天子看在眼里，不禁沉思。
 
-「我，对无聊的天人生活已经忍无可忍了！
-就凭我的话，也是可以引发个异变的」
-```
 
-- Heaven
+
+```
+然后有一天，幻想乡的妖怪们以自己的力量引发了异变， 在幻想乡境内引发骚动并以此为乐。天子看在眼里，不禁沉思。 「我，对无聊的天人生活已经忍无可忍了！ 就凭我的话，也是可以引发个异变的」 ```
+
+
+- Heaven 
   - 上天、[天界](./有顶天.md)、[有顶天](./有顶天.md)。
+
 
 
 
@@ -153,17 +140,6 @@
 <tr><td>Arrange</td><td>439</td></tr>
 <tr><td>Vocal率</td><td>38.86%</td></tr>
 </tbody></table>
-
-
-
-
-  
-  
-
-  
-
-
-
 
 
 ---

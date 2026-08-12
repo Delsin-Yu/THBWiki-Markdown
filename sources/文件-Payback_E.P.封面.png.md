@@ -1,6 +1,6 @@
 # 文件:Payback_E.P.封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\db\ns6%3APayback_E%2EP%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\db\ns6%3APayback_E%2EP%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Sound_Square | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Sound_Square | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Payback E.P.](./Payback_E.P..md)  
-该封面包含的角色：- [水桥帕露西](./水桥帕露西.md)
+- [Payback E.P.](./Payback_E.P..md)该封面包含的角色：
+- [水桥帕露西](./水桥帕露西.md)
 
   
-源地址：[[1]](http://reihouin.main.jp/sosq/wp-content/uploads/2015/05/Payback_jacket2.png)
-  
-
-
-
-
+源地址：[\[1\]](http://reihouin.main.jp/sosq/wp-content/uploads/2015/05/Payback_jacket2.png)  
 
 ---
 

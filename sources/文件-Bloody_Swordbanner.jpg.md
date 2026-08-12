@@ -1,12 +1,8 @@
 # 文件:Bloody_Swordbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ac\ns6%3ABloody_Swordbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ac\ns6%3ABloody_Swordbanner%2Ejpg.html -->
 
 Bloody_Sword | 社团LOGO
-
-
-
-
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:THBWiki-LOGO-姬海棠果.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1b\ns6%3ATHBWiki-LOGO-%E5%A7%AC%E6%B5%B7%E6%A3%A0%E6%9E%9C%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1b\ns6%3ATHBWiki-LOGO-%E5%A7%AC%E6%B5%B7%E6%A3%A0%E6%9E%9C%2Epng.html -->
 
 THBWiki | Wiki词条分类用图
-
-
-
-
 
 
 ---

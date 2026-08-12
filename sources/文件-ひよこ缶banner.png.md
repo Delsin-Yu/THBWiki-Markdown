@@ -1,14 +1,11 @@
 # 文件:ひよこ缶banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9c\ns6%3A%E3%81%B2%E3%82%88%E3%81%93%E7%BC%B6banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9c\ns6%3A%E3%81%B2%E3%82%88%E3%81%93%E7%BC%B6banner%2Epng.html -->
 
 ひよこ缶 | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

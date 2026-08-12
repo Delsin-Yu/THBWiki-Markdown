@@ -1,14 +1,11 @@
 # 文件:SEPIA-SIS_banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\46\ns6%3ASEPIA-SIS_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\46\ns6%3ASEPIA-SIS_banner%2Ejpg.html -->
 
 SEPIA-SIS | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

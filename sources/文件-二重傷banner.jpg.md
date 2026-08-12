@@ -1,14 +1,11 @@
 # 文件:二重傷banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3b\ns6%3A%E4%BA%8C%E9%87%8D%E5%82%B7banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3b\ns6%3A%E4%BA%8C%E9%87%8D%E5%82%B7banner%2Ejpg.html -->
 
 二重傷 | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

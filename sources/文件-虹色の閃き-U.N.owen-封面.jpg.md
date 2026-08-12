@@ -1,6 +1,6 @@
 # 文件:虹色の閃き-U.N.owen-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\be\ns6%3A%E8%99%B9%E8%89%B2%E3%81%AE%E9%96%83%E3%81%8D-U%2EN%2Eowen-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\be\ns6%3A%E8%99%B9%E8%89%B2%E3%81%AE%E9%96%83%E3%81%8D-U%2EN%2Eowen-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Azure&Sands | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ Azure&Sands | 专辑封面 | 封面图片
   
 
 - [虹色の閃き-U.N.owen-](./虹色の閃き-U.N.owen-.md)
-
-
-
 
 
 ---

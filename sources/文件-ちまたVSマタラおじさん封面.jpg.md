@@ -1,6 +1,6 @@
 # 文件:ちまたVSマタラおじさん封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9e\ns6%3A%E3%81%A1%E3%81%BE%E3%81%9FVS%E3%83%9E%E3%82%BF%E3%83%A9%E3%81%8A%E3%81%98%E3%81%95%E3%82%93%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9e\ns6%3A%E3%81%A1%E3%81%BE%E3%81%9FVS%E3%83%9E%E3%82%BF%E3%83%A9%E3%81%8A%E3%81%98%E3%81%95%E3%82%93%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 閑古鳥茶園
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [ちまたVSマタラおじさん](./ちまたVSマタラおじさん.md)  
-该封面包含的角色：- [摩多罗隐岐奈](./摩多罗隐岐奈.md)- [天弓千亦](./天弓千亦.md)
-
-
-
+- [ちまたVSマタラおじさん](./ちまたVSマタラおじさん.md)该封面包含的角色：
+- [摩多罗隐岐奈](./摩多罗隐岐奈.md)
+- [天弓千亦](./天弓千亦.md)
 
 
 ---

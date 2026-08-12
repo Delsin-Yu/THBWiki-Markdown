@@ -1,14 +1,11 @@
 # 文件:さーくるばんばんしーbanner2.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\af\ns6%3A%E3%81%95%E3%83%BC%E3%81%8F%E3%82%8B%E3%81%B0%E3%82%93%E3%81%B0%E3%82%93%E3%81%97%E3%83%BCbanner2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\af\ns6%3A%E3%81%95%E3%83%BC%E3%81%8F%E3%82%8B%E3%81%B0%E3%82%93%E3%81%B0%E3%82%93%E3%81%97%E3%83%BCbanner2%2Ejpg.html -->
 
 さーくるばんばんしー | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

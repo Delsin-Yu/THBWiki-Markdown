@@ -1,32 +1,31 @@
 # 东方文果真报/读物/M因M而死
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\c\cb\ns0%3A%E4%B8%9C%E6%96%B9%E6%96%87%E6%9E%9C%E7%9C%9F%E6%8A%A5%2F%E8%AF%BB%E7%89%A9%2FM%E5%9B%A0M%E8%80%8C%E6%AD%BB.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\c\cb\ns0%3A%E4%B8%9C%E6%96%B9%E6%96%87%E6%9E%9C%E7%9C%9F%E6%8A%A5%2F%E8%AF%BB%E7%89%A9%2FM%E5%9B%A0M%E8%80%8C%E6%AD%BB.html -->
 
 东方文果真报
 
 <center>
-
 <table>
 <tbody><tr>
-<td>&lt;
+<td><
 </td>
-<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./东方文果真报-读物-天狗俗论.md" title="东方文果真报/读物/天狗俗论">天狗俗论</a>&#160;
+<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./东方文果真报-读物-天狗俗论.md" title="东方文果真报/读物/天狗俗论">天狗俗论</a> 
 </td>
-<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="./东方文果真报.md" title="东方文果真报">东方文果真报</a>&#160;
+<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;"> <a href="./东方文果真报.md" title="东方文果真报">东方文果真报</a> 
 </td>
-<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left">&#160;<a href="./东方文果真报-广告-雾雨魔法店.md" title="东方文果真报/广告/雾雨魔法店">雾雨魔法店（广告）</a>
+<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left"> <a href="./东方文果真报-广告-雾雨魔法店.md" title="东方文果真报/广告/雾雨魔法店">雾雨魔法店（广告）</a>
 </td>
-<td>&gt;
+<td>>
 </td></tr></tbody></table>
 
   
 </center>
-- 本词条为中文翻译版，如需要日文对照请参见 **[中日对照](./东方文果真报-读物-M因M而死-中日对照.md)** 
+- 本词条为中文翻译版，如需要日文对照请参见**[中日对照](./东方文果真报-读物-M因M而死-中日对照.md)**
 - 本章节于书中页数：第058-063页
 - 本章节翻译人员：玄鸟
 
 
-<table><tbody><tr align="left" valign="top"><td style="min-width:200px;"><big>魔法侦探茉莉沙系列</big><br><big><big><big><b>M因M而死</b></big></big></big><br><big><b>阿加莎克里斯Q</b><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">1</a></sup> </big><br><small>作品中登场的专有名词和现实中的团体、<br>人物没有任何关系</small>
+<table><tbody><tr align="left" valign="top"><td style="min-width:200px;"><big>魔法侦探茉莉沙系列</big><br><big><big><big><b>M因M而死</b></big></big></big><br><big><b>阿加莎克里斯Q</b><span>[^cite_note-1]</span> </big><br><small>作品中登场的专有名词和现实中的团体、<br>人物没有任何关系</small>
 <p><br>
 </p><p><big><b>第一话 杀人的Fake News</b></big>
 </p><p><br>
@@ -49,7 +48,7 @@
 「从『Flat Nose』那里拿到的」<br>
 </p><p><br>
 </p><p>　Flat Nose（塌鼻子），乃是保护人们不受诌堪志攻击伤害的反天狗秘密组织。<br>
-　而且还是使用和人称天狗最强武器的「以真相和正义之名抹杀他人的能力」相同的力量以牙还牙，编写Alternative Fact<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">2</a></sup>（另一种真相）的组织。<br>
+　而且还是使用和人称天狗最强武器的「以真相和正义之名抹杀他人的能力」相同的力量以牙还牙，编写Alternative Fact<span>[^cite_note-2]</span>（另一种真相）的组织。<br>
 　简单来说，就是发布对抗报道以折断天狗之鼻的组织。<br>
 　我呢，正是一名身兼Flat Nose干部和谍报员两职的魔法侦探茉莉沙。我是分析被害人的信息以曝光诌堪志的Fake News（谎言带来的精神攻击）的，正义的人类。<br>
 </p><p><br>
@@ -87,10 +86,10 @@
 　因为，操纵这些人偶的人偶师也已经停止了呼吸。<br>
 </p><p><br>
 </p><p>「这就是置她于死地的报道呢」<br>
-　魔法图书馆司书兼情报员八里 知子（はちり ともこ）<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">3</a></sup>这么说着，把一页诌堪志的剪报递给了我。<br>
+　魔法图书馆司书兼情报员八里 知子（はちり ともこ）<span>[^cite_note-3]</span>这么说着，把一页诌堪志的剪报递给了我。<br>
 「『利用人偶犯下恶劣盗窃罪行的现场』……啊，完全没法想象亚梨珠会干出这种事。这是Fake News！」<br>
 「当然喽。这绝对是Fake News不会有错。但是，我很在意她被盯上的理由」<br>
-　潜入人偶师祸井户 亚梨珠（まがいど ありす）<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">4</a></sup>和不动的情报员八里一样，都是Flat Nose的一员。<br>
+　潜入人偶师祸井户 亚梨珠（まがいど ありす）<span>[^cite_note-4]</span>和不动的情报员八里一样，都是Flat Nose的一员。<br>
 　她们和我这个魔法侦探加起来的三个人被称为Flat Nose的魔法部队。<br>
 「难道你觉得，她是在身为Flat Nose一员的事情暴露后被盯上的吗？」<br>
 「我还不能下定论。天狗肯定是不知道Flat Nose的成员的。但是这样的可能性很大。尤其是，她还担任了巫女被杀一案的深潜调查员。是不慎暴露后被杀的吗……」<br>
@@ -210,37 +209,26 @@
 </div>
 </div></td></tr></tbody></table>
 
-
-
 [^cite_note-1]:  [稗田阿求](./稗田阿求.md)的笔名
-
+[^cite_note-2]: 2017年1月，美国总统唐纳德·特朗普的就职典礼结束后，白宫发言人Sean Spicer在次日的新闻发布会上称，前来参加本次就职典礼的群众是“the largest audience to ever witness an inauguration, period, both in person and around the globe”（美国总统就职典礼史上最大的观众群体，无论是亲自参与还是线上观看）。但不久后媒体即通过对比2009年贝拉克·侯赛因·奥巴马就职典礼与该次就职典礼的俯瞰图指出Sean Spicer发言的明显失实。后，特朗普的顾问Kellyanne Conway在电视节目中为Sean Spicer辩解时称，她只是“gave *alternative facts* to that”。
+[^cite_note-3]: 八里（Hachiri）: 音近“帕秋莉”，知子: 诺蕾姬直译为知识（knowledge）
+[^cite_note-4]: 音近“玛格伊特 爱丽丝”
 <center>
-
 <table>
 <tbody><tr>
-<td>&lt;
+<td><
 </td>
-<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./东方文果真报-读物-天狗俗论.md" title="东方文果真报/读物/天狗俗论">天狗俗论</a>&#160;
+<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./东方文果真报-读物-天狗俗论.md" title="东方文果真报/读物/天狗俗论">天狗俗论</a> 
 </td>
-<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="./东方文果真报.md" title="东方文果真报">东方文果真报</a>&#160;
+<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;"> <a href="./东方文果真报.md" title="东方文果真报">东方文果真报</a> 
 </td>
-<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left">&#160;<a href="./东方文果真报-广告-雾雨魔法店.md" title="东方文果真报/广告/雾雨魔法店">雾雨魔法店（广告）</a>
+<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left"> <a href="./东方文果真报-广告-雾雨魔法店.md" title="东方文果真报/广告/雾雨魔法店">雾雨魔法店（广告）</a>
 </td>
-<td>&gt;
+<td>>
 </td></tr></tbody></table>
 
   
 </center>
-  
-  
-
-<table><tbody><tr><td><table cellspacing="0" class="nowraplinks mw-collapsible mw-collapsed" style="width:100%;;;"><tbody><tr><th style=";" colspan="3" class="navbox-title"><div class="navbar"><div class="noprint plainlinksneverexpand" style="background-color:transparent; padding:0; font-weight:normal; font-size:80%; white-space:nowrap;"><a href="./模板-东方文果真报导航.md" title="模板:东方文果真报导航"><span style=";;border:none;" title="查看这个模板">查</span></a>&#160;<span style="font-size:80%;">•</span>&#160;<a href="/index.php?title=%E6%A8%A1%E6%9D%BF:%E4%B8%9C%E6%96%B9%E6%96%87%E6%9E%9C%E7%9C%9F%E6%8A%A5%E5%AF%BC%E8%88%AA&amp;action=edit"><span style=";;border:none;" title="您可以编辑这个模板。请在储存变更之前先预览">编</span></a></div></div><span><a href="./东方文果真报.md" title="东方文果真报">东方文果真报</a></span></th></tr><tr><td></td></tr><tr><td class="navbox-abovebelow" style=";" colspan="3"><a href="./东方文果真报-说明.md" title="东方文果真报/说明">说明</a> &#8226; <a href="./东方文果真报-序.md" title="东方文果真报/序">序言</a> &#8226; <a href="./东方文果真报-目录.md" title="东方文果真报/目录">目录</a></td></tr><tr><td></td></tr><tr><td colspan="2" style=";;" class="navbox-list navbox-odd"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>全力特辑</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./东方文果真报-全力特辑-八云紫&博丽灵梦.md" title="东方文果真报/全力特辑/八云紫&amp;博丽灵梦">八云紫&amp;博丽灵梦</a> &#8226; <a href="./东方文果真报-全力特辑-博丽灵梦.md" title="东方文果真报/全力特辑/博丽灵梦">博丽灵梦</a> &#8226; <a href="./东方文果真报-全力特辑-危险事物.md" title="东方文果真报/全力特辑/危险事物">危险事物</a> &#8226; <a href="./东方文果真报-全力特辑-蓬莱药局.md" title="东方文果真报/全力特辑/蓬莱药局">蓬莱药局</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>日趋严重的移民问题！</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./东方文果真报-移民问题-宇佐见堇子.md" title="东方文果真报/移民问题/宇佐见堇子">宇佐见堇子</a> &#8226; <a href="./东方文果真报-移民问题-赫卡提亚·拉碧斯拉祖利&克劳恩皮丝.md" title="东方文果真报/移民问题/赫卡提亚·拉碧斯拉祖利&amp;克劳恩皮丝">赫卡提亚·拉碧斯拉祖利&amp;克劳恩皮丝</a> &#8226; <a href="./东方文果真报-移民问题-赤蛮奇.md" title="东方文果真报/移民问题/赤蛮奇">赤蛮奇</a> &#8226; <a href="./东方文果真报-移民问题-月之团子.md" title="东方文果真报/移民问题/月之团子">月之团子</a> &#8226; <a href="./东方文果真报-移民问题-铃仙·优昙华院·因幡.md" title="东方文果真报/移民问题/铃仙·优昙华院·因幡">铃仙·优昙华院·因幡</a> &#8226; <a href="./东方文果真报-移民问题-丰聪耳神子.md" title="东方文果真报/移民问题/丰聪耳神子">丰聪耳神子</a> &#8226; <a href="./东方文果真报-移民问题-粮食问题.md" title="东方文果真报/移民问题/粮食问题">粮食问题</a> &#8226; <a href="./东方文果真报-移民问题-铃瑚&清兰.md" title="东方文果真报/移民问题/铃瑚&amp;清兰">铃瑚&amp;清兰</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>不实报道的可信性</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./东方文果真报-不实报道-宇佐见堇子.md" title="东方文果真报/不实报道/宇佐见堇子">宇佐见堇子</a> &#8226; <a href="./东方文果真报-不实报道-河童涌水.md" title="东方文果真报/不实报道/河童涌水">河童涌水</a> &#8226; <a href="./东方文果真报-不实报道-万宝槌真品.md" title="东方文果真报/不实报道/万宝槌真品">万宝槌真品</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>事件·纠纷</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./东方文果真报-事件纠纷-森近霖之助.md" title="东方文果真报/事件纠纷/森近霖之助">森近霖之助</a> &#8226; <a href="./东方文果真报-事件纠纷-哆来咪·苏伊特.md" title="东方文果真报/事件纠纷/哆来咪·苏伊特">哆来咪·苏伊特</a> &#8226; <a href="./东方文果真报-事件纠纷-今泉影狼.md" title="东方文果真报/事件纠纷/今泉影狼">今泉影狼</a> &#8226; <a href="./东方文果真报-事件纠纷-索道.md" title="东方文果真报/事件纠纷/索道">索道</a> &#8226; <a href="./东方文果真报-事件纠纷-幽谷响子.md" title="东方文果真报/事件纠纷/幽谷响子">幽谷响子</a> &#8226; <a href="./东方文果真报-事件纠纷-多多良小伞.md" title="东方文果真报/事件纠纷/多多良小伞">多多良小伞</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>竹林头条</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./东方文果真报-竹林头条-稀神探女.md" title="东方文果真报/竹林头条/稀神探女">稀神探女</a> &#8226; <a href="./东方文果真报-竹林头条-八意永琳.md" title="东方文果真报/竹林头条/八意永琳">八意永琳</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>专访</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./东方文果真报-专访-宇佐见堇子.md" title="东方文果真报/专访/宇佐见堇子">宇佐见堇子</a> &#8226; <a href="./东方文果真报-专访-赫卡提亚·拉碧斯拉祖利.md" title="东方文果真报/专访/赫卡提亚·拉碧斯拉祖利">赫卡提亚·拉碧斯拉祖利</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>体育&amp;文艺</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./东方文果真报-体育文艺-普莉兹姆利巴乐团.md" title="东方文果真报/体育文艺/普莉兹姆利巴乐团">普莉兹姆利巴乐团</a> &#8226; <a href="./东方文果真报-体育文艺-少名针妙丸.md" title="东方文果真报/体育文艺/少名针妙丸">少名针妙丸</a> &#8226; <a href="./东方文果真报-体育文艺-九十九姐妹.md" title="东方文果真报/体育文艺/九十九姐妹">九十九姐妹</a> &#8226; <a href="./东方文果真报-体育文艺-文文新闻.md" title="东方文果真报/体育文艺/文文新闻">文文新闻</a> &#8226; <a href="./东方文果真报-体育文艺-普莉兹姆利巴&堀川雷鼓.md" title="东方文果真报/体育文艺/普莉兹姆利巴&amp;堀川雷鼓">普莉兹姆利巴&amp;堀川雷鼓</a> &#8226; <a href="./东方文果真报-体育文艺-堀莉兹姆利巴乐团.md" title="东方文果真报/体育文艺/堀莉兹姆利巴乐团">堀莉兹姆利巴乐团</a> &#8226; <a href="./东方文果真报-体育文艺-少名针妙丸&若鹭姬.md" title="东方文果真报/体育文艺/少名针妙丸&amp;若鹭姬">少名针妙丸&amp;若鹭姬</a> &#8226; <a href="./东方文果真报-体育文艺-秦心.md" title="东方文果真报/体育文艺/秦心">秦心</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>专栏</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./东方文果真报-专栏-比那名居天子.md" title="东方文果真报/专栏/比那名居天子">比那名居天子</a> &#8226; <a href="./东方文果真报-专栏-小野塚小町.md" title="东方文果真报/专栏/小野塚小町">小野塚小町</a> &#8226; <a href="./东方文果真报-专栏-雾雨魔理沙.md" title="东方文果真报/专栏/雾雨魔理沙">雾雨魔理沙</a> &#8226; <a href="./东方文果真报-专栏-名温泉.md" title="东方文果真报/专栏/名温泉">名温泉</a> &#8226; <a href="./东方文果真报-专栏-西行寺幽幽子.md" title="东方文果真报/专栏/西行寺幽幽子">西行寺幽幽子</a> &#8226; <a href="./东方文果真报-专栏-森近霖之助.md" title="东方文果真报/专栏/森近霖之助">森近霖之助</a> &#8226; <a href="./东方文果真报-专栏-秘密店铺.md" title="东方文果真报/专栏/秘密店铺">秘密店铺</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>读物</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./东方文果真报-读物-天狗俗论.md" title="东方文果真报/读物/天狗俗论">天狗俗论</a> &#8226; <a class="mw-selflink selflink">M因M而死</a> &#8226; <a href="./东方文果真报-读物-新人天狗针妙丸.md" title="东方文果真报/读物/新人天狗针妙丸">新人天狗针妙丸</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>封袋</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./东方文果真报-封袋-写真.md" title="东方文果真报/封袋/写真">写真</a> &#8226; <a href="./东方文果真报-封袋-座谈会.md" title="东方文果真报/封袋/座谈会">座谈会</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>广告</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./东方文果真报-广告-魔女的扫把.md" title="东方文果真报/广告/魔女的扫把">魔女的扫把</a> &#8226; <a href="./东方文果真报-广告-Sweet安眠枕.md" title="东方文果真报/广告/Sweet安眠枕">Sweet安眠枕</a> &#8226; <a href="./东方文果真报-广告-雾雨魔法店.md" title="东方文果真报/广告/雾雨魔法店">雾雨魔法店</a> &#8226; <a href="./东方文果真报-广告-稗田寺子屋.md" title="东方文果真报/广告/稗田寺子屋">稗田寺子屋</a> &#8226; <a href="./东方文果真报-广告-万岁乐秀.md" title="东方文果真报/广告/万岁乐秀">万岁乐秀</a> &#8226; <a href="./东方文果真报-广告-女仆妖精募集.md" title="东方文果真报/广告/女仆妖精募集">女仆妖精募集</a> &#8226; <a href="./东方文果真报-广告-地灵殿游.md" title="东方文果真报/广告/地灵殿游">地灵殿游</a> &#8226; <a href="./东方文果真报-广告-广告招募.md" title="东方文果真报/广告/广告招募">广告招募</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>澄清</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./东方文果真报-澄清-赫卡提亚·拉碧斯拉祖利&克劳恩皮丝.md" title="东方文果真报/澄清/赫卡提亚·拉碧斯拉祖利&amp;克劳恩皮丝">赫卡提亚·拉碧斯拉祖利&amp;克劳恩皮丝</a> &#8226; <a href="./东方文果真报-澄清-丰聪耳神子.md" title="东方文果真报/澄清/丰聪耳神子">丰聪耳神子</a> &#8226; <a href="./东方文果真报-澄清-河童涌水.md" title="东方文果真报/澄清/河童涌水">河童涌水</a> &#8226; <a href="./东方文果真报-澄清-宇佐见堇子.md" title="东方文果真报/澄清/宇佐见堇子">宇佐见堇子</a> &#8226; <a href="./东方文果真报-澄清-发售中止.md" title="东方文果真报/澄清/发售中止">发售中止</a></div></td></tr></tbody></table><div></div></td><td class="navbox-image" style="" rowspan="1"><a href="./文件-东方文果真报封面.jpg.md" class="image"><img alt="东方文果真报封面.jpg" src="https://upload.thwiki.cc/thumb/7/7b/%E4%B8%9C%E6%96%B9%E6%96%87%E6%9E%9C%E7%9C%9F%E6%8A%A5%E5%B0%81%E9%9D%A2.jpg/110px-%E4%B8%9C%E6%96%B9%E6%96%87%E6%9E%9C%E7%9C%9F%E6%8A%A5%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="110" height="156" srcset="https://upload.thwiki.cc/thumb/7/7b/%E4%B8%9C%E6%96%B9%E6%96%87%E6%9E%9C%E7%9C%9F%E6%8A%A5%E5%B0%81%E9%9D%A2.jpg/165px-%E4%B8%9C%E6%96%B9%E6%96%87%E6%9E%9C%E7%9C%9F%E6%8A%A5%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/7/7b/%E4%B8%9C%E6%96%B9%E6%96%87%E6%9E%9C%E7%9C%9F%E6%8A%A5%E5%B0%81%E9%9D%A2.jpg/220px-%E4%B8%9C%E6%96%B9%E6%96%87%E6%9E%9C%E7%9C%9F%E6%8A%A5%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1804" data-file-height="2560"></a></td></tr><tr><td></td></tr><tr><td class="navbox-abovebelow" style=";" colspan="3"><a href="./东方文果真报-读者反馈&出版信息.md" title="东方文果真报/读者反馈&amp;出版信息">读者反馈&amp;出版信息</a> &#8226; <a href="./东方文果真报-后记.md" title="东方文果真报/后记">ZUN的后记</a></td></tr></tbody></table></td></tr></tbody></table>
-
-
-
-
-
-
 ---
 
 此文档由 [THBWiki-Markdown-Builder](https://github.com/Delsin-Yu/THBWiki-Markdown-Builder) 构建。

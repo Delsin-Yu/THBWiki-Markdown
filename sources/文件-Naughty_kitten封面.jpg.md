@@ -1,6 +1,6 @@
 # 文件:Naughty_kitten封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\04\ns6%3ANaughty_kitten%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\04\ns6%3ANaughty_kitten%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ClumsyRecord | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ ClumsyRecord | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Naughty kitten](./Naughty_kitten.md)  
-该封面包含的角色：- [豪德寺三花](./豪德寺三花.md)
-
-
-
+- [Naughty kitten](./Naughty_kitten.md)该封面包含的角色：
+- [豪德寺三花](./豪德寺三花.md)
 
 
 ---

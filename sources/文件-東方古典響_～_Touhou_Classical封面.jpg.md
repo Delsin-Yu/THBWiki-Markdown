@@ -1,6 +1,6 @@
 # 文件:東方古典響_～_Touhou_Classical封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\60\ns6%3A%E6%9D%B1%E6%96%B9%E5%8F%A4%E5%85%B8%E9%9F%BF_%EF%BD%9E_Touhou_Classical%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\60\ns6%3A%E6%9D%B1%E6%96%B9%E5%8F%A4%E5%85%B8%E9%9F%BF_%EF%BD%9E_Touhou_Classical%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 DDとMPの同人工房 | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ DDとMPの同人工房 | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方古典響 ～ Touhou Classical](./東方古典響_～_Touhou_Classical.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
-
-
-
+- [東方古典響 ～ Touhou Classical](./東方古典響_～_Touhou_Classical.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:十六夜咲夜（妖妖梦Manual）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b6\ns6%3A%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C%EF%BC%88%E5%A6%96%E5%A6%96%E6%A2%A6Manual%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b6\ns6%3A%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C%EF%BC%88%E5%A6%96%E5%A6%96%E6%A2%A6Manual%EF%BC%89%2Ejpg.html -->
 
 Manual配图 | 东方妖妖梦 | 十六夜咲夜
-
-
-
-
 
 
 ---

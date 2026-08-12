@@ -1,14 +1,11 @@
 # 文件:ZUN自画像.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\03\ns6%3AZUN%E8%87%AA%E7%94%BB%E5%83%8F%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\03\ns6%3AZUN%E8%87%AA%E7%94%BB%E5%83%8F%2Ejpg.html -->
 
 ZUN | ZUN绘
 
 
 ## 摘要
-
-
-
 
 ---
 

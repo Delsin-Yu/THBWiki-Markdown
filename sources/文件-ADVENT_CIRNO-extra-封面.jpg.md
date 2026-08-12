@@ -1,6 +1,6 @@
 # 文件:ADVENT_CIRNO-extra-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\53\ns6%3AADVENT_CIRNO-extra-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\53\ns6%3AADVENT_CIRNO-extra-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 One_Night_Stand | 同人志封面 | 封面图片
 
@@ -8,11 +8,10 @@ One_Night_Stand | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [ADVENT CIRNO-extra-](./ADVENT_CIRNO-extra-.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)- [红美铃](./红美铃.md)- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
-
-
-
+- [ADVENT CIRNO-extra-](./ADVENT_CIRNO-extra-.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
+- [红美铃](./红美铃.md)
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
 
 
 ---

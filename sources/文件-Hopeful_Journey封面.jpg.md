@@ -1,6 +1,6 @@
 # 文件:Hopeful_Journey封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\46\ns6%3AHopeful_Journey%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\46\ns6%3AHopeful_Journey%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Amateras_Records | 专辑封面 | 封面图片
 
@@ -10,11 +10,12 @@ Amateras_Records | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Hopeful Journey](./Hopeful_Journey.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)- [古明地觉](./古明地觉.md)- [雾雨魔理沙](./雾雨魔理沙.md)- [克劳恩皮丝](./克劳恩皮丝.md)
-
-
-
+- [Hopeful Journey](./Hopeful_Journey.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [古明地觉](./古明地觉.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
+- [克劳恩皮丝](./克劳恩皮丝.md)
 
 
 ---

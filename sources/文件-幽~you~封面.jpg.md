@@ -1,6 +1,6 @@
 # 文件:幽~you~封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\67\ns6%3A%E5%B9%BD%7Eyou%7E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\67\ns6%3A%E5%B9%BD%7Eyou%7E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 落ち葉
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [幽~you~](./幽~you~.md)  
-该封面包含的角色：- [幽谷响子](./幽谷响子.md)
-
-
-
+- [幽~you~](./幽~you~.md)该封面包含的角色：
+- [幽谷响子](./幽谷响子.md)
 
 
 ---

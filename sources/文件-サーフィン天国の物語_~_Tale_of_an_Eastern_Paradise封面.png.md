@@ -1,6 +1,6 @@
 # 文件:サーフィン天国の物語_~_Tale_of_an_Eastern_Paradise封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\99\ns6%3A%E3%82%B5%E3%83%BC%E3%83%95%E3%82%A3%E3%83%B3%E5%A4%A9%E5%9B%BD%E3%81%AE%E7%89%A9%E8%AA%9E_%7E_Tale_of_an_Eastern_Paradise%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\99\ns6%3A%E3%82%B5%E3%83%BC%E3%83%95%E3%82%A3%E3%83%B3%E5%A4%A9%E5%9B%BD%E3%81%AE%E7%89%A9%E8%AA%9E_%7E_Tale_of_an_Eastern_Paradise%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Tangentg | 专辑封面 | 封面图片
 
@@ -10,16 +10,12 @@ Tangentg | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [サーフィン天国の物語 ~ Tale of an Eastern Paradise](./サーフィン天国の物語_~_Tale_of_an_Eastern_Paradise.md)  
-该封面包含的角色：- [博丽灵梦（旧作角色）](./博丽灵梦（旧作角色）.md)
+- [サーフィン天国の物語 ~ Tale of an Eastern Paradise](./サーフィン天国の物語_~_Tale_of_an_Eastern_Paradise.md)该封面包含的角色：
+- [博丽灵梦（旧作角色）](./博丽灵梦（旧作角色）.md)
 
   
 cover is included as part of album download
   
-
-
-
-
 
 ---
 

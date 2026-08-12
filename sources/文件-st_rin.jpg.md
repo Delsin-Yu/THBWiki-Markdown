@@ -1,12 +1,8 @@
 # 文件:st_rin.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\63\ns6%3Ast_rin%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\63\ns6%3Ast_rin%2Ejpg.html -->
 
 未完童話
-
-
-
-
 
 
 ---

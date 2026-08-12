@@ -1,12 +1,8 @@
 # 文件:THBWiki-收入.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\74\ns6%3ATHBWiki-%E6%94%B6%E5%85%A5%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\74\ns6%3ATHBWiki-%E6%94%B6%E5%85%A5%2Ejpg.html -->
 
 THBWiki | Wiki页面装修用图
-
-
-
-
 
 
 ---

@@ -1,14 +1,11 @@
 # 文件:幻想Narrato_Graph（人类村落）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\47\ns6%3A%E5%B9%BB%E6%83%B3Narrato_Graph%EF%BC%88%E4%BA%BA%E7%B1%BB%E6%9D%91%E8%90%BD%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\47\ns6%3A%E5%B9%BB%E6%83%B3Narrato_Graph%EF%BC%88%E4%BA%BA%E7%B1%BB%E6%9D%91%E8%90%BD%EF%BC%89%2Ejpg.html -->
 
 幻想Narrato_Graph
 
 
 ## 摘要
-
-
-
 
 ---
 

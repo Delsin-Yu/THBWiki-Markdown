@@ -1,16 +1,12 @@
 # 文件:le04_BOSS_Garaiya.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\34\ns6%3Ale04_BOSS_Garaiya%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\34\ns6%3Ale04_BOSS_Garaiya%2Emp3.html -->
 
 英雄参见！！ | 连缘Project官方音乐MP3 | 连缘天影战记
 
   
 连缘天影战记城线4面Boss-尾形我来也主题曲
   
-
-
-
-
 
 ---
 

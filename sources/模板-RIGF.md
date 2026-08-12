@@ -1,16 +1,12 @@
 # 模板:RIGF
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\4\43\ns10%3ARIGF.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\4\43\ns10%3ARIGF.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

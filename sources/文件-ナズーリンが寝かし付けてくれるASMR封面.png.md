@@ -1,6 +1,6 @@
 # 文件:ナズーリンが寝かし付けてくれるASMR封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b0\ns6%3A%E3%83%8A%E3%82%BA%E3%83%BC%E3%83%AA%E3%83%B3%E3%81%8C%E5%AF%9D%E3%81%8B%E3%81%97%E4%BB%98%E3%81%91%E3%81%A6%E3%81%8F%E3%82%8C%E3%82%8BASMR%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b0\ns6%3A%E3%83%8A%E3%82%BA%E3%83%BC%E3%83%AA%E3%83%B3%E3%81%8C%E5%AF%9D%E3%81%8B%E3%81%97%E4%BB%98%E3%81%91%E3%81%A6%E3%81%8F%E3%82%8C%E3%82%8BASMR%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 MEMO | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ MEMO | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [ナズーリンが寝かし付けてくれるASMR](./ナズーリンが寝かし付けてくれるASMR.md)  
-该封面包含的角色：- [娜兹玲](./娜兹玲.md)
-
-
-
+- [ナズーリンが寝かし付けてくれるASMR](./ナズーリンが寝かし付けてくれるASMR.md)该封面包含的角色：
+- [娜兹玲](./娜兹玲.md)
 
 
 ---

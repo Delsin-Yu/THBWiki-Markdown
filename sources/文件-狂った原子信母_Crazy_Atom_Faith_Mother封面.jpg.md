@@ -1,6 +1,6 @@
 # 文件:狂った原子信母_Crazy_Atom_Faith_Mother封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f4\ns6%3A%E7%8B%82%E3%81%A3%E3%81%9F%E5%8E%9F%E5%AD%90%E4%BF%A1%E6%AF%8D_Crazy_Atom_Faith_Mother%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f4\ns6%3A%E7%8B%82%E3%81%A3%E3%81%9F%E5%8E%9F%E5%AD%90%E4%BF%A1%E6%AF%8D_Crazy_Atom_Faith_Mother%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 十方世界の果ての空 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [狂った原子信母 Crazy Atom Faith Mother](./狂った原子信母_Crazy_Atom_Faith_Mother.md)  
-该封面包含的角色：- [封兽鵺](./封兽鵺.md)
-
-
-
+- [狂った原子信母 Crazy Atom Faith Mother](./狂った原子信母_Crazy_Atom_Faith_Mother.md)该封面包含的角色：
+- [封兽鵺](./封兽鵺.md)
 
 
 ---

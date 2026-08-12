@@ -1,14 +1,11 @@
 # 文件:Midnight_Dessertbanner2.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e6\ns6%3AMidnight_Dessertbanner2%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e6\ns6%3AMidnight_Dessertbanner2%2Egif.html -->
 
 Midnight_Dessert | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

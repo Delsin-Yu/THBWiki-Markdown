@@ -1,6 +1,6 @@
 # 文件:den-gen封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bd\ns6%3Aden-gen%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bd\ns6%3Aden-gen%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 みかん箱 | 专辑封面 | 以呂波屋 | 封面图片
 
@@ -8,16 +8,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [den-gen](./den-gen.md)  
-该封面包含的角色：- [娜兹玲](./娜兹玲.md)- [寅丸星](./寅丸星.md)
+- [den-gen](./den-gen.md)该封面包含的角色：
+- [娜兹玲](./娜兹玲.md)
+- [寅丸星](./寅丸星.md)
 
   
-源地址：[[1]](http://iroha-ya.info/iroha_s_mikan/irmk0001/jacket_1.png)
-  
-
-
-
-
+源地址：[\[1\]](http://iroha-ya.info/iroha_s_mikan/irmk0001/jacket_1.png)  
 
 ---
 

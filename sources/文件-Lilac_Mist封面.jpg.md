@@ -1,6 +1,6 @@
 # 文件:Lilac_Mist封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\28\ns6%3ALilac_Mist%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\28\ns6%3ALilac_Mist%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 JF_UNION | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ JF_UNION | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Lilac Mist](./Lilac_Mist.md)  
-该封面包含的角色：- [蓬莱山辉夜](./蓬莱山辉夜.md)- [藤原妹红](./藤原妹红.md)
-
-
-
+- [Lilac Mist](./Lilac_Mist.md)该封面包含的角色：
+- [蓬莱山辉夜](./蓬莱山辉夜.md)
+- [藤原妹红](./藤原妹红.md)
 
 
 ---

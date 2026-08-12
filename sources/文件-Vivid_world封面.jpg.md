@@ -1,6 +1,6 @@
 # 文件:Vivid_world封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\60\ns6%3AVivid_world%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\60\ns6%3AVivid_world%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 色色＊ドロップ
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Vivid world](./Vivid_world.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
+- [Vivid world](./Vivid_world.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-源地址：[direct image link](https://wox.cc/user/hakuro/o/11.jpg), [source page](https://iroirodrop.web.wox.cc/novel/cate1-1.html)
-  
-
-
-
-
+源地址：[direct image link](https://wox.cc/user/hakuro/o/11.jpg), [source page](https://iroirodrop.web.wox.cc/novel/cate1-1.html)  
 
 ---
 

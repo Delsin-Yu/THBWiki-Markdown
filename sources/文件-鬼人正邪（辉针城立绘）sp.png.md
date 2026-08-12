@@ -1,12 +1,8 @@
 # 文件:鬼人正邪（辉针城立绘）sp.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2d\ns6%3A%E9%AC%BC%E4%BA%BA%E6%AD%A3%E9%82%AA%EF%BC%88%E8%BE%89%E9%92%88%E5%9F%8E%E7%AB%8B%E7%BB%98%EF%BC%89sp%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2d\ns6%3A%E9%AC%BC%E4%BA%BA%E6%AD%A3%E9%82%AA%EF%BC%88%E8%BE%89%E9%92%88%E5%9F%8E%E7%AB%8B%E7%BB%98%EF%BC%89sp%2Epng.html -->
 
 ZUN绘 | 东方辉针城 | 官方游戏立绘 | 鬼人正邪
-
-
-
-
 
 
 ---

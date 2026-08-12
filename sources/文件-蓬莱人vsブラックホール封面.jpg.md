@@ -1,6 +1,6 @@
 # 文件:蓬莱人vsブラックホール封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bc\ns6%3A%E8%93%AC%E8%8E%B1%E4%BA%BAvs%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%83%9B%E3%83%BC%E3%83%AB%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bc\ns6%3A%E8%93%AC%E8%8E%B1%E4%BA%BAvs%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%83%9B%E3%83%BC%E3%83%AB%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ALISON航空 | 同人志封面 | 封面图片
 
@@ -8,11 +8,9 @@ ALISON航空 | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [蓬莱人vsブラックホール](./蓬莱人vsブラックホール.md)  
-该封面包含的角色：- [蓬莱山辉夜](./蓬莱山辉夜.md)- [藤原妹红](./藤原妹红.md)
-
-
-
+- [蓬莱人vsブラックホール](./蓬莱人vsブラックホール.md)该封面包含的角色：
+- [蓬莱山辉夜](./蓬莱山辉夜.md)
+- [藤原妹红](./藤原妹红.md)
 
 
 ---

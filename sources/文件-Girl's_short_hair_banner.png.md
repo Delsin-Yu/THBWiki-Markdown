@@ -1,12 +1,8 @@
 # 文件:Girl's_short_hair_banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4d\ns6%3AGirl%27s_short_hair_banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4d\ns6%3AGirl%27s_short_hair_banner%2Epng.html -->
 
 Girl's_short_hair | 社团LOGO
-
-
-
-
 
 
 ---

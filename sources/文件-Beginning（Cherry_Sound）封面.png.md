@@ -1,6 +1,6 @@
 # 文件:Beginning（Cherry_Sound）封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e6\ns6%3ABeginning%EF%BC%88Cherry_Sound%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e6\ns6%3ABeginning%EF%BC%88Cherry_Sound%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Cherry_Sound | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Cherry_Sound | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Beginning（Cherry Sound）](./Beginning（Cherry_Sound）.md)  
-该封面包含的角色：- 原创角色 (未找到链接)
-
-
-
+- [Beginning（Cherry Sound）](./Beginning（Cherry_Sound）.md)该封面包含的角色：
+- 原创角色 (未找到链接)
 
 
 ---

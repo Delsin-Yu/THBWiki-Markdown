@@ -1,12 +1,8 @@
 # 文件:待客巫女by绯神REI.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ae\ns6%3A%E5%BE%85%E5%AE%A2%E5%B7%AB%E5%A5%B3by%E7%BB%AF%E7%A5%9EREI%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ae\ns6%3A%E5%BE%85%E5%AE%A2%E5%B7%AB%E5%A5%B3by%E7%BB%AF%E7%A5%9EREI%2Ejpg.html -->
 
 蓬莱少女绘幻想
-
-
-
-
 
 
 ---

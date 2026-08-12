@@ -1,14 +1,12 @@
 # Arcaea
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\d\d5\ns0%3AArcaea.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\d\d5\ns0%3AArcaea.html -->
 
 2017年3月9日 由 lowiro  发布的MUG同人游戏，可在 Android/iOS/NS 系统上运行，游戏人数为 单人模式，分级为 一般向
 
 本页是关于  
 含有[东方Project](./东方Project.md)相关内容的  
-[商业游戏](./东方相关商业游戏.md)作品的词条Arcaea（商业游戏） - 
-<center>
-
+[商业游戏](./分类-东方相关商业游戏.md)作品的词条Arcaea（商业游戏） - <center>
 <table>
 <tbody><tr>
 <td class="mbox-image"><div style="width: 52px;">
@@ -17,15 +15,13 @@
 </tr>
 </tbody></table>
 
-
 </center>
-<table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=Arcaea%E5%B0%81%E9%9D%A2.png" class="new" title="文件:Arcaea封面.png">封面图片</a><div class="cover-char">角色：<a href="./光.md" title="光">光</a>，<a href="/index.php?title=%E5%AF%B9%E7%AB%8B&amp;action=edit&amp;redlink=1" class="new" title="对立（页面不存在）">对立</a></div></td>
-</tr><tr><td class="label">名称</td><td colspan="2"> Arcaea </td></tr><tr><td class="label">译名</td><td colspan="2"> 韵律源点 </td></tr><tr><td class="label">制作方</td><td><a href="/index.php?title=lowiro&amp;action=edit&amp;redlink=1" class="new" title="lowiro（页面不存在）">lowiro</a></td><td class="cover-artwork" rowspan="7" style="min-width:196px;"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=Arcaea%E5%B0%81%E9%9D%A2.png" class="new" title="文件:Arcaea封面.png">封面图片</a><div class="cover-char">角色：<a href="./光.md" title="光">光</a>，<a href="/index.php?title=%E5%AF%B9%E7%AB%8B&amp;action=edit&amp;redlink=1" class="new" title="对立（页面不存在）">对立</a></div></td>
+<table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a class="new" title="文件:Arcaea封面.png">封面图片</a><div class="cover-char">角色：<a href="./光.md" title="光">光</a>，<a class="new" title="对立（页面不存在）">对立</a></div></td>
+</tr><tr><td class="label">名称</td><td colspan="2"> Arcaea </td></tr><tr><td class="label">译名</td><td colspan="2"> 韵律源点 </td></tr><tr><td class="label">制作方</td><td><a class="new" title="lowiro（页面不存在）">lowiro</a></td><td class="cover-artwork" rowspan="7" style="min-width:196px;"><a class="new" title="文件:Arcaea封面.png">封面图片</a><div class="cover-char">角色：<a href="./光.md" title="光">光</a>，<a class="new" title="对立（页面不存在）">对立</a></div></td>
 </tr><tr><td class="label">首发日期</td><td>2017-03-09</td></tr><tr><td class="label">类型</td><td>游戏</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">游戏人数</td><td>单人模式</td></tr><tr><td class="label">游戏类型</td><td>MUG</td></tr><tr><td class="label">运行平台</td><td>Android，iOS，NS</td></tr><tr><td class="label">语言</td><td>英文，简体中文，繁体中文，日文，韩文</td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://arcaea.lowiro.com">https://arcaea.lowiro.com</a></td></tr></tbody></table>
 
 Arcaea（同人游戏，lowiro，同人专辑，2017） - 2017年3月9日 由 lowiro  发布的MUG同人游戏，可在 Android/iOS/NS 系统上运行，游戏人数为 单人模式，分级为 一般向
-
 ## 目录
 
 - [1 简介](#简介)
@@ -35,12 +31,9 @@ Arcaea（同人游戏，lowiro，同人专辑，2017） - 2017年3月9日 由 lo
 - [5 参考资料](#参考资料)
 
 
-
-
-
 ## 简介
   
-<big> **Arcaea** </big>（官方中文译名“韵律源点”），是由英国lowiro (未找到链接)开发的一款创新立体节奏游戏。
+<big>**Arcaea**</big>（官方中文译名“韵律源点”），是由英国lowiro (未找到链接)开发的一款创新立体节奏游戏。
   
   
 游戏在经典的下落式4K音乐节奏玩法基础上引入了Y轴输入，使得游戏在一个3D视角下的2D平面中进行，较一般的4K下落式更加考验玩家的操作能力。
@@ -51,7 +44,6 @@ Arcaea（同人游戏，lowiro，同人专辑，2017） - 2017年3月9日 由 lo
   
 2021年5月18日移植于NS端，作为单机游戏供玩家选购。
   
-
 
 ## 与东方Project的关联
   
@@ -67,19 +59,10 @@ Arcaea（同人游戏，lowiro，同人专辑，2017） - 2017年3月9日 由 lo
 目前Arcaea中实装的东方曲目均为同人曲目，且均分布在World Extend与Memory Archive中，尚无单独的曲包。
   
 
-
 ## 游戏内收录的东方曲目
-
 [^cite_note-1]: 该曲包内的曲目在推出时可通过限时活动免费获得，活动结束后必须付费购买整个曲包以解锁对应曲目
 
-
 ## 参考资料
-  
-  
-
-
-
-
 
 ---
 

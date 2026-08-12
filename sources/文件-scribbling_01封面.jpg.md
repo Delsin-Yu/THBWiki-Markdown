@@ -1,6 +1,6 @@
 # 文件:scribbling_01封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\58\ns6%3Ascribbling_01%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\58\ns6%3Ascribbling_01%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Violet_Jupiter | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@ Violet_Jupiter | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [scribbling 01](./scribbling_01.md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)
+- [scribbling 01](./scribbling_01.md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
 
   
-源地址：[direct image link (tweetpic)](https://twitpic.com/6ehueo), [source tweet](https://twitter.com/FuLLerene0401/status/109300187167596544/)
-  
-
-
-
-
+源地址：[direct image link (tweetpic)](https://twitpic.com/6ehueo), [source tweet](https://twitter.com/FuLLerene0401/status/109300187167596544/)  
 
 ---
 

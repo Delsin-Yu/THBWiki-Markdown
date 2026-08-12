@@ -1,12 +1,8 @@
 # 文件:fumo5.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c3\ns6%3Afumo5%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c3\ns6%3Afumo5%2Ejpg.html -->
 
 ふもふも
-
-
-
-
 
 
 ---

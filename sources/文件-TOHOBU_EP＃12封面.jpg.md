@@ -1,6 +1,6 @@
 # 文件:TOHOBU_EP＃12封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\20\ns6%3ATOHOBU_EP%EF%BC%8312%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\20\ns6%3ATOHOBU_EP%EF%BC%8312%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ついったー東方部 | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [TOHOBU EP＃12](./TOHOBU_EP＃12.md)  
-该封面包含的角色：- [稗田阿求](./稗田阿求.md)
+- [TOHOBU EP＃12](./TOHOBU_EP＃12.md)该封面包含的角色：
+- [稗田阿求](./稗田阿求.md)
 
   
-源地址：[[1]](http://static.tumblr.com/4a95c9147a45e8acfa54c1034addea83/luuput8/IGpo00qci/tumblr_static_7wyxznt6rwg0g4s4s4owc40oc.png)
-  
-
-
-
-
+源地址：[\[1\]](http://static.tumblr.com/4a95c9147a45e8acfa54c1034addea83/luuput8/IGpo00qci/tumblr_static_7wyxznt6rwg0g4s4s4owc40oc.png)  
 
 ---
 

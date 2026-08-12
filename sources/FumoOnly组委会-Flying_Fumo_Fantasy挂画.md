@@ -1,50 +1,40 @@
 # FumoOnly组委会/Flying_Fumo_Fantasy挂画
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\fd\ns0%3AFumoOnly%E7%BB%84%E5%A7%94%E4%BC%9A%2FFlying_Fumo_Fantasy%E6%8C%82%E7%94%BB.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\fd\ns0%3AFumoOnly%E7%BB%84%E5%A7%94%E4%BC%9A%2FFlying_Fumo_Fantasy%E6%8C%82%E7%94%BB.html -->
 
 2023年5月2日 由 FumoOnly组委会 于 COMICUP29 发布的挂画周边，分级为 一般向
 
 本页是关于东方Project  
- **相关实体周边 (未找到链接)** 的词条
-
+**相关实体周边 (未找到链接)**的词条
 ## 目录
 
 - [1 周边信息](#周边信息)
 - [2 参考图](#参考图)
-
   - [2.1 预览图](#预览图)
-
 
 
 - [3 Staff](#Staff)
 - [4 评论](#评论)
 
 
-
-
-
 ## 周边信息
 
-<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> Flying Fumo Fantasy挂画 </td></tr><tr><td class="label">制作方</td><td><a href="./FumoOnly组委会.md" title="FumoOnly组委会">FumoOnly组委会</a></td></tr><tr><td class="label">首发日期</td><td>2023-05-02&#160;（<a href="/展会作品列表?e=COMICUP%2329">COMICUP29</a>）</td></tr><tr><td class="label">类型</td><td>挂画</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">角色</td><td><a href="./摩多罗隐岐奈.md" title="摩多罗隐岐奈">摩多罗隐岐奈</a><br><a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a><br><a href="./秦心.md" title="秦心">秦心</a><br><a href="./射命丸文.md" title="射命丸文">射命丸文</a></td></tr><tr><td class="label">售价</td><td>70人民币</td></tr></tbody></table>
+<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> Flying Fumo Fantasy挂画 </td></tr><tr><td class="label">制作方</td><td><a href="./FumoOnly组委会.md" title="FumoOnly组委会">FumoOnly组委会</a></td></tr><tr><td class="label">首发日期</td><td>2023-05-02 （<a href="./展会作品列表.md#29">COMICUP29</a>）</td></tr><tr><td class="label">类型</td><td>挂画</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">角色</td><td><a href="./摩多罗隐岐奈.md" title="摩多罗隐岐奈">摩多罗隐岐奈</a><br><a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a><br><a href="./秦心.md" title="秦心">秦心</a><br><a href="./射命丸文.md" title="射命丸文">射命丸文</a></td></tr><tr><td class="label">售价</td><td>70人民币</td></tr></tbody></table>
 
 FumoOnly组委会/Flying Fumo Fantasy挂画（周边，FumoOnly组委会，2023） - 2023年5月2日 由 FumoOnly组委会 于 COMICUP29 发布的挂画周边，分级为 一般向
-
 ## 参考图
   
 周边宣传、售卖时使用的作为参考图的预览图或实物图的图片。
   
 
-
 ### 预览图
-- [](./文件-FumoOnly组委会／Flying_Fumo_Fantasy挂画预览图1.jpg.md)
+
+- <img alt="FumoOnly组委会／Flying Fumo Fantasy挂画预览图1.jpg" src="https://upload.thwiki.cc/thumb/7/74/FumoOnly%E7%BB%84%E5%A7%94%E4%BC%9A%EF%BC%8FFlying_Fumo_Fantasy%E6%8C%82%E7%94%BB%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg/316px-FumoOnly%E7%BB%84%E5%A7%94%E4%BC%9A%EF%BC%8FFlying_Fumo_Fantasy%E6%8C%82%E7%94%BB%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg" decoding="async" loading="lazy" width="211" height="250" srcset="https://upload.thwiki.cc/7/74/FumoOnly%E7%BB%84%E5%A7%94%E4%BC%9A%EF%BC%8FFlying_Fumo_Fantasy%E6%8C%82%E7%94%BB%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg 1.5x" data-file-width="424" data-file-height="503"> 
 
 
 ## Staff
 
 ## 评论
-
-
-
 
 ---
 

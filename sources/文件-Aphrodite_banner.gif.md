@@ -1,12 +1,8 @@
 # 文件:Aphrodite_banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\33\ns6%3AAphrodite_banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\33\ns6%3AAphrodite_banner%2Egif.html -->
 
 Aphrodite | 社团LOGO
-
-
-
-
 
 
 ---

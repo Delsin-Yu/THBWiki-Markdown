@@ -1,18 +1,13 @@
 # 文件:イチゴ・ファンネルbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b8\ns6%3A%E3%82%A4%E3%83%81%E3%82%B4%E3%83%BB%E3%83%95%E3%82%A1%E3%83%B3%E3%83%8D%E3%83%ABbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b8\ns6%3A%E3%82%A4%E3%83%81%E3%82%B4%E3%83%BB%E3%83%95%E3%82%A1%E3%83%B3%E3%83%8D%E3%83%ABbanner%2Ejpg.html -->
 
 イチゴ・ファンネル | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[[1]](http://blog-imgs-46.fc2.com/l/i/q/liquidlimelight/ichigo_banner.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://blog-imgs-46.fc2.com/l/i/q/liquidlimelight/ichigo_banner.jpg)  
 
 ---
 

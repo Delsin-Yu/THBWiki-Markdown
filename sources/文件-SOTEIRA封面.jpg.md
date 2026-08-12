@@ -1,6 +1,6 @@
 # 文件:SOTEIRA封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\15\ns6%3ASOTEIRA%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\15\ns6%3ASOTEIRA%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 わいえむ2612 | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [SOTEIRA](./SOTEIRA.md)  
-该封面包含的角色：- [赫卡提亚·拉碧斯拉祖利](./赫卡提亚·拉碧斯拉祖利.md)
+- [SOTEIRA](./SOTEIRA.md)该封面包含的角色：
+- [赫卡提亚·拉碧斯拉祖利](./赫卡提亚·拉碧斯拉祖利.md)
 
   
-源地址：[direct image link (original size)](https://pbs.twimg.com/media/FdgHVlCagAIUf3W?format=jpg&amp;name=orig), [source tweet](https://twitter.com/kaisenpurin/status/1574018782074671104)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://pbs.twimg.com/media/FdgHVlCagAIUf3W?format=jpg&name=orig), [source tweet](https://twitter.com/kaisenpurin/status/1574018782074671104)  
 
 ---
 

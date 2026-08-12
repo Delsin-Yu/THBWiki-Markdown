@@ -1,89 +1,65 @@
 # 幻宴Project
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\b4\ns0%3A%E5%B9%BB%E5%AE%B4Project.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\b4\ns0%3A%E5%B9%BB%E5%AE%B4Project.html -->
 
 幻宴Project 在 日本川口 举办的  东方同人音乐会活动，目前共举办了1届
 
-本页是关于 **[同人展会](./同人展会.md#展会类活动)**   
-及 **[相关活动](./相关活动.md)** 的词条
-
+本页是关于**[同人展会](./活动.md#展会类活动)**  
+及**[相关活动](./活动.md)**的词条
 ## 目录
 
 - [1 概述](#概述)
 - [2 历届信息](#历届信息)
 - [3 演出社团及人员](#演出社团及人员)
 - [4 历届宣传图](#历届宣传图)
-
   - [4.1 第一届](#第一届)
-
 
 
 - [5 注释](#注释)
 
 
-
-
-
 ## 概述
-[](./文件-幻宴ProjectLOGO.png.md)  [](./文件-幻宴ProjectLOGO.png.md)幻宴Project LOGO
+<img alt="" src="https://upload.thwiki.cc/2/26/%E5%B9%BB%E5%AE%B4ProjectLOGO.png" decoding="async" loading="lazy" width="200" height="127" class="thumbimage" data-file-width="200" data-file-height="127">
+ [放大](./文件-幻宴ProjectLOGO.png.md)幻宴Project LOGO  
+<big>**幻宴Project**</big>（げんえんプロジェクト）。  
   
-<big> **幻宴Project** </big>（げんえんプロジェクト）。  
-  
-  
-  
-  
-日本 **川口** 的东方Project Only **同人[音乐会类活动](./音乐会类活动.md#音乐会类活动)** 。  
+日本**川口**的东方Project Only**同人[音乐会类活动](./活动.md#音乐会类活动)**。  
   
 在川口举办。  
 付费入场。  
 直到目前为止，已经举办了1届（包含已决定将会举办）。  
   
-  
-  
-  
 活动官方网站： [https://harimusic.net/concert.html](https://harimusic.net/concert.html)   
-主办方： **[针之音乐](./针之音乐.md)** （[針の音楽](./針の音楽.md)）  
+主办方：**[针之音乐](./針の音楽.md)**（[針の音楽](./針の音楽.md)）  
 官方推特： [https://twitter.com/harimusic896](https://twitter.com/harimusic896) （需要翻墙）和[针之音乐](./針の音楽.md)共用  
   
 幻宴Project（活动，音乐会活动） - 幻宴Project 在 日本川口 举办的  东方同人音乐会活动，目前共举办了1届
-
 ## 历届信息
+
 - 点击届数可进入对应分类页面。
 - 举办日期以当地日期为准。
 
 
 <table>
 <tbody><tr><th> </th><th>日期</th><th>地点</th><th>演出社团及人员</th></tr>
-<tr><td id="1"><b><a href="/展会作品列表?e=%E5%B9%BB%E5%AE%B4Project%231">幻宴Project ～ 点缀幻想乡的神与佛的世界</a></b></td><td id="ev-1">2019年12月15日</td><td>川口市 川口综合文化中心 大厅<br><small><span style="color:grey;">川口総合文化センター・リリア　メインホール</span></small></td><td><a href="#第1届">参见</a></td></tr>
+<tr><td id="1"><b><a href="./展会作品列表.md#1">幻宴Project ～ 点缀幻想乡的神与佛的世界</a></b></td><td id="ev-1">2019年12月15日</td><td>川口市 川口综合文化中心 大厅<br><small><span style="color:grey;">川口総合文化センター・リリア　メインホール</span></small></td><td><a href="#第1届">参见</a></td></tr>
 </tbody></table>
-
 
 
 ## 演出社团及人员
 幻宴Project ～ 点缀幻想乡的神与佛的世界
 : 
 
-
 ## 历届宣传图
+
 - 活动官方使用的作为网站首页顶图或宣传图的图片。
 - 此页面只会记录东方Project相关的宣传图及活动目录图。
 
 
 ### 第一届
-- [](./文件-幻宴Project插画1-1.jpg.md)第1届 插画1- [](./文件-幻宴Project插画1-2.jpg.md)第1届 插画2
 
-
-  
-  
-
-  
-
-  
-  
-
-
-
-
+- <img alt="第1届 插画1" src="https://upload.thwiki.cc/thumb/b/b9/%E5%B9%BB%E5%AE%B4Project%E6%8F%92%E7%94%BB1-1.jpg/267px-%E5%B9%BB%E5%AE%B4Project%E6%8F%92%E7%94%BB1-1.jpg" decoding="async" loading="lazy" width="178" height="250" srcset="https://upload.thwiki.cc/thumb/b/b9/%E5%B9%BB%E5%AE%B4Project%E6%8F%92%E7%94%BB1-1.jpg/402px-%E5%B9%BB%E5%AE%B4Project%E6%8F%92%E7%94%BB1-1.jpg 1.5x, https://upload.thwiki.cc/thumb/b/b9/%E5%B9%BB%E5%AE%B4Project%E6%8F%92%E7%94%BB1-1.jpg/535px-%E5%B9%BB%E5%AE%B4Project%E6%8F%92%E7%94%BB1-1.jpg 2x" data-file-width="745" data-file-height="1044"> 第1届 插画1
+- <img alt="第1届 插画2" src="https://upload.thwiki.cc/thumb/c/c6/%E5%B9%BB%E5%AE%B4Project%E6%8F%92%E7%94%BB1-2.jpg/667px-%E5%B9%BB%E5%AE%B4Project%E6%8F%92%E7%94%BB1-2.jpg" decoding="async" loading="lazy" width="445" height="250" srcset="https://upload.thwiki.cc/thumb/c/c6/%E5%B9%BB%E5%AE%B4Project%E6%8F%92%E7%94%BB1-2.jpg/1001px-%E5%B9%BB%E5%AE%B4Project%E6%8F%92%E7%94%BB1-2.jpg 1.5x, https://upload.thwiki.cc/thumb/c/c6/%E5%B9%BB%E5%AE%B4Project%E6%8F%92%E7%94%BB1-2.jpg/1334px-%E5%B9%BB%E5%AE%B4Project%E6%8F%92%E7%94%BB1-2.jpg 2x" data-file-width="2048" data-file-height="1152"> 第1届 插画2
 
 
 ---

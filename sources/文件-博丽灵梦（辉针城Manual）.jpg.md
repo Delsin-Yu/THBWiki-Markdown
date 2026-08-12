@@ -1,12 +1,8 @@
 # 文件:博丽灵梦（辉针城Manual）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2c\ns6%3A%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E8%BE%89%E9%92%88%E5%9F%8EManual%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2c\ns6%3A%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E8%BE%89%E9%92%88%E5%9F%8EManual%EF%BC%89%2Ejpg.html -->
 
 Manual配图 | 东方辉针城 | 博丽灵梦
-
-
-
-
 
 
 ---

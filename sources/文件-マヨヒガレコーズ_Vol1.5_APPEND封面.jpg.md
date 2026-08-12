@@ -1,6 +1,6 @@
 # 文件:マヨヒガレコーズ_Vol1.5_APPEND封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\27\ns6%3A%E3%83%9E%E3%83%A8%E3%83%92%E3%82%AC%E3%83%AC%E3%82%B3%E3%83%BC%E3%82%BA_Vol1%2E5_APPEND%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\27\ns6%3A%E3%83%9E%E3%83%A8%E3%83%92%E3%82%AC%E3%83%AC%E3%82%B3%E3%83%BC%E3%82%BA_Vol1%2E5_APPEND%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 マヨヒガレコーズ | 专辑封面 | 封面图片
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [マヨヒガレコーズ Vol1.5 APPEND](./マヨヒガレコーズ_Vol1.5_APPEND.md)  
-该封面包含的角色：- [八坂神奈子](./八坂神奈子.md)- [洩矢诹访子](./洩矢诹访子.md)
-
-
-
+- [マヨヒガレコーズ Vol1.5 APPEND](./マヨヒガレコーズ_Vol1.5_APPEND.md)该封面包含的角色：
+- [八坂神奈子](./八坂神奈子.md)
+- [洩矢诹访子](./洩矢诹访子.md)
 
 
 ---

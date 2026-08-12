@@ -1,45 +1,35 @@
 # 梦幻游戏_～Dream_War
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\6d\ns0%3A%E6%A2%A6%E5%B9%BB%E6%B8%B8%E6%88%8F_%EF%BD%9EDream_War.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\6d\ns0%3A%E6%A2%A6%E5%B9%BB%E6%B8%B8%E6%88%8F_%EF%BD%9EDream_War.html -->
 
 由 ZUN 创作的官方曲目，原名 夢幻遊戯　～Dream War
 
 本页是关于东方Project  
- **原作音乐** 的词条
-
+**原作音乐**的词条
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 出现作品](#出现作品)
 - [3 音乐文件](#音乐文件)
-
   - [3.1 东方梦时空](#东方梦时空)
   - [3.2 东方怪绮谈](#东方怪绮谈)
   - [3.3 东方幻想怀古曲](#东方幻想怀古曲)
   - [3.4 幺乐团的历史 vol.4](#幺乐团的历史_vol.4)
 
 
-
 - [4 说明文本](#说明文本)
-
   - [4.1 东方梦时空](#东方梦时空_2)
   - [4.2 东方怪绮谈](#东方怪绮谈_2)
   - [4.3 东方幻想怀古曲](#东方幻想怀古曲_2)
 
 
-
 - [5 其他资料](#其他资料)
-
   - [5.1 乐理资讯](#乐理资讯)
   - [5.2 分析考据](#分析考据)
   - [5.3 二次同人数据](#二次同人数据)
 
 
-
 - [6 注释](#注释)
-
-
-
 
 
 ## 基本信息
@@ -47,7 +37,6 @@
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">夢幻遊戯　～Dream War</td></tr><tr><td><b>译名</b></td><td>梦幻游戏 ～Dream War</td></tr><tr><td><b>英文译名</b></td><td>Visionary Game ~ Dream War</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 梦幻游戏 ～Dream War（曲目） - 由 ZUN 创作的官方曲目，原名 夢幻遊戯　～Dream War
-
 ## 出现作品
 
 <table>
@@ -58,7 +47,6 @@
 </tbody></table>
 
 
-
 ## 音乐文件
 
 ### 东方梦时空
@@ -66,9 +54,7 @@
 YM2608(OPNA)，FM86版。
   
 
-
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th03_09.ogg.md" title="文件:th03 09.ogg">th03_09.ogg</a><br><audio src="https://upload.thwiki.cc/2/27/th03_09.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>06MM.M</td></tr><tr><td><b>音轨时长</b></td><td>4:57.363</td></tr></tbody></table>
-
 
 
 ### 东方怪绮谈
@@ -76,9 +62,7 @@ YM2608(OPNA)，FM86版。
 YM2608(OPNA)，FM86版。
   
 
-
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th05_Y_09.ogg.md" title="文件:th05 Y 09.ogg">th05_Y_09.ogg</a><br><audio src="https://upload.thwiki.cc/d/dc/th05_Y_09.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>Y_06MM.M</td></tr><tr><td><b>音轨时长</b></td><td>4:57.363</td></tr></tbody></table>
-
 
 
 ### 东方幻想怀古曲
@@ -86,17 +70,16 @@ YM2608(OPNA)，FM86版。
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-thgs03_09.ogg.md" title="文件:thgs03 09.ogg">thgs03_09.ogg</a><br><audio src="https://upload.thwiki.cc/6/68/thgs03_09.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>th3_09.M</td></tr><tr><td><b>音轨时长</b></td><td>4:57.363</td></tr></tbody></table>
 
 
-
 ### 幺乐团的历史 vol.4
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-ha04_09.mp3.md" title="文件:ha04 09.mp3">ha04_09.mp3</a><br><audio src="https://upload.thwiki.cc/0/0f/ha04_09.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track09.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>5:18</td></tr></tbody></table>
 
 
-
 ## 说明文本
 
 ### 东方梦时空
-- Music Room (未找到链接)
+
+- [Music Room](./东方梦时空-Music.md#朝仓理香子角色曲)
 
 　　　　　　朝仓理香子的主题曲  
 　　　这首曲子，虽然我自己十分中意，但是  
@@ -111,9 +94,9 @@ YM2608(OPNA)，FM86版。
 最终boss 冈崎　梦美的主题曲。  
 神秘现象狂热者的主题曲(^^;。  
 和之前的曲子感觉有些不同（的吗？）。但是，是boss啊。
-
 ### 东方怪绮谈
-- Music Room (未找到链接)
+
+- [Music Room](./东方怪绮谈-Music.md#朝仓理香子角色曲)
 
 　　朝仓 理香子的主题曲  
 　　＊８６兼容音源专用梦幻游戏　～ Dream War  
@@ -122,9 +105,9 @@ YM2608(OPNA)，FM86版。
 最终boss 冈崎　梦美的主题曲。  
 神秘现象狂热者的主题曲(^^;。  
 和之前的曲子感觉有些不同（的吗？）。但是，是boss啊。
-
 ### 东方幻想怀古曲
-- th3_09pmd.txt (未找到链接)
+
+- [th3_09pmd.txt](./东方幻想怀古曲-东方梦时空.md#梦幻游戏_～_Dream_War)
 
 +----------------------------------------------------------------------------+  
 |【 　 曲名　　】| 【 梦幻游戏　～ Dream War 】（原版）  
@@ -160,27 +143,28 @@ YM2608(OPNA)，FM86版。
 曲子的感想、请求等，这边请  
 　东方幻想空间　「博丽神社」 [http://www16.big.or.jp/~zun/](http://www16.big.or.jp/~zun/)  
 　e-Mail                     zun@big.or.jp
-
 ## 其他资料
 
 ### 乐理资讯
 
 ### 分析考据
   
- **夢幻遊戯　～Dream War** 
-  
+**夢幻遊戯 ～Dream War**  
 夢幻游戏　～Dream War
   
 
-- 梦幻
+- 梦幻 
   - 原本是冈崎梦美的主题曲
   - 本作的主题是“梦”
 
-- 游戏
+
+- 游戏 
   - 弹幕游戏
 
-- Dream War
+
+- Dream War 
   - 所有自机通过战斗争取实现梦想的机会
+
 
 
 
@@ -196,18 +180,6 @@ YM2608(OPNA)，FM86版。
 <tr><td>Arrange</td><td>27</td></tr>
 <tr><td>Vocal率</td><td>28.95%</td></tr>
 </tbody></table>
-
-
-
-
-
-  
-  
-
-  
-
-
-
 
 
 ---

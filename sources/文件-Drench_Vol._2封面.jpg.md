@@ -1,6 +1,6 @@
 # 文件:Drench_Vol._2封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0d\ns6%3ADrench_Vol%2E_2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0d\ns6%3ADrench_Vol%2E_2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Medicine_Faktory | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ Medicine_Faktory | 专辑封面 | 封面图片
   
 
 - [Drench Vol. 2](./Drench_Vol._2.md)
-
-
-
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:エカナテテbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1e\ns6%3A%E3%82%A8%E3%82%AB%E3%83%8A%E3%83%86%E3%83%86banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1e\ns6%3A%E3%82%A8%E3%82%AB%E3%83%8A%E3%83%86%E3%83%86banner%2Ejpg.html -->
 
 エカナテテ | 社团LOGO
-
-
-
-
 
 
 ---

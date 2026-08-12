@@ -1,6 +1,6 @@
 # 文件:Embrace_a_Emotion封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\67\ns6%3AEmbrace_a_Emotion%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\67\ns6%3AEmbrace_a_Emotion%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ワカサギツリ。 | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Embrace a Emotion](./Embrace_a_Emotion.md)  
-该封面包含的角色：- [水桥帕露西](./水桥帕露西.md)
-
-
-
+- [Embrace a Emotion](./Embrace_a_Emotion.md)该封面包含的角色：
+- [水桥帕露西](./水桥帕露西.md)
 
 
 ---

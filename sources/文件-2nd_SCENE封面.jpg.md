@@ -1,6 +1,6 @@
 # 文件:2nd_SCENE封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fe\ns6%3A2nd_SCENE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fe\ns6%3A2nd_SCENE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 釣師
 
@@ -8,11 +8,15 @@
 使用了本文件作封面图片的作品：
   
 
-- [2nd SCENE](./2nd_SCENE.md)  
-该封面包含的角色：- [红美铃](./红美铃.md)- [博丽灵梦](./博丽灵梦.md)- 十六夜咲夜 (未找到链接)- [风见幽香](./风见幽香.md)- [八坂神奈子](./八坂神奈子.md)- [洩矢诹访子](./洩矢诹访子.md)- [古明地恋](./古明地恋.md)- [霍青娥](./霍青娥.md)
-
-
-
+- [2nd SCENE](./2nd_SCENE.md)该封面包含的角色：
+- [红美铃](./红美铃.md)
+- [博丽灵梦](./博丽灵梦.md)
+- [十六夜咲夜](./十六夜咲夜.md)
+- [风见幽香](./风见幽香.md)
+- [八坂神奈子](./八坂神奈子.md)
+- [洩矢诹访子](./洩矢诹访子.md)
+- [古明地恋](./古明地恋.md)
+- [霍青娥](./霍青娥.md)
 
 
 ---

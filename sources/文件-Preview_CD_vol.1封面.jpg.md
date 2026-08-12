@@ -1,6 +1,6 @@
 # 文件:Preview_CD_vol.1封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7f\ns6%3APreview_CD_vol%2E1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7f\ns6%3APreview_CD_vol%2E1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Lost_Garden | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ Lost_Garden | 专辑封面 | 封面图片
   
 
 - [Preview CD vol.1](./Preview_CD_vol.1.md)
-
-
-
 
 
 ---

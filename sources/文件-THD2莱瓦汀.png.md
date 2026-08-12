@@ -1,12 +1,8 @@
 # 文件:THD2莱瓦汀.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8e\ns6%3ATHD2%E8%8E%B1%E7%93%A6%E6%B1%80%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8e\ns6%3ATHD2%E8%8E%B1%E7%93%A6%E6%B1%80%2Epng.html -->
 
 东方DOTS玩家社群
-
-
-
-
 
 
 ---

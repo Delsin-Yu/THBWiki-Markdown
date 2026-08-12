@@ -1,12 +1,8 @@
 # 文件:财祸「Pluck_Pigeon」2（凭依华）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fd\ns6%3A%E8%B4%A2%E7%A5%B8%E3%80%8CPluck_Pigeon%E3%80%8D2%EF%BC%88%E5%87%AD%E4%BE%9D%E5%8D%8E%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fd\ns6%3A%E8%B4%A2%E7%A5%B8%E3%80%8CPluck_Pigeon%E3%80%8D2%EF%BC%88%E5%87%AD%E4%BE%9D%E5%8D%8E%EF%BC%89%2Epng.html -->
 
 东方凭依华 | 依神女苑 | 依神紫苑 | 敌机符卡
-
-
-
-
 
 
 ---

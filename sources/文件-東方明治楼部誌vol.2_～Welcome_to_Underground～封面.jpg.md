@@ -1,6 +1,6 @@
 # 文件:東方明治楼部誌vol.2_～Welcome_to_Underground～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6d\ns6%3A%E6%9D%B1%E6%96%B9%E6%98%8E%E6%B2%BB%E6%A5%BC%E9%83%A8%E8%AA%8Cvol%2E2_%EF%BD%9EWelcome_to_Underground%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6d\ns6%3A%E6%9D%B1%E6%96%B9%E6%98%8E%E6%B2%BB%E6%A5%BC%E9%83%A8%E8%AA%8Cvol%2E2_%EF%BD%9EWelcome_to_Underground%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 東方明治楼
 
@@ -8,16 +8,14 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方明治楼部誌vol.2 ～Welcome to Underground～](./東方明治楼部誌vol.2_～Welcome_to_Underground～.md)  
-该封面包含的角色：- [古明地觉](./古明地觉.md)- [火焰猫燐](./火焰猫燐.md)- [灵乌路空](./灵乌路空.md)- [古明地恋](./古明地恋.md)
+- [東方明治楼部誌vol.2 ～Welcome to Underground～](./東方明治楼部誌vol.2_～Welcome_to_Underground～.md)该封面包含的角色：
+- [古明地觉](./古明地觉.md)
+- [火焰猫燐](./火焰猫燐.md)
+- [灵乌路空](./灵乌路空.md)
+- [古明地恋](./古明地恋.md)
 
   
-源地址：[[1]](https://blog-imgs-74.fc2.com/t/o/h/tohomeiji/20150509211535634.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://blog-imgs-74.fc2.com/t/o/h/tohomeiji/20150509211535634.jpg)  
 
 ---
 

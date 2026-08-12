@@ -1,6 +1,6 @@
 # 文件:Tohobu_EP_＃03_-_＠(in_reply_to...)封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\18\ns6%3ATohobu_EP_%EF%BC%8303_-_%EF%BC%A0%28in_reply_to%2E%2E%2E%29%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\18\ns6%3ATohobu_EP_%EF%BC%8303_-_%EF%BC%A0%28in_reply_to%2E%2E%2E%29%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ついったー東方部 | 专辑封面 | 封面图片
 
@@ -8,16 +8,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [Tohobu EP ＃03 - ＠(in reply to...)](./Tohobu_EP_＃03_-_＠(in_reply_to...).md)  
-该封面包含的角色：- [西行寺幽幽子](./西行寺幽幽子.md)
+- [Tohobu EP ＃03 - ＠(in reply to...)](./Tohobu_EP_＃03_-_＠(in_reply_to...%29.md)该封面包含的角色：
+- [西行寺幽幽子](./西行寺幽幽子.md)
 
   
 from TLMC scans (cropped and resized)
   
-
-
-
-
 
 ---
 

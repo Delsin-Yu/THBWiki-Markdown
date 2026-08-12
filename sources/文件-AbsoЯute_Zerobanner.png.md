@@ -1,12 +1,8 @@
 # 文件:AbsoЯute_Zerobanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\22\ns6%3AAbso%D0%AFute_Zerobanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\22\ns6%3AAbso%D0%AFute_Zerobanner%2Epng.html -->
 
 AbsoЯute_Zero | 社团LOGO
-
-
-
-
 
 
 ---

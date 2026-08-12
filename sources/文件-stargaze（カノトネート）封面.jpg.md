@@ -1,6 +1,6 @@
 # 文件:stargaze（カノトネート）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b9\ns6%3Astargaze%EF%BC%88%E3%82%AB%E3%83%8E%E3%83%88%E3%83%8D%E3%83%BC%E3%83%88%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b9\ns6%3Astargaze%EF%BC%88%E3%82%AB%E3%83%8E%E3%83%88%E3%83%8D%E3%83%BC%E3%83%88%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 カノトネート | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [stargaze（カノトネート）](./stargaze（カノトネート）.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
-
-
-
+- [stargaze（カノトネート）](./stargaze（カノトネート）.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
 
 
 ---

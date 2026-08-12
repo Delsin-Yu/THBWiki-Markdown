@@ -1,12 +1,8 @@
 # 文件:Toby对谈65.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2a\ns6%3AToby%E5%AF%B9%E8%B0%8865%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2a\ns6%3AToby%E5%AF%B9%E8%B0%8865%2Ejpg.html -->
 
 Toby对谈 | 木村祥朗
-
-
-
-
 
 
 ---

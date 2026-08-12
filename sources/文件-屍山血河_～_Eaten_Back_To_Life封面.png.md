@@ -1,6 +1,6 @@
 # 文件:屍山血河_～_Eaten_Back_To_Life封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\10\ns6%3A%E5%B1%8D%E5%B1%B1%E8%A1%80%E6%B2%B3_%EF%BD%9E_Eaten_Back_To_Life%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\10\ns6%3A%E5%B1%8D%E5%B1%B1%E8%A1%80%E6%B2%B3_%EF%BD%9E_Eaten_Back_To_Life%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Sworn_To_The_Black | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Sworn_To_The_Black | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [屍山血河 ～ Eaten Back To Life](./屍山血河_～_Eaten_Back_To_Life.md)  
-该封面包含的角色：- [饕餮尤魔](./饕餮尤魔.md)
-
-
-
+- [屍山血河 ～ Eaten Back To Life](./屍山血河_～_Eaten_Back_To_Life.md)该封面包含的角色：
+- [饕餮尤魔](./饕餮尤魔.md)
 
 
 ---

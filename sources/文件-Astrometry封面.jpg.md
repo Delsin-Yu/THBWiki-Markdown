@@ -1,6 +1,6 @@
 # 文件:Astrometry封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1c\ns6%3AAstrometry%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1c\ns6%3AAstrometry%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Ruxia | 专辑封面 | 封面图片
 
@@ -8,16 +8,12 @@ Ruxia | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Astrometry](./Astrometry.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [雾雨魔理沙](./雾雨魔理沙.md)
+- [Astrometry](./Astrometry.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-源地址：[direct image link](https://web.archive.org/web/20130919181824im_/http://blog.midnightinsomnia.com/wp-content/uploads/2011/07/astromerty.jpg), [source page](https://web.archive.org/web/20130926052321/http://blog.midnightinsomnia.com/2011/07/10/album-review-ruxia-astrometry/)
-  
-
-
-
-
+源地址：[direct image link](https://web.archive.org/web/20130919181824im_/http://blog.midnightinsomnia.com/wp-content/uploads/2011/07/astromerty.jpg), [source page](https://web.archive.org/web/20130926052321/http://blog.midnightinsomnia.com/2011/07/10/album-review-ruxia-astrometry/)  
 
 ---
 

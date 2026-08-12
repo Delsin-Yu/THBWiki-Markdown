@@ -1,12 +1,8 @@
 # 文件:RegaSound_banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9f\ns6%3ARegaSound_banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9f\ns6%3ARegaSound_banner%2Epng.html -->
 
 RegaSound | 社团LOGO
-
-
-
-
 
 
 ---

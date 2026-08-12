@@ -1,14 +1,11 @@
 # 文件:Bloody_Edgebanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\92\ns6%3ABloody_Edgebanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\92\ns6%3ABloody_Edgebanner%2Ejpg.html -->
 
 Bloody_Edge | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

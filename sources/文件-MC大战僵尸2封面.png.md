@@ -1,6 +1,6 @@
 # 文件:MC大战僵尸2封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\73\ns6%3AMC%E5%A4%A7%E6%88%98%E5%83%B5%E5%B0%B82%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\73\ns6%3AMC%E5%A4%A7%E6%88%98%E5%83%B5%E5%B0%B82%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Cuerzor58 | 封面图片 | 软件封面
 
@@ -9,11 +9,9 @@ MC大战僵尸2的封面
 使用了本文件作封面图片的作品：
   
 
-- [MC大战僵尸2](./MC大战僵尸2.md)  
-该封面包含的角色：- [多多良小伞](./多多良小伞.md)- 原创角色 (未找到链接)
-
-
-
+- [MC大战僵尸2](./MC大战僵尸2.md)该封面包含的角色：
+- [多多良小伞](./多多良小伞.md)
+- 原创角色 (未找到链接)
 
 
 ---

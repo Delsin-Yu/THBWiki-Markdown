@@ -1,6 +1,6 @@
 # 文件:The_First_Adventure（前編）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a2\ns6%3AThe_First_Adventure%EF%BC%88%E5%89%8D%E7%B7%A8%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a2\ns6%3AThe_First_Adventure%EF%BC%88%E5%89%8D%E7%B7%A8%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 黒豆屋
 
@@ -11,9 +11,6 @@
   
 
 - [The First Adventure（前編）](./The_First_Adventure（前編）.md)
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:レアよりのレアCD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\69\ns6%3A%E3%83%AC%E3%82%A2%E3%82%88%E3%82%8A%E3%81%AE%E3%83%AC%E3%82%A2CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\69\ns6%3A%E3%83%AC%E3%82%A2%E3%82%88%E3%82%8A%E3%81%AE%E3%83%AC%E3%82%A2CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Halozy | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ Halozy | 专辑封面 | 封面图片
   
 
 - [レアよりのレアCD](./レアよりのレアCD.md)
-
-
-
 
 
 ---

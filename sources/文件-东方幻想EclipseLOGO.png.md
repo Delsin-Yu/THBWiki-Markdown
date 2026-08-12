@@ -1,6 +1,6 @@
 # 文件:东方幻想EclipseLOGO.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\93\ns6%3A%E4%B8%9C%E6%96%B9%E5%B9%BB%E6%83%B3EclipseLOGO%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\93\ns6%3A%E4%B8%9C%E6%96%B9%E5%B9%BB%E6%83%B3EclipseLOGO%2Epng.html -->
 
 东方幻想Eclipse | 授权商业二次创作手机游戏
 
@@ -9,10 +9,6 @@
   
 东方幻想EclipseLOGO
   
-
-
-
-
 
 ---
 

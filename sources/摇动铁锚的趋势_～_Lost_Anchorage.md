@@ -1,36 +1,26 @@
 # 摇动铁锚的趋势_～_Lost_Anchorage
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\0d\ns0%3A%E6%91%87%E5%8A%A8%E9%93%81%E9%94%9A%E7%9A%84%E8%B6%8B%E5%8A%BF_%EF%BD%9E_Lost_Anchorage.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\0d\ns0%3A%E6%91%87%E5%8A%A8%E9%93%81%E9%94%9A%E7%9A%84%E8%B6%8B%E5%8A%BF_%EF%BD%9E_Lost_Anchorage.html -->
 
 JynX作曲 | 引用了翻译表的页面 | 摇动铁锚的趋势_～_Lost_Anchorage | 连缘Project | 连缘Project官方音乐
 
-本页是关于 **向[东方Project](./东方Project.md)  
-致敬、形式类似的作品** 的词条
-
+本页是关于**向[东方Project](./东方Project.md)致敬、形式类似的作品**  
+的词条
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 出现作品](#出现作品)
 - [3 音乐文件](#音乐文件)
-
   - [3.1 连缘无现里](#连缘无现里)
 
 
-
 - [4 说明文本](#说明文本)
-
   - [4.1 连缘无现里](#连缘无现里_2)
 
 
-
 - [5 其他资料](#其他资料)
-
   - [5.1 乐理资讯](#乐理资讯)
   - [5.2 分析考据](#分析考据)
-
-
-
-
 
 
 
@@ -59,14 +49,12 @@ JynX作曲 | 引用了翻译表的页面 | 摇动铁锚的趋势_～_Lost_Anchor
 </td></tr></tbody></table>
 
 
-
 ## 出现作品
 
 <table>
 
 <tbody><tr><td>2013年11月18日（非展会）</td><td><b><a href="./连缘无现里～Evanescent_Existence.md" title="连缘无现里～Evanescent Existence" unred="">连缘无现里</a></b></td><td>2面道中曲</td><td style="padding-left:5px;">（摇动铁锚的趋势 ～ Lost Anchorage）</td><td style="padding-left:10px;">作曲：JynX</td></tr>
 </tbody></table>
-
 
 
 ## 音乐文件
@@ -90,39 +78,39 @@ JynX作曲 | 引用了翻译表的页面 | 摇动铁锚的趋势_～_Lost_Anchor
 </td></tr></tbody></table>
 
 
-
 ## 说明文本
 
 ### 连缘无现里
-- Music Room (未找到链接)
+
+- [Music Room](./连缘无现里～Evanescent_Existence-Music.md#2面道中曲)
 
 二面道中曲。  
 在深海一样的地方飘飘荡荡地  
 寄身于时空之激流，自由浮沉。  
 是想做那样的曲子的，却成了这样。  
 虽然有点诡异的感觉，但这也挺不错的吧？
-
 ## 其他资料
 
 ### 乐理资讯
 
 ### 分析考据
   
- **錨さえ揺蕩ふ趨勢 ～ Lost Anchorage**   
+**錨さえ揺蕩ふ趨勢 ～ Lost Anchorage**  
 
 摇动铁锚的趋势 ～ Lost Anchorage
   
 
-- 摇动铁锚的趋势
+- 摇动铁锚的趋势 
   - 可理解为有抛锚停船的想法但仍犹豫不决？
 
-- Lost Anchorage
-  - anchorage
+
+- Lost Anchorage 
+  - anchorage 
     - 锚地(可理解为目的地)
 
-  - 可理解为在海上漫无目的？
-    - Jynx在曲评中提到“在深海一样的地方，寄身于时空之激流，自由浮沉。”
 
+  - 可理解为在海上漫无目的？ 
+    - Jynx在曲评中提到“在深海一样的地方，寄身于时空之激流，自由浮沉。”
 
 
 

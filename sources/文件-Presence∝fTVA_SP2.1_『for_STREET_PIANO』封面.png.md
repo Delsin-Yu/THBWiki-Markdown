@@ -1,6 +1,6 @@
 # 文件:Presence∝fTVA_SP2.1_『for_STREET_PIANO』封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\82\ns6%3APresence%E2%88%9DfTVA_SP2%2E1_%E3%80%8Efor_STREET_PIANO%E3%80%8F%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\82\ns6%3APresence%E2%88%9DfTVA_SP2%2E1_%E3%80%8Efor_STREET_PIANO%E3%80%8F%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Presence∝fTVA | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ Presence∝fTVA | 专辑封面 | 封面图片
   
 
 - [Presence∝fTVA SP2.1 『for STREET PIANO』](./Presence∝fTVA_SP2.1_『for_STREET_PIANO』.md)
-
-
-
 
 
 ---

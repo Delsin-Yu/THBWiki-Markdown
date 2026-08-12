@@ -1,6 +1,6 @@
 # 文件:Polaris（ネムリヒメ症候群）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\31\ns6%3APolaris%EF%BC%88%E3%83%8D%E3%83%A0%E3%83%AA%E3%83%92%E3%83%A1%E7%97%87%E5%80%99%E7%BE%A4%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\31\ns6%3APolaris%EF%BC%88%E3%83%8D%E3%83%A0%E3%83%AA%E3%83%92%E3%83%A1%E7%97%87%E5%80%99%E7%BE%A4%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ネムリヒメ症候群 | 同人志封面 | 封面图片
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Polaris（ネムリヒメ症候群）](./Polaris（ネムリヒメ症候群）.md)  
-该封面包含的角色：- [古明地恋](./古明地恋.md)
+- [Polaris（ネムリヒメ症候群）](./Polaris（ネムリヒメ症候群）.md)该封面包含的角色：
+- [古明地恋](./古明地恋.md)
 
   
-源地址：[Pixiv ID: 74330511](https://i.pximg.net/img-master/img/2019/04/22/21/13/14/74330511_p0_master1200.jpg)
-  
-
-
-
-
+源地址：[Pixiv ID: 74330511](https://i.pximg.net/img-master/img/2019/04/22/21/13/14/74330511_p0_master1200.jpg)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:Touhou：_Sealing_Song封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0b\ns6%3ATouhou%EF%BC%9A_Sealing_Song%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0b\ns6%3ATouhou%EF%BC%9A_Sealing_Song%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 JaCoder23 | Kalcicat | Megapig9001 | Wookywok | 封面图片 | 软件封面
 
@@ -10,16 +10,11 @@ JaCoder23 | Kalcicat | Megapig9001 | Wookywok | 封面图片 | 软件封面
 使用了本文件作封面图片的作品：
   
 
-- [Touhou： Sealing Song](./Touhou：_Sealing_Song.md)  
-该封面包含的角色：- [宇佐见莲子](./宇佐见莲子.md)
+- [Touhou： Sealing Song](./Touhou：_Sealing_Song.md)该封面包含的角色：
+- [宇佐见莲子](./宇佐见莲子.md)
 
   
-源地址：[direct image link](https://img.itch.zone/aW1nLzc1MzU2OTEucG5n/315x250#c/t8sJZr.png), [source page](https://megapig9001.itch.io/)
-  
-
-
-
-
+源地址：[direct image link](https://img.itch.zone/aW1nLzc1MzU2OTEucG5n/315x250#c/t8sJZr.png), [source page](https://megapig9001.itch.io/)  
 
 ---
 

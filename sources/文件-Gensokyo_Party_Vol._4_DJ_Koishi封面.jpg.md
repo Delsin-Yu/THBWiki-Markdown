@@ -1,6 +1,6 @@
 # 文件:Gensokyo_Party_Vol._4_DJ_Koishi封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7f\ns6%3AGensokyo_Party_Vol%2E_4_DJ_Koishi%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7f\ns6%3AGensokyo_Party_Vol%2E_4_DJ_Koishi%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 KodamaSounds | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ KodamaSounds | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Gensokyo Party Vol. 4 DJ Koishi](./Gensokyo_Party_Vol._4_DJ_Koishi.md)  
-该封面包含的角色：- [古明地恋](./古明地恋.md)
-
-
-
+- [Gensokyo Party Vol. 4 DJ Koishi](./Gensokyo_Party_Vol._4_DJ_Koishi.md)该封面包含的角色：
+- [古明地恋](./古明地恋.md)
 
 
 ---

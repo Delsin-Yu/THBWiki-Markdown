@@ -1,12 +1,8 @@
 # 文件:墨染万象logo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f1\ns6%3A%E5%A2%A8%E6%9F%93%E4%B8%87%E8%B1%A1logo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f1\ns6%3A%E5%A2%A8%E6%9F%93%E4%B8%87%E8%B1%A1logo%2Epng.html -->
 
 墨染万象 | 社团LOGO
-
-
-
-
 
 
 ---

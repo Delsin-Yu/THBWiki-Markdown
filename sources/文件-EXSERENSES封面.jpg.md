@@ -1,6 +1,6 @@
 # 文件:EXSERENSES封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4c\ns6%3AEXSERENSES%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4c\ns6%3AEXSERENSES%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Alstroemeria_Records | 专辑封面 | 封面图片
 
@@ -8,11 +8,13 @@ Alstroemeria_Records | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [EXSERENSES](./EXSERENSES.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)- [西行寺幽幽子](./西行寺幽幽子.md)- [上白泽慧音](./上白泽慧音.md)- [小野塚小町](./小野塚小町.md)- [灵乌路空](./灵乌路空.md)
-
-
-
+- [EXSERENSES](./EXSERENSES.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [西行寺幽幽子](./西行寺幽幽子.md)
+- [上白泽慧音](./上白泽慧音.md)
+- [小野塚小町](./小野塚小町.md)
+- [灵乌路空](./灵乌路空.md)
 
 
 ---

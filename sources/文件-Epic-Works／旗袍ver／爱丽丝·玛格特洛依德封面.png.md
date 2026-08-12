@@ -1,12 +1,8 @@
 # 文件:Epic-Works／旗袍ver／爱丽丝·玛格特洛依德封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\16\ns6%3AEpic-Works%EF%BC%8F%E6%97%97%E8%A2%8Dver%EF%BC%8F%E7%88%B1%E4%B8%BD%E4%B8%9D%C2%B7%E7%8E%9B%E6%A0%BC%E7%89%B9%E6%B4%9B%E4%BE%9D%E5%BE%B7%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\16\ns6%3AEpic-Works%EF%BC%8F%E6%97%97%E8%A2%8Dver%EF%BC%8F%E7%88%B1%E4%B8%BD%E4%B8%9D%C2%B7%E7%8E%9B%E6%A0%BC%E7%89%B9%E6%B4%9B%E4%BE%9D%E5%BE%B7%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 封面图片 | 没有被使用的封面文件
-
-
-
-
 
 
 ---

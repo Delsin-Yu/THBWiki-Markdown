@@ -1,6 +1,6 @@
 # 文件:ALIENATION封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d4\ns6%3AALIENATION%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d4\ns6%3AALIENATION%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Distorted_Music | 专辑封面 | 封面图片
 
@@ -10,16 +10,18 @@ Distorted_Music | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [ALIENATION](./ALIENATION.md)  
-该封面包含的角色：- [娜兹玲](./娜兹玲.md)- [多多良小伞](./多多良小伞.md)- [云居一轮](./云居一轮.md)- [村纱水蜜](./村纱水蜜.md)- [寅丸星](./寅丸星.md)- [圣白莲](./圣白莲.md)- [封兽鵺](./封兽鵺.md)
+- [ALIENATION](./ALIENATION.md)该封面包含的角色：
+- [娜兹玲](./娜兹玲.md)
+- [多多良小伞](./多多良小伞.md)
+- [云居一轮](./云居一轮.md)
+- [村纱水蜜](./村纱水蜜.md)
+- [寅丸星](./寅丸星.md)
+- [圣白莲](./圣白莲.md)
+- [封兽鵺](./封兽鵺.md)
 
   
 included in download
   
-
-
-
-
 
 ---
 

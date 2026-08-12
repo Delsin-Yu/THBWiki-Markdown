@@ -1,6 +1,6 @@
 # 神魔討綺伝_～_Magus_in_Mystic_Geometries./杂项
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\62\ns0%3A%E7%A5%9E%E9%AD%94%E8%A8%8E%E7%B6%BA%E4%BC%9D_%EF%BD%9E_Magus_in_Mystic_Geometries%2E%2F%E6%9D%82%E9%A1%B9.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\62\ns0%3A%E7%A5%9E%E9%AD%94%E8%A8%8E%E7%B6%BA%E4%BC%9D_%EF%BD%9E_Magus_in_Mystic_Geometries%2E%2F%E6%9D%82%E9%A1%B9.html -->
 
 D.N.A.Softwares
 
@@ -28,7 +28,7 @@ D.N.A.Softwares
 <tr>
 <th>2
 </th>
-<td><a href="/index.php?title=%E7%A5%9E%E9%AD%94%E8%A8%8E%E7%B6%BA%E4%BC%9D_BGM1&amp;action=edit&amp;redlink=1" class="new" title="神魔討綺伝 BGM1（页面不存在）">神魔討綺伝 BGM1</a></td>
+<td><a class="new" title="神魔討綺伝 BGM1（页面不存在）">神魔討綺伝 BGM1</a></td>
 <td>神魔讨绮传 BGM1</td>
 <td>第一、三、六关主题曲
 </td>
@@ -37,7 +37,7 @@ D.N.A.Softwares
 <tr>
 <th>3
 </th>
-<td><a href="/index.php?title=%E7%A5%9E%E9%AD%94%E8%A8%8E%E7%B6%BA%E4%BC%9D_BGM2&amp;action=edit&amp;redlink=1" class="new" title="神魔討綺伝 BGM2（页面不存在）">神魔討綺伝 BGM2</a></td>
+<td><a class="new" title="神魔討綺伝 BGM2（页面不存在）">神魔討綺伝 BGM2</a></td>
 <td>神魔讨绮传 BGM2</td>
 <td>第二、四关主题曲
 </td>
@@ -53,14 +53,9 @@ D.N.A.Softwares
 <td>神绮的主题曲，原创
 </td></tr></tbody></table>
 
-
   
 标题画面曲由社团[吞兵卫会](./吞兵卫会.md)创作，[神绮](./神绮.md)主题曲由[ZUN](./ZUN.md)本人创作，其他曲目的作者是[羽鸟风画](./羽鳥風画.md)。
   
-
-
-
-
 
 ---
 

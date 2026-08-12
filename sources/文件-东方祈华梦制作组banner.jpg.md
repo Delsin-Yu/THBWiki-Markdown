@@ -1,14 +1,11 @@
 # 文件:东方祈华梦制作组banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ee\ns6%3A%E4%B8%9C%E6%96%B9%E7%A5%88%E5%8D%8E%E6%A2%A6%E5%88%B6%E4%BD%9C%E7%BB%84banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ee\ns6%3A%E4%B8%9C%E6%96%B9%E7%A5%88%E5%8D%8E%E6%A2%A6%E5%88%B6%E4%BD%9C%E7%BB%84banner%2Ejpg.html -->
 
 东方祈华梦制作组 | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

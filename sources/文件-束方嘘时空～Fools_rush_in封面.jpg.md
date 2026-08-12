@@ -1,6 +1,6 @@
 # 文件:束方嘘时空～Fools_rush_in封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0b\ns6%3A%E6%9D%9F%E6%96%B9%E5%98%98%E6%97%B6%E7%A9%BA%EF%BD%9EFools_rush_in%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0b\ns6%3A%E6%9D%9F%E6%96%B9%E5%98%98%E6%97%B6%E7%A9%BA%EF%BD%9EFools_rush_in%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 トリック・ノスタルジー | 封面图片 | 软件封面
 
@@ -10,9 +10,6 @@
   
 
 - [束方嘘时空～Fools rush in](./束方嘘时空～Fools_rush_in.md)
-
-
-
 
 
 ---

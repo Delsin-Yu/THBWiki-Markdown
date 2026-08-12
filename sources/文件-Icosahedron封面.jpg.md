@@ -1,6 +1,6 @@
 # 文件:Icosahedron封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3d\ns6%3AIcosahedron%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3d\ns6%3AIcosahedron%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Momopoly | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@ Momopoly | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Icosahedron](./Icosahedron.md)  
-该封面包含的角色：- [姬海棠果](./姬海棠果.md)
+- [Icosahedron](./Icosahedron.md)该封面包含的角色：
+- [姬海棠果](./姬海棠果.md)
 
   
-源地址：[direct image link (no original quality version available)](https://i1.sndcdn.com/artworks-000010244624-wyggix-t500x500.jpg), [source page](https://soundcloud.com/momo_nga/momopoly_icosahedron_xfade)
-  
-
-
-
-
+源地址：[direct image link (no original quality version available)](https://i1.sndcdn.com/artworks-000010244624-wyggix-t500x500.jpg), [source page](https://soundcloud.com/momo_nga/momopoly_icosahedron_xfade)  
 
 ---
 

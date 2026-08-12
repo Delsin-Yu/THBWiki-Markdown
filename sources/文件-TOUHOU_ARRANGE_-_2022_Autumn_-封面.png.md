@@ -1,6 +1,6 @@
 # 文件:TOUHOU_ARRANGE_-_2022_Autumn_-封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\24\ns6%3ATOUHOU_ARRANGE_-_2022_Autumn_-%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\24\ns6%3ATOUHOU_ARRANGE_-_2022_Autumn_-%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Syo-_Time_Music | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Syo-_Time_Music | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [TOUHOU ARRANGE - 2022 Autumn -](./TOUHOU_ARRANGE_-_2022_Autumn_-.md)  
-该封面包含的角色：- [犬走椛](./犬走椛.md)
-
-
-
+- [TOUHOU ARRANGE - 2022 Autumn -](./TOUHOU_ARRANGE_-_2022_Autumn_-.md)该封面包含的角色：
+- [犬走椛](./犬走椛.md)
 
 
 ---

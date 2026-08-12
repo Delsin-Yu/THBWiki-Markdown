@@ -1,12 +1,8 @@
 # 文件:MPP_Riko_Toone.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5d\ns6%3AMPP_Riko_Toone%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5d\ns6%3AMPP_Riko_Toone%2Epng.html -->
 
 二次角色立绘 | 東方導命樹製作チーム | 远音莉可
-
-
-
-
 
 
 ---

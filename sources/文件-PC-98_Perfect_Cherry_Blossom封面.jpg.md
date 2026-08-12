@@ -1,6 +1,6 @@
 # 文件:PC-98_Perfect_Cherry_Blossom封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fd\ns6%3APC-98_Perfect_Cherry_Blossom%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fd\ns6%3APC-98_Perfect_Cherry_Blossom%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 HertzDevil | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ HertzDevil | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [PC-98 Perfect Cherry Blossom](./PC-98_Perfect_Cherry_Blossom.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
+- [PC-98 Perfect Cherry Blossom](./PC-98_Perfect_Cherry_Blossom.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
   
-源地址：[[1]](https://f4.bcbits.com/img/a2994222215_10.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://f4.bcbits.com/img/a2994222215_10.jpg)  
 
 ---
 

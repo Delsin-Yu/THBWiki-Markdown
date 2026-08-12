@@ -1,18 +1,13 @@
 # 文件:L-ZONElogo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b6\ns6%3AL-ZONElogo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b6\ns6%3AL-ZONElogo%2Epng.html -->
 
 L-ZONE | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[[1]](http://heiwasou.info/l-zone/images/l-zone_logo.png)
-  
-
-
-
-
+源地址：[\[1\]](http://heiwasou.info/l-zone/images/l-zone_logo.png)  
 
 ---
 

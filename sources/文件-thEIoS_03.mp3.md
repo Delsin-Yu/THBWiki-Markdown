@@ -1,14 +1,11 @@
 # 文件:thEIoS_03.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\89\ns6%3AthEIoS_03%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\89\ns6%3AthEIoS_03%2Emp3.html -->
 
 东方祈华梦制作组 | 辉夜的指引
 
 
 ## 文件说明
-
-
-
 
 ---
 

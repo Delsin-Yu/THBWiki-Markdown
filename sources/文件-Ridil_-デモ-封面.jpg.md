@@ -1,6 +1,6 @@
 # 文件:Ridil_-デモ-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\90\ns6%3ARidil_-%E3%83%87%E3%83%A2-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\90\ns6%3ARidil_-%E3%83%87%E3%83%A2-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Ridil | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Ridil | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Ridil -デモ-](./Ridil_-デモ-.md)  
-该封面包含的角色：- [比那名居天子](./比那名居天子.md)
-
-
-
+- [Ridil -デモ-](./Ridil_-デモ-.md)该封面包含的角色：
+- [比那名居天子](./比那名居天子.md)
 
 
 ---

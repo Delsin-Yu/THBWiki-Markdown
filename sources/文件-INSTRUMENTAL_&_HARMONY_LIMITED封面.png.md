@@ -1,6 +1,6 @@
 # 文件:INSTRUMENTAL_&_HARMONY_LIMITED封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\99\ns6%3AINSTRUMENTAL_%26_HARMONY_LIMITED%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\99\ns6%3AINSTRUMENTAL_%26_HARMONY_LIMITED%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Alstroemeria_Records | DiGiTAL_WiNG | 专辑封面 | 封面图片
 
@@ -10,10 +10,7 @@ Alstroemeria_Records | DiGiTAL_WiNG | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [INSTRUMENTAL &amp; HARMONY LIMITED](./INSTRUMENTAL_&_HARMONY_LIMITED.md)
-
-
-
+- [INSTRUMENTAL & HARMONY LIMITED](./INSTRUMENTAL_&_HARMONY_LIMITED.md)
 
 
 ---

@@ -1,16 +1,12 @@
 # 模板:IOSYS忘年会
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\2\2f\ns10%3AIOSYS%E5%BF%98%E5%B9%B4%E4%BC%9A.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\2\2f\ns10%3AIOSYS%E5%BF%98%E5%B9%B4%E4%BC%9A.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

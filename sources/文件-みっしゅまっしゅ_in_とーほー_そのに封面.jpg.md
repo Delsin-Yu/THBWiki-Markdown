@@ -1,6 +1,6 @@
 # 文件:みっしゅまっしゅ_in_とーほー_そのに封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\58\ns6%3A%E3%81%BF%E3%81%A3%E3%81%97%E3%82%85%E3%81%BE%E3%81%A3%E3%81%97%E3%82%85_in_%E3%81%A8%E3%83%BC%E3%81%BB%E3%83%BC_%E3%81%9D%E3%81%AE%E3%81%AB%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\58\ns6%3A%E3%81%BF%E3%81%A3%E3%81%97%E3%82%85%E3%81%BE%E3%81%A3%E3%81%97%E3%82%85_in_%E3%81%A8%E3%83%BC%E3%81%BB%E3%83%BC_%E3%81%9D%E3%81%AE%E3%81%AB%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ますたんぴーす | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [みっしゅまっしゅ in とーほー そのに](./みっしゅまっしゅ_in_とーほー_そのに.md)  
-该封面包含的角色：- [犬走椛](./犬走椛.md)
-
-
-
+- [みっしゅまっしゅ in とーほー そのに](./みっしゅまっしゅ_in_とーほー_そのに.md)该封面包含的角色：
+- [犬走椛](./犬走椛.md)
 
 
 ---

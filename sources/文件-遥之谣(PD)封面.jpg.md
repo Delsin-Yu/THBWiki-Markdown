@@ -1,6 +1,6 @@
 # 文件:遥之谣(PD)封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fe\ns6%3A%E9%81%A5%E4%B9%8B%E8%B0%A3%28PD%29%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fe\ns6%3A%E9%81%A5%E4%B9%8B%E8%B0%A3%28PD%29%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 NFT_conFuoco_orchestra | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ NFT_conFuoco_orchestra | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [遥之谣(PD)](./遥之谣(PD).md)  
-该封面包含的角色：- [本居小铃](./本居小铃.md)- [稗田阿求](./稗田阿求.md)
-
-
-
+- [遥之谣(PD)](./遥之谣(PD%29.md)该封面包含的角色：
+- [本居小铃](./本居小铃.md)
+- [稗田阿求](./稗田阿求.md)
 
 
 ---

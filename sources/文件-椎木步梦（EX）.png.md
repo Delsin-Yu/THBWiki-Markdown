@@ -1,14 +1,11 @@
 # 文件:椎木步梦（EX）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7c\ns6%3A%E6%A4%8E%E6%9C%A8%E6%AD%A5%E6%A2%A6%EF%BC%88EX%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7c\ns6%3A%E6%A4%8E%E6%9C%A8%E6%AD%A5%E6%A2%A6%EF%BC%88EX%EF%BC%89%2Epng.html -->
 
 まりもmarimoチャンネル | 二次角色立绘 | 椎木步梦
 
 
 ## 文件说明
-
-
-
 
 ---
 

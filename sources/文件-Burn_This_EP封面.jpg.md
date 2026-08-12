@@ -1,6 +1,6 @@
 # 文件:Burn_This_EP封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fa\ns6%3ABurn_This_EP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fa\ns6%3ABurn_This_EP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 IZMIZM | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ IZMIZM | 专辑封面 | 封面图片
   
 
 - [Burn This EP](./Burn_This_EP.md)
-
-
-
 
 
 ---

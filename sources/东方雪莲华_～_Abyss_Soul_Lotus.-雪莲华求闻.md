@@ -1,6 +1,6 @@
 # 东方雪莲华_～_Abyss_Soul_Lotus./雪莲华求闻
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\e\ec\ns0%3A%E4%B8%9C%E6%96%B9%E9%9B%AA%E8%8E%B2%E5%8D%8E_%EF%BD%9E_Abyss_Soul_Lotus%2E%2F%E9%9B%AA%E8%8E%B2%E5%8D%8E%E6%B1%82%E9%97%BB.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\e\ec\ns0%3A%E4%B8%9C%E6%96%B9%E9%9B%AA%E8%8E%B2%E5%8D%8E_%EF%BD%9E_Abyss_Soul_Lotus%2E%2F%E9%9B%AA%E8%8E%B2%E5%8D%8E%E6%B1%82%E9%97%BB.html -->
 
 雨夜枫雪制作组
 
@@ -8,36 +8,27 @@
 ## 目录
 
 - [1 雪莲华求闻](#雪莲华求闻)
-
   - [1.1 序](#序)
   - [1.2 图鉴1 雪珂](#图鉴1_雪珂)
   - [1.3 图鉴2 暗华美夜香](#图鉴2_暗华美夜香)
   - [1.4 图鉴3 莉帕斯·缇米蒂丝·白雪](#图鉴3_莉帕斯·缇米蒂丝·白雪)
-  - [1.5 图鉴4 荼靡结音&amp;墨樱初月](#图鉴4_荼靡结音&amp;墨樱初月)
+  - [1.5 图鉴4 荼靡结音&墨樱初月](#图鉴4_荼靡结音&墨樱初月)
   - [1.6 图鉴5 万光绘照](#图鉴5_万光绘照)
   - [1.7 图鉴6 妙严宫雪华](#图鉴6_妙严宫雪华)
   - [1.8 图鉴7 蚀神星罗](#图鉴7_蚀神星罗)
-
 
 
 - [2 注释](#注释)
 - [3 词条导航](#词条导航)
 
 
-
-
-
 ## 雪莲华求闻
 
 ### 序
   
- **<big><big>【序】</big></big>** 
-  
-
-
+**<big><big>【序】</big></big>**  
   
 这是关于幻想乡内与幻想乡外，种种奇异存在的新记录。  
-
   
 
 回想起那场席卷幻想乡全境的寒流，想必有不少人还记忆犹新。  
@@ -47,7 +38,6 @@
 但我通过多方了解，得知了一个令人背脊发凉的事实：  
 
 这差点成为幻想乡最后一个冬天。  
-
   
 
 虽然那场寒流已经过去，村子恢复了往日的平和。  
@@ -59,31 +49,21 @@
 也许从我们的角度上看，她们远在天边；  
 
 但在她们的角度上看，我们却近在眼前。  
-
   
 
 第九代阿礼少女　稗田阿求
   
 
-
-
 ### 图鉴1 雪珂
-[](./文件-雪珂.png.md)  [](./文件-雪珂.png.md)雪珂
-  
- **<big>雪花的妖精</big>**   
-
- **<big><big>雪珂 Shekle</big></big>** 
-  
-
+<img alt="" src="https://upload.thwiki.cc/thumb/1/17/%E9%9B%AA%E7%8F%82.png/200px-%E9%9B%AA%E7%8F%82.png" decoding="async" loading="lazy" width="200" height="310" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/1/17/%E9%9B%AA%E7%8F%82.png/300px-%E9%9B%AA%E7%8F%82.png 1.5x, https://upload.thwiki.cc/thumb/1/17/%E9%9B%AA%E7%8F%82.png/400px-%E9%9B%AA%E7%8F%82.png 2x" data-file-width="2326" data-file-height="3600">
+ [放大](./文件-雪珂.png.md)雪珂  
+**<big>雪花的妖精</big>**  
+**<big><big>雪珂 Shekle</big></big>**  
 
 <table><tbody><tr><td width="120px"><b>能力</b></td><td width="320px">抛洒雪花程度的能力</td></tr><tr><td width="120px"><b>危险度</b></td><td width="320px">低</td></tr><tr><td width="120px"><b>人类友好度</b></td><td width="320px">普通</td></tr><tr><td width="120px"><b>主要活动场所</b></td><td width="320px">雾之湖</td></tr></tbody></table>
 
-
   
- **<big>介绍</big>** 
-  
-
-
+**<big>介绍</big>**  
   
 大部分妖精会在冬天蛰伏，不过也有一些妖精反而在冬天变得活跃，她就是这类妖精的代表。  
 
@@ -99,13 +79,8 @@
 
 虽然在雾之湖活动，不过具体住处无人知晓，因为所有妖精都能溶入大自然之中，人类是看不见的。
   
-
-
   
- **<big>“冰雪女王”</big>** 
-  
-
-
+**<big>“冰雪女王”</big>**  
   
 最近她到处宣扬，在寒流席卷幻想乡的异变中，是她一夜之间冰冻了雾之湖。  
 
@@ -123,13 +98,8 @@
 
 如果属实，我倒希望能亲眼见一见。
   
-
-
   
- **<big>对策</big>** 
-  
-
-
+**<big>对策</big>**  
   
 春、夏、秋三季几乎完全不必在意，只会感到些许凉意而已。  
 
@@ -145,16 +115,10 @@
 
 某种意义上，比冰之妖精更好对付。
   
-
-
   
- **<big>简评</big>** 
-  
-
-
+**<big>简评</big>**  
   
 画师简评：  
-
   
 
 雪珂设计的初衷是像夏夜祭的古灵灵一样，画出四季系列独有的妖精来。  
@@ -164,11 +128,9 @@
 雪珂是一面的妖精，傻乎乎天真的性格，活在自己童话世界里。  
 
 玩家们遇到的话可要小心，她可是对这场游戏期待已久了233  
-
   
 
 乐师简评：  
-
   
 
 妖精曲=毒曲，一种粗暴但有用的理解。  
@@ -181,22 +143,15 @@
 
 裸足萝莉，我爱了。
   
-
-
   
- **<big>符卡</big>** 
-  
-
-
+**<big>符卡</big>**  
   
 【符卡01】  
-
   
 
 冰符「寒冰落穴」  
 
 使用者：雪珂  
-
   
 
 一旦踏上就会陷下去的落穴陷阱。  
@@ -204,17 +159,14 @@
 妖精的陷阱只会让你掉下去，然后淋一身水。  
 
 但极地雪山中的冰缝，却会吞噬无数的性命。  
-
   
 
 【符卡02】  
-
   
 
 冰环「冰霜新星」  
 
 使用者：雪珂  
-
   
 
 呈环状向外扩散的雪球，宛如绽放的新星。  
@@ -222,17 +174,14 @@
 具备大范围冻结的效果，请做好保暖措施。  
 
 伙计，这会冻死你的，我是说真的。  
-
   
 
 【符卡03】  
-
   
 
 雪符「风起雪花之舞」  
 
 使用者：雪珂  
-
   
 
 洒下片片冰花，这是雪花妖精最拿手的本领。  
@@ -240,7 +189,6 @@
 有人说，那是空中撒盐；有人说，那是纷纷柳絮。  
 
 对于妖精来说，两个比喻都不错，都很难躲。  
-
   
 
 【符卡04】  
@@ -248,7 +196,6 @@
 冰砾「破碎的冰弹」  
 
 使用者：雪珂  
-
   
 
 把冰块抛向周围，砸出无数碎片。  
@@ -258,25 +205,16 @@
 好孩子可千万不要模仿这种行为。
   
 
-
-
 ### 图鉴2 暗华美夜香
-[](./文件-暗华美夜香.png.md)  [](./文件-暗华美夜香.png.md)暗华美夜香
-  
- **<big>来自地狱的尖兵</big>**   
-
- **<big><big>暗华 美夜香 Yamika Miyaka</big></big>** 
-  
-
+<img alt="" src="https://upload.thwiki.cc/thumb/b/b7/%E6%9A%97%E5%8D%8E%E7%BE%8E%E5%A4%9C%E9%A6%99.png/250px-%E6%9A%97%E5%8D%8E%E7%BE%8E%E5%A4%9C%E9%A6%99.png" decoding="async" loading="lazy" width="250" height="354" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/b/b7/%E6%9A%97%E5%8D%8E%E7%BE%8E%E5%A4%9C%E9%A6%99.png/375px-%E6%9A%97%E5%8D%8E%E7%BE%8E%E5%A4%9C%E9%A6%99.png 1.5x, https://upload.thwiki.cc/thumb/b/b7/%E6%9A%97%E5%8D%8E%E7%BE%8E%E5%A4%9C%E9%A6%99.png/500px-%E6%9A%97%E5%8D%8E%E7%BE%8E%E5%A4%9C%E9%A6%99.png 2x" data-file-width="1280" data-file-height="1810">
+ [放大](./文件-暗华美夜香.png.md)暗华美夜香  
+**<big>来自地狱的尖兵</big>**  
+**<big><big>暗华 美夜香 Yamika Miyaka</big></big>**  
 
 <table><tbody><tr><td width="120px"><b>能力</b></td><td width="320px">快速飞行程度的能力</td></tr><tr><td width="120px"><b>危险度</b></td><td width="320px">极高（与其他天夜叉一起时）、低（单独时）</td></tr><tr><td width="120px"><b>人类友好度</b></td><td width="320px">普通</td></tr><tr><td width="120px"><b>主要活动场所</b></td><td width="320px">八寒地狱、中有之道</td></tr></tbody></table>
 
-
   
- **<big>介绍</big>** 
-  
-
-
+**<big>介绍</big>**  
   
 在遥远的过去，名为“夜叉”的生灵遍布各处，上天入海无所不至。  
 
@@ -294,13 +232,8 @@
 
 她拿在手上的钢叉，时常有鲜血滴下，这究竟是和死神镰刀同一性质的装饰，还是因为别的什么原因呢？
   
-
-
   
- **<big>“地狱尖兵”</big>** 
-  
-
-
+**<big>“地狱尖兵”</big>**  
   
 据说夜叉的诞生与神明有极大的关系，也正因如此，她们成为了十分特殊的妖怪。  
 
@@ -318,13 +251,8 @@
 
 灵梦说她在异变中不断被天夜叉围追堵截，或许既是她们职业素养使然，也是工作境遇所迫吧？
   
-
-
   
- **<big>对策</big>** 
-  
-
-
+**<big>对策</big>**  
   
 天夜叉主要在地狱活动，所以幻想乡的人类很难见到她们，只有零星的目击记录。  
 
@@ -342,26 +270,18 @@
 
 享受服务之余，不要忘了给个好评。平日凶神恶煞的天夜叉小姐，收获赞美时总是喜笑颜开的。
   
-
-
   
- **<big>简评</big>** 
-  
-
-
+**<big>简评</big>**  
   
 画师简评：  
-
   
 
 夜叉是很早期设计的角色，按北老板要求是比较酷酷的姐姐。  
 
 整体设计元素比较简洁，感觉会有地狱打工人的气氛？  
-
   
 
 乐师简评：  
-
   
 
 应该是唯一一首经过重制大改的曲子。  
@@ -374,22 +294,15 @@
 
 符卡好帅。
   
-
-
   
- **<big>符卡</big>** 
-  
-
-
+**<big>符卡</big>**  
   
 【符卡01】  
-
   
 
 飞空「空行净土」  
 
 使用者：暗华美夜香  
-
   
 
 “空行母”[^cite_note-1]生于虚空，在天穹上自由翱翔。  
@@ -397,17 +310,14 @@
 她们有时是骑狐的美丽天女，有时又是嗜血的夜叉恶鬼。  
 
 天夜叉将那凶恶面展现得淋漓尽致：如疾风般横扫天地。  
-
   
 
 【符卡02】  
-
   
 
 怒枪「洒向乐土的血雨」  
 
 使用者：暗华美夜香  
-
   
 
 那疾风骤雨般洒落的鲜血，将雪原浸染。  
@@ -415,17 +325,14 @@
 洁白大地上尽是绯红，宛如被腥风血雨侵蚀的乐土。  
 
 能够无尽滴血的钢叉，其原理尚属未知。  
-
   
 
 【符卡03】  
-
   
 
 空符「空行者美夜香」  
 
 使用者：暗华美夜香  
-
   
 
 相比挥舞光剑、翱翔天空的“天行者”[^cite_note-2]。  
@@ -433,17 +340,14 @@
 美夜香这位“空行者”就显得普通多了。  
 
 她漫步于空中，掷出切碎敌人的利刃。  
-
   
 
 【符卡04】  
-
   
 
 必至「天夜叉绝杀」  
 
 使用者：暗华美夜香  
-
   
 
 对于地狱而言，夜叉部队只是方便调动的棋子。  
@@ -451,17 +355,14 @@
 若能升变为天神……这也只是普通棋子的妄想。  
 
 但即便是走卒，也有在关键时刻达成一击必杀的可能。  
-
   
 
 【符卡05】  
-
   
 
 神将「赤色頞尔罗」  
 
 使用者：暗华美夜香  
-
   
 
 在药师如来座下，伫立着十二位夜叉强者。  
@@ -469,17 +370,14 @@
 即便是居于末席的頞尔罗，也绝非普通人可以企及。  
 
 冥府的夜叉若穿上圣衣[^cite_note-3]，说不定也能达到那种高度？  
-
   
 
 【符卡06】  
-
   
 
 炎符「大耀斑炎枪」  
 
 使用者：暗华美夜香  
-
   
 
 令血液燃烧沸腾的炎之流法！  
@@ -489,25 +387,16 @@
 宛若小型的太阳爆发，烧尽被笼罩之敌。
   
 
-
-
 ### 图鉴3 莉帕斯·缇米蒂丝·白雪
-[](./文件-莉帕斯·缇米蒂丝·白雪.png.md)  [](./文件-莉帕斯·缇米蒂丝·白雪.png.md)莉帕斯·缇米蒂丝·白雪
-  
- **<big>雪兔怪盗</big>**   
-
- **<big><big>莉帕斯·缇米蒂丝·白雪 Lepus Timidys Snowy</big></big>** 
-  
-
+<img alt="" src="https://upload.thwiki.cc/thumb/0/09/%E8%8E%89%E5%B8%95%E6%96%AF%C2%B7%E7%BC%87%E7%B1%B3%E8%92%82%E4%B8%9D%C2%B7%E7%99%BD%E9%9B%AA.png/250px-%E8%8E%89%E5%B8%95%E6%96%AF%C2%B7%E7%BC%87%E7%B1%B3%E8%92%82%E4%B8%9D%C2%B7%E7%99%BD%E9%9B%AA.png" decoding="async" loading="lazy" width="250" height="354" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/0/09/%E8%8E%89%E5%B8%95%E6%96%AF%C2%B7%E7%BC%87%E7%B1%B3%E8%92%82%E4%B8%9D%C2%B7%E7%99%BD%E9%9B%AA.png/375px-%E8%8E%89%E5%B8%95%E6%96%AF%C2%B7%E7%BC%87%E7%B1%B3%E8%92%82%E4%B8%9D%C2%B7%E7%99%BD%E9%9B%AA.png 1.5x, https://upload.thwiki.cc/thumb/0/09/%E8%8E%89%E5%B8%95%E6%96%AF%C2%B7%E7%BC%87%E7%B1%B3%E8%92%82%E4%B8%9D%C2%B7%E7%99%BD%E9%9B%AA.png/500px-%E8%8E%89%E5%B8%95%E6%96%AF%C2%B7%E7%BC%87%E7%B1%B3%E8%92%82%E4%B8%9D%C2%B7%E7%99%BD%E9%9B%AA.png 2x" data-file-width="3507" data-file-height="4960">
+ [放大](./文件-莉帕斯·缇米蒂丝·白雪.png.md)莉帕斯·缇米蒂丝·白雪  
+**<big>雪兔怪盗</big>**  
+**<big><big>莉帕斯·缇米蒂丝·白雪 Lepus Timidys Snowy</big></big>**  
 
 <table><tbody><tr><td width="120px"><b>能力</b></td><td width="320px">盗取道具程度的能力</td></tr><tr><td width="120px"><b>危险度</b></td><td width="320px">低</td></tr><tr><td width="120px"><b>人类友好度</b></td><td width="320px">高</td></tr><tr><td width="120px"><b>主要活动场所</b></td><td width="320px">人类村落、幻想乡中各条道路</td></tr></tbody></table>
 
-
   
- **<big>介绍</big>** 
-  
-
-
+**<big>介绍</big>**  
   
 不仅妖精有季节性，妖怪们也会根据季节调整作息，天气转冷后不少妖怪会选择冬眠。  
 
@@ -527,13 +416,8 @@
 
 没有人知道这只妖怪雪兔的家在哪儿，恐怕幻想乡任何一个角落都可能是她的巢穴。
   
-
-
   
- **<big>“怪盗白雪”</big>** 
-  
-
-
+**<big>“怪盗白雪”</big>**  
   
 感官灵敏且手脚灵活、擅长伪装，一般来说这是胆小妖怪的特征，这些能力都是为了从别人那里逃离。  
 
@@ -557,13 +441,8 @@
 
 不过，“不在乎世俗的看法”，这也在“怪盗戒律”之内。
   
-
-
   
- **<big>对策</big>** 
-  
-
-
+**<big>对策</big>**  
   
 喜好偷盗的癖性，让她成为了十分麻烦的妖怪。  
 
@@ -583,16 +462,10 @@
 
 另外，她有时会把玩腻的道具丢给香霖堂，所以那里也算是一个寻回物件的渠道。
   
-
-
   
- **<big>简评</big>** 
-  
-
-
+**<big>简评</big>**  
   
 画师简评：  
-
   
 
 雪兔大概算是我在雪莲华里的第一个亲女儿吧。  
@@ -604,11 +477,9 @@
 这应该是让一位老父亲最为感动的地方了吧。  
 
 果然在可爱面前，什么设计理论都可以往后稍稍了。  
-
   
 
 乐师简评：  
-
   
 
 老婆。  
@@ -623,22 +494,15 @@
 
 好想把白雪小姐绑回家……嘿嘿嘿（
   
-
-
   
- **<big>符卡</big>** 
-  
-
-
+**<big>符卡</big>**  
   
 【符卡01】  
-
   
 
 雪隐「白色伪装」  
 
 使用者：莉帕斯·缇米蒂丝·白雪  
-
   
 
 进入冬季，雪兔受气候影响，会换上洁白的绒毛。  
@@ -646,17 +510,14 @@
 那是大自然赋予的保护色，让她化作雪原的幽灵。  
 
 而令人失去视力，算是“白色”的另一种妙用吧。  
-
   
 
 【符卡02】  
-
   
 
 梅印「盗窃宣告」  
 
 使用者：莉帕斯·缇米蒂丝·白雪  
-
   
 
 小巧的身影穿行于雪地，留下一串形如梅花的足迹。  
@@ -664,17 +525,14 @@
 若是在身边看到这种梅花印记，请千万要多加留意。  
 
 那个绝对不失手的怪盗，是想从你这里偷走什么吧？  
-
   
 
 【符卡03】  
-
   
 
 雪兔兵器「胡萝卜型伪装炸弹」  
 
 使用者：莉帕斯·缇米蒂丝·白雪  
-
   
 
 看起来像是胡萝卜，其实是一触即发的炸弹。  
@@ -682,17 +540,14 @@
 把武器做成这样，也许是兔子们共通的趣味？  
 
 毕竟胡萝卜的形状，既像弹头，又像推进器。  
-
   
 
 【符卡04】  
-
   
 
 雪兔兵器「C40H56诱导飞弹」  
 
 使用者：莉帕斯·缇米蒂丝·白雪  
-
   
 
 世界上不缺各种稀奇古怪的武器代号。  
@@ -700,17 +555,14 @@
 用β-胡萝卜素给武器命名，是不是蕴含着满满爱意呢？  
 
 为您的身体健康，投下一枚营养炸弹☆  
-
   
 
 【符卡05】  
-
   
 
 盗符「蓝点盗窃者」  
 
 使用者：莉帕斯·缇米蒂丝·白雪  
-
   
 
 远程遥控的手套，能潜到近处套走值钱的东西。  
@@ -718,17 +570,14 @@
 雪兔用它挑拣战利品，寻找真正的“宝物”。  
 
 在她眼中，“蓝点”究竟值钱还是不值钱呢？  
-
   
 
 【符卡06】  
-
   
 
 盗符「三亿蓝点盗窃者」  
 
 使用者：莉帕斯·缇米蒂丝·白雪  
-
   
 
 一次盗走三亿，且不露破绽的惊天盗窃案。  
@@ -736,17 +585,14 @@
 要实现这场完美犯罪，需要极其精巧的设计。  
 
 而孤身一人盗走这么大数额的分值，更是奇迹。  
-
   
 
 【符卡07】  
-
   
 
 兔符「疯狂三月兔」  
 
 使用者：莉帕斯·缇米蒂丝·白雪  
-
   
 
 春光明媚的三月，让雪兔们都兴奋了起来。  
@@ -754,17 +600,14 @@
 兔群向一个方向迁徙，漫山遍野，蔚为壮观。  
 
 雪兔沾染的狂气，来自三月春光过剩的生命力。  
-
   
 
 【符卡08】  
-
   
 
 「怪盗·白雪」  
 
 使用者：莉帕斯·缇米蒂丝·白雪  
-
   
 
 游走在“正”与“邪”之间的独特存在，怪盗。  
@@ -772,17 +615,14 @@
 使用枪械和纸牌的怪盗、使用魔术和戏法的怪盗。  
 
 论手法新奇，都比不上使用魔法和机械的雪兔怪盗。  
-
   
 
 【符卡09】  
-
   
 
 齐射「野兔女武神」  
 
 使用者：莉帕斯·缇米蒂丝·白雪  
-
   
 
 瞄准目标，全弹发射！  
@@ -790,17 +630,14 @@
 在女武神永不止歇的歌声中。  
 
 和飞弹共舞，来表演马戏吧！  
-
   
 
 【符卡10】  
-
   
 
 兔兔「闪耀兔踢」  
 
 使用者：莉帕斯·缇米蒂丝·白雪  
-
   
 
 你以为是单纯的蛮力？  
@@ -808,17 +645,14 @@
 NONONO，这是智慧的结晶！  
 
 天才兔兔，势不可挡！  
-
   
 
 【符卡11】  
-
   
 
 「梅印雪痕：兔之扑克试炼」  
 
 使用者：莉帕斯·缇米蒂丝·白雪  
-
   
 
 在梅印纸牌的迷阵中。  
@@ -828,36 +662,23 @@ NONONO，这是智慧的结晶！
 怪盗白雪参上~☆
   
 
-
-
-### 图鉴4 荼靡结音&amp;墨樱初月
-[](./文件-荼靡结音.png.md)  [](./文件-荼靡结音.png.md)荼靡结音
-[](./文件-墨樱初月.png.md)  [](./文件-墨樱初月.png.md)墨樱初月
-  
- **<big>缚魂之白</big>**   
-
- **<big><big>荼靡 结音 Tobi Yune</big></big>** 
-  
-
+### 图鉴4 荼靡结音&墨樱初月
+<img alt="" src="https://upload.thwiki.cc/thumb/0/00/%E8%8D%BC%E9%9D%A1%E7%BB%93%E9%9F%B3.png/250px-%E8%8D%BC%E9%9D%A1%E7%BB%93%E9%9F%B3.png" decoding="async" loading="lazy" width="250" height="379" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/0/00/%E8%8D%BC%E9%9D%A1%E7%BB%93%E9%9F%B3.png/375px-%E8%8D%BC%E9%9D%A1%E7%BB%93%E9%9F%B3.png 1.5x, https://upload.thwiki.cc/thumb/0/00/%E8%8D%BC%E9%9D%A1%E7%BB%93%E9%9F%B3.png/500px-%E8%8D%BC%E9%9D%A1%E7%BB%93%E9%9F%B3.png 2x" data-file-width="3500" data-file-height="5300">
+ [放大](./文件-荼靡结音.png.md)荼靡结音<img alt="" src="https://upload.thwiki.cc/thumb/7/78/%E5%A2%A8%E6%A8%B1%E5%88%9D%E6%9C%88.png/250px-%E5%A2%A8%E6%A8%B1%E5%88%9D%E6%9C%88.png" decoding="async" loading="lazy" width="250" height="415" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/7/78/%E5%A2%A8%E6%A8%B1%E5%88%9D%E6%9C%88.png/375px-%E5%A2%A8%E6%A8%B1%E5%88%9D%E6%9C%88.png 1.5x, https://upload.thwiki.cc/thumb/7/78/%E5%A2%A8%E6%A8%B1%E5%88%9D%E6%9C%88.png/500px-%E5%A2%A8%E6%A8%B1%E5%88%9D%E6%9C%88.png 2x" data-file-width="4100" data-file-height="6800">
+ [放大](./文件-墨樱初月.png.md)墨樱初月  
+**<big>缚魂之白</big>**  
+**<big><big>荼靡 结音 Tobi Yune</big></big>**  
 
 <table><tbody><tr><td width="120px"><b>能力</b></td><td width="320px">夺魂程度的能力</td></tr><tr><td width="120px"><b>危险度</b></td><td width="320px">极高</td></tr><tr><td width="120px"><b>人类友好度</b></td><td width="320px">极低</td></tr><tr><td width="120px"><b>主要活动场所</b></td><td width="320px">八寒地狱</td></tr></tbody></table>
 
-
   
- **<big>斩魄之黑</big>**   
-
- **<big><big>墨樱 初月 Sumizakura Shogetsu</big></big>** 
-  
-
+**<big>斩魄之黑</big>**  
+**<big><big>墨樱 初月 Sumizakura Shogetsu</big></big>**  
 
 <table><tbody><tr><td width="120px"><b>能力</b></td><td width="320px">散魄程度的能力</td></tr><tr><td width="120px"><b>危险度</b></td><td width="320px">极高</td></tr><tr><td width="120px"><b>人类友好度</b></td><td width="320px">极低</td></tr><tr><td width="120px"><b>主要活动场所</b></td><td width="320px">八寒地狱</td></tr></tbody></table>
 
-
   
- **<big>介绍</big>** 
-  
-
-
+**<big>介绍</big>**  
   
 地狱是个辽阔无比的地方，除了死神、阎魔和鬼，还有许多其他住民。  
 
@@ -877,13 +698,8 @@ NONONO，这是智慧的结晶！
 
 一想到执掌生死、与地狱密切相关的无常就在你我身边，真是不寒而栗。
   
-
-
   
- **<big>死亡使者</big>** 
-  
-
-
+**<big>死亡使者</big>**  
   
 现世人类的寿命一般由死神负责管理，她们会对寿命进行精算、对死亡日期进行严格的推定。  
 
@@ -905,13 +721,8 @@ NONONO，这是智慧的结晶！
 
 与地狱做交易就必须具备相应的觉悟，御阿礼之子如是说。
   
-
-
   
- **<big>“无常少女”</big>** 
-  
-
-
+**<big>“无常少女”</big>**  
   
 “无常少女”这个组合名，最早在鬼当中传开，后来广泛流传于地狱，颇受欢迎。  
 
@@ -931,13 +742,8 @@ NONONO，这是智慧的结晶！
 
 地狱那“实力至上”的法则，在她们身上表现得淋漓尽致。
   
-
-
   
- **<big>对策</big>** 
-  
-
-
+**<big>对策</big>**  
   
 对于普通人来说，亡灵是极度危险的存在，怨念深重的亡灵生前多半遭遇惨祸，因而充满了对生者的憎恨。  
 
@@ -957,16 +763,10 @@ NONONO，这是智慧的结晶！
 
 咒人者，须掘两穴；欲使他人入地狱者，其心已入地狱。
   
-
-
   
- **<big>简评</big>** 
-  
-
-
+**<big>简评</big>**  
   
 画师简评：  
-
   
 
 一直都想在雪莲华中学习些角色设计方面的东西。  
@@ -978,7 +778,6 @@ NONONO，这是智慧的结晶！
 在两姐妹的装饰中分别尝试融合进了枷锁与丧葬的元素。  
 
 想法还算是令我满意的，尽管当时的设计现在看来仍是十分稚嫩。  
-
   
 
 结音和初月是两位掌握着生与死的少女。  
@@ -990,11 +789,9 @@ NONONO，这是智慧的结晶！
 所以绘制线稿的时候特别的注意了姐妹俩的神态。  
 
 符卡的动作都选择了比较有张力的动作，看来她们真的很想带走你的灵魂啊。  
-
   
 
 乐师简评：  
-
   
 
 “我知道你可能不太愿意跟我走……  
@@ -1007,22 +804,15 @@ NONONO，这是智慧的结晶！
 
 虽说做了左右声道，但是感觉游戏中效果并不是很明显呢，还要大家听纯音乐来感受啦——
   
-
-
   
- **<big>符卡</big>** 
-  
-
-
+**<big>符卡</big>**  
   
 【符卡01】  
-
   
 
 冥符「生之南，死之北」  
 
-使用者：荼靡结音&amp;墨樱初月  
-
+使用者：荼靡结音&墨樱初月  
   
 
 天上的星斗闪烁不定，预示着人的命运无常。  
@@ -1030,17 +820,14 @@ NONONO，这是智慧的结晶！
 北斗南斗，阴与阳，黑与白。  
 
 在冥冥之中，决定了生与死。  
-
   
 
 【符卡02】  
-
   
 
 冥符「活无常，死有分」  
 
-使用者：荼靡结音&amp;墨樱初月  
-
+使用者：荼靡结音&墨樱初月  
   
 
 生者必灭，诸行无常。  
@@ -1048,17 +835,14 @@ NONONO，这是智慧的结晶！
 生前惶惶不可终日，畏惧不知何时到来的无常。  
 
 待到那勾魂使者当真现身，反而会无比释然吧？  
-
   
 
 【符卡03】  
-
   
 
 引魂「歧路亡灯」  
 
 使用者：荼靡结音  
-
   
 
 散发出青蓝色光芒的提灯，在黑暗中一闪一闪。  
@@ -1066,17 +850,14 @@ NONONO，这是智慧的结晶！
 灵魂追寻着那灯光聚拢，周围一片都冰冷刺骨。  
 
 生者在提灯的光芒下，也不知不觉走上了黄泉路。  
-
   
 
 【符卡04】  
-
   
 
 斩魄「死镰主宰」  
 
 使用者：墨樱初月  
-
   
 
 散发出赤色光芒的死镰，在黑暗中一闪一闪。  
@@ -1084,17 +865,14 @@ NONONO，这是智慧的结晶！
 它追寻着黑色的气息，渴望与她决一死战。  
 
 被它盯上的生者，也只能颤抖着走上黄泉路。  
-
   
 
 【符卡05】  
-
   
 
 生魂信标「曼陀罗华」  
 
 使用者：荼靡结音  
-
   
 
 将死之人，冥冥间踏上了白色彼岸花盛开的道路。  
@@ -1102,17 +880,14 @@ NONONO，这是智慧的结晶！
 无常少女向你嫣然一笑，举起闪烁着幽光的提灯。  
 
 你向她报以微笑，生魂从体内飞出，向灯光飞去。  
-
   
 
 【符卡06】  
-
   
 
 魍魉诏令「曼珠沙华」  
 
 使用者：墨樱初月  
-
   
 
 将死之人，冥冥间踏上了红色彼岸花盛开的道路。  
@@ -1120,17 +895,14 @@ NONONO，这是智慧的结晶！
 无常少女向你嫣然一笑，举起闪烁着赤光的死镰。  
 
 你向她报以微笑，精魄在死镰挥下时，消散如烟。  
-
   
 
 【符卡07】  
-
   
 
 联结「死生有命双子星」  
 
-使用者：荼靡结音&amp;墨樱初月  
-
+使用者：荼靡结音&墨樱初月  
   
 
 命运把我们紧紧联结在一起。  
@@ -1138,17 +910,14 @@ NONONO，这是智慧的结晶！
 沉重的引力让我们无法分离。  
 
 除非死亡，才能分开彼此。  
-
   
 
 【符卡08】  
-
   
 
 死奥义「生命悬线」  
 
-使用者：荼靡结音&amp;墨樱初月  
-
+使用者：荼靡结音&墨樱初月  
   
 
 被割断线的人偶，只能躺倒在地动弹不得。  
@@ -1158,25 +927,16 @@ NONONO，这是智慧的结晶！
 维系生命的线，远比想象中的脆弱。
   
 
-
-
 ### 图鉴5 万光绘照
-[](./文件-万光绘照.png.md)  [](./文件-万光绘照.png.md)万光绘照
-  
- **<big>永恒的深渊领主</big>**   
-
- **<big><big>万光 绘照 Bankou Eteru</big></big>** 
-  
-
+<img alt="" src="https://upload.thwiki.cc/thumb/1/10/%E4%B8%87%E5%85%89%E7%BB%98%E7%85%A7.png/250px-%E4%B8%87%E5%85%89%E7%BB%98%E7%85%A7.png" decoding="async" loading="lazy" width="250" height="334" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/1/10/%E4%B8%87%E5%85%89%E7%BB%98%E7%85%A7.png/375px-%E4%B8%87%E5%85%89%E7%BB%98%E7%85%A7.png 1.5x, https://upload.thwiki.cc/thumb/1/10/%E4%B8%87%E5%85%89%E7%BB%98%E7%85%A7.png/500px-%E4%B8%87%E5%85%89%E7%BB%98%E7%85%A7.png 2x" data-file-width="2436" data-file-height="3251">
+ [放大](./文件-万光绘照.png.md)万光绘照  
+**<big>永恒的深渊领主</big>**  
+**<big><big>万光 绘照 Bankou Eteru</big></big>**  
 
 <table><tbody><tr><td width="120px"><b>能力</b></td><td width="320px">操纵以太流动程度的能力</td></tr><tr><td width="120px"><b>危险度</b></td><td width="320px">低</td></tr><tr><td width="120px"><b>人类友好度</b></td><td width="320px">高</td></tr><tr><td width="120px"><b>主要活动场所</b></td><td width="320px">八寒地狱</td></tr></tbody></table>
 
-
   
- **<big>介绍</big>** 
-  
-
-
+**<big>介绍</big>**  
   
 在这次寒流冰封的异变后，频频现身于幻想乡的鬼神长。  
 
@@ -1200,13 +960,8 @@ NONONO，这是智慧的结晶！
 
 这大概就是所谓精通TPO（※时间、地点、场合）的职场精英吧？
   
-
-
   
- **<big>八寒地狱</big>** 
-  
-
-
+**<big>八寒地狱</big>**  
   
 八寒地狱是与八热地狱（※位于地底的旧地狱，原本便属于八热地狱）相对的存在。  
 
@@ -1228,13 +983,8 @@ NONONO，这是智慧的结晶！
 
 也难怪异变后她这么频繁地到访幻想乡，谁不想暂时放下工作，给自己放个假呢？
   
-
-
   
- **<big>“以太之神”</big>** 
-  
-
-
+**<big>“以太之神”</big>**  
   
 鬼神长这一职位通常会由地狱中强大的鬼担任，然而八寒地狱的鬼神长却完全没有鬼的感觉。  
 
@@ -1254,13 +1004,8 @@ NONONO，这是智慧的结晶！
 
 从各种迹象来看，她早就忘却了过往，身心全都堕入地狱，再也无法回归神座了。
   
-
-
   
- **<big>对策</big>** 
-  
-
-
+**<big>对策</big>**  
   
 虽说是地狱的鬼神长，但她对人类没有敌意，在各地走动时显得平易近人，很好交流。  
 
@@ -1284,26 +1029,18 @@ NONONO，这是智慧的结晶！
 
 若是情况严重，还请及时前往永远亭就医。
   
-
-
   
- **<big>简评</big>** 
-  
-
-
+**<big>简评</big>**  
   
 画师简评：  
-
   
 
 绘照这个角色是我接手时就已经有设计稿的样子了。  
 
 想设计得比较纯洁和有神性，结果露出度相当高了xx  
-
   
 
 乐师简评：  
-
   
 
 本作最离谱的实验性曲风。  
@@ -1314,22 +1051,15 @@ NONONO，这是智慧的结晶！
 
 我有预感这首曲子的评价会出现两极分化。大概。
   
-
-
   
- **<big>符卡</big>** 
-  
-
-
+**<big>符卡</big>**  
   
 【符卡01】  
-
   
 
 狱符「万苦业风」  
 
 使用者：万光绘照  
-
   
 
 八寒地狱中，吹息着一刻也不曾停止的狂风。  
@@ -1337,17 +1067,14 @@ NONONO，这是智慧的结晶！
 那风裹挟着深重的业力，不仅摧毁肉身，更折磨灵魂。  
 
 甚至于在终末之时，席卷并消解掉整个世界。  
-
   
 
 【符卡02】  
-
   
 
 狱符「以太飓风」  
 
 使用者：万光绘照  
-
   
 
 以太的国度完美且静止，但世界却在变化和转动。  
@@ -1355,17 +1082,14 @@ NONONO，这是智慧的结晶！
 两者的冲突，让星间刮起了无休无止的以太暴风。  
 
 风还侵蚀着肉身和灵魂，将以太的瘟疫撒向众生。  
-
   
 
 【符卡03】  
-
   
 
 冥壁「光子帷幕」  
 
 使用者：万光绘照  
-
   
 
 从银河眼中得到力量，作为光之化身降临。  
@@ -1373,17 +1097,14 @@ NONONO，这是智慧的结晶！
 黑暗中闪耀的光之幕，横亘在那地狱深处。  
 
 冥府最硬的盾牌，誓要牢牢守护至福乐土。  
-
   
 
 【符卡04】  
-
   
 
 绝壁「地狱铁幕」  
 
 使用者：万光绘照  
-
   
 
 从八寒地狱的叹息河，到此岸彼岸的三途川。  
@@ -1391,17 +1112,14 @@ NONONO，这是智慧的结晶！
 一道铁幕正缓缓落下，分割对立的两个世界。  
 
 隔绝天国与地狱的，正是那堕落的白翼之神。  
-
   
 
 【符卡05】  
-
   
 
 光符「净罪神光」  
 
 使用者：万光绘照  
-
   
 
 天神降下光芒，净化炼狱中挣扎的灵魂。  
@@ -1409,17 +1127,14 @@ NONONO，这是智慧的结晶！
 七种不同的罪恶，用不同的多边形救赎。  
 
 数学，可是神的语言啊。  
-
   
 
 【符卡06】  
-
   
 
 「神说，让下界充满光」  
 
 使用者：万光绘照  
-
   
 
 极寒深渊之中，万物在黑暗里沉沦。  
@@ -1427,17 +1142,14 @@ NONONO，这是智慧的结晶！
 神说，让下界充满光！  
 
 于是，她让正多面体充满整个世界。  
-
   
 
 【符卡07】  
-
   
 
 光狱「塔尔塔罗斯」  
 
 使用者：万光绘照  
-
   
 
 囚禁下界众生的天神，自己也被囚禁在炼狱中。  
@@ -1445,17 +1157,14 @@ NONONO，这是智慧的结晶！
 用图形编织的牢笼，却成为了她赖以为生的家园。  
 
 古老的泰坦众神，是否会为自己的命运叹息呢？  
-
   
 
 【符卡08】  
-
   
 
 无限「以太粒子之海」  
 
 使用者：万光绘照  
-
   
 
 在夸克之外，有着无边无际的以太粒子之海。  
@@ -1465,25 +1174,16 @@ NONONO，这是智慧的结晶！
 当大海扰动之时，幻想的世界亦将变化万千。
   
 
-
-
 ### 图鉴6 妙严宫雪华
-[](./文件-妙严宫雪华.png.md)  [](./文件-妙严宫雪华.png.md)妙严宫雪华
-  
- **<big>十方地狱之主</big>**   
-
- **<big><big>妙严宫 雪华 Myogenguu Setsuka</big></big>** 
-  
-
+<img alt="" src="https://upload.thwiki.cc/thumb/d/d6/%E5%A6%99%E4%B8%A5%E5%AE%AB%E9%9B%AA%E5%8D%8E.png/250px-%E5%A6%99%E4%B8%A5%E5%AE%AB%E9%9B%AA%E5%8D%8E.png" decoding="async" loading="lazy" width="250" height="268" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/d/d6/%E5%A6%99%E4%B8%A5%E5%AE%AB%E9%9B%AA%E5%8D%8E.png/375px-%E5%A6%99%E4%B8%A5%E5%AE%AB%E9%9B%AA%E5%8D%8E.png 1.5x, https://upload.thwiki.cc/thumb/d/d6/%E5%A6%99%E4%B8%A5%E5%AE%AB%E9%9B%AA%E5%8D%8E.png/500px-%E5%A6%99%E4%B8%A5%E5%AE%AB%E9%9B%AA%E5%8D%8E.png 2x" data-file-width="3396" data-file-height="3647">
+ [放大](./文件-妙严宫雪华.png.md)妙严宫雪华  
+**<big>十方地狱之主</big>**  
+**<big><big>妙严宫 雪华 Myogenguu Setsuka</big></big>**  
 
 <table><tbody><tr><td width="120px"><b>能力</b></td><td width="320px">冰封世界程度的能力</td></tr><tr><td width="120px"><b>危险度</b></td><td width="320px">低</td></tr><tr><td width="120px"><b>人类友好度</b></td><td width="320px">不明</td></tr><tr><td width="120px"><b>主要活动场所</b></td><td width="320px">大莲华地狱</td></tr></tbody></table>
 
-
   
- **<big>介绍</big>** 
-  
-
-
+**<big>介绍</big>**  
   
 她是地狱管理机构的高层人物之一，支配着冰天雪地的八寒地狱，是盘踞深渊的实权者。  
 
@@ -1509,13 +1209,8 @@ NONONO，这是智慧的结晶！
 
 难道说，她也像地藏大人或是救世观音那样，能够倾听到浮世众生的所思所想么？
   
-
-
   
- **<big>“十天尊”</big>** 
-  
-
-
+**<big>“十天尊”</big>**  
   
 在过去的认知中，管理地狱各级职能机构的“是非曲直厅”，其首脑集团称作“十王”。  
 
@@ -1541,13 +1236,8 @@ NONONO，这是智慧的结晶！
 
 地狱的大人物和我们并不遥远，她们在深渊中凝视着整个世界。
   
-
-
   
- **<big>地狱净土</big>** 
-  
-
-
+**<big>地狱净土</big>**  
   
 地狱是那样的辽阔，不可能窥见其全貌，也因此出现了许多难以用常识理解的构造。  
 
@@ -1569,13 +1259,8 @@ NONONO，这是智慧的结晶！
 
 我觉得“大莲华地狱”是她建造的“深渊葬地”，是生命的牢笼。
   
-
-
   
- **<big>对策</big>** 
-  
-
-
+**<big>对策</big>**  
   
 她平时坐镇于大莲华地狱，普通人几乎不可能与她接触。  
 
@@ -1595,16 +1280,10 @@ NONONO，这是智慧的结晶！
 
 当然，以上种种都是针对现世的居民，不想死后在她那里受刑的话，此生还是多行善举吧。
   
-
-
   
- **<big>简评</big>** 
-  
-
-
+**<big>简评</big>**  
   
 画师简评：  
-
   
 
 6boss雪华也是让我花费了许多经历去设计的角色了。  
@@ -1618,11 +1297,9 @@ NONONO，这是智慧的结晶！
 而过于尊重出处的元素，却影响其作为少女的美观而得不到老板的认同。  
 
 好在最终还是在两人的观点之间找到了平衡。  
-
   
 
 乐师简评：  
-
   
 
 以下内容请阅读完Extra Story后食用。  
@@ -1649,22 +1326,15 @@ NONONO，这是智慧的结晶！
 
 我好想做雪华小姐的狗啊（下略）。
   
-
-
   
- **<big>符卡</big>** 
-  
-
-
+**<big>符卡</big>**  
   
 【符卡01】  
-
   
 
 星球冻结「永冬雪之星」  
 
 使用者：妙严宫雪华  
-
   
 
 休伦冰河、雪球地球……  
@@ -1672,17 +1342,14 @@ NONONO，这是智慧的结晶！
 寒冷时常会支配一切，带来无尽的霜雪。  
 
 在冰冻星球上，只有被封印的芸芸众生。  
-
   
 
 【符卡02】  
-
   
 
 星球冻结「银白色黎明」  
 
 使用者：妙严宫雪华  
-
   
 
 凛冽的寒风将灵魂吞噬，冰雪覆盖了星球。  
@@ -1690,17 +1357,14 @@ NONONO，这是智慧的结晶！
 仙女木和雪花一同绽放，铺满荒凉的大地。  
 
 终结旧日的银白色，却预示着文明的黎明。  
-
   
 
 【符卡03】  
-
   
 
 生命冻结「净土莲雨」  
 
 使用者：妙严宫雪华  
-
   
 
 美丽无暇的净土世界，总是盛开着晶莹的莲花。  
@@ -1708,17 +1372,14 @@ NONONO，这是智慧的结晶！
 像雨一样，洒落在净琉璃、阿弥陀和普陀洛迦。  
 
 长乐界的莲雨和其他净土一样，抹消生的痕迹。  
-
   
 
 【符卡04】  
-
   
 
 生命冻结「厌离秽土之花」  
 
 使用者：妙严宫雪华  
-
   
 
 不断积累的污秽，见证了生命从海洋扩散世界的历史。  
@@ -1726,17 +1387,14 @@ NONONO，这是智慧的结晶！
 为了创造净土，必须让生命消亡，让莲花在秽土绽放。  
 
 然而即便物种大灭绝不断上演，生命却依然阔步向前。  
-
   
 
 【符卡05】  
-
   
 
 罪业冻结「冥河苦渡」  
 
 使用者：妙严宫雪华  
-
   
 
 承载着罪业的灵魂，在冥河中随波飘荡。  
@@ -1744,17 +1402,14 @@ NONONO，这是智慧的结晶！
 最终将沉入罪海，化作晶莹剔透的莲花。  
 
 当灵魂回归虚无，侵扰众生的苦难也就不复存在了吧？  
-
   
 
 【符卡06】  
-
   
 
 罪业冻结「彼岸归航」  
 
 使用者：妙严宫雪华  
-
   
 
 罪人灵魂化作的莲花，在冥河中随波飘荡。  
@@ -1762,17 +1417,14 @@ NONONO，这是智慧的结晶！
 即使身死魂灭，她遗存的思念却久未消散。  
 
 七月十五，暂别彼岸、重逢故人，这是最好的度化与救赎。  
-
   
 
 【符卡07】  
-
   
 
 世界终结「永恒热寂」  
 
 使用者：妙严宫雪华  
-
   
 
 世界终结之时，璀璨的繁星都在黑暗背景下湮灭。  
@@ -1780,17 +1432,14 @@ NONONO，这是智慧的结晶！
 当熵达到最大值，一切都将陷入无穷无尽的死寂。  
 
 世界迎来最绝望的结局：冰冷、安静、了无生机。  
-
   
 
 【符卡08】  
-
   
 
 世界终结「轮回寂灭」  
 
 使用者：妙严宫雪华  
-
   
 
 世界终结之时，一定会迎来绝望的热寂吗？  
@@ -1798,17 +1447,14 @@ NONONO，这是智慧的结晶！
 亦或是在原子级别的大撕裂中，归于虚无？  
 
 亦或在一巡后重归奇点，进入崭新的天地。  
-
   
 
 【符卡09】  
-
   
 
 时间终结「刹那万古」  
 
 使用者：妙严宫雪华  
-
   
 
 永恒的深渊中，时间变得毫无意义。  
@@ -1816,17 +1462,14 @@ NONONO，这是智慧的结晶！
 长河已然冻结，也就不存在过去、现在和未来。  
 
 一刹那和亿万劫，又有什么差别呢？  
-
   
 
 【符卡10】  
-
   
 
 时间终结「霜寒亿万劫」  
 
 使用者：妙严宫雪华  
-
   
 
 永无尽头的极寒苦刑，折磨着罪人的形骸。  
@@ -1834,17 +1477,14 @@ NONONO，这是智慧的结晶！
 但心的堕落，才是真正的万劫不复。  
 
 若此心向往光明，亿万劫也不过是一刹那。  
-
   
 
 【符卡11】  
-
   
 
 幻想终结「久远之梦」  
 
 使用者：妙严宫雪华  
-
   
 
 梦是那么令人依恋，谁都不愿意醒来。  
@@ -1852,17 +1492,14 @@ NONONO，这是智慧的结晶！
 但梦，有终结之时。  
 
 当少女停止做梦，一切都会归于虚无。  
-
   
 
 【符卡12】  
-
   
 
 幻想终结「万物之梦终」  
 
 使用者：妙严宫雪华  
-
   
 
 梦与幻想终结之时，最后的温巢不复存在。  
@@ -1870,17 +1507,14 @@ NONONO，这是智慧的结晶！
 梦与幻想终结之时，冷酷的真实席卷而来。  
 
 童年总有终结之时，走出过去、迈向未来。  
-
   
 
 【符卡13】  
-
   
 
 「雪莲镇魂歌」  
 
 使用者：妙严宫雪华  
-
   
 
 死寂的大地，飘下凄冷的悲伤。  
@@ -1890,25 +1524,16 @@ NONONO，这是智慧的结晶！
 昨日与明天，在不归路上消亡。
   
 
-
-
 ### 图鉴7 蚀神星罗
-[](./文件-蚀神星罗.png.md)  [](./文件-蚀神星罗.png.md)蚀神星罗
-  
- **<big>遮蔽日月的黑暗星</big>**   
-
- **<big><big>蚀神 星罗 Shokushin Seira</big></big>** 
-  
-
+<img alt="" src="https://upload.thwiki.cc/thumb/4/49/%E8%9A%80%E7%A5%9E%E6%98%9F%E7%BD%97.png/250px-%E8%9A%80%E7%A5%9E%E6%98%9F%E7%BD%97.png" decoding="async" loading="lazy" width="250" height="301" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/4/49/%E8%9A%80%E7%A5%9E%E6%98%9F%E7%BD%97.png/375px-%E8%9A%80%E7%A5%9E%E6%98%9F%E7%BD%97.png 1.5x, https://upload.thwiki.cc/thumb/4/49/%E8%9A%80%E7%A5%9E%E6%98%9F%E7%BD%97.png/500px-%E8%9A%80%E7%A5%9E%E6%98%9F%E7%BD%97.png 2x" data-file-width="3400" data-file-height="4100">
+ [放大](./文件-蚀神星罗.png.md)蚀神星罗  
+**<big>遮蔽日月的黑暗星</big>**  
+**<big><big>蚀神 星罗 Shokushin Seira</big></big>**  
 
 <table><tbody><tr><td width="120px"><b>能力</b></td><td width="320px">颠覆秩序程度的能力</td></tr><tr><td width="120px"><b>危险度</b></td><td width="320px">极高</td></tr><tr><td width="120px"><b>人类友好度</b></td><td width="320px">极低</td></tr><tr><td width="120px"><b>主要活动场所</b></td><td width="320px">幻想乡（发生战斗的地方）</td></tr></tbody></table>
 
-
   
- **<big>介绍</big>** 
-  
-
-
+**<big>介绍</big>**  
   
 寒流冰封的异变之后，突然现身于幻想乡，并在这里定居的阿修罗。  
 
@@ -1930,13 +1555,8 @@ NONONO，这是智慧的结晶！
 
 另外她时刻保持着临战姿态，一旦开打就会认真到底，和她战斗一定要三思而后行。
   
-
-
   
- **<big>阿修罗</big>** 
-  
-
-
+**<big>阿修罗</big>**  
   
 所谓阿修罗，乃是掌握着神明的力量，却有鬼之秉性的存在，在三界中是数一数二的战斗种族。  
 
@@ -1960,13 +1580,8 @@ NONONO，这是智慧的结晶！
 
 她决口不提自己一族的过往，想必那是一段充满悲伤和痛苦的记忆吧？
   
-
-
   
- **<big>“地狱逃犯”</big>** 
-  
-
-
+**<big>“地狱逃犯”</big>**  
   
 种种迹象表明，星罗曾被封印在八寒地狱，后来冲破封锁来到了幻想乡。  
 
@@ -1990,13 +1605,8 @@ NONONO，这是智慧的结晶！
 
 也许幻想乡这个地上乐园，是一个更适合拘押阿修罗的“牢笼”？
   
-
-
   
- **<big>对策</big>** 
-  
-
-
+**<big>对策</big>**  
   
 她是对于人类而言极其危险的存在，任何情况下都不建议接触。  
 
@@ -2020,16 +1630,10 @@ NONONO，这是智慧的结晶！
 
 破坏力和复仇欲都极其强烈的星罗，能不能融入乐园的生活，就让我们拭目以待吧。
   
-
-
   
- **<big>简评</big>** 
-  
-
-
+**<big>简评</big>**  
   
 画师简评：  
-
   
 
 星罗的造型对于我来说很有颠覆性。  
@@ -2041,11 +1645,9 @@ NONONO，这是智慧的结晶！
 我在她身上加了许多尖锐的装饰，以此突出她凌厉的一面。  
 
 但她所拥有的不止如此，至于其他的内容，就由各位自己来挖掘了。  
-
   
 
 乐师简评：  
-
   
 
 很多要聊的刚刚都在雪华那边提到了。这里就说说曲子吧。  
@@ -2058,22 +1660,15 @@ NONONO，这是智慧的结晶！
 
 不死之花与不灭之魂，她们的史诗，是刚刚落幕，还是刚刚开始？
   
-
-
   
- **<big>符卡</big>** 
-  
-
-
+**<big>符卡</big>**  
   
 【符卡01】  
-
   
 
 「非天之道」  
 
 使用者：蚀神星罗  
-
   
 
 历尽苦难而不厌。  
@@ -2081,18 +1676,14 @@ NONONO，这是智慧的结晶！
 与天相争而不悔。  
 
 这便是修罗之道。  
-
   
 
 【符卡02】  
-
   
-
 <ruby><rb>金座</rb><rp> (</rp><rt>हिरण्‍यकशिपु</rt><rp>) </rp></ruby>
 「逢魔决战」  
 
 使用者：蚀神星罗  
-
   
 
 魔王金座，拥有不死之身的阿修罗。  
@@ -2100,18 +1691,14 @@ NONONO，这是智慧的结晶！
 无论白天黑夜，没有人能伤到她一根汗毛。  
 
 然而在日暮之时，她将面临一场生死决斗。  
-
   
 
 【符卡03】  
-
   
-
 <ruby><rb>金目</rb><rp> (</rp><rt>हिरण्‍याक्ष</rt><rp>) </rp></ruby>
 「沉入深海吧！世界！」  
 
 使用者：蚀神星罗  
-
   
 
 魔王金目，力大无穷的阿修罗。  
@@ -2119,18 +1706,14 @@ NONONO，这是智慧的结晶！
 令大地沉入深渊千年，禁锢了整个世界。  
 
 终有一日，她要与巨兽的獠牙做个了断。  
-
   
 
 【符卡04】  
-
   
-
 <ruby><rb>仁王</rb><rp> (</rp><rt>महाबली</rt><rp>) </rp></ruby>
 「三步天下」  
 
 使用者：蚀神星罗  
-
   
 
 魔王钵利，仁慈而虔诚的阿修罗。  
@@ -2138,18 +1721,14 @@ NONONO，这是智慧的结晶！
 不需要向谁祈求，凭自己的实力成为了三界的主宰。  
 
 然而只是小小的三步，却让她的霸权变得岌岌可危。  
-
   
 
 【符卡05】  
-
   
-
 <ruby><rb>魔龙</rb><rp> (</rp><rt>वृत्र</rt><rp>) </rp></ruby>
 「窒塞天地之龙」  
 
 使用者：蚀神星罗  
-
   
 
 巨龙弗栗多，堵塞世界的阿修罗。  
@@ -2157,18 +1736,14 @@ NONONO，这是智慧的结晶！
 封锁高山之巅的水源，令众生饱受干涸的苦难。  
 
 但她垒起的九十九座坚城，却面临雷霆的考验。  
-
   
 
 【符卡06】  
-
   
-
 <ruby><rb>战神</rb><rp> (</rp><rt>तारक</rt><rp>) </rp></ruby>
 「永恒不灭的三连城」  
 
 使用者：蚀神星罗  
-
   
 
 魔王多罗伽，百战百胜的阿修罗。  
@@ -2176,18 +1751,14 @@ NONONO，这是智慧的结晶！
 阿修罗大军筑起永恒不灭的三城，天神无法与之抗衡。  
 
 然而当金银铁聚拢之时，破坏神将射出那支灭亡之箭。  
-
   
 
 【符卡07】  
-
   
-
 <ruby><rb>武神</rb><rp> (</rp><rt>रावण</rt><rp>) </rp></ruby>
 「圣剑-明月之笑」  
 
 使用者：蚀神星罗  
-
   
 
 魔王罗波那，挥舞神剑的阿修罗。  
@@ -2195,18 +1766,14 @@ NONONO，这是智慧的结晶！
 至高神赐予的神剑，助她化作凶恶的武神。  
 
 六臂挥剑，十首咆哮，对手只是区区人类。  
-
   
 
 【符卡08】  
-
   
-
 <ruby><rb>水持</rb><rp> (</rp><rt>जलन्धर</rt><rp>) </rp></ruby>
 「引燃复仇之海」  
 
 使用者：蚀神星罗  
-
   
 
 魔王水持，生于大海的阿修罗。  
@@ -2214,18 +1781,14 @@ NONONO，这是智慧的结晶！
 令她愤恨的，是天神施加的暴行，她要以血偿还。  
 
 待到大仇得报之时，她迎来宿命，回归原初之火。  
-
   
 
 【符卡09】  
-
   
-
 <ruby><rb>灭欲</rb><rp> (</rp><rt>भांडासुर</rt><rp>) </rp></ruby>
 「于灰烬中重生」  
 
 使用者：蚀神星罗  
-
   
 
 魔王灭欲，消灭爱欲的阿修罗。  
@@ -2233,17 +1796,14 @@ NONONO，这是智慧的结晶！
 自爱欲的灰烬中诞生，呼唤过往的无数魔王。  
 
 最后还是化作无影无形的爱，散落在天地间。  
-
   
 
 【符卡10】  
-
   
 
 「最后的阿修罗」  
 
 使用者：蚀神星罗  
-
   
 
 星罗，此世仅存的阿修罗。  
@@ -2252,22 +1812,9 @@ NONONO，这是智慧的结晶！
 
 她决心吞噬日月，让究极的黑暗降临世间。
   
-
-
-
 [^cite_note-1]: 藏传佛教中的女性神祇，有大力，可于空中飞行，故名“空行母”，音译为“荼吉尼”。除出世间的智慧空行母外，皈依佛教为佛门护法的夜叉、非人等，以及世间修行有成就的女子，也可以被称为空行母。
-
-
-## 词条导航
-  
-  
-
-<table><tbody><tr><td><table cellspacing="0" class="nowraplinks mw-collapsible mw-collapsed" style="width:100%;;;"><tbody><tr><th style=";" colspan="3" class="navbox-title"><div class="navbar"><div class="noprint plainlinksneverexpand" style="background-color:transparent; padding:0; font-weight:normal; font-size:80%; white-space:nowrap;"><a href="./东方雪莲华_～_Abyss_Soul_Lotus.-导航.md" title="东方雪莲华 ～ Abyss Soul Lotus./导航"><span style=";;border:none;" title="查看这个模板">查</span></a>&#160;<span style="font-size:80%;">•</span>&#160;<a href="/index.php?title=%E4%B8%9C%E6%96%B9%E9%9B%AA%E8%8E%B2%E5%8D%8E_%EF%BD%9E_Abyss_Soul_Lotus./%E5%AF%BC%E8%88%AA&amp;action=edit"><span style=";;border:none;" title="您可以编辑这个模板。请在储存变更之前先预览">编</span></a></div></div><span><a href="./东方雪莲华_～_Abyss_Soul_Lotus..md" title="东方雪莲华 ～ Abyss Soul Lotus.">东方雪莲华 ～ Abyss Soul Lotus.</a></span></th></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="./东方雪莲华_～_Abyss_Soul_Lotus.-角色设定.md" title="东方雪莲华 ～ Abyss Soul Lotus./角色设定">角色</a></td><td style=";;" class="navbox-list navbox-odd"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>自机</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./东方雪莲华_～_Abyss_Soul_Lotus.-角色设定.md" title="东方雪莲华 ～ Abyss Soul Lotus./角色设定">八云紫&amp;博丽灵梦</a> &#8226; <a href="./东方雪莲华_～_Abyss_Soul_Lotus.-角色设定.md" title="东方雪莲华 ～ Abyss Soul Lotus./角色设定">摩多罗隐岐奈&amp;雾雨魔理沙</a> &#8226; <a href="./东方雪莲华_～_Abyss_Soul_Lotus.-角色设定.md" title="东方雪莲华 ～ Abyss Soul Lotus./角色设定">丰聪耳神子&amp;圣白莲</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>BOSS</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./雪珂.md" title="雪珂">雪珂</a> &#8226; <a href="./暗华美夜香.md" title="暗华美夜香">暗华美夜香</a> &#8226; <a href="./莉帕斯·缇米蒂丝·白雪.md" title="莉帕斯·缇米蒂丝·白雪">莉帕斯·缇米蒂丝·白雪</a> &#8226; <a href="./墨樱初月.md" title="墨樱初月">墨樱初月</a> &#8226; <a href="./荼靡结音.md" title="荼靡结音">荼靡结音</a> &#8226; <a href="./万光绘照.md" title="万光绘照">万光绘照</a> &#8226; <a href="./妙严宫雪华.md" title="妙严宫雪华">妙严宫雪华</a> &#8226; <a href="./蚀神星罗.md" title="蚀神星罗">蚀神星罗</a></div></td></tr></tbody></table><div></div></td><td class="navbox-image" style="" rowspan="13"><a href="./文件-东方雪莲华_～_Abyss_Soul_Lotus.封面.jpg.md" class="image"><img alt="东方雪莲华 ～ Abyss Soul Lotus.封面.jpg" src="https://upload.thwiki.cc/thumb/f/f5/%E4%B8%9C%E6%96%B9%E9%9B%AA%E8%8E%B2%E5%8D%8E_%EF%BD%9E_Abyss_Soul_Lotus.%E5%B0%81%E9%9D%A2.jpg/160px-%E4%B8%9C%E6%96%B9%E9%9B%AA%E8%8E%B2%E5%8D%8E_%EF%BD%9E_Abyss_Soul_Lotus.%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="160" height="160" srcset="https://upload.thwiki.cc/thumb/f/f5/%E4%B8%9C%E6%96%B9%E9%9B%AA%E8%8E%B2%E5%8D%8E_%EF%BD%9E_Abyss_Soul_Lotus.%E5%B0%81%E9%9D%A2.jpg/240px-%E4%B8%9C%E6%96%B9%E9%9B%AA%E8%8E%B2%E5%8D%8E_%EF%BD%9E_Abyss_Soul_Lotus.%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/f/f5/%E4%B8%9C%E6%96%B9%E9%9B%AA%E8%8E%B2%E5%8D%8E_%EF%BD%9E_Abyss_Soul_Lotus.%E5%B0%81%E9%9D%A2.jpg/320px-%E4%B8%9C%E6%96%B9%E9%9B%AA%E8%8E%B2%E5%8D%8E_%EF%BD%9E_Abyss_Soul_Lotus.%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="745" data-file-height="747"></a></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="./东方雪莲华_～_Abyss_Soul_Lotus..md" title="东方雪莲华 ～ Abyss Soul Lotus.">剧情</a></td><td style=";;" class="navbox-list navbox-even"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>剧情文本</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./东方雪莲华_～_Abyss_Soul_Lotus.-故事背景.md" title="东方雪莲华 ～ Abyss Soul Lotus./故事背景">故事背景</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>游戏对话&amp;结局</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./东方雪莲华_～_Abyss_Soul_Lotus.-八云紫&博丽灵梦.md" title="东方雪莲华 ～ Abyss Soul Lotus./八云紫&amp;博丽灵梦">八云紫&amp;博丽灵梦</a> &#8226; <a href="./东方雪莲华_～_Abyss_Soul_Lotus.-摩多罗隐岐奈&雾雨魔理沙.md" title="东方雪莲华 ～ Abyss Soul Lotus./摩多罗隐岐奈&amp;雾雨魔理沙">摩多罗隐岐奈&amp;雾雨魔理沙</a> &#8226; <a href="./东方雪莲华_～_Abyss_Soul_Lotus.-丰聪耳神子&圣白莲.md" title="东方雪莲华 ～ Abyss Soul Lotus./丰聪耳神子&amp;圣白莲">丰聪耳神子&amp;圣白莲</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>Ex游戏对话</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./东方雪莲华_～_Abyss_Soul_Lotus.-八云紫&博丽灵梦_ExStory.md" title="东方雪莲华 ～ Abyss Soul Lotus./八云紫&amp;博丽灵梦 ExStory">八云紫&amp;博丽灵梦</a> &#8226; <a href="./东方雪莲华_～_Abyss_Soul_Lotus.-摩多罗隐岐奈&雾雨魔理沙_ExStory.md" title="东方雪莲华 ～ Abyss Soul Lotus./摩多罗隐岐奈&amp;雾雨魔理沙 ExStory">摩多罗隐岐奈&amp;雾雨魔理沙</a> &#8226; <a href="./东方雪莲华_～_Abyss_Soul_Lotus.-丰聪耳神子&圣白莲_ExStory.md" title="东方雪莲华 ～ Abyss Soul Lotus./丰聪耳神子&amp;圣白莲 ExStory">丰聪耳神子&amp;圣白莲</a></div></td></tr></tbody></table><div></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">场景</td><td style=";;" class="navbox-list navbox-odd"><div><a href="./雾之湖.md" title="雾之湖">冰封的雾之湖</a> &#8226; <a href="./中有之道.md" title="中有之道">悔恨之道</a> &#8226; 莲花雪原 &#8226; 八寒地狱入口 &#8226; 冥河 &#8226; 大莲华地狱 &#8226; 实与虚之境</div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">音乐</td><td style=";;" class="navbox-list navbox-even"><div><a href="./东方雪莲华_～_Abyss_Soul_Lotus.-Music.md" title="东方雪莲华 ～ Abyss Soul Lotus./Music">Music Room</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="./东方雪莲华_～_Abyss_Soul_Lotus..md" title="东方雪莲华 ～ Abyss Soul Lotus.">附带文档</a></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./东方雪莲华_～_Abyss_Soul_Lotus.-游戏内Manual.md" title="东方雪莲华 ～ Abyss Soul Lotus./游戏内Manual">游戏内Manual</a> &#8226; <a href="./东方雪莲华_～_Abyss_Soul_Lotus.-角色设定.md" title="东方雪莲华 ～ Abyss Soul Lotus./角色设定">角色设定</a> &#8226; <a class="mw-selflink selflink">雪莲华求闻</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">系统</td><td style=";;" class="navbox-list navbox-even"><div><a href="./东方雪莲华_～_Abyss_Soul_Lotus.-系统.md" title="东方雪莲华 ～ Abyss Soul Lotus./系统">机体特性与系统说明</a> &#8226; <a href="./东方雪莲华_～_Abyss_Soul_Lotus.-其他相关资料.md" title="东方雪莲华 ～ Abyss Soul Lotus./其他相关资料">其他相关资料</a> &#8226; <a href="./东方雪莲华_～_Abyss_Soul_Lotus.-成就.md" title="东方雪莲华 ～ Abyss Soul Lotus./成就">成就</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">符卡</td><td style=";;" class="navbox-list navbox-odd"><div><a href="./东方雪莲华_～_Abyss_Soul_Lotus.-Stage_1.md" title="东方雪莲华 ～ Abyss Soul Lotus./Stage 1">Stage 1</a> &#8226; <a href="./东方雪莲华_～_Abyss_Soul_Lotus.-Stage_2.md" title="东方雪莲华 ～ Abyss Soul Lotus./Stage 2">Stage 2</a> &#8226; <a href="./东方雪莲华_～_Abyss_Soul_Lotus.-Stage_3.md" title="东方雪莲华 ～ Abyss Soul Lotus./Stage 3">Stage 3</a> &#8226; <a href="./东方雪莲华_～_Abyss_Soul_Lotus.-Stage_4.md" title="东方雪莲华 ～ Abyss Soul Lotus./Stage 4">Stage 4</a> &#8226; <a href="./东方雪莲华_～_Abyss_Soul_Lotus.-Stage_5.md" title="东方雪莲华 ～ Abyss Soul Lotus./Stage 5">Stage 5</a> &#8226; <a href="./东方雪莲华_～_Abyss_Soul_Lotus.-Stage_6.md" title="东方雪莲华 ～ Abyss Soul Lotus./Stage 6">Stage 6</a> &#8226; <a href="./东方雪莲华_～_Abyss_Soul_Lotus.-Extra.md" title="东方雪莲华 ～ Abyss Soul Lotus./Extra">Extra</a></div></td></tr></tbody></table></td></tr></tbody></table>
-
-
-
-
-
+[^cite_note-2]: 太空歌剧系列电影《星球大战》中的角色“卢克·天行者”。
+[^cite_note-3]: 捏他《圣斗士星矢》。
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:AZselection封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b1\ns6%3AAZselection%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b1\ns6%3AAZselection%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 小豆粥
 
@@ -10,16 +10,15 @@
 使用了本文件作封面图片的作品：
   
 
-- [AZselection](./AZselection.md)  
-该封面包含的角色：- [红美铃](./红美铃.md)- [橙](./橙.md)- [八云蓝](./八云蓝.md)- [八云紫](./八云紫.md)- [二岩猯藏](./二岩猯藏.md)
+- [AZselection](./AZselection.md)该封面包含的角色：
+- [红美铃](./红美铃.md)
+- [橙](./橙.md)
+- [八云蓝](./八云蓝.md)
+- [八云紫](./八云紫.md)
+- [二岩猯藏](./二岩猯藏.md)
 
   
-源地址：[[1]](https://blog-imgs-50.fc2.com/a/z/u/azukiosamitu/azukhyousi.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://blog-imgs-50.fc2.com/a/z/u/azukiosamitu/azukhyousi.jpg)  
 
 ---
 

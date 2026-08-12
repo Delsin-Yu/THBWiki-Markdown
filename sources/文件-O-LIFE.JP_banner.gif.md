@@ -1,12 +1,8 @@
 # 文件:O-LIFE.JP_banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a4\ns6%3AO-LIFE%2EJP_banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a4\ns6%3AO-LIFE%2EJP_banner%2Egif.html -->
 
 O-LIFE.JP | 社团LOGO
-
-
-
-
 
 
 ---

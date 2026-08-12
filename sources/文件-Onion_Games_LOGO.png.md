@@ -1,12 +1,8 @@
 # 文件:Onion_Games_LOGO.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e1\ns6%3AOnion_Games_LOGO%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e1\ns6%3AOnion_Games_LOGO%2Epng.html -->
 
 Onion_Games | 企业LOGO
-
-
-
-
 
 
 ---

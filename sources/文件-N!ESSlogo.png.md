@@ -1,16 +1,11 @@
 # 文件:N!ESSlogo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1f\ns6%3AN%21ESSlogo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1f\ns6%3AN%21ESSlogo%2Epng.html -->
 
 N!ESS | 社团LOGO
 
   
-源地址：[[1]](http://niceedmond-officialweb.tokyo/wp-content/uploads/2018/01/20180130-logo-white-150pt-300dpi.png)
-  
-
-
-
-
+源地址：[\[1\]](http://niceedmond-officialweb.tokyo/wp-content/uploads/2018/01/20180130-logo-white-150pt-300dpi.png)  
 
 ---
 

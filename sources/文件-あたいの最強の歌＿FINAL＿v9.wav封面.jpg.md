@@ -1,6 +1,6 @@
 # 文件:あたいの最強の歌＿FINAL＿v9.wav封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\af\ns6%3A%E3%81%82%E3%81%9F%E3%81%84%E3%81%AE%E6%9C%80%E5%BC%B7%E3%81%AE%E6%AD%8C%EF%BC%BFFINAL%EF%BC%BFv9%2Ewav%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\af\ns6%3A%E3%81%82%E3%81%9F%E3%81%84%E3%81%AE%E6%9C%80%E5%BC%B7%E3%81%AE%E6%AD%8C%EF%BC%BFFINAL%EF%BC%BFv9%2Ewav%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 追憶サーキット
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [あたいの最強の歌＿FINAL＿v9.wav](./あたいの最強の歌＿FINAL＿v9.wav.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)
+- [あたいの最強の歌＿FINAL＿v9.wav](./あたいの最強の歌＿FINAL＿v9.wav.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
 
   
-源地址：[[1]](https://f4.bcbits.com/img/a0452616085_10.jpg), [artist post](https://twitter.com/Kappce_/status/1303372509966938118)
-  
-
-
-
-
+源地址：[\[1\]](https://f4.bcbits.com/img/a0452616085_10.jpg), [artist post](https://twitter.com/Kappce_/status/1303372509966938118)  
 
 ---
 

@@ -1,20 +1,15 @@
 # 東方真珠島_～_Hollow_Song_of_Birds./EX详述/攻略
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\22\ns0%3A%E6%9D%B1%E6%96%B9%E7%9C%9F%E7%8F%A0%E5%B3%B6_%EF%BD%9E_Hollow_Song_of_Birds%2E%2FEX%E8%AF%A6%E8%BF%B0%2F%E6%94%BB%E7%95%A5.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\22\ns0%3A%E6%9D%B1%E6%96%B9%E7%9C%9F%E7%8F%A0%E5%B3%B6_%EF%BD%9E_Hollow_Song_of_Birds%2E%2FEX%E8%AF%A6%E8%BF%B0%2F%E6%94%BB%E7%95%A5.html -->
 
 東方邪星章製作チーム
 
   
- **善用卡诺匹斯罐的方法：在选择副灵击界面长按v键** 
-  
+**善用卡诺匹斯罐的方法：在选择副灵击界面长按v键**  
 
 - 效果:可解锁全部副灵击[^cite_note-1]
 
 [^cite_note-1]: 详见灵击页面
-
-
-
-
 
 ---
 

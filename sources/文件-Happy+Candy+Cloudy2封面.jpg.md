@@ -1,6 +1,6 @@
 # 文件:Happy+Candy+Cloudy2封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\de\ns6%3AHappy%2BCandy%2BCloudy2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\de\ns6%3AHappy%2BCandy%2BCloudy2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Astral_Sky | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Astral_Sky | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Happy+Candy+Cloudy2](./Happy+Candy+Cloudy2.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)
+- [Happy+Candy+Cloudy2](./Happy+Candy+Cloudy2.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
 
   
-源地址：[[1]](http://static.tumblr.com/cb5f548a1e12fc543840e7d4d53f81cd/eil6ehm/20Hn7w24j/tumblr_static_5jlb44xqj04ccg088owwsw80w.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://static.tumblr.com/cb5f548a1e12fc543840e7d4d53f81cd/eil6ehm/20Hn7w24j/tumblr_static_5jlb44xqj04ccg088owwsw80w.jpg)  
 
 ---
 

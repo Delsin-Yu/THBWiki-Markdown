@@ -1,12 +1,8 @@
 # 文件:Human_Error_banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f4\ns6%3AHuman_Error_banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f4\ns6%3AHuman_Error_banner%2Epng.html -->
 
 Human_Error | 社团LOGO
-
-
-
-
 
 
 ---

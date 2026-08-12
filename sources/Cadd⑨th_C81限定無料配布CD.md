@@ -1,40 +1,33 @@
 # Cadd⑨th_C81限定無料配布CD
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\6e\ns0%3ACadd%E2%91%A8th_C81%E9%99%90%E5%AE%9A%E7%84%A1%E6%96%99%E9%85%8D%E5%B8%83CD.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\6e\ns0%3ACadd%E2%91%A8th_C81%E9%99%90%E5%AE%9A%E7%84%A1%E6%96%99%E9%85%8D%E5%B8%83CD.html -->
 
 2011年12月30日 由 Cadd⑨th 于 Comic Market 81 发布的Demo同人专辑，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人专辑 (未找到链接)** 的词条
-
+**[二次创作同人专辑](./二次创作.md#同人音乐)**的词条
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Cadd⑨th_C81限定無料配布CD封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/9/96/Cadd%E2%91%A8th_C81%E9%99%90%E5%AE%9A%E7%84%A1%E6%96%99%E9%85%8D%E5%B8%83CD%E5%B0%81%E9%9D%A2.jpg/221px-Cadd%E2%91%A8th_C81%E9%99%90%E5%AE%9A%E7%84%A1%E6%96%99%E9%85%8D%E5%B8%83CD%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="221" height="224" srcset="https://upload.thwiki.cc/thumb/9/96/Cadd%E2%91%A8th_C81%E9%99%90%E5%AE%9A%E7%84%A1%E6%96%99%E9%85%8D%E5%B8%83CD%E5%B0%81%E9%9D%A2.jpg/332px-Cadd%E2%91%A8th_C81%E9%99%90%E5%AE%9A%E7%84%A1%E6%96%99%E9%85%8D%E5%B8%83CD%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/9/96/Cadd%E2%91%A8th_C81%E9%99%90%E5%AE%9A%E7%84%A1%E6%96%99%E9%85%8D%E5%B8%83CD%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="379" data-file-height="384"></a></td>
 </tr><tr><td class="label">名称</td><td colspan="2"> Cadd⑨th C81限定無料配布CD </td></tr><tr><td class="label">制作方</td><td><a href="./Cadd⑨th.md" title="Cadd⑨th">Cadd⑨th</a></td><td class="cover-artwork" rowspan="8" style="min-width:224px;"><a href="./文件-Cadd⑨th_C81限定無料配布CD封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/9/96/Cadd%E2%91%A8th_C81%E9%99%90%E5%AE%9A%E7%84%A1%E6%96%99%E9%85%8D%E5%B8%83CD%E5%B0%81%E9%9D%A2.jpg/221px-Cadd%E2%91%A8th_C81%E9%99%90%E5%AE%9A%E7%84%A1%E6%96%99%E9%85%8D%E5%B8%83CD%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="221" height="224" srcset="https://upload.thwiki.cc/thumb/9/96/Cadd%E2%91%A8th_C81%E9%99%90%E5%AE%9A%E7%84%A1%E6%96%99%E9%85%8D%E5%B8%83CD%E5%B0%81%E9%9D%A2.jpg/332px-Cadd%E2%91%A8th_C81%E9%99%90%E5%AE%9A%E7%84%A1%E6%96%99%E9%85%8D%E5%B8%83CD%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/9/96/Cadd%E2%91%A8th_C81%E9%99%90%E5%AE%9A%E7%84%A1%E6%96%99%E9%85%8D%E5%B8%83CD%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="379" data-file-height="384"></a></td>
-</tr><tr><td class="label">首发日期</td><td>2011-12-30&#160;（<a href="/展会作品列表?e=Comic+Market%2381">Comic Market 81</a>）</td></tr><tr><td class="label">类型</td><td>Demo</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>2</td></tr><tr><td class="label">总时长</td><td>00:00</td></tr><tr><td class="label">售价</td><td>会场售价：免费</td></tr>
+</tr><tr><td class="label">首发日期</td><td>2011-12-30 （<a href="./展会作品列表.md#81">Comic Market 81</a>）</td></tr><tr><td class="label">类型</td><td>Demo</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>2</td></tr><tr><td class="label">总时长</td><td>00:00</td></tr><tr><td class="label">售价</td><td>会场售价：免费</td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/Takezo_Cadd9th/status/152310017339564033">https://twitter.com/Takezo_Cadd9th/status/152310017339564033</a></td></tr></tbody></table>
 
 Cadd⑨th C81限定無料配布CD（同人专辑，Cadd⑨th，2011） - 2011年12月30日 由 Cadd⑨th 于 Comic Market 81 发布的Demo同人专辑，分级为 一般向
-
 ## Staff
   
- **Arrangement**   
+**Arrangement**  
 
-<table><tbody><tr><td><a href="/index.php?title=%E3%82%BF%E3%82%B1%E3%82%BE%E3%83%BC&amp;action=edit&amp;redlink=1" class="new" title="タケゾー（页面不存在）">タケゾー</a></td><td><a href="./Cadd⑨th.md" title="Cadd⑨th">Cadd⑨th</a></td><td>Tr.1/2</td></tr></tbody></table>
-
+<table><tbody><tr><td><a class="new" title="タケゾー（页面不存在）">タケゾー</a></td><td><a href="./Cadd⑨th.md" title="Cadd⑨th">Cadd⑨th</a></td><td>Tr.1/2</td></tr></tbody></table>
 
 
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="幽霊楽団_～_Phantom_Ensembleアレンジ" colspan="2" class="title">幽霊楽団　～ Phantom Ensembleアレンジ<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=タケゾー&amp;ogmusic=幽霊楽団　～ Phantom Ensemble&amp;fromwiki=Cadd⑨th_C81限定無料配布CD"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E3%82%BF%E3%82%B1%E3%82%BE%E3%83%BC&amp;action=edit&amp;redlink=1" class="new" title="タケゾー（页面不存在）">タケゾー</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，タケゾー&amp;fromwiki=Cadd⑨th_C81限定無料配布CD"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=幽霊楽団　～ Phantom Ensemble&amp;fromwiki=Cadd⑨th_C81限定無料配布CD"><span></span></a></span><div class="ogmusic"><a href="./幽霊楽団_～_Phantom_Ensemble.md" class="mw-redirect" title="幽霊楽団 ～ Phantom Ensemble">幽霊楽団　～ Phantom Ensemble</a></div><div class="source"><a href="./东方妖妖梦_～_Perfect_Cherry_Blossom..md" class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr>
-<tr><td id="2" class="infoYD"><b>02</b></td><td id="ほおずきみたいに紅い魂+妖魔夜行アレンジ" colspan="2" class="title">ほおずきみたいに紅い魂+妖魔夜行アレンジ<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=タケゾー&amp;ogmusic=ほおずきみたいに紅い魂，妖魔夜行&amp;fromwiki=Cadd⑨th_C81限定無料配布CD"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E3%82%BF%E3%82%B1%E3%82%BE%E3%83%BC&amp;action=edit&amp;redlink=1" class="new" title="タケゾー（页面不存在）">タケゾー</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，タケゾー&amp;fromwiki=Cadd⑨th_C81限定無料配布CD"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=ほおずきみたいに紅い魂，妖魔夜行&amp;fromwiki=Cadd⑨th_C81限定無料配布CD"><span></span></a></span><div class="ogmusic"><a href="./ほおずきみたいに紅い魂.md" class="mw-redirect" title="ほおずきみたいに紅い魂">ほおずきみたいに紅い魂</a></div><div class="ogmusic"><a href="./妖魔夜行.md" title="妖魔夜行">妖魔夜行</a></div><div class="source"><a href="./东方红魔乡_～_the_Embodiment_of_Scarlet_Devil..md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr></tbody></table>
-
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="幽霊楽団_～_Phantom_Ensembleアレンジ" colspan="2" class="title">幽霊楽団　～ Phantom Ensembleアレンジ</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="タケゾー（页面不存在）">タケゾー</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./幽灵乐团_～_Phantom_Ensemble.md" class="mw-redirect" title="幽霊楽団 ～ Phantom Ensemble">幽霊楽団　～ Phantom Ensemble</a></div><div class="source"><a href="./东方妖妖梦.md" class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr>
+<tr><td id="2" class="infoYD"><b>02</b></td><td id="ほおずきみたいに紅い魂+妖魔夜行アレンジ" colspan="2" class="title">ほおずきみたいに紅い魂+妖魔夜行アレンジ</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="タケゾー（页面不存在）">タケゾー</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./如鬼灯般的红色之魂.md" class="mw-redirect" title="ほおずきみたいに紅い魂">ほおずきみたいに紅い魂</a></div><div class="ogmusic"><a href="./妖魔夜行.md" title="妖魔夜行">妖魔夜行</a></div><div class="source"><a href="./东方红魔乡.md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr></tbody></table>
 
 
 ## 评论
-
-
-
 
 ---
 

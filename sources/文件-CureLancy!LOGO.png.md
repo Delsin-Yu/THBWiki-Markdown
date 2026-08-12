@@ -1,16 +1,12 @@
 # 文件:CureLancy!LOGO.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c0\ns6%3ACureLancy%21LOGO%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c0\ns6%3ACureLancy%21LOGO%2Epng.html -->
 
 CureLancy! | 社团LOGO
 
   
 CureLancy!社团Logo
   
-
-
-
-
 
 ---
 

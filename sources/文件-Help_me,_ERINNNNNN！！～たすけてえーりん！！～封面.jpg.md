@@ -1,14 +1,11 @@
 # 文件:Help_me,_ERINNNNNN！！～たすけてえーりん！！～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0f\ns6%3AHelp_me%2C_ERINNNNNN%EF%BC%81%EF%BC%81%EF%BD%9E%E3%81%9F%E3%81%99%E3%81%91%E3%81%A6%E3%81%88%E3%83%BC%E3%82%8A%E3%82%93%EF%BC%81%EF%BC%81%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0f\ns6%3AHelp_me%2C_ERINNNNNN%EF%BC%81%EF%BC%81%EF%BD%9E%E3%81%9F%E3%81%99%E3%81%91%E3%81%A6%E3%81%88%E3%83%BC%E3%82%8A%E3%82%93%EF%BC%81%EF%BC%81%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 COOL&CREATE | 专辑封面 | 封面图片
 
 
 ## 摘要
-
-
-
 
 ---
 

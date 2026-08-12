@@ -1,6 +1,6 @@
 # 文件:MataraKick封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\17\ns6%3AMataraKick%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\17\ns6%3AMataraKick%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 封面图片 | 永远幻想矩阵 | 软件封面
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [MataraKick](./MataraKick.md)  
-该封面包含的角色：- [摩多罗隐岐奈](./摩多罗隐岐奈.md)
-
-
-
+- [MataraKick](./MataraKick.md)该封面包含的角色：
+- [摩多罗隐岐奈](./摩多罗隐岐奈.md)
 
 
 ---

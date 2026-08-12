@@ -1,6 +1,6 @@
 # 文件:東方不可拘束_～the_maximum_moving_about!～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d5\ns6%3A%E6%9D%B1%E6%96%B9%E4%B8%8D%E5%8F%AF%E6%8B%98%E6%9D%9F_%EF%BD%9Ethe_maximum_moving_about%21%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d5\ns6%3A%E6%9D%B1%E6%96%B9%E4%B8%8D%E5%8F%AF%E6%8B%98%E6%9D%9F_%EF%BD%9Ethe_maximum_moving_about%21%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 石鹸屋
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方不可拘束 ～the maximum moving about!～](./東方不可拘束_～the_maximum_moving_about!～.md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)- [伊吹萃香](./伊吹萃香.md)
-
-
-
+- [東方不可拘束 ～the maximum moving about!～](./東方不可拘束_～the_maximum_moving_about!～.md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
+- [伊吹萃香](./伊吹萃香.md)
 
 
 ---

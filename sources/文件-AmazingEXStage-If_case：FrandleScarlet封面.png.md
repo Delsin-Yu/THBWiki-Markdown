@@ -1,6 +1,6 @@
 # 文件:AmazingEXStage-If_case：FrandleScarlet封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4b\ns6%3AAmazingEXStage-If_case%EF%BC%9AFrandleScarlet%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4b\ns6%3AAmazingEXStage-If_case%EF%BC%9AFrandleScarlet%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 dat_file_records | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ dat_file_records | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [AmazingEXStage-If case：FrandleScarlet](./AmazingEXStage-If_case：FrandleScarlet.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [AmazingEXStage-If case：FrandleScarlet](./AmazingEXStage-If_case：FrandleScarlet.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
   
-源地址：[[1]](http://static.tumblr.com/a22c1763bcb48eb9188ad4992cf5ad8d/e3lazzy/Tldnwm0uy/tumblr_static_ajf4cu3etkw0kg84gk8480oo.png)
-  
-
-
-
-
+源地址：[\[1\]](http://static.tumblr.com/a22c1763bcb48eb9188ad4992cf5ad8d/e3lazzy/Tldnwm0uy/tumblr_static_ajf4cu3etkw0kg84gk8480oo.png)  
 
 ---
 

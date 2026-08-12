@@ -1,12 +1,8 @@
 # 文件:Torte_Le_Magic菜单界面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5b\ns6%3ATorte_Le_Magic%E8%8F%9C%E5%8D%95%E7%95%8C%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5b\ns6%3ATorte_Le_Magic%E8%8F%9C%E5%8D%95%E7%95%8C%E9%9D%A2%2Ejpg.html -->
 
 Torte_Le_Magic | 游戏菜单界面
-
-
-
-
 
 
 ---

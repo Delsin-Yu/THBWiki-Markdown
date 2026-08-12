@@ -1,6 +1,6 @@
 # 文件:無料CD_其の一封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d3\ns6%3A%E7%84%A1%E6%96%99CD_%E5%85%B6%E3%81%AE%E4%B8%80%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d3\ns6%3A%E7%84%A1%E6%96%99CD_%E5%85%B6%E3%81%AE%E4%B8%80%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 mochi_season | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ mochi_season | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [無料CD 其の一](./無料CD_其の一.md)  
-该封面包含的角色：- 原创角色 (未找到链接)
-
-
-
+- [無料CD 其の一](./無料CD_其の一.md)该封面包含的角色：
+- 原创角色 (未找到链接)
 
 
 ---

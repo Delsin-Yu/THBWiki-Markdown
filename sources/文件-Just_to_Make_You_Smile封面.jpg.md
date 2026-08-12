@@ -1,6 +1,6 @@
 # 文件:Just_to_Make_You_Smile封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cd\ns6%3AJust_to_Make_You_Smile%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cd\ns6%3AJust_to_Make_You_Smile%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Kinetic_Stream | 专辑封面 | 封面图片
 
@@ -8,10 +8,7 @@ Kinetic_Stream | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Just to Make You Smile](./Just_to_Make_You_Smile.md)源地址：[[1]](https://booth.pximg.net/c/620x620/f81198c6-24ad-41c5-a749-2efcdc85d9c8/i/887637/962a2248-1f39-4856-9a2e-5226e035389c_base_resized.jpg)
-
-
-
+- [Just to Make You Smile](./Just_to_Make_You_Smile.md)源地址：[\[1\]](https://booth.pximg.net/c/620x620/f81198c6-24ad-41c5-a749-2efcdc85d9c8/i/887637/962a2248-1f39-4856-9a2e-5226e035389c_base_resized.jpg)
 
 
 ---

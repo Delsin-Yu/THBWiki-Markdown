@@ -1,12 +1,8 @@
 # 文件:THD2魔术师银匕首.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a2\ns6%3ATHD2%E9%AD%94%E6%9C%AF%E5%B8%88%E9%93%B6%E5%8C%95%E9%A6%96%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a2\ns6%3ATHD2%E9%AD%94%E6%9C%AF%E5%B8%88%E9%93%B6%E5%8C%95%E9%A6%96%2Epng.html -->
 
 AvalonStudioOfficial
-
-
-
-
 
 
 ---

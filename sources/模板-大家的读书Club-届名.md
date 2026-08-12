@@ -1,16 +1,12 @@
 # 模板:大家的读书Club/届名
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\b\b5\ns10%3A%E5%A4%A7%E5%AE%B6%E7%9A%84%E8%AF%BB%E4%B9%A6Club%2F%E5%B1%8A%E5%90%8D.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\b\b5\ns10%3A%E5%A4%A7%E5%AE%B6%E7%9A%84%E8%AF%BB%E4%B9%A6Club%2F%E5%B1%8A%E5%90%8D.html -->
 
 活动届名模板
 
   
 东方久远境 大家的读书Club
   
-
-
-
-
 
 ---
 

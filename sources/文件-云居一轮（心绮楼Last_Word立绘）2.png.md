@@ -1,12 +1,8 @@
 # 文件:云居一轮（心绮楼Last_Word立绘）2.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8e\ns6%3A%E4%BA%91%E5%B1%85%E4%B8%80%E8%BD%AE%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BCLast_Word%E7%AB%8B%E7%BB%98%EF%BC%892%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8e\ns6%3A%E4%BA%91%E5%B1%85%E4%B8%80%E8%BD%AE%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BCLast_Word%E7%AB%8B%E7%BB%98%EF%BC%892%2Epng.html -->
 
 Alphes绘 | 东方心绮楼 | 云居一轮 | 云山 | 官方游戏立绘
-
-
-
-
 
 
 ---

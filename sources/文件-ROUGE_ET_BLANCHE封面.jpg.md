@@ -1,6 +1,6 @@
 # 文件:ROUGE_ET_BLANCHE封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\30\ns6%3AROUGE_ET_BLANCHE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\30\ns6%3AROUGE_ET_BLANCHE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 A-GEAR | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ A-GEAR | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [ROUGE ET BLANCHE](./ROUGE_ET_BLANCHE.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [ROUGE ET BLANCHE](./ROUGE_ET_BLANCHE.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

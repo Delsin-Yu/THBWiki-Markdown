@@ -1,12 +1,8 @@
 # 文件:ばらねこlogo.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fa\ns6%3A%E3%81%B0%E3%82%89%E3%81%AD%E3%81%93logo%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fa\ns6%3A%E3%81%B0%E3%82%89%E3%81%AD%E3%81%93logo%2Egif.html -->
 
 ばらねこ | 社团LOGO
-
-
-
-
 
 
 ---

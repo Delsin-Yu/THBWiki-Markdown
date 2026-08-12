@@ -1,12 +1,8 @@
 # 文件:「Persuasion_Needle」（天邪鬼）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\91\ns6%3A%E3%80%8CPersuasion_Needle%E3%80%8D%EF%BC%88%E5%A4%A9%E9%82%AA%E9%AC%BC%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\91\ns6%3A%E3%80%8CPersuasion_Needle%E3%80%8D%EF%BC%88%E5%A4%A9%E9%82%AA%E9%AC%BC%EF%BC%89%2Ejpg.html -->
 
 博丽灵梦 | 弹幕天邪鬼 | 敌机符卡
-
-
-
-
 
 
 ---

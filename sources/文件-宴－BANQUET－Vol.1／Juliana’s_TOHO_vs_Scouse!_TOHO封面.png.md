@@ -1,6 +1,6 @@
 # 文件:宴－BANQUET－Vol.1／Juliana’s_TOHO_vs_Scouse!_TOHO封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3e\ns6%3A%E5%AE%B4%EF%BC%8DBANQUET%EF%BC%8DVol%2E1%EF%BC%8FJuliana%E2%80%99s_TOHO_vs_Scouse%21_TOHO%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3e\ns6%3A%E5%AE%B4%EF%BC%8DBANQUET%EF%BC%8DVol%2E1%EF%BC%8FJuliana%E2%80%99s_TOHO_vs_Scouse%21_TOHO%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 俺++(Includeore) | 封面图片
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [宴－BANQUET－Vol.1／Juliana’s TOHO vs Scouse! TOHO](./宴－BANQUET－Vol.1／Juliana’s_TOHO_vs_Scouse!_TOHO.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [宴－BANQUET－Vol.1／Juliana’s TOHO vs Scouse! TOHO](./宴－BANQUET－Vol.1／Juliana’s_TOHO_vs_Scouse!_TOHO.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

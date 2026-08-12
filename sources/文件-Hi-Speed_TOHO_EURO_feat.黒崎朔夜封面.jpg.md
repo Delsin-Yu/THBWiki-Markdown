@@ -1,6 +1,6 @@
 # 文件:Hi-Speed_TOHO_EURO_feat.黒崎朔夜封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f5\ns6%3AHi-Speed_TOHO_EURO_feat%2E%E9%BB%92%E5%B4%8E%E6%9C%94%E5%A4%9C%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f5\ns6%3AHi-Speed_TOHO_EURO_feat%2E%E9%BB%92%E5%B4%8E%E6%9C%94%E5%A4%9C%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 556ミリメートル | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [Hi-Speed TOHO EURO feat.黒崎朔夜](./Hi-Speed_TOHO_EURO_feat.黒崎朔夜.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [Hi-Speed TOHO EURO feat.黒崎朔夜](./Hi-Speed_TOHO_EURO_feat.黒崎朔夜.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

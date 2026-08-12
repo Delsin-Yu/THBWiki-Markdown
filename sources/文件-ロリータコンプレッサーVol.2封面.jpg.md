@@ -1,6 +1,6 @@
 # 文件:ロリータコンプレッサーVol.2封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fd\ns6%3A%E3%83%AD%E3%83%AA%E3%83%BC%E3%82%BF%E3%82%B3%E3%83%B3%E3%83%97%E3%83%AC%E3%83%83%E3%82%B5%E3%83%BCVol%2E2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fd\ns6%3A%E3%83%AD%E3%83%AA%E3%83%BC%E3%82%BF%E3%82%B3%E3%83%B3%E3%83%97%E3%83%AC%E3%83%83%E3%82%B5%E3%83%BCVol%2E2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 LCMF | 专辑封面 | 封面图片
 
@@ -9,11 +9,9 @@ LCMF | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [ロリータコンプレッサーVol.2](./ロリータコンプレッサーVol.2.md)  
-该封面包含的角色：- [露米娅](./露米娅.md)- [犬走椛](./犬走椛.md)
-
-
-
+- [ロリータコンプレッサーVol.2](./ロリータコンプレッサーVol.2.md)该封面包含的角色：
+- [露米娅](./露米娅.md)
+- [犬走椛](./犬走椛.md)
 
 
 ---

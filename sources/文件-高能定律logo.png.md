@@ -1,16 +1,12 @@
 # 文件:高能定律logo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f2\ns6%3A%E9%AB%98%E8%83%BD%E5%AE%9A%E5%BE%8Blogo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f2\ns6%3A%E9%AB%98%E8%83%BD%E5%AE%9A%E5%BE%8Blogo%2Epng.html -->
 
 社团LOGO | 高能定律
 
   
 高能定律LOGO
   
-
-
-
-
 
 ---
 

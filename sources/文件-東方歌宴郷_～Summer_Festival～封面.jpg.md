@@ -1,6 +1,6 @@
 # 文件:東方歌宴郷_～Summer_Festival～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5a\ns6%3A%E6%9D%B1%E6%96%B9%E6%AD%8C%E5%AE%B4%E9%83%B7_%EF%BD%9ESummer_Festival%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5a\ns6%3A%E6%9D%B1%E6%96%B9%E6%AD%8C%E5%AE%B4%E9%83%B7_%EF%BD%9ESummer_Festival%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Frontier_Records | 专辑封面 | 封面图片 | 松树千年翠
 
@@ -8,11 +8,20 @@ Frontier_Records | 专辑封面 | 封面图片 | 松树千年翠
 使用了本文件作封面图片的作品：
   
 
-- [東方歌宴郷 ～Summer Festival～](./東方歌宴郷_～Summer_Festival～.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)- 十六夜咲夜 (未找到链接)- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [西行寺幽幽子](./西行寺幽幽子.md)- [八云紫](./八云紫.md)- [蓬莱山辉夜](./蓬莱山辉夜.md)- [东风谷早苗](./东风谷早苗.md)- [洩矢诹访子](./洩矢诹访子.md)- [火焰猫燐](./火焰猫燐.md)- [灵乌路空](./灵乌路空.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [東方歌宴郷 ～Summer Festival～](./東方歌宴郷_～Summer_Festival～.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
+- [十六夜咲夜](./十六夜咲夜.md)
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [西行寺幽幽子](./西行寺幽幽子.md)
+- [八云紫](./八云紫.md)
+- [蓬莱山辉夜](./蓬莱山辉夜.md)
+- [东风谷早苗](./东风谷早苗.md)
+- [洩矢诹访子](./洩矢诹访子.md)
+- [火焰猫燐](./火焰猫燐.md)
+- [灵乌路空](./灵乌路空.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

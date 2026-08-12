@@ -1,6 +1,6 @@
 # 文件:幻想遊牧民～C80デモCD～封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7d\ns6%3A%E5%B9%BB%E6%83%B3%E9%81%8A%E7%89%A7%E6%B0%91%EF%BD%9EC80%E3%83%87%E3%83%A2CD%EF%BD%9E%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7d\ns6%3A%E5%B9%BB%E6%83%B3%E9%81%8A%E7%89%A7%E6%B0%91%EF%BD%9EC80%E3%83%87%E3%83%A2CD%EF%BD%9E%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 幻想遊牧民
 
@@ -8,12 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [幻想遊牧民～C80デモCD～](./幻想遊牧民～C80デモCD～.md)  
-该封面包含的角色：- [莉格露·奈特巴格](./莉格露·奈特巴格.md)Converted from bmp. 源地址：[[1]](http://gensouyuubokumin.xxxxxxxx.jp/main/oto/c801.bmp)
-
-
-
-
+- [幻想遊牧民～C80デモCD～](./幻想遊牧民～C80デモCD～.md)该封面包含的角色：
+- [莉格露·奈特巴格](./莉格露·奈特巴格.md)
+Converted from bmp. 源地址：[\[1\]](http://gensouyuubokumin.xxxxxxxx.jp/main/oto/c801.bmp)
 
 ---
 

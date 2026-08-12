@@ -1,12 +1,8 @@
 # 文件:米拉米卡尔丽兰（ZUN风绘）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d5\ns6%3A%E7%B1%B3%E6%8B%89%E7%B1%B3%E5%8D%A1%E5%B0%94%E4%B8%BD%E5%85%B0%EF%BC%88ZUN%E9%A3%8E%E7%BB%98%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d5\ns6%3A%E7%B1%B3%E6%8B%89%E7%B1%B3%E5%8D%A1%E5%B0%94%E4%B8%BD%E5%85%B0%EF%BC%88ZUN%E9%A3%8E%E7%BB%98%EF%BC%89%2Epng.html -->
 
 米拉米卡尔丽兰
-
-
-
-
 
 
 ---

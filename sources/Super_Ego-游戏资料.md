@@ -1,6 +1,6 @@
 # Super_Ego/游戏资料
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\5\5a\ns0%3ASuper_Ego%2F%E6%B8%B8%E6%88%8F%E8%B5%84%E6%96%99.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\5\5a\ns0%3ASuper_Ego%2F%E6%B8%B8%E6%88%8F%E8%B5%84%E6%96%99.html -->
 
 古明地恋 | 符卡
 
@@ -17,25 +17,17 @@
 </td></tr></tbody></table>
 
 
-
 ## 东方地灵殿
 
 <table>
 <tbody><tr><td style="min-width:200px" colspan="4" align="center"><b>抑制「Super Ego」</b></td></tr><tr><td style="min-width:100px" colspan="2" align="center"><b>符卡使用者</b></td><td style="min-width:250px" colspan="2" align="center"><a href="./古明地恋.md" title="古明地恋">古明地恋</a></td></tr><tr><td style="min-width:100px" colspan="2" align="center"><b>符卡血量</b></td><td style="min-width:250px" colspan="2" align="center">3200</td></tr><tr><td style="min-width:100px" colspan="2" align="center"><b>符卡时间</b></td><td style="min-width:250px" colspan="2" align="center">90</td></tr><tr><td style="min-width:100px" colspan="2" align="center"><b>弹幕类型</b></td><td style="min-width:250px" colspan="2" align="center">角随固</td></tr><tr><td style="min-width:100px" colspan="2" align="center"><b>应对建议</b></td><td style="min-width:250px" colspan="2" align="center">混关建议2bomb</td></tr>
 </tbody></table>
 
-
-
   
 比起本我，这张卡更简单一些，子弹轨迹变为从版外向恋恋回收  
 
 版底弹速慢，缝也更大，也需要多熟悉熟悉轨迹，多加练习（无技巧）
   
-
-
-
-
-
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:BEST／ii封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c4\ns6%3ABEST%EF%BC%8Fii%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c4\ns6%3ABEST%EF%BC%8Fii%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 signum／ii | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ signum／ii | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [BEST／ii](./BEST／ii.md)  
-该封面包含的角色：- [古明地觉](./古明地觉.md)
-
-
-
+- [BEST／ii](./BEST／ii.md)该封面包含的角色：
+- [古明地觉](./古明地觉.md)
 
 
 ---

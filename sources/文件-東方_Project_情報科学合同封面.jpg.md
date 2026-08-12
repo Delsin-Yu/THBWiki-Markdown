@@ -1,6 +1,6 @@
 # 文件:東方_Project_情報科学合同封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1b\ns6%3A%E6%9D%B1%E6%96%B9_Project_%E6%83%85%E5%A0%B1%E7%A7%91%E5%AD%A6%E5%90%88%E5%90%8C%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1b\ns6%3A%E6%9D%B1%E6%96%B9_Project_%E6%83%85%E5%A0%B1%E7%A7%91%E5%AD%A6%E5%90%88%E5%90%8C%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Stardust_Sorcery | 同人志封面 | 封面图片
 
@@ -10,16 +10,12 @@ Stardust_Sorcery | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方 Project 情報科学合同](./東方_Project_情報科学合同.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [雾雨魔理沙](./雾雨魔理沙.md)
+- [東方 Project 情報科学合同](./東方_Project_情報科学合同.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-源地址：[direct image link (converted from png to jpg)](https://firebasestorage.googleapis.com/v0/b/stardustsorcery.appspot.com/o/src/image/表紙_左綴じ_72dpi.png?alt=media&amp;token=29a51ff4-cc7c-4d63-a59a-e30c1c4e2e34), [source page](https://ggtk.app/discography/touhou-ist-anth)
-  
-
-
-
-
+源地址：[direct image link (converted from png to jpg)](https://firebasestorage.googleapis.com/v0/b/stardustsorcery.appspot.com/o/src/image/表紙_左綴じ_72dpi.png?alt=media&token=29a51ff4-cc7c-4d63-a59a-e30c1c4e2e34), [source page](https://ggtk.app/discography/touhou-ist-anth)  
 
 ---
 

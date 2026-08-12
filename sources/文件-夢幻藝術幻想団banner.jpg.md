@@ -1,6 +1,6 @@
 # 文件:夢幻藝術幻想団banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\30\ns6%3A%E5%A4%A2%E5%B9%BB%E8%97%9D%E8%A1%93%E5%B9%BB%E6%83%B3%E5%9B%A3banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\30\ns6%3A%E5%A4%A2%E5%B9%BB%E8%97%9D%E8%A1%93%E5%B9%BB%E6%83%B3%E5%9B%A3banner%2Ejpg.html -->
 
 夢幻藝術幻想団 | 社团LOGO
 
@@ -8,12 +8,7 @@
 ## 摘要
   
 源地址：[direct image link](https://livedoor.blogimg.jp/merukatoru_ni_haguki/imgs/e/0/e0e43c62.jpg
-), [source page](http://blog.livedoor.jp/merukatoru_ni_haguki/archives/46464867.html)
-  
-
-
-
-
+), [source page](http://blog.livedoor.jp/merukatoru_ni_haguki/archives/46464867.html)  
 
 ---
 

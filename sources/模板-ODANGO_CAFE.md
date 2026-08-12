@@ -1,16 +1,12 @@
 # 模板:ODANGO_CAFE
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\d\df\ns10%3AODANGO_CAFE.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\d\df\ns10%3AODANGO_CAFE.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

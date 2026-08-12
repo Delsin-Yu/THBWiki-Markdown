@@ -1,18 +1,13 @@
 # 文件:NextHeavenlogo2.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0a\ns6%3ANextHeavenlogo2%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0a\ns6%3ANextHeavenlogo2%2Egif.html -->
 
 NextHeaven | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[direct image link](https://a.deviantart.net/avatars/n/e/nextheaven.gif?6), [from circle Deviantart](https://www.deviantart.com/nextheaven)
-  
-
-
-
-
+源地址：[direct image link](https://a.deviantart.net/avatars/n/e/nextheaven.gif?6), [from circle Deviantart](https://www.deviantart.com/nextheaven)  
 
 ---
 

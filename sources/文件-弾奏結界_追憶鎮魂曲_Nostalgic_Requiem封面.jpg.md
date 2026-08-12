@@ -1,6 +1,6 @@
 # 文件:弾奏結界_追憶鎮魂曲_Nostalgic_Requiem封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\38\ns6%3A%E5%BC%BE%E5%A5%8F%E7%B5%90%E7%95%8C_%E8%BF%BD%E6%86%B6%E9%8E%AE%E9%AD%82%E6%9B%B2_Nostalgic_Requiem%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\38\ns6%3A%E5%BC%BE%E5%A5%8F%E7%B5%90%E7%95%8C_%E8%BF%BD%E6%86%B6%E9%8E%AE%E9%AD%82%E6%9B%B2_Nostalgic_Requiem%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 dBu_music | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ dBu_music | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [弾奏結界 追憶鎮魂曲 Nostalgic Requiem](./弾奏結界_追憶鎮魂曲_Nostalgic_Requiem.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [弾奏結界 追憶鎮魂曲 Nostalgic Requiem](./弾奏結界_追憶鎮魂曲_Nostalgic_Requiem.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

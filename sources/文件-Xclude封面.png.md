@@ -1,6 +1,6 @@
 # 文件:Xclude封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c5\ns6%3AXclude%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c5\ns6%3AXclude%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Redial_Arts | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Redial_Arts | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Xclude](./Xclude.md)  
-该封面包含的角色：- [秦心](./秦心.md)
+- [Xclude](./Xclude.md)该封面包含的角色：
+- [秦心](./秦心.md)
 
   
-源地址：[[1]](http://static.tumblr.com/1c639cb4689f397bccc34fec0833f7d9/ctvayzv/U3Xo68sj2/tumblr_static_auwiefvz45s8cgkc8csoo8kcg.png)
-  
-
-
-
-
+源地址：[\[1\]](http://static.tumblr.com/1c639cb4689f397bccc34fec0833f7d9/ctvayzv/U3Xo68sj2/tumblr_static_auwiefvz45s8cgkc8csoo8kcg.png)  
 
 ---
 

@@ -1,12 +1,8 @@
 # 文件:J&B_banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\94\ns6%3AJ%26B_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\94\ns6%3AJ%26B_banner%2Ejpg.html -->
 
 J&B | 社团LOGO
-
-
-
-
 
 
 ---

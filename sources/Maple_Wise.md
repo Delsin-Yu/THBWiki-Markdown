@@ -1,43 +1,33 @@
 # Maple_Wise
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\9\97\ns0%3AMaple_Wise.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\9\97\ns0%3AMaple_Wise.html -->
 
 由 ZUN 创作的官方曲目，原名 メイプルワイズ
 
 本页是关于东方Project  
- **原作音乐** 的词条
-
+**原作音乐**的词条
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 出现作品](#出现作品)
 - [3 音乐文件](#音乐文件)
-
   - [3.1 东方怪绮谈](#东方怪绮谈)
   - [3.2 东方幻想的音乐](#东方幻想的音乐)
   - [3.3 幺乐团的历史 vol.2](#幺乐团的历史_vol.2)
 
 
-
 - [4 说明文本](#说明文本)
-
   - [4.1 东方怪绮谈](#东方怪绮谈_2)
   - [4.2 东方幻想的音乐](#东方幻想的音乐_2)
 
 
-
 - [5 其他资料](#其他资料)
-
   - [5.1 乐理资讯](#乐理资讯)
   - [5.2 分析考据](#分析考据)
   - [5.3 二次同人数据](#二次同人数据)
 
 
-
 - [6 注释](#注释)
-
-
-
 
 
 ## 基本信息
@@ -45,7 +35,6 @@
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">メイプルワイズ</td></tr><tr><td><b>译名</b></td><td>Maple Wise</td></tr><tr><td><b>其他译名</b></td><td>枫之智慧</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>关联</td></tr><tr><td style="padding-left:15px"><b>相关曲</b></td><td><a href="./神话幻想_～_Infinite_Being.md" title="神话幻想 ～ Infinite Being" unred="">神話幻想　～ Infinite Being</a></td></tr><tr><td style="padding-left:15px"><b>　来源</b></td><td>东方怪绮谈　～ Mystic Square.</td></tr></tbody></table>
 
 Maple Wise（曲目） - 由 ZUN 创作的官方曲目，原名 メイプルワイズ
-
 ## 出现作品
 
 <table>
@@ -55,7 +44,6 @@ Maple Wise（曲目） - 由 ZUN 创作的官方曲目，原名 メイプルワ�
 </tbody></table>
 
 
-
 ## 音乐文件
 
 ### 东方怪绮谈
@@ -63,17 +51,13 @@ Maple Wise（曲目） - 由 ZUN 创作的官方曲目，原名 メイプルワ�
 YM2203(OPN)，FM26K音源版。
   
 
-
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th05_08_26.ogg.md" title="文件:th05 08 26.ogg">th05_08_26.ogg</a><br><audio src="https://upload.thwiki.cc/f/f1/th05_08_26.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>ST03.M</td></tr><tr><td><b>音轨时长</b></td><td>1:39.379</td></tr></tbody></table>
-
 
   
 YM2608(OPNA)，FM86音源版。
   
 
-
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th05_08_86.ogg.md" title="文件:th05 08 86.ogg">th05_08_86.ogg</a><br><audio src="https://upload.thwiki.cc/a/ad/th05_08_86.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>ST03.M2</td></tr><tr><td><b>音轨时长</b></td><td>1:39.379</td></tr></tbody></table>
-
 
 
 ### 东方幻想的音乐
@@ -81,17 +65,16 @@ YM2608(OPNA)，FM86音源版。
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td><a href="./文件-th5_08.mid.md" title="文件:th5 08.mid">th5_08.mid</a></td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th5_08.mp3.md" title="文件:th5 08.mp3">th5_08.mp3</a><br><audio src="https://upload.thwiki.cc/e/e6/th5_08.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>th5_08.mid</td></tr><tr><td><b>音轨时长</b></td><td>3:59</td></tr></tbody></table>
 
 
-
 ### 幺乐团的历史 vol.2
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-ha02_08.mp3.md" title="文件:ha02 08.mp3">ha02_08.mp3</a><br><audio src="https://upload.thwiki.cc/2/2a/ha02_08.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track08.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>3:33</td></tr></tbody></table>
 
 
-
 ## 说明文本
 
 ### 东方怪绮谈
-- Music Room (未找到链接)
+
+- [Music Room](./东方怪绮谈-Music.md#东方怪绮谈-29)
 
 　　　　　４面主题曲  
 　    与其它曲子相比，这首音乐似乎  
@@ -102,9 +85,9 @@ YM2608(OPNA)，FM86音源版。
 怪绮谈4面的曲子。  
 因为我觉得，是稍微有些奇怪的曲子・・・  
 （哪里都没有奇怪啊(^^;;）不过，还是很棒呢。
-
 ### 东方幻想的音乐
-- th5_08.txt (未找到链接)
+
+- [th5_08.txt](./东方幻想的音乐-过去的曲子-东方怪绮谈.md#Maple_Wise)
 
 +----------------------------------------------------------------------------+  
 |【 　 曲名　　】| 【 Maple Wise 】  
@@ -119,7 +102,7 @@ YM2608(OPNA)，FM86音源版。
 |                | 这种时候，请不要更动压缩包内部文件。  
 |【　 著作权 　】| ＺＵＮ (太田顺也）  
 |【演奏上的注意】| 用sc-88Pro 的人在演奏时请不要按88Map。  
-|                                          &#126;&#126;&#126;&#126;~   
+|                                          ~~~~~   
 +-----------------------------------------------------------------------------+  
 感谢下载本文件。  
   
@@ -134,30 +117,33 @@ YM2608(OPNA)，FM86音源版。
 曲子的感想、请求等，这边请  
 　东方幻想空间　「博丽神社」 [http://www16.big.or.jp/~zun/](http://www16.big.or.jp/~zun/)  
 　e-Mail                     zun@big.or.jp
-
 ## 其他资料
 
 ### 乐理资讯
 
 ### 分析考据
   
- **メイプルワイズ**   Maple Wise
+**メイプルワイズ**  Maple Wise
   
 枫之智慧
   
 
-- メイプル（maple）
+- メイプル（maple） 
   - 英语：枫树、槭树。
-  - 无患子科枫属（ *Acer* ）植物的通称。广泛分布于北半球温带地区，大多为落叶乔木或灌木，许多种类在秋、冬季时全株树叶会转为红色。
-  - 在旧作中，名称带有maple的曲目通常和冰雪有所关联
+  - 无患子科枫属（*Acer*）植物的通称。广泛分布于北半球温带地区，大多为落叶乔木或灌木，许多种类在秋、冬季时全株树叶会转为红色。
+  - 在旧作中，名称带有maple的曲目通常和冰雪有所关联 
     - 本曲为[怪绮谈](./东方怪绮谈.md)4面的主题曲。4面的场景为[冰雪世界](./冰雪世界.md)。
     - 名称同样带有maple的曲目还有[梦时空](./东方梦时空.md)的staff曲[Maple Dream...](./Maple_Dream....md)
       - ZUN是以雪下个不停为印象做出这首曲子的。
 
 
 
-- ワイズ（wise）
+
+
+
+- ワイズ（wise） 
   - 英语：明智的、聪明的。
+
 
 
 
@@ -174,20 +160,7 @@ YM2608(OPNA)，FM86音源版。
 <tr><td>Vocal率</td><td>19.48%</td></tr>
 </tbody></table>
 
-
-
-
-
 [^cite_note-1]: “MML”指“Music Macro Language”。
-
-  
-  
-
-  
-
-
-
-
 
 ---
 

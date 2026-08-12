@@ -1,6 +1,6 @@
 # 文件:［_Quadrants_of_the_Scarlet_］封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4e\ns6%3A%EF%BC%BB_Quadrants_of_the_Scarlet_%EF%BC%BD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4e\ns6%3A%EF%BC%BB_Quadrants_of_the_Scarlet_%EF%BC%BD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Ecriss | 专辑封面 | 封面图片
 
@@ -8,16 +8,12 @@ Ecriss | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [［ Quadrants of the Scarlet ］](./［_Quadrants_of_the_Scarlet_］.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [［ Quadrants of the Scarlet ］](./［_Quadrants_of_the_Scarlet_］.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
   
 源地址: Bandcamp下载附带
   
-
-
-
-
 
 ---
 

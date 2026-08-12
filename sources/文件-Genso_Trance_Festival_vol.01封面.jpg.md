@@ -1,6 +1,6 @@
 # 文件:Genso_Trance_Festival_vol.01封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\47\ns6%3AGenso_Trance_Festival_vol%2E01%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\47\ns6%3AGenso_Trance_Festival_vol%2E01%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Aphinity | 专辑封面 | 封面图片
 
@@ -13,12 +13,7 @@ Aphinity | 专辑封面 | 封面图片
 - [Genso Trance Festival vol.01](./Genso_Trance_Festival_vol.01.md)
 
   
-源地址：[direct image link (10 size)](https://f4.bcbits.com/img/a3155077122_10.jpg), [source page (artist Bandcamp)](https://aphinity.bandcamp.com/album/genso-trance-festival-vol-01)
-  
-
-
-
-
+源地址：[direct image link (10 size)](https://f4.bcbits.com/img/a3155077122_10.jpg), [source page (artist Bandcamp)](https://aphinity.bandcamp.com/album/genso-trance-festival-vol-01)  
 
 ---
 

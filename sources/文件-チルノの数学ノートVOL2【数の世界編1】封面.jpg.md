@@ -1,6 +1,6 @@
 # 文件:チルノの数学ノートVOL2【数の世界編1】封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7b\ns6%3A%E3%83%81%E3%83%AB%E3%83%8E%E3%81%AE%E6%95%B0%E5%AD%A6%E3%83%8E%E3%83%BC%E3%83%88VOL2%E3%80%90%E6%95%B0%E3%81%AE%E4%B8%96%E7%95%8C%E7%B7%A81%E3%80%91%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7b\ns6%3A%E3%83%81%E3%83%AB%E3%83%8E%E3%81%AE%E6%95%B0%E5%AD%A6%E3%83%8E%E3%83%BC%E3%83%88VOL2%E3%80%90%E6%95%B0%E3%81%AE%E4%B8%96%E7%95%8C%E7%B7%A81%E3%80%91%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Key_Space | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@ Key_Space | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [チルノの数学ノートVOL2【数の世界編1】](./チルノの数学ノートVOL2【数の世界編1】.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)
+- [チルノの数学ノートVOL2【数の世界編1】](./チルノの数学ノートVOL2【数の世界編1】.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
 
   
-[Pixiv artwork ID: 64313967](https://www.pixiv.net/artworks/64313967)
-  
-
-
-
-
+[Pixiv artwork ID: 64313967](https://www.pixiv.net/artworks/64313967)  
 
 ---
 

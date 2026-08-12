@@ -1,31 +1,23 @@
 # Asterism_Dungeon
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\2d\ns0%3AAsterism_Dungeon.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\2d\ns0%3AAsterism_Dungeon.html -->
 
 由 Wanwan 创作的东方风自作曲，原名 アステリズムダンジョン
 
 本页是关于东方Project  
- **东方风自作曲** 的词条
-
+**东方风自作曲**的词条
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 出现作品](#出现作品)
 - [3 音乐文件](#音乐文件)
 - [4 说明文本](#说明文本)
-
   - [4.1 TriFocuser](#TriFocuser)
 
 
-
 - [5 其他资料](#其他资料)
-
   - [5.1 乐理资讯](#乐理资讯)
   - [5.2 分析考据](#分析考据)
-
-
-
-
 
 
 
@@ -35,7 +27,6 @@
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">アステリズムダンジョン</td></tr><tr><td><b>译名</b></td><td>Asterism Dungeon</td></tr><tr><td><b>作曲</b></td><td><a href="./Wanwan.md" title="Wanwan">Wanwan</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 Asterism Dungeon（曲目） - 由 Wanwan 创作的东方风自作曲，原名 アステリズムダンジョン
-
 ## 出现作品
 
 <table>
@@ -44,17 +35,16 @@ Asterism Dungeon（曲目） - 由 Wanwan 创作的东方风自作曲，原名 �
 </tbody></table>
 
 
-
 ## 音乐文件
 
 ## 说明文本
 
 ### TriFocuser
-- Music Room (未找到链接)
+
+- [Music Room](./トライフォーカサー_～_Outside_the_Traditional_World.-音乐.md#摄影主题曲2)
 
   
 摄影主题曲2。  
-
   
   
 以前有一次，明明离车站步行半分钟不到的地方，我却花了一个小时才到。  
@@ -64,15 +54,11 @@ Asterism Dungeon（曲目） - 由 Wanwan 创作的东方风自作曲，原名 �
 不过我想，大概那是种像Dungeon（地下城迷宫）一样的地方吧（？）。
   
 
-
 ## 其他资料
 
 ### 乐理资讯
 
 ### 分析考据
-
-
-
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:REQUIEM_～幻想に散る少女たち～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\09\ns6%3AREQUIEM_%EF%BD%9E%E5%B9%BB%E6%83%B3%E3%81%AB%E6%95%A3%E3%82%8B%E5%B0%91%E5%A5%B3%E3%81%9F%E3%81%A1%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\09\ns6%3AREQUIEM_%EF%BD%9E%E5%B9%BB%E6%83%B3%E3%81%AB%E6%95%A3%E3%82%8B%E5%B0%91%E5%A5%B3%E3%81%9F%E3%81%A1%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 SYNC.ART'S | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ SYNC.ART'S | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [REQUIEM ～幻想に散る少女たち～](./REQUIEM_～幻想に散る少女たち～.md)  
-该封面包含的角色：- [米斯蒂娅·萝蕾拉](./米斯蒂娅·萝蕾拉.md)
-
-
-
+- [REQUIEM ～幻想に散る少女たち～](./REQUIEM_～幻想に散る少女たち～.md)该封面包含的角色：
+- [米斯蒂娅·萝蕾拉](./米斯蒂娅·萝蕾拉.md)
 
 
 ---

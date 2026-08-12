@@ -1,6 +1,6 @@
 # 文件:Unrequited_Hearts封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7f\ns6%3AUnrequited_Hearts%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7f\ns6%3AUnrequited_Hearts%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Amateras_Records | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Amateras_Records | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Unrequited Hearts](./Unrequited_Hearts.md)  
-该封面包含的角色：- [古明地恋](./古明地恋.md)
-
-
-
+- [Unrequited Hearts](./Unrequited_Hearts.md)该封面包含的角色：
+- [古明地恋](./古明地恋.md)
 
 
 ---

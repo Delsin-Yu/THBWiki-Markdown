@@ -1,6 +1,6 @@
 # 文件:东方千夜帖~Thousand_Night_Anamnesis.封面.jpeg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4f\ns6%3A%E4%B8%9C%E6%96%B9%E5%8D%83%E5%A4%9C%E5%B8%96%7EThousand_Night_Anamnesis%2E%E5%B0%81%E9%9D%A2%2Ejpeg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4f\ns6%3A%E4%B8%9C%E6%96%B9%E5%8D%83%E5%A4%9C%E5%B8%96%7EThousand_Night_Anamnesis%2E%E5%B0%81%E9%9D%A2%2Ejpeg.html -->
 
 サラダ | 封面图片 | 软件封面
 
@@ -11,9 +11,6 @@
   
 
 - [東方千夜帖~Thousand Night Anamnesis.](./東方千夜帖~Thousand_Night_Anamnesis..md)
-
-
-
 
 
 ---

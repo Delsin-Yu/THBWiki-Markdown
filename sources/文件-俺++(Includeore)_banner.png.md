@@ -1,12 +1,8 @@
 # 文件:俺++(Includeore)_banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\79\ns6%3A%E4%BF%BA%2B%2B%28Includeore%29_banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\79\ns6%3A%E4%BF%BA%2B%2B%28Includeore%29_banner%2Epng.html -->
 
 俺++(Includeore) | 社团LOGO
-
-
-
-
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:折葉坂三番地banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\af\ns6%3A%E6%8A%98%E8%91%89%E5%9D%82%E4%B8%89%E7%95%AA%E5%9C%B0banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\af\ns6%3A%E6%8A%98%E8%91%89%E5%9D%82%E4%B8%89%E7%95%AA%E5%9C%B0banner%2Epng.html -->
 
 折葉坂三番地
-
-
-
-
 
 
 ---

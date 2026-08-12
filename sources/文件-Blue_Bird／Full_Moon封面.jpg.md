@@ -1,6 +1,6 @@
 # 文件:Blue_Bird／Full_Moon封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ce\ns6%3ABlue_Bird%EF%BC%8FFull_Moon%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ce\ns6%3ABlue_Bird%EF%BC%8FFull_Moon%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 dat_file_records | 专辑封面 | 封面图片 | 群雨アンブレイラ
 
@@ -8,16 +8,11 @@ dat_file_records | 专辑封面 | 封面图片 | 群雨アンブレイラ
 使用了本文件作封面图片的作品：
   
 
-- [Blue Bird／Full Moon](./Blue_Bird／Full_Moon.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)
+- [Blue Bird／Full Moon](./Blue_Bird／Full_Moon.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
 
   
-源地址：[[1]](http://38.media.tumblr.com/420327c9ff428f858008e9eb4582f096/tumblr_inline_nfc0haPBNY1ql9ocl.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://38.media.tumblr.com/420327c9ff428f858008e9eb4582f096/tumblr_inline_nfc0haPBNY1ql9ocl.jpg)  
 
 ---
 

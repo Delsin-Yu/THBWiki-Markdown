@@ -1,6 +1,6 @@
 # 文件:Endless_Sound_Sample（02）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a2\ns6%3AEndless_Sound_Sample%EF%BC%8802%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a2\ns6%3AEndless_Sound_Sample%EF%BC%8802%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Endless_Sound_匯音社 | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ Endless_Sound_匯音社 | 专辑封面 | 封面图片
   
 
 - [Endless Sound Sample（02）](./Endless_Sound_Sample（02）.md)
-
-
-
 
 
 ---

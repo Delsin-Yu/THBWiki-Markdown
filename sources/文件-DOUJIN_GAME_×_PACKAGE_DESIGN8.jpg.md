@@ -1,12 +1,8 @@
 # 文件:DOUJIN_GAME_×_PACKAGE_DESIGN8.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\87\ns6%3ADOUJIN_GAME_%C3%97_PACKAGE_DESIGN8%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\87\ns6%3ADOUJIN_GAME_%C3%97_PACKAGE_DESIGN8%2Ejpg.html -->
 
 ZUN
-
-
-
-
 
 
 ---

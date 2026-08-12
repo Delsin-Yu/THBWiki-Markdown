@@ -1,24 +1,24 @@
 # 东方Support揭示板
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\5\5a\ns0%3A%E4%B8%9C%E6%96%B9Support%E6%8F%AD%E7%A4%BA%E6%9D%BF.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\5\5a\ns0%3A%E4%B8%9C%E6%96%B9Support%E6%8F%AD%E7%A4%BA%E6%9D%BF.html -->
 
 东方揭示板 | 幻乐团官网
 
 
 ## 介绍
   
-<big><big>东方揭示板　～ Support BBS</big></big>（東方掲示板　～ Support BBS）
+<big><big>东方揭示板 ～ Support BBS</big></big>（東方掲示板　～ Support BBS）
   
 
 - 页面地址：[http://www16.big.or.jp/~zun/cgi-bin/sbbs/im_trbbs.cgi?uid=game](http://www16.big.or.jp/~zun/cgi-bin/sbbs/im_trbbs.cgi?uid=game)
-- 页面状态： **失效** 
+- 页面状态：**失效**
 
   
 ZUN于2002年8月20日所设立的揭示板（类似论坛）页面，主要用于反馈游戏过程中出现的Bug等问题，ZUN也曾在此回复网友有关版权问题的疑问。
   
 
-- 与公式站现[东方揭示板](./东方揭示板.md)的关系：
-  - 虽然二者有 **一样的名称** ，但二者所使用的 **网址不同** ，所承担的 **职能也存在不同** 。
+- 与公式站现[东方揭示板](./东方揭示板.md)的关系： 
+  - 虽然二者有**一样的名称**，但二者所使用的**网址不同**，所承担的**职能也存在不同**。
   - 早期的Support揭示板实际更类似于玩家论坛性质的存在，而目前的揭示板则是纯粹的静态公告栏，曾使用外链指向具体的作品揭示板。
   - Support揭示板主要在红妖永时期运作，在后来的一段时间里这项功能由东方揭示板短暂承继。
   - 东方揭示板曾在一段时间内保留了指向Support揭示板的链接，并预告了其关闭的计划。
@@ -26,18 +26,17 @@ ZUN于2002年8月20日所设立的揭示板（类似论坛）页面，主要用�
   - 因此为表区分，在本Wiki中，二者分别建立不同的页面，前者则称为。
 
 
+
   
-2002年页面改版前，ZUN对该页面的说明为 **也就是Support揭示板** （サポート掲示板のこと）。  
+2002年页面改版前，ZUN对该页面的说明为**也就是Support揭示板**（サポート掲示板のこと）。  
 
-2003年页面改版后，ZUN对该页面的说明为 **也就是Support** （サポートのこと）。  
-
+2003年页面改版后，ZUN对该页面的说明为**也就是Support**（サポートのこと）。  
   
   
 Support揭示板由于种种原因（功能的转移与大量广告帖的涌入）在2004年后逐渐陷入沉寂，最终于2005年公式站改版时关闭。
   
-
-[](./文件-东方Support揭示板标题.png.md)  [](./文件-东方Support揭示板标题.png.md)东方Support揭示板标题
-
+<img alt="" src="https://upload.thwiki.cc/thumb/e/e5/%E4%B8%9C%E6%96%B9Support%E6%8F%AD%E7%A4%BA%E6%9D%BF%E6%A0%87%E9%A2%98.png/300px-%E4%B8%9C%E6%96%B9Support%E6%8F%AD%E7%A4%BA%E6%9D%BF%E6%A0%87%E9%A2%98.png" decoding="async" loading="lazy" width="300" height="33" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/e/e5/%E4%B8%9C%E6%96%B9Support%E6%8F%AD%E7%A4%BA%E6%9D%BF%E6%A0%87%E9%A2%98.png/450px-%E4%B8%9C%E6%96%B9Support%E6%8F%AD%E7%A4%BA%E6%9D%BF%E6%A0%87%E9%A2%98.png 1.5x, https://upload.thwiki.cc/e/e5/%E4%B8%9C%E6%96%B9Support%E6%8F%AD%E7%A4%BA%E6%9D%BF%E6%A0%87%E9%A2%98.png 2x" data-file-width="512" data-file-height="56">
+ [放大](./文件-东方Support揭示板标题.png.md)东方Support揭示板标题
 ## 内容
 
 <table>
@@ -60,12 +59,6 @@ Support揭示板由于种种原因（功能的转移与大量广告帖的涌入�
 
 
 - <big>[现存的部分ZUN发言整理](./东方Support揭示板-ZUN发言整理.md)</big>
-
-  
-  
-
-
-
 
 
 ---

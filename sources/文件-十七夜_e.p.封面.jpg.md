@@ -1,6 +1,6 @@
 # 文件:十七夜_e.p.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e1\ns6%3A%E5%8D%81%E4%B8%83%E5%A4%9C_e%2Ep%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e1\ns6%3A%E5%8D%81%E4%B8%83%E5%A4%9C_e%2Ep%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Scrapyard | 专辑封面 | 封面图片
 
@@ -11,12 +11,7 @@ Scrapyard | 专辑封面 | 封面图片
 - [十七夜 e.p.](./十七夜_e.p..md)
 
   
-源地址：[[1]](http://scrapyard12.web.fc2.com/images/jacket/nhk.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://scrapyard12.web.fc2.com/images/jacket/nhk.jpg)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:HELICON封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\72\ns6%3AHELICON%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\72\ns6%3AHELICON%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 DualInsomiNa | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@ DualInsomiNa | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [HELICON](./HELICON.md)  
-该封面包含的角色：- [橙](./橙.md)
+- [HELICON](./HELICON.md)该封面包含的角色：
+- [橙](./橙.md)
 
   
-源地址：[direct image link (max size)](http://p2.music.126.net/dSh5nJ591I-PCiVNpdeF8w==/109951167439560317.jpg), [source page （网易云）](https://music.163.com/#/album?id=145225520)
-  
-
-
-
-
+源地址：[direct image link (max size)](http://p2.music.126.net/dSh5nJ591I-PCiVNpdeF8w==/109951167439560317.jpg), [source page （网易云）](https://music.163.com/#/album?id=145225520)  
 
 ---
 

@@ -1,12 +1,8 @@
 # 文件:Reset_All_Controllersbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\17\ns6%3AReset_All_Controllersbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\17\ns6%3AReset_All_Controllersbanner%2Epng.html -->
 
 Reset_All_Controllers | 社团LOGO
-
-
-
-
 
 
 ---

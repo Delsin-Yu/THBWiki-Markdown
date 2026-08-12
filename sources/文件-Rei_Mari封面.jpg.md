@@ -1,6 +1,6 @@
 # 文件:Rei_Mari封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\65\ns6%3ARei_Mari%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\65\ns6%3ARei_Mari%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 LUNATIC☆PARTY | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ LUNATIC☆PARTY | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Rei Mari](./Rei_Mari.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [Rei Mari](./Rei_Mari.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Symphonic_Requiem_"Purple_Heart"_幻葬鎮魂歌_紫御殿封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f3\ns6%3ASymphonic_Requiem_%22Purple_Heart%22_%E5%B9%BB%E8%91%AC%E9%8E%AE%E9%AD%82%E6%AD%8C_%E7%B4%AB%E5%BE%A1%E6%AE%BF%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f3\ns6%3ASymphonic_Requiem_%22Purple_Heart%22_%E5%B9%BB%E8%91%AC%E9%8E%AE%E9%AD%82%E6%AD%8C_%E7%B4%AB%E5%BE%A1%E6%AE%BF%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 WAVE | 专辑封面 | 封面图片
 
@@ -8,11 +8,10 @@ WAVE | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Symphonic Requiem "Purple Heart" 幻葬鎮魂歌 紫御殿](./Symphonic_Requiem_-Purple_Heart-_幻葬鎮魂歌_紫御殿.md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)- [西行寺幽幽子](./西行寺幽幽子.md)- [八云紫](./八云紫.md)
-
-
-
+- [Symphonic Requiem "Purple Heart" 幻葬鎮魂歌 紫御殿](./Symphonic_Requiem_-Purple_Heart-_幻葬鎮魂歌_紫御殿.md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
+- [西行寺幽幽子](./西行寺幽幽子.md)
+- [八云紫](./八云紫.md)
 
 
 ---

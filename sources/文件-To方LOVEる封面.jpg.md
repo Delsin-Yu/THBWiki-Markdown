@@ -1,6 +1,6 @@
 # 文件:To方LOVEる封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4c\ns6%3ATo%E6%96%B9LOVE%E3%82%8B%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4c\ns6%3ATo%E6%96%B9LOVE%E3%82%8B%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 pixel_phantom | 同人志封面 | 封面图片
 
@@ -8,11 +8,8 @@ pixel_phantom | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [To方LOVEる](./To方LOVEる.md)  
-该封面包含的角色：- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
-
-
-
+- [To方LOVEる](./To方LOVEる.md)该封面包含的角色：
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
 
 
 ---

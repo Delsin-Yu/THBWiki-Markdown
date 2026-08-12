@@ -1,6 +1,6 @@
 # 文件:西のすごい合同誌_Vol.1封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3f\ns6%3A%E8%A5%BF%E3%81%AE%E3%81%99%E3%81%94%E3%81%84%E5%90%88%E5%90%8C%E8%AA%8C_Vol%2E1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3f\ns6%3A%E8%A5%BF%E3%81%AE%E3%81%99%E3%81%94%E3%81%84%E5%90%88%E5%90%8C%E8%AA%8C_Vol%2E1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Sweetest_Cloud | 同人志封面 | 封面图片
 
@@ -10,16 +10,12 @@ Sweetest_Cloud | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [西のすごい合同誌 Vol.1](./西のすごい合同誌_Vol.1.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
+- [西のすごい合同誌 Vol.1](./西のすごい合同誌_Vol.1.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
   
-源地址：[direct image link](https://s2.booth.pm/e3345422-6949-4ca5-89de-323da7349e05/i/1454939/4b6d59dd-0e5a-482d-b2fd-33fbdf28cc7a_base_resized.jpg), [source page (circle Booth)](https://sweetest.booth.pm/items/1454939)
-  
-
-
-
-
+源地址：[direct image link](https://s2.booth.pm/e3345422-6949-4ca5-89de-323da7349e05/i/1454939/4b6d59dd-0e5a-482d-b2fd-33fbdf28cc7a_base_resized.jpg), [source page (circle Booth)](https://sweetest.booth.pm/items/1454939)  
 
 ---
 

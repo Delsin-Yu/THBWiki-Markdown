@@ -1,6 +1,6 @@
 # 文件:DUGEM_WONDERLAND_2_Preview_Ver.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a0\ns6%3ADUGEM_WONDERLAND_2_Preview_Ver%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a0\ns6%3ADUGEM_WONDERLAND_2_Preview_Ver%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 SoundTeam,LORB | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ SoundTeam,LORB | 专辑封面 | 封面图片
   
 
 - [DUGEM WONDERLAND 2 Preview Ver.](./DUGEM_WONDERLAND_2_Preview_Ver..md)
-
-
-
 
 
 ---

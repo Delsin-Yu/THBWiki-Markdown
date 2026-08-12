@@ -1,12 +1,8 @@
 # 文件:河童「干燥尻子玉」（DS文花帖）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ee\ns6%3A%E6%B2%B3%E7%AB%A5%E3%80%8C%E5%B9%B2%E7%87%A5%E5%B0%BB%E5%AD%90%E7%8E%89%E3%80%8D%EF%BC%88DS%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ee\ns6%3A%E6%B2%B3%E7%AB%A5%E3%80%8C%E5%B9%B2%E7%87%A5%E5%B0%BB%E5%AD%90%E7%8E%89%E3%80%8D%EF%BC%88DS%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Ejpg.html -->
 
 东方文花帖DS | 敌机符卡 | 河城荷取
-
-
-
-
 
 
 ---

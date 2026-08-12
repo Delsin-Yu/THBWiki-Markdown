@@ -1,6 +1,6 @@
 # 文件:CDタイトルは無し封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\08\ns6%3ACD%E3%82%BF%E3%82%A4%E3%83%88%E3%83%AB%E3%81%AF%E7%84%A1%E3%81%97%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\08\ns6%3ACD%E3%82%BF%E3%82%A4%E3%83%88%E3%83%AB%E3%81%AF%E7%84%A1%E3%81%97%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 生足ナイトフィーバー
 
@@ -10,19 +10,14 @@
 使用了本文件作封面图片的作品：
   
 
-- [CDタイトルは無し](./CDタイトルは無し.md)  
-该封面包含的角色：- [幽谷响子](./幽谷响子.md)
+- [CDタイトルは無し](./CDタイトルは無し.md)该封面包含的角色：
+- [幽谷响子](./幽谷响子.md)
 
   
-源地址：[direct image link (original size)](https://pbs.twimg.com/media/DMlNKxSUIAAkyvX?format=jpg&amp;name=orig), [source tweet](https://twitter.com/inax_mrn/status/921352458252705793)
-  
+源地址：[direct image link (original size)](https://pbs.twimg.com/media/DMlNKxSUIAAkyvX?format=jpg&name=orig), [source tweet](https://twitter.com/inax_mrn/status/921352458252705793)  
   
 note: photo of CD case with finger on the cover, should be replaced with better picture
   
-
-
-
-
 
 ---
 

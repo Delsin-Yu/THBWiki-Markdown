@@ -1,6 +1,6 @@
 # 文件:北海道調査_~_Traces_of_Utopian_Civilisation封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\98\ns6%3A%E5%8C%97%E6%B5%B7%E9%81%93%E8%AA%BF%E6%9F%BB_%7E_Traces_of_Utopian_Civilisation%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\98\ns6%3A%E5%8C%97%E6%B5%B7%E9%81%93%E8%AA%BF%E6%9F%BB_%7E_Traces_of_Utopian_Civilisation%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Aka_Kyuketsuki | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ Aka_Kyuketsuki | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [北海道調査 ~ Traces of Utopian Civilisation](./北海道調査_~_Traces_of_Utopian_Civilisation.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [北海道調査 ~ Traces of Utopian Civilisation](./北海道調査_~_Traces_of_Utopian_Civilisation.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

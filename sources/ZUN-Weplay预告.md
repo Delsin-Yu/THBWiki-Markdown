@@ -1,17 +1,13 @@
 # ZUN/Weplay预告
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\22\ns0%3AZUN%2FWeplay%E9%A2%84%E5%91%8A.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\22\ns0%3AZUN%2FWeplay%E9%A2%84%E5%91%8A.html -->
 
 ZUN
+
 
 - 2019年12月7-8日，ZUN先生和他的上海爱丽丝幻乐团将要去上海参展Weplay了！他有什么要和大家说的呢？[^cite_note-1]
 - 视频观看地址：[https://www.bilibili.com/video/BV1SJ411B7uP](https://www.bilibili.com/video/BV1SJ411B7uP)
 - 本文标点符号与断句尽量与原视频保持一致。
-
-  
-  
-
-  
 
 ZUN
 : 你好[^cite_note-2]
@@ -48,13 +44,11 @@ ZUN
 ZUN
 : 我很期待。
 : （喝一口啤酒）
-
-
 [^cite_note-1]: 摘自原视频简介。
-
-
-
-
+[^cite_note-2]: 中文。
+[^cite_note-3]: 原视频镜头外有若干人时而与ZUN进行互动。
+[^cite_note-4]: 同样也是中文。
+[^cite_note-5]: 2019年Weplay文化游戏展将在12月7日8日于上海举办 会场内特设东方Project专区，ZUN将亲临现场
 
 ---
 

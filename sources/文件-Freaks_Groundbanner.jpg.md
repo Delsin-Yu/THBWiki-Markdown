@@ -1,12 +1,8 @@
 # 文件:Freaks_Groundbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\30\ns6%3AFreaks_Groundbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\30\ns6%3AFreaks_Groundbanner%2Ejpg.html -->
 
 Freaks_Ground | 社团LOGO
-
-
-
-
 
 
 ---

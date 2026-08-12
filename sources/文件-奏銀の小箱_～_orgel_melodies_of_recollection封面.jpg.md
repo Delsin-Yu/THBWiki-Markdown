@@ -1,6 +1,6 @@
 # 文件:奏銀の小箱_～_orgel_melodies_of_recollection封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6c\ns6%3A%E5%A5%8F%E9%8A%80%E3%81%AE%E5%B0%8F%E7%AE%B1_%EF%BD%9E_orgel_melodies_of_recollection%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6c\ns6%3A%E5%A5%8F%E9%8A%80%E3%81%AE%E5%B0%8F%E7%AE%B1_%EF%BD%9E_orgel_melodies_of_recollection%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 弦奏水琴乐章
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [奏銀の小箱 ～ orgel melodies of recollection](./奏銀の小箱_～_orgel_melodies_of_recollection.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [奏銀の小箱 ～ orgel melodies of recollection](./奏銀の小箱_～_orgel_melodies_of_recollection.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:東方遊撃隊_弐_会場限定Limited_Version封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bb\ns6%3A%E6%9D%B1%E6%96%B9%E9%81%8A%E6%92%83%E9%9A%8A_%E5%BC%90_%E4%BC%9A%E5%A0%B4%E9%99%90%E5%AE%9ALimited_Version%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bb\ns6%3A%E6%9D%B1%E6%96%B9%E9%81%8A%E6%92%83%E9%9A%8A_%E5%BC%90_%E4%BC%9A%E5%A0%B4%E9%99%90%E5%AE%9ALimited_Version%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Golden_City_Factory | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ Golden_City_Factory | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方遊撃隊 弐 会場限定Limited Version](./東方遊撃隊_弐_会場限定Limited_Version.md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)- [姬海棠果](./姬海棠果.md)
-
-
-
+- [東方遊撃隊 弐 会場限定Limited Version](./東方遊撃隊_弐_会場限定Limited_Version.md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
+- [姬海棠果](./姬海棠果.md)
 
 
 ---

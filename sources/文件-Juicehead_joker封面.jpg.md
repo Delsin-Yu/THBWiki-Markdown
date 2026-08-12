@@ -1,6 +1,6 @@
 # 文件:Juicehead_joker封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c7\ns6%3AJuicehead_joker%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c7\ns6%3AJuicehead_joker%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Aether | 专辑封面 | 埼玉最終兵器 | 封面图片
 
@@ -11,12 +11,7 @@ Aether | 专辑封面 | 埼玉最終兵器 | 封面图片
 - [Juicehead joker](./Juicehead_joker.md)
 
   
-源地址：[[1]](http://www.lkjp.net/c96/x21c8_r7kzgivabuqwte3bmum-awl5rg7l3gpb1os7a20d-4hfiylafsgzkslrioilfy2qazfkd3quampq=s1600)
-  
-
-
-
-
+源地址：[\[1\]](http://www.lkjp.net/c96/x21c8_r7kzgivabuqwte3bmum-awl5rg7l3gpb1os7a20d-4hfiylafsgzkslrioilfy2qazfkd3quampq=s1600)  
 
 ---
 

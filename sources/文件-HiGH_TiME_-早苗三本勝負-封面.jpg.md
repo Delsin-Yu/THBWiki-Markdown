@@ -1,6 +1,6 @@
 # 文件:HiGH_TiME_-早苗三本勝負-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8a\ns6%3AHiGH_TiME_-%E6%97%A9%E8%8B%97%E4%B8%89%E6%9C%AC%E5%8B%9D%E8%B2%A0-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8a\ns6%3AHiGH_TiME_-%E6%97%A9%E8%8B%97%E4%B8%89%E6%9C%AC%E5%8B%9D%E8%B2%A0-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 GP-KIDS | 同人志封面 | 封面图片
 
@@ -10,16 +10,14 @@ GP-KIDS | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [HiGH TiME -早苗三本勝負-](./HiGH_TiME_-早苗三本勝負-.md)  
-该封面包含的角色：- [红美铃](./红美铃.md)- [博丽灵梦](./博丽灵梦.md)- 十六夜咲夜 (未找到链接)- [东风谷早苗](./东风谷早苗.md)
+- [HiGH TiME -早苗三本勝負-](./HiGH_TiME_-早苗三本勝負-.md)该封面包含的角色：
+- [红美铃](./红美铃.md)
+- [博丽灵梦](./博丽灵梦.md)
+- [十六夜咲夜](./十六夜咲夜.md)
+- [东风谷早苗](./东风谷早苗.md)
 
   
-[Pixiv artwork ID: 15443740](https://www.pixiv.net/artworks/15443740)
-  
-
-
-
-
+[Pixiv artwork ID: 15443740](https://www.pixiv.net/artworks/15443740)  
 
 ---
 

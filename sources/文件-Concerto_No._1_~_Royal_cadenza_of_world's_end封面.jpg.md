@@ -1,6 +1,6 @@
 # 文件:Concerto_No._1_~_Royal_cadenza_of_world's_end封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f9\ns6%3AConcerto_No%2E_1_%7E_Royal_cadenza_of_world%27s_end%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f9\ns6%3AConcerto_No%2E_1_%7E_Royal_cadenza_of_world%27s_end%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Palais_der_Arien | 专辑封面 | 封面图片
 
@@ -10,16 +10,12 @@ Palais_der_Arien | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Concerto No. 1 ~ Royal cadenza of world's end](./Concerto_No._1_~_Royal_cadenza_of_world's_end.md)  
-该封面包含的角色：- 原创角色 (未找到链接)
+- [Concerto No. 1 ~ Royal cadenza of world's end](./Concerto_No._1_~_Royal_cadenza_of_world's_end.md)该封面包含的角色：
+- 原创角色 (未找到链接)
 
   
 cover is included in download
   
-
-
-
-
 
 ---
 

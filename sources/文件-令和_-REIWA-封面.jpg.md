@@ -1,6 +1,6 @@
 # 文件:令和_-REIWA-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f3\ns6%3A%E4%BB%A4%E5%92%8C_-REIWA-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f3\ns6%3A%E4%BB%A4%E5%92%8C_-REIWA-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 SOUND_HOLIC | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ SOUND_HOLIC | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [令和 -REIWA-](./令和_-REIWA-.md)  
-该封面包含的角色：- [本居小铃](./本居小铃.md)- [稗田阿求](./稗田阿求.md)
-
-
-
+- [令和 -REIWA-](./令和_-REIWA-.md)该封面包含的角色：
+- [本居小铃](./本居小铃.md)
+- [稗田阿求](./稗田阿求.md)
 
 
 ---

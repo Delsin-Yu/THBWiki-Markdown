@@ -1,12 +1,8 @@
 # 文件:Mentaiko_Labbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a5\ns6%3AMentaiko_Labbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a5\ns6%3AMentaiko_Labbanner%2Epng.html -->
 
 Mentaiko_Lab | 社团LOGO
-
-
-
-
 
 
 ---

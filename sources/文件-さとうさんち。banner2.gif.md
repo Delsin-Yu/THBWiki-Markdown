@@ -1,12 +1,8 @@
 # 文件:さとうさんち。banner2.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7a\ns6%3A%E3%81%95%E3%81%A8%E3%81%86%E3%81%95%E3%82%93%E3%81%A1%E3%80%82banner2%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7a\ns6%3A%E3%81%95%E3%81%A8%E3%81%86%E3%81%95%E3%82%93%E3%81%A1%E3%80%82banner2%2Egif.html -->
 
 さとうさんち。 | 社团LOGO
-
-
-
-
 
 
 ---

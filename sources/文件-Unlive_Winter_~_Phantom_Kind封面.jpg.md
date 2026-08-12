@@ -1,6 +1,6 @@
 # 文件:Unlive_Winter_~_Phantom_Kind封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6b\ns6%3AUnlive_Winter_%7E_Phantom_Kind%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6b\ns6%3AUnlive_Winter_%7E_Phantom_Kind%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 The_Oneiric_Orchestra_of_the_Unfindable_Palace | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ The_Oneiric_Orchestra_of_the_Unfindable_Palace | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Unlive Winter ~ Phantom Kind](./Unlive_Winter_~_Phantom_Kind.md)  
-该封面包含的角色：- [八云紫](./八云紫.md)
+- [Unlive Winter ~ Phantom Kind](./Unlive_Winter_~_Phantom_Kind.md)该封面包含的角色：
+- [八云紫](./八云紫.md)
 
   
-源地址：[[1]](https://theoneiricorchestraproject.bandcamp.com/album/unlive-winter-phantom-kind)
-  
-
-
-
-
+源地址：[\[1\]](https://theoneiricorchestraproject.bandcamp.com/album/unlive-winter-phantom-kind)  
 
 ---
 

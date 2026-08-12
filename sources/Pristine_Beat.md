@@ -1,11 +1,10 @@
 # Pristine_Beat
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\d\df\ns0%3APristine_Beat.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\d\df\ns0%3APristine_Beat.html -->
 
 官方符卡
 
-本页是关于 **符卡 (未找到链接)（SpellCard）** 的词条Pristine Beat（符卡） - 官方符卡
-
+本页是关于**[符卡](./游戏攻略-STG术语.md#符卡)（SpellCard）**的词条Pristine Beat（符卡） - 官方符卡
 <table>
 
 <tbody><tr>
@@ -18,38 +17,26 @@
 </td></tr></tbody></table>
 
 
-  
-  
-
-  
-
 ## 目录
 
 - [1 登场](#登场)
-
   - [1.1 东方辉针城](#东方辉针城)
 
 
-
 - [2 符卡说明](#符卡说明)
-
   - [2.1 宇佐见的魔法书](#宇佐见的魔法书)
 
 
-
 - [3 其他内容](#其他内容)
-
   - [3.1 游戏资料](#游戏资料)
   - [3.2 分析考据](#分析考据)
-
 
 
 - [4 导航](#导航)
 
 
-
-
 ## 登场
+
 ### 东方辉针城
 
 <table>
@@ -83,41 +70,25 @@
 </td></tr></tbody></table>
 
 
-
 ## 符卡说明
+
 ### 宇佐见的魔法书
 
 <table><tbody><tr class="tt-content-header" id="=-18" data-pos="&#91;&quot;=&quot;,18&#93;"><td class="tt-jah" lang="ja"><div class="poem">「プリスティンビート」</div></td><td class="tt-zhh" lang="zh"><div class="poem"><a href="./Pristine_Beat.md" title="Pristine Beat" unred="">「Pristine Beat」</a></div></td></tr><tr class="tt-content" id="=-19" data-pos="&#91;&quot;=&quot;,19&#93;"><td class="tt-ja" lang="ja"><div class="poem">使用者：堀川雷鼓</div></td><td class="tt-zh" lang="zh"><div class="poem">使用者：<a href="./堀川雷鼓.md" title="堀川雷鼓">堀川雷鼓</a></div></td></tr><tr class="tt-content-header" id="=-20" data-pos="&#91;&quot;=&quot;,20&#93;"><td class="tt-jah" lang="ja"><div class="poem">使用者より</div></td><td class="tt-zhh" lang="zh"><div class="poem">使用者自述</div></td></tr><tr class="tt-content" id="=-21" data-pos="&#91;&quot;=&quot;,21&#93;"><td class="tt-ja" lang="ja"><div class="poem">太鼓こそが楽器の原点。そして音楽の原点は、やはり心臓の鼓動なのだ。太古から刻まれた生命の脈動に、心も体も震わされるだろう。さあ、花火に見せかけたパーカッションライブをお楽しみあれ！</div></td><td class="tt-zh" lang="zh"><div class="poem">太鼓正可谓乐器的原点。在此之上，音乐的原点果然是心脏的搏动。对于自太古铭刻至今的生命脉动，想必身心都会震颤吧。那么，还请享受这以烟花为名的打击乐演奏会！</div></td></tr><tr class="tt-header" id="=-22" data-pos="&#91;&quot;=&quot;,22&#93;"><td colspan="2" id="博丽灵梦（3）" class="tt-header" lang="zh"><div class="poem">博丽灵梦（3）</div></td></tr><tr class="tt-content" id="=-23" data-pos="&#91;&quot;=&quot;,23&#93;"><td class="tt-ja" lang="ja"><div class="poem">長い、辛い、単純。</div></td><td class="tt-zh" lang="zh"><div class="poem">好长，好累，好单调。</div></td></tr><tr class="tt-header" id="=-24" data-pos="&#91;&quot;=&quot;,24&#93;"><td colspan="2" id="雾雨魔理沙（8）" class="tt-header" lang="zh"><div class="poem">雾雨魔理沙（8）</div></td></tr><tr class="tt-content" id="=-25" data-pos="&#91;&quot;=&quot;,25&#93;"><td class="tt-ja" lang="ja"><div class="poem">忙しそうな弾幕だな。まあ、弾幕はシンプルだが、避けようと思うと休符がキツイなあ。</div></td><td class="tt-zh" lang="zh"><div class="poem">感觉是很匆忙的弹幕啊。嘛，虽说弹幕很单纯，但试着避开时的休止符很难。</div></td></tr><tr class="tt-header" id="=-26" data-pos="&#91;&quot;=&quot;,26&#93;"><td colspan="2" id="宇佐见堇子（9）" class="tt-header" lang="zh"><div class="poem">宇佐见堇子（9）</div></td></tr><tr class="tt-content" id="=-27" data-pos="&#91;&quot;=&quot;,27&#93;"><td class="tt-ja" lang="ja"><div class="poem">弾幕にリズム感を入れたというのは新鮮ですねー。よく見たら叩いているのは和太鼓じゃないのね。</div></td><td class="tt-zh" lang="zh"><div class="poem">把节奏感代入弹幕这点很新奇呢。仔细一看，她敲的并不是和太鼓啊。</div></td></tr><tr class="tt-header" id="=-28" data-pos="&#91;&quot;=&quot;,28&#93;"><td colspan="2" id="东风谷早苗（7）" class="tt-header" lang="zh"><div class="poem">东风谷早苗（7）</div></td></tr><tr class="tt-content" id="=-29" data-pos="&#91;&quot;=&quot;,29&#93;"><td class="tt-ja" lang="ja"><div class="poem">テンポ良くはじける花火なんて珍しいですよね。避ける時はリズムが関係無くなってしまっているのが残念。</div></td><td class="tt-zh" lang="zh"><div class="poem">随着韵律绽裂的烟花还真是少见。躲避时却跟节奏没关系了，这点令人遗憾。</div></td></tr><tr class="tt-header" id="=-30" data-pos="&#91;&quot;=&quot;,30&#93;"><td colspan="2" id="魂魄妖梦（6）" class="tt-header" lang="zh"><div class="poem">魂魄妖梦（6）</div></td></tr><tr class="tt-content" id="=-31" data-pos="&#91;&quot;=&quot;,31&#93;"><td class="tt-ja" lang="ja"><div class="poem">ど、どうしよう、身体の動かし方がよく判らない。私、リズム感無いのかも。</div></td><td class="tt-zh" lang="zh"><div class="poem">怎、怎么办，搞不清楚应该做什么动作。我可能没有节奏感。</div></td></tr><tr class="tt-content-header" id="=-32" data-pos="&#91;&quot;=&quot;,32&#93;"><td class="tt-jah" lang="ja"><div class="poem">総合評価（7）</div></td><td class="tt-zhh" lang="zh"><div class="poem">综合评价（7）</div></td></tr><tr class="tt-content" id="=-33" data-pos="&#91;&quot;=&quot;,33&#93;"><td class="tt-ja" lang="ja"><div class="poem">彼女のドラムは、一部の人間にも受けが良い。既にファンもいるようで、花火大会でも演奏が聴けるとは思って無かったと、高評価だった。しかし、花火としてはシンプルである。</div></td><td class="tt-zh" lang="zh"><div class="poem">她的鼓点受到一部分人类的欢迎。似乎连粉丝都有了。他们没想到在烟花大会上还能听到演奏，对此评价很高。不过，作为烟花而言太单纯了。</div></td></tr></tbody></table>
 
 
 ## 其他内容
+
 ### 游戏资料
-  
 <big>
-</big>  
-<big>- 游戏资料 (未找到链接)
-</big><big></big>  
-<big></big>
-  
+- 游戏资料 (未找到链接)
 
+</big>
 ### 分析考据
-  
 <big>
-</big>  
-<big>- [分析与考据](./Pristine_Beat-分析与考据.md)
-</big><big></big>  
-<big></big>
-  
+- [分析与考据](./Pristine_Beat-分析与考据.md)
 
-## 导航
-
-<table><tbody><tr><td><table cellspacing="0" class="nowraplinks mw-collapsible mw-collapsed" style="width:100%;;;"><tbody><tr><th style=";" colspan="3" class="navbox-title"><div class="navbar"><div class="noprint plainlinksneverexpand" style="background-color:transparent; padding:0; font-weight:normal; font-size:80%; white-space:nowrap;"><a href="./模板-堀川雷鼓符卡导航.md" title="模板:堀川雷鼓符卡导航"><span style=";;border:none;" title="查看这个模板">查</span></a>&#160;<span style="font-size:80%;">•</span>&#160;<a href="/index.php?title=%E6%A8%A1%E6%9D%BF:%E5%A0%80%E5%B7%9D%E9%9B%B7%E9%BC%93%E7%AC%A6%E5%8D%A1%E5%AF%BC%E8%88%AA&amp;action=edit"><span style=";;border:none;" title="您可以编辑这个模板。请在储存变更之前先预览">编</span></a></div></div><span><a href="./堀川雷鼓.md" title="堀川雷鼓">堀川雷鼓</a>符卡</span></th></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">射击游戏</td><td style=";;" class="navbox-list navbox-odd"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div><a href="./东方辉针城.md" title="东方辉针城">东方辉针城</a></div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="/%E4%B8%80%E9%BC%93%E3%80%8C%E6%9A%B4%E4%B9%B1%E5%AE%AB%E5%A4%AA%E9%BC%93%E3%80%8D" class="mw-redirect" title="一鼓「暴乱宫太鼓」">一鼓「暴乱宫太鼓」</a> &#8226; <a href="/%E4%BA%8C%E9%BC%93%E3%80%8C%E6%80%A8%E7%81%B5%E7%BB%AB%E9%BC%93%E3%80%8D" class="mw-redirect" title="二鼓「怨灵绫鼓」">二鼓「怨灵绫鼓」</a> &#8226; <a href="/%E4%B8%89%E9%BC%93%E3%80%8C%E5%8D%88%E5%A4%9C%E9%9B%B6%E6%97%B6%E7%9A%84%E4%B8%89%E6%8C%AF%E3%80%8D" class="mw-redirect" title="三鼓「午夜零时的三振」">三鼓「午夜零时的三振」</a> &#8226; <a href="/%E6%AD%BB%E9%BC%93%E3%80%8CLand_Percuss%E3%80%8D" class="mw-redirect" title="死鼓「Land Percuss」">死鼓「Land Percuss」</a> &#8226; <a href="/%E4%BA%94%E9%BC%93%E3%80%8C%E9%9B%B7%E7%94%B5%E6%8B%A8%E6%B5%AA%E9%BC%93%E3%80%8D" class="mw-redirect" title="五鼓「雷电拨浪鼓」">五鼓「雷电拨浪鼓」</a> &#8226; <a href="/%E5%85%AD%E9%BC%93%E3%80%8CAlternate_Sticking%E3%80%8D" class="mw-redirect" title="六鼓「Alternate Sticking」">六鼓「Alternate Sticking」</a> &#8226; <a href="/%E4%B8%83%E9%BC%93%E3%80%8C%E9%AB%98%E9%80%9F%E5%92%8C%E5%A4%AA%E9%BC%93%E7%81%AB%E7%AE%AD%E3%80%8D" class="mw-redirect" title="七鼓「高速和太鼓火箭」">七鼓「高速和太鼓火箭」</a> &#8226; <a href="/%E5%85%AB%E9%BC%93%E3%80%8C%E9%9B%B7%E7%A5%9E%E4%B9%8B%E6%80%92%E3%80%8D" class="mw-redirect" title="八鼓「雷神之怒」">八鼓「雷神之怒」</a> &#8226; <a href="/%E3%80%8CBlue_Lady_Show%E3%80%8D" class="mw-redirect" title="「Blue Lady Show」">「Blue Lady Show」</a> &#8226; <a href="./Pristine_Beat.md" title="Pristine Beat" unred="">「Pristine Beat」</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div><a href="./弹幕天邪鬼.md" title="弹幕天邪鬼">弹幕天邪鬼</a></div></td><td style=";;" class="navbox-list navbox-even"><div><a href="/%E9%9B%B7%E7%AC%A6%E3%80%8C%E6%84%A4%E6%80%92%E7%9A%84%E9%9B%B7%E7%94%B5%E6%8B%A8%E6%B5%AA%E9%BC%93%E3%80%8D" class="mw-redirect" title="雷符「愤怒的雷电拨浪鼓」">雷符「愤怒的雷电拨浪鼓」</a> &#8226; <a href="/%E5%A4%AA%E9%BC%93%E3%80%8CFantastic_Woofer%E3%80%8D" class="mw-redirect" title="太鼓「Fantastic Woofer」">太鼓「Fantastic Woofer」</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div><a href="./秘封噩梦日记.md" title="秘封噩梦日记">秘封噩梦日记</a></div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="/%E8%BE%89%E5%A4%A9%E7%AC%A6%E3%80%8C%E8%BF%85%E9%9B%B7%E7%9A%84%E5%92%9A%E5%92%9A%E5%A4%AA%E9%BC%93%E3%80%8D" class="mw-redirect" title="辉天符「迅雷的咚咚太鼓」">辉天符「迅雷的咚咚太鼓」</a> &#8226; <a href="/%E8%BE%89%E7%A5%9E%E7%AC%A6%E3%80%8C%E8%B0%9C%E4%B9%8B%E5%92%9A%E5%92%9A%E4%BA%BA%E6%BD%AE%E3%80%8D" class="mw-redirect" title="辉神符「谜之咚咚人潮」">辉神符「谜之咚咚人潮」</a> &#8226; <a href="/%E8%BE%89%E6%98%9F%E7%AC%A6%E3%80%8C%E7%9C%9F%E7%9B%B8%E4%B8%8D%E6%98%8E%E7%9A%84%E5%92%9A%E5%92%9A%E5%A4%AA%E9%BC%93%E3%80%8D" class="mw-redirect" title="辉星符「真相不明的咚咚太鼓」">辉星符「真相不明的咚咚太鼓」</a></div></td></tr></tbody></table><div></div></td><td class="navbox-image" style="" rowspan="3"><a href="./文件-堀川雷鼓（Q版立绘）.png.md" class="image"><img alt="堀川雷鼓（Q版立绘）.png" src="https://upload.thwiki.cc/thumb/0/0b/%E5%A0%80%E5%B7%9D%E9%9B%B7%E9%BC%93%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png/160px-%E5%A0%80%E5%B7%9D%E9%9B%B7%E9%BC%93%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="160" height="160" srcset="https://upload.thwiki.cc/thumb/0/0b/%E5%A0%80%E5%B7%9D%E9%9B%B7%E9%BC%93%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png/240px-%E5%A0%80%E5%B7%9D%E9%9B%B7%E9%BC%93%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/0/0b/%E5%A0%80%E5%B7%9D%E9%9B%B7%E9%BC%93%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png/320px-%E5%A0%80%E5%B7%9D%E9%9B%B7%E9%BC%93%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="500" data-file-height="500"></a></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">出版物</td><td style=";;" class="navbox-list navbox-even"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div><a href="/%E5%AE%87%E4%BD%90%E8%A7%81%E7%9A%84%E9%AD%94%E6%B3%95%E4%B9%A6" class="mw-redirect" title="宇佐见的魔法书">宇佐见的魔法书</a></div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="/%E4%B8%83%E9%BC%93%E3%80%8C%E9%AB%98%E9%80%9F%E5%92%8C%E5%A4%AA%E9%BC%93%E7%81%AB%E7%AE%AD%E3%80%8D" class="mw-redirect" title="七鼓「高速和太鼓火箭」">七鼓「高速和太鼓火箭」</a> &#8226; <a href="./Pristine_Beat.md" title="Pristine Beat" unred="">「Pristine Beat」</a></div></td></tr></tbody></table><div></div></td></tr></tbody></table></td></tr></tbody></table>
-
-
-
-
-
-
+</big>
 ---
 
 此文档由 [THBWiki-Markdown-Builder](https://github.com/Delsin-Yu/THBWiki-Markdown-Builder) 构建。

@@ -1,6 +1,6 @@
 # 文件:しあわせ清蘭合同2_HAPPYWHITE&HAPPYBLACK封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\07\ns6%3A%E3%81%97%E3%81%82%E3%82%8F%E3%81%9B%E6%B8%85%E8%98%AD%E5%90%88%E5%90%8C2_HAPPYWHITE%26HAPPYBLACK%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\07\ns6%3A%E3%81%97%E3%81%82%E3%82%8F%E3%81%9B%E6%B8%85%E8%98%AD%E5%90%88%E5%90%8C2_HAPPYWHITE%26HAPPYBLACK%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 海之天切
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [しあわせ清蘭合同2 HAPPYWHITE&amp;HAPPYBLACK](./しあわせ清蘭合同2_HAPPYWHITE&HAPPYBLACK.md)  
-该封面包含的角色：- [清兰](./清兰.md)
-
-
-
+- [しあわせ清蘭合同2 HAPPYWHITE&HAPPYBLACK](./しあわせ清蘭合同2_HAPPYWHITE&HAPPYBLACK.md)该封面包含的角色：
+- [清兰](./清兰.md)
 
 
 ---

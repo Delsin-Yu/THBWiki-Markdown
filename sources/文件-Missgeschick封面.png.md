@@ -1,6 +1,6 @@
 # 文件:Missgeschick封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7a\ns6%3AMissgeschick%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7a\ns6%3AMissgeschick%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Rigune | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Rigune | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Missgeschick](./Missgeschick.md)  
-该封面包含的角色：- [键山雏](./键山雏.md)
+- [Missgeschick](./Missgeschick.md)该封面包含的角色：
+- [键山雏](./键山雏.md)
 
   
-源地址：[[1]](http://static.tumblr.com/397022c569cd0897c739136a6a775ac7/jacfh5d/Gfbnn7s0r/tumblr_static_gbbhgs0syw0g4skwc0oo04sw.png)
-  
-
-
-
-
+源地址：[\[1\]](http://static.tumblr.com/397022c569cd0897c739136a6a775ac7/jacfh5d/Gfbnn7s0r/tumblr_static_gbbhgs0syw0g4skwc0oo04sw.png)  
 
 ---
 

@@ -1,12 +1,8 @@
 # 文件:魔术「Poker_Tower」.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\46\ns6%3A%E9%AD%94%E6%9C%AF%E3%80%8CPoker_Tower%E3%80%8D%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\46\ns6%3A%E9%AD%94%E6%9C%AF%E3%80%8CPoker_Tower%E3%80%8D%2Epng.html -->
 
 东方幕华祭制作组
-
-
-
-
 
 
 ---

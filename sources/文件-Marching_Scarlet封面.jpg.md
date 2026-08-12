@@ -1,6 +1,6 @@
 # 文件:Marching_Scarlet封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2a\ns6%3AMarching_Scarlet%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2a\ns6%3AMarching_Scarlet%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 相乗り回転ブランコ
 
@@ -11,9 +11,6 @@
   
 
 - [Marching Scarlet](./Marching_Scarlet.md)
-
-
-
 
 
 ---

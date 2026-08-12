@@ -1,6 +1,6 @@
 # 文件:第8回東方紅楼夢会場特典CD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\97\ns6%3A%E7%AC%AC8%E5%9B%9E%E6%9D%B1%E6%96%B9%E7%B4%85%E6%A5%BC%E5%A4%A2%E4%BC%9A%E5%A0%B4%E7%89%B9%E5%85%B8CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\97\ns6%3A%E7%AC%AC8%E5%9B%9E%E6%9D%B1%E6%96%B9%E7%B4%85%E6%A5%BC%E5%A4%A2%E4%BC%9A%E5%A0%B4%E7%89%B9%E5%85%B8CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 C-CLAYS | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ C-CLAYS | 专辑封面 | 封面图片
   
 
 - [第8回東方紅楼夢会場特典CD](./第8回東方紅楼夢会場特典CD.md)
-
-
-
 
 
 ---

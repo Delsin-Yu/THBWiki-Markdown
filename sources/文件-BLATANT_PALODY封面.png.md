@@ -1,6 +1,6 @@
 # 文件:BLATANT_PALODY封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c7\ns6%3ABLATANT_PALODY%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c7\ns6%3ABLATANT_PALODY%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 キャットレター | 专辑封面 | 封面图片
 
@@ -8,12 +8,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [BLATANT PALODY](./BLATANT_PALODY.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)- [矜羯罗](./矜羯罗.md)- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)源地址：[[1]](https://image.jimcdn.com/app/cms/image/transf/none/path/s7c6aaaf6dea67907/image/i7d029d1eb442dd7d/version/1476066155/image.png)
-
-
-
-
+- [BLATANT PALODY](./BLATANT_PALODY.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
+- [矜羯罗](./矜羯罗.md)
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+源地址：[\[1\]](https://image.jimcdn.com/app/cms/image/transf/none/path/s7c6aaaf6dea67907/image/i7d029d1eb442dd7d/version/1476066155/image.png)
 
 ---
 

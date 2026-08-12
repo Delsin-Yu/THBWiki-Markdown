@@ -1,16 +1,11 @@
 # 文件:しおゆでbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\68\ns6%3A%E3%81%97%E3%81%8A%E3%82%86%E3%81%A7banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\68\ns6%3A%E3%81%97%E3%81%8A%E3%82%86%E3%81%A7banner%2Ejpg.html -->
 
 しおゆで | 社团LOGO
 
   
-源地址：[[1]](http://timemachinelock.web.fc2.com/banner.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://timemachinelock.web.fc2.com/banner.jpg)  
 
 ---
 

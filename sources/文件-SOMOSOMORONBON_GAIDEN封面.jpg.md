@@ -1,6 +1,6 @@
 # 文件:SOMOSOMORONBON_GAIDEN封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\60\ns6%3ASOMOSOMORONBON_GAIDEN%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\60\ns6%3ASOMOSOMORONBON_GAIDEN%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 A-One | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@ A-One | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [SOMOSOMORONBON GAIDEN](./SOMOSOMORONBON_GAIDEN.md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)
+- [SOMOSOMORONBON GAIDEN](./SOMOSOMORONBON_GAIDEN.md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
 
   
-[https://www.suruga-ya.jp/product/detail/ZHORE118556](https://www.suruga-ya.jp/product/detail/ZHORE118556)
-  
-
-
-
-
+[https://www.suruga-ya.jp/product/detail/ZHORE118556](https://www.suruga-ya.jp/product/detail/ZHORE118556)  
 
 ---
 

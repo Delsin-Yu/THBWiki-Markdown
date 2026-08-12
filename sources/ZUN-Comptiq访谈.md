@@ -1,16 +1,12 @@
 # ZUN/Comptiq访谈
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\c\cd\ns0%3AZUN%2FComptiq%E8%AE%BF%E8%B0%88.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\c\cd\ns0%3AZUN%2FComptiq%E8%AE%BF%E8%B0%88.html -->
 
 ZUN | 访谈
 
+
 - 本次访谈刊载于2013年7月10日发售的Comptiq 2013年8月号
 - 翻译：京都人形
-
-  
-  
-
-  
 
 
 <table><tbody><tr align="left" valign="top"><td style="min-width:200px;"><b><big>迸发的个性<br><big><big>自制游戏的世界</big></big></big><br><br></b>
@@ -114,7 +110,7 @@ ZUN | 访谈
 </tr>
 <tr>
 	<td>
-<p><b>从谜之「青鬼」处逃脱吧！解谜&amp;恐怖</b>
+<p><b>从谜之「青鬼」处逃脱吧！解谜&恐怖</b>
 </p><p>突如其然被关进了郊外的公馆的主人公4人组。与朋友们失散的主人公，探索蓝色的谜之怪物徘徊的公馆，为生还而奋斗。从「青鬼」处逃离的具有动作要素的解谜AVG。
 </p>
 	</td>
@@ -278,10 +274,6 @@ ZUN | 访谈
 <div class="thumbimage" style="margin: 0; padding: 0;"><a href="./文件-Comptiq访谈1.jpg.md" class="image" title="Comptiq访谈1"><img alt="Comptiq访谈1" src="https://upload.thwiki.cc/thumb/e/e7/Comptiq%E8%AE%BF%E8%B0%881.jpg/195px-Comptiq%E8%AE%BF%E8%B0%881.jpg" decoding="async" loading="lazy" width="195" height="242" srcset="https://upload.thwiki.cc/thumb/e/e7/Comptiq%E8%AE%BF%E8%B0%881.jpg/293px-Comptiq%E8%AE%BF%E8%B0%881.jpg 1.5x, https://upload.thwiki.cc/thumb/e/e7/Comptiq%E8%AE%BF%E8%B0%881.jpg/390px-Comptiq%E8%AE%BF%E8%B0%881.jpg 2x" data-file-width="2488" data-file-height="3088"></a></div><div class="thumbcaption" style="margin: 0 0 2px; padding: 0; line-height: 1.1em;">P001</div><div class="thumbimage" style="margin: 0; padding: 0;"><a href="./文件-Comptiq访谈2.jpg.md" class="image" title="Comptiq访谈2"><img alt="Comptiq访谈2" src="https://upload.thwiki.cc/thumb/4/43/Comptiq%E8%AE%BF%E8%B0%882.jpg/195px-Comptiq%E8%AE%BF%E8%B0%882.jpg" decoding="async" loading="lazy" width="195" height="241" srcset="https://upload.thwiki.cc/thumb/4/43/Comptiq%E8%AE%BF%E8%B0%882.jpg/293px-Comptiq%E8%AE%BF%E8%B0%882.jpg 1.5x, https://upload.thwiki.cc/thumb/4/43/Comptiq%E8%AE%BF%E8%B0%882.jpg/390px-Comptiq%E8%AE%BF%E8%B0%882.jpg 2x" data-file-width="2500" data-file-height="3088"></a></div><div class="thumbcaption" style="margin: 0 0 2px; padding: 0; line-height: 1.1em;">P002</div>
 </div>
 </div></td></tr></tbody></table>
-
-
-
-
 
 
 ---

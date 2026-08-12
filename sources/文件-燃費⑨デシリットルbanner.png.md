@@ -1,14 +1,11 @@
 # 文件:燃費⑨デシリットルbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\91\ns6%3A%E7%87%83%E8%B2%BB%E2%91%A8%E3%83%87%E3%82%B7%E3%83%AA%E3%83%83%E3%83%88%E3%83%ABbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\91\ns6%3A%E7%87%83%E8%B2%BB%E2%91%A8%E3%83%87%E3%82%B7%E3%83%AA%E3%83%83%E3%83%88%E3%83%ABbanner%2Epng.html -->
 
 燃費⑨デシリットル | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

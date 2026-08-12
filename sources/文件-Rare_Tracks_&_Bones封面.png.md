@@ -1,6 +1,6 @@
 # 文件:Rare_Tracks_&_Bones封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2c\ns6%3ARare_Tracks_%26_Bones%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2c\ns6%3ARare_Tracks_%26_Bones%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 ゼッケン屋 | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Rare Tracks &amp; Bones](./Rare_Tracks_&_Bones.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)
+- [Rare Tracks & Bones](./Rare_Tracks_&_Bones.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
 
   
-源地址：[[1]](http://sekken.sakura.ne.jp/works/30raretracks/jake_l.png)
-  
-
-
-
-
+源地址：[\[1\]](http://sekken.sakura.ne.jp/works/30raretracks/jake_l.png)  
 
 ---
 

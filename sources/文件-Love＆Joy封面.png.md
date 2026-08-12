@@ -1,6 +1,6 @@
 # 文件:Love＆Joy封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cf\ns6%3ALove%EF%BC%86Joy%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cf\ns6%3ALove%EF%BC%86Joy%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 うたたねこ | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Love＆Joy](./Love＆Joy.md)  
-该封面包含的角色：- [莉格露·奈特巴格](./莉格露·奈特巴格.md)
+- [Love＆Joy](./Love＆Joy.md)该封面包含的角色：
+- [莉格露·奈特巴格](./莉格露·奈特巴格.md)
 
   
-[Pixiv artwork ID: 35905478 (original size)](https://www.pixiv.net/artworks/35905478)
-  
-
-
-
-
+[Pixiv artwork ID: 35905478 (original size)](https://www.pixiv.net/artworks/35905478)  
 
 ---
 

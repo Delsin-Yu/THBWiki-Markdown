@@ -1,6 +1,6 @@
 # 文件:非売品_(Not-Ho_Sale_In_C80)封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e6\ns6%3A%E9%9D%9E%E5%A3%B2%E5%93%81_%28Not-Ho_Sale_In_C80%29%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e6\ns6%3A%E9%9D%9E%E5%A3%B2%E5%93%81_%28Not-Ho_Sale_In_C80%29%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ELECTRIC_RED | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ ELECTRIC_RED | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [非売品 (Not-Ho Sale In C80)](./非売品_(Not-Ho_Sale_In_C80).md)  
-该封面包含的角色：- [小野塚小町](./小野塚小町.md)
-
-
-
+- [非売品 (Not-Ho Sale In C80)](./非売品_(Not-Ho_Sale_In_C80%29.md)该封面包含的角色：
+- [小野塚小町](./小野塚小町.md)
 
 
 ---

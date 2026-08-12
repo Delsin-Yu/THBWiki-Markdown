@@ -1,6 +1,6 @@
 # 文件:LAST_RESORT（SOUTH_OF_HEAVEN）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\60\ns6%3ALAST_RESORT%EF%BC%88SOUTH_OF_HEAVEN%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\60\ns6%3ALAST_RESORT%EF%BC%88SOUTH_OF_HEAVEN%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 SOUTH_OF_HEAVEN | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ SOUTH_OF_HEAVEN | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [LAST RESORT（SOUTH OF HEAVEN）](./LAST_RESORT（SOUTH_OF_HEAVEN）.md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)
-
-
-
+- [LAST RESORT（SOUTH OF HEAVEN）](./LAST_RESORT（SOUTH_OF_HEAVEN）.md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
 
 
 ---

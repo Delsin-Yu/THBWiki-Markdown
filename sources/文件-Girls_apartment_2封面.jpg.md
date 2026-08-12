@@ -1,6 +1,6 @@
 # 文件:Girls_apartment_2封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2a\ns6%3AGirls_apartment_2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2a\ns6%3AGirls_apartment_2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 TOHO_JAZZ_MESSENGERS | 专辑封面 | 封面图片
 
@@ -8,11 +8,13 @@ TOHO_JAZZ_MESSENGERS | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [girls apartment 2](./girls_apartment_2.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- 十六夜咲夜 (未找到链接)- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)- [伊吹萃香](./伊吹萃香.md)- [东风谷早苗](./东风谷早苗.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [girls apartment 2](./girls_apartment_2.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [十六夜咲夜](./十六夜咲夜.md)
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
+- [伊吹萃香](./伊吹萃香.md)
+- [东风谷早苗](./东风谷早苗.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

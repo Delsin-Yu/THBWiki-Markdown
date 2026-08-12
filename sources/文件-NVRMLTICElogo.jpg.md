@@ -1,18 +1,13 @@
 # 文件:NVRMLTICElogo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\18\ns6%3ANVRMLTICElogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\18\ns6%3ANVRMLTICElogo%2Ejpg.html -->
 
 NVRMLTICE | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[bandcamp avatar](https://f4.bcbits.com/img/0016718914_10.jpg)
-  
-
-
-
-
+源地址：[bandcamp avatar](https://f4.bcbits.com/img/0016718914_10.jpg)  
 
 ---
 

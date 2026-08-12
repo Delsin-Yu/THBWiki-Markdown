@@ -1,6 +1,6 @@
 # 文件:DEAD_OR_ALIVE封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\04\ns6%3ADEAD_OR_ALIVE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\04\ns6%3ADEAD_OR_ALIVE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Lapis_moss | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Lapis_moss | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [DEAD OR ALIVE](./DEAD_OR_ALIVE.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [DEAD OR ALIVE](./DEAD_OR_ALIVE.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
   
-源地址：[[1]](http://kobakyon.net/c86/lmcd-0012_jacket.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://kobakyon.net/c86/lmcd-0012_jacket.jpg)  
 
 ---
 

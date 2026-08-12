@@ -1,12 +1,8 @@
 # 文件:「幻想风靡」（DS文花帖）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\87\ns6%3A%E3%80%8C%E5%B9%BB%E6%83%B3%E9%A3%8E%E9%9D%A1%E3%80%8D%EF%BC%88DS%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\87\ns6%3A%E3%80%8C%E5%B9%BB%E6%83%B3%E9%A3%8E%E9%9D%A1%E3%80%8D%EF%BC%88DS%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Epng.html -->
 
 东方文花帖DS | 射命丸文 | 敌机符卡
-
-
-
-
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:ジギザギbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c2\ns6%3A%E3%82%B8%E3%82%AE%E3%82%B6%E3%82%AEbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c2\ns6%3A%E3%82%B8%E3%82%AE%E3%82%B6%E3%82%AEbanner%2Ejpg.html -->
 
 ジギザギ | 社团LOGO
-
-
-
-
 
 
 ---

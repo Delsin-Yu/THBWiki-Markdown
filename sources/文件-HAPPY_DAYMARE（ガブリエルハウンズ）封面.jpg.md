@@ -1,6 +1,6 @@
 # 文件:HAPPY_DAYMARE（ガブリエルハウンズ）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1f\ns6%3AHAPPY_DAYMARE%EF%BC%88%E3%82%AC%E3%83%96%E3%83%AA%E3%82%A8%E3%83%AB%E3%83%8F%E3%82%A6%E3%83%B3%E3%82%BA%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1f\ns6%3AHAPPY_DAYMARE%EF%BC%88%E3%82%AC%E3%83%96%E3%83%AA%E3%82%A8%E3%83%AB%E3%83%8F%E3%82%A6%E3%83%B3%E3%82%BA%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ガブリエルハウンズ | 同人志封面 | 封面图片
 
@@ -10,16 +10,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [HAPPY DAYMARE（ガブリエルハウンズ）](./HAPPY_DAYMARE（ガブリエルハウンズ）.md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)- [西行寺幽幽子](./西行寺幽幽子.md)
+- [HAPPY DAYMARE（ガブリエルハウンズ）](./HAPPY_DAYMARE（ガブリエルハウンズ）.md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
+- [西行寺幽幽子](./西行寺幽幽子.md)
 
   
-源地址：[direct image link](https://www.suruga-ya.jp/database/pics_light/game/zhore20844.jpg), [source page (suruga-ya)](https://www.suruga-ya.jp/product/detail/ZHORE20844)
-  
-
-
-
-
+源地址：[direct image link](https://www.suruga-ya.jp/database/pics_light/game/zhore20844.jpg), [source page (suruga-ya)](https://www.suruga-ya.jp/product/detail/ZHORE20844)  
 
 ---
 

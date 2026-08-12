@@ -1,18 +1,13 @@
 # 文件:Ende_der_Weltbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\65\ns6%3AEnde_der_Weltbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\65\ns6%3AEnde_der_Weltbanner%2Ejpg.html -->
 
 Ende_der_Welt | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[direct image link](https://edw.sakura.ne.jp/banner.jpg), [source page](http://cupyakiudon.blog.fc2.com/)
-  
-
-
-
-
+源地址：[direct image link](https://edw.sakura.ne.jp/banner.jpg), [source page](http://cupyakiudon.blog.fc2.com/)  
 
 ---
 

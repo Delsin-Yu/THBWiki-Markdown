@@ -1,16 +1,12 @@
 # 模板:夕张漫画Melon祭
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\f\f0\ns10%3A%E5%A4%95%E5%BC%A0%E6%BC%AB%E7%94%BBMelon%E7%A5%AD.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\f\f0\ns10%3A%E5%A4%95%E5%BC%A0%E6%BC%AB%E7%94%BBMelon%E7%A5%AD.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

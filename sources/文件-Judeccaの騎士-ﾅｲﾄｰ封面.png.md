@@ -1,6 +1,6 @@
 # 文件:Judeccaの騎士-ﾅｲﾄｰ封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ca\ns6%3AJudecca%E3%81%AE%E9%A8%8E%E5%A3%AB-%EF%BE%85%EF%BD%B2%EF%BE%84%EF%BD%B0%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ca\ns6%3AJudecca%E3%81%AE%E9%A8%8E%E5%A3%AB-%EF%BE%85%EF%BD%B2%EF%BE%84%EF%BD%B0%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 AbsoЯute_Zero | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ AbsoЯute_Zero | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Judeccaの騎士-ﾅｲﾄｰ](./Judeccaの騎士-ﾅｲﾄｰ.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)
-
-
-
+- [Judeccaの騎士-ﾅｲﾄｰ](./Judeccaの騎士-ﾅｲﾄｰ.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
 
 
 ---

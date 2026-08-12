@@ -1,16 +1,12 @@
 # 模板:例大祭目录Memorial展
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\2\28\ns10%3A%E4%BE%8B%E5%A4%A7%E7%A5%AD%E7%9B%AE%E5%BD%95Memorial%E5%B1%95.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\2\28\ns10%3A%E4%BE%8B%E5%A4%A7%E7%A5%AD%E7%9B%AE%E5%BD%95Memorial%E5%B1%95.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:IdoL.封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dc\ns6%3AIdoL%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dc\ns6%3AIdoL%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 同人志封面 | 封面图片 | 茜根屋
 
@@ -10,16 +10,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [IdoL.](./IdoL..md)  
-该封面包含的角色：- [庭渡久侘歌](./庭渡久侘歌.md)- [山城高岭](./山城高岭.md)
+- [IdoL.](./IdoL..md)该封面包含的角色：
+- [庭渡久侘歌](./庭渡久侘歌.md)
+- [山城高岭](./山城高岭.md)
 
   
-[Pixiv ID: 113105626](https://www.pixiv.net/artworks/113105626)
-  
-
-
-
-
+[Pixiv ID: 113105626](https://www.pixiv.net/artworks/113105626)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:永夜抄_part_1封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\21\ns6%3A%E6%B0%B8%E5%A4%9C%E6%8A%84_part_1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\21\ns6%3A%E6%B0%B8%E5%A4%9C%E6%8A%84_part_1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 minusT | 封面图片 | 视频封面
 
@@ -10,11 +10,9 @@ minusT | 封面图片 | 视频封面
 使用了本文件作封面图片的作品：
   
 
-- [永夜抄 part 1](./永夜抄_part_1.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [永夜抄 part 1](./永夜抄_part_1.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

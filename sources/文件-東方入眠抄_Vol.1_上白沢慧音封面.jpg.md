@@ -1,6 +1,6 @@
 # 文件:東方入眠抄_Vol.1_上白沢慧音封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d0\ns6%3A%E6%9D%B1%E6%96%B9%E5%85%A5%E7%9C%A0%E6%8A%84_Vol%2E1_%E4%B8%8A%E7%99%BD%E6%B2%A2%E6%85%A7%E9%9F%B3%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d0\ns6%3A%E6%9D%B1%E6%96%B9%E5%85%A5%E7%9C%A0%E6%8A%84_Vol%2E1_%E4%B8%8A%E7%99%BD%E6%B2%A2%E6%85%A7%E9%9F%B3%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Re：Volte | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Re：Volte | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方入眠抄 Vol.1 上白沢慧音](./東方入眠抄_Vol.1_上白沢慧音.md)  
-该封面包含的角色：- [上白泽慧音](./上白泽慧音.md)
-
-
-
+- [東方入眠抄 Vol.1 上白沢慧音](./東方入眠抄_Vol.1_上白沢慧音.md)该封面包含的角色：
+- [上白泽慧音](./上白泽慧音.md)
 
 
 ---

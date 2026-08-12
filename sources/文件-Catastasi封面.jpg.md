@@ -1,6 +1,6 @@
 # 文件:Catastasi封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a0\ns6%3ACatastasi%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a0\ns6%3ACatastasi%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Scarlatto_di_Levante | 专辑封面 | 封面图片
 
@@ -8,12 +8,12 @@ Scarlatto_di_Levante | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Catastasi](./Catastasi.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [八意永琳](./八意永琳.md)- [蓬莱山辉夜](./蓬莱山辉夜.md)- [丰聪耳神子](./丰聪耳神子.md)源地址：[[1]](http://mooper.web.fc2.com/catastasi.jpg)
-
-
-
-
+- [Catastasi](./Catastasi.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [八意永琳](./八意永琳.md)
+- [蓬莱山辉夜](./蓬莱山辉夜.md)
+- [丰聪耳神子](./丰聪耳神子.md)
+源地址：[\[1\]](http://mooper.web.fc2.com/catastasi.jpg)
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:ノスタルジア（seasongraf）封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\05\ns6%3A%E3%83%8E%E3%82%B9%E3%82%BF%E3%83%AB%E3%82%B8%E3%82%A2%EF%BC%88seasongraf%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\05\ns6%3A%E3%83%8E%E3%82%B9%E3%82%BF%E3%83%AB%E3%82%B8%E3%82%A2%EF%BC%88seasongraf%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 seasongraf | 同人志封面 | 封面图片
 
@@ -11,9 +11,6 @@ seasongraf | 同人志封面 | 封面图片
   
 
 - [ノスタルジア（seasongraf）](./ノスタルジア（seasongraf）.md)
-
-
-
 
 
 ---

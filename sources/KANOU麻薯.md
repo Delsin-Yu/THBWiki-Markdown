@@ -1,18 +1,16 @@
 # KANOU麻薯
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\a\ab\ns0%3AKANOU%E9%BA%BB%E8%96%AF.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\a\ab\ns0%3AKANOU%E9%BA%BB%E8%96%AF.html -->
 
 现实人物
 
 本页是关于东方Project  
- **二次同人创作者** 的词条
-
+**二次同人创作者**的词条
 ## 基本信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="label"><b>名称</b></td><td> KANOU麻薯 </td></tr><tr><td class="label"><b>所属社团</b></td><td><b>当前</b><div style="margin-left:2em;"><a href="./麻薯小作坊.md" title="麻薯小作坊">麻薯小作坊</a></div></td></tr><tr><td class="label"><b>职位</b></td><td>主催，主绘师，编辑</td></tr></tbody></table>
 
 KANOU麻薯（人物） - 现实人物
-
 ## 介绍
   
 各位好！这里是上海本地的  
@@ -34,18 +32,11 @@ KANOU麻薯（人物） - 现实人物
 联系我加QQ：529120863
   
 
-
 ## 参与作品
   
 [蜡笔の幻想乡-幻想乡地名图鉴](./蜡笔の幻想乡-幻想乡地名图鉴.md)  
-
 [蜡笔の幻想乡-幻想乡地名图鉴Extra](./蜡笔の幻想乡-幻想乡地名图鉴Extra.md)  
-
   
-
-
-
-
 
 ---
 

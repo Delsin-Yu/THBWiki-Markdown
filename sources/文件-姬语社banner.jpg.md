@@ -1,12 +1,8 @@
 # 文件:姬语社banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\43\ns6%3A%E5%A7%AC%E8%AF%AD%E7%A4%BEbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\43\ns6%3A%E5%A7%AC%E8%AF%AD%E7%A4%BEbanner%2Ejpg.html -->
 
 姬语社 | 社团LOGO
-
-
-
-
 
 
 ---

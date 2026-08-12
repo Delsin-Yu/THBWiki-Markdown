@@ -1,6 +1,6 @@
 # 文件:さとり、厭われる·Ex封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\77\ns6%3A%E3%81%95%E3%81%A8%E3%82%8A%E3%80%81%E5%8E%AD%E3%82%8F%E3%82%8C%E3%82%8B%C2%B7Ex%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\77\ns6%3A%E3%81%95%E3%81%A8%E3%82%8A%E3%80%81%E5%8E%AD%E3%82%8F%E3%82%8C%E3%82%8B%C2%B7Ex%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 よはのつき舎 | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [さとり、厭われる·Ex](./さとり、厭われる·Ex.md)  
-该封面包含的角色：- [火焰猫燐](./火焰猫燐.md)
-
-
-
+- [さとり、厭われる·Ex](./さとり、厭われる·Ex.md)该封面包含的角色：
+- [火焰猫燐](./火焰猫燐.md)
 
 
 ---

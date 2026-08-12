@@ -1,6 +1,6 @@
 # 文件:東方下克上～REVERSAL_Revolution～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9a\ns6%3A%E6%9D%B1%E6%96%B9%E4%B8%8B%E5%85%8B%E4%B8%8A%EF%BD%9EREVERSAL_Revolution%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9a\ns6%3A%E6%9D%B1%E6%96%B9%E4%B8%8B%E5%85%8B%E4%B8%8A%EF%BD%9EREVERSAL_Revolution%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Heartful_system | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ Heartful_system | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方下克上～REVERSAL Revolution～](./東方下克上～REVERSAL_Revolution～.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [鬼人正邪](./鬼人正邪.md)
-
-
-
+- [東方下克上～REVERSAL Revolution～](./東方下克上～REVERSAL_Revolution～.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [鬼人正邪](./鬼人正邪.md)
 
 
 ---

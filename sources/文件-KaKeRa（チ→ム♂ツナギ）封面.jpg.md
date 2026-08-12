@@ -1,6 +1,6 @@
 # 文件:KaKeRa（チ→ム♂ツナギ）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\93\ns6%3AKaKeRa%EF%BC%88%E3%83%81%E2%86%92%E3%83%A0%E2%99%82%E3%83%84%E3%83%8A%E3%82%AE%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\93\ns6%3AKaKeRa%EF%BC%88%E3%83%81%E2%86%92%E3%83%A0%E2%99%82%E3%83%84%E3%83%8A%E3%82%AE%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 チ→ム♂ツナギ | 专辑封面 | 封面图片
 
@@ -8,11 +8,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [KaKeRa（チ→ム♂ツナギ）](./KaKeRa（チ→ム♂ツナギ）.md)  
-该封面包含的角色：- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [KaKeRa（チ→ム♂ツナギ）](./KaKeRa（チ→ム♂ツナギ）.md)该封面包含的角色：
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

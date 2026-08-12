@@ -1,6 +1,6 @@
 # 文件:幻想郷の☆プリンスさまっ♪マジLOVE２０００％封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7e\ns6%3A%E5%B9%BB%E6%83%B3%E9%83%B7%E3%81%AE%E2%98%86%E3%83%97%E3%83%AA%E3%83%B3%E3%82%B9%E3%81%95%E3%81%BE%E3%81%A3%E2%99%AA%E3%83%9E%E3%82%B8LOVE%EF%BC%92%EF%BC%90%EF%BC%90%EF%BC%90%EF%BC%85%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7e\ns6%3A%E5%B9%BB%E6%83%B3%E9%83%B7%E3%81%AE%E2%98%86%E3%83%97%E3%83%AA%E3%83%B3%E3%82%B9%E3%81%95%E3%81%BE%E3%81%A3%E2%99%AA%E3%83%9E%E3%82%B8LOVE%EF%BC%92%EF%BC%90%EF%BC%90%EF%BC%90%EF%BC%85%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 カスタムサイズ | 同人志封面 | 封面图片
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [幻想郷の☆プリンスさまっ♪マジLOVE２０００％](./幻想郷の☆プリンスさまっ♪マジLOVE２０００％.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [幻想郷の☆プリンスさまっ♪マジLOVE２０００％](./幻想郷の☆プリンスさまっ♪マジLOVE２０００％.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

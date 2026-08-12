@@ -1,6 +1,6 @@
 # 文件:The_Enlightenment_of_Black-White_Lightning封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d8\ns6%3AThe_Enlightenment_of_Black-White_Lightning%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d8\ns6%3AThe_Enlightenment_of_Black-White_Lightning%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Ragathol_Enterprises | 同人志封面 | 封面图片
 
@@ -10,16 +10,15 @@ Ragathol_Enterprises | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [The Enlightenment of Black-White Lightning](./The_Enlightenment_of_Black-White_Lightning.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)- 十六夜咲夜 (未找到链接)- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [雾雨魔理沙](./雾雨魔理沙.md)
+- [The Enlightenment of Black-White Lightning](./The_Enlightenment_of_Black-White_Lightning.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
+- [十六夜咲夜](./十六夜咲夜.md)
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-[Pixiv artwork ID: 13234021 (original size)](https://www.pixiv.net/artworks/13234021)
-  
-
-
-
-
+[Pixiv artwork ID: 13234021 (original size)](https://www.pixiv.net/artworks/13234021)  
 
 ---
 

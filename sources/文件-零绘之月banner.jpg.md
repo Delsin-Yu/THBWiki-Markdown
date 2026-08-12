@@ -1,6 +1,6 @@
 # 文件:零绘之月banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ea\ns6%3A%E9%9B%B6%E7%BB%98%E4%B9%8B%E6%9C%88banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ea\ns6%3A%E9%9B%B6%E7%BB%98%E4%B9%8B%E6%9C%88banner%2Ejpg.html -->
 
 社团LOGO | 零绘之月
 
@@ -9,10 +9,6 @@
   
 零绘之月社团标志
   
-
-
-
-
 
 ---
 

@@ -1,16 +1,12 @@
 # 文件:东方梦想曲ED.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\99\ns6%3A%E4%B8%9C%E6%96%B9%E6%A2%A6%E6%83%B3%E6%9B%B2ED%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\99\ns6%3A%E4%B8%9C%E6%96%B9%E6%A2%A6%E6%83%B3%E6%9B%B2ED%2Epng.html -->
 
 SlimeSmile
 
   
 出自《东方梦想曲》的ED
   
-
-
-
-
 
 ---
 

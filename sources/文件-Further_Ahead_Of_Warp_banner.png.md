@@ -1,12 +1,8 @@
 # 文件:Further_Ahead_Of_Warp_banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\27\ns6%3AFurther_Ahead_Of_Warp_banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\27\ns6%3AFurther_Ahead_Of_Warp_banner%2Epng.html -->
 
 Further_Ahead_Of_Warp | 社团LOGO
-
-
-
-
 
 
 ---

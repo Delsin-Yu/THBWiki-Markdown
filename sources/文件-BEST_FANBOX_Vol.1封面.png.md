@@ -1,6 +1,6 @@
 # 文件:BEST_FANBOX_Vol.1封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9e\ns6%3ABEST_FANBOX_Vol%2E1%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9e\ns6%3ABEST_FANBOX_Vol%2E1%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 少女フラクタル | 幽闭星光
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [BEST FANBOX Vol.1](./BEST_FANBOX_Vol.1.md)  
-该封面包含的角色：- [圣白莲](./圣白莲.md)
+- [BEST FANBOX Vol.1](./BEST_FANBOX_Vol.1.md)该封面包含的角色：
+- [圣白莲](./圣白莲.md)
 
   
-源地址：[[1]](http://yuuhei-satellite.sakura.ne.jp/wp/wp-content/uploads/2023/07/YHFT-0001_jaket.png)
-  
-
-
-
-
+源地址：[\[1\]](http://yuuhei-satellite.sakura.ne.jp/wp/wp-content/uploads/2023/07/YHFT-0001_jaket.png)  
 
 ---
 

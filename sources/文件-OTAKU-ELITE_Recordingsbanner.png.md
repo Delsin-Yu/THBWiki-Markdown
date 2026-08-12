@@ -1,14 +1,11 @@
 # 文件:OTAKU-ELITE_Recordingsbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8e\ns6%3AOTAKU-ELITE_Recordingsbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8e\ns6%3AOTAKU-ELITE_Recordingsbanner%2Epng.html -->
 
 OTAKU-ELITE_Recordings | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:東方黒冗談_1_ぷらす_～Toho_Black_Joke_1_Plus～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3f\ns6%3A%E6%9D%B1%E6%96%B9%E9%BB%92%E5%86%97%E8%AB%87_1_%E3%81%B7%E3%82%89%E3%81%99_%EF%BD%9EToho_Black_Joke_1_Plus%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3f\ns6%3A%E6%9D%B1%E6%96%B9%E9%BB%92%E5%86%97%E8%AB%87_1_%E3%81%B7%E3%82%89%E3%81%99_%EF%BD%9EToho_Black_Joke_1_Plus%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 痕桃梦
 
@@ -10,11 +10,13 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方黒冗談 1 ぷらす ～Toho Black Joke 1 Plus～](./東方黒冗談_1_ぷらす_～Toho_Black_Joke_1_Plus～.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [八云紫](./八云紫.md)- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)- [八意永琳](./八意永琳.md)- [蓬莱山辉夜](./蓬莱山辉夜.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [東方黒冗談 1 ぷらす ～Toho Black Joke 1 Plus～](./東方黒冗談_1_ぷらす_～Toho_Black_Joke_1_Plus～.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [八云紫](./八云紫.md)
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
+- [八意永琳](./八意永琳.md)
+- [蓬莱山辉夜](./蓬莱山辉夜.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

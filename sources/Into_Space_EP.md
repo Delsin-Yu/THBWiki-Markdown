@@ -1,12 +1,11 @@
 # Into_Space_EP
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\7\75\ns0%3AInto_Space_EP.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\7\75\ns0%3AInto_Space_EP.html -->
 
 2018年6月20日 由 ychzi  发布的EP同人专辑，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人专辑 (未找到链接)** 的词条
-
+**[二次创作同人专辑](./二次创作.md#同人音乐)**的词条
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Into_Space_EP封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/5/56/Into_Space_EP%E5%B0%81%E9%9D%A2.jpg/224px-Into_Space_EP%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="224" srcset="https://upload.thwiki.cc/thumb/5/56/Into_Space_EP%E5%B0%81%E9%9D%A2.jpg/336px-Into_Space_EP%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/5/56/Into_Space_EP%E5%B0%81%E9%9D%A2.jpg/448px-Into_Space_EP%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1200" data-file-height="1200"></a></td>
@@ -15,42 +14,33 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://ychzi.bandcamp.com/album/into-space-ep">https://ychzi.bandcamp.com/album/into-space-ep</a></td></tr></tbody></table>
 
 Into Space EP（同人专辑，ychzi，2018） - 2018年6月20日 由 ychzi  发布的EP同人专辑，分级为 一般向
-
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://ychzi.bandcamp.com/album/into-space-ep">bandcamp</a></td></tr></tbody></table>
-
 
 
 ## Staff
   
- **Arrangement**   
+**Arrangement**  
 
 <table><tbody><tr><td><a href="./ychzi.md" title="ychzi">ychzi</a></td><td></td><td>Tr.1-5</td></tr></tbody></table>
 
-
 Design
 : ychzi
-
 
 ## 试听
   
 暂不支援此类型
   
 
-
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Voyage_of_1970" colspan="2" class="title">Voyage of 1970<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=ychzi&amp;ogmusic=ヴォヤージュ1970&amp;fromwiki=Into_Space_EP"><span title="搜索相似同人曲"></span></a></span></td><td class="time">01:41</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./ychzi.md" title="ychzi">ychzi</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，ychzi&amp;fromwiki=Into_Space_EP"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=ヴォヤージュ1970&amp;fromwiki=Into_Space_EP"><span></span></a></span><div class="ogmusic"><a href="./ヴォヤージュ1970.md" class="mw-redirect" title="ヴォヤージュ1970">ヴォヤージュ1970</a></div><div class="source"><a href="./东方永夜抄_～_Imperishable_Night..md" class="mw-redirect" title="东方永夜抄 ～ Imperishable Night.">东方永夜抄　～ Imperishable Night.</a></div></td></tr>
-<tr><td id="2" class="infoYD"><b>02</b></td><td id="Millipede" colspan="2" class="title">Millipede<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=ychzi&amp;ogmusic=千年幻想郷　～ History of the Moon&amp;fromwiki=Into_Space_EP"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:13</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./ychzi.md" title="ychzi">ychzi</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，ychzi&amp;fromwiki=Into_Space_EP"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=千年幻想郷　～ History of the Moon&amp;fromwiki=Into_Space_EP"><span></span></a></span><div class="ogmusic"><a href="./千年幻想郷_～_History_of_the_Moon.md" class="mw-redirect" title="千年幻想郷 ～ History of the Moon">千年幻想郷　～ History of the Moon</a></div><div class="source"><a href="./东方永夜抄_～_Imperishable_Night..md" class="mw-redirect" title="东方永夜抄 ～ Imperishable Night.">东方永夜抄　～ Imperishable Night.</a></div></td></tr>
-<tr><td id="3" class="infoYD"><b>03</b></td><td id="Dreamy_Mausoleum" colspan="2" class="title">Dreamy Mausoleum<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=ychzi&amp;ogmusic=古きユアンシェン&amp;fromwiki=Into_Space_EP"><span title="搜索相似同人曲"></span></a></span></td><td class="time">02:49</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./ychzi.md" title="ychzi">ychzi</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，ychzi&amp;fromwiki=Into_Space_EP"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=古きユアンシェン&amp;fromwiki=Into_Space_EP"><span></span></a></span><div class="ogmusic"><a href="./古きユアンシェン.md" class="mw-redirect" title="古きユアンシェン">古きユアンシェン</a></div><div class="source"><a href="./东方神灵庙_～_Ten_Desires..md" class="mw-redirect" title="东方神灵庙 ～ Ten Desires.">东方神灵庙　～ Ten Desires.</a></div></td></tr>
-<tr><td id="4" class="infoYD"><b>04</b></td><td id="Farawayville" colspan="2" class="title">Farawayville<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=ychzi&amp;ogmusic=遥か３８万キロのボヤージュ&amp;fromwiki=Into_Space_EP"><span title="搜索相似同人曲"></span></a></span></td><td class="time">02:19</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./ychzi.md" title="ychzi">ychzi</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，ychzi&amp;fromwiki=Into_Space_EP"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=遥か３８万キロのボヤージュ&amp;fromwiki=Into_Space_EP"><span></span></a></span><div class="ogmusic"><a href="./遥か３８万キロのボヤージュ.md" class="mw-redirect" title="遥か３８万キロのボヤージュ">遥か３８万キロのボヤージュ</a></div><div class="source"><a href="./东方绀珠传_～_Legacy_of_Lunatic_Kingdom..md" class="mw-redirect" title="东方绀珠传 ～ Legacy of Lunatic Kingdom.">东方绀珠传　～ Legacy of Lunatic Kingdom.</a></div></td></tr>
-<tr><td id="5" class="infoYD"><b>05</b></td><td id="The_See" colspan="2" class="title">The See<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=ychzi&amp;ogmusic=故郷の星が映る海&amp;fromwiki=Into_Space_EP"><span title="搜索相似同人曲"></span></a></span></td><td class="time">01:33</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./ychzi.md" title="ychzi">ychzi</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，ychzi&amp;fromwiki=Into_Space_EP"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=故郷の星が映る海&amp;fromwiki=Into_Space_EP"><span></span></a></span><div class="ogmusic"><a href="./故郷の星が映る海.md" class="mw-redirect" title="故郷の星が映る海">故郷の星が映る海</a></div><div class="source"><a href="./东方绀珠传_～_Legacy_of_Lunatic_Kingdom..md" class="mw-redirect" title="东方绀珠传 ～ Legacy of Lunatic Kingdom.">东方绀珠传　～ Legacy of Lunatic Kingdom.</a></div></td></tr></tbody></table>
-
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Voyage_of_1970" colspan="2" class="title">Voyage of 1970</td><td class="time">01:41</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./ychzi.md" title="ychzi">ychzi</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./Voyage1970.md" class="mw-redirect" title="ヴォヤージュ1970">ヴォヤージュ1970</a></div><div class="source"><a href="./东方永夜抄.md" class="mw-redirect" title="东方永夜抄 ～ Imperishable Night.">东方永夜抄　～ Imperishable Night.</a></div></td></tr>
+<tr><td id="2" class="infoYD"><b>02</b></td><td id="Millipede" colspan="2" class="title">Millipede</td><td class="time">03:13</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./ychzi.md" title="ychzi">ychzi</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./千年幻想乡_～_History_of_the_Moon.md" class="mw-redirect" title="千年幻想郷 ～ History of the Moon">千年幻想郷　～ History of the Moon</a></div><div class="source"><a href="./东方永夜抄.md" class="mw-redirect" title="东方永夜抄 ～ Imperishable Night.">东方永夜抄　～ Imperishable Night.</a></div></td></tr>
+<tr><td id="3" class="infoYD"><b>03</b></td><td id="Dreamy_Mausoleum" colspan="2" class="title">Dreamy Mausoleum</td><td class="time">02:49</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./ychzi.md" title="ychzi">ychzi</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./古老的元神.md" class="mw-redirect" title="古きユアンシェン">古きユアンシェン</a></div><div class="source"><a href="./东方神灵庙.md" class="mw-redirect" title="东方神灵庙 ～ Ten Desires.">东方神灵庙　～ Ten Desires.</a></div></td></tr>
+<tr><td id="4" class="infoYD"><b>04</b></td><td id="Farawayville" colspan="2" class="title">Farawayville</td><td class="time">02:19</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./ychzi.md" title="ychzi">ychzi</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./遥遥38万公里的航程.md" class="mw-redirect" title="遥か３８万キロのボヤージュ">遥か３８万キロのボヤージュ</a></div><div class="source"><a href="./东方绀珠传.md" class="mw-redirect" title="东方绀珠传 ～ Legacy of Lunatic Kingdom.">东方绀珠传　～ Legacy of Lunatic Kingdom.</a></div></td></tr>
+<tr><td id="5" class="infoYD"><b>05</b></td><td id="The_See" colspan="2" class="title">The See</td><td class="time">01:33</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./ychzi.md" title="ychzi">ychzi</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./故乡之星倒映之海.md" class="mw-redirect" title="故郷の星が映る海">故郷の星が映る海</a></div><div class="source"><a href="./东方绀珠传.md" class="mw-redirect" title="东方绀珠传 ～ Legacy of Lunatic Kingdom.">东方绀珠传　～ Legacy of Lunatic Kingdom.</a></div></td></tr></tbody></table>
 
 
 ## 评论
-
-
-
 
 ---
 

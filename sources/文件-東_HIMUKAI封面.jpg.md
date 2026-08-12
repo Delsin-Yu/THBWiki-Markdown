@@ -1,6 +1,6 @@
 # 文件:東_HIMUKAI封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\52\ns6%3A%E6%9D%B1_HIMUKAI%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\52\ns6%3A%E6%9D%B1_HIMUKAI%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 WAVEDRIVE | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ WAVEDRIVE | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東 HIMUKAI](./東_HIMUKAI.md)  
-该封面包含的角色：- [宇佐见莲子](./宇佐见莲子.md)- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [東 HIMUKAI](./東_HIMUKAI.md)该封面包含的角色：
+- [宇佐见莲子](./宇佐见莲子.md)
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

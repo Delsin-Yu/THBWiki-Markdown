@@ -1,12 +1,8 @@
 # 文件:缺少的face2.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\00\ns6%3A%E7%BC%BA%E5%B0%91%E7%9A%84face2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\00\ns6%3A%E7%BC%BA%E5%B0%91%E7%9A%84face2%2Ejpg.html -->
 
 冴月麟
-
-
-
-
 
 
 ---

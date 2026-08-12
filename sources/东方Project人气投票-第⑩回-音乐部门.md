@@ -1,18 +1,17 @@
 # 东方Project人气投票/第⑩回/音乐部门
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\d\da\ns0%3A%E4%B8%9C%E6%96%B9Project%E4%BA%BA%E6%B0%94%E6%8A%95%E7%A5%A8%2F%E7%AC%AC%E2%91%A9%E5%9B%9E%2F%E9%9F%B3%E4%B9%90%E9%83%A8%E9%97%A8.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\d\da\ns0%3A%E4%B8%9C%E6%96%B9Project%E4%BA%BA%E6%B0%94%E6%8A%95%E7%A5%A8%2F%E7%AC%AC%E2%91%A9%E5%9B%9E%2F%E9%9F%B3%E4%B9%90%E9%83%A8%E9%97%A8.html -->
 
 东方Project人气投票
 
 <center>
-
 <table>
 <tbody><tr>
-<td>&lt;
+<td><
 </td>
-<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./东方Project人气投票-第⑨回-音乐部门.md" title="东方Project人气投票/第⑨回/音乐部门">第⑨回</a>&#160;
+<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./东方Project人气投票-第⑨回-音乐部门.md" title="东方Project人气投票/第⑨回/音乐部门">第⑨回</a> 
 </td>
-<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="./东方Project人气投票.md" title="东方Project人气投票">东方Project人气投票</a>（音乐部门）&#160;
+<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;"> <a href="./东方Project人气投票.md" title="东方Project人气投票">东方Project人气投票</a>（音乐部门） 
 </td>
 <td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left">
 </td>
@@ -23,6 +22,7 @@
 </center>
 - 本页面为音乐部门的票数排行简表。页面打开时已按票数排序，本命加权是指1本命票计算为2票。
 
+
 - 总有效票数17442， 总本命票数13135， 参投音乐总数588， 全音乐平均得票数30， 中位音乐得票数56。
 
 
@@ -32,9 +32,8 @@
 <th>标记说明
 </th></tr>
 <tr>
-<td><span style="color:#FBB">▇▇</span>：本回投票新加入的音乐<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">1</a></sup>
+<td><span style="color:#FBB">▇▇</span>：本回投票新加入的音乐<span>[^cite_note-1]</span>
 </td></tr></tbody></table>
-
 
 
 <table>
@@ -8286,12 +8285,7 @@
 </td></tr>
 </tbody></table>
 
-
 [^cite_note-1]: 新加入了29首曲目，移除了12首曲目。移除的曲目为魔所、内心、间奏曲、夜晚无法入睡、My Maid, Sweet Maid、天真无邪的二人的博物志、幻想的White Traveler、连带责人、意气洋洋、开演间近、疑惑的萌芽、曲名不详(刚欲异闻标题曲)。
-
-
-
-
 
 ---
 

@@ -1,12 +1,8 @@
 # 文件:秦心Alphes风.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\93\ns6%3A%E7%A7%A6%E5%BF%83Alphes%E9%A3%8E%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\93\ns6%3A%E7%A7%A6%E5%BF%83Alphes%E9%A3%8E%2Epng.html -->
 
 秦心
-
-
-
-
 
 
 ---

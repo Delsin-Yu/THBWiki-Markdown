@@ -1,6 +1,6 @@
 # 文件:Another（Cry_Of_The_Soul）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b5\ns6%3AAnother%EF%BC%88Cry_Of_The_Soul%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b5\ns6%3AAnother%EF%BC%88Cry_Of_The_Soul%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Cry_Of_The_Soul | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ Cry_Of_The_Soul | 专辑封面 | 封面图片
   
 
 - [Another（Cry Of The Soul）](./Another（Cry_Of_The_Soul）.md)
-
-
-
 
 
 ---

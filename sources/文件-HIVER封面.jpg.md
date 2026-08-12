@@ -1,6 +1,6 @@
 # 文件:HIVER封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b1\ns6%3AHIVER%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b1\ns6%3AHIVER%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 あとりえ四季 | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [HIVER](./HIVER.md)  
-该封面包含的角色：- [蕾蒂·霍瓦特洛克](./蕾蒂·霍瓦特洛克.md)
+- [HIVER](./HIVER.md)该封面包含的角色：
+- [蕾蒂·霍瓦特洛克](./蕾蒂·霍瓦特洛克.md)
 
   
-源地址：[direct image link (original size)](https://booth.pximg.net/650a0c88-4090-4406-8708-b81e63b07a2f/i/4734484/ab328151-cfda-4553-8830-62e34f1b5be2.jpeg), [source page (circle Booth)](https://silver81106.booth.pm/items/4734484)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://booth.pximg.net/650a0c88-4090-4406-8708-b81e63b07a2f/i/4734484/ab328151-cfda-4553-8830-62e34f1b5be2.jpeg), [source page (circle Booth)](https://silver81106.booth.pm/items/4734484)  
 
 ---
 

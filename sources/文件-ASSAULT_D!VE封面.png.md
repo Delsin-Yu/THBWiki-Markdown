@@ -1,6 +1,6 @@
 # 文件:ASSAULT_D!VE封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\30\ns6%3AASSAULT_D%21VE%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\30\ns6%3AASSAULT_D%21VE%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 GET_IN_THE_RING | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ GET_IN_THE_RING | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [ASSAULT D!VE](./ASSAULT_D!VE.md)  
-该封面包含的角色：- [依神女苑](./依神女苑.md)- [依神紫苑](./依神紫苑.md)
-
-
-
+- [ASSAULT D!VE](./ASSAULT_D!VE.md)该封面包含的角色：
+- [依神女苑](./依神女苑.md)
+- [依神紫苑](./依神紫苑.md)
 
 
 ---

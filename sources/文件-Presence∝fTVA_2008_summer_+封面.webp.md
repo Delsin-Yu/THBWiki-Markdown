@@ -1,6 +1,6 @@
 # 文件:Presence∝fTVA_2008_summer_+封面.webp
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dd\ns6%3APresence%E2%88%9DfTVA_2008_summer_%2B%E5%B0%81%E9%9D%A2%2Ewebp.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dd\ns6%3APresence%E2%88%9DfTVA_2008_summer_%2B%E5%B0%81%E9%9D%A2%2Ewebp.html -->
 
 Presence∝fTVA | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ Presence∝fTVA | 专辑封面 | 封面图片
   
 
 - [Presence∝fTVA 2008 summer +](./Presence∝fTVA_2008_summer_+.md)
-
-
-
 
 
 ---

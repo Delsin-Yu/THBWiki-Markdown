@@ -1,32 +1,26 @@
 # Konntali_Records
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\1\1d\ns0%3AKonntali_Records.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\1\1d\ns0%3AKonntali_Records.html -->
 
 现实人物
 
 本页是关于东方Project  
- **二次同人创作者** 的词条
+**二次同人创作者**的词条
 ## 基本信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="label"><b>名称</b></td><td> Konntali Records </td></tr><tr><td class="label"><b>别名</b></td><td>Konntali</td></tr><tr><td class="label"><b>所属社团</b></td><td><b>当前</b><div style="margin-left:2em;">无所属社团</div></td></tr><tr><td class="label"><b>职位</b></td><td>编曲，作曲</td></tr><tr><td class="label"><b>参与社团</b></td><td><a class="mw-selflink selflink">Konntali Records</a> （编曲）<br><a href="./LTEDTX.md" title="LTEDTX">LTEDTX</a> （作曲）<br><a href="./Liberal_Spark.md" title="Liberal Spark">Liberal Spark</a> （编曲）<br><a href="./Structure_Sound.md" title="Structure Sound">Structure Sound</a> （编曲）<br><a href="./Violet_Delta.md" title="Violet Delta">Violet Delta</a> （编曲）</td></tr><tr><td class="label"><b>个人页面</b></td><td><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><b>Twitter</b></td><td><a rel="nofollow" class="external free" href="https://twitter.com/konntality">https://twitter.com/konntality</a></td></tr><tr><td><b>Soundcloud</b></td><td><a rel="nofollow" class="external free" href="https://soundcloud.com/konntali">https://soundcloud.com/konntali</a></td></tr></tbody></table></td></tr></tbody></table>
 
 Konntali Records（人物） - 现实人物
 ## 介绍
-## 参与作品
-### 東方自作アレンジ
-Konntali Records Soundcloud Collection 封面图片 (未找到链接)[Konntali Records Soundcloud Collection](./Konntali_Records_Soundcloud_Collection.md)首发日期：未知 单曲 （一般向）
-<table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
-</table>
 
+## 参与作品
+
+### 東方自作アレンジ
+- **[Konntali Records Soundcloud Collection](./Konntali_Records_Soundcloud_Collection.md)** — 首发日期：未知；单曲 （一般向）
 
 ### 同人音乐
   
-模板:人物曲目列表 (未找到链接)
-  
-
-
-
-
+模板:人物曲目列表 (未找到链接)  
 
 ---
 

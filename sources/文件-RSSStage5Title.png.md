@@ -1,12 +1,8 @@
 # 文件:RSSStage5Title.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f5\ns6%3ARSSStage5Title%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f5\ns6%3ARSSStage5Title%2Epng.html -->
 
 東方桃源宮製作チーム
-
-
-
-
 
 
 ---

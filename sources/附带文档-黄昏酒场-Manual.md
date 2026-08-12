@@ -1,30 +1,26 @@
 # 附带文档:黄昏酒场/Manual
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\c\c3\ns506%3A%E9%BB%84%E6%98%8F%E9%85%92%E5%9C%BA%2FManual.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\c\c3\ns506%3A%E9%BB%84%E6%98%8F%E9%85%92%E5%9C%BA%2FManual.html -->
 
 黄昏酒场
 
-- 本词条内容为 **[黄昏酒场](./黄昏酒场.md)** 的附带文档之一
+
+- 本词条内容为**[黄昏酒场](./黄昏酒场.md)**的附带文档之一
 - 如果发现翻译问题可进行改正
-- 注意：本词条其原文为HTML格式的网页说明书，鉴于HTML网页完整呈现在Wiki上比较复杂且费时，目前仍仅将 **背景** 部分以对照翻译的形式列出在本页面内。
-- <big>说明书的其他内容请点击下列网址来进行访问： **[日文版](http://omake.thwiki.cc/manual/al/ja/)** ， **[中文版](http://omake.thwiki.cc/manual/al/zh/)** </big>
+- 注意：本词条其原文为HTML格式的网页说明书，鉴于HTML网页完整呈现在Wiki上比较复杂且费时，目前仍仅将**背景**部分以对照翻译的形式列出在本页面内。
+- <big>说明书的其他内容请点击下列网址来进行访问：**[日文版](http://omake.thwiki.cc/manual/al/ja/)**，**[中文版](http://omake.thwiki.cc/manual/al/zh/)**</big>
 
 
 ## 目录
 
 - [1 背景](#背景)
 - [2 角色](#角色)
-
   - [2.1 浅间伊佐美](#浅间伊佐美)
-
 
 
 - [3 FAQ](#FAQ)
 - [4 注释](#注释)
 - [5 词条导航](#词条导航)
-
-
-
 
 
 ## 背景
@@ -82,7 +78,6 @@
 </td></tr></tbody></table>
 
 
-
 ## 角色
 
 <table>
@@ -99,7 +94,6 @@
 <p>角色
 </p>
 </th></tr></tbody></table>
-
 
 
 ### 浅间伊佐美
@@ -121,7 +115,7 @@
 </p>
 </th>
 <th width="20%">
-<p>&#160;
+<p> 
 </p>
 </th></tr>
 <tr>
@@ -139,7 +133,7 @@
 </td>
 <td class="zh3td" width="40%">
 <p>　为喝酒而起床，为喝酒而去公司，为喝酒而睡的新人OL。
-　因酒钱和郁金药<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">1</a></sup>的开销过大，而苦恼于是不是必须要换工作。
+　因酒钱和郁金药<span>[^cite_note-1]</span>的开销过大，而苦恼于是不是必须要换工作。
 </p><p>　某一天，从上司那得知有一间海量酒豪聚集的酒馆，遂产生了兴趣。
 　上司告诉他，在那个酒馆一直喝到清晨，就可以看到「不可思议的弹幕世界」……。
 </p>
@@ -148,7 +142,6 @@
 <p><a href="./文件-浅间伊佐美（黄昏酒场Manual）.png.md" class="image"><img alt="浅间伊佐美（黄昏酒场Manual）.png" src="https://upload.thwiki.cc/4/45/%E6%B5%85%E9%97%B4%E4%BC%8A%E4%BD%90%E7%BE%8E%EF%BC%88%E9%BB%84%E6%98%8F%E9%85%92%E5%9C%BAManual%EF%BC%89.png" decoding="async" loading="lazy" width="80" height="96" data-file-width="80" data-file-height="96"></a>
 </p>
 </th></tr></tbody></table>
-
 
 
 ## FAQ
@@ -408,21 +401,7 @@ custom.exeを起動して画面モードを16Bitsにしたり描画間隔を減�
 </div>
 </td></tr></tbody></table>
 
-
-
 [^cite_note-1]: 郁金是防宿醉的特效药
-
-
-## 词条导航
-  
-  
-
-<table><tbody><tr><td><table cellspacing="0" class="nowraplinks mw-collapsible mw-collapsed" style="width:100%;;;"><tbody><tr><th style=";" colspan="3" class="navbox-title"><div class="navbar"><div class="noprint plainlinksneverexpand" style="background-color:transparent; padding:0; font-weight:normal; font-size:80%; white-space:nowrap;"><a href="./模板-黄昏酒场导航.md" title="模板:黄昏酒场导航"><span style=";;border:none;" title="查看这个模板">查</span></a>&#160;<span style="font-size:80%;">•</span>&#160;<a href="/index.php?title=%E6%A8%A1%E6%9D%BF:%E9%BB%84%E6%98%8F%E9%85%92%E5%9C%BA%E5%AF%BC%E8%88%AA&amp;action=edit"><span style=";;border:none;" title="您可以编辑这个模板。请在储存变更之前先预览">编</span></a></div></div><span><a href="./黄昏酒场.md" title="黄昏酒场">黄昏酒场</a></span></th></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">角色</td><td style=";;" class="navbox-list navbox-odd"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>自机</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./浅间伊佐美.md" title="浅间伊佐美">浅间伊佐美</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>BOSS</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./八海山辰巳.md" title="八海山辰巳">八海山辰巳</a> &#8226; <a href="./有江露美.md" title="有江露美">有江露美</a> &#8226; <a href="./甘粕·巴里·天治.md" title="甘粕·巴里·天治">甘粕·巴里·天治</a></div></td></tr></tbody></table><div></div></td><td class="navbox-image" style="" rowspan="13"><a href="./文件-黄昏酒场载入界面.jpg.md" class="image"><img alt="黄昏酒场载入界面.jpg" src="https://upload.thwiki.cc/thumb/c/c1/%E9%BB%84%E6%98%8F%E9%85%92%E5%9C%BA%E8%BD%BD%E5%85%A5%E7%95%8C%E9%9D%A2.jpg/160px-%E9%BB%84%E6%98%8F%E9%85%92%E5%9C%BA%E8%BD%BD%E5%85%A5%E7%95%8C%E9%9D%A2.jpg" decoding="async" loading="lazy" width="160" height="120" srcset="https://upload.thwiki.cc/thumb/c/c1/%E9%BB%84%E6%98%8F%E9%85%92%E5%9C%BA%E8%BD%BD%E5%85%A5%E7%95%8C%E9%9D%A2.jpg/240px-%E9%BB%84%E6%98%8F%E9%85%92%E5%9C%BA%E8%BD%BD%E5%85%A5%E7%95%8C%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/c/c1/%E9%BB%84%E6%98%8F%E9%85%92%E5%9C%BA%E8%BD%BD%E5%85%A5%E7%95%8C%E9%9D%A2.jpg/320px-%E9%BB%84%E6%98%8F%E9%85%92%E5%9C%BA%E8%BD%BD%E5%85%A5%E7%95%8C%E9%9D%A2.jpg 2x" data-file-width="640" data-file-height="480"></a></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">剧情</td><td style=";;" class="navbox-list navbox-even"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>剧情文本</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="/%E9%99%84%E5%B8%A6%E6%96%87%E6%A1%A3:%E9%BB%84%E6%98%8F%E9%85%92%E5%9C%BA/Manual#背景" title="附带文档:黄昏酒场/Manual">故事背景</a></div></td></tr></tbody></table><div></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">场景</td><td style=";;" class="navbox-list navbox-odd"><div><a href="/%E9%BB%84%E6%98%8F%E9%85%92%E5%9C%BA/%E5%9C%BA%E6%99%AF#大众居酒屋" title="黄昏酒场/场景">大众居酒屋</a> &#8226; <a href="/%E9%BB%84%E6%98%8F%E9%85%92%E5%9C%BA/%E5%9C%BA%E6%99%AF#夜晚的社交场" title="黄昏酒场/场景">夜晚的社交场</a> &#8226; <a href="/%E9%BB%84%E6%98%8F%E9%85%92%E5%9C%BA/%E5%9C%BA%E6%99%AF#屋上的魔界" title="黄昏酒场/场景">屋上的魔界</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">音乐</td><td style=";;" class="navbox-list navbox-even"><div><a href="./黄昏酒场-Music.md" title="黄昏酒场/Music">Music</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="/%E9%BB%84%E6%98%8F%E9%85%92%E5%9C%BA#附带文档" title="黄昏酒场">附带文档</a></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./附带文档-黄昏酒场-Readme.md" title="附带文档:黄昏酒场/Readme">Readme</a> &#8226; <a href="./附带文档-黄昏酒场-ZUN后记.md" title="附带文档:黄昏酒场/ZUN后记">ZUN后记</a> &#8226; <a href="./附带文档-黄昏酒场-晃后记.md" title="附带文档:黄昏酒场/晃后记">晃后记</a> &#8226; <a href="./附带文档-黄昏酒场-ルー后记.md" title="附带文档:黄昏酒场/ルー后记">ルー后记</a> &#8226; <a href="./附带文档-黄昏酒场-紫雨后记.md" title="附带文档:黄昏酒场/紫雨后记">紫雨后记</a> &#8226; <a href="./附带文档-黄昏酒场-Kiyoma曲名＆评语.md" title="附带文档:黄昏酒场/Kiyoma曲名＆评语">Kiyoma曲名＆评语</a> &#8226; <a href="./附带文档-黄昏酒场-Omake_骨折饮料.md" title="附带文档:黄昏酒场/Omake 骨折饮料">Omake_骨折饮料</a> &#8226; <a href="./附带文档-黄昏酒场-てる后记.md" title="附带文档:黄昏酒场/てる后记">てる后记</a> &#8226; <a href="./附带文档-黄昏酒场-羽鸟风画的呼声.md" title="附带文档:黄昏酒场/羽鸟风画的呼声">羽鸟风画的呼声</a> &#8226; <a class="mw-selflink selflink">说明书（Manual）</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">符卡</td><td style=";;" class="navbox-list navbox-even"><div><a href="./黄昏酒场-符卡.md" title="黄昏酒场/符卡">符卡</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">其他</td><td style=";;" class="navbox-list navbox-odd"><div><a href="./黄昏酒场-其他.md" title="黄昏酒场/其他">其他相关资料</a></div></td></tr></tbody></table></td></tr></tbody></table>
-
-
-
-
-
 
 ---
 

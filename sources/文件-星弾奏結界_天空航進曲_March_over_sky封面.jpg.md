@@ -1,6 +1,6 @@
 # 文件:星弾奏結界_天空航進曲_March_over_sky封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0b\ns6%3A%E6%98%9F%E5%BC%BE%E5%A5%8F%E7%B5%90%E7%95%8C_%E5%A4%A9%E7%A9%BA%E8%88%AA%E9%80%B2%E6%9B%B2_March_over_sky%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0b\ns6%3A%E6%98%9F%E5%BC%BE%E5%A5%8F%E7%B5%90%E7%95%8C_%E5%A4%A9%E7%A9%BA%E8%88%AA%E9%80%B2%E6%9B%B2_March_over_sky%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 dBu_music | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ dBu_music | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [星弾奏結界 天空航進曲 March over sky](./星弾奏結界_天空航進曲_March_over_sky.md)  
-该封面包含的角色：- [娜兹玲](./娜兹玲.md)- [寅丸星](./寅丸星.md)
-
-
-
+- [星弾奏結界 天空航進曲 March over sky](./星弾奏結界_天空航進曲_March_over_sky.md)该封面包含的角色：
+- [娜兹玲](./娜兹玲.md)
+- [寅丸星](./寅丸星.md)
 
 
 ---

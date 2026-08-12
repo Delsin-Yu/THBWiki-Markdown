@@ -1,6 +1,6 @@
 # 文件:Re：End_of_a_Dream_-東方妖々夢編-封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f6\ns6%3ARe%EF%BC%9AEnd_of_a_Dream_-%E6%9D%B1%E6%96%B9%E5%A6%96%E3%80%85%E5%A4%A2%E7%B7%A8-%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f6\ns6%3ARe%EF%BC%9AEnd_of_a_Dream_-%E6%9D%B1%E6%96%B9%E5%A6%96%E3%80%85%E5%A4%A2%E7%B7%A8-%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Astral_Sky | 专辑封面 | 封面图片 | 非可逆リズム
 
@@ -8,11 +8,17 @@ Astral_Sky | 专辑封面 | 封面图片 | 非可逆リズム
 使用了本文件作封面图片的作品：
   
 
-- [Re：End of a Dream -東方妖々夢編-](./Re：End_of_a_Dream_-東方妖々夢編-.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)- [蕾蒂·霍瓦特洛克](./蕾蒂·霍瓦特洛克.md)- [橙](./橙.md)- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [露娜萨·普莉兹姆利巴](./露娜萨·普莉兹姆利巴.md)- [梅露兰·普莉兹姆利巴](./梅露兰·普莉兹姆利巴.md)- [莉莉卡·普莉兹姆利巴](./莉莉卡·普莉兹姆利巴.md)- [西行寺幽幽子](./西行寺幽幽子.md)- [八云蓝](./八云蓝.md)- [八云紫](./八云紫.md)
-
-
-
+- [Re：End of a Dream -東方妖々夢編-](./Re：End_of_a_Dream_-東方妖々夢編-.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
+- [蕾蒂·霍瓦特洛克](./蕾蒂·霍瓦特洛克.md)
+- [橙](./橙.md)
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [露娜萨·普莉兹姆利巴](./露娜萨·普莉兹姆利巴.md)
+- [梅露兰·普莉兹姆利巴](./梅露兰·普莉兹姆利巴.md)
+- [莉莉卡·普莉兹姆利巴](./莉莉卡·普莉兹姆利巴.md)
+- [西行寺幽幽子](./西行寺幽幽子.md)
+- [八云蓝](./八云蓝.md)
+- [八云紫](./八云紫.md)
 
 
 ---

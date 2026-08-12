@@ -1,6 +1,6 @@
 # 文件:わくわくブレイブリーKO4封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d2\ns6%3A%E3%82%8F%E3%81%8F%E3%82%8F%E3%81%8F%E3%83%96%E3%83%AC%E3%82%A4%E3%83%96%E3%83%AA%E3%83%BCKO4%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d2\ns6%3A%E3%82%8F%E3%81%8F%E3%82%8F%E3%81%8F%E3%83%96%E3%83%AC%E3%82%A4%E3%83%96%E3%83%AA%E3%83%BCKO4%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 七輪大社 | 同人志封面 | 封面图片
 
@@ -8,11 +8,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [わくわくブレイブリーKO4](./わくわくブレイブリーKO4.md)  
-该封面包含的角色：- [古明地恋](./古明地恋.md)- [多多良小伞](./多多良小伞.md)- [秦心](./秦心.md)
-
-
-
+- [わくわくブレイブリーKO4](./わくわくブレイブリーKO4.md)该封面包含的角色：
+- [古明地恋](./古明地恋.md)
+- [多多良小伞](./多多良小伞.md)
+- [秦心](./秦心.md)
 
 
 ---

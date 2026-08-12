@@ -1,6 +1,6 @@
 # 文件:re：start_e.p.封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6e\ns6%3Are%EF%BC%9Astart_e%2Ep%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6e\ns6%3Are%EF%BC%9Astart_e%2Ep%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 ついったー東方部 | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@
   
 
 - [re：start e.p.](./re：start_e.p..md)
-
-
-
 
 
 ---

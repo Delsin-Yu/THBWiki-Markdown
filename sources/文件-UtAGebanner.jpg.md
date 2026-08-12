@@ -1,16 +1,11 @@
 # 文件:UtAGebanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a2\ns6%3AUtAGebanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a2\ns6%3AUtAGebanner%2Ejpg.html -->
 
 UtAGe | 社团LOGO
 
   
-源地址：[[1]](http://utagemusic.net/img/utage_banner01.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://utagemusic.net/img/utage_banner01.jpg)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:YUKARI（同人志）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\23\ns6%3AYUKARI%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\23\ns6%3AYUKARI%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 よいどれマンボウ | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [YUKARI（同人志）](./YUKARI（同人志）.md)  
-该封面包含的角色：- [八云紫](./八云紫.md)
+- [YUKARI（同人志）](./YUKARI（同人志）.md)该封面包含的角色：
+- [八云紫](./八云紫.md)
 
   
-源地址：[direct image link (original size)](https://melonbooks.akamaized.net/upload/save_image/212001419614.jpg), [source page (Melonbooks ID: 2153837)](https://www.melonbooks.co.jp/detail/detail.php?product_id=2153837)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://melonbooks.akamaized.net/upload/save_image/212001419614.jpg), [source page (Melonbooks ID: 2153837)](https://www.melonbooks.co.jp/detail/detail.php?product_id=2153837)  
 
 ---
 

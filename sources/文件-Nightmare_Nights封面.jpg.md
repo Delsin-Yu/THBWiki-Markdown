@@ -1,6 +1,6 @@
 # 文件:Nightmare_Nights封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\48\ns6%3ANightmare_Nights%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\48\ns6%3ANightmare_Nights%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 El_Dorado | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ El_Dorado | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Nightmare Nights](./Nightmare_Nights.md)  
-该封面包含的角色：- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
-
-
-
+- [Nightmare Nights](./Nightmare_Nights.md)该封面包含的角色：
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
 
 
 ---

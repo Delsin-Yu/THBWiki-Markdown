@@ -1,6 +1,6 @@
 # 文件:東方巫行跡_～_Nightmare_of_Sleeping_Girl.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1a\ns6%3A%E6%9D%B1%E6%96%B9%E5%B7%AB%E8%A1%8C%E8%B7%A1_%EF%BD%9E_Nightmare_of_Sleeping_Girl%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1a\ns6%3A%E6%9D%B1%E6%96%B9%E5%B7%AB%E8%A1%8C%E8%B7%A1_%EF%BD%9E_Nightmare_of_Sleeping_Girl%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 かも | 封面图片 | 软件封面
 
@@ -10,16 +10,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方巫行跡 ～ Nightmare of Sleeping Girl.](./東方巫行跡_～_Nightmare_of_Sleeping_Girl..md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [雾雨魔理沙](./雾雨魔理沙.md)
+- [東方巫行跡 ～ Nightmare of Sleeping Girl.](./東方巫行跡_～_Nightmare_of_Sleeping_Girl..md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-源地址：[direct image link](http://kamo.mods.jp/toho_fugyouseki/img/package.jpg), [source page](http://kamo.mods.jp/toho_fugyouseki/)
-  
-
-
-
-
+源地址：[direct image link](http://kamo.mods.jp/toho_fugyouseki/img/package.jpg), [source page](http://kamo.mods.jp/toho_fugyouseki/)  
 
 ---
 

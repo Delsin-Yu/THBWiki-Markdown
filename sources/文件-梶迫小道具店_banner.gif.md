@@ -1,12 +1,8 @@
 # 文件:梶迫小道具店_banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\34\ns6%3A%E6%A2%B6%E8%BF%AB%E5%B0%8F%E9%81%93%E5%85%B7%E5%BA%97_banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\34\ns6%3A%E6%A2%B6%E8%BF%AB%E5%B0%8F%E9%81%93%E5%85%B7%E5%BA%97_banner%2Egif.html -->
 
 梶迫小道具店 | 社团LOGO
-
-
-
-
 
 
 ---

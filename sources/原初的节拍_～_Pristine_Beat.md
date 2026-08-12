@@ -1,34 +1,26 @@
 # 原初的节拍_～_Pristine_Beat
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\8\87\ns0%3A%E5%8E%9F%E5%88%9D%E7%9A%84%E8%8A%82%E6%8B%8D_%EF%BD%9E_Pristine_Beat.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\8\87\ns0%3A%E5%8E%9F%E5%88%9D%E7%9A%84%E8%8A%82%E6%8B%8D_%EF%BD%9E_Pristine_Beat.html -->
 
 由 ZUN 创作的官方曲目，原名 始原のビート　～ Pristine Beat
 
 本页是关于东方Project  
- **原作音乐** 的词条
-
+**原作音乐**的词条
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 出现作品](#出现作品)
 - [3 音乐文件](#音乐文件)
-
   - [3.1 东方辉针城](#东方辉针城)
 
 
-
 - [4 说明文本](#说明文本)
-
   - [4.1 东方辉针城](#东方辉针城_2)
 
 
-
 - [5 其他资料](#其他资料)
-
   - [5.1 乐理资讯](#乐理资讯)
-
     - [5.1.1 使用乐器](#使用乐器)
-
 
 
   - [5.2 分析考据](#分析考据)
@@ -37,22 +29,16 @@
 
 
 
-
-
-
-
 ## 基本信息
 
-<table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">始原のビート　～ Pristine Beat</td></tr><tr><td><b>译名</b></td><td>原初的节拍 ～ Pristine Beat</td></tr><tr><td><b>英文译名</b></td><td>Primordial Beat ~ Pristine Beat</td></tr><tr><td><b>其他译名</b></td><td>原始的节奏　～ Pristine Beat<br>原始节奏　～ Pristine Beat<br>原始的节拍　～ Pristine Beat</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>关联</td></tr><tr><td style="padding-left:15px"><b>相关曲</b></td><td><a href="./魔力の雷雲.md" class="mw-redirect" title="魔力の雷雲">魔力の雷雲</a></td></tr><tr><td style="padding-left:15px"><b>　来源</b></td><td>东方辉针城　～ Double Dealing Character.</td></tr></tbody></table>
+<table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">始原のビート　～ Pristine Beat</td></tr><tr><td><b>译名</b></td><td>原初的节拍 ～ Pristine Beat</td></tr><tr><td><b>英文译名</b></td><td>Primordial Beat ~ Pristine Beat</td></tr><tr><td><b>其他译名</b></td><td>原始的节奏　～ Pristine Beat<br>原始节奏　～ Pristine Beat<br>原始的节拍　～ Pristine Beat</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>关联</td></tr><tr><td style="padding-left:15px"><b>相关曲</b></td><td><a href="./魔力的雷云.md" class="mw-redirect" title="魔力の雷雲">魔力の雷雲</a></td></tr><tr><td style="padding-left:15px"><b>　来源</b></td><td>东方辉针城　～ Double Dealing Character.</td></tr></tbody></table>
 
 原初的节拍 ～ Pristine Beat（曲目） - 由 ZUN 创作的官方曲目，原名 始原のビート　～ Pristine Beat
-
 ## 出现作品
 
 <table>
 <tbody><tr><td>2013年8月12日（Comic Market 84）</td><td><b><a href="./东方辉针城.md" title="东方辉针城">东方辉针城</a>正式版</b></td><td>Extra面BOSS<a href="./堀川雷鼓.md" title="堀川雷鼓">堀川雷鼓</a>的主题曲</td><td style="padding-left:5px;">始原のビート　～ Pristine Beat（原初的节拍 ～ Pristine Beat）</td><td style="padding-left:10px;">作曲：ZUN</td></tr>
 </tbody></table>
-
 
 
 ## 音乐文件
@@ -67,11 +53,11 @@
 </td></tr></tbody></table>
 
 
-
 ## 说明文本
 
 ### 东方辉针城
-- Music Room (未找到链接)
+
+- [Music Room](./东方辉针城-Music.md#Extra面BOSS堀川雷鼓角色曲)
 
 堀川 雷鼓的主题曲。  
 本来想过要不要做成以西洋鼓为主的曲子，但  
@@ -79,12 +65,12 @@
 间奏的时候西洋鼓会稍微成为一会儿主角。  
 顺便从靴子的构造上来看，她一定会灵活地运用双脚  
 来踩大鼓吧。
-
 ## 其他资料
 
 ### 乐理资讯
 
 #### 使用乐器
+
 - SD-90 St.Slow Str
 - SD-90 Romantic Tp
 - SD-90 Shaku.vib
@@ -100,20 +86,24 @@
 
 ### 分析考据
   
- **始原のビート　～ Pristine Beat**  原初的节拍　～ Pristine Beat
+**始原のビート ～ Pristine Beat** 原初的节拍　～ Pristine Beat
   
 
-- ビート（Beat）
+- ビート（Beat） 
   - 敲击、节拍、鼓点。
 
-- Pristine Beat
-  - 原始的节拍、原始的鼓点，与「始原のビート」同意。
-    - 联系[堀川雷鼓](./堀川雷鼓.md)的符卡[「Pristine Beat」](./「Pristine_Beat」.md)。
+
+- Pristine Beat 
+  - 原始的节拍、原始的鼓点，与「始原のビート」同意。 
+    - 联系[堀川雷鼓](./堀川雷鼓.md)的符卡[「Pristine Beat」](./Pristine_Beat.md)。
     - 可能意指节奏是音乐的基础，通过敲击打出节奏是最原始的音乐？
 
-  - 可能联系了1981年成立的「鼓童」乐团？
+
+  - 可能联系了1981年成立的「鼓童」乐团？ 
     - 「鼓童」（こどう，Kodo）这一名称据说带有「心脏跳动的声音」这一含义。
-    - 秘封俱乐部异界摄影记录 (未找到链接)：
+    - [秘封俱乐部异界摄影记录](./The_Grimoire_of_Usami-堀川雷鼓.md#「Pristine_beat」)：
+
+
 
 
 
@@ -134,7 +124,6 @@
 </td></tr></tbody></table>
 
 
-
 ### 二次同人数据
 
 <table><tbody><tr><th colspan="2">统计</th></tr>
@@ -147,17 +136,6 @@
 <tr><td>Arrange</td><td>257</td></tr>
 <tr><td>Vocal率</td><td>37.32%</td></tr>
 </tbody></table>
-
-
-
-
-  
-  
-
-  
-
-
-
 
 
 ---

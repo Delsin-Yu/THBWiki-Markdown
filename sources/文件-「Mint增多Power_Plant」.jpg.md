@@ -1,12 +1,8 @@
 # 文件:「Mint增多Power_Plant」.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\58\ns6%3A%E3%80%8CMint%E5%A2%9E%E5%A4%9APower_Plant%E3%80%8D%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\58\ns6%3A%E3%80%8CMint%E5%A2%9E%E5%A4%9APower_Plant%E3%80%8D%2Ejpg.html -->
 
 東方邪星章製作チーム
-
-
-
-
 
 
 ---

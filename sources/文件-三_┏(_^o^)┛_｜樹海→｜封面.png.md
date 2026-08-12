@@ -1,6 +1,6 @@
 # 文件:三_┏(_^o^)┛_｜樹海→｜封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f2\ns6%3A%E4%B8%89_%E2%94%8F%28_%5Eo%5E%29%E2%94%9B_%EF%BD%9C%E6%A8%B9%E6%B5%B7%E2%86%92%EF%BD%9C%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f2\ns6%3A%E4%B8%89_%E2%94%8F%28_%5Eo%5E%29%E2%94%9B_%EF%BD%9C%E6%A8%B9%E6%B5%B7%E2%86%92%EF%BD%9C%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 As／Hi_Soundworks | 专辑封面 | 封面图片
 
@@ -8,16 +8,12 @@ As／Hi_Soundworks | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [三 ┏( ^o^)┛ ｜樹海→｜](./三_┏(_^o^)┛_｜樹海→｜.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
+- [三 ┏( ^o^)┛ ｜樹海→｜](./三_┏(_^o^%29┛_｜樹海→｜.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
   
-源地址：[[1]](http://static.tumblr.com/44e39062eb2c64e0f1bdb30be4276258/ceutwp6/Bo7njtpwu/tumblr_static_d7q1r8w57nwoc0gg0sgsc4skw.png)
-  
-
-
-
-
+源地址：[\[1\]](http://static.tumblr.com/44e39062eb2c64e0f1bdb30be4276258/ceutwp6/Bo7njtpwu/tumblr_static_d7q1r8w57nwoc0gg0sgsc4skw.png)  
 
 ---
 

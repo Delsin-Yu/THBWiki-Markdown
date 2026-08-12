@@ -1,6 +1,6 @@
 # 文件:Eternal_Spring_Nightmare_EP封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\96\ns6%3AEternal_Spring_Nightmare_EP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\96\ns6%3AEternal_Spring_Nightmare_EP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Matutinum_Miserabilis | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Matutinum_Miserabilis | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Eternal Spring Nightmare EP](./Eternal_Spring_Nightmare_EP.md)  
-该封面包含的角色：- [哆来咪·苏伊特](./哆来咪·苏伊特.md)
+- [Eternal Spring Nightmare EP](./Eternal_Spring_Nightmare_EP.md)该封面包含的角色：
+- [哆来咪·苏伊特](./哆来咪·苏伊特.md)
 
   
-源地址：[[1]](https://f4.bcbits.com/img/a1120612945_10.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://f4.bcbits.com/img/a1120612945_10.jpg)  
 
 ---
 

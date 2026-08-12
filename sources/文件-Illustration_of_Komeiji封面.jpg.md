@@ -1,6 +1,6 @@
 # 文件:Illustration_of_Komeiji封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d6\ns6%3AIllustration_of_Komeiji%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d6\ns6%3AIllustration_of_Komeiji%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ラパパメリカ | 同人志封面 | 封面图片
 
@@ -10,15 +10,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [Illustration of Komeiji](./Illustration_of_Komeiji.md)  
-该封面包含的角色：- [古明地恋](./古明地恋.md)
+- [Illustration of Komeiji](./Illustration_of_Komeiji.md)该封面包含的角色：
+- [古明地恋](./古明地恋.md)
 
 : 封面原图
 
 - [Twitter](https://twitter.com/rapameri/status/1525132919911481345)
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:幽幻天仪盘~meteors_of_triple_dimension_-幻之源-封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5c\ns6%3A%E5%B9%BD%E5%B9%BB%E5%A4%A9%E4%BB%AA%E7%9B%98%7Emeteors_of_triple_dimension_-%E5%B9%BB%E4%B9%8B%E6%BA%90-%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5c\ns6%3A%E5%B9%BD%E5%B9%BB%E5%A4%A9%E4%BB%AA%E7%9B%98%7Emeteors_of_triple_dimension_-%E5%B9%BB%E4%B9%8B%E6%BA%90-%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 封面图片 | 永动之龛 | 视频封面
 
@@ -8,11 +8,19 @@
 使用了本文件作封面图片的作品：
   
 
-- [幽幻天仪盘~meteors of triple dimension -幻之源-](./幽幻天仪盘~meteors_of_triple_dimension_-幻之源-.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [魅魔](./魅魔.md)- [冈崎梦美](./冈崎梦美.md)- [本居小铃](./本居小铃.md)- [稗田阿求](./稗田阿求.md)- [雾雨魔理沙（旧作角色）](./雾雨魔理沙（旧作角色）.md)- [小兔姬](./小兔姬.md)- [卡娜·安娜贝拉尔](./卡娜·安娜贝拉尔.md)- [神绮](./神绮.md)- [幽香](./幽香.md)- [宇佐见堇子](./宇佐见堇子.md)- [哆来咪·苏伊特](./哆来咪·苏伊特.md)
-
-
-
+- [幽幻天仪盘~meteors of triple dimension -幻之源-](./幽幻天仪盘~meteors_of_triple_dimension_-幻之源-.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [魅魔](./魅魔.md)
+- [冈崎梦美](./冈崎梦美.md)
+- [本居小铃](./本居小铃.md)
+- [稗田阿求](./稗田阿求.md)
+- [雾雨魔理沙（旧作角色）](./雾雨魔理沙（旧作角色）.md)
+- [小兔姬](./小兔姬.md)
+- [卡娜·安娜贝拉尔](./卡娜·安娜贝拉尔.md)
+- [神绮](./神绮.md)
+- [幽香](./幽香.md)
+- [宇佐见堇子](./宇佐见堇子.md)
+- [哆来咪·苏伊特](./哆来咪·苏伊特.md)
 
 
 ---

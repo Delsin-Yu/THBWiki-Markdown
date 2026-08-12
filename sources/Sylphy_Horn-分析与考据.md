@@ -1,6 +1,6 @@
 # Sylphy_Horn/分析与考据
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\7\7c\ns0%3ASylphy_Horn%2F%E5%88%86%E6%9E%90%E4%B8%8E%E8%80%83%E6%8D%AE.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\7\7c\ns0%3ASylphy_Horn%2F%E5%88%86%E6%9E%90%E4%B8%8E%E8%80%83%E6%8D%AE.html -->
 
 帕秋莉·诺蕾姬 | 符卡
 
@@ -8,10 +8,8 @@
 ## 目录
 
 - [1 考据与分析](#考据与分析)
-
   - [1.1 木符「シルフィホルン」](#木符「シルフィホルン」)
   - [1.2 木符「シルフィホルン上級」](#木符「シルフィホルン上級」)
-
 
 
 - [2 注释](#注释)
@@ -19,74 +17,72 @@
 - [4 导航](#导航)
 
 
-
-
-
 ## 考据与分析
 
 ### 木符「シルフィホルン」
   
- **木符「シルフィホルン」**   木符「Sylphy Horn」（风灵的角笛）
+**木符「シルフィホルン」**  木符「Sylphy Horn」（风灵的角笛）
   
 
-- 木
+- 木 
   - 五行中的木行。
+
 
 - シルフィ
   - 根据读音，可能指“sylphe”“sylphy”或“sylphae”。
-  - sylphe
+  - sylphe 
     - 西尔芙[^cite_note-1]，欧洲传说中代表风或空气的精灵。在英语中更常被写作“sylph”。
     - 该词是16世纪瑞士炼金术士帕拉塞尔苏斯（Paracelsus）创造的，可能是拉丁语“sylvestris”（森林的）+“nympha”(妖精）而来[^cite_note-2]。
-    - 在帕拉塞尔苏斯提出的元素理论中，西尔芙是代表“风/气”的元素精灵。
-      - 18世纪英国诗人亚历山大·蒲柏（Alexander Pope）在作品《秀发劫》（英语： *The Rape of the Lock* ）中对当时盛行的炼金术进行了讽刺，将西尔芙演绎成脾气暴躁的虚荣女子死后形成的精怪。
+    - 在帕拉塞尔苏斯提出的元素理论中，西尔芙是代表“风/气”的元素精灵。 
+      - 18世纪英国诗人亚历山大·蒲柏（Alexander Pope）在作品《秀发劫》（英语：*The Rape of the Lock*）中对当时盛行的炼金术进行了讽刺，将西尔芙演绎成脾气暴躁的虚荣女子死后形成的精怪。
       - 心中充满愤怒和虚荣心的女人在死后会转变为西尔芙，其原因乃是由于他们的灵魂有太多的黑暗、忧郁而不能抵达天堂。
+
 
     - 现在“西尔芙”一词在英语中已可指空气的次要精灵、元素精灵或小仙子，在奇幻作品中也有登场。还能用于指代身材窈窕的女性。
 
-  - sylphy
+
+  - sylphy 
     - “sylph”的形容词。意为：西尔芙的；西尔芙一般的；窈窕婀娜的[^cite_note-3]。
 
-  - sylphae
+
+  - sylphae 
     - 可以理解为拉丁语“sylphe”的复数形式。
     - 拉丁语中，许多从希腊语来的、结尾为“-a”的词汇的复数形式是以“-ae”结尾，比如前面提到的“nympha”(妖精）的复数就是“nymphae”。
     - 不过拉丁语中“sylphe”不以“-a”结尾，其复数是“sylphes”[^cite_note-4]。
 
 
-- ホルン（horn）
-  - 英语：号角，角笛。
+
+
+- ホルン（horn） 
+  - 英语：号角，角笛。 
     - 本义是兽角，后来引申为用牛科动物的洞角制成的吹奏乐器。
     - 泛指喇叭或喇叭状的事物，即一端细长、一端宽大，可以提高音量。
     - 在音乐专业术语中，特指圆号，同时也是铜管乐器的通称。
+
 
   - 中国五声音阶中的“角”，对应五行中的“木”。
 
 
 
+
 ### 木符「シルフィホルン上級」
   
- **木符「シルフィホルン上級」**   木符「Sylphy Horn上级」（风灵的角笛 上级）
+**木符「シルフィホルン上級」**  木符「Sylphy Horn上级」（风灵的角笛 上级）
   
 
-- <ruby lang="ja"><rb>上級</rb><rp> (</rp><rt>じょうきゅう</rt><rp>) </rp></ruby>
-（上级）
+- <ruby lang="ja"><rb>上級</rb><rp> (</rp><rt>じょうきゅう</rt><rp>) </rp></ruby>（上级） 
   - 上位符卡，难度更高的符卡。
 
 
 
 [^cite_note-1]: 中文维基百科：[西尔芙](https://en.wikipedia.org/wiki/zh:西尔芙)
-
+[^cite_note-2]: 英文维基词典：[sylph](http://ja.wiktionary.org/wiki/en:sylph)
+[^cite_note-3]: 英文维基词典：[sylphy](http://ja.wiktionary.org/wiki/en:sylphy)
+[^cite_note-4]: 英文维基词典：[sylphes#Latin](http://ja.wiktionary.org/wiki/en:sylphes#Latin)
 
 ## 参见
+
 - [帕秋莉·诺蕾姬/分析考据](./帕秋莉·诺蕾姬-分析考据.md)
-
-
-## 导航
-
-<table><tbody><tr><td><table cellspacing="0" class="nowraplinks mw-collapsible mw-collapsed" style="width:100%;;;"><tbody><tr><th style=";" colspan="3" class="navbox-title"><div class="navbar"><div class="noprint plainlinksneverexpand" style="background-color:transparent; padding:0; font-weight:normal; font-size:80%; white-space:nowrap;"><a href="./模板-帕秋莉符卡导航.md" title="模板:帕秋莉符卡导航"><span style=";;border:none;" title="查看这个模板">查</span></a>&#160;<span style="font-size:80%;">•</span>&#160;<a href="/index.php?title=%E6%A8%A1%E6%9D%BF:%E5%B8%95%E7%A7%8B%E8%8E%89%E7%AC%A6%E5%8D%A1%E5%AF%BC%E8%88%AA&amp;action=edit"><span style=";;border:none;" title="您可以编辑这个模板。请在储存变更之前先预览">编</span></a></div></div><span><a href="./帕秋莉·诺蕾姬.md" title="帕秋莉·诺蕾姬">帕秋莉·诺蕾姬</a>符卡</span></th></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">射击游戏</td><td style=";;" class="navbox-list navbox-odd"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div><a href="./东方红魔乡.md" title="东方红魔乡">东方红魔乡</a></div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./火符「Agni_Shine」.md" class="mw-redirect" title="火符「Agni Shine」">火符「Agni Shine」</a> &#8226; <a href="./水符「Princess_Undine」.md" class="mw-redirect" title="水符「Princess Undine」">水符「Princess Undine」</a> &#8226; <a href="./木符「Sylphy_Horn」.md" class="mw-redirect" title="木符「Sylphy Horn」">木符「Sylphy Horn」</a> &#8226; <a href="./土符「Lazy_Trilithon」.md" class="mw-redirect" title="土符「Lazy Trilithon」">土符「Lazy Trilithon」</a> &#8226; <a href="./金符「Metal_Fatigue」.md" class="mw-redirect" title="金符「Metal Fatigue」">金符「Metal Fatigue」</a> &#8226; <a href="./火符「Agni_Shine上级」.md" class="mw-redirect" title="火符「Agni Shine上级」">火符「Agni Shine上级」</a> &#8226; <a href="./木符「Sylphy_Horn上级」.md" class="mw-redirect" title="木符「Sylphy Horn上级」">木符「Sylphy Horn上级」</a> &#8226; <a href="./土符「Lazy_Trilithon上级」.md" class="mw-redirect" title="土符「Lazy Trilithon上级」">土符「Lazy Trilithon上级」</a> &#8226; <a href="./火符「Agni_Radiance」.md" class="mw-redirect" title="火符「Agni Radiance」">火符「Agni Radiance」</a> &#8226; <a href="./水符「Bury_in_Lake」.md" class="mw-redirect" title="水符「Bury in Lake」">水符「Bury in Lake」</a> &#8226; <a href="./木符「Green_Storm」.md" class="mw-redirect" title="木符「Green Storm」">木符「Green Storm」</a> &#8226; <a href="./土符「Trilithon_Shake」.md" class="mw-redirect" title="土符「Trilithon Shake」">土符「Trilithon Shake」</a> &#8226; <a href="./金符「Silver_Dragon」.md" class="mw-redirect" title="金符「Silver Dragon」">金符「Silver Dragon」</a> &#8226; <a href="./火&土符「Lava_Cromlech」.md" class="mw-redirect" title="火&amp;土符「Lava Cromlech」">火&amp;土符「Lava Cromlech」</a> &#8226; <a href="./木&火符「Forest_Blaze」.md" class="mw-redirect" title="木&amp;火符「Forest Blaze」">木&amp;火符「Forest Blaze」</a> &#8226; <a href="./水&木符「Water_Elf」.md" class="mw-redirect" title="水&amp;木符「Water Elf」">水&amp;木符「Water Elf」</a> &#8226; <a href="./金&水符「Mercury_Poison」.md" class="mw-redirect" title="金&amp;水符「Mercury Poison」">金&amp;水符「Mercury Poison」</a> &#8226; <a href="./土&金符「Emerald_Megalith」.md" class="mw-redirect" title="土&amp;金符「Emerald Megalith」">土&amp;金符「Emerald Megalith」</a> &#8226; <a href="./月符「Silent_Selene」.md" class="mw-redirect" title="月符「Silent Selene」">月符「Silent Selene」</a> &#8226; <a href="./日符「Royal_Flare」.md" class="mw-redirect" title="日符「Royal Flare」">日符「Royal Flare」</a> &#8226; <a href="./火水木金土符「贤者之石」.md" class="mw-redirect" title="火水木金土符「贤者之石」">火水木金土符「贤者之石」</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div><a href="./东方文花帖.md" title="东方文花帖">东方文花帖</a></div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./日&水符「Hydrogenous_Prominence」.md" class="mw-redirect" title="日&amp;水符「Hydrogenous Prominence」">日&amp;水符「Hydrogenous Prominence」</a> &#8226; <a href="./水&火符「Phlogistic_Rain」.md" class="mw-redirect" title="水&amp;火符「Phlogistic Rain」">水&amp;火符「Phlogistic Rain」</a> &#8226; <a href="./月&木符「Satellite_Himawari」.md" class="mw-redirect" title="月&amp;木符「Satellite Himawari」">月&amp;木符「Satellite Himawari」</a> &#8226; <a href="./日&月符「Royal_Diamond_Ring」.md" class="mw-redirect" title="日&amp;月符「Royal Diamond Ring」">日&amp;月符「Royal Diamond Ring」</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div><a href="./东方地灵殿.md" title="东方地灵殿">东方地灵殿</a></div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./「Five_Season」.md" class="mw-redirect" title="「Five Season」">「Five Season」</a></div></td></tr></tbody></table><div></div></td><td class="navbox-image" style="" rowspan="7"><a href="./文件-帕秋莉（Q版立绘）.png.md" class="image"><img alt="帕秋莉（Q版立绘）.png" src="https://upload.thwiki.cc/thumb/9/91/%E5%B8%95%E7%A7%8B%E8%8E%89%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png/160px-%E5%B8%95%E7%A7%8B%E8%8E%89%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="160" height="160" srcset="https://upload.thwiki.cc/thumb/9/91/%E5%B8%95%E7%A7%8B%E8%8E%89%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png/240px-%E5%B8%95%E7%A7%8B%E8%8E%89%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/9/91/%E5%B8%95%E7%A7%8B%E8%8E%89%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png/320px-%E5%B8%95%E7%A7%8B%E8%8E%89%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="500" data-file-height="500"></a></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">格斗游戏</td><td style=";;" class="navbox-list navbox-even"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div><a href="./东方萃梦想.md" title="东方萃梦想">东方萃梦想</a></div></td><td style=";;" class="navbox-list navbox-odd"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>对战符卡</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./火金符「St._Elmo_Pillar」.md" class="mw-redirect" title="火金符「St. Elmo Pillar」">火金符「St. Elmo Pillar」</a> &#8226; <a href="./土水符「Noachian_Deluge」.md" class="mw-redirect" title="土水符「Noachian Deluge」">土水符「Noachian Deluge」</a> &#8226; <a href="./金木符「Elemental_Harvester」.md" class="mw-redirect" title="金木符「Elemental Harvester」">金木符「Elemental Harvester」</a> &#8226; <a href="./日符「Royal_Flare」.md" class="mw-redirect" title="日符「Royal Flare」">日符「Royal Flare」</a> &#8226; <a href="./月符「Silent_Selene」.md" class="mw-redirect" title="月符「Silent Selene」">月符「Silent Selene」</a> &#8226; <a href="./火水木金土符「贤者之石」.md" class="mw-redirect" title="火水木金土符「贤者之石」">火水木金土符「贤者之石」</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>故事符卡</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./符之一「St._Elmo_Explosion」.md" class="mw-redirect" title="符之一「St. Elmo Explosion」">符之一「St. Elmo Explosion」</a> &#8226; <a href="./符之二「Deluge_Forty_Day」.md" class="mw-redirect" title="符之二「Deluge Forty Day」">符之二「Deluge Forty Day」</a> &#8226; <a href="./金土符「Ginger_Gust」.md" class="mw-redirect" title="金土符「Ginger Gust」">金土符「Ginger Gust」</a></div></td></tr></tbody></table><div></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div><a href="./东方绯想天.md" title="东方绯想天">东方绯想天</a></div></td><td style=";;" class="navbox-list navbox-even"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>对战符卡</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./火金符「St._Elmo_Pillar」.md" class="mw-redirect" title="火金符「St. Elmo Pillar」">火金符「St. Elmo Pillar」</a> &#8226; <a href="./土水符「Noachian_Deluge」.md" class="mw-redirect" title="土水符「Noachian Deluge」">土水符「Noachian Deluge」</a> &#8226; <a href="./金木符「Elemental_Harvester」.md" class="mw-redirect" title="金木符「Elemental Harvester」">金木符「Elemental Harvester」</a> &#8226; <a href="./日符「Royal_Flare」.md" class="mw-redirect" title="日符「Royal Flare」">日符「Royal Flare」</a> &#8226; <a href="./月符「Silent_Selene」.md" class="mw-redirect" title="月符「Silent Selene」">月符「Silent Selene」</a> &#8226; <a href="./火水木金土符「贤者之石」.md" class="mw-redirect" title="火水木金土符「贤者之石」">火水木金土符「贤者之石」</a> &#8226; <a href="./水符「Jellyfish_Princess」.md" class="mw-redirect" title="水符「Jellyfish Princess」">水符「Jellyfish Princess」</a> &#8226; <a href="./月木符「Satellite_Himawari」.md" class="mw-redirect" title="月木符「Satellite Himawari」">月木符「Satellite Himawari」</a> &#8226; <a href="./日木符「Photosynthesis」.md" class="mw-redirect" title="日木符「Photosynthesis」">日木符「Photosynthesis」</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>故事符卡</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./火符「Akiba_Summer」.md" class="mw-redirect" title="火符「Akiba Summer」">火符「Akiba Summer」</a> &#8226; <a href="./水符「Jellyfish_Princess」.md" class="mw-redirect" title="水符「Jellyfish Princess」">水符「Jellyfish Princess」</a> &#8226; <a href="./月金符「Sunshine_Reflector」.md" class="mw-redirect" title="月金符「Sunshine Reflector」">月金符「Sunshine Reflector」</a></div></td></tr></tbody></table><div></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div><a href="./东方非想天则.md" title="东方非想天则">东方非想天则</a></div></td><td style=";;" class="navbox-list navbox-odd"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>对战符卡</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./火水符「Phlogistic_Pillar」.md" class="mw-redirect" title="火水符「Phlogistic Pillar」">火水符「Phlogistic Pillar」</a> &#8226; <a href="./土金符「Emerald_Megalopolis」.md" class="mw-redirect" title="土金符「Emerald Megalopolis」">土金符「Emerald Megalopolis」</a> &#8226; <a href="./日月符「Royal_Diamond_Ring」.md" class="mw-redirect" title="日月符「Royal Diamond Ring」">日月符「Royal Diamond Ring」</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>故事符卡</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./火符「Ring_of_Agni」.md" class="mw-redirect" title="火符「Ring of Agni」">火符「Ring of Agni」</a> &#8226; <a href="./水符「Princess_Undine」.md" class="mw-redirect" title="水符「Princess Undine」">水符「Princess Undine」</a></div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">出版物</td><td style=";;" class="navbox-list navbox-odd"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div><a href="./魔理沙的魔法书.md" class="mw-redirect" title="魔理沙的魔法书">魔理沙的魔法书</a></div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./火符「Agni_Shine」.md" class="mw-redirect" title="火符「Agni Shine」">火符「Agni Shine」</a> &#8226; <a href="./水符「Princess_Undine」.md" class="mw-redirect" title="水符「Princess Undine」">水符「Princess Undine」</a> &#8226; <a href="./木符「Sylphy_Horn」.md" class="mw-redirect" title="木符「Sylphy Horn」">木符「Sylphy Horn」</a> &#8226; <a href="./金符「Metal_Fatigue」.md" class="mw-redirect" title="金符「Metal Fatigue」">金符「Metal Fatigue」</a> &#8226; <a href="./土符「Lazy_Trilithon」.md" class="mw-redirect" title="土符「Lazy Trilithon」">土符「Lazy Trilithon」</a> &#8226; <a href="./月符「Silent_Selene」.md" class="mw-redirect" title="月符「Silent Selene」">月符「Silent Selene」</a> &#8226; <a href="./日符「Royal_Flare」.md" class="mw-redirect" title="日符「Royal Flare」">日符「Royal Flare」</a> &#8226; <a href="./火&土符「Lava_Cromlech」.md" class="mw-redirect" title="火&amp;土符「Lava Cromlech」">火&amp;土符「Lava Cromlech」</a> &#8226; <a href="./木&火符「Forest_Blaze」.md" class="mw-redirect" title="木&amp;火符「Forest Blaze」">木&amp;火符「Forest Blaze」</a> &#8226; <a href="./水&木符「Water_Elf」.md" class="mw-redirect" title="水&amp;木符「Water Elf」">水&amp;木符「Water Elf」</a> &#8226; <a href="./土&金符「Emerald_Megalith」.md" class="mw-redirect" title="土&amp;金符「Emerald Megalith」">土&amp;金符「Emerald Megalith」</a> &#8226; <a href="./月&木符「Satellite_Himawari」.md" class="mw-redirect" title="月&amp;木符「Satellite Himawari」">月&amp;木符「Satellite Himawari」</a> &#8226; <a href="./火水木金土符「贤者之石」.md" class="mw-redirect" title="火水木金土符「贤者之石」">火水木金土符「贤者之石」</a></div></td></tr></tbody></table><div></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">周边</td><td style=";;" class="navbox-list navbox-even"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div><a href="./绯想天符录_WEATHER_LIGHT.md" title="绯想天符录 WEATHER LIGHT">绯想天符录 WEATHER LIGHT</a></div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./日符「Royal_Flare」.md" class="mw-redirect" title="日符「Royal Flare」">日符「Royal Flare」</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div><a href="./绯想天符录_非想天则20形态.md" title="绯想天符录 非想天则20形态">绯想天符录 非想天则20形态</a></div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./日月符「Royal_Diamond_Ring」.md" class="mw-redirect" title="日月符「Royal Diamond Ring」">日月符「Royal Diamond Ring」</a></div></td></tr></tbody></table><div></div></td></tr></tbody></table></td></tr></tbody></table>
-
-
-
-
 
 
 ---

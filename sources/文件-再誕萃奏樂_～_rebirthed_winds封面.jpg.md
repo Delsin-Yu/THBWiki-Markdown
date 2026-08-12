@@ -1,6 +1,6 @@
 # 文件:再誕萃奏樂_～_rebirthed_winds封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\93\ns6%3A%E5%86%8D%E8%AA%95%E8%90%83%E5%A5%8F%E6%A8%82_%EF%BD%9E_rebirthed_winds%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\93\ns6%3A%E5%86%8D%E8%AA%95%E8%90%83%E5%A5%8F%E6%A8%82_%EF%BD%9E_rebirthed_winds%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 時雨月横丁
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [再誕萃奏樂 ～ rebirthed winds](./再誕萃奏樂_～_rebirthed_winds.md)  
-该封面包含的角色：- [魅魔](./魅魔.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [再誕萃奏樂 ～ rebirthed winds](./再誕萃奏樂_～_rebirthed_winds.md)该封面包含的角色：
+- [魅魔](./魅魔.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:童祭_～_for_Wedding_Off_Vocal.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ea\ns6%3A%E7%AB%A5%E7%A5%AD_%EF%BD%9E_for_Wedding_Off_Vocal%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ea\ns6%3A%E7%AB%A5%E7%A5%AD_%EF%BD%9E_for_Wedding_Off_Vocal%2Emp3.html -->
 
 童祭_～_for_Wedding
-
-
-
-
 
 
 ---

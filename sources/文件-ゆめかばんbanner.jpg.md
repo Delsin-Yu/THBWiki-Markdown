@@ -1,12 +1,8 @@
 # 文件:ゆめかばんbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\55\ns6%3A%E3%82%86%E3%82%81%E3%81%8B%E3%81%B0%E3%82%93banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\55\ns6%3A%E3%82%86%E3%82%81%E3%81%8B%E3%81%B0%E3%82%93banner%2Ejpg.html -->
 
 ゆめかばん | 社团LOGO
-
-
-
-
 
 
 ---

@@ -1,11 +1,10 @@
 # A.S.C.Y.
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\47\ns0%3AA%2ES%2EC%2EY%2E.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\47\ns0%3AA%2ES%2EC%2EY%2E.html -->
 
 A.S.C.Y. ，于 2009 年成立，主要制作 同人音乐 的日本同人社团，主催是 Kefy，当前状态为 休止
 
-本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
-
+本页是关于**[同人社团](./二次创作.md#同人社团)**的词条
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -15,44 +14,29 @@ A.S.C.Y. ，于 2009 年成立，主要制作 同人音乐 的日本同人社团
 - [5 其他信息](#其他信息)
 
 
-
-
-
 ## 社团信息
-文件:A.S.C.Y. banner.jpg (未找到链接)  Banner
-
-<table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> A.S.C.Y. </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2009</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>主催</b></td><td> <a href="./Kefy.md" class="mw-redirect" title="Kefy">Kefy</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://ascy.my-sv.net/top/">http://ascy.my-sv.net/top/</a> </td></tr></tbody></table>
+文件:A.S.C.Y. banner.jpg (未找到链接) Banner
+<table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> A.S.C.Y. </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2009</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>主催</b></td><td> <a href="./けひ.md" class="mw-redirect" title="Kefy">Kefy</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://ascy.my-sv.net/top/">http://ascy.my-sv.net/top/</a> </td></tr></tbody></table>
 
 A.S.C.Y.（同人社团，同人音乐社团） - A.S.C.Y. ，于 2009 年成立，主要制作 同人音乐 的日本同人社团，主催是 Kefy，当前状态为 休止
-
 ## 成员名单
-- [Kefy](./Kefy.md)
+
+- [Kefy](./けひ.md)
 - ぱべる (未找到链接)
 
 
 ## 作品列表
-[](./東方四季彩宴.md)[東方四季彩宴](./東方四季彩宴.md)首发日期：2009-01-12 （東方杜郷想1 (未找到链接)）全长 （一般向）[](./Auto-Focus.md)[Auto-Focus](./Auto-Focus.md)首发日期：2009-12-30 （Comic Market 77 (未找到链接)）ASCY-0001全长 （一般向）[](./EASTERN_GREEN_MILE.md)[EASTERN GREEN MILE](./EASTERN_GREEN_MILE.md)首发日期：2009-12-30 （Comic Market 77 (未找到链接)）ASCY-0002全长 （一般向）[](./Sound_in_Scape.md)[Sound in Scape](./Sound_in_Scape.md)首发日期：2010-04-29 （第二季 東方螺茶会 (未找到链接)）ABCD-0001全长 （一般向）
-<table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
-
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
-
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
-
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
-</table>
-
-
+- **[東方四季彩宴](./東方四季彩宴.md)** — 首发日期：2009-01-12 （東方杜郷想1）；全长 （一般向）
+- **[Auto-Focus](./Auto-Focus.md)** — 首发日期：2009-12-30 （Comic Market 77）；ASCY-0001；全长 （一般向）
+- **[EASTERN GREEN MILE](./EASTERN_GREEN_MILE.md)** — 首发日期：2009-12-30 （Comic Market 77）；ASCY-0002；全长 （一般向）
+- **[Sound in Scape](./Sound_in_Scape.md)** — 首发日期：2010-04-29 （第二季 東方螺茶会）；ABCD-0001；全长 （一般向）
 
 ## 参展信息
 
-<table><tbody><tr><th class="活动页面">活动页面</th><th class="活动名称">活动名称</th><th class="日期">日期</th><th class="举办地点">举办地点</th><th class="摊位编号">摊位编号</th><th class="宣传页面">宣传页面</th><th class="备注">备注</th></tr><tr data-row-number="1" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD#7" title="博丽神社例大祭">博丽神社例大祭#7</a></span></td><td class="活动名称 smwtype_txt">第七回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2455269.5">2010-03-14</td><td class="举办地点 smwtype_txt">东京Big Sight 东23456展厅</td><td class="摊位编号 smwtype_txt">す08b</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="2" class="row-even"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD#6" title="博丽神社例大祭">博丽神社例大祭#6</a></span></td><td class="活动名称 smwtype_txt">第六回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2454898.5">2009-03-08</td><td class="举办地点 smwtype_txt">东京Big Sight 东3456展厅</td><td class="摊位编号 smwtype_txt">し04b</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr></tbody></table>
-
+<table><tbody><tr><th class="活动页面">活动页面</th><th class="活动名称">活动名称</th><th class="日期">日期</th><th class="举办地点">举办地点</th><th class="摊位编号">摊位编号</th><th class="宣传页面">宣传页面</th><th class="备注">备注</th></tr><tr data-row-number="1" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="./博丽神社例大祭.md#7" title="博丽神社例大祭">博丽神社例大祭#7</a></span></td><td class="活动名称 smwtype_txt">第七回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2455269.5">2010-03-14</td><td class="举办地点 smwtype_txt">东京Big Sight 东23456展厅</td><td class="摊位编号 smwtype_txt">す08b</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="2" class="row-even"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="./博丽神社例大祭.md#6" title="博丽神社例大祭">博丽神社例大祭#6</a></span></td><td class="活动名称 smwtype_txt">第六回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2454898.5">2009-03-08</td><td class="举办地点 smwtype_txt">东京Big Sight 东3456展厅</td><td class="摊位编号 smwtype_txt">し04b</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr></tbody></table>
 
 
 ## 其他信息
-
-
-
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:ミステリー作家Qの事件簿Ⅱ封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a5\ns6%3A%E3%83%9F%E3%82%B9%E3%83%86%E3%83%AA%E3%83%BC%E4%BD%9C%E5%AE%B6Q%E3%81%AE%E4%BA%8B%E4%BB%B6%E7%B0%BF%E2%85%A1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a5\ns6%3A%E3%83%9F%E3%82%B9%E3%83%86%E3%83%AA%E3%83%BC%E4%BD%9C%E5%AE%B6Q%E3%81%AE%E4%BA%8B%E4%BB%B6%E7%B0%BF%E2%85%A1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Parallel_Station | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@ Parallel_Station | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [ミステリー作家Qの事件簿Ⅱ](./ミステリー作家Qの事件簿Ⅱ.md)  
-该封面包含的角色：- [稗田阿求](./稗田阿求.md)
+- [ミステリー作家Qの事件簿Ⅱ](./ミステリー作家Qの事件簿Ⅱ.md)该封面包含的角色：
+- [稗田阿求](./稗田阿求.md)
 
   
-源地址：[direct image link (original uploaded image)](https://pbs.twimg.com/media/DpZkFS1UwAANSiG?format=jpg&amp;name=orig), [source tweet](https://twitter.com/tennnoumi/status/1051140737650180096)
-  
-
-
-
-
+源地址：[direct image link (original uploaded image)](https://pbs.twimg.com/media/DpZkFS1UwAANSiG?format=jpg&name=orig), [source tweet](https://twitter.com/tennnoumi/status/1051140737650180096)  
 
 ---
 

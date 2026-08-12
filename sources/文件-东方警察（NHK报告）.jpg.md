@@ -1,12 +1,8 @@
 # 文件:东方警察（NHK报告）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e1\ns6%3A%E4%B8%9C%E6%96%B9%E8%AD%A6%E5%AF%9F%EF%BC%88NHK%E6%8A%A5%E5%91%8A%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e1\ns6%3A%E4%B8%9C%E6%96%B9%E8%AD%A6%E5%AF%9F%EF%BC%88NHK%E6%8A%A5%E5%91%8A%EF%BC%89%2Ejpg.html -->
 
 东方警察
-
-
-
-
 
 
 ---

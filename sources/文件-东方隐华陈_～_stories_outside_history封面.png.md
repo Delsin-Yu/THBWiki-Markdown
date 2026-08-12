@@ -1,6 +1,6 @@
 # 文件:东方隐华陈_～_stories_outside_history封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\71\ns6%3A%E4%B8%9C%E6%96%B9%E9%9A%90%E5%8D%8E%E9%99%88_%EF%BD%9E_stories_outside_history%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\71\ns6%3A%E4%B8%9C%E6%96%B9%E9%9A%90%E5%8D%8E%E9%99%88_%EF%BD%9E_stories_outside_history%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 封面图片 | 软件封面 | 边境幻想
 
@@ -11,9 +11,6 @@
   
 
 - [东方隐华陈 ～ stories outside history](./东方隐华陈_～_stories_outside_history.md)
-
-
-
 
 
 ---

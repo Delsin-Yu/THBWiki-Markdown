@@ -1,12 +1,8 @@
 # 文件:Play,Doujin!LOGO.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8c\ns6%3APlay%2CDoujin%21LOGO%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8c\ns6%3APlay%2CDoujin%21LOGO%2Epng.html -->
 
 Play,Doujin!
-
-
-
-
 
 
 ---

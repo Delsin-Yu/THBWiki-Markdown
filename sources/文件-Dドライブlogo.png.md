@@ -1,14 +1,11 @@
 # 文件:Dドライブlogo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ad\ns6%3AD%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96logo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ad\ns6%3AD%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96logo%2Epng.html -->
 
 Dドライブ | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

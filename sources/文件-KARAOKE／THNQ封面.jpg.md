@@ -1,6 +1,6 @@
 # 文件:KARAOKE／THNQ封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9c\ns6%3AKARAOKE%EF%BC%8FTHNQ%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9c\ns6%3AKARAOKE%EF%BC%8FTHNQ%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ZYTOKINE | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ ZYTOKINE | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [KARAOKE／THNQ](./KARAOKE／THNQ.md)  
-该封面包含的角色：- [圣白莲](./圣白莲.md)
+- [KARAOKE／THNQ](./KARAOKE／THNQ.md)该封面包含的角色：
+- [圣白莲](./圣白莲.md)
 
   
-源地址：[[1]](http://ec.akbh.jp/upload/save_image/pics/2100000069552.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://ec.akbh.jp/upload/save_image/pics/2100000069552.jpg)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:days（茜音色タウン）封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d2\ns6%3Adays%EF%BC%88%E8%8C%9C%E9%9F%B3%E8%89%B2%E3%82%BF%E3%82%A6%E3%83%B3%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d2\ns6%3Adays%EF%BC%88%E8%8C%9C%E9%9F%B3%E8%89%B2%E3%82%BF%E3%82%A6%E3%83%B3%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 茜音色タウン
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [days（茜音色タウン）](./days（茜音色タウン）.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [days（茜音色タウン）](./days（茜音色タウン）.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

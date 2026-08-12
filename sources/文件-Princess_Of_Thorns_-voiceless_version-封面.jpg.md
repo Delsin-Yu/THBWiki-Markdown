@@ -1,6 +1,6 @@
 # 文件:Princess_Of_Thorns_-voiceless_version-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\51\ns6%3APrincess_Of_Thorns_-voiceless_version-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\51\ns6%3APrincess_Of_Thorns_-voiceless_version-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Aphrodite | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ Aphrodite | 专辑封面 | 封面图片
   
 
 - [Princess Of Thorns -voiceless version-](./Princess_Of_Thorns_-voiceless_version-.md)
-
-
-
 
 
 ---

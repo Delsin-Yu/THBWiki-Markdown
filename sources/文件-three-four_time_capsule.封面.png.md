@@ -1,6 +1,6 @@
 # 文件:three-four_time_capsule.封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\81\ns6%3Athree-four_time_capsule%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\81\ns6%3Athree-four_time_capsule%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Lunatic_Locus | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Lunatic_Locus | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [three-four time capsule.](./three-four_time_capsule..md)  
-该封面包含的角色：- [河城荷取](./河城荷取.md)
-
-
-
+- [three-four time capsule.](./three-four_time_capsule..md)该封面包含的角色：
+- [河城荷取](./河城荷取.md)
 
 
 ---

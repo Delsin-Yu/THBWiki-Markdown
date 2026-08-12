@@ -1,16 +1,11 @@
 # 文件:HILARISlogo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6b\ns6%3AHILARISlogo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6b\ns6%3AHILARISlogo%2Epng.html -->
 
 HILARIS | 社团LOGO
 
   
-源地址：[[1]](https://static.wixstatic.com/media/eabf55_b941bbb5762341efb814ffd375367ea9~mv2.png)
-  
-
-
-
-
+源地址：[\[1\]](https://static.wixstatic.com/media/eabf55_b941bbb5762341efb814ffd375367ea9~mv2.png)  
 
 ---
 

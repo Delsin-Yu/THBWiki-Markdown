@@ -1,6 +1,6 @@
 # 文件:GRAVITY_ABYSS封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5a\ns6%3AGRAVITY_ABYSS%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5a\ns6%3AGRAVITY_ABYSS%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 イノライ | 专辑封面 | 封面图片
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [GRAVITY ABYSS](./GRAVITY_ABYSS.md)  
-该封面包含的角色：- [宫古芳香](./宫古芳香.md)- [霍青娥](./霍青娥.md)
-
-
-
+- [GRAVITY ABYSS](./GRAVITY_ABYSS.md)该封面包含的角色：
+- [宫古芳香](./宫古芳香.md)
+- [霍青娥](./霍青娥.md)
 
 
 ---

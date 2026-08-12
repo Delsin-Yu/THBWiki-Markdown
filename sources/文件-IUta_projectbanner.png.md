@@ -1,12 +1,8 @@
 # 文件:IUta_projectbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d9\ns6%3AIUta_projectbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d9\ns6%3AIUta_projectbanner%2Epng.html -->
 
 IUta_project | 社团LOGO
-
-
-
-
 
 
 ---

@@ -1,14 +1,11 @@
 # 文件:常綠樹林banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\95\ns6%3A%E5%B8%B8%E7%B6%A0%E6%A8%B9%E6%9E%97banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\95\ns6%3A%E5%B8%B8%E7%B6%A0%E6%A8%B9%E6%9E%97banner%2Epng.html -->
 
 常綠樹林
 
 
 ## 文件说明
-
-
-
 
 ---
 

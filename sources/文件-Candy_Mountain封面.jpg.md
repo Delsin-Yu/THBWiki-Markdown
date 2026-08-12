@@ -1,6 +1,6 @@
 # 文件:Candy_Mountain封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7c\ns6%3ACandy_Mountain%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7c\ns6%3ACandy_Mountain%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Cappella | 同人志封面 | 封面图片
 
@@ -10,16 +10,12 @@ Cappella | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Candy Mountain](./Candy_Mountain.md)  
-该封面包含的角色：- [东风谷早苗](./东风谷早苗.md)- [八坂神奈子](./八坂神奈子.md)
+- [Candy Mountain](./Candy_Mountain.md)该封面包含的角色：
+- [东风谷早苗](./东风谷早苗.md)
+- [八坂神奈子](./八坂神奈子.md)
 
   
-源地址：[direct image link](http://cocoon.selfish.be/exhi/cpl002.jpg), [source page](http://cocoon.selfish.be/exhibition.htm)
-  
-
-
-
-
+源地址：[direct image link](http://cocoon.selfish.be/exhi/cpl002.jpg), [source page](http://cocoon.selfish.be/exhibition.htm)  
 
 ---
 

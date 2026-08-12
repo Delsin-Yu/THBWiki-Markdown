@@ -1,12 +1,8 @@
 # 文件:ちゆうどうbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\32\ns6%3A%E3%81%A1%E3%82%86%E3%81%86%E3%81%A9%E3%81%86banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\32\ns6%3A%E3%81%A1%E3%82%86%E3%81%86%E3%81%A9%E3%81%86banner%2Epng.html -->
 
 ちゆうどう | 社团LOGO
-
-
-
-
 
 
 ---

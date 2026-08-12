@@ -1,12 +1,8 @@
 # 文件:Under_Classifyingbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\06\ns6%3AUnder_Classifyingbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\06\ns6%3AUnder_Classifyingbanner%2Ejpg.html -->
 
 Under_Classifying | 社团LOGO
-
-
-
-
 
 
 ---

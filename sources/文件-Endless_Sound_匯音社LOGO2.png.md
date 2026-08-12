@@ -1,12 +1,8 @@
 # 文件:Endless_Sound_匯音社LOGO2.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\25\ns6%3AEndless_Sound_%E5%8C%AF%E9%9F%B3%E7%A4%BELOGO2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\25\ns6%3AEndless_Sound_%E5%8C%AF%E9%9F%B3%E7%A4%BELOGO2%2Epng.html -->
 
 Endless_Sound_匯音社 | 社团LOGO
-
-
-
-
 
 
 ---

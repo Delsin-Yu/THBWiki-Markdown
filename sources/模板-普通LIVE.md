@@ -1,16 +1,12 @@
 # 模板:普通LIVE
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\8\8a\ns10%3A%E6%99%AE%E9%80%9ALIVE.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\8\8a\ns10%3A%E6%99%AE%E9%80%9ALIVE.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

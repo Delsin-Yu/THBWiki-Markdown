@@ -1,31 +1,23 @@
 # 未开拓世界_～_Inner_Space
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\43\ns0%3A%E6%9C%AA%E5%BC%80%E6%8B%93%E4%B8%96%E7%95%8C_%EF%BD%9E_Inner_Space.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\43\ns0%3A%E6%9C%AA%E5%BC%80%E6%8B%93%E4%B8%96%E7%95%8C_%EF%BD%9E_Inner_Space.html -->
 
 由 黒羽 创作的东方风自作曲，原名 未開拓世界　～ インナースペース
 
 本页是关于东方Project  
- **东方风自作曲** 的词条
-
+**东方风自作曲**的词条
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 出现作品](#出现作品)
 - [3 音乐文件](#音乐文件)
 - [4 说明文本](#说明文本)
-
   - [4.1 东方海惠堂](#东方海惠堂)
 
 
-
 - [5 其他资料](#其他资料)
-
   - [5.1 乐理资讯](#乐理资讯)
   - [5.2 分析考据](#分析考据)
-
-
-
-
 
 
 
@@ -35,7 +27,6 @@
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">未開拓世界　～ インナースペース</td></tr><tr><td><b>译名</b></td><td>未开拓世界 ～ Inner Space</td></tr><tr><td><b>作曲</b></td><td><a href="./黑羽.md" title="黑羽" unred="">黒羽</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 未开拓世界 ～ Inner Space（曲目） - 由 黒羽 创作的东方风自作曲，原名 未開拓世界　～ インナースペース
-
 ## 出现作品
 
 <table>
@@ -44,17 +35,16 @@
 </tbody></table>
 
 
-
 ## 音乐文件
 
 ## 说明文本
 
 ### 东方海惠堂
-- Music Room (未找到链接)
+
+- [Music Room](./東方海恵堂_～_Marine_Benefit.-音乐.md#4面道中主题曲)
 
   
 4面的主题曲。  
-
   
 
 - 2009
@@ -71,15 +61,11 @@ The Unexplored﻿ World ~ Inner Space
 ＊从这里开始就是根据海中的气氛来作的了。之前大家都是随便打打，跟以前一样是散步而已，但从这里开始就是未知的世界。因为是在从前只在传说中听说过的大海之中，编曲时尽量想要透出一种紧张感。
   
 
-
 ## 其他资料
 
 ### 乐理资讯
 
 ### 分析考据
-
-
-
 
 ---
 

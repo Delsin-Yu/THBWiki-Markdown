@@ -1,6 +1,6 @@
 # 文件:Ephemerality封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\58\ns6%3AEphemerality%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\58\ns6%3AEphemerality%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Invisible_Chord | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@ Invisible_Chord | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Ephemerality](./Ephemerality.md)  
-该封面包含的角色：- 原创角色 (未找到链接)
+- [Ephemerality](./Ephemerality.md)该封面包含的角色：
+- 原创角色 (未找到链接)
 
   
-源地址：[direct image link](https://lain.bgm.tv/pic/photos/doujin/m/6e/3a/9064_r7qsj.jpg), [source page](https://doujin.bgm.tv/subject/photo/18921)
-  
-
-
-
-
+源地址：[direct image link](https://lain.bgm.tv/pic/photos/doujin/m/6e/3a/9064_r7qsj.jpg), [source page](https://doujin.bgm.tv/subject/photo/18921)  
 
 ---
 

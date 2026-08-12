@@ -1,12 +1,8 @@
 # 文件:群音绘Createbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\71\ns6%3A%E7%BE%A4%E9%9F%B3%E7%BB%98Createbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\71\ns6%3A%E7%BE%A4%E9%9F%B3%E7%BB%98Createbanner%2Ejpg.html -->
 
 社团LOGO | 群音绘Create
-
-
-
-
 
 
 ---

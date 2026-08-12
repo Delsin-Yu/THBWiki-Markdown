@@ -1,6 +1,6 @@
 # 文件:Imperishable_Night（no_subject.）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\15\ns6%3AImperishable_Night%EF%BC%88no_subject%2E%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\15\ns6%3AImperishable_Night%EF%BC%88no_subject%2E%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 no_subject. | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ no_subject. | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Imperishable Night（no subject.）](./Imperishable_Night（no_subject.）.md)  
-该封面包含的角色：- [藤原妹红](./藤原妹红.md)
-
-
-
+- [Imperishable Night（no subject.）](./Imperishable_Night（no_subject.）.md)该封面包含的角色：
+- [藤原妹红](./藤原妹红.md)
 
 
 ---

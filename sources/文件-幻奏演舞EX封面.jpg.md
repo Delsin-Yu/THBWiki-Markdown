@@ -1,6 +1,6 @@
 # 文件:幻奏演舞EX封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dc\ns6%3A%E5%B9%BB%E5%A5%8F%E6%BC%94%E8%88%9EEX%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dc\ns6%3A%E5%B9%BB%E5%A5%8F%E6%BC%94%E8%88%9EEX%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 a-TTTempo | 专辑封面 | 封面图片
 
@@ -8,11 +8,13 @@ a-TTTempo | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [幻奏演舞EX](./幻奏演舞EX.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)- [八云紫](./八云紫.md)- [风见幽香](./风见幽香.md)- [鬼人正邪](./鬼人正邪.md)
-
-
-
+- [幻奏演舞EX](./幻奏演舞EX.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [八云紫](./八云紫.md)
+- [风见幽香](./风见幽香.md)
+- [鬼人正邪](./鬼人正邪.md)
 
 
 ---

@@ -1,16 +1,12 @@
 # 模板:Comic王国
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\4\40\ns10%3AComic%E7%8E%8B%E5%9B%BD.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\4\40\ns10%3AComic%E7%8E%8B%E5%9B%BD.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

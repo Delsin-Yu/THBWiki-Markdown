@@ -1,6 +1,6 @@
 # 文件:CROSS_YOU_-_Part5：イート・クラフト・パスト・レコード封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b2\ns6%3ACROSS_YOU_-_Part5%EF%BC%9A%E3%82%A4%E3%83%BC%E3%83%88%E3%83%BB%E3%82%AF%E3%83%A9%E3%83%95%E3%83%88%E3%83%BB%E3%83%91%E3%82%B9%E3%83%88%E3%83%BB%E3%83%AC%E3%82%B3%E3%83%BC%E3%83%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b2\ns6%3ACROSS_YOU_-_Part5%EF%BC%9A%E3%82%A4%E3%83%BC%E3%83%88%E3%83%BB%E3%82%AF%E3%83%A9%E3%83%95%E3%83%88%E3%83%BB%E3%83%91%E3%82%B9%E3%83%88%E3%83%BB%E3%83%AC%E3%82%B3%E3%83%BC%E3%83%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 空騒中継点
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [CROSS YOU - Part5：イート・クラフト・パスト・レコード](./CROSS_YOU_-_Part5：イート・クラフト・パスト・レコード.md)  
-该封面包含的角色：- [风见幽香](./风见幽香.md)
+- [CROSS YOU - Part5：イート・クラフト・パスト・レコード](./CROSS_YOU_-_Part5：イート・クラフト・パスト・レコード.md)该封面包含的角色：
+- [风见幽香](./风见幽香.md)
 
   
-[From Melonbooks ID 735195 (original size)](https://melonbooks.akamaized.net/upload/save_image/213001031404.jpg). Textless version of the cover can be found at [Pixiv artwork ID: 84931332](https://www.pixiv.net/artworks/84931332)
-  
-
-
-
-
+[From Melonbooks ID 735195 (original size)](https://melonbooks.akamaized.net/upload/save_image/213001031404.jpg). Textless version of the cover can be found at [Pixiv artwork ID: 84931332](https://www.pixiv.net/artworks/84931332)  
 
 ---
 

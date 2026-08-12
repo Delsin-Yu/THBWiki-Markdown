@@ -1,6 +1,6 @@
 # 文件:Fair_Wind封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3e\ns6%3AFair_Wind%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3e\ns6%3AFair_Wind%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Midnight_Dessert | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@ Midnight_Dessert | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Fair Wind](./Fair_Wind.md)  
-该封面包含的角色：- [东风谷早苗](./东风谷早苗.md)
-
-
-
+- [Fair Wind](./Fair_Wind.md)该封面包含的角色：
+- [东风谷早苗](./东风谷早苗.md)
 
 
 ---

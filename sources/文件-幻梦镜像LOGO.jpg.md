@@ -1,14 +1,11 @@
 # 文件:幻梦镜像LOGO.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\55\ns6%3A%E5%B9%BB%E6%A2%A6%E9%95%9C%E5%83%8FLOGO%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\55\ns6%3A%E5%B9%BB%E6%A2%A6%E9%95%9C%E5%83%8FLOGO%2Ejpg.html -->
 
 幻梦镜像 | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

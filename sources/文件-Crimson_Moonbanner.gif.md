@@ -1,16 +1,11 @@
 # 文件:Crimson_Moonbanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e8\ns6%3ACrimson_Moonbanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e8\ns6%3ACrimson_Moonbanner%2Egif.html -->
 
 Crimson_Moon | 社团LOGO
 
   
-源地址: [[1]](https://web.archive.org/web/20160413070102/http://crimsonmoon.rejec.net/lib/pict/kanban/utcm-banner.gif)
-  
-
-
-
-
+源地址: [\[1\]](https://web.archive.org/web/20160413070102/http://crimsonmoon.rejec.net/lib/pict/kanban/utcm-banner.gif)  
 
 ---
 

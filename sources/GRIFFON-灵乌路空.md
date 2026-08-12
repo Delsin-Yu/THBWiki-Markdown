@@ -1,37 +1,21 @@
 # GRIFFON/灵乌路空
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\5\54\ns0%3AGRIFFON%2F%E7%81%B5%E4%B9%8C%E8%B7%AF%E7%A9%BA.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\5\54\ns0%3AGRIFFON%2F%E7%81%B5%E4%B9%8C%E8%B7%AF%E7%A9%BA.html -->
 
 灵乌路空PVCFigure手办模型
 
 本页是关于东方Project  
- **相关实体周边 (未找到链接)** 的词条
-
+**相关实体周边 (未找到链接)**的词条
 ## 模型信息
 
-<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 灵乌路空 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>无</td></tr><tr><td class="label">角色</td><td><a href="./灵乌路空.md" title="灵乌路空">灵乌路空</a></td></tr><tr><td class="label">原型师</td><td><a href="/index.php?title=%E3%81%82%E3%81%8D%E3%82%84%E3%81%BE_%E3%81%82%E3%81%8D%E3%81%8A&amp;action=edit&amp;redlink=1" class="new" title="あきやま あきお（页面不存在）">あきやま あきお</a></td></tr><tr><td class="label">比例</td><td>1/8</td></tr><tr><td class="label">尺寸</td><td>235mm</td></tr><tr><td class="label">状态</td><td>已发售</td></tr><tr><td class="label">售价</td><td>7600円</td></tr><tr><td class="label">首发日期</td><td>2011-12</td></tr><tr><td class="label">发售方</td><td><a href="/index.php?title=GRIFFON&amp;action=edit&amp;redlink=1" class="new" title="GRIFFON（页面不存在）">GRIFFON</a></td></tr><tr><td class="label">再版日期</td><td>2012-08</td></tr><tr><td class="label">官网页面</td><td><a rel="nofollow" class="external free" href="http://www.griffon.co.jp/toho/">http://www.griffon.co.jp/toho/</a></td></tr></tbody></table>
+<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 灵乌路空 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>无</td></tr><tr><td class="label">角色</td><td><a href="./灵乌路空.md" title="灵乌路空">灵乌路空</a></td></tr><tr><td class="label">原型师</td><td><a class="new" title="あきやま あきお（页面不存在）">あきやま あきお</a></td></tr><tr><td class="label">比例</td><td>1/8</td></tr><tr><td class="label">尺寸</td><td>235mm</td></tr><tr><td class="label">状态</td><td>已发售</td></tr><tr><td class="label">售价</td><td>7600円</td></tr><tr><td class="label">首发日期</td><td>2011-12</td></tr><tr><td class="label">发售方</td><td><a class="new" title="GRIFFON（页面不存在）">GRIFFON</a></td></tr><tr><td class="label">再版日期</td><td>2012-08</td></tr><tr><td class="label">官网页面</td><td><a rel="nofollow" class="external free" href="http://www.griffon.co.jp/toho/">http://www.griffon.co.jp/toho/</a></td></tr></tbody></table>
 
 GRIFFON/灵乌路空（周边） - 灵乌路空PVCFigure手办模型
-
 ## 参考图片
-
-
-
-[](./文件-GRIFFON灵乌路空-1.jpg.md)
-
-
-[](./文件-GRIFFON灵乌路空-2.jpg.md)
-
-
-[](./文件-GRIFFON灵乌路空-3.jpg.md)
-
+<img alt="GRIFFON灵乌路空" src="https://upload.thwiki.cc/thumb/b/ba/GRIFFON%E7%81%B5%E4%B9%8C%E8%B7%AF%E7%A9%BA-1.jpg/160px-GRIFFON%E7%81%B5%E4%B9%8C%E8%B7%AF%E7%A9%BA-1.jpg" decoding="async" loading="lazy" width="160" height="240" srcset="https://upload.thwiki.cc/thumb/b/ba/GRIFFON%E7%81%B5%E4%B9%8C%E8%B7%AF%E7%A9%BA-1.jpg/240px-GRIFFON%E7%81%B5%E4%B9%8C%E8%B7%AF%E7%A9%BA-1.jpg 1.5x, https://upload.thwiki.cc/thumb/b/ba/GRIFFON%E7%81%B5%E4%B9%8C%E8%B7%AF%E7%A9%BA-1.jpg/320px-GRIFFON%E7%81%B5%E4%B9%8C%E8%B7%AF%E7%A9%BA-1.jpg 2x" data-file-width="600" data-file-height="900">
+<img alt="GRIFFON灵乌路空" src="https://upload.thwiki.cc/thumb/9/92/GRIFFON%E7%81%B5%E4%B9%8C%E8%B7%AF%E7%A9%BA-2.jpg/160px-GRIFFON%E7%81%B5%E4%B9%8C%E8%B7%AF%E7%A9%BA-2.jpg" decoding="async" loading="lazy" width="160" height="240" srcset="https://upload.thwiki.cc/thumb/9/92/GRIFFON%E7%81%B5%E4%B9%8C%E8%B7%AF%E7%A9%BA-2.jpg/240px-GRIFFON%E7%81%B5%E4%B9%8C%E8%B7%AF%E7%A9%BA-2.jpg 1.5x, https://upload.thwiki.cc/thumb/9/92/GRIFFON%E7%81%B5%E4%B9%8C%E8%B7%AF%E7%A9%BA-2.jpg/320px-GRIFFON%E7%81%B5%E4%B9%8C%E8%B7%AF%E7%A9%BA-2.jpg 2x" data-file-width="467" data-file-height="700">
+<img alt="GRIFFON灵乌路空" src="https://upload.thwiki.cc/thumb/2/21/GRIFFON%E7%81%B5%E4%B9%8C%E8%B7%AF%E7%A9%BA-3.jpg/160px-GRIFFON%E7%81%B5%E4%B9%8C%E8%B7%AF%E7%A9%BA-3.jpg" decoding="async" loading="lazy" width="160" height="240" srcset="https://upload.thwiki.cc/thumb/2/21/GRIFFON%E7%81%B5%E4%B9%8C%E8%B7%AF%E7%A9%BA-3.jpg/240px-GRIFFON%E7%81%B5%E4%B9%8C%E8%B7%AF%E7%A9%BA-3.jpg 1.5x, https://upload.thwiki.cc/thumb/2/21/GRIFFON%E7%81%B5%E4%B9%8C%E8%B7%AF%E7%A9%BA-3.jpg/320px-GRIFFON%E7%81%B5%E4%B9%8C%E8%B7%AF%E7%A9%BA-3.jpg 2x" data-file-width="533" data-file-height="800">
 公式图
-
-
-
-
-
-
 
 ---
 

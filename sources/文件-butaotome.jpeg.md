@@ -1,18 +1,13 @@
 # 文件:butaotome.jpeg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\86\ns6%3Abutaotome%2Ejpeg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\86\ns6%3Abutaotome%2Ejpeg.html -->
 
 豚乙女
 
   
 由左至右
 ①コンプ ②ランコ ③ランコの姉
-图来源:[https://twitter.com/butaotome/status/1741474351260807507](https://twitter.com/butaotome/status/1741474351260807507)
-  
-
-
-
-
+图来源:[https://twitter.com/butaotome/status/1741474351260807507](https://twitter.com/butaotome/status/1741474351260807507)  
 
 ---
 

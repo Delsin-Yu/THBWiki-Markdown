@@ -1,6 +1,6 @@
 # 文件:雨降りきのこは似合わない_～_Tewi_or_Tei_wasn't_Hallucination封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cc\ns6%3A%E9%9B%A8%E9%99%8D%E3%82%8A%E3%81%8D%E3%81%AE%E3%81%93%E3%81%AF%E4%BC%BC%E5%90%88%E3%82%8F%E3%81%AA%E3%81%84_%EF%BD%9E_Tewi_or_Tei_wasn%27t_Hallucination%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cc\ns6%3A%E9%9B%A8%E9%99%8D%E3%82%8A%E3%81%8D%E3%81%AE%E3%81%93%E3%81%AF%E4%BC%BC%E5%90%88%E3%82%8F%E3%81%AA%E3%81%84_%EF%BD%9E_Tewi_or_Tei_wasn%27t_Hallucination%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 bivrache | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@ bivrache | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [雨降りきのこは似合わない ～ Tewi or Tei wasn't Hallucination](./雨降りきのこは似合わない_～_Tewi_or_Tei_wasn't_Hallucination.md)  
-该封面包含的角色：- [娜兹玲](./娜兹玲.md)
-
-
-
+- [雨降りきのこは似合わない ～ Tewi or Tei wasn't Hallucination](./雨降りきのこは似合わない_～_Tewi_or_Tei_wasn't_Hallucination.md)该封面包含的角色：
+- [娜兹玲](./娜兹玲.md)
 
 
 ---

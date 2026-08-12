@@ -1,12 +1,8 @@
 # 文件:THBWiki-LOGO-三月精.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ae\ns6%3ATHBWiki-LOGO-%E4%B8%89%E6%9C%88%E7%B2%BE%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ae\ns6%3ATHBWiki-LOGO-%E4%B8%89%E6%9C%88%E7%B2%BE%2Epng.html -->
 
 THBWiki | Wiki词条分类用图
-
-
-
-
 
 
 ---

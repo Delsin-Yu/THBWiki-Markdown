@@ -1,12 +1,8 @@
 # 文件:切牌「Slit_Snake」（无现里）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fd\ns6%3A%E5%88%87%E7%89%8C%E3%80%8CSlit_Snake%E3%80%8D%EF%BC%88%E6%97%A0%E7%8E%B0%E9%87%8C%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fd\ns6%3A%E5%88%87%E7%89%8C%E3%80%8CSlit_Snake%E3%80%8D%EF%BC%88%E6%97%A0%E7%8E%B0%E9%87%8C%EF%BC%89%2Ejpg.html -->
 
 乌蛇 | 连缘Project官方符牌 | 连缘无现里
-
-
-
-
 
 
 ---

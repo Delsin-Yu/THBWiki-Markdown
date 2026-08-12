@@ -1,16 +1,12 @@
 # 文件:星之实验室_~_the_laboratory_of_stars~LOGO.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\09\ns6%3A%E6%98%9F%E4%B9%8B%E5%AE%9E%E9%AA%8C%E5%AE%A4_%7E_the_laboratory_of_stars%7ELOGO%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\09\ns6%3A%E6%98%9F%E4%B9%8B%E5%AE%9E%E9%AA%8C%E5%AE%A4_%7E_the_laboratory_of_stars%7ELOGO%2Epng.html -->
 
 星之实验室_~_the_laboratory_of_stars~ | 社团LOGO
 
   
 懒得说明了反正是logo
   
-
-
-
-
 
 ---
 

@@ -1,12 +1,8 @@
 # 文件:Medicine_Faktorylogo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\06\ns6%3AMedicine_Faktorylogo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\06\ns6%3AMedicine_Faktorylogo%2Epng.html -->
 
 Medicine_Faktory | 社团LOGO
-
-
-
-
 
 
 ---

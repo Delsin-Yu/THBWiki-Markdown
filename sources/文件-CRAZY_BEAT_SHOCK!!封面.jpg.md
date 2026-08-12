@@ -1,6 +1,6 @@
 # 文件:CRAZY_BEAT_SHOCK!!封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f3\ns6%3ACRAZY_BEAT_SHOCK%21%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f3\ns6%3ACRAZY_BEAT_SHOCK%21%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 K2E†Cradle | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ K2E†Cradle | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [CRAZY BEAT SHOCK!!](./CRAZY_BEAT_SHOCK!!.md)  
-该封面包含的角色：- [堀川雷鼓](./堀川雷鼓.md)
-
-
-
+- [CRAZY BEAT SHOCK!!](./CRAZY_BEAT_SHOCK!!.md)该封面包含的角色：
+- [堀川雷鼓](./堀川雷鼓.md)
 
 
 ---

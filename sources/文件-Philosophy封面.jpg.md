@@ -1,6 +1,6 @@
 # 文件:Philosophy封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\17\ns6%3APhilosophy%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\17\ns6%3APhilosophy%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 酸素魚雷
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Philosophy](./Philosophy.md)  
-该封面包含的角色：- [古明地恋](./古明地恋.md)
+- [Philosophy](./Philosophy.md)该封面包含的角色：
+- [古明地恋](./古明地恋.md)
 
   
-[Pixiv artwork ID: 50229341](https://www.pixiv.net/artworks/50229341)
-  
-
-
-
-
+[Pixiv artwork ID: 50229341](https://www.pixiv.net/artworks/50229341)  
 
 ---
 

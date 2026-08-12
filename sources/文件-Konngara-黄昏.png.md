@@ -1,12 +1,8 @@
 # 文件:Konngara-黄昏.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\87\ns6%3AKonngara-%E9%BB%84%E6%98%8F%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\87\ns6%3AKonngara-%E9%BB%84%E6%98%8F%2Epng.html -->
 
 矜羯罗
-
-
-
-
 
 
 ---

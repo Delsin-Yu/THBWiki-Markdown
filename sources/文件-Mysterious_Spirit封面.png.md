@@ -1,6 +1,6 @@
 # 文件:Mysterious_Spirit封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\30\ns6%3AMysterious_Spirit%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\30\ns6%3AMysterious_Spirit%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Amateras_Records | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ Amateras_Records | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Mysterious Spirit](./Mysterious_Spirit.md)  
-该封面包含的角色：- [埴安神袿姬](./埴安神袿姬.md)- [杖刀偶磨弓](./杖刀偶磨弓.md)
-
-
-
+- [Mysterious Spirit](./Mysterious_Spirit.md)该封面包含的角色：
+- [埴安神袿姬](./埴安神袿姬.md)
+- [杖刀偶磨弓](./杖刀偶磨弓.md)
 
 
 ---

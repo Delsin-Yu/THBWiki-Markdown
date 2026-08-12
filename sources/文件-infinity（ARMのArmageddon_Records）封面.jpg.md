@@ -1,6 +1,6 @@
 # 文件:infinity（ARMのArmageddon_Records）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c0\ns6%3Ainfinity%EF%BC%88ARM%E3%81%AEArmageddon_Records%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c0\ns6%3Ainfinity%EF%BC%88ARM%E3%81%AEArmageddon_Records%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ARMのArmageddon_Records | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ ARMのArmageddon_Records | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [infinity（ARMのArmageddon Records）](./infinity（ARMのArmageddon_Records）.md)  
-该封面包含的角色：- [二岩猯藏](./二岩猯藏.md)
-
-
-
+- [infinity（ARMのArmageddon Records）](./infinity（ARMのArmageddon_Records）.md)该封面包含的角色：
+- [二岩猯藏](./二岩猯藏.md)
 
 
 ---

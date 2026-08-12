@@ -1,12 +1,8 @@
 # 文件:Toby对谈35.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fa\ns6%3AToby%E5%AF%B9%E8%B0%8835%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fa\ns6%3AToby%E5%AF%B9%E8%B0%8835%2Epng.html -->
 
 Toby对谈 | 东方风神录
-
-
-
-
 
 
 ---

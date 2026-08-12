@@ -1,11 +1,10 @@
 # Master_Spark
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\49\ns0%3AMaster_Spark.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\49\ns0%3AMaster_Spark.html -->
 
 官方符卡
 
-本页是关于 **符卡 (未找到链接)（SpellCard）** 的词条Master Spark（符卡） - 官方符卡
-
+本页是关于**[符卡](./游戏攻略-STG术语.md#符卡)（SpellCard）**的词条Master Spark（符卡） - 官方符卡
 <table>
 
 <tbody><tr>
@@ -69,15 +68,12 @@
 ## 目录
 
 - [1 登场](#登场)
-
   - [1.1 东方红魔乡](#东方红魔乡)
   - [1.2 东方妖妖梦](#东方妖妖梦)
   - [1.3 东方萃梦想](#东方萃梦想)
   - [1.4 东方永夜抄](#东方永夜抄)
-
     - [1.4.1 自机](#自机)
     - [1.4.2 敌机](#敌机)
-
 
 
   - [1.5 东方绯想天](#东方绯想天)
@@ -95,9 +91,7 @@
   - [1.17 东方儚月抄](#东方儚月抄)
 
 
-
 - [2 符卡说明](#符卡说明)
-
   - [2.1 东方萃梦想](#东方萃梦想_2)
   - [2.2 东方永夜抄](#东方永夜抄_2)
   - [2.3 东方绯想天](#东方绯想天_2)
@@ -107,20 +101,16 @@
   - [2.7 宇佐见的魔法书](#宇佐见的魔法书)
 
 
-
 - [3 其他内容](#其他内容)
-
   - [3.1 游戏资料](#游戏资料)
   - [3.2 分析考据](#分析考据)
-
 
 
 - [4 导航](#导航)
 
 
-
-
 ## 登场
+
 ### 东方红魔乡
 
 <table>
@@ -132,7 +122,6 @@
 <p>自机角色雾雨魔理沙<b>恋之御札</b>（恋の御札）配置的Bomb。
 </p>
 </td></tr></tbody></table>
-
 
 
 ### 东方妖妖梦
@@ -148,7 +137,6 @@
 </td></tr></tbody></table>
 
 
-
 ### 东方萃梦想
 
 <table>
@@ -162,13 +150,6 @@
 </td></tr></tbody></table>
 
 
-
-  
-  
-
-  
-
-
 <table>
 
 <tbody><tr>
@@ -180,17 +161,10 @@
 </td></tr></tbody></table>
 
 
-
-  
-  
-
-  
-
-
 <table>
 
 <tbody><tr>
-<td><div class="thumb tleft"><div class="thumbinner" style="width:182px;"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E7%AC%A6%E4%B9%8B%E4%B8%89%E3%80%8CMaster_Spark%E3%80%8D%EF%BC%88%E8%90%83%E6%A2%A6%E6%83%B3%EF%BC%89.png" class="new" title="文件:符之三「Master Spark」（萃梦想）.png">文件:符之三「Master Spark」（萃梦想）.png</a>  <div class="thumbcaption">符之三「Master Spark」（极限火花）</div></div></div>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:182px;"><a class="new" title="文件:符之三「Master Spark」（萃梦想）.png">文件:符之三「Master Spark」（萃梦想）.png</a>  <div class="thumbcaption">符之三「Master Spark」（极限火花）</div></div></div>
 </td>
 <td>
 <p>BOSS雾雨魔理沙的故事模式专有符卡。
@@ -198,8 +172,8 @@
 </td></tr></tbody></table>
 
 
-
 ### 东方永夜抄
+
 #### 自机
 
 <table>
@@ -213,13 +187,6 @@
 </td></tr></tbody></table>
 
 
-
-  
-  
-
-  
-
-
 <table>
 
 <tbody><tr>
@@ -229,7 +196,6 @@
 <p>自机角色雾雨魔理沙的Last Spell。
 </p>
 </td></tr></tbody></table>
-
 
 
 #### 敌机
@@ -245,13 +211,6 @@
 </td></tr></tbody></table>
 
 
-
-  
-  
-
-  
-
-
 <table>
 
 <tbody><tr>
@@ -261,13 +220,6 @@
 <p>4面BOSS雾雨魔理沙Hard / Lunatic难度符卡。
 </p>
 </td></tr></tbody></table>
-
-
-
-  
-  
-
-  
 
 
 <table>
@@ -281,13 +233,6 @@
 </td></tr></tbody></table>
 
 
-
-  
-  
-
-  
-
-
 <table>
 
 <tbody><tr>
@@ -297,7 +242,6 @@
 <p>4面BOSS雾雨魔理沙Lunatic难度符卡。
 </p>
 </td></tr></tbody></table>
-
 
 
 ### 东方绯想天
@@ -324,13 +268,6 @@
 </td></tr></tbody></table>
 
 
-
-  
-  
-
-  
-
-
 <table>
 
 <tbody><tr>
@@ -342,13 +279,6 @@
 </td></tr></tbody></table>
 
 
-
-  
-  
-
-  
-
-
 <table>
 
 <tbody><tr>
@@ -358,13 +288,6 @@
 <p>角色雾雨魔理沙的对战使用符卡。
 </p>
 </td></tr></tbody></table>
-
-
-
-  
-  
-
-  
 
 
 <table>
@@ -389,7 +312,6 @@
 </td></tr></tbody></table>
 
 
-
 ### 东方星莲船
 
 <table>
@@ -401,7 +323,6 @@
 <p>自机角色雾雨魔理沙的无限贯通＆常驻攻击型配置的Bomb。
 </p>
 </td></tr></tbody></table>
-
 
 
 ### 妖精大战争
@@ -417,7 +338,6 @@
 </td></tr></tbody></table>
 
 
-
 ### 东方神灵庙
 
 <table>
@@ -429,7 +349,6 @@
 <p>自机角色雾雨魔理沙的Bomb。
 </p>
 </td></tr></tbody></table>
-
 
 
 ### 东方心绮楼
@@ -445,7 +364,6 @@
 </td></tr></tbody></table>
 
 
-
 ### 东方辉针城
 
 <table>
@@ -457,7 +375,6 @@
 <p>自机角色雾雨魔理沙的使用妖器「迷你八卦炉」（妖器「ミニ八卦炉」使用）配置的Bomb。
 </p>
 </td></tr></tbody></table>
-
 
 
 ### 弹幕天邪鬼
@@ -473,8 +390,6 @@
 </td></tr></tbody></table>
 
 
-
-
 <table>
 
 <tbody><tr>
@@ -484,7 +399,6 @@
 <p>第七日 场景5BOSS雾雨魔理沙符卡。
 </p>
 </td></tr></tbody></table>
-
 
 
 ### 东方深秘录
@@ -500,7 +414,6 @@
 </td></tr></tbody></table>
 
 
-
 ### 东方绀珠传
 
 <table>
@@ -512,7 +425,6 @@
 <p>自机角色雾雨魔理沙的Bomb。
 </p>
 </td></tr></tbody></table>
-
 
 
 ### 东方凭依华
@@ -539,7 +451,6 @@
 </td></tr></tbody></table>
 
 
-
 ### 东方天空璋
 
 <table>
@@ -551,7 +462,6 @@
 <p>自机角色雾雨魔理沙的Bomb。
 </p>
 </td></tr></tbody></table>
-
 
 
 ### 东方鬼形兽
@@ -567,7 +477,6 @@
 </td></tr></tbody></table>
 
 
-
 ### 东方儚月抄
 
 <table>
@@ -581,7 +490,6 @@
 </td></tr></tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
@@ -593,8 +501,8 @@
 </td></tr></tbody></table>
 
 
-
 ## 符卡说明
+
 ### 东方萃梦想
 
 <table>
@@ -622,7 +530,6 @@
 <p>消耗整个灵力槽，放出超强力的光束。
 </p>
 </td></tr></tbody></table>
-
 
 
 <table>
@@ -654,34 +561,16 @@
 
 ### 东方永夜抄
 
-<table><tbody><tr class="tt-content-header" id="Stage_4B-25" data-pos="&#91;&quot;Stage 4B&quot;,25&#93;"><td class="tt-jah" lang="ja"><div class="poem">No.90 恋符「マスタースパーク」</div></td><td class="tt-zhh" lang="zh"><div class="poem">No.90 <a href="/%E6%81%8B%E7%AC%A6%E3%80%8CMaster_Spark%E3%80%8D" class="mw-redirect" title="恋符「Master Spark」">恋符「Master Spark」</a></div></td></tr><tr class="tt-content" id="Stage_4B-26" data-pos="&#91;&quot;Stage 4B&quot;,26&#93;"><td class="tt-ja" lang="ja"><div class="poem">極太魔法レーザー照射。<br>斜めにも撃てます。</div></td><td class="tt-zh" lang="zh"><div class="poem">超巨大魔法激光的照射。<br>斜方向上也能够射击。</div></td></tr><tr class="tt-content-header" id="Stage_4B-27" data-pos="&#91;&quot;Stage 4B&quot;,27&#93;"><td class="tt-jah" lang="ja"><div class="poem">No.91 恋符「マスタースパーク」</div></td><td class="tt-zhh" lang="zh"><div class="poem">No.91 <a href="/%E6%81%8B%E7%AC%A6%E3%80%8CMaster_Spark%E3%80%8D" class="mw-redirect" title="恋符「Master Spark」">恋符「Master Spark」</a></div></td></tr><tr class="tt-content" id="Stage_4B-28" data-pos="&#91;&quot;Stage 4B&quot;,28&#93;"><td class="tt-ja" lang="ja"><div class="poem">極太魔法レーザー照射<br>真の敵は余りにも強いエネルギーで振動してしまう画面。</div></td><td class="tt-zh" lang="zh"><div class="poem">超巨大魔法激光的照射。<br>真正的敌人是那因为过于强烈的能量而不断震动的画面。 <br></div></td></tr></tbody></table>
+<table><tbody><tr class="tt-content-header" id="Stage_4B-25" data-pos="&#91;&quot;Stage 4B&quot;,25&#93;"><td class="tt-jah" lang="ja"><div class="poem">No.90 恋符「マスタースパーク」</div></td><td class="tt-zhh" lang="zh"><div class="poem">No.90 <a href="./Master_Spark.md" class="mw-redirect" title="恋符「Master Spark」">恋符「Master Spark」</a></div></td></tr><tr class="tt-content" id="Stage_4B-26" data-pos="&#91;&quot;Stage 4B&quot;,26&#93;"><td class="tt-ja" lang="ja"><div class="poem">極太魔法レーザー照射。<br>斜めにも撃てます。</div></td><td class="tt-zh" lang="zh"><div class="poem">超巨大魔法激光的照射。<br>斜方向上也能够射击。</div></td></tr><tr class="tt-content-header" id="Stage_4B-27" data-pos="&#91;&quot;Stage 4B&quot;,27&#93;"><td class="tt-jah" lang="ja"><div class="poem">No.91 恋符「マスタースパーク」</div></td><td class="tt-zhh" lang="zh"><div class="poem">No.91 <a href="./Master_Spark.md" class="mw-redirect" title="恋符「Master Spark」">恋符「Master Spark」</a></div></td></tr><tr class="tt-content" id="Stage_4B-28" data-pos="&#91;&quot;Stage 4B&quot;,28&#93;"><td class="tt-ja" lang="ja"><div class="poem">極太魔法レーザー照射<br>真の敵は余りにも強いエネルギーで振動してしまう画面。</div></td><td class="tt-zh" lang="zh"><div class="poem">超巨大魔法激光的照射。<br>真正的敌人是那因为过于强烈的能量而不断震动的画面。 <br></div></td></tr></tbody></table>
 
 
-  
-  
-
-  
+<table><tbody><tr class="tt-content-header" id="Stage_4B-29" data-pos="&#91;&quot;Stage 4B&quot;,29&#93;"><td class="tt-jah" lang="ja"><div class="poem">No.92 恋心「ダブルスパーク」</div></td><td class="tt-zhh" lang="zh"><div class="poem">No.92 <a href="./Master_Spark.md" class="mw-redirect" title="恋心「Double Spark」">恋心「Double Spark」</a>（二重火花）</div></td></tr><tr class="tt-content" id="Stage_4B-30" data-pos="&#91;&quot;Stage 4B&quot;,30&#93;"><td class="tt-ja" lang="ja"><div class="poem">極太魔法レーザー照射。<br>二本撃っちゃいます。もっと太くすれば即死なのにね。</div></td><td class="tt-zh" lang="zh"><div class="poem">超巨大魔法激光的照射。<br>射出去两条光线。假如要是能再粗一点的话那就即死了呢。</div></td></tr><tr class="tt-content-header" id="Stage_4B-31" data-pos="&#91;&quot;Stage 4B&quot;,31&#93;"><td class="tt-jah" lang="ja"><div class="poem">No.93 恋心「ダブルスパーク」</div></td><td class="tt-zhh" lang="zh"><div class="poem">No.93 <a href="./Master_Spark.md" class="mw-redirect" title="恋心「Double Spark」">恋心「Double Spark」</a>（二重火花）</div></td></tr><tr class="tt-content" id="Stage_4B-32" data-pos="&#91;&quot;Stage 4B&quot;,32&#93;"><td class="tt-ja" lang="ja"><div class="poem">極太魔法レーザー照射<br>それにしても、嫌な恋心だなぁ。滅殺の恋。</div></td><td class="tt-zh" lang="zh"><div class="poem">超巨大魔法激光的照射。<br>那么说起来，还真是讨厌的恋心啊。灭杀之恋。<br></div></td></tr></tbody></table>
 
 
-<table><tbody><tr class="tt-content-header" id="Stage_4B-29" data-pos="&#91;&quot;Stage 4B&quot;,29&#93;"><td class="tt-jah" lang="ja"><div class="poem">No.92 恋心「ダブルスパーク」</div></td><td class="tt-zhh" lang="zh"><div class="poem">No.92 <a href="/%E6%81%8B%E5%BF%83%E3%80%8CDouble_Spark%E3%80%8D" class="mw-redirect" title="恋心「Double Spark」">恋心「Double Spark」</a>（二重火花）</div></td></tr><tr class="tt-content" id="Stage_4B-30" data-pos="&#91;&quot;Stage 4B&quot;,30&#93;"><td class="tt-ja" lang="ja"><div class="poem">極太魔法レーザー照射。<br>二本撃っちゃいます。もっと太くすれば即死なのにね。</div></td><td class="tt-zh" lang="zh"><div class="poem">超巨大魔法激光的照射。<br>射出去两条光线。假如要是能再粗一点的话那就即死了呢。</div></td></tr><tr class="tt-content-header" id="Stage_4B-31" data-pos="&#91;&quot;Stage 4B&quot;,31&#93;"><td class="tt-jah" lang="ja"><div class="poem">No.93 恋心「ダブルスパーク」</div></td><td class="tt-zhh" lang="zh"><div class="poem">No.93 <a href="/%E6%81%8B%E5%BF%83%E3%80%8CDouble_Spark%E3%80%8D" class="mw-redirect" title="恋心「Double Spark」">恋心「Double Spark」</a>（二重火花）</div></td></tr><tr class="tt-content" id="Stage_4B-32" data-pos="&#91;&quot;Stage 4B&quot;,32&#93;"><td class="tt-ja" lang="ja"><div class="poem">極太魔法レーザー照射<br>それにしても、嫌な恋心だなぁ。滅殺の恋。</div></td><td class="tt-zh" lang="zh"><div class="poem">超巨大魔法激光的照射。<br>那么说起来，还真是讨厌的恋心啊。灭杀之恋。<br></div></td></tr></tbody></table>
+<table><tbody><tr class="tt-content-header" id="Stage_4B-41" data-pos="&#91;&quot;Stage 4B&quot;,41&#93;"><td class="tt-jah" lang="ja"><div class="poem">No.98 魔砲「ファイナルスパーク」</div></td><td class="tt-zhh" lang="zh"><div class="poem">No.98 <a href="./Master_Spark.md" class="mw-redirect" title="魔炮「Final Spark」">魔炮「Final Spark」</a>（究极火花）</div></td></tr><tr class="tt-content" id="Stage_4B-42" data-pos="&#91;&quot;Stage 4B&quot;,42&#93;"><td class="tt-ja" lang="ja"><div class="poem">最後にして究極の魔砲。<br>魔理沙が渾身の力をこめて放つ魔のレーザー。本人はすっきり。</div></td><td class="tt-zh" lang="zh"><div class="poem">最后的也是究极的魔炮。<br>魔理沙使出浑身之力放出的魔之光线。本人相当爽。</div></td></tr><tr class="tt-content-header" id="Stage_4B-43" data-pos="&#91;&quot;Stage 4B&quot;,43&#93;"><td class="tt-jah" lang="ja"><div class="poem">No.99 魔砲「ファイナルスパーク」</div></td><td class="tt-zhh" lang="zh"><div class="poem">No.99 <a href="./Master_Spark.md" class="mw-redirect" title="魔炮「Final Spark」">魔炮「Final Spark」</a>（究极火花）</div></td></tr><tr class="tt-content" id="Stage_4B-44" data-pos="&#91;&quot;Stage 4B&quot;,44&#93;"><td class="tt-ja" lang="ja"><div class="poem">極太魔法レーザー照射<br>でもはっきり言って、細くしてでも旋回能力をあげた方が強いと思う。</div></td><td class="tt-zh" lang="zh"><div class="poem">超巨大魔法激光的照射。<br>但是要说的话，我觉得就算是会变细一些，还是增加其旋转能力会变的更强。 <br></div></td></tr></tbody></table>
 
 
-  
-  
-
-  
-
-
-<table><tbody><tr class="tt-content-header" id="Stage_4B-41" data-pos="&#91;&quot;Stage 4B&quot;,41&#93;"><td class="tt-jah" lang="ja"><div class="poem">No.98 魔砲「ファイナルスパーク」</div></td><td class="tt-zhh" lang="zh"><div class="poem">No.98 <a href="/%E9%AD%94%E7%82%AE%E3%80%8CFinal_Spark%E3%80%8D" class="mw-redirect" title="魔炮「Final Spark」">魔炮「Final Spark」</a>（究极火花）</div></td></tr><tr class="tt-content" id="Stage_4B-42" data-pos="&#91;&quot;Stage 4B&quot;,42&#93;"><td class="tt-ja" lang="ja"><div class="poem">最後にして究極の魔砲。<br>魔理沙が渾身の力をこめて放つ魔のレーザー。本人はすっきり。</div></td><td class="tt-zh" lang="zh"><div class="poem">最后的也是究极的魔炮。<br>魔理沙使出浑身之力放出的魔之光线。本人相当爽。</div></td></tr><tr class="tt-content-header" id="Stage_4B-43" data-pos="&#91;&quot;Stage 4B&quot;,43&#93;"><td class="tt-jah" lang="ja"><div class="poem">No.99 魔砲「ファイナルスパーク」</div></td><td class="tt-zhh" lang="zh"><div class="poem">No.99 <a href="/%E9%AD%94%E7%82%AE%E3%80%8CFinal_Spark%E3%80%8D" class="mw-redirect" title="魔炮「Final Spark」">魔炮「Final Spark」</a>（究极火花）</div></td></tr><tr class="tt-content" id="Stage_4B-44" data-pos="&#91;&quot;Stage 4B&quot;,44&#93;"><td class="tt-ja" lang="ja"><div class="poem">極太魔法レーザー照射<br>でもはっきり言って、細くしてでも旋回能力をあげた方が強いと思う。</div></td><td class="tt-zh" lang="zh"><div class="poem">超巨大魔法激光的照射。<br>但是要说的话，我觉得就算是会变细一些，还是增加其旋转能力会变的更强。 <br></div></td></tr></tbody></table>
-
-
-  
-  
-
-  
-
-
-<table><tbody><tr class="tt-content-header" id="Stage_4B-45" data-pos="&#91;&quot;Stage 4B&quot;,45&#93;"><td class="tt-jah" lang="ja"><div class="poem">No.100 魔砲「ファイナルマスタースパーク」</div></td><td class="tt-zhh" lang="zh"><div class="poem">No.100 <a href="/%E9%AD%94%E7%82%AE%E3%80%8CFinal_Master_Spark%E3%80%8D" class="mw-redirect" title="魔炮「Final Master Spark」">魔炮「Final Master Spark」</a>（超究极火花）</div></td></tr><tr class="tt-content" id="Stage_4B-46" data-pos="&#91;&quot;Stage 4B&quot;,46&#93;"><td class="tt-ja" lang="ja"><div class="poem">魔理沙の魔砲講座。撃つ時は精神を集中させ、優しくミニ八卦炉に<br>呪文をかける。にっくきターゲットを狙い、放つは恋の魔砲！</div></td><td class="tt-zh" lang="zh"><div class="poem">魔理沙的魔炮讲座。射击的时候要集中精神，温柔的对迷你八卦炉念<br>咒文。瞄准那令人不快的目标，发射出去的就是那恋爱的魔炮！<br></div></td></tr></tbody></table>
+<table><tbody><tr class="tt-content-header" id="Stage_4B-45" data-pos="&#91;&quot;Stage 4B&quot;,45&#93;"><td class="tt-jah" lang="ja"><div class="poem">No.100 魔砲「ファイナルマスタースパーク」</div></td><td class="tt-zhh" lang="zh"><div class="poem">No.100 <a href="./Master_Spark.md" class="mw-redirect" title="魔炮「Final Master Spark」">魔炮「Final Master Spark」</a>（超究极火花）</div></td></tr><tr class="tt-content" id="Stage_4B-46" data-pos="&#91;&quot;Stage 4B&quot;,46&#93;"><td class="tt-ja" lang="ja"><div class="poem">魔理沙の魔砲講座。撃つ時は精神を集中させ、優しくミニ八卦炉に<br>呪文をかける。にっくきターゲットを狙い、放つは恋の魔砲！</div></td><td class="tt-zh" lang="zh"><div class="poem">魔理沙的魔炮讲座。射击的时候要集中精神，温柔的对迷你八卦炉念<br>咒文。瞄准那令人不快的目标，发射出去的就是那恋爱的魔炮！<br></div></td></tr></tbody></table>
 
 
 ### 东方绯想天
@@ -713,7 +602,6 @@
 </td></tr></tbody></table>
 
 
-
 <table>
 
 
@@ -739,7 +627,6 @@
 <p>毫无保留地发射出大功率的激光，若对手位于正前方的话将无处可逃。直击所能造成的巨大威力无愧于其高消费。
 </p>
 </td></tr></tbody></table>
-
 
 
 <table>
@@ -837,46 +724,29 @@
 
 ### The Grimoire of Marisa
 
-<table><tbody><tr class="tt-content-header" id="=-17" data-pos="&#91;&quot;=&quot;,17&#93;"><td class="tt-jah" lang="ja"><div class="poem">恋符「マスタースパーク」</div></td><td class="tt-zhh" lang="zh"><div class="poem"><a href="/%E6%81%8B%E7%AC%A6%E3%80%8CMaster_Spark%E3%80%8D" class="mw-redirect" title="恋符「Master Spark」">恋符「Master Spark」</a>（极限火花）<br></div></td></tr><tr class="tt-content" id="=-18" data-pos="&#91;&quot;=&quot;,18&#93;"><td class="tt-ja" lang="ja"><div class="poem">使用者　　　　私</div></td><td class="tt-zh" lang="zh"><div class="poem">使用者　　　　<a href="./雾雨魔理沙.md" title="雾雨魔理沙">我</a><br></div></td></tr><tr class="tt-content" id="=-19" data-pos="&#91;&quot;=&quot;,19&#93;"><td class="tt-ja" lang="ja"><div class="poem">備考　　　　　楽しい</div></td><td class="tt-zh" lang="zh"><div class="poem">备考　　　　　很欢乐<br></div></td></tr><tr class="tt-content" id="=-20" data-pos="&#91;&quot;=&quot;,20&#93;"><td class="tt-ja" lang="ja"><div class="poem">使用頻度　　　★★★★★★★</div></td><td class="tt-zh" lang="zh"><div class="poem">使用频度　　　★★★★★★★<br></div></td></tr><tr class="tt-content" id="=-21" data-pos="&#91;&quot;=&quot;,21&#93;"><td class="tt-ja" lang="ja"><div class="poem">超火力で相手を撃ち抜くスペルカード。これは気持ちが良いので最も多用する。</div></td><td class="tt-zh" lang="zh"><div class="poem">能给予对手超强火力的符卡。因为这个用起来很爽，所以会经常用。<br></div></td></tr><tr class="tt-content" id="=-22" data-pos="&#91;&quot;=&quot;,22&#93;"><td class="tt-ja" lang="ja"><div class="poem">ただ、気持ち良さとは裏腹に隙だらけでそんなに難しく出来ないという問題もある。</div></td><td class="tt-zh" lang="zh"><div class="poem">只是，与欢乐相反，这招的问题是破绽多多，而且不是那么难。<br></div></td></tr><tr class="tt-content" id="=-23" data-pos="&#91;&quot;=&quot;,23&#93;"><td class="tt-ja" lang="ja"><div class="poem">ちなみにミニ八卦炉を使ってレーザーを出している訳だが、改造して拡散マスタースパークが出るように研究中だ。</div></td><td class="tt-zh" lang="zh"><div class="poem">顺便说一下，虽然这个是用迷你八卦炉放出的激光，目前正在研究怎样去改造才能放出扩散性的极限火花。<br></div></td></tr><tr class="tt-content" id="=-24" data-pos="&#91;&quot;=&quot;,24&#93;"><td class="tt-ja" lang="ja"><div class="poem">威力が弱くても拡散した方が強い。それが弾幕だからな。</div></td><td class="tt-zh" lang="zh"><div class="poem">就算威力下降也不要紧，还是扩散的比较强。因为那是弹幕啊。<br></div></td></tr></tbody></table>
+<table><tbody><tr class="tt-content-header" id="=-17" data-pos="&#91;&quot;=&quot;,17&#93;"><td class="tt-jah" lang="ja"><div class="poem">恋符「マスタースパーク」</div></td><td class="tt-zhh" lang="zh"><div class="poem"><a href="./Master_Spark.md" class="mw-redirect" title="恋符「Master Spark」">恋符「Master Spark」</a>（极限火花）<br></div></td></tr><tr class="tt-content" id="=-18" data-pos="&#91;&quot;=&quot;,18&#93;"><td class="tt-ja" lang="ja"><div class="poem">使用者　　　　私</div></td><td class="tt-zh" lang="zh"><div class="poem">使用者　　　　<a href="./雾雨魔理沙.md" title="雾雨魔理沙">我</a><br></div></td></tr><tr class="tt-content" id="=-19" data-pos="&#91;&quot;=&quot;,19&#93;"><td class="tt-ja" lang="ja"><div class="poem">備考　　　　　楽しい</div></td><td class="tt-zh" lang="zh"><div class="poem">备考　　　　　很欢乐<br></div></td></tr><tr class="tt-content" id="=-20" data-pos="&#91;&quot;=&quot;,20&#93;"><td class="tt-ja" lang="ja"><div class="poem">使用頻度　　　★★★★★★★</div></td><td class="tt-zh" lang="zh"><div class="poem">使用频度　　　★★★★★★★<br></div></td></tr><tr class="tt-content" id="=-21" data-pos="&#91;&quot;=&quot;,21&#93;"><td class="tt-ja" lang="ja"><div class="poem">超火力で相手を撃ち抜くスペルカード。これは気持ちが良いので最も多用する。</div></td><td class="tt-zh" lang="zh"><div class="poem">能给予对手超强火力的符卡。因为这个用起来很爽，所以会经常用。<br></div></td></tr><tr class="tt-content" id="=-22" data-pos="&#91;&quot;=&quot;,22&#93;"><td class="tt-ja" lang="ja"><div class="poem">ただ、気持ち良さとは裏腹に隙だらけでそんなに難しく出来ないという問題もある。</div></td><td class="tt-zh" lang="zh"><div class="poem">只是，与欢乐相反，这招的问题是破绽多多，而且不是那么难。<br></div></td></tr><tr class="tt-content" id="=-23" data-pos="&#91;&quot;=&quot;,23&#93;"><td class="tt-ja" lang="ja"><div class="poem">ちなみにミニ八卦炉を使ってレーザーを出している訳だが、改造して拡散マスタースパークが出るように研究中だ。</div></td><td class="tt-zh" lang="zh"><div class="poem">顺便说一下，虽然这个是用迷你八卦炉放出的激光，目前正在研究怎样去改造才能放出扩散性的极限火花。<br></div></td></tr><tr class="tt-content" id="=-24" data-pos="&#91;&quot;=&quot;,24&#93;"><td class="tt-ja" lang="ja"><div class="poem">威力が弱くても拡散した方が強い。それが弾幕だからな。</div></td><td class="tt-zh" lang="zh"><div class="poem">就算威力下降也不要紧，还是扩散的比较强。因为那是弹幕啊。<br></div></td></tr></tbody></table>
 
 
 ### 宇佐见的魔法书
 
-<table><tbody><tr class="tt-content-header" id="=-1" data-pos="&#91;&quot;=&quot;,1&#93;"><td class="tt-jah" lang="ja"><div class="poem">恋符「マスタースパークのような懐中電灯」</div></td><td class="tt-zhh" lang="zh"><div class="poem"><a href="/%E6%81%8B%E7%AC%A6%E3%80%8CMaster_Spark%E4%B8%80%E8%88%AC%E7%9A%84%E6%89%8B%E7%94%B5%E7%AD%92%E3%80%8D" class="mw-redirect" title="恋符「Master Spark一般的手电筒」">恋符「Master Spark一般的手电筒」</a></div></td></tr><tr class="tt-content" id="=-2" data-pos="&#91;&quot;=&quot;,2&#93;"><td class="tt-ja" lang="ja"><div class="poem">使用者：霧雨魔理沙</div></td><td class="tt-zh" lang="zh"><div class="poem">使用者：<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a></div></td></tr><tr class="tt-content-header" id="=-3" data-pos="&#91;&quot;=&quot;,3&#93;"><td class="tt-jah" lang="ja"><div class="poem">使用者より</div></td><td class="tt-zhh" lang="zh"><div class="poem">使用者自述</div></td></tr><tr class="tt-content" id="=-4" data-pos="&#91;&quot;=&quot;,4&#93;"><td class="tt-ja" lang="ja"><div class="poem">花火大会開幕はド派手なマスタースパークで決まり！と言いたいところだが死人が出るといけないからな。派手さが雰囲気だけでも味わえる様なイミテーションスペルカードを用意したぜ。みんなは人に懐中電灯を向けちゃいけないぞ。やる気が無くなるからな。</div></td><td class="tt-zh" lang="zh"><div class="poem">烟花大会开幕之际就用极为华丽的极限火花一锤定音！虽然想这么说但万一出了人命就不好了。所以我准备了能够体验一下华丽气氛的模拟符卡。大家都不要把手电筒对着别人。会让对方失去干劲的。</div></td></tr><tr class="tt-header" id="=-5" data-pos="&#91;&quot;=&quot;,5&#93;"><td colspan="2" id="博丽灵梦（3）" class="tt-header" lang="zh"><div class="poem">博丽灵梦（3）</div></td></tr><tr class="tt-content" id="=-6" data-pos="&#91;&quot;=&quot;,6&#93;"><td class="tt-ja" lang="ja"><div class="poem">あれ？マスタースパークってこんなにチープな光だったつけ？</div></td><td class="tt-zh" lang="zh"><div class="poem">咦？极限火花的光看起来这么廉价来着吗？</div></td></tr><tr class="tt-header" id="=-7" data-pos="&#91;&quot;=&quot;,7&#93;"><td colspan="2" id="宇佐见堇子（8）" class="tt-header" lang="zh"><div class="poem">宇佐见堇子（8）</div></td></tr><tr class="tt-content" id="=-8" data-pos="&#91;&quot;=&quot;,8&#93;"><td class="tt-ja" lang="ja"><div class="poem">大粒の星が綺麗です。オーソドックスな花火に直線の光がアクセントとなってると思います。</div></td><td class="tt-zh" lang="zh"><div class="poem">大颗的星星很漂亮。我认为这是非常正统的烟花而直线型的光对其起到了强调的作用。</div></td></tr><tr class="tt-header" id="=-9" data-pos="&#91;&quot;=&quot;,9&#93;"><td colspan="2" id="东风谷早苗（6）" class="tt-header" lang="zh"><div class="poem">东风谷早苗（6）</div></td></tr><tr class="tt-content" id="=-10" data-pos="&#91;&quot;=&quot;,10&#93;"><td class="tt-ja" lang="ja"><div class="poem">懐中電灯だけじゃ光量が足りなくて、星弾をばらまいてる辺リが姑息……。</div></td><td class="tt-zh" lang="zh"><div class="poem">只用手电筒光量不足因而不得已散布星弹，实在是过于敷衍……</div></td></tr><tr class="tt-header" id="=-11" data-pos="&#91;&quot;=&quot;,11&#93;"><td colspan="2" id="十六夜咲夜（4）" class="tt-header" lang="zh"><div class="poem">十六夜咲夜（4）</div></td></tr><tr class="tt-content" id="=-12" data-pos="&#91;&quot;=&quot;,12&#93;"><td class="tt-ja" lang="ja"><div class="poem">眩しくてよく見てなかったけど、もしかしてもう終わったの？</div></td><td class="tt-zh" lang="zh"><div class="poem">太耀眼了没怎么细看，难道说已经结束了吗？</div></td></tr><tr class="tt-header" id="=-13" data-pos="&#91;&quot;=&quot;,13&#93;"><td colspan="2" id="魂魄妖梦（8）" class="tt-header" lang="zh"><div class="poem">魂魄妖梦（8）</div></td></tr><tr class="tt-content" id="=-14" data-pos="&#91;&quot;=&quot;,14&#93;"><td class="tt-ja" lang="ja"><div class="poem">凄いです！　あんなに光る懐中電灯があるなんて知らなかったです！</div></td><td class="tt-zh" lang="zh"><div class="poem">很厉害！ 没想到有那么亮的手电筒！</div></td></tr><tr class="tt-content-header" id="=-15" data-pos="&#91;&quot;=&quot;,15&#93;"><td class="tt-jah" lang="ja"><div class="poem">総合評価（5）</div></td><td class="tt-zhh" lang="zh"><div class="poem">综合评价（5）</div></td></tr><tr class="tt-content" id="=-16" data-pos="&#91;&quot;=&quot;,16&#93;"><td class="tt-ja" lang="ja"><div class="poem">一見派手だが、純粋な弾幕として見るとひねリもなく、密度、華麗さ、独創性、全てにおいて欠けている。それを弾幕とは関係無い懐中電灯で誤魔化している辺リに使用者の肝の小ささを感じる。ただし、観客の安全面を考慮した点は評価できる。</div></td><td class="tt-zh" lang="zh"><div class="poem">乍一看很起眼，但以纯粹的弹幕角度来看毫无创意，在密度、华丽程度、独创性上，均有所欠缺。而且通过与弹幕毫无关系的手电筒来敷衍可见使用者之胆小。只不过，顾及了观众的安全这一点值得赞赏。</div></td></tr></tbody></table>
+<table><tbody><tr class="tt-content-header" id="=-1" data-pos="&#91;&quot;=&quot;,1&#93;"><td class="tt-jah" lang="ja"><div class="poem">恋符「マスタースパークのような懐中電灯」</div></td><td class="tt-zhh" lang="zh"><div class="poem"><a href="./Master_Spark.md" class="mw-redirect" title="恋符「Master Spark一般的手电筒」">恋符「Master Spark一般的手电筒」</a></div></td></tr><tr class="tt-content" id="=-2" data-pos="&#91;&quot;=&quot;,2&#93;"><td class="tt-ja" lang="ja"><div class="poem">使用者：霧雨魔理沙</div></td><td class="tt-zh" lang="zh"><div class="poem">使用者：<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a></div></td></tr><tr class="tt-content-header" id="=-3" data-pos="&#91;&quot;=&quot;,3&#93;"><td class="tt-jah" lang="ja"><div class="poem">使用者より</div></td><td class="tt-zhh" lang="zh"><div class="poem">使用者自述</div></td></tr><tr class="tt-content" id="=-4" data-pos="&#91;&quot;=&quot;,4&#93;"><td class="tt-ja" lang="ja"><div class="poem">花火大会開幕はド派手なマスタースパークで決まり！と言いたいところだが死人が出るといけないからな。派手さが雰囲気だけでも味わえる様なイミテーションスペルカードを用意したぜ。みんなは人に懐中電灯を向けちゃいけないぞ。やる気が無くなるからな。</div></td><td class="tt-zh" lang="zh"><div class="poem">烟花大会开幕之际就用极为华丽的极限火花一锤定音！虽然想这么说但万一出了人命就不好了。所以我准备了能够体验一下华丽气氛的模拟符卡。大家都不要把手电筒对着别人。会让对方失去干劲的。</div></td></tr><tr class="tt-header" id="=-5" data-pos="&#91;&quot;=&quot;,5&#93;"><td colspan="2" id="博丽灵梦（3）" class="tt-header" lang="zh"><div class="poem">博丽灵梦（3）</div></td></tr><tr class="tt-content" id="=-6" data-pos="&#91;&quot;=&quot;,6&#93;"><td class="tt-ja" lang="ja"><div class="poem">あれ？マスタースパークってこんなにチープな光だったつけ？</div></td><td class="tt-zh" lang="zh"><div class="poem">咦？极限火花的光看起来这么廉价来着吗？</div></td></tr><tr class="tt-header" id="=-7" data-pos="&#91;&quot;=&quot;,7&#93;"><td colspan="2" id="宇佐见堇子（8）" class="tt-header" lang="zh"><div class="poem">宇佐见堇子（8）</div></td></tr><tr class="tt-content" id="=-8" data-pos="&#91;&quot;=&quot;,8&#93;"><td class="tt-ja" lang="ja"><div class="poem">大粒の星が綺麗です。オーソドックスな花火に直線の光がアクセントとなってると思います。</div></td><td class="tt-zh" lang="zh"><div class="poem">大颗的星星很漂亮。我认为这是非常正统的烟花而直线型的光对其起到了强调的作用。</div></td></tr><tr class="tt-header" id="=-9" data-pos="&#91;&quot;=&quot;,9&#93;"><td colspan="2" id="东风谷早苗（6）" class="tt-header" lang="zh"><div class="poem">东风谷早苗（6）</div></td></tr><tr class="tt-content" id="=-10" data-pos="&#91;&quot;=&quot;,10&#93;"><td class="tt-ja" lang="ja"><div class="poem">懐中電灯だけじゃ光量が足りなくて、星弾をばらまいてる辺リが姑息……。</div></td><td class="tt-zh" lang="zh"><div class="poem">只用手电筒光量不足因而不得已散布星弹，实在是过于敷衍……</div></td></tr><tr class="tt-header" id="=-11" data-pos="&#91;&quot;=&quot;,11&#93;"><td colspan="2" id="十六夜咲夜（4）" class="tt-header" lang="zh"><div class="poem">十六夜咲夜（4）</div></td></tr><tr class="tt-content" id="=-12" data-pos="&#91;&quot;=&quot;,12&#93;"><td class="tt-ja" lang="ja"><div class="poem">眩しくてよく見てなかったけど、もしかしてもう終わったの？</div></td><td class="tt-zh" lang="zh"><div class="poem">太耀眼了没怎么细看，难道说已经结束了吗？</div></td></tr><tr class="tt-header" id="=-13" data-pos="&#91;&quot;=&quot;,13&#93;"><td colspan="2" id="魂魄妖梦（8）" class="tt-header" lang="zh"><div class="poem">魂魄妖梦（8）</div></td></tr><tr class="tt-content" id="=-14" data-pos="&#91;&quot;=&quot;,14&#93;"><td class="tt-ja" lang="ja"><div class="poem">凄いです！　あんなに光る懐中電灯があるなんて知らなかったです！</div></td><td class="tt-zh" lang="zh"><div class="poem">很厉害！ 没想到有那么亮的手电筒！</div></td></tr><tr class="tt-content-header" id="=-15" data-pos="&#91;&quot;=&quot;,15&#93;"><td class="tt-jah" lang="ja"><div class="poem">総合評価（5）</div></td><td class="tt-zhh" lang="zh"><div class="poem">综合评价（5）</div></td></tr><tr class="tt-content" id="=-16" data-pos="&#91;&quot;=&quot;,16&#93;"><td class="tt-ja" lang="ja"><div class="poem">一見派手だが、純粋な弾幕として見るとひねリもなく、密度、華麗さ、独創性、全てにおいて欠けている。それを弾幕とは関係無い懐中電灯で誤魔化している辺リに使用者の肝の小ささを感じる。ただし、観客の安全面を考慮した点は評価できる。</div></td><td class="tt-zh" lang="zh"><div class="poem">乍一看很起眼，但以纯粹的弹幕角度来看毫无创意，在密度、华丽程度、独创性上，均有所欠缺。而且通过与弹幕毫无关系的手电筒来敷衍可见使用者之胆小。只不过，顾及了观众的安全这一点值得赞赏。</div></td></tr></tbody></table>
 
 
-
-<table><tbody><tr class="tt-content-header" id="=-1" data-pos="&#91;&quot;=&quot;,1&#93;"><td class="tt-jah" lang="ja"><div class="poem">恋符「マシンガンスパーク」</div></td><td class="tt-zhh" lang="zh"><div class="poem"><a href="/%E6%81%8B%E7%AC%A6%E3%80%8CMachine_Gun_Spark%E3%80%8D" class="mw-redirect" title="恋符「Machine Gun Spark」">恋符「Machine Gun Spark」</a></div></td></tr><tr class="tt-content" id="=-2" data-pos="&#91;&quot;=&quot;,2&#93;"><td class="tt-ja" lang="ja"><div class="poem">使用者：霧雨魔理沙</div></td><td class="tt-zh" lang="zh"><div class="poem">使用者：<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a></div></td></tr><tr class="tt-content-header" id="=-3" data-pos="&#91;&quot;=&quot;,3&#93;"><td class="tt-jah" lang="ja"><div class="poem">使用者より</div></td><td class="tt-zhh" lang="zh"><div class="poem">使用者自述</div></td></tr><tr class="tt-content" id="=-4" data-pos="&#91;&quot;=&quot;,4&#93;"><td class="tt-ja" lang="ja"><div class="poem">ちょっと出場者が足りないみたいだからな……。もう一回出させて貰うぜ。一人で何回も出ていいみたいだし。今度は、イミテーションではない本物の火を見せるぜ。と言っても、火事にならない程度に単発で……。</div></td><td class="tt-zh" lang="zh"><div class="poem">出场人数好像有点不够……那我就再出场一次吧。反正每个人出场次数并没有上限。这次不玩模仿了，让你们看看真正的火吧。当然只能用单发，引发大火可就不好了……</div></td></tr><tr class="tt-header" id="=-5" data-pos="&#91;&quot;=&quot;,5&#93;"><td colspan="2" id="博丽灵梦（5）" class="tt-header" lang="zh"><div class="poem">博丽灵梦（5）</div></td></tr><tr class="tt-content" id="=-6" data-pos="&#91;&quot;=&quot;,6&#93;"><td class="tt-ja" lang="ja"><div class="poem">うーん、もっと激しくマスタースパークを撃っても良いんじゃない？　たしかに安全面の問題もあるけど……。</div></td><td class="tt-zh" lang="zh"><div class="poem">唔，我感觉用更刺激的极限火花也没什么吧？　虽然我明白安全第一啦……</div></td></tr><tr class="tt-header" id="=-7" data-pos="&#91;&quot;=&quot;,7&#93;"><td colspan="2" id="宇佐见堇子（8）" class="tt-header" lang="zh"><div class="poem">宇佐见堇子（8）</div></td></tr><tr class="tt-content" id="=-8" data-pos="&#91;&quot;=&quot;,8&#93;"><td class="tt-ja" lang="ja"><div class="poem">やっぱり火を使うと迫力が出ますね。もっともっとやっちゃいましょう！</div></td><td class="tt-zh" lang="zh"><div class="poem">还是火有魄力啊，再来再来、再热烈一点吧！</div></td></tr><tr class="tt-header" id="=-9" data-pos="&#91;&quot;=&quot;,9&#93;"><td colspan="2" id="十六夜咲夜（5）" class="tt-header" lang="zh"><div class="poem">十六夜咲夜（5）</div></td></tr><tr class="tt-content" id="=-10" data-pos="&#91;&quot;=&quot;,10&#93;"><td class="tt-ja" lang="ja"><div class="poem">日和ってますねぇ。そんなしょぼいマスタースパークは見たくないわ。</div></td><td class="tt-zh" lang="zh"><div class="poem">畏手畏脚的，我不想看这种没水准的极限火花啊。</div></td></tr><tr class="tt-header" id="=-11" data-pos="&#91;&quot;=&quot;,11&#93;"><td colspan="2" id="东风谷早苗（8）" class="tt-header" lang="zh"><div class="poem">东风谷早苗（8）</div></td></tr><tr class="tt-content" id="=-12" data-pos="&#91;&quot;=&quot;,12&#93;"><td class="tt-ja" lang="ja"><div class="poem">イベントを盛り上げる為に頑張ってますねぇ。私も考えようかな。</div></td><td class="tt-zh" lang="zh"><div class="poem">为了将活动推向高潮，她也花了不少心思呢。我也来动动脑吧。</div></td></tr><tr class="tt-header" id="=-13" data-pos="&#91;&quot;=&quot;,13&#93;"><td colspan="2" id="魂魄妖梦（8）" class="tt-header" lang="zh"><div class="poem">魂魄妖梦（8）</div></td></tr><tr class="tt-content" id="=-14" data-pos="&#91;&quot;=&quot;,14&#93;"><td class="tt-ja" lang="ja"><div class="poem">実際にはもっと激しいマスタースパークも撃てると思うけど、実はこの方が難しいのでは？</div></td><td class="tt-zh" lang="zh"><div class="poem">再激烈很多的极限火花也不在她的话下，要控制在这个力道上其实更难吧？</div></td></tr><tr class="tt-content-header" id="=-15" data-pos="&#91;&quot;=&quot;,15&#93;"><td class="tt-jah" lang="ja"><div class="poem">総合評価（7）</div></td><td class="tt-zhh" lang="zh"><div class="poem">综合评价（7）</div></td></tr><tr class="tt-content" id="=-16" data-pos="&#91;&quot;=&quot;,16&#93;"><td class="tt-ja" lang="ja"><div class="poem">集中した光の塊から現れる星が美しい。迫力もまあまああった。何より、早くも参加者切れとなってしまったイベントを救おうという優しさが評価できる。</div></td><td class="tt-zh" lang="zh"><div class="poem">集束的光团中蹦出的星星很美，魄力也还行。但最值得称赞的一点，还是她为了挽救参加人数迅速不足的大会，而拼上全力的这份温柔的心意吧。</div></td></tr></tbody></table>
+<table><tbody><tr class="tt-content-header" id="=-1" data-pos="&#91;&quot;=&quot;,1&#93;"><td class="tt-jah" lang="ja"><div class="poem">恋符「マシンガンスパーク」</div></td><td class="tt-zhh" lang="zh"><div class="poem"><a href="./Master_Spark.md" class="mw-redirect" title="恋符「Machine Gun Spark」">恋符「Machine Gun Spark」</a></div></td></tr><tr class="tt-content" id="=-2" data-pos="&#91;&quot;=&quot;,2&#93;"><td class="tt-ja" lang="ja"><div class="poem">使用者：霧雨魔理沙</div></td><td class="tt-zh" lang="zh"><div class="poem">使用者：<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a></div></td></tr><tr class="tt-content-header" id="=-3" data-pos="&#91;&quot;=&quot;,3&#93;"><td class="tt-jah" lang="ja"><div class="poem">使用者より</div></td><td class="tt-zhh" lang="zh"><div class="poem">使用者自述</div></td></tr><tr class="tt-content" id="=-4" data-pos="&#91;&quot;=&quot;,4&#93;"><td class="tt-ja" lang="ja"><div class="poem">ちょっと出場者が足りないみたいだからな……。もう一回出させて貰うぜ。一人で何回も出ていいみたいだし。今度は、イミテーションではない本物の火を見せるぜ。と言っても、火事にならない程度に単発で……。</div></td><td class="tt-zh" lang="zh"><div class="poem">出场人数好像有点不够……那我就再出场一次吧。反正每个人出场次数并没有上限。这次不玩模仿了，让你们看看真正的火吧。当然只能用单发，引发大火可就不好了……</div></td></tr><tr class="tt-header" id="=-5" data-pos="&#91;&quot;=&quot;,5&#93;"><td colspan="2" id="博丽灵梦（5）" class="tt-header" lang="zh"><div class="poem">博丽灵梦（5）</div></td></tr><tr class="tt-content" id="=-6" data-pos="&#91;&quot;=&quot;,6&#93;"><td class="tt-ja" lang="ja"><div class="poem">うーん、もっと激しくマスタースパークを撃っても良いんじゃない？　たしかに安全面の問題もあるけど……。</div></td><td class="tt-zh" lang="zh"><div class="poem">唔，我感觉用更刺激的极限火花也没什么吧？　虽然我明白安全第一啦……</div></td></tr><tr class="tt-header" id="=-7" data-pos="&#91;&quot;=&quot;,7&#93;"><td colspan="2" id="宇佐见堇子（8）" class="tt-header" lang="zh"><div class="poem">宇佐见堇子（8）</div></td></tr><tr class="tt-content" id="=-8" data-pos="&#91;&quot;=&quot;,8&#93;"><td class="tt-ja" lang="ja"><div class="poem">やっぱり火を使うと迫力が出ますね。もっともっとやっちゃいましょう！</div></td><td class="tt-zh" lang="zh"><div class="poem">还是火有魄力啊，再来再来、再热烈一点吧！</div></td></tr><tr class="tt-header" id="=-9" data-pos="&#91;&quot;=&quot;,9&#93;"><td colspan="2" id="十六夜咲夜（5）" class="tt-header" lang="zh"><div class="poem">十六夜咲夜（5）</div></td></tr><tr class="tt-content" id="=-10" data-pos="&#91;&quot;=&quot;,10&#93;"><td class="tt-ja" lang="ja"><div class="poem">日和ってますねぇ。そんなしょぼいマスタースパークは見たくないわ。</div></td><td class="tt-zh" lang="zh"><div class="poem">畏手畏脚的，我不想看这种没水准的极限火花啊。</div></td></tr><tr class="tt-header" id="=-11" data-pos="&#91;&quot;=&quot;,11&#93;"><td colspan="2" id="东风谷早苗（8）" class="tt-header" lang="zh"><div class="poem">东风谷早苗（8）</div></td></tr><tr class="tt-content" id="=-12" data-pos="&#91;&quot;=&quot;,12&#93;"><td class="tt-ja" lang="ja"><div class="poem">イベントを盛り上げる為に頑張ってますねぇ。私も考えようかな。</div></td><td class="tt-zh" lang="zh"><div class="poem">为了将活动推向高潮，她也花了不少心思呢。我也来动动脑吧。</div></td></tr><tr class="tt-header" id="=-13" data-pos="&#91;&quot;=&quot;,13&#93;"><td colspan="2" id="魂魄妖梦（8）" class="tt-header" lang="zh"><div class="poem">魂魄妖梦（8）</div></td></tr><tr class="tt-content" id="=-14" data-pos="&#91;&quot;=&quot;,14&#93;"><td class="tt-ja" lang="ja"><div class="poem">実際にはもっと激しいマスタースパークも撃てると思うけど、実はこの方が難しいのでは？</div></td><td class="tt-zh" lang="zh"><div class="poem">再激烈很多的极限火花也不在她的话下，要控制在这个力道上其实更难吧？</div></td></tr><tr class="tt-content-header" id="=-15" data-pos="&#91;&quot;=&quot;,15&#93;"><td class="tt-jah" lang="ja"><div class="poem">総合評価（7）</div></td><td class="tt-zhh" lang="zh"><div class="poem">综合评价（7）</div></td></tr><tr class="tt-content" id="=-16" data-pos="&#91;&quot;=&quot;,16&#93;"><td class="tt-ja" lang="ja"><div class="poem">集中した光の塊から現れる星が美しい。迫力もまあまああった。何より、早くも参加者切れとなってしまったイベントを救おうという優しさが評価できる。</div></td><td class="tt-zh" lang="zh"><div class="poem">集束的光团中蹦出的星星很美，魄力也还行。但最值得称赞的一点，还是她为了挽救参加人数迅速不足的大会，而拼上全力的这份温柔的心意吧。</div></td></tr></tbody></table>
 
 
 ## 其他内容
+
 ### 游戏资料
-  
 <big>
-</big>  
-<big>- [游戏资料](./Master_Spark-游戏资料.md)
-</big><big></big>  
-<big></big>
-  
+- [游戏资料](./Master_Spark-游戏资料.md)
 
+</big>
 ### 分析考据
-  
 <big>
-</big>  
-<big>- [分析与考据](./Master_Spark-分析与考据.md)
-</big><big></big>  
-<big></big>
-  
+- [分析与考据](./Master_Spark-分析与考据.md)
 
-## 导航
-
-<table><tbody><tr><td><table cellspacing="0" class="nowraplinks mw-collapsible mw-collapsed" style="width:100%;;;"><tbody><tr><th style=";" colspan="3" class="navbox-title"><div class="navbar"><div class="noprint plainlinksneverexpand" style="background-color:transparent; padding:0; font-weight:normal; font-size:80%; white-space:nowrap;"><a href="./模板-雾雨魔理沙符卡导航.md" title="模板:雾雨魔理沙符卡导航"><span style=";;border:none;" title="查看这个模板">查</span></a>&#160;<span style="font-size:80%;">•</span>&#160;<a href="/index.php?title=%E6%A8%A1%E6%9D%BF:%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%E7%AC%A6%E5%8D%A1%E5%AF%BC%E8%88%AA&amp;action=edit"><span style=";;border:none;" title="您可以编辑这个模板。请在储存变更之前先预览">编</span></a></div></div><span><a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a>符卡</span></th></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">射击游戏</td><td style=";;" class="navbox-list navbox-odd"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div><a href="./东方红魔乡.md" title="东方红魔乡">东方红魔乡</a></div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="/%E9%AD%94%E7%AC%A6%E3%80%8CStardust_Reverie%E3%80%8D" class="mw-redirect" title="魔符「Stardust Reverie」">魔符「Stardust Reverie」</a> &#8226; <a href="/%E6%81%8B%E7%AC%A6%E3%80%8CMaster_Spark%E3%80%8D" class="mw-redirect" title="恋符「Master Spark」">恋符「Master Spark」</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div><a href="./东方妖妖梦.md" title="东方妖妖梦">东方妖妖梦</a></div></td><td style=";;" class="navbox-list navbox-even"><div><a href="/%E9%AD%94%E7%AC%A6%E3%80%8CStardust_Reverie%E3%80%8D" class="mw-redirect" title="魔符「Stardust Reverie」">魔符「Stardust Reverie」</a> &#8226; <a href="/%E9%AD%94%E7%AC%A6%E3%80%8CMilky_Way%E3%80%8D" class="mw-redirect" title="魔符「Milky Way」">魔符「Milky Way」</a> &#8226; <a href="/%E6%81%8B%E7%AC%A6%E3%80%8CNon-Directional_Laser%E3%80%8D" class="mw-redirect" title="恋符「Non-Directional Laser」">恋符「Non-Directional Laser」</a> &#8226; <a href="/%E6%81%8B%E7%AC%A6%E3%80%8CMaster_Spark%E3%80%8D" class="mw-redirect" title="恋符「Master Spark」">恋符「Master Spark」</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div><a href="./东方永夜抄.md" title="东方永夜抄">东方永夜抄</a></div></td><td style=";;" class="navbox-list navbox-odd"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>自机符卡</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="/%E6%81%8B%E7%AC%A6%E3%80%8CMaster_Spark%E3%80%8D" class="mw-redirect" title="恋符「Master Spark」">恋符「Master Spark」</a> &#8226; <a href="/%E9%AD%94%E7%82%AE%E3%80%8CFinal_Spark%E3%80%8D" class="mw-redirect" title="魔炮「Final Spark」">魔炮「Final Spark」</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>敌机符卡</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="/%E9%AD%94%E7%AC%A6%E3%80%8CMilky_Way%E3%80%8D" class="mw-redirect" title="魔符「Milky Way」">魔符「Milky Way」</a> &#8226; <a href="/%E9%AD%94%E7%A9%BA%E3%80%8CAsteroid_Belt%E3%80%8D" class="mw-redirect" title="魔空「Asteroid Belt」">魔空「Asteroid Belt」</a> &#8226; <a href="/%E9%AD%94%E7%AC%A6%E3%80%8CStardust_Reverie%E3%80%8D" class="mw-redirect" title="魔符「Stardust Reverie」">魔符「Stardust Reverie」</a> &#8226; <a href="/%E9%BB%91%E9%AD%94%E3%80%8CEvent_Horizon%E3%80%8D" class="mw-redirect" title="黑魔「Event Horizon」">黑魔「Event Horizon」</a> &#8226; <a href="/%E6%81%8B%E7%AC%A6%E3%80%8CNon-Directional_Laser%E3%80%8D" class="mw-redirect" title="恋符「Non-Directional Laser」">恋符「Non-Directional Laser」</a> &#8226; <a href="/%E6%81%8B%E9%A3%8E%E3%80%8CStarlight_Typhoon%E3%80%8D" class="mw-redirect" title="恋风「Starlight Typhoon」">恋风「Starlight Typhoon」</a> &#8226; <a href="/%E6%81%8B%E7%AC%A6%E3%80%8CMaster_Spark%E3%80%8D" class="mw-redirect" title="恋符「Master Spark」">恋符「Master Spark」</a> &#8226; <a href="/%E6%81%8B%E5%BF%83%E3%80%8CDouble_Spark%E3%80%8D" class="mw-redirect" title="恋心「Double Spark」">恋心「Double Spark」</a> &#8226; <a href="/%E5%85%89%E7%AC%A6%E3%80%8CEarth_Light_Ray%E3%80%8D" class="mw-redirect" title="光符「Earth Light Ray」">光符「Earth Light Ray」</a> &#8226; <a href="/%E5%85%89%E5%87%BB%E3%80%8CShoot_the_Moon%E3%80%8D" class="mw-redirect" title="光击「Shoot the Moon」">光击「Shoot the Moon」</a> &#8226; <a href="/%E9%AD%94%E7%82%AE%E3%80%8CFinal_Spark%E3%80%8D" class="mw-redirect" title="魔炮「Final Spark」">魔炮「Final Spark」</a> &#8226; <a href="/%E9%AD%94%E7%82%AE%E3%80%8CFinal_Master_Spark%E3%80%8D" class="mw-redirect" title="魔炮「Final Master Spark」">魔炮「Final Master Spark」</a> &#8226; <a href="/%E3%80%8CBlazing_Star%E3%80%8D" class="mw-redirect" title="「Blazing Star」">「Blazing Star」</a></div></td></tr></tbody></table><div></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div><a href="./东方花映塚.md" title="东方花映塚">东方花映塚</a></div></td><td style=";;" class="navbox-list navbox-even"><div><a href="/%E9%AD%94%E7%AC%A6%E3%80%8CStardust%E3%80%8D" class="mw-redirect" title="魔符「Stardust」">魔符「Stardust」</a> &#8226; <a href="/%E9%AD%94%E7%AC%A6%E3%80%8CStardust_Reverie%E3%80%8D" class="mw-redirect" title="魔符「Stardust Reverie」">魔符「Stardust Reverie」</a> &#8226; <a href="/%E9%AD%94%E7%AC%A6%E3%80%8CIllusion_Star%E3%80%8D" class="mw-redirect" title="魔符「Illusion Star」">魔符「Illusion Star」</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div><a href="./东方地灵殿.md" title="东方地灵殿">东方地灵殿</a></div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="/%E3%80%8CRemote_Sacrifice%E3%80%8D" class="mw-redirect" title="「Remote Sacrifice」">「Remote Sacrifice」</a> &#8226; <a href="/%E3%80%8CFive_Season%E3%80%8D" class="mw-redirect" title="「Five Season」">「Five Season」</a> &#8226; <a href="/%E3%80%8COptical_Camouflage%E3%80%8D" class="mw-redirect" title="「Optical Camouflage」">「Optical Camouflage」</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div><a href="./东方星莲船.md" title="东方星莲船">东方星莲船</a></div></td><td style=";;" class="navbox-list navbox-even"><div><a href="/%E6%81%8B%E7%AC%A6%E3%80%8CMaster_Spark%E3%80%8D" class="mw-redirect" title="恋符「Master Spark」">恋符「Master Spark」</a> &#8226; <a href="/%E9%AD%94%E7%AC%A6%E3%80%8CUltimate_Shortwave%E3%80%8D" class="mw-redirect" title="魔符「Ultimate Shortwave」">魔符「Ultimate Shortwave」</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div><a href="./东方文花帖DS.md" title="东方文花帖DS">东方文花帖DS</a></div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="/%E6%98%9F%E7%AC%A6%E3%80%8COort_Cloud%E3%80%8D" class="mw-redirect" title="星符「Oort Cloud」">星符「Oort Cloud」</a> &#8226; <a href="/%E5%A4%A9%E4%BB%AA%E3%80%8COrrery%27s_Solar_System%E3%80%8D" class="mw-redirect" title="天仪「Orrery&#39;s Solar System」">天仪「Orrery's Solar System」</a> &#8226; <a href="/%E5%BD%97%E6%98%9F%E3%80%8CBlazing_Star%E3%80%8D" class="mw-redirect" title="彗星「Blazing Star」">彗星「Blazing Star」</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div><a href="./妖精大战争.md" title="妖精大战争">妖精大战争</a></div></td><td style=";;" class="navbox-list navbox-even"><div><a href="/%E5%85%89%E7%AC%A6%E3%80%8CMysterious_Beam%E3%80%8D" class="mw-redirect" title="光符「Mysterious Beam」">光符「Mysterious Beam」</a> &#8226; <a href="/%E5%85%89%E5%87%BB%E3%80%8CShoot_the_Little_Moon%E3%80%8D" class="mw-redirect" title="光击「Shoot the Little Moon」">光击「Shoot the Little Moon」</a> &#8226; <a href="/%E9%AD%94%E5%BC%B9%E3%80%8CTest_Slave%E3%80%8D" class="mw-redirect" title="魔弹「Test Slave」">魔弹「Test Slave」</a> &#8226; <a href="/%E9%97%AD%E7%AC%A6%E3%80%8CBig_Crunch%E3%80%8D" class="mw-redirect" title="闭符「Big Crunch」">闭符「Big Crunch」</a> &#8226; <a href="/%E6%81%8B%E7%AC%A6%E3%80%8CMaster_Spark%E4%B8%80%E8%88%AC%E7%9A%84%E6%89%8B%E7%94%B5%E7%AD%92%E3%80%8D" class="mw-redirect" title="恋符「Master Spark一般的手电筒」">恋符「Master Spark一般的手电筒」</a> &#8226; <a href="/%E9%AD%94%E5%BC%80%E3%80%8COpen_Universe%E3%80%8D" class="mw-redirect" title="魔开「Open Universe」">魔开「Open Universe」</a> &#8226; <a href="/%E9%AD%94%E5%8D%81%E5%AD%97%E3%80%8CGrand_Cross%E3%80%8D" class="mw-redirect" title="魔十字「Grand Cross」">魔十字「Grand Cross」</a> &#8226; <a href="/%E6%B5%81%E6%98%9F%E3%80%8CSuper_Perseids%E3%80%8D" class="mw-redirect" title="流星「Super Perseids」">流星「Super Perseids」</a> &#8226; <a href="/%E3%80%8CBlazing_Star%E4%B8%80%E8%88%AC%E7%9A%84%E6%8D%89%E8%BF%B7%E8%97%8F%E3%80%8D" class="mw-redirect" title="「Blazing Star一般的捉迷藏」">「Blazing Star一般的捉迷藏」</a> &#8226; <a href="/%E3%80%8C%E5%A6%96%E7%B2%BE%E5%B0%BD%E7%81%AD%E5%85%89%E3%80%8D" class="mw-redirect" title="「妖精尽灭光」">「妖精尽灭光」</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div><a href="./东方神灵庙.md" title="东方神灵庙">东方神灵庙</a></div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="/%E6%81%8B%E7%AC%A6%E3%80%8CMaster_Spark%E3%80%8D" class="mw-redirect" title="恋符「Master Spark」">恋符「Master Spark」</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div><a href="./东方辉针城.md" title="东方辉针城">东方辉针城</a></div></td><td style=";;" class="navbox-list navbox-even"><div><a href="/%E5%A6%96%E5%99%A8%E3%80%8CDark_Spark%E3%80%8D" class="mw-redirect" title="妖器「Dark Spark」">妖器「Dark Spark」</a> &#8226; <a href="./Magic_Absorber.md" title="Magic Absorber">Magic Absorber</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div><a href="./弹幕天邪鬼.md" title="弹幕天邪鬼">弹幕天邪鬼</a></div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="/%E6%81%8B%E7%AC%A6%E3%80%8CWide_Master%E3%80%8D" class="mw-redirect" title="恋符「Wide Master」">恋符「Wide Master」</a> &#8226; <a href="/%E6%81%8B%E7%AC%A6%E3%80%8CMachine_Gun_Spark%E3%80%8D" class="mw-redirect" title="恋符「Machine Gun Spark」">恋符「Machine Gun Spark」</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div><a href="./东方绀珠传.md" title="东方绀珠传">东方绀珠传</a></div></td><td style=";;" class="navbox-list navbox-even"><div><a href="/%E6%81%8B%E7%AC%A6%E3%80%8CMaster_Spark%E3%80%8D" class="mw-redirect" title="恋符「Master Spark」">恋符「Master Spark」</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div><a href="./东方天空璋.md" title="东方天空璋">东方天空璋</a></div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="/%E6%81%8B%E7%AC%A6%E3%80%8CMaster_Spark_Frozen%E3%80%8D" class="mw-redirect" title="恋符「Master Spark Frozen」">恋符「Master Spark Frozen」</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div><a href="./秘封噩梦日记.md" title="秘封噩梦日记">秘封噩梦日记</a></div></td><td style=";;" class="navbox-list navbox-even"><div><a href="/%E3%80%8C%E5%81%B7%E6%8B%8D%E8%80%85%E9%99%8D%E4%BC%8F%E6%9E%81%E9%99%90%E7%81%AB%E8%8A%B1%E3%80%8D" class="mw-redirect" title="「偷拍者降伏极限火花」">「偷拍者降伏极限火花」</a> &#8226; <a href="/%E3%80%8C%E5%87%BB%E7%A9%BF%E5%BC%B9%E5%B9%95%E7%BB%93%E7%95%8C%E5%90%A7%EF%BC%81%E3%80%8D" class="mw-redirect" title="「击穿弹幕结界吧！」">「击穿弹幕结界吧！」</a> &#8226; <a href="/%E3%80%8C%E5%8D%91%E9%84%99%E8%80%85%E6%9E%81%E9%99%90%E7%81%AB%E8%8A%B1%E3%80%8D" class="mw-redirect" title="「卑鄙者极限火花」">「卑鄙者极限火花」</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div><a href="./东方鬼形兽.md" title="东方鬼形兽">东方鬼形兽</a></div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="/%E6%81%8B%E7%AC%A6%E3%80%8CMaster_Spark%E3%80%8D" class="mw-redirect" title="恋符「Master Spark」">恋符「Master Spark」</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div><a href="./东方兽王园.md" title="东方兽王园">东方兽王园</a></div></td><td style=";;" class="navbox-list navbox-even"><div><a href="/%E6%98%9F%E7%AC%A6%E3%80%8CShoot_the_Beast%E3%80%8D" class="mw-redirect" title="星符「Shoot the Beast」">星符「Shoot the Beast」</a> &#8226; <a href="/%E6%98%9F%E7%AC%A6%E3%80%8CShoot_the_Beast_King%E3%80%8D" class="mw-redirect" title="星符「Shoot the Beast King」">星符「Shoot the Beast King」</a></div></td></tr></tbody></table><div></div></td><td class="navbox-image" style="" rowspan="7"><a href="./文件-雾雨魔理沙（Q版立绘）.png.md" class="image"><img alt="雾雨魔理沙（Q版立绘）.png" src="https://upload.thwiki.cc/thumb/4/46/%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png/160px-%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="160" height="160" srcset="https://upload.thwiki.cc/thumb/4/46/%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png/240px-%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/4/46/%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png/320px-%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="500" data-file-height="500"></a></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">格斗游戏</td><td style=";;" class="navbox-list navbox-even"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div><a href="./东方萃梦想.md" title="东方萃梦想">东方萃梦想</a></div></td><td style=";;" class="navbox-list navbox-odd"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>对战符卡</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="/%E6%81%8B%E7%AC%A6%E3%80%8CMaster_Spark%E3%80%8D" class="mw-redirect" title="恋符「Master Spark」">恋符「Master Spark」</a> &#8226; <a href="/%E9%AD%94%E7%AC%A6%E3%80%8CStardust_Reverie%E3%80%8D" class="mw-redirect" title="魔符「Stardust Reverie」">魔符「Stardust Reverie」</a> &#8226; <a href="/%E4%BB%AA%E7%AC%A6%E3%80%8COrrery%27s_Sun%E3%80%8D" class="mw-redirect" title="仪符「Orrery&#39;s Sun」">仪符「Orrery's Sun」</a> &#8226; <a href="/%E9%AD%94%E7%82%AE%E3%80%8CFinal_Spark%E3%80%8D" class="mw-redirect" title="魔炮「Final Spark」">魔炮「Final Spark」</a> &#8226; <a href="/%E5%BD%97%E6%98%9F%E3%80%8CBlazing_Star%E3%80%8D" class="mw-redirect" title="彗星「Blazing Star」">彗星「Blazing Star」</a> &#8226; <a href="/%E5%A4%A9%E4%BB%AA%E3%80%8COrrery%27s_Solar_System%E3%80%8D" class="mw-redirect" title="天仪「Orrery&#39;s Solar System」">天仪「Orrery's Solar System」</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>故事符卡</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="/%E7%AC%A6%E4%B9%8B%E4%B8%80%E3%80%8CStardust_Reverie%E3%80%8D" class="mw-redirect" title="符之一「Stardust Reverie」">符之一「Stardust Reverie」</a> &#8226; <a href="/%E7%AC%A6%E4%B9%8B%E4%BA%8C%E3%80%8CAsteroid_Belt%E3%80%8D" class="mw-redirect" title="符之二「Asteroid Belt」">符之二「Asteroid Belt」</a> &#8226; <a href="/%E7%AC%A6%E4%B9%8B%E4%B8%89%E3%80%8CMaster_Spark%E3%80%8D" class="mw-redirect" title="符之三「Master Spark」">符之三「Master Spark」</a> &#8226; <a href="/%E6%98%9F%E7%AC%A6%E3%80%8CDragon_Meteor%E3%80%8D" class="mw-redirect" title="星符「Dragon Meteor」">星符「Dragon Meteor」</a></div></td></tr></tbody></table><div></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div><a href="./东方绯想天.md" title="东方绯想天">东方绯想天</a></div></td><td style=";;" class="navbox-list navbox-even"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>对战符卡</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="/%E6%81%8B%E7%AC%A6%E3%80%8CMaster_Spark%E3%80%8D" class="mw-redirect" title="恋符「Master Spark」">恋符「Master Spark」</a> &#8226; <a href="/%E6%98%9F%E7%AC%A6%E3%80%8CDragon_Meteor%E3%80%8D" class="mw-redirect" title="星符「Dragon Meteor」">星符「Dragon Meteor」</a> &#8226; <a href="/%E9%AD%94%E7%AC%A6%E3%80%8CStardust_Reverie%E3%80%8D" class="mw-redirect" title="魔符「Stardust Reverie」">魔符「Stardust Reverie」</a> &#8226; <a href="/%E9%AD%94%E7%82%AE%E3%80%8CFinal_Spark%E3%80%8D" class="mw-redirect" title="魔炮「Final Spark」">魔炮「Final Spark」</a> &#8226; <a href="/%E5%BD%97%E6%98%9F%E3%80%8CBlazing_Star%E3%80%8D" class="mw-redirect" title="彗星「Blazing Star」">彗星「Blazing Star」</a> &#8226; <a href="/%E6%98%9F%E7%AC%A6%E3%80%8CEscape_Velocity%E3%80%8D" class="mw-redirect" title="星符「Escape Velocity」">星符「Escape Velocity」</a> &#8226; <a href="/%E6%98%9F%E7%AC%A6%E3%80%8CMeteonic_Shower%E3%80%8D" class="mw-redirect" title="星符「Meteonic Shower」">星符「Meteonic Shower」</a> &#8226; <a href="/%E5%85%89%E7%AC%A6%E3%80%8CLuminous_Strike%E3%80%8D" class="mw-redirect" title="光符「Luminous Strike」">光符「Luminous Strike」</a> &#8226; <a href="/%E4%BB%AA%E7%AC%A6%E3%80%8COrrery%27s_Sun%E3%80%8D" class="mw-redirect" title="仪符「Orrery&#39;s Sun」">仪符「Orrery's Sun」</a> &#8226; <a href="/%E9%82%AA%E6%81%8B%E3%80%8C%E5%AE%B9%E6%98%93%E7%BB%93%E6%9E%9C%E7%9A%84Master_Spark%E3%80%8D" class="mw-redirect" title="邪恋「容易结果的Master Spark」">邪恋「容易结果的Master Spark」</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>故事符卡</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="/%E6%98%9F%E7%AC%A6%E3%80%8CPolaris_Unique%E3%80%8D" class="mw-redirect" title="星符「Polaris Unique」">星符「Polaris Unique」</a> &#8226; <a href="/%E5%A4%A9%E4%BB%AA%E3%80%8COrrery%27s_Universe%E3%80%8D" class="mw-redirect" title="天仪「Orrery&#39;s Universe」">天仪「Orrery's Universe」</a> &#8226; <a href="/%E9%82%AA%E6%81%8B%E3%80%8C%E5%AE%B9%E6%98%93%E7%BB%93%E6%9E%9C%E7%9A%84Master_Spark%E3%80%8D" class="mw-redirect" title="邪恋「容易结果的Master Spark」">邪恋「容易结果的Master Spark」</a></div></td></tr></tbody></table><div></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div><a href="./东方非想天则.md" title="东方非想天则">东方非想天则</a></div></td><td style=";;" class="navbox-list navbox-odd"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>对战符卡</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="/%E6%98%9F%E7%AC%A6%E3%80%8CGravity_Beat%E3%80%8D" class="mw-redirect" title="星符「Gravity Beat」">星符「Gravity Beat」</a> &#8226; <a href="/%E5%85%89%E7%AC%A6%E3%80%8CEarth_Light_Ray%E3%80%8D" class="mw-redirect" title="光符「Earth Light Ray」">光符「Earth Light Ray」</a> &#8226; <a href="/%E6%81%8B%E7%AC%A6%E3%80%8CNon-Directional_Laser%E3%80%8D" class="mw-redirect" title="恋符「Non-Directional Laser」">恋符「Non-Directional Laser」</a> &#8226; <a href="/%E9%AD%94%E5%BA%9F%E3%80%8CDeep_Ecological_Bomb%E3%80%8D" class="mw-redirect" title="魔废「Deep Ecological Bomb」">魔废「Deep Ecological Bomb」</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>故事符卡</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="/%E6%98%9F%E7%AC%A6%E3%80%8CEccentric_Asteroid%E3%80%8D" class="mw-redirect" title="星符「Eccentric Asteroid」">星符「Eccentric Asteroid」</a> &#8226; <a href="/%E6%B5%81%E5%85%89%E3%80%8CShooting_Echo%E3%80%8D" class="mw-redirect" title="流光「Shooting Echo」">流光「Shooting Echo」</a> &#8226; <a href="/%E9%AD%94%E7%AC%A6%E3%80%8CMagical_R360%E3%80%8D" class="mw-redirect" title="魔符「Magical R360」">魔符「Magical R360」</a></div></td></tr></tbody></table><div></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div><a href="./东方心绮楼.md" title="东方心绮楼">东方心绮楼</a></div></td><td style=";;" class="navbox-list navbox-even"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>对战符卡</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="/%E6%81%8B%E7%AC%A6%E3%80%8CMaster_Spark%E3%80%8D" class="mw-redirect" title="恋符「Master Spark」">恋符「Master Spark」</a> &#8226; <a href="/%E5%BD%97%E6%98%9F%E3%80%8CBlazing_Star%E3%80%8D" class="mw-redirect" title="彗星「Blazing Star」">彗星「Blazing Star」</a> &#8226; <a href="/%E6%98%9F%E7%AC%A6%E3%80%8CSatellite_Illusion%E3%80%8D" class="mw-redirect" title="星符「Satellite Illusion」">星符「Satellite Illusion」</a> &#8226; <a href="/%E3%80%8CSungrazer%E3%80%8D" class="mw-redirect" title="「Sungrazer」">「Sungrazer」</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>故事符卡</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="/%E6%98%9F%E7%AC%A6%E3%80%8C%E6%AF%AB%E7%A7%92%E8%84%89%E5%86%B2%E6%98%9F%E3%80%8D" class="mw-redirect" title="星符「毫秒脉冲星」">星符「毫秒脉冲星」</a> &#8226; <a href="/%E9%AD%94%E7%AC%A6%E3%80%8CBlaze_Away%E3%80%8D" class="mw-redirect" title="魔符「Blaze Away」">魔符「Blaze Away」</a></div></td></tr></tbody></table><div></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div><a href="./东方深秘录.md" title="东方深秘录">东方深秘录</a></div></td><td style=";;" class="navbox-list navbox-odd"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>对战符卡</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="/%E6%81%8B%E7%AC%A6%E3%80%8CMaster_Spark%E3%80%8D" class="mw-redirect" title="恋符「Master Spark」">恋符「Master Spark」</a> &#8226; <a href="/%E5%BD%97%E6%98%9F%E3%80%8CBlazing_Star%E3%80%8D" class="mw-redirect" title="彗星「Blazing Star」">彗星「Blazing Star」</a> &#8226; <a href="/%E6%98%9F%E7%AC%A6%E3%80%8CSatellite_Illusion%E3%80%8D" class="mw-redirect" title="星符「Satellite Illusion」">星符「Satellite Illusion」</a> &#8226; <a href="/%EF%BC%8A%E7%9C%9F%E6%A3%92%EF%BC%81%E5%8E%95%E6%89%80%E9%87%8C%E7%9A%84%E8%8A%B1%E5%AD%90%E5%B0%8F%E5%A7%90%EF%BC%8A" class="mw-redirect" title="＊真棒！厕所里的花子小姐＊">＊真棒！厕所里的花子小姐＊</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>故事符卡</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="/%E6%98%9F%E7%AC%A6%E3%80%8COccultation%E3%80%8D" class="mw-redirect" title="星符「Occultation」">星符「Occultation」</a> &#8226; <a href="/%EF%BC%8A%E8%A2%AB%E8%AF%85%E5%92%92%E7%9A%84%E5%8E%86%E4%BB%A3%E6%A0%A1%E9%95%BF%E7%9A%84%E8%82%96%E5%83%8F%EF%BC%8A" class="mw-redirect" title="＊被诅咒的历代校长的肖像＊">＊被诅咒的历代校长的肖像＊</a> &#8226; <a href="/%EF%BC%8A%E5%A4%9C%E9%97%B4%E5%AD%A6%E6%A0%A1%E6%80%AA%E8%B0%88%E4%BA%91%E6%B8%B8%EF%BC%8A" class="mw-redirect" title="＊夜间学校怪谈云游＊">＊夜间学校怪谈云游＊</a></div></td></tr></tbody></table><div></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div><a href="./东方凭依华.md" title="东方凭依华">东方凭依华</a></div></td><td style=";;" class="navbox-list navbox-even"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>对战符卡</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="/%E6%81%8B%E7%AC%A6%E3%80%8CMaster_Spark%E3%80%8D" class="mw-redirect" title="恋符「Master Spark」">恋符「Master Spark」</a> &#8226; <a href="/%E5%BD%97%E6%98%9F%E3%80%8CBlazing_Star%E3%80%8D" class="mw-redirect" title="彗星「Blazing Star」">彗星「Blazing Star」</a> &#8226; <a href="/%E6%98%9F%E7%AC%A6%E3%80%8CSatellite_Illusion%E3%80%8D" class="mw-redirect" title="星符「Satellite Illusion」">星符「Satellite Illusion」</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>故事符卡</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="/%E6%98%9F%E6%81%8B%E7%AC%A6%E3%80%8CSprinkle_Star_%26_Heart%E3%80%8D" class="mw-redirect" title="星恋符「Sprinkle Star &amp; Heart」">星恋符「Sprinkle Star &amp; Heart」</a> &#8226; <a href="/%E6%8B%B3%E6%98%9F%E7%AC%A6%E3%80%8C%E5%85%A5%E9%81%93%E4%B8%9B%E4%BA%91Slave_Spark%E3%80%8D" class="mw-redirect" title="拳星符「入道丛云Slave Spark」">拳星符「入道丛云Slave Spark」</a> &#8226; <a href="/%E6%98%9F%E7%81%B5%E7%AC%A6%E3%80%8CSprinkle_Star%E5%B0%81%E5%8D%B0%E3%80%8D" class="mw-redirect" title="星灵符「Sprinkle Star封印」">星灵符「Sprinkle Star封印」</a> &#8226; <a href="/%E9%92%88%E6%98%9F%E7%AC%A6%E3%80%8C%E5%B0%81%E5%8D%B0%E6%9C%88%E5%8D%BF%E4%B9%8B%E9%92%88%E7%81%AB%E8%8A%B1%E3%80%8D" class="mw-redirect" title="针星符「封印月卿之针火花」">针星符「封印月卿之针火花」</a> &#8226; <a href="/%E6%98%9F%E7%AC%A6%E3%80%8CAsteroid_Belt_Nightmare%E3%80%8D" class="mw-redirect" title="星符「Asteroid Belt Nightmare」">星符「Asteroid Belt Nightmare」</a></div></td></tr></tbody></table><div></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div><a href="./东方刚欲异闻.md" title="东方刚欲异闻">东方刚欲异闻</a></div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="/%E6%A3%AE%E7%AC%A6%E3%80%8CViolent_Tricholoma%E3%80%8D" class="mw-redirect" title="森符「Violent Tricholoma」">森符「Violent Tricholoma」</a> &#8226; <a href="/%E7%81%AB%E7%AC%A6%E3%80%8CViolent_Kaentake%E3%80%8D" class="mw-redirect" title="火符「Violent Kaentake」">火符「Violent Kaentake」</a></div></td></tr></tbody></table><div></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">出版物</td><td style=";;" class="navbox-list navbox-odd"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div><a href="./东方儚月抄.md" title="东方儚月抄">东方儚月抄</a></div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="/%E3%80%8CStardust_Reverie%E3%80%8D" class="mw-redirect" title="「Stardust Reverie」">「Stardust Reverie」</a> &#8226; <a href="/%E3%80%8CEvent_Horizon%E3%80%8D" class="mw-redirect" title="「Event Horizon」">「Event Horizon」</a> &#8226; <a href="/%E3%80%8CFinal_Spark%E3%80%8D" class="mw-redirect" title="「Final Spark」">「Final Spark」</a> &#8226; <a href="/%E3%80%8CDouble_Spark%E3%80%8D" class="mw-redirect" title="「Double Spark」">「Double Spark」</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div><a href="/%E9%AD%94%E7%90%86%E6%B2%99%E7%9A%84%E9%AD%94%E6%B3%95%E4%B9%A6" class="mw-redirect" title="魔理沙的魔法书">魔理沙的魔法书</a></div></td><td style=";;" class="navbox-list navbox-even"><div><a href="/%E9%AD%94%E7%AC%A6%E3%80%8CMilky_Way%E3%80%8D" class="mw-redirect" title="魔符「Milky Way」">魔符「Milky Way」</a> &#8226; <a href="/%E9%BB%91%E9%AD%94%E3%80%8CEvent_Horizon%E3%80%8D" class="mw-redirect" title="黑魔「Event Horizon」">黑魔「Event Horizon」</a> &#8226; <a href="/%E6%81%8B%E7%AC%A6%E3%80%8CMaster_Spark%E3%80%8D" class="mw-redirect" title="恋符「Master Spark」">恋符「Master Spark」</a> &#8226; <a href="/%E5%85%89%E5%87%BB%E3%80%8CShoot_the_Moon%E3%80%8D" class="mw-redirect" title="光击「Shoot the Moon」">光击「Shoot the Moon」</a> &#8226; <a href="/%E3%80%8CBlazing_Star%E3%80%8D" class="mw-redirect" title="「Blazing Star」">「Blazing Star」</a> &#8226; <a href="/%E6%98%9F%E7%AC%A6%E3%80%8CDragon_Meteor%E3%80%8D" class="mw-redirect" title="星符「Dragon Meteor」">星符「Dragon Meteor」</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div><a href="./东方文果真报.md" title="东方文果真报">东方文果真报</a></div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="/%E5%85%89%E7%AC%A6%E3%80%8CEarth_Light_Ray%E3%80%8D" class="mw-redirect" title="光符「Earth Light Ray」">光符「Earth Light Ray」</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div><a href="/%E5%AE%87%E4%BD%90%E8%A7%81%E7%9A%84%E9%AD%94%E6%B3%95%E4%B9%A6" class="mw-redirect" title="宇佐见的魔法书">宇佐见的魔法书</a></div></td><td style=";;" class="navbox-list navbox-even"><div><a href="/%E6%81%8B%E7%AC%A6%E3%80%8CMaster_Spark%E4%B8%80%E8%88%AC%E7%9A%84%E6%89%8B%E7%94%B5%E7%AD%92%E3%80%8D" class="mw-redirect" title="恋符「Master Spark一般的手电筒」">恋符「Master Spark一般的手电筒」</a> &#8226; <a href="/%E6%81%8B%E7%AC%A6%E3%80%8CMachine_Gun_Spark%E3%80%8D" class="mw-redirect" title="恋符「Machine Gun Spark」">恋符「Machine Gun Spark」</a></div></td></tr></tbody></table><div></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">周边</td><td style=";;" class="navbox-list navbox-even"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div><a href="./绯想天符录_WEATHER_LIGHT.md" title="绯想天符录 WEATHER LIGHT">绯想天符录 WEATHER LIGHT</a></div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="/%E5%BD%97%E6%98%9F%E3%80%8CBlazing_Star%E3%80%8D" class="mw-redirect" title="彗星「Blazing Star」">彗星「Blazing Star」</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div><a href="./绯想天符录_非想天则20形态.md" title="绯想天符录 非想天则20形态">绯想天符录 非想天则20形态</a></div></td><td style=";;" class="navbox-list navbox-even"><div><a href="/%E9%AD%94%E5%BA%9F%E3%80%8CDeep_Ecological_Bomb%E3%80%8D" class="mw-redirect" title="魔废「Deep Ecological Bomb」">魔废「Deep Ecological Bomb」</a></div></td></tr></tbody></table><div></div></td></tr></tbody></table></td></tr></tbody></table>
-
-
-
-
-
-
+</big>
 ---
 
 此文档由 [THBWiki-Markdown-Builder](https://github.com/Delsin-Yu/THBWiki-Markdown-Builder) 构建。

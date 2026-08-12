@@ -1,6 +1,6 @@
 # 文件:BLACK_or_WHITE（MNKsound）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b4\ns6%3ABLACK_or_WHITE%EF%BC%88MNKsound%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b4\ns6%3ABLACK_or_WHITE%EF%BC%88MNKsound%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 MNKsound | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ MNKsound | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [BLACK or WHITE（MNKsound）](./BLACK_or_WHITE（MNKsound）.md)  
-该封面包含的角色：- 原创角色 (未找到链接)
+- [BLACK or WHITE（MNKsound）](./BLACK_or_WHITE（MNKsound）.md)该封面包含的角色：
+- 原创角色 (未找到链接)
 
   
-源地址：[[1]](http://mnksound.com/img/img_BLACKorWHITE.png)
-  
-
-
-
-
+源地址：[\[1\]](http://mnksound.com/img/img_BLACKorWHITE.png)  
 
 ---
 

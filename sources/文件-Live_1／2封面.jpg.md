@@ -1,6 +1,6 @@
 # 文件:Live_1／2封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8d\ns6%3ALive_1%EF%BC%8F2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8d\ns6%3ALive_1%EF%BC%8F2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 RoundLoudness | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ RoundLoudness | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Live 1/2](./Live_1-2.md)  
-该封面包含的角色：- [依神紫苑](./依神紫苑.md)
-
-
-
+- [Live 1/2](./Live_1-2.md)该封面包含的角色：
+- [依神紫苑](./依神紫苑.md)
 
 
 ---

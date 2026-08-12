@@ -1,6 +1,6 @@
 # 文件:永夜姉妹_～Eternal_Sisters～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6e\ns6%3A%E6%B0%B8%E5%A4%9C%E5%A7%89%E5%A6%B9_%EF%BD%9EEternal_Sisters%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6e\ns6%3A%E6%B0%B8%E5%A4%9C%E5%A7%89%E5%A6%B9_%EF%BD%9EEternal_Sisters%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 りあるご～る堂 | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [永夜姉妹 ～Eternal Sisters～](./永夜姉妹_～Eternal_Sisters～.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
-
-
-
+- [永夜姉妹 ～Eternal Sisters～](./永夜姉妹_～Eternal_Sisters～.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
 
 ---

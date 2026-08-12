@@ -1,12 +1,8 @@
 # 文件:THD2魔女之裙.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5f\ns6%3ATHD2%E9%AD%94%E5%A5%B3%E4%B9%8B%E8%A3%99%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5f\ns6%3ATHD2%E9%AD%94%E5%A5%B3%E4%B9%8B%E8%A3%99%2Epng.html -->
 
 AvalonStudioOfficial
-
-
-
-
 
 
 ---

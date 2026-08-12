@@ -1,16 +1,11 @@
 # 文件:Dolce_Vocebanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\55\ns6%3ADolce_Vocebanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\55\ns6%3ADolce_Vocebanner%2Ejpg.html -->
 
 Dolce_Voce | 社团LOGO
 
   
-源地址：[[1]](http://dolcevoce.op-momo.com/link/images/sitebanner.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://dolcevoce.op-momo.com/link/images/sitebanner.jpg)  
 
 ---
 

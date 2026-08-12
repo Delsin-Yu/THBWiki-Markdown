@@ -1,16 +1,12 @@
 # 文件:斑驳的轮唱团LOGO.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ca\ns6%3A%E6%96%91%E9%A9%B3%E7%9A%84%E8%BD%AE%E5%94%B1%E5%9B%A2LOGO%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ca\ns6%3A%E6%96%91%E9%A9%B3%E7%9A%84%E8%BD%AE%E5%94%B1%E5%9B%A2LOGO%2Epng.html -->
 
 斑驳的轮唱团 | 社团LOGO
 
   
 斑驳的轮唱团LOGO
   
-
-
-
-
 
 ---
 

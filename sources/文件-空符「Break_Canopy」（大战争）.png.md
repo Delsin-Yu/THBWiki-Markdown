@@ -1,14 +1,11 @@
 # 文件:空符「Break_Canopy」（大战争）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\51\ns6%3A%E7%A9%BA%E7%AC%A6%E3%80%8CBreak_Canopy%E3%80%8D%EF%BC%88%E5%A4%A7%E6%88%98%E4%BA%89%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\51\ns6%3A%E7%A9%BA%E7%AC%A6%E3%80%8CBreak_Canopy%E3%80%8D%EF%BC%88%E5%A4%A7%E6%88%98%E4%BA%89%EF%BC%89%2Epng.html -->
 
 妖精大战争 | 敌机符卡 | 斯塔萨菲雅 | 桑尼米尔克 | 露娜切露德
 
 
 ## 文件说明
-
-
-
 
 ---
 

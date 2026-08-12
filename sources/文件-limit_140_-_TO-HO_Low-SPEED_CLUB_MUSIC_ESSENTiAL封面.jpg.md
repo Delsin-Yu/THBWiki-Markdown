@@ -1,6 +1,6 @@
 # 文件:limit_140_-_TO-HO_Low-SPEED_CLUB_MUSIC_ESSENTiAL封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a9\ns6%3Alimit_140_-_TO-HO_Low-SPEED_CLUB_MUSIC_ESSENTiAL%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a9\ns6%3Alimit_140_-_TO-HO_Low-SPEED_CLUB_MUSIC_ESSENTiAL%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 dat_file_records | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ dat_file_records | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [limit 140 - TO-HO Low-SPEED CLUB MUSIC ESSENTiAL](./limit_140_-_TO-HO_Low-SPEED_CLUB_MUSIC_ESSENTiAL.md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)
+- [limit 140 - TO-HO Low-SPEED CLUB MUSIC ESSENTiAL](./limit_140_-_TO-HO_Low-SPEED_CLUB_MUSIC_ESSENTiAL.md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
 
   
-源地址：[[1]](http://static.tumblr.com/156f3387fccdcfd4d5b0be8cb181c561/e3lazzy/vJhnvn76k/tumblr_static_dln1zn2z2mg4kww08og8kck8.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://static.tumblr.com/156f3387fccdcfd4d5b0be8cb181c561/e3lazzy/vJhnvn76k/tumblr_static_dln1zn2z2mg4kww08og8kck8.jpg)  
 
 ---
 

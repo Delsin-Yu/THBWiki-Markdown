@@ -1,27 +1,24 @@
 # Pyro6
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\42\ns0%3APyro6.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\42\ns0%3APyro6.html -->
 
 2013年8月12日 由 Behind You（同人社团） 于 Comic Market 84 发布的EP同人专辑，曲目主要风格是 House，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人专辑 (未找到链接)** 的词条
-
+**[二次创作同人专辑](./二次创作.md#同人音乐)**的词条
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Pyro6封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/7/7f/Pyro6%E5%B0%81%E9%9D%A2.png/224px-Pyro6%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="224" height="204" srcset="https://upload.thwiki.cc/thumb/7/7f/Pyro6%E5%B0%81%E9%9D%A2.png/336px-Pyro6%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/7/7f/Pyro6%E5%B0%81%E9%9D%A2.png/448px-Pyro6%E5%B0%81%E9%9D%A2.png 2x" data-file-width="500" data-file-height="455"></a><div class="cover-char">角色：<a href="./古明地恋.md" title="古明地恋">古明地恋</a></div></td>
 </tr><tr><td class="label">名称</td><td colspan="2"> Pyro6 </td></tr><tr><td class="label">制作方</td><td><a href="./Behind_You（同人社团）.md" title="Behind You（同人社团）">Behind You（同人社团）</a></td><td class="cover-artwork" rowspan="8" style="min-width:224px;"><a href="./文件-Pyro6封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/7/7f/Pyro6%E5%B0%81%E9%9D%A2.png/224px-Pyro6%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="224" height="204" srcset="https://upload.thwiki.cc/thumb/7/7f/Pyro6%E5%B0%81%E9%9D%A2.png/336px-Pyro6%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/7/7f/Pyro6%E5%B0%81%E9%9D%A2.png/448px-Pyro6%E5%B0%81%E9%9D%A2.png 2x" data-file-width="500" data-file-height="455"></a><div class="cover-char">角色：<a href="./古明地恋.md" title="古明地恋">古明地恋</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2013-08-12&#160;（<a href="/展会作品列表?e=Comic+Market%2384">Comic Market 84</a>）</td></tr><tr><td class="label">类型</td><td>EP</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>4</td></tr><tr><td class="label">总时长</td><td>08:40</td></tr><tr><td class="label">风格类型</td><td>House</td></tr>
+</tr><tr><td class="label">首发日期</td><td>2013-08-12 （<a href="./展会作品列表.md#84">Comic Market 84</a>）</td></tr><tr><td class="label">类型</td><td>EP</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>4</td></tr><tr><td class="label">总时长</td><td>08:40</td></tr><tr><td class="label">风格类型</td><td>House</td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://pyrosicks.tumblr.com/">https://pyrosicks.tumblr.com/</a><br><a rel="nofollow" class="external free" href="http://anorlondo0104.blog.fc2.com/blog-entry-10.html">http://anorlondo0104.blog.fc2.com/blog-entry-10.html</a></td></tr></tbody></table>
 
 Pyro6（同人专辑，Behind You（同人社团），2013） - 2013年8月12日 由 Behind You（同人社团） 于 Comic Market 84 发布的EP同人专辑，曲目主要风格是 House，分级为 一般向
-
 ## Staff
   
- **Arrangement**   
+**Arrangement**  
 
-<table><tbody><tr><td><a href="/index.php?title=MERRY%EF%BC%88Behind_You%EF%BC%89&amp;action=edit&amp;redlink=1" class="new" title="MERRY（Behind You）（页面不存在）">MERRY（Behind You）</a></td><td><a href="./Behind_You.md" title="Behind You">Behind You</a></td><td>Tr.1-4</td></tr></tbody></table>
-
+<table><tbody><tr><td><a class="new" title="MERRY（Behind You）（页面不存在）">MERRY（Behind You）</a></td><td><a href="./Behind_You.md" title="Behind You">Behind You</a></td><td>Tr.1-4</td></tr></tbody></table>
 
 Design
 : MERRY （[Behind You](./Behind_You.md)）
@@ -30,27 +27,17 @@ Illustration
 Support
 : [バナナンヌ](./バナナンヌ.md) （[salt sPot](./salt_sPot.md) / [塩処](./塩処.md)）
 
-
 ## 试听
-  
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/104518588&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=false"></iframe>
-
-  
-
 
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Ponpoko_Pon" colspan="2" class="title">Ponpoko Pon<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=MERRY（Behind You）&amp;ogmusic=佐渡の二ッ岩&amp;fromwiki=Pyro6"><span title="搜索相似同人曲"></span></a></span></td><td class="time">02:16</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=MERRY%EF%BC%88Behind_You%EF%BC%89&amp;action=edit&amp;redlink=1" class="new" title="MERRY（Behind You）（页面不存在）">MERRY（Behind You）</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，MERRY（Behind You）&amp;fromwiki=Pyro6"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=佐渡の二ッ岩&amp;fromwiki=Pyro6"><span></span></a></span><div class="ogmusic"><a href="./佐渡の二ッ岩.md" class="mw-redirect" title="佐渡の二ッ岩">佐渡の二ッ岩</a></div><div class="source"><a href="./东方神灵庙_～_Ten_Desires..md" class="mw-redirect" title="东方神灵庙 ～ Ten Desires.">东方神灵庙　～ Ten Desires.</a></div></td></tr>
-<tr><td id="2" class="infoYD"><b>02</b></td><td id="banked_fire" colspan="2" class="title">banked fire<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=MERRY（Behind You）&amp;ogmusic=ハートフェルトファンシー&amp;fromwiki=Pyro6"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:14</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=MERRY%EF%BC%88Behind_You%EF%BC%89&amp;action=edit&amp;redlink=1" class="new" title="MERRY（Behind You）（页面不存在）">MERRY（Behind You）</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，MERRY（Behind You）&amp;fromwiki=Pyro6"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=ハートフェルトファンシー&amp;fromwiki=Pyro6"><span></span></a></span><div class="ogmusic"><a href="./ハートフェルトファンシー.md" class="mw-redirect" title="ハートフェルトファンシー">ハートフェルトファンシー</a></div><div class="source"><a href="./东方地灵殿_～_Subterranean_Animism..md" class="mw-redirect" title="东方地灵殿 ～ Subterranean Animism.">东方地灵殿　～ Subterranean Animism.</a></div></td></tr>
-<tr><td id="3" class="infoYD"><b>03</b></td><td id="pyro_sicks" colspan="2" class="title">pyro sicks<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=MERRY（Behind You）&amp;ogmusic=封じられた妖怪　～ Lost Place&amp;fromwiki=Pyro6"><span title="搜索相似同人曲"></span></a></span></td><td class="time">01:46</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=MERRY%EF%BC%88Behind_You%EF%BC%89&amp;action=edit&amp;redlink=1" class="new" title="MERRY（Behind You）（页面不存在）">MERRY（Behind You）</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，MERRY（Behind You）&amp;fromwiki=Pyro6"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=封じられた妖怪　～ Lost Place&amp;fromwiki=Pyro6"><span></span></a></span><div class="ogmusic"><a href="./封じられた妖怪_～_Lost_Place.md" class="mw-redirect" title="封じられた妖怪 ～ Lost Place">封じられた妖怪　～ Lost Place</a></div><div class="source"><a href="./东方地灵殿_～_Subterranean_Animism..md" class="mw-redirect" title="东方地灵殿 ～ Subterranean Animism.">东方地灵殿　～ Subterranean Animism.</a></div></td></tr>
-<tr><td id="4" class="infoYD"><b>04</b></td><td id="Sheep" colspan="2" class="title">Sheep<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=MERRY（Behind You）&amp;ogmusic=彼岸帰航　～ Riverside View，Believe me&amp;fromwiki=Pyro6"><span title="搜索相似同人曲"></span></a></span></td><td class="time">01:24</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=MERRY%EF%BC%88Behind_You%EF%BC%89&amp;action=edit&amp;redlink=1" class="new" title="MERRY（Behind You）（页面不存在）">MERRY（Behind You）</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，MERRY（Behind You）&amp;fromwiki=Pyro6"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=彼岸帰航　～ Riverside View，Believe me&amp;fromwiki=Pyro6"><span></span></a></span><div class="ogmusic"><a href="./彼岸帰航_～_Riverside_View.md" class="mw-redirect" title="彼岸帰航 ～ Riverside View">彼岸帰航　～ Riverside View</a></div><div class="source"><a href="./东方花映塚_～_Phantasmagoria_of_Flower_View..md" class="mw-redirect" title="东方花映塚 ～ Phantasmagoria of Flower View.">东方花映塚　～ Phantasmagoria of Flower View.</a></div></td></tr><tr><td class="left"></td><td class="label">其他原曲</td><td class="text" colspan="2"><div class="ogmusic">Believe me</div></td></tr><tr><td class="left"></td><td class="label">曲风</td><td class="text" colspan="2">古典</td></tr></tbody></table>
-
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Ponpoko_Pon" colspan="2" class="title">Ponpoko Pon</td><td class="time">02:16</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="MERRY（Behind You）（页面不存在）">MERRY（Behind You）</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./佐渡的二岩.md" class="mw-redirect" title="佐渡の二ッ岩">佐渡の二ッ岩</a></div><div class="source"><a href="./东方神灵庙.md" class="mw-redirect" title="东方神灵庙 ～ Ten Desires.">东方神灵庙　～ Ten Desires.</a></div></td></tr>
+<tr><td id="2" class="infoYD"><b>02</b></td><td id="banked_fire" colspan="2" class="title">banked fire</td><td class="time">03:14</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="MERRY（Behind You）（页面不存在）">MERRY（Behind You）</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./Heartfelt_Fancy.md" class="mw-redirect" title="ハートフェルトファンシー">ハートフェルトファンシー</a></div><div class="source"><a href="./东方地灵殿.md" class="mw-redirect" title="东方地灵殿 ～ Subterranean Animism.">东方地灵殿　～ Subterranean Animism.</a></div></td></tr>
+<tr><td id="3" class="infoYD"><b>03</b></td><td id="pyro_sicks" colspan="2" class="title">pyro sicks</td><td class="time">01:46</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="MERRY（Behind You）（页面不存在）">MERRY（Behind You）</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./被封印的妖怪_～_Lost_Place.md" class="mw-redirect" title="封じられた妖怪 ～ Lost Place">封じられた妖怪　～ Lost Place</a></div><div class="source"><a href="./东方地灵殿.md" class="mw-redirect" title="东方地灵殿 ～ Subterranean Animism.">东方地灵殿　～ Subterranean Animism.</a></div></td></tr>
+<tr><td id="4" class="infoYD"><b>04</b></td><td id="Sheep" colspan="2" class="title">Sheep</td><td class="time">01:24</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="MERRY（Behind You）（页面不存在）">MERRY（Behind You）</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./彼岸归航_～_Riverside_View.md" class="mw-redirect" title="彼岸帰航 ～ Riverside View">彼岸帰航　～ Riverside View</a></div><div class="source"><a href="./东方花映塚.md" class="mw-redirect" title="东方花映塚 ～ Phantasmagoria of Flower View.">东方花映塚　～ Phantasmagoria of Flower View.</a></div></td></tr><tr><td class="left"></td><td class="label">其他原曲</td><td class="text" colspan="2"><div class="ogmusic">Believe me</div></td></tr><tr><td class="left"></td><td class="label">曲风</td><td class="text" colspan="2">古典</td></tr></tbody></table>
 
 
 ## 评论
-
-
-
 
 ---
 

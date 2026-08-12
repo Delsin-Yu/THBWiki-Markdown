@@ -1,16 +1,12 @@
 # 模板:EGSKL
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\1\13\ns10%3AEGSKL.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\1\13\ns10%3AEGSKL.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

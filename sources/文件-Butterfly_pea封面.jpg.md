@@ -1,6 +1,6 @@
 # 文件:Butterfly_pea封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\07\ns6%3AButterfly_pea%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\07\ns6%3AButterfly_pea%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Afternoon*Tea | 专辑封面 | 封面图片
 
@@ -10,11 +10,9 @@ Afternoon*Tea | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Butterfly pea](./Butterfly_pea.md)  
-该封面包含的角色：- [宫古芳香](./宫古芳香.md)- [霍青娥](./霍青娥.md)
-
-
-
+- [Butterfly pea](./Butterfly_pea.md)该封面包含的角色：
+- [宫古芳香](./宫古芳香.md)
+- [霍青娥](./霍青娥.md)
 
 
 ---

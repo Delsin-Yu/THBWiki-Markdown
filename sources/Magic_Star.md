@@ -1,13 +1,11 @@
 # Magic_Star
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\8\89\ns0%3AMagic_Star.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\8\89\ns0%3AMagic_Star.html -->
 
 2011年5月8日 由 食業音楽食堂 于 博丽神社例大祭8 发布的同人专辑，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人专辑 (未找到链接)** 的词条
-<center>
-
+**[二次创作同人专辑](./二次创作.md#同人音乐)**的词条<center>
 <table>
 <tbody><tr>
 <td class="mbox-image"><div style="width: 52px;">
@@ -16,29 +14,19 @@
 </tr>
 </tbody></table>
 
-
 </center>
-
 ## 专辑信息
 
-<table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=Magic_Star%E5%B0%81%E9%9D%A2.jpg" class="new" title="文件:Magic Star封面.jpg">封面图片</a></td>
-</tr><tr><td class="label">名称</td><td colspan="2"> Magic Star </td></tr><tr><td class="label">制作方</td><td><a href="./食業音楽食堂.md" title="食業音楽食堂">食業音楽食堂</a></td><td class="cover-artwork" rowspan="6" style="min-width:168px;"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=Magic_Star%E5%B0%81%E9%9D%A2.jpg" class="new" title="文件:Magic Star封面.jpg">封面图片</a></td>
-</tr><tr><td class="label">首发日期</td><td>2011-05-08&#160;（<a href="/展会作品列表?e=%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD%238">第八回 博麗神社例大祭</a>）</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>0</td></tr><tr><td class="label">总时长</td><td>00:00</td></tr></tbody></table>
+<table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a class="new" title="文件:Magic Star封面.jpg">封面图片</a></td>
+</tr><tr><td class="label">名称</td><td colspan="2"> Magic Star </td></tr><tr><td class="label">制作方</td><td><a href="./食業音楽食堂.md" title="食業音楽食堂">食業音楽食堂</a></td><td class="cover-artwork" rowspan="6" style="min-width:168px;"><a class="new" title="文件:Magic Star封面.jpg">封面图片</a></td>
+</tr><tr><td class="label">首发日期</td><td>2011-05-08 （<a href="./展会作品列表.md#8">第八回 博麗神社例大祭</a>）</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>0</td></tr><tr><td class="label">总时长</td><td>00:00</td></tr></tbody></table>
 
 Magic Star（同人专辑，食業音楽食堂，2011） - 2011年5月8日 由 食業音楽食堂 于 博丽神社例大祭8 发布的同人专辑，分级为 一般向
-
 ## Staff
 
 ## 曲目列表
 
-<table></table>
-
-
-
 ## 评论
-
-
-
 
 ---
 

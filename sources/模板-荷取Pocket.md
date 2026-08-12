@@ -1,16 +1,12 @@
 # 模板:荷取Pocket
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\4\40\ns10%3A%E8%8D%B7%E5%8F%96Pocket.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\4\40\ns10%3A%E8%8D%B7%E5%8F%96Pocket.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

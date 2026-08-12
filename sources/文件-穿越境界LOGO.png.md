@@ -1,12 +1,8 @@
 # 文件:穿越境界LOGO.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e2\ns6%3A%E7%A9%BF%E8%B6%8A%E5%A2%83%E7%95%8CLOGO%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e2\ns6%3A%E7%A9%BF%E8%B6%8A%E5%A2%83%E7%95%8CLOGO%2Epng.html -->
 
 社团LOGO | 穿越境界
-
-
-
-
 
 
 ---

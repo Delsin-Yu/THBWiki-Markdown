@@ -1,6 +1,6 @@
 # 文件:私家版CDプレス完全データメイキング講座封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cb\ns6%3A%E7%A7%81%E5%AE%B6%E7%89%88CD%E3%83%97%E3%83%AC%E3%82%B9%E5%AE%8C%E5%85%A8%E3%83%87%E3%83%BC%E3%82%BF%E3%83%A1%E3%82%A4%E3%82%AD%E3%83%B3%E3%82%B0%E8%AC%9B%E5%BA%A7%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cb\ns6%3A%E7%A7%81%E5%AE%B6%E7%89%88CD%E3%83%97%E3%83%AC%E3%82%B9%E5%AE%8C%E5%85%A8%E3%83%87%E3%83%BC%E3%82%BF%E3%83%A1%E3%82%A4%E3%82%AD%E3%83%B3%E3%82%B0%E8%AC%9B%E5%BA%A7%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 梶迫小道具店
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [私家版CDプレス完全データメイキング講座](./私家版CDプレス完全データメイキング講座.md)  
-该封面包含的角色：- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [私家版CDプレス完全データメイキング講座](./私家版CDプレス完全データメイキング講座.md)该封面包含的角色：
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:東深見高等学校_校歌CD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7a\ns6%3A%E6%9D%B1%E6%B7%B1%E8%A6%8B%E9%AB%98%E7%AD%89%E5%AD%A6%E6%A0%A1_%E6%A0%A1%E6%AD%8CCD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7a\ns6%3A%E6%9D%B1%E6%B7%B1%E8%A6%8B%E9%AB%98%E7%AD%89%E5%AD%A6%E6%A0%A1_%E6%A0%A1%E6%AD%8CCD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ビルドマンメディカル | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@
   
 
 - [東深見高等学校 校歌CD](./東深見高等学校_校歌CD.md)
-
-
-
 
 
 ---

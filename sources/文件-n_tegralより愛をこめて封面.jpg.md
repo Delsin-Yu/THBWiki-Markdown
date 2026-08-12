@@ -1,14 +1,11 @@
 # 文件:n_tegralより愛をこめて封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\80\ns6%3An_tegral%E3%82%88%E3%82%8A%E6%84%9B%E3%82%92%E3%81%93%E3%82%81%E3%81%A6%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\80\ns6%3An_tegral%E3%82%88%E3%82%8A%E6%84%9B%E3%82%92%E3%81%93%E3%82%81%E3%81%A6%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ホシニセ | 专辑封面 | 凋叶棕 | 封面图片
 
 
 ## 摘要
-
-
-
 
 ---
 

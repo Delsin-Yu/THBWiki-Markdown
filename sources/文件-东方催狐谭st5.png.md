@@ -1,14 +1,11 @@
 # 文件:东方催狐谭st5.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\93\ns6%3A%E4%B8%9C%E6%96%B9%E5%82%AC%E7%8B%90%E8%B0%ADst5%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\93\ns6%3A%E4%B8%9C%E6%96%B9%E5%82%AC%E7%8B%90%E8%B0%ADst5%2Epng.html -->
 
 Team_Dreamcatcher
 
 
 ## 文件说明
-
-
-
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:thEIoS_14.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\ba\ns6%3AthEIoS_14%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\ba\ns6%3AthEIoS_14%2Emp3.html -->
 
 东方祈华梦制作组 | 华彩飞扬_～_Indomitable_Kagura
 
@@ -9,10 +9,6 @@
   
 东方祈华梦五面BOSS曲2
   
-
-
-
-
 
 ---
 

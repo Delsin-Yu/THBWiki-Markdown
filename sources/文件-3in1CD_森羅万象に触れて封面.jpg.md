@@ -1,6 +1,6 @@
 # 文件:3in1CD_森羅万象に触れて封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\00\ns6%3A3in1CD_%E6%A3%AE%E7%BE%85%E4%B8%87%E8%B1%A1%E3%81%AB%E8%A7%A6%E3%82%8C%E3%81%A6%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\00\ns6%3A3in1CD_%E6%A3%AE%E7%BE%85%E4%B8%87%E8%B1%A1%E3%81%AB%E8%A7%A6%E3%82%8C%E3%81%A6%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 幽闭星光
 
@@ -8,11 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [3in1CD 森羅万象に触れて](./3in1CD_森羅万象に触れて.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- 十六夜咲夜 (未找到链接)- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [古明地恋](./古明地恋.md)
-
-
-
+- [3in1CD 森羅万象に触れて](./3in1CD_森羅万象に触れて.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [十六夜咲夜](./十六夜咲夜.md)
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [古明地恋](./古明地恋.md)
 
 
 ---

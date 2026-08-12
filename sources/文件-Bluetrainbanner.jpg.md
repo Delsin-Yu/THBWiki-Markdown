@@ -1,16 +1,11 @@
 # 文件:Bluetrainbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c8\ns6%3ABluetrainbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c8\ns6%3ABluetrainbanner%2Ejpg.html -->
 
 Bluetrain | 社团LOGO
 
   
-源地址:[[1]](http://www.geocities.jp/bluetrain_metal/btbandlogo1.jpg)
-  
-
-
-
-
+源地址:[\[1\]](http://www.geocities.jp/bluetrain_metal/btbandlogo1.jpg)  
 
 ---
 

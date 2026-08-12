@@ -1,6 +1,6 @@
 # 文件:eliminate封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\aa\ns6%3Aeliminate%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\aa\ns6%3Aeliminate%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 梅之小町
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [eliminate](./eliminate.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [eliminate](./eliminate.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
   
-源地址：[[1]](https://pbs.twimg.com/media/F8VHbUyacAAc2-5?format=jpg&amp;name=orig)
-  
-
-
-
-
+源地址：[\[1\]](https://pbs.twimg.com/media/F8VHbUyacAAc2-5?format=jpg&name=orig)  
 
 ---
 

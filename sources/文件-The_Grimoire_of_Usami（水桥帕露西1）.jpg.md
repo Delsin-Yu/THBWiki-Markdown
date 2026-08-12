@@ -1,14 +1,11 @@
 # 文件:The_Grimoire_of_Usami（水桥帕露西1）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e4\ns6%3AThe_Grimoire_of_Usami%EF%BC%88%E6%B0%B4%E6%A1%A5%E5%B8%95%E9%9C%B2%E8%A5%BF1%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e4\ns6%3AThe_Grimoire_of_Usami%EF%BC%88%E6%B0%B4%E6%A1%A5%E5%B8%95%E9%9C%B2%E8%A5%BF1%EF%BC%89%2Ejpg.html -->
 
 宇佐见的魔法书 | 水桥帕露西
 
 
 ## 摘要
-
-
-
 
 ---
 

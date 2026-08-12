@@ -1,6 +1,6 @@
 # 文件:Tou-Hop_Vol_10封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d3\ns6%3ATou-Hop_Vol_10%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d3\ns6%3ATou-Hop_Vol_10%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Moon-Tone | 专辑封面 | 封面图片
 
@@ -13,12 +13,7 @@ Moon-Tone | 专辑封面 | 封面图片
 - [Tou-Hop Vol 10](./Tou-Hop_Vol_10.md)
 
   
-源地址：[原图链接](https://f4.bcbits.com/img/a1167626062_0.jpg) [Bandcamp专辑页](https://moon-tone.bandcamp.com/album/tou-hop-vol-10)
-  
-
-
-
-
+源地址：[原图链接](https://f4.bcbits.com/img/a1167626062_0.jpg) [Bandcamp专辑页](https://moon-tone.bandcamp.com/album/tou-hop-vol-10)  
 
 ---
 

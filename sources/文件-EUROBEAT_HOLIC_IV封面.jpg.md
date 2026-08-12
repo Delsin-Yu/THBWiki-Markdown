@@ -1,6 +1,6 @@
 # 文件:EUROBEAT_HOLIC_IV封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\29\ns6%3AEUROBEAT_HOLIC_IV%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\29\ns6%3AEUROBEAT_HOLIC_IV%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Eurobeat_Union | SOUND_HOLIC | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Eurobeat_Union | SOUND_HOLIC | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [EUROBEAT HOLIC IV](./EUROBEAT_HOLIC_IV.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)
-
-
-
+- [EUROBEAT HOLIC IV](./EUROBEAT_HOLIC_IV.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
 
 
 ---

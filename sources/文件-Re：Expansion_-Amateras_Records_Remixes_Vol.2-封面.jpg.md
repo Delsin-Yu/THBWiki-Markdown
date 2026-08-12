@@ -1,6 +1,6 @@
 # 文件:Re：Expansion_-Amateras_Records_Remixes_Vol.2-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1f\ns6%3ARe%EF%BC%9AExpansion_-Amateras_Records_Remixes_Vol%2E2-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1f\ns6%3ARe%EF%BC%9AExpansion_-Amateras_Records_Remixes_Vol%2E2-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Amateras_Records | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Amateras_Records | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Re：Expansion -Amateras Records Remixes Vol.2-](./Re：Expansion_-Amateras_Records_Remixes_Vol.2-.md)  
-该封面包含的角色：- [古明地觉](./古明地觉.md)
-
-
-
+- [Re：Expansion -Amateras Records Remixes Vol.2-](./Re：Expansion_-Amateras_Records_Remixes_Vol.2-.md)该封面包含的角色：
+- [古明地觉](./古明地觉.md)
 
 
 ---

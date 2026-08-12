@@ -1,12 +1,8 @@
 # 文件:星符「Dazzle_Double_Star」.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\93\ns6%3A%E6%98%9F%E7%AC%A6%E3%80%8CDazzle_Double_Star%E3%80%8D%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\93\ns6%3A%E6%98%9F%E7%AC%A6%E3%80%8CDazzle_Double_Star%E3%80%8D%2Ejpg.html -->
 
 東方邪星章製作チーム
-
-
-
-
 
 
 ---

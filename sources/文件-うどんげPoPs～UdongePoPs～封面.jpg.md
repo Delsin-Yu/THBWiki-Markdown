@@ -1,6 +1,6 @@
 # 文件:うどんげPoPs～UdongePoPs～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\70\ns6%3A%E3%81%86%E3%81%A9%E3%82%93%E3%81%92PoPs%EF%BD%9EUdongePoPs%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\70\ns6%3A%E3%81%86%E3%81%A9%E3%82%93%E3%81%92PoPs%EF%BD%9EUdongePoPs%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 MiuMyu | 专辑封面 | 封面图片
 
@@ -8,16 +8,12 @@ MiuMyu | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [うどんげPoPs～UdongePoPs～](./うどんげPoPs～UdongePoPs～.md)  
-该封面包含的角色：- [因幡帝](./因幡帝.md)- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
+- [うどんげPoPs～UdongePoPs～](./うどんげPoPs～UdongePoPs～.md)该封面包含的角色：
+- [因幡帝](./因幡帝.md)
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
 
   
-源地址：[[1]](https://web.archive.org/web/20060708235312im_/http://miumyu.net/img/ups_shita.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://web.archive.org/web/20060708235312im_/http://miumyu.net/img/ups_shita.jpg)  
 
 ---
 

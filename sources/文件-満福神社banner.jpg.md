@@ -1,12 +1,8 @@
 # 文件:満福神社banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\82\ns6%3A%E6%BA%80%E7%A6%8F%E7%A5%9E%E7%A4%BEbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\82\ns6%3A%E6%BA%80%E7%A6%8F%E7%A5%9E%E7%A4%BEbanner%2Ejpg.html -->
 
 満福神社 | 社团LOGO
-
-
-
-
 
 
 ---

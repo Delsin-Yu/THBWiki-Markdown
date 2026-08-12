@@ -1,12 +1,8 @@
 # 文件:GoM插图（永琳-3-2）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4b\ns6%3AGoM%E6%8F%92%E5%9B%BE%EF%BC%88%E6%B0%B8%E7%90%B3-3-2%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4b\ns6%3AGoM%E6%8F%92%E5%9B%BE%EF%BC%88%E6%B0%B8%E7%90%B3-3-2%EF%BC%89%2Ejpg.html -->
 
 八意永琳 | 魔理沙的魔法书
-
-
-
-
 
 
 ---

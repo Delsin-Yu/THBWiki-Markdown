@@ -1,12 +1,8 @@
 # 文件:HAPPY_CLOVERbanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d5\ns6%3AHAPPY_CLOVERbanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d5\ns6%3AHAPPY_CLOVERbanner%2Egif.html -->
 
 HAPPY_CLOVER | 社团LOGO
-
-
-
-
 
 
 ---

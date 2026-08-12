@@ -1,16 +1,12 @@
 # 模板:TGS
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\0\0e\ns10%3ATGS.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\0\0e\ns10%3ATGS.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

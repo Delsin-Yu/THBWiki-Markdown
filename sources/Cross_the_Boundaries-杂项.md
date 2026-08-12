@@ -1,30 +1,23 @@
 # Cross_the_Boundaries/杂项
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\00\ns0%3ACross_the_Boundaries%2F%E6%9D%82%E9%A1%B9.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\00\ns0%3ACross_the_Boundaries%2F%E6%9D%82%E9%A1%B9.html -->
 
 Ziel_graywords
 
 
 ## 汉化历程
-
   
 [2021.10.24](https://t.bilibili.com/585154461904924623) 官方添加简体中文版本下载链接  
-
 [2021.10.14](https://t.bilibili.com/581405599692044431) 汉化完成，转码  
 
 2021.8.16 开始汉化  
 
 2021.8.15 汉化授权  
-
-[](./文件-CTB汉化授权.png.md)   
+<img alt="CTB汉化授权.png" src="https://upload.thwiki.cc/thumb/9/96/CTB%E6%B1%89%E5%8C%96%E6%8E%88%E6%9D%83.png/638px-CTB%E6%B1%89%E5%8C%96%E6%8E%88%E6%9D%83.png" decoding="async" loading="lazy" width="638" height="220" srcset="https://upload.thwiki.cc/thumb/9/96/CTB%E6%B1%89%E5%8C%96%E6%8E%88%E6%9D%83.png/957px-CTB%E6%B1%89%E5%8C%96%E6%8E%88%E6%9D%83.png 1.5x, https://upload.thwiki.cc/thumb/9/96/CTB%E6%B1%89%E5%8C%96%E6%8E%88%E6%9D%83.png/1276px-CTB%E6%B1%89%E5%8C%96%E6%8E%88%E6%9D%83.png 2x" data-file-width="2195" data-file-height="757">
+   
 
 2021.8.11 萝卜 (未找到链接) 和UTZ (未找到链接)开始联系作者
   
-
-
-
-
-
 
 ---
 

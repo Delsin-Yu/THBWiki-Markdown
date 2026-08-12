@@ -1,6 +1,6 @@
 # 文件:Instrumental_Collection_Vol.1（Norowareta_Night）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\74\ns6%3AInstrumental_Collection_Vol%2E1%EF%BC%88Norowareta_Night%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\74\ns6%3AInstrumental_Collection_Vol%2E1%EF%BC%88Norowareta_Night%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Norowareta_Night | 专辑封面 | 封面图片
 
@@ -8,11 +8,10 @@ Norowareta_Night | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Instrumental Collection Vol.1（Norowareta Night）](./Instrumental_Collection_Vol.1（Norowareta_Night）.md)  
-该封面包含的角色：- [红美铃](./红美铃.md)- [古明地恋](./古明地恋.md)- [圣白莲](./圣白莲.md)
-
-
-
+- [Instrumental Collection Vol.1（Norowareta Night）](./Instrumental_Collection_Vol.1（Norowareta_Night）.md)该封面包含的角色：
+- [红美铃](./红美铃.md)
+- [古明地恋](./古明地恋.md)
+- [圣白莲](./圣白莲.md)
 
 
 ---

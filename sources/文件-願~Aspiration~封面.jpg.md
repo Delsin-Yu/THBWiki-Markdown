@@ -1,6 +1,6 @@
 # 文件:願~Aspiration~封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a5\ns6%3A%E9%A1%98%7EAspiration%7E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a5\ns6%3A%E9%A1%98%7EAspiration%7E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 AD：Peak | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ AD：Peak | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [願~Aspiration~](./願~Aspiration~.md)  
-该封面包含的角色：- [东风谷早苗](./东风谷早苗.md)
-
-
-
+- [願~Aspiration~](./願~Aspiration~.md)该封面包含的角色：
+- [东风谷早苗](./东风谷早苗.md)
 
 
 ---

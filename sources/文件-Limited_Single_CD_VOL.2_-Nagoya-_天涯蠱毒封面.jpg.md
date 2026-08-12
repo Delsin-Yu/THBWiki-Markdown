@@ -1,6 +1,6 @@
 # 文件:Limited_Single_CD_VOL.2_-Nagoya-_天涯蠱毒封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e9\ns6%3ALimited_Single_CD_VOL%2E2_-Nagoya-_%E5%A4%A9%E6%B6%AF%E8%A0%B1%E6%AF%92%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e9\ns6%3ALimited_Single_CD_VOL%2E2_-Nagoya-_%E5%A4%A9%E6%B6%AF%E8%A0%B1%E6%AF%92%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 GET_IN_THE_RING | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ GET_IN_THE_RING | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Limited Single CD VOL.2 -Nagoya- 天涯蠱毒](./Limited_Single_CD_VOL.2_-Nagoya-_天涯蠱毒.md)  
-该封面包含的角色：- [蓬莱山辉夜](./蓬莱山辉夜.md)
-
-
-
+- [Limited Single CD VOL.2 -Nagoya- 天涯蠱毒](./Limited_Single_CD_VOL.2_-Nagoya-_天涯蠱毒.md)该封面包含的角色：
+- [蓬莱山辉夜](./蓬莱山辉夜.md)
 
 
 ---

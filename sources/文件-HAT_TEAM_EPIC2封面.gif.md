@@ -1,6 +1,6 @@
 # 文件:HAT_TEAM_EPIC2封面.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b2\ns6%3AHAT_TEAM_EPIC2%E5%B0%81%E9%9D%A2%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b2\ns6%3AHAT_TEAM_EPIC2%E5%B0%81%E9%9D%A2%2Egif.html -->
 
 けろぷろ！ | 同人志封面 | 封面图片
 
@@ -10,16 +10,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [HAT TEAM EPIC2](./HAT_TEAM_EPIC2.md)  
-该封面包含的角色：- [犬走椛](./犬走椛.md)- [姬海棠果](./姬海棠果.md)
+- [HAT TEAM EPIC2](./HAT_TEAM_EPIC2.md)该封面包含的角色：
+- [犬走椛](./犬走椛.md)
+- [姬海棠果](./姬海棠果.md)
 
   
-源地址：[direct image link](https://livedoor.blogimg.jp/hirakike/imgs/b/f/bf774221.gif), [source page](http://hirakike.blog.jp/archives/38910138.html)
-  
-
-
-
-
+源地址：[direct image link](https://livedoor.blogimg.jp/hirakike/imgs/b/f/bf774221.gif), [source page](http://hirakike.blog.jp/archives/38910138.html)  
 
 ---
 

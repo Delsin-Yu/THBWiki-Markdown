@@ -1,6 +1,6 @@
 # 文件:すべてがGになる封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e8\ns6%3A%E3%81%99%E3%81%B9%E3%81%A6%E3%81%8CG%E3%81%AB%E3%81%AA%E3%82%8B%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e8\ns6%3A%E3%81%99%E3%81%B9%E3%81%A6%E3%81%8CG%E3%81%AB%E3%81%AA%E3%82%8B%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 エントゲーゲン | 同人志封面 | 封面图片
 
@@ -10,11 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [すべてがGになる](./すべてがGになる.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)- [大妖精](./大妖精.md)- [哆来咪·苏伊特](./哆来咪·苏伊特.md)- [稀神探女](./稀神探女.md)
-
-
-
+- [すべてがGになる](./すべてがGになる.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
+- [大妖精](./大妖精.md)
+- [哆来咪·苏伊特](./哆来咪·苏伊特.md)
+- [稀神探女](./稀神探女.md)
 
 
 ---

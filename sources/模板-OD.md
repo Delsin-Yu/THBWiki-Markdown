@@ -1,16 +1,12 @@
 # 模板:OD
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\9\98\ns10%3AOD.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\9\98\ns10%3AOD.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

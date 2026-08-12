@@ -1,16 +1,12 @@
 # 文件:ssg_09.mid
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7e\ns6%3Assg_09%2Emid.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7e\ns6%3Assg_09%2Emid.html -->
 
 东方幻想的音乐 | 官方MIDI | 机械马戏团_～_Reverie | 秋霜玉
 
   
 機械サーカス　~Reverie 秋霜玉4面Boss，マリー的主题曲。 东方的幻想音乐版，与原秋霜玉版本有出入！
   
-
-
-
-
 
 ---
 

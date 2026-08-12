@@ -1,6 +1,6 @@
 # 文件:Ensemble_of_Gensokyo_8_-_Octaverto封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c6\ns6%3AEnsemble_of_Gensokyo_8_-_Octaverto%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c6\ns6%3AEnsemble_of_Gensokyo_8_-_Octaverto%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Dex_Hexallion | 专辑封面 | 封面图片
 
@@ -10,11 +10,10 @@ Dex_Hexallion | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Ensemble of Gensokyo 8 - Octaverto](./Ensemble_of_Gensokyo_8_-_Octaverto.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [藤原妹红](./藤原妹红.md)
-
-
-
+- [Ensemble of Gensokyo 8 - Octaverto](./Ensemble_of_Gensokyo_8_-_Octaverto.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [藤原妹红](./藤原妹红.md)
 
 
 ---

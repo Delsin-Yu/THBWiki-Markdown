@@ -1,12 +1,8 @@
 # 文件:Color＆Color＋banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\86\ns6%3AColor%EF%BC%86Color%EF%BC%8Bbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\86\ns6%3AColor%EF%BC%86Color%EF%BC%8Bbanner%2Epng.html -->
 
 Color＆Color＋ | 社团LOGO
-
-
-
-
 
 
 ---

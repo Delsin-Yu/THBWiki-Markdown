@@ -1,12 +1,8 @@
 # 文件:一人華飯スペシャルbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\03\ns6%3A%E4%B8%80%E4%BA%BA%E8%8F%AF%E9%A3%AF%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%ABbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\03\ns6%3A%E4%B8%80%E4%BA%BA%E8%8F%AF%E9%A3%AF%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%ABbanner%2Ejpg.html -->
 
 一人華飯スペシャル | 社团LOGO
-
-
-
-
 
 
 ---

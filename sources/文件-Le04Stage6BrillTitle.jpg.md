@@ -1,12 +1,8 @@
 # 文件:Le04Stage6BrillTitle.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\50\ns6%3ALe04Stage6BrillTitle%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\50\ns6%3ALe04Stage6BrillTitle%2Ejpg.html -->
 
 トリック・ノスタルジー
-
-
-
-
 
 
 ---

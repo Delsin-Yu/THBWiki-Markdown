@@ -1,6 +1,6 @@
 # 文件:東方シンフォニックウィンドアンサンブル_Live_ver.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2b\ns6%3A%E6%9D%B1%E6%96%B9%E3%82%B7%E3%83%B3%E3%83%95%E3%82%A9%E3%83%8B%E3%83%83%E3%82%AF%E3%82%A6%E3%82%A3%E3%83%B3%E3%83%89%E3%82%A2%E3%83%B3%E3%82%B5%E3%83%B3%E3%83%96%E3%83%AB_Live_ver%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2b\ns6%3A%E6%9D%B1%E6%96%B9%E3%82%B7%E3%83%B3%E3%83%95%E3%82%A9%E3%83%8B%E3%83%83%E3%82%AF%E3%82%A6%E3%82%A3%E3%83%B3%E3%83%89%E3%82%A2%E3%83%B3%E3%82%B5%E3%83%B3%E3%83%96%E3%83%AB_Live_ver%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 FDesk | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ FDesk | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方シンフォニックウィンドアンサンブル Live ver.](./東方シンフォニックウィンドアンサンブル_Live_ver..md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [東方シンフォニックウィンドアンサンブル Live ver.](./東方シンフォニックウィンドアンサンブル_Live_ver..md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

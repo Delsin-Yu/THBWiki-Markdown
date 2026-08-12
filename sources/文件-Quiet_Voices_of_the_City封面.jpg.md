@@ -1,6 +1,6 @@
 # 文件:Quiet_Voices_of_the_City封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7c\ns6%3AQuiet_Voices_of_the_City%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7c\ns6%3AQuiet_Voices_of_the_City%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Akane | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@ Akane | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Quiet Voices of the City](./Quiet_Voices_of_the_City.md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)
+- [Quiet Voices of the City](./Quiet_Voices_of_the_City.md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
 
   
-源地址：[direct image link (10 size)](https://f4.bcbits.com/img/a1164067318_10.jpg), [source page (artist Bandcamp)](https://akanethetengu.bandcamp.com/album/quiet-voices-of-the-city)
-  
-
-
-
-
+源地址：[direct image link (10 size)](https://f4.bcbits.com/img/a1164067318_10.jpg), [source page (artist Bandcamp)](https://akanethetengu.bandcamp.com/album/quiet-voices-of-the-city)  
 
 ---
 

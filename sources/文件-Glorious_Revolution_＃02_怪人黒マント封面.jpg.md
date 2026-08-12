@@ -1,6 +1,6 @@
 # 文件:Glorious_Revolution_＃02_怪人黒マント封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\83\ns6%3AGlorious_Revolution_%EF%BC%8302_%E6%80%AA%E4%BA%BA%E9%BB%92%E3%83%9E%E3%83%B3%E3%83%88%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\83\ns6%3AGlorious_Revolution_%EF%BC%8302_%E6%80%AA%E4%BA%BA%E9%BB%92%E3%83%9E%E3%83%B3%E3%83%88%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 すとらいぷぱたーん | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Glorious Revolution ＃02 怪人黒マント](./Glorious_Revolution_＃02_怪人黒マント.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
-
-
-
+- [Glorious Revolution ＃02 怪人黒マント](./Glorious_Revolution_＃02_怪人黒マント.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
 
 ---

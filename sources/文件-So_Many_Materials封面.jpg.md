@@ -1,6 +1,6 @@
 # 文件:So_Many_Materials封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dc\ns6%3ASo_Many_Materials%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dc\ns6%3ASo_Many_Materials%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 C.H.S | 专辑封面 | 封面图片
 
@@ -8,16 +8,12 @@ C.H.S | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [So Many Materials](./So_Many_Materials.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)- [森近霖之助](./森近霖之助.md)
+- [So Many Materials](./So_Many_Materials.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
+- [森近霖之助](./森近霖之助.md)
 
   
-源地址: [[1]](http://c-h-s.me/somany/imgs/jacket.jpg)
-  
-
-
-
-
+源地址: [\[1\]](http://c-h-s.me/somany/imgs/jacket.jpg)  
 
 ---
 

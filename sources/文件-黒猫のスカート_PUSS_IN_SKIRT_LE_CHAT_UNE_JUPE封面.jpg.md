@@ -1,6 +1,6 @@
 # 文件:黒猫のスカート_PUSS_IN_SKIRT_LE_CHAT_UNE_JUPE封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\13\ns6%3A%E9%BB%92%E7%8C%AB%E3%81%AE%E3%82%B9%E3%82%AB%E3%83%BC%E3%83%88_PUSS_IN_SKIRT_LE_CHAT_UNE_JUPE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\13\ns6%3A%E9%BB%92%E7%8C%AB%E3%81%AE%E3%82%B9%E3%82%AB%E3%83%BC%E3%83%88_PUSS_IN_SKIRT_LE_CHAT_UNE_JUPE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Golden_City_Factory | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Golden_City_Factory | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [黒猫のスカート PUSS IN SKIRT LE CHAT UNE JUPE](./黒猫のスカート_PUSS_IN_SKIRT_LE_CHAT_UNE_JUPE.md)  
-该封面包含的角色：- [橙](./橙.md)
-
-
-
+- [黒猫のスカート PUSS IN SKIRT LE CHAT UNE JUPE](./黒猫のスカート_PUSS_IN_SKIRT_LE_CHAT_UNE_JUPE.md)该封面包含的角色：
+- [橙](./橙.md)
 
 
 ---

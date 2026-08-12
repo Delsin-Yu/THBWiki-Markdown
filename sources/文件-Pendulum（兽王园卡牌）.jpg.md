@@ -1,12 +1,8 @@
 # 文件:Pendulum（兽王园卡牌）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\49\ns6%3APendulum%EF%BC%88%E5%85%BD%E7%8E%8B%E5%9B%AD%E5%8D%A1%E7%89%8C%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\49\ns6%3APendulum%EF%BC%88%E5%85%BD%E7%8E%8B%E5%9B%AD%E5%8D%A1%E7%89%8C%EF%BC%89%2Ejpg.html -->
 
 东方兽王园
-
-
-
-
 
 
 ---

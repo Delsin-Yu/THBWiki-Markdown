@@ -1,6 +1,6 @@
 # 文件:KEEP_OUT_!_2nd_Place!!封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\74\ns6%3AKEEP_OUT_%21_2nd_Place%21%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\74\ns6%3AKEEP_OUT_%21_2nd_Place%21%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Undefined_Field | 专辑封面 | 封面图片
 
@@ -8,11 +8,10 @@ Undefined_Field | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [KEEP OUT&#160;! 2nd Place!!](./KEEP_OUT_!_2nd_Place!!.md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)- [犬走椛](./犬走椛.md)- [姬海棠果](./姬海棠果.md)
-
-
-
+- [KEEP OUT ! 2nd Place!!](./KEEP_OUT_!_2nd_Place!!.md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
+- [犬走椛](./犬走椛.md)
+- [姬海棠果](./姬海棠果.md)
 
 
 ---

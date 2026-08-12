@@ -1,12 +1,8 @@
 # 文件:异象聚合logo.JPG
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\08\ns6%3A%E5%BC%82%E8%B1%A1%E8%81%9A%E5%90%88logo%2EJPG.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\08\ns6%3A%E5%BC%82%E8%B1%A1%E8%81%9A%E5%90%88logo%2EJPG.html -->
 
 异象聚合 | 社团LOGO
-
-
-
-
 
 
 ---

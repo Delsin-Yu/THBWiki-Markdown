@@ -1,6 +1,6 @@
 # 文件:Midnight_Glow_午夜辉光封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3d\ns6%3AMidnight_Glow_%E5%8D%88%E5%A4%9C%E8%BE%89%E5%85%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3d\ns6%3AMidnight_Glow_%E5%8D%88%E5%A4%9C%E8%BE%89%E5%85%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Structure_Sound | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Structure_Sound | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Midnight Glow 午夜辉光](./Midnight_Glow_午夜辉光.md)  
-该封面包含的角色：- [藤原妹红](./藤原妹红.md)
-
-
-
+- [Midnight Glow 午夜辉光](./Midnight_Glow_午夜辉光.md)该封面包含的角色：
+- [藤原妹红](./藤原妹红.md)
 
 
 ---

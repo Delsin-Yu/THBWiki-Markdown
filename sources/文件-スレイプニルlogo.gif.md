@@ -1,18 +1,13 @@
 # 文件:スレイプニルlogo.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\db\ns6%3A%E3%82%B9%E3%83%AC%E3%82%A4%E3%83%97%E3%83%8B%E3%83%ABlogo%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\db\ns6%3A%E3%82%B9%E3%83%AC%E3%82%A4%E3%83%97%E3%83%8B%E3%83%ABlogo%2Egif.html -->
 
 スレイプニル | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[[1]](https://web.archive.org/web/20141226074956im_/http://sleipnir-soft.com/img/logo.gif)
-  
-
-
-
-
+源地址：[\[1\]](https://web.archive.org/web/20141226074956im_/http://sleipnir-soft.com/img/logo.gif)  
 
 ---
 

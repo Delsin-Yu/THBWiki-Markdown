@@ -1,6 +1,6 @@
 # 文件:狭間の追憶_vol._11封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4f\ns6%3A%E7%8B%AD%E9%96%93%E3%81%AE%E8%BF%BD%E6%86%B6_vol%2E_11%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4f\ns6%3A%E7%8B%AD%E9%96%93%E3%81%AE%E8%BF%BD%E6%86%B6_vol%2E_11%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 TPとDsの狭間 | 同人志封面 | 封面图片
 
@@ -10,11 +10,9 @@ TPとDsの狭間 | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [狭間の追憶 vol. 11](./狭間の追憶_vol._11.md)  
-该封面包含的角色：- [米斯蒂娅·萝蕾拉](./米斯蒂娅·萝蕾拉.md)- [幽谷响子](./幽谷响子.md)
-
-
-
+- [狭間の追憶 vol. 11](./狭間の追憶_vol._11.md)该封面包含的角色：
+- [米斯蒂娅·萝蕾拉](./米斯蒂娅·萝蕾拉.md)
+- [幽谷响子](./幽谷响子.md)
 
 
 ---

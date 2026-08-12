@@ -1,14 +1,11 @@
 # 文件:9bFOXlogo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\79\ns6%3A9bFOXlogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\79\ns6%3A9bFOXlogo%2Ejpg.html -->
 
 9bFOX | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:TH0X_Chaos_Trance_Zero封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\da\ns6%3ATH0X_Chaos_Trance_Zero%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\da\ns6%3ATH0X_Chaos_Trance_Zero%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Active_Sounds_Zone | 专辑封面 | 封面图片
 
@@ -11,12 +11,7 @@ Active_Sounds_Zone | 专辑封面 | 封面图片
 - [TH0X Chaos Trance Zero](./TH0X_Chaos_Trance_Zero.md)
 
   
-源地址：[[1]](http://aszr.info/disco/img/separate/ASZM-0009.png)
-  
-
-
-
-
+源地址：[\[1\]](http://aszr.info/disco/img/separate/ASZM-0009.png)  
 
 ---
 

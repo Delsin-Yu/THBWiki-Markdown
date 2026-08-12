@@ -1,38 +1,27 @@
 # 蝶舞幽華Outside_Story_I-Your_Dream,_My_Dream-
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\0d\ns0%3A%E8%9D%B6%E8%88%9E%E5%B9%BD%E8%8F%AFOutside_Story_I-Your_Dream%2C_My_Dream-.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\0d\ns0%3A%E8%9D%B6%E8%88%9E%E5%B9%BD%E8%8F%AFOutside_Story_I-Your_Dream%2C_My_Dream-.html -->
 
 2010年5月29日 由 Twilight~日月之境~ 于 东方幻华宴1 发布的漫画同人志，B5尺寸一共24页，登场人物有 西行寺幽幽子、八云紫、魂魄妖梦，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人志 (未找到链接)** 的词条
-
+**[二次创作同人志](./二次创作.md#同人志)**的词条
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-蝶舞幽華Outside_Story_I-Your_Dream,_My_Dream-封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/1/14/%E8%9D%B6%E8%88%9E%E5%B9%BD%E8%8F%AFOutside_Story_I-Your_Dream%2C_My_Dream-%E5%B0%81%E9%9D%A2.jpg/153px-%E8%9D%B6%E8%88%9E%E5%B9%BD%E8%8F%AFOutside_Story_I-Your_Dream%2C_My_Dream-%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="153" height="224" srcset="https://upload.thwiki.cc/thumb/1/14/%E8%9D%B6%E8%88%9E%E5%B9%BD%E8%8F%AFOutside_Story_I-Your_Dream%2C_My_Dream-%E5%B0%81%E9%9D%A2.jpg/230px-%E8%9D%B6%E8%88%9E%E5%B9%BD%E8%8F%AFOutside_Story_I-Your_Dream%2C_My_Dream-%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/1/14/%E8%9D%B6%E8%88%9E%E5%B9%BD%E8%8F%AFOutside_Story_I-Your_Dream%2C_My_Dream-%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="299" data-file-height="437"></a><div class="cover-char">角色：<a href="./西行寺幽幽子.md" title="西行寺幽幽子">西行寺幽幽子</a></div></td>
 </tr><tr><td class="label">名称</td><td colspan="2"> 蝶舞幽華Outside Story I-Your Dream, My Dream- </td></tr><tr><td class="label">制作方</td><td><a href="./Twilight~日月之境~.md" title="Twilight~日月之境~">Twilight~日月之境~</a></td><td class="cover-artwork" rowspan="8" style="min-width:224px;"><a href="./文件-蝶舞幽華Outside_Story_I-Your_Dream,_My_Dream-封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/1/14/%E8%9D%B6%E8%88%9E%E5%B9%BD%E8%8F%AFOutside_Story_I-Your_Dream%2C_My_Dream-%E5%B0%81%E9%9D%A2.jpg/153px-%E8%9D%B6%E8%88%9E%E5%B9%BD%E8%8F%AFOutside_Story_I-Your_Dream%2C_My_Dream-%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="153" height="224" srcset="https://upload.thwiki.cc/thumb/1/14/%E8%9D%B6%E8%88%9E%E5%B9%BD%E8%8F%AFOutside_Story_I-Your_Dream%2C_My_Dream-%E5%B0%81%E9%9D%A2.jpg/230px-%E8%9D%B6%E8%88%9E%E5%B9%BD%E8%8F%AFOutside_Story_I-Your_Dream%2C_My_Dream-%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/1/14/%E8%9D%B6%E8%88%9E%E5%B9%BD%E8%8F%AFOutside_Story_I-Your_Dream%2C_My_Dream-%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="299" data-file-height="437"></a><div class="cover-char">角色：<a href="./西行寺幽幽子.md" title="西行寺幽幽子">西行寺幽幽子</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2010-05-29&#160;（<a href="/展会作品列表?e=%E4%B8%9C%E6%96%B9%E5%B9%BB%E5%8D%8E%E5%AE%B4%231">東方幻華宴1</a>）</td></tr><tr><td class="label">类型</td><td>漫画</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>B5</td></tr><tr><td class="label">页数</td><td>24P</td></tr><tr><td class="label">登场人物</td><td><a href="./西行寺幽幽子.md" title="西行寺幽幽子">西行寺幽幽子</a>，<a href="./八云紫.md" title="八云紫">八云紫</a>，<a href="./魂魄妖梦.md" title="魂魄妖梦">魂魄妖梦</a></td></tr><tr><td class="label">售价</td><td>150新台币</td></tr>
+</tr><tr><td class="label">首发日期</td><td>2010-05-29 （<a href="./展会作品列表.md#1">東方幻華宴1</a>）</td></tr><tr><td class="label">类型</td><td>漫画</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>B5</td></tr><tr><td class="label">页数</td><td>24P</td></tr><tr><td class="label">登场人物</td><td><a href="./西行寺幽幽子.md" title="西行寺幽幽子">西行寺幽幽子</a>，<a href="./八云紫.md" title="八云紫">八云紫</a>，<a href="./魂魄妖梦.md" title="魂魄妖梦">魂魄妖梦</a></td></tr><tr><td class="label">售价</td><td>150新台币</td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://shtwilight2.blog125.fc2.com/blog-entry-19.html">http://shtwilight2.blog125.fc2.com/blog-entry-19.html</a></td></tr></tbody></table>
 
 蝶舞幽華Outside Story I-Your Dream, My Dream-（同人志，Twilight~日月之境~，2010） - 2010年5月29日 由 Twilight~日月之境~ 于 东方幻华宴1 发布的漫画同人志，B5尺寸一共24页，登场人物有 西行寺幽幽子、八云紫、魂魄妖梦，分级为 一般向
-
 ## Staff
 主笔作者
 : 日津樹伶
-
 
 ## 简介
   
 蝶舞幽華番外篇，幽幽子中心本
   
-  
-  
-
-  
-
-
-
-
 
 ---
 

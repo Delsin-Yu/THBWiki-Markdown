@@ -1,6 +1,6 @@
 # 文件:封獣ぬえ亜種ぬえちゃ合同2_Industrial_trash_girl封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e6\ns6%3A%E5%B0%81%E7%8D%A3%E3%81%AC%E3%81%88%E4%BA%9C%E7%A8%AE%E3%81%AC%E3%81%88%E3%81%A1%E3%82%83%E5%90%88%E5%90%8C2_Industrial_trash_girl%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e6\ns6%3A%E5%B0%81%E7%8D%A3%E3%81%AC%E3%81%88%E4%BA%9C%E7%A8%AE%E3%81%AC%E3%81%88%E3%81%A1%E3%82%83%E5%90%88%E5%90%8C2_Industrial_trash_girl%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ねじやのひと | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [封獣ぬえ亜種ぬえちゃ合同2 Industrial trash girl](./封獣ぬえ亜種ぬえちゃ合同2_Industrial_trash_girl.md)  
-该封面包含的角色：- [封兽鵺](./封兽鵺.md)
-
-
-
+- [封獣ぬえ亜種ぬえちゃ合同2 Industrial trash girl](./封獣ぬえ亜種ぬえちゃ合同2_Industrial_trash_girl.md)该封面包含的角色：
+- [封兽鵺](./封兽鵺.md)
 
 
 ---

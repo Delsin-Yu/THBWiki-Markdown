@@ -1,6 +1,6 @@
 # 文件:東方恋隣童-Toho_kourindo-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9b\ns6%3A%E6%9D%B1%E6%96%B9%E6%81%8B%E9%9A%A3%E7%AB%A5-Toho_kourindo-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9b\ns6%3A%E6%9D%B1%E6%96%B9%E6%81%8B%E9%9A%A3%E7%AB%A5-Toho_kourindo-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 封面图片 | 東方活動写真館 | 视频封面
 
@@ -8,11 +8,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方恋隣童-Toho kourindo-](./東方恋隣童-Toho_kourindo-.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [魂魄妖梦](./魂魄妖梦.md)- [雾雨魔理沙](./雾雨魔理沙.md)- [森近霖之助](./森近霖之助.md)- [无名的读书妖怪](./无名的读书妖怪.md)
-
-
-
+- [東方恋隣童-Toho kourindo-](./東方恋隣童-Toho_kourindo-.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [魂魄妖梦](./魂魄妖梦.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
+- [森近霖之助](./森近霖之助.md)
+- [无名的读书妖怪](./无名的读书妖怪.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:PHANTASY_STAR_SYMPHONY_～魔奏響聖封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1f\ns6%3APHANTASY_STAR_SYMPHONY_%EF%BD%9E%E9%AD%94%E5%A5%8F%E9%9F%BF%E8%81%96%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1f\ns6%3APHANTASY_STAR_SYMPHONY_%EF%BD%9E%E9%AD%94%E5%A5%8F%E9%9F%BF%E8%81%96%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 緋月ノ雫
 
@@ -8,11 +8,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [PHANTASY STAR SYMPHONY ～魔奏響聖](./PHANTASY_STAR_SYMPHONY_～魔奏響聖.md)  
-该封面包含的角色：- [圣白莲](./圣白莲.md)- [霍青娥](./霍青娥.md)- [丰聪耳神子](./丰聪耳神子.md)
-
-
-
+- [PHANTASY STAR SYMPHONY ～魔奏響聖](./PHANTASY_STAR_SYMPHONY_～魔奏響聖.md)该封面包含的角色：
+- [圣白莲](./圣白莲.md)
+- [霍青娥](./霍青娥.md)
+- [丰聪耳神子](./丰聪耳神子.md)
 
 
 ---

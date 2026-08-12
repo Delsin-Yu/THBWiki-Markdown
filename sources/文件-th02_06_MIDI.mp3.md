@@ -1,6 +1,6 @@
 # 文件:th02_06_MIDI.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\79\ns6%3Ath02_06_MIDI%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\79\ns6%3Ath02_06_MIDI%2Emp3.html -->
 
 东方封魔录 | 东方封魔录_～幽幻乱舞
 
@@ -9,12 +9,7 @@
   
 東方封魔録　～幽幻乱舞 东方封魔录5面道中曲MIDI版。由Roland Sound Canvas 88Pro实机录制；MP3采样率44.1KHz，码率192Kbps。  
 
-来源：[ZUN's MIDIs the way they were intended to be heard (100% COMPLETE)](https://www.shrinemaiden.org/forum/index.php/topic,18989.0.html)
-  
-
-
-
-
+来源：[ZUN's MIDIs the way they were intended to be heard (100% COMPLETE)](https://www.shrinemaiden.org/forum/index.php/topic,18989.0.html)  
 
 ---
 

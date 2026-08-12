@@ -1,12 +1,8 @@
 # 文件:macaroombanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\10\ns6%3Amacaroombanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\10\ns6%3Amacaroombanner%2Egif.html -->
 
 macaroom | 社团LOGO
-
-
-
-
 
 
 ---

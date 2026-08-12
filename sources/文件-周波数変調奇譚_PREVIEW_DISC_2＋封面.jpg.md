@@ -1,6 +1,6 @@
 # 文件:周波数変調奇譚_PREVIEW_DISC_2＋封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5c\ns6%3A%E5%91%A8%E6%B3%A2%E6%95%B0%E5%A4%89%E8%AA%BF%E5%A5%87%E8%AD%9A_PREVIEW_DISC_2%EF%BC%8B%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5c\ns6%3A%E5%91%A8%E6%B3%A2%E6%95%B0%E5%A4%89%E8%AA%BF%E5%A5%87%E8%AD%9A_PREVIEW_DISC_2%EF%BC%8B%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 宇部ソフトウェア技術研究所 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [周波数変調奇譚 PREVIEW DISC 2＋](./周波数変調奇譚_PREVIEW_DISC_2＋.md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)
-
-
-
+- [周波数変調奇譚 PREVIEW DISC 2＋](./周波数変調奇譚_PREVIEW_DISC_2＋.md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
 
 
 ---

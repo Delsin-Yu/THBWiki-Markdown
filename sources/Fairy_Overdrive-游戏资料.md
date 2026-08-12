@@ -1,6 +1,6 @@
 # Fairy_Overdrive/游戏资料
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\b1\ns0%3AFairy_Overdrive%2F%E6%B8%B8%E6%88%8F%E8%B5%84%E6%96%99.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\b1\ns0%3AFairy_Overdrive%2F%E6%B8%B8%E6%88%8F%E8%B5%84%E6%96%99.html -->
 
 斯塔萨菲雅 | 桑尼米尔克 | 符卡 | 露娜切露德
 
@@ -8,16 +8,11 @@
 ## 目录
 
 - [1 妖精大战争](#妖精大战争)
-
   - [1.1 基本特征](#基本特征)
   - [1.2 桑尼（A1/C2）](#桑尼（A1/C2）)
   - [1.3 露娜（B1/C1）](#露娜（B1/C1）)
   - [1.4 斯塔（A2/B2）](#斯塔（A2/B2）)
   - [1.5 应对方式](#应对方式)
-
-
-
-
 
 
 
@@ -31,34 +26,26 @@
 根据3面关底boss不同，boss的运动轨迹也会发生变化。
   
 
-
 ### 桑尼（A1/C2）
   
 逆时针方向，划菱形，顶点位于版边上。
   
-
 
 ### 露娜（B1/C1）
   
 向自机位置方向运动，到达版边停止。
   
 
-
 ### 斯塔（A2/B2）
   
 右下→左→左上→右上→左下→右→右上→左上→右下，按照此模式循环。
   
-
 
 ### 应对方式
 基本
 : 
 bomb
 : 开场追着boss打，当其过来时使用bomb，之后追着打即可迅速击破。
-
-
-
-
 
 ---
 

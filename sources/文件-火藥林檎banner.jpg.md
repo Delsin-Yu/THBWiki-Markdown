@@ -1,16 +1,11 @@
 # 文件:火藥林檎banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0c\ns6%3A%E7%81%AB%E8%97%A5%E6%9E%97%E6%AA%8Ebanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0c\ns6%3A%E7%81%AB%E8%97%A5%E6%9E%97%E6%AA%8Ebanner%2Ejpg.html -->
 
 火藥林檎 | 社团LOGO
 
   
-源地址：[[1]](http://i1212.photobucket.com/albums/cc448/kayakulingo/BANNER_TOU.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://i1212.photobucket.com/albums/cc448/kayakulingo/BANNER_TOU.jpg)  
 
 ---
 

@@ -1,38 +1,33 @@
 # TouhouWorks
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\1\1e\ns0%3ATouhouWorks.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\1\1e\ns0%3ATouhouWorks.html -->
 
 网站
 
 
 ## 简介
   
- **TouhouWorks** （简称THWorks）是东方Project专门性质的弹幕视频网站，即以东方Project相关的视频创作为主要内容，並提供在线弹幕视频播放。  
+**TouhouWorks**（简称THWorks）是东方Project专门性质的弹幕视频网站，即以东方Project相关的视频创作为主要内容，並提供在线弹幕视频播放。  
 
 网站由即可科技有限公司运营，于2017年8月短暂试运作，2018年8月起上线。  
 
 自2019年初无法正常运作，目前网址由幻夢結社 (未找到链接)使用。
   
   
-公式网站：[https://touhou.works/](https://touhou.works/)
-  
+公式网站：[https://touhou.works/](https://touhou.works/)  
   
 主要信息发放渠道为推特账户Touhou.works。
   
-
 
 ## 版块分区
   
 目前设有动画、音乐、游戏、其他四个大版块。
   
 
-
 ## 相关网站
+
 - [TouhouVideo弹幕视频网](./TouhouVideo弹幕视频网.md)：TBSGroup视频网站，已停运
 - [PatchyVideo](./PatchyVideo.md)：另一运营的视频网站
-
-
-
 
 
 ---

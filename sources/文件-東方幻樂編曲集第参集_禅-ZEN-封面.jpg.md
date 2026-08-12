@@ -1,6 +1,6 @@
 # 文件:東方幻樂編曲集第参集_禅-ZEN-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6b\ns6%3A%E6%9D%B1%E6%96%B9%E5%B9%BB%E6%A8%82%E7%B7%A8%E6%9B%B2%E9%9B%86%E7%AC%AC%E5%8F%82%E9%9B%86_%E7%A6%85-ZEN-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6b\ns6%3A%E6%9D%B1%E6%96%B9%E5%B9%BB%E6%A8%82%E7%B7%A8%E6%9B%B2%E9%9B%86%E7%AC%AC%E5%8F%82%E9%9B%86_%E7%A6%85-ZEN-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Alstroemeria_Records | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Alstroemeria_Records | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方幻樂編曲集第参集 禅-ZEN-](./東方幻樂編曲集第参集_禅-ZEN-.md)  
-该封面包含的角色：- [西行寺幽幽子](./西行寺幽幽子.md)
-
-
-
+- [東方幻樂編曲集第参集 禅-ZEN-](./東方幻樂編曲集第参集_禅-ZEN-.md)该封面包含的角色：
+- [西行寺幽幽子](./西行寺幽幽子.md)
 
 
 ---

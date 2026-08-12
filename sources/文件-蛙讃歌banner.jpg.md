@@ -1,12 +1,8 @@
 # 文件:蛙讃歌banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\48\ns6%3A%E8%9B%99%E8%AE%83%E6%AD%8Cbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\48\ns6%3A%E8%9B%99%E8%AE%83%E6%AD%8Cbanner%2Ejpg.html -->
 
 社团LOGO | 蛙讃歌
-
-
-
-
 
 
 ---

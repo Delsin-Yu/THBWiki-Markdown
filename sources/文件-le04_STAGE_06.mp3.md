@@ -1,16 +1,12 @@
 # 文件:le04_STAGE_06.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\85\ns6%3Ale04_STAGE_06%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\85\ns6%3Ale04_STAGE_06%2Emp3.html -->
 
 生长着的石墙，移动着的城郭 | 连缘Project官方音乐MP3 | 连缘天影战记
 
   
 连缘天影战记召唤城郭主题曲
   
-
-
-
-
 
 ---
 

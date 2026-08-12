@@ -1,6 +1,6 @@
 # 文件:EuchariS（柳瀬川）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\36\ns6%3AEuchariS%EF%BC%88%E6%9F%B3%E7%80%AC%E5%B7%9D%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\36\ns6%3AEuchariS%EF%BC%88%E6%9F%B3%E7%80%AC%E5%B7%9D%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 柳瀬川
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [EuchariS（柳瀬川）](./EuchariS（柳瀬川）.md)  
-该封面包含的角色：- [八坂神奈子](./八坂神奈子.md)
-
-
-
+- [EuchariS（柳瀬川）](./EuchariS（柳瀬川）.md)该封面包含的角色：
+- [八坂神奈子](./八坂神奈子.md)
 
 
 ---

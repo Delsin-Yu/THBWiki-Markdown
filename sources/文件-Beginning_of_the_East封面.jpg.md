@@ -1,6 +1,6 @@
 # 文件:Beginning_of_the_East封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0c\ns6%3ABeginning_of_the_East%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0c\ns6%3ABeginning_of_the_East%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Maiden's_Capriccio | 专辑封面 | 封面图片
 
@@ -11,12 +11,7 @@ Maiden's_Capriccio | 专辑封面 | 封面图片
 - [Beginning of the East](./Beginning_of_the_East.md)
 
   
-源地址：[[1]](https://kuroblood.bandcamp.com/album/beginning-of-the-east)
-  
-
-
-
-
+源地址：[\[1\]](https://kuroblood.bandcamp.com/album/beginning-of-the-east)  
 
 ---
 

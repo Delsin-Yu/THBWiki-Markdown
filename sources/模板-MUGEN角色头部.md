@@ -1,16 +1,12 @@
 # 模板:MUGEN角色头部
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\e\ed\ns10%3AMUGEN%E8%A7%92%E8%89%B2%E5%A4%B4%E9%83%A8.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\e\ed\ns10%3AMUGEN%E8%A7%92%E8%89%B2%E5%A4%B4%E9%83%A8.html -->
 
 头部模板 | 角色模板
 
 本页是关于东方Project  
- **[相关MUGEN角色](./MUGEN.md)** 的词条  
+**[相关MUGEN角色](./MUGEN.md)**的词条  
 ‎‎  
-
-
-
-
 
 ---
 

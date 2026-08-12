@@ -1,21 +1,19 @@
 # Kiseki（まめルート工房）
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\fc\ns0%3AKiseki%EF%BC%88%E3%81%BE%E3%82%81%E3%83%AB%E3%83%BC%E3%83%88%E5%B7%A5%E6%88%BF%EF%BC%89.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\fc\ns0%3AKiseki%EF%BC%88%E3%81%BE%E3%82%81%E3%83%AB%E3%83%BC%E3%83%88%E5%B7%A5%E6%88%BF%EF%BC%89.html -->
 
 2022年3月21日 由 まめルート工房 于 P-Cat04 发布的摄影集同人志，A4尺寸一共74页，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人志 (未找到链接)** 的词条
-
+**[二次创作同人志](./二次创作.md#同人志)**的词条
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Kiseki（まめルート工房）封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/a/a8/Kiseki%EF%BC%88%E3%81%BE%E3%82%81%E3%83%AB%E3%83%BC%E3%83%88%E5%B7%A5%E6%88%BF%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/184px-Kiseki%EF%BC%88%E3%81%BE%E3%82%81%E3%83%AB%E3%83%BC%E3%83%88%E5%B7%A5%E6%88%BF%EF%BC%89%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="184" height="196" srcset="https://upload.thwiki.cc/thumb/a/a8/Kiseki%EF%BC%88%E3%81%BE%E3%82%81%E3%83%AB%E3%83%BC%E3%83%88%E5%B7%A5%E6%88%BF%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/276px-Kiseki%EF%BC%88%E3%81%BE%E3%82%81%E3%83%AB%E3%83%BC%E3%83%88%E5%B7%A5%E6%88%BF%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/a/a8/Kiseki%EF%BC%88%E3%81%BE%E3%82%81%E3%83%AB%E3%83%BC%E3%83%88%E5%B7%A5%E6%88%BF%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/367px-Kiseki%EF%BC%88%E3%81%BE%E3%82%81%E3%83%AB%E3%83%BC%E3%83%88%E5%B7%A5%E6%88%BF%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1920" data-file-height="2048"></a><div class="cover-char">角色：<a href="./小野塚小町.md" title="小野塚小町">小野塚小町</a></div></td>
 </tr><tr><td class="label">名称</td><td colspan="2"> Kiseki </td></tr><tr><td class="label">制作方</td><td><a href="./まめルート工房.md" title="まめルート工房">まめルート工房</a></td><td class="cover-artwork" rowspan="7" style="min-width:196px;"><a href="./文件-Kiseki（まめルート工房）封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/a/a8/Kiseki%EF%BC%88%E3%81%BE%E3%82%81%E3%83%AB%E3%83%BC%E3%83%88%E5%B7%A5%E6%88%BF%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/184px-Kiseki%EF%BC%88%E3%81%BE%E3%82%81%E3%83%AB%E3%83%BC%E3%83%88%E5%B7%A5%E6%88%BF%EF%BC%89%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="184" height="196" srcset="https://upload.thwiki.cc/thumb/a/a8/Kiseki%EF%BC%88%E3%81%BE%E3%82%81%E3%83%AB%E3%83%BC%E3%83%88%E5%B7%A5%E6%88%BF%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/276px-Kiseki%EF%BC%88%E3%81%BE%E3%82%81%E3%83%AB%E3%83%BC%E3%83%88%E5%B7%A5%E6%88%BF%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/a/a8/Kiseki%EF%BC%88%E3%81%BE%E3%82%81%E3%83%AB%E3%83%BC%E3%83%88%E5%B7%A5%E6%88%BF%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/367px-Kiseki%EF%BC%88%E3%81%BE%E3%82%81%E3%83%AB%E3%83%BC%E3%83%88%E5%B7%A5%E6%88%BF%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1920" data-file-height="2048"></a><div class="cover-char">角色：<a href="./小野塚小町.md" title="小野塚小町">小野塚小町</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2022-03-21&#160;（<a href="/展会作品列表?e=P-Cat%2304">P-Cat04</a>）</td></tr><tr><td class="label">类型</td><td>摄影集</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>A4正方形</td></tr><tr><td class="label">页数</td><td>74P</td></tr><tr><td class="label">售价</td><td>会场售价：2500日元</td></tr>
+</tr><tr><td class="label">首发日期</td><td>2022-03-21 （<a href="./展会作品列表.md#04">P-Cat04</a>）</td></tr><tr><td class="label">类型</td><td>摄影集</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>A4正方形</td></tr><tr><td class="label">页数</td><td>74P</td></tr><tr><td class="label">售价</td><td>会场售价：2500日元</td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/mametacos/status/1503713153016020992">https://twitter.com/mametacos/status/1503713153016020992</a><br><a rel="nofollow" class="external free" href="https://twitter.com/mametacos/status/1505113620380008449">https://twitter.com/mametacos/status/1505113620380008449</a><br><a rel="nofollow" class="external free" href="https://twitter.com/mametacos/status/1505476220624183297">https://twitter.com/mametacos/status/1505476220624183297</a></td></tr></tbody></table>
 
 Kiseki（同人志，まめルート工房，2022） - 2022年3月21日 由 まめルート工房 于 P-Cat04 发布的摄影集同人志，A4尺寸一共74页，分级为 一般向
-
 ## 预览
 
 ## Staff
@@ -24,9 +22,7 @@ Model
 Photography
 : マルート （[まめルート工房](./まめルート工房.md)）
 
-
 ## 评论
-
   
 2019年秋〜2022年初旬までの撮影まとめ本。  
 
@@ -34,16 +30,6 @@ Photography
 
 小部数発行のため取り置き可能です！
   
-
-
-  
-  
-
-  
-
-
-
-
 
 ---
 

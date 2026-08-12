@@ -1,6 +1,6 @@
 # 文件:innocent（AniPix）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e7\ns6%3Ainnocent%EF%BC%88AniPix%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e7\ns6%3Ainnocent%EF%BC%88AniPix%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 AniPix | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ AniPix | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [innocent（AniPix）](./innocent（AniPix）.md)  
-该封面包含的角色：- [八云紫](./八云紫.md)- [伊吹萃香](./伊吹萃香.md)
-
-
-
+- [innocent（AniPix）](./innocent（AniPix）.md)该封面包含的角色：
+- [八云紫](./八云紫.md)
+- [伊吹萃香](./伊吹萃香.md)
 
 
 ---

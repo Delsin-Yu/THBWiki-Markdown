@@ -1,6 +1,6 @@
 # 文件:Sanity_and_its_Counterparts封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\15\ns6%3ASanity_and_its_Counterparts%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\15\ns6%3ASanity_and_its_Counterparts%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 NVRMLTICE | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@ NVRMLTICE | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Sanity and its Counterparts](./Sanity_and_its_Counterparts.md)  
-该封面包含的角色：- 原创角色 (未找到链接)
+- [Sanity and its Counterparts](./Sanity_and_its_Counterparts.md)该封面包含的角色：
+- 原创角色 (未找到链接)
 
   
-源地址：[direct image link (10 size)](https://f4.bcbits.com/img/a1724150457_10.jpg), [source page (artist Bandcamp)](https://nvrmltice.bandcamp.com/album/sanity-and-its-counterparts)
-  
-
-
-
-
+源地址：[direct image link (10 size)](https://f4.bcbits.com/img/a1724150457_10.jpg), [source page (artist Bandcamp)](https://nvrmltice.bandcamp.com/album/sanity-and-its-counterparts)  
 
 ---
 

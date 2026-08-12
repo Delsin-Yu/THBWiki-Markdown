@@ -1,6 +1,6 @@
 # 文件:東方夢景色～Toho_DreamScape_vol.4封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\07\ns6%3A%E6%9D%B1%E6%96%B9%E5%A4%A2%E6%99%AF%E8%89%B2%EF%BD%9EToho_DreamScape_vol%2E4%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\07\ns6%3A%E6%9D%B1%E6%96%B9%E5%A4%A2%E6%99%AF%E8%89%B2%EF%BD%9EToho_DreamScape_vol%2E4%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Ridil | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Ridil | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方夢景色～Toho DreamScape vol.4](./東方夢景色～Toho_DreamScape_vol.4.md)  
-该封面包含的角色：- [封兽鵺](./封兽鵺.md)
+- [東方夢景色～Toho DreamScape vol.4](./東方夢景色～Toho_DreamScape_vol.4.md)该封面包含的角色：
+- [封兽鵺](./封兽鵺.md)
 
   
-源地址：[[1]](http://img.toranoana.jp/popup_img/04/0030/46/98/040030469836-1p.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://img.toranoana.jp/popup_img/04/0030/46/98/040030469836-1p.jpg)  
 
 ---
 

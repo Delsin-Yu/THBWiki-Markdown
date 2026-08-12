@@ -1,54 +1,44 @@
 # Spade_and_Diamond_EP
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\c\cb\ns0%3ASpade_and_Diamond_EP.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\c\cb\ns0%3ASpade_and_Diamond_EP.html -->
 
 2014年8月16日 由 OTAKU-ELITE Recordings 于 Comic Market 86 发布的EP同人专辑，内容以 东方花映塚为题材，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人专辑 (未找到链接)** 的词条
-
+**[二次创作同人专辑](./二次创作.md#同人音乐)**的词条
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Spade_and_Diamond_EP封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/5/58/Spade_and_Diamond_EP%E5%B0%81%E9%9D%A2.jpg/252px-Spade_and_Diamond_EP%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="252" height="252" srcset="https://upload.thwiki.cc/thumb/5/58/Spade_and_Diamond_EP%E5%B0%81%E9%9D%A2.jpg/378px-Spade_and_Diamond_EP%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/5/58/Spade_and_Diamond_EP%E5%B0%81%E9%9D%A2.jpg/504px-Spade_and_Diamond_EP%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="600" data-file-height="600"></a><div class="cover-char">角色：<a href="./四季映姬·夜摩仙那度.md" title="四季映姬·夜摩仙那度">四季映姬·夜摩仙那度</a>，<a href="./小野塚小町.md" title="小野塚小町">小野塚小町</a></div></td>
 </tr><tr><td class="label">名称</td><td colspan="2"> Spade and Diamond EP </td></tr><tr><td class="label">制作方</td><td><a href="./OTAKU-ELITE_Recordings.md" title="OTAKU-ELITE Recordings">OTAKU-ELITE Recordings</a></td><td class="cover-artwork" rowspan="9" style="min-width:252px;"><a href="./文件-Spade_and_Diamond_EP封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/5/58/Spade_and_Diamond_EP%E5%B0%81%E9%9D%A2.jpg/252px-Spade_and_Diamond_EP%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="252" height="252" srcset="https://upload.thwiki.cc/thumb/5/58/Spade_and_Diamond_EP%E5%B0%81%E9%9D%A2.jpg/378px-Spade_and_Diamond_EP%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/5/58/Spade_and_Diamond_EP%E5%B0%81%E9%9D%A2.jpg/504px-Spade_and_Diamond_EP%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="600" data-file-height="600"></a><div class="cover-char">角色：<a href="./四季映姬·夜摩仙那度.md" title="四季映姬·夜摩仙那度">四季映姬·夜摩仙那度</a>，<a href="./小野塚小町.md" title="小野塚小町">小野塚小町</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2014-08-16&#160;（<a href="/展会作品列表?e=Comic+Market%2386">Comic Market 86</a>）</td></tr><tr><td class="label">类型</td><td>EP</td></tr><tr><td class="label">编号</td><td>OER-2002</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>4</td></tr><tr><td class="label">总时长</td><td>19:20</td></tr><tr><td class="label">特定选材</td><td>东方花映塚</td></tr></tbody></table>
+</tr><tr><td class="label">首发日期</td><td>2014-08-16 （<a href="./展会作品列表.md#86">Comic Market 86</a>）</td></tr><tr><td class="label">类型</td><td>EP</td></tr><tr><td class="label">编号</td><td>OER-2002</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>4</td></tr><tr><td class="label">总时长</td><td>19:20</td></tr><tr><td class="label">特定选材</td><td>东方花映塚</td></tr></tbody></table>
 
 Spade and Diamond EP（同人专辑，OTAKU-ELITE Recordings，2014） - 2014年8月16日 由 OTAKU-ELITE Recordings 于 Comic Market 86 发布的EP同人专辑，内容以 东方花映塚为题材，分级为 一般向
-
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://itunes.apple.com/album/spade-and-diamond-ep/1455322814">Apple Music</a>，<a rel="nofollow" class="external text" href="https://play.google.com/store/music/album?id=Bgcluhsa4ns33e5hxb3p43czuga">Google Play Music</a></td></tr></tbody></table>
-
 
 
 ## Staff
   
- **Arrangement**   
+**Arrangement**  
 
 <table><tbody><tr><td><a href="./D.watt.md" title="D.watt">D.watt</a></td><td></td><td>Tr.1-4</td></tr></tbody></table>
 
-
 Illustration
 : inuyasis.
-
 
 ## 试听
   
 暂不支援此类型
   
 
-
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="High_card" colspan="2" class="title">High card<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=D.watt&amp;ogmusic=彼岸帰航　～ Riverside View&amp;fromwiki=Spade_and_Diamond_EP"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:29</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./D.watt.md" title="D.watt">D.watt</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，D.watt&amp;fromwiki=Spade_and_Diamond_EP"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=彼岸帰航　～ Riverside View&amp;fromwiki=Spade_and_Diamond_EP"><span></span></a></span><div class="ogmusic"><a href="./彼岸帰航_～_Riverside_View.md" class="mw-redirect" title="彼岸帰航 ～ Riverside View">彼岸帰航　～ Riverside View</a></div><div class="source"><a href="./东方花映塚_～_Phantasmagoria_of_Flower_View..md" class="mw-redirect" title="东方花映塚 ～ Phantasmagoria of Flower View.">东方花映塚　～ Phantasmagoria of Flower View.</a></div></td></tr>
-<tr><td id="2" class="infoYD"><b>02</b></td><td id="Straight_Flush" colspan="2" class="title">Straight Flush<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=D.watt&amp;ogmusic=今昔幻想郷　～ Flower Land&amp;fromwiki=Spade_and_Diamond_EP"><span title="搜索相似同人曲"></span></a></span></td><td class="time">05:06</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./D.watt.md" title="D.watt">D.watt</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，D.watt&amp;fromwiki=Spade_and_Diamond_EP"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=今昔幻想郷　～ Flower Land&amp;fromwiki=Spade_and_Diamond_EP"><span></span></a></span><div class="ogmusic"><a href="./今昔幻想郷_～_Flower_Land.md" class="mw-redirect" title="今昔幻想郷 ～ Flower Land">今昔幻想郷　～ Flower Land</a></div><div class="source"><a href="./东方花映塚_～_Phantasmagoria_of_Flower_View..md" class="mw-redirect" title="东方花映塚 ～ Phantasmagoria of Flower View.">东方花映塚　～ Phantasmagoria of Flower View.</a></div></td></tr>
-<tr><td id="3" class="infoYD"><b>03</b></td><td id="Joker" colspan="2" class="title">Joker<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=D.watt&amp;ogmusic=ポイズンボディ　～ Forsaken Doll&amp;fromwiki=Spade_and_Diamond_EP"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:17</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./D.watt.md" title="D.watt">D.watt</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，D.watt&amp;fromwiki=Spade_and_Diamond_EP"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=ポイズンボディ　～ Forsaken Doll&amp;fromwiki=Spade_and_Diamond_EP"><span></span></a></span><div class="ogmusic"><a href="./ポイズンボディ_～_Forsaken_Doll.md" class="mw-redirect" title="ポイズンボディ ～ Forsaken Doll">ポイズンボディ　～ Forsaken Doll</a></div><div class="source"><a href="./东方花映塚_～_Phantasmagoria_of_Flower_View..md" class="mw-redirect" title="东方花映塚 ～ Phantasmagoria of Flower View.">东方花映塚　～ Phantasmagoria of Flower View.</a></div></td></tr>
-<tr><td id="4" class="infoYD"><b>04</b></td><td id="Spade_and_Diamond" colspan="2" class="title">Spade and Diamond<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=D.watt&amp;ogmusic=六十年目の東方裁判　～ Fate of Sixty Years&amp;fromwiki=Spade_and_Diamond_EP"><span title="搜索相似同人曲"></span></a></span></td><td class="time">05:28</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./D.watt.md" title="D.watt">D.watt</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，D.watt&amp;fromwiki=Spade_and_Diamond_EP"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=六十年目の東方裁判　～ Fate of Sixty Years&amp;fromwiki=Spade_and_Diamond_EP"><span></span></a></span><div class="ogmusic"><a href="./六十年目の東方裁判_～_Fate_of_Sixty_Years.md" class="mw-redirect" title="六十年目の東方裁判 ～ Fate of Sixty Years">六十年目の東方裁判　～ Fate of Sixty Years</a></div><div class="source"><a href="./东方花映塚_～_Phantasmagoria_of_Flower_View..md" class="mw-redirect" title="东方花映塚 ～ Phantasmagoria of Flower View.">东方花映塚　～ Phantasmagoria of Flower View.</a></div></td></tr></tbody></table>
-
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="High_card" colspan="2" class="title">High card</td><td class="time">04:29</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./D.watt.md" title="D.watt">D.watt</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./彼岸归航_～_Riverside_View.md" class="mw-redirect" title="彼岸帰航 ～ Riverside View">彼岸帰航　～ Riverside View</a></div><div class="source"><a href="./东方花映塚.md" class="mw-redirect" title="东方花映塚 ～ Phantasmagoria of Flower View.">东方花映塚　～ Phantasmagoria of Flower View.</a></div></td></tr>
+<tr><td id="2" class="infoYD"><b>02</b></td><td id="Straight_Flush" colspan="2" class="title">Straight Flush</td><td class="time">05:06</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./D.watt.md" title="D.watt">D.watt</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./今昔幻想乡_～_Flower_Land.md" class="mw-redirect" title="今昔幻想郷 ～ Flower Land">今昔幻想郷　～ Flower Land</a></div><div class="source"><a href="./东方花映塚.md" class="mw-redirect" title="东方花映塚 ～ Phantasmagoria of Flower View.">东方花映塚　～ Phantasmagoria of Flower View.</a></div></td></tr>
+<tr><td id="3" class="infoYD"><b>03</b></td><td id="Joker" colspan="2" class="title">Joker</td><td class="time">04:17</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./D.watt.md" title="D.watt">D.watt</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./剧毒身体_～_Forsaken_Doll.md" class="mw-redirect" title="ポイズンボディ ～ Forsaken Doll">ポイズンボディ　～ Forsaken Doll</a></div><div class="source"><a href="./东方花映塚.md" class="mw-redirect" title="东方花映塚 ～ Phantasmagoria of Flower View.">东方花映塚　～ Phantasmagoria of Flower View.</a></div></td></tr>
+<tr><td id="4" class="infoYD"><b>04</b></td><td id="Spade_and_Diamond" colspan="2" class="title">Spade and Diamond</td><td class="time">05:28</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./D.watt.md" title="D.watt">D.watt</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./第六十年的东方审判_～_Fate_of_Sixty_Years.md" class="mw-redirect" title="六十年目の東方裁判 ～ Fate of Sixty Years">六十年目の東方裁判　～ Fate of Sixty Years</a></div><div class="source"><a href="./东方花映塚.md" class="mw-redirect" title="东方花映塚 ～ Phantasmagoria of Flower View.">东方花映塚　～ Phantasmagoria of Flower View.</a></div></td></tr></tbody></table>
 
 
 ## 评论
-
-
-
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:MARISA'S_DREAMGIRL封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ab\ns6%3AMARISA%27S_DREAMGIRL%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ab\ns6%3AMARISA%27S_DREAMGIRL%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Abandoned_Corpse_With_Graffiti | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Abandoned_Corpse_With_Graffiti | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [MARISA'S DREAMGIRL](./MARISA'S_DREAMGIRL.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [MARISA'S DREAMGIRL](./MARISA'S_DREAMGIRL.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

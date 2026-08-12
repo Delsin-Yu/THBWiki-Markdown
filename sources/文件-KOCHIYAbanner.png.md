@@ -1,12 +1,8 @@
 # 文件:KOCHIYAbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\25\ns6%3AKOCHIYAbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\25\ns6%3AKOCHIYAbanner%2Epng.html -->
 
 KOCHIYA | 社团LOGO
-
-
-
-
 
 
 ---

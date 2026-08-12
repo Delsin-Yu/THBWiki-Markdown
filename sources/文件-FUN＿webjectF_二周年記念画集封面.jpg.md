@@ -1,6 +1,6 @@
 # 文件:FUN＿webjectF_二周年記念画集封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1a\ns6%3AFUN%EF%BC%BFwebjectF_%E4%BA%8C%E5%91%A8%E5%B9%B4%E8%A8%98%E5%BF%B5%E7%94%BB%E9%9B%86%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1a\ns6%3AFUN%EF%BC%BFwebjectF_%E4%BA%8C%E5%91%A8%E5%B9%B4%E8%A8%98%E5%BF%B5%E7%94%BB%E9%9B%86%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 FUN_webjectF | 同人志封面 | 封面图片
 
@@ -11,9 +11,6 @@ FUN_webjectF | 同人志封面 | 封面图片
   
 
 - [FUN＿webjectF 二周年記念画集](./FUN＿webjectF_二周年記念画集.md)
-
-
-
 
 
 ---

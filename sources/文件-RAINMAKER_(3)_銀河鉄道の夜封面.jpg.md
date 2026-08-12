@@ -1,6 +1,6 @@
 # 文件:RAINMAKER_(3)_銀河鉄道の夜封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\92\ns6%3ARAINMAKER_%283%29_%E9%8A%80%E6%B2%B3%E9%89%84%E9%81%93%E3%81%AE%E5%A4%9C%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\92\ns6%3ARAINMAKER_%283%29_%E9%8A%80%E6%B2%B3%E9%89%84%E9%81%93%E3%81%AE%E5%A4%9C%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 雨山電信社
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [RAINMAKER (3) 銀河鉄道の夜](./RAINMAKER_(3)_銀河鉄道の夜.md)  
-该封面包含的角色：- [稗田阿求](./稗田阿求.md)
-
-
-
+- [RAINMAKER (3) 銀河鉄道の夜](./RAINMAKER_(3%29_銀河鉄道の夜.md)该封面包含的角色：
+- [稗田阿求](./稗田阿求.md)
 
 
 ---

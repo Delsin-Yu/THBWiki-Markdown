@@ -1,6 +1,6 @@
 # 文件:Intense_Symphonic_Metal_Covers：_Touhou,_Vol._2封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cb\ns6%3AIntense_Symphonic_Metal_Covers%EF%BC%9A_Touhou%2C_Vol%2E_2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cb\ns6%3AIntense_Symphonic_Metal_Covers%EF%BC%9A_Touhou%2C_Vol%2E_2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Falkkone | 专辑封面 | 封面图片
 
@@ -11,12 +11,7 @@ Falkkone | 专辑封面 | 封面图片
 - [Intense Symphonic Metal Covers： Touhou, Vol. 2](./Intense_Symphonic_Metal_Covers：_Touhou,_Vol._2.md)
 
   
-源地址：[direct image link](https://static.wixstatic.com/media/c0e641_3c6afa21976643c5812a49f8b7c910ac~mv2_d_3000_3000_s_4_2.jpg), [soure page](https://www.falkkone.com/music)
-  
-
-
-
-
+源地址：[direct image link](https://static.wixstatic.com/media/c0e641_3c6afa21976643c5812a49f8b7c910ac~mv2_d_3000_3000_s_4_2.jpg), [soure page](https://www.falkkone.com/music)  
 
 ---
 

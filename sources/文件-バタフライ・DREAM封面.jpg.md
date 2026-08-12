@@ -1,6 +1,6 @@
 # 文件:バタフライ・DREAM封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d7\ns6%3A%E3%83%90%E3%82%BF%E3%83%95%E3%83%A9%E3%82%A4%E3%83%BBDREAM%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d7\ns6%3A%E3%83%90%E3%82%BF%E3%83%95%E3%83%A9%E3%82%A4%E3%83%BBDREAM%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 お月見団子 | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [バタフライ・DREAM](./バタフライ・DREAM.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
+- [バタフライ・DREAM](./バタフライ・DREAM.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
   
-源地址：[source page](https://ec.toranoana.jp/tora_r/ec/item/040030249550/), [direct image link](https://ecdnimg.toranoana.jp/ec/img/04/0030/24/95/040030249550-1p.jpg)
-  
-
-
-
-
+源地址：[source page](https://ec.toranoana.jp/tora_r/ec/item/040030249550/), [direct image link](https://ecdnimg.toranoana.jp/ec/img/04/0030/24/95/040030249550-1p.jpg)  
 
 ---
 

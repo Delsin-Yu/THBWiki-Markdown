@@ -1,6 +1,6 @@
 # 文件:何醉幻想工坊logo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fc\ns6%3A%E4%BD%95%E9%86%89%E5%B9%BB%E6%83%B3%E5%B7%A5%E5%9D%8Alogo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fc\ns6%3A%E4%BD%95%E9%86%89%E5%B9%BB%E6%83%B3%E5%B7%A5%E5%9D%8Alogo%2Epng.html -->
 
 何醉幻想工坊 | 社团LOGO
 
@@ -9,10 +9,6 @@
   
 何醉幻想工坊loog
   
-
-
-
-
 
 ---
 

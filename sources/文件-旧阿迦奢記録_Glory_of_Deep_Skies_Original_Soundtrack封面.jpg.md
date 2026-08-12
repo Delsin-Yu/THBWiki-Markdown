@@ -1,6 +1,6 @@
 # 文件:旧阿迦奢記録_Glory_of_Deep_Skies_Original_Soundtrack封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5c\ns6%3A%E6%97%A7%E9%98%BF%E8%BF%A6%E5%A5%A2%E8%A8%98%E9%8C%B2_Glory_of_Deep_Skies_Original_Soundtrack%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5c\ns6%3A%E6%97%A7%E9%98%BF%E8%BF%A6%E5%A5%A2%E8%A8%98%E9%8C%B2_Glory_of_Deep_Skies_Original_Soundtrack%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Τeam_αlternative_Σnding | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [旧阿迦奢記録 Glory of Deep Skies Original Soundtrack](./旧阿迦奢記録_Glory_of_Deep_Skies_Original_Soundtrack.md)  
-该封面包含的角色：- [旧遥翠川](./旧遥翠川.md)
-
-
-
+- [旧阿迦奢記録 Glory of Deep Skies Original Soundtrack](./旧阿迦奢記録_Glory_of_Deep_Skies_Original_Soundtrack.md)该封面包含的角色：
+- [旧遥翠川](./旧遥翠川.md)
 
 
 ---

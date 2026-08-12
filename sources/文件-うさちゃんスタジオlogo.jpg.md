@@ -1,16 +1,11 @@
 # 文件:うさちゃんスタジオlogo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\94\ns6%3A%E3%81%86%E3%81%95%E3%81%A1%E3%82%83%E3%82%93%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AAlogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\94\ns6%3A%E3%81%86%E3%81%95%E3%81%A1%E3%82%83%E3%82%93%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AAlogo%2Ejpg.html -->
 
 うさちゃんスタジオ | 社团LOGO
 
   
-源地址：[[1]](https://pbs.twimg.com/profile_banners/856302334938193920/1509019310/1500x500)
-  
-
-
-
-
+源地址：[\[1\]](https://pbs.twimg.com/profile_banners/856302334938193920/1509019310/1500x500)  
 
 ---
 

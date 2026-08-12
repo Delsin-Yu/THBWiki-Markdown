@@ -1,6 +1,6 @@
 # 文件:Silent_Bloom封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f6\ns6%3ASilent_Bloom%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f6\ns6%3ASilent_Bloom%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 IRON_ATTACK! | 专辑封面 | 封面图片 | 豚乙女
 
@@ -10,11 +10,8 @@ IRON_ATTACK! | 专辑封面 | 封面图片 | 豚乙女
 使用了本文件作封面图片的作品：
   
 
-- [Silent Bloom](./Silent_Bloom.md)  
-该封面包含的角色：- [莉莉霍瓦特](./莉莉霍瓦特.md)
-
-
-
+- [Silent Bloom](./Silent_Bloom.md)该封面包含的角色：
+- [莉莉霍瓦特](./莉莉霍瓦特.md)
 
 
 ---

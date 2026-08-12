@@ -1,6 +1,6 @@
 # 文件:嘘吐き達の感情解放_～False_Lier封面.JPEG
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cd\ns6%3A%E5%98%98%E5%90%90%E3%81%8D%E9%81%94%E3%81%AE%E6%84%9F%E6%83%85%E8%A7%A3%E6%94%BE_%EF%BD%9EFalse_Lier%E5%B0%81%E9%9D%A2%2EJPEG.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cd\ns6%3A%E5%98%98%E5%90%90%E3%81%8D%E9%81%94%E3%81%AE%E6%84%9F%E6%83%85%E8%A7%A3%E6%94%BE_%EF%BD%9EFalse_Lier%E5%B0%81%E9%9D%A2%2EJPEG.html -->
 
 专辑封面 | 封面图片 | 緋月ノ雫
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [嘘吐き達の感情解放 ～False Lier](./嘘吐き達の感情解放_～False_Lier.md)  
-该封面包含的角色：- [古明地觉](./古明地觉.md)- [古明地恋](./古明地恋.md)
-
-
-
+- [嘘吐き達の感情解放 ～False Lier](./嘘吐き達の感情解放_～False_Lier.md)该封面包含的角色：
+- [古明地觉](./古明地觉.md)
+- [古明地恋](./古明地恋.md)
 
 
 ---

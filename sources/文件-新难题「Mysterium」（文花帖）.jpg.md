@@ -1,12 +1,8 @@
 # 文件:新难题「Mysterium」（文花帖）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0d\ns6%3A%E6%96%B0%E9%9A%BE%E9%A2%98%E3%80%8CMysterium%E3%80%8D%EF%BC%88%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0d\ns6%3A%E6%96%B0%E9%9A%BE%E9%A2%98%E3%80%8CMysterium%E3%80%8D%EF%BC%88%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Ejpg.html -->
 
 东方文花帖 | 敌机符卡 | 蓬莱山辉夜
-
-
-
-
 
 
 ---

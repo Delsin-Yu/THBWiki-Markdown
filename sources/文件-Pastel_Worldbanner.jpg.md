@@ -1,16 +1,11 @@
 # 文件:Pastel_Worldbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\13\ns6%3APastel_Worldbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\13\ns6%3APastel_Worldbanner%2Ejpg.html -->
 
 Pastel_World | 社团LOGO
 
   
-源地址：[[1]](http://kouhakumanjyu.web.fc2.com/img/bannar1.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://kouhakumanjyu.web.fc2.com/img/bannar1.jpg)  
 
 ---
 

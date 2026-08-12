@@ -1,6 +1,6 @@
 # 文件:Peacetime封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\72\ns6%3APeacetime%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\72\ns6%3APeacetime%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 月季華檻屋
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Peacetime](./Peacetime.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
+- [Peacetime](./Peacetime.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
   
-源地址：[direct image link (original size)](https://i.imgur.com/KeHdw.jpeg), [source page](https://w198997.blogspot.com/2010/01/blog-post.html)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://i.imgur.com/KeHdw.jpeg), [source page](https://w198997.blogspot.com/2010/01/blog-post.html)  
 
 ---
 

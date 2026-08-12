@@ -1,6 +1,6 @@
 # 文件:Id_et_Ego_幻想郷吹奏楽曲集封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\20\ns6%3AId_et_Ego_%E5%B9%BB%E6%83%B3%E9%83%B7%E5%90%B9%E5%A5%8F%E6%A5%BD%E6%9B%B2%E9%9B%86%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\20\ns6%3AId_et_Ego_%E5%B9%BB%E6%83%B3%E9%83%B7%E5%90%B9%E5%A5%8F%E6%A5%BD%E6%9B%B2%E9%9B%86%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Re.baro' | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Re.baro' | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Id et Ego 幻想郷吹奏楽曲集](./Id_et_Ego_幻想郷吹奏楽曲集.md)  
-该封面包含的角色：- [古明地觉](./古明地觉.md)
-
-
-
+- [Id et Ego 幻想郷吹奏楽曲集](./Id_et_Ego_幻想郷吹奏楽曲集.md)该封面包含的角色：
+- [古明地觉](./古明地觉.md)
 
 
 ---

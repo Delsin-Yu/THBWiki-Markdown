@@ -1,6 +1,6 @@
 # 文件:地下の国のアリス_~_Alice_Under_Ground封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c4\ns6%3A%E5%9C%B0%E4%B8%8B%E3%81%AE%E5%9B%BD%E3%81%AE%E3%82%A2%E3%83%AA%E3%82%B9_%7E_Alice_Under_Ground%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c4\ns6%3A%E5%9C%B0%E4%B8%8B%E3%81%AE%E5%9B%BD%E3%81%AE%E3%82%A2%E3%83%AA%E3%82%B9_%7E_Alice_Under_Ground%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Tangentg | 专辑封面 | 封面图片
 
@@ -10,16 +10,13 @@ Tangentg | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [地下の国のアリス ~ Alice Under Ground](./地下の国のアリス_~_Alice_Under_Ground.md)  
-该封面包含的角色：- [爱丽丝（旧作角色）](./爱丽丝（旧作角色）.md)- 提米 (未找到链接)
+- [地下の国のアリス ~ Alice Under Ground](./地下の国のアリス_~_Alice_Under_Ground.md)该封面包含的角色：
+- [爱丽丝（旧作角色）](./爱丽丝（旧作角色）.md)
+- 提米 (未找到链接)
 
   
 from bandcamp download
   
-
-
-
-
 
 ---
 

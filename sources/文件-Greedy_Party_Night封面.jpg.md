@@ -1,6 +1,6 @@
 # 文件:Greedy_Party_Night封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\87\ns6%3AGreedy_Party_Night%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\87\ns6%3AGreedy_Party_Night%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 紺碧studio
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [Greedy Party Night](./Greedy_Party_Night.md)  
-该封面包含的角色：- [饕餮尤魔](./饕餮尤魔.md)- [天火人血枪](./天火人血枪.md)
-
-
-
+- [Greedy Party Night](./Greedy_Party_Night.md)该封面包含的角色：
+- [饕餮尤魔](./饕餮尤魔.md)
+- [天火人血枪](./天火人血枪.md)
 
 
 ---

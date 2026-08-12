@@ -1,6 +1,6 @@
 # 文件:NKCH_Compilation：01_幻想Unidentified封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\08\ns6%3ANKCH_Compilation%EF%BC%9A01_%E5%B9%BB%E6%83%B3Unidentified%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\08\ns6%3ANKCH_Compilation%EF%BC%9A01_%E5%B9%BB%E6%83%B3Unidentified%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ぬえかわチャンネル | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [NKCH Compilation：01 幻想Unidentified](./NKCH_Compilation：01_幻想Unidentified.md)  
-该封面包含的角色：- [封兽鵺](./封兽鵺.md)
-
-
-
+- [NKCH Compilation：01 幻想Unidentified](./NKCH_Compilation：01_幻想Unidentified.md)该封面包含的角色：
+- [封兽鵺](./封兽鵺.md)
 
 
 ---

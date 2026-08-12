@@ -1,12 +1,8 @@
 # 文件:「自行星而来的弹幕X」（DS文花帖）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\84\ns6%3A%E3%80%8C%E8%87%AA%E8%A1%8C%E6%98%9F%E8%80%8C%E6%9D%A5%E7%9A%84%E5%BC%B9%E5%B9%95X%E3%80%8D%EF%BC%88DS%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\84\ns6%3A%E3%80%8C%E8%87%AA%E8%A1%8C%E6%98%9F%E8%80%8C%E6%9D%A5%E7%9A%84%E5%BC%B9%E5%B9%95X%E3%80%8D%EF%BC%88DS%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Epng.html -->
 
 东方文花帖DS | 封兽鵺 | 敌机符卡
-
-
-
-
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:摩多罗隐岐奈（噩梦日记立绘）sw.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e8\ns6%3A%E6%91%A9%E5%A4%9A%E7%BD%97%E9%9A%90%E5%B2%90%E5%A5%88%EF%BC%88%E5%99%A9%E6%A2%A6%E6%97%A5%E8%AE%B0%E7%AB%8B%E7%BB%98%EF%BC%89sw%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e8\ns6%3A%E6%91%A9%E5%A4%9A%E7%BD%97%E9%9A%90%E5%B2%90%E5%A5%88%EF%BC%88%E5%99%A9%E6%A2%A6%E6%97%A5%E8%AE%B0%E7%AB%8B%E7%BB%98%EF%BC%89sw%2Epng.html -->
 
 ZUN绘 | 官方游戏立绘 | 摩多罗隐岐奈 | 秘封噩梦日记
-
-
-
-
 
 
 ---

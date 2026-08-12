@@ -1,6 +1,6 @@
 # 文件:Era_of_conagusuri_02封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\15\ns6%3AEra_of_conagusuri_02%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\15\ns6%3AEra_of_conagusuri_02%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 こなぐすり | 专辑封面 | 封面图片
 
@@ -8,11 +8,14 @@
 使用了本文件作封面图片的作品：
   
 
-- [Era of conagusuri 02](./Era_of_conagusuri_02.md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)- [西行寺幽幽子](./西行寺幽幽子.md)- [河城荷取](./河城荷取.md)- [古明地觉](./古明地觉.md)- [圣白莲](./圣白莲.md)- [幽谷响子](./幽谷响子.md)- [霍青娥](./霍青娥.md)
-
-
-
+- [Era of conagusuri 02](./Era_of_conagusuri_02.md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
+- [西行寺幽幽子](./西行寺幽幽子.md)
+- [河城荷取](./河城荷取.md)
+- [古明地觉](./古明地觉.md)
+- [圣白莲](./圣白莲.md)
+- [幽谷响子](./幽谷响子.md)
+- [霍青娥](./霍青娥.md)
 
 
 ---

@@ -1,16 +1,12 @@
 # 模板:NEOKET
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\e\ef\ns10%3ANEOKET.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\e\ef\ns10%3ANEOKET.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

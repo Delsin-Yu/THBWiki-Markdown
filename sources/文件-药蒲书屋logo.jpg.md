@@ -1,12 +1,8 @@
 # 文件:药蒲书屋logo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\da\ns6%3A%E8%8D%AF%E8%92%B2%E4%B9%A6%E5%B1%8Blogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\da\ns6%3A%E8%8D%AF%E8%92%B2%E4%B9%A6%E5%B1%8Blogo%2Ejpg.html -->
 
 社团LOGO | 药蒲书屋
-
-
-
-
 
 
 ---

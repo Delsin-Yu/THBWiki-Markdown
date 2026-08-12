@@ -1,14 +1,11 @@
 # 文件:小兔姬B（梦时空立绘）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9c\ns6%3A%E5%B0%8F%E5%85%94%E5%A7%ACB%EF%BC%88%E6%A2%A6%E6%97%B6%E7%A9%BA%E7%AB%8B%E7%BB%98%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9c\ns6%3A%E5%B0%8F%E5%85%94%E5%A7%ACB%EF%BC%88%E6%A2%A6%E6%97%B6%E7%A9%BA%E7%AB%8B%E7%BB%98%EF%BC%89%2Ejpg.html -->
 
 ZUN绘 | 东方梦时空 | 官方游戏立绘 | 小兔姬
 
 
 ## 摘要
-
-
-
 
 ---
 

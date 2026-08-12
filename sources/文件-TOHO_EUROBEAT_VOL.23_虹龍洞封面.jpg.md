@@ -1,6 +1,6 @@
 # 文件:TOHO_EUROBEAT_VOL.23_虹龍洞封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9e\ns6%3ATOHO_EUROBEAT_VOL%2E23_%E8%99%B9%E9%BE%8D%E6%B4%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9e\ns6%3ATOHO_EUROBEAT_VOL%2E23_%E8%99%B9%E9%BE%8D%E6%B4%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 A-One | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ A-One | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [TOHO EUROBEAT VOL.23 虹龍洞](./TOHO_EUROBEAT_VOL.23_虹龍洞.md)  
-该封面包含的角色：- [饭纲丸龙](./饭纲丸龙.md)
-
-
-
+- [TOHO EUROBEAT VOL.23 虹龍洞](./TOHO_EUROBEAT_VOL.23_虹龍洞.md)该封面包含的角色：
+- [饭纲丸龙](./饭纲丸龙.md)
 
 
 ---

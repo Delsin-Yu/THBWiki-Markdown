@@ -1,44 +1,32 @@
 # Witch_of_Love_Potion
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\d\da\ns0%3AWitch_of_Love_Potion.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\d\da\ns0%3AWitch_of_Love_Potion.html -->
 
 由 ZUN 创作的官方曲目，原名 Witch of Love Potion
 
 本页是关于东方Project  
- **原作音乐** 的词条
-
+**原作音乐**的词条
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 出现作品](#出现作品)
 - [3 音乐文件](#音乐文件)
-
   - [3.1 Torte Le Magic](#Torte_Le_Magic)
   - [3.2 东方幻想的音乐](#东方幻想的音乐)
   - [3.3 蓬莱人形](#蓬莱人形)
 
 
-
 - [4 说明文本](#说明文本)
-
   - [4.1 东方幻想的音乐](#东方幻想的音乐_2)
-
     - [4.1.1 Torte Le Magic](#Torte_Le_Magic_2)
 
 
 
 
-
-
 - [5 其他资料](#其他资料)
-
   - [5.1 乐理资讯](#乐理资讯)
   - [5.2 分析考据](#分析考据)
   - [5.3 二次同人数据](#二次同人数据)
-
-
-
-
 
 
 
@@ -48,7 +36,6 @@
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">Witch of Love Potion</td></tr><tr><td><b>译名</b></td><td>Witch of Love Potion</td></tr><tr><td><b>其他译名</b></td><td>爱情魔药的魔女<br>媚药的女巫</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 Witch of Love Potion（曲目） - 由 ZUN 创作的官方曲目，原名 Witch of Love Potion
-
 ## 出现作品
 
 <table>
@@ -58,7 +45,6 @@ Witch of Love Potion（曲目） - 由 ZUN 创作的官方曲目，原名 Witch 
 </tbody></table>
 
 
-
 ## 音乐文件
 
 ### Torte Le Magic
@@ -66,11 +52,9 @@ Witch of Love Potion（曲目） - 由 ZUN 创作的官方曲目，原名 Witch 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td><a href="./文件-TLM_01.mid.md" title="文件:TLM 01.mid">TLM_01.mid</a></td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-TLM_01.mp3.md" title="文件:TLM 01.mp3">TLM_01.mp3</a><br><audio src="https://upload.thwiki.cc/7/70/TLM_01.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>midi1.mid</td></tr><tr><td><b>音轨时长</b></td><td>4:02</td></tr></tbody></table>
 
 
-
 ### 东方幻想的音乐
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td><a href="./文件-TLM_01.mid.md" title="文件:TLM 01.mid">TLM_01.mid</a></td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-trt_00.mp3.md" title="文件:trt 00.mp3">trt_00.mp3</a><br><audio src="https://upload.thwiki.cc/a/aa/trt_00.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>trt_00.mid</td></tr><tr><td><b>音轨时长</b></td><td>4:04</td></tr></tbody></table>
-
 
 
 ### 蓬莱人形
@@ -78,13 +62,13 @@ Witch of Love Potion（曲目） - 由 ZUN 创作的官方曲目，原名 Witch 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-hr01_09.mp3.md" title="文件:hr01 09.mp3">hr01_09.mp3</a><br><audio src="https://upload.thwiki.cc/f/f2/hr01_09.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track09.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>4:25</td></tr></tbody></table>
 
 
-
 ## 说明文本
 
 ### 东方幻想的音乐
 
 #### Torte Le Magic
-- 东方幻想的音乐 (未找到链接)
+
+- [东方幻想的音乐](./东方幻想的音乐-过去的曲子-Torte_Le_Magic.md#Witch_of_Love_Potion)
 
 +----------------------------------------------------------------------------+  
 |【 　 曲名　　】| 【 Witch of Love Potion 】  
@@ -125,25 +109,24 @@ Witch of Love Potion（曲目） - 由 ZUN 创作的官方曲目，原名 Witch 
 曲子的感想、请求等，请这边  
 　东方幻想空间　「博丽神社」 [http://www16.big.or.jp/~zun/](http://www16.big.or.jp/~zun/)  
 　e-Mail                     zun@big.or.jp
-
 ## 其他资料
 
 ### 乐理资讯
 
 ### 分析考据
   
- **Witch of Love Potion** 
+**Witch of Love Potion**  
   
 
-  
-
-- Witch ，女巫、魔女
+- Witch ，女巫、魔女 
   - Torte Le Magic的主人公托蒂是一名魔女
   - 蓬莱人形C63版本中提到“那家店”是雾雨魔法店的最初构想？
 
-- Love Potion，媚药、爱情魔药
+
+- Love Potion，媚药、爱情魔药 
   - 在原作《天降托蒂！》中，托蒂擅长制作魔药
   - 两个版本蓬莱人形的故事中都有提及媚药
+
 
 
 
@@ -159,17 +142,6 @@ Witch of Love Potion（曲目） - 由 ZUN 创作的官方曲目，原名 Witch 
 <tr><td>Arrange</td><td>33</td></tr>
 <tr><td>Vocal率</td><td>19.51%</td></tr>
 </tbody></table>
-
-
-
-
-  
-  
-
-  
-
-
-
 
 
 ---

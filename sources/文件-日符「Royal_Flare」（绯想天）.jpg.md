@@ -1,12 +1,8 @@
 # 文件:日符「Royal_Flare」（绯想天）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c0\ns6%3A%E6%97%A5%E7%AC%A6%E3%80%8CRoyal_Flare%E3%80%8D%EF%BC%88%E7%BB%AF%E6%83%B3%E5%A4%A9%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c0\ns6%3A%E6%97%A5%E7%AC%A6%E3%80%8CRoyal_Flare%E3%80%8D%EF%BC%88%E7%BB%AF%E6%83%B3%E5%A4%A9%EF%BC%89%2Ejpg.html -->
 
 东方绯想天 | 帕秋莉·诺蕾姬 | 自机符卡
-
-
-
-
 
 
 ---

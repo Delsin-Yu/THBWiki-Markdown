@@ -1,6 +1,6 @@
 # 文件:Spoil_中封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e0\ns6%3ASpoil_%E4%B8%AD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e0\ns6%3ASpoil_%E4%B8%AD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 砂亭
 
@@ -10,11 +10,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [Spoil 中](./Spoil_中.md)  
-该封面包含的角色：- [秋穰子](./秋穰子.md)- [河城荷取](./河城荷取.md)- [东风谷早苗](./东风谷早苗.md)
-
-
-
+- [Spoil 中](./Spoil_中.md)该封面包含的角色：
+- [秋穰子](./秋穰子.md)
+- [河城荷取](./河城荷取.md)
+- [东风谷早苗](./东风谷早苗.md)
 
 
 ---

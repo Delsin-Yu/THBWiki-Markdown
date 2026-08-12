@@ -1,12 +1,8 @@
 # 文件:丝风（ProjectZephyr）banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\30\ns6%3A%E4%B8%9D%E9%A3%8E%EF%BC%88ProjectZephyr%EF%BC%89banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\30\ns6%3A%E4%B8%9D%E9%A3%8E%EF%BC%88ProjectZephyr%EF%BC%89banner%2Ejpg.html -->
 
 丝风（ProjectZephyr） | 社团LOGO
-
-
-
-
 
 
 ---

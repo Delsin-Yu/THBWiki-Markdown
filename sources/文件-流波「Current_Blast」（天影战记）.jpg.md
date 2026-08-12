@@ -1,14 +1,11 @@
 # 文件:流波「Current_Blast」（天影战记）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c1\ns6%3A%E6%B5%81%E6%B3%A2%E3%80%8CCurrent_Blast%E3%80%8D%EF%BC%88%E5%A4%A9%E5%BD%B1%E6%88%98%E8%AE%B0%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c1\ns6%3A%E6%B5%81%E6%B3%A2%E3%80%8CCurrent_Blast%E3%80%8D%EF%BC%88%E5%A4%A9%E5%BD%B1%E6%88%98%E8%AE%B0%EF%BC%89%2Ejpg.html -->
 
 连缘Project官方符牌 | 连缘天影战记 | 鹀蒿雀
 
 
 ## 文件说明
-
-
-
 
 ---
 

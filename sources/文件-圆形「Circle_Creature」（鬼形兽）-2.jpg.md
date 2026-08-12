@@ -1,14 +1,11 @@
 # 文件:圆形「Circle_Creature」（鬼形兽）-2.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\93\ns6%3A%E5%9C%86%E5%BD%A2%E3%80%8CCircle_Creature%E3%80%8D%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%EF%BC%89-2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\93\ns6%3A%E5%9C%86%E5%BD%A2%E3%80%8CCircle_Creature%E3%80%8D%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%EF%BC%89-2%2Ejpg.html -->
 
 东方鬼形兽 | 埴安神袿姬 | 敌机符卡
 
 
 ## 文件说明
-
-
-
 
 ---
 

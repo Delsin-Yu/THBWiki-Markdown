@@ -1,6 +1,6 @@
 # 文件:THE_俺_～SIMPLE1000～封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\27\ns6%3ATHE_%E4%BF%BA_%EF%BD%9ESIMPLE1000%EF%BD%9E%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\27\ns6%3ATHE_%E4%BF%BA_%EF%BD%9ESIMPLE1000%EF%BD%9E%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 CTBR | 专辑封面 | 封面图片
 
@@ -8,11 +8,10 @@ CTBR | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [THE 俺 ～SIMPLE1000～](./THE_俺_～SIMPLE1000～.md)  
-该封面包含的角色：- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)- [八意永琳](./八意永琳.md)- [森近霖之助](./森近霖之助.md)
-
-
-
+- [THE 俺 ～SIMPLE1000～](./THE_俺_～SIMPLE1000～.md)该封面包含的角色：
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
+- [八意永琳](./八意永琳.md)
+- [森近霖之助](./森近霖之助.md)
 
 
 ---

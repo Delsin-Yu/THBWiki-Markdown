@@ -1,16 +1,12 @@
 # 文件:le04_BOSS_Chouki.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\43\ns6%3Ale04_BOSS_Chouki%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\43\ns6%3Ale04_BOSS_Chouki%2Emp3.html -->
 
 连缘Project官方音乐MP3
 
   
 连缘天影战记城线6面Boss-平蝶鬼主题曲
   
-
-
-
-
 
 ---
 

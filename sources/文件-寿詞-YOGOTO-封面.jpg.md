@@ -1,6 +1,6 @@
 # 文件:寿詞-YOGOTO-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\29\ns6%3A%E5%AF%BF%E8%A9%9E-YOGOTO-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\29\ns6%3A%E5%AF%BF%E8%A9%9E-YOGOTO-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 WAVEDRIVE | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ WAVEDRIVE | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [寿詞-YOGOTO-](./寿詞-YOGOTO-.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [寿詞-YOGOTO-](./寿詞-YOGOTO-.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

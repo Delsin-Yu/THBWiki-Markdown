@@ -1,16 +1,12 @@
 # 模板:RRBT
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\1\13\ns10%3ARRBT.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\1\13\ns10%3ARRBT.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

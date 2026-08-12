@@ -1,6 +1,6 @@
 # 文件:Re／verse_-Amateras_Records_Remixes_Vol.6_the_Instrumental-封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\61\ns6%3ARe%EF%BC%8Fverse_-Amateras_Records_Remixes_Vol%2E6_the_Instrumental-%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\61\ns6%3ARe%EF%BC%8Fverse_-Amateras_Records_Remixes_Vol%2E6_the_Instrumental-%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Amateras_Records | 专辑封面 | 封面图片
 
@@ -10,11 +10,11 @@ Amateras_Records | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Re／verse -Amateras Records Remixes Vol.6 the Instrumental-](./Re／verse_-Amateras_Records_Remixes_Vol.6_the_Instrumental-.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)- [比那名居天子](./比那名居天子.md)- [伊吹萃香](./伊吹萃香.md)
-
-
-
+- [Re／verse -Amateras Records Remixes Vol.6 the Instrumental-](./Re／verse_-Amateras_Records_Remixes_Vol.6_the_Instrumental-.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
+- [比那名居天子](./比那名居天子.md)
+- [伊吹萃香](./伊吹萃香.md)
 
 
 ---

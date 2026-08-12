@@ -1,13 +1,11 @@
 # Soundtrack_of_the_Ore_from_the_Age_of_the_Gods
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\24\ns0%3ASoundtrack_of_the_Ore_from_the_Age_of_the_Gods.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\24\ns0%3ASoundtrack_of_the_Ore_from_the_Age_of_the_Gods.html -->
 
 2021年11月30日 由 lapspider45 于 Touhou Fan Game Jam7 发布的EP/原声集同人专辑，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人专辑 (未找到链接)** 的词条
-<center>
-
+**[二次创作同人专辑](./二次创作.md#同人音乐)**的词条<center>
 <table>
 <tbody><tr>
 <td class="mbox-image"><div style="width: 52px;">
@@ -16,45 +14,35 @@
 </tr>
 </tbody></table>
 
-
 </center>
-
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Soundtrack_of_the_Ore_from_the_Age_of_the_Gods封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/6/66/Soundtrack_of_the_Ore_from_the_Age_of_the_Gods%E5%B0%81%E9%9D%A2.jpg/224px-Soundtrack_of_the_Ore_from_the_Age_of_the_Gods%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="224" srcset="https://upload.thwiki.cc/thumb/6/66/Soundtrack_of_the_Ore_from_the_Age_of_the_Gods%E5%B0%81%E9%9D%A2.jpg/336px-Soundtrack_of_the_Ore_from_the_Age_of_the_Gods%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/6/66/Soundtrack_of_the_Ore_from_the_Age_of_the_Gods%E5%B0%81%E9%9D%A2.jpg/448px-Soundtrack_of_the_Ore_from_the_Age_of_the_Gods%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1200" data-file-height="1200"></a><div class="cover-char">角色：<a href="./姬虫百百世.md" title="姬虫百百世">姬虫百百世</a></div></td>
-</tr><tr><td class="label">名称</td><td colspan="2"> Soundtrack of the Ore from the Age of the Gods </td></tr><tr><td class="label">制作方</td><td><a href="/index.php?title=lapspider45&amp;action=edit&amp;redlink=1" class="new" title="lapspider45（页面不存在）">lapspider45</a></td><td class="cover-artwork" rowspan="8" style="min-width:224px;"><a href="./文件-Soundtrack_of_the_Ore_from_the_Age_of_the_Gods封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/6/66/Soundtrack_of_the_Ore_from_the_Age_of_the_Gods%E5%B0%81%E9%9D%A2.jpg/224px-Soundtrack_of_the_Ore_from_the_Age_of_the_Gods%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="224" srcset="https://upload.thwiki.cc/thumb/6/66/Soundtrack_of_the_Ore_from_the_Age_of_the_Gods%E5%B0%81%E9%9D%A2.jpg/336px-Soundtrack_of_the_Ore_from_the_Age_of_the_Gods%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/6/66/Soundtrack_of_the_Ore_from_the_Age_of_the_Gods%E5%B0%81%E9%9D%A2.jpg/448px-Soundtrack_of_the_Ore_from_the_Age_of_the_Gods%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1200" data-file-height="1200"></a><div class="cover-char">角色：<a href="./姬虫百百世.md" title="姬虫百百世">姬虫百百世</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2021-11-30&#160;（<a href="/展会作品列表?e=Touhou+Fan+Game+Jam%237">Touhou Fan Game Jam7</a>）</td></tr><tr><td class="label">类型</td><td>EP，原声集（<a href="./Ore_from_the_Age_of_Gods.md" title="Ore from the Age of Gods">Ore from the Age of Gods</a>的原声集）</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>3</td></tr><tr><td class="label">总时长</td><td>11:09</td></tr><tr><td class="label">售价</td><td>3欧元</td></tr>
+</tr><tr><td class="label">名称</td><td colspan="2"> Soundtrack of the Ore from the Age of the Gods </td></tr><tr><td class="label">制作方</td><td><a class="new" title="lapspider45（页面不存在）">lapspider45</a></td><td class="cover-artwork" rowspan="8" style="min-width:224px;"><a href="./文件-Soundtrack_of_the_Ore_from_the_Age_of_the_Gods封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/6/66/Soundtrack_of_the_Ore_from_the_Age_of_the_Gods%E5%B0%81%E9%9D%A2.jpg/224px-Soundtrack_of_the_Ore_from_the_Age_of_the_Gods%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="224" srcset="https://upload.thwiki.cc/thumb/6/66/Soundtrack_of_the_Ore_from_the_Age_of_the_Gods%E5%B0%81%E9%9D%A2.jpg/336px-Soundtrack_of_the_Ore_from_the_Age_of_the_Gods%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/6/66/Soundtrack_of_the_Ore_from_the_Age_of_the_Gods%E5%B0%81%E9%9D%A2.jpg/448px-Soundtrack_of_the_Ore_from_the_Age_of_the_Gods%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1200" data-file-height="1200"></a><div class="cover-char">角色：<a href="./姬虫百百世.md" title="姬虫百百世">姬虫百百世</a></div></td>
+</tr><tr><td class="label">首发日期</td><td>2021-11-30 （<a href="./展会作品列表.md#7">Touhou Fan Game Jam7</a>）</td></tr><tr><td class="label">类型</td><td>EP，原声集（<a href="./Ore_from_the_Age_of_Gods.md" title="Ore from the Age of Gods">Ore from the Age of Gods</a>的原声集）</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>3</td></tr><tr><td class="label">总时长</td><td>11:09</td></tr><tr><td class="label">售价</td><td>3欧元</td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://lapspider45.bandcamp.com/album/soundtrack-of-the-ore-from-the-age-of-the-gods">https://lapspider45.bandcamp.com/album/soundtrack-of-the-ore-from-the-age-of-the-gods</a></td></tr></tbody></table>
 
 Soundtrack of the Ore from the Age of the Gods（同人专辑，lapspider45，2021） - 2021年11月30日 由 lapspider45 于 Touhou Fan Game Jam7 发布的EP/原声集同人专辑，分级为 一般向
-
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://lapspider45.bandcamp.com/album/soundtrack-of-the-ore-from-the-age-of-the-gods">bandcamp</a></td></tr></tbody></table>
-
 
 
 ## Staff
   
- **Arrangement**   
+**Arrangement**  
 
-<table><tbody><tr><td><a href="/index.php?title=lapspider45&amp;action=edit&amp;redlink=1" class="new" title="lapspider45（页面不存在）">lapspider45</a></td><td><a rel="nofollow" class="external text" href="https://twitter.com/lapspider45">Twitter: @lapspider45</a></td><td>Tr.1-3</td></tr></tbody></table>
-
+<table><tbody><tr><td><a class="new" title="lapspider45（页面不存在）">lapspider45</a></td><td><a rel="nofollow" class="external text" href="https://twitter.com/lapspider45">Twitter: @lapspider45</a></td><td>Tr.1-3</td></tr></tbody></table>
 
 Cover Art
 : Quariumarts （[Twitter: @QuariumArts](https://twitter.com/QuariumArts)）
 
-
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Return_to_the_Underground_Railway_Network" colspan="2" class="title">Return to the Underground Railway Network<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=lapspider45&amp;ogmusic=幻想の地下大線路網&amp;fromwiki=Soundtrack_of_the_Ore_from_the_Age_of_the_Gods"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:42</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=lapspider45&amp;action=edit&amp;redlink=1" class="new" title="lapspider45（页面不存在）">lapspider45</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，lapspider45&amp;fromwiki=Soundtrack_of_the_Ore_from_the_Age_of_the_Gods"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=幻想の地下大線路網&amp;fromwiki=Soundtrack_of_the_Ore_from_the_Age_of_the_Gods"><span></span></a></span><div class="ogmusic"><a href="./幻想の地下大線路網.md" class="mw-redirect" title="幻想の地下大線路網">幻想の地下大線路網</a></div><div class="source"><a href="./东方虹龙洞_～_Unconnected_Marketeers..md" class="mw-redirect" title="东方虹龙洞 ～ Unconnected Marketeers.">东方虹龙洞　～ Unconnected Marketeers.</a></div></td></tr>
-<tr><td id="2" class="infoYD"><b>02</b></td><td id="The_Spelunking_Bug_Princess" colspan="2" class="title">The Spelunking Bug Princess<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=lapspider45&amp;ogmusic=龍王殺しのプリンセス&amp;fromwiki=Soundtrack_of_the_Ore_from_the_Age_of_the_Gods"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:35</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=lapspider45&amp;action=edit&amp;redlink=1" class="new" title="lapspider45（页面不存在）">lapspider45</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，lapspider45&amp;fromwiki=Soundtrack_of_the_Ore_from_the_Age_of_the_Gods"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=龍王殺しのプリンセス&amp;fromwiki=Soundtrack_of_the_Ore_from_the_Age_of_the_Gods"><span></span></a></span><div class="ogmusic"><a href="./龍王殺しのプリンセス.md" class="mw-redirect" title="龍王殺しのプリンセス">龍王殺しのプリンセス</a></div><div class="source"><a href="./东方虹龙洞_～_Unconnected_Marketeers..md" class="mw-redirect" title="东方虹龙洞 ～ Unconnected Marketeers.">东方虹龙洞　～ Unconnected Marketeers.</a></div></td></tr>
-<tr><td id="3" class="infoYD"><b>03</b></td><td id="When_did_I_spend_all_my_Rainbow-Colored_Gems?" colspan="2" class="title">When did I spend all my Rainbow-Colored Gems?<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=lapspider45&amp;ogmusic=あの賑やかな市場は今どこに　～ Immemorial Marketeers，スモーキングドラゴン&amp;fromwiki=Soundtrack_of_the_Ore_from_the_Age_of_the_Gods"><span title="搜索相似同人曲"></span></a></span></td><td class="time">02:52</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=lapspider45&amp;action=edit&amp;redlink=1" class="new" title="lapspider45（页面不存在）">lapspider45</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，lapspider45&amp;fromwiki=Soundtrack_of_the_Ore_from_the_Age_of_the_Gods"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=あの賑やかな市場は今どこに　～ Immemorial Marketeers，スモーキングドラゴン&amp;fromwiki=Soundtrack_of_the_Ore_from_the_Age_of_the_Gods"><span></span></a></span><div class="ogmusic"><a href="./あの賑やかな市場は今どこに_～_Immemorial_Marketeers.md" class="mw-redirect" title="あの賑やかな市場は今どこに ～ Immemorial Marketeers">あの賑やかな市場は今どこに　～ Immemorial Marketeers</a></div><div class="ogmusic"><a href="./スモーキングドラゴン.md" class="mw-redirect" title="スモーキングドラゴン">スモーキングドラゴン</a></div><div class="source"><a href="./东方虹龙洞_～_Unconnected_Marketeers..md" class="mw-redirect" title="东方虹龙洞 ～ Unconnected Marketeers.">东方虹龙洞　～ Unconnected Marketeers.</a></div></td></tr></tbody></table>
-
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Return_to_the_Underground_Railway_Network" colspan="2" class="title">Return to the Underground Railway Network</td><td class="time">03:42</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="lapspider45（页面不存在）">lapspider45</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./幻想地下大轨道网.md" class="mw-redirect" title="幻想の地下大線路網">幻想の地下大線路網</a></div><div class="source"><a href="./东方虹龙洞.md" class="mw-redirect" title="东方虹龙洞 ～ Unconnected Marketeers.">东方虹龙洞　～ Unconnected Marketeers.</a></div></td></tr>
+<tr><td id="2" class="infoYD"><b>02</b></td><td id="The_Spelunking_Bug_Princess" colspan="2" class="title">The Spelunking Bug Princess</td><td class="time">04:35</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="lapspider45（页面不存在）">lapspider45</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./灭杀龙王的公主.md" class="mw-redirect" title="龍王殺しのプリンセス">龍王殺しのプリンセス</a></div><div class="source"><a href="./东方虹龙洞.md" class="mw-redirect" title="东方虹龙洞 ～ Unconnected Marketeers.">东方虹龙洞　～ Unconnected Marketeers.</a></div></td></tr>
+<tr><td id="3" class="infoYD"><b>03</b></td><td id="When_did_I_spend_all_my_Rainbow-Colored_Gems?" colspan="2" class="title">When did I spend all my Rainbow-Colored Gems?</td><td class="time">02:52</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="lapspider45（页面不存在）">lapspider45</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./熙攘市场今何在_～_Immemorial_Marketeers.md" class="mw-redirect" title="あの賑やかな市場は今どこに ～ Immemorial Marketeers">あの賑やかな市場は今どこに　～ Immemorial Marketeers</a></div><div class="ogmusic"><a href="./Smoking_Dragon.md" class="mw-redirect" title="スモーキングドラゴン">スモーキングドラゴン</a></div><div class="source"><a href="./东方虹龙洞.md" class="mw-redirect" title="东方虹龙洞 ～ Unconnected Marketeers.">东方虹龙洞　～ Unconnected Marketeers.</a></div></td></tr></tbody></table>
 
 
 ## 评论
-
-
-
 
 ---
 

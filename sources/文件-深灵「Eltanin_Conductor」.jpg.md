@@ -1,12 +1,8 @@
 # 文件:深灵「Eltanin_Conductor」.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bb\ns6%3A%E6%B7%B1%E7%81%B5%E3%80%8CEltanin_Conductor%E3%80%8D%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bb\ns6%3A%E6%B7%B1%E7%81%B5%E3%80%8CEltanin_Conductor%E3%80%8D%2Ejpg.html -->
 
 東方邪星章製作チーム
-
-
-
-
 
 
 ---

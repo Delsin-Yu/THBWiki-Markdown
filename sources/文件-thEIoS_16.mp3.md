@@ -1,6 +1,6 @@
 # 文件:thEIoS_16.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fc\ns6%3AthEIoS_16%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fc\ns6%3AthEIoS_16%2Emp3.html -->
 
 东方祈华梦制作组 | 春彩动荡之寂_～盛樱之世～
 
@@ -9,10 +9,6 @@
   
 东方祈华梦6面BOSS曲
   
-
-
-
-
 
 ---
 

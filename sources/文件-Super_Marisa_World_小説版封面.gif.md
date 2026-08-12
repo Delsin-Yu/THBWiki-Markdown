@@ -1,6 +1,6 @@
 # 文件:Super_Marisa_World_小説版封面.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\84\ns6%3ASuper_Marisa_World_%E5%B0%8F%E8%AA%AC%E7%89%88%E5%B0%81%E9%9D%A2%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\84\ns6%3ASuper_Marisa_World_%E5%B0%8F%E8%AA%AC%E7%89%88%E5%B0%81%E9%9D%A2%2Egif.html -->
 
 Feather's_Snow | 同人志封面 | 封面图片
 
@@ -10,16 +10,20 @@ Feather's_Snow | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Super Marisa World 小説版](./Super_Marisa_World_小説版.md)  
-该封面包含的角色：- [露米娅](./露米娅.md)- [小恶魔](./小恶魔.md)- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [魂魄妖梦](./魂魄妖梦.md)- [西行寺幽幽子](./西行寺幽幽子.md)- [莉格露·奈特巴格](./莉格露·奈特巴格.md)- [伊吹萃香](./伊吹萃香.md)- [雾雨魔理沙](./雾雨魔理沙.md)
+- [Super Marisa World 小説版](./Super_Marisa_World_小説版.md)该封面包含的角色：
+- [露米娅](./露米娅.md)
+- [小恶魔](./小恶魔.md)
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [魂魄妖梦](./魂魄妖梦.md)
+- [西行寺幽幽子](./西行寺幽幽子.md)
+- [莉格露·奈特巴格](./莉格露·奈特巴格.md)
+- [伊吹萃香](./伊吹萃香.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-源地址：[direct image link](https://web.archive.org/web/20190210050502im_/http://www.geocities.jp/doublehane/marisawa0.gif), [source page](https://web.archive.org/web/20190210050501/http://www.geocities.jp/doublehane/kikan.html)
-  
-
-
-
-
+源地址：[direct image link](https://web.archive.org/web/20190210050502im_/http://www.geocities.jp/doublehane/marisawa0.gif), [source page](https://web.archive.org/web/20190210050501/http://www.geocities.jp/doublehane/kikan.html)  
 
 ---
 

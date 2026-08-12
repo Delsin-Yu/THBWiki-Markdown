@@ -1,12 +1,8 @@
 # 文件:东方幻响诗篇LOGO.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\47\ns6%3A%E4%B8%9C%E6%96%B9%E5%B9%BB%E5%93%8D%E8%AF%97%E7%AF%87LOGO%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\47\ns6%3A%E4%B8%9C%E6%96%B9%E5%B9%BB%E5%93%8D%E8%AF%97%E7%AF%87LOGO%2Ejpg.html -->
 
 幻响诗篇 | 活动LOGO
-
-
-
-
 
 
 ---

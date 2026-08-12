@@ -1,6 +1,6 @@
 # 文件:遊音祭（东方游剧天DX）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fc\ns6%3A%E9%81%8A%E9%9F%B3%E7%A5%AD%EF%BC%88%E4%B8%9C%E6%96%B9%E6%B8%B8%E5%89%A7%E5%A4%A9DX%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fc\ns6%3A%E9%81%8A%E9%9F%B3%E7%A5%AD%EF%BC%88%E4%B8%9C%E6%96%B9%E6%B8%B8%E5%89%A7%E5%A4%A9DX%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 东方游剧天 | 封面图片 | 次元怪兽
 
@@ -9,11 +9,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [遊音祭（东方游剧天DX）](./遊音祭（东方游剧天DX）.md)  
-该封面包含的角色：- [古明地觉](./古明地觉.md)
-
-
-
+- [遊音祭（东方游剧天DX）](./遊音祭（东方游剧天DX）.md)该封面包含的角色：
+- [古明地觉](./古明地觉.md)
 
 
 ---

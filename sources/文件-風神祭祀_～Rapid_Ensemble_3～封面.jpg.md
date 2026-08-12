@@ -1,6 +1,6 @@
 # 文件:風神祭祀_～Rapid_Ensemble_3～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\26\ns6%3A%E9%A2%A8%E7%A5%9E%E7%A5%AD%E7%A5%80_%EF%BD%9ERapid_Ensemble_3%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\26\ns6%3A%E9%A2%A8%E7%A5%9E%E7%A5%AD%E7%A5%80_%EF%BD%9ERapid_Ensemble_3%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 As／Hi | 专辑封面 | 封面图片
 
@@ -8,11 +8,11 @@ As／Hi | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [風神祭祀 ～Rapid Ensemble 3～](./風神祭祀_～Rapid_Ensemble_3～.md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)- [东风谷早苗](./东风谷早苗.md)- [八坂神奈子](./八坂神奈子.md)- [洩矢诹访子](./洩矢诹访子.md)
-
-
-
+- [風神祭祀 ～Rapid Ensemble 3～](./風神祭祀_～Rapid_Ensemble_3～.md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
+- [东风谷早苗](./东风谷早苗.md)
+- [八坂神奈子](./八坂神奈子.md)
+- [洩矢诹访子](./洩矢诹访子.md)
 
 
 ---

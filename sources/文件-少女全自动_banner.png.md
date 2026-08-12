@@ -1,12 +1,8 @@
 # 文件:少女全自动_banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ec\ns6%3A%E5%B0%91%E5%A5%B3%E5%85%A8%E8%87%AA%E5%8A%A8_banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ec\ns6%3A%E5%B0%91%E5%A5%B3%E5%85%A8%E8%87%AA%E5%8A%A8_banner%2Epng.html -->
 
 少女全自动 | 社团LOGO
-
-
-
-
 
 
 ---

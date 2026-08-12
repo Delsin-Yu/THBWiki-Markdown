@@ -1,16 +1,11 @@
 # 文件:Dystopia_Druglogo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c0\ns6%3ADystopia_Druglogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c0\ns6%3ADystopia_Druglogo%2Ejpg.html -->
 
 Dystopia_Drug | 社团LOGO
 
   
-源地址：[[1]](https://booth.pximg.net/c/128x128/users/317522/icon_image/3922089c-0998-4657-ae75-68bb692b5d1e_base_resized.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://booth.pximg.net/c/128x128/users/317522/icon_image/3922089c-0998-4657-ae75-68bb692b5d1e_base_resized.jpg)  
 
 ---
 

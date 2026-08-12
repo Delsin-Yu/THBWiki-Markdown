@@ -1,6 +1,6 @@
 # 文件:Midnight_Boogie封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1f\ns6%3AMidnight_Boogie%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1f\ns6%3AMidnight_Boogie%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 A-GEAR | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ A-GEAR | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Midnight Boogie](./Midnight_Boogie.md)  
-该封面包含的角色：- [米斯蒂娅·萝蕾拉](./米斯蒂娅·萝蕾拉.md)
+- [Midnight Boogie](./Midnight_Boogie.md)该封面包含的角色：
+- [米斯蒂娅·萝蕾拉](./米斯蒂娅·萝蕾拉.md)
 
   
-源地址：[[1]](http://bmimg.nicovideo.jp/image/ch2573347/38881/2588b558510c8b9f2cac9f6fa6be2c824fc2e4a9.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://bmimg.nicovideo.jp/image/ch2573347/38881/2588b558510c8b9f2cac9f6fa6be2c824fc2e4a9.jpg)  
 
 ---
 

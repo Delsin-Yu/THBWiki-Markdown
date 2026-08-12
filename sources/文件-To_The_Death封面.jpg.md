@@ -1,6 +1,6 @@
 # 文件:To_The_Death封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\97\ns6%3ATo_The_Death%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\97\ns6%3ATo_The_Death%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Suspicion_&_Fear | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Suspicion_&_Fear | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [To The Death](./To_The_Death.md)  
-该封面包含的角色：- [犬走椛](./犬走椛.md)
+- [To The Death](./To_The_Death.md)该封面包含的角色：
+- [犬走椛](./犬走椛.md)
 
   
-源地址：[[1]](http://blog-imgs-100-origin.fc2.com/s/u/s/suspicionandfaer/1p1-p4.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://blog-imgs-100-origin.fc2.com/s/u/s/suspicionandfaer/1p1-p4.jpg)  
 
 ---
 

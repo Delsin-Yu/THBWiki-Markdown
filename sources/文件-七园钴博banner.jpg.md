@@ -1,12 +1,8 @@
 # 文件:七园钴博banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\59\ns6%3A%E4%B8%83%E5%9B%AD%E9%92%B4%E5%8D%9Abanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\59\ns6%3A%E4%B8%83%E5%9B%AD%E9%92%B4%E5%8D%9Abanner%2Ejpg.html -->
 
 七园钴博 | 社团LOGO
-
-
-
-
 
 
 ---

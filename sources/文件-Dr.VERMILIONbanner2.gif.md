@@ -1,14 +1,11 @@
 # 文件:Dr.VERMILIONbanner2.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bf\ns6%3ADr%2EVERMILIONbanner2%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bf\ns6%3ADr%2EVERMILIONbanner2%2Egif.html -->
 
 Dr.VERMILION | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

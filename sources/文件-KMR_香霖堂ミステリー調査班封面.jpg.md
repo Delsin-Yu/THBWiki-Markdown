@@ -1,6 +1,6 @@
 # 文件:KMR_香霖堂ミステリー調査班封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a2\ns6%3AKMR_%E9%A6%99%E9%9C%96%E5%A0%82%E3%83%9F%E3%82%B9%E3%83%86%E3%83%AA%E3%83%BC%E8%AA%BF%E6%9F%BB%E7%8F%AD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a2\ns6%3AKMR_%E9%A6%99%E9%9C%96%E5%A0%82%E3%83%9F%E3%82%B9%E3%83%86%E3%83%AA%E3%83%BC%E8%AA%BF%E6%9F%BB%E7%8F%AD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 DPSの奴隷達 | 同人志封面 | 封面图片
 
@@ -8,11 +8,11 @@ DPSの奴隷達 | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [KMR 香霖堂ミステリー調査班](./KMR_香霖堂ミステリー調査班.md)  
-该封面包含的角色：- [上白泽慧音](./上白泽慧音.md)- [射命丸文](./射命丸文.md)- [伊吹萃香](./伊吹萃香.md)- [森近霖之助](./森近霖之助.md)
-
-
-
+- [KMR 香霖堂ミステリー調査班](./KMR_香霖堂ミステリー調査班.md)该封面包含的角色：
+- [上白泽慧音](./上白泽慧音.md)
+- [射命丸文](./射命丸文.md)
+- [伊吹萃香](./伊吹萃香.md)
+- [森近霖之助](./森近霖之助.md)
 
 
 ---

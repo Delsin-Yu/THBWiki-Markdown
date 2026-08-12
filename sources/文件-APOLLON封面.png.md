@@ -1,6 +1,6 @@
 # 文件:APOLLON封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\45\ns6%3AAPOLLON%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\45\ns6%3AAPOLLON%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 IZMIZM | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ IZMIZM | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [APOLLON](./APOLLON.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
-
-
-
+- [APOLLON](./APOLLON.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
 
 ---

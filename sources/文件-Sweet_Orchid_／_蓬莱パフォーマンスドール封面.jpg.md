@@ -1,6 +1,6 @@
 # 文件:Sweet_Orchid_／_蓬莱パフォーマンスドール封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\56\ns6%3ASweet_Orchid_%EF%BC%8F_%E8%93%AC%E8%8E%B1%E3%83%91%E3%83%95%E3%82%A9%E3%83%BC%E3%83%9E%E3%83%B3%E3%82%B9%E3%83%89%E3%83%BC%E3%83%AB%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\56\ns6%3ASweet_Orchid_%EF%BC%8F_%E8%93%AC%E8%8E%B1%E3%83%91%E3%83%95%E3%82%A9%E3%83%BC%E3%83%9E%E3%83%B3%E3%82%B9%E3%83%89%E3%83%BC%E3%83%AB%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 MONOMIND | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ MONOMIND | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Sweet Orchid ／ 蓬莱パフォーマンスドール](./Sweet_Orchid_／_蓬莱パフォーマンスドール.md)  
-该封面包含的角色：- [风见幽香](./风见幽香.md)
-
-
-
+- [Sweet Orchid ／ 蓬莱パフォーマンスドール](./Sweet_Orchid_／_蓬莱パフォーマンスドール.md)该封面包含的角色：
+- [风见幽香](./风见幽香.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Procession_Of_The_Gods封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ed\ns6%3AProcession_Of_The_Gods%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ed\ns6%3AProcession_Of_The_Gods%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Kyandoru_Raito_No_Konran | 专辑封面 | 封面图片
 
@@ -8,16 +8,13 @@ Kyandoru_Raito_No_Konran | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Procession Of The Gods](./Procession_Of_The_Gods.md)  
-该封面包含的角色：- [东风谷早苗](./东风谷早苗.md)- [八坂神奈子](./八坂神奈子.md)- [洩矢诹访子](./洩矢诹访子.md)
+- [Procession Of The Gods](./Procession_Of_The_Gods.md)该封面包含的角色：
+- [东风谷早苗](./东风谷早苗.md)
+- [八坂神奈子](./八坂神奈子.md)
+- [洩矢诹访子](./洩矢诹访子.md)
 
   
-源地址：[[1]](https://kyandoruraitonokonranofficial.files.wordpress.com/2013/09/procession-of-the-gods.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://kyandoruraitonokonranofficial.files.wordpress.com/2013/09/procession-of-the-gods.jpg)  
 
 ---
 

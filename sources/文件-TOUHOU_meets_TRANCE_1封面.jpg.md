@@ -1,6 +1,6 @@
 # 文件:TOUHOU_meets_TRANCE_1封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b3\ns6%3ATOUHOU_meets_TRANCE_1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b3\ns6%3ATOUHOU_meets_TRANCE_1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Rolling_Contact | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Rolling_Contact | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [TOUHOU meets TRANCE 1](./TOUHOU_meets_TRANCE_1.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [TOUHOU meets TRANCE 1](./TOUHOU_meets_TRANCE_1.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

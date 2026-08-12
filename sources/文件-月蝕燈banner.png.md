@@ -1,12 +1,8 @@
 # 文件:月蝕燈banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9d\ns6%3A%E6%9C%88%E8%9D%95%E7%87%88banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9d\ns6%3A%E6%9C%88%E8%9D%95%E7%87%88banner%2Epng.html -->
 
 月蝕燈 | 社团LOGO
-
-
-
-
 
 
 ---

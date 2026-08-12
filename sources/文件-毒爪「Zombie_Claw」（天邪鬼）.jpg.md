@@ -1,12 +1,8 @@
 # 文件:毒爪「Zombie_Claw」（天邪鬼）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c8\ns6%3A%E6%AF%92%E7%88%AA%E3%80%8CZombie_Claw%E3%80%8D%EF%BC%88%E5%A4%A9%E9%82%AA%E9%AC%BC%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c8\ns6%3A%E6%AF%92%E7%88%AA%E3%80%8CZombie_Claw%E3%80%8D%EF%BC%88%E5%A4%A9%E9%82%AA%E9%AC%BC%EF%BC%89%2Ejpg.html -->
 
 宫古芳香 | 弹幕天邪鬼 | 敌机符卡
-
-
-
-
 
 
 ---

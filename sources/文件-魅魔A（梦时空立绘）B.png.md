@@ -1,14 +1,11 @@
 # 文件:魅魔A（梦时空立绘）B.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ad\ns6%3A%E9%AD%85%E9%AD%94A%EF%BC%88%E6%A2%A6%E6%97%B6%E7%A9%BA%E7%AB%8B%E7%BB%98%EF%BC%89B%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ad\ns6%3A%E9%AD%85%E9%AD%94A%EF%BC%88%E6%A2%A6%E6%97%B6%E7%A9%BA%E7%AB%8B%E7%BB%98%EF%BC%89B%2Epng.html -->
 
 ZUN绘 | 东方梦时空 | 官方游戏立绘 | 魅魔
 
 
 ## 摘要
-
-
-
 
 ---
 

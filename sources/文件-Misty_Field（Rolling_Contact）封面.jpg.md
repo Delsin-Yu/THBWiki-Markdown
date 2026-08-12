@@ -1,6 +1,6 @@
 # 文件:Misty_Field（Rolling_Contact）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9c\ns6%3AMisty_Field%EF%BC%88Rolling_Contact%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9c\ns6%3AMisty_Field%EF%BC%88Rolling_Contact%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Rolling_Contact | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Rolling_Contact | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Misty Field（Rolling Contact）](./Misty_Field（Rolling_Contact）.md)  
-该封面包含的角色：- [东风谷早苗](./东风谷早苗.md)
-
-
-
+- [Misty Field（Rolling Contact）](./Misty_Field（Rolling_Contact）.md)该封面包含的角色：
+- [东风谷早苗](./东风谷早苗.md)
 
 
 ---

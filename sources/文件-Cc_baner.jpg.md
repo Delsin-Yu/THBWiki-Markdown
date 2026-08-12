@@ -1,12 +1,8 @@
 # 文件:Cc_baner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2e\ns6%3ACc_baner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2e\ns6%3ACc_baner%2Ejpg.html -->
 
 Colorful_Cube | 社团LOGO
-
-
-
-
 
 
 ---

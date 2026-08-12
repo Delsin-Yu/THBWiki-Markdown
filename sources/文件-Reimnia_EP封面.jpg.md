@@ -1,6 +1,6 @@
 # 文件:Reimnia_EP封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4b\ns6%3AReimnia_EP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4b\ns6%3AReimnia_EP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Omnigears | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Omnigears | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Reimnia EP](./Reimnia_EP.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
+- [Reimnia EP](./Reimnia_EP.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
   
-源地址：[[1]](https://soundcloud.com/yofunigears/c91-reimnia-ep-xfade)
-  
-
-
-
-
+源地址：[\[1\]](https://soundcloud.com/yofunigears/c91-reimnia-ep-xfade)  
 
 ---
 

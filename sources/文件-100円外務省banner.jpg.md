@@ -1,12 +1,8 @@
 # 文件:100円外務省banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e0\ns6%3A100%E5%86%86%E5%A4%96%E5%8B%99%E7%9C%81banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e0\ns6%3A100%E5%86%86%E5%A4%96%E5%8B%99%E7%9C%81banner%2Ejpg.html -->
 
 100円外務省 | 社团LOGO
-
-
-
-
 
 
 ---

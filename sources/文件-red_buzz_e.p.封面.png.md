@@ -1,6 +1,6 @@
 # 文件:red_buzz_e.p.封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3f\ns6%3Ared_buzz_e%2Ep%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3f\ns6%3Ared_buzz_e%2Ep%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 acrophobia | 专辑封面 | 封面图片
 
@@ -8,12 +8,9 @@ acrophobia | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [red buzz e.p.](./red_buzz_e.p..md)  
-该封面包含的角色：- [东风谷早苗](./东风谷早苗.md)源地址：[[1]](http://acrophobia.yaekumo.com/simpleVC_20100209221402.html)
-
-
-
-
+- [red buzz e.p.](./red_buzz_e.p..md)该封面包含的角色：
+- [东风谷早苗](./东风谷早苗.md)
+源地址：[\[1\]](http://acrophobia.yaekumo.com/simpleVC_20100209221402.html)
 
 ---
 

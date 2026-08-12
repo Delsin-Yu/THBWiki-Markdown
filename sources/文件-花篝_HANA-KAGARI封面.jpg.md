@@ -1,6 +1,6 @@
 # 文件:花篝_HANA-KAGARI封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\05\ns6%3A%E8%8A%B1%E7%AF%9D_HANA-KAGARI%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\05\ns6%3A%E8%8A%B1%E7%AF%9D_HANA-KAGARI%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 K2_SOUND | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ K2_SOUND | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [花篝 HANA-KAGARI](./花篝_HANA-KAGARI.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [花篝 HANA-KAGARI](./花篝_HANA-KAGARI.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

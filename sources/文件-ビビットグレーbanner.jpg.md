@@ -1,12 +1,8 @@
 # 文件:ビビットグレーbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8f\ns6%3A%E3%83%93%E3%83%93%E3%83%83%E3%83%88%E3%82%B0%E3%83%AC%E3%83%BCbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8f\ns6%3A%E3%83%93%E3%83%93%E3%83%83%E3%83%88%E3%82%B0%E3%83%AC%E3%83%BCbanner%2Ejpg.html -->
 
 ビビットグレー | 社团LOGO
-
-
-
-
 
 
 ---

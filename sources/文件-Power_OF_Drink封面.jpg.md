@@ -1,6 +1,6 @@
 # 文件:Power_OF_Drink封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4f\ns6%3APower_OF_Drink%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4f\ns6%3APower_OF_Drink%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 MA.S_ATTACK | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ MA.S_ATTACK | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Power OF Drink](./Power_OF_Drink.md)  
-该封面包含的角色：- [伊吹萃香](./伊吹萃香.md)
+- [Power OF Drink](./Power_OF_Drink.md)该封面包含的角色：
+- [伊吹萃香](./伊吹萃香.md)
 
   
-源地址：[[1]](https://web.archive.org/web/20111014073141im_/http://mas-attack.org/image/pod.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://web.archive.org/web/20111014073141im_/http://mas-attack.org/image/pod.jpg)  
 
 ---
 

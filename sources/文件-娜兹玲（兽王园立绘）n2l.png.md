@@ -1,12 +1,8 @@
 # 文件:娜兹玲（兽王园立绘）n2l.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\75\ns6%3A%E5%A8%9C%E5%85%B9%E7%8E%B2%EF%BC%88%E5%85%BD%E7%8E%8B%E5%9B%AD%E7%AB%8B%E7%BB%98%EF%BC%89n2l%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\75\ns6%3A%E5%A8%9C%E5%85%B9%E7%8E%B2%EF%BC%88%E5%85%BD%E7%8E%8B%E5%9B%AD%E7%AB%8B%E7%BB%98%EF%BC%89n2l%2Epng.html -->
 
 ZUN绘 | 东方兽王园 | 娜兹玲 | 官方游戏立绘
-
-
-
-
 
 
 ---

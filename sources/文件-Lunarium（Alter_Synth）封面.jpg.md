@@ -1,6 +1,6 @@
 # 文件:Lunarium（Alter_Synth）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6f\ns6%3ALunarium%EF%BC%88Alter_Synth%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6f\ns6%3ALunarium%EF%BC%88Alter_Synth%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Alter_Synth | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Alter_Synth | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Lunarium（Alter Synth）](./Lunarium（Alter_Synth）.md)  
-该封面包含的角色：- [纯狐](./纯狐.md)
+- [Lunarium（Alter Synth）](./Lunarium（Alter_Synth）.md)该封面包含的角色：
+- [纯狐](./纯狐.md)
 
   
-源地址：[[1]](https://altersynth.bandcamp.com/album/lunarium)
-  
-
-
-
-
+源地址：[\[1\]](https://altersynth.bandcamp.com/album/lunarium)  
 
 ---
 

@@ -1,14 +1,11 @@
 # 文件:まじっくあわ～banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\80\ns6%3A%E3%81%BE%E3%81%98%E3%81%A3%E3%81%8F%E3%81%82%E3%82%8F%EF%BD%9Ebanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\80\ns6%3A%E3%81%BE%E3%81%98%E3%81%A3%E3%81%8F%E3%81%82%E3%82%8F%EF%BD%9Ebanner%2Epng.html -->
 
 まじっくあわ～ | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

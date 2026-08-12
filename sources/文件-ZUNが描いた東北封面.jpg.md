@@ -1,6 +1,6 @@
 # 文件:ZUNが描いた東北封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\52\ns6%3AZUN%E3%81%8C%E6%8F%8F%E3%81%84%E3%81%9F%E6%9D%B1%E5%8C%97%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\52\ns6%3AZUN%E3%81%8C%E6%8F%8F%E3%81%84%E3%81%9F%E6%9D%B1%E5%8C%97%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 五花八門 | 同人志封面 | 封面图片
 
@@ -11,9 +11,6 @@
   
 
 - [ZUNが描いた東北](./ZUNが描いた東北.md)
-
-
-
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:FS幻想症候群banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d7\ns6%3AFS%E5%B9%BB%E6%83%B3%E7%97%87%E5%80%99%E7%BE%A4banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d7\ns6%3AFS%E5%B9%BB%E6%83%B3%E7%97%87%E5%80%99%E7%BE%A4banner%2Ejpg.html -->
 
 FS幻想症候群 | 社团LOGO
-
-
-
-
 
 
 ---

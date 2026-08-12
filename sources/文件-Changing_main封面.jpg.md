@@ -1,6 +1,6 @@
 # 文件:Changing_main封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\65\ns6%3AChanging_main%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\65\ns6%3AChanging_main%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ゆめいろごろも | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Changing main](./Changing_main.md)  
-该封面包含的角色：- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
+- [Changing main](./Changing_main.md)该封面包含的角色：
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
 
   
-源地址：[direct image link](http://yumegoro.sumomo.ne.jp/doujin/pacye06.jpg), [source page](http://yumegoro.sumomo.ne.jp/kokuti07.html)
-  
-
-
-
-
+源地址：[direct image link](http://yumegoro.sumomo.ne.jp/doujin/pacye06.jpg), [source page](http://yumegoro.sumomo.ne.jp/kokuti07.html)  
 
 ---
 

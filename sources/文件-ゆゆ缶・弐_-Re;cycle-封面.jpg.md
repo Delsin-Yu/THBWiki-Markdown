@@ -1,6 +1,6 @@
 # 文件:ゆゆ缶・弐_-Re;cycle-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\04\ns6%3A%E3%82%86%E3%82%86%E7%BC%B6%E3%83%BB%E5%BC%90_-Re%3Bcycle-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\04\ns6%3A%E3%82%86%E3%82%86%E7%BC%B6%E3%83%BB%E5%BC%90_-Re%3Bcycle-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Atelier_Oguu | PASTEL_JAM | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Atelier_Oguu | PASTEL_JAM | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [ゆゆ缶・弐 -Re;cycle-](./ゆゆ缶・弐_-Re;cycle-.md)  
-该封面包含的角色：- [西行寺幽幽子](./西行寺幽幽子.md)
-
-
-
+- [ゆゆ缶・弐 -Re;cycle-](./ゆゆ缶・弐_-Re;cycle-.md)该封面包含的角色：
+- [西行寺幽幽子](./西行寺幽幽子.md)
 
 
 ---

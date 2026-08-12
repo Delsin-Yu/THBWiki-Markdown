@@ -1,16 +1,12 @@
 # 文件:纷鸟境虹谈制作组logo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e3\ns6%3A%E7%BA%B7%E9%B8%9F%E5%A2%83%E8%99%B9%E8%B0%88%E5%88%B6%E4%BD%9C%E7%BB%84logo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e3\ns6%3A%E7%BA%B7%E9%B8%9F%E5%A2%83%E8%99%B9%E8%B0%88%E5%88%B6%E4%BD%9C%E7%BB%84logo%2Epng.html -->
 
 社团LOGO | 纷鸟境虹谈制作组
 
   
 纷鸟境虹谈 团队logo
   
-
-
-
-
 
 ---
 

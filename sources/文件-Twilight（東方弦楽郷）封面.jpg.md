@@ -1,6 +1,6 @@
 # 文件:Twilight（東方弦楽郷）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4f\ns6%3ATwilight%EF%BC%88%E6%9D%B1%E6%96%B9%E5%BC%A6%E6%A5%BD%E9%83%B7%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4f\ns6%3ATwilight%EF%BC%88%E6%9D%B1%E6%96%B9%E5%BC%A6%E6%A5%BD%E9%83%B7%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 東方弦楽郷
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [Twilight（東方弦楽郷）](./Twilight（東方弦楽郷）.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
-
-
-
+- [Twilight（東方弦楽郷）](./Twilight（東方弦楽郷）.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
 
 ---

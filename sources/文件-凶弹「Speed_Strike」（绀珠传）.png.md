@@ -1,12 +1,8 @@
 # 文件:凶弹「Speed_Strike」（绀珠传）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7b\ns6%3A%E5%87%B6%E5%BC%B9%E3%80%8CSpeed_Strike%E3%80%8D%EF%BC%88%E7%BB%80%E7%8F%A0%E4%BC%A0%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7b\ns6%3A%E5%87%B6%E5%BC%B9%E3%80%8CSpeed_Strike%E3%80%8D%EF%BC%88%E7%BB%80%E7%8F%A0%E4%BC%A0%EF%BC%89%2Epng.html -->
 
 东方绀珠传 | 敌机符卡 | 清兰
-
-
-
-
 
 
 ---

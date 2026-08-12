@@ -1,6 +1,6 @@
 # 文件:Demo＃1（Listen_for_Your_Silhouette）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d6\ns6%3ADemo%EF%BC%831%EF%BC%88Listen_for_Your_Silhouette%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d6\ns6%3ADemo%EF%BC%831%EF%BC%88Listen_for_Your_Silhouette%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Listen_for_Your_Silhouette | 专辑封面 | 封面图片
 
@@ -13,12 +13,7 @@ Listen_for_Your_Silhouette | 专辑封面 | 封面图片
 - [Demo＃1（Listen for Your Silhouette）](./Demo＃1（Listen_for_Your_Silhouette）.md)
 
   
-源地址：[[1]](https://s2.booth.pm/c5991fe9-3666-4dde-85b4-71c3dd6a0864/i/1754034/74f52371-91e0-474b-9f22-b5a56fe6985d_base_resized.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://s2.booth.pm/c5991fe9-3666-4dde-85b4-71c3dd6a0864/i/1754034/74f52371-91e0-474b-9f22-b5a56fe6985d_base_resized.jpg)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:上海寄鍋館_~Chinese_Nabe~封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\10\ns6%3A%E4%B8%8A%E6%B5%B7%E5%AF%84%E9%8D%8B%E9%A4%A8_%7EChinese_Nabe%7E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\10\ns6%3A%E4%B8%8A%E6%B5%B7%E5%AF%84%E9%8D%8B%E9%A4%A8_%7EChinese_Nabe%7E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 バナナカレー | 同人志封面 | 封面图片
 
@@ -10,16 +10,17 @@
 使用了本文件作封面图片的作品：
   
 
-- [上海寄鍋館 ~Chinese Nabe~](./上海寄鍋館_~Chinese_Nabe~.md)  
-该封面包含的角色：- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)- 十六夜咲夜 (未找到链接)- [因幡帝](./因幡帝.md)- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)- [永江衣玖](./永江衣玖.md)- [比那名居天子](./比那名居天子.md)- [洩矢诹访子](./洩矢诹访子.md)
+- [上海寄鍋館 ~Chinese Nabe~](./上海寄鍋館_~Chinese_Nabe~.md)该封面包含的角色：
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
+- [十六夜咲夜](./十六夜咲夜.md)
+- [因幡帝](./因幡帝.md)
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
+- [永江衣玖](./永江衣玖.md)
+- [比那名居天子](./比那名居天子.md)
+- [洩矢诹访子](./洩矢诹访子.md)
 
   
-[Pixiv artwork ID: 3047973](https://www.pixiv.net/artworks/3047973)
-  
-
-
-
-
+[Pixiv artwork ID: 3047973](https://www.pixiv.net/artworks/3047973)  
 
 ---
 

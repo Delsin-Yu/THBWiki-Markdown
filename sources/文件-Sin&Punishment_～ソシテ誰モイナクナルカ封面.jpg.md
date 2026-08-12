@@ -1,6 +1,6 @@
 # 文件:Sin&Punishment_～ソシテ誰モイナクナルカ封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2a\ns6%3ASin%26Punishment_%EF%BD%9E%E3%82%BD%E3%82%B7%E3%83%86%E8%AA%B0%E3%83%A2%E3%82%A4%E3%83%8A%E3%82%AF%E3%83%8A%E3%83%AB%E3%82%AB%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2a\ns6%3ASin%26Punishment_%EF%BD%9E%E3%82%BD%E3%82%B7%E3%83%86%E8%AA%B0%E3%83%A2%E3%82%A4%E3%83%8A%E3%82%AF%E3%83%8A%E3%83%AB%E3%82%AB%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 緋月ノ雫
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Sin&amp;Punishment ～ソシテ誰モイナクナルカ](./Sin&Punishment_～ソシテ誰モイナクナルカ.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
-
-
-
+- [Sin&Punishment ～ソシテ誰モイナクナルカ](./Sin&Punishment_～ソシテ誰モイナクナルカ.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
 
 ---

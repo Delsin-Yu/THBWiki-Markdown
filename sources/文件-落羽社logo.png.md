@@ -1,16 +1,12 @@
 # 文件:落羽社logo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b3\ns6%3A%E8%90%BD%E7%BE%BD%E7%A4%BElogo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b3\ns6%3A%E8%90%BD%E7%BE%BD%E7%A4%BElogo%2Epng.html -->
 
 社团LOGO | 落羽社
 
   
 社团logo
   
-
-
-
-
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:宵闇機甲録-TwilightApocalypse-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d6\ns6%3A%E5%AE%B5%E9%97%87%E6%A9%9F%E7%94%B2%E9%8C%B2-TwilightApocalypse-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d6\ns6%3A%E5%AE%B5%E9%97%87%E6%A9%9F%E7%94%B2%E9%8C%B2-TwilightApocalypse-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ニチカ工房 | 封面图片 | 软件封面
 
@@ -10,11 +10,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [宵闇機甲録-TwilightApocalypse-](./宵闇機甲録-TwilightApocalypse-.md)  
-该封面包含的角色：- [露米娅](./露米娅.md)- [河城荷取](./河城荷取.md)- [犬走椛](./犬走椛.md)
-
-
-
+- [宵闇機甲録-TwilightApocalypse-](./宵闇機甲録-TwilightApocalypse-.md)该封面包含的角色：
+- [露米娅](./露米娅.md)
+- [河城荷取](./河城荷取.md)
+- [犬走椛](./犬走椛.md)
 
 
 ---

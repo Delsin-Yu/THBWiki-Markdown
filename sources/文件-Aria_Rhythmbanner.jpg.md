@@ -1,16 +1,11 @@
 # 文件:Aria_Rhythmbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\96\ns6%3AAria_Rhythmbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\96\ns6%3AAria_Rhythmbanner%2Ejpg.html -->
 
 Aria_Rhythm | 社团LOGO
 
   
-源地址：[[1]](http://karisomeno.web.fc2.com/banner.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://karisomeno.web.fc2.com/banner.jpg)  
 
 ---
 

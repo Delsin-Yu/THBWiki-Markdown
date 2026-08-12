@@ -1,6 +1,6 @@
 # 文件:Magenta_Spiral_E.P._Vol.02封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d6\ns6%3AMagenta_Spiral_E%2EP%2E_Vol%2E02%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d6\ns6%3AMagenta_Spiral_E%2EP%2E_Vol%2E02%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 MagentaSpiral | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ MagentaSpiral | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Magenta Spiral E.P. Vol.02](./Magenta_Spiral_E.P._Vol.02.md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)
+- [Magenta Spiral E.P. Vol.02](./Magenta_Spiral_E.P._Vol.02.md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
 
   
-源地址：[[1]](https://i1.sndcdn.com/artworks-000125816868-dhhe3j-t500x500.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://i1.sndcdn.com/artworks-000125816868-dhhe3j-t500x500.jpg)  
 
 ---
 

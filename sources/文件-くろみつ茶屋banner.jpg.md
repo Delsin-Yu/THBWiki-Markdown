@@ -1,16 +1,11 @@
 # 文件:くろみつ茶屋banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\22\ns6%3A%E3%81%8F%E3%82%8D%E3%81%BF%E3%81%A4%E8%8C%B6%E5%B1%8Bbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\22\ns6%3A%E3%81%8F%E3%82%8D%E3%81%BF%E3%81%A4%E8%8C%B6%E5%B1%8Bbanner%2Ejpg.html -->
 
 くろみつ茶屋 | 社团LOGO
 
   
-源地址：[[1]](https://star.ap.teacup.com/ponkancafe/img/1264517860.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://star.ap.teacup.com/ponkancafe/img/1264517860.jpg)  
 
 ---
 

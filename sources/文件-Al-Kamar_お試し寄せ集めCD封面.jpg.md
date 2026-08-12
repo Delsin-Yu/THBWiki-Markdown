@@ -1,6 +1,6 @@
 # 文件:Al-Kamar_お試し寄せ集めCD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fe\ns6%3AAl-Kamar_%E3%81%8A%E8%A9%A6%E3%81%97%E5%AF%84%E3%81%9B%E9%9B%86%E3%82%81CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fe\ns6%3AAl-Kamar_%E3%81%8A%E8%A9%A6%E3%81%97%E5%AF%84%E3%81%9B%E9%9B%86%E3%82%81CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Al-Kamar_Project | 专辑封面 | 封面图片
 
@@ -13,12 +13,7 @@ Al-Kamar_Project | 专辑封面 | 封面图片
 - [Al-Kamar お試し寄せ集めCD](./Al-Kamar_お試し寄せ集めCD.md)
 
   
-源地址：[direct image link](https://www.suruga-ya.jp/database/pics_light/game/186135464.jpg), [source page (suruga-ya ID: 186135464)](https://www.suruga-ya.jp/product/detail/186135464)
-  
-
-
-
-
+源地址：[direct image link](https://www.suruga-ya.jp/database/pics_light/game/186135464.jpg), [source page (suruga-ya ID: 186135464)](https://www.suruga-ya.jp/product/detail/186135464)  
 
 ---
 

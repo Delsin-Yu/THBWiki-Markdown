@@ -1,11 +1,12 @@
 # 东方Project人气投票/第一回
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\20\ns0%3A%E4%B8%9C%E6%96%B9Project%E4%BA%BA%E6%B0%94%E6%8A%95%E7%A5%A8%2F%E7%AC%AC%E4%B8%80%E5%9B%9E.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\20\ns0%3A%E4%B8%9C%E6%96%B9Project%E4%BA%BA%E6%B0%94%E6%8A%95%E7%A5%A8%2F%E7%AC%AC%E4%B8%80%E5%9B%9E.html -->
 
 东方Project人气投票
 
+
 - 本页面内容是东方Project第一回人气投票。
-- 原投票地址：[[1]](http://touhou.vote/v1/)
+- 原投票地址：[\[1\]](http://touhou.vote/v1/)
 
 
 ## 投票信息
@@ -16,25 +17,13 @@
 投票规则为角色部门5票，音乐部门8票。
   
 
-
 ## 投票结果
-  
 <big>
-</big>  
-<big>- [角色部门](./东方Project人气投票-第一回-角色部门.md)
+- [角色部门](./东方Project人气投票-第一回-角色部门.md)
 - [音乐部门](./东方Project人气投票-第一回-音乐部门.md)
 - [作品部门](./东方Project人气投票-第一回-作品部门.md)
-</big><big></big>  
-<big></big>  
 
-  
-
-  
-
-
-
-
-
+</big>
 ---
 
 此文档由 [THBWiki-Markdown-Builder](https://github.com/Delsin-Yu/THBWiki-Markdown-Builder) 构建。

@@ -1,12 +1,8 @@
 # 文件:二色幽紫蝶banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9c\ns6%3A%E4%BA%8C%E8%89%B2%E5%B9%BD%E7%B4%AB%E8%9D%B6banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9c\ns6%3A%E4%BA%8C%E8%89%B2%E5%B9%BD%E7%B4%AB%E8%9D%B6banner%2Epng.html -->
 
 二色幽紫蝶 | 社团LOGO
-
-
-
-
 
 
 ---

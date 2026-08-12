@@ -1,6 +1,6 @@
 # 文件:KASHIRAMOJI_of_SONGS_PRESENT_DISC封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\da\ns6%3AKASHIRAMOJI_of_SONGS_PRESENT_DISC%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\da\ns6%3AKASHIRAMOJI_of_SONGS_PRESENT_DISC%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 豚乙女
 
@@ -8,11 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [KASHIRAMOJI of SONGS PRESENT DISC](./KASHIRAMOJI_of_SONGS_PRESENT_DISC.md)  
-该封面包含的角色：- [ランコ](./ランコ.md)- [コンプ](./コンプ.md)- [パプリカ](./パプリカ.md)- [ランコの姉](./ランコの姉.md)
-
-
-
+- [KASHIRAMOJI of SONGS PRESENT DISC](./KASHIRAMOJI_of_SONGS_PRESENT_DISC.md)该封面包含的角色：
+- [ランコ](./ランコ.md)
+- [コンプ](./コンプ.md)
+- [パプリカ](./パプリカ.md)
+- [ランコの姉](./ランコの姉.md)
 
 
 ---

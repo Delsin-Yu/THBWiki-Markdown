@@ -1,6 +1,6 @@
 # 文件:DEHANA+封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f9\ns6%3ADEHANA%2B%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f9\ns6%3ADEHANA%2B%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 DEHANA | 同人志封面 | 封面图片
 
@@ -10,16 +10,13 @@ DEHANA | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [DEHANA+](./DEHANA+.md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)- [小野塚小町](./小野塚小町.md)- [雾雨魔理沙](./雾雨魔理沙.md)
+- [DEHANA+](./DEHANA+.md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
+- [小野塚小町](./小野塚小町.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-源地址：[direct image link](https://s2.booth.pm/f89e6b76-e38a-4c8a-8542-2b0041f2d740/i/3567145/241af7b5-d372-43a1-b229-b3fc754d4480_base_resized.jpg), [source page (circle Booth)](https://dehana.booth.pm/items/3567145)
-  
-
-
-
-
+源地址：[direct image link](https://s2.booth.pm/f89e6b76-e38a-4c8a-8542-2b0041f2d740/i/3567145/241af7b5-d372-43a1-b229-b3fc754d4480_base_resized.jpg), [source page (circle Booth)](https://dehana.booth.pm/items/3567145)  
 
 ---
 

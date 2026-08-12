@@ -1,6 +1,6 @@
 # 文件:T.H.0105_～メガミユニット～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5b\ns6%3AT%2EH%2E0105_%EF%BD%9E%E3%83%A1%E3%82%AC%E3%83%9F%E3%83%A6%E3%83%8B%E3%83%83%E3%83%88%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5b\ns6%3AT%2EH%2E0105_%EF%BD%9E%E3%83%A1%E3%82%AC%E3%83%9F%E3%83%A6%E3%83%8B%E3%83%83%E3%83%88%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 武器櫃
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [T.H.0105 ～メガミユニット～](./T.H.0105_～メガミユニット～.md)  
-该封面包含的角色：- [赫卡提亚·拉碧斯拉祖利](./赫卡提亚·拉碧斯拉祖利.md)
-
-
-
+- [T.H.0105 ～メガミユニット～](./T.H.0105_～メガミユニット～.md)该封面包含的角色：
+- [赫卡提亚·拉碧斯拉祖利](./赫卡提亚·拉碧斯拉祖利.md)
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:千叶依恩伪ZUN绘.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ef\ns6%3A%E5%8D%83%E5%8F%B6%E4%BE%9D%E6%81%A9%E4%BC%AAZUN%E7%BB%98%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ef\ns6%3A%E5%8D%83%E5%8F%B6%E4%BE%9D%E6%81%A9%E4%BC%AAZUN%E7%BB%98%2Ejpg.html -->
 
 二次角色立绘 | 千叶依恩 | 尹棱DANE
-
-
-
-
 
 
 ---

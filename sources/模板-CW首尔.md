@@ -1,16 +1,12 @@
 # 模板:CW首尔
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\c\c1\ns10%3ACW%E9%A6%96%E5%B0%94.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\c\c1\ns10%3ACW%E9%A6%96%E5%B0%94.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

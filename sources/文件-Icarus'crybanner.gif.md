@@ -1,12 +1,8 @@
 # 文件:Icarus'crybanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\58\ns6%3AIcarus%27crybanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\58\ns6%3AIcarus%27crybanner%2Egif.html -->
 
 Icarus'cry | 社团LOGO
-
-
-
-
 
 
 ---

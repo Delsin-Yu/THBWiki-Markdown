@@ -1,6 +1,6 @@
 # 文件:There's_a_Horizon_Still_Shining_Bright_2019封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\41\ns6%3AThere%27s_a_Horizon_Still_Shining_Bright_2019%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\41\ns6%3AThere%27s_a_Horizon_Still_Shining_Bright_2019%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 situation_report | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@ situation_report | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [There's a Horizon Still Shining Bright 2019](./There's_a_Horizon_Still_Shining_Bright_2019.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [There's a Horizon Still Shining Bright 2019](./There's_a_Horizon_Still_Shining_Bright_2019.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
   
-源地址：[图片链接](https://static.tumblr.com/78587293647ba489eacc80e662f290e8/h6uzmbf/ZCvq3640d/tumblr_static_c7cyg4jt4xcso0sso0c4gk044.jpg) [特设页](https://thssb20191217.tumblr.com/)
-  
-
-
-
-
+源地址：[图片链接](https://static.tumblr.com/78587293647ba489eacc80e662f290e8/h6uzmbf/ZCvq3640d/tumblr_static_c7cyg4jt4xcso0sso0c4gk044.jpg) [特设页](https://thssb20191217.tumblr.com/)  
 
 ---
 

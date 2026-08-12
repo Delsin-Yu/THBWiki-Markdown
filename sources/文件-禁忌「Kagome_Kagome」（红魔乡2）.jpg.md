@@ -1,12 +1,8 @@
 # 文件:禁忌「Kagome_Kagome」（红魔乡2）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\64\ns6%3A%E7%A6%81%E5%BF%8C%E3%80%8CKagome_Kagome%E3%80%8D%EF%BC%88%E7%BA%A2%E9%AD%94%E4%B9%A12%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\64\ns6%3A%E7%A6%81%E5%BF%8C%E3%80%8CKagome_Kagome%E3%80%8D%EF%BC%88%E7%BA%A2%E9%AD%94%E4%B9%A12%EF%BC%89%2Ejpg.html -->
 
 东方红魔乡 | 敌机符卡 | 芙兰朵露·斯卡蕾特
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:柳畔星夜逝_~_东方夏夜祭_Original_Sound_Track封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\98\ns6%3A%E6%9F%B3%E7%95%94%E6%98%9F%E5%A4%9C%E9%80%9D_%7E_%E4%B8%9C%E6%96%B9%E5%A4%8F%E5%A4%9C%E7%A5%AD_Original_Sound_Track%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\98\ns6%3A%E6%9F%B3%E7%95%94%E6%98%9F%E5%A4%9C%E9%80%9D_%7E_%E4%B8%9C%E6%96%B9%E5%A4%8F%E5%A4%9C%E7%A5%AD_Original_Sound_Track%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 梦现彼岸结界社 | 雨夜枫雪制作组
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [柳畔星夜逝 ~ 东方夏夜祭 Original Sound Track](./柳畔星夜逝_~_东方夏夜祭_Original_Sound_Track.md)  
-该封面包含的角色：- [夏青柳](./夏青柳.md)
-
-
-
+- [柳畔星夜逝 ~ 东方夏夜祭 Original Sound Track](./柳畔星夜逝_~_东方夏夜祭_Original_Sound_Track.md)该封面包含的角色：
+- [夏青柳](./夏青柳.md)
 
 
 ---

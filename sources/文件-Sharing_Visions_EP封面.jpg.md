@@ -1,6 +1,6 @@
 # 文件:Sharing_Visions_EP封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c1\ns6%3ASharing_Visions_EP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c1\ns6%3ASharing_Visions_EP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ごんばこんなか | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Sharing Visions EP](./Sharing_Visions_EP.md)  
-该封面包含的角色：- [宇佐见莲子](./宇佐见莲子.md)
+- [Sharing Visions EP](./Sharing_Visions_EP.md)该封面包含的角色：
+- [宇佐见莲子](./宇佐见莲子.md)
 
   
-源地址：[direct image link (original size)](https://i1.sndcdn.com/artworks-ajEtCwIocMyGWWM1-MW0klw-original.jpg), [source page (Soundcloud crossfade)](https://soundcloud.com/youth_oh/sharing-visions-ep_xfd)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://i1.sndcdn.com/artworks-ajEtCwIocMyGWWM1-MW0klw-original.jpg), [source page (Soundcloud crossfade)](https://soundcloud.com/youth_oh/sharing-visions-ep_xfd)  
 
 ---
 

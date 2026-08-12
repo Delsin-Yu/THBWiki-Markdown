@@ -1,6 +1,6 @@
 # 文件:ADDICT～feat_さゆり～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\32\ns6%3AADDICT%EF%BD%9Efeat_%E3%81%95%E3%82%86%E3%82%8A%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\32\ns6%3AADDICT%EF%BD%9Efeat_%E3%81%95%E3%82%86%E3%82%8A%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 556ミリメートル | ALiCe_BoX | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [ADDICT～feat さゆり～](./ADDICT～feat_さゆり～.md)  
-该封面包含的角色：- [八云紫](./八云紫.md)
+- [ADDICT～feat さゆり～](./ADDICT～feat_さゆり～.md)该封面包含的角色：
+- [八云紫](./八云紫.md)
 
   
-源地址：[[1]](http://img.toranoana.jp/popup_blimg/04/0030/40/71/040030407101-2p.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://img.toranoana.jp/popup_blimg/04/0030/40/71/040030407101-2p.jpg)  
 
 ---
 

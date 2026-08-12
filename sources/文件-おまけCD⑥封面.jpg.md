@@ -1,6 +1,6 @@
 # 文件:おまけCD⑥封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\91\ns6%3A%E3%81%8A%E3%81%BE%E3%81%91CD%E2%91%A5%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\91\ns6%3A%E3%81%8A%E3%81%BE%E3%81%91CD%E2%91%A5%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ちょこふぁん | 专辑封面 | 封面图片
 
@@ -10,11 +10,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [おまけCD⑥](./おまけCD⑥.md)  
-该封面包含的角色：- [若鹭姬](./若鹭姬.md)- [赤蛮奇](./赤蛮奇.md)- [今泉影狼](./今泉影狼.md)
-
-
-
+- [おまけCD⑥](./おまけCD⑥.md)该封面包含的角色：
+- [若鹭姬](./若鹭姬.md)
+- [赤蛮奇](./赤蛮奇.md)
+- [今泉影狼](./今泉影狼.md)
 
 
 ---

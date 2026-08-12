@@ -1,14 +1,11 @@
 # 文件:幻想Narrato_Graph（妖怪的树海）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\da\ns6%3A%E5%B9%BB%E6%83%B3Narrato_Graph%EF%BC%88%E5%A6%96%E6%80%AA%E7%9A%84%E6%A0%91%E6%B5%B7%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\da\ns6%3A%E5%B9%BB%E6%83%B3Narrato_Graph%EF%BC%88%E5%A6%96%E6%80%AA%E7%9A%84%E6%A0%91%E6%B5%B7%EF%BC%89%2Ejpg.html -->
 
 幻想Narrato_Graph
 
 
 ## 摘要
-
-
-
 
 ---
 

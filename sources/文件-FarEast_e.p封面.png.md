@@ -1,6 +1,6 @@
 # 文件:FarEast_e.p封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\71\ns6%3AFarEast_e%2Ep%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\71\ns6%3AFarEast_e%2Ep%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 dat_file_records | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ dat_file_records | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [FarEast e.p](./FarEast_e.p.md)  
-该封面包含的角色：- [秦心](./秦心.md)
+- [FarEast e.p](./FarEast_e.p.md)该封面包含的角色：
+- [秦心](./秦心.md)
 
   
-源地址：[[1]](http://static.tumblr.com/7feb7697e7da2a82082fedc0c79c1ae6/e3lazzy/aIymsk2eh/tumblr_static_fareastep-01.png)
-  
-
-
-
-
+源地址：[\[1\]](http://static.tumblr.com/7feb7697e7da2a82082fedc0c79c1ae6/e3lazzy/aIymsk2eh/tumblr_static_fareastep-01.png)  
 
 ---
 

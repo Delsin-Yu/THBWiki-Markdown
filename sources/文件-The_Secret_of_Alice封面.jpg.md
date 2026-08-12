@@ -1,6 +1,6 @@
 # 文件:The_Secret_of_Alice封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\19\ns6%3AThe_Secret_of_Alice%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\19\ns6%3AThe_Secret_of_Alice%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Bitplane | 专辑封面 | 封面图片
 
@@ -8,16 +8,12 @@ Bitplane | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [The Secret of Alice](./The_Secret_of_Alice.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [The Secret of Alice](./The_Secret_of_Alice.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
 
   
 源地址: TLMC扫描改编
   
-
-
-
-
 
 ---
 

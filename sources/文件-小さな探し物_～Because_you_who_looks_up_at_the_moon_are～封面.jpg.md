@@ -1,6 +1,6 @@
 # 文件:小さな探し物_～Because_you_who_looks_up_at_the_moon_are～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cd\ns6%3A%E5%B0%8F%E3%81%95%E3%81%AA%E6%8E%A2%E3%81%97%E7%89%A9_%EF%BD%9EBecause_you_who_looks_up_at_the_moon_are%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cd\ns6%3A%E5%B0%8F%E3%81%95%E3%81%AA%E6%8E%A2%E3%81%97%E7%89%A9_%EF%BD%9EBecause_you_who_looks_up_at_the_moon_are%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 アールグレイ | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [小さな探し物 ～Because you who looks up at the moon are～](./小さな探し物_～Because_you_who_looks_up_at_the_moon_are～.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)- [娜兹玲](./娜兹玲.md)
-
-
-
+- [小さな探し物 ～Because you who looks up at the moon are～](./小さな探し物_～Because_you_who_looks_up_at_the_moon_are～.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
+- [娜兹玲](./娜兹玲.md)
 
 
 ---

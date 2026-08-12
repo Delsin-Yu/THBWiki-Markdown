@@ -1,6 +1,6 @@
 # 文件:Presence∝fTVA_the_Vocal_1_“Distortion_of_the_SCARLET.”封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\61\ns6%3APresence%E2%88%9DfTVA_the_Vocal_1_%E2%80%9CDistortion_of_the_SCARLET%2E%E2%80%9D%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\61\ns6%3APresence%E2%88%9DfTVA_the_Vocal_1_%E2%80%9CDistortion_of_the_SCARLET%2E%E2%80%9D%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Presence∝fTVA | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ Presence∝fTVA | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Presence∝fTVA the Vocal 1 “Distortion of the SCARLET.”](./Presence∝fTVA_the_Vocal_1_“Distortion_of_the_SCARLET.”.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
-
-
-
+- [Presence∝fTVA the Vocal 1 “Distortion of the SCARLET.”](./Presence∝fTVA_the_Vocal_1_“Distortion_of_the_SCARLET.”.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
 
 ---

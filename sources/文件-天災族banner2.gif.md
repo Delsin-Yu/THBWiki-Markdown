@@ -1,12 +1,8 @@
 # 文件:天災族banner2.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e9\ns6%3A%E5%A4%A9%E7%81%BD%E6%97%8Fbanner2%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e9\ns6%3A%E5%A4%A9%E7%81%BD%E6%97%8Fbanner2%2Egif.html -->
 
 天災族 | 社团LOGO
-
-
-
-
 
 
 ---

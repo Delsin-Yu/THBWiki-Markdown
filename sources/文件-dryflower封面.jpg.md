@@ -1,6 +1,6 @@
 # 文件:dryflower封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\41\ns6%3Adryflower%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\41\ns6%3Adryflower%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 activity | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ activity | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [dryflower](./dryflower.md)  
-该封面包含的角色：- [风见幽香](./风见幽香.md)
-
-
-
+- [dryflower](./dryflower.md)该封面包含的角色：
+- [风见幽香](./风见幽香.md)
 
 
 ---

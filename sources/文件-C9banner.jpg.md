@@ -1,16 +1,11 @@
 # 文件:C9banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\78\ns6%3AC9banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\78\ns6%3AC9banner%2Ejpg.html -->
 
 C9 | 社团LOGO
 
   
-源地址：[[1]](http://www.geocities.jp/c9_cirwo/pict/c9bn01.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://www.geocities.jp/c9_cirwo/pict/c9bn01.jpg)  
 
 ---
 

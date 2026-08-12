@@ -1,12 +1,8 @@
 # 文件:纽约花残月logo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\86\ns6%3A%E7%BA%BD%E7%BA%A6%E8%8A%B1%E6%AE%8B%E6%9C%88logo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\86\ns6%3A%E7%BA%BD%E7%BA%A6%E8%8A%B1%E6%AE%8B%E6%9C%88logo%2Ejpg.html -->
 
 社团LOGO | 纽约花残月
-
-
-
-
 
 
 ---

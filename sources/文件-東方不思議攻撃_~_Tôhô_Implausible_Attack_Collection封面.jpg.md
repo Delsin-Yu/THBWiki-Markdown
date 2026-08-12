@@ -1,6 +1,6 @@
 # 文件:東方不思議攻撃_~_Tôhô_Implausible_Attack_Collection封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\01\ns6%3A%E6%9D%B1%E6%96%B9%E4%B8%8D%E6%80%9D%E8%AD%B0%E6%94%BB%E6%92%83_%7E_T%C3%B4h%C3%B4_Implausible_Attack_Collection%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\01\ns6%3A%E6%9D%B1%E6%96%B9%E4%B8%8D%E6%80%9D%E8%AD%B0%E6%94%BB%E6%92%83_%7E_T%C3%B4h%C3%B4_Implausible_Attack_Collection%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Tangentg | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Tangentg | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方不思議攻撃 ~ Tôhô Implausible Attack Collection](./東方不思議攻撃_~_Tôhô_Implausible_Attack_Collection.md)  
-该封面包含的角色：- [古明地恋](./古明地恋.md)
-
-
-
+- [東方不思議攻撃 ~ Tôhô Implausible Attack Collection](./東方不思議攻撃_~_Tôhô_Implausible_Attack_Collection.md)该封面包含的角色：
+- [古明地恋](./古明地恋.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Let_me_in封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\96\ns6%3ALet_me_in%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\96\ns6%3ALet_me_in%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 同人志封面 | 封面图片 | 蓮華座
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [Let me in](./Let_me_in.md)  
-该封面包含的角色：- [小野塚小町](./小野塚小町.md)- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)
-
-
-
+- [Let me in](./Let_me_in.md)该封面包含的角色：
+- [小野塚小町](./小野塚小町.md)
+- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)
 
 
 ---

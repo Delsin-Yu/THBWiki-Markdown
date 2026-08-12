@@ -1,6 +1,6 @@
 # 文件:Touhou_Girls封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\32\ns6%3ATouhou_Girls%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\32\ns6%3ATouhou_Girls%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 cherrybombs! | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@ cherrybombs! | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Touhou Girls](./Touhou_Girls.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
+- [Touhou Girls](./Touhou_Girls.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-源地址：[source page (max size; cropped from original)](https://www.deviantart.com/kata-009/art/Touhou-Girls-Book-165076110)
-  
-
-
-
-
+源地址：[source page (max size; cropped from original)](https://www.deviantart.com/kata-009/art/Touhou-Girls-Book-165076110)  
 
 ---
 

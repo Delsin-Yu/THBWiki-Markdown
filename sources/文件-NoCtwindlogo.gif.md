@@ -1,18 +1,13 @@
 # 文件:NoCtwindlogo.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\92\ns6%3ANoCtwindlogo%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\92\ns6%3ANoCtwindlogo%2Egif.html -->
 
 NoCtwind | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[[1]](http://akaru.moo.jp/NoCtwind.gif)
-  
-
-
-
-
+源地址：[\[1\]](http://akaru.moo.jp/NoCtwind.gif)  
 
 ---
 

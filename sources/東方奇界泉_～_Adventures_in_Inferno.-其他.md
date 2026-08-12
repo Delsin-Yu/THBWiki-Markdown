@@ -1,6 +1,6 @@
 # 東方奇界泉_～_Adventures_in_Inferno./其他
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\e\e2\ns0%3A%E6%9D%B1%E6%96%B9%E5%A5%87%E7%95%8C%E6%B3%89_%EF%BD%9E_Adventures_in_Inferno%2E%2F%E5%85%B6%E4%BB%96.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\e\e2\ns0%3A%E6%9D%B1%E6%96%B9%E5%A5%87%E7%95%8C%E6%B3%89_%EF%BD%9E_Adventures_in_Inferno%2E%2F%E5%85%B6%E4%BB%96.html -->
 
 スタジオネネム
 
@@ -16,7 +16,7 @@
 </th></tr>
 <tr>
 <td colspan="2">Start</td>
-<td>开始游戏（Normal<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">1</a></sup>）</td>
+<td>开始游戏（Normal<span>[^cite_note-1]</span>）</td>
 <td>ゲームを開始します（ノーマル）
 </td></tr>
 <tr>
@@ -67,10 +67,9 @@
 </td></tr></tbody></table>
 
 
-
 ### 故事模式ED
 
-- <font color="Red"> **剧透提示:  *以下内容包含详细故事情节，请自行决定是否继续阅读* ** </font>
+- <font color="Red">**剧透提示: *以下内容包含详细故事情节，请自行决定是否继续阅读***</font>
 
 
 <table><tbody><tr><td><div class="poem">
@@ -133,13 +132,7 @@ donjuan（シャレコーベ草原）</center>
 めいつ（Free-Logic）</center>
 </div></td></tr></tbody></table>
 
-
-
 [^cite_note-1]: 会根据在option-rank中的设定改变
-
-
-
-
 
 ---
 

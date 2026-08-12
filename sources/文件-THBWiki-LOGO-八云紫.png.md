@@ -1,12 +1,8 @@
 # 文件:THBWiki-LOGO-八云紫.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\84\ns6%3ATHBWiki-LOGO-%E5%85%AB%E4%BA%91%E7%B4%AB%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\84\ns6%3ATHBWiki-LOGO-%E5%85%AB%E4%BA%91%E7%B4%AB%2Epng.html -->
 
 THBWiki | Wiki词条分类用图
-
-
-
-
 
 
 ---

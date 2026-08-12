@@ -1,12 +1,11 @@
 # Marisa's_Inconceivable_Journey
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\7\79\ns0%3AMarisa%27s_Inconceivable_Journey.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\7\79\ns0%3AMarisa%27s_Inconceivable_Journey.html -->
 
 2022年6月4日 由 Dark Sky Empire  发布的RPG同人游戏，可在 Windows 系统上运行，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人软件 (未找到链接)** 的词条
-
+**[二次创作同人软件](./二次创作.md#同人软件)**的词条
 ## 目录
 
 - [1 软件信息](#软件信息)
@@ -16,19 +15,14 @@
 - [5 外部链接](#外部链接)
 
 
-
-
-
 ## 软件信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Marisa's_Inconceivable_Journey封面.PNG.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/9/9e/Marisa%27s_Inconceivable_Journey%E5%B0%81%E9%9D%A2.PNG/196px-Marisa%27s_Inconceivable_Journey%E5%B0%81%E9%9D%A2.PNG" decoding="async" loading="lazy" width="196" height="92" srcset="https://upload.thwiki.cc/thumb/9/9e/Marisa%27s_Inconceivable_Journey%E5%B0%81%E9%9D%A2.PNG/294px-Marisa%27s_Inconceivable_Journey%E5%B0%81%E9%9D%A2.PNG 1.5x, https://upload.thwiki.cc/thumb/9/9e/Marisa%27s_Inconceivable_Journey%E5%B0%81%E9%9D%A2.PNG/392px-Marisa%27s_Inconceivable_Journey%E5%B0%81%E9%9D%A2.PNG 2x" data-file-width="460" data-file-height="215"></a></td>
-</tr><tr><td class="label">名称</td><td colspan="2"> Marisa&#39;s Inconceivable Journey </td></tr><tr><td class="label">译名</td><td colspan="2"> 魔理沙的不可思议之旅 </td></tr><tr><td class="label">制作方</td><td><a href="./Dark_Sky_Empire.md" title="Dark Sky Empire">Dark Sky Empire</a></td><td class="cover-artwork" rowspan="7" style="min-width:196px;"><a href="./文件-Marisa's_Inconceivable_Journey封面.PNG.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/9/9e/Marisa%27s_Inconceivable_Journey%E5%B0%81%E9%9D%A2.PNG/196px-Marisa%27s_Inconceivable_Journey%E5%B0%81%E9%9D%A2.PNG" decoding="async" loading="lazy" width="196" height="92" srcset="https://upload.thwiki.cc/thumb/9/9e/Marisa%27s_Inconceivable_Journey%E5%B0%81%E9%9D%A2.PNG/294px-Marisa%27s_Inconceivable_Journey%E5%B0%81%E9%9D%A2.PNG 1.5x, https://upload.thwiki.cc/thumb/9/9e/Marisa%27s_Inconceivable_Journey%E5%B0%81%E9%9D%A2.PNG/392px-Marisa%27s_Inconceivable_Journey%E5%B0%81%E9%9D%A2.PNG 2x" data-file-width="460" data-file-height="215"></a></td>
+</tr><tr><td class="label">名称</td><td colspan="2"> Marisa's Inconceivable Journey </td></tr><tr><td class="label">译名</td><td colspan="2"> 魔理沙的不可思议之旅 </td></tr><tr><td class="label">制作方</td><td><a href="./Dark_Sky_Empire.md" title="Dark Sky Empire">Dark Sky Empire</a></td><td class="cover-artwork" rowspan="7" style="min-width:196px;"><a href="./文件-Marisa's_Inconceivable_Journey封面.PNG.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/9/9e/Marisa%27s_Inconceivable_Journey%E5%B0%81%E9%9D%A2.PNG/196px-Marisa%27s_Inconceivable_Journey%E5%B0%81%E9%9D%A2.PNG" decoding="async" loading="lazy" width="196" height="92" srcset="https://upload.thwiki.cc/thumb/9/9e/Marisa%27s_Inconceivable_Journey%E5%B0%81%E9%9D%A2.PNG/294px-Marisa%27s_Inconceivable_Journey%E5%B0%81%E9%9D%A2.PNG 1.5x, https://upload.thwiki.cc/thumb/9/9e/Marisa%27s_Inconceivable_Journey%E5%B0%81%E9%9D%A2.PNG/392px-Marisa%27s_Inconceivable_Journey%E5%B0%81%E9%9D%A2.PNG 2x" data-file-width="460" data-file-height="215"></a></td>
 </tr><tr><td class="label">首发日期</td><td>2022-06-04</td></tr><tr><td class="label">类型</td><td>游戏</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">游戏类型</td><td>RPG</td></tr><tr><td class="label">运行平台</td><td>Windows</td></tr><tr><td class="label">语言</td><td>简体中文，英文</td></tr><tr><td class="label">售价</td><td>6人民币</td></tr></tbody></table>
 
 Marisa's Inconceivable Journey（同人游戏，Dark Sky Empire，2022） - 2022年6月4日 由 Dark Sky Empire  发布的RPG同人游戏，可在 Windows 系统上运行，分级为 一般向
-
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://store.steampowered.com/app/1145800">Steam</a></td></tr></tbody></table>
-
 
 
 <table>
@@ -37,14 +31,13 @@ Marisa's Inconceivable Journey（同人游戏，Dark Sky Empire，2022） - 2022
 </tbody></table>
 
 
-
 ## Staff
   
 本游戏由“飞越无尽暗空”设计与开发，作为Steam开发者的名字是Dark Sky Empire。
   
 
-
 ## 内容页面
+
 - [游戏设定与剧情](./Marisa's_Inconceivable_Journey-设定与剧情.md)
 - [流程攻略](./Marisa's_Inconceivable_Journey-攻略.md)
 - [系统兼容](./Marisa's_Inconceivable_Journey-系统兼容.md)
@@ -55,17 +48,8 @@ Marisa's Inconceivable Journey（同人游戏，Dark Sky Empire，2022） - 2022
 ## 评论
 
 ## 外部链接
+
 - [Steam上的Marisa's Inconceivable Journey](https://store.steampowered.com/app/1145800/Marisas_Inconceivable_Journey/)
-
-  
-
-<iframe src="https://store.steampowered.com/widget/1145800/" frameborder="0" width="646" height="190" style="display: block" loading="lazy"></iframe>
-
-
-  
-
-
-
 
 
 ---

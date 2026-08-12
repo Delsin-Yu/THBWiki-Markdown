@@ -1,6 +1,6 @@
 # 文件:watershard封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e5\ns6%3Awatershard%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e5\ns6%3Awatershard%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 給食頭蛮
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [watershard](./watershard.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)
-
-
-
+- [watershard](./watershard.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
 
 
 ---

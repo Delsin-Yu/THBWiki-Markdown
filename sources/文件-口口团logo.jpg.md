@@ -1,18 +1,13 @@
 # 文件:口口团logo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\41\ns6%3A%E5%8F%A3%E5%8F%A3%E5%9B%A2logo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\41\ns6%3A%E5%8F%A3%E5%8F%A3%E5%9B%A2logo%2Ejpg.html -->
 
 口口团 | 社团LOGO
 
 
 ## 摘要
   
-源地址：[direct image link](https://web.archive.org/web/20160925023831im_/http://i42.tinypic.com/f9gy6s.jpg), [source page](https://web.archive.org/web/20100812055857/http://hi.baidu.com/roroalice/)
-  
-
-
-
-
+源地址：[direct image link](https://web.archive.org/web/20160925023831im_/http://i42.tinypic.com/f9gy6s.jpg), [source page](https://web.archive.org/web/20100812055857/http://hi.baidu.com/roroalice/)  
 
 ---
 

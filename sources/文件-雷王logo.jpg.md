@@ -1,12 +1,8 @@
 # 文件:雷王logo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f4\ns6%3A%E9%9B%B7%E7%8E%8Blogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f4\ns6%3A%E9%9B%B7%E7%8E%8Blogo%2Ejpg.html -->
 
 社团LOGO | 雷王计划
-
-
-
-
 
 
 ---

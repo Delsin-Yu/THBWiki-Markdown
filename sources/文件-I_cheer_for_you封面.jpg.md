@@ -1,6 +1,6 @@
 # 文件:I_cheer_for_you封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4f\ns6%3AI_cheer_for_you%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4f\ns6%3AI_cheer_for_you%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 sonitus_plasmator | 专辑封面 | 封面图片
 
@@ -8,11 +8,15 @@ sonitus_plasmator | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [I cheer for you](./I_cheer_for_you.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)- [红美铃](./红美铃.md)- [博丽灵梦](./博丽灵梦.md)- 十六夜咲夜 (未找到链接)- [莉格露·奈特巴格](./莉格露·奈特巴格.md)- [伊吹萃香](./伊吹萃香.md)- [东风谷早苗](./东风谷早苗.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [I cheer for you](./I_cheer_for_you.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
+- [红美铃](./红美铃.md)
+- [博丽灵梦](./博丽灵梦.md)
+- [十六夜咲夜](./十六夜咲夜.md)
+- [莉格露·奈特巴格](./莉格露·奈特巴格.md)
+- [伊吹萃香](./伊吹萃香.md)
+- [东风谷早苗](./东风谷早苗.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

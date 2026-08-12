@@ -1,6 +1,6 @@
 # 文件:Touhou_Ensemble_Suite封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a2\ns6%3ATouhou_Ensemble_Suite%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a2\ns6%3ATouhou_Ensemble_Suite%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 yohkosyan | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ yohkosyan | 专辑封面 | 封面图片
   
 
 - [Touhou Ensemble Suite](./Touhou_Ensemble_Suite.md)
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Paraphilian_Girls封面.jpeg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ae\ns6%3AParaphilian_Girls%E5%B0%81%E9%9D%A2%2Ejpeg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ae\ns6%3AParaphilian_Girls%E5%B0%81%E9%9D%A2%2Ejpeg.html -->
 
 专辑封面 | 封面图片 | 群雨アンブレイラ
 
@@ -9,9 +9,6 @@
   
 
 - [Paraphilian Girls](./Paraphilian_Girls.md)
-
-
-
 
 
 ---

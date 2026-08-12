@@ -1,18 +1,13 @@
 # 文件:Crescent_Of_Scarlettlogo2.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8f\ns6%3ACrescent_Of_Scarlettlogo2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8f\ns6%3ACrescent_Of_Scarlettlogo2%2Ejpg.html -->
 
 Crescent_Of_Scarlett | 社团LOGO
 
 
 ## 摘要
   
-源地址：[direct image link (original size)](https://pbs.twimg.com/profile_images/1782707716382920704/YJyIZVCm.jpg), [from circle twitter avatar](https://twitter.com/crofsc_247/photo)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://pbs.twimg.com/profile_images/1782707716382920704/YJyIZVCm.jpg), [from circle twitter avatar](https://twitter.com/crofsc_247/photo)  
 
 ---
 

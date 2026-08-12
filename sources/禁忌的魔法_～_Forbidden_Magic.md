@@ -1,62 +1,50 @@
 # 禁忌的魔法_～_Forbidden_Magic
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\b3\ns0%3A%E7%A6%81%E5%BF%8C%E7%9A%84%E9%AD%94%E6%B3%95_%EF%BD%9E_Forbidden_Magic.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\b3\ns0%3A%E7%A6%81%E5%BF%8C%E7%9A%84%E9%AD%94%E6%B3%95_%EF%BD%9E_Forbidden_Magic.html -->
 
 由 ZUN 创作的官方曲目，原名 禁断の魔法　～ Forbidden Magic
 
 本页是关于东方Project  
- **原作音乐** 的词条
-
+**原作音乐**的词条
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 出现作品](#出现作品)
 - [3 音乐文件](#音乐文件)
-
   - [3.1 东方怪绮谈](#东方怪绮谈)
   - [3.2 东方幻想的音乐](#东方幻想的音乐)
   - [3.3 东方幻想怀古曲](#东方幻想怀古曲)
   - [3.4 幺乐团的历史 vol.2](#幺乐团的历史_vol.2)
 
 
-
 - [4 说明文本](#说明文本)
-
   - [4.1 东方怪绮谈](#东方怪绮谈_2)
   - [4.2 东方幻想的音乐](#东方幻想的音乐_2)
   - [4.3 东方幻想怀古曲](#东方幻想怀古曲_2)
 
 
-
 - [5 其他资料](#其他资料)
-
   - [5.1 乐理资讯](#乐理资讯)
   - [5.2 分析考据](#分析考据)
   - [5.3 二次同人数据](#二次同人数据)
 
 
-
 - [6 注释](#注释)
-
-
-
 
 
 ## 基本信息
 
-<table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">禁断の魔法　～ Forbidden Magic</td></tr><tr><td><b>译名</b></td><td>禁忌的魔法 ～ Forbidden Magic</td></tr><tr><td><b>英文译名</b></td><td>Forbidden Magic</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>关联</td></tr><tr><td style="padding-left:15px"><b>原曲</b></td><td><a href="./やみのちから.md" class="mw-redirect" title="やみのちから">やみのちから</a></td></tr><tr><td style="padding-left:15px"><b>　来源</b></td><td>东方封魔录　～ the Story of Eastern Wonderland.</td></tr></tbody></table>
+<table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">禁断の魔法　～ Forbidden Magic</td></tr><tr><td><b>译名</b></td><td>禁忌的魔法 ～ Forbidden Magic</td></tr><tr><td><b>英文译名</b></td><td>Forbidden Magic</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>关联</td></tr><tr><td style="padding-left:15px"><b>原曲</b></td><td><a href="./黑暗的力量.md" class="mw-redirect" title="やみのちから">やみのちから</a></td></tr><tr><td style="padding-left:15px"><b>　来源</b></td><td>东方封魔录　～ the Story of Eastern Wonderland.</td></tr></tbody></table>
 
 禁忌的魔法 ～ Forbidden Magic（曲目） - 由 ZUN 创作的官方曲目，原名 禁断の魔法　～ Forbidden Magic
-
 ## 出现作品
 
 <table>
 <tbody><tr><td>1998年12月30日（Comic Market 55）</td><td><b><a href="./东方怪绮谈.md" title="东方怪绮谈">东方怪绮谈</a></b></td><td>4面BOSS<a href="./雪.md" title="雪">雪</a>＆<a href="./舞.md" title="舞">舞</a>的主题曲</td><td style="padding-left:5px;">禁断の魔法　～ Forbidden Magic（禁忌的魔法 ～ Forbidden Magic）</td><td style="padding-left:10px;">作曲：ZUN</td></tr>
 <tr><td>2000年6月18日（非展会）</td><td><b><a href="./东方幻想的音乐.md" title="东方幻想的音乐">东方幻想的音乐</a></b></td><td>东方怪绮谈</td><td style="padding-left:5px;">禁断の魔法　～ Forbidden Magic（禁忌的魔法 ～ Forbidden Magic）</td><td style="padding-left:10px;">编曲：ZUN</td></tr>
 <tr><td>2000年10月18日（非展会）</td><td><b><a href="./东方幻想怀古曲.md" title="东方幻想怀古曲">东方幻想怀古曲</a></b></td><td>东方怪绮谈</td><td style="padding-left:5px;">禁断の魔法　～ Forbidden Magic（禁忌的魔法 ～ Forbidden Magic）</td><td style="padding-left:10px;">作曲：ZUN</td></tr>
-<tr><td>2006年12月31日（Comic Market 71）</td><td><b><a href="./幺乐团的历史_vol.2.md" class="mw-redirect" title="幺乐团的历史 vol.2">幺乐团的历史 vol.2</a></b></td><td>第9轨</td><td style="padding-left:5px;">禁断の魔法　～ Forbidden Magic（禁忌的魔法 ～ Forbidden Magic）</td><td style="padding-left:10px;">编曲：ZUN</td></tr>
+<tr><td>2006年12月31日（Comic Market 71）</td><td><b><a href="./幺乐团的历史2.md" class="mw-redirect" title="幺乐团的历史 vol.2">幺乐团的历史 vol.2</a></b></td><td>第9轨</td><td style="padding-left:5px;">禁断の魔法　～ Forbidden Magic（禁忌的魔法 ～ Forbidden Magic）</td><td style="padding-left:10px;">编曲：ZUN</td></tr>
 </tbody></table>
-
 
 
 ## 音乐文件
@@ -66,17 +54,13 @@
 YM2203(OPN)，FM26K音源版。
   
 
-
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th05_09_26.ogg.md" title="文件:th05 09 26.ogg">th05_09_26.ogg</a><br><audio src="https://upload.thwiki.cc/6/66/th05_09_26.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>ST03B.M</td></tr><tr><td><b>音轨时长</b></td><td>1:35.724</td></tr></tbody></table>
-
 
   
 YM2608(OPNA)，FM86音源版。
   
 
-
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th05_09_86.ogg.md" title="文件:th05 09 86.ogg">th05_09_86.ogg</a><br><audio src="https://upload.thwiki.cc/7/78/th05_09_86.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>ST03B.M2</td></tr><tr><td><b>音轨时长</b></td><td>1:35.724</td></tr></tbody></table>
-
 
 
 ### 东方幻想的音乐
@@ -84,11 +68,9 @@ YM2608(OPNA)，FM86音源版。
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td><a href="./文件-th5_09.mid.md" title="文件:th5 09.mid">th5_09.mid</a></td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th5_09.mp3.md" title="文件:th5 09.mp3">th5_09.mp3</a><br><audio src="https://upload.thwiki.cc/8/83/th5_09.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>th5_09.mid</td></tr><tr><td><b>音轨时长</b></td><td>4:00</td></tr></tbody></table>
 
 
-
 ### 东方幻想怀古曲
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-thgs05_09.ogg.md" title="文件:thgs05 09.ogg">thgs05_09.ogg</a><br><audio src="https://upload.thwiki.cc/b/b3/thgs05_09.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>th5_09.M</td></tr><tr><td><b>音轨时长</b></td><td>1:35.724</td></tr></tbody></table>
-
 
 
 ### 幺乐团的历史 vol.2
@@ -96,11 +78,11 @@ YM2608(OPNA)，FM86音源版。
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-ha02_09.mp3.md" title="文件:ha02 09.mp3">ha02_09.mp3</a><br><audio src="https://upload.thwiki.cc/7/76/ha02_09.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track09.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>3:33</td></tr></tbody></table>
 
 
-
 ## 说明文本
 
 ### 东方怪绮谈
-- Music Room (未找到链接)
+
+- [Music Room](./东方怪绮谈-Music.md#4面BOSS雪＆舞角色曲)
 
 　　　　　雪＆舞的主题曲  
 　    我以容易理解的气势作为目标。  
@@ -110,9 +92,9 @@ YM2608(OPNA)，FM86音源版。
 ＺＵＮ（太田）  
 怪绮谈4面boss的曲子。  
 相当短，和至今的曲调没什么变化・・・
-
 ### 东方幻想的音乐
-- th5_09.txt (未找到链接)
+
+- [th5_09.txt](./东方幻想的音乐-过去的曲子-东方怪绮谈.md#禁忌的魔法_～_Forbidden_Magic)
 
 +----------------------------------------------------------------------------+  
 |【 　 曲名　　】| 【 禁忌的魔法　～　Forbidden Magic 】  
@@ -127,7 +109,7 @@ YM2608(OPNA)，FM86音源版。
 |                | 这种时候，请不要更动压缩包内部文件。  
 |【　 著作权 　】| ＺＵＮ (太田顺也）  
 |【演奏上的注意】| 用sc-88Pro 的人在演奏时请不要按88Map。  
-|                                          &#126;&#126;&#126;&#126;~   
+|                                          ~~~~~   
 +-----------------------------------------------------------------------------+  
 感谢下载本文件。  
   
@@ -145,9 +127,9 @@ YM2608(OPNA)，FM86音源版。
 曲子的感想、请求等，这边请  
 　东方幻想空间　「博丽神社」 [http://www16.big.or.jp/~zun/](http://www16.big.or.jp/~zun/)  
 　e-Mail                     zun@big.or.jp
-
 ### 东方幻想怀古曲
-- th5_09pmd.txt (未找到链接)
+
+- [th5_09pmd.txt](./东方幻想怀古曲-东方怪绮谈.md#禁忌的魔法_～_Forbidden_Magic)
 
 +----------------------------------------------------------------------------+  
 |【 　 曲名　　】| 【 禁忌的魔法　～　Forbidden Magic 】（原创）  
@@ -184,24 +166,24 @@ YM2608(OPNA)，FM86音源版。
 曲子的感想、请求等，这边请  
 　东方幻想空间　「博丽神社」 [http://www16.big.or.jp/~zun/](http://www16.big.or.jp/~zun/)  
 　e-Mail　　　　　　　　　　 zun@big.or.jp
-
 ## 其他资料
 
 ### 乐理资讯
 
 ### 分析考据
   
- **禁断の魔法　～ Forbidden Magic** 
-  
+**禁断の魔法 ～ Forbidden Magic**  
 禁忌的魔法　～ Forbidden Magic
   
 
-- 禁忌
+- 禁忌 
   - 雪和舞使用的曲线激光弹幕
 
-- 魔法
+
+- 魔法 
   - 舞和雪均为魔界的魔法使
   - 背景的魔法阵
+
 
 
 
@@ -217,18 +199,6 @@ YM2608(OPNA)，FM86音源版。
 <tr><td>Arrange</td><td>71</td></tr>
 <tr><td>Vocal率</td><td>26.8%</td></tr>
 </tbody></table>
-
-
-
-
-
-  
-  
-
-  
-
-
-
 
 
 ---

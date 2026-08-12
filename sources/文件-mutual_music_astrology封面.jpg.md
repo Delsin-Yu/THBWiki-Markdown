@@ -1,6 +1,6 @@
 # 文件:mutual_music_astrology封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f7\ns6%3Amutual_music_astrology%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f7\ns6%3Amutual_music_astrology%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 梶迫小道具店
 
@@ -10,16 +10,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [mutual music astrology](./mutual_music_astrology.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
+- [mutual music astrology](./mutual_music_astrology.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
   
-源地址：[[1]](https://64.media.tumblr.com/ec7bffbf42de9ff5a799d889fc1a0990/6cda3fbad79e0721-de/s2048x3072/baaf507f98c9ea0f366c405506e4831e073b9e93.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://64.media.tumblr.com/ec7bffbf42de9ff5a799d889fc1a0990/6cda3fbad79e0721-de/s2048x3072/baaf507f98c9ea0f366c405506e4831e073b9e93.jpg)  
 
 ---
 

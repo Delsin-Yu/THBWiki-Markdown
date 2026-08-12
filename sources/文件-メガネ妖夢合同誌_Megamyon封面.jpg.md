@@ -1,6 +1,6 @@
 # 文件:メガネ妖夢合同誌_Megamyon封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\13\ns6%3A%E3%83%A1%E3%82%AC%E3%83%8D%E5%A6%96%E5%A4%A2%E5%90%88%E5%90%8C%E8%AA%8C_Megamyon%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\13\ns6%3A%E3%83%A1%E3%82%AC%E3%83%8D%E5%A6%96%E5%A4%A2%E5%90%88%E5%90%8C%E8%AA%8C_Megamyon%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 100円外務省 | 同人志封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [メガネ妖夢合同誌 Megamyon](./メガネ妖夢合同誌_Megamyon.md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)
-
-
-
+- [メガネ妖夢合同誌 Megamyon](./メガネ妖夢合同誌_Megamyon.md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
 
 
 ---

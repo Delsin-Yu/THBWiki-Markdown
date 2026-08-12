@@ -1,6 +1,6 @@
 # 文件:Presence∝fTVA_SP6_『上海紅茶館』封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2c\ns6%3APresence%E2%88%9DfTVA_SP6_%E3%80%8E%E4%B8%8A%E6%B5%B7%E7%B4%85%E8%8C%B6%E9%A4%A8%E3%80%8F%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2c\ns6%3APresence%E2%88%9DfTVA_SP6_%E3%80%8E%E4%B8%8A%E6%B5%B7%E7%B4%85%E8%8C%B6%E9%A4%A8%E3%80%8F%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Presence∝fTVA | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Presence∝fTVA | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Presence∝fTVA SP6 『上海紅茶館』](./Presence∝fTVA_SP6_『上海紅茶館』.md)  
-该封面包含的角色：- [红美铃](./红美铃.md)
-
-
-
+- [Presence∝fTVA SP6 『上海紅茶館』](./Presence∝fTVA_SP6_『上海紅茶館』.md)该封面包含的角色：
+- [红美铃](./红美铃.md)
 
 
 ---

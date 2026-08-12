@@ -1,12 +1,8 @@
 # 文件:ALISON航空banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ee\ns6%3AALISON%E8%88%AA%E7%A9%BAbanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ee\ns6%3AALISON%E8%88%AA%E7%A9%BAbanner%2Egif.html -->
 
 ALISON航空 | 社团LOGO
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Contrary_Moon封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a5\ns6%3AContrary_Moon%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a5\ns6%3AContrary_Moon%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 SunSetRaiders | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ SunSetRaiders | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Contrary Moon](./Contrary_Moon.md)  
-该封面包含的角色：- [星熊勇仪](./星熊勇仪.md)
-
-
-
+- [Contrary Moon](./Contrary_Moon.md)该封面包含的角色：
+- [星熊勇仪](./星熊勇仪.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:次に来る!東方の同人ゲームSelection_in_2020封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\77\ns6%3A%E6%AC%A1%E3%81%AB%E6%9D%A5%E3%82%8B%21%E6%9D%B1%E6%96%B9%E3%81%AE%E5%90%8C%E4%BA%BA%E3%82%B2%E3%83%BC%E3%83%A0Selection_in_2020%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\77\ns6%3A%E6%AC%A1%E3%81%AB%E6%9D%A5%E3%82%8B%21%E6%9D%B1%E6%96%B9%E3%81%AE%E5%90%8C%E4%BA%BA%E3%82%B2%E3%83%BC%E3%83%A0Selection_in_2020%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 アンタマニド | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [次に来る!東方の同人ゲームSelection in 2020](./次に来る!東方の同人ゲームSelection_in_2020.md)  
-该封面包含的角色：- [赤蛮奇](./赤蛮奇.md)
+- [次に来る!東方の同人ゲームSelection in 2020](./次に来る!東方の同人ゲームSelection_in_2020.md)该封面包含的角色：
+- [赤蛮奇](./赤蛮奇.md)
 
   
-源地址：[[1]](https://melonbooks.akamaized.net/user_data/packages/resize_image.php?image=212001261625.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://melonbooks.akamaized.net/user_data/packages/resize_image.php?image=212001261625.jpg)  
 
 ---
 

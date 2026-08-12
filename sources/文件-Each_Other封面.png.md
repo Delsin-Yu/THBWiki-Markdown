@@ -1,6 +1,6 @@
 # 文件:Each_Other封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\96\ns6%3AEach_Other%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\96\ns6%3AEach_Other%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Echoes_Construction | 专辑封面 | 封面图片
 
@@ -8,16 +8,12 @@ Echoes_Construction | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Each Other](./Each_Other.md)  
-该封面包含的角色：- [河城荷取](./河城荷取.md)- [河城见取](./河城见取.md)
+- [Each Other](./Each_Other.md)该封面包含的角色：
+- [河城荷取](./河城荷取.md)
+- [河城见取](./河城见取.md)
 
   
-源地址：[[1]](http://static.tumblr.com/50ad262e38b407a7e12ba648c65405d8/k8ubhjd/j4Anns5p2/tumblr_static_4lembpdyhp4w84sswgk84o4cw.png)
-  
-
-
-
-
+源地址：[\[1\]](http://static.tumblr.com/50ad262e38b407a7e12ba648c65405d8/k8ubhjd/j4Anns5p2/tumblr_static_4lembpdyhp4w84sswgk84o4cw.png)  
 
 ---
 

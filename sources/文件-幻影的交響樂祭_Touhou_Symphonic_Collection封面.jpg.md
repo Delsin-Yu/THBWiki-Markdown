@@ -1,6 +1,6 @@
 # 文件:幻影的交響樂祭_Touhou_Symphonic_Collection封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b3\ns6%3A%E5%B9%BB%E5%BD%B1%E7%9A%84%E4%BA%A4%E9%9F%BF%E6%A8%82%E7%A5%AD_Touhou_Symphonic_Collection%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b3\ns6%3A%E5%B9%BB%E5%BD%B1%E7%9A%84%E4%BA%A4%E9%9F%BF%E6%A8%82%E7%A5%AD_Touhou_Symphonic_Collection%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 FUN_webjectF | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ FUN_webjectF | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [幻影的交響樂祭 Touhou Symphonic Collection](./幻影的交響樂祭_Touhou_Symphonic_Collection.md)  
-该封面包含的角色：- [梅露兰·普莉兹姆利巴](./梅露兰·普莉兹姆利巴.md)
-
-
-
+- [幻影的交響樂祭 Touhou Symphonic Collection](./幻影的交響樂祭_Touhou_Symphonic_Collection.md)该封面包含的角色：
+- [梅露兰·普莉兹姆利巴](./梅露兰·普莉兹姆利巴.md)
 
 
 ---

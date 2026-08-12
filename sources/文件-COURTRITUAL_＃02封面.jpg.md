@@ -1,6 +1,6 @@
 # 文件:COURTRITUAL_＃02封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\63\ns6%3ACOURTRITUAL_%EF%BC%8302%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\63\ns6%3ACOURTRITUAL_%EF%BC%8302%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Traumerei_Fabrik | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ Traumerei_Fabrik | 专辑封面 | 封面图片
   
 
 - [COURTRITUAL ＃02](./COURTRITUAL_＃02.md)
-
-
-
 
 
 ---

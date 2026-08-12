@@ -1,6 +1,6 @@
 # 文件:Touhou_Project_pops_arranged_instruments4封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b0\ns6%3ATouhou_Project_pops_arranged_instruments4%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b0\ns6%3ATouhou_Project_pops_arranged_instruments4%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 logical_emotion | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ logical_emotion | 专辑封面 | 封面图片
   
 
 - [Touhou Project pops arranged instruments4](./Touhou_Project_pops_arranged_instruments4.md)
-
-
-
 
 
 ---

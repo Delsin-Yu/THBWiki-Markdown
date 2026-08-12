@@ -1,6 +1,6 @@
 # 文件:Scarlet_Syndrome_E.P.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a1\ns6%3AScarlet_Syndrome_E%2EP%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a1\ns6%3AScarlet_Syndrome_E%2EP%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 明日夢
 
@@ -8,12 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [Scarlet Syndrome E.P.](./Scarlet_Syndrome_E.P..md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)源地址：[[1]](https://web.archive.org/web/20180604074644im_/http://blog-imgs-43.fc2.com/a/s/u/asumuayumu/20111004010828cf4s.jpg)
-
-
-
-
+- [Scarlet Syndrome E.P.](./Scarlet_Syndrome_E.P..md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+源地址：[\[1\]](https://web.archive.org/web/20180604074644im_/http://blog-imgs-43.fc2.com/a/s/u/asumuayumu/20111004010828cf4s.jpg)
 
 ---
 

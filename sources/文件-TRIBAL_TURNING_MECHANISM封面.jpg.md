@@ -1,6 +1,6 @@
 # 文件:TRIBAL_TURNING_MECHANISM封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\de\ns6%3ATRIBAL_TURNING_MECHANISM%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\de\ns6%3ATRIBAL_TURNING_MECHANISM%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 梶迫小道具店
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [TRIBAL TURNING MECHANISM](./TRIBAL_TURNING_MECHANISM.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [TRIBAL TURNING MECHANISM](./TRIBAL_TURNING_MECHANISM.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
 
   
-源地址：[[1]](http://static.tumblr.com/e605b7a9c7875444133676ccef013e36/ceutwp6/ziEohru5l/tumblr_static_3m8wz5fsq46c844gs40wks8cs.png)
-  
-
-
-
-
+源地址：[\[1\]](http://static.tumblr.com/e605b7a9c7875444133676ccef013e36/ceutwp6/ziEohru5l/tumblr_static_3m8wz5fsq46c844gs40wks8cs.png)  
 
 ---
 

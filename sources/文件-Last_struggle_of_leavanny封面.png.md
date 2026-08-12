@@ -1,6 +1,6 @@
 # 文件:Last_struggle_of_leavanny封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\29\ns6%3ALast_struggle_of_leavanny%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\29\ns6%3ALast_struggle_of_leavanny%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 ほしのけんきゅうじょ☆ | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [Last struggle of leavanny](./Last_struggle_of_leavanny.md)  
-该封面包含的角色：- [莉格露·奈特巴格](./莉格露·奈特巴格.md)- [风见幽香](./风见幽香.md)
-
-
-
+- [Last struggle of leavanny](./Last_struggle_of_leavanny.md)该封面包含的角色：
+- [莉格露·奈特巴格](./莉格露·奈特巴格.md)
+- [风见幽香](./风见幽香.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:東方人哀篇_～_Uncreatable_Idea.（同人志）封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dc\ns6%3A%E6%9D%B1%E6%96%B9%E4%BA%BA%E5%93%80%E7%AF%87_%EF%BD%9E_Uncreatable_Idea%2E%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dc\ns6%3A%E6%9D%B1%E6%96%B9%E4%BA%BA%E5%93%80%E7%AF%87_%EF%BD%9E_Uncreatable_Idea%2E%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 同人志封面 | 封面图片 | 雛鳥クロニクル
 
@@ -8,11 +8,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方人哀篇 ～ Uncreatable Idea.（同人志）](./東方人哀篇_～_Uncreatable_Idea.（同人志）.md)  
-该封面包含的角色：- [华美野·A·碧子](./华美野·A·碧子.md)- [菲利普斯·A·T·B·冯·霍恩海姆](./菲利普斯·A·T·B·冯·霍恩海姆.md)- [日出爱](./日出爱.md)
-
-
-
+- [東方人哀篇 ～ Uncreatable Idea.（同人志）](./東方人哀篇_～_Uncreatable_Idea.（同人志）.md)该封面包含的角色：
+- [华美野·A·碧子](./华美野·A·碧子.md)
+- [菲利普斯·A·T·B·冯·霍恩海姆](./菲利普斯·A·T·B·冯·霍恩海姆.md)
+- [日出爱](./日出爱.md)
 
 
 ---

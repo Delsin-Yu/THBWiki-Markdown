@@ -1,16 +1,12 @@
 # 模板:patchwork
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\2\28\ns10%3Apatchwork.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\2\28\ns10%3Apatchwork.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

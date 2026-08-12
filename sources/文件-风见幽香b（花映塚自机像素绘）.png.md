@@ -1,12 +1,8 @@
 # 文件:风见幽香b（花映塚自机像素绘）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\55\ns6%3A%E9%A3%8E%E8%A7%81%E5%B9%BD%E9%A6%99b%EF%BC%88%E8%8A%B1%E6%98%A0%E5%A1%9A%E8%87%AA%E6%9C%BA%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\55\ns6%3A%E9%A3%8E%E8%A7%81%E5%B9%BD%E9%A6%99b%EF%BC%88%E8%8A%B1%E6%98%A0%E5%A1%9A%E8%87%AA%E6%9C%BA%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89%2Epng.html -->
 
 STG自机像素绘 | 东方花映塚 | 官方游戏像素绘 | 风见幽香
-
-
-
-
 
 
 ---

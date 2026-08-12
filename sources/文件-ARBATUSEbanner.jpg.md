@@ -1,14 +1,11 @@
 # 文件:ARBATUSEbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ab\ns6%3AARBATUSEbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ab\ns6%3AARBATUSEbanner%2Ejpg.html -->
 
 ARBATUSE | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

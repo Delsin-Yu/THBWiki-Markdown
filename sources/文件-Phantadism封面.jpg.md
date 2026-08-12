@@ -1,6 +1,6 @@
 # 文件:Phantadism封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9c\ns6%3APhantadism%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9c\ns6%3APhantadism%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ダバデぃずむ | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Phantadism](./Phantadism.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
+- [Phantadism](./Phantadism.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
   
-源地址：[direct image link](https://www.suruga-ya.jp/database/pics_light/game/zhore75319.jpg), [suruga-ya ID: ZHORE75319](https://www.suruga-ya.jp/product/detail/ZHORE75319)
-  
-
-
-
-
+源地址：[direct image link](https://www.suruga-ya.jp/database/pics_light/game/zhore75319.jpg), [suruga-ya ID: ZHORE75319](https://www.suruga-ya.jp/product/detail/ZHORE75319)  
 
 ---
 

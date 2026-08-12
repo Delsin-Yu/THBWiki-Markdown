@@ -1,6 +1,6 @@
 # 文件:おどろき小箱_こがばんWeb再録本封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\53\ns6%3A%E3%81%8A%E3%81%A9%E3%82%8D%E3%81%8D%E5%B0%8F%E7%AE%B1_%E3%81%93%E3%81%8C%E3%81%B0%E3%82%93Web%E5%86%8D%E9%8C%B2%E6%9C%AC%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\53\ns6%3A%E3%81%8A%E3%81%A9%E3%82%8D%E3%81%8D%E5%B0%8F%E7%AE%B1_%E3%81%93%E3%81%8C%E3%81%B0%E3%82%93Web%E5%86%8D%E9%8C%B2%E6%9C%AC%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 はちみつぷりん | 同人志封面 | 封面图片
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [おどろき小箱 こがばんWeb再録本](./おどろき小箱_こがばんWeb再録本.md)  
-该封面包含的角色：- [多多良小伞](./多多良小伞.md)- [赤蛮奇](./赤蛮奇.md)
-
-
-
+- [おどろき小箱 こがばんWeb再録本](./おどろき小箱_こがばんWeb再録本.md)该封面包含的角色：
+- [多多良小伞](./多多良小伞.md)
+- [赤蛮奇](./赤蛮奇.md)
 
 
 ---

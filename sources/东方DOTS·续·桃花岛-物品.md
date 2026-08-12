@@ -1,6 +1,6 @@
 # 东方DOTS·续·桃花岛/物品
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\4d\ns0%3A%E4%B8%9C%E6%96%B9DOTS%C2%B7%E7%BB%AD%C2%B7%E6%A1%83%E8%8A%B1%E5%B2%9B%2F%E7%89%A9%E5%93%81.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\4d\ns0%3A%E4%B8%9C%E6%96%B9DOTS%C2%B7%E7%BB%AD%C2%B7%E6%A1%83%E8%8A%B1%E5%B2%9B%2F%E7%89%A9%E5%93%81.html -->
 
 东方DOTS玩家社群
 
@@ -8,7 +8,6 @@
 ## 目录
 
 - [1 基础物品](#基础物品)
-
   - [1.1 消耗品](#消耗品)
   - [1.2 属性](#属性)
   - [1.3 装备](#装备)
@@ -16,9 +15,7 @@
   - [1.5 其他](#其他)
 
 
-
 - [2 升级物品](#升级物品)
-
   - [2.1 配件](#配件)
   - [2.2 辅助](#辅助)
   - [2.3 法器](#法器)
@@ -29,17 +26,12 @@
 
 
 
-
-
-
-
-##  **<big>基础物品</big>** 
+## **<big>基础物品</big>**
   
 直接购买就可以使用或者获得属性。
   
 
-
-###  **<big>消耗品</big>** 
+### **<big>消耗品</big>**
 
 <table>
 
@@ -84,8 +76,7 @@
 </td></tr></tbody></table>
 
 
-
-### <big> **属性** </big>
+### <big>**属性**</big>
 
 <table>
 
@@ -118,8 +109,7 @@
 </td></tr></tbody></table>
 
 
-
-###  **<big>装备</big>** 
+### **<big>装备</big>**
 
 <table>
 
@@ -150,12 +140,10 @@
 </td></tr></tbody></table>
 
 
-
-###  **<big>神秘商店</big>** 
+### **<big>神秘商店</big>**
   
 单独购买的性价比很低，但是合成某些高级装备的必需品 
   
-
 
 <table>
 
@@ -191,8 +179,7 @@
 </td></tr></tbody></table>
 
 
-
-### <big> **其他** </big>
+### <big>**其他**</big>
 
 <table>
 
@@ -228,14 +215,12 @@
 </td></tr></tbody></table>
 
 
-
-## <big> **升级物品** </big>
+## <big>**升级物品**</big>
   
 升级物品需要通过基础物品或再加上合成卷轴才获得。
   
 
-
-### <big> **配件** </big>
+### <big>**配件**</big>
 
 <table>
 
@@ -284,8 +269,7 @@
 </td></tr></tbody></table>
 
 
-
-### <big> **辅助** </big>
+### <big>**辅助**</big>
 
 <table>
 
@@ -327,8 +311,7 @@
 </td></tr></tbody></table>
 
 
-
-###  **<big>法器</big>** 
+### **<big>法器</big>**
 
 <table>
 
@@ -370,8 +353,7 @@
 </td></tr></tbody></table>
 
 
-
-### <big> **兵刃** </big>
+### <big>**兵刃**</big>
 
 <table>
 
@@ -429,8 +411,7 @@
 </td></tr></tbody></table>
 
 
-
-###  **<big>防具</big>** 
+### **<big>防具</big>**
 
 <table>
 
@@ -470,8 +451,7 @@
 </td></tr></tbody></table>
 
 
-
-### <big> **宝物** </big>
+### <big>**宝物**</big>
 
 <table>
 
@@ -516,14 +496,6 @@
 </td>
 <td><a href="./文件-THD2永久万宝槌.png.md" class="image" title="永久万宝槌"><img alt="永久万宝槌" src="https://upload.thwiki.cc/f/f7/THD2%E6%B0%B8%E4%B9%85%E4%B8%87%E5%AE%9D%E6%A7%8C.png" decoding="async" loading="lazy" width="168" height="64" data-file-width="168" data-file-height="64"></a><b><big>永久万宝槌</big> <a href="./文件-THD2G.png.md" class="image" title="金钱"><img alt="金钱" src="https://upload.thwiki.cc/4/48/THD2G.png" decoding="async" loading="lazy" width="25" height="17" data-file-width="25" data-file-height="17"></a>6200<br><small>万宝槌(4200)+卷轴：永久万宝槌(2000)</small><br>使用：技能升级-永久获得万宝槌效果。</b><br><small>当该道具加入物品栏时自动使用，无论持有者是否已经拥有永久万宝槌效果；使用后失去万宝槌提供的基础属性。</small><br><br><br>
 </td></tr></tbody></table>
-
-
-
-<table><tbody><tr><td><table cellspacing="0" class="nowraplinks mw-collapsible uncollapsed" style="width:100%;;;"><tbody><tr><th style=";" colspan="2" class="navbox-title"><div class="navbar"><div class="noprint plainlinksneverexpand" style="background-color:transparent; padding:0; font-weight:normal; font-size:80%; white-space:nowrap;"><a href="/index.php?title=%E6%A8%A1%E6%9D%BF:%E4%B8%9C%E6%96%B9DOTS-Touhou_Defence_of_The_Shrines2(THD2)/%E7%89%A9%E5%93%81&amp;action=edit&amp;redlink=1" class="new" title="模板:东方DOTS-Touhou Defence of The Shrines2(THD2)/物品（页面不存在）"><span style=";;border:none;" title="查看这个模板">查</span></a>&#160;<span style="font-size:80%;">•</span>&#160;<a href="/index.php?title=%E6%A8%A1%E6%9D%BF:%E4%B8%9C%E6%96%B9DOTS-Touhou_Defence_of_The_Shrines2(THD2)/%E7%89%A9%E5%93%81&amp;action=edit"><span style=";;border:none;" title="您可以编辑这个模板。请在储存变更之前先预览">编</span></a></div></div><span>装备</span></th></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">消耗品</td><td style=";;" class="navbox-list navbox-odd"><div>好人卡 • 坏人卡 • 衰人卡 • 爱人卡 • 吃人卡 • 逗人卡 • 月人卡 • 超人卡 • 思兼生命药 • 雾雨魔力瓶 • 间隙通行证 • 显影之尘 • 侦查守卫 • 岗哨守卫 • 神奇蘑菇 • 诡计之雾 • 灵异珠</div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><center>属性</center></td><td style=";;" class="navbox-list navbox-even"><div>四叶草 • 练习手套 • 妖精发带  • 灵符 • 新月头饰 • 鬼天王腰带 • 妖精之翼 • 初阶魔法书 • 幽灵木勺 • 妖精之刃 • 高阶魔法书 • 白狼天狗巨刃</div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><center>军备</center></td><td style=";;" class="navbox-list navbox-odd"><div>铁质短刀 • 西洋剑 • 铁锤 • 封魔针 • 秘银戒指 • 妖精之服 • 魔女之裙 • 魔女披风 • 伊奘诺物质 • 河童木工刃 • 木盾</div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><center>高级</center></td><td style=";;" class="navbox-list navbox-even"><div>恶魔洋装 • 羽翼 • 大地要石 • 太刀 • 魔术师银匕首 • 伊吹瓢 • 天狗羽扇 • 西洋魔法书 • 冰精结晶 • 河童武装背包 • 血晶石 • 女仆飞刀 • 人魂之灯</div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><center>其他</center></td><td style=";;" class="navbox-list navbox-odd"><div>星星挂坠 • 信仰挂坠 • 无色水晶 • 七色水晶 • 魔法使扫把 • 天狗护符 • 贤者之石 • 艾哲红石 • 闪耀的宝玉 • 西尔芙灵纹 • 鸦天狗 • 历史教科书 • 小提琴</div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><center>配件</center></td><td style=";;" class="navbox-list navbox-even"><div>红魔挂件 • 妖精护符 • 魔力灵符 • 御币 • 风祝御币 • 博丽御币 • 恶魔之翼 • 御守 • 厄运护符 • 格斗扫把 • 迅捷扫把 • 魔力扫把 • 炽热彗星 • 八云间隙发生器 • 冰晶跳跃装置 • 完美跳跃装置 • 夜雀的翅膀 • 牛逼跳跃装置 • 退魔御币</div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><center>辅助</center></td><td style=";;" class="navbox-list navbox-odd"><div>碎骨笛 • 思兼生命智慧 • 十字架 • 元素秘法石 • 血染的太阳伞 • 真澄之镜 • 很值钱的礼物 • 博丽供奉箱 • 护士人偶 • 奇迹之星 • 香霖的礼服 • 月曜秘石 • 丰收之摇篮 • 历史教科书 • 轻飘飘的布 • 土著神的庇护 • 花之领主阳伞</div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><center>法器</center></td><td style=";;" class="navbox-list navbox-even"><div>不明的秒计时 • 魔法使的帽子 • 流雏人形 • 巴瓦鲁幽魂之书 • 土蜘蛛之丝 • 灾厄之主人形 • 月面之弓弦 • 河童推进装置 • 白玉楼的扇子 • 红魔火箭 • 油库里之杖 • 迷你八卦炉 • 破魔净灵札 • 速融的核聚变棒 • 蓬莱玉枝 • 读心之心眼</div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><center>兵刃</center></td><td style=";;" class="navbox-list navbox-odd"><div>河童冲锋手枪 • 仇恨之弓 • 次世代手机 • 纳税用阴阳玉 • 月之碎片 • 真实割夺之刃 • 死神渡河船桨 • 念缚灵的船钩 • 半灵练习剑 • 楼观剑 • 月兔幻觉兵器 • 天丛云剑 • 神枪冈格尼尔 • 月面之弩 • 光龙雷云钻 • 白楼剑 • 死神之大镰刀 • 莱瓦汀 • 小叶飞刀 • 双剑「二天一流」 • 月面机动装置 • 悔悟棒 • 奇美拉三叉戟</div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><center>防具</center></td><td style=";;" class="navbox-list navbox-even"><div>哨戒天狗护盾 • 亡灵送行提灯 • 火凤凰之翼 • 花毒的连衣裙 • 幽灵气球 • 七曜魔女斗篷 • 使魔斗篷 • 人魂之灯 • 博丽神社护身符 • 龙星 • 退魔御币 • 天界之桃 • 雪女的围巾 • 读心之心眼 • 雷云之羽川 • 鬼神镣铐 • 长舌头的伞 • 替身地藏</div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><center>宝物</center></td><td style=";;" class="navbox-list navbox-odd"><div>冰精完美钻石 • 僧侣的降魔杵 • 高科技相机 • 替身人偶 • 萤火虫之光 • 月兔粉碎巨刃 • 魔人经卷 • 风神羽翼 • 恶魔的乳牙 • 月兔粉碎之锤 • 幻想乡日记 • 诅咒木剑 • 庭师遗册 • 绯想剑 • 不明飞行物 • 万宝槌 • 永久万宝槌</div></td></tr></tbody></table></td></tr></tbody></table>
-
-
-
-
 
 
 ---

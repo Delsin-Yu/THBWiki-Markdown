@@ -1,12 +1,8 @@
 # 文件:THD2新月头饰.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\68\ns6%3ATHD2%E6%96%B0%E6%9C%88%E5%A4%B4%E9%A5%B0%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\68\ns6%3ATHD2%E6%96%B0%E6%9C%88%E5%A4%B4%E9%A5%B0%2Epng.html -->
 
 AvalonStudioOfficial
-
-
-
-
 
 
 ---

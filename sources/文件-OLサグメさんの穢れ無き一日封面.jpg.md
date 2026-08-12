@@ -1,6 +1,6 @@
 # 文件:OLサグメさんの穢れ無き一日封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\db\ns6%3AOL%E3%82%B5%E3%82%B0%E3%83%A1%E3%81%95%E3%82%93%E3%81%AE%E7%A9%A2%E3%82%8C%E7%84%A1%E3%81%8D%E4%B8%80%E6%97%A5%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\db\ns6%3AOL%E3%82%B5%E3%82%B0%E3%83%A1%E3%81%95%E3%82%93%E3%81%AE%E7%A9%A2%E3%82%8C%E7%84%A1%E3%81%8D%E4%B8%80%E6%97%A5%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 シュガレット | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [OLサグメさんの穢れ無き一日](./OLサグメさんの穢れ無き一日.md)  
-该封面包含的角色：- [稀神探女](./稀神探女.md)
-
-
-
+- [OLサグメさんの穢れ無き一日](./OLサグメさんの穢れ無き一日.md)该封面包含的角色：
+- [稀神探女](./稀神探女.md)
 
 
 ---

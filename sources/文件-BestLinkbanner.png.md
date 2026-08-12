@@ -1,16 +1,11 @@
 # 文件:BestLinkbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\65\ns6%3ABestLinkbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\65\ns6%3ABestLinkbanner%2Epng.html -->
 
 BestLink | 社团LOGO
 
   
-源地址：[[1]](http://bestlink.the-ninja.jp/img/top/main_image3.png)
-  
-
-
-
-
+源地址：[\[1\]](http://bestlink.the-ninja.jp/img/top/main_image3.png)  
 
 ---
 

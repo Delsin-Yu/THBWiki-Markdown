@@ -1,12 +1,8 @@
 # 文件:东方鹏徙谣LOGO.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\63\ns6%3A%E4%B8%9C%E6%96%B9%E9%B9%8F%E5%BE%99%E8%B0%A3LOGO%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\63\ns6%3A%E4%B8%9C%E6%96%B9%E9%B9%8F%E5%BE%99%E8%B0%A3LOGO%2Ejpg.html -->
 
 东方鹏徙谣 | 活动LOGO
-
-
-
-
 
 
 ---

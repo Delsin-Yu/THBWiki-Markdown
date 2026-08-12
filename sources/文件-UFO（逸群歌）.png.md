@@ -1,12 +1,8 @@
 # 文件:UFO（逸群歌）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\35\ns6%3AUFO%EF%BC%88%E9%80%B8%E7%BE%A4%E6%AD%8C%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\35\ns6%3AUFO%EF%BC%88%E9%80%B8%E7%BE%A4%E6%AD%8C%EF%BC%89%2Epng.html -->
 
 一群鸽制作组 | 二次角色立绘 | 封兽鵺（逸群歌）
-
-
-
-
 
 
 ---

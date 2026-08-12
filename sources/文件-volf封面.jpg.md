@@ -1,6 +1,6 @@
 # 文件:volf封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e6\ns6%3Avolf%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e6\ns6%3Avolf%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 扶養家族
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [volf](./volf.md)  
-该封面包含的角色：- [犬走椛](./犬走椛.md)
+- [volf](./volf.md)该封面包含的角色：
+- [犬走椛](./犬走椛.md)
 
   
-[Pixiv artwork ID: 65426299](https://www.pixiv.net/artworks/65426299)
-  
-
-
-
-
+[Pixiv artwork ID: 65426299](https://www.pixiv.net/artworks/65426299)  
 
 ---
 

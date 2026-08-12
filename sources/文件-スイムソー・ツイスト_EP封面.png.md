@@ -1,6 +1,6 @@
 # 文件:スイムソー・ツイスト_EP封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b3\ns6%3A%E3%82%B9%E3%82%A4%E3%83%A0%E3%82%BD%E3%83%BC%E3%83%BB%E3%83%84%E3%82%A4%E3%82%B9%E3%83%88_EP%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b3\ns6%3A%E3%82%B9%E3%82%A4%E3%83%A0%E3%82%BD%E3%83%BC%E3%83%BB%E3%83%84%E3%82%A4%E3%82%B9%E3%83%88_EP%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 さくらゆっけ | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [スイムソー・ツイスト EP](./スイムソー・ツイスト_EP.md)  
-该封面包含的角色：- [伊吹萃香](./伊吹萃香.md)
-
-
-
+- [スイムソー・ツイスト EP](./スイムソー・ツイスト_EP.md)该封面包含的角色：
+- [伊吹萃香](./伊吹萃香.md)
 
 
 ---

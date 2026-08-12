@@ -1,12 +1,8 @@
 # 文件:Floating_Cloud_banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\83\ns6%3AFloating_Cloud_banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\83\ns6%3AFloating_Cloud_banner%2Egif.html -->
 
 Floating_Cloud | 社团LOGO
-
-
-
-
 
 
 ---

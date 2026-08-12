@@ -1,16 +1,11 @@
 # 文件:少女理論観測所banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\36\ns6%3A%E5%B0%91%E5%A5%B3%E7%90%86%E8%AB%96%E8%A6%B3%E6%B8%AC%E6%89%80banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\36\ns6%3A%E5%B0%91%E5%A5%B3%E7%90%86%E8%AB%96%E8%A6%B3%E6%B8%AC%E6%89%80banner%2Epng.html -->
 
 少女理論観測所 | 社团LOGO
 
   
-源地址：[[1]](http://girlslogic.xxxxxxxx.jp/bannar.png)
-  
-
-
-
-
+源地址：[\[1\]](http://girlslogic.xxxxxxxx.jp/bannar.png)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:核熱萃奏樂_～_fusioning_winds封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1f\ns6%3A%E6%A0%B8%E7%86%B1%E8%90%83%E5%A5%8F%E6%A8%82_%EF%BD%9E_fusioning_winds%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1f\ns6%3A%E6%A0%B8%E7%86%B1%E8%90%83%E5%A5%8F%E6%A8%82_%EF%BD%9E_fusioning_winds%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 時雨月横丁
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [核熱萃奏樂 ～ fusioning winds](./核熱萃奏樂_～_fusioning_winds.md)  
-该封面包含的角色：- [灵乌路空](./灵乌路空.md)
-
-
-
+- [核熱萃奏樂 ～ fusioning winds](./核熱萃奏樂_～_fusioning_winds.md)该封面包含的角色：
+- [灵乌路空](./灵乌路空.md)
 
 
 ---

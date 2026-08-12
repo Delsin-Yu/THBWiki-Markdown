@@ -1,12 +1,8 @@
 # 文件:Twilight~日月之境~banner2.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e8\ns6%3ATwilight%7E%E6%97%A5%E6%9C%88%E4%B9%8B%E5%A2%83%7Ebanner2%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e8\ns6%3ATwilight%7E%E6%97%A5%E6%9C%88%E4%B9%8B%E5%A2%83%7Ebanner2%2Egif.html -->
 
 Twilight~日月之境~ | 社团LOGO
-
-
-
-
 
 
 ---

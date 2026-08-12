@@ -1,12 +1,8 @@
 # 文件:THD2月兔的粉碎之锤.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\05\ns6%3ATHD2%E6%9C%88%E5%85%94%E7%9A%84%E7%B2%89%E7%A2%8E%E4%B9%8B%E9%94%A4%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\05\ns6%3ATHD2%E6%9C%88%E5%85%94%E7%9A%84%E7%B2%89%E7%A2%8E%E4%B9%8B%E9%94%A4%2Epng.html -->
 
 AvalonStudioOfficial
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:東方樹命苑_～_Maidens_in_the_Garden.封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\33\ns6%3A%E6%9D%B1%E6%96%B9%E6%A8%B9%E5%91%BD%E8%8B%91_%EF%BD%9E_Maidens_in_the_Garden%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\33\ns6%3A%E6%9D%B1%E6%96%B9%E6%A8%B9%E5%91%BD%E8%8B%91_%EF%BD%9E_Maidens_in_the_Garden%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 同人志封面 | 封面图片 | 鹿子
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方樹命苑 ～ Maidens in the Garden.](./東方樹命苑_～_Maidens_in_the_Garden..md)  
-该封面包含的角色：- [柊命花](./柊命花.md)
-
-
-
+- [東方樹命苑 ～ Maidens in the Garden.](./東方樹命苑_～_Maidens_in_the_Garden..md)该封面包含的角色：
+- [柊命花](./柊命花.md)
 
 
 ---

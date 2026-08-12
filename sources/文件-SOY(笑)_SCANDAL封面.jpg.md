@@ -1,6 +1,6 @@
 # 文件:SOY(笑)_SCANDAL封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\78\ns6%3ASOY%28%E7%AC%91%29_SCANDAL%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\78\ns6%3ASOY%28%E7%AC%91%29_SCANDAL%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 そぉい(笑) | 专辑封面 | 封面图片
 
@@ -8,11 +8,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [SOY(笑) SCANDAL](./SOY(笑)_SCANDAL.md)  
-该封面包含的角色：- [八云紫](./八云紫.md)- [永江衣玖](./永江衣玖.md)- [八坂神奈子](./八坂神奈子.md)- [星熊勇仪](./星熊勇仪.md)- [古明地觉](./古明地觉.md)
-
-
-
+- [SOY(笑) SCANDAL](./SOY(笑%29_SCANDAL.md)该封面包含的角色：
+- [八云紫](./八云紫.md)
+- [永江衣玖](./永江衣玖.md)
+- [八坂神奈子](./八坂神奈子.md)
+- [星熊勇仪](./星熊勇仪.md)
+- [古明地觉](./古明地觉.md)
 
 
 ---

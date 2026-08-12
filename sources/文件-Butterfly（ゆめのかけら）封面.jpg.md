@@ -1,6 +1,6 @@
 # 文件:Butterfly（ゆめのかけら）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ac\ns6%3AButterfly%EF%BC%88%E3%82%86%E3%82%81%E3%81%AE%E3%81%8B%E3%81%91%E3%82%89%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ac\ns6%3AButterfly%EF%BC%88%E3%82%86%E3%82%81%E3%81%AE%E3%81%8B%E3%81%91%E3%82%89%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ゆめのかけら | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Butterfly（ゆめのかけら）](./Butterfly（ゆめのかけら）.md)  
-该封面包含的角色：- [西行寺幽幽子](./西行寺幽幽子.md)
+- [Butterfly（ゆめのかけら）](./Butterfly（ゆめのかけら）.md)该封面包含的角色：
+- [西行寺幽幽子](./西行寺幽幽子.md)
 
   
-[Pixiv artwork ID: 50208517 (original size)](https://www.pixiv.net/artworks/50208517)
-  
-
-
-
-
+[Pixiv artwork ID: 50208517 (original size)](https://www.pixiv.net/artworks/50208517)  
 
 ---
 

@@ -1,27 +1,27 @@
 # 东方Project人气投票/第二回/角色部门
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\e\e6\ns0%3A%E4%B8%9C%E6%96%B9Project%E4%BA%BA%E6%B0%94%E6%8A%95%E7%A5%A8%2F%E7%AC%AC%E4%BA%8C%E5%9B%9E%2F%E8%A7%92%E8%89%B2%E9%83%A8%E9%97%A8.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\e\e6\ns0%3A%E4%B8%9C%E6%96%B9Project%E4%BA%BA%E6%B0%94%E6%8A%95%E7%A5%A8%2F%E7%AC%AC%E4%BA%8C%E5%9B%9E%2F%E8%A7%92%E8%89%B2%E9%83%A8%E9%97%A8.html -->
 
 东方Project人气投票
 
 <center>
-
 <table>
 <tbody><tr>
-<td>&lt;
+<td><
 </td>
-<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./东方Project人气投票-第一回-角色部门.md" title="东方Project人气投票/第一回/角色部门">第一回</a>&#160;
+<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./东方Project人气投票-第一回-角色部门.md" title="东方Project人气投票/第一回/角色部门">第一回</a> 
 </td>
-<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="./东方Project人气投票.md" title="东方Project人气投票">东方Project人气投票</a>（角色部门）&#160;
+<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;"> <a href="./东方Project人气投票.md" title="东方Project人气投票">东方Project人气投票</a>（角色部门） 
 </td>
-<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left">&#160;<a href="./东方Project人气投票-第三回-角色部门.md" title="东方Project人气投票/第三回/角色部门">第三回</a>
+<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left"> <a href="./东方Project人气投票-第三回-角色部门.md" title="东方Project人气投票/第三回/角色部门">第三回</a>
 </td>
-<td>&gt;
+<td>>
 </td></tr></tbody></table>
 
   
 </center>
 - 本页面为人气投票角色部分的票数排行简表。
+
 
 - 总有效票数5908，总本命票数5151，参投角色总数152
 
@@ -34,7 +34,6 @@
 <tr>
 <td><span style="color:#FBB">▇▇</span>：本回投票新加入的角色<br><span style="color:#BBF">▇▇</span>：本回投票名称有变动的角色<br>
 </td></tr></tbody></table>
-
 
 
 <table>
@@ -730,7 +729,7 @@
 </td></tr>
 <tr style="background:#BBF">
 <td>69</td>
-<td>姬海棠果<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">1</a></sup></td>
+<td>姬海棠果<span>[^cite_note-1]</span></td>
 <td>51</td>
 <td>5</td>
 <td>9.8%</td>
@@ -1120,7 +1119,7 @@
 </td></tr>
 <tr style="background:#BBF">
 <td>106</td>
-<td>求闻史纪中的受访人群<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">2</a></sup></td>
+<td>求闻史纪中的受访人群<span>[^cite_note-2]</span></td>
 <td>6</td>
 <td>0</td>
 <td>0%</td>
@@ -1569,12 +1568,8 @@
 <td>0%
 </td></tr></tbody></table>
 
-
 [^cite_note-1]: 上回为旧译名“姬海棠羽立”
-
-
-
-
+[^cite_note-2]: 上回为“求闻史纪中的受访人群（如蟒蛇六介、彦佐卫门、花店老板、开朗的地缚灵、某位母亲等）”
 
 ---
 

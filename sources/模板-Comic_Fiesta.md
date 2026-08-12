@@ -1,16 +1,12 @@
 # 模板:Comic_Fiesta
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\5\54\ns10%3AComic_Fiesta.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\5\54\ns10%3AComic_Fiesta.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

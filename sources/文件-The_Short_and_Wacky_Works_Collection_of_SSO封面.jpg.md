@@ -1,6 +1,6 @@
 # 文件:The_Short_and_Wacky_Works_Collection_of_SSO封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\47\ns6%3AThe_Short_and_Wacky_Works_Collection_of_SSO%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\47\ns6%3AThe_Short_and_Wacky_Works_Collection_of_SSO%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Soundcard_Symphony_Orchestra | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ Soundcard_Symphony_Orchestra | 专辑封面 | 封面图片
   
 
 - [The Short and Wacky Works Collection of SSO](./The_Short_and_Wacky_Works_Collection_of_SSO.md)
-
-
-
 
 
 ---

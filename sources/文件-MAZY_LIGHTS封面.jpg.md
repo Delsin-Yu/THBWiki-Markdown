@@ -1,6 +1,6 @@
 # 文件:MAZY_LIGHTS封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8b\ns6%3AMAZY_LIGHTS%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8b\ns6%3AMAZY_LIGHTS%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Pearls_Before_Swine | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Pearls_Before_Swine | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [MAZY LIGHTS](./MAZY_LIGHTS.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
-
-
-
+- [MAZY LIGHTS](./MAZY_LIGHTS.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
 
 ---

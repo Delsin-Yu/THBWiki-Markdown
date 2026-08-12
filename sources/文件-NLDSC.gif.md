@@ -1,12 +1,8 @@
 # 文件:NLDSC.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\94\ns6%3ANLDSC%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\94\ns6%3ANLDSC%2Egif.html -->
 
 东方幻想的音乐
-
-
-
-
 
 
 ---

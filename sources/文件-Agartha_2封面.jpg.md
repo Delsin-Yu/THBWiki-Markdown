@@ -1,6 +1,6 @@
 # 文件:Agartha_2封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c8\ns6%3AAgartha_2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c8\ns6%3AAgartha_2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Birthday_Party | 同人志封面 | 封面图片
 
@@ -10,16 +10,12 @@ Birthday_Party | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Agartha 2](./Agartha_2.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [Agartha 2](./Agartha_2.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
   
-[Pixiv artwork ID: 37652230 (original size)](https://www.pixiv.net/artworks/37652230)
-  
-
-
-
-
+[Pixiv artwork ID: 37652230 (original size)](https://www.pixiv.net/artworks/37652230)  
 
 ---
 

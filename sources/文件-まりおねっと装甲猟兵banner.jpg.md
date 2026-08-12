@@ -1,12 +1,8 @@
 # 文件:まりおねっと装甲猟兵banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\85\ns6%3A%E3%81%BE%E3%82%8A%E3%81%8A%E3%81%AD%E3%81%A3%E3%81%A8%E8%A3%85%E7%94%B2%E7%8C%9F%E5%85%B5banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\85\ns6%3A%E3%81%BE%E3%82%8A%E3%81%8A%E3%81%AD%E3%81%A3%E3%81%A8%E8%A3%85%E7%94%B2%E7%8C%9F%E5%85%B5banner%2Ejpg.html -->
 
 まりおねっと装甲猟兵 | 社团LOGO
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Conspiracy_of_Nuclear_Terror封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6e\ns6%3AConspiracy_of_Nuclear_Terror%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6e\ns6%3AConspiracy_of_Nuclear_Terror%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Hidden_Masquerade | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ Hidden_Masquerade | 专辑封面 | 封面图片
   
 
 - [Conspiracy of Nuclear Terror](./Conspiracy_of_Nuclear_Terror.md)
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Phantasmal_Intersection封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5f\ns6%3APhantasmal_Intersection%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5f\ns6%3APhantasmal_Intersection%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 アベニュールーム | 专辑封面 | 封面图片
 
@@ -8,16 +8,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [Phantasmal Intersection](./Phantasmal_Intersection.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)- [古明地恋](./古明地恋.md)
+- [Phantasmal Intersection](./Phantasmal_Intersection.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [古明地恋](./古明地恋.md)
 
   
-源地址：[[1]](http://static.tumblr.com/6882b20c44d7a2f69a376b3b82b43840/or9bxjg/hRxnzk916/tumblr_static_9cgov2o2e50cooskog4s888kw.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://static.tumblr.com/6882b20c44d7a2f69a376b3b82b43840/or9bxjg/hRxnzk916/tumblr_static_9cgov2o2e50cooskog4s888kw.jpg)  
 
 ---
 

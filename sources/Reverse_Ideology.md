@@ -1,45 +1,33 @@
 # Reverse_Ideology
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\4c\ns0%3AReverse_Ideology.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\4c\ns0%3AReverse_Ideology.html -->
 
 由 ZUN 创作的官方曲目，原名 リバースイデオロギー
 
 本页是关于东方Project  
- **原作音乐** 的词条
-
+**原作音乐**的词条
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 出现作品](#出现作品)
 - [3 音乐文件](#音乐文件)
-
   - [3.1 东方辉针城](#东方辉针城)
   - [3.2 弹幕天邪鬼](#弹幕天邪鬼)
   - [3.3 旧约酒馆](#旧约酒馆)
 
 
-
 - [4 说明文本](#说明文本)
-
   - [4.1 东方辉针城](#东方辉针城_2)
   - [4.2 弹幕天邪鬼](#弹幕天邪鬼_2)
 
 
-
 - [5 其他资料](#其他资料)
-
   - [5.1 乐理资讯](#乐理资讯)
-
     - [5.1.1 使用乐器](#使用乐器)
-
 
 
   - [5.2 分析考据](#分析考据)
   - [5.3 二次同人数据](#二次同人数据)
-
-
-
-
 
 
 
@@ -49,7 +37,6 @@
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">リバースイデオロギー</td></tr><tr><td><b>译名</b></td><td>Reverse Ideology</td></tr><tr><td><b>其他译名</b></td><td>颠倒世界观<br>倒转的世界观<br>颠倒的观念</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 Reverse Ideology（曲目） - 由 ZUN 创作的官方曲目，原名 リバースイデオロギー
-
 ## 出现作品
 
 <table>
@@ -57,7 +44,6 @@ Reverse Ideology（曲目） - 由 ZUN 创作的官方曲目，原名 リバー�
 <tr><td>2014年5月11日（第十一回 博丽神社例大祭）</td><td><b><a href="./弹幕天邪鬼.md" title="弹幕天邪鬼">弹幕天邪鬼</a></b></td><td>第三天、第八天主题曲</td><td style="padding-left:5px;">リバースイデオロギー（Reverse Ideology）</td><td style="padding-left:10px;">作曲：ZUN</td></tr>
 <tr><td>2016年8月13日（Comic Market 90）</td><td><b><a href="./旧约酒馆.md" title="旧约酒馆">旧约酒馆</a></b></td><td>第3轨</td><td style="padding-left:5px;">リバースイデオロギー（Reverse Ideology）</td><td style="padding-left:10px;">编曲：ZUN</td></tr>
 </tbody></table>
-
 
 
 ## 音乐文件
@@ -72,7 +58,6 @@ Reverse Ideology（曲目） - 由 ZUN 创作的官方曲目，原名 リバー�
 </td></tr></tbody></table>
 
 
-
 ### 弹幕天邪鬼
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th14.3_07.mp3.md" title="文件:th14.3 07.mp3">th14.3_07.mp3</a><br><audio src="https://upload.thwiki.cc/5/51/th14.3_07.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>BGM\th14.3_07.wav</td></tr><tr><td><b>BGMForAll</b></td><td><div class="mw-collapsible mw-collapsed">
@@ -83,17 +68,16 @@ Reverse Ideology（曲目） - 由 ZUN 创作的官方曲目，原名 リバー�
 </td></tr></tbody></table>
 
 
-
 ### 旧约酒馆
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-hr10_03.mp3.md" title="文件:hr10 03.mp3">hr10_03.mp3</a><br><audio src="https://upload.thwiki.cc/1/1b/hr10_03.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track03.cda（CD）</td></tr></tbody></table>
 
 
-
 ## 说明文本
 
 ### 东方辉针城
-- Music Room (未找到链接)
+
+- [Music Room](./东方辉针城-Music.md#5面BOSS鬼人正邪角色曲)
 
 鬼人 正邪的主题曲。  
   
@@ -101,17 +85,17 @@ Reverse Ideology（曲目） - 由 ZUN 创作的官方曲目，原名 リバー�
 结果，成了首调皮的曲子……不过很符合BOSS的节奏，很愉快吧。  
 虽然是率先去做别人讨厌的事的小人一般的BOSS，  
 但这就是这次的黑幕。
-
 ### 弹幕天邪鬼
-- Music Room (未找到链接)
+
+- [Music Room](./弹幕天邪鬼-Music.md#第三日、第八日主题曲)
 
 　重新收录自东方辉针城。
-
 ## 其他资料
 
 ### 乐理资讯
 
 #### 使用乐器
+
 - SD-90 St.Slow Str
 - SD-90 St.Sm Choir
 - SD-90 Romantic Tp
@@ -124,34 +108,33 @@ Reverse Ideology（曲目） - 由 ZUN 创作的官方曲目，原名 リバー�
 
 ### 分析考据
   
- **リバースイデオロギー**  Reverse Ideology
+**リバースイデオロギー** Reverse Ideology
   
 
-- リバース（Reverse）
-  - 逆转、逆反。
+- リバース（Reverse） 
+  - 逆转、逆反。 
     - [鬼人正邪](./鬼人正邪.md)拥有「让任何事物都翻转过来程度的能力」。
 
 
-- イデオロギー（Ideology）
-  - 主义、思想。
-    - [辉针城](./辉针城.md)设定中提及，[鬼人正邪](./鬼人正邪.md)的野心即颠覆[幻想乡](./幻想乡.md)，转变为弱者统治强者的世界。
+
+
+- イデオロギー（Ideology） 
+  - 主义、思想。 
+    - [辉针城](./东方辉针城.md)设定中提及，[鬼人正邪](./鬼人正邪.md)的野心即颠覆[幻想乡](./幻想乡.md)，转变为弱者统治强者的世界。
+
+
+
 
 
 
 ```
-而她的野心就是把幻想乡整个翻转过来。
-毁掉如今这个由强者稳定支配的幻想乡，
-把这里变成一个由弱者说了算的世界。
-```
+而她的野心就是把幻想乡整个翻转过来。 毁掉如今这个由强者稳定支配的幻想乡， 把这里变成一个由弱者说了算的世界。 ```
 
-- 《旧约酒馆》中本曲目名下的故事着重描写价值观的颠倒。  
-  
 
+- 《旧约酒馆》中本曲目名下的故事着重描写价值观的颠倒。
 
   
- *对于更多在旧约酒馆专辑中的该曲考据以及附带故事相关信息，可参见旧约酒馆专辑的[附带故事](./旧约酒馆-附带故事.md)与[分析考据](./旧约酒馆-分析考据.md)页面。* 
-  
-
+*对于更多在旧约酒馆专辑中的该曲考据以及附带故事相关信息，可参见旧约酒馆专辑的[附带故事](./旧约酒馆-附带故事.md)与[分析考据](./旧约酒馆-分析考据.md)页面。*  
 
 ### 二次同人数据
 
@@ -165,17 +148,6 @@ Reverse Ideology（曲目） - 由 ZUN 创作的官方曲目，原名 リバー�
 <tr><td>Arrange</td><td>376</td></tr>
 <tr><td>Vocal率</td><td>40.22%</td></tr>
 </tbody></table>
-
-
-
-
-  
-  
-
-  
-
-
-
 
 
 ---

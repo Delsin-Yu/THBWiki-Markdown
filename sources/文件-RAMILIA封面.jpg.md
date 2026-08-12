@@ -1,6 +1,6 @@
 # 文件:RAMILIA封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\24\ns6%3ARAMILIA%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\24\ns6%3ARAMILIA%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 大外刈り | 封面图片
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [RAMILIA](./RAMILIA.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [RAMILIA](./RAMILIA.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
   
-[Pixiv artwork ID: 59417461 (original size)](https://www.pixiv.net/artworks/59417461)
-  
-
-
-
-
+[Pixiv artwork ID: 59417461 (original size)](https://www.pixiv.net/artworks/59417461)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:s-TOHO_RemixPack_vol.1_紅魔郷編封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c5\ns6%3As-TOHO_RemixPack_vol%2E1_%E7%B4%85%E9%AD%94%E9%83%B7%E7%B7%A8%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c5\ns6%3As-TOHO_RemixPack_vol%2E1_%E7%B4%85%E9%AD%94%E9%83%B7%E7%B7%A8%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Defiant_Groovings | 专辑封面 | 封面图片
 
@@ -10,11 +10,9 @@ Defiant_Groovings | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [s-TOHO RemixPack vol.1 紅魔郷編](./s-TOHO_RemixPack_vol.1_紅魔郷編.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
-
-
-
+- [s-TOHO RemixPack vol.1 紅魔郷編](./s-TOHO_RemixPack_vol.1_紅魔郷編.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
 
 ---

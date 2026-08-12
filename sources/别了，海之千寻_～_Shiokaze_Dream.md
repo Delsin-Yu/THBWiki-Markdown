@@ -1,30 +1,22 @@
 # 别了，海之千寻_～_Shiokaze_Dream
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\1\1f\ns0%3A%E5%88%AB%E4%BA%86%EF%BC%8C%E6%B5%B7%E4%B9%8B%E5%8D%83%E5%AF%BB_%EF%BD%9E_Shiokaze_Dream.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\1\1f\ns0%3A%E5%88%AB%E4%BA%86%EF%BC%8C%E6%B5%B7%E4%B9%8B%E5%8D%83%E5%AF%BB_%EF%BD%9E_Shiokaze_Dream.html -->
 
 由 Wanwan 创作的东方风自作曲，原名 海の千尋よさようなら　～ Shiokaze Dream
 
 本页是关于东方Project  
- **东方风自作曲** 的词条
-
+**东方风自作曲**的词条
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 出现作品](#出现作品)
 - [3 说明文本](#说明文本)
-
   - [3.1 东方桃源宫](#东方桃源宫)
 
 
-
 - [4 其他资料](#其他资料)
-
   - [4.1 乐理资讯](#乐理资讯)
   - [4.2 分析考据](#分析考据)
-
-
-
-
 
 
 
@@ -34,7 +26,6 @@
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">海の千尋よさようなら　～ Shiokaze Dream</td></tr><tr><td><b>译名</b></td><td>别了，海之千寻 ～ Shiokaze Dream</td></tr><tr><td><b>作曲</b></td><td><a href="./Wanwan.md" title="Wanwan">Wanwan</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>再编</td></tr><tr><td style="padding-left:15px"><b>原曲</b></td><td><a href="./向着被关闭之门的另一侧.md" title="向着被关闭之门的另一侧" unred="">閉ざされた扉の向こうへ</a></td></tr><tr><td style="padding-left:15px"><b>　来源</b></td><td>东方桃源宫　～ Riverbed Soul Saver.</td></tr></tbody></table>
 
 别了，海之千寻 ～ Shiokaze Dream（曲目） - 由 Wanwan 创作的东方风自作曲，原名 海の千尋よさようなら　～ Shiokaze Dream
-
 ## 出现作品
 
 <table>
@@ -42,15 +33,14 @@
 </tbody></table>
 
 
-
 ## 说明文本
 
 ### 东方桃源宫
-- Music Room (未找到链接)
+
+- [Music Room](./東方桃源宮_～_Riverbed_Soul_Saver.-音乐.md#STAFF画面曲)
 
   
 职员表的主题曲。  
-
   
   
 标题画面曲的另一版本。  
@@ -58,18 +48,13 @@
 寻原来也是水深的单位，这种事我还是第一次知道。  
 
 这样说来千寻也就是很深很深的意思了。  
-
   
-
 
 ## 其他资料
 
 ### 乐理资讯
 
 ### 分析考据
-
-
-
 
 ---
 

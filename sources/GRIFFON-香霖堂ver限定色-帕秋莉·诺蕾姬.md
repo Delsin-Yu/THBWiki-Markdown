@@ -1,37 +1,21 @@
 # GRIFFON/香霖堂ver限定色/帕秋莉·诺蕾姬
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\46\ns0%3AGRIFFON%2F%E9%A6%99%E9%9C%96%E5%A0%82ver%E9%99%90%E5%AE%9A%E8%89%B2%2F%E5%B8%95%E7%A7%8B%E8%8E%89%C2%B7%E8%AF%BA%E8%95%BE%E5%A7%AC.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\46\ns0%3AGRIFFON%2F%E9%A6%99%E9%9C%96%E5%A0%82ver%E9%99%90%E5%AE%9A%E8%89%B2%2F%E5%B8%95%E7%A7%8B%E8%8E%89%C2%B7%E8%AF%BA%E8%95%BE%E5%A7%AC.html -->
 
 帕秋莉·诺蕾姬PVCFigure手办模型
 
 本页是关于东方Project  
- **相关实体周边 (未找到链接)** 的词条
-
+**相关实体周边 (未找到链接)**的词条
 ## 模型信息
 
-<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 帕秋莉·诺蕾姬 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>香霖堂ver限定色</td></tr><tr><td class="label">角色</td><td><a href="./帕秋莉·诺蕾姬.md" title="帕秋莉·诺蕾姬">帕秋莉·诺蕾姬</a></td></tr><tr><td class="label">原型师</td><td><a href="/index.php?title=I-con&amp;action=edit&amp;redlink=1" class="new" title="I-con（页面不存在）">I-con</a></td></tr><tr><td class="label">比例</td><td>1/8</td></tr><tr><td class="label">尺寸</td><td>175mm</td></tr><tr><td class="label">状态</td><td>已发售</td></tr><tr><td class="label">展会限定</td><td>第九回 博丽神社例大祭，Wonder Festival-2015冬</td></tr><tr><td class="label">售价</td><td>7000日元</td></tr><tr><td class="label">首发日期</td><td>2012-05-27</td></tr><tr><td class="label">发售方</td><td><a href="/index.php?title=GRIFFON&amp;action=edit&amp;redlink=1" class="new" title="GRIFFON（页面不存在）">GRIFFON</a></td></tr><tr><td class="label">再版日期</td><td>2014-11-24，2015-02-08</td></tr><tr><td class="label">官网页面</td><td><a rel="nofollow" class="external free" href="http://www.griffon.co.jp/toho/">http://www.griffon.co.jp/toho/</a></td></tr><tr><td class="label">备注</td><td>限定300体</td></tr></tbody></table>
+<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 帕秋莉·诺蕾姬 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>香霖堂ver限定色</td></tr><tr><td class="label">角色</td><td><a href="./帕秋莉·诺蕾姬.md" title="帕秋莉·诺蕾姬">帕秋莉·诺蕾姬</a></td></tr><tr><td class="label">原型师</td><td><a class="new" title="I-con（页面不存在）">I-con</a></td></tr><tr><td class="label">比例</td><td>1/8</td></tr><tr><td class="label">尺寸</td><td>175mm</td></tr><tr><td class="label">状态</td><td>已发售</td></tr><tr><td class="label">展会限定</td><td>第九回 博丽神社例大祭，Wonder Festival-2015冬</td></tr><tr><td class="label">售价</td><td>7000日元</td></tr><tr><td class="label">首发日期</td><td>2012-05-27</td></tr><tr><td class="label">发售方</td><td><a class="new" title="GRIFFON（页面不存在）">GRIFFON</a></td></tr><tr><td class="label">再版日期</td><td>2014-11-24，2015-02-08</td></tr><tr><td class="label">官网页面</td><td><a rel="nofollow" class="external free" href="http://www.griffon.co.jp/toho/">http://www.griffon.co.jp/toho/</a></td></tr><tr><td class="label">备注</td><td>限定300体</td></tr></tbody></table>
 
 GRIFFON/香霖堂ver限定色/帕秋莉·诺蕾姬（周边） - 帕秋莉·诺蕾姬PVCFigure手办模型
-
 ## 参考图片
-
-
-
-[](./文件-GRIFFON香霖堂ver限定色帕秋莉·诺蕾姬-1.jpg.md)
-
-
-[](./文件-GRIFFON香霖堂ver限定色帕秋莉·诺蕾姬-2.jpg.md)
-
-
-[](./文件-GRIFFON香霖堂ver限定色帕秋莉·诺蕾姬-3.jpg.md)
-
+<img alt="GRIFFON香霖堂ver限定色帕秋莉·诺蕾姬" src="https://upload.thwiki.cc/thumb/1/17/GRIFFON%E9%A6%99%E9%9C%96%E5%A0%82ver%E9%99%90%E5%AE%9A%E8%89%B2%E5%B8%95%E7%A7%8B%E8%8E%89%C2%B7%E8%AF%BA%E8%95%BE%E5%A7%AC-1.jpg/160px-GRIFFON%E9%A6%99%E9%9C%96%E5%A0%82ver%E9%99%90%E5%AE%9A%E8%89%B2%E5%B8%95%E7%A7%8B%E8%8E%89%C2%B7%E8%AF%BA%E8%95%BE%E5%A7%AC-1.jpg" decoding="async" loading="lazy" width="160" height="234" srcset="https://upload.thwiki.cc/thumb/1/17/GRIFFON%E9%A6%99%E9%9C%96%E5%A0%82ver%E9%99%90%E5%AE%9A%E8%89%B2%E5%B8%95%E7%A7%8B%E8%8E%89%C2%B7%E8%AF%BA%E8%95%BE%E5%A7%AC-1.jpg/240px-GRIFFON%E9%A6%99%E9%9C%96%E5%A0%82ver%E9%99%90%E5%AE%9A%E8%89%B2%E5%B8%95%E7%A7%8B%E8%8E%89%C2%B7%E8%AF%BA%E8%95%BE%E5%A7%AC-1.jpg 1.5x, https://upload.thwiki.cc/thumb/1/17/GRIFFON%E9%A6%99%E9%9C%96%E5%A0%82ver%E9%99%90%E5%AE%9A%E8%89%B2%E5%B8%95%E7%A7%8B%E8%8E%89%C2%B7%E8%AF%BA%E8%95%BE%E5%A7%AC-1.jpg/320px-GRIFFON%E9%A6%99%E9%9C%96%E5%A0%82ver%E9%99%90%E5%AE%9A%E8%89%B2%E5%B8%95%E7%A7%8B%E8%8E%89%C2%B7%E8%AF%BA%E8%95%BE%E5%A7%AC-1.jpg 2x" data-file-width="432" data-file-height="633">
+<img alt="GRIFFON香霖堂ver限定色帕秋莉·诺蕾姬" src="https://upload.thwiki.cc/thumb/b/b2/GRIFFON%E9%A6%99%E9%9C%96%E5%A0%82ver%E9%99%90%E5%AE%9A%E8%89%B2%E5%B8%95%E7%A7%8B%E8%8E%89%C2%B7%E8%AF%BA%E8%95%BE%E5%A7%AC-2.jpg/160px-GRIFFON%E9%A6%99%E9%9C%96%E5%A0%82ver%E9%99%90%E5%AE%9A%E8%89%B2%E5%B8%95%E7%A7%8B%E8%8E%89%C2%B7%E8%AF%BA%E8%95%BE%E5%A7%AC-2.jpg" decoding="async" loading="lazy" width="160" height="234" srcset="https://upload.thwiki.cc/thumb/b/b2/GRIFFON%E9%A6%99%E9%9C%96%E5%A0%82ver%E9%99%90%E5%AE%9A%E8%89%B2%E5%B8%95%E7%A7%8B%E8%8E%89%C2%B7%E8%AF%BA%E8%95%BE%E5%A7%AC-2.jpg/240px-GRIFFON%E9%A6%99%E9%9C%96%E5%A0%82ver%E9%99%90%E5%AE%9A%E8%89%B2%E5%B8%95%E7%A7%8B%E8%8E%89%C2%B7%E8%AF%BA%E8%95%BE%E5%A7%AC-2.jpg 1.5x, https://upload.thwiki.cc/thumb/b/b2/GRIFFON%E9%A6%99%E9%9C%96%E5%A0%82ver%E9%99%90%E5%AE%9A%E8%89%B2%E5%B8%95%E7%A7%8B%E8%8E%89%C2%B7%E8%AF%BA%E8%95%BE%E5%A7%AC-2.jpg/320px-GRIFFON%E9%A6%99%E9%9C%96%E5%A0%82ver%E9%99%90%E5%AE%9A%E8%89%B2%E5%B8%95%E7%A7%8B%E8%8E%89%C2%B7%E8%AF%BA%E8%95%BE%E5%A7%AC-2.jpg 2x" data-file-width="432" data-file-height="633">
+<img alt="GRIFFON香霖堂ver限定色帕秋莉·诺蕾姬" src="https://upload.thwiki.cc/thumb/4/48/GRIFFON%E9%A6%99%E9%9C%96%E5%A0%82ver%E9%99%90%E5%AE%9A%E8%89%B2%E5%B8%95%E7%A7%8B%E8%8E%89%C2%B7%E8%AF%BA%E8%95%BE%E5%A7%AC-3.jpg/165px-GRIFFON%E9%A6%99%E9%9C%96%E5%A0%82ver%E9%99%90%E5%AE%9A%E8%89%B2%E5%B8%95%E7%A7%8B%E8%8E%89%C2%B7%E8%AF%BA%E8%95%BE%E5%A7%AC-3.jpg" decoding="async" loading="lazy" width="165" height="233" srcset="https://upload.thwiki.cc/thumb/4/48/GRIFFON%E9%A6%99%E9%9C%96%E5%A0%82ver%E9%99%90%E5%AE%9A%E8%89%B2%E5%B8%95%E7%A7%8B%E8%8E%89%C2%B7%E8%AF%BA%E8%95%BE%E5%A7%AC-3.jpg/248px-GRIFFON%E9%A6%99%E9%9C%96%E5%A0%82ver%E9%99%90%E5%AE%9A%E8%89%B2%E5%B8%95%E7%A7%8B%E8%8E%89%C2%B7%E8%AF%BA%E8%95%BE%E5%A7%AC-3.jpg 1.5x, https://upload.thwiki.cc/thumb/4/48/GRIFFON%E9%A6%99%E9%9C%96%E5%A0%82ver%E9%99%90%E5%AE%9A%E8%89%B2%E5%B8%95%E7%A7%8B%E8%8E%89%C2%B7%E8%AF%BA%E8%95%BE%E5%A7%AC-3.jpg/330px-GRIFFON%E9%A6%99%E9%9C%96%E5%A0%82ver%E9%99%90%E5%AE%9A%E8%89%B2%E5%B8%95%E7%A7%8B%E8%8E%89%C2%B7%E8%AF%BA%E8%95%BE%E5%A7%AC-3.jpg 2x" data-file-width="447" data-file-height="632">
 公式图
-
-
-
-
-
-
 
 ---
 

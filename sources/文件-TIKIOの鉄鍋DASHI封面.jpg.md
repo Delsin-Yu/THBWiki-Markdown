@@ -1,6 +1,6 @@
 # 文件:TIKIOの鉄鍋DASHI封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\ff\ns6%3ATIKIO%E3%81%AE%E9%89%84%E9%8D%8BDASHI%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\ff\ns6%3ATIKIO%E3%81%AE%E9%89%84%E9%8D%8BDASHI%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 skyful | 同人志封面 | 封面图片
 
@@ -10,11 +10,15 @@ skyful | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [TIKIOの鉄鍋DASHI](./TIKIOの鉄鍋DASHI.md)  
-该封面包含的角色：- [露米娅](./露米娅.md)- [琪露诺](./琪露诺.md)- [琪斯美](./琪斯美.md)- [蕾蒂·霍瓦特洛克](./蕾蒂·霍瓦特洛克.md)- [西行寺幽幽子](./西行寺幽幽子.md)- [莉格露·奈特巴格](./莉格露·奈特巴格.md)- [秋静叶](./秋静叶.md)- [秋穰子](./秋穰子.md)
-
-
-
+- [TIKIOの鉄鍋DASHI](./TIKIOの鉄鍋DASHI.md)该封面包含的角色：
+- [露米娅](./露米娅.md)
+- [琪露诺](./琪露诺.md)
+- [琪斯美](./琪斯美.md)
+- [蕾蒂·霍瓦特洛克](./蕾蒂·霍瓦特洛克.md)
+- [西行寺幽幽子](./西行寺幽幽子.md)
+- [莉格露·奈特巴格](./莉格露·奈特巴格.md)
+- [秋静叶](./秋静叶.md)
+- [秋穰子](./秋穰子.md)
 
 
 ---

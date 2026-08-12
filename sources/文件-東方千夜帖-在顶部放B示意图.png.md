@@ -1,16 +1,12 @@
 # 文件:東方千夜帖-在顶部放B示意图.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\92\ns6%3A%E6%9D%B1%E6%96%B9%E5%8D%83%E5%A4%9C%E5%B8%96-%E5%9C%A8%E9%A1%B6%E9%83%A8%E6%94%BEB%E7%A4%BA%E6%84%8F%E5%9B%BE%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\92\ns6%3A%E6%9D%B1%E6%96%B9%E5%8D%83%E5%A4%9C%E5%B8%96-%E5%9C%A8%E9%A1%B6%E9%83%A8%E6%94%BEB%E7%A4%BA%E6%84%8F%E5%9B%BE%2Epng.html -->
 
 サラダ
 
   
 在顶部放b
   
-
-
-
-
 
 ---
 

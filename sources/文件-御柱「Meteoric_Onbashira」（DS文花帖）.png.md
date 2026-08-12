@@ -1,12 +1,8 @@
 # 文件:御柱「Meteoric_Onbashira」（DS文花帖）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\23\ns6%3A%E5%BE%A1%E6%9F%B1%E3%80%8CMeteoric_Onbashira%E3%80%8D%EF%BC%88DS%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\23\ns6%3A%E5%BE%A1%E6%9F%B1%E3%80%8CMeteoric_Onbashira%E3%80%8D%EF%BC%88DS%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Epng.html -->
 
 东方文花帖DS | 八坂神奈子 | 敌机符卡
-
-
-
-
 
 
 ---

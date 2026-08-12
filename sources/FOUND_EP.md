@@ -1,12 +1,11 @@
 # FOUND_EP
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\0f\ns0%3AFOUND_EP.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\0f\ns0%3AFOUND_EP.html -->
 
 2020年1月7日 由 求める者  发布的EP同人专辑，曲目主要风格是 Rock，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人专辑 (未找到链接)** 的词条
-
+**[二次创作同人专辑](./二次创作.md#同人音乐)**的词条
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-FOUND_EP封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/4/48/FOUND_EP%E5%B0%81%E9%9D%A2.jpg/252px-FOUND_EP%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="252" height="252" srcset="https://upload.thwiki.cc/thumb/4/48/FOUND_EP%E5%B0%81%E9%9D%A2.jpg/378px-FOUND_EP%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/4/48/FOUND_EP%E5%B0%81%E9%9D%A2.jpg/504px-FOUND_EP%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1200" data-file-height="1200"></a></td>
@@ -15,70 +14,53 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://motomerumono.bandcamp.com/album/found-ep">https://motomerumono.bandcamp.com/album/found-ep</a></td></tr></tbody></table>
 
 FOUND EP（同人专辑，求める者，2020） - 2020年1月7日 由 求める者  发布的EP同人专辑，曲目主要风格是 Rock，分级为 一般向
-
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://motomerumono.bandcamp.com/album/found-ep">bandcamp</a></td></tr></tbody></table>
-
 
 
 ## Staff
   
- **Arrangement**   
+**Arrangement**  
 
-<table><tbody><tr><td><a href="/index.php?title=%E8%BF%B7%E3%81%84%E3%81%AE%E3%82%A6%E3%82%A7&amp;action=edit&amp;redlink=1" class="new" title="迷いのウェ（页面不存在）">迷いのウェ</a></td><td><a href="./求める者.md" title="求める者">求める者</a></td><td>Tr.1/2</td></tr></tbody></table>
-
-  
- **Vocal**   
-
-<table><tbody><tr><td><a href="/index.php?title=%E8%BF%B7%E3%81%84%E3%81%AE%E3%82%A6%E3%82%A7&amp;action=edit&amp;redlink=1" class="new" title="迷いのウェ（页面不存在）">迷いのウェ</a></td><td><a href="./求める者.md" title="求める者">求める者</a></td><td>Tr.1</td></tr></tbody></table>
+<table><tbody><tr><td><a class="new" title="迷いのウェ（页面不存在）">迷いのウェ</a></td><td><a href="./求める者.md" title="求める者">求める者</a></td><td>Tr.1/2</td></tr></tbody></table>
 
   
- **Lyrics**   
+**Vocal**  
 
-<table><tbody><tr><td><a href="/index.php?title=%E8%BF%B7%E3%81%84%E3%81%AE%E3%82%A6%E3%82%A7&amp;action=edit&amp;redlink=1" class="new" title="迷いのウェ（页面不存在）">迷いのウェ</a></td><td><a href="./求める者.md" title="求める者">求める者</a></td><td>Tr.1</td></tr></tbody></table>
+<table><tbody><tr><td><a class="new" title="迷いのウェ（页面不存在）">迷いのウェ</a></td><td><a href="./求める者.md" title="求める者">求める者</a></td><td>Tr.1</td></tr></tbody></table>
 
   
- **Instrument**   
+**Lyrics**  
 
-<table><tbody><tr><td><a href="/index.php?title=%E8%BF%B7%E3%81%84%E3%81%AE%E3%82%A6%E3%82%A7&amp;action=edit&amp;redlink=1" class="new" title="迷いのウェ（页面不存在）">迷いのウェ</a></td><td><a href="./求める者.md" title="求める者">求める者</a></td><td>Tr.1/2</td></tr></tbody></table>
+<table><tbody><tr><td><a class="new" title="迷いのウェ（页面不存在）">迷いのウェ</a></td><td><a href="./求める者.md" title="求める者">求める者</a></td><td>Tr.1</td></tr></tbody></table>
 
+  
+**Instrument**  
+
+<table><tbody><tr><td><a class="new" title="迷いのウェ（页面不存在）">迷いのウェ</a></td><td><a href="./求める者.md" title="求める者">求める者</a></td><td>Tr.1/2</td></tr></tbody></table>
 
 Drum Programming, Mixing, Cover Art
 : 迷いのウェ
 
-
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoRD"><b>01</b></td><td id="wither_(自分ノ影ノ欠片)" colspan="2" class="title"><a href="./歌词-wither_(自分ノ影ノ欠片).md" title="歌词:wither (自分ノ影ノ欠片)">wither (自分ノ影ノ欠片)</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=迷いのウェ&amp;vocal=迷いのウェ&amp;lyric=迷いのウェ&amp;ogmusic=フォールオブフォール　～ 秋めく滝&amp;fromwiki=FOUND_EP"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:11</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E8%BF%B7%E3%81%84%E3%81%AE%E3%82%A6%E3%82%A7&amp;action=edit&amp;redlink=1" class="new" title="迷いのウェ（页面不存在）">迷いのウェ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，迷いのウェ&amp;fromwiki=FOUND_EP"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="/index.php?title=%E8%BF%B7%E3%81%84%E3%81%AE%E3%82%A6%E3%82%A7&amp;action=edit&amp;redlink=1" class="new" title="迷いのウェ（页面不存在）">迷いのウェ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=迷いのウェ&amp;fromwiki=FOUND_EP"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="/index.php?title=%E8%BF%B7%E3%81%84%E3%81%AE%E3%82%A6%E3%82%A7&amp;action=edit&amp;redlink=1" class="new" title="迷いのウェ（页面不存在）">迷いのウェ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?lyric=迷いのウェ&amp;fromwiki=FOUND_EP"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演奏</td><td class="text" colspan="2">Guitar：迷いのウェ <br>Bass：迷いのウェ</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=フォールオブフォール　～ 秋めく滝&amp;fromwiki=FOUND_EP"><span></span></a></span><div class="ogmusic"><a href="./フォールオブフォール_～_秋めく滝.md" class="mw-redirect" title="フォールオブフォール ～ 秋めく滝">フォールオブフォール　～ 秋めく滝</a></div><div class="source"><a href="./东方风神录_～_Mountain_of_Faith..md" class="mw-redirect" title="东方风神录 ～ Mountain of Faith.">东方风神录　～ Mountain of Faith.</a></div></td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">君が好きだ。
+<table><tbody><tr><td id="1" class="infoRD"><b>01</b></td><td id="wither_(自分ノ影ノ欠片)" colspan="2" class="title"><a href="./歌词-wither_(自分ノ影ノ欠片).md" title="歌词:wither (自分ノ影ノ欠片)">wither (自分ノ影ノ欠片)</a></td><td class="time">03:11</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="迷いのウェ（页面不存在）">迷いのウェ</a></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a class="new" title="迷いのウェ（页面不存在）">迷いのウェ</a></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a class="new" title="迷いのウェ（页面不存在）">迷いのウェ</a></td></tr><tr><td class="left"></td><td class="label">演奏</td><td class="text" colspan="2">Guitar：迷いのウェ <br>Bass：迷いのウェ</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./Fall_of_Fall_～_秋意渐浓之瀑.md" class="mw-redirect" title="フォールオブフォール ～ 秋めく滝">フォールオブフォール　～ 秋めく滝</a></div><div class="source"><a href="./东方风神录.md" class="mw-redirect" title="东方风神录 ～ Mountain of Faith.">东方风神录　～ Mountain of Faith.</a></div></td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">君が好きだ。
 <p>本当に、何よりも、好きだ。
 それでも、僕らの生き方が違う。違いすぎる。
 それだけだ。
 「自分の人生は自分で決めさせてよ」
 </p>
 自分の意志は、見つけた。</td></tr>
-<tr><td id="2" class="infoYD"><b>02</b></td><td id="海ノ底マデ_(I_Will_Find_You_Again)" colspan="2" class="title">海ノ底マデ (I Will Find You Again)<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=迷いのウェ&amp;ogmusic=53ミニッツの青い海&amp;fromwiki=FOUND_EP"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:52</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E8%BF%B7%E3%81%84%E3%81%AE%E3%82%A6%E3%82%A7&amp;action=edit&amp;redlink=1" class="new" title="迷いのウェ（页面不存在）">迷いのウェ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，迷いのウェ&amp;fromwiki=FOUND_EP"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演奏</td><td class="text" colspan="2">Guitar：迷いのウェ <br>Bass：迷いのウェ</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=53ミニッツの青い海&amp;fromwiki=FOUND_EP"><span></span></a></span><div class="ogmusic"><a href="./53ミニッツの青い海.md" class="mw-redirect" title="53ミニッツの青い海">53ミニッツの青い海</a></div><div class="source"><a href="./卯酉东海道_～_Retrospective_53_minutes.md" class="mw-redirect" title="卯酉东海道 ～ Retrospective 53 minutes">卯酉东海道　～ Retrospective 53 minutes</a></div></td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">いつか、また、必ず見つけるよ。
+<tr><td id="2" class="infoYD"><b>02</b></td><td id="海ノ底マデ_(I_Will_Find_You_Again)" colspan="2" class="title">海ノ底マデ (I Will Find You Again)</td><td class="time">03:52</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="迷いのウェ（页面不存在）">迷いのウェ</a></td></tr><tr><td class="left"></td><td class="label">演奏</td><td class="text" colspan="2">Guitar：迷いのウェ <br>Bass：迷いのウェ</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./53分钟的蓝色大海.md" class="mw-redirect" title="53ミニッツの青い海">53ミニッツの青い海</a></div><div class="source"><a href="./卯酉东海道.md" class="mw-redirect" title="卯酉东海道 ～ Retrospective 53 minutes">卯酉东海道　～ Retrospective 53 minutes</a></div></td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">いつか、また、必ず見つけるよ。
 <p>貴女を見つけ引き出す。どんなに深く落ちても。
 誓ってやる。
 </p>
 ―宣言―</td></tr></tbody></table>
 
 
-
 ## 评论
+
 ```
-見つけた。
-ようやく、何年も探して、見つけた。
-…そして、気づいた。
-…これは、俺の求めた物ではない…
-…なんだ、こりゃ…
-…ふざけんな…
-
-「見つけた」をテーマとして作り頑張ったものです
-ダウンロードしたらオフボーカルもある
-```
-
-
-
-
+見つけた。 ようやく、何年も探して、見つけた。 …そして、気づいた。 …これは、俺の求めた物ではない… …なんだ、こりゃ… …ふざけんな… 「見つけた」をテーマとして作り頑張ったものです ダウンロードしたらオフボーカルもある ```
 
 
 ---

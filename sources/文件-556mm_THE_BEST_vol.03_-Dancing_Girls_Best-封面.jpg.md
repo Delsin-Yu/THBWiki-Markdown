@@ -1,6 +1,6 @@
 # 文件:556mm_THE_BEST_vol.03_-Dancing_Girls_Best-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a0\ns6%3A556mm_THE_BEST_vol%2E03_-Dancing_Girls_Best-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a0\ns6%3A556mm_THE_BEST_vol%2E03_-Dancing_Girls_Best-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 556ミリメートル | 专辑封面 | 封面图片
 
@@ -8,11 +8,14 @@
 使用了本文件作封面图片的作品：
   
 
-- [556mm THE BEST vol.03 -Dancing Girls Best-](./556mm_THE_BEST_vol.03_-Dancing_Girls_Best-.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [西行寺幽幽子](./西行寺幽幽子.md)- [八云紫](./八云紫.md)- [东风谷早苗](./东风谷早苗.md)- [圣白莲](./圣白莲.md)- [封兽鵺](./封兽鵺.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [556mm THE BEST vol.03 -Dancing Girls Best-](./556mm_THE_BEST_vol.03_-Dancing_Girls_Best-.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [西行寺幽幽子](./西行寺幽幽子.md)
+- [八云紫](./八云紫.md)
+- [东风谷早苗](./东风谷早苗.md)
+- [圣白莲](./圣白莲.md)
+- [封兽鵺](./封兽鵺.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

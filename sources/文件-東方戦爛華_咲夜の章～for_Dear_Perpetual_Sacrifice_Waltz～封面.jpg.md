@@ -1,6 +1,6 @@
 # 文件:東方戦爛華_咲夜の章～for_Dear_Perpetual_Sacrifice_Waltz～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\18\ns6%3A%E6%9D%B1%E6%96%B9%E6%88%A6%E7%88%9B%E8%8F%AF_%E5%92%B2%E5%A4%9C%E3%81%AE%E7%AB%A0%EF%BD%9Efor_Dear_Perpetual_Sacrifice_Waltz%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\18\ns6%3A%E6%9D%B1%E6%96%B9%E6%88%A6%E7%88%9B%E8%8F%AF_%E5%92%B2%E5%A4%9C%E3%81%AE%E7%AB%A0%EF%BD%9Efor_Dear_Perpetual_Sacrifice_Waltz%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 TravelFrontier | 封面图片 | 软件封面
 
@@ -8,16 +8,12 @@ TravelFrontier | 封面图片 | 软件封面
 使用了本文件作封面图片的作品：
   
 
-- [東方戦爛華 咲夜の章～for Dear Perpetual Sacrifice Waltz～](./東方戦爛華_咲夜の章～for_Dear_Perpetual_Sacrifice_Waltz～.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- 十六夜咲夜 (未找到链接)
+- [東方戦爛華 咲夜の章～for Dear Perpetual Sacrifice Waltz～](./東方戦爛華_咲夜の章～for_Dear_Perpetual_Sacrifice_Waltz～.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [十六夜咲夜](./十六夜咲夜.md)
 
   
-源地址：[direct image link](http://blog.cnobi.jp/v1/blog/user/8c1731f85c025e3c1e7b8dc4efdff7f3/1336915773), [source page](http://trafro.blog.shinobi.jp/とみやましろの何か/例大祭までもう少し！)
-  
-
-
-
-
+源地址：[direct image link](http://blog.cnobi.jp/v1/blog/user/8c1731f85c025e3c1e7b8dc4efdff7f3/1336915773), [source page](http://trafro.blog.shinobi.jp/とみやましろの何か/例大祭までもう少し！)  
 
 ---
 

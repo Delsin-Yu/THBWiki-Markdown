@@ -1,16 +1,11 @@
 # 文件:キャオラッ！banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e0\ns6%3A%E3%82%AD%E3%83%A3%E3%82%AA%E3%83%A9%E3%83%83%EF%BC%81banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e0\ns6%3A%E3%82%AD%E3%83%A3%E3%82%AA%E3%83%A9%E3%83%83%EF%BC%81banner%2Egif.html -->
 
 キャオラッ！ | 社团LOGO
 
   
-源地址：[[1]](http://kyaoraltu.web.fc2.com/banner.gif)
-  
-
-
-
-
+源地址：[\[1\]](http://kyaoraltu.web.fc2.com/banner.gif)  
 
 ---
 

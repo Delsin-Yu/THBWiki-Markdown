@@ -1,6 +1,6 @@
 # 文件:BOTTOM'S_LAW_THE_BEAST_COLORS封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f6\ns6%3ABOTTOM%27S_LAW_THE_BEAST_COLORS%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f6\ns6%3ABOTTOM%27S_LAW_THE_BEAST_COLORS%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 繁茂区
 
@@ -10,11 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [BOTTOM'S LAW THE BEAST COLORS](./BOTTOM'S_LAW_THE_BEAST_COLORS.md)  
-该封面包含的角色：- [骊驹早鬼](./骊驹早鬼.md)- [吉吊八千慧](./吉吊八千慧.md)- [杖刀偶磨弓](./杖刀偶磨弓.md)- [饕餮尤魔](./饕餮尤魔.md)
-
-
-
+- [BOTTOM'S LAW THE BEAST COLORS](./BOTTOM'S_LAW_THE_BEAST_COLORS.md)该封面包含的角色：
+- [骊驹早鬼](./骊驹早鬼.md)
+- [吉吊八千慧](./吉吊八千慧.md)
+- [杖刀偶磨弓](./杖刀偶磨弓.md)
+- [饕餮尤魔](./饕餮尤魔.md)
 
 
 ---

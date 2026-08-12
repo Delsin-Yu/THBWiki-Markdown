@@ -1,6 +1,6 @@
 # 文件:Touhou_Colours：Amethyst封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\21\ns6%3ATouhou_Colours%EF%BC%9AAmethyst%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\21\ns6%3ATouhou_Colours%EF%BC%9AAmethyst%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Chroma_Sounds | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ Chroma_Sounds | 专辑封面 | 封面图片
   
 
 - [Touhou Colours：Amethyst](./Touhou_Colours：Amethyst.md)
-
-
-
 
 
 ---

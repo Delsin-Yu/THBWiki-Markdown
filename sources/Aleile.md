@@ -1,11 +1,10 @@
 # Aleile
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\03\ns0%3AAleile.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\03\ns0%3AAleile.html -->
 
 Aleile ，于 2013 年成立，主要制作 同人音乐 的日本同人社团，主催是 Ciela，当前状态为 休止
 
-本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
-
+本页是关于**[同人社团](./二次创作.md#同人社团)**的词条
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -14,36 +13,24 @@ Aleile ，于 2013 年成立，主要制作 同人音乐 的日本同人社团�
 - [4 参展信息](#参展信息)
 
 
-
-
-
 ## 社团信息
-[](./文件-Aleilebanner.png.md)  [](./文件-Aleilebanner.png.md)Logo
-[](./文件-Aleilebanner2.jpg.md)  [](./文件-Aleilebanner2.jpg.md)Banner
-
-<table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Aleile </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2013</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=Ciela&amp;action=edit&amp;redlink=1" class="new" title="Ciela（页面不存在）">Ciela</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="https://aleile.com/">https://aleile.com/</a> </td></tr></tbody></table>
+<img alt="" src="https://upload.thwiki.cc/thumb/f/f0/Aleilebanner.png/200px-Aleilebanner.png" decoding="async" loading="lazy" width="200" height="66" class="thumbimage" srcset="https://upload.thwiki.cc/f/f0/Aleilebanner.png 1.5x" data-file-width="244" data-file-height="80">
+ [放大](./文件-Aleilebanner.png.md)Logo<img alt="" src="https://upload.thwiki.cc/3/37/Aleilebanner2.jpg" decoding="async" loading="lazy" width="200" height="40" class="thumbimage" data-file-width="200" data-file-height="40">
+ [放大](./文件-Aleilebanner2.jpg.md)Banner
+<table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Aleile </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2013</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>主催</b></td><td> <a class="new" title="Ciela（页面不存在）">Ciela</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="https://aleile.com/">https://aleile.com/</a> </td></tr></tbody></table>
 
 Aleile（同人社团，同人音乐社团） - Aleile ，于 2013 年成立，主要制作 同人音乐 的日本同人社团，主催是 Ciela，当前状态为 休止
-
 ## 成员名单
+
 - Ciela (未找到链接)
 
 
 ## 作品列表
-Beauteous Rain 封面图片 (未找到链接)[Beauteous Rain](./Beauteous_Rain.md)首发日期：2008-08-16 （Comic Market 74 (未找到链接)）全长 （一般向）[](./雨上ガリ.md)[雨上ガリ](./雨上ガリ.md)首发日期：2011-03-13 （第八回 博麗神社例大祭 (未找到链接)）MM-15全长、​合作 （一般向）该作品是与 [街角麻婆豆](./街角麻婆豆.md) 合作创作的[](./イヤシノオト.md)[イヤシノオト](./イヤシノオト.md)首发日期：2011-12-30 （Comic Market 81 (未找到链接)）FEAL-0001全长 （一般向）该作品是与 Studio FE (未找到链接) 合作创作的
-<table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
-
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
-
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
-</table>
-
-
+- **[Beauteous Rain](./Beauteous_Rain.md)** — 首发日期：2008-08-16 （Comic Market 74）；全长 （一般向）
+- **[雨上ガリ](./雨上ガリ.md)** — 首发日期：2011-03-13 （第八回 博麗神社例大祭）；MM-15；全长、​合作 （一般向）；该作品是与 街角麻婆豆 合作创作的
+- **[イヤシノオト](./イヤシノオト.md)** — 首发日期：2011-12-30 （Comic Market 81）；FEAL-0001；全长 （一般向）；该作品是与 Studio FE 合作创作的
 
 ## 参展信息
-
-
-
 
 ---
 

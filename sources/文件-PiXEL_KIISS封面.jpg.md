@@ -1,6 +1,6 @@
 # 文件:PiXEL_KIISS封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fd\ns6%3APiXEL_KIISS%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fd\ns6%3APiXEL_KIISS%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 焼菓一心
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [PiXEL KIISS](./PiXEL_KIISS.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [PiXEL KIISS](./PiXEL_KIISS.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

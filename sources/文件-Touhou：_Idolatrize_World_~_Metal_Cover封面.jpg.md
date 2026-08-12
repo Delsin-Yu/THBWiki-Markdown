@@ -1,6 +1,6 @@
 # 文件:Touhou：_Idolatrize_World_~_Metal_Cover封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\86\ns6%3ATouhou%EF%BC%9A_Idolatrize_World_%7E_Metal_Cover%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\86\ns6%3ATouhou%EF%BC%9A_Idolatrize_World_%7E_Metal_Cover%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 YaboiMatoi | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ YaboiMatoi | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Touhou： Idolatrize World ~ Metal Cover](./Touhou：_Idolatrize_World_~_Metal_Cover.md)  
-该封面包含的角色：- [YaboiMatoi](./YaboiMatoi.md)
-
-
-
+- [Touhou： Idolatrize World ~ Metal Cover](./Touhou：_Idolatrize_World_~_Metal_Cover.md)该封面包含的角色：
+- [YaboiMatoi](./YaboiMatoi.md)
 
 
 ---

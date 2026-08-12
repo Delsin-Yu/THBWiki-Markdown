@@ -1,16 +1,12 @@
 # 模板:灭罪寺院Volcano
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\c\cc\ns10%3A%E7%81%AD%E7%BD%AA%E5%AF%BA%E9%99%A2Volcano.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\c\cc\ns10%3A%E7%81%AD%E7%BD%AA%E5%AF%BA%E9%99%A2Volcano.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

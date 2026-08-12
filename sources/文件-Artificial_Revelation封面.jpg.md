@@ -1,6 +1,6 @@
 # 文件:Artificial_Revelation封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1e\ns6%3AArtificial_Revelation%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1e\ns6%3AArtificial_Revelation%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ジェリコの法則 | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Artificial Revelation](./Artificial_Revelation.md)  
-该封面包含的角色：- [姬虫百百世](./姬虫百百世.md)
-
-
-
+- [Artificial Revelation](./Artificial_Revelation.md)该封面包含的角色：
+- [姬虫百百世](./姬虫百百世.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:幽閉樂祭_～春の宴～_LIVE_REC_DVD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\42\ns6%3A%E5%B9%BD%E9%96%89%E6%A8%82%E7%A5%AD_%EF%BD%9E%E6%98%A5%E3%81%AE%E5%AE%B4%EF%BD%9E_LIVE_REC_DVD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\42\ns6%3A%E5%B9%BD%E9%96%89%E6%A8%82%E7%A5%AD_%EF%BD%9E%E6%98%A5%E3%81%AE%E5%AE%B4%EF%BD%9E_LIVE_REC_DVD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 封面图片 | 幽闭星光 | 视频封面
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [幽閉樂祭 ～春の宴～ LIVE REC DVD](./幽閉樂祭_～春の宴～_LIVE_REC_DVD.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [幽閉樂祭 ～春の宴～ LIVE REC DVD](./幽閉樂祭_～春の宴～_LIVE_REC_DVD.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

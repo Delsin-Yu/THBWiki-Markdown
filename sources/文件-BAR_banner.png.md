@@ -1,12 +1,8 @@
 # 文件:BAR_banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\94\ns6%3ABAR_banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\94\ns6%3ABAR_banner%2Epng.html -->
 
 Barrage_Am_Ring | 社团LOGO
-
-
-
-
 
 
 ---

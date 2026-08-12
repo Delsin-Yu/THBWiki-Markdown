@@ -1,6 +1,6 @@
 # 文件:Strange_Bloom封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fe\ns6%3AStrange_Bloom%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fe\ns6%3AStrange_Bloom%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 monoralGrey | 专辑封面 | 封面图片
 
@@ -8,16 +8,12 @@ monoralGrey | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Strange Bloom](./Strange_Bloom.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
+- [Strange Bloom](./Strange_Bloom.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
   
-源地址：[[1]](http://static.tumblr.com/0fb73757c8793446830b66da5a2a0459/ojovqrz/OXcob31m0/tumblr_static_a1prw4fzkogs0c0g4o4swggw8.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://static.tumblr.com/0fb73757c8793446830b66da5a2a0459/ojovqrz/OXcob31m0/tumblr_static_a1prw4fzkogs0c0g4o4swggw8.jpg)  
 
 ---
 

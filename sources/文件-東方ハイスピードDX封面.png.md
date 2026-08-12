@@ -1,6 +1,6 @@
 # 文件:東方ハイスピードDX封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9f\ns6%3A%E6%9D%B1%E6%96%B9%E3%83%8F%E3%82%A4%E3%82%B9%E3%83%94%E3%83%BC%E3%83%89DX%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9f\ns6%3A%E6%9D%B1%E6%96%B9%E3%83%8F%E3%82%A4%E3%82%B9%E3%83%94%E3%83%BC%E3%83%89DX%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 ガネメ | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方ハイスピードDX](./東方ハイスピードDX.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [東方ハイスピードDX](./東方ハイスピードDX.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
   
-源地址：[[1]](http://static.tumblr.com/cff177a26085b6eb0bf7571f2e5130ea/lircoia/4pWo9p33q/tumblr_static_e0tyjwju0z4s8ck0o408o0s0s.png)
-  
-
-
-
-
+源地址：[\[1\]](http://static.tumblr.com/cff177a26085b6eb0bf7571f2e5130ea/lircoia/4pWo9p33q/tumblr_static_e0tyjwju0z4s8ck0o408o0s0s.png)  
 
 ---
 

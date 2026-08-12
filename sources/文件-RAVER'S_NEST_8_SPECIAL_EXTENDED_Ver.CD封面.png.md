@@ -1,6 +1,6 @@
 # 文件:RAVER'S_NEST_8_SPECIAL_EXTENDED_Ver.CD封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\34\ns6%3ARAVER%27S_NEST_8_SPECIAL_EXTENDED_Ver%2ECD%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\34\ns6%3ARAVER%27S_NEST_8_SPECIAL_EXTENDED_Ver%2ECD%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 DiGiTAL_WiNG | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ DiGiTAL_WiNG | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [RAVER'S NEST 8 SPECIAL EXTENDED Ver.CD](./RAVER'S_NEST_8_SPECIAL_EXTENDED_Ver.CD.md)  
-该封面包含的角色：- [古明地觉](./古明地觉.md)
-
-
-
+- [RAVER'S NEST 8 SPECIAL EXTENDED Ver.CD](./RAVER'S_NEST_8_SPECIAL_EXTENDED_Ver.CD.md)该封面包含的角色：
+- [古明地觉](./古明地觉.md)
 
 
 ---

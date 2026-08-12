@@ -1,14 +1,11 @@
 # 文件:The_Grimoire_of_Usami（河城荷取1）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7a\ns6%3AThe_Grimoire_of_Usami%EF%BC%88%E6%B2%B3%E5%9F%8E%E8%8D%B7%E5%8F%961%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7a\ns6%3AThe_Grimoire_of_Usami%EF%BC%88%E6%B2%B3%E5%9F%8E%E8%8D%B7%E5%8F%961%EF%BC%89%2Ejpg.html -->
 
 宇佐见的魔法书 | 河城荷取
 
 
 ## 摘要
-
-
-
 
 ---
 

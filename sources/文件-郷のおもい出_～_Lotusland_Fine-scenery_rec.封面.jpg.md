@@ -1,6 +1,6 @@
 # 文件:郷のおもい出_～_Lotusland_Fine-scenery_rec.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c7\ns6%3A%E9%83%B7%E3%81%AE%E3%81%8A%E3%82%82%E3%81%84%E5%87%BA_%EF%BD%9E_Lotusland_Fine-scenery_rec%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c7\ns6%3A%E9%83%B7%E3%81%AE%E3%81%8A%E3%82%82%E3%81%84%E5%87%BA_%EF%BD%9E_Lotusland_Fine-scenery_rec%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ごんばこんなか | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [郷のおもい出 ～ Lotusland Fine-scenery rec.](./郷のおもい出_～_Lotusland_Fine-scenery_rec..md)  
-该封面包含的角色：- [稗田阿求](./稗田阿求.md)
-
-
-
+- [郷のおもい出 ～ Lotusland Fine-scenery rec.](./郷のおもい出_～_Lotusland_Fine-scenery_rec..md)该封面包含的角色：
+- [稗田阿求](./稗田阿求.md)
 
 
 ---

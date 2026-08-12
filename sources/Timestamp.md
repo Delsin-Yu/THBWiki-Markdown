@@ -1,30 +1,31 @@
 # Timestamp
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\1\1c\ns0%3ATimestamp.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\1\1c\ns0%3ATimestamp.html -->
 
 2022年5月8日 由 下策者宣言 于 博丽神社例大祭19 发布的画集同人志，B5尺寸一共24页，登场人物有 十六夜咲夜，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人志 (未找到链接)** 的词条
-
+**[二次创作同人志](./二次创作.md#同人志)**的词条
 ## 作品信息
 
-<table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Timestamp封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/d/df/Timestamp%E5%B0%81%E9%9D%A2.jpg/158px-Timestamp%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="158" height="224" srcset="https://upload.thwiki.cc/thumb/d/df/Timestamp%E5%B0%81%E9%9D%A2.jpg/238px-Timestamp%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/d/df/Timestamp%E5%B0%81%E9%9D%A2.jpg/317px-Timestamp%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1415" data-file-height="2000"></a><div class="cover-char">角色：<a href="/%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C" title="十六夜咲夜">十六夜咲夜</a></div></td>
-</tr><tr><td class="label">名称</td><td colspan="2"> Timestamp </td></tr><tr><td class="label">制作方</td><td><a href="./下策者宣言.md" title="下策者宣言">下策者宣言</a></td><td class="cover-artwork" rowspan="8" style="min-width:224px;"><a href="./文件-Timestamp封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/d/df/Timestamp%E5%B0%81%E9%9D%A2.jpg/158px-Timestamp%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="158" height="224" srcset="https://upload.thwiki.cc/thumb/d/df/Timestamp%E5%B0%81%E9%9D%A2.jpg/238px-Timestamp%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/d/df/Timestamp%E5%B0%81%E9%9D%A2.jpg/317px-Timestamp%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1415" data-file-height="2000"></a><div class="cover-char">角色：<a href="/%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C" title="十六夜咲夜">十六夜咲夜</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2022-05-08&#160;（<a href="/展会作品列表?e=%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD%2319">第十九回 博麗神社例大祭</a>）</td></tr><tr><td class="label">类型</td><td>画集</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>B5</td></tr><tr><td class="label">页数</td><td>24P</td></tr><tr><td class="label">登场人物</td><td><a href="/%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C" title="十六夜咲夜">十六夜咲夜</a></td></tr><tr><td class="label">售价</td><td>会场售价：1000日元<br>通贩售价：1250日元</td></tr>
+<table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Timestamp封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/d/df/Timestamp%E5%B0%81%E9%9D%A2.jpg/158px-Timestamp%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="158" height="224" srcset="https://upload.thwiki.cc/thumb/d/df/Timestamp%E5%B0%81%E9%9D%A2.jpg/238px-Timestamp%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/d/df/Timestamp%E5%B0%81%E9%9D%A2.jpg/317px-Timestamp%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1415" data-file-height="2000"></a><div class="cover-char">角色：<a href="./十六夜咲夜.md" title="十六夜咲夜">十六夜咲夜</a></div></td>
+</tr><tr><td class="label">名称</td><td colspan="2"> Timestamp </td></tr><tr><td class="label">制作方</td><td><a href="./下策者宣言.md" title="下策者宣言">下策者宣言</a></td><td class="cover-artwork" rowspan="8" style="min-width:224px;"><a href="./文件-Timestamp封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/d/df/Timestamp%E5%B0%81%E9%9D%A2.jpg/158px-Timestamp%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="158" height="224" srcset="https://upload.thwiki.cc/thumb/d/df/Timestamp%E5%B0%81%E9%9D%A2.jpg/238px-Timestamp%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/d/df/Timestamp%E5%B0%81%E9%9D%A2.jpg/317px-Timestamp%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1415" data-file-height="2000"></a><div class="cover-char">角色：<a href="./十六夜咲夜.md" title="十六夜咲夜">十六夜咲夜</a></div></td>
+</tr><tr><td class="label">首发日期</td><td>2022-05-08 （<a href="./展会作品列表.md#19">第十九回 博麗神社例大祭</a>）</td></tr><tr><td class="label">类型</td><td>画集</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>B5</td></tr><tr><td class="label">页数</td><td>24P</td></tr><tr><td class="label">登场人物</td><td><a href="./十六夜咲夜.md" title="十六夜咲夜">十六夜咲夜</a></td></tr><tr><td class="label">售价</td><td>会场售价：1000日元<br>通贩售价：1250日元</td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/98077259">https://www.pixiv.net/artworks/98077259</a></td></tr></tbody></table>
 
 Timestamp（同人志，下策者宣言，2022） - 2022年5月8日 由 下策者宣言 于 博丽神社例大祭19 发布的画集同人志，B5尺寸一共24页，登场人物有 十六夜咲夜，分级为 一般向
-
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=1463192">蜜瓜</a></td></tr></tbody></table>
 
 
-
 ## 预览
-- [](./文件-Timestamp预览图1.jpg.md)- [](./文件-Timestamp预览图2.jpg.md)- [](./文件-Timestamp预览图3.jpg.md)
+
+- <img alt="Timestamp预览图1.jpg" src="https://upload.thwiki.cc/thumb/a/af/Timestamp%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg/265px-Timestamp%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg" decoding="async" loading="lazy" width="177" height="250" srcset="https://upload.thwiki.cc/thumb/a/af/Timestamp%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg/398px-Timestamp%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg 1.5x, https://upload.thwiki.cc/thumb/a/af/Timestamp%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg/531px-Timestamp%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg 2x" data-file-width="637" data-file-height="900"> 
+- <img alt="Timestamp预览图2.jpg" src="https://upload.thwiki.cc/thumb/a/a1/Timestamp%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg/265px-Timestamp%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg" decoding="async" loading="lazy" width="177" height="250" srcset="https://upload.thwiki.cc/thumb/a/a1/Timestamp%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg/398px-Timestamp%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg 1.5x, https://upload.thwiki.cc/thumb/a/a1/Timestamp%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg/531px-Timestamp%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg 2x" data-file-width="637" data-file-height="900"> 
+- <img alt="Timestamp预览图3.jpg" src="https://upload.thwiki.cc/thumb/9/95/Timestamp%E9%A2%84%E8%A7%88%E5%9B%BE3.jpg/265px-Timestamp%E9%A2%84%E8%A7%88%E5%9B%BE3.jpg" decoding="async" loading="lazy" width="177" height="250" srcset="https://upload.thwiki.cc/thumb/9/95/Timestamp%E9%A2%84%E8%A7%88%E5%9B%BE3.jpg/398px-Timestamp%E9%A2%84%E8%A7%88%E5%9B%BE3.jpg 1.5x, https://upload.thwiki.cc/thumb/9/95/Timestamp%E9%A2%84%E8%A7%88%E5%9B%BE3.jpg/531px-Timestamp%E9%A2%84%E8%A7%88%E5%9B%BE3.jpg 2x" data-file-width="637" data-file-height="900"> 
 
 
 ## Staff
+
 - ゆたろう (未找到链接)
 
 
@@ -32,14 +33,6 @@ Timestamp（同人志，下策者宣言，2022） - 2022年5月8日 由 下策�
   
 再録を中心とした、東方二次創作イラスト作品集です。イラストコンテスト応募作品やキャラクター立ち絵集、描きおろしイラスト等を収録しています。いつもどおり、十六夜咲夜多めです。 
   
-  
-  
-
-  
-
-
-
-
 
 ---
 

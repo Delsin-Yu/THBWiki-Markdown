@@ -1,6 +1,6 @@
 # 文件:Blood_Boilin'_Archeosisters封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\aa\ns6%3ABlood_Boilin%27_Archeosisters%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\aa\ns6%3ABlood_Boilin%27_Archeosisters%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 L連.NET | 专辑封面 | 封面图片
 
@@ -8,11 +8,12 @@ L連.NET | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Blood Boilin' Archeosisters](./Blood_Boilin'_Archeosisters.md)  
-该封面包含的角色：- [西行寺幽幽子](./西行寺幽幽子.md)- [八云紫](./八云紫.md)- [八意永琳](./八意永琳.md)- [八坂神奈子](./八坂神奈子.md)- [圣白莲](./圣白莲.md)
-
-
-
+- [Blood Boilin' Archeosisters](./Blood_Boilin'_Archeosisters.md)该封面包含的角色：
+- [西行寺幽幽子](./西行寺幽幽子.md)
+- [八云紫](./八云紫.md)
+- [八意永琳](./八意永琳.md)
+- [八坂神奈子](./八坂神奈子.md)
+- [圣白莲](./圣白莲.md)
 
 
 ---

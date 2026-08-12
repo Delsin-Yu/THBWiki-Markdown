@@ -1,18 +1,13 @@
 # 文件:轟天社banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\98\ns6%3A%E8%BD%9F%E5%A4%A9%E7%A4%BEbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\98\ns6%3A%E8%BD%9F%E5%A4%A9%E7%A4%BEbanner%2Ejpg.html -->
 
 社团LOGO | 轟天社
 
 
 ## 文件说明
   
-源地址：[[1]](https://web.archive.org/web/20070220140004im_/http://www.ylw.mmtr.or.jp/~yozakura/yob.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://web.archive.org/web/20070220140004im_/http://www.ylw.mmtr.or.jp/~yozakura/yob.jpg)  
 
 ---
 

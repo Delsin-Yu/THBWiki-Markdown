@@ -1,6 +1,6 @@
 # 文件:东方DOTS-Touhou_Defence_of_The_Shrines2(THD2)封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0a\ns6%3A%E4%B8%9C%E6%96%B9DOTS-Touhou_Defence_of_The_Shrines2%28THD2%29%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0a\ns6%3A%E4%B8%9C%E6%96%B9DOTS-Touhou_Defence_of_The_Shrines2%28THD2%29%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 AvalonStudioOfficial | 封面图片 | 软件封面
 
@@ -8,10 +8,7 @@ AvalonStudioOfficial | 封面图片 | 软件封面
 使用了本文件作封面图片的作品：
   
 
-- [东方DOTS-Touhou Defence of The Shrines2(THD2)](./东方DOTS-Touhou_Defence_of_The_Shrines2(THD2).md)
-
-
-
+- [东方DOTS-Touhou Defence of The Shrines2(THD2)](./东方DOTS-Touhou_Defence_of_The_Shrines2(THD2%29.md)
 
 
 ---

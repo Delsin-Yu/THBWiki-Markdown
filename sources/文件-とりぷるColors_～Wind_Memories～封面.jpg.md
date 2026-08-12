@@ -1,6 +1,6 @@
 # 文件:とりぷるColors_～Wind_Memories～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\96\ns6%3A%E3%81%A8%E3%82%8A%E3%81%B7%E3%82%8BColors_%EF%BD%9EWind_Memories%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\96\ns6%3A%E3%81%A8%E3%82%8A%E3%81%B7%E3%82%8BColors_%EF%BD%9EWind_Memories%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 华绢花 | 封面图片
 
@@ -8,11 +8,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [とりぷるColors ～Wind Memories～](./とりぷるColors_～Wind_Memories～.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)- [博丽灵梦](./博丽灵梦.md)- [洩矢诹访子](./洩矢诹访子.md)
-
-
-
+- [とりぷるColors ～Wind Memories～](./とりぷるColors_～Wind_Memories～.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
+- [博丽灵梦](./博丽灵梦.md)
+- [洩矢诹访子](./洩矢诹访子.md)
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:pastylebanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\71\ns6%3Apastylebanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\71\ns6%3Apastylebanner%2Epng.html -->
 
 pastyle | 社团LOGO
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Indigo_inherit封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\95\ns6%3AIndigo_inherit%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\95\ns6%3AIndigo_inherit%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 煎
 
@@ -10,11 +10,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [Indigo inherit](./Indigo_inherit.md)  
-该封面包含的角色：- [八云蓝](./八云蓝.md)- [八云紫](./八云紫.md)- [伊吹萃香](./伊吹萃香.md)
-
-
-
+- [Indigo inherit](./Indigo_inherit.md)该封面包含的角色：
+- [八云蓝](./八云蓝.md)
+- [八云紫](./八云紫.md)
+- [伊吹萃香](./伊吹萃香.md)
 
 
 ---

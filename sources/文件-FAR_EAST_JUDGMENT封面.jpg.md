@@ -1,6 +1,6 @@
 # 文件:FAR_EAST_JUDGMENT封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6b\ns6%3AFAR_EAST_JUDGMENT%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6b\ns6%3AFAR_EAST_JUDGMENT%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 IRON_ATTACK! | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ IRON_ATTACK! | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [FAR EAST JUDGMENT](./FAR_EAST_JUDGMENT.md)  
-该封面包含的角色：- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)
-
-
-
+- [FAR EAST JUDGMENT](./FAR_EAST_JUDGMENT.md)该封面包含的角色：
+- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)
 
 
 ---

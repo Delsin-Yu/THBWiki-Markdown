@@ -1,14 +1,11 @@
 # 文件:skyfulbanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1f\ns6%3Askyfulbanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1f\ns6%3Askyfulbanner%2Egif.html -->
 
 skyful | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

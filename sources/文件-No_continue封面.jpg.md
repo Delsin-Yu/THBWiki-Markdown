@@ -1,6 +1,6 @@
 # 文件:No_continue封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\37\ns6%3ANo_continue%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\37\ns6%3ANo_continue%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 UNKNOWN_BEATS | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@ UNKNOWN_BEATS | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [No continue](./No_continue.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [No continue](./No_continue.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
   
-源地址：[direct image link](https://s2.booth.pm/773d1bd9-8454-4289-8836-1144310fedf7/i/5323301/ba7f551c-7d3b-4e87-85cb-5518b630bbf9_base_resized.jpg), [source page (circle Booth)](https://unknownbeats.booth.pm/items/5323301)
-  
-
-
-
-
+源地址：[direct image link](https://s2.booth.pm/773d1bd9-8454-4289-8836-1144310fedf7/i/5323301/ba7f551c-7d3b-4e87-85cb-5518b630bbf9_base_resized.jpg), [source page (circle Booth)](https://unknownbeats.booth.pm/items/5323301)  
 
 ---
 

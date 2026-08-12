@@ -1,6 +1,6 @@
 # 文件:Ein_Klang_Multidimentional封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\72\ns6%3AEin_Klang_Multidimentional%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\72\ns6%3AEin_Klang_Multidimentional%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ばんだいく | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Ein Klang Multidimentional](./Ein_Klang_Multidimentional.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [Ein Klang Multidimentional](./Ein_Klang_Multidimentional.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
   
-源地址：[direct image link](https://web.archive.org/web/20110613155824im_/http://www.h6.dion.ne.jp/~mks7/vndyk_4th_jacket.jpg), [source page](https://web.archive.org/web/20080629102132/http://www.h6.dion.ne.jp/~mks7/bndyk.htm)
-  
-
-
-
-
+源地址：[direct image link](https://web.archive.org/web/20110613155824im_/http://www.h6.dion.ne.jp/~mks7/vndyk_4th_jacket.jpg), [source page](https://web.archive.org/web/20080629102132/http://www.h6.dion.ne.jp/~mks7/bndyk.htm)  
 
 ---
 

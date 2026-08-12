@@ -1,6 +1,6 @@
 # 文件:Zero（Nine_Tails）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4a\ns6%3AZero%EF%BC%88Nine_Tails%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4a\ns6%3AZero%EF%BC%88Nine_Tails%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Nine_Tails | 专辑封面 | 封面图片
 
@@ -8,11 +8,10 @@ Nine_Tails | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Zero（Nine Tails）](./Zero（Nine_Tails）.md)  
-该封面包含的角色：- [橙](./橙.md)- [八云蓝](./八云蓝.md)- [八云紫](./八云紫.md)
-
-
-
+- [Zero（Nine Tails）](./Zero（Nine_Tails）.md)该封面包含的角色：
+- [橙](./橙.md)
+- [八云蓝](./八云蓝.md)
+- [八云紫](./八云紫.md)
 
 
 ---

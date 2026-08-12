@@ -1,12 +1,8 @@
 # 文件:白いしましまうさぎ_banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d6\ns6%3A%E7%99%BD%E3%81%84%E3%81%97%E3%81%BE%E3%81%97%E3%81%BE%E3%81%86%E3%81%95%E3%81%8E_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d6\ns6%3A%E7%99%BD%E3%81%84%E3%81%97%E3%81%BE%E3%81%97%E3%81%BE%E3%81%86%E3%81%95%E3%81%8E_banner%2Ejpg.html -->
 
 白いしましまうさぎ | 社团LOGO
-
-
-
-
 
 
 ---

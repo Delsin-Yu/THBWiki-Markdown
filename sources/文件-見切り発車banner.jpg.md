@@ -1,12 +1,8 @@
 # 文件:見切り発車banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0b\ns6%3A%E8%A6%8B%E5%88%87%E3%82%8A%E7%99%BA%E8%BB%8Abanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0b\ns6%3A%E8%A6%8B%E5%88%87%E3%82%8A%E7%99%BA%E8%BB%8Abanner%2Ejpg.html -->
 
 社团LOGO | 見切り発車
-
-
-
-
 
 
 ---

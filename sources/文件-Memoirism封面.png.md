@@ -1,6 +1,6 @@
 # 文件:Memoirism封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7a\ns6%3AMemoirism%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7a\ns6%3AMemoirism%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 ダバデぃずむ | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Memoirism](./Memoirism.md)  
-该封面包含的角色：- [茨木华扇](./茨木华扇.md)
+- [Memoirism](./Memoirism.md)该封面包含的角色：
+- [茨木华扇](./茨木华扇.md)
 
   
-源地址：[direct image link](https://stat.ameba.jp/user_images/20120730/00/dabadhi/1d/71/p/o0400055912105941487.png), [source page](https://ameblo.jp/dabadhi/entry-11315347781.html)
-  
-
-
-
-
+源地址：[direct image link](https://stat.ameba.jp/user_images/20120730/00/dabadhi/1d/71/p/o0400055912105941487.png), [source page](https://ameblo.jp/dabadhi/entry-11315347781.html)  
 
 ---
 

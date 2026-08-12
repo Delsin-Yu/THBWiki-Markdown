@@ -1,6 +1,6 @@
 # 文件:ラフ交換合同「THE_SHINE_～シャイン～」封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d2\ns6%3A%E3%83%A9%E3%83%95%E4%BA%A4%E6%8F%9B%E5%90%88%E5%90%8C%E3%80%8CTHE_SHINE_%EF%BD%9E%E3%82%B7%E3%83%A3%E3%82%A4%E3%83%B3%EF%BD%9E%E3%80%8D%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d2\ns6%3A%E3%83%A9%E3%83%95%E4%BA%A4%E6%8F%9B%E5%90%88%E5%90%8C%E3%80%8CTHE_SHINE_%EF%BD%9E%E3%82%B7%E3%83%A3%E3%82%A4%E3%83%B3%EF%BD%9E%E3%80%8D%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Cardenal | 同人志封面 | 封面图片
 
@@ -10,11 +10,9 @@ Cardenal | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [ラフ交換合同「THE SHINE ～シャイン～」](./ラフ交換合同「THE_SHINE_～シャイン～」.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [物部布都](./物部布都.md)
-
-
-
+- [ラフ交換合同「THE SHINE ～シャイン～」](./ラフ交換合同「THE_SHINE_～シャイン～」.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [物部布都](./物部布都.md)
 
 
 ---

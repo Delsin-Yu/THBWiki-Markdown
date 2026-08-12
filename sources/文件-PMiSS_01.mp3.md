@@ -1,12 +1,8 @@
 # 文件:PMiSS_01.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\24\ns6%3APMiSS_01%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\24\ns6%3APMiSS_01%2Emp3.html -->
 
 Japanese_Saga | 东方求闻史纪 | 原曲MP3
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:暁-AKATSUKI-_Singles_Best_vol.4_～コノ葉隠レ～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\15\ns6%3A%E6%9A%81-AKATSUKI-_Singles_Best_vol%2E4_%EF%BD%9E%E3%82%B3%E3%83%8E%E8%91%89%E9%9A%A0%E3%83%AC%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\15\ns6%3A%E6%9A%81-AKATSUKI-_Singles_Best_vol%2E4_%EF%BD%9E%E3%82%B3%E3%83%8E%E8%91%89%E9%9A%A0%E3%83%AC%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 幽闭星光
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [暁-AKATSUKI- Singles Best vol.4 ～コノ葉隠レ～](./暁-AKATSUKI-_Singles_Best_vol.4_～コノ葉隠レ～.md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)- [东风谷早苗](./东风谷早苗.md)
-
-
-
+- [暁-AKATSUKI- Singles Best vol.4 ～コノ葉隠レ～](./暁-AKATSUKI-_Singles_Best_vol.4_～コノ葉隠レ～.md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
+- [东风谷早苗](./东风谷早苗.md)
 
 
 ---

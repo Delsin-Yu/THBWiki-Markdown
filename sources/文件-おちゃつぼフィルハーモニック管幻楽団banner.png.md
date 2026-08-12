@@ -1,16 +1,11 @@
 # 文件:おちゃつぼフィルハーモニック管幻楽団banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\de\ns6%3A%E3%81%8A%E3%81%A1%E3%82%83%E3%81%A4%E3%81%BC%E3%83%95%E3%82%A3%E3%83%AB%E3%83%8F%E3%83%BC%E3%83%A2%E3%83%8B%E3%83%83%E3%82%AF%E7%AE%A1%E5%B9%BB%E6%A5%BD%E5%9B%A3banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\de\ns6%3A%E3%81%8A%E3%81%A1%E3%82%83%E3%81%A4%E3%81%BC%E3%83%95%E3%82%A3%E3%83%AB%E3%83%8F%E3%83%BC%E3%83%A2%E3%83%8B%E3%83%83%E3%82%AF%E7%AE%A1%E5%B9%BB%E6%A5%BD%E5%9B%A3banner%2Epng.html -->
 
 おちゃつぼフィルハーモニック管幻楽団 | 社团LOGO
 
   
-源地址：[[1]](http://ochaphil.choitoippuku.com/images/ochalogo.png)
-  
-
-
-
-
+源地址：[\[1\]](http://ochaphil.choitoippuku.com/images/ochalogo.png)  
 
 ---
 

@@ -1,16 +1,12 @@
 # 文件:八云馆Yakumobarlogo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cf\ns6%3A%E5%85%AB%E4%BA%91%E9%A6%86Yakumobarlogo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cf\ns6%3A%E5%85%AB%E4%BA%91%E9%A6%86Yakumobarlogo%2Epng.html -->
 
 社团LOGO
 
   
 可爱的八云家三人一起的合照
   
-
-
-
-
 
 ---
 

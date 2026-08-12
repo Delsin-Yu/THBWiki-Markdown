@@ -1,16 +1,12 @@
 # 文件:NST18.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f2\ns6%3ANST18%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f2\ns6%3ANST18%2Ejpg.html -->
 
 喵玉殿技术部 | 社团LOGO
 
   
 喵玉殿技术部LOGO2018版
   
-
-
-
-
 
 ---
 

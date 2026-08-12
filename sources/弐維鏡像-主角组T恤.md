@@ -1,27 +1,21 @@
 # 弐維鏡像/主角组T恤
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\8\87\ns0%3A%E5%BC%90%E7%B6%AD%E9%8F%A1%E5%83%8F%2F%E4%B8%BB%E8%A7%92%E7%BB%84T%E6%81%A4.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\8\87\ns0%3A%E5%BC%90%E7%B6%AD%E9%8F%A1%E5%83%8F%2F%E4%B8%BB%E8%A7%92%E7%BB%84T%E6%81%A4.html -->
 
 2024年6月24日 由 弐維鏡像  发布的衣服周边，分级为 一般向
 
 本页是关于东方Project  
- **相关实体周边 (未找到链接)** 的词条
-
+**相关实体周边 (未找到链接)**的词条
 ## 目录
 
 - [1 周边信息](#周边信息)
 - [2 参考图](#参考图)
-
   - [2.1 预览图](#预览图)
   - [2.2 实物图](#实物图)
 
 
-
 - [3 Staff](#Staff)
 - [4 评论](#评论)
-
-
-
 
 
 ## 周边信息
@@ -29,15 +23,14 @@
 <table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 主角组T恤 </td></tr><tr><td class="label">制作方</td><td><a href="./弐維鏡像.md" title="弐維鏡像">弐維鏡像</a></td></tr><tr><td class="label">首发日期</td><td>未知</td></tr><tr><td class="label">类型</td><td>衣服</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">角色</td><td><a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a><br><a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a></td></tr><tr><td class="label">售价</td><td>98人民币</td></tr></tbody></table>
 
 弐維鏡像/主角组T恤（周边，弐維鏡像） - 2024年6月22日 由 弐維鏡像  发布的衣服周边，分级为 一般向
-
 ## 参考图
   
 周边宣传、售卖时使用的作为参考图的预览图或实物图的图片。
   
 
-
 ### 预览图
-- [](./文件-弐維鏡像／主角组T恤预览图1.jpg.md)
+
+- <img alt="弐維鏡像／主角组T恤预览图1.jpg" src="https://upload.thwiki.cc/thumb/c/c5/%E5%BC%90%E7%B6%AD%E9%8F%A1%E5%83%8F%EF%BC%8F%E4%B8%BB%E8%A7%92%E7%BB%84T%E6%81%A4%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg/250px-%E5%BC%90%E7%B6%AD%E9%8F%A1%E5%83%8F%EF%BC%8F%E4%B8%BB%E8%A7%92%E7%BB%84T%E6%81%A4%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg" decoding="async" loading="lazy" width="167" height="250" srcset="https://upload.thwiki.cc/thumb/c/c5/%E5%BC%90%E7%B6%AD%E9%8F%A1%E5%83%8F%EF%BC%8F%E4%B8%BB%E8%A7%92%E7%BB%84T%E6%81%A4%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg/375px-%E5%BC%90%E7%B6%AD%E9%8F%A1%E5%83%8F%EF%BC%8F%E4%B8%BB%E8%A7%92%E7%BB%84T%E6%81%A4%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg 1.5x, https://upload.thwiki.cc/thumb/c/c5/%E5%BC%90%E7%B6%AD%E9%8F%A1%E5%83%8F%EF%BC%8F%E4%B8%BB%E8%A7%92%E7%BB%84T%E6%81%A4%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg/500px-%E5%BC%90%E7%B6%AD%E9%8F%A1%E5%83%8F%EF%BC%8F%E4%B8%BB%E8%A7%92%E7%BB%84T%E6%81%A4%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg 2x" data-file-width="1500" data-file-height="2250"> 
 
 
 ### 实物图
@@ -45,9 +38,6 @@
 ## Staff
 
 ## 评论
-
-
-
 
 ---
 

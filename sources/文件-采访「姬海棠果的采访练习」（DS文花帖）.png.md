@@ -1,12 +1,8 @@
 # 文件:采访「姬海棠果的采访练习」（DS文花帖）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8f\ns6%3A%E9%87%87%E8%AE%BF%E3%80%8C%E5%A7%AC%E6%B5%B7%E6%A3%A0%E6%9E%9C%E7%9A%84%E9%87%87%E8%AE%BF%E7%BB%83%E4%B9%A0%E3%80%8D%EF%BC%88DS%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8f\ns6%3A%E9%87%87%E8%AE%BF%E3%80%8C%E5%A7%AC%E6%B5%B7%E6%A3%A0%E6%9E%9C%E7%9A%84%E9%87%87%E8%AE%BF%E7%BB%83%E4%B9%A0%E3%80%8D%EF%BC%88DS%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Epng.html -->
 
 东方文花帖DS | 姬海棠果 | 敌机符卡
-
-
-
-
 
 
 ---

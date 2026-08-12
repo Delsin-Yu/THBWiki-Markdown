@@ -1,6 +1,6 @@
 # 文件:Endless_Acceleration_-Amateras_Records_Remixes_Vol.4-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3d\ns6%3AEndless_Acceleration_-Amateras_Records_Remixes_Vol%2E4-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3d\ns6%3AEndless_Acceleration_-Amateras_Records_Remixes_Vol%2E4-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Amateras_Records | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Amateras_Records | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Endless Acceleration -Amateras Records Remixes Vol.4-](./Endless_Acceleration_-Amateras_Records_Remixes_Vol.4-.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
-
-
-
+- [Endless Acceleration -Amateras Records Remixes Vol.4-](./Endless_Acceleration_-Amateras_Records_Remixes_Vol.4-.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:「里·Perfect_Summer_Ice」（天空璋）-1.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\35\ns6%3A%E3%80%8C%E9%87%8C%C2%B7Perfect_Summer_Ice%E3%80%8D%EF%BC%88%E5%A4%A9%E7%A9%BA%E7%92%8B%EF%BC%89-1%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\35\ns6%3A%E3%80%8C%E9%87%8C%C2%B7Perfect_Summer_Ice%E3%80%8D%EF%BC%88%E5%A4%A9%E7%A9%BA%E7%92%8B%EF%BC%89-1%2Ejpg.html -->
 
 东方天空璋 | 摩多罗隐岐奈 | 敌机符卡
-
-
-
-
 
 
 ---

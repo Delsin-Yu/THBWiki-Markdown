@@ -1,6 +1,6 @@
 # 文件:Sound_of_Light封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a1\ns6%3ASound_of_Light%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a1\ns6%3ASound_of_Light%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 micro_planet | 专辑封面 | 封面图片
 
@@ -8,11 +8,10 @@ micro_planet | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Sound of Light](./Sound_of_Light.md)  
-该封面包含的角色：- [云居一轮](./云居一轮.md)- [村纱水蜜](./村纱水蜜.md)- [圣白莲](./圣白莲.md)
-
-
-
+- [Sound of Light](./Sound_of_Light.md)该封面包含的角色：
+- [云居一轮](./云居一轮.md)
+- [村纱水蜜](./村纱水蜜.md)
+- [圣白莲](./圣白莲.md)
 
 
 ---

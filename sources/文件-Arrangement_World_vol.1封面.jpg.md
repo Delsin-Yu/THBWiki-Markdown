@@ -1,6 +1,6 @@
 # 文件:Arrangement_World_vol.1封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\92\ns6%3AArrangement_World_vol%2E1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\92\ns6%3AArrangement_World_vol%2E1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 gunter10_UNITED_Records | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ gunter10_UNITED_Records | 专辑封面 | 封面图片
   
 
 - [Arrangement World vol.1](./Arrangement_World_vol.1.md)
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Prominence（同人专辑）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4b\ns6%3AProminence%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4b\ns6%3AProminence%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ALTERNATIVE | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ ALTERNATIVE | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Prominence（同人专辑）](./Prominence（同人专辑）.md)  
-该封面包含的角色：- [灵乌路空](./灵乌路空.md)
-
-
-
+- [Prominence（同人专辑）](./Prominence（同人专辑）.md)该封面包含的角色：
+- [灵乌路空](./灵乌路空.md)
 
 
 ---

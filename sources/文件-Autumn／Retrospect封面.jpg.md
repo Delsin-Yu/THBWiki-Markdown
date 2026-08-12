@@ -1,6 +1,6 @@
 # 文件:Autumn／Retrospect封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\23\ns6%3AAutumn%EF%BC%8FRetrospect%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\23\ns6%3AAutumn%EF%BC%8FRetrospect%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 KARMART | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ KARMART | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Autumn／Retrospect](./Autumn／Retrospect.md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)
-
-
-
+- [Autumn／Retrospect](./Autumn／Retrospect.md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
 
 
 ---

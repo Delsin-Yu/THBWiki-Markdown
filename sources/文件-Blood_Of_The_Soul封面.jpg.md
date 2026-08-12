@@ -1,6 +1,6 @@
 # 文件:Blood_Of_The_Soul封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e2\ns6%3ABlood_Of_The_Soul%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e2\ns6%3ABlood_Of_The_Soul%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Cry_Of_The_Soul | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Cry_Of_The_Soul | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Blood Of The Soul](./Blood_Of_The_Soul.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [Blood Of The Soul](./Blood_Of_The_Soul.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
   
-源地址：[[1]](https://www.pixiv.net/member_illust.php?mode=medium&amp;illust_id=65366104)
-  
-
-
-
-
+源地址：[\[1\]](https://www.pixiv.net/member_illust.php?mode=medium&illust_id=65366104)  
 
 ---
 

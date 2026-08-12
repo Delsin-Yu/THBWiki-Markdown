@@ -1,14 +1,11 @@
 # 文件:The_Grimoire_of_Usami（哆来咪·苏伊特1）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9a\ns6%3AThe_Grimoire_of_Usami%EF%BC%88%E5%93%86%E6%9D%A5%E5%92%AA%C2%B7%E8%8B%8F%E4%BC%8A%E7%89%B91%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9a\ns6%3AThe_Grimoire_of_Usami%EF%BC%88%E5%93%86%E6%9D%A5%E5%92%AA%C2%B7%E8%8B%8F%E4%BC%8A%E7%89%B91%EF%BC%89%2Ejpg.html -->
 
 哆来咪·苏伊特 | 宇佐见的魔法书
 
 
 ## 摘要
-
-
-
 
 ---
 

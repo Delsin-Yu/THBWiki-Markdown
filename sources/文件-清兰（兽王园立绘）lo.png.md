@@ -1,12 +1,8 @@
 # 文件:清兰（兽王园立绘）lo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\64\ns6%3A%E6%B8%85%E5%85%B0%EF%BC%88%E5%85%BD%E7%8E%8B%E5%9B%AD%E7%AB%8B%E7%BB%98%EF%BC%89lo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\64\ns6%3A%E6%B8%85%E5%85%B0%EF%BC%88%E5%85%BD%E7%8E%8B%E5%9B%AD%E7%AB%8B%E7%BB%98%EF%BC%89lo%2Epng.html -->
 
 ZUN绘 | 东方兽王园 | 官方游戏立绘 | 清兰
-
-
-
-
 
 
 ---

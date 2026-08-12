@@ -1,12 +1,8 @@
 # 文件:BlueMicabanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7b\ns6%3ABlueMicabanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7b\ns6%3ABlueMicabanner%2Egif.html -->
 
 BlueMica | 社团LOGO
-
-
-
-
 
 
 ---

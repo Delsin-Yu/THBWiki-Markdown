@@ -1,12 +1,8 @@
 # 文件:东方求闻口授（ZUN的后记1）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dd\ns6%3A%E4%B8%9C%E6%96%B9%E6%B1%82%E9%97%BB%E5%8F%A3%E6%8E%88%EF%BC%88ZUN%E7%9A%84%E5%90%8E%E8%AE%B01%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dd\ns6%3A%E4%B8%9C%E6%96%B9%E6%B1%82%E9%97%BB%E5%8F%A3%E6%8E%88%EF%BC%88ZUN%E7%9A%84%E5%90%8E%E8%AE%B01%EF%BC%89%2Ejpg.html -->
 
 东方求闻口授
-
-
-
-
 
 
 ---

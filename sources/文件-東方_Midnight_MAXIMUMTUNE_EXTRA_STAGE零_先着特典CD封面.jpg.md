@@ -1,6 +1,6 @@
 # 文件:東方_Midnight_MAXIMUMTUNE_EXTRA_STAGE零_先着特典CD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\aa\ns6%3A%E6%9D%B1%E6%96%B9_Midnight_MAXIMUMTUNE_EXTRA_STAGE%E9%9B%B6_%E5%85%88%E7%9D%80%E7%89%B9%E5%85%B8CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\aa\ns6%3A%E6%9D%B1%E6%96%B9_Midnight_MAXIMUMTUNE_EXTRA_STAGE%E9%9B%B6_%E5%85%88%E7%9D%80%E7%89%B9%E5%85%B8CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Golden_City_Factory | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ Golden_City_Factory | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方 Midnight MAXIMUMTUNE EXTRA STAGE零 先着特典CD](./東方_Midnight_MAXIMUMTUNE_EXTRA_STAGE零_先着特典CD.md)  
-该封面包含的角色：- [因幡帝](./因幡帝.md)- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
-
-
-
+- [東方 Midnight MAXIMUMTUNE EXTRA STAGE零 先着特典CD](./東方_Midnight_MAXIMUMTUNE_EXTRA_STAGE零_先着特典CD.md)该封面包含的角色：
+- [因幡帝](./因幡帝.md)
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
 
 
 ---

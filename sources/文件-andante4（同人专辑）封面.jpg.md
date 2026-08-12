@@ -1,6 +1,6 @@
 # 文件:andante4（同人专辑）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\87\ns6%3Aandante4%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\87\ns6%3Aandante4%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Melodic_Taste | 专辑封面 | 封面图片 | 雨上がりの鉛筆
 
@@ -8,11 +8,9 @@ Melodic_Taste | 专辑封面 | 封面图片 | 雨上がりの鉛筆
 使用了本文件作封面图片的作品：
   
 
-- [andante4（同人专辑）](./andante4（同人专辑）.md)  
-该封面包含的角色：- [八意永琳](./八意永琳.md)- [蓬莱山辉夜](./蓬莱山辉夜.md)
-
-
-
+- [andante4（同人专辑）](./andante4（同人专辑）.md)该封面包含的角色：
+- [八意永琳](./八意永琳.md)
+- [蓬莱山辉夜](./蓬莱山辉夜.md)
 
 
 ---

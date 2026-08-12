@@ -1,6 +1,6 @@
 # 文件:秘封倶楽部奇譚集_封視科伝_～the_Border_of_Secret_Sealing_the_World封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b1\ns6%3A%E7%A7%98%E5%B0%81%E5%80%B6%E6%A5%BD%E9%83%A8%E5%A5%87%E8%AD%9A%E9%9B%86_%E5%B0%81%E8%A6%96%E7%A7%91%E4%BC%9D_%EF%BD%9Ethe_Border_of_Secret_Sealing_the_World%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b1\ns6%3A%E7%A7%98%E5%B0%81%E5%80%B6%E6%A5%BD%E9%83%A8%E5%A5%87%E8%AD%9A%E9%9B%86_%E5%B0%81%E8%A6%96%E7%A7%91%E4%BC%9D_%EF%BD%9Ethe_Border_of_Secret_Sealing_the_World%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ゆめかばん | 同人志封面 | 封面图片
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [秘封倶楽部奇譚集 封視科伝 ～the Border of Secret Sealing the World](./秘封倶楽部奇譚集_封視科伝_～the_Border_of_Secret_Sealing_the_World.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [秘封倶楽部奇譚集 封視科伝 ～the Border of Secret Sealing the World](./秘封倶楽部奇譚集_封視科伝_～the_Border_of_Secret_Sealing_the_World.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:お酒を飲みながら2日で生み出したCD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8b\ns6%3A%E3%81%8A%E9%85%92%E3%82%92%E9%A3%B2%E3%81%BF%E3%81%AA%E3%81%8C%E3%82%892%E6%97%A5%E3%81%A7%E7%94%9F%E3%81%BF%E5%87%BA%E3%81%97%E3%81%9FCD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8b\ns6%3A%E3%81%8A%E9%85%92%E3%82%92%E9%A3%B2%E3%81%BF%E3%81%AA%E3%81%8C%E3%82%892%E6%97%A5%E3%81%A7%E7%94%9F%E3%81%BF%E5%87%BA%E3%81%97%E3%81%9FCD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 狐の工作室
 
@@ -11,9 +11,6 @@
   
 
 - [お酒を飲みながら2日で生み出したCD](./お酒を飲みながら2日で生み出したCD.md)
-
-
-
 
 
 ---

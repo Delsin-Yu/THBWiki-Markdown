@@ -1,6 +1,6 @@
 # 文件:とうほうダンスフロア_in_the_あんだーぐらうんど封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d7\ns6%3A%E3%81%A8%E3%81%86%E3%81%BB%E3%81%86%E3%83%80%E3%83%B3%E3%82%B9%E3%83%95%E3%83%AD%E3%82%A2_in_the_%E3%81%82%E3%82%93%E3%81%A0%E3%83%BC%E3%81%90%E3%82%89%E3%81%86%E3%82%93%E3%81%A9%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d7\ns6%3A%E3%81%A8%E3%81%86%E3%81%BB%E3%81%86%E3%83%80%E3%83%B3%E3%82%B9%E3%83%95%E3%83%AD%E3%82%A2_in_the_%E3%81%82%E3%82%93%E3%81%A0%E3%83%BC%E3%81%90%E3%82%89%E3%81%86%E3%82%93%E3%81%A9%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Record_SIGMA | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Record_SIGMA | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [とうほうダンスフロア in the あんだーぐらうんど](./とうほうダンスフロア_in_the_あんだーぐらうんど.md)  
-该封面包含的角色：- [古明地觉](./古明地觉.md)
-
-
-
+- [とうほうダンスフロア in the あんだーぐらうんど](./とうほうダンスフロア_in_the_あんだーぐらうんど.md)该封面包含的角色：
+- [古明地觉](./古明地觉.md)
 
 
 ---

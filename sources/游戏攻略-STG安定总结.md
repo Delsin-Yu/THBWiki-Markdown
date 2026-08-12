@@ -1,13 +1,13 @@
 # 游戏攻略/STG安定总结
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\9\9f\ns0%3A%E6%B8%B8%E6%88%8F%E6%94%BB%E7%95%A5%2FSTG%E5%AE%89%E5%AE%9A%E6%80%BB%E7%BB%93.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\9\9f\ns0%3A%E6%B8%B8%E6%88%8F%E6%94%BB%E7%95%A5%2FSTG%E5%AE%89%E5%AE%9A%E6%80%BB%E7%BB%93.html -->
 
 
 
   
-以作品归类为不同词条，本词条仅收录以下官方作品中实用的安定点以及安定走位 (未找到链接)。  
+以作品归类为不同词条，本词条仅收录以下官方作品中实用的[安定点以及安定走位](./游戏攻略-STG术语.md#安定)。  
 
-每个地点均有配图以及文字说明， **缩略图可以点击放大** 。  
+每个地点均有配图以及文字说明，**缩略图可以点击放大**。  
 
 难度极大或者混关压根不需要管的安定会被忽略。  
 
@@ -26,9 +26,6 @@
 - [东方绀珠传](./游戏攻略-STG安定总结-东方绀珠传.md)
 - [东方天空璋](./游戏攻略-STG安定总结-东方天空璋.md)
 - [东方虹龙洞](./游戏攻略-STG安定总结-东方虹龙洞.md)
-
-
-
 
 
 ---

@@ -1,16 +1,11 @@
 # 文件:Diabolic_Phantasmabanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\00\ns6%3ADiabolic_Phantasmabanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\00\ns6%3ADiabolic_Phantasmabanner%2Epng.html -->
 
 Diabolic_Phantasma | 社团LOGO
 
   
-源地址：[[1]](https://image.jimcdn.com/app/cms/image/transf/dimension=270x10000:format=png/path/s1e70d4a5125771d0/image/i160793df9768da12/version/1460659571/image.png)
-  
-
-
-
-
+源地址：[\[1\]](https://image.jimcdn.com/app/cms/image/transf/dimension=270x10000:format=png/path/s1e70d4a5125771d0/image/i160793df9768da12/version/1460659571/image.png)  
 
 ---
 

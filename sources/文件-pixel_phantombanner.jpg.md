@@ -1,12 +1,8 @@
 # 文件:pixel_phantombanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cb\ns6%3Apixel_phantombanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cb\ns6%3Apixel_phantombanner%2Ejpg.html -->
 
 pixel_phantom | 社团LOGO
-
-
-
-
 
 
 ---

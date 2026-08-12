@@ -1,6 +1,6 @@
 # Seiga_Kaku_uses_her_amazing_Taoist_arts_and_gives_you_a_life_lesson/设定与剧情
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\63\ns0%3ASeiga_Kaku_uses_her_amazing_Taoist_arts_and_gives_you_a_life_lesson%2F%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\63\ns0%3ASeiga_Kaku_uses_her_amazing_Taoist_arts_and_gives_you_a_life_lesson%2F%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85.html -->
 
 Skuhataagyall_dev
 
@@ -13,7 +13,6 @@ The wicked hermit Seiga Kaku uses her Taoist arts to help you achieve your goals
 
 霍青娥将会用她的道教理念帮助你实现你的目标，成为一个更好的人。
   
-
 
 ## 关于这款游戏
   
@@ -38,7 +37,6 @@ And don't die.
 还有，别死。
   
 
-
 ## Features（特点）
   
 Two endings with several variation (for a total of 5 different endings)  
@@ -52,12 +50,7 @@ A complete English translation of Tao Te Ching, one of the fundamental texts of 
 With in-character notes and interpretations by Seiga Kaku.  
 
 另外还配有霍青娥对话内容的注释。  
-
   
-
-
-
-
 
 ---
 

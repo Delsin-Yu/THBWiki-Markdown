@@ -1,6 +1,6 @@
 # 文件:妖精小迷宮_～_Fairies_Odyssey.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\74\ns6%3A%E5%A6%96%E7%B2%BE%E5%B0%8F%E8%BF%B7%E5%AE%AE_%EF%BD%9E_Fairies_Odyssey%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\74\ns6%3A%E5%A6%96%E7%B2%BE%E5%B0%8F%E8%BF%B7%E5%AE%AE_%EF%BD%9E_Fairies_Odyssey%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 封面图片 | 東方邪星章製作チーム | 软件封面
 
@@ -11,9 +11,6 @@
   
 
 - [妖精小迷宮 ～ Fairies Odyssey.](./妖精小迷宮_～_Fairies_Odyssey..md)
-
-
-
 
 
 ---

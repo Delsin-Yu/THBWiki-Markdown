@@ -1,6 +1,6 @@
 # 文件:prologue（東方事変）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a7\ns6%3Aprologue%EF%BC%88%E6%9D%B1%E6%96%B9%E4%BA%8B%E5%A4%89%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a7\ns6%3Aprologue%EF%BC%88%E6%9D%B1%E6%96%B9%E4%BA%8B%E5%A4%89%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 東方事変
 
@@ -9,9 +9,6 @@
   
 
 - [prologue（東方事変）](./prologue（東方事変）.md)
-
-
-
 
 
 ---

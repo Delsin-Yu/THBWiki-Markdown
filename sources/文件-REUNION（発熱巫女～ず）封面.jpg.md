@@ -1,6 +1,6 @@
 # 文件:REUNION（発熱巫女～ず）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\27\ns6%3AREUNION%EF%BC%88%E7%99%BA%E7%86%B1%E5%B7%AB%E5%A5%B3%EF%BD%9E%E3%81%9A%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\27\ns6%3AREUNION%EF%BC%88%E7%99%BA%E7%86%B1%E5%B7%AB%E5%A5%B3%EF%BD%9E%E3%81%9A%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 発熱巫女～ず
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [REUNION（発熱巫女～ず）](./REUNION（発熱巫女～ず）.md)  
-该封面包含的角色：- [风见幽香](./风见幽香.md)- [幽香](./幽香.md)
-
-
-
+- [REUNION（発熱巫女～ず）](./REUNION（発熱巫女～ず）.md)该封面包含的角色：
+- [风见幽香](./风见幽香.md)
+- [幽香](./幽香.md)
 
 
 ---

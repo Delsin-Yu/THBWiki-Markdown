@@ -1,18 +1,13 @@
 # 文件:現代社会の縮図logo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fe\ns6%3A%E7%8F%BE%E4%BB%A3%E7%A4%BE%E4%BC%9A%E3%81%AE%E7%B8%AE%E5%9B%B3logo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fe\ns6%3A%E7%8F%BE%E4%BB%A3%E7%A4%BE%E4%BC%9A%E3%81%AE%E7%B8%AE%E5%9B%B3logo%2Epng.html -->
 
 現代社会の縮図 | 社团LOGO
 
 
 ## 摘要
   
-源地址：[direct image link](http://gendaisyakainosyukuzu.web.fc2.com/img/toplogo02.png), [source page](http://gendaisyakainosyukuzu.web.fc2.com/)
-  
-
-
-
-
+源地址：[direct image link](http://gendaisyakainosyukuzu.web.fc2.com/img/toplogo02.png), [source page](http://gendaisyakainosyukuzu.web.fc2.com/)  
 
 ---
 

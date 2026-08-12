@@ -1,14 +1,11 @@
 # 文件:火符「Violent_Kaentake」（刚欲异闻）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\08\ns6%3A%E7%81%AB%E7%AC%A6%E3%80%8CViolent_Kaentake%E3%80%8D%EF%BC%88%E5%88%9A%E6%AC%B2%E5%BC%82%E9%97%BB%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\08\ns6%3A%E7%81%AB%E7%AC%A6%E3%80%8CViolent_Kaentake%E3%80%8D%EF%BC%88%E5%88%9A%E6%AC%B2%E5%BC%82%E9%97%BB%EF%BC%89%2Epng.html -->
 
 东方刚欲异闻 | 敌机符卡 | 雾雨魔理沙
 
 
 ## 摘要
-
-
-
 
 ---
 

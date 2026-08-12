@@ -1,6 +1,6 @@
 # 文件:quirk封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\81\ns6%3Aquirk%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\81\ns6%3Aquirk%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 sun3_FielD | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@ sun3_FielD | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [quirk](./quirk.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
+- [quirk](./quirk.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
   
-源地址：[Discogs](https://www.discogs.com/release/8548333-Sun3-Quirk)
-  
-
-
-
-
+源地址：[Discogs](https://www.discogs.com/release/8548333-Sun3-Quirk)  
 
 ---
 

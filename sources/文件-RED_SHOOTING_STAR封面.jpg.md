@@ -1,6 +1,6 @@
 # 文件:RED_SHOOTING_STAR封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b9\ns6%3ARED_SHOOTING_STAR%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b9\ns6%3ARED_SHOOTING_STAR%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 POCAPOCA | 同人志封面 | 封面图片
 
@@ -10,11 +10,9 @@ POCAPOCA | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [RED SHOOTING STAR](./RED_SHOOTING_STAR.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [RED SHOOTING STAR](./RED_SHOOTING_STAR.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

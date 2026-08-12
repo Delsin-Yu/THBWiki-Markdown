@@ -1,6 +1,6 @@
 # 文件:NKCH_Compilation：_03_Special封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c6\ns6%3ANKCH_Compilation%EF%BC%9A_03_Special%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c6\ns6%3ANKCH_Compilation%EF%BC%9A_03_Special%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ぬえかわチャンネル | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [NKCH Compilation： 03 Special](./NKCH_Compilation：_03_Special.md)  
-该封面包含的角色：- [多多良小伞](./多多良小伞.md)
-
-
-
+- [NKCH Compilation： 03 Special](./NKCH_Compilation：_03_Special.md)该封面包含的角色：
+- [多多良小伞](./多多良小伞.md)
 
 
 ---

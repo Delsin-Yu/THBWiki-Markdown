@@ -1,14 +1,11 @@
 # 文件:伊吹萃香（兽王园立绘）an.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\32\ns6%3A%E4%BC%8A%E5%90%B9%E8%90%83%E9%A6%99%EF%BC%88%E5%85%BD%E7%8E%8B%E5%9B%AD%E7%AB%8B%E7%BB%98%EF%BC%89an%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\32\ns6%3A%E4%BC%8A%E5%90%B9%E8%90%83%E9%A6%99%EF%BC%88%E5%85%BD%E7%8E%8B%E5%9B%AD%E7%AB%8B%E7%BB%98%EF%BC%89an%2Epng.html -->
 
 ZUN绘 | 东方兽王园 | 伊吹萃香 | 官方游戏立绘
 
 
 ## 摘要
-
-
-
 
 ---
 

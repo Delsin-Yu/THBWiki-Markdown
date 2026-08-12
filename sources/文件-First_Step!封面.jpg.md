@@ -1,6 +1,6 @@
 # 文件:First_Step!封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\00\ns6%3AFirst_Step%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\00\ns6%3AFirst_Step%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Siestail | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Siestail | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [First Step!](./First_Step!.md)  
-该封面包含的角色：- [秋静叶](./秋静叶.md)
-
-
-
+- [First Step!](./First_Step!.md)该封面包含的角色：
+- [秋静叶](./秋静叶.md)
 
 
 ---

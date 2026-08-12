@@ -1,6 +1,6 @@
 # 文件:WOW!!_EP封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\30\ns6%3AWOW%21%21_EP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\30\ns6%3AWOW%21%21_EP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 9bFOX | Find_Your_Way | denshūto | 专辑封面 | 堕武者グラインド | 封面图片 | 死際サテライト
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [WOW!! EP](./WOW!!_EP.md)  
-该封面包含的角色：- [赤蛮奇](./赤蛮奇.md)
+- [WOW!! EP](./WOW!!_EP.md)该封面包含的角色：
+- [赤蛮奇](./赤蛮奇.md)
 
   
-源地址：[[1]](http://static.tumblr.com/6cf3ca3b7235eb5fca5d4fffc342dbdb/4odmk5y/pT9o5zuu9/tumblr_static_1z5uanz78pxcwo8sc0wsso0w8.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://static.tumblr.com/6cf3ca3b7235eb5fca5d4fffc342dbdb/4odmk5y/pT9o5zuu9/tumblr_static_1z5uanz78pxcwo8sc0wsso0w8.jpg)  
 
 ---
 

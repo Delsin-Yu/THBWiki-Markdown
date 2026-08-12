@@ -1,6 +1,6 @@
 # 文件:REstartREsetREboot封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d8\ns6%3AREstartREsetREboot%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d8\ns6%3AREstartREsetREboot%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Undefined_Field | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ Undefined_Field | 专辑封面 | 封面图片
   
 
 - [REstartREsetREboot](./REstartREsetREboot.md)
-
-
-
 
 
 ---

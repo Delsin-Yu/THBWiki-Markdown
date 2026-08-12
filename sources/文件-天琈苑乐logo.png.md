@@ -1,14 +1,11 @@
 # 文件:天琈苑乐logo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3f\ns6%3A%E5%A4%A9%E7%90%88%E8%8B%91%E4%B9%90logo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3f\ns6%3A%E5%A4%A9%E7%90%88%E8%8B%91%E4%B9%90logo%2Epng.html -->
 
 天琈苑乐 | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

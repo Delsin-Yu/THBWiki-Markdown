@@ -1,12 +1,8 @@
 # 文件:THD2嫉妒之心眼.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\af\ns6%3ATHD2%E5%AB%89%E5%A6%92%E4%B9%8B%E5%BF%83%E7%9C%BC%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\af\ns6%3ATHD2%E5%AB%89%E5%A6%92%E4%B9%8B%E5%BF%83%E7%9C%BC%2Epng.html -->
 
 东方DOTS玩家社群
-
-
-
-
 
 
 ---

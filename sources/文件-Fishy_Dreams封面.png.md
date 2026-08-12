@@ -1,6 +1,6 @@
 # 文件:Fishy_Dreams封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a0\ns6%3AFishy_Dreams%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a0\ns6%3AFishy_Dreams%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Iced＿Lemon | 封面图片 | 软件封面
 
@@ -10,16 +10,11 @@ Iced＿Lemon | 封面图片 | 软件封面
 使用了本文件作封面图片的作品：
   
 
-- [Fishy Dreams](./Fishy_Dreams.md)  
-该封面包含的角色：- [今泉影狼](./今泉影狼.md)
+- [Fishy Dreams](./Fishy_Dreams.md)该封面包含的角色：
+- [今泉影狼](./今泉影狼.md)
 
   
-源地址：[direct image link (max size)](https://img.itch.zone/aW1nLzg3MDI2ODMucG5n/original/wbiMSy.png), [source page (game page header)](https://iced-lemon.itch.io/fishy-dreams)
-  
-
-
-
-
+源地址：[direct image link (max size)](https://img.itch.zone/aW1nLzg3MDI2ODMucG5n/original/wbiMSy.png), [source page (game page header)](https://iced-lemon.itch.io/fishy-dreams)  
 
 ---
 

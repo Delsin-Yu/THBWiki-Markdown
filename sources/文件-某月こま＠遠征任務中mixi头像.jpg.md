@@ -1,12 +1,8 @@
 # 文件:某月こま＠遠征任務中mixi头像.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1f\ns6%3A%E6%9F%90%E6%9C%88%E3%81%93%E3%81%BE%EF%BC%A0%E9%81%A0%E5%BE%81%E4%BB%BB%E5%8B%99%E4%B8%ADmixi%E5%A4%B4%E5%83%8F%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1f\ns6%3A%E6%9F%90%E6%9C%88%E3%81%93%E3%81%BE%EF%BC%A0%E9%81%A0%E5%BE%81%E4%BB%BB%E5%8B%99%E4%B8%ADmixi%E5%A4%B4%E5%83%8F%2Ejpg.html -->
 
 Mixi
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Zauberwald封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\54\ns6%3AZauberwald%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\54\ns6%3AZauberwald%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ごんばこんなか | 专辑封面 | 封面图片
 
@@ -10,16 +10,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [Zauberwald](./Zauberwald.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [雾雨魔理沙](./雾雨魔理沙.md)
+- [Zauberwald](./Zauberwald.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-源地址：[direct image link (10 size)](https://f4.bcbits.com/img/a3427632021_10.jpg), [source page (artist Bandcamp)](https://torash.bandcamp.com/album/--16)
-  
-
-
-
-
+源地址：[direct image link (10 size)](https://f4.bcbits.com/img/a3427632021_10.jpg), [source page (artist Bandcamp)](https://torash.bandcamp.com/album/--16)  
 
 ---
 

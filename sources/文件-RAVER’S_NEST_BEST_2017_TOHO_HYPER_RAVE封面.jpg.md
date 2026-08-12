@@ -1,6 +1,6 @@
 # 文件:RAVER’S_NEST_BEST_2017_TOHO_HYPER_RAVE封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b6\ns6%3ARAVER%E2%80%99S_NEST_BEST_2017_TOHO_HYPER_RAVE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b6\ns6%3ARAVER%E2%80%99S_NEST_BEST_2017_TOHO_HYPER_RAVE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 DiGiTAL_WiNG | 专辑封面 | 封面图片
 
@@ -8,11 +8,11 @@ DiGiTAL_WiNG | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [RAVER'S NEST BEST 2017 TOHO HYPER RAVE](./RAVER'S_NEST_BEST_2017_TOHO_HYPER_RAVE.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [魂魄妖梦](./魂魄妖梦.md)- [射命丸文](./射命丸文.md)
-
-
-
+- [RAVER'S NEST BEST 2017 TOHO HYPER RAVE](./RAVER'S_NEST_BEST_2017_TOHO_HYPER_RAVE.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [魂魄妖梦](./魂魄妖梦.md)
+- [射命丸文](./射命丸文.md)
 
 
 ---

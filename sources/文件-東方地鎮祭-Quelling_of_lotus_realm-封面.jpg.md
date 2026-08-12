@@ -1,6 +1,6 @@
 # 文件:東方地鎮祭-Quelling_of_lotus_realm-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\18\ns6%3A%E6%9D%B1%E6%96%B9%E5%9C%B0%E9%8E%AE%E7%A5%AD-Quelling_of_lotus_realm-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\18\ns6%3A%E6%9D%B1%E6%96%B9%E5%9C%B0%E9%8E%AE%E7%A5%AD-Quelling_of_lotus_realm-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 しるふ・わーくす | 封面图片 | 软件封面
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方地鎮祭-Quelling of lotus realm-](./東方地鎮祭-Quelling_of_lotus_realm-.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [东风谷早苗](./东风谷早苗.md)
-
-
-
+- [東方地鎮祭-Quelling of lotus realm-](./東方地鎮祭-Quelling_of_lotus_realm-.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [东风谷早苗](./东风谷早苗.md)
 
 
 ---

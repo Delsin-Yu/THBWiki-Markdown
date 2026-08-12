@@ -1,15 +1,14 @@
 # 东方外来韦编/2019_Spring!/神灵庙交叉评论
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\49\ns0%3A%E4%B8%9C%E6%96%B9%E5%A4%96%E6%9D%A5%E9%9F%A6%E7%BC%96%2F2019_Spring%21%2F%E7%A5%9E%E7%81%B5%E5%BA%99%E4%BA%A4%E5%8F%89%E8%AF%84%E8%AE%BA.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\49\ns0%3A%E4%B8%9C%E6%96%B9%E5%A4%96%E6%9D%A5%E9%9F%A6%E7%BC%96%2F2019_Spring%21%2F%E7%A5%9E%E7%81%B5%E5%BA%99%E4%BA%A4%E5%8F%89%E8%AF%84%E8%AE%BA.html -->
 
 东方外来韦编 | 引用了翻译表的页面
 
-- 本词条为中文翻译版，如需要日文对照请参见 **[中日对照](./东方外来韦编-2019_Spring!-神灵庙交叉评论-中日对照.md)** 。
+
+- 本词条为中文翻译版，如需要日文对照请参见**[中日对照](./东方外来韦编-2019_Spring!-神灵庙交叉评论-中日对照.md)**。
 - 该内容于杂志中页数：022-023
 
- **<big><big>东方神灵庙全关卡Cross Review</big></big>** 
-关于「神灵庙」的关卡与BOSS，有识之士的回顾。这篇评论究竟是何物。无人知晓。
-
+**<big><big>东方神灵庙全关卡Cross Review</big></big>**关于「神灵庙」的关卡与BOSS，有识之士的回顾。这篇评论究竟是何物。无人知晓。
 <table>
 
 <tbody><tr>
@@ -23,14 +22,14 @@
 </th>
 <th style="width: 13%">Stage 4<br><div class="tt-zh tt-type-dialogue" lang="zh"><div class="poem"><a href="./霍青娥.md" title="霍青娥">霍青娥</a></div></div>
 </th>
-<th style="width: 13%">Stage 5<br><div class="tt-zh tt-type-dialogue" lang="zh"><div class="poem"><a href="./物部布都.md" title="物部布都">物部布都</a>&amp;<a href="./苏我屠自古.md" title="苏我屠自古">苏我屠自古</a></div></div>
+<th style="width: 13%">Stage 5<br><div class="tt-zh tt-type-dialogue" lang="zh"><div class="poem"><a href="./物部布都.md" title="物部布都">物部布都</a>&<a href="./苏我屠自古.md" title="苏我屠自古">苏我屠自古</a></div></div>
 </th>
 <th style="width: 13%">Stage 6<br><div class="tt-zh tt-type-dialogue" lang="zh"><div class="poem"><a href="./丰聪耳神子.md" title="丰聪耳神子">丰聪耳神子</a></div></div>
 </th>
-<th style="width: 13%">EXStage<br><div class="tt-zh tt-type-dialogue" lang="zh"><div class="poem"><a href="./二岩猯藏.md" title="二岩猯藏">二岩猯藏</a>&amp;<a href="./封兽鵺.md" title="封兽鵺">封兽鵺</a></div></div>
+<th style="width: 13%">EXStage<br><div class="tt-zh tt-type-dialogue" lang="zh"><div class="poem"><a href="./二岩猯藏.md" title="二岩猯藏">二岩猯藏</a>&<a href="./封兽鵺.md" title="封兽鵺">封兽鵺</a></div></div>
 </th></tr>
 <tr>
-<th><div class="tt-zh tt-type-dialogue" lang="zh"><div class="poem"><a href="./博丽灵梦.md" title="博丽灵梦">灵梦</a>&amp;<a href="./雾雨魔理沙.md" title="雾雨魔理沙">魔理沙</a></div></div><div class="tt-zh tt-type-dialogue" lang="zh"><div class="poem">其他的有识之士均由自身标签进行分组，<br>那么这两位主人公组合的联手也是自然。</div></div>
+<th><div class="tt-zh tt-type-dialogue" lang="zh"><div class="poem"><a href="./博丽灵梦.md" title="博丽灵梦">灵梦</a>&<a href="./雾雨魔理沙.md" title="雾雨魔理沙">魔理沙</a></div></div><div class="tt-zh tt-type-dialogue" lang="zh"><div class="poem">其他的有识之士均由自身标签进行分组，<br>那么这两位主人公组合的联手也是自然。</div></div>
 </th>
 <td><div class="tt-zh tt-type-dialogue" lang="zh"><div class="poem">灵「这次出场太弱，毫无优点可言。0分」<br>魔「说到底她为什么要跟我们打？就给她1分吧」<br>灵「看在人情的分上就给她高一点的分数吧」<br>（1）</div></div>
 </td>
@@ -47,7 +46,7 @@
 <td><div class="tt-zh tt-type-dialogue" lang="zh"><div class="poem">魔「能做到将无数子弹自身幻化成妖怪，这家伙简直就是个怪物。啊本身就是怪物啊。10分」<br>灵「比看上去更棘手。毕竟是狸猫啊……6分」<br>（10）</div></div>
 </td></tr>
 <tr>
-<th><div class="tt-zh tt-type-dialogue" lang="zh"><div class="poem"><a href="./丰聪耳神子.md" title="丰聪耳神子">神子</a>&amp;<a href="./圣白莲.md" title="圣白莲">圣</a></div></div><div class="tt-zh tt-type-dialogue" lang="zh"><div class="poem">称得上不共戴天的两位宗教指导者，<br>分数乃是经二人商量得出。</div></div>
+<th><div class="tt-zh tt-type-dialogue" lang="zh"><div class="poem"><a href="./丰聪耳神子.md" title="丰聪耳神子">神子</a>&<a href="./圣白莲.md" title="圣白莲">圣</a></div></div><div class="tt-zh tt-type-dialogue" lang="zh"><div class="poem">称得上不共戴天的两位宗教指导者，<br>分数乃是经二人商量得出。</div></div>
 </th>
 <td><div class="tt-zh tt-type-dialogue" lang="zh"><div class="poem">圣「你跟这个人，在死了都要动这一点上不是挺像的嘛？」<br>神「我可不是幽灵。而且被阎魔大人委托管理冥界的这位小姐还是挺了不起的」<br>（7）</div></div>
 </td>
@@ -64,7 +63,7 @@
 <td><div class="tt-zh tt-type-dialogue" lang="zh"><div class="poem">圣「以前的妖怪的力量还是强大啊」<br>神「那只是最近的妖怪太过怠慢。要把她们重新锻炼起来」<br>圣「说的也是。就是这说法太倚老卖老了……」<br>（8）</div></div>
 </td></tr>
 <tr>
-<th><div class="tt-zh tt-type-dialogue" lang="zh"><div class="poem"><a href="./二岩猯藏.md" title="二岩猯藏">猯藏</a>&amp;<a href="./秦心.md" title="秦心">心</a></div></div><div class="tt-zh tt-type-dialogue" lang="zh"><div class="poem">猯藏Presents，<br>为了心而开展的幻想乡妖怪巡回展正在举办中。</div></div>
+<th><div class="tt-zh tt-type-dialogue" lang="zh"><div class="poem"><a href="./二岩猯藏.md" title="二岩猯藏">猯藏</a>&<a href="./秦心.md" title="秦心">心</a></div></div><div class="tt-zh tt-type-dialogue" lang="zh"><div class="poem">猯藏Presents，<br>为了心而开展的幻想乡妖怪巡回展正在举办中。</div></div>
 </th>
 <td><div class="tt-zh tt-type-dialogue" lang="zh"><div class="poem">猯「死了以后依然醉心于赏花之中的亡灵。看着她有什么想法吗？」<br>心「看着好像很快乐」<br>（乐）</div></div>
 </td>
@@ -97,12 +96,6 @@
 </td>
 <td><div class="tt-zh tt-type-dialogue" lang="zh"><div class="poem">在「星莲船」之中登场，效果却半吊子的鵺，我倒是想让她再登场一次。就让她和猯藏组成组合。要论起和其他登场人物一般古老的妖怪的话，这么想来也只有狸猫了。这家伙也是个常见的妖怪。狸猫妖怪本身在幻想乡有很多，而她作为外面世界的妖怪登场这一点，倒是参考了神子的登场方法。</div></div>
 </td></tr></tbody></table>
-
-
-
-
-
-
 
 
 ---

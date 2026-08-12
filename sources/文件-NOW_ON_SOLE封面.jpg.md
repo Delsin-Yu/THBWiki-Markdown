@@ -1,6 +1,6 @@
 # 文件:NOW_ON_SOLE封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\16\ns6%3ANOW_ON_SOLE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\16\ns6%3ANOW_ON_SOLE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ついったー東方部 | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@
   
 
 - [NOW ON SOLE](./NOW_ON_SOLE.md)
-
-
-
 
 
 ---

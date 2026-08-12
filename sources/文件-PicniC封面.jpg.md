@@ -1,6 +1,6 @@
 # 文件:PicniC封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c1\ns6%3APicniC%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c1\ns6%3APicniC%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Dimension's_Gate | 专辑封面 | 封面图片
 
@@ -8,16 +8,14 @@ Dimension's_Gate | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [PicniC](./PicniC.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)- [博丽灵梦](./博丽灵梦.md)- 十六夜咲夜 (未找到链接)- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [PicniC](./PicniC.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
+- [博丽灵梦](./博丽灵梦.md)
+- [十六夜咲夜](./十六夜咲夜.md)
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
   
-源地址：[[1]](https://i1.sndcdn.com/artworks-000116042630-mjnieh-t500x500.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://i1.sndcdn.com/artworks-000116042630-mjnieh-t500x500.jpg)  
 
 ---
 

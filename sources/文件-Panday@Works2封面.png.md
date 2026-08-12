@@ -1,6 +1,6 @@
 # 文件:Panday@Works2封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1d\ns6%3APanday%40Works2%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1d\ns6%3APanday%40Works2%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 梶迫小道具店
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Panday@Works2](./Panday@Works2.md)  
-该封面包含的角色：- [赫卡提亚·拉碧斯拉祖利](./赫卡提亚·拉碧斯拉祖利.md)
+- [Panday@Works2](./Panday@Works2.md)该封面包含的角色：
+- [赫卡提亚·拉碧斯拉祖利](./赫卡提亚·拉碧斯拉祖利.md)
 
   
-源地址：[[1]](http://static.tumblr.com/1f5610b285678fbb92934220275bb398/ceutwp6/h9jnygh5l/tumblr_static_3j0zdbygs340o4ks84gc440cg.png)
-  
-
-
-
-
+源地址：[\[1\]](http://static.tumblr.com/1f5610b285678fbb92934220275bb398/ceutwp6/h9jnygh5l/tumblr_static_3j0zdbygs340o4ks84gc440cg.png)  
 
 ---
 

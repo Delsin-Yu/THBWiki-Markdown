@@ -1,6 +1,6 @@
 # 文件:STARLIGHT_SPARK封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\49\ns6%3ASTARLIGHT_SPARK%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\49\ns6%3ASTARLIGHT_SPARK%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 SNUG_SPACE | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ SNUG_SPACE | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [STARLIGHT SPARK](./STARLIGHT_SPARK.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
+- [STARLIGHT SPARK](./STARLIGHT_SPARK.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-源地址：[[1]](http://img-cdn.jg.jugem.jp/bc5/1962943/20160809_2074424.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://img-cdn.jg.jugem.jp/bc5/1962943/20160809_2074424.jpg)  
 
 ---
 

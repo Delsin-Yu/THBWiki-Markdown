@@ -1,6 +1,6 @@
 # 文件:いえろ～ぜぶら_ふぃな～れBOX_SP封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\99\ns6%3A%E3%81%84%E3%81%88%E3%82%8D%EF%BD%9E%E3%81%9C%E3%81%B6%E3%82%89_%E3%81%B5%E3%81%83%E3%81%AA%EF%BD%9E%E3%82%8CBOX_SP%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\99\ns6%3A%E3%81%84%E3%81%88%E3%82%8D%EF%BD%9E%E3%81%9C%E3%81%B6%E3%82%89_%E3%81%B5%E3%81%83%E3%81%AA%EF%BD%9E%E3%82%8CBOX_SP%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 いえろ～ぜぶら | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [いえろ～ぜぶら ふぃな～れBOX SP](./いえろ～ぜぶら_ふぃな～れBOX_SP.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [いえろ～ぜぶら ふぃな～れBOX SP](./いえろ～ぜぶら_ふぃな～れBOX_SP.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

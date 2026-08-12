@@ -1,14 +1,11 @@
 # 文件:管狐「Cylinder_Fox」（兽王园）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c1\ns6%3A%E7%AE%A1%E7%8B%90%E3%80%8CCylinder_Fox%E3%80%8D%EF%BC%88%E5%85%BD%E7%8E%8B%E5%9B%AD%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c1\ns6%3A%E7%AE%A1%E7%8B%90%E3%80%8CCylinder_Fox%E3%80%8D%EF%BC%88%E5%85%BD%E7%8E%8B%E5%9B%AD%EF%BC%89%2Epng.html -->
 
 东方兽王园 | 自机符卡 | 菅牧典
 
 
 ## 摘要
-
-
-
 
 ---
 

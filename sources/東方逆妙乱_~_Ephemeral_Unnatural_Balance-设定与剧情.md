@@ -1,6 +1,6 @@
 # 東方逆妙乱_~_Ephemeral_Unnatural_Balance/设定与剧情
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\2e\ns0%3A%E6%9D%B1%E6%96%B9%E9%80%86%E5%A6%99%E4%B9%B1_%7E_Ephemeral_Unnatural_Balance%2F%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\2e\ns0%3A%E6%9D%B1%E6%96%B9%E9%80%86%E5%A6%99%E4%B9%B1_%7E_Ephemeral_Unnatural_Balance%2F%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85.html -->
 
 Ephemeral_Entertainment
 
@@ -20,10 +20,6 @@ Ephemeral_Entertainment
   
 想要挑战自我的玩家可以开启“乱心模式”，在此模式下“纷争之力”是一直开启的。当处于“乱心模式”下时，计量条满了则可以施放炫光弹幕，来消除你周围的弹幕。如果一个非Boss的敌人处于特定的范围内，那么它将会被标记出来。被标记的敌人有几率掉落额外的残机或者弹幕炸弹的碎片。当然，前提是这个敌人足够强大。
   
-
-
-
-
 
 ---
 

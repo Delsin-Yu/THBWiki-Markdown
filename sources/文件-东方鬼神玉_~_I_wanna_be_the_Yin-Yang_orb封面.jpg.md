@@ -1,6 +1,6 @@
 # 文件:东方鬼神玉_~_I_wanna_be_the_Yin-Yang_orb封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ec\ns6%3A%E4%B8%9C%E6%96%B9%E9%AC%BC%E7%A5%9E%E7%8E%89_%7E_I_wanna_be_the_Yin-Yang_orb%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ec\ns6%3A%E4%B8%9C%E6%96%B9%E9%AC%BC%E7%A5%9E%E7%8E%89_%7E_I_wanna_be_the_Yin-Yang_orb%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Popover_Studio | 封面图片 | 软件封面
 
@@ -11,9 +11,6 @@ Popover_Studio | 封面图片 | 软件封面
   
 
 - [东方鬼神玉 ~ I wanna be the Yin-Yang orb](./东方鬼神玉_~_I_wanna_be_the_Yin-Yang_orb.md)
-
-
-
 
 
 ---

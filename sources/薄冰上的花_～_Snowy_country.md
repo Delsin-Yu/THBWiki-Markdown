@@ -1,36 +1,26 @@
 # 薄冰上的花_～_Snowy_country
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\69\ns0%3A%E8%96%84%E5%86%B0%E4%B8%8A%E7%9A%84%E8%8A%B1_%EF%BD%9E_Snowy_country.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\69\ns0%3A%E8%96%84%E5%86%B0%E4%B8%8A%E7%9A%84%E8%8A%B1_%EF%BD%9E_Snowy_country.html -->
 
 JynX作曲 | 引用了翻译表的页面 | 薄冰上的花_～_Snowy_country | 连缘Project | 连缘Project官方音乐
 
-本页是关于 **向[东方Project](./东方Project.md)  
-致敬、形式类似的作品** 的词条
-
+本页是关于**向[东方Project](./东方Project.md)致敬、形式类似的作品**  
+的词条
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 出现作品](#出现作品)
 - [3 音乐文件](#音乐文件)
-
   - [3.1 连缘灵烈传](#连缘灵烈传)
 
 
-
 - [4 说明文本](#说明文本)
-
   - [4.1 连缘灵烈传](#连缘灵烈传_2)
 
 
-
 - [5 其他资料](#其他资料)
-
   - [5.1 乐理资讯](#乐理资讯)
   - [5.2 分析考据](#分析考据)
-
-
-
-
 
 
 
@@ -59,14 +49,12 @@ JynX作曲 | 引用了翻译表的页面 | 薄冰上的花_～_Snowy_country | �
 </td></tr></tbody></table>
 
 
-
 ## 出现作品
 
 <table>
 
 <tbody><tr><td>2014年10月2日（非展会）</td><td><b><a href="./连缘灵烈传～Reactivate_majestical_imperial.md" title="连缘灵烈传～Reactivate majestical imperial" unred="">连缘灵烈传</a></b></td><td>标题画面曲</td><td style="padding-left:5px;">（薄冰上的花 ～ Snowy country）</td><td style="padding-left:10px;">作曲：JynX</td></tr>
 </tbody></table>
-
 
 
 ## 音乐文件
@@ -90,11 +78,11 @@ JynX作曲 | 引用了翻译表的页面 | 薄冰上的花_～_Snowy_country | �
 </td></tr></tbody></table>
 
 
-
 ## 说明文本
 
 ### 连缘灵烈传
-- Music Room (未找到链接)
+
+- [Music Room](./连缘灵烈传～Reactivate_majestical_imperial-Music.md#标题画面曲)
 
 OP的曲子。  
 雪啊〜冰啊〜好冷啊〜  
@@ -106,27 +94,25 @@ OP的曲子。
 毕竟祂们穿得都很清凉呢。  
   
 ・・・・祂们的衣服是哪里买的呢…？
-
 ## 其他资料
 
 ### 乐理资讯
 
 ### 分析考据
   
- **薄氷上の華 ～ Snowy_country**   
+**薄氷上の華 ～ Snowy_country**  
 
 薄冰上的花 ～ Snowy_country
   
 
-- 薄冰上的花
+- 薄冰上的花 
   - 冰凌花，植株矮小，有傲春寒的特性，金黄色的花朵，顶冰而出，素有“林海雪莲”之美称。
   - 费城飞蓬
 
-- Snowy country
+
+- Snowy country 
   - 雪国
   - 本作故事发生在冬天，也可指被冰雪覆盖的无现里
-
-
 
 
 

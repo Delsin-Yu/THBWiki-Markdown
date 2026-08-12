@@ -1,6 +1,6 @@
 # 文件:ShotShell_III封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a0\ns6%3AShotShell_III%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a0\ns6%3AShotShell_III%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 LOST_IN_THE_DARKNESS | PHOENIX_Project | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ LOST_IN_THE_DARKNESS | PHOENIX_Project | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [ShotShell III](./ShotShell_III.md)  
-该封面包含的角色：- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
-
-
-
+- [ShotShell III](./ShotShell_III.md)该封面包含的角色：
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
 
 
 ---

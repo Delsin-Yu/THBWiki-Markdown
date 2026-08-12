@@ -1,6 +1,6 @@
 # 文件:4_Souls_in_Sorrow封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\47\ns6%3A4_Souls_in_Sorrow%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\47\ns6%3A4_Souls_in_Sorrow%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Cursed_Monastery | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ Cursed_Monastery | 专辑封面 | 封面图片
   
 
 - [4 Souls in Sorrow](./4_Souls_in_Sorrow.md)
-
-
-
 
 
 ---

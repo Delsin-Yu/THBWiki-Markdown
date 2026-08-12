@@ -1,6 +1,6 @@
 # 文件:FAR_EAST_OF_EAST_VII封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5a\ns6%3AFAR_EAST_OF_EAST_VII%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5a\ns6%3AFAR_EAST_OF_EAST_VII%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 TatshMusicCircle | 专辑封面 | 封面图片
 
@@ -8,16 +8,12 @@ TatshMusicCircle | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [FAR EAST OF EAST VII](./FAR_EAST_OF_EAST_VII.md)  
-该封面包含的角色：- [古明地觉](./古明地觉.md)- [古明地恋](./古明地恋.md)
+- [FAR EAST OF EAST VII](./FAR_EAST_OF_EAST_VII.md)该封面包含的角色：
+- [古明地觉](./古明地觉.md)
+- [古明地恋](./古明地恋.md)
 
   
-源地址：[[1]](http://tmccd.web.fc2.com/images/feoe7.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://tmccd.web.fc2.com/images/feoe7.jpg)  
 
 ---
 

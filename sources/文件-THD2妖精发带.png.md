@@ -1,12 +1,8 @@
 # 文件:THD2妖精发带.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\80\ns6%3ATHD2%E5%A6%96%E7%B2%BE%E5%8F%91%E5%B8%A6%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\80\ns6%3ATHD2%E5%A6%96%E7%B2%BE%E5%8F%91%E5%B8%A6%2Epng.html -->
 
 AvalonStudioOfficial
-
-
-
-
 
 
 ---

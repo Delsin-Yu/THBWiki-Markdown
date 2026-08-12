@@ -1,6 +1,6 @@
 # 文件:Floating_in_the_Air_of_Autumn_Ω封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\84\ns6%3AFloating_in_the_Air_of_Autumn_%CE%A9%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\84\ns6%3AFloating_in_the_Air_of_Autumn_%CE%A9%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 樱之幻想
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Floating in the Air of Autumn Ω](./Floating_in_the_Air_of_Autumn_Ω.md)  
-该封面包含的角色：- [伊吹萃香](./伊吹萃香.md)
-
-
-
+- [Floating in the Air of Autumn Ω](./Floating_in_the_Air_of_Autumn_Ω.md)该封面包含的角色：
+- [伊吹萃香](./伊吹萃香.md)
 
 
 ---

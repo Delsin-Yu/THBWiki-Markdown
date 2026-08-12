@@ -1,6 +1,6 @@
 # 文件:豪族in畜生メトロポリス大戦～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\42\ns6%3A%E8%B1%AA%E6%97%8Fin%E7%95%9C%E7%94%9F%E3%83%A1%E3%83%88%E3%83%AD%E3%83%9D%E3%83%AA%E3%82%B9%E5%A4%A7%E6%88%A6%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\42\ns6%3A%E8%B1%AA%E6%97%8Fin%E7%95%9C%E7%94%9F%E3%83%A1%E3%83%88%E3%83%AD%E3%83%9D%E3%83%AA%E3%82%B9%E5%A4%A7%E6%88%A6%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 はじけ組っ! | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [豪族in畜生メトロポリス大戦～](./豪族in畜生メトロポリス大戦～.md)  
-该封面包含的角色：- [物部布都](./物部布都.md)
-
-
-
+- [豪族in畜生メトロポリス大戦～](./豪族in畜生メトロポリス大戦～.md)该封面包含的角色：
+- [物部布都](./物部布都.md)
 
 
 ---

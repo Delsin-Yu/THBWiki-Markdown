@@ -1,6 +1,6 @@
 # 文件:東方雨仰石～Promised_mystery_of_moisture.封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a3\ns6%3A%E6%9D%B1%E6%96%B9%E9%9B%A8%E4%BB%B0%E7%9F%B3%EF%BD%9EPromised_mystery_of_moisture%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a3\ns6%3A%E6%9D%B1%E6%96%B9%E9%9B%A8%E4%BB%B0%E7%9F%B3%EF%BD%9EPromised_mystery_of_moisture%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 封面图片 | 软件封面 | 遊色高楼
 
@@ -9,9 +9,6 @@
   
 
 - [東方雨仰石～Promised mystery of moisture.](./東方雨仰石～Promised_mystery_of_moisture..md)
-
-
-
 
 
 ---

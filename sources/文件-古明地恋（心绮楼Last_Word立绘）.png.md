@@ -1,12 +1,8 @@
 # 文件:古明地恋（心绮楼Last_Word立绘）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4f\ns6%3A%E5%8F%A4%E6%98%8E%E5%9C%B0%E6%81%8B%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BCLast_Word%E7%AB%8B%E7%BB%98%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4f\ns6%3A%E5%8F%A4%E6%98%8E%E5%9C%B0%E6%81%8B%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BCLast_Word%E7%AB%8B%E7%BB%98%EF%BC%89%2Epng.html -->
 
 Alphes绘 | 东方心绮楼 | 古明地恋 | 官方游戏立绘
-
-
-
-
 
 
 ---

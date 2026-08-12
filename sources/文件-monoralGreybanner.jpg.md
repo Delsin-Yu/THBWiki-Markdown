@@ -1,16 +1,11 @@
 # 文件:monoralGreybanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\41\ns6%3AmonoralGreybanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\41\ns6%3AmonoralGreybanner%2Ejpg.html -->
 
 monoralGrey | 社团LOGO
 
   
-源地址：[[1]](https://pbs.twimg.com/profile_images/619900115273146368/AgNEBUC_.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://pbs.twimg.com/profile_images/619900115273146368/AgNEBUC_.jpg)  
 
 ---
 

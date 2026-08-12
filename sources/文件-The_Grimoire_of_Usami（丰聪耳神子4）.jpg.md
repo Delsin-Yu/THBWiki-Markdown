@@ -1,14 +1,11 @@
 # 文件:The_Grimoire_of_Usami（丰聪耳神子4）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\da\ns6%3AThe_Grimoire_of_Usami%EF%BC%88%E4%B8%B0%E8%81%AA%E8%80%B3%E7%A5%9E%E5%AD%904%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\da\ns6%3AThe_Grimoire_of_Usami%EF%BC%88%E4%B8%B0%E8%81%AA%E8%80%B3%E7%A5%9E%E5%AD%904%EF%BC%89%2Ejpg.html -->
 
 丰聪耳神子 | 宇佐见的魔法书
 
 
 ## 摘要
-
-
-
 
 ---
 

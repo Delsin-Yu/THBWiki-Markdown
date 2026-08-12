@@ -1,34 +1,27 @@
 # 東方夢終劇_～_Concealed_the_Conclusion/符卡/Stage_3B
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\e\e7\ns0%3A%E6%9D%B1%E6%96%B9%E5%A4%A2%E7%B5%82%E5%8A%87_%EF%BD%9E_Concealed_the_Conclusion%2F%E7%AC%A6%E5%8D%A1%2FStage_3B.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\e\e7\ns0%3A%E6%9D%B1%E6%96%B9%E5%A4%A2%E7%B5%82%E5%8A%87_%EF%BD%9E_Concealed_the_Conclusion%2F%E7%AC%A6%E5%8D%A1%2FStage_3B.html -->
 
 Danmaq | 含有受损文件链接的页面
 
 <center>
-
 <table>
 <tbody><tr>
-<td>&lt;
+<td><
 </td>
-<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./東方夢終劇_～_Concealed_the_Conclusion-符卡-Stage_2B.md" title="東方夢終劇 ～ Concealed the Conclusion/符卡/Stage 2B">Stage 2B</a>&#160;
+<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./東方夢終劇_～_Concealed_the_Conclusion-符卡-Stage_2B.md" title="東方夢終劇 ～ Concealed the Conclusion/符卡/Stage 2B">Stage 2B</a> 
 </td>
-<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="./東方夢終劇_～_Concealed_the_Conclusion-符卡.md" title="東方夢終劇 ～ Concealed the Conclusion/符卡">符卡</a>&#160;
+<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;"> <a href="./東方夢終劇_～_Concealed_the_Conclusion-符卡.md" title="東方夢終劇 ～ Concealed the Conclusion/符卡">符卡</a> 
 </td>
-<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left">&#160;<a href="./東方夢終劇_～_Concealed_the_Conclusion-符卡-Stage_4.md" title="東方夢終劇 ～ Concealed the Conclusion/符卡/Stage 4">Stage 4</a>
+<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left"> <a href="./東方夢終劇_～_Concealed_the_Conclusion-符卡-Stage_4.md" title="東方夢終劇 ～ Concealed the Conclusion/符卡/Stage 4">Stage 4</a>
 </td>
-<td>&gt;
+<td>>
 </td></tr></tbody></table>
 
   
 </center>
-  
-  
-
-  
-
-
 <table>
-<tbody><tr><td width="80">符卡编号</td><td width="400">088</td><td rowspan="6" width="120"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%BB%88%E5%89%A7%E7%AC%A6%E5%8D%A1088.jpg" class="new" title="文件:东方梦终剧符卡088.jpg">文件:东方梦终剧符卡088.jpg</a></td></tr>
+<tbody><tr><td width="80">符卡编号</td><td width="400">088</td><td rowspan="6" width="120"><a class="new" title="文件:东方梦终剧符卡088.jpg">文件:东方梦终剧符卡088.jpg</a></td></tr>
 <tr><td>符卡原名</td><td>欺符「トリックスターロード ～ Easy」</td></tr><tr><td>符卡译名</td><td>欺符「谋略的星光之道 ～ Easy」</td></tr><tr><td>出现位置</td><td>Stage 3B
  - Easy（因幡帝）</td></tr><tr><td>说明文本</td><td>真の中に偽を紛れ込ませる詐話の基本テクニック。
 <p>歌って騙せる詐欺師への第一歩。嘘か本当か、
@@ -39,14 +32,8 @@ Danmaq | 含有受损文件链接的页面
 究竟是真是假，真相只有靠自己的双眼来判断。</td></tr></tbody></table>
 
 
-  
-  
-
-  
-
-
 <table>
-<tbody><tr><td width="80">符卡编号</td><td width="400">089</td><td rowspan="6" width="120"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%BB%88%E5%89%A7%E7%AC%A6%E5%8D%A1089.jpg" class="new" title="文件:东方梦终剧符卡089.jpg">文件:东方梦终剧符卡089.jpg</a></td></tr>
+<tbody><tr><td width="80">符卡编号</td><td width="400">089</td><td rowspan="6" width="120"><a class="new" title="文件:东方梦终剧符卡089.jpg">文件:东方梦终剧符卡089.jpg</a></td></tr>
 <tr><td>符卡原名</td><td>欺符「トリックスターロード」</td></tr><tr><td>符卡译名</td><td>欺符「谋略的星光之道」</td></tr><tr><td>出现位置</td><td>Stage 3B
  - Normal（因幡帝）</td></tr><tr><td>说明文本</td><td>真の中に偽を紛れ込ませる詐話の基本テクニック。
 <p>歌って騙せる詐欺師への第一歩。
@@ -59,14 +46,8 @@ Danmaq | 含有受损文件链接的页面
 欺诈师之路上……！</td></tr></tbody></table>
 
 
-  
-  
-
-  
-
-
 <table>
-<tbody><tr><td width="80">符卡编号</td><td width="400">090</td><td rowspan="6" width="120"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%BB%88%E5%89%A7%E7%AC%A6%E5%8D%A1090.jpg" class="new" title="文件:东方梦终剧符卡090.jpg">文件:东方梦终剧符卡090.jpg</a></td></tr>
+<tbody><tr><td width="80">符卡编号</td><td width="400">090</td><td rowspan="6" width="120"><a class="new" title="文件:东方梦终剧符卡090.jpg">文件:东方梦终剧符卡090.jpg</a></td></tr>
 <tr><td>符卡原名</td><td>欺符「トリックスターステージ」</td></tr><tr><td>符卡译名</td><td>欺符「谋略的星光舞台」</td></tr><tr><td>出现位置</td><td>Stage 3B
  - Hard（因幡帝）</td></tr><tr><td>说明文本</td><td>真の中に偽を紛れ込ませる詐話の基本テクニック。
 <p>歌って騙せる詐欺師の本領発揮。
@@ -79,14 +60,8 @@ Danmaq | 含有受损文件链接的页面
 你能看穿全部谎言吗？</td></tr></tbody></table>
 
 
-  
-  
-
-  
-
-
 <table>
-<tbody><tr><td width="80">符卡编号</td><td width="400">091</td><td rowspan="6" width="120"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%BB%88%E5%89%A7%E7%AC%A6%E5%8D%A1091.jpg" class="new" title="文件:东方梦终剧符卡091.jpg">文件:东方梦终剧符卡091.jpg</a></td></tr>
+<tbody><tr><td width="80">符卡编号</td><td width="400">091</td><td rowspan="6" width="120"><a class="new" title="文件:东方梦终剧符卡091.jpg">文件:东方梦终剧符卡091.jpg</a></td></tr>
 <tr><td>符卡原名</td><td>欺符「トリックスターステージ ～ Lunatic」</td></tr><tr><td>符卡译名</td><td>欺符「谋略的星光舞台 ～ Lunatic」</td></tr><tr><td>出现位置</td><td>Stage 3B
  - Lunatic（因幡帝）</td></tr><tr><td>说明文本</td><td>真の中に偽を紛れ込ませる詐話の基本テクニック。
 <p>歌って騙せる詐欺師の本領発揮。
@@ -99,15 +74,9 @@ Danmaq | 含有受损文件链接的页面
 却很难。</td></tr></tbody></table>
 
 
-  
-  
-
-  
-
-
 <table>
-<tbody><tr><td width="80">符卡编号</td><td width="400">092</td><td rowspan="6" width="120"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%BB%88%E5%89%A7%E7%AC%A6%E5%8D%A1092.jpg" class="new" title="文件:东方梦终剧符卡092.jpg">文件:东方梦终剧符卡092.jpg</a></td></tr>
-<tr><td>符卡原名</td><td>薬符「蒲黄の皮膜 ～ Easy」</td></tr><tr><td>符卡译名</td><td>药符「蒲黄的薄膜 ～ Easy」<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">1</a></sup></td></tr><tr><td>出现位置</td><td>Stage 3B
+<tbody><tr><td width="80">符卡编号</td><td width="400">092</td><td rowspan="6" width="120"><a class="new" title="文件:东方梦终剧符卡092.jpg">文件:东方梦终剧符卡092.jpg</a></td></tr>
+<tr><td>符卡原名</td><td>薬符「蒲黄の皮膜 ～ Easy」</td></tr><tr><td>符卡译名</td><td>药符「蒲黄的薄膜 ～ Easy」<span>[^cite_note-1]</span></td></tr><tr><td>出现位置</td><td>Stage 3B
  - Easy（因幡帝）</td></tr><tr><td>说明文本</td><td>身にまとった蒲黄をばら撒き、敵の目を欺く。
 <p>傷に付けても飲んでも効くガマの花粉だが、
 </p>
@@ -117,14 +86,8 @@ Danmaq | 含有受损文件链接的页面
 但是能不能拿来当弹幕我就不太清楚了。</td></tr></tbody></table>
 
 
-  
-  
-
-  
-
-
 <table>
-<tbody><tr><td width="80">符卡编号</td><td width="400">093</td><td rowspan="6" width="120"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%BB%88%E5%89%A7%E7%AC%A6%E5%8D%A1093.jpg" class="new" title="文件:东方梦终剧符卡093.jpg">文件:东方梦终剧符卡093.jpg</a></td></tr>
+<tbody><tr><td width="80">符卡编号</td><td width="400">093</td><td rowspan="6" width="120"><a class="new" title="文件:东方梦终剧符卡093.jpg">文件:东方梦终剧符卡093.jpg</a></td></tr>
 <tr><td>符卡原名</td><td>薬符「蒲黄の皮膜」</td></tr><tr><td>符卡译名</td><td>药符「蒲黄的薄膜」</td></tr><tr><td>出现位置</td><td>Stage 3B
  - Normal（因幡帝）</td></tr><tr><td>说明文本</td><td>身にまとった蒲黄をばら撒き、敵の目を欺く。
 <p>元は永琳の研究室にあった治療用の符であったが、
@@ -135,14 +98,8 @@ Danmaq | 含有受损文件链接的页面
 由此反映出了使用者完全不同的秉性。</td></tr></tbody></table>
 
 
-  
-  
-
-  
-
-
 <table>
-<tbody><tr><td width="80">符卡编号</td><td width="400">094</td><td rowspan="6" width="120"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%BB%88%E5%89%A7%E7%AC%A6%E5%8D%A1094.jpg" class="new" title="文件:东方梦终剧符卡094.jpg">文件:东方梦终剧符卡094.jpg</a></td></tr>
+<tbody><tr><td width="80">符卡编号</td><td width="400">094</td><td rowspan="6" width="120"><a class="new" title="文件:东方梦终剧符卡094.jpg">文件:东方梦终剧符卡094.jpg</a></td></tr>
 <tr><td>符卡原名</td><td>薬符「蒲黄の皮膜 ～ Hard」</td></tr><tr><td>符卡译名</td><td>药符「蒲黄的薄膜 ～ Hard」</td></tr><tr><td>出现位置</td><td>Stage 3B
  - Hard（因幡帝）</td></tr><tr><td>说明文本</td><td>身にまとった蒲黄をばら撒き、敵の目を欺く。
 <p>ガマの花粉は万能薬として有名なガマの油の原料。
@@ -153,14 +110,8 @@ Danmaq | 含有受损文件链接的页面
 其实和冰之湖里以冰精为主食的那个没有关系。</td></tr></tbody></table>
 
 
-  
-  
-
-  
-
-
 <table>
-<tbody><tr><td width="80">符卡编号</td><td width="400">095</td><td rowspan="6" width="120"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%BB%88%E5%89%A7%E7%AC%A6%E5%8D%A1095.jpg" class="new" title="文件:东方梦终剧符卡095.jpg">文件:东方梦终剧符卡095.jpg</a></td></tr>
+<tbody><tr><td width="80">符卡编号</td><td width="400">095</td><td rowspan="6" width="120"><a class="new" title="文件:东方梦终剧符卡095.jpg">文件:东方梦终剧符卡095.jpg</a></td></tr>
 <tr><td>符卡原名</td><td>薬符「蒲黄の皮膜 ～ Lunatic」</td></tr><tr><td>符卡译名</td><td>药符「蒲黄的薄膜 ～ Lunatic」</td></tr><tr><td>出现位置</td><td>Stage 3B
  - Lunatic（因幡帝）</td></tr><tr><td>说明文本</td><td>身にまとった蒲黄をばら撒き、敵の目を欺く。
 <p>花粉症相手には効果倍増のスペル。
@@ -173,14 +124,8 @@ Danmaq | 含有受损文件链接的页面
 毫无疑问会酿成大惨剧。</td></tr></tbody></table>
 
 
-  
-  
-
-  
-
-
 <table>
-<tbody><tr><td width="80">符卡编号</td><td width="400">096</td><td rowspan="6" width="120"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%BB%88%E5%89%A7%E7%AC%A6%E5%8D%A1096.jpg" class="new" title="文件:东方梦终剧符卡096.jpg">文件:东方梦终剧符卡096.jpg</a></td></tr>
+<tbody><tr><td width="80">符卡编号</td><td width="400">096</td><td rowspan="6" width="120"><a class="new" title="文件:东方梦终剧符卡096.jpg">文件:东方梦终剧符卡096.jpg</a></td></tr>
 <tr><td>符卡原名</td><td>檻符「ラビットケージ ～ Easy」</td></tr><tr><td>符卡译名</td><td>槛符「兔笼 ～ Easy」</td></tr><tr><td>出现位置</td><td>Stage 3B
  - Easy（因幡帝）</td></tr><tr><td>说明文本</td><td>弾幕の檻で敵を囲い込み、動きを封じる。
 <p>柵に囚われた相手を鑑賞するため所々に隙間を
@@ -193,14 +138,8 @@ Danmaq | 含有受损文件链接的页面
 设计稍稍有些粗陋。</td></tr></tbody></table>
 
 
-  
-  
-
-  
-
-
 <table>
-<tbody><tr><td width="80">符卡编号</td><td width="400">097</td><td rowspan="6" width="120"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%BB%88%E5%89%A7%E7%AC%A6%E5%8D%A1097.jpg" class="new" title="文件:东方梦终剧符卡097.jpg">文件:东方梦终剧符卡097.jpg</a></td></tr>
+<tbody><tr><td width="80">符卡编号</td><td width="400">097</td><td rowspan="6" width="120"><a class="new" title="文件:东方梦终剧符卡097.jpg">文件:东方梦终剧符卡097.jpg</a></td></tr>
 <tr><td>符卡原名</td><td>檻符「ラビットケージ」</td></tr><tr><td>符卡译名</td><td>槛符「兔笼」</td></tr><tr><td>出现位置</td><td>Stage 3B
  - Normal（因幡帝）</td></tr><tr><td>说明文本</td><td>弾幕の檻で敵を囲い込み、動きを封じる。
 <p>仲間の兎が言うことを聞かない時にキレて反省房
@@ -212,14 +151,8 @@ Danmaq | 含有受损文件链接的页面
 在兔子间暗中的被畏惧着。</td></tr></tbody></table>
 
 
-  
-  
-
-  
-
-
 <table>
-<tbody><tr><td width="80">符卡编号</td><td width="400">098</td><td rowspan="6" width="120"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%BB%88%E5%89%A7%E7%AC%A6%E5%8D%A1098.jpg" class="new" title="文件:东方梦终剧符卡098.jpg">文件:东方梦终剧符卡098.jpg</a></td></tr>
+<tbody><tr><td width="80">符卡编号</td><td width="400">098</td><td rowspan="6" width="120"><a class="new" title="文件:东方梦终剧符卡098.jpg">文件:东方梦终剧符卡098.jpg</a></td></tr>
 <tr><td>符卡原名</td><td>檻符「ラビットケージ ～ Hard」</td></tr><tr><td>符卡译名</td><td>槛符「兔笼 ～ Hard」</td></tr><tr><td>出现位置</td><td>Stage 3B
  - Hard（因幡帝）</td></tr><tr><td>说明文本</td><td>弾幕の檻で敵を囲い込み、動きを封じる。
 <p>鞭のように変幻自在にしなるフェンス。
@@ -232,14 +165,8 @@ Danmaq | 含有受损文件链接的页面
 有S系气质……？</td></tr></tbody></table>
 
 
-  
-  
-
-  
-
-
 <table>
-<tbody><tr><td width="80">符卡编号</td><td width="400">099</td><td rowspan="6" width="120"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%BB%88%E5%89%A7%E7%AC%A6%E5%8D%A1099.jpg" class="new" title="文件:东方梦终剧符卡099.jpg">文件:东方梦终剧符卡099.jpg</a></td></tr>
+<tbody><tr><td width="80">符卡编号</td><td width="400">099</td><td rowspan="6" width="120"><a class="new" title="文件:东方梦终剧符卡099.jpg">文件:东方梦终剧符卡099.jpg</a></td></tr>
 <tr><td>符卡原名</td><td>檻符「ラビットケージ ～ Lunatic」</td></tr><tr><td>符卡译名</td><td>槛符「兔笼 ～ Lunatic」</td></tr><tr><td>出现位置</td><td>Stage 3B
  - Lunatic（因幡帝）</td></tr><tr><td>说明文本</td><td>弾幕の檻で敵を囲い込み、動きを封じる。
 <p>敵パーティを分断するのにも有効。
@@ -252,14 +179,8 @@ Danmaq | 含有受损文件链接的页面
 果然是S系吗……？</td></tr></tbody></table>
 
 
-  
-  
-
-  
-
-
 <table>
-<tbody><tr><td width="80">符卡编号</td><td width="400">100</td><td rowspan="6" width="120"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%BB%88%E5%89%A7%E7%AC%A6%E5%8D%A1100.jpg" class="new" title="文件:东方梦终剧符卡100.jpg">文件:东方梦终剧符卡100.jpg</a></td></tr>
+<tbody><tr><td width="80">符卡编号</td><td width="400">100</td><td rowspan="6" width="120"><a class="new" title="文件:东方梦终剧符卡100.jpg">文件:东方梦终剧符卡100.jpg</a></td></tr>
 <tr><td>符卡原名</td><td>兎符「月の素兎、地の玄兎 ～ Easy」</td></tr><tr><td>符卡译名</td><td>兔符「月上白兔，地上玄兔 ～ Easy」</td></tr><tr><td>出现位置</td><td>Stage 3B
  - Easy（因幡帝）</td></tr><tr><td>说明文本</td><td>月面と地上の兎を総動員してのアタック。
 <p>符による魔力で兎達の動作を統制するが、基本的
@@ -271,14 +192,8 @@ Danmaq | 含有受损文件链接的页面
 日复一日的碰头和排练。</td></tr></tbody></table>
 
 
-  
-  
-
-  
-
-
 <table>
-<tbody><tr><td width="80">符卡编号</td><td width="400">101</td><td rowspan="6" width="120"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%BB%88%E5%89%A7%E7%AC%A6%E5%8D%A1101.jpg" class="new" title="文件:东方梦终剧符卡101.jpg">文件:东方梦终剧符卡101.jpg</a></td></tr>
+<tbody><tr><td width="80">符卡编号</td><td width="400">101</td><td rowspan="6" width="120"><a class="new" title="文件:东方梦终剧符卡101.jpg">文件:东方梦终剧符卡101.jpg</a></td></tr>
 <tr><td>符卡原名</td><td>兎符「月の素兎、地の玄兎」</td></tr><tr><td>符卡译名</td><td>兔符「月上白兔，地上玄兔」</td></tr><tr><td>出现位置</td><td>Stage 3B
  - Normal（因幡帝）</td></tr><tr><td>说明文本</td><td>月面と地上の兎を総動員してのアタック。
 <p>マスゲームよろしく、規則的に展開する演舞に
@@ -291,14 +206,8 @@ Danmaq | 含有受损文件链接的页面
 小心不要变成这样。</td></tr></tbody></table>
 
 
-  
-  
-
-  
-
-
 <table>
-<tbody><tr><td width="80">符卡编号</td><td width="400">102</td><td rowspan="6" width="120"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%BB%88%E5%89%A7%E7%AC%A6%E5%8D%A1102.jpg" class="new" title="文件:东方梦终剧符卡102.jpg">文件:东方梦终剧符卡102.jpg</a></td></tr>
+<tbody><tr><td width="80">符卡编号</td><td width="400">102</td><td rowspan="6" width="120"><a class="new" title="文件:东方梦终剧符卡102.jpg">文件:东方梦终剧符卡102.jpg</a></td></tr>
 <tr><td>符卡原名</td><td>兎符「月の素兎、地の玄兎 ～ Hard」</td></tr><tr><td>符卡译名</td><td>兔符「月上白兔，地上玄兔 ～ Hard」</td></tr><tr><td>出现位置</td><td>Stage 3B
  - Hard（因幡帝）</td></tr><tr><td>说明文本</td><td>月面と地上、兎達の夢の競演。
 <p>外界には異国の語を話す桃色兎がいるらしいが、
@@ -311,14 +220,8 @@ Danmaq | 含有受损文件链接的页面
 要变得一塌糊涂了。</td></tr></tbody></table>
 
 
-  
-  
-
-  
-
-
 <table>
-<tbody><tr><td width="80">符卡编号</td><td width="400">103</td><td rowspan="6" width="120"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%BB%88%E5%89%A7%E7%AC%A6%E5%8D%A1103.jpg" class="new" title="文件:东方梦终剧符卡103.jpg">文件:东方梦终剧符卡103.jpg</a></td></tr>
+<tbody><tr><td width="80">符卡编号</td><td width="400">103</td><td rowspan="6" width="120"><a class="new" title="文件:东方梦终剧符卡103.jpg">文件:东方梦终剧符卡103.jpg</a></td></tr>
 <tr><td>符卡原名</td><td>兎符「月の素兎、地の玄兎 ～ Lunatic」</td></tr><tr><td>符卡译名</td><td>兔符「月上白兔，地上玄兔 ～ Lunatic」</td></tr><tr><td>出现位置</td><td>Stage 3B
  - Lunatic（因幡帝）</td></tr><tr><td>说明文本</td><td>月面と地上、兎達の夢の競演。
 <p>外界には音楽を操る赤兎と黒兎がいるらしいが、
@@ -330,14 +233,8 @@ Danmaq | 含有受损文件链接的页面
 请务必一起加入进来提高舞蹈的艺术性。</td></tr></tbody></table>
 
 
-  
-  
-
-  
-
-
 <table>
-<tbody><tr><td width="80">符卡编号</td><td width="400">104</td><td rowspan="6" width="120"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%BB%88%E5%89%A7%E7%AC%A6%E5%8D%A1104.jpg" class="new" title="文件:东方梦终剧符卡104.jpg">文件:东方梦终剧符卡104.jpg</a></td></tr>
+<tbody><tr><td width="80">符卡编号</td><td width="400">104</td><td rowspan="6" width="120"><a class="new" title="文件:东方梦终剧符卡104.jpg">文件:东方梦终剧符卡104.jpg</a></td></tr>
 <tr><td>符卡原名</td><td>跳符「因幡の鰐渡り ～ Easy」</td></tr><tr><td>符卡译名</td><td>跳符「因幡的鳄鱼渡海法 ～ Easy」</td></tr><tr><td>出现位置</td><td>Stage 3B
  - Easy（因幡帝）</td></tr><tr><td>说明文本</td><td>鰐の背中を渡るかのように跳ね回る兎達。
 <p>御伽噺では嘘をついて裸にひん剥かれた白兎だが、
@@ -350,14 +247,8 @@ Danmaq | 含有受损文件链接的页面
 不这么说。</td></tr></tbody></table>
 
 
-  
-  
-
-  
-
-
 <table>
-<tbody><tr><td width="80">符卡编号</td><td width="400">105</td><td rowspan="6" width="120"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%BB%88%E5%89%A7%E7%AC%A6%E5%8D%A1105.jpg" class="new" title="文件:东方梦终剧符卡105.jpg">文件:东方梦终剧符卡105.jpg</a></td></tr>
+<tbody><tr><td width="80">符卡编号</td><td width="400">105</td><td rowspan="6" width="120"><a class="new" title="文件:东方梦终剧符卡105.jpg">文件:东方梦终剧符卡105.jpg</a></td></tr>
 <tr><td>符卡原名</td><td>跳符「因幡の鰐渡り」</td></tr><tr><td>符卡译名</td><td>跳符「因幡的鳄鱼渡海法」</td></tr><tr><td>出现位置</td><td>Stage 3B
  - Normal（因幡帝）</td></tr><tr><td>说明文本</td><td>鰐の背中を渡るかのように跳ね回る兎達。
 <p>御伽噺では嘘をついて酷い目にあった白兎だが、
@@ -369,14 +260,8 @@ Danmaq | 含有受损文件链接的页面
 搞得我也想说谎试试看了。</td></tr></tbody></table>
 
 
-  
-  
-
-  
-
-
 <table>
-<tbody><tr><td width="80">符卡编号</td><td width="400">106</td><td rowspan="6" width="120"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%BB%88%E5%89%A7%E7%AC%A6%E5%8D%A1106.jpg" class="new" title="文件:东方梦终剧符卡106.jpg">文件:东方梦终剧符卡106.jpg</a></td></tr>
+<tbody><tr><td width="80">符卡编号</td><td width="400">106</td><td rowspan="6" width="120"><a class="new" title="文件:东方梦终剧符卡106.jpg">文件:东方梦终剧符卡106.jpg</a></td></tr>
 <tr><td>符卡原名</td><td>跳符「因幡の鰐渡り ～ Hard」</td></tr><tr><td>符卡译名</td><td>跳符「因幡的鳄鱼渡海法 ～ Hard」</td></tr><tr><td>出现位置</td><td>Stage 3B
  - Hard（因幡帝）</td></tr><tr><td>说明文本</td><td>鰐の背中を渡るかのように跳ね回る兎達。
 <p>騙す時は最後まで気を抜くべからずと言うことを、
@@ -387,14 +272,8 @@ Danmaq | 含有受损文件链接的页面
 神话传达给我们的是这样的教训。</td></tr></tbody></table>
 
 
-  
-  
-
-  
-
-
 <table>
-<tbody><tr><td width="80">符卡编号</td><td width="400">107</td><td rowspan="6" width="120"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%BB%88%E5%89%A7%E7%AC%A6%E5%8D%A1107.jpg" class="new" title="文件:东方梦终剧符卡107.jpg">文件:东方梦终剧符卡107.jpg</a></td></tr>
+<tbody><tr><td width="80">符卡编号</td><td width="400">107</td><td rowspan="6" width="120"><a class="new" title="文件:东方梦终剧符卡107.jpg">文件:东方梦终剧符卡107.jpg</a></td></tr>
 <tr><td>符卡原名</td><td>跳符「因幡の鰐渡り ～ Lunatic」</td></tr><tr><td>符卡译名</td><td>跳符「因幡的鳄鱼渡海法 ～ Lunatic」</td></tr><tr><td>出现位置</td><td>Stage 3B
  - Lunatic（因幡帝）</td></tr><tr><td>说明文本</td><td>鰐の背中を渡るかのように跳ね回る兎達。
 <p>かつて同様に亀の背中を跳び渡って荷物を届ける
@@ -407,14 +286,8 @@ Danmaq | 含有受损文件链接的页面
 （这么说的话还被用作时钟的设计了）</td></tr></tbody></table>
 
 
-  
-  
-
-  
-
-
 <table>
-<tbody><tr><td width="80">符卡编号</td><td width="400">108</td><td rowspan="6" width="120"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%BB%88%E5%89%A7%E7%AC%A6%E5%8D%A1108.jpg" class="new" title="文件:东方梦终剧符卡108.jpg">文件:东方梦终剧符卡108.jpg</a></td></tr>
+<tbody><tr><td width="80">符卡编号</td><td width="400">108</td><td rowspan="6" width="120"><a class="new" title="文件:东方梦终剧符卡108.jpg">文件:东方梦终剧符卡108.jpg</a></td></tr>
 <tr><td>符卡原名</td><td>虚実「レヴァリットミラージュ」</td></tr><tr><td>符卡译名</td><td>虚实「兔穴幻境」</td></tr><tr><td>出现位置</td><td>Stage 3B
  - Normal（因幡帝）</td></tr><tr><td>说明文本</td><td>いわゆるひとつの分身の術。
 <p>分身は、わずかな妖力を持つ子兎を大勢集め、
@@ -427,14 +300,8 @@ Danmaq | 含有受损文件链接的页面
 Team Work（团队合作）成就的技巧。</td></tr></tbody></table>
 
 
-  
-  
-
-  
-
-
 <table>
-<tbody><tr><td width="80">符卡编号</td><td width="400">109</td><td rowspan="6" width="120"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%BB%88%E5%89%A7%E7%AC%A6%E5%8D%A1109.jpg" class="new" title="文件:东方梦终剧符卡109.jpg">文件:东方梦终剧符卡109.jpg</a></td></tr>
+<tbody><tr><td width="80">符卡编号</td><td width="400">109</td><td rowspan="6" width="120"><a class="new" title="文件:东方梦终剧符卡109.jpg">文件:东方梦终剧符卡109.jpg</a></td></tr>
 <tr><td>符卡原名</td><td>虚実「レヴァリットミラージュ ～ Hard」</td></tr><tr><td>符卡译名</td><td>虚实「兔穴幻境 ～ Hard」</td></tr><tr><td>出现位置</td><td>Stage 3B
  - Hard（因幡帝）</td></tr><tr><td>说明文本</td><td>一つの真には必ず二つ以上の偽が付きまとう。
 <p>「正直者は馬鹿を見る」と言われるが、それは
@@ -447,14 +314,8 @@ Team Work（团队合作）成就的技巧。</td></tr></tbody></table>
 自己的正直之上而已。</td></tr></tbody></table>
 
 
-  
-  
-
-  
-
-
 <table>
-<tbody><tr><td width="80">符卡编号</td><td width="400">110</td><td rowspan="6" width="120"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%BB%88%E5%89%A7%E7%AC%A6%E5%8D%A1110.jpg" class="new" title="文件:东方梦终剧符卡110.jpg">文件:东方梦终剧符卡110.jpg</a></td></tr>
+<tbody><tr><td width="80">符卡编号</td><td width="400">110</td><td rowspan="6" width="120"><a class="new" title="文件:东方梦终剧符卡110.jpg">文件:东方梦终剧符卡110.jpg</a></td></tr>
 <tr><td>符卡原名</td><td>虚実「レヴァリットミラージュ ～ Lunatic」</td></tr><tr><td>符卡译名</td><td>虚实「兔穴幻境 ～ Lunatic」</td></tr><tr><td>出现位置</td><td>Stage 3B
  - Lunatic（因幡帝）</td></tr><tr><td>说明文本</td><td>集中して観察すればヴェッジを探すより遥かに
 <p>簡単だが、弾幕は集中力の向きを捻じ曲げる。
@@ -466,29 +327,22 @@ Team Work（团队合作）成就的技巧。</td></tr></tbody></table>
 </p>
 啊，学费要放进这个香资箱里哦？</td></tr></tbody></table>
 
-
 <center>
-
 <table>
 <tbody><tr>
-<td>&lt;
+<td><
 </td>
-<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./東方夢終劇_～_Concealed_the_Conclusion-符卡-Stage_2B.md" title="東方夢終劇 ～ Concealed the Conclusion/符卡/Stage 2B">Stage 2B</a>&#160;
+<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./東方夢終劇_～_Concealed_the_Conclusion-符卡-Stage_2B.md" title="東方夢終劇 ～ Concealed the Conclusion/符卡/Stage 2B">Stage 2B</a> 
 </td>
-<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="./東方夢終劇_～_Concealed_the_Conclusion-符卡.md" title="東方夢終劇 ～ Concealed the Conclusion/符卡">符卡</a>&#160;
+<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;"> <a href="./東方夢終劇_～_Concealed_the_Conclusion-符卡.md" title="東方夢終劇 ～ Concealed the Conclusion/符卡">符卡</a> 
 </td>
-<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left">&#160;<a href="./東方夢終劇_～_Concealed_the_Conclusion-符卡-Stage_4.md" title="東方夢終劇 ～ Concealed the Conclusion/符卡/Stage 4">Stage 4</a>
+<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left"> <a href="./東方夢終劇_～_Concealed_the_Conclusion-符卡-Stage_4.md" title="東方夢終劇 ～ Concealed the Conclusion/符卡/Stage 4">Stage 4</a>
 </td>
-<td>&gt;
+<td>>
 </td></tr></tbody></table>
 
   
-</center>
-[^cite_note-1]: [蒲黄](https://en.wikipedia.org/wiki/zh:香蒲属)是一种药物。
-
-
-
-
+</center>[^cite_note-1]: [蒲黄](https://en.wikipedia.org/wiki/zh:香蒲属)是一种药物。
 
 ---
 

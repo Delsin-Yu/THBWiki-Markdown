@@ -1,6 +1,6 @@
 # 文件:Entrance_of_Jade_Forest封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1e\ns6%3AEntrance_of_Jade_Forest%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1e\ns6%3AEntrance_of_Jade_Forest%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Orpheus | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Orpheus | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Entrance of Jade Forest](./Entrance_of_Jade_Forest.md)  
-该封面包含的角色：- [河城荷取](./河城荷取.md)
+- [Entrance of Jade Forest](./Entrance_of_Jade_Forest.md)该封面包含的角色：
+- [河城荷取](./河城荷取.md)
 
   
-源地址：[Pixiv illust ID 60661777](https://i.pximg.net/img-master/img/2016/12/31/08/27/22/60661777_p0_master1200.jpg)
-  
-
-
-
-
+源地址：[Pixiv illust ID 60661777](https://i.pximg.net/img-master/img/2016/12/31/08/27/22/60661777_p0_master1200.jpg)  
 
 ---
 

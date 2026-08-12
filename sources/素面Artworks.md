@@ -1,30 +1,26 @@
 # 素面Artworks
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\1\11\ns0%3A%E7%B4%A0%E9%9D%A2Artworks.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\1\11\ns0%3A%E7%B4%A0%E9%9D%A2Artworks.html -->
 
 2015年5月10日 由 西明石俗物園 于 博丽神社例大祭12 发布的画集同人志，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人志 (未找到链接)** 的词条
-
+**[二次创作同人志](./二次创作.md#同人志)**的词条
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-素面Artworks封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/1/17/%E7%B4%A0%E9%9D%A2Artworks%E5%B0%81%E9%9D%A2.jpg/100px-%E7%B4%A0%E9%9D%A2Artworks%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="100" height="140" srcset="https://upload.thwiki.cc/thumb/1/17/%E7%B4%A0%E9%9D%A2Artworks%E5%B0%81%E9%9D%A2.jpg/150px-%E7%B4%A0%E9%9D%A2Artworks%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/1/17/%E7%B4%A0%E9%9D%A2Artworks%E5%B0%81%E9%9D%A2.jpg/200px-%E7%B4%A0%E9%9D%A2Artworks%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1200" data-file-height="1678"></a><div class="cover-char">角色：<a href="./伊吹萃香.md" title="伊吹萃香">伊吹萃香</a></div></td>
 </tr><tr><td class="label">名称</td><td colspan="2"> 素面Artworks </td></tr><tr><td class="label">制作方</td><td><a href="./西明石俗物園.md" title="西明石俗物園">西明石俗物園</a></td><td class="cover-artwork" rowspan="5" style="min-width:140px;"><a href="./文件-素面Artworks封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/1/17/%E7%B4%A0%E9%9D%A2Artworks%E5%B0%81%E9%9D%A2.jpg/100px-%E7%B4%A0%E9%9D%A2Artworks%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="100" height="140" srcset="https://upload.thwiki.cc/thumb/1/17/%E7%B4%A0%E9%9D%A2Artworks%E5%B0%81%E9%9D%A2.jpg/150px-%E7%B4%A0%E9%9D%A2Artworks%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/1/17/%E7%B4%A0%E9%9D%A2Artworks%E5%B0%81%E9%9D%A2.jpg/200px-%E7%B4%A0%E9%9D%A2Artworks%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1200" data-file-height="1678"></a><div class="cover-char">角色：<a href="./伊吹萃香.md" title="伊吹萃香">伊吹萃香</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2015-05-10&#160;（<a href="/展会作品列表?e=%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD%2312">第十二回 博麗神社例大祭</a>）</td></tr><tr><td class="label">类型</td><td>画集</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">售价</td><td>会场售价：500日元</td></tr>
+</tr><tr><td class="label">首发日期</td><td>2015-05-10 （<a href="./展会作品列表.md#12">第十二回 博麗神社例大祭</a>）</td></tr><tr><td class="label">类型</td><td>画集</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">售价</td><td>会场售价：500日元</td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://zokubutuen.net/post/117168206940/m3とか例大祭とか">https://zokubutuen.net/post/117168206940/m3とか例大祭とか</a><br><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/49946479">https://www.pixiv.net/artworks/49946479</a></td></tr></tbody></table>
 
 素面Artworks（同人志，西明石俗物園，2015） - 2015年5月10日 由 西明石俗物園 于 博丽神社例大祭12 发布的画集同人志，分级为 一般向
-
 ## Staff
+
 - fu kka (未找到链接)
 - 目薬 (未找到链接) （guest; [Tumblr: egusurim](https://egusurim.tumblr.com/)）
 
 
 ## 评论
-
-
-
 
 ---
 

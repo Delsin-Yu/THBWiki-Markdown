@@ -1,14 +1,11 @@
 # 文件:The_Grimoire_of_Usami（大会结束记录1）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c0\ns6%3AThe_Grimoire_of_Usami%EF%BC%88%E5%A4%A7%E4%BC%9A%E7%BB%93%E6%9D%9F%E8%AE%B0%E5%BD%951%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c0\ns6%3AThe_Grimoire_of_Usami%EF%BC%88%E5%A4%A7%E4%BC%9A%E7%BB%93%E6%9D%9F%E8%AE%B0%E5%BD%951%EF%BC%89%2Ejpg.html -->
 
 宇佐见的魔法书
 
 
 ## 摘要
-
-
-
 
 ---
 

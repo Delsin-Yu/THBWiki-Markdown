@@ -1,12 +1,8 @@
 # 文件:Matthiola_Recordsbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\81\ns6%3AMatthiola_Recordsbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\81\ns6%3AMatthiola_Recordsbanner%2Ejpg.html -->
 
 Matthiola_Records | 社团LOGO
-
-
-
-
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:海神書房logo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\51\ns6%3A%E6%B5%B7%E7%A5%9E%E6%9B%B8%E6%88%BFlogo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\51\ns6%3A%E6%B5%B7%E7%A5%9E%E6%9B%B8%E6%88%BFlogo%2Epng.html -->
 
 海神書房 | 黒羽
-
-
-
-
 
 
 ---

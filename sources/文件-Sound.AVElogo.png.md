@@ -1,18 +1,13 @@
 # 文件:Sound.AVElogo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0c\ns6%3ASound%2EAVElogo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0c\ns6%3ASound%2EAVElogo%2Epng.html -->
 
 Sound.AVE | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[[1]](http://soundave.net/wordpress/wp-content/uploads/SoundAve_Logo_Name.png)
-  
-
-
-
-
+源地址：[\[1\]](http://soundave.net/wordpress/wp-content/uploads/SoundAve_Logo_Name.png)  
 
 ---
 

@@ -1,12 +1,8 @@
 # 文件:冷泉昙华logo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\41\ns6%3A%E5%86%B7%E6%B3%89%E6%98%99%E5%8D%8Elogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\41\ns6%3A%E5%86%B7%E6%B3%89%E6%98%99%E5%8D%8Elogo%2Ejpg.html -->
 
 冷泉昙华 | 社团LOGO
-
-
-
-
 
 
 ---

@@ -1,41 +1,31 @@
 # Last_Remote
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\02\ns0%3ALast_Remote.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\02\ns0%3ALast_Remote.html -->
 
 由 ZUN 创作的官方曲目，原名 ラストリモート
 
 本页是关于东方Project  
- **原作音乐** 的词条
-
+**原作音乐**的词条
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 出现作品](#出现作品)
 - [3 音乐文件](#音乐文件)
-
   - [3.1 东方地灵殿](#东方地灵殿)
 
 
-
 - [4 说明文本](#说明文本)
-
   - [4.1 东方地灵殿](#东方地灵殿_2)
 
 
-
 - [5 其他资料](#其他资料)
-
   - [5.1 乐理资讯](#乐理资讯)
   - [5.2 分析考据](#分析考据)
   - [5.3 二次同人数据](#二次同人数据)
 
 
-
 - [6 注释](#注释)
 - [7 参见](#参见)
-
-
-
 
 
 ## 基本信息
@@ -43,13 +33,11 @@
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">ラストリモート</td></tr><tr><td><b>译名</b></td><td>Last Remote</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 Last Remote（曲目） - 由 ZUN 创作的官方曲目，原名 ラストリモート
-
 ## 出现作品
 
 <table>
 <tbody><tr><td>2008年8月16日（Comic Market 74）</td><td><b><a href="./东方地灵殿.md" title="东方地灵殿">东方地灵殿</a>正式版</b></td><td>Extra面主题曲</td><td style="padding-left:5px;">ラストリモート（Last Remote）</td><td style="padding-left:10px;">作曲：ZUN</td></tr>
 </tbody></table>
-
 
 
 ## 音乐文件
@@ -64,19 +52,18 @@ Last Remote（曲目） - 由 ZUN 创作的官方曲目，原名 ラストリモ
 </td></tr></tbody></table>
 
 
-
 ## 说明文本
 
 ### 东方地灵殿
-- Music Room (未找到链接)
+
+- [Music Room](./东方地灵殿-Music.md#Extra面主题曲)
 
 　Extra面的主题曲。  
-　  
+   
 　不知为何有种急匆匆的感觉，但其实并没有那么紧急的事。  
 　大家都很悠然自得。  
 　尤其是守矢神社那帮家伙的悠闲样，就连灵梦都比不上。  
 　曲名跟某STG一点关系都没有。
-
 ## 其他资料
 
 ### 乐理资讯
@@ -84,24 +71,26 @@ Last Remote（曲目） - 由 ZUN 创作的官方曲目，原名 ラストリモ
 Bpm 178
   
 
-
 ### 分析考据
   
- **ラストリモート**  Last Remote
+**ラストリモート** Last Remote
   
 
-- ラスト（last）
+- ラスト（last） 
   - 最后。
   - 本曲是地灵殿最后一个关卡（即EX面）的道中曲。
 
-- リモート（remote）
+
+- リモート（remote） 
   - 远程；远离人世。
   - 地灵殿游戏系统的特色，即自机是靠其他角色进行远程支援。
 
-- 本曲的Music Room评价中提到「某STG」。
+
+- 本曲的Music Room评价中提到「某STG」。 
   - 指SNK于1991年发布的街机横版卷轴STG『ラストリゾート』（英语：Last Resort）[^cite_note-1]，其名字与本曲只差了一个假名。
   - 2008年8月23日的[枯萎广播](./枯萎广播.md)上播放本曲时，ZUN曾说「ラストリゾートみたいでしょ」（有点像Last Resort吧）[^cite_note-2]。
   - 英语中，“Last Resort”意为「最后手段」。
+
 
 
 
@@ -118,23 +107,12 @@ Bpm 178
 <tr><td>Vocal率</td><td>38.94%</td></tr>
 </tbody></table>
 
-
-
-
-
 [^cite_note-1]: 日文维基百科：[ラストリゾート](https://en.wikipedia.org/wiki/ja:ラストリゾート)
-
+[^cite_note-2]: （日文）东方元NetaWiki：[ラストリモート](https://seesaawiki.jp/toho-motoneta_2nd/d/�饹�ȥ�⡼��)．
 
 ## 参见
+
 - [古明地恋/分析考据](./古明地恋-分析考据.md)
-
-  
-  
-
-  
-
-
-
 
 
 ---

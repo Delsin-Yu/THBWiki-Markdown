@@ -1,16 +1,11 @@
 # 文件:アラん家logo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b8\ns6%3A%E3%82%A2%E3%83%A9%E3%82%93%E5%AE%B6logo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b8\ns6%3A%E3%82%A2%E3%83%A9%E3%82%93%E5%AE%B6logo%2Epng.html -->
 
 アラん家 | 社团LOGO
 
   
-源地址：[[1]](https://static.wixstatic.com/media/10be55_2acf62287c6d4db492ade3acb05211c4~mv2.png)
-  
-
-
-
-
+源地址：[\[1\]](https://static.wixstatic.com/media/10be55_2acf62287c6d4db492ade3acb05211c4~mv2.png)  
 
 ---
 

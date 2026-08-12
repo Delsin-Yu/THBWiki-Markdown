@@ -1,6 +1,6 @@
 # 文件:HANGistic_Meditation_for_Touhou_Tenkuushou：_Distorted_Four_Seasons封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0d\ns6%3AHANGistic_Meditation_for_Touhou_Tenkuushou%EF%BC%9A_Distorted_Four_Seasons%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0d\ns6%3AHANGistic_Meditation_for_Touhou_Tenkuushou%EF%BC%9A_Distorted_Four_Seasons%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Erica-Angelina_Kanarska-Sabat | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ Erica-Angelina_Kanarska-Sabat | 专辑封面 | 封面图片
   
 
 - [HANGistic Meditation for Touhou Tenkuushou： Distorted Four Seasons](./HANGistic_Meditation_for_Touhou_Tenkuushou：_Distorted_Four_Seasons.md)
-
-
-
 
 
 ---

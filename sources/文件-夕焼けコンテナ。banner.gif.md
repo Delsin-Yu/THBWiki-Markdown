@@ -1,16 +1,11 @@
 # 文件:夕焼けコンテナ。banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\73\ns6%3A%E5%A4%95%E7%84%BC%E3%81%91%E3%82%B3%E3%83%B3%E3%83%86%E3%83%8A%E3%80%82banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\73\ns6%3A%E5%A4%95%E7%84%BC%E3%81%91%E3%82%B3%E3%83%B3%E3%83%86%E3%83%8A%E3%80%82banner%2Egif.html -->
 
 夕焼けコンテナ。 | 社团LOGO
 
   
-源地址: [[1]](http://concon.yu-yake.com/fig/muraban.gif)
-  
-
-
-
-
+源地址: [\[1\]](http://concon.yu-yake.com/fig/muraban.gif)  
 
 ---
 

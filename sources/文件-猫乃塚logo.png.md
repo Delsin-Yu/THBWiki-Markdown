@@ -1,18 +1,13 @@
 # 文件:猫乃塚logo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\09\ns6%3A%E7%8C%AB%E4%B9%83%E5%A1%9Alogo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\09\ns6%3A%E7%8C%AB%E4%B9%83%E5%A1%9Alogo%2Epng.html -->
 
 猫乃塚 | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[[1]](http://nekonotsuka.com/img/neko_logo.png)
-  
-
-
-
-
+源地址：[\[1\]](http://nekonotsuka.com/img/neko_logo.png)  
 
 ---
 

@@ -1,12 +1,8 @@
 # 文件:GC_CRITICAL.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\51\ns6%3AGC_CRITICAL%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\51\ns6%3AGC_CRITICAL%2Epng.html -->
 
 GROOVE_COASTER | 太东
-
-
-
-
 
 
 ---

@@ -1,18 +1,13 @@
 # 文件:DreamWishbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\84\ns6%3ADreamWishbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\84\ns6%3ADreamWishbanner%2Epng.html -->
 
 DreamWish | 社团LOGO
 
 
 ## 摘要
   
-源地址：[direct image link](https://web.archive.org/web/20160415150918im_/http://www5c.biglobe.ne.jp/~D_Wish/DreamWish.png), [source page](https://web.archive.org/web/20160420144956/http://www5c.biglobe.ne.jp:80/~D_Wish/)
-  
-
-
-
-
+源地址：[direct image link](https://web.archive.org/web/20160415150918im_/http://www5c.biglobe.ne.jp/~D_Wish/DreamWish.png), [source page](https://web.archive.org/web/20160420144956/http://www5c.biglobe.ne.jp:80/~D_Wish/)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:TOUHOU_RINROUKA_omake_sound_track封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e0\ns6%3ATOUHOU_RINROUKA_omake_sound_track%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e0\ns6%3ATOUHOU_RINROUKA_omake_sound_track%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 かも | 专辑封面 | 封面图片
 
@@ -10,19 +10,14 @@
 使用了本文件作封面图片的作品：
   
 
-- [TOUHOU RINROUKA omake sound track](./TOUHOU_RINROUKA_omake_sound_track.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)
+- [TOUHOU RINROUKA omake sound track](./TOUHOU_RINROUKA_omake_sound_track.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
 
   
-源地址：[direct image link](https://www.suruga-ya.jp/database/pics_light/game/186144029.jpg), [suruga-ya ID: 186144029](https://www.suruga-ya.jp/product/detail/186144029)
-  
+源地址：[direct image link](https://www.suruga-ya.jp/database/pics_light/game/186144029.jpg), [suruga-ya ID: 186144029](https://www.suruga-ya.jp/product/detail/186144029)  
   
 Note: Don't replace with the image from [this](http://kamo.mods.jp/2009/03/post-46.html) circle blog post as it's not the final version (it doesn't even have the track names ready!). Also there's a Marisa and Reimu version of the disc label.
   
-
-
-
-
 
 ---
 

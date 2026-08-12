@@ -1,6 +1,6 @@
 # 文件:Flowering_Night_2006_幽雅に騒げ_～_Live_in_博麗神社_おまけCD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\88\ns6%3AFlowering_Night_2006_%E5%B9%BD%E9%9B%85%E3%81%AB%E9%A8%92%E3%81%92_%EF%BD%9E_Live_in_%E5%8D%9A%E9%BA%97%E7%A5%9E%E7%A4%BE_%E3%81%8A%E3%81%BE%E3%81%91CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\88\ns6%3AFlowering_Night_2006_%E5%B9%BD%E9%9B%85%E3%81%AB%E9%A8%92%E3%81%92_%EF%BD%9E_Live_in_%E5%8D%9A%E9%BA%97%E7%A5%9E%E7%A4%BE_%E3%81%8A%E3%81%BE%E3%81%91CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Flowering_Night_実行委員会 | 专辑封面 | 博丽神社事务所 | 封面图片
 
@@ -9,9 +9,6 @@ Flowering_Night_実行委員会 | 专辑封面 | 博丽神社事务所 | 封面�
   
 
 - [Flowering Night 2006 幽雅に騒げ ～ Live in 博麗神社 おまけCD](./Flowering_Night_2006_幽雅に騒げ_～_Live_in_博麗神社_おまけCD.md)
-
-
-
 
 
 ---

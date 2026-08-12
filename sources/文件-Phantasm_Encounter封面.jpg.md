@@ -1,6 +1,6 @@
 # 文件:Phantasm_Encounter封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\40\ns6%3APhantasm_Encounter%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\40\ns6%3APhantasm_Encounter%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 MICMNIS | 专辑封面 | 封面图片
 
@@ -8,16 +8,13 @@ MICMNIS | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Phantasm Encounter](./Phantasm_Encounter.md)  
-该封面包含的角色：- [露娜萨·普莉兹姆利巴](./露娜萨·普莉兹姆利巴.md)- [梅露兰·普莉兹姆利巴](./梅露兰·普莉兹姆利巴.md)- [莉莉卡·普莉兹姆利巴](./莉莉卡·普莉兹姆利巴.md)
+- [Phantasm Encounter](./Phantasm_Encounter.md)该封面包含的角色：
+- [露娜萨·普莉兹姆利巴](./露娜萨·普莉兹姆利巴.md)
+- [梅露兰·普莉兹姆利巴](./梅露兰·普莉兹姆利巴.md)
+- [莉莉卡·普莉兹姆利巴](./莉莉卡·普莉兹姆利巴.md)
 
   
-源地址：[[1]](http://micmnis.net/old/events/reitaisai9/img/jacket.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://micmnis.net/old/events/reitaisai9/img/jacket.jpg)  
 
 ---
 

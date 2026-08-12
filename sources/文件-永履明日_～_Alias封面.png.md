@@ -1,6 +1,6 @@
 # 文件:永履明日_～_Alias封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bf\ns6%3A%E6%B0%B8%E5%B1%A5%E6%98%8E%E6%97%A5_%EF%BD%9E_Alias%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bf\ns6%3A%E6%B0%B8%E5%B1%A5%E6%98%8E%E6%97%A5_%EF%BD%9E_Alias%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 荒御灵
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [永履明日 ～ Alias](./永履明日_～_Alias.md)  
-该封面包含的角色：- [上白泽慧音](./上白泽慧音.md)
-
-
-
+- [永履明日 ～ Alias](./永履明日_～_Alias.md)该封面包含的角色：
+- [上白泽慧音](./上白泽慧音.md)
 
 
 ---

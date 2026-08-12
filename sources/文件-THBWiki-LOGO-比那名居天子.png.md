@@ -1,12 +1,8 @@
 # 文件:THBWiki-LOGO-比那名居天子.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9a\ns6%3ATHBWiki-LOGO-%E6%AF%94%E9%82%A3%E5%90%8D%E5%B1%85%E5%A4%A9%E5%AD%90%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9a\ns6%3ATHBWiki-LOGO-%E6%AF%94%E9%82%A3%E5%90%8D%E5%B1%85%E5%A4%A9%E5%AD%90%2Epng.html -->
 
 THBWiki | Wiki词条分类用图
-
-
-
-
 
 
 ---

@@ -1,14 +1,11 @@
 # 文件:MineCraft幻想乡-第一批周边.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\ba\ns6%3AMineCraft%E5%B9%BB%E6%83%B3%E4%B9%A1-%E7%AC%AC%E4%B8%80%E6%89%B9%E5%91%A8%E8%BE%B9%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\ba\ns6%3AMineCraft%E5%B9%BB%E6%83%B3%E4%B9%A1-%E7%AC%AC%E4%B8%80%E6%89%B9%E5%91%A8%E8%BE%B9%2Ejpg.html -->
 
 MineCraft幻想乡
 
 
 ## 文件说明
-
-
-
 
 ---
 

@@ -1,12 +1,8 @@
 # 文件:Souvenir_circ._banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e7\ns6%3ASouvenir_circ%2E_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e7\ns6%3ASouvenir_circ%2E_banner%2Ejpg.html -->
 
 souvenir_circ. | 社团LOGO
-
-
-
-
 
 
 ---

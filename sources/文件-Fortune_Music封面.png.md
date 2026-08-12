@@ -1,6 +1,6 @@
 # 文件:Fortune_Music封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\86\ns6%3AFortune_Music%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\86\ns6%3AFortune_Music%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 twinkle＊twinkle | 专辑封面 | 封面图片
 
@@ -8,11 +8,13 @@ twinkle＊twinkle | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Fortune Music](./Fortune_Music.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [魂魄妖梦](./魂魄妖梦.md)- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)- [伊吹萃香](./伊吹萃香.md)- [水桥帕露西](./水桥帕露西.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [Fortune Music](./Fortune_Music.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [魂魄妖梦](./魂魄妖梦.md)
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
+- [伊吹萃香](./伊吹萃香.md)
+- [水桥帕露西](./水桥帕露西.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

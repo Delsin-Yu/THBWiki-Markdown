@@ -1,6 +1,6 @@
 # 文件:Ride_on_Shooting_Star封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\12\ns6%3ARide_on_Shooting_Star%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\12\ns6%3ARide_on_Shooting_Star%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ホットドックチャック | 同人志封面 | 封面图片
 
@@ -8,11 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Ride on Shooting Star](./Ride_on_Shooting_Star.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [八云紫](./八云紫.md)- [雾雨魔理沙](./雾雨魔理沙.md)- [森近霖之助](./森近霖之助.md)
-
-
-
+- [Ride on Shooting Star](./Ride_on_Shooting_Star.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [八云紫](./八云紫.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
+- [森近霖之助](./森近霖之助.md)
 
 
 ---

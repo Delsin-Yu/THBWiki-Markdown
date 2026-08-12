@@ -1,12 +1,8 @@
 # 文件:东方凭依华体验版booklet1.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\65\ns6%3A%E4%B8%9C%E6%96%B9%E5%87%AD%E4%BE%9D%E5%8D%8E%E4%BD%93%E9%AA%8C%E7%89%88booklet1%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\65\ns6%3A%E4%B8%9C%E6%96%B9%E5%87%AD%E4%BE%9D%E5%8D%8E%E4%BD%93%E9%AA%8C%E7%89%88booklet1%2Ejpg.html -->
 
 东方凭依华 | 官方游戏体验版光盘扫图
-
-
-
-
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:SaBND02_03.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\79\ns6%3ASaBND02_03%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\79\ns6%3ASaBND02_03%2Emp3.html -->
 
 东方三月精_～_Strange_and_Bright_Nature_Deity. | 原曲MP3 | 因夜失眠
-
-
-
-
 
 
 ---

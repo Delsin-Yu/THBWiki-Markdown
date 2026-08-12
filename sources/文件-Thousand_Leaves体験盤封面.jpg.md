@@ -1,6 +1,6 @@
 # 文件:Thousand_Leaves体験盤封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\39\ns6%3AThousand_Leaves%E4%BD%93%E9%A8%93%E7%9B%A4%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\39\ns6%3AThousand_Leaves%E4%BD%93%E9%A8%93%E7%9B%A4%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 THOUSAND_LEAVES | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ THOUSAND_LEAVES | 专辑封面 | 封面图片
   
 
 - [Thousand Leaves体験盤](./Thousand_Leaves体験盤.md)
-
-
-
 
 
 ---

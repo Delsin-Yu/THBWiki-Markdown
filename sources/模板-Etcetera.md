@@ -1,16 +1,12 @@
 # 模板:Etcetera
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\3\3a\ns10%3AEtcetera.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\3\3a\ns10%3AEtcetera.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

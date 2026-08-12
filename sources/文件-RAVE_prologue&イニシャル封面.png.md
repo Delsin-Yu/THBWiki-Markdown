@@ -1,6 +1,6 @@
 # 文件:RAVE_prologue&イニシャル封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9b\ns6%3ARAVE_prologue%26%E3%82%A4%E3%83%8B%E3%82%B7%E3%83%A3%E3%83%AB%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9b\ns6%3ARAVE_prologue%26%E3%82%A4%E3%83%8B%E3%82%B7%E3%83%A3%E3%83%AB%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 DiGiTAL_WiNG | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ DiGiTAL_WiNG | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [RAVE prologue&amp;イニシャル](./RAVE_prologue&イニシャル.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [RAVE prologue&イニシャル](./RAVE_prologue&イニシャル.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

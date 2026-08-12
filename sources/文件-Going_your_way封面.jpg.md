@@ -1,6 +1,6 @@
 # 文件:Going_your_way封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\90\ns6%3AGoing_your_way%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\90\ns6%3AGoing_your_way%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Flip_Air_Sound | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ Flip_Air_Sound | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Going your way](./Going_your_way.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [东风谷早苗](./东风谷早苗.md)
-
-
-
+- [Going your way](./Going_your_way.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [东风谷早苗](./东风谷早苗.md)
 
 
 ---

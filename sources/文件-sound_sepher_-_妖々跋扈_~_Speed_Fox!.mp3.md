@@ -1,12 +1,8 @@
 # 文件:sound_sepher_-_妖々跋扈_~_Speed_Fox!.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\28\ns6%3Asound_sepher_-_%E5%A6%96%E3%80%85%E8%B7%8B%E6%89%88_%7E_Speed_Fox%21%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\28\ns6%3Asound_sepher_-_%E5%A6%96%E3%80%85%E8%B7%8B%E6%89%88_%7E_Speed_Fox%21%2Emp3.html -->
 
 Cradle_-_東方幻樂祀典 | 妖妖跋扈_～_Who_done_it!
-
-
-
-
 
 
 ---

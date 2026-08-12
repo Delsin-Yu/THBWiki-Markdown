@@ -1,42 +1,30 @@
 # Midnight_Spell_Card
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\7\73\ns0%3AMidnight_Spell_Card.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\7\73\ns0%3AMidnight_Spell_Card.html -->
 
 由 ZUN 创作的官方曲目，原名 ミッドナイトスペルカード
 
 本页是关于东方Project  
- **原作音乐** 的词条
-
+**原作音乐**的词条
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 出现作品](#出现作品)
 - [3 音乐文件](#音乐文件)
-
   - [3.1 弹幕天邪鬼](#弹幕天邪鬼)
 
 
-
 - [4 说明文本](#说明文本)
-
   - [4.1 弹幕天邪鬼](#弹幕天邪鬼_2)
 
 
-
 - [5 其他资料](#其他资料)
-
   - [5.1 乐理资讯](#乐理资讯)
-
     - [5.1.1 使用乐器](#使用乐器)
-
 
 
   - [5.2 分析考据](#分析考据)
   - [5.3 二次同人数据](#二次同人数据)
-
-
-
-
 
 
 
@@ -46,13 +34,11 @@
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">ミッドナイトスペルカード</td></tr><tr><td><b>译名</b></td><td>Midnight Spell Card</td></tr><tr><td><b>其他译名</b></td><td>午夜符卡‎</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 Midnight Spell Card（曲目） - 由 ZUN 创作的官方曲目，原名 ミッドナイトスペルカード
-
 ## 出现作品
 
 <table>
 <tbody><tr><td>2014年5月11日（第十一回 博丽神社例大祭）</td><td><b><a href="./弹幕天邪鬼.md" title="弹幕天邪鬼">弹幕天邪鬼</a></b></td><td>序盘主题曲</td><td style="padding-left:5px;">ミッドナイトスペルカード（Midnight Spell Card）</td><td style="padding-left:10px;">作曲：ZUN</td></tr>
 </tbody></table>
-
 
 
 ## 音乐文件
@@ -67,22 +53,22 @@ Midnight Spell Card（曲目） - 由 ZUN 创作的官方曲目，原名 ミッ�
 </td></tr></tbody></table>
 
 
-
 ## 说明文本
 
 ### 弹幕天邪鬼
-- Music Room (未找到链接)
+
+- [Music Room](./弹幕天邪鬼-Music.md#序盘主题曲)
 
 　序盘的主题曲。  
   
 　以夜晚为舞台，作了一首有夜晚的感觉的曲子。  
 　这是首有疾速奔跑的感觉的曲子，所以不要在这里停滞。
-
 ## 其他资料
 
 ### 乐理资讯
 
 #### 使用乐器
+
 - SD-90 Romantic Tp
 - SD-90 Flute vib
 - SD-90 Loose Lips
@@ -95,22 +81,28 @@ Midnight Spell Card（曲目） - 由 ZUN 创作的官方曲目，原名 ミッ�
 
 ### 分析考据
   
- **ミッドナイトスペルカード**  Midnight Spell Card
+**ミッドナイトスペルカード** Midnight Spell Card
   
 
-- ミッドナイト（Midnight）
-  - 午夜。
+- ミッドナイト（Midnight） 
+  - 午夜。 
     - 场景的时间为午夜。
 
 
-- スペルカード（Spell Card）
-  - 符卡。
+
+
+- スペルカード（Spell Card） 
+  - 符卡。 
     - 敌人的犯规弹幕。
 
 
-- ミッドナイトスペルカード（Midnight Spell Card）
-  - 午夜符卡。
+
+
+- ミッドナイトスペルカード（Midnight Spell Card） 
+  - 午夜符卡。 
     - [鬼人正邪](./鬼人正邪.md)在午夜躲避敌人的犯规弹幕。
+
+
 
 
 
@@ -127,17 +119,6 @@ Midnight Spell Card（曲目） - 由 ZUN 创作的官方曲目，原名 ミッ�
 <tr><td>Arrange</td><td>39</td></tr>
 <tr><td>Vocal率</td><td>37.1%</td></tr>
 </tbody></table>
-
-
-
-
-  
-  
-
-  
-
-
-
 
 
 ---

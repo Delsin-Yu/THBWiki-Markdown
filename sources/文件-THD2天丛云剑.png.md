@@ -1,12 +1,8 @@
 # 文件:THD2天丛云剑.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\87\ns6%3ATHD2%E5%A4%A9%E4%B8%9B%E4%BA%91%E5%89%91%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\87\ns6%3ATHD2%E5%A4%A9%E4%B8%9B%E4%BA%91%E5%89%91%2Epng.html -->
 
 AvalonStudioOfficial
-
-
-
-
 
 
 ---

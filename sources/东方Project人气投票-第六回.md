@@ -1,11 +1,12 @@
 # 东方Project人气投票/第六回
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\7\7f\ns0%3A%E4%B8%9C%E6%96%B9Project%E4%BA%BA%E6%B0%94%E6%8A%95%E7%A5%A8%2F%E7%AC%AC%E5%85%AD%E5%9B%9E.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\7\7f\ns0%3A%E4%B8%9C%E6%96%B9Project%E4%BA%BA%E6%B0%94%E6%8A%95%E7%A5%A8%2F%E7%AC%AC%E5%85%AD%E5%9B%9E.html -->
 
 东方Project人气投票
 
+
 - 本页面内容是东方Project第六回人气投票。
-- 原投票地址：[[1]](http://touhou.vote/v6/)
+- 原投票地址：[\[1\]](http://touhou.vote/v6/)
 
 
 ## 投票信息
@@ -16,26 +17,14 @@
 投票规则为角色部门8票，音乐部门12票。
   
 
-
 ## 投票结果
-  
 <big>
-</big>  
-<big>- [角色部门](./东方Project人气投票-第六回-角色部门.md)
+- [角色部门](./东方Project人气投票-第六回-角色部门.md)
 - [音乐部门](./东方Project人气投票-第六回-音乐部门.md)
 - [作品部门](./东方Project人气投票-第六回-作品部门.md)
 - [组合部门](./东方Project人气投票-第六回-组合部门.md)
-</big><big></big>  
-<big></big>  
 
-  
-
-  
-
-
-
-
-
+</big>
 ---
 
 此文档由 [THBWiki-Markdown-Builder](https://github.com/Delsin-Yu/THBWiki-Markdown-Builder) 构建。

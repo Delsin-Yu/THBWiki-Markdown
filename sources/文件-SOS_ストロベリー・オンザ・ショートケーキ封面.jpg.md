@@ -1,6 +1,6 @@
 # 文件:SOS_ストロベリー・オンザ・ショートケーキ封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b9\ns6%3ASOS_%E3%82%B9%E3%83%88%E3%83%AD%E3%83%99%E3%83%AA%E3%83%BC%E3%83%BB%E3%82%AA%E3%83%B3%E3%82%B6%E3%83%BB%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E3%82%B1%E3%83%BC%E3%82%AD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b9\ns6%3ASOS_%E3%82%B9%E3%83%88%E3%83%AD%E3%83%99%E3%83%AA%E3%83%BC%E3%83%BB%E3%82%AA%E3%83%B3%E3%82%B6%E3%83%BB%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E3%82%B1%E3%83%BC%E3%82%AD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 イチゴ・ファンネル | 专辑封面 | 封面图片
 
@@ -10,16 +10,13 @@
 使用了本文件作封面图片的作品：
   
 
-- [SOS ストロベリー・オンザ・ショートケーキ](./SOS_ストロベリー・オンザ・ショートケーキ.md)  
-该封面包含的角色：- [东风谷早苗](./东风谷早苗.md)- [八坂神奈子](./八坂神奈子.md)- [洩矢诹访子](./洩矢诹访子.md)
+- [SOS ストロベリー・オンザ・ショートケーキ](./SOS_ストロベリー・オンザ・ショートケーキ.md)该封面包含的角色：
+- [东风谷早苗](./东风谷早苗.md)
+- [八坂神奈子](./八坂神奈子.md)
+- [洩矢诹访子](./洩矢诹访子.md)
 
   
-源地址：[suruga-ya](https://www.suruga-ya.jp/product/detail/186117961)
-  
-
-
-
-
+源地址：[suruga-ya](https://www.suruga-ya.jp/product/detail/186117961)  
 
 ---
 

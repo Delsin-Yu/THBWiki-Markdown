@@ -1,16 +1,11 @@
 # 文件:豆屋banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a2\ns6%3A%E8%B1%86%E5%B1%8Bbanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a2\ns6%3A%E8%B1%86%E5%B1%8Bbanner%2Egif.html -->
 
 社团LOGO | 豆屋
 
   
-源地址：[[1]](http://mameya-official.sakura.ne.jp/ftp/wp-content/uploads/2013/07/rogo.gif)
-  
-
-
-
-
+源地址：[\[1\]](http://mameya-official.sakura.ne.jp/ftp/wp-content/uploads/2013/07/rogo.gif)  
 
 ---
 

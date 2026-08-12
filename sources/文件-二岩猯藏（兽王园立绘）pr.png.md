@@ -1,14 +1,11 @@
 # 文件:二岩猯藏（兽王园立绘）pr.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6c\ns6%3A%E4%BA%8C%E5%B2%A9%E7%8C%AF%E8%97%8F%EF%BC%88%E5%85%BD%E7%8E%8B%E5%9B%AD%E7%AB%8B%E7%BB%98%EF%BC%89pr%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6c\ns6%3A%E4%BA%8C%E5%B2%A9%E7%8C%AF%E8%97%8F%EF%BC%88%E5%85%BD%E7%8E%8B%E5%9B%AD%E7%AB%8B%E7%BB%98%EF%BC%89pr%2Epng.html -->
 
 ZUN绘 | 东方兽王园 | 二岩猯藏 | 官方游戏立绘
 
 
 ## 摘要
-
-
-
 
 ---
 

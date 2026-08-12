@@ -1,6 +1,6 @@
 # 文件:东方希莲船~Ultimate_Fatal_Octopus封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c9\ns6%3A%E4%B8%9C%E6%96%B9%E5%B8%8C%E8%8E%B2%E8%88%B9%7EUltimate_Fatal_Octopus%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c9\ns6%3A%E4%B8%9C%E6%96%B9%E5%B8%8C%E8%8E%B2%E8%88%B9%7EUltimate_Fatal_Octopus%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 SlimeSmile | 封面图片 | 软件封面
 
@@ -10,11 +10,8 @@ SlimeSmile | 封面图片 | 软件封面
 使用了本文件作封面图片的作品：
   
 
-- [东方希莲船~Ultimate Fatal Octopus](./东方希莲船~Ultimate_Fatal_Octopus.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [东方希莲船~Ultimate Fatal Octopus](./东方希莲船~Ultimate_Fatal_Octopus.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:THD2退魔御币.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4c\ns6%3ATHD2%E9%80%80%E9%AD%94%E5%BE%A1%E5%B8%81%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4c\ns6%3ATHD2%E9%80%80%E9%AD%94%E5%BE%A1%E5%B8%81%2Epng.html -->
 
 AvalonStudioOfficial
-
-
-
-
 
 
 ---

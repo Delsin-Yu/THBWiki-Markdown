@@ -1,6 +1,6 @@
 # 文件:pu3_λdd∀Ч封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0d\ns6%3Apu3_%CE%BBdd%E2%88%80%D0%A7%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0d\ns6%3Apu3_%CE%BBdd%E2%88%80%D0%A7%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 フレキシ | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [pu3 λdd∀Ч](./pu3_λdd∀Ч.md)  
-该封面包含的角色：- [鬼人正邪](./鬼人正邪.md)
-
-
-
+- [pu3 λdd∀Ч](./pu3_λdd∀Ч.md)该封面包含的角色：
+- [鬼人正邪](./鬼人正邪.md)
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:河外星系居酒屋banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9a\ns6%3A%E6%B2%B3%E5%A4%96%E6%98%9F%E7%B3%BB%E5%B1%85%E9%85%92%E5%B1%8Bbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9a\ns6%3A%E6%B2%B3%E5%A4%96%E6%98%9F%E7%B3%BB%E5%B1%85%E9%85%92%E5%B1%8Bbanner%2Ejpg.html -->
 
 河外星系居酒屋 | 社团LOGO
-
-
-
-
 
 
 ---

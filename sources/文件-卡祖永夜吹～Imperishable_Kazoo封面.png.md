@@ -1,6 +1,6 @@
 # 文件:卡祖永夜吹～Imperishable_Kazoo封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\56\ns6%3A%E5%8D%A1%E7%A5%96%E6%B0%B8%E5%A4%9C%E5%90%B9%EF%BD%9EImperishable_Kazoo%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\56\ns6%3A%E5%8D%A1%E7%A5%96%E6%B0%B8%E5%A4%9C%E5%90%B9%EF%BD%9EImperishable_Kazoo%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 萌萌哒的韭菜盒子
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [卡祖永夜吹～Imperishable Kazoo](./卡祖永夜吹～Imperishable_Kazoo.md)  
-该封面包含的角色：- [蓬莱山辉夜](./蓬莱山辉夜.md)- [藤原妹红](./藤原妹红.md)
-
-
-
+- [卡祖永夜吹～Imperishable Kazoo](./卡祖永夜吹～Imperishable_Kazoo.md)该封面包含的角色：
+- [蓬莱山辉夜](./蓬莱山辉夜.md)
+- [藤原妹红](./藤原妹红.md)
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:Iemitsu._banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f2\ns6%3AIemitsu%2E_banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f2\ns6%3AIemitsu%2E_banner%2Epng.html -->
 
 Iemitsu. | 社团LOGO
-
-
-
-
 
 
 ---

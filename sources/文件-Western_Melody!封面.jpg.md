@@ -1,6 +1,6 @@
 # 文件:Western_Melody!封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9e\ns6%3AWestern_Melody%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9e\ns6%3AWestern_Melody%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 梦遥电子音
 
@@ -10,16 +10,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [Western Melody!](./Western_Melody!.md)  
-该封面包含的角色：- 原创角色 (未找到链接)- 初音未来 (未找到链接)
+- [Western Melody!](./Western_Melody!.md)该封面包含的角色：
+- 原创角色 (未找到链接)
+- 初音未来 (未找到链接)
 
   
-源地址：[direct image link](https://cdn.dizzylab.net/media/cover/ELS01.jpg), [source page (Dizzylab)](https://www.dizzylab.net/d/ELS01/)
-  
-
-
-
-
+源地址：[direct image link](https://cdn.dizzylab.net/media/cover/ELS01.jpg), [source page (Dizzylab)](https://www.dizzylab.net/d/ELS01/)  
 
 ---
 

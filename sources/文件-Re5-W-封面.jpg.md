@@ -1,6 +1,6 @@
 # 文件:Re5-W-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9a\ns6%3ARe5-W-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9a\ns6%3ARe5-W-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Iemitsu. | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ Iemitsu. | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Re5-W-](./Re5-W-.md)  
-该封面包含的角色：- [小恶魔](./小恶魔.md)- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
-
-
-
+- [Re5-W-](./Re5-W-.md)该封面包含的角色：
+- [小恶魔](./小恶魔.md)
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
 
 
 ---

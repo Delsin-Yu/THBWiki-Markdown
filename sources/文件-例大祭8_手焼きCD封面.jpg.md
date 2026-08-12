@@ -1,6 +1,6 @@
 # 文件:例大祭8_手焼きCD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b2\ns6%3A%E4%BE%8B%E5%A4%A7%E7%A5%AD8_%E6%89%8B%E7%84%BC%E3%81%8DCD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b2\ns6%3A%E4%BE%8B%E5%A4%A7%E7%A5%AD8_%E6%89%8B%E7%84%BC%E3%81%8DCD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 石鹸屋
 
@@ -9,9 +9,6 @@
   
 
 - [例大祭8 手焼きCD](./例大祭8_手焼きCD.md)
-
-
-
 
 
 ---

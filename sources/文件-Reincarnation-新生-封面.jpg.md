@@ -1,6 +1,6 @@
 # 文件:Reincarnation-新生-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cf\ns6%3AReincarnation-%E6%96%B0%E7%94%9F-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cf\ns6%3AReincarnation-%E6%96%B0%E7%94%9F-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 流派未階堂
 
@@ -8,16 +8,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [Reincarnation-新生-](./Reincarnation-新生-.md)  
-该封面包含的角色：- [东风谷早苗](./东风谷早苗.md)- [洩矢诹访子](./洩矢诹访子.md)
+- [Reincarnation-新生-](./Reincarnation-新生-.md)该封面包含的角色：
+- [东风谷早苗](./东风谷早苗.md)
+- [洩矢诹访子](./洩矢诹访子.md)
 
   
-源地址：[[1]](https://pbs.twimg.com/media/Cp9DLJtUMAACsC0.jpg:large)
-  
-
-
-
-
+源地址：[\[1\]](https://pbs.twimg.com/media/Cp9DLJtUMAACsC0.jpg:large)  
 
 ---
 

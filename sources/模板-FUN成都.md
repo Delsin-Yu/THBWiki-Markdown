@@ -1,16 +1,12 @@
 # 模板:FUN成都
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\0\0b\ns10%3AFUN%E6%88%90%E9%83%BD.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\0\0b\ns10%3AFUN%E6%88%90%E9%83%BD.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

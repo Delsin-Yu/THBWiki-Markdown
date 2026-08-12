@@ -1,12 +1,8 @@
 # 文件:ZUN5.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7a\ns6%3AZUN5%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7a\ns6%3AZUN5%2Epng.html -->
 
 ZUN
-
-
-
-
 
 
 ---

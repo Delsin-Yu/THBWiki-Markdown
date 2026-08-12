@@ -1,6 +1,6 @@
 # 文件:SMB封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3a\ns6%3ASMB%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3a\ns6%3ASMB%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 A.C.3 | 同人志封面 | 封面图片
 
@@ -10,11 +10,9 @@ A.C.3 | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [SMB](./SMB.md)  
-该封面包含的角色：- [莉格露·奈特巴格](./莉格露·奈特巴格.md)- [米斯蒂娅·萝蕾拉](./米斯蒂娅·萝蕾拉.md)
-
-
-
+- [SMB](./SMB.md)该封面包含的角色：
+- [莉格露·奈特巴格](./莉格露·奈特巴格.md)
+- [米斯蒂娅·萝蕾拉](./米斯蒂娅·萝蕾拉.md)
 
 
 ---

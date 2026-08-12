@@ -1,6 +1,6 @@
 # 文件:博霊活動録~a_day_dream~封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0c\ns6%3A%E5%8D%9A%E9%9C%8A%E6%B4%BB%E5%8B%95%E9%8C%B2%7Ea_day_dream%7E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0c\ns6%3A%E5%8D%9A%E9%9C%8A%E6%B4%BB%E5%8B%95%E9%8C%B2%7Ea_day_dream%7E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ツキカゲ企画 | 封面图片 | 软件封面
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [博霊活動録~a day dream~](./博霊活動録~a_day_dream~.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [博霊活動録~a day dream~](./博霊活動録~a_day_dream~.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:ソウルアンカー２_SOUND_TRACK封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\81\ns6%3A%E3%82%BD%E3%82%A6%E3%83%AB%E3%82%A2%E3%83%B3%E3%82%AB%E3%83%BC%EF%BC%92_SOUND_TRACK%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\81\ns6%3A%E3%82%BD%E3%82%A6%E3%83%AB%E3%82%A2%E3%83%B3%E3%82%AB%E3%83%BC%EF%BC%92_SOUND_TRACK%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ZWEi | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ ZWEi | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [ソウルアンカー２ SOUND TRACK](./ソウルアンカー２_SOUND_TRACK.md)  
-该封面包含的角色：- [村纱水蜜](./村纱水蜜.md)
-
-
-
+- [ソウルアンカー２ SOUND TRACK](./ソウルアンカー２_SOUND_TRACK.md)该封面包含的角色：
+- [村纱水蜜](./村纱水蜜.md)
 
 
 ---

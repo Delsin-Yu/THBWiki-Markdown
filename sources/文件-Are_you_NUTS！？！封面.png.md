@@ -1,18 +1,13 @@
 # 文件:Are_you_NUTS！？！封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\73\ns6%3AAre_you_NUTS%EF%BC%81%EF%BC%9F%EF%BC%81%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\73\ns6%3AAre_you_NUTS%EF%BC%81%EF%BC%9F%EF%BC%81%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 封面图片 | 没有被使用的封面文件
 
 
 ## 摘要
   
-[Pixiv artwork ID: 9115746 (original size)](https://www.pixiv.net/artworks/9115746)
-  
-
-
-
-
+[Pixiv artwork ID: 9115746 (original size)](https://www.pixiv.net/artworks/9115746)  
 
 ---
 

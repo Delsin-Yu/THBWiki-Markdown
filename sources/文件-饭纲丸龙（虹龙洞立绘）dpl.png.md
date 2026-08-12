@@ -1,12 +1,8 @@
 # 文件:饭纲丸龙（虹龙洞立绘）dpl.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\28\ns6%3A%E9%A5%AD%E7%BA%B2%E4%B8%B8%E9%BE%99%EF%BC%88%E8%99%B9%E9%BE%99%E6%B4%9E%E7%AB%8B%E7%BB%98%EF%BC%89dpl%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\28\ns6%3A%E9%A5%AD%E7%BA%B2%E4%B8%B8%E9%BE%99%EF%BC%88%E8%99%B9%E9%BE%99%E6%B4%9E%E7%AB%8B%E7%BB%98%EF%BC%89dpl%2Epng.html -->
 
 ZUN绘 | 东方虹龙洞 | 官方游戏立绘 | 饭纲丸龙
-
-
-
-
 
 
 ---

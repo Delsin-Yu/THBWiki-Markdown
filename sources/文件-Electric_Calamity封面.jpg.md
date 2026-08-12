@@ -1,6 +1,6 @@
 # 文件:Electric_Calamity封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\31\ns6%3AElectric_Calamity%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\31\ns6%3AElectric_Calamity%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 斧家
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [Electric Calamity](./Electric_Calamity.md)  
-该封面包含的角色：- [依神女苑](./依神女苑.md)- [依神紫苑](./依神紫苑.md)
-
-
-
+- [Electric Calamity](./Electric_Calamity.md)该封面包含的角色：
+- [依神女苑](./依神女苑.md)
+- [依神紫苑](./依神紫苑.md)
 
 
 ---

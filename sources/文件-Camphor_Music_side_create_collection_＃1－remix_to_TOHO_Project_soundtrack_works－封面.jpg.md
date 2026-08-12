@@ -1,6 +1,6 @@
 # 文件:Camphor_Music_side_create_collection_＃1－remix_to_TOHO_Project_soundtrack_works－封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\96\ns6%3ACamphor_Music_side_create_collection_%EF%BC%831%EF%BC%8Dremix_to_TOHO_Project_soundtrack_works%EF%BC%8D%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\96\ns6%3ACamphor_Music_side_create_collection_%EF%BC%831%EF%BC%8Dremix_to_TOHO_Project_soundtrack_works%EF%BC%8D%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Camphor | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Camphor | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Camphor Music side create collection ＃1－remix to TOHO Project soundtrack works－](./Camphor_Music_side_create_collection_＃1－remix_to_TOHO_Project_soundtrack_works－.md)  
-该封面包含的角色：- [小野塚小町](./小野塚小町.md)
-
-
-
+- [Camphor Music side create collection ＃1－remix to TOHO Project soundtrack works－](./Camphor_Music_side_create_collection_＃1－remix_to_TOHO_Project_soundtrack_works－.md)该封面包含的角色：
+- [小野塚小町](./小野塚小町.md)
 
 
 ---

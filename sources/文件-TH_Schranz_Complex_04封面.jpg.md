@@ -1,6 +1,6 @@
 # 文件:TH_Schranz_Complex_04封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c2\ns6%3ATH_Schranz_Complex_04%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c2\ns6%3ATH_Schranz_Complex_04%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 C9 | 专辑封面 | 封面图片
 
@@ -10,11 +10,9 @@ C9 | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [TH Schranz Complex 04](./TH_Schranz_Complex_04.md)  
-该封面包含的角色：- [古明地觉](./古明地觉.md)- [古明地恋](./古明地恋.md)
-
-
-
+- [TH Schranz Complex 04](./TH_Schranz_Complex_04.md)该封面包含的角色：
+- [古明地觉](./古明地觉.md)
+- [古明地恋](./古明地恋.md)
 
 
 ---

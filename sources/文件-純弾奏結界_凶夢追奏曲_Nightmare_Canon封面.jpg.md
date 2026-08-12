@@ -1,6 +1,6 @@
 # 文件:純弾奏結界_凶夢追奏曲_Nightmare_Canon封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4b\ns6%3A%E7%B4%94%E5%BC%BE%E5%A5%8F%E7%B5%90%E7%95%8C_%E5%87%B6%E5%A4%A2%E8%BF%BD%E5%A5%8F%E6%9B%B2_Nightmare_Canon%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4b\ns6%3A%E7%B4%94%E5%BC%BE%E5%A5%8F%E7%B5%90%E7%95%8C_%E5%87%B6%E5%A4%A2%E8%BF%BD%E5%A5%8F%E6%9B%B2_Nightmare_Canon%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 dBu_music | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ dBu_music | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [純弾奏結界 凶夢追奏曲 Nightmare Canon](./純弾奏結界_凶夢追奏曲_Nightmare_Canon.md)  
-该封面包含的角色：- [纯狐](./纯狐.md)- [克劳恩皮丝](./克劳恩皮丝.md)
-
-
-
+- [純弾奏結界 凶夢追奏曲 Nightmare Canon](./純弾奏結界_凶夢追奏曲_Nightmare_Canon.md)该封面包含的角色：
+- [纯狐](./纯狐.md)
+- [克劳恩皮丝](./克劳恩皮丝.md)
 
 
 ---

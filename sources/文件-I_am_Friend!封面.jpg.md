@@ -1,6 +1,6 @@
 # 文件:I_am_Friend!封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\ff\ns6%3AI_am_Friend%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\ff\ns6%3AI_am_Friend%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 HaKaNaDuKi | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@ HaKaNaDuKi | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [I am Friend!](./I_am_Friend!.md)  
-该封面包含的角色：- [河城荷取](./河城荷取.md)
-
-
-
+- [I am Friend!](./I_am_Friend!.md)该封面包含的角色：
+- [河城荷取](./河城荷取.md)
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:旅人banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0d\ns6%3A%E6%97%85%E4%BA%BAbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0d\ns6%3A%E6%97%85%E4%BA%BAbanner%2Ejpg.html -->
 
 旅人 | 社团LOGO
-
-
-
-
 
 
 ---

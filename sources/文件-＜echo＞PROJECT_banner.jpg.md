@@ -1,12 +1,8 @@
 # 文件:＜echo＞PROJECT_banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\94\ns6%3A%EF%BC%9Cecho%EF%BC%9EPROJECT_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\94\ns6%3A%EF%BC%9Cecho%EF%BC%9EPROJECT_banner%2Ejpg.html -->
 
 社团LOGO | ＜echo＞PROJECT
-
-
-
-
 
 
 ---

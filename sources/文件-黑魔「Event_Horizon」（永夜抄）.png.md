@@ -1,12 +1,8 @@
 # 文件:黑魔「Event_Horizon」（永夜抄）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7c\ns6%3A%E9%BB%91%E9%AD%94%E3%80%8CEvent_Horizon%E3%80%8D%EF%BC%88%E6%B0%B8%E5%A4%9C%E6%8A%84%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7c\ns6%3A%E9%BB%91%E9%AD%94%E3%80%8CEvent_Horizon%E3%80%8D%EF%BC%88%E6%B0%B8%E5%A4%9C%E6%8A%84%EF%BC%89%2Epng.html -->
 
 东方永夜抄 | 敌机符卡 | 雾雨魔理沙
-
-
-
-
 
 
 ---

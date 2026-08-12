@@ -1,16 +1,12 @@
 # 文件:ssg_01.mid
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\05\ns6%3Assg_01%2Emid.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\05\ns6%3Assg_01%2Emid.html -->
 
 东方幻想的音乐 | 官方MIDI | 秋霜玉 | 秋霜玉_～_Clockworks
 
   
 秋霜玉　～Clockworks 秋霜玉标题曲。 东方的幻想音乐版本，与原秋霜玉版本有出入！
   
-
-
-
-
 
 ---
 

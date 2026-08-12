@@ -1,16 +1,12 @@
 # 文件:ssg_E13.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9c\ns6%3Assg_E13%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9c\ns6%3Assg_E13%2Epng.html -->
 
 秋霜玉
 
   
 秋霜玉敌机13像素图。
   
-
-
-
-
 
 ---
 

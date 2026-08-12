@@ -1,12 +1,8 @@
 # 文件:Zephill_banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ad\ns6%3AZephill_banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ad\ns6%3AZephill_banner%2Epng.html -->
 
 Zephill | 社团LOGO
-
-
-
-
 
 
 ---

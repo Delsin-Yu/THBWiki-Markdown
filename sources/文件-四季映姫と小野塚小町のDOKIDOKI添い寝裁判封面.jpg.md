@@ -1,6 +1,6 @@
 # 文件:四季映姫と小野塚小町のDOKIDOKI添い寝裁判封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e2\ns6%3A%E5%9B%9B%E5%AD%A3%E6%98%A0%E5%A7%AB%E3%81%A8%E5%B0%8F%E9%87%8E%E5%A1%9A%E5%B0%8F%E7%94%BA%E3%81%AEDOKIDOKI%E6%B7%BB%E3%81%84%E5%AF%9D%E8%A3%81%E5%88%A4%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e2\ns6%3A%E5%9B%9B%E5%AD%A3%E6%98%A0%E5%A7%AB%E3%81%A8%E5%B0%8F%E9%87%8E%E5%A1%9A%E5%B0%8F%E7%94%BA%E3%81%AEDOKIDOKI%E6%B7%BB%E3%81%84%E5%AF%9D%E8%A3%81%E5%88%A4%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 アールグレイ | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [四季映姫と小野塚小町のDOKIDOKI添い寝裁判](./四季映姫と小野塚小町のDOKIDOKI添い寝裁判.md)  
-该封面包含的角色：- [小野塚小町](./小野塚小町.md)- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)
-
-
-
+- [四季映姫と小野塚小町のDOKIDOKI添い寝裁判](./四季映姫と小野塚小町のDOKIDOKI添い寝裁判.md)该封面包含的角色：
+- [小野塚小町](./小野塚小町.md)
+- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)
 
 
 ---

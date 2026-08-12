@@ -1,6 +1,6 @@
 # 文件:Star_Light（へちょ屋）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b3\ns6%3AStar_Light%EF%BC%88%E3%81%B8%E3%81%A1%E3%82%87%E5%B1%8B%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b3\ns6%3AStar_Light%EF%BC%88%E3%81%B8%E3%81%A1%E3%82%87%E5%B1%8B%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 へちょ屋 | 专辑封面 | 封面图片
 
@@ -10,16 +10,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [Star Light（へちょ屋）](./Star_Light（へちょ屋）.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
+- [Star Light（へちょ屋）](./Star_Light（へちょ屋）.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
 image from TLMC scans
   
-
-
-
-
 
 ---
 

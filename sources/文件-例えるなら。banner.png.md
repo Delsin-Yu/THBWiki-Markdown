@@ -1,14 +1,11 @@
 # 文件:例えるなら。banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9a\ns6%3A%E4%BE%8B%E3%81%88%E3%82%8B%E3%81%AA%E3%82%89%E3%80%82banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9a\ns6%3A%E4%BE%8B%E3%81%88%E3%82%8B%E3%81%AA%E3%82%89%E3%80%82banner%2Epng.html -->
 
 例えるなら。 | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

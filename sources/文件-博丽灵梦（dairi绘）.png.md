@@ -1,12 +1,8 @@
 # 文件:博丽灵梦（dairi绘）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\32\ns6%3A%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88dairi%E7%BB%98%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\32\ns6%3A%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88dairi%E7%BB%98%EF%BC%89%2Epng.html -->
 
 NooblyPerson | 二次角色立绘 | 博丽灵梦（天陨梦）
-
-
-
-
 
 
 ---

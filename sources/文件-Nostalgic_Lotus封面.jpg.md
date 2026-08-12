@@ -1,6 +1,6 @@
 # 文件:Nostalgic_Lotus封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\43\ns6%3ANostalgic_Lotus%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\43\ns6%3ANostalgic_Lotus%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Art_of_Heart | 专辑封面 | 封面图片
 
@@ -10,11 +10,9 @@ Art_of_Heart | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Nostalgic Lotus](./Nostalgic_Lotus.md)  
-该封面包含的角色：- [博丽灵梦（旧作角色）](./博丽灵梦（旧作角色）.md)- [雾雨魔理沙（旧作角色）](./雾雨魔理沙（旧作角色）.md)
-
-
-
+- [Nostalgic Lotus](./Nostalgic_Lotus.md)该封面包含的角色：
+- [博丽灵梦（旧作角色）](./博丽灵梦（旧作角色）.md)
+- [雾雨魔理沙（旧作角色）](./雾雨魔理沙（旧作角色）.md)
 
 
 ---

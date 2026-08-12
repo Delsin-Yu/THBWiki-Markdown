@@ -1,16 +1,12 @@
 # 模板:EGL16
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\8\84\ns10%3AEGL16.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\8\84\ns10%3AEGL16.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

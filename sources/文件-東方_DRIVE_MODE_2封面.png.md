@@ -1,6 +1,6 @@
 # 文件:東方_DRIVE_MODE_2封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7a\ns6%3A%E6%9D%B1%E6%96%B9_DRIVE_MODE_2%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7a\ns6%3A%E6%9D%B1%E6%96%B9_DRIVE_MODE_2%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 CC姫工 | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ CC姫工 | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方 DRIVE MODE 2](./東方_DRIVE_MODE_2.md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)
-
-
-
+- [東方 DRIVE MODE 2](./東方_DRIVE_MODE_2.md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
 
 
 ---

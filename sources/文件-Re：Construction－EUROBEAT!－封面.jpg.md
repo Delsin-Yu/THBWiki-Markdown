@@ -1,6 +1,6 @@
 # 文件:Re：Construction－EUROBEAT!－封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bf\ns6%3ARe%EF%BC%9AConstruction%EF%BC%8DEUROBEAT%21%EF%BC%8D%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bf\ns6%3ARe%EF%BC%9AConstruction%EF%BC%8DEUROBEAT%21%EF%BC%8D%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 もぱた。 | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Re：Construction－EUROBEAT!－](./Re：Construction－EUROBEAT!－.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [Re：Construction－EUROBEAT!－](./Re：Construction－EUROBEAT!－.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

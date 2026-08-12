@@ -1,14 +1,11 @@
 # 文件:orduresbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ad\ns6%3Aorduresbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ad\ns6%3Aorduresbanner%2Ejpg.html -->
 
 ordures | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

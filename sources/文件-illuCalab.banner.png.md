@@ -1,18 +1,13 @@
 # 文件:illuCalab.banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1d\ns6%3AilluCalab%2Ebanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1d\ns6%3AilluCalab%2Ebanner%2Epng.html -->
 
 illuCalab. | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[direct image link](http://illucalab.com/img/illucalab_banner.png), [source page](http://illucalab.com/)
-  
-
-
-
-
+源地址：[direct image link](http://illucalab.com/img/illucalab_banner.png), [source page](http://illucalab.com/)  
 
 ---
 

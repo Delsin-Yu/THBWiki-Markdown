@@ -1,6 +1,6 @@
 # 文件:雛ちゃんブレイカー2ndBreak封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9e\ns6%3A%E9%9B%9B%E3%81%A1%E3%82%83%E3%82%93%E3%83%96%E3%83%AC%E3%82%A4%E3%82%AB%E3%83%BC2ndBreak%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9e\ns6%3A%E9%9B%9B%E3%81%A1%E3%82%83%E3%82%93%E3%83%96%E3%83%AC%E3%82%A4%E3%82%AB%E3%83%BC2ndBreak%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 ISY | 封面图片 | 软件封面
 
@@ -10,16 +10,11 @@ ISY | 封面图片 | 软件封面
 使用了本文件作封面图片的作品：
   
 
-- [雛ちゃんブレイカー2ndBreak](./雛ちゃんブレイカー2ndBreak.md)  
-该封面包含的角色：- [键山雏](./键山雏.md)
+- [雛ちゃんブレイカー2ndBreak](./雛ちゃんブレイカー2ndBreak.md)该封面包含的角色：
+- [键山雏](./键山雏.md)
 
   
-源地址：[direct image link (app icon on Google Play; original size)](https://play-lh.googleusercontent.com/Gi3vGlFM-F75bXlmmQANVbGUSB9-dDHlDLkMo2PQxfxLAp9v11RIop37LNIWvmVEpGXX=s0?imgmax=0), [source page](https://play.google.com/store/apps/details?id=isy.hina.breaker2ndb.mld)
-  
-
-
-
-
+源地址：[direct image link (app icon on Google Play; original size)](https://play-lh.googleusercontent.com/Gi3vGlFM-F75bXlmmQANVbGUSB9-dDHlDLkMo2PQxfxLAp9v11RIop37LNIWvmVEpGXX=s0?imgmax=0), [source page](https://play.google.com/store/apps/details?id=isy.hina.breaker2ndb.mld)  
 
 ---
 

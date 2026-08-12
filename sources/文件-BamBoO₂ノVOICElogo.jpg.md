@@ -1,18 +1,13 @@
 # 文件:BamBoO₂ノVOICElogo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5d\ns6%3ABamBoO%E2%82%82%E3%83%8EVOICElogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5d\ns6%3ABamBoO%E2%82%82%E3%83%8EVOICElogo%2Ejpg.html -->
 
 BamBoO₂ノVOICE | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[direct image link](https://cdn.dizzylab.net/media/label_cover/2EA2BDEA3C5BB98841E9CD1DA7AC8039.jpg), [from circle Dizzylab](https://www.dizzylab.net/l/BamBoO₂ノVOICE/)
-  
-
-
-
-
+源地址：[direct image link](https://cdn.dizzylab.net/media/label_cover/2EA2BDEA3C5BB98841E9CD1DA7AC8039.jpg), [from circle Dizzylab](https://www.dizzylab.net/l/BamBoO₂ノVOICE/)  
 
 ---
 

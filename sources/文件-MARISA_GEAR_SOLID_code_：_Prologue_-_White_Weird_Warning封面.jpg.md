@@ -1,6 +1,6 @@
 # 文件:MARISA_GEAR_SOLID_code_：_Prologue_-_White_Weird_Warning封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8e\ns6%3AMARISA_GEAR_SOLID_code_%EF%BC%9A_Prologue_-_White_Weird_Warning%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8e\ns6%3AMARISA_GEAR_SOLID_code_%EF%BC%9A_Prologue_-_White_Weird_Warning%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Dear_Durandal | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@ Dear_Durandal | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [MARISA GEAR SOLID code ： Prologue - White Weird Warning](./MARISA_GEAR_SOLID_code_：_Prologue_-_White_Weird_Warning.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)
+- [MARISA GEAR SOLID code ： Prologue - White Weird Warning](./MARISA_GEAR_SOLID_code_：_Prologue_-_White_Weird_Warning.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
 
   
-源地址：[direct image link](https://www.suruga-ya.jp/database/pics_light/game/zhore52963.jpg), [source page (suruga-ya ID: ZHORE52963)](https://www.suruga-ya.jp/product/detail/ZHORE52963)
-  
-
-
-
-
+源地址：[direct image link](https://www.suruga-ya.jp/database/pics_light/game/zhore52963.jpg), [source page (suruga-ya ID: ZHORE52963)](https://www.suruga-ya.jp/product/detail/ZHORE52963)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:秘封サナトリウム～Ghostly_Field_Sanatorium（同人专辑）封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\38\ns6%3A%E7%A7%98%E5%B0%81%E3%82%B5%E3%83%8A%E3%83%88%E3%83%AA%E3%82%A6%E3%83%A0%EF%BD%9EGhostly_Field_Sanatorium%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\38\ns6%3A%E7%A7%98%E5%B0%81%E3%82%B5%E3%83%8A%E3%83%88%E3%83%AA%E3%82%A6%E3%83%A0%EF%BD%9EGhostly_Field_Sanatorium%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 世界秘封病学会 | 封面图片
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [秘封サナトリウム ～ Ghostly Field Sanatorium（同人专辑）](./秘封サナトリウム_～_Ghostly_Field_Sanatorium（同人专辑）.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [秘封サナトリウム ～ Ghostly Field Sanatorium（同人专辑）](./秘封サナトリウム_～_Ghostly_Field_Sanatorium（同人专辑）.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

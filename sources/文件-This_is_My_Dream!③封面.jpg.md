@@ -1,6 +1,6 @@
 # 文件:This_is_My_Dream!③封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\24\ns6%3AThis_is_My_Dream%21%E2%91%A2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\24\ns6%3AThis_is_My_Dream%21%E2%91%A2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 北風ライラック6550 | 同人志封面 | 封面图片
 
@@ -8,11 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [This is My Dream!③](./This_is_My_Dream!③.md)  
-该封面包含的角色：- [蓬莱人形](./蓬莱人形.md)- [琪露诺](./琪露诺.md)- [雾雨魔理沙](./雾雨魔理沙.md)- [鬼人正邪](./鬼人正邪.md)
-
-
-
+- [This is My Dream!③](./This_is_My_Dream!③.md)该封面包含的角色：
+- [蓬莱人形](./蓬莱人形.md)
+- [琪露诺](./琪露诺.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
+- [鬼人正邪](./鬼人正邪.md)
 
 
 ---

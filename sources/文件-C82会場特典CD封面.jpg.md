@@ -1,6 +1,6 @@
 # 文件:C82会場特典CD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4b\ns6%3AC82%E4%BC%9A%E5%A0%B4%E7%89%B9%E5%85%B8CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4b\ns6%3AC82%E4%BC%9A%E5%A0%B4%E7%89%B9%E5%85%B8CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Crest | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ Crest | 专辑封面 | 封面图片
   
 
 - [C82会場特典CD](./C82会場特典CD.md)
-
-
-
 
 
 ---

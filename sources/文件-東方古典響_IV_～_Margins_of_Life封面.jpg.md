@@ -1,6 +1,6 @@
 # 文件:東方古典響_IV_～_Margins_of_Life封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e9\ns6%3A%E6%9D%B1%E6%96%B9%E5%8F%A4%E5%85%B8%E9%9F%BF_IV_%EF%BD%9E_Margins_of_Life%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e9\ns6%3A%E6%9D%B1%E6%96%B9%E5%8F%A4%E5%85%B8%E9%9F%BF_IV_%EF%BD%9E_Margins_of_Life%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 DDとMPの同人工房 | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ DDとMPの同人工房 | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方古典響 IV ～ Margins of Life](./東方古典響_IV_～_Margins_of_Life.md)  
-该封面包含的角色：- [西行寺幽幽子](./西行寺幽幽子.md)
-
-
-
+- [東方古典響 IV ～ Margins of Life](./東方古典響_IV_～_Margins_of_Life.md)该封面包含的角色：
+- [西行寺幽幽子](./西行寺幽幽子.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:murasa_minamitsu_autumn／winter_2014封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0a\ns6%3Amurasa_minamitsu_autumn%EF%BC%8Fwinter_2014%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0a\ns6%3Amurasa_minamitsu_autumn%EF%BC%8Fwinter_2014%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 tenohila | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@ tenohila | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [murasa minamitsu autumn／winter 2014](./murasa_minamitsu_autumn／winter_2014.md)  
-该封面包含的角色：- [村纱水蜜](./村纱水蜜.md)
+- [murasa minamitsu autumn／winter 2014](./murasa_minamitsu_autumn／winter_2014.md)该封面包含的角色：
+- [村纱水蜜](./村纱水蜜.md)
 
   
-[Pixiv artwork ID: 46420707](https://www.pixiv.net/artworks/46420707)
-  
-
-
-
-
+[Pixiv artwork ID: 46420707](https://www.pixiv.net/artworks/46420707)  
 
 ---
 

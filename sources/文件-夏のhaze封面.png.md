@@ -1,6 +1,6 @@
 # 文件:夏のhaze封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f4\ns6%3A%E5%A4%8F%E3%81%AEhaze%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f4\ns6%3A%E5%A4%8F%E3%81%AEhaze%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 アプサラス | 专辑封面 | 封面图片 | 我楽多東京
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [夏のhaze](./夏のhaze.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [夏のhaze](./夏のhaze.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

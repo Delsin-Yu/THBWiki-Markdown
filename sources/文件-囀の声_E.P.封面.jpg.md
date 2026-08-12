@@ -1,6 +1,6 @@
 # 文件:囀の声_E.P.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\13\ns6%3A%E5%9B%80%E3%81%AE%E5%A3%B0_E%2EP%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\13\ns6%3A%E5%9B%80%E3%81%AE%E5%A3%B0_E%2EP%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 HIDDEN_TREASURE | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ HIDDEN_TREASURE | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [囀の声 E.P.](./囀の声_E.P..md)  
-该封面包含的角色：- [米斯蒂娅·萝蕾拉](./米斯蒂娅·萝蕾拉.md)
-
-
-
+- [囀の声 E.P.](./囀の声_E.P..md)该封面包含的角色：
+- [米斯蒂娅·萝蕾拉](./米斯蒂娅·萝蕾拉.md)
 
 
 ---

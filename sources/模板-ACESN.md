@@ -1,16 +1,12 @@
 # 模板:ACESN
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\3\36\ns10%3AACESN.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\3\36\ns10%3AACESN.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

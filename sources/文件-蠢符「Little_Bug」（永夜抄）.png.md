@@ -1,12 +1,8 @@
 # 文件:蠢符「Little_Bug」（永夜抄）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a3\ns6%3A%E8%A0%A2%E7%AC%A6%E3%80%8CLittle_Bug%E3%80%8D%EF%BC%88%E6%B0%B8%E5%A4%9C%E6%8A%84%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a3\ns6%3A%E8%A0%A2%E7%AC%A6%E3%80%8CLittle_Bug%E3%80%8D%EF%BC%88%E6%B0%B8%E5%A4%9C%E6%8A%84%EF%BC%89%2Epng.html -->
 
 东方永夜抄 | 敌机符卡 | 莉格露·奈特巴格
-
-
-
-
 
 
 ---

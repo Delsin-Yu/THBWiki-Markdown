@@ -1,12 +1,8 @@
 # 文件:minimum_electric_design_banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cc\ns6%3Aminimum_electric_design_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cc\ns6%3Aminimum_electric_design_banner%2Ejpg.html -->
 
 minimum_electric_design | 社团LOGO
-
-
-
-
 
 
 ---

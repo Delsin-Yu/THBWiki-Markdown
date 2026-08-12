@@ -1,12 +1,8 @@
 # 文件:博丽灵梦（噩梦日记立绘）an.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\34\ns6%3A%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E5%99%A9%E6%A2%A6%E6%97%A5%E8%AE%B0%E7%AB%8B%E7%BB%98%EF%BC%89an%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\34\ns6%3A%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E5%99%A9%E6%A2%A6%E6%97%A5%E8%AE%B0%E7%AB%8B%E7%BB%98%EF%BC%89an%2Epng.html -->
 
 ZUN绘 | 博丽灵梦 | 官方游戏立绘 | 秘封噩梦日记
-
-
-
-
 
 
 ---

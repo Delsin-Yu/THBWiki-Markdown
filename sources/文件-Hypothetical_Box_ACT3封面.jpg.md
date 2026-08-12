@@ -1,6 +1,6 @@
 # 文件:Hypothetical_Box_ACT3封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\20\ns6%3AHypothetical_Box_ACT3%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\20\ns6%3AHypothetical_Box_ACT3%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Unlucky_Morpheus | 专辑封面 | 封面图片
 
@@ -8,11 +8,10 @@ Unlucky_Morpheus | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Hypothetical Box ACT3](./Hypothetical_Box_ACT3.md)  
-该封面包含的角色：- [橙](./橙.md)- [八云蓝](./八云蓝.md)- [八云紫](./八云紫.md)
-
-
-
+- [Hypothetical Box ACT3](./Hypothetical_Box_ACT3.md)该封面包含的角色：
+- [橙](./橙.md)
+- [八云蓝](./八云蓝.md)
+- [八云紫](./八云紫.md)
 
 
 ---

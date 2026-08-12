@@ -1,6 +1,6 @@
 # 文件:未開の墨染桜e.p.封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e8\ns6%3A%E6%9C%AA%E9%96%8B%E3%81%AE%E5%A2%A8%E6%9F%93%E6%A1%9Ce%2Ep%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e8\ns6%3A%E6%9C%AA%E9%96%8B%E3%81%AE%E5%A2%A8%E6%9F%93%E6%A1%9Ce%2Ep%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 クロックタイムアナグラム | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [未開の墨染桜e.p.](./未開の墨染桜e.p..md)  
-该封面包含的角色：- [西行寺幽幽子](./西行寺幽幽子.md)
-
-
-
+- [未開の墨染桜e.p.](./未開の墨染桜e.p..md)该封面包含的角色：
+- [西行寺幽幽子](./西行寺幽幽子.md)
 
 
 ---

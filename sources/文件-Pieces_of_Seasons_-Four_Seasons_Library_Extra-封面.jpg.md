@@ -1,6 +1,6 @@
 # 文件:Pieces_of_Seasons_-Four_Seasons_Library_Extra-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4e\ns6%3APieces_of_Seasons_-Four_Seasons_Library_Extra-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4e\ns6%3APieces_of_Seasons_-Four_Seasons_Library_Extra-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 少女理論観測所
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Pieces of Seasons -Four Seasons Library Extra-](./Pieces_of_Seasons_-Four_Seasons_Library_Extra-.md)  
-该封面包含的角色：- [摩多罗隐岐奈](./摩多罗隐岐奈.md)
-
-
-
+- [Pieces of Seasons -Four Seasons Library Extra-](./Pieces_of_Seasons_-Four_Seasons_Library_Extra-.md)该封面包含的角色：
+- [摩多罗隐岐奈](./摩多罗隐岐奈.md)
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:史克威尔艾尼克斯LOGO.svg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7f\ns6%3A%E5%8F%B2%E5%85%8B%E5%A8%81%E5%B0%94%E8%89%BE%E5%B0%BC%E5%85%8B%E6%96%AFLOGO%2Esvg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7f\ns6%3A%E5%8F%B2%E5%85%8B%E5%A8%81%E5%B0%94%E8%89%BE%E5%B0%BC%E5%85%8B%E6%96%AFLOGO%2Esvg.html -->
 
 企业LOGO | 史克威尔艾尼克斯
-
-
-
-
 
 
 ---

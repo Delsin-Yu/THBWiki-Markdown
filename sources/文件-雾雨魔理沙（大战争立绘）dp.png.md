@@ -1,12 +1,8 @@
 # 文件:雾雨魔理沙（大战争立绘）dp.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\97\ns6%3A%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%EF%BC%88%E5%A4%A7%E6%88%98%E4%BA%89%E7%AB%8B%E7%BB%98%EF%BC%89dp%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\97\ns6%3A%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%EF%BC%88%E5%A4%A7%E6%88%98%E4%BA%89%E7%AB%8B%E7%BB%98%EF%BC%89dp%2Epng.html -->
 
 妖精大战争 | 官方游戏立绘 | 比良坂真琴绘 | 雾雨魔理沙
-
-
-
-
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:GoM插图（穰子-1-1）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ab\ns6%3AGoM%E6%8F%92%E5%9B%BE%EF%BC%88%E7%A9%B0%E5%AD%90-1-1%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ab\ns6%3AGoM%E6%8F%92%E5%9B%BE%EF%BC%88%E7%A9%B0%E5%AD%90-1-1%EF%BC%89%2Ejpg.html -->
 
 秋穰子 | 魔理沙的魔法书
-
-
-
-
 
 
 ---

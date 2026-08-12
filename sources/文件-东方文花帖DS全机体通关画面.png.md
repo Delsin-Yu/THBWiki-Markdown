@@ -1,14 +1,11 @@
 # 文件:东方文花帖DS全机体通关画面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a8\ns6%3A%E4%B8%9C%E6%96%B9%E6%96%87%E8%8A%B1%E5%B8%96DS%E5%85%A8%E6%9C%BA%E4%BD%93%E9%80%9A%E5%85%B3%E7%94%BB%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a8\ns6%3A%E4%B8%9C%E6%96%B9%E6%96%87%E8%8A%B1%E5%B8%96DS%E5%85%A8%E6%9C%BA%E4%BD%93%E9%80%9A%E5%85%B3%E7%94%BB%E9%9D%A2%2Epng.html -->
 
 东方文花帖DS结局图
 
 
 ## 摘要
-
-
-
 
 ---
 

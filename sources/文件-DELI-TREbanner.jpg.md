@@ -1,12 +1,8 @@
 # 文件:DELI-TREbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\88\ns6%3ADELI-TREbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\88\ns6%3ADELI-TREbanner%2Ejpg.html -->
 
 DELI-TRE | 社团LOGO
-
-
-
-
 
 
 ---

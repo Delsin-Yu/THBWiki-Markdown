@@ -1,6 +1,6 @@
 # 文件:saturations封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c5\ns6%3Asaturations%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c5\ns6%3Asaturations%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 5150 | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [saturations](./saturations.md)  
-该封面包含的角色：- [宇佐见莲子](./宇佐见莲子.md)
+- [saturations](./saturations.md)该封面包含的角色：
+- [宇佐见莲子](./宇佐见莲子.md)
 
   
-源地址：[[1]](http://static.tumblr.com/ece96f5ce9992847868f11a4416b1f36/gfqav2e/AG4o674v6/tumblr_static_du94jhxwi680sos4o08sg04os.png)
-  
-
-
-
-
+源地址：[\[1\]](http://static.tumblr.com/ece96f5ce9992847868f11a4416b1f36/gfqav2e/AG4o674v6/tumblr_static_du94jhxwi680sos4o08sg04os.png)  
 
 ---
 

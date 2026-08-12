@@ -1,6 +1,6 @@
 # 文件:硝子的サイコロジー_(Autobahn_Remix_short_ver.)封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\15\ns6%3A%E7%A1%9D%E5%AD%90%E7%9A%84%E3%82%B5%E3%82%A4%E3%82%B3%E3%83%AD%E3%82%B8%E3%83%BC_%28Autobahn_Remix_short_ver%2E%29%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\15\ns6%3A%E7%A1%9D%E5%AD%90%E7%9A%84%E3%82%B5%E3%82%A4%E3%82%B3%E3%83%AD%E3%82%B8%E3%83%BC_%28Autobahn_Remix_short_ver%2E%29%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 幽闭星光
 
@@ -8,10 +8,7 @@
 使用了本文件作封面图片的作品：
   
 
-- [硝子的サイコロジー (Autobahn Remix short ver.)](./硝子的サイコロジー_(Autobahn_Remix_short_ver.).md)
-
-
-
+- [硝子的サイコロジー (Autobahn Remix short ver.)](./硝子的サイコロジー_(Autobahn_Remix_short_ver.%29.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Strada_vs_Annemaddox_the_Compilation封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2d\ns6%3AStrada_vs_Annemaddox_the_Compilation%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2d\ns6%3AStrada_vs_Annemaddox_the_Compilation%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 MARS_Tracks | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ MARS_Tracks | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Strada vs Annemaddox the Compilation](./Strada_vs_Annemaddox_the_Compilation.md)  
-该封面包含的角色：- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)
-
-
-
+- [Strada vs Annemaddox the Compilation](./Strada_vs_Annemaddox_the_Compilation.md)该封面包含的角色：
+- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)
 
 
 ---

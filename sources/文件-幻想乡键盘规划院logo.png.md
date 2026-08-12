@@ -1,12 +1,8 @@
 # 文件:幻想乡键盘规划院logo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d7\ns6%3A%E5%B9%BB%E6%83%B3%E4%B9%A1%E9%94%AE%E7%9B%98%E8%A7%84%E5%88%92%E9%99%A2logo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d7\ns6%3A%E5%B9%BB%E6%83%B3%E4%B9%A1%E9%94%AE%E7%9B%98%E8%A7%84%E5%88%92%E9%99%A2logo%2Epng.html -->
 
 幻想乡键盘规划院 | 社团LOGO
-
-
-
-
 
 
 ---

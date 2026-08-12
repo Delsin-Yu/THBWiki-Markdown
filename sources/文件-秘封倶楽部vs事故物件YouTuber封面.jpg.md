@@ -1,6 +1,6 @@
 # 文件:秘封倶楽部vs事故物件YouTuber封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7f\ns6%3A%E7%A7%98%E5%B0%81%E5%80%B6%E6%A5%BD%E9%83%A8vs%E4%BA%8B%E6%95%85%E7%89%A9%E4%BB%B6YouTuber%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7f\ns6%3A%E7%A7%98%E5%B0%81%E5%80%B6%E6%A5%BD%E9%83%A8vs%E4%BA%8B%E6%95%85%E7%89%A9%E4%BB%B6YouTuber%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 有機化合物
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [秘封倶楽部vs事故物件YouTuber](./秘封倶楽部vs事故物件YouTuber.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [秘封倶楽部vs事故物件YouTuber](./秘封倶楽部vs事故物件YouTuber.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

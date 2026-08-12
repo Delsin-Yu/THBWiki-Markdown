@@ -1,6 +1,6 @@
 # 文件:幽幻天仪盘~meteors_of_triple_dimension_-星陨之夜-封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ef\ns6%3A%E5%B9%BD%E5%B9%BB%E5%A4%A9%E4%BB%AA%E7%9B%98%7Emeteors_of_triple_dimension_-%E6%98%9F%E9%99%A8%E4%B9%8B%E5%A4%9C-%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ef\ns6%3A%E5%B9%BD%E5%B9%BB%E5%A4%A9%E4%BB%AA%E7%9B%98%7Emeteors_of_triple_dimension_-%E6%98%9F%E9%99%A8%E4%B9%8B%E5%A4%9C-%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 同人志封面 | 封面图片 | 永动之龛
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [幽幻天仪盘~meteors of triple dimension -星陨之夜-](./幽幻天仪盘~meteors_of_triple_dimension_-星陨之夜-.md)  
-该封面包含的角色：- [魅魔](./魅魔.md)- [本居小铃](./本居小铃.md)
-
-
-
+- [幽幻天仪盘~meteors of triple dimension -星陨之夜-](./幽幻天仪盘~meteors_of_triple_dimension_-星陨之夜-.md)该封面包含的角色：
+- [魅魔](./魅魔.md)
+- [本居小铃](./本居小铃.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:DOWNTOWN-4封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\30\ns6%3ADOWNTOWN-4%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\30\ns6%3ADOWNTOWN-4%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 茜音色タウン
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [DOWNTOWN-4](./DOWNTOWN-4.md)  
-该封面包含的角色：- [比那名居天子](./比那名居天子.md)
+- [DOWNTOWN-4](./DOWNTOWN-4.md)该封面包含的角色：
+- [比那名居天子](./比那名居天子.md)
 
   
-源地址：[[1]](https://static.wixstatic.com/media/390e42_fed0c4f10cba4535b0d38f313dd28001~mv2.png)
-  
-
-
-
-
+源地址：[\[1\]](https://static.wixstatic.com/media/390e42_fed0c4f10cba4535b0d38f313dd28001~mv2.png)  
 
 ---
 

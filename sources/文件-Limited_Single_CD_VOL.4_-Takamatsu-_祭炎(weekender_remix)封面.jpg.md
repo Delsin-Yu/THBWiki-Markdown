@@ -1,6 +1,6 @@
 # 文件:Limited_Single_CD_VOL.4_-Takamatsu-_祭炎(weekender_remix)封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6a\ns6%3ALimited_Single_CD_VOL%2E4_-Takamatsu-_%E7%A5%AD%E7%82%8E%28weekender_remix%29%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6a\ns6%3ALimited_Single_CD_VOL%2E4_-Takamatsu-_%E7%A5%AD%E7%82%8E%28weekender_remix%29%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 GET_IN_THE_RING | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ GET_IN_THE_RING | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Limited Single CD VOL.4 -Takamatsu- 祭炎(weekender remix)](./Limited_Single_CD_VOL.4_-Takamatsu-_祭炎(weekender_remix).md)  
-该封面包含的角色：- [伊吹萃香](./伊吹萃香.md)
-
-
-
+- [Limited Single CD VOL.4 -Takamatsu- 祭炎(weekender remix)](./Limited_Single_CD_VOL.4_-Takamatsu-_祭炎(weekender_remix%29.md)该封面包含的角色：
+- [伊吹萃香](./伊吹萃香.md)
 
 
 ---

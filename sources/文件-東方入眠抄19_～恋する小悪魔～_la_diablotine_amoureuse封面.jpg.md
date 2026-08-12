@@ -1,6 +1,6 @@
 # 文件:東方入眠抄19_～恋する小悪魔～_la_diablotine_amoureuse封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\de\ns6%3A%E6%9D%B1%E6%96%B9%E5%85%A5%E7%9C%A0%E6%8A%8419_%EF%BD%9E%E6%81%8B%E3%81%99%E3%82%8B%E5%B0%8F%E6%82%AA%E9%AD%94%EF%BD%9E_la_diablotine_amoureuse%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\de\ns6%3A%E6%9D%B1%E6%96%B9%E5%85%A5%E7%9C%A0%E6%8A%8419_%EF%BD%9E%E6%81%8B%E3%81%99%E3%82%8B%E5%B0%8F%E6%82%AA%E9%AD%94%EF%BD%9E_la_diablotine_amoureuse%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Re：Volte | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Re：Volte | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方入眠抄19 ～恋する小悪魔～ la diablotine amoureuse](./東方入眠抄19_～恋する小悪魔～_la_diablotine_amoureuse.md)  
-该封面包含的角色：- [小恶魔](./小恶魔.md)
-
-
-
+- [東方入眠抄19 ～恋する小悪魔～ la diablotine amoureuse](./東方入眠抄19_～恋する小悪魔～_la_diablotine_amoureuse.md)该封面包含的角色：
+- [小恶魔](./小恶魔.md)
 
 
 ---

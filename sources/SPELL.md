@@ -1,19 +1,16 @@
 # SPELL
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\a\a3\ns0%3ASPELL.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\a\a3\ns0%3ASPELL.html -->
 
 漫画家あずまあや作画的二次创作漫画。
 
 本页是关于东方Project  
- **二次创作同人连载 (未找到链接)** 的词条
-
+**[二次创作同人连载](./二次创作.md#自由创作)**的词条
 ## 目录
 
 - [1 概述](#概述)
 - [2 相关信息](#相关信息)
-
   - [2.1 我乐多丛志网站介绍](#我乐多丛志网站介绍)
-
 
 
 - [3 主要角色](#主要角色)
@@ -23,12 +20,9 @@
 - [7 注释](#注释)
 
 
-
-
-
 ## 概述
   
-<big> **SPELL** </big>  
+<big>**SPELL**</big>  
 
 SPELL  
 
@@ -37,24 +31,21 @@ SPELL
 目前更新至第5话。
   
 
-
 <table>
 <tbody><tr>
 <th colspan="2">基本信息</th>
 </tr>
 <tr>
 <td style="width:140px"><b>出版方</b></td><td style="min-width:300px">角川集团</td>
-</tr><tr><td><b>连载日期</b></td><td>2024年1月至今</td></tr><tr><td><b>单行本出版社</b></td><td>角川集团</td></tr><tr><td><b>作者</b></td><td><a href="./あずまあや.md" title="あずまあや">あずまあや</a></td></tr><tr><td><b>插画</b></td><td><a href="./あずまあや.md" title="あずまあや">あずまあや</a></td></tr><tr><td><b>类型</b></td><td>漫画</td></tr><tr><td><b>大小</b></td><td>A5</td></tr><tr><td><b>话数</b></td><td>至今已连载5话</td></tr><tr><td><b>附属</b></td><td><a href="/index.php?title=SPELL/%E7%89%B9%E5%85%B8&amp;action=edit&amp;redlink=1" class="new" title="SPELL/特典（页面不存在）">附赠特典</a></td></tr></tbody></table>
+</tr><tr><td><b>连载日期</b></td><td>2024年1月至今</td></tr><tr><td><b>单行本出版社</b></td><td>角川集团</td></tr><tr><td><b>作者</b></td><td><a href="./あずまあや.md" title="あずまあや">あずまあや</a></td></tr><tr><td><b>插画</b></td><td><a href="./あずまあや.md" title="あずまあや">あずまあや</a></td></tr><tr><td><b>类型</b></td><td>漫画</td></tr><tr><td><b>大小</b></td><td>A5</td></tr><tr><td><b>话数</b></td><td>至今已连载5话</td></tr><tr><td><b>附属</b></td><td><a class="new" title="SPELL/特典（页面不存在）">附赠特典</a></td></tr></tbody></table>
 
 SPELL（官方书籍） - 漫画家あずまあや作画的二次创作漫画。
-
 ## 相关信息
 
 ### 我乐多丛志网站介绍
   
 幻想乡，一个人类与非人类和谐共处的理想乐园。身为守护者的年幼巫女，已经厌倦了波澜不惊的无聊日子。直到有一天，吸血鬼从外面世界来到了这里……。这是在符卡规则出现前的，幻想乡的秘密故事。
   
-
 
 ## 主要角色
 
@@ -118,16 +109,13 @@ SPELL（官方书籍） - 漫画家あずまあや作画的二次创作漫画。
 <td>第5话</td>
 <td>紅魔館のメイド</td>
 <td>红魔馆的女仆</td>
-<td><a href="/%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C" title="十六夜咲夜">十六夜咲夜</a>
+<td><a href="./十六夜咲夜.md" title="十六夜咲夜">十六夜咲夜</a>
 </td></tr></tbody></table>
-
 
 
 ## 连载页面
   
- **漫画的在线观看，均外链至喵玉殿（中译版）及[东方我乐多丛志](https://touhougarakuta.com/index_comic/spell/)，[ComicWalker](https://comic-walker.com/detail/KC_002938_S/)，[NICONICO静画](https://seiga.nicovideo.jp/comic/65764/)中的对应页面。** 
-  
-
+**漫画的在线观看，均外链至喵玉殿（中译版）及[东方我乐多丛志](https://touhougarakuta.com/index_comic/spell/)，[ComicWalker](https://comic-walker.com/detail/KC_002938_S/)，[NICONICO静画](https://seiga.nicovideo.jp/comic/65764/)中的对应页面。**  
 
 <table>
 
@@ -137,17 +125,17 @@ SPELL（官方书籍） - 漫画家あずまあや作画的二次创作漫画。
 <th>首次公开媒体
 </th></tr>
 <tr>
-<td>第1話<br><a rel="nofollow" class="external text" href="https://bbs.nyasama.com/forum.php?mod=viewthread&amp;tid=1858924">第1话</a></td>
+<td>第1話<br><a rel="nofollow" class="external text" href="https://bbs.nyasama.com/forum.php?mod=viewthread&tid=1858924">第1话</a></td>
 <td>2024年01月29日</td>
-<td><a rel="nofollow" class="external text" href="https://touhougarakuta.com/comic/spell_1/">东方我乐多丛志</a><br><a rel="nofollow" class="external text" href="https://comic-walker.com/viewer/?tw=2&amp;dlcl=ja&amp;cid=KDCW_AM21204385010001_68/">ComicWalker</a><br><a rel="nofollow" class="external text" href="https://seiga.nicovideo.jp/watch/mg782456/">NICONICO静画</a>
+<td><a rel="nofollow" class="external text" href="https://touhougarakuta.com/comic/spell_1/">东方我乐多丛志</a><br><a rel="nofollow" class="external text" href="https://comic-walker.com/viewer/?tw=2&dlcl=ja&cid=KDCW_AM21204385010001_68/">ComicWalker</a><br><a rel="nofollow" class="external text" href="https://seiga.nicovideo.jp/watch/mg782456/">NICONICO静画</a>
 </td></tr>
 <tr>
-<td>第2話<br><a rel="nofollow" class="external text" href="https://bbs.nyasama.com/forum.php?mod=viewthread&amp;tid=1860723">第2话</a></td>
+<td>第2話<br><a rel="nofollow" class="external text" href="https://bbs.nyasama.com/forum.php?mod=viewthread&tid=1860723">第2话</a></td>
 <td>2024年02月26日</td>
 <td><a rel="nofollow" class="external text" href="https://touhougarakuta.com/comic/spell_2/">东方我乐多丛志</a><br><a rel="nofollow" class="external text" href="https://comic-walker.com/detail/KC_002938_S/episodes/KC_0029380000200011_E/">ComicWalker</a><br><a rel="nofollow" class="external text" href="https://seiga.nicovideo.jp/watch/mg811581/">NICONICO静画</a>
 </td></tr>
 <tr>
-<td>第3話<br><a rel="nofollow" class="external text" href="https://bbs.nyasama.com/forum.php?mod=viewthread&amp;tid=1862065">第3话</a></td>
+<td>第3話<br><a rel="nofollow" class="external text" href="https://bbs.nyasama.com/forum.php?mod=viewthread&tid=1862065">第3话</a></td>
 <td>2024年03月25日</td>
 <td><a rel="nofollow" class="external text" href="https://touhougarakuta.com/comic/spell_3/">东方我乐多丛志</a><br><a rel="nofollow" class="external text" href="https://comic-walker.com/detail/KC_002938_S/episodes/KC_0029380000400011_E/">ComicWalker</a><br><a rel="nofollow" class="external text" href="https://seiga.nicovideo.jp/watch/mg826315/">NICONICO静画</a>
 </td></tr>
@@ -163,22 +151,13 @@ SPELL（官方书籍） - 漫画家あずまあや作画的二次创作漫画。
 </td></tr></tbody></table>
 
 
-
 ## 其他
+
 - 其他相关信息 (未找到链接)
 - 分析与考据 (未找到链接)
 
 
 ## 外部链接
-
-  
-  
-
-  
-
-
-
-
 
 ---
 

@@ -1,16 +1,11 @@
 # 文件:幻影音楽堂banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b1\ns6%3A%E5%B9%BB%E5%BD%B1%E9%9F%B3%E6%A5%BD%E5%A0%82banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b1\ns6%3A%E5%B9%BB%E5%BD%B1%E9%9F%B3%E6%A5%BD%E5%A0%82banner%2Ejpg.html -->
 
 幻影音楽堂 | 社团LOGO
 
   
-源地址：[[1]](http://sound.jp/neontetra_feel/images/bn1.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://sound.jp/neontetra_feel/images/bn1.jpg)  
 
 ---
 

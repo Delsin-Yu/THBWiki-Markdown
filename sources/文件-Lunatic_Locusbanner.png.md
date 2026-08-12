@@ -1,16 +1,11 @@
 # 文件:Lunatic_Locusbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\20\ns6%3ALunatic_Locusbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\20\ns6%3ALunatic_Locusbanner%2Epng.html -->
 
 Lunatic_Locus | 社团LOGO
 
   
-源地址:[[1]](http://lu-narn.net/l_locus_banner_200.png)
-  
-
-
-
-
+源地址:[\[1\]](http://lu-narn.net/l_locus_banner_200.png)  
 
 ---
 

@@ -1,12 +1,8 @@
 # 文件:花映塚琪露诺Ex.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0e\ns6%3A%E8%8A%B1%E6%98%A0%E5%A1%9A%E7%90%AA%E9%9C%B2%E8%AF%BAEx%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0e\ns6%3A%E8%8A%B1%E6%98%A0%E5%A1%9A%E7%90%AA%E9%9C%B2%E8%AF%BAEx%2Epng.html -->
 
 东方花映塚 | 琪露诺
-
-
-
-
 
 
 ---

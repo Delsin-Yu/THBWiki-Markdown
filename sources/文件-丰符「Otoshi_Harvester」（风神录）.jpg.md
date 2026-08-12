@@ -1,12 +1,8 @@
 # 文件:丰符「Otoshi_Harvester」（风神录）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\33\ns6%3A%E4%B8%B0%E7%AC%A6%E3%80%8COtoshi_Harvester%E3%80%8D%EF%BC%88%E9%A3%8E%E7%A5%9E%E5%BD%95%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\33\ns6%3A%E4%B8%B0%E7%AC%A6%E3%80%8COtoshi_Harvester%E3%80%8D%EF%BC%88%E9%A3%8E%E7%A5%9E%E5%BD%95%EF%BC%89%2Ejpg.html -->
 
 东方风神录 | 敌机符卡 | 秋穰子
-
-
-
-
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:BAiJR_01.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f8\ns6%3ABAiJR_01%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f8\ns6%3ABAiJR_01%2Emp3.html -->
 
 东方文花帖（书籍） | 原曲MP3 | 风神少女
-
-
-
-
 
 
 ---

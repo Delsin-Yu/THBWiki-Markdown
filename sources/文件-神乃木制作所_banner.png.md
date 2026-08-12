@@ -1,12 +1,8 @@
 # 文件:神乃木制作所_banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b8\ns6%3A%E7%A5%9E%E4%B9%83%E6%9C%A8%E5%88%B6%E4%BD%9C%E6%89%80_banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b8\ns6%3A%E7%A5%9E%E4%B9%83%E6%9C%A8%E5%88%B6%E4%BD%9C%E6%89%80_banner%2Epng.html -->
 
 社团LOGO | 神乃木制作所
-
-
-
-
 
 
 ---

@@ -1,16 +1,11 @@
 # 文件:sun3_FielDbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e5\ns6%3Asun3_FielDbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e5\ns6%3Asun3_FielDbanner%2Epng.html -->
 
 sun3_FielD | 社团LOGO
 
   
-源地址：[[1]](https://web.archive.org/web/20081222131349/http://succinicacid.hp.infoseek.co.jp:80/Link.html)
-  
-
-
-
-
+源地址：[\[1\]](https://web.archive.org/web/20081222131349/http://succinicacid.hp.infoseek.co.jp:80/Link.html)  
 
 ---
 

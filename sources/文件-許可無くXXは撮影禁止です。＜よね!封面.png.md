@@ -1,6 +1,6 @@
 # 文件:許可無くXXは撮影禁止です。＜よね!封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fd\ns6%3A%E8%A8%B1%E5%8F%AF%E7%84%A1%E3%81%8FXX%E3%81%AF%E6%92%AE%E5%BD%B1%E7%A6%81%E6%AD%A2%E3%81%A7%E3%81%99%E3%80%82%EF%BC%9C%E3%82%88%E3%81%AD%21%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fd\ns6%3A%E8%A8%B1%E5%8F%AF%E7%84%A1%E3%81%8FXX%E3%81%AF%E6%92%AE%E5%BD%B1%E7%A6%81%E6%AD%A2%E3%81%A7%E3%81%99%E3%80%82%EF%BC%9C%E3%82%88%E3%81%AD%21%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 同人志封面 | 封面图片 | 少女恋歌
 
@@ -8,11 +8,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [許可無くXXは撮影禁止です。＜よね!](./許可無くXXは撮影禁止です。＜よね!.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [八云紫](./八云紫.md)- [宇佐见堇子](./宇佐见堇子.md)
-
-
-
+- [許可無くXXは撮影禁止です。＜よね!](./許可無くXXは撮影禁止です。＜よね!.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [八云紫](./八云紫.md)
+- [宇佐见堇子](./宇佐见堇子.md)
 
 
 ---

@@ -1,16 +1,12 @@
 # 模板:niconico原创游戏祭
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\4\44\ns10%3Aniconico%E5%8E%9F%E5%88%9B%E6%B8%B8%E6%88%8F%E7%A5%AD.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\4\44\ns10%3Aniconico%E5%8E%9F%E5%88%9B%E6%B8%B8%E6%88%8F%E7%A5%AD.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

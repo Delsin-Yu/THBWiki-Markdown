@@ -1,12 +1,8 @@
 # 文件:花映塚射命丸文Ex.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e7\ns6%3A%E8%8A%B1%E6%98%A0%E5%A1%9A%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87Ex%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e7\ns6%3A%E8%8A%B1%E6%98%A0%E5%A1%9A%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87Ex%2Epng.html -->
 
 东方花映塚 | 射命丸文
-
-
-
-
 
 
 ---

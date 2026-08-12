@@ -1,6 +1,6 @@
 # 文件:Taste_of_my_decadence（同人专辑）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a5\ns6%3ATaste_of_my_decadence%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a5\ns6%3ATaste_of_my_decadence%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Taste_of_my_decadence | 专辑封面 | 封面图片
 
@@ -13,12 +13,7 @@ Taste_of_my_decadence | 专辑封面 | 封面图片
 - [Taste of my decadence（同人专辑）](./Taste_of_my_decadence（同人专辑）.md)
 
   
-源地址：[direct image link (original uploaded image)](https://pbs.twimg.com/media/DYLLESjU8AAAoKo?format=jpg&amp;name=orig), [source tweet](https://twitter.com/tamaxi_oknw/status/973563912250535936)
-  
-
-
-
-
+源地址：[direct image link (original uploaded image)](https://pbs.twimg.com/media/DYLLESjU8AAAoKo?format=jpg&name=orig), [source tweet](https://twitter.com/tamaxi_oknw/status/973563912250535936)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:Register6_Demo_CD_vol.6封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\06\ns6%3ARegister6_Demo_CD_vol%2E6%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\06\ns6%3ARegister6_Demo_CD_vol%2E6%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Register6 | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ Register6 | 专辑封面 | 封面图片
   
 
 - [Register6 Demo CD vol.6](./Register6_Demo_CD_vol.6.md)
-
-
-
 
 
 ---

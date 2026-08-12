@@ -1,12 +1,8 @@
 # 文件:Comptiq访谈1.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\78\ns6%3AComptiq%E8%AE%BF%E8%B0%881%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\78\ns6%3AComptiq%E8%AE%BF%E8%B0%881%2Ejpg.html -->
 
 Comptiq访谈
-
-
-
-
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:博丽灵梦（星莲船立绘）an.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\47\ns6%3A%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89an%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\47\ns6%3A%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89an%2Epng.html -->
 
 ZUN绘 | 东方星莲船 | 博丽灵梦 | 官方游戏立绘
-
-
-
-
 
 
 ---

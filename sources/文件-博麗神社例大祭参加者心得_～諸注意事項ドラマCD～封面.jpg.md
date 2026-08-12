@@ -1,6 +1,6 @@
 # 文件:博麗神社例大祭参加者心得_～諸注意事項ドラマCD～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\71\ns6%3A%E5%8D%9A%E9%BA%97%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD%E5%8F%82%E5%8A%A0%E8%80%85%E5%BF%83%E5%BE%97_%EF%BD%9E%E8%AB%B8%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A0%85%E3%83%89%E3%83%A9%E3%83%9ECD%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\71\ns6%3A%E5%8D%9A%E9%BA%97%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD%E5%8F%82%E5%8A%A0%E8%80%85%E5%BF%83%E5%BE%97_%EF%BD%9E%E8%AB%B8%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A0%85%E3%83%89%E3%83%A9%E3%83%9ECD%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 博丽神社事务所 | 封面图片
 
@@ -10,16 +10,16 @@
 使用了本文件作封面图片的作品：
   
 
-- [博麗神社例大祭参加者心得 ～諸注意事項ドラマCD～](./博麗神社例大祭参加者心得_～諸注意事項ドラマCD～.md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)- [河城荷取](./河城荷取.md)- [东风谷早苗](./东风谷早苗.md)- [八坂神奈子](./八坂神奈子.md)- [洩矢诹访子](./洩矢诹访子.md)
+- [博麗神社例大祭参加者心得 ～諸注意事項ドラマCD～](./博麗神社例大祭参加者心得_～諸注意事項ドラマCD～.md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
+- [河城荷取](./河城荷取.md)
+- [东风谷早苗](./东风谷早苗.md)
+- [八坂神奈子](./八坂神奈子.md)
+- [洩矢诹访子](./洩矢诹访子.md)
 
   
 From TLMC scans
   
-
-
-
-
 
 ---
 

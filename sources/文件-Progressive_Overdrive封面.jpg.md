@@ -1,6 +1,6 @@
 # 文件:Progressive_Overdrive封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8d\ns6%3AProgressive_Overdrive%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8d\ns6%3AProgressive_Overdrive%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 TATAMI_STUGIWO | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ TATAMI_STUGIWO | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Progressive Overdrive](./Progressive_Overdrive.md)  
-该封面包含的角色：- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)
-
-
-
+- [Progressive Overdrive](./Progressive_Overdrive.md)该封面包含的角色：
+- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)
 
 
 ---

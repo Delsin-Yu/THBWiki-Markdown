@@ -1,6 +1,6 @@
 # 文件:猶予_IZAYOI封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5e\ns6%3A%E7%8C%B6%E4%BA%88_IZAYOI%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5e\ns6%3A%E7%8C%B6%E4%BA%88_IZAYOI%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 WAVEDRIVE | 专辑封面 | 封面图片
 
@@ -10,11 +10,9 @@ WAVEDRIVE | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [猶予 IZAYOI](./猶予_IZAYOI.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)- [小野塚小町](./小野塚小町.md)
-
-
-
+- [猶予 IZAYOI](./猶予_IZAYOI.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
+- [小野塚小町](./小野塚小町.md)
 
 
 ---

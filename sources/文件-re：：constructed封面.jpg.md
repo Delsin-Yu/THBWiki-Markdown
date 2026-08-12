@@ -1,6 +1,6 @@
 # 文件:re：：constructed封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d3\ns6%3Are%EF%BC%9A%EF%BC%9Aconstructed%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d3\ns6%3Are%EF%BC%9A%EF%BC%9Aconstructed%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Babbe_Music | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Babbe_Music | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [re：：constructed](./re：：constructed.md)  
-该封面包含的角色：- [键山雏](./键山雏.md)
-
-
-
+- [re：：constructed](./re：：constructed.md)该封面包含的角色：
+- [键山雏](./键山雏.md)
 
 
 ---

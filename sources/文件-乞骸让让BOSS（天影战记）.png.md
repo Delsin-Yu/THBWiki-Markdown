@@ -1,16 +1,12 @@
 # 文件:乞骸让让BOSS（天影战记）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\78\ns6%3A%E4%B9%9E%E9%AA%B8%E8%AE%A9%E8%AE%A9BOSS%EF%BC%88%E5%A4%A9%E5%BD%B1%E6%88%98%E8%AE%B0%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\78\ns6%3A%E4%B9%9E%E9%AA%B8%E8%AE%A9%E8%AE%A9BOSS%EF%BC%88%E5%A4%A9%E5%BD%B1%E6%88%98%E8%AE%B0%EF%BC%89%2Epng.html -->
 
 トリック・ノスタルジー | 乞骸让让 | 二次角色立绘 | 连缘天影战记
 
   
 天影战记立绘
   
-
-
-
-
 
 ---
 

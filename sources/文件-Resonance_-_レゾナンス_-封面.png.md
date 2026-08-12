@@ -1,6 +1,6 @@
 # 文件:Resonance_-_レゾナンス_-封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\30\ns6%3AResonance_-_%E3%83%AC%E3%82%BE%E3%83%8A%E3%83%B3%E3%82%B9_-%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\30\ns6%3AResonance_-_%E3%83%AC%E3%82%BE%E3%83%8A%E3%83%B3%E3%82%B9_-%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 C-CLAYS | 专辑封面 | 封面图片
 
@@ -8,16 +8,12 @@ C-CLAYS | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Resonance - レゾナンス -](./Resonance_-_レゾナンス_-.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [雾雨魔理沙](./雾雨魔理沙.md)
+- [Resonance - レゾナンス -](./Resonance_-_レゾナンス_-.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-源地址：[[1]](http://www.c-clays.com/03_pro/rei13/img/resonance.png)
-  
-
-
-
-
+源地址：[\[1\]](http://www.c-clays.com/03_pro/rei13/img/resonance.png)  
 
 ---
 

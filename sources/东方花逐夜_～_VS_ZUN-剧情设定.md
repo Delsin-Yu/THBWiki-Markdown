@@ -1,6 +1,6 @@
 # 东方花逐夜_～_VS_ZUN/剧情设定
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\e\e4\ns0%3A%E4%B8%9C%E6%96%B9%E8%8A%B1%E9%80%90%E5%A4%9C_%EF%BD%9E_VS_ZUN%2F%E5%89%A7%E6%83%85%E8%AE%BE%E5%AE%9A.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\e\e4\ns0%3A%E4%B8%9C%E6%96%B9%E8%8A%B1%E9%80%90%E5%A4%9C_%EF%BD%9E_VS_ZUN%2F%E5%89%A7%E6%83%85%E8%AE%BE%E5%AE%9A.html -->
 
 正灌
 
@@ -16,13 +16,9 @@
 时间已经不多了，必须要找到能够修复大结界的人。  
 
 而剩下的唯一希望，便是那只存在于传说中的——幻想乡的缔造者。  
-
   
-
   
-
   
-
 
 ## EX剧情
   
@@ -68,10 +64,6 @@
 
 虽然嘴上不服输，心里也带着疑惑，三人还是进入了隙间。只是她们谁也没有注意到，隐藏在折扇后面，隙间妖怪的一抹邪笑。
   
-
-
-
-
 
 ---
 

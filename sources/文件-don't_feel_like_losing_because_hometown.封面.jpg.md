@@ -1,6 +1,6 @@
 # 文件:don't_feel_like_losing_because_hometown.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\70\ns6%3Adon%27t_feel_like_losing_because_hometown%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\70\ns6%3Adon%27t_feel_like_losing_because_hometown%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 梶迫小道具店
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [don't feel like losing because hometown.](./don't_feel_like_losing_because_hometown..md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [don't feel like losing because hometown.](./don't_feel_like_losing_because_hometown..md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

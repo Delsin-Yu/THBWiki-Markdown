@@ -1,6 +1,6 @@
 # 文件:PHANTASM_WORLD.封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bc\ns6%3APHANTASM_WORLD%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bc\ns6%3APHANTASM_WORLD%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 BlackEditionFX | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@ BlackEditionFX | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [PHANTASM WORLD.](./PHANTASM_WORLD..md)  
-该封面包含的角色：- [灵乌路空](./灵乌路空.md)
+- [PHANTASM WORLD.](./PHANTASM_WORLD..md)该封面包含的角色：
+- [灵乌路空](./灵乌路空.md)
 
   
-源地址：[direct image link (original size)](https://pbs.twimg.com/media/B2t-hOLCUAE0ARZ?format=png&amp;name=orig), [source tweet](https://twitter.com/_GmoT_/status/534660110795022336)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://pbs.twimg.com/media/B2t-hOLCUAE0ARZ?format=png&name=orig), [source tweet](https://twitter.com/_GmoT_/status/534660110795022336)  
 
 ---
 

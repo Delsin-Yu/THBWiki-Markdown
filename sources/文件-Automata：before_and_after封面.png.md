@@ -1,6 +1,6 @@
 # 文件:Automata：before_and_after封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a0\ns6%3AAutomata%EF%BC%9Abefore_and_after%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a0\ns6%3AAutomata%EF%BC%9Abefore_and_after%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 マスカルポーネ | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Automata：before and after](./Automata：before_and_after.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
-
-
-
+- [Automata：before and after](./Automata：before_and_after.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
 
 
 ---

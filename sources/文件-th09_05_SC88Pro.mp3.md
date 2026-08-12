@@ -1,12 +1,8 @@
 # 文件:th09_05_SC88Pro.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6c\ns6%3Ath09_05_SC88Pro%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6c\ns6%3Ath09_05_SC88Pro%2Emp3.html -->
 
 东方花映塚 | 活泼纯情小姑娘的冒险
-
-
-
-
 
 
 ---

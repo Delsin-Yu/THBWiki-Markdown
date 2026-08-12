@@ -1,14 +1,11 @@
 # 文件:Genocide_Kittenbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f5\ns6%3AGenocide_Kittenbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f5\ns6%3AGenocide_Kittenbanner%2Ejpg.html -->
 
 GenocideKitten | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

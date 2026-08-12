@@ -1,6 +1,6 @@
 # 文件:ROCKIN'ON_TOUHOU_VOL.1封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0b\ns6%3AROCKIN%27ON_TOUHOU_VOL%2E1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0b\ns6%3AROCKIN%27ON_TOUHOU_VOL%2E1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 IOSYS | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ IOSYS | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [ROCKIN'ON TOUHOU VOL.1](./ROCKIN'ON_TOUHOU_VOL.1.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
-
-
-
+- [ROCKIN'ON TOUHOU VOL.1](./ROCKIN'ON_TOUHOU_VOL.1.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
 
 ---

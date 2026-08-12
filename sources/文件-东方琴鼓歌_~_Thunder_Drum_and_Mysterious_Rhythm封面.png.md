@@ -1,6 +1,6 @@
 # 文件:东方琴鼓歌_~_Thunder_Drum_and_Mysterious_Rhythm封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9e\ns6%3A%E4%B8%9C%E6%96%B9%E7%90%B4%E9%BC%93%E6%AD%8C_%7E_Thunder_Drum_and_Mysterious_Rhythm%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9e\ns6%3A%E4%B8%9C%E6%96%B9%E7%90%B4%E9%BC%93%E6%AD%8C_%7E_Thunder_Drum_and_Mysterious_Rhythm%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 吃药图书 | 封面图片 | 软件封面
 
@@ -11,9 +11,6 @@
   
 
 - [东方琴鼓歌 ~ Thunder Drum and Mysterious Rhythm](./东方琴鼓歌_~_Thunder_Drum_and_Mysterious_Rhythm.md)
-
-
-
 
 
 ---

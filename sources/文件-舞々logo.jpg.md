@@ -1,14 +1,11 @@
 # 文件:舞々logo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ef\ns6%3A%E8%88%9E%E3%80%85logo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ef\ns6%3A%E8%88%9E%E3%80%85logo%2Ejpg.html -->
 
 社团LOGO | 舞々
 
 
 ## 摘要
-
-
-
 
 ---
 

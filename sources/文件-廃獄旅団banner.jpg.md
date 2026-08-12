@@ -1,12 +1,8 @@
 # 文件:廃獄旅団banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\92\ns6%3A%E5%BB%83%E7%8D%84%E6%97%85%E5%9B%A3banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\92\ns6%3A%E5%BB%83%E7%8D%84%E6%97%85%E5%9B%A3banner%2Ejpg.html -->
 
 廃獄旅団 | 社团LOGO
-
-
-
-
 
 
 ---

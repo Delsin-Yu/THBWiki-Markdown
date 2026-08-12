@@ -1,6 +1,6 @@
 # 文件:翔んで豪徳寺記念CD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e8\ns6%3A%E7%BF%94%E3%82%93%E3%81%A7%E8%B1%AA%E5%BE%B3%E5%AF%BA%E8%A8%98%E5%BF%B5CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e8\ns6%3A%E7%BF%94%E3%82%93%E3%81%A7%E8%B1%AA%E5%BE%B3%E5%AF%BA%E8%A8%98%E5%BF%B5CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ちょこふぁん | はにーぽけっと | 专辑封面 | 封面图片
 
@@ -10,16 +10,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [翔んで豪徳寺記念CD](./翔んで豪徳寺記念CD.md)  
-该封面包含的角色：- [豪德寺三花](./豪德寺三花.md)
+- [翔んで豪徳寺記念CD](./翔んで豪徳寺記念CD.md)该封面包含的角色：
+- [豪德寺三花](./豪德寺三花.md)
 
   
 只能用这种扫图了
   
-
-
-
-
 
 ---
 

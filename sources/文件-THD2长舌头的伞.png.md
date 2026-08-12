@@ -1,16 +1,12 @@
 # 文件:THD2长舌头的伞.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\14\ns6%3ATHD2%E9%95%BF%E8%88%8C%E5%A4%B4%E7%9A%84%E4%BC%9E%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\14\ns6%3ATHD2%E9%95%BF%E8%88%8C%E5%A4%B4%E7%9A%84%E4%BC%9E%2Epng.html -->
 
 AvalonStudioOfficial | THD2
 
   
 THD2长舌头的伞
   
-
-
-
-
 
 ---
 

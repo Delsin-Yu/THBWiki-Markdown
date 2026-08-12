@@ -1,6 +1,6 @@
 # 文件:Nexus_8封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\94\ns6%3ANexus_8%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\94\ns6%3ANexus_8%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 QUINTET | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ QUINTET | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Nexus 8](./Nexus_8.md)  
-该封面包含的角色：- [火焰猫燐](./火焰猫燐.md)
+- [Nexus 8](./Nexus_8.md)该封面包含的角色：
+- [火焰猫燐](./火焰猫燐.md)
 
   
-源地址：[[1]](http://9tet.com/img/qmcd-0008.png)
-  
-
-
-
-
+源地址：[\[1\]](http://9tet.com/img/qmcd-0008.png)  
 
 ---
 

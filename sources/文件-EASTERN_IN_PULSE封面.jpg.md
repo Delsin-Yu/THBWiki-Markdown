@@ -1,6 +1,6 @@
 # 文件:EASTERN_IN_PULSE封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\17\ns6%3AEASTERN_IN_PULSE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\17\ns6%3AEASTERN_IN_PULSE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Re.baro' | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ Re.baro' | 专辑封面 | 封面图片
   
 
 - [EASTERN IN PULSE](./EASTERN_IN_PULSE.md)
-
-
-
 
 
 ---

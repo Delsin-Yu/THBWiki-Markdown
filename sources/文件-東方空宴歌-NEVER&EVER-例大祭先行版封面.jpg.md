@@ -1,6 +1,6 @@
 # 文件:東方空宴歌-NEVER&EVER-例大祭先行版封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\06\ns6%3A%E6%9D%B1%E6%96%B9%E7%A9%BA%E5%AE%B4%E6%AD%8C-NEVER%26EVER-%E4%BE%8B%E5%A4%A7%E7%A5%AD%E5%85%88%E8%A1%8C%E7%89%88%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\06\ns6%3A%E6%9D%B1%E6%96%B9%E7%A9%BA%E5%AE%B4%E6%AD%8C-NEVER%26EVER-%E4%BE%8B%E5%A4%A7%E7%A5%AD%E5%85%88%E8%A1%8C%E7%89%88%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 領域ZERO
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方空宴歌-NEVER&amp;EVER-例大祭先行版](./東方空宴歌-NEVER&EVER-例大祭先行版.md)  
-该封面包含的角色：- [丰聪耳神子](./丰聪耳神子.md)
-
-
-
+- [東方空宴歌-NEVER&EVER-例大祭先行版](./東方空宴歌-NEVER&EVER-例大祭先行版.md)该封面包含的角色：
+- [丰聪耳神子](./丰聪耳神子.md)
 
 
 ---

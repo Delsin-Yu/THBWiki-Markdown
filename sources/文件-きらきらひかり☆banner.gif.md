@@ -1,14 +1,11 @@
 # 文件:きらきらひかり☆banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bb\ns6%3A%E3%81%8D%E3%82%89%E3%81%8D%E3%82%89%E3%81%B2%E3%81%8B%E3%82%8A%E2%98%86banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bb\ns6%3A%E3%81%8D%E3%82%89%E3%81%8D%E3%82%89%E3%81%B2%E3%81%8B%E3%82%8A%E2%98%86banner%2Egif.html -->
 
 きらきらひかり☆ | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:明治xx年代の想像力封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0c\ns6%3A%E6%98%8E%E6%B2%BBxx%E5%B9%B4%E4%BB%A3%E3%81%AE%E6%83%B3%E5%83%8F%E5%8A%9B%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0c\ns6%3A%E6%98%8E%E6%B2%BBxx%E5%B9%B4%E4%BB%A3%E3%81%AE%E6%83%B3%E5%83%8F%E5%8A%9B%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 芦山文學
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [明治xx年代の想像力](./明治xx年代の想像力.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [明治xx年代の想像力](./明治xx年代の想像力.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

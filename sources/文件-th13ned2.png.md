@@ -1,12 +1,8 @@
 # 文件:th13ned2.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4c\ns6%3Ath13ned2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4c\ns6%3Ath13ned2%2Epng.html -->
 
 東方邪星章製作チーム
-
-
-
-
 
 
 ---

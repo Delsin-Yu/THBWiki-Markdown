@@ -1,6 +1,6 @@
 # 文件:Reel封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\59\ns6%3AReel%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\59\ns6%3AReel%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 BubbleRecords | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ BubbleRecords | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Reel](./Reel.md)  
-该封面包含的角色：- [多多良小伞](./多多良小伞.md)
-
-
-
+- [Reel](./Reel.md)该封面包含的角色：
+- [多多良小伞](./多多良小伞.md)
 
 
 ---

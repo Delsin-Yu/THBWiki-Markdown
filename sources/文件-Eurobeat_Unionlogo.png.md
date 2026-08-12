@@ -1,16 +1,13 @@
 # 文件:Eurobeat_Unionlogo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e9\ns6%3AEurobeat_Unionlogo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e9\ns6%3AEurobeat_Unionlogo%2Epng.html -->
 
 Eurobeat_Union | 社团LOGO
 
 
-## 摘要  
-[[1]](https://eurobeatunion.com/wordpress/wp-content/uploads/common/logo-eu.png)  
-
-
-
-
+## 摘要
+  
+[\[1\]](https://eurobeatunion.com/wordpress/wp-content/uploads/common/logo-eu.png)  
 
 ---
 

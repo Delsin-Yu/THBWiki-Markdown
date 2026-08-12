@@ -1,12 +1,8 @@
 # 文件:朝铃夕解rEadiobanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\98\ns6%3A%E6%9C%9D%E9%93%83%E5%A4%95%E8%A7%A3rEadiobanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\98\ns6%3A%E6%9C%9D%E9%93%83%E5%A4%95%E8%A7%A3rEadiobanner%2Epng.html -->
 
 朝铃夕解rEadio | 社团LOGO
-
-
-
-
 
 
 ---

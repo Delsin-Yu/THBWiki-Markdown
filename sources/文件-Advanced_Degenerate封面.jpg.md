@@ -1,6 +1,6 @@
 # 文件:Advanced_Degenerate封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\65\ns6%3AAdvanced_Degenerate%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\65\ns6%3AAdvanced_Degenerate%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Freaks_Ground | 专辑封面 | 封面图片
 
@@ -15,10 +15,6 @@ Freaks_Ground | 专辑封面 | 封面图片
   
 cover included in the rip I got
   
-
-
-
-
 
 ---
 

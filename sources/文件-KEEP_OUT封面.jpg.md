@@ -1,6 +1,6 @@
 # 文件:KEEP_OUT封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\63\ns6%3AKEEP_OUT%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\63\ns6%3AKEEP_OUT%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 A.M.A | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@ A.M.A | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [KEEP OUT](./KEEP_OUT.md)  
-该封面包含的角色：- [古明地恋](./古明地恋.md)
+- [KEEP OUT](./KEEP_OUT.md)该封面包含的角色：
+- [古明地恋](./古明地恋.md)
 
   
-源地址：[direct image link (original size)](https://pbs.twimg.com/media/C_D371lUwAA7fv6?format=jpg&amp;name=orig), [source tweet](https://twitter.com/m1rimo/status/860460312448737280)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://pbs.twimg.com/media/C_D371lUwAA7fv6?format=jpg&name=orig), [source tweet](https://twitter.com/m1rimo/status/860460312448737280)  
 
 ---
 

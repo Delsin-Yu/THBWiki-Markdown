@@ -1,6 +1,6 @@
 # 文件:東方不敗でV作戦_～冬には本気出す_e.p.～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1d\ns6%3A%E6%9D%B1%E6%96%B9%E4%B8%8D%E6%95%97%E3%81%A7V%E4%BD%9C%E6%88%A6_%EF%BD%9E%E5%86%AC%E3%81%AB%E3%81%AF%E6%9C%AC%E6%B0%97%E5%87%BA%E3%81%99_e%2Ep%2E%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1d\ns6%3A%E6%9D%B1%E6%96%B9%E4%B8%8D%E6%95%97%E3%81%A7V%E4%BD%9C%E6%88%A6_%EF%BD%9E%E5%86%AC%E3%81%AB%E3%81%AF%E6%9C%AC%E6%B0%97%E5%87%BA%E3%81%99_e%2Ep%2E%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 スパイラル小町 | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方不敗でV作戦 ～冬には本気出す e.p.～](./東方不敗でV作戦_～冬には本気出す_e.p.～.md)  
-该封面包含的角色：- [八坂神奈子](./八坂神奈子.md)
-
-
-
+- [東方不敗でV作戦 ～冬には本気出す e.p.～](./東方不敗でV作戦_～冬には本気出す_e.p.～.md)该封面包含的角色：
+- [八坂神奈子](./八坂神奈子.md)
 
 
 ---

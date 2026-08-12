@@ -1,12 +1,8 @@
 # 文件:Sigyaad_Teambanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4b\ns6%3ASigyaad_Teambanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4b\ns6%3ASigyaad_Teambanner%2Ejpg.html -->
 
 Sigyaad_Team | 社团LOGO
-
-
-
-
 
 
 ---

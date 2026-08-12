@@ -1,6 +1,6 @@
 # 文件:篝火-Kagaribi-封面.jpeg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\48\ns6%3A%E7%AF%9D%E7%81%AB-Kagaribi-%E5%B0%81%E9%9D%A2%2Ejpeg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\48\ns6%3A%E7%AF%9D%E7%81%AB-Kagaribi-%E5%B0%81%E9%9D%A2%2Ejpeg.html -->
 
 专辑封面 | 封面图片 | 舞风
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [篝火-Kagaribi-](./篝火-Kagaribi-.md)  
-该封面包含的角色：- [伊吹萃香](./伊吹萃香.md)
-
-
-
+- [篝火-Kagaribi-](./篝火-Kagaribi-.md)该封面包含的角色：
+- [伊吹萃香](./伊吹萃香.md)
 
 
 ---

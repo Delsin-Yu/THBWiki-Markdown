@@ -1,12 +1,8 @@
 # 文件:原色空間banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ae\ns6%3A%E5%8E%9F%E8%89%B2%E7%A9%BA%E9%96%93banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ae\ns6%3A%E5%8E%9F%E8%89%B2%E7%A9%BA%E9%96%93banner%2Epng.html -->
 
 原色空間 | 社团LOGO
-
-
-
-
 
 
 ---

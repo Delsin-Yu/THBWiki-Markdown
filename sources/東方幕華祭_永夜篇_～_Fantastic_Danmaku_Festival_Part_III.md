@@ -1,21 +1,17 @@
 # 東方幕華祭_永夜篇_～_Fantastic_Danmaku_Festival_Part_III
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\3\3a\ns0%3A%E6%9D%B1%E6%96%B9%E5%B9%95%E8%8F%AF%E7%A5%AD_%E6%B0%B8%E5%A4%9C%E7%AF%87_%EF%BD%9E_Fantastic_Danmaku_Festival_Part_III.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\3\3a\ns0%3A%E6%9D%B1%E6%96%B9%E5%B9%95%E8%8F%AF%E7%A5%AD_%E6%B0%B8%E5%A4%9C%E7%AF%87_%EF%BD%9E_Fantastic_Danmaku_Festival_Part_III.html -->
 
 2024年6月22日 由 东方幕华祭制作组  发布的STG同人游戏，可在 Windows 系统上运行，游戏人数为 单人模式，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人软件 (未找到链接)** 的词条
-
+**[二次创作同人软件](./二次创作.md#同人软件)**的词条
 ## 目录
 
 - [1 软件信息](#软件信息)
 - [2 Staff](#Staff)
 - [3 内容页面](#内容页面)
 - [4 词条导航](#词条导航)
-
-
-
 
 
 ## 软件信息
@@ -25,19 +21,7 @@
 </tr><tr><td class="label">首发日期</td><td>未知</td></tr><tr><td class="label">类型</td><td>游戏</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">游戏人数</td><td>单人模式</td></tr><tr><td class="label">游戏类型</td><td>STG</td></tr><tr><td class="label">运行平台</td><td>Windows</td></tr><tr><td class="label">语言</td><td>简体中文，日文，英文</td></tr></tbody></table>
 
 東方幕華祭 永夜篇 ～ Fantastic Danmaku Festival Part III（同人游戏，东方幕华祭制作组） - 2024年6月24日 由 东方幕华祭制作组  发布的STG同人游戏，可在 Windows 系统上运行，游戏人数为 单人模式，分级为 一般向
-  
-  
-
-  
-
-
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://store.steampowered.com/app/2877170">Steam</a></td></tr></tbody></table>
-
-
-  
-  
-
-  
 
 
 <table>
@@ -46,22 +30,16 @@
 </tbody></table>
 
 
-
 ## Staff
   
- **原作** 
-  
-
+**原作**  
 : 上海爱丽丝幻乐团
-
   
- **制作** 
-  
-
+**制作**  
 : 东方幕华祭制作组
 
-
 ## 内容页面
+
 - 游戏设定与剧情 (未找到链接)
 - 机体特性与系统说明 (未找到链接)
 - 角色 (未找到链接)
@@ -69,19 +47,8 @@
 - 符卡 (未找到链接)
 - 其他相关资料 (未找到链接)
 
-
-## 词条导航
   
-東方幕華祭 永夜篇 ～ Fantastic Danmaku Festival Part III/导航 (未找到链接)
-  
-  
-  
-
-  
-
-
-
-
+東方幕華祭 永夜篇 ～ Fantastic Danmaku Festival Part III/导航 (未找到链接)  
 
 ---
 

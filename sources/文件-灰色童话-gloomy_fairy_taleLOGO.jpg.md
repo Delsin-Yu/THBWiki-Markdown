@@ -1,16 +1,12 @@
 # 文件:灰色童话-gloomy_fairy_taleLOGO.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\43\ns6%3A%E7%81%B0%E8%89%B2%E7%AB%A5%E8%AF%9D-gloomy_fairy_taleLOGO%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\43\ns6%3A%E7%81%B0%E8%89%B2%E7%AB%A5%E8%AF%9D-gloomy_fairy_taleLOGO%2Ejpg.html -->
 
 灰色童话-gloomy_fairy_tale | 社团LOGO
 
   
 gloomy fairy tale
   
-
-
-
-
 
 ---
 

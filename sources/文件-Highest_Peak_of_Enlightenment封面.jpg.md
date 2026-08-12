@@ -1,6 +1,6 @@
 # 文件:Highest_Peak_of_Enlightenment封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a1\ns6%3AHighest_Peak_of_Enlightenment%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a1\ns6%3AHighest_Peak_of_Enlightenment%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Maiden's_Capriccio | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Maiden's_Capriccio | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Highest Peak of Enlightenment](./Highest_Peak_of_Enlightenment.md)  
-该封面包含的角色：- [圣白莲](./圣白莲.md)
+- [Highest Peak of Enlightenment](./Highest_Peak_of_Enlightenment.md)该封面包含的角色：
+- [圣白莲](./圣白莲.md)
 
   
-源地址：[[1]](https://kuroblood.bandcamp.com/album/highest-peak-of-enlightenment)
-  
-
-
-
-
+源地址：[\[1\]](https://kuroblood.bandcamp.com/album/highest-peak-of-enlightenment)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:あべこbeらんぐうぇっじ封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\61\ns6%3A%E3%81%82%E3%81%B9%E3%81%93be%E3%82%89%E3%82%93%E3%81%90%E3%81%86%E3%81%87%E3%81%A3%E3%81%98%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\61\ns6%3A%E3%81%82%E3%81%B9%E3%81%93be%E3%82%89%E3%82%93%E3%81%90%E3%81%86%E3%81%87%E3%81%A3%E3%81%98%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 しめりけ | 同人志封面 | 封面图片
 
@@ -10,16 +10,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [あべこbeらんぐうぇっじ](./あべこbeらんぐうぇっじ.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
+- [あべこbeらんぐうぇっじ](./あべこbeらんぐうぇっじ.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
   
-[Pixiv artwork ID: 88411557](https://www.pixiv.net/artworks/88411557)
-  
-
-
-
-
+[Pixiv artwork ID: 88411557](https://www.pixiv.net/artworks/88411557)  
 
 ---
 

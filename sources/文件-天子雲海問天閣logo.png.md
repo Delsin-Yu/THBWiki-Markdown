@@ -1,16 +1,12 @@
 # 文件:天子雲海問天閣logo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b7\ns6%3A%E5%A4%A9%E5%AD%90%E9%9B%B2%E6%B5%B7%E5%95%8F%E5%A4%A9%E9%96%A3logo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b7\ns6%3A%E5%A4%A9%E5%AD%90%E9%9B%B2%E6%B5%B7%E5%95%8F%E5%A4%A9%E9%96%A3logo%2Epng.html -->
 
 社团LOGO | 赤心武备工作室
 
   
 社团logo
   
-
-
-
-
 
 ---
 

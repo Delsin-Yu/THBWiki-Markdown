@@ -1,6 +1,6 @@
 # 文件:幻想异乡曲_Butterfly~Rin封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\92\ns6%3A%E5%B9%BB%E6%83%B3%E5%BC%82%E4%B9%A1%E6%9B%B2_Butterfly%7ERin%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\92\ns6%3A%E5%B9%BB%E6%83%B3%E5%BC%82%E4%B9%A1%E6%9B%B2_Butterfly%7ERin%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Red.Soul | 封面图片 | 软件封面
 
@@ -8,11 +8,8 @@ Red.Soul | 封面图片 | 软件封面
 使用了本文件作封面图片的作品：
   
 
-- [幻想异乡曲 Butterfly~Rin](./幻想异乡曲_Butterfly~Rin.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [幻想异乡曲 Butterfly~Rin](./幻想异乡曲_Butterfly~Rin.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

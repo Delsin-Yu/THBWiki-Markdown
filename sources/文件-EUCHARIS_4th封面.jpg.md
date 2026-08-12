@@ -1,6 +1,6 @@
 # 文件:EUCHARIS_4th封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1c\ns6%3AEUCHARIS_4th%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1c\ns6%3AEUCHARIS_4th%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 EnHANCE_HEART | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@ EnHANCE_HEART | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [EUCHARIS 4th](./EUCHARIS_4th.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
-
-
-
+- [EUCHARIS 4th](./EUCHARIS_4th.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
 
 
 ---

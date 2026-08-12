@@ -1,16 +1,12 @@
 # 模板:TRN
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\7\7f\ns10%3ATRN.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\7\7f\ns10%3ATRN.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:死神の距離_Distance_of_Death封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a7\ns6%3A%E6%AD%BB%E7%A5%9E%E3%81%AE%E8%B7%9D%E9%9B%A2_Distance_of_Death%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a7\ns6%3A%E6%AD%BB%E7%A5%9E%E3%81%AE%E8%B7%9D%E9%9B%A2_Distance_of_Death%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 群雨アンブレイラ
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [死神の距離 Distance of Death](./死神の距離_Distance_of_Death.md)  
-该封面包含的角色：- [小野塚小町](./小野塚小町.md)
+- [死神の距離 Distance of Death](./死神の距離_Distance_of_Death.md)该封面包含的角色：
+- [小野塚小町](./小野塚小町.md)
 
   
-源地址：[[1]](https://cdn.melonbooks.co.jp/user_data/packages/resize_image.php?image=213001019861.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://cdn.melonbooks.co.jp/user_data/packages/resize_image.php?image=213001019861.jpg)  
 
 ---
 

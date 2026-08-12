@@ -1,12 +1,8 @@
 # 文件:いちごさいずbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f2\ns6%3A%E3%81%84%E3%81%A1%E3%81%94%E3%81%95%E3%81%84%E3%81%9Abanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f2\ns6%3A%E3%81%84%E3%81%A1%E3%81%94%E3%81%95%E3%81%84%E3%81%9Abanner%2Ejpg.html -->
 
 いちごさいず | 社团LOGO
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:T.H.0083_-ANCIENT_HELL_MEMORY-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bd\ns6%3AT%2EH%2E0083_-ANCIENT_HELL_MEMORY-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bd\ns6%3AT%2EH%2E0083_-ANCIENT_HELL_MEMORY-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 武器櫃
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [T.H.0083 -ANCIENT HELL MEMORY-](./T.H.0083_-ANCIENT_HELL_MEMORY-.md)  
-该封面包含的角色：- [灵乌路空](./灵乌路空.md)
+- [T.H.0083 -ANCIENT HELL MEMORY-](./T.H.0083_-ANCIENT_HELL_MEMORY-.md)该封面包含的角色：
+- [灵乌路空](./灵乌路空.md)
 
   
-源地址：[direct image link](https://blog-imgs-133-origin.fc2.com/r/a/p/raptor7/hyoshi-c97fc2.jpg), [source page](http://raptor7.blog.fc2.com/blog-entry-47.html)
-  
-
-
-
-
+源地址：[direct image link](https://blog-imgs-133-origin.fc2.com/r/a/p/raptor7/hyoshi-c97fc2.jpg), [source page](http://raptor7.blog.fc2.com/blog-entry-47.html)  
 
 ---
 

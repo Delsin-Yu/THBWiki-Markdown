@@ -1,6 +1,6 @@
 # 文件:Understanders_vol.3封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9c\ns6%3AUnderstanders_vol%2E3%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9c\ns6%3AUnderstanders_vol%2E3%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Wakaru_Records | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Wakaru_Records | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Understanders vol.3](./Understanders_vol.3.md)  
-该封面包含的角色：- [村纱水蜜](./村纱水蜜.md)
-
-
-
+- [Understanders vol.3](./Understanders_vol.3.md)该封面包含的角色：
+- [村纱水蜜](./村纱水蜜.md)
 
 
 ---

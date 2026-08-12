@@ -1,6 +1,6 @@
 # 文件:REUNION（味玉定食）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\67\ns6%3AREUNION%EF%BC%88%E5%91%B3%E7%8E%89%E5%AE%9A%E9%A3%9F%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\67\ns6%3AREUNION%EF%BC%88%E5%91%B3%E7%8E%89%E5%AE%9A%E9%A3%9F%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 味玉定食 | 封面图片
 
@@ -8,16 +8,17 @@
 使用了本文件作封面图片的作品：
   
 
-- [REUNION（味玉定食）](./REUNION（味玉定食）.md)  
-该封面包含的角色：- [娜兹玲](./娜兹玲.md)- [云居一轮](./云居一轮.md)- [村纱水蜜](./村纱水蜜.md)- [寅丸星](./寅丸星.md)- [圣白莲](./圣白莲.md)- [封兽鵺](./封兽鵺.md)- [云山](./云山.md)
+- [REUNION（味玉定食）](./REUNION（味玉定食）.md)该封面包含的角色：
+- [娜兹玲](./娜兹玲.md)
+- [云居一轮](./云居一轮.md)
+- [村纱水蜜](./村纱水蜜.md)
+- [寅丸星](./寅丸星.md)
+- [圣白莲](./圣白莲.md)
+- [封兽鵺](./封兽鵺.md)
+- [云山](./云山.md)
 
   
-源地址：[[1]](http://ajitamateisyoku.web.fc2.com/img/reunionhp.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://ajitamateisyoku.web.fc2.com/img/reunionhp.jpg)  
 
 ---
 

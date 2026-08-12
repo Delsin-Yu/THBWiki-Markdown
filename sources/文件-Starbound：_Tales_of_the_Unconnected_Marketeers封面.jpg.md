@@ -1,6 +1,6 @@
 # 文件:Starbound：_Tales_of_the_Unconnected_Marketeers封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8b\ns6%3AStarbound%EF%BC%9A_Tales_of_the_Unconnected_Marketeers%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8b\ns6%3AStarbound%EF%BC%9A_Tales_of_the_Unconnected_Marketeers%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Alter_Synth | 专辑封面 | 封面图片
 
@@ -10,16 +10,12 @@ Alter_Synth | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Starbound： Tales of the Unconnected Marketeers](./Starbound：_Tales_of_the_Unconnected_Marketeers.md)  
-该封面包含的角色：- 原创角色 (未找到链接)- [饭纲丸龙](./饭纲丸龙.md)
+- [Starbound： Tales of the Unconnected Marketeers](./Starbound：_Tales_of_the_Unconnected_Marketeers.md)该封面包含的角色：
+- 原创角色 (未找到链接)
+- [饭纲丸龙](./饭纲丸龙.md)
 
   
-源地址：[direct image link (10 size)](https://f4.bcbits.com/img/a1178710743_10.jpg), [from circle bandcamp](https://altersynth.bandcamp.com/album/starbound-tales-of-the-unconnected-marketeers)
-  
-
-
-
-
+源地址：[direct image link (10 size)](https://f4.bcbits.com/img/a1178710743_10.jpg), [from circle bandcamp](https://altersynth.bandcamp.com/album/starbound-tales-of-the-unconnected-marketeers)  
 
 ---
 

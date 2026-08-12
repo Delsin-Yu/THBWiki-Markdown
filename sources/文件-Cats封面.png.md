@@ -1,6 +1,6 @@
 # 文件:Cats封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d3\ns6%3ACats%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d3\ns6%3ACats%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 同人志封面 | 封面图片 | 銀色鈴蘭
 
@@ -10,19 +10,14 @@
 使用了本文件作封面图片的作品：
   
 
-- [Cats](./Cats.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [Cats](./Cats.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
   
-源地址：[direct image link (original size; cropped)](https://pbs.twimg.com/media/DpoU6XAVsAAkAA6?format=jpg&amp;name=orig), [source tweet](https://twitter.com/majamari17/status/1052178542883000328)
-  
+源地址：[direct image link (original size; cropped)](https://pbs.twimg.com/media/DpoU6XAVsAAkAA6?format=jpg&name=orig), [source tweet](https://twitter.com/majamari17/status/1052178542883000328)  
   
 (note: the cover on Melonbooks doesn't work as it doesn't have the title and the two decorated corners)
   
-
-
-
-
 
 ---
 

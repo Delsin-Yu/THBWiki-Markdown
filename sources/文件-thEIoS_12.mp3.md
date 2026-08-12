@@ -1,6 +1,6 @@
 # 文件:thEIoS_12.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2e\ns6%3AthEIoS_12%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2e\ns6%3AthEIoS_12%2Emp3.html -->
 
 东方祈华梦制作组 | 樱花飞舞的浅间神社
 
@@ -9,10 +9,6 @@
   
 祈华梦5面道中曲
   
-
-
-
-
 
 ---
 

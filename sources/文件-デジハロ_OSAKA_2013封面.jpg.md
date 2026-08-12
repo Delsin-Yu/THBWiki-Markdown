@@ -1,6 +1,6 @@
 # 文件:デジハロ_OSAKA_2013封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\46\ns6%3A%E3%83%87%E3%82%B8%E3%83%8F%E3%83%AD_OSAKA_2013%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\46\ns6%3A%E3%83%87%E3%82%B8%E3%83%8F%E3%83%AD_OSAKA_2013%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 DiGiTAL_WiNG | Halozy | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ DiGiTAL_WiNG | Halozy | 专辑封面 | 封面图片
   
 
 - [デジハロ OSAKA 2013](./デジハロ_OSAKA_2013.md)
-
-
-
 
 
 ---

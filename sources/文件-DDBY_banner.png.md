@@ -1,12 +1,8 @@
 # 文件:DDBY_banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5e\ns6%3ADDBY_banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5e\ns6%3ADDBY_banner%2Epng.html -->
 
 DDBY | 社团LOGO
-
-
-
-
 
 
 ---

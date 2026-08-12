@@ -1,6 +1,6 @@
 # 文件:HOME（NOSBOAT）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\be\ns6%3AHOME%EF%BC%88NOSBOAT%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\be\ns6%3AHOME%EF%BC%88NOSBOAT%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 NOSBOAT | 同人志封面 | 封面图片
 
@@ -10,16 +10,21 @@ NOSBOAT | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [HOME（NOSBOAT）](./HOME（NOSBOAT）.md)  
-该封面包含的角色：- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [橙](./橙.md)- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [八云蓝](./八云蓝.md)- [八云紫](./八云紫.md)- [因幡帝](./因幡帝.md)- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)- [八意永琳](./八意永琳.md)- [蓬莱山辉夜](./蓬莱山辉夜.md)- [雾雨魔理沙](./雾雨魔理沙.md)
+- [HOME（NOSBOAT）](./HOME（NOSBOAT）.md)该封面包含的角色：
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [橙](./橙.md)
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [八云蓝](./八云蓝.md)
+- [八云紫](./八云紫.md)
+- [因幡帝](./因幡帝.md)
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
+- [八意永琳](./八意永琳.md)
+- [蓬莱山辉夜](./蓬莱山辉夜.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-源地址：[direct image link](https://web.archive.org/web/20131228232354im_/http://nosboat.miluda.com/2010homecover.jpg), [source page](https://web.archive.org/web/20100902060847/http://nosboat.miluda.com/)
-  
-
-
-
-
+源地址：[direct image link](https://web.archive.org/web/20131228232354im_/http://nosboat.miluda.com/2010homecover.jpg), [source page](https://web.archive.org/web/20100902060847/http://nosboat.miluda.com/)  
 
 ---
 

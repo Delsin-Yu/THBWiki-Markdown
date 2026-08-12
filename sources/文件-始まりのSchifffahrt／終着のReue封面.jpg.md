@@ -1,6 +1,6 @@
 # 文件:始まりのSchifffahrt／終着のReue封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6b\ns6%3A%E5%A7%8B%E3%81%BE%E3%82%8A%E3%81%AESchifffahrt%EF%BC%8F%E7%B5%82%E7%9D%80%E3%81%AEReue%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6b\ns6%3A%E5%A7%8B%E3%81%BE%E3%82%8A%E3%81%AESchifffahrt%EF%BC%8F%E7%B5%82%E7%9D%80%E3%81%AEReue%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 セブンスヘブンMAXION | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [始まりのSchifffahrt／終着のReue](./始まりのSchifffahrt／終着のReue.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [始まりのSchifffahrt／終着のReue](./始まりのSchifffahrt／終着のReue.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

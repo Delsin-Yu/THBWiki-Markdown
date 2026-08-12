@@ -1,6 +1,6 @@
 # 文件:Crack_In_The_Sky封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d6\ns6%3ACrack_In_The_Sky%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d6\ns6%3ACrack_In_The_Sky%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 FLANKER | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ FLANKER | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Crack In The Sky](./Crack_In_The_Sky.md)  
-该封面包含的角色：- [比那名居天子](./比那名居天子.md)
+- [Crack In The Sky](./Crack_In_The_Sky.md)该封面包含的角色：
+- [比那名居天子](./比那名居天子.md)
 
   
-源地址:[http&#160;://flankerdoujin.web.fc2.com/t6/crack_in_the_sky. jpg](http://flankerdoujin.web.fc2.com/t6/crack_in_the_sky.jpg)
-  
-
-
-
-
+源地址:[http ://flankerdoujin.web.fc2.com/t6/crack_in_the_sky. jpg](http://flankerdoujin.web.fc2.com/t6/crack_in_the_sky.jpg)  
 
 ---
 

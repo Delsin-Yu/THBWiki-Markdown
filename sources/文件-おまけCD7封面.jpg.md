@@ -1,6 +1,6 @@
 # 文件:おまけCD7封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\42\ns6%3A%E3%81%8A%E3%81%BE%E3%81%91CD7%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\42\ns6%3A%E3%81%8A%E3%81%BE%E3%81%91CD7%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ちょこふぁん | 专辑封面 | 封面图片
 
@@ -10,11 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [おまけCD7](./おまけCD7.md)  
-该封面包含的角色：- [藤原妹红](./藤原妹红.md)- [火焰猫燐](./火焰猫燐.md)- [丰聪耳神子](./丰聪耳神子.md)- [依神女苑](./依神女苑.md)
-
-
-
+- [おまけCD7](./おまけCD7.md)该封面包含的角色：
+- [藤原妹红](./藤原妹红.md)
+- [火焰猫燐](./火焰猫燐.md)
+- [丰聪耳神子](./丰聪耳神子.md)
+- [依神女苑](./依神女苑.md)
 
 
 ---

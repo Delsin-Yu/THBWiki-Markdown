@@ -1,18 +1,13 @@
 # 文件:Lyrica's_Acoustic_Callow_Keynotebanner2.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\88\ns6%3ALyrica%27s_Acoustic_Callow_Keynotebanner2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\88\ns6%3ALyrica%27s_Acoustic_Callow_Keynotebanner2%2Ejpg.html -->
 
 Lyrica's_Acoustic_Callow_Keynote | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[direct image link](http://lack.iza-yoi.net/lack.jpg), [source page](http://lack.iza-yoi.net/info.html)
-  
-
-
-
-
+源地址：[direct image link](http://lack.iza-yoi.net/lack.jpg), [source page](http://lack.iza-yoi.net/info.html)  
 
 ---
 

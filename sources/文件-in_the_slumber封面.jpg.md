@@ -1,6 +1,6 @@
 # 文件:in_the_slumber封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\00\ns6%3Ain_the_slumber%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\00\ns6%3Ain_the_slumber%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 一言芳恩社 | 同人志封面 | 封面图片
 
@@ -8,10 +8,7 @@
 使用了本文件作封面图片的作品：
   
 
-- [in the slumber](./in_the_slumber.md)源地址：[[1]](https://pbs.twimg.com/media/DntX2fvUUAEthmk.jpg)
-
-
-
+- [in the slumber](./in_the_slumber.md)源地址：[\[1\]](https://pbs.twimg.com/media/DntX2fvUUAEthmk.jpg)
 
 
 ---

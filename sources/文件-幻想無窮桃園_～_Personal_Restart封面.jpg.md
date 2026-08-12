@@ -1,6 +1,6 @@
 # 文件:幻想無窮桃園_～_Personal_Restart封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\10\ns6%3A%E5%B9%BB%E6%83%B3%E7%84%A1%E7%AA%AE%E6%A1%83%E5%9C%92_%EF%BD%9E_Personal_Restart%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\10\ns6%3A%E5%B9%BB%E6%83%B3%E7%84%A1%E7%AA%AE%E6%A1%83%E5%9C%92_%EF%BD%9E_Personal_Restart%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 bivrache | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@ bivrache | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [幻想無窮桃園 ～ Personal Restart](./幻想無窮桃園_～_Personal_Restart.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [幻想無窮桃園 ～ Personal Restart](./幻想無窮桃園_～_Personal_Restart.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

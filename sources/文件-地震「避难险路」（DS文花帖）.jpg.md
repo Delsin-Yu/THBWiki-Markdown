@@ -1,12 +1,8 @@
 # 文件:地震「避难险路」（DS文花帖）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\91\ns6%3A%E5%9C%B0%E9%9C%87%E3%80%8C%E9%81%BF%E9%9A%BE%E9%99%A9%E8%B7%AF%E3%80%8D%EF%BC%88DS%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\91\ns6%3A%E5%9C%B0%E9%9C%87%E3%80%8C%E9%81%BF%E9%9A%BE%E9%99%A9%E8%B7%AF%E3%80%8D%EF%BC%88DS%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Ejpg.html -->
 
 东方文花帖DS | 敌机符卡 | 比那名居天子
-
-
-
-
 
 
 ---

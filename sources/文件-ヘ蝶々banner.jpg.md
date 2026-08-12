@@ -1,16 +1,11 @@
 # 文件:ヘ蝶々banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a5\ns6%3A%E3%83%98%E8%9D%B6%E3%80%85banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a5\ns6%3A%E3%83%98%E8%9D%B6%E3%80%85banner%2Ejpg.html -->
 
 ヘ蝶々 | 社团LOGO
 
   
-源地址：[[1]](http://www.f-butterfly.sakura.ne.jp/picture/banner/hecho_banner_th.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://www.f-butterfly.sakura.ne.jp/picture/banner/hecho_banner_th.jpg)  
 
 ---
 

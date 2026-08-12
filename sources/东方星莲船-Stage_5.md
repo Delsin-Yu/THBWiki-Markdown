@@ -1,99 +1,73 @@
 # 东方星莲船/Stage_5
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\42\ns0%3A%E4%B8%9C%E6%96%B9%E6%98%9F%E8%8E%B2%E8%88%B9%2FStage_5.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\42\ns0%3A%E4%B8%9C%E6%96%B9%E6%98%9F%E8%8E%B2%E8%88%B9%2FStage_5.html -->
 
 东方星莲船
 
 <center>
-
 <table>
 <tbody><tr>
-<td>&lt;
+<td><
 </td>
-<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./东方星莲船-Stage_4.md" title="东方星莲船/Stage 4">Stage 4</a>&#160;
+<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./东方星莲船-Stage_4.md" title="东方星莲船/Stage 4">Stage 4</a> 
 </td>
-<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="./东方星莲船.md" title="东方星莲船">符卡</a>&#160;
+<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;"> <a href="./东方星莲船.md" title="东方星莲船">符卡</a> 
 </td>
-<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left">&#160;<a href="./东方星莲船-Stage_6.md" title="东方星莲船/Stage 6">Stage 6</a>
+<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left"> <a href="./东方星莲船-Stage_6.md" title="东方星莲船/Stage 6">Stage 6</a>
 </td>
-<td>&gt;
+<td>>
 </td></tr></tbody></table>
 
   
 </center>
-- 本词条内容为官方游戏TH12 **东方星莲船** 的敌机符卡
+- 本词条内容为官方游戏TH12**东方星莲船**的敌机符卡
 
 
 ## 目录
 
 - [1 娜兹玲](#娜兹玲)
-
   - [1.1 宝塔「Greatest Treasure」](#宝塔「Greatest_Treasure」)
-
     - [1.1.1 符卡信息](#符卡信息)
 
 
 
 
-
-
 - [2 寅丸星](#寅丸星)
-
   - [2.1 宝塔「Radiant Treasure」](#宝塔「Radiant_Treasure」)
-
     - [2.1.1 符卡信息](#符卡信息_2)
 
 
-
   - [2.2 宝塔「Radiant Treasure Gun」](#宝塔「Radiant_Treasure_Gun」)
-
     - [2.2.1 符卡信息](#符卡信息_3)
 
 
-
   - [2.3 光符「Absolute Justice」](#光符「Absolute_Justice」)
-
     - [2.3.1 符卡信息](#符卡信息_4)
 
 
-
   - [2.4 光符「正义之威光」](#光符「正义之威光」)
-
     - [2.4.1 符卡信息](#符卡信息_5)
 
 
-
   - [2.5 法力「至宝之独钴杵」](#法力「至宝之独钴杵」)
-
     - [2.5.1 符卡信息](#符卡信息_6)
 
 
-
   - [2.6 法灯「无瑕佛法之独钴杵」](#法灯「无瑕佛法之独钴杵」)
-
     - [2.6.1 符卡信息](#符卡信息_7)
 
 
-
   - [2.7 光符「净化之魔」](#光符「净化之魔」)
-
     - [2.7.1 符卡信息](#符卡信息_8)
 
 
-
   - [2.8 「Complete Clarification」](#「Complete_Clarification」)
-
     - [2.8.1 符卡信息](#符卡信息_9)
 
 
 
 
-
-
 - [3 导航](#导航)
-
-
-
 
 
 ## 娜兹玲
@@ -111,10 +85,9 @@
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zhh1" width="50%">
-<p><a href="./宝塔「Greatest_Treasure」.md" class="mw-redirect" title="宝塔「Greatest Treasure」">宝塔「Greatest Treasure」</a>
+<p><a href="./Greatest_Treasure.md" class="mw-redirect" title="宝塔「Greatest Treasure」">宝塔「Greatest Treasure」</a>
 </p>
 </th></tr></tbody></table>
-
 
 
 #### 符卡信息
@@ -141,8 +114,6 @@
 </td></tr></tbody></table>
 
 
-
-
 ## 寅丸星
 
 ### 宝塔「Radiant Treasure」
@@ -158,10 +129,9 @@
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zhh1" width="50%">
-<p><a href="./宝塔「Radiant_Treasure」.md" class="mw-redirect" title="宝塔「Radiant Treasure」">宝塔「Radiant Treasure」</a>
+<p><a href="./Radiant_Treasure.md" class="mw-redirect" title="宝塔「Radiant Treasure」">宝塔「Radiant Treasure」</a>
 </p>
 </th></tr></tbody></table>
-
 
 
 #### 符卡信息
@@ -188,8 +158,6 @@
 </td></tr></tbody></table>
 
 
-
-
 ### 宝塔「Radiant Treasure Gun」
 
 <table>
@@ -203,10 +171,9 @@
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zhh1" width="50%">
-<p><a href="./宝塔「Radiant_Treasure_Gun」.md" class="mw-redirect" title="宝塔「Radiant Treasure Gun」">宝塔「Radiant Treasure Gun」</a>
+<p><a href="./Radiant_Treasure.md" class="mw-redirect" title="宝塔「Radiant Treasure Gun」">宝塔「Radiant Treasure Gun」</a>
 </p>
 </th></tr></tbody></table>
-
 
 
 #### 符卡信息
@@ -233,8 +200,6 @@
 </td></tr></tbody></table>
 
 
-
-
 ### 光符「Absolute Justice」
 
 <table>
@@ -248,10 +213,9 @@
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zhh1" width="50%">
-<p><a href="./光符「Absolute_Justice」.md" class="mw-redirect" title="光符「Absolute Justice」">光符「Absolute Justice」</a>
+<p><a href="./Absolute_Justice.md" class="mw-redirect" title="光符「Absolute Justice」">光符「Absolute Justice」</a>
 </p>
 </th></tr></tbody></table>
-
 
 
 #### 符卡信息
@@ -267,8 +231,6 @@
 </td></tr></tbody></table>
 
 
-
-
 ### 光符「正义之威光」
 
 <table>
@@ -282,10 +244,9 @@
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zhh1" width="50%">
-<p><a href="./光符「正义之威光」.md" class="mw-redirect" title="光符「正义之威光」">光符「正义之威光」</a>
+<p><a href="./Absolute_Justice.md" class="mw-redirect" title="光符「正义之威光」">光符「正义之威光」</a>
 </p>
 </th></tr></tbody></table>
-
 
 
 #### 符卡信息
@@ -301,8 +262,6 @@
 </td></tr></tbody></table>
 
 
-
-
 ### 法力「至宝之独钴杵」
 
 <table>
@@ -316,10 +275,9 @@
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zhh1" width="50%">
-<p><a href="./法力「至宝之独钴杵」.md" class="mw-redirect" title="法力「至宝之独钴杵」">法力「至宝之独钴杵」</a>
+<p><a href="./至宝之独钴杵.md" class="mw-redirect" title="法力「至宝之独钴杵」">法力「至宝之独钴杵」</a>
 </p>
 </th></tr></tbody></table>
-
 
 
 #### 符卡信息
@@ -335,8 +293,6 @@
 </td></tr></tbody></table>
 
 
-
-
 ### 法灯「无瑕佛法之独钴杵」
 
 <table>
@@ -350,10 +306,9 @@
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zhh1" width="50%">
-<p><a href="./法灯「无瑕佛法之独钴杵」.md" class="mw-redirect" title="法灯「无瑕佛法之独钴杵」">法灯「无瑕佛法之独钴杵」</a>
+<p><a href="./至宝之独钴杵.md" class="mw-redirect" title="法灯「无瑕佛法之独钴杵」">法灯「无瑕佛法之独钴杵」</a>
 </p>
 </th></tr></tbody></table>
-
 
 
 #### 符卡信息
@@ -369,8 +324,6 @@
 </td></tr></tbody></table>
 
 
-
-
 ### 光符「净化之魔」
 
 <table>
@@ -384,10 +337,9 @@
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zhh1" width="50%">
-<p><a href="./光符「净化之魔」.md" class="mw-redirect" title="光符「净化之魔」">光符「净化之魔」</a>
+<p><a href="./净化之魔.md" class="mw-redirect" title="光符「净化之魔」">光符「净化之魔」</a>
 </p>
 </th></tr></tbody></table>
-
 
 
 #### 符卡信息
@@ -414,8 +366,6 @@
 </td></tr></tbody></table>
 
 
-
-
 ### 「Complete Clarification」
 
 <table>
@@ -429,10 +379,9 @@
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zhh1" width="50%">
-<p><a href="./「Complete_Clarification」.md" class="mw-redirect" title="「Complete Clarification」">「Complete Clarification」</a>
+<p><a href="./净化之魔.md" class="mw-redirect" title="「Complete Clarification」">「Complete Clarification」</a>
 </p>
 </th></tr></tbody></table>
-
 
 
 #### 符卡信息
@@ -457,21 +406,6 @@
 <p>5面BOSS寅丸星Lunatic难度符卡。
 </p>
 </td></tr></tbody></table>
-
-
-
-
-## 导航
-  
-  
-
-<table><tbody><tr><td><table cellspacing="0" class="nowraplinks mw-collapsible mw-collapsed" style="width:100%;;;"><tbody><tr><th style=";" colspan="3" class="navbox-title"><div class="navbar"><div class="noprint plainlinksneverexpand" style="background-color:transparent; padding:0; font-weight:normal; font-size:80%; white-space:nowrap;"><a href="./模板-东方星莲船导航.md" title="模板:东方星莲船导航"><span style=";;border:none;" title="查看这个模板">查</span></a>&#160;<span style="font-size:80%;">•</span>&#160;<a href="/index.php?title=%E6%A8%A1%E6%9D%BF:%E4%B8%9C%E6%96%B9%E6%98%9F%E8%8E%B2%E8%88%B9%E5%AF%BC%E8%88%AA&amp;action=edit"><span style=";;border:none;" title="您可以编辑这个模板。请在储存变更之前先预览">编</span></a></div></div><span><a href="./东方星莲船.md" title="东方星莲船">东方星莲船</a></span></th></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">角色</td><td style=";;" class="navbox-list navbox-odd"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>自机</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a> &#8226; <a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a> &#8226; <a href="./东风谷早苗.md" title="东风谷早苗">东风谷早苗</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>BOSS</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./娜兹玲.md" title="娜兹玲">娜兹玲</a> &#8226; <a href="./多多良小伞.md" title="多多良小伞">多多良小伞</a> &#8226; <a href="./云山.md" title="云山">云山</a> &#8226; <a href="./云居一轮.md" title="云居一轮">云居一轮</a> &#8226; <a href="./村纱水蜜.md" title="村纱水蜜">村纱水蜜</a> &#8226; <a href="./寅丸星.md" title="寅丸星">寅丸星</a> &#8226; <a href="./圣白莲.md" title="圣白莲">圣白莲</a> &#8226; <a href="./封兽鵺.md" title="封兽鵺">封兽鵺</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>其他角色</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./命莲.md" title="命莲">命莲</a></div></td></tr></tbody></table><div></div></td><td class="navbox-image" style="" rowspan="11"><a href="./文件-星莲船载入界面.jpg.md" class="image"><img alt="星莲船载入界面.jpg" src="https://upload.thwiki.cc/thumb/f/f1/%E6%98%9F%E8%8E%B2%E8%88%B9%E8%BD%BD%E5%85%A5%E7%95%8C%E9%9D%A2.jpg/160px-%E6%98%9F%E8%8E%B2%E8%88%B9%E8%BD%BD%E5%85%A5%E7%95%8C%E9%9D%A2.jpg" decoding="async" loading="lazy" width="160" height="120" srcset="https://upload.thwiki.cc/thumb/f/f1/%E6%98%9F%E8%8E%B2%E8%88%B9%E8%BD%BD%E5%85%A5%E7%95%8C%E9%9D%A2.jpg/240px-%E6%98%9F%E8%8E%B2%E8%88%B9%E8%BD%BD%E5%85%A5%E7%95%8C%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/f/f1/%E6%98%9F%E8%8E%B2%E8%88%B9%E8%BD%BD%E5%85%A5%E7%95%8C%E9%9D%A2.jpg/320px-%E6%98%9F%E8%8E%B2%E8%88%B9%E8%BD%BD%E5%85%A5%E7%95%8C%E9%9D%A2.jpg 2x" data-file-width="640" data-file-height="480"></a></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">剧情</td><td style=";;" class="navbox-list navbox-even"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>剧情文本</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./游戏对话-东方星莲船-故事背景.md#故事背景" class="mw-redirect" title="游戏对话:东方星莲船/故事背景">故事背景</a> &#8226; <a href="/%E9%99%84%E5%B8%A6%E6%96%87%E6%A1%A3:%E4%B8%9C%E6%96%B9%E6%98%9F%E8%8E%B2%E8%88%B9/%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A%26ExStory#Extra_Story" title="附带文档:东方星莲船/角色设定&amp;ExStory">Ex 故事背景</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>游戏对话&amp;结局</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./游戏对话-东方星莲船-博丽灵梦A.md" title="游戏对话:东方星莲船/博丽灵梦A">博丽灵梦A</a> &#8226; <a href="./游戏对话-东方星莲船-雾雨魔理沙A.md" title="游戏对话:东方星莲船/雾雨魔理沙A">雾雨魔理沙A</a> &#8226; <a href="./游戏对话-东方星莲船-东风谷早苗A.md" title="游戏对话:东方星莲船/东风谷早苗A">东风谷早苗A</a><br>
-<a href="./游戏对话-东方星莲船-博丽灵梦B.md" title="游戏对话:东方星莲船/博丽灵梦B">博丽灵梦B</a> &#8226; <a href="./游戏对话-东方星莲船-雾雨魔理沙B.md" title="游戏对话:东方星莲船/雾雨魔理沙B">雾雨魔理沙B</a> &#8226; <a href="./游戏对话-东方星莲船-东风谷早苗B.md" title="游戏对话:东方星莲船/东风谷早苗B">东风谷早苗B</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>Ex游戏对话</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./游戏对话-东方星莲船-博丽灵梦A_ExStory.md" title="游戏对话:东方星莲船/博丽灵梦A ExStory">博丽灵梦A</a> &#8226; <a href="./游戏对话-东方星莲船-雾雨魔理沙A_ExStory.md" title="游戏对话:东方星莲船/雾雨魔理沙A ExStory">雾雨魔理沙A</a> &#8226; <a href="./游戏对话-东方星莲船-东风谷早苗A_ExStory.md" title="游戏对话:东方星莲船/东风谷早苗A ExStory">东风谷早苗A</a><br>
-<a href="./游戏对话-东方星莲船-博丽灵梦B_ExStory.md" title="游戏对话:东方星莲船/博丽灵梦B ExStory">博丽灵梦B</a> &#8226; <a href="./游戏对话-东方星莲船-雾雨魔理沙B_ExStory.md" title="游戏对话:东方星莲船/雾雨魔理沙B ExStory">雾雨魔理沙B</a> &#8226; <a href="./游戏对话-东方星莲船-东风谷早苗B_ExStory.md" title="游戏对话:东方星莲船/东风谷早苗B ExStory">东风谷早苗B</a></div></td></tr></tbody></table><div></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">场景</td><td style=";;" class="navbox-list navbox-odd"><div><a href="./残雪之道.md" title="残雪之道">残雪之道</a> &#8226; <a href="./春之云.md" title="春之云">春之云</a> &#8226; <a href="./圣辇船.md" title="圣辇船">圣辇船</a> &#8226; <a href="./魔界.md" title="魔界">魔界</a> &#8226; <a href="/%E9%AD%94%E7%95%8C#法界" title="魔界">法界</a> &#8226; <a href="./命莲寺.md" title="命莲寺">命莲寺</a> &#8226; <a href="./春之云.md" title="春之云">夜空</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">音乐</td><td style=";;" class="navbox-list navbox-even"><div><a href="./东方星莲船-Music.md" title="东方星莲船/Music">Music Room</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="/%E4%B8%9C%E6%96%B9%E6%98%9F%E8%8E%B2%E8%88%B9#附带文档" title="东方星莲船">附带文档</a></td><td style=";;" class="navbox-list navbox-odd"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>体验版</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./附带文档-东方星莲船体验版-Manual.md" title="附带文档:东方星莲船体验版/Manual">Manual</a> &#8226; <a href="./附带文档-东方星莲船体验版-Omake.md" title="附带文档:东方星莲船体验版/Omake">Omake</a> &#8226; <a href="./附带文档-东方星莲船体验版-Readme.md" title="附带文档:东方星莲船体验版/Readme">Readme</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>正式版</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./附带文档-东方星莲船-Manual.md" title="附带文档:东方星莲船/Manual">Manual</a> &#8226; <a href="./附带文档-东方星莲船-Omake.md" title="附带文档:东方星莲船/Omake">Omake</a> &#8226; <a href="./附带文档-东方星莲船-角色设定&ExStory.md" title="附带文档:东方星莲船/角色设定&amp;ExStory">角色设定&amp;ExStory</a> &#8226; <a href="./附带文档-东方星莲船-Readme.md" title="附带文档:东方星莲船/Readme">Readme</a> &#8226; <a href="./附带文档-东方星莲船-光盘说明书.md" title="附带文档:东方星莲船/光盘说明书">光盘说明书</a></div></td></tr></tbody></table><div></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="./东方星莲船.md" title="东方星莲船">符卡</a></td><td style=";;" class="navbox-list navbox-even"><div><a href="./东方星莲船-Stage_1.md" title="东方星莲船/Stage 1">Stage 1</a> &#8226; <a href="./东方星莲船-Stage_2.md" title="东方星莲船/Stage 2">Stage 2</a> &#8226; <a href="./东方星莲船-Stage_3.md" title="东方星莲船/Stage 3">Stage 3</a> &#8226; <a href="./东方星莲船-Stage_4.md" title="东方星莲船/Stage 4">Stage 4</a> &#8226; <a class="mw-selflink selflink">Stage 5</a> &#8226; <a href="./东方星莲船-Stage_6.md" title="东方星莲船/Stage 6">Stage 6</a> &#8226; <a href="./东方星莲船-Extra.md" title="东方星莲船/Extra">Extra</a></div></td></tr></tbody></table></td></tr></tbody></table>
-
-
-
-
 
 
 ---

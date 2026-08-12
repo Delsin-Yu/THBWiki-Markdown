@@ -1,12 +1,8 @@
 # 文件:THD2元素秘法石.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f9\ns6%3ATHD2%E5%85%83%E7%B4%A0%E7%A7%98%E6%B3%95%E7%9F%B3%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f9\ns6%3ATHD2%E5%85%83%E7%B4%A0%E7%A7%98%E6%B3%95%E7%9F%B3%2Epng.html -->
 
 AvalonStudioOfficial
-
-
-
-
 
 
 ---

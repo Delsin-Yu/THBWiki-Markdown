@@ -1,6 +1,6 @@
 # 文件:F₂封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f0\ns6%3AF%E2%82%82%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f0\ns6%3AF%E2%82%82%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Prismatica_Material_Records | 专辑封面 | 多作品共用的封面文件 | 封面图片
 
@@ -8,11 +8,8 @@ Prismatica_Material_Records | 专辑封面 | 多作品共用的封面文件 | �
 使用了本文件作封面图片的作品：
   
 
-- [F₂](./F₂.md)  
-该封面包含的角色：- [八云紫](./八云紫.md)
-
-
-
+- [F₂](./F₂.md)该封面包含的角色：
+- [八云紫](./八云紫.md)
 
 
 ---

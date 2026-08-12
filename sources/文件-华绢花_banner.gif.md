@@ -1,12 +1,8 @@
 # 文件:华绢花_banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a5\ns6%3A%E5%8D%8E%E7%BB%A2%E8%8A%B1_banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a5\ns6%3A%E5%8D%8E%E7%BB%A2%E8%8A%B1_banner%2Egif.html -->
 
 华绢花 | 社团LOGO
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Arkham_Edge封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3e\ns6%3AArkham_Edge%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3e\ns6%3AArkham_Edge%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Karkan | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ Karkan | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Arkham Edge](./Arkham_Edge.md)  
-该封面包含的角色：- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [Arkham Edge](./Arkham_Edge.md)该封面包含的角色：
+- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # ぱちゅコン！_Defend_the_library!/设定与剧情
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\67\ns0%3A%E3%81%B1%E3%81%A1%E3%82%85%E3%82%B3%E3%83%B3%EF%BC%81_Defend_the_library%21%2F%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\67\ns0%3A%E3%81%B1%E3%81%A1%E3%82%85%E3%82%B3%E3%83%B3%EF%BC%81_Defend_the_library%21%2F%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85.html -->
 
 黄昏边境
 
@@ -12,10 +12,6 @@
 除此之外extra难度下可以选择多个模式
 诙谐的bgm给人放松的感觉~
   
-
-
-
-
 
 ---
 

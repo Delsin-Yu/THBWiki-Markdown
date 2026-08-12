@@ -1,6 +1,6 @@
 # 文件:Fortune_Girl封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bd\ns6%3AFortune_Girl%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bd\ns6%3AFortune_Girl%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 こでまり小瑠璃 | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Fortune Girl](./Fortune_Girl.md)  
-该封面包含的角色：- [键山雏](./键山雏.md)
+- [Fortune Girl](./Fortune_Girl.md)该封面包含的角色：
+- [键山雏](./键山雏.md)
 
   
-源地址：[[1]](http://kodemari.sumomo.ne.jp/c89/KKCD-0002_jaket.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://kodemari.sumomo.ne.jp/c89/KKCD-0002_jaket.jpg)  
 
 ---
 

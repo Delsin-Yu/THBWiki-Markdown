@@ -1,6 +1,6 @@
 # 文件:SERENDIPITY（天鳥堂）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e8\ns6%3ASERENDIPITY%EF%BC%88%E5%A4%A9%E9%B3%A5%E5%A0%82%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e8\ns6%3ASERENDIPITY%EF%BC%88%E5%A4%A9%E9%B3%A5%E5%A0%82%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 天鳥堂 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [SERENDIPITY（天鳥堂）](./SERENDIPITY（天鳥堂）.md)  
-该封面包含的角色：- [八云紫](./八云紫.md)
-
-
-
+- [SERENDIPITY（天鳥堂）](./SERENDIPITY（天鳥堂）.md)该封面包含的角色：
+- [八云紫](./八云紫.md)
 
 
 ---

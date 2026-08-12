@@ -1,6 +1,6 @@
 # 文件:JOYful_EP封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\12\ns6%3AJOYful_EP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\12\ns6%3AJOYful_EP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Petal_Palette_Records | 专辑封面 | 封面图片
 
@@ -10,16 +10,14 @@ Petal_Palette_Records | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [JOYful EP](./JOYful_EP.md)  
-该封面包含的角色：- [蓬莱山辉夜](./蓬莱山辉夜.md)- [比那名居天子](./比那名居天子.md)- [河城荷取](./河城荷取.md)- [桑尼米尔克](./桑尼米尔克.md)
+- [JOYful EP](./JOYful_EP.md)该封面包含的角色：
+- [蓬莱山辉夜](./蓬莱山辉夜.md)
+- [比那名居天子](./比那名居天子.md)
+- [河城荷取](./河城荷取.md)
+- [桑尼米尔克](./桑尼米尔克.md)
 
   
-源地址：[[1]](https://f4.bcbits.com/img/a1924937948_10.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://f4.bcbits.com/img/a1924937948_10.jpg)  
 
 ---
 

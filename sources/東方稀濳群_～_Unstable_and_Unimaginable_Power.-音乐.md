@@ -1,6 +1,6 @@
 # 東方稀濳群_～_Unstable_and_Unimaginable_Power./音乐
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\0a\ns0%3A%E6%9D%B1%E6%96%B9%E7%A8%80%E6%BF%B3%E7%BE%A4_%EF%BD%9E_Unstable_and_Unimaginable_Power%2E%2F%E9%9F%B3%E4%B9%90.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\0a\ns0%3A%E6%9D%B1%E6%96%B9%E7%A8%80%E6%BF%B3%E7%BE%A4_%EF%BD%9E_Unstable_and_Unimaginable_Power%2E%2F%E9%9F%B3%E4%B9%90.html -->
 
 Team_Magnitude_Manipulators
 
@@ -16,7 +16,7 @@ Team_Magnitude_Manipulators
 </td>
 <td style="background: #FFFFCC;" align="center" width="40%"><i>幻想乡的科学世界</i>
 </td>
-<td style="background: #dde6ff;" align="center" width="15%">♪ <i>Roka Enzaki<br>&amp;ElianTempest</i>
+<td style="background: #dde6ff;" align="center" width="15%">♪ <i>Roka Enzaki<br>&ElianTempest</i>
 </td></tr>
 <tr valign="top">
 <td colspan="2" style="padding:1em; padding-left:2em;" lang="ja" width="50%">
@@ -29,7 +29,6 @@ Team_Magnitude_Manipulators
 </td></tr>
 
 </tbody></table>
-
 
 
 <table>
@@ -56,7 +55,6 @@ Team_Magnitude_Manipulators
 </tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
@@ -79,7 +77,6 @@ Team_Magnitude_Manipulators
 </td></tr>
 
 </tbody></table>
-
 
 
 <table>
@@ -106,7 +103,6 @@ Team_Magnitude_Manipulators
 </tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
@@ -129,7 +125,6 @@ Team_Magnitude_Manipulators
 </td></tr>
 
 </tbody></table>
-
 
 
 <table>
@@ -156,7 +151,6 @@ Team_Magnitude_Manipulators
 </tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
@@ -179,7 +173,6 @@ Team_Magnitude_Manipulators
 </td></tr>
 
 </tbody></table>
-
 
 
 <table>
@@ -206,7 +199,6 @@ Team_Magnitude_Manipulators
 </tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
@@ -229,7 +221,6 @@ Team_Magnitude_Manipulators
 </td></tr>
 
 </tbody></table>
-
 
 
 <table>
@@ -256,7 +247,6 @@ Team_Magnitude_Manipulators
 </tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
@@ -279,7 +269,6 @@ Team_Magnitude_Manipulators
 </td></tr>
 
 </tbody></table>
-
 
 
 <table>
@@ -306,7 +295,6 @@ Team_Magnitude_Manipulators
 </tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
@@ -331,7 +319,6 @@ Team_Magnitude_Manipulators
 </tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
@@ -354,12 +341,6 @@ Team_Magnitude_Manipulators
 </td></tr>
 
 </tbody></table>
-
-
-
-
-
-
 
 
 ---

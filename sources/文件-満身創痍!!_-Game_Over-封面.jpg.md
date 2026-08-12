@@ -1,6 +1,6 @@
 # 文件:満身創痍!!_-Game_Over-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\86\ns6%3A%E6%BA%80%E8%BA%AB%E5%89%B5%E7%97%8D%21%21_-Game_Over-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\86\ns6%3A%E6%BA%80%E8%BA%AB%E5%89%B5%E7%97%8D%21%21_-Game_Over-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 全ピ连 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [満身創痍!! -Game Over-](./満身創痍!!_-Game_Over-.md)  
-该封面包含的角色：- [东风谷早苗](./东风谷早苗.md)
-
-
-
+- [満身創痍!! -Game Over-](./満身創痍!!_-Game_Over-.md)该封面包含的角色：
+- [东风谷早苗](./东风谷早苗.md)
 
 
 ---

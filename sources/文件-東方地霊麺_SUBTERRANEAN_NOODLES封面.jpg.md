@@ -1,6 +1,6 @@
 # 文件:東方地霊麺_SUBTERRANEAN_NOODLES封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3c\ns6%3A%E6%9D%B1%E6%96%B9%E5%9C%B0%E9%9C%8A%E9%BA%BA_SUBTERRANEAN_NOODLES%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3c\ns6%3A%E6%9D%B1%E6%96%B9%E5%9C%B0%E9%9C%8A%E9%BA%BA_SUBTERRANEAN_NOODLES%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 カースドフォーチュン | 同人志封面 | 封面图片
 
@@ -10,16 +10,13 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方地霊麺 SUBTERRANEAN NOODLES](./東方地霊麺_SUBTERRANEAN_NOODLES.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [水桥帕露西](./水桥帕露西.md)- [古明地觉](./古明地觉.md)
+- [東方地霊麺 SUBTERRANEAN NOODLES](./東方地霊麺_SUBTERRANEAN_NOODLES.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [水桥帕露西](./水桥帕露西.md)
+- [古明地觉](./古明地觉.md)
 
   
-[Pixiv artwork ID: 101406761](https://www.pixiv.net/artworks/101406761)
-  
-
-
-
-
+[Pixiv artwork ID: 101406761](https://www.pixiv.net/artworks/101406761)  
 
 ---
 

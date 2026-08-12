@@ -1,43 +1,31 @@
 # 黑海中的绯红_～_Legendary_Fish
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\5\53\ns0%3A%E9%BB%91%E6%B5%B7%E4%B8%AD%E7%9A%84%E7%BB%AF%E7%BA%A2_%EF%BD%9E_Legendary_Fish.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\5\53\ns0%3A%E9%BB%91%E6%B5%B7%E4%B8%AD%E7%9A%84%E7%BB%AF%E7%BA%A2_%EF%BD%9E_Legendary_Fish.html -->
 
 由 ZUN 创作的官方曲目，原名 黒い海に紅く　～ Legendary Fish
 
 本页是关于东方Project  
- **原作音乐** 的词条
-
+**原作音乐**的词条
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 出现作品](#出现作品)
 - [3 音乐文件](#音乐文件)
-
   - [3.1 全人类的天乐录](#全人类的天乐录)
-
     - [3.1.1 DISC1](#DISC1)
     - [3.1.2 DISC2](#DISC2)
 
 
 
 
-
-
 - [4 说明文本](#说明文本)
-
   - [4.1 东方绯想天](#东方绯想天)
 
 
-
 - [5 其他资料](#其他资料)
-
   - [5.1 乐理资讯](#乐理资讯)
   - [5.2 分析考据](#分析考据)
   - [5.3 二次同人数据](#二次同人数据)
-
-
-
-
 
 
 
@@ -47,7 +35,6 @@
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">黒い海に紅く　～ Legendary Fish</td></tr><tr><td><b>译名</b></td><td>黑海中的绯红 ～ Legendary Fish</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 黑海中的绯红 ～ Legendary Fish（曲目） - 由 ZUN 创作的官方曲目，原名 黒い海に紅く　～ Legendary Fish
-
 ## 出现作品
 
 <table>
@@ -55,7 +42,6 @@
 <tr><td>2008年8月16日（Comic Market 74）</td><td><b><a href="./全人类的天乐录.md" title="全人类的天乐录">全人类的天乐录</a></b></td><td>Original Disc 第13轨</td><td style="padding-left:5px;">黒い海に紅く　～ Legendary Fish（黑海中的绯红 ～ Legendary Fish）</td><td style="padding-left:10px;">作曲：ZUN</td></tr>
 <tr><td>2008年8月16日（Comic Market 74）</td><td><b><a href="./全人类的天乐录.md" title="全人类的天乐录">全人类的天乐录</a></b></td><td>Arrange Disc 第15轨</td><td style="padding-left:5px;">黒い海に紅く　～ Legendary Fish（黑海中的绯红 ～ Legendary Fish）</td><td style="padding-left:10px;">编曲：あきやまうに</td></tr>
 </tbody></table>
-
 
 
 ## 音乐文件
@@ -67,17 +53,16 @@
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-TFM-003O_13.mp3.md" title="文件:TFM-003O 13.mp3">TFM-003O_13.mp3</a><br><audio src="https://upload.thwiki.cc/6/65/TFM-003O_13.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track13.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>5:36</td></tr></tbody></table>
 
 
-
 #### DISC2
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-TFM-003A_15.mp3.md" title="文件:TFM-003A 15.mp3">TFM-003A_15.mp3</a><br><audio src="https://upload.thwiki.cc/7/7f/TFM-003A_15.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track15.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>4:10</td></tr></tbody></table>
 
 
-
 ## 说明文本
 
 ### 东方绯想天
-- 曲评 (未找到链接)
+
+- [曲评](./附带文档-东方绯想天-Omake.md#曲评-2)
 
 　■黑海中的绯红　～ Legendary Fish  
   
@@ -89,44 +74,55 @@
 　　我怎么也没法相信，那形状怪异的鱼类是存在于这个世界的生物。  
   
 　　就是这样子的衣玖主题曲。
-
 ## 其他资料
 
 ### 乐理资讯
 
 ### 分析考据
   
- **黒い海に紅く　～ Legendary Fish**  黑海中的绯红　～ Legendary Fish
+**黒い海に紅く ～ Legendary Fish** 黑海中的绯红　～ Legendary Fish
   
 
-- 黒い海
-  - [永江衣玖](./永江衣玖.md)名字中的「玖」，本意为像玉一样的浅黑色石头。
+- 黒い海 
+  - [永江衣玖](./永江衣玖.md)名字中的「玖」，本意为像玉一样的浅黑色石头。 
     - 皇带鱼为深海鱼类，栖息深度为200-1000米。
     - 深海环境下阳光照射极其微弱，漆黑一片。
 
-  - 同时「黒い海」可能指[玄云海](./玄云海.md)。
+
+  - 同时「黒い海」可能指[玄云海](./玄云海.md)。 
     - [玄云海](./玄云海.md)为[妖怪之山](./妖怪之山.md)上空的厚重云层，乌云密布，「玄」也就是黑色、深色的意思。
     - [东方绯想天](./东方绯想天.md)中[永江衣玖](./永江衣玖.md)也多在[玄云海](./玄云海.md)场景中登场。
 
 
 
-- [](./文件-玄云海（绯想天场景）.png.md)玄云海（绯想天场景）
 
-- 紅く
-  - 皇带鱼的背鳍为鲜艳的红色。
+
+
+- <img alt="玄云海（绯想天场景）" src="https://upload.thwiki.cc/thumb/e/e3/%E7%8E%84%E4%BA%91%E6%B5%B7%EF%BC%88%E7%BB%AF%E6%83%B3%E5%A4%A9%E5%9C%BA%E6%99%AF%EF%BC%89.png/200px-%E7%8E%84%E4%BA%91%E6%B5%B7%EF%BC%88%E7%BB%AF%E6%83%B3%E5%A4%A9%E5%9C%BA%E6%99%AF%EF%BC%89.png" decoding="async" loading="lazy" width="200" height="170" srcset="https://upload.thwiki.cc/thumb/e/e3/%E7%8E%84%E4%BA%91%E6%B5%B7%EF%BC%88%E7%BB%AF%E6%83%B3%E5%A4%A9%E5%9C%BA%E6%99%AF%EF%BC%89.png/300px-%E7%8E%84%E4%BA%91%E6%B5%B7%EF%BC%88%E7%BB%AF%E6%83%B3%E5%A4%A9%E5%9C%BA%E6%99%AF%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/e/e3/%E7%8E%84%E4%BA%91%E6%B5%B7%EF%BC%88%E7%BB%AF%E6%83%B3%E5%A4%A9%E5%9C%BA%E6%99%AF%EF%BC%89.png/400px-%E7%8E%84%E4%BA%91%E6%B5%B7%EF%BC%88%E7%BB%AF%E6%83%B3%E5%A4%A9%E5%9C%BA%E6%99%AF%EF%BC%89.png 2x" data-file-width="1410" data-file-height="1200"> 玄云海（绯想天场景）
+
+
+- 紅く 
+  - 皇带鱼的背鳍为鲜艳的红色。 
     - 栖息在深海中的皇带鱼也就是「黑色大海中的一抹红色」。
 
-  - [永江衣玖](./永江衣玖.md)立绘形象取材于皇带鱼，身穿红色羽衣，称号即「美丽的绯之衣」，参考永江衣玖/分析考据#外貌 (未找到链接)。
+
+  - [永江衣玖](./永江衣玖.md)立绘形象取材于皇带鱼，身穿红色羽衣，称号即「美丽的绯之衣」，参考[永江衣玖/分析考据#外貌](./永江衣玖-分析考据.md#外貌)。 
     - 在[玄云海](./玄云海.md)场景中登场的[永江衣玖](./永江衣玖.md)同样为「黑色大海中的一抹红色」。
 
 
-- Legendary Fish
-  - 传说之鱼，也就是指皇带鱼。
+
+
+- Legendary Fish 
+  - 传说之鱼，也就是指皇带鱼。 
     - 皇带鱼的别称「龙宫使者」，传说中为龙宫派来的使者，预告灾难。
 
 
 
-- [](./文件-皇带鱼.jpg.md)皇带鱼- [](./文件-永江衣玖（绯想天立绘）.png.md)永江衣玖（绯想天立绘）
+
+
+
+- <img alt="皇带鱼" src="https://upload.thwiki.cc/thumb/9/94/%E7%9A%87%E5%B8%A6%E9%B1%BC.jpg/200px-%E7%9A%87%E5%B8%A6%E9%B1%BC.jpg" decoding="async" loading="lazy" width="200" height="138" srcset="https://upload.thwiki.cc/thumb/9/94/%E7%9A%87%E5%B8%A6%E9%B1%BC.jpg/300px-%E7%9A%87%E5%B8%A6%E9%B1%BC.jpg 1.5x, https://upload.thwiki.cc/thumb/9/94/%E7%9A%87%E5%B8%A6%E9%B1%BC.jpg/400px-%E7%9A%87%E5%B8%A6%E9%B1%BC.jpg 2x" data-file-width="824" data-file-height="570"> 皇带鱼
+- <img alt="永江衣玖（绯想天立绘）" src="https://upload.thwiki.cc/thumb/9/95/%E6%B0%B8%E6%B1%9F%E8%A1%A3%E7%8E%96%EF%BC%88%E7%BB%AF%E6%83%B3%E5%A4%A9%E7%AB%8B%E7%BB%98%EF%BC%89.png/200px-%E6%B0%B8%E6%B1%9F%E8%A1%A3%E7%8E%96%EF%BC%88%E7%BB%AF%E6%83%B3%E5%A4%A9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="200" height="194" srcset="https://upload.thwiki.cc/thumb/9/95/%E6%B0%B8%E6%B1%9F%E8%A1%A3%E7%8E%96%EF%BC%88%E7%BB%AF%E6%83%B3%E5%A4%A9%E7%AB%8B%E7%BB%98%EF%BC%89.png/300px-%E6%B0%B8%E6%B1%9F%E8%A1%A3%E7%8E%96%EF%BC%88%E7%BB%AF%E6%83%B3%E5%A4%A9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/9/95/%E6%B0%B8%E6%B1%9F%E8%A1%A3%E7%8E%96%EF%BC%88%E7%BB%AF%E6%83%B3%E5%A4%A9%E7%AB%8B%E7%BB%98%EF%BC%89.png/400px-%E6%B0%B8%E6%B1%9F%E8%A1%A3%E7%8E%96%EF%BC%88%E7%BB%AF%E6%83%B3%E5%A4%A9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="496" data-file-height="480"> 永江衣玖（绯想天立绘）
 
 
 ### 二次同人数据
@@ -141,17 +137,6 @@
 <tr><td>Arrange</td><td>162</td></tr>
 <tr><td>Vocal率</td><td>31.65%</td></tr>
 </tbody></table>
-
-
-
-
-  
-  
-
-  
-
-
-
 
 
 ---

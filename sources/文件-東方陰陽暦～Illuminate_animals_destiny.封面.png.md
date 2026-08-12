@@ -1,14 +1,11 @@
 # 文件:東方陰陽暦～Illuminate_animals_destiny.封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dc\ns6%3A%E6%9D%B1%E6%96%B9%E9%99%B0%E9%99%BD%E6%9A%A6%EF%BD%9EIlluminate_animals_destiny%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dc\ns6%3A%E6%9D%B1%E6%96%B9%E9%99%B0%E9%99%BD%E6%9A%A6%EF%BD%9EIlluminate_animals_destiny%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 まりもmarimoチャンネル | 封面图片 | 软件封面
 
 
 ## 摘要
-
-
-
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:無料頒布CD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b3\ns6%3A%E7%84%A1%E6%96%99%E9%A0%92%E5%B8%83CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b3\ns6%3A%E7%84%A1%E6%96%99%E9%A0%92%E5%B8%83CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 回路-kairo- | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [無料頒布CD](./無料頒布CD.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
-
-
-
+- [無料頒布CD](./無料頒布CD.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
 
 ---

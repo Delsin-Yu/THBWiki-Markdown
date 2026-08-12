@@ -1,18 +1,13 @@
 # 文件:T.SClogo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fc\ns6%3AT%2ESClogo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fc\ns6%3AT%2ESClogo%2Epng.html -->
 
 T.SC | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[direct image link](https://web.archive.org/web/20141224162724im_/http://t-soucha.com/files/tsc.png), [source page](https://web.archive.org/web/20150104182158/http://t-soucha.com/)
-  
-
-
-
-
+源地址：[direct image link](https://web.archive.org/web/20141224162724im_/http://t-soucha.com/files/tsc.png), [source page](https://web.archive.org/web/20150104182158/http://t-soucha.com/)  
 
 ---
 

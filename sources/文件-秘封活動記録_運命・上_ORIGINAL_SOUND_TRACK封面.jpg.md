@@ -1,6 +1,6 @@
 # 文件:秘封活動記録_運命・上_ORIGINAL_SOUND_TRACK封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\48\ns6%3A%E7%A7%98%E5%B0%81%E6%B4%BB%E5%8B%95%E8%A8%98%E9%8C%B2_%E9%81%8B%E5%91%BD%E3%83%BB%E4%B8%8A_ORIGINAL_SOUND_TRACK%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\48\ns6%3A%E7%A7%98%E5%B0%81%E6%B4%BB%E5%8B%95%E8%A8%98%E9%8C%B2_%E9%81%8B%E5%91%BD%E3%83%BB%E4%B8%8A_ORIGINAL_SOUND_TRACK%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 京都幻想剧团 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [秘封活動記録 運命・上 ORIGINAL SOUND TRACK](./秘封活動記録_運命・上_ORIGINAL_SOUND_TRACK.md)  
-该封面包含的角色：- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [秘封活動記録 運命・上 ORIGINAL SOUND TRACK](./秘封活動記録_運命・上_ORIGINAL_SOUND_TRACK.md)该封面包含的角色：
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

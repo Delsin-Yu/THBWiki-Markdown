@@ -1,12 +1,8 @@
 # 文件:Τeam_αlternative_Σndingbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\47\ns6%3A%CE%A4eam_%CE%B1lternative_%CE%A3ndingbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\47\ns6%3A%CE%A4eam_%CE%B1lternative_%CE%A3ndingbanner%2Ejpg.html -->
 
 Τeam_αlternative_Σnding | 社团LOGO
-
-
-
-
 
 
 ---

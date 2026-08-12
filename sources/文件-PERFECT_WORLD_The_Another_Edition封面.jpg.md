@@ -1,6 +1,6 @@
 # 文件:PERFECT_WORLD_The_Another_Edition封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d9\ns6%3APERFECT_WORLD_The_Another_Edition%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d9\ns6%3APERFECT_WORLD_The_Another_Edition%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 シュガレット | 同人志封面 | 封面图片
 
@@ -10,11 +10,13 @@
 使用了本文件作封面图片的作品：
   
 
-- [PERFECT WORLD The Another Edition](./PERFECT_WORLD_The_Another_Edition.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [九十九弁弁](./九十九弁弁.md)- [九十九八桥](./九十九八桥.md)- [鬼人正邪](./鬼人正邪.md)- [少名针妙丸](./少名针妙丸.md)- [堀川雷鼓](./堀川雷鼓.md)
-
-
-
+- [PERFECT WORLD The Another Edition](./PERFECT_WORLD_The_Another_Edition.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [九十九弁弁](./九十九弁弁.md)
+- [九十九八桥](./九十九八桥.md)
+- [鬼人正邪](./鬼人正邪.md)
+- [少名针妙丸](./少名针妙丸.md)
+- [堀川雷鼓](./堀川雷鼓.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:East_Fantasia封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fc\ns6%3AEast_Fantasia%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fc\ns6%3AEast_Fantasia%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ef_sound_system | 专辑封面 | 封面图片
 
@@ -10,11 +10,10 @@ ef_sound_system | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [East Fantasia](./East_Fantasia.md)  
-该封面包含的角色：- [东风谷早苗](./东风谷早苗.md)- [八坂神奈子](./八坂神奈子.md)- [洩矢诹访子](./洩矢诹访子.md)
-
-
-
+- [East Fantasia](./East_Fantasia.md)该封面包含的角色：
+- [东风谷早苗](./东风谷早苗.md)
+- [八坂神奈子](./八坂神奈子.md)
+- [洩矢诹访子](./洩矢诹访子.md)
 
 
 ---

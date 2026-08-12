@@ -1,6 +1,6 @@
 # 文件:ワスレナグサ・ブルー_Forget-Me-Not-Blue封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0e\ns6%3A%E3%83%AF%E3%82%B9%E3%83%AC%E3%83%8A%E3%82%B0%E3%82%B5%E3%83%BB%E3%83%96%E3%83%AB%E3%83%BC_Forget-Me-Not-Blue%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0e\ns6%3A%E3%83%AF%E3%82%B9%E3%83%AC%E3%83%8A%E3%82%B0%E3%82%B5%E3%83%BB%E3%83%96%E3%83%AB%E3%83%BC_Forget-Me-Not-Blue%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 太陽光工場 | 封面图片
 
@@ -10,16 +10,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [ワスレナグサ・ブルー Forget-Me-Not-Blue](./ワスレナグサ・ブルー_Forget-Me-Not-Blue.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [藤原妹红](./藤原妹红.md)
+- [ワスレナグサ・ブルー Forget-Me-Not-Blue](./ワスレナグサ・ブルー_Forget-Me-Not-Blue.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [藤原妹红](./藤原妹红.md)
 
   
-[Pixiv artwork ID: 56737255](https://www.pixiv.net/artworks/56737255)
-  
-
-
-
-
+[Pixiv artwork ID: 56737255](https://www.pixiv.net/artworks/56737255)  
 
 ---
 

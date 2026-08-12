@@ -1,35 +1,34 @@
 # Flandre_II
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\fd\ns0%3AFlandre_II.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\fd\ns0%3AFlandre_II.html -->
 
 2016年10月9日 由 コウセイ 于 东方红楼梦12 发布的画集同人志，B5尺寸一共16页，登场人物有 芙兰朵露·斯卡蕾特，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人志 (未找到链接)** 的词条
-
+**[二次创作同人志](./二次创作.md#同人志)**的词条
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Flandre_II封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/d/d1/Flandre_II%E5%B0%81%E9%9D%A2.jpg/158px-Flandre_II%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="158" height="224" srcset="https://upload.thwiki.cc/thumb/d/d1/Flandre_II%E5%B0%81%E9%9D%A2.jpg/238px-Flandre_II%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/d/d1/Flandre_II%E5%B0%81%E9%9D%A2.jpg/317px-Flandre_II%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="637" data-file-height="900"></a><div class="cover-char">角色：<a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰朵露·斯卡蕾特</a></div></td>
 </tr><tr><td class="label">名称</td><td colspan="2"> Flandre II </td></tr><tr><td class="label">制作方</td><td><a href="./コウセイ.md" title="コウセイ">コウセイ</a></td><td class="cover-artwork" rowspan="8" style="min-width:224px;"><a href="./文件-Flandre_II封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/d/d1/Flandre_II%E5%B0%81%E9%9D%A2.jpg/158px-Flandre_II%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="158" height="224" srcset="https://upload.thwiki.cc/thumb/d/d1/Flandre_II%E5%B0%81%E9%9D%A2.jpg/238px-Flandre_II%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/d/d1/Flandre_II%E5%B0%81%E9%9D%A2.jpg/317px-Flandre_II%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="637" data-file-height="900"></a><div class="cover-char">角色：<a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰朵露·斯卡蕾特</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2016-10-09&#160;（<a href="/展会作品列表?e=%E4%B8%9C%E6%96%B9%E7%BA%A2%E6%A5%BC%E6%A2%A6%2312">東方紅楼夢12</a>）</td></tr><tr><td class="label">类型</td><td>画集</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>B5</td></tr><tr><td class="label">页数</td><td>16P</td></tr><tr><td class="label">登场人物</td><td><a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰朵露·斯卡蕾特</a></td></tr><tr><td class="label">售价</td><td>通贩售价：500日元</td></tr></tbody></table>
+</tr><tr><td class="label">首发日期</td><td>2016-10-09 （<a href="./展会作品列表.md#12">東方紅楼夢12</a>）</td></tr><tr><td class="label">类型</td><td>画集</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>B5</td></tr><tr><td class="label">页数</td><td>16P</td></tr><tr><td class="label">登场人物</td><td><a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰朵露·斯卡蕾特</a></td></tr><tr><td class="label">售价</td><td>通贩售价：500日元</td></tr></tbody></table>
 
 Flandre II（同人志，コウセイ，2016） - 2016年10月9日 由 コウセイ 于 东方红楼梦12 发布的画集同人志，B5尺寸一共16页，登场人物有 芙兰朵露·斯卡蕾特，分级为 一般向
-
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=185117">蜜瓜</a></td></tr></tbody></table>
 
 
-
 ## 预览
-- [](./文件-Flandre_II预览图1.jpg.md)- [](./文件-Flandre_II预览图2.jpg.md)
+
+- <img alt="Flandre II预览图1.jpg" src="https://upload.thwiki.cc/thumb/4/41/Flandre_II%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg/265px-Flandre_II%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg" decoding="async" loading="lazy" width="177" height="250" srcset="https://upload.thwiki.cc/thumb/4/41/Flandre_II%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg/398px-Flandre_II%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg 1.5x, https://upload.thwiki.cc/thumb/4/41/Flandre_II%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg/530px-Flandre_II%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg 2x" data-file-width="636" data-file-height="900"> 
+- <img alt="Flandre II预览图2.jpg" src="https://upload.thwiki.cc/thumb/1/14/Flandre_II%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg/265px-Flandre_II%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg" decoding="async" loading="lazy" width="177" height="250" srcset="https://upload.thwiki.cc/thumb/1/14/Flandre_II%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg/398px-Flandre_II%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg 1.5x, https://upload.thwiki.cc/thumb/1/14/Flandre_II%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg/530px-Flandre_II%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg 2x" data-file-width="636" data-file-height="900"> 
 
 
 ## Staff
+
 - ルヒカ (未找到链接)
 - どくドクオ (未找到链接)
 
 
 ## 评论
-
   
 フランドールオンリーイラスト集になります。  
 
@@ -37,16 +36,6 @@ Flandre II（同人志，コウセイ，2016） - 2016年10月9日 由 コウセ
 
 フランちゃん好きな方にはとくに楽しんでもらえる内容になったと思います。
   
-
-
-  
-  
-
-  
-
-
-
-
 
 ---
 

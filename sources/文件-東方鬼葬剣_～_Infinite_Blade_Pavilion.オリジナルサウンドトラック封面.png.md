@@ -1,6 +1,6 @@
 # 文件:東方鬼葬剣_～_Infinite_Blade_Pavilion.オリジナルサウンドトラック封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\57\ns6%3A%E6%9D%B1%E6%96%B9%E9%AC%BC%E8%91%AC%E5%89%A3_%EF%BD%9E_Infinite_Blade_Pavilion%2E%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\57\ns6%3A%E6%9D%B1%E6%96%B9%E9%AC%BC%E8%91%AC%E5%89%A3_%EF%BD%9E_Infinite_Blade_Pavilion%2E%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 東方邪星章製作チーム
 
@@ -10,16 +10,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方鬼葬剣 ～ Infinite Blade Pavilion.オリジナルサウンドトラック](./東方鬼葬剣_～_Infinite_Blade_Pavilion.オリジナルサウンドトラック.md)  
-该封面包含的角色：- [八苏神秋雨](./八苏神秋雨.md)
+- [東方鬼葬剣 ～ Infinite Blade Pavilion.オリジナルサウンドトラック](./東方鬼葬剣_～_Infinite_Blade_Pavilion.オリジナルサウンドトラック.md)该封面包含的角色：
+- [八苏神秋雨](./八苏神秋雨.md)
 
   
 ost没有新封面，梁木了
   
-
-
-
-
 
 ---
 

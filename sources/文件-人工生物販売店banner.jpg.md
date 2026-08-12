@@ -1,14 +1,11 @@
 # 文件:人工生物販売店banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\42\ns6%3A%E4%BA%BA%E5%B7%A5%E7%94%9F%E7%89%A9%E8%B2%A9%E5%A3%B2%E5%BA%97banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\42\ns6%3A%E4%BA%BA%E5%B7%A5%E7%94%9F%E7%89%A9%E8%B2%A9%E5%A3%B2%E5%BA%97banner%2Ejpg.html -->
 
 人工生物販売店 | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

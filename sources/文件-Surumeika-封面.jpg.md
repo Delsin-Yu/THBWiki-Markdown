@@ -1,6 +1,6 @@
 # 文件:Surumeika-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1e\ns6%3ASurumeika-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1e\ns6%3ASurumeika-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 岸田教団&THE明星ロケッツ
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [surumeika-](./surumeika-.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [surumeika-](./surumeika-.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

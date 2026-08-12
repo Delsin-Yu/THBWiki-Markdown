@@ -1,6 +1,6 @@
 # 文件:Endless_dream～追憶の輪廻～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e5\ns6%3AEndless_dream%EF%BD%9E%E8%BF%BD%E6%86%B6%E3%81%AE%E8%BC%AA%E5%BB%BB%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e5\ns6%3AEndless_dream%EF%BD%9E%E8%BF%BD%E6%86%B6%E3%81%AE%E8%BC%AA%E5%BB%BB%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Yonder_Voice | 专辑封面 | 封面图片
 
@@ -10,11 +10,9 @@ Yonder_Voice | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Endless dream～追憶の輪廻～](./Endless_dream～追憶の輪廻～.md)  
-该封面包含的角色：- [永江衣玖](./永江衣玖.md)- [比那名居天子](./比那名居天子.md)
-
-
-
+- [Endless dream～追憶の輪廻～](./Endless_dream～追憶の輪廻～.md)该封面包含的角色：
+- [永江衣玖](./永江衣玖.md)
+- [比那名居天子](./比那名居天子.md)
 
 
 ---

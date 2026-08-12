@@ -1,12 +1,8 @@
 # 文件:「游行圣」（DS文花帖）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\25\ns6%3A%E3%80%8C%E6%B8%B8%E8%A1%8C%E5%9C%A3%E3%80%8D%EF%BC%88DS%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\25\ns6%3A%E3%80%8C%E6%B8%B8%E8%A1%8C%E5%9C%A3%E3%80%8D%EF%BC%88DS%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Epng.html -->
 
 东方文花帖DS | 圣白莲 | 敌机符卡
-
-
-
-
 
 
 ---

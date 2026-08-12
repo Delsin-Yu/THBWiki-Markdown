@@ -1,12 +1,8 @@
 # 文件:村民G（心绮楼背景像素绘）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1f\ns6%3A%E6%9D%91%E6%B0%91G%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1f\ns6%3A%E6%9D%91%E6%B0%91G%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89%2Epng.html -->
 
 东方心绮楼 | 官方游戏像素绘
-
-
-
-
 
 
 ---

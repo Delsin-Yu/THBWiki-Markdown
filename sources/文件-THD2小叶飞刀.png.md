@@ -1,12 +1,8 @@
 # 文件:THD2小叶飞刀.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bf\ns6%3ATHD2%E5%B0%8F%E5%8F%B6%E9%A3%9E%E5%88%80%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bf\ns6%3ATHD2%E5%B0%8F%E5%8F%B6%E9%A3%9E%E5%88%80%2Epng.html -->
 
 东方DOTS玩家社群
-
-
-
-
 
 
 ---

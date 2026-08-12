@@ -1,6 +1,6 @@
 # 文件:Black_Onyx_Elements封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0f\ns6%3ABlack_Onyx_Elements%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0f\ns6%3ABlack_Onyx_Elements%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Black_Onyx | 专辑封面 | 封面图片 | 恋色屋
 
@@ -9,9 +9,6 @@ Black_Onyx | 专辑封面 | 封面图片 | 恋色屋
   
 
 - [Black Onyx Elements](./Black_Onyx_Elements.md)
-
-
-
 
 
 ---

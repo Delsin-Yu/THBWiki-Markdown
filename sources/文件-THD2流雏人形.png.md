@@ -1,12 +1,8 @@
 # 文件:THD2流雏人形.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\25\ns6%3ATHD2%E6%B5%81%E9%9B%8F%E4%BA%BA%E5%BD%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\25\ns6%3ATHD2%E6%B5%81%E9%9B%8F%E4%BA%BA%E5%BD%A2%2Epng.html -->
 
 AvalonStudioOfficial
-
-
-
-
 
 
 ---

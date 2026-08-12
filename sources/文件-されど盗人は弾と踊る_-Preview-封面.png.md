@@ -1,6 +1,6 @@
 # 文件:されど盗人は弾と踊る_-Preview-封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0f\ns6%3A%E3%81%95%E3%82%8C%E3%81%A9%E7%9B%97%E4%BA%BA%E3%81%AF%E5%BC%BE%E3%81%A8%E8%B8%8A%E3%82%8B_-Preview-%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0f\ns6%3A%E3%81%95%E3%82%8C%E3%81%A9%E7%9B%97%E4%BA%BA%E3%81%AF%E5%BC%BE%E3%81%A8%E8%B8%8A%E3%82%8B_-Preview-%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 同人志封面 | 封面图片 | 抽象庭園
 
@@ -10,16 +10,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [されど盗人は弾と踊る -Preview-](./されど盗人は弾と踊る_-Preview-.md)  
-该封面包含的角色：- [比那名居天子](./比那名居天子.md)- [雾雨魔理沙](./雾雨魔理沙.md)
+- [されど盗人は弾と踊る -Preview-](./されど盗人は弾と踊る_-Preview-.md)该封面包含的角色：
+- [比那名居天子](./比那名居天子.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-[Pixiv artwork ID: 37538252 (original size)](https://www.pixiv.net/artworks/37538252)
-  
-
-
-
-
+[Pixiv artwork ID: 37538252 (original size)](https://www.pixiv.net/artworks/37538252)  
 
 ---
 

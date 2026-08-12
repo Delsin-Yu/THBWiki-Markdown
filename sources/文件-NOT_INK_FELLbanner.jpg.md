@@ -1,12 +1,8 @@
 # 文件:NOT_INK_FELLbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e0\ns6%3ANOT_INK_FELLbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e0\ns6%3ANOT_INK_FELLbanner%2Ejpg.html -->
 
 NOT_INK_FELL
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:＃death＿is＿relief封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\94\ns6%3A%EF%BC%83death%EF%BC%BFis%EF%BC%BFrelief%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\94\ns6%3A%EF%BC%83death%EF%BC%BFis%EF%BC%BFrelief%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 大東亜研 | 封面图片
 
@@ -8,12 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [＃death＿is＿relief](./＃death＿is＿relief.md)  
-该封面包含的角色：- [宫古芳香](./宫古芳香.md)源地址：[[1]](http://dtakcd4.tumblr.com/)
-
-
-
-
+- [＃death＿is＿relief](./＃death＿is＿relief.md)该封面包含的角色：
+- [宫古芳香](./宫古芳香.md)
+源地址：[\[1\]](http://dtakcd4.tumblr.com/)
 
 ---
 

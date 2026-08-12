@@ -1,12 +1,11 @@
 # NIBI/東方自作アレンジ
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\a\ad\ns0%3ANIBI%2F%E6%9D%B1%E6%96%B9%E8%87%AA%E4%BD%9C%E3%82%A2%E3%83%AC%E3%83%B3%E3%82%B8.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\a\ad\ns0%3ANIBI%2F%E6%9D%B1%E6%96%B9%E8%87%AA%E4%BD%9C%E3%82%A2%E3%83%AC%E3%83%B3%E3%82%B8.html -->
 
 2018年7月20日 由 NIBI  发布的单曲同人专辑，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人专辑 (未找到链接)** 的词条
-
+**[二次创作同人专辑](./二次创作.md#同人音乐)**的词条
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2">无封面</td>
@@ -15,19 +14,14 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.nicovideo.jp/user/69050033/video">https://www.nicovideo.jp/user/69050033/video</a></td></tr></tbody></table>
 
 NIBI/東方自作アレンジ（同人专辑，NIBI，2018） - 2018年7月20日 由 NIBI  发布的单曲同人专辑，分级为 一般向
-
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="風待月" colspan="2" class="title">風待月<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=NIBI&amp;ogmusic=砕月&amp;fromwiki=NIBI/東方自作アレンジ"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./NIBI.md" title="NIBI">NIBI</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，NIBI&amp;fromwiki=NIBI/東方自作アレンジ"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=砕月&amp;fromwiki=NIBI/東方自作アレンジ"><span></span></a></span><div class="ogmusic"><a href="./砕月.md" class="mw-redirect" title="砕月">砕月</a></div><div class="source"><a href="./东方萃梦想_～_Immaterial_and_Missing_Power..md" class="mw-redirect" title="东方萃梦想 ～ Immaterial and Missing Power.">东方萃梦想　～ Immaterial and Missing Power.</a></div></td></tr><tr><td class="left"></td><td class="label">首发日期</td><td class="text" colspan="2">2018-07-20</td></tr>
-<tr><td id="2" class="infoYD"><b>02</b></td><td id="家路につく" colspan="2" class="title">家路につく<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=NIBI&amp;ogmusic=恋色マスタースパーク&amp;fromwiki=NIBI/東方自作アレンジ"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./NIBI.md" title="NIBI">NIBI</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，NIBI&amp;fromwiki=NIBI/東方自作アレンジ"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=恋色マスタースパーク&amp;fromwiki=NIBI/東方自作アレンジ"><span></span></a></span><div class="ogmusic"><a href="./恋色マスタースパーク.md" class="mw-redirect" title="恋色マスタースパーク">恋色マスタースパーク</a></div><div class="source"><a href="./东方永夜抄_～_Imperishable_Night..md" class="mw-redirect" title="东方永夜抄 ～ Imperishable Night.">东方永夜抄　～ Imperishable Night.</a></div></td></tr><tr><td class="left"></td><td class="label">首发日期</td><td class="text" colspan="2">2018-11-06</td></tr>
-<tr><td id="3" class="infoYD"><b>03</b></td><td id="a_snowy_landscape" colspan="2" class="title">a snowy landscape<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=NIBI&amp;ogmusic=魔法の笠地蔵&amp;fromwiki=NIBI/東方自作アレンジ"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./NIBI.md" title="NIBI">NIBI</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，NIBI&amp;fromwiki=NIBI/東方自作アレンジ"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=魔法の笠地蔵&amp;fromwiki=NIBI/東方自作アレンジ"><span></span></a></span><div class="ogmusic"><a href="./魔法の笠地蔵.md" class="mw-redirect" title="魔法の笠地蔵">魔法の笠地蔵</a></div><div class="source"><a href="./东方天空璋_～_Hidden_Star_in_Four_Seasons..md" class="mw-redirect" title="东方天空璋 ～ Hidden Star in Four Seasons.">东方天空璋　～ Hidden Star in Four Seasons.</a></div></td></tr><tr><td class="left"></td><td class="label">首发日期</td><td class="text" colspan="2">2019-10-19</td></tr></tbody></table>
-
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="風待月" colspan="2" class="title">風待月</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./NIBI.md" title="NIBI">NIBI</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./碎月.md" class="mw-redirect" title="砕月">砕月</a></div><div class="source"><a href="./东方萃梦想.md" class="mw-redirect" title="东方萃梦想 ～ Immaterial and Missing Power.">东方萃梦想　～ Immaterial and Missing Power.</a></div></td></tr><tr><td class="left"></td><td class="label">首发日期</td><td class="text" colspan="2">2018-07-20</td></tr>
+<tr><td id="2" class="infoYD"><b>02</b></td><td id="家路につく" colspan="2" class="title">家路につく</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./NIBI.md" title="NIBI">NIBI</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./恋色Magic.md" class="mw-redirect" title="恋色マスタースパーク">恋色マスタースパーク</a></div><div class="source"><a href="./东方永夜抄.md" class="mw-redirect" title="东方永夜抄 ～ Imperishable Night.">东方永夜抄　～ Imperishable Night.</a></div></td></tr><tr><td class="left"></td><td class="label">首发日期</td><td class="text" colspan="2">2018-11-06</td></tr>
+<tr><td id="3" class="infoYD"><b>03</b></td><td id="a_snowy_landscape" colspan="2" class="title">a snowy landscape</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./NIBI.md" title="NIBI">NIBI</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./魔法的笠地藏.md" class="mw-redirect" title="魔法の笠地蔵">魔法の笠地蔵</a></div><div class="source"><a href="./东方天空璋.md" class="mw-redirect" title="东方天空璋 ～ Hidden Star in Four Seasons.">东方天空璋　～ Hidden Star in Four Seasons.</a></div></td></tr><tr><td class="left"></td><td class="label">首发日期</td><td class="text" colspan="2">2019-10-19</td></tr></tbody></table>
 
 
 ## 评论
-
-
-
 
 ---
 

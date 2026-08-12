@@ -1,16 +1,11 @@
 # 文件:幸屋～さちゃ！～banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a0\ns6%3A%E5%B9%B8%E5%B1%8B%EF%BD%9E%E3%81%95%E3%81%A1%E3%82%83%EF%BC%81%EF%BD%9Ebanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a0\ns6%3A%E5%B9%B8%E5%B1%8B%EF%BD%9E%E3%81%95%E3%81%A1%E3%82%83%EF%BC%81%EF%BD%9Ebanner%2Ejpg.html -->
 
 幸屋～さちゃ！～ | 社团LOGO
 
   
-源地址：[[1]](http://id49.fm-p.jp/data/441/sachasacha/pub/2.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://id49.fm-p.jp/data/441/sachasacha/pub/2.jpg)  
 
 ---
 

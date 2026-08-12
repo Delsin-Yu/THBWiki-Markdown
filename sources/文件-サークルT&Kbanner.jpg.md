@@ -1,12 +1,8 @@
 # 文件:サークルT&Kbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\12\ns6%3A%E3%82%B5%E3%83%BC%E3%82%AF%E3%83%ABT%26Kbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\12\ns6%3A%E3%82%B5%E3%83%BC%E3%82%AF%E3%83%ABT%26Kbanner%2Ejpg.html -->
 
 サークルT&K | 社团LOGO
-
-
-
-
 
 
 ---

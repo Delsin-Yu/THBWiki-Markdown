@@ -1,6 +1,6 @@
 # 文件:C95おまけCD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\60\ns6%3AC95%E3%81%8A%E3%81%BE%E3%81%91CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\60\ns6%3AC95%E3%81%8A%E3%81%BE%E3%81%91CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Xenoglossy | 专辑封面 | 封面图片 | 悦楽舎
 
@@ -11,9 +11,6 @@ Xenoglossy | 专辑封面 | 封面图片 | 悦楽舎
   
 
 - [C95おまけCD](./C95おまけCD.md)
-
-
-
 
 
 ---

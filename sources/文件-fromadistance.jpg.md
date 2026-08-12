@@ -1,12 +1,8 @@
 # 文件:fromadistance.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0f\ns6%3Afromadistance%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0f\ns6%3Afromadistance%2Ejpg.html -->
 
 fromadistance | 社团LOGO
-
-
-
-
 
 
 ---

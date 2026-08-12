@@ -1,6 +1,6 @@
 # 文件:TO-HO_Hi-SPEED_CLUB_MUSIC_ESSENTIAL_vol.1.5封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b9\ns6%3ATO-HO_Hi-SPEED_CLUB_MUSIC_ESSENTIAL_vol%2E1%2E5%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b9\ns6%3ATO-HO_Hi-SPEED_CLUB_MUSIC_ESSENTIAL_vol%2E1%2E5%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 dat_file_records | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ dat_file_records | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [TO-HO Hi-SPEED CLUB MUSIC ESSENTIAL vol.1.5](./TO-HO_Hi-SPEED_CLUB_MUSIC_ESSENTIAL_vol.1.5.md)  
-该封面包含的角色：- [霍青娥](./霍青娥.md)
+- [TO-HO Hi-SPEED CLUB MUSIC ESSENTIAL vol.1.5](./TO-HO_Hi-SPEED_CLUB_MUSIC_ESSENTIAL_vol.1.5.md)该封面包含的角色：
+- [霍青娥](./霍青娥.md)
 
   
-源地址：[[1]](http://static.tumblr.com/f171b9079366eea1a125776f9f93fa00/e3lazzy/Jj0ndfi7d/tumblr_static_7w37cf8vimww8gkcook88ksww.png)
-  
-
-
-
-
+源地址：[\[1\]](http://static.tumblr.com/f171b9079366eea1a125776f9f93fa00/e3lazzy/Jj0ndfi7d/tumblr_static_7w37cf8vimww8gkcook88ksww.png)  
 
 ---
 

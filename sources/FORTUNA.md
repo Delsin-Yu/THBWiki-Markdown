@@ -1,29 +1,23 @@
 # FORTUNA
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\03\ns0%3AFORTUNA.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\03\ns0%3AFORTUNA.html -->
 
 2015年12月30日 由 カカオ加工場 于 Comic Market 89 发布的漫画同人志，B5尺寸一共42页，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人志 (未找到链接)** 的词条
-
+**[二次创作同人志](./二次创作.md#同人志)**的词条
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-FORTUNA封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/6/6c/FORTUNA%E5%B0%81%E9%9D%A2.jpg/138px-FORTUNA%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="138" height="196" srcset="https://upload.thwiki.cc/thumb/6/6c/FORTUNA%E5%B0%81%E9%9D%A2.jpg/208px-FORTUNA%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/6/6c/FORTUNA%E5%B0%81%E9%9D%A2.jpg/277px-FORTUNA%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="318" data-file-height="450"></a><div class="cover-char">角色：<a href="./稀神探女.md" title="稀神探女">稀神探女</a>，<a href="./丰聪耳神子.md" title="丰聪耳神子">丰聪耳神子</a></div></td>
 </tr><tr><td class="label">名称</td><td colspan="2"> FORTUNA </td></tr><tr><td class="label">制作方</td><td><a href="./カカオ加工場.md" title="カカオ加工場">カカオ加工場</a></td><td class="cover-artwork" rowspan="7" style="min-width:196px;"><a href="./文件-FORTUNA封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/6/6c/FORTUNA%E5%B0%81%E9%9D%A2.jpg/138px-FORTUNA%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="138" height="196" srcset="https://upload.thwiki.cc/thumb/6/6c/FORTUNA%E5%B0%81%E9%9D%A2.jpg/208px-FORTUNA%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/6/6c/FORTUNA%E5%B0%81%E9%9D%A2.jpg/277px-FORTUNA%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="318" data-file-height="450"></a><div class="cover-char">角色：<a href="./稀神探女.md" title="稀神探女">稀神探女</a>，<a href="./丰聪耳神子.md" title="丰聪耳神子">丰聪耳神子</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2015-12-30&#160;（<a href="/展会作品列表?e=Comic+Market%2389">Comic Market 89</a>）</td></tr><tr><td class="label">类型</td><td>漫画</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>B5</td></tr><tr><td class="label">页数</td><td>42P</td></tr><tr><td class="label">售价</td><td>会场售价：500日元</td></tr>
+</tr><tr><td class="label">首发日期</td><td>2015-12-30 （<a href="./展会作品列表.md#89">Comic Market 89</a>）</td></tr><tr><td class="label">类型</td><td>漫画</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>B5</td></tr><tr><td class="label">页数</td><td>42P</td></tr><tr><td class="label">售价</td><td>会场售价：500日元</td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/54157701">https://www.pixiv.net/artworks/54157701</a></td></tr></tbody></table>
 
 FORTUNA（同人志，カカオ加工場，2015） - 2015年12月30日 由 カカオ加工場 于 Comic Market 89 发布的漫画同人志，B5尺寸一共42页，分级为 一般向
-
 ## Staff
 : かかお (未找到链接)
 
-
 ## 评论
-
-
-
 
 ---
 

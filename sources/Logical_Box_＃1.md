@@ -1,45 +1,37 @@
 # Logical_Box_＃1
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\2e\ns0%3ALogical_Box_%EF%BC%831.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\2e\ns0%3ALogical_Box_%EF%BC%831.html -->
 
 2014年8月16日 由 Free-Logic 于 Comic Market 86 发布的EP同人专辑，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人专辑 (未找到链接)** 的词条
-
+**[二次创作同人专辑](./二次创作.md#同人音乐)**的词条
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Logical_Box_＃1封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/a/a3/Logical_Box_%EF%BC%831%E5%B0%81%E9%9D%A2.png/224px-Logical_Box_%EF%BC%831%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="224" height="224" srcset="https://upload.thwiki.cc/a/a3/Logical_Box_%EF%BC%831%E5%B0%81%E9%9D%A2.png 1.5x" data-file-width="300" data-file-height="300"></a><div class="cover-char">角色：<a href="./东风谷早苗.md" title="东风谷早苗">东风谷早苗</a></div></td>
 </tr><tr><td class="label">名称</td><td colspan="2"> Logical Box #1 </td></tr><tr><td class="label">制作方</td><td><a href="./Free-Logic.md" title="Free-Logic">Free-Logic</a></td><td class="cover-artwork" rowspan="8" style="min-width:224px;"><a href="./文件-Logical_Box_＃1封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/a/a3/Logical_Box_%EF%BC%831%E5%B0%81%E9%9D%A2.png/224px-Logical_Box_%EF%BC%831%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="224" height="224" srcset="https://upload.thwiki.cc/a/a3/Logical_Box_%EF%BC%831%E5%B0%81%E9%9D%A2.png 1.5x" data-file-width="300" data-file-height="300"></a><div class="cover-char">角色：<a href="./东风谷早苗.md" title="东风谷早苗">东风谷早苗</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2014-08-16&#160;（<a href="/展会作品列表?e=Comic+Market%2386">Comic Market 86</a>）</td></tr><tr><td class="label">类型</td><td>EP</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>4</td></tr><tr><td class="label">总时长</td><td>00:00</td></tr><tr><td class="label">售价</td><td>会场售价：100日元</td></tr>
+</tr><tr><td class="label">首发日期</td><td>2014-08-16 （<a href="./展会作品列表.md#86">Comic Market 86</a>）</td></tr><tr><td class="label">类型</td><td>EP</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>4</td></tr><tr><td class="label">总时长</td><td>00:00</td></tr><tr><td class="label">售价</td><td>会场售价：100日元</td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://free-logic.net/product/306">https://free-logic.net/product/306</a></td></tr></tbody></table>
 
 Logical Box ＃1（同人专辑，Free-Logic，2014） - 2014年8月16日 由 Free-Logic 于 Comic Market 86 发布的EP同人专辑，分级为 一般向
-
 ## Staff
   
- **Arrangement**   
+**Arrangement**  
 
-<table><tbody><tr><td><a href="/index.php?title=%E3%82%88%E3%81%86%E3%81%B2&amp;action=edit&amp;redlink=1" class="new" title="ようひ（页面不存在）">ようひ</a></td><td><a href="./Free-Logic.md" title="Free-Logic">Free-Logic</a></td><td>Tr.1-4</td></tr></tbody></table>
-
+<table><tbody><tr><td><a class="new" title="ようひ（页面不存在）">ようひ</a></td><td><a href="./Free-Logic.md" title="Free-Logic">Free-Logic</a></td><td>Tr.1-4</td></tr></tbody></table>
 
 Illustration
 : めいつ
 
-
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Logical_Introduction" colspan="2" class="title">Logical Introduction<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=ようひ&amp;ogmusic=封印されし神々&amp;fromwiki=Logical_Box_＃1"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E3%82%88%E3%81%86%E3%81%B2&amp;action=edit&amp;redlink=1" class="new" title="ようひ（页面不存在）">ようひ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，ようひ&amp;fromwiki=Logical_Box_＃1"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=封印されし神々&amp;fromwiki=Logical_Box_＃1"><span></span></a></span><div class="ogmusic"><a href="./封印されし神々.md" class="mw-redirect" title="封印されし神々">封印されし神々</a></div><div class="source"><a href="./东方风神录_～_Mountain_of_Faith..md" class="mw-redirect" title="东方风神录 ～ Mountain of Faith.">东方风神录　～ Mountain of Faith.</a></div></td></tr>
-<tr><td id="2" class="infoYD"><b>02</b></td><td id="Pure_Piety" colspan="2" class="title">Pure Piety<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=ようひ&amp;ogmusic=信仰は儚き人間の為に&amp;fromwiki=Logical_Box_＃1"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E3%82%88%E3%81%86%E3%81%B2&amp;action=edit&amp;redlink=1" class="new" title="ようひ（页面不存在）">ようひ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，ようひ&amp;fromwiki=Logical_Box_＃1"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=信仰は儚き人間の為に&amp;fromwiki=Logical_Box_＃1"><span></span></a></span><div class="ogmusic"><a href="./信仰は儚き人間の為に.md" class="mw-redirect" title="信仰は儚き人間の為に">信仰は儚き人間の為に</a></div><div class="source"><a href="./东方风神录_～_Mountain_of_Faith..md" class="mw-redirect" title="东方风神录 ～ Mountain of Faith.">东方风神录　～ Mountain of Faith.</a></div></td></tr>
-<tr><td id="3" class="infoYD"><b>03</b></td><td id="Das_In-der-welt-sein" colspan="2" class="title">Das In-der-welt-sein<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=ようひ&amp;ogmusic=ハートフェルトファンシー&amp;fromwiki=Logical_Box_＃1"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E3%82%88%E3%81%86%E3%81%B2&amp;action=edit&amp;redlink=1" class="new" title="ようひ（页面不存在）">ようひ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，ようひ&amp;fromwiki=Logical_Box_＃1"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=ハートフェルトファンシー&amp;fromwiki=Logical_Box_＃1"><span></span></a></span><div class="ogmusic"><a href="./ハートフェルトファンシー.md" class="mw-redirect" title="ハートフェルトファンシー">ハートフェルトファンシー</a></div><div class="source"><a href="./东方地灵殿_～_Subterranean_Animism..md" class="mw-redirect" title="东方地灵殿 ～ Subterranean Animism.">东方地灵殿　～ Subterranean Animism.</a></div></td></tr>
-<tr><td id="4" class="infoYD"><b>04</b></td><td id="Thunderbolt" colspan="2" class="title">Thunderbolt<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=ようひ&amp;ogmusic=風神少女&amp;fromwiki=Logical_Box_＃1"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E3%82%88%E3%81%86%E3%81%B2&amp;action=edit&amp;redlink=1" class="new" title="ようひ（页面不存在）">ようひ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，ようひ&amp;fromwiki=Logical_Box_＃1"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=風神少女&amp;fromwiki=Logical_Box_＃1"><span></span></a></span><div class="ogmusic"><a href="./風神少女.md" class="mw-redirect" title="風神少女">風神少女</a></div><div class="source"><a href="./东方文花帖_～_Shoot_the_Bullet..md" class="mw-redirect" title="东方文花帖 ～ Shoot the Bullet.">东方文花帖　～ Shoot the Bullet.</a></div></td></tr></tbody></table>
-
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Logical_Introduction" colspan="2" class="title">Logical Introduction</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="ようひ（页面不存在）">ようひ</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./被封印的众神.md" class="mw-redirect" title="封印されし神々">封印されし神々</a></div><div class="source"><a href="./东方风神录.md" class="mw-redirect" title="东方风神录 ～ Mountain of Faith.">东方风神录　～ Mountain of Faith.</a></div></td></tr>
+<tr><td id="2" class="infoYD"><b>02</b></td><td id="Pure_Piety" colspan="2" class="title">Pure Piety</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="ようひ（页面不存在）">ようひ</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./信仰是为了虚幻之人.md" class="mw-redirect" title="信仰は儚き人間の為に">信仰は儚き人間の為に</a></div><div class="source"><a href="./东方风神录.md" class="mw-redirect" title="东方风神录 ～ Mountain of Faith.">东方风神录　～ Mountain of Faith.</a></div></td></tr>
+<tr><td id="3" class="infoYD"><b>03</b></td><td id="Das_In-der-welt-sein" colspan="2" class="title">Das In-der-welt-sein</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="ようひ（页面不存在）">ようひ</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./Heartfelt_Fancy.md" class="mw-redirect" title="ハートフェルトファンシー">ハートフェルトファンシー</a></div><div class="source"><a href="./东方地灵殿.md" class="mw-redirect" title="东方地灵殿 ～ Subterranean Animism.">东方地灵殿　～ Subterranean Animism.</a></div></td></tr>
+<tr><td id="4" class="infoYD"><b>04</b></td><td id="Thunderbolt" colspan="2" class="title">Thunderbolt</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="ようひ（页面不存在）">ようひ</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./风神少女.md" class="mw-redirect" title="風神少女">風神少女</a></div><div class="source"><a href="./东方文花帖.md" class="mw-redirect" title="东方文花帖 ～ Shoot the Bullet.">东方文花帖　～ Shoot the Bullet.</a></div></td></tr></tbody></table>
 
 
 ## 评论
-
-
-
 
 ---
 

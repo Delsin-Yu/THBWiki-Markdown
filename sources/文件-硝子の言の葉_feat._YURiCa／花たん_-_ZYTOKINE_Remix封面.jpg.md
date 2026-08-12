@@ -1,6 +1,6 @@
 # 文件:硝子の言の葉_feat._YURiCa／花たん_-_ZYTOKINE_Remix封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\19\ns6%3A%E7%A1%9D%E5%AD%90%E3%81%AE%E8%A8%80%E3%81%AE%E8%91%89_feat%2E_YURiCa%EF%BC%8F%E8%8A%B1%E3%81%9F%E3%82%93_-_ZYTOKINE_Remix%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\19\ns6%3A%E7%A1%9D%E5%AD%90%E3%81%AE%E8%A8%80%E3%81%AE%E8%91%89_feat%2E_YURiCa%EF%BC%8F%E8%8A%B1%E3%81%9F%E3%82%93_-_ZYTOKINE_Remix%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ZYTOKINE | 专辑封面 | 封面图片
 
@@ -10,11 +10,9 @@ ZYTOKINE | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [硝子の言の葉 feat. YURiCa／花たん - ZYTOKINE Remix](./硝子の言の葉_feat._YURiCa／花たん_-_ZYTOKINE_Remix.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [硝子の言の葉 feat. YURiCa／花たん - ZYTOKINE Remix](./硝子の言の葉_feat._YURiCa／花たん_-_ZYTOKINE_Remix.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

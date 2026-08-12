@@ -1,6 +1,6 @@
 # 文件:八雲RUN封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a9\ns6%3A%E5%85%AB%E9%9B%B2RUN%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a9\ns6%3A%E5%85%AB%E9%9B%B2RUN%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 イタリアンハスキー | 同人志封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [八雲RUN](./八雲RUN.md)  
-该封面包含的角色：- [八云蓝](./八云蓝.md)
-
-
-
+- [八雲RUN](./八雲RUN.md)该封面包含的角色：
+- [八云蓝](./八云蓝.md)
 
 
 ---

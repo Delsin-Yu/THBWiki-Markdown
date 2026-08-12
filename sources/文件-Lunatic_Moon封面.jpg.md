@@ -1,6 +1,6 @@
 # 文件:Lunatic_Moon封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d3\ns6%3ALunatic_Moon%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d3\ns6%3ALunatic_Moon%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Moonlight_Magic | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ Moonlight_Magic | 专辑封面 | 封面图片
   
 
 - [Lunatic Moon](./Lunatic_Moon.md)
-
-
-
 
 
 ---

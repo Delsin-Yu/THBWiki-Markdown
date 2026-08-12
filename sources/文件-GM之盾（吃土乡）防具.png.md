@@ -1,12 +1,8 @@
 # 文件:GM之盾（吃土乡）防具.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\23\ns6%3AGM%E4%B9%8B%E7%9B%BE%EF%BC%88%E5%90%83%E5%9C%9F%E4%B9%A1%EF%BC%89%E9%98%B2%E5%85%B7%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\23\ns6%3AGM%E4%B9%8B%E7%9B%BE%EF%BC%88%E5%90%83%E5%9C%9F%E4%B9%A1%EF%BC%89%E9%98%B2%E5%85%B7%2Epng.html -->
 
 妖怪山地下实验室
-
-
-
-
 
 
 ---

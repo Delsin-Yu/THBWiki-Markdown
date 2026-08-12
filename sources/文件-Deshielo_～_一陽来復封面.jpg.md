@@ -1,6 +1,6 @@
 # 文件:Deshielo_～_一陽来復封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c1\ns6%3ADeshielo_%EF%BD%9E_%E4%B8%80%E9%99%BD%E6%9D%A5%E5%BE%A9%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c1\ns6%3ADeshielo_%EF%BD%9E_%E4%B8%80%E9%99%BD%E6%9D%A5%E5%BE%A9%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ジャージと愉快な仲間たち | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Deshielo ～ 一陽来復](./Deshielo_～_一陽来復.md)  
-该封面包含的角色：- [摩多罗隐岐奈](./摩多罗隐岐奈.md)
+- [Deshielo ～ 一陽来復](./Deshielo_～_一陽来復.md)该封面包含的角色：
+- [摩多罗隐岐奈](./摩多罗隐岐奈.md)
 
   
-源地址：[direct image link (max size)](http://7775.jp/ddquino/wp-content/uploads/2022/05/deshielo.jpg), [source page (cover artist site)](http://7775.jp/archives/338)
-  
-
-
-
-
+源地址：[direct image link (max size)](http://7775.jp/ddquino/wp-content/uploads/2022/05/deshielo.jpg), [source page (cover artist site)](http://7775.jp/archives/338)  
 
 ---
 

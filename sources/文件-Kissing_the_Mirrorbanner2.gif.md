@@ -1,14 +1,11 @@
 # 文件:Kissing_the_Mirrorbanner2.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6b\ns6%3AKissing_the_Mirrorbanner2%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6b\ns6%3AKissing_the_Mirrorbanner2%2Egif.html -->
 
 Kissing_the_Mirror | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

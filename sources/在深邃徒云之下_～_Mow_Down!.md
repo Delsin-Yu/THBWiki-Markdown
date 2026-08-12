@@ -1,41 +1,31 @@
 # 在深邃徒云之下_～_Mow_Down!
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\7\71\ns0%3A%E5%9C%A8%E6%B7%B1%E9%82%83%E5%BE%92%E4%BA%91%E4%B9%8B%E4%B8%8B_%EF%BD%9E_Mow_Down%21.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\7\71\ns0%3A%E5%9C%A8%E6%B7%B1%E9%82%83%E5%BE%92%E4%BA%91%E4%B9%8B%E4%B8%8B_%EF%BD%9E_Mow_Down%21.html -->
 
 JynX作曲 | 在深邃徒云之下_～_Mow_Down! | 引用了翻译表的页面 | 连缘Project | 连缘Project官方音乐
 
-本页是关于 **向[东方Project](./东方Project.md)  
-致敬、形式类似的作品** 的词条
-
+本页是关于**向[东方Project](./东方Project.md)致敬、形式类似的作品**  
+的词条
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 出现作品](#出现作品)
 - [3 音乐文件](#音乐文件)
-
   - [3.1 连缘蛇丛剑](#连缘蛇丛剑)
   - [3.2 连缘天影战记](#连缘天影战记)
 
 
-
 - [4 说明文本](#说明文本)
-
   - [4.1 连缘蛇丛剑](#连缘蛇丛剑_2)
   - [4.2 连缘天影战记](#连缘天影战记_2)
 
 
-
 - [5 其他资料](#其他资料)
-
   - [5.1 乐理资讯](#乐理资讯)
   - [5.2 分析考据](#分析考据)
 
 
-
 - [6 注释](#注释)
-
-
-
 
 
 ## 基本信息
@@ -62,7 +52,6 @@ JynX作曲 | 在深邃徒云之下_～_Mow_Down! | 引用了翻译表的页面 |
 </td></tr></tbody></table>
 
 
-
 ## 出现作品
 
 <table>
@@ -72,7 +61,6 @@ JynX作曲 | 在深邃徒云之下_～_Mow_Down! | 引用了翻译表的页面 |
 </tbody></table>
 
 
-
 ## 音乐文件
 
 ### 连缘蛇丛剑
@@ -80,17 +68,16 @@ JynX作曲 | 在深邃徒云之下_～_Mow_Down! | 引用了翻译表的页面 |
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>MIDI格式</b></td><td>无播放信息</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-le02_13.mp3.md" title="文件:le02 13.mp3">le02_13.mp3</a><br><audio src="https://upload.thwiki.cc/5/51/le02_13.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>未填写</td></tr></tbody></table>
 
 
-
 ### 连缘天影战记
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>MIDI格式</b></td><td>无播放信息</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-le04_BOSS_Yaorochi.mp3.md" title="文件:le04 BOSS Yaorochi.mp3">le04_BOSS_Yaorochi.mp3</a><br><audio src="https://upload.thwiki.cc/9/91/le04_BOSS_Yaorochi.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>未填写</td></tr></tbody></table>
 
 
-
 ## 说明文本
 
 ### 连缘蛇丛剑
-- Music Room (未找到链接)
+
+- [Music Room](./连缘蛇丛剑～Earthen_Miraculous_Sword-Music.md#6面BOSS-徒云八尾吕智主题曲)
 
 六面boss 徒云 八尾吕智的主题曲。  
 好....好长...  
@@ -107,9 +94,9 @@ JynX作曲 | 在深邃徒云之下_～_Mow_Down! | 引用了翻译表的页面 |
   
 但威力大概比那个更高哦，八尾吕智的斩击。  
 (仅限使用“剑”的场合)
-
 ### 连缘天影战记
-- Music Room (未找到链接)
+
+- [Music Room](./连缘天影战记～Brilliant_pagoda_or_haze_castle-Music.md#中立线6面Boss-徒云八尾吕智主题曲)
 
 六面BOSS，八尾吕智的曲子。  
   
@@ -121,19 +108,21 @@ JynX作曲 | 在深邃徒云之下_～_Mow_Down! | 引用了翻译表的页面 |
 从各种方面来说都很难。  
   
 这回没有成为自机真遗憾呢。
-
 ## 其他资料
 
 ### 乐理资讯
 
 ### 分析考据
-- 在深邃徒云之下
-  - 徒云意为“即刻消散的云彩”，与“丛云”对应。徒云也是[徒云八尾吕智](./徒云八尾吕智.md)的姓。
+
+- 在深邃徒云之下 
+  - 徒云意为“即刻消散的云彩”，与“丛云”对应。徒云也是[徒云八尾吕智](./徒云八尾吕智.md)的姓。 
     - [蛇丛剑](./连缘蛇丛剑～Earthen_Miraculous_Sword.md)一作异变的开端为一团巨大厚重的云被固定似的在仪式场上方一动不动。后来云团被八尾吕智一刀两断，所以是“徒云”。
+
 
   - 六面场景就在仪式场内部，云团的下方。
 
-- Mow Down
+
+- Mow Down 
   - 意为 ~~割草~~ ，扫灭，杀死
   - 八尾吕智有横断丛云之类的能力，且在最后把云团一刀两断。
   - 在八尾吕智的设定文档中提到，相传蛇丛剑一挥可横扫千万草木，甚至能斩断熊熊燃焰。
@@ -141,10 +130,6 @@ JynX作曲 | 在深邃徒云之下_～_Mow_Down! | 引用了翻译表的页面 |
 
 
 [^cite_note-犹巴老师-1]: 《风之谷》中娜乌西卡的导师，“腐海第一剑客”犹巴·米拉尔达。
-
-
-
-
 
 ---
 

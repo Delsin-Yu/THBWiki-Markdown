@@ -1,6 +1,6 @@
 # 文件:Ogre's_HARDCORE封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\65\ns6%3AOgre%27s_HARDCORE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\65\ns6%3AOgre%27s_HARDCORE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Snow*Mark | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@ Snow*Mark | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Ogre's HARDCORE](./Ogre's_HARDCORE.md)  
-该封面包含的角色：- [伊吹萃香](./伊吹萃香.md)
+- [Ogre's HARDCORE](./Ogre's_HARDCORE.md)该封面包含的角色：
+- [伊吹萃香](./伊吹萃香.md)
 
   
-源地址：[[1]](https://web.archive.org/web/20130702001342im_/http://notes.soragoto.net/css/image/logoOH.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://web.archive.org/web/20130702001342im_/http://notes.soragoto.net/css/image/logoOH.jpg)  
 
 ---
 

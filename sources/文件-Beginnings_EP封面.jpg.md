@@ -1,6 +1,6 @@
 # 文件:Beginnings_EP封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b1\ns6%3ABeginnings_EP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b1\ns6%3ABeginnings_EP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Nocturnal_Aura | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ Nocturnal_Aura | 专辑封面 | 封面图片
   
 
 - [Beginnings EP](./Beginnings_EP.md)
-
-
-
 
 
 ---

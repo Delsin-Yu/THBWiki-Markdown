@@ -1,6 +1,6 @@
 # 東方魔幻想/迷你游戏/毛玉STG
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\2d\ns0%3A%E6%9D%B1%E6%96%B9%E9%AD%94%E5%B9%BB%E6%83%B3%2F%E8%BF%B7%E4%BD%A0%E6%B8%B8%E6%88%8F%2F%E6%AF%9B%E7%8E%89STG.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\2d\ns0%3A%E6%9D%B1%E6%96%B9%E9%AD%94%E5%B9%BB%E6%83%B3%2F%E8%BF%B7%E4%BD%A0%E6%B8%B8%E6%88%8F%2F%E6%AF%9B%E7%8E%89STG.html -->
 
 hauru
 
@@ -8,7 +8,6 @@ hauru
 共3残，没有Bomb。只能在地面以方向键运动，只能向上以Z键发射符札。
 会有大量毛玉从上版弹出，并在版边反弹。
 根据分数不同，有不同实绩及奖品。
-
 
 <table>
 <tbody><tr>
@@ -47,10 +46,6 @@ hauru
 <td>毛玉的结晶石 <br> 毛玉成为可加入角色
 </td></tr>
 </tbody></table>
-
-
-
-
 
 
 ---

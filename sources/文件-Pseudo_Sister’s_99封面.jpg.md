@@ -1,6 +1,6 @@
 # 文件:Pseudo_Sister’s_99封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\69\ns6%3APseudo_Sister%E2%80%99s_99%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\69\ns6%3APseudo_Sister%E2%80%99s_99%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ぬまうおハウス | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [Pseudo Sister’s 99](./Pseudo_Sister’s_99.md)  
-该封面包含的角色：- [九十九弁弁](./九十九弁弁.md)- [九十九八桥](./九十九八桥.md)
-
-
-
+- [Pseudo Sister’s 99](./Pseudo_Sister’s_99.md)该封面包含的角色：
+- [九十九弁弁](./九十九弁弁.md)
+- [九十九八桥](./九十九八桥.md)
 
 
 ---

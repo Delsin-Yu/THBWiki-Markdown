@@ -1,16 +1,12 @@
 # 模板:津田沼Phantasia
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\0\09\ns10%3A%E6%B4%A5%E7%94%B0%E6%B2%BCPhantasia.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\0\09\ns10%3A%E6%B4%A5%E7%94%B0%E6%B2%BCPhantasia.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:Ephemeria_e.p.封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\15\ns6%3AEphemeria_e%2Ep%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\15\ns6%3AEphemeria_e%2Ep%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 CLOCKWORKS_TRACER | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ CLOCKWORKS_TRACER | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Ephemeria e.p.](./Ephemeria_e.p..md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)
-
-
-
+- [Ephemeria e.p.](./Ephemeria_e.p..md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
 
 
 ---

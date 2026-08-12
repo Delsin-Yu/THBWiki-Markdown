@@ -1,6 +1,6 @@
 # 文件:The_Snowy_Sky封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\66\ns6%3AThe_Snowy_Sky%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\66\ns6%3AThe_Snowy_Sky%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 まんじゅう大爆発 | 同人志封面 | 封面图片
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [The Snowy Sky](./The_Snowy_Sky.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)- [射命丸文](./射命丸文.md)
-
-
-
+- [The Snowy Sky](./The_Snowy_Sky.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
+- [射命丸文](./射命丸文.md)
 
 
 ---

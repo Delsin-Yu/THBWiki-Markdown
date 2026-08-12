@@ -1,6 +1,6 @@
 # 文件:Memento_of_Life封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bc\ns6%3AMemento_of_Life%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bc\ns6%3AMemento_of_Life%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 As／Hi_Soundworks | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ As／Hi_Soundworks | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Memento of Life](./Memento_of_Life.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
+- [Memento of Life](./Memento_of_Life.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-源地址：[[1]](http://static.tumblr.com/f1fda16c0c2601c125746667a047cad3/0ahxako/sRFnrxqnk/tumblr_static_ayn6o6ppw2880gg8cw400sskg.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://static.tumblr.com/f1fda16c0c2601c125746667a047cad3/0ahxako/sRFnrxqnk/tumblr_static_ayn6o6ppw2880gg8cw400sskg.jpg)  
 
 ---
 

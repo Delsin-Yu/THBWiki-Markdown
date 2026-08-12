@@ -1,6 +1,6 @@
 # 文件:re：takes_～best_of_minami's_toho_guitar_works～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\97\ns6%3Are%EF%BC%9Atakes_%EF%BD%9Ebest_of_minami%27s_toho_guitar_works%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\97\ns6%3Are%EF%BC%9Atakes_%EF%BD%9Ebest_of_minami%27s_toho_guitar_works%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 IOSYS | 专辑封面 | 封面图片
 
@@ -8,11 +8,12 @@ IOSYS | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [re：takes ～best of minami's toho guitar works～](./re：takes_～best_of_minami's_toho_guitar_works～.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)- [八云紫](./八云紫.md)- [东风谷早苗](./东风谷早苗.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [re：takes ～best of minami's toho guitar works～](./re：takes_～best_of_minami's_toho_guitar_works～.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [八云紫](./八云紫.md)
+- [东风谷早苗](./东风谷早苗.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

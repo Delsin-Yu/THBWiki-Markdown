@@ -1,18 +1,13 @@
 # 文件:laughing_out_loudlogo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\47\ns6%3Alaughing_out_loudlogo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\47\ns6%3Alaughing_out_loudlogo%2Epng.html -->
 
 laughing_out_loud | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[[1]](http://lollol.client.jp/lolnew.png)
-  
-
-
-
-
+源地址：[\[1\]](http://lollol.client.jp/lolnew.png)  
 
 ---
 

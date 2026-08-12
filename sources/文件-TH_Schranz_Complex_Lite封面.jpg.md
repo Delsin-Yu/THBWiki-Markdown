@@ -1,6 +1,6 @@
 # 文件:TH_Schranz_Complex_Lite封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\40\ns6%3ATH_Schranz_Complex_Lite%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\40\ns6%3ATH_Schranz_Complex_Lite%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 C9 | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ C9 | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [TH Schranz Complex Lite](./TH_Schranz_Complex_Lite.md)  
-该封面包含的角色：- [东风谷早苗](./东风谷早苗.md)
-
-
-
+- [TH Schranz Complex Lite](./TH_Schranz_Complex_Lite.md)该封面包含的角色：
+- [东风谷早苗](./东风谷早苗.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Heart_Disturb_e.p.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\79\ns6%3AHeart_Disturb_e%2Ep%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\79\ns6%3AHeart_Disturb_e%2Ep%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Discovering_the_Place | 专辑封面 | 封面图片
 
@@ -10,19 +10,14 @@ Discovering_the_Place | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Heart Disturb e.p.](./Heart_Disturb_e.p..md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)
+- [Heart Disturb e.p.](./Heart_Disturb_e.p..md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
 
   
-源地址：[direct image link (original size)](https://i1.sndcdn.com/artworks-000078842531-zy9kuk-original.jpg), [source page (Soundcloud)](https://soundcloud.com/inumajin/heart-disturb-ep-xfd)
-  
+源地址：[direct image link (original size)](https://i1.sndcdn.com/artworks-000078842531-zy9kuk-original.jpg), [source page (Soundcloud)](https://soundcloud.com/inumajin/heart-disturb-ep-xfd)  
   
 There's a cover on the release page with different smaller text and logo, but the Soundcloud version is what's used for the actual releases. See [https://www.suruga-ya.jp/product/detail/186131498](https://www.suruga-ya.jp/product/detail/186131498) for comparison
   
-
-
-
-
 
 ---
 

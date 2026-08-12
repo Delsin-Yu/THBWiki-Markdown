@@ -1,14 +1,11 @@
 # 文件:ネオサイクロン中指banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4c\ns6%3A%E3%83%8D%E3%82%AA%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AD%E3%83%B3%E4%B8%AD%E6%8C%87banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4c\ns6%3A%E3%83%8D%E3%82%AA%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AD%E3%83%B3%E4%B8%AD%E6%8C%87banner%2Egif.html -->
 
 ネオサイクロン中指 | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

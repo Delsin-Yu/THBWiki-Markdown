@@ -1,6 +1,6 @@
 # 東方奇界泉_～_Adventures_in_Inferno./Booklet
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\a\a2\ns0%3A%E6%9D%B1%E6%96%B9%E5%A5%87%E7%95%8C%E6%B3%89_%EF%BD%9E_Adventures_in_Inferno%2E%2FBooklet.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\a\a2\ns0%3A%E6%9D%B1%E6%96%B9%E5%A5%87%E7%95%8C%E6%B3%89_%EF%BD%9E_Adventures_in_Inferno%2E%2FBooklet.html -->
 
 スタジオネネム
 
@@ -9,28 +9,12 @@
   
 由于版权原因，本页面仅放出官方通贩的预览图。
   
-
-
-
-
-[](./文件-东方奇界泉Booklet1.jpg.md)
-
+<img alt="第一张" src="https://upload.thwiki.cc/thumb/7/75/%E4%B8%9C%E6%96%B9%E5%A5%87%E7%95%8C%E6%B3%89Booklet1.jpg/300px-%E4%B8%9C%E6%96%B9%E5%A5%87%E7%95%8C%E6%B3%89Booklet1.jpg" decoding="async" loading="lazy" width="300" height="153" srcset="https://upload.thwiki.cc/thumb/7/75/%E4%B8%9C%E6%96%B9%E5%A5%87%E7%95%8C%E6%B3%89Booklet1.jpg/450px-%E4%B8%9C%E6%96%B9%E5%A5%87%E7%95%8C%E6%B3%89Booklet1.jpg 1.5x, https://upload.thwiki.cc/thumb/7/75/%E4%B8%9C%E6%96%B9%E5%A5%87%E7%95%8C%E6%B3%89Booklet1.jpg/600px-%E4%B8%9C%E6%96%B9%E5%A5%87%E7%95%8C%E6%B3%89Booklet1.jpg 2x" data-file-width="899" data-file-height="459">
 第一张
-
-
-[](./文件-东方奇界泉Booklet2.jpg.md)
+<img alt="第二张" src="https://upload.thwiki.cc/thumb/0/02/%E4%B8%9C%E6%96%B9%E5%A5%87%E7%95%8C%E6%B3%89Booklet2.jpg/300px-%E4%B8%9C%E6%96%B9%E5%A5%87%E7%95%8C%E6%B3%89Booklet2.jpg" decoding="async" loading="lazy" width="300" height="153" srcset="https://upload.thwiki.cc/thumb/0/02/%E4%B8%9C%E6%96%B9%E5%A5%87%E7%95%8C%E6%B3%89Booklet2.jpg/450px-%E4%B8%9C%E6%96%B9%E5%A5%87%E7%95%8C%E6%B3%89Booklet2.jpg 1.5x, https://upload.thwiki.cc/thumb/0/02/%E4%B8%9C%E6%96%B9%E5%A5%87%E7%95%8C%E6%B3%89Booklet2.jpg/600px-%E4%B8%9C%E6%96%B9%E5%A5%87%E7%95%8C%E6%B3%89Booklet2.jpg 2x" data-file-width="899" data-file-height="459">
 第二张
-
-
-[](./文件-东方奇界泉Booklet3.jpg.md)
+<img alt="第三张" src="https://upload.thwiki.cc/thumb/3/35/%E4%B8%9C%E6%96%B9%E5%A5%87%E7%95%8C%E6%B3%89Booklet3.jpg/300px-%E4%B8%9C%E6%96%B9%E5%A5%87%E7%95%8C%E6%B3%89Booklet3.jpg" decoding="async" loading="lazy" width="300" height="153" srcset="https://upload.thwiki.cc/thumb/3/35/%E4%B8%9C%E6%96%B9%E5%A5%87%E7%95%8C%E6%B3%89Booklet3.jpg/450px-%E4%B8%9C%E6%96%B9%E5%A5%87%E7%95%8C%E6%B3%89Booklet3.jpg 1.5x, https://upload.thwiki.cc/thumb/3/35/%E4%B8%9C%E6%96%B9%E5%A5%87%E7%95%8C%E6%B3%89Booklet3.jpg/600px-%E4%B8%9C%E6%96%B9%E5%A5%87%E7%95%8C%E6%B3%89Booklet3.jpg 2x" data-file-width="899" data-file-height="459">
 第三张
-
-
-
-
-
-
-
 
 ---
 

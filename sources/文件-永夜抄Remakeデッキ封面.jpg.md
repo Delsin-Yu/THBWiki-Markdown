@@ -1,6 +1,6 @@
 # 文件:永夜抄Remakeデッキ封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\79\ns6%3A%E6%B0%B8%E5%A4%9C%E6%8A%84Remake%E3%83%87%E3%83%83%E3%82%AD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\79\ns6%3A%E6%B0%B8%E5%A4%9C%E6%8A%84Remake%E3%83%87%E3%83%83%E3%82%AD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 テレピン1000ml | 封面图片 | 软件封面
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [永夜抄Remakeデッキ](./永夜抄Remakeデッキ.md)  
-该封面包含的角色：- [因幡帝](./因幡帝.md)- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
-
-
-
+- [永夜抄Remakeデッキ](./永夜抄Remakeデッキ.md)该封面包含的角色：
+- [因幡帝](./因幡帝.md)
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
 
 
 ---

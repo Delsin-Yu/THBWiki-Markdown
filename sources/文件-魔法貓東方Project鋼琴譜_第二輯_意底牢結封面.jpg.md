@@ -1,6 +1,6 @@
 # 文件:魔法貓東方Project鋼琴譜_第二輯_意底牢結封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ae\ns6%3A%E9%AD%94%E6%B3%95%E8%B2%93%E6%9D%B1%E6%96%B9Project%E9%8B%BC%E7%90%B4%E8%AD%9C_%E7%AC%AC%E4%BA%8C%E8%BC%AF_%E6%84%8F%E5%BA%95%E7%89%A2%E7%B5%90%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ae\ns6%3A%E9%AD%94%E6%B3%95%E8%B2%93%E6%9D%B1%E6%96%B9Project%E9%8B%BC%E7%90%B4%E8%AD%9C_%E7%AC%AC%E4%BA%8C%E8%BC%AF_%E6%84%8F%E5%BA%95%E7%89%A2%E7%B5%90%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 恆萃工坊 | 魔法貓音樂工作室
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [魔法貓東方Project鋼琴譜 第二輯 意底牢結](./魔法貓東方Project鋼琴譜_第二輯_意底牢結.md)  
-该封面包含的角色：- [古明地觉](./古明地觉.md)- [古明地恋](./古明地恋.md)
-
-
-
+- [魔法貓東方Project鋼琴譜 第二輯 意底牢結](./魔法貓東方Project鋼琴譜_第二輯_意底牢結.md)该封面包含的角色：
+- [古明地觉](./古明地觉.md)
+- [古明地恋](./古明地恋.md)
 
 
 ---

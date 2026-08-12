@@ -1,6 +1,6 @@
 # 文件:Envy_You_All_Men!封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5c\ns6%3AEnvy_You_All_Men%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5c\ns6%3AEnvy_You_All_Men%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Stygian_Riverside | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Stygian_Riverside | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Envy You All Men!](./Envy_You_All_Men!.md)  
-该封面包含的角色：- [水桥帕露西](./水桥帕露西.md)
-
-
-
+- [Envy You All Men!](./Envy_You_All_Men!.md)该封面包含的角色：
+- [水桥帕露西](./水桥帕露西.md)
 
 
 ---

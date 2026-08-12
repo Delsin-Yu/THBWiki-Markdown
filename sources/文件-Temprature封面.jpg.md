@@ -1,6 +1,6 @@
 # 文件:Temprature封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\37\ns6%3ATemprature%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\37\ns6%3ATemprature%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 色色＊ドロップ
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Temprature](./Temprature.md)  
-该封面包含的角色：- [橙](./橙.md)
+- [Temprature](./Temprature.md)该封面包含的角色：
+- [橙](./橙.md)
 
   
-源地址：[direct image link](https://wox.cc/user/hakuro/o/20110917-115136.jpg), [source page](https://iroirodrop.web.wox.cc/novel/cate1-1.html)
-  
-
-
-
-
+源地址：[direct image link](https://wox.cc/user/hakuro/o/20110917-115136.jpg), [source page](https://iroirodrop.web.wox.cc/novel/cate1-1.html)  
 
 ---
 

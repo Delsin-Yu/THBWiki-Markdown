@@ -1,6 +1,6 @@
 # 文件:Rewind_to_YESTERDAY_-_Bugbeard_TOHO_Remixes_BEST封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e6\ns6%3ARewind_to_YESTERDAY_-_Bugbeard_TOHO_Remixes_BEST%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e6\ns6%3ARewind_to_YESTERDAY_-_Bugbeard_TOHO_Remixes_BEST%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Golden_City_Factory | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Golden_City_Factory | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [rewind to YESTERDAY - Bugbeard TOHO Remixes BEST](./rewind_to_YESTERDAY_-_Bugbeard_TOHO_Remixes_BEST.md)  
-该封面包含的角色：- [村纱水蜜](./村纱水蜜.md)
-
-
-
+- [rewind to YESTERDAY - Bugbeard TOHO Remixes BEST](./rewind_to_YESTERDAY_-_Bugbeard_TOHO_Remixes_BEST.md)该封面包含的角色：
+- [村纱水蜜](./村纱水蜜.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:koitora封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\af\ns6%3Akoitora%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\af\ns6%3Akoitora%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 逆説睡眠
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [koitora](./koitora.md)  
-该封面包含的角色：- [寅丸星](./寅丸星.md)
-
-
-
+- [koitora](./koitora.md)该封面包含的角色：
+- [寅丸星](./寅丸星.md)
 
 
 ---

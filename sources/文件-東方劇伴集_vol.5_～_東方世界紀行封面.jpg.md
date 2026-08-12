@@ -1,6 +1,6 @@
 # 文件:東方劇伴集_vol.5_～_東方世界紀行封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6d\ns6%3A%E6%9D%B1%E6%96%B9%E5%8A%87%E4%BC%B4%E9%9B%86_vol%2E5_%EF%BD%9E_%E6%9D%B1%E6%96%B9%E4%B8%96%E7%95%8C%E7%B4%80%E8%A1%8C%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6d\ns6%3A%E6%9D%B1%E6%96%B9%E5%8A%87%E4%BC%B4%E9%9B%86_vol%2E5_%EF%BD%9E_%E6%9D%B1%E6%96%B9%E4%B8%96%E7%95%8C%E7%B4%80%E8%A1%8C%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 西向く侍
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方劇伴集 vol.5 ～ 東方世界紀行](./東方劇伴集_vol.5_～_東方世界紀行.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
-
-
-
+- [東方劇伴集 vol.5 ～ 東方世界紀行](./東方劇伴集_vol.5_～_東方世界紀行.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:TOHO_DROP_ZONE封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2c\ns6%3ATOHO_DROP_ZONE%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2c\ns6%3ATOHO_DROP_ZONE%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 ClumsyRecord | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ ClumsyRecord | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [TOHO DROP ZONE](./TOHO_DROP_ZONE.md)  
-该封面包含的角色：- [菅牧典](./菅牧典.md)
-
-
-
+- [TOHO DROP ZONE](./TOHO_DROP_ZONE.md)该封面包含的角色：
+- [菅牧典](./菅牧典.md)
 
 
 ---

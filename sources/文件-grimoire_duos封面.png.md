@@ -1,6 +1,6 @@
 # 文件:grimoire_duos封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\16\ns6%3Agrimoire_duos%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\16\ns6%3Agrimoire_duos%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Grimoire_Technology | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Grimoire_Technology | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [grimoire duos](./grimoire_duos.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [grimoire duos](./grimoire_duos.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

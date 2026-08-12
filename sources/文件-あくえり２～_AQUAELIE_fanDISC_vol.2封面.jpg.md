@@ -1,6 +1,6 @@
 # 文件:あくえり２～_AQUAELIE_fanDISC_vol.2封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\82\ns6%3A%E3%81%82%E3%81%8F%E3%81%88%E3%82%8A%EF%BC%92%EF%BD%9E_AQUAELIE_fanDISC_vol%2E2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\82\ns6%3A%E3%81%82%E3%81%8F%E3%81%88%E3%82%8A%EF%BC%92%EF%BD%9E_AQUAELIE_fanDISC_vol%2E2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 AQUAELIE | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ AQUAELIE | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [あくえり２～ AQUAELIE fanDISC vol.2](./あくえり２～_AQUAELIE_fanDISC_vol.2.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [あくえり２～ AQUAELIE fanDISC vol.2](./あくえり２～_AQUAELIE_fanDISC_vol.2.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

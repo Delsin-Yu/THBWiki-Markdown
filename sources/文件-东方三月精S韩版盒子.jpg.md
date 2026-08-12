@@ -1,12 +1,8 @@
 # 文件:东方三月精S韩版盒子.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b5\ns6%3A%E4%B8%9C%E6%96%B9%E4%B8%89%E6%9C%88%E7%B2%BES%E9%9F%A9%E7%89%88%E7%9B%92%E5%AD%90%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b5\ns6%3A%E4%B8%9C%E6%96%B9%E4%B8%89%E6%9C%88%E7%B2%BES%E9%9F%A9%E7%89%88%E7%9B%92%E5%AD%90%2Ejpg.html -->
 
 东方三月精_～_Strange_and_Bright_Nature_Deity. | 韩版官方书籍
-
-
-
-
 
 
 ---

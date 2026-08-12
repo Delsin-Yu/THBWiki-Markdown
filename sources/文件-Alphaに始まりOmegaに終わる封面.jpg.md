@@ -1,6 +1,6 @@
 # 文件:Alphaに始まりOmegaに終わる封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\48\ns6%3AAlpha%E3%81%AB%E5%A7%8B%E3%81%BE%E3%82%8AOmega%E3%81%AB%E7%B5%82%E3%82%8F%E3%82%8B%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\48\ns6%3AAlpha%E3%81%AB%E5%A7%8B%E3%81%BE%E3%82%8AOmega%E3%81%AB%E7%B5%82%E3%82%8F%E3%82%8B%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Suspicion_&_Fear | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Suspicion_&_Fear | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Alphaに始まりOmegaに終わる](./Alphaに始まりOmegaに終わる.md)  
-该封面包含的角色：- [比那名居天子](./比那名居天子.md)
+- [Alphaに始まりOmegaに終わる](./Alphaに始まりOmegaに終わる.md)该封面包含的角色：
+- [比那名居天子](./比那名居天子.md)
 
   
-源地址:[http&#160;://blog-imgs-92.fc2.com/s/u/s/suspicionandfaer/20160421154124131. jpg](http://blog-imgs-92.fc2.com/s/u/s/suspicionandfaer/20160421154124131.jpg)
-  
-
-
-
-
+源地址:[http ://blog-imgs-92.fc2.com/s/u/s/suspicionandfaer/20160421154124131. jpg](http://blog-imgs-92.fc2.com/s/u/s/suspicionandfaer/20160421154124131.jpg)  
 
 ---
 

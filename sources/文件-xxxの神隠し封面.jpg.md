@@ -1,6 +1,6 @@
 # 文件:xxxの神隠し封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\50\ns6%3Axxx%E3%81%AE%E7%A5%9E%E9%9A%A0%E3%81%97%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\50\ns6%3Axxx%E3%81%AE%E7%A5%9E%E9%9A%A0%E3%81%97%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 華胥の永眠（同人社团）
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [xxxの神隠し](./xxxの神隠し.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [xxxの神隠し](./xxxの神隠し.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

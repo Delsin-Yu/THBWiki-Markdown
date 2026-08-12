@@ -1,6 +1,6 @@
 # 文件:PROTO_SOUND_01封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c2\ns6%3APROTO_SOUND_01%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c2\ns6%3APROTO_SOUND_01%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 LiLA'c_Records | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ LiLA'c_Records | 专辑封面 | 封面图片
   
 
 - [PROTO SOUND 01](./PROTO_SOUND_01.md)
-
-
-
 
 
 ---

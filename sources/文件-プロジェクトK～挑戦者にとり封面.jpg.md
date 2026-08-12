@@ -1,6 +1,6 @@
 # 文件:プロジェクトK～挑戦者にとり封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ed\ns6%3A%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88K%EF%BD%9E%E6%8C%91%E6%88%A6%E8%80%85%E3%81%AB%E3%81%A8%E3%82%8A%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ed\ns6%3A%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88K%EF%BD%9E%E6%8C%91%E6%88%A6%E8%80%85%E3%81%AB%E3%81%A8%E3%82%8A%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 アイシーエス | 专辑封面 | 封面图片
 
@@ -8,16 +8,13 @@
 使用了本文件作封面图片的作品：
   
 
-- [プロジェクトK～挑戦者にとり](./プロジェクトK～挑戦者にとり.md)  
-该封面包含的角色：- [小野塚小町](./小野塚小町.md)- [河城荷取](./河城荷取.md)- [雾雨魔理沙](./雾雨魔理沙.md)
+- [プロジェクトK～挑戦者にとり](./プロジェクトK～挑戦者にとり.md)该封面包含的角色：
+- [小野塚小町](./小野塚小町.md)
+- [河城荷取](./河城荷取.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-源地址：[[1]](https://booth.pximg.net/c/620x620/90304454-abcd-498f-baea-f57a85385285/i/59226/bfac2985-82f6-4e53-8fe6-afe87b6ff99b_base_resized.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://booth.pximg.net/c/620x620/90304454-abcd-498f-baea-f57a85385285/i/59226/bfac2985-82f6-4e53-8fe6-afe87b6ff99b_base_resized.jpg)  
 
 ---
 

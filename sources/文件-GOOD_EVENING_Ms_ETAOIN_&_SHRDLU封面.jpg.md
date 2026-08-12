@@ -1,6 +1,6 @@
 # 文件:GOOD_EVENING_Ms_ETAOIN_&_SHRDLU封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\48\ns6%3AGOOD_EVENING_Ms_ETAOIN_%26_SHRDLU%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\48\ns6%3AGOOD_EVENING_Ms_ETAOIN_%26_SHRDLU%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 梶迫小道具店
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [GOOD EVENING Ms ETAOIN &amp; SHRDLU](./GOOD_EVENING_Ms_ETAOIN_&_SHRDLU.md)  
-该封面包含的角色：- [宇佐见莲子](./宇佐见莲子.md)
+- [GOOD EVENING Ms ETAOIN & SHRDLU](./GOOD_EVENING_Ms_ETAOIN_&_SHRDLU.md)该封面包含的角色：
+- [宇佐见莲子](./宇佐见莲子.md)
 
   
-源地址：[[1]](http://ovs.akbh.jp/upload/save_image/pics/2100000065905.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://ovs.akbh.jp/upload/save_image/pics/2100000065905.jpg)  
 
 ---
 

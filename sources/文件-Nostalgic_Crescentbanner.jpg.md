@@ -1,12 +1,8 @@
 # 文件:Nostalgic_Crescentbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ee\ns6%3ANostalgic_Crescentbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ee\ns6%3ANostalgic_Crescentbanner%2Ejpg.html -->
 
 Nostalgic_Crescent | 社团LOGO
-
-
-
-
 
 
 ---

@@ -1,14 +1,11 @@
 # 文件:星光「Star_Storm」（大战争）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2b\ns6%3A%E6%98%9F%E5%85%89%E3%80%8CStar_Storm%E3%80%8D%EF%BC%88%E5%A4%A7%E6%88%98%E4%BA%89%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2b\ns6%3A%E6%98%9F%E5%85%89%E3%80%8CStar_Storm%E3%80%8D%EF%BC%88%E5%A4%A7%E6%88%98%E4%BA%89%EF%BC%89%2Epng.html -->
 
 妖精大战争 | 敌机符卡 | 斯塔萨菲雅
 
 
 ## 文件说明
-
-
-
 
 ---
 

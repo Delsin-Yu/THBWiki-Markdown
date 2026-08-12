@@ -1,12 +1,8 @@
 # 文件:射命丸文（天空璋立绘）no.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\85\ns6%3A%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87%EF%BC%88%E5%A4%A9%E7%A9%BA%E7%92%8B%E7%AB%8B%E7%BB%98%EF%BC%89no%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\85\ns6%3A%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87%EF%BC%88%E5%A4%A9%E7%A9%BA%E7%92%8B%E7%AB%8B%E7%BB%98%EF%BC%89no%2Epng.html -->
 
 ZUN绘 | 东方天空璋 | 官方游戏立绘 | 射命丸文
-
-
-
-
 
 
 ---

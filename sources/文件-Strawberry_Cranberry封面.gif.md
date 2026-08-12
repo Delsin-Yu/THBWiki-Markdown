@@ -1,6 +1,6 @@
 # 文件:Strawberry_Cranberry封面.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\28\ns6%3AStrawberry_Cranberry%E5%B0%81%E9%9D%A2%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\28\ns6%3AStrawberry_Cranberry%E5%B0%81%E9%9D%A2%2Egif.html -->
 
 LOVEマシーン | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ LOVEマシーン | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Strawberry Cranberry](./Strawberry_Cranberry.md)  
-该封面包含的角色：- [红美铃](./红美铃.md)
-
-
-
+- [Strawberry Cranberry](./Strawberry_Cranberry.md)该封面包含的角色：
+- [红美铃](./红美铃.md)
 
 
 ---

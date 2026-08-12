@@ -1,12 +1,8 @@
 # 文件:物部布都（心绮楼Spell_Card立绘）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bc\ns6%3A%E7%89%A9%E9%83%A8%E5%B8%83%E9%83%BD%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BCSpell_Card%E7%AB%8B%E7%BB%98%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bc\ns6%3A%E7%89%A9%E9%83%A8%E5%B8%83%E9%83%BD%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BCSpell_Card%E7%AB%8B%E7%BB%98%EF%BC%89%2Epng.html -->
 
 Alphes绘 | 东方心绮楼 | 官方游戏立绘 | 物部布都
-
-
-
-
 
 
 ---

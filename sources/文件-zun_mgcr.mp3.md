@@ -1,6 +1,6 @@
 # 文件:zun_mgcr.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d4\ns6%3Azun_mgcr%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d4\ns6%3Azun_mgcr%2Emp3.html -->
 
 东方幻想的音乐 | 原曲MP3 | 魔法少女十字军
 
@@ -8,10 +8,6 @@
 魔法少女十字軍　～Little Little Crusader
 此曲为新作发行前，由ZUN重制，与《莲台野夜行》版本相似，但稍有不同。
   
-
-
-
-
 
 ---
 

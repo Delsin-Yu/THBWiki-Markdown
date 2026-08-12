@@ -1,14 +1,11 @@
 # 文件:空色気分_banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fe\ns6%3A%E7%A9%BA%E8%89%B2%E6%B0%97%E5%88%86_banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fe\ns6%3A%E7%A9%BA%E8%89%B2%E6%B0%97%E5%88%86_banner%2Epng.html -->
 
 社团LOGO | 空色気分
 
 
 ## 摘要
-
-
-
 
 ---
 

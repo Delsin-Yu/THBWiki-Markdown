@@ -1,18 +1,13 @@
 # 文件:trickster.jambanner2.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\15\ns6%3Atrickster%2Ejambanner2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\15\ns6%3Atrickster%2Ejambanner2%2Ejpg.html -->
 
 trickster.jam | 社团LOGO
 
 
 ## 摘要
   
-源地址：[direct image link](https://web.archive.org/web/20130528141847im_/http://file.tjam.blog.shinobi.jp/tj_banner2.jpg), [source page](https://web.archive.org/web/20130212114316/http://tjam.nobody.jp:80/)
-  
-
-
-
-
+源地址：[direct image link](https://web.archive.org/web/20130528141847im_/http://file.tjam.blog.shinobi.jp/tj_banner2.jpg), [source page](https://web.archive.org/web/20130212114316/http://tjam.nobody.jp:80/)  
 
 ---
 

@@ -1,14 +1,11 @@
 # 文件:Team_Linkbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1b\ns6%3ATeam_Linkbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1b\ns6%3ATeam_Linkbanner%2Epng.html -->
 
 Team_Link | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

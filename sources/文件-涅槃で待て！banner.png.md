@@ -1,16 +1,11 @@
 # 文件:涅槃で待て！banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6b\ns6%3A%E6%B6%85%E6%A7%83%E3%81%A7%E5%BE%85%E3%81%A6%EF%BC%81banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6b\ns6%3A%E6%B6%85%E6%A7%83%E3%81%A7%E5%BE%85%E3%81%A6%EF%BC%81banner%2Epng.html -->
 
 涅槃で待て！ | 社团LOGO
 
   
-源地址：[[1]](http://gaizan69.up.seesaa.net/image/nehan_banner.png)
-  
-
-
-
-
+源地址：[\[1\]](http://gaizan69.up.seesaa.net/image/nehan_banner.png)  
 
 ---
 

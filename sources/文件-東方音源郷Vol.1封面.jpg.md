@@ -1,6 +1,6 @@
 # 文件:東方音源郷Vol.1封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\84\ns6%3A%E6%9D%B1%E6%96%B9%E9%9F%B3%E6%BA%90%E9%83%B7Vol%2E1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\84\ns6%3A%E6%9D%B1%E6%96%B9%E9%9F%B3%E6%BA%90%E9%83%B7Vol%2E1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 おさないようじょ | 专辑封面 | 封面图片
 
@@ -8,12 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方音源郷Vol.1](./東方音源郷Vol.1.md)  
-该封面包含的角色：- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)源地址：[[1]](http://osayou.net/Discography/2016/oy_ongen_b.jpg)
-
-
-
-
+- [東方音源郷Vol.1](./東方音源郷Vol.1.md)该封面包含的角色：
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
+源地址：[\[1\]](http://osayou.net/Discography/2016/oy_ongen_b.jpg)
 
 ---
 

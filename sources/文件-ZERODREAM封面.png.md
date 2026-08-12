@@ -1,6 +1,6 @@
 # 文件:ZERODREAM封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2e\ns6%3AZERODREAM%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2e\ns6%3AZERODREAM%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Colorful_Umbrella | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Colorful_Umbrella | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [ZERODREAM](./ZERODREAM.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
+- [ZERODREAM](./ZERODREAM.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
   
-源地址：[[1]](http://static.tumblr.com/338d5d473d7a2866cf027d84f7841b74/k2o4z3i/rfHmtow1g/tumblr_static_zerodream.png)
-  
-
-
-
-
+源地址：[\[1\]](http://static.tumblr.com/338d5d473d7a2866cf027d84f7841b74/k2o4z3i/rfHmtow1g/tumblr_static_zerodream.png)  
 
 ---
 

@@ -1,12 +1,8 @@
 # 文件:THD2西尔芙灵纹.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6f\ns6%3ATHD2%E8%A5%BF%E5%B0%94%E8%8A%99%E7%81%B5%E7%BA%B9%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6f\ns6%3ATHD2%E8%A5%BF%E5%B0%94%E8%8A%99%E7%81%B5%E7%BA%B9%2Epng.html -->
 
 AvalonStudioOfficial
-
-
-
-
 
 
 ---

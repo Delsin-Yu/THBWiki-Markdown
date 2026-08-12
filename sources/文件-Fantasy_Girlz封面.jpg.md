@@ -1,6 +1,6 @@
 # 文件:Fantasy_Girlz封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5b\ns6%3AFantasy_Girlz%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5b\ns6%3AFantasy_Girlz%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Chojugiga039_Records | 专辑封面 | 封面图片
 
@@ -10,19 +10,14 @@ Chojugiga039_Records | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Fantasy Girlz](./Fantasy_Girlz.md)  
-该封面包含的角色：- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
+- [Fantasy Girlz](./Fantasy_Girlz.md)该封面包含的角色：
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
 
   
-源地址：[Bandcamp](https://f4.bcbits.com/img/a2033266985_10.jpg)
-  
+源地址：[Bandcamp](https://f4.bcbits.com/img/a2033266985_10.jpg)  
   
 [Higher quality image](https://static.wixstatic.com/media/295251_903f497c0cc045b982602ddb9183d2c3~mv2.png) exists on the release page but there might be an issue with the file size
   
-
-
-
-
 
 ---
 

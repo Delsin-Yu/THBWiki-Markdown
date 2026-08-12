@@ -1,16 +1,12 @@
 # 文件:THBWiki第一代Logo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ce\ns6%3ATHBWiki%E7%AC%AC%E4%B8%80%E4%BB%A3Logo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ce\ns6%3ATHBWiki%E7%AC%AC%E4%B8%80%E4%BB%A3Logo%2Epng.html -->
 
 THBWiki
 
   
 THBWiki的第一代Logo，当时仍然与东方吧关系密切
   
-
-
-
-
 
 ---
 

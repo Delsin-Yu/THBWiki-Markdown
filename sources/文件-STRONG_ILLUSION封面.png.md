@@ -1,6 +1,6 @@
 # 文件:STRONG_ILLUSION封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d1\ns6%3ASTRONG_ILLUSION%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d1\ns6%3ASTRONG_ILLUSION%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 優々自適 | 同人志封面 | 封面图片
 
@@ -10,11 +10,17 @@
 使用了本文件作封面图片的作品：
   
 
-- [STRONG ILLUSION](./STRONG_ILLUSION.md)  
-该封面包含的角色：- [娜兹玲](./娜兹玲.md)- [云居一轮](./云居一轮.md)- [村纱水蜜](./村纱水蜜.md)- [寅丸星](./寅丸星.md)- [圣白莲](./圣白莲.md)- [封兽鵺](./封兽鵺.md)- [幽谷响子](./幽谷响子.md)- [二岩猯藏](./二岩猯藏.md)- [云山](./云山.md)- [依神女苑](./依神女苑.md)
-
-
-
+- [STRONG ILLUSION](./STRONG_ILLUSION.md)该封面包含的角色：
+- [娜兹玲](./娜兹玲.md)
+- [云居一轮](./云居一轮.md)
+- [村纱水蜜](./村纱水蜜.md)
+- [寅丸星](./寅丸星.md)
+- [圣白莲](./圣白莲.md)
+- [封兽鵺](./封兽鵺.md)
+- [幽谷响子](./幽谷响子.md)
+- [二岩猯藏](./二岩猯藏.md)
+- [云山](./云山.md)
+- [依神女苑](./依神女苑.md)
 
 
 ---

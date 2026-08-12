@@ -1,6 +1,6 @@
 # 文件:Aki-秋-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8a\ns6%3AAki-%E7%A7%8B-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8a\ns6%3AAki-%E7%A7%8B-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 GET_IN_THE_RING | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ GET_IN_THE_RING | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Aki-秋-](./Aki-秋-.md)  
-该封面包含的角色：- [河城荷取](./河城荷取.md)
+- [Aki-秋-](./Aki-秋-.md)该封面包含的角色：
+- [河城荷取](./河城荷取.md)
 
   
-源地址：[[1]](http://static.tumblr.com/0ada8d2952957104cebd2d8db95adf0b/utfmbio/h9poeb73z/tumblr_static_4x2z9kxcnbc4kk8so4g8gw0c4.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://static.tumblr.com/0ada8d2952957104cebd2d8db95adf0b/utfmbio/h9poeb73z/tumblr_static_4x2z9kxcnbc4kk8so4g8gw0c4.jpg)  
 
 ---
 

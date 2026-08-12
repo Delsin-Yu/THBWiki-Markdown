@@ -1,12 +1,8 @@
 # 文件:LION_HEART_banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5b\ns6%3ALION_HEART_banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5b\ns6%3ALION_HEART_banner%2Egif.html -->
 
 LION_HEART | 社团LOGO
-
-
-
-
 
 
 ---

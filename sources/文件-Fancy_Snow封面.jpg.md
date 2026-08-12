@@ -1,6 +1,6 @@
 # 文件:Fancy_Snow封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\91\ns6%3AFancy_Snow%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\91\ns6%3AFancy_Snow%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 hajime-saku- | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ hajime-saku- | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Fancy Snow](./Fancy_Snow.md)  
-该封面包含的角色：- [古明地觉](./古明地觉.md)
+- [Fancy Snow](./Fancy_Snow.md)该封面包含的角色：
+- [古明地觉](./古明地觉.md)
 
   
-源地址：[[1]](http://static.tumblr.com/c4a6cc9f7f60c09972b3c392353680a8/c0hi7o7/eiengmjq8/tumblr_static_40rkn6mwjuiocwcs0owos0swo.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://static.tumblr.com/c4a6cc9f7f60c09972b3c392353680a8/c0hi7o7/eiengmjq8/tumblr_static_40rkn6mwjuiocwcs0owos0swo.jpg)  
 
 ---
 

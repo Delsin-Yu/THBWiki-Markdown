@@ -1,12 +1,8 @@
 # 文件:弹幕天邪鬼_Gold_Rush操作说明书.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\51\ns6%3A%E5%BC%B9%E5%B9%95%E5%A4%A9%E9%82%AA%E9%AC%BC_Gold_Rush%E6%93%8D%E4%BD%9C%E8%AF%B4%E6%98%8E%E4%B9%A6%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\51\ns6%3A%E5%BC%B9%E5%B9%95%E5%A4%A9%E9%82%AA%E9%AC%BC_Gold_Rush%E6%93%8D%E4%BD%9C%E8%AF%B4%E6%98%8E%E4%B9%A6%2Ejpg.html -->
 
 弹幕天邪鬼
-
-
-
-
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:TISPCL.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\90\ns6%3ATISPCL%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\90\ns6%3ATISPCL%2Epng.html -->
 
 曲奇
-
-
-
-
 
 
 ---

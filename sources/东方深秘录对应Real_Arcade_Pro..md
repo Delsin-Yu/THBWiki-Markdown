@@ -1,25 +1,20 @@
 # 东方深秘录对应Real_Arcade_Pro.
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\2a\ns0%3A%E4%B8%9C%E6%96%B9%E6%B7%B1%E7%A7%98%E5%BD%95%E5%AF%B9%E5%BA%94Real_Arcade_Pro%2E.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\2a\ns0%3A%E4%B8%9C%E6%96%B9%E6%B7%B1%E7%A7%98%E5%BD%95%E5%AF%B9%E5%BA%94Real_Arcade_Pro%2E.html -->
 
 HORI | 东方深秘录 | 官方周边 | 黄昏边境
 
 本页是关于东方Project  
- **相关实体周边 (未找到链接)** 的词条
+**相关实体周边 (未找到链接)**的词条
 ## 概述
   
-<big> **东方深秘录对应Real Arcade Pro. 灵梦Ver.**   
-</big>
+<big>**东方深秘录对应Real Arcade Pro. 灵梦Ver.**</big>
 東方深秘録対応リアルアーケードPro. 霊夢Ver.  
-
-<big> **东方深秘录对应Real Arcade Pro. 魔理沙Ver.**   
-</big>
+<big>**东方深秘录对应Real Arcade Pro. 魔理沙Ver.**</big>
 東方深秘録対応リアルアーケードPro. 魔理沙Ver.  
 
 本作品是东方Project的官方周边。  
-
   
-
 
 <table>
 <tbody><tr>
@@ -27,38 +22,19 @@ HORI | 东方深秘录 | 官方周边 | 黄昏边境
 </tr>
 <tr><td style="width:150px"><b>制作方</b></td><td style="width:350px"><a href="./HORI.md" title="HORI">HORI</a></td></tr><tr><td><b>类型</b></td><td>游戏操控手台</td></tr><tr><td><b>发布日期</b></td><td>2016年12月8日</td></tr><tr><td><b>售价</b></td><td>16980日元（每款）</td></tr></tbody></table>
 
-
   
 与官方游戏TH14.5[东方深秘录](./东方深秘录.md)PS4版同期发售的游戏操控手台，由HORI制作，插画为[春河萌](./春河萌.md)绘制。
   
 
-
 ## 实物展示
-
-
-
-[](./文件-东方深秘录对应Real_Arcade_Pro._灵梦Ver.封面.jpg.md)
-
+<img alt="灵梦Ver.封面" src="https://upload.thwiki.cc/thumb/c/c5/%E4%B8%9C%E6%96%B9%E6%B7%B1%E7%A7%98%E5%BD%95%E5%AF%B9%E5%BA%94Real_Arcade_Pro._%E7%81%B5%E6%A2%A6Ver.%E5%B0%81%E9%9D%A2.jpg/153px-%E4%B8%9C%E6%96%B9%E6%B7%B1%E7%A7%98%E5%BD%95%E5%AF%B9%E5%BA%94Real_Arcade_Pro._%E7%81%B5%E6%A2%A6Ver.%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="153" height="153" srcset="https://upload.thwiki.cc/thumb/c/c5/%E4%B8%9C%E6%96%B9%E6%B7%B1%E7%A7%98%E5%BD%95%E5%AF%B9%E5%BA%94Real_Arcade_Pro._%E7%81%B5%E6%A2%A6Ver.%E5%B0%81%E9%9D%A2.jpg/230px-%E4%B8%9C%E6%96%B9%E6%B7%B1%E7%A7%98%E5%BD%95%E5%AF%B9%E5%BA%94Real_Arcade_Pro._%E7%81%B5%E6%A2%A6Ver.%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/c/c5/%E4%B8%9C%E6%96%B9%E6%B7%B1%E7%A7%98%E5%BD%95%E5%AF%B9%E5%BA%94Real_Arcade_Pro._%E7%81%B5%E6%A2%A6Ver.%E5%B0%81%E9%9D%A2.jpg/306px-%E4%B8%9C%E6%96%B9%E6%B7%B1%E7%A7%98%E5%BD%95%E5%AF%B9%E5%BA%94Real_Arcade_Pro._%E7%81%B5%E6%A2%A6Ver.%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1000" data-file-height="1000">
 灵梦Ver.封面
-
-
-[](./文件-东方深秘录对应Real_Arcade_Pro._灵梦Ver.实物.jpg.md)
+<img alt="灵梦Ver." src="https://upload.thwiki.cc/thumb/2/29/%E4%B8%9C%E6%96%B9%E6%B7%B1%E7%A7%98%E5%BD%95%E5%AF%B9%E5%BA%94Real_Arcade_Pro._%E7%81%B5%E6%A2%A6Ver.%E5%AE%9E%E7%89%A9.jpg/320px-%E4%B8%9C%E6%96%B9%E6%B7%B1%E7%A7%98%E5%BD%95%E5%AF%B9%E5%BA%94Real_Arcade_Pro._%E7%81%B5%E6%A2%A6Ver.%E5%AE%9E%E7%89%A9.jpg" decoding="async" loading="lazy" width="320" height="153" srcset="https://upload.thwiki.cc/thumb/2/29/%E4%B8%9C%E6%96%B9%E6%B7%B1%E7%A7%98%E5%BD%95%E5%AF%B9%E5%BA%94Real_Arcade_Pro._%E7%81%B5%E6%A2%A6Ver.%E5%AE%9E%E7%89%A9.jpg/480px-%E4%B8%9C%E6%96%B9%E6%B7%B1%E7%A7%98%E5%BD%95%E5%AF%B9%E5%BA%94Real_Arcade_Pro._%E7%81%B5%E6%A2%A6Ver.%E5%AE%9E%E7%89%A9.jpg 1.5x, https://upload.thwiki.cc/thumb/2/29/%E4%B8%9C%E6%96%B9%E6%B7%B1%E7%A7%98%E5%BD%95%E5%AF%B9%E5%BA%94Real_Arcade_Pro._%E7%81%B5%E6%A2%A6Ver.%E5%AE%9E%E7%89%A9.jpg/640px-%E4%B8%9C%E6%96%B9%E6%B7%B1%E7%A7%98%E5%BD%95%E5%AF%B9%E5%BA%94Real_Arcade_Pro._%E7%81%B5%E6%A2%A6Ver.%E5%AE%9E%E7%89%A9.jpg 2x" data-file-width="1200" data-file-height="573">
 灵梦Ver.
-
-
-[](./文件-东方深秘录对应Real_Arcade_Pro._魔理沙Ver.封面.jpg.md)
+<img alt="魔理沙Ver.封面" src="https://upload.thwiki.cc/thumb/8/86/%E4%B8%9C%E6%96%B9%E6%B7%B1%E7%A7%98%E5%BD%95%E5%AF%B9%E5%BA%94Real_Arcade_Pro._%E9%AD%94%E7%90%86%E6%B2%99Ver.%E5%B0%81%E9%9D%A2.jpg/153px-%E4%B8%9C%E6%96%B9%E6%B7%B1%E7%A7%98%E5%BD%95%E5%AF%B9%E5%BA%94Real_Arcade_Pro._%E9%AD%94%E7%90%86%E6%B2%99Ver.%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="153" height="153" srcset="https://upload.thwiki.cc/thumb/8/86/%E4%B8%9C%E6%96%B9%E6%B7%B1%E7%A7%98%E5%BD%95%E5%AF%B9%E5%BA%94Real_Arcade_Pro._%E9%AD%94%E7%90%86%E6%B2%99Ver.%E5%B0%81%E9%9D%A2.jpg/230px-%E4%B8%9C%E6%96%B9%E6%B7%B1%E7%A7%98%E5%BD%95%E5%AF%B9%E5%BA%94Real_Arcade_Pro._%E9%AD%94%E7%90%86%E6%B2%99Ver.%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/8/86/%E4%B8%9C%E6%96%B9%E6%B7%B1%E7%A7%98%E5%BD%95%E5%AF%B9%E5%BA%94Real_Arcade_Pro._%E9%AD%94%E7%90%86%E6%B2%99Ver.%E5%B0%81%E9%9D%A2.jpg/306px-%E4%B8%9C%E6%96%B9%E6%B7%B1%E7%A7%98%E5%BD%95%E5%AF%B9%E5%BA%94Real_Arcade_Pro._%E9%AD%94%E7%90%86%E6%B2%99Ver.%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1000" data-file-height="1000">
 魔理沙Ver.封面
-
-
-[](./文件-东方深秘录对应Real_Arcade_Pro._魔理沙Ver.实物.jpg.md)
+<img alt="魔理沙Ver." src="https://upload.thwiki.cc/thumb/2/2b/%E4%B8%9C%E6%96%B9%E6%B7%B1%E7%A7%98%E5%BD%95%E5%AF%B9%E5%BA%94Real_Arcade_Pro._%E9%AD%94%E7%90%86%E6%B2%99Ver.%E5%AE%9E%E7%89%A9.jpg/305px-%E4%B8%9C%E6%96%B9%E6%B7%B1%E7%A7%98%E5%BD%95%E5%AF%B9%E5%BA%94Real_Arcade_Pro._%E9%AD%94%E7%90%86%E6%B2%99Ver.%E5%AE%9E%E7%89%A9.jpg" decoding="async" loading="lazy" width="305" height="153" srcset="https://upload.thwiki.cc/thumb/2/2b/%E4%B8%9C%E6%96%B9%E6%B7%B1%E7%A7%98%E5%BD%95%E5%AF%B9%E5%BA%94Real_Arcade_Pro._%E9%AD%94%E7%90%86%E6%B2%99Ver.%E5%AE%9E%E7%89%A9.jpg/458px-%E4%B8%9C%E6%96%B9%E6%B7%B1%E7%A7%98%E5%BD%95%E5%AF%B9%E5%BA%94Real_Arcade_Pro._%E9%AD%94%E7%90%86%E6%B2%99Ver.%E5%AE%9E%E7%89%A9.jpg 1.5x, https://upload.thwiki.cc/thumb/2/2b/%E4%B8%9C%E6%96%B9%E6%B7%B1%E7%A7%98%E5%BD%95%E5%AF%B9%E5%BA%94Real_Arcade_Pro._%E9%AD%94%E7%90%86%E6%B2%99Ver.%E5%AE%9E%E7%89%A9.jpg/610px-%E4%B8%9C%E6%96%B9%E6%B7%B1%E7%A7%98%E5%BD%95%E5%AF%B9%E5%BA%94Real_Arcade_Pro._%E9%AD%94%E7%90%86%E6%B2%99Ver.%E5%AE%9E%E7%89%A9.jpg 2x" data-file-width="960" data-file-height="483">
 魔理沙Ver.
-
-
-
-
-
-
-
 
 ---
 

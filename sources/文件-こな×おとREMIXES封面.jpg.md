@@ -1,6 +1,6 @@
 # 文件:こな×おとREMIXES封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\27\ns6%3A%E3%81%93%E3%81%AA%C3%97%E3%81%8A%E3%81%A8REMIXES%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\27\ns6%3A%E3%81%93%E3%81%AA%C3%97%E3%81%8A%E3%81%A8REMIXES%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 こなぐすり | 专辑封面 | 封面图片 | 音召缶
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [こな×おとREMIXES](./こな×おとREMIXES.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [こな×おとREMIXES](./こな×おとREMIXES.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

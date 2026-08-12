@@ -1,6 +1,6 @@
 # 文件:My_orrery,_Your_orrery封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8a\ns6%3AMy_orrery%2C_Your_orrery%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8a\ns6%3AMy_orrery%2C_Your_orrery%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Flip_Air_Sound | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ Flip_Air_Sound | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [My orrery, Your orrery](./My_orrery,_Your_orrery.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [My orrery, Your orrery](./My_orrery,_Your_orrery.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Touhou_Mecha_Girl_Series_Beta封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5b\ns6%3ATouhou_Mecha_Girl_Series_Beta%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5b\ns6%3ATouhou_Mecha_Girl_Series_Beta%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Maid_in_China | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@ Maid_in_China | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Touhou Mecha Girl Series Beta](./Touhou_Mecha_Girl_Series_Beta.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
+- [Touhou Mecha Girl Series Beta](./Touhou_Mecha_Girl_Series_Beta.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
   
-源地址：[DeviantArt (original size)](https://www.deviantart.com/yo-chaosangel/art/THMGS-doujin-Cover-for-RG-72378552)
-  
-
-
-
-
+源地址：[DeviantArt (original size)](https://www.deviantart.com/yo-chaosangel/art/THMGS-doujin-Cover-for-RG-72378552)  
 
 ---
 

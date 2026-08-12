@@ -1,16 +1,12 @@
 # 模板:RM同人祭
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\9\99\ns10%3ARM%E5%90%8C%E4%BA%BA%E7%A5%AD.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\9\99\ns10%3ARM%E5%90%8C%E4%BA%BA%E7%A5%AD.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

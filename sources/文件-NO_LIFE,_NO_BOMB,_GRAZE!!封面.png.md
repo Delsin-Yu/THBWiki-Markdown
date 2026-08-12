@@ -1,6 +1,6 @@
 # 文件:NO_LIFE,_NO_BOMB,_GRAZE!!封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cc\ns6%3ANO_LIFE%2C_NO_BOMB%2C_GRAZE%21%21%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cc\ns6%3ANO_LIFE%2C_NO_BOMB%2C_GRAZE%21%21%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 MA.S_ATTACK | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ MA.S_ATTACK | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [NO LIFE, NO BOMB, GRAZE!!](./NO_LIFE,_NO_BOMB,_GRAZE!!.md)  
-该封面包含的角色：- [键山雏](./键山雏.md)
+- [NO LIFE, NO BOMB, GRAZE!!](./NO_LIFE,_NO_BOMB,_GRAZE!!.md)该封面包含的角色：
+- [键山雏](./键山雏.md)
 
   
-源地址：[[1]](https://web.archive.org/web/20111014073142im_/http://masattack.flier.jp/NNG-jacket-small.png)
-  
-
-
-
-
+源地址：[\[1\]](https://web.archive.org/web/20111014073142im_/http://masattack.flier.jp/NNG-jacket-small.png)  
 
 ---
 

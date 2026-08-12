@@ -1,6 +1,6 @@
 # 文件:cirno_out_＃4封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\35\ns6%3Acirno_out_%EF%BC%834%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\35\ns6%3Acirno_out_%EF%BC%834%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 flap+frog | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ flap+frog | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [cirno out ＃4](./cirno_out_＃4.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)
-
-
-
+- [cirno out ＃4](./cirno_out_＃4.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
 
 
 ---

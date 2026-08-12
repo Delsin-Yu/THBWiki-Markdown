@@ -1,12 +1,8 @@
 # 文件:四方山banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\39\ns6%3A%E5%9B%9B%E6%96%B9%E5%B1%B1banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\39\ns6%3A%E5%9B%9B%E6%96%B9%E5%B1%B1banner%2Ejpg.html -->
 
 四方山 | 社团LOGO
-
-
-
-
 
 
 ---

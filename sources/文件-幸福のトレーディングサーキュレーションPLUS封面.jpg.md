@@ -1,6 +1,6 @@
 # 文件:幸福のトレーディングサーキュレーションPLUS封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e5\ns6%3A%E5%B9%B8%E7%A6%8F%E3%81%AE%E3%83%88%E3%83%AC%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B5%E3%83%BC%E3%82%AD%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3PLUS%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e5\ns6%3A%E5%B9%B8%E7%A6%8F%E3%81%AE%E3%83%88%E3%83%AC%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B5%E3%83%BC%E3%82%AD%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3PLUS%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Rainbow_Vanilla | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@ Rainbow_Vanilla | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [幸福のトレーディングサーキュレーションPLUS](./幸福のトレーディングサーキュレーションPLUS.md)  
-该封面包含的角色：- [河城荷取](./河城荷取.md)
-
-
-
+- [幸福のトレーディングサーキュレーションPLUS](./幸福のトレーディングサーキュレーションPLUS.md)该封面包含的角色：
+- [河城荷取](./河城荷取.md)
 
 
 ---

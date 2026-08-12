@@ -1,6 +1,6 @@
 # 文件:3in1CD_零れずの願いゴト_Instrumental_Version封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\83\ns6%3A3in1CD_%E9%9B%B6%E3%82%8C%E3%81%9A%E3%81%AE%E9%A1%98%E3%81%84%E3%82%B4%E3%83%88_Instrumental_Version%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\83\ns6%3A3in1CD_%E9%9B%B6%E3%82%8C%E3%81%9A%E3%81%AE%E9%A1%98%E3%81%84%E3%82%B4%E3%83%88_Instrumental_Version%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 幽闭星光
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [3in1CD 零れずの願いゴト Instrumental Version](./3in1CD_零れずの願いゴト_Instrumental_Version.md)  
-该封面包含的角色：- [伊吹萃香](./伊吹萃香.md)
-
-
-
+- [3in1CD 零れずの願いゴト Instrumental Version](./3in1CD_零れずの願いゴト_Instrumental_Version.md)该封面包含的角色：
+- [伊吹萃香](./伊吹萃香.md)
 
 
 ---

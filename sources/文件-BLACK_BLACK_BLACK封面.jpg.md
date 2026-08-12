@@ -1,6 +1,6 @@
 # 文件:BLACK_BLACK_BLACK封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ee\ns6%3ABLACK_BLACK_BLACK%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ee\ns6%3ABLACK_BLACK_BLACK%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 水銀革命
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [BLACK BLACK BLACK](./BLACK_BLACK_BLACK.md)  
-该封面包含的角色：- [米斯蒂娅·萝蕾拉](./米斯蒂娅·萝蕾拉.md)
-
-
-
+- [BLACK BLACK BLACK](./BLACK_BLACK_BLACK.md)该封面包含的角色：
+- [米斯蒂娅·萝蕾拉](./米斯蒂娅·萝蕾拉.md)
 
 
 ---

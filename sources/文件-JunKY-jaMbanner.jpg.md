@@ -1,14 +1,11 @@
 # 文件:JunKY-jaMbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ce\ns6%3AJunKY-jaMbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ce\ns6%3AJunKY-jaMbanner%2Ejpg.html -->
 
 JunKY-jaM | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

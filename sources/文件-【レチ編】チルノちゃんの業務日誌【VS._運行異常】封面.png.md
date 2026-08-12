@@ -1,6 +1,6 @@
 # 文件:【レチ編】チルノちゃんの業務日誌【VS._運行異常】封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6a\ns6%3A%E3%80%90%E3%83%AC%E3%83%81%E7%B7%A8%E3%80%91%E3%83%81%E3%83%AB%E3%83%8E%E3%81%A1%E3%82%83%E3%82%93%E3%81%AE%E6%A5%AD%E5%8B%99%E6%97%A5%E8%AA%8C%E3%80%90VS%2E_%E9%81%8B%E8%A1%8C%E7%95%B0%E5%B8%B8%E3%80%91%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6a\ns6%3A%E3%80%90%E3%83%AC%E3%83%81%E7%B7%A8%E3%80%91%E3%83%81%E3%83%AB%E3%83%8E%E3%81%A1%E3%82%83%E3%82%93%E3%81%AE%E6%A5%AD%E5%8B%99%E6%97%A5%E8%AA%8C%E3%80%90VS%2E_%E9%81%8B%E8%A1%8C%E7%95%B0%E5%B8%B8%E3%80%91%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 同人志封面 | 封面图片 | 新日暮里駅務区
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [【レチ編】チルノちゃんの業務日誌【VS. 運行異常】](./【レチ編】チルノちゃんの業務日誌【VS._運行異常】.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)
+- [【レチ編】チルノちゃんの業務日誌【VS. 運行異常】](./【レチ編】チルノちゃんの業務日誌【VS._運行異常】.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
 
   
-源地址：[direct image link (original size; cropped to cover)](https://pbs.twimg.com/media/F-lLccRaEAAEntI?format=jpg&amp;name=orig), [source tweet](https://twitter.com/Penntyann9/status/1722991296703307919)
-  
-
-
-
-
+源地址：[direct image link (original size; cropped to cover)](https://pbs.twimg.com/media/F-lLccRaEAAEntI?format=jpg&name=orig), [source tweet](https://twitter.com/Penntyann9/status/1722991296703307919)  
 
 ---
 

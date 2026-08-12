@@ -1,12 +1,8 @@
 # 文件:京都幻想剧团LOGO.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3d\ns6%3A%E4%BA%AC%E9%83%BD%E5%B9%BB%E6%83%B3%E5%89%A7%E5%9B%A2LOGO%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3d\ns6%3A%E4%BA%AC%E9%83%BD%E5%B9%BB%E6%83%B3%E5%89%A7%E5%9B%A2LOGO%2Ejpg.html -->
 
 京都幻想剧团 | 社团LOGO
-
-
-
-
 
 
 ---

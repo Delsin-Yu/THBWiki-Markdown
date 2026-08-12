@@ -1,12 +1,8 @@
 # 文件:The_495th_Complexbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f5\ns6%3AThe_495th_Complexbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f5\ns6%3AThe_495th_Complexbanner%2Ejpg.html -->
 
 The_495th_Complex | 社团LOGO
-
-
-
-
 
 
 ---

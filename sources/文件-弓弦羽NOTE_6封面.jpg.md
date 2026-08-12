@@ -1,6 +1,6 @@
 # 文件:弓弦羽NOTE_6封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\28\ns6%3A%E5%BC%93%E5%BC%A6%E7%BE%BDNOTE_6%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\28\ns6%3A%E5%BC%93%E5%BC%A6%E7%BE%BDNOTE_6%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 弓弦羽Konzert
 
@@ -8,11 +8,15 @@
 使用了本文件作封面图片的作品：
   
 
-- [弓弦羽NOTE 6](./弓弦羽NOTE_6.md)  
-该封面包含的角色：- [蓬莱人形](./蓬莱人形.md)- [依莉斯](./依莉斯.md)- [冈崎梦美](./冈崎梦美.md)- [萨丽爱尔](./萨丽爱尔.md)- [卡娜·安娜贝拉尔](./卡娜·安娜贝拉尔.md)- [里香](./里香.md)- [梦月](./梦月.md)- [幻月](./幻月.md)
-
-
-
+- [弓弦羽NOTE 6](./弓弦羽NOTE_6.md)该封面包含的角色：
+- [蓬莱人形](./蓬莱人形.md)
+- [依莉斯](./依莉斯.md)
+- [冈崎梦美](./冈崎梦美.md)
+- [萨丽爱尔](./萨丽爱尔.md)
+- [卡娜·安娜贝拉尔](./卡娜·安娜贝拉尔.md)
+- [里香](./里香.md)
+- [梦月](./梦月.md)
+- [幻月](./幻月.md)
 
 
 ---

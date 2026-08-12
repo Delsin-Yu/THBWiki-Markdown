@@ -1,6 +1,6 @@
 # 文件:Occult_à_la_Carte封面.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\17\ns6%3AOccult_%C3%A0_la_Carte%E5%B0%81%E9%9D%A2%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\17\ns6%3AOccult_%C3%A0_la_Carte%E5%B0%81%E9%9D%A2%2Egif.html -->
 
 JaCoder23 | 封面图片 | 软件封面
 
@@ -10,16 +10,11 @@ JaCoder23 | 封面图片 | 软件封面
 使用了本文件作封面图片的作品：
   
 
-- [Occult à la Carte](./Occult_à_la_Carte.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
+- [Occult à la Carte](./Occult_à_la_Carte.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-源地址：[direct image link (original size)](https://img.itch.zone/aW1nLzc1MzMzNDQuZ2lm/original/J4JK12.gif), [source page](https://jacoder23.itch.io/)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://img.itch.zone/aW1nLzc1MzMzNDQuZ2lm/original/J4JK12.gif), [source page](https://jacoder23.itch.io/)  
 
 ---
 

@@ -1,16 +1,11 @@
 # 文件:イージーシュートプロジェクトbanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\62\ns6%3A%E3%82%A4%E3%83%BC%E3%82%B8%E3%83%BC%E3%82%B7%E3%83%A5%E3%83%BC%E3%83%88%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\62\ns6%3A%E3%82%A4%E3%83%BC%E3%82%B8%E3%83%BC%E3%82%B7%E3%83%A5%E3%83%BC%E3%83%88%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88banner%2Egif.html -->
 
 イージーシュートプロジェクト | 社团LOGO
 
   
-源地址：[[1]](http://naturalways.tabigeinin.com/bauner.gif)
-  
-
-
-
-
+源地址：[\[1\]](http://naturalways.tabigeinin.com/bauner.gif)  
 
 ---
 

@@ -1,16 +1,11 @@
 # 文件:葉ヶ暮ハウスbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\31\ns6%3A%E8%91%89%E3%83%B6%E6%9A%AE%E3%83%8F%E3%82%A6%E3%82%B9banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\31\ns6%3A%E8%91%89%E3%83%B6%E6%9A%AE%E3%83%8F%E3%82%A6%E3%82%B9banner%2Ejpg.html -->
 
 社团LOGO | 葉ヶ暮ハウス
 
   
-源地址：[[1]](http://blog.livedoor.jp/hagakure_house/)
-  
-
-
-
-
+源地址：[\[1\]](http://blog.livedoor.jp/hagakure_house/)  
 
 ---
 

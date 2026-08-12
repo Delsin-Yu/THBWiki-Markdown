@@ -1,12 +1,8 @@
 # 文件:konekobana.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9e\ns6%3Akonekobana%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9e\ns6%3Akonekobana%2Ejpg.html -->
 
 子猫奪回屋 | 社团LOGO
-
-
-
-
 
 
 ---

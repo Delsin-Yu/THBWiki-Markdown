@@ -1,12 +1,8 @@
 # 文件:牛崎润美（鬼形兽立绘）an.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\55\ns6%3A%E7%89%9B%E5%B4%8E%E6%B6%A6%E7%BE%8E%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89an%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\55\ns6%3A%E7%89%9B%E5%B4%8E%E6%B6%A6%E7%BE%8E%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89an%2Epng.html -->
 
 ZUN绘 | 东方鬼形兽 | 官方游戏立绘 | 牛崎润美
-
-
-
-
 
 
 ---

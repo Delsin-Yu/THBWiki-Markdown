@@ -1,6 +1,6 @@
 # 文件:YEK_Vocal_Project_Best.1封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\77\ns6%3AYEK_Vocal_Project_Best%2E1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\77\ns6%3AYEK_Vocal_Project_Best%2E1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 YEKproject | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ YEKproject | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [YEK Vocal Project Best.1](./YEK_Vocal_Project_Best.1.md)  
-该封面包含的角色：- [比那名居天子](./比那名居天子.md)
-
-
-
+- [YEK Vocal Project Best.1](./YEK_Vocal_Project_Best.1.md)该封面包含的角色：
+- [比那名居天子](./比那名居天子.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:ROUGH_SKETCH（モノクロームシアター）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\08\ns6%3AROUGH_SKETCH%EF%BC%88%E3%83%A2%E3%83%8E%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%A0%E3%82%B7%E3%82%A2%E3%82%BF%E3%83%BC%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\08\ns6%3AROUGH_SKETCH%EF%BC%88%E3%83%A2%E3%83%8E%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%A0%E3%82%B7%E3%82%A2%E3%82%BF%E3%83%BC%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 モノクロームシアター | 同人志封面 | 封面图片
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [ROUGH SKETCH（モノクロームシアター）](./ROUGH_SKETCH（モノクロームシアター）.md)  
-该封面包含的角色：- [宇佐见莲子](./宇佐见莲子.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [ROUGH SKETCH（モノクロームシアター）](./ROUGH_SKETCH（モノクロームシアター）.md)该封面包含的角色：
+- [宇佐见莲子](./宇佐见莲子.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

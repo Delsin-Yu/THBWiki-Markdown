@@ -1,6 +1,6 @@
 # 文件:Amateras_Records_Exclusive_Disc_2013_Winter封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0c\ns6%3AAmateras_Records_Exclusive_Disc_2013_Winter%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0c\ns6%3AAmateras_Records_Exclusive_Disc_2013_Winter%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Amateras_Records | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Amateras_Records | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Amateras Records Exclusive Disc 2013 Winter](./Amateras_Records_Exclusive_Disc_2013_Winter.md)  
-该封面包含的角色：- [东风谷早苗](./东风谷早苗.md)
-
-
-
+- [Amateras Records Exclusive Disc 2013 Winter](./Amateras_Records_Exclusive_Disc_2013_Winter.md)该封面包含的角色：
+- [东风谷早苗](./东风谷早苗.md)
 
 
 ---

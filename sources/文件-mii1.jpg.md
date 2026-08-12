@@ -1,17 +1,11 @@
 # 文件:mii1.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\aa\ns6%3Amii1%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\aa\ns6%3Amii1%2Ejpg.html -->
 
 みぃ
 
   
-[https://twitter.com/miemum/status/1052934117086523392](https://twitter.com/miemum/status/1052934117086523392)
-[みぃ](./みぃ.md)
-  
-
-
-
-
+[https://twitter.com/miemum/status/1052934117086523392](https://twitter.com/miemum/status/1052934117086523392)[みぃ](./みぃ.md)  
 
 ---
 

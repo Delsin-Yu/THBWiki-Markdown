@@ -1,6 +1,6 @@
 # 文件:LUNATIC_GIRL'S_TALK封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4d\ns6%3ALUNATIC_GIRL%27S_TALK%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4d\ns6%3ALUNATIC_GIRL%27S_TALK%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 蒼空市場
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [LUNATIC GIRL'S TALK](./LUNATIC_GIRL'S_TALK.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
-
-
-
+- [LUNATIC GIRL'S TALK](./LUNATIC_GIRL'S_TALK.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
 
 ---

@@ -1,20 +1,15 @@
 # Boundary_Satellite_Cafe/第2届摊位
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\05\ns0%3ABoundary_Satellite_Cafe%2F%E7%AC%AC2%E5%B1%8A%E6%91%8A%E4%BD%8D.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\05\ns0%3ABoundary_Satellite_Cafe%2F%E7%AC%AC2%E5%B1%8A%E6%91%8A%E4%BD%8D.html -->
 
 Boundary_Satellite_Cafe | 活动摊位列表
-
-  
-  
-
-  
 
 
 <table>
 
 <tbody><tr>
 <td><b>名称</b></td>
-<td><a href="/Boundary_Satellite_Cafe#2" title="Boundary Satellite Cafe">第二回 Boundary Satellite Cafe</a>
+<td><a href="./Boundary_Satellite_Cafe.md#2" title="Boundary Satellite Cafe">第二回 Boundary Satellite Cafe</a>
 </td></tr>
 <tr>
 <td><b>日期</b></td>
@@ -29,21 +24,16 @@ Boundary_Satellite_Cafe | 活动摊位列表
 <td>
 </td></tr></tbody></table>
 
-
- **摊位信息**   
+**摊位信息**  
 
 <table><tbody><tr><th>摊位编号</th><th>社团名称</th><th>官网页面</th><th>宣传页面</th><th>备注</th></tr><tr><td id="GET_IN_THE_RING"></td><td><a href="./GET_IN_THE_RING.md" title="GET IN THE RING">GET IN THE RING</a></td><td><a rel="nofollow" class="external autonumber" href="http://gchm-music.com/index.html">[1]</a></td><td></td><td></td></tr>
 <tr><td id="歌恋人"></td><td><a href="./歌恋人.md" title="歌恋人">歌恋人</a></td><td><a rel="nofollow" class="external autonumber" href="http://www.karento.net/">[2]</a></td><td><a rel="nofollow" class="external autonumber" href="https://twitter.com/_karento_/status/1059645423537676289">[3]</a><br><a rel="nofollow" class="external autonumber" href="https://twitter.com/neppi_mis/status/1060411493542285312">[4]</a></td><td>寄售</td></tr>
-<tr><td id="ぬこでっぽう"></td><td><a href="/index.php?title=%E3%81%AC%E3%81%93%E3%81%A7%E3%81%A3%E3%81%BD%E3%81%86&amp;action=edit&amp;redlink=1" class="new" title="ぬこでっぽう（页面不存在）">ぬこでっぽう</a></td><td><a rel="nofollow" class="external autonumber" href="https://www.nukodeppou.com/">[5]</a></td><td></td><td></td></tr>
+<tr><td id="ぬこでっぽう"></td><td><a class="new" title="ぬこでっぽう（页面不存在）">ぬこでっぽう</a></td><td><a rel="nofollow" class="external autonumber" href="https://www.nukodeppou.com/">[5]</a></td><td></td><td></td></tr>
 <tr><td id="AxionChannel"></td><td><a href="./Axion_Channel.md" title="Axion Channel" unred="">AxionChannel</a></td><td><a rel="nofollow" class="external autonumber" href="http://axion.skr.jp/">[6]</a></td><td><a rel="nofollow" class="external autonumber" href="https://twitter.com/Rikuriku/status/1060559886470176768">[7]</a><br><a rel="nofollow" class="external autonumber" href="https://twitter.com/Rikuriku/status/1060018087083204610">[8]</a><br><a rel="nofollow" class="external autonumber" href="https://twitter.com/Rikuriku/status/1059995618351824897">[9]</a><br><a rel="nofollow" class="external autonumber" href="https://twitter.com/Rikuriku/status/1060516930388283392">[10]</a></td><td>寄售</td></tr>
-<tr><td id="伴蔵装身具"></td><td><a href="/index.php?title=%E4%BC%B4%E8%94%B5%E8%A3%85%E8%BA%AB%E5%85%B7&amp;action=edit&amp;redlink=1" class="new" title="伴蔵装身具（页面不存在）">伴蔵装身具</a></td><td><a rel="nofollow" class="external autonumber" href="https://banzooo.thebase.in/">[11]</a></td><td><a rel="nofollow" class="external autonumber" href="https://twitter.com/banzoo0/status/1059743710135472128">[12]</a></td><td></td></tr>
+<tr><td id="伴蔵装身具"></td><td><a class="new" title="伴蔵装身具（页面不存在）">伴蔵装身具</a></td><td><a rel="nofollow" class="external autonumber" href="https://banzooo.thebase.in/">[11]</a></td><td><a rel="nofollow" class="external autonumber" href="https://twitter.com/banzoo0/status/1059743710135472128">[12]</a></td><td></td></tr>
 <tr><td id="メガネcafe"></td><td><a href="./メガネcafe.md" title="メガネcafe">メガネcafe</a></td><td><a rel="nofollow" class="external autonumber" href="https://meganecafe.buyshop.jp/">[13]</a></td><td><a rel="nofollow" class="external autonumber" href="https://twitter.com/megane_cafe/status/1058558095998124032">[14]</a><br><a rel="nofollow" class="external autonumber" href="https://twitter.com/megane_cafe/status/1056803833236484096">[15]</a></td><td></td></tr>
-<tr><td id="acid*drop07"></td><td><a href="/index.php?title=acid*drop07&amp;action=edit&amp;redlink=1" class="new" title="acid*drop07（页面不存在）">acid*drop07</a></td><td><a rel="nofollow" class="external autonumber" href="https://twitter.com/mei_mya">[16]</a></td><td><a rel="nofollow" class="external autonumber" href="https://twitter.com/mei_mya/status/1059800958010421250">[17]</a></td><td></td></tr>
+<tr><td id="acid*drop07"></td><td><a class="new" title="acid*drop07（页面不存在）">acid*drop07</a></td><td><a rel="nofollow" class="external autonumber" href="https://twitter.com/mei_mya">[16]</a></td><td><a rel="nofollow" class="external autonumber" href="https://twitter.com/mei_mya/status/1059800958010421250">[17]</a></td><td></td></tr>
 <tr><td id="1569"></td><td><a href="./1569.md" title="1569">1569</a></td><td><a rel="nofollow" class="external autonumber" href="https://www.1569.design/">[18]</a></td><td><a rel="nofollow" class="external autonumber" href="https://twitter.com/kiku1569/status/1055669600409415685">[19]</a></td><td></td></tr></tbody></table>
-
-
-
-
 
 
 ---

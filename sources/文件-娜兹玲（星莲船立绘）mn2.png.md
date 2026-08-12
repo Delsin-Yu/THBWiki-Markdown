@@ -1,12 +1,8 @@
 # 文件:娜兹玲（星莲船立绘）mn2.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\58\ns6%3A%E5%A8%9C%E5%85%B9%E7%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89mn2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\58\ns6%3A%E5%A8%9C%E5%85%B9%E7%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89mn2%2Epng.html -->
 
 ZUN绘 | 东方星莲船 | 娜兹玲 | 官方游戏立绘
-
-
-
-
 
 
 ---

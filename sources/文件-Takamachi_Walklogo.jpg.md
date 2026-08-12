@@ -1,16 +1,11 @@
 # 文件:Takamachi_Walklogo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\68\ns6%3ATakamachi_Walklogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\68\ns6%3ATakamachi_Walklogo%2Ejpg.html -->
 
 Takamachi_Walk | 社团LOGO
 
   
-源地址：[[1]](https://f4.bcbits.com/img/0016971354_10.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://f4.bcbits.com/img/0016971354_10.jpg)  
 
 ---
 

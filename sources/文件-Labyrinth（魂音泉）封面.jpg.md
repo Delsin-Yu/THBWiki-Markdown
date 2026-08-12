@@ -1,6 +1,6 @@
 # 文件:Labyrinth（魂音泉）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9e\ns6%3ALabyrinth%EF%BC%88%E9%AD%82%E9%9F%B3%E6%B3%89%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9e\ns6%3ALabyrinth%EF%BC%88%E9%AD%82%E9%9F%B3%E6%B3%89%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 魂音泉
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Labyrinth（魂音泉）](./Labyrinth（魂音泉）.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [Labyrinth（魂音泉）](./Labyrinth（魂音泉）.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
   
-源地址：[图片链接](https://tamaonsen.com/wp-content/uploads/2023/08/TOS061_JAK.jpg) [官网特设](https://tamaonsen.com/?p=1543)
-  
-
-
-
-
+源地址：[图片链接](https://tamaonsen.com/wp-content/uploads/2023/08/TOS061_JAK.jpg) [官网特设](https://tamaonsen.com/?p=1543)  
 
 ---
 

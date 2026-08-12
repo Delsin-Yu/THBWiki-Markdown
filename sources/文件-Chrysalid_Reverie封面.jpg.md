@@ -1,6 +1,6 @@
 # 文件:Chrysalid_Reverie封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\90\ns6%3AChrysalid_Reverie%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\90\ns6%3AChrysalid_Reverie%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Solair_Echoes | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Solair_Echoes | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Chrysalid Reverie](./Chrysalid_Reverie.md)  
-该封面包含的角色：- 原创角色 (未找到链接)
+- [Chrysalid Reverie](./Chrysalid_Reverie.md)该封面包含的角色：
+- 原创角色 (未找到链接)
 
   
-源地址：[[1]](https://f4.bcbits.com/img/a0791173532_10.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://f4.bcbits.com/img/a0791173532_10.jpg)  
 
 ---
 

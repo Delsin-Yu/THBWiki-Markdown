@@ -1,6 +1,6 @@
 # 文件:Digitalic_-L+R-_Party封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\72\ns6%3ADigitalic_-L%2BR-_Party%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\72\ns6%3ADigitalic_-L%2BR-_Party%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Digitalic_Party | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ Digitalic_Party | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Digitalic -L+R- Party](./Digitalic_-L+R-_Party.md)  
-该封面包含的角色：- [古明地觉](./古明地觉.md)- [古明地恋](./古明地恋.md)
-
-
-
+- [Digitalic -L+R- Party](./Digitalic_-L+R-_Party.md)该封面包含的角色：
+- [古明地觉](./古明地觉.md)
+- [古明地恋](./古明地恋.md)
 
 
 ---

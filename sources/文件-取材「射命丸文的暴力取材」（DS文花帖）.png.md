@@ -1,12 +1,8 @@
 # 文件:取材「射命丸文的暴力取材」（DS文花帖）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\27\ns6%3A%E5%8F%96%E6%9D%90%E3%80%8C%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87%E7%9A%84%E6%9A%B4%E5%8A%9B%E5%8F%96%E6%9D%90%E3%80%8D%EF%BC%88DS%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\27\ns6%3A%E5%8F%96%E6%9D%90%E3%80%8C%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87%E7%9A%84%E6%9A%B4%E5%8A%9B%E5%8F%96%E6%9D%90%E3%80%8D%EF%BC%88DS%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Epng.html -->
 
 东方文花帖DS | 射命丸文 | 敌机符卡
-
-
-
-
 
 
 ---

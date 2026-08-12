@@ -1,6 +1,6 @@
 # 文件:NANI_SORE_AKAI封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0e\ns6%3ANANI_SORE_AKAI%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0e\ns6%3ANANI_SORE_AKAI%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 nakascene | 专辑封面 | 封面图片
 
@@ -8,11 +8,11 @@ nakascene | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [NANI SORE AKAI](./NANI_SORE_AKAI.md)  
-该封面包含的角色：- [露米娅](./露米娅.md)- [琪露诺](./琪露诺.md)- [红美铃](./红美铃.md)- [魅魔](./魅魔.md)
-
-
-
+- [NANI SORE AKAI](./NANI_SORE_AKAI.md)该封面包含的角色：
+- [露米娅](./露米娅.md)
+- [琪露诺](./琪露诺.md)
+- [红美铃](./红美铃.md)
+- [魅魔](./魅魔.md)
 
 
 ---

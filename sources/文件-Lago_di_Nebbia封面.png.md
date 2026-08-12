@@ -1,6 +1,6 @@
 # 文件:Lago_di_Nebbia封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5e\ns6%3ALago_di_Nebbia%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5e\ns6%3ALago_di_Nebbia%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Diavolo_Nebbia | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Diavolo_Nebbia | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Lago di Nebbia](./Lago_di_Nebbia.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
-
-
-
+- [Lago di Nebbia](./Lago_di_Nebbia.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
 
 ---

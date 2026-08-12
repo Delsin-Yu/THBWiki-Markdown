@@ -1,6 +1,6 @@
 # 文件:Party_Time_LP封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a9\ns6%3AParty_Time_LP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a9\ns6%3AParty_Time_LP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Snow*Mark | 专辑封面 | 封面图片
 
@@ -8,16 +8,15 @@ Snow*Mark | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Party Time LP](./Party_Time_LP.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)- [蕾蒂·霍瓦特洛克](./蕾蒂·霍瓦特洛克.md)- [莉格露·奈特巴格](./莉格露·奈特巴格.md)- [蓬莱山辉夜](./蓬莱山辉夜.md)- [藤原妹红](./藤原妹红.md)
+- [Party Time LP](./Party_Time_LP.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
+- [蕾蒂·霍瓦特洛克](./蕾蒂·霍瓦特洛克.md)
+- [莉格露·奈特巴格](./莉格露·奈特巴格.md)
+- [蓬莱山辉夜](./蓬莱山辉夜.md)
+- [藤原妹红](./藤原妹红.md)
 
   
-源地址：[direct image link](http://usagiusagi.hebiichigo.com/logoPT.jpg), [source page](http://usagiusagi.hebiichigo.com/)
-  
-
-
-
-
+源地址：[direct image link](http://usagiusagi.hebiichigo.com/logoPT.jpg), [source page](http://usagiusagi.hebiichigo.com/)  
 
 ---
 

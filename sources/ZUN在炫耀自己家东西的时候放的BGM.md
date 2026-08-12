@@ -1,12 +1,11 @@
 # ZUN在炫耀自己家东西的时候放的BGM
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\bd\ns0%3AZUN%E5%9C%A8%E7%82%AB%E8%80%80%E8%87%AA%E5%B7%B1%E5%AE%B6%E4%B8%9C%E8%A5%BF%E7%9A%84%E6%97%B6%E5%80%99%E6%94%BE%E7%9A%84BGM.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\bd\ns0%3AZUN%E5%9C%A8%E7%82%AB%E8%80%80%E8%87%AA%E5%B7%B1%E5%AE%B6%E4%B8%9C%E8%A5%BF%E7%9A%84%E6%97%B6%E5%80%99%E6%94%BE%E7%9A%84BGM.html -->
 
 2020年10月25日 由 Electric Ginger  发布的EP同人专辑，曲目主要风格是 其他，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人专辑 (未找到链接)** 的词条
-
+**[二次创作同人专辑](./二次创作.md#同人音乐)**的词条
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-ZUN在炫耀自己家东西的时候放的BGM封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/f/f8/ZUN%E5%9C%A8%E7%82%AB%E8%80%80%E8%87%AA%E5%B7%B1%E5%AE%B6%E4%B8%9C%E8%A5%BF%E7%9A%84%E6%97%B6%E5%80%99%E6%94%BE%E7%9A%84BGM%E5%B0%81%E9%9D%A2.png/224px-ZUN%E5%9C%A8%E7%82%AB%E8%80%80%E8%87%AA%E5%B7%B1%E5%AE%B6%E4%B8%9C%E8%A5%BF%E7%9A%84%E6%97%B6%E5%80%99%E6%94%BE%E7%9A%84BGM%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="224" height="224" srcset="https://upload.thwiki.cc/thumb/f/f8/ZUN%E5%9C%A8%E7%82%AB%E8%80%80%E8%87%AA%E5%B7%B1%E5%AE%B6%E4%B8%9C%E8%A5%BF%E7%9A%84%E6%97%B6%E5%80%99%E6%94%BE%E7%9A%84BGM%E5%B0%81%E9%9D%A2.png/336px-ZUN%E5%9C%A8%E7%82%AB%E8%80%80%E8%87%AA%E5%B7%B1%E5%AE%B6%E4%B8%9C%E8%A5%BF%E7%9A%84%E6%97%B6%E5%80%99%E6%94%BE%E7%9A%84BGM%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/f/f8/ZUN%E5%9C%A8%E7%82%AB%E8%80%80%E8%87%AA%E5%B7%B1%E5%AE%B6%E4%B8%9C%E8%A5%BF%E7%9A%84%E6%97%B6%E5%80%99%E6%94%BE%E7%9A%84BGM%E5%B0%81%E9%9D%A2.png/448px-ZUN%E5%9C%A8%E7%82%AB%E8%80%80%E8%87%AA%E5%B7%B1%E5%AE%B6%E4%B8%9C%E8%A5%BF%E7%9A%84%E6%97%B6%E5%80%99%E6%94%BE%E7%9A%84BGM%E5%B0%81%E9%9D%A2.png 2x" data-file-width="1000" data-file-height="1000"></a><div class="cover-char">角色：<a href="./ZUN.md" title="ZUN">ZUN</a></div></td>
@@ -15,19 +14,15 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://music.163.com/#/album?id=97297927">https://music.163.com/#/album?id=97297927</a></td></tr></tbody></table>
 
 ZUN在炫耀自己家东西的时候放的BGM（同人专辑，Electric Ginger，2020） - 2020年10月25日 由 Electric Ginger  发布的EP同人专辑，曲目主要风格是 其他，分级为 一般向
-
 ## Staff
   
- **Arrangement**   
+**Arrangement**  
 
 <table><tbody><tr><td><a href="./Electric_Ginger.md" title="Electric Ginger">Electric Ginger</a></td><td></td><td>Tr.1</td></tr></tbody></table>
 
 
-
 ## 试听
   
-
-
   
 
 <table>
@@ -36,20 +31,12 @@ ZUN在炫耀自己家东西的时候放的BGM（同人专辑，Electric Ginger�
 </table>
 
 
-
-
-
-
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="ZUN在炫耀自己家东西的时候放的BGM" colspan="2" class="title">ZUN在炫耀自己家东西的时候放的BGM<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Electric Ginger&amp;ogmusic=童祭　～ Innocent Treasures&amp;fromwiki=ZUN在炫耀自己家东西的时候放的BGM"><span title="搜索相似同人曲"></span></a></span></td><td class="time">01:11</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Electric_Ginger.md" title="Electric Ginger">Electric Ginger</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Electric Ginger&amp;fromwiki=ZUN在炫耀自己家东西的时候放的BGM"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=童祭　～ Innocent Treasures&amp;fromwiki=ZUN在炫耀自己家东西的时候放的BGM"><span></span></a></span><div class="ogmusic"><a href="./童祭_～_Innocent_Treasures.md" title="童祭 ～ Innocent Treasures">童祭　～ Innocent Treasures</a></div><div class="source"><a href="./梦违科学世纪_～_Changeability_of_Strange_Dream.md" class="mw-redirect" title="梦违科学世纪 ～ Changeability of Strange Dream">梦违科学世纪　～ Changeability of Strange Dream</a></div></td></tr></tbody></table>
-
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="ZUN在炫耀自己家东西的时候放的BGM" colspan="2" class="title">ZUN在炫耀自己家东西的时候放的BGM</td><td class="time">01:11</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Electric_Ginger.md" title="Electric Ginger">Electric Ginger</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./童祭_～_Innocent_Treasures.md" title="童祭 ～ Innocent Treasures">童祭　～ Innocent Treasures</a></div><div class="source"><a href="./梦违科学世纪.md" class="mw-redirect" title="梦违科学世纪 ～ Changeability of Strange Dream">梦违科学世纪　～ Changeability of Strange Dream</a></div></td></tr></tbody></table>
 
 
 ## 评论
-
-
-
 
 ---
 

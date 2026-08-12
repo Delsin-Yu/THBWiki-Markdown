@@ -1,18 +1,13 @@
 # 文件:seventh_zestbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\be\ns6%3Aseventh_zestbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\be\ns6%3Aseventh_zestbanner%2Epng.html -->
 
 seventh_zest | 社团LOGO
 
 
 ## 摘要
   
-源地址：[direct image link](https://blog-imgs-103-origin.2nt.com/m/u/t/mutsuno/banner.png), [source page](http://mutsuno.blog.2nt.com/)
-  
-
-
-
-
+源地址：[direct image link](https://blog-imgs-103-origin.2nt.com/m/u/t/mutsuno/banner.png), [source page](http://mutsuno.blog.2nt.com/)  
 
 ---
 

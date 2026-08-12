@@ -1,6 +1,6 @@
 # 文件:TOHO,_Extra_nmk_Arrange_Best封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2d\ns6%3ATOHO%2C_Extra_nmk_Arrange_Best%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2d\ns6%3ATOHO%2C_Extra_nmk_Arrange_Best%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 DTXFiles.nmk | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@ DTXFiles.nmk | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [TOHO, Extra nmk Arrange Best](./TOHO,_Extra_nmk_Arrange_Best.md)  
-该封面包含的角色：- [东风谷早苗](./东风谷早苗.md)
+- [TOHO, Extra nmk Arrange Best](./TOHO,_Extra_nmk_Arrange_Best.md)该封面包含的角色：
+- [东风谷早苗](./东风谷早苗.md)
 
   
-源地址：[图片链接](https://static.wixstatic.com/media/b57d8a_4f53a930fab1425ab08b5c151cd38d74~mv2.png) [官网](https://miomiohosina.wixsite.com/dtxf-nmk/nmk-toho-best)
-  
-
-
-
-
+源地址：[图片链接](https://static.wixstatic.com/media/b57d8a_4f53a930fab1425ab08b5c151cd38d74~mv2.png) [官网](https://miomiohosina.wixsite.com/dtxf-nmk/nmk-toho-best)  
 
 ---
 

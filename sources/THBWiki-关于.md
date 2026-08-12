@@ -1,35 +1,29 @@
 # THBWiki:关于
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\6\6d\ns4%3A%E5%85%B3%E4%BA%8E.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\6\6d\ns4%3A%E5%85%B3%E4%BA%8E.html -->
 
 TBSGroup | THB系列站点
+
 
 ## 目录
 
 - [1 简介](#简介)
 - [2 运作](#运作)
-
   - [2.1 历史](#历史)
   - [2.2 当前人员](#当前人员)
-
     - [2.2.1 THBWiki维护组](#THBWiki维护组)
-
 
 
   - [2.3 运营与权限](#运营与权限)
   - [2.4 联系与合作](#联系与合作)
   - [2.5 费用](#费用)
-
     - [2.5.1 捐赠](#捐赠)
-
 
 
   - [2.6 其他公共服务（拓展项目）](#其他公共服务（拓展项目）)
 
 
-
 - [3 其他事项](#其他事项)
-
   - [3.1 编辑注意事项](#编辑注意事项)
   - [3.2 链接横幅](#链接横幅)
   - [3.3 LOGO](#LOGO)
@@ -37,10 +31,7 @@ TBSGroup | THB系列站点
   - [3.5 APP / 手机应用 / 客户端](#APP_/_手机应用_/_客户端)
 
 
-
 - [4 版权信息](#版权信息)
-
-
 
 
 ## 简介
@@ -52,24 +43,24 @@ TBSGroup | THB系列站点
 本站最初由[TBSGroup](./TBSGroup.md)建立并由东方爱好者们共同维护。  
 
 本站旗下同时运营其他东方Project相关的公共服务，关于此详见[其他公共服务](#其他公共服务（拓展项目）)。  
-
   
 
 ```
- *注：东方指[上海爱丽丝幻乐团](./上海爱丽丝幻乐团.md) 的系列作品 [东方Project](./东方Project.md) 及各类二次创作* 
-```
+*注：东方指[上海爱丽丝幻乐团](./上海爱丽丝幻乐团.md) 的系列作品 [东方Project](./东方Project.md) 及各类二次创作*```
+
 
 - THBWiki（thwiki.cc）是由TBSGroup在2012年3月16日正式建立的。
 - 本站在初期曾经使用[TBSGroup](./TBSGroup.md)管理的另一网站[东方吧Wiki](http://wiki.touhou8.com/)（已停用）中的部分资料作为基础。
 - 本站与东方Project的官方即版权所有者[上海爱丽丝幻乐团](./上海爱丽丝幻乐团.md)及[株式会社香霖堂](./株式会社香霖堂.md)没有任何直接关系。
 - 现阶段THBWiki仍在建设当中。
 
+
 ## 运作
+
 ### 历史
   
 THBWiki系列站点是2012年由[TBSGroup](./TBSGroup.md)建立并不断完善的以THBWiki（本站）为主的一系列站点，集维基百科、资源下载、Wap站点、资料展示等功能于一体的，专业性的东方Project功能性站点群组，主要服务于百度东方吧以及其他东方论坛以及相关站点。  
-
- **目前[TBSGroup](./TBSGroup.md)事实上已不再运作** ，相关信息请参见[TBSGroup](./TBSGroup.md)词条。以[TBSGroup](./TBSGroup.md)为名义运营的相关公共服务已由各子项目组织自行运营，THBWiki（本站）保留了[TBSGroup](./TBSGroup.md)的部分公共服务功能。  
+**目前[TBSGroup](./TBSGroup.md)事实上已不再运作**，相关信息请参见[TBSGroup](./TBSGroup.md)词条。以[TBSGroup](./TBSGroup.md)为名义运营的相关公共服务已由各子项目组织自行运营，THBWiki（本站）保留了[TBSGroup](./TBSGroup.md)的部分公共服务功能。  
 
 THBWiki前身为百度贴吧东方吧所建立的[东方吧Wiki](https://wiki.touhou8.com/)，2012年1月8日本站建立，初代站长为囧仙 (未找到链接)。站点运营费用包括囧仙 (未找到链接)个人出资、THBWiki站点广告等收入、爱好者捐助三部分构成。  
 
@@ -80,7 +71,6 @@ THBWiki前身为百度贴吧东方吧所建立的[东方吧Wiki](https://wiki.to
   
 网站由THBWiki维护组维护，主要人员如下：
   
-
 名誉站长
 : 囧仙 (未找到链接)
 站长、总编辑
@@ -91,17 +81,16 @@ THBWiki前身为百度贴吧东方吧所建立的[东方吧Wiki](https://wiki.to
 : 桜有海 (未找到链接)
 站务主管
 : 云霞 (未找到链接)
-
   
- **站点营运方针由[THBWiki维护组](#THBWiki维护组)共同决定**   
+**站点营运方针由[THBWiki维护组](#THBWiki维护组)共同决定**  
 
 内容部分由维护方编辑以及由东方爱好者自发进行编写。
-站务联系方式请参阅： **[联系与合作](#联系与合作)** 。
+站务联系方式请参阅：**[联系与合作](#联系与合作)**。
   
 
 #### THBWiki维护组
   
-THBWiki维护组由当前有意愿及能力 **长期** 支持站点运作的人员构成，包括长期固定出资者、长期站点技术维护者、其他公共服务（拓展项目）支持者等成员。  
+THBWiki维护组由当前有意愿及能力**长期**支持站点运作的人员构成，包括长期固定出资者、长期站点技术维护者、其他公共服务（拓展项目）支持者等成员。  
 
 如您有意加入THBWiki维护组，请向上述任一人员联系。
   
@@ -122,20 +111,18 @@ THBWiki接受东方相关的宣传投放需求（参见首页轮播），细节�
 
 ### 费用
   
-服务器以及维护资金 **曾** 由TBSGroup内部（主要是囧仙个人）出资。  
-
- **历史支出** 情况请参阅： **[支出情况](./TBSGroup-支出情况.md)** 。
+服务器以及维护资金**曾**由TBSGroup内部（主要是囧仙个人）出资。  
+**历史支出**情况请参阅：**[支出情况](./TBSGroup-支出情况.md)**。
   
   
-目前站点及站点拓展项目维护费用主要由[维护组](#THBWiki维护组) **长期分担** ，站点广告收入、拓展项目收入、爱好者捐助亦是辅助站点运作的资金来源。  
+目前站点及站点拓展项目维护费用主要由[维护组](#THBWiki维护组)**长期分担**，站点广告收入、拓展项目收入、爱好者捐助亦是辅助站点运作的资金来源。  
 
 费用账单及详细规则请参阅[收支页面](./THBWiki-收支.md)。  
-
   
 
 #### 捐赠
   
- **感谢** 资金支持，如果有兴趣请参阅 **[捐款方式页面](./THBWiki-捐款.md)** 的说明。  
+**感谢**资金支持，如果有兴趣请参阅**[捐款方式页面](./THBWiki-捐款.md)**的说明。  
 
 此外在网站中放置了谷歌广告，但是不会影响到页面。
   
@@ -145,9 +132,7 @@ THBWiki接受东方相关的宣传投放需求（参见首页轮播），细节�
 THBWiki除去本站之外，尚有如下项目运作：  
 
 若您有相关需求需要使用本站提供的公共服务，抑或有合作需求，请与站务主管云霞 (未找到链接)联系。  
-
   
-
 
 <table>
 
@@ -320,13 +305,13 @@ THBWiki除去本站之外，尚有如下项目运作：
 
 
 ## 其他事项
+
 ### 编辑注意事项
   
-关于东方Project的简介请参 **[这里](./东方Project.md)** 。
+关于东方Project的简介请参**[这里](./东方Project.md)**。
   
   
-编辑词条时请注意，<font color="red"> **本Wiki是基于[ZUN](./ZUN.md)制作的东方Project游戏以及其相关资料与二次作品为主的Wiki，并非Wikipedia** </font>，请不要以Wikipedia的规范审视本站内容。  
-
+编辑词条时请注意，<font color="red">**本Wiki是基于[ZUN](./ZUN.md)制作的东方Project游戏以及其相关资料与二次作品为主的Wiki，并非Wikipedia**</font>，请不要以Wikipedia的规范审视本站内容。  
   
 
 - 在THBWiki所建立的词条及内容均需遵守[收录方针](./THBWiki-收录方针.md)的要求。
@@ -335,12 +320,11 @@ THBWiki除去本站之外，尚有如下项目运作：
 - 想要学习Wiki系统以及编写方法的请参阅[Wiki帮助手册](./分类-帮助文档.md)。
 
   
-请注意阅读  **[THBWiki:免责声明](./THBWiki-免责声明.md)** 
+请注意阅读 **[THBWiki:免责声明](./THBWiki-免责声明.md)**  
   
-  
-有兴趣学习编辑或讨论编辑THBWiki相关内容的话，可加QQ群 **285426714**   
+有兴趣学习编辑或讨论编辑THBWiki相关内容的话，可加QQ群**285426714**  
 
-请注意  **加群验证写明有意向编辑Wiki以及Wiki内注册的ID** 。  
+请注意 **加群验证写明有意向编辑Wiki以及Wiki内注册的ID**。  
 
 另外，请确保自己有足够的时间精力来编辑Wiki再选择加群。
   
@@ -352,34 +336,32 @@ THBWiki除去本站之外，尚有如下项目运作：
   
 可以使用以下横幅制作链往本站的链接：
   
-
 链接
 : [https://thwiki.cc/](https://thwiki.cc/)
 横幅（banner）
 : 
 
-
 <table>
 
 <tbody><tr>
-<td><img src="https://static.thwiki.cc/banner/banner_b0.png" alt="banner_b0.png"><br><a rel="nofollow" class="external text" href="https://static.thwiki.cc/banner/banner_b0.png">https&#58;//static.thwiki.cc/banner/banner_b0.png</a>
+<td><img src="https://static.thwiki.cc/banner/banner_b0.png" alt="banner_b0.png"><br><a rel="nofollow" class="external text" href="https://static.thwiki.cc/banner/banner_b0.png">https://static.thwiki.cc/banner/banner_b0.png</a>
 </td>
-<td><img src="https://static.thwiki.cc/banner/banner_r0.png" alt="banner_r0.png"><br><a rel="nofollow" class="external text" href="https://static.thwiki.cc/banner/banner_r0.png">https&#58;//static.thwiki.cc/banner/banner_r0.png</a>
+<td><img src="https://static.thwiki.cc/banner/banner_r0.png" alt="banner_r0.png"><br><a rel="nofollow" class="external text" href="https://static.thwiki.cc/banner/banner_r0.png">https://static.thwiki.cc/banner/banner_r0.png</a>
 </td></tr>
 <tr>
-<td><img src="https://static.thwiki.cc/banner/banner_b1.png" alt="banner_b1.png"><br><a rel="nofollow" class="external text" href="https://static.thwiki.cc/banner/banner_b1.png">https&#58;//static.thwiki.cc/banner/banner_b1.png</a>
+<td><img src="https://static.thwiki.cc/banner/banner_b1.png" alt="banner_b1.png"><br><a rel="nofollow" class="external text" href="https://static.thwiki.cc/banner/banner_b1.png">https://static.thwiki.cc/banner/banner_b1.png</a>
 </td>
-<td><img src="https://static.thwiki.cc/banner/banner_r1.png" alt="banner_r1.png"><br><a rel="nofollow" class="external text" href="https://static.thwiki.cc/banner/banner_r1.png">https&#58;//static.thwiki.cc/banner/banner_r1.png</a>
+<td><img src="https://static.thwiki.cc/banner/banner_r1.png" alt="banner_r1.png"><br><a rel="nofollow" class="external text" href="https://static.thwiki.cc/banner/banner_r1.png">https://static.thwiki.cc/banner/banner_r1.png</a>
 </td></tr>
 <tr>
-<td><img src="https://static.thwiki.cc/banner/banner_b2.png" alt="banner_b2.png"><br><a rel="nofollow" class="external text" href="https://static.thwiki.cc/banner/banner_b2.png">https&#58;//static.thwiki.cc/banner/banner_b2.png</a>
+<td><img src="https://static.thwiki.cc/banner/banner_b2.png" alt="banner_b2.png"><br><a rel="nofollow" class="external text" href="https://static.thwiki.cc/banner/banner_b2.png">https://static.thwiki.cc/banner/banner_b2.png</a>
 </td>
-<td><img src="https://static.thwiki.cc/banner/banner_r2.png" alt="banner_r2.png"><br><a rel="nofollow" class="external text" href="https://static.thwiki.cc/banner/banner_r2.png">https&#58;//static.thwiki.cc/banner/banner_r2.png</a>
+<td><img src="https://static.thwiki.cc/banner/banner_r2.png" alt="banner_r2.png"><br><a rel="nofollow" class="external text" href="https://static.thwiki.cc/banner/banner_r2.png">https://static.thwiki.cc/banner/banner_r2.png</a>
 </td></tr>
 <tr>
-<td><img src="https://static.thwiki.cc/banner/banner_b3.png" alt="banner_b3.png"><br><a rel="nofollow" class="external text" href="https://static.thwiki.cc/banner/banner_b3.png">https&#58;//static.thwiki.cc/banner/banner_b3.png</a>
+<td><img src="https://static.thwiki.cc/banner/banner_b3.png" alt="banner_b3.png"><br><a rel="nofollow" class="external text" href="https://static.thwiki.cc/banner/banner_b3.png">https://static.thwiki.cc/banner/banner_b3.png</a>
 </td>
-<td><img src="https://static.thwiki.cc/banner/banner_r3.png" alt="banner_r3.png"><br><a rel="nofollow" class="external text" href="https://static.thwiki.cc/banner/banner_r3.png">https&#58;//static.thwiki.cc/banner/banner_r3.png</a>
+<td><img src="https://static.thwiki.cc/banner/banner_r3.png" alt="banner_r3.png"><br><a rel="nofollow" class="external text" href="https://static.thwiki.cc/banner/banner_r3.png">https://static.thwiki.cc/banner/banner_r3.png</a>
 </td></tr></tbody></table>
 
 
@@ -390,7 +372,7 @@ THBWiki除去本站之外，尚有如下项目运作：
 
 ### 网站用图片素材
   
-关于本站使用的图片素材，请参见 **[图片素材](./THBWiki-图片素材.md)** 页面。
+关于本站使用的图片素材，请参见**[图片素材](./THBWiki-图片素材.md)**页面。
   
 
 ### APP / 手机应用 / 客户端
@@ -408,17 +390,12 @@ THBWiki目前从未制作或授权任何人制作APP、手机应用或客户端�
   
 本站内容除特殊注明外，禁止商业用途  
 
-文本内容除特殊注明外，均在 **知识共享(Creative Commons) 署名-非商业性使用-相同方式共享 3.0 协议** 下提供，附加条款亦可能应用  
+文本内容除特殊注明外，均在**知识共享(Creative Commons) 署名-非商业性使用-相同方式共享 3.0 协议**下提供，附加条款亦可能应用  
 
 引用类型与其他类型作品版权归原作者所有，如有作者授权则遵照授权协议使用。
   
   
-[http://creativecommons.org/licenses/by-nc-sa/3.0/deed.zh](http://creativecommons.org/licenses/by-nc-sa/3.0/deed.zh)
-  
-
-
-
-
+[http://creativecommons.org/licenses/by-nc-sa/3.0/deed.zh](http://creativecommons.org/licenses/by-nc-sa/3.0/deed.zh)  
 
 ---
 

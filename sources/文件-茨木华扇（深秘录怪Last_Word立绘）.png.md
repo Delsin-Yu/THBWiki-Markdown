@@ -1,12 +1,8 @@
 # 文件:茨木华扇（深秘录怪Last_Word立绘）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b5\ns6%3A%E8%8C%A8%E6%9C%A8%E5%8D%8E%E6%89%87%EF%BC%88%E6%B7%B1%E7%A7%98%E5%BD%95%E6%80%AALast_Word%E7%AB%8B%E7%BB%98%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b5\ns6%3A%E8%8C%A8%E6%9C%A8%E5%8D%8E%E6%89%87%EF%BC%88%E6%B7%B1%E7%A7%98%E5%BD%95%E6%80%AALast_Word%E7%AB%8B%E7%BB%98%EF%BC%89%2Epng.html -->
 
 东方深秘录 | 官方游戏立绘 | 春河萌绘 | 茨木华扇
-
-
-
-
 
 
 ---

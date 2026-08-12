@@ -1,6 +1,6 @@
 # 文件:Soundtrack_of_the_Ore_from_the_Age_of_the_Gods封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4a\ns6%3ASoundtrack_of_the_Ore_from_the_Age_of_the_Gods%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4a\ns6%3ASoundtrack_of_the_Ore_from_the_Age_of_the_Gods%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 lapspider45 | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@ lapspider45 | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Soundtrack of the Ore from the Age of the Gods](./Soundtrack_of_the_Ore_from_the_Age_of_the_Gods.md)  
-该封面包含的角色：- [姬虫百百世](./姬虫百百世.md)
+- [Soundtrack of the Ore from the Age of the Gods](./Soundtrack_of_the_Ore_from_the_Age_of_the_Gods.md)该封面包含的角色：
+- [姬虫百百世](./姬虫百百世.md)
 
   
-源地址：[direct image link (10 size)](https://f4.bcbits.com/img/a4055058704_10.jpg), [from artist bandcamp](https://lapspider45.bandcamp.com/album/soundtrack-of-the-ore-from-the-age-of-the-gods)
-  
-
-
-
-
+源地址：[direct image link (10 size)](https://f4.bcbits.com/img/a4055058704_10.jpg), [from artist bandcamp](https://lapspider45.bandcamp.com/album/soundtrack-of-the-ore-from-the-age-of-the-gods)  
 
 ---
 

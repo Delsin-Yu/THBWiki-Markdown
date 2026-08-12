@@ -1,6 +1,6 @@
 # 文件:ハートコネクションTOPPLE_合同誌マッチング本封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6b\ns6%3A%E3%83%8F%E3%83%BC%E3%83%88%E3%82%B3%E3%83%8D%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3TOPPLE_%E5%90%88%E5%90%8C%E8%AA%8C%E3%83%9E%E3%83%83%E3%83%81%E3%83%B3%E3%82%B0%E6%9C%AC%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6b\ns6%3A%E3%83%8F%E3%83%BC%E3%83%88%E3%82%B3%E3%83%8D%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3TOPPLE_%E5%90%88%E5%90%8C%E8%AA%8C%E3%83%9E%E3%83%83%E3%83%81%E3%83%B3%E3%82%B0%E6%9C%AC%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 あぶら畑グランテッド | 同人志封面 | 封面图片
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [ハートコネクションTOPPLE 合同誌マッチング本](./ハートコネクションTOPPLE_合同誌マッチング本.md)  
-该封面包含的角色：- [比那名居天子](./比那名居天子.md)- [灵乌路空](./灵乌路空.md)
-
-
-
+- [ハートコネクションTOPPLE 合同誌マッチング本](./ハートコネクションTOPPLE_合同誌マッチング本.md)该封面包含的角色：
+- [比那名居天子](./比那名居天子.md)
+- [灵乌路空](./灵乌路空.md)
 
 
 ---

@@ -1,18 +1,13 @@
 # 文件:Antplogo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\db\ns6%3AAntplogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\db\ns6%3AAntplogo%2Ejpg.html -->
 
 Antp | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[direct image link](https://media.cargocollective.com/1/5/172064/headerimg/antp_header2016.jpg), [source page](http://portfolio.antennapedia.net/)
-  
-
-
-
-
+源地址：[direct image link](https://media.cargocollective.com/1/5/172064/headerimg/antp_header2016.jpg), [source page](http://portfolio.antennapedia.net/)  
 
 ---
 

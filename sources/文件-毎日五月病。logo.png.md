@@ -1,18 +1,13 @@
 # 文件:毎日五月病。logo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\27\ns6%3A%E6%AF%8E%E6%97%A5%E4%BA%94%E6%9C%88%E7%97%85%E3%80%82logo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\27\ns6%3A%E6%AF%8E%E6%97%A5%E4%BA%94%E6%9C%88%E7%97%85%E3%80%82logo%2Epng.html -->
 
 毎日五月病。 | 社团LOGO
 
 
 ## 摘要
   
-源地址：[direct image link](https://mainichigogatsubyou.com/_img/logow.png), [source page](https://mainichigogatsubyou.com/)
-  
-
-
-
-
+源地址：[direct image link](https://mainichigogatsubyou.com/_img/logow.png), [source page](https://mainichigogatsubyou.com/)  
 
 ---
 

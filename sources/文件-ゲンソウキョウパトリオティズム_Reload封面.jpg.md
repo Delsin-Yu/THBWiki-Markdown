@@ -1,6 +1,6 @@
 # 文件:ゲンソウキョウパトリオティズム_Reload封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f9\ns6%3A%E3%82%B2%E3%83%B3%E3%82%BD%E3%82%A6%E3%82%AD%E3%83%A7%E3%82%A6%E3%83%91%E3%83%88%E3%83%AA%E3%82%AA%E3%83%86%E3%82%A3%E3%82%BA%E3%83%A0_Reload%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f9\ns6%3A%E3%82%B2%E3%83%B3%E3%82%BD%E3%82%A6%E3%82%AD%E3%83%A7%E3%82%A6%E3%83%91%E3%83%88%E3%83%AA%E3%82%AA%E3%83%86%E3%82%A3%E3%82%BA%E3%83%A0_Reload%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ぷら爆屋 | もいすちゃー | 同人志封面 | 始まりは健全に。 | 封面图片
 
@@ -8,11 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [ゲンソウキョウパトリオティズム Reload](./ゲンソウキョウパトリオティズム_Reload.md)  
-该封面包含的角色：- [西行寺幽幽子](./西行寺幽幽子.md)- [莉格露·奈特巴格](./莉格露·奈特巴格.md)- [伊吹萃香](./伊吹萃香.md)- [水桥帕露西](./水桥帕露西.md)
-
-
-
+- [ゲンソウキョウパトリオティズム Reload](./ゲンソウキョウパトリオティズム_Reload.md)该封面包含的角色：
+- [西行寺幽幽子](./西行寺幽幽子.md)
+- [莉格露·奈特巴格](./莉格露·奈特巴格.md)
+- [伊吹萃香](./伊吹萃香.md)
+- [水桥帕露西](./水桥帕露西.md)
 
 
 ---

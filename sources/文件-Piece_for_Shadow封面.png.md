@@ -1,6 +1,6 @@
 # 文件:Piece_for_Shadow封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d6\ns6%3APiece_for_Shadow%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d6\ns6%3APiece_for_Shadow%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 まぃん☆しぃかぁ | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Piece for Shadow](./Piece_for_Shadow.md)  
-该封面包含的角色：- [西行寺幽幽子](./西行寺幽幽子.md)
+- [Piece for Shadow](./Piece_for_Shadow.md)该封面包含的角色：
+- [西行寺幽幽子](./西行寺幽幽子.md)
 
   
-源地址：[direct image link (original size)](https://i1.sndcdn.com/artworks-000054955817-iykn7k-original.png), [source page (Soundcloud)](https://soundcloud.com/r-turbo/piece-for-shadow)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://i1.sndcdn.com/artworks-000054955817-iykn7k-original.png), [source page (Soundcloud)](https://soundcloud.com/r-turbo/piece-for-shadow)  
 
 ---
 

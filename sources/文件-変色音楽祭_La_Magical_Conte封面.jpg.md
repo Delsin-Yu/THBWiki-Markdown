@@ -1,6 +1,6 @@
 # 文件:変色音楽祭_La_Magical_Conte封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\18\ns6%3A%E5%A4%89%E8%89%B2%E9%9F%B3%E6%A5%BD%E7%A5%AD_La_Magical_Conte%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\18\ns6%3A%E5%A4%89%E8%89%B2%E9%9F%B3%E6%A5%BD%E7%A5%AD_La_Magical_Conte%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Lama_Disk | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Lama_Disk | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [変色音楽祭 La Magical Conte](./変色音楽祭_La_Magical_Conte.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [変色音楽祭 La Magical Conte](./変色音楽祭_La_Magical_Conte.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

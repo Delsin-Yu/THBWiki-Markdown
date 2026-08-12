@@ -1,12 +1,8 @@
 # 文件:「弹幕富翁」（天邪鬼GR）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2c\ns6%3A%E3%80%8C%E5%BC%B9%E5%B9%95%E5%AF%8C%E7%BF%81%E3%80%8D%EF%BC%88%E5%A4%A9%E9%82%AA%E9%AC%BCGR%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2c\ns6%3A%E3%80%8C%E5%BC%B9%E5%B9%95%E5%AF%8C%E7%BF%81%E3%80%8D%EF%BC%88%E5%A4%A9%E9%82%AA%E9%AC%BCGR%EF%BC%89%2Ejpg.html -->
 
 博丽灵梦 | 弹幕天邪鬼 | 敌机符卡
-
-
-
-
 
 
 ---

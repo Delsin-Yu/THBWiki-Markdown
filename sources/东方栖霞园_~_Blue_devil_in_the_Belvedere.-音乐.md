@@ -1,6 +1,6 @@
 # 东方栖霞园_~_Blue_devil_in_the_Belvedere./音乐
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\4d\ns0%3A%E4%B8%9C%E6%96%B9%E6%A0%96%E9%9C%9E%E5%9B%AD_%7E_Blue_devil_in_the_Belvedere%2E%2F%E9%9F%B3%E4%B9%90.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\4d\ns0%3A%E4%B8%9C%E6%96%B9%E6%A0%96%E9%9C%9E%E5%9B%AD_%7E_Blue_devil_in_the_Belvedere%2E%2F%E9%9F%B3%E4%B9%90.html -->
 
 东方祈华梦制作组
 
@@ -14,9 +14,7 @@
 这次的曲子仍然以东方原作风格的曲子为主，不过加入了许多我自己的风格。  
 
 如果喜欢，请继续关注我们的后续作品哦。  
-
   
-
 
 ## Music Room
 
@@ -25,7 +23,7 @@
 <tbody><tr>
 <td style="background: #dde6ff;" align="center" width="15%"><h6><span id=".E6.A0.87.E9.A2.98.E7.94.BB.E9.9D.A2.E6.9B.B2"></span><span class="mw-headline" id="标题画面曲">标题画面曲</span></h6>
 </td>
-<td style="background: #FFFFCC;" align="center" width="55%"><a href="/index.php?title=Abendrot_~_%E6%A0%96%E6%81%AF%E4%BA%8E%E9%9C%9E%E9%97%B4&amp;action=edit&amp;redlink=1" class="new" title="Abendrot ~ 栖息于霞间（页面不存在）">Abendrot ~ 栖息于霞间</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">1</a></sup>
+<td style="background: #FFFFCC;" align="center" width="55%"><a class="new" title="Abendrot ~ 栖息于霞间（页面不存在）">Abendrot ~ 栖息于霞间</a><span>[^cite_note-1]</span>
 </td>
 <td style="background: #dde6ff;" align="center" width="10%">♪ <i>灵猫子</i>
 </td></tr>
@@ -42,13 +40,12 @@
 </td></tr></tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
 <td style="background: #dde6ff;" align="center" width="15%"><h6><span id="1.E9.9D.A2.E4.B8.BB.E9.A2.98.E6.9B.B2"></span><span class="mw-headline" id="1面主题曲">1面主题曲</span></h6>
 </td>
-<td style="background: #FFFFCC;" align="center" width="55%"><a href="/index.php?title=%E9%9B%BE%E4%B9%8B%E6%B9%96%E7%9A%84%E8%8A%92%E7%A7%8D&amp;action=edit&amp;redlink=1" class="new" title="雾之湖的芒种（页面不存在）">雾之湖的芒种</a>
+<td style="background: #FFFFCC;" align="center" width="55%"><a class="new" title="雾之湖的芒种（页面不存在）">雾之湖的芒种</a>
 </td>
 <td style="background: #dde6ff;" align="center" width="10%">♪ <i>灵猫子</i>
 </td></tr>
@@ -65,13 +62,12 @@
 </td></tr></tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
 <td style="background: #dde6ff;" align="center" width="15%"><h6><span id="1.E9.9D.A2boss-.E8.95.BE.E7.B1.B3.E8.8E.89.E4.BA.9A.C2.B7.E6.96.AF.E5.8D.A1.E9.9B.B7.E7.89.B9.E4.B8.BB.E9.A2.98.E6.9B.B2"></span><span class="mw-headline" id="1面boss-蕾米莉亚·斯卡雷特主题曲">1面boss-<a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特" unred="">蕾米莉亚·斯卡雷特</a>主题曲</span></h6>
 </td>
-<td style="background: #FFFFCC;" align="center" width="55%"><a href="/index.php?title=Der_scharlachrote_Teufel&amp;action=edit&amp;redlink=1" class="new" title="Der scharlachrote Teufel（页面不存在）">Der scharlachrote Teufel</a><br>（绯红的恶魔）<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">2</a></sup>
+<td style="background: #FFFFCC;" align="center" width="55%"><a class="new" title="Der scharlachrote Teufel（页面不存在）">Der scharlachrote Teufel</a><br>（绯红的恶魔）<span>[^cite_note-2]</span>
 </td>
 <td style="background: #dde6ff;" align="center" width="10%">♪ <i>ZUN，灵猫子</i>
 </td></tr>
@@ -89,13 +85,12 @@
 </td></tr></tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
 <td style="background: #dde6ff;" align="center" width="15%"><h6><span id="2.E9.9D.A2.E4.B8.BB.E9.A2.98.E6.9B.B2"></span><span class="mw-headline" id="2面主题曲">2面主题曲</span></h6>
 </td>
-<td style="background: #FFFFCC;" align="center" width="55%"><a href="/index.php?title=%E6%97%A5%E6%9A%AE%E4%B9%8B%E4%B8%8B%EF%BC%8C%E6%81%B6%E9%AD%94%E7%9A%84%E8%88%9E%E4%BC%9A&amp;action=edit&amp;redlink=1" class="new" title="日暮之下，恶魔的舞会（页面不存在）">日暮之下，恶魔的舞会</a>
+<td style="background: #FFFFCC;" align="center" width="55%"><a class="new" title="日暮之下，恶魔的舞会（页面不存在）">日暮之下，恶魔的舞会</a>
 </td>
 <td style="background: #dde6ff;" align="center" width="10%">♪ <i>灵猫子</i>
 </td></tr>
@@ -110,13 +105,12 @@
 </td></tr></tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
 <td style="background: #dde6ff;" align="center" width="15%"><h6><span id="2.E9.9D.A2boss-.E9.98.BF.E5.B0.94.E7.89.B9.E7.B1.B3.E5.A8.9C.C2.B7.E9.9C.B2.E5.A6.AE.E4.B8.BB.E9.A2.98.E6.9B.B2"></span><span class="mw-headline" id="2面boss-阿尔特米娜·露妮主题曲">2面boss-<a href="./阿尔特米娜·露妮.md" title="阿尔特米娜·露妮">阿尔特米娜·露妮</a>主题曲</span></h6>
 </td>
-<td style="background: #FFFFCC;" align="center" width="55%"><a href="/index.php?title=Dasos-Poliouchos&amp;action=edit&amp;redlink=1" class="new" title="Dasos-Poliouchos（页面不存在）">Dasos-Poliouchos</a><br>（庇佑密林之神）<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">3</a></sup>
+<td style="background: #FFFFCC;" align="center" width="55%"><a class="new" title="Dasos-Poliouchos（页面不存在）">Dasos-Poliouchos</a><br>（庇佑密林之神）<span>[^cite_note-3]</span>
 </td>
 <td style="background: #dde6ff;" align="center" width="10%">♪ <i>灵猫子</i>
 </td></tr>
@@ -134,13 +128,12 @@
 </td></tr></tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
 <td style="background: #dde6ff;" align="center" width="15%"><h6><span id="3.E9.9D.A2.E4.B8.BB.E9.A2.98.E6.9B.B2"></span><span class="mw-headline" id="3面主题曲">3面主题曲</span></h6>
 </td>
-<td style="background: #FFFFCC;" align="center" width="55%"><a href="/index.php?title=%E4%B8%AD%E4%B8%96%E7%BA%AA%E7%9A%84%E6%99%9A%E9%9C%9E&amp;action=edit&amp;redlink=1" class="new" title="中世纪的晚霞（页面不存在）">中世纪的晚霞</a>
+<td style="background: #FFFFCC;" align="center" width="55%"><a class="new" title="中世纪的晚霞（页面不存在）">中世纪的晚霞</a>
 </td>
 <td style="background: #dde6ff;" align="center" width="10%">♪ <i>灵猫子</i>
 </td></tr>
@@ -158,13 +151,12 @@
 </td></tr></tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
 <td style="background: #dde6ff;" align="center" width="15%"><h6><span id="3.E9.9D.A2boss-.E4.BC.8A.E8.8E.89.E8.8F.B2.E4.BA.9A.C2.B7.E7.8E.9B.E4.BF.AE.E4.B8.BB.E9.A2.98.E6.9B.B2"></span><span class="mw-headline" id="3面boss-伊莉菲亚·玛修主题曲">3面boss-<a href="./伊莉菲亚·玛修.md" title="伊莉菲亚·玛修">伊莉菲亚·玛修</a>主题曲</span></h6>
 </td>
-<td style="background: #FFFFCC;" align="center" width="55%"><a href="/index.php?title=Historien_de_la_magie&amp;action=edit&amp;redlink=1" class="new" title="Historien de la magie（页面不存在）">Historien de la magie</a><br>（魔法史学者）<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">4</a></sup>
+<td style="background: #FFFFCC;" align="center" width="55%"><a class="new" title="Historien de la magie（页面不存在）">Historien de la magie</a><br>（魔法史学者）<span>[^cite_note-4]</span>
 </td>
 <td style="background: #dde6ff;" align="center" width="10%">♪ <i>灵猫子，H2SO4</i>
 </td></tr>
@@ -181,13 +173,12 @@
 </td></tr></tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
 <td style="background: #dde6ff;" align="center" width="15%"><h6><span id="4.E9.9D.A2.E4.B8.BB.E9.A2.98.E6.9B.B2"></span><span class="mw-headline" id="4面主题曲">4面主题曲</span></h6>
 </td>
-<td style="background: #FFFFCC;" align="center" width="55%"><a href="/index.php?title=%E9%BB%84%E9%87%91%E4%B9%8B%E5%9B%BD%EF%BC%8C%E4%BB%8A%E5%A4%9C%E6%97%A0%E7%9C%A0&amp;action=edit&amp;redlink=1" class="new" title="黄金之国，今夜无眠（页面不存在）">黄金之国，今夜无眠</a>
+<td style="background: #FFFFCC;" align="center" width="55%"><a class="new" title="黄金之国，今夜无眠（页面不存在）">黄金之国，今夜无眠</a>
 </td>
 <td style="background: #dde6ff;" align="center" width="10%">♪ <i>灵猫子</i>
 </td></tr>
@@ -205,13 +196,12 @@
 </td></tr></tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
 <td style="background: #dde6ff;" align="center" width="15%"><h6><span id="4.E9.9D.A2boss-.E7.8E.9B.E6.A0.BC.E4.B8.BD.E7.89.B9.C2.B7.E5.8B.92.E5.A4.8F.E4.B8.BB.E9.A2.98.E6.9B.B2"></span><span class="mw-headline" id="4面boss-玛格丽特·勒夏主题曲">4面boss-<a href="./玛格丽特·勒夏.md" title="玛格丽特·勒夏">玛格丽特·勒夏</a>主题曲</span></h6>
 </td>
-<td style="background: #FFFFCC;" align="center" width="55%"><a href="/index.php?title=Golden_Cinderella&amp;action=edit&amp;redlink=1" class="new" title="Golden Cinderella（页面不存在）">Golden Cinderella</a><br>（黄金灰姑娘）
+<td style="background: #FFFFCC;" align="center" width="55%"><a class="new" title="Golden Cinderella（页面不存在）">Golden Cinderella</a><br>（黄金灰姑娘）
 </td>
 <td style="background: #dde6ff;" align="center" width="10%">♪ <i>灵猫子</i>
 </td></tr>
@@ -229,13 +219,12 @@
 </td></tr></tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
 <td style="background: #dde6ff;" align="center" width="15%"><h6><span id="5.E9.9D.A2.E4.B8.BB.E9.A2.98.E6.9B.B2"></span><span class="mw-headline" id="5面主题曲">5面主题曲</span></h6>
 </td>
-<td style="background: #FFFFCC;" align="center" width="55%"><a href="/index.php?title=%E6%BB%A1%E6%9C%88%E6%98%9F%E6%B2%B3%E5%9B%BE&amp;action=edit&amp;redlink=1" class="new" title="满月星河图（页面不存在）">满月星河图</a>
+<td style="background: #FFFFCC;" align="center" width="55%"><a class="new" title="满月星河图（页面不存在）">满月星河图</a>
 </td>
 <td style="background: #dde6ff;" align="center" width="10%">♪ <i>灵猫子</i>
 </td></tr>
@@ -252,13 +241,12 @@
 </td></tr></tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
 <td style="background: #dde6ff;" align="center" width="15%"><h6><span id="5.E9.9D.A2boss-.E8.8E.B1.E5.8D.A1.E6.B4.9B.E6.99.AE.E5.A8.85.C2.B7.E8.B5.AB.E6.81.A9.E4.B8.BB.E9.A2.98.E6.9B.B2"></span><span class="mw-headline" id="5面boss-莱卡洛普娅·赫恩主题曲">5面boss-<a href="./莱卡洛普娅·赫恩.md" title="莱卡洛普娅·赫恩">莱卡洛普娅·赫恩</a>主题曲</span></h6>
 </td>
-<td style="background: #FFFFCC;" align="center" width="55%"><a href="/index.php?title=%E4%BB%8A%E5%A4%9C%E7%9A%84%E8%8A%92%E4%B8%8A%E6%9C%88_%EF%BD%9E_Underworld_Loup-garo!&amp;action=edit&amp;redlink=1" class="new" title="今夜的芒上月 ～ Underworld Loup-garo!（页面不存在）">今夜的芒上月　～ Underworld Loup-garo!</a><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">5</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">6</a></sup>
+<td style="background: #FFFFCC;" align="center" width="55%"><a class="new" title="今夜的芒上月 ～ Underworld Loup-garo!（页面不存在）">今夜的芒上月　～ Underworld Loup-garo!</a><span>[^cite_note-5]</span><span>[^cite_note-6]</span>
 </td>
 <td style="background: #dde6ff;" align="center" width="10%">♪ <i>灵猫子</i>
 </td></tr>
@@ -276,13 +264,12 @@
 </td></tr></tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
 <td style="background: #dde6ff;" align="center" width="15%"><h6><span id="6.E9.9D.A2.E4.B8.BB.E9.A2.98.E6.9B.B2"></span><span class="mw-headline" id="6面主题曲">6面主题曲</span></h6>
 </td>
-<td style="background: #FFFFCC;" align="center" width="55%"><a href="/index.php?title=%E6%B0%B8%E6%81%92%E7%8E%8B%E6%9D%83%E5%A5%91%E7%BA%A6&amp;action=edit&amp;redlink=1" class="new" title="永恒王权契约（页面不存在）">永恒王权契约</a>
+<td style="background: #FFFFCC;" align="center" width="55%"><a class="new" title="永恒王权契约（页面不存在）">永恒王权契约</a>
 </td>
 <td style="background: #dde6ff;" align="center" width="10%">♪ <i>灵猫子</i>
 </td></tr>
@@ -298,13 +285,12 @@
 </td></tr></tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
 <td style="background: #dde6ff;" align="center" width="15%"><h6><span id="6.E9.9D.A2boss-.E7.B4.A2.E5.A6.AE.E4.BA.9A.C2.B7.E5.86.AF.C2.B7.E5.A5.A5.E5.B0.94.E6.96.AF.E4.BD.A9.E4.B8.BB.E9.A2.98.E6.9B.B2"></span><span class="mw-headline" id="6面boss-索妮亚·冯·奥尔斯佩主题曲">6面boss-<a href="./索妮亚·冯·奥尔斯佩.md" title="索妮亚·冯·奥尔斯佩">索妮亚·冯·奥尔斯佩</a>主题曲</span></h6>
 </td>
-<td style="background: #FFFFCC;" align="center" width="55%"><a href="/index.php?title=%E8%80%B8%E7%AB%8B%E5%B1%B1%E5%B7%85%E7%9A%84%E9%95%BF%E6%98%8E%E7%81%AF_%EF%BD%9E_the_End_of_History&amp;action=edit&amp;redlink=1" class="new" title="耸立山巅的长明灯 ～ the End of History（页面不存在）">耸立山巅的长明灯　～ the End of History</a><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">7</a></sup>
+<td style="background: #FFFFCC;" align="center" width="55%"><a class="new" title="耸立山巅的长明灯 ～ the End of History（页面不存在）">耸立山巅的长明灯　～ the End of History</a><span>[^cite_note-7]</span>
 </td>
 <td style="background: #dde6ff;" align="center" width="10%">♪ <i>灵猫子、H2SO4</i>
 </td></tr>
@@ -322,13 +308,12 @@
 </td></tr></tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
 <td style="background: #dde6ff;" align="center" width="15%"><h6><span id="Extra.E9.9D.A2.E4.B8.BB.E9.A2.98.E6.9B.B2"></span><span class="mw-headline" id="Extra面主题曲">Extra面主题曲</span></h6>
 </td>
-<td style="background: #FFFFCC;" align="center" width="55%"><a href="/index.php?title=%E5%B0%BC%E5%BE%B7%E9%9C%8D%E6%A0%BC%E6%89%80%E5%81%9A%E4%B9%8B%E6%A2%A6&amp;action=edit&amp;redlink=1" class="new" title="尼德霍格所做之梦（页面不存在）">尼德霍格所做之梦</a><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">8</a></sup>
+<td style="background: #FFFFCC;" align="center" width="55%"><a class="new" title="尼德霍格所做之梦（页面不存在）">尼德霍格所做之梦</a><span>[^cite_note-8]</span>
 </td>
 <td style="background: #dde6ff;" align="center" width="10%">♪ <i>灵猫子</i>
 </td></tr>
@@ -346,13 +331,12 @@
 </td></tr></tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
 <td style="background: #dde6ff;" align="center" width="15%"><h6><span id="Extra.E9.9D.A2boss-.E5.8F.AF.E8.8E.B1.E5.A8.9C.C2.B7.E5.8F.A4.E6.8B.89.E6.89.98.E5.B0.BC.E4.B8.BB.E9.A2.98.E6.9B.B2"></span><span class="mw-headline" id="Extra面boss-可莱娜·古拉托尼主题曲">Extra面boss-<a href="./可莱娜·古拉托尼.md" title="可莱娜·古拉托尼">可莱娜·古拉托尼</a>主题曲</span></h6>
 </td>
-<td style="background: #FFFFCC;" align="center" width="55%"><a href="/index.php?title=Den_Vals_af_Ragnarok&amp;action=edit&amp;redlink=1" class="new" title="Den Vals af Ragnarok（页面不存在）">Den Vals af Ragnarok</a><br>（诸神黄昏的华尔兹）<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">9</a></sup>
+<td style="background: #FFFFCC;" align="center" width="55%"><a class="new" title="Den Vals af Ragnarok（页面不存在）">Den Vals af Ragnarok</a><br>（诸神黄昏的华尔兹）<span>[^cite_note-9]</span>
 </td>
 <td style="background: #dde6ff;" align="center" width="10%">♪ <i>灵猫子</i>
 </td></tr>
@@ -369,13 +353,12 @@
 </td></tr></tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
 <td style="background: #dde6ff;" align="center" width="15%"><h6><span id=".E7.BB.93.E6.9D.9F.E7.94.BB.E9.9D.A2.E4.B8.BB.E9.A2.98.E6.9B.B2"></span><span class="mw-headline" id="结束画面主题曲">结束画面主题曲</span></h6>
 </td>
-<td style="background: #FFFFCC;" align="center" width="55%"><a href="/index.php?title=%E7%A0%B4%E6%99%93%E4%B9%8B%E6%97%B6&amp;action=edit&amp;redlink=1" class="new" title="破晓之时（页面不存在）">破晓之时</a>
+<td style="background: #FFFFCC;" align="center" width="55%"><a class="new" title="破晓之时（页面不存在）">破晓之时</a>
 </td>
 <td style="background: #dde6ff;" align="center" width="10%">♪ <i>灵猫子</i>
 </td></tr>
@@ -390,13 +373,12 @@
 </td></tr></tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
 <td style="background: #dde6ff;" align="center" width="15%"><h6><span id="Staffroll.E4.B8.BB.E9.A2.98.E6.9B.B2"></span><span class="mw-headline" id="Staffroll主题曲">Staffroll主题曲</span></h6>
 </td>
-<td style="background: #FFFFCC;" align="center" width="55%"><a href="/index.php?title=%E5%B8%83%E5%B7%B4%E6%96%AF%E6%8F%90%E6%96%AF%E7%A5%9E%E7%A5%AD&amp;action=edit&amp;redlink=1" class="new" title="布巴斯提斯神祭（页面不存在）">布巴斯提斯神祭</a><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">10</a></sup>
+<td style="background: #FFFFCC;" align="center" width="55%"><a class="new" title="布巴斯提斯神祭（页面不存在）">布巴斯提斯神祭</a><span>[^cite_note-10]</span>
 </td>
 <td style="background: #dde6ff;" align="center" width="10%">♪ <i>ZUN，灵猫子</i>
 </td></tr>
@@ -412,7 +394,6 @@ Staff的主题曲。<br>
 2021年5月作曲
 </p>
 </td></tr></tbody></table>
-
 
 
 <table>
@@ -434,7 +415,6 @@ Staff的主题曲。<br>
 2021年1月作曲
 </p>
 </td></tr></tbody></table>
-
 
 
 <table>
@@ -460,7 +440,6 @@ Bonus Track！自从2015年开始写曲不久就一直想给蕾米写首威严�
 </td></tr></tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
@@ -480,21 +459,16 @@ Bonus Track！自从2015年开始写曲不久就一直想给蕾米写首威严�
 </p>
 </td></tr></tbody></table>
 
-
-
 [^cite_note-1]: “Abendrot”为德语“日暮”、“晚霞”之意。
-
-
-## 词条导航
-  
-  
-
-<table><tbody><tr><td><table cellspacing="0" class="nowraplinks mw-collapsible mw-collapsed" style="width:100%;;;"><tbody><tr><th style=";" colspan="3" class="navbox-title"><div class="navbar"><div class="noprint plainlinksneverexpand" style="background-color:transparent; padding:0; font-weight:normal; font-size:80%; white-space:nowrap;"><a href="./东方栖霞园_~_Blue_devil_in_the_Belvedere.-导航.md" title="东方栖霞园 ~ Blue devil in the Belvedere./导航"><span style=";;border:none;" title="查看这个模板">查</span></a>&#160;<span style="font-size:80%;">•</span>&#160;<a href="/index.php?title=%E4%B8%9C%E6%96%B9%E6%A0%96%E9%9C%9E%E5%9B%AD_~_Blue_devil_in_the_Belvedere./%E5%AF%BC%E8%88%AA&amp;action=edit"><span style=";;border:none;" title="您可以编辑这个模板。请在储存变更之前先预览">编</span></a></div></div><span><a href="./东方栖霞园_~_Blue_devil_in_the_Belvedere..md" title="东方栖霞园 ~ Blue devil in the Belvedere.">东方栖霞园 ~ Blue devil in the Belvedere.</a></span></th></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="./东方栖霞园_~_Blue_devil_in_the_Belvedere.-体验版Omake.md" title="东方栖霞园 ~ Blue devil in the Belvedere./体验版Omake">角色</a></td><td style=";;" class="navbox-list navbox-odd"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>自机</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./东方栖霞园_~_Blue_devil_in_the_Belvedere.-体验版Omake.md" title="东方栖霞园 ~ Blue devil in the Belvedere./体验版Omake">博丽灵梦</a> &#8226; <a href="./东方栖霞园_~_Blue_devil_in_the_Belvedere.-体验版Omake.md" title="东方栖霞园 ~ Blue devil in the Belvedere./体验版Omake">雾雨魔理沙</a> &#8226; <a href="./东方栖霞园_~_Blue_devil_in_the_Belvedere.-体验版Omake.md" title="东方栖霞园 ~ Blue devil in the Belvedere./体验版Omake">十六夜咲夜</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>BOSS</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./东方栖霞园_~_Blue_devil_in_the_Belvedere.-体验版Omake.md" title="东方栖霞园 ~ Blue devil in the Belvedere./体验版Omake">琪露诺</a> &#8226; <a href="./东方栖霞园_~_Blue_devil_in_the_Belvedere.-体验版Omake.md" title="东方栖霞园 ~ Blue devil in the Belvedere./体验版Omake">蕾米莉亚·斯卡蕾特</a> &#8226; <a href="./莉莉霍瓦特.md" title="莉莉霍瓦特" unred="">莉莉怀特</a> &#8226; <a href="./阿尔特米娜·露妮.md" title="阿尔特米娜·露妮">阿尔特米娜·露妮</a> &#8226; <a href="./伊莉菲亚·玛修.md" title="伊莉菲亚·玛修">伊莉菲亚·玛修</a> &#8226; <a href="./莉莉布莱克.md" title="莉莉布莱克">莉莉布莱克</a> &#8226; <a href="./玛格丽特·勒夏.md" title="玛格丽特·勒夏">玛格丽特·勒夏</a> &#8226; <a href="./莱卡洛普娅·赫恩.md" title="莱卡洛普娅·赫恩">莱卡洛普娅·赫恩</a> &#8226; <a href="./索妮亚·冯·奥尔斯佩.md" title="索妮亚·冯·奥尔斯佩">索妮亚·冯·奥尔斯佩</a> &#8226; <a href="./可莱娜·古拉托尼.md" title="可莱娜·古拉托尼">可莱娜·古拉托尼</a></div></td></tr></tbody></table><div></div></td><td class="navbox-image" style="" rowspan="13"><a href="./文件-东方栖霞园_~_Blue_devil_in_the_Belvedere.封面.png.md" class="image"><img alt="东方栖霞园 ~ Blue devil in the Belvedere.封面.png" src="https://upload.thwiki.cc/thumb/e/ec/%E4%B8%9C%E6%96%B9%E6%A0%96%E9%9C%9E%E5%9B%AD_~_Blue_devil_in_the_Belvedere.%E5%B0%81%E9%9D%A2.png/160px-%E4%B8%9C%E6%96%B9%E6%A0%96%E9%9C%9E%E5%9B%AD_~_Blue_devil_in_the_Belvedere.%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="160" height="160" srcset="https://upload.thwiki.cc/thumb/e/ec/%E4%B8%9C%E6%96%B9%E6%A0%96%E9%9C%9E%E5%9B%AD_~_Blue_devil_in_the_Belvedere.%E5%B0%81%E9%9D%A2.png/240px-%E4%B8%9C%E6%96%B9%E6%A0%96%E9%9C%9E%E5%9B%AD_~_Blue_devil_in_the_Belvedere.%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/e/ec/%E4%B8%9C%E6%96%B9%E6%A0%96%E9%9C%9E%E5%9B%AD_~_Blue_devil_in_the_Belvedere.%E5%B0%81%E9%9D%A2.png/320px-%E4%B8%9C%E6%96%B9%E6%A0%96%E9%9C%9E%E5%9B%AD_~_Blue_devil_in_the_Belvedere.%E5%B0%81%E9%9D%A2.png 2x" data-file-width="2048" data-file-height="2048"></a></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="/index.php?title=%E4%B8%9C%E6%96%B9%E6%A0%96%E9%9C%9E%E5%9B%AD_~_Blue_devil_in_the_Belvedere./%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85&amp;action=edit&amp;redlink=1" class="new" title="东方栖霞园 ~ Blue devil in the Belvedere./设定与剧情（页面不存在）">剧情</a></td><td style=";;" class="navbox-list navbox-even"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>剧情文本</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./东方栖霞园_~_Blue_devil_in_the_Belvedere.-故事背景.md" title="东方栖霞园 ~ Blue devil in the Belvedere./故事背景">故事背景</a> &#8226; <a href="/index.php?title=%E4%B8%9C%E6%96%B9%E6%A0%96%E9%9C%9E%E5%9B%AD_~_Blue_devil_in_the_Belvedere./%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A&amp;action=edit&amp;redlink=1" class="new" title="东方栖霞园 ~ Blue devil in the Belvedere./角色设定（页面不存在）">Ex 故事背景</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>游戏对话&amp;结局</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./东方栖霞园_~_Blue_devil_in_the_Belvedere.-博丽灵梦.md" title="东方栖霞园 ~ Blue devil in the Belvedere./博丽灵梦">博丽灵梦</a> &#8226; <a href="./东方栖霞园_~_Blue_devil_in_the_Belvedere.-雾雨魔理沙.md" title="东方栖霞园 ~ Blue devil in the Belvedere./雾雨魔理沙">雾雨魔理沙</a> &#8226; <a href="./东方栖霞园_~_Blue_devil_in_the_Belvedere.-十六夜咲夜.md" title="东方栖霞园 ~ Blue devil in the Belvedere./十六夜咲夜">十六夜咲夜</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>EX游戏对话</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./东方栖霞园_~_Blue_devil_in_the_Belvedere.-博丽灵梦_ExStory.md" title="东方栖霞园 ~ Blue devil in the Belvedere./博丽灵梦 ExStory">博丽灵梦</a> &#8226; <a href="./东方栖霞园_~_Blue_devil_in_the_Belvedere.-雾雨魔理沙_ExStory.md" title="东方栖霞园 ~ Blue devil in the Belvedere./雾雨魔理沙 ExStory">雾雨魔理沙</a> &#8226; <a href="./东方栖霞园_~_Blue_devil_in_the_Belvedere.-十六夜咲夜_ExStory.md" title="东方栖霞园 ~ Blue devil in the Belvedere./十六夜咲夜 ExStory">十六夜咲夜</a></div></td></tr></tbody></table><div></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">场景</td><td style=";;" class="navbox-list navbox-odd"><div><a href="./雾之湖.md" title="雾之湖">雾之湖</a>·<a href="./红魔馆.md" title="红魔馆">红魔馆</a>前 &#8226; <a href="./魔法森林.md" title="魔法森林">森林的小径</a> &#8226; 异域的郊野 &#8226; 栖霞园 &#8226; 清泉宫 &#8226; 清泉宫·启示之厅 &#8226; <a href="./魔法森林.md" title="魔法森林">魔法森林</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">音乐</td><td style=";;" class="navbox-list navbox-even"><div><a class="mw-selflink selflink">Music Room</a> &#8226; <a href="./奥尔斯佩女王舞会_~_Queen_of_Auersper's_Ball.md" title="奥尔斯佩女王舞会 ~ Queen of Auersper&#39;s Ball">Original Sound Track</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="/index.php?title=%E4%B8%9C%E6%96%B9%E6%A0%96%E9%9C%9E%E5%9B%AD_~_Blue_devil_in_the_Belvedere./%E9%99%84%E5%B8%A6%E6%96%87%E6%A1%A3&amp;action=edit&amp;redlink=1" class="new" title="东方栖霞园 ~ Blue devil in the Belvedere./附带文档（页面不存在）">附带文档</a></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./东方栖霞园_~_Blue_devil_in_the_Belvedere.-体验版Omake.md" title="东方栖霞园 ~ Blue devil in the Belvedere./体验版Omake">Omake</a> &#8226; <a href="/index.php?title=%E4%B8%9C%E6%96%B9%E6%A0%96%E9%9C%9E%E5%9B%AD_~_Blue_devil_in_the_Belvedere./Manual&amp;action=edit&amp;redlink=1" class="new" title="东方栖霞园 ~ Blue devil in the Belvedere./Manual（页面不存在）">Manual</a> &#8226; <a href="/index.php?title=%E4%B8%9C%E6%96%B9%E6%A0%96%E9%9C%9E%E5%9B%AD_~_Blue_devil_in_the_Belvedere./%E7%96%91%E9%9A%BE%E8%A7%A3%E7%AD%94&amp;action=edit&amp;redlink=1" class="new" title="东方栖霞园 ~ Blue devil in the Belvedere./疑难解答（页面不存在）">疑难解答</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="./东方栖霞园_~_Blue_devil_in_the_Belvedere.-系统.md" title="东方栖霞园 ~ Blue devil in the Belvedere./系统">系统</a></td><td style=";;" class="navbox-list navbox-even"><div><a href="./东方栖霞园_~_Blue_devil_in_the_Belvedere.-系统.md" title="东方栖霞园 ~ Blue devil in the Belvedere./系统">系统</a> &#8226; <a href="./东方栖霞园_~_Blue_devil_in_the_Belvedere.-其他.md" title="东方栖霞园 ~ Blue devil in the Belvedere./其他">其他相关资料</a> &#8226; <a href="./东方栖霞园_~_Blue_devil_in_the_Belvedere.-成就.md" title="东方栖霞园 ~ Blue devil in the Belvedere./成就">成就</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="./东方栖霞园_~_Blue_devil_in_the_Belvedere.-符卡.md" title="东方栖霞园 ~ Blue devil in the Belvedere./符卡">符卡</a></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./东方栖霞园_~_Blue_devil_in_the_Belvedere.-符卡-Stage_1.md" title="东方栖霞园 ~ Blue devil in the Belvedere./符卡/Stage 1">Stage 1</a> &#8226; <a href="./东方栖霞园_~_Blue_devil_in_the_Belvedere.-符卡-Stage_2.md" title="东方栖霞园 ~ Blue devil in the Belvedere./符卡/Stage 2">Stage 2</a> &#8226; <a href="./东方栖霞园_~_Blue_devil_in_the_Belvedere.-符卡-Stage_3.md" title="东方栖霞园 ~ Blue devil in the Belvedere./符卡/Stage 3">Stage 3</a> &#8226; <a href="./东方栖霞园_~_Blue_devil_in_the_Belvedere.-符卡-Stage_4.md" title="东方栖霞园 ~ Blue devil in the Belvedere./符卡/Stage 4">Stage 4</a> &#8226; <a href="./东方栖霞园_~_Blue_devil_in_the_Belvedere.-符卡-Stage_5.md" title="东方栖霞园 ~ Blue devil in the Belvedere./符卡/Stage 5">Stage 5</a> &#8226; <a href="./东方栖霞园_~_Blue_devil_in_the_Belvedere.-符卡-Stage_6.md" title="东方栖霞园 ~ Blue devil in the Belvedere./符卡/Stage 6">Stage 6</a> &#8226; <a href="./东方栖霞园_~_Blue_devil_in_the_Belvedere.-符卡-Extra.md" title="东方栖霞园 ~ Blue devil in the Belvedere./符卡/Extra">Extra</a></div></td></tr></tbody></table></td></tr></tbody></table>
-
-
-
-
-
+[^cite_note-2]: 曲名为德语，意为“绯红的恶魔”。
+[^cite_note-3]: 曲名中“Dasos”（δάσος）为希腊语，意为“森林”；“Poliouchos”（普里奥克斯）为雅典的城邦守护神雅典娜的别称，为“守护神”之意。整体含义即“森林的守护神”，对应二面BOSS的原型，希腊神话中的森林女神、狩猎女神、月亮女神阿尔忒弥斯。此曲在原声集中的中文部分为“密林之神的臂弯”。
+[^cite_note-4]: 曲名为法语，取自现实存在的一本神秘学书籍《Histoire de la magie》，为19世纪重要的神秘学研究者艾利法斯·莱维（Eliphas Levi）所著。
+[^cite_note-5]: 花札中的“芒上月”，传说中狼人在满月下变身。另外，狼女[今泉影狼](./今泉影狼.md)的符卡背景里也出现了“芒上月”。
+[^cite_note-6]: “Loup-garo”或取自“Loup-garou”，为法语的“狼人”。
+[^cite_note-7]: “The End of History”或捏他弗兰西斯·福山提出的“历史终结论”。
+[^cite_note-8]: 北欧神话中，盘踞在世界树底部的巨龙，传说尼德霍格一直在啃食世界树的根部，当树根被咬穿之时，诸神黄昏便会来临。
+[^cite_note-9]: 曲名或为丹麦语。Ragnarök为北欧神话中的诸神黄昏。
+[^cite_note-10]: 埃及神话中，猫头人身的女神“芭斯特”（Bastet），“布巴斯提斯”（Bubastis）是芭斯特女神的信仰中心。在克苏鲁神话中，有以芭斯特女神为原型创作的旧神。
 
 ---
 

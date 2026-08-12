@@ -1,6 +1,6 @@
 # 文件:閑雅祭囃子_～_Historical_Mirage_of_Japan封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2f\ns6%3A%E9%96%91%E9%9B%85%E7%A5%AD%E5%9B%83%E5%AD%90_%EF%BD%9E_Historical_Mirage_of_Japan%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2f\ns6%3A%E9%96%91%E9%9B%85%E7%A5%AD%E5%9B%83%E5%AD%90_%EF%BD%9E_Historical_Mirage_of_Japan%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 MiragEden | 专辑封面 | 封面图片
 
@@ -10,11 +10,9 @@ MiragEden | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [閑雅祭囃子 ～ Historical Mirage of Japan](./閑雅祭囃子_～_Historical_Mirage_of_Japan.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [閑雅祭囃子 ～ Historical Mirage of Japan](./閑雅祭囃子_～_Historical_Mirage_of_Japan.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

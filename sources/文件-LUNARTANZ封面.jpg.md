@@ -1,6 +1,6 @@
 # 文件:LUNARTANZ封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bf\ns6%3ALUNARTANZ%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bf\ns6%3ALUNARTANZ%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Frozen_Starfall | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@ Frozen_Starfall | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [LUNARTANZ](./LUNARTANZ.md)  
-该封面包含的角色：- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
+- [LUNARTANZ](./LUNARTANZ.md)该封面包含的角色：
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
 
   
-源地址：[图片链接](https://frozenstarfall.net/wp-content/uploads/2021/09/cover_1500.jpg) [官网](https://frozenstarfall.net/lunartanz-2021-ver-nhato-remix/)
-  
-
-
-
-
+源地址：[图片链接](https://frozenstarfall.net/wp-content/uploads/2021/09/cover_1500.jpg) [官网](https://frozenstarfall.net/lunartanz-2021-ver-nhato-remix/)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:TOHO_EUROBEAT_VOL.3_THE_EMBODIMENT_OF_SCARLET_DEVIL封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\13\ns6%3ATOHO_EUROBEAT_VOL%2E3_THE_EMBODIMENT_OF_SCARLET_DEVIL%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\13\ns6%3ATOHO_EUROBEAT_VOL%2E3_THE_EMBODIMENT_OF_SCARLET_DEVIL%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 A-One | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ A-One | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [TOHO EUROBEAT VOL.3 THE EMBODIMENT OF SCARLET DEVIL](./TOHO_EUROBEAT_VOL.3_THE_EMBODIMENT_OF_SCARLET_DEVIL.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
-
-
-
+- [TOHO EUROBEAT VOL.3 THE EMBODIMENT OF SCARLET DEVIL](./TOHO_EUROBEAT_VOL.3_THE_EMBODIMENT_OF_SCARLET_DEVIL.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:ひすゐ（hisuwi）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4f\ns6%3A%E3%81%B2%E3%81%99%E3%82%90%EF%BC%88hisuwi%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4f\ns6%3A%E3%81%B2%E3%81%99%E3%82%90%EF%BC%88hisuwi%EF%BC%89%2Epng.html -->
 
 二次角色立绘 | 翡翠
-
-
-
-
 
 
 ---

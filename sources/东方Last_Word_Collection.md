@@ -1,21 +1,24 @@
 # 东方Last_Word_Collection
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\4c\ns0%3A%E4%B8%9C%E6%96%B9Last_Word_Collection.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\4c\ns0%3A%E4%B8%9C%E6%96%B9Last_Word_Collection.html -->
 
 2004年12月30日 由 MiuMyu 于 Comic Market 67 发布的卡片周边，分级为 一般向
 
 本页是关于东方Project  
- **相关实体周边 (未找到链接)** 的词条
-本页是关于与ZUN有一定关联的东方同人作品 (未找到链接)的词条
+**相关实体周边 (未找到链接)**的词条本页是关于[与ZUN有一定关联的东方同人作品](./其他ZUN参与的作品.md#东方Project的二次创作)的词条
 ## 周边信息
 
-<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 東方ラストワードコレクション </td></tr><tr><td class="label">译名</td><td> 东方Last Word Collection </td></tr><tr><td class="label">制作方</td><td><a href="./MiuMyu.md" title="MiuMyu">MiuMyu</a></td></tr><tr><td class="label">首发日期</td><td>2004-12-30&#160;（<a href="/展会作品列表?e=Comic+Market%2367">Comic Market 67</a>）</td></tr><tr><td class="label">类型</td><td>卡片</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">角色</td><td><a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a><br><a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a><br><a href="./八云紫.md" title="八云紫">八云紫</a><br><a href="./爱丽丝·玛格特洛依德.md" title="爱丽丝·玛格特洛依德">爱丽丝·玛格特洛依德</a><br><a href="./魂魄妖梦.md" title="魂魄妖梦">魂魄妖梦</a><br><a href="./西行寺幽幽子.md" title="西行寺幽幽子">西行寺幽幽子</a><br><a href="/%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C" title="十六夜咲夜">十六夜咲夜</a><br><a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a><br><a href="./莉格露·奈特巴格.md" title="莉格露·奈特巴格">莉格露·奈特巴格</a><br><a href="./米斯蒂娅·萝蕾拉.md" title="米斯蒂娅·萝蕾拉">米斯蒂娅·萝蕾拉</a><br><a href="./上白泽慧音.md" title="上白泽慧音">上白泽慧音</a><br><a href="./因幡帝.md" title="因幡帝">因幡帝</a><br><a href="./铃仙·优昙华院·因幡.md" title="铃仙·优昙华院·因幡">铃仙·优昙华院·因幡</a><br><a href="./八意永琳.md" title="八意永琳">八意永琳</a><br><a href="./蓬莱山辉夜.md" title="蓬莱山辉夜">蓬莱山辉夜</a><br><a href="./藤原妹红.md" title="藤原妹红">藤原妹红</a></td></tr><tr><td class="label">售价</td><td>0日元</td></tr><tr><td class="label">备注</td><td>会场限定非卖品</td></tr></tbody></table>
+<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 東方ラストワードコレクション </td></tr><tr><td class="label">译名</td><td> 东方Last Word Collection </td></tr><tr><td class="label">制作方</td><td><a href="./MiuMyu.md" title="MiuMyu">MiuMyu</a></td></tr><tr><td class="label">首发日期</td><td>2004-12-30 （<a href="./展会作品列表.md#67">Comic Market 67</a>）</td></tr><tr><td class="label">类型</td><td>卡片</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">角色</td><td><a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a><br><a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a><br><a href="./八云紫.md" title="八云紫">八云紫</a><br><a href="./爱丽丝·玛格特洛依德.md" title="爱丽丝·玛格特洛依德">爱丽丝·玛格特洛依德</a><br><a href="./魂魄妖梦.md" title="魂魄妖梦">魂魄妖梦</a><br><a href="./西行寺幽幽子.md" title="西行寺幽幽子">西行寺幽幽子</a><br><a href="./十六夜咲夜.md" title="十六夜咲夜">十六夜咲夜</a><br><a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a><br><a href="./莉格露·奈特巴格.md" title="莉格露·奈特巴格">莉格露·奈特巴格</a><br><a href="./米斯蒂娅·萝蕾拉.md" title="米斯蒂娅·萝蕾拉">米斯蒂娅·萝蕾拉</a><br><a href="./上白泽慧音.md" title="上白泽慧音">上白泽慧音</a><br><a href="./因幡帝.md" title="因幡帝">因幡帝</a><br><a href="./铃仙·优昙华院·因幡.md" title="铃仙·优昙华院·因幡">铃仙·优昙华院·因幡</a><br><a href="./八意永琳.md" title="八意永琳">八意永琳</a><br><a href="./蓬莱山辉夜.md" title="蓬莱山辉夜">蓬莱山辉夜</a><br><a href="./藤原妹红.md" title="藤原妹红">藤原妹红</a></td></tr><tr><td class="label">售价</td><td>0日元</td></tr><tr><td class="label">备注</td><td>会场限定非卖品</td></tr></tbody></table>
 
 东方Last Word Collection（周边，MiuMyu，2004） - 2004年12月30日 由 MiuMyu 于 Comic Market 67 发布的卡片周边，分级为 一般向
 ### 实物图
-- [](./文件-东方Last_Word_Collection.jpg.md)- [](./文件-梦符「幻想一重」（Last_Word_Collection）.jpg.md)
+
+- <img alt="东方Last Word Collection.jpg" src="https://upload.thwiki.cc/thumb/a/aa/%E4%B8%9C%E6%96%B9Last_Word_Collection.jpg/326px-%E4%B8%9C%E6%96%B9Last_Word_Collection.jpg" decoding="async" loading="lazy" width="218" height="300" srcset="https://upload.thwiki.cc/thumb/a/aa/%E4%B8%9C%E6%96%B9Last_Word_Collection.jpg/489px-%E4%B8%9C%E6%96%B9Last_Word_Collection.jpg 1.5x, https://upload.thwiki.cc/thumb/a/aa/%E4%B8%9C%E6%96%B9Last_Word_Collection.jpg/653px-%E4%B8%9C%E6%96%B9Last_Word_Collection.jpg 2x" data-file-width="993" data-file-height="1369"> 
+- <img alt="梦符「幻想一重」（Last Word Collection）.jpg" src="https://upload.thwiki.cc/thumb/2/21/%E6%A2%A6%E7%AC%A6%E3%80%8C%E5%B9%BB%E6%83%B3%E4%B8%80%E9%87%8D%E3%80%8D%EF%BC%88Last_Word_Collection%EF%BC%89.jpg/314px-%E6%A2%A6%E7%AC%A6%E3%80%8C%E5%B9%BB%E6%83%B3%E4%B8%80%E9%87%8D%E3%80%8D%EF%BC%88Last_Word_Collection%EF%BC%89.jpg" decoding="async" loading="lazy" width="210" height="300" srcset="https://upload.thwiki.cc/thumb/2/21/%E6%A2%A6%E7%AC%A6%E3%80%8C%E5%B9%BB%E6%83%B3%E4%B8%80%E9%87%8D%E3%80%8D%EF%BC%88Last_Word_Collection%EF%BC%89.jpg/471px-%E6%A2%A6%E7%AC%A6%E3%80%8C%E5%B9%BB%E6%83%B3%E4%B8%80%E9%87%8D%E3%80%8D%EF%BC%88Last_Word_Collection%EF%BC%89.jpg 1.5x, https://upload.thwiki.cc/2/21/%E6%A2%A6%E7%AC%A6%E3%80%8C%E5%B9%BB%E6%83%B3%E4%B8%80%E9%87%8D%E3%80%8D%EF%BC%88Last_Word_Collection%EF%BC%89.jpg 2x" data-file-width="550" data-file-height="788"> 
+
 
 ## Staff
+
 - [ZUN](./ZUN.md)
 - [葉庭](./葉庭.md)
 - さとPON (未找到链接)
@@ -36,9 +39,6 @@
 - ひろさと (未找到链接)
 - kiriu (未找到链接)
 - みゅう☆ (未找到链接)
-
-
-
 
 
 ---

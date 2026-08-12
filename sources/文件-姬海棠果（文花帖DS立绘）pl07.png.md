@@ -1,14 +1,11 @@
 # 文件:姬海棠果（文花帖DS立绘）pl07.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\63\ns6%3A%E5%A7%AC%E6%B5%B7%E6%A3%A0%E6%9E%9C%EF%BC%88%E6%96%87%E8%8A%B1%E5%B8%96DS%E7%AB%8B%E7%BB%98%EF%BC%89pl07%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\63\ns6%3A%E5%A7%AC%E6%B5%B7%E6%A3%A0%E6%9E%9C%EF%BC%88%E6%96%87%E8%8A%B1%E5%B8%96DS%E7%AB%8B%E7%BB%98%EF%BC%89pl07%2Epng.html -->
 
 ZUN绘 | 东方文花帖DS | 姬海棠果 | 官方游戏立绘
 
 
 ## 摘要
-
-
-
 
 ---
 

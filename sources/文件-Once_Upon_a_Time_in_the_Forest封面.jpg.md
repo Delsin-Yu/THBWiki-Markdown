@@ -1,6 +1,6 @@
 # 文件:Once_Upon_a_Time_in_the_Forest封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b1\ns6%3AOnce_Upon_a_Time_in_the_Forest%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b1\ns6%3AOnce_Upon_a_Time_in_the_Forest%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 SY-3工房 | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@ SY-3工房 | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Once Upon a Time in the Forest](./Once_Upon_a_Time_in_the_Forest.md)  
-该封面包含的角色：- [因幡帝](./因幡帝.md)
+- [Once Upon a Time in the Forest](./Once_Upon_a_Time_in_the_Forest.md)该封面包含的角色：
+- [因幡帝](./因幡帝.md)
 
   
-[Pixiv artwork ID: 3329378 (via Danbooru ID: 414684; cropped and resized)](https://danbooru.donmai.us/posts/414684)
-  
-
-
-
-
+[Pixiv artwork ID: 3329378 (via Danbooru ID: 414684; cropped and resized)](https://danbooru.donmai.us/posts/414684)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:Phosphorus封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\08\ns6%3APhosphorus%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\08\ns6%3APhosphorus%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Ghoulio | 专辑封面 | 封面图片
 
@@ -8,10 +8,7 @@ Ghoulio | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Phosphorus](./Phosphorus.md)源地址：[[1]](https://f4.bcbits.com/img/a2912744175_10.jpg)
-
-
-
+- [Phosphorus](./Phosphorus.md)源地址：[\[1\]](https://f4.bcbits.com/img/a2912744175_10.jpg)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Pop_Rock_Lolli_Poppinng封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e6\ns6%3APop_Rock_Lolli_Poppinng%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e6\ns6%3APop_Rock_Lolli_Poppinng%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Xenoglossy | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Xenoglossy | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Pop Rock Lolli Poppinng](./Pop_Rock_Lolli_Poppinng.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
-
-
-
+- [Pop Rock Lolli Poppinng](./Pop_Rock_Lolli_Poppinng.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
 
 ---

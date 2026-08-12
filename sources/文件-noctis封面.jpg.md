@@ -1,6 +1,6 @@
 # 文件:noctis封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\70\ns6%3Anoctis%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\70\ns6%3Anoctis%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 RhythMos | 专辑封面 | 封面图片
 
@@ -13,12 +13,7 @@ RhythMos | 专辑封面 | 封面图片
 - [noctis](./noctis.md)
 
   
-源地址：[[1]](https://booth.pximg.net/7a4b5e31-39c5-432a-84db-9013a958f16d/i/1352433/9b27c13d-1bbd-485d-a9e2-217c1de12965_base_resized.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://booth.pximg.net/7a4b5e31-39c5-432a-84db-9013a958f16d/i/1352433/9b27c13d-1bbd-485d-a9e2-217c1de12965_base_resized.jpg)  
 
 ---
 

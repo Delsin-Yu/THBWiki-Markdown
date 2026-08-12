@@ -1,12 +1,8 @@
 # 文件:あさつき堂logo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\53\ns6%3A%E3%81%82%E3%81%95%E3%81%A4%E3%81%8D%E5%A0%82logo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\53\ns6%3A%E3%81%82%E3%81%95%E3%81%A4%E3%81%8D%E5%A0%82logo%2Ejpg.html -->
 
 あさつき堂 | 社团LOGO
-
-
-
-
 
 
 ---

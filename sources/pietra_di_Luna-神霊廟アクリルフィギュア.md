@@ -1,36 +1,28 @@
 # pietra_di_Luna/神霊廟アクリルフィギュア
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\62\ns0%3Apietra_di_Luna%2F%E7%A5%9E%E9%9C%8A%E5%BB%9F%E3%82%A2%E3%82%AF%E3%83%AA%E3%83%AB%E3%83%95%E3%82%A3%E3%82%AE%E3%83%A5%E3%82%A2.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\62\ns0%3Apietra_di_Luna%2F%E7%A5%9E%E9%9C%8A%E5%BB%9F%E3%82%A2%E3%82%AF%E3%83%AA%E3%83%AB%E3%83%95%E3%82%A3%E3%82%AE%E3%83%A5%E3%82%A2.html -->
 
 2016年8月13日 由 pietra di Luna 于 Comic Market 90 发布的立牌周边，分级为 一般向
 
 本页是关于东方Project  
- **相关实体周边 (未找到链接)** 的词条
-
+**相关实体周边 (未找到链接)**的词条
 ## 目录
 
 - [1 周边信息](#周边信息)
 - [2 参考图](#参考图)
-
   - [2.1 预览图](#预览图)
-
 
 
 - [3 Staff](#Staff)
 - [4 评论](#评论)
 
 
-
-
-
 ## 周边信息
 
-<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 神霊廟アクリルフィギュア </td></tr><tr><td class="label">制作方</td><td><a href="./pietra_di_Luna.md" title="pietra di Luna">pietra di Luna</a></td></tr><tr><td class="label">首发日期</td><td>2016-08-13&#160;（<a href="/展会作品列表?e=Comic+Market%2390">Comic Market 90</a>）</td></tr><tr><td class="label">类型</td><td>立牌</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>150×150mm</td></tr><tr><td class="label">角色</td><td><a href="./苏我屠自古.md" title="苏我屠自古">苏我屠自古</a><br><a href="./丰聪耳神子.md" title="丰聪耳神子">丰聪耳神子</a><br><a href="./物部布都.md" title="物部布都">物部布都</a><br><a href="./二岩猯藏.md" title="二岩猯藏">二岩猯藏</a><br><a href="./宫古芳香.md" title="宫古芳香">宫古芳香</a><br><a href="./霍青娥.md" title="霍青娥">霍青娥</a><br><a href="./幽谷响子.md" title="幽谷响子">幽谷响子</a></td></tr><tr><td class="label">售价</td><td>会场售价：800日元</td></tr></tbody></table>
+<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 神霊廟アクリルフィギュア </td></tr><tr><td class="label">制作方</td><td><a href="./pietra_di_Luna.md" title="pietra di Luna">pietra di Luna</a></td></tr><tr><td class="label">首发日期</td><td>2016-08-13 （<a href="./展会作品列表.md#90">Comic Market 90</a>）</td></tr><tr><td class="label">类型</td><td>立牌</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>150×150mm</td></tr><tr><td class="label">角色</td><td><a href="./苏我屠自古.md" title="苏我屠自古">苏我屠自古</a><br><a href="./丰聪耳神子.md" title="丰聪耳神子">丰聪耳神子</a><br><a href="./物部布都.md" title="物部布都">物部布都</a><br><a href="./二岩猯藏.md" title="二岩猯藏">二岩猯藏</a><br><a href="./宫古芳香.md" title="宫古芳香">宫古芳香</a><br><a href="./霍青娥.md" title="霍青娥">霍青娥</a><br><a href="./幽谷响子.md" title="幽谷响子">幽谷响子</a></td></tr><tr><td class="label">售价</td><td>会场售价：800日元</td></tr></tbody></table>
 
 pietra di Luna/神霊廟アクリルフィギュア（周边，pietra di Luna，2016） - 2016年8月13日 由 pietra di Luna 于 Comic Market 90 发布的立牌周边，分级为 一般向
-
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://pietra-di-luna.booth.pm/items/338702">Booth</a></td></tr></tbody></table>
-
 
 
 ## 参考图
@@ -38,19 +30,15 @@ pietra di Luna/神霊廟アクリルフィギュア（周边，pietra di Luna，
 周边宣传、售卖时使用的作为参考图的预览图或实物图的图片。
   
 
-
 ### 预览图
-- [](./文件-pietra_di_Luna／神霊廟アクリルフィギュア预览图1.jpg.md)
+
+- <img alt="pietra di Luna／神霊廟アクリルフィギュア预览图1.jpg" src="https://upload.thwiki.cc/thumb/b/b6/pietra_di_Luna%EF%BC%8F%E7%A5%9E%E9%9C%8A%E5%BB%9F%E3%82%A2%E3%82%AF%E3%83%AA%E3%83%AB%E3%83%95%E3%82%A3%E3%82%AE%E3%83%A5%E3%82%A2%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg/375px-pietra_di_Luna%EF%BC%8F%E7%A5%9E%E9%9C%8A%E5%BB%9F%E3%82%A2%E3%82%AF%E3%83%AA%E3%83%AB%E3%83%95%E3%82%A3%E3%82%AE%E3%83%A5%E3%82%A2%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg" decoding="async" loading="lazy" width="250" height="250" srcset="https://upload.thwiki.cc/thumb/b/b6/pietra_di_Luna%EF%BC%8F%E7%A5%9E%E9%9C%8A%E5%BB%9F%E3%82%A2%E3%82%AF%E3%83%AA%E3%83%AB%E3%83%95%E3%82%A3%E3%82%AE%E3%83%A5%E3%82%A2%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg/563px-pietra_di_Luna%EF%BC%8F%E7%A5%9E%E9%9C%8A%E5%BB%9F%E3%82%A2%E3%82%AF%E3%83%AA%E3%83%AB%E3%83%95%E3%82%A3%E3%82%AE%E3%83%A5%E3%82%A2%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg 1.5x, https://upload.thwiki.cc/b/b6/pietra_di_Luna%EF%BC%8F%E7%A5%9E%E9%9C%8A%E5%BB%9F%E3%82%A2%E3%82%AF%E3%83%AA%E3%83%AB%E3%83%95%E3%82%A3%E3%82%AE%E3%83%A5%E3%82%A2%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg 2x" data-file-width="620" data-file-height="620"> 
 
 
 ## Staff
 : Luna (未找到链接)
 
-
 ## 评论
-
-
-
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:God_of_the_wind封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\87\ns6%3AGod_of_the_wind%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\87\ns6%3AGod_of_the_wind%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 ガネメ | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [God of the wind](./God_of_the_wind.md)  
-该封面包含的角色：- [东风谷早苗](./东风谷早苗.md)
+- [God of the wind](./God_of_the_wind.md)该封面包含的角色：
+- [东风谷早苗](./东风谷早苗.md)
 
   
-源地址：[[1]](http://static.tumblr.com/6ffc856bda2ec1c176d0a217f0ea72d2/lircoia/HWtn9l6qx/tumblr_static_or5us5fxq800k40co8gcgswo.png)
-  
-
-
-
-
+源地址：[\[1\]](http://static.tumblr.com/6ffc856bda2ec1c176d0a217f0ea72d2/lircoia/HWtn9l6qx/tumblr_static_or5us5fxq800k40co8gcgswo.png)  
 
 ---
 

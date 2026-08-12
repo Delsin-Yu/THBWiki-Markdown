@@ -1,18 +1,13 @@
 # 文件:ChronicleStationbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\62\ns6%3AChronicleStationbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\62\ns6%3AChronicleStationbanner%2Ejpg.html -->
 
 ChronicleStation | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[[1]](https://web.archive.org/web/20051215142004im_/http://chronicle.st/banners/b_cs_j.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://web.archive.org/web/20051215142004im_/http://chronicle.st/banners/b_cs_j.jpg)  
 
 ---
 

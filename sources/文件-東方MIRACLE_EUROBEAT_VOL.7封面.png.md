@@ -1,6 +1,6 @@
 # 文件:東方MIRACLE_EUROBEAT_VOL.7封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\78\ns6%3A%E6%9D%B1%E6%96%B9MIRACLE_EUROBEAT_VOL%2E7%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\78\ns6%3A%E6%9D%B1%E6%96%B9MIRACLE_EUROBEAT_VOL%2E7%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 DTXFiles.nmk | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ DTXFiles.nmk | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方MIRACLE EUROBEAT VOL.7](./東方MIRACLE_EUROBEAT_VOL.7.md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)
-
-
-
+- [東方MIRACLE EUROBEAT VOL.7](./東方MIRACLE_EUROBEAT_VOL.7.md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
 
 
 ---

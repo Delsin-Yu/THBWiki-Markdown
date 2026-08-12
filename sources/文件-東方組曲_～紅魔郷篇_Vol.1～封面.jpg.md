@@ -1,6 +1,6 @@
 # 文件:東方組曲_～紅魔郷篇_Vol.1～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8b\ns6%3A%E6%9D%B1%E6%96%B9%E7%B5%84%E6%9B%B2_%EF%BD%9E%E7%B4%85%E9%AD%94%E9%83%B7%E7%AF%87_Vol%2E1%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8b\ns6%3A%E6%9D%B1%E6%96%B9%E7%B5%84%E6%9B%B2_%EF%BD%9E%E7%B4%85%E9%AD%94%E9%83%B7%E7%AF%87_Vol%2E1%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 けもの系アリス | 专辑封面 | 封面图片
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方組曲 ～紅魔郷篇 Vol.1～](./東方組曲_～紅魔郷篇_Vol.1～.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
-
-
-
+- [東方組曲 ～紅魔郷篇 Vol.1～](./東方組曲_～紅魔郷篇_Vol.1～.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
 
 ---

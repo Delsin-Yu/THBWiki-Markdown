@@ -1,12 +1,8 @@
 # 文件:THBWiki-LOGO-观福宫乙姬.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ac\ns6%3ATHBWiki-LOGO-%E8%A7%82%E7%A6%8F%E5%AE%AB%E4%B9%99%E5%A7%AC%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ac\ns6%3ATHBWiki-LOGO-%E8%A7%82%E7%A6%8F%E5%AE%AB%E4%B9%99%E5%A7%AC%2Epng.html -->
 
 THBWiki | Wiki词条分类用图
-
-
-
-
 
 
 ---

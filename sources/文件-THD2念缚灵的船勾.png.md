@@ -1,12 +1,8 @@
 # 文件:THD2念缚灵的船勾.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\db\ns6%3ATHD2%E5%BF%B5%E7%BC%9A%E7%81%B5%E7%9A%84%E8%88%B9%E5%8B%BE%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\db\ns6%3ATHD2%E5%BF%B5%E7%BC%9A%E7%81%B5%E7%9A%84%E8%88%B9%E5%8B%BE%2Epng.html -->
 
 AvalonStudioOfficial
-
-
-
-
 
 
 ---

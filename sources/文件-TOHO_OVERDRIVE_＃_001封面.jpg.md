@@ -1,6 +1,6 @@
 # 文件:TOHO_OVERDRIVE_＃_001封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\af\ns6%3ATOHO_OVERDRIVE_%EF%BC%83_001%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\af\ns6%3ATOHO_OVERDRIVE_%EF%BC%83_001%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 C.H.S | IOSYS | 专辑封面 | 封面图片
 
@@ -10,16 +10,14 @@ C.H.S | IOSYS | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [TOHO OVERDRIVE ＃ 001](./TOHO_OVERDRIVE_＃_001.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [雾雨魔理沙](./雾雨魔理沙.md)
+- [TOHO OVERDRIVE ＃ 001](./TOHO_OVERDRIVE_＃_001.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-源地址：[[1]](https://web.archive.org/web/20160505170720im_/http://pichipichi-underground.com/fr/disque/images/cd.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://web.archive.org/web/20160505170720im_/http://pichipichi-underground.com/fr/disque/images/cd.jpg)  
 
 ---
 

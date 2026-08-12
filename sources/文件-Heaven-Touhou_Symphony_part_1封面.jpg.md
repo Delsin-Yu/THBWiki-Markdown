@@ -1,6 +1,6 @@
 # 文件:Heaven-Touhou_Symphony_part_1封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\55\ns6%3AHeaven-Touhou_Symphony_part_1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\55\ns6%3AHeaven-Touhou_Symphony_part_1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 FUN_webjectF | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ FUN_webjectF | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Heaven-Touhou Symphony part 1](./Heaven-Touhou_Symphony_part_1.md)  
-该封面包含的角色：- 原创角色 (未找到链接)
-
-
-
+- [Heaven-Touhou Symphony part 1](./Heaven-Touhou_Symphony_part_1.md)该封面包含的角色：
+- 原创角色 (未找到链接)
 
 
 ---

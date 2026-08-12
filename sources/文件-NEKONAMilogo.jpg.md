@@ -1,16 +1,11 @@
 # 文件:NEKONAMilogo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\93\ns6%3ANEKONAMilogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\93\ns6%3ANEKONAMilogo%2Ejpg.html -->
 
 NEKONAMi | 社团LOGO
 
   
-源地址：[[1]](https://yaplog.jp/nekonamicats/img/prof/pf100330092712.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://yaplog.jp/nekonamicats/img/prof/pf100330092712.jpg)  
 
 ---
 

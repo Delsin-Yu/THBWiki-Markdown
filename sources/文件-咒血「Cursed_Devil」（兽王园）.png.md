@@ -1,12 +1,8 @@
 # 文件:咒血「Cursed_Devil」（兽王园）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3b\ns6%3A%E5%92%92%E8%A1%80%E3%80%8CCursed_Devil%E3%80%8D%EF%BC%88%E5%85%BD%E7%8E%8B%E5%9B%AD%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3b\ns6%3A%E5%92%92%E8%A1%80%E3%80%8CCursed_Devil%E3%80%8D%EF%BC%88%E5%85%BD%E7%8E%8B%E5%9B%AD%EF%BC%89%2Epng.html -->
 
 东方兽王园 | 天火人血枪 | 自机符卡
-
-
-
-
 
 
 ---

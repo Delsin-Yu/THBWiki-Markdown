@@ -1,6 +1,6 @@
 # 文件:Amaryllis_／_摩天楼の風景封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6a\ns6%3AAmaryllis_%EF%BC%8F_%E6%91%A9%E5%A4%A9%E6%A5%BC%E3%81%AE%E9%A2%A8%E6%99%AF%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6a\ns6%3AAmaryllis_%EF%BC%8F_%E6%91%A9%E5%A4%A9%E6%A5%BC%E3%81%AE%E9%A2%A8%E6%99%AF%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 IbEthics | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ IbEthics | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Amaryllis ／ 摩天楼の風景](./Amaryllis_／_摩天楼の風景.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
-
-
-
+- [Amaryllis ／ 摩天楼の風景](./Amaryllis_／_摩天楼の風景.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
 
 ---

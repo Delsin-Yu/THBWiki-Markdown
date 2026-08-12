@@ -1,12 +1,8 @@
 # 文件:琪露诺by日本犬杂种.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\58\ns6%3A%E7%90%AA%E9%9C%B2%E8%AF%BAby%E6%97%A5%E6%9C%AC%E7%8A%AC%E6%9D%82%E7%A7%8D%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\58\ns6%3A%E7%90%AA%E9%9C%B2%E8%AF%BAby%E6%97%A5%E6%9C%AC%E7%8A%AC%E6%9D%82%E7%A7%8D%2Ejpg.html -->
 
 琪露诺 | 蓬莱少女绘幻想
-
-
-
-
 
 
 ---

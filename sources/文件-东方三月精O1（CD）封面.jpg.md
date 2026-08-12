@@ -1,12 +1,8 @@
 # 文件:东方三月精O1（CD）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\31\ns6%3A%E4%B8%9C%E6%96%B9%E4%B8%89%E6%9C%88%E7%B2%BEO1%EF%BC%88CD%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\31\ns6%3A%E4%B8%9C%E6%96%B9%E4%B8%89%E6%9C%88%E7%B2%BEO1%EF%BC%88CD%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 东方三月精_～_Oriental_Sacred_Place. | 官方音乐CD封面
-
-
-
-
 
 
 ---

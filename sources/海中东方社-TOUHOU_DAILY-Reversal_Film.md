@@ -1,49 +1,41 @@
 # 海中东方社/TOUHOU_DAILY/Reversal_Film
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\1\13\ns0%3A%E6%B5%B7%E4%B8%AD%E4%B8%9C%E6%96%B9%E7%A4%BE%2FTOUHOU_DAILY%2FReversal_Film.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\1\13\ns0%3A%E6%B5%B7%E4%B8%AD%E4%B8%9C%E6%96%B9%E7%A4%BE%2FTOUHOU_DAILY%2FReversal_Film.html -->
 
 2024年4月5日 由 海中东方社 于 故彭鸿岚行3 发布的卡片/相框周边，分级为 一般向
 
 本页是关于东方Project  
- **相关实体周边 (未找到链接)** 的词条
-
+**相关实体周边 (未找到链接)**的词条
 ## 目录
 
 - [1 周边信息](#周边信息)
 - [2 参考图](#参考图)
-
   - [2.1 实物图](#实物图)
-
 
 
 - [3 Staff](#Staff)
 - [4 评论](#评论)
 
 
-
-
-
 ## 周边信息
 
-<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> TOUHOU DAILY Reversal Film </td></tr><tr><td class="label">系列</td><td> TOUHOU DAILY </td></tr><tr><td class="label">制作方</td><td><a href="./海中东方社.md" title="海中东方社">海中东方社</a></td></tr><tr><td class="label">首发日期</td><td>2024-04-05&#160;（<a href="/展会作品列表?e=%E6%95%85%E5%BD%AD%E9%B8%BF%E5%B2%9A%E8%A1%8C%233">徐州THO·阑珊夕影</a>）</td></tr><tr><td class="label">类型</td><td>卡片，相框</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>8.8 10.8</td></tr><tr><td class="label">材质</td><td>纤维增强复合材料</td></tr><tr><td class="label">角色</td><td><a href="./射命丸文.md" title="射命丸文">射命丸文</a></td></tr><tr><td class="label">售价</td><td>15人民币</td></tr>
+<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> TOUHOU DAILY Reversal Film </td></tr><tr><td class="label">系列</td><td> TOUHOU DAILY </td></tr><tr><td class="label">制作方</td><td><a href="./海中东方社.md" title="海中东方社">海中东方社</a></td></tr><tr><td class="label">首发日期</td><td>2024-04-05 （<a href="./展会作品列表.md#3">徐州THO·阑珊夕影</a>）</td></tr><tr><td class="label">类型</td><td>卡片，相框</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>8.8 10.8</td></tr><tr><td class="label">材质</td><td>纤维增强复合材料</td></tr><tr><td class="label">角色</td><td><a href="./射命丸文.md" title="射命丸文">射命丸文</a></td></tr><tr><td class="label">售价</td><td>15人民币</td></tr>
 <tr><td class="label">官网页面</td><td><a rel="nofollow" class="external free" href="https://space.bilibili.com/3546559652300995">https://space.bilibili.com/3546559652300995</a></td></tr><tr><td class="label">备注</td><td>用手电筒照射效果更佳喔！</td></tr></tbody></table>
 
 海中东方社/TOUHOU DAILY/Reversal Film（周边，海中东方社，2024） - 2024年4月5日 由 海中东方社 于 故彭鸿岚行3 发布的卡片/相框周边，分级为 一般向
-
 ## 参考图
 
 ### 实物图
-- [](./文件-海中东方社／TOUHOU_DAILY／Reversal_Film实物图1.jpg.md)
+
+- <img alt="海中东方社／TOUHOU DAILY／Reversal Film实物图1.jpg" src="https://upload.thwiki.cc/thumb/1/10/%E6%B5%B7%E4%B8%AD%E4%B8%9C%E6%96%B9%E7%A4%BE%EF%BC%8FTOUHOU_DAILY%EF%BC%8FReversal_Film%E5%AE%9E%E7%89%A9%E5%9B%BE1.jpg/281px-%E6%B5%B7%E4%B8%AD%E4%B8%9C%E6%96%B9%E7%A4%BE%EF%BC%8FTOUHOU_DAILY%EF%BC%8FReversal_Film%E5%AE%9E%E7%89%A9%E5%9B%BE1.jpg" decoding="async" loading="lazy" width="188" height="250" srcset="https://upload.thwiki.cc/thumb/1/10/%E6%B5%B7%E4%B8%AD%E4%B8%9C%E6%96%B9%E7%A4%BE%EF%BC%8FTOUHOU_DAILY%EF%BC%8FReversal_Film%E5%AE%9E%E7%89%A9%E5%9B%BE1.jpg/422px-%E6%B5%B7%E4%B8%AD%E4%B8%9C%E6%96%B9%E7%A4%BE%EF%BC%8FTOUHOU_DAILY%EF%BC%8FReversal_Film%E5%AE%9E%E7%89%A9%E5%9B%BE1.jpg 1.5x, https://upload.thwiki.cc/thumb/1/10/%E6%B5%B7%E4%B8%AD%E4%B8%9C%E6%96%B9%E7%A4%BE%EF%BC%8FTOUHOU_DAILY%EF%BC%8FReversal_Film%E5%AE%9E%E7%89%A9%E5%9B%BE1.jpg/562px-%E6%B5%B7%E4%B8%AD%E4%B8%9C%E6%96%B9%E7%A4%BE%EF%BC%8FTOUHOU_DAILY%EF%BC%8FReversal_Film%E5%AE%9E%E7%89%A9%E5%9B%BE1.jpg 2x" data-file-width="1280" data-file-height="1707"> 
 
 
 ## Staff
+
 - 觅觅觅觅子
 
 
 ## 评论
-
-
-
 
 ---
 

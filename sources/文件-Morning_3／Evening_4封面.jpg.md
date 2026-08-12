@@ -1,6 +1,6 @@
 # 文件:Morning_3／Evening_4封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\25\ns6%3AMorning_3%EF%BC%8FEvening_4%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\25\ns6%3AMorning_3%EF%BC%8FEvening_4%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 A.C.3 | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@ A.C.3 | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Morning 3／Evening 4](./Morning_3／Evening_4.md)  
-该封面包含的角色：- [鬼人正邪](./鬼人正邪.md)
-
-
-
+- [Morning 3／Evening 4](./Morning_3／Evening_4.md)该封面包含的角色：
+- [鬼人正邪](./鬼人正邪.md)
 
 
 ---

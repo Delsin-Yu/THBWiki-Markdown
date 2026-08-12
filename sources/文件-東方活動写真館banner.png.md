@@ -1,12 +1,8 @@
 # 文件:東方活動写真館banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dd\ns6%3A%E6%9D%B1%E6%96%B9%E6%B4%BB%E5%8B%95%E5%86%99%E7%9C%9F%E9%A4%A8banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dd\ns6%3A%E6%9D%B1%E6%96%B9%E6%B4%BB%E5%8B%95%E5%86%99%E7%9C%9F%E9%A4%A8banner%2Epng.html -->
 
 東方活動写真館 | 社团LOGO
-
-
-
-
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:电波圈外banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\54\ns6%3A%E7%94%B5%E6%B3%A2%E5%9C%88%E5%A4%96banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\54\ns6%3A%E7%94%B5%E6%B3%A2%E5%9C%88%E5%A4%96banner%2Ejpg.html -->
 
 电波圈外 | 社团LOGO
-
-
-
-
 
 
 ---

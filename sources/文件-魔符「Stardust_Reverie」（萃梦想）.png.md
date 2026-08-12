@@ -1,12 +1,8 @@
 # 文件:魔符「Stardust_Reverie」（萃梦想）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c1\ns6%3A%E9%AD%94%E7%AC%A6%E3%80%8CStardust_Reverie%E3%80%8D%EF%BC%88%E8%90%83%E6%A2%A6%E6%83%B3%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c1\ns6%3A%E9%AD%94%E7%AC%A6%E3%80%8CStardust_Reverie%E3%80%8D%EF%BC%88%E8%90%83%E6%A2%A6%E6%83%B3%EF%BC%89%2Epng.html -->
 
 东方萃梦想 | 自机符卡 | 雾雨魔理沙
-
-
-
-
 
 
 ---

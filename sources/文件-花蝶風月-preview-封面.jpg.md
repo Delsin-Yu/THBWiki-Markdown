@@ -1,6 +1,6 @@
 # 文件:花蝶風月-preview-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b2\ns6%3A%E8%8A%B1%E8%9D%B6%E9%A2%A8%E6%9C%88-preview-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b2\ns6%3A%E8%8A%B1%E8%9D%B6%E9%A2%A8%E6%9C%88-preview-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Lapis_moss | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ Lapis_moss | 专辑封面 | 封面图片
   
 
 - [花蝶風月-preview-](./花蝶風月-preview-.md)
-
-
-
 
 
 ---

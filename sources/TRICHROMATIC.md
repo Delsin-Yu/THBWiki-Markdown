@@ -1,34 +1,27 @@
 # TRICHROMATIC
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\c\c1\ns0%3ATRICHROMATIC.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\c\c1\ns0%3ATRICHROMATIC.html -->
 
 TRICHROMATIC ，主要制作 同人音乐 的日本同人社团，主催是 TRICHROMATIC，当前状态为 转入非东方
 
-本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
-
+本页是关于**[同人社团](./二次创作.md#同人社团)**的词条
 ## 目录
 
 - [1 社团信息](#社团信息)
 - [2 成员名单](#成员名单)
 - [3 作品列表](#作品列表)
-
   - [3.1 同人专辑](#同人专辑)
-
 
 
 - [4 参展信息](#参展信息)
 
 
-
-
-
 ## 社团信息
-[](./文件-TRICHROMATIClogo.png.md)  [](./文件-TRICHROMATIClogo.png.md)logo
-
+<img alt="" src="https://upload.thwiki.cc/thumb/b/b7/TRICHROMATIClogo.png/200px-TRICHROMATIClogo.png" decoding="async" loading="lazy" width="200" height="71" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/b/b7/TRICHROMATIClogo.png/300px-TRICHROMATIClogo.png 1.5x, https://upload.thwiki.cc/thumb/b/b7/TRICHROMATIClogo.png/400px-TRICHROMATIClogo.png 2x" data-file-width="601" data-file-height="214">
+ [放大](./文件-TRICHROMATIClogo.png.md)logo
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> TRICHROMATIC </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>当前状态</b></td><td>转入非东方</td></tr><tr><td><b>主催</b></td><td> <a class="mw-selflink selflink">TRICHROMATIC</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://trichromatic.net/">http://trichromatic.net/</a> <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span><small>（<a rel="nofollow" class="external text" href="https://web.archive.org/web/20210828094930/http://trichromatic.net/">缓存页面</a>）</small><br><a rel="nofollow" class="external free" href="http://www.trichromatic.net/weblog/">http://www.trichromatic.net/weblog/</a> （blog）<span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span><small>（<a rel="nofollow" class="external text" href="https://web.archive.org/web/20150705200128/http://www.trichromatic.net/weblog/">缓存页面</a>）</small><br><a rel="nofollow" class="external free" href="https://www.youtube.com/channel/UC8EguJnD5NoXT1zN1sohmMA">https://www.youtube.com/channel/UC8EguJnD5NoXT1zN1sohmMA</a><br><a rel="nofollow" class="external free" href="https://twitter.com/trichromatic">https://twitter.com/trichromatic</a><br><a rel="nofollow" class="external free" href="https://commons.nicovideo.jp/users/128118274">https://commons.nicovideo.jp/users/128118274</a></td></tr></tbody></table>
 
-TRICHROMATIC（同人社团，同人音乐社团） - TRICHROMATIC ，主要制作 同人音乐 的日本同人社团，主催是 TRICHROMATIC，当前状态为 转入非东方
-  
+TRICHROMATIC（同人社团，同人音乐社团） - TRICHROMATIC ，主要制作 同人音乐 的日本同人社团，主催是 TRICHROMATIC，当前状态为 转入非东方  
 其他官网：
   
 
@@ -37,34 +30,20 @@ TRICHROMATIC（同人社团，同人音乐社团） - TRICHROMATIC ，主要制�
 
 
 ## 成员名单
-- TRICHROMATIC (n.k.a.  **TMZ** )
+
+- TRICHROMATIC (n.k.a. **TMZ**)
 
 : [Pixiv ID: 1141553](https://www.pixiv.net/users/1141553)
-
 
 ## 作品列表
 
 ### 同人专辑
-[](./Astral_Pulse_～_東方星脈動.md)[Astral Pulse ～ 東方星脈動](./Astral_Pulse_～_東方星脈動.md)首发日期：2009-10-11 （M3-2009秋 (未找到链接)）TM-0001全长 （一般向）[ETHEREAL! - 東方霊妙楽 -](./ETHEREAL!_-_東方霊妙楽_-.md)首发日期：2010-03-14 （第七回 博麗神社例大祭 (未找到链接)）TM-0003EP （一般向）
-<table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
-
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
-</table>
-
-
+- **[Astral Pulse ～ 東方星脈動](./Astral_Pulse_～_東方星脈動.md)** — 首发日期：2009-10-11 （M3-2009秋）；TM-0001；全长 （一般向）
+- **[ETHEREAL! - 東方霊妙楽 -](./ETHEREAL!_-_東方霊妙楽_-.md)** — 首发日期：2010-03-14 （第七回 博麗神社例大祭）；TM-0003；EP （一般向）
 
 ## 参展信息
 
-<table><tbody><tr><th class="活动页面">活动页面</th><th class="活动名称">活动名称</th><th class="日期">日期</th><th class="举办地点">举办地点</th><th class="摊位编号">摊位编号</th><th class="宣传页面">宣传页面</th><th class="备注">备注</th></tr><tr data-row-number="1" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD#7" title="博丽神社例大祭">博丽神社例大祭#7</a></span></td><td class="活动名称 smwtype_txt">第七回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2455269.5">2010-03-14</td><td class="举办地点 smwtype_txt">东京Big Sight 东23456展厅</td><td class="摊位编号 smwtype_txt">や38b</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr></tbody></table>
-
-
-  
-  
-
-  
-
-
-
+<table><tbody><tr><th class="活动页面">活动页面</th><th class="活动名称">活动名称</th><th class="日期">日期</th><th class="举办地点">举办地点</th><th class="摊位编号">摊位编号</th><th class="宣传页面">宣传页面</th><th class="备注">备注</th></tr><tr data-row-number="1" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="./博丽神社例大祭.md#7" title="博丽神社例大祭">博丽神社例大祭#7</a></span></td><td class="活动名称 smwtype_txt">第七回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2455269.5">2010-03-14</td><td class="举办地点 smwtype_txt">东京Big Sight 东23456展厅</td><td class="摊位编号 smwtype_txt">や38b</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr></tbody></table>
 
 
 ---

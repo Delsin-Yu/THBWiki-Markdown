@@ -1,16 +1,12 @@
 # 文件:le04_BOSS_Kujiru.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f3\ns6%3Ale04_BOSS_Kujiru%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f3\ns6%3Ale04_BOSS_Kujiru%2Emp3.html -->
 
 Slug_Agent | 连缘Project官方音乐MP3 | 连缘天影战记
 
   
 连缘天影战记城线2面Boss-袈裟抉弄主题曲
   
-
-
-
-
 
 ---
 

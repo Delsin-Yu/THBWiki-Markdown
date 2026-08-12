@@ -1,6 +1,6 @@
 # 文件:Thalassophobia封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\ba\ns6%3AThalassophobia%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\ba\ns6%3AThalassophobia%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Karasu | 专辑封面 | 封面图片
 
@@ -13,12 +13,7 @@ Karasu | 专辑封面 | 封面图片
 - [Thalassophobia](./Thalassophobia.md)
 
   
-源地址：[图片链接](https://f4.bcbits.com/img/a1028895041_0.jpg) [Bandcamp](https://karasu44.bandcamp.com/album/thalassophobia)
-  
-
-
-
-
+源地址：[图片链接](https://f4.bcbits.com/img/a1028895041_0.jpg) [Bandcamp](https://karasu44.bandcamp.com/album/thalassophobia)  
 
 ---
 

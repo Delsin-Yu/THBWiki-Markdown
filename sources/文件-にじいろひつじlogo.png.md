@@ -1,18 +1,13 @@
 # 文件:にじいろひつじlogo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\99\ns6%3A%E3%81%AB%E3%81%98%E3%81%84%E3%82%8D%E3%81%B2%E3%81%A4%E3%81%98logo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\99\ns6%3A%E3%81%AB%E3%81%98%E3%81%84%E3%82%8D%E3%81%B2%E3%81%A4%E3%81%98logo%2Epng.html -->
 
 にじいろひつじ | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[[1]](http://nijihitsu.web.fc2.com/nizihitu-img/logo_hituzi.png)
-  
-
-
-
-
+源地址：[\[1\]](http://nijihitsu.web.fc2.com/nizihitu-img/logo_hituzi.png)  
 
 ---
 

@@ -1,14 +1,11 @@
 # 文件:The_Grimoire_of_Usami（洩矢诹访子2）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\aa\ns6%3AThe_Grimoire_of_Usami%EF%BC%88%E6%B4%A9%E7%9F%A2%E8%AF%B9%E8%AE%BF%E5%AD%902%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\aa\ns6%3AThe_Grimoire_of_Usami%EF%BC%88%E6%B4%A9%E7%9F%A2%E8%AF%B9%E8%AE%BF%E5%AD%902%EF%BC%89%2Ejpg.html -->
 
 宇佐见的魔法书 | 洩矢诹访子
 
 
 ## 摘要
-
-
-
 
 ---
 

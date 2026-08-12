@@ -1,6 +1,6 @@
 # 文件:東方幻奏録_Re：Collect封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\18\ns6%3A%E6%9D%B1%E6%96%B9%E5%B9%BB%E5%A5%8F%E9%8C%B2_Re%EF%BC%9ACollect%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\18\ns6%3A%E6%9D%B1%E6%96%B9%E5%B9%BB%E5%A5%8F%E9%8C%B2_Re%EF%BC%9ACollect%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Re：Volte | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ Re：Volte | 专辑封面 | 封面图片
   
 
 - [東方幻奏録 Re：Collect](./東方幻奏録_Re：Collect.md)
-
-
-
 
 
 ---

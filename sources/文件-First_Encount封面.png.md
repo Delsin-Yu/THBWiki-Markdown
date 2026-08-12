@@ -1,6 +1,6 @@
 # 文件:First_Encount封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\39\ns6%3AFirst_Encount%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\39\ns6%3AFirst_Encount%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Languid_space | 专辑封面 | 封面图片
 
@@ -8,11 +8,13 @@ Languid_space | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [First Encount](./First_Encount.md)  
-该封面包含的角色：- [露米娅](./露米娅.md)- [蕾蒂·霍瓦特洛克](./蕾蒂·霍瓦特洛克.md)- [莉格露·奈特巴格](./莉格露·奈特巴格.md)- [秋穰子](./秋穰子.md)- [黑谷山女](./黑谷山女.md)- [娜兹玲](./娜兹玲.md)
-
-
-
+- [First Encount](./First_Encount.md)该封面包含的角色：
+- [露米娅](./露米娅.md)
+- [蕾蒂·霍瓦特洛克](./蕾蒂·霍瓦特洛克.md)
+- [莉格露·奈特巴格](./莉格露·奈特巴格.md)
+- [秋穰子](./秋穰子.md)
+- [黑谷山女](./黑谷山女.md)
+- [娜兹玲](./娜兹玲.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Permanence封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3e\ns6%3APermanence%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3e\ns6%3APermanence%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Takamachi_Walk | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Takamachi_Walk | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Permanence](./Permanence.md)  
-该封面包含的角色：- [秦心](./秦心.md)
+- [Permanence](./Permanence.md)该封面包含的角色：
+- [秦心](./秦心.md)
 
   
-源地址：[[1]](https://f4.bcbits.com/img/a2400351517_10.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://f4.bcbits.com/img/a2400351517_10.jpg)  
 
 ---
 

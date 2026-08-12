@@ -1,6 +1,6 @@
 # 文件:ALICE（矢ハイ）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dd\ns6%3AALICE%EF%BC%88%E7%9F%A2%E3%83%8F%E3%82%A4%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dd\ns6%3AALICE%EF%BC%88%E7%9F%A2%E3%83%8F%E3%82%A4%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 矢ハイ
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [ALICE（矢ハイ）](./ALICE（矢ハイ）.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
-
-
-
+- [ALICE（矢ハイ）](./ALICE（矢ハイ）.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
 
 
 ---

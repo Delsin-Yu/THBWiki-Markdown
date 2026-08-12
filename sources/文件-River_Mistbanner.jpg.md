@@ -1,14 +1,11 @@
 # 文件:River_Mistbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ae\ns6%3ARiver_Mistbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ae\ns6%3ARiver_Mistbanner%2Ejpg.html -->
 
 River_Mist | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

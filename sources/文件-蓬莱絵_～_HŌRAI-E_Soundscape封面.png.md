@@ -1,6 +1,6 @@
 # 文件:蓬莱絵_～_HŌRAI-E_Soundscape封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0b\ns6%3A%E8%93%AC%E8%8E%B1%E7%B5%B5_%EF%BD%9E_H%C5%8CRAI-E_Soundscape%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0b\ns6%3A%E8%93%AC%E8%8E%B1%E7%B5%B5_%EF%BD%9E_H%C5%8CRAI-E_Soundscape%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 ごんばこんなか | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [蓬莱絵 ～ HŌRAI-E Soundscape](./蓬莱絵_～_HŌRAI-E_Soundscape.md)  
-该封面包含的角色：- [蓬莱人形](./蓬莱人形.md)
-
-
-
+- [蓬莱絵 ～ HŌRAI-E Soundscape](./蓬莱絵_～_HŌRAI-E_Soundscape.md)该封面包含的角色：
+- [蓬莱人形](./蓬莱人形.md)
 
 
 ---

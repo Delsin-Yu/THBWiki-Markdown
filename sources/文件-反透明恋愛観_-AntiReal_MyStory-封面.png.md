@@ -1,6 +1,6 @@
 # 文件:反透明恋愛観_-AntiReal_MyStory-封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\08\ns6%3A%E5%8F%8D%E9%80%8F%E6%98%8E%E6%81%8B%E6%84%9B%E8%A6%B3_-AntiReal_MyStory-%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\08\ns6%3A%E5%8F%8D%E9%80%8F%E6%98%8E%E6%81%8B%E6%84%9B%E8%A6%B3_-AntiReal_MyStory-%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 幻界プロミネンス
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [反透明恋愛観 -AntiReal MyStory-](./反透明恋愛観_-AntiReal_MyStory-.md)  
-该封面包含的角色：- [犬走椛](./犬走椛.md)
-
-
-
+- [反透明恋愛観 -AntiReal MyStory-](./反透明恋愛観_-AntiReal_MyStory-.md)该封面包含的角色：
+- [犬走椛](./犬走椛.md)
 
 
 ---

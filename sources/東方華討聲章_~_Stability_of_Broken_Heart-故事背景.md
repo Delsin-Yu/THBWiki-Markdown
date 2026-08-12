@@ -1,6 +1,6 @@
 # 東方華討聲章_~_Stability_of_Broken_Heart/故事背景
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\3\35\ns0%3A%E6%9D%B1%E6%96%B9%E8%8F%AF%E8%A8%8E%E8%81%B2%E7%AB%A0_%7E_Stability_of_Broken_Heart%2F%E6%95%85%E4%BA%8B%E8%83%8C%E6%99%AF.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\3\35\ns0%3A%E6%9D%B1%E6%96%B9%E8%8F%AF%E8%A8%8E%E8%81%B2%E7%AB%A0_%7E_Stability_of_Broken_Heart%2F%E6%95%85%E4%BA%8B%E8%83%8C%E6%99%AF.html -->
 
 旧雨忆梦幻想乐团
 
@@ -19,10 +19,6 @@
 
 在同一时刻发现了端倪......
   
-
-
-
-
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:Yearning_Words封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ee\ns6%3AYearning_Words%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ee\ns6%3AYearning_Words%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 The_Oneiric_Orchestra_of_the_Unfindable_Palace | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ The_Oneiric_Orchestra_of_the_Unfindable_Palace | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Yearning Words](./Yearning_Words.md)  
-该封面包含的角色：- [八坂神奈子](./八坂神奈子.md)
+- [Yearning Words](./Yearning_Words.md)该封面包含的角色：
+- [八坂神奈子](./八坂神奈子.md)
 
   
-源地址：[[1]](https://theoneiricorchestraproject.bandcamp.com/album/yearning-words)
-  
-
-
-
-
+源地址：[\[1\]](https://theoneiricorchestraproject.bandcamp.com/album/yearning-words)  
 
 ---
 

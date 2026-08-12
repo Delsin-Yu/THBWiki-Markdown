@@ -1,6 +1,6 @@
 # 文件:バタフライ・KISS封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b1\ns6%3A%E3%83%90%E3%82%BF%E3%83%95%E3%83%A9%E3%82%A4%E3%83%BBKISS%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b1\ns6%3A%E3%83%90%E3%82%BF%E3%83%95%E3%83%A9%E3%82%A4%E3%83%BBKISS%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 お月見団子 | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [バタフライ・KISS](./バタフライ・KISS.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
+- [バタフライ・KISS](./バタフライ・KISS.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-[Pixiv artwork ID: 43228184](https://www.pixiv.net/artworks/43228184)
-  
-
-
-
-
+[Pixiv artwork ID: 43228184](https://www.pixiv.net/artworks/43228184)  
 
 ---
 

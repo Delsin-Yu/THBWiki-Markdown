@@ -1,12 +1,8 @@
 # 文件:Draw_the_Emotionalbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a3\ns6%3ADraw_the_Emotionalbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a3\ns6%3ADraw_the_Emotionalbanner%2Ejpg.html -->
 
 Draw_the_Emotional | 社团LOGO
-
-
-
-
 
 
 ---

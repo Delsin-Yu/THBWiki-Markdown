@@ -1,14 +1,11 @@
 # 文件:凸凹えんた～ていんめんとすたじおbanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\88\ns6%3A%E5%87%B8%E5%87%B9%E3%81%88%E3%82%93%E3%81%9F%EF%BD%9E%E3%81%A6%E3%81%84%E3%82%93%E3%82%81%E3%82%93%E3%81%A8%E3%81%99%E3%81%9F%E3%81%98%E3%81%8Abanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\88\ns6%3A%E5%87%B8%E5%87%B9%E3%81%88%E3%82%93%E3%81%9F%EF%BD%9E%E3%81%A6%E3%81%84%E3%82%93%E3%82%81%E3%82%93%E3%81%A8%E3%81%99%E3%81%9F%E3%81%98%E3%81%8Abanner%2Egif.html -->
 
 凸凹えんた～ていんめんとすたじお | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

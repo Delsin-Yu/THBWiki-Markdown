@@ -1,12 +1,8 @@
 # 文件:れいてぃ屋banner1.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f9\ns6%3A%E3%82%8C%E3%81%84%E3%81%A6%E3%81%83%E5%B1%8Bbanner1%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f9\ns6%3A%E3%82%8C%E3%81%84%E3%81%A6%E3%81%83%E5%B1%8Bbanner1%2Egif.html -->
 
 れいてぃ屋 | 社团LOGO
-
-
-
-
 
 
 ---

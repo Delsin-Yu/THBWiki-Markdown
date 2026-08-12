@@ -1,18 +1,13 @@
 # 文件:aprilrainbanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7b\ns6%3Aaprilrainbanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7b\ns6%3Aaprilrainbanner%2Egif.html -->
 
 aprilrain | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[direct image link](http://aprilrain.michikusa.jp/bn/banner.gif), [source page](http://aprilrain.michikusa.jp/about.html)
-  
-
-
-
-
+源地址：[direct image link](http://aprilrain.michikusa.jp/bn/banner.gif), [source page](http://aprilrain.michikusa.jp/about.html)  
 
 ---
 

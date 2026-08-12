@@ -1,6 +1,6 @@
 # 东方夏夜祭_～_Shining_Shooting_Star./分数榜
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\0d\ns0%3A%E4%B8%9C%E6%96%B9%E5%A4%8F%E5%A4%9C%E7%A5%AD_%EF%BD%9E_Shining_Shooting_Star%2E%2F%E5%88%86%E6%95%B0%E6%A6%9C.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\0d\ns0%3A%E4%B8%9C%E6%96%B9%E5%A4%8F%E5%A4%9C%E7%A5%AD_%EF%BD%9E_Shining_Shooting_Star%2E%2F%E5%88%86%E6%95%B0%E6%A6%9C.html -->
 
 雨夜枫雪制作组
 
@@ -9,7 +9,6 @@
   
 东方夏夜祭各难度的最新纪录，将会在这里以在本wiki的记录时间顺序展出。
   
-
 
 <table>
 
@@ -26,7 +25,7 @@
 <td>8,456,018,140</td>
 <td>LYX</td>
 <td>Hard</td>
-<td>博丽灵梦&amp;少名针妙丸</td>
+<td>博丽灵梦&少名针妙丸</td>
 <td>2017年06月06日</td>
 <td><a rel="nofollow" class="external text" href="http://pan.baidu.com/s/1bpy8TjT">下载</a></td>
 <td>规划基本执行到位。
@@ -35,7 +34,7 @@
 <td>9,999,999,999</td>
 <td>LYX</td>
 <td>Lunatic</td>
-<td>博丽灵梦&amp;少名针妙丸</td>
+<td>博丽灵梦&少名针妙丸</td>
 <td>2017年06月03日</td>
 <td><a rel="nofollow" class="external text" href="http://pan.baidu.com/s/1cKV7K6">下载</a></td>
 <td>实际分数10,097,406,430？五面中boss前大蝴蝶未击破，损失惨重。
@@ -107,7 +106,7 @@
 <td>5,040,728,170</td>
 <td>CLY</td>
 <td>Normal</td>
-<td>博丽灵梦&amp;少名针妙丸</td>
+<td>博丽灵梦&少名针妙丸</td>
 <td>2016年09月11日</td>
 <td><a rel="nofollow" class="external text" href="http://pan.baidu.com/s/1skUuo0X">下载</a></td>
 <td>-
@@ -134,7 +133,7 @@
 <td>4,307,272,740</td>
 <td>CLY</td>
 <td>Easy</td>
-<td>博丽灵梦&amp;少名针妙丸</td>
+<td>博丽灵梦&少名针妙丸</td>
 <td>2016年08月15日</td>
 <td><a rel="nofollow" class="external text" href="http://pan.baidu.com/s/1eRJRrbk">下载</a></td>
 <td>-
@@ -177,13 +176,11 @@
 </td></tr></tbody></table>
 
 
-
 ## 游戏世界纪录
   
 各难度各机体的分数纪录，将在这里予以展示。
 ★代表全游戏内的最高分数，☆代表在对应难度下的最高分数。
   
-
 
 <table>
 
@@ -200,7 +197,7 @@
 <td>4,307,272,740</td>
 <td>CLY</td>
 <td>Easy</td>
-<td>博丽灵梦&amp;少名针妙丸</td>
+<td>博丽灵梦&少名针妙丸</td>
 <td>2016年08月15日</td>
 <td><a rel="nofollow" class="external text" href="http://pan.baidu.com/s/1eRJRrbk">下载</a></td>
 <td>-
@@ -236,7 +233,7 @@
 <td>5,040,728,170</td>
 <td>CLY</td>
 <td>Normal</td>
-<td>博丽灵梦&amp;少名针妙丸</td>
+<td>博丽灵梦&少名针妙丸</td>
 <td>2016年09月11日</td>
 <td><a rel="nofollow" class="external text" href="http://pan.baidu.com/s/1skUuo0X">下载</a></td>
 <td>-
@@ -272,7 +269,7 @@
 <td>8,456,018,140</td>
 <td>LYX</td>
 <td>Hard</td>
-<td>博丽灵梦&amp;少名针妙丸</td>
+<td>博丽灵梦&少名针妙丸</td>
 <td>2017年06月06日</td>
 <td><a rel="nofollow" class="external text" href="http://pan.baidu.com/s/1bpy8TjT">下载</a></td>
 <td>规划基本执行到位。
@@ -308,7 +305,7 @@
 <td>9,999,999,999</td>
 <td>LYX</td>
 <td>Lunatic</td>
-<td>博丽灵梦&amp;少名针妙丸</td>
+<td>博丽灵梦&少名针妙丸</td>
 <td>2017年06月03日</td>
 <td><a rel="nofollow" class="external text" href="http://pan.baidu.com/s/1cKV7K6">下载</a></td>
 <td>实际分数10,097,406,430？五面中boss前大蝴蝶未击破，损失惨重。
@@ -344,7 +341,7 @@
 <td>1,105,619,530</td>
 <td>LYX</td>
 <td>Extra</td>
-<td>博丽灵梦&amp;少名针妙丸</td>
+<td>博丽灵梦&少名针妙丸</td>
 <td>2022年10月12日</td>
 <td>-</td>
 <td>-
@@ -376,11 +373,6 @@
 <td><a rel="nofollow" class="external text" href="http://pan.baidu.com/s/1cs5qXo">下载</a></td>
 <td>有两处失误，不过即便流程完美，13亿也无望。
 </td></tr></tbody></table>
-
-
-
-
-
 
 
 ---

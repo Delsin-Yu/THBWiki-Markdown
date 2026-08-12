@@ -1,6 +1,6 @@
 # 文件:東方ハイスピードRemix!!vol.2封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\24\ns6%3A%E6%9D%B1%E6%96%B9%E3%83%8F%E3%82%A4%E3%82%B9%E3%83%94%E3%83%BC%E3%83%89Remix%21%21vol%2E2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\24\ns6%3A%E6%9D%B1%E6%96%B9%E3%83%8F%E3%82%A4%E3%82%B9%E3%83%94%E3%83%BC%E3%83%89Remix%21%21vol%2E2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ガネメ | 专辑封面 | 封面图片
 
@@ -8,16 +8,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方ハイスピードRemix!!vol.2](./東方ハイスピードRemix!!vol.2.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
+- [東方ハイスピードRemix!!vol.2](./東方ハイスピードRemix!!vol.2.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
   
-原网址：[http://www.suruga-ya.jp/product/detail/186151326](http://www.suruga-ya.jp/product/detail/186151326)
-  
-
-
-
-
+原网址：[http://www.suruga-ya.jp/product/detail/186151326](http://www.suruga-ya.jp/product/detail/186151326)  
 
 ---
 

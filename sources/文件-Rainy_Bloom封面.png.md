@@ -1,6 +1,6 @@
 # 文件:Rainy_Bloom封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d5\ns6%3ARainy_Bloom%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d5\ns6%3ARainy_Bloom%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Hydrangea | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Hydrangea | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Rainy Bloom](./Rainy_Bloom.md)  
-该封面包含的角色：- [河城荷取](./河城荷取.md)
-
-
-
+- [Rainy Bloom](./Rainy_Bloom.md)该封面包含的角色：
+- [河城荷取](./河城荷取.md)
 
 
 ---

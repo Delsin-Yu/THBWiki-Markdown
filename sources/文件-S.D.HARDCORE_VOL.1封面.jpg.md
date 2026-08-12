@@ -1,6 +1,6 @@
 # 文件:S.D.HARDCORE_VOL.1封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\59\ns6%3AS%2ED%2EHARDCORE_VOL%2E1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\59\ns6%3AS%2ED%2EHARDCORE_VOL%2E1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 S.D.HARDCORE | 专辑封面 | 封面图片
 
@@ -10,11 +10,10 @@ S.D.HARDCORE | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [S.D.HARDCORE VOL.1](./S.D.HARDCORE_VOL.1.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [雾雨魔理沙](./雾雨魔理沙.md)- 原创角色 (未找到链接)
-
-
-
+- [S.D.HARDCORE VOL.1](./S.D.HARDCORE_VOL.1.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
+- 原创角色 (未找到链接)
 
 
 ---

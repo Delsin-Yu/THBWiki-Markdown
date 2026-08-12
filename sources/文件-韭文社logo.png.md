@@ -1,16 +1,12 @@
 # 文件:韭文社logo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\40\ns6%3A%E9%9F%AD%E6%96%87%E7%A4%BElogo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\40\ns6%3A%E9%9F%AD%E6%96%87%E7%A4%BElogo%2Epng.html -->
 
 社团LOGO | 韭文社
 
   
 韭文社新logo
   
-
-
-
-
 
 ---
 

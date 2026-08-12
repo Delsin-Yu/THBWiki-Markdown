@@ -1,12 +1,8 @@
 # 文件:东方幕华祭制作组banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\72\ns6%3A%E4%B8%9C%E6%96%B9%E5%B9%95%E5%8D%8E%E7%A5%AD%E5%88%B6%E4%BD%9C%E7%BB%84banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\72\ns6%3A%E4%B8%9C%E6%96%B9%E5%B9%95%E5%8D%8E%E7%A5%AD%E5%88%B6%E4%BD%9C%E7%BB%84banner%2Epng.html -->
 
 东方幕华祭制作组 | 社团LOGO
-
-
-
-
 
 
 ---

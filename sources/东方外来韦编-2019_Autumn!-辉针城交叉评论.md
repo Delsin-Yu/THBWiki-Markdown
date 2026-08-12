@@ -1,15 +1,14 @@
 # 东方外来韦编/2019_Autumn!/辉针城交叉评论
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\5\5c\ns0%3A%E4%B8%9C%E6%96%B9%E5%A4%96%E6%9D%A5%E9%9F%A6%E7%BC%96%2F2019_Autumn%21%2F%E8%BE%89%E9%92%88%E5%9F%8E%E4%BA%A4%E5%8F%89%E8%AF%84%E8%AE%BA.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\5\5c\ns0%3A%E4%B8%9C%E6%96%B9%E5%A4%96%E6%9D%A5%E9%9F%A6%E7%BC%96%2F2019_Autumn%21%2F%E8%BE%89%E9%92%88%E5%9F%8E%E4%BA%A4%E5%8F%89%E8%AF%84%E8%AE%BA.html -->
 
 东方外来韦编 | 引用了翻译表的页面
 
-- 本词条为中文翻译版，如需要日文对照请参见 **[中日对照](./东方外来韦编-2019_Autumn!-辉针城交叉评论-中日对照.md)** 。
+
+- 本词条为中文翻译版，如需要日文对照请参见**[中日对照](./东方外来韦编-2019_Autumn!-辉针城交叉评论-中日对照.md)**。
 - 该内容于杂志中页数：020-021
 
- **<big><big>东方辉针城全关卡Cross Review</big></big>** 
-本应是关于「辉针城」的关卡与BOSS有识之士的回顾。但关于关卡的话题却不知所终了。现在才说是挺马后炮的。
-
+**<big><big>东方辉针城全关卡Cross Review</big></big>**本应是关于「辉针城」的关卡与BOSS有识之士的回顾。但关于关卡的话题却不知所终了。现在才说是挺马后炮的。
 <table>
 
 <tbody><tr>
@@ -21,7 +20,7 @@
 </th>
 <th style="width: 13%">Stage 3<br><div class="tt-zh tt-type-dialogue" lang="zh"><div class="poem"><a href="./今泉影狼.md" title="今泉影狼">今泉影狼</a></div></div>
 </th>
-<th style="width: 13%">Stage 4<br><div class="tt-zh tt-type-dialogue" lang="zh"><div class="poem"><a href="./九十九八桥.md" title="九十九八桥">九十九八桥</a>&amp;<a href="./九十九弁弁.md" title="九十九弁弁">弁弁</a></div></div>
+<th style="width: 13%">Stage 4<br><div class="tt-zh tt-type-dialogue" lang="zh"><div class="poem"><a href="./九十九八桥.md" title="九十九八桥">九十九八桥</a>&<a href="./九十九弁弁.md" title="九十九弁弁">弁弁</a></div></div>
 </th>
 <th style="width: 13%">Stage 5<br><div class="tt-zh tt-type-dialogue" lang="zh"><div class="poem"><a href="./鬼人正邪.md" title="鬼人正邪">鬼人正邪</a></div></div>
 </th>
@@ -64,7 +63,7 @@
 <td><div class="tt-zh tt-type-dialogue" lang="zh"><div class="poem">你说这用的是外面世界的魔力？这真是让我突然对外面世界产生兴趣了啊。<br>（6）</div></div>
 </td></tr>
 <tr>
-<th><div class="tt-zh tt-type-dialogue" lang="zh"><div class="poem"><a href="/%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C" title="十六夜咲夜">十六夜咲夜</a></div></div><div class="tt-zh tt-type-dialogue" lang="zh"><div class="poem">「的确，她在进行评测时是有些可怕。」（门卫H氏）</div></div>
+<th><div class="tt-zh tt-type-dialogue" lang="zh"><div class="poem"><a href="./十六夜咲夜.md" title="十六夜咲夜">十六夜咲夜</a></div></div><div class="tt-zh tt-type-dialogue" lang="zh"><div class="poem">「的确，她在进行评测时是有些可怕。」（门卫H氏）</div></div>
 </th>
 <td><div class="tt-zh tt-type-dialogue" lang="zh"><div class="poem">作为便于储存的食物来说真是不错。感觉挺适合做成天妇罗的。<br>（10）</div></div>
 </td>
@@ -81,7 +80,7 @@
 <td><div class="tt-zh tt-type-dialogue" lang="zh"><div class="poem">最近大小姐已经听腻了复古风的音乐，所以希望下次可以演奏一些电子风格的曲目。<br>（8）</div></div>
 </td></tr>
 <tr>
-<th><div class="tt-zh tt-type-dialogue" lang="zh"><div class="poem"><a href="./鬼人正邪.md" title="鬼人正邪">正邪</a>&amp;<a href="./少名针妙丸.md" title="少名针妙丸">针妙丸</a></div></div><div class="tt-zh tt-type-dialogue" lang="zh"><div class="poem">下克上组合向作者掀起反旗，终于将其版块也夺到手了。并非是因为作者对思考自己要说的关卡评语感到麻烦。</div></div>
+<th><div class="tt-zh tt-type-dialogue" lang="zh"><div class="poem"><a href="./鬼人正邪.md" title="鬼人正邪">正邪</a>&<a href="./少名针妙丸.md" title="少名针妙丸">针妙丸</a></div></div><div class="tt-zh tt-type-dialogue" lang="zh"><div class="poem">下克上组合向作者掀起反旗，终于将其版块也夺到手了。并非是因为作者对思考自己要说的关卡评语感到麻烦。</div></div>
 </th>
 <td><div class="tt-zh tt-type-dialogue" lang="zh"><div class="poem">若鹭姬的优点？那当然是她很弱这点吧！（正邪）<br>再就是，很小这点也算呢！（针妙丸）</div></div>
 </td>
@@ -97,12 +96,6 @@
 </td>
 <td><div class="tt-zh tt-type-dialogue" lang="zh"><div class="poem">话说回来我有点在意，你的本体是敲鼓的那个？还是被敲的那个？（正邪）<br>我觉得多半是被敲的那个！（针妙丸）<br>就是说啊！（正邪）</div></div>
 </td></tr></tbody></table>
-
-
-
-
-
-
 
 
 ---

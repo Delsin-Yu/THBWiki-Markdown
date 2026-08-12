@@ -1,6 +1,6 @@
 # 文件:TOHOBU_STG_＃2封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\be\ns6%3ATOHOBU_STG_%EF%BC%832%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\be\ns6%3ATOHOBU_STG_%EF%BC%832%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 ついったー東方部 | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [TOHOBU STG ＃2](./TOHOBU_STG_＃2.md)  
-该封面包含的角色：- [米斯蒂娅·萝蕾拉](./米斯蒂娅·萝蕾拉.md)
-
-
-
+- [TOHOBU STG ＃2](./TOHOBU_STG_＃2.md)该封面包含的角色：
+- [米斯蒂娅·萝蕾拉](./米斯蒂娅·萝蕾拉.md)
 
 
 ---

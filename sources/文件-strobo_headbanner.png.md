@@ -1,16 +1,11 @@
 # 文件:strobo_headbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f2\ns6%3Astrobo_headbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f2\ns6%3Astrobo_headbanner%2Epng.html -->
 
 strobo_head | 社团LOGO
 
   
-源地址：[[1]](http://strobohead.nobody.jp/img/banner-20040.png)
-  
-
-
-
-
+源地址：[\[1\]](http://strobohead.nobody.jp/img/banner-20040.png)  
 
 ---
 

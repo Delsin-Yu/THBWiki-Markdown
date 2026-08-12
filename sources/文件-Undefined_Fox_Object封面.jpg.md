@@ -1,6 +1,6 @@
 # 文件:Undefined_Fox_Object封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\74\ns6%3AUndefined_Fox_Object%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\74\ns6%3AUndefined_Fox_Object%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 もっふもっふ亭 | 专辑封面 | 封面图片
 
@@ -13,12 +13,7 @@
 - [Undefined Fox Object](./Undefined_Fox_Object.md)
 
   
-源地址：[suruga-ya](https://www.suruga-ya.jp/product/detail/186149455)
-  
-
-
-
-
+源地址：[suruga-ya](https://www.suruga-ya.jp/product/detail/186149455)  
 
 ---
 

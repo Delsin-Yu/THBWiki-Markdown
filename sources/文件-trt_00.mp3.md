@@ -1,6 +1,6 @@
 # 文件:trt_00.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d1\ns6%3Atrt_00%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d1\ns6%3Atrt_00%2Emp3.html -->
 
 Witch_of_Love_Potion | 东方幻想的音乐
 
@@ -8,10 +8,6 @@ Witch_of_Love_Potion | 东方幻想的音乐
 [https://www.shrinemaiden.org/forum/index.php/topic,18989.0.html](https://www.shrinemaiden.org/forum/index.php/topic,18989.0.html)
 SC-88Pro实录MIDI
   
-
-
-
-
 
 ---
 

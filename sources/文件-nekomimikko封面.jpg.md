@@ -1,6 +1,6 @@
 # 文件:nekomimikko封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a6\ns6%3Anekomimikko%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a6\ns6%3Anekomimikko%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 コウセイ | 同人志封面 | 封面图片
 
@@ -10,15 +10,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [nekomimikko](./nekomimikko.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [nekomimikko](./nekomimikko.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
 : 源地址
 
 - [蜜瓜](https://melonbooks.akamaized.net/user_data/packages/resize_image.php?image=212001218765.jpg)
-
-
-
 
 
 ---

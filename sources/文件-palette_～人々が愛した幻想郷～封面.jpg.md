@@ -1,6 +1,6 @@
 # 文件:palette_～人々が愛した幻想郷～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\84\ns6%3Apalette_%EF%BD%9E%E4%BA%BA%E3%80%85%E3%81%8C%E6%84%9B%E3%81%97%E3%81%9F%E5%B9%BB%E6%83%B3%E9%83%B7%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\84\ns6%3Apalette_%EF%BD%9E%E4%BA%BA%E3%80%85%E3%81%8C%E6%84%9B%E3%81%97%E3%81%9F%E5%B9%BB%E6%83%B3%E9%83%B7%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 君の美術館 | 封面图片
 
@@ -8,11 +8,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [palette ～人々が愛した幻想郷～](./palette_～人々が愛した幻想郷～.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- 十六夜咲夜 (未找到链接)- [魂魄妖梦](./魂魄妖梦.md)- [东风谷早苗](./东风谷早苗.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [palette ～人々が愛した幻想郷～](./palette_～人々が愛した幻想郷～.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [十六夜咲夜](./十六夜咲夜.md)
+- [魂魄妖梦](./魂魄妖梦.md)
+- [东风谷早苗](./东风谷早苗.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

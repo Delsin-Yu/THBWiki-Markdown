@@ -1,6 +1,6 @@
 # 文件:TOHO_BIT_SUITE_4封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\58\ns6%3ATOHO_BIT_SUITE_4%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\58\ns6%3ATOHO_BIT_SUITE_4%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 rodent_edge_scramble | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ rodent_edge_scramble | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [TOHO BIT SUITE 4](./TOHO_BIT_SUITE_4.md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)
-
-
-
+- [TOHO BIT SUITE 4](./TOHO_BIT_SUITE_4.md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
 
 
 ---

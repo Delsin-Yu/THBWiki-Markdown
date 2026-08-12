@@ -1,6 +1,6 @@
 # 文件:Starting_Over封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1f\ns6%3AStarting_Over%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1f\ns6%3AStarting_Over%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 overTuner | 专辑封面 | 封面图片
 
@@ -8,16 +8,13 @@ overTuner | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Starting Over](./Starting_Over.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [八云紫](./八云紫.md)- [东风谷早苗](./东风谷早苗.md)
+- [Starting Over](./Starting_Over.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [八云紫](./八云紫.md)
+- [东风谷早苗](./东风谷早苗.md)
 
   
-源地址：[[1]](http://img.toranoana.jp/popup_img/04/0010/23/04/040010230482-1p.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://img.toranoana.jp/popup_img/04/0010/23/04/040010230482-1p.jpg)  
 
 ---
 

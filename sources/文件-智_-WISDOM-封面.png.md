@@ -1,6 +1,6 @@
 # 文件:智_-WISDOM-封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\65\ns6%3A%E6%99%BA_-WISDOM-%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\65\ns6%3A%E6%99%BA_-WISDOM-%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 俺++(Includeore) | 封面图片
 
@@ -8,11 +8,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [智 -WISDOM-](./智_-WISDOM-.md)  
-该封面包含的角色：- [苏我屠自古](./苏我屠自古.md)- [物部布都](./物部布都.md)- [丰聪耳神子](./丰聪耳神子.md)
-
-
-
+- [智 -WISDOM-](./智_-WISDOM-.md)该封面包含的角色：
+- [苏我屠自古](./苏我屠自古.md)
+- [物部布都](./物部布都.md)
+- [丰聪耳神子](./丰聪耳神子.md)
 
 
 ---

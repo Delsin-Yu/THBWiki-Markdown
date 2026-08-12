@@ -1,6 +1,6 @@
 # 文件:YOIKAZE_-東方入眠抄音楽弦奏_5-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\97\ns6%3AYOIKAZE_-%E6%9D%B1%E6%96%B9%E5%85%A5%E7%9C%A0%E6%8A%84%E9%9F%B3%E6%A5%BD%E5%BC%A6%E5%A5%8F_5-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\97\ns6%3AYOIKAZE_-%E6%9D%B1%E6%96%B9%E5%85%A5%E7%9C%A0%E6%8A%84%E9%9F%B3%E6%A5%BD%E5%BC%A6%E5%A5%8F_5-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Re：Volte | TAMUSIC | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Re：Volte | TAMUSIC | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [YOIKAZE -東方入眠抄音楽弦奏 5-](./YOIKAZE_-東方入眠抄音楽弦奏_5-.md)  
-该封面包含的角色：- [小野塚小町](./小野塚小町.md)
-
-
-
+- [YOIKAZE -東方入眠抄音楽弦奏 5-](./YOIKAZE_-東方入眠抄音楽弦奏_5-.md)该封面包含的角色：
+- [小野塚小町](./小野塚小町.md)
 
 
 ---

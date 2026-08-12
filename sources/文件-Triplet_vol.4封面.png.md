@@ -1,6 +1,6 @@
 # 文件:Triplet_vol.4封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fb\ns6%3ATriplet_vol%2E4%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fb\ns6%3ATriplet_vol%2E4%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 36MACHINE | Sound_Square | けみかるしとらすけーき！ | 专辑封面 | 封面图片
 
@@ -10,16 +10,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [Triplet vol.4](./Triplet_vol.4.md)  
-该封面包含的角色：- [秋静叶](./秋静叶.md)- [秋穰子](./秋穰子.md)
+- [Triplet vol.4](./Triplet_vol.4.md)该封面包含的角色：
+- [秋静叶](./秋静叶.md)
+- [秋穰子](./秋穰子.md)
 
   
-源地址：[source tweet](https://twitter.com/tanso_ss/status/681967871841316864), [direct image link](https://pbs.twimg.com/media/CXbWKoEU0AASrnJ?format=png&amp;name=orig)
-  
-
-
-
-
+源地址：[source tweet](https://twitter.com/tanso_ss/status/681967871841316864), [direct image link](https://pbs.twimg.com/media/CXbWKoEU0AASrnJ?format=png&name=orig)  
 
 ---
 

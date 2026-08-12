@@ -1,6 +1,6 @@
 # 文件:DISTINGUISH_SENSE_FROM_NONSENSE封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ec\ns6%3ADISTINGUISH_SENSE_FROM_NONSENSE%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ec\ns6%3ADISTINGUISH_SENSE_FROM_NONSENSE%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 QUINTET | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ QUINTET | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [DISTINGUISH SENSE FROM NONSENSE](./DISTINGUISH_SENSE_FROM_NONSENSE.md)  
-该封面包含的角色：- [丰聪耳神子](./丰聪耳神子.md)
+- [DISTINGUISH SENSE FROM NONSENSE](./DISTINGUISH_SENSE_FROM_NONSENSE.md)该封面包含的角色：
+- [丰聪耳神子](./丰聪耳神子.md)
 
   
-源地址：[[1]](http://lostcollection.net/img/640/lcd09.png)
-  
-
-
-
-
+源地址：[\[1\]](http://lostcollection.net/img/640/lcd09.png)  
 
 ---
 

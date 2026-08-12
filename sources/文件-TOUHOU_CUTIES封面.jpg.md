@@ -1,6 +1,6 @@
 # 文件:TOUHOU_CUTIES封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\29\ns6%3ATOUHOU_CUTIES%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\29\ns6%3ATOUHOU_CUTIES%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 过气废萌社团
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [TOUHOU CUTIES](./TOUHOU_CUTIES.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)- [大妖精](./大妖精.md)
-
-
-
+- [TOUHOU CUTIES](./TOUHOU_CUTIES.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
+- [大妖精](./大妖精.md)
 
 
 ---

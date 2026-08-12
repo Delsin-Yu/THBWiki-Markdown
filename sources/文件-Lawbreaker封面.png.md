@@ -1,6 +1,6 @@
 # 文件:Lawbreaker封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a7\ns6%3ALawbreaker%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a7\ns6%3ALawbreaker%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Nothing_Heals | 同人志封面 | 封面图片
 
@@ -10,16 +10,12 @@ Nothing_Heals | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Lawbreaker](./Lawbreaker.md)  
-该封面包含的角色：- [封兽鵺](./封兽鵺.md)- [鬼人正邪](./鬼人正邪.md)
+- [Lawbreaker](./Lawbreaker.md)该封面包含的角色：
+- [封兽鵺](./封兽鵺.md)
+- [鬼人正邪](./鬼人正邪.md)
 
   
-[Pixiv artwork ID: 56726330 (original size; image 5/5)](https://www.pixiv.net/artworks/56726330)
-  
-
-
-
-
+[Pixiv artwork ID: 56726330 (original size; image 5/5)](https://www.pixiv.net/artworks/56726330)  
 
 ---
 

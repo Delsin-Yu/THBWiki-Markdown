@@ -1,16 +1,11 @@
 # 文件:吊るし処logo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0e\ns6%3A%E5%90%8A%E3%82%8B%E3%81%97%E5%87%A6logo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0e\ns6%3A%E5%90%8A%E3%82%8B%E3%81%97%E5%87%A6logo%2Epng.html -->
 
 吊るし処 | 社团LOGO
 
   
-源地址：[[1]](https://static.wixstatic.com/media/d64b0b_bca4d3495d664bce865a4abcb3ec89b9~mv2.png)
-  
-
-
-
-
+源地址：[\[1\]](https://static.wixstatic.com/media/d64b0b_bca4d3495d664bce865a4abcb3ec89b9~mv2.png)  
 
 ---
 

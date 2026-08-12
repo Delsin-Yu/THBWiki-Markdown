@@ -1,12 +1,8 @@
 # 文件:THD2太刀.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\91\ns6%3ATHD2%E5%A4%AA%E5%88%80%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\91\ns6%3ATHD2%E5%A4%AA%E5%88%80%2Epng.html -->
 
 AvalonStudioOfficial
-
-
-
-
 
 
 ---

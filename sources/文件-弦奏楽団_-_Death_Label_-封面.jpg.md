@@ -1,6 +1,6 @@
 # 文件:弦奏楽団_-_Death_Label_-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\74\ns6%3A%E5%BC%A6%E5%A5%8F%E6%A5%BD%E5%9B%A3_-_Death_Label_-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\74\ns6%3A%E5%BC%A6%E5%A5%8F%E6%A5%BD%E5%9B%A3_-_Death_Label_-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 XG幻想樂団 | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ XG幻想樂団 | 专辑封面 | 封面图片
   
 
 - [弦奏楽団 - Death Label -](./弦奏楽団_-_Death_Label_-.md)
-
-
-
 
 
 ---

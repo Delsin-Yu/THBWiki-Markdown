@@ -1,6 +1,6 @@
 # 文件:Retro_TOHO封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\34\ns6%3ARetro_TOHO%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\34\ns6%3ARetro_TOHO%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 NeuzKraft | 专辑封面 | 封面图片
 
@@ -8,12 +8,9 @@ NeuzKraft | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Retro TOHO](./Retro_TOHO.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)源地址：[[1]](http://neuzkraft.com/img/NKCD-1601_img.jpg)
-
-
-
-
+- [Retro TOHO](./Retro_TOHO.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+源地址：[\[1\]](http://neuzkraft.com/img/NKCD-1601_img.jpg)
 
 ---
 

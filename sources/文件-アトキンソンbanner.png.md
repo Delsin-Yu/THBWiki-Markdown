@@ -1,12 +1,8 @@
 # 文件:アトキンソンbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3f\ns6%3A%E3%82%A2%E3%83%88%E3%82%AD%E3%83%B3%E3%82%BD%E3%83%B3banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3f\ns6%3A%E3%82%A2%E3%83%88%E3%82%AD%E3%83%B3%E3%82%BD%E3%83%B3banner%2Epng.html -->
 
 アトキンソン | 社团LOGO
-
-
-
-
 
 
 ---

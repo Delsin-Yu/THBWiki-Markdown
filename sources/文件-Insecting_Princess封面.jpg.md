@@ -1,6 +1,6 @@
 # 文件:Insecting_Princess封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ca\ns6%3AInsecting_Princess%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ca\ns6%3AInsecting_Princess%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ねこしょくどう | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Insecting Princess](./Insecting_Princess.md)  
-该封面包含的角色：- [姬虫百百世](./姬虫百百世.md)
+- [Insecting Princess](./Insecting_Princess.md)该封面包含的角色：
+- [姬虫百百世](./姬虫百百世.md)
 
   
-源地址：[direct image link (original size)](https://s2.booth.pm/cec85e49-5e42-46fb-94f4-0129a0975c8d/i/3380125/e087dc54-4232-4611-9027-f9c96584551d.jpg), [from circle Booth](https://roopepe09.booth.pm/items/3380125)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://s2.booth.pm/cec85e49-5e42-46fb-94f4-0129a0975c8d/i/3380125/e087dc54-4232-4611-9027-f9c96584551d.jpg), [from circle Booth](https://roopepe09.booth.pm/items/3380125)  
 
 ---
 

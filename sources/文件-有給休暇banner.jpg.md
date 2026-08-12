@@ -1,14 +1,11 @@
 # 文件:有給休暇banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c5\ns6%3A%E6%9C%89%E7%B5%A6%E4%BC%91%E6%9A%87banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c5\ns6%3A%E6%9C%89%E7%B5%A6%E4%BC%91%E6%9A%87banner%2Ejpg.html -->
 
 有給休暇 | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

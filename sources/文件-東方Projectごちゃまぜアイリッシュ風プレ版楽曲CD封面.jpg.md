@@ -1,6 +1,6 @@
 # 文件:東方Projectごちゃまぜアイリッシュ風プレ版楽曲CD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\07\ns6%3A%E6%9D%B1%E6%96%B9Project%E3%81%94%E3%81%A1%E3%82%83%E3%81%BE%E3%81%9C%E3%82%A2%E3%82%A4%E3%83%AA%E3%83%83%E3%82%B7%E3%83%A5%E9%A2%A8%E3%83%97%E3%83%AC%E7%89%88%E6%A5%BD%E6%9B%B2CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\07\ns6%3A%E6%9D%B1%E6%96%B9Project%E3%81%94%E3%81%A1%E3%82%83%E3%81%BE%E3%81%9C%E3%82%A2%E3%82%A4%E3%83%AA%E3%83%83%E3%82%B7%E3%83%A5%E9%A2%A8%E3%83%97%E3%83%AC%E7%89%88%E6%A5%BD%E6%9B%B2CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 K-waves_LAB | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ K-waves_LAB | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方Projectごちゃまぜアイリッシュ風プレ版楽曲CD](./東方Projectごちゃまぜアイリッシュ風プレ版楽曲CD.md)  
-该封面包含的角色：- [娜兹玲](./娜兹玲.md)
-
-
-
+- [東方Projectごちゃまぜアイリッシュ風プレ版楽曲CD](./東方Projectごちゃまぜアイリッシュ風プレ版楽曲CD.md)该封面包含的角色：
+- [娜兹玲](./娜兹玲.md)
 
 
 ---

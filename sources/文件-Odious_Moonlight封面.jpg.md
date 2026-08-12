@@ -1,6 +1,6 @@
 # 文件:Odious_Moonlight封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cc\ns6%3AOdious_Moonlight%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cc\ns6%3AOdious_Moonlight%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Diabolic_Phantasma | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Diabolic_Phantasma | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Odious Moonlight](./Odious_Moonlight.md)  
-该封面包含的角色：- [纯狐](./纯狐.md)
+- [Odious Moonlight](./Odious_Moonlight.md)该封面包含的角色：
+- [纯狐](./纯狐.md)
 
   
-源地址：[[1]](http://static.tumblr.com/cecf34097ad35e5a9de09cc04acf1b91/z2c0hn3/I7Eo5x1g0/tumblr_static_3hmhhfx28e684k8sks0k8w0c0.png)
-  
-
-
-
-
+源地址：[\[1\]](http://static.tumblr.com/cecf34097ad35e5a9de09cc04acf1b91/z2c0hn3/I7Eo5x1g0/tumblr_static_3hmhhfx28e684k8sks0k8w0c0.png)  
 
 ---
 

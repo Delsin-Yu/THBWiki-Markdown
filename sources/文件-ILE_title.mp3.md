@@ -1,12 +1,8 @@
 # 文件:ILE_title.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e2\ns6%3AILE_title%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e2\ns6%3AILE_title%2Emp3.html -->
 
 原曲MP3 | 独一无二的投影
-
-
-
-
 
 
 ---

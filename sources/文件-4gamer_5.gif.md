@@ -1,12 +1,8 @@
 # 文件:4gamer_5.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8e\ns6%3A4gamer_5%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8e\ns6%3A4gamer_5%2Egif.html -->
 
 东方花映塚 | 采访
-
-
-
-
 
 
 ---

@@ -1,16 +1,11 @@
 # 文件:燕乐玄鸟BOSS（天影战记）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8c\ns6%3A%E7%87%95%E4%B9%90%E7%8E%84%E9%B8%9FBOSS%EF%BC%88%E5%A4%A9%E5%BD%B1%E6%88%98%E8%AE%B0%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8c\ns6%3A%E7%87%95%E4%B9%90%E7%8E%84%E9%B8%9FBOSS%EF%BC%88%E5%A4%A9%E5%BD%B1%E6%88%98%E8%AE%B0%EF%BC%89%2Epng.html -->
 
 トリック・ノスタルジー | 二次角色立绘 | 燕乐玄鸟 | 连缘天影战记
 
   
-分类：连缘天影战记 (未找到链接)
-  
-
-
-
-
+分类：连缘天影战记 (未找到链接)  
 
 ---
 

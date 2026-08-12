@@ -1,6 +1,6 @@
 # 文件:Inexperience封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\59\ns6%3AInexperience%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\59\ns6%3AInexperience%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Spiral_Music | 专辑封面 | 封面图片 | 鋲の人
 
@@ -10,16 +10,11 @@ Spiral_Music | 专辑封面 | 封面图片 | 鋲の人
 使用了本文件作封面图片的作品：
   
 
-- [Inexperience](./Inexperience.md)  
-该封面包含的角色：- [露米娅](./露米娅.md)
+- [Inexperience](./Inexperience.md)该封面包含的角色：
+- [露米娅](./露米娅.md)
 
   
-源地址：[[1]](http://spiralmusic.ifdef.jp/works/inexperience.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://spiralmusic.ifdef.jp/works/inexperience.jpg)  
 
 ---
 

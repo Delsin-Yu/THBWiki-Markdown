@@ -1,12 +1,8 @@
 # 文件:THD2魔人经卷.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\95\ns6%3ATHD2%E9%AD%94%E4%BA%BA%E7%BB%8F%E5%8D%B7%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\95\ns6%3ATHD2%E9%AD%94%E4%BA%BA%E7%BB%8F%E5%8D%B7%2Epng.html -->
 
 AvalonStudioOfficial
-
-
-
-
 
 
 ---

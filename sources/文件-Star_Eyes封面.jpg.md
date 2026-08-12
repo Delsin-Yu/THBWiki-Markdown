@@ -1,6 +1,6 @@
 # 文件:Star_Eyes封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a7\ns6%3AStar_Eyes%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a7\ns6%3AStar_Eyes%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 SNOWBLUE | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ SNOWBLUE | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Star Eyes](./Star_Eyes.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [Star Eyes](./Star_Eyes.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

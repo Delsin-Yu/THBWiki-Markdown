@@ -1,6 +1,6 @@
 # 文件:东方异乡录_~the_Apocryphal_Gensoukyou封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e7\ns6%3A%E4%B8%9C%E6%96%B9%E5%BC%82%E4%B9%A1%E5%BD%95_%7Ethe_Apocryphal_Gensoukyou%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e7\ns6%3A%E4%B8%9C%E6%96%B9%E5%BC%82%E4%B9%A1%E5%BD%95_%7Ethe_Apocryphal_Gensoukyou%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 YEARS | 封面图片 | 软件封面
 
@@ -8,11 +8,11 @@ YEARS | 封面图片 | 软件封面
 使用了本文件作封面图片的作品：
   
 
-- [东方异乡录 ~the Apocryphal Gensoukyou](./东方异乡录_~the_Apocryphal_Gensoukyou.md)  
-该封面包含的角色：- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [河城荷取](./河城荷取.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [东方异乡录 ~the Apocryphal Gensoukyou](./东方异乡录_~the_Apocryphal_Gensoukyou.md)该封面包含的角色：
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [河城荷取](./河城荷取.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

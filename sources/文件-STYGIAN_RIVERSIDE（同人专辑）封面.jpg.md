@@ -1,6 +1,6 @@
 # 文件:STYGIAN_RIVERSIDE（同人专辑）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\54\ns6%3ASTYGIAN_RIVERSIDE%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\54\ns6%3ASTYGIAN_RIVERSIDE%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Stygian_Riverside | 专辑封面 | 封面图片
 
@@ -13,12 +13,7 @@ Stygian_Riverside | 专辑封面 | 封面图片
 - [STYGIAN RIVERSIDE（同人专辑）](./STYGIAN_RIVERSIDE（同人专辑）.md)
 
   
-源地址：[[1]](https://web.archive.org/web/20151105053452if_/http://userdisk.webry.biglobe.ne.jp/010/859/85/N000/000/000/119847391235416124643.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://web.archive.org/web/20151105053452if_/http://userdisk.webry.biglobe.ne.jp/010/859/85/N000/000/000/119847391235416124643.jpg)  
 
 ---
 

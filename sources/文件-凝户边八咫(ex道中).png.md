@@ -1,12 +1,8 @@
 # 文件:凝户边八咫(ex道中).png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ce\ns6%3A%E5%87%9D%E6%88%B7%E8%BE%B9%E5%85%AB%E5%92%AB%28ex%E9%81%93%E4%B8%AD%29%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ce\ns6%3A%E5%87%9D%E6%88%B7%E8%BE%B9%E5%85%AB%E5%92%AB%28ex%E9%81%93%E4%B8%AD%29%2Epng.html -->
 
 SHO | 二次角色立绘 | 凝户边八咫
-
-
-
-
 
 
 ---

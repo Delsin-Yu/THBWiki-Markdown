@@ -1,16 +1,12 @@
 # 模板:Bar铃奈庵
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\4\4a\ns10%3ABar%E9%93%83%E5%A5%88%E5%BA%B5.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\4\4a\ns10%3ABar%E9%93%83%E5%A5%88%E5%BA%B5.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

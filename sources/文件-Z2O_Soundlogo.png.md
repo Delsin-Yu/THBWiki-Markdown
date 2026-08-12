@@ -1,18 +1,13 @@
 # 文件:Z2O_Soundlogo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\59\ns6%3AZ2O_Soundlogo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\59\ns6%3AZ2O_Soundlogo%2Epng.html -->
 
 Z2O_Sound | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[[1]](http://z2osound.weebly.com/uploads/4/8/6/1/48611449/1426769038.png)
-  
-
-
-
-
+源地址：[\[1\]](http://z2osound.weebly.com/uploads/4/8/6/1/48611449/1426769038.png)  
 
 ---
 

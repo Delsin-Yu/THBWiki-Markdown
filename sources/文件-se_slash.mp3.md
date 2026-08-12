@@ -1,12 +1,8 @@
 # 文件:se_slash.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a9\ns6%3Ase_slash%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a9\ns6%3Ase_slash%2Emp3.html -->
 
 游戏音效
-
-
-
-
 
 
 ---

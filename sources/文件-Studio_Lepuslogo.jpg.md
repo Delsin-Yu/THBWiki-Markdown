@@ -1,16 +1,11 @@
 # 文件:Studio_Lepuslogo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ec\ns6%3AStudio_Lepuslogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ec\ns6%3AStudio_Lepuslogo%2Ejpg.html -->
 
 Studio_Lepus | 社团LOGO
 
   
-源地址：[[1]](https://booth.pximg.net/c/128x128/users/122326/icon_image/65d79dc1-cbd6-400c-9d09-0f71f24780cc_base_resized.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://booth.pximg.net/c/128x128/users/122326/icon_image/65d79dc1-cbd6-400c-9d09-0f71f24780cc_base_resized.jpg)  
 
 ---
 

@@ -1,14 +1,11 @@
 # 文件:Lunatic_Locusbanner2.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b1\ns6%3ALunatic_Locusbanner2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b1\ns6%3ALunatic_Locusbanner2%2Epng.html -->
 
 Lunatic_Locus | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

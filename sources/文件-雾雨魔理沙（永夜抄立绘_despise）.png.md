@@ -1,12 +1,8 @@
 # 文件:雾雨魔理沙（永夜抄立绘_despise）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\67\ns6%3A%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%EF%BC%88%E6%B0%B8%E5%A4%9C%E6%8A%84%E7%AB%8B%E7%BB%98_despise%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\67\ns6%3A%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%EF%BC%88%E6%B0%B8%E5%A4%9C%E6%8A%84%E7%AB%8B%E7%BB%98_despise%EF%BC%89%2Epng.html -->
 
 ZUN绘 | 东方永夜抄 | 官方游戏立绘 | 雾雨魔理沙
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Alice_in_FourSeasons_-夏-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ed\ns6%3AAlice_in_FourSeasons_-%E5%A4%8F-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ed\ns6%3AAlice_in_FourSeasons_-%E5%A4%8F-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 あーねすとROOM | 同人志封面 | 封面图片
 
@@ -10,16 +10,13 @@
 使用了本文件作封面图片的作品：
   
 
-- [Alice in FourSeasons -夏-](./Alice_in_FourSeasons_-夏-.md)  
-该封面包含的角色：- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [雾雨魔理沙](./雾雨魔理沙.md)
+- [Alice in FourSeasons -夏-](./Alice_in_FourSeasons_-夏-.md)该封面包含的角色：
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-[Pixiv artwork ID: 83347839 (original size)](https://www.pixiv.net/artworks/83347839)
-  
-
-
-
-
+[Pixiv artwork ID: 83347839 (original size)](https://www.pixiv.net/artworks/83347839)  
 
 ---
 

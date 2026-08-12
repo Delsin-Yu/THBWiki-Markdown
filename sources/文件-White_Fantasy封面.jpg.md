@@ -1,6 +1,6 @@
 # 文件:White_Fantasy封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\96\ns6%3AWhite_Fantasy%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\96\ns6%3AWhite_Fantasy%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Nzx_Studio | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Nzx_Studio | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [White Fantasy](./White_Fantasy.md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)
-
-
-
+- [White Fantasy](./White_Fantasy.md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
 
 
 ---

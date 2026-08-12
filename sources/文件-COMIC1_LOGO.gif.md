@@ -1,12 +1,8 @@
 # 文件:COMIC1_LOGO.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\78\ns6%3ACOMIC1_LOGO%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\78\ns6%3ACOMIC1_LOGO%2Egif.html -->
 
 COMIC1 | 活动LOGO
-
-
-
-
 
 
 ---

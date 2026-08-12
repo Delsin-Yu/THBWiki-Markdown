@@ -1,6 +1,6 @@
 # 文件:per_speculum_in_aenigmate封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0e\ns6%3Aper_speculum_in_aenigmate%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0e\ns6%3Aper_speculum_in_aenigmate%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 schwarzwald | 专辑封面 | 封面图片
 
@@ -8,16 +8,13 @@ schwarzwald | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [per speculum in aenigmate](./per_speculum_in_aenigmate.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [per speculum in aenigmate](./per_speculum_in_aenigmate.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
   
 源地址: TLMC扫描改编
   
-
-
-
-
 
 ---
 

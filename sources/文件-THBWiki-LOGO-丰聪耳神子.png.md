@@ -1,12 +1,8 @@
 # 文件:THBWiki-LOGO-丰聪耳神子.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\75\ns6%3ATHBWiki-LOGO-%E4%B8%B0%E8%81%AA%E8%80%B3%E7%A5%9E%E5%AD%90%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\75\ns6%3ATHBWiki-LOGO-%E4%B8%B0%E8%81%AA%E8%80%B3%E7%A5%9E%E5%AD%90%2Epng.html -->
 
 THBWiki | Wiki词条分类用图
-
-
-
-
 
 
 ---

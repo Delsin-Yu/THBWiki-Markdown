@@ -1,6 +1,6 @@
 # 文件:JK×制服×布都ちゃん封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\91\ns6%3AJK%C3%97%E5%88%B6%E6%9C%8D%C3%97%E5%B8%83%E9%83%BD%E3%81%A1%E3%82%83%E3%82%93%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\91\ns6%3AJK%C3%97%E5%88%B6%E6%9C%8D%C3%97%E5%B8%83%E9%83%BD%E3%81%A1%E3%82%83%E3%82%93%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ちずこん | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [JK×制服×布都ちゃん](./JK×制服×布都ちゃん.md)  
-该封面包含的角色：- [物部布都](./物部布都.md)
-
-
-
+- [JK×制服×布都ちゃん](./JK×制服×布都ちゃん.md)该封面包含的角色：
+- [物部布都](./物部布都.md)
 
 
 ---

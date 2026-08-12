@@ -1,6 +1,6 @@
 # 文件:Alice's_Adventures_in_yhe_Beloved_Utopia封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7c\ns6%3AAlice%27s_Adventures_in_yhe_Beloved_Utopia%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7c\ns6%3AAlice%27s_Adventures_in_yhe_Beloved_Utopia%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 煙霞
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [Alice's Adventures in yhe Beloved Utopia](./Alice's_Adventures_in_yhe_Beloved_Utopia.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [爱丽丝（旧作角色）](./爱丽丝（旧作角色）.md)
-
-
-
+- [Alice's Adventures in yhe Beloved Utopia](./Alice's_Adventures_in_yhe_Beloved_Utopia.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [爱丽丝（旧作角色）](./爱丽丝（旧作角色）.md)
 
 
 ---

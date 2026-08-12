@@ -1,12 +1,8 @@
 # 文件:Ash_Blind_Banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b1\ns6%3AAsh_Blind_Banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b1\ns6%3AAsh_Blind_Banner%2Ejpg.html -->
 
 Ash_Blind | 社团LOGO
-
-
-
-
 
 
 ---

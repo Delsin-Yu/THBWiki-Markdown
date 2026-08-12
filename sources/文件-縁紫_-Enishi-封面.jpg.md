@@ -1,6 +1,6 @@
 # 文件:縁紫_-Enishi-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4d\ns6%3A%E7%B8%81%E7%B4%AB_-Enishi-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4d\ns6%3A%E7%B8%81%E7%B4%AB_-Enishi-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 K2_SOUND | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ K2_SOUND | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [縁紫 -Enishi-](./縁紫_-Enishi-.md)  
-该封面包含的角色：- [八云紫](./八云紫.md)
-
-
-
+- [縁紫 -Enishi-](./縁紫_-Enishi-.md)该封面包含的角色：
+- [八云紫](./八云紫.md)
 
 
 ---

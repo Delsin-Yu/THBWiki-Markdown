@@ -1,6 +1,6 @@
 # IKUSAAAAAAAN!/攻略
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\e\e9\ns0%3AIKUSAAAAAAAN%21%2F%E6%94%BB%E7%95%A5.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\e\e9\ns0%3AIKUSAAAAAAAN%21%2F%E6%94%BB%E7%95%A5.html -->
 
 幽々燦々
 
@@ -8,10 +8,6 @@
 没有判定点，
 有三种攻击方式
   
-
-
-
-
 
 ---
 

@@ -1,16 +1,11 @@
 # 文件:Nu-nautbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ef\ns6%3ANu-nautbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ef\ns6%3ANu-nautbanner%2Epng.html -->
 
 Nu-naut | 社团LOGO
 
   
-源地址:[[1]](http://static.tumblr.com/005069db3f186a964e220f58b29af8ba/eybpl0u/lEEnld81v/tumblr_static_bak70fyev34gg44gwkc0oow0o.png)
-  
-
-
-
-
+源地址:[\[1\]](http://static.tumblr.com/005069db3f186a964e220f58b29af8ba/eybpl0u/lEEnld81v/tumblr_static_bak70fyev34gg44gwkc0oow0o.png)  
 
 ---
 

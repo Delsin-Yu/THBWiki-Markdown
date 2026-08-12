@@ -1,6 +1,6 @@
 # 文件:ダイオキシンの折り本2012_SUMMER封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\26\ns6%3A%E3%83%80%E3%82%A4%E3%82%AA%E3%82%AD%E3%82%B7%E3%83%B3%E3%81%AE%E6%8A%98%E3%82%8A%E6%9C%AC2012_SUMMER%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\26\ns6%3A%E3%83%80%E3%82%A4%E3%82%AA%E3%82%AD%E3%82%B7%E3%83%B3%E3%81%AE%E6%8A%98%E3%82%8A%E6%9C%AC2012_SUMMER%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ダイオキシン | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [ダイオキシンの折り本2012 SUMMER](./ダイオキシンの折り本2012_SUMMER.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)
-
-
-
+- [ダイオキシンの折り本2012 SUMMER](./ダイオキシンの折り本2012_SUMMER.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
 
 
 ---

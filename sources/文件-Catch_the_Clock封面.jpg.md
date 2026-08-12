@@ -1,6 +1,6 @@
 # 文件:Catch_the_Clock封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\31\ns6%3ACatch_the_Clock%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\31\ns6%3ACatch_the_Clock%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Nami_Haven | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Nami_Haven | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Catch the Clock](./Catch_the_Clock.md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)
-
-
-
+- [Catch the Clock](./Catch_the_Clock.md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
 
 
 ---

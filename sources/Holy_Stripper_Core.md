@@ -1,46 +1,41 @@
 # Holy_Stripper_Core
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\9\9c\ns0%3AHoly_Stripper_Core.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\9\9c\ns0%3AHoly_Stripper_Core.html -->
 
 2013年5月26日 由 見切り発車 于 博丽神社例大祭10 发布的漫画同人志，B5尺寸一共44页，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人志 (未找到链接)** 的词条
-
+**[二次创作同人志](./二次创作.md#同人志)**的词条
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Holy_Stripper_Core封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/2/21/Holy_Stripper_Core%E5%B0%81%E9%9D%A2.jpg/168px-Holy_Stripper_Core%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="168" height="119" srcset="https://upload.thwiki.cc/thumb/2/21/Holy_Stripper_Core%E5%B0%81%E9%9D%A2.jpg/252px-Holy_Stripper_Core%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/2/21/Holy_Stripper_Core%E5%B0%81%E9%9D%A2.jpg/336px-Holy_Stripper_Core%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="2830" data-file-height="2000"></a><div class="cover-char">角色：<a href="./小恶魔.md" title="小恶魔">小恶魔</a></div></td>
 </tr><tr><td class="label">名称</td><td colspan="2"> Holy Stripper Core </td></tr><tr><td class="label">制作方</td><td><a href="./見切り発車.md" title="見切り発車">見切り発車</a></td><td class="cover-artwork" rowspan="6" style="min-width:168px;"><a href="./文件-Holy_Stripper_Core封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/2/21/Holy_Stripper_Core%E5%B0%81%E9%9D%A2.jpg/168px-Holy_Stripper_Core%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="168" height="119" srcset="https://upload.thwiki.cc/thumb/2/21/Holy_Stripper_Core%E5%B0%81%E9%9D%A2.jpg/252px-Holy_Stripper_Core%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/2/21/Holy_Stripper_Core%E5%B0%81%E9%9D%A2.jpg/336px-Holy_Stripper_Core%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="2830" data-file-height="2000"></a><div class="cover-char">角色：<a href="./小恶魔.md" title="小恶魔">小恶魔</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2013-05-26&#160;（<a href="/展会作品列表?e=%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD%2310">第十回 博麗神社例大祭</a>）</td></tr><tr><td class="label">类型</td><td>漫画</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>B5</td></tr><tr><td class="label">页数</td><td>44P</td></tr>
+</tr><tr><td class="label">首发日期</td><td>2013-05-26 （<a href="./展会作品列表.md#10">第十回 博麗神社例大祭</a>）</td></tr><tr><td class="label">类型</td><td>漫画</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>B5</td></tr><tr><td class="label">页数</td><td>44P</td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://leonseven.blog3.fc2.com/blog-date-201305-1.html">http://leonseven.blog3.fc2.com/blog-date-201305-1.html</a><br><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/35844868">https://www.pixiv.net/artworks/35844868</a></td></tr></tbody></table>
 
 Holy Stripper Core（同人志，見切り発車，2013） - 2013年5月26日 由 見切り発車 于 博丽神社例大祭10 发布的漫画同人志，B5尺寸一共44页，分级为 一般向
-
 ## 预览
-- [](./文件-Holy_Stripper_Core预览图1.jpg.md)- [](./文件-Holy_Stripper_Core预览图2.jpg.md)- [](./文件-Holy_Stripper_Core预览图3.jpg.md)- [](./文件-Holy_Stripper_Core预览图4.jpg.md)- [](./文件-Holy_Stripper_Core预览图5.jpg.md)
+
+- <img alt="Holy Stripper Core预览图1.jpg" src="https://upload.thwiki.cc/thumb/4/42/Holy_Stripper_Core%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg/268px-Holy_Stripper_Core%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg" decoding="async" loading="lazy" width="179" height="250" srcset="https://upload.thwiki.cc/thumb/4/42/Holy_Stripper_Core%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg/402px-Holy_Stripper_Core%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg 1.5x, https://upload.thwiki.cc/thumb/4/42/Holy_Stripper_Core%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg/536px-Holy_Stripper_Core%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg 2x" data-file-width="1430" data-file-height="2000"> 
+- <img alt="Holy Stripper Core预览图2.jpg" src="https://upload.thwiki.cc/thumb/f/fa/Holy_Stripper_Core%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg/268px-Holy_Stripper_Core%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg" decoding="async" loading="lazy" width="179" height="250" srcset="https://upload.thwiki.cc/thumb/f/fa/Holy_Stripper_Core%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg/402px-Holy_Stripper_Core%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg 1.5x, https://upload.thwiki.cc/thumb/f/fa/Holy_Stripper_Core%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg/536px-Holy_Stripper_Core%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg 2x" data-file-width="1430" data-file-height="2000"> 
+- <img alt="Holy Stripper Core预览图3.jpg" src="https://upload.thwiki.cc/thumb/7/74/Holy_Stripper_Core%E9%A2%84%E8%A7%88%E5%9B%BE3.jpg/268px-Holy_Stripper_Core%E9%A2%84%E8%A7%88%E5%9B%BE3.jpg" decoding="async" loading="lazy" width="179" height="250" srcset="https://upload.thwiki.cc/thumb/7/74/Holy_Stripper_Core%E9%A2%84%E8%A7%88%E5%9B%BE3.jpg/402px-Holy_Stripper_Core%E9%A2%84%E8%A7%88%E5%9B%BE3.jpg 1.5x, https://upload.thwiki.cc/thumb/7/74/Holy_Stripper_Core%E9%A2%84%E8%A7%88%E5%9B%BE3.jpg/536px-Holy_Stripper_Core%E9%A2%84%E8%A7%88%E5%9B%BE3.jpg 2x" data-file-width="1430" data-file-height="2000"> 
+- <img alt="Holy Stripper Core预览图4.jpg" src="https://upload.thwiki.cc/thumb/d/dc/Holy_Stripper_Core%E9%A2%84%E8%A7%88%E5%9B%BE4.jpg/268px-Holy_Stripper_Core%E9%A2%84%E8%A7%88%E5%9B%BE4.jpg" decoding="async" loading="lazy" width="179" height="250" srcset="https://upload.thwiki.cc/thumb/d/dc/Holy_Stripper_Core%E9%A2%84%E8%A7%88%E5%9B%BE4.jpg/402px-Holy_Stripper_Core%E9%A2%84%E8%A7%88%E5%9B%BE4.jpg 1.5x, https://upload.thwiki.cc/thumb/d/dc/Holy_Stripper_Core%E9%A2%84%E8%A7%88%E5%9B%BE4.jpg/536px-Holy_Stripper_Core%E9%A2%84%E8%A7%88%E5%9B%BE4.jpg 2x" data-file-width="1430" data-file-height="2000"> 
+- <img alt="Holy Stripper Core预览图5.jpg" src="https://upload.thwiki.cc/thumb/d/d7/Holy_Stripper_Core%E9%A2%84%E8%A7%88%E5%9B%BE5.jpg/268px-Holy_Stripper_Core%E9%A2%84%E8%A7%88%E5%9B%BE5.jpg" decoding="async" loading="lazy" width="179" height="250" srcset="https://upload.thwiki.cc/thumb/d/d7/Holy_Stripper_Core%E9%A2%84%E8%A7%88%E5%9B%BE5.jpg/402px-Holy_Stripper_Core%E9%A2%84%E8%A7%88%E5%9B%BE5.jpg 1.5x, https://upload.thwiki.cc/thumb/d/d7/Holy_Stripper_Core%E9%A2%84%E8%A7%88%E5%9B%BE5.jpg/536px-Holy_Stripper_Core%E9%A2%84%E8%A7%88%E5%9B%BE5.jpg 2x" data-file-width="1430" data-file-height="2000"> 
 
 
 ## Staff
+
 - [れおん](./れおん.md)
 - [是乃](./是乃.md)
 
 
 ## 评论
 社团方的评论
-
   
 是乃さん原作の小悪魔主人公のスタイリッシュ脱衣アクション漫画です。  
 
 （※一般向けです）今回作画を担当させて頂きました。
   
-  
-  
-
-  
-
-
-
-
 
 ---
 

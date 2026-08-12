@@ -1,16 +1,11 @@
 # 文件:雪待工房logo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ea\ns6%3A%E9%9B%AA%E5%BE%85%E5%B7%A5%E6%88%BFlogo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ea\ns6%3A%E9%9B%AA%E5%BE%85%E5%B7%A5%E6%88%BFlogo%2Epng.html -->
 
 社团LOGO | 雪待工房
 
   
-源地址：[[1]](https://static.wixstatic.com/media/339759_a8e7f9bc59e54e969133f4f0f4524b9b~mv2.png)
-  
-
-
-
-
+源地址：[\[1\]](https://static.wixstatic.com/media/339759_a8e7f9bc59e54e969133f4f0f4524b9b~mv2.png)  
 
 ---
 

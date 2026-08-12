@@ -1,6 +1,6 @@
 # 文件:Past_Nightmare,_Present_Dream封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0a\ns6%3APast_Nightmare%2C_Present_Dream%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0a\ns6%3APast_Nightmare%2C_Present_Dream%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 きたのさと信号場 | 同人志封面 | 封面图片
 
@@ -10,16 +10,14 @@
 使用了本文件作封面图片的作品：
   
 
-- [Past Nightmare, Present Dream](./Past_Nightmare,_Present_Dream.md)  
-该封面包含的角色：- [露娜萨·普莉兹姆利巴](./露娜萨·普莉兹姆利巴.md)- [梅露兰·普莉兹姆利巴](./梅露兰·普莉兹姆利巴.md)- [莉莉卡·普莉兹姆利巴](./莉莉卡·普莉兹姆利巴.md)- [蕾拉·普莉兹姆利巴](./蕾拉·普莉兹姆利巴.md)
+- [Past Nightmare, Present Dream](./Past_Nightmare,_Present_Dream.md)该封面包含的角色：
+- [露娜萨·普莉兹姆利巴](./露娜萨·普莉兹姆利巴.md)
+- [梅露兰·普莉兹姆利巴](./梅露兰·普莉兹姆利巴.md)
+- [莉莉卡·普莉兹姆利巴](./莉莉卡·普莉兹姆利巴.md)
+- [蕾拉·普莉兹姆利巴](./蕾拉·普莉兹姆利巴.md)
 
   
-源地址：[direct image link (original size)](https://pbs.twimg.com/media/Ewpa_EtUcAUErgd?format=jpg&amp;name=orig), [source tweet](https://twitter.com/Vtcsku3HJBR2eZw/status/1372009296842530818)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://pbs.twimg.com/media/Ewpa_EtUcAUErgd?format=jpg&name=orig), [source tweet](https://twitter.com/Vtcsku3HJBR2eZw/status/1372009296842530818)  
 
 ---
 

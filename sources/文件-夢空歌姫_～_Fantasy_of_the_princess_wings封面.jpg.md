@@ -1,6 +1,6 @@
 # 文件:夢空歌姫_～_Fantasy_of_the_princess_wings封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\11\ns6%3A%E5%A4%A2%E7%A9%BA%E6%AD%8C%E5%A7%AB_%EF%BD%9E_Fantasy_of_the_princess_wings%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\11\ns6%3A%E5%A4%A2%E7%A9%BA%E6%AD%8C%E5%A7%AB_%EF%BD%9E_Fantasy_of_the_princess_wings%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Secret_Messenger | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ Secret_Messenger | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [夢空歌姫 ～ Fantasy of the princess wings](./夢空歌姫_～_Fantasy_of_the_princess_wings.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [八云紫](./八云紫.md)
-
-
-
+- [夢空歌姫 ～ Fantasy of the princess wings](./夢空歌姫_～_Fantasy_of_the_princess_wings.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [八云紫](./八云紫.md)
 
 
 ---

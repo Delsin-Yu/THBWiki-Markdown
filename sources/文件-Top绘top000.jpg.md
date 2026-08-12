@@ -1,12 +1,8 @@
 # 文件:Top绘top000.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\33\ns6%3ATop%E7%BB%98top000%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\33\ns6%3ATop%E7%BB%98top000%2Ejpg.html -->
 
 Top绘 | ZUN绘
-
-
-
-
 
 
 ---

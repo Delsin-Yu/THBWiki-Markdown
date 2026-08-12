@@ -1,12 +1,11 @@
 # Nami_Haven/“博丽灵梦”挂件
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\8\8b\ns0%3ANami_Haven%2F%E2%80%9C%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%E2%80%9D%E6%8C%82%E4%BB%B6.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\8\8b\ns0%3ANami_Haven%2F%E2%80%9C%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%E2%80%9D%E6%8C%82%E4%BB%B6.html -->
 
 2018年12月15日 由 Nami Haven 于 COMICUP23 发布的挂件周边，分级为 一般向
 
 本页是关于东方Project  
- **相关实体周边 (未找到链接)** 的词条
-
+**相关实体周边 (未找到链接)**的词条
 ## 目录
 
 - [1 周边信息](#周边信息)
@@ -15,32 +14,24 @@
 - [4 评论](#评论)
 
 
-
-
-
 ## 周边信息
 
-<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> “博丽灵梦”挂件 </td></tr><tr><td class="label">制作方</td><td><a href="./Nami_Haven.md" title="Nami Haven">Nami Haven</a></td></tr><tr><td class="label">首发日期</td><td>2018-12-15&#160;（<a href="/展会作品列表?e=COMICUP%2323">COMICUP23</a>）</td></tr><tr><td class="label">类型</td><td>挂件</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>5.5cm</td></tr><tr><td class="label">材质</td><td>亚克力</td></tr><tr><td class="label">角色</td><td><a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></td></tr><tr><td class="label">售价</td><td>30人民币</td></tr></tbody></table>
+<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> “博丽灵梦”挂件 </td></tr><tr><td class="label">制作方</td><td><a href="./Nami_Haven.md" title="Nami Haven">Nami Haven</a></td></tr><tr><td class="label">首发日期</td><td>2018-12-15 （<a href="./展会作品列表.md#23">COMICUP23</a>）</td></tr><tr><td class="label">类型</td><td>挂件</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>5.5cm</td></tr><tr><td class="label">材质</td><td>亚克力</td></tr><tr><td class="label">角色</td><td><a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></td></tr><tr><td class="label">售价</td><td>30人民币</td></tr></tbody></table>
 
 Nami Haven/“博丽灵梦”挂件（周边，Nami Haven，2018） - 2018年12月15日 由 Nami Haven 于 COMICUP23 发布的挂件周边，分级为 一般向
-
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://item.taobao.com/item.htm?id=595732170630">淘宝</a></td></tr></tbody></table>
 
 
-
 ## 参考图片
-- [](./文件-Nami_Haven／“博丽灵梦”挂件预览图1.jpg.md)
+
+- <img alt="Nami Haven／“博丽灵梦”挂件预览图1.jpg" src="https://upload.thwiki.cc/thumb/d/d2/Nami_Haven%EF%BC%8F%E2%80%9C%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%E2%80%9D%E6%8C%82%E4%BB%B6%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg/375px-Nami_Haven%EF%BC%8F%E2%80%9C%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%E2%80%9D%E6%8C%82%E4%BB%B6%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg" decoding="async" loading="lazy" width="250" height="250" srcset="https://upload.thwiki.cc/d/d2/Nami_Haven%EF%BC%8F%E2%80%9C%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%E2%80%9D%E6%8C%82%E4%BB%B6%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg 1.5x" data-file-width="500" data-file-height="500"> 
 
 
 ## Staff
 画师
 : 谜肘 (未找到链接)
 
-
 ## 评论
-
-
-
 
 ---
 

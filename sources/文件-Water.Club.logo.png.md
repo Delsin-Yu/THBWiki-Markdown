@@ -1,16 +1,11 @@
 # 文件:Water.Club.logo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5b\ns6%3AWater%2EClub%2Elogo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5b\ns6%3AWater%2EClub%2Elogo%2Epng.html -->
 
 Water.Club. | 社团LOGO
 
   
-源地址：[[1]](http://waterclub.web.fc2.com/Water.Club./Top_files/shapeimage_1.png)
-  
-
-
-
-
+源地址：[\[1\]](http://waterclub.web.fc2.com/Water.Club./Top_files/shapeimage_1.png)  
 
 ---
 

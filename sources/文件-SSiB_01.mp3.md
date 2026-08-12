@@ -1,12 +1,8 @@
 # 文件:SSiB_01.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\92\ns6%3ASSiB_01%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\92\ns6%3ASSiB_01%2Emp3.html -->
 
 东方儚月抄_～_Silent_Sinner_in_Blue. | 原曲MP3 | 妖怪宇宙旅行
-
-
-
-
 
 
 ---

@@ -1,16 +1,11 @@
 # 文件:紅白饅頭（同人社团）banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\15\ns6%3A%E7%B4%85%E7%99%BD%E9%A5%85%E9%A0%AD%EF%BC%88%E5%90%8C%E4%BA%BA%E7%A4%BE%E5%9B%A2%EF%BC%89banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\15\ns6%3A%E7%B4%85%E7%99%BD%E9%A5%85%E9%A0%AD%EF%BC%88%E5%90%8C%E4%BA%BA%E7%A4%BE%E5%9B%A2%EF%BC%89banner%2Ejpg.html -->
 
 社团LOGO | 紅白饅頭（同人社团）
 
   
-源地址：[[1]](http://kouhakumanjyu.web.fc2.com/img/bababa.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://kouhakumanjyu.web.fc2.com/img/bababa.jpg)  
 
 ---
 

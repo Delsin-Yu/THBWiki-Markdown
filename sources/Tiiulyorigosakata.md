@@ -1,13 +1,11 @@
 # Tiiulyorigosakata
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\5\59\ns0%3ATiiulyorigosakata.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\5\59\ns0%3ATiiulyorigosakata.html -->
 
 2012年10月7日 由 Sketch The Fantasy 于 东方红楼梦8 发布的全长同人专辑，曲目主要风格是 金属，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人专辑 (未找到链接)** 的词条
-<center>
-
+**[二次创作同人专辑](./二次创作.md#同人音乐)**的词条<center>
 <table>
 <tbody><tr>
 <td class="mbox-image"><div style="width: 52px;">
@@ -16,43 +14,38 @@
 </tr>
 </tbody></table>
 
-
 </center>
-
 ## 专辑信息
 
-<table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Tiiulyorigosakata封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/c/c4/Tiiulyorigosakata%E5%B0%81%E9%9D%A2.jpg/252px-Tiiulyorigosakata%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="252" height="252" srcset="https://upload.thwiki.cc/thumb/c/c4/Tiiulyorigosakata%E5%B0%81%E9%9D%A2.jpg/378px-Tiiulyorigosakata%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/c/c4/Tiiulyorigosakata%E5%B0%81%E9%9D%A2.jpg/504px-Tiiulyorigosakata%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1200" data-file-height="1200"></a><div class="cover-char">角色：<a href="/index.php?title=%E5%8E%9F%E5%88%9B%E8%A7%92%E8%89%B2&amp;action=edit&amp;redlink=1" class="new" title="原创角色（页面不存在）">原创角色</a></div></td>
-</tr><tr><td class="label">名称</td><td colspan="2"> Tiiulyorigosakata </td></tr><tr><td class="label">制作方</td><td><a href="./Sketch_The_Fantasy.md" title="Sketch The Fantasy">Sketch The Fantasy</a></td><td class="cover-artwork" rowspan="9" style="min-width:252px;"><a href="./文件-Tiiulyorigosakata封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/c/c4/Tiiulyorigosakata%E5%B0%81%E9%9D%A2.jpg/252px-Tiiulyorigosakata%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="252" height="252" srcset="https://upload.thwiki.cc/thumb/c/c4/Tiiulyorigosakata%E5%B0%81%E9%9D%A2.jpg/378px-Tiiulyorigosakata%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/c/c4/Tiiulyorigosakata%E5%B0%81%E9%9D%A2.jpg/504px-Tiiulyorigosakata%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1200" data-file-height="1200"></a><div class="cover-char">角色：<a href="/index.php?title=%E5%8E%9F%E5%88%9B%E8%A7%92%E8%89%B2&amp;action=edit&amp;redlink=1" class="new" title="原创角色（页面不存在）">原创角色</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2012-10-07&#160;（<a href="/展会作品列表?e=%E4%B8%9C%E6%96%B9%E7%BA%A2%E6%A5%BC%E6%A2%A6%238">東方紅楼夢8</a>）</td></tr><tr><td class="label">类型</td><td>全长</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>7</td></tr><tr><td class="label">总时长</td><td>34:02</td></tr><tr><td class="label">风格类型</td><td>金属</td></tr><tr><td class="label">售价</td><td>通贩售价：免费（Bandcamp下载，可能因特殊情况而改价）</td></tr>
+<table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Tiiulyorigosakata封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/c/c4/Tiiulyorigosakata%E5%B0%81%E9%9D%A2.jpg/252px-Tiiulyorigosakata%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="252" height="252" srcset="https://upload.thwiki.cc/thumb/c/c4/Tiiulyorigosakata%E5%B0%81%E9%9D%A2.jpg/378px-Tiiulyorigosakata%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/c/c4/Tiiulyorigosakata%E5%B0%81%E9%9D%A2.jpg/504px-Tiiulyorigosakata%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1200" data-file-height="1200"></a><div class="cover-char">角色：<a class="new" title="原创角色（页面不存在）">原创角色</a></div></td>
+</tr><tr><td class="label">名称</td><td colspan="2"> Tiiulyorigosakata </td></tr><tr><td class="label">制作方</td><td><a href="./Sketch_The_Fantasy.md" title="Sketch The Fantasy">Sketch The Fantasy</a></td><td class="cover-artwork" rowspan="9" style="min-width:252px;"><a href="./文件-Tiiulyorigosakata封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/c/c4/Tiiulyorigosakata%E5%B0%81%E9%9D%A2.jpg/252px-Tiiulyorigosakata%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="252" height="252" srcset="https://upload.thwiki.cc/thumb/c/c4/Tiiulyorigosakata%E5%B0%81%E9%9D%A2.jpg/378px-Tiiulyorigosakata%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/c/c4/Tiiulyorigosakata%E5%B0%81%E9%9D%A2.jpg/504px-Tiiulyorigosakata%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1200" data-file-height="1200"></a><div class="cover-char">角色：<a class="new" title="原创角色（页面不存在）">原创角色</a></div></td>
+</tr><tr><td class="label">首发日期</td><td>2012-10-07 （<a href="./展会作品列表.md#8">東方紅楼夢8</a>）</td></tr><tr><td class="label">类型</td><td>全长</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>7</td></tr><tr><td class="label">总时长</td><td>34:02</td></tr><tr><td class="label">风格类型</td><td>金属</td></tr><tr><td class="label">售价</td><td>通贩售价：免费（Bandcamp下载，可能因特殊情况而改价）</td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://sketchthefantasy.com/discography/tiiulyorigosakata.html">http://sketchthefantasy.com/discography/tiiulyorigosakata.html</a></td></tr><tr><td class="label">备注</td><td colspan="2">磁带</td></tr></tbody></table>
 
 Tiiulyorigosakata（同人专辑，Sketch The Fantasy，2012） - 2012年10月7日 由 Sketch The Fantasy 于 东方红楼梦8 发布的全长同人专辑，曲目主要风格是 金属，分级为 一般向
-
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://sketchthefantasy.bandcamp.com/album/tiiulyorigosakata">bandcamp（不含Tr.3/4）</a></td></tr></tbody></table>
-
 
 
 ## Staff
   
- **Compose**   
+**Compose**  
 
 <table><tbody><tr><td><a href="./Sketch_The_Fantasy.md" title="Sketch The Fantasy">Sketch The Fantasy</a></td><td></td><td>Tr.5-7</td></tr></tbody></table>
 
   
- **Arrangement**   
+**Arrangement**  
 
 <table><tbody><tr><td><a href="./Sketch_The_Fantasy.md" title="Sketch The Fantasy">Sketch The Fantasy</a></td><td></td><td>Tr.1/2</td></tr></tbody></table>
 
   
- **Vocal**   
+**Vocal**  
 
 <table><tbody><tr><td><a href="./Sketch_The_Fantasy.md" title="Sketch The Fantasy">Sketch The Fantasy</a></td><td></td><td>Tr.1/2/5-7</td></tr></tbody></table>
 
   
- **Lyrics**   
+**Lyrics**  
 
 <table><tbody><tr><td><a href="./Sketch_The_Fantasy.md" title="Sketch The Fantasy">Sketch The Fantasy</a></td><td></td><td>Tr.1/2/5-7</td></tr></tbody></table>
-
 
 
 ## 试听
@@ -60,21 +53,18 @@ Tiiulyorigosakata（同人专辑，Sketch The Fantasy，2012） - 2012年10月7�
 暂不支援此类型
   
 
-
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoRD"><b>01</b></td><td id="Tiiulyorigosakata" colspan="2" class="title"><a href="./歌词-Tiiulyorigosakata.md" title="歌词:Tiiulyorigosakata">Tiiulyorigosakata</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Sketch The Fantasy&amp;vocal=Sketch The Fantasy&amp;lyric=Sketch The Fantasy&amp;ogmusic=平安のエイリアン&amp;fromwiki=Tiiulyorigosakata"><span title="搜索相似同人曲"></span></a></span></td><td class="time">08:30</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Sketch_The_Fantasy.md" title="Sketch The Fantasy">Sketch The Fantasy</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Sketch The Fantasy&amp;fromwiki=Tiiulyorigosakata"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="./Sketch_The_Fantasy.md" title="Sketch The Fantasy">Sketch The Fantasy</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=Sketch The Fantasy&amp;fromwiki=Tiiulyorigosakata"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="./Sketch_The_Fantasy.md" title="Sketch The Fantasy">Sketch The Fantasy</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?lyric=Sketch The Fantasy&amp;fromwiki=Tiiulyorigosakata"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=平安のエイリアン&amp;fromwiki=Tiiulyorigosakata"><span></span></a></span><div class="ogmusic"><a href="./平安のエイリアン.md" class="mw-redirect" title="平安のエイリアン">平安のエイリアン</a></div><div class="source"><a href="./东方星莲船_～_Undefined_Fantastic_Object..md" class="mw-redirect" title="东方星莲船 ～ Undefined Fantastic Object.">东方星莲船　～ Undefined Fantastic Object.</a></div></td></tr><tr><td class="left"></td><td class="label">曲风</td><td class="text" colspan="2">金属，其他电子</td></tr>
-<tr><td id="2" class="infoRD"><b>02</b></td><td id="いいわけまいびー" colspan="2" class="title"><a href="./歌词-いいわけまいびー.md" title="歌词:いいわけまいびー">いいわけまいびー</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Sketch The Fantasy&amp;vocal=Sketch The Fantasy&amp;lyric=Sketch The Fantasy&amp;ogmusic=二色蓮花蝶　～ Ancients&amp;fromwiki=Tiiulyorigosakata"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:04</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Sketch_The_Fantasy.md" title="Sketch The Fantasy">Sketch The Fantasy</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Sketch The Fantasy&amp;fromwiki=Tiiulyorigosakata"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="./Sketch_The_Fantasy.md" title="Sketch The Fantasy">Sketch The Fantasy</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=Sketch The Fantasy&amp;fromwiki=Tiiulyorigosakata"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="./Sketch_The_Fantasy.md" title="Sketch The Fantasy">Sketch The Fantasy</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?lyric=Sketch The Fantasy&amp;fromwiki=Tiiulyorigosakata"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=二色蓮花蝶　～ Ancients&amp;fromwiki=Tiiulyorigosakata"><span></span></a></span><div class="ogmusic"><a href="./二色蓮花蝶_～_Ancients.md" class="mw-redirect" title="二色蓮花蝶 ～ Ancients">二色蓮花蝶　～ Ancients</a></div><div class="source"><a href="./秋霜玉.md" title="秋霜玉">秋霜玉</a></div></td></tr><tr><td class="left"></td><td class="label">曲风</td><td class="text" colspan="2">金属</td></tr>
-<tr><td id="3" class="info"><b>03</b></td><td id="Track_3" colspan="2" class="title">Track 3<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?&amp;fromwiki=Tiiulyorigosakata"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr>
-<tr><td id="4" class="info"><b>04</b></td><td id="Track_4" colspan="2" class="title">Track 4<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?&amp;fromwiki=Tiiulyorigosakata"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr>
-<tr><td id="5" class="infoRL"><b>05</b></td><td id="ブレイキングザいやん" colspan="2" class="title">ブレイキングザいやん<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Sketch The Fantasy&amp;vocal=Sketch The Fantasy&amp;lyric=Sketch The Fantasy&amp;fromwiki=Tiiulyorigosakata"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:10</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./Sketch_The_Fantasy.md" title="Sketch The Fantasy">Sketch The Fantasy</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Sketch The Fantasy&amp;fromwiki=Tiiulyorigosakata"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="./Sketch_The_Fantasy.md" title="Sketch The Fantasy">Sketch The Fantasy</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=Sketch The Fantasy&amp;fromwiki=Tiiulyorigosakata"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="./Sketch_The_Fantasy.md" title="Sketch The Fantasy">Sketch The Fantasy</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?lyric=Sketch The Fantasy&amp;fromwiki=Tiiulyorigosakata"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">曲风</td><td class="text" colspan="2">Rock</td></tr>
-<tr><td id="6" class="infoRL"><b>06</b></td><td id="肉食系ミッドナイト" colspan="2" class="title">肉食系ミッドナイト<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Sketch The Fantasy&amp;vocal=Sketch The Fantasy&amp;lyric=Sketch The Fantasy&amp;fromwiki=Tiiulyorigosakata"><span title="搜索相似同人曲"></span></a></span></td><td class="time">05:11</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./Sketch_The_Fantasy.md" title="Sketch The Fantasy">Sketch The Fantasy</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Sketch The Fantasy&amp;fromwiki=Tiiulyorigosakata"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="./Sketch_The_Fantasy.md" title="Sketch The Fantasy">Sketch The Fantasy</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=Sketch The Fantasy&amp;fromwiki=Tiiulyorigosakata"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="./Sketch_The_Fantasy.md" title="Sketch The Fantasy">Sketch The Fantasy</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?lyric=Sketch The Fantasy&amp;fromwiki=Tiiulyorigosakata"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">曲风</td><td class="text" colspan="2">Rock</td></tr>
-<tr><td id="7" class="infoRL"><b>07</b></td><td id="池沼学校" colspan="2" class="title">池沼学校<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Sketch The Fantasy&amp;vocal=Sketch The Fantasy&amp;lyric=Sketch The Fantasy&amp;fromwiki=Tiiulyorigosakata"><span title="搜索相似同人曲"></span></a></span></td><td class="time">14:07</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./Sketch_The_Fantasy.md" title="Sketch The Fantasy">Sketch The Fantasy</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Sketch The Fantasy&amp;fromwiki=Tiiulyorigosakata"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="./Sketch_The_Fantasy.md" title="Sketch The Fantasy">Sketch The Fantasy</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=Sketch The Fantasy&amp;fromwiki=Tiiulyorigosakata"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="./Sketch_The_Fantasy.md" title="Sketch The Fantasy">Sketch The Fantasy</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?lyric=Sketch The Fantasy&amp;fromwiki=Tiiulyorigosakata"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">曲风</td><td class="text" colspan="2">Rock</td></tr></tbody></table>
-
+<table><tbody><tr><td id="1" class="infoRD"><b>01</b></td><td id="Tiiulyorigosakata" colspan="2" class="title"><a href="./歌词-Tiiulyorigosakata.md" title="歌词:Tiiulyorigosakata">Tiiulyorigosakata</a></td><td class="time">08:30</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Sketch_The_Fantasy.md" title="Sketch The Fantasy">Sketch The Fantasy</a></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="./Sketch_The_Fantasy.md" title="Sketch The Fantasy">Sketch The Fantasy</a></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="./Sketch_The_Fantasy.md" title="Sketch The Fantasy">Sketch The Fantasy</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./平安时代的外星人.md" class="mw-redirect" title="平安のエイリアン">平安のエイリアン</a></div><div class="source"><a href="./东方星莲船.md" class="mw-redirect" title="东方星莲船 ～ Undefined Fantastic Object.">东方星莲船　～ Undefined Fantastic Object.</a></div></td></tr><tr><td class="left"></td><td class="label">曲风</td><td class="text" colspan="2">金属，其他电子</td></tr>
+<tr><td id="2" class="infoRD"><b>02</b></td><td id="いいわけまいびー" colspan="2" class="title"><a href="./歌词-いいわけまいびー.md" title="歌词:いいわけまいびー">いいわけまいびー</a></td><td class="time">03:04</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Sketch_The_Fantasy.md" title="Sketch The Fantasy">Sketch The Fantasy</a></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="./Sketch_The_Fantasy.md" title="Sketch The Fantasy">Sketch The Fantasy</a></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="./Sketch_The_Fantasy.md" title="Sketch The Fantasy">Sketch The Fantasy</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./二色莲花蝶_～_Ancients.md" class="mw-redirect" title="二色蓮花蝶 ～ Ancients">二色蓮花蝶　～ Ancients</a></div><div class="source"><a href="./秋霜玉.md" title="秋霜玉">秋霜玉</a></div></td></tr><tr><td class="left"></td><td class="label">曲风</td><td class="text" colspan="2">金属</td></tr>
+<tr><td id="3" class="info"><b>03</b></td><td id="Track_3" colspan="2" class="title">Track 3</td><td class="time">-</td></tr>
+<tr><td id="4" class="info"><b>04</b></td><td id="Track_4" colspan="2" class="title">Track 4</td><td class="time">-</td></tr>
+<tr><td id="5" class="infoRL"><b>05</b></td><td id="ブレイキングザいやん" colspan="2" class="title">ブレイキングザいやん</td><td class="time">03:10</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./Sketch_The_Fantasy.md" title="Sketch The Fantasy">Sketch The Fantasy</a></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="./Sketch_The_Fantasy.md" title="Sketch The Fantasy">Sketch The Fantasy</a></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="./Sketch_The_Fantasy.md" title="Sketch The Fantasy">Sketch The Fantasy</a></td></tr><tr><td class="left"></td><td class="label">曲风</td><td class="text" colspan="2">Rock</td></tr>
+<tr><td id="6" class="infoRL"><b>06</b></td><td id="肉食系ミッドナイト" colspan="2" class="title">肉食系ミッドナイト</td><td class="time">05:11</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./Sketch_The_Fantasy.md" title="Sketch The Fantasy">Sketch The Fantasy</a></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="./Sketch_The_Fantasy.md" title="Sketch The Fantasy">Sketch The Fantasy</a></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="./Sketch_The_Fantasy.md" title="Sketch The Fantasy">Sketch The Fantasy</a></td></tr><tr><td class="left"></td><td class="label">曲风</td><td class="text" colspan="2">Rock</td></tr>
+<tr><td id="7" class="infoRL"><b>07</b></td><td id="池沼学校" colspan="2" class="title">池沼学校</td><td class="time">14:07</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./Sketch_The_Fantasy.md" title="Sketch The Fantasy">Sketch The Fantasy</a></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="./Sketch_The_Fantasy.md" title="Sketch The Fantasy">Sketch The Fantasy</a></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="./Sketch_The_Fantasy.md" title="Sketch The Fantasy">Sketch The Fantasy</a></td></tr><tr><td class="left"></td><td class="label">曲风</td><td class="text" colspan="2">Rock</td></tr></tbody></table>
 
 
 ## 评论
-
   
 Bandcamp专辑信息：  
 
@@ -82,12 +72,6 @@ released at Toho Kouroumu 8 by a cassette tape
 
 Trac3,4 is not uploaded
   
-
-
-
-
-
-
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:Frantic_Hardcore_Sounds封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\86\ns6%3AFrantic_Hardcore_Sounds%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\86\ns6%3AFrantic_Hardcore_Sounds%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ChaoticNoisySound | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ ChaoticNoisySound | 专辑封面 | 封面图片
   
 
 - [Frantic Hardcore Sounds](./Frantic_Hardcore_Sounds.md)
-
-
-
 
 
 ---

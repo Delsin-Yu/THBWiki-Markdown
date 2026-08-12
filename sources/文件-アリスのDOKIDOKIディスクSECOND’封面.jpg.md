@@ -1,6 +1,6 @@
 # 文件:アリスのDOKIDOKIディスクSECOND’封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\03\ns6%3A%E3%82%A2%E3%83%AA%E3%82%B9%E3%81%AEDOKIDOKI%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AFSECOND%E2%80%99%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\03\ns6%3A%E3%82%A2%E3%83%AA%E3%82%B9%E3%81%AEDOKIDOKI%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AFSECOND%E2%80%99%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 アールグレイ | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [アリスのDOKIDOKIディスクSECOND’](./アリスのDOKIDOKIディスクSECOND’.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [アリスのDOKIDOKIディスクSECOND’](./アリスのDOKIDOKIディスクSECOND’.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
 
   
-源地址：[[1]](https://cdn.melonbooks.co.jp/user_data/packages/resize_image.php?image=213001020192.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://cdn.melonbooks.co.jp/user_data/packages/resize_image.php?image=213001020192.jpg)  
 
 ---
 

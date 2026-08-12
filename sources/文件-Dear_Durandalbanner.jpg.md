@@ -1,18 +1,13 @@
 # 文件:Dear_Durandalbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\55\ns6%3ADear_Durandalbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\55\ns6%3ADear_Durandalbanner%2Ejpg.html -->
 
 Dear_Durandal | 社团LOGO
 
 
 ## 摘要
   
-源地址：[direct image link](http://durandal.soregashi.com/img/banner3.jpg), [source page](http://durandal.soregashi.com/)
-  
-
-
-
-
+源地址：[direct image link](http://durandal.soregashi.com/img/banner3.jpg), [source page](http://durandal.soregashi.com/)  
 
 ---
 

@@ -1,12 +1,8 @@
 # 文件:蛛网之财商团banner2.JPG
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c9\ns6%3A%E8%9B%9B%E7%BD%91%E4%B9%8B%E8%B4%A2%E5%95%86%E5%9B%A2banner2%2EJPG.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c9\ns6%3A%E8%9B%9B%E7%BD%91%E4%B9%8B%E8%B4%A2%E5%95%86%E5%9B%A2banner2%2EJPG.html -->
 
 社团LOGO | 蛛网之财商团
-
-
-
-
 
 
 ---

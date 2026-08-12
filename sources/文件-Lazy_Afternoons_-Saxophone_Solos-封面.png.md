@@ -1,6 +1,6 @@
 # 文件:Lazy_Afternoons_-Saxophone_Solos-封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\99\ns6%3ALazy_Afternoons_-Saxophone_Solos-%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\99\ns6%3ALazy_Afternoons_-Saxophone_Solos-%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Grimoire_Technology | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ Grimoire_Technology | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Lazy Afternoons -Saxophone Solos-](./Lazy_Afternoons_-Saxophone_Solos-.md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)- [犬走椛](./犬走椛.md)
-
-
-
+- [Lazy Afternoons -Saxophone Solos-](./Lazy_Afternoons_-Saxophone_Solos-.md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
+- [犬走椛](./犬走椛.md)
 
 
 ---

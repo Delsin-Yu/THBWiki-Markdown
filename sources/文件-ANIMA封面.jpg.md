@@ -1,6 +1,6 @@
 # 文件:ANIMA封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a4\ns6%3AANIMA%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a4\ns6%3AANIMA%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Asomosphere | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Asomosphere | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [ANIMA](./ANIMA.md)  
-该封面包含的角色：- [埴安神袿姬](./埴安神袿姬.md)
-
-
-
+- [ANIMA](./ANIMA.md)该封面包含的角色：
+- [埴安神袿姬](./埴安神袿姬.md)
 
 
 ---

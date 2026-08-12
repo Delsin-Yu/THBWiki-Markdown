@@ -1,6 +1,6 @@
 # 文件:sealed_world_suite封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\25\ns6%3Asealed_world_suite%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\25\ns6%3Asealed_world_suite%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 11th_hour | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@
   
 
 - [sealed world suite](./sealed_world_suite.md)
-
-
-
 
 
 ---

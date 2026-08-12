@@ -1,6 +1,6 @@
 # 文件:夢幻雨月郷_～_Alice_Magic封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\07\ns6%3A%E5%A4%A2%E5%B9%BB%E9%9B%A8%E6%9C%88%E9%83%B7_%EF%BD%9E_Alice_Magic%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\07\ns6%3A%E5%A4%A2%E5%B9%BB%E9%9B%A8%E6%9C%88%E9%83%B7_%EF%BD%9E_Alice_Magic%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 夢想夏月郷 | 封面图片
 
@@ -11,9 +11,6 @@
   
 
 - [夢幻雨月郷 ～ Alice Magic](./夢幻雨月郷_～_Alice_Magic.md)
-
-
-
 
 
 ---

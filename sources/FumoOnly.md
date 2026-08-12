@@ -1,43 +1,32 @@
 # FumoOnly
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\c\c5\ns0%3AFumoOnly.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\c\c5\ns0%3AFumoOnly.html -->
 
 FumoOnly 在 中国苏州、长沙 举办的 FumoOnly 东方同人展会活动，目前共举办了2届
 
-本页是关于 **[同人展会](./同人展会.md#展会类活动)**   
-及 **[相关活动](./相关活动.md)** 的词条
-
+本页是关于**[同人展会](./活动.md#展会类活动)**  
+及**[相关活动](./活动.md)**的词条
 ## 目录
 
 - [1 概述](#概述)
 - [2 历届信息](#历届信息)
 - [3 历届宣传图](#历届宣传图)
-
   - [3.1 第一届至第二届](#第一届至第二届)
 
 
-
 - [4 历届摊位图](#历届摊位图)
-
   - [4.1 第一届至第二届](#第一届至第二届_2)
-
 
 
 - [5 注释](#注释)
 
 
-
-
-
 ## 概述
-[](./文件-FumoOnlyLOGO.png.md)  [](./文件-FumoOnlyLOGO.png.md)FumoOnly LOGO
+<img alt="" src="https://upload.thwiki.cc/thumb/2/2b/FumoOnlyLOGO.png/300px-FumoOnlyLOGO.png" decoding="async" loading="lazy" width="300" height="176" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/2/2b/FumoOnlyLOGO.png/450px-FumoOnlyLOGO.png 1.5x, https://upload.thwiki.cc/thumb/2/2b/FumoOnlyLOGO.png/600px-FumoOnlyLOGO.png 2x" data-file-width="1581" data-file-height="929">
+ [放大](./文件-FumoOnlyLOGO.png.md)FumoOnly LOGO  
+<big>**FumoOnly**</big>，官方简称为**FMO**。  
   
-<big> **FumoOnly** </big>，官方简称为 **FMO** 。  
-  
-  
-  
-  
- **Fumo** Only东方 **同人[展会类活动](./展会类活动.md#展会类活动)** 。  
+**Fumo**Only东方**同人[展会类活动](./活动.md#展会类活动)**。  
   
 在苏州、长沙举办。  
 付费入场（价格不固定）。  
@@ -45,15 +34,12 @@ FumoOnly 在 中国苏州、长沙 举办的 FumoOnly 东方同人展会活动�
   
 游客群：210857240  
   
-  
-  
-  
 活动官方网站： [https://space.bilibili.com/2078763201](https://space.bilibili.com/2078763201)   
-主办方： **[FumoOnly组委会](./FumoOnly组委会.md)**   
+主办方：**[FumoOnly组委会](./FumoOnly组委会.md)**  
   
 FumoOnly（活动，展会活动） - FumoOnly 在 中国苏州、长沙 举办的 FumoOnly 东方同人展会活动，目前共举办了2届
-
 ## 历届信息
+
 - 点击届数可进入对应分类页面。
 - 请注意，摊位数统计可能不准确。
 - 举办日期以当地日期为准。
@@ -61,10 +47,9 @@ FumoOnly（活动，展会活动） - FumoOnly 在 中国苏州、长沙 举办�
 
 <table>
 <tbody><tr><th> </th><th>日期</th><th>地点</th><th>摊位数</th></tr>
-<tr><td id="1"><b><a href="/展会作品列表?e=FumoOnly%231">FumoOnly-东方湖歌宴</a></b></td><td id="ev-1">2022年07月17日</td><td>江苏省苏州市吴中区迎春南路97号白金汉爵大酒店306会议厅<br><small><span style="color:grey;"></span></small></td><td>32<br><a href="./FumoOnly-第1届摊位.md" title="FumoOnly/第1届摊位">摊位列表</a></td></tr>
-<tr><td id="2"><b><a href="/展会作品列表?e=FumoOnly%232">FumoOnlyExtra-长潭星夜觉</a></b></td><td id="ev-2">2024年02月14日</td><td>湖南省 长沙市开福区 皇冠假日 7楼皇冠厅<br><small><span style="color:grey;"></span></small></td><td>34<br><a href="./FumoOnly-第2届摊位.md" title="FumoOnly/第2届摊位">摊位列表</a></td></tr>
+<tr><td id="1"><b><a href="./展会作品列表.md#1">FumoOnly-东方湖歌宴</a></b></td><td id="ev-1">2022年07月17日</td><td>江苏省苏州市吴中区迎春南路97号白金汉爵大酒店306会议厅<br><small><span style="color:grey;"></span></small></td><td>32<br><a href="./FumoOnly-第1届摊位.md" title="FumoOnly/第1届摊位">摊位列表</a></td></tr>
+<tr><td id="2"><b><a href="./展会作品列表.md#2">FumoOnlyExtra-长潭星夜觉</a></b></td><td id="ev-2">2024年02月14日</td><td>湖南省 长沙市开福区 皇冠假日 7楼皇冠厅<br><small><span style="color:grey;"></span></small></td><td>34<br><a href="./FumoOnly-第2届摊位.md" title="FumoOnly/第2届摊位">摊位列表</a></td></tr>
 </tbody></table>
-
 
 
 ## 历届宣传图
@@ -72,28 +57,18 @@ FumoOnly（活动，展会活动） - FumoOnly 在 中国苏州、长沙 举办�
 网站首页使用的作为顶图或宣传图片的图片。
   
 
-
 ### 第一届至第二届
-- [](./文件-FumoOnly1插画.png.md)FumoOnly1-东方湖歌宴- [](./文件-FumoOnlyEX插画.jpg.md)FumoOnlyEX-长潭星夜觉
+
+- <img alt="FumoOnly1-东方湖歌宴" src="https://upload.thwiki.cc/thumb/5/54/FumoOnly1%E6%8F%92%E7%94%BB.png/265px-FumoOnly1%E6%8F%92%E7%94%BB.png" decoding="async" loading="lazy" width="177" height="250" srcset="https://upload.thwiki.cc/thumb/5/54/FumoOnly1%E6%8F%92%E7%94%BB.png/399px-FumoOnly1%E6%8F%92%E7%94%BB.png 1.5x, https://upload.thwiki.cc/thumb/5/54/FumoOnly1%E6%8F%92%E7%94%BB.png/531px-FumoOnly1%E6%8F%92%E7%94%BB.png 2x" data-file-width="2508" data-file-height="3541"> FumoOnly1-东方湖歌宴
+- <img alt="FumoOnlyEX-长潭星夜觉" src="https://upload.thwiki.cc/thumb/2/2e/FumoOnlyEX%E6%8F%92%E7%94%BB.jpg/281px-FumoOnlyEX%E6%8F%92%E7%94%BB.jpg" decoding="async" loading="lazy" width="188" height="250" srcset="https://upload.thwiki.cc/thumb/2/2e/FumoOnlyEX%E6%8F%92%E7%94%BB.jpg/422px-FumoOnlyEX%E6%8F%92%E7%94%BB.jpg 1.5x, https://upload.thwiki.cc/thumb/2/2e/FumoOnlyEX%E6%8F%92%E7%94%BB.jpg/562px-FumoOnlyEX%E6%8F%92%E7%94%BB.jpg 2x" data-file-width="600" data-file-height="800"> FumoOnlyEX-长潭星夜觉
 
 
 ## 历届摊位图
 
 ### 第一届至第二届
-- [](./文件-FumoOnly1摊位图.jpg.md)FumoOnly1-东方湖歌宴- [](./文件-FumoOnlyEX摊位图.png.md)FumoOnlyEX-长潭星夜觉
 
-
-  
-  
-
-  
-
-  
-  
-
-
-
-
+- <img alt="FumoOnly1-东方湖歌宴" src="https://upload.thwiki.cc/thumb/8/88/FumoOnly1%E6%91%8A%E4%BD%8D%E5%9B%BE.jpg/612px-FumoOnly1%E6%91%8A%E4%BD%8D%E5%9B%BE.jpg" decoding="async" loading="lazy" width="408" height="250" srcset="https://upload.thwiki.cc/8/88/FumoOnly1%E6%91%8A%E4%BD%8D%E5%9B%BE.jpg 1.5x" data-file-width="828" data-file-height="508"> FumoOnly1-东方湖歌宴
+- <img alt="FumoOnlyEX-长潭星夜觉" src="https://upload.thwiki.cc/thumb/6/6e/FumoOnlyEX%E6%91%8A%E4%BD%8D%E5%9B%BE.png/197px-FumoOnlyEX%E6%91%8A%E4%BD%8D%E5%9B%BE.png" decoding="async" loading="lazy" width="132" height="250" srcset="https://upload.thwiki.cc/thumb/6/6e/FumoOnlyEX%E6%91%8A%E4%BD%8D%E5%9B%BE.png/296px-FumoOnlyEX%E6%91%8A%E4%BD%8D%E5%9B%BE.png 1.5x, https://upload.thwiki.cc/thumb/6/6e/FumoOnlyEX%E6%91%8A%E4%BD%8D%E5%9B%BE.png/394px-FumoOnlyEX%E6%91%8A%E4%BD%8D%E5%9B%BE.png 2x" data-file-width="887" data-file-height="1688"> FumoOnlyEX-长潭星夜觉
 
 
 ---

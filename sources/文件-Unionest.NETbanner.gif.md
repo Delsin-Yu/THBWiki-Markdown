@@ -1,12 +1,8 @@
 # 文件:Unionest.NETbanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7d\ns6%3AUnionest%2ENETbanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7d\ns6%3AUnionest%2ENETbanner%2Egif.html -->
 
 Unionest.NET | 社团LOGO
-
-
-
-
 
 
 ---

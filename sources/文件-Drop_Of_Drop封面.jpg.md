@@ -1,6 +1,6 @@
 # 文件:Drop_Of_Drop封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\35\ns6%3ADrop_Of_Drop%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\35\ns6%3ADrop_Of_Drop%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Rolling_Contact | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ Rolling_Contact | 专辑封面 | 封面图片
   
 
 - [Drop Of Drop](./Drop_Of_Drop.md)
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:恋しちゃってるBOY!封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ae\ns6%3A%E6%81%8B%E3%81%97%E3%81%A1%E3%82%83%E3%81%A3%E3%81%A6%E3%82%8BBOY%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ae\ns6%3A%E6%81%8B%E3%81%97%E3%81%A1%E3%82%83%E3%81%A3%E3%81%A6%E3%82%8BBOY%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 GenocideKitten | 同人志封面 | 封面图片
 
@@ -8,11 +8,8 @@ GenocideKitten | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [恋しちゃってるBOY!](./恋しちゃってるBOY!.md)  
-该封面包含的角色：- [森近霖之助](./森近霖之助.md)
-
-
-
+- [恋しちゃってるBOY!](./恋しちゃってるBOY!.md)该封面包含的角色：
+- [森近霖之助](./森近霖之助.md)
 
 
 ---

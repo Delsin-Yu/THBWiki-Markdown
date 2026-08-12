@@ -1,12 +1,8 @@
 # 文件:東京アクティブNEETs_banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\ff\ns6%3A%E6%9D%B1%E4%BA%AC%E3%82%A2%E3%82%AF%E3%83%86%E3%82%A3%E3%83%96NEETs_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\ff\ns6%3A%E6%9D%B1%E4%BA%AC%E3%82%A2%E3%82%AF%E3%83%86%E3%82%A3%E3%83%96NEETs_banner%2Ejpg.html -->
 
 東京アクティブNEETs | 社团LOGO
-
-
-
-
 
 
 ---

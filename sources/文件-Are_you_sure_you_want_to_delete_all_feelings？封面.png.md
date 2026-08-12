@@ -1,6 +1,6 @@
 # 文件:Are_you_sure_you_want_to_delete_all_feelings？封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d5\ns6%3AAre_you_sure_you_want_to_delete_all_feelings%EF%BC%9F%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d5\ns6%3AAre_you_sure_you_want_to_delete_all_feelings%EF%BC%9F%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 ξ | 专辑封面 | 封面图片
 
@@ -10,16 +10,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [Are you sure you want to delete all feelings？](./Are_you_sure_you_want_to_delete_all_feelings？.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
+- [Are you sure you want to delete all feelings？](./Are_you_sure_you_want_to_delete_all_feelings？.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
   
-源地址：[[1]](https://pbs.twimg.com/media/EdmNxx7VAAA64jd?format=png&amp;name=orig)
-  
-
-
-
-
+源地址：[\[1\]](https://pbs.twimg.com/media/EdmNxx7VAAA64jd?format=png&name=orig)  
 
 ---
 

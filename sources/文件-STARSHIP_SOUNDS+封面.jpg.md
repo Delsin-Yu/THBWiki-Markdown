@@ -1,6 +1,6 @@
 # 文件:STARSHIP_SOUNDS+封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f4\ns6%3ASTARSHIP_SOUNDS%2B%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f4\ns6%3ASTARSHIP_SOUNDS%2B%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ちょこふぁん | 专辑封面 | 封面图片
 
@@ -10,11 +10,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [STARSHIP SOUNDS+](./STARSHIP_SOUNDS+.md)  
-该封面包含的角色：- [娜兹玲](./娜兹玲.md)- [多多良小伞](./多多良小伞.md)- [村纱水蜜](./村纱水蜜.md)- [寅丸星](./寅丸星.md)- [封兽鵺](./封兽鵺.md)
-
-
-
+- [STARSHIP SOUNDS+](./STARSHIP_SOUNDS+.md)该封面包含的角色：
+- [娜兹玲](./娜兹玲.md)
+- [多多良小伞](./多多良小伞.md)
+- [村纱水蜜](./村纱水蜜.md)
+- [寅丸星](./寅丸星.md)
+- [封兽鵺](./封兽鵺.md)
 
 
 ---

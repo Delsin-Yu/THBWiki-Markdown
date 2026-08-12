@@ -1,17 +1,13 @@
 # 文件:Wafflogo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\47\ns6%3AWafflogo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\47\ns6%3AWafflogo%2Epng.html -->
 
 Waff | 社团LOGO
 
   
-源地址：[[1]](https://image.jimcdn.com/app/cms/image/transf/dimension=640x10000:format=png/path/s81762e9b6aaa88c0/image/id84a1876945fea28/version/1547360320/image.png)
+源地址：[\[1\]](https://image.jimcdn.com/app/cms/image/transf/dimension=640x10000:format=png/path/s81762e9b6aaa88c0/image/id84a1876945fea28/version/1547360320/image.png)
 Not uploading the [5MB unresized image](https://image.jimcdn.com/app/cms/image/transf/none/path/s81762e9b6aaa88c0/image/id84a1876945fea28/version/1547360320/image.png) for obvious reasons.
   
-
-
-
-
 
 ---
 

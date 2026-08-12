@@ -1,6 +1,6 @@
 # 文件:I'm_here_with_you封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\52\ns6%3AI%27m_here_with_you%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\52\ns6%3AI%27m_here_with_you%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ordures | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ ordures | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [I'm here with you](./I'm_here_with_you.md)  
-该封面包含的角色：- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
-
-
-
+- [I'm here with you](./I'm_here_with_you.md)该封面包含的角色：
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
 
 
 ---

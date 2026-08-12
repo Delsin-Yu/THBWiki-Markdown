@@ -1,18 +1,13 @@
 # 文件:ぱちぽちぷらねっとbanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c4\ns6%3A%E3%81%B1%E3%81%A1%E3%81%BD%E3%81%A1%E3%81%B7%E3%82%89%E3%81%AD%E3%81%A3%E3%81%A8banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c4\ns6%3A%E3%81%B1%E3%81%A1%E3%81%BD%E3%81%A1%E3%81%B7%E3%82%89%E3%81%AD%E3%81%A3%E3%81%A8banner%2Egif.html -->
 
 ぱちぽちぷらねっと | 社团LOGO
 
 
 ## 摘要
   
-源地址：[direct image link](http://patipotipoo.web.fc2.com/bana0.gif), [source page](http://patipotipoo.web.fc2.com/contents/link/index.htm)
-  
-
-
-
-
+源地址：[direct image link](http://patipotipoo.web.fc2.com/bana0.gif), [source page](http://patipotipoo.web.fc2.com/contents/link/index.htm)  
 
 ---
 

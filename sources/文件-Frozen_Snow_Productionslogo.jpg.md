@@ -1,16 +1,11 @@
 # 文件:Frozen_Snow_Productionslogo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\72\ns6%3AFrozen_Snow_Productionslogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\72\ns6%3AFrozen_Snow_Productionslogo%2Ejpg.html -->
 
 Frozen_Snow_Productions | 社团LOGO
 
   
-源地址：[[1]](https://fspofficial.bandcamp.com/)
-  
-
-
-
-
+源地址：[\[1\]](https://fspofficial.bandcamp.com/)  
 
 ---
 

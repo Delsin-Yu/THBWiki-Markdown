@@ -1,14 +1,11 @@
 # 文件:タムリンビューbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\74\ns6%3A%E3%82%BF%E3%83%A0%E3%83%AA%E3%83%B3%E3%83%93%E3%83%A5%E3%83%BCbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\74\ns6%3A%E3%82%BF%E3%83%A0%E3%83%AA%E3%83%B3%E3%83%93%E3%83%A5%E3%83%BCbanner%2Ejpg.html -->
 
 タムリンビュー | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

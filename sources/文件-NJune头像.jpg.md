@@ -1,16 +1,12 @@
 # 文件:NJune头像.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\30\ns6%3ANJune%E5%A4%B4%E5%83%8F%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\30\ns6%3ANJune%E5%A4%B4%E5%83%8F%2Ejpg.html -->
 
 NFT_conFuoco_orchestra
 
   
 NJune头像
   
-
-
-
-
 
 ---
 

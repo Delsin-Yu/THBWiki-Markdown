@@ -1,6 +1,6 @@
 # 文件:IN_THE_MIRROR封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\89\ns6%3AIN_THE_MIRROR%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\89\ns6%3AIN_THE_MIRROR%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 梅雨明けの日
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [IN THE MIRROR](./IN_THE_MIRROR.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [IN THE MIRROR](./IN_THE_MIRROR.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
 
   
-源地址：[direct image link (original size)](https://pbs.twimg.com/media/Fb3oyeHaQAAYu1H?format=jpg&amp;name=orig), [source tweet](https://twitter.com/enutarosu53/status/1566742943993499648)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://pbs.twimg.com/media/Fb3oyeHaQAAYu1H?format=jpg&name=orig), [source tweet](https://twitter.com/enutarosu53/status/1566742943993499648)  
 
 ---
 

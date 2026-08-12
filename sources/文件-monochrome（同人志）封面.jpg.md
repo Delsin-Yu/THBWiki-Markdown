@@ -1,6 +1,6 @@
 # 文件:monochrome（同人志）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ab\ns6%3Amonochrome%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ab\ns6%3Amonochrome%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 華楼琴にて
 
@@ -10,11 +10,13 @@
 使用了本文件作封面图片的作品：
   
 
-- [monochrome（同人志）](./monochrome（同人志）.md)  
-该封面包含的角色：- [宇佐见莲子](./宇佐见莲子.md)- [小恶魔](./小恶魔.md)- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [藤原妹红](./藤原妹红.md)- [古明地恋](./古明地恋.md)
-
-
-
+- [monochrome（同人志）](./monochrome（同人志）.md)该封面包含的角色：
+- [宇佐见莲子](./宇佐见莲子.md)
+- [小恶魔](./小恶魔.md)
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [藤原妹红](./藤原妹红.md)
+- [古明地恋](./古明地恋.md)
 
 
 ---

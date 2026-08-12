@@ -1,6 +1,6 @@
 # 文件:あくえり３～_AQUAELIE_fanDISC_vol.3封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\82\ns6%3A%E3%81%82%E3%81%8F%E3%81%88%E3%82%8A%EF%BC%93%EF%BD%9E_AQUAELIE_fanDISC_vol%2E3%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\82\ns6%3A%E3%81%82%E3%81%8F%E3%81%88%E3%82%8A%EF%BC%93%EF%BD%9E_AQUAELIE_fanDISC_vol%2E3%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 AQUAELIE | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ AQUAELIE | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [あくえり３～ AQUAELIE fanDISC vol.3](./あくえり３～_AQUAELIE_fanDISC_vol.3.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [あくえり３～ AQUAELIE fanDISC vol.3](./あくえり３～_AQUAELIE_fanDISC_vol.3.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

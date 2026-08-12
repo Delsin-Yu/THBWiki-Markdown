@@ -1,30 +1,22 @@
 # Pretty_Apricot
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\b7\ns0%3APretty_Apricot.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\b7\ns0%3APretty_Apricot.html -->
 
 由 Wanwan 创作的东方风自作曲，原名 プリティーアプリコット
 
 本页是关于东方Project  
- **东方风自作曲** 的词条
-
+**东方风自作曲**的词条
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 出现作品](#出现作品)
 - [3 说明文本](#说明文本)
-
   - [3.1 东方桃源宫](#东方桃源宫)
 
 
-
 - [4 其他资料](#其他资料)
-
   - [4.1 乐理资讯](#乐理资讯)
   - [4.2 分析考据](#分析考据)
-
-
-
-
 
 
 
@@ -34,7 +26,6 @@
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">プリティーアプリコット</td></tr><tr><td><b>译名</b></td><td>Pretty Apricot</td></tr><tr><td><b>作曲</b></td><td><a href="./Wanwan.md" title="Wanwan">Wanwan</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>引用</td></tr><tr><td style="padding-left:15px"><b>原曲</b></td><td><a href="./天满御灵_～_Lightning_Word.md" title="天满御灵 ～ Lightning Word" unred="">天満たす御霊　～ Lightning Word</a></td></tr><tr><td style="padding-left:15px"><b>　来源</b></td><td>东方导命树　～ Mystical Power Plant.</td></tr></tbody></table>
 
 Pretty Apricot（曲目） - 由 Wanwan 创作的东方风自作曲，原名 プリティーアプリコット
-
 ## 出现作品
 
 <table>
@@ -42,15 +33,14 @@ Pretty Apricot（曲目） - 由 Wanwan 创作的东方风自作曲，原名 プ
 </tbody></table>
 
 
-
 ## 说明文本
 
 ### 东方桃源宫
-- Music Room (未找到链接)
+
+- [Music Room](./東方桃源宮_～_Riverbed_Soul_Saver.-音乐.md#2面boss-曲辻初名主题曲)
 
   
 曲辻初名的主题曲。  
-
   
   
 稍微有点前作的风格，目标是朝气蓬勃的可爱系。  
@@ -60,7 +50,7 @@ Pretty Apricot（曲目） - 由 Wanwan 创作的东方风自作曲，原名 プ
 “我为杏，亦非杏”说的就是这个吧（？）
   
 
-- 里音乐评论 (未找到链接)
+- [里音乐评论](./東方桃源宮_～_Riverbed_Soul_Saver.-Soundtrack_Readme.md#童祭版)
 
   
 曲辻初名的主题曲。  
@@ -80,15 +70,11 @@ Pretty Apricot（曲目） - 由 Wanwan 创作的东方风自作曲，原名 プ
 不过并没有什么具体的引用原曲。
   
 
-
 ## 其他资料
 
 ### 乐理资讯
 
 ### 分析考据
-
-
-
 
 ---
 

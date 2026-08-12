@@ -1,36 +1,26 @@
 # 影之顶_～_Haze_Castle
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\e\e7\ns0%3A%E5%BD%B1%E4%B9%8B%E9%A1%B6_%EF%BD%9E_Haze_Castle.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\e\e7\ns0%3A%E5%BD%B1%E4%B9%8B%E9%A1%B6_%EF%BD%9E_Haze_Castle.html -->
 
 JynX作曲 | 引用了翻译表的页面 | 影之顶_～_Haze_Castle | 连缘Project | 连缘Project官方音乐
 
-本页是关于 **向[东方Project](./东方Project.md)  
-致敬、形式类似的作品** 的词条
-
+本页是关于**向[东方Project](./东方Project.md)致敬、形式类似的作品**  
+的词条
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 出现作品](#出现作品)
 - [3 音乐文件](#音乐文件)
-
   - [3.1 连缘天影战记](#连缘天影战记)
 
 
-
 - [4 说明文本](#说明文本)
-
   - [4.1 连缘天影战记](#连缘天影战记_2)
 
 
-
 - [5 其他资料](#其他资料)
-
   - [5.1 乐理资讯](#乐理资讯)
   - [5.2 分析考据](#分析考据)
-
-
-
-
 
 
 
@@ -59,14 +49,12 @@ JynX作曲 | 引用了翻译表的页面 | 影之顶_～_Haze_Castle | 连缘Pro
 </td></tr></tbody></table>
 
 
-
 ## 出现作品
 
 <table>
 
 <tbody><tr><td>2016年12月1日（非展会）</td><td><b><a href="./连缘天影战记～Brilliant_pagoda_or_haze_castle.md" title="连缘天影战记～Brilliant pagoda or haze castle" unred="">连缘天影战记</a></b></td><td>浮舟之间主题曲</td><td style="padding-left:5px;">（影之顶 ～ Haze Castle）</td><td style="padding-left:10px;">作曲：JynX</td></tr>
 </tbody></table>
-
 
 
 ## 音乐文件
@@ -90,11 +78,11 @@ JynX作曲 | 引用了翻译表的页面 | 影之顶_～_Haze_Castle | 连缘Pro
 </td></tr></tbody></table>
 
 
-
 ## 说明文本
 
 ### 连缘天影战记
-- Music Room (未找到链接)
+
+- [Music Room](./连缘天影战记～Brilliant_pagoda_or_haze_castle-Music.md#浮舟之间主题曲)
 
 城线的最终曲。  
   
@@ -105,15 +93,11 @@ JynX作曲 | 引用了翻译表的页面 | 影之顶_～_Haze_Castle | 连缘Pro
   
 但唯一清楚的就是，  
 这椅子坐上去很不舒服
-
 ## 其他资料
 
 ### 乐理资讯
 
 ### 分析考据
-
-
-
 
 ---
 

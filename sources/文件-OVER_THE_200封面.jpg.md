@@ -1,6 +1,6 @@
 # 文件:OVER_THE_200封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\90\ns6%3AOVER_THE_200%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\90\ns6%3AOVER_THE_200%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 TORUS_QUARTET | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@ TORUS_QUARTET | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [OVER THE 200](./OVER_THE_200.md)  
-该封面包含的角色：- [红美铃](./红美铃.md)
+- [OVER THE 200](./OVER_THE_200.md)该封面包含的角色：
+- [红美铃](./红美铃.md)
 
   
-源地址：[[1]](https://pbs.twimg.com/media/C-6WN9iXsAAkx7G?format=jpg&amp;name=orig), [source tweet](https://twitter.com/fta_golem/status/859789756942532608)
-  
-
-
-
-
+源地址：[\[1\]](https://pbs.twimg.com/media/C-6WN9iXsAAkx7G?format=jpg&name=orig), [source tweet](https://twitter.com/fta_golem/status/859789756942532608)  
 
 ---
 

@@ -1,18 +1,13 @@
 # 文件:Kurage_seek_roomlogo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c3\ns6%3AKurage_seek_roomlogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c3\ns6%3AKurage_seek_roomlogo%2Ejpg.html -->
 
 Kurage_seek_room | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[[1]](https://blog-imgs-117.fc2.com/k/u/r/kurageseekroom/20180703225228681s.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://blog-imgs-117.fc2.com/k/u/r/kurageseekroom/20180703225228681s.jpg)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:Illusory_Glance封面.jpeg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ee\ns6%3AIllusory_Glance%E5%B0%81%E9%9D%A2%2Ejpeg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ee\ns6%3AIllusory_Glance%E5%B0%81%E9%9D%A2%2Ejpeg.html -->
 
 专辑封面 | 封面图片 | 有顶天（同人社团）
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [Illusory Glance](./Illusory_Glance.md)  
-该封面包含的角色：- [西行寺幽幽子](./西行寺幽幽子.md)- [八云紫](./八云紫.md)
-
-
-
+- [Illusory Glance](./Illusory_Glance.md)该封面包含的角色：
+- [西行寺幽幽子](./西行寺幽幽子.md)
+- [八云紫](./八云紫.md)
 
 
 ---

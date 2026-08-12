@@ -1,12 +1,8 @@
 # 文件:神魂避难所banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f2\ns6%3A%E7%A5%9E%E9%AD%82%E9%81%BF%E9%9A%BE%E6%89%80banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f2\ns6%3A%E7%A5%9E%E9%AD%82%E9%81%BF%E9%9A%BE%E6%89%80banner%2Ejpg.html -->
 
 社团LOGO | 神魂避难所
-
-
-
-
 
 
 ---

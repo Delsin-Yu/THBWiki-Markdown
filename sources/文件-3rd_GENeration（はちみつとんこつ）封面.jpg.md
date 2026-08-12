@@ -1,6 +1,6 @@
 # 文件:3rd_GENeration（はちみつとんこつ）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e0\ns6%3A3rd_GENeration%EF%BC%88%E3%81%AF%E3%81%A1%E3%81%BF%E3%81%A4%E3%81%A8%E3%82%93%E3%81%93%E3%81%A4%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e0\ns6%3A3rd_GENeration%EF%BC%88%E3%81%AF%E3%81%A1%E3%81%BF%E3%81%A4%E3%81%A8%E3%82%93%E3%81%93%E3%81%A4%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 はちみつとんこつ | 专辑封面 | 封面图片
 
@@ -8,11 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [3rd GENeration（はちみつとんこつ）](./3rd_GENeration（はちみつとんこつ）.md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)- [霍青娥](./霍青娥.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [3rd GENeration（はちみつとんこつ）](./3rd_GENeration（はちみつとんこつ）.md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
+- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)
+- [霍青娥](./霍青娥.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

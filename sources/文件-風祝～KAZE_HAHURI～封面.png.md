@@ -1,6 +1,6 @@
 # 文件:風祝～KAZE_HAHURI～封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2d\ns6%3A%E9%A2%A8%E7%A5%9D%EF%BD%9EKAZE_HAHURI%EF%BD%9E%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2d\ns6%3A%E9%A2%A8%E7%A5%9D%EF%BD%9EKAZE_HAHURI%EF%BD%9E%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Edel_WorkS | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Edel_WorkS | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [風祝～KAZE HAHURI～](./風祝～KAZE_HAHURI～.md)  
-该封面包含的角色：- [东风谷早苗](./东风谷早苗.md)
-
-
-
+- [風祝～KAZE HAHURI～](./風祝～KAZE_HAHURI～.md)该封面包含的角色：
+- [东风谷早苗](./东风谷早苗.md)
 
 
 ---

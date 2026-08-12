@@ -1,6 +1,6 @@
 # 文件:DINER_GENSOKYO封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\37\ns6%3ADINER_GENSOKYO%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\37\ns6%3ADINER_GENSOKYO%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 同人志封面 | 封面图片 | 給食頭蛮
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [DINER GENSOKYO](./DINER_GENSOKYO.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)
+- [DINER GENSOKYO](./DINER_GENSOKYO.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
 
   
-源地址：[[1]](https://pbs.twimg.com/media/EdVwztDUEAIIBvB?format=png&amp;name=orig)
-  
-
-
-
-
+源地址：[\[1\]](https://pbs.twimg.com/media/EdVwztDUEAIIBvB?format=png&name=orig)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:証のPortal封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\be\ns6%3A%E8%A8%BC%E3%81%AEPortal%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\be\ns6%3A%E8%A8%BC%E3%81%AEPortal%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 石鹸屋
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [証のPortal](./証のPortal.md)  
-该封面包含的角色：- [摩多罗隐岐奈](./摩多罗隐岐奈.md)
-
-
-
+- [証のPortal](./証のPortal.md)该封面包含的角色：
+- [摩多罗隐岐奈](./摩多罗隐岐奈.md)
 
 
 ---

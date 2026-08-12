@@ -1,6 +1,6 @@
 # 文件:Ray_Of_Constructions封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bb\ns6%3ARay_Of_Constructions%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bb\ns6%3ARay_Of_Constructions%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 PURE-POLLUTION | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ PURE-POLLUTION | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Ray Of Constructions](./Ray_Of_Constructions.md)  
-该封面包含的角色：- [宇佐见莲子](./宇佐见莲子.md)
+- [Ray Of Constructions](./Ray_Of_Constructions.md)该封面包含的角色：
+- [宇佐见莲子](./宇佐见莲子.md)
 
   
-源地址：[[1]](http://www.snv.jp/sorr-00134/img/sorr_00134_600x600.png)
-  
-
-
-
-
+源地址：[\[1\]](http://www.snv.jp/sorr-00134/img/sorr_00134_600x600.png)  
 
 ---
 

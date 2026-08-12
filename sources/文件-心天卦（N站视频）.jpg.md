@@ -1,12 +1,8 @@
 # 文件:心天卦（N站视频）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ae\ns6%3A%E5%BF%83%E5%A4%A9%E5%8D%A6%EF%BC%88N%E7%AB%99%E8%A7%86%E9%A2%91%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ae\ns6%3A%E5%BF%83%E5%A4%A9%E5%8D%A6%EF%BC%88N%E7%AB%99%E8%A7%86%E9%A2%91%EF%BC%89%2Ejpg.html -->
 
 心天卦 | 東方宝天京制作委员会
-
-
-
-
 
 
 ---

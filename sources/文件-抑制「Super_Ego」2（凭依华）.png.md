@@ -1,12 +1,8 @@
 # 文件:抑制「Super_Ego」2（凭依华）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c1\ns6%3A%E6%8A%91%E5%88%B6%E3%80%8CSuper_Ego%E3%80%8D2%EF%BC%88%E5%87%AD%E4%BE%9D%E5%8D%8E%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c1\ns6%3A%E6%8A%91%E5%88%B6%E3%80%8CSuper_Ego%E3%80%8D2%EF%BC%88%E5%87%AD%E4%BE%9D%E5%8D%8E%EF%BC%89%2Epng.html -->
 
 东方凭依华 | 古明地恋 | 自机符卡
-
-
-
-
 
 
 ---

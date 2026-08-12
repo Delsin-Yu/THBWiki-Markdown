@@ -1,6 +1,6 @@
 # 文件:clip封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3e\ns6%3Aclip%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3e\ns6%3Aclip%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 BubbleRecords | 专辑封面 | 封面图片
 
@@ -8,19 +8,14 @@ BubbleRecords | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [clip](./clip.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [clip](./clip.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
   
-源地址：[direct image link](https://web.archive.org/web/20220502025039im_/http://bubblerecords-web.com/img/discography/08_b.jpg), [source page](https://web.archive.org/web/20211204192548/http://bubblerecords-web.com/discography.html)
-  
+源地址：[direct image link](https://web.archive.org/web/20220502025039im_/http://bubblerecords-web.com/img/discography/08_b.jpg), [source page](https://web.archive.org/web/20211204192548/http://bubblerecords-web.com/discography.html)  
   
 A textless expanded version of the cover can be found on the artist's Pixiv ([p:12413389](https://www.pixiv.net/artworks/12413389))
   
-
-
-
-
 
 ---
 

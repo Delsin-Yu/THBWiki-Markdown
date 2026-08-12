@@ -1,18 +1,16 @@
 # 附带文档:东方萃梦想体验版/Manual
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\c\cb\ns506%3A%E4%B8%9C%E6%96%B9%E8%90%83%E6%A2%A6%E6%83%B3%E4%BD%93%E9%AA%8C%E7%89%88%2FManual.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\c\cb\ns506%3A%E4%B8%9C%E6%96%B9%E8%90%83%E6%A2%A6%E6%83%B3%E4%BD%93%E9%AA%8C%E7%89%88%2FManual.html -->
 
 Manual | 东方萃梦想 | 体验版附带文档 | 附带文档
 
-- 本词条内容为官方游戏TH07.5 **[东方萃梦想](./东方萃梦想.md)C66体验版** 的附带文档之一
+
+- 本词条内容为官方游戏TH07.5**[东方萃梦想](./东方萃梦想.md)C66体验版**的附带文档之一
 - 正式版中没有Manual电子文档。
 - 本词条为C66体验版的HTML格式Manual文档，WEB体验版的Manual文档请参见[文本格式Manual词条](./附带文档-东方萃梦想WEB体验版-Manual.md)
 - 如果发现翻译问题可进行改正
 - 注意：本词条其原文为HTML格式的网页说明书，鉴于HTML网页完整呈现在Wiki上比较复杂且费时，目前仍仅将部分内容以对照翻译的形式列出在本页面内。
-- <big>说明书的其他内容请点击下列网址来进行访问： **[日文版](http://omake.thwiki.cc/manual/th75tr/ja/manual.html)** ， **[中文版](http://omake.thwiki.cc/manual/th75tr/zh/manual.html)** </big>
-
-
-
+- <big>说明书的其他内容请点击下列网址来进行访问：**[日文版](http://omake.thwiki.cc/manual/th75tr/ja/manual.html)**，**[中文版](http://omake.thwiki.cc/manual/th75tr/zh/manual.html)**</big>
 
 
 ---

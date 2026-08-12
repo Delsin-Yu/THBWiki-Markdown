@@ -1,6 +1,6 @@
 # 文件:NONSTOP_INTERCEPT_phase_one封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e6\ns6%3ANONSTOP_INTERCEPT_phase_one%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e6\ns6%3ANONSTOP_INTERCEPT_phase_one%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Alstroemeria_Records | DiGiTAL_WiNG | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Alstroemeria_Records | DiGiTAL_WiNG | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [NONSTOP INTERCEPT phase one](./NONSTOP_INTERCEPT_phase_one.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [NONSTOP INTERCEPT phase one](./NONSTOP_INTERCEPT_phase_one.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

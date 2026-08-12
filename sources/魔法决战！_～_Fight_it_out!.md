@@ -1,45 +1,35 @@
 # 魔法决战！_～_Fight_it_out!
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\c\ca\ns0%3A%E9%AD%94%E6%B3%95%E5%86%B3%E6%88%98%EF%BC%81_%EF%BD%9E_Fight_it_out%21.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\c\ca\ns0%3A%E9%AD%94%E6%B3%95%E5%86%B3%E6%88%98%EF%BC%81_%EF%BD%9E_Fight_it_out%21.html -->
 
 由 ZUN 创作的官方曲目，原名 魔法決戦！　～Fight it out!
 
 本页是关于东方Project  
- **原作音乐** 的词条
-
+**原作音乐**的词条
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 出现作品](#出现作品)
 - [3 音乐文件](#音乐文件)
-
   - [3.1 东方梦时空](#东方梦时空)
   - [3.2 东方怪绮谈](#东方怪绮谈)
   - [3.3 东方幻想怀古曲](#东方幻想怀古曲)
   - [3.4 幺乐团的历史 vol.4](#幺乐团的历史_vol.4)
 
 
-
 - [4 说明文本](#说明文本)
-
   - [4.1 东方梦时空](#东方梦时空_2)
   - [4.2 东方怪绮谈](#东方怪绮谈_2)
   - [4.3 东方幻想怀古曲](#东方幻想怀古曲_2)
 
 
-
 - [5 其他资料](#其他资料)
-
   - [5.1 乐理资讯](#乐理资讯)
   - [5.2 分析考据](#分析考据)
   - [5.3 二次同人数据](#二次同人数据)
 
 
-
 - [6 注释](#注释)
-
-
-
 
 
 ## 基本信息
@@ -47,7 +37,6 @@
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">魔法決戦！　～Fight it out!</td></tr><tr><td><b>译名</b></td><td>魔法决战！ ～ Fight it out!</td></tr><tr><td><b>英文译名</b></td><td>Decisive Magic Battle! ~ Fight it out!</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 魔法决战！ ～ Fight it out!（曲目） - 由 ZUN 创作的官方曲目，原名 魔法決戦！　～Fight it out!
-
 ## 出现作品
 
 <table>
@@ -58,7 +47,6 @@
 </tbody></table>
 
 
-
 ## 音乐文件
 
 ### 东方梦时空
@@ -66,9 +54,7 @@
 YM2608(OPNA)，FM86版。
   
 
-
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th03_10.ogg.md" title="文件:th03 10.ogg">th03_10.ogg</a><br><audio src="https://upload.thwiki.cc/e/ea/th03_10.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>DEC.M</td></tr><tr><td><b>音轨时长</b></td><td>2:06.518</td></tr></tbody></table>
-
 
 
 ### 东方怪绮谈
@@ -76,9 +62,7 @@ YM2608(OPNA)，FM86版。
 YM2608(OPNA)，FM86版。
   
 
-
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th05_Y_10.ogg.md" title="文件:th05 Y 10.ogg">th05_Y_10.ogg</a><br><audio src="https://upload.thwiki.cc/8/85/th05_Y_10.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>Y_DEC.M</td></tr><tr><td><b>音轨时长</b></td><td>2:06.518</td></tr></tbody></table>
-
 
 
 ### 东方幻想怀古曲
@@ -86,17 +70,16 @@ YM2608(OPNA)，FM86版。
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-thgs03_10.ogg.md" title="文件:thgs03 10.ogg">thgs03_10.ogg</a><br><audio src="https://upload.thwiki.cc/f/f6/thgs03_10.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>th3_10.m</td></tr><tr><td><b>音轨时长</b></td><td>2:06.518</td></tr></tbody></table>
 
 
-
 ### 幺乐团的历史 vol.4
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-ha04_11.mp3.md" title="文件:ha04 11.mp3">ha04_11.mp3</a><br><audio src="https://upload.thwiki.cc/a/a1/ha04_11.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track11.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>2:31</td></tr></tbody></table>
 
 
-
 ## 说明文本
 
 ### 东方梦时空
-- Music Room (未找到链接)
+
+- [Music Room](./东方梦时空-Music.md#CPU第七人的主题曲)
 
 　　　　　第７人的ＣＰＵ战的主题曲  
 　　　这首曲子在对战模式下是不会出现的。  
@@ -113,18 +96,18 @@ YM2608(OPNA)，FM86版。
 用于东方梦时空的曲子  
   
 会用吗～・
-
 ### 东方怪绮谈
-- Music Room (未找到链接)
+
+- [Music Room](./东方怪绮谈-Music.md#CPU第七人的主题曲)
 
 　　ＣＰＵ第７人的主题曲  
 　　＊８６兼容音源专用魔法决战！　～ Fight it out!  
 ＺＵＮ（太田）  
 用于东方梦时空的曲子  
 会用吗～・
-
 ### 东方幻想怀古曲
-- th3_10pmd.txt (未找到链接)
+
+- [th3_10pmd.txt](./东方幻想怀古曲-东方梦时空.md#魔法决战！_～_Fight_it_out!)
 
 +----------------------------------------------------------------------------+  
 |【 　 曲名　　】| 【 魔法决战！　～ Fight it out!! 】（原版）  
@@ -161,28 +144,29 @@ YM2608(OPNA)，FM86版。
 曲子的感想、请求等，这边请  
 　东方幻想空间　「博丽神社」 [http://www16.big.or.jp/~zun/](http://www16.big.or.jp/~zun/)  
 　e-Mail                     zun@big.or.jp
-
 ## 其他资料
 
 ### 乐理资讯
 
 ### 分析考据
   
- **魔法決戦！　～Fight it out!** 
-  
+**魔法決戦！ ～Fight it out!**  
 魔法决战！　～Fight it out!
   
 
-- 魔法
+- 魔法 
   - 所有自机使用的力量算作“魔法”
   - 冈崎梦美所追求的魔法力量
 
-- 决战
+
+- 决战 
   - 赢得进入遗迹实现梦想的机会
 
-- Fight it out
+
+- Fight it out 
   - 决出胜负
   - 本作为对战游戏
+
 
 
 
@@ -198,18 +182,6 @@ YM2608(OPNA)，FM86版。
 <tr><td>Arrange</td><td>28</td></tr>
 <tr><td>Vocal率</td><td>6.67%</td></tr>
 </tbody></table>
-
-
-
-
-
-  
-  
-
-  
-
-
-
 
 
 ---

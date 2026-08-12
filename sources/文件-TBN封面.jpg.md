@@ -1,6 +1,6 @@
 # 文件:TBN封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\49\ns6%3ATBN%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\49\ns6%3ATBN%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 鯖味粗
 
@@ -10,11 +10,13 @@
 使用了本文件作封面图片的作品：
   
 
-- [TBN](./TBN.md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)- [火焰猫燐](./火焰猫燐.md)- [古明地恋](./古明地恋.md)- [宫古芳香](./宫古芳香.md)- [霍青娥](./霍青娥.md)- [姬海棠果](./姬海棠果.md)
-
-
-
+- [TBN](./TBN.md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
+- [火焰猫燐](./火焰猫燐.md)
+- [古明地恋](./古明地恋.md)
+- [宫古芳香](./宫古芳香.md)
+- [霍青娥](./霍青娥.md)
+- [姬海棠果](./姬海棠果.md)
 
 
 ---

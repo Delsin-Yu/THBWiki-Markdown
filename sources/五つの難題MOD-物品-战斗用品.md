@@ -1,11 +1,10 @@
 # 五つの難題MOD/物品/战斗用品
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\f8\ns0%3A%E4%BA%94%E3%81%A4%E3%81%AE%E9%9B%A3%E9%A1%8CMOD%2F%E7%89%A9%E5%93%81%2F%E6%88%98%E6%96%97%E7%94%A8%E5%93%81.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\f8\ns0%3A%E4%BA%94%E3%81%A4%E3%81%AE%E9%9B%A3%E9%A1%8CMOD%2F%E7%89%A9%E5%93%81%2F%E6%88%98%E6%96%97%E7%94%A8%E5%93%81.html -->
 
 くろあんこ | 五つの難題MOD | 待完成页面
 
 <center>
-
 <table>
 <tbody><tr>
 <td class="mbox-image"><div style="width: 52px;">
@@ -14,9 +13,7 @@
 </tr>
 </tbody></table>
 
-
 </center>
-
 ## 目录
 
 - [1 金阁寺的一块天花板](#金阁寺的一块天花板)
@@ -53,9 +50,6 @@
 - [32 人魂灯](#人魂灯)
 
 
-
-
-
 ## 金阁寺的一块天花板
 
 <table>
@@ -75,7 +69,6 @@
 可以在工作台中分解为3个金块<br>
 </p>
 可以当船用，回收方式和船一样</td></tr></tbody></table>
-
 
 
 ## 龙颈之玉
@@ -103,7 +96,6 @@ Shift+右键消耗280耐久并且扔出5颗珍珠<br>
 怀表时停时将冻结所有珍珠和弹幕的活动，一旦释放怀表可能会发生因粒子过多而造成的崩端/崩服务器的问题。</td></tr></tbody></table>
 
 
-
 ## 灵击卡
 
 <table>
@@ -112,7 +104,6 @@ Shift+右键消耗280耐久并且扔出5颗珍珠<br>
 <p>右键使用，把周围半径约12.5格的敌对生物以随机方向推至玩家为中心的12.5格外<br>
 </p>
 与等价代换mod的禁止火把等拥有推力的物品互动性质不明</td></tr></tbody></table>
-
 
 
 ## 死神的大镰刀
@@ -136,7 +127,6 @@ Shift+右键消耗280耐久并且扔出5颗珍珠<br>
 与灵击符等带有推力的物品互动效果未知<br></td></tr></tbody></table>
 
 
-
 ## 丰聪耳的宝剑
 
 <table>
@@ -153,11 +143,10 @@ Shift+右键消耗280耐久并且扔出5颗珍珠<br>
 </tr>
 </tbody></table></td></tr><tr><td style="width:120px;padding-left:7px;"><b>功能</b></td><td><b>耐久度：251</b><br>
 <p>攻击伤害+6<br>
-长按右键（最短1秒）使用，探测周围距离最远50m（存疑）的生物名称和方位并在聊天栏里显示，并在生物的位置生成相应颜色的<a href="/%E4%BA%94%E3%81%A4%E3%81%AE%E9%9B%A3%E9%A1%8CMOD/%E7%89%A9%E5%93%81/%E8%A3%85%E9%A5%B0%E6%80%A7%E6%96%B9%E5%9D%97#小神灵" title="五つの難題MOD/物品/装饰性方块">小神灵</a><br>
+长按右键（最短1秒）使用，探测周围距离最远50m（存疑）的生物名称和方位并在聊天栏里显示，并在生物的位置生成相应颜色的<a href="./五つの難題MOD-物品-装饰性方块.md#小神灵" title="五つの難題MOD/物品/装饰性方块">小神灵</a><br>
 小神灵会在空中悬浮一段时间并逐渐变小最后消失；若玩家接近则会吸入玩家的物品栏中变成道具<br>
 </p>
 每勘测1个生物消耗1点耐久，蓄力越久单个生物小神灵产出越多，最多3个（存疑）<br></td></tr><tr><td style="width:120px;padding-left:7px;"><b>备注</b></td><td>对非生物实体不起作用</td></tr></tbody></table>
-
 
 
 ## 火鼠的皮衣
@@ -178,7 +167,6 @@ Shift+右键消耗280耐久并且扔出5颗珍珠<br>
 <p>装备上时带有火焰保护V的附魔效果，同时即时扑灭身上的火焰<br>
 </p>
 攻击敌人时附加火焰效果<br></td></tr></tbody></table>
-
 
 
 ## 追踪灵符
@@ -202,7 +190,6 @@ Shift+右键消耗280耐久并且扔出5颗珍珠<br>
 对非生物实体和友善生物无效，未对其他玩家测试<br></td></tr></tbody></table>
 
 
-
 ## 扩散灵符
 
 <table>
@@ -224,7 +211,6 @@ Shift+右键消耗280耐久并且扔出5颗珍珠<br>
 对非生物实体和友善生物无效，未对其他玩家测试<br></td></tr></tbody></table>
 
 
-
 ## 河童的水枪
 
 <table>
@@ -243,24 +229,22 @@ Shift+右键消耗280耐久并且扔出5颗珍珠<br>
 右键使用，消耗1点耐久度，射出3颗受重力影响的蓝色中玉，每颗造成4点伤害</td></tr></tbody></table>
 
 
-
 ## 艾哲红石
 
 <table>
 <tbody><tr><td style="width:120px;padding-left:7px;"><b>名称</b></td><td width="350">艾哲红石</td><td rowspan="6" width="190"><center>暂无图片</center></td></tr>
 <tr><td style="width:120px;padding-left:7px;"><b>默认ID</b></td><td>THKaguyaMod:Red Stone of Aja</td></tr><tr><td style="width:120px;padding-left:7px;"><b>获得方式</b></td><td><table>
 <tbody><tr>
-<td><a href="/index.php?title=%E4%BA%94%E3%81%A4%E3%81%AE%E9%9B%A3%E9%A1%8CMOD/%E7%89%A9%E5%93%81/%E6%9D%90%E6%96%99&amp;action=edit&amp;redlink=1" class="new" title="五つの難題MOD/物品/材料（页面不存在）">红珍珠</a></td><td><a href="/index.php?title=%E4%BA%94%E3%81%A4%E3%81%AE%E9%9B%A3%E9%A1%8CMOD/%E7%89%A9%E5%93%81/%E6%9D%90%E6%96%99&amp;action=edit&amp;redlink=1" class="new" title="五つの難題MOD/物品/材料（页面不存在）">红珍珠</a></td><td><a href="/index.php?title=%E4%BA%94%E3%81%A4%E3%81%AE%E9%9B%A3%E9%A1%8CMOD/%E7%89%A9%E5%93%81/%E6%9D%90%E6%96%99&amp;action=edit&amp;redlink=1" class="new" title="五つの難題MOD/物品/材料（页面不存在）">红珍珠</a></td>
+<td><a class="new" title="五つの難題MOD/物品/材料（页面不存在）">红珍珠</a></td><td><a class="new" title="五つの難題MOD/物品/材料（页面不存在）">红珍珠</a></td><td><a class="new" title="五つの難題MOD/物品/材料（页面不存在）">红珍珠</a></td>
 </tr>
 <tr>
-<td><a href="/index.php?title=%E4%BA%94%E3%81%A4%E3%81%AE%E9%9B%A3%E9%A1%8CMOD/%E7%89%A9%E5%93%81/%E6%9D%90%E6%96%99&amp;action=edit&amp;redlink=1" class="new" title="五つの難題MOD/物品/材料（页面不存在）">红珍珠</a></td><td><a href="/index.php?title=%E4%BA%94%E3%81%A4%E3%81%AE%E9%9B%A3%E9%A1%8CMOD/%E7%89%A9%E5%93%81/%E6%9D%90%E6%96%99&amp;action=edit&amp;redlink=1" class="new" title="五つの難題MOD/物品/材料（页面不存在）">红珍珠</a></td><td><a href="/index.php?title=%E4%BA%94%E3%81%A4%E3%81%AE%E9%9B%A3%E9%A1%8CMOD/%E7%89%A9%E5%93%81/%E6%9D%90%E6%96%99&amp;action=edit&amp;redlink=1" class="new" title="五つの難題MOD/物品/材料（页面不存在）">红珍珠</a></td><td>→</td><td>艾哲红石*1</td>
+<td><a class="new" title="五つの難題MOD/物品/材料（页面不存在）">红珍珠</a></td><td><a class="new" title="五つの難題MOD/物品/材料（页面不存在）">红珍珠</a></td><td><a class="new" title="五つの難題MOD/物品/材料（页面不存在）">红珍珠</a></td><td>→</td><td>艾哲红石*1</td>
 </tr>
 <tr>
-<td><a href="/index.php?title=%E4%BA%94%E3%81%A4%E3%81%AE%E9%9B%A3%E9%A1%8CMOD/%E7%89%A9%E5%93%81/%E6%9D%90%E6%96%99&amp;action=edit&amp;redlink=1" class="new" title="五つの難題MOD/物品/材料（页面不存在）">红珍珠</a></td><td><a href="/index.php?title=%E4%BA%94%E3%81%A4%E3%81%AE%E9%9B%A3%E9%A1%8CMOD/%E7%89%A9%E5%93%81/%E6%9D%90%E6%96%99&amp;action=edit&amp;redlink=1" class="new" title="五つの難題MOD/物品/材料（页面不存在）">红珍珠</a></td><td><a href="/index.php?title=%E4%BA%94%E3%81%A4%E3%81%AE%E9%9B%A3%E9%A1%8CMOD/%E7%89%A9%E5%93%81/%E6%9D%90%E6%96%99&amp;action=edit&amp;redlink=1" class="new" title="五つの難題MOD/物品/材料（页面不存在）">红珍珠</a></td>
+<td><a class="new" title="五つの難題MOD/物品/材料（页面不存在）">红珍珠</a></td><td><a class="new" title="五つの難題MOD/物品/材料（页面不存在）">红珍珠</a></td><td><a class="new" title="五つの難題MOD/物品/材料（页面不存在）">红珍珠</a></td>
 </tr>
 </tbody></table></td></tr><tr><td style="width:120px;padding-left:7px;"><b>功能</b></td><td>右键蓄力，松开时向前方发射一道激光，造成（命中目标光照等级*聚光时间）的伤害，最长时间为7.5秒，伤害最高30<br>
 激光可以穿墙，射程无限，并且引燃所有的亡灵生物，对亡灵造成无视防具的双倍伤害</td></tr></tbody></table>
-
 
 
 ## 魔法扫帚
@@ -306,9 +290,6 @@ Shift+右键消耗280耐久并且扔出5颗珍珠<br>
 ## 绯想之剑
 
 ## 人魂灯
-
-
-
 
 ---
 

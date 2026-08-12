@@ -1,6 +1,6 @@
 # 文件:HAZERUZE!封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8c\ns6%3AHAZERUZE%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8c\ns6%3AHAZERUZE%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ②号トピック | 同人志封面 | 封面图片
 
@@ -10,16 +10,23 @@
 使用了本文件作封面图片的作品：
   
 
-- [HAZERUZE!](./HAZERUZE!.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)- [橙](./橙.md)- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [八云蓝](./八云蓝.md)- [八云紫](./八云紫.md)- [东风谷早苗](./东风谷早苗.md)- [八坂神奈子](./八坂神奈子.md)- [洩矢诹访子](./洩矢诹访子.md)- [雾雨魔理沙](./雾雨魔理沙.md)- 博丽灵梦油库里 (未找到链接)- 雾雨魔理沙油库里 (未找到链接)- 蕾米莉亚·斯卡蕾特油库里 (未找到链接)- 橙油库里 (未找到链接)
+- [HAZERUZE!](./HAZERUZE!.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
+- [橙](./橙.md)
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [八云蓝](./八云蓝.md)
+- [八云紫](./八云紫.md)
+- [东风谷早苗](./东风谷早苗.md)
+- [八坂神奈子](./八坂神奈子.md)
+- [洩矢诹访子](./洩矢诹访子.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
+- [博丽灵梦油库里](./馒馒来.md#博丽灵梦)
+- [雾雨魔理沙油库里](./馒馒来.md#雾雨魔理沙)
+- [蕾米莉亚·斯卡蕾特油库里](./馒馒来.md#蕾米莉亚·斯卡蕾特)
+- [橙油库里](./馒馒来.md#橙)
 
   
-[Pixiv artwork ID: 15230274 (original size)](https://www.pixiv.net/artworks/15230274)
-  
-
-
-
-
+[Pixiv artwork ID: 15230274 (original size)](https://www.pixiv.net/artworks/15230274)  
 
 ---
 

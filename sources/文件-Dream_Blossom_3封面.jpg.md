@@ -1,6 +1,6 @@
 # 文件:Dream_Blossom_3封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\37\ns6%3ADream_Blossom_3%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\37\ns6%3ADream_Blossom_3%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Rolling_Contact | 专辑封面 | 封面图片
 
@@ -8,11 +8,18 @@ Rolling_Contact | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Dream Blossom 3](./Dream_Blossom_3.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)- [博丽灵梦](./博丽灵梦.md)- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [米斯蒂娅·萝蕾拉](./米斯蒂娅·萝蕾拉.md)- [因幡帝](./因幡帝.md)- [洩矢诹访子](./洩矢诹访子.md)- [水桥帕露西](./水桥帕露西.md)- [火焰猫燐](./火焰猫燐.md)- [云居一轮](./云居一轮.md)- [雾雨魔理沙](./雾雨魔理沙.md)- [云山](./云山.md)
-
-
-
+- [Dream Blossom 3](./Dream_Blossom_3.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
+- [博丽灵梦](./博丽灵梦.md)
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [米斯蒂娅·萝蕾拉](./米斯蒂娅·萝蕾拉.md)
+- [因幡帝](./因幡帝.md)
+- [洩矢诹访子](./洩矢诹访子.md)
+- [水桥帕露西](./水桥帕露西.md)
+- [火焰猫燐](./火焰猫燐.md)
+- [云居一轮](./云居一轮.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
+- [云山](./云山.md)
 
 
 ---

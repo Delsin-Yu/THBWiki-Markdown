@@ -1,12 +1,8 @@
 # 模板:沈阳夏季THONLY/届名
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\8\86\ns10%3A%E6%B2%88%E9%98%B3%E5%A4%8F%E5%AD%A3THONLY%2F%E5%B1%8A%E5%90%8D.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\8\86\ns10%3A%E6%B2%88%E9%98%B3%E5%A4%8F%E5%AD%A3THONLY%2F%E5%B1%8A%E5%90%8D.html -->
 
 活动届名模板
-
-
-
-
 
 
 ---

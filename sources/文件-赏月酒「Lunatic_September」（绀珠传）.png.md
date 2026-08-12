@@ -1,12 +1,8 @@
 # 文件:赏月酒「Lunatic_September」（绀珠传）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d0\ns6%3A%E8%B5%8F%E6%9C%88%E9%85%92%E3%80%8CLunatic_September%E3%80%8D%EF%BC%88%E7%BB%80%E7%8F%A0%E4%BC%A0%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d0\ns6%3A%E8%B5%8F%E6%9C%88%E9%85%92%E3%80%8CLunatic_September%E3%80%8D%EF%BC%88%E7%BB%80%E7%8F%A0%E4%BC%A0%EF%BC%89%2Epng.html -->
 
 东方绀珠传 | 敌机符卡 | 铃瑚
-
-
-
-
 
 
 ---

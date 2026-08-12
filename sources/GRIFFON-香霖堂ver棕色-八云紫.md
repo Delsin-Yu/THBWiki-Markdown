@@ -1,37 +1,19 @@
 # GRIFFON/香霖堂ver棕色/八云紫
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\b8\ns0%3AGRIFFON%2F%E9%A6%99%E9%9C%96%E5%A0%82ver%E6%A3%95%E8%89%B2%2F%E5%85%AB%E4%BA%91%E7%B4%AB.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\b8\ns0%3AGRIFFON%2F%E9%A6%99%E9%9C%96%E5%A0%82ver%E6%A3%95%E8%89%B2%2F%E5%85%AB%E4%BA%91%E7%B4%AB.html -->
 
 八云紫PVCFigure手办模型
 
 本页是关于东方Project  
- **相关实体周边 (未找到链接)** 的词条
-
+**相关实体周边 (未找到链接)**的词条
 ## 模型信息
 
-<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 八云紫 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>香霖堂ver棕色</td></tr><tr><td class="label">角色</td><td><a href="./八云紫.md" title="八云紫">八云紫</a></td></tr><tr><td class="label">原型师</td><td><a href="/index.php?title=I-con&amp;action=edit&amp;redlink=1" class="new" title="I-con（页面不存在）">I-con</a></td></tr><tr><td class="label">比例</td><td>1/8</td></tr><tr><td class="label">尺寸</td><td>170 mm</td></tr><tr><td class="label">状态</td><td>已发售</td></tr><tr><td class="label">展会限定</td><td>第十回 博丽神社例大祭</td></tr><tr><td class="label">售价</td><td>7619日元</td></tr><tr><td class="label">首发日期</td><td>2013-05-27</td></tr><tr><td class="label">发售方</td><td><a href="/index.php?title=GRIFFON&amp;action=edit&amp;redlink=1" class="new" title="GRIFFON（页面不存在）">GRIFFON</a></td></tr><tr><td class="label">官网页面</td><td><a rel="nofollow" class="external free" href="http://www.griffon.co.jp/toho/">http://www.griffon.co.jp/toho/</a></td></tr></tbody></table>
+<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 八云紫 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>香霖堂ver棕色</td></tr><tr><td class="label">角色</td><td><a href="./八云紫.md" title="八云紫">八云紫</a></td></tr><tr><td class="label">原型师</td><td><a class="new" title="I-con（页面不存在）">I-con</a></td></tr><tr><td class="label">比例</td><td>1/8</td></tr><tr><td class="label">尺寸</td><td>170 mm</td></tr><tr><td class="label">状态</td><td>已发售</td></tr><tr><td class="label">展会限定</td><td>第十回 博丽神社例大祭</td></tr><tr><td class="label">售价</td><td>7619日元</td></tr><tr><td class="label">首发日期</td><td>2013-05-27</td></tr><tr><td class="label">发售方</td><td><a class="new" title="GRIFFON（页面不存在）">GRIFFON</a></td></tr><tr><td class="label">官网页面</td><td><a rel="nofollow" class="external free" href="http://www.griffon.co.jp/toho/">http://www.griffon.co.jp/toho/</a></td></tr></tbody></table>
 
 GRIFFON/香霖堂ver棕色/八云紫（周边） - 八云紫PVCFigure手办模型
-
 ## 参考图片
-
-
-
-[](./文件-GRIFFON香霖堂ver棕色八云紫-1.jpg.md)
-
-
-文件:GRIFFON香霖堂ver棕色八云紫-2.jpg (未找到链接)
-
-
-文件:GRIFFON香霖堂ver棕色八云紫-3.jpg (未找到链接)
-
-公式图
-
-
-
-
-
-
+<img alt="GRIFFON香霖堂ver棕色八云紫" src="https://upload.thwiki.cc/thumb/2/21/GRIFFON%E9%A6%99%E9%9C%96%E5%A0%82ver%E6%A3%95%E8%89%B2%E5%85%AB%E4%BA%91%E7%B4%AB-1.jpg/160px-GRIFFON%E9%A6%99%E9%9C%96%E5%A0%82ver%E6%A3%95%E8%89%B2%E5%85%AB%E4%BA%91%E7%B4%AB-1.jpg" decoding="async" loading="lazy" width="160" height="189" srcset="https://upload.thwiki.cc/thumb/2/21/GRIFFON%E9%A6%99%E9%9C%96%E5%A0%82ver%E6%A3%95%E8%89%B2%E5%85%AB%E4%BA%91%E7%B4%AB-1.jpg/240px-GRIFFON%E9%A6%99%E9%9C%96%E5%A0%82ver%E6%A3%95%E8%89%B2%E5%85%AB%E4%BA%91%E7%B4%AB-1.jpg 1.5x, https://upload.thwiki.cc/thumb/2/21/GRIFFON%E9%A6%99%E9%9C%96%E5%A0%82ver%E6%A3%95%E8%89%B2%E5%85%AB%E4%BA%91%E7%B4%AB-1.jpg/320px-GRIFFON%E9%A6%99%E9%9C%96%E5%A0%82ver%E6%A3%95%E8%89%B2%E5%85%AB%E4%BA%91%E7%B4%AB-1.jpg 2x" data-file-width="348" data-file-height="410">
+文件:GRIFFON香霖堂ver棕色八云紫-2.jpg (未找到链接)文件:GRIFFON香霖堂ver棕色八云紫-3.jpg (未找到链接)公式图
 
 ---
 

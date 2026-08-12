@@ -1,16 +1,12 @@
 # 模板:My_Friend
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\2\22\ns10%3AMy_Friend.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\2\22\ns10%3AMy_Friend.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

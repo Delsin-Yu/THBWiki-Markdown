@@ -1,12 +1,8 @@
 # 文件:THBWiki-LOGO-堀兹姆利巴.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\03\ns6%3ATHBWiki-LOGO-%E5%A0%80%E5%85%B9%E5%A7%86%E5%88%A9%E5%B7%B4%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\03\ns6%3ATHBWiki-LOGO-%E5%A0%80%E5%85%B9%E5%A7%86%E5%88%A9%E5%B7%B4%2Epng.html -->
 
 THBWiki | Wiki词条分类用图
-
-
-
-
 
 
 ---

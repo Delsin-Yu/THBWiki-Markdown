@@ -1,17 +1,12 @@
 # 文件:まぃん☆しぃかぁbanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2a\ns6%3A%E3%81%BE%E3%81%83%E3%82%93%E2%98%86%E3%81%97%E3%81%83%E3%81%8B%E3%81%81banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2a\ns6%3A%E3%81%BE%E3%81%83%E3%82%93%E2%98%86%E3%81%97%E3%81%83%E3%81%8B%E3%81%81banner%2Egif.html -->
 
 まぃん☆しぃかぁ | 社团LOGO
 
   
 源地址:<img src="http://l-s.moo.jp/msb.gif" alt="msb.gif">
-
   
-
-
-
-
 
 ---
 

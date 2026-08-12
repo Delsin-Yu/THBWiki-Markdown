@@ -1,12 +1,8 @@
 # 文件:冰符「Icicle_Fall」（非想天则）-1.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d9\ns6%3A%E5%86%B0%E7%AC%A6%E3%80%8CIcicle_Fall%E3%80%8D%EF%BC%88%E9%9D%9E%E6%83%B3%E5%A4%A9%E5%88%99%EF%BC%89-1%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d9\ns6%3A%E5%86%B0%E7%AC%A6%E3%80%8CIcicle_Fall%E3%80%8D%EF%BC%88%E9%9D%9E%E6%83%B3%E5%A4%A9%E5%88%99%EF%BC%89-1%2Epng.html -->
 
 东方非想天则 | 敌机符卡 | 琪露诺
-
-
-
-
 
 
 ---

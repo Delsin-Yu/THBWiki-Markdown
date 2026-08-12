@@ -1,6 +1,6 @@
 # 文件:TLM_01.mid
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b8\ns6%3ATLM_01%2Emid.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b8\ns6%3ATLM_01%2Emid.html -->
 
 Torte_Le_Magic | Witch_of_Love_Potion | 东方幻想的音乐 | 官方MIDI
 
@@ -9,10 +9,6 @@ Witch of Love Potion トルテ ル マジック的1面主题曲。
 
 备注：游戏版本和东方幻想的音乐版本一样，未作修改。（听力分辨）
   
-
-
-
-
 
 ---
 

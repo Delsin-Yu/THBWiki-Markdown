@@ -1,6 +1,6 @@
 # 神魔討綺伝_～_Magus_in_Mystic_Geometries./攻略
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\3\3e\ns0%3A%E7%A5%9E%E9%AD%94%E8%A8%8E%E7%B6%BA%E4%BC%9D_%EF%BD%9E_Magus_in_Mystic_Geometries%2E%2F%E6%94%BB%E7%95%A5.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\3\3e\ns0%3A%E7%A5%9E%E9%AD%94%E8%A8%8E%E7%B6%BA%E4%BC%9D_%EF%BD%9E_Magus_in_Mystic_Geometries%2E%2F%E6%94%BB%E7%95%A5.html -->
 
 D.N.A.Softwares
 
@@ -10,10 +10,6 @@ D.N.A.Softwares
   
 游戏的核心就是通过获得更高的分数来解锁新的关卡，每次通关后根据不同的分数可以分别获得铜牌、银牌、金牌，但是在第五关必须击败神绮才能得到奖牌。
   
-
-
-
-
 
 ---
 

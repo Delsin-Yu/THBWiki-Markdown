@@ -1,6 +1,6 @@
 # 文件:Disc_Ex_～Re：st～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0d\ns6%3ADisc_Ex_%EF%BD%9ERe%EF%BC%9Ast%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0d\ns6%3ADisc_Ex_%EF%BD%9ERe%EF%BC%9Ast%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 SYNC.ART'S | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ SYNC.ART'S | 专辑封面 | 封面图片
   
 
 - [Disc Ex ～Re：st～](./Disc_Ex_～Re：st～.md)
-
-
-
 
 
 ---

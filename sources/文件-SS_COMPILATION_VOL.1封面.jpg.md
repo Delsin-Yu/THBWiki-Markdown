@@ -1,6 +1,6 @@
 # 文件:SS_COMPILATION_VOL.1封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5a\ns6%3ASS_COMPILATION_VOL%2E1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5a\ns6%3ASS_COMPILATION_VOL%2E1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 SEA_SPARROWS | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ SEA_SPARROWS | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [SS COMPILATION VOL.1](./SS_COMPILATION_VOL.1.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [SS COMPILATION VOL.1](./SS_COMPILATION_VOL.1.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

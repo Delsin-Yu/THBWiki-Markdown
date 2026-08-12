@@ -1,6 +1,6 @@
 # 文件:ROLE封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\46\ns6%3AROLE%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\46\ns6%3AROLE%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 ふじしむ | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [ROLE](./ROLE.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [ROLE](./ROLE.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
   
-源地址：[[1]](https://s.booth.pm/6469fa38-68bf-4808-a80e-40640aab5bfa/i/376268/ab40150f-2f7a-4603-ac99-a0fadbfe59df.png)
-  
-
-
-
-
+源地址：[\[1\]](https://s.booth.pm/6469fa38-68bf-4808-a80e-40640aab5bfa/i/376268/ab40150f-2f7a-4603-ac99-a0fadbfe59df.png)  
 
 ---
 

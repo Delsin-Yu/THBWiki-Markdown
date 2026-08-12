@@ -1,18 +1,13 @@
 # 文件:夢中界banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\58\ns6%3A%E5%A4%A2%E4%B8%AD%E7%95%8Cbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\58\ns6%3A%E5%A4%A2%E4%B8%AD%E7%95%8Cbanner%2Ejpg.html -->
 
 夢中界 | 社团LOGO
 
 
 ## 摘要
   
-源地址：[direct image link](http://mosoz.web.fc2.com/banner.jpg), [source page](http://mosoz.web.fc2.com/about.html)
-  
-
-
-
-
+源地址：[direct image link](http://mosoz.web.fc2.com/banner.jpg), [source page](http://mosoz.web.fc2.com/about.html)  
 
 ---
 

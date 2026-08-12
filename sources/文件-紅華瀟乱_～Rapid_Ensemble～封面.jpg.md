@@ -1,6 +1,6 @@
 # 文件:紅華瀟乱_～Rapid_Ensemble～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\11\ns6%3A%E7%B4%85%E8%8F%AF%E7%80%9F%E4%B9%B1_%EF%BD%9ERapid_Ensemble%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\11\ns6%3A%E7%B4%85%E8%8F%AF%E7%80%9F%E4%B9%B1_%EF%BD%9ERapid_Ensemble%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 As／Hi | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ As／Hi | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [紅華瀟乱 ～Rapid Ensemble～](./紅華瀟乱_～Rapid_Ensemble～.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [西行寺幽幽子](./西行寺幽幽子.md)
-
-
-
+- [紅華瀟乱 ～Rapid Ensemble～](./紅華瀟乱_～Rapid_Ensemble～.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [西行寺幽幽子](./西行寺幽幽子.md)
 
 
 ---

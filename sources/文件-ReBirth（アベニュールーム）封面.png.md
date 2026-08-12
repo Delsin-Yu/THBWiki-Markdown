@@ -1,6 +1,6 @@
 # 文件:ReBirth（アベニュールーム）封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f7\ns6%3AReBirth%EF%BC%88%E3%82%A2%E3%83%99%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%AB%E3%83%BC%E3%83%A0%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f7\ns6%3AReBirth%EF%BC%88%E3%82%A2%E3%83%99%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%AB%E3%83%BC%E3%83%A0%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 アベニュールーム | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [ReBirth（アベニュールーム）](./ReBirth（アベニュールーム）.md)  
-该封面包含的角色：- [物部布都](./物部布都.md)
-
-
-
+- [ReBirth（アベニュールーム）](./ReBirth（アベニュールーム）.md)该封面包含的角色：
+- [物部布都](./物部布都.md)
 
 
 ---

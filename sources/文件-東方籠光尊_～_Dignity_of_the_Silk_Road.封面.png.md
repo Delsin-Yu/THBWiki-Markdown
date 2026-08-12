@@ -1,6 +1,6 @@
 # 文件:東方籠光尊_～_Dignity_of_the_Silk_Road.封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7c\ns6%3A%E6%9D%B1%E6%96%B9%E7%B1%A0%E5%85%89%E5%B0%8A_%EF%BD%9E_Dignity_of_the_Silk_Road%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7c\ns6%3A%E6%9D%B1%E6%96%B9%E7%B1%A0%E5%85%89%E5%B0%8A_%EF%BD%9E_Dignity_of_the_Silk_Road%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 でぃーばいと | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方籠光尊 ～ Dignity of the Silk Road.](./東方籠光尊_～_Dignity_of_the_Silk_Road..md)  
-该封面包含的角色：- [圣天式玄奘](./圣天式玄奘.md)
-
-
-
+- [東方籠光尊 ～ Dignity of the Silk Road.](./東方籠光尊_～_Dignity_of_the_Silk_Road..md)该封面包含的角色：
+- [圣天式玄奘](./圣天式玄奘.md)
 
 
 ---

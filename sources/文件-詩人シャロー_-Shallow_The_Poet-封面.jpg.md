@@ -1,6 +1,6 @@
 # 文件:詩人シャロー_-Shallow_The_Poet-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bc\ns6%3A%E8%A9%A9%E4%BA%BA%E3%82%B7%E3%83%A3%E3%83%AD%E3%83%BC_-Shallow_The_Poet-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bc\ns6%3A%E8%A9%A9%E4%BA%BA%E3%82%B7%E3%83%A3%E3%83%AD%E3%83%BC_-Shallow_The_Poet-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Aphrodite | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ Aphrodite | 专辑封面 | 封面图片
   
 
 - [詩人シャロー -Shallow The Poet-](./詩人シャロー_-Shallow_The_Poet-.md)
-
-
-
 
 
 ---

@@ -1,16 +1,12 @@
 # 文件:ssg_Ex_Boss_Appendix_4.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2b\ns6%3Assg_Ex_Boss_Appendix_4%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2b\ns6%3Assg_Ex_Boss_Appendix_4%2Epng.html -->
 
 秋霜玉
 
   
 秋霜玉Ex面1Boss的使魔（天仪）像素图。
   
-
-
-
-
 
 ---
 

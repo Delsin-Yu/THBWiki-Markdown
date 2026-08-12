@@ -1,6 +1,6 @@
 # 文件:オーケストラ古匿集_vol._4封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\74\ns6%3A%E3%82%AA%E3%83%BC%E3%82%B1%E3%82%B9%E3%83%88%E3%83%A9%E5%8F%A4%E5%8C%BF%E9%9B%86_vol%2E_4%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\74\ns6%3A%E3%82%AA%E3%83%BC%E3%82%B1%E3%82%B9%E3%83%88%E3%83%A9%E5%8F%A4%E5%8C%BF%E9%9B%86_vol%2E_4%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 外柿山 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [オーケストラ古匿集 vol. 4](./オーケストラ古匿集_vol._4.md)  
-该封面包含的角色：- [蓬莱少女绘幻想](./蓬莱少女绘幻想.md)
-
-
-
+- [オーケストラ古匿集 vol. 4](./オーケストラ古匿集_vol._4.md)该封面包含的角色：
+- [蓬莱少女绘幻想](./蓬莱少女绘幻想.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:～Rhapsody～戀之迷路封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\64\ns6%3A%EF%BD%9ERhapsody%EF%BD%9E%E6%88%80%E4%B9%8B%E8%BF%B7%E8%B7%AF%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\64\ns6%3A%EF%BD%9ERhapsody%EF%BD%9E%E6%88%80%E4%B9%8B%E8%BF%B7%E8%B7%AF%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 White_Datura | 同人志封面 | 封面图片
 
@@ -10,16 +10,15 @@ White_Datura | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [～Rhapsody～戀之迷路](./～Rhapsody～戀之迷路.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- 十六夜咲夜 (未找到链接)- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)- [雾雨魔理沙](./雾雨魔理沙.md)
+- [～Rhapsody～戀之迷路](./～Rhapsody～戀之迷路.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [十六夜咲夜](./十六夜咲夜.md)
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-源地址：[[1]](https://blog-imgs-29-origin.fc2.com/e/l/o/elonsia/20080815052906.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://blog-imgs-29-origin.fc2.com/e/l/o/elonsia/20080815052906.jpg)  
 
 ---
 

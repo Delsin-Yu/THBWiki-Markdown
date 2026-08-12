@@ -1,12 +1,8 @@
 # 文件:800px-Yuugenmagan.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8f\ns6%3A800px-Yuugenmagan%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8f\ns6%3A800px-Yuugenmagan%2Epng.html -->
 
 幽幻魔眼
-
-
-
-
 
 
 ---

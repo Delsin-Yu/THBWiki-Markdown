@@ -1,12 +1,8 @@
 # 文件:Arte_Refact_banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c8\ns6%3AArte_Refact_banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c8\ns6%3AArte_Refact_banner%2Epng.html -->
 
 Arte_Refact | 社团LOGO
-
-
-
-
 
 
 ---

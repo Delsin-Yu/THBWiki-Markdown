@@ -1,14 +1,11 @@
 # 文件:thEIoS_21.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d4\ns6%3AthEIoS_21%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d4\ns6%3AthEIoS_21%2Emp3.html -->
 
 Player's_Score | 东方祈华梦制作组
 
 
 ## 文件说明
-
-
-
 
 ---
 

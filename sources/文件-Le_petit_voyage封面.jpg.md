@@ -1,6 +1,6 @@
 # 文件:Le_petit_voyage封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9d\ns6%3ALe_petit_voyage%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9d\ns6%3ALe_petit_voyage%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Prismriver_de_la_nuit | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Prismriver_de_la_nuit | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Le petit voyage](./Le_petit_voyage.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
-
-
-
+- [Le petit voyage](./Le_petit_voyage.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
 
 ---

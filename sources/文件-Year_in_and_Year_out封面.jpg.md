@@ -1,6 +1,6 @@
 # 文件:Year_in_and_Year_out封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\54\ns6%3AYear_in_and_Year_out%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\54\ns6%3AYear_in_and_Year_out%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Full_Color_Bullet | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Full_Color_Bullet | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Year in and Year out](./Year_in_and_Year_out.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [Year in and Year out](./Year_in_and_Year_out.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

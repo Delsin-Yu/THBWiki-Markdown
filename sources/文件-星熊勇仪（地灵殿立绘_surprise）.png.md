@@ -1,12 +1,8 @@
 # 文件:星熊勇仪（地灵殿立绘_surprise）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fc\ns6%3A%E6%98%9F%E7%86%8A%E5%8B%87%E4%BB%AA%EF%BC%88%E5%9C%B0%E7%81%B5%E6%AE%BF%E7%AB%8B%E7%BB%98_surprise%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fc\ns6%3A%E6%98%9F%E7%86%8A%E5%8B%87%E4%BB%AA%EF%BC%88%E5%9C%B0%E7%81%B5%E6%AE%BF%E7%AB%8B%E7%BB%98_surprise%EF%BC%89%2Epng.html -->
 
 ZUN绘 | 东方地灵殿 | 官方游戏立绘 | 星熊勇仪
-
-
-
-
 
 
 ---

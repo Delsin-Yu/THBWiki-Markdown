@@ -1,18 +1,13 @@
 # 文件:アバ番地banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ca\ns6%3A%E3%82%A2%E3%83%90%E7%95%AA%E5%9C%B0banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ca\ns6%3A%E3%82%A2%E3%83%90%E7%95%AA%E5%9C%B0banner%2Egif.html -->
 
 社团LOGO
 
 
 ## 摘要
   
-来源：[[1]](http://ochinchinriichi.blog98.fc2.com/blog-category-5.html)
-  
-
-
-
-
+来源：[\[1\]](http://ochinchinriichi.blog98.fc2.com/blog-category-5.html)  
 
 ---
 

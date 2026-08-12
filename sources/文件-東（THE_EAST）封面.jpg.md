@@ -1,6 +1,6 @@
 # 文件:東（THE_EAST）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4b\ns6%3A%E6%9D%B1%EF%BC%88THE_EAST%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4b\ns6%3A%E6%9D%B1%EF%BC%88THE_EAST%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 現代日本縮図
 
@@ -11,12 +11,7 @@
 - [東（THE EAST）](./東（THE_EAST）.md)
 
   
-源地址：[[1]](https://booth.pximg.net/c/620x620/5607682e-6510-437b-a902-46b5fc2eaf82/i/689372/4eed3c5d-75ea-4341-9a5a-af5a38d487ca_base_resized.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://booth.pximg.net/c/620x620/5607682e-6510-437b-a902-46b5fc2eaf82/i/689372/4eed3c5d-75ea-4341-9a5a-af5a38d487ca_base_resized.jpg)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:Like_a_Retrospective封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9c\ns6%3ALike_a_Retrospective%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9c\ns6%3ALike_a_Retrospective%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 少女理論観測所
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Like a Retrospective](./Like_a_Retrospective.md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)
-
-
-
+- [Like a Retrospective](./Like_a_Retrospective.md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
 
 
 ---

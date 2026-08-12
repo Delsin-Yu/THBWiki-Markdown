@@ -1,6 +1,6 @@
 # 文件:Fly_me_to_the_moon（さばーい出版）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7c\ns6%3AFly_me_to_the_moon%EF%BC%88%E3%81%95%E3%81%B0%E3%83%BC%E3%81%84%E5%87%BA%E7%89%88%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7c\ns6%3AFly_me_to_the_moon%EF%BC%88%E3%81%95%E3%81%B0%E3%83%BC%E3%81%84%E5%87%BA%E7%89%88%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 さばーい出版 | 同人志封面 | 封面图片
 
@@ -10,11 +10,14 @@
 使用了本文件作封面图片的作品：
   
 
-- [Fly me to the moon（さばーい出版）](./Fly_me_to_the_moon（さばーい出版）.md)  
-该封面包含的角色：- [清兰](./清兰.md)- [铃瑚](./铃瑚.md)- [哆来咪·苏伊特](./哆来咪·苏伊特.md)- [纯狐](./纯狐.md)- [稀神探女](./稀神探女.md)- [克劳恩皮丝](./克劳恩皮丝.md)- [赫卡提亚·拉碧斯拉祖利](./赫卡提亚·拉碧斯拉祖利.md)
-
-
-
+- [Fly me to the moon（さばーい出版）](./Fly_me_to_the_moon（さばーい出版）.md)该封面包含的角色：
+- [清兰](./清兰.md)
+- [铃瑚](./铃瑚.md)
+- [哆来咪·苏伊特](./哆来咪·苏伊特.md)
+- [纯狐](./纯狐.md)
+- [稀神探女](./稀神探女.md)
+- [克劳恩皮丝](./克劳恩皮丝.md)
+- [赫卡提亚·拉碧斯拉祖利](./赫卡提亚·拉碧斯拉祖利.md)
 
 
 ---

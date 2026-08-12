@@ -1,6 +1,6 @@
 # 文件:妖-AYAKASHI-_Singles_Best_vol.6_～その神のジレンマに～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\44\ns6%3A%E5%A6%96-AYAKASHI-_Singles_Best_vol%2E6_%EF%BD%9E%E3%81%9D%E3%81%AE%E7%A5%9E%E3%81%AE%E3%82%B8%E3%83%AC%E3%83%B3%E3%83%9E%E3%81%AB%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\44\ns6%3A%E5%A6%96-AYAKASHI-_Singles_Best_vol%2E6_%EF%BD%9E%E3%81%9D%E3%81%AE%E7%A5%9E%E3%81%AE%E3%82%B8%E3%83%AC%E3%83%B3%E3%83%9E%E3%81%AB%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 幽闭星光
 
@@ -8,11 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [妖-AYAKASHI- Singles Best vol.6 ～その神のジレンマに～](./妖-AYAKASHI-_Singles_Best_vol.6_～その神のジレンマに～.md)  
-该封面包含的角色：- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [键山雏](./键山雏.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [妖-AYAKASHI- Singles Best vol.6 ～その神のジレンマに～](./妖-AYAKASHI-_Singles_Best_vol.6_～その神のジレンマに～.md)该封面包含的角色：
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [键山雏](./键山雏.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:chiaro_di_Luna_vol.2封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c9\ns6%3Achiaro_di_Luna_vol%2E2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c9\ns6%3Achiaro_di_Luna_vol%2E2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 pietra_di_Luna | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@ pietra_di_Luna | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [chiaro di Luna vol.2](./chiaro_di_Luna_vol.2.md)  
-该封面包含的角色：- [苏我屠自古](./苏我屠自古.md)
-
-
-
+- [chiaro di Luna vol.2](./chiaro_di_Luna_vol.2.md)该封面包含的角色：
+- [苏我屠自古](./苏我屠自古.md)
 
 
 ---

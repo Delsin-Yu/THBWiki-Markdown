@@ -1,6 +1,6 @@
 # 文件:THE_SOUND_OF_DOUYINSHI.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\53\ns6%3ATHE_SOUND_OF_DOUYINSHI%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\53\ns6%3ATHE_SOUND_OF_DOUYINSHI%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 同音寺 | 封面图片
 
@@ -11,9 +11,6 @@
   
 
 - [THE SOUND OF DOUYINSHI.](./THE_SOUND_OF_DOUYINSHI..md)
-
-
-
 
 
 ---

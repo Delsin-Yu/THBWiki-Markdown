@@ -1,6 +1,6 @@
 # 文件:Colorful（Parasol_Pig）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ec\ns6%3AColorful%EF%BC%88Parasol_Pig%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ec\ns6%3AColorful%EF%BC%88Parasol_Pig%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Parasol_Pig | 专辑封面 | 封面图片
 
@@ -8,11 +8,16 @@ Parasol_Pig | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Colorful（Parasol Pig）](./Colorful（Parasol_Pig）.md)  
-该封面包含的角色：- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)- [西行寺幽幽子](./西行寺幽幽子.md)- [射命丸文](./射命丸文.md)- [风见幽香](./风见幽香.md)- [犬走椛](./犬走椛.md)- [古明地觉](./古明地觉.md)- [火焰猫燐](./火焰猫燐.md)- [灵乌路空](./灵乌路空.md)- [古明地恋](./古明地恋.md)
-
-
-
+- [Colorful（Parasol Pig）](./Colorful（Parasol_Pig）.md)该封面包含的角色：
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
+- [西行寺幽幽子](./西行寺幽幽子.md)
+- [射命丸文](./射命丸文.md)
+- [风见幽香](./风见幽香.md)
+- [犬走椛](./犬走椛.md)
+- [古明地觉](./古明地觉.md)
+- [火焰猫燐](./火焰猫燐.md)
+- [灵乌路空](./灵乌路空.md)
+- [古明地恋](./古明地恋.md)
 
 
 ---

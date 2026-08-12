@@ -1,6 +1,6 @@
 # 文件:Oblivion_Lights_(Limited_DLC)封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\06\ns6%3AOblivion_Lights_%28Limited_DLC%29%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\06\ns6%3AOblivion_Lights_%28Limited_DLC%29%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Alstroemeria_Records | 专辑封面 | 封面图片 | 魂音泉
 
@@ -10,10 +10,7 @@ Alstroemeria_Records | 专辑封面 | 封面图片 | 魂音泉
 使用了本文件作封面图片的作品：
   
 
-- [Oblivion Lights (Limited DLC)](./Oblivion_Lights_(Limited_DLC).md)
-
-
-
+- [Oblivion Lights (Limited DLC)](./Oblivion_Lights_(Limited_DLC%29.md)
 
 
 ---

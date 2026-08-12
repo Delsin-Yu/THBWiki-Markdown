@@ -1,6 +1,6 @@
 # 文件:豪族夢幻記_-GOUZOKU_TRILOGY-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8e\ns6%3A%E8%B1%AA%E6%97%8F%E5%A4%A2%E5%B9%BB%E8%A8%98_-GOUZOKU_TRILOGY-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8e\ns6%3A%E8%B1%AA%E6%97%8F%E5%A4%A2%E5%B9%BB%E8%A8%98_-GOUZOKU_TRILOGY-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Sparkle. | 同人志封面 | 封面图片
 
@@ -10,11 +10,10 @@ Sparkle. | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [豪族夢幻記 -GOUZOKU TRILOGY-](./豪族夢幻記_-GOUZOKU_TRILOGY-.md)  
-该封面包含的角色：- [苏我屠自古](./苏我屠自古.md)- [物部布都](./物部布都.md)- [丰聪耳神子](./丰聪耳神子.md)
-
-
-
+- [豪族夢幻記 -GOUZOKU TRILOGY-](./豪族夢幻記_-GOUZOKU_TRILOGY-.md)该封面包含的角色：
+- [苏我屠自古](./苏我屠自古.md)
+- [物部布都](./物部布都.md)
+- [丰聪耳神子](./丰聪耳神子.md)
 
 
 ---

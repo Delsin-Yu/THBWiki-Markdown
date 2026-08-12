@@ -1,12 +1,8 @@
 # 文件:THB梦缘社banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e1\ns6%3ATHB%E6%A2%A6%E7%BC%98%E7%A4%BEbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e1\ns6%3ATHB%E6%A2%A6%E7%BC%98%E7%A4%BEbanner%2Epng.html -->
 
 THB梦缘社 | 社团LOGO
-
-
-
-
 
 
 ---

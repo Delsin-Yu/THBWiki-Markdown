@@ -1,12 +1,8 @@
 # 文件:键山雏（风神录立绘）2pr.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\83\ns6%3A%E9%94%AE%E5%B1%B1%E9%9B%8F%EF%BC%88%E9%A3%8E%E7%A5%9E%E5%BD%95%E7%AB%8B%E7%BB%98%EF%BC%892pr%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\83\ns6%3A%E9%94%AE%E5%B1%B1%E9%9B%8F%EF%BC%88%E9%A3%8E%E7%A5%9E%E5%BD%95%E7%AB%8B%E7%BB%98%EF%BC%892pr%2Epng.html -->
 
 ZUN绘 | 东方风神录 | 官方游戏立绘 | 键山雏
-
-
-
-
 
 
 ---

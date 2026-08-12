@@ -1,6 +1,6 @@
 # 文件:FINE_MOTION_the_Best_東方_Limited_vol.I_／_vol.II_+_α_東方開拓村封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ca\ns6%3AFINE_MOTION_the_Best_%E6%9D%B1%E6%96%B9_Limited_vol%2EI_%EF%BC%8F_vol%2EII_%2B_%CE%B1_%E6%9D%B1%E6%96%B9%E9%96%8B%E6%8B%93%E6%9D%91%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ca\ns6%3AFINE_MOTION_the_Best_%E6%9D%B1%E6%96%B9_Limited_vol%2EI_%EF%BC%8F_vol%2EII_%2B_%CE%B1_%E6%9D%B1%E6%96%B9%E9%96%8B%E6%8B%93%E6%9D%91%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 FINE_MOTION | 专辑封面 | 封面图片
 
@@ -10,16 +10,14 @@ FINE_MOTION | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [FINE MOTION the Best 東方 Limited vol.I ／ vol.II + α 東方開拓村](./FINE_MOTION_the_Best_東方_Limited_vol.I_／_vol.II_+_α_東方開拓村.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)- [橙](./橙.md)- [八云蓝](./八云蓝.md)- [洩矢诹访子](./洩矢诹访子.md)
+- [FINE MOTION the Best 東方 Limited vol.I ／ vol.II + α 東方開拓村](./FINE_MOTION_the_Best_東方_Limited_vol.I_／_vol.II_+_α_東方開拓村.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
+- [橙](./橙.md)
+- [八云蓝](./八云蓝.md)
+- [洩矢诹访子](./洩矢诹访子.md)
 
   
-源地址：[direct image link (original size)](https://pbs.twimg.com/media/F6mDkMSbsAAauh_?format=jpg&amp;name=orig), [source tweet](https://twitter.com/OHGYixuhOpuO71o/status/1705038703482323224)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://pbs.twimg.com/media/F6mDkMSbsAAauh_?format=jpg&name=orig), [source tweet](https://twitter.com/OHGYixuhOpuO71o/status/1705038703482323224)  
 
 ---
 

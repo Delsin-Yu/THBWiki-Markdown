@@ -1,12 +1,8 @@
 # 文件:弦奏「Guarneri_del_Gesù」（妖妖梦）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3b\ns6%3A%E5%BC%A6%E5%A5%8F%E3%80%8CGuarneri_del_Ges%C3%B9%E3%80%8D%EF%BC%88%E5%A6%96%E5%A6%96%E6%A2%A6%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3b\ns6%3A%E5%BC%A6%E5%A5%8F%E3%80%8CGuarneri_del_Ges%C3%B9%E3%80%8D%EF%BC%88%E5%A6%96%E5%A6%96%E6%A2%A6%EF%BC%89%2Ejpg.html -->
 
 东方妖妖梦 | 敌机符卡 | 露娜萨·普莉兹姆利巴
-
-
-
-
 
 
 ---

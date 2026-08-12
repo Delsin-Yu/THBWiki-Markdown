@@ -1,12 +1,8 @@
 # 文件:铃瑚（绀珠传立绘_lost）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\97\ns6%3A%E9%93%83%E7%91%9A%EF%BC%88%E7%BB%80%E7%8F%A0%E4%BC%A0%E7%AB%8B%E7%BB%98_lost%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\97\ns6%3A%E9%93%83%E7%91%9A%EF%BC%88%E7%BB%80%E7%8F%A0%E4%BC%A0%E7%AB%8B%E7%BB%98_lost%EF%BC%89%2Epng.html -->
 
 ZUN绘 | 东方绀珠传 | 官方游戏立绘 | 铃瑚
-
-
-
-
 
 
 ---

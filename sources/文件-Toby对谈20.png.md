@@ -1,12 +1,8 @@
 # 文件:Toby对谈20.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2d\ns6%3AToby%E5%AF%B9%E8%B0%8820%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2d\ns6%3AToby%E5%AF%B9%E8%B0%8820%2Epng.html -->
 
 Toby对谈 | 东方妖妖梦
-
-
-
-
 
 
 ---

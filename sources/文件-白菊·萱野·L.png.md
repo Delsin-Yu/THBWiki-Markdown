@@ -1,12 +1,8 @@
 # 文件:白菊·萱野·L.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b1\ns6%3A%E7%99%BD%E8%8F%8A%C2%B7%E8%90%B1%E9%87%8E%C2%B7L%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b1\ns6%3A%E7%99%BD%E8%8F%8A%C2%B7%E8%90%B1%E9%87%8E%C2%B7L%2Epng.html -->
 
 二次角色立绘 | 東方邪星章製作チーム | 白菊·萱野·L
-
-
-
-
 
 
 ---

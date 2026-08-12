@@ -1,13 +1,11 @@
 # Last_Judgment
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\bc\ns0%3ALast_Judgment.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\bc\ns0%3ALast_Judgment.html -->
 
 2015年11月9日 由 Blood of Asura  发布的EP同人专辑，曲目主要风格是 Dance、其他电子，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人专辑 (未找到链接)** 的词条
-<center>
-
+**[二次创作同人专辑](./二次创作.md#同人音乐)**的词条<center>
 <table>
 <tbody><tr>
 <td class="mbox-image"><div style="width: 52px;">
@@ -16,9 +14,7 @@
 </tr>
 </tbody></table>
 
-
 </center>
-
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Last_Judgment封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/c/c2/Last_Judgment%E5%B0%81%E9%9D%A2.jpg/239px-Last_Judgment%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="239" height="252" srcset="https://upload.thwiki.cc/thumb/c/c2/Last_Judgment%E5%B0%81%E9%9D%A2.jpg/359px-Last_Judgment%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/c/c2/Last_Judgment%E5%B0%81%E9%9D%A2.jpg/479px-Last_Judgment%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="700" data-file-height="737"></a><div class="cover-char">角色：<a href="./爱丽丝·玛格特洛依德.md" title="爱丽丝·玛格特洛依德">爱丽丝·玛格特洛依德</a></div></td>
@@ -27,32 +23,25 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://bloodofasura.bandcamp.com/album/last-judgment">https://bloodofasura.bandcamp.com/album/last-judgment</a></td></tr></tbody></table>
 
 Last Judgment（同人专辑，Blood of Asura，2015） - 2015年11月9日 由 Blood of Asura  发布的EP同人专辑，曲目主要风格是 Dance、其他电子，分级为 一般向
-
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://bloodofasura.bandcamp.com/album/last-judgment">bandcamp</a></td></tr></tbody></table>
-
 
 
 ## Staff
   
- **Arrangement**   
+**Arrangement**  
 
 <table><tbody><tr><td><a href="./Blood_of_Asura.md" title="Blood of Asura">Blood of Asura</a></td><td></td><td>Tr.1-4</td></tr></tbody></table>
 
 
-
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Hanged_Dolls_and_Loaded_Shotguns" colspan="2" class="title">Hanged Dolls and Loaded Shotguns<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Blood of Asura&amp;ogmusic=人形裁判　～ 人の形弄びし少女&amp;fromwiki=Last_Judgment"><span title="搜索相似同人曲"></span></a></span></td><td class="time">05:20</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Blood_of_Asura.md" title="Blood of Asura">Blood of Asura</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Blood of Asura&amp;fromwiki=Last_Judgment"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=人形裁判　～ 人の形弄びし少女&amp;fromwiki=Last_Judgment"><span></span></a></span><div class="ogmusic"><a href="./人形裁判_～_人の形弄びし少女.md" class="mw-redirect" title="人形裁判 ～ 人の形弄びし少女">人形裁判　～ 人の形弄びし少女</a></div><div class="source"><a href="./东方妖妖梦_～_Perfect_Cherry_Blossom..md" class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr>
-<tr><td id="2" class="infoYD"><b>02</b></td><td id="Fuck_the_Judge" colspan="2" class="title">Fuck the Judge<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Blood of Asura&amp;ogmusic=六十年目の東方裁判　～ Fate of Sixty Years&amp;fromwiki=Last_Judgment"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:57</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Blood_of_Asura.md" title="Blood of Asura">Blood of Asura</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Blood of Asura&amp;fromwiki=Last_Judgment"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=六十年目の東方裁判　～ Fate of Sixty Years&amp;fromwiki=Last_Judgment"><span></span></a></span><div class="ogmusic"><a href="./六十年目の東方裁判_～_Fate_of_Sixty_Years.md" class="mw-redirect" title="六十年目の東方裁判 ～ Fate of Sixty Years">六十年目の東方裁判　～ Fate of Sixty Years</a></div><div class="source"><a href="./东方花映塚_～_Phantasmagoria_of_Flower_View..md" class="mw-redirect" title="东方花映塚 ～ Phantasmagoria of Flower View.">东方花映塚　～ Phantasmagoria of Flower View.</a></div></td></tr>
-<tr><td id="3" class="infoYD"><b>03</b></td><td id="Stopwatch_Killer" colspan="2" class="title">Stopwatch Killer<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Blood of Asura&amp;ogmusic=メイドと血の懐中時計，幽霊楽団　～ Phantom Ensemble&amp;fromwiki=Last_Judgment"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:30</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Blood_of_Asura.md" title="Blood of Asura">Blood of Asura</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Blood of Asura&amp;fromwiki=Last_Judgment"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=メイドと血の懐中時計，幽霊楽団　～ Phantom Ensemble&amp;fromwiki=Last_Judgment"><span></span></a></span><div class="ogmusic"><a href="./メイドと血の懐中時計.md" class="mw-redirect" title="メイドと血の懐中時計">メイドと血の懐中時計</a></div><div class="source"><a href="./东方红魔乡_～_the_Embodiment_of_Scarlet_Devil..md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div><hr><div class="ogmusic"><a href="./幽霊楽団_～_Phantom_Ensemble.md" class="mw-redirect" title="幽霊楽団 ～ Phantom Ensemble">幽霊楽団　～ Phantom Ensemble</a></div><div class="source"><a href="./东方妖妖梦_～_Perfect_Cherry_Blossom..md" class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr>
-<tr><td id="4" class="infoYD"><b>04</b></td><td id="Scarlet_Dreams" colspan="2" class="title">Scarlet Dreams<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Blood of Asura&amp;ogmusic=亡き王女の為のセプテット&amp;fromwiki=Last_Judgment"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:19</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Blood_of_Asura.md" title="Blood of Asura">Blood of Asura</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Blood of Asura&amp;fromwiki=Last_Judgment"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=亡き王女の為のセプテット&amp;fromwiki=Last_Judgment"><span></span></a></span><div class="ogmusic"><a href="./亡き王女の為のセプテット.md" class="mw-redirect" title="亡き王女の為のセプテット">亡き王女の為のセプテット</a></div><div class="source"><a href="./东方红魔乡_～_the_Embodiment_of_Scarlet_Devil..md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr></tbody></table>
-
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Hanged_Dolls_and_Loaded_Shotguns" colspan="2" class="title">Hanged Dolls and Loaded Shotguns</td><td class="time">05:20</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Blood_of_Asura.md" title="Blood of Asura">Blood of Asura</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./人偶裁判_～_玩弄人形的少女.md" class="mw-redirect" title="人形裁判 ～ 人の形弄びし少女">人形裁判　～ 人の形弄びし少女</a></div><div class="source"><a href="./东方妖妖梦.md" class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr>
+<tr><td id="2" class="infoYD"><b>02</b></td><td id="Fuck_the_Judge" colspan="2" class="title">Fuck the Judge</td><td class="time">03:57</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Blood_of_Asura.md" title="Blood of Asura">Blood of Asura</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./第六十年的东方审判_～_Fate_of_Sixty_Years.md" class="mw-redirect" title="六十年目の東方裁判 ～ Fate of Sixty Years">六十年目の東方裁判　～ Fate of Sixty Years</a></div><div class="source"><a href="./东方花映塚.md" class="mw-redirect" title="东方花映塚 ～ Phantasmagoria of Flower View.">东方花映塚　～ Phantasmagoria of Flower View.</a></div></td></tr>
+<tr><td id="3" class="infoYD"><b>03</b></td><td id="Stopwatch_Killer" colspan="2" class="title">Stopwatch Killer</td><td class="time">03:30</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Blood_of_Asura.md" title="Blood of Asura">Blood of Asura</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./女仆与血之怀表.md" class="mw-redirect" title="メイドと血の懐中時計">メイドと血の懐中時計</a></div><div class="source"><a href="./东方红魔乡.md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div><hr><div class="ogmusic"><a href="./幽灵乐团_～_Phantom_Ensemble.md" class="mw-redirect" title="幽霊楽団 ～ Phantom Ensemble">幽霊楽団　～ Phantom Ensemble</a></div><div class="source"><a href="./东方妖妖梦.md" class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr>
+<tr><td id="4" class="infoYD"><b>04</b></td><td id="Scarlet_Dreams" colspan="2" class="title">Scarlet Dreams</td><td class="time">04:19</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Blood_of_Asura.md" title="Blood of Asura">Blood of Asura</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./献给已逝公主的七重奏.md" class="mw-redirect" title="亡き王女の為のセプテット">亡き王女の為のセプテット</a></div><div class="source"><a href="./东方红魔乡.md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr></tbody></table>
 
 
 ## 评论
-
-
-
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:NO_SMOKING_DRAGON封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\46\ns6%3ANO_SMOKING_DRAGON%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\46\ns6%3ANO_SMOKING_DRAGON%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 純情リーマー
 
@@ -10,11 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [NO SMOKING DRAGON](./NO_SMOKING_DRAGON.md)  
-该封面包含的角色：- [坂田合欢](./坂田合欢.md)- [豪德寺三花](./豪德寺三花.md)- [驹草山如](./驹草山如.md)- [山城高岭](./山城高岭.md)
-
-
-
+- [NO SMOKING DRAGON](./NO_SMOKING_DRAGON.md)该封面包含的角色：
+- [坂田合欢](./坂田合欢.md)
+- [豪德寺三花](./豪德寺三花.md)
+- [驹草山如](./驹草山如.md)
+- [山城高岭](./山城高岭.md)
 
 
 ---

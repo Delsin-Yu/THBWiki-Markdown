@@ -1,6 +1,6 @@
 # 文件:ORIENT_vol.2_The_Embodiment_of_Scarlet_Devil.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f5\ns6%3AORIENT_vol%2E2_The_Embodiment_of_Scarlet_Devil%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f5\ns6%3AORIENT_vol%2E2_The_Embodiment_of_Scarlet_Devil%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 まっとかん。 | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [ORIENT vol.2 The Embodiment of Scarlet Devil.](./ORIENT_vol.2_The_Embodiment_of_Scarlet_Devil..md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)
-
-
-
+- [ORIENT vol.2 The Embodiment of Scarlet Devil.](./ORIENT_vol.2_The_Embodiment_of_Scarlet_Devil..md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
 
 
 ---

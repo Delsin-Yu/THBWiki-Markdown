@@ -1,16 +1,12 @@
 # 模板:重庆CT
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\2\2f\ns10%3A%E9%87%8D%E5%BA%86CT.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\2\2f\ns10%3A%E9%87%8D%E5%BA%86CT.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

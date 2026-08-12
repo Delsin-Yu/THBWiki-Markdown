@@ -1,12 +1,8 @@
 # 文件:米斯蒂娅·萝蕾拉（花映塚体验版Manual）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e1\ns6%3A%E7%B1%B3%E6%96%AF%E8%92%82%E5%A8%85%C2%B7%E8%90%9D%E8%95%BE%E6%8B%89%EF%BC%88%E8%8A%B1%E6%98%A0%E5%A1%9A%E4%BD%93%E9%AA%8C%E7%89%88Manual%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e1\ns6%3A%E7%B1%B3%E6%96%AF%E8%92%82%E5%A8%85%C2%B7%E8%90%9D%E8%95%BE%E6%8B%89%EF%BC%88%E8%8A%B1%E6%98%A0%E5%A1%9A%E4%BD%93%E9%AA%8C%E7%89%88Manual%EF%BC%89%2Ejpg.html -->
 
 Manual配图 | 东方花映塚 | 米斯蒂娅·萝蕾拉
-
-
-
-
 
 
 ---

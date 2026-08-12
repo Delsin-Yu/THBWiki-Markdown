@@ -1,37 +1,21 @@
 # GRIFFON/POPver/琪露诺
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\07\ns0%3AGRIFFON%2FPOPver%2F%E7%90%AA%E9%9C%B2%E8%AF%BA.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\07\ns0%3AGRIFFON%2FPOPver%2F%E7%90%AA%E9%9C%B2%E8%AF%BA.html -->
 
 琪露诺PVCFigure手办模型
 
 本页是关于东方Project  
- **相关实体周边 (未找到链接)** 的词条
-
+**相关实体周边 (未找到链接)**的词条
 ## 模型信息
 
-<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 琪露诺 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>POPver</td></tr><tr><td class="label">角色</td><td><a href="./琪露诺.md" title="琪露诺">琪露诺</a></td></tr><tr><td class="label">原型师</td><td><a href="./ポップ（豚乙女）.md" title="ポップ（豚乙女）" unred="">ぽっぷ</a></td></tr><tr><td class="label">尺寸</td><td>160mm</td></tr><tr><td class="label">状态</td><td>已发售</td></tr><tr><td class="label">售价</td><td>6800日元</td></tr><tr><td class="label">首发日期</td><td>2011-11</td></tr><tr><td class="label">发售方</td><td><a href="/index.php?title=GRIFFON&amp;action=edit&amp;redlink=1" class="new" title="GRIFFON（页面不存在）">GRIFFON</a></td></tr></tbody></table>
+<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 琪露诺 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>POPver</td></tr><tr><td class="label">角色</td><td><a href="./琪露诺.md" title="琪露诺">琪露诺</a></td></tr><tr><td class="label">原型师</td><td><a href="./ポップ（豚乙女）.md" title="ポップ（豚乙女）" unred="">ぽっぷ</a></td></tr><tr><td class="label">尺寸</td><td>160mm</td></tr><tr><td class="label">状态</td><td>已发售</td></tr><tr><td class="label">售价</td><td>6800日元</td></tr><tr><td class="label">首发日期</td><td>2011-11</td></tr><tr><td class="label">发售方</td><td><a class="new" title="GRIFFON（页面不存在）">GRIFFON</a></td></tr></tbody></table>
 
 GRIFFON/POPver/琪露诺（周边） - 琪露诺PVCFigure手办模型
-
 ## 参考图片
-
-
-
-[](./文件-GRIFFONPOPver琪露诺-1.jpg.md)
-
-
-[](./文件-GRIFFONPOPver琪露诺-2.jpg.md)
-
-
-[](./文件-GRIFFONPOPver琪露诺-3.jpg.md)
-
+<img alt="GRIFFONPOPver琪露诺" src="https://upload.thwiki.cc/thumb/4/43/GRIFFONPOPver%E7%90%AA%E9%9C%B2%E8%AF%BA-1.jpg/160px-GRIFFONPOPver%E7%90%AA%E9%9C%B2%E8%AF%BA-1.jpg" decoding="async" loading="lazy" width="160" height="240" srcset="https://upload.thwiki.cc/thumb/4/43/GRIFFONPOPver%E7%90%AA%E9%9C%B2%E8%AF%BA-1.jpg/240px-GRIFFONPOPver%E7%90%AA%E9%9C%B2%E8%AF%BA-1.jpg 1.5x, https://upload.thwiki.cc/thumb/4/43/GRIFFONPOPver%E7%90%AA%E9%9C%B2%E8%AF%BA-1.jpg/320px-GRIFFONPOPver%E7%90%AA%E9%9C%B2%E8%AF%BA-1.jpg 2x" data-file-width="533" data-file-height="800">
+<img alt="GRIFFONPOPver琪露诺" src="https://upload.thwiki.cc/thumb/e/ef/GRIFFONPOPver%E7%90%AA%E9%9C%B2%E8%AF%BA-2.jpg/160px-GRIFFONPOPver%E7%90%AA%E9%9C%B2%E8%AF%BA-2.jpg" decoding="async" loading="lazy" width="160" height="240" srcset="https://upload.thwiki.cc/thumb/e/ef/GRIFFONPOPver%E7%90%AA%E9%9C%B2%E8%AF%BA-2.jpg/240px-GRIFFONPOPver%E7%90%AA%E9%9C%B2%E8%AF%BA-2.jpg 1.5x, https://upload.thwiki.cc/thumb/e/ef/GRIFFONPOPver%E7%90%AA%E9%9C%B2%E8%AF%BA-2.jpg/320px-GRIFFONPOPver%E7%90%AA%E9%9C%B2%E8%AF%BA-2.jpg 2x" data-file-width="533" data-file-height="800">
+<img alt="GRIFFONPOPver琪露诺" src="https://upload.thwiki.cc/thumb/3/3b/GRIFFONPOPver%E7%90%AA%E9%9C%B2%E8%AF%BA-3.jpg/160px-GRIFFONPOPver%E7%90%AA%E9%9C%B2%E8%AF%BA-3.jpg" decoding="async" loading="lazy" width="160" height="240" srcset="https://upload.thwiki.cc/thumb/3/3b/GRIFFONPOPver%E7%90%AA%E9%9C%B2%E8%AF%BA-3.jpg/240px-GRIFFONPOPver%E7%90%AA%E9%9C%B2%E8%AF%BA-3.jpg 1.5x, https://upload.thwiki.cc/thumb/3/3b/GRIFFONPOPver%E7%90%AA%E9%9C%B2%E8%AF%BA-3.jpg/320px-GRIFFONPOPver%E7%90%AA%E9%9C%B2%E8%AF%BA-3.jpg 2x" data-file-width="533" data-file-height="800">
 公式图
-
-
-
-
-
-
 
 ---
 

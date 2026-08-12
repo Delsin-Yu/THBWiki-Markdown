@@ -1,6 +1,6 @@
 # 文件:RAVER'S_NEST_presents_DJ_katsu_&_DJ_ELEMENTAS_BEST_MIX封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\00\ns6%3ARAVER%27S_NEST_presents_DJ_katsu_%26_DJ_ELEMENTAS_BEST_MIX%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\00\ns6%3ARAVER%27S_NEST_presents_DJ_katsu_%26_DJ_ELEMENTAS_BEST_MIX%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 DiGiTAL_WiNG | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ DiGiTAL_WiNG | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [RAVER'S NEST presents DJ katsu &amp; DJ ELEMENTAS BEST MIX](./RAVER'S_NEST_presents_DJ_katsu_&_DJ_ELEMENTAS_BEST_MIX.md)  
-该封面包含的角色：- 原创角色 (未找到链接)
-
-
-
+- [RAVER'S NEST presents DJ katsu & DJ ELEMENTAS BEST MIX](./RAVER'S_NEST_presents_DJ_katsu_&_DJ_ELEMENTAS_BEST_MIX.md)该封面包含的角色：
+- 原创角色 (未找到链接)
 
 
 ---

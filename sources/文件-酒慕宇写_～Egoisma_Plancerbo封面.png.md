@@ -1,6 +1,6 @@
 # 文件:酒慕宇写_～Egoisma_Plancerbo封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c1\ns6%3A%E9%85%92%E6%85%95%E5%AE%87%E5%86%99_%EF%BD%9EEgoisma_Plancerbo%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c1\ns6%3A%E9%85%92%E6%85%95%E5%AE%87%E5%86%99_%EF%BD%9EEgoisma_Plancerbo%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 作画法界 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [酒慕宇写 ～Egoisma Plancerbo](./酒慕宇写_～Egoisma_Plancerbo.md)  
-该封面包含的角色：- [比那名居天子](./比那名居天子.md)
-
-
-
+- [酒慕宇写 ～Egoisma Plancerbo](./酒慕宇写_～Egoisma_Plancerbo.md)该封面包含的角色：
+- [比那名居天子](./比那名居天子.md)
 
 
 ---

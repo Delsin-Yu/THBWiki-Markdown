@@ -1,6 +1,6 @@
 # 文件:LUNAEMBLEM_反逆の蒼月封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ca\ns6%3ALUNAEMBLEM_%E5%8F%8D%E9%80%86%E3%81%AE%E8%92%BC%E6%9C%88%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ca\ns6%3ALUNAEMBLEM_%E5%8F%8D%E9%80%86%E3%81%AE%E8%92%BC%E6%9C%88%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 紅賛歌
 
@@ -10,11 +10,16 @@
 使用了本文件作封面图片的作品：
   
 
-- [LUNAEMBLEM 反逆の蒼月](./LUNAEMBLEM_反逆の蒼月.md)  
-该封面包含的角色：- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)- [八意永琳](./八意永琳.md)- [蓬莱山辉夜](./蓬莱山辉夜.md)- [绵月丰姬](./绵月丰姬.md)- [绵月依姬](./绵月依姬.md)- [纯狐](./纯狐.md)- [稀神探女](./稀神探女.md)- [克劳恩皮丝](./克劳恩皮丝.md)- [赫卡提亚·拉碧斯拉祖利](./赫卡提亚·拉碧斯拉祖利.md)
-
-
-
+- [LUNAEMBLEM 反逆の蒼月](./LUNAEMBLEM_反逆の蒼月.md)该封面包含的角色：
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
+- [八意永琳](./八意永琳.md)
+- [蓬莱山辉夜](./蓬莱山辉夜.md)
+- [绵月丰姬](./绵月丰姬.md)
+- [绵月依姬](./绵月依姬.md)
+- [纯狐](./纯狐.md)
+- [稀神探女](./稀神探女.md)
+- [克劳恩皮丝](./克劳恩皮丝.md)
+- [赫卡提亚·拉碧斯拉祖利](./赫卡提亚·拉碧斯拉祖利.md)
 
 
 ---

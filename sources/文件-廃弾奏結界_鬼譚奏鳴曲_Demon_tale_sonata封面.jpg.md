@@ -1,6 +1,6 @@
 # 文件:廃弾奏結界_鬼譚奏鳴曲_Demon_tale_sonata封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d1\ns6%3A%E5%BB%83%E5%BC%BE%E5%A5%8F%E7%B5%90%E7%95%8C_%E9%AC%BC%E8%AD%9A%E5%A5%8F%E9%B3%B4%E6%9B%B2_Demon_tale_sonata%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d1\ns6%3A%E5%BB%83%E5%BC%BE%E5%A5%8F%E7%B5%90%E7%95%8C_%E9%AC%BC%E8%AD%9A%E5%A5%8F%E9%B3%B4%E6%9B%B2_Demon_tale_sonata%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 dBu_music | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ dBu_music | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [廃弾奏結界 鬼譚奏鳴曲 Demon tale sonata](./廃弾奏結界_鬼譚奏鳴曲_Demon_tale_sonata.md)  
-该封面包含的角色：- [火焰猫燐](./火焰猫燐.md)- [灵乌路空](./灵乌路空.md)
-
-
-
+- [廃弾奏結界 鬼譚奏鳴曲 Demon tale sonata](./廃弾奏結界_鬼譚奏鳴曲_Demon_tale_sonata.md)该封面包含的角色：
+- [火焰猫燐](./火焰猫燐.md)
+- [灵乌路空](./灵乌路空.md)
 
 
 ---

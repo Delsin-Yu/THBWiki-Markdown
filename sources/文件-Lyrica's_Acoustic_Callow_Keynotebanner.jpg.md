@@ -1,12 +1,8 @@
 # 文件:Lyrica's_Acoustic_Callow_Keynotebanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f1\ns6%3ALyrica%27s_Acoustic_Callow_Keynotebanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f1\ns6%3ALyrica%27s_Acoustic_Callow_Keynotebanner%2Ejpg.html -->
 
 Lyrica's_Acoustic_Callow_Keynote | 社团LOGO
-
-
-
-
 
 
 ---

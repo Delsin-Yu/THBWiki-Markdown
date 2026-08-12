@@ -1,6 +1,6 @@
 # 文件:Art_Exhibition封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\65\ns6%3AArt_Exhibition%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\65\ns6%3AArt_Exhibition%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 GET_IN_THE_RING | 专辑封面 | 封面图片
 
@@ -8,11 +8,15 @@ GET_IN_THE_RING | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Art Exhibition](./Art_Exhibition.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- 十六夜咲夜 (未找到链接)- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)- [蓬莱山辉夜](./蓬莱山辉夜.md)- [伊吹萃香](./伊吹萃香.md)- [二岩猯藏](./二岩猯藏.md)- [本居小铃](./本居小铃.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [Art Exhibition](./Art_Exhibition.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [十六夜咲夜](./十六夜咲夜.md)
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
+- [蓬莱山辉夜](./蓬莱山辉夜.md)
+- [伊吹萃香](./伊吹萃香.md)
+- [二岩猯藏](./二岩猯藏.md)
+- [本居小铃](./本居小铃.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

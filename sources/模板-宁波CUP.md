@@ -1,16 +1,12 @@
 # 模板:宁波CUP
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\4\4c\ns10%3A%E5%AE%81%E6%B3%A2CUP.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\4\4c\ns10%3A%E5%AE%81%E6%B3%A2CUP.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

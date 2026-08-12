@@ -1,6 +1,6 @@
 # 文件:Folkloro_de_Ihatov封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3a\ns6%3AFolkloro_de_Ihatov%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3a\ns6%3AFolkloro_de_Ihatov%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 うんちく商事 | 专辑封面 | 封面图片
 
@@ -8,16 +8,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [Folkloro de Ihatov](./Folkloro_de_Ihatov.md)  
-该封面包含的角色：- [小野塚小町](./小野塚小町.md)- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)
+- [Folkloro de Ihatov](./Folkloro_de_Ihatov.md)该封面包含的角色：
+- [小野塚小町](./小野塚小町.md)
+- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)
 
   
-源地址：[[1]](https://pbs.twimg.com/media/CzjlGY_UUAEt72f.jpg:large)
-  
-
-
-
-
+源地址：[\[1\]](https://pbs.twimg.com/media/CzjlGY_UUAEt72f.jpg:large)  
 
 ---
 

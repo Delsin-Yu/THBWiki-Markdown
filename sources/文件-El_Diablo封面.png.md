@@ -1,6 +1,6 @@
 # 文件:El_Diablo封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d4\ns6%3AEl_Diablo%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d4\ns6%3AEl_Diablo%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Unprepared_Orchestra | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Unprepared_Orchestra | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [El Diablo](./El_Diablo.md)  
-该封面包含的角色：- [小恶魔](./小恶魔.md)
-
-
-
+- [El Diablo](./El_Diablo.md)该封面包含的角色：
+- [小恶魔](./小恶魔.md)
 
 
 ---

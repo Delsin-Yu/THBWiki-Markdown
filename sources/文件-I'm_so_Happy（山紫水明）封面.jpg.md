@@ -1,6 +1,6 @@
 # 文件:I'm_so_Happy（山紫水明）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e2\ns6%3AI%27m_so_Happy%EF%BC%88%E5%B1%B1%E7%B4%AB%E6%B0%B4%E6%98%8E%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e2\ns6%3AI%27m_so_Happy%EF%BC%88%E5%B1%B1%E7%B4%AB%E6%B0%B4%E6%98%8E%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 山紫水明
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [I'm so Happy（山紫水明）](./I'm_so_Happy（山紫水明）.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
-
-
-
+- [I'm so Happy（山紫水明）](./I'm_so_Happy（山紫水明）.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:紅奏七種_-神奏楽曲集BEST-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\10\ns6%3A%E7%B4%85%E5%A5%8F%E4%B8%83%E7%A8%AE_-%E7%A5%9E%E5%A5%8F%E6%A5%BD%E6%9B%B2%E9%9B%86BEST-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\10\ns6%3A%E7%B4%85%E5%A5%8F%E4%B8%83%E7%A8%AE_-%E7%A5%9E%E5%A5%8F%E6%A5%BD%E6%9B%B2%E9%9B%86BEST-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 神楽庭園
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [紅奏七種 -神奏楽曲集BEST-](./紅奏七種_-神奏楽曲集BEST-.md)  
-该封面包含的角色：- [西行寺幽幽子](./西行寺幽幽子.md)
-
-
-
+- [紅奏七種 -神奏楽曲集BEST-](./紅奏七種_-神奏楽曲集BEST-.md)该封面包含的角色：
+- [西行寺幽幽子](./西行寺幽幽子.md)
 
 
 ---

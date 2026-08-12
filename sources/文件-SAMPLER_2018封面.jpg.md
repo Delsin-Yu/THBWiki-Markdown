@@ -1,6 +1,6 @@
 # 文件:SAMPLER_2018封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c0\ns6%3ASAMPLER_2018%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c0\ns6%3ASAMPLER_2018%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ついったー東方部 | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@
   
 
 - [SAMPLER 2018](./SAMPLER_2018.md)
-
-
-
 
 
 ---

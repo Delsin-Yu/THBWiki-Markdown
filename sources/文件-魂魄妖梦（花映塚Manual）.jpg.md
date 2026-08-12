@@ -1,12 +1,8 @@
 # 文件:魂魄妖梦（花映塚Manual）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b7\ns6%3A%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6%EF%BC%88%E8%8A%B1%E6%98%A0%E5%A1%9AManual%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b7\ns6%3A%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6%EF%BC%88%E8%8A%B1%E6%98%A0%E5%A1%9AManual%EF%BC%89%2Ejpg.html -->
 
 Manual配图 | 东方花映塚 | 魂魄妖梦
-
-
-
-
 
 
 ---

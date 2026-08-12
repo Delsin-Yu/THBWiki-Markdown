@@ -1,16 +1,12 @@
 # 文件:ssg_Bubble_8.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b6\ns6%3Assg_Bubble_8%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b6\ns6%3Assg_Bubble_8%2Epng.html -->
 
 秋霜玉
 
   
 《秋霜玉》弹幕泡弹8像素版。
   
-
-
-
-
 
 ---
 

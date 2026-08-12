@@ -1,21 +1,20 @@
 # Embryo's_Dream
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\9\94\ns0%3AEmbryo%27s_Dream.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\9\94\ns0%3AEmbryo%27s_Dream.html -->
 
 2013年5月26日 由 遊閑地，PURE 于 博丽神社例大祭10 发布的漫画同人志，一共24页，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人志 (未找到链接)** 的词条
-
+**[二次创作同人志](./二次创作.md#同人志)**的词条
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Embryo's_Dream封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/7/78/Embryo%27s_Dream%E5%B0%81%E9%9D%A2.jpg/98px-Embryo%27s_Dream%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="98" height="140" srcset="https://upload.thwiki.cc/thumb/7/78/Embryo%27s_Dream%E5%B0%81%E9%9D%A2.jpg/148px-Embryo%27s_Dream%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/7/78/Embryo%27s_Dream%E5%B0%81%E9%9D%A2.jpg/197px-Embryo%27s_Dream%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="270" data-file-height="384"></a><div class="cover-char">角色：<a href="./古明地觉.md" title="古明地觉">古明地觉</a></div></td>
-</tr><tr><td class="label">名称</td><td colspan="2"> Embryo&#39;s Dream </td></tr><tr><td class="label">制作方</td><td><a href="./遊閑地.md" title="遊閑地">遊閑地</a><br><a href="./PURE.md" title="PURE">PURE</a></td><td class="cover-artwork" rowspan="5" style="min-width:140px;"><a href="./文件-Embryo's_Dream封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/7/78/Embryo%27s_Dream%E5%B0%81%E9%9D%A2.jpg/98px-Embryo%27s_Dream%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="98" height="140" srcset="https://upload.thwiki.cc/thumb/7/78/Embryo%27s_Dream%E5%B0%81%E9%9D%A2.jpg/148px-Embryo%27s_Dream%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/7/78/Embryo%27s_Dream%E5%B0%81%E9%9D%A2.jpg/197px-Embryo%27s_Dream%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="270" data-file-height="384"></a><div class="cover-char">角色：<a href="./古明地觉.md" title="古明地觉">古明地觉</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2013-05-26&#160;（<a href="/展会作品列表?e=%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD%2310">第十回 博麗神社例大祭</a>）</td></tr><tr><td class="label">类型</td><td>漫画</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">页数</td><td>24P</td></tr></tbody></table>
+</tr><tr><td class="label">名称</td><td colspan="2"> Embryo's Dream </td></tr><tr><td class="label">制作方</td><td><a href="./遊閑地.md" title="遊閑地">遊閑地</a><br><a href="./PURE.md" title="PURE">PURE</a></td><td class="cover-artwork" rowspan="5" style="min-width:140px;"><a href="./文件-Embryo's_Dream封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/7/78/Embryo%27s_Dream%E5%B0%81%E9%9D%A2.jpg/98px-Embryo%27s_Dream%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="98" height="140" srcset="https://upload.thwiki.cc/thumb/7/78/Embryo%27s_Dream%E5%B0%81%E9%9D%A2.jpg/148px-Embryo%27s_Dream%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/7/78/Embryo%27s_Dream%E5%B0%81%E9%9D%A2.jpg/197px-Embryo%27s_Dream%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="270" data-file-height="384"></a><div class="cover-char">角色：<a href="./古明地觉.md" title="古明地觉">古明地觉</a></div></td>
+</tr><tr><td class="label">首发日期</td><td>2013-05-26 （<a href="./展会作品列表.md#10">第十回 博麗神社例大祭</a>）</td></tr><tr><td class="label">类型</td><td>漫画</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">页数</td><td>24P</td></tr></tbody></table>
 
 Embryo's Dream（同人志，遊閑地，PURE，2013） - 2013年5月26日 由 遊閑地，PURE 于 博丽神社例大祭10 发布的漫画同人志，一共24页，分级为 一般向
-
 ## Staff
+
 - こずみっく (未找到链接)
 - [南方純](./南方純.md)
 - なもり (未找到链接)
@@ -24,9 +23,6 @@ Embryo's Dream（同人志，遊閑地，PURE，2013） - 2013年5月26日 由 �
 
 
 ## 评论
-
-
-
 
 ---
 

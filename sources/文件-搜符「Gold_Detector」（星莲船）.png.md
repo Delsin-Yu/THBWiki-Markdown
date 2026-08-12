@@ -1,12 +1,8 @@
 # 文件:搜符「Gold_Detector」（星莲船）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\30\ns6%3A%E6%90%9C%E7%AC%A6%E3%80%8CGold_Detector%E3%80%8D%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\30\ns6%3A%E6%90%9C%E7%AC%A6%E3%80%8CGold_Detector%E3%80%8D%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%EF%BC%89%2Epng.html -->
 
 东方星莲船 | 娜兹玲 | 敌机符卡
-
-
-
-
 
 
 ---

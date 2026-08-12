@@ -1,6 +1,6 @@
 # 文件:東方山海傳_~_the_Potential_Crisis封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6d\ns6%3A%E6%9D%B1%E6%96%B9%E5%B1%B1%E6%B5%B7%E5%82%B3_%7E_the_Potential_Crisis%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6d\ns6%3A%E6%9D%B1%E6%96%B9%E5%B1%B1%E6%B5%B7%E5%82%B3_%7E_the_Potential_Crisis%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 旧雨忆梦幻想乐团
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方山海傳 ~ the Potential Crisis](./東方山海傳_~_the_Potential_Crisis.md)  
-该封面包含的角色：- [落霞](./落霞.md)
-
-
-
+- [東方山海傳 ~ the Potential Crisis](./東方山海傳_~_the_Potential_Crisis.md)该封面包含的角色：
+- [落霞](./落霞.md)
 
 
 ---

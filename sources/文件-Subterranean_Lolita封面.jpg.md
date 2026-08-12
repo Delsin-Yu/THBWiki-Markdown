@@ -1,6 +1,6 @@
 # 文件:Subterranean_Lolita封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\77\ns6%3ASubterranean_Lolita%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\77\ns6%3ASubterranean_Lolita%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 インクリボン | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Subterranean Lolita](./Subterranean_Lolita.md)  
-该封面包含的角色：- [古明地恋](./古明地恋.md)
+- [Subterranean Lolita](./Subterranean_Lolita.md)该封面包含的角色：
+- [古明地恋](./古明地恋.md)
 
   
-源地址：[direct image link (original size)](https://pbs.twimg.com/media/Dpy_ZkEUwAA8ee3?format=jpg&amp;name=orig), [source tweet](https://twitter.com/miumiu8822/status/1052927685716930561)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://pbs.twimg.com/media/Dpy_ZkEUwAA8ee3?format=jpg&name=orig), [source tweet](https://twitter.com/miumiu8822/status/1052927685716930561)  
 
 ---
 

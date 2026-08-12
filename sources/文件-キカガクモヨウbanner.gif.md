@@ -1,12 +1,8 @@
 # 文件:キカガクモヨウbanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4d\ns6%3A%E3%82%AD%E3%82%AB%E3%82%AC%E3%82%AF%E3%83%A2%E3%83%A8%E3%82%A6banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4d\ns6%3A%E3%82%AD%E3%82%AB%E3%82%AC%E3%82%AF%E3%83%A2%E3%83%A8%E3%82%A6banner%2Egif.html -->
 
 キカガクモヨウ | 社团LOGO
-
-
-
-
 
 
 ---

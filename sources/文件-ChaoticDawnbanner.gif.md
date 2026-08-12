@@ -1,16 +1,11 @@
 # 文件:ChaoticDawnbanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d1\ns6%3AChaoticDawnbanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d1\ns6%3AChaoticDawnbanner%2Egif.html -->
 
 ChaoticDawn | 社团LOGO
 
   
-源地址：[[1]](http://mys-no.saiin.net/image/banner.gif)
-  
-
-
-
-
+源地址：[\[1\]](http://mys-no.saiin.net/image/banner.gif)  
 
 ---
 

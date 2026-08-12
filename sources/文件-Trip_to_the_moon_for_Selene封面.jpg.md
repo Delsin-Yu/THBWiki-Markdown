@@ -1,6 +1,6 @@
 # 文件:Trip_to_the_moon_for_Selene封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\85\ns6%3ATrip_to_the_moon_for_Selene%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\85\ns6%3ATrip_to_the_moon_for_Selene%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Orpheus | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Orpheus | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Trip to the moon for Selene](./Trip_to_the_moon_for_Selene.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)
+- [Trip to the moon for Selene](./Trip_to_the_moon_for_Selene.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
 
   
-源地址：[Pixiv illust ID: 35939357](https://i.pximg.net/img-master/img/2013/05/26/00/56/42/35939357_p0_master1200.jpg)
-  
-
-
-
-
+源地址：[Pixiv illust ID: 35939357](https://i.pximg.net/img-master/img/2013/05/26/00/56/42/35939357_p0_master1200.jpg)  
 
 ---
 

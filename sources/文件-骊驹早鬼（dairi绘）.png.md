@@ -1,12 +1,8 @@
 # 文件:骊驹早鬼（dairi绘）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\85\ns6%3A%E9%AA%8A%E9%A9%B9%E6%97%A9%E9%AC%BC%EF%BC%88dairi%E7%BB%98%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\85\ns6%3A%E9%AA%8A%E9%A9%B9%E6%97%A9%E9%AC%BC%EF%BC%88dairi%E7%BB%98%EF%BC%89%2Epng.html -->
 
 NooblyPerson | 二次角色立绘 | 骊驹早鬼（天陨梦）
-
-
-
-
 
 
 ---

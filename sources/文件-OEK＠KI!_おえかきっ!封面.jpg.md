@@ -1,6 +1,6 @@
 # 文件:OEK＠KI!_おえかきっ!封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\32\ns6%3AOEK%EF%BC%A0KI%21_%E3%81%8A%E3%81%88%E3%81%8B%E3%81%8D%E3%81%A3%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\32\ns6%3AOEK%EF%BC%A0KI%21_%E3%81%8A%E3%81%88%E3%81%8B%E3%81%8D%E3%81%A3%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 アインス | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [OEK＠KI! おえかきっ!](./OEK＠KI!_おえかきっ!.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
-
-
-
+- [OEK＠KI! おえかきっ!](./OEK＠KI!_おえかきっ!.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
 
 ---

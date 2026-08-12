@@ -1,12 +1,8 @@
 # 文件:THD2油库里之杖.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\20\ns6%3ATHD2%E6%B2%B9%E5%BA%93%E9%87%8C%E4%B9%8B%E6%9D%96%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\20\ns6%3ATHD2%E6%B2%B9%E5%BA%93%E9%87%8C%E4%B9%8B%E6%9D%96%2Epng.html -->
 
 AvalonStudioOfficial
-
-
-
-
 
 
 ---

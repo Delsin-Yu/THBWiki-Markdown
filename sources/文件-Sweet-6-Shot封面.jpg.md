@@ -1,6 +1,6 @@
 # 文件:Sweet"6"Shot封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8c\ns6%3ASweet%226%22Shot%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8c\ns6%3ASweet%226%22Shot%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 タンケイズ | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [Sweet"6"Shot](./Sweet-6-Shot.md)  
-该封面包含的角色：- [上白泽慧音](./上白泽慧音.md)- [藤原妹红](./藤原妹红.md)
-
-
-
+- [Sweet"6"Shot](./Sweet-6-Shot.md)该封面包含的角色：
+- [上白泽慧音](./上白泽慧音.md)
+- [藤原妹红](./藤原妹红.md)
 
 
 ---

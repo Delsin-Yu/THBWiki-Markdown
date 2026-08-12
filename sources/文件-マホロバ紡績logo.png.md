@@ -1,18 +1,13 @@
 # 文件:マホロバ紡績logo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\70\ns6%3A%E3%83%9E%E3%83%9B%E3%83%AD%E3%83%90%E7%B4%A1%E7%B8%BElogo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\70\ns6%3A%E3%83%9E%E3%83%9B%E3%83%AD%E3%83%90%E7%B4%A1%E7%B8%BElogo%2Epng.html -->
 
 マホロバ紡績 | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[direct image link (max size)](https://s2.booth.pm/021e9142-3e1b-4361-b56e-9111df8bb944/481c0a67-c83f-4eab-9f0d-d365165acacd.png), [from circle booth header](https://mahorobabo-seki.booth.pm/)
-  
-
-
-
-
+源地址：[direct image link (max size)](https://s2.booth.pm/021e9142-3e1b-4361-b56e-9111df8bb944/481c0a67-c83f-4eab-9f0d-d365165acacd.png), [from circle booth header](https://mahorobabo-seki.booth.pm/)  
 
 ---
 

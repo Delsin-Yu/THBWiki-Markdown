@@ -1,6 +1,6 @@
 # 文件:Sweets_snack_chocolate_candy封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c6\ns6%3ASweets_snack_chocolate_candy%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c6\ns6%3ASweets_snack_chocolate_candy%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 っ´Д｀)っゼロ式の処刑場 | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Sweets snack chocolate candy](./Sweets_snack_chocolate_candy.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [Sweets snack chocolate candy](./Sweets_snack_chocolate_candy.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
   
-源地址：[direct image link (original size)](https://i1.sndcdn.com/artworks-000048841782-9xz8yu-original.jpg), [source page (Soundcloud)](https://soundcloud.com/shinzanzeroshiki/sweets-snack-chocolate-candy)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://i1.sndcdn.com/artworks-000048841782-9xz8yu-original.jpg), [source page (Soundcloud)](https://soundcloud.com/shinzanzeroshiki/sweets-snack-chocolate-candy)  
 
 ---
 

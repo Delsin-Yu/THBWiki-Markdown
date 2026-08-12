@@ -1,14 +1,11 @@
 # 文件:DOLCE_LATTEbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\78\ns6%3ADOLCE_LATTEbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\78\ns6%3ADOLCE_LATTEbanner%2Ejpg.html -->
 
 DOLCE_LATTE | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

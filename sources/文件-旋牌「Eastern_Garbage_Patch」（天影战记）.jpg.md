@@ -1,14 +1,11 @@
 # 文件:旋牌「Eastern_Garbage_Patch」（天影战记）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e6\ns6%3A%E6%97%8B%E7%89%8C%E3%80%8CEastern_Garbage_Patch%E3%80%8D%EF%BC%88%E5%A4%A9%E5%BD%B1%E6%88%98%E8%AE%B0%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e6\ns6%3A%E6%97%8B%E7%89%8C%E3%80%8CEastern_Garbage_Patch%E3%80%8D%EF%BC%88%E5%A4%A9%E5%BD%B1%E6%88%98%E8%AE%B0%EF%BC%89%2Ejpg.html -->
 
 连缘Project官方符牌 | 连缘天影战记 | 鹀蒿雀
 
 
 ## 文件说明
-
-
-
 
 ---
 

@@ -1,12 +1,8 @@
 # 文件:都築きせのbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\19\ns6%3A%E9%83%BD%E7%AF%89%E3%81%8D%E3%81%9B%E3%81%AEbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\19\ns6%3A%E9%83%BD%E7%AF%89%E3%81%8D%E3%81%9B%E3%81%AEbanner%2Epng.html -->
 
 社团LOGO | 都築きせの
-
-
-
-
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:1n1mbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b5\ns6%3A1n1mbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b5\ns6%3A1n1mbanner%2Ejpg.html -->
 
 1n1m | 社团LOGO
-
-
-
-
 
 
 ---

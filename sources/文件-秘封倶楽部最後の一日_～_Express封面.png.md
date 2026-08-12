@@ -1,6 +1,6 @@
 # 文件:秘封倶楽部最後の一日_～_Express封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\89\ns6%3A%E7%A7%98%E5%B0%81%E5%80%B6%E6%A5%BD%E9%83%A8%E6%9C%80%E5%BE%8C%E3%81%AE%E4%B8%80%E6%97%A5_%EF%BD%9E_Express%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\89\ns6%3A%E7%A7%98%E5%B0%81%E5%80%B6%E6%A5%BD%E9%83%A8%E6%9C%80%E5%BE%8C%E3%81%AE%E4%B8%80%E6%97%A5_%EF%BD%9E_Express%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 XEoN×少女墓石倶楽部 | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ XEoN×少女墓石倶楽部 | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [秘封倶楽部最後の一日 ～ Express](./秘封倶楽部最後の一日_～_Express.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
-
-
-
+- [秘封倶楽部最後の一日 ～ Express](./秘封倶楽部最後の一日_～_Express.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
 
 
 ---

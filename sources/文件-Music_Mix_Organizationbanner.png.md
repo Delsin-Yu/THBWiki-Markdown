@@ -1,16 +1,11 @@
 # 文件:Music_Mix_Organizationbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5c\ns6%3AMusic_Mix_Organizationbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5c\ns6%3AMusic_Mix_Organizationbanner%2Epng.html -->
 
 Music_Mix_Organization | 社团LOGO
 
   
-源地址:[[1]](http://mmo-cir.sakura.ne.jp/img/banner.png)
-  
-
-
-
-
+源地址:[\[1\]](http://mmo-cir.sakura.ne.jp/img/banner.png)  
 
 ---
 

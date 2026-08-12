@@ -1,6 +1,6 @@
 # 文件:東方岩少女_ROCKGIRL2_Soul_Steal_Song封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a6\ns6%3A%E6%9D%B1%E6%96%B9%E5%B2%A9%E5%B0%91%E5%A5%B3_ROCKGIRL2_Soul_Steal_Song%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a6\ns6%3A%E6%9D%B1%E6%96%B9%E5%B2%A9%E5%B0%91%E5%A5%B3_ROCKGIRL2_Soul_Steal_Song%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 趣味工房にんじんわいん
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方岩少女 ROCKGIRL2 Soul Steal Song](./東方岩少女_ROCKGIRL2_Soul_Steal_Song.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [東方岩少女 ROCKGIRL2 Soul Steal Song](./東方岩少女_ROCKGIRL2_Soul_Steal_Song.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

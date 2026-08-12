@@ -1,12 +1,8 @@
 # 文件:THD2魔女披风.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\26\ns6%3ATHD2%E9%AD%94%E5%A5%B3%E6%8A%AB%E9%A3%8E%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\26\ns6%3ATHD2%E9%AD%94%E5%A5%B3%E6%8A%AB%E9%A3%8E%2Epng.html -->
 
 AvalonStudioOfficial
-
-
-
-
 
 
 ---

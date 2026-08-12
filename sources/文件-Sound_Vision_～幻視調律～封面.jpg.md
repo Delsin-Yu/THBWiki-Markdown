@@ -1,6 +1,6 @@
 # 文件:Sound_Vision_～幻視調律～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4e\ns6%3ASound_Vision_%EF%BD%9E%E5%B9%BB%E8%A6%96%E8%AA%BF%E5%BE%8B%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4e\ns6%3ASound_Vision_%EF%BD%9E%E5%B9%BB%E8%A6%96%E8%AA%BF%E5%BE%8B%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 M.I.W | 专辑封面 | 封面图片
 
@@ -10,16 +10,12 @@ M.I.W | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Sound Vision ～幻視調律～](./Sound_Vision_～幻視調律～.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)- [莉格露·奈特巴格](./莉格露·奈特巴格.md)
+- [Sound Vision ～幻視調律～](./Sound_Vision_～幻視調律～.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [莉格露·奈特巴格](./莉格露·奈特巴格.md)
 
   
-源地址：[direct image link](https://www.suruga-ya.jp/database/pics/game/186103183.jpg), [source page](https://www.suruga-ya.jp/product/detail/186103183)
-  
-
-
-
-
+源地址：[direct image link](https://www.suruga-ya.jp/database/pics/game/186103183.jpg), [source page](https://www.suruga-ya.jp/product/detail/186103183)  
 
 ---
 

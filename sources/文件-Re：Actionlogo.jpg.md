@@ -1,16 +1,12 @@
 # 文件:Re：Actionlogo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a1\ns6%3ARe%EF%BC%9AActionlogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a1\ns6%3ARe%EF%BC%9AActionlogo%2Ejpg.html -->
 
 Re：Action | 社团LOGO
 
   
 社团logo
   
-
-
-
-
 
 ---
 

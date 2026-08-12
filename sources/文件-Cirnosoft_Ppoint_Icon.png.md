@@ -1,12 +1,8 @@
 # 文件:Cirnosoft_Ppoint_Icon.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\14\ns6%3ACirnosoft_Ppoint_Icon%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\14\ns6%3ACirnosoft_Ppoint_Icon%2Epng.html -->
 
 东方幻想空间琪软公司
-
-
-
-
 
 
 ---

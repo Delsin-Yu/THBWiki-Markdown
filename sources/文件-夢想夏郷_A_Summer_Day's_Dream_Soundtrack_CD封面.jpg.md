@@ -1,6 +1,6 @@
 # 文件:夢想夏郷_A_Summer_Day's_Dream_Soundtrack_CD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fd\ns6%3A%E5%A4%A2%E6%83%B3%E5%A4%8F%E9%83%B7_A_Summer_Day%27s_Dream_Soundtrack_CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fd\ns6%3A%E5%A4%A2%E6%83%B3%E5%A4%8F%E9%83%B7_A_Summer_Day%27s_Dream_Soundtrack_CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 舞风
 
@@ -8,11 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [夢想夏郷 A Summer Day's Dream Soundtrack CD](./夢想夏郷_A_Summer_Day's_Dream_Soundtrack_CD.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)- 十六夜咲夜 (未找到链接)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [夢想夏郷 A Summer Day's Dream Soundtrack CD](./夢想夏郷_A_Summer_Day's_Dream_Soundtrack_CD.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
+- [十六夜咲夜](./十六夜咲夜.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

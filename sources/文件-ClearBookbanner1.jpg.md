@@ -1,12 +1,8 @@
 # 文件:ClearBookbanner1.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\33\ns6%3AClearBookbanner1%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\33\ns6%3AClearBookbanner1%2Ejpg.html -->
 
 ClearBook | 社团LOGO
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:これだけ読めばLightroomがなんとなく使える本封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\48\ns6%3A%E3%81%93%E3%82%8C%E3%81%A0%E3%81%91%E8%AA%AD%E3%82%81%E3%81%B0Lightroom%E3%81%8C%E3%81%AA%E3%82%93%E3%81%A8%E3%81%AA%E3%81%8F%E4%BD%BF%E3%81%88%E3%82%8B%E6%9C%AC%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\48\ns6%3A%E3%81%93%E3%82%8C%E3%81%A0%E3%81%91%E8%AA%AD%E3%82%81%E3%81%B0Lightroom%E3%81%8C%E3%81%AA%E3%82%93%E3%81%A8%E3%81%AA%E3%81%8F%E4%BD%BF%E3%81%88%E3%82%8B%E6%9C%AC%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Drawers_Come_True | 同人志封面 | 封面图片
 
@@ -10,11 +10,13 @@ Drawers_Come_True | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [これだけ読めばLightroomがなんとなく使える本](./これだけ読めばLightroomがなんとなく使える本.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)- [魂魄妖梦](./魂魄妖梦.md)- [洩矢诹访子](./洩矢诹访子.md)- [古明地恋](./古明地恋.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [これだけ読めばLightroomがなんとなく使える本](./これだけ読めばLightroomがなんとなく使える本.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [魂魄妖梦](./魂魄妖梦.md)
+- [洩矢诹访子](./洩矢诹访子.md)
+- [古明地恋](./古明地恋.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

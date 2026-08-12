@@ -1,6 +1,6 @@
 # 文件:东方沧想书_贰_-梦见_Drifting_Dream-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a2\ns6%3A%E4%B8%9C%E6%96%B9%E6%B2%A7%E6%83%B3%E4%B9%A6_%E8%B4%B0_-%E6%A2%A6%E8%A7%81_Drifting_Dream-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a2\ns6%3A%E4%B8%9C%E6%96%B9%E6%B2%A7%E6%83%B3%E4%B9%A6_%E8%B4%B0_-%E6%A2%A6%E8%A7%81_Drifting_Dream-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Kamiro's_Comic_Market | 同人志封面 | 封面图片
 
@@ -10,11 +10,9 @@ Kamiro's_Comic_Market | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [东方沧想书 贰 -梦见 Drifting Dream-](./东方沧想书_贰_-梦见_Drifting_Dream-.md)  
-该封面包含的角色：- [八云紫](./八云紫.md)- 原创角色 (未找到链接)
-
-
-
+- [东方沧想书 贰 -梦见 Drifting Dream-](./东方沧想书_贰_-梦见_Drifting_Dream-.md)该封面包含的角色：
+- [八云紫](./八云紫.md)
+- 原创角色 (未找到链接)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Sweet_Poizone封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d3\ns6%3ASweet_Poizone%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d3\ns6%3ASweet_Poizone%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 永久立体＜キュービックループ＞
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Sweet Poizone](./Sweet_Poizone.md)  
-该封面包含的角色：- [梅蒂欣·梅兰可莉](./梅蒂欣·梅兰可莉.md)
+- [Sweet Poizone](./Sweet_Poizone.md)该封面包含的角色：
+- [梅蒂欣·梅兰可莉](./梅蒂欣·梅兰可莉.md)
 
   
-源地址：[direct image link](https://www.suruga-ya.jp/database/pics_light/game/186166328.jpg), [source page (suruga-ya ID: 186166328)](https://www.suruga-ya.jp/product/detail/186166328)
-  
-
-
-
-
+源地址：[direct image link](https://www.suruga-ya.jp/database/pics_light/game/186166328.jpg), [source page (suruga-ya ID: 186166328)](https://www.suruga-ya.jp/product/detail/186166328)  
 
 ---
 

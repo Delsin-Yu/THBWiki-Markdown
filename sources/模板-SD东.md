@@ -1,16 +1,12 @@
 # 模板:SD东
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\5\5b\ns10%3ASD%E4%B8%9C.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\5\5b\ns10%3ASD%E4%B8%9C.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

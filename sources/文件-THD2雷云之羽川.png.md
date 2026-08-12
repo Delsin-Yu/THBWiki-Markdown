@@ -1,12 +1,8 @@
 # 文件:THD2雷云之羽川.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f6\ns6%3ATHD2%E9%9B%B7%E4%BA%91%E4%B9%8B%E7%BE%BD%E5%B7%9D%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f6\ns6%3ATHD2%E9%9B%B7%E4%BA%91%E4%B9%8B%E7%BE%BD%E5%B7%9D%2Epng.html -->
 
 东方DOTS玩家社群
-
-
-
-
 
 
 ---

@@ -1,16 +1,12 @@
 # 模板:Kinema俱乐部
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\d\d0\ns10%3AKinema%E4%BF%B1%E4%B9%90%E9%83%A8.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\d\d0\ns10%3AKinema%E4%BF%B1%E4%B9%90%E9%83%A8.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

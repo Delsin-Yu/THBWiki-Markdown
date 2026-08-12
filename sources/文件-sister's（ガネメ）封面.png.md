@@ -1,6 +1,6 @@
 # 文件:sister's（ガネメ）封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5f\ns6%3Asister%27s%EF%BC%88%E3%82%AC%E3%83%8D%E3%83%A1%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5f\ns6%3Asister%27s%EF%BC%88%E3%82%AC%E3%83%8D%E3%83%A1%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 ガネメ | 专辑封面 | 封面图片
 
@@ -8,16 +8,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [sister's（ガネメ）](./sister's（ガネメ）.md)  
-该封面包含的角色：- [古明地觉](./古明地觉.md)- [古明地恋](./古明地恋.md)
+- [sister's（ガネメ）](./sister's（ガネメ）.md)该封面包含的角色：
+- [古明地觉](./古明地觉.md)
+- [古明地恋](./古明地恋.md)
 
   
-源地址：[[1]](http://static.tumblr.com/65cf14efa3f88c57796dc9d1f8839333/lircoia/D5vnyigla/tumblr_static_90w0pfkwqkg04ck4ow4ck08w8.png)
-  
-
-
-
-
+源地址：[\[1\]](http://static.tumblr.com/65cf14efa3f88c57796dc9d1f8839333/lircoia/D5vnyigla/tumblr_static_90w0pfkwqkg04ck4ow4ck08w8.png)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:Ms._Jiang_Shi封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\86\ns6%3AMs%2E_Jiang_Shi%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\86\ns6%3AMs%2E_Jiang_Shi%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Golden_City_Factory | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ Golden_City_Factory | 专辑封面 | 封面图片
   
 
 - [Ms. Jiang Shi](./Ms._Jiang_Shi.md)
-
-
-
 
 
 ---

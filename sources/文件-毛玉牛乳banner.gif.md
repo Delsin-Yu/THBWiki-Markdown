@@ -1,12 +1,8 @@
 # 文件:毛玉牛乳banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9f\ns6%3A%E6%AF%9B%E7%8E%89%E7%89%9B%E4%B9%B3banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9f\ns6%3A%E6%AF%9B%E7%8E%89%E7%89%9B%E4%B9%B3banner%2Egif.html -->
 
 毛玉牛乳 | 社团LOGO
-
-
-
-
 
 
 ---

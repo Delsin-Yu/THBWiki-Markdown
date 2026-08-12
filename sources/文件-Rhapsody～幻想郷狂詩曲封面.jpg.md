@@ -1,6 +1,6 @@
 # 文件:Rhapsody～幻想郷狂詩曲封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\89\ns6%3ARhapsody%EF%BD%9E%E5%B9%BB%E6%83%B3%E9%83%B7%E7%8B%82%E8%A9%A9%E6%9B%B2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\89\ns6%3ARhapsody%EF%BD%9E%E5%B9%BB%E6%83%B3%E9%83%B7%E7%8B%82%E8%A9%A9%E6%9B%B2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Sound.／Ecriture | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Sound.／Ecriture | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Rhapsody～幻想郷狂詩曲](./Rhapsody～幻想郷狂詩曲.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)
-
-
-
+- [Rhapsody～幻想郷狂詩曲](./Rhapsody～幻想郷狂詩曲.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
 
 
 ---

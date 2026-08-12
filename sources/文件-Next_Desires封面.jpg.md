@@ -1,6 +1,6 @@
 # 文件:Next_Desires封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b1\ns6%3ANext_Desires%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b1\ns6%3ANext_Desires%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 フエルゴハンの郷 | 同人志封面 | 封面图片
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [Next Desires](./Next_Desires.md)  
-该封面包含的角色：- [苏我屠自古](./苏我屠自古.md)- [丰聪耳神子](./丰聪耳神子.md)
-
-
-
+- [Next Desires](./Next_Desires.md)该封面包含的角色：
+- [苏我屠自古](./苏我屠自古.md)
+- [丰聪耳神子](./丰聪耳神子.md)
 
 
 ---

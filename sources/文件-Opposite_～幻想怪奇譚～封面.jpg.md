@@ -1,6 +1,6 @@
 # 文件:Opposite_～幻想怪奇譚～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3e\ns6%3AOpposite_%EF%BD%9E%E5%B9%BB%E6%83%B3%E6%80%AA%E5%A5%87%E8%AD%9A%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3e\ns6%3AOpposite_%EF%BD%9E%E5%B9%BB%E6%83%B3%E6%80%AA%E5%A5%87%E8%AD%9A%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 子猫夺回屋 | 封面图片
 
@@ -8,11 +8,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [Opposite ～幻想怪奇譚～](./Opposite_～幻想怪奇譚～.md)  
-该封面包含的角色：- [若鹭姬](./若鹭姬.md)- [赤蛮奇](./赤蛮奇.md)- [鬼人正邪](./鬼人正邪.md)- [少名针妙丸](./少名针妙丸.md)- [堀川雷鼓](./堀川雷鼓.md)
-
-
-
+- [Opposite ～幻想怪奇譚～](./Opposite_～幻想怪奇譚～.md)该封面包含的角色：
+- [若鹭姬](./若鹭姬.md)
+- [赤蛮奇](./赤蛮奇.md)
+- [鬼人正邪](./鬼人正邪.md)
+- [少名针妙丸](./少名针妙丸.md)
+- [堀川雷鼓](./堀川雷鼓.md)
 
 
 ---

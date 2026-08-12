@@ -1,6 +1,6 @@
 # 文件:サグメVSくたかVSお空封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\97\ns6%3A%E3%82%B5%E3%82%B0%E3%83%A1VS%E3%81%8F%E3%81%9F%E3%81%8BVS%E3%81%8A%E7%A9%BA%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\97\ns6%3A%E3%82%B5%E3%82%B0%E3%83%A1VS%E3%81%8F%E3%81%9F%E3%81%8BVS%E3%81%8A%E7%A9%BA%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 黒ごまスパもち
 
@@ -8,11 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [サグメVSくたかVSお空](./サグメVSくたかVSお空.md)  
-该封面包含的角色：- [灵乌路空](./灵乌路空.md)- [哆来咪·苏伊特](./哆来咪·苏伊特.md)- [稀神探女](./稀神探女.md)- [庭渡久侘歌](./庭渡久侘歌.md)
-
-
-
+- [サグメVSくたかVSお空](./サグメVSくたかVSお空.md)该封面包含的角色：
+- [灵乌路空](./灵乌路空.md)
+- [哆来咪·苏伊特](./哆来咪·苏伊特.md)
+- [稀神探女](./稀神探女.md)
+- [庭渡久侘歌](./庭渡久侘歌.md)
 
 
 ---

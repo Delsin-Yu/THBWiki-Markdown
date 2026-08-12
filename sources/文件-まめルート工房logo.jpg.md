@@ -1,18 +1,13 @@
 # 文件:まめルート工房logo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\16\ns6%3A%E3%81%BE%E3%82%81%E3%83%AB%E3%83%BC%E3%83%88%E5%B7%A5%E6%88%BFlogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\16\ns6%3A%E3%81%BE%E3%82%81%E3%83%AB%E3%83%BC%E3%83%88%E5%B7%A5%E6%88%BFlogo%2Ejpg.html -->
 
 まめルート工房 | 社团LOGO
 
 
 ## 摘要
   
-源地址：[direct image link (original size)](https://booth.pximg.net/users/11761376/icon_image/057a33c7-f7ad-4da0-b488-14d952aa6c2e.jpeg), [source page (circle Booth logo)](https://mamerutokoubou.booth.pm/)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://booth.pximg.net/users/11761376/icon_image/057a33c7-f7ad-4da0-b488-14d952aa6c2e.jpeg), [source page (circle Booth logo)](https://mamerutokoubou.booth.pm/)  
 
 ---
 

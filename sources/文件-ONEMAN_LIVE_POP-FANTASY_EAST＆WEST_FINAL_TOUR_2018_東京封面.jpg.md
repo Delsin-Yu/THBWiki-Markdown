@@ -1,6 +1,6 @@
 # 文件:ONEMAN_LIVE_POP-FANTASY_EAST＆WEST_FINAL_TOUR_2018_東京封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d4\ns6%3AONEMAN_LIVE_POP-FANTASY_EAST%EF%BC%86WEST_FINAL_TOUR_2018_%E6%9D%B1%E4%BA%AC%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d4\ns6%3AONEMAN_LIVE_POP-FANTASY_EAST%EF%BC%86WEST_FINAL_TOUR_2018_%E6%9D%B1%E4%BA%AC%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 R-note | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ R-note | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [ONEMAN LIVE POP-FANTASY EAST＆WEST FINAL TOUR 2018 東京](./ONEMAN_LIVE_POP-FANTASY_EAST＆WEST_FINAL_TOUR_2018_東京.md)  
-该封面包含的角色：- [赫卡提亚·拉碧斯拉祖利](./赫卡提亚·拉碧斯拉祖利.md)
-
-
-
+- [ONEMAN LIVE POP-FANTASY EAST＆WEST FINAL TOUR 2018 東京](./ONEMAN_LIVE_POP-FANTASY_EAST＆WEST_FINAL_TOUR_2018_東京.md)该封面包含的角色：
+- [赫卡提亚·拉碧斯拉祖利](./赫卡提亚·拉碧斯拉祖利.md)
 
 
 ---

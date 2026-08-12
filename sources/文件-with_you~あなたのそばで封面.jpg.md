@@ -1,6 +1,6 @@
 # 文件:with_you~あなたのそばで封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\aa\ns6%3Awith_you%7E%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AE%E3%81%9D%E3%81%B0%E3%81%A7%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\aa\ns6%3Awith_you%7E%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AE%E3%81%9D%E3%81%B0%E3%81%A7%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 雪见温泉社
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [with you~あなたのそばで](./with_you~あなたのそばで.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [with you~あなたのそばで](./with_you~あなたのそばで.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

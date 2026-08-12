@@ -1,14 +1,11 @@
 # 文件:positive_suicidebanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f6\ns6%3Apositive_suicidebanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f6\ns6%3Apositive_suicidebanner%2Ejpg.html -->
 
 positive_suicide | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:勿忘草RemixEP封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\81\ns6%3A%E5%8B%BF%E5%BF%98%E8%8D%89RemixEP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\81\ns6%3A%E5%8B%BF%E5%BF%98%E8%8D%89RemixEP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ガネメ | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [勿忘草RemixEP](./勿忘草RemixEP.md)  
-该封面包含的角色：- [犬走椛](./犬走椛.md)
+- [勿忘草RemixEP](./勿忘草RemixEP.md)该封面包含的角色：
+- [犬走椛](./犬走椛.md)
 
   
-原网址：[https://www.suruga-ya.jp/product/detail/186151904](https://www.suruga-ya.jp/product/detail/186151904)
-  
-
-
-
-
+原网址：[https://www.suruga-ya.jp/product/detail/186151904](https://www.suruga-ya.jp/product/detail/186151904)  
 
 ---
 

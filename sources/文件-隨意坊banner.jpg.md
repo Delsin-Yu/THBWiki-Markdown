@@ -1,18 +1,13 @@
 # 文件:隨意坊banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\33\ns6%3A%E9%9A%A8%E6%84%8F%E5%9D%8Abanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\33\ns6%3A%E9%9A%A8%E6%84%8F%E5%9D%8Abanner%2Ejpg.html -->
 
 社团LOGO | 隨意坊
 
 
 ## 摘要
   
-源地址：[direct image link](https://web.archive.org/web/20150731114711im_/http://pics21.yamedia.tw/37/userfile/f/fred04142/album/14f5b09a77b198.jpg), [source page](https://web.archive.org/web/20150810044800/http://blog.yam.com/fred04142)
-  
-
-
-
-
+源地址：[direct image link](https://web.archive.org/web/20150731114711im_/http://pics21.yamedia.tw/37/userfile/f/fred04142/album/14f5b09a77b198.jpg), [source page](https://web.archive.org/web/20150810044800/http://blog.yam.com/fred04142)  
 
 ---
 

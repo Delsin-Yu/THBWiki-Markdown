@@ -1,16 +1,12 @@
 # 模板:蓬莱Mini
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\3\34\ns10%3A%E8%93%AC%E8%8E%B1Mini.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\3\34\ns10%3A%E8%93%AC%E8%8E%B1Mini.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

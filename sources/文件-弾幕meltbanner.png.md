@@ -1,18 +1,13 @@
 # 文件:弾幕meltbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c4\ns6%3A%E5%BC%BE%E5%B9%95meltbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c4\ns6%3A%E5%BC%BE%E5%B9%95meltbanner%2Epng.html -->
 
 弾幕melt | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[[1]](http://danmakumelt.maiougi.com/simpleVC_img/melt.png)
-  
-
-
-
-
+源地址：[\[1\]](http://danmakumelt.maiougi.com/simpleVC_img/melt.png)  
 
 ---
 

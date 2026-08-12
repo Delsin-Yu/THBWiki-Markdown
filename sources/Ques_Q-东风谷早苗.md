@@ -1,37 +1,21 @@
 # Ques_Q/东风谷早苗
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\c\c9\ns0%3AQues_Q%2F%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\c\c9\ns0%3AQues_Q%2F%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97.html -->
 
 东风谷早苗PVCFigure手办模型
 
 本页是关于东方Project  
- **相关实体周边 (未找到链接)** 的词条
-
+**相关实体周边 (未找到链接)**的词条
 ## 模型信息
 
-<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 东风谷早苗 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>无</td></tr><tr><td class="label">角色</td><td><a href="./东风谷早苗.md" title="东风谷早苗">东风谷早苗</a></td></tr><tr><td class="label">原型师</td><td><a href="/index.php?title=%E3%82%B1%E3%83%AD%E3%83%AA%E3%82%BD&amp;action=edit&amp;redlink=1" class="new" title="ケロリソ（页面不存在）">ケロリソ</a></td></tr><tr><td class="label">比例</td><td>1/8</td></tr><tr><td class="label">尺寸</td><td>220mm</td></tr><tr><td class="label">状态</td><td>已发售</td></tr><tr><td class="label">售价</td><td>7600日元</td></tr><tr><td class="label">首发日期</td><td>2010-09</td></tr><tr><td class="label">发售方</td><td><a href="/index.php?title=Ques_Q&amp;action=edit&amp;redlink=1" class="new" title="Ques Q（页面不存在）">Ques Q</a></td></tr></tbody></table>
+<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 东风谷早苗 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>无</td></tr><tr><td class="label">角色</td><td><a href="./东风谷早苗.md" title="东风谷早苗">东风谷早苗</a></td></tr><tr><td class="label">原型师</td><td><a class="new" title="ケロリソ（页面不存在）">ケロリソ</a></td></tr><tr><td class="label">比例</td><td>1/8</td></tr><tr><td class="label">尺寸</td><td>220mm</td></tr><tr><td class="label">状态</td><td>已发售</td></tr><tr><td class="label">售价</td><td>7600日元</td></tr><tr><td class="label">首发日期</td><td>2010-09</td></tr><tr><td class="label">发售方</td><td><a class="new" title="Ques Q（页面不存在）">Ques Q</a></td></tr></tbody></table>
 
 Ques Q/东风谷早苗（周边） - 东风谷早苗PVCFigure手办模型
-
 ## 参考图片
-
-
-
-[](./文件-Ques_Q东风谷早苗-1.jpg.md)
-
-
-[](./文件-Ques_Q东风谷早苗-2.jpg.md)
-
-
-[](./文件-Ques_Q东风谷早苗-3.jpg.md)
-
+<img alt="Ques Q东风谷早苗" src="https://upload.thwiki.cc/thumb/5/5b/Ques_Q%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97-1.jpg/160px-Ques_Q%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97-1.jpg" decoding="async" loading="lazy" width="160" height="213" srcset="https://upload.thwiki.cc/thumb/5/5b/Ques_Q%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97-1.jpg/240px-Ques_Q%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97-1.jpg 1.5x, https://upload.thwiki.cc/thumb/5/5b/Ques_Q%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97-1.jpg/320px-Ques_Q%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97-1.jpg 2x" data-file-width="600" data-file-height="800">
+<img alt="Ques Q东风谷早苗" src="https://upload.thwiki.cc/thumb/f/f8/Ques_Q%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97-2.jpg/160px-Ques_Q%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97-2.jpg" decoding="async" loading="lazy" width="160" height="213" srcset="https://upload.thwiki.cc/thumb/f/f8/Ques_Q%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97-2.jpg/240px-Ques_Q%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97-2.jpg 1.5x, https://upload.thwiki.cc/thumb/f/f8/Ques_Q%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97-2.jpg/320px-Ques_Q%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97-2.jpg 2x" data-file-width="600" data-file-height="800">
+<img alt="Ques Q东风谷早苗" src="https://upload.thwiki.cc/thumb/e/e7/Ques_Q%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97-3.jpg/160px-Ques_Q%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97-3.jpg" decoding="async" loading="lazy" width="160" height="213" srcset="https://upload.thwiki.cc/thumb/e/e7/Ques_Q%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97-3.jpg/240px-Ques_Q%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97-3.jpg 1.5x, https://upload.thwiki.cc/thumb/e/e7/Ques_Q%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97-3.jpg/320px-Ques_Q%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97-3.jpg 2x" data-file-width="600" data-file-height="800">
 公式图
-
-
-
-
-
-
 
 ---
 

@@ -1,12 +1,8 @@
 # 文件:博丽灵梦（星莲船Manual）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\17\ns6%3A%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9Manual%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\17\ns6%3A%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9Manual%EF%BC%89%2Ejpg.html -->
 
 Manual配图 | 东方星莲船 | 博丽灵梦
-
-
-
-
 
 
 ---

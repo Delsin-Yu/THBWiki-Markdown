@@ -1,6 +1,6 @@
 # 文件:X-RateD_-Back_2_Back_90's-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e2\ns6%3AX-RateD_-Back_2_Back_90%27s-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e2\ns6%3AX-RateD_-Back_2_Back_90%27s-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 OG-G_Music_Works | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ OG-G_Music_Works | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [X-RateD -Back 2 Back 90's-](./X-RateD_-Back_2_Back_90's-.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [X-RateD -Back 2 Back 90's-](./X-RateD_-Back_2_Back_90's-.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

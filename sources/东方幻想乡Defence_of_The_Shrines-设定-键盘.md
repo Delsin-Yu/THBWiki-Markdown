@@ -1,6 +1,6 @@
 # 东方幻想乡Defence_of_The_Shrines/设定/键盘
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\c\cc\ns0%3A%E4%B8%9C%E6%96%B9%E5%B9%BB%E6%83%B3%E4%B9%A1Defence_of_The_Shrines%2F%E8%AE%BE%E5%AE%9A%2F%E9%94%AE%E7%9B%98.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\c\cc\ns0%3A%E4%B8%9C%E6%96%B9%E5%B9%BB%E6%83%B3%E4%B9%A1Defence_of_The_Shrines%2F%E8%AE%BE%E5%AE%9A%2F%E9%94%AE%E7%9B%98.html -->
 
 东方DOTS制作组
 
@@ -11,27 +11,23 @@
 莉莉卡·普莉兹姆利巴 
   
   
-[](./文件-THD-Lyrica.png.md) 
+<img alt="THD-Lyrica.png" src="https://upload.thwiki.cc/3/30/THD-Lyrica.png" decoding="async" loading="lazy" width="442" height="128" data-file-width="442" data-file-height="128">
   
   
-[](./文件-THD-Lyricae.png.md)
+<img alt="THD-Lyricae.png" src="https://upload.thwiki.cc/c/c5/THD-Lyricae.png" decoding="async" loading="lazy" width="446" height="92" data-file-width="446" data-file-height="92">
   
   
-[](./文件-THD-Lyricad.png.md)
+<img alt="THD-Lyricad.png" src="https://upload.thwiki.cc/b/b3/THD-Lyricad.png" decoding="async" loading="lazy" width="448" height="185" data-file-width="448" data-file-height="185">
   
   
-[](./文件-THD-Lyricaf.png.md)
+<img alt="THD-Lyricaf.png" src="https://upload.thwiki.cc/4/40/THD-Lyricaf.png" decoding="async" loading="lazy" width="445" height="205" data-file-width="445" data-file-height="205">
   
   
-[](./文件-THD-Lyricar.png.md)
+<img alt="THD-Lyricar.png" src="https://upload.thwiki.cc/d/dd/THD-Lyricar.png" decoding="async" loading="lazy" width="448" height="152" data-file-width="448" data-file-height="152">
   
   
-[](./文件-THD-Lyricaw.png.md)
+<img alt="THD-Lyricaw.png" src="https://upload.thwiki.cc/4/4d/THD-Lyricaw.png" decoding="async" loading="lazy" width="444" height="135" data-file-width="444" data-file-height="135">
   
-
-
-
-
 
 ---
 

@@ -1,16 +1,12 @@
 # 模板:绕行BOL
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\2\23\ns10%3A%E7%BB%95%E8%A1%8CBOL.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\2\23\ns10%3A%E7%BB%95%E8%A1%8CBOL.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

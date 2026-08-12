@@ -1,6 +1,6 @@
 # 文件:桜舞_～Innumerable_Aube～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\98\ns6%3A%E6%A1%9C%E8%88%9E_%EF%BD%9EInnumerable_Aube%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\98\ns6%3A%E6%A1%9C%E8%88%9E_%EF%BD%9EInnumerable_Aube%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 STEP×STEP | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ STEP×STEP | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [桜舞 ～Innumerable Aube～](./桜舞_～Innumerable_Aube～.md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)
-
-
-
+- [桜舞 ～Innumerable Aube～](./桜舞_～Innumerable_Aube～.md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
 
 
 ---

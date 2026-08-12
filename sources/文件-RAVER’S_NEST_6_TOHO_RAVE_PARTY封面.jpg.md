@@ -1,6 +1,6 @@
 # 文件:RAVER’S_NEST_6_TOHO_RAVE_PARTY封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9e\ns6%3ARAVER%E2%80%99S_NEST_6_TOHO_RAVE_PARTY%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9e\ns6%3ARAVER%E2%80%99S_NEST_6_TOHO_RAVE_PARTY%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 DiGiTAL_WiNG | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ DiGiTAL_WiNG | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [RAVER'S NEST 6 TOHO RAVE PARTY](./RAVER'S_NEST_6_TOHO_RAVE_PARTY.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [RAVER'S NEST 6 TOHO RAVE PARTY](./RAVER'S_NEST_6_TOHO_RAVE_PARTY.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
 
   
-源地址：[[1]](http://digital-wing.net/wordpress/wp-content/uploads/2016/08/DWCD-0028_Jacket.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://digital-wing.net/wordpress/wp-content/uploads/2016/08/DWCD-0028_Jacket.jpg)  
 
 ---
 

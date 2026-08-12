@@ -1,6 +1,6 @@
 # 文件:東方久交承_～_Rainbow_Ashes,_Smoke_and_……_おまけ封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\88\ns6%3A%E6%9D%B1%E6%96%B9%E4%B9%85%E4%BA%A4%E6%89%BF_%EF%BD%9E_Rainbow_Ashes%2C_Smoke_and_%E2%80%A6%E2%80%A6_%E3%81%8A%E3%81%BE%E3%81%91%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\88\ns6%3A%E6%9D%B1%E6%96%B9%E4%B9%85%E4%BA%A4%E6%89%BF_%EF%BD%9E_Rainbow_Ashes%2C_Smoke_and_%E2%80%A6%E2%80%A6_%E3%81%8A%E3%81%BE%E3%81%91%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Yurihaka | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Yurihaka | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方久交承 ～ Rainbow Ashes, Smoke and …… おまけ](./東方久交承_～_Rainbow_Ashes,_Smoke_and_……_おまけ.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [東方久交承 ～ Rainbow Ashes, Smoke and …… おまけ](./東方久交承_～_Rainbow_Ashes,_Smoke_and_……_おまけ.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

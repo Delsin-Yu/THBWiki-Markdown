@@ -1,6 +1,6 @@
 # 文件:TOHO_ARRANGE_COLLECTION-＃東方アレンジTwitter部-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b9\ns6%3ATOHO_ARRANGE_COLLECTION-%EF%BC%83%E6%9D%B1%E6%96%B9%E3%82%A2%E3%83%AC%E3%83%B3%E3%82%B8Twitter%E9%83%A8-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b9\ns6%3ATOHO_ARRANGE_COLLECTION-%EF%BC%83%E6%9D%B1%E6%96%B9%E3%82%A2%E3%83%AC%E3%83%B3%E3%82%B8Twitter%E9%83%A8-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 WKG_Tupper_Records | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ WKG_Tupper_Records | 专辑封面 | 封面图片
   
 
 - [TOHO ARRANGE COLLECTION-＃東方アレンジTwitter部-](./TOHO_ARRANGE_COLLECTION-＃東方アレンジTwitter部-.md)
-
-
-
 
 
 ---

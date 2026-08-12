@@ -1,12 +1,8 @@
 # 文件:Le04Stage6HazeTitle.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\da\ns6%3ALe04Stage6HazeTitle%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\da\ns6%3ALe04Stage6HazeTitle%2Ejpg.html -->
 
 トリック・ノスタルジー
-
-
-
-
 
 
 ---

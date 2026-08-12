@@ -1,12 +1,8 @@
 # 文件:蕾米莉亚·斯卡蕾特（永夜抄Manual）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b7\ns6%3A%E8%95%BE%E7%B1%B3%E8%8E%89%E4%BA%9A%C2%B7%E6%96%AF%E5%8D%A1%E8%95%BE%E7%89%B9%EF%BC%88%E6%B0%B8%E5%A4%9C%E6%8A%84Manual%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b7\ns6%3A%E8%95%BE%E7%B1%B3%E8%8E%89%E4%BA%9A%C2%B7%E6%96%AF%E5%8D%A1%E8%95%BE%E7%89%B9%EF%BC%88%E6%B0%B8%E5%A4%9C%E6%8A%84Manual%EF%BC%89%2Ejpg.html -->
 
 Manual配图 | 东方永夜抄 | 蕾米莉亚·斯卡蕾特
-
-
-
-
 
 
 ---

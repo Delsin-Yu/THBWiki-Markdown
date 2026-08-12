@@ -1,13 +1,11 @@
 # 慈愛-The_eye-
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\f3\ns0%3A%E6%85%88%E6%84%9B-The_eye-.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\f3\ns0%3A%E6%85%88%E6%84%9B-The_eye-.html -->
 
 2012年6月3日 由 MatsuYani 于 Comic Communication16 发布的EP同人专辑，曲目主要风格是 Rock，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人专辑 (未找到链接)** 的词条
-<center>
-
+**[二次创作同人专辑](./二次创作.md#同人音乐)**的词条<center>
 <table>
 <tbody><tr>
 <td class="mbox-image"><div style="width: 52px;">
@@ -16,41 +14,25 @@
 </tr>
 </tbody></table>
 
-
 </center>
-
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-慈愛-The_eye-封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/c/cc/%E6%85%88%E6%84%9B-The_eye-%E5%B0%81%E9%9D%A2.jpg/252px-%E6%85%88%E6%84%9B-The_eye-%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="252" height="251" srcset="https://upload.thwiki.cc/thumb/c/cc/%E6%85%88%E6%84%9B-The_eye-%E5%B0%81%E9%9D%A2.jpg/378px-%E6%85%88%E6%84%9B-The_eye-%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/c/cc/%E6%85%88%E6%84%9B-The_eye-%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="384" data-file-height="383"></a><div class="cover-char">角色：<a href="./古明地觉.md" title="古明地觉">古明地觉</a></div></td>
 </tr><tr><td class="label">名称</td><td colspan="2"> 慈愛-The eye- </td></tr><tr><td class="label">制作方</td><td><a href="./MatsuYani.md" title="MatsuYani">MatsuYani</a></td><td class="cover-artwork" rowspan="9" style="min-width:252px;"><a href="./文件-慈愛-The_eye-封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/c/cc/%E6%85%88%E6%84%9B-The_eye-%E5%B0%81%E9%9D%A2.jpg/252px-%E6%85%88%E6%84%9B-The_eye-%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="252" height="251" srcset="https://upload.thwiki.cc/thumb/c/cc/%E6%85%88%E6%84%9B-The_eye-%E5%B0%81%E9%9D%A2.jpg/378px-%E6%85%88%E6%84%9B-The_eye-%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/c/cc/%E6%85%88%E6%84%9B-The_eye-%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="384" data-file-height="383"></a><div class="cover-char">角色：<a href="./古明地觉.md" title="古明地觉">古明地觉</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2012-06-03&#160;（<a href="/展会作品列表?e=Comic+Communication%2316">Comic Communication16</a>）</td></tr><tr><td class="label">类型</td><td>EP</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>0</td></tr><tr><td class="label">总时长</td><td>00:00</td></tr><tr><td class="label">风格类型</td><td>Rock</td></tr><tr><td class="label">售价</td><td>会场售价：100日元</td></tr></tbody></table>
+</tr><tr><td class="label">首发日期</td><td>2012-06-03 （<a href="./展会作品列表.md#16">Comic Communication16</a>）</td></tr><tr><td class="label">类型</td><td>EP</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>0</td></tr><tr><td class="label">总时长</td><td>00:00</td></tr><tr><td class="label">风格类型</td><td>Rock</td></tr><tr><td class="label">售价</td><td>会场售价：100日元</td></tr></tbody></table>
 
 慈愛-The eye-（同人专辑，MatsuYani，2012） - 2012年6月3日 由 MatsuYani 于 Comic Communication16 发布的EP同人专辑，曲目主要风格是 Rock，分级为 一般向
-
 ## Staff
 Design
 : 设计师 （[网址 社团]）
 Illustration
 : 画师 （[网址 社团]）
 
-
 ## 试听
-  
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/48400602&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=false"></iframe>
-
-  
-
 
 ## 曲目列表
 
-<table></table>
-
-
-
 ## 评论
-
-
-
 
 ---
 

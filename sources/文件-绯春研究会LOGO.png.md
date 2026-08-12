@@ -1,12 +1,8 @@
 # 文件:绯春研究会LOGO.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\17\ns6%3A%E7%BB%AF%E6%98%A5%E7%A0%94%E7%A9%B6%E4%BC%9ALOGO%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\17\ns6%3A%E7%BB%AF%E6%98%A5%E7%A0%94%E7%A9%B6%E4%BC%9ALOGO%2Epng.html -->
 
 社团LOGO | 绯春研究会
-
-
-
-
 
 
 ---

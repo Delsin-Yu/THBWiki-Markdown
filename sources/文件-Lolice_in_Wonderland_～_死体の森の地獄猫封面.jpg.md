@@ -1,6 +1,6 @@
 # 文件:Lolice_in_Wonderland_～_死体の森の地獄猫封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ad\ns6%3ALolice_in_Wonderland_%EF%BD%9E_%E6%AD%BB%E4%BD%93%E3%81%AE%E6%A3%AE%E3%81%AE%E5%9C%B0%E7%8D%84%E7%8C%AB%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ad\ns6%3ALolice_in_Wonderland_%EF%BD%9E_%E6%AD%BB%E4%BD%93%E3%81%AE%E6%A3%AE%E3%81%AE%E5%9C%B0%E7%8D%84%E7%8C%AB%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 スタジオネネム | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [Lolice in Wonderland ～ 死体の森の地獄猫](./Lolice_in_Wonderland_～_死体の森の地獄猫.md)  
-该封面包含的角色：- [火焰猫燐](./火焰猫燐.md)- [爱丽丝（旧作角色）](./爱丽丝（旧作角色）.md)
-
-
-
+- [Lolice in Wonderland ～ 死体の森の地獄猫](./Lolice_in_Wonderland_～_死体の森の地獄猫.md)该封面包含的角色：
+- [火焰猫燐](./火焰猫燐.md)
+- [爱丽丝（旧作角色）](./爱丽丝（旧作角色）.md)
 
 
 ---

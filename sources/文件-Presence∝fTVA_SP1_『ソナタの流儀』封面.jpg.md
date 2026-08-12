@@ -1,6 +1,6 @@
 # 文件:Presence∝fTVA_SP1_『ソナタの流儀』封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8b\ns6%3APresence%E2%88%9DfTVA_SP1_%E3%80%8E%E3%82%BD%E3%83%8A%E3%82%BF%E3%81%AE%E6%B5%81%E5%84%80%E3%80%8F%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8b\ns6%3APresence%E2%88%9DfTVA_SP1_%E3%80%8E%E3%82%BD%E3%83%8A%E3%82%BF%E3%81%AE%E6%B5%81%E5%84%80%E3%80%8F%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Presence∝fTVA | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ Presence∝fTVA | 专辑封面 | 封面图片
   
 
 - [Presence∝fTVA SP1 『ソナタの流儀』](./Presence∝fTVA_SP1_『ソナタの流儀』.md)
-
-
-
 
 
 ---

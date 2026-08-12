@@ -1,6 +1,6 @@
 # 文件:HANATE封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\38\ns6%3AHANATE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\38\ns6%3AHANATE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 S.K'／Sound | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ S.K'／Sound | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [HANATE](./HANATE.md)  
-该封面包含的角色：- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
-
-
-
+- [HANATE](./HANATE.md)该封面包含的角色：
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
 
 
 ---

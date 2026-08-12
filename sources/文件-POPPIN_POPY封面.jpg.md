@@ -1,6 +1,6 @@
 # 文件:POPPIN_POPY封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9d\ns6%3APOPPIN_POPY%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9d\ns6%3APOPPIN_POPY%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ひよこ缶 | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [POPPIN POPY](./POPPIN_POPY.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [POPPIN POPY](./POPPIN_POPY.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:UFOPORNO_Yöllä_Taivaalla封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\53\ns6%3AUFOPORNO_Y%C3%B6ll%C3%A4_Taivaalla%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\53\ns6%3AUFOPORNO_Y%C3%B6ll%C3%A4_Taivaalla%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Ghoulio | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Ghoulio | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [UFOPORNO Yöllä Taivaalla](./UFOPORNO_Yöllä_Taivaalla.md)  
-该封面包含的角色：- [封兽鵺](./封兽鵺.md)
+- [UFOPORNO Yöllä Taivaalla](./UFOPORNO_Yöllä_Taivaalla.md)该封面包含的角色：
+- [封兽鵺](./封兽鵺.md)
 
   
-源地址：[[1]](https://f4.bcbits.com/img/a1962233780_10.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://f4.bcbits.com/img/a1962233780_10.jpg)  
 
 ---
 

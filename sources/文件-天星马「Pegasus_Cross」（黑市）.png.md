@@ -1,14 +1,11 @@
 # 文件:天星马「Pegasus_Cross」（黑市）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d9\ns6%3A%E5%A4%A9%E6%98%9F%E9%A9%AC%E3%80%8CPegasus_Cross%E3%80%8D%EF%BC%88%E9%BB%91%E5%B8%82%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d9\ns6%3A%E5%A4%A9%E6%98%9F%E9%A9%AC%E3%80%8CPegasus_Cross%E3%80%8D%EF%BC%88%E9%BB%91%E5%B8%82%EF%BC%89%2Epng.html -->
 
 弹幕狂们的黑市 | 敌机符卡 | 骊驹早鬼
 
 
 ## 摘要
-
-
-
 
 ---
 

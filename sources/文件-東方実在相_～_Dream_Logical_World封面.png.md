@@ -1,6 +1,6 @@
 # 文件:東方実在相_～_Dream_Logical_World封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\10\ns6%3A%E6%9D%B1%E6%96%B9%E5%AE%9F%E5%9C%A8%E7%9B%B8_%EF%BD%9E_Dream_Logical_World%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\10\ns6%3A%E6%9D%B1%E6%96%B9%E5%AE%9F%E5%9C%A8%E7%9B%B8_%EF%BD%9E_Dream_Logical_World%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Analogue_Reverie | 封面图片 | 软件封面
 
@@ -10,11 +10,8 @@ Analogue_Reverie | 封面图片 | 软件封面
 使用了本文件作封面图片的作品：
   
 
-- [東方実在相 ～ Dream Logical World](./東方実在相_～_Dream_Logical_World.md)  
-该封面包含的角色：- [灯笼坂爱美](./灯笼坂爱美.md)
-
-
-
+- [東方実在相 ～ Dream Logical World](./東方実在相_～_Dream_Logical_World.md)该封面包含的角色：
+- [灯笼坂爱美](./灯笼坂爱美.md)
 
 
 ---

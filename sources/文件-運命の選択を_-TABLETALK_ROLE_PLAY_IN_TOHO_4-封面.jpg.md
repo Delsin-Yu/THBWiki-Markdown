@@ -1,6 +1,6 @@
 # 文件:運命の選択を_-TABLETALK_ROLE_PLAY_IN_TOHO_4-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\18\ns6%3A%E9%81%8B%E5%91%BD%E3%81%AE%E9%81%B8%E6%8A%9E%E3%82%92_-TABLETALK_ROLE_PLAY_IN_TOHO_4-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\18\ns6%3A%E9%81%8B%E5%91%BD%E3%81%AE%E9%81%B8%E6%8A%9E%E3%82%92_-TABLETALK_ROLE_PLAY_IN_TOHO_4-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 天秤亭 | 封面图片
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [運命の選択を -TABLETALK ROLE PLAY IN TOHO 4-](./運命の選択を_-TABLETALK_ROLE_PLAY_IN_TOHO_4-.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [運命の選択を -TABLETALK ROLE PLAY IN TOHO 4-](./運命の選択を_-TABLETALK_ROLE_PLAY_IN_TOHO_4-.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
   
-源地址：[[1]](http://10bintei.com/images/produce15_01.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://10bintei.com/images/produce15_01.jpg)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:Cafe_de_Touhou_3封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a2\ns6%3ACafe_de_Touhou_3%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a2\ns6%3ACafe_de_Touhou_3%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 DDBY | 专辑封面 | 封面图片
 
@@ -8,11 +8,12 @@ DDBY | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Cafe de Touhou 3](./Cafe_de_Touhou_3.md)  
-该封面包含的角色：- [露米娅](./露米娅.md)- [红美铃](./红美铃.md)- 十六夜咲夜 (未找到链接)- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
-
-
-
+- [Cafe de Touhou 3](./Cafe_de_Touhou_3.md)该封面包含的角色：
+- [露米娅](./露米娅.md)
+- [红美铃](./红美铃.md)
+- [十六夜咲夜](./十六夜咲夜.md)
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
 
 ---

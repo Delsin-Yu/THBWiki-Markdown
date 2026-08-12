@@ -1,6 +1,6 @@
 # 文件:Let's_Change_The_World's_End封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8f\ns6%3ALet%27s_Change_The_World%27s_End%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8f\ns6%3ALet%27s_Change_The_World%27s_End%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Squall_Of_Scream | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Squall_Of_Scream | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Let's Change The World's End](./Let's_Change_The_World's_End.md)  
-该封面包含的角色：- [橙](./橙.md)
+- [Let's Change The World's End](./Let's_Change_The_World's_End.md)该封面包含的角色：
+- [橙](./橙.md)
 
   
-源地址：[[1]](https://pbs.twimg.com/media/D41zgx9U8AAp8gz.jpg:orig), [original tweet](https://twitter.com/yui1202mini/status/1120678895085182976)
-  
-
-
-
-
+源地址：[\[1\]](https://pbs.twimg.com/media/D41zgx9U8AAp8gz.jpg:orig), [original tweet](https://twitter.com/yui1202mini/status/1120678895085182976)  
 
 ---
 

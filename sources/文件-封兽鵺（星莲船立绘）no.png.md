@@ -1,12 +1,8 @@
 # 文件:封兽鵺（星莲船立绘）no.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e8\ns6%3A%E5%B0%81%E5%85%BD%E9%B5%BA%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89no%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e8\ns6%3A%E5%B0%81%E5%85%BD%E9%B5%BA%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89no%2Epng.html -->
 
 ZUN绘 | 东方星莲船 | 官方游戏立绘 | 封兽鵺
-
-
-
-
 
 
 ---

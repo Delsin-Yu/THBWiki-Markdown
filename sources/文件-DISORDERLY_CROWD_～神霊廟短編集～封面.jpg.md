@@ -1,6 +1,6 @@
 # 文件:DISORDERLY_CROWD_～神霊廟短編集～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\86\ns6%3ADISORDERLY_CROWD_%EF%BD%9E%E7%A5%9E%E9%9C%8A%E5%BB%9F%E7%9F%AD%E7%B7%A8%E9%9B%86%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\86\ns6%3ADISORDERLY_CROWD_%EF%BD%9E%E7%A5%9E%E9%9C%8A%E5%BB%9F%E7%9F%AD%E7%B7%A8%E9%9B%86%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 黒錆一揆
 
@@ -8,11 +8,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [DISORDERLY CROWD ～神霊廟短編集～](./DISORDERLY_CROWD_～神霊廟短編集～.md)  
-该封面包含的角色：- [苏我屠自古](./苏我屠自古.md)- [丰聪耳神子](./丰聪耳神子.md)- [秦心](./秦心.md)
-
-
-
+- [DISORDERLY CROWD ～神霊廟短編集～](./DISORDERLY_CROWD_～神霊廟短編集～.md)该封面包含的角色：
+- [苏我屠自古](./苏我屠自古.md)
+- [丰聪耳神子](./丰聪耳神子.md)
+- [秦心](./秦心.md)
 
 
 ---

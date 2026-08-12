@@ -1,12 +1,8 @@
 # 文件:庭渡久侘歌（鬼形兽立绘）dp.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\27\ns6%3A%E5%BA%AD%E6%B8%A1%E4%B9%85%E4%BE%98%E6%AD%8C%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89dp%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\27\ns6%3A%E5%BA%AD%E6%B8%A1%E4%B9%85%E4%BE%98%E6%AD%8C%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89dp%2Epng.html -->
 
 ZUN绘 | 东方鬼形兽 | 官方游戏立绘 | 庭渡久侘歌
-
-
-
-
 
 
 ---

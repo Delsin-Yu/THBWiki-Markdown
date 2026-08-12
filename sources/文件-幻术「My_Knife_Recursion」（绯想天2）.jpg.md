@@ -1,12 +1,8 @@
 # 文件:幻术「My_Knife_Recursion」（绯想天2）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fe\ns6%3A%E5%B9%BB%E6%9C%AF%E3%80%8CMy_Knife_Recursion%E3%80%8D%EF%BC%88%E7%BB%AF%E6%83%B3%E5%A4%A92%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fe\ns6%3A%E5%B9%BB%E6%9C%AF%E3%80%8CMy_Knife_Recursion%E3%80%8D%EF%BC%88%E7%BB%AF%E6%83%B3%E5%A4%A92%EF%BC%89%2Ejpg.html -->
 
 东方绯想天 | 十六夜咲夜 | 敌机符卡
-
-
-
-
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:THD2不明的秒计时.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\03\ns6%3ATHD2%E4%B8%8D%E6%98%8E%E7%9A%84%E7%A7%92%E8%AE%A1%E6%97%B6%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\03\ns6%3ATHD2%E4%B8%8D%E6%98%8E%E7%9A%84%E7%A7%92%E8%AE%A1%E6%97%B6%2Epng.html -->
 
 THD2
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:5：5_or_6：4(average)封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4b\ns6%3A5%EF%BC%9A5_or_6%EF%BC%9A4%28average%29%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4b\ns6%3A5%EF%BC%9A5_or_6%EF%BC%9A4%28average%29%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 UI-70 | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ UI-70 | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [5：5 or 6：4(average)](./5：5_or_6：4(average).md)  
-该封面包含的角色：- [露米娅](./露米娅.md)
-
-
-
+- [5：5 or 6：4(average)](./5：5_or_6：4(average%29.md)该封面包含的角色：
+- [露米娅](./露米娅.md)
 
 
 ---

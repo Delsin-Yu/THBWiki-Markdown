@@ -1,6 +1,6 @@
 # 文件:El_Pasado_Ausente封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b9\ns6%3AEl_Pasado_Ausente%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b9\ns6%3AEl_Pasado_Ausente%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ジャージと愉快な仲間たち | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [El Pasado Ausente](./El_Pasado_Ausente.md)  
-该封面包含的角色：- [伊吹萃香](./伊吹萃香.md)
-
-
-
+- [El Pasado Ausente](./El_Pasado_Ausente.md)该封面包含的角色：
+- [伊吹萃香](./伊吹萃香.md)
 
 
 ---

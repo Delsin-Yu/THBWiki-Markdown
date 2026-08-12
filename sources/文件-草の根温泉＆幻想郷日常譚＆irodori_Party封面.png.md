@@ -1,6 +1,6 @@
 # 文件:草の根温泉＆幻想郷日常譚＆irodori_Party封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\58\ns6%3A%E8%8D%89%E3%81%AE%E6%A0%B9%E6%B8%A9%E6%B3%89%EF%BC%86%E5%B9%BB%E6%83%B3%E9%83%B7%E6%97%A5%E5%B8%B8%E8%AD%9A%EF%BC%86irodori_Party%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\58\ns6%3A%E8%8D%89%E3%81%AE%E6%A0%B9%E6%B8%A9%E6%B3%89%EF%BC%86%E5%B9%BB%E6%83%B3%E9%83%B7%E6%97%A5%E5%B8%B8%E8%AD%9A%EF%BC%86irodori_Party%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 上井草うどん | 同人志封面 | 封面图片
 
@@ -10,11 +10,13 @@
 使用了本文件作封面图片的作品：
   
 
-- [草の根温泉＆幻想郷日常譚＆irodori Party](./草の根温泉＆幻想郷日常譚＆irodori_Party.md)  
-该封面包含的角色：- [多多良小伞](./多多良小伞.md)- [封兽鵺](./封兽鵺.md)- [二岩猯藏](./二岩猯藏.md)- [若鹭姬](./若鹭姬.md)- [赤蛮奇](./赤蛮奇.md)- [今泉影狼](./今泉影狼.md)
-
-
-
+- [草の根温泉＆幻想郷日常譚＆irodori Party](./草の根温泉＆幻想郷日常譚＆irodori_Party.md)该封面包含的角色：
+- [多多良小伞](./多多良小伞.md)
+- [封兽鵺](./封兽鵺.md)
+- [二岩猯藏](./二岩猯藏.md)
+- [若鹭姬](./若鹭姬.md)
+- [赤蛮奇](./赤蛮奇.md)
+- [今泉影狼](./今泉影狼.md)
 
 
 ---

@@ -1,14 +1,11 @@
 # 文件:The_Grimoire_of_Usami（今泉影狼2）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\03\ns6%3AThe_Grimoire_of_Usami%EF%BC%88%E4%BB%8A%E6%B3%89%E5%BD%B1%E7%8B%BC2%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\03\ns6%3AThe_Grimoire_of_Usami%EF%BC%88%E4%BB%8A%E6%B3%89%E5%BD%B1%E7%8B%BC2%EF%BC%89%2Ejpg.html -->
 
 今泉影狼 | 宇佐见的魔法书
 
 
 ## 摘要
-
-
-
 
 ---
 

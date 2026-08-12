@@ -1,6 +1,6 @@
 # 文件:Par's_Eat-パルスィの食-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1a\ns6%3APar%27s_Eat-%E3%83%91%E3%83%AB%E3%82%B9%E3%82%A3%E3%81%AE%E9%A3%9F-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1a\ns6%3APar%27s_Eat-%E3%83%91%E3%83%AB%E3%82%B9%E3%82%A3%E3%81%AE%E9%A3%9F-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 下水道生活 | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Par's Eat-パルスィの食-](./Par's_Eat-パルスィの食-.md)  
-该封面包含的角色：- [水桥帕露西](./水桥帕露西.md)
-
-
-
+- [Par's Eat-パルスィの食-](./Par's_Eat-パルスィの食-.md)该封面包含的角色：
+- [水桥帕露西](./水桥帕露西.md)
 
 
 ---

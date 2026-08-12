@@ -1,6 +1,6 @@
 # 文件:Original_Intention封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b8\ns6%3AOriginal_Intention%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b8\ns6%3AOriginal_Intention%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 CROW'SCLAW | 专辑封面 | 封面图片
 
@@ -8,11 +8,11 @@ CROW'SCLAW | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Original Intention](./Original_Intention.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)- [藤原妹红](./藤原妹红.md)- [小野塚小町](./小野塚小町.md)- 原创角色 (未找到链接)
-
-
-
+- [Original Intention](./Original_Intention.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
+- [藤原妹红](./藤原妹红.md)
+- [小野塚小町](./小野塚小町.md)
+- 原创角色 (未找到链接)
 
 
 ---

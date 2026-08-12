@@ -1,6 +1,6 @@
 # 文件:紅殻姫童体_STARBOW_BREAK_COMPLEX封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e9\ns6%3A%E7%B4%85%E6%AE%BB%E5%A7%AB%E7%AB%A5%E4%BD%93_STARBOW_BREAK_COMPLEX%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e9\ns6%3A%E7%B4%85%E6%AE%BB%E5%A7%AB%E7%AB%A5%E4%BD%93_STARBOW_BREAK_COMPLEX%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 趣味工房にんじんわいん
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [紅殻姫童体 STARBOW BREAK COMPLEX](./紅殻姫童体_STARBOW_BREAK_COMPLEX.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
-
-
-
+- [紅殻姫童体 STARBOW BREAK COMPLEX](./紅殻姫童体_STARBOW_BREAK_COMPLEX.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
 
 ---

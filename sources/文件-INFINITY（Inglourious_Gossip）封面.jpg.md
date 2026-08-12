@@ -1,6 +1,6 @@
 # 文件:INFINITY（Inglourious_Gossip）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\10\ns6%3AINFINITY%EF%BC%88Inglourious_Gossip%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\10\ns6%3AINFINITY%EF%BC%88Inglourious_Gossip%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Inglourious_Gossip | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ Inglourious_Gossip | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [INFINITY（Inglourious Gossip）](./INFINITY（Inglourious_Gossip）.md)  
-该封面包含的角色：- [橙](./橙.md)- [八云蓝](./八云蓝.md)
-
-
-
+- [INFINITY（Inglourious Gossip）](./INFINITY（Inglourious_Gossip）.md)该封面包含的角色：
+- [橙](./橙.md)
+- [八云蓝](./八云蓝.md)
 
 
 ---

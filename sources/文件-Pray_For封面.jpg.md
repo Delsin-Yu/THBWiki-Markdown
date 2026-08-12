@@ -1,6 +1,6 @@
 # 文件:Pray_For封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\79\ns6%3APray_For%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\79\ns6%3APray_For%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Silver_Forest | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ Silver_Forest | 专辑封面 | 封面图片
   
 
 - [Pray For](./Pray_For.md)
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Disharmonious_Mayhem封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9f\ns6%3ADisharmonious_Mayhem%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9f\ns6%3ADisharmonious_Mayhem%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Art_of_Heart | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Art_of_Heart | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Disharmonious Mayhem](./Disharmonious_Mayhem.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
-
-
-
+- [Disharmonious Mayhem](./Disharmonious_Mayhem.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
 
 ---

@@ -1,16 +1,11 @@
 # 文件:MORATORIUMbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a5\ns6%3AMORATORIUMbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a5\ns6%3AMORATORIUMbanner%2Epng.html -->
 
 MORATORIUM | 社团LOGO
 
   
-源地址：[[1]](http://moratorium.soudesune.net/moratorium3.png)
-  
-
-
-
-
+源地址：[\[1\]](http://moratorium.soudesune.net/moratorium3.png)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:Acceptance_of_despair封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\05\ns6%3AAcceptance_of_despair%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\05\ns6%3AAcceptance_of_despair%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 AMONG_THE_GLOOM | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ AMONG_THE_GLOOM | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Acceptance of despair](./Acceptance_of_despair.md)  
-该封面包含的角色：- [秦心](./秦心.md)
-
-
-
+- [Acceptance of despair](./Acceptance_of_despair.md)该封面包含的角色：
+- [秦心](./秦心.md)
 
 
 ---

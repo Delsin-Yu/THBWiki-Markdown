@@ -1,6 +1,6 @@
 # 文件:THE_FIFTH_EYE封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a8\ns6%3ATHE_FIFTH_EYE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a8\ns6%3ATHE_FIFTH_EYE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 剥色徒領 | 封面图片
 
@@ -9,9 +9,6 @@
   
 
 - [THE FIFTH EYE](./THE_FIFTH_EYE.md)
-
-
-
 
 
 ---

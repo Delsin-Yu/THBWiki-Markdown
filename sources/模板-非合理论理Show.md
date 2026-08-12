@@ -1,16 +1,12 @@
 # 模板:非合理论理Show
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\5\57\ns10%3A%E9%9D%9E%E5%90%88%E7%90%86%E8%AE%BA%E7%90%86Show.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\5\57\ns10%3A%E9%9D%9E%E5%90%88%E7%90%86%E8%AE%BA%E7%90%86Show.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

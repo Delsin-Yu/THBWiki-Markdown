@@ -1,14 +1,11 @@
 # 文件:五花八門banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8f\ns6%3A%E4%BA%94%E8%8A%B1%E5%85%AB%E9%96%80banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8f\ns6%3A%E4%BA%94%E8%8A%B1%E5%85%AB%E9%96%80banner%2Ejpg.html -->
 
 五花八門 | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

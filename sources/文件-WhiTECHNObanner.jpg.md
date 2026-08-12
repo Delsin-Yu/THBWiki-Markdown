@@ -1,12 +1,8 @@
 # 文件:WhiTECHNObanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e1\ns6%3AWhiTECHNObanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e1\ns6%3AWhiTECHNObanner%2Ejpg.html -->
 
 WhiTECHNO | 社团LOGO
-
-
-
-
 
 
 ---

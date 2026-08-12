@@ -1,12 +1,8 @@
 # 文件:四七一banner1.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fc\ns6%3A%E5%9B%9B%E4%B8%83%E4%B8%80banner1%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fc\ns6%3A%E5%9B%9B%E4%B8%83%E4%B8%80banner1%2Egif.html -->
 
 四七一 | 社团LOGO
-
-
-
-
 
 
 ---

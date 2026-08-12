@@ -1,12 +1,8 @@
 # 文件:东风谷早苗（虹龙洞立绘）no.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5a\ns6%3A%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97%EF%BC%88%E8%99%B9%E9%BE%99%E6%B4%9E%E7%AB%8B%E7%BB%98%EF%BC%89no%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5a\ns6%3A%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97%EF%BC%88%E8%99%B9%E9%BE%99%E6%B4%9E%E7%AB%8B%E7%BB%98%EF%BC%89no%2Epng.html -->
 
 ZUN绘 | 东方虹龙洞 | 东风谷早苗 | 官方游戏立绘
-
-
-
-
 
 
 ---

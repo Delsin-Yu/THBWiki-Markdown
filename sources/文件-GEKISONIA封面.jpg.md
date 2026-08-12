@@ -1,6 +1,6 @@
 # 文件:GEKISONIA封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\60\ns6%3AGEKISONIA%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\60\ns6%3AGEKISONIA%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 激戦魂_-Gekisen_Soul-
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [GEKISONIA](./GEKISONIA.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [GEKISONIA](./GEKISONIA.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
   
-源地址：[[1]](http://bmimg.nicovideo.jp/image/ch2552882/162206/5408532b7716ec751e79016727b7fea350eb8cad.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://bmimg.nicovideo.jp/image/ch2552882/162206/5408532b7716ec751e79016727b7fea350eb8cad.jpg)  
 
 ---
 

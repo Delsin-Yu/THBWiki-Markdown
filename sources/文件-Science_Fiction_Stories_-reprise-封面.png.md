@@ -1,6 +1,6 @@
 # 文件:Science_Fiction_Stories_-reprise-封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0b\ns6%3AScience_Fiction_Stories_-reprise-%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0b\ns6%3AScience_Fiction_Stories_-reprise-%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 群雨アンブレイラ
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Science Fiction Stories -reprise-](./Science_Fiction_Stories_-reprise-.md)  
-该封面包含的角色：- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [Science Fiction Stories -reprise-](./Science_Fiction_Stories_-reprise-.md)该封面包含的角色：
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

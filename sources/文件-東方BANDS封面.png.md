@@ -1,6 +1,6 @@
 # 文件:東方BANDS封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f7\ns6%3A%E6%9D%B1%E6%96%B9BANDS%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f7\ns6%3A%E6%9D%B1%E6%96%B9BANDS%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 平川corp.
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方BANDS](./東方BANDS.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [東方BANDS](./東方BANDS.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

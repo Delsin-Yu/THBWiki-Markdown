@@ -1,6 +1,6 @@
 # 文件:Truths,_Ironies,_The_Secret_Lyrics封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\de\ns6%3ATruths%2C_Ironies%2C_The_Secret_Lyrics%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\de\ns6%3ATruths%2C_Ironies%2C_The_Secret_Lyrics%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Foreground_Eclipse | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ Foreground_Eclipse | 专辑封面 | 封面图片
   
 
 - [Truths, Ironies, The Secret Lyrics](./Truths,_Ironies,_The_Secret_Lyrics.md)
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Relaxing_Tape封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c6\ns6%3ARelaxing_Tape%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c6\ns6%3ARelaxing_Tape%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Mikagura_Records | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@ Mikagura_Records | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Relaxing Tape](./Relaxing_Tape.md)  
-该封面包含的角色：- [八云蓝](./八云蓝.md)
+- [Relaxing Tape](./Relaxing_Tape.md)该封面包含的角色：
+- [八云蓝](./八云蓝.md)
 
   
-源地址：[图片链接](https://static.wixstatic.com/media/4774b8_415d428d41014bfd9f7a3cdb2f0598e9~mv2.png) [官网Discography页](https://mikagurarecords.wixsite.com/mikagurarecords/release)
-  
-
-
-
-
+源地址：[图片链接](https://static.wixstatic.com/media/4774b8_415d428d41014bfd9f7a3cdb2f0598e9~mv2.png) [官网Discography页](https://mikagurarecords.wixsite.com/mikagurarecords/release)  
 
 ---
 

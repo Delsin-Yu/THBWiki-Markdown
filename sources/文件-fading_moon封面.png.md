@@ -1,6 +1,6 @@
 # 文件:fading_moon封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\50\ns6%3Afading_moon%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\50\ns6%3Afading_moon%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 よいむつ | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [fading moon](./fading_moon.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [fading moon](./fading_moon.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
   
-[Pixiv artwork ID: 17104468 (original size)](https://www.pixiv.net/artworks/17104468)
-  
-
-
-
-
+[Pixiv artwork ID: 17104468 (original size)](https://www.pixiv.net/artworks/17104468)  
 
 ---
 

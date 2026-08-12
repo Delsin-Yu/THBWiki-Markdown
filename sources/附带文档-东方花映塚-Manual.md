@@ -1,13 +1,15 @@
 # 附带文档:东方花映塚/Manual
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\c\c6\ns506%3A%E4%B8%9C%E6%96%B9%E8%8A%B1%E6%98%A0%E5%A1%9A%2FManual.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\c\c6\ns506%3A%E4%B8%9C%E6%96%B9%E8%8A%B1%E6%98%A0%E5%A1%9A%2FManual.html -->
 
 Manual | 东方花映塚 | 使用了翻译表的页面 | 附带文档
 
-- 本词条内容为官方游戏TH09 **[东方花映塚](./东方花映塚.md)** 的附带文档之一
+
+- 本词条内容为官方游戏TH09**[东方花映塚](./东方花映塚.md)**的附带文档之一
 - 如果发现翻译问题可进行改正
-- 注意：本词条其原文为HTML格式的网页说明书，鉴于HTML网页完整呈现在Wiki上比较复杂且费时，目前仍仅将 **故事背景** 及 **角色介绍** 部分以对照翻译的形式列出在本页面内。
-- <big>说明书的其他内容请点击下列网址来进行访问： **[日文版](http://omake.thwiki.cc/manual/th09/ja/)** ， **[中文版](http://omake.thwiki.cc/manual/th09/zh/)** </big>
+- 注意：本词条其原文为HTML格式的网页说明书，鉴于HTML网页完整呈现在Wiki上比较复杂且费时，目前仍仅将**故事背景**及**角色介绍**部分以对照翻译的形式列出在本页面内。
+- <big>说明书的其他内容请点击下列网址来进行访问：**[日文版](http://omake.thwiki.cc/manual/th09/ja/)**，**[中文版](http://omake.thwiki.cc/manual/th09/zh/)**</big>
+
 
 ## 目录
 
@@ -21,14 +23,9 @@ Manual | 东方花映塚 | 使用了翻译表的页面 | 附带文档
 - [8 铃仙·优昙华院·因幡](#铃仙·优昙华院·因幡)
 
 
-
-
-
 ###### 概要
 
-
-<table><tbody><tr class="tt-content-header" id="=-2" data-pos="&#91;&quot;=&quot;,2&#93;"><td class="tt-jah" lang="ja"><div class="poem">１．概要</div></td><td class="tt-zhh" lang="zh"><div class="poem">１．概要</div></td></tr><tr class="tt-content" id="=-3" data-pos="&#91;&quot;=&quot;,3&#93;"><td class="tt-ja" lang="ja"><div class="poem">東方Project 第九弾!!<br>「<ruby lang="ja"><rb>東方花映塚</rb><rp> (</rp><rt>とうほうかえいづか</rt><rp>) </rp></ruby>　～ Phantasmagoria of Flower View.」は対戦<small>している振りをする</small>弾幕シューティングです。<br>ティンクルスタースプライツの皮を被った変な弾幕ゲームなのです。<small>それだと思って手を出すとえらい目に遭うおまけ付き</small><br><br>妖精が蠢く幻想郷の、最も暢気な人間と最も花に浮かれた妖怪達の弾幕開花宣言。<br>敵を倒す前に倒されるな！　攻撃するなら避けろ！！<br>幻想を見る人には、鋭い攻撃よりジェントルメンな回避が良く似合う。<small>それはもう消極的な</small><br><br><small>＊このゲームには過激な弾幕シーンが含まれております<br>　小さなお子様や、弾幕アレルギーの方はアレしてください。</small></div></td><td class="tt-zh" lang="zh"><div class="poem">东方Project 第九弾!!<br>「东方花映塚　～ Phantasmagoria of Flower View.」为<small>装作</small>对战的弹幕射击游戏。<br>披着梦幻小妖精<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">1</a></sup>的奇怪的弹幕游戏。<small>以为是那样,一旦出手就获得了倒大霉的附赠品</small><br><br>妖精们蠢蠢欲动的幻想乡中，最悠闲的人类与最沉醉于花中的妖怪们的弹幕开花宣言。<br>打倒敌人之前不要倒下！　攻击过来的话就躲避！！<br>对于能够见到幻想的人，比起尖锐的攻击还是绅士地回避更适合。<small>那个已经很消极了</small><br><br><small>＊本游戏含有过激的弹幕场景<br>　小孩子，或者对弹幕过敏的人请做那个。</small></div></td></tr></tbody></table>
-
+<table><tbody><tr class="tt-content-header" id="=-2" data-pos="&#91;&quot;=&quot;,2&#93;"><td class="tt-jah" lang="ja"><div class="poem">１．概要</div></td><td class="tt-zhh" lang="zh"><div class="poem">１．概要</div></td></tr><tr class="tt-content" id="=-3" data-pos="&#91;&quot;=&quot;,3&#93;"><td class="tt-ja" lang="ja"><div class="poem">東方Project 第九弾!!<br>「<ruby lang="ja"><rb>東方花映塚</rb><rp> (</rp><rt>とうほうかえいづか</rt><rp>) </rp></ruby>　～ Phantasmagoria of Flower View.」は対戦<small>している振りをする</small>弾幕シューティングです。<br>ティンクルスタースプライツの皮を被った変な弾幕ゲームなのです。<small>それだと思って手を出すとえらい目に遭うおまけ付き</small><br><br>妖精が蠢く幻想郷の、最も暢気な人間と最も花に浮かれた妖怪達の弾幕開花宣言。<br>敵を倒す前に倒されるな！　攻撃するなら避けろ！！<br>幻想を見る人には、鋭い攻撃よりジェントルメンな回避が良く似合う。<small>それはもう消極的な</small><br><br><small>＊このゲームには過激な弾幕シーンが含まれております<br>　小さなお子様や、弾幕アレルギーの方はアレしてください。</small></div></td><td class="tt-zh" lang="zh"><div class="poem">东方Project 第九弾!!<br>「东方花映塚　～ Phantasmagoria of Flower View.」为<small>装作</small>对战的弹幕射击游戏。<br>披着梦幻小妖精<span>[^cite_note-1]</span>的奇怪的弹幕游戏。<small>以为是那样,一旦出手就获得了倒大霉的附赠品</small><br><br>妖精们蠢蠢欲动的幻想乡中，最悠闲的人类与最沉醉于花中的妖怪们的弹幕开花宣言。<br>打倒敌人之前不要倒下！　攻击过来的话就躲避！！<br>对于能够见到幻想的人，比起尖锐的攻击还是绅士地回避更适合。<small>那个已经很消极了</small><br><br><small>＊本游戏含有过激的弹幕场景<br>　小孩子，或者对弹幕过敏的人请做那个。</small></div></td></tr></tbody></table>
 
 
 <table>
@@ -94,16 +91,12 @@ Manual | 东方花映塚 | 使用了翻译表的页面 | 附带文档
 </td></tr></tbody></table>
 
 
-
 ###### 故事背景
-
 
 <table><tbody><tr class="tt-content-header" id="=-6" data-pos="&#91;&quot;=&quot;,6&#93;"><td class="tt-jah" lang="ja"><div class="poem">２．バックストーリー</div></td><td class="tt-zhh" lang="zh"><div class="poem">２．故事背景</div></td></tr><tr class="tt-content" id="=-7" data-pos="&#91;&quot;=&quot;,7&#93;"><td class="tt-ja" lang="ja"><div class="poem">――幻想郷が蘇生した。<br><br>冬の白色は春の日差しに彩られ、幻想郷は完全に生の色を取り戻していた。<br>冬の間眠っていた色の力が目覚め、幻想郷を覆う。<br>花と同時に妖精達も騒がしくなる。<br>その異常な美しさの自然は、幻想郷に住む者全てを驚かせた。<br><br>彼女たちはいち早くその異変に気が付いた。<br><br>桜、向日葵、野菊、桔梗……<br>まだ春だというのに、一年中全ての花が同時に咲き出していたのだ。<br>多くの人間と全ての妖精は、自然からのプレゼントと受け取って暫くその光景に浮かれていた。<br>だが、幻想郷でもっとも暢気な人間は珍しくあわてていた。<br><br>「こんなに判りやすい異変じゃあ、早く解決しないといけないわ。<br>　じゃないと、私が怠けているってみんなに言っているようなもんじゃない！」<br><br>いつも通り、当てもなく勘で神社を飛び出したのだった。<br><br><br>幻想郷自体が蘇生した。<br>彼女たちも自然の一部。妖精の力は自然の力。自然には抗えないことを、皆知っていた。<br><br>　　　　　　　　　　　　　　　　　　　　東方花映塚　～ Phantasmagoria of Flower View.</div></td><td class="tt-zh" lang="zh"><div class="poem">——幻想乡复苏了。<br><br>冬的白色被春日的阳光所点缀，幻想乡完全取回了生机的颜色。<br>在冬天期间安眠的颜色的力量苏醒了过来，覆盖了幻想乡。<br>和花开的同时，妖怪们也活跃起来。<br>这异常美丽的自然，令幻想乡的所有居住者都吃了一惊。<br><br>她们很快就发觉到了异样。<br><br>樱花，向日葵，野菊花，桔梗……<br>明明还是春天，全年的花却全都盛开了。<br>多数的人类和所有的妖怪们，都接受了这自然的礼物并为这短暂的光景而兴奋。<br>但是，幻想乡中最开朗的人类却少有地惊慌着。<br><br>「这种一看就知道是异变，必须早点解决。<br>　不然，大家一定又要说是我怠慢了！」<br><br>和平时一样，依靠着没有目的地的直觉从神社飞奔了出去。<br><br><br>幻想乡本身复苏了。<br>她们也是自然的一部分，妖精的力就是自然的力。大家都知道，自然是不可抵抗的。<br><br>　　　　　　　　　　　　　　　东方花映塚　～ Phantasmagoria of Flower View.</div></td></tr></tbody></table>
 
 
-
 ###### 角色介绍
-
 
 <table><tbody><tr class="tt-content-header" id="=-9" data-pos="&#91;&quot;=&quot;,9&#93;"><td class="tt-jah" lang="ja"><div class="poem">３．プレイヤーキャラ紹介</div></td><td class="tt-zhh" lang="zh"><div class="poem">３．自机角色介绍</div></td></tr><tr class="tt-content-header" id="=-10" data-pos="&#91;&quot;=&quot;,10&#93;"><td class="tt-jah" lang="ja"><div class="poem"><big>キャラ紹介</big></div></td><td class="tt-zhh" lang="zh"><div class="poem"><big>角色介绍</big></div></td></tr><tr class="tt-content" id="=-11" data-pos="&#91;&quot;=&quot;,11&#93;"><td class="tt-ja" lang="ja"><div class="poem">博麗霊夢　　　　　　　　　　　巫女<br>霧雨魔理沙　　　　　　　　　　魔法使い<br>十六夜咲夜　　　　　　　　　　メイド<br>魂魄妖夢　　　　　　　　　　　半人半霊<br>鈴仙・優曇華院・イナバ　　　月の兎</div></td><td class="tt-zh" lang="zh"><div class="poem"><a href="#博丽灵梦">博丽灵梦</a>　　　　　　　　巫女<br><a href="#雾雨魔理沙">雾雨魔理沙</a>　　　　　　　魔法使<br><a href="#十六夜咲夜">十六夜咲夜</a>　　　　　　　女仆<br><a href="#魂魄妖梦">魂魄妖梦</a>　　　　　　　　半人半灵<br><a href="#铃仙·优昙华院·因幡">铃仙·优昙华院·因幡</a>　　　　月兔<br></div></td></tr></tbody></table>
 
@@ -164,12 +157,7 @@ Manual | 东方花映塚 | 使用了翻译表的页面 | 附带文档
 </div></td></tr></tbody></table>
 <br><br></div></td></tr></tbody></table>
 
-
 [^cite_note-1]: Twinkle Star Sprites，一款96年的纵版对战射击游戏
-
-
-
-
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:MELODIC_NIGHT封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8b\ns6%3AMELODIC_NIGHT%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8b\ns6%3AMELODIC_NIGHT%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 サンショウユ | 专辑封面 | 封面图片
 
@@ -8,16 +8,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [MELODIC NIGHT](./MELODIC_NIGHT.md)  
-该封面包含的角色：- [上白泽慧音](./上白泽慧音.md)- [藤原妹红](./藤原妹红.md)
+- [MELODIC NIGHT](./MELODIC_NIGHT.md)该封面包含的角色：
+- [上白泽慧音](./上白泽慧音.md)
+- [藤原妹红](./藤原妹红.md)
 
   
-[Pixiv artwork ID: 17186840](https://www.pixiv.net/artworks/17186840)
-  
-
-
-
-
+[Pixiv artwork ID: 17186840](https://www.pixiv.net/artworks/17186840)  
 
 ---
 

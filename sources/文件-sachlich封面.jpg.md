@@ -1,6 +1,6 @@
 # 文件:sachlich封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8c\ns6%3Asachlich%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8c\ns6%3Asachlich%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 豚乙女
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [sachlich](./sachlich.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [sachlich](./sachlich.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
 
   
-源地址：[[1]](http://butaotome.com/2017/3sh/sh_jacket.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://butaotome.com/2017/3sh/sh_jacket.jpg)  
 
 ---
 

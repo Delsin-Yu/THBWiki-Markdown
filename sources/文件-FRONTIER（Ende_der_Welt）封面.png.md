@@ -1,6 +1,6 @@
 # 文件:FRONTIER（Ende_der_Welt）封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9d\ns6%3AFRONTIER%EF%BC%88Ende_der_Welt%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9d\ns6%3AFRONTIER%EF%BC%88Ende_der_Welt%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Ende_der_Welt | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Ende_der_Welt | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [FRONTIER（Ende der Welt）](./FRONTIER（Ende_der_Welt）.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
-
-
-
+- [FRONTIER（Ende der Welt）](./FRONTIER（Ende_der_Welt）.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
 
 ---

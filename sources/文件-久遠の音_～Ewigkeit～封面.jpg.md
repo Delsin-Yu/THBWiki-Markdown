@@ -1,6 +1,6 @@
 # 文件:久遠の音_～Ewigkeit～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\df\ns6%3A%E4%B9%85%E9%81%A0%E3%81%AE%E9%9F%B3_%EF%BD%9EEwigkeit%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\df\ns6%3A%E4%B9%85%E9%81%A0%E3%81%AE%E9%9F%B3_%EF%BD%9EEwigkeit%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 α_music | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [久遠の音 ～Ewigkeit～](./久遠の音_～Ewigkeit～.md)  
-该封面包含的角色：- [蓬莱山辉夜](./蓬莱山辉夜.md)
-
-
-
+- [久遠の音 ～Ewigkeit～](./久遠の音_～Ewigkeit～.md)该封面包含的角色：
+- [蓬莱山辉夜](./蓬莱山辉夜.md)
 
 
 ---

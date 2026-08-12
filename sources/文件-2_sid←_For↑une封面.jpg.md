@@ -1,6 +1,6 @@
 # 文件:2_sid←_For↑une封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\16\ns6%3A2_sid%E2%86%90_For%E2%86%91une%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\16\ns6%3A2_sid%E2%86%90_For%E2%86%91une%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 マヨヒシャドウ | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [2 sid← For↑une](./2_sid←_For↑une.md)  
-该封面包含的角色：- [稀神探女](./稀神探女.md)
-
-
-
+- [2 sid← For↑une](./2_sid←_For↑une.md)该封面包含的角色：
+- [稀神探女](./稀神探女.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:YEK_Revival_project_VOL.I封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5e\ns6%3AYEK_Revival_project_VOL%2EI%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5e\ns6%3AYEK_Revival_project_VOL%2EI%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 YEKproject | 专辑封面 | 封面图片
 
@@ -10,11 +10,9 @@ YEKproject | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [YEK Revival project VOL.I](./YEK_Revival_project_VOL.I.md)  
-该封面包含的角色：- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)- [比那名居天子](./比那名居天子.md)
-
-
-
+- [YEK Revival project VOL.I](./YEK_Revival_project_VOL.I.md)该封面包含的角色：
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
+- [比那名居天子](./比那名居天子.md)
 
 
 ---

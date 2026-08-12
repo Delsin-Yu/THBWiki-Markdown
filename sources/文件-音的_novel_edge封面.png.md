@@ -1,6 +1,6 @@
 # 文件:音的_novel_edge封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\21\ns6%3A%E9%9F%B3%E7%9A%84_novel_edge%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\21\ns6%3A%E9%9F%B3%E7%9A%84_novel_edge%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 maximedia | 专辑封面 | 封面图片
 
@@ -8,10 +8,7 @@ maximedia | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [音的 novel edge](./音的_novel_edge.md)源地址：[[1]](http://maximediamain.wixsite.com/maximedia-novel-edge)
-
-
-
+- [音的 novel edge](./音的_novel_edge.md)源地址：[\[1\]](http://maximediamain.wixsite.com/maximedia-novel-edge)
 
 
 ---

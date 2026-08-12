@@ -1,6 +1,6 @@
 # 文件:EURO_BAKAICHIDAI_VOL.19封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\be\ns6%3AEURO_BAKAICHIDAI_VOL%2E19%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\be\ns6%3AEURO_BAKAICHIDAI_VOL%2E19%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Eurobeat_Union | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Eurobeat_Union | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [EURO BAKAICHIDAI VOL.19](./EURO_BAKAICHIDAI_VOL.19.md)  
-该封面包含的角色：- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
-
-
-
+- [EURO BAKAICHIDAI VOL.19](./EURO_BAKAICHIDAI_VOL.19.md)该封面包含的角色：
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
 
 
 ---

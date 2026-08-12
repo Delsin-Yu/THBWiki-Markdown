@@ -1,6 +1,6 @@
 # 文件:東方夢王国_～Dream_Kingdom～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bb\ns6%3A%E6%9D%B1%E6%96%B9%E5%A4%A2%E7%8E%8B%E5%9B%BD_%EF%BD%9EDream_Kingdom%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bb\ns6%3A%E6%9D%B1%E6%96%B9%E5%A4%A2%E7%8E%8B%E5%9B%BD_%EF%BD%9EDream_Kingdom%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ほしくずモノクローム | 专辑封面 | 封面图片
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方夢王国 ～Dream Kingdom～](./東方夢王国_～Dream_Kingdom～.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
-
-
-
+- [東方夢王国 ～Dream Kingdom～](./東方夢王国_～Dream_Kingdom～.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
 
 ---

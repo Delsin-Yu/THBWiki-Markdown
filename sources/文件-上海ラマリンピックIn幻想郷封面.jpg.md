@@ -1,6 +1,6 @@
 # 文件:上海ラマリンピックIn幻想郷封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\14\ns6%3A%E4%B8%8A%E6%B5%B7%E3%83%A9%E3%83%9E%E3%83%AA%E3%83%B3%E3%83%94%E3%83%83%E3%82%AFIn%E5%B9%BB%E6%83%B3%E9%83%B7%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\14\ns6%3A%E4%B8%8A%E6%B5%B7%E3%83%A9%E3%83%9E%E3%83%AA%E3%83%B3%E3%83%94%E3%83%83%E3%82%AFIn%E5%B9%BB%E6%83%B3%E9%83%B7%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Lama_Disk | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ Lama_Disk | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [上海ラマリンピックIn幻想郷](./上海ラマリンピックIn幻想郷.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [东风谷早苗](./东风谷早苗.md)
-
-
-
+- [上海ラマリンピックIn幻想郷](./上海ラマリンピックIn幻想郷.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [东风谷早苗](./东风谷早苗.md)
 
 
 ---

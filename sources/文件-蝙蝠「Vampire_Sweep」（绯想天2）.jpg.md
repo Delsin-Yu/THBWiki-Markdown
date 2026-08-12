@@ -1,12 +1,8 @@
 # 文件:蝙蝠「Vampire_Sweep」（绯想天2）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2a\ns6%3A%E8%9D%99%E8%9D%A0%E3%80%8CVampire_Sweep%E3%80%8D%EF%BC%88%E7%BB%AF%E6%83%B3%E5%A4%A92%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2a\ns6%3A%E8%9D%99%E8%9D%A0%E3%80%8CVampire_Sweep%E3%80%8D%EF%BC%88%E7%BB%AF%E6%83%B3%E5%A4%A92%EF%BC%89%2Ejpg.html -->
 
 东方绯想天 | 敌机符卡 | 蕾米莉亚·斯卡蕾特
-
-
-
-
 
 
 ---

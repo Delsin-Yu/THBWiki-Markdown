@@ -1,16 +1,12 @@
 # 模板:LIVE_TOHO
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\a\ae\ns10%3ALIVE_TOHO.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\a\ae\ns10%3ALIVE_TOHO.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

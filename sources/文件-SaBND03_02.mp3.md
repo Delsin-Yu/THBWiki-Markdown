@@ -1,12 +1,8 @@
 # 文件:SaBND03_02.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\38\ns6%3ASaBND03_02%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\38\ns6%3ASaBND03_02%2Emp3.html -->
 
 东方三月精_～_Strange_and_Bright_Nature_Deity. | 两方世界 | 原曲MP3
-
-
-
-
 
 
 ---

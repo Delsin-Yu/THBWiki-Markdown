@@ -1,6 +1,6 @@
 # 文件:Kissing_the_Mirror_体験盤2008_冬封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9d\ns6%3AKissing_the_Mirror_%E4%BD%93%E9%A8%93%E7%9B%A42008_%E5%86%AC%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9d\ns6%3AKissing_the_Mirror_%E4%BD%93%E9%A8%93%E7%9B%A42008_%E5%86%AC%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Kissing_the_Mirror | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Kissing_the_Mirror | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Kissing the Mirror 体験盤2008 冬](./Kissing_the_Mirror_体験盤2008_冬.md)  
-该封面包含的角色：- [小野塚小町](./小野塚小町.md)
-
-
-
+- [Kissing the Mirror 体験盤2008 冬](./Kissing_the_Mirror_体験盤2008_冬.md)该封面包含的角色：
+- [小野塚小町](./小野塚小町.md)
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:THBWiki-LOGO-朱鹭子.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c6\ns6%3ATHBWiki-LOGO-%E6%9C%B1%E9%B9%AD%E5%AD%90%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c6\ns6%3ATHBWiki-LOGO-%E6%9C%B1%E9%B9%AD%E5%AD%90%2Epng.html -->
 
 THBWiki | Wiki词条分类用图
-
-
-
-
 
 
 ---

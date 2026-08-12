@@ -1,12 +1,8 @@
 # 模板:幻想Highway_Star/届名
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\8\83\ns10%3A%E5%B9%BB%E6%83%B3Highway_Star%2F%E5%B1%8A%E5%90%8D.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\8\83\ns10%3A%E5%B9%BB%E6%83%B3Highway_Star%2F%E5%B1%8A%E5%90%8D.html -->
 
 活动届名模板
-
-
-
-
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:自己崩壊性LOGiCbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\aa\ns6%3A%E8%87%AA%E5%B7%B1%E5%B4%A9%E5%A3%8A%E6%80%A7LOGiCbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\aa\ns6%3A%E8%87%AA%E5%B7%B1%E5%B4%A9%E5%A3%8A%E6%80%A7LOGiCbanner%2Ejpg.html -->
 
 社团LOGO | 自己崩壊性LOGiC
-
-
-
-
 
 
 ---

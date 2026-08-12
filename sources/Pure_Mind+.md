@@ -1,12 +1,11 @@
 # Pure_Mind+
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\1\1d\ns0%3APure_Mind%2B.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\1\1d\ns0%3APure_Mind%2B.html -->
 
 2022年5月28日 由 Endless Sound 匯音社  发布的全长同人专辑，曲目主要风格是 其他电子，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人专辑 (未找到链接)** 的词条
-
+**[二次创作同人专辑](./二次创作.md#同人音乐)**的词条
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Pure_Mind+封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/3/3d/Pure_Mind%2B%E5%B0%81%E9%9D%A2.jpg/280px-Pure_Mind%2B%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="280" height="280" srcset="https://upload.thwiki.cc/thumb/3/3d/Pure_Mind%2B%E5%B0%81%E9%9D%A2.jpg/420px-Pure_Mind%2B%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/3/3d/Pure_Mind%2B%E5%B0%81%E9%9D%A2.jpg/560px-Pure_Mind%2B%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="2079" data-file-height="2079"></a><div class="cover-char">角色：<a href="./纯狐.md" title="纯狐">纯狐</a></div></td>
@@ -15,44 +14,36 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.dizzylab.net/d/ESCD-0002/">https://www.dizzylab.net/d/ESCD-0002/</a></td></tr></tbody></table>
 
 Pure Mind+（同人专辑，Endless Sound 匯音社，2022） - 2022年5月28日 由 Endless Sound 匯音社  发布的全长同人专辑，曲目主要风格是 其他电子，分级为 一般向
-
 ## Staff
   
- **Arrangement**   
+**Arrangement**  
 
 <table><tbody><tr><td><a href="./tinvan.md" title="tinvan">tinvan</a></td><td></td><td>Tr.1-4</td></tr><tr><td><a href="./Endless_Reisen.md" title="Endless Reisen">Endless Reisen</a></td><td></td><td>Tr.4</td></tr></tbody></table>
 
   
- **Instrument**   
+**Instrument**  
 
 <table><tbody><tr><td><a href="./tinvan.md" title="tinvan">tinvan</a></td><td></td><td>Tr.1-4</td></tr></tbody></table>
-
 
 Design
 : Endless Reisen （[Endless Sound 匯音社](./Endless_Sound_匯音社.md)）
 Illustration
 : Endless Reisen （[Endless Sound 匯音社](./Endless_Sound_匯音社.md)）
 
-
 ## 试听
   
 暂不支援此类型
   
 
-
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Pure_Mind" colspan="2" class="title">Pure Mind<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=tinvan&amp;ogmusic=ピュアヒューリーズ　～ 心の在処&amp;fromwiki=Pure_Mind+"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:24</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./tinvan.md" title="tinvan">tinvan</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，tinvan&amp;fromwiki=Pure_Mind+"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演奏</td><td class="text" colspan="2">logic pro：<a href="./tinvan.md" title="tinvan">tinvan</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=ピュアヒューリーズ　～ 心の在処&amp;fromwiki=Pure_Mind+"><span></span></a></span><div class="ogmusic"><a href="./ピュアヒューリーズ_～_心の在処.md" class="mw-redirect" title="ピュアヒューリーズ ～ 心の在処">ピュアヒューリーズ　～ 心の在処</a></div><div class="source"><a href="./东方绀珠传_～_Legacy_of_Lunatic_Kingdom..md" class="mw-redirect" title="东方绀珠传 ～ Legacy of Lunatic Kingdom.">东方绀珠传　～ Legacy of Lunatic Kingdom.</a></div></td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">Pure Mind</td></tr>
-<tr><td id="2" class="infoYD"><b>02</b></td><td id="All_Brilliant" colspan="2" class="title">All Brilliant<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=tinvan&amp;ogmusic=有機体全てのメメント　～ Memory of Fossil Energy.&amp;fromwiki=Pure_Mind+"><span title="搜索相似同人曲"></span></a></span></td><td class="time">05:18</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./tinvan.md" title="tinvan">tinvan</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，tinvan&amp;fromwiki=Pure_Mind+"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演奏</td><td class="text" colspan="2">logic pro：<a href="./tinvan.md" title="tinvan">tinvan</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=有機体全てのメメント　～ Memory of Fossil Energy.&amp;fromwiki=Pure_Mind+"><span></span></a></span><div class="ogmusic"><a href="./有機体全てのメメント_～_Memory_of_Fossil_Energy..md" class="mw-redirect" title="有機体全てのメメント ～ Memory of Fossil Energy.">有機体全てのメメント　～ Memory of Fossil Energy.</a></div><div class="source"><a href="./东方刚欲异闻.md" title="东方刚欲异闻" unred="">东方刚欲异闻　～ 被水淹没的沉愁地狱</a></div></td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">All Brilliant</td></tr>
-<tr><td id="3" class="infoYD"><b>03</b></td><td id="Economic_Climate" colspan="2" class="title">Economic Climate<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=tinvan&amp;ogmusic=あの賑やかな市場は今どこに　～ Immemorial Marketeers&amp;fromwiki=Pure_Mind+"><span title="搜索相似同人曲"></span></a></span></td><td class="time">05:33</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./tinvan.md" title="tinvan">tinvan</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，tinvan&amp;fromwiki=Pure_Mind+"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演奏</td><td class="text" colspan="2">logic pro：<a href="./tinvan.md" title="tinvan">tinvan</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=あの賑やかな市場は今どこに　～ Immemorial Marketeers&amp;fromwiki=Pure_Mind+"><span></span></a></span><div class="ogmusic"><a href="./あの賑やかな市場は今どこに_～_Immemorial_Marketeers.md" class="mw-redirect" title="あの賑やかな市場は今どこに ～ Immemorial Marketeers">あの賑やかな市場は今どこに　～ Immemorial Marketeers</a></div><div class="source"><a href="./东方虹龙洞_～_Unconnected_Marketeers..md" class="mw-redirect" title="东方虹龙洞 ～ Unconnected Marketeers.">东方虹龙洞　～ Unconnected Marketeers.</a></div></td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">Economic Climate</td></tr>
-<tr><td id="4" class="infoYD"><b>04</b></td><td id="Ookami_Kakushi" colspan="2" class="title">Ookami Kakushi<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=tinvan，Endless Reisen&amp;ogmusic=七ツ石の狼、雲を取りに駆ける&amp;fromwiki=Pure_Mind+"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:45</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./tinvan.md" title="tinvan">tinvan</a>，<a href="./Endless_Reisen.md" title="Endless Reisen">Endless Reisen</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，tinvan，Endless Reisen，&amp;fromwiki=Pure_Mind+"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演奏</td><td class="text" colspan="2">logic pro：<a href="./tinvan.md" title="tinvan">tinvan</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=七ツ石の狼、雲を取りに駆ける&amp;fromwiki=Pure_Mind+"><span></span></a></span><div class="ogmusic"><a href="./七ツ石の狼、雲を取りに駆ける.md" class="mw-redirect" title="七ツ石の狼、雲を取りに駆ける">七ツ石の狼、雲を取りに駆ける</a></div><div class="source"><a href="./虹色的北斗七星.md" title="虹色的北斗七星">虹色的北斗七星</a></div></td></tr><tr><td class="left"></td><td class="label">曲风</td><td class="text" colspan="2">其他电子</td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">Ookami Kakushi</td></tr></tbody></table>
-
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Pure_Mind" colspan="2" class="title">Pure Mind</td><td class="time">03:24</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./tinvan.md" title="tinvan">tinvan</a></td></tr><tr><td class="left"></td><td class="label">演奏</td><td class="text" colspan="2">logic pro：<a href="./tinvan.md" title="tinvan">tinvan</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./Pure_Furies_～_心之所在.md" class="mw-redirect" title="ピュアヒューリーズ ～ 心の在処">ピュアヒューリーズ　～ 心の在処</a></div><div class="source"><a href="./东方绀珠传.md" class="mw-redirect" title="东方绀珠传 ～ Legacy of Lunatic Kingdom.">东方绀珠传　～ Legacy of Lunatic Kingdom.</a></div></td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">Pure Mind</td></tr>
+<tr><td id="2" class="infoYD"><b>02</b></td><td id="All_Brilliant" colspan="2" class="title">All Brilliant</td><td class="time">05:18</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./tinvan.md" title="tinvan">tinvan</a></td></tr><tr><td class="left"></td><td class="label">演奏</td><td class="text" colspan="2">logic pro：<a href="./tinvan.md" title="tinvan">tinvan</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./全有机体的记忆_～_Memory_of_Fossil_Energy..md" class="mw-redirect" title="有機体全てのメメント ～ Memory of Fossil Energy.">有機体全てのメメント　～ Memory of Fossil Energy.</a></div><div class="source"><a href="./东方刚欲异闻.md" title="东方刚欲异闻" unred="">东方刚欲异闻　～ 被水淹没的沉愁地狱</a></div></td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">All Brilliant</td></tr>
+<tr><td id="3" class="infoYD"><b>03</b></td><td id="Economic_Climate" colspan="2" class="title">Economic Climate</td><td class="time">05:33</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./tinvan.md" title="tinvan">tinvan</a></td></tr><tr><td class="left"></td><td class="label">演奏</td><td class="text" colspan="2">logic pro：<a href="./tinvan.md" title="tinvan">tinvan</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./熙攘市场今何在_～_Immemorial_Marketeers.md" class="mw-redirect" title="あの賑やかな市場は今どこに ～ Immemorial Marketeers">あの賑やかな市場は今どこに　～ Immemorial Marketeers</a></div><div class="source"><a href="./东方虹龙洞.md" class="mw-redirect" title="东方虹龙洞 ～ Unconnected Marketeers.">东方虹龙洞　～ Unconnected Marketeers.</a></div></td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">Economic Climate</td></tr>
+<tr><td id="4" class="infoYD"><b>04</b></td><td id="Ookami_Kakushi" colspan="2" class="title">Ookami Kakushi</td><td class="time">04:45</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./tinvan.md" title="tinvan">tinvan</a>，<a href="./Endless_Reisen.md" title="Endless Reisen">Endless Reisen</a></td></tr><tr><td class="left"></td><td class="label">演奏</td><td class="text" colspan="2">logic pro：<a href="./tinvan.md" title="tinvan">tinvan</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./七石之狼、登天吞云.md" class="mw-redirect" title="七ツ石の狼、雲を取りに駆ける">七ツ石の狼、雲を取りに駆ける</a></div><div class="source"><a href="./虹色的北斗七星.md" title="虹色的北斗七星">虹色的北斗七星</a></div></td></tr><tr><td class="left"></td><td class="label">曲风</td><td class="text" colspan="2">其他电子</td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">Ookami Kakushi</td></tr></tbody></table>
 
 
 ## 评论
-
-
-
 
 ---
 

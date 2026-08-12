@@ -1,12 +1,8 @@
 # 文件:梦弹「Lunatic_Dream_Shoot」（噩梦日记）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\de\ns6%3A%E6%A2%A6%E5%BC%B9%E3%80%8CLunatic_Dream_Shoot%E3%80%8D%EF%BC%88%E5%99%A9%E6%A2%A6%E6%97%A5%E8%AE%B0%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\de\ns6%3A%E6%A2%A6%E5%BC%B9%E3%80%8CLunatic_Dream_Shoot%E3%80%8D%EF%BC%88%E5%99%A9%E6%A2%A6%E6%97%A5%E8%AE%B0%EF%BC%89%2Ejpg.html -->
 
 敌机符卡 | 清兰 | 秘封噩梦日记
-
-
-
-
 
 
 ---

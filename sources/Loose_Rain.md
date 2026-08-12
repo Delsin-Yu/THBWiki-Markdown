@@ -1,37 +1,27 @@
 # Loose_Rain
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\4e\ns0%3ALoose_Rain.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\4e\ns0%3ALoose_Rain.html -->
 
 由 ZUN 创作的官方曲目，原名 ルーズレイン
 
 本页是关于东方Project  
- **原作音乐** 的词条
-
+**原作音乐**的词条
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 出现作品](#出现作品)
 - [3 音乐文件](#音乐文件)
-
   - [3.1 妖精大战争](#妖精大战争)
 
 
-
 - [4 说明文本](#说明文本)
-
   - [4.1 妖精大战争](#妖精大战争_2)
 
 
-
 - [5 其他资料](#其他资料)
-
   - [5.1 乐理资讯](#乐理资讯)
   - [5.2 分析考据](#分析考据)
   - [5.3 二次同人数据](#二次同人数据)
-
-
-
-
 
 
 
@@ -41,13 +31,11 @@
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">ルーズレイン</td></tr><tr><td><b>译名</b></td><td>Loose Rain</td></tr><tr><td><b>其他译名</b></td><td>散漫之雨</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 Loose Rain（曲目） - 由 ZUN 创作的官方曲目，原名 ルーズレイン
-
 ## 出现作品
 
 <table>
 <tbody><tr><td>2010年8月14日（Comic Market 78）</td><td><b><a href="./妖精大战争.md" title="妖精大战争">妖精大战争</a></b></td><td>Extra面主题曲</td><td style="padding-left:5px;">ルーズレイン（Loose Rain）</td><td style="padding-left:10px;">作曲：ZUN</td></tr>
 </tbody></table>
-
 
 
 ## 音乐文件
@@ -62,11 +50,11 @@ Loose Rain（曲目） - 由 ZUN 创作的官方曲目，原名 ルーズレイ�
 </td></tr></tbody></table>
 
 
-
 ## 说明文本
 
 ### 妖精大战争
-- Music Room (未找到链接)
+
+- [Music Room](./妖精大战争-Music.md#Extra面主题曲)
 
 　ＥＸＴＲＡ的主题曲。  
   
@@ -74,27 +62,29 @@ Loose Rain（曲目） - 由 ZUN 创作的官方曲目，原名 ルーズレイ�
 　但整体表达出的淘气感，像是ＥＸ曲呢。  
 　飞翔在樱吹雪中的印象。  
 　（作曲时，日程催紧这点无需多言）
-
 ## 其他资料
 
 ### 乐理资讯
 
 ### 分析考据
   
- **ルーズレイン**  Loose Rain
+**ルーズレイン** Loose Rain
   
 
-- 雨
+- 雨 
   - 春雨。
   - 樱花雨。
 
 
-```
-飞翔在樱吹雪中的印象。
-```
 
-- 稀疏的雨
+
+```
+飞翔在樱吹雪中的印象。 ```
+
+
+- 稀疏的雨 
   - 与雾雨魔理沙的“雾雨”相近。
+
 
 
 
@@ -110,17 +100,6 @@ Loose Rain（曲目） - 由 ZUN 创作的官方曲目，原名 ルーズレイ�
 <tr><td>Arrange</td><td>109</td></tr>
 <tr><td>Vocal率</td><td>25.34%</td></tr>
 </tbody></table>
-
-
-
-
-  
-  
-
-  
-
-
-
 
 
 ---

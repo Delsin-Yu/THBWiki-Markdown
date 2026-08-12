@@ -1,6 +1,6 @@
 # 文件:Fragmentos_Preferidos_～断章取義封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8c\ns6%3AFragmentos_Preferidos_%EF%BD%9E%E6%96%AD%E7%AB%A0%E5%8F%96%E7%BE%A9%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8c\ns6%3AFragmentos_Preferidos_%EF%BD%9E%E6%96%AD%E7%AB%A0%E5%8F%96%E7%BE%A9%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 ジャージと愉快な仲間たち | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Fragmentos Preferidos ～断章取義](./Fragmentos_Preferidos_～断章取義.md)  
-该封面包含的角色：- [犬走椛](./犬走椛.md)
-
-
-
+- [Fragmentos Preferidos ～断章取義](./Fragmentos_Preferidos_～断章取義.md)该封面包含的角色：
+- [犬走椛](./犬走椛.md)
 
 
 ---

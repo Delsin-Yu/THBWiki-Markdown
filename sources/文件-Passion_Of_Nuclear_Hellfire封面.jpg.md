@@ -1,6 +1,6 @@
 # 文件:Passion_Of_Nuclear_Hellfire封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\91\ns6%3APassion_Of_Nuclear_Hellfire%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\91\ns6%3APassion_Of_Nuclear_Hellfire%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Kyandoru_Raito_No_Konran | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Kyandoru_Raito_No_Konran | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Passion Of Nuclear Hellfire](./Passion_Of_Nuclear_Hellfire.md)  
-该封面包含的角色：- [灵乌路空](./灵乌路空.md)
+- [Passion Of Nuclear Hellfire](./Passion_Of_Nuclear_Hellfire.md)该封面包含的角色：
+- [灵乌路空](./灵乌路空.md)
 
   
-源地址：[[1]](https://kyandoruraitonokonranofficial.files.wordpress.com/2014/12/ponf.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://kyandoruraitonokonranofficial.files.wordpress.com/2014/12/ponf.jpg)  
 
 ---
 

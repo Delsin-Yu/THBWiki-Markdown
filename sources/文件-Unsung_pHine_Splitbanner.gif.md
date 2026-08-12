@@ -1,14 +1,11 @@
 # 文件:Unsung_pHine_Splitbanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cb\ns6%3AUnsung_pHine_Splitbanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cb\ns6%3AUnsung_pHine_Splitbanner%2Egif.html -->
 
 Unsung_pHine_Split | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

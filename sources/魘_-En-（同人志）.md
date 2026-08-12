@@ -1,13 +1,11 @@
 # 魘_-En-（同人志）
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\d\dc\ns0%3A%E9%AD%98_-En-%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\d\dc\ns0%3A%E9%AD%98_-En-%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89.html -->
 
 2009年8月15日 由 毒霧 于 Comic Market 76 发布的合同志同人志，分级为 R18
 
 本页是关于东方Project  
- **二次创作同人志 (未找到链接)** 的词条
-<center>
-
+**[二次创作同人志](./二次创作.md#同人志)**的词条<center>
 <table>
 <tbody><tr>
 <td class="mbox-image"><div style="width: 52px;">
@@ -16,26 +14,20 @@
 </tr>
 </tbody></table>
 
-
 </center>
-
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><div class="cover-char">角色：<a href="./伊吹萃香.md" title="伊吹萃香">伊吹萃香</a></div></td>
 </tr><tr><td class="label">名称</td><td colspan="2"> 魘 -En- </td></tr><tr><td class="label">制作方</td><td><a href="./毒霧.md" title="毒霧">毒霧</a></td><td class="cover-artwork" rowspan="5" style="min-width:140px;"><div class="cover-char">角色：<a href="./伊吹萃香.md" title="伊吹萃香">伊吹萃香</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2009-08-15&#160;（<a href="/展会作品列表?e=Comic+Market%2376">Comic Market 76</a>）</td></tr><tr><td class="label">类型</td><td>合同志</td></tr><tr><td class="label">分级指定</td><td>R18</td></tr><tr><td class="label">售价</td><td>会场售价：2000日元<br>通贩售价：2800日元（含税）</td></tr>
+</tr><tr><td class="label">首发日期</td><td>2009-08-15 （<a href="./展会作品列表.md#76">Comic Market 76</a>）</td></tr><tr><td class="label">类型</td><td>合同志</td></tr><tr><td class="label">分级指定</td><td>R18</td></tr><tr><td class="label">售价</td><td>会场售价：2000日元<br>通贩售价：2800日元（含税）</td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://www6.plala.or.jp/dokugiri/c76.html">http://www6.plala.or.jp/dokugiri/c76.html</a><br><span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span><small>（<a rel="nofollow" class="external text" href="https://web.archive.org/web/20110101165702/http://www6.plala.or.jp/dokugiri/c76.html">缓存页面</a>）</small></td></tr><tr><td class="label">备注</td><td colspan="2">東方緋想天一周年記念特別合同企画; <a href="./魘_-En-（同人专辑）.md" title="魘 -En-（同人专辑）">附带CD</a></td></tr></tbody></table>
 
 魘 -En-（同人志，毒霧，2009） - 2009年8月15日 由 毒霧 于 Comic Market 76 发布的合同志同人志，分级为 R18
-
 ## 预览
 
 ## Staff
 
 ## 评论
-
-
-
 
 ---
 

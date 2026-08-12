@@ -1,16 +1,11 @@
 # 文件:Loli-Hunter_Musicbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8d\ns6%3ALoli-Hunter_Musicbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8d\ns6%3ALoli-Hunter_Musicbanner%2Epng.html -->
 
 Loli-Hunter_Music | 社团LOGO
 
   
-源地址：[[1]](https://web.archive.org/web/20160823045731im_/http://www.touhou.pl/gfx/own/lhr.png)
-  
-
-
-
-
+源地址：[\[1\]](https://web.archive.org/web/20160823045731im_/http://www.touhou.pl/gfx/own/lhr.png)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:UN.owen＇s_almirah封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c8\ns6%3AUN%2Eowen%EF%BC%87s_almirah%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c8\ns6%3AUN%2Eowen%EF%BC%87s_almirah%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 过气废萌社团
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [UN.owen＇s almirah](./UN.owen＇s_almirah.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
-
-
-
+- [UN.owen＇s almirah](./UN.owen＇s_almirah.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
 
 ---

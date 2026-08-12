@@ -1,6 +1,6 @@
 # 东方幻想乡Defence_of_The_Shrines/设定/妖梦
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\0a\ns0%3A%E4%B8%9C%E6%96%B9%E5%B9%BB%E6%83%B3%E4%B9%A1Defence_of_The_Shrines%2F%E8%AE%BE%E5%AE%9A%2F%E5%A6%96%E6%A2%A6.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\0a\ns0%3A%E4%B8%9C%E6%96%B9%E5%B9%BB%E6%83%B3%E4%B9%A1Defence_of_The_Shrines%2F%E8%AE%BE%E5%AE%9A%2F%E5%A6%96%E6%A2%A6.html -->
 
 东方DOTS制作组
 
@@ -11,27 +11,23 @@
 魂魄妖梦
   
   
-[](./文件-THD-Youmu.jpg.md)
+<img alt="THD-Youmu.jpg" src="https://upload.thwiki.cc/4/47/THD-Youmu.jpg" decoding="async" loading="lazy" width="478" height="117" data-file-width="478" data-file-height="117">
   
   
-[](./文件-THD-Youmue.jpg.md)
+<img alt="THD-Youmue.jpg" src="https://upload.thwiki.cc/f/fd/THD-Youmue.jpg" decoding="async" loading="lazy" width="447" height="54" data-file-width="447" data-file-height="54">
   
   
-[](./文件-THD-Youmud.jpg.md)
+<img alt="THD-Youmud.jpg" src="https://upload.thwiki.cc/4/43/THD-Youmud.jpg" decoding="async" loading="lazy" width="451" height="187" data-file-width="451" data-file-height="187">
   
   
-[](./文件-THD-Youmuf.jpg.md)
+<img alt="THD-Youmuf.jpg" src="https://upload.thwiki.cc/0/0d/THD-Youmuf.jpg" decoding="async" loading="lazy" width="450" height="177" data-file-width="450" data-file-height="177">
   
   
-[](./文件-THD-Youmur.jpg.md)
+<img alt="THD-Youmur.jpg" src="https://upload.thwiki.cc/0/03/THD-Youmur.jpg" decoding="async" loading="lazy" width="449" height="154" data-file-width="449" data-file-height="154">
   
   
-[](./文件-THD-Youmuw.jpg.md)
+<img alt="THD-Youmuw.jpg" src="https://upload.thwiki.cc/1/14/THD-Youmuw.jpg" decoding="async" loading="lazy" width="368" height="159" data-file-width="368" data-file-height="159">
   
-
-
-
-
 
 ---
 

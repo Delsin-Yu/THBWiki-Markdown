@@ -1,6 +1,6 @@
 # 文件:鬼願抄_SPECIAL_DEMO_CD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\38\ns6%3A%E9%AC%BC%E9%A1%98%E6%8A%84_SPECIAL_DEMO_CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\38\ns6%3A%E9%AC%BC%E9%A1%98%E6%8A%84_SPECIAL_DEMO_CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 THE_OTHER_FLOWER | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ THE_OTHER_FLOWER | 专辑封面 | 封面图片
   
 
 - [鬼願抄 SPECIAL DEMO CD](./鬼願抄_SPECIAL_DEMO_CD.md)
-
-
-
 
 
 ---

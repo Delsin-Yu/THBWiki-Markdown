@@ -1,28 +1,23 @@
 # ZUNSoft
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\61\ns0%3AZUNSoft.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\61\ns0%3AZUNSoft.html -->
 
 ZUN | ZUNSoft | 概念
 
 本页是说明东方Project  
- **相关概念定义** 的词条
-  
- **ZUNSoft** 是ZUN在制作 **东方旧作 (未找到链接)** ，也就是Th01-Th05的时候使用的名义。  
+**相关概念定义**的词条  
+**ZUNSoft**是ZUN在制作**[东方旧作](./官方游戏.md#旧作)**，也就是Th01-Th05的时候使用的名义。  
 
 在作品载入界面显示。  
 
 并不是实质上的社团。
   
   
-实质上ZUN将旧作的贩卖和配布都委托给 **[Amusement Makers](./Amusement_Makers.md)** 完成，ZUN作为AM的老成员，以及刚刚毕业的时间段内，东方的旧五作都是AM的标志性作品，在AM的2000年左右的旧首页上占据主要位置。
+实质上ZUN将旧作的贩卖和配布都委托给**[Amusement Makers](./Amusement_Makers.md)**完成，ZUN作为AM的老成员，以及刚刚毕业的时间段内，东方的旧五作都是AM的标志性作品，在AM的2000年左右的旧首页上占据主要位置。
   
   
 2002年，ZUN成立自己的社团[上海爱丽丝幻乐团](./上海爱丽丝幻乐团.md)并以该名义发布作品，此后ZUNSoft这个名字再也没有出现过。
   
-
-
-
-
 
 ---
 

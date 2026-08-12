@@ -1,12 +1,8 @@
 # 文件:YC-TVbanner2.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2f\ns6%3AYC-TVbanner2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2f\ns6%3AYC-TVbanner2%2Ejpg.html -->
 
 YC-TV | 社团LOGO
-
-
-
-
 
 
 ---

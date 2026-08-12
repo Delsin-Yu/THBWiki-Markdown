@@ -1,50 +1,45 @@
 # HAS_BEEN_EP
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\d\da\ns0%3AHAS_BEEN_EP.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\d\da\ns0%3AHAS_BEEN_EP.html -->
 
 2019年11月23日 由 求める者  发布的EP同人专辑，曲目主要风格是 Rock，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人专辑 (未找到链接)** 的词条
-
+**[二次创作同人专辑](./二次创作.md#同人音乐)**的词条
 ## 专辑信息
 
-<table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-HAS_BEEN_EP封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/8/87/HAS_BEEN_EP%E5%B0%81%E9%9D%A2.jpg/252px-HAS_BEEN_EP%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="252" height="252" srcset="https://upload.thwiki.cc/thumb/8/87/HAS_BEEN_EP%E5%B0%81%E9%9D%A2.jpg/378px-HAS_BEEN_EP%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/8/87/HAS_BEEN_EP%E5%B0%81%E9%9D%A2.jpg/504px-HAS_BEEN_EP%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1200" data-file-height="1200"></a><div class="cover-char">角色：<a href="/%E7%88%B1%E4%B8%BD%E4%B8%9D%C2%B7%E7%8E%9B%E6%A0%BC%E7%89%B9%E6%B4%9B%E4%BE%9D%E5%BE%B7#上海人偶" title="爱丽丝·玛格特洛依德">上海人偶</a></div></td>
-</tr><tr><td class="label">名称</td><td colspan="2"> HAS BEEN EP </td></tr><tr><td class="label">制作方</td><td><a href="./求める者.md" title="求める者">求める者</a></td><td class="cover-artwork" rowspan="9" style="min-width:252px;"><a href="./文件-HAS_BEEN_EP封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/8/87/HAS_BEEN_EP%E5%B0%81%E9%9D%A2.jpg/252px-HAS_BEEN_EP%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="252" height="252" srcset="https://upload.thwiki.cc/thumb/8/87/HAS_BEEN_EP%E5%B0%81%E9%9D%A2.jpg/378px-HAS_BEEN_EP%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/8/87/HAS_BEEN_EP%E5%B0%81%E9%9D%A2.jpg/504px-HAS_BEEN_EP%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1200" data-file-height="1200"></a><div class="cover-char">角色：<span class="smw-subobject-entity"><a href="/%E7%88%B1%E4%B8%BD%E4%B8%9D%C2%B7%E7%8E%9B%E6%A0%BC%E7%89%B9%E6%B4%9B%E4%BE%9D%E5%BE%B7#上海人偶" title="爱丽丝·玛格特洛依德">上海人偶</a></span></div></td>
+<table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-HAS_BEEN_EP封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/8/87/HAS_BEEN_EP%E5%B0%81%E9%9D%A2.jpg/252px-HAS_BEEN_EP%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="252" height="252" srcset="https://upload.thwiki.cc/thumb/8/87/HAS_BEEN_EP%E5%B0%81%E9%9D%A2.jpg/378px-HAS_BEEN_EP%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/8/87/HAS_BEEN_EP%E5%B0%81%E9%9D%A2.jpg/504px-HAS_BEEN_EP%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1200" data-file-height="1200"></a><div class="cover-char">角色：<a href="./爱丽丝·玛格特洛依德.md#上海人偶" title="爱丽丝·玛格特洛依德">上海人偶</a></div></td>
+</tr><tr><td class="label">名称</td><td colspan="2"> HAS BEEN EP </td></tr><tr><td class="label">制作方</td><td><a href="./求める者.md" title="求める者">求める者</a></td><td class="cover-artwork" rowspan="9" style="min-width:252px;"><a href="./文件-HAS_BEEN_EP封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/8/87/HAS_BEEN_EP%E5%B0%81%E9%9D%A2.jpg/252px-HAS_BEEN_EP%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="252" height="252" srcset="https://upload.thwiki.cc/thumb/8/87/HAS_BEEN_EP%E5%B0%81%E9%9D%A2.jpg/378px-HAS_BEEN_EP%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/8/87/HAS_BEEN_EP%E5%B0%81%E9%9D%A2.jpg/504px-HAS_BEEN_EP%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1200" data-file-height="1200"></a><div class="cover-char">角色：<span class="smw-subobject-entity"><a href="./爱丽丝·玛格特洛依德.md#上海人偶" title="爱丽丝·玛格特洛依德">上海人偶</a></span></div></td>
 </tr><tr><td class="label">首发日期</td><td>2019-11-23</td></tr><tr><td class="label">类型</td><td>EP</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>2</td></tr><tr><td class="label">总时长</td><td>06:52</td></tr><tr><td class="label">风格类型</td><td>Rock</td></tr><tr><td class="label">售价</td><td>免费（Bandcamp下载，价格自定，可能因特殊情况而改价）</td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://motomerumono.bandcamp.com/album/has-been-ep">https://motomerumono.bandcamp.com/album/has-been-ep</a></td></tr></tbody></table>
 
 HAS BEEN EP（同人专辑，求める者，2019） - 2019年11月23日 由 求める者  发布的EP同人专辑，曲目主要风格是 Rock，分级为 一般向
-
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://motomerumono.bandcamp.com/album/has-been-ep">bandcamp</a></td></tr></tbody></table>
-
 
 
 ## Staff
   
- **Arrangement**   
+**Arrangement**  
 
-<table><tbody><tr><td><a href="/index.php?title=%E8%BF%B7%E3%81%84%E3%81%AE%E3%82%A6%E3%82%A7&amp;action=edit&amp;redlink=1" class="new" title="迷いのウェ（页面不存在）">迷いのウェ</a></td><td><a href="./求める者.md" title="求める者">求める者</a></td><td>Tr.1/2</td></tr></tbody></table>
-
-  
- **Vocal**   
-
-<table><tbody><tr><td><a href="/index.php?title=%E8%BF%B7%E3%81%84%E3%81%AE%E3%82%A6%E3%82%A7&amp;action=edit&amp;redlink=1" class="new" title="迷いのウェ（页面不存在）">迷いのウェ</a></td><td><a href="./求める者.md" title="求める者">求める者</a></td><td>Tr.1/2</td></tr></tbody></table>
+<table><tbody><tr><td><a class="new" title="迷いのウェ（页面不存在）">迷いのウェ</a></td><td><a href="./求める者.md" title="求める者">求める者</a></td><td>Tr.1/2</td></tr></tbody></table>
 
   
- **Lyrics**   
+**Vocal**  
 
-<table><tbody><tr><td><a href="/index.php?title=%E8%BF%B7%E3%81%84%E3%81%AE%E3%82%A6%E3%82%A7&amp;action=edit&amp;redlink=1" class="new" title="迷いのウェ（页面不存在）">迷いのウェ</a></td><td><a href="./求める者.md" title="求める者">求める者</a></td><td>Tr.1/2</td></tr></tbody></table>
+<table><tbody><tr><td><a class="new" title="迷いのウェ（页面不存在）">迷いのウェ</a></td><td><a href="./求める者.md" title="求める者">求める者</a></td><td>Tr.1/2</td></tr></tbody></table>
 
   
- **Instrument**   
+**Lyrics**  
 
-<table><tbody><tr><td><a href="/index.php?title=%E8%BF%B7%E3%81%84%E3%81%AE%E3%82%A6%E3%82%A7&amp;action=edit&amp;redlink=1" class="new" title="迷いのウェ（页面不存在）">迷いのウェ</a></td><td><a href="./求める者.md" title="求める者">求める者</a></td><td>Tr.1/2</td></tr></tbody></table>
+<table><tbody><tr><td><a class="new" title="迷いのウェ（页面不存在）">迷いのウェ</a></td><td><a href="./求める者.md" title="求める者">求める者</a></td><td>Tr.1/2</td></tr></tbody></table>
 
+  
+**Instrument**  
+
+<table><tbody><tr><td><a class="new" title="迷いのウェ（页面不存在）">迷いのウェ</a></td><td><a href="./求める者.md" title="求める者">求める者</a></td><td>Tr.1/2</td></tr></tbody></table>
 
 Drum Programming, Mixing, Cover Art
 : 迷いのウェ
-
 
 ## 试听
 
@@ -58,7 +53,6 @@ Drum Programming, Mixing, Cover Art
 </td></tr></tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
@@ -69,28 +63,20 @@ Drum Programming, Mixing, Cover Art
 </td></tr></tbody></table>
 
 
-
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoRD"><b>01</b></td><td id="Still_Lost_（願イヲ満タス、ソノ意志）" colspan="2" class="title"><a href="./歌词-Still_Lost_（願イヲ満タス、ソノ意志）.md" title="歌词:Still Lost （願イヲ満タス、ソノ意志）">Still Lost （願イヲ満タス、ソノ意志）</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=迷いのウェ&amp;vocal=迷いのウェ&amp;lyric=迷いのウェ&amp;ogmusic=プラスチックマインド&amp;fromwiki=HAS_BEEN_EP"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:18</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E8%BF%B7%E3%81%84%E3%81%AE%E3%82%A6%E3%82%A7&amp;action=edit&amp;redlink=1" class="new" title="迷いのウェ（页面不存在）">迷いのウェ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，迷いのウェ&amp;fromwiki=HAS_BEEN_EP"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="/index.php?title=%E8%BF%B7%E3%81%84%E3%81%AE%E3%82%A6%E3%82%A7&amp;action=edit&amp;redlink=1" class="new" title="迷いのウェ（页面不存在）">迷いのウェ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=迷いのウェ&amp;fromwiki=HAS_BEEN_EP"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="/index.php?title=%E8%BF%B7%E3%81%84%E3%81%AE%E3%82%A6%E3%82%A7&amp;action=edit&amp;redlink=1" class="new" title="迷いのウェ（页面不存在）">迷いのウェ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?lyric=迷いのウェ&amp;fromwiki=HAS_BEEN_EP"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演奏</td><td class="text" colspan="2">Guitar：迷いのウェ <br>Bass：迷いのウェ</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=プラスチックマインド&amp;fromwiki=HAS_BEEN_EP"><span></span></a></span><div class="ogmusic"><a href="./プラスチックマインド.md" class="mw-redirect" title="プラスチックマインド">プラスチックマインド</a></div><div class="source"><a href="./东方怪绮谈_～_Mystic_Square..md" class="mw-redirect" title="东方怪绮谈 ～ Mystic Square.">东方怪绮谈　～ Mystic Square.</a></div></td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">考えるな。感じろ
+<table><tbody><tr><td id="1" class="infoRD"><b>01</b></td><td id="Still_Lost_（願イヲ満タス、ソノ意志）" colspan="2" class="title"><a href="./歌词-Still_Lost_（願イヲ満タス、ソノ意志）.md" title="歌词:Still Lost （願イヲ満タス、ソノ意志）">Still Lost （願イヲ満タス、ソノ意志）</a></td><td class="time">03:18</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="迷いのウェ（页面不存在）">迷いのウェ</a></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a class="new" title="迷いのウェ（页面不存在）">迷いのウェ</a></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a class="new" title="迷いのウェ（页面不存在）">迷いのウェ</a></td></tr><tr><td class="left"></td><td class="label">演奏</td><td class="text" colspan="2">Guitar：迷いのウェ <br>Bass：迷いのウェ</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./Plastic_Mind.md" class="mw-redirect" title="プラスチックマインド">プラスチックマインド</a></div><div class="source"><a href="./东方怪绮谈.md" class="mw-redirect" title="东方怪绮谈 ～ Mystic Square.">东方怪绮谈　～ Mystic Square.</a></div></td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">考えるな。感じろ
 <p>その思いしか無かった。そしてもうその思いしかいらない。能力を見せるぜ。
 </p>
 …続けば、きっと、いつか…</td></tr>
-<tr><td id="2" class="infoRD"><b>02</b></td><td id="現代現界現実現術_(The_world_is_dead_-_Long_live_the_world)" colspan="2" class="title"><a href="./歌词-現代現界現実現術_(The_world_is_dead_-_Long_live_the_world).md" title="歌词:現代現界現実現術 (The world is dead - Long live the world)">現代現界現実現術 (The world is dead - Long live the world)</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=迷いのウェ&amp;vocal=迷いのウェ&amp;lyric=迷いのウェ&amp;ogmusic=科学世紀の少年少女，イザナギオブジェクト，華胥の夢，魔法少女十字軍&amp;fromwiki=HAS_BEEN_EP"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:34</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E8%BF%B7%E3%81%84%E3%81%AE%E3%82%A6%E3%82%A7&amp;action=edit&amp;redlink=1" class="new" title="迷いのウェ（页面不存在）">迷いのウェ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，迷いのウェ&amp;fromwiki=HAS_BEEN_EP"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="/index.php?title=%E8%BF%B7%E3%81%84%E3%81%AE%E3%82%A6%E3%82%A7&amp;action=edit&amp;redlink=1" class="new" title="迷いのウェ（页面不存在）">迷いのウェ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=迷いのウェ&amp;fromwiki=HAS_BEEN_EP"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="/index.php?title=%E8%BF%B7%E3%81%84%E3%81%AE%E3%82%A6%E3%82%A7&amp;action=edit&amp;redlink=1" class="new" title="迷いのウェ（页面不存在）">迷いのウェ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?lyric=迷いのウェ&amp;fromwiki=HAS_BEEN_EP"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演奏</td><td class="text" colspan="2">Guitar：迷いのウェ <br>Bass：迷いのウェ</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=科学世紀の少年少女，イザナギオブジェクト，華胥の夢，魔法少女十字軍&amp;fromwiki=HAS_BEEN_EP"><span></span></a></span><div class="ogmusic"><a href="./科学世紀の少年少女.md" class="mw-redirect" title="科学世紀の少年少女">科学世紀の少年少女</a></div><div class="source"><a href="./梦违科学世纪_～_Changeability_of_Strange_Dream.md" class="mw-redirect" title="梦违科学世纪 ～ Changeability of Strange Dream">梦违科学世纪　～ Changeability of Strange Dream</a></div><hr><div class="ogmusic"><a href="./イザナギオブジェクト.md" class="mw-redirect" title="イザナギオブジェクト">イザナギオブジェクト</a></div><div class="source"><a href="./伊奘诺物质_～_Neo-traditionalism_of_Japan..md" class="mw-redirect" title="伊奘诺物质 ～ Neo-traditionalism of Japan.">伊奘诺物质　～ Neo-traditionalism of Japan.</a></div><hr><div class="ogmusic"><a href="./華胥の夢.md" class="mw-redirect" title="華胥の夢">華胥の夢</a></div><div class="source"><a href="./梦违科学世纪_～_Changeability_of_Strange_Dream.md" class="mw-redirect" title="梦违科学世纪 ～ Changeability of Strange Dream">梦违科学世纪　～ Changeability of Strange Dream</a></div><hr><div class="ogmusic"><a href="./魔法少女十字軍.md" class="mw-redirect" title="魔法少女十字軍">魔法少女十字軍</a></div><div class="source"><a href="./莲台野夜行_～_Ghostly_Field_Club..md" class="mw-redirect" title="莲台野夜行 ～ Ghostly Field Club.">莲台野夜行　～ Ghostly Field Club.</a></div></td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">こんな世界滅びればいい。と、以前思ったんだ。けど。けどよ。なぜ滅びるって。なぜ世界を変えるんじゃないか。より美しい世界へと。この輝かしい技術で。
+<tr><td id="2" class="infoRD"><b>02</b></td><td id="現代現界現実現術_(The_world_is_dead_-_Long_live_the_world)" colspan="2" class="title"><a href="./歌词-現代現界現実現術_(The_world_is_dead_-_Long_live_the_world).md" title="歌词:現代現界現実現術 (The world is dead - Long live the world)">現代現界現実現術 (The world is dead - Long live the world)</a></td><td class="time">03:34</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="迷いのウェ（页面不存在）">迷いのウェ</a></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a class="new" title="迷いのウェ（页面不存在）">迷いのウェ</a></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a class="new" title="迷いのウェ（页面不存在）">迷いのウェ</a></td></tr><tr><td class="left"></td><td class="label">演奏</td><td class="text" colspan="2">Guitar：迷いのウェ <br>Bass：迷いのウェ</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./科学世纪的少年少女.md" class="mw-redirect" title="科学世紀の少年少女">科学世紀の少年少女</a></div><div class="source"><a href="./梦违科学世纪.md" class="mw-redirect" title="梦违科学世纪 ～ Changeability of Strange Dream">梦违科学世纪　～ Changeability of Strange Dream</a></div><hr><div class="ogmusic"><a href="./伊奘诺物质（曲目）.md" class="mw-redirect" title="イザナギオブジェクト">イザナギオブジェクト</a></div><div class="source"><a href="./伊奘诺物质.md" class="mw-redirect" title="伊奘诺物质 ～ Neo-traditionalism of Japan.">伊奘诺物质　～ Neo-traditionalism of Japan.</a></div><hr><div class="ogmusic"><a href="./华胥之梦.md" class="mw-redirect" title="華胥の夢">華胥の夢</a></div><div class="source"><a href="./梦违科学世纪.md" class="mw-redirect" title="梦违科学世纪 ～ Changeability of Strange Dream">梦违科学世纪　～ Changeability of Strange Dream</a></div><hr><div class="ogmusic"><a href="./魔法少女十字军.md" class="mw-redirect" title="魔法少女十字軍">魔法少女十字軍</a></div><div class="source"><a href="./莲台野夜行.md" class="mw-redirect" title="莲台野夜行 ～ Ghostly Field Club.">莲台野夜行　～ Ghostly Field Club.</a></div></td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">こんな世界滅びればいい。と、以前思ったんだ。けど。けどよ。なぜ滅びるって。なぜ世界を変えるんじゃないか。より美しい世界へと。この輝かしい技術で。
 "I know we will go out like a pilot light into the dark. We will burn in uncleft fire when we leave this world."</td></tr></tbody></table>
 
 
-
 ## 评论
+
 ```
-複雑な拙作であるパンクやエモなどの影響を受けた東方二次創作音楽アレンジ
-「落ちぶれている」とかいうテーマで作り頑張ったものです
-ダウンロードしたらオフボーカルもある
-```
-
-
-
-
+複雑な拙作であるパンクやエモなどの影響を受けた東方二次創作音楽アレンジ 「落ちぶれている」とかいうテーマで作り頑張ったものです ダウンロードしたらオフボーカルもある ```
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:POP｜CULTURE_9_INSTRUMENTAL_LIMITED封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4c\ns6%3APOP%EF%BD%9CCULTURE_9_INSTRUMENTAL_LIMITED%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4c\ns6%3APOP%EF%BD%9CCULTURE_9_INSTRUMENTAL_LIMITED%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Alstroemeria_Records | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ Alstroemeria_Records | 专辑封面 | 封面图片
   
 
 - [POP｜CULTURE 9 INSTRUMENTAL LIMITED](./POP｜CULTURE_9_INSTRUMENTAL_LIMITED.md)
-
-
-
 
 
 ---

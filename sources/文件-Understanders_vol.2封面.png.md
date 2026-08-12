@@ -1,6 +1,6 @@
 # 文件:Understanders_vol.2封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\aa\ns6%3AUnderstanders_vol%2E2%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\aa\ns6%3AUnderstanders_vol%2E2%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Wakaru_Records | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Wakaru_Records | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Understanders vol.2](./Understanders_vol.2.md)  
-该封面包含的角色：- [丰聪耳神子](./丰聪耳神子.md)
-
-
-
+- [Understanders vol.2](./Understanders_vol.2.md)该封面包含的角色：
+- [丰聪耳神子](./丰聪耳神子.md)
 
 
 ---

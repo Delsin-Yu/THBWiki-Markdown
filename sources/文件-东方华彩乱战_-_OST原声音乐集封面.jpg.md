@@ -1,6 +1,6 @@
 # 文件:东方华彩乱战_-_OST原声音乐集封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6a\ns6%3A%E4%B8%9C%E6%96%B9%E5%8D%8E%E5%BD%A9%E4%B9%B1%E6%88%98_-_OST%E5%8E%9F%E5%A3%B0%E9%9F%B3%E4%B9%90%E9%9B%86%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6a\ns6%3A%E4%B8%9C%E6%96%B9%E5%8D%8E%E5%BD%A9%E4%B9%B1%E6%88%98_-_OST%E5%8E%9F%E5%A3%B0%E9%9F%B3%E4%B9%90%E9%9B%86%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Re零同人社 | 专辑封面 | 二色幽紫蝶 | 封面图片
 
@@ -10,11 +10,9 @@ Re零同人社 | 专辑封面 | 二色幽紫蝶 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [东方华彩乱战 - OST原声音乐集](./东方华彩乱战_-_OST原声音乐集.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [东方华彩乱战 - OST原声音乐集](./东方华彩乱战_-_OST原声音乐集.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

@@ -1,16 +1,12 @@
 # 文件:Psysia（同人社团）LOGO2.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f5\ns6%3APsysia%EF%BC%88%E5%90%8C%E4%BA%BA%E7%A4%BE%E5%9B%A2%EF%BC%89LOGO2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f5\ns6%3APsysia%EF%BC%88%E5%90%8C%E4%BA%BA%E7%A4%BE%E5%9B%A2%EF%BC%89LOGO2%2Epng.html -->
 
 Psysia（同人社团） | 社团LOGO
 
   
 Psysia新社团logo
   
-
-
-
-
 
 ---
 

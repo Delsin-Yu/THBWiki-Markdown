@@ -1,12 +1,8 @@
 # 文件:时符「Perfect_Square」（妖妖梦）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\65\ns6%3A%E6%97%B6%E7%AC%A6%E3%80%8CPerfect_Square%E3%80%8D%EF%BC%88%E5%A6%96%E5%A6%96%E6%A2%A6%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\65\ns6%3A%E6%97%B6%E7%AC%A6%E3%80%8CPerfect_Square%E3%80%8D%EF%BC%88%E5%A6%96%E5%A6%96%E6%A2%A6%EF%BC%89%2Ejpg.html -->
 
 东方妖妖梦 | 十六夜咲夜 | 自机符卡
-
-
-
-
 
 
 ---

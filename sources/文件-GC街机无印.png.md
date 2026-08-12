@@ -1,12 +1,8 @@
 # 文件:GC街机无印.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b3\ns6%3AGC%E8%A1%97%E6%9C%BA%E6%97%A0%E5%8D%B0%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b3\ns6%3AGC%E8%A1%97%E6%9C%BA%E6%97%A0%E5%8D%B0%2Epng.html -->
 
 GROOVE_COASTER | 太东 | 游戏LOGO
-
-
-
-
 
 
 ---

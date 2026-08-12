@@ -1,6 +1,6 @@
 # 文件:f(x)=うにゅ封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\db\ns6%3Af%28x%29%3D%E3%81%86%E3%81%AB%E3%82%85%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\db\ns6%3Af%28x%29%3D%E3%81%86%E3%81%AB%E3%82%85%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Windbreaker | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Windbreaker | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [f(x)=うにゅ](./f(x)=うにゅ.md)  
-该封面包含的角色：- [灵乌路空](./灵乌路空.md)
-
-
-
+- [f(x)=うにゅ](./f(x%29=うにゅ.md)该封面包含的角色：
+- [灵乌路空](./灵乌路空.md)
 
 
 ---

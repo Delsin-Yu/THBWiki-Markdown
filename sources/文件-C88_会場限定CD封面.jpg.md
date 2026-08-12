@@ -1,6 +1,6 @@
 # 文件:C88_会場限定CD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3c\ns6%3AC88_%E4%BC%9A%E5%A0%B4%E9%99%90%E5%AE%9ACD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3c\ns6%3AC88_%E4%BC%9A%E5%A0%B4%E9%99%90%E5%AE%9ACD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Pizuya's_Cell | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Pizuya's_Cell | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [C88 会場限定CD](./C88_会場限定CD.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [C88 会場限定CD](./C88_会場限定CD.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

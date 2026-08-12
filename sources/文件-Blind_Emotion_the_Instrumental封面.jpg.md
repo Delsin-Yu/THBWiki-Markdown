@@ -1,6 +1,6 @@
 # 文件:Blind_Emotion_the_Instrumental封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d2\ns6%3ABlind_Emotion_the_Instrumental%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d2\ns6%3ABlind_Emotion_the_Instrumental%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 EastNewSound | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ EastNewSound | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Blind Emotion the Instrumental](./Blind_Emotion_the_Instrumental.md)  
-该封面包含的角色：- [古明地恋](./古明地恋.md)
+- [Blind Emotion the Instrumental](./Blind_Emotion_the_Instrumental.md)该封面包含的角色：
+- [古明地恋](./古明地恋.md)
 
   
-源文件：[[1]](http://img.toranoana.jp/popup_img/04/0030/44/30/040030443026-1p.jpg)
-  
-
-
-
-
+源文件：[\[1\]](http://img.toranoana.jp/popup_img/04/0030/44/30/040030443026-1p.jpg)  
 
 ---
 

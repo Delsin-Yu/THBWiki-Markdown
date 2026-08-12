@@ -1,6 +1,6 @@
 # 文件:機械の空にXXXを封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\84\ns6%3A%E6%A9%9F%E6%A2%B0%E3%81%AE%E7%A9%BA%E3%81%ABXXX%E3%82%92%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\84\ns6%3A%E6%A9%9F%E6%A2%B0%E3%81%AE%E7%A9%BA%E3%81%ABXXX%E3%82%92%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 スアリテスミ | 同人志封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [機械の空にXXXを](./機械の空にXXXを.md)  
-该封面包含的角色：- [封兽鵺](./封兽鵺.md)
-
-
-
+- [機械の空にXXXを](./機械の空にXXXを.md)该封面包含的角色：
+- [封兽鵺](./封兽鵺.md)
 
 
 ---

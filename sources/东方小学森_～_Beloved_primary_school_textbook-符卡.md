@@ -1,25 +1,17 @@
 # 东方小学森_～_Beloved_primary_school_textbook/符卡
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\20\ns0%3A%E4%B8%9C%E6%96%B9%E5%B0%8F%E5%AD%A6%E6%A3%AE_%EF%BD%9E_Beloved_primary_school_textbook%2F%E7%AC%A6%E5%8D%A1.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\20\ns0%3A%E4%B8%9C%E6%96%B9%E5%B0%8F%E5%AD%A6%E6%A3%AE_%EF%BD%9E_Beloved_primary_school_textbook%2F%E7%AC%A6%E5%8D%A1.html -->
 
 尹棱DANE
 
   
-[自机](./东方小学森_～_Beloved_primary_school_textbook-符卡-自机.md)
+[自机](./东方小学森_～_Beloved_primary_school_textbook-符卡-自机.md)  
   
+[普通模式](./东方小学森_～_Beloved_primary_school_textbook-符卡-普通模式.md)  
   
-[普通模式](./东方小学森_～_Beloved_primary_school_textbook-符卡-普通模式.md)
+EX模式 (未找到链接)  
   
-  
-EX模式 (未找到链接)
-  
-  
-里世界模式 (未找到链接)
-  
-
-
-
-
+里世界模式 (未找到链接)  
 
 ---
 

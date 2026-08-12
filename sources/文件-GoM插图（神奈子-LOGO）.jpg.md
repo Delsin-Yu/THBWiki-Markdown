@@ -1,12 +1,8 @@
 # 文件:GoM插图（神奈子-LOGO）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9b\ns6%3AGoM%E6%8F%92%E5%9B%BE%EF%BC%88%E7%A5%9E%E5%A5%88%E5%AD%90-LOGO%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9b\ns6%3AGoM%E6%8F%92%E5%9B%BE%EF%BC%88%E7%A5%9E%E5%A5%88%E5%AD%90-LOGO%EF%BC%89%2Ejpg.html -->
 
 八坂神奈子 | 魔理沙的魔法书
-
-
-
-
 
 
 ---

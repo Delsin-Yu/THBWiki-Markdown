@@ -1,6 +1,6 @@
 # 文件:SCARLET_FANTASIA_III封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\84\ns6%3ASCARLET_FANTASIA_III%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\84\ns6%3ASCARLET_FANTASIA_III%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 岡垣正志＆フレンズ
 
@@ -8,16 +8,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [SCARLET FANTASIA III](./SCARLET_FANTASIA_III.md)  
-该封面包含的角色：- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
+- [SCARLET FANTASIA III](./SCARLET_FANTASIA_III.md)该封面包含的角色：
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
 
   
 源地址:TLMC扫描改编
   
-
-
-
-
 
 ---
 

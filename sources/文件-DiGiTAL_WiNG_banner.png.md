@@ -1,12 +1,8 @@
 # 文件:DiGiTAL_WiNG_banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\35\ns6%3ADiGiTAL_WiNG_banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\35\ns6%3ADiGiTAL_WiNG_banner%2Epng.html -->
 
 DiGiTAL_WiNG | 社团LOGO
-
-
-
-
 
 
 ---

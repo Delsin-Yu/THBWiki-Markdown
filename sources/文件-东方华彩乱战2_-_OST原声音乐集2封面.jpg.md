@@ -1,6 +1,6 @@
 # 文件:东方华彩乱战2_-_OST原声音乐集2封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ea\ns6%3A%E4%B8%9C%E6%96%B9%E5%8D%8E%E5%BD%A9%E4%B9%B1%E6%88%982_-_OST%E5%8E%9F%E5%A3%B0%E9%9F%B3%E4%B9%90%E9%9B%862%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ea\ns6%3A%E4%B8%9C%E6%96%B9%E5%8D%8E%E5%BD%A9%E4%B9%B1%E6%88%982_-_OST%E5%8E%9F%E5%A3%B0%E9%9F%B3%E4%B9%90%E9%9B%862%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 二色幽紫蝶 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [东方华彩乱战2 - OST原声音乐集2](./东方华彩乱战2_-_OST原声音乐集2.md)  
-该封面包含的角色：- [米斯蒂娅·萝蕾拉](./米斯蒂娅·萝蕾拉.md)
-
-
-
+- [东方华彩乱战2 - OST原声音乐集2](./东方华彩乱战2_-_OST原声音乐集2.md)该封面包含的角色：
+- [米斯蒂娅·萝蕾拉](./米斯蒂娅·萝蕾拉.md)
 
 
 ---

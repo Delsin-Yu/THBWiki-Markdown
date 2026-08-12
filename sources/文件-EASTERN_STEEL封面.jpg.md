@@ -1,6 +1,6 @@
 # 文件:EASTERN_STEEL封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0a\ns6%3AEASTERN_STEEL%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0a\ns6%3AEASTERN_STEEL%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Arts＆Sounds：Utopia | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Arts＆Sounds：Utopia | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [EASTERN STEEL](./EASTERN_STEEL.md)  
-该封面包含的角色：- [埴安神袿姬](./埴安神袿姬.md)
-
-
-
+- [EASTERN STEEL](./EASTERN_STEEL.md)该封面包含的角色：
+- [埴安神袿姬](./埴安神袿姬.md)
 
 
 ---

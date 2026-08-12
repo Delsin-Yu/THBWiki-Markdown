@@ -1,14 +1,11 @@
 # 文件:モイモイbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8f\ns6%3A%E3%83%A2%E3%82%A4%E3%83%A2%E3%82%A4banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8f\ns6%3A%E3%83%A2%E3%82%A4%E3%83%A2%E3%82%A4banner%2Ejpg.html -->
 
 モイモイ | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

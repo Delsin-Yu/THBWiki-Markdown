@@ -1,6 +1,6 @@
 # 文件:Happy+Candy+Cloudy封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a8\ns6%3AHappy%2BCandy%2BCloudy%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a8\ns6%3AHappy%2BCandy%2BCloudy%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Astral_Sky | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Astral_Sky | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Happy+Candy+Cloudy](./Happy+Candy+Cloudy.md)  
-该封面包含的角色：- [大妖精](./大妖精.md)
+- [Happy+Candy+Cloudy](./Happy+Candy+Cloudy.md)该封面包含的角色：
+- [大妖精](./大妖精.md)
 
   
-源地址：[[1]](http://static.tumblr.com/d74d710ddb7d4a928d1011db2af52f43/eil6ehm/cVimvorl0/tumblr_static_dai-chan_03_.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://static.tumblr.com/d74d710ddb7d4a928d1011db2af52f43/eil6ehm/cVimvorl0/tumblr_static_dai-chan_03_.jpg)  
 
 ---
 

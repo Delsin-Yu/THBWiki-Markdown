@@ -1,6 +1,6 @@
 # 文件:Count_Zero（ロヲタスは眠らない）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\27\ns6%3ACount_Zero%EF%BC%88%E3%83%AD%E3%83%B2%E3%82%BF%E3%82%B9%E3%81%AF%E7%9C%A0%E3%82%89%E3%81%AA%E3%81%84%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\27\ns6%3ACount_Zero%EF%BC%88%E3%83%AD%E3%83%B2%E3%82%BF%E3%82%B9%E3%81%AF%E7%9C%A0%E3%82%89%E3%81%AA%E3%81%84%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ロヲタスは眠らない | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Count Zero（ロヲタスは眠らない）](./Count_Zero（ロヲタスは眠らない）.md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)
-
-
-
+- [Count Zero（ロヲタスは眠らない）](./Count_Zero（ロヲタスは眠らない）.md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
 
 
 ---

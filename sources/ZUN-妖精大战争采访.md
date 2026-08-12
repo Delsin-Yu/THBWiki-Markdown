@@ -1,8 +1,9 @@
 # ZUN/妖精大战争采访
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\b9\ns0%3AZUN%2F%E5%A6%96%E7%B2%BE%E5%A4%A7%E6%88%98%E4%BA%89%E9%87%87%E8%AE%BF.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\b9\ns0%3AZUN%2F%E5%A6%96%E7%B2%BE%E5%A4%A7%E6%88%98%E4%BA%89%E9%87%87%E8%AE%BF.html -->
 
 ZUN | 妖精大战争 | 采访
+
 
 - 本次访谈刊载于Chara☆Mel Febri Vol.02（即东方茨歌仙第二话刊载杂志）
 - 翻译：用户:京都人形 (未找到链接)
@@ -43,12 +44,6 @@ ZUN | 妖精大战争 | 采访
 <p>※参照从『东方红魔乡』到『东方花映塚』的载入画面
 </p>
 </td></tr></tbody></table>
-
-
-  
-  
-
-  
 
 
 <table>
@@ -148,12 +143,6 @@ ZUN | 妖精大战争 | 采访
 </th></tr></tbody></table>
 
 
-  
-  
-
-  
-
-
 <table>
 
 
@@ -251,12 +240,6 @@ ZUN | 妖精大战争 | 采访
 <p>但是在《东方花映塚》中华丽地大幅度提升到自机角色的等级！但是这是新的neta的开始。
 </p>
 </td></tr></tbody></table>
-
-
-  
-  
-
-  
 
 
 <table>
@@ -367,12 +350,6 @@ ZUN | 妖精大战争 | 采访
 <p>正因为有很多华丽和直球形状的弹幕，所以这边也要用力对抗比较好。
 </p>
 </td></tr></tbody></table>
-
-
-  
-  
-
-  
 
 
 <table>
@@ -497,12 +474,6 @@ ZUN | 妖精大战争 | 采访
 </td></tr></tbody></table>
 
 
-  
-  
-
-  
-
-
 <table>
 
 
@@ -623,12 +594,6 @@ ZUN | 妖精大战争 | 采访
 <p>虽说战斗意识低，但能力也不一定低。不要轻视。
 </p>
 </td></tr></tbody></table>
-
-
-  
-  
-
-  
 
 
 <table>
@@ -913,10 +878,6 @@ ZUN | 妖精大战争 | 采访
 <p><i>琪露诺被称作“笨蛋”而广受喜爱的理由，</i><br><i>是在『东方花映塚』的说明书中写着「⑨笨蛋」，</i><br><i>ZUN氏淘气的心理正是其开端。</i>
 </p>
 </td></tr></tbody></table>
-
-
-
-
 
 
 ---

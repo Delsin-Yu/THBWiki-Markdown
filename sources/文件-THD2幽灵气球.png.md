@@ -1,12 +1,8 @@
 # 文件:THD2幽灵气球.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fa\ns6%3ATHD2%E5%B9%BD%E7%81%B5%E6%B0%94%E7%90%83%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fa\ns6%3ATHD2%E5%B9%BD%E7%81%B5%E6%B0%94%E7%90%83%2Epng.html -->
 
 THD2
-
-
-
-
 
 
 ---

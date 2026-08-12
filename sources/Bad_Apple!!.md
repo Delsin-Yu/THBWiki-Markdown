@@ -1,41 +1,31 @@
 # Bad_Apple!!
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\7\77\ns0%3ABad_Apple%21%21.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\7\77\ns0%3ABad_Apple%21%21.html -->
 
 由 ZUN 创作的官方曲目，原名 Bad Apple!!
 
 本页是关于东方Project  
- **原作音乐** 的词条
-
+**原作音乐**的词条
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 出现作品](#出现作品)
 - [3 音乐文件](#音乐文件)
-
   - [3.1 东方幻想乡体验版](#东方幻想乡体验版)
   - [3.2 东方幻想乡](#东方幻想乡)
   - [3.3 东方怪绮谈](#东方怪绮谈)
   - [3.4 幺乐团的历史 vol.1](#幺乐团的历史_vol.1)
 
 
-
 - [4 说明文本](#说明文本)
-
   - [4.1 东方幻想乡](#东方幻想乡_2)
   - [4.2 东方怪绮谈](#东方怪绮谈_2)
 
 
-
 - [5 其他资料](#其他资料)
-
   - [5.1 乐理资讯](#乐理资讯)
   - [5.2 分析考据](#分析考据)
   - [5.3 二次同人数据](#二次同人数据)
-
-
-
-
 
 
 
@@ -45,7 +35,6 @@
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">Bad Apple!!</td></tr><tr><td><b>译名</b></td><td>Bad Apple!!</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 Bad Apple!!（曲目） - 由 ZUN 创作的官方曲目，原名 Bad Apple!!
-
 ## 出现作品
 
 <table>
@@ -56,7 +45,6 @@ Bad Apple!!（曲目） - 由 ZUN 创作的官方曲目，原名 Bad Apple!!
 </tbody></table>
 
 
-
 ## 音乐文件
 
 ### 东方幻想乡体验版
@@ -64,17 +52,13 @@ Bad Apple!!（曲目） - 由 ZUN 创作的官方曲目，原名 Bad Apple!!
 YM2203(OPN)，FM26K音源版。
   
 
-
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th04tr_07_26.ogg.md" title="文件:th04tr 07 26.ogg">th04tr_07_26.ogg</a><br><audio src="https://upload.thwiki.cc/a/a7/th04tr_07_26.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>ST02.M26</td></tr><tr><td><b>音轨时长</b></td><td>2:41.521</td></tr></tbody></table>
-
 
   
 YM2608(OPNA)，FM86音源版。
   
 
-
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th04tr_07_86.ogg.md" title="文件:th04tr 07 86.ogg">th04tr_07_86.ogg</a><br><audio src="https://upload.thwiki.cc/8/8e/th04tr_07_86.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>ST02.M86</td></tr><tr><td><b>音轨时长</b></td><td>1:20.770</td></tr></tbody></table>
-
 
 
 ### 东方幻想乡
@@ -82,17 +66,13 @@ YM2608(OPNA)，FM86音源版。
 YM2203(OPN)，FM26K音源版。
   
 
-
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th04_07_26.ogg.md" title="文件:th04 07 26.ogg">th04_07_26.ogg</a><br><audio src="https://upload.thwiki.cc/b/bc/th04_07_26.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>ST02.M26</td></tr><tr><td><b>音轨时长</b></td><td>2:41.521</td></tr></tbody></table>
-
 
   
 YM2608(OPNA)，FM86音源版。
   
 
-
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th04_07_86.ogg.md" title="文件:th04 07 86.ogg">th04_07_86.ogg</a><br><audio src="https://upload.thwiki.cc/0/06/th04_07_86.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>ST02.M86</td></tr><tr><td><b>音轨时长</b></td><td>1:20.770</td></tr></tbody></table>
-
 
 
 ### 东方怪绮谈
@@ -100,17 +80,13 @@ YM2608(OPNA)，FM86音源版。
 YM2203(OPN)，FM26K音源版。
   
 
-
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th05_G_07_26.ogg.md" title="文件:th05 G 07 26.ogg">th05_G_07_26.ogg</a><br><audio src="https://upload.thwiki.cc/8/83/th05_G_07_26.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>G_ST02.M</td></tr><tr><td><b>音轨时长</b></td><td>2:41.521</td></tr></tbody></table>
-
 
   
 YM2608(OPNA)，FM86音源版。
   
 
-
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th05_G_07_86.ogg.md" title="文件:th05 G 07 86.ogg">th05_G_07_86.ogg</a><br><audio src="https://upload.thwiki.cc/5/56/th05_G_07_86.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>G_ST02.M2</td></tr><tr><td><b>音轨时长</b></td><td>1:20.770</td></tr></tbody></table>
-
 
 
 ### 幺乐团的历史 vol.1
@@ -118,11 +94,11 @@ YM2608(OPNA)，FM86音源版。
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-ha01a_07.mp3.md" title="文件:ha01a 07.mp3">ha01a_07.mp3</a><br><audio src="https://upload.thwiki.cc/7/70/ha01a_07.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track07.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>3:15</td></tr></tbody></table>
 
 
-
 ## 说明文本
 
 ### 东方幻想乡
-- Music Room (未找到链接)
+
+- [Music Room](./东方幻想乡-Music.md#3面主题曲)
 
 　　　　　　三面的主题曲  
 　这首曲子，很像以前我做的曲子。  
@@ -136,9 +112,9 @@ YM2608(OPNA)，FM86音源版。
 ＺＵＮ（太田）  
 用于东方幻想乡的曲子。  
 大概３面
-
 ### 东方怪绮谈
-- Music Room (未找到链接)
+
+- [Music Room](./东方怪绮谈-Music.md#东方幻想乡-29)
 
 ３面的主题曲Bad Apple!!  (26)  
 ＺＵＮ（太田）  
@@ -147,25 +123,26 @@ YM2608(OPNA)，FM86音源版。
 ＺＵＮ（太田）  
 用于东方幻想乡的曲子。  
 大概3面
-
 ## 其他资料
 
 ### 乐理资讯
 
 ### 分析考据
   
- **Bad Apple!!** 
-  
+**Bad Apple!!**  
 烂苹果
   
 
-- 烂苹果
-  - 俗语中有“近墨者黑”的含义
+- 烂苹果 
+  - 俗语中有“近墨者黑”的含义 
     - 从“馆”中涌现的魔力激起了众多恶灵的活动
 
 
-- 黄泉国？
+
+
+- 黄泉国？ 
   - 三面的场景为“幽冥”，似乎与黄泉国有联系？
+
 
 
 
@@ -181,13 +158,6 @@ YM2608(OPNA)，FM86音源版。
 <tr><td>Arrange</td><td>484</td></tr>
 <tr><td>Vocal率</td><td>30.26%</td></tr>
 </tbody></table>
-
-
-
-
-
-
-
 
 
 ---

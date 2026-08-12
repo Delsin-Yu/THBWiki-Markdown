@@ -1,6 +1,6 @@
 # 文件:東方ひとりぼっち合同_13_Green_Eyed_MonSters封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\66\ns6%3A%E6%9D%B1%E6%96%B9%E3%81%B2%E3%81%A8%E3%82%8A%E3%81%BC%E3%81%A3%E3%81%A1%E5%90%88%E5%90%8C_13_Green_Eyed_MonSters%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\66\ns6%3A%E6%9D%B1%E6%96%B9%E3%81%B2%E3%81%A8%E3%82%8A%E3%81%BC%E3%81%A3%E3%81%A1%E5%90%88%E5%90%8C_13_Green_Eyed_MonSters%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 merinorsh | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ merinorsh | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方ひとりぼっち合同 13 Green Eyed MonSters](./東方ひとりぼっち合同_13_Green_Eyed_MonSters.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
-
-
-
+- [東方ひとりぼっち合同 13 Green Eyed MonSters](./東方ひとりぼっち合同_13_Green_Eyed_MonSters.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
 
 
 ---

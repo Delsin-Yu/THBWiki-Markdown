@@ -1,12 +1,8 @@
 # 文件:麻薯小作坊logo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a8\ns6%3A%E9%BA%BB%E8%96%AF%E5%B0%8F%E4%BD%9C%E5%9D%8Alogo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a8\ns6%3A%E9%BA%BB%E8%96%AF%E5%B0%8F%E4%BD%9C%E5%9D%8Alogo%2Epng.html -->
 
 社团LOGO | 麻薯小作坊
-
-
-
-
 
 
 ---

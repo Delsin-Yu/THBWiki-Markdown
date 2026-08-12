@@ -1,12 +1,8 @@
 # 文件:Black_Rock_ONE_banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1f\ns6%3ABlack_Rock_ONE_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1f\ns6%3ABlack_Rock_ONE_banner%2Ejpg.html -->
 
 Black_Rock_ONE | 社团LOGO
-
-
-
-
 
 
 ---

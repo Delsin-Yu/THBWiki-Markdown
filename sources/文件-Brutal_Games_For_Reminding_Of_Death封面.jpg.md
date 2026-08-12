@@ -1,6 +1,6 @@
 # 文件:Brutal_Games_For_Reminding_Of_Death封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f5\ns6%3ABrutal_Games_For_Reminding_Of_Death%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f5\ns6%3ABrutal_Games_For_Reminding_Of_Death%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 CROW'SCLAW | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ CROW'SCLAW | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Brutal Games For Reminding Of Death](./Brutal_Games_For_Reminding_Of_Death.md)  
-该封面包含的角色：- [藤原妹红](./藤原妹红.md)
-
-
-
+- [Brutal Games For Reminding Of Death](./Brutal_Games_For_Reminding_Of_Death.md)该封面包含的角色：
+- [藤原妹红](./藤原妹红.md)
 
 
 ---

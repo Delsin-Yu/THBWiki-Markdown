@@ -1,18 +1,13 @@
 # 文件:Alice_Rainlogo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\79\ns6%3AAlice_Rainlogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\79\ns6%3AAlice_Rainlogo%2Ejpg.html -->
 
 Alice_Rain | 社团LOGO
 
 
 ## 摘要
   
-源地址：[direct image link (original size)](https://f4.bcbits.com/img/0027372931_0.jpg), [source page (artist Bandcamp logo)](https://alicerain.bandcamp.com/music)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://f4.bcbits.com/img/0027372931_0.jpg), [source page (artist Bandcamp logo)](https://alicerain.bandcamp.com/music)  
 
 ---
 

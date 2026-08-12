@@ -1,6 +1,6 @@
 # 文件:id_est封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\45\ns6%3Aid_est%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\45\ns6%3Aid_est%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 The_Perfect_Insiders | 专辑封面 | 封面图片
 
@@ -8,12 +8,9 @@ The_Perfect_Insiders | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [id est](./id_est.md)  
-该封面包含的角色：- [古明地觉](./古明地觉.md)源地址：[[1]](https://booth.pximg.net/3c0ef235-7852-4c63-bbe7-43ffb73c76bf/i/207340/102beece-5f97-40fd-aecc-f32fcccee921.png)
-
-
-
-
+- [id est](./id_est.md)该封面包含的角色：
+- [古明地觉](./古明地觉.md)
+源地址：[\[1\]](https://booth.pximg.net/3c0ef235-7852-4c63-bbe7-43ffb73c76bf/i/207340/102beece-5f97-40fd-aecc-f32fcccee921.png)
 
 ---
 

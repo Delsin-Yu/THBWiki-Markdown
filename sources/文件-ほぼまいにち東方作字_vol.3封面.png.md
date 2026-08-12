@@ -1,6 +1,6 @@
 # 文件:ほぼまいにち東方作字_vol.3封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\68\ns6%3A%E3%81%BB%E3%81%BC%E3%81%BE%E3%81%84%E3%81%AB%E3%81%A1%E6%9D%B1%E6%96%B9%E4%BD%9C%E5%AD%97_vol%2E3%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\68\ns6%3A%E3%81%BB%E3%81%BC%E3%81%BE%E3%81%84%E3%81%AB%E3%81%A1%E6%9D%B1%E6%96%B9%E4%BD%9C%E5%AD%97_vol%2E3%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 paroleise | 同人志封面 | 封面图片
 
@@ -13,12 +13,7 @@ paroleise | 同人志封面 | 封面图片
 - [ほぼまいにち東方作字 vol.3](./ほぼまいにち東方作字_vol.3.md)
 
   
-源地址：[direct image link (max size; cropped from original)](https://s2.booth.pm/cc576e13-fc61-4c9b-9467-c470e618d507/i/3840192/9e12bf0f-75b8-4082-ac38-8e673a52fdaf.jpg), [source page (circle booth)](https://paroleise.booth.pm/items/3840192)
-  
-
-
-
-
+源地址：[direct image link (max size; cropped from original)](https://s2.booth.pm/cc576e13-fc61-4c9b-9467-c470e618d507/i/3840192/9e12bf0f-75b8-4082-ac38-8e673a52fdaf.jpg), [source page (circle booth)](https://paroleise.booth.pm/items/3840192)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:PxOxFxLxL_E.P.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6b\ns6%3APxOxFxLxL_E%2EP%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6b\ns6%3APxOxFxLxL_E%2EP%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ガチムチ兄貴の憂鬱 | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [PxOxFxLxL E.P.](./PxOxFxLxL_E.P..md)  
-该封面包含的角色：- [古明地恋](./古明地恋.md)
-
-
-
+- [PxOxFxLxL E.P.](./PxOxFxLxL_E.P..md)该封面包含的角色：
+- [古明地恋](./古明地恋.md)
 
 
 ---

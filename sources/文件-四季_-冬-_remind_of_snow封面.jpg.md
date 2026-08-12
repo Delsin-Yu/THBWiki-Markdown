@@ -1,6 +1,6 @@
 # 文件:四季_-冬-_remind_of_snow封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6f\ns6%3A%E5%9B%9B%E5%AD%A3_-%E5%86%AC-_remind_of_snow%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6f\ns6%3A%E5%9B%9B%E5%AD%A3_-%E5%86%AC-_remind_of_snow%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 t=NODE | 专辑封面 | 封面图片
 
@@ -8,17 +8,12 @@ t=NODE | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [四季 -冬- remind of snow](./四季_-冬-_remind_of_snow.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)
+- [四季 -冬- remind of snow](./四季_-冬-_remind_of_snow.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
 
   
 <img src="https://en.touhouwiki.net/images/b/b7/Remind_of_Snow_Cover.jpg" alt="Remind_of_Snow_Cover.jpg">
-
   
-
-
-
-
 
 ---
 

@@ -1,12 +1,8 @@
 # 文件:地狱「炼狱气息」（DS文花帖）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fe\ns6%3A%E5%9C%B0%E7%8B%B1%E3%80%8C%E7%82%BC%E7%8B%B1%E6%B0%94%E6%81%AF%E3%80%8D%EF%BC%88DS%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fe\ns6%3A%E5%9C%B0%E7%8B%B1%E3%80%8C%E7%82%BC%E7%8B%B1%E6%B0%94%E6%81%AF%E3%80%8D%EF%BC%88DS%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Ejpg.html -->
 
 东方文花帖DS | 伊吹萃香 | 敌机符卡
-
-
-
-
 
 
 ---

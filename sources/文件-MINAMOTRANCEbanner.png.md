@@ -1,14 +1,11 @@
 # 文件:MINAMOTRANCEbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\80\ns6%3AMINAMOTRANCEbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\80\ns6%3AMINAMOTRANCEbanner%2Epng.html -->
 
 MINAMOTRANCE | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

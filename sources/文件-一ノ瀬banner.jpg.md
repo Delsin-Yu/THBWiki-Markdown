@@ -1,12 +1,8 @@
 # 文件:一ノ瀬banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fd\ns6%3A%E4%B8%80%E3%83%8E%E7%80%ACbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fd\ns6%3A%E4%B8%80%E3%83%8E%E7%80%ACbanner%2Ejpg.html -->
 
 一ノ瀬 | 社团LOGO
-
-
-
-
 
 
 ---

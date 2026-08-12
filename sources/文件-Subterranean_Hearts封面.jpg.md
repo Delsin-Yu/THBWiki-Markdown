@@ -1,6 +1,6 @@
 # 文件:Subterranean_Hearts封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e6\ns6%3ASubterranean_Hearts%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e6\ns6%3ASubterranean_Hearts%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 RenditionNews | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ RenditionNews | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Subterranean Hearts](./Subterranean_Hearts.md)  
-该封面包含的角色：- [古明地觉](./古明地觉.md)- [古明地恋](./古明地恋.md)
-
-
-
+- [Subterranean Hearts](./Subterranean_Hearts.md)该封面包含的角色：
+- [古明地觉](./古明地觉.md)
+- [古明地恋](./古明地恋.md)
 
 
 ---

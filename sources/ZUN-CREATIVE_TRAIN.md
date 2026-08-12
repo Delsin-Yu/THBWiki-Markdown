@@ -1,8 +1,9 @@
 # ZUN/CREATIVE_TRAIN
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\f0\ns0%3AZUN%2FCREATIVE_TRAIN.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\f0\ns0%3AZUN%2FCREATIVE_TRAIN.html -->
 
 ZUN
+
 
 - 节目观看地址：[https://www.bilibili.com/video/BV19Z4y1F7XM/](https://www.bilibili.com/video/BV19Z4y1F7XM/)
 
@@ -10,10 +11,8 @@ ZUN
 ## 目录
 
 - [1 书籍](#书籍)
-
   - [1.1 键盘后方的书籍](#键盘后方的书籍)
   - [1.2 书架](#书架)
-
     - [1.2.1 左侧书架 第一层](#左侧书架_第一层)
     - [1.2.2 左侧书架 第二层](#左侧书架_第二层)
     - [1.2.3 左侧书架 第三层](#左侧书架_第三层)
@@ -21,22 +20,18 @@ ZUN
 
 
 
-
-
 - [2 注释](#注释)
 
 
-
-
-
 ## 书籍
+
 - 以下为节目中出现的ZUN的书籍及部分ISBN编号。
 - 括弧内容为不确认或难以判断的内容。
 
 
 ### 键盘后方的书籍
-[](./文件-CREATIVE_TRAIN书架1.png.md)  [](./文件-CREATIVE_TRAIN书架1.png.md)出自视频10:03处
-
+<img alt="" src="https://upload.thwiki.cc/d/d9/CREATIVE_TRAIN%E4%B9%A6%E6%9E%B61.png" decoding="async" loading="lazy" width="413" height="273" class="thumbimage" data-file-width="413" data-file-height="273">
+ [放大](./文件-CREATIVE_TRAIN书架1.png.md)出自视频10:03处
 <table>
 
 <tbody><tr>
@@ -55,13 +50,13 @@ ZUN
 <td>978-4309224879
 </td></tr>
 <tr>
-<td>續　妖異博物館<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">1</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">2</a></sup>
+<td>續　妖異博物館<span>[^cite_note-1]</span><span>[^cite_note-2]</span>
 </td></tr>
 <tr>
-<td>妖異博物館<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">3</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">4</a></sup>
+<td>妖異博物館<span>[^cite_note-3]</span><span>[^cite_note-4]</span>
 </td></tr>
 <tr>
-<td>古川柳風俗事典<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">5</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">6</a></sup>
+<td>古川柳風俗事典<span>[^cite_note-5]</span><span>[^cite_note-6]</span>
 </td></tr>
 <tr>
 <td>信仰と民俗</td>
@@ -69,20 +64,17 @@ ZUN
 <td>978-4753400904
 </td></tr>
 <tr>
-<td>信州に於ける薬用植物：成分並に薬効<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">7</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">8</a></sup>
+<td>信州に於ける薬用植物：成分並に薬効<span>[^cite_note-7]</span><span>[^cite_note-8]</span>
 </td></tr>
 <tr>
-<td>世界動物図案資料集成<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">9</a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">10</a></sup>
+<td>世界動物図案資料集成<span>[^cite_note-9]</span><span>[^cite_note-10]</span>
 </td></tr></tbody></table>
 
 
-
-
 ### 书架
-
-[](./文件-CREATIVE_TRAIN书架2.png.md)[](./文件-CREATIVE_TRAIN书架2.png.md)出自视频12:54处
-
-
+<img alt="" src="https://upload.thwiki.cc/thumb/5/54/CREATIVE_TRAIN%E4%B9%A6%E6%9E%B62.png/1000px-CREATIVE_TRAIN%E4%B9%A6%E6%9E%B62.png" decoding="async" loading="lazy" width="1000" height="815" srcset="https://upload.thwiki.cc/5/54/CREATIVE_TRAIN%E4%B9%A6%E6%9E%B62.png 1.5x" data-file-width="1325" data-file-height="1080">
+<img alt="" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Magnify-clip.png" decoding="async" loading="lazy" width="15" height="11" data-file-width="15" data-file-height="11">
+出自视频12:54处
 <table>
 
 <tbody><tr>
@@ -95,7 +87,6 @@ ZUN
 <td>4787585401</td>
 <td>978-4787585400
 </td></tr></tbody></table>
-
 
 
 #### 左侧书架 第一层
@@ -117,7 +108,6 @@ ZUN
 <td>486152329X</td>
 <td>978-4861523298
 </td></tr></tbody></table>
-
 
 
 #### 左侧书架 第二层
@@ -150,7 +140,6 @@ ZUN
 <td>4331653951</td>
 <td>978-4331653951
 </td></tr></tbody></table>
-
 
 
 #### 左侧书架 第三层
@@ -218,13 +207,16 @@ ZUN
 <td>978-4902108262
 </td></tr></tbody></table>
 
-
-
 [^cite_note-1]: 出版于1963年故无ISBN号，该书日本全国书目号码（日本全国書誌番号）为63007151。作者为柴田宵曲。
-
-
-
-
+[^cite_note-2]: （日文）柴田宵曲：[妖異博物館. 続](https://dl.ndl.go.jp/info:ndljp/pid/9581005)．*国立国会図書館*．
+[^cite_note-3]: 出版于1963年故无ISBN号，该书日本全国书目号码（日本全国書誌番号）为63001698。作者为柴田宵曲。
+[^cite_note-4]: （日文）柴田宵曲：[妖異博物館](https://dl.ndl.go.jp/info:ndljp/pid/9580935)．*国立国会図書館*．
+[^cite_note-5]: 出版于1962年故无ISBN号，该书日本全国书目号码（日本全国書誌番号）为62009810。作者为田辺貞之助。
+[^cite_note-6]: （日文）田辺貞之助：[古川柳風俗事典](https://dl.ndl.go.jp/info:ndljp/pid/1346419)．*国立国会図書館*．
+[^cite_note-7]: 出版于1936年故无ISBN号，该书日本全国书目号码（日本全国書誌番号）为46058869。作者为波多腰節。
+[^cite_note-8]: （日文）波多腰節：[信州に於ける薬用植物：成分並に薬効](https://dl.ndl.go.jp/info:ndljp/pid/1047416)．*国立国会図書館*．
+[^cite_note-9]: 出版于1952年故无ISBN号，该书日本全国书目号码（日本全国書誌番号）为52004887。作者为杉浦非水、渡辺素舟。
+[^cite_note-10]: （日文）杉浦非水、渡辺素舟：[世界動物図案資料集成](https://iss.ndl.go.jp/books/R100000002-I000000887854-00)．*国立国会図書館サーチ*．
 
 ---
 

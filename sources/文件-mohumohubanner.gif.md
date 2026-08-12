@@ -1,18 +1,13 @@
 # 文件:mohumohubanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\13\ns6%3Amohumohubanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\13\ns6%3Amohumohubanner%2Egif.html -->
 
 mohumohu | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[direct image link](http://mohu.is-mine.net/banner.gif), [source page](http://mohu.is-mine.net/)
-  
-
-
-
-
+源地址：[direct image link](http://mohu.is-mine.net/banner.gif), [source page](http://mohu.is-mine.net/)  
 
 ---
 

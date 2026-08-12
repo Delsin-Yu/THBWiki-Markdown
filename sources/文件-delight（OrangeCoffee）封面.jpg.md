@@ -1,6 +1,6 @@
 # 文件:delight（OrangeCoffee）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5e\ns6%3Adelight%EF%BC%88OrangeCoffee%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5e\ns6%3Adelight%EF%BC%88OrangeCoffee%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 OrangeCoffee | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ OrangeCoffee | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [delight（OrangeCoffee）](./delight（OrangeCoffee）.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
-
-
-
+- [delight（OrangeCoffee）](./delight（OrangeCoffee）.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
 
 
 ---

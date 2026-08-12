@@ -1,14 +1,11 @@
 # 文件:幽香（怪绮谈立绘）B.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\10\ns6%3A%E5%B9%BD%E9%A6%99%EF%BC%88%E6%80%AA%E7%BB%AE%E8%B0%88%E7%AB%8B%E7%BB%98%EF%BC%89B%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\10\ns6%3A%E5%B9%BD%E9%A6%99%EF%BC%88%E6%80%AA%E7%BB%AE%E8%B0%88%E7%AB%8B%E7%BB%98%EF%BC%89B%2Epng.html -->
 
 ZUN绘 | 东方怪绮谈 | 官方游戏立绘 | 幽香
 
 
 ## 文件说明
-
-
-
 
 ---
 

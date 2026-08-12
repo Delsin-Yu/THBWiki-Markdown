@@ -1,6 +1,6 @@
 # 東方千夜帖~Thousand_Night_Anamnesis./敌机符卡/神灵庙关卡符卡
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\3\37\ns0%3A%E6%9D%B1%E6%96%B9%E5%8D%83%E5%A4%9C%E5%B8%96%7EThousand_Night_Anamnesis%2E%2F%E6%95%8C%E6%9C%BA%E7%AC%A6%E5%8D%A1%2F%E7%A5%9E%E7%81%B5%E5%BA%99%E5%85%B3%E5%8D%A1%E7%AC%A6%E5%8D%A1.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\3\37\ns0%3A%E6%9D%B1%E6%96%B9%E5%8D%83%E5%A4%9C%E5%B8%96%7EThousand_Night_Anamnesis%2E%2F%E6%95%8C%E6%9C%BA%E7%AC%A6%E5%8D%A1%2F%E7%A5%9E%E7%81%B5%E5%BA%99%E5%85%B3%E5%8D%A1%E7%AC%A6%E5%8D%A1.html -->
 
 サラダ
 
@@ -8,7 +8,6 @@
 ## 目录
 
 - [1 神灵庙](#神灵庙)
-
   - [1.1 西行寺幽幽子](#西行寺幽幽子)
   - [1.2 幽谷响子](#幽谷响子)
   - [1.3 宫古芳香](#宫古芳香)
@@ -16,10 +15,6 @@
   - [1.5 物部布都](#物部布都)
   - [1.6 二岩猯藏](#二岩猯藏)
   - [1.7 丰聪耳神子](#丰聪耳神子)
-
-
-
-
 
 
 
@@ -54,7 +49,6 @@
 </td></tr></tbody></table>
 
 
-
 ### 幽谷响子
 
 <table>
@@ -81,7 +75,6 @@
 <td>在墙壁之间不断发出声音。 把握好中间的位置。</td>
 <td>在墙壁之间不断发出声音。 还有额外的大玉。
 </td></tr></tbody></table>
-
 
 
 ### 宫古芳香
@@ -119,7 +112,6 @@
 </td></tr></tbody></table>
 
 
-
 ### 霍青娥
 
 <table>
@@ -153,7 +145,6 @@
 <td>符卡的名字是 "混沌傀儡"的中文译名。后面悠闲射击的芳香也许很轻松</td>
 <td>符卡的名字是 "混沌傀儡 "的中文译名。 我不知道这样读起来是否正确。
 </td></tr></tbody></table>
-
 
 
 ### 物部布都
@@ -198,7 +189,6 @@
 </td></tr></tbody></table>
 
 
-
 ### 二岩猯藏
 
 <table>
@@ -241,7 +231,6 @@
 </td></tr></tbody></table>
 
 
-
 ### 丰聪耳神子
 
 <table>
@@ -282,10 +271,6 @@
 <td>聚集所有愿望的大宇宙。呈指数式增长。</td>
 <td>聚集所有愿望的大宇宙 将欲望作为力量的恐怖符卡
 </td></tr></tbody></table>
-
-
-
-
 
 
 ---

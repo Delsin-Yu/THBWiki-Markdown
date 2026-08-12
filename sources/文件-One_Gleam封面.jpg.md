@@ -1,6 +1,6 @@
 # 文件:One_Gleam封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f1\ns6%3AOne_Gleam%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f1\ns6%3AOne_Gleam%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 denshūto | 专辑封面 | 封面图片
 
@@ -12,12 +12,7 @@ denshūto | 专辑封面 | 封面图片
 
   
 源地址: bandcamp下载附带
-源写真: [Franck Mahons「Blossom」- licensed under Creative Commons BY-SA 2.0](http://www.flickr.com/photos/skullyfm/3431274733)
-  
-
-
-
-
+源写真: [Franck Mahons「Blossom」- licensed under Creative Commons BY-SA 2.0](http://www.flickr.com/photos/skullyfm/3431274733)  
 
 ---
 

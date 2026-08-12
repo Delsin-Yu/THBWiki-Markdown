@@ -1,6 +1,6 @@
 # 文件:Bless_of_ALIEN封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\44\ns6%3ABless_of_ALIEN%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\44\ns6%3ABless_of_ALIEN%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 メンヘラテレビサイズ | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Bless of ALIEN](./Bless_of_ALIEN.md)  
-该封面包含的角色：- [封兽鵺](./封兽鵺.md)
+- [Bless of ALIEN](./Bless_of_ALIEN.md)该封面包含的角色：
+- [封兽鵺](./封兽鵺.md)
 
   
-源地址：[[1]](https://mentvsizec91.tumblr.com/)
-  
-
-
-
-
+源地址：[\[1\]](https://mentvsizec91.tumblr.com/)  
 
 ---
 

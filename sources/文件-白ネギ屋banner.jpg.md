@@ -1,12 +1,8 @@
 # 文件:白ネギ屋banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7f\ns6%3A%E7%99%BD%E3%83%8D%E3%82%AE%E5%B1%8Bbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7f\ns6%3A%E7%99%BD%E3%83%8D%E3%82%AE%E5%B1%8Bbanner%2Ejpg.html -->
 
 白ネギ屋 | 社团LOGO
-
-
-
-
 
 
 ---

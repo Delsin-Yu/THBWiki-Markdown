@@ -1,18 +1,13 @@
 # 文件:After_Rain_Dropslogo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\72\ns6%3AAfter_Rain_Dropslogo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\72\ns6%3AAfter_Rain_Dropslogo%2Epng.html -->
 
 After_Rain_Drops | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[[1]](https://static.wixstatic.com/media/cc70a4_ba5658d8de2e4199b3dc2d8243f74f78~mv2.png)
-  
-
-
-
-
+源地址：[\[1\]](https://static.wixstatic.com/media/cc70a4_ba5658d8de2e4199b3dc2d8243f74f78~mv2.png)  
 
 ---
 

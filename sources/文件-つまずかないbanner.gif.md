@@ -1,14 +1,11 @@
 # 文件:つまずかないbanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\aa\ns6%3A%E3%81%A4%E3%81%BE%E3%81%9A%E3%81%8B%E3%81%AA%E3%81%84banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\aa\ns6%3A%E3%81%A4%E3%81%BE%E3%81%9A%E3%81%8B%E3%81%AA%E3%81%84banner%2Egif.html -->
 
 つまずかない | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

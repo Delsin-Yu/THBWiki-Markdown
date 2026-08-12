@@ -1,6 +1,6 @@
 # 文件:OVER_END_WORLD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e1\ns6%3AOVER_END_WORLD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e1\ns6%3AOVER_END_WORLD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 overTuner | 专辑封面 | 封面图片
 
@@ -8,11 +8,10 @@ overTuner | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [OVER END WORLD](./OVER_END_WORLD.md)  
-该封面包含的角色：- [橙](./橙.md)- [八云蓝](./八云蓝.md)- [八云紫](./八云紫.md)
-
-
-
+- [OVER END WORLD](./OVER_END_WORLD.md)该封面包含的角色：
+- [橙](./橙.md)
+- [八云蓝](./八云蓝.md)
+- [八云紫](./八云紫.md)
 
 
 ---

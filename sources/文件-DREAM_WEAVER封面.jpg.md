@@ -1,6 +1,6 @@
 # 文件:DREAM_WEAVER封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\68\ns6%3ADREAM_WEAVER%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\68\ns6%3ADREAM_WEAVER%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 GP-KIDS | 同人志封面 | 封面图片
 
@@ -8,16 +8,11 @@ GP-KIDS | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [DREAM WEAVER](./DREAM_WEAVER.md)  
-该封面包含的角色：- [东风谷早苗](./东风谷早苗.md)
+- [DREAM WEAVER](./DREAM_WEAVER.md)该封面包含的角色：
+- [东风谷早苗](./东风谷早苗.md)
 
   
-源地址：[Pixiv Illust ID: 74530905](https://i.pximg.net/img-master/img/2019/05/03/12/30/08/74530905_p0_master1200.jpg)
-  
-
-
-
-
+源地址：[Pixiv Illust ID: 74530905](https://i.pximg.net/img-master/img/2019/05/03/12/30/08/74530905_p0_master1200.jpg)  
 
 ---
 

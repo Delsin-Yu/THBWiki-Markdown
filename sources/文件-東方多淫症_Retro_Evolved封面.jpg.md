@@ -1,6 +1,6 @@
 # 文件:東方多淫症_Retro_Evolved封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c9\ns6%3A%E6%9D%B1%E6%96%B9%E5%A4%9A%E6%B7%AB%E7%97%87_Retro_Evolved%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c9\ns6%3A%E6%9D%B1%E6%96%B9%E5%A4%9A%E6%B7%AB%E7%97%87_Retro_Evolved%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ミツメ書房 | 同人志封面 | 封面图片
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方多淫症 Retro Evolved](./東方多淫症_Retro_Evolved.md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)- [姬海棠果](./姬海棠果.md)
-
-
-
+- [東方多淫症 Retro Evolved](./東方多淫症_Retro_Evolved.md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
+- [姬海棠果](./姬海棠果.md)
 
 
 ---

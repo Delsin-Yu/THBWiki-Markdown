@@ -1,6 +1,6 @@
 # 文件:霊火神焔_～Eastern_Alternation～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d7\ns6%3A%E9%9C%8A%E7%81%AB%E7%A5%9E%E7%84%94_%EF%BD%9EEastern_Alternation%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d7\ns6%3A%E9%9C%8A%E7%81%AB%E7%A5%9E%E7%84%94_%EF%BD%9EEastern_Alternation%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Ash_Blind | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ Ash_Blind | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [霊火神焔 ～Eastern Alternation～](./霊火神焔_～Eastern_Alternation～.md)  
-该封面包含的角色：- [火焰猫燐](./火焰猫燐.md)- [灵乌路空](./灵乌路空.md)
-
-
-
+- [霊火神焔 ～Eastern Alternation～](./霊火神焔_～Eastern_Alternation～.md)该封面包含的角色：
+- [火焰猫燐](./火焰猫燐.md)
+- [灵乌路空](./灵乌路空.md)
 
 
 ---

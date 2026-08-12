@@ -1,16 +1,12 @@
 # 模板:7BC
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\4\45\ns10%3A7BC.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\4\45\ns10%3A7BC.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

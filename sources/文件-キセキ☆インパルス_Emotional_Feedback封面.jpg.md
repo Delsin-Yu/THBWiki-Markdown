@@ -1,6 +1,6 @@
 # 文件:キセキ☆インパルス_Emotional_Feedback封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\13\ns6%3A%E3%82%AD%E3%82%BB%E3%82%AD%E2%98%86%E3%82%A4%E3%83%B3%E3%83%91%E3%83%AB%E3%82%B9_Emotional_Feedback%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\13\ns6%3A%E3%82%AD%E3%82%BB%E3%82%AD%E2%98%86%E3%82%A4%E3%83%B3%E3%83%91%E3%83%AB%E3%82%B9_Emotional_Feedback%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ShibayanRecords | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ ShibayanRecords | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [キセキ☆インパルス Emotional Feedback](./キセキ☆インパルス_Emotional_Feedback.md)  
-该封面包含的角色：- [东风谷早苗](./东风谷早苗.md)
-
-
-
+- [キセキ☆インパルス Emotional Feedback](./キセキ☆インパルス_Emotional_Feedback.md)该封面包含的角色：
+- [东风谷早苗](./东风谷早苗.md)
 
 
 ---

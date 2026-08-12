@@ -1,6 +1,6 @@
 # 文件:幽劇舞台_～Ghostly_Play_Stage～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7c\ns6%3A%E5%B9%BD%E5%8A%87%E8%88%9E%E5%8F%B0_%EF%BD%9EGhostly_Play_Stage%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7c\ns6%3A%E5%B9%BD%E5%8A%87%E8%88%9E%E5%8F%B0_%EF%BD%9EGhostly_Play_Stage%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 餅の紫蘇巻き
 
@@ -10,16 +10,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [幽劇舞台 ～Ghostly Play Stage～](./幽劇舞台_～Ghostly_Play_Stage～.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
+- [幽劇舞台 ～Ghostly Play Stage～](./幽劇舞台_～Ghostly_Play_Stage～.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
 from TLMC scans (cropped and resized)
   
-
-
-
-
 
 ---
 

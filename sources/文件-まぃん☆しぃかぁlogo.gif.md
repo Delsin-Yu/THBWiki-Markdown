@@ -1,18 +1,13 @@
 # 文件:まぃん☆しぃかぁlogo.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cd\ns6%3A%E3%81%BE%E3%81%83%E3%82%93%E2%98%86%E3%81%97%E3%81%83%E3%81%8B%E3%81%81logo%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cd\ns6%3A%E3%81%BE%E3%81%83%E3%82%93%E2%98%86%E3%81%97%E3%81%83%E3%81%8B%E3%81%81logo%2Egif.html -->
 
 まぃん☆しぃかぁ | 社团LOGO
 
 
 ## 摘要
   
-源地址：[direct image link](http://mineseeker.net/ms/enter2.gif), [source page](http://mineseeker.net)
-  
-
-
-
-
+源地址：[direct image link](http://mineseeker.net/ms/enter2.gif), [source page](http://mineseeker.net)  
 
 ---
 

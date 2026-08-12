@@ -1,16 +1,11 @@
 # 文件:まゆげストリームbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\37\ns6%3A%E3%81%BE%E3%82%86%E3%81%92%E3%82%B9%E3%83%88%E3%83%AA%E3%83%BC%E3%83%A0banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\37\ns6%3A%E3%81%BE%E3%82%86%E3%81%92%E3%82%B9%E3%83%88%E3%83%AA%E3%83%BC%E3%83%A0banner%2Epng.html -->
 
 まゆげストリーム | 社团LOGO
 
   
-源地址：[[1]](https://static.wixstatic.com/media/50f052_e7f2c65bb9884d199ef28900afcec691.png/v1/fill/w_600,h_280,al_c,usm_0.66_1.00_0.01/50f052_e7f2c65bb9884d199ef28900afcec691.png)
-  
-
-
-
-
+源地址：[\[1\]](https://static.wixstatic.com/media/50f052_e7f2c65bb9884d199ef28900afcec691.png/v1/fill/w_600,h_280,al_c,usm_0.66_1.00_0.01/50f052_e7f2c65bb9884d199ef28900afcec691.png)  
 
 ---
 

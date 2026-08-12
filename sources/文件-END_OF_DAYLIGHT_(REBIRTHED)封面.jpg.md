@@ -1,6 +1,6 @@
 # 文件:END_OF_DAYLIGHT_(REBIRTHED)封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9d\ns6%3AEND_OF_DAYLIGHT_%28REBIRTHED%29%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9d\ns6%3AEND_OF_DAYLIGHT_%28REBIRTHED%29%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Alstroemeria_Records | 专辑封面 | 封面图片
 
@@ -10,14 +10,10 @@ Alstroemeria_Records | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [END OF DAYLIGHT (REBIRTHED)](./END_OF_DAYLIGHT_(REBIRTHED).md)
+- [END OF DAYLIGHT (REBIRTHED)](./END_OF_DAYLIGHT_(REBIRTHED%29.md)
 
 源地址
-: [[1]](https://alst.net/system/wp-content/uploads/2023/12/AREP0006_JACKET.jpg)
-
-
-
-
+: [\[1\]](https://alst.net/system/wp-content/uploads/2023/12/AREP0006_JACKET.jpg)
 
 ---
 

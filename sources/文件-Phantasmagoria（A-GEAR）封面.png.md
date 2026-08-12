@@ -1,6 +1,6 @@
 # 文件:Phantasmagoria（A-GEAR）封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ea\ns6%3APhantasmagoria%EF%BC%88A-GEAR%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ea\ns6%3APhantasmagoria%EF%BC%88A-GEAR%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 A-GEAR | 专辑封面 | 封面图片
 
@@ -8,11 +8,11 @@ A-GEAR | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Phantasmagoria（A-GEAR）](./Phantasmagoria（A-GEAR）.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)- [秋静叶](./秋静叶.md)- [娜兹玲](./娜兹玲.md)- [爱塔妮缇拉尔瓦](./爱塔妮缇拉尔瓦.md)
-
-
-
+- [Phantasmagoria（A-GEAR）](./Phantasmagoria（A-GEAR）.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
+- [秋静叶](./秋静叶.md)
+- [娜兹玲](./娜兹玲.md)
+- [爱塔妮缇拉尔瓦](./爱塔妮缇拉尔瓦.md)
 
 
 ---

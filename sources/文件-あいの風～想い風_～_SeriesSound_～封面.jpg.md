@@ -1,6 +1,6 @@
 # 文件:あいの風～想い風_～_SeriesSound_～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ee\ns6%3A%E3%81%82%E3%81%84%E3%81%AE%E9%A2%A8%EF%BD%9E%E6%83%B3%E3%81%84%E9%A2%A8_%EF%BD%9E_SeriesSound_%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ee\ns6%3A%E3%81%82%E3%81%84%E3%81%AE%E9%A2%A8%EF%BD%9E%E6%83%B3%E3%81%84%E9%A2%A8_%EF%BD%9E_SeriesSound_%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 アールグレイ | 专辑封面 | 封面图片
 
@@ -8,11 +8,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [あいの風～想い風 ～ SeriesSound ～](./あいの風～想い風_～_SeriesSound_～.md)  
-该封面包含的角色：- [东风谷早苗](./东风谷早苗.md)- [八坂神奈子](./八坂神奈子.md)- [洩矢诹访子](./洩矢诹访子.md)
-
-
-
+- [あいの風～想い風 ～ SeriesSound ～](./あいの風～想い風_～_SeriesSound_～.md)该封面包含的角色：
+- [东风谷早苗](./东风谷早苗.md)
+- [八坂神奈子](./八坂神奈子.md)
+- [洩矢诹访子](./洩矢诹访子.md)
 
 
 ---

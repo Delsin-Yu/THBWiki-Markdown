@@ -1,6 +1,6 @@
 # 文件:Mega_Dokyo_Drive封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\72\ns6%3AMega_Dokyo_Drive%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\72\ns6%3AMega_Dokyo_Drive%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 TryΔangeles | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ TryΔangeles | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Mega Dokyo Drive](./Mega_Dokyo_Drive.md)  
-该封面包含的角色：- [丰聪耳神子](./丰聪耳神子.md)
-
-
-
+- [Mega Dokyo Drive](./Mega_Dokyo_Drive.md)该封面包含的角色：
+- [丰聪耳神子](./丰聪耳神子.md)
 
 
 ---

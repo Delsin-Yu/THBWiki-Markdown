@@ -1,16 +1,15 @@
 # MUGEN/东方马甲分类列表
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\26\ns0%3AMUGEN%2F%E4%B8%9C%E6%96%B9%E9%A9%AC%E7%94%B2%E5%88%86%E7%B1%BB%E5%88%97%E8%A1%A8.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\26\ns0%3AMUGEN%2F%E4%B8%9C%E6%96%B9%E9%A9%AC%E7%94%B2%E5%88%86%E7%B1%BB%E5%88%97%E8%A1%A8.html -->
 
 MUGEN | 列表 | 需要完善的词条
 
-本页是 **列表词条** 
-
+本页是**列表词条**
 <table>
 <tbody><tr>
 <td class="mbox-image width"><div style="width: 52px;">
-  <a href="/%E6%96%87%E4%BB%B6:Books_Flat_Icon_Vector.svg" class="image"><img alt="Books Flat Icon Vector.svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Books_Flat_Icon_Vector.svg/langzh-60px-Books_Flat_Icon_Vector.svg.png" decoding="async" loading="lazy" width="60" height="50" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Books_Flat_Icon_Vector.svg/langzh-90px-Books_Flat_Icon_Vector.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Books_Flat_Icon_Vector.svg/langzh-120px-Books_Flat_Icon_Vector.svg.png 2x" data-file-width="691" data-file-height="577"></a></div></td>
-<td class="mbox-text" style=""><big>本词条的内容需要进行补充。</big><br><b>本页面需要对于 东方Project相关Mugen角色 方面的内容进行补充</b>。<br>如果您对于相关内容较为了解，请您<a href="/index.php?title=MUGEN/%E4%B8%9C%E6%96%B9%E9%A9%AC%E7%94%B2%E5%88%86%E7%B1%BB%E5%88%97%E8%A1%A8&amp;action=edit">补充本词条的内容</a></td>
+  <a class="image"><img alt="Books Flat Icon Vector.svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Books_Flat_Icon_Vector.svg/langzh-60px-Books_Flat_Icon_Vector.svg.png" decoding="async" loading="lazy" width="60" height="50" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Books_Flat_Icon_Vector.svg/langzh-90px-Books_Flat_Icon_Vector.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Books_Flat_Icon_Vector.svg/langzh-120px-Books_Flat_Icon_Vector.svg.png 2x" data-file-width="691" data-file-height="577"></a></div></td>
+<td class="mbox-text" style=""><big>本词条的内容需要进行补充。</big><br><b>本页面需要对于 东方Project相关Mugen角色 方面的内容进行补充</b>。<br>如果您对于相关内容较为了解，请您<a>补充本词条的内容</a></td>
 </tr>
 </tbody></table>
 
@@ -22,35 +21,19 @@ MUGEN | 列表 | 需要完善的词条
 - 请使用Ctrl+F进行页内查找。
 - 目前总结的马甲与Mugen中实际存在的数量相比仍相差甚远，希望有志之士可以加以补充。
 
-  
-  
-
-  
 
 - 所标识的为原作还原向或接近原作风格的人物马甲。
 - 所标识的为魔改人物马甲。
-
-  
-  
-
-  
-  
-  
-
-  
 
 
 ## 目录
 
 - [1 主人公](#主人公)
-
   - [1.1 博丽灵梦（含旧作）](#博丽灵梦（含旧作）)
   - [1.2 雾雨魔理沙（含旧作）](#雾雨魔理沙（含旧作）)
 
 
-
 - [2 东方灵异传](#东方灵异传)
-
   - [2.1 神玉](#神玉)
   - [2.2 幽幻魔眼](#幽幻魔眼)
   - [2.3 依莉斯](#依莉斯)
@@ -60,9 +43,7 @@ MUGEN | 列表 | 需要完善的词条
   - [2.7 矜羯罗](#矜羯罗)
 
 
-
 - [3 东方封魔录](#东方封魔录)
-
   - [3.1 里香](#里香)
   - [3.2 明罗](#明罗)
   - [3.3 邪眼西格玛](#邪眼西格玛)
@@ -71,9 +52,7 @@ MUGEN | 列表 | 需要完善的词条
   - [3.6 魔天使](#魔天使)
 
 
-
 - [4 东方梦时空](#东方梦时空)
-
   - [4.1 爱莲](#爱莲)
   - [4.2 小兔姬](#小兔姬)
   - [4.3 卡娜·安娜贝拉尔](#卡娜·安娜贝拉尔)
@@ -82,9 +61,7 @@ MUGEN | 列表 | 需要完善的词条
   - [4.6 冈崎梦美](#冈崎梦美)
 
 
-
 - [5 东方幻想乡](#东方幻想乡)
-
   - [5.1 奥莲姬](#奥莲姬)
   - [5.2 胡桃](#胡桃)
   - [5.3 艾丽](#艾丽)
@@ -93,9 +70,7 @@ MUGEN | 列表 | 需要完善的词条
   - [5.6 幻月](#幻月)
 
 
-
 - [6 东方怪绮谈](#东方怪绮谈)
-
   - [6.1 萨拉](#萨拉)
   - [6.2 露易兹](#露易兹)
   - [6.3 爱丽丝（旧作）](#爱丽丝（旧作）)
@@ -105,9 +80,7 @@ MUGEN | 列表 | 需要完善的词条
   - [6.7 神绮](#神绮)
 
 
-
 - [7 东方红魔乡](#东方红魔乡)
-
   - [7.1 露米娅](#露米娅)
   - [7.2 大妖精](#大妖精)
   - [7.3 琪露诺](#琪露诺)
@@ -119,9 +92,7 @@ MUGEN | 列表 | 需要完善的词条
   - [7.9 芙兰朵露·斯卡蕾特](#芙兰朵露·斯卡蕾特)
 
 
-
 - [8 东方妖妖梦](#东方妖妖梦)
-
   - [8.1 琪露诺](#琪露诺_2)
   - [8.2 蕾蒂·霍瓦特洛克](#蕾蒂·霍瓦特洛克)
   - [8.3 橙](#橙)
@@ -136,9 +107,7 @@ MUGEN | 列表 | 需要完善的词条
   - [8.12 八云紫](#八云紫)
 
 
-
 - [9 东方永夜抄](#东方永夜抄)
-
   - [9.1 莉格露·奈特巴格](#莉格露·奈特巴格)
   - [9.2 米斯蒂娅·萝蕾拉](#米斯蒂娅·萝蕾拉)
   - [9.3 上白泽慧音](#上白泽慧音)
@@ -149,9 +118,7 @@ MUGEN | 列表 | 需要完善的词条
   - [9.8 藤原妹红](#藤原妹红)
 
 
-
 - [10 东方花映冢](#东方花映冢)
-
   - [10.1 梅蒂欣·梅兰可莉](#梅蒂欣·梅兰可莉)
   - [10.2 射命丸文](#射命丸文)
   - [10.3 风见幽香](#风见幽香)
@@ -160,9 +127,7 @@ MUGEN | 列表 | 需要完善的词条
   - [10.6 黑莉莉（莉莉黑）](#黑莉莉（莉莉黑）)
 
 
-
 - [11 东方风神录](#东方风神录)
-
   - [11.1 秋静叶](#秋静叶)
   - [11.2 秋穰子](#秋穰子)
   - [11.3 键山雏](#键山雏)
@@ -173,9 +138,7 @@ MUGEN | 列表 | 需要完善的词条
   - [11.8 洩矢诹访子](#洩矢诹访子)
 
 
-
 - [12 东方地灵殿](#东方地灵殿)
-
   - [12.1 琪斯美](#琪斯美)
   - [12.2 黑谷山女](#黑谷山女)
   - [12.3 水桥帕露西](#水桥帕露西)
@@ -186,22 +149,18 @@ MUGEN | 列表 | 需要完善的词条
   - [12.8 古明地恋](#古明地恋)
 
 
-
 - [13 东方星莲船](#东方星莲船)
-
   - [13.1 娜兹玲](#娜兹玲)
   - [13.2 多多良小伞](#多多良小伞)
   - [13.3 云居一轮](#云居一轮)
-  - [13.4 云居一轮 &amp; 云山](#云居一轮_&amp;_云山)
+  - [13.4 云居一轮 & 云山](#云居一轮_&_云山)
   - [13.5 村纱水蜜](#村纱水蜜)
   - [13.6 寅丸星](#寅丸星)
   - [13.7 圣白莲](#圣白莲)
   - [13.8 封兽鵺](#封兽鵺)
 
 
-
 - [14 东方神灵庙](#东方神灵庙)
-
   - [14.1 中幽灵](#中幽灵)
   - [14.2 幽谷响子](#幽谷响子)
   - [14.3 宫古芳香](#宫古芳香)
@@ -212,9 +171,7 @@ MUGEN | 列表 | 需要完善的词条
   - [14.8 二岩猯藏](#二岩猯藏)
 
 
-
 - [15 东方辉针城](#东方辉针城)
-
   - [15.1 若鹭姬](#若鹭姬)
   - [15.2 赤蛮奇](#赤蛮奇)
   - [15.3 今泉影狼](#今泉影狼)
@@ -225,9 +182,7 @@ MUGEN | 列表 | 需要完善的词条
   - [15.8 堀川雷鼓](#堀川雷鼓)
 
 
-
 - [16 东方绀珠传](#东方绀珠传)
-
   - [16.1 清兰](#清兰)
   - [16.2 铃瑚](#铃瑚)
   - [16.3 哆来咪·苏伊特](#哆来咪·苏伊特)
@@ -237,9 +192,7 @@ MUGEN | 列表 | 需要完善的词条
   - [16.7 赫卡提亚·拉碧斯拉祖利](#赫卡提亚·拉碧斯拉祖利)
 
 
-
 - [17 东方天空璋](#东方天空璋)
-
   - [17.1 爱塔妮缇拉尔瓦](#爱塔妮缇拉尔瓦)
   - [17.2 坂田合欢](#坂田合欢)
   - [17.3 高丽野阿吽](#高丽野阿吽)
@@ -249,9 +202,7 @@ MUGEN | 列表 | 需要完善的词条
   - [17.7 摩多罗隐岐奈](#摩多罗隐岐奈)
 
 
-
 - [18 东方鬼形兽](#东方鬼形兽)
-
   - [18.1 戎璎花](#戎璎花)
   - [18.2 牛崎润美](#牛崎润美)
   - [18.3 庭渡久侘歌](#庭渡久侘歌)
@@ -261,9 +212,7 @@ MUGEN | 列表 | 需要完善的词条
   - [18.7 骊驹早鬼](#骊驹早鬼)
 
 
-
 - [19 东方虹龙洞](#东方虹龙洞)
-
   - [19.1 豪德寺三花](#豪德寺三花)
   - [19.2 山城高岭](#山城高岭)
   - [19.3 驹草山如](#驹草山如)
@@ -273,122 +222,86 @@ MUGEN | 列表 | 需要完善的词条
   - [19.7 姬虫百百世](#姬虫百百世)
 
 
-
 - [20 东方文花帖DS](#东方文花帖DS)
-
   - [20.1 姬海棠果（姬海棠羽立）](#姬海棠果（姬海棠羽立）)
 
 
-
 - [21 东方刚欲异闻](#东方刚欲异闻)
-
   - [21.1 饕餮尤魔](#饕餮尤魔)
 
 
-
 - [22 妖精大战争](#妖精大战争)
-
   - [22.1 露娜切露德](#露娜切露德)
   - [22.2 斯塔萨菲雅](#斯塔萨菲雅)
   - [22.3 桑尼米尔克](#桑尼米尔克)
 
 
-
 - [23 秘封噩梦日记](#秘封噩梦日记)
-
   - [23.1 宇佐见堇子](#宇佐见堇子)
 
 
-
 - [24 东方萃梦想](#东方萃梦想)
-
   - [24.1 伊吹萃香](#伊吹萃香)
 
 
-
 - [25 东方绯想天](#东方绯想天)
-
   - [25.1 永江衣玖](#永江衣玖)
   - [25.2 比那名居天子](#比那名居天子)
 
 
-
 - [26 东方非想天则](#东方非想天则)
-
   - [26.1 大鲶鱼](#大鲶鱼)
   - [26.2 非想天则](#非想天则)
 
 
-
 - [27 东方心绮楼](#东方心绮楼)
-
   - [27.1 秦心](#秦心)
 
 
-
 - [28 东方凭依华](#东方凭依华)
-
   - [28.1 依神女苑](#依神女苑)
   - [28.2 依神紫苑](#依神紫苑)
 
 
-
 - [29 东方香霖堂](#东方香霖堂)
-
   - [29.1 森近霖之助](#森近霖之助)
   - [29.2 朱鹭子](#朱鹭子)
 
 
-
 - [30 东方儚月抄](#东方儚月抄)
-
   - [30.1 绵月丰姬](#绵月丰姬)
   - [30.2 绵月依姬](#绵月依姬)
   - [30.3 铃仙二号](#铃仙二号)
   - [30.4 月兔](#月兔)
 
 
-
 - [31 东方求闻史纪](#东方求闻史纪)
-
   - [31.1 稗田阿求](#稗田阿求)
 
 
-
 - [32 东方茨歌仙](#东方茨歌仙)
-
   - [32.1 茨木华扇](#茨木华扇)
 
 
-
 - [33 东方铃奈庵](#东方铃奈庵)
-
   - [33.1 本居小铃](#本居小铃)
   - [33.2 易者](#易者)
 
 
-
 - [34 东方醉蝶华](#东方醉蝶华)
-
   - [34.1 奥野田美宵](#奥野田美宵)
 
 
-
 - [35 秘封俱乐部](#秘封俱乐部)
-
   - [35.1 宇佐见莲子](#宇佐见莲子)
   - [35.2 玛艾露贝莉·赫恩](#玛艾露贝莉·赫恩)
 
 
-
 - [36 西方秋霜玉](#西方秋霜玉)
-
   - [36.1 VIVIT](#VIVIT)
 
 
-
 - [37 其他](#其他)
-
   - [37.1 冴月麟](#冴月麟)
   - [37.2 天魔](#天魔)
   - [37.3 先代巫女](#先代巫女)
@@ -404,29 +317,19 @@ MUGEN | 列表 | 需要完善的词条
   - [37.13 杂项](#杂项)
 
 
-
 - [38 补记](#补记)
-
   - [38.1 AI](#AI)
   - [38.2 语音补丁](#语音补丁)
   - [38.3 图像补丁](#图像补丁)
 
 
-
 - [39 外部链接](#外部链接)
 
 
-
-
-
 ## 主人公
-  
-  
-
-  
-
 
 ### 博丽灵梦（含旧作）
+
 - Nachel氏 萃梦想风灵梦
 - クロガネ氏 萃梦想风灵梦
 - 撫子氏 萃梦想风灵梦
@@ -492,15 +395,11 @@ MUGEN | 列表 | 需要完善的词条
 - 江戸川インポ氏 博丽灵梦
 - ロック魔理沙の人氏、クマ屋氏 北斗风灵梦
 - 翡翠の夫氏 二头身灵梦
-- 攻受组（鬼灵梦&amp;小蛇天尊） 鬼白灵梦
-
-  
-  
-
-  
+- 攻受组（鬼灵梦&小蛇天尊） 鬼白灵梦
 
 
 ### 雾雨魔理沙（含旧作）
+
 - とま氏 萃梦想风魔理沙
 - gu氏 萃梦想风魔理沙
 - 水影氏 绯想天・非想天则风魔理沙
@@ -515,7 +414,7 @@ MUGEN | 列表 | 需要完善的词条
 - G-sho氏 暴走魔理沙
 - 夏恵氏 霧雨星凪
 - 霧雨翔氏 魔術劇
-- Deoxgigas氏　流星の魔理沙
+- Deoxgigas氏 流星の魔理沙
 - piyo氏 GW魔理沙
 - 軟骨カレー氏 S魔理沙
 - sudara13氏 非道魔女
@@ -559,319 +458,140 @@ MUGEN | 列表 | 需要完善的词条
 - ○○の夫氏 シューティング魔理沙
 - ダイヤ氏 八头身魔理沙
 
-  
-  
-
-  
-
 
 ## 东方灵异传
-  
-  
-
-  
-
 
 ### 神玉
-  
-  
-
-  
-
 
 ### 幽幻魔眼
+
 - クロガネ氏 YuugenMagan
-
-  
-  
-
-  
 
 
 ### 依莉斯
-  
-  
-
-  
-
 
 ### 萨丽爱尔
-  
-  
-
-  
-
 
 ### 魅魔
+
 - barai氏＆harudi氏 手绘魅魔
 - RicePigeon氏 barai氏＆harudi氏魅魔改变体
 - Felicity氏 魅魔アーンスランド
 - soruzin氏 『東方夢時空』仕様
 
-  
-  
-
-  
-
 
 ### 菊理
+
 - 淡光氏 菊理（Kikuri）
-
-  
-  
-
-  
 
 
 ### 矜羯罗
+
 - 薙氏 コンガラ・アナザースタイル
 - スナクジラ氏 kongara
 
-  
-  
-
-  
-
 
 ## 东方封魔录
-  
-  
-
-  
-
 
 ### 里香
-  
-  
-
-  
-
 
 ### 明罗
+
 - わりばし氏 手绘明罗
-
-  
-  
-
-  
 
 
 ### 邪眼西格玛
-  
-  
-
-  
-
 
 ### 炮台
-  
-  
-
-  
-
 
 ### Flower～战车
-  
-  
-
-  
-
 
 ### 魔天使
-  
-  
-
-  
-
 
 ## 东方梦时空
-  
-  
-
-  
-
 
 ### 爱莲
-  
-  
-
-  
-
 
 ### 小兔姬
-  
-  
-
-  
-
 
 ### 卡娜·安娜贝拉尔
+
 - 影缝氏制作 梦消失（kana_dream）
-
-  
-  
-
-  
 
 
 ### 朝仓理香子
-  
-  
-
-  
-
 
 ### 北白河千百合
-  
-  
-
-  
-
 
 ### 冈崎梦美
+
 - .DAT氏 手绘夢美
-
-  
-  
-
-  
 
 
 ## 东方幻想乡
-  
-  
-
-  
-
 
 ### 奥莲姬
-  
-  
-
-  
-
 
 ### 胡桃
+
 - 見越入道氏 七头身胡桃
-
-  
-  
-
-  
 
 
 ### 艾丽
+
 - わりばし氏 高头身艾丽
-
-  
-  
-
-  
 
 
 ### 幽香（旧作）
+
 - 未知作者制作 幽香
-
-  
-  
-
-  
 
 
 ### 梦月
+
 - 淡光氏 梦月（十六夜咲夜改变）
 - シロト氏 萃梦想风梦月
 
-  
-  
-
-  
-
 
 ### 幻月
+
 - プレート氏 幻月
 - 高カラーでは氏 本气幻月
 
-  
-  
-
-  
-
 
 ## 东方怪绮谈
-  
-  
-
-  
-
 
 ### 萨拉
-  
-  
-
-  
-
 
 ### 露易兹
-  
-  
-
-  
-
 
 ### 爱丽丝（旧作）
-  
-  
-
-  
-
 
 ### 雪
+
 - 淡光氏 雪（天子改变体）
 - にはシロト氏 真紅の少女ユキ
 
-  
-  
-
-  
-
 
 ### 舞
-  
-  
-
-  
-
 
 ### 梦子
+
 - 烏丸スバル氏 手绘梦子
 - りゅん氏 烏丸スバル氏改变体アレンジ夢子
 - 道堂氏 黄昏绘梦子
 
-  
-  
-
-  
-
 
 ### 神绮
+
 - クロガネ氏 混合系统神绮
 - Netamidoku氏 魔聖母:神綺_2nd
 
-  
-  
-
-  
-
 
 ## 东方红魔乡
-  
-  
-
-  
-
 
 ### 露米娅
+
 - ネンミン氏 萃梦想风露米娅
 - リアス式海岸氏 そーなのかー（是——这样吗——）
 - 影縫氏 ダークネスルーミア
@@ -879,13 +599,9 @@ MUGEN | 列表 | 需要完善的词条
 - 混沌の理氏 Chaotic_reasons
 - Owatanks氏制作 艾玛媞卡(Aimatika)
 
-  
-  
-
-  
-
 
 ### 大妖精
+
 - DDD氏 尖兵の真似をした大妖精
 - BK氏 ジェネラル改変
 - oiu氏 DIEちゃん
@@ -903,17 +619,13 @@ MUGEN | 列表 | 需要完善的词条
 - jue氏 Guardian_Daiyousei（守护者大妖精）
 - 衛秋雨想夢氏 Daiyousei-I（OverDrive）（不死の女神 大妖精）
 - Hadicire、ゴンドワナ氏 Dragon Fairy
-- Ultima氏 &lt;&lt;&gt;zAA&lt;&gt; AA&amp;AA&lt;&gt;I27
+- Ultima氏 <<>zAA<> AA&AA<>I27
 - TEXT氏 彼岸花
 - Ultima氏 世界的记忆
 
-  
-  
-
-  
-
 
 ### 琪露诺
+
 - ネンミン氏 二头身琪露诺
 - プレート氏 ジョブチェンジチルノ（J琪露诺、佣兵⑨，克劳⑨前身）
 - プレート氏 克劳⑨(adocir,Acirno)
@@ -932,7 +644,7 @@ MUGEN | 列表 | 需要完善的词条
 - 加楽薬味氏 最強チルノ（最强琪露诺）
 - Moiky氏 サイキョー流チルノ(不破流琪露诺、师范⑨)
 - Moiky氏 チルノ・ブランドー（琪露诺·芙兰朵露）
-- Moiky氏  すごいチルノ（斯国一琪露诺）
+- Moiky氏 すごいチルノ（斯国一琪露诺）
 - Moiky氏 極限流チルノ（极限流琪露诺）
 - Bask氏 豪鬼の弟子チルノ（豪鬼弟子琪露诺）
 - 橙華とっつぁん氏 待チルノ
@@ -951,7 +663,7 @@ MUGEN | 列表 | 需要完善的词条
 - negacross氏(negacross) func1-chirno(func1_chirno_x01)
 - negacross氏(negacross) 皇帝琪露诺Returns(Emperor_Chirno Returns)（还有个普通版的，不带returns）
 - Some Person氏 Gensoutale Cirno
-- マイナー氏(Minor716) 轮盘琪露诺(MulChirno/&lt;#1|21V())
+- マイナー氏(Minor716) 轮盘琪露诺(MulChirno/<#1|21V())
 - 609z氏(Six Cycle Nine 2) 琪露诺(I_Checker)
 - midori_margatroid氏 MvC琪露诺(MvC_Cirno)
 - 17th_star氏 天才琪露诺(17_Chirno_KY)
@@ -966,7 +678,7 @@ MUGEN | 列表 | 需要完善的词条
 - 五月雨魔理沙氏 白琪露诺(White Chirno)
 - MatsudaSpecial氏 琪露诺的算术教室(Chirno-arithmetic)
 - 絶対❖概念Ж氏 琪露诺LV999（时の妖精）(Chrono)
-- K通りすがる名無し氏 	走るチルノ (HA-Cirno)
+- K通りすがる名無し氏 走るチルノ (HA-Cirno)
 - nyorochi氏 究极⑨(Extreme_Chirno)
 - Owata氏 反转の⑨(Reverse Chirno)
 - みかえる氏 波塞冬(Poseidon)
@@ -978,15 +690,11 @@ MUGEN | 列表 | 需要完善的词条
 - Anime2013Freak氏 杀手琪露诺(Killer Baka The Most Dangerous In Gensokyo)
 - 氷晶無月氏 幻精⑨（Quelestaly）
 
-  
-  
-
-  
-
 
 ### 红美铃
+
 - 蒼月氏 萃梦想风红美铃（加了几个原创技能，但大体为还原向）
-- ダイヤ氏　アレンジ
+- ダイヤ氏 アレンジ
 - 水影氏 绯想天风红美铃
 - ふるれ氏 非想天则风红美铃
 - Kohaku氏 Meiling_K
@@ -998,24 +706,24 @@ MUGEN | 列表 | 需要完善的词条
 - tuki氏 格ゲーアレンジ
 - みかえる氏 Meiling MA
 - Zero-Sennin氏 アレンジ仕様
-- ダイヤ氏  烈美鈴
-- 41氏  中国
+- ダイヤ氏 烈美鈴
+- 41氏 中国
 - 鳩スレ産 カンフー美鈴
-- 457氏（Passer-by氏）  龍美鈴
-- Felicity氏  紅美龍
-- 萃香の夫氏  有間美鈴
-- hekira氏  空条美鈴
-- ブラボー氏  空条美倫
-- ヘタレ氏  東方不敗・マスターチャイナ（大师美铃）
-- Ts氏  ジャギメイリン
-- ABAB氏  紅クリザリッド（古力查力度美铃）
-- GAB氏  チャボ美鈴
-- RicePigeon氏  烈美鈴
-- まじっく氏  ThurisaZ
-- tmtm氏作  美鈴紗夢
-- Passer-by氏  ドラゴン美鈴（《世界英雄》龙美铃）
-- 屠神氏  黒龍
-- Deoxgigas氏  Rainbow Meiling
+- 457氏（Passer-by氏） 龍美鈴
+- Felicity氏 紅美龍
+- 萃香の夫氏 有間美鈴
+- hekira氏 空条美鈴
+- ブラボー氏 空条美倫
+- ヘタレ氏 東方不敗・マスターチャイナ（大师美铃）
+- Ts氏 ジャギメイリン
+- ABAB氏 紅クリザリッド（古力查力度美铃）
+- GAB氏 チャボ美鈴
+- RicePigeon氏 烈美鈴
+- まじっく氏 ThurisaZ
+- tmtm氏作 美鈴紗夢
+- Passer-by氏 ドラゴン美鈴（《世界英雄》龙美铃）
+- 屠神氏 黒龍
+- Deoxgigas氏 Rainbow Meiling
 - ギース氏 Legend Chu-goku 3.0[G]（伝説中国）
 - Lates氏 黑 魅霊（黑魅灵）
 - FLAM氏 Hei_F（黑魅灵改变体，现杯赛常见马甲）
@@ -1044,13 +752,9 @@ MUGEN | 列表 | 需要完善的词条
 - 箱猫氏 猫美铃
 - マリオ氏 SFC美铃
 
-  
-  
-
-  
-
 
 ### 小恶魔
+
 - そむE（So/M）氏 绯想天风小恶魔
 - そむE（So/M）氏 非想天则风小恶魔
 - 七纸零氏 STG小恶魔
@@ -1078,7 +782,7 @@ MUGEN | 列表 | 需要完善的词条
 - レッドスカート氏 メルトこぁR
 - 17th_star氏 Rockuma
 - seilai氏 タナトス（塔纳托斯）
-- 夢魔氏製作　名無しの魔王さま
+- 夢魔氏製作 名無しの魔王さま
 - Volcrz氏 ルルイエ異本（拉莱耶文本）
 - kinomiya氏 ジャックポット・デビル（小牌恶魔）
 - KM氏 普通こぁ
@@ -1090,49 +794,41 @@ MUGEN | 列表 | 需要完善的词条
 - Uサラ氏 i（imaginary number）
 - g-r氏 闇のこアクシオン
 
-  
-  
-
-  
-
 
 ### 帕秋莉·诺蕾姬
-- とま氏  萃梦想风帕秋莉
-- クロガネ氏  萃梦想风帕秋莉
-- gu氏  绯想天风帕秋莉
-- gu氏  萃梦想风帕秋莉
-- gu氏  アレンジ仕様
-- 祇園城奏貴氏  アレンジ仕様
-- seravy氏  アレンジ仕様
-- 紙豆腐氏  メルブラ仕様
-- 夫氏  メタルパチュリー
-- ひろゆき（笑）氏  おかしなパチュリー
-- Lates氏  ウロボロス（皇家石油）
-- M2pa氏  紫知陽パチュリー
-- ZuBeN氏  IBIS印のパッチェさん
-- TM氏  Cryptic White Knowledge
-- 熄癈人氏  C_Patchouli
-- 駄犬氏  旧支配者パチュリー
-- 紅毛玉氏  Lord of library（图书馆领主）
-- soruzin氏  ミリッツァパチュリー（M_Patchouli）
-- macbeth氏  帕秋莉•维特利（パチュリー・ウェイトリー/Patchouli Whateley）
-- Daniel9999999氏  Patoelietoe
-- IF氏  MegaMari仕様
-- 雅氏  パピヨナージュ・マチョリー
-- 吠×2氏  D0パチュリー・ノーレッジ
-- すくえもん氏  ぱっちぇうさぎ
+
+- とま氏 萃梦想风帕秋莉
+- クロガネ氏 萃梦想风帕秋莉
+- gu氏 绯想天风帕秋莉
+- gu氏 萃梦想风帕秋莉
+- gu氏 アレンジ仕様
+- 祇園城奏貴氏 アレンジ仕様
+- seravy氏 アレンジ仕様
+- 紙豆腐氏 メルブラ仕様
+- 夫氏 メタルパチュリー
+- ひろゆき（笑）氏 おかしなパチュリー
+- Lates氏 ウロボロス（皇家石油）
+- M2pa氏 紫知陽パチュリー
+- ZuBeN氏 IBIS印のパッチェさん
+- TM氏 Cryptic White Knowledge
+- 熄癈人氏 C_Patchouli
+- 駄犬氏 旧支配者パチュリー
+- 紅毛玉氏 Lord of library（图书馆领主）
+- soruzin氏 ミリッツァパチュリー（M_Patchouli）
+- macbeth氏 帕秋莉•维特利（パチュリー・ウェイトリー/Patchouli Whateley）
+- Daniel9999999氏 Patoelietoe
+- IF氏 MegaMari仕様
+- 雅氏 パピヨナージュ・マチョリー
+- 吠×2氏 D0パチュリー・ノーレッジ
+- すくえもん氏 ぱっちぇうさぎ
 - 黑阳氏 黑暗圣女(Holy_Magic-Magus)
-- 駄犬氏  旧支配者パチュリー
-- 破坏娘氏(VoIcrz_R) 	禁忌的知识(Forbidden Knowledge/禁断の知识)
+- 駄犬氏 旧支配者パチュリー
+- 破坏娘氏(VoIcrz_R) 禁忌的知识(Forbidden Knowledge/禁断の知识)
 - 翡翠の夫氏 金属帕秋莉(metal_Patchouli)
-
-  
-  
-
-  
 
 
 ### 十六夜咲夜
+
 - 蒼月(Aotsuki)氏制作 萃梦想风格十六夜咲夜
 - gu氏制作 绯想天风格十六夜咲夜
 - gu氏制作 萃梦想风格十六夜咲夜
@@ -1184,15 +880,11 @@ MUGEN | 列表 | 需要完善的词条
 - ギース(geese)氏制作 STG风格犬咲夜(STGinu398)
 - 謎の口栗妖精氏制作 生气的犬咲夜(Annoying InuSakuya)
 - 觉氏(jue)制作 逆流者咲夜(time_sakuya/Reverse_time_sakuya/Time_counter)
-- みかえる氏(MichaelArmaros)&amp;ALSIEL氏制作 福尔图娜(Fortuna)
-
-  
-  
-
-  
+- みかえる氏(MichaelArmaros)&ALSIEL氏制作 福尔图娜(Fortuna)
 
 
 ### 蕾米莉亚·斯卡蕾特
+
 - Nachel氏制作 萃梦想风格蕾米莉亚
 - 栗氏(kuri)制作 萃梦想风格风格蕾米莉亚
 - 水影(Mikage)氏制作 绯想天风格蕾米莉亚
@@ -1225,11 +917,11 @@ MUGEN | 列表 | 需要完善的词条
 - 红裙氏(Reddosukato)制作 伊丽莎白 蕾米莉亚(Elizabeth_Remilia)
 - Lates氏+aitya氏制作 圣蕾米R(Megalith-R/Megalith-RexTremendae)
 - SAMSARA氏制作 Iblis
-- 将棋好き氏(syougizuki)制作 	阿尔玛 斯卡雷特(Alma Scarlet)
+- 将棋好き氏(syougizuki)制作 阿尔玛 斯卡雷特(Alma Scarlet)
 - 天魔氏(shadow)制作 夜红蕾米(Night_Red_Remilia)
 - Owatanks氏制作 奈亚提亚(Nayatria)
 - huihui氏制作 ジェネリア(gemilia)
-- みかえる氏(MichaelArmaros)　蕾米莉亚MA(Remilia_MA)
+- みかえる氏(MichaelArmaros) 蕾米莉亚MA(Remilia_MA)
 - Remi氏制作 2nd R.S.P
 - Remi氏制作 R.S.P/1st R.S.P
 - 猫月(nekotuki)氏制作 べヘアシャー(Beherrscher)
@@ -1252,7 +944,7 @@ MUGEN | 列表 | 需要完善的词条
 - ルナ氏(runaofflower)制作 アポリア・スカーレット(Apolia_Scarlet)
 - ZuBeN氏制作 アリュマージュ(ZBN_Allumage/Allumage)
 - mapelao氏制作 紫水晶(Amethysta)
-- （笑）(lol)氏制作 ヴォルクルス(Volcrz-R/|/&lt;&gt;1_[|-&gt;_)
+- （笑）(lol)氏制作 ヴォルクルス(Volcrz-R/|/<>1_[|->_)
 - EINZBERN氏制作 E蕾米莉亚(E-Remilia)
 - ザウラー氏(SAURER)制作 オディオ(Odio)
 - ギース(geese)氏制作 神蕾米莉亚(G-Remilia)
@@ -1260,16 +952,12 @@ MUGEN | 列表 | 需要完善的词条
 - 汚レ猫氏(现・にゃんちゃ氏)(Yogoreneko)制作 肉食レミィ(y.nikusyoku/nikusyokusan)
 - Uma Sonohen氏制作 デュアルヘッド・モケーレ・ムベンベ(2HM2)
 - 烏賊氏(Ika)制作 油库里蕾米莉亚(remilia_y/yukkuri remilia)
-- 烏賊氏(Ika)&amp;未知作者 制作油库里蕾米莉亚(remilya scarlet)
+- 烏賊氏(Ika)&未知作者 制作油库里蕾米莉亚(remilya scarlet)
 - DHQ氏制作 烏賊氏改造油库里蕾米莉亚(remilya scarlet DHQ)
-
-  
-  
-
-  
 
 
 ### 芙兰朵露·斯卡蕾特
+
 - クロガネ氏/黑铁氏(kurogane)制作 绯想天风格芙兰朵露
 - 寅午氏(Koma)制作 剑芙兰(Flan)
 - 寅午氏(Koma)制作 炎芙兰(O_Flan)
@@ -1306,42 +994,24 @@ MUGEN | 列表 | 需要完善的词条
 - 最强贝尔蒙特(the strongest belmont)氏制作 红魔城传说 芙兰朵露 斯卡雷特(Flandre Scarlet)
 - 609z氏(Six Cycle Nine 2)氏制作 凶恶改变涅槃寂静(NS/Nirvana Shantih)
 - TEXT氏制作 凶恶改变西红柿炒鸡蛋(Scrambled egg with tomato)
-- Kurogane &amp; DarkAzreal99氏制作 Arien Flandre_Scarlet/Arien Flandre
+- Kurogane & DarkAzreal99氏制作 Arien Flandre_Scarlet/Arien Flandre
 - Uma Sonohen氏制作 デュアルヘッド・モケーレ・ムベンベ(2HM2)
 - I.M.R.F氏制作 油库里芙兰(Yukkuri Fran)
 
-  
-  
-
-  
-
 
 ## 东方妖妖梦
-  
-  
-
-  
-
 
 ### 琪露诺
-  
-  
-
-  
-
 
 ### 蕾蒂·霍瓦特洛克
+
 - ネンミン(Nenmin)氏制作 黄昏风点绘蕾蒂
 - (ﾟ∇ﾟ)氏制作 打击风格蕾蒂
 - プレート氏(pre-to)制作 A蕾蒂(Aleti)
 
-  
-  
-
-  
-
 
 ### 橙
+
 - ごましお(gomashio)氏制作 橙
 - しーぽん(Seapon)氏制作 橙次郎(CHENSHIROU)
 - 幽霊荘(yuureisou)氏制作 高头身橙
@@ -1350,13 +1020,9 @@ MUGEN | 列表 | 需要完善的词条
 - あっとまーく(karakuyakumi)氏制作 橙虎(Tiger Chen)
 - ryu氏制作 蓝和橙(RAN_CHEN)
 
-  
-  
-
-  
-
 
 ### 爱丽丝·玛格特洛依德
+
 - SUI氏制作 萃梦想风格
 - 祇園城 奏貴(Souki/Gionjou)氏制作 萃梦想风格爱丽丝
 - 水影氏(mikage)制作 绯想天风格爱丽丝
@@ -1368,9 +1034,9 @@ MUGEN | 列表 | 需要完善的词条
 - Ricepigeon氏制作 Gensokyo Reloaded风格爱丽丝(Alice_THGR)
 - ABAB氏制作 毛利元就爱丽丝(Mouri_Alice)
 - Lates氏制作 菲萨丽丝(Physalis)
-- Lates氏製作 	涅槃/ニルヴァーナ(Nirvana)
-- FLAM氏制作	菲萨丽丝F(Physalis F)
-- 叶老头制作	菲萨丽丝F(Physalis_F)
+- Lates氏製作 涅槃/ニルヴァーナ(Nirvana)
+- FLAM氏制作 菲萨丽丝F(Physalis F)
+- 叶老头制作 菲萨丽丝F(Physalis_F)
 - にんにく氏(ninnniku)制作 ポルターガイスト(Poltergeist)
 - にんにく氏(ninnniku)制作 チェスピース ロイヤロイド(Chesspiece_royaloid)
 - Noobic Cube氏制作 堕落的爱丽丝(Fallen Alice)
@@ -1388,60 +1054,39 @@ MUGEN | 列表 | 需要完善的词条
 - 雨树樱 枫险氏(NULL)制作 赛因特里尼斯(Xe/Saintliness)
 - 境地(kyouti)氏制作 DollMaster
 - NoName氏制作 Mery/Mery Magnus
-- Bask氏制作 zkalice/Zaku&amp;Alice
+- Bask氏制作 zkalice/Zaku&Alice
 - Below273氏制作 ATUSI氏改造Idoll Master
 - Hzgaming氏制作 Ultimate_Alice
 - Utsuhofanboy24000制作 病娇爱丽丝(Yandere Alice)
 - KN_RS氏制作 悪夢の異形遣い(%Eg3%83d%9z6j%E3%28c3%Bx3%gEe3%8a2%B2Ffg%En3%8v3%bB3/1V16|-|7|v|4|23_(V)4|2101V1N3773|2/Alice-KN)[含有一定恐怖向元素注意]
 
-  
-  
-
-  
-
 
 ### 莉莉霍瓦特（莉莉白）
+
 - へちょ氏(hetyo)制作 手描莉莉白
 - J・J氏制作 STG风格莉莉白
 - 普通の狐(N-Fox)氏制作 狂化改变Romancing Fairy
 - 普通の狐(N-Fox)氏制作 狂化改变NF莉莉白
 - OPT氏制作 凶恶改变Benediximus Folium
 
-  
-  
-
-  
-
 
 ### 露娜萨·普莉兹姆利巴
+
 - minoo氏制作 手描风格露娜萨
 - space mouse氏制作 minoo氏改变露娜萨
 - ルナ氏(runaofflower)制作 プリズムリバー騒霊少女楽団(P-R-N-G-O/Prism River Noisy Girls Orchestra)
 - 只の案山子(TadanoKakashi)氏制作 凶恶改变フォルテ(forte)
 
-  
-  
-
-  
-
 
 ### 梅露兰·普莉兹姆利巴
-  
-  
-
-  
-
 
 ### 莉莉卡·普莉兹姆利巴
+
 - Unsigned氏制作 莉莉卡（Lyrica_solo）
-
-  
-  
-
-  
 
 
 ### 魂魄妖梦
+
 - クロガネ氏/黑铁氏(Kurogane氏)制作 萃梦想风格魂魄妖梦
 - barai氏制作 萃梦想风格魂魄妖梦(th75_Youmu)
 - 水影氏制作 绯想天风格魂魄妖梦
@@ -1461,13 +1106,13 @@ MUGEN | 列表 | 需要完善的词条
 - suigin氏制作 侍魂6风格妖梦(SS6_youmu)
 - アリ氏(ali)制作 侍魂3风格妖梦/斬サム妖夢(ss3youmu)
 - GAB氏制作 チャボ妖夢(chabo_youmu)
-- DALA氏&amp; Ildanaf氏制作 M_Bstyle_妖梦/月みょん(M_Bstyle_youmu)
+- DALA氏& Ildanaf氏制作 M_Bstyle_妖梦/月みょん(M_Bstyle_youmu)
 - りゅん氏(ryun)制作 KOF风格妖梦(youmu_konpaku_R)
 - 屠神(Togami)氏制作 罪恶装备风格妖梦(Youmu_GG/Youmu-Konpaku(TGM))
 - 屠神(Togami)氏制作 战国BASARA X风格妖梦(Youmu_BSRX/Youmu_B_Style)
 - 屠神(Togami)氏制作 Youz/Youz_TGM
 - Chronos氏制作 チャリオッツ妖夢(Youmu.K.Chariot)
-- ダイヤ(Daiya/Diamond)氏制作 幽幽子＆妖梦(Yuyuko&amp;Youmu)
+- ダイヤ(Daiya/Diamond)氏制作 幽幽子＆妖梦(Yuyuko&Youmu)
 - しらんな。氏制作 背に恐怖を背負った妖夢(SnKoS_Youmu)
 - C氏制作 血浴凛藤(BloodEvil.Rindou)
 - レグ氏(Reg)制作 宇练妖梦(Uneri Youmu)
@@ -1513,13 +1158,9 @@ MUGEN | 列表 | 需要完善的词条
 - so_氏制作 妖夢DB(youmu_DB2/Double Blade Youmu)
 - 鉢植え(HACHIUE)氏制作 ゴスロリ剣士妖夢(GSyoumu)
 
-  
-  
-
-  
-
 
 ### 西行寺幽幽子
+
 - 栗氏(kuri)制作 萃梦想风格西行寺幽幽子
 - 祇園城 奏貴(Souki/Gionjou)氏制作 萃梦想风格西行寺幽幽子
 - クロガネ氏/黑铁氏(Kurogane氏）制作 萃梦想风格西行寺幽幽子
@@ -1533,7 +1174,7 @@ MUGEN | 列表 | 需要完善的词条
 - BK氏制作 大蛇幽幽子(Orochi_Yuyuko)
 - Deretun氏制作 A幽幽子(yuyuko_saigyouzi_A)
 - Rellua(Rel)氏制作 UMVC风格幽幽子(UMVC_Yuyuko)
-- ダイヤ(Daiya/Diamond)氏制作 幽幽子＆妖梦(Yuyuko&amp;Youmu)
+- ダイヤ(Daiya/Diamond)氏制作 幽幽子＆妖梦(Yuyuko&Youmu)
 - 紅毛玉氏(Akakedama)制作 完美无瑕的幽灵(Flawless Specter)
 - kita氏制作 幽幽球(YU-BY)
 - sog氏制作 綺(aya_/aya)
@@ -1557,20 +1198,16 @@ MUGEN | 列表 | 需要完善的词条
 - JQKJ氏制作 F幽幽子(F-yuyuko)
 - 聖櫻幻血(Unreachable)氏制作 零幽幽子(ZERO_Yuyuko)
 - 萃香の夫氏(suika_no_otto)制作 亡灵女王幽幽子(QOD_Yuyuko/Queen of Dead Yuyuko)
-- 萃香の夫氏(suika_no_otto) &amp; Untruthful Dragon氏制作 Last Yuyuko
+- 萃香の夫氏(suika_no_otto) & Untruthful Dragon氏制作 Last Yuyuko
 - Sophia Gryna(旧名:衛星玉)氏制作 Lx/Free your mind tyYS-v.SG
 - tuki829氏制作 Y_yuyuko
 - bus氏制作 SD
 - 蓝燐梦氏(Komeji_Orin)制作 绯红亡灵（Scarlet undead yuyuko）
 
-  
-  
-
-  
-
 
 ### 八云蓝
-- barai氏 &amp; 1021gundamoo氏制作 八云蓝
+
+- barai氏 & 1021gundamoo氏制作 八云蓝
 - おもち(omoti)氏制作 八云蓝
 - Daniel9999999氏制作 豆腐蓝(TofuRan)
 - popoponta氏制作 瑞兆の龍“狐”チーム(☆Ryuko-team/Zuityou no RyuKoteam)
@@ -1579,13 +1216,9 @@ MUGEN | 列表 | 需要完善的词条
 - シィグマさん(Shyglma666)氏制作 精神破壊者(MindCrasher)
 - RicePigeon氏制作 八云蓝（Ran_RP）
 
-  
-  
-
-  
-
 
 ### 八云紫
+
 - クロガネ氏/黑铁氏(kurogane)制作 萃梦想风格八云紫
 - ダイヤ(Daiya/Diamond)氏制作 萃梦想风格八云紫
 - gu氏制作 绯想天风格八云紫
@@ -1618,20 +1251,11 @@ MUGEN | 列表 | 需要完善的词条
 - 悟史(satosi)氏制作 油库里八云紫(yukkuriyukarin)
 - IF氏 制作 5001八云紫凶恶改变体（yukari IF）
 
-  
-  
-
-  
-
 
 ## 东方永夜抄
-  
-  
-
-  
-
 
 ### 莉格露·奈特巴格
+
 - kibokura氏制作 莉格露·奈特巴格
 - minoo氏制作 莉格露·奈特巴格
 - わりばし(Waribashi)氏制作 莉格露·奈特巴格
@@ -1642,25 +1266,17 @@ MUGEN | 列表 | 需要完善的词条
 - 圧縮箱(TUBURE/compressionbox)氏制作 リグル・ベルゼブブ(Beelzebub-W)
 - Pgrs111MAGEN氏制作 walfas风格莉格露
 
-  
-  
-
-  
-
 
 ### 米斯蒂娅·萝蕾拉
+
 - minoo氏制作 手描风格米斯蒂娅
 - ネンミン(Nenmin)氏制作 心绮楼风米斯蒂娅
 - こぁ信者K氏制作 暴鸟米斯蒂亚(B-mystia)
 - InsectOrder氏制作 凶恶改造Soprano
 
-  
-  
-
-  
-
 
 ### 上白泽慧音
+
 - minoo氏制作 手描黄昏风上白泽慧音
 - G-Sho氏制作 绯想天风EX慧音
 - G-Sho氏制作 非想天則风EX慧音
@@ -1668,13 +1284,9 @@ MUGEN | 列表 | 需要完善的词条
 - ツキノア(tsukinoa)氏制作 慧音・キャメロン(Keine.C/Keine Cameron)
 - 紅月 時雨(Akatsuki-Shigure)氏制作 Emperor_of_Grave
 
-  
-  
-
-  
-
 
 ### 因幡帝（因幡天为）
+
 - ピカポン氏(pikapon)制作 因幡帝
 - ピカポン氏(pikapon)制作 真！！カンフーラビット(kfr2/Kung Fu Rabbit)
 - nns氏制作 非想天则風帝
@@ -1687,17 +1299,13 @@ MUGEN | 列表 | 需要完善的词条
 - S氏制作 安妮克·天为 （Anniyue Tewi）
 - 天然死（tennnennshi）制作 兔斗因幡拳使 帝（UTI）
 
-  
-  
-
-  
-
 
 ### 铃仙·优昙华院·因幡
+
 - 水影(Mikage)氏制作 绯想天风铃仙
 - 水影(Mikage)氏制作 非想天则风铃仙
 - gu氏制作 铃仙·优昙华院·因幡
-- シロト氏(shiroto)制作　MB风格铃仙(udonge_mb)
+- シロト氏(shiroto)制作 MB风格铃仙(udonge_mb)
 - チャバネ（旧・ATUSI）氏制作 铃仙·优昙华院·因幡
 - 红毛玉(akakedama)氏制作 铃仙·优昙华院·因幡
 - sekt氏制作 铃仙·优昙华院·因幡
@@ -1705,11 +1313,11 @@ MUGEN | 列表 | 需要完善的词条
 - RicePigeon氏制作 Gensokyo Reloaded风格铃仙
 - Nep Heart氏制作 铃仙·优昙华院·因幡
 - ju氏制作 手描风格铃仙
-- or2=3氏制作　死侍铃仙(RDI/Reisen Deadpool Inaba)
+- or2=3氏制作 死侍铃仙(RDI/Reisen Deadpool Inaba)
 - hyouenojou氏制作 E铃仙(E_udonge/Reisen E Inaba)
-- 交差(kousa)氏制作　战斗大师铃仙(Battle_Master_Reisen)
-- シュウ氏(shuu)制作　レイ仙(REIsen_S)
-- シュウ氏(shuu)制作　TEOC レイ仙(T_REISEN)
+- 交差(kousa)氏制作 战斗大师铃仙(Battle_Master_Reisen)
+- シュウ氏(shuu)制作 レイ仙(REIsen_S)
+- シュウ氏(shuu)制作 TEOC レイ仙(T_REISEN)
 - ゴンドワナ氏(Gondwana)制作 深秘录风格铃仙
 - 红裙氏(Reddosukato)制作 铃仙·优昙华院·因幡(Reisen_RA)
 - 日本破壊結社NHK氏(NHK)制作 铃仙13(UDON13)
@@ -1731,13 +1339,9 @@ MUGEN | 列表 | 需要完善的词条
 - barai氏制作 HSI姐贵(HSI)
 - 氷晶無月氏（mugetu26）制作Lefianes-Reincarnation（Lefianes-R）
 
-  
-  
-
-  
-
 
 ### 八意永琳
+
 - Ricepigeon氏制作 八意永琳
 - minoo氏制作 萃夢想风手描永琳
 - シロト氏(shiroto)氏制作 八意永琳
@@ -1747,13 +1351,9 @@ MUGEN | 列表 | 需要完善的词条
 - 社咲(yasiro)氏制作 八意永琳
 - 牛鬼(Gyuki)氏制作 アルティメットプリティ永琳ちゃん(Ultimate pretty eirin)
 
-  
-  
-
-  
-
 
 ### 蓬莱山辉夜
+
 - Seravy氏制作 蓬莱山辉夜
 - yasai氏制作 绯想天风辉夜
 - G-sho氏制作 非想天则风辉夜
@@ -1763,13 +1363,9 @@ MUGEN | 列表 | 需要完善的词条
 - Dragmoon氏制作 狂月妃X(Lunatic Empress X)
 - ツキノア(tsukinoa)氏制作 輝夜・ハワード(Kaguya.H/Kaguya_Howard)
 
-  
-  
-
-  
-
 
 ### 藤原妹红
+
 - minoo氏制作 黄昏风点绘藤原妹红
 - イス(isu)氏制作 黄昏风点绘藤原妹红
 - RicePigeon氏制作 藤原妹红
@@ -1789,31 +1385,18 @@ MUGEN | 列表 | 需要完善的词条
 - レグ氏(Reg)制作 冰蒼(Hisou)
 - 紅月 時雨(Akatsuki-Shigure)氏制作 Princess_of_Blaze
 
-  
-  
-
-  
-
 
 ## 东方花映冢
-  
-  
-
-  
-
 
 ### 梅蒂欣·梅兰可莉
+
 - キャベツ太郎(Cabbage)氏制作 梅蒂欣·梅兰可莉
 - ホルン(holn)氏制作 Cabbage氏改変版梅蒂欣
 - 車掌B(syasyou_B)氏制作 N-THメディスン(N-TH-Medicine/Zwei Dolls)
 
-  
-  
-
-  
-
 
 ### 射命丸文
+
 - 水影(mikage)氏制作 绯想天风格射命丸文
 - 水影(mikage)氏制作 非想天则风格射命丸文
 - 苍月(Aotsuki)氏制作 绯想天风格射命丸文
@@ -1853,13 +1436,9 @@ MUGEN | 列表 | 需要完善的词条
 - 悟史(satosi)氏制作 油库里射命丸文[恶心丸](kimexemaru) 注:这两个都是一定程度的猎奇物,尤其是前者..你懂的
 - Tedi氏 制作 射命丸命（G-aya）
 
-  
-  
-
-  
-
 
 ### 风见幽香
+
 - 見越入道氏(Mikoshi Nyuudou)氏制作 风见幽香
 - Moiky氏制作 风见幽香(U_S_C/Ultimate Sadistic Creature)
 - Moiky氏制作 死库水幽香(yuukarin)
@@ -1878,13 +1457,9 @@ MUGEN | 列表 | 需要完善的词条
 - ツキノア(tsukinoa)氏制作 Inanimate Flower
 - 凯瑞尔(kairuier)氏制作 幽香(YUKACHAN)
 
-  
-  
-
-  
-
 
 ### 小野塚小町
+
 - 水影(mikage)氏制作 緋想天风格小町
 - 水影(mikage)氏制作 非想天則风格小町
 - Ricepigeon氏制作 小野塚小町(Komachi_RP)
@@ -1903,7 +1478,7 @@ MUGEN | 列表 | 需要完善的词条
 - soruzin氏制作 B_Komachi_D2
 - にんにく氏(ninnniku)制作 首塚小町(Kubizuka Komachi)
 - kinomiya氏制作 深渊的欺瞒(Azami-K)
-- 天魔氏(shadow)制作 	血之死神(Blood death)
+- 天魔氏(shadow)制作 血之死神(Blood death)
 - ギース(geese)氏制作 鬼塚小町(Oniduka Komachi)
 - kms氏制作 W-Komachi
 - Bluest氏（AceBluest氏）制作 閻魔(Ennma)
@@ -1915,55 +1490,34 @@ MUGEN | 列表 | 需要完善的词条
 - Pandacia Lake氏制作 Demonia Komachi
 - illness氏制作 墨姫(Sumihime)
 
-  
-  
-
-  
-
 
 ### 四季映姬·夜摩仙那度
+
 - ネンミン(Nenmin)氏制作 绯想天风格四季映姬
 - こおろぎ屋(Korogiya)氏制作 萃梦想＋绯想天风格四季映姬
 - PoL-09氏制作 四季审判(Eiki-Judgment)
 - IF氏制作 MegaMari风格四季映姬(XANADU-IF)
 - IF氏制作 Mystical Chain风格四季映姬(MCXANADU-IF)
 
-  
-  
-
-  
-
 
 ### 黑莉莉（莉莉黑）
+
 - Hetyo氏制作 莉莉黑（Lily Black）
-
-  
-  
-
-  
 
 
 ## 东方风神录
-  
-  
-
-  
-
 
 ### 秋静叶
+
 - stel2氏制作 秋静叶
 - Agata氏制作 秋静叶
 - 青村氏(Aomura)制作 秋静叶
-- 阿＝李苑(rien)氏制作　しず「ぱ」(Pateriko)
+- 阿＝李苑(rien)氏制作 しず「ぱ」(Pateriko)
 - lunatic氏制作 普通静葉(HT-Shizuha)
-
-  
-  
-
-  
 
 
 ### 秋穰子
+
 - moiky氏制作 秋穣子
 - moiky氏制作 パーフェクト秋姉妹(のりもの)(PerfectAkiShimai)
 - moiky氏制作 パーフェクト秋姉妹(PERSAN)
@@ -1973,48 +1527,36 @@ MUGEN | 列表 | 需要完善的词条
 - ニーサン氏(ni-san)制作 鬼穣子(oni-minoriko)
 - 阿＝李苑氏制作 ぱってぱてみのりこさま(Shizupa)
 
-  
-  
-
-  
-
 
 ### 键山雏
+
 - minoo氏制作 手书黄昏风键山雏
 - Ricepigeon氏制作 键山雏
 - 見越入道(Mikoshi Nyuudou)氏制作 七头身键山雏(hina-k)
 - アメリ氏(ameri)制作 カス雛さん(Cus-hina-san)
-- 交差氏(kousa)制作 黑白键山雏(Black&amp;White_hina)
+- 交差氏(kousa)制作 黑白键山雏(Black&White_hina)
 - さなーまん氏(Aoyamizu)制作 邪道雛(jado-HINA)
 - Svtb氏制作 病毒(Virus)
 
-  
-  
-
-  
-
 
 ### 河城荷取
+
 - Minoo氏制作 手书河城荷取
 - Minoo氏制作 フリーダムにとり(Freedom nitori)
 - Space Mouse氏制作 minoo氏改造河城荷取
 - Seravy氏制作 河城荷取
 - Ricepigeon氏制作 河城荷取
 - Seravy氏制作 河城荷取
-- リアス式海岸氏(ria-coarst)  手描高头身河城荷取
+- リアス式海岸氏(ria-coarst) 手描高头身河城荷取
 - 魁氏(KAIXA)制作 ストライクフリーダムにとり(Strike Freedom nitori)
 - Deoxgigas 激流荷取(Torrential Nitori)
 - 交差氏(kousa)制作 AquaBlaze_Nitori
 - 影縫(Kagenui)氏制作 minoo氏狂化改变フリーダムにとりズ(Freedom nitori)
 - nomucoke氏制作 収集荷取・金仕様
 
-  
-  
-
-  
-
 
 ### 犬走椛
+
 - minoo氏制作 手书犬走椛
 - Almond氏制作 minoo氏改变犬走椛(momizisan)
 - Ricepigeon氏制作 犬走椛
@@ -2032,13 +1574,9 @@ MUGEN | 列表 | 需要完善的词条
 - 五月雨氏(Samidare)制作 red blood momizi
 - 鮪(maguro)氏制作 焔結神椛(Homura_Momizi)
 
-  
-  
-
-  
-
 
 ### 东风谷早苗
+
 - ふるれ氏(frule)制作 非想天则风早苗
 - 紅毛玉氏(Akakedama)制作 非想天则风早苗
 - 紅毛玉氏(Akakedama)制作 心绮楼风早苗
@@ -2051,7 +1589,7 @@ MUGEN | 列表 | 需要完善的词条
 - RicePigeon氏制作 Gensokyo Reloaded风格东风谷早苗
 - RicePigeon氏制作 RP-Styled东风谷早苗
 - ネンミン(Nenmin)氏制作 手描东风谷早苗
-- Ricepigeon氏 &amp; Daniel9999999氏制作 东风谷早苗(Sanae_R9x7)
+- Ricepigeon氏 & Daniel9999999氏制作 东风谷早苗(Sanae_R9x7)
 - 红裙氏(Reddosukato)制作 心绮楼风早苗(Kimasi_Sanae)
 - deer氏制作 MBAA风格早苗
 - 烏氏(raven)制作 AC風早苗さん(Kotiya Sanae_AC)
@@ -2081,26 +1619,18 @@ MUGEN | 列表 | 需要完善的词条
 - Pandacia Lake氏制作 Yume Kasashi
 - どっかのサブ氏(dokkano sub)制作 Pikosana
 
-  
-  
-
-  
-
 
 ### 八坂神奈子
+
 - キャベツ太郎氏(Cabbage) 八坂神奈子
 - シロト氏(shiroto)制作 八坂神奈子(Kanako_mg)
 - RicePigeon氏制作 八坂神奈子
 - 雅氏(miyabi) 神奈ちゃん(Kana-chan)
 - DHQ氏作 アレンジ神奈ちゃん(Kana-Chan DHQ)
 
-  
-  
-
-  
-
 
 ### 洩矢诹访子
+
 - 水影(mikage)氏制作 非想天则风洩矢诹访子
 - Ricepigeon氏制作 Incident Zero风格洩矢诹访子
 - Veanko氏制作 洩矢诹访子
@@ -2127,38 +1657,21 @@ MUGEN | 列表 | 需要完善的词条
 - 卫星玉\月鈴瑠奈氏(Saphira)制作 コバルトブルー諏訪子(CobaltBlue-suwako/Lydia)
 - 卫星玉\月鈴瑠奈氏(Saphira)制作 Lake of forgetfulness/Vergissmeinnicht
 
-  
-  
-
-  
-
 
 ## 东方地灵殿
-  
-  
-
-  
-
 
 ### 琪斯美
+
 - Kita氏制作 琪斯美
-
-  
-  
-
-  
 
 
 ### 黑谷山女
+
 - .DAT氏制作 黑谷山女
-
-  
-  
-
-  
 
 
 ### 水桥帕露西
+
 - Hetyo氏制作 黄昏风水桥帕露西
 - Shin氏制作 MB风水桥帕露西
 - moiky氏制作 奇特的水桥帕露西
@@ -2169,27 +1682,19 @@ MUGEN | 列表 | 需要完善的词条
 - 円氏(en)制作 依存帕露西(D-Parsee)
 - かまぼこサイハ氏(kamaboko_saiha)制作 JOKER姉貴(JOKER)
 
-  
-  
-
-  
-
 
 ### 星熊勇仪
-- Shin氏制作  星熊勇仪
+
+- Shin氏制作 星熊勇仪
 - Minoo氏制作 星熊勇仪
 - Ricepigeon氏制作 星熊勇仪
 - mu氏制作 闘儀(tougi)
-- 17th_star氏制作 金银双鬼(Gold&amp;Silver of yugi/17yugi)
+- 17th_star氏制作 金银双鬼(Gold&Silver of yugi/17yugi)
 - ことみちゃん氏制作 強化勇儀(Reinforcement yugi/R-yugi)
-
-  
-  
-
-  
 
 
 ### 火焰猫燐
+
 - お燐協力作成プロジェクト(Orin Project)现：東方mugenキャラ作成プロジェクト 1人目 火焰猫燐
 - お燐協力作成プロジェクト(Orin Project)现：東方mugenキャラ作成プロジェクト 2人目 高頭身 火焰猫燐
 - お燐協力作成プロジェクト(Orin Project)现：東方mugenキャラ作成プロジェクト 3人目 改変ドット 火焰猫燐
@@ -2203,34 +1708,26 @@ MUGEN | 列表 | 需要完善的词条
 - BIYO氏制作 手描火焰猫燐
 - Biyo氏+影縫氏(Kagenui)制作 I=Orin
 
-  
-  
-
-  
-
 
 ### 古明地觉
-- へちょ氏(hetyo)制作    旧版手描古明地觉
-- へちょ氏(hetyo)制作    新版手描古明地觉
-- Seravy氏制作    へちょ(hetyo)氏改变古明地觉
-- へちょ氏(hetyo)+未知作者制作   satori_hyV2
-- わりばし氏(Waribashi)制作   旧版手描古明地觉
-- わりばし氏(Waribashi)制作   新版手描古明地觉
-- 夜氏(Yoru)制作   非想天则风古明地觉
-- 蓬莱月華氏(hourai-gekka)制作   凶恶改造さとりん(Preparedness)
-- 586&amp;芹香の夫氏(otto)制作    Satori Komeiji mk2(s_komeiji)
-- 混沌の理氏(Konton NO kotowarI)制作   L觉(L-satori)
-- 觉氏(jue)制作    凶恶改造T觉(T_satori)
+
+- へちょ氏(hetyo)制作 旧版手描古明地觉
+- へちょ氏(hetyo)制作 新版手描古明地觉
+- Seravy氏制作 へちょ(hetyo)氏改变古明地觉
+- へちょ氏(hetyo)+未知作者制作 satori_hyV2
+- わりばし氏(Waribashi)制作 旧版手描古明地觉
+- わりばし氏(Waribashi)制作 新版手描古明地觉
+- 夜氏(Yoru)制作 非想天则风古明地觉
+- 蓬莱月華氏(hourai-gekka)制作 凶恶改造さとりん(Preparedness)
+- 586&芹香の夫氏(otto)制作 Satori Komeiji mk2(s_komeiji)
+- 混沌の理氏(Konton NO kotowarI)制作 L觉(L-satori)
+- 觉氏(jue)制作 凶恶改造T觉(T_satori)
 - Six Cycle Nine 2氏制作 隔离改造不可説不可説転(No Theory Not Theory Translocation)
-- 是你的古明地恋恋吖(Lian)制作   觉睡觉(Satori Is Sleeping/L satori)
-
-  
-  
-
-  
+- 是你的古明地恋恋吖(Lian)制作 觉睡觉(Satori Is Sleeping/L satori)
 
 
 ### 灵乌路空
+
 - きゃべつ/キャベツ太郎氏(MechaCabbage)制作 绯想天风灵乌路空
 - 青梨氏(aonashi)制作 非想天则风灵乌路空(A-Utsuho)
 - 琥珀氏(kohaku)制作 灵乌路空
@@ -2248,7 +1745,7 @@ MUGEN | 列表 | 需要完善的词条
 - SAIKEI氏 圣帝阿空(T-USTUHO_31)
 - humi氏制作 圣帝空(S-Utshuo)
 - 交差氏(kousa)制作 狂化改变灵乌路空
-- Deoxgigas氏制作　星尘空(Stardust Utsuho)
+- Deoxgigas氏制作 星尘空(Stardust Utsuho)
 - 大垣氏(ohgaki)制作 十得制御棒うにゅほ(unyuho)
 - 大垣氏(ohgaki)制作 十得制御棒うにゅほライトアーマー(unyuho-L)
 - Murdertroyd(Margatroid)氏制作 魔理沙与6个蘑菇风格阿空(Okuu)
@@ -2274,13 +1771,9 @@ MUGEN | 列表 | 需要完善的词条
 - Utsuhofanboy24000制作 Lagiacrus
 - Utsuhofanboy24000制作 God Okuu-R
 
-  
-  
-
-  
-
 
 ### 古明地恋
+
 - Barai氏制作 凭依华风格古明地恋
 - chiguma氏制作 手描版古明地恋
 - BIYO氏制作 手描版古明地恋
@@ -2294,7 +1787,7 @@ MUGEN | 列表 | 需要完善的词条
 - 蓬莱月華氏(hourai-gekka)制作 こいしたん(DesReg)
 - 是你的古明地恋恋吖(Lian)制作 L恋(L-Koishi)
 - 是你的古明地恋恋吖(Lian)制作 K恋(K-koishi)
-- にんにく(Ninnniku)氏制作　エクストリーム・アサラウス(Extreme-O-Saurn)
+- にんにく(Ninnniku)氏制作 エクストリーム・アサラウス(Extreme-O-Saurn)
 - DORAGON.E氏制作 ULTIMATE Koishi
 - DORAGON.E氏制作 传说恋(Legend of Koishi)
 - 熄废人氏(okihaito)制作 无辜受害者(Sacrifice-I)
@@ -2304,20 +1797,11 @@ MUGEN | 列表 | 需要完善的词条
 - 理衛五月雨氏制作 最后的五月雨(Samidare/The last early summer rain)(注:和上面这位是两个马甲)
 - 未知作者制作 凶恶改造A恋(A-koishi/Unconsciousness)
 
-  
-  
-
-  
-
 
 ## 东方星莲船
-  
-  
-
-  
-
 
 ### 娜兹玲
+
 - .DAT氏制作 娜兹玲
 - SpaceMouse氏制 .DAT氏改变Nazrin Deluxe
 - Austinanims氏制 .DAT氏狂化改变nazrin_neptune
@@ -2325,13 +1809,9 @@ MUGEN | 列表 | 需要完善的词条
 - 鱼糕氏(kamaboko_saiha)制作 NYN姐贵(NYN_alter)
 - 鱼糕氏(kamaboko_saiha)制作 伪NYN(Fake NYN)
 
-  
-  
-
-  
-
 
 ### 多多良小伞
+
 - minoo氏制作 多多良小伞
 - Felicity氏制作 MVC风格小伞(Kogasa_C\KogaCyclops)
 - 混沌の理氏(Konton NO kotowarI)制作 狂化改变大雨\抹茶の小伞(GT-kogasa)
@@ -2342,79 +1822,54 @@ MUGEN | 列表 | 需要完善的词条
 - PandaciaLake氏 神级改变PlasticMind
 - 影縫氏 神级改变天気雨(Sun Shower)
 
-  
-  
-
-  
-
 
 ### 云居一轮
-  
-  
 
-  
+### 云居一轮 & 云山
 
-
-### 云居一轮 &amp; 云山
-- nns氏制作 心绮楼风格云居一轮 &amp; 云山
-- 淡光氏(Acari)制作 云居一轮 &amp; 云山
-- 寅午氏(Koma)制作 云居一轮 &amp; 云山
-- KON氏制作 云居一轮 &amp; 云山
-- Ricepigeon氏制 Gensokyo Reloaded风格云居一轮 &amp; 云山
-- にんにく氏(ninnniku)制　狂化改变海坊主＆海道尼(SeaMonk)
-
-  
-  
-
-  
+- nns氏制作 心绮楼风格云居一轮 & 云山
+- 淡光氏(Acari)制作 云居一轮 & 云山
+- 寅午氏(Koma)制作 云居一轮 & 云山
+- KON氏制作 云居一轮 & 云山
+- Ricepigeon氏制 Gensokyo Reloaded风格云居一轮 & 云山
+- にんにく氏(ninnniku)制 狂化改变海坊主＆海道尼(SeaMonk)
 
 
 ### 村纱水蜜
+
 - minoo氏制作 村纱水蜜
 - Space Mouse氏制作 minoo氏改变版村纱水蜜
 - 混沌の理氏(Konton NO kotowarI)制作 orange
 - Owata氏(现Lifeend氏) キラー村紗(Kller_Murasa)
 
-  
-  
-
-  
-
 
 ### 寅丸星
+
 - maten氏制作 手描高头身版寅丸星
 - 阿＝李苑氏(Rien)制作 maten氏改変版寅丸星
 - minoo氏制作 黄昏点阵变更寅丸星
-- Felicity氏制作  minoo氏改変MVC风格寅丸星
+- Felicity氏制作 minoo氏改変MVC风格寅丸星
 - Space Mouse氏 minoo氏改变版寅丸星
 - skeleton氏制作 凶恶改变白虎
 - Hzgaming氏制作 Ultimate Syo
 
-  
-  
-
-  
-
 
 ### 圣白莲
+
 - プレート氏(pre-to)制作 手描版圣白莲
 - ごましお(gomashio)氏制作 手描版圣白莲
-- Deoxgigas氏制作　闪光圣白莲(Flash Byakuren)
+- Deoxgigas氏制作 闪光圣白莲(Flash Byakuren)
 - Boomer氏制作 深秘录风格圣白莲(BBA_LEN)
 - Ricepigeon氏制 Gensokyo Reloaded风格圣白莲
 - Seravy氏制 圣白莲
-- atr氏制　のりもの(BBA-Bomb)
-- ぽち氏制　救世二輪車
-- piyo氏（ピヨ＝ブラックバーン氏）制作　狂化改变紫空の破戒僧 白蓮(Hijiri-PB)
+- atr氏制 のりもの(BBA-Bomb)
+- ぽち氏制 救世二輪車
+- piyo氏（ピヨ＝ブラックバーン氏）制作 狂化改变紫空の破戒僧 白蓮(Hijiri-PB)
 - Mor氏制 凶恶改变圣白莲(Byakuren_Azure)
-
-  
-  
-
-  
 
 
 ### 封兽鵺
+
 - maten氏制作 高头身版封兽鵺
 - 溝星氏(mizoboshi)制作 maten氏改変版封兽鵺(h_nue)
 - 阿＝李苑氏(Rien)制作 maten氏改変版封兽鵺(nue-K)
@@ -2422,95 +1877,57 @@ MUGEN | 列表 | 需要完善的词条
 - さるの人(Saru)氏制作 东方mugen计划GUNDAM氏素材使用封兽鵺(NUEcustom)
 - さるの人(Saru)氏制作 EFZ风封兽鵺(nue7)
 - わりばし(Wariboshi)氏制作 东方mugen计划GUNDAM氏素材使用封兽鵺
-- TwistedSynapse氏制  Suneo氏封兽鵺改变MaliciousNue\Malicious Hue Houjuu
+- TwistedSynapse氏制 Suneo氏封兽鵺改变MaliciousNue\Malicious Hue Houjuu
 - kakeyぷらい氏(kakeypurai)制作 狂化改变反転獣(Flip beast)
 - CyberAkumaTv/Ignacio Martinez aka Kingdemonic666氏制 凶恶演出物U-Nue
 
-  
-  
-
-  
-
 
 ## 东方神灵庙
-  
-  
-
-  
-
 
 ### 中幽灵
-  
-  
-
-  
-
 
 ### 幽谷响子
+
 - minoo氏制作 幽谷响子
 - Below273氏 minoo氏幽谷响子改变
 
-  
-  
-
-  
-
 
 ### 宫古芳香
+
 - Moiky氏制作 宫古芳香
-
-  
-  
-
-  
 
 
 ### 霍青娥
+
 - Moiky氏制作 霍青娥
-
-  
-  
-
-  
 
 
 ### 苏我屠自古
+
 - へちょ氏(hetyo)制作 手书苏我屠自古
 - エトワール氏(Etoile)制作 电光战记风格屠自古(Toziko_ABK)
 - moiky氏制作 豪族台車(GozokuDaisya)
 - ツキノア(tsukinoa)氏制作 狂化改变雷灵屠自古(R-Toziko)
 
-  
-  
-
-  
-
 
 ### 物部布都
+
 - Gudine氏制作 心绮楼风格物部布都
-- Aegis氏制作　バーニング布都((B_Futo)
+- Aegis氏制作 バーニング布都((B_Futo)
 - KANATA＠氏 凶恶改变物部布都
-
-  
-  
-
-  
 
 
 ### 丰聪耳神子
-- Boomer氏制作　深秘录风格丰聪耳神子
+
+- Boomer氏制作 深秘录风格丰聪耳神子
 - バルバトス(Barbatos)氏制作 丰聪耳神子Q(MIKO-Q)
-- 豆大福(Mamedaifuku)氏制作　心绮楼风格丰聪耳神子(素材不是)
+- 豆大福(Mamedaifuku)氏制作 心绮楼风格丰聪耳神子(素材不是)
 - エトワール氏(Etoile)制作 电光战记风格丰聪耳神子(miko_ABK)
 - moiky氏制作 豪族台車(GozokuDaisya)
 
-  
-  
-
-  
-
 
 ### 二岩猯藏
+
 - シェイ氏(Shey)制 凭依华风格二岩猯藏
 - Minoo氏制作 二岩猯藏
 - エトワール氏(Etoile)制作 电光战记风格二岩猯藏(Mamizou_ABK)
@@ -2519,431 +1936,179 @@ MUGEN | 列表 | 需要完善的词条
 - Ricepigeon氏制作 Gensokyo Reloaded风格 二岩猯藏(Mamizou_RP)
 - 梢氏(kozue)制 二岩猯藏(Remilia_Modoki)
 
-  
-  
-
-  
-
-  
-
 
 ## 东方辉针城
-  
-  
-
-  
-
 
 ### 若鹭姬
+
 - ピカポン氏(pikapon)制作 若鹭姬(Wakasagi-Hime)
-
-  
-  
-
-  
 
 
 ### 赤蛮奇
-- イス(isu)氏制作　非想天则风格赤蛮奇
+
+- イス(isu)氏制作 非想天则风格赤蛮奇
 - 雨树樱枫险(fxnull)氏 赤蛮奇(Sekibanki)
 - エトワール(Etoile)氏 fxnull氏改变版赤蛮奇
 - IkuTronHD氏制 Gensokyo Reloaded风格赤蛮奇
 - Bradsalo氏制 Etoile氏赤蛮奇改变
-- ホバー歩兵(Hohei)氏制作　セキポンキ(Sekiponki)
-
-  
-  
-
-  
+- ホバー歩兵(Hohei)氏制作 セキポンキ(Sekiponki)
 
 
 ### 今泉影狼
+
 - minoo氏制作 今泉影狼
 - Felicity氏制作 MVC风格影狼B(Kagerou_B)
 - Oracle氏制作 狂化改变雪狼(SnowWolf)
 - 雨树樱枫险(fxnull)氏 影狼改造奥尔拉·马普桑特/迦羯罗根(Le Horla Maupassant/kagelogan)(实际上是半原创)
 - 未知作者制作 つよいかげろう(tuyoikagerou)
 
-  
-  
-
-  
-
 
 ### 九十九八桥
-  
-  
-
-  
-
 
 ### 九十九弁弁
-  
-  
-
-  
-
 
 ### 鬼人正邪
+
 - unknown氏 制作正邪（Seija）
-
-  
-  
-
-  
 
 
 ### 少名针妙丸
+
 - nomucoke氏制作 深秘录原作再現少名针妙丸
 - Deoxgigas氏制作 改变禅宗少名针妙丸(Zen Shinmyoumaru Sukuna)
 
-  
-  
-
-  
-
 
 ### 堀川雷鼓
-  
-  
-
-  
-
 
 ## 东方绀珠传
-  
-  
-
-  
-
 
 ### 清兰
-  
-  
-
-  
-
 
 ### 铃瑚
-  
-  
-
-  
-
 
 ### 哆来咪·苏伊特
+
 - シェイ氏(Shey)制作 凭依华风格哆来咪·苏伊特
 - Uma Sonohen氏制作 NGBC风Goodoremy
 - モジャック氏(Mojack)制作 KOF风格乾燥地帯の獏(AZ-Doremy)
 - 红毛玉氏(akakedama)制作 深秘录狂化改变Dream Eater
 
-  
-  
-
-  
-
 
 ### 稀神探女
+
 - minoo氏制作 稀神探女
 - ルナ氏(runaofflower)制作 天探女(ameno_sagume)
 
-  
-  
-
-  
-
 
 ### 克劳恩皮斯
+
 - Nanachi氏制作 HA克劳恩皮丝(HA_Clownpiece)
 - 未知作者制作 手绘克劳恩皮丝（Clownpiece）
 
-  
-  
-
-  
-
 
 ### 纯狐
+
 - プレート氏(pre-to) 心绮楼风格手描纯狐
-
-  
-  
-
-  
 
 
 ### 赫卡提亚·拉碧斯拉祖利
+
 - あんころね(ankorone)氏制作 手绘赫卡（Hekate)
-
-  
-  
-
-  
 
 
 ## 东方天空璋
-  
-  
-
-  
-
 
 ### 爱塔妮缇拉尔瓦
-  
-  
-
-  
-
 
 ### 坂田合欢
+
 - 未知作者制作 zun绘 坂田合欢(kuzu)
-
-  
-  
-
-  
 
 
 ### 高丽野阿吽
-  
-  
-
-  
-
 
 ### 矢田寺成美
-  
-  
-
-  
-
 
 ### 尔子田里乃
-  
-  
-
-  
-
 
 ### 丁礼田舞
-  
-  
-
-  
-
 
 ### 摩多罗隐岐奈
-  
-  
-
-  
-
 
 ## 东方鬼形兽
-  
-  
-
-  
-
 
 ### 戎璎花
-  
-  
-
-  
-
 
 ### 牛崎润美
-  
-  
-
-  
-
 
 ### 庭渡久侘歌
-  
-  
-
-  
-
 
 ### 吉吊八千慧
-  
-  
-
-  
-
 
 ### 杖刀偶磨弓
-  
-  
-
-  
-
 
 ### 埴安神袿姬
-  
-  
-
-  
-
 
 ### 骊驹早鬼
-  
-  
-
-  
-
 
 ## 东方虹龙洞
-  
-  
-
-  
-
 
 ### 豪德寺三花
-  
-  
-
-  
-
 
 ### 山城高岭
-  
-  
-
-  
-
 
 ### 驹草山如
-  
-  
-
-  
-
 
 ### 玉造魅须丸
-  
-  
-
-  
-
 
 ### 菅牧典
-  
-  
-
-  
-
 
 ### 天弓千亦
-  
-  
-
-  
-
 
 ### 姬虫百百世
-  
-  
-
-  
-
 
 ## 东方文花帖DS
-  
-  
-
-  
-
 
 ### 姬海棠果（姬海棠羽立）
+
 - ネンミン(Nenmin)氏制作 姬海棠果
 - 戯けた暇人氏(Himazin_Tawake)制作 はたてもどき(Hatate Modoki)
 - 秋マリオ氏(AutumnMario)制作 Hata-te
 - SuperMario193281氏制作 CSはたて(CS-Hatate)
 
-  
-  
-
-  
-
 
 ## 东方刚欲异闻
-  
-  
-
-  
-
 
 ### 饕餮尤魔
-  
-  
-
-  
-
 
 ## 妖精大战争
-  
-  
-
-  
-
 
 ### 露娜切露德
-  
-  
-
-  
-
 
 ### 斯塔萨菲雅
-  
-  
-
-  
-
 
 ### 桑尼米尔克
+
 - へちょ氏(hetyo)制作 桑尼米尔克
 - OTP氏制作 凶恶改变Brannen Rosso
 - Sophia Gryna(旧名:衛星玉)氏制作 ジェミニ ・スター(rena)
 - Digest@氏制作 Sweet Trinity
 
-  
-  
-
-  
-
 
 ## 秘封噩梦日记
-  
-  
-
-  
-
 
 ### 宇佐见堇子
+
 - Gudine氏制作 宇佐见堇子
 - 黑卷(BlackCurl)氏制作 宇佐见堇子
 - Ricepigeon氏制作 宇佐见堇子
 - にんにく氏(Ninnniku)制作 PsyフレームJK・Σ(Psy-Frame JK Sigma)
 
-  
-  
-
-  
-
 
 ## 东方萃梦想
-  
-  
-
-  
-
 
 ### 伊吹萃香
+
 - 苍月(Aotsuki)氏制作 萃梦想风格伊吹萃香
 - Ina氏制作 萃梦想风格伊吹萃香
 - 水影(Mikage)氏制作 绯想天风格伊吹萃香
@@ -2980,57 +2145,44 @@ MUGEN | 列表 | 需要完善的词条
 - gazelle氏制作 E_suika/everlasting suika
 - メイトル氏(Meitoru)制作 野獣妹(Yajyu Imouto)
 
-  
-  
-
-  
-
 
 ## 东方绯想天
-  
-  
-
-  
-
 
 ### 永江衣玖
-- クロガネ氏/黑铁氏(kurogane)制作　绯想天风格永江衣玖
-- nns氏制作　非想天则风格永江衣玖
-- ふるれ氏(frule)制作　零之永恒风格衣玖(EFZiku)
+
+- クロガネ氏/黑铁氏(kurogane)制作 绯想天风格永江衣玖
+- nns氏制作 非想天则风格永江衣玖
+- ふるれ氏(frule)制作 零之永恒风格衣玖(EFZiku)
 - Ricepigeon氏制作 Incident Zero风格衣玖(Iku_THIZ)
-- 卵寒天氏(Tamago Kanten)制作　天をも動かす美と知略の龍宮の使いイク(ikusan)
+- 卵寒天氏(Tamago Kanten)制作 天をも動かす美と知略の龍宮の使いイク(ikusan)
 - 紙豆腐(Himojoe)氏制作 フルムーン衣玖(Fullmoon_Iku)
 - TMTM氏制作 ky衣玖(IkuKy)
 - 未知作者制作 MB衣玖(MB_Iku)
-- M2pa氏制作　エレクトロ衣玖さん(E-Iku3)
-- Felicity氏制作　ソウル衣玖さん(Soul_Iku)
-- Lates氏制作　マガイク（仮）改め「鈿女（ウズメ）」(Uzume)
-- piyo氏制作　黒衣玖(Black Iku)
-- piyo氏制作　黒衣玖V2(Black Iku V2)
-- piyo氏制作　SS衣玖(ss-iku-v2)
-- プレート氏(pre-to)制作　クタニド(kthanid)
-- ABAB氏制作　荒れ狂う雷光の衣玖(Thunder-Iku)
-- トモッチ氏(tomottuxi)氏制作　アレンジ衣玖さん(Uzume)
-- 黒卷氏(BlackCurl)制作　风流衣玖(Furyu)
-- Deoxgigas氏制作　Resonance
-- 天魔氏(shadow)制作 	血衣玖(Blood lku)
-- にんにく氏(ninnniku)制作　雷様(kaminarisama)
-- にんにく氏(ninnniku)制作　台风193号(Typhoon193)
+- M2pa氏制作 エレクトロ衣玖さん(E-Iku3)
+- Felicity氏制作 ソウル衣玖さん(Soul_Iku)
+- Lates氏制作 マガイク（仮）改め「鈿女（ウズメ）」(Uzume)
+- piyo氏制作 黒衣玖(Black Iku)
+- piyo氏制作 黒衣玖V2(Black Iku V2)
+- piyo氏制作 SS衣玖(ss-iku-v2)
+- プレート氏(pre-to)制作 クタニド(kthanid)
+- ABAB氏制作 荒れ狂う雷光の衣玖(Thunder-Iku)
+- トモッチ氏(tomottuxi)氏制作 アレンジ衣玖さん(Uzume)
+- 黒卷氏(BlackCurl)制作 风流衣玖(Furyu)
+- Deoxgigas氏制作 Resonance
+- 天魔氏(shadow)制作 血衣玖(Blood lku)
+- にんにく氏(ninnniku)制作 雷様(kaminarisama)
+- にんにく氏(ninnniku)制作 台风193号(Typhoon193)
 - みかえる氏(MichaelArmaros)制作 02-Nameless/Fantasma
 - NemoGustab氏制作 落雷衣玖(TIKU)
 - Savant氏制作 炸鱼衣玖(愚人节礼物)
 - remira氏制作 flow iku
-- Rin &amp; Bat氏制作 tank/powertank
+- Rin & Bat氏制作 tank/powertank
 - カリン糖氏(karin-to)制作 紫雷的麒麟(VioletThunder_IKU)
-- soruzin氏制作　ハルファス衣玖(Ha_193/Halphas_Iku)
-
-  
-  
-
-  
+- soruzin氏制作 ハルファス衣玖(Ha_193/Halphas_Iku)
 
 
 ### 比那名居天子
+
 - gu氏制作 绯想天风格天子
 - nns氏制作 非想天则风格天子
 - ねむねむ(NemuNemu)氏/M3氏制作 凭依华原作风格天子
@@ -3082,7 +2234,7 @@ MUGEN | 列表 | 需要完善的词条
 - soruzin氏制作 ジルバ天子(Zilva Tenshi)
 - 黑卷(BlackCurl)氏制作 死神天子(Death Tenshi)
 - Deoxgigas氏制作 极光天子(Aurora Tenshi)
-- 黑卷(BlackCurl)氏 &amp; Mapelao氏制作 迂回彷徨的死星(DeathStarla)
+- 黑卷(BlackCurl)氏 & Mapelao氏制作 迂回彷徨的死星(DeathStarla)
 - かんなつき氏(Kannatsuki)制作 サンドバッグ天子ちゃん(S-Tenshi)
 - macbeth氏制作 白天子(W-tenko)
 - macbeth氏制作 女神天子(G-tenko)
@@ -3095,7 +2247,7 @@ MUGEN | 列表 | 需要完善的词条
 - 影缝氏(Kagenui)制作 Enuma Elish
 - piyo氏制作 绯天(Hiten)
 - 四大霊夢アイドル化計画会長(Mr.4dr)氏制作 堕天子(Datenko)
-- Mapelao氏制作　彩虹天子(Qesheth/Keshet)
+- Mapelao氏制作 彩虹天子(Qesheth/Keshet)
 - Infernal Spectre氏制作 闪电系天子(Tenshiel)
 - バルバトス氏(Barbatos/Barbatos_Goetia)制作 伊斯薇尔(Esverl)
 - 黑魔导士卡比(seilai)制作 小天子(Tiny_Tenko)
@@ -3109,77 +2261,40 @@ MUGEN | 列表 | 需要完善的词条
 - 觉氏(jue)制作 RM天子(RM-tenshi)
 - Hanayakuro氏制作 天児(Amagatsu)
 
-  
-  
-
-  
-
 
 ## 东方非想天则
-  
-  
-
-  
-
 
 ### 大鲶鱼
+
 - frule氏制作 大鲶鱼
-
-  
-  
-
-  
 
 
 ### 非想天则
-  
-  
-
-  
-
 
 ## 东方心绮楼
-  
-  
-
-  
-
 
 ### 秦心
+
 - ネンミン(Nenmin)氏制作 原作风格秦心
 - ねむねむ氏(NemuNemu)(旧称M3氏)制作 原作风格秦心
 - K2R氏制作 深秘录风格秦心
 - シェイ氏(Shey)制作 心绮楼风格秦心
 - へちょ氏(hetyo)制作 手描秦心
-- Deoxgigas氏制作  秦心(Umi no Kokoro)
+- Deoxgigas氏制作 秦心(Umi no Kokoro)
 - 觉氏(jue)制作 秦心(Kokoro_xin)
 - エメル氏(emeru)制作 天仙娘々(Tian-xian Niang-niang)
 - speldy氏制作 本気こころ(Honki_Kokoro)
-- 影縫氏(Kagenui)制作  オーメン(O-MEN)
+- 影縫氏(Kagenui)制作 オーメン(O-MEN)
 - EINZBERN氏制作 こころぴょんぴょん！(Kokoro Pyon!Pyon!)
 - JQKJ氏制作 RC秦心(RC-kokoro)
 
-  
-  
-
-  
-
 
 ## 东方凭依华
-  
-  
-
-  
-
 
 ### 依神女苑
-  
-  
-
-  
-
 
 ### 依神紫苑
+
 - 牛奶就是冰淇淋氏（Milk ice cream）制作 原作风 依神紫苑（Yorigami Shion） 已停止制作
 - Mojack氏制作 依神女苑＆紫苑
 - STG氏制作 恐怖的马拉莫斯(Haunted Merasmus)
@@ -3187,77 +2302,47 @@ MUGEN | 列表 | 需要完善的词条
 - MK氏制作 神级改变負の神(A_negative_god)
 - SuperMario193281氏制作 ストロング依神(Strong Yorigami/S-Yorigami)
 
-  
-  
-
-  
-
 
 ## 东方香霖堂
-  
-  
-
-  
-
 
 ### 森近霖之助
+
 - KON氏制作 森近霖之助
 - yano氏制作 ハーフ君1号(halfkun)
 - yano氏制作 ハーフ君2号(halfkun_2)
 - sou-shiki氏制作 幻想郷の王(!The king of fancy countryside)
 - 栄光夜(Eikouya -Night of Glory-)氏制作 漲近 霖之助(Minagirichika Rinnosuke)
 
-  
-  
-
-  
-
 
 ### 朱鹭子
+
 - へちょ氏(hetyo)氏制作 东方绯想天风朱鷺子
 - siocha氏制作 最終読書防衛システム(F_R_D_S)
 - siocha氏制作 STG朱鷺子
 - Nanachi氏制作 無月より蘇りし朱雀 朱鷺子(卍Si・tokikko卍)
 
-  
-  
-
-  
-
 
 ## 东方儚月抄
-  
-  
-
-  
-
 
 ### 绵月丰姬
+
 - minoo氏制作 绵月丰姬
 - Minoo氏+ejanho氏(LJH)制作 绵月丰姬
 - Space Mouse氏制作 minoo氏改变丰姬(WatatsukiNoToyohime)
-- シロト(shiroto)氏制作　MB丰姬(Toyohime_mb)
+- シロト(shiroto)氏制作 MB丰姬(Toyohime_mb)
 - SotF氏制作 凶恶改变沉默的蓝色公主(Silent_Blue_Princess)
-
-  
-  
-
-  
 
 
 ### 绵月依姬
+
 - minoo氏制作 绵月丰姬
 - シロト氏(shiroto)制作 MB依姫(Yorihime_mb)
 - アロイ(aroi1350)制作 欠陥品(Defective)
 - 圧縮箱(TUBURE/compressionbox)＆季節風(windofabyss)制作 S依姫(S_yorihime)
 
-  
-  
-
-  
-
 
 ### 铃仙二号
+
 - minoo氏制作 铃仙二号
 - Felicity氏制作 minoo氏改造陸戦型レイセン(Reisen_G)
 - 悪町龍千(ryusen)氏制作 不幸な監視者(Resurrection_reisen)
@@ -3266,246 +2351,120 @@ MUGEN | 列表 | 需要完善的词条
 - minoo氏制作 玉兎隊(gyokuto)
 - minoo氏制作 幸神レイセン(God Reisen)
 
-  
-  
-
-  
-
 
 ### 月兔
+
 - minoo氏制作（Rebbte）
-
-  
-  
-
-  
 
 
 ## 东方求闻史纪
-  
-  
-
-  
-
 
 ### 稗田阿求
+
 - 寝猫氏(Neneco)制作 稗田阿求
 - Nep Heart氏制作 稗田阿求
 - aaa氏制作 S阿求(S_AQN)
 - 衛星玉氏制作 神级改变Rudramaruti-AQ/Mary
 
-  
-  
-
-  
-
 
 ## 东方茨歌仙
-  
-  
-
-  
-
 
 ### 茨木华扇
+
 - Hetyo氏制作 茨木华扇
 - Deoxgigas氏制作 茨木华扇
 - レグ氏(Reg)制作 ムルティア(multia)
 - OWATANKS氏制作 塞卡贝尔(Sekhbell)
 - 未知作者制作 Jasen
 
-  
-  
-
-  
-
 
 ## 东方铃奈庵
-  
-  
-
-  
-
 
 ### 本居小铃
-  
-  
-
-  
-
 
 ### 易者
-  
-  
-
-  
-
 
 ## 东方醉蝶华
-  
-  
-
-  
-
 
 ### 奥野田美宵
-  
-  
-
-  
-
 
 ## 秘封俱乐部
-  
-  
-
-  
-
 
 ### 宇佐见莲子
-  
-  
-
-  
-
 
 ### 玛艾露贝莉·赫恩
-  
-  
-
-  
-
 
 ## 西方秋霜玉
-  
-  
-
-  
-
 
 ### VIVIT
+
 - Acht_10ko氏制作 Vivit-R
-
-  
-  
-
-  
 
 
 ## 其他
-  
-  
-
-  
-
 
 ### 冴月麟
+
 - へちょ氏(Hetyo)制作 冴月麟
-- MTK_D氏制作　紅月麟(Kogetsu_Lin)
+- MTK_D氏制作 紅月麟(Kogetsu_Lin)
 - 夕月氏(Yuuduki)制作 蒼月麟(lin_blue)
-- 混沌の理氏(Konton NO kotowarI)制作  毒麟(P-lin)
-
-  
-  
-
-  
+- 混沌の理氏(Konton NO kotowarI)制作 毒麟(P-lin)
 
 
 ### 天魔
+
 - プレート氏(pre-to)制作 天魔大人(tenma_sama)
-
-  
-  
-
-  
 
 
 ### 先代巫女
+
 - プレート氏(pre-to)制作 先代巫女(miko)
 - プレート氏(pre-to)制作 心绮楼风先代巫女(miko)
-- ひろひろ氏(Hirohiro)制作　SD巫女(SDmiko)
-- 貧乳派氏 &amp; 島村鰐氏(hinnnyuuha &amp; Wani_Shimamura)制作 手书高头身先代巫女(Sendai_Miko)
-
-  
-  
-
-  
+- ひろひろ氏(Hirohiro)制作 SD巫女(SDmiko)
+- 貧乳派氏 & 島村鰐氏(hinnnyuuha & Wani_Shimamura)制作 手书高头身先代巫女(Sendai_Miko)
 
 
 ### 毛玉
+
 - krn氏制作 毛玉(Kedama)
 - 七紙零(0-Saft)氏制作 ゆっくり毛玉(Y-Kedama)
 
-  
-  
-
-  
-
 
 ### 歌利亚人偶
+
 - soruzin氏制作 歌利亚人偶
 - Otto氏制作 歌利亚人偶
 - IF氏制作 歌利亚人偶
 
-  
-  
-
-  
-
 
 ### 魂魄妖忌
+
 - 雨树樱 枫险氏(NULL)制作 魂魄 妖云(Konpaku Youkumo)
-
-  
-  
-
-  
 
 
 ### 河城见取
+
 - 355氏制作 河城见取(mitori)
 - エトワール(Etoile)氏制作 改造河城见取(mitori)
 
-  
-  
-
-  
-
 
 ### 白狼天狗
+
 - リアス式海岸氏(ria-coarst)制作 白狼天狗
 - DHQ氏制作 改变白狼天狗
 
-  
-  
-
-  
-
 
 ### 妖精
+
 - Dark Ruler氏制作 拿花妖精(SunFlower Fairy)
-
-  
-  
-
-  
 
 
 ### 嫦娥
-  
-  
-
-  
-
 
 ### 水精灵
-  
-  
-
-  
-
 
 ### 爱丽丝的人偶
+
 - 蒼月(Aotsuki)氏制作 上海爱丽丝(Shanghai_Alice)
 - 祇園城 奏貴(Souki/Gionjou)氏制作 上海人形(Shanghai Doll)
 - IF氏制作 上海人形(SHANGHAI-IF/SHANGHAI)
@@ -3519,21 +2478,12 @@ MUGEN | 列表 | 需要完善的词条
 - C.ビーム(cycbeam)氏制作 亚米利加人形(hybrid)(实际上并不是爱丽丝的人偶,而是电索(Cable,漫威角色)和上海的女儿)
 - 未知作者制作 凶恶改造Failure of Alice
 
-  
-  
-
-  
-
 
 ### 杂项
+
 - ツキノア(tsukinoa)氏制作 地霊殿一面道中に出てくる岩(th11-1-iwa)
 - 觉氏(jue)制作 演出人物少女秘封组俱乐部(mfengzu/Absolute prevailing party)
 - lise+SS19999+NaGi+deng制作 演出人物幻想乡的恋爱(Gensoukyou-no-koi)
-
-  
-  
-
-  
 
 
 ## 补记
@@ -3652,7 +2602,7 @@ MUGEN | 列表 | 需要完善的词条
 - 风见氏(kazayuuka)制作 とま氏帕秋莉AI
 - ふるれ氏制作 ふるれ氏魔理沙AI
 - カサイ氏(tinshokutuu)制作 淡光氏菊理AI
-- カサイ氏(tinshokutuu)制作 貧乳派氏 &amp; 島村鰐氏先代巫女AI
+- カサイ氏(tinshokutuu)制作 貧乳派氏 & 島村鰐氏先代巫女AI
 - カサイ氏(tinshokutuu)制作 G-sho氏蓬莱山辉夜AI
 - カサイ氏(tinshokutuu)制作 豆大福氏丰聪耳神子AI
 - Air氏制作 烏丸スバル氏梦子AI
@@ -3691,7 +2641,7 @@ MUGEN | 列表 | 需要完善的词条
 (切干氏AI要使用与人物相对应的版本,同时禁止与实力差距过大的角色对战[爬塔类的可能要注意一下,但是剧情向允许])
   
 
-- 斑鸠氏制作 貧乳派氏 &amp; 島村鰐氏先代巫女AI
+- 斑鸠氏制作 貧乳派氏 & 島村鰐氏先代巫女AI
 - Y.K氏制作 リアス式海岸氏油库里露米娅AI
 - 森の中氏制作 リアス式海岸氏油库里露米娅AI
 - Silvan氏制作 minoo氏绵月丰姬AI
@@ -3755,21 +2705,19 @@ MUGEN | 列表 | 需要完善的词条
 
 
 ### 图像补丁
+
 - Mo_Mo氏制作 Nachel氏灵梦高清素材补丁
 - Third氏制作 Third氏妖夢DB素材修正补丁
 - Xenomic氏制作 东方一些人物的迪米特里午夜赐福和电击对应演出补丁
 
   
-注:mugen名对策之一,在格斗游戏&lt;&lt;恶魔战士&gt;&gt;里迪米特里午夜赐福的技能会使人物强行变装,知名的"暴风子"人物来源就是高尼茨的午夜赐福的变装
+注:mugen名对策之一,在格斗游戏<<恶魔战士>>里迪米特里午夜赐福的技能会使人物强行变装,知名的"暴风子"人物来源就是高尼茨的午夜赐福的变装
   
 
-
 ## 外部链接
+
 - [niconicomugen维基(有大量包含东方mugen相关的信息 日文)](https://w.atwiki.jp/niconicomugen/)
 - [mugen free for all的东方mugen整理板块(内含大量东方mugen资源的整理与收集 英文)](https://mugenfreeforall.com/topic/8257-touhou-project/)
-
-
-
 
 
 ---

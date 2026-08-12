@@ -1,6 +1,6 @@
 # 文件:デジウィ令和_Instrumental封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\25\ns6%3A%E3%83%87%E3%82%B8%E3%82%A6%E3%82%A3%E4%BB%A4%E5%92%8C_Instrumental%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\25\ns6%3A%E3%83%87%E3%82%B8%E3%82%A6%E3%82%A3%E4%BB%A4%E5%92%8C_Instrumental%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 DiGiTAL_WiNG | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ DiGiTAL_WiNG | 专辑封面 | 封面图片
   
 
 - [デジウィ令和 Instrumental](./デジウィ令和_Instrumental.md)
-
-
-
 
 
 ---

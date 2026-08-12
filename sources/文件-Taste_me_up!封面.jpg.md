@@ -1,6 +1,6 @@
 # 文件:Taste_me_up!封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\be\ns6%3ATaste_me_up%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\be\ns6%3ATaste_me_up%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 DiGiTAL_WiNG | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ DiGiTAL_WiNG | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Taste me up!](./Taste_me_up!.md)  
-该封面包含的角色：- 原创角色 (未找到链接)
+- [Taste me up!](./Taste_me_up!.md)该封面包含的角色：
+- 原创角色 (未找到链接)
 
   
-源地址：[[1]](http://digital-wing.net/wordpress/wp-content/uploads/2016/04/DWCD-0026_Jacket.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://digital-wing.net/wordpress/wp-content/uploads/2016/04/DWCD-0026_Jacket.jpg)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:～COLOR_DREAM～夢色地霊殿封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a5\ns6%3A%EF%BD%9ECOLOR_DREAM%EF%BD%9E%E5%A4%A2%E8%89%B2%E5%9C%B0%E9%9C%8A%E6%AE%BF%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a5\ns6%3A%EF%BD%9ECOLOR_DREAM%EF%BD%9E%E5%A4%A2%E8%89%B2%E5%9C%B0%E9%9C%8A%E6%AE%BF%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ロリエース | 同人志封面 | 封面图片
 
@@ -10,11 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [～COLOR DREAM～夢色地霊殿](./～COLOR_DREAM～夢色地霊殿.md)  
-该封面包含的角色：- [古明地觉](./古明地觉.md)- [火焰猫燐](./火焰猫燐.md)- [灵乌路空](./灵乌路空.md)- [古明地恋](./古明地恋.md)
-
-
-
+- [～COLOR DREAM～夢色地霊殿](./～COLOR_DREAM～夢色地霊殿.md)该封面包含的角色：
+- [古明地觉](./古明地觉.md)
+- [火焰猫燐](./火焰猫燐.md)
+- [灵乌路空](./灵乌路空.md)
+- [古明地恋](./古明地恋.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Beyond_the_Rainbow封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\40\ns6%3ABeyond_the_Rainbow%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\40\ns6%3ABeyond_the_Rainbow%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Amateras_Records | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Amateras_Records | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Beyond the Rainbow](./Beyond_the_Rainbow.md)  
-该封面包含的角色：- [天弓千亦](./天弓千亦.md)
-
-
-
+- [Beyond the Rainbow](./Beyond_the_Rainbow.md)该封面包含的角色：
+- [天弓千亦](./天弓千亦.md)
 
 
 ---

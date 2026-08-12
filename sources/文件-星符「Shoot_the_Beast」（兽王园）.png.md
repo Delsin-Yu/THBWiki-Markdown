@@ -1,12 +1,8 @@
 # 文件:星符「Shoot_the_Beast」（兽王园）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d9\ns6%3A%E6%98%9F%E7%AC%A6%E3%80%8CShoot_the_Beast%E3%80%8D%EF%BC%88%E5%85%BD%E7%8E%8B%E5%9B%AD%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d9\ns6%3A%E6%98%9F%E7%AC%A6%E3%80%8CShoot_the_Beast%E3%80%8D%EF%BC%88%E5%85%BD%E7%8E%8B%E5%9B%AD%EF%BC%89%2Epng.html -->
 
 东方兽王园 | 自机符卡 | 雾雨魔理沙
-
-
-
-
 
 
 ---

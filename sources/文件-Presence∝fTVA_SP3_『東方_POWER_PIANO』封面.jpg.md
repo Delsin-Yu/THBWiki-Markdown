@@ -1,6 +1,6 @@
 # 文件:Presence∝fTVA_SP3_『東方_POWER_PIANO』封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\63\ns6%3APresence%E2%88%9DfTVA_SP3_%E3%80%8E%E6%9D%B1%E6%96%B9_POWER_PIANO%E3%80%8F%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\63\ns6%3APresence%E2%88%9DfTVA_SP3_%E3%80%8E%E6%9D%B1%E6%96%B9_POWER_PIANO%E3%80%8F%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Presence∝fTVA | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Presence∝fTVA | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Presence∝fTVA SP3 『東方 POWER PIANO』](./Presence∝fTVA_SP3_『東方_POWER_PIANO』.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [Presence∝fTVA SP3 『東方 POWER PIANO』](./Presence∝fTVA_SP3_『東方_POWER_PIANO』.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

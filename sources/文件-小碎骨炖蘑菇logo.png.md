@@ -1,16 +1,12 @@
 # 文件:小碎骨炖蘑菇logo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\29\ns6%3A%E5%B0%8F%E7%A2%8E%E9%AA%A8%E7%82%96%E8%98%91%E8%8F%87logo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\29\ns6%3A%E5%B0%8F%E7%A2%8E%E9%AA%A8%E7%82%96%E8%98%91%E8%8F%87logo%2Epng.html -->
 
 小碎骨炖蘑菇 | 社团LOGO
 
   
 小碎骨炖蘑菇社团标志
   
-
-
-
-
 
 ---
 

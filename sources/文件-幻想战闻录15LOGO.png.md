@@ -1,12 +1,8 @@
 # 文件:幻想战闻录15LOGO.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9c\ns6%3A%E5%B9%BB%E6%83%B3%E6%88%98%E9%97%BB%E5%BD%9515LOGO%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9c\ns6%3A%E5%B9%BB%E6%83%B3%E6%88%98%E9%97%BB%E5%BD%9515LOGO%2Epng.html -->
 
 幻想战闻录 | 活动LOGO
-
-
-
-
 
 
 ---

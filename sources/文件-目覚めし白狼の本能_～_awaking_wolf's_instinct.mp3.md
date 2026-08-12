@@ -1,16 +1,12 @@
 # 文件:目覚めし白狼の本能_～_awaking_wolf's_instinct.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a2\ns6%3A%E7%9B%AE%E8%A6%9A%E3%82%81%E3%81%97%E7%99%BD%E7%8B%BC%E3%81%AE%E6%9C%AC%E8%83%BD_%EF%BD%9E_awaking_wolf%27s_instinct%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a2\ns6%3A%E7%9B%AE%E8%A6%9A%E3%82%81%E3%81%97%E7%99%BD%E7%8B%BC%E3%81%AE%E6%9C%AC%E8%83%BD_%EF%BD%9E_awaking_wolf%27s_instinct%2Emp3.html -->
 
 戦ピー
 
   
 翻译过来是“觉醒白狼的本能～awaking wolf's instinct”，东方风神录PHBoss（同人）犬走椛的主题曲。
   
-
-
-
-
 
 ---
 

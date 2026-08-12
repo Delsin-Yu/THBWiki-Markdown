@@ -1,16 +1,12 @@
 # 文件:精神幻想入治療處logo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ca\ns6%3A%E7%B2%BE%E7%A5%9E%E5%B9%BB%E6%83%B3%E5%85%A5%E6%B2%BB%E7%99%82%E8%99%95logo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ca\ns6%3A%E7%B2%BE%E7%A5%9E%E5%B9%BB%E6%83%B3%E5%85%A5%E6%B2%BB%E7%99%82%E8%99%95logo%2Epng.html -->
 
 社团LOGO | 精神幻想入治療處LawNews
 
   
 精神幻想入治療處
   
-
-
-
-
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:EUROBEAT_HOLIC'_-THE_ARCADE-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3a\ns6%3AEUROBEAT_HOLIC%27_-THE_ARCADE-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3a\ns6%3AEUROBEAT_HOLIC%27_-THE_ARCADE-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Eurobeat_Union | SOUND_HOLIC | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Eurobeat_Union | SOUND_HOLIC | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [EUROBEAT HOLIC' -THE ARCADE-](./EUROBEAT_HOLIC'_-THE_ARCADE-.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [EUROBEAT HOLIC' -THE ARCADE-](./EUROBEAT_HOLIC'_-THE_ARCADE-.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

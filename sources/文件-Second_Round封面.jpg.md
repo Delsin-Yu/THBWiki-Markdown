@@ -1,6 +1,6 @@
 # 文件:Second_Round封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\65\ns6%3ASecond_Round%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\65\ns6%3ASecond_Round%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 GET_IN_THE_RING | 专辑封面 | 封面图片
 
@@ -8,11 +8,10 @@ GET_IN_THE_RING | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Second Round](./Second_Round.md)  
-该封面包含的角色：- [鬼人正邪](./鬼人正邪.md)- [少名针妙丸](./少名针妙丸.md)- [堀川雷鼓](./堀川雷鼓.md)
-
-
-
+- [Second Round](./Second_Round.md)该封面包含的角色：
+- [鬼人正邪](./鬼人正邪.md)
+- [少名针妙丸](./少名针妙丸.md)
+- [堀川雷鼓](./堀川雷鼓.md)
 
 
 ---

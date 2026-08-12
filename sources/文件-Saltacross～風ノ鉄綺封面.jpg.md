@@ -1,6 +1,6 @@
 # 文件:Saltacross～風ノ鉄綺封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ed\ns6%3ASaltacross%EF%BD%9E%E9%A2%A8%E3%83%8E%E9%89%84%E7%B6%BA%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ed\ns6%3ASaltacross%EF%BD%9E%E9%A2%A8%E3%83%8E%E9%89%84%E7%B6%BA%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Re：Volte | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Re：Volte | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Saltacross～風ノ鉄綺](./Saltacross～風ノ鉄綺.md)  
-该封面包含的角色：- [洩矢诹访子](./洩矢诹访子.md)
-
-
-
+- [Saltacross～風ノ鉄綺](./Saltacross～風ノ鉄綺.md)该封面包含的角色：
+- [洩矢诹访子](./洩矢诹访子.md)
 
 
 ---

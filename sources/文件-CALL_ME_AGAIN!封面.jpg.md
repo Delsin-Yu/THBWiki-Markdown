@@ -1,6 +1,6 @@
 # 文件:CALL_ME_AGAIN!封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2a\ns6%3ACALL_ME_AGAIN%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2a\ns6%3ACALL_ME_AGAIN%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 SNUG_SPACE | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ SNUG_SPACE | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [CALL ME AGAIN!](./CALL_ME_AGAIN!.md)  
-该封面包含的角色：- [幽谷响子](./幽谷响子.md)
-
-
-
+- [CALL ME AGAIN!](./CALL_ME_AGAIN!.md)该封面包含的角色：
+- [幽谷响子](./幽谷响子.md)
 
 
 ---

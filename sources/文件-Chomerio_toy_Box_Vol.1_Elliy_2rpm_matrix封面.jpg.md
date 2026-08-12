@@ -1,6 +1,6 @@
 # 文件:Chomerio_toy_Box_Vol.1_Elliy_2rpm_matrix封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d2\ns6%3AChomerio_toy_Box_Vol%2E1_Elliy_2rpm_matrix%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d2\ns6%3AChomerio_toy_Box_Vol%2E1_Elliy_2rpm_matrix%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Chomerio | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Chomerio | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Chomerio toy Box Vol.1 Elliy 2rpm matrix](./Chomerio_toy_Box_Vol.1_Elliy_2rpm_matrix.md)  
-该封面包含的角色：- [艾丽](./艾丽.md)
-
-
-
+- [Chomerio toy Box Vol.1 Elliy 2rpm matrix](./Chomerio_toy_Box_Vol.1_Elliy_2rpm_matrix.md)该封面包含的角色：
+- [艾丽](./艾丽.md)
 
 
 ---

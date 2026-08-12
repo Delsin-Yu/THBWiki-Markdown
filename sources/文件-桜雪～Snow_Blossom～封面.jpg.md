@@ -1,6 +1,6 @@
 # 文件:桜雪～Snow_Blossom～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\24\ns6%3A%E6%A1%9C%E9%9B%AA%EF%BD%9ESnow_Blossom%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\24\ns6%3A%E6%A1%9C%E9%9B%AA%EF%BD%9ESnow_Blossom%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 DeZI：R | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ DeZI：R | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [桜雪～Snow Blossom～](./桜雪～Snow_Blossom～.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [桜雪～Snow Blossom～](./桜雪～Snow_Blossom～.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

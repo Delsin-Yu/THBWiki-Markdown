@@ -1,12 +1,8 @@
 # 文件:juda's_beatsbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3a\ns6%3Ajuda%27s_beatsbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3a\ns6%3Ajuda%27s_beatsbanner%2Ejpg.html -->
 
 juda's_beats | 社团LOGO
-
-
-
-
 
 
 ---

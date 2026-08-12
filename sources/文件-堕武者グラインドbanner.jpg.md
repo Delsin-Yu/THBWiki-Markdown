@@ -1,16 +1,11 @@
 # 文件:堕武者グラインドbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\00\ns6%3A%E5%A0%95%E6%AD%A6%E8%80%85%E3%82%B0%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%89banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\00\ns6%3A%E5%A0%95%E6%AD%A6%E8%80%85%E3%82%B0%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%89banner%2Ejpg.html -->
 
 堕武者グラインド | 社团LOGO
 
   
-源地址:[[1]](https://static.wixstatic.com/media/f6614a_ee647bb363b545b2bd3e7f8a3766a580.jpg/v1/fill/w_159,h_156,al_c,q_90/f6614a_ee647bb363b545b2bd3e7f8a3766a580.jpg)
-  
-
-
-
-
+源地址:[\[1\]](https://static.wixstatic.com/media/f6614a_ee647bb363b545b2bd3e7f8a3766a580.jpg/v1/fill/w_159,h_156,al_c,q_90/f6614a_ee647bb363b545b2bd3e7f8a3766a580.jpg)  
 
 ---
 

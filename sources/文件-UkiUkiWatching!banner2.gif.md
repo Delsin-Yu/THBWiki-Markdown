@@ -1,14 +1,11 @@
 # 文件:UkiUkiWatching!banner2.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\25\ns6%3AUkiUkiWatching%21banner2%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\25\ns6%3AUkiUkiWatching%21banner2%2Egif.html -->
 
 UkiUkiWatching! | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

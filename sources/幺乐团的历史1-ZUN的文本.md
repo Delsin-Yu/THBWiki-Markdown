@@ -1,10 +1,11 @@
 # 幺乐团的历史1/ZUN的文本
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\0f\ns0%3A%E5%B9%BA%E4%B9%90%E5%9B%A2%E7%9A%84%E5%8E%86%E5%8F%B21%2FZUN%E7%9A%84%E6%96%87%E6%9C%AC.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\0f\ns0%3A%E5%B9%BA%E4%B9%90%E5%9B%A2%E7%9A%84%E5%8E%86%E5%8F%B21%2FZUN%E7%9A%84%E6%96%87%E6%9C%AC.html -->
 
 使用了翻译表的页面 | 官方音乐CD文档 | 官方音乐光盘 | 幺乐团的历史 | 幺乐团的历史1 | 引用了翻译表的页面 | 稗田阿求
 
-- 本页面内容为官方音乐CD **幺乐团的历史1** 的附带文档的原文与翻译以及光盘的扫图。
+
+- 本页面内容为官方音乐CD**幺乐团的历史1**的附带文档的原文与翻译以及光盘的扫图。
 
 
 ## 光盘扫图
@@ -13,74 +14,31 @@
 <tbody><tr><th colspan="2">包含角色信息</th></tr><tr><td style="min-width:60px;"><b>作品序号</b></td><td>ZCDS-0005,0006</td></tr><tr><td><b>封面角色</b></td><td><a href="./稗田阿求.md" title="稗田阿求">稗田阿求</a></td></tr><tr><td><b>碟面角色</b></td><td><a href="./稗田阿求.md" title="稗田阿求">稗田阿求</a></td></tr></tbody></table>
 
 
-
 ### 外面
-
-
-
-[](./文件-幺乐团的历史1cover4.png.md)
-
+<img alt="后面" src="https://upload.thwiki.cc/thumb/c/ca/%E5%B9%BA%E4%B9%90%E5%9B%A2%E7%9A%84%E5%8E%86%E5%8F%B21cover4.png/303px-%E5%B9%BA%E4%B9%90%E5%9B%A2%E7%9A%84%E5%8E%86%E5%8F%B21cover4.png" decoding="async" loading="lazy" width="303" height="241" srcset="https://upload.thwiki.cc/thumb/c/ca/%E5%B9%BA%E4%B9%90%E5%9B%A2%E7%9A%84%E5%8E%86%E5%8F%B21cover4.png/455px-%E5%B9%BA%E4%B9%90%E5%9B%A2%E7%9A%84%E5%8E%86%E5%8F%B21cover4.png 1.5x, https://upload.thwiki.cc/thumb/c/ca/%E5%B9%BA%E4%B9%90%E5%9B%A2%E7%9A%84%E5%8E%86%E5%8F%B21cover4.png/606px-%E5%B9%BA%E4%B9%90%E5%9B%A2%E7%9A%84%E5%8E%86%E5%8F%B21cover4.png 2x" data-file-width="3513" data-file-height="2799">
 后面
-
-
-[](./文件-幺乐团的历史1side.png.md)
+<img alt="侧封" src="https://upload.thwiki.cc/thumb/0/0d/%E5%B9%BA%E4%B9%90%E5%9B%A2%E7%9A%84%E5%8E%86%E5%8F%B21side.png/140px-%E5%B9%BA%E4%B9%90%E5%9B%A2%E7%9A%84%E5%8E%86%E5%8F%B21side.png" decoding="async" loading="lazy" width="140" height="241" srcset="https://upload.thwiki.cc/thumb/0/0d/%E5%B9%BA%E4%B9%90%E5%9B%A2%E7%9A%84%E5%8E%86%E5%8F%B21side.png/210px-%E5%B9%BA%E4%B9%90%E5%9B%A2%E7%9A%84%E5%8E%86%E5%8F%B21side.png 1.5x, https://upload.thwiki.cc/thumb/0/0d/%E5%B9%BA%E4%B9%90%E5%9B%A2%E7%9A%84%E5%8E%86%E5%8F%B21side.png/280px-%E5%B9%BA%E4%B9%90%E5%9B%A2%E7%9A%84%E5%8E%86%E5%8F%B21side.png 2x" data-file-width="1635" data-file-height="2809">
 侧封
-
-
-[](./文件-幺乐团的历史1cover1.png.md)
+<img alt="前面" src="https://upload.thwiki.cc/thumb/9/99/%E5%B9%BA%E4%B9%90%E5%9B%A2%E7%9A%84%E5%8E%86%E5%8F%B21cover1.png/243px-%E5%B9%BA%E4%B9%90%E5%9B%A2%E7%9A%84%E5%8E%86%E5%8F%B21cover1.png" decoding="async" loading="lazy" width="243" height="241" srcset="https://upload.thwiki.cc/thumb/9/99/%E5%B9%BA%E4%B9%90%E5%9B%A2%E7%9A%84%E5%8E%86%E5%8F%B21cover1.png/365px-%E5%B9%BA%E4%B9%90%E5%9B%A2%E7%9A%84%E5%8E%86%E5%8F%B21cover1.png 1.5x, https://upload.thwiki.cc/thumb/9/99/%E5%B9%BA%E4%B9%90%E5%9B%A2%E7%9A%84%E5%8E%86%E5%8F%B21cover1.png/486px-%E5%B9%BA%E4%B9%90%E5%9B%A2%E7%9A%84%E5%8E%86%E5%8F%B21cover1.png 2x" data-file-width="2826" data-file-height="2799">
 前面
-
-
-
-
 
 <table><tbody><tr class="tt-content" id="外面-1" data-pos="&#91;&quot;\u5916\u9762&quot;,1&#93;"><td class="tt-ja" lang="ja"><div class="poem"><big>幺樂——それは消え入りそうな音樂、ここではFM音源を指す<br>紅茶好きな阿求の懐古コレクション第一弾！</big></div></td><td class="tt-zh" lang="zh"><div class="poem"><big>幺乐——那是近乎消失的音乐，在这里指的是FM音源<br>喜欢红茶的阿求的怀古收藏第一弹！</big><br></div></td></tr><tr class="tt-content" id="外面-2" data-pos="&#91;&quot;\u5916\u9762&quot;,2&#93;"><td class="tt-ja" lang="ja"><div class="poem"><big>幺樂団の歴史　「東方幻想郷　～ Lotus Land Story」</big></div></td><td class="tt-zh" lang="zh"><div class="poem"><big>幺乐团的历史　「东方幻想乡　～ Lotus Land Story」</big></div></td></tr></tbody></table>
 
 
-
 ### 内面与碟面
-
-
-
-[](./文件-幺乐团的历史1cover3.png.md)
-
+<img alt="后面" src="https://upload.thwiki.cc/thumb/6/63/%E5%B9%BA%E4%B9%90%E5%9B%A2%E7%9A%84%E5%8E%86%E5%8F%B21cover3.png/300px-%E5%B9%BA%E4%B9%90%E5%9B%A2%E7%9A%84%E5%8E%86%E5%8F%B21cover3.png" decoding="async" loading="lazy" width="300" height="239" srcset="https://upload.thwiki.cc/thumb/6/63/%E5%B9%BA%E4%B9%90%E5%9B%A2%E7%9A%84%E5%8E%86%E5%8F%B21cover3.png/450px-%E5%B9%BA%E4%B9%90%E5%9B%A2%E7%9A%84%E5%8E%86%E5%8F%B21cover3.png 1.5x, https://upload.thwiki.cc/thumb/6/63/%E5%B9%BA%E4%B9%90%E5%9B%A2%E7%9A%84%E5%8E%86%E5%8F%B21cover3.png/600px-%E5%B9%BA%E4%B9%90%E5%9B%A2%E7%9A%84%E5%8E%86%E5%8F%B21cover3.png 2x" data-file-width="3513" data-file-height="2799">
 后面
-
-
-[](./文件-幺乐团的历史1cover2.png.md)
+<img alt="前面" src="https://upload.thwiki.cc/thumb/8/8d/%E5%B9%BA%E4%B9%90%E5%9B%A2%E7%9A%84%E5%8E%86%E5%8F%B21cover2.png/240px-%E5%B9%BA%E4%B9%90%E5%9B%A2%E7%9A%84%E5%8E%86%E5%8F%B21cover2.png" decoding="async" loading="lazy" width="240" height="238" srcset="https://upload.thwiki.cc/thumb/8/8d/%E5%B9%BA%E4%B9%90%E5%9B%A2%E7%9A%84%E5%8E%86%E5%8F%B21cover2.png/360px-%E5%B9%BA%E4%B9%90%E5%9B%A2%E7%9A%84%E5%8E%86%E5%8F%B21cover2.png 1.5x, https://upload.thwiki.cc/thumb/8/8d/%E5%B9%BA%E4%B9%90%E5%9B%A2%E7%9A%84%E5%8E%86%E5%8F%B21cover2.png/480px-%E5%B9%BA%E4%B9%90%E5%9B%A2%E7%9A%84%E5%8E%86%E5%8F%B21cover2.png 2x" data-file-width="2826" data-file-height="2799">
 前面
-
-
-[](./文件-幺乐团的历史1disc1.jpg.md)
+<img alt="碟面" src="https://upload.thwiki.cc/thumb/9/91/%E5%B9%BA%E4%B9%90%E5%9B%A2%E7%9A%84%E5%8E%86%E5%8F%B21disc1.jpg/238px-%E5%B9%BA%E4%B9%90%E5%9B%A2%E7%9A%84%E5%8E%86%E5%8F%B21disc1.jpg" decoding="async" loading="lazy" width="238" height="238" srcset="https://upload.thwiki.cc/thumb/9/91/%E5%B9%BA%E4%B9%90%E5%9B%A2%E7%9A%84%E5%8E%86%E5%8F%B21disc1.jpg/357px-%E5%B9%BA%E4%B9%90%E5%9B%A2%E7%9A%84%E5%8E%86%E5%8F%B21disc1.jpg 1.5x, https://upload.thwiki.cc/thumb/9/91/%E5%B9%BA%E4%B9%90%E5%9B%A2%E7%9A%84%E5%8E%86%E5%8F%B21disc1.jpg/476px-%E5%B9%BA%E4%B9%90%E5%9B%A2%E7%9A%84%E5%8E%86%E5%8F%B21disc1.jpg 2x" data-file-width="600" data-file-height="600">
 碟面
-
-
-[](./文件-幺乐团的历史1disc2.jpg.md)
+<img alt="碟面" src="https://upload.thwiki.cc/thumb/3/3a/%E5%B9%BA%E4%B9%90%E5%9B%A2%E7%9A%84%E5%8E%86%E5%8F%B21disc2.jpg/238px-%E5%B9%BA%E4%B9%90%E5%9B%A2%E7%9A%84%E5%8E%86%E5%8F%B21disc2.jpg" decoding="async" loading="lazy" width="238" height="238" srcset="https://upload.thwiki.cc/thumb/3/3a/%E5%B9%BA%E4%B9%90%E5%9B%A2%E7%9A%84%E5%8E%86%E5%8F%B21disc2.jpg/357px-%E5%B9%BA%E4%B9%90%E5%9B%A2%E7%9A%84%E5%8E%86%E5%8F%B21disc2.jpg 1.5x, https://upload.thwiki.cc/thumb/3/3a/%E5%B9%BA%E4%B9%90%E5%9B%A2%E7%9A%84%E5%8E%86%E5%8F%B21disc2.jpg/476px-%E5%B9%BA%E4%B9%90%E5%9B%A2%E7%9A%84%E5%8E%86%E5%8F%B21disc2.jpg 2x" data-file-width="1439" data-file-height="1439">
 碟面
-
-
-
-
 
 <table><tbody><tr class="tt-content" id="=-1" data-pos="&#91;&quot;=&quot;,1&#93;"><td class="tt-ja" lang="ja"><div class="poem">幺樂（ようがく）とは、今にも消え入りそうな音楽、ここではFM音源を指す。その昔、幻想郷には幺樂団と呼ばれるFM音源をこよなく愛した楽団がいた。</div></td><td class="tt-zh" lang="zh"><div class="poem">所谓幺乐，即现在近乎消失的音乐，在这里指的是FM音源。从前，在幻想乡有一个被称为幺乐团的极为喜爱FM音源的乐团。</div></td></tr><tr class="tt-content" id="=-2" data-pos="&#91;&quot;=&quot;,2&#93;"><td class="tt-ja" lang="ja"><div class="poem">この幺樂団が残した曲の歴史を、録音し、幻想郷縁起に残す。</div></td><td class="tt-zh" lang="zh"><div class="poem">这个幺乐团所残留的曲子的历史被记录了下来，并保留在了幻想乡缘起里。</div></td></tr><tr class="tt-content-right" id="=-3" data-pos="&#91;&quot;=&quot;,3&#93;"><td class="tt-jar" lang="ja"><div class="poem"><b>九代目阿礼乙女　阿求</b></div></td><td class="tt-zhr" lang="zh"><div class="poem"><b>第九代阿礼少女　阿求</b> <br><br></div></td></tr></tbody></table>
 
 
-  
-  
-
-  
-
-
 <table><tbody><tr class="tt-content-header" id="内面与碟面-1" data-pos="&#91;&quot;\u5185\u9762\u4e0e\u789f\u9762&quot;,1&#93;"><td class="tt-jah" lang="ja"><div class="poem">あとがき</div></td><td class="tt-zhh" lang="zh"><div class="poem">后记</div></td></tr><tr class="tt-content" id="内面与碟面-2" data-pos="&#91;&quot;\u5185\u9762\u4e0e\u789f\u9762&quot;,2&#93;"><td class="tt-ja" lang="ja"><div class="poem">　稗田阿求（ひえだのあきゅう）のコレクションより、幺樂団の歴史です。</div></td><td class="tt-zh" lang="zh"><div class="poem">　这是根据稗田阿求的收藏而来的幺乐团的历史。</div></td></tr><tr class="tt-content" id="内面与碟面-3" data-pos="&#91;&quot;\u5185\u9762\u4e0e\u789f\u9762&quot;,3&#93;"><td class="tt-ja" lang="ja"><div class="poem">　第一弾は東方幻想郷のサントラです。ただのサントラじゃなくて、効果音に使っていたパートも解放して、フルパワーで手直ししました。</div></td><td class="tt-zh" lang="zh"><div class="poem">　第一卷是东方幻想乡的原声曲。这不是一般的原声曲，使用了效果音的部分现在也开放了，并且已经用全力修改过了。</div></td></tr><tr class="tt-content" id="内面与碟面-4" data-pos="&#91;&quot;\u5185\u9762\u4e0e\u789f\u9762&quot;,4&#93;"><td class="tt-ja" lang="ja"><div class="poem">　</div></td><td class="tt-zh" lang="zh"><div class="poem">　</div></td></tr><tr class="tt-content" id="内面与碟面-5" data-pos="&#91;&quot;\u5185\u9762\u4e0e\u789f\u9762&quot;,5&#93;"><td class="tt-ja" lang="ja"><div class="poem">　この阿求が何者かというと、一度見た物を忘れない程度の能力を持つ、ちょっと変わった人間ですが、良い奴です。いやほんと。<small>幺樂団を知ってるしね。</small></div></td><td class="tt-zh" lang="zh"><div class="poem">　说到这个阿求是谁的话，她有着过目不忘的能力，和普通人有点不同，不过是个好人。呀，说真的呢。<small>她很了解幺乐团呢。</small></div></td></tr><tr class="tt-content-right" id="内面与碟面-6" data-pos="&#91;&quot;\u5185\u9762\u4e0e\u789f\u9762&quot;,6&#93;"><td class="tt-jar" lang="ja"><div class="poem">上海アリス幻樂団　ＺＵＮ （詳しくは夏に）</div></td><td class="tt-zhr" lang="zh"><div class="poem">上海爱丽丝幻乐团　ＺＵＮ （欲详于夏）</div></td></tr></tbody></table>
-
-
-  
-  
-
-  
-
-
-
 
 
 ---

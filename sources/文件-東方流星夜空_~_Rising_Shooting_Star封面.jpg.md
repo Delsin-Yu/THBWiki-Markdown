@@ -1,6 +1,6 @@
 # 文件:東方流星夜空_~_Rising_Shooting_Star封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4d\ns6%3A%E6%9D%B1%E6%96%B9%E6%B5%81%E6%98%9F%E5%A4%9C%E7%A9%BA_%7E_Rising_Shooting_Star%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4d\ns6%3A%E6%9D%B1%E6%96%B9%E6%B5%81%E6%98%9F%E5%A4%9C%E7%A9%BA_%7E_Rising_Shooting_Star%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 EZ_Life | 专辑封面 | 封面图片
 
@@ -10,11 +10,9 @@ EZ_Life | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方流星夜空 ~ Rising Shooting Star](./東方流星夜空_~_Rising_Shooting_Star.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [東方流星夜空 ~ Rising Shooting Star](./東方流星夜空_~_Rising_Shooting_Star.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

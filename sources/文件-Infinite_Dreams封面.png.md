@@ -1,6 +1,6 @@
 # 文件:Infinite_Dreams封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cb\ns6%3AInfinite_Dreams%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cb\ns6%3AInfinite_Dreams%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Frozen_Starfall | 专辑封面 | 封面图片
 
@@ -10,16 +10,12 @@ Frozen_Starfall | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Infinite Dreams](./Infinite_Dreams.md)  
-该封面包含的角色：- [赫卡提亚·拉碧斯拉祖利](./赫卡提亚·拉碧斯拉祖利.md)
+- [Infinite Dreams](./Infinite_Dreams.md)该封面包含的角色：
+- [赫卡提亚·拉碧斯拉祖利](./赫卡提亚·拉碧斯拉祖利.md)
 
   
 源地址：[from circle website](https://frozenstarfall.net/wp-content/uploads/2020/12/cover-768x762.jpg) (converted from webp)
   
-
-
-
-
 
 ---
 

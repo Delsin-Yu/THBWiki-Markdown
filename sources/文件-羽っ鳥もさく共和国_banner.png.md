@@ -1,12 +1,8 @@
 # 文件:羽っ鳥もさく共和国_banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\01\ns6%3A%E7%BE%BD%E3%81%A3%E9%B3%A5%E3%82%82%E3%81%95%E3%81%8F%E5%85%B1%E5%92%8C%E5%9B%BD_banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\01\ns6%3A%E7%BE%BD%E3%81%A3%E9%B3%A5%E3%82%82%E3%81%95%E3%81%8F%E5%85%B1%E5%92%8C%E5%9B%BD_banner%2Epng.html -->
 
 社团LOGO | 羽っ鳥もさく共和国
-
-
-
-
 
 
 ---

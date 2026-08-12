@@ -1,12 +1,8 @@
 # 文件:Zea_Maysbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a6\ns6%3AZea_Maysbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a6\ns6%3AZea_Maysbanner%2Epng.html -->
 
 Zea_Mays | 社团LOGO
-
-
-
-
 
 
 ---

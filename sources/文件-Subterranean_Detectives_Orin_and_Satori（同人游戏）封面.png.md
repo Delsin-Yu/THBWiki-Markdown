@@ -1,6 +1,6 @@
 # 文件:Subterranean_Detectives_Orin_and_Satori（同人游戏）封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bf\ns6%3ASubterranean_Detectives_Orin_and_Satori%EF%BC%88%E5%90%8C%E4%BA%BA%E6%B8%B8%E6%88%8F%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bf\ns6%3ASubterranean_Detectives_Orin_and_Satori%EF%BC%88%E5%90%8C%E4%BA%BA%E6%B8%B8%E6%88%8F%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 MagpieTeahouse | 封面图片 | 软件封面
 
@@ -13,12 +13,7 @@ MagpieTeahouse | 封面图片 | 软件封面
 - [Subterranean Detectives Orin and Satori（同人游戏）](./Subterranean_Detectives_Orin_and_Satori（同人游戏）.md)
 
   
-源地址：[direct image link](https://img.itch.zone/aW1nLzYxOTMyMjcucG5n/315x250#c/dF5B7A.png), [source page](https://magpieteahouse.itch.io/)
-  
-
-
-
-
+源地址：[direct image link](https://img.itch.zone/aW1nLzYxOTMyMjcucG5n/315x250#c/dF5B7A.png), [source page](https://magpieteahouse.itch.io/)  
 
 ---
 

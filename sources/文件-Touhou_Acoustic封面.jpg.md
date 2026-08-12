@@ -1,6 +1,6 @@
 # 文件:Touhou_Acoustic封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0e\ns6%3ATouhou_Acoustic%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0e\ns6%3ATouhou_Acoustic%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 40music | 专辑封面 | 封面图片
 
@@ -11,12 +11,7 @@
 - [Touhou Acoustic](./Touhou_Acoustic.md)
 
   
-源地址：[[1]](https://f4.bcbits.com/img/a1951061390_16.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://f4.bcbits.com/img/a1951061390_16.jpg)  
 
 ---
 

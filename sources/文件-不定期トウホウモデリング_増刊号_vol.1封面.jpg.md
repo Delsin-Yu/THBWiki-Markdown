@@ -1,6 +1,6 @@
 # 文件:不定期トウホウモデリング_増刊号_vol.1封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cf\ns6%3A%E4%B8%8D%E5%AE%9A%E6%9C%9F%E3%83%88%E3%82%A6%E3%83%9B%E3%82%A6%E3%83%A2%E3%83%87%E3%83%AA%E3%83%B3%E3%82%B0_%E5%A2%97%E5%88%8A%E5%8F%B7_vol%2E1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cf\ns6%3A%E4%B8%8D%E5%AE%9A%E6%9C%9F%E3%83%88%E3%82%A6%E3%83%9B%E3%82%A6%E3%83%A2%E3%83%87%E3%83%AA%E3%83%B3%E3%82%B0_%E5%A2%97%E5%88%8A%E5%8F%B7_vol%2E1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 カルトッフェル | 同人志封面 | 封面图片
 
@@ -11,9 +11,6 @@
   
 
 - [不定期トウホウモデリング 増刊号 vol.1](./不定期トウホウモデリング_増刊号_vol.1.md)
-
-
-
 
 
 ---

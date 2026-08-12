@@ -1,6 +1,6 @@
 # 文件:Merchenical_Toy_Box封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c6\ns6%3AMerchenical_Toy_Box%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c6\ns6%3AMerchenical_Toy_Box%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Crescendo♥Heart | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Crescendo♥Heart | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Merchenical Toy Box](./Merchenical_Toy_Box.md)  
-该封面包含的角色：- [小野塚小町](./小野塚小町.md)
-
-
-
+- [Merchenical Toy Box](./Merchenical_Toy_Box.md)该封面包含的角色：
+- [小野塚小町](./小野塚小町.md)
 
 
 ---

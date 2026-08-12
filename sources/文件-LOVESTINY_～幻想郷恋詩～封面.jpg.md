@@ -1,6 +1,6 @@
 # 文件:LOVESTINY_～幻想郷恋詩～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\86\ns6%3ALOVESTINY_%EF%BD%9E%E5%B9%BB%E6%83%B3%E9%83%B7%E6%81%8B%E8%A9%A9%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\86\ns6%3ALOVESTINY_%EF%BD%9E%E5%B9%BB%E6%83%B3%E9%83%B7%E6%81%8B%E8%A9%A9%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 R-note | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ R-note | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [LOVESTINY ～幻想郷恋詩～](./LOVESTINY_～幻想郷恋詩～.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
-
-
-
+- [LOVESTINY ～幻想郷恋詩～](./LOVESTINY_～幻想郷恋詩～.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
 
 ---

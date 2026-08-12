@@ -1,6 +1,6 @@
 # 文件:東方準特急_～_not_Superlative,_but_Unique封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f0\ns6%3A%E6%9D%B1%E6%96%B9%E6%BA%96%E7%89%B9%E6%80%A5_%EF%BD%9E_not_Superlative%2C_but_Unique%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f0\ns6%3A%E6%9D%B1%E6%96%B9%E6%BA%96%E7%89%B9%E6%80%A5_%EF%BD%9E_not_Superlative%2C_but_Unique%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 しらゆき音楽工房 | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方準特急 ～ not Superlative, but Unique](./東方準特急_～_not_Superlative,_but_Unique.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
-
-
-
+- [東方準特急 ～ not Superlative, but Unique](./東方準特急_～_not_Superlative,_but_Unique.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
 
 
 ---

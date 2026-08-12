@@ -1,14 +1,11 @@
 # 文件:三头慧之子（兽王园立绘）nol.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\82\ns6%3A%E4%B8%89%E5%A4%B4%E6%85%A7%E4%B9%8B%E5%AD%90%EF%BC%88%E5%85%BD%E7%8E%8B%E5%9B%AD%E7%AB%8B%E7%BB%98%EF%BC%89nol%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\82\ns6%3A%E4%B8%89%E5%A4%B4%E6%85%A7%E4%B9%8B%E5%AD%90%EF%BC%88%E5%85%BD%E7%8E%8B%E5%9B%AD%E7%AB%8B%E7%BB%98%EF%BC%89nol%2Epng.html -->
 
 ZUN绘 | 三头慧之子 | 东方兽王园 | 官方游戏立绘
 
 
 ## 摘要
-
-
-
 
 ---
 

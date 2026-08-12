@@ -1,16 +1,11 @@
 # 文件:チ→ム♂ツナギbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0b\ns6%3A%E3%83%81%E2%86%92%E3%83%A0%E2%99%82%E3%83%84%E3%83%8A%E3%82%AEbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0b\ns6%3A%E3%83%81%E2%86%92%E3%83%A0%E2%99%82%E3%83%84%E3%83%8A%E3%82%AEbanner%2Epng.html -->
 
 チ→ム♂ツナギ | 社团LOGO
 
   
-源地址：[[1]](http://tsunagi810.web.fc2.com/img/banner.png)
-  
-
-
-
-
+源地址：[\[1\]](http://tsunagi810.web.fc2.com/img/banner.png)  
 
 ---
 

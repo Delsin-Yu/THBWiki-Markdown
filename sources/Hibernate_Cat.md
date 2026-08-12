@@ -1,13 +1,11 @@
 # Hibernate_Cat
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\5\50\ns0%3AHibernate_Cat.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\5\50\ns0%3AHibernate_Cat.html -->
 
 2017年8月11日 由 Orpheus 于 Comic Market 92 发布的同人专辑，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人专辑 (未找到链接)** 的词条
-<center>
-
+**[二次创作同人专辑](./二次创作.md#同人音乐)**的词条<center>
 <table>
 <tbody><tr>
 <td class="mbox-image"><div style="width: 52px;">
@@ -16,33 +14,22 @@
 </tr>
 </tbody></table>
 
-
 </center>
-
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Hibernate_Cat封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/1/1e/Hibernate_Cat%E5%B0%81%E9%9D%A2.jpg/168px-Hibernate_Cat%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="168" height="168" srcset="https://upload.thwiki.cc/thumb/1/1e/Hibernate_Cat%E5%B0%81%E9%9D%A2.jpg/252px-Hibernate_Cat%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/1/1e/Hibernate_Cat%E5%B0%81%E9%9D%A2.jpg/336px-Hibernate_Cat%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1200" data-file-height="1200"></a><div class="cover-char">角色：<a href="./橙.md" title="橙">橙</a></div></td>
 </tr><tr><td class="label">名称</td><td colspan="2"> Hibernate Cat </td></tr><tr><td class="label">制作方</td><td><a href="./Orpheus.md" title="Orpheus">Orpheus</a></td><td class="cover-artwork" rowspan="6" style="min-width:168px;"><a href="./文件-Hibernate_Cat封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/1/1e/Hibernate_Cat%E5%B0%81%E9%9D%A2.jpg/168px-Hibernate_Cat%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="168" height="168" srcset="https://upload.thwiki.cc/thumb/1/1e/Hibernate_Cat%E5%B0%81%E9%9D%A2.jpg/252px-Hibernate_Cat%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/1/1e/Hibernate_Cat%E5%B0%81%E9%9D%A2.jpg/336px-Hibernate_Cat%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1200" data-file-height="1200"></a><div class="cover-char">角色：<a href="./橙.md" title="橙">橙</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2017-08-11&#160;（<a href="/展会作品列表?e=Comic+Market%2392">Comic Market 92</a>）</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>0</td></tr><tr><td class="label">总时长</td><td>00:00</td></tr>
+</tr><tr><td class="label">首发日期</td><td>2017-08-11 （<a href="./展会作品列表.md#92">Comic Market 92</a>）</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>0</td></tr><tr><td class="label">总时长</td><td>00:00</td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://blog.livedoor.jp/moriyamori/archives/51931251.html">http://blog.livedoor.jp/moriyamori/archives/51931251.html</a><br><a rel="nofollow" class="external free" href="https://twitter.com/orpheus_touhou/status/895791209154621440">https://twitter.com/orpheus_touhou/status/895791209154621440</a></td></tr></tbody></table>
 
 Hibernate Cat（同人专辑，Orpheus，2017） - 2017年8月11日 由 Orpheus 于 Comic Market 92 发布的同人专辑，分级为 一般向
-
 ## Staff
 Illustration
 : くのん （[Pixiv ID: 50434](https://www.pixiv.net/member.php?id=50434)）
 
-
 ## 曲目列表
 
-<table></table>
-
-
-
 ## 评论
-
-
-
 
 ---
 

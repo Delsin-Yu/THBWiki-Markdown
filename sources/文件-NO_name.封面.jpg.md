@@ -1,6 +1,6 @@
 # 文件:NO_name.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2c\ns6%3ANO_name%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2c\ns6%3ANO_name%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 十誤一会 | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [NO name.](./NO_name..md)  
-该封面包含的角色：- [无名的读书妖怪](./无名的读书妖怪.md)
+- [NO name.](./NO_name..md)该封面包含的角色：
+- [无名的读书妖怪](./无名的读书妖怪.md)
 
   
-[doujinshi.org: B1151752 (V2)](https://www.doujinshi.org/book/1151752/NO-name./)
-  
-
-
-
-
+[doujinshi.org: B1151752 (V2)](https://www.doujinshi.org/book/1151752/NO-name./)  
 
 ---
 

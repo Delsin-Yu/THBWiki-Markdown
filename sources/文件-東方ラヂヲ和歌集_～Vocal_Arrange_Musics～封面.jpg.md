@@ -1,6 +1,6 @@
 # 文件:東方ラヂヲ和歌集_～Vocal_Arrange_Musics～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1f\ns6%3A%E6%9D%B1%E6%96%B9%E3%83%A9%E3%83%82%E3%83%B2%E5%92%8C%E6%AD%8C%E9%9B%86_%EF%BD%9EVocal_Arrange_Musics%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1f\ns6%3A%E6%9D%B1%E6%96%B9%E3%83%A9%E3%83%82%E3%83%B2%E5%92%8C%E6%AD%8C%E9%9B%86_%EF%BD%9EVocal_Arrange_Musics%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 あぷえぬすたーと！ | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方ラヂヲ和歌集 ～Vocal Arrange Musics～](./東方ラヂヲ和歌集_～Vocal_Arrange_Musics～.md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)- [西行寺幽幽子](./西行寺幽幽子.md)
-
-
-
+- [東方ラヂヲ和歌集 ～Vocal Arrange Musics～](./東方ラヂヲ和歌集_～Vocal_Arrange_Musics～.md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
+- [西行寺幽幽子](./西行寺幽幽子.md)
 
 
 ---

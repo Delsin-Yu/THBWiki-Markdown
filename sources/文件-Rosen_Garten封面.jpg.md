@@ -1,6 +1,6 @@
 # 文件:Rosen_Garten封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dd\ns6%3ARosen_Garten%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dd\ns6%3ARosen_Garten%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Cat_Styles | 专辑封面 | 封面图片
 
@@ -8,12 +8,9 @@ Cat_Styles | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Rosen Garten](./Rosen_Garten.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)Edited from TLMC scan
-
-
-
-
+- [Rosen Garten](./Rosen_Garten.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+Edited from TLMC scan
 
 ---
 

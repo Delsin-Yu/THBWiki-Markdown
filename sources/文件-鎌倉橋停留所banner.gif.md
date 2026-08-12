@@ -1,12 +1,8 @@
 # 文件:鎌倉橋停留所banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\69\ns6%3A%E9%8E%8C%E5%80%89%E6%A9%8B%E5%81%9C%E7%95%99%E6%89%80banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\69\ns6%3A%E9%8E%8C%E5%80%89%E6%A9%8B%E5%81%9C%E7%95%99%E6%89%80banner%2Egif.html -->
 
 社团LOGO | 鎌倉橋停留所
-
-
-
-
 
 
 ---

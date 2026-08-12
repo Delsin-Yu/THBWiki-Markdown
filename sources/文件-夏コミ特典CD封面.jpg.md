@@ -1,6 +1,6 @@
 # 文件:夏コミ特典CD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a2\ns6%3A%E5%A4%8F%E3%82%B3%E3%83%9F%E7%89%B9%E5%85%B8CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a2\ns6%3A%E5%A4%8F%E3%82%B3%E3%83%9F%E7%89%B9%E5%85%B8CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 豚乙女
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [夏コミ特典CD](./夏コミ特典CD.md)  
-该封面包含的角色：- [风见幽香](./风见幽香.md)
-
-
-
+- [夏コミ特典CD](./夏コミ特典CD.md)该封面包含的角色：
+- [风见幽香](./风见幽香.md)
 
 
 ---

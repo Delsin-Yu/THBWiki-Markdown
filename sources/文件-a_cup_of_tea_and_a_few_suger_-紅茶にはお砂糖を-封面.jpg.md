@@ -1,6 +1,6 @@
 # 文件:a_cup_of_tea_and_a_few_suger_-紅茶にはお砂糖を-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\47\ns6%3Aa_cup_of_tea_and_a_few_suger_-%E7%B4%85%E8%8C%B6%E3%81%AB%E3%81%AF%E3%81%8A%E7%A0%82%E7%B3%96%E3%82%92-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\47\ns6%3Aa_cup_of_tea_and_a_few_suger_-%E7%B4%85%E8%8C%B6%E3%81%AB%E3%81%AF%E3%81%8A%E7%A0%82%E7%B3%96%E3%82%92-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 GothiC | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ GothiC | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [a cup of tea and a few suger -紅茶にはお砂糖を-](./a_cup_of_tea_and_a_few_suger_-紅茶にはお砂糖を-.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [a cup of tea and a few suger -紅茶にはお砂糖を-](./a_cup_of_tea_and_a_few_suger_-紅茶にはお砂糖を-.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
   
-源地址：[[1]](http://img-cdn.jg.jugem.jp/0f5/1694214/20120627_2388037.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://img-cdn.jg.jugem.jp/0f5/1694214/20120627_2388037.jpg)  
 
 ---
 

@@ -1,16 +1,12 @@
 # 模板:ComicAi
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\9\94\ns10%3AComicAi.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\9\94\ns10%3AComicAi.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

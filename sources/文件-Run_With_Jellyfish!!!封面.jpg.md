@@ -1,6 +1,6 @@
 # 文件:Run_With_Jellyfish!!!封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\67\ns6%3ARun_With_Jellyfish%21%21%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\67\ns6%3ARun_With_Jellyfish%21%21%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Jelly_Doll | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Jelly_Doll | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Run With Jellyfish!!!](./Run_With_Jellyfish!!!.md)  
-该封面包含的角色：- [戎璎花](./戎璎花.md)
-
-
-
+- [Run With Jellyfish!!!](./Run_With_Jellyfish!!!.md)该封面包含的角色：
+- [戎璎花](./戎璎花.md)
 
 
 ---

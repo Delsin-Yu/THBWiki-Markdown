@@ -1,6 +1,6 @@
 # 文件:Border_on_Blossom封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b3\ns6%3ABorder_on_Blossom%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b3\ns6%3ABorder_on_Blossom%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 少女理論観測所
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Border on Blossom](./Border_on_Blossom.md)  
-该封面包含的角色：- [西行寺幽幽子](./西行寺幽幽子.md)
+- [Border on Blossom](./Border_on_Blossom.md)该封面包含的角色：
+- [西行寺幽幽子](./西行寺幽幽子.md)
 
   
-源地址：[[1]](http://static.tumblr.com/b60751edfabf4e00e188b598b81991a0/mlcopkp/w7uo5pyjy/tumblr_static_2lfhbq9nrw4kw8ssg88wokkko.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://static.tumblr.com/b60751edfabf4e00e188b598b81991a0/mlcopkp/w7uo5pyjy/tumblr_static_2lfhbq9nrw4kw8ssg88wokkko.jpg)  
 
 ---
 

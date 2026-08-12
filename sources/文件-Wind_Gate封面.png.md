@@ -1,6 +1,6 @@
 # 文件:Wind_Gate封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b6\ns6%3AWind_Gate%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b6\ns6%3AWind_Gate%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 RenditionNews | 专辑封面 | 封面图片
 
@@ -8,11 +8,10 @@ RenditionNews | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Wind Gate](./Wind_Gate.md)  
-该封面包含的角色：- [东风谷早苗](./东风谷早苗.md)- [八坂神奈子](./八坂神奈子.md)- [洩矢诹访子](./洩矢诹访子.md)
-
-
-
+- [Wind Gate](./Wind_Gate.md)该封面包含的角色：
+- [东风谷早苗](./东风谷早苗.md)
+- [八坂神奈子](./八坂神奈子.md)
+- [洩矢诹访子](./洩矢诹访子.md)
 
 
 ---

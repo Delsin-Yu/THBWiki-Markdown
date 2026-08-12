@@ -1,6 +1,6 @@
 # 文件:thEIoS_10.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e1\ns6%3AthEIoS_10%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e1\ns6%3AthEIoS_10%2Emp3.html -->
 
 万华镜之箱 | 东方祈华梦制作组
 
@@ -9,10 +9,6 @@
   
 祈华梦四面道中曲
   
-
-
-
-
 
 ---
 

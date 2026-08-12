@@ -1,14 +1,11 @@
 # 文件:だいじょうぶ堂banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\12\ns6%3A%E3%81%A0%E3%81%84%E3%81%98%E3%82%87%E3%81%86%E3%81%B6%E5%A0%82banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\12\ns6%3A%E3%81%A0%E3%81%84%E3%81%98%E3%82%87%E3%81%86%E3%81%B6%E5%A0%82banner%2Egif.html -->
 
 だいじょうぶ堂 | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

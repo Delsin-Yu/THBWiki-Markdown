@@ -1,6 +1,6 @@
 # 文件:去来廻記_～_Paradoxical_Record封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\59\ns6%3A%E5%8E%BB%E6%9D%A5%E5%BB%BB%E8%A8%98_%EF%BD%9E_Paradoxical_Record%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\59\ns6%3A%E5%8E%BB%E6%9D%A5%E5%BB%BB%E8%A8%98_%EF%BD%9E_Paradoxical_Record%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Parhelia | 专辑封面 | 封面图片
 
@@ -10,11 +10,9 @@ Parhelia | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [去来廻記 ～ Paradoxical Record](./去来廻記_～_Paradoxical_Record.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [去来廻記 ～ Paradoxical Record](./去来廻記_～_Paradoxical_Record.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

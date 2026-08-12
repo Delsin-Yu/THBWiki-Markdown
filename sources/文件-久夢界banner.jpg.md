@@ -1,18 +1,13 @@
 # 文件:久夢界banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\12\ns6%3A%E4%B9%85%E5%A4%A2%E7%95%8Cbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\12\ns6%3A%E4%B9%85%E5%A4%A2%E7%95%8Cbanner%2Ejpg.html -->
 
 久夢界 | 社团LOGO
 
 
 ## 摘要
   
-源地址：[direct image link (original size)](https://i.imgur.com/mWLwiQY.jpg), [source page](https://web.archive.org/web/20160618050109/http://90idream.blog.fc2.com/)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://i.imgur.com/mWLwiQY.jpg), [source page](https://web.archive.org/web/20160618050109/http://90idream.blog.fc2.com/)  
 
 ---
 

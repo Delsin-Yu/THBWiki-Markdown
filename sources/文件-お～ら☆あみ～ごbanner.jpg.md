@@ -1,12 +1,8 @@
 # 文件:お～ら☆あみ～ごbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f0\ns6%3A%E3%81%8A%EF%BD%9E%E3%82%89%E2%98%86%E3%81%82%E3%81%BF%EF%BD%9E%E3%81%94banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f0\ns6%3A%E3%81%8A%EF%BD%9E%E3%82%89%E2%98%86%E3%81%82%E3%81%BF%EF%BD%9E%E3%81%94banner%2Ejpg.html -->
 
 お～ら☆あみ～ご | 社团LOGO
-
-
-
-
 
 
 ---

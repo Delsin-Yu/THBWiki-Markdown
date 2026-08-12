@@ -1,12 +1,8 @@
 # 文件:D.C.S.banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\26\ns6%3AD%2EC%2ES%2Ebanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\26\ns6%3AD%2EC%2ES%2Ebanner%2Ejpg.html -->
 
 D.C.S. | 社团LOGO
-
-
-
-
 
 
 ---

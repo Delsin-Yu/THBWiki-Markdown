@@ -1,12 +1,8 @@
 # 文件:濑户八十八夜_banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4b\ns6%3A%E6%BF%91%E6%88%B7%E5%85%AB%E5%8D%81%E5%85%AB%E5%A4%9C_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4b\ns6%3A%E6%BF%91%E6%88%B7%E5%85%AB%E5%8D%81%E5%85%AB%E5%A4%9C_banner%2Ejpg.html -->
 
 濑户八十八夜 | 社团LOGO
-
-
-
-
 
 
 ---

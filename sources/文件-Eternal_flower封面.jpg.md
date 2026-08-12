@@ -1,6 +1,6 @@
 # 文件:Eternal_flower封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\07\ns6%3AEternal_flower%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\07\ns6%3AEternal_flower%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 TsuBaKi | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@ TsuBaKi | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Eternal flower](./Eternal_flower.md)  
-该封面包含的角色：- [东风谷早苗](./东风谷早苗.md)
-
-
-
+- [Eternal flower](./Eternal_flower.md)该封面包含的角色：
+- [东风谷早苗](./东风谷早苗.md)
 
 
 ---

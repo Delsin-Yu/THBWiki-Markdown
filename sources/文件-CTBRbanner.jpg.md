@@ -1,12 +1,8 @@
 # 文件:CTBRbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b0\ns6%3ACTBRbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b0\ns6%3ACTBRbanner%2Ejpg.html -->
 
 CTBR | 社团LOGO
-
-
-
-
 
 
 ---

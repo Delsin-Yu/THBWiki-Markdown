@@ -1,12 +1,8 @@
 # 文件:旧公式站msg01.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a9\ns6%3A%E6%97%A7%E5%85%AC%E5%BC%8F%E7%AB%99msg01%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a9\ns6%3A%E6%97%A7%E5%85%AC%E5%BC%8F%E7%AB%99msg01%2Ejpg.html -->
 
 Top绘 | ZUN绘
-
-
-
-
 
 
 ---

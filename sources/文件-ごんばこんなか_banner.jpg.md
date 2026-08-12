@@ -1,12 +1,8 @@
 # 文件:ごんばこんなか_banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6d\ns6%3A%E3%81%94%E3%82%93%E3%81%B0%E3%81%93%E3%82%93%E3%81%AA%E3%81%8B_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6d\ns6%3A%E3%81%94%E3%82%93%E3%81%B0%E3%81%93%E3%82%93%E3%81%AA%E3%81%8B_banner%2Ejpg.html -->
 
 ごんばこんなか | 社团LOGO
-
-
-
-
 
 
 ---

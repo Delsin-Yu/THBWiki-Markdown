@@ -1,6 +1,6 @@
 # 文件:夜想仰月_～Rapid_Ensemble_２～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\db\ns6%3A%E5%A4%9C%E6%83%B3%E4%BB%B0%E6%9C%88_%EF%BD%9ERapid_Ensemble_%EF%BC%92%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\db\ns6%3A%E5%A4%9C%E6%83%B3%E4%BB%B0%E6%9C%88_%EF%BD%9ERapid_Ensemble_%EF%BC%92%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 As／Hi | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ As／Hi | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [夜想仰月 ～Rapid Ensemble ２～](./夜想仰月_～Rapid_Ensemble_２～.md)  
-该封面包含的角色：- [蓬莱山辉夜](./蓬莱山辉夜.md)- [藤原妹红](./藤原妹红.md)
-
-
-
+- [夜想仰月 ～Rapid Ensemble ２～](./夜想仰月_～Rapid_Ensemble_２～.md)该封面包含的角色：
+- [蓬莱山辉夜](./蓬莱山辉夜.md)
+- [藤原妹红](./藤原妹红.md)
 
 
 ---

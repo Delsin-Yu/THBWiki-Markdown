@@ -1,6 +1,6 @@
 # 文件:ハートキャッチ香霖堂MaxHeart封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\94\ns6%3A%E3%83%8F%E3%83%BC%E3%83%88%E3%82%AD%E3%83%A3%E3%83%83%E3%83%81%E9%A6%99%E9%9C%96%E5%A0%82MaxHeart%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\94\ns6%3A%E3%83%8F%E3%83%BC%E3%83%88%E3%82%AD%E3%83%A3%E3%83%83%E3%83%81%E9%A6%99%E9%9C%96%E5%A0%82MaxHeart%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 有機化合物
 
@@ -8,11 +8,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [ハートキャッチ香霖堂MaxHeart](./ハートキャッチ香霖堂MaxHeart.md)  
-该封面包含的角色：- [风见幽香](./风见幽香.md)- [雾雨魔理沙](./雾雨魔理沙.md)- [森近霖之助](./森近霖之助.md)
-
-
-
+- [ハートキャッチ香霖堂MaxHeart](./ハートキャッチ香霖堂MaxHeart.md)该封面包含的角色：
+- [风见幽香](./风见幽香.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
+- [森近霖之助](./森近霖之助.md)
 
 
 ---

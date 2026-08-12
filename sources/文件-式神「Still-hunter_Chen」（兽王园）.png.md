@@ -1,12 +1,8 @@
 # 文件:式神「Still-hunter_Chen」（兽王园）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2f\ns6%3A%E5%BC%8F%E7%A5%9E%E3%80%8CStill-hunter_Chen%E3%80%8D%EF%BC%88%E5%85%BD%E7%8E%8B%E5%9B%AD%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2f\ns6%3A%E5%BC%8F%E7%A5%9E%E3%80%8CStill-hunter_Chen%E3%80%8D%EF%BC%88%E5%85%BD%E7%8E%8B%E5%9B%AD%EF%BC%89%2Epng.html -->
 
 东方兽王园 | 八云蓝 | 自机符卡
-
-
-
-
 
 
 ---

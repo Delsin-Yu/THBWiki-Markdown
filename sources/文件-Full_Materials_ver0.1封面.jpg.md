@@ -1,6 +1,6 @@
 # 文件:Full_Materials_ver0.1封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a1\ns6%3AFull_Materials_ver0%2E1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a1\ns6%3AFull_Materials_ver0%2E1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 モヒカンサンドバッグ | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Full Materials ver0.1](./Full_Materials_ver0.1.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
+- [Full Materials ver0.1](./Full_Materials_ver0.1.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-源地址：[[1]](http://junktrax.com/ms/product/001_800.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://junktrax.com/ms/product/001_800.jpg)  
 
 ---
 

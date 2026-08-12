@@ -1,6 +1,6 @@
 # 文件:Here's_to_you!!封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c5\ns6%3AHere%27s_to_you%21%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c5\ns6%3AHere%27s_to_you%21%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 空色プンダリカ
 
@@ -10,16 +10,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [Here's to you!!](./Here's_to_you!!.md)  
-该封面包含的角色：- [宇佐见堇子](./宇佐见堇子.md)- [饕餮尤魔](./饕餮尤魔.md)
+- [Here's to you!!](./Here's_to_you!!.md)该封面包含的角色：
+- [宇佐见堇子](./宇佐见堇子.md)
+- [饕餮尤魔](./饕餮尤魔.md)
 
   
-[Pixiv artwork ID: 107474950](https://www.pixiv.net/artworks/107474950)
-  
-
-
-
-
+[Pixiv artwork ID: 107474950](https://www.pixiv.net/artworks/107474950)  
 
 ---
 

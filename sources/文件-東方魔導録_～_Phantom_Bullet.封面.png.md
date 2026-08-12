@@ -1,6 +1,6 @@
 # 文件:東方魔導録_～_Phantom_Bullet.封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\72\ns6%3A%E6%9D%B1%E6%96%B9%E9%AD%94%E5%B0%8E%E9%8C%B2_%EF%BD%9E_Phantom_Bullet%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\72\ns6%3A%E6%9D%B1%E6%96%B9%E9%AD%94%E5%B0%8E%E9%8C%B2_%EF%BD%9E_Phantom_Bullet%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 whiteboard | 封面图片 | 软件封面
 
@@ -8,11 +8,8 @@ whiteboard | 封面图片 | 软件封面
 使用了本文件作封面图片的作品：
   
 
-- [東方魔導録 ～ Phantom Bullet.](./東方魔導録_～_Phantom_Bullet..md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [東方魔導録 ～ Phantom Bullet.](./東方魔導録_～_Phantom_Bullet..md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

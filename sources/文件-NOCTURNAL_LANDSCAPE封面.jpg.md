@@ -1,6 +1,6 @@
 # 文件:NOCTURNAL_LANDSCAPE封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f0\ns6%3ANOCTURNAL_LANDSCAPE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f0\ns6%3ANOCTURNAL_LANDSCAPE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Foxtail-Grass_Studio | みかん箱 | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ Foxtail-Grass_Studio | みかん箱 | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [NOCTURNAL LANDSCAPE](./NOCTURNAL_LANDSCAPE.md)  
-该封面包含的角色：- [八云紫](./八云紫.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [NOCTURNAL LANDSCAPE](./NOCTURNAL_LANDSCAPE.md)该封面包含的角色：
+- [八云紫](./八云紫.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

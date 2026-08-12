@@ -1,6 +1,6 @@
 # 文件:CODE-49_White_CD_vol.1封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\ff\ns6%3ACODE-49_White_CD_vol%2E1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\ff\ns6%3ACODE-49_White_CD_vol%2E1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 CODE-49 | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ CODE-49 | 专辑封面 | 封面图片
   
 
 - [CODE-49 White CD vol.1](./CODE-49_White_CD_vol.1.md)
-
-
-
 
 
 ---

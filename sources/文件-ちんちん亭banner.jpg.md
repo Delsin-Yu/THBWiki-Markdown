@@ -1,12 +1,8 @@
 # 文件:ちんちん亭banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\72\ns6%3A%E3%81%A1%E3%82%93%E3%81%A1%E3%82%93%E4%BA%ADbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\72\ns6%3A%E3%81%A1%E3%82%93%E3%81%A1%E3%82%93%E4%BA%ADbanner%2Ejpg.html -->
 
 ちんちん亭 | 社团LOGO
-
-
-
-
 
 
 ---

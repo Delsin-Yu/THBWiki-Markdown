@@ -1,14 +1,11 @@
 # 文件:The_Grimoire_of_Usami（秋静叶1）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\be\ns6%3AThe_Grimoire_of_Usami%EF%BC%88%E7%A7%8B%E9%9D%99%E5%8F%B61%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\be\ns6%3AThe_Grimoire_of_Usami%EF%BC%88%E7%A7%8B%E9%9D%99%E5%8F%B61%EF%BC%89%2Ejpg.html -->
 
 宇佐见的魔法书 | 秋静叶
 
 
 ## 摘要
-
-
-
 
 ---
 

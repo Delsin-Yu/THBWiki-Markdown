@@ -1,6 +1,6 @@
 # 文件:WHAT'S_GOOD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\69\ns6%3AWHAT%27S_GOOD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\69\ns6%3AWHAT%27S_GOOD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Find_Your_Way | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ Find_Your_Way | 专辑封面 | 封面图片
   
 
 - [WHAT'S GOOD](./WHAT'S_GOOD.md)
-
-
-
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:泥舟海運logo.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9b\ns6%3A%E6%B3%A5%E8%88%9F%E6%B5%B7%E9%81%8Blogo%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9b\ns6%3A%E6%B3%A5%E8%88%9F%E6%B5%B7%E9%81%8Blogo%2Egif.html -->
 
 泥舟海運 | 社团LOGO
-
-
-
-
 
 
 ---

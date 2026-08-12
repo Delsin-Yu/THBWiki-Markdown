@@ -1,6 +1,6 @@
 # 文件:Live_in_紅楼Jazz2014封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\60\ns6%3ALive_in_%E7%B4%85%E6%A5%BCJazz2014%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\60\ns6%3ALive_in_%E7%B4%85%E6%A5%BCJazz2014%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 SOS_-Sound_of_Swing- | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ SOS_-Sound_of_Swing- | 专辑封面 | 封面图片
   
 
 - [Live in 紅楼Jazz2014](./Live_in_紅楼Jazz2014.md)
-
-
-
 
 
 ---

@@ -1,14 +1,11 @@
 # 文件:「Stardust_Reverie」（儚月抄漫画）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\20\ns6%3A%E3%80%8CStardust_Reverie%E3%80%8D%EF%BC%88%E5%84%9A%E6%9C%88%E6%8A%84%E6%BC%AB%E7%94%BB%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\20\ns6%3A%E3%80%8CStardust_Reverie%E3%80%8D%EF%BC%88%E5%84%9A%E6%9C%88%E6%8A%84%E6%BC%AB%E7%94%BB%EF%BC%89%2Epng.html -->
 
 东方儚月抄_～_Silent_Sinner_in_Blue. | 雾雨魔理沙
 
 
 ## 摘要
-
-
-
 
 ---
 

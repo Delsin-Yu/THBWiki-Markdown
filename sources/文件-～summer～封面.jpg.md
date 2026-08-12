@@ -1,6 +1,6 @@
 # 文件:～summer～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\17\ns6%3A%EF%BD%9Esummer%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\17\ns6%3A%EF%BD%9Esummer%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 メトロジャック | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [～summer～](./～summer～.md)  
-该封面包含的角色：- [洩矢诹访子](./洩矢诹访子.md)
-
-
-
+- [～summer～](./～summer～.md)该封面包含的角色：
+- [洩矢诹访子](./洩矢诹访子.md)
 
 
 ---

@@ -1,14 +1,11 @@
 # 文件:鵺箱banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5c\ns6%3A%E9%B5%BA%E7%AE%B1banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5c\ns6%3A%E9%B5%BA%E7%AE%B1banner%2Ejpg.html -->
 
 社团LOGO | 鵺箱
 
 
 ## 摘要
-
-
-
 
 ---
 

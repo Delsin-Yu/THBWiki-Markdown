@@ -1,14 +1,11 @@
 # 文件:The_Grimoire_of_Usami（摩多罗隐岐奈3）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b3\ns6%3AThe_Grimoire_of_Usami%EF%BC%88%E6%91%A9%E5%A4%9A%E7%BD%97%E9%9A%90%E5%B2%90%E5%A5%883%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b3\ns6%3AThe_Grimoire_of_Usami%EF%BC%88%E6%91%A9%E5%A4%9A%E7%BD%97%E9%9A%90%E5%B2%90%E5%A5%883%EF%BC%89%2Ejpg.html -->
 
 宇佐见的魔法书 | 摩多罗隐岐奈
 
 
 ## 摘要
-
-
-
 
 ---
 

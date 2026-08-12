@@ -1,12 +1,8 @@
 # 文件:秋霜玉体验版disc_a.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e8\ns6%3A%E7%A7%8B%E9%9C%9C%E7%8E%89%E4%BD%93%E9%AA%8C%E7%89%88disc_a%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e8\ns6%3A%E7%A7%8B%E9%9C%9C%E7%8E%89%E4%BD%93%E9%AA%8C%E7%89%88disc_a%2Ejpg.html -->
 
 秋霜玉
-
-
-
-
 
 
 ---

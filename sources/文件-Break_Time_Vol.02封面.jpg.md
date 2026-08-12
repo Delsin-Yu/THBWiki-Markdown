@@ -1,6 +1,6 @@
 # 文件:Break_Time_Vol.02封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\91\ns6%3ABreak_Time_Vol%2E02%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\91\ns6%3ABreak_Time_Vol%2E02%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 弦奏水琴乐章
 
@@ -9,9 +9,6 @@
   
 
 - [Break Time Vol.02](./Break_Time_Vol.02.md)
-
-
-
 
 
 ---

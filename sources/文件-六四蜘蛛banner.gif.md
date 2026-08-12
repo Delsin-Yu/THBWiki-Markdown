@@ -1,14 +1,11 @@
 # 文件:六四蜘蛛banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7c\ns6%3A%E5%85%AD%E5%9B%9B%E8%9C%98%E8%9B%9Bbanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7c\ns6%3A%E5%85%AD%E5%9B%9B%E8%9C%98%E8%9B%9Bbanner%2Egif.html -->
 
 六四蜘蛛 | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

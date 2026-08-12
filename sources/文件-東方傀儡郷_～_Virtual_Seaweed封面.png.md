@@ -1,6 +1,6 @@
 # 文件:東方傀儡郷_～_Virtual_Seaweed封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b7\ns6%3A%E6%9D%B1%E6%96%B9%E5%82%80%E5%84%A1%E9%83%B7_%EF%BD%9E_Virtual_Seaweed%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b7\ns6%3A%E6%9D%B1%E6%96%B9%E5%82%80%E5%84%A1%E9%83%B7_%EF%BD%9E_Virtual_Seaweed%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 まりもmarimoチャンネル | 封面图片 | 软件封面
 
@@ -11,9 +11,6 @@
   
 
 - [東方傀儡郷 ～ Virtual Seaweed](./東方傀儡郷_～_Virtual_Seaweed.md)
-
-
-
 
 
 ---

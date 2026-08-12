@@ -1,12 +1,8 @@
 # 文件:东方刚欲异闻体验版card.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6a\ns6%3A%E4%B8%9C%E6%96%B9%E5%88%9A%E6%AC%B2%E5%BC%82%E9%97%BB%E4%BD%93%E9%AA%8C%E7%89%88card%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6a\ns6%3A%E4%B8%9C%E6%96%B9%E5%88%9A%E6%AC%B2%E5%BC%82%E9%97%BB%E4%BD%93%E9%AA%8C%E7%89%88card%2Ejpg.html -->
 
 东方刚欲异闻 | 官方游戏体验版光盘扫图
-
-
-
-
 
 
 ---

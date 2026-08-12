@@ -1,6 +1,6 @@
 # 文件:Magical_Hazard_Vol.5_～Visitor～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\96\ns6%3AMagical_Hazard_Vol%2E5_%EF%BD%9EVisitor%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\96\ns6%3AMagical_Hazard_Vol%2E5_%EF%BD%9EVisitor%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Magical_Hazard | 专辑封面 | 封面图片
 
@@ -10,16 +10,12 @@ Magical_Hazard | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Magical Hazard Vol.5 ～Visitor～](./Magical_Hazard_Vol.5_～Visitor～.md)  
-该封面包含的角色：- [西行寺幽幽子](./西行寺幽幽子.md)- [八云紫](./八云紫.md)
+- [Magical Hazard Vol.5 ～Visitor～](./Magical_Hazard_Vol.5_～Visitor～.md)该封面包含的角色：
+- [西行寺幽幽子](./西行寺幽幽子.md)
+- [八云紫](./八云紫.md)
 
   
-源地址：[suruga-ya](https://www.suruga-ya.jp/product/detail/186139501)
-  
-
-
-
-
+源地址：[suruga-ya](https://www.suruga-ya.jp/product/detail/186139501)  
 
 ---
 

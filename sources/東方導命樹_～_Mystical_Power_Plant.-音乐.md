@@ -1,6 +1,6 @@
 # 東方導命樹_～_Mystical_Power_Plant./音乐
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\d\de\ns0%3A%E6%9D%B1%E6%96%B9%E5%B0%8E%E5%91%BD%E6%A8%B9_%EF%BD%9E_Mystical_Power_Plant%2E%2F%E9%9F%B3%E4%B9%90.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\d\de\ns0%3A%E6%9D%B1%E6%96%B9%E5%B0%8E%E5%91%BD%E6%A8%B9_%EF%BD%9E_Mystical_Power_Plant%2E%2F%E9%9F%B3%E4%B9%90.html -->
 
 東方邪星章製作チーム
 
@@ -24,12 +24,11 @@
 </p>
 </td>
 <td colspan="2" style="padding:1em; padding-left:2em;" lang="zh" width="50%">
-<p>标题画面的主题曲。<br><br>和平常一样轻松悠闲（？）<br>「杜」<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">1</a></sup>和「社」长得很像，绝对会弄错呢。<br>写成神杜之类也绝不会发现的，我有自信。
+<p>标题画面的主题曲。<br><br>和平常一样轻松悠闲（？）<br>「杜」<span>[^cite_note-1]</span>和「社」长得很像，绝对会弄错呢。<br>写成神杜之类也绝不会发现的，我有自信。
 </p>
 </td></tr>
 
 </tbody></table>
-
 
 
 <table>
@@ -56,7 +55,6 @@
 </tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
@@ -79,7 +77,6 @@
 </td></tr>
 
 </tbody></table>
-
 
 
 <table>
@@ -106,7 +103,6 @@
 </tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
@@ -129,7 +125,6 @@
 </td></tr>
 
 </tbody></table>
-
 
 
 <table>
@@ -156,7 +151,6 @@
 </tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
@@ -174,12 +168,11 @@
 </p>
 </td>
 <td colspan="2" style="padding:1em; padding-left:2em;" lang="zh" width="50%">
-<p>萨菈卡·桑坦捷的主题曲。<br><br>怎么听都能听出某位的主题曲旋律。<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">2</a></sup><br>正如您所想的那样这次是抄袭……致敬的程度。<br>这次比上次<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">3</a></sup>更加堂堂正正了，我觉得大概不要紧（汗
+<p>萨菈卡·桑坦捷的主题曲。<br><br>怎么听都能听出某位的主题曲旋律。<span>[^cite_note-2]</span><br>正如您所想的那样这次是抄袭……致敬的程度。<br>这次比上次<span>[^cite_note-3]</span>更加堂堂正正了，我觉得大概不要紧（汗
 </p>
 </td></tr>
 
 </tbody></table>
-
 
 
 <table>
@@ -206,7 +199,6 @@
 </tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
@@ -220,7 +212,7 @@
 </td></tr>
 <tr valign="top">
 <td colspan="2" style="padding:1em; padding-left:2em;" lang="ja" width="50%">
-<p>崇徳院 天夢<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">4</a></sup>のテーマです。<br><br>今までのネタっぽさに比べるとなんか凄い感じの曲になってます。<br>計画を完璧に練っても実際にやってみるとどうにも失敗してしまう、<br>というのはよくあることです。別にドジっ子属性は要らないです。
+<p>崇徳院 天夢<span>[^cite_note-4]</span>のテーマです。<br><br>今までのネタっぽさに比べるとなんか凄い感じの曲になってます。<br>計画を完璧に練っても実際にやってみるとどうにも失敗してしまう、<br>というのはよくあることです。別にドジっ子属性は要らないです。
 </p>
 </td>
 <td colspan="2" style="padding:1em; padding-left:2em;" lang="zh" width="50%">
@@ -229,7 +221,6 @@
 </td></tr>
 
 </tbody></table>
-
 
 
 <table>
@@ -256,7 +247,6 @@
 </tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
@@ -279,7 +269,6 @@
 </td></tr>
 
 </tbody></table>
-
 
 
 <table>
@@ -306,7 +295,6 @@
 </tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
@@ -329,7 +317,6 @@
 </td></tr>
 
 </tbody></table>
-
 
 
 <table>
@@ -356,7 +343,6 @@
 </tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
@@ -379,7 +365,6 @@
 </td></tr>
 
 </tbody></table>
-
 
 
 <table>
@@ -406,7 +391,6 @@
 </tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
@@ -429,7 +413,6 @@
 </td></tr>
 
 </tbody></table>
-
 
 
 <table>
@@ -456,7 +439,6 @@
 </tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
@@ -480,21 +462,10 @@
 
 </tbody></table>
 
-
-
 [^cite_note-1]: 日语的“杜”指代神社周边的森林。
-
-
-## 词条导航
-  
-  
-
-<table><tbody><tr><td><table cellspacing="0" class="nowraplinks mw-collapsible mw-collapsed" style="width:100%;;;"><tbody><tr><th style=";" colspan="3" class="navbox-title"><div class="navbar"><div class="noprint plainlinksneverexpand" style="background-color:transparent; padding:0; font-weight:normal; font-size:80%; white-space:nowrap;"><a href="./東方導命樹_～_Mystical_Power_Plant.-导航.md" title="東方導命樹 ～ Mystical Power Plant./导航"><span style=";;border:none;" title="查看这个模板">查</span></a>&#160;<span style="font-size:80%;">•</span>&#160;<a href="/index.php?title=%E6%9D%B1%E6%96%B9%E5%B0%8E%E5%91%BD%E6%A8%B9_%EF%BD%9E_Mystical_Power_Plant./%E5%AF%BC%E8%88%AA&amp;action=edit"><span style=";;border:none;" title="您可以编辑这个模板。请在储存变更之前先预览">编</span></a></div></div><span><a href="./东方导命树.md" class="mw-redirect" title="东方导命树">东方导命树</a></span></th></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="./東方導命樹_～_Mystical_Power_Plant.-角色设定.md" title="東方導命樹 ～ Mystical Power Plant./角色设定">角色</a></td><td style=";;" class="navbox-list navbox-odd"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>自机</div></td><td style=";;" class="navbox-list navbox-odd"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>火力发电组</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="/%E6%9D%B1%E6%96%B9%E5%B0%8E%E5%91%BD%E6%A8%B9_%EF%BD%9E_Mystical_Power_Plant./%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A#博丽灵梦" title="東方導命樹 ～ Mystical Power Plant./角色设定">博丽灵梦</a> &#8226; <a href="/%E6%9D%B1%E6%96%B9%E5%B0%8E%E5%91%BD%E6%A8%B9_%EF%BD%9E_Mystical_Power_Plant./%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A#灵乌路空" title="東方導命樹 ～ Mystical Power Plant./角色设定">灵乌路空</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>魔力发电组</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="/%E6%9D%B1%E6%96%B9%E5%B0%8E%E5%91%BD%E6%A8%B9_%EF%BD%9E_Mystical_Power_Plant./%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A#雾雨魔理沙" title="東方導命樹 ～ Mystical Power Plant./角色设定">雾雨魔理沙</a> &#8226; <a href="/%E6%9D%B1%E6%96%B9%E5%B0%8E%E5%91%BD%E6%A8%B9_%EF%BD%9E_Mystical_Power_Plant./%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A#圣白莲" title="東方導命樹 ～ Mystical Power Plant./角色设定">圣白莲</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>风力发电组</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="/%E6%9D%B1%E6%96%B9%E5%B0%8E%E5%91%BD%E6%A8%B9_%EF%BD%9E_Mystical_Power_Plant./%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A#东风谷早苗" title="東方導命樹 ～ Mystical Power Plant./角色设定">东风谷早苗</a> &#8226; <a href="/%E6%9D%B1%E6%96%B9%E5%B0%8E%E5%91%BD%E6%A8%B9_%EF%BD%9E_Mystical_Power_Plant./%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A#八坂神奈子" title="東方導命樹 ～ Mystical Power Plant./角色设定">八坂神奈子</a></div></td></tr></tbody></table><div></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>BOSS</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./八重咲杏.md" title="八重咲杏">木灵（樱）</a> &#8226; <a href="./荒神药子.md" title="荒神药子">荒神药子</a> &#8226; <a href="./八重咲杏.md" title="八重咲杏">木灵（松）</a> &#8226; <a href="./飞仓百百.md" title="飞仓百百">飞仓百百</a> &#8226; <a href="./八重咲杏.md" title="八重咲杏">木灵（菊）</a> &#8226; <a href="./萨菈卡·桑坦捷.md" title="萨菈卡·桑坦捷">萨菈卡·桑坦捷</a> &#8226; <a href="./祟德院天梦.md" title="祟德院天梦">祟德院天梦</a> &#8226; <a href="./八重咲杏.md" title="八重咲杏">八重咲杏</a> &#8226; <a href="/%E6%9D%B1%E6%96%B9%E5%B0%8E%E5%91%BD%E6%A8%B9_%EF%BD%9E_Mystical_Power_Plant./%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85/%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A#姬海棠果" title="東方導命樹 ～ Mystical Power Plant./设定与剧情/角色设定">姬海棠果</a> &#8226; <a href="./祸原命庙.md" title="祸原命庙">祸原命庙</a> &#8226; <a href="./米歇尔·桑坦捷.md" title="米歇尔·桑坦捷">米歇尔·桑坦捷</a> &#8226; <a href="./远音莉可.md" title="远音莉可">远音莉可</a></div></td></tr></tbody></table><div></div></td><td class="navbox-image" style="" rowspan="15"><a href="./文件-東方導命樹_～_Mystical_Power_Plant.封面.png.md" class="image"><img alt="東方導命樹 ～ Mystical Power Plant.封面.png" src="https://upload.thwiki.cc/thumb/5/54/%E6%9D%B1%E6%96%B9%E5%B0%8E%E5%91%BD%E6%A8%B9_%EF%BD%9E_Mystical_Power_Plant.%E5%B0%81%E9%9D%A2.png/160px-%E6%9D%B1%E6%96%B9%E5%B0%8E%E5%91%BD%E6%A8%B9_%EF%BD%9E_Mystical_Power_Plant.%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="160" height="160" srcset="https://upload.thwiki.cc/thumb/5/54/%E6%9D%B1%E6%96%B9%E5%B0%8E%E5%91%BD%E6%A8%B9_%EF%BD%9E_Mystical_Power_Plant.%E5%B0%81%E9%9D%A2.png/240px-%E6%9D%B1%E6%96%B9%E5%B0%8E%E5%91%BD%E6%A8%B9_%EF%BD%9E_Mystical_Power_Plant.%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/5/54/%E6%9D%B1%E6%96%B9%E5%B0%8E%E5%91%BD%E6%A8%B9_%EF%BD%9E_Mystical_Power_Plant.%E5%B0%81%E9%9D%A2.png/320px-%E6%9D%B1%E6%96%B9%E5%B0%8E%E5%91%BD%E6%A8%B9_%EF%BD%9E_Mystical_Power_Plant.%E5%B0%81%E9%9D%A2.png 2x" data-file-width="768" data-file-height="768"></a></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="./東方導命樹_～_Mystical_Power_Plant.-设定与剧情.md" title="東方導命樹 ～ Mystical Power Plant./设定与剧情">剧情</a></td><td style=";;" class="navbox-list navbox-even"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>剧情文本</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./東方導命樹_～_Mystical_Power_Plant.-设定与剧情-故事背景.md" title="東方導命樹 ～ Mystical Power Plant./设定与剧情/故事背景">故事背景</a> &#8226; <a href="./東方導命樹_～_Mystical_Power_Plant.-设定与剧情-ExStory.md" title="東方導命樹 ～ Mystical Power Plant./设定与剧情/ExStory">Ex 故事背景</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>游戏对话&amp;结局</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./東方導命樹_～_Mystical_Power_Plant.-设定与剧情-Route1.md" title="東方導命樹 ～ Mystical Power Plant./设定与剧情/Route1">火力发电组</a> &#8226; <a href="./東方導命樹_～_Mystical_Power_Plant.-设定与剧情-Route2.md" title="東方導命樹 ～ Mystical Power Plant./设定与剧情/Route2">魔力发电组</a> &#8226; <a href="./東方導命樹_～_Mystical_Power_Plant.-设定与剧情-Route3.md" title="東方導命樹 ～ Mystical Power Plant./设定与剧情/Route3">风力发电组</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>Ex游戏对话</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./東方導命樹_～_Mystical_Power_Plant.-设定与剧情-Route1Ex.md" title="東方導命樹 ～ Mystical Power Plant./设定与剧情/Route1Ex">火力发电组</a> &#8226; <a href="./東方導命樹_～_Mystical_Power_Plant.-设定与剧情-Route2Ex.md" title="東方導命樹 ～ Mystical Power Plant./设定与剧情/Route2Ex">魔力发电组</a> &#8226; <a href="./東方導命樹_～_Mystical_Power_Plant.-设定与剧情-Route3Ex.md" title="東方導命樹 ～ Mystical Power Plant./设定与剧情/Route3Ex">风力发电组</a></div></td></tr></tbody></table><div></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">场景</td><td style=";;" class="navbox-list navbox-odd"><div><a href="./妖怪之山.md" title="妖怪之山">下界</a> &#8226; 导命树</div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">音乐</td><td style=";;" class="navbox-list navbox-even"><div><a class="mw-selflink selflink">Music Room</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="/%E6%9D%B1%E6%96%B9%E5%B0%8E%E5%91%BD%E6%A8%B9_%EF%BD%9E_Mystical_Power_Plant./%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85#附带文档" title="東方導命樹 ～ Mystical Power Plant./设定与剧情">附带文档</a></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./東方導命樹_～_Mystical_Power_Plant.-设定与剧情-Readme_Ja.md" title="東方導命樹 ～ Mystical Power Plant./设定与剧情/Readme Ja">Readme（中日对照）</a> &#8226; <a href="./東方導命樹_～_Mystical_Power_Plant.-设定与剧情-Readme_En.md" title="東方導命樹 ～ Mystical Power Plant./设定与剧情/Readme En">Readme（中英对照）</a> &#8226; <a href="./東方導命樹_～_Mystical_Power_Plant.-角色设定.md" title="東方導命樹 ～ Mystical Power Plant./角色设定">角色设定</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">系统</td><td style=";;" class="navbox-list navbox-even"><div><a href="./東方導命樹_～_Mystical_Power_Plant.-系统.md" title="東方導命樹 ～ Mystical Power Plant./系统">系统</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="./東方導命樹_～_Mystical_Power_Plant.-符卡.md" title="東方導命樹 ～ Mystical Power Plant./符卡">符卡</a></td><td style=";;" class="navbox-list navbox-odd"><div><a href="/%E6%9D%B1%E6%96%B9%E5%B0%8E%E5%91%BD%E6%A8%B9_%EF%BD%9E_Mystical_Power_Plant./%E7%B3%BB%E7%BB%9F#角色装备" title="東方導命樹 ～ Mystical Power Plant./系统">自机符卡</a> &#8226; <a href="./東方導命樹_～_Mystical_Power_Plant.-符卡-Stage_1.md" title="東方導命樹 ～ Mystical Power Plant./符卡/Stage 1">Stage 1</a> &#8226; <a href="./東方導命樹_～_Mystical_Power_Plant.-符卡-Stage_2.md" title="東方導命樹 ～ Mystical Power Plant./符卡/Stage 2">Stage 2</a> &#8226; <a href="./東方導命樹_～_Mystical_Power_Plant.-符卡-Stage_3.md" title="東方導命樹 ～ Mystical Power Plant./符卡/Stage 3">Stage 3</a> &#8226; <a href="./東方導命樹_～_Mystical_Power_Plant.-符卡-Stage_4.md" title="東方導命樹 ～ Mystical Power Plant./符卡/Stage 4">Stage 4</a> &#8226; <a href="./東方導命樹_～_Mystical_Power_Plant.-符卡-Stage_5.md" title="東方導命樹 ～ Mystical Power Plant./符卡/Stage 5">Stage 5</a> &#8226; <a href="./東方導命樹_～_Mystical_Power_Plant.-符卡-Stage_6.md" title="東方導命樹 ～ Mystical Power Plant./符卡/Stage 6">Stage 6</a> &#8226; <a href="./東方導命樹_～_Mystical_Power_Plant.-符卡-Extra.md" title="東方導命樹 ～ Mystical Power Plant./符卡/Extra">Extra</a> &#8226; <a href="./東方導命樹_～_Mystical_Power_Plant.-符卡-里模式.md" title="東方導命樹 ～ Mystical Power Plant./符卡/里模式">里模式</a> &#8226; <a href="./東方導命樹_～_Mystical_Power_Plant.-符卡-符卡练习限定.md" title="東方導命樹 ～ Mystical Power Plant./符卡/符卡练习限定">只在符卡练习中出现的符卡</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="./東方導命樹製作チーム.md" class="mw-redirect" title="東方導命樹製作チーム">团队作品</a></td><td style=";;" class="navbox-list navbox-even"><div><a href="./東方偽神霊廟.md" title="東方偽神霊廟">東方偽神霊廟</a> &#8226; <a href="./東方邪星章_～_The_Last_Comer..md" title="東方邪星章 ～ The Last Comer.">東方邪星章 ～ The Last Comer.</a> &#8226; <a href="./東方導命樹_～_Mystical_Power_Plant..md" title="東方導命樹 ～ Mystical Power Plant.">東方導命樹 ～ Mystical Power Plant.</a> &#8226; <a href="./東方桃源宮_～_Riverbed_Soul_Saver..md" title="東方桃源宮 ～ Riverbed Soul Saver.">東方桃源宮 ～ Riverbed Soul Saver.</a> &#8226; <a href="./東方白塵記_～_White_names_spoiled_past..md" class="mw-redirect" title="東方白塵記 ～ White names spoiled past.">東方白塵記 ～ White names spoiled past.</a>（支援） &#8226; <a href="./東方魔宝城_～_Book_of_Star_Mythology..md" title="東方魔宝城 ～ Book of Star Mythology.">東方魔宝城 ～ Book of Star Mythology.</a>（支援） &#8226; <a href="./トライフォーカサー_～_Outside_the_Traditional_World..md" title="トライフォーカサー ～ Outside the Traditional World.">トライフォーカサー ～ Outside the Traditional World.</a> &#8226; <a href="./東方真珠島_～_Hollow_Song_of_Birds..md" title="東方真珠島 ～ Hollow Song of Birds.">東方真珠島 ～ Hollow Song of Birds.</a> &#8226; <a href="./東方鬼葬剣_～_Infinite_Blade_Pavilion..md" title="東方鬼葬剣 ～ Infinite Blade Pavilion.">東方鬼葬剣 ～ Infinite Blade Pavilion.</a> &#8226; <a href="./妖精小迷宮_～_Fairies_Odyssey..md" title="妖精小迷宮 ～ Fairies Odyssey.">妖精小迷宮 ～ Fairies Odyssey.</a></div></td></tr></tbody></table></td></tr></tbody></table>
-
-
-
-
-
+[^cite_note-2]: 灵异传魔界线最终boss萨丽爱尔的主题曲[来吧，直到倒地死去的那一刻](./来吧，直到倒地死去的那一刻.md)，和萨菈卡的元捏他同为大天使莎莉叶。
+[^cite_note-3]: 指邪星章二面主题曲《永不褪色的红之记忆》，混了红魔乡二面曲[Lunate Elf](./Lunate_Elf.md)
+[^cite_note-4]: 看！制作组打错字了！应为“祟”。
 
 ---
 

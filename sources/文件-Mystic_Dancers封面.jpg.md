@@ -1,6 +1,6 @@
 # 文件:Mystic_Dancers封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\63\ns6%3AMystic_Dancers%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\63\ns6%3AMystic_Dancers%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 夢想史紀行 | 封面图片
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [Mystic Dancers](./Mystic_Dancers.md)  
-该封面包含的角色：- [尔子田里乃](./尔子田里乃.md)- [丁礼田舞](./丁礼田舞.md)
-
-
-
+- [Mystic Dancers](./Mystic_Dancers.md)该封面包含的角色：
+- [尔子田里乃](./尔子田里乃.md)
+- [丁礼田舞](./丁礼田舞.md)
 
 
 ---

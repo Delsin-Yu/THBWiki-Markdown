@@ -1,6 +1,6 @@
 # 文件:TIME_WILL_TELL封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3d\ns6%3ATIME_WILL_TELL%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3d\ns6%3ATIME_WILL_TELL%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Our_Oath_Of_Office | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Our_Oath_Of_Office | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [TIME WILL TELL](./TIME_WILL_TELL.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)
-
-
-
+- [TIME WILL TELL](./TIME_WILL_TELL.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
 
 
 ---

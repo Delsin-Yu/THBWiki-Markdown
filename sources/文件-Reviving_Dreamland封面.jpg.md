@@ -1,6 +1,6 @@
 # 文件:Reviving_Dreamland封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\de\ns6%3AReviving_Dreamland%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\de\ns6%3AReviving_Dreamland%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 まりつみ | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@
   
 
 - [Reviving Dreamland](./Reviving_Dreamland.md)
-
-
-
 
 
 ---

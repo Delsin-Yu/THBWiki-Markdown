@@ -1,6 +1,6 @@
 # 文件:Yonder_Voice_Promotion_Disc_2018秋封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4a\ns6%3AYonder_Voice_Promotion_Disc_2018%E7%A7%8B%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4a\ns6%3AYonder_Voice_Promotion_Disc_2018%E7%A7%8B%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Yonder_Voice | 封面图片 | 视频封面
 
@@ -8,11 +8,9 @@ Yonder_Voice | 封面图片 | 视频封面
 使用了本文件作封面图片的作品：
   
 
-- [Yonder Voice Promotion Disc 2018秋](./Yonder_Voice_Promotion_Disc_2018秋.md)  
-该封面包含的角色：- [伊吹萃香](./伊吹萃香.md)- [少名针妙丸](./少名针妙丸.md)
-
-
-
+- [Yonder Voice Promotion Disc 2018秋](./Yonder_Voice_Promotion_Disc_2018秋.md)该封面包含的角色：
+- [伊吹萃香](./伊吹萃香.md)
+- [少名针妙丸](./少名针妙丸.md)
 
 
 ---

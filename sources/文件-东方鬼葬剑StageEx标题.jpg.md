@@ -1,14 +1,11 @@
 # 文件:东方鬼葬剑StageEx标题.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9f\ns6%3A%E4%B8%9C%E6%96%B9%E9%AC%BC%E8%91%AC%E5%89%91StageEx%E6%A0%87%E9%A2%98%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9f\ns6%3A%E4%B8%9C%E6%96%B9%E9%AC%BC%E8%91%AC%E5%89%91StageEx%E6%A0%87%E9%A2%98%2Ejpg.html -->
 
 东方鬼葬剑
 
 
 ## 文件说明
-
-
-
 
 ---
 

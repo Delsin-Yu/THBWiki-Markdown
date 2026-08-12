@@ -1,6 +1,6 @@
 # 文件:TAKE_DOWN封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2e\ns6%3ATAKE_DOWN%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2e\ns6%3ATAKE_DOWN%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 音召缶
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [TAKE DOWN](./TAKE_DOWN.md)  
-该封面包含的角色：- [键山雏](./键山雏.md)
+- [TAKE DOWN](./TAKE_DOWN.md)该封面包含的角色：
+- [键山雏](./键山雏.md)
 
   
-源地址：[图片链接](https://i1.sndcdn.com/artworks-RK7HtiTUHBrsbv6h-1FndVw-original.jpg) [SoundCloud](https://soundcloud.com/otomekan/2020-omk-61take-down_xfd)
-  
-
-
-
-
+源地址：[图片链接](https://i1.sndcdn.com/artworks-RK7HtiTUHBrsbv6h-1FndVw-original.jpg) [SoundCloud](https://soundcloud.com/otomekan/2020-omk-61take-down_xfd)  
 
 ---
 

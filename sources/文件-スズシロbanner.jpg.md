@@ -1,16 +1,11 @@
 # 文件:スズシロbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\88\ns6%3A%E3%82%B9%E3%82%BA%E3%82%B7%E3%83%ADbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\88\ns6%3A%E3%82%B9%E3%82%BA%E3%82%B7%E3%83%ADbanner%2Ejpg.html -->
 
 スズシロ | 社团LOGO
 
   
-源地址：[[1]](http://siroisuzu.web.fc2.com/suzusirobanner.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://siroisuzu.web.fc2.com/suzusirobanner.jpg)  
 
 ---
 

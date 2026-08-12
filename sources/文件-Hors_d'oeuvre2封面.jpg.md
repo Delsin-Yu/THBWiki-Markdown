@@ -1,6 +1,6 @@
 # 文件:Hors_d'oeuvre2封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6d\ns6%3AHors_d%27oeuvre2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6d\ns6%3AHors_d%27oeuvre2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 FRACTCL | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ FRACTCL | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Hors d'oeuvre2](./Hors_d'oeuvre2.md)  
-该封面包含的角色：- [比那名居天子](./比那名居天子.md)
-
-
-
+- [Hors d'oeuvre2](./Hors_d'oeuvre2.md)该封面包含的角色：
+- [比那名居天子](./比那名居天子.md)
 
 
 ---

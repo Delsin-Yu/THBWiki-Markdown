@@ -1,12 +1,8 @@
 # 文件:TravelFrontierbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\69\ns6%3ATravelFrontierbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\69\ns6%3ATravelFrontierbanner%2Ejpg.html -->
 
 TravelFrontier | 社团LOGO
-
-
-
-
 
 
 ---

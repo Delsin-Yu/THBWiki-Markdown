@@ -1,6 +1,6 @@
 # 文件:First_Impact封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2a\ns6%3AFirst_Impact%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2a\ns6%3AFirst_Impact%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Radical_Rhythm | 专辑封面 | 封面图片
 
@@ -10,16 +10,12 @@ Radical_Rhythm | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [First Impact](./First_Impact.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [First Impact](./First_Impact.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
   
-源地址：[direct image link](https://web.archive.org/web/20101230233421im_/http://www.rdcl.net/rrcd0001/rrcd0001.png), [source page](https://web.archive.org/web/20110114012734/http://www.rdcl.net/rrcd0001/)
-  
-
-
-
-
+源地址：[direct image link](https://web.archive.org/web/20101230233421im_/http://www.rdcl.net/rrcd0001/rrcd0001.png), [source page](https://web.archive.org/web/20110114012734/http://www.rdcl.net/rrcd0001/)  
 
 ---
 

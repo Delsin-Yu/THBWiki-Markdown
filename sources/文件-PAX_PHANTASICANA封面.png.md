@@ -1,6 +1,6 @@
 # 文件:PAX_PHANTASICANA封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\35\ns6%3APAX_PHANTASICANA%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\35\ns6%3APAX_PHANTASICANA%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 大東亜研 | 封面图片
 
@@ -8,12 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [PAX PHANTASICANA](./PAX_PHANTASICANA.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- 十六夜咲夜 (未找到链接)- [露娜萨·普莉兹姆利巴](./露娜萨·普莉兹姆利巴.md)源地址：[[1]](http://ma-hi-te.com/dtak0001/index.html)
-
-
-
-
+- [PAX PHANTASICANA](./PAX_PHANTASICANA.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [十六夜咲夜](./十六夜咲夜.md)
+- [露娜萨·普莉兹姆利巴](./露娜萨·普莉兹姆利巴.md)
+源地址：[\[1\]](http://ma-hi-te.com/dtak0001/index.html)
 
 ---
 

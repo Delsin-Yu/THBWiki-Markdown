@@ -1,31 +1,26 @@
 # Authority
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\1\18\ns0%3AAuthority.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\1\18\ns0%3AAuthority.html -->
 
 现实人物
 
 本页是关于东方Project  
- **二次同人创作者** 的词条
-
+**二次同人创作者**的词条
 ## 基本信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="label"><b>名称</b></td><td> 未知 <span style="font-size:90%;">（识别名：Authority）</span></td></tr><tr><td class="label"><b>所属社团</b></td><td><b>当前</b><div style="margin-left:2em;"><a href="./文水海洋俱乐部.md" title="文水海洋俱乐部">文水海洋俱乐部</a></div></td></tr><tr><td class="label"><b>职位</b></td><td>副催</td></tr><tr><td class="label"><b>个人页面</b></td><td><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><b>bilibili</b></td><td><a rel="nofollow" class="external free" href="https://space.bilibili.com/445329332">https://space.bilibili.com/445329332</a></td></tr></tbody></table></td></tr></tbody></table>
 
 Authority（人物） - 现实人物
-
 ## 人物简介
 
 ### 在文海部的情况
-[](./文件-东方神祇祀（画师：水鸟）.png.md)  [](./文件-东方神祇祀（画师：水鸟）.png.md)文海部画师的沙雕产物之一
-  
+<img alt="" src="https://upload.thwiki.cc/thumb/c/c5/%E4%B8%9C%E6%96%B9%E7%A5%9E%E7%A5%87%E7%A5%80%EF%BC%88%E7%94%BB%E5%B8%88%EF%BC%9A%E6%B0%B4%E9%B8%9F%EF%BC%89.png/300px-%E4%B8%9C%E6%96%B9%E7%A5%9E%E7%A5%87%E7%A5%80%EF%BC%88%E7%94%BB%E5%B8%88%EF%BC%9A%E6%B0%B4%E9%B8%9F%EF%BC%89.png" decoding="async" loading="lazy" width="300" height="225" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/c/c5/%E4%B8%9C%E6%96%B9%E7%A5%9E%E7%A5%87%E7%A5%80%EF%BC%88%E7%94%BB%E5%B8%88%EF%BC%9A%E6%B0%B4%E9%B8%9F%EF%BC%89.png/450px-%E4%B8%9C%E6%96%B9%E7%A5%9E%E7%A5%87%E7%A5%80%EF%BC%88%E7%94%BB%E5%B8%88%EF%BC%9A%E6%B0%B4%E9%B8%9F%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/c/c5/%E4%B8%9C%E6%96%B9%E7%A5%9E%E7%A5%87%E7%A5%80%EF%BC%88%E7%94%BB%E5%B8%88%EF%BC%9A%E6%B0%B4%E9%B8%9F%EF%BC%89.png/600px-%E4%B8%9C%E6%96%B9%E7%A5%9E%E7%A5%87%E7%A5%80%EF%BC%88%E7%94%BB%E5%B8%88%EF%BC%9A%E6%B0%B4%E9%B8%9F%EF%BC%89.png 2x" data-file-width="1280" data-file-height="960">
+ [放大](./文件-东方神祇祀（画师：水鸟）.png.md)文海部画师的沙雕产物之一  
 为[文水海洋俱乐部](./文水海洋俱乐部.md)副催，负责[东方神海祭](./东方神海祭.md)及其系列的扩展内容，基本不参与原作创作  
 
 正在以社团名义写个人作品（深海Project外传：蝴蝶效应系列 (未找到链接)）  
 
-唯一成形的作品是东方神祇祀 (未找到链接)
-  
-
-
+唯一成形的作品是东方神祇祀 (未找到链接)  
 
 ### 关于个人
   
@@ -40,18 +35,12 @@ Authority（人物） - 现实人物
 英文名：Ideal Authority    
 
 俄文名：Идеал Аутнориту  
-
   
-
 
 ### 关于创作
   
 作曲，文案，vocal，小说，绘画。活跃于bilibili、网易云音乐、lofter等地，正在考虑开推特号。从来不给任何人创作，除非与对方关系好。由于小学写过希腊风格的自创系列，如今作品风格偏西方化。作曲风格偏向trap，本职是写作，个人原因所以作品不会公开
   
-
-
-
-
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:Happy_Rule_Garden_2C封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\83\ns6%3AHappy_Rule_Garden_2C%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\83\ns6%3AHappy_Rule_Garden_2C%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Iemitsu. | 专辑封面 | 封面图片
 
@@ -8,11 +8,19 @@ Iemitsu. | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Happy Rule Garden 2C](./Happy_Rule_Garden_2C.md)  
-该封面包含的角色：- [红美铃](./红美铃.md)- [博丽灵梦](./博丽灵梦.md)- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [魂魄妖梦](./魂魄妖梦.md)- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)- [小野塚小町](./小野塚小町.md)- [伊吹萃香](./伊吹萃香.md)- [东风谷早苗](./东风谷早苗.md)- [八坂神奈子](./八坂神奈子.md)- [洩矢诹访子](./洩矢诹访子.md)- [寅丸星](./寅丸星.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [Happy Rule Garden 2C](./Happy_Rule_Garden_2C.md)该封面包含的角色：
+- [红美铃](./红美铃.md)
+- [博丽灵梦](./博丽灵梦.md)
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [魂魄妖梦](./魂魄妖梦.md)
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
+- [小野塚小町](./小野塚小町.md)
+- [伊吹萃香](./伊吹萃香.md)
+- [东风谷早苗](./东风谷早苗.md)
+- [八坂神奈子](./八坂神奈子.md)
+- [洩矢诹访子](./洩矢诹访子.md)
+- [寅丸星](./寅丸星.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

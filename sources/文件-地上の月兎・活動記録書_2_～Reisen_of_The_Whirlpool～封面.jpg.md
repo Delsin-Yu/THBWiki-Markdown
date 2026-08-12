@@ -1,6 +1,6 @@
 # 文件:地上の月兎・活動記録書_2_～Reisen_of_The_Whirlpool～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f9\ns6%3A%E5%9C%B0%E4%B8%8A%E3%81%AE%E6%9C%88%E5%85%8E%E3%83%BB%E6%B4%BB%E5%8B%95%E8%A8%98%E9%8C%B2%E6%9B%B8_2_%EF%BD%9EReisen_of_The_Whirlpool%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f9\ns6%3A%E5%9C%B0%E4%B8%8A%E3%81%AE%E6%9C%88%E5%85%8E%E3%83%BB%E6%B4%BB%E5%8B%95%E8%A8%98%E9%8C%B2%E6%9B%B8_2_%EF%BD%9EReisen_of_The_Whirlpool%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 CARUOS_THE_CIRCLE's | 同人志封面 | 封面图片
 
@@ -8,11 +8,10 @@ CARUOS_THE_CIRCLE's | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [地上の月兎・活動記録書 2 ～Reisen of The Whirlpool～](./地上の月兎・活動記録書_2_～Reisen_of_The_Whirlpool～.md)  
-该封面包含的角色：- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)- [露娜切露德](./露娜切露德.md)- [铃瑚](./铃瑚.md)
-
-
-
+- [地上の月兎・活動記録書 2 ～Reisen of The Whirlpool～](./地上の月兎・活動記録書_2_～Reisen_of_The_Whirlpool～.md)该封面包含的角色：
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
+- [露娜切露德](./露娜切露德.md)
+- [铃瑚](./铃瑚.md)
 
 
 ---

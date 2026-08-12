@@ -1,16 +1,11 @@
 # 文件:JinXbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\34\ns6%3AJinXbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\34\ns6%3AJinXbanner%2Epng.html -->
 
 JinX | 社团LOGO
 
   
-源地址: [[1]](https://static.wixstatic.com/media/bf3f64_239ff13176ca4f819ca3165c00bbb889.jpg/v1/fill/w_588,h_295,al_c,q_80,usm_0.66_1.00_0.01/bf3f64_239ff13176ca4f819ca3165c00bbb889.jpg)
-  
-
-
-
-
+源地址: [\[1\]](https://static.wixstatic.com/media/bf3f64_239ff13176ca4f819ca3165c00bbb889.jpg/v1/fill/w_588,h_295,al_c,q_80,usm_0.66_1.00_0.01/bf3f64_239ff13176ca4f819ca3165c00bbb889.jpg)  
 
 ---
 

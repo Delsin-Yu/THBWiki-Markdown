@@ -1,14 +1,11 @@
 # 文件:光击「Shoot_the_Little_Moon」（大战争）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6c\ns6%3A%E5%85%89%E5%87%BB%E3%80%8CShoot_the_Little_Moon%E3%80%8D%EF%BC%88%E5%A4%A7%E6%88%98%E4%BA%89%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6c\ns6%3A%E5%85%89%E5%87%BB%E3%80%8CShoot_the_Little_Moon%E3%80%8D%EF%BC%88%E5%A4%A7%E6%88%98%E4%BA%89%EF%BC%89%2Epng.html -->
 
 妖精大战争 | 敌机符卡 | 雾雨魔理沙
 
 
 ## 文件说明
-
-
-
 
 ---
 

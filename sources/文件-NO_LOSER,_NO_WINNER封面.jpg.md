@@ -1,6 +1,6 @@
 # 文件:NO_LOSER,_NO_WINNER封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cb\ns6%3ANO_LOSER%2C_NO_WINNER%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cb\ns6%3ANO_LOSER%2C_NO_WINNER%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 IRON_ATTACK! | 专辑封面 | 封面图片
 
@@ -10,11 +10,9 @@ IRON_ATTACK! | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [NO LOSER, NO WINNER](./NO_LOSER,_NO_WINNER.md)  
-该封面包含的角色：- [依神女苑](./依神女苑.md)- [依神紫苑](./依神紫苑.md)
-
-
-
+- [NO LOSER, NO WINNER](./NO_LOSER,_NO_WINNER.md)该封面包含的角色：
+- [依神女苑](./依神女苑.md)
+- [依神紫苑](./依神紫苑.md)
 
 
 ---

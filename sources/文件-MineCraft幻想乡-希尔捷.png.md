@@ -1,14 +1,11 @@
 # 文件:MineCraft幻想乡-希尔捷.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7e\ns6%3AMineCraft%E5%B9%BB%E6%83%B3%E4%B9%A1-%E5%B8%8C%E5%B0%94%E6%8D%B7%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7e\ns6%3AMineCraft%E5%B9%BB%E6%83%B3%E4%B9%A1-%E5%B8%8C%E5%B0%94%E6%8D%B7%2Epng.html -->
 
 MineCraft幻想乡
 
 
 ## 文件说明
-
-
-
 
 ---
 

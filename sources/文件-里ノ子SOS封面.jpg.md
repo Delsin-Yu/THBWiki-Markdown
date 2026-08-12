@@ -1,6 +1,6 @@
 # 文件:里ノ子SOS封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\30\ns6%3A%E9%87%8C%E3%83%8E%E5%AD%90SOS%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\30\ns6%3A%E9%87%8C%E3%83%8E%E5%AD%90SOS%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 泥舟海運
 
@@ -10,11 +10,13 @@
 使用了本文件作封面图片的作品：
   
 
-- [里ノ子SOS](./里ノ子SOS.md)  
-该封面包含的角色：- [上白泽慧音](./上白泽慧音.md)- [藤原妹红](./藤原妹红.md)- [伊吹萃香](./伊吹萃香.md)- [多多良小伞](./多多良小伞.md)- [本居小铃](./本居小铃.md)- [稗田阿求](./稗田阿求.md)
-
-
-
+- [里ノ子SOS](./里ノ子SOS.md)该封面包含的角色：
+- [上白泽慧音](./上白泽慧音.md)
+- [藤原妹红](./藤原妹红.md)
+- [伊吹萃香](./伊吹萃香.md)
+- [多多良小伞](./多多良小伞.md)
+- [本居小铃](./本居小铃.md)
+- [稗田阿求](./稗田阿求.md)
 
 
 ---

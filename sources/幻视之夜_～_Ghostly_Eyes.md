@@ -1,44 +1,32 @@
 # 幻视之夜_～_Ghostly_Eyes
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\40\ns0%3A%E5%B9%BB%E8%A7%86%E4%B9%8B%E5%A4%9C_%EF%BD%9E_Ghostly_Eyes.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\40\ns0%3A%E5%B9%BB%E8%A7%86%E4%B9%8B%E5%A4%9C_%EF%BD%9E_Ghostly_Eyes.html -->
 
 由 ZUN 创作的官方曲目，原名 幻視の夜　～ Ghostly Eyes
 
 本页是关于东方Project  
- **原作音乐** 的词条
-
+**原作音乐**的词条
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 出现作品](#出现作品)
 - [3 音乐文件](#音乐文件)
-
   - [3.1 莲台野夜行](#莲台野夜行)
   - [3.2 东方永夜抄](#东方永夜抄)
-
     - [3.2.1 WAV](#WAV)
     - [3.2.2 MIDI](#MIDI)
 
 
 
 
-
-
 - [4 说明文本](#说明文本)
-
   - [4.1 东方永夜抄](#东方永夜抄_2)
 
 
-
 - [5 其他资料](#其他资料)
-
   - [5.1 乐理资讯](#乐理资讯)
   - [5.2 分析考据](#分析考据)
   - [5.3 二次同人数据](#二次同人数据)
-
-
-
-
 
 
 
@@ -48,7 +36,6 @@
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">幻視の夜　～ Ghostly Eyes</td></tr><tr><td><b>译名</b></td><td>幻视之夜 ～ Ghostly Eyes</td></tr><tr><td><b>英文译名</b></td><td>Illusionary Night ~ Ghostly Eyes</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 幻视之夜 ～ Ghostly Eyes（曲目） - 由 ZUN 创作的官方曲目，原名 幻視の夜　～ Ghostly Eyes
-
 ## 出现作品
 
 <table>
@@ -58,13 +45,11 @@
 </tbody></table>
 
 
-
 ## 音乐文件
 
 ### 莲台野夜行
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-hr02_05.mp3.md" title="文件:hr02 05.mp3">hr02_05.mp3</a><br><audio src="https://upload.thwiki.cc/5/5b/hr02_05.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track05.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>4:09</td></tr></tbody></table>
-
 
 
 ### 东方永夜抄
@@ -74,7 +59,6 @@
 WAV版是游戏的原声带。
   
 
-
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td><a href="./文件-th08_02.mid.md" title="文件:th08 02.mid">th08_02.mid</a></td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th08_02.mp3.md" title="文件:th08 02.mp3">th08_02.mp3</a><br><audio src="https://upload.thwiki.cc/d/d2/th08_02.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>BGM\th08_02.wav</td></tr><tr><td><b>BGMForAll</b></td><td><div class="mw-collapsible mw-collapsed">
 <p><b>BGMForAll数据信息</b>
 </p>
@@ -83,21 +67,19 @@ WAV版是游戏的原声带。
 </td></tr></tbody></table>
 
 
-
 #### MIDI
   
 MIDI版由Roland Sound Canvas 88Pro实机录音得到。
   
 
-
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td><a href="./文件-th08_02.mid.md" title="文件:th08 02.mid">th08_02.mid</a></td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th08_02_SC88Pro.mp3.md" title="文件:th08 02 SC88Pro.mp3">th08_02_SC88Pro.mp3</a><br><audio src="https://upload.thwiki.cc/e/eb/th08_02_SC88Pro.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>th08_02.mid</td></tr><tr><td><b>音轨时长</b></td><td>2:07</td></tr></tbody></table>
-
 
 
 ## 说明文本
 
 ### 东方永夜抄
-- Music Room (未找到链接)
+
+- [Music Room](./东方永夜抄-Music.md#第1面主题曲)
 
 　第１面的主题曲。  
 　虽然总觉得第一面来点轻快而情绪高昂的东西多好啊，不过这首，  
@@ -105,33 +87,31 @@ MIDI版由Roland Sound Canvas 88Pro实机录音得到。
 　但是因为永夜抄所讲述的是夜晚与妖怪的故事，黑暗点吧黑暗点吧。  
 　这首曲子由于在莲台野夜行中也有收录，也许有不少人都已经听过了。  
 　才第１面就这么黑暗了后面真是令人担忧啊。
-- 里音乐评论 (未找到链接)
+- [里音乐评论](./附带文档-东方永夜抄-Omake.md#里音乐评论)
 
 　2.幻视之夜　～ Ghostly Eyes  
 　　灵之眼。  
 　　能够捕捉幽暗之物的眼睛。此眼所见之夜可令其现出真身。幻视与原始谐音。  
 　　就是如此自然的夜晚。
-
 ## 其他资料
 
 ### 乐理资讯
 
 ### 分析考据
   
- **幻視の夜　～ Ghostly Eyes**  幻视之夜　～ Ghostly Eyes
+**幻視の夜 ～ Ghostly Eyes** 幻视之夜　～ Ghostly Eyes
   
 
-- <ruby lang="ja"><rb>幻視</rb><rp> (</rp><rt>げんし</rt><rp>) </rp></ruby>
-（幻视）
+- <ruby lang="ja"><rb>幻視</rb><rp> (</rp><rt>げんし</rt><rp>) </rp></ruby>（幻视） 
   - 莲子的眼睛能看到时间和地点，梅莉的眼睛能看到结界的缝隙。
-  - 音同「<ruby lang="ja"><rb>原始</rb><rp> (</rp><rt>げんし</rt><rp>) </rp></ruby>
-」。这一点ZUN也提到了。&#91;里音乐评论&#93; (未找到链接)
+  - 音同「<ruby lang="ja"><rb>原始</rb><rp> (</rp><rt>げんし</rt><rp>) </rp></ruby>」。这一点ZUN也提到了。[\[里音乐评论\]](./附带文档-东方永夜抄-Omake.md#里音乐评论)
   - 体现出永夜抄一面场景的黑暗自然之感。
 
-- <ruby lang="ja"><rb>夜</rb><rp> (</rp><rt>よる</rt><rp>) </rp></ruby>
 
+- <ruby lang="ja"><rb>夜</rb><rp> (</rp><rt>よる</rt><rp>) </rp></ruby>
   - 秘封俱乐部的活动发生在凌晨。
   - 永夜抄中自机们暂停了夜晚。
+
 
 
 
@@ -147,17 +127,6 @@ MIDI版由Roland Sound Canvas 88Pro实机录音得到。
 <tr><td>Arrange</td><td>519</td></tr>
 <tr><td>Vocal率</td><td>31.35%</td></tr>
 </tbody></table>
-
-
-
-
-  
-  
-
-  
-
-
-
 
 
 ---

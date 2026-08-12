@@ -1,6 +1,6 @@
 # 文件:EXCEED封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0f\ns6%3AEXCEED%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0f\ns6%3AEXCEED%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Pearls_Before_Swine | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Pearls_Before_Swine | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [EXCEED](./EXCEED.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
+- [EXCEED](./EXCEED.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-源地址：[[1]](http://pbswine.jp/pbs002/img/exceed-front.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://pbswine.jp/pbs002/img/exceed-front.jpg)  
 
 ---
 

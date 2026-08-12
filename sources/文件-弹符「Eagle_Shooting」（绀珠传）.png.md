@@ -1,12 +1,8 @@
 # 文件:弹符「Eagle_Shooting」（绀珠传）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ef\ns6%3A%E5%BC%B9%E7%AC%A6%E3%80%8CEagle_Shooting%E3%80%8D%EF%BC%88%E7%BB%80%E7%8F%A0%E4%BC%A0%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ef\ns6%3A%E5%BC%B9%E7%AC%A6%E3%80%8CEagle_Shooting%E3%80%8D%EF%BC%88%E7%BB%80%E7%8F%A0%E4%BC%A0%EF%BC%89%2Epng.html -->
 
 东方绀珠传 | 敌机符卡 | 清兰
-
-
-
-
 
 
 ---

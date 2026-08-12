@@ -1,6 +1,6 @@
 # 文件:東方魔宝城_～_Book_of_Star_Mythology.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3e\ns6%3A%E6%9D%B1%E6%96%B9%E9%AD%94%E5%AE%9D%E5%9F%8E_%EF%BD%9E_Book_of_Star_Mythology%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3e\ns6%3A%E6%9D%B1%E6%96%B9%E9%AD%94%E5%AE%9D%E5%9F%8E_%EF%BD%9E_Book_of_Star_Mythology%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Mace's_Secret_Base | 封面图片 | 東方邪星章製作チーム | 软件封面
 
@@ -8,11 +8,8 @@ Mace's_Secret_Base | 封面图片 | 東方邪星章製作チーム | 软件封�
 使用了本文件作封面图片的作品：
   
 
-- [東方魔宝城 ～ Book of Star Mythology.](./東方魔宝城_～_Book_of_Star_Mythology..md)  
-该封面包含的角色：- [芙玛·米珊朵拉](./芙玛·米珊朵拉.md)
-
-
-
+- [東方魔宝城 ～ Book of Star Mythology.](./東方魔宝城_～_Book_of_Star_Mythology..md)该封面包含的角色：
+- [芙玛·米珊朵拉](./芙玛·米珊朵拉.md)
 
 
 ---

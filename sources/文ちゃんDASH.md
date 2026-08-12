@@ -1,12 +1,11 @@
 # 文ちゃんDASH
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\3\3b\ns0%3A%E6%96%87%E3%81%A1%E3%82%83%E3%82%93DASH.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\3\3b\ns0%3A%E6%96%87%E3%81%A1%E3%82%83%E3%82%93DASH.html -->
 
 2011年8月13日 由 莓兄贵 于 Comic Market 80 发布的ACT同人游戏，可在 Windows 系统上运行，游戏人数为 单人模式，，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人软件 (未找到链接)** 的词条
-
+**[二次创作同人软件](./二次创作.md#同人软件)**的词条
 ## 目录
 
 - [1 软件信息](#软件信息)
@@ -15,46 +14,33 @@
 - [4 评论](#评论)
 
 
-
-
-
 ## 软件信息
-[](./文件-文ちゃんDASH封面.jpg.md)  [](./文件-文ちゃんDASH封面.jpg.md)选关画面
-
+<img alt="" src="https://upload.thwiki.cc/thumb/b/b0/%E6%96%87%E3%81%A1%E3%82%83%E3%82%93DASH%E5%B0%81%E9%9D%A2.jpg/200px-%E6%96%87%E3%81%A1%E3%82%83%E3%82%93DASH%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="200" height="150" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/b/b0/%E6%96%87%E3%81%A1%E3%82%83%E3%82%93DASH%E5%B0%81%E9%9D%A2.jpg/300px-%E6%96%87%E3%81%A1%E3%82%83%E3%82%93DASH%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/b/b0/%E6%96%87%E3%81%A1%E3%82%83%E3%82%93DASH%E5%B0%81%E9%9D%A2.jpg/400px-%E6%96%87%E3%81%A1%E3%82%83%E3%82%93DASH%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="480" data-file-height="360">
+ [放大](./文件-文ちゃんDASH封面.jpg.md)选关画面
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2">无封面</td>
-</tr><tr><td class="label">名称</td><td colspan="2"> 文ちゃんDASH </td></tr><tr><td class="label">制作方</td><td><a href="/index.php?title=%E8%8E%93%E5%85%84%E8%B4%B5&amp;action=edit&amp;redlink=1" class="new" title="莓兄贵（页面不存在）">莓兄贵</a></td><td class="cover-artwork" rowspan="8" style="min-width:224px;">无封面</td>
-</tr><tr><td class="label">首发日期</td><td>2011-08-13&#160;（<a href="/展会作品列表?e=Comic+Market%2380">Comic Market 80</a>）</td></tr><tr><td class="label">类型</td><td>游戏</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">游戏人数</td><td>单人模式</td></tr><tr><td class="label">游戏类型</td><td>ACT</td></tr><tr><td class="label">运行平台</td><td>Windows</td></tr><tr><td class="label">语言</td><td>日文</td></tr><tr><td class="label">售价</td><td>会场售价：1000日元<br>通贩售价：1470日元</td></tr>
+</tr><tr><td class="label">名称</td><td colspan="2"> 文ちゃんDASH </td></tr><tr><td class="label">制作方</td><td><a class="new" title="莓兄贵（页面不存在）">莓兄贵</a></td><td class="cover-artwork" rowspan="8" style="min-width:224px;">无封面</td>
+</tr><tr><td class="label">首发日期</td><td>2011-08-13 （<a href="./展会作品列表.md#80">Comic Market 80</a>）</td></tr><tr><td class="label">类型</td><td>游戏</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">游戏人数</td><td>单人模式</td></tr><tr><td class="label">游戏类型</td><td>ACT</td></tr><tr><td class="label">运行平台</td><td>Windows</td></tr><tr><td class="label">语言</td><td>日文</td></tr><tr><td class="label">售价</td><td>会场售价：1000日元<br>通贩售价：1470日元</td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://strawberryguy.web.fc2.com/works/act01_ayachan_dash/">http://strawberryguy.web.fc2.com/works/act01_ayachan_dash/</a></td></tr></tbody></table>
 
 文ちゃんDASH（同人游戏，莓兄贵，2011） - 2011年8月13日 由 莓兄贵 于 Comic Market 80 发布的ACT同人游戏，可在 Windows 系统上运行，游戏人数为 单人模式，，分级为 一般向
-  
-  
-
-  
-
-
 <table>
 <tbody><tr><th colspan="2">配置需求</th></tr>
 <tr><td style="width:120px;padding-left:7px;"><b>操作系统</b></td><td>日语版Windows XP</td></tr><tr><td style="width:120px;padding-left:7px;"><b>CPU</b></td><td>推荐Atom1.6GHz 相当或以上</td></tr><tr><td style="width:120px;padding-left:7px;"><b>内存</b></td><td>1GB以上</td></tr><tr><td style="width:120px;padding-left:7px;"><b>显示卡</b></td><td>推荐GeForce7300/RadeonX1300 相当或以上</td></tr><tr><td style="width:120px;padding-left:7px;"><b>硬盘需求</b></td><td>2GB以上</td></tr>
 </tbody></table>
 
 
-
 ## Staff
 封面插图
 : 水星野郎
 
-
 ## 内容页面
+
 - 游戏设定与剧情 (未找到链接)
 - 攻略 (未找到链接)
 - 其他信息 (未找到链接)
 
 
 ## 评论
-
-
-
 
 ---
 

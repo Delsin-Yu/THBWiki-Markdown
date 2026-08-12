@@ -1,18 +1,13 @@
 # 文件:Evolution_Tuneslogo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0f\ns6%3AEvolution_Tuneslogo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0f\ns6%3AEvolution_Tuneslogo%2Epng.html -->
 
 Evolution_Tunes | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[circle website](https://static.wixstatic.com/media/b7ef94_8d04c35556d6433aafed1aaf132d9a36~mv2.png), [source page](https://evolutiontune.wixsite.com/evolutiontune)
-  
-
-
-
-
+源地址：[circle website](https://static.wixstatic.com/media/b7ef94_8d04c35556d6433aafed1aaf132d9a36~mv2.png), [source page](https://evolutiontune.wixsite.com/evolutiontune)  
 
 ---
 

@@ -1,14 +1,11 @@
 # 文件:蓬莱Kaleidoscope_LOGO.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8c\ns6%3A%E8%93%AC%E8%8E%B1Kaleidoscope_LOGO%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8c\ns6%3A%E8%93%AC%E8%8E%B1Kaleidoscope_LOGO%2Epng.html -->
 
 活动LOGO | 蓬莱Kaleidoscope
 
 
 ## 文件说明
-
-
-
 
 ---
 

@@ -1,12 +1,8 @@
 # 文件:efs_banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6f\ns6%3Aefs_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6f\ns6%3Aefs_banner%2Ejpg.html -->
 
 efs | 社团LOGO
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:My_Voice_-私の声-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6c\ns6%3AMy_Voice_-%E7%A7%81%E3%81%AE%E5%A3%B0-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6c\ns6%3AMy_Voice_-%E7%A7%81%E3%81%AE%E5%A3%B0-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 カルトッフェル | 同人志封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [My Voice -私の声-](./My_Voice_-私の声-.md)  
-该封面包含的角色：- [幽谷响子](./幽谷响子.md)
-
-
-
+- [My Voice -私の声-](./My_Voice_-私の声-.md)该封面包含的角色：
+- [幽谷响子](./幽谷响子.md)
 
 
 ---

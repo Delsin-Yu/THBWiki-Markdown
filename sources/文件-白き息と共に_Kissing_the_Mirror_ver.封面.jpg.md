@@ -1,6 +1,6 @@
 # 文件:白き息と共に_Kissing_the_Mirror_ver.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8c\ns6%3A%E7%99%BD%E3%81%8D%E6%81%AF%E3%81%A8%E5%85%B1%E3%81%AB_Kissing_the_Mirror_ver%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8c\ns6%3A%E7%99%BD%E3%81%8D%E6%81%AF%E3%81%A8%E5%85%B1%E3%81%AB_Kissing_the_Mirror_ver%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Kissing_the_Mirror | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@ Kissing_the_Mirror | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [白き息と共に Kissing the Mirror ver.](./白き息と共に_Kissing_the_Mirror_ver..md)  
-该封面包含的角色：- [蕾蒂·霍瓦特洛克](./蕾蒂·霍瓦特洛克.md)
+- [白き息と共に Kissing the Mirror ver.](./白き息と共に_Kissing_the_Mirror_ver..md)该封面包含的角色：
+- [蕾蒂·霍瓦特洛克](./蕾蒂·霍瓦特洛克.md)
 
   
-源地址：[[1]](http://kissingthemirror.com/disco/aod024/img/shiroki_l.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://kissingthemirror.com/disco/aod024/img/shiroki_l.jpg)  
 
 ---
 

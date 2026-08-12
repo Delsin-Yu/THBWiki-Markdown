@@ -1,12 +1,8 @@
 # 文件:st_sakuya.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b0\ns6%3Ast_sakuya%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b0\ns6%3Ast_sakuya%2Ejpg.html -->
 
 未完童話
-
-
-
-
 
 
 ---

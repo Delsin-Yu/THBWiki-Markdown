@@ -1,12 +1,8 @@
 # 文件:东方宵海格stex.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6e\ns6%3A%E4%B8%9C%E6%96%B9%E5%AE%B5%E6%B5%B7%E6%A0%BCstex%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6e\ns6%3A%E4%B8%9C%E6%96%B9%E5%AE%B5%E6%B5%B7%E6%A0%BCstex%2Ejpg.html -->
 
 OSY搞事组
-
-
-
-
 
 
 ---

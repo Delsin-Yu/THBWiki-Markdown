@@ -1,6 +1,6 @@
 # 文件:TOHO_EUROBEAT_VOL.14_紅魔郷封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ca\ns6%3ATOHO_EUROBEAT_VOL%2E14_%E7%B4%85%E9%AD%94%E9%83%B7%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ca\ns6%3ATOHO_EUROBEAT_VOL%2E14_%E7%B4%85%E9%AD%94%E9%83%B7%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 A-One | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ A-One | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [TOHO EUROBEAT VOL.14 紅魔郷](./TOHO_EUROBEAT_VOL.14_紅魔郷.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [TOHO EUROBEAT VOL.14 紅魔郷](./TOHO_EUROBEAT_VOL.14_紅魔郷.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
   
-源地址：[[1]](http://a-one-records.com/discography/TEB14_jacket.png)
-  
-
-
-
-
+源地址：[\[1\]](http://a-one-records.com/discography/TEB14_jacket.png)  
 
 ---
 

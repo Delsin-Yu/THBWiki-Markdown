@@ -1,36 +1,29 @@
 # Yelled_Toward_Highest
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\6e\ns0%3AYelled_Toward_Highest.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\6e\ns0%3AYelled_Toward_Highest.html -->
 
 YelledTowardHighest ，主要制作 同人音乐 的日本同人社团，主催是 YelledTowardHighest（人物），当前状态为 休止
 
-本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
-
+本页是关于**[同人社团](./二次创作.md#同人社团)**的词条
 ## 目录
 
 - [1 社团信息](#社团信息)
 - [2 成员名单](#成员名单)
 - [3 作品列表](#作品列表)
-
   - [3.1 同人专辑](#同人专辑)
-
 
 
 - [4 参展信息](#参展信息)
 - [5 其他信息](#其他信息)
 
 
-
-
-
 ## 社团信息
-文件:Yelled Toward Highestbanner.jpg (未找到链接)  banner
-
-<table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> YelledTowardHighest </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=YelledTowardHighest%EF%BC%88%E4%BA%BA%E7%89%A9%EF%BC%89&amp;action=edit&amp;redlink=1" class="new" title="YelledTowardHighest（人物）（页面不存在）">YelledTowardHighest（人物）</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://www.yoshiymusic.com/yth/">http://www.yoshiymusic.com/yth/</a> </td></tr></tbody></table>
+文件:Yelled Toward Highestbanner.jpg (未找到链接) banner
+<table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> YelledTowardHighest </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>主催</b></td><td> <a class="new" title="YelledTowardHighest（人物）（页面不存在）">YelledTowardHighest（人物）</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://www.yoshiymusic.com/yth/">http://www.yoshiymusic.com/yth/</a> </td></tr></tbody></table>
 
 Yelled Toward Highest（同人社团，同人音乐社团） - YelledTowardHighest ，主要制作 同人音乐 的日本同人社团，主催是 YelledTowardHighest（人物），当前状态为 休止
-
 ## 成员名单
+
 - YelledTowardHighest (未找到链接)
 - YamadaYoshitada (未找到链接)
 
@@ -38,22 +31,14 @@ Yelled Toward Highest（同人社团，同人音乐社团） - YelledTowardHighe
 ## 作品列表
 
 ### 同人专辑
-[](./tohomaniaⅡDX_13_Ghost_Rivival.md)[tohomaniaⅡDX 13 Ghost Rivival](./tohomaniaⅡDX_13_Ghost_Rivival.md)首发日期：2013-05-26 （第十回 博麗神社例大祭 (未找到链接)）EP （一般向）
-<table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
-</table>
-
-
+- **[tohomaniaⅡDX 13 Ghost Rivival](./tohomaniaⅡDX_13_Ghost_Rivival.md)** — 首发日期：2013-05-26 （第十回 博麗神社例大祭）；EP （一般向）
 
 ## 参展信息
 
-<table><tbody><tr><th class="活动页面">活动页面</th><th class="活动名称">活动名称</th><th class="日期">日期</th><th class="举办地点">举办地点</th><th class="摊位编号">摊位编号</th><th class="宣传页面">宣传页面</th><th class="备注">备注</th></tr><tr data-row-number="1" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD#10" title="博丽神社例大祭">博丽神社例大祭#10</a></span></td><td class="活动名称 smwtype_txt">第十回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2456438.5">2013-05-26</td><td class="举办地点 smwtype_txt">东京Big Sight 东123456展厅</td><td class="摊位编号 smwtype_txt">D47a</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr></tbody></table>
-
+<table><tbody><tr><th class="活动页面">活动页面</th><th class="活动名称">活动名称</th><th class="日期">日期</th><th class="举办地点">举办地点</th><th class="摊位编号">摊位编号</th><th class="宣传页面">宣传页面</th><th class="备注">备注</th></tr><tr data-row-number="1" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="./博丽神社例大祭.md#10" title="博丽神社例大祭">博丽神社例大祭#10</a></span></td><td class="活动名称 smwtype_txt">第十回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2456438.5">2013-05-26</td><td class="举办地点 smwtype_txt">东京Big Sight 东123456展厅</td><td class="摊位编号 smwtype_txt">D47a</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr></tbody></table>
 
 
 ## 其他信息
-
-
-
 
 ---
 

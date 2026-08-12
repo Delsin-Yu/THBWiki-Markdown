@@ -1,6 +1,6 @@
 # 文件:Immortal_tears封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\31\ns6%3AImmortal_tears%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\31\ns6%3AImmortal_tears%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 2nd-Phase | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@
   
 
 - [Immortal tears](./Immortal_tears.md)
-
-
-
 
 
 ---

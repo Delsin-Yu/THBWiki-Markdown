@@ -1,12 +1,8 @@
 # 文件:THD2思兼生命智慧.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cc\ns6%3ATHD2%E6%80%9D%E5%85%BC%E7%94%9F%E5%91%BD%E6%99%BA%E6%85%A7%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cc\ns6%3ATHD2%E6%80%9D%E5%85%BC%E7%94%9F%E5%91%BD%E6%99%BA%E6%85%A7%2Epng.html -->
 
 AvalonStudioOfficial
-
-
-
-
 
 
 ---

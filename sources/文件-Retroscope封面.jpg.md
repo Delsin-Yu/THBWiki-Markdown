@@ -1,6 +1,6 @@
 # 文件:Retroscope封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\12\ns6%3ARetroscope%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\12\ns6%3ARetroscope%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Adust_Rain | 专辑封面 | 封面图片
 
@@ -11,12 +11,7 @@ Adust_Rain | 专辑封面 | 封面图片
 - [Retroscope](./Retroscope.md)
 
   
-源地址：[direct image link (original size; re-exported in lower quality (95) jpg for file size limit)](https://image.jimcdn.com/app/cms/image/transf/none/path/s2b48f01cf0d87509/image/i7afbd613fbd7f380/version/1492325891/image.jpg), [source page](https://adustrain.jimdofree.com/discography/)
-  
-
-
-
-
+源地址：[direct image link (original size; re-exported in lower quality (95) jpg for file size limit)](https://image.jimcdn.com/app/cms/image/transf/none/path/s2b48f01cf0d87509/image/i7afbd613fbd7f380/version/1492325891/image.jpg), [source page](https://adustrain.jimdofree.com/discography/)  
 
 ---
 

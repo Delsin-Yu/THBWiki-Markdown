@@ -1,6 +1,6 @@
 # 文件:LUMINESCENCE（2005）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\47\ns6%3ALUMINESCENCE%EF%BC%882005%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\47\ns6%3ALUMINESCENCE%EF%BC%882005%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 EnHANCE_HEART | 同人志封面 | 封面图片
 
@@ -10,11 +10,9 @@ EnHANCE_HEART | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [LUMINESCENCE（2005）](./LUMINESCENCE（2005）.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
-
-
-
+- [LUMINESCENCE（2005）](./LUMINESCENCE（2005）.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
 
 ---

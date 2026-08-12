@@ -1,6 +1,6 @@
 # 文件:Re：Verse封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8d\ns6%3ARe%EF%BC%9AVerse%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8d\ns6%3ARe%EF%BC%9AVerse%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 サンライズハイスクール | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Re：Verse](./Re：Verse.md)  
-该封面包含的角色：- [八云紫](./八云紫.md)
+- [Re：Verse](./Re：Verse.md)该封面包含的角色：
+- [八云紫](./八云紫.md)
 
   
-源地址：[[1]](http://static.tumblr.com/d2b829b5be30372ef36836764a4491cf/g2tmrzl/78koebq3b/tumblr_static_4lzvmpntthq80ss4448ckwo0c.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://static.tumblr.com/d2b829b5be30372ef36836764a4491cf/g2tmrzl/78koebq3b/tumblr_static_4lzvmpntthq80ss4448ckwo0c.jpg)  
 
 ---
 

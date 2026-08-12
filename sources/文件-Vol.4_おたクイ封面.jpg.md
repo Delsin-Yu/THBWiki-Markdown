@@ -1,6 +1,6 @@
 # 文件:Vol.4_おたクイ封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bc\ns6%3AVol%2E4_%E3%81%8A%E3%81%9F%E3%82%AF%E3%82%A4%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bc\ns6%3AVol%2E4_%E3%81%8A%E3%81%9F%E3%82%AF%E3%82%A4%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 おたクインテット | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Vol.4 おたクイ](./Vol.4_おたクイ.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)
+- [Vol.4 おたクイ](./Vol.4_おたクイ.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
 
   
-源地址：[[1]](http://otaquintet.net/images/vol.4.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://otaquintet.net/images/vol.4.jpg)  
 
 ---
 

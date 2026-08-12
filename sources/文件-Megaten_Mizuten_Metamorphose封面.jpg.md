@@ -1,6 +1,6 @@
 # 文件:Megaten_Mizuten_Metamorphose封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bf\ns6%3AMegaten_Mizuten_Metamorphose%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bf\ns6%3AMegaten_Mizuten_Metamorphose%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Atrobool | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Atrobool | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Megaten Mizuten Metamorphose](./Megaten_Mizuten_Metamorphose.md)  
-该封面包含的角色：- [今泉影狼](./今泉影狼.md)
-
-
-
+- [Megaten Mizuten Metamorphose](./Megaten_Mizuten_Metamorphose.md)该封面包含的角色：
+- [今泉影狼](./今泉影狼.md)
 
 
 ---

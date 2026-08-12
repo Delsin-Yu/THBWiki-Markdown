@@ -1,6 +1,6 @@
 # 文件:Omnibus_2022封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5c\ns6%3AOmnibus_2022%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5c\ns6%3AOmnibus_2022%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 RED_FOREST_METAL_ORCHESTRA | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ RED_FOREST_METAL_ORCHESTRA | 专辑封面 | 封面图片
   
 
 - [Omnibus 2022](./Omnibus_2022.md)
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:In_Your_Heart_EP封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a6\ns6%3AIn_Your_Heart_EP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a6\ns6%3AIn_Your_Heart_EP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 kita | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@ kita | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [In Your Heart EP](./In_Your_Heart_EP.md)  
-该封面包含的角色：- [圣白莲](./圣白莲.md)
+- [In Your Heart EP](./In_Your_Heart_EP.md)该封面包含的角色：
+- [圣白莲](./圣白莲.md)
 
   
-源地址：[[1]](https://f4.bcbits.com/img/a0242329745_10.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://f4.bcbits.com/img/a0242329745_10.jpg)  
 
 ---
 

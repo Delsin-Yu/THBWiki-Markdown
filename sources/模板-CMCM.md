@@ -1,16 +1,12 @@
 # 模板:CMCM
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\1\1c\ns10%3ACMCM.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\1\1c\ns10%3ACMCM.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

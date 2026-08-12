@@ -1,6 +1,6 @@
 # 文件:Everlasting（CielArc）封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\13\ns6%3AEverlasting%EF%BC%88CielArc%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\13\ns6%3AEverlasting%EF%BC%88CielArc%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 CielArc | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ CielArc | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Everlasting（CielArc）](./Everlasting（CielArc）.md)  
-该封面包含的角色：- [古明地恋](./古明地恋.md)
+- [Everlasting（CielArc）](./Everlasting（CielArc）.md)该封面包含的角色：
+- [古明地恋](./古明地恋.md)
 
   
-源地址：[[1]](https://static.wixstatic.com/media/c1f728_ea0b13d4ecb64e01b9fe303088523427~mv2_d_1736_1736_s_2.png/v1/fill/w_385,h_385,al_c,usm_0.66_1.00_0.01/c1f728_ea0b13d4ecb64e01b9fe303088523427~mv2_d_1736_1736_s_2.png)
-  
-
-
-
-
+源地址：[\[1\]](https://static.wixstatic.com/media/c1f728_ea0b13d4ecb64e01b9fe303088523427~mv2_d_1736_1736_s_2.png/v1/fill/w_385,h_385,al_c,usm_0.66_1.00_0.01/c1f728_ea0b13d4ecb64e01b9fe303088523427~mv2_d_1736_1736_s_2.png)  
 
 ---
 

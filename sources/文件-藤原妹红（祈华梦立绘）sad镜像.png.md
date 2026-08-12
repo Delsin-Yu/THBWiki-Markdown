@@ -1,14 +1,11 @@
 # 文件:藤原妹红（祈华梦立绘）sad镜像.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b1\ns6%3A%E8%97%A4%E5%8E%9F%E5%A6%B9%E7%BA%A2%EF%BC%88%E7%A5%88%E5%8D%8E%E6%A2%A6%E7%AB%8B%E7%BB%98%EF%BC%89sad%E9%95%9C%E5%83%8F%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b1\ns6%3A%E8%97%A4%E5%8E%9F%E5%A6%B9%E7%BA%A2%EF%BC%88%E7%A5%88%E5%8D%8E%E6%A2%A6%E7%AB%8B%E7%BB%98%EF%BC%89sad%E9%95%9C%E5%83%8F%2Epng.html -->
 
 东方祈华梦制作组 | 二次角色立绘 | 藤原妹红（祈华梦）
 
 
 ## 文件说明
-
-
-
 
 ---
 

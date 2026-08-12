@@ -1,6 +1,6 @@
 # 文件:信仰の調べ～Symphonic_Fantasm～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\48\ns6%3A%E4%BF%A1%E4%BB%B0%E3%81%AE%E8%AA%BF%E3%81%B9%EF%BD%9ESymphonic_Fantasm%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\48\ns6%3A%E4%BF%A1%E4%BB%B0%E3%81%AE%E8%AA%BF%E3%81%B9%EF%BD%9ESymphonic_Fantasm%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 幻楽工房
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [信仰の調べ～Symphonic Fantasm～](./信仰の調べ～Symphonic_Fantasm～.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [东风谷早苗](./东风谷早苗.md)
-
-
-
+- [信仰の調べ～Symphonic Fantasm～](./信仰の調べ～Symphonic_Fantasm～.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [东风谷早苗](./东风谷早苗.md)
 
 
 ---

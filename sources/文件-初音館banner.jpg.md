@@ -1,16 +1,11 @@
 # 文件:初音館banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\31\ns6%3A%E5%88%9D%E9%9F%B3%E9%A4%A8banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\31\ns6%3A%E5%88%9D%E9%9F%B3%E9%A4%A8banner%2Ejpg.html -->
 
 初音館 | 社团LOGO
 
   
-源地址：[[1]](https://web.archive.org/web/20030927141820im_/http://www.beta.or.jp:80/~hazuki/image/hatuon_bana.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://web.archive.org/web/20030927141820im_/http://www.beta.or.jp:80/~hazuki/image/hatuon_bana.jpg)  
 
 ---
 

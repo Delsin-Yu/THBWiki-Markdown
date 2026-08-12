@@ -1,6 +1,6 @@
 # 文件:奏×乱_～Soul_Rampage～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\47\ns6%3A%E5%A5%8F%C3%97%E4%B9%B1_%EF%BD%9ESoul_Rampage%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\47\ns6%3A%E5%A5%8F%C3%97%E4%B9%B1_%EF%BD%9ESoul_Rampage%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 十六神数 | 封面图片
 
@@ -8,16 +8,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [奏×乱 ～Soul Rampage～](./奏×乱_～Soul_Rampage～.md)  
-该封面包含的角色：- [河城荷取](./河城荷取.md)
+- [奏×乱 ～Soul Rampage～](./奏×乱_～Soul_Rampage～.md)该封面包含的角色：
+- [河城荷取](./河城荷取.md)
 
   
 From DLsite
   
-
-
-
-
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:Kokoro's_Gensokyo_Journey：_The_Lost_Masks封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\85\ns6%3AKokoro%27s_Gensokyo_Journey%EF%BC%9A_The_Lost_Masks%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\85\ns6%3AKokoro%27s_Gensokyo_Journey%EF%BC%9A_The_Lost_Masks%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 CygnusA-1 | 封面图片 | 软件封面
 
@@ -10,11 +10,8 @@ CygnusA-1 | 封面图片 | 软件封面
 使用了本文件作封面图片的作品：
   
 
-- [Kokoro's Gensokyo Journey：The Lost Masks](./Kokoro's_Gensokyo_Journey：The_Lost_Masks.md)  
-该封面包含的角色：- [秦心](./秦心.md)
-
-
-
+- [Kokoro's Gensokyo Journey：The Lost Masks](./Kokoro's_Gensokyo_Journey：The_Lost_Masks.md)该封面包含的角色：
+- [秦心](./秦心.md)
 
 
 ---

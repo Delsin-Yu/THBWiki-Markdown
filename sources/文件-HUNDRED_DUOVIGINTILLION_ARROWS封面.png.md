@@ -1,6 +1,6 @@
 # 文件:HUNDRED_DUOVIGINTILLION_ARROWS封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\74\ns6%3AHUNDRED_DUOVIGINTILLION_ARROWS%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\74\ns6%3AHUNDRED_DUOVIGINTILLION_ARROWS%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 ZYTOKINE | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ ZYTOKINE | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [HUNDRED DUOVIGINTILLION ARROWS](./HUNDRED_DUOVIGINTILLION_ARROWS.md)  
-该封面包含的角色：- [菅牧典](./菅牧典.md)
-
-
-
+- [HUNDRED DUOVIGINTILLION ARROWS](./HUNDRED_DUOVIGINTILLION_ARROWS.md)该封面包含的角色：
+- [菅牧典](./菅牧典.md)
 
 
 ---

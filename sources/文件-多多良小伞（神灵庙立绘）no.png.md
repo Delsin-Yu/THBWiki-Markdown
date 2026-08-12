@@ -1,12 +1,8 @@
 # 文件:多多良小伞（神灵庙立绘）no.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a9\ns6%3A%E5%A4%9A%E5%A4%9A%E8%89%AF%E5%B0%8F%E4%BC%9E%EF%BC%88%E7%A5%9E%E7%81%B5%E5%BA%99%E7%AB%8B%E7%BB%98%EF%BC%89no%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a9\ns6%3A%E5%A4%9A%E5%A4%9A%E8%89%AF%E5%B0%8F%E4%BC%9E%EF%BC%88%E7%A5%9E%E7%81%B5%E5%BA%99%E7%AB%8B%E7%BB%98%EF%BC%89no%2Epng.html -->
 
 ZUN绘 | 东方神灵庙 | 多多良小伞 | 官方游戏立绘
-
-
-
-
 
 
 ---

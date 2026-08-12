@@ -1,6 +1,6 @@
 # 文件:TOHO_EUROMACH_～TEF01_NON-STOP_MIX～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0a\ns6%3ATOHO_EUROMACH_%EF%BD%9ETEF01_NON-STOP_MIX%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0a\ns6%3ATOHO_EUROMACH_%EF%BD%9ETEF01_NON-STOP_MIX%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 NJK_Record | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ NJK_Record | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [TOHO EUROMACH ～TEF01 NON-STOP MIX～](./TOHO_EUROMACH_～TEF01_NON-STOP_MIX～.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [TOHO EUROMACH ～TEF01 NON-STOP MIX～](./TOHO_EUROMACH_～TEF01_NON-STOP_MIX～.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

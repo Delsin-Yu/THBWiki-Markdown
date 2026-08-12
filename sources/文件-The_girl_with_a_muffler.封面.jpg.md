@@ -1,6 +1,6 @@
 # 文件:The_girl_with_a_muffler.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d0\ns6%3AThe_girl_with_a_muffler%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d0\ns6%3AThe_girl_with_a_muffler%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | ＋legacy
 
@@ -8,16 +8,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [The girl with a muffler.](./The_girl_with_a_muffler..md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [The girl with a muffler.](./The_girl_with_a_muffler..md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
   
-源地址：[[1]](http://xlegacy.x0.com/dojin/tgwm.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://xlegacy.x0.com/dojin/tgwm.jpg)  
 
 ---
 

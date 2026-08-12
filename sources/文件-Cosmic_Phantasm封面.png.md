@@ -1,6 +1,6 @@
 # 文件:Cosmic_Phantasm封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a5\ns6%3ACosmic_Phantasm%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a5\ns6%3ACosmic_Phantasm%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Kommisar | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Kommisar | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Cosmic Phantasm](./Cosmic_Phantasm.md)  
-该封面包含的角色：- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
+- [Cosmic Phantasm](./Cosmic_Phantasm.md)该封面包含的角色：
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
 
   
-源地址：[[1]](https://4.bp.blogspot.com/--XCaC39dhCo/UtFhfXt4bJI/AAAAAAAAAUs/Wr5qf2TtuWM/s1600/CosmicPhantasm-Cover.png)
-  
-
-
-
-
+源地址：[\[1\]](https://4.bp.blogspot.com/--XCaC39dhCo/UtFhfXt4bJI/AAAAAAAAAUs/Wr5qf2TtuWM/s1600/CosmicPhantasm-Cover.png)  
 
 ---
 

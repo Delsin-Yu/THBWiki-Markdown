@@ -1,6 +1,6 @@
 # 文件:Strange_Illusional_Nature_Vol.I封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d7\ns6%3AStrange_Illusional_Nature_Vol%2EI%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d7\ns6%3AStrange_Illusional_Nature_Vol%2EI%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Lowlands_Blossom | 专辑封面 | 封面图片
 
@@ -11,12 +11,7 @@ Lowlands_Blossom | 专辑封面 | 封面图片
 - [Strange Illusional Nature Vol.I](./Strange_Illusional_Nature_Vol.I.md)
 
   
-源地址：[[1]](https://f4.bcbits.com/img/a0838440430_10.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://f4.bcbits.com/img/a0838440430_10.jpg)  
 
 ---
 

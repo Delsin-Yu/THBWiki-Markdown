@@ -1,16 +1,12 @@
 # 文件:东方虹击音TH_RI.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f6\ns6%3A%E4%B8%9C%E6%96%B9%E8%99%B9%E5%87%BB%E9%9F%B3TH_RI%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f6\ns6%3A%E4%B8%9C%E6%96%B9%E8%99%B9%E5%87%BB%E9%9F%B3TH_RI%2Epng.html -->
 
 东方相关QQ群组
 
   
 群名群号
   
-
-
-
-
 
 ---
 

@@ -1,12 +1,8 @@
 # 文件:THD2月兔粉碎巨刃.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1a\ns6%3ATHD2%E6%9C%88%E5%85%94%E7%B2%89%E7%A2%8E%E5%B7%A8%E5%88%83%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1a\ns6%3ATHD2%E6%9C%88%E5%85%94%E7%B2%89%E7%A2%8E%E5%B7%A8%E5%88%83%2Epng.html -->
 
 AvalonStudioOfficial
-
-
-
-
 
 
 ---

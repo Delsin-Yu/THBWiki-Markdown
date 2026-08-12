@@ -1,6 +1,6 @@
 # 文件:TouWHO？？_2封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\38\ns6%3ATouWHO%EF%BC%9F%EF%BC%9F_2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\38\ns6%3ATouWHO%EF%BC%9F%EF%BC%9F_2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Grazepoint | 专辑封面 | 封面图片
 
@@ -10,16 +10,14 @@ Grazepoint | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [TouWHO？？ 2](./TouWHO？？_2.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [西行寺幽幽子](./西行寺幽幽子.md)- [北白河千百合](./北白河千百合.md)
+- [TouWHO？？ 2](./TouWHO？？_2.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [西行寺幽幽子](./西行寺幽幽子.md)
+- [北白河千百合](./北白河千百合.md)
 
   
-源地址：[direct image link (original size)](https://pbs.twimg.com/media/FbgbdMbXwAImxtw?format=jpg&amp;name=orig), [source tweet](https://twitter.com/grazepoint/status/1565776580349140992)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://pbs.twimg.com/media/FbgbdMbXwAImxtw?format=jpg&name=orig), [source tweet](https://twitter.com/grazepoint/status/1565776580349140992)  
 
 ---
 

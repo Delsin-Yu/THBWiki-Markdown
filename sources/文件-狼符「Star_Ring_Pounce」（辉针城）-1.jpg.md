@@ -1,12 +1,8 @@
 # 文件:狼符「Star_Ring_Pounce」（辉针城）-1.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\02\ns6%3A%E7%8B%BC%E7%AC%A6%E3%80%8CStar_Ring_Pounce%E3%80%8D%EF%BC%88%E8%BE%89%E9%92%88%E5%9F%8E%EF%BC%89-1%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\02\ns6%3A%E7%8B%BC%E7%AC%A6%E3%80%8CStar_Ring_Pounce%E3%80%8D%EF%BC%88%E8%BE%89%E9%92%88%E5%9F%8E%EF%BC%89-1%2Ejpg.html -->
 
 东方辉针城 | 今泉影狼 | 敌机符卡
-
-
-
-
 
 
 ---

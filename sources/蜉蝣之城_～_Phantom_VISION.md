@@ -1,36 +1,26 @@
 # 蜉蝣之城_～_Phantom_VISION
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\d\db\ns0%3A%E8%9C%89%E8%9D%A3%E4%B9%8B%E5%9F%8E_%EF%BD%9E_Phantom_VISION.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\d\db\ns0%3A%E8%9C%89%E8%9D%A3%E4%B9%8B%E5%9F%8E_%EF%BD%9E_Phantom_VISION.html -->
 
 JynX作曲 | 引用了翻译表的页面 | 蜉蝣之城_～_Phantom_VISION | 连缘Project | 连缘Project官方音乐
 
-本页是关于 **向[东方Project](./东方Project.md)  
-致敬、形式类似的作品** 的词条
-
+本页是关于**向[东方Project](./东方Project.md)致敬、形式类似的作品**  
+的词条
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 出现作品](#出现作品)
 - [3 音乐文件](#音乐文件)
-
   - [3.1 连缘灵烈传](#连缘灵烈传)
 
 
-
 - [4 说明文本](#说明文本)
-
   - [4.1 连缘灵烈传](#连缘灵烈传_2)
 
 
-
 - [5 其他资料](#其他资料)
-
   - [5.1 乐理资讯](#乐理资讯)
   - [5.2 分析考据](#分析考据)
-
-
-
-
 
 
 
@@ -59,14 +49,12 @@ JynX作曲 | 引用了翻译表的页面 | 蜉蝣之城_～_Phantom_VISION | 连
 </td></tr></tbody></table>
 
 
-
 ## 出现作品
 
 <table>
 
 <tbody><tr><td>2014年10月2日（非展会）</td><td><b><a href="./连缘灵烈传～Reactivate_majestical_imperial.md" title="连缘灵烈传～Reactivate majestical imperial" unred="">连缘灵烈传</a></b></td><td>Staff画面曲</td><td style="padding-left:5px;">（蜉蝣之城 ～ Phantom VISION）</td><td style="padding-left:10px;">作曲：JynX</td></tr>
 </tbody></table>
-
 
 
 ## 音乐文件
@@ -90,11 +78,11 @@ JynX作曲 | 引用了翻译表的页面 | 蜉蝣之城_～_Phantom_VISION | 连
 </td></tr></tbody></table>
 
 
-
 ## 说明文本
 
 ### 连缘灵烈传
-- Music Room (未找到链接)
+
+- [Music Room](./连缘灵烈传～Reactivate_majestical_imperial-Music.md#Staff画面曲)
 
 Staff Roll曲。  
 非常稀少的，明亮且清爽的Staff Roll曲。  
@@ -109,15 +97,11 @@ Staff Roll曲。
 话说我在Staff Roll里做了一个迷你小游戏。  
 加油躲避到最后的话，我就会送你一个小礼物…？  
 礼物是不可避的（不过或许也有人能避开）
-
 ## 其他资料
 
 ### 乐理资讯
 
 ### 分析考据
-
-
-
 
 ---
 

@@ -1,14 +1,11 @@
 # 文件:雪天館banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\78\ns6%3A%E9%9B%AA%E5%A4%A9%E9%A4%A8banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\78\ns6%3A%E9%9B%AA%E5%A4%A9%E9%A4%A8banner%2Ejpg.html -->
 
 社团LOGO | 雪天館
 
 
 ## 摘要
-
-
-
 
 ---
 

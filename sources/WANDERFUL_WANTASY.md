@@ -1,53 +1,43 @@
 # WANDERFUL_WANTASY
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\d\df\ns0%3AWANDERFUL_WANTASY.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\d\df\ns0%3AWANDERFUL_WANTASY.html -->
 
 2017年10月29日 由 White Wonderful Records 于 M3-2017秋 发布的EP同人专辑，曲目主要风格是 Trance，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人专辑 (未找到链接)** 的词条
-
+**[二次创作同人专辑](./二次创作.md#同人音乐)**的词条
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-WANDERFUL_WANTASY封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/5/52/WANDERFUL_WANTASY%E5%B0%81%E9%9D%A2.jpg/224px-WANDERFUL_WANTASY%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="224" srcset="https://upload.thwiki.cc/thumb/5/52/WANDERFUL_WANTASY%E5%B0%81%E9%9D%A2.jpg/336px-WANDERFUL_WANTASY%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/5/52/WANDERFUL_WANTASY%E5%B0%81%E9%9D%A2.jpg/448px-WANDERFUL_WANTASY%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="500" data-file-height="500"></a><div class="cover-char">角色：<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a></div></td>
 </tr><tr><td class="label">名称</td><td colspan="2"> WANDERFUL WANTASY </td></tr><tr><td class="label">制作方</td><td><a href="./White_Wonderful_Records.md" title="White Wonderful Records">White Wonderful Records</a></td><td class="cover-artwork" rowspan="8" style="min-width:224px;"><a href="./文件-WANDERFUL_WANTASY封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/5/52/WANDERFUL_WANTASY%E5%B0%81%E9%9D%A2.jpg/224px-WANDERFUL_WANTASY%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="224" srcset="https://upload.thwiki.cc/thumb/5/52/WANDERFUL_WANTASY%E5%B0%81%E9%9D%A2.jpg/336px-WANDERFUL_WANTASY%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/5/52/WANDERFUL_WANTASY%E5%B0%81%E9%9D%A2.jpg/448px-WANDERFUL_WANTASY%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="500" data-file-height="500"></a><div class="cover-char">角色：<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2017-10-29&#160;（<a href="/展会作品列表?e=M3%2340">M3-2017秋</a>）</td></tr><tr><td class="label">类型</td><td>EP</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>4</td></tr><tr><td class="label">总时长</td><td>00:00</td></tr><tr><td class="label">风格类型</td><td>Trance</td></tr></tbody></table>
+</tr><tr><td class="label">首发日期</td><td>2017-10-29 （<a href="./展会作品列表.md#40">M3-2017秋</a>）</td></tr><tr><td class="label">类型</td><td>EP</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>4</td></tr><tr><td class="label">总时长</td><td>00:00</td></tr><tr><td class="label">风格类型</td><td>Trance</td></tr></tbody></table>
 
 WANDERFUL WANTASY（同人专辑，White Wonderful Records，2017） - 2017年10月29日 由 White Wonderful Records 于 M3-2017秋 发布的EP同人专辑，曲目主要风格是 Trance，分级为 一般向
-
 ## Staff
   
- **Arrangement**   
+**Arrangement**  
 
-<table><tbody><tr><td><a href="/index.php?title=SuperMassiveDog&amp;action=edit&amp;redlink=1" class="new" title="SuperMassiveDog（页面不存在）">SuperMassiveDog</a></td><td></td><td>Tr.1</td></tr><tr><td><a href="/index.php?title=%CF%80L&amp;action=edit&amp;redlink=1" class="new" title="πL（页面不存在）">πL</a></td><td></td><td>Tr.2</td></tr><tr><td><a href="/index.php?title=d&amp;action=edit&amp;redlink=1" class="new" title="d（页面不存在）">d</a></td><td></td><td>Tr.3</td></tr><tr><td><a href="/index.php?title=Riva-Owsler&amp;action=edit&amp;redlink=1" class="new" title="Riva-Owsler（页面不存在）">Riva-Owsler</a></td><td></td><td>Tr.4</td></tr></tbody></table>
-
+<table><tbody><tr><td><a class="new" title="SuperMassiveDog（页面不存在）">SuperMassiveDog</a></td><td></td><td>Tr.1</td></tr><tr><td><a class="new" title="πL（页面不存在）">πL</a></td><td></td><td>Tr.2</td></tr><tr><td><a class="new" title="d（页面不存在）">d</a></td><td></td><td>Tr.3</td></tr><tr><td><a class="new" title="Riva-Owsler（页面不存在）">Riva-Owsler</a></td><td></td><td>Tr.4</td></tr></tbody></table>
 
 Design
 : 设计师 （[网址 社团]）
 Illustration
 : 画师 （[网址 社团]）
 
-
 ## 试听
   
 <iframe width="100%" height="180" src="https://ext.nicovideo.jp/thumb/sm32176341" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/watch/sm32176341">,</a></iframe>
-
   
-
 
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Ancient_Love" colspan="2" class="title">Ancient Love<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=SuperMassiveDog&amp;ogmusic=恋色マスタースパーク&amp;fromwiki=WANDERFUL_WANTASY"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=SuperMassiveDog&amp;action=edit&amp;redlink=1" class="new" title="SuperMassiveDog（页面不存在）">SuperMassiveDog</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，SuperMassiveDog&amp;fromwiki=WANDERFUL_WANTASY"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=恋色マスタースパーク&amp;fromwiki=WANDERFUL_WANTASY"><span></span></a></span><div class="ogmusic"><a href="./恋色マスタースパーク.md" class="mw-redirect" title="恋色マスタースパーク">恋色マスタースパーク</a></div><div class="source"><a href="./东方永夜抄_～_Imperishable_Night..md" class="mw-redirect" title="东方永夜抄 ～ Imperishable Night.">东方永夜抄　～ Imperishable Night.</a></div></td></tr>
-<tr><td id="2" class="infoYD"><b>02</b></td><td id="Pleasant_Hallow" colspan="2" class="title">Pleasant Hallow<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=πL&amp;ogmusic=広有射怪鳥事　～ Till When?&amp;fromwiki=WANDERFUL_WANTASY"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%CF%80L&amp;action=edit&amp;redlink=1" class="new" title="πL（页面不存在）">πL</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，πL&amp;fromwiki=WANDERFUL_WANTASY"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=広有射怪鳥事　～ Till When?&amp;fromwiki=WANDERFUL_WANTASY"><span></span></a></span><div class="ogmusic"><a href="./広有射怪鳥事_～_Till_When-.md" class="mw-redirect" title="広有射怪鳥事 ～ Till When?">広有射怪鳥事　～ Till When?</a></div><div class="source"><a href="./东方妖妖梦_～_Perfect_Cherry_Blossom..md" class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr>
-<tr><td id="3" class="infoYD"><b>03</b></td><td id="goddes_of_dark" colspan="2" class="title">goddes of dark<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=d&amp;ogmusic=運命のダークサイド&amp;fromwiki=WANDERFUL_WANTASY"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=d&amp;action=edit&amp;redlink=1" class="new" title="d（页面不存在）">d</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，d&amp;fromwiki=WANDERFUL_WANTASY"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=運命のダークサイド&amp;fromwiki=WANDERFUL_WANTASY"><span></span></a></span><div class="ogmusic"><a href="./運命のダークサイド.md" class="mw-redirect" title="運命のダークサイド">運命のダークサイド</a></div><div class="source"><a href="./东方风神录_～_Mountain_of_Faith..md" class="mw-redirect" title="东方风神录 ～ Mountain of Faith.">东方风神录　～ Mountain of Faith.</a></div></td></tr>
-<tr><td id="4" class="infoYD"><b>04</b></td><td id="神社" colspan="2" class="title">神社<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Riva-Owsler&amp;ogmusic=神社&amp;fromwiki=WANDERFUL_WANTASY"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=Riva-Owsler&amp;action=edit&amp;redlink=1" class="new" title="Riva-Owsler（页面不存在）">Riva-Owsler</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Riva-Owsler&amp;fromwiki=WANDERFUL_WANTASY"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=神社&amp;fromwiki=WANDERFUL_WANTASY"><span></span></a></span><div class="ogmusic"><a href="./神社.md" title="神社">神社</a></div><div class="source"><a href="./东方怪绮谈_～_Mystic_Square..md" class="mw-redirect" title="东方怪绮谈 ～ Mystic Square.">东方怪绮谈　～ Mystic Square.</a></div></td></tr></tbody></table>
-
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Ancient_Love" colspan="2" class="title">Ancient Love</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="SuperMassiveDog（页面不存在）">SuperMassiveDog</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./恋色Magic.md" class="mw-redirect" title="恋色マスタースパーク">恋色マスタースパーク</a></div><div class="source"><a href="./东方永夜抄.md" class="mw-redirect" title="东方永夜抄 ～ Imperishable Night.">东方永夜抄　～ Imperishable Night.</a></div></td></tr>
+<tr><td id="2" class="infoYD"><b>02</b></td><td id="Pleasant_Hallow" colspan="2" class="title">Pleasant Hallow</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="πL（页面不存在）">πL</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a class="mw-redirect" title="広有射怪鳥事 ～ Till When?">広有射怪鳥事　～ Till When?</a></div><div class="source"><a href="./东方妖妖梦.md" class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr>
+<tr><td id="3" class="infoYD"><b>03</b></td><td id="goddes_of_dark" colspan="2" class="title">goddes of dark</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="d（页面不存在）">d</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./命运的阴暗面.md" class="mw-redirect" title="運命のダークサイド">運命のダークサイド</a></div><div class="source"><a href="./东方风神录.md" class="mw-redirect" title="东方风神录 ～ Mountain of Faith.">东方风神录　～ Mountain of Faith.</a></div></td></tr>
+<tr><td id="4" class="infoYD"><b>04</b></td><td id="神社" colspan="2" class="title">神社</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="Riva-Owsler（页面不存在）">Riva-Owsler</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./神社.md" title="神社">神社</a></div><div class="source"><a href="./东方怪绮谈.md" class="mw-redirect" title="东方怪绮谈 ～ Mystic Square.">东方怪绮谈　～ Mystic Square.</a></div></td></tr></tbody></table>
 
 
 ## 评论
-
-
-
 
 ---
 

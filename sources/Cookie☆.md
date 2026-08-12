@@ -1,6 +1,6 @@
 # Cookie☆
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\1\10\ns0%3ACookie%E2%98%86.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\1\10\ns0%3ACookie%E2%98%86.html -->
 
 2009年 | 东方相关事件 | 使用Tabber解析器标签的页面 | 含有受损文件链接的页面 | 曲奇 | 概念 | 现实人物 | 请求协助编辑的词条
 
@@ -8,59 +8,44 @@
 <table>
 <tbody><tr>
 <td class="mbox-image width"><div style="width: 52px;">
-  <a href="/%E6%96%87%E4%BB%B6:Help_books.svg" class="image"><img alt="Help books.svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Help_books.svg/langzh-70px-Help_books.svg.png" decoding="async" loading="lazy" width="70" height="70" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Help_books.svg/langzh-105px-Help_books.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Help_books.svg/langzh-140px-Help_books.svg.png 2x" data-file-width="320" data-file-height="320"></a></div></td>
-<td class="mbox-text" style=""><big>本词条需要更专业的编辑者进行修改。</big><br><b>其内容或格式需要 Cookie☆相关文化 方面的协助</b>。<br>如果您对于相关内容较为了解，请您<a href="/index.php?title=Cookie%E2%98%86&amp;action=edit">改善本词条的内容</a></td>
+  <a class="image"><img alt="Help books.svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Help_books.svg/langzh-70px-Help_books.svg.png" decoding="async" loading="lazy" width="70" height="70" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Help_books.svg/langzh-105px-Help_books.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Help_books.svg/langzh-140px-Help_books.svg.png 2x" data-file-width="320" data-file-height="320"></a></div></td>
+<td class="mbox-text" style=""><big>本词条需要更专业的编辑者进行修改。</big><br><b>其内容或格式需要 Cookie☆相关文化 方面的协助</b>。<br>如果您对于相关内容较为了解，请您<a>改善本词条的内容</a></td>
 </tr>
 </tbody></table>
 
-
 本页是说明东方Project  
- **相关概念定义** 的词条
-
-  
- **Cookie☆** （日文：クッキー☆）,本身指代2010年莲奈理绪于niconico投稿的【東方合同動画企画】魔理沙とアリスのクッキーKiss《魔理沙与爱丽丝的饼干接吻》的东方声剧。  
+**相关概念定义**的词条  
+**Cookie☆**（日文：クッキー☆）,本身指代2010年莲奈理绪于niconico投稿的【東方合同動画企画】魔理沙とアリスのクッキーKiss《魔理沙与爱丽丝的饼干接吻》的东方声剧。  
 
 后成为一大部分“东方合同动画企画”视频以及产生的网络模因的代称。被一些网民认为是淫梦史上最大的风评被害，东方Project的三次同人创作。
   
-
-
-[](./文件-nc150156.png.md)  [](./文件-nc150156.png.md)Cookie☆LOGO 同人设计
-
+<img alt="" src="https://upload.thwiki.cc/thumb/5/55/nc150156.png/367px-nc150156.png" decoding="async" loading="lazy" width="367" height="260" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/5/55/nc150156.png/550px-nc150156.png 1.5x, https://upload.thwiki.cc/thumb/5/55/nc150156.png/734px-nc150156.png 2x" data-file-width="876" data-file-height="621">
+ [放大](./文件-nc150156.png.md)Cookie☆LOGO 同人设计
 ## 目录
 
 - [1 历史](#历史)
-
   - [1.1 Cookie本篇☆（2010年）](#Cookie本篇☆（2010年）)
-
     - [1.1.1 概要](#概要)
-
       - [1.1.1.1 起源](#起源)
       - [1.1.1.2 爆发](#爆发)
       - [1.1.1.3 后续](#后续)
-
 
 
     - [1.1.2 本作声优简介](#本作声优简介)
     - [1.1.3 本作各角色常见设定](#本作各角色常见设定)
 
 
-
-  - [1.2 Cookie☆☆新约(2011~2013年)](#Cookie☆☆新约(2011~2013年))
-
+  - [1.2 Cookie☆☆新约(2011~2013年)](#Cookie☆☆新约(2011~2013年%29)
     - [1.2.1 概要](#概要_2)
     - [1.2.2 本系列作品声优简介](#本系列作品声优简介)
 
 
-
   - [1.3 粪曲奇☆（クッソー☆）（2013年~至今）](#粪曲奇☆（クッソー☆）（2013年~至今）)
-
     - [1.3.1 概要](#概要_3)
     - [1.3.2 本系列作品声优简介](#本系列作品声优简介_2)
 
 
-
   - [1.4 其他曲奇声剧创作（2013年~至今）](#其他曲奇声剧创作（2013年~至今）)
-
     - [1.4.1 日本](#日本)
     - [1.4.2 国内](#国内)
     - [1.4.3 韩国](#韩国)
@@ -69,19 +54,14 @@
 
 
 
-
-
 - [2 衍生二次（多次）创作](#衍生二次（多次）创作)
-
   - [2.1 Cookie☆实体周边](#Cookie☆实体周边)
   - [2.2 Cookie☆同人志（收录不完全）](#Cookie☆同人志（收录不完全）)
   - [2.3 Cookie☆BB剧场](#Cookie☆BB剧场)
-
     - [2.3.1 BB剧场是什么？](#BB剧场是什么？)
     - [2.3.2 以Cookie☆为主题的BB剧场](#以Cookie☆为主题的BB剧场)
     - [2.3.3 广泛使用的BB剧场人物设定](#广泛使用的BB剧场人物设定)
     - [2.3.4 著名的Cookie☆ BB剧场列表](#著名的Cookie☆_BB剧场列表)
-
 
 
   - [2.4 Cookie☆音MAD](#Cookie☆音MAD)
@@ -90,32 +70,22 @@
   - [2.7 Cookie☆游戏](#Cookie☆游戏)
 
 
-
 - [3 曲奇现状](#曲奇现状)
-
   - [3.1 国内](#国内_2)
-
     - [3.1.1 线下活动](#线下活动)
-
 
 
   - [3.2 海外](#海外)
 
 
-
 - [4 与其他圈子的关系](#与其他圈子的关系)
-
   - [4.1 与东方的关系](#与东方的关系)
-
     - [4.1.1 与东方声剧的关系](#与东方声剧的关系)
     - [4.1.2 与东方非声剧视频的关系](#与东方非声剧视频的关系)
     - [4.1.3 ZUN的态度](#ZUN的态度)
-
       - [4.1.3.1 2016/12/11](#2016/12/11)
       - [4.1.3.2 2017/12/26](#2017/12/26)
       - [4.1.3.3 2018/08/22](#2018/08/22)
-
-
 
 
 
@@ -125,13 +95,9 @@
   - [4.4 与一般ACG作品的关系](#与一般ACG作品的关系)
 
 
-
 - [5 Cookie☆相关视频作者](#Cookie☆相关视频作者)
-- [6 其他wiki&amp;参考内容来源](#其他wiki&amp;参考内容来源)
+- [6 其他wiki&参考内容来源](#其他wiki&参考内容来源)
 - [7 注释](#注释)
-
-
-
 
 
 ## 历史
@@ -141,84 +107,64 @@
 #### 概要
 
 ##### 起源
-
   
 2010年2月15日5时17分，“莲奈理绪” 的投稿者投了一部名为【東方合同動画企画】魔理沙とアリスのクッキーKiss（魔理沙与爱丽丝的饼干接吻）的东方声剧。  
 
 Nico原简介：<small>43名くらいで集まって出来た動画です☆ 絵師様、声優様、音楽作成者様、動画編集者様ありがとー☆ 魔理沙がアリスにクッキーを作ってあげる物語です☆</small>  
 
 合作手笔非常之大，但合作视频的内容却与宣传大相径庭：  
-
   
 
-- 虽然合作中有画师的水平非常之高，但同样也有着一般水平和小学生简笔画水平画师。画师水平的杂糅产生的负面效果便在于整篇声剧中画风多变，分镜混乱不堪，作画水平参差不齐，严重影响观看体验。  
-
-- CV的配音水准落差太大。棒读和一些CV配音时的旁边杂音使得很多观众在观看中感到不适。  
-
-- 剧情相对枯燥。过于冗长的剧情和许多意义不明人物的出场。出场人物角色、人物关系设定的决定掺杂了企划者蓮奈理緒等人的个人喜好在内。<sub>需要进行考证</sub>例如旧约中唐突有戏份但与主线剧情完全无关的一些角色  
-
+- 虽然合作中有画师的水平非常之高，但同样也有着一般水平和小学生简笔画水平画师。画师水平的杂糅产生的负面效果便在于整篇声剧中画风多变，分镜混乱不堪，作画水平参差不齐，严重影响观看体验。
+- CV的配音水准落差太大。棒读和一些CV配音时的旁边杂音使得很多观众在观看中感到不适。
+- 剧情相对枯燥。过于冗长的剧情和许多意义不明人物的出场。出场人物角色、人物关系设定的决定掺杂了企划者蓮奈理緒等人的个人喜好在内。<sub>需要进行考证</sub>例如旧约中唐突有戏份但与主线剧情完全无关的一些角色
 
   
 但需要注意的是，旧约本身的魔爱核心剧情在相关题材（同年与早一年在CM上刊卖的同人作品中）横向对比时，并非大众传播后广泛认知的低劣。  
-
-<big> **视频在开头幕内容中展现的低劣制作质量使得大部分观众无法接受，观众对声剧普遍的负面评价也为此后长达多年的事端埋下了伏笔。** </big>  
-
+<big>**视频在开头幕内容中展现的低劣制作质量使得大部分观众无法接受，观众对声剧普遍的负面评价也为此后长达多年的事端埋下了伏笔。**</big>  
   
 
-- [](./文件-cookie1.png.md)感觉还能看得下去，对吧？  
-- [](./文件-cookie02.png.md)完全是小学生简笔画的感觉，很难相信出自同一部手书  
-- [](./文件-cookie3.png.md)这张的质量又非常高了  
+- <img alt="感觉还能看得下去，对吧？" src="https://upload.thwiki.cc/thumb/a/a1/cookie1.png/241px-cookie1.png" decoding="async" loading="lazy" width="161" height="120" srcset="https://upload.thwiki.cc/thumb/a/a1/cookie1.png/361px-cookie1.png 1.5x, https://upload.thwiki.cc/thumb/a/a1/cookie1.png/481px-cookie1.png 2x" data-file-width="1923" data-file-height="1440"> 感觉还能看得下去，对吧？
+- <img alt="完全是小学生简笔画的感觉，很难相信出自同一部手书" src="https://upload.thwiki.cc/thumb/6/68/cookie02.png/241px-cookie02.png" decoding="async" loading="lazy" width="161" height="120" srcset="https://upload.thwiki.cc/thumb/6/68/cookie02.png/361px-cookie02.png 1.5x, https://upload.thwiki.cc/thumb/6/68/cookie02.png/481px-cookie02.png 2x" data-file-width="1923" data-file-height="1440"> 完全是小学生简笔画的感觉，很难相信出自同一部手书
+- <img alt="这张的质量又非常高了" src="https://upload.thwiki.cc/thumb/e/eb/cookie3.png/241px-cookie3.png" decoding="async" loading="lazy" width="161" height="120" srcset="https://upload.thwiki.cc/thumb/e/eb/cookie3.png/361px-cookie3.png 1.5x, https://upload.thwiki.cc/thumb/e/eb/cookie3.png/481px-cookie3.png 2x" data-file-width="1923" data-file-height="1440"> 这张的质量又非常高了
 
   
-
   
 很难想象，这都是出自同一部手书的画风
   
 
-
-
 ##### 爆发
 
-莲奈理绪并非为由于魔理沙与爱丽丝的饼干接吻一个合作企划作品一战成名的主催。在NicoNico视频网上制作「作者は健常者シリーズ」视频的东方视频UP主。[](./文件-HZN的作品.png.md)  [](./文件-HZN的作品.png.md)HZN的作品  
-
+莲奈理绪并非为由于魔理沙与爱丽丝的饼干接吻一个合作企划作品一战成名的主催。在NicoNico视频网上制作「作者は健常者シリーズ」视频的东方视频UP主。<img alt="" src="https://upload.thwiki.cc/thumb/a/ae/HZN%E7%9A%84%E4%BD%9C%E5%93%81.png/419px-HZN%E7%9A%84%E4%BD%9C%E5%93%81.png" decoding="async" loading="lazy" width="419" height="300" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/a/ae/HZN%E7%9A%84%E4%BD%9C%E5%93%81.png/628px-HZN%E7%9A%84%E4%BD%9C%E5%93%81.png 1.5x, https://upload.thwiki.cc/thumb/a/ae/HZN%E7%9A%84%E4%BD%9C%E5%93%81.png/837px-HZN%E7%9A%84%E4%BD%9C%E5%93%81.png 2x" data-file-width="1228" data-file-height="880">
+ [放大](./文件-HZN的作品.png.md)HZN的作品  
   
-莲奈理绪在Cookie☆之前的东方同人视频作品中普遍存在的诡异构思与人设崩坏等特点在东方project爱好者们中已经为人所知。因此，Cookie☆在NICONICO社群引起的混乱在一开始应被看作为东方Project爱好者们由于内部视频质量问题而产生的普遍性不满以及排斥反应。 *  
-* 
+莲奈理绪在Cookie☆之前的东方同人视频作品中普遍存在的诡异构思与人设崩坏等特点在东方project爱好者们中已经为人所知。因此，Cookie☆在NICONICO社群引起的混乱在一开始应被看作为东方Project爱好者们由于内部视频质量问题而产生的普遍性不满以及排斥反应。**  
+
 主催一部分个人的人气积累，具有一定规模的同好内宣传，使得最后在企划成品发布时，其低劣的制作质量产生了恶性的催化反应。Cookie☆作为声剧引来了一部分东方project爱好者的严厉批评。  
 
 随后，由于Cookie☆中存在的严重棒读现象与男同性恋片《仲夏夜之淫梦》中的第二章十分类似，在风波逐渐扩大后引来了部分作为淫梦民身份参与的观众。该部分网民的涌入引发了TAG编辑大战，参与者直接在视频标签中加入真夏夜的淫梦等相关标签以强化风评被害联系。  
 
 莲奈理绪后为了对抗淫梦民对该视频的攻击使用Cookie☆作为本作品指代词并试图替换有关淫梦的弹幕，但在没有产生理想效果后被迫关闭视频的弹幕评论功能。  
 
-此后莲奈理绪通过版权投诉的方式删除一部分以cookie☆声剧为原素材制作的音MAD以及其他二次创作作品，并导致例区反弹使得事态愈发扩大。 **在之后网友以及参演曲奇声剧的配音演员对莲奈理绪存在的性骚扰等恶劣行为进行调查与告发后** ，莲奈理绪进行了公开书面道歉并一度淡出了互联网视线。  
-
- **（标粗内容过时，请参考[^cite_note-1]）**   
+此后莲奈理绪通过版权投诉的方式删除一部分以cookie☆声剧为原素材制作的音MAD以及其他二次创作作品，并导致例区反弹使得事态愈发扩大。**在之后网友以及参演曲奇声剧的配音演员对莲奈理绪存在的性骚扰等恶劣行为进行调查与告发后**，莲奈理绪进行了公开书面道歉并一度淡出了互联网视线。  
+**（标粗内容过时，请参考[^cite_note-1]）**  
 
 在莲奈理绪公开道歉并退出互联网社群平台后的几年中，不时有网友爆料莲奈理绪在淡出互联网后的部分账号以及活动踪迹。  
 
 2020年7月15日，曲奇社群群组CTV☆中一位参与对莲奈理绪的后续动态进行挖掘的成员匿名发布了一段总结当前挖掘内容的视频，并为公众所知。
   
 
-
-
-
 ##### 后续
-
   
 Cookie☆事件标志着淫梦民成功将东方project同人文化的声剧创作分类赋予了强烈的淫梦x东方创作色彩。Cookie☆事件客观上直接打击了东方二次同人创作。此事件对于声剧创作的影响以至于相当一段时间内，一些声剧在投稿之后需要表明自己不是“曲奇声剧”以划清界限。关于Cookie☆视频本身的相关创作也呈现出井喷状态，对于Cookie☆事件的争议也不断加大。对于东方而言，Cookie☆事件成为了东方人与淫梦民的第一次大规模正面交锋。交火的结果影响了两者在文化圈（中国大陆、日本）长期的相互排斥与不理解现象。  
 
 同样，在淫梦民参与风波使得事态逐渐扩大至无法控制后，不仅作为企划主催的莲奈理绪受到了网络暴力的威胁，同样参演该声剧的部分配音演员们也遭到了不同程度的网络暴力。此番多次且性质相对恶劣的网络暴力行为使得曲奇民一定时间内被冠以“网络暴民”的既定印象符号。部分网民基于此印象延伸出了对淫梦以及其附属文化抱以“淫梦文化是一种暴力文化”的附属观点。此观点在部分人群中至今仍具有一定影响力。  
-
   
 
--  **原视频现状**   
-
+- **原视频现状**
 
   
-Cookie☆本篇于2013年11月12日0时0分在NicoNico达成百万播放，是淫梦相关视频中第二个达到百万播放的动画，也很不幸地是东方声剧中唯一一个达到百万播放的动画，播放数甚至一度达到NicoNico东方分类全站第二。目前，Cookie☆本篇已达成500万播放，甚至超过了IOSYS的成名作《魔理沙偷走了重要的东西》。 **** 
-  
-
-
+Cookie☆本篇于2013年11月12日0时0分在NicoNico达成百万播放，是淫梦相关视频中第二个达到百万播放的动画，也很不幸地是东方声剧中唯一一个达到百万播放的动画，播放数甚至一度达到NicoNico东方分类全站第二。目前，Cookie☆本篇已达成500万播放，甚至超过了IOSYS的成名作《魔理沙偷走了重要的东西》。****  
 
 #### 本作声优简介
 
@@ -251,14 +197,14 @@ Cookie☆事件后，UDK姐贵的粉丝多了不少，也出现了不少纯UDK�
 莲奈理绪骚扰行为的受害者，所幸莲奈理绪的蟹！旅馆！SEX！并没有得逞。<br>
 本人表示Cookie☆是人生最大的污点。<br>
 同时也是画师，画功不错，在P站以及推特上都得到了很高的评价，甚至有提供商业作画的能力。曾被HZN邀请做Cookie☆的画师，但是由于当时太忙了而拒绝了。由于画功和配音水平都很高，在曲奇民中有着“完璧超人”的称呼，然而似乎不是很擅长学习。<br>
-推特始终保持着更新<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">2</a></sup>，时不时会有含致死量要素的曲奇营业。2016年5月后开始跟IKMN兄贵（イケメン兄贵）生放送模仿RRM姐贵进行淫梦营业并自称姐贵。<br>
+推特始终保持着更新<span>[^cite_note-2]</span>，时不时会有含致死量要素的曲奇营业。2016年5月后开始跟IKMN兄贵（イケメン兄贵）生放送模仿RRM姐贵进行淫梦营业并自称姐贵。<br>
 </p>
 <ul><li>YMN姐贵<br></li></ul>
 <p>Cookie☆的萃香(SIK、野兽妹)、琪露诺（CRN)、帕秋莉（PTL)役。<br>
 萃香因为<a rel="nofollow" class="external text" href="http://www.nicovideo.jp/watch/sm12437080">しゅわスパ大作戦☆</a>中的下药行为，和淫梦四章的野兽先辈完全一致而得名“野兽妹”，风评被害范围不止是在Cookie☆系列。<br>
 Cookie☆事件结束后，YMN姐贵继续进行着生放送等活动。在2012年开始以“:D.clement”的名义进行同人歌手演唱活动，发布了多张CD。2013年秋YMN姐贵在一次生放送中首次提及了淫梦、Cookie☆，并且在放送中模仿了RU姐贵、UDK姐贵、KNN姐贵以及KBTIT等人，为淫梦、Cookie☆相关创作提供了大量素材，其中“淫夢の人たち”被空耳成“淫梦之一太刀”，成为了Cookie☆二设中SIK的绝招。YMN姐贵从此开始在放送中加入大量营业要素，人气瞬间大幅上升，也为原先极为缺乏的人声素材注入一股活水。原本因为台词稀少的关系，在剧场的演出无大量对话或者只是发声，而在近期大量的淫梦发言补充包发行后，反倒变成了淫梦话语最丰富的角色。而淫梦发言也让其与野兽先辈的关系更加密切，更加奠定BB剧场中野兽妹的地位。<br>
 2014年移居至东京。2015年4月30日在推特上宣布活动中止，开始以成为职业声优的目标进行修行。同年9月7日，一网友于2ch上爆出YMN姐贵现在以平松七々香的名义进入了一事务所；9月26日，YMN姐贵也在twitter上更新状态，称自己在进行声优培训。然而事与愿违，因为身体等各方面的原因，YMN姐贵在声优选拔中屡次落选，成为职业声优的梦想也从此暂告破灭。<br>
-在移居至东京后，YMN姐贵曾经为了生计做了快餐厅员工等不少工作，为梦想打工攒钱时候，也干过风俗业，YMN姐贵本人的说法是“只到手”。在声优梦想破灭后，YMN姐贵也坐过一段时间的办公室，不过最后还是放弃了，选择回归视频放送，开始作为痛ドル<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">3</a></sup>在N站、Youtube等平台上开始进行视频放送，视频大致为日常生活相关，内容相比过去加入了大量淫梦营业，如今推特上的个人形象也改成了SIK的形象。甚至开始发布大量卖肉相关的大尺度视频，可见YMN姐贵在网络偶像这方面的发展也并不顺利。2017年10月正式成为职业声优，在《DUEL!》中担任西田香奈役。履历中注明了自己参加Cookie☆企划的事迹。<br>
+在移居至东京后，YMN姐贵曾经为了生计做了快餐厅员工等不少工作，为梦想打工攒钱时候，也干过风俗业，YMN姐贵本人的说法是“只到手”。在声优梦想破灭后，YMN姐贵也坐过一段时间的办公室，不过最后还是放弃了，选择回归视频放送，开始作为痛ドル<span>[^cite_note-3]</span>在N站、Youtube等平台上开始进行视频放送，视频大致为日常生活相关，内容相比过去加入了大量淫梦营业，如今推特上的个人形象也改成了SIK的形象。甚至开始发布大量卖肉相关的大尺度视频，可见YMN姐贵在网络偶像这方面的发展也并不顺利。2017年10月正式成为职业声优，在《DUEL!》中担任西田香奈役。履历中注明了自己参加Cookie☆企划的事迹。<br>
 在しりり的声剧霊梦と魔理沙の革命的バースデーパーティー中担任妖梦及克劳恩皮丝役。<br>
 最近忙于在YouTube和推特上大秀自己的身材。<br>
 2022年开通了<a rel="nofollow" class="external text" href="https://space.bilibili.com/2103339232">B站账户</a>，并在5月3日的第一次直播中就一跃成为B站Vtuber区排行榜第八。}}<br>
@@ -266,7 +212,7 @@ Cookie☆事件结束后，YMN姐贵继续进行着生放送等活动。在2012�
 <ul><li>YZY姐贵<br></li></ul>
 <p>Cookie☆手书中担任小恶魔役和米斯蒂娅役。<br>
 在Cookie☆事件后仍一直在N站投稿，再生数较低。<br>
-同时是球形中、くぉら等著名画面的画师（开小号“央”参加的绘画）。P站id：3373585。<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">4</a></sup><br>
+同时是球形中、くぉら等著名画面的画师（开小号“央”参加的绘画）。P站id：3373585。<span>[^cite_note-4]</span><br>
 </p>
 <ul><li>NDK姐贵<br></li></ul>
 <p>Cookie☆手书中担任露米娅役和灵乌路空役。<br>
@@ -286,11 +232,10 @@ Cookie☆事件结束后，YMN姐贵继续进行着生放送等活动。在2012�
 <p>Cookie☆中担任咲夜（SKY）役，台词出镜非常多，仅次于UDK姐贵，但是依然是空气般的存在。<br>
 原発姐贵的称呼来自其本人在推特曾表示自己参加过反核运动。<br>
 中二病，总是妄想自己是真田幸村。<br>
-现在以浜本しおり的名义进行声优工作，并且已经是职业声优<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">5</a></sup>了（喜）。
+现在以浜本しおり的名义进行声优工作，并且已经是职业声优<span>[^cite_note-5]</span>了（喜）。
 </p>
 </div>
 </td></tr></tbody></table>
-
 
 
 #### 本作各角色常见设定
@@ -317,7 +262,7 @@ Cookie☆事件结束后，YMN姐贵继续进行着生放送等活动。在2012�
 </p>
 <ul><li>ALC（爱丽丝）<br>
 <ul><li>担当声优为HNS姐贵。<br></li></ul></li></ul>
-<p>虽然也是主角之一，但是整体演出并没有太突出的地方。尽管如此，在近期在BBCookie☆剧场的刻意捏造形象下，ALC变成外表微笑行为凶恶的腹黑女神，对MRS的爱达到了病态的水准，战斗力也相当惊人。其使用“罪姬‧正义之柱”<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">6</a></sup>的模组更是战斗系MAD的一大亮点，模组表现为ALC拿石头和右手变成的巨大镰刀战斗。头上和身上的白边红丝带由于作画崩坏，被幻视成长着锯齿牙的大嘴，有些二次创作会故意这么画。此外ALC拿着机枪扫射出场的频率也很高。做的可可布朗尼很好吃。<br>
+<p>虽然也是主角之一，但是整体演出并没有太突出的地方。尽管如此，在近期在BBCookie☆剧场的刻意捏造形象下，ALC变成外表微笑行为凶恶的腹黑女神，对MRS的爱达到了病态的水准，战斗力也相当惊人。其使用“罪姬‧正义之柱”<span>[^cite_note-6]</span>的模组更是战斗系MAD的一大亮点，模组表现为ALC拿石头和右手变成的巨大镰刀战斗。头上和身上的白边红丝带由于作画崩坏，被幻视成长着锯齿牙的大嘴，有些二次创作会故意这么画。此外ALC拿着机枪扫射出场的频率也很高。做的可可布朗尼很好吃。<br>
 </p>
 <ul><li>DIYUSI（大妖精）<br>
 <ul><li>担当声优为HNS姐贵，只有两句台词。<br></li></ul></li></ul>
@@ -374,19 +319,18 @@ RIM家族成员之一私生女，因为在公开部分SIK是在RIM家里出现�
 </td></tr></tbody></table>
 
 
-
 ### Cookie☆☆新约(2011~2013年)
 
 #### 概要
 
--  **又来了**   
+- **又来了**
 
 
-2011年，一位路过姐贵たいさ（后来被称为TIS姐贵）了解了Cookie☆和淫梦；此后，TIS姐贵在2011年至2013年间投稿了三个东方声剧，此后分别被称为Cookie☆☆一期（旧圣诞企划）、Cookie☆☆二期（正月企划）和Cookie☆☆三期（新圣诞企划），并自己加上了“Cookie☆☆”的标签。[](./文件-TISPCL.png.md)  [](./文件-TISPCL.png.md)TIS姐贵在MMD中经典的不戴帽帕秋莉形象 **Cookie☆☆同Cookie☆一样以迫真棒读和难以理解的剧情吸引了淫梦民注意，其中第二个声剧引起了巨大反响，乃至使Cookie☆☆获得了“新约圣经（日文：新約聖書）”的称号；与此相对，Cookie☆也被称为“旧约圣经（日文：旧約聖書）”。  
-** 
+2011年，一位路过姐贵たいさ（后来被称为TIS姐贵）了解了Cookie☆和淫梦；此后，TIS姐贵在2011年至2013年间投稿了三个东方声剧，此后分别被称为Cookie☆☆一期（旧圣诞企划）、Cookie☆☆二期（正月企划）和Cookie☆☆三期（新圣诞企划），并自己加上了“Cookie☆☆”的标签。<img alt="" src="https://upload.thwiki.cc/thumb/d/d2/TISPCL.png/265px-TISPCL.png" decoding="async" loading="lazy" width="265" height="300" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/d/d2/TISPCL.png/398px-TISPCL.png 1.5x, https://upload.thwiki.cc/thumb/d/d2/TISPCL.png/530px-TISPCL.png 2x" data-file-width="640" data-file-height="724">
+ [放大](./文件-TISPCL.png.md)TIS姐贵在MMD中经典的不戴帽帕秋莉形象**Cookie☆☆同Cookie☆一样以迫真棒读和难以理解的剧情吸引了淫梦民注意，其中第二个声剧引起了巨大反响，乃至使Cookie☆☆获得了“新约圣经（日文：新約聖書）”的称号；与此相对，Cookie☆也被称为“旧约圣经（日文：旧約聖書）”。**  
   
- **最初的圣诞企划仅仅是因Cookie☆的风评被害而被称为“Cookie☆☆”，然而其作为MAD素材的潜力不足，并没有受到重视，2011年投稿，2013年才被MMD化。  
-** 
+**最初的圣诞企划仅仅是因Cookie☆的风评被害而被称为“Cookie☆☆”，然而其作为MAD素材的潜力不足，并没有受到重视，2011年投稿，2013年才被MMD化。**  
+
 相比一期二期，三期中的一些声优配音质量较高，但整个企划本就是为了迎合淫梦爱好者进行炒作，也免不了其配音被拿来制作成淫梦相关视频。  
 
 在Cookie☆☆被上传后，mo兄贵于两日后制作出MMD版，两者相乘引发广大回响。  
@@ -394,28 +338,21 @@ RIM家族成员之一私生女，因为在公开部分SIK是在RIM家里出现�
 Cookie☆☆一期只是一个普通的声剧，由于Cookie☆热潮而被曲奇民迅速察觉并且风评被害为“Cookie☆再现”，然而TIS并没有选择及时删稿而是炒起了热度，紧接着进行了二期三期声剧的制作。  
 
 其中二期新年企划更是在声剧刚发布后不久就有了MMD版本令不少人怀疑TIS是不是故意进行营业。  
-
   
 
--  **又一个人间之屑**    
-
+- **又一个人间之屑** 
 
   
 TIS也曾经多次有意无意的在推特上透露一些参与配音的姐贵的相关资料，最终导致不少参与配音者被查出了个人资料。根据HSI姐贵的发言，TIS姐贵的二期、三期企划是在了解Cookie☆之后继续制作的，并且没有告知其他人Cookie☆在N站上的特殊意义，还继续诱使更多的姐贵加入企划。  
 
 由于以上诸多恶行以及在直播中透露出的糟糕的性格，最后也被人查出了真名等相关资料。最后TIS删除了自己的所有网络账号逃跑了。  
-
   
 
--  **不断冒出的创作**    
-
+- **不断冒出的创作** 
 
   
 此外，2011年至2015年间还陆续有风评被害的声剧和蹭Cookie☆热度[^cite_note-7]的声剧出现，之后也是越来越多，然而最近几年已有许多Cookie☆相关本篇有东方相关tag。
   
-
-
-
 
 #### 本系列作品声优简介
 
@@ -449,7 +386,7 @@ Cookie☆☆系列企划者（元凶），战犯中的战犯。会将PCL出演�
 同UDK姐贵一样，在NICO大百科迫真自演（自己编辑自己的百科内容），试图通过编造猎奇故事来提高人气，然而内容更加激寒。由于其强烈的虚荣心以及撒谎成性的扭曲性格，给人产生了极其恶劣的印象。<br>父母离异，曾在母子公寓居住，个人极力否认，但是有时又会很开心的说自己没有父亲，并且谎称自己有一个哥哥和姐姐。家里有一只名叫“ダイナ”的猫。曾经在事务所工作，作为同人声优进行活动。喜欢唱歌，但是唱功实在不怎么样，不过也算是比Cookie☆的平均水平略高一点。<br>
 自称有1/4法国血统，4岁前一直在法国居住，有着要振兴御宅文化的远大理想。<br>
 在一次生放送中讲述了在家里吃暗锅的经历，称自己的父亲捉了只猫，煮了以后嫌恶心没吃，结果被以讹传讹变成“曾经抓过一只野猫做野猫砂锅吃”，从此得名猫锅姐贵。猫锅事件一出，风评急转直下，如今其MAD多含有猫锅要素。<br>
-与恒心教徒<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">8</a></sup>对抗；有恒心教徒用穆斯林的名义进行挑衅，回答到“对这种下作的宗教没有兴趣”，被以讹传讹变成“焚烧过古兰经”，因此其MAD往往会被插入伊斯兰乐曲。最终其个人主页账号被黑，真名学历住址购物经历等信息全部被暴露，为Cookie☆史上首度当事人无泄漏资料下遭特定之例，之后还被人匿名从黑市往家里寄了大麻。其个人账号被盗号者拿去挑衅ISIS。而银行账号则被用于威胁犯罪者的汇款目的地。<br>
+与恒心教徒<span>[^cite_note-8]</span>对抗；有恒心教徒用穆斯林的名义进行挑衅，回答到“对这种下作的宗教没有兴趣”，被以讹传讹变成“焚烧过古兰经”，因此其MAD往往会被插入伊斯兰乐曲。最终其个人主页账号被黑，真名学历住址购物经历等信息全部被暴露，为Cookie☆史上首度当事人无泄漏资料下遭特定之例，之后还被人匿名从黑市往家里寄了大麻。其个人账号被盗号者拿去挑衅ISIS。而银行账号则被用于威胁犯罪者的汇款目的地。<br>
 与此同时，有曲奇民潜入过其所在高中的文化祭。其祖父经营的旅馆曾经被恶意散布食物中毒的谣言。<br>
 即使如此仍意志坚定地在网络活动，包括在N站维持直播，虽然被用作视频素材。后来又在fc2找到生存空间。其推特大号在2016年4月以后就再也没有更新过了，原因未知，不过仍在用小号更新刀剑乱舞同人。<br>
 刀剑乱舞厨，画了很多同人图，平均转发量为一万，大人气同人画师。<br>
@@ -470,7 +407,6 @@ Cookie☆☆系列企划者（元凶），战犯中的战犯。会将PCL出演�
 </p>
 </div>
 </td></tr></tbody></table>
-
 
 
 <table>
@@ -499,7 +435,7 @@ BB剧场的主要角色之一，通常以长辈性质的角色出演，以MMD中
 演技力和唱功在Cookie☆☆系列的配音者中都处在中上水平，当初翻唱被发掘时，因歌喉较好而受注目。<br>
 做了很多年的地下偶像，19年3月的时候团体解散毕业。<br>
 </p>
-<ul><li>鼻炎姐妹 SKR姐贵&amp;YN姐贵（YUNO.）蕾米莉亚役&amp;芙兰朵露役<br>
+<ul><li>鼻炎姐妹 SKR姐贵&YN姐贵（YUNO.）蕾米莉亚役&芙兰朵露役<br>
 <ul><li>斯卡蕾特姐妹，由于奇怪的声音被吐槽鼻炎姐妹。<br></li></ul></li></ul>
 <p>本作中表现非常淑女，蕾米利用国王游戏让芙兰强行侵犯AZS，做Deep Kiss。<br>
 </p>
@@ -528,7 +464,6 @@ BB剧场的主要角色之一，通常以长辈性质的角色出演，以MMD中
 </p>
 </div>
 </td></tr></tbody></table>
-
 
 
 <table>
@@ -564,7 +499,7 @@ UDK姐妹中的小妹妹，BB剧场中被欺负的时候会受到三位姐姐保
 曾经同YMN姐贵一样参加过“オレたちのゆきこたんプロジェクト”（日本一咖啡牛奶品牌二次元偶像声优选举活动）项目的应征，也同YMN姐贵一样落选。<br>
 初期并没有受到曲奇民的关注。2016年由于蚂蚁君的疯狂刷榜以及自我矛盾等兄贵的高质量BB剧场而产生了一股空前的HSI姐贵热潮！也就在这一年铃仙成为了自机，可喜可贺啊可喜可贺。以至于Cookie☆月刊中几乎全是HSI姐贵，后来不得不专门做了“HSI姐贵除外的Cookie☆月刊”。然而HSI姐贵本人也并不在意，现在推特上依然会进行日常更新。比较有趣的是，作为素材挖掘杂鱼，蚂蚁君虽然拼命制作动画却绝对拿不到例のアレRANK第一位，由于跟底边VOCALOIDP的末裔Kazuchi走得很近还被戏称为底边VOCALOIDP的末裔的弟子。蚂蚁君最早只是做做Cookie☆角色歌的修音和PV工作，再生数、弹幕和MYLIST都不如师父的十分之一。今年师父的热度退下来之后自己开始强推HSI姐贵（HSI姐贵ranking和マジカス☆），但是接连被ネスラグ兄贵、自我矛盾兄贵等等实力BB剧场制作者赶超，成为笑料。<br>
 BB剧场中的超人气角色，耳朵可以拔下来（猜测），主要的攻击方式是从嘴中喷火，也可以从袖子中伸出枪械使用。平时会在家里种植自己（我卖我自己）。其金属化BB更是因为高质量制作成为了BB剧场中的经典作品。<br>喷火和万智牌都是蚂蚁君给HSI姐贵加的最早几个设定，出自HSI姐贵介绍万智牌系列。<br>
-2020年成为个人Vtuber主<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">9</a></sup><br>
+2020年成为个人Vtuber主<span>[^cite_note-9]</span><br>
 </p>
 <ul><li>SKRNBU姐贵（错乱棒）<br>
 <ul><li>新圣诞企划中担任爱丽丝役。三期的声优质量都较高，SKRNBU姐贵也不例外。<br></li></ul></li>
@@ -585,13 +520,11 @@ BB剧场中的超人气角色，耳朵可以拔下来（猜测），主要的攻
 </td></tr></tbody></table>
 
 
-
 ### 粪曲奇☆（クッソー☆）（2013年~至今）
 
 #### 概要
-[](./文件-nynship.png.md)  [](./文件-nynship.png.md)
-
-  
+<img alt="nynship.png" src="https://upload.thwiki.cc/thumb/7/7b/nynship.png/400px-nynship.png" decoding="async" loading="lazy" width="400" height="173" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/7/7b/nynship.png/600px-nynship.png 1.5x, https://upload.thwiki.cc/thumb/7/7b/nynship.png/800px-nynship.png 2x" data-file-width="1604" data-file-height="694">
+ [放大](./文件-nynship.png.md)  
 随着Cookie☆文化在日本的传播发展，越来越多的人加入到了曲奇二创制作者的行列，曲奇声剧也逐渐从使普通东方声剧风评被害转变成了饼民自制声剧进行营业。其中引人瞩目的一位声剧主催就是一个名叫“阿刀田阿子”的网络漫画家。  
 
 2014年，他唐突上传的Kuso☆（クッソー☆，与日语“粪”谐音，因而其作品常被称为粪曲奇）一期以其前所未有的风格引起了不小的反响。之后他也积极接触曲奇文化，同时也创作了许多风格相当的剧本与作品。他的作品整体偏向于塞满尺度接近下限的下流段子（比如灌肠），而其中也充斥着大量致敬原有的Cookie☆本篇与淫梦本篇的梗，这种强行梗营业的做法在当时非常新鲜，因而引起了饼民不小的反响。  
@@ -602,8 +535,6 @@ BB剧场中的超人气角色，耳朵可以拔下来（猜测），主要的攻
 
 阿刀田目前仍在以声剧主催与画师的身份在同人界活动着。其已为Cookie☆贡献了十余部声剧作品。粪曲奇系列为Cookie☆提供了大量新鲜捏他，已经成为Cookie☆文化中极其重要的一个组成部分，甚至有出圈程度压过旧约新约本篇的势头。
   
-
-
 
 #### 本系列作品声优简介
 
@@ -617,7 +548,6 @@ BB剧场中的超人气角色，耳朵可以拔下来（猜测），主要的攻
 </td></tr></tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
@@ -626,7 +556,6 @@ BB剧场中的超人气角色，耳朵可以拔下来（猜测），主要的攻
 <tr>
 <td><b>Kuso☆二期（クッソー☆☆）the reimu's happy holidays</b><br>原作：超兄貴·编辑：ATUD兄贵<br>配音：SNNM姐贵(灵梦)·AKR姐贵(永琳)·KG姐贵(铃仙)·蛍(莉格露)
 </td></tr></tbody></table>
-
 
 
 <table>
@@ -639,7 +568,6 @@ BB剧场中的超人气角色，耳朵可以拔下来（猜测），主要的攻
 </td></tr></tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
@@ -650,13 +578,11 @@ BB剧场中的超人气角色，耳朵可以拔下来（猜测），主要的攻
 </td></tr></tbody></table>
 
 
-
 ### 其他曲奇声剧创作（2013年~至今）
 
 #### 日本
-[](./文件-自我矛盾☆主视觉图.jpg.md)  [](./文件-自我矛盾☆主视觉图.jpg.md)自我矛盾☆主视觉图
-
-  
+<img alt="" src="https://upload.thwiki.cc/thumb/2/28/%E8%87%AA%E6%88%91%E7%9F%9B%E7%9B%BE%E2%98%86%E4%B8%BB%E8%A7%86%E8%A7%89%E5%9B%BE.jpg/300px-%E8%87%AA%E6%88%91%E7%9F%9B%E7%9B%BE%E2%98%86%E4%B8%BB%E8%A7%86%E8%A7%89%E5%9B%BE.jpg" decoding="async" loading="lazy" width="300" height="300" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/2/28/%E8%87%AA%E6%88%91%E7%9F%9B%E7%9B%BE%E2%98%86%E4%B8%BB%E8%A7%86%E8%A7%89%E5%9B%BE.jpg/450px-%E8%87%AA%E6%88%91%E7%9F%9B%E7%9B%BE%E2%98%86%E4%B8%BB%E8%A7%86%E8%A7%89%E5%9B%BE.jpg 1.5x, https://upload.thwiki.cc/thumb/2/28/%E8%87%AA%E6%88%91%E7%9F%9B%E7%9B%BE%E2%98%86%E4%B8%BB%E8%A7%86%E8%A7%89%E5%9B%BE.jpg/600px-%E8%87%AA%E6%88%91%E7%9F%9B%E7%9B%BE%E2%98%86%E4%B8%BB%E8%A7%86%E8%A7%89%E5%9B%BE.jpg 2x" data-file-width="2048" data-file-height="2048">
+ [放大](./文件-自我矛盾☆主视觉图.jpg.md)自我矛盾☆主视觉图  
 早期Cookie☆本篇多以使普通的东方声剧风评被害为主，在一位名叫“满月”的饼民投稿者的尝试下，Cookie☆文化的发展模式开始转型为自制专门面向饼民声剧。  
 
 满月先后投稿了万圣节☆、锅☆、命莲寺☆等本篇，值得一提的是其的声剧虽然面向饼民，但剧情和普通东方声剧差异不大，也没有任何梗营业。因而由于其作品过于无聊，基本都没能火起来。（除了因各种机缘巧合锅☆本篇的帕露西役声优JOKER姐贵日后火了起来）  
@@ -669,8 +595,6 @@ BB剧场中的超人气角色，耳朵可以拔下来（猜测），主要的攻
 
 2018年后，随着曲奇在日本热度的降低，曲奇声剧逐渐陷入一个低谷期。直至2020年Cookie☆十周年之际自我矛盾☆这部重磅作品发布，该作已曲奇为切入口深入探讨了所有网络亚文化创作者心中的矛盾，并贡献了FMRIM、GR姐贵等有着出色人设的角色。
   
-
-
 
 <table>
 
@@ -787,12 +711,9 @@ BB剧场中的超人气角色，耳朵可以拔下来（猜测），主要的攻
 </td></tr></tbody></table>
 
 
-
-
 #### 国内
-[](./文件-乐园☆惊梦_蓝色妖精_主视觉图.jpg.md)  [](./文件-乐园☆惊梦_蓝色妖精_主视觉图.jpg.md)乐园☆惊梦 蓝色妖精 主视觉图
-
-  
+<img alt="" src="https://upload.thwiki.cc/thumb/6/6a/%E4%B9%90%E5%9B%AD%E2%98%86%E6%83%8A%E6%A2%A6_%E8%93%9D%E8%89%B2%E5%A6%96%E7%B2%BE_%E4%B8%BB%E8%A7%86%E8%A7%89%E5%9B%BE.jpg/300px-%E4%B9%90%E5%9B%AD%E2%98%86%E6%83%8A%E6%A2%A6_%E8%93%9D%E8%89%B2%E5%A6%96%E7%B2%BE_%E4%B8%BB%E8%A7%86%E8%A7%89%E5%9B%BE.jpg" decoding="async" loading="lazy" width="300" height="188" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/6/6a/%E4%B9%90%E5%9B%AD%E2%98%86%E6%83%8A%E6%A2%A6_%E8%93%9D%E8%89%B2%E5%A6%96%E7%B2%BE_%E4%B8%BB%E8%A7%86%E8%A7%89%E5%9B%BE.jpg/450px-%E4%B9%90%E5%9B%AD%E2%98%86%E6%83%8A%E6%A2%A6_%E8%93%9D%E8%89%B2%E5%A6%96%E7%B2%BE_%E4%B8%BB%E8%A7%86%E8%A7%89%E5%9B%BE.jpg 1.5x, https://upload.thwiki.cc/thumb/6/6a/%E4%B9%90%E5%9B%AD%E2%98%86%E6%83%8A%E6%A2%A6_%E8%93%9D%E8%89%B2%E5%A6%96%E7%B2%BE_%E4%B8%BB%E8%A7%86%E8%A7%89%E5%9B%BE.jpg/600px-%E4%B9%90%E5%9B%AD%E2%98%86%E6%83%8A%E6%A2%A6_%E8%93%9D%E8%89%B2%E5%A6%96%E7%B2%BE_%E4%B8%BB%E8%A7%86%E8%A7%89%E5%9B%BE.jpg 2x" data-file-width="1144" data-file-height="717">
+ [放大](./文件-乐园☆惊梦_蓝色妖精_主视觉图.jpg.md)乐园☆惊梦 蓝色妖精 主视觉图  
 国内的本土曲奇声剧制作起步于2017年，当时经过先前7年的沉淀，有组织的国内曲奇社群初步形成，制作一部国产声剧的想法逐渐提上日程。  
 
 第一部国产曲奇声剧是幻想乡中秋月饼☆大盗事件（月饼☆，2017年10月25日），该作制作团队共有43人，讲述了铃仙和魔理沙追查月饼小偷的故事。内容主打幽默路线，获得了非常不错的反响。其中的A君B君人物也成为了著名素材。  
@@ -805,8 +726,6 @@ BB剧场中的超人气角色，耳朵可以拔下来（猜测），主要的攻
 
 2020年开始，伴随着国内Cookie☆文化发展模式的转型，国产声剧的制作热潮开始退潮，这一时期有幻想乡仲夏变声☆事件（交声☆，2020年8月26日），华扇的旧地狱之旅：（旧地狱之旅☆，2021年10月4日）等作品诞生。国产声剧依然在不断涌现中。
   
-
-
 
 <table>
 
@@ -1030,10 +949,9 @@ BB剧场中的超人气角色，耳朵可以拔下来（猜测），主要的攻
 </td></tr></tbody></table>
 
 
-
 #### 韩国
-[](./文件-咖喱乌冬.png.md)  [](./文件-咖喱乌冬.png.md)魔理沙和灵梦的☆秘·密·咖喱乌冬食谱
-  
+<img alt="" src="https://upload.thwiki.cc/thumb/b/bb/%E5%92%96%E5%96%B1%E4%B9%8C%E5%86%AC.png/300px-%E5%92%96%E5%96%B1%E4%B9%8C%E5%86%AC.png" decoding="async" loading="lazy" width="300" height="169" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/b/bb/%E5%92%96%E5%96%B1%E4%B9%8C%E5%86%AC.png/450px-%E5%92%96%E5%96%B1%E4%B9%8C%E5%86%AC.png 1.5x, https://upload.thwiki.cc/thumb/b/bb/%E5%92%96%E5%96%B1%E4%B9%8C%E5%86%AC.png/600px-%E5%92%96%E5%96%B1%E4%B9%8C%E5%86%AC.png 2x" data-file-width="2560" data-file-height="1440">
+ [放大](./文件-咖喱乌冬.png.md)魔理沙和灵梦的☆秘·密·咖喱乌冬食谱  
 随着自身发展，Cookie☆文化也通过音mad素材的形式传播到了韩国，韩语曲奇声剧也随之诞生。
   
   
@@ -1046,12 +964,9 @@ BB剧场中的超人气角色，耳朵可以拔下来（猜测），主要的攻
 该作因为是韩产曲奇，所以也有着“泡菜☆☆”等各种各样的称呼。
   
 
-
-
 #### 欧美
-[](./文件-Easter☆一期的角色们.jpg.md)  [](./文件-Easter☆一期的角色们.jpg.md)Easter☆一期的角色们
-
-  
+<img alt="" src="https://upload.thwiki.cc/thumb/3/34/Easter%E2%98%86%E4%B8%80%E6%9C%9F%E7%9A%84%E8%A7%92%E8%89%B2%E4%BB%AC.jpg/300px-Easter%E2%98%86%E4%B8%80%E6%9C%9F%E7%9A%84%E8%A7%92%E8%89%B2%E4%BB%AC.jpg" decoding="async" loading="lazy" width="300" height="269" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/3/34/Easter%E2%98%86%E4%B8%80%E6%9C%9F%E7%9A%84%E8%A7%92%E8%89%B2%E4%BB%AC.jpg/450px-Easter%E2%98%86%E4%B8%80%E6%9C%9F%E7%9A%84%E8%A7%92%E8%89%B2%E4%BB%AC.jpg 1.5x, https://upload.thwiki.cc/thumb/3/34/Easter%E2%98%86%E4%B8%80%E6%9C%9F%E7%9A%84%E8%A7%92%E8%89%B2%E4%BB%AC.jpg/600px-Easter%E2%98%86%E4%B8%80%E6%9C%9F%E7%9A%84%E8%A7%92%E8%89%B2%E4%BB%AC.jpg 2x" data-file-width="620" data-file-height="555">
+ [放大](./文件-Easter☆一期的角色们.jpg.md)Easter☆一期的角色们  
 最著名的欧美曲奇声剧当数Easter☆系列。该系列由美国人MajorMilk担任主催，也是第一次日本以外产出的Cookie☆声剧。  
 
 该系列是全英语的声剧，声优、画师和其他工作人员也是由不同国籍的人构成的（参见下方列表），可以说是非常国际化的Cookie☆作品。  
@@ -1060,8 +975,6 @@ BB剧场中的超人气角色，耳朵可以拔下来（猜测），主要的攻
 
 在Easter☆系列的影响下，诸如饰演爱丽丝的Web姐贵、饰演纳兹琳的Kofji姐贵、饰演灵梦的MARU姐贵等英语声优成功走火，成为了Cookie☆二创中重要的一部分。
   
-
-
 
 <table>
 
@@ -1083,7 +996,6 @@ BB剧场中的超人气角色，耳朵可以拔下来（猜测），主要的攻
 </td></tr></tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
@@ -1096,7 +1008,6 @@ BB剧场中的超人气角色，耳朵可以拔下来（猜测），主要的攻
 </p>
 </div>
 </td></tr></tbody></table>
-
 
 
 <table>
@@ -1118,23 +1029,31 @@ Cirno[美国]韩语翻译、FourAngle[韩国]日语翻译、LittleBitHarsh[中�
 </td></tr></tbody></table>
 
 
-
 ## 衍生二次（多次）创作
   
- **<big>Cookie☆的二创形式极为丰富，堪称全例区亚文化之首，下面将分类型介绍不同形式的Cookie☆二创。</big>** 
-  
-
+**<big>Cookie☆的二创形式极为丰富，堪称全例区亚文化之首，下面将分类型介绍不同形式的Cookie☆二创。</big>**  
 
 ### Cookie☆实体周边
   
 有部分日本爱好者或者中国爱好者，制作出了Cookie☆二次创作的一些吧唧、水杯、钥匙扣和立牌等在网上进行售卖，甚至还参加了各类线下同人展。
   
 
-- 日本Cookie☆社团&amp;周边- [](./文件-atouda.jpg.md)ATUD以“喫茶阿刀田 (未找到链接)”名义售卖的粪曲奇T恤- [](./文件-atouda2.jpg.md)其同时售卖的水杯- [](./文件-烧果.jpg.md)由多位日本Cookie☆投稿者组成的社团「焼菓一心」在例大祭的摊位
+- 日本Cookie☆社团&周边
+- <img alt="ATUD以“喫茶阿刀田”名义售卖的粪曲奇T恤" src="https://upload.thwiki.cc/thumb/c/c8/atouda.jpg/180px-atouda.jpg" decoding="async" loading="lazy" width="120" height="120" srcset="https://upload.thwiki.cc/thumb/c/c8/atouda.jpg/270px-atouda.jpg 1.5x, https://upload.thwiki.cc/thumb/c/c8/atouda.jpg/360px-atouda.jpg 2x" data-file-width="1024" data-file-height="1024"> ATUD以“喫茶阿刀田 (未找到链接)”名义售卖的粪曲奇T恤
+- <img alt="其同时售卖的水杯" src="https://upload.thwiki.cc/thumb/3/3b/atouda2.jpg/180px-atouda2.jpg" decoding="async" loading="lazy" width="120" height="120" srcset="https://upload.thwiki.cc/thumb/3/3b/atouda2.jpg/270px-atouda2.jpg 1.5x, https://upload.thwiki.cc/thumb/3/3b/atouda2.jpg/360px-atouda2.jpg 2x" data-file-width="1024" data-file-height="1024"> 其同时售卖的水杯
+- <img alt="由多位日本Cookie☆投稿者组成的社团「焼菓一心」在例大祭的摊位" src="https://upload.thwiki.cc/thumb/c/ca/%E7%83%A7%E6%9E%9C.jpg/216px-%E7%83%A7%E6%9E%9C.jpg" decoding="async" loading="lazy" width="144" height="120" srcset="https://upload.thwiki.cc/thumb/c/ca/%E7%83%A7%E6%9E%9C.jpg/323px-%E7%83%A7%E6%9E%9C.jpg 1.5x, https://upload.thwiki.cc/thumb/c/ca/%E7%83%A7%E6%9E%9C.jpg/431px-%E7%83%A7%E6%9E%9C.jpg 2x" data-file-width="2048" data-file-height="1710"> 由多位日本Cookie☆投稿者组成的社团「焼菓一心」在例大祭的摊位
 
-- 国内Cookie☆社团「狐神社」- [](./文件-狐神社1.png.md)主打Cookie☆吧唧制品的同人社团「狐神社」的网店- [](./文件-sellcookie.png.md)狐神社售卖的曲奇吧唧（其中一部分）- [](./文件-cookie001.jpg.md)来自淘宝购买者的反馈图片
 
-- 国内Cookie☆社团「潮饼汇」- [](./文件-潮饼汇1.jpg.md)主打Cookie☆与潮汕英豪传的同人社团「潮饼汇」在CD25的线下摊位- [](./文件-潮饼汇2.jpg.md)潮饼汇的怪物猎人Cookie☆同人志主视觉图- [](./文件-潮饼汇3.jpg.md)潮饼汇的热门周边「DIYUSI」故障风挂画主视觉图
+- 国内Cookie☆社团「狐神社」
+- <img alt="主打Cookie☆吧唧制品的同人社团「狐神社」的网店" src="https://upload.thwiki.cc/thumb/6/65/%E7%8B%90%E7%A5%9E%E7%A4%BE1.png/197px-%E7%8B%90%E7%A5%9E%E7%A4%BE1.png" decoding="async" loading="lazy" width="132" height="120" srcset="https://upload.thwiki.cc/thumb/6/65/%E7%8B%90%E7%A5%9E%E7%A4%BE1.png/295px-%E7%8B%90%E7%A5%9E%E7%A4%BE1.png 1.5x, https://upload.thwiki.cc/thumb/6/65/%E7%8B%90%E7%A5%9E%E7%A4%BE1.png/394px-%E7%8B%90%E7%A5%9E%E7%A4%BE1.png 2x" data-file-width="1017" data-file-height="930"> 主打Cookie☆吧唧制品的同人社团「狐神社」的网店
+- <img alt="狐神社售卖的曲奇吧唧（其中一部分）" src="https://upload.thwiki.cc/thumb/f/fa/sellcookie.png/180px-sellcookie.png" decoding="async" loading="lazy" width="120" height="120" srcset="https://upload.thwiki.cc/thumb/f/fa/sellcookie.png/270px-sellcookie.png 1.5x, https://upload.thwiki.cc/thumb/f/fa/sellcookie.png/360px-sellcookie.png 2x" data-file-width="756" data-file-height="756"> 狐神社售卖的曲奇吧唧（其中一部分）
+- <img alt="来自淘宝购买者的反馈图片" src="https://upload.thwiki.cc/thumb/d/da/cookie001.jpg/240px-cookie001.jpg" decoding="async" loading="lazy" width="160" height="120" srcset="https://upload.thwiki.cc/thumb/d/da/cookie001.jpg/360px-cookie001.jpg 1.5x, https://upload.thwiki.cc/thumb/d/da/cookie001.jpg/480px-cookie001.jpg 2x" data-file-width="1732" data-file-height="1299"> 来自淘宝购买者的反馈图片
+
+
+- 国内Cookie☆社团「潮饼汇」
+- <img alt="主打Cookie☆与潮汕英豪传的同人社团「潮饼汇」在CD25的线下摊位" src="https://upload.thwiki.cc/thumb/7/70/%E6%BD%AE%E9%A5%BC%E6%B1%871.jpg/240px-%E6%BD%AE%E9%A5%BC%E6%B1%871.jpg" decoding="async" loading="lazy" width="160" height="120" srcset="https://upload.thwiki.cc/thumb/7/70/%E6%BD%AE%E9%A5%BC%E6%B1%871.jpg/360px-%E6%BD%AE%E9%A5%BC%E6%B1%871.jpg 1.5x, https://upload.thwiki.cc/thumb/7/70/%E6%BD%AE%E9%A5%BC%E6%B1%871.jpg/480px-%E6%BD%AE%E9%A5%BC%E6%B1%871.jpg 2x" data-file-width="4000" data-file-height="3000"> 主打Cookie☆与潮汕英豪传的同人社团「潮饼汇」在CD25的线下摊位
+- <img alt="潮饼汇的怪物猎人Cookie☆同人志主视觉图" src="https://upload.thwiki.cc/thumb/c/cb/%E6%BD%AE%E9%A5%BC%E6%B1%872.jpg/180px-%E6%BD%AE%E9%A5%BC%E6%B1%872.jpg" decoding="async" loading="lazy" width="120" height="120" srcset="https://upload.thwiki.cc/thumb/c/cb/%E6%BD%AE%E9%A5%BC%E6%B1%872.jpg/270px-%E6%BD%AE%E9%A5%BC%E6%B1%872.jpg 1.5x, https://upload.thwiki.cc/thumb/c/cb/%E6%BD%AE%E9%A5%BC%E6%B1%872.jpg/360px-%E6%BD%AE%E9%A5%BC%E6%B1%872.jpg 2x" data-file-width="3335" data-file-height="3337"> 潮饼汇的怪物猎人Cookie☆同人志主视觉图
+- <img alt="潮饼汇的热门周边「DIYUSI」故障风挂画主视觉图" src="https://upload.thwiki.cc/thumb/e/e2/%E6%BD%AE%E9%A5%BC%E6%B1%873.jpg/180px-%E6%BD%AE%E9%A5%BC%E6%B1%873.jpg" decoding="async" loading="lazy" width="120" height="120" srcset="https://upload.thwiki.cc/thumb/e/e2/%E6%BD%AE%E9%A5%BC%E6%B1%873.jpg/270px-%E6%BD%AE%E9%A5%BC%E6%B1%873.jpg 1.5x, https://upload.thwiki.cc/thumb/e/e2/%E6%BD%AE%E9%A5%BC%E6%B1%873.jpg/360px-%E6%BD%AE%E9%A5%BC%E6%B1%873.jpg 2x" data-file-width="3335" data-file-height="3337"> 潮饼汇的热门周边「DIYUSI」故障风挂画主视觉图
 
 
 ### Cookie☆同人志（收录不完全）
@@ -1243,14 +1162,14 @@ Cirno[美国]韩语翻译、FourAngle[韩国]日语翻译、LittleBitHarsh[中�
 </tbody></table>
 
 
-
 ### Cookie☆BB剧场
 
 #### BB剧场是什么？
 
--   - BB剧场（日文：BB劇場），或称蓝幕剧场，指的是一种利用BB素材创作的剧情向视频。BB剧场的风格和质量因人而异，基本上取决于制作者的创意、所花的时间以及使用的素材。  
+- 
+  - BB剧场（日文：BB劇場），或称蓝幕剧场，指的是一种利用BB素材创作的剧情向视频。BB剧场的风格和质量因人而异，基本上取决于制作者的创意、所花的时间以及使用的素材。
+    - 素材：“BB素材”一词中的“BB”是“Blue Background”的缩写，翻译成“蓝幕”也被称为色度键技术，指的是蓝色背景的素材视频。也有以其他颜色作为背景的。
 
-    - 素材：“BB素材”一词中的“BB”是“Blue Background”的缩写，翻译成“蓝幕”也被称为色度键技术，指的是蓝色背景的素材视频。也有以其他颜色作为背景的。  
 
 
 
@@ -1263,27 +1182,23 @@ Cirno[美国]韩语翻译、FourAngle[韩国]日语翻译、LittleBitHarsh[中�
 一般来说，BB素材是出于开源思想被相关素材的爱好者以便于传播为目的制作出来的，一方面可以有利于对视频素材进行多次编辑，一方面有利于其他爱好者进行二次创作。BB素材除了用来制作BB剧场之外，还可以用来制作其他类型的MAD，比如音MAD。  
 
 虽然有的素材不是蓝色背景，比如GB，但为了方便一般统称为BB剧场。  
-
   
 
-- PNG透明模式的BB素材- [](./文件-DIYUSI1.png.md)  
-- [](./文件-DIYUSI2.png.md)  
+- PNG透明模式的BB素材
+- <img alt="" src="https://upload.thwiki.cc/thumb/7/73/DIYUSI1.png/258px-DIYUSI1.png" decoding="async" loading="lazy" width="172" height="120" srcset="https://upload.thwiki.cc/thumb/7/73/DIYUSI1.png/386px-DIYUSI1.png 1.5x, https://upload.thwiki.cc/thumb/7/73/DIYUSI1.png/515px-DIYUSI1.png 2x" data-file-width="1000" data-file-height="699"> 
+- <img alt="" src="https://upload.thwiki.cc/thumb/4/40/DIYUSI2.png/244px-DIYUSI2.png" decoding="async" loading="lazy" width="163" height="120" srcset="https://upload.thwiki.cc/thumb/4/40/DIYUSI2.png/366px-DIYUSI2.png 1.5x, https://upload.thwiki.cc/thumb/4/40/DIYUSI2.png/487px-DIYUSI2.png 2x" data-file-width="1000" data-file-height="739"> 
 
   
-
   
 使用者可以使用PS和PR软件就能简单做出BB剧场，对学习视频制作新手提供了不错的素材，进阶者可以使用AE。  
 
 使用上面的素材可以做出人物动作等。
   
 
-
-
 #### 以Cookie☆为主题的BB剧场
-[](./文件-赛博曲奇.png.md)  [](./文件-赛博曲奇.png.md)著名的国产Cookie☆剧场「赛博朋克曲奇行动」画面
-
-- 如同淫梦本家的BB先辈剧场一样，使用各式Cookie☆素材编辑成的短篇剧场动画。初期因素材不足，难免会有淫梦要素。两期企划后由于曲奇本身素材数量增多，纯Cookie☆题材开始增加。  
-
+<img alt="" src="https://upload.thwiki.cc/thumb/b/bc/%E8%B5%9B%E5%8D%9A%E6%9B%B2%E5%A5%87.png/300px-%E8%B5%9B%E5%8D%9A%E6%9B%B2%E5%A5%87.png" decoding="async" loading="lazy" width="300" height="141" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/b/bc/%E8%B5%9B%E5%8D%9A%E6%9B%B2%E5%A5%87.png/450px-%E8%B5%9B%E5%8D%9A%E6%9B%B2%E5%A5%87.png 1.5x, https://upload.thwiki.cc/thumb/b/bc/%E8%B5%9B%E5%8D%9A%E6%9B%B2%E5%A5%87.png/600px-%E8%B5%9B%E5%8D%9A%E6%9B%B2%E5%A5%87.png 2x" data-file-width="1668" data-file-height="782">
+ [放大](./文件-赛博曲奇.png.md)著名的国产Cookie☆剧场「赛博朋克曲奇行动」画面
+- 如同淫梦本家的BB先辈剧场一样，使用各式Cookie☆素材编辑成的短篇剧场动画。初期因素材不足，难免会有淫梦要素。两期企划后由于曲奇本身素材数量增多，纯Cookie☆题材开始增加。
 
   
 曾经有一段时间和淫梦有关的影片被删除，自此，绝大部分的新投稿都会加入“运营爆破”的画面，也就是爆破N站。如果是国人创作那就会变成爆破屑站（B站）。但后者如果不加以规制通常难逃被删除的命运。  
@@ -1292,24 +1207,22 @@ Cirno[美国]韩语翻译、FourAngle[韩国]日语翻译、LittleBitHarsh[中�
 以RIM一家为例，RU、BNKRG、KNN、SNNN对应的模型分别为にがもん式、モンテコア式、nya式和もなか式改。  
 
 BBCookie☆剧场的人设又和Cookie☆内不同，在素材提供者、作者和社区共识下得出一致性格。  
-
   
 
--  **去中心化是Cookie☆向BB剧场的最重要特征之一**   
-
+- **去中心化是Cookie☆向BB剧场的最重要特征之一**
 
   
 曲奇的二次创作中的很多人物性格基于声优本身的性格，但是有部分人物从一开始就没有设定，由广大的作者和素材创作者一笔一划添加创作出来。  
 并没有人会对设定的不同的剧场发表反对意见，如果一个剧场优秀到引起广泛讨论，会有很多基于该剧场的创作，甚至在新的其他剧场中代入该设定。成为社区承认主流设定。  
-
   
 
--   -  **典型例子:DIYUSI 大妖精**   
+- 
+  - **典型例子:DIYUSI 大妖精**
 
 
 
-[](./文件-diyusi.jpg.md)  [](./文件-diyusi.jpg.md)DIYUSI 画师：綿雲飴里  
-
+<img alt="" src="https://upload.thwiki.cc/thumb/b/b2/diyusi.jpg/273px-diyusi.jpg" decoding="async" loading="lazy" width="273" height="300" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/b/b2/diyusi.jpg/409px-diyusi.jpg 1.5x, https://upload.thwiki.cc/thumb/b/b2/diyusi.jpg/545px-diyusi.jpg 2x" data-file-width="1000" data-file-height="1100">
+ [放大](./文件-diyusi.jpg.md)DIYUSI 画师：綿雲飴里  
   
 在Cookie本篇中，在视频的4分45秒时出场，该角色为HNS姐贵进行配音，台词数量用一只手就能数出来。  
 
@@ -1322,14 +1235,11 @@ BBCookie☆剧场的人设又和Cookie☆内不同，在素材提供者、作者
 在此基础上创造出了大量的精品二次创作剧场和绘画作品，和在DIYUSI基础上二次创作的人物“SIYUDI”。
   
 
-
-
-
 #### 广泛使用的BB剧场人物设定
-- [](./文件-魔理沙BB剧场曲奇形象.jpg.md) **MRS（魔理沙）一家（曲奇本篇&amp;曲奇新约）**    
-从左往右：RI姐贵（铃奈庵冬装魔理沙） AZS姐贵（星莲船魔理沙） MZ姐贵（香霖堂魔理沙） UDK姐贵（非想天则魔理沙)（？）- 灵梦BB剧场曲奇曲奇形象.jpg **RIM（灵梦）一家（曲奇本篇&amp;曲奇新约）**   
-从左往右：SNNN姐贵 BNKRG姐贵（铃奈庵冬装灵梦） KNN姐贵（三月精灵梦） RU姐贵  中间下部：YMN（SIK 萃香）姐贵- [](./文件-爱丽丝BB剧场曲奇形象.png.md) **ALC（爱丽丝）一族（曲奇本篇&amp;曲奇新约&amp;粪曲奇&amp;东方夏休企划）**   
-从左往右：HNS姐贵 JGN SKRNBU姐贵 TIS姐贵 ICG姐贵
+
+- <img alt="MRS（魔理沙）一家（曲奇本篇&amp;曲奇新约） 从左往右：RI姐贵（铃奈庵冬装魔理沙） AZS姐贵（星莲船魔理沙） MZ姐贵（香霖堂魔理沙） UDK姐贵（非想天则魔理沙)（？）" src="https://upload.thwiki.cc/thumb/d/d8/%E9%AD%94%E7%90%86%E6%B2%99BB%E5%89%A7%E5%9C%BA%E6%9B%B2%E5%A5%87%E5%BD%A2%E8%B1%A1.jpg/428px-%E9%AD%94%E7%90%86%E6%B2%99BB%E5%89%A7%E5%9C%BA%E6%9B%B2%E5%A5%87%E5%BD%A2%E8%B1%A1.jpg" decoding="async" loading="lazy" width="286" height="200" srcset="https://upload.thwiki.cc/thumb/d/d8/%E9%AD%94%E7%90%86%E6%B2%99BB%E5%89%A7%E5%9C%BA%E6%9B%B2%E5%A5%87%E5%BD%A2%E8%B1%A1.jpg/641px-%E9%AD%94%E7%90%86%E6%B2%99BB%E5%89%A7%E5%9C%BA%E6%9B%B2%E5%A5%87%E5%BD%A2%E8%B1%A1.jpg 1.5x, https://upload.thwiki.cc/thumb/d/d8/%E9%AD%94%E7%90%86%E6%B2%99BB%E5%89%A7%E5%9C%BA%E6%9B%B2%E5%A5%87%E5%BD%A2%E8%B1%A1.jpg/855px-%E9%AD%94%E7%90%86%E6%B2%99BB%E5%89%A7%E5%9C%BA%E6%9B%B2%E5%A5%87%E5%BD%A2%E8%B1%A1.jpg 2x" data-file-width="2917" data-file-height="2048"> **MRS（魔理沙）一家（曲奇本篇&曲奇新约）** 从左往右：RI姐贵（铃奈庵冬装魔理沙） AZS姐贵（星莲船魔理沙） MZ姐贵（香霖堂魔理沙） UDK姐贵（非想天则魔理沙)（？）
+- 灵梦BB剧场曲奇曲奇形象.jpg**RIM（灵梦）一家（曲奇本篇&曲奇新约）**从左往右：SNNN姐贵 BNKRG姐贵（铃奈庵冬装灵梦） KNN姐贵（三月精灵梦） RU姐贵 中间下部：YMN（SIK 萃香）姐贵
+- <img alt="ALC（爱丽丝）一族（曲奇本篇&amp;曲奇新约&amp;粪曲奇&amp;东方夏休企划） 从左往右：HNS姐贵 JGN SKRNBU姐贵 TIS姐贵 ICG姐贵" src="https://upload.thwiki.cc/thumb/7/7e/%E7%88%B1%E4%B8%BD%E4%B8%9DBB%E5%89%A7%E5%9C%BA%E6%9B%B2%E5%A5%87%E5%BD%A2%E8%B1%A1.png/462px-%E7%88%B1%E4%B8%BD%E4%B8%9DBB%E5%89%A7%E5%9C%BA%E6%9B%B2%E5%A5%87%E5%BD%A2%E8%B1%A1.png" decoding="async" loading="lazy" width="308" height="200" srcset="https://upload.thwiki.cc/thumb/7/7e/%E7%88%B1%E4%B8%BD%E4%B8%9DBB%E5%89%A7%E5%9C%BA%E6%9B%B2%E5%A5%87%E5%BD%A2%E8%B1%A1.png/693px-%E7%88%B1%E4%B8%BD%E4%B8%9DBB%E5%89%A7%E5%9C%BA%E6%9B%B2%E5%A5%87%E5%BD%A2%E8%B1%A1.png 1.5x, https://upload.thwiki.cc/thumb/7/7e/%E7%88%B1%E4%B8%BD%E4%B8%9DBB%E5%89%A7%E5%9C%BA%E6%9B%B2%E5%A5%87%E5%BD%A2%E8%B1%A1.png/923px-%E7%88%B1%E4%B8%BD%E4%B8%9DBB%E5%89%A7%E5%9C%BA%E6%9B%B2%E5%A5%87%E5%BD%A2%E8%B1%A1.png 2x" data-file-width="2000" data-file-height="1300"> **ALC（爱丽丝）一族（曲奇本篇&曲奇新约&粪曲奇&东方夏休企划）**从左往右：HNS姐贵 JGN SKRNBU姐贵 TIS姐贵 ICG姐贵
 
 
 #### 著名的Cookie☆ BB剧场列表
@@ -1350,7 +1260,7 @@ BBCookie☆剧场的人设又和Cookie☆内不同，在素材提供者、作者
 </th>
 <th style="width: 20%">翻译情况
 </th>
-<th style="width: 20%">淫梦要素<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">10</a></sup>
+<th style="width: 20%">淫梦要素<span>[^cite_note-10]</span>
 </th></tr>
 <tr>
 <td><a href="https://www.bilibili.com/video/av25451203" class="extiw" title="b:av25451203">逆转COOKIE☆裁判</a>
@@ -1425,7 +1335,7 @@ BBCookie☆剧场的人设又和Cookie☆内不同，在素材提供者、作者
 </td>
 <td style="background:#CEE0F2;">已跟进到最新一话。<br>翻译：<a rel="nofollow" class="external text" href="https://space.bilibili.com/243689351">万豪顿字幕组</a>
 </td>
-<td>无<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">11</a></sup>
+<td>无<span>[^cite_note-11]</span>
 </td></tr>
 <tr>
 <td><a href="https://www.bilibili.com/video/av10023344" class="extiw" title="b:av10023344">怪谈饴玉袋</a>
@@ -1438,9 +1348,9 @@ BBCookie☆剧场的人设又和Cookie☆内不同，在素材提供者、作者
 </td>
 <td style="background:#CEF2E0;">完结
 </td>
-<td style="background:#F2E0CE;">部分剧集有翻译。<br>部分翻译：<a rel="nofollow" class="external text" href="https://space.bilibili.com/7106172">孫一般</a><sup id="cite_ref-12" class="reference"><a href="#cite_note-12">12</a></sup>、一般通過兎（先辈和二人的父亲）
+<td style="background:#F2E0CE;">部分剧集有翻译。<br>部分翻译：<a rel="nofollow" class="external text" href="https://space.bilibili.com/7106172">孫一般</a><span>[^cite_note-12]</span>、一般通過兎（先辈和二人的父亲）
 </td>
-<td><b>BB先辈剧场</b><sup id="cite_ref-总览a_13-0" class="reference"><a href="#cite_note-总览a-13">13</a></sup>
+<td><b>BB先辈剧场</b><span>[^cite_note-总览a-13]</span>
 </td></tr>
 <tr>
 <td><a href="https://www.bilibili.com/video/av16003145" class="extiw" title="b:av16003145">二军淫梦BB剧场</a>
@@ -1500,10 +1410,10 @@ BBCookie☆剧场的人设又和Cookie☆内不同，在素材提供者、作者
 </td>
 <td style="background:#CEE0F2;">翻译到第三话。<br>第一话翻译：<a rel="nofollow" class="external text" href="https://space.bilibili.com/82379719">宇月幸成姐贵</a><br>第二第三话：<a rel="nofollow" class="external text" href="https://space.bilibili.com/1920474">-枩慶-</a>
 </td>
-<td><b>BB先辈剧场</b><sup id="cite_ref-总览a_13-1" class="reference"><a href="#cite_note-总览a-13">13</a></sup>，淫梦和曲奇角色各占一半
+<td><b>BB先辈剧场</b><span>[^cite_note-总览a-13]</span>，淫梦和曲奇角色各占一半
 </td></tr>
 <tr>
-<td><a href="https://www.bilibili.com/video/av18863910" class="extiw" title="b:av18863910">OFFside:DIYUSI</a><sup id="cite_ref-14" class="reference"><a href="#cite_note-14">14</a></sup>
+<td><a href="https://www.bilibili.com/video/av18863910" class="extiw" title="b:av18863910">OFFside:DIYUSI</a><span>[^cite_note-14]</span>
 </td>
 <td>あんこう鍋
 </td>
@@ -1528,7 +1438,7 @@ BBCookie☆剧场的人设又和Cookie☆内不同，在素材提供者、作者
 </td>
 <td style="background:#CEF2E0;">完结
 </td>
-<td style="background:#CEF2E0;">已完全翻译。<br>翻译：<a href="/index.php?title=%E6%B0%B4%E5%8E%9F%E7%99%BD%E7%8B%90&amp;action=edit&amp;redlink=1" class="new" title="水原白狐（页面不存在）">水原白狐</a>（至第7话）<br><a rel="nofollow" class="external text" href="https://space.bilibili.com/756822">HarryChris</a>（第8话~第10话）<br><a rel="nofollow" class="external text" href="https://space.bilibili.com/687939803">Mr_Theend</a>（最终话）
+<td style="background:#CEF2E0;">已完全翻译。<br>翻译：<a class="new" title="水原白狐（页面不存在）">水原白狐</a>（至第7话）<br><a rel="nofollow" class="external text" href="https://space.bilibili.com/756822">HarryChris</a>（第8话~第10话）<br><a rel="nofollow" class="external text" href="https://space.bilibili.com/687939803">Mr_Theend</a>（最终话）
 </td>
 <td>无
 </td></tr>
@@ -1543,7 +1453,7 @@ BBCookie☆剧场的人设又和Cookie☆内不同，在素材提供者、作者
 </td>
 <td style="background:#CEE0F2;">19年3月中旬
 </td>
-<td style="background:#CEE0F2;">已跟进到最新一话。<br>翻译：<a href="/index.php?title=%E6%B0%B4%E5%8E%9F%E7%99%BD%E7%8B%90&amp;action=edit&amp;redlink=1" class="new" title="水原白狐（页面不存在）">水原白狐</a>（至第二章）<br><a rel="nofollow" class="external text" href="https://space.bilibili.com/2279767">SKNshin</a>（第三章起）
+<td style="background:#CEE0F2;">已跟进到最新一话。<br>翻译：<a class="new" title="水原白狐（页面不存在）">水原白狐</a>（至第二章）<br><a rel="nofollow" class="external text" href="https://space.bilibili.com/2279767">SKNshin</a>（第三章起）
 </td>
 <td>有少量相关角色出场
 </td></tr>
@@ -1560,7 +1470,7 @@ BBCookie☆剧场的人设又和Cookie☆内不同，在素材提供者、作者
 </td>
 <td style="background:#F2CEE0;">无翻译 搬运翻译UP主退站删稿
 </td>
-<td><b>BB先辈剧场</b><sup id="cite_ref-总览a_13-2" class="reference"><a href="#cite_note-总览a-13">13</a></sup>，曲奇成分相对要少些
+<td><b>BB先辈剧场</b><span>[^cite_note-总览a-13]</span>，曲奇成分相对要少些
 </td></tr>
 <tr>
 <td><a href="https://www.bilibili.com/video/av34676329" class="extiw" title="b:av34676329">RU与野兽的BB之吻☆</a>
@@ -1573,9 +1483,9 @@ BBCookie☆剧场的人设又和Cookie☆内不同，在素材提供者、作者
 </td>
 <td style="background:#CEF2E0;">完结
 </td>
-<td style="background:#CEF2E0;">全翻译。<br>翻译：<a href="/index.php?title=%E6%B0%B4%E5%8E%9F%E7%99%BD%E7%8B%90&amp;action=edit&amp;redlink=1" class="new" title="水原白狐（页面不存在）">水原白狐</a>（至 part 3）<br><a rel="nofollow" class="external text" href="https://space.bilibili.com/2279767">SKNshin</a>（part 4起）
+<td style="background:#CEF2E0;">全翻译。<br>翻译：<a class="new" title="水原白狐（页面不存在）">水原白狐</a>（至 part 3）<br><a rel="nofollow" class="external text" href="https://space.bilibili.com/2279767">SKNshin</a>（part 4起）
 </td>
-<td><b>BB先辈剧场</b><sup id="cite_ref-总览a_13-3" class="reference"><a href="#cite_note-总览a-13">13</a></sup>，<br>不过有曲奇角色出场
+<td><b>BB先辈剧场</b><span>[^cite_note-总览a-13]</span>，<br>不过有曲奇角色出场
 </td></tr>
 <tr>
 <td><a href="https://www.bilibili.com/video/av31044809" class="extiw" title="b:av31044809">入国审查官DIYUSI</a>
@@ -1601,7 +1511,7 @@ BBCookie☆剧场的人设又和Cookie☆内不同，在素材提供者、作者
 </td>
 <td>基于<a rel="nofollow" class="external text" href="https://baike.baidu.com/item/米泽穗信">米泽穗信</a>小说<a rel="nofollow" class="external text" href="https://book.douban.com/subject/20445300/">リカーシブル_(小説)《递回》</a>。
 </td>
-<td style="background:#CEF2E0;">完结<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">15</a></sup>
+<td style="background:#CEF2E0;">完结<span>[^cite_note-15]</span>
 </td>
 <td style="background:#CEF2E0;">完全翻译<br>翻译：<a rel="nofollow" class="external text" href="https://space.bilibili.com/2279767">SKNshin</a>
 </td>
@@ -1616,7 +1526,7 @@ BBCookie☆剧场的人设又和Cookie☆内不同，在素材提供者、作者
 </td>
 <td>以<a href="https://zh.wikipedia.org/wiki/弹丸论破系列" class="extiw" title="wzh:弹丸论破系列">弹丸论破系列</a>为原型。
 </td>
-<td style="background:#F2E0CE;">18年8月下旬<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">16</a></sup>
+<td style="background:#F2E0CE;">18年8月下旬<span>[^cite_note-16]</span>
 </td>
 <td style="background:#CEE0F2;">已跟进到最新一话。<br>翻译：<a rel="nofollow" class="external text" href="https://space.bilibili.com/2279767">SKNshin</a>
 </td>
@@ -1648,7 +1558,7 @@ BBCookie☆剧场的人设又和Cookie☆内不同，在素材提供者、作者
 </td>
 <td style="background:#CEF2E0;">完结
 </td>
-<td style="background:#CEE0F2;">积极翻译中。<br>翻译: <a rel="nofollow" class="external text" href="https://space.bilibili.com/756822">HarryChris</a><sup id="cite_ref-17" class="reference"><a href="#cite_note-17">17</a></sup>
+<td style="background:#CEE0F2;">积极翻译中。<br>翻译: <a rel="nofollow" class="external text" href="https://space.bilibili.com/756822">HarryChris</a><span>[^cite_note-17]</span>
 </td>
 <td>
 </td></tr>
@@ -1710,7 +1620,7 @@ BBCookie☆剧场的人设又和Cookie☆内不同，在素材提供者、作者
 </td>
 <td style="background:#CEF2E0;">完全翻译<br>翻译：<a rel="nofollow" class="external text" href="https://space.bilibili.com/2279767">SKNshin</a>
 </td>
-<td><b>BB先辈剧场</b><sup id="cite_ref-总览a_13-4" class="reference"><a href="#cite_note-总览a-13">13</a></sup>
+<td><b>BB先辈剧场</b><span>[^cite_note-总览a-13]</span>
 </td></tr>
 <tr>
 <td><a href="https://www.bilibili.com/video/av63916476" class="extiw" title="b:av63916476">杀手MGR的电影华尔兹</a>
@@ -1743,7 +1653,7 @@ BBCookie☆剧场的人设又和Cookie☆内不同，在素材提供者、作者
 <td>在剧情上占有一定比重。
 </td></tr>
 <tr>
-<td><a rel="nofollow" class="external text" href="https://space.bilibili.com/680639/channel/detail?cid=103789&amp;ctype=0">赛博朋克曲奇行动</a>
+<td><a rel="nofollow" class="external text" href="https://space.bilibili.com/680639/channel/detail?cid=103789&ctype=0">赛博朋克曲奇行动</a>
 </td>
 <td><a rel="nofollow" class="external text" href="https://space.bilibili.com/680639">Grox0101</a>
 </td>
@@ -1804,11 +1714,9 @@ BBCookie☆剧场的人设又和Cookie☆内不同，在素材提供者、作者
 </td></tr></tbody></table>
 
 
-
 ### Cookie☆音MAD
-[](./文件-勘合.jpg.md)  [](./文件-勘合.jpg.md)Cookie☆12th 音MAD合作「勘合贸易」主视觉图
-
-  
+<img alt="" src="https://upload.thwiki.cc/thumb/b/b8/%E5%8B%98%E5%90%88.jpg/300px-%E5%8B%98%E5%90%88.jpg" decoding="async" loading="lazy" width="300" height="188" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/b/b8/%E5%8B%98%E5%90%88.jpg/450px-%E5%8B%98%E5%90%88.jpg 1.5x, https://upload.thwiki.cc/thumb/b/b8/%E5%8B%98%E5%90%88.jpg/600px-%E5%8B%98%E5%90%88.jpg 2x" data-file-width="1728" data-file-height="1080">
+ [放大](./文件-勘合.jpg.md)Cookie☆12th 音MAD合作「勘合贸易」主视觉图  
 Cookie☆刚诞生时，正逢NicoNico上面音MAD作为一种文化而成熟发展的时期，因而其也成为了初期N站Cookie☆二创作品的主力。  
 
 特别是「霊夢 so クッキー☆」这部作品作为Cookie☆音MAD拥有了爆炸性的人气，与之后的「I'm so Cookie☆」热潮相连，成为了Cookie☆素材作品固定化的大转机。  
@@ -1822,14 +1730,10 @@ Cookie☆音MAD在所有MAD动画中也有着制作难度高，比其他动画�
 早在2013年，早期的国内音MADER就组织了第一次国产Cookie☆音MAD合作。现如今Cookie☆已成为国内音MADER的常用的素材，2022年国内音MADER首次主催了Cookie☆12周年的国际合作[「勘合贸易」](https://www.bilibili.com/video/BV1Vq4y1t7iC)。
   
 
-
-
-
 ### Cookie☆静画（饼图）
 
-- 饼图指与Cookie相关的图片  
-
-  - 饼图与一般东方同人图片会有一些差异，其常见特征包括与原声剧类似的画风。  
+- 饼图指与Cookie相关的图片
+  - 饼图与一般东方同人图片会有一些差异，其常见特征包括与原声剧类似的画风。
 
 
 
@@ -1837,49 +1741,40 @@ Cookie☆音MAD在所有MAD动画中也有着制作难度高，比其他动画�
 但是也有极其难以分辨的图片，同时出现的数个原型一致但具有不同特征的人物（例如几个相貌、服饰不一的“灵梦”。铃奈庵冬装魔理沙、星莲船魔理沙同时出场），特定的角色行为（如题图中的饮茶），一般东方同人中少见甚至几乎不存在的CP（例如“爱丽丝”和“纳兹琳”）等。  
 
 饼图一般不标注为东方角色的名字而是会使用使用TDN记名法，如RU姐贵而不是博丽灵梦。在部分外国网站中，饼图会属于东方图片的子分类。例如：touhou（cookie）  
-
   
+<img alt="" src="https://upload.thwiki.cc/thumb/d/db/NYN1.png/231px-NYN1.png" decoding="async" loading="lazy" width="231" height="250" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/d/db/NYN1.png/347px-NYN1.png 1.5x, https://upload.thwiki.cc/thumb/d/db/NYN1.png/463px-NYN1.png 2x" data-file-width="926" data-file-height="1000">
+ [放大](./文件-NYN1.png.md)有些时候，不看图片的tag，确实很难分辨是否是曲奇图。  
 
-[](./文件-NYN1.png.md)  [](./文件-NYN1.png.md)有些时候，不看图片的tag，确实很难分辨是否是曲奇图。  
-
--   - 饼图画师一般将画作发布于NicoNico静画、Pixiv、推特、Lofter、Nitter、百度贴吧Cookie吧、真夏夜的银梦吧、B站动态区 等（tag一般为 クッキー☆ ）  
-
+- 
+  - 饼图画师一般将画作发布于NicoNico静画、Pixiv、推特、Lofter、Nitter、百度贴吧Cookie吧、真夏夜的银梦吧、B站动态区 等（tag一般为 クッキー☆ ）
   - 近年来随着国内Cookie☆画师数量不断增多，饼图创作已成为国内最重要的Cookie☆二创形式之一。
-
 
 
 
 
 ### Cookie☆音乐
 
-- 温暖的神社  
-
-  - 温暖的神社ほのぼの神社，是Cookie☆第一幕使用的BGM，为灵梦于西方《秋霜玉》登场时的主题曲“二色莲花蝶 〜 Ancients”的改编，由再調整の人创作。  
-之后开始大流行，各种ほのぼの神社的重编版本如雨后春笋般不断冒出[1]，一个特征是动画的图（往往是一图流）一定要设法与RIM笑颜合成。  
+- 温暖的神社
+  - 温暖的神社ほのぼの神社，是Cookie☆第一幕使用的BGM，为灵梦于西方《秋霜玉》登场时的主题曲“二色莲花蝶 〜 Ancients”的改编，由再調整の人创作。之后开始大流行，各种ほのぼの神社的重编版本如雨后春笋般不断冒出[1]，一个特征是动画的图（往往是一图流）一定要设法与RIM笑颜合成。
 
 
-- 温暖的神社改编曲  
-
-  - ほのぼの神社アレンジ，即对温暖的神社进行重新编曲的产物。N站至今（2021年九月）已有8300余带此标签的视频。  
-
-
-- 温暖的神社风改编曲  
-
-  - 专用标签是ほのぼの神社風アレンジ，一般是使用温暖的神社音源等方法再现别的歌曲，达到风格相似的目的。不一定使用温暖的神社的旋律，但有时也会打上ほのぼの神社アレンジ的标签。  
+- 温暖的神社改编曲
+  - ほのぼの神社アレンジ，即对温暖的神社进行重新编曲的产物。N站至今（2021年九月）已有8300余带此标签的视频。
 
 
-- 新约温暖的神社改编曲  
+- 温暖的神社风改编曲
+  - 专用标签是ほのぼの神社風アレンジ，一般是使用温暖的神社音源等方法再现别的歌曲，达到风格相似的目的。不一定使用温暖的神社的旋律，但有时也会打上ほのぼの神社アレンジ的标签。
 
-  - 新約ほのぼの神社アレンジ，在Arukas Load风评被害之后应运而生，本是秋山裕和所作的原创曲，并对非商业用途免费开放。  
-后被Cookie☆☆二期采用作为开头的BGM。因为与温暖的神社的相似点，在Cookie☆☆二期风评被害之后紧接着被称为新约温暖的神社新約ほのぼの神社。
+
+- 新约温暖的神社改编曲
+  - 新約ほのぼの神社アレンジ，在Arukas Load风评被害之后应运而生，本是秋山裕和所作的原创曲，并对非商业用途免费开放。后被Cookie☆☆二期采用作为开头的BGM。因为与温暖的神社的相似点，在Cookie☆☆二期风评被害之后紧接着被称为新约温暖的神社新約ほのぼの神社。
 
 
 
 
 ### Cookie☆游戏
-[](./文件-Storia.png.md)  [](./文件-Storia.png.md)「魔理沙和爱丽丝的曲奇Storia」游戏画面
-
-  
+<img alt="" src="https://upload.thwiki.cc/thumb/a/a7/Storia.png/300px-Storia.png" decoding="async" loading="lazy" width="300" height="182" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/a/a7/Storia.png/450px-Storia.png 1.5x, https://upload.thwiki.cc/a/a7/Storia.png 2x" data-file-width="580" data-file-height="352">
+ [放大](./文件-Storia.png.md)「魔理沙和爱丽丝的曲奇Storia」游戏画面  
 有许多制作者制作了cookie题材的独立小游戏以及各种游戏相关的cookie mod  
 
 例如Flash小游戏[「魔理沙和爱丽丝的曲奇Storia」](https://tieba.baidu.com/p/7831223346)  
@@ -1888,16 +1783,13 @@ Cookie☆音MAD在所有MAD动画中也有着制作难度高，比其他动画�
 
 钢铁雄心4的Cookie☆ mod「曲奇雄心」[Heart of Cookie](https://steamcommunity.com/sharedfiles/filedetails/?id=1133088037)。
   
-
-
-[](./文件-曲奇雄心.png.md)  [](./文件-曲奇雄心.png.md)「曲奇雄心mod」Mod特效
-
+<img alt="" src="https://upload.thwiki.cc/thumb/b/b2/%E6%9B%B2%E5%A5%87%E9%9B%84%E5%BF%83.png/300px-%E6%9B%B2%E5%A5%87%E9%9B%84%E5%BF%83.png" decoding="async" loading="lazy" width="300" height="169" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/b/b2/%E6%9B%B2%E5%A5%87%E9%9B%84%E5%BF%83.png/450px-%E6%9B%B2%E5%A5%87%E9%9B%84%E5%BF%83.png 1.5x, https://upload.thwiki.cc/thumb/b/b2/%E6%9B%B2%E5%A5%87%E9%9B%84%E5%BF%83.png/600px-%E6%9B%B2%E5%A5%87%E9%9B%84%E5%BF%83.png 2x" data-file-width="1366" data-file-height="768">
+ [放大](./文件-曲奇雄心.png.md)「曲奇雄心mod」Mod特效
 ## 曲奇现状
 
 #### 国内
-[](./文件-曲奇cos.jpg.md)  [](./文件-曲奇cos.jpg.md)CD25上cos曲奇角色「DIYUSI」(两侧)和「SIYUDI」(中间)的饼民们
-
-  
+<img alt="" src="https://upload.thwiki.cc/thumb/b/bc/%E6%9B%B2%E5%A5%87cos.jpg/187px-%E6%9B%B2%E5%A5%87cos.jpg" decoding="async" loading="lazy" width="187" height="250" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/b/bc/%E6%9B%B2%E5%A5%87cos.jpg/281px-%E6%9B%B2%E5%A5%87cos.jpg 1.5x, https://upload.thwiki.cc/thumb/b/bc/%E6%9B%B2%E5%A5%87cos.jpg/375px-%E6%9B%B2%E5%A5%87cos.jpg 2x" data-file-width="3000" data-file-height="4000">
+ [放大](./文件-曲奇cos.jpg.md)CD25上cos曲奇角色「DIYUSI」(两侧)和「SIYUDI」(中间)的饼民们  
 从2010年曲奇本篇事件发生开始，国内主要以搬运工从NicoNico搬运音MAD与BB动画为主。  
 
 但自2015年来，由于淫梦创作开发的力度衰落而Cookie☆相关内容创作的蓬勃展开，曲奇的规模不断地扩大，以至于现在一部分饼民认为曲奇已经成为近乎独立的亚文化而已经脱离了淫梦母文化的束缚。  
@@ -1911,22 +1803,24 @@ Cookie☆音MAD在所有MAD动画中也有着制作难度高，比其他动画�
 国内也渐渐出现了曲奇社团，开始售卖自己创作的作品，甚至有热心人士希望策划举行专属于Cookie☆的线下活动。
   
 
-
-
-
 ##### 线下活动
-- 第一届曲奇茶会-锦城咔饼聚- [](./文件-曲奇茶会合照.png.md)曲奇茶会结束时合照- [](./文件-曲奇茶会5.jpg.md)茶会照片1- [](./文件-曲奇茶会4.jpg.md)茶会照片2- [](./文件-曲奇茶会3.jpg.md)在茶会上放映的作品- [](./文件-曲奇茶会2.jpg.md)茶会照片3- [](./文件-曲奇茶会1.jpg.md)茶会活动名称与组织的社团
 
-[](./文件-第一届曲奇茶会宣传画.png.md)  [](./文件-第一届曲奇茶会宣传画.png.md)第一届曲奇茶会宣传画
+- 第一届曲奇茶会-锦城咔饼聚
+- <img alt="曲奇茶会结束时合照" src="https://upload.thwiki.cc/thumb/2/2a/%E6%9B%B2%E5%A5%87%E8%8C%B6%E4%BC%9A%E5%90%88%E7%85%A7.png/240px-%E6%9B%B2%E5%A5%87%E8%8C%B6%E4%BC%9A%E5%90%88%E7%85%A7.png" decoding="async" loading="lazy" width="160" height="120" srcset="https://upload.thwiki.cc/thumb/2/2a/%E6%9B%B2%E5%A5%87%E8%8C%B6%E4%BC%9A%E5%90%88%E7%85%A7.png/360px-%E6%9B%B2%E5%A5%87%E8%8C%B6%E4%BC%9A%E5%90%88%E7%85%A7.png 1.5x, https://upload.thwiki.cc/thumb/2/2a/%E6%9B%B2%E5%A5%87%E8%8C%B6%E4%BC%9A%E5%90%88%E7%85%A7.png/480px-%E6%9B%B2%E5%A5%87%E8%8C%B6%E4%BC%9A%E5%90%88%E7%85%A7.png 2x" data-file-width="4032" data-file-height="3024"> 曲奇茶会结束时合照
+- <img alt="茶会照片1" src="https://upload.thwiki.cc/thumb/d/d0/%E6%9B%B2%E5%A5%87%E8%8C%B6%E4%BC%9A5.jpg/320px-%E6%9B%B2%E5%A5%87%E8%8C%B6%E4%BC%9A5.jpg" decoding="async" loading="lazy" width="214" height="120" srcset="https://upload.thwiki.cc/thumb/d/d0/%E6%9B%B2%E5%A5%87%E8%8C%B6%E4%BC%9A5.jpg/480px-%E6%9B%B2%E5%A5%87%E8%8C%B6%E4%BC%9A5.jpg 1.5x, https://upload.thwiki.cc/thumb/d/d0/%E6%9B%B2%E5%A5%87%E8%8C%B6%E4%BC%9A5.jpg/640px-%E6%9B%B2%E5%A5%87%E8%8C%B6%E4%BC%9A5.jpg 2x" data-file-width="4032" data-file-height="2268"> 茶会照片1
+- <img alt="茶会照片2" src="https://upload.thwiki.cc/thumb/d/d5/%E6%9B%B2%E5%A5%87%E8%8C%B6%E4%BC%9A4.jpg/320px-%E6%9B%B2%E5%A5%87%E8%8C%B6%E4%BC%9A4.jpg" decoding="async" loading="lazy" width="214" height="120" srcset="https://upload.thwiki.cc/thumb/d/d5/%E6%9B%B2%E5%A5%87%E8%8C%B6%E4%BC%9A4.jpg/480px-%E6%9B%B2%E5%A5%87%E8%8C%B6%E4%BC%9A4.jpg 1.5x, https://upload.thwiki.cc/thumb/d/d5/%E6%9B%B2%E5%A5%87%E8%8C%B6%E4%BC%9A4.jpg/640px-%E6%9B%B2%E5%A5%87%E8%8C%B6%E4%BC%9A4.jpg 2x" data-file-width="4032" data-file-height="2268"> 茶会照片2
+- <img alt="在茶会上放映的作品" src="https://upload.thwiki.cc/thumb/9/91/%E6%9B%B2%E5%A5%87%E8%8C%B6%E4%BC%9A3.jpg/240px-%E6%9B%B2%E5%A5%87%E8%8C%B6%E4%BC%9A3.jpg" decoding="async" loading="lazy" width="160" height="120" srcset="https://upload.thwiki.cc/thumb/9/91/%E6%9B%B2%E5%A5%87%E8%8C%B6%E4%BC%9A3.jpg/360px-%E6%9B%B2%E5%A5%87%E8%8C%B6%E4%BC%9A3.jpg 1.5x, https://upload.thwiki.cc/thumb/9/91/%E6%9B%B2%E5%A5%87%E8%8C%B6%E4%BC%9A3.jpg/480px-%E6%9B%B2%E5%A5%87%E8%8C%B6%E4%BC%9A3.jpg 2x" data-file-width="1440" data-file-height="1080"> 在茶会上放映的作品
+- <img alt="茶会照片3" src="https://upload.thwiki.cc/thumb/c/c8/%E6%9B%B2%E5%A5%87%E8%8C%B6%E4%BC%9A2.jpg/135px-%E6%9B%B2%E5%A5%87%E8%8C%B6%E4%BC%9A2.jpg" decoding="async" loading="lazy" width="90" height="120" srcset="https://upload.thwiki.cc/thumb/c/c8/%E6%9B%B2%E5%A5%87%E8%8C%B6%E4%BC%9A2.jpg/202px-%E6%9B%B2%E5%A5%87%E8%8C%B6%E4%BC%9A2.jpg 1.5x, https://upload.thwiki.cc/thumb/c/c8/%E6%9B%B2%E5%A5%87%E8%8C%B6%E4%BC%9A2.jpg/270px-%E6%9B%B2%E5%A5%87%E8%8C%B6%E4%BC%9A2.jpg 2x" data-file-width="1080" data-file-height="1440"> 茶会照片3
+- <img alt="茶会活动名称与组织的社团" src="https://upload.thwiki.cc/thumb/7/72/%E6%9B%B2%E5%A5%87%E8%8C%B6%E4%BC%9A1.jpg/321px-%E6%9B%B2%E5%A5%87%E8%8C%B6%E4%BC%9A1.jpg" decoding="async" loading="lazy" width="214" height="120" srcset="https://upload.thwiki.cc/thumb/7/72/%E6%9B%B2%E5%A5%87%E8%8C%B6%E4%BC%9A1.jpg/481px-%E6%9B%B2%E5%A5%87%E8%8C%B6%E4%BC%9A1.jpg 1.5x, https://upload.thwiki.cc/thumb/7/72/%E6%9B%B2%E5%A5%87%E8%8C%B6%E4%BC%9A1.jpg/641px-%E6%9B%B2%E5%A5%87%E8%8C%B6%E4%BC%9A1.jpg 2x" data-file-width="1920" data-file-height="1079"> 茶会活动名称与组织的社团
 
-  
+<img alt="" src="https://upload.thwiki.cc/thumb/c/cc/%E7%AC%AC%E4%B8%80%E5%B1%8A%E6%9B%B2%E5%A5%87%E8%8C%B6%E4%BC%9A%E5%AE%A3%E4%BC%A0%E7%94%BB.png/177px-%E7%AC%AC%E4%B8%80%E5%B1%8A%E6%9B%B2%E5%A5%87%E8%8C%B6%E4%BC%9A%E5%AE%A3%E4%BC%A0%E7%94%BB.png" decoding="async" loading="lazy" width="177" height="250" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/c/cc/%E7%AC%AC%E4%B8%80%E5%B1%8A%E6%9B%B2%E5%A5%87%E8%8C%B6%E4%BC%9A%E5%AE%A3%E4%BC%A0%E7%94%BB.png/265px-%E7%AC%AC%E4%B8%80%E5%B1%8A%E6%9B%B2%E5%A5%87%E8%8C%B6%E4%BC%9A%E5%AE%A3%E4%BC%A0%E7%94%BB.png 1.5x, https://upload.thwiki.cc/thumb/c/cc/%E7%AC%AC%E4%B8%80%E5%B1%8A%E6%9B%B2%E5%A5%87%E8%8C%B6%E4%BC%9A%E5%AE%A3%E4%BC%A0%E7%94%BB.png/353px-%E7%AC%AC%E4%B8%80%E5%B1%8A%E6%9B%B2%E5%A5%87%E8%8C%B6%E4%BC%9A%E5%AE%A3%E4%BC%A0%E7%94%BB.png 2x" data-file-width="1080" data-file-height="1528">
+ [放大](./文件-第一届曲奇茶会宣传画.png.md)第一届曲奇茶会宣传画  
 成都COOKIE☆PARTY 1·锦城咔饼聚   
 
 举办于1月15日星期天 四川省成都市粟原女仆咖啡厅。  
 
 本聚会还准备了同人游戏试玩、AI饼图技术演示、知识问答、同人制品分享等活动。  
-
- **活动情况**   
+**活动情况**  
 
 今天的活动真是大获成功！前后一共有13位参与者到场，大家的气氛热情都被充分调动起来了，并且度过了一段欢乐的时光。  
 
@@ -1935,13 +1829,10 @@ Cookie☆音MAD在所有MAD动画中也有着制作难度高，比其他动画�
 事实证明大家都很享受在一起观看交流例区mad这样的活动。 再次感谢所有到场者们的支持与参与！希望未来有机会把这样的活动推广到更多的地方！
   
 
-
-
-
 #### 海外
 
-不同于国内，在欧美论坛中，东方圈与曲奇圈并不隔阂，东方众会经常使用饼图。经常制作一些NYN姐贵的meme表情包，在网络上使用。[](./文件-曲奇合作.png.md)  [](./文件-曲奇合作.png.md)（图片遗漏了瑞典和丹麦\不包括国际手书合作的画师们）  
-
+不同于国内，在欧美论坛中，东方圈与曲奇圈并不隔阂，东方众会经常使用饼图。经常制作一些NYN姐贵的meme表情包，在网络上使用。<img alt="" src="https://upload.thwiki.cc/thumb/5/52/%E6%9B%B2%E5%A5%87%E5%90%88%E4%BD%9C.png/376px-%E6%9B%B2%E5%A5%87%E5%90%88%E4%BD%9C.png" decoding="async" loading="lazy" width="376" height="250" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/5/52/%E6%9B%B2%E5%A5%87%E5%90%88%E4%BD%9C.png/563px-%E6%9B%B2%E5%A5%87%E5%90%88%E4%BD%9C.png 1.5x, https://upload.thwiki.cc/thumb/5/52/%E6%9B%B2%E5%A5%87%E5%90%88%E4%BD%9C.png/751px-%E6%9B%B2%E5%A5%87%E5%90%88%E4%BD%9C.png 2x" data-file-width="1149" data-file-height="765">
+ [放大](./文件-曲奇合作.png.md)（图片遗漏了瑞典和丹麦\不包括国际手书合作的画师们）  
   
 并把曲奇当作东方的附属文化，也有不少的欧美饼图画师，饼图也被归为东方图的子类。例如Touhou（cookie） 也会制作一些曲奇BB剧场  
 
@@ -1954,12 +1845,9 @@ Cookie☆音MAD在所有MAD动画中也有着制作难度高，比其他动画�
 阿根廷、新西兰、土耳其、以色列、芬兰、白俄罗斯、波兰、德国、瑞士、法国、英国、意大利、瑞典、丹麦等二十四个国家和地区。
   
 
-
-
 ## 与其他圈子的关系
 
 ### 与东方的关系
-
   
 Cookie☆事件对于东方社群尤其在对东方Project爱好者群体中产生了重大震动。Cookie☆事件发生后，多数东方Project爱好者对由此事件产生的曲奇民群体抱有较为强烈的敌视态度。2013年，在东方Project爱好者群体与舰队Collection爱好者群体在同人创作者的去留等问题上爆发冲突并产生“[东方警察](./东方警察.md)”这一代称名词后，部分东方Project爱好者开始重新审视曲奇民在东方Project社群中的位置。  
 
@@ -1968,69 +1856,69 @@ Cookie☆事件对于东方社群尤其在对东方Project爱好者群体中产�
 基于此体系下产生的边缘群体曲奇民的身份认同问题，在今日仍然是中国东方Project爱好者社群与淫梦社群讨论的一个热点话题。
   
 
-
-
 #### 与东方声剧的关系
   
 正如前言，对于一般东方众而言，Cookie☆和Cookie☆☆诞生之后，东方声剧企划基本上已经等于死刑确定。早期的东方声剧基本上都是被害剧，即由于参与东方声剧企划而风评被害。后期的东方声剧则几乎全都是卖名剧，即参与者目的就是利用Cookie☆为自己提高知名度。虽然现在有一些精良的声剧产生（这些声剧有时因此避免被害），但也有许多追求画风突变、声优棒读、充斥着淫梦或Cookie☆要素的声剧存在。
   
-
 
 #### 与东方非声剧视频的关系
   
 目前有不少用Cookie☆本篇或本篇外素材创作的MAD或MMD视频，尤其是后者出现了愈演愈烈的增长趋势。然而，一个非声剧视频即使有再多的淫梦要素，只要没有Cookie☆要素，一般都不会与Cookie☆产生联系，这样的视频被归类于“东方夏淫梦”。
   
 
-
 #### ZUN的态度
 
 ##### 2016/12/11
   
- **《東方深秘録発売記念"Play,Doujin!"大忘年会》** 
-  
-
+**《東方深秘録発売記念"Play,Doujin!"大忘年会》**  
 【nico弹幕】東方的原作者ZUN被提问关于COOKIE的事（中文字幕）
 : [東方の原作者ZUNにクッキー☆について問うビートまりお](http://www.nicovideo.jp/watch/sm30269427)
 : とぼけちゃってぇ…（マジキチスマイル）
+<blockquote>  
+ Mario：ZUN你知道Cookie☆吗？
+  
+  
+ZUN：是说"Cookie Clicker"吗？
+  
+  
+ZUN：<ruby>不知道<rp>(</rp><rt>希腊奶</rt><rp>)</rp></ruby>
+。
+  
+  
+（略）
+  
+  
+ZUN：实际上，我可能是东方爱好者中，对东方知道最少的人。我只能看得到自己创作的东西。
+  
+  
 
-<blockquote><p> Mario：ZUN你知道Cookie☆吗？
-</p><p>ZUN：是说"Cookie Clicker"吗？
-</p><p>ZUN：<ruby>不知道<rp>(</rp><rt>希腊奶</rt><rp>)</rp></ruby>。
-</p><p>（略）
-</p><p>ZUN：实际上，我可能是东方爱好者中，对东方知道最少的人。我只能看得到自己创作的东西。
-</p><p>
-Mario：这样就好，东方就得是这样。</p></blockquote>
-
+Mario：这样就好，东方就得是这样。  
+</blockquote>
 
 ##### 2017/12/26
   
- **《２軒目から始まるラジオ 第89回》** 
-  
+**《２軒目から始まるラジオ 第89回》**  
   
 [２軒目から始まるラジオ YouTube版（第88回）](https://youtu.be/YaT8wjpjeys?t=6072)[^cite_note-18]约1：41：12处起
   
+<blockquote>  
+**Mario**开始谈论Cookie☆的话题，小此木等人多次试图使他停下。
+  
+  
 
-<blockquote><p><b>Mario</b>开始谈论Cookie☆的话题，小此木等人多次试图使他停下。
-</p><p><br>
-</p><p>
-ZUN：大家都让我不要谈论（Cookie☆的话题），主要还是因为，如果我出面说“不行”，Cookie☆话题也就不得不停止了吧。<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">19</a></sup></p></blockquote>
-
+ZUN：大家都让我不要谈论（Cookie☆的话题），主要还是因为，如果我出面说“不行”，Cookie☆话题也就不得不停止了吧。[^cite_note-19]  
+</blockquote>
 
 ##### 2018/08/22
   
- **《東方ステーション＃13 東方新作プレイ！夏コミ振り返り＆ゲーム特集》** 
-  
-
+**《東方ステーション＃13 東方新作プレイ！夏コミ振り返り＆ゲーム特集》**  
 【NICO弹幕】在东方官方直播上谈Cookie☆投稿者的Mario
 : [東方公式生放送でクッキー☆投稿者について語るビートまりお](http://www.nicovideo.jp/watch/sm33736875)
-
   
- **Mario** 变本加厉，提起了remmuh、しりり、YMN姐贵等，这次ZUN什么都没说。
+**Mario**变本加厉，提起了remmuh、しりり、YMN姐贵等，这次ZUN什么都没说。
   
-
 
 ### 与淫梦的关系
-
   
 Cookie☆长期以来被淫梦爱好者们认为是“淫梦的最大分支”。自2015年来，淫梦创作开发的力度的相对衰落，使得部分创作者的眼光开始转向Cookie☆，相关内容创作在一段时间内蓬勃展开。  
 
@@ -2043,11 +1931,9 @@ Cookie☆长期以来被淫梦爱好者们认为是“淫梦的最大分支”�
 2020年，自我矛盾☆发布后，该思潮达到顶峰，甚至有曲奇民将自己加入中国曲奇社群的过程称之为带有贬义色彩的“饼堕”。亚文化断层现象以及产生的后续问题已经引起了社群部分爱好者们的注意与探讨。  
 
 综上所述，绝大多数淫梦民仍认为Cookie☆淫梦的一部分，但是也有一些具有一定年资的淫梦爱好者们指责Cookie☆严重的负面色彩，并拒绝相关讨论。由于Cookie☆文化的先天基础以及独特历史，曲奇社群此种处在淫梦社群与东方Project社群两者边缘的游离状态仍然将持续较长时间。  
-
   
 
-- 从淫梦学习而来的 **TDN记名法**   
-
+- 从淫梦学习而来的**TDN记名法**
 
   
 为方便记忆，淫梦民会把出演者名称罗马字中每一节发音的第一个拉丁字母组合，以XXX兄/姐贵称之。例如Cookie☆出演者れ（Re）う（u）→RU姐贵。这种人名标记法称为TDN式人名标记法，简称TDN化。  
@@ -2057,19 +1943,15 @@ TDN即淫梦的源头多田野数人。几乎所有出演淫梦系列的㚻片�
 称呼兄/姐贵的习惯在レスリングシリーズ中也很常见，但TDN式人名表记法是淫梦所特有的。Cookie☆也沿用了这套称呼方式，因而饼民也常用英文缩写称呼各个Cookie☆角色。
   
 
-
-
 ### 与声优爱好者的关系
   
 由于Cookie☆的一大要素就是声优，因此也吸引了不少纯声优爱好者，这些人一般会自称曲奇民并混入圈子以便获取更多的情报，而且也对Cookie☆有所了解。但是在公开的场合，曲奇民对纯声优爱好者一般持否定态度并将其贬称为“声豚”。然而也没有出现排挤的情况，基本上是默许其存在的。
   
 
-
 ### 与一般ACG作品的关系
   
 已经出现了一些漫画、动画、游戏制作方强行在作品里加入淫梦、曲奇梗的情况，一般认为这是官方营业的体现。由于是官方营业，这样的行为与其说容易获得小鬼的追捧，不如说更容易遭到一般淫梦民、曲奇民的批评（但高质量作品营业则反而可能受欢迎）。
   
-
 
 ## Cookie☆相关视频作者
 
@@ -2117,39 +1999,37 @@ TDN即淫梦的源头多田野数人。几乎所有出演淫梦系列的㚻片�
 </td></tr></tbody></table>
 
 
-
-## 其他wiki&amp;参考内容来源
-
+## 其他wiki&参考内容来源
   
 [Cookie☆中文主Wiki（中文）](https://cookie.wiki)  
-
 [Cookie☆日语主维基-atwiki（日语）](https://w.atwiki.jp/cookie_kaisetu)  
-
 [Cookie☆日语主维基2.0-wikiwiki（日语）](https://wikiwiki.jp/cookie2/)  
-
 [Cookie☆-Pixiv字典（日语）](https://dic.pixiv.net/a/クッキー☆)  
-
 [Cookie☆-NicoNico大百科（日语）](https://dic.nicovideo.jp/a/クッキー☆)  
-
 [Cookie☆wiki英语主维基（英语）](https://cookiewiki.org/)  
-
 [Cookie☆页面-Reddit东方板块（英语）](https://www.reddit.com/r/touhou/wiki/nico/cookie/)  
-
 [Cookie☆wiki西班牙主维基（西班牙语）-建设中](https://cookiewikia.org/index.php/Página_Principal/)  
-
 [Cookie吧-百度贴吧](https://tieba.baidu.com/f?kw=cookie)  
-
-[真夏夜的银梦吧-百度贴吧](https://tieba.baidu.com/f?kw=真夏夜的银梦)
-  
-
-
-
-[^cite_note-1]: 作者:cc86541022：[《观莲奈理绪事件的一些思考与浅辩》Cookie吧&amp;东方吧&amp;真夏夜的银梦吧](https://tieba.baidu.com/p/8192889238)．
-
-
-
-
-
+[真夏夜的银梦吧-百度贴吧](https://tieba.baidu.com/f?kw=真夏夜的银梦)  
+[^cite_note-1]: 作者:cc86541022：[《观莲奈理绪事件的一些思考与浅辩》Cookie吧&东方吧&真夏夜的银梦吧](https://tieba.baidu.com/p/8192889238)．
+[^cite_note-2]: 2018年的时候推特被人恶意举报冻结后停止活动。
+[^cite_note-3]: 类似于卖傻偶像
+[^cite_note-4]: 但受到Cookie☆事件的影响，后来画的人物也是以VOCALOID人物为主，没有东方内容了。
+[^cite_note-5]: 曾出演过零之轨迹。
+[^cite_note-6]: 十八禁游戏“Dies Irae”男主角所使用的宝具，在手臂生出钩镰，有“所碰之物必定会被断头”的特性
+[^cite_note-7]: Cookie☆营业
+[^cite_note-8]: 日本一个网暴群体
+[^cite_note-9]: 酒类评价师
+[^cite_note-10]: 排除常用的音效
+[^cite_note-11]: 实际上还是有“一般通过爷”等可以忽略的要素
+[^cite_note-12]: [https://h.bilibili.com/8627097](https://h.bilibili.com/8627097)
+[^cite_note-总览a-13]: 同时有**BBクッキー☆劇場**标签和**BB先輩劇場**标签
+[^cite_note-14]: 英文条目: [https://namelessrumia.heliohost.org/w/doku.php?id=offside_diyusi](https://namelessrumia.heliohost.org/w/doku.php?id=offside_diyusi)
+[^cite_note-15]: 孫一般：“只有我不熟悉的街道停滞是因为作者生病入院了，大家安心等就是了”（[https://h.bilibili.com/7327775](https://h.bilibili.com/7327775) 2楼）
+[^cite_note-16]: 作者疑似失踪
+[^cite_note-17]: [https://h.bilibili.com/17245974](https://h.bilibili.com/17245974)
+[^cite_note-18]: 2軒目から始まるラジオ的69回起公式放送地址记录错了回数，记录成68回，并且之后的回数按照错的回数开始计算。
+[^cite_note-19]: 翻译来自THBWiki
 
 ---
 

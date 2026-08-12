@@ -1,14 +1,11 @@
 # 文件:狱光「Diffuse_Hellfire」（刚欲异闻）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b4\ns6%3A%E7%8B%B1%E5%85%89%E3%80%8CDiffuse_Hellfire%E3%80%8D%EF%BC%88%E5%88%9A%E6%AC%B2%E5%BC%82%E9%97%BB%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b4\ns6%3A%E7%8B%B1%E5%85%89%E3%80%8CDiffuse_Hellfire%E3%80%8D%EF%BC%88%E5%88%9A%E6%AC%B2%E5%BC%82%E9%97%BB%EF%BC%89%2Epng.html -->
 
 东方刚欲异闻 | 敌机符卡 | 灵乌路空
 
 
 ## 文件说明
-
-
-
 
 ---
 

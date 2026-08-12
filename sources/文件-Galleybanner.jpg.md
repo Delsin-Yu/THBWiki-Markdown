@@ -1,18 +1,13 @@
 # 文件:Galleybanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\30\ns6%3AGalleybanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\30\ns6%3AGalleybanner%2Ejpg.html -->
 
 Galley | 社团LOGO
 
 
 ## 摘要
   
-源地址：[direct image link](https://web.archive.org/web/20131221161515im_/http://kumanoheya.jp/Galley.jpg), [source page](https://web.archive.org/web/20130909233316/http://kumanoheya.jp/link.html)
-  
-
-
-
-
+源地址：[direct image link](https://web.archive.org/web/20131221161515im_/http://kumanoheya.jp/Galley.jpg), [source page](https://web.archive.org/web/20130909233316/http://kumanoheya.jp/link.html)  
 
 ---
 

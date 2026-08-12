@@ -1,6 +1,6 @@
 # 文件:NATIONAL_COSTUME_NAZRIN!封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f9\ns6%3ANATIONAL_COSTUME_NAZRIN%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f9\ns6%3ANATIONAL_COSTUME_NAZRIN%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 こねこすけ | 同人志封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [NATIONAL COSTUME NAZRIN!](./NATIONAL_COSTUME_NAZRIN!.md)  
-该封面包含的角色：- [娜兹玲](./娜兹玲.md)
-
-
-
+- [NATIONAL COSTUME NAZRIN!](./NATIONAL_COSTUME_NAZRIN!.md)该封面包含的角色：
+- [娜兹玲](./娜兹玲.md)
 
 
 ---

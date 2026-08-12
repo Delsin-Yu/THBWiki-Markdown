@@ -1,6 +1,6 @@
 # 文件:Tape.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\38\ns6%3ATape%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\38\ns6%3ATape%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 空彩観測。
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Tape.](./Tape..md)  
-该封面包含的角色：- [灵乌路空](./灵乌路空.md)
+- [Tape.](./Tape..md)该封面包含的角色：
+- [灵乌路空](./灵乌路空.md)
 
   
-源地址：[[1]](http://cieletlune.web.fc2.com/image_dir/skcd003_jake.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://cieletlune.web.fc2.com/image_dir/skcd003_jake.jpg)  
 
 ---
 

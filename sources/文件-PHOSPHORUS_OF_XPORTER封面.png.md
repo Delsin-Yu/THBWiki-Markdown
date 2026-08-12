@@ -1,6 +1,6 @@
 # 文件:PHOSPHORUS_OF_XPORTER封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ed\ns6%3APHOSPHORUS_OF_XPORTER%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ed\ns6%3APHOSPHORUS_OF_XPORTER%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 朱鷺時雨
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [PHOSPHORUS OF XPORTER](./PHOSPHORUS_OF_XPORTER.md)  
-该封面包含的角色：- [火焰猫燐](./火焰猫燐.md)
-
-
-
+- [PHOSPHORUS OF XPORTER](./PHOSPHORUS_OF_XPORTER.md)该封面包含的角色：
+- [火焰猫燐](./火焰猫燐.md)
 
 
 ---

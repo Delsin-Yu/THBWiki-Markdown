@@ -1,6 +1,6 @@
 # 文件:幻創Garden封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\16\ns6%3A%E5%B9%BB%E5%89%B5Garden%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\16\ns6%3A%E5%B9%BB%E5%89%B5Garden%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 VIGNETTE_HOUSE | 专辑封面 | 封面图片
 
@@ -8,12 +8,10 @@ VIGNETTE_HOUSE | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [幻創Garden](./幻創Garden.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [雾雨魔理沙](./雾雨魔理沙.md)Edited from TLMC scan
-
-
-
-
+- [幻創Garden](./幻創Garden.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
+Edited from TLMC scan
 
 ---
 

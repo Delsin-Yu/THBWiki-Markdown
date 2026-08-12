@@ -1,6 +1,6 @@
 # 东方幻想乡Defence_of_The_Shrines/设定/⑩
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\2e\ns0%3A%E4%B8%9C%E6%96%B9%E5%B9%BB%E6%83%B3%E4%B9%A1Defence_of_The_Shrines%2F%E8%AE%BE%E5%AE%9A%2F%E2%91%A9.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\2e\ns0%3A%E4%B8%9C%E6%96%B9%E5%B9%BB%E6%83%B3%E4%B9%A1Defence_of_The_Shrines%2F%E8%AE%BE%E5%AE%9A%2F%E2%91%A9.html -->
 
 东方DOTS制作组
 
@@ -11,27 +11,23 @@
 露米娅
   
   
-[](./文件-THD-Rumia.jpg.md)
+<img alt="THD-Rumia.jpg" src="https://upload.thwiki.cc/6/67/THD-Rumia.jpg" decoding="async" loading="lazy" width="385" height="122" data-file-width="385" data-file-height="122">
   
   
-[](./文件-THD-Rumiae.jpg.md)
+<img alt="THD-Rumiae.jpg" src="https://upload.thwiki.cc/3/39/THD-Rumiae.jpg" decoding="async" loading="lazy" width="445" height="46" data-file-width="445" data-file-height="46">
   
   
-[](./文件-THD-Rumiad.jpg.md)
+<img alt="THD-Rumiad.jpg" src="https://upload.thwiki.cc/7/75/THD-Rumiad.jpg" decoding="async" loading="lazy" width="448" height="230" data-file-width="448" data-file-height="230">
   
   
-[](./文件-THD-Rumiaf.jpg.md)
+<img alt="THD-Rumiaf.jpg" src="https://upload.thwiki.cc/6/62/THD-Rumiaf.jpg" decoding="async" loading="lazy" width="446" height="283" data-file-width="446" data-file-height="283">
   
   
-[](./文件-THD-Rumiar.jpg.md)
+<img alt="THD-Rumiar.jpg" src="https://upload.thwiki.cc/2/25/THD-Rumiar.jpg" decoding="async" loading="lazy" width="447" height="172" data-file-width="447" data-file-height="172">
   
   
-[](./文件-THD-Rumiaw.jpg.md)
+<img alt="THD-Rumiaw.jpg" src="https://upload.thwiki.cc/c/c2/THD-Rumiaw.jpg" decoding="async" loading="lazy" width="447" height="286" data-file-width="447" data-file-height="286">
   
-
-
-
-
 
 ---
 

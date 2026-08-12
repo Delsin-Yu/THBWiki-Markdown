@@ -1,6 +1,6 @@
 # 文件:夢中クリエイション_～_Clarification_and_Daydream封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3e\ns6%3A%E5%A4%A2%E4%B8%AD%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%82%B7%E3%83%A7%E3%83%B3_%EF%BD%9E_Clarification_and_Daydream%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3e\ns6%3A%E5%A4%A2%E4%B8%AD%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%82%B7%E3%83%A7%E3%83%B3_%EF%BD%9E_Clarification_and_Daydream%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ミステリーサークル | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [夢中クリエイション ～ Clarification and Daydream](./夢中クリエイション_～_Clarification_and_Daydream.md)  
-该封面包含的角色：- 原创角色 (未找到链接)
+- [夢中クリエイション ～ Clarification and Daydream](./夢中クリエイション_～_Clarification_and_Daydream.md)该封面包含的角色：
+- 原创角色 (未找到链接)
 
   
-源地址：[direct image link (original size)](https://s2.booth.pm/48f6190d-2418-4ea1-9c21-91165215a723/i/4242284/1b4df3c1-8491-4e1e-9a28-b6983cbe2788_base_resized.jpg), [source page (circle Booth)](https://mysterycircle.booth.pm/items/4242284)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://s2.booth.pm/48f6190d-2418-4ea1-9c21-91165215a723/i/4242284/1b4df3c1-8491-4e1e-9a28-b6983cbe2788_base_resized.jpg), [source page (circle Booth)](https://mysterycircle.booth.pm/items/4242284)  
 
 ---
 

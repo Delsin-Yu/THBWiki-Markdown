@@ -1,12 +1,8 @@
 # 文件:THD2初阶魔法书.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\52\ns6%3ATHD2%E5%88%9D%E9%98%B6%E9%AD%94%E6%B3%95%E4%B9%A6%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\52\ns6%3ATHD2%E5%88%9D%E9%98%B6%E9%AD%94%E6%B3%95%E4%B9%A6%2Epng.html -->
 
 AvalonStudioOfficial
-
-
-
-
 
 
 ---

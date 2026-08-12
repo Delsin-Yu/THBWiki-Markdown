@@ -1,6 +1,6 @@
 # 文件:ESCAPE_FROM_LONELINESS-INST_&_NEXUS_LIMITED_EDITION-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\55\ns6%3AESCAPE_FROM_LONELINESS-INST_%26_NEXUS_LIMITED_EDITION-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\55\ns6%3AESCAPE_FROM_LONELINESS-INST_%26_NEXUS_LIMITED_EDITION-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Class-9 | 专辑封面 | 封面图片
 
@@ -8,10 +8,7 @@ Class-9 | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [ESCAPE FROM LONELINESS-INST &amp; NEXUS LIMITED EDITION-](./ESCAPE_FROM_LONELINESS-INST_&_NEXUS_LIMITED_EDITION-.md)
-
-
-
+- [ESCAPE FROM LONELINESS-INST & NEXUS LIMITED EDITION-](./ESCAPE_FROM_LONELINESS-INST_&_NEXUS_LIMITED_EDITION-.md)
 
 
 ---

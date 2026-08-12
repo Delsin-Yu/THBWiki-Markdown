@@ -1,6 +1,6 @@
 # 文件:Stargazer（Freedom_Phantasm）封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\46\ns6%3AStargazer%EF%BC%88Freedom_Phantasm%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\46\ns6%3AStargazer%EF%BC%88Freedom_Phantasm%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Freedom_Phantasm | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ Freedom_Phantasm | 专辑封面 | 封面图片
   
 
 - [Stargazer（Freedom Phantasm）](./Stargazer（Freedom_Phantasm）.md)
-
-
-
 
 
 ---

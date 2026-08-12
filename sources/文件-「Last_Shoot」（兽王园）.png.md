@@ -1,12 +1,8 @@
 # 文件:「Last_Shoot」（兽王园）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\43\ns6%3A%E3%80%8CLast_Shoot%E3%80%8D%EF%BC%88%E5%85%BD%E7%8E%8B%E5%9B%AD%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\43\ns6%3A%E3%80%8CLast_Shoot%E3%80%8D%EF%BC%88%E5%85%BD%E7%8E%8B%E5%9B%AD%EF%BC%89%2Epng.html -->
 
 东方兽王园 | 敌机符卡 | 骊驹早鬼
-
-
-
-
 
 
 ---

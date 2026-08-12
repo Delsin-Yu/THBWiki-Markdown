@@ -1,12 +1,8 @@
 # 文件:THD2巴瓦鲁幽魂之书.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a0\ns6%3ATHD2%E5%B7%B4%E7%93%A6%E9%B2%81%E5%B9%BD%E9%AD%82%E4%B9%8B%E4%B9%A6%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a0\ns6%3ATHD2%E5%B7%B4%E7%93%A6%E9%B2%81%E5%B9%BD%E9%AD%82%E4%B9%8B%E4%B9%A6%2Epng.html -->
 
 AvalonStudioOfficial
-
-
-
-
 
 
 ---

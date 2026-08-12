@@ -1,6 +1,6 @@
 # 文件:能源卮暮铭_~_Futuristic_Gloaming_Energy封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a6\ns6%3A%E8%83%BD%E6%BA%90%E5%8D%AE%E6%9A%AE%E9%93%AD_%7E_Futuristic_Gloaming_Energy%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a6\ns6%3A%E8%83%BD%E6%BA%90%E5%8D%AE%E6%9A%AE%E9%93%AD_%7E_Futuristic_Gloaming_Energy%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 梦现彼岸结界社
 
@@ -8,11 +8,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [能源卮暮铭 ~ Futuristic Gloaming Energy](./能源卮暮铭_~_Futuristic_Gloaming_Energy.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)- 原创角色 (未找到链接)
-
-
-
+- [能源卮暮铭 ~ Futuristic Gloaming Energy](./能源卮暮铭_~_Futuristic_Gloaming_Energy.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
+- 原创角色 (未找到链接)
 
 
 ---

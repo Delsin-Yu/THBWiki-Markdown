@@ -1,31 +1,27 @@
 # ASSORTMENT
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\c\c9\ns0%3AASSORTMENT.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\c\c9\ns0%3AASSORTMENT.html -->
 
 2015年10月18日 由 半人前。 于 博丽神社秋季例大祭2 发布的画集同人志，一共28页，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人志 (未找到链接)** 的词条
-
+**[二次创作同人志](./二次创作.md#同人志)**的词条
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-ASSORTMENT封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/8/82/ASSORTMENT%E5%B0%81%E9%9D%A2.jpg/135px-ASSORTMENT%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="135" height="168" srcset="https://upload.thwiki.cc/thumb/8/82/ASSORTMENT%E5%B0%81%E9%9D%A2.jpg/203px-ASSORTMENT%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/8/82/ASSORTMENT%E5%B0%81%E9%9D%A2.jpg/271px-ASSORTMENT%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1129" data-file-height="1400"></a><div class="cover-char">角色：<a href="./魂魄妖梦.md" title="魂魄妖梦">魂魄妖梦</a></div></td>
 </tr><tr><td class="label">名称</td><td colspan="2"> ASSORTMENT </td></tr><tr><td class="label">制作方</td><td><a href="./半人前。.md" title="半人前。">半人前。</a></td><td class="cover-artwork" rowspan="6" style="min-width:168px;"><a href="./文件-ASSORTMENT封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/8/82/ASSORTMENT%E5%B0%81%E9%9D%A2.jpg/135px-ASSORTMENT%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="135" height="168" srcset="https://upload.thwiki.cc/thumb/8/82/ASSORTMENT%E5%B0%81%E9%9D%A2.jpg/203px-ASSORTMENT%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/8/82/ASSORTMENT%E5%B0%81%E9%9D%A2.jpg/271px-ASSORTMENT%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1129" data-file-height="1400"></a><div class="cover-char">角色：<a href="./魂魄妖梦.md" title="魂魄妖梦">魂魄妖梦</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2015-10-18&#160;（<a href="/展会作品列表?e=%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E7%A7%8B%E5%AD%A3%E4%BE%8B%E5%A4%A7%E7%A5%AD%232">第二回 博麗神社秋季例大祭</a>）</td></tr><tr><td class="label">类型</td><td>画集</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">页数</td><td>28P</td></tr><tr><td class="label">售价</td><td>会场售价：500日元</td></tr>
+</tr><tr><td class="label">首发日期</td><td>2015-10-18 （<a href="./展会作品列表.md#2">第二回 博麗神社秋季例大祭</a>）</td></tr><tr><td class="label">类型</td><td>画集</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">页数</td><td>28P</td></tr><tr><td class="label">售价</td><td>会场售价：500日元</td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/53050997">https://www.pixiv.net/artworks/53050997</a><br><a rel="nofollow" class="external free" href="https://twitter.com/evadra0717/status/652413071919460352">https://twitter.com/evadra0717/status/652413071919460352</a></td></tr></tbody></table>
 
 ASSORTMENT（同人志，半人前。，2015） - 2015年10月18日 由 半人前。 于 博丽神社秋季例大祭2 发布的画集同人志，一共28页，分级为 一般向
-
 ## 预览
 
 ## Staff
+
 - [エヴァンドラゴン](./エヴァンドラゴン（视频）.md)
 
 
 ## 评论
-
-
-
 
 ---
 

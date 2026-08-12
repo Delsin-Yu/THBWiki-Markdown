@@ -1,26 +1,20 @@
 # Laneco
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\4a\ns0%3ALaneco.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\4a\ns0%3ALaneco.html -->
 
 现实人物
 
 本页是关于东方Project  
- **二次同人创作者** 的词条
-
+**二次同人创作者**的词条
 ## 基本信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="label"><b>名称</b></td><td> Laneco </td></tr><tr><td class="label"><b>所属社团</b></td><td><b>当前</b><div style="margin-left:2em;"><a href="./Lonely_Monster.md" title="Lonely Monster">Lonely Monster</a></div></td></tr><tr><td class="label"><b>职位</b></td><td>主催</td></tr><tr><td class="label"><b>个人页面</b></td><td><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><b>Email</b></td><td>kirisamekafka@gmail.com</td></tr></tbody></table></td></tr></tbody></table>
 
 Laneco（人物） - 现实人物
-
 ## 介绍
   
 Lonely Monster社团主催及唯一正式成员。
   
-
-
-
-
 
 ---
 

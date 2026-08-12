@@ -1,6 +1,6 @@
 # 文件:幻想郷TRASHBOX封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dc\ns6%3A%E5%B9%BB%E6%83%B3%E9%83%B7TRASHBOX%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dc\ns6%3A%E5%B9%BB%E6%83%B3%E9%83%B7TRASHBOX%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 モーザン倶楽部 | 同人志封面 | 封面图片
 
@@ -8,11 +8,13 @@
 使用了本文件作封面图片的作品：
   
 
-- [幻想郷TRASHBOX](./幻想郷TRASHBOX.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)- [博丽灵梦](./博丽灵梦.md)- [橙](./橙.md)- [八云蓝](./八云蓝.md)- [八云紫](./八云紫.md)- [伊吹萃香](./伊吹萃香.md)
-
-
-
+- [幻想郷TRASHBOX](./幻想郷TRASHBOX.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
+- [博丽灵梦](./博丽灵梦.md)
+- [橙](./橙.md)
+- [八云蓝](./八云蓝.md)
+- [八云紫](./八云紫.md)
+- [伊吹萃香](./伊吹萃香.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Cadeau~親愛なる君へ（同人志）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1c\ns6%3ACadeau%7E%E8%A6%AA%E6%84%9B%E3%81%AA%E3%82%8B%E5%90%9B%E3%81%B8%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1c\ns6%3ACadeau%7E%E8%A6%AA%E6%84%9B%E3%81%AA%E3%82%8B%E5%90%9B%E3%81%B8%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 TsuBaKi | 同人志封面 | 封面图片
 
@@ -8,11 +8,9 @@ TsuBaKi | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Cadeau~親愛なる君へ（同人志）](./Cadeau~親愛なる君へ（同人志）.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [Cadeau~親愛なる君へ（同人志）](./Cadeau~親愛なる君へ（同人志）.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

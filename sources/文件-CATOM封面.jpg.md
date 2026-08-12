@@ -1,6 +1,6 @@
 # 文件:CATOM封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1a\ns6%3ACATOM%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1a\ns6%3ACATOM%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 フミンバイン | 同人志封面 | 封面图片
 
@@ -10,11 +10,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [CATOM](./CATOM.md)  
-该封面包含的角色：- [橙](./橙.md)- [八云蓝](./八云蓝.md)- [八云紫](./八云紫.md)
-
-
-
+- [CATOM](./CATOM.md)该封面包含的角色：
+- [橙](./橙.md)
+- [八云蓝](./八云蓝.md)
+- [八云紫](./八云紫.md)
 
 
 ---

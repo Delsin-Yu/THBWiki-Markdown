@@ -1,6 +1,6 @@
 # 文件:燈桜_-Hiou-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2e\ns6%3A%E7%87%88%E6%A1%9C_-Hiou-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2e\ns6%3A%E7%87%88%E6%A1%9C_-Hiou-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 L-ZONE | 专辑封面 | 封面图片
 
@@ -8,16 +8,12 @@ L-ZONE | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [燈桜 -Hiou-](./燈桜_-Hiou-.md)  
-该封面包含的角色：- [西行寺幽幽子](./西行寺幽幽子.md)- [莉格露·奈特巴格](./莉格露·奈特巴格.md)
+- [燈桜 -Hiou-](./燈桜_-Hiou-.md)该封面包含的角色：
+- [西行寺幽幽子](./西行寺幽幽子.md)
+- [莉格露·奈特巴格](./莉格露·奈特巴格.md)
 
   
-源地址：[[1]](http://heiwasou.info/l-zone/application/files/5714/7903/9719/J3.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://heiwasou.info/l-zone/application/files/5714/7903/9719/J3.jpg)  
 
 ---
 

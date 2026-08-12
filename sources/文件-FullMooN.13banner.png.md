@@ -1,12 +1,8 @@
 # 文件:FullMooN.13banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4a\ns6%3AFullMooN%2E13banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4a\ns6%3AFullMooN%2E13banner%2Epng.html -->
 
 FullMooN.13 | 社团LOGO
-
-
-
-
 
 
 ---

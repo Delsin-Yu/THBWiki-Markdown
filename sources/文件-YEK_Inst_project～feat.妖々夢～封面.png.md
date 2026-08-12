@@ -1,6 +1,6 @@
 # 文件:YEK_Inst_project～feat.妖々夢～封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\31\ns6%3AYEK_Inst_project%EF%BD%9Efeat%2E%E5%A6%96%E3%80%85%E5%A4%A2%EF%BD%9E%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\31\ns6%3AYEK_Inst_project%EF%BD%9Efeat%2E%E5%A6%96%E3%80%85%E5%A4%A2%EF%BD%9E%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 YEKproject | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ YEKproject | 专辑封面 | 封面图片
   
 
 - [YEK Inst project～feat.妖々夢～](./YEK_Inst_project～feat.妖々夢～.md)
-
-
-
 
 
 ---

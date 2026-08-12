@@ -1,14 +1,11 @@
 # 文件:とりあえず（仮）_banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e2\ns6%3A%E3%81%A8%E3%82%8A%E3%81%82%E3%81%88%E3%81%9A%EF%BC%88%E4%BB%AE%EF%BC%89_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e2\ns6%3A%E3%81%A8%E3%82%8A%E3%81%82%E3%81%88%E3%81%9A%EF%BC%88%E4%BB%AE%EF%BC%89_banner%2Ejpg.html -->
 
 とりあえず（仮） | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

@@ -1,16 +1,12 @@
 # 模板:花色DH
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\7\73\ns10%3A%E8%8A%B1%E8%89%B2DH.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\7\73\ns10%3A%E8%8A%B1%E8%89%B2DH.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

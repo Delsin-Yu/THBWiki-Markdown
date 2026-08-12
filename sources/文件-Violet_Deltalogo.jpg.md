@@ -1,16 +1,11 @@
 # 文件:Violet_Deltalogo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bd\ns6%3AViolet_Deltalogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bd\ns6%3AViolet_Deltalogo%2Ejpg.html -->
 
 Violet_Delta | 社团LOGO
 
   
-源地址：[[1]](https://f4.bcbits.com/img/0015175332_10.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://f4.bcbits.com/img/0015175332_10.jpg)  
 
 ---
 

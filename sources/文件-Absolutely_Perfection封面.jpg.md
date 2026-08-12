@@ -1,6 +1,6 @@
 # 文件:Absolutely_Perfection封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\38\ns6%3AAbsolutely_Perfection%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\38\ns6%3AAbsolutely_Perfection%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ジェリコの法則 | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Absolutely Perfection](./Absolutely_Perfection.md)  
-该封面包含的角色：- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
+- [Absolutely Perfection](./Absolutely_Perfection.md)该封面包含的角色：
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
 
   
-源地址：[[1]](https://image.jimcdn.com/app/cms/image/transf/none/path/s33623d2f60ccc5da/image/i6843f5a226274a88/version/1458541241/image.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://image.jimcdn.com/app/cms/image/transf/none/path/s33623d2f60ccc5da/image/i6843f5a226274a88/version/1458541241/image.jpg)  
 
 ---
 

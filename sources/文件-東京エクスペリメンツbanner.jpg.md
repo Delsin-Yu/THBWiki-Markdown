@@ -1,16 +1,11 @@
 # 文件:東京エクスペリメンツbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a2\ns6%3A%E6%9D%B1%E4%BA%AC%E3%82%A8%E3%82%AF%E3%82%B9%E3%83%9A%E3%83%AA%E3%83%A1%E3%83%B3%E3%83%84banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a2\ns6%3A%E6%9D%B1%E4%BA%AC%E3%82%A8%E3%82%AF%E3%82%B9%E3%83%9A%E3%83%AA%E3%83%A1%E3%83%B3%E3%83%84banner%2Ejpg.html -->
 
 東京エクスペリメンツ | 社团LOGO
 
   
-源地址：[[1]](https://img-www3.hp-ez.com/img/experiments/img_20130423-031311.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://img-www3.hp-ez.com/img/experiments/img_20130423-031311.jpg)  
 
 ---
 

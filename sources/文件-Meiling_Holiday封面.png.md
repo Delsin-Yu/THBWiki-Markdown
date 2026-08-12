@@ -1,6 +1,6 @@
 # 文件:Meiling_Holiday封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\09\ns6%3AMeiling_Holiday%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\09\ns6%3AMeiling_Holiday%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Aquilegia | 同人志封面 | 封面图片
 
@@ -8,11 +8,8 @@ Aquilegia | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Meiling Holiday](./Meiling_Holiday.md)  
-该封面包含的角色：- [红美铃](./红美铃.md)
-
-
-
+- [Meiling Holiday](./Meiling_Holiday.md)该封面包含的角色：
+- [红美铃](./红美铃.md)
 
 
 ---

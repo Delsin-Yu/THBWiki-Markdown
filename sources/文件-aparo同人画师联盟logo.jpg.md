@@ -1,12 +1,8 @@
 # 文件:aparo同人画师联盟logo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fc\ns6%3Aaparo%E5%90%8C%E4%BA%BA%E7%94%BB%E5%B8%88%E8%81%94%E7%9B%9Flogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fc\ns6%3Aaparo%E5%90%8C%E4%BA%BA%E7%94%BB%E5%B8%88%E8%81%94%E7%9B%9Flogo%2Ejpg.html -->
 
 aparo同人画师联盟 | 社团LOGO
-
-
-
-
 
 
 ---

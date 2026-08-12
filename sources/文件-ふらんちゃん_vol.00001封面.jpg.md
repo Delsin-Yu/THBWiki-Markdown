@@ -1,6 +1,6 @@
 # 文件:ふらんちゃん_vol.00001封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6e\ns6%3A%E3%81%B5%E3%82%89%E3%82%93%E3%81%A1%E3%82%83%E3%82%93_vol%2E00001%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6e\ns6%3A%E3%81%B5%E3%82%89%E3%82%93%E3%81%A1%E3%82%83%E3%82%93_vol%2E00001%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 だいどころ | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [ふらんちゃん vol.00001](./ふらんちゃん_vol.00001.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [ふらんちゃん vol.00001](./ふらんちゃん_vol.00001.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
   
-源地址:[[1]](http://ivent.maru9.org/m3-2011/img/CDjacket.jpg)
-  
-
-
-
-
+源地址:[\[1\]](http://ivent.maru9.org/m3-2011/img/CDjacket.jpg)  
 
 ---
 

@@ -1,12 +1,8 @@
 # 文件:Diverse_System_banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e6\ns6%3ADiverse_System_banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e6\ns6%3ADiverse_System_banner%2Egif.html -->
 
 Diverse_System | 社团LOGO
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Flower（鴉の濡れ羽色）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b8\ns6%3AFlower%EF%BC%88%E9%B4%89%E3%81%AE%E6%BF%A1%E3%82%8C%E7%BE%BD%E8%89%B2%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b8\ns6%3AFlower%EF%BC%88%E9%B4%89%E3%81%AE%E6%BF%A1%E3%82%8C%E7%BE%BD%E8%89%B2%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 鴉の濡れ羽色
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Flower（鴉の濡れ羽色）](./Flower（鴉の濡れ羽色）.md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)
-
-
-
+- [Flower（鴉の濡れ羽色）](./Flower（鴉の濡れ羽色）.md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
 
 
 ---

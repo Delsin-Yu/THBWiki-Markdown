@@ -1,6 +1,6 @@
 # 文件:諏訪大戦／Deep_One封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5b\ns6%3A%E8%AB%8F%E8%A8%AA%E5%A4%A7%E6%88%A6%EF%BC%8FDeep_One%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5b\ns6%3A%E8%AB%8F%E8%A8%AA%E5%A4%A7%E6%88%A6%EF%BC%8FDeep_One%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 As／Hi_Soundworks | 专辑封面 | 封面图片
 
@@ -8,16 +8,14 @@ As／Hi_Soundworks | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [諏訪大戦／Deep One](./諏訪大戦／Deep_One.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)- [八坂神奈子](./八坂神奈子.md)- [洩矢诹访子](./洩矢诹访子.md)
+- [諏訪大戦／Deep One](./諏訪大戦／Deep_One.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
+- [八坂神奈子](./八坂神奈子.md)
+- [洩矢诹访子](./洩矢诹访子.md)
 
   
-源地址：[[1]](https://secure.static.tumblr.com/c11792cb6f86c54d94cd6d05fbb8f180/0ahxako/ekNoifps6/tumblr_static_dexo62zgbxsss08w4kgw0sc0g.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://secure.static.tumblr.com/c11792cb6f86c54d94cd6d05fbb8f180/0ahxako/ekNoifps6/tumblr_static_dexo62zgbxsss08w4kgw0sc0g.jpg)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:Cafe_de_Touhou_5封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7d\ns6%3ACafe_de_Touhou_5%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7d\ns6%3ACafe_de_Touhou_5%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 DDBY | 专辑封面 | 封面图片
 
@@ -8,11 +8,12 @@ DDBY | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Cafe de Touhou 5](./Cafe_de_Touhou_5.md)  
-该封面包含的角色：- [琪斯美](./琪斯美.md)- [射命丸文](./射命丸文.md)- [永江衣玖](./永江衣玖.md)- [比那名居天子](./比那名居天子.md)- [姬海棠果](./姬海棠果.md)
-
-
-
+- [Cafe de Touhou 5](./Cafe_de_Touhou_5.md)该封面包含的角色：
+- [琪斯美](./琪斯美.md)
+- [射命丸文](./射命丸文.md)
+- [永江衣玖](./永江衣玖.md)
+- [比那名居天子](./比那名居天子.md)
+- [姬海棠果](./姬海棠果.md)
 
 
 ---

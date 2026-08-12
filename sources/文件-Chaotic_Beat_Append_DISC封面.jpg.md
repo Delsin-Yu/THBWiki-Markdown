@@ -1,6 +1,6 @@
 # 文件:Chaotic_Beat_Append_DISC封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\38\ns6%3AChaotic_Beat_Append_DISC%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\38\ns6%3AChaotic_Beat_Append_DISC%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 efs | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ efs | 专辑封面 | 封面图片
   
 
 - [Chaotic Beat Append DISC](./Chaotic_Beat_Append_DISC.md)
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:十日後のSolitude封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\de\ns6%3A%E5%8D%81%E6%97%A5%E5%BE%8C%E3%81%AESolitude%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\de\ns6%3A%E5%8D%81%E6%97%A5%E5%BE%8C%E3%81%AESolitude%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 R0x20 | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@ R0x20 | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [十日後のSolitude](./十日後のSolitude.md)  
-该封面包含的角色：- [鬼人正邪](./鬼人正邪.md)
-
-
-
+- [十日後のSolitude](./十日後のSolitude.md)该封面包含的角色：
+- [鬼人正邪](./鬼人正邪.md)
 
 
 ---

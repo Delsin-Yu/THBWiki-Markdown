@@ -1,6 +1,6 @@
 # 文件:STONE_HEART封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\57\ns6%3ASTONE_HEART%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\57\ns6%3ASTONE_HEART%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Violet_Delta | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Violet_Delta | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [STONE HEART](./STONE_HEART.md)  
-该封面包含的角色：- [高丽野阿吽](./高丽野阿吽.md)
+- [STONE HEART](./STONE_HEART.md)该封面包含的角色：
+- [高丽野阿吽](./高丽野阿吽.md)
 
   
-源地址：[[1]](https://violetdelta.bandcamp.com/album/stone-heart-feat-shinkonet-eurobeat-remix)
-  
-
-
-
-
+源地址：[\[1\]](https://violetdelta.bandcamp.com/album/stone-heart-feat-shinkonet-eurobeat-remix)  
 
 ---
 

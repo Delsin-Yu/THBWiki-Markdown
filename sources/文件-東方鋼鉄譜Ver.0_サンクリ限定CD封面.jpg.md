@@ -1,6 +1,6 @@
 # 文件:東方鋼鉄譜Ver.0_サンクリ限定CD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d7\ns6%3A%E6%9D%B1%E6%96%B9%E9%8B%BC%E9%89%84%E8%AD%9CVer%2E0_%E3%82%B5%E3%83%B3%E3%82%AF%E3%83%AA%E9%99%90%E5%AE%9ACD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d7\ns6%3A%E6%9D%B1%E6%96%B9%E9%8B%BC%E9%89%84%E8%AD%9CVer%2E0_%E3%82%B5%E3%83%B3%E3%82%AF%E3%83%AA%E9%99%90%E5%AE%9ACD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 SOUTH_OF_HEAVEN | 专辑封面 | 封面图片
 
@@ -10,11 +10,10 @@ SOUTH_OF_HEAVEN | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方鋼鉄譜Ver.0 サンクリ限定CD](./東方鋼鉄譜Ver.0_サンクリ限定CD.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- 十六夜咲夜 (未找到链接)- [西行寺幽幽子](./西行寺幽幽子.md)
-
-
-
+- [東方鋼鉄譜Ver.0 サンクリ限定CD](./東方鋼鉄譜Ver.0_サンクリ限定CD.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [十六夜咲夜](./十六夜咲夜.md)
+- [西行寺幽幽子](./西行寺幽幽子.md)
 
 
 ---

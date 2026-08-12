@@ -1,6 +1,6 @@
 # 文件:SUI-スイ-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\87\ns6%3ASUI-%E3%82%B9%E3%82%A4-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\87\ns6%3ASUI-%E3%82%B9%E3%82%A4-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 老協
 
@@ -8,11 +8,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [SUI-スイ-](./SUI-スイ-.md)  
-该封面包含的角色：- [露米娅](./露米娅.md)- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)- [梅蒂欣·梅兰可莉](./梅蒂欣·梅兰可莉.md)
-
-
-
+- [SUI-スイ-](./SUI-スイ-.md)该封面包含的角色：
+- [露米娅](./露米娅.md)
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
+- [梅蒂欣·梅兰可莉](./梅蒂欣·梅兰可莉.md)
 
 
 ---

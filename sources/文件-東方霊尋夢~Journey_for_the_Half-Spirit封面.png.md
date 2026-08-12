@@ -1,6 +1,6 @@
 # 文件:東方霊尋夢~Journey_for_the_Half-Spirit封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9f\ns6%3A%E6%9D%B1%E6%96%B9%E9%9C%8A%E5%B0%8B%E5%A4%A2%7EJourney_for_the_Half-Spirit%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9f\ns6%3A%E6%9D%B1%E6%96%B9%E9%9C%8A%E5%B0%8B%E5%A4%A2%7EJourney_for_the_Half-Spirit%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 封面图片 | 菜酱 | 软件封面
 
@@ -9,9 +9,6 @@
   
 
 - [東方霊尋夢~Journey for the Half-Spirit](./東方霊尋夢~Journey_for_the_Half-Spirit.md)
-
-
-
 
 
 ---

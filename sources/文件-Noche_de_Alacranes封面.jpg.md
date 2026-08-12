@@ -1,6 +1,6 @@
 # 文件:Noche_de_Alacranes封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e1\ns6%3ANoche_de_Alacranes%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e1\ns6%3ANoche_de_Alacranes%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Cradle（同人社团） | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@ Cradle（同人社团） | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Noche de Alacranes](./Noche_de_Alacranes.md)  
-该封面包含的角色：- [八云紫](./八云紫.md)
+- [Noche de Alacranes](./Noche_de_Alacranes.md)该封面包含的角色：
+- [八云紫](./八云紫.md)
 
   
-源地址：[direct image link](https://web.archive.org/web/20071203133424if_/http://cradle.cc/wp-content/themes/sample03/cg/portfolio/13_nda.jpg), [source page](https://web.archive.org/web/20070827055334/http://cradle.cc/?page_id=18)
-  
-
-
-
-
+源地址：[direct image link](https://web.archive.org/web/20071203133424if_/http://cradle.cc/wp-content/themes/sample03/cg/portfolio/13_nda.jpg), [source page](https://web.archive.org/web/20070827055334/http://cradle.cc/?page_id=18)  
 
 ---
 

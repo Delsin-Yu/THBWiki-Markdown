@@ -1,6 +1,6 @@
 # 文件:東方雲外鏡_～_Unveil_her_Character,_Obvious封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\31\ns6%3A%E6%9D%B1%E6%96%B9%E9%9B%B2%E5%A4%96%E9%8F%A1_%EF%BD%9E_Unveil_her_Character%2C_Obvious%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\31\ns6%3A%E6%9D%B1%E6%96%B9%E9%9B%B2%E5%A4%96%E9%8F%A1_%EF%BD%9E_Unveil_her_Character%2C_Obvious%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 かも | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方雲外鏡 ～ Unveil her Character, Obvious](./東方雲外鏡_～_Unveil_her_Character,_Obvious.md)  
-该封面包含的角色：- [上白泽慧音](./上白泽慧音.md)
-
-
-
+- [東方雲外鏡 ～ Unveil her Character, Obvious](./東方雲外鏡_～_Unveil_her_Character,_Obvious.md)该封面包含的角色：
+- [上白泽慧音](./上白泽慧音.md)
 
 
 ---

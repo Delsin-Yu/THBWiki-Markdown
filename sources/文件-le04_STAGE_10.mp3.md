@@ -1,16 +1,12 @@
 # 文件:le04_STAGE_10.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cb\ns6%3Ale04_STAGE_10%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cb\ns6%3Ale04_STAGE_10%2Emp3.html -->
 
 影之顶_～_Haze_Castle | 连缘Project官方音乐MP3 | 连缘天影战记
 
   
 连缘天影战记浮舟之间主题曲
   
-
-
-
-
 
 ---
 

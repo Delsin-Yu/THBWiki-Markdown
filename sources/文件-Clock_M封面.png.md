@@ -1,6 +1,6 @@
 # 文件:Clock_M封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c2\ns6%3AClock_M%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c2\ns6%3AClock_M%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Unprepared_Orchestra | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Unprepared_Orchestra | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Clock M](./Clock_M.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)
-
-
-
+- [Clock M](./Clock_M.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
 
 
 ---

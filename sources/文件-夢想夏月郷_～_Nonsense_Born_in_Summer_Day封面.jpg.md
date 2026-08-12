@@ -1,6 +1,6 @@
 # 文件:夢想夏月郷_～_Nonsense_Born_in_Summer_Day封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\06\ns6%3A%E5%A4%A2%E6%83%B3%E5%A4%8F%E6%9C%88%E9%83%B7_%EF%BD%9E_Nonsense_Born_in_Summer_Day%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\06\ns6%3A%E5%A4%A2%E6%83%B3%E5%A4%8F%E6%9C%88%E9%83%B7_%EF%BD%9E_Nonsense_Born_in_Summer_Day%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 夢想夏月郷 | 封面图片
 
@@ -9,9 +9,6 @@
   
 
 - [夢想夏月郷 ～ Nonsense Born in Summer Day](./夢想夏月郷_～_Nonsense_Born_in_Summer_Day.md)
-
-
-
 
 
 ---

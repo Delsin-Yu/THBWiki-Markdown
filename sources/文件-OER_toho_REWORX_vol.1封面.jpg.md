@@ -1,6 +1,6 @@
 # 文件:OER_toho_REWORX_vol.1封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\24\ns6%3AOER_toho_REWORX_vol%2E1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\24\ns6%3AOER_toho_REWORX_vol%2E1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 OTAKU-ELITE_Recordings | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ OTAKU-ELITE_Recordings | 专辑封面 | 封面图片
   
 
 - [OER toho REWORX vol.1](./OER_toho_REWORX_vol.1.md)
-
-
-
 
 
 ---

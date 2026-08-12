@@ -1,14 +1,11 @@
 # 文件:The_Grimoire_of_Usami（寅丸星3）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0c\ns6%3AThe_Grimoire_of_Usami%EF%BC%88%E5%AF%85%E4%B8%B8%E6%98%9F3%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0c\ns6%3AThe_Grimoire_of_Usami%EF%BC%88%E5%AF%85%E4%B8%B8%E6%98%9F3%EF%BC%89%2Ejpg.html -->
 
 宇佐见的魔法书 | 寅丸星
 
 
 ## 摘要
-
-
-
 
 ---
 

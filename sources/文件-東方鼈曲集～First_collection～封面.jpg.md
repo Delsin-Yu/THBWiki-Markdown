@@ -1,6 +1,6 @@
 # 文件:東方鼈曲集～First_collection～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\59\ns6%3A%E6%9D%B1%E6%96%B9%E9%BC%88%E6%9B%B2%E9%9B%86%EF%BD%9EFirst_collection%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\59\ns6%3A%E6%9D%B1%E6%96%B9%E9%BC%88%E6%9B%B2%E9%9B%86%EF%BD%9EFirst_collection%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 GB_MUSIC | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ GB_MUSIC | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方鼈曲集～First collection～](./東方鼈曲集～First_collection～.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [東方鼈曲集～First collection～](./東方鼈曲集～First_collection～.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

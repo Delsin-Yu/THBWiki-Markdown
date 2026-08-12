@@ -1,6 +1,6 @@
 # 文件:星空華劇団_sample_CD_旅人封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9b\ns6%3A%E6%98%9F%E7%A9%BA%E8%8F%AF%E5%8A%87%E5%9B%A3_sample_CD_%E6%97%85%E4%BA%BA%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9b\ns6%3A%E6%98%9F%E7%A9%BA%E8%8F%AF%E5%8A%87%E5%9B%A3_sample_CD_%E6%97%85%E4%BA%BA%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 星空華劇団
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [星空華劇団 sample CD 旅人](./星空華劇団_sample_CD_旅人.md)  
-该封面包含的角色：- [上白泽慧音](./上白泽慧音.md)- [藤原妹红](./藤原妹红.md)
-
-
-
+- [星空華劇団 sample CD 旅人](./星空華劇団_sample_CD_旅人.md)该封面包含的角色：
+- [上白泽慧音](./上白泽慧音.md)
+- [藤原妹红](./藤原妹红.md)
 
 
 ---

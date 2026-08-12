@@ -1,6 +1,6 @@
 # 文件:CULT_vs_YAKUZA_仁義なき稼業封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\18\ns6%3ACULT_vs_YAKUZA_%E4%BB%81%E7%BE%A9%E3%81%AA%E3%81%8D%E7%A8%BC%E6%A5%AD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\18\ns6%3ACULT_vs_YAKUZA_%E4%BB%81%E7%BE%A9%E3%81%AA%E3%81%8D%E7%A8%BC%E6%A5%AD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 純情リーマー
 
@@ -10,11 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [CULT vs YAKUZA 仁義なき稼業](./CULT_vs_YAKUZA_仁義なき稼業.md)  
-该封面包含的角色：- [骊驹早鬼](./骊驹早鬼.md)- [埴安神袿姬](./埴安神袿姬.md)- [吉吊八千慧](./吉吊八千慧.md)- [杖刀偶磨弓](./杖刀偶磨弓.md)
-
-
-
+- [CULT vs YAKUZA 仁義なき稼業](./CULT_vs_YAKUZA_仁義なき稼業.md)该封面包含的角色：
+- [骊驹早鬼](./骊驹早鬼.md)
+- [埴安神袿姬](./埴安神袿姬.md)
+- [吉吊八千慧](./吉吊八千慧.md)
+- [杖刀偶磨弓](./杖刀偶磨弓.md)
 
 
 ---

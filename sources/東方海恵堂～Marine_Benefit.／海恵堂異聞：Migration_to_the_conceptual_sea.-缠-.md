@@ -1,11 +1,10 @@
 # 東方海恵堂～Marine_Benefit.／海恵堂異聞：Migration_to_the_conceptual_sea./缠"
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\29\ns0%3A%E6%9D%B1%E6%96%B9%E6%B5%B7%E6%81%B5%E5%A0%82%EF%BD%9EMarine_Benefit%2E%EF%BC%8F%E6%B5%B7%E6%81%B5%E5%A0%82%E7%95%B0%E8%81%9E%EF%BC%9AMigration_to_the_conceptual_sea%2E%2F%E7%BC%A0%22.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\29\ns0%3A%E6%9D%B1%E6%96%B9%E6%B5%B7%E6%81%B5%E5%A0%82%EF%BD%9EMarine_Benefit%2E%EF%BC%8F%E6%B5%B7%E6%81%B5%E5%A0%82%E7%95%B0%E8%81%9E%EF%BC%9AMigration_to_the_conceptual_sea%2E%2F%E7%BC%A0%22.html -->
 
 使用了翻译表的页面 | 待完成页面 | 待翻译页面 | 海神書房
 
 <center>
-
 <table>
 <tbody><tr>
 <td class="mbox-image"><div style="width: 52px;">
@@ -14,10 +13,7 @@
 </tr>
 </tbody></table>
 
-
-</center>
-<center>
-
+</center><center>
 <table>
 <tbody><tr>
 <td class="mbox-image"><div style="width: 52px;">
@@ -26,9 +22,7 @@
 </tr>
 </tbody></table>
 
-
-</center>
-  
+</center>  
 外来の宴は始まったばかり。
 幻が現実になることの奇異は、その境界をあいまいにし
 それを許さぬものもいる。
@@ -85,14 +79,6 @@
   
 海という概念を探して。
   
-  
-  
-
-  
-
-
-
-
 
 ---
 

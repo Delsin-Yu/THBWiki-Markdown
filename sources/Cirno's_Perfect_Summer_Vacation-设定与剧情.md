@@ -1,6 +1,6 @@
 # Cirno's_Perfect_Summer_Vacation/设定与剧情
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\b3\ns0%3ACirno%27s_Perfect_Summer_Vacation%2F%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\b3\ns0%3ACirno%27s_Perfect_Summer_Vacation%2F%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85.html -->
 
 Chaos_Cute_Soft
 
@@ -19,10 +19,6 @@ Chaos_Cute_Soft
 
 这个游戏是为⑨Jam制作的，这是一种独特定制的[琪露诺](./琪露诺.md)jam东方二次创作同人游戏！
   
-
-
-
-
 
 ---
 

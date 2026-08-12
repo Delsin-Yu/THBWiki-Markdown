@@ -1,6 +1,6 @@
 # 文件:Amateras_Records_Exclusive_Disc_2013_Spring封面.jpeg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e2\ns6%3AAmateras_Records_Exclusive_Disc_2013_Spring%E5%B0%81%E9%9D%A2%2Ejpeg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e2\ns6%3AAmateras_Records_Exclusive_Disc_2013_Spring%E5%B0%81%E9%9D%A2%2Ejpeg.html -->
 
 Amateras_Records | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Amateras_Records | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Amateras Records Exclusive Disc 2013 Spring](./Amateras_Records_Exclusive_Disc_2013_Spring.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [Amateras Records Exclusive Disc 2013 Spring](./Amateras_Records_Exclusive_Disc_2013_Spring.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

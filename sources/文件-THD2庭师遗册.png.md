@@ -1,12 +1,8 @@
 # 文件:THD2庭师遗册.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\89\ns6%3ATHD2%E5%BA%AD%E5%B8%88%E9%81%97%E5%86%8C%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\89\ns6%3ATHD2%E5%BA%AD%E5%B8%88%E9%81%97%E5%86%8C%2Epng.html -->
 
 东方DOTS玩家社群
-
-
-
-
 
 
 ---

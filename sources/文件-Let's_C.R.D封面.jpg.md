@@ -1,6 +1,6 @@
 # 文件:Let's_C.R.D封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\42\ns6%3ALet%27s_C%2ER%2ED%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\42\ns6%3ALet%27s_C%2ER%2ED%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 nakascene | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ nakascene | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Let's C.R.D](./Let's_C.R.D.md)  
-该封面包含的角色：- [灵乌路空](./灵乌路空.md)
-
-
-
+- [Let's C.R.D](./Let's_C.R.D.md)该封面包含的角色：
+- [灵乌路空](./灵乌路空.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Extra_World!封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1c\ns6%3AExtra_World%21%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1c\ns6%3AExtra_World%21%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 アベニュールーム | 专辑封面 | 封面图片
 
@@ -8,11 +8,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [Extra World!](./Extra_World!.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)- [古明地恋](./古明地恋.md)- [封兽鵺](./封兽鵺.md)
-
-
-
+- [Extra World!](./Extra_World!.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [古明地恋](./古明地恋.md)
+- [封兽鵺](./封兽鵺.md)
 
 
 ---

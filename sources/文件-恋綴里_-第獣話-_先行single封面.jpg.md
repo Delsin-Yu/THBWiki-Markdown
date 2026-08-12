@@ -1,6 +1,6 @@
 # 文件:恋綴里_-第獣話-_先行single封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a3\ns6%3A%E6%81%8B%E7%B6%B4%E9%87%8C_-%E7%AC%AC%E7%8D%A3%E8%A9%B1-_%E5%85%88%E8%A1%8Csingle%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a3\ns6%3A%E6%81%8B%E7%B6%B4%E9%87%8C_-%E7%AC%AC%E7%8D%A3%E8%A9%B1-_%E5%85%88%E8%A1%8Csingle%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 はにーぽけっと | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [恋綴里 -第獣話- 先行single](./恋綴里_-第獣話-_先行single.md)  
-该封面包含的角色：- [二岩猯藏](./二岩猯藏.md)
-
-
-
+- [恋綴里 -第獣話- 先行single](./恋綴里_-第獣話-_先行single.md)该封面包含的角色：
+- [二岩猯藏](./二岩猯藏.md)
 
 
 ---

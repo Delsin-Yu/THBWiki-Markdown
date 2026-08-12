@@ -1,12 +1,8 @@
 # 文件:记忆「DNA的瑕疵」（DS文花帖）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d6\ns6%3A%E8%AE%B0%E5%BF%86%E3%80%8CDNA%E7%9A%84%E7%91%95%E7%96%B5%E3%80%8D%EF%BC%88DS%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d6\ns6%3A%E8%AE%B0%E5%BF%86%E3%80%8CDNA%E7%9A%84%E7%91%95%E7%96%B5%E3%80%8D%EF%BC%88DS%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Ejpg.html -->
 
 东方文花帖DS | 古明地恋 | 敌机符卡
-
-
-
-
 
 
 ---

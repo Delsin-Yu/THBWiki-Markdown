@@ -1,6 +1,6 @@
 # アマノジャク_Reverse/设定与剧情/readme
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\e\ee\ns0%3A%E3%82%A2%E3%83%9E%E3%83%8E%E3%82%B8%E3%83%A3%E3%82%AF_Reverse%2F%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85%2Freadme.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\e\ee\ns0%3A%E3%82%A2%E3%83%9E%E3%83%8E%E3%82%B8%E3%83%A3%E3%82%AF_Reverse%2F%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85%2Freadme.html -->
 
 Raichu
 
@@ -20,9 +20,7 @@ Raichu
   
 
 ```
-     /script/ExRumia/ExRumia_Plural.txt
-     /script/ExRumia/ExRumia_Stage.txt
-```
+ /script/ExRumia/ExRumia_Plural.txt /script/ExRumia/ExRumia_Stage.txt ```
 
   
   
@@ -49,10 +47,6 @@ Raichu
 　　R：リセット(タイトル画面に戻る)
 　　BackSpace：リトライ
   
-
-
-
-
 
 ---
 

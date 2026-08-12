@@ -1,14 +1,11 @@
 # 文件:The_Grimoire_of_Usami（堀川雷鼓2）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d1\ns6%3AThe_Grimoire_of_Usami%EF%BC%88%E5%A0%80%E5%B7%9D%E9%9B%B7%E9%BC%932%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d1\ns6%3AThe_Grimoire_of_Usami%EF%BC%88%E5%A0%80%E5%B7%9D%E9%9B%B7%E9%BC%932%EF%BC%89%2Ejpg.html -->
 
 堀川雷鼓 | 宇佐见的魔法书
 
 
 ## 摘要
-
-
-
 
 ---
 

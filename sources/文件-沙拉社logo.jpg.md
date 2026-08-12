@@ -1,14 +1,11 @@
 # 文件:沙拉社logo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\54\ns6%3A%E6%B2%99%E6%8B%89%E7%A4%BElogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\54\ns6%3A%E6%B2%99%E6%8B%89%E7%A4%BElogo%2Ejpg.html -->
 
 沙拉社 | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

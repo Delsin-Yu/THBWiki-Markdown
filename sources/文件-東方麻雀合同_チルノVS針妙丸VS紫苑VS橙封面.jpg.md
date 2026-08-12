@@ -1,6 +1,6 @@
 # 文件:東方麻雀合同_チルノVS針妙丸VS紫苑VS橙封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\47\ns6%3A%E6%9D%B1%E6%96%B9%E9%BA%BB%E9%9B%80%E5%90%88%E5%90%8C_%E3%83%81%E3%83%AB%E3%83%8EVS%E9%87%9D%E5%A6%99%E4%B8%B8VS%E7%B4%AB%E8%8B%91VS%E6%A9%99%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\47\ns6%3A%E6%9D%B1%E6%96%B9%E9%BA%BB%E9%9B%80%E5%90%88%E5%90%8C_%E3%83%81%E3%83%AB%E3%83%8EVS%E9%87%9D%E5%A6%99%E4%B8%B8VS%E7%B4%AB%E8%8B%91VS%E6%A9%99%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 baba精米所 | 同人志封面 | 封面图片
 
@@ -10,11 +10,11 @@ baba精米所 | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方麻雀合同 チルノVS針妙丸VS紫苑VS橙](./東方麻雀合同_チルノVS針妙丸VS紫苑VS橙.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)- [橙](./橙.md)- [少名针妙丸](./少名针妙丸.md)- [依神紫苑](./依神紫苑.md)
-
-
-
+- [東方麻雀合同 チルノVS針妙丸VS紫苑VS橙](./東方麻雀合同_チルノVS針妙丸VS紫苑VS橙.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
+- [橙](./橙.md)
+- [少名针妙丸](./少名针妙丸.md)
+- [依神紫苑](./依神紫苑.md)
 
 
 ---

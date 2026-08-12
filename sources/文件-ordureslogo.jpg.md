@@ -1,18 +1,13 @@
 # 文件:ordureslogo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\24\ns6%3Aordureslogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\24\ns6%3Aordureslogo%2Ejpg.html -->
 
 ordures | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[direct image link](http://ordures.web.fc2.com/header.jpg), [source page](http://ordures.web.fc2.com)
-  
-
-
-
-
+源地址：[direct image link](http://ordures.web.fc2.com/header.jpg), [source page](http://ordures.web.fc2.com)  
 
 ---
 

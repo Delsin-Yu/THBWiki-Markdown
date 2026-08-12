@@ -1,6 +1,6 @@
 # 文件:FaitH（One_Costarring）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\23\ns6%3AFaitH%EF%BC%88One_Costarring%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\23\ns6%3AFaitH%EF%BC%88One_Costarring%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 One_Costarring | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@ One_Costarring | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [FaitH（One Costarring）](./FaitH（One_Costarring）.md)  
-该封面包含的角色：- [东风谷早苗](./东风谷早苗.md)
-
-
-
+- [FaitH（One Costarring）](./FaitH（One_Costarring）.md)该封面包含的角色：
+- [东风谷早苗](./东风谷早苗.md)
 
 
 ---

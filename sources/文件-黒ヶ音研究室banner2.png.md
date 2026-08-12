@@ -1,14 +1,11 @@
 # 文件:黒ヶ音研究室banner2.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\13\ns6%3A%E9%BB%92%E3%83%B6%E9%9F%B3%E7%A0%94%E7%A9%B6%E5%AE%A4banner2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\13\ns6%3A%E9%BB%92%E3%83%B6%E9%9F%B3%E7%A0%94%E7%A9%B6%E5%AE%A4banner2%2Epng.html -->
 
 社团LOGO | 黒ヶ音研究室
 
 
 ## 文件说明
-
-
-
 
 ---
 

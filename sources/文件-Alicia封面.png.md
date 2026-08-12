@@ -1,6 +1,6 @@
 # 文件:Alicia封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e5\ns6%3AAlicia%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e5\ns6%3AAlicia%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 XL_Project | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ XL_Project | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Alicia](./Alicia.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
-
-
-
+- [Alicia](./Alicia.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
 
 
 ---

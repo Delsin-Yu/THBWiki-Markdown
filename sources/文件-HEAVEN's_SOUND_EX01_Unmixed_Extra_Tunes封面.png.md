@@ -1,6 +1,6 @@
 # 文件:HEAVEN's_SOUND_EX01_Unmixed_Extra_Tunes封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\86\ns6%3AHEAVEN%27s_SOUND_EX01_Unmixed_Extra_Tunes%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\86\ns6%3AHEAVEN%27s_SOUND_EX01_Unmixed_Extra_Tunes%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Rolling_Contact | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ Rolling_Contact | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [HEAVEN's SOUND EX01 Unmixed Extra Tunes](./HEAVEN's_SOUND_EX01_Unmixed_Extra_Tunes.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [HEAVEN's SOUND EX01 Unmixed Extra Tunes](./HEAVEN's_SOUND_EX01_Unmixed_Extra_Tunes.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

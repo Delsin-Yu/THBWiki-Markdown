@@ -1,13 +1,8 @@
 # 東方求霖忍_～_Realizzando_Difficile_Decisione./音乐
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\b4\ns0%3A%E6%9D%B1%E6%96%B9%E6%B1%82%E9%9C%96%E5%BF%8D_%EF%BD%9E_Realizzando_Difficile_Decisione%2E%2F%E9%9F%B3%E4%B9%90.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\b4\ns0%3A%E6%9D%B1%E6%96%B9%E6%B1%82%E9%9C%96%E5%BF%8D_%EF%BD%9E_Realizzando_Difficile_Decisione%2E%2F%E9%9F%B3%E4%B9%90.html -->
 
 遊色高楼
-
-  
-  
-
-  
 
 
 <table>
@@ -30,7 +25,7 @@
 </p>
 </td>
 <td colspan="2" style="padding:1em; padding-left:2em;" lang="zh" width="50%">
-<p>♪东洋梦见的幻想(原曲:｢<a href="./永夜抄_～_Eastern_Night..md" title="永夜抄 ～ Eastern Night.">永夜抄</a>｣｢Prelude<sup id="cite_ref-prelude_1-0" class="reference"><a href="#cite_note-prelude-1">1</a></sup>｣)<br><br>
+<p>♪东洋梦见的幻想(原曲:｢<a href="./永夜抄_～_Eastern_Night..md" title="永夜抄 ～ Eastern Night.">永夜抄</a>｣｢Prelude<span>[^cite_note-prelude-1]</span>｣)<br><br>
 标题画面的主题曲。(作曲者:まいまい)<br><br>
 值得纪念的第一曲。这个组合还是比较简单的，但其他曲子主催<br>
 指定说「这首加上这首」的时候，我想痛骂Fuck you这事根本就不是秘密。
@@ -38,7 +33,6 @@
 </td></tr>
 
 </tbody></table>
-
 
 
 <table>
@@ -61,7 +55,7 @@
 </p>
 </td>
 <td colspan="2" style="padding:1em; padding-left:2em;" lang="zh" width="50%">
-<p>♪Ronfaule di valzer(原曲:｢Ronfaure<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">2</a></sup>｣)<br><br>
+<p>♪Ronfaule di valzer(原曲:｢Ronfaure<span>[^cite_note-2]</span>｣)<br><br>
 1面的主题曲。(作曲者:まいまい)<br><br>
 拿走了我的竹轮的，是哪里的混蛋！！<br>
 没竹轮的话，怎么赏月啊！！
@@ -69,7 +63,6 @@
 </td></tr>
 
 </tbody></table>
-
 
 
 <table>
@@ -92,7 +85,7 @@
 </p>
 </td>
 <td colspan="2" style="padding:1em; padding-left:2em;" lang="zh" width="50%">
-<p>♪看不见的绿眼怪兽(原曲:｢<a href="./绿眼的嫉妒.md" title="绿眼的嫉妒">绿眼的嫉妒</a>｣｢Selbina<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">3</a></sup>｣)<br><br>
+<p>♪看不见的绿眼怪兽(原曲:｢<a href="./绿眼的嫉妒.md" title="绿眼的嫉妒">绿眼的嫉妒</a>｣｢Selbina<span>[^cite_note-3]</span>｣)<br><br>
 水桥帕露西的主题曲。(作曲者:まいまい)<br><br>
 这份依然堪称主要根据的强烈感情。<br>
 止也止不住。
@@ -100,7 +93,6 @@
 </td></tr>
 
 </tbody></table>
-
 
 
 <table>
@@ -123,7 +115,7 @@
 </p>
 </td>
 <td colspan="2" style="padding:1em; padding-left:2em;" lang="zh" width="50%">
-<p>♪只能听见诗人的歌声(原曲:｢<a href="./已经只能听见歌声了.md" title="已经只能听见歌声了">已经只能听见歌声了</a>｣｢吟游诗人之歌<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">4</a></sup>｣)<br><br>
+<p>♪只能听见诗人的歌声(原曲:｢<a href="./已经只能听见歌声了.md" title="已经只能听见歌声了">已经只能听见歌声了</a>｣｢吟游诗人之歌<span>[^cite_note-4]</span>｣)<br><br>
 2面的主题曲。(作曲者:まいまい)<br><br>
 就算想象力无穷也决不能骄傲。<br>
 因为会输给任务接受人的可怕想象力。
@@ -131,7 +123,6 @@
 </td></tr>
 
 </tbody></table>
-
 
 
 <table>
@@ -154,7 +145,7 @@
 </p>
 </td>
 <td colspan="2" style="padding:1em; padding-left:2em;" lang="zh" width="50%">
-<p>♪苍风(原曲:｢赤翼<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">5</a></sup>｣)<br><br>
+<p>♪苍风(原曲:｢赤翼<span>[^cite_note-5]</span>｣)<br><br>
 龙桑的主题曲。(作曲者:深蒼穹)<br><br>
 尽量不破坏原曲的气氛而做了东方风的编曲。<br>
 正因为原曲是那个原曲，所以编曲好难啊！
@@ -162,7 +153,6 @@
 </td></tr>
 
 </tbody></table>
-
 
 
 <table>
@@ -185,7 +175,7 @@
 </p>
 </td>
 <td colspan="2" style="padding:1em; padding-left:2em;" lang="zh" width="50%">
-<p>♪La campana del lago(原曲:｢<a href="./无间之钟_～_Infinite_Nightmare.md" title="无间之钟 ～ Infinite Nightmare" unred="">无间之钟</a>｣｢碧尔西湖<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">6</a></sup>｣)<br><br>
+<p>♪La campana del lago(原曲:｢<a href="./无间之钟_～_Infinite_Nightmare.md" title="无间之钟 ～ Infinite Nightmare" unred="">无间之钟</a>｣｢碧尔西湖<span>[^cite_note-6]</span>｣)<br><br>
 3面的主题曲。(作曲者:まいまい)<br><br>
 试着将自己倒映在水面上吧。<br>
 也许会发现和镜中不同的崭新的自己。
@@ -193,7 +183,6 @@
 </td></tr>
 
 </tbody></table>
-
 
 
 <table>
@@ -216,7 +205,7 @@
 </p>
 </td>
 <td colspan="2" style="padding:1em; padding-left:2em;" lang="zh" width="50%">
-<p>♪刀刃漆黑闪亮　～Profondita nera.(原曲:｢<a href="./灵战_～_Perdition_crisis.md" title="灵战 ～ Perdition crisis" unred="">灵战</a>｣｢Depths of the Soul<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">7</a></sup>｣)<br><br>
+<p>♪刀刃漆黑闪亮　～Profondita nera.(原曲:｢<a href="./灵战_～_Perdition_crisis.md" title="灵战 ～ Perdition crisis" unred="">灵战</a>｣｢Depths of the Soul<span>[^cite_note-7]</span>｣)<br><br>
 艾丽的主题曲。(作曲者:まいまい)<br><br>
 以暧昧的笑容打碎那浅薄的自尊心。<br>
 问问你自己的心，你的刀刃漆黑闪亮吗？
@@ -224,7 +213,6 @@
 </td></tr>
 
 </tbody></table>
-
 
 
 <table>
@@ -257,7 +245,6 @@
 </tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
@@ -273,12 +260,12 @@
 <td colspan="2" style="padding:1em; padding-left:2em;" lang="ja" width="50%">
 <p>♪valse di uligano(原曲:｢眠れる恐怖｣｢永遠の豊穣｣｢大犬のワルツ｣)<br><br>
 幽香のテーマです。(作曲者:まいまい)<br><br>
-ﾋｬｯﾊｰ!!ﾄﾞＳっぽそうなお姉ちゃんﾀﾞｧｰ!!<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">8</a></sup>でもゆうかりんってただのチンピラのイメージが<br>
+ﾋｬｯﾊｰ!!ﾄﾞＳっぽそうなお姉ちゃんﾀﾞｧｰ!!<span>[^cite_note-8]</span>でもゆうかりんってただのチンピラのイメージが<br>
 花映塚のせいで抜けない。チンピラﾄﾞＳ。なんか急に花が萎えて参りました。
 </p>
 </td>
 <td colspan="2" style="padding:1em; padding-left:2em;" lang="zh" width="50%">
-<p>♪valse di uligano(原曲:｢<a href="./沉睡的恐怖_～_Sleeping_Terror.md" title="沉睡的恐怖 ～ Sleeping Terror" unred="">沉睡的恐怖</a>｣｢永远的丰穰<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">9</a></sup>｣｢大狗的华尔兹<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">10</a></sup>]｣)<br><br>
+<p>♪valse di uligano(原曲:｢<a href="./沉睡的恐怖_～_Sleeping_Terror.md" title="沉睡的恐怖 ～ Sleeping Terror" unred="">沉睡的恐怖</a>｣｢永远的丰穰<span>[^cite_note-9]</span>｣｢大狗的华尔兹<span>[^cite_note-10]</span>]｣)<br><br>
 幽香的主题曲。(作曲者:まいまい)<br><br>
 呀哈！！抖S样的大姐姐出现了！！不过幽香香感觉只是个不良少女，<br>
 都怪花映塚坏了形象。不良少女抖S。总觉得花儿突然都谢了。
@@ -286,7 +273,6 @@
 </td></tr>
 
 </tbody></table>
-
 
 
 <table>
@@ -309,7 +295,7 @@
 </p>
 </td>
 <td colspan="2" style="padding:1em; padding-left:2em;" lang="zh" width="50%">
-<p>♪复刻幻想乡缘起　～Strada della Memoria.(原曲:｢<a href="./Japanese_Saga.md" title="Japanese Saga">Japanese Saga</a>｣｢记忆之场所<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">11</a></sup>｣)<br><br>
+<p>♪复刻幻想乡缘起　～Strada della Memoria.(原曲:｢<a href="./Japanese_Saga.md" title="Japanese Saga">Japanese Saga</a>｣｢记忆之场所<span>[^cite_note-11]</span>｣)<br><br>
 5面的主题曲。(作曲者:戦ピー)<br><br>
 领您游览幻想乡的历史之旅。历史一直在变迁，一直在运动。<br>
 能从这首曲子中感受到幻想乡的历史吗？
@@ -317,7 +303,6 @@
 </td></tr>
 
 </tbody></table>
-
 
 
 <table>
@@ -340,7 +325,7 @@
 </p>
 </td>
 <td colspan="2" style="padding:1em; padding-left:2em;" lang="zh" width="50%">
-<p>♪AAA(原曲:｢Fighters of the Crystal<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">12</a></sup>｣｢<a href="./阿礼的孩子.md" title="阿礼的孩子">阿礼的孩子</a>｣)<br><br>
+<p>♪AAA(原曲:｢Fighters of the Crystal<span>[^cite_note-12]</span>｣｢<a href="./阿礼的孩子.md" title="阿礼的孩子">阿礼的孩子</a>｣)<br><br>
 稗田阿求的主题曲。(作曲者:まいまい)<br><br>
 『就算凭着记录可以借来他人的帮助，到底自己还是孤独的，我忽然发觉了。<br>
 虽然发觉了，我还是要这么做。』
@@ -348,7 +333,6 @@
 </td></tr>
 
 </tbody></table>
-
 
 
 <table>
@@ -371,7 +355,7 @@
 </p>
 </td>
 <td colspan="2" style="padding:1em; padding-left:2em;" lang="zh" width="50%">
-<p>♪Battaglia before dawn(原曲:｢<a href="./Dream_Land.md" title="Dream Land">Dream Land</a>｣｢Cristal Tower<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">13</a></sup>｣)<br><br>
+<p>♪Battaglia before dawn(原曲:｢<a href="./Dream_Land.md" title="Dream Land">Dream Land</a>｣｢Cristal Tower<span>[^cite_note-13]</span>｣)<br><br>
 6面的主题曲。(作曲者:戦ピー)<br><br>
 喔喔！竹轮的香气越来越近了！！<br>
 夺走我竹轮的王八蛋！我来惩戒你了，给我做好觉悟吧！！
@@ -379,7 +363,6 @@
 </td></tr>
 
 </tbody></table>
-
 
 
 <table>
@@ -412,7 +395,6 @@
 </tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
@@ -433,7 +415,7 @@
 </p>
 </td>
 <td colspan="2" style="padding:1em; padding-left:2em;" lang="zh" width="50%">
-<p>♪旅途向何处继续(原曲:｢圣地Zi'Tah<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">14</a></sup>｣)<br><br>
+<p>♪旅途向何处继续(原曲:｢圣地Zi'Tah<span>[^cite_note-14]</span>｣)<br><br>
 结局画面的主题曲。(作曲者:まいまい)<br><br>
 5面Boss的废案。(byまいまい) 就这么废了有些可惜，着重考虑到气氛问题，<br>
 将之放到了结局画面。忍者这次的旅途还在继续。(by蒼天)
@@ -441,7 +423,6 @@
 </td></tr>
 
 </tbody></table>
-
 
 
 <table>
@@ -464,15 +445,14 @@
 </p>
 </td>
 <td colspan="2" style="padding:1em; padding-left:2em;" lang="zh" width="50%">
-<p>♪memolia della pietra-Fantasia-(原曲:｢FF11 Main Theme<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">15</a></sup>｣)<br><br>
+<p>♪memolia della pietra-Fantasia-(原曲:｢FF11 Main Theme<span>[^cite_note-15]</span>｣)<br><br>
 STAFF画面的主题曲。(作曲者:まいまい)<br><br>
-就像听到的一样。(byまいまい) 说到FF，就是「Prelude<sup id="cite_ref-prelude_1-1" class="reference"><a href="#cite_note-prelude-1">1</a></sup>」和「Main Theme」嘛，<br>
+就像听到的一样。(byまいまい) 说到FF，就是「Prelude<span>[^cite_note-prelude-1]</span>」和「Main Theme」嘛，<br>
 我是这么想的。以王道开始，以王道收尾。(by蒼天)
 </p>
 </td></tr>
 
 </tbody></table>
-
 
 
 <table>
@@ -505,7 +485,6 @@ EX面的主题曲。(作曲者:深蒼穹)<br><br>
 </tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
@@ -526,7 +505,7 @@ EX面的主题曲。(作曲者:深蒼穹)<br><br>
 </p>
 </td>
 <td colspan="2" style="padding:1em; padding-left:2em;" lang="zh" width="50%">
-<p>♪Yakuzin gelosia(原曲:｢Force your way<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">16</a></sup>｣｢<a href="./命运的阴暗面.md" title="命运的阴暗面">命运的阴暗面</a>｣)<br><br>
+<p>♪Yakuzin gelosia(原曲:｢Force your way<span>[^cite_note-16]</span>｣｢<a href="./命运的阴暗面.md" title="命运的阴暗面">命运的阴暗面</a>｣)<br><br>
 键山雏的主题曲。(作曲者:戦ピー)<br><br>
 虽然我不是水桥小姐，可我也会嫉妒的。<br>
 厄和嫉妒合在一起……啊啊～，真厄啊～♪ 呵呵呵…。
@@ -534,7 +513,6 @@ EX面的主题曲。(作曲者:深蒼穹)<br><br>
 </td></tr>
 
 </tbody></table>
-
 
 
 <table>
@@ -557,15 +535,14 @@ EX面的主题曲。(作曲者:深蒼穹)<br><br>
 </p>
 </td>
 <td colspan="2" style="padding:1em; padding-left:2em;" lang="zh" width="50%">
-<p>♪那个老头，成为了不屈的英雄(原曲:｢Awakening<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">17</a></sup>｣｢帝国四天王<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">18</a></sup>｣)<br><br>
+<p>♪那个老头，成为了不屈的英雄(原曲:｢Awakening<span>[^cite_note-17]</span>｣｢帝国四天王<span>[^cite_note-18]</span>｣)<br><br>
 马特的主题曲。(作曲者:戦ピー)<br><br>
 你想要挑战新的极限吗？<br>
-讨 厌 的 话 你 也 可 以 放 弃 哦 ？<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">19</a></sup>
+讨 厌 的 话 你 也 可 以 放 弃 哦 ？<span>[^cite_note-19]</span>
 </p>
 </td></tr>
 
 </tbody></table>
-
 
 
 <table>
@@ -588,7 +565,7 @@ EX面的主题曲。(作曲者:深蒼穹)<br><br>
 </p>
 </td>
 <td colspan="2" style="padding:1em; padding-left:2em;" lang="zh" width="50%">
-<p>♪东西妖魔大战(原曲:｢决战<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">20</a></sup>｣｢<a href="./东方妖怪小町.md" title="东方妖怪小町">东方妖怪小町</a>｣)<br><br>
+<p>♪东西妖魔大战(原曲:｢决战<span>[^cite_note-20]</span>｣｢<a href="./东方妖怪小町.md" title="东方妖怪小町">东方妖怪小町</a>｣)<br><br>
 Last Word的主题曲。(作曲者:深蒼穹)<br><br>
 一切都结束了？ 并非如此。<br>
 战斗才刚刚开始！
@@ -597,13 +574,26 @@ Last Word的主题曲。(作曲者:深蒼穹)<br><br>
 
 </tbody></table>
 
-
-
 [^cite_note-prelude-1]: 最终幻想系列的主题曲。除FF13外均在类似标题画面的场合有使用。试听：[The Prelude](http://music.163.com/#/song?id=27637726)是FF4的版本。
-
-
-
-
+[^cite_note-2]: 出自FF11，东、西Ronfaure森林的场地曲。对大多数FF11玩家来说，是最早听到的场地曲，人气非常高。试听：[Ronfaure](http://music.163.com/#/song?id=475890)
+[^cite_note-3]: 出自FF11，Selbina自治都市的场地曲。试听：[Selbina](http://music.163.com/#/song?id=475948)
+[^cite_note-4]: FF11中，“吟游诗人（Bard）”职业发动各种技能时会响起同一段主题的不同remix。这段主题没有名字，粉丝一般称为“吟游诗人之歌”。试听：[FFXI Bard Songs Compilation](https://www.youtube.com/watch?v=bfzglU239v0)
+[^cite_note-5]: 出自FF4，从OP开始就经常使用的燃曲。试听：[Red Wings](http://music.163.com/#/song?id=27637728)
+[^cite_note-6]: FF13第三章，碧尔西湖的场景曲。试听：[Lake Bilge](http://music.163.com/#/song?id=430579)
+[^cite_note-7]: FF11的资料片《普罗马西亚的咒缚》中的团队战斗曲。试听：[Depths of the Soul](http://music.163.com/#/song?id=475422)
+[^cite_note-8]: 《北斗神拳》中杂鱼的叫声。
+[^cite_note-9]: 出自FF9，进入克雷拉圣堂时，伴随着巫女的舞蹈响起的乐曲。试看:[Eternal Harvest](https://www.youtube.com/watch?v=pgSFF6zfjk0)，钢琴Remix版试听:[永远の豊穣 Eternal Harvest](http://music.163.com/#/song?id=539125)
+[^cite_note-10]: 出自KONAMI的音乐游戏《beatmaniaIIDX 17: SIRIUS》，试听:[g小调第17号华尔兹“大狗的华尔兹”](http://music.163.com/#/song?id=22661133)
+[^cite_note-11]: 出自FF9，最终场景“记忆之场所”的场地曲。试听:[Memoria](https://www.youtube.com/watch?v=e0_pEHftaGY&index=96&list=PLA09B2B58888B370F)
+[^cite_note-12]: 出自FF11，拉·罗夫剧场（La'Loff Ampitheater）中的战斗曲。试听:[Fighters of the Crystal](http://music.163.com/#/song?id=475553)
+[^cite_note-13]: 出自FF3，水晶塔的场地曲。试听:[Cristal Tower](http://music.163.com/#/song?id=542149)
+[^cite_note-14]: 出自FF11，是圣地Zi'Tah的场地曲。试听:[The Sanctuary of Zi'Tah](http://music.163.com/#/song?id=475539)
+[^cite_note-15]: 出自FF11，部分支线结局时的曲子。试听:[Main Theme - FINAL FANTASY XI Version](http://music.163.com/#/song?id=474629)
+[^cite_note-16]: 出自FF8，普通Boss战的战斗曲。试听:[Force your way](http://music.163.com/#/song?id=22755792)
+[^cite_note-17]: 出自FF11，王之间的场地曲。试听:[Awakening](http://music.163.com/#/song?id=476025)
+[^cite_note-18]: 出自FF LEGENDS，大Boss的战斗曲。试听:[帝国四天王](https://www.youtube.com/watch?v=UDsg4fHA4ZY)
+[^cite_note-19]: 限界爷的大名言。由于限界爷当年任务的变态难度，这句话的嘲讽意味突破天际。
+[^cite_note-20]: FF5、6、10各有一首同名曲，不过这里是FF6的版本。Boss战的战斗曲。试听:[決戦](http://music.163.com/#/song?id=22756052)
 
 ---
 

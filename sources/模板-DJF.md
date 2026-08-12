@@ -1,16 +1,12 @@
 # 模板:DJF
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\5\52\ns10%3ADJF.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\5\52\ns10%3ADJF.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

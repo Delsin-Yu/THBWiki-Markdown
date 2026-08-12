@@ -1,36 +1,31 @@
 # 結界戦線EX_-オカルト・オブジェクト-
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\d\df\ns0%3A%E7%B5%90%E7%95%8C%E6%88%A6%E7%B7%9AEX_-%E3%82%AA%E3%82%AB%E3%83%AB%E3%83%88%E3%83%BB%E3%82%AA%E3%83%96%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88-.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\d\df\ns0%3A%E7%B5%90%E7%95%8C%E6%88%A6%E7%B7%9AEX_-%E3%82%AA%E3%82%AB%E3%83%AB%E3%83%88%E3%83%BB%E3%82%AA%E3%83%96%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88-.html -->
 
 2018年8月10日 由 白上さん家 于 Comic Market 94 发布的小说同人志，文库版尺寸一共66页，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人志 (未找到链接)** 的词条
-
+**[二次创作同人志](./二次创作.md#同人志)**的词条
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-結界戦線EX_-オカルト・オブジェクト-封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/3/3f/%E7%B5%90%E7%95%8C%E6%88%A6%E7%B7%9AEX_-%E3%82%AA%E3%82%AB%E3%83%AB%E3%83%88%E3%83%BB%E3%82%AA%E3%83%96%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88-%E5%B0%81%E9%9D%A2.jpg/139px-%E7%B5%90%E7%95%8C%E6%88%A6%E7%B7%9AEX_-%E3%82%AA%E3%82%AB%E3%83%AB%E3%83%88%E3%83%BB%E3%82%AA%E3%83%96%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88-%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="139" height="196" srcset="https://upload.thwiki.cc/thumb/3/3f/%E7%B5%90%E7%95%8C%E6%88%A6%E7%B7%9AEX_-%E3%82%AA%E3%82%AB%E3%83%AB%E3%83%88%E3%83%BB%E3%82%AA%E3%83%96%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88-%E5%B0%81%E9%9D%A2.jpg/209px-%E7%B5%90%E7%95%8C%E6%88%A6%E7%B7%9AEX_-%E3%82%AA%E3%82%AB%E3%83%AB%E3%83%88%E3%83%BB%E3%82%AA%E3%83%96%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88-%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/3/3f/%E7%B5%90%E7%95%8C%E6%88%A6%E7%B7%9AEX_-%E3%82%AA%E3%82%AB%E3%83%AB%E3%83%88%E3%83%BB%E3%82%AA%E3%83%96%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88-%E5%B0%81%E9%9D%A2.jpg/278px-%E7%B5%90%E7%95%8C%E6%88%A6%E7%B7%9AEX_-%E3%82%AA%E3%82%AB%E3%83%AB%E3%83%88%E3%83%BB%E3%82%AA%E3%83%96%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88-%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="568" data-file-height="800"></a><div class="cover-char">角色：<a href="./宇佐见莲子.md" title="宇佐见莲子">宇佐见莲子</a></div></td>
 </tr><tr><td class="label">名称</td><td colspan="2"> 結界戦線EX -オカルト・オブジェクト- </td></tr><tr><td class="label">制作方</td><td><a href="./白上さん家.md" title="白上さん家">白上さん家</a></td><td class="cover-artwork" rowspan="7" style="min-width:196px;"><a href="./文件-結界戦線EX_-オカルト・オブジェクト-封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/3/3f/%E7%B5%90%E7%95%8C%E6%88%A6%E7%B7%9AEX_-%E3%82%AA%E3%82%AB%E3%83%AB%E3%83%88%E3%83%BB%E3%82%AA%E3%83%96%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88-%E5%B0%81%E9%9D%A2.jpg/139px-%E7%B5%90%E7%95%8C%E6%88%A6%E7%B7%9AEX_-%E3%82%AA%E3%82%AB%E3%83%AB%E3%83%88%E3%83%BB%E3%82%AA%E3%83%96%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88-%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="139" height="196" srcset="https://upload.thwiki.cc/thumb/3/3f/%E7%B5%90%E7%95%8C%E6%88%A6%E7%B7%9AEX_-%E3%82%AA%E3%82%AB%E3%83%AB%E3%83%88%E3%83%BB%E3%82%AA%E3%83%96%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88-%E5%B0%81%E9%9D%A2.jpg/209px-%E7%B5%90%E7%95%8C%E6%88%A6%E7%B7%9AEX_-%E3%82%AA%E3%82%AB%E3%83%AB%E3%83%88%E3%83%BB%E3%82%AA%E3%83%96%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88-%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/3/3f/%E7%B5%90%E7%95%8C%E6%88%A6%E7%B7%9AEX_-%E3%82%AA%E3%82%AB%E3%83%AB%E3%83%88%E3%83%BB%E3%82%AA%E3%83%96%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88-%E5%B0%81%E9%9D%A2.jpg/278px-%E7%B5%90%E7%95%8C%E6%88%A6%E7%B7%9AEX_-%E3%82%AA%E3%82%AB%E3%83%AB%E3%83%88%E3%83%BB%E3%82%AA%E3%83%96%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88-%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="568" data-file-height="800"></a><div class="cover-char">角色：<a href="./宇佐见莲子.md" title="宇佐见莲子">宇佐见莲子</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2018-08-10&#160;（<a href="/展会作品列表?e=Comic+Market%2394">Comic Market 94</a>）</td></tr><tr><td class="label">类型</td><td>小说</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>文库版</td></tr><tr><td class="label">页数</td><td>66P</td></tr><tr><td class="label">售价</td><td>会场售价：500日元</td></tr>
+</tr><tr><td class="label">首发日期</td><td>2018-08-10 （<a href="./展会作品列表.md#94">Comic Market 94</a>）</td></tr><tr><td class="label">类型</td><td>小说</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>文库版</td></tr><tr><td class="label">页数</td><td>66P</td></tr><tr><td class="label">售价</td><td>会场售价：500日元</td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://hf-kekkai.com/">http://hf-kekkai.com/</a></td></tr></tbody></table>
 
 結界戦線EX -オカルト・オブジェクト-（同人志，白上さん家，2018） - 2018年8月10日 由 白上さん家 于 Comic Market 94 发布的小说同人志，文库版尺寸一共66页，分级为 一般向
-
 ## Staff
+
 - 封面
 
   
-[菊壱モンジ](./菊壱モンジ.md)
-  
+[菊壱モンジ](./菊壱モンジ.md)  
 
 - 小说
 - [白上めりと](./白上めりと.md)
 
 
 ## 评论
-
-
-
 
 ---
 

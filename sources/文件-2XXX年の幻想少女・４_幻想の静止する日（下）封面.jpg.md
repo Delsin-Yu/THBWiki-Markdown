@@ -1,6 +1,6 @@
 # 文件:2XXX年の幻想少女・４_幻想の静止する日（下）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\24\ns6%3A2XXX%E5%B9%B4%E3%81%AE%E5%B9%BB%E6%83%B3%E5%B0%91%E5%A5%B3%E3%83%BB%EF%BC%94_%E5%B9%BB%E6%83%B3%E3%81%AE%E9%9D%99%E6%AD%A2%E3%81%99%E3%82%8B%E6%97%A5%EF%BC%88%E4%B8%8B%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\24\ns6%3A2XXX%E5%B9%B4%E3%81%AE%E5%B9%BB%E6%83%B3%E5%B0%91%E5%A5%B3%E3%83%BB%EF%BC%94_%E5%B9%BB%E6%83%B3%E3%81%AE%E9%9D%99%E6%AD%A2%E3%81%99%E3%82%8B%E6%97%A5%EF%BC%88%E4%B8%8B%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 La_Mort_Rouge | 同人志封面 | 封面图片
 
@@ -8,16 +8,11 @@ La_Mort_Rouge | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [2XXX年の幻想少女・４ 幻想の静止する日（下）](./2XXX年の幻想少女・４_幻想の静止する日（下）.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
+- [2XXX年の幻想少女・４ 幻想の静止する日（下）](./2XXX年の幻想少女・４_幻想の静止する日（下）.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
   
-源地址：[direct image link](https://melonbooks.akamaized.net/user_data/packages/resize_image.php?image=212001162698.jpg), [source page](https://www.melonbooks.co.jp/detail/detail.php?product_id=384629)
-  
-
-
-
-
+源地址：[direct image link](https://melonbooks.akamaized.net/user_data/packages/resize_image.php?image=212001162698.jpg), [source page](https://www.melonbooks.co.jp/detail/detail.php?product_id=384629)  
 
 ---
 

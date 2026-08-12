@@ -1,6 +1,6 @@
 # 文件:Cosmic_Honey封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ad\ns6%3ACosmic_Honey%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ad\ns6%3ACosmic_Honey%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 FOX_RAVEL | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@ FOX_RAVEL | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Cosmic Honey](./Cosmic_Honey.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
-
-
-
+- [Cosmic Honey](./Cosmic_Honey.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
 
 
 ---

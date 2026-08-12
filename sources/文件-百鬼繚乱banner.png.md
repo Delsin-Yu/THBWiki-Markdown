@@ -1,12 +1,8 @@
 # 文件:百鬼繚乱banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a6\ns6%3A%E7%99%BE%E9%AC%BC%E7%B9%9A%E4%B9%B1banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a6\ns6%3A%E7%99%BE%E9%AC%BC%E7%B9%9A%E4%B9%B1banner%2Epng.html -->
 
 百鬼繚乱 | 社团LOGO
-
-
-
-
 
 
 ---

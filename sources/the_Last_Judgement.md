@@ -1,45 +1,35 @@
 # the_Last_Judgement
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\a\ad\ns0%3Athe_Last_Judgement.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\a\ad\ns0%3Athe_Last_Judgement.html -->
 
 由 ZUN 创作的官方曲目，原名 the Last Judgement
 
 本页是关于东方Project  
- **原作音乐** 的词条
-
+**原作音乐**的词条
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 出现作品](#出现作品)
 - [3 音乐文件](#音乐文件)
-
   - [3.1 东方怪绮谈](#东方怪绮谈)
   - [3.2 东方幻想的音乐](#东方幻想的音乐)
   - [3.3 东方幻想怀古曲](#东方幻想怀古曲)
   - [3.4 幺乐团的历史 vol.2](#幺乐团的历史_vol.2)
 
 
-
 - [4 说明文本](#说明文本)
-
   - [4.1 东方怪绮谈](#东方怪绮谈_2)
   - [4.2 东方幻想的音乐](#东方幻想的音乐_2)
   - [4.3 东方幻想怀古曲](#东方幻想怀古曲_2)
 
 
-
 - [5 其他资料](#其他资料)
-
   - [5.1 乐理资讯](#乐理资讯)
   - [5.2 分析考据](#分析考据)
   - [5.3 二次同人数据](#二次同人数据)
 
 
-
 - [6 注释](#注释)
-
-
-
 
 
 ## 基本信息
@@ -47,16 +37,14 @@
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">the Last Judgement</td></tr><tr><td><b>译名</b></td><td>the Last Judgement</td></tr><tr><td><b>其他译名</b></td><td>最后的审判<br>最终审判</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 the Last Judgement（曲目） - 由 ZUN 创作的官方曲目，原名 the Last Judgement
-
 ## 出现作品
 
 <table>
 <tbody><tr><td>1998年12月30日（Comic Market 55）</td><td><b><a href="./东方怪绮谈.md" title="东方怪绮谈">东方怪绮谈</a></b></td><td>5面主题曲</td><td style="padding-left:5px;">the Last Judgement（the Last Judgement）</td><td style="padding-left:10px;">作曲：ZUN</td></tr>
 <tr><td>2000年8月6日（非展会）</td><td><b><a href="./东方幻想的音乐.md" title="东方幻想的音乐">东方幻想的音乐</a></b></td><td>东方怪绮谈</td><td style="padding-left:5px;">the Last Judgement（the Last Judgement）</td><td style="padding-left:10px;">编曲：ZUN</td></tr>
 <tr><td>2000年10月18日（非展会）</td><td><b><a href="./东方幻想怀古曲.md" title="东方幻想怀古曲">东方幻想怀古曲</a></b></td><td>东方怪绮谈</td><td style="padding-left:5px;">the Last Judgement（the Last Judgement）</td><td style="padding-left:10px;">作曲：ZUN</td></tr>
-<tr><td>2006年12月31日（Comic Market 71）</td><td><b><a href="./幺乐团的历史_vol.2.md" class="mw-redirect" title="幺乐团的历史 vol.2">幺乐团的历史 vol.2</a></b></td><td>第12轨</td><td style="padding-left:5px;">the Last Judgement（the Last Judgement）</td><td style="padding-left:10px;">编曲：ZUN</td></tr>
+<tr><td>2006年12月31日（Comic Market 71）</td><td><b><a href="./幺乐团的历史2.md" class="mw-redirect" title="幺乐团的历史 vol.2">幺乐团的历史 vol.2</a></b></td><td>第12轨</td><td style="padding-left:5px;">the Last Judgement（the Last Judgement）</td><td style="padding-left:10px;">编曲：ZUN</td></tr>
 </tbody></table>
-
 
 
 ## 音乐文件
@@ -66,17 +54,13 @@ the Last Judgement（曲目） - 由 ZUN 创作的官方曲目，原名 the Last
 YM2203(OPN)，FM26K音源版。
   
 
-
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th05_12_26.ogg.md" title="文件:th05 12 26.ogg">th05_12_26.ogg</a><br><audio src="https://upload.thwiki.cc/d/d9/th05_12_26.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>ST04.M</td></tr><tr><td><b>音轨时长</b></td><td>2:01.866</td></tr></tbody></table>
-
 
   
 YM2608(OPNA)，FM86音源版。
   
 
-
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th05_12_86.ogg.md" title="文件:th05 12 86.ogg">th05_12_86.ogg</a><br><audio src="https://upload.thwiki.cc/4/4d/th05_12_86.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>ST04.M2</td></tr><tr><td><b>音轨时长</b></td><td>2:01.866</td></tr></tbody></table>
-
 
 
 ### 东方幻想的音乐
@@ -84,11 +68,9 @@ YM2608(OPNA)，FM86音源版。
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td><a href="./文件-th5_12.mid.md" title="文件:th5 12.mid">th5_12.mid</a></td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th5_12.mp3.md" title="文件:th5 12.mp3">th5_12.mp3</a><br><audio src="https://upload.thwiki.cc/4/40/th5_12.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>th5_12.mid</td></tr><tr><td><b>音轨时长</b></td><td>4:27</td></tr></tbody></table>
 
 
-
 ### 东方幻想怀古曲
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-thgs05_12.ogg.md" title="文件:thgs05 12.ogg">thgs05_12.ogg</a><br><audio src="https://upload.thwiki.cc/e/ef/thgs05_12.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>th5_12.M</td></tr><tr><td><b>音轨时长</b></td><td>2:01.866</td></tr></tbody></table>
-
 
 
 ### 幺乐团的历史 vol.2
@@ -96,11 +78,11 @@ YM2608(OPNA)，FM86音源版。
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-ha02_12.mp3.md" title="文件:ha02 12.mp3">ha02_12.mp3</a><br><audio src="https://upload.thwiki.cc/f/f1/ha02_12.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track12.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>4:24</td></tr></tbody></table>
 
 
-
 ## 说明文本
 
 ### 东方怪绮谈
-- Music Room (未找到链接)
+
+- [Music Room](./东方怪绮谈-Music.md#东方怪绮谈-45)
 
 　　　　　５面主题曲  
 　我想这首曲子相当有终盘的感觉。   
@@ -109,9 +91,9 @@ YM2608(OPNA)，FM86音源版。
 ＺＵＮ（太田）  
 怪绮谈5面的曲子。  
 感觉不错
-
 ### 东方幻想的音乐
-- th5_12.txt (未找到链接)
+
+- [th5_12.txt](./东方幻想的音乐-过去的曲子-东方怪绮谈.md#the_Last_Judgement)
 
 +----------------------------------------------------------------------------+  
 |【 　 曲名　　】| 【 the Last Judgement 】  
@@ -126,7 +108,7 @@ YM2608(OPNA)，FM86音源版。
 |                | 这种时候，请不要更动压缩包内部文件。  
 |【　 著作权 　】| ＺＵＮ (太田顺也）  
 |【演奏上的注意】| 用sc-88Pro 的人在演奏时请不要按88Map。  
-|                                          &#126;&#126;&#126;&#126;~   
+|                                          ~~~~~   
 +-----------------------------------------------------------------------------+  
 感谢下载本文件。  
   
@@ -151,9 +133,9 @@ YM2608(OPNA)，FM86音源版。
 　e-Mail                     zun@big.or.jp  
   
 一边读着きくち正太の「三四郎^2 （三四郎的平方）」。　（菊池秀行风格(^^;;）
-
 ### 东方幻想怀古曲
-- th5_12pmd.txt (未找到链接)
+
+- [th5_12pmd.txt](./东方幻想怀古曲-东方怪绮谈.md#the_Last_Judgement)
 
 +----------------------------------------------------------------------------+  
 |【 　 曲名　　】| 【 the Last Judgement 】（原创）  
@@ -190,15 +172,13 @@ YM2608(OPNA)，FM86音源版。
 曲子的感想、请求等，这边请  
 　东方幻想空间　「博丽神社」 [http://www16.big.or.jp/~zun/](http://www16.big.or.jp/~zun/)  
 　e-Mail　　　　　　　　　　 zun@big.or.jp
-
 ## 其他资料
 
 ### 乐理资讯
 
 ### 分析考据
   
- **the Last Judgement** 
-  
+**the Last Judgement**  
 最后的审判
   
 
@@ -219,18 +199,6 @@ YM2608(OPNA)，FM86音源版。
 <tr><td>Arrange</td><td>109</td></tr>
 <tr><td>Vocal率</td><td>29.68%</td></tr>
 </tbody></table>
-
-
-
-
-
-  
-  
-
-  
-
-
-
 
 
 ---

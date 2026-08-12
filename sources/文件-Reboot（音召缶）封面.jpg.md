@@ -1,6 +1,6 @@
 # 文件:Reboot（音召缶）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1d\ns6%3AReboot%EF%BC%88%E9%9F%B3%E5%8F%AC%E7%BC%B6%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1d\ns6%3AReboot%EF%BC%88%E9%9F%B3%E5%8F%AC%E7%BC%B6%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 音召缶
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Reboot（音召缶）](./Reboot（音召缶）.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)
-
-
-
+- [Reboot（音召缶）](./Reboot（音召缶）.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
 
 
 ---

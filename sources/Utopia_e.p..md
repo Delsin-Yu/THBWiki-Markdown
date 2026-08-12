@@ -1,37 +1,34 @@
 # Utopia_e.p.
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\a\a2\ns0%3AUtopia_e%2Ep%2E.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\a\a2\ns0%3AUtopia_e%2Ep%2E.html -->
 
 2019年11月17日 由 第九分岐点，As／Hi Soundworks 于 科学世纪的露天咖啡座9 发布的EP同人专辑，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人专辑 (未找到链接)** 的词条
-
+**[二次创作同人专辑](./二次创作.md#同人音乐)**的词条
 ## 专辑信息
 
-<table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=Utopia_e.p.%E5%B0%81%E9%9D%A2.jpg" class="new" title="文件:Utopia e.p.封面.jpg">封面图片</a></td>
-</tr><tr><td class="label">名称</td><td colspan="2"> Utopia e.p. </td></tr><tr><td class="label">制作方</td><td><a href="./第九分岐点.md" title="第九分岐点">第九分岐点</a><br><a href="/As%EF%BC%8FHi_Soundworks" title="As／Hi Soundworks">As／Hi Soundworks</a></td><td class="cover-artwork" rowspan="9" style="min-width:252px;"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=Utopia_e.p.%E5%B0%81%E9%9D%A2.jpg" class="new" title="文件:Utopia e.p.封面.jpg">封面图片</a></td>
-</tr><tr><td class="label">首发日期</td><td>2019-11-17&#160;（<a href="/展会作品列表?e=%E7%A7%91%E5%AD%A6%E4%B8%96%E7%BA%AA%E7%9A%84%E9%9C%B2%E5%A4%A9%E5%92%96%E5%95%A1%E5%BA%A7%239">科学世紀のカフェテラス（第9回）</a>）</td></tr><tr><td class="label">类型</td><td>EP</td></tr><tr><td class="label">编号</td><td>AHCR-0002</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>3</td></tr><tr><td class="label">总时长</td><td>00:00</td></tr><tr><td class="label">售价</td><td>会场售价：500日元</td></tr>
+<table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a class="new" title="文件:Utopia e.p.封面.jpg">封面图片</a></td>
+</tr><tr><td class="label">名称</td><td colspan="2"> Utopia e.p. </td></tr><tr><td class="label">制作方</td><td><a href="./第九分岐点.md" title="第九分岐点">第九分岐点</a><br><a href="./As／Hi_Soundworks.md" title="As／Hi Soundworks">As／Hi Soundworks</a></td><td class="cover-artwork" rowspan="9" style="min-width:252px;"><a class="new" title="文件:Utopia e.p.封面.jpg">封面图片</a></td>
+</tr><tr><td class="label">首发日期</td><td>2019-11-17 （<a href="./展会作品列表.md#9">科学世紀のカフェテラス（第9回）</a>）</td></tr><tr><td class="label">类型</td><td>EP</td></tr><tr><td class="label">编号</td><td>AHCR-0002</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>3</td></tr><tr><td class="label">总时长</td><td>00:00</td></tr><tr><td class="label">售价</td><td>会场售价：500日元</td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/AsHiSoundworks/status/1194039603185012736">https://twitter.com/AsHiSoundworks/status/1194039603185012736</a><br><a rel="nofollow" class="external free" href="http://ashisoundworks.com/2019/11/15/utopiaep/">http://ashisoundworks.com/2019/11/15/utopiaep/</a></td></tr><tr><td class="label">备注</td><td colspan="2">DLカード</td></tr></tbody></table>
 
 Utopia e.p.（同人专辑，第九分岐点，As／Hi Soundworks，2019） - 2019年11月17日 由 第九分岐点，As／Hi Soundworks 于 科学世纪的露天咖啡座9 发布的EP同人专辑，分级为 一般向
-
 ## Staff
   
- **Arrangement**   
+**Arrangement**  
 
-<table><tbody><tr><td><a href="./柊秀雪.md" title="柊秀雪">柊秀雪</a></td><td><a href="/As%EF%BC%8FHi_Soundworks" title="As／Hi Soundworks">As／Hi Soundworks</a></td><td>Tr.1-3</td></tr></tbody></table>
-
-  
- **Vocal**   
-
-<table><tbody><tr><td><a href="./あとり.md" class="mw-redirect" title="あとり">あとり</a></td><td><a href="/As%EF%BC%8FHi_Soundworks" title="As／Hi Soundworks">As／Hi Soundworks</a></td><td>Tr.1/2</td></tr></tbody></table>
+<table><tbody><tr><td><a href="./柊秀雪.md" title="柊秀雪">柊秀雪</a></td><td><a href="./As／Hi_Soundworks.md" title="As／Hi Soundworks">As／Hi Soundworks</a></td><td>Tr.1-3</td></tr></tbody></table>
 
   
- **Instrument**   
+**Vocal**  
 
-<table><tbody><tr><td><a href="./柊秀雪.md" title="柊秀雪">柊秀雪</a></td><td><a href="/As%EF%BC%8FHi_Soundworks" title="As／Hi Soundworks">As／Hi Soundworks</a></td><td>Tr.1-3</td></tr></tbody></table>
+<table><tbody><tr><td><a href="./Atori.md" class="mw-redirect" title="あとり">あとり</a></td><td><a href="./As／Hi_Soundworks.md" title="As／Hi Soundworks">As／Hi Soundworks</a></td><td>Tr.1/2</td></tr></tbody></table>
 
+  
+**Instrument**  
+
+<table><tbody><tr><td><a href="./柊秀雪.md" title="柊秀雪">柊秀雪</a></td><td><a href="./As／Hi_Soundworks.md" title="As／Hi Soundworks">As／Hi Soundworks</a></td><td>Tr.1-3</td></tr></tbody></table>
 
 
 ## 试听
@@ -39,19 +36,14 @@ Utopia e.p.（同人专辑，第九分岐点，As／Hi Soundworks，2019） - 20
 见[Twitter](https://twitter.com/AsHiSoundworks/status/1194039603185012736)。
   
 
-
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="サナトリウムへ行こうよ" colspan="2" class="title">サナトリウムへ行こうよ<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=柊秀雪&amp;vocal=あとり&amp;ogmusic=緑のサナトリウム&amp;fromwiki=Utopia_e.p."><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./柊秀雪.md" title="柊秀雪">柊秀雪</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，柊秀雪&amp;fromwiki=Utopia_e.p."><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">和声</td><td class="text" colspan="2"><a href="./あとり.md" class="mw-redirect" title="あとり">あとり</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=あとり&amp;fromwiki=Utopia_e.p."><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演奏</td><td class="text" colspan="2">Keyboard：<a href="./柊秀雪.md" title="柊秀雪">柊秀雪</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=緑のサナトリウム&amp;fromwiki=Utopia_e.p."><span></span></a></span><div class="ogmusic"><a href="./緑のサナトリウム.md" class="mw-redirect" title="緑のサナトリウム">緑のサナトリウム</a></div><div class="source"><a href="./伊奘诺物质_～_Neo-traditionalism_of_Japan..md" class="mw-redirect" title="伊奘诺物质 ～ Neo-traditionalism of Japan.">伊奘诺物质　～ Neo-traditionalism of Japan.</a></div></td></tr>
-<tr><td id="2" class="infoRD"><b>02</b></td><td id="Utopia" colspan="2" class="title"><span class="new" title="（歌词页面不存在）"><a href="/index.php?title=%E6%AD%8C%E8%AF%8D:Utopia&amp;boilerplate=模板:页面模板/曲目歌词&amp;action=edit">Utopia</a></span><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=柊秀雪&amp;vocal=あとり，あとり&amp;ogmusic=未知の花 魅知の旅&amp;fromwiki=Utopia_e.p."><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./柊秀雪.md" title="柊秀雪">柊秀雪</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，柊秀雪&amp;fromwiki=Utopia_e.p."><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="./あとり.md" class="mw-redirect" title="あとり">あとり</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=あとり&amp;fromwiki=Utopia_e.p."><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">和声</td><td class="text" colspan="2"><a href="./あとり.md" class="mw-redirect" title="あとり">あとり</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=あとり&amp;fromwiki=Utopia_e.p."><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演奏</td><td class="text" colspan="2">Keyboard：<a href="./柊秀雪.md" title="柊秀雪">柊秀雪</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=未知の花 魅知の旅&amp;fromwiki=Utopia_e.p."><span></span></a></span><div class="ogmusic"><a href="./未知の花_魅知の旅.md" class="mw-redirect" title="未知の花 魅知の旅">未知の花 魅知の旅</a></div><div class="source"><a href="./未知之花_魅知之旅.md" title="未知之花 魅知之旅">未知之花 魅知之旅</a></div></td></tr>
-<tr><td id="3" class="infoYD"><b>03</b></td><td id="暁光_Op.13-1" colspan="2" class="title">暁光 Op.13-1<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=柊秀雪&amp;ogmusic=感情の摩天楼　～ Cosmic Mind&amp;fromwiki=Utopia_e.p."><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./柊秀雪.md" title="柊秀雪">柊秀雪</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，柊秀雪&amp;fromwiki=Utopia_e.p."><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演奏</td><td class="text" colspan="2">Piano：<a href="./柊秀雪.md" title="柊秀雪">柊秀雪</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=感情の摩天楼　～ Cosmic Mind&amp;fromwiki=Utopia_e.p."><span></span></a></span><div class="ogmusic"><a href="./感情の摩天楼_～_Cosmic_Mind.md" class="mw-redirect" title="感情の摩天楼 ～ Cosmic Mind">感情の摩天楼　～ Cosmic Mind</a></div><div class="source"><a href="./鸟船遗迹_～_Trojan_Green_Asteroid.md" class="mw-redirect" title="鸟船遗迹 ～ Trojan Green Asteroid">鸟船遗迹　～ Trojan Green Asteroid</a></div></td></tr></tbody></table>
-
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="サナトリウムへ行こうよ" colspan="2" class="title">サナトリウムへ行こうよ</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./柊秀雪.md" title="柊秀雪">柊秀雪</a></td></tr><tr><td class="left"></td><td class="label">和声</td><td class="text" colspan="2"><a href="./Atori.md" class="mw-redirect" title="あとり">あとり</a></td></tr><tr><td class="left"></td><td class="label">演奏</td><td class="text" colspan="2">Keyboard：<a href="./柊秀雪.md" title="柊秀雪">柊秀雪</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./绿意盎然的疗养院.md" class="mw-redirect" title="緑のサナトリウム">緑のサナトリウム</a></div><div class="source"><a href="./伊奘诺物质.md" class="mw-redirect" title="伊奘诺物质 ～ Neo-traditionalism of Japan.">伊奘诺物质　～ Neo-traditionalism of Japan.</a></div></td></tr>
+<tr><td id="2" class="infoRD"><b>02</b></td><td id="Utopia" colspan="2" class="title"><span class="new" title="（歌词页面不存在）"><a>Utopia</a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./柊秀雪.md" title="柊秀雪">柊秀雪</a></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="./Atori.md" class="mw-redirect" title="あとり">あとり</a></td></tr><tr><td class="left"></td><td class="label">和声</td><td class="text" colspan="2"><a href="./Atori.md" class="mw-redirect" title="あとり">あとり</a></td></tr><tr><td class="left"></td><td class="label">演奏</td><td class="text" colspan="2">Keyboard：<a href="./柊秀雪.md" title="柊秀雪">柊秀雪</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./未知之花_魅知之旅（曲目）.md" class="mw-redirect" title="未知の花 魅知の旅">未知の花 魅知の旅</a></div><div class="source"><a href="./未知之花_魅知之旅.md" title="未知之花 魅知之旅">未知之花 魅知之旅</a></div></td></tr>
+<tr><td id="3" class="infoYD"><b>03</b></td><td id="暁光_Op.13-1" colspan="2" class="title">暁光 Op.13-1</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./柊秀雪.md" title="柊秀雪">柊秀雪</a></td></tr><tr><td class="left"></td><td class="label">演奏</td><td class="text" colspan="2">Piano：<a href="./柊秀雪.md" title="柊秀雪">柊秀雪</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./感情的摩天楼_～_Cosmic_Mind.md" class="mw-redirect" title="感情の摩天楼 ～ Cosmic Mind">感情の摩天楼　～ Cosmic Mind</a></div><div class="source"><a href="./鸟船遗迹.md" class="mw-redirect" title="鸟船遗迹 ～ Trojan Green Asteroid">鸟船遗迹　～ Trojan Green Asteroid</a></div></td></tr></tbody></table>
 
 
 ## 评论
-
-
-
 
 ---
 

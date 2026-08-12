@@ -1,6 +1,6 @@
 # 文件:Destructive_Destination封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6c\ns6%3ADestructive_Destination%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6c\ns6%3ADestructive_Destination%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 もぱた。 | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Destructive Destination](./Destructive_Destination.md)  
-该封面包含的角色：- [哆来咪·苏伊特](./哆来咪·苏伊特.md)
-
-
-
+- [Destructive Destination](./Destructive_Destination.md)该封面包含的角色：
+- [哆来咪·苏伊特](./哆来咪·苏伊特.md)
 
 
 ---

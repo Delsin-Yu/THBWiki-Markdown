@@ -1,6 +1,6 @@
 # 文件:Splendid封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3b\ns6%3ASplendid%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3b\ns6%3ASplendid%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 幻華楽
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Splendid](./Splendid.md)  
-该封面包含的角色：- [古明地觉](./古明地觉.md)
+- [Splendid](./Splendid.md)该封面包含的角色：
+- [古明地觉](./古明地觉.md)
 
   
-源地址：[[1]](https://pic.xiami.net/images/album/img59/23/5c0ddc9f84aa6_1184059_1544412319.png)
-  
-
-
-
-
+源地址：[\[1\]](https://pic.xiami.net/images/album/img59/23/5c0ddc9f84aa6_1184059_1544412319.png)  
 
 ---
 

@@ -1,16 +1,12 @@
 # 文件:FISH5.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\23\ns6%3AFISH5%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\23\ns6%3AFISH5%2Epng.html -->
 
 喵玉殿技术部 | 社团LOGO
 
   
 喵玉殿技术部2019版
   
-
-
-
-
 
 ---
 

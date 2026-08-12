@@ -1,6 +1,6 @@
 # 文件:Kokoro_Edition封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0d\ns6%3AKokoro_Edition%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0d\ns6%3AKokoro_Edition%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 緒縁場
 
@@ -10,11 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Kokoro Edition](./Kokoro_Edition.md)  
-该封面包含的角色：- [秦心](./秦心.md)- [依神女苑](./依神女苑.md)- [埴安神袿姬](./埴安神袿姬.md)- [杖刀偶磨弓](./杖刀偶磨弓.md)
-
-
-
+- [Kokoro Edition](./Kokoro_Edition.md)该封面包含的角色：
+- [秦心](./秦心.md)
+- [依神女苑](./依神女苑.md)
+- [埴安神袿姬](./埴安神袿姬.md)
+- [杖刀偶磨弓](./杖刀偶磨弓.md)
 
 
 ---

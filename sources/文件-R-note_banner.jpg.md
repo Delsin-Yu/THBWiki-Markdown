@@ -1,12 +1,8 @@
 # 文件:R-note_banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5e\ns6%3AR-note_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5e\ns6%3AR-note_banner%2Ejpg.html -->
 
 R-note | 社团LOGO
-
-
-
-
 
 
 ---

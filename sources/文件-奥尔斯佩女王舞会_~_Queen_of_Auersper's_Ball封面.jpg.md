@@ -1,6 +1,6 @@
 # 文件:奥尔斯佩女王舞会_~_Queen_of_Auersper's_Ball封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c1\ns6%3A%E5%A5%A5%E5%B0%94%E6%96%AF%E4%BD%A9%E5%A5%B3%E7%8E%8B%E8%88%9E%E4%BC%9A_%7E_Queen_of_Auersper%27s_Ball%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c1\ns6%3A%E5%A5%A5%E5%B0%94%E6%96%AF%E4%BD%A9%E5%A5%B3%E7%8E%8B%E8%88%9E%E4%BC%9A_%7E_Queen_of_Auersper%27s_Ball%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 东方祈华梦制作组 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [奥尔斯佩女王舞会 ~ Queen of Auersper's Ball](./奥尔斯佩女王舞会_~_Queen_of_Auersper's_Ball.md)  
-该封面包含的角色：- [玛格丽特·勒夏](./玛格丽特·勒夏.md)
-
-
-
+- [奥尔斯佩女王舞会 ~ Queen of Auersper's Ball](./奥尔斯佩女王舞会_~_Queen_of_Auersper's_Ball.md)该封面包含的角色：
+- [玛格丽特·勒夏](./玛格丽特·勒夏.md)
 
 
 ---

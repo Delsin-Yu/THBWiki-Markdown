@@ -1,12 +1,8 @@
 # 文件:剑木德伪ZUN绘.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3c\ns6%3A%E5%89%91%E6%9C%A8%E5%BE%B7%E4%BC%AAZUN%E7%BB%98%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3c\ns6%3A%E5%89%91%E6%9C%A8%E5%BE%B7%E4%BC%AAZUN%E7%BB%98%2Ejpg.html -->
 
 二次角色立绘 | 剑木德 | 尹棱DANE
-
-
-
-
 
 
 ---

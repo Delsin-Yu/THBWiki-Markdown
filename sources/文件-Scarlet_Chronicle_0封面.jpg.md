@@ -1,6 +1,6 @@
 # 文件:Scarlet_Chronicle_0封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2c\ns6%3AScarlet_Chronicle_0%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2c\ns6%3AScarlet_Chronicle_0%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 すいはんじゃー | 同人志封面 | 封面图片
 
@@ -10,16 +10,13 @@
 使用了本文件作封面图片的作品：
   
 
-- [Scarlet Chronicle 0](./Scarlet_Chronicle_0.md)  
-该封面包含的角色：- [小恶魔](./小恶魔.md)- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [Scarlet Chronicle 0](./Scarlet_Chronicle_0.md)该封面包含的角色：
+- [小恶魔](./小恶魔.md)
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
   
-源地址：[direct image link](http://suihanjar.web.fc2.com/SC.jpg), [source page](http://suihanjar.web.fc2.com/C84.html)
-  
-
-
-
-
+源地址：[direct image link](http://suihanjar.web.fc2.com/SC.jpg), [source page](http://suihanjar.web.fc2.com/C84.html)  
 
 ---
 

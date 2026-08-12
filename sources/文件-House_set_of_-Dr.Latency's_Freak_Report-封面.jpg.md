@@ -1,6 +1,6 @@
 # 文件:House_set_of_"Dr.Latency's_Freak_Report"封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\32\ns6%3AHouse_set_of_%22Dr%2ELatency%27s_Freak_Report%22%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\32\ns6%3AHouse_set_of_%22Dr%2ELatency%27s_Freak_Report%22%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 クロネコラウンジ | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@
   
 
 - [House set of "Dr.Latency's Freak Report"](./House_set_of_-Dr.Latency's_Freak_Report-.md)
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Special_instrumental（幽闭星光）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\08\ns6%3ASpecial_instrumental%EF%BC%88%E5%B9%BD%E9%97%AD%E6%98%9F%E5%85%89%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\08\ns6%3ASpecial_instrumental%EF%BC%88%E5%B9%BD%E9%97%AD%E6%98%9F%E5%85%89%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 幽闭星光
 
@@ -9,9 +9,6 @@
   
 
 - [Special instrumental（幽闭星光）](./Special_instrumental（幽闭星光）.md)
-
-
-
 
 
 ---

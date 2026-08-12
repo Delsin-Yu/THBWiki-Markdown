@@ -1,12 +1,8 @@
 # 文件:THOUSAND_LEAVES_banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\89\ns6%3ATHOUSAND_LEAVES_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\89\ns6%3ATHOUSAND_LEAVES_banner%2Ejpg.html -->
 
 THOUSAND_LEAVES | 社团LOGO
-
-
-
-
 
 
 ---

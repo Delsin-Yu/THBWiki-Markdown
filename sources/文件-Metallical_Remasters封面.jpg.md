@@ -1,6 +1,6 @@
 # 文件:Metallical_Remasters封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5f\ns6%3AMetallical_Remasters%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5f\ns6%3AMetallical_Remasters%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 SOUND_HOLIC | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ SOUND_HOLIC | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Metallical Remasters](./Metallical_Remasters.md)  
-该封面包含的角色：- [埴安神袿姬](./埴安神袿姬.md)
-
-
-
+- [Metallical Remasters](./Metallical_Remasters.md)该封面包含的角色：
+- [埴安神袿姬](./埴安神袿姬.md)
 
 
 ---

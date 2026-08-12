@@ -1,12 +1,8 @@
 # 文件:GoM插图（虹川-1-3）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\ba\ns6%3AGoM%E6%8F%92%E5%9B%BE%EF%BC%88%E8%99%B9%E5%B7%9D-1-3%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\ba\ns6%3AGoM%E6%8F%92%E5%9B%BE%EF%BC%88%E8%99%B9%E5%B7%9D-1-3%EF%BC%89%2Ejpg.html -->
 
 普莉兹姆利巴三姐妹 | 魔理沙的魔法书
-
-
-
-
 
 
 ---

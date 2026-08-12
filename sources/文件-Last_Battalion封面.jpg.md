@@ -1,6 +1,6 @@
 # 文件:Last_Battalion封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d0\ns6%3ALast_Battalion%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d0\ns6%3ALast_Battalion%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 The_Last_Battalion | 专辑封面 | 封面图片
 
@@ -8,16 +8,12 @@ The_Last_Battalion | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Last Battalion](./Last_Battalion.md)  
-该封面包含的角色：- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
+- [Last Battalion](./Last_Battalion.md)该封面包含的角色：
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
 
   
 源地址:http:// thelastbattalion.web.fc2.com/img/demo400. jpg
   
-
-
-
-
 
 ---
 

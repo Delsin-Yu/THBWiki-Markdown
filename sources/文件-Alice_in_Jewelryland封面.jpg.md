@@ -1,6 +1,6 @@
 # 文件:Alice_in_Jewelryland封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b9\ns6%3AAlice_in_Jewelryland%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b9\ns6%3AAlice_in_Jewelryland%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 少女理論観測所
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Alice in Jewelryland](./Alice_in_Jewelryland.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [Alice in Jewelryland](./Alice_in_Jewelryland.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
 
   
-源地址：[[1]](http://girlslogic.xxxxxxxx.jp/ajjacket.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://girlslogic.xxxxxxxx.jp/ajjacket.jpg)  
 
 ---
 

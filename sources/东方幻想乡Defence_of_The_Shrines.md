@@ -1,12 +1,11 @@
 # 东方幻想乡Defence_of_The_Shrines
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\f1\ns0%3A%E4%B8%9C%E6%96%B9%E5%B9%BB%E6%83%B3%E4%B9%A1Defence_of_The_Shrines.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\f1\ns0%3A%E4%B8%9C%E6%96%B9%E5%B9%BB%E6%83%B3%E4%B9%A1Defence_of_The_Shrines.html -->
 
 2008年11月27日 由 东方DOTS制作组  发布的MOBA同人游戏，可在 Windows 系统上运行，游戏人数为 双人模式，单人模式，，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人软件 (未找到链接)** 的词条
-
+**[二次创作同人软件](./二次创作.md#同人软件)**的词条
 ## 目录
 
 - [1 软件信息](#软件信息)
@@ -14,9 +13,6 @@
 - [3 Staff](#Staff)
 - [4 内容页面](#内容页面)
 - [5 评论](#评论)
-
-
-
 
 
 ## 软件信息
@@ -27,31 +23,22 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://my-card.in/thd">https://my-card.in/thd</a></td></tr></tbody></table>
 
 东方幻想乡Defence of The Shrines（同人游戏，东方DOTS制作组，2008） - 2008年11月27日 由 东方DOTS制作组  发布的MOBA同人游戏，可在 Windows 系统上运行，游戏人数为 双人模式，单人模式，，分级为 一般向
-  
-  
-
-  
-
-
 <table>
 <tbody><tr><th colspan="2">配置需求</th></tr>
 <tr><td style="width:120px;padding-left:7px;"><b>操作系统</b></td><td>WINDOWS</td></tr><tr><td style="width:120px;padding-left:7px;"><b>CPU</b></td><td>400 MHz Pentium II或同档次CPU、G3处理器或更高</td></tr><tr><td style="width:120px;padding-left:7px;"><b>内存</b></td><td>256 MB</td></tr><tr><td style="width:120px;padding-left:7px;"><b>显示卡</b></td><td>256MB</td></tr><tr><td style="width:120px;padding-left:7px;"><b>硬盘需求</b></td><td>1.2GB</td></tr>
 </tbody></table>
 
 
-
 ## 简介
   
-基于 **魔兽争霸3** 的自定义地图。  
+基于**魔兽争霸3**的自定义地图。  
 
 魔兽争霸3为暴雪娱乐公司出品的游戏，其支持高度自定义的自制地图，因此产生了大量以魔兽争霸3为平台的自制地图游戏。
   
 
-
 ## Staff
   
- **因内容过长已新建页面** 
-  
+**因内容过长已新建页面**  
 
 - [东方DOTS制作组](./东方DOTS制作组.md)
 - 红魔馆茶会 (未找到链接)
@@ -59,15 +46,13 @@
 
 
 ## 内容页面
+
 - [游戏设定](./东方幻想乡Defence_of_The_Shrines-设定.md)
 - 攻略 (未找到链接)
 - 其他信息 (未找到链接)
 
 
 ## 评论
-
-
-
 
 ---
 

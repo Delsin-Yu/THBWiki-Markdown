@@ -1,6 +1,6 @@
 # 文件:T.H.0105_～閃光のエリーニュス～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\39\ns6%3AT%2EH%2E0105_%EF%BD%9E%E9%96%83%E5%85%89%E3%81%AE%E3%82%A8%E3%83%AA%E3%83%BC%E3%83%8B%E3%83%A5%E3%82%B9%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\39\ns6%3AT%2EH%2E0105_%EF%BD%9E%E9%96%83%E5%85%89%E3%81%AE%E3%82%A8%E3%83%AA%E3%83%BC%E3%83%8B%E3%83%A5%E3%82%B9%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 武器櫃
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [T.H.0105 ～閃光のエリーニュス～](./T.H.0105_～閃光のエリーニュス～.md)  
-该封面包含的角色：- [纯狐](./纯狐.md)
-
-
-
+- [T.H.0105 ～閃光のエリーニュス～](./T.H.0105_～閃光のエリーニュス～.md)该封面包含的角色：
+- [纯狐](./纯狐.md)
 
 
 ---

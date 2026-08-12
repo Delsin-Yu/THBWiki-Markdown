@@ -1,18 +1,13 @@
 # 文件:OG-G_Music_Worksbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\43\ns6%3AOG-G_Music_Worksbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\43\ns6%3AOG-G_Music_Worksbanner%2Epng.html -->
 
 OG-G_Music_Works | 社团LOGO
 
 
 ## 摘要
   
-源地址：[direct image link](https://web.archive.org/web/20140829073132im_/http://www14.ocn.ne.jp/~kokusan/O.M.W/img/banner.png), [source page](https://web.archive.org/web/20091224214331/http://www14.ocn.ne.jp/~kokusan/O.M.W/)
-  
-
-
-
-
+源地址：[direct image link](https://web.archive.org/web/20140829073132im_/http://www14.ocn.ne.jp/~kokusan/O.M.W/img/banner.png), [source page](https://web.archive.org/web/20091224214331/http://www14.ocn.ne.jp/~kokusan/O.M.W/)  
 
 ---
 

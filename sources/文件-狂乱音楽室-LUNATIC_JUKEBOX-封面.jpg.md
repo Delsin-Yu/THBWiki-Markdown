@@ -1,6 +1,6 @@
 # 文件:狂乱音楽室-LUNATIC_JUKEBOX-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\03\ns6%3A%E7%8B%82%E4%B9%B1%E9%9F%B3%E6%A5%BD%E5%AE%A4-LUNATIC_JUKEBOX-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\03\ns6%3A%E7%8B%82%E4%B9%B1%E9%9F%B3%E6%A5%BD%E5%AE%A4-LUNATIC_JUKEBOX-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 SULFURIC_ACID_PRODUCT | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ SULFURIC_ACID_PRODUCT | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [狂乱音楽室-LUNATIC JUKEBOX-](./狂乱音楽室-LUNATIC_JUKEBOX-.md)  
-该封面包含的角色：- [古明地恋](./古明地恋.md)
-
-
-
+- [狂乱音楽室-LUNATIC JUKEBOX-](./狂乱音楽室-LUNATIC_JUKEBOX-.md)该封面包含的角色：
+- [古明地恋](./古明地恋.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:东方游车映写_～_Flying_Heart_Way3.0封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fb\ns6%3A%E4%B8%9C%E6%96%B9%E6%B8%B8%E8%BD%A6%E6%98%A0%E5%86%99_%EF%BD%9E_Flying_Heart_Way3%2E0%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fb\ns6%3A%E4%B8%9C%E6%96%B9%E6%B8%B8%E8%BD%A6%E6%98%A0%E5%86%99_%EF%BD%9E_Flying_Heart_Way3%2E0%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 幻想乡键盘规划院
 
@@ -9,11 +9,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [东方游车映写 ～ Flying Heart Way3.0](./东方游车映写_～_Flying_Heart_Way3.0.md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)- [西行寺幽幽子](./西行寺幽幽子.md)
-
-
-
+- [东方游车映写 ～ Flying Heart Way3.0](./东方游车映写_～_Flying_Heart_Way3.0.md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
+- [西行寺幽幽子](./西行寺幽幽子.md)
 
 
 ---

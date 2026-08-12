@@ -1,14 +1,11 @@
 # 文件:ClumsyRecordlogo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\54\ns6%3AClumsyRecordlogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\54\ns6%3AClumsyRecordlogo%2Ejpg.html -->
 
 ClumsyRecord | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

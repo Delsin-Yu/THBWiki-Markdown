@@ -1,6 +1,6 @@
 # 文件:カワズガタリ_e.p.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6e\ns6%3A%E3%82%AB%E3%83%AF%E3%82%BA%E3%82%AC%E3%82%BF%E3%83%AA_e%2Ep%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6e\ns6%3A%E3%82%AB%E3%83%AF%E3%82%BA%E3%82%AC%E3%82%BF%E3%83%AA_e%2Ep%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Wonder_Girl_Syndrome | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ Wonder_Girl_Syndrome | 专辑封面 | 封面图片
   
 
 - [カワズガタリ e.p.](./カワズガタリ_e.p..md)
-
-
-
 
 
 ---

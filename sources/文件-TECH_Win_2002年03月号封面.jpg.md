@@ -1,12 +1,8 @@
 # 文件:TECH_Win_2002年03月号封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\87\ns6%3ATECH_Win_2002%E5%B9%B403%E6%9C%88%E5%8F%B7%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\87\ns6%3ATECH_Win_2002%E5%B9%B403%E6%9C%88%E5%8F%B7%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 稀翁玉
-
-
-
-
 
 
 ---

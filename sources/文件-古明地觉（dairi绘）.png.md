@@ -1,12 +1,8 @@
 # 文件:古明地觉（dairi绘）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a6\ns6%3A%E5%8F%A4%E6%98%8E%E5%9C%B0%E8%A7%89%EF%BC%88dairi%E7%BB%98%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a6\ns6%3A%E5%8F%A4%E6%98%8E%E5%9C%B0%E8%A7%89%EF%BC%88dairi%E7%BB%98%EF%BC%89%2Epng.html -->
 
 NooblyPerson | 二次角色立绘 | 古明地觉（天陨梦）
-
-
-
-
 
 
 ---

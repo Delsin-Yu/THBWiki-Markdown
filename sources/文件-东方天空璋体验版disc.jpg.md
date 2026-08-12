@@ -1,12 +1,8 @@
 # 文件:东方天空璋体验版disc.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d4\ns6%3A%E4%B8%9C%E6%96%B9%E5%A4%A9%E7%A9%BA%E7%92%8B%E4%BD%93%E9%AA%8C%E7%89%88disc%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d4\ns6%3A%E4%B8%9C%E6%96%B9%E5%A4%A9%E7%A9%BA%E7%92%8B%E4%BD%93%E9%AA%8C%E7%89%88disc%2Ejpg.html -->
 
 东方天空璋 | 官方游戏体验版光盘扫图
-
-
-
-
 
 
 ---

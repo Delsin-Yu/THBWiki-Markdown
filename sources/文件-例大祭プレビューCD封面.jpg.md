@@ -1,6 +1,6 @@
 # 文件:例大祭プレビューCD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\59\ns6%3A%E4%BE%8B%E5%A4%A7%E7%A5%AD%E3%83%97%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BCCD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\59\ns6%3A%E4%BE%8B%E5%A4%A7%E7%A5%AD%E3%83%97%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BCCD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 PhantomMist | 专辑封面 | 封面图片
 
@@ -10,11 +10,9 @@ PhantomMist | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [例大祭プレビューCD](./例大祭プレビューCD.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [丰聪耳神子](./丰聪耳神子.md)
-
-
-
+- [例大祭プレビューCD](./例大祭プレビューCD.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [丰聪耳神子](./丰聪耳神子.md)
 
 
 ---

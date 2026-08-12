@@ -1,12 +1,8 @@
 # 文件:刻刻音樂館banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d9\ns6%3A%E5%88%BB%E5%88%BB%E9%9F%B3%E6%A8%82%E9%A4%A8banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d9\ns6%3A%E5%88%BB%E5%88%BB%E9%9F%B3%E6%A8%82%E9%A4%A8banner%2Egif.html -->
 
 刻刻音樂館 | 社团LOGO
-
-
-
-
 
 
 ---

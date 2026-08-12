@@ -1,12 +1,8 @@
 # 文件:妖蛾子军团banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a0\ns6%3A%E5%A6%96%E8%9B%BE%E5%AD%90%E5%86%9B%E5%9B%A2banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a0\ns6%3A%E5%A6%96%E8%9B%BE%E5%AD%90%E5%86%9B%E5%9B%A2banner%2Ejpg.html -->
 
 妖蛾子军团 | 社团LOGO
-
-
-
-
 
 
 ---

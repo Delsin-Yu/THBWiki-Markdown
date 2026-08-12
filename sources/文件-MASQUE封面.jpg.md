@@ -1,6 +1,6 @@
 # 文件:MASQUE封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5b\ns6%3AMASQUE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5b\ns6%3AMASQUE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 マホトア豆腐店 | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [MASQUE](./MASQUE.md)  
-该封面包含的角色：- [秦心](./秦心.md)
+- [MASQUE](./MASQUE.md)该封面包含的角色：
+- [秦心](./秦心.md)
 
   
-源地址：[[1]](https://s.booth.pm/6f09668c-a7ea-43bd-884a-cca90d0747a2/i/353993/e90381d5-b9cc-4724-beaf-37af3ff76010_base_resized.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://s.booth.pm/6f09668c-a7ea-43bd-884a-cca90d0747a2/i/353993/e90381d5-b9cc-4724-beaf-37af3ff76010_base_resized.jpg)  
 
 ---
 

@@ -1,12 +1,8 @@
 # 文件:THD2龙星.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\61\ns6%3ATHD2%E9%BE%99%E6%98%9F%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\61\ns6%3ATHD2%E9%BE%99%E6%98%9F%2Epng.html -->
 
 THD2
-
-
-
-
 
 
 ---

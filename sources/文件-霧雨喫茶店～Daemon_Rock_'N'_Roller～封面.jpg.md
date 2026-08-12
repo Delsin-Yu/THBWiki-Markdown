@@ -1,6 +1,6 @@
 # 文件:霧雨喫茶店～Daemon_Rock_'N'_Roller～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7f\ns6%3A%E9%9C%A7%E9%9B%A8%E5%96%AB%E8%8C%B6%E5%BA%97%EF%BD%9EDaemon_Rock_%27N%27_Roller%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7f\ns6%3A%E9%9C%A7%E9%9B%A8%E5%96%AB%E8%8C%B6%E5%BA%97%EF%BD%9EDaemon_Rock_%27N%27_Roller%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Stardust.Memories | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ Stardust.Memories | 专辑封面 | 封面图片
   
 
 - [霧雨喫茶店～Daemon Rock 'N' Roller～](./霧雨喫茶店～Daemon_Rock_'N'_Roller～.md)
-
-
-
 
 
 ---

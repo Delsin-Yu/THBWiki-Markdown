@@ -1,12 +1,8 @@
 # 文件:宿怨「Gorge_Riser」（兽王园）-2.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7f\ns6%3A%E5%AE%BF%E6%80%A8%E3%80%8CGorge_Riser%E3%80%8D%EF%BC%88%E5%85%BD%E7%8E%8B%E5%9B%AD%EF%BC%89-2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7f\ns6%3A%E5%AE%BF%E6%80%A8%E3%80%8CGorge_Riser%E3%80%8D%EF%BC%88%E5%85%BD%E7%8E%8B%E5%9B%AD%EF%BC%89-2%2Epng.html -->
 
 东方兽王园 | 自机符卡 | 饕餮尤魔
-
-
-
-
 
 
 ---

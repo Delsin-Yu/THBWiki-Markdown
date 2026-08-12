@@ -1,6 +1,6 @@
 # 文件:Dream_Blossom_2nd封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3a\ns6%3ADream_Blossom_2nd%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3a\ns6%3ADream_Blossom_2nd%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Rolling_Contact | 专辑封面 | 封面图片
 
@@ -8,11 +8,22 @@ Rolling_Contact | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Dream Blossom 2nd](./Dream_Blossom_2nd.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [橙](./橙.md)- [八云蓝](./八云蓝.md)- [八云紫](./八云紫.md)- [射命丸文](./射命丸文.md)- [永江衣玖](./永江衣玖.md)- [比那名居天子](./比那名居天子.md)- [东风谷早苗](./东风谷早苗.md)- [八坂神奈子](./八坂神奈子.md)- [洩矢诹访子](./洩矢诹访子.md)- [古明地觉](./古明地觉.md)- [火焰猫燐](./火焰猫燐.md)- [灵乌路空](./灵乌路空.md)- [古明地恋](./古明地恋.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [Dream Blossom 2nd](./Dream_Blossom_2nd.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [橙](./橙.md)
+- [八云蓝](./八云蓝.md)
+- [八云紫](./八云紫.md)
+- [射命丸文](./射命丸文.md)
+- [永江衣玖](./永江衣玖.md)
+- [比那名居天子](./比那名居天子.md)
+- [东风谷早苗](./东风谷早苗.md)
+- [八坂神奈子](./八坂神奈子.md)
+- [洩矢诹访子](./洩矢诹访子.md)
+- [古明地觉](./古明地觉.md)
+- [火焰猫燐](./火焰猫燐.md)
+- [灵乌路空](./灵乌路空.md)
+- [古明地恋](./古明地恋.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

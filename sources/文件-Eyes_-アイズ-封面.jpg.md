@@ -1,6 +1,6 @@
 # 文件:Eyes_-アイズ-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9c\ns6%3AEyes_-%E3%82%A2%E3%82%A4%E3%82%BA-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9c\ns6%3AEyes_-%E3%82%A2%E3%82%A4%E3%82%BA-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 彩音_～xi-on～
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [Eyes -アイズ-](./Eyes_-アイズ-.md)  
-该封面包含的角色：- [古明地觉](./古明地觉.md)- [古明地恋](./古明地恋.md)
-
-
-
+- [Eyes -アイズ-](./Eyes_-アイズ-.md)该封面包含的角色：
+- [古明地觉](./古明地觉.md)
+- [古明地恋](./古明地恋.md)
 
 
 ---

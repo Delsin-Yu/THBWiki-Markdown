@@ -1,6 +1,6 @@
 # 文件:幻夢星演-A_Magic_show_for_You封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f1\ns6%3A%E5%B9%BB%E5%A4%A2%E6%98%9F%E6%BC%94-A_Magic_show_for_You%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f1\ns6%3A%E5%B9%BB%E5%A4%A2%E6%98%9F%E6%BC%94-A_Magic_show_for_You%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 FUN_webjectF | 专辑封面 | 封面图片
 
@@ -10,11 +10,9 @@ FUN_webjectF | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [幻夢星演-A Magic show for You](./幻夢星演-A_Magic_show_for_You.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [幻夢星演-A Magic show for You](./幻夢星演-A_Magic_show_for_You.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

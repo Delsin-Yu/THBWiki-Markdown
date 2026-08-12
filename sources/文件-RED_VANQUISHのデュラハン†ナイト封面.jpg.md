@@ -1,6 +1,6 @@
 # 文件:RED_VANQUISHのデュラハン†ナイト封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9d\ns6%3ARED_VANQUISH%E3%81%AE%E3%83%87%E3%83%A5%E3%83%A9%E3%83%8F%E3%83%B3%E2%80%A0%E3%83%8A%E3%82%A4%E3%83%88%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9d\ns6%3ARED_VANQUISH%E3%81%AE%E3%83%87%E3%83%A5%E3%83%A9%E3%83%8F%E3%83%B3%E2%80%A0%E3%83%8A%E3%82%A4%E3%83%88%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 苦笑邸
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [RED VANQUISHのデュラハン†ナイト](./RED_VANQUISHのデュラハン†ナイト.md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)- [赤蛮奇](./赤蛮奇.md)
-
-
-
+- [RED VANQUISHのデュラハン†ナイト](./RED_VANQUISHのデュラハン†ナイト.md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
+- [赤蛮奇](./赤蛮奇.md)
 
 
 ---

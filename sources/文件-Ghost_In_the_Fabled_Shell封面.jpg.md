@@ -1,6 +1,6 @@
 # 文件:Ghost_In_the_Fabled_Shell封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\30\ns6%3AGhost_In_the_Fabled_Shell%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\30\ns6%3AGhost_In_the_Fabled_Shell%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Dia_Schisma | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@ Dia_Schisma | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Ghost In the Fabled Shell](./Ghost_In_the_Fabled_Shell.md)  
-该封面包含的角色：- [蓬莱人形](./蓬莱人形.md)
+- [Ghost In the Fabled Shell](./Ghost_In_the_Fabled_Shell.md)该封面包含的角色：
+- [蓬莱人形](./蓬莱人形.md)
 
   
-源地址：[direct image link (resized from original because it is super big, and the small version is super small)](http://p2.music.126.net/wAyAsiKnMw11ktV8O6HIhg==/109951167766040116.jpg), [source page](https://music.163.com/#/album?id=149480729)
-  
-
-
-
-
+源地址：[direct image link (resized from original because it is super big, and the small version is super small)](http://p2.music.126.net/wAyAsiKnMw11ktV8O6HIhg==/109951167766040116.jpg), [source page](https://music.163.com/#/album?id=149480729)  
 
 ---
 

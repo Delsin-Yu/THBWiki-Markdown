@@ -1,12 +1,8 @@
 # 文件:东方革金机Stage2标题.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\77\ns6%3A%E4%B8%9C%E6%96%B9%E9%9D%A9%E9%87%91%E6%9C%BAStage2%E6%A0%87%E9%A2%98%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\77\ns6%3A%E4%B8%9C%E6%96%B9%E9%9D%A9%E9%87%91%E6%9C%BAStage2%E6%A0%87%E9%A2%98%2Epng.html -->
 
 旧雨忆梦幻想乐团
-
-
-
-
 
 
 ---

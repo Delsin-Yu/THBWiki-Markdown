@@ -1,18 +1,13 @@
 # 文件:すいはんじゃーlogo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7a\ns6%3A%E3%81%99%E3%81%84%E3%81%AF%E3%82%93%E3%81%98%E3%82%83%E3%83%BClogo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7a\ns6%3A%E3%81%99%E3%81%84%E3%81%AF%E3%82%93%E3%81%98%E3%82%83%E3%83%BClogo%2Epng.html -->
 
 すいはんじゃー | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[direct image link](http://suihanjar.web.fc2.com/image/suilogo.png), [source page](http://suihanjar.web.fc2.com/index.html)
-  
-
-
-
-
+源地址：[direct image link](http://suihanjar.web.fc2.com/image/suilogo.png), [source page](http://suihanjar.web.fc2.com/index.html)  
 
 ---
 

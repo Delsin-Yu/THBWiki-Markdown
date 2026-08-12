@@ -1,16 +1,11 @@
 # 文件:ATMANbanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\df\ns6%3AATMANbanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\df\ns6%3AATMANbanner%2Egif.html -->
 
 ATMAN | 社团LOGO
 
   
-源地址：[[1]](http://mugentou.web.fc2.com/atmanbunner.gif)
-  
-
-
-
-
+源地址：[\[1\]](http://mugentou.web.fc2.com/atmanbunner.gif)  
 
 ---
 

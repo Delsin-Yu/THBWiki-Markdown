@@ -1,6 +1,6 @@
 # 文件:東方Projectで使用されたフォントまとめ封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d9\ns6%3A%E6%9D%B1%E6%96%B9Project%E3%81%A7%E4%BD%BF%E7%94%A8%E3%81%95%E3%82%8C%E3%81%9F%E3%83%95%E3%82%A9%E3%83%B3%E3%83%88%E3%81%BE%E3%81%A8%E3%82%81%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d9\ns6%3A%E6%9D%B1%E6%96%B9Project%E3%81%A7%E4%BD%BF%E7%94%A8%E3%81%95%E3%82%8C%E3%81%9F%E3%83%95%E3%82%A9%E3%83%B3%E3%83%88%E3%81%BE%E3%81%A8%E3%82%81%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ふつうのひと | 同人志封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方Projectで使用されたフォントまとめ](./東方Projectで使用されたフォントまとめ.md)  
-该封面包含的角色：- [稗田阿求](./稗田阿求.md)
-
-
-
+- [東方Projectで使用されたフォントまとめ](./東方Projectで使用されたフォントまとめ.md)该封面包含的角色：
+- [稗田阿求](./稗田阿求.md)
 
 
 ---

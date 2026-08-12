@@ -1,18 +1,16 @@
 # Reincarnation
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\3\34\ns0%3AReincarnation.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\3\34\ns0%3AReincarnation.html -->
 
 由 ZUN 创作的官方曲目，原名 Reincarnation
 
 本页是关于东方Project  
- **原作音乐** 的词条
-
+**原作音乐**的词条
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 出现作品](#出现作品)
 - [3 音乐文件](#音乐文件)
-
   - [3.1 东方梦时空](#东方梦时空)
   - [3.2 东方怪绮谈](#东方怪绮谈)
   - [3.3 东方幻想的音乐](#东方幻想的音乐)
@@ -20,27 +18,19 @@
   - [3.5 幺乐团的历史 vol.4](#幺乐团的历史_vol.4)
 
 
-
 - [4 说明文本](#说明文本)
-
   - [4.1 东方梦时空](#东方梦时空_2)
   - [4.2 东方怪绮谈](#东方怪绮谈_2)
   - [4.3 东方幻想的音乐](#东方幻想的音乐_2)
 
 
-
 - [5 其他资料](#其他资料)
-
   - [5.1 乐理资讯](#乐理资讯)
   - [5.2 分析考据](#分析考据)
   - [5.3 二次同人数据](#二次同人数据)
 
 
-
 - [6 注释](#注释)
-
-
-
 
 
 ## 基本信息
@@ -48,7 +38,6 @@
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">Reincarnation</td></tr><tr><td><b>译名</b></td><td>Reincarnation</td></tr><tr><td><b>其他译名</b></td><td>重生</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 Reincarnation（曲目） - 由 ZUN 创作的官方曲目，原名 Reincarnation
-
 ## 出现作品
 
 <table>
@@ -60,7 +49,6 @@ Reincarnation（曲目） - 由 ZUN 创作的官方曲目，原名 Reincarnation
 </tbody></table>
 
 
-
 ## 音乐文件
 
 ### 东方梦时空
@@ -68,9 +56,7 @@ Reincarnation（曲目） - 由 ZUN 创作的官方曲目，原名 Reincarnation
 YM2608(OPNA)，FM86版。
   
 
-
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th03_04.ogg.md" title="文件:th03 04.ogg">th03_04.ogg</a><br><audio src="https://upload.thwiki.cc/a/ab/th03_04.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>01MM.M</td></tr><tr><td><b>音轨时长</b></td><td>2:41.521</td></tr></tbody></table>
-
 
 
 ### 东方怪绮谈
@@ -78,9 +64,7 @@ YM2608(OPNA)，FM86版。
 YM2608(OPNA)，FM86版。
   
 
-
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th05_Y_04.ogg.md" title="文件:th05 Y 04.ogg">th05_Y_04.ogg</a><br><audio src="https://upload.thwiki.cc/b/bb/th05_Y_04.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>Y_01MM.M</td></tr><tr><td><b>音轨时长</b></td><td>2:41.521</td></tr></tbody></table>
-
 
 
 ### 东方幻想的音乐
@@ -88,11 +72,9 @@ YM2608(OPNA)，FM86版。
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td><a href="./文件-th3_05.mid.md" title="文件:th3 05.mid">th3_05.mid</a></td></tr><tr><td><b>官方MIDI2</b></td><td><a href="./文件-th3_05_8p.mid.md" title="文件:th3 05 8p.mid">th3_05_8p.mid</a></td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th3_05.mp3.md" title="文件:th3 05.mp3">th3_05.mp3</a><br><audio src="https://upload.thwiki.cc/1/15/th3_05.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>th3_05.mid; th3_05_8p.mid</td></tr><tr><td><b>音轨时长</b></td><td>4:13</td></tr></tbody></table>
 
 
-
 ### 蓬莱人形
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-hr01_10.mp3.md" title="文件:hr01 10.mp3">hr01_10.mp3</a><br><audio src="https://upload.thwiki.cc/c/ce/hr01_10.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track10.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>4:25</td></tr></tbody></table>
-
 
 
 ### 幺乐团的历史 vol.4
@@ -100,11 +82,11 @@ YM2608(OPNA)，FM86版。
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-ha04_04.mp3.md" title="文件:ha04 04.mp3">ha04_04.mp3</a><br><audio src="https://upload.thwiki.cc/4/43/ha04_04.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track04.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>3:28</td></tr></tbody></table>
 
 
-
 ## 说明文本
 
 ### 东方梦时空
-- Music Room (未找到链接)
+
+- [Music Room](./东方梦时空-Music.md#魅魔角色曲)
 
 　　　　　　　魅魔的主题曲  
 　　为那些不了解魅魔的人稍作帮助，她可是  
@@ -122,9 +104,9 @@ YM2608(OPNA)，FM86版。
 用于东方梦时空的曲子  
 魅魔大人的主题曲。（预定）  
 是“这里还没、那里也还没”的曲子呢。
-
 ### 东方怪绮谈
-- Music Room (未找到链接)
+
+- [Music Room](./东方怪绮谈-Music.md#魅魔角色曲)
 
 　　魅魔的主题曲  
 　　＊８６兼容音源专用重生  
@@ -132,9 +114,9 @@ YM2608(OPNA)，FM86版。
 用于东方梦时空的曲子  
 魅魔大人的主题曲。（预定）  
 是“这里还没、那里也还没”的曲子呢。
-
 ### 东方幻想的音乐
-- th3_05.txt (未找到链接)
+
+- [th3_05.txt](./东方幻想的音乐-过去的曲子-东方梦时空.md#Reincarnation)
 
 +----------------------------------------------------------------------------+  
 |【　　曲名　　】| 【 Reincarnation 】  
@@ -178,30 +160,33 @@ YM2608(OPNA)，FM86版。
 对乐曲有感想、请求等，请点这里  
 　东方幻想空间　「博丽神社」 [http://www16.big.or.jp/~zun/](http://www16.big.or.jp/~zun/)  
 　e-Mail　　　　　　　　　　 zun@big.or.jp
-
 ## 其他资料
 
 ### 乐理资讯
 
 ### 分析考据
   
- **リーインカーネーション** 
-  
+**リーインカーネーション**  
 轮回
   
 
-- リーインカーネーション
-  - Reincarnation
-    - 轮回，转生
+- リーインカーネーション 
+  - Reincarnation 
+    - 轮回，转生 
       - 魅魔从boss变为自机出现
       - 魅魔没有转生而留在博丽神社
 
-    - 重生
+
+    - 重生 
       - 曲子被用到音乐专辑中
-      - C62版本的故事中，正直者被钉到树木上
+      - C62版本的故事中，正直者被钉到树木上 
         - 基督教中基督被钉死后三天复活
 
+
       - C63版本的故事中，“我”看到和母亲一样的女儿，所以是某种“重生”？
+
+
+
 
 
 
@@ -219,18 +204,6 @@ YM2608(OPNA)，FM86版。
 <tr><td>Arrange</td><td>345</td></tr>
 <tr><td>Vocal率</td><td>28.57%</td></tr>
 </tbody></table>
-
-
-
-
-
-  
-  
-
-  
-
-
-
 
 
 ---

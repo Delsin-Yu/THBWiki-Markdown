@@ -1,6 +1,6 @@
 # 文件:Barrage_Am_Ring_4_Arrange／side封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\10\ns6%3ABarrage_Am_Ring_4_Arrange%EF%BC%8Fside%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\10\ns6%3ABarrage_Am_Ring_4_Arrange%EF%BC%8Fside%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Barrage_Am_Ring | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ Barrage_Am_Ring | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Barrage Am Ring 4 Arrange／side](./Barrage_Am_Ring_4_Arrange／side.md)  
-该封面包含的角色：- [小野塚小町](./小野塚小町.md)- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)
-
-
-
+- [Barrage Am Ring 4 Arrange／side](./Barrage_Am_Ring_4_Arrange／side.md)该封面包含的角色：
+- [小野塚小町](./小野塚小町.md)
+- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)
 
 
 ---

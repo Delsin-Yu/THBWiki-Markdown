@@ -1,6 +1,6 @@
 # 文件:Fragile_Fragrance封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e0\ns6%3AFragile_Fragrance%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e0\ns6%3AFragile_Fragrance%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 家主はJanus | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Fragile Fragrance](./Fragile_Fragrance.md)  
-该封面包含的角色：- [二岩猯藏](./二岩猯藏.md)
-
-
-
+- [Fragile Fragrance](./Fragile_Fragrance.md)该封面包含的角色：
+- [二岩猯藏](./二岩猯藏.md)
 
 
 ---

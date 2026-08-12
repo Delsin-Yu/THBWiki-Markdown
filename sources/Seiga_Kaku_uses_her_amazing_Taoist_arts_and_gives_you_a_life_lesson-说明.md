@@ -1,6 +1,6 @@
 # Seiga_Kaku_uses_her_amazing_Taoist_arts_and_gives_you_a_life_lesson/说明
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\61\ns0%3ASeiga_Kaku_uses_her_amazing_Taoist_arts_and_gives_you_a_life_lesson%2F%E8%AF%B4%E6%98%8E.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\61\ns0%3ASeiga_Kaku_uses_her_amazing_Taoist_arts_and_gives_you_a_life_lesson%2F%E8%AF%B4%E6%98%8E.html -->
 
 Skuhataagyall_dev
 
@@ -9,10 +9,6 @@ Inspired by the games of Sigyaad Team.
 
 灵感来自Sigyaad Team的游戏。
   
-
-
-
-
 
 ---
 

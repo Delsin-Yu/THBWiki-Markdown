@@ -1,6 +1,6 @@
 # 文件:Ensemble_of_Gensokyo_11_-_DIRECTORY_11封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\68\ns6%3AEnsemble_of_Gensokyo_11_-_DIRECTORY_11%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\68\ns6%3AEnsemble_of_Gensokyo_11_-_DIRECTORY_11%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Dex_Hexallion | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Dex_Hexallion | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Ensemble of Gensokyo 11 - DIRECTORY 11](./Ensemble_of_Gensokyo_11_-_DIRECTORY_11.md)  
-该封面包含的角色：- [神绮](./神绮.md)
-
-
-
+- [Ensemble of Gensokyo 11 - DIRECTORY 11](./Ensemble_of_Gensokyo_11_-_DIRECTORY_11.md)该封面包含的角色：
+- [神绮](./神绮.md)
 
 
 ---

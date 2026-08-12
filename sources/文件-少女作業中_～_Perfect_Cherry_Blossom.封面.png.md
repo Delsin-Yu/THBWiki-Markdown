@@ -1,6 +1,6 @@
 # 文件:少女作業中_～_Perfect_Cherry_Blossom.封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b7\ns6%3A%E5%B0%91%E5%A5%B3%E4%BD%9C%E6%A5%AD%E4%B8%AD_%EF%BD%9E_Perfect_Cherry_Blossom%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b7\ns6%3A%E5%B0%91%E5%A5%B3%E4%BD%9C%E6%A5%AD%E4%B8%AD_%EF%BD%9E_Perfect_Cherry_Blossom%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 mondorium | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ mondorium | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [少女作業中 ～ Perfect Cherry Blossom.](./少女作業中_～_Perfect_Cherry_Blossom..md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
-
-
-
+- [少女作業中 ～ Perfect Cherry Blossom.](./少女作業中_～_Perfect_Cherry_Blossom..md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
 
 
 ---

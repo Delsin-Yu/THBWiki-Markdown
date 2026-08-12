@@ -1,6 +1,6 @@
 # 文件:紺_-KAN-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\ba\ns6%3A%E7%B4%BA_-KAN-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\ba\ns6%3A%E7%B4%BA_-KAN-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 SOUND_HOLIC | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ SOUND_HOLIC | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [紺 -KAN-](./紺_-KAN-.md)  
-该封面包含的角色：- [纯狐](./纯狐.md)- [克劳恩皮丝](./克劳恩皮丝.md)
-
-
-
+- [紺 -KAN-](./紺_-KAN-.md)该封面包含的角色：
+- [纯狐](./纯狐.md)
+- [克劳恩皮丝](./克劳恩皮丝.md)
 
 
 ---

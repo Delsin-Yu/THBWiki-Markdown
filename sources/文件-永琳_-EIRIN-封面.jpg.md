@@ -1,12 +1,8 @@
 # 文件:永琳_-EIRIN-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a7\ns6%3A%E6%B0%B8%E7%90%B3_-EIRIN-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a7\ns6%3A%E6%B0%B8%E7%90%B3_-EIRIN-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 封面图片 | 没有被使用的封面文件
-
-
-
-
 
 
 ---

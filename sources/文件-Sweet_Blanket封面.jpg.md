@@ -1,6 +1,6 @@
 # 文件:Sweet_Blanket封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b2\ns6%3ASweet_Blanket%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b2\ns6%3ASweet_Blanket%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 万里の少女 | 同人志封面 | 封面图片
 
@@ -10,16 +10,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [Sweet Blanket](./Sweet_Blanket.md)  
-该封面包含的角色：- [小野塚小町](./小野塚小町.md)- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)
+- [Sweet Blanket](./Sweet_Blanket.md)该封面包含的角色：
+- [小野塚小町](./小野塚小町.md)
+- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)
 
   
-[Pixiv artwork ID: 37604991](https://www.pixiv.net/artworks/37604991)
-  
-
-
-
-
+[Pixiv artwork ID: 37604991](https://www.pixiv.net/artworks/37604991)  
 
 ---
 

@@ -1,14 +1,11 @@
 # 文件:东方宝天京st2.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\28\ns6%3A%E4%B8%9C%E6%96%B9%E5%AE%9D%E5%A4%A9%E4%BA%ACst2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\28\ns6%3A%E4%B8%9C%E6%96%B9%E5%AE%9D%E5%A4%A9%E4%BA%ACst2%2Ejpg.html -->
 
 東方宝天京制作委员会 | 色色堂
 
 
 ## 文件说明
-
-
-
 
 ---
 

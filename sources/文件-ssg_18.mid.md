@@ -1,16 +1,12 @@
 # 文件:ssg_18.mid
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5e\ns6%3Assg_18%2Emid.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5e\ns6%3Assg_18%2Emid.html -->
 
 东方幻想的音乐 | 二色莲花蝶_～_Ancients | 官方MIDI | 秋霜玉
 
   
 二色蓮花蝶　～Ancients 秋霜玉Ex面二Boss，博麗霊夢的主题曲。 东方的幻想音乐版，与原秋霜玉版本有出入！
   
-
-
-
-
 
 ---
 

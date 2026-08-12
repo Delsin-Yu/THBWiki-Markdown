@@ -1,16 +1,11 @@
 # 文件:とばり湊logo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1f\ns6%3A%E3%81%A8%E3%81%B0%E3%82%8A%E6%B9%8Alogo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1f\ns6%3A%E3%81%A8%E3%81%B0%E3%82%8A%E6%B9%8Alogo%2Epng.html -->
 
 とばり湊 | 社团LOGO
 
   
-源地址：[[1]](http://tobariminato.main.jp/files/medias/tobariminato-rogo.png)
-  
-
-
-
-
+源地址：[\[1\]](http://tobariminato.main.jp/files/medias/tobariminato-rogo.png)  
 
 ---
 

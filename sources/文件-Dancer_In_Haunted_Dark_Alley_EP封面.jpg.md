@@ -1,6 +1,6 @@
 # 文件:Dancer_In_Haunted_Dark_Alley_EP封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6f\ns6%3ADancer_In_Haunted_Dark_Alley_EP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6f\ns6%3ADancer_In_Haunted_Dark_Alley_EP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 VAGUEDGE | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ VAGUEDGE | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Dancer In Haunted Dark Alley EP](./Dancer_In_Haunted_Dark_Alley_EP.md)  
-该封面包含的角色：- [露米娅](./露米娅.md)
-
-
-
+- [Dancer In Haunted Dark Alley EP](./Dancer_In_Haunted_Dark_Alley_EP.md)该封面包含的角色：
+- [露米娅](./露米娅.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Peaces_BON_FIRE封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5c\ns6%3APeaces_BON_FIRE%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5c\ns6%3APeaces_BON_FIRE%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Record_SIGMA | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Record_SIGMA | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Peaces BON FIRE](./Peaces_BON_FIRE.md)  
-该封面包含的角色：- [克劳恩皮丝](./克劳恩皮丝.md)
-
-
-
+- [Peaces BON FIRE](./Peaces_BON_FIRE.md)该封面包含的角色：
+- [克劳恩皮丝](./克劳恩皮丝.md)
 
 
 ---

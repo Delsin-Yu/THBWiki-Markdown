@@ -1,6 +1,6 @@
 # 文件:Hな幻想郷封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\91\ns6%3AH%E3%81%AA%E5%B9%BB%E6%83%B3%E9%83%B7%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\91\ns6%3AH%E3%81%AA%E5%B9%BB%E6%83%B3%E9%83%B7%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Astral_Sky | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Astral_Sky | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Hな幻想郷](./Hな幻想郷.md)  
-该封面包含的角色：- [上白泽慧音](./上白泽慧音.md)
+- [Hな幻想郷](./Hな幻想郷.md)该封面包含的角色：
+- [上白泽慧音](./上白泽慧音.md)
 
   
-源地址：[[1]](https://umcd11hg.tumblr.com/)
-  
-
-
-
-
+源地址：[\[1\]](https://umcd11hg.tumblr.com/)  
 
 ---
 

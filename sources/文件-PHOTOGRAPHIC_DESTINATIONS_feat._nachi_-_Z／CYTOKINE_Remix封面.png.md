@@ -1,6 +1,6 @@
 # 文件:PHOTOGRAPHIC_DESTINATIONS_feat._nachi_-_Z／CYTOKINE_Remix封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\79\ns6%3APHOTOGRAPHIC_DESTINATIONS_feat%2E_nachi_-_Z%EF%BC%8FCYTOKINE_Remix%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\79\ns6%3APHOTOGRAPHIC_DESTINATIONS_feat%2E_nachi_-_Z%EF%BC%8FCYTOKINE_Remix%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 ZYTOKINE | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ ZYTOKINE | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [PHOTOGRAPHIC DESTINATIONS feat. nachi - Z／CYTOKINE Remix](./PHOTOGRAPHIC_DESTINATIONS_feat._nachi_-_Z／CYTOKINE_Remix.md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)
-
-
-
+- [PHOTOGRAPHIC DESTINATIONS feat. nachi - Z／CYTOKINE Remix](./PHOTOGRAPHIC_DESTINATIONS_feat._nachi_-_Z／CYTOKINE_Remix.md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
 
 
 ---

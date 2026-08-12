@@ -1,6 +1,6 @@
 # 文件:Star_Light_Late_Show封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5a\ns6%3AStar_Light_Late_Show%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5a\ns6%3AStar_Light_Late_Show%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 FRAC | 同人志封面 | 封面图片
 
@@ -8,11 +8,11 @@ FRAC | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Star Light Late Show](./Star_Light_Late_Show.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [雾雨魔理沙](./雾雨魔理沙.md)- [森近霖之助](./森近霖之助.md)
-
-
-
+- [Star Light Late Show](./Star_Light_Late_Show.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
+- [森近霖之助](./森近霖之助.md)
 
 
 ---

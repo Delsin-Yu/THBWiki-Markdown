@@ -1,6 +1,6 @@
 # 文件:Instrumental_Collection_Vol._1（Frozen_Starfall）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f7\ns6%3AInstrumental_Collection_Vol%2E_1%EF%BC%88Frozen_Starfall%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f7\ns6%3AInstrumental_Collection_Vol%2E_1%EF%BC%88Frozen_Starfall%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Frozen_Starfall | 专辑封面 | 封面图片
 
@@ -8,16 +8,13 @@ Frozen_Starfall | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Instrumental Collection Vol. 1（Frozen Starfall）](./Instrumental_Collection_Vol._1（Frozen_Starfall）.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)- [蓬莱山辉夜](./蓬莱山辉夜.md)- [秋穰子](./秋穰子.md)
+- [Instrumental Collection Vol. 1（Frozen Starfall）](./Instrumental_Collection_Vol._1（Frozen_Starfall）.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
+- [蓬莱山辉夜](./蓬莱山辉夜.md)
+- [秋穰子](./秋穰子.md)
 
   
-源地址：[[1]](https://f4.bcbits.com/img/a3178275175_10.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://f4.bcbits.com/img/a3178275175_10.jpg)  
 
 ---
 

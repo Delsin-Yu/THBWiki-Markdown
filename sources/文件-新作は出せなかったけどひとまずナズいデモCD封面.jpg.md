@@ -1,6 +1,6 @@
 # 文件:新作は出せなかったけどひとまずナズいデモCD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\27\ns6%3A%E6%96%B0%E4%BD%9C%E3%81%AF%E5%87%BA%E3%81%9B%E3%81%AA%E3%81%8B%E3%81%A3%E3%81%9F%E3%81%91%E3%81%A9%E3%81%B2%E3%81%A8%E3%81%BE%E3%81%9A%E3%83%8A%E3%82%BA%E3%81%84%E3%83%87%E3%83%A2CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\27\ns6%3A%E6%96%B0%E4%BD%9C%E3%81%AF%E5%87%BA%E3%81%9B%E3%81%AA%E3%81%8B%E3%81%A3%E3%81%9F%E3%81%91%E3%81%A9%E3%81%B2%E3%81%A8%E3%81%BE%E3%81%9A%E3%83%8A%E3%82%BA%E3%81%84%E3%83%87%E3%83%A2CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Siestail | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Siestail | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [新作は出せなかったけどひとまずナズいデモCD](./新作は出せなかったけどひとまずナズいデモCD.md)  
-该封面包含的角色：- [娜兹玲](./娜兹玲.md)
-
-
-
+- [新作は出せなかったけどひとまずナズいデモCD](./新作は出せなかったけどひとまずナズいデモCD.md)该封面包含的角色：
+- [娜兹玲](./娜兹玲.md)
 
 
 ---

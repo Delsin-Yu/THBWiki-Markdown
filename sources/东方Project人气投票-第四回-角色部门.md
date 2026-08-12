@@ -1,27 +1,27 @@
 # 东方Project人气投票/第四回/角色部门
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\49\ns0%3A%E4%B8%9C%E6%96%B9Project%E4%BA%BA%E6%B0%94%E6%8A%95%E7%A5%A8%2F%E7%AC%AC%E5%9B%9B%E5%9B%9E%2F%E8%A7%92%E8%89%B2%E9%83%A8%E9%97%A8.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\49\ns0%3A%E4%B8%9C%E6%96%B9Project%E4%BA%BA%E6%B0%94%E6%8A%95%E7%A5%A8%2F%E7%AC%AC%E5%9B%9B%E5%9B%9E%2F%E8%A7%92%E8%89%B2%E9%83%A8%E9%97%A8.html -->
 
 东方Project人气投票
 
 <center>
-
 <table>
 <tbody><tr>
-<td>&lt;
+<td><
 </td>
-<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./东方Project人气投票-第三回-角色部门.md" title="东方Project人气投票/第三回/角色部门">第三回</a>&#160;
+<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./东方Project人气投票-第三回-角色部门.md" title="东方Project人气投票/第三回/角色部门">第三回</a> 
 </td>
-<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="./东方Project人气投票.md" title="东方Project人气投票">东方Project人气投票</a>（角色部门）&#160;
+<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;"> <a href="./东方Project人气投票.md" title="东方Project人气投票">东方Project人气投票</a>（角色部门） 
 </td>
-<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left">&#160;<a href="./东方Project人气投票-第五回-角色部门.md" title="东方Project人气投票/第五回/角色部门">第五回</a>
+<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left"> <a href="./东方Project人气投票-第五回-角色部门.md" title="东方Project人气投票/第五回/角色部门">第五回</a>
 </td>
-<td>&gt;
+<td>>
 </td></tr></tbody></table>
 
   
 </center>
 - 本页面为角色部门的票数排行简表，本命加权是指1本命票计算为2票。
+
 
 - 总有效票数5888，总本命票数5620，参投角色总数191，全角色平均得票数201，中位角色得票数32。
 
@@ -34,7 +34,6 @@
 <tr>
 <td><span style="color:#FBB">▇▇</span>：本回投票新加入的角色<br><span style="color:#BBF">▇▇</span>：本回投票名称有变动的角色<br><span style="color:#BFF">▇▇</span>：本回投票被拆分的角色
 </td></tr></tbody></table>
-
 
 
 <table>
@@ -970,7 +969,7 @@
 </td></tr>
 <tr style="background:#BBF">
 <td>93</td>
-<td>蕾蒂·霍瓦特洛克<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">1</a></sup></td>
+<td>蕾蒂·霍瓦特洛克<span>[^cite_note-1]</span></td>
 <td>35</td>
 <td>2</td>
 <td>5.71%</td>
@@ -980,7 +979,7 @@
 </td></tr>
 <tr style="background:#BBF">
 <td>94</td>
-<td>人偶（含上海人偶、哥利亚人偶）<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">2</a></sup></td>
+<td>人偶（含上海人偶、哥利亚人偶）<span>[^cite_note-2]</span></td>
 <td>34</td>
 <td>3</td>
 <td>8.82%</td>
@@ -1290,7 +1289,7 @@
 </td></tr>
 <tr style="background:#FBB">
 <td>125</td>
-<td>STG作品中没有名称的角色<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">3</a></sup></td>
+<td>STG作品中没有名称的角色<span>[^cite_note-3]</span></td>
 <td>8</td>
 <td>0</td>
 <td>0%</td>
@@ -1530,7 +1529,7 @@
 </td></tr>
 <tr style="background:#BBF">
 <td>145</td>
-<td>雷兽（务光）<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">4</a></sup></td>
+<td>雷兽（务光）<span>[^cite_note-4]</span></td>
 <td>2</td>
 <td>0</td>
 <td>0%</td>
@@ -1670,7 +1669,7 @@
 </td></tr>
 <tr style="background:#BFF">
 <td>154</td>
-<td>天照大御神<sup id="cite_ref-kami_5-0" class="reference"><a href="#cite_note-kami-5">5</a></sup></td>
+<td>天照大御神<span>[^cite_note-kami-5]</span></td>
 <td>1</td>
 <td>0</td>
 <td>0%</td>
@@ -1680,7 +1679,7 @@
 </td></tr>
 <tr style="background:#BFF">
 <td>154</td>
-<td>天宇受卖命<sup id="cite_ref-kami_5-1" class="reference"><a href="#cite_note-kami-5">5</a></sup></td>
+<td>天宇受卖命<span>[^cite_note-kami-5]</span></td>
 <td>1</td>
 <td>0</td>
 <td>0%</td>
@@ -1810,7 +1809,7 @@
 </td></tr>
 <tr style="background:#BFF">
 <td>173</td>
-<td>石凝老命<sup id="cite_ref-kami_5-2" class="reference"><a href="#cite_note-kami-5">5</a></sup></td>
+<td>石凝老命<span>[^cite_note-kami-5]</span></td>
 <td>0</td>
 <td>0</td>
 <td>0%</td>
@@ -1820,7 +1819,7 @@
 </td></tr>
 <tr style="background:#BFF">
 <td>173</td>
-<td>伊豆能卖<sup id="cite_ref-kami_5-3" class="reference"><a href="#cite_note-kami-5">5</a></sup></td>
+<td>伊豆能卖<span>[^cite_note-kami-5]</span></td>
 <td>0</td>
 <td>0</td>
 <td>0%</td>
@@ -1959,12 +1958,11 @@
 <td>0%
 </td></tr></tbody></table>
 
-
 [^cite_note-1]: 上回为旧译名“蕾迪·霍瓦特洛克”
-
-
-
-
+[^cite_note-2]: 上回为“人形（含上海人形、哥利亚人形）”
+[^cite_note-3]: 上回为“STG作品中没有名称的BOSS”
+[^cite_note-4]: 上回为“雷兽”
+[^cite_note-kami-5]: 上回为同一项角色“儚月抄召唤诸神”
 
 ---
 

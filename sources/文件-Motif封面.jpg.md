@@ -1,6 +1,6 @@
 # 文件:Motif封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5d\ns6%3AMotif%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5d\ns6%3AMotif%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 FELT | ORANGE★JAM | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ FELT | ORANGE★JAM | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Motif](./Motif.md)  
-该封面包含的角色：- [西行寺幽幽子](./西行寺幽幽子.md)
-
-
-
+- [Motif](./Motif.md)该封面包含的角色：
+- [西行寺幽幽子](./西行寺幽幽子.md)
 
 
 ---

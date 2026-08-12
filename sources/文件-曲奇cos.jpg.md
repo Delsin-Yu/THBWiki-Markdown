@@ -1,16 +1,12 @@
 # 文件:曲奇cos.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\ba\ns6%3A%E6%9B%B2%E5%A5%87cos%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\ba\ns6%3A%E6%9B%B2%E5%A5%87cos%2Ejpg.html -->
 
 曲奇
 
   
 CD25上cos曲奇角色「DIYUSI」（两侧）和「SIYUDI」（中间）的饼民们
   
-
-
-
-
 
 ---
 

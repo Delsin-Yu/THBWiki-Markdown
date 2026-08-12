@@ -1,6 +1,6 @@
 # 文件:Retro_Future_Girls封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a5\ns6%3ARetro_Future_Girls%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a5\ns6%3ARetro_Future_Girls%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ShibayanRecords | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ ShibayanRecords | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Retro Future Girls](./Retro_Future_Girls.md)  
-该封面包含的角色：- [霍青娥](./霍青娥.md)
-
-
-
+- [Retro Future Girls](./Retro_Future_Girls.md)该封面包含的角色：
+- [霍青娥](./霍青娥.md)
 
 
 ---

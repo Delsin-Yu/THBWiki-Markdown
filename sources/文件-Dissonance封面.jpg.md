@@ -1,6 +1,6 @@
 # 文件:Dissonance封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3b\ns6%3ADissonance%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3b\ns6%3ADissonance%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Norowareta_Night | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Norowareta_Night | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Dissonance](./Dissonance.md)  
-该封面包含的角色：- [古明地恋](./古明地恋.md)
+- [Dissonance](./Dissonance.md)该封面包含的角色：
+- [古明地恋](./古明地恋.md)
 
   
-源地址：[[1]](https://f4.bcbits.com/img/a3910139276_10.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://f4.bcbits.com/img/a3910139276_10.jpg)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:Absolute_Position封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\de\ns6%3AAbsolute_Position%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\de\ns6%3AAbsolute_Position%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 山紫水明
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Absolute Position](./Absolute_Position.md)  
-该封面包含的角色：- [红美铃](./红美铃.md)
-
-
-
+- [Absolute Position](./Absolute_Position.md)该封面包含的角色：
+- [红美铃](./红美铃.md)
 
 
 ---

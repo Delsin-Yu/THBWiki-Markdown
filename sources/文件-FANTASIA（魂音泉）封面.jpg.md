@@ -1,6 +1,6 @@
 # 文件:FANTASIA（魂音泉）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\be\ns6%3AFANTASIA%EF%BC%88%E9%AD%82%E9%9F%B3%E6%B3%89%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\be\ns6%3AFANTASIA%EF%BC%88%E9%AD%82%E9%9F%B3%E6%B3%89%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 魂音泉
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [FANTASIA（魂音泉）](./FANTASIA（魂音泉）.md)  
-该封面包含的角色：- [八云紫](./八云紫.md)
-
-
-
+- [FANTASIA（魂音泉）](./FANTASIA（魂音泉）.md)该封面包含的角色：
+- [八云紫](./八云紫.md)
 
 
 ---

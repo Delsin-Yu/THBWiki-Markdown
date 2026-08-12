@@ -1,12 +1,8 @@
 # 文件:THD2月曜秘石.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\77\ns6%3ATHD2%E6%9C%88%E6%9B%9C%E7%A7%98%E7%9F%B3%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\77\ns6%3ATHD2%E6%9C%88%E6%9B%9C%E7%A7%98%E7%9F%B3%2Epng.html -->
 
 AvalonStudioOfficial
-
-
-
-
 
 
 ---

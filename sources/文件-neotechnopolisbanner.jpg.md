@@ -1,16 +1,11 @@
 # 文件:neotechnopolisbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4c\ns6%3Aneotechnopolisbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4c\ns6%3Aneotechnopolisbanner%2Ejpg.html -->
 
 neotechnopolis | 社团LOGO
 
   
-源地址：[[1]](https://web.archive.org/web/20051231065658im_/http://www.tokio.ne.jp/~tuk/parts/banner.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://web.archive.org/web/20051231065658im_/http://www.tokio.ne.jp/~tuk/parts/banner.jpg)  
 
 ---
 

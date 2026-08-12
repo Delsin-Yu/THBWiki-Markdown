@@ -1,51 +1,38 @@
 # EDSEP_(S／S)
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\1\15\ns0%3AEDSEP_%28S%EF%BC%8FS%29.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\1\15\ns0%3AEDSEP_%28S%EF%BC%8FS%29.html -->
 
 2015年5月10日 由 Hasenpfeffer 于 博丽神社例大祭12 发布的EP同人专辑，曲目主要风格是 Rock，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人专辑 (未找到链接)** 的词条
-
+**[二次创作同人专辑](./二次创作.md#同人音乐)**的词条
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-EDSEP_(S／S)封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/7/71/EDSEP_%28S%EF%BC%8FS%29%E5%B0%81%E9%9D%A2.jpg/224px-EDSEP_%28S%EF%BC%8FS%29%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="224" srcset="https://upload.thwiki.cc/thumb/7/71/EDSEP_%28S%EF%BC%8FS%29%E5%B0%81%E9%9D%A2.jpg/336px-EDSEP_%28S%EF%BC%8FS%29%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/7/71/EDSEP_%28S%EF%BC%8FS%29%E5%B0%81%E9%9D%A2.jpg/448px-EDSEP_%28S%EF%BC%8FS%29%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="500" data-file-height="500"></a></td>
 </tr><tr><td class="label">名称</td><td colspan="2"> EDSEP (S/S) </td></tr><tr><td class="label">制作方</td><td><a href="./Hasenpfeffer.md" title="Hasenpfeffer">Hasenpfeffer</a></td><td class="cover-artwork" rowspan="8" style="min-width:224px;"><a href="./文件-EDSEP_(S／S)封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/7/71/EDSEP_%28S%EF%BC%8FS%29%E5%B0%81%E9%9D%A2.jpg/224px-EDSEP_%28S%EF%BC%8FS%29%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="224" srcset="https://upload.thwiki.cc/thumb/7/71/EDSEP_%28S%EF%BC%8FS%29%E5%B0%81%E9%9D%A2.jpg/336px-EDSEP_%28S%EF%BC%8FS%29%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/7/71/EDSEP_%28S%EF%BC%8FS%29%E5%B0%81%E9%9D%A2.jpg/448px-EDSEP_%28S%EF%BC%8FS%29%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="500" data-file-height="500"></a></td>
-</tr><tr><td class="label">首发日期</td><td>2015-05-10&#160;（<a href="/展会作品列表?e=%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD%2312">第十二回 博麗神社例大祭</a>）</td></tr><tr><td class="label">类型</td><td>EP</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>3</td></tr><tr><td class="label">总时长</td><td>00:00</td></tr><tr><td class="label">风格类型</td><td>Rock</td></tr>
+</tr><tr><td class="label">首发日期</td><td>2015-05-10 （<a href="./展会作品列表.md#12">第十二回 博麗神社例大祭</a>）</td></tr><tr><td class="label">类型</td><td>EP</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>3</td></tr><tr><td class="label">总时长</td><td>00:00</td></tr><tr><td class="label">风格类型</td><td>Rock</td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://soundcloud.com/vespa-the-veronica/edsep-ss-xfd">https://soundcloud.com/vespa-the-veronica/edsep-ss-xfd</a></td></tr></tbody></table>
 
 EDSEP (S／S)（同人专辑，Hasenpfeffer，2015） - 2015年5月10日 由 Hasenpfeffer 于 博丽神社例大祭12 发布的EP同人专辑，曲目主要风格是 Rock，分级为 一般向
-
 ## Staff
   
- **Arrangement**   
+**Arrangement**  
 
-<table><tbody><tr><td><a href="/index.php?title=Vespa&amp;action=edit&amp;redlink=1" class="new" title="Vespa（页面不存在）">Vespa</a></td><td></td><td>Tr.1-3</td></tr></tbody></table>
-
+<table><tbody><tr><td><a class="new" title="Vespa（页面不存在）">Vespa</a></td><td></td><td>Tr.1-3</td></tr></tbody></table>
 
 Design
 : Vespa (未找到链接)
 
-
 ## 试听
-  
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/204706580&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=false"></iframe>
-
-  
-
 
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="IS" colspan="2" class="title">IS<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Vespa&amp;ogmusic=広有射怪鳥事　～ Till When?&amp;fromwiki=EDSEP_(S／S)"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=Vespa&amp;action=edit&amp;redlink=1" class="new" title="Vespa（页面不存在）">Vespa</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Vespa&amp;fromwiki=EDSEP_(S／S)"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=広有射怪鳥事　～ Till When?&amp;fromwiki=EDSEP_(S／S)"><span></span></a></span><div class="ogmusic"><a href="./広有射怪鳥事_～_Till_When-.md" class="mw-redirect" title="広有射怪鳥事 ～ Till When?">広有射怪鳥事　～ Till When?</a></div><div class="source"><a href="./东方妖妖梦_～_Perfect_Cherry_Blossom..md" class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr>
-<tr><td id="2" class="infoYD"><b>02</b></td><td id="夏への扉" colspan="2" class="title">夏への扉<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Vespa&amp;ogmusic=紅楼　～ Eastern Dream...&amp;fromwiki=EDSEP_(S／S)"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=Vespa&amp;action=edit&amp;redlink=1" class="new" title="Vespa（页面不存在）">Vespa</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Vespa&amp;fromwiki=EDSEP_(S／S)"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=紅楼　～ Eastern Dream...&amp;fromwiki=EDSEP_(S／S)"><span></span></a></span><div class="ogmusic"><a href="./紅楼_～_Eastern_Dream....md" class="mw-redirect" title="紅楼 ～ Eastern Dream...">紅楼　～ Eastern Dream...</a></div><div class="source"><a href="./东方红魔乡_～_the_Embodiment_of_Scarlet_Devil..md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr>
-<tr><td id="3" class="infoYD"><b>03</b></td><td id="53／36" colspan="2" class="title">53／36<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Vespa&amp;ogmusic=53ミニッツの青い海&amp;fromwiki=EDSEP_(S／S)"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=Vespa&amp;action=edit&amp;redlink=1" class="new" title="Vespa（页面不存在）">Vespa</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Vespa&amp;fromwiki=EDSEP_(S／S)"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">社团</td><td class="text" colspan="2"><a href="./さくらゆっけ.md" title="さくらゆっけ">さくらゆっけ</a>，<a href="./hoomy34.md" title="hoomy34">hoomy34</a></td></tr><tr><td class="left"></td><td class="label">初发布</td><td class="text" colspan="2"><a href="/%E5%99%A8%E6%A8%82%E7%A7%98%E5%B0%81%E5%80%B6%E6%A5%BD%E9%83%A8#7" title="器樂秘封倶楽部">53／36</a><div class="source"><a href="./器樂秘封倶楽部.md" title="器樂秘封倶楽部">器樂秘封倶楽部</a></div></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=53ミニッツの青い海&amp;fromwiki=EDSEP_(S／S)"><span></span></a></span><div class="ogmusic"><a href="./53ミニッツの青い海.md" class="mw-redirect" title="53ミニッツの青い海">53ミニッツの青い海</a></div><div class="source"><a href="./卯酉东海道_～_Retrospective_53_minutes.md" class="mw-redirect" title="卯酉东海道 ～ Retrospective 53 minutes">卯酉东海道　～ Retrospective 53 minutes</a></div></td></tr></tbody></table>
-
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="IS" colspan="2" class="title">IS</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="Vespa（页面不存在）">Vespa</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a class="mw-redirect" title="広有射怪鳥事 ～ Till When?">広有射怪鳥事　～ Till When?</a></div><div class="source"><a href="./东方妖妖梦.md" class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr>
+<tr><td id="2" class="infoYD"><b>02</b></td><td id="夏への扉" colspan="2" class="title">夏への扉</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="Vespa（页面不存在）">Vespa</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./红楼_～_Eastern_Dream....md" class="mw-redirect" title="紅楼 ～ Eastern Dream...">紅楼　～ Eastern Dream...</a></div><div class="source"><a href="./东方红魔乡.md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr>
+<tr><td id="3" class="infoYD"><b>03</b></td><td id="53／36" colspan="2" class="title">53／36</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="Vespa（页面不存在）">Vespa</a></td></tr><tr><td class="left"></td><td class="label">社团</td><td class="text" colspan="2"><a href="./さくらゆっけ.md" title="さくらゆっけ">さくらゆっけ</a>，<a href="./hoomy34.md" title="hoomy34">hoomy34</a></td></tr><tr><td class="left"></td><td class="label">初发布</td><td class="text" colspan="2"><a href="./器樂秘封倶楽部.md#7" title="器樂秘封倶楽部">53／36</a><div class="source"><a href="./器樂秘封倶楽部.md" title="器樂秘封倶楽部">器樂秘封倶楽部</a></div></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./53分钟的蓝色大海.md" class="mw-redirect" title="53ミニッツの青い海">53ミニッツの青い海</a></div><div class="source"><a href="./卯酉东海道.md" class="mw-redirect" title="卯酉东海道 ～ Retrospective 53 minutes">卯酉东海道　～ Retrospective 53 minutes</a></div></td></tr></tbody></table>
 
 
 ## 评论
-
-
-
 
 ---
 

@@ -1,12 +1,8 @@
 # 文件:Pastel_Soundbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2b\ns6%3APastel_Soundbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2b\ns6%3APastel_Soundbanner%2Ejpg.html -->
 
 Pastel_Sound | 社团LOGO
-
-
-
-
 
 
 ---

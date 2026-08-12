@@ -1,6 +1,6 @@
 # 文件:Deamon's_seal～魔界の封印～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c4\ns6%3ADeamon%27s_seal%EF%BD%9E%E9%AD%94%E7%95%8C%E3%81%AE%E5%B0%81%E5%8D%B0%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c4\ns6%3ADeamon%27s_seal%EF%BD%9E%E9%AD%94%E7%95%8C%E3%81%AE%E5%B0%81%E5%8D%B0%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 IRON_ATTACK! | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ IRON_ATTACK! | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Deamon's seal～魔界の封印～](./Deamon's_seal～魔界の封印～.md)  
-该封面包含的角色：- [寅丸星](./寅丸星.md)
-
-
-
+- [Deamon's seal～魔界の封印～](./Deamon's_seal～魔界の封印～.md)该封面包含的角色：
+- [寅丸星](./寅丸星.md)
 
 
 ---

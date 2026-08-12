@@ -1,6 +1,6 @@
 # 文件:薫る限定特典CD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f0\ns6%3A%E8%96%AB%E3%82%8B%E9%99%90%E5%AE%9A%E7%89%B9%E5%85%B8CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f0\ns6%3A%E8%96%AB%E3%82%8B%E9%99%90%E5%AE%9A%E7%89%B9%E5%85%B8CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Like_a_rabbit | 专辑封面 | 封面图片
 
@@ -8,11 +8,10 @@ Like_a_rabbit | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [薫る限定特典CD](./薫る限定特典CD.md)  
-该封面包含的角色：- [键山雏](./键山雏.md)- [东风谷早苗](./东风谷早苗.md)- [洩矢诹访子](./洩矢诹访子.md)
-
-
-
+- [薫る限定特典CD](./薫る限定特典CD.md)该封面包含的角色：
+- [键山雏](./键山雏.md)
+- [东风谷早苗](./东风谷早苗.md)
+- [洩矢诹访子](./洩矢诹访子.md)
 
 
 ---

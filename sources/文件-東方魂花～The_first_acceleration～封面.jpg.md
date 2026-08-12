@@ -1,6 +1,6 @@
 # 文件:東方魂花～The_first_acceleration～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\67\ns6%3A%E6%9D%B1%E6%96%B9%E9%AD%82%E8%8A%B1%EF%BD%9EThe_first_acceleration%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\67\ns6%3A%E6%9D%B1%E6%96%B9%E9%AD%82%E8%8A%B1%EF%BD%9EThe_first_acceleration%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 STEP×STEP | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ STEP×STEP | 专辑封面 | 封面图片
   
 
 - [東方魂花～The first acceleration～](./東方魂花～The_first_acceleration～.md)
-
-
-
 
 
 ---

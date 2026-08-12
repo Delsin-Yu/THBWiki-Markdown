@@ -1,6 +1,6 @@
 # 文件:Art_of_Heart_EP1：Antecedence封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6b\ns6%3AArt_of_Heart_EP1%EF%BC%9AAntecedence%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6b\ns6%3AArt_of_Heart_EP1%EF%BC%9AAntecedence%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Art_of_Heart | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ Art_of_Heart | 专辑封面 | 封面图片
   
 
 - [Art of Heart EP1：Antecedence](./Art_of_Heart_EP1：Antecedence.md)
-
-
-
 
 
 ---

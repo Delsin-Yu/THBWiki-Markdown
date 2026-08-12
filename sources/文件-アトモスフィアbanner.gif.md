@@ -1,12 +1,8 @@
 # 文件:アトモスフィアbanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\75\ns6%3A%E3%82%A2%E3%83%88%E3%83%A2%E3%82%B9%E3%83%95%E3%82%A3%E3%82%A2banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\75\ns6%3A%E3%82%A2%E3%83%88%E3%83%A2%E3%82%B9%E3%83%95%E3%82%A3%E3%82%A2banner%2Egif.html -->
 
 アトモスフィア | 社团LOGO
-
-
-
-
 
 
 ---

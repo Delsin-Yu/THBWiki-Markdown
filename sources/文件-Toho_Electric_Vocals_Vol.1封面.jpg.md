@@ -1,6 +1,6 @@
 # 文件:Toho_Electric_Vocals_Vol.1封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\65\ns6%3AToho_Electric_Vocals_Vol%2E1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\65\ns6%3AToho_Electric_Vocals_Vol%2E1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Astral_Sky | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Astral_Sky | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Toho Electric Vocals Vol.1](./Toho_Electric_Vocals_Vol.1.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [Toho Electric Vocals Vol.1](./Toho_Electric_Vocals_Vol.1.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
   
-源地址：[[1]](http://static.tumblr.com/9c2e29c2aef1490ebdf669bd0bc25f8d/eil6ehm/20Moeis0g/tumblr_static_cqxjtmu8lnso8ogogowowwoc0.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://static.tumblr.com/9c2e29c2aef1490ebdf669bd0bc25f8d/eil6ehm/20Moeis0g/tumblr_static_cqxjtmu8lnso8ogogowowwoc0.jpg)  
 
 ---
 

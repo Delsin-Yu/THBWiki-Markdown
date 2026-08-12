@@ -1,18 +1,13 @@
 # 文件:作者の戯事banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\25\ns6%3A%E4%BD%9C%E8%80%85%E3%81%AE%E6%88%AF%E4%BA%8Bbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\25\ns6%3A%E4%BD%9C%E8%80%85%E3%81%AE%E6%88%AF%E4%BA%8Bbanner%2Epng.html -->
 
 作者の戯事 | 社团LOGO
 
 
 ## 摘要
   
-源地址：[direct image link](https://web.archive.org/web/20180519052409im_/http://conpallo.web.fc2.com/i/bnr), [source page](https://web.archive.org/web/20111026204705/http://conpallo.web.fc2.com/)
-  
-
-
-
-
+源地址：[direct image link](https://web.archive.org/web/20180519052409im_/http://conpallo.web.fc2.com/i/bnr), [source page](https://web.archive.org/web/20111026204705/http://conpallo.web.fc2.com/)  
 
 ---
 

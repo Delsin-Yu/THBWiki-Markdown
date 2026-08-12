@@ -1,6 +1,6 @@
 # 文件:CRADLE_FOR_～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0d\ns6%3ACRADLE_FOR_%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0d\ns6%3ACRADLE_FOR_%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 LUCIOLE*CAFE | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ LUCIOLE*CAFE | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [CRADLE FOR ～](./CRADLE_FOR_～.md)  
-该封面包含的角色：- [莉格露·奈特巴格](./莉格露·奈特巴格.md)
-
-
-
+- [CRADLE FOR ～](./CRADLE_FOR_～.md)该封面包含的角色：
+- [莉格露·奈特巴格](./莉格露·奈特巴格.md)
 
 
 ---

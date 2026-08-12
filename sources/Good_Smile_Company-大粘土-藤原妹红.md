@@ -1,37 +1,21 @@
 # Good_Smile_Company/大粘土/藤原妹红
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\66\ns0%3AGood_Smile_Company%2F%E5%A4%A7%E7%B2%98%E5%9C%9F%2F%E8%97%A4%E5%8E%9F%E5%A6%B9%E7%BA%A2.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\66\ns0%3AGood_Smile_Company%2F%E5%A4%A7%E7%B2%98%E5%9C%9F%2F%E8%97%A4%E5%8E%9F%E5%A6%B9%E7%BA%A2.html -->
 
 藤原妹红PVCFigure手办模型
 
 本页是关于东方Project  
- **相关实体周边 (未找到链接)** 的词条
-
+**相关实体周边 (未找到链接)**的词条
 ## 模型信息
 
-<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 藤原妹红 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>大粘土</td></tr><tr><td class="label">角色</td><td><a href="./藤原妹红.md" title="藤原妹红">藤原妹红</a></td></tr><tr><td class="label">原型师</td><td><a href="/index.php?title=JUN_(E.V.)&amp;action=edit&amp;redlink=1" class="new" title="JUN (E.V.)（页面不存在）">JUN (E.V.)</a><br><a href="/index.php?title=%E3%81%AD%E3%82%93%E3%81%A9%E3%82%8D%E3%82%93&amp;action=edit&amp;redlink=1" class="new" title="ねんどろん（页面不存在）">ねんどろん</a></td></tr><tr><td class="label">尺寸</td><td>100mm</td></tr><tr><td class="label">状态</td><td>已发售</td></tr><tr><td class="label">售价</td><td>3333日元</td></tr><tr><td class="label">首发日期</td><td>2013-05-27</td></tr><tr><td class="label">发售方</td><td><a href="./Good_Smile_Company.md" title="Good Smile Company">Good Smile Company</a></td></tr></tbody></table>
+<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 藤原妹红 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>大粘土</td></tr><tr><td class="label">角色</td><td><a href="./藤原妹红.md" title="藤原妹红">藤原妹红</a></td></tr><tr><td class="label">原型师</td><td><a class="new" title="JUN (E.V.)（页面不存在）">JUN (E.V.)</a><br><a class="new" title="ねんどろん（页面不存在）">ねんどろん</a></td></tr><tr><td class="label">尺寸</td><td>100mm</td></tr><tr><td class="label">状态</td><td>已发售</td></tr><tr><td class="label">售价</td><td>3333日元</td></tr><tr><td class="label">首发日期</td><td>2013-05-27</td></tr><tr><td class="label">发售方</td><td><a href="./Good_Smile_Company.md" title="Good Smile Company">Good Smile Company</a></td></tr></tbody></table>
 
 Good Smile Company/大粘土/藤原妹红（周边） - 藤原妹红PVCFigure手办模型
-
 ## 参考图片
-
-
-
-[](./文件-Good_Smile_Company大粘土藤原妹红-1.jpg.md)
-
-
-[](./文件-Good_Smile_Company大粘土藤原妹红-2.jpg.md)
-
-
-[](./文件-Good_Smile_Company大粘土藤原妹红-3.jpg.md)
-
+<img alt="Good Smile Company大粘土藤原妹红" src="https://upload.thwiki.cc/thumb/7/76/Good_Smile_Company%E5%A4%A7%E7%B2%98%E5%9C%9F%E8%97%A4%E5%8E%9F%E5%A6%B9%E7%BA%A2-1.jpg/160px-Good_Smile_Company%E5%A4%A7%E7%B2%98%E5%9C%9F%E8%97%A4%E5%8E%9F%E5%A6%B9%E7%BA%A2-1.jpg" decoding="async" loading="lazy" width="160" height="209" srcset="https://upload.thwiki.cc/thumb/7/76/Good_Smile_Company%E5%A4%A7%E7%B2%98%E5%9C%9F%E8%97%A4%E5%8E%9F%E5%A6%B9%E7%BA%A2-1.jpg/240px-Good_Smile_Company%E5%A4%A7%E7%B2%98%E5%9C%9F%E8%97%A4%E5%8E%9F%E5%A6%B9%E7%BA%A2-1.jpg 1.5x, https://upload.thwiki.cc/thumb/7/76/Good_Smile_Company%E5%A4%A7%E7%B2%98%E5%9C%9F%E8%97%A4%E5%8E%9F%E5%A6%B9%E7%BA%A2-1.jpg/320px-Good_Smile_Company%E5%A4%A7%E7%B2%98%E5%9C%9F%E8%97%A4%E5%8E%9F%E5%A6%B9%E7%BA%A2-1.jpg 2x" data-file-width="515" data-file-height="672">
+<img alt="Good Smile Company大粘土藤原妹红" src="https://upload.thwiki.cc/thumb/8/85/Good_Smile_Company%E5%A4%A7%E7%B2%98%E5%9C%9F%E8%97%A4%E5%8E%9F%E5%A6%B9%E7%BA%A2-2.jpg/194px-Good_Smile_Company%E5%A4%A7%E7%B2%98%E5%9C%9F%E8%97%A4%E5%8E%9F%E5%A6%B9%E7%BA%A2-2.jpg" decoding="async" loading="lazy" width="194" height="209" srcset="https://upload.thwiki.cc/thumb/8/85/Good_Smile_Company%E5%A4%A7%E7%B2%98%E5%9C%9F%E8%97%A4%E5%8E%9F%E5%A6%B9%E7%BA%A2-2.jpg/291px-Good_Smile_Company%E5%A4%A7%E7%B2%98%E5%9C%9F%E8%97%A4%E5%8E%9F%E5%A6%B9%E7%BA%A2-2.jpg 1.5x, https://upload.thwiki.cc/thumb/8/85/Good_Smile_Company%E5%A4%A7%E7%B2%98%E5%9C%9F%E8%97%A4%E5%8E%9F%E5%A6%B9%E7%BA%A2-2.jpg/388px-Good_Smile_Company%E5%A4%A7%E7%B2%98%E5%9C%9F%E8%97%A4%E5%8E%9F%E5%A6%B9%E7%BA%A2-2.jpg 2x" data-file-width="515" data-file-height="554">
+<img alt="Good Smile Company大粘土藤原妹红" src="https://upload.thwiki.cc/thumb/c/cc/Good_Smile_Company%E5%A4%A7%E7%B2%98%E5%9C%9F%E8%97%A4%E5%8E%9F%E5%A6%B9%E7%BA%A2-3.jpg/250px-Good_Smile_Company%E5%A4%A7%E7%B2%98%E5%9C%9F%E8%97%A4%E5%8E%9F%E5%A6%B9%E7%BA%A2-3.jpg" decoding="async" loading="lazy" width="250" height="209" srcset="https://upload.thwiki.cc/thumb/c/cc/Good_Smile_Company%E5%A4%A7%E7%B2%98%E5%9C%9F%E8%97%A4%E5%8E%9F%E5%A6%B9%E7%BA%A2-3.jpg/375px-Good_Smile_Company%E5%A4%A7%E7%B2%98%E5%9C%9F%E8%97%A4%E5%8E%9F%E5%A6%B9%E7%BA%A2-3.jpg 1.5x, https://upload.thwiki.cc/thumb/c/cc/Good_Smile_Company%E5%A4%A7%E7%B2%98%E5%9C%9F%E8%97%A4%E5%8E%9F%E5%A6%B9%E7%BA%A2-3.jpg/500px-Good_Smile_Company%E5%A4%A7%E7%B2%98%E5%9C%9F%E8%97%A4%E5%8E%9F%E5%A6%B9%E7%BA%A2-3.jpg 2x" data-file-width="515" data-file-height="430">
 公式图
-
-
-
-
-
-
 
 ---
 

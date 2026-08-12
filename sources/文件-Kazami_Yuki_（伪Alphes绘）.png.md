@@ -1,16 +1,12 @@
 # 文件:Kazami_Yuki_（伪Alphes绘）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b3\ns6%3AKazami_Yuki_%EF%BC%88%E4%BC%AAAlphes%E7%BB%98%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b3\ns6%3AKazami_Yuki_%EF%BC%88%E4%BC%AAAlphes%E7%BB%98%EF%BC%89%2Epng.html -->
 
 雪
 
   
 雪的伪Alphes（黄昏）风立绘
   
-
-
-
-
 
 ---
 

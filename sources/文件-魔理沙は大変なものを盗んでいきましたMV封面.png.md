@@ -1,6 +1,6 @@
 # 文件:魔理沙は大変なものを盗んでいきましたMV封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\66\ns6%3A%E9%AD%94%E7%90%86%E6%B2%99%E3%81%AF%E5%A4%A7%E5%A4%89%E3%81%AA%E3%82%82%E3%81%AE%E3%82%92%E7%9B%97%E3%82%93%E3%81%A7%E3%81%84%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9FMV%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\66\ns6%3A%E9%AD%94%E7%90%86%E6%B2%99%E3%81%AF%E5%A4%A7%E5%A4%89%E3%81%AA%E3%82%82%E3%81%AE%E3%82%92%E7%9B%97%E3%82%93%E3%81%A7%E3%81%84%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9FMV%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 IOSYS | 封面图片 | 视频封面
 
@@ -10,11 +10,8 @@ IOSYS | 封面图片 | 视频封面
 使用了本文件作封面图片的作品：
   
 
-- [魔理沙は大変なものを盗んでいきましたMV](./魔理沙は大変なものを盗んでいきましたMV.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
-
-
-
+- [魔理沙は大変なものを盗んでいきましたMV](./魔理沙は大変なものを盗んでいきましたMV.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
 
 
 ---

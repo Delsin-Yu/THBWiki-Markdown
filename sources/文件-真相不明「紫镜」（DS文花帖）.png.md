@@ -1,12 +1,8 @@
 # 文件:真相不明「紫镜」（DS文花帖）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\be\ns6%3A%E7%9C%9F%E7%9B%B8%E4%B8%8D%E6%98%8E%E3%80%8C%E7%B4%AB%E9%95%9C%E3%80%8D%EF%BC%88DS%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\be\ns6%3A%E7%9C%9F%E7%9B%B8%E4%B8%8D%E6%98%8E%E3%80%8C%E7%B4%AB%E9%95%9C%E3%80%8D%EF%BC%88DS%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Epng.html -->
 
 东方文花帖DS | 封兽鵺 | 敌机符卡
-
-
-
-
 
 
 ---

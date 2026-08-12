@@ -1,12 +1,8 @@
 # 文件:蓬莱「凯风快晴_-Fujiyama_Volcano-」（永夜抄）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\09\ns6%3A%E8%93%AC%E8%8E%B1%E3%80%8C%E5%87%AF%E9%A3%8E%E5%BF%AB%E6%99%B4_-Fujiyama_Volcano-%E3%80%8D%EF%BC%88%E6%B0%B8%E5%A4%9C%E6%8A%84%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\09\ns6%3A%E8%93%AC%E8%8E%B1%E3%80%8C%E5%87%AF%E9%A3%8E%E5%BF%AB%E6%99%B4_-Fujiyama_Volcano-%E3%80%8D%EF%BC%88%E6%B0%B8%E5%A4%9C%E6%8A%84%EF%BC%89%2Ejpg.html -->
 
 东方永夜抄 | 敌机符卡 | 藤原妹红
-
-
-
-
 
 
 ---

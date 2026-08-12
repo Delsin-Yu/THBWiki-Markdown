@@ -1,6 +1,6 @@
 # 文件:Ghost_and_your_heart封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dc\ns6%3AGhost_and_your_heart%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dc\ns6%3AGhost_and_your_heart%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Draw_the_Emotional | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Draw_the_Emotional | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Ghost and your heart](./Ghost_and_your_heart.md)  
-该封面包含的角色：- [丰聪耳神子](./丰聪耳神子.md)
-
-
-
+- [Ghost and your heart](./Ghost_and_your_heart.md)该封面包含的角色：
+- [丰聪耳神子](./丰聪耳神子.md)
 
 
 ---

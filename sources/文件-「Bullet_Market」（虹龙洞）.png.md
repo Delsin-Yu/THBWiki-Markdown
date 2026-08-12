@@ -1,14 +1,11 @@
 # 文件:「Bullet_Market」（虹龙洞）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\81\ns6%3A%E3%80%8CBullet_Market%E3%80%8D%EF%BC%88%E8%99%B9%E9%BE%99%E6%B4%9E%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\81\ns6%3A%E3%80%8CBullet_Market%E3%80%8D%EF%BC%88%E8%99%B9%E9%BE%99%E6%B4%9E%EF%BC%89%2Epng.html -->
 
 东方虹龙洞 | 天弓千亦 | 敌机符卡
 
 
 ## 文件说明
-
-
-
 
 ---
 

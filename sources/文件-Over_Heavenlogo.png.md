@@ -1,12 +1,8 @@
 # 文件:Over_Heavenlogo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dc\ns6%3AOver_Heavenlogo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dc\ns6%3AOver_Heavenlogo%2Epng.html -->
 
 Over_Heaven | 社团LOGO
-
-
-
-
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:BLACK_BIRD对谈26.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ce\ns6%3ABLACK_BIRD%E5%AF%B9%E8%B0%8826%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ce\ns6%3ABLACK_BIRD%E5%AF%B9%E8%B0%8826%2Ejpg.html -->
 
 BLACK_BIRD对谈 | 东方辉针城
-
-
-
-
 
 
 ---

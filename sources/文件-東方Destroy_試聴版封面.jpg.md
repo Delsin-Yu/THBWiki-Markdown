@@ -1,6 +1,6 @@
 # 文件:東方Destroy_試聴版封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2b\ns6%3A%E6%9D%B1%E6%96%B9Destroy_%E8%A9%A6%E8%81%B4%E7%89%88%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2b\ns6%3A%E6%9D%B1%E6%96%B9Destroy_%E8%A9%A6%E8%81%B4%E7%89%88%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Circle_S＆G | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ Circle_S＆G | 专辑封面 | 封面图片
   
 
 - [東方Destroy 試聴版](./東方Destroy_試聴版.md)
-
-
-
 
 
 ---

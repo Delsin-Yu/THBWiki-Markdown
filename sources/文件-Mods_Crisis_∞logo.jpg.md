@@ -1,18 +1,13 @@
 # 文件:Mods_Crisis_∞logo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\34\ns6%3AMods_Crisis_%E2%88%9Elogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\34\ns6%3AMods_Crisis_%E2%88%9Elogo%2Ejpg.html -->
 
 Mods_Crisis_∞ | 社团LOGO
 
 
 ## 摘要
   
-源地址：[direct image link (original size)](https://blog-imgs-45-origin.fc2.com/m/o/d/modscrisis/logo.jpg), [source page](http://modscrisis.blog.fc2.com/)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://blog-imgs-45-origin.fc2.com/m/o/d/modscrisis/logo.jpg), [source page](http://modscrisis.blog.fc2.com/)  
 
 ---
 

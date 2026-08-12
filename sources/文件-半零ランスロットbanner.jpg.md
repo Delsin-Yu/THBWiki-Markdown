@@ -1,18 +1,13 @@
 # 文件:半零ランスロットbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\94\ns6%3A%E5%8D%8A%E9%9B%B6%E3%83%A9%E3%83%B3%E3%82%B9%E3%83%AD%E3%83%83%E3%83%88banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\94\ns6%3A%E5%8D%8A%E9%9B%B6%E3%83%A9%E3%83%B3%E3%82%B9%E3%83%AD%E3%83%83%E3%83%88banner%2Ejpg.html -->
 
 半零ランスロット | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[direct image link](http://codeline.aikotoba.jp/img/banner/lancelot_bn.jpg), [source page](http://codeline.aikotoba.jp/link.html)
-  
-
-
-
-
+源地址：[direct image link](http://codeline.aikotoba.jp/img/banner/lancelot_bn.jpg), [source page](http://codeline.aikotoba.jp/link.html)  
 
 ---
 

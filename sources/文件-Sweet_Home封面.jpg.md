@@ -1,6 +1,6 @@
 # 文件:Sweet_Home封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5f\ns6%3ASweet_Home%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5f\ns6%3ASweet_Home%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 J&B | 专辑封面 | 封面图片
 
@@ -8,11 +8,10 @@ J&B | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Sweet Home](./Sweet_Home.md)  
-该封面包含的角色：- [橙](./橙.md)- [八云蓝](./八云蓝.md)- [八云紫](./八云紫.md)
-
-
-
+- [Sweet Home](./Sweet_Home.md)该封面包含的角色：
+- [橙](./橙.md)
+- [八云蓝](./八云蓝.md)
+- [八云紫](./八云紫.md)
 
 
 ---

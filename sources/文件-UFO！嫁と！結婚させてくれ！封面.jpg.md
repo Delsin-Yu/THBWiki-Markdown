@@ -1,6 +1,6 @@
 # 文件:UFO！嫁と！結婚させてくれ！封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\49\ns6%3AUFO%EF%BC%81%E5%AB%81%E3%81%A8%EF%BC%81%E7%B5%90%E5%A9%9A%E3%81%95%E3%81%9B%E3%81%A6%E3%81%8F%E3%82%8C%EF%BC%81%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\49\ns6%3AUFO%EF%BC%81%E5%AB%81%E3%81%A8%EF%BC%81%E7%B5%90%E5%A9%9A%E3%81%95%E3%81%9B%E3%81%A6%E3%81%8F%E3%82%8C%EF%BC%81%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 封面图片 | 月面玩具箱 | 软件封面
 
@@ -10,16 +10,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [UFO！嫁と！結婚させてくれ！](./UFO！嫁と！結婚させてくれ！.md)  
-该封面包含的角色：- [东风谷早苗](./东风谷早苗.md)- [古明地觉](./古明地觉.md)
+- [UFO！嫁と！結婚させてくれ！](./UFO！嫁と！結婚させてくれ！.md)该封面包含的角色：
+- [东风谷早苗](./东风谷早苗.md)
+- [古明地觉](./古明地觉.md)
 
   
-源地址：[direct image link (max size)](https://melonbooks.akamaized.net/upload/save_image/910000148692.jpg), [Melonbooks ID: 932106](https://www.melonbooks.co.jp/detail/detail.php?product_id=932106)
-  
-
-
-
-
+源地址：[direct image link (max size)](https://melonbooks.akamaized.net/upload/save_image/910000148692.jpg), [Melonbooks ID: 932106](https://www.melonbooks.co.jp/detail/detail.php?product_id=932106)  
 
 ---
 

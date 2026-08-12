@@ -1,6 +1,6 @@
 # 文件:幻想狂走譜Best1封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\75\ns6%3A%E5%B9%BB%E6%83%B3%E7%8B%82%E8%B5%B0%E8%AD%9CBest1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\75\ns6%3A%E5%B9%BB%E6%83%B3%E7%8B%82%E8%B5%B0%E8%AD%9CBest1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 月面着陸ファージ
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [幻想狂走譜Best1](./幻想狂走譜Best1.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [幻想狂走譜Best1](./幻想狂走譜Best1.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

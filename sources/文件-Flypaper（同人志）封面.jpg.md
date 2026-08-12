@@ -1,6 +1,6 @@
 # 文件:Flypaper（同人志）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c6\ns6%3AFlypaper%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c6\ns6%3AFlypaper%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Flypaper | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@ Flypaper | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Flypaper（同人志）](./Flypaper（同人志）.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
+- [Flypaper（同人志）](./Flypaper（同人志）.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
   
-源地址：[direct image link](https://ogikaze.up.seesaa.net/image/kouroumu7.jpg), [source page](http://ogikaze.seesaa.net/article/230455749.html)
-  
-
-
-
-
+源地址：[direct image link](https://ogikaze.up.seesaa.net/image/kouroumu7.jpg), [source page](http://ogikaze.seesaa.net/article/230455749.html)  
 
 ---
 

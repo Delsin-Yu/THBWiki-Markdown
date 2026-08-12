@@ -1,6 +1,6 @@
 # 文件:Restrict_Play_-東方縛りプレイ-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4b\ns6%3ARestrict_Play_-%E6%9D%B1%E6%96%B9%E7%B8%9B%E3%82%8A%E3%83%97%E3%83%AC%E3%82%A4-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4b\ns6%3ARestrict_Play_-%E6%9D%B1%E6%96%B9%E7%B8%9B%E3%82%8A%E3%83%97%E3%83%AC%E3%82%A4-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 CrossGear | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ CrossGear | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Restrict Play -東方縛りプレイ-](./Restrict_Play_-東方縛りプレイ-.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [Restrict Play -東方縛りプレイ-](./Restrict_Play_-東方縛りプレイ-.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

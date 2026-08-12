@@ -1,6 +1,6 @@
 # 文件:秘封と学ぶAR_MR_VR封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\70\ns6%3A%E7%A7%98%E5%B0%81%E3%81%A8%E5%AD%A6%E3%81%B6AR_MR_VR%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\70\ns6%3A%E7%A7%98%E5%B0%81%E3%81%A8%E5%AD%A6%E3%81%B6AR_MR_VR%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 同人志封面 | 封面图片 | 波兎望楼
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [秘封と学ぶAR MR VR](./秘封と学ぶAR_MR_VR.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [秘封と学ぶAR MR VR](./秘封と学ぶAR_MR_VR.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

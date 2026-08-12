@@ -1,12 +1,8 @@
 # 文件:Riversidelogo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\47\ns6%3ARiversidelogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\47\ns6%3ARiversidelogo%2Ejpg.html -->
 
 Riverside | 社团LOGO
-
-
-
-
 
 
 ---

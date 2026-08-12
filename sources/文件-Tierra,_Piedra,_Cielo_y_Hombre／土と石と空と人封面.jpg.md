@@ -1,6 +1,6 @@
 # 文件:Tierra,_Piedra,_Cielo_y_Hombre／土と石と空と人封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\95\ns6%3ATierra%2C_Piedra%2C_Cielo_y_Hombre%EF%BC%8F%E5%9C%9F%E3%81%A8%E7%9F%B3%E3%81%A8%E7%A9%BA%E3%81%A8%E4%BA%BA%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\95\ns6%3ATierra%2C_Piedra%2C_Cielo_y_Hombre%EF%BC%8F%E5%9C%9F%E3%81%A8%E7%9F%B3%E3%81%A8%E7%A9%BA%E3%81%A8%E4%BA%BA%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ジャージと愉快な仲間たち | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Tierra, Piedra, Cielo y Hombre／土と石と空と人](./Tierra,_Piedra,_Cielo_y_Hombre／土と石と空と人.md)  
-该封面包含的角色：- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [Tierra, Piedra, Cielo y Hombre／土と石と空と人](./Tierra,_Piedra,_Cielo_y_Hombre／土と石と空と人.md)该封面包含的角色：
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

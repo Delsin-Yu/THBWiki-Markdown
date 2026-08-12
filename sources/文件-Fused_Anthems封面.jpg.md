@@ -1,6 +1,6 @@
 # 文件:Fused_Anthems封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\59\ns6%3AFused_Anthems%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\59\ns6%3AFused_Anthems%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Amateras_Records | EastNewSound | 专辑封面 | 封面图片
 
@@ -10,11 +10,9 @@ Amateras_Records | EastNewSound | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Fused Anthems](./Fused_Anthems.md)  
-该封面包含的角色：- [八坂神奈子](./八坂神奈子.md)- [爱丽丝（旧作角色）](./爱丽丝（旧作角色）.md)
-
-
-
+- [Fused Anthems](./Fused_Anthems.md)该封面包含的角色：
+- [八坂神奈子](./八坂神奈子.md)
+- [爱丽丝（旧作角色）](./爱丽丝（旧作角色）.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:東方幽玄奏_～The_subtle_and_profound_a_sonata～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5c\ns6%3A%E6%9D%B1%E6%96%B9%E5%B9%BD%E7%8E%84%E5%A5%8F_%EF%BD%9EThe_subtle_and_profound_a_sonata%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5c\ns6%3A%E6%9D%B1%E6%96%B9%E5%B9%BD%E7%8E%84%E5%A5%8F_%EF%BD%9EThe_subtle_and_profound_a_sonata%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 狂奏楽団
 
@@ -10,16 +10,13 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方幽玄奏 ～The subtle and profound a sonata～](./東方幽玄奏_～The_subtle_and_profound_a_sonata～.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [雾雨魔理沙](./雾雨魔理沙.md)
+- [東方幽玄奏 ～The subtle and profound a sonata～](./東方幽玄奏_～The_subtle_and_profound_a_sonata～.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
 from scans (cropped and resized)
   
-
-
-
-
 
 ---
 

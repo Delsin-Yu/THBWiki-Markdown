@@ -1,12 +1,8 @@
 # 文件:速符「Sheep_Skin_Wolf」.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\53\ns6%3A%E9%80%9F%E7%AC%A6%E3%80%8CSheep_Skin_Wolf%E3%80%8D%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\53\ns6%3A%E9%80%9F%E7%AC%A6%E3%80%8CSheep_Skin_Wolf%E3%80%8D%2Ejpg.html -->
 
 東方邪星章製作チーム
-
-
-
-
 
 
 ---

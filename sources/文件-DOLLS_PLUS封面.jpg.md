@@ -1,6 +1,6 @@
 # 文件:DOLLS_PLUS封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e0\ns6%3ADOLLS_PLUS%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e0\ns6%3ADOLLS_PLUS%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 宇宙猫軍団 | 封面图片
 
@@ -10,15 +10,13 @@
 使用了本文件作封面图片的作品：
   
 
-- [DOLLS PLUS](./DOLLS_PLUS.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [梅蒂欣·梅兰可莉](./梅蒂欣·梅兰可莉.md)
+- [DOLLS PLUS](./DOLLS_PLUS.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [梅蒂欣·梅兰可莉](./梅蒂欣·梅兰可莉.md)
 
 : 源地址
 
 - [蜜瓜](https://melonbooks.akamaized.net/user_data/packages/resize_image.php?image=212001314160.jpg)
-
-
-
 
 
 ---

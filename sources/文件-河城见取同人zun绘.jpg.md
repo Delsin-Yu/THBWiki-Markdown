@@ -1,12 +1,8 @@
 # 文件:河城见取同人zun绘.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e0\ns6%3A%E6%B2%B3%E5%9F%8E%E8%A7%81%E5%8F%96%E5%90%8C%E4%BA%BAzun%E7%BB%98%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e0\ns6%3A%E6%B2%B3%E5%9F%8E%E8%A7%81%E5%8F%96%E5%90%8C%E4%BA%BAzun%E7%BB%98%2Ejpg.html -->
 
 二次角色立绘 | 河城见取
-
-
-
-
 
 
 ---

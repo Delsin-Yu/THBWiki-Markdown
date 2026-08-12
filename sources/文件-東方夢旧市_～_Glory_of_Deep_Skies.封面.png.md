@@ -1,6 +1,6 @@
 # 文件:東方夢旧市_～_Glory_of_Deep_Skies.封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\25\ns6%3A%E6%9D%B1%E6%96%B9%E5%A4%A2%E6%97%A7%E5%B8%82_%EF%BD%9E_Glory_of_Deep_Skies%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\25\ns6%3A%E6%9D%B1%E6%96%B9%E5%A4%A2%E6%97%A7%E5%B8%82_%EF%BD%9E_Glory_of_Deep_Skies%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Τeam_αlternative_Σnding | 封面图片 | 软件封面
 
@@ -8,11 +8,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方夢旧市 ～ Glory of Deep Skies.](./東方夢旧市_～_Glory_of_Deep_Skies..md)  
-该封面包含的角色：- [远堂丰海](./远堂丰海.md)- [明阳炎](./明阳炎.md)- [鸣上光](./鸣上光.md)
-
-
-
+- [東方夢旧市 ～ Glory of Deep Skies.](./東方夢旧市_～_Glory_of_Deep_Skies..md)该封面包含的角色：
+- [远堂丰海](./远堂丰海.md)
+- [明阳炎](./明阳炎.md)
+- [鸣上光](./鸣上光.md)
 
 
 ---

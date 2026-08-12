@@ -1,18 +1,13 @@
 # 文件:らいぶこんぷれっくすbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\59\ns6%3A%E3%82%89%E3%81%84%E3%81%B6%E3%81%93%E3%82%93%E3%81%B7%E3%82%8C%E3%81%A3%E3%81%8F%E3%81%99banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\59\ns6%3A%E3%82%89%E3%81%84%E3%81%B6%E3%81%93%E3%82%93%E3%81%B7%E3%82%8C%E3%81%A3%E3%81%8F%E3%81%99banner%2Ejpg.html -->
 
 らいぶこんぷれっくす | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[direct image link](http://epockmaking.web.fc2.com/link/livecom.jpg), [source page](http://epockmaking.web.fc2.com/link/link.html)
-  
-
-
-
-
+源地址：[direct image link](http://epockmaking.web.fc2.com/link/livecom.jpg), [source page](http://epockmaking.web.fc2.com/link/link.html)  
 
 ---
 

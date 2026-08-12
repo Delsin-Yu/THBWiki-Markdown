@@ -1,6 +1,6 @@
 # 文件:AM宣言記念コンピCD封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f7\ns6%3AAM%E5%AE%A3%E8%A8%80%E8%A8%98%E5%BF%B5%E3%82%B3%E3%83%B3%E3%83%94CD%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f7\ns6%3AAM%E5%AE%A3%E8%A8%80%E8%A8%98%E5%BF%B5%E3%82%B3%E3%83%B3%E3%83%94CD%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 酉京都アンチモダニズム宣言
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [AM宣言記念コンピCD](./AM宣言記念コンピCD.md)  
-该封面包含的角色：- [封兽鵺](./封兽鵺.md)
+- [AM宣言記念コンピCD](./AM宣言記念コンピCD.md)该封面包含的角色：
+- [封兽鵺](./封兽鵺.md)
 
   
-源地址：[direct image link (original size)](https://i1.sndcdn.com/artworks-000041888071-mb4edl-original.png), [source page (SoundCloud)](https://soundcloud.com/tatsu513/am-cd-crossfade)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://i1.sndcdn.com/artworks-000041888071-mb4edl-original.png), [source page (SoundCloud)](https://soundcloud.com/tatsu513/am-cd-crossfade)  
 
 ---
 

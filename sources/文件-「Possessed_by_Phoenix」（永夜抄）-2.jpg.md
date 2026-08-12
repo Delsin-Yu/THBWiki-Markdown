@@ -1,12 +1,8 @@
 # 文件:「Possessed_by_Phoenix」（永夜抄）-2.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2b\ns6%3A%E3%80%8CPossessed_by_Phoenix%E3%80%8D%EF%BC%88%E6%B0%B8%E5%A4%9C%E6%8A%84%EF%BC%89-2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2b\ns6%3A%E3%80%8CPossessed_by_Phoenix%E3%80%8D%EF%BC%88%E6%B0%B8%E5%A4%9C%E6%8A%84%EF%BC%89-2%2Ejpg.html -->
 
 东方永夜抄 | 敌机符卡 | 藤原妹红
-
-
-
-
 
 
 ---

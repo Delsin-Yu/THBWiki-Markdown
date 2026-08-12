@@ -1,12 +1,8 @@
 # 文件:se_timeout.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cf\ns6%3Ase_timeout%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cf\ns6%3Ase_timeout%2Emp3.html -->
 
 游戏音效
-
-
-
-
 
 
 ---

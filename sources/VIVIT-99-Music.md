@@ -1,10 +1,11 @@
 # VIVIT-99/Music
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\c\c8\ns0%3AVIVIT-99%2FMusic.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\c\c8\ns0%3AVIVIT-99%2FMusic.html -->
 
 VIVIT-99
 
-- 本词条内容为官方游戏西方Project系列第四作 **VIVIT-99** 的Music Room
+
+- 本词条内容为官方游戏西方Project系列第四作**VIVIT-99**的Music Room
 - 如果发现翻译问题可进行改正
 
 
@@ -23,10 +24,6 @@ VIVIT-99
 </td></tr>
 
 </tbody></table>
-
-
-
-
 
 
 ---

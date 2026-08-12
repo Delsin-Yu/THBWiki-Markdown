@@ -1,12 +1,8 @@
 # 文件:MisteryCircle_banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\38\ns6%3AMisteryCircle_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\38\ns6%3AMisteryCircle_banner%2Ejpg.html -->
 
 MisteryCircle | 社团LOGO
-
-
-
-
 
 
 ---

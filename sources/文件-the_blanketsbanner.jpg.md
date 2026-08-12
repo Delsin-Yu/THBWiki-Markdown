@@ -1,18 +1,13 @@
 # 文件:the_blanketsbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\76\ns6%3Athe_blanketsbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\76\ns6%3Athe_blanketsbanner%2Ejpg.html -->
 
 the_blankets | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[direct image link](http://epockmaking.web.fc2.com/link/blankets.jpg), [source page](http://epockmaking.web.fc2.com/link/link.html)
-  
-
-
-
-
+源地址：[direct image link](http://epockmaking.web.fc2.com/link/blankets.jpg), [source page](http://epockmaking.web.fc2.com/link/link.html)  
 
 ---
 

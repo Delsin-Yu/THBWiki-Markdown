@@ -1,6 +1,6 @@
 # 文件:MAKING_THE_COVER封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\00\ns6%3AMAKING_THE_COVER%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\00\ns6%3AMAKING_THE_COVER%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 9bFOX | 专辑封面 | 封面图片
 
@@ -10,11 +10,23 @@
 使用了本文件作封面图片的作品：
   
 
-- [MAKING THE COVER](./MAKING_THE_COVER.md)  
-该封面包含的角色：- [露米娅](./露米娅.md)- [琪露诺](./琪露诺.md)- [博丽灵梦](./博丽灵梦.md)- [橙](./橙.md)- [八云蓝](./八云蓝.md)- [莉格露·奈特巴格](./莉格露·奈特巴格.md)- [米斯蒂娅·萝蕾拉](./米斯蒂娅·萝蕾拉.md)- [八意永琳](./八意永琳.md)- [藤原妹红](./藤原妹红.md)- [射命丸文](./射命丸文.md)- [风见幽香](./风见幽香.md)- [河城荷取](./河城荷取.md)- [犬走椛](./犬走椛.md)- [娜兹玲](./娜兹玲.md)- [寅丸星](./寅丸星.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [MAKING THE COVER](./MAKING_THE_COVER.md)该封面包含的角色：
+- [露米娅](./露米娅.md)
+- [琪露诺](./琪露诺.md)
+- [博丽灵梦](./博丽灵梦.md)
+- [橙](./橙.md)
+- [八云蓝](./八云蓝.md)
+- [莉格露·奈特巴格](./莉格露·奈特巴格.md)
+- [米斯蒂娅·萝蕾拉](./米斯蒂娅·萝蕾拉.md)
+- [八意永琳](./八意永琳.md)
+- [藤原妹红](./藤原妹红.md)
+- [射命丸文](./射命丸文.md)
+- [风见幽香](./风见幽香.md)
+- [河城荷取](./河城荷取.md)
+- [犬走椛](./犬走椛.md)
+- [娜兹玲](./娜兹玲.md)
+- [寅丸星](./寅丸星.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

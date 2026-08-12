@@ -1,6 +1,6 @@
 # 文件:TOHO_PINO's_Art_Collecion封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\36\ns6%3ATOHO_PINO%27s_Art_Collecion%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\36\ns6%3ATOHO_PINO%27s_Art_Collecion%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Birthday_Party | 同人志封面 | 封面图片
 
@@ -10,16 +10,12 @@ Birthday_Party | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [TOHO PINO's Art Collecion](./TOHO_PINO's_Art_Collecion.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [雾雨魔理沙](./雾雨魔理沙.md)
+- [TOHO PINO's Art Collecion](./TOHO_PINO's_Art_Collecion.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-[Pixiv artwork ID: 40397736 (original size)](https://www.pixiv.net/artworks/40397736)
-  
-
-
-
-
+[Pixiv artwork ID: 40397736 (original size)](https://www.pixiv.net/artworks/40397736)  
 
 ---
 

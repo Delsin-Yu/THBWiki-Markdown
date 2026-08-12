@@ -1,12 +1,8 @@
 # 文件:Epic-Works／旗袍ver／东风谷早苗封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\48\ns6%3AEpic-Works%EF%BC%8F%E6%97%97%E8%A2%8Dver%EF%BC%8F%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\48\ns6%3AEpic-Works%EF%BC%8F%E6%97%97%E8%A2%8Dver%EF%BC%8F%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 封面图片 | 没有被使用的封面文件
-
-
-
-
 
 
 ---

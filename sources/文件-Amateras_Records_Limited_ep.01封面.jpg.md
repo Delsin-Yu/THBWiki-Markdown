@@ -1,6 +1,6 @@
 # 文件:Amateras_Records_Limited_ep.01封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4b\ns6%3AAmateras_Records_Limited_ep%2E01%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4b\ns6%3AAmateras_Records_Limited_ep%2E01%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Amateras_Records | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Amateras_Records | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Amateras Records Limited ep.01](./Amateras_Records_Limited_ep.01.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)
-
-
-
+- [Amateras Records Limited ep.01](./Amateras_Records_Limited_ep.01.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
 
 
 ---

@@ -1,16 +1,11 @@
 # 文件:Blood_of_Asurabanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b3\ns6%3ABlood_of_Asurabanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b3\ns6%3ABlood_of_Asurabanner%2Epng.html -->
 
 Blood_of_Asura | 社团LOGO
 
   
-源地址：[[1]](https://bloodofasura.bandcamp.com/)
-  
-
-
-
-
+源地址：[\[1\]](https://bloodofasura.bandcamp.com/)  
 
 ---
 

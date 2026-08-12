@@ -1,6 +1,6 @@
 # 文件:Toneless_Twilight_Tunes封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4c\ns6%3AToneless_Twilight_Tunes%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4c\ns6%3AToneless_Twilight_Tunes%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 club-DTM | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ club-DTM | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Toneless Twilight Tunes](./Toneless_Twilight_Tunes.md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)
-
-
-
+- [Toneless Twilight Tunes](./Toneless_Twilight_Tunes.md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
 
 
 ---

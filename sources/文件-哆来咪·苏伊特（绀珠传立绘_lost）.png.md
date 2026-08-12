@@ -1,12 +1,8 @@
 # 文件:哆来咪·苏伊特（绀珠传立绘_lost）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b1\ns6%3A%E5%93%86%E6%9D%A5%E5%92%AA%C2%B7%E8%8B%8F%E4%BC%8A%E7%89%B9%EF%BC%88%E7%BB%80%E7%8F%A0%E4%BC%A0%E7%AB%8B%E7%BB%98_lost%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b1\ns6%3A%E5%93%86%E6%9D%A5%E5%92%AA%C2%B7%E8%8B%8F%E4%BC%8A%E7%89%B9%EF%BC%88%E7%BB%80%E7%8F%A0%E4%BC%A0%E7%AB%8B%E7%BB%98_lost%EF%BC%89%2Epng.html -->
 
 ZUN绘 | 东方绀珠传 | 哆来咪·苏伊特 | 官方游戏立绘
-
-
-
-
 
 
 ---

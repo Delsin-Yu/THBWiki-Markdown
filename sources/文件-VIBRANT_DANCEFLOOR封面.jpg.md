@@ -1,6 +1,6 @@
 # 文件:VIBRANT_DANCEFLOOR封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0c\ns6%3AVIBRANT_DANCEFLOOR%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0c\ns6%3AVIBRANT_DANCEFLOOR%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Frozen_Starfall | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Frozen_Starfall | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [VIBRANT DANCEFLOOR](./VIBRANT_DANCEFLOOR.md)  
-该封面包含的角色：- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
-
-
-
+- [VIBRANT DANCEFLOOR](./VIBRANT_DANCEFLOOR.md)该封面包含的角色：
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
 
 
 ---

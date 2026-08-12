@@ -1,6 +1,6 @@
 # 文件:RecipRoomba_-4th_part-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b3\ns6%3ARecipRoomba_-4th_part-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b3\ns6%3ARecipRoomba_-4th_part-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 IMINIC | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@ IMINIC | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [RecipRoomba -4th part-](./RecipRoomba_-4th_part-.md)  
-该封面包含的角色：- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
-
-
-
+- [RecipRoomba -4th part-](./RecipRoomba_-4th_part-.md)该封面包含的角色：
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
 
 
 ---

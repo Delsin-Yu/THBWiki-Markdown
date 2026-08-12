@@ -1,6 +1,6 @@
 # 文件:If_You_Call_My_Name,If_You_Love_Me封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\34\ns6%3AIf_You_Call_My_Name%2CIf_You_Love_Me%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\34\ns6%3AIf_You_Call_My_Name%2CIf_You_Love_Me%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 グロテスクグリーン | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [If You Call My Name,If You Love Me](./If_You_Call_My_Name,If_You_Love_Me.md)  
-该封面包含的角色：- [苏我屠自古](./苏我屠自古.md)
-
-
-
+- [If You Call My Name,If You Love Me](./If_You_Call_My_Name,If_You_Love_Me.md)该封面包含的角色：
+- [苏我屠自古](./苏我屠自古.md)
 
 
 ---

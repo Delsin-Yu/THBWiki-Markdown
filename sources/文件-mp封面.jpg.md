@@ -1,6 +1,6 @@
 # 文件:mp封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f1\ns6%3Amp%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f1\ns6%3Amp%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 m9 | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ m9 | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [mp](./mp.md)  
-该封面包含的角色：- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
+- [mp](./mp.md)该封面包含的角色：
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
 
   
-源地址：[[1]](http://kidm9.web.fc2.com/img/mqcd0001.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://kidm9.web.fc2.com/img/mqcd0001.jpg)  
 
 ---
 

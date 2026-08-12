@@ -1,6 +1,6 @@
 # 文件:飛燕乱桜_-Valkyrie’s_spring-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\04\ns6%3A%E9%A3%9B%E7%87%95%E4%B9%B1%E6%A1%9C_-Valkyrie%E2%80%99s_spring-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\04\ns6%3A%E9%A3%9B%E7%87%95%E4%B9%B1%E6%A1%9C_-Valkyrie%E2%80%99s_spring-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 SHINE_SERVICE_STATION | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ SHINE_SERVICE_STATION | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [飛燕乱桜 -Valkyrie’s spring-](./飛燕乱桜_-Valkyrie’s_spring-.md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)
-
-
-
+- [飛燕乱桜 -Valkyrie’s spring-](./飛燕乱桜_-Valkyrie’s_spring-.md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
 
 
 ---

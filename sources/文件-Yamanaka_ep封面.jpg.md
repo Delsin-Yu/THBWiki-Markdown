@@ -1,6 +1,6 @@
 # 文件:Yamanaka_ep封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f0\ns6%3AYamanaka_ep%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f0\ns6%3AYamanaka_ep%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 山中荘
 
@@ -10,17 +10,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [Yamanaka ep](./Yamanaka_ep.md)  
-该封面包含的角色：- [物部布都](./物部布都.md)
+- [Yamanaka ep](./Yamanaka_ep.md)该封面包含的角色：
+- [物部布都](./物部布都.md)
 
   
 原地址：<img src="https://i1.sndcdn.com/artworks-000116371808-xxxx3j-t500x500.jpg" alt="artworks-000116371808-xxxx3j-t500x500.jpg">
-
   
-
-
-
-
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:chapter1封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6c\ns6%3Achapter1%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6c\ns6%3Achapter1%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 東方事変
 
@@ -13,12 +13,7 @@
 - [chapter1](./chapter1.md)
 
   
-源地址：[图片链接](https://static.tumblr.com/5e976946fe55d2b5f813f966f111b0c9/2bkmzwy/B0upvoin5/tumblr_static_7mx6l18au000c04wo0gwc0css.png) [特设页面](https://thjhc96.tumblr.com/)
-  
-
-
-
-
+源地址：[图片链接](https://static.tumblr.com/5e976946fe55d2b5f813f966f111b0c9/2bkmzwy/B0upvoin5/tumblr_static_7mx6l18au000c04wo0gwc0css.png) [特设页面](https://thjhc96.tumblr.com/)  
 
 ---
 

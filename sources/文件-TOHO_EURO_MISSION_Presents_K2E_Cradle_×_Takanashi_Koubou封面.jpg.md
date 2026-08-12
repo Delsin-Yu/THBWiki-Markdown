@@ -1,6 +1,6 @@
 # 文件:TOHO_EURO_MISSION_Presents_K2E_Cradle_×_Takanashi_Koubou封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4d\ns6%3ATOHO_EURO_MISSION_Presents_K2E_Cradle_%C3%97_Takanashi_Koubou%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4d\ns6%3ATOHO_EURO_MISSION_Presents_K2E_Cradle_%C3%97_Takanashi_Koubou%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 K2E†Cradle | 专辑封面 | 封面图片 | 高梨工房
 
@@ -10,11 +10,9 @@ K2E†Cradle | 专辑封面 | 封面图片 | 高梨工房
 使用了本文件作封面图片的作品：
   
 
-- [TOHO EURO MISSION Presents K2E Cradle × Takanashi Koubou](./TOHO_EURO_MISSION_Presents_K2E_Cradle_×_Takanashi_Koubou.md)  
-该封面包含的角色：- [红美铃](./红美铃.md)- [藤原妹红](./藤原妹红.md)
-
-
-
+- [TOHO EURO MISSION Presents K2E Cradle × Takanashi Koubou](./TOHO_EURO_MISSION_Presents_K2E_Cradle_×_Takanashi_Koubou.md)该封面包含的角色：
+- [红美铃](./红美铃.md)
+- [藤原妹红](./藤原妹红.md)
 
 
 ---

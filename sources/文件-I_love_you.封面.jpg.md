@@ -1,6 +1,6 @@
 # 文件:I_love_you.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\53\ns6%3AI_love_you%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\53\ns6%3AI_love_you%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 m9 | 专辑封面 | 封面图片
 
@@ -8,16 +8,12 @@ m9 | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [I love you.](./I_love_you..md)  
-该封面包含的角色：- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)- [雾雨魔理沙](./雾雨魔理沙.md)
+- [I love you.](./I_love_you..md)该封面包含的角色：
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-源地址：[[1]](http://kidm9.web.fc2.com/img/mqcd0004.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://kidm9.web.fc2.com/img/mqcd0004.jpg)  
 
 ---
 

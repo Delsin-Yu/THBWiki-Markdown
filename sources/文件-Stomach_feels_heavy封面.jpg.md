@@ -1,6 +1,6 @@
 # 文件:Stomach_feels_heavy封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\62\ns6%3AStomach_feels_heavy%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\62\ns6%3AStomach_feels_heavy%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 あひる禁猟区 | 同人志封面 | 封面图片
 
@@ -8,11 +8,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [Stomach feels heavy](./Stomach_feels_heavy.md)  
-该封面包含的角色：- [霍青娥](./霍青娥.md)- [苏我屠自古](./苏我屠自古.md)- [物部布都](./物部布都.md)- [丰聪耳神子](./丰聪耳神子.md)- [秦心](./秦心.md)
-
-
-
+- [Stomach feels heavy](./Stomach_feels_heavy.md)该封面包含的角色：
+- [霍青娥](./霍青娥.md)
+- [苏我屠自古](./苏我屠自古.md)
+- [物部布都](./物部布都.md)
+- [丰聪耳神子](./丰聪耳神子.md)
+- [秦心](./秦心.md)
 
 
 ---

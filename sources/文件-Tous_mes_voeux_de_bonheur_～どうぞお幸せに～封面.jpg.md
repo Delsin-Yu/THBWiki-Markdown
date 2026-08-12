@@ -1,6 +1,6 @@
 # 文件:Tous_mes_voeux_de_bonheur_～どうぞお幸せに～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\65\ns6%3ATous_mes_voeux_de_bonheur_%EF%BD%9E%E3%81%A9%E3%81%86%E3%81%9E%E3%81%8A%E5%B9%B8%E3%81%9B%E3%81%AB%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\65\ns6%3ATous_mes_voeux_de_bonheur_%EF%BD%9E%E3%81%A9%E3%81%86%E3%81%9E%E3%81%8A%E5%B9%B8%E3%81%9B%E3%81%AB%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 une_fille_du_la_campagne | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@ une_fille_du_la_campagne | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Tous mes voeux de bonheur ～どうぞお幸せに～](./Tous_mes_voeux_de_bonheur_～どうぞお幸せに～.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
+- [Tous mes voeux de bonheur ～どうぞお幸せに～](./Tous_mes_voeux_de_bonheur_～どうぞお幸せに～.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
   
-源地址：[suruga-ya](https://www.suruga-ya.jp/product/detail/186109781)
-  
-
-
-
-
+源地址：[suruga-ya](https://www.suruga-ya.jp/product/detail/186109781)  
 
 ---
 

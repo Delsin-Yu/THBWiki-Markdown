@@ -1,28 +1,22 @@
 # Cross_our_memories
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\c\ca\ns0%3ACross_our_memories.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\c\ca\ns0%3ACross_our_memories.html -->
 
 2009年8月15日 由 ナナシノ十字星団 于 Comic Market 76 发布的漫画同人志，B5尺寸一共76页，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人志 (未找到链接)** 的词条
-
+**[二次创作同人志](./二次创作.md#同人志)**的词条
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Cross_our_memories封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/b/bd/Cross_our_memories%E5%B0%81%E9%9D%A2.jpg/137px-Cross_our_memories%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="137" height="196" srcset="https://upload.thwiki.cc/thumb/b/bd/Cross_our_memories%E5%B0%81%E9%9D%A2.jpg/205px-Cross_our_memories%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/b/bd/Cross_our_memories%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="268" data-file-height="384"></a><div class="cover-char">角色：<a href="./宇佐见莲子.md" title="宇佐见莲子">宇佐见莲子</a>，<a href="./玛艾露贝莉·赫恩.md" title="玛艾露贝莉·赫恩">玛艾露贝莉·赫恩</a></div></td>
 </tr><tr><td class="label">名称</td><td colspan="2"> Cross our memories </td></tr><tr><td class="label">制作方</td><td><a href="./ナナシノ十字星団.md" title="ナナシノ十字星団">ナナシノ十字星団</a></td><td class="cover-artwork" rowspan="7" style="min-width:196px;"><a href="./文件-Cross_our_memories封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/b/bd/Cross_our_memories%E5%B0%81%E9%9D%A2.jpg/137px-Cross_our_memories%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="137" height="196" srcset="https://upload.thwiki.cc/thumb/b/bd/Cross_our_memories%E5%B0%81%E9%9D%A2.jpg/205px-Cross_our_memories%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/b/bd/Cross_our_memories%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="268" data-file-height="384"></a><div class="cover-char">角色：<a href="./宇佐见莲子.md" title="宇佐见莲子">宇佐见莲子</a>，<a href="./玛艾露贝莉·赫恩.md" title="玛艾露贝莉·赫恩">玛艾露贝莉·赫恩</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2009-08-15&#160;（<a href="/展会作品列表?e=Comic+Market%2376">Comic Market 76</a>）</td></tr><tr><td class="label">类型</td><td>漫画</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>B5</td></tr><tr><td class="label">页数</td><td>76P</td></tr><tr><td class="label">售价</td><td>会场售价：500日元</td></tr></tbody></table>
+</tr><tr><td class="label">首发日期</td><td>2009-08-15 （<a href="./展会作品列表.md#76">Comic Market 76</a>）</td></tr><tr><td class="label">类型</td><td>漫画</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>B5</td></tr><tr><td class="label">页数</td><td>76P</td></tr><tr><td class="label">售价</td><td>会场售价：500日元</td></tr></tbody></table>
 
 Cross our memories（同人志，ナナシノ十字星団，2009） - 2009年8月15日 由 ナナシノ十字星団 于 Comic Market 76 发布的漫画同人志，B5尺寸一共76页，分级为 一般向
-
 ## Staff
 : 七篠創太 (未找到链接)
 
-
 ## 评论
-
-
-
 
 ---
 

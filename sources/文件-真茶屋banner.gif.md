@@ -1,12 +1,8 @@
 # 文件:真茶屋banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\97\ns6%3A%E7%9C%9F%E8%8C%B6%E5%B1%8Bbanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\97\ns6%3A%E7%9C%9F%E8%8C%B6%E5%B1%8Bbanner%2Egif.html -->
 
 真茶屋 | 社团LOGO
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:愛華天翔-SCARLET_FANTASIA_XXII-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6a\ns6%3A%E6%84%9B%E8%8F%AF%E5%A4%A9%E7%BF%94-SCARLET_FANTASIA_XXII-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6a\ns6%3A%E6%84%9B%E8%8F%AF%E5%A4%A9%E7%BF%94-SCARLET_FANTASIA_XXII-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 岡垣正志＆フレンズ
 
@@ -11,9 +11,6 @@
   
 
 - [愛華天翔-SCARLET FANTASIA XXII-](./愛華天翔-SCARLET_FANTASIA_XXII-.md)
-
-
-
 
 
 ---

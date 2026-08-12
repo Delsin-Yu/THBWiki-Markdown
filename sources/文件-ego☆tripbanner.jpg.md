@@ -1,14 +1,11 @@
 # 文件:ego☆tripbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\49\ns6%3Aego%E2%98%86tripbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\49\ns6%3Aego%E2%98%86tripbanner%2Ejpg.html -->
 
 ego☆trip | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

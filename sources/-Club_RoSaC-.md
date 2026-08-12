@@ -1,13 +1,11 @@
 # -Club_RoSaC-
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\28\ns0%3A-Club_RoSaC-.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\28\ns0%3A-Club_RoSaC-.html -->
 
 2010年9月5日 由 -Room of Sound and Color- 于 ComicTreasure 16 发布的同人专辑，曲目主要风格是 Trance，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人专辑 (未找到链接)** 的词条
-<center>
-
+**[二次创作同人专辑](./二次创作.md#同人音乐)**的词条<center>
 <table>
 <tbody><tr>
 <td class="mbox-image"><div style="width: 52px;">
@@ -16,39 +14,27 @@
 </tr>
 </tbody></table>
 
-
 </center>
-
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件--Club_RoSaC-封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/c/c0/-Club_RoSaC-%E5%B0%81%E9%9D%A2.jpg/196px--Club_RoSaC-%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="196" height="196" srcset="https://upload.thwiki.cc/thumb/c/c0/-Club_RoSaC-%E5%B0%81%E9%9D%A2.jpg/294px--Club_RoSaC-%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/c/c0/-Club_RoSaC-%E5%B0%81%E9%9D%A2.jpg/392px--Club_RoSaC-%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="640" data-file-height="640"></a><div class="cover-char">角色：<a href="./帕秋莉·诺蕾姬.md" title="帕秋莉·诺蕾姬">帕秋莉·诺蕾姬</a></div></td>
 </tr><tr><td class="label">名称</td><td colspan="2"> -Club RoSaC- </td></tr><tr><td class="label">制作方</td><td><a href="./-Room_of_Sound_and_Color-.md" title="-Room of Sound and Color-">-Room of Sound and Color-</a></td><td class="cover-artwork" rowspan="7" style="min-width:196px;"><a href="./文件--Club_RoSaC-封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/c/c0/-Club_RoSaC-%E5%B0%81%E9%9D%A2.jpg/196px--Club_RoSaC-%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="196" height="196" srcset="https://upload.thwiki.cc/thumb/c/c0/-Club_RoSaC-%E5%B0%81%E9%9D%A2.jpg/294px--Club_RoSaC-%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/c/c0/-Club_RoSaC-%E5%B0%81%E9%9D%A2.jpg/392px--Club_RoSaC-%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="640" data-file-height="640"></a><div class="cover-char">角色：<a href="./帕秋莉·诺蕾姬.md" title="帕秋莉·诺蕾姬">帕秋莉·诺蕾姬</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2010-09-05&#160;（<a href="/展会作品列表?e=ComicTreasure%2316">こみっく★トレジャー16</a>）</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>0</td></tr><tr><td class="label">总时长</td><td>00:00</td></tr><tr><td class="label">风格类型</td><td>Trance</td></tr>
+</tr><tr><td class="label">首发日期</td><td>2010-09-05 （<a href="./展会作品列表.md#16">こみっく★トレジャー16</a>）</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>0</td></tr><tr><td class="label">总时长</td><td>00:00</td></tr><tr><td class="label">风格类型</td><td>Trance</td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://rosac.ukime.org/Info.html">http://rosac.ukime.org/Info.html</a></td></tr></tbody></table>
 
 -Club RoSaC-（同人专辑，-Room of Sound and Color-，2010） - 2010年9月5日 由 -Room of Sound and Color- 于 ComicTreasure 16 发布的同人专辑，曲目主要风格是 Trance，分级为 一般向
-
 ## Staff
 Illustration
 : みなぎ （ビテイコツハンター (未找到链接)）
-
 
 ## 试听
   
 暂不支援此类型
   
 
-
 ## 曲目列表
 
-<table></table>
-
-
-
 ## 评论
-
-
-
 
 ---
 

@@ -1,12 +1,8 @@
 # 文件:八坂神奈子（风神录立绘）6dp.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ef\ns6%3A%E5%85%AB%E5%9D%82%E7%A5%9E%E5%A5%88%E5%AD%90%EF%BC%88%E9%A3%8E%E7%A5%9E%E5%BD%95%E7%AB%8B%E7%BB%98%EF%BC%896dp%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ef\ns6%3A%E5%85%AB%E5%9D%82%E7%A5%9E%E5%A5%88%E5%AD%90%EF%BC%88%E9%A3%8E%E7%A5%9E%E5%BD%95%E7%AB%8B%E7%BB%98%EF%BC%896dp%2Epng.html -->
 
 ZUN绘 | 东方风神录 | 八坂神奈子 | 官方游戏立绘
-
-
-
-
 
 
 ---

@@ -1,14 +1,11 @@
 # 文件:森羅万象ノ宴LOGO.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a8\ns6%3A%E6%A3%AE%E7%BE%85%E4%B8%87%E8%B1%A1%E3%83%8E%E5%AE%B4LOGO%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a8\ns6%3A%E6%A3%AE%E7%BE%85%E4%B8%87%E8%B1%A1%E3%83%8E%E5%AE%B4LOGO%2Epng.html -->
 
 森罗万象之宴
 
 
 ## 文件说明
-
-
-
 
 ---
 

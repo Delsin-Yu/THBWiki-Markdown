@@ -1,18 +1,13 @@
 # 文件:KyokudoCore_Recordslogo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a7\ns6%3AKyokudoCore_Recordslogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a7\ns6%3AKyokudoCore_Recordslogo%2Ejpg.html -->
 
 KyokudoCore_Records | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[[1]](https://f4.bcbits.com/img/0002189406_10.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://f4.bcbits.com/img/0002189406_10.jpg)  
 
 ---
 

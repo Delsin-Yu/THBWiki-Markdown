@@ -1,12 +1,8 @@
 # 文件:Show_and_Tellbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\55\ns6%3AShow_and_Tellbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\55\ns6%3AShow_and_Tellbanner%2Ejpg.html -->
 
 Show_and_Tell | 社团LOGO
-
-
-
-
 
 
 ---

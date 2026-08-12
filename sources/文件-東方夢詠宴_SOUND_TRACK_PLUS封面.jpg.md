@@ -1,6 +1,6 @@
 # 文件:東方夢詠宴_SOUND_TRACK_PLUS封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\af\ns6%3A%E6%9D%B1%E6%96%B9%E5%A4%A2%E8%A9%A0%E5%AE%B4_SOUND_TRACK_PLUS%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\af\ns6%3A%E6%9D%B1%E6%96%B9%E5%A4%A2%E8%A9%A0%E5%AE%B4_SOUND_TRACK_PLUS%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Golden_City_Factory | 专辑封面 | 封面图片
 
@@ -8,11 +8,17 @@ Golden_City_Factory | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方夢詠宴 SOUND TRACK PLUS](./東方夢詠宴_SOUND_TRACK_PLUS.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- 十六夜咲夜 (未找到链接)- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)- [魂魄妖梦](./魂魄妖梦.md)- [西行寺幽幽子](./西行寺幽幽子.md)- [八云紫](./八云紫.md)- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)- [蓬莱山辉夜](./蓬莱山辉夜.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [東方夢詠宴 SOUND TRACK PLUS](./東方夢詠宴_SOUND_TRACK_PLUS.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [十六夜咲夜](./十六夜咲夜.md)
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [魂魄妖梦](./魂魄妖梦.md)
+- [西行寺幽幽子](./西行寺幽幽子.md)
+- [八云紫](./八云紫.md)
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
+- [蓬莱山辉夜](./蓬莱山辉夜.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:MONEけしごむbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\64\ns6%3AMONE%E3%81%91%E3%81%97%E3%81%94%E3%82%80banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\64\ns6%3AMONE%E3%81%91%E3%81%97%E3%81%94%E3%82%80banner%2Ejpg.html -->
 
 MONEけしごむ | 社团LOGO
-
-
-
-
 
 
 ---

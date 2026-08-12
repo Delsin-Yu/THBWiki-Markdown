@@ -1,6 +1,6 @@
 # 文件:Individuality封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8f\ns6%3AIndividuality%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8f\ns6%3AIndividuality%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 夢幻燈 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Individuality](./Individuality.md)  
-该封面包含的角色：- [八意永琳](./八意永琳.md)
-
-
-
+- [Individuality](./Individuality.md)该封面包含的角色：
+- [八意永琳](./八意永琳.md)
 
 
 ---

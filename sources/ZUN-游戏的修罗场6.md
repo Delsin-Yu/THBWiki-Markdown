@@ -1,8 +1,9 @@
 # ZUN/游戏的修罗场6
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\3\3e\ns0%3AZUN%2F%E6%B8%B8%E6%88%8F%E7%9A%84%E4%BF%AE%E7%BD%97%E5%9C%BA6.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\3\3e\ns0%3AZUN%2F%E6%B8%B8%E6%88%8F%E7%9A%84%E4%BF%AE%E7%BD%97%E5%9C%BA6.html -->
 
 ZUN | 采访
+
 
 - 本次访谈刊载于にじけん（Nijiken）的合同志游戏的修罗场6。
 - 翻译：京都人形
@@ -73,7 +74,7 @@ ZUN | 采访
 <dl><dt>出水</dt>
 <dd>这很有意思。</dd></dl>
 <pre>func:Boss1_at(float rd2)
-  @set_et(0, ETON_CIR, ET32H, BLUE32, &lt;span style="background-color:gray;"&gt;{{color:white|20：32：42：58}}&lt;/span&gt;, 1, 0, R_10, 3.1, 1.0)
+  @set_et(0, ETON_CIR, ET32H, BLUE32, <span style="background-color:gray;">{{color:white|20：32：42：58}}</span>, 1, 0, R_10, 3.1, 1.0)
   @exi_effon1(0)
   @exi_spup(0, EX_WAIT, 90, -3.0/120.0, NEG)
   @exi_delay(0, 60)
@@ -146,14 +147,14 @@ func:BossCard2()
   cardE(CARD_ST5_2E, TIME_CARD2*60, SCORE_CARD1, "投皿「物部氏的八十平瓮」")
   pos_i(60, IT_2X_I, 0.0, 96.0)
 
-+60 &#160;: nop
-+60 &#160;: nop
++60  : nop
++60  : nop
   clip(0.0, 128.0, 96.0, 64.0)
 
-  float x,y,r &lt;== PI/15: PI/15: PI/19: PI/23
-  int max &lt;== 19: 32: 40: 48
+  float x,y,r <== PI/15: PI/15: PI/19: PI/23
+  int max <== 19: 32: 40: 48
 
-  I0 &lt;== 9: 19: 24: 33
+  I0 <== 9: 19: 24: 33
   while(1){
     @EffChargeCyan()
     anim_at(0)
@@ -165,7 +166,7 @@ func:BossCard2()
     rot_r(120, IT_SIN_DI, 1.0)
     wait(140)
 
-    if(I0 &lt; max){
+    if(I0 < max){
       IO += 2
     }
   }
@@ -183,7 +184,7 @@ func:BossCard2_at(float rd)
   @exi_spup2(0, EX_WAIT, 120, 0.1, NEG)
   et_ofs(0, 0, -16)
 
-  float r &lt;== AIM + rd*5: AIM - rd*5: AIM – rd*5: AIM - rd*5, sp = 1.0, sp2
+  float r <== AIM + rd*5: AIM - rd*5: AIM – rd*5: AIM - rd*5, sp = 1.0, sp2
 
   Times(I0){
     et_sp(0, sp, 0)
@@ -406,7 +407,7 @@ end
 <dl><dt>出水</dt>
 <dd>希望您能出CD呢。</dd></dl>
 <dl><dt>zun</dt>
-<dd>填满一张CD太麻烦了。而且，我也不想写MML，都是用Recomposer<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">1</a></sup>制作的。</dd></dl>
+<dd>填满一张CD太麻烦了。而且，我也不想写MML，都是用Recomposer<span>[^cite_note-1]</span>制作的。</dd></dl>
 <dl><dt>出水</dt>
 <dd>那不就是MIDI了吗！</dd></dl>
 <dl><dt>zun</dt>
@@ -463,13 +464,7 @@ end
 </div>
 </div></td></tr></tbody></table>
 
-
-
 [^cite_note-1]: PC98的音序器的一种
-
-
-
-
 
 ---
 

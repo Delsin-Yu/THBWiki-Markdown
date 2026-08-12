@@ -1,6 +1,6 @@
 # 文件:THE_DANGER_IN_MY_HEART封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9f\ns6%3ATHE_DANGER_IN_MY_HEART%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9f\ns6%3ATHE_DANGER_IN_MY_HEART%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 StarlessTrilogy | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ StarlessTrilogy | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [THE DANGER IN MY HEART](./THE_DANGER_IN_MY_HEART.md)  
-该封面包含的角色：- [霍青娥](./霍青娥.md)
-
-
-
+- [THE DANGER IN MY HEART](./THE_DANGER_IN_MY_HEART.md)该封面包含的角色：
+- [霍青娥](./霍青娥.md)
 
 
 ---

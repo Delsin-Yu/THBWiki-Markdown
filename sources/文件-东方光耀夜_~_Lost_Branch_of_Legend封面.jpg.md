@@ -1,6 +1,6 @@
 # 文件:东方光耀夜_~_Lost_Branch_of_Legend封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bb\ns6%3A%E4%B8%9C%E6%96%B9%E5%85%89%E8%80%80%E5%A4%9C_%7E_Lost_Branch_of_Legend%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bb\ns6%3A%E4%B8%9C%E6%96%B9%E5%85%89%E8%80%80%E5%A4%9C_%7E_Lost_Branch_of_Legend%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Alioth_Studio | 封面图片 | 软件封面
 
@@ -10,11 +10,8 @@ Alioth_Studio | 封面图片 | 软件封面
 使用了本文件作封面图片的作品：
   
 
-- [东方光耀夜 ~ Lost Branch of Legend](./东方光耀夜_~_Lost_Branch_of_Legend.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [东方光耀夜 ~ Lost Branch of Legend](./东方光耀夜_~_Lost_Branch_of_Legend.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

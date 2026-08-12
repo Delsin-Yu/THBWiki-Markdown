@@ -1,12 +1,8 @@
 # 文件:鏡花風月banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\39\ns6%3A%E9%8F%A1%E8%8A%B1%E9%A2%A8%E6%9C%88banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\39\ns6%3A%E9%8F%A1%E8%8A%B1%E9%A2%A8%E6%9C%88banner%2Epng.html -->
 
 社团LOGO | 鏡花風月
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:"Everything_but_the_Girl"_Hatsunetsumiko's_Dance_Vocal_Collection_Vol.2封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a4\ns6%3A%22Everything_but_the_Girl%22_Hatsunetsumiko%27s_Dance_Vocal_Collection_Vol%2E2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a4\ns6%3A%22Everything_but_the_Girl%22_Hatsunetsumiko%27s_Dance_Vocal_Collection_Vol%2E2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 発熱巫女～ず
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- ["Everything but the Girl" Hatsunetsumiko's Dance Vocal Collection Vol.2](./-Everything_but_the_Girl-_Hatsunetsumiko's_Dance_Vocal_Collection_Vol.2.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
+- ["Everything but the Girl" Hatsunetsumiko's Dance Vocal Collection Vol.2](./-Everything_but_the_Girl-_Hatsunetsumiko's_Dance_Vocal_Collection_Vol.2.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
   
-源地址：[[1]](http://ec.akbh.jp/upload/save_image/pics/2100000066629.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://ec.akbh.jp/upload/save_image/pics/2100000066629.jpg)  
 
 ---
 

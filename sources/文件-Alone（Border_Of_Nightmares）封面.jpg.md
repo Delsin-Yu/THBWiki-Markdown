@@ -1,6 +1,6 @@
 # 文件:Alone（Border_Of_Nightmares）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2b\ns6%3AAlone%EF%BC%88Border_Of_Nightmares%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2b\ns6%3AAlone%EF%BC%88Border_Of_Nightmares%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Border_Of_Nightmares | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ Border_Of_Nightmares | 专辑封面 | 封面图片
   
 
 - [Alone（Border Of Nightmares）](./Alone（Border_Of_Nightmares）.md)
-
-
-
 
 
 ---

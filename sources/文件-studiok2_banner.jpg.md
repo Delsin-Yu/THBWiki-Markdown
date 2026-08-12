@@ -1,14 +1,11 @@
 # 文件:studiok2_banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8b\ns6%3Astudiok2_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8b\ns6%3Astudiok2_banner%2Ejpg.html -->
 
 岸田教团 | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

@@ -1,16 +1,11 @@
 # 文件:R／K_Projectbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c5\ns6%3AR%EF%BC%8FK_Projectbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c5\ns6%3AR%EF%BC%8FK_Projectbanner%2Epng.html -->
 
 R／K_Project | 社团LOGO
 
   
-源地址：[[1]](http://r44kproject.web.fc2.com/banna_new.png)
-  
-
-
-
-
+源地址：[\[1\]](http://r44kproject.web.fc2.com/banna_new.png)  
 
 ---
 

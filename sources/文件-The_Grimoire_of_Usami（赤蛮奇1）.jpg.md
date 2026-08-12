@@ -1,14 +1,11 @@
 # 文件:The_Grimoire_of_Usami（赤蛮奇1）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2d\ns6%3AThe_Grimoire_of_Usami%EF%BC%88%E8%B5%A4%E8%9B%AE%E5%A5%871%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2d\ns6%3AThe_Grimoire_of_Usami%EF%BC%88%E8%B5%A4%E8%9B%AE%E5%A5%871%EF%BC%89%2Ejpg.html -->
 
 宇佐见的魔法书 | 赤蛮奇
 
 
 ## 摘要
-
-
-
 
 ---
 

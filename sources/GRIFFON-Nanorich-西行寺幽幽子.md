@@ -1,37 +1,19 @@
 # GRIFFON/Nanorich/西行寺幽幽子
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\7\7d\ns0%3AGRIFFON%2FNanorich%2F%E8%A5%BF%E8%A1%8C%E5%AF%BA%E5%B9%BD%E5%B9%BD%E5%AD%90.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\7\7d\ns0%3AGRIFFON%2FNanorich%2F%E8%A5%BF%E8%A1%8C%E5%AF%BA%E5%B9%BD%E5%B9%BD%E5%AD%90.html -->
 
 西行寺幽幽子PVCFigure手办模型
 
 本页是关于东方Project  
- **相关实体周边 (未找到链接)** 的词条
-
+**相关实体周边 (未找到链接)**的词条
 ## 模型信息
 
-<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 西行寺幽幽子 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>Nanorich</td></tr><tr><td class="label">角色</td><td><a href="./西行寺幽幽子.md" title="西行寺幽幽子">西行寺幽幽子</a></td></tr><tr><td class="label">尺寸</td><td>100mm</td></tr><tr><td class="label">状态</td><td>未发售</td></tr><tr><td class="label">发售方</td><td><a href="/index.php?title=GRIFFON&amp;action=edit&amp;redlink=1" class="new" title="GRIFFON（页面不存在）">GRIFFON</a></td></tr></tbody></table>
+<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 西行寺幽幽子 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>Nanorich</td></tr><tr><td class="label">角色</td><td><a href="./西行寺幽幽子.md" title="西行寺幽幽子">西行寺幽幽子</a></td></tr><tr><td class="label">尺寸</td><td>100mm</td></tr><tr><td class="label">状态</td><td>未发售</td></tr><tr><td class="label">发售方</td><td><a class="new" title="GRIFFON（页面不存在）">GRIFFON</a></td></tr></tbody></table>
 
 GRIFFON/Nanorich/西行寺幽幽子（周边） - 西行寺幽幽子PVCFigure手办模型
-
 ## 参考图片
-
-
-
-[](./文件-GRIFFONNanorich西行寺幽幽子-1.jpg.md)
-
-
-文件:GRIFFONNanorich西行寺幽幽子-2.jpg (未找到链接)
-
-
-文件:GRIFFONNanorich西行寺幽幽子-3.jpg (未找到链接)
-
-公式图
-
-
-
-
-
-
+<img alt="GRIFFONNanorich西行寺幽幽子" src="https://upload.thwiki.cc/thumb/f/f1/GRIFFONNanorich%E8%A5%BF%E8%A1%8C%E5%AF%BA%E5%B9%BD%E5%B9%BD%E5%AD%90-1.jpg/160px-GRIFFONNanorich%E8%A5%BF%E8%A1%8C%E5%AF%BA%E5%B9%BD%E5%B9%BD%E5%AD%90-1.jpg" decoding="async" loading="lazy" width="160" height="167" srcset="https://upload.thwiki.cc/f/f1/GRIFFONNanorich%E8%A5%BF%E8%A1%8C%E5%AF%BA%E5%B9%BD%E5%B9%BD%E5%AD%90-1.jpg 1.5x" data-file-width="170" data-file-height="177">
+文件:GRIFFONNanorich西行寺幽幽子-2.jpg (未找到链接)文件:GRIFFONNanorich西行寺幽幽子-3.jpg (未找到链接)公式图
 
 ---
 

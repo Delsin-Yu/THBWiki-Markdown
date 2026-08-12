@@ -1,16 +1,11 @@
 # 文件:SoundChaosbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5f\ns6%3ASoundChaosbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5f\ns6%3ASoundChaosbanner%2Ejpg.html -->
 
 SoundChaos | 社团LOGO
 
   
-源地址：[[1]](https://web.archive.org/web/20120201075319/http://soundchaos.symphonic-net.com/tecboxex2.html)
-  
-
-
-
-
+源地址：[\[1\]](https://web.archive.org/web/20120201075319/http://soundchaos.symphonic-net.com/tecboxex2.html)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:Floods_of_Sounds封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\98\ns6%3AFloods_of_Sounds%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\98\ns6%3AFloods_of_Sounds%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 吉田未来Project | 封面图片
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Floods of Sounds](./Floods_of_Sounds.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [Floods of Sounds](./Floods_of_Sounds.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
   
-源地址：[[1]](http://sound.jp/yoshipro/images/floods.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://sound.jp/yoshipro/images/floods.jpg)  
 
 ---
 

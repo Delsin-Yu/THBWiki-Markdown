@@ -1,18 +1,13 @@
 # 文件:Ink_Touchlogo.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\ff\ns6%3AInk_Touchlogo%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\ff\ns6%3AInk_Touchlogo%2Egif.html -->
 
 Ink_Touch | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[[1]](https://web.archive.org/web/20190320231107im_/http://www.geocities.co.jp/Playtown-Yoyo/9181/ink_touch/image3.gif)
-  
-
-
-
-
+源地址：[\[1\]](https://web.archive.org/web/20190320231107im_/http://www.geocities.co.jp/Playtown-Yoyo/9181/ink_touch/image3.gif)  
 
 ---
 

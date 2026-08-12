@@ -1,12 +1,8 @@
 # 文件:THBWiki-捐款.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5f\ns6%3ATHBWiki-%E6%8D%90%E6%AC%BE%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5f\ns6%3ATHBWiki-%E6%8D%90%E6%AC%BE%2Ejpg.html -->
 
 THBWiki | Wiki页面装修用图
-
-
-
-
 
 
 ---

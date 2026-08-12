@@ -1,6 +1,6 @@
 # 文件:ELECTRiC_Re_ViEW封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dd\ns6%3AELECTRiC_Re_ViEW%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dd\ns6%3AELECTRiC_Re_ViEW%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 chipion | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ chipion | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [ELECTRiC Re ViEW](./ELECTRiC_Re_ViEW.md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)
-
-
-
+- [ELECTRiC Re ViEW](./ELECTRiC_Re_ViEW.md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
 
 
 ---

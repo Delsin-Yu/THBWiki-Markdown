@@ -1,14 +1,11 @@
 # 文件:The_Grimoire_of_Usami（若鹭姬2）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f3\ns6%3AThe_Grimoire_of_Usami%EF%BC%88%E8%8B%A5%E9%B9%AD%E5%A7%AC2%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f3\ns6%3AThe_Grimoire_of_Usami%EF%BC%88%E8%8B%A5%E9%B9%AD%E5%A7%AC2%EF%BC%89%2Ejpg.html -->
 
 宇佐见的魔法书 | 若鹭姬
 
 
 ## 摘要
-
-
-
 
 ---
 

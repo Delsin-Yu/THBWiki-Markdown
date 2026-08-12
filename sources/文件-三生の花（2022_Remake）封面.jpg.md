@@ -1,6 +1,6 @@
 # 文件:三生の花（2022_Remake）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\61\ns6%3A%E4%B8%89%E7%94%9F%E3%81%AE%E8%8A%B1%EF%BC%882022_Remake%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\61\ns6%3A%E4%B8%89%E7%94%9F%E3%81%AE%E8%8A%B1%EF%BC%882022_Remake%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Endless_Sound_匯音社 | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Endless_Sound_匯音社 | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [三生の花（2022 Remake）](./三生の花（2022_Remake）.md)  
-该封面包含的角色：- [豪德寺三花](./豪德寺三花.md)
-
-
-
+- [三生の花（2022 Remake）](./三生の花（2022_Remake）.md)该封面包含的角色：
+- [豪德寺三花](./豪德寺三花.md)
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:妄想化合物banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\16\ns6%3A%E5%A6%84%E6%83%B3%E5%8C%96%E5%90%88%E7%89%A9banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\16\ns6%3A%E5%A6%84%E6%83%B3%E5%8C%96%E5%90%88%E7%89%A9banner%2Ejpg.html -->
 
 妄想化合物 | 社团LOGO
-
-
-
-
 
 
 ---

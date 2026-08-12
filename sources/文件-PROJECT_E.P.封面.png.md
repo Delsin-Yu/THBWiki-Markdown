@@ -1,6 +1,6 @@
 # 文件:PROJECT_E.P.封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0c\ns6%3APROJECT_E%2EP%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0c\ns6%3APROJECT_E%2EP%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 LuzeriA | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ LuzeriA | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [PROJECT E.P.](./PROJECT_E.P..md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)
-
-
-
+- [PROJECT E.P.](./PROJECT_E.P..md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
 
 
 ---

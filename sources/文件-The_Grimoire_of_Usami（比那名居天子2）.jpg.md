@@ -1,14 +1,11 @@
 # 文件:The_Grimoire_of_Usami（比那名居天子2）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8a\ns6%3AThe_Grimoire_of_Usami%EF%BC%88%E6%AF%94%E9%82%A3%E5%90%8D%E5%B1%85%E5%A4%A9%E5%AD%902%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8a\ns6%3AThe_Grimoire_of_Usami%EF%BC%88%E6%AF%94%E9%82%A3%E5%90%8D%E5%B1%85%E5%A4%A9%E5%AD%902%EF%BC%89%2Ejpg.html -->
 
 宇佐见的魔法书 | 比那名居天子
 
 
 ## 摘要
-
-
-
 
 ---
 

@@ -1,16 +1,12 @@
 # 模板:shot_collaboration
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\4\4d\ns10%3Ashot_collaboration.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\4\4d\ns10%3Ashot_collaboration.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

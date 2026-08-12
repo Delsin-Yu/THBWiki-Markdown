@@ -1,6 +1,6 @@
 # 文件:Eternal_4th_Blizzard（楽団ロマンティシズム）封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5c\ns6%3AEternal_4th_Blizzard%EF%BC%88%E6%A5%BD%E5%9B%A3%E3%83%AD%E3%83%9E%E3%83%B3%E3%83%86%E3%82%A3%E3%82%B7%E3%82%BA%E3%83%A0%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5c\ns6%3AEternal_4th_Blizzard%EF%BC%88%E6%A5%BD%E5%9B%A3%E3%83%AD%E3%83%9E%E3%83%B3%E3%83%86%E3%82%A3%E3%82%B7%E3%82%BA%E3%83%A0%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 楽団ロマンティシズム
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Eternal 4th Blizzard（楽団ロマンティシズム）](./Eternal_4th_Blizzard（楽団ロマンティシズム）.md)  
-该封面包含的角色：- [比那名居天子](./比那名居天子.md)
-
-
-
+- [Eternal 4th Blizzard（楽団ロマンティシズム）](./Eternal_4th_Blizzard（楽団ロマンティシズム）.md)该封面包含的角色：
+- [比那名居天子](./比那名居天子.md)
 
 
 ---

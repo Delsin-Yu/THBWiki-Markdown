@@ -1,6 +1,6 @@
 # 文件:s.k.d_／_ハルミナ封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a0\ns6%3As%2Ek%2Ed_%EF%BC%8F_%E3%83%8F%E3%83%AB%E3%83%9F%E3%83%8A%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a0\ns6%3As%2Ek%2Ed_%EF%BC%8F_%E3%83%8F%E3%83%AB%E3%83%9F%E3%83%8A%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 五壁坂 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [s.k.d ／ ハルミナ](./s.k.d_／_ハルミナ.md)  
-该封面包含的角色：- [驹草山如](./驹草山如.md)
-
-
-
+- [s.k.d ／ ハルミナ](./s.k.d_／_ハルミナ.md)该封面包含的角色：
+- [驹草山如](./驹草山如.md)
 
 
 ---

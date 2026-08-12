@@ -1,6 +1,6 @@
 # 文件:SNOW_FAIRY_TALES_IMAGE_TRACKS封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8f\ns6%3ASNOW_FAIRY_TALES_IMAGE_TRACKS%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8f\ns6%3ASNOW_FAIRY_TALES_IMAGE_TRACKS%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 七誌 | 专辑封面 | 封面图片
 
@@ -10,16 +10,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [SNOW FAIRY TALES IMAGE TRACKS](./SNOW_FAIRY_TALES_IMAGE_TRACKS.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)- [灵乌路空](./灵乌路空.md)
+- [SNOW FAIRY TALES IMAGE TRACKS](./SNOW_FAIRY_TALES_IMAGE_TRACKS.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
+- [灵乌路空](./灵乌路空.md)
 
   
-源地址：[direct image link (original size)](https://blog-imgs-36-origin.fc2.com/m/i/t/mitukihiro/cd.jpg), [source page](http://mitukihiro.blog22.fc2.com/blog-entry-7.html)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://blog-imgs-36-origin.fc2.com/m/i/t/mitukihiro/cd.jpg), [source page](http://mitukihiro.blog22.fc2.com/blog-entry-7.html)  
 
 ---
 

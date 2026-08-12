@@ -1,16 +1,12 @@
 # 模板:Cocoon_Festival
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\c\cc\ns10%3ACocoon_Festival.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\c\cc\ns10%3ACocoon_Festival.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

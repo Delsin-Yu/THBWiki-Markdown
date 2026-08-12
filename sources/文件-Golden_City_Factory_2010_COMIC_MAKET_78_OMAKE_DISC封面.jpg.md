@@ -1,6 +1,6 @@
 # 文件:Golden_City_Factory_2010_COMIC_MAKET_78_OMAKE_DISC封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fd\ns6%3AGolden_City_Factory_2010_COMIC_MAKET_78_OMAKE_DISC%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fd\ns6%3AGolden_City_Factory_2010_COMIC_MAKET_78_OMAKE_DISC%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Golden_City_Factory | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Golden_City_Factory | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Golden City Factory 2010 COMIC MAKET 78 OMAKE DISC](./Golden_City_Factory_2010_COMIC_MAKET_78_OMAKE_DISC.md)  
-该封面包含的角色：- [娜兹玲](./娜兹玲.md)
-
-
-
+- [Golden City Factory 2010 COMIC MAKET 78 OMAKE DISC](./Golden_City_Factory_2010_COMIC_MAKET_78_OMAKE_DISC.md)该封面包含的角色：
+- [娜兹玲](./娜兹玲.md)
 
 
 ---

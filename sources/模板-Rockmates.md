@@ -1,16 +1,12 @@
 # 模板:Rockmates
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\c\c8\ns10%3ARockmates.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\c\c8\ns10%3ARockmates.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:THE_PARTY_NEVER_ENDS封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7f\ns6%3ATHE_PARTY_NEVER_ENDS%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7f\ns6%3ATHE_PARTY_NEVER_ENDS%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 ウラメンソウル | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@
   
 
 - [THE PARTY NEVER ENDS](./THE_PARTY_NEVER_ENDS.md)
-
-
-
 
 
 ---

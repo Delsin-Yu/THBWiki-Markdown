@@ -1,12 +1,8 @@
 # 文件:彩都神社logo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5f\ns6%3A%E5%BD%A9%E9%83%BD%E7%A5%9E%E7%A4%BElogo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5f\ns6%3A%E5%BD%A9%E9%83%BD%E7%A5%9E%E7%A4%BElogo%2Epng.html -->
 
 彩都神社 | 社团LOGO
-
-
-
-
 
 
 ---

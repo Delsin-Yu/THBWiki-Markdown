@@ -1,6 +1,6 @@
 # 文件:NECRO_NIGHT_RAVE封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f9\ns6%3ANECRO_NIGHT_RAVE%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f9\ns6%3ANECRO_NIGHT_RAVE%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 DiGiTAL_WiNG | 专辑封面 | 封面图片
 
@@ -10,15 +10,11 @@ DiGiTAL_WiNG | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [NECRO NIGHT RAVE](./NECRO_NIGHT_RAVE.md)  
-该封面包含的角色：- [八云紫](./八云紫.md)
+- [NECRO NIGHT RAVE](./NECRO_NIGHT_RAVE.md)该封面包含的角色：
+- [八云紫](./八云紫.md)
 
 源地址
-: [[1]](https://digital-wing.net/wordpress/wp-content/uploads/2023/12/CCDW-0001_Jacket.png)
-
-
-
-
+: [\[1\]](https://digital-wing.net/wordpress/wp-content/uploads/2023/12/CCDW-0001_Jacket.png)
 
 ---
 

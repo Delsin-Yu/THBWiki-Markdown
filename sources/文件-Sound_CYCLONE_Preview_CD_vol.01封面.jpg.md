@@ -1,6 +1,6 @@
 # 文件:Sound_CYCLONE_Preview_CD_vol.01封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ca\ns6%3ASound_CYCLONE_Preview_CD_vol%2E01%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ca\ns6%3ASound_CYCLONE_Preview_CD_vol%2E01%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Sound_CYCLONE | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Sound_CYCLONE | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Sound CYCLONE Preview CD vol.01](./Sound_CYCLONE_Preview_CD_vol.01.md)  
-该封面包含的角色：- [八云紫](./八云紫.md)
-
-
-
+- [Sound CYCLONE Preview CD vol.01](./Sound_CYCLONE_Preview_CD_vol.01.md)该封面包含的角色：
+- [八云紫](./八云紫.md)
 
 
 ---

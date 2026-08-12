@@ -1,6 +1,6 @@
 # 文件:幻想郷大握手会_dakara_sonote_wo_hanashite封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b5\ns6%3A%E5%B9%BB%E6%83%B3%E9%83%B7%E5%A4%A7%E6%8F%A1%E6%89%8B%E4%BC%9A_dakara_sonote_wo_hanashite%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b5\ns6%3A%E5%B9%BB%E6%83%B3%E9%83%B7%E5%A4%A7%E6%8F%A1%E6%89%8B%E4%BC%9A_dakara_sonote_wo_hanashite%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 劇団文七 | 同人志封面 | 封面图片
 
@@ -8,11 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [幻想郷大握手会 dakara sonote wo hanashite](./幻想郷大握手会_dakara_sonote_wo_hanashite.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [魂魄妖梦](./魂魄妖梦.md)- [娜兹玲](./娜兹玲.md)- [稗田阿求](./稗田阿求.md)
-
-
-
+- [幻想郷大握手会 dakara sonote wo hanashite](./幻想郷大握手会_dakara_sonote_wo_hanashite.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [魂魄妖梦](./魂魄妖梦.md)
+- [娜兹玲](./娜兹玲.md)
+- [稗田阿求](./稗田阿求.md)
 
 
 ---

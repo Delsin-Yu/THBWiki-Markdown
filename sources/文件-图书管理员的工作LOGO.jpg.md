@@ -1,14 +1,11 @@
 # 文件:图书管理员的工作LOGO.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\51\ns6%3A%E5%9B%BE%E4%B9%A6%E7%AE%A1%E7%90%86%E5%91%98%E7%9A%84%E5%B7%A5%E4%BD%9CLOGO%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\51\ns6%3A%E5%9B%BE%E4%B9%A6%E7%AE%A1%E7%90%86%E5%91%98%E7%9A%84%E5%B7%A5%E4%BD%9CLOGO%2Ejpg.html -->
 
 图书管理员的工作 | 活动LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

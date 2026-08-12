@@ -1,14 +1,11 @@
 # 文件:みずたたきbanner2.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\69\ns6%3A%E3%81%BF%E3%81%9A%E3%81%9F%E3%81%9F%E3%81%8Dbanner2%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\69\ns6%3A%E3%81%BF%E3%81%9A%E3%81%9F%E3%81%9F%E3%81%8Dbanner2%2Egif.html -->
 
 みずたたき | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

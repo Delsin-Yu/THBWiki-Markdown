@@ -1,6 +1,6 @@
 # 文件:AMATERAS_RECORDS_+SAMPLER.03+封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\22\ns6%3AAMATERAS_RECORDS_%2BSAMPLER%2E03%2B%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\22\ns6%3AAMATERAS_RECORDS_%2BSAMPLER%2E03%2B%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Amateras_Records | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ Amateras_Records | 专辑封面 | 封面图片
   
 
 - [AMATERAS RECORDS +SAMPLER.03+](./AMATERAS_RECORDS_+SAMPLER.03+.md)
-
-
-
 
 
 ---

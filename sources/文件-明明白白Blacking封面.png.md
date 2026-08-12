@@ -1,6 +1,6 @@
 # 文件:明明白白Blacking封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\21\ns6%3A%E6%98%8E%E6%98%8E%E7%99%BD%E7%99%BDBlacking%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\21\ns6%3A%E6%98%8E%E6%98%8E%E7%99%BD%E7%99%BDBlacking%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 AbsoЯute_Zero | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ AbsoЯute_Zero | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [明明白白Blacking](./明明白白Blacking.md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)
-
-
-
+- [明明白白Blacking](./明明白白Blacking.md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
 
 
 ---

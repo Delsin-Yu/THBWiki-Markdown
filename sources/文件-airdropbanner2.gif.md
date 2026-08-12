@@ -1,14 +1,11 @@
 # 文件:airdropbanner2.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bb\ns6%3Aairdropbanner2%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bb\ns6%3Aairdropbanner2%2Egif.html -->
 
 airdrop | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

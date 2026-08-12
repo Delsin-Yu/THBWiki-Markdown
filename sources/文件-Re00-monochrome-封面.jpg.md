@@ -1,6 +1,6 @@
 # 文件:Re00-monochrome-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e2\ns6%3ARe00-monochrome-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e2\ns6%3ARe00-monochrome-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Iemitsu. | 专辑封面 | 封面图片
 
@@ -10,16 +10,12 @@ Iemitsu. | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Re00-monochrome-](./Re00-monochrome-.md)  
-该封面包含的角色：- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)- [圣白莲](./圣白莲.md)
+- [Re00-monochrome-](./Re00-monochrome-.md)该封面包含的角色：
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
+- [圣白莲](./圣白莲.md)
 
   
-源地址：[direct image link (max size)](https://2.bp.blogspot.com/_sdz3uwXUCC4/SzUyJWTl_JI/AAAAAAAACGk/uZaVmU8lv8E/s0/Re00.jpg=s0?imgmax=0), [source page](https://yamanotedreams.blogspot.com/2009/12/iemitsu-c77-demos-album-trance-anime.html)
-  
-
-
-
-
+源地址：[direct image link (max size)](https://2.bp.blogspot.com/_sdz3uwXUCC4/SzUyJWTl_JI/AAAAAAAACGk/uZaVmU8lv8E/s0/Re00.jpg=s0?imgmax=0), [source page](https://yamanotedreams.blogspot.com/2009/12/iemitsu-c77-demos-album-trance-anime.html)  
 
 ---
 

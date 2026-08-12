@@ -1,6 +1,6 @@
 # 文件:Moon_And_Her_Embrace封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ca\ns6%3AMoon_And_Her_Embrace%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ca\ns6%3AMoon_And_Her_Embrace%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 PURE-POLLUTION | 专辑封面 | 封面图片
 
@@ -8,17 +8,13 @@ PURE-POLLUTION | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Moon And Her Embrace](./Moon_And_Her_Embrace.md)  
-该封面包含的角色：- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
+- [Moon And Her Embrace](./Moon_And_Her_Embrace.md)该封面包含的角色：
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
 
   
-源地址：[[1]](http://www.snv.jp/img/jacket/P2CD-0011.jpg)
+源地址：[\[1\]](http://www.snv.jp/img/jacket/P2CD-0011.jpg)
 Don't replace this with the scanned version from TLMC (or any scanned version, period) as the circle meant the entire cover art to be viewed this way with Reisen falling down.
   
-
-
-
-
 
 ---
 

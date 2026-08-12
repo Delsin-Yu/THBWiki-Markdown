@@ -1,6 +1,6 @@
 # 文件:MAGIC_TO_MUSIC_TOHO封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5a\ns6%3AMAGIC_TO_MUSIC_TOHO%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5a\ns6%3AMAGIC_TO_MUSIC_TOHO%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 IOSYS | 专辑封面 | 封面图片
 
@@ -8,16 +8,12 @@ IOSYS | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [MAGIC TO MUSIC TOHO](./MAGIC_TO_MUSIC_TOHO.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)- [克劳恩皮丝](./克劳恩皮丝.md)
+- [MAGIC TO MUSIC TOHO](./MAGIC_TO_MUSIC_TOHO.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
+- [克劳恩皮丝](./克劳恩皮丝.md)
 
   
-源地址：[[1]](http://www.iosysos.com/cd/tohomtmt/img/IO-0297_jacket_1000px.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://www.iosysos.com/cd/tohomtmt/img/IO-0297_jacket_1000px.jpg)  
 
 ---
 

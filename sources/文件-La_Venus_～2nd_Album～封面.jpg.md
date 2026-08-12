@@ -1,6 +1,6 @@
 # 文件:La_Venus_～2nd_Album～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\28\ns6%3ALa_Venus_%EF%BD%9E2nd_Album%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\28\ns6%3ALa_Venus_%EF%BD%9E2nd_Album%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 紅DAHLIA.
 
@@ -10,11 +10,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [La Venus ～2nd Album～](./La_Venus_～2nd_Album～.md)  
-该封面包含的角色：- [小恶魔](./小恶魔.md)- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)- [藤原妹红](./藤原妹红.md)- [古明地觉](./古明地觉.md)- [古明地恋](./古明地恋.md)
-
-
-
+- [La Venus ～2nd Album～](./La_Venus_～2nd_Album～.md)该封面包含的角色：
+- [小恶魔](./小恶魔.md)
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [藤原妹红](./藤原妹红.md)
+- [古明地觉](./古明地觉.md)
+- [古明地恋](./古明地恋.md)
 
 
 ---

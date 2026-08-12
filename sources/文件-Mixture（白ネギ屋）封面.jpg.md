@@ -1,6 +1,6 @@
 # 文件:Mixture（白ネギ屋）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\42\ns6%3AMixture%EF%BC%88%E7%99%BD%E3%83%8D%E3%82%AE%E5%B1%8B%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\42\ns6%3AMixture%EF%BC%88%E7%99%BD%E3%83%8D%E3%82%AE%E5%B1%8B%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 レイゾウコ | 同人志封面 | 封面图片 | 白ネギ屋
 
@@ -10,16 +10,13 @@
 使用了本文件作封面图片的作品：
   
 
-- [Mixture（白ネギ屋）](./Mixture（白ネギ屋）.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)- [雾雨魔理沙](./雾雨魔理沙.md)
+- [Mixture（白ネギ屋）](./Mixture（白ネギ屋）.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-源地址：[direct image link (original size)](https://blog-imgs-26-origin.2nt.com/m/i/y/miyazz/20080801221247.jpg), [source page](http://miyazz.blog.2nt.com/blog-entry-70.html)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://blog-imgs-26-origin.2nt.com/m/i/y/miyazz/20080801221247.jpg), [source page](http://miyazz.blog.2nt.com/blog-entry-70.html)  
 
 ---
 

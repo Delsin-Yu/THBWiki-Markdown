@@ -1,6 +1,6 @@
 # 文件:もっと！ほおずき妖魔夜行CD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\55\ns6%3A%E3%82%82%E3%81%A3%E3%81%A8%EF%BC%81%E3%81%BB%E3%81%8A%E3%81%9A%E3%81%8D%E5%A6%96%E9%AD%94%E5%A4%9C%E8%A1%8CCD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\55\ns6%3A%E3%82%82%E3%81%A3%E3%81%A8%EF%BC%81%E3%81%BB%E3%81%8A%E3%81%9A%E3%81%8D%E5%A6%96%E9%AD%94%E5%A4%9C%E8%A1%8CCD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Astral_Sky | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Astral_Sky | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [もっと！ほおずき妖魔夜行CD](./もっと！ほおずき妖魔夜行CD.md)  
-该封面包含的角色：- [露米娅](./露米娅.md)
+- [もっと！ほおずき妖魔夜行CD](./もっと！ほおずき妖魔夜行CD.md)该封面包含的角色：
+- [露米娅](./露米娅.md)
 
   
-源地址：[[1]](http://static.tumblr.com/465605ef0fd294b5188efae57f4c69b3/eil6ehm/jlgnw7zqp/tumblr_static_246tutbw7z6s48wsc8w808888.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://static.tumblr.com/465605ef0fd294b5188efae57f4c69b3/eil6ehm/jlgnw7zqp/tumblr_static_246tutbw7z6s48wsc8w808888.jpg)  
 
 ---
 

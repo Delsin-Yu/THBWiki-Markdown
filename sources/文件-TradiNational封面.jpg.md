@@ -1,6 +1,6 @@
 # 文件:TradiNational封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\25\ns6%3ATradiNational%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\25\ns6%3ATradiNational%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 GOOD_LUC9 | 同人志封面 | 封面图片
 
@@ -10,16 +10,12 @@ GOOD_LUC9 | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [TradiNational](./TradiNational.md)  
-该封面包含的角色：- [依神女苑](./依神女苑.md)- [依神紫苑](./依神紫苑.md)
+- [TradiNational](./TradiNational.md)该封面包含的角色：
+- [依神女苑](./依神女苑.md)
+- [依神紫苑](./依神紫苑.md)
 
   
-源地址：[direct image link (original uploaded image)](https://pbs.twimg.com/media/FQc4MQpVsAAt6OM?format=jpg&amp;name=orig), [source tweet](https://twitter.com/GSX250R_ANZIO/status/1515268766162198529)
-  
-
-
-
-
+源地址：[direct image link (original uploaded image)](https://pbs.twimg.com/media/FQc4MQpVsAAt6OM?format=jpg&name=orig), [source tweet](https://twitter.com/GSX250R_ANZIO/status/1515268766162198529)  
 
 ---
 

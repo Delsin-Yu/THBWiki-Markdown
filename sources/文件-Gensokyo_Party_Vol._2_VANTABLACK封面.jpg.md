@@ -1,6 +1,6 @@
 # 文件:Gensokyo_Party_Vol._2_VANTABLACK封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4a\ns6%3AGensokyo_Party_Vol%2E_2_VANTABLACK%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4a\ns6%3AGensokyo_Party_Vol%2E_2_VANTABLACK%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 KodamaSounds | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@ KodamaSounds | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Gensokyo Party Vol. 2 VANTABLACK](./Gensokyo_Party_Vol._2_VANTABLACK.md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)
+- [Gensokyo Party Vol. 2 VANTABLACK](./Gensokyo_Party_Vol._2_VANTABLACK.md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
 
   
-源地址：[direct image link (10 size)](https://f4.bcbits.com/img/a0988784136_10.jpg), [from artist bandcamp](https://kodamasounds.bandcamp.com/album/gensokyo-party-vol-2-vantablack)
-  
-
-
-
-
+源地址：[direct image link (10 size)](https://f4.bcbits.com/img/a0988784136_10.jpg), [from artist bandcamp](https://kodamasounds.bandcamp.com/album/gensokyo-party-vol-2-vantablack)  
 
 ---
 

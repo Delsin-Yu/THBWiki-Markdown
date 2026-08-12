@@ -1,14 +1,11 @@
 # 文件:Scinicade_banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4e\ns6%3AScinicade_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4e\ns6%3AScinicade_banner%2Ejpg.html -->
 
 Re：Volte | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

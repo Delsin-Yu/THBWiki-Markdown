@@ -1,12 +1,8 @@
 # 文件:雾雨魔理沙（虹龙洞立绘）hp.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dc\ns6%3A%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%EF%BC%88%E8%99%B9%E9%BE%99%E6%B4%9E%E7%AB%8B%E7%BB%98%EF%BC%89hp%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dc\ns6%3A%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%EF%BC%88%E8%99%B9%E9%BE%99%E6%B4%9E%E7%AB%8B%E7%BB%98%EF%BC%89hp%2Epng.html -->
 
 ZUN绘 | 东方虹龙洞 | 官方游戏立绘 | 雾雨魔理沙
-
-
-
-
 
 
 ---

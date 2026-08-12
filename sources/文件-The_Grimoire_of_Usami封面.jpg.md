@@ -1,12 +1,8 @@
 # 文件:The_Grimoire_of_Usami封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c7\ns6%3AThe_Grimoire_of_Usami%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c7\ns6%3AThe_Grimoire_of_Usami%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 宇佐见的魔法书 | 官方出版物封面
-
-
-
-
 
 
 ---

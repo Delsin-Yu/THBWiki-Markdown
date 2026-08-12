@@ -1,6 +1,6 @@
 # 文件:東方EUROBEAT_PARK_2020_MEGA_MIX封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e9\ns6%3A%E6%9D%B1%E6%96%B9EUROBEAT_PARK_2020_MEGA_MIX%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e9\ns6%3A%E6%9D%B1%E6%96%B9EUROBEAT_PARK_2020_MEGA_MIX%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 TTL_SOUND | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ TTL_SOUND | 专辑封面 | 封面图片
   
 
 - [東方EUROBEAT PARK 2020 MEGA MIX](./東方EUROBEAT_PARK_2020_MEGA_MIX.md)
-
-
-
 
 
 ---

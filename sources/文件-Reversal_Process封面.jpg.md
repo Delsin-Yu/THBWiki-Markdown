@@ -1,6 +1,6 @@
 # 文件:Reversal_Process封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d5\ns6%3AReversal_Process%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d5\ns6%3AReversal_Process%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Silver_Forest | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Silver_Forest | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Reversal Process](./Reversal_Process.md)  
-该封面包含的角色：- [稀神探女](./稀神探女.md)
+- [Reversal Process](./Reversal_Process.md)该封面包含的角色：
+- [稀神探女](./稀神探女.md)
 
   
-源地址：[[1]](http://img.toranoana.jp/popup_img/04/0030/44/03/040030440351-1p.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://img.toranoana.jp/popup_img/04/0030/44/03/040030440351-1p.jpg)  
 
 ---
 

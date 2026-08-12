@@ -1,6 +1,6 @@
 # 文件:SBR_the_Best!!_-from_Toho_Project-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\92\ns6%3ASBR_the_Best%21%21_-from_Toho_Project-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\92\ns6%3ASBR_the_Best%21%21_-from_Toho_Project-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 3S_Cubic | 专辑封面 | 封面图片
 
@@ -10,16 +10,13 @@
 使用了本文件作封面图片的作品：
   
 
-- [SBR the Best!! -from Toho Project-](./SBR_the_Best!!_-from_Toho_Project-.md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)- [苏我屠自古](./苏我屠自古.md)- [丰聪耳神子](./丰聪耳神子.md)
+- [SBR the Best!! -from Toho Project-](./SBR_the_Best!!_-from_Toho_Project-.md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
+- [苏我屠自古](./苏我屠自古.md)
+- [丰聪耳神子](./丰聪耳神子.md)
 
   
-源地址：[direct image link](http://3s-cubic.com/wp-content/uploads/2019/10/3SCB1007R_jac.jpg), [source page](http://3s-cubic.com/2019/09/07/3scb1007-sbrbest-toho/)
-  
-
-
-
-
+源地址：[direct image link](http://3s-cubic.com/wp-content/uploads/2019/10/3SCB1007R_jac.jpg), [source page](http://3s-cubic.com/2019/09/07/3scb1007-sbrbest-toho/)  
 
 ---
 

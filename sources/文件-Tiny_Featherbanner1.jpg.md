@@ -1,12 +1,8 @@
 # 文件:Tiny_Featherbanner1.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cd\ns6%3ATiny_Featherbanner1%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cd\ns6%3ATiny_Featherbanner1%2Ejpg.html -->
 
 Tiny_Feather | 社团LOGO
-
-
-
-
 
 
 ---

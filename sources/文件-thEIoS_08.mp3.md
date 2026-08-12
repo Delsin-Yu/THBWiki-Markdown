@@ -1,6 +1,6 @@
 # 文件:thEIoS_08.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f5\ns6%3AthEIoS_08%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f5\ns6%3AthEIoS_08%2Emp3.html -->
 
 东方祈华梦制作组 | 魔女和亡灵的★Dance_Party
 
@@ -9,10 +9,6 @@
   
 东方祈华梦三面BOSS曲2
   
-
-
-
-
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:UNION_II封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\50\ns6%3AUNION_II%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\50\ns6%3AUNION_II%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Sound_Refil | 专辑封面 | 封面图片
 
@@ -8,16 +8,12 @@ Sound_Refil | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [UNION Ⅱ](./UNION_Ⅱ.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
+- [UNION Ⅱ](./UNION_Ⅱ.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
   
-源地址：[[1]](http://soundrefil.sakura.ne.jp/wp/wp-content/uploads/2016/03/１.png)
-  
-
-
-
-
+源地址：[\[1\]](http://soundrefil.sakura.ne.jp/wp/wp-content/uploads/2016/03/１.png)  
 
 ---
 

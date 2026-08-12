@@ -1,6 +1,6 @@
 # 文件:TRIANGLE_SENSATION封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\df\ns6%3ATRIANGLE_SENSATION%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\df\ns6%3ATRIANGLE_SENSATION%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 AUK | 专辑封面 | 封面图片
 
@@ -8,16 +8,14 @@ AUK | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [TRIANGLE SENSATION](./TRIANGLE_SENSATION.md)  
-该封面包含的角色：- [红美铃](./红美铃.md)- [小野塚小町](./小野塚小町.md)- [娜兹玲](./娜兹玲.md)- [雾雨魔理沙](./雾雨魔理沙.md)
+- [TRIANGLE SENSATION](./TRIANGLE_SENSATION.md)该封面包含的角色：
+- [红美铃](./红美铃.md)
+- [小野塚小町](./小野塚小町.md)
+- [娜兹玲](./娜兹玲.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-源地址：[[1]](http://auk.karakasa.com/auk_jacket_l.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://auk.karakasa.com/auk_jacket_l.jpg)  
 
 ---
 

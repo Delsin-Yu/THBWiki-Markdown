@@ -1,12 +1,8 @@
 # 文件:谎言「Tongue_of_Wolf」（文花帖）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\15\ns6%3A%E8%B0%8E%E8%A8%80%E3%80%8CTongue_of_Wolf%E3%80%8D%EF%BC%88%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\15\ns6%3A%E8%B0%8E%E8%A8%80%E3%80%8CTongue_of_Wolf%E3%80%8D%EF%BC%88%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Ejpg.html -->
 
 东方文花帖 | 四季映姬·夜摩仙那度 | 敌机符卡
-
-
-
-
 
 
 ---

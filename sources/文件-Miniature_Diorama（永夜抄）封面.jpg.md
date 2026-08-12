@@ -1,6 +1,6 @@
 # 文件:Miniature_Diorama（永夜抄）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\17\ns6%3AMiniature_Diorama%EF%BC%88%E6%B0%B8%E5%A4%9C%E6%8A%84%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\17\ns6%3AMiniature_Diorama%EF%BC%88%E6%B0%B8%E5%A4%9C%E6%8A%84%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 なないろしっぽ団 | 同人志封面 | 封面图片
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [Miniature Diorama（永夜抄）](./Miniature_Diorama（永夜抄）.md)  
-该封面包含的角色：- [蓬莱山辉夜](./蓬莱山辉夜.md)- [藤原妹红](./藤原妹红.md)
-
-
-
+- [Miniature Diorama（永夜抄）](./Miniature_Diorama（永夜抄）.md)该封面包含的角色：
+- [蓬莱山辉夜](./蓬莱山辉夜.md)
+- [藤原妹红](./藤原妹红.md)
 
 
 ---

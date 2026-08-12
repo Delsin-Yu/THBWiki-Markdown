@@ -1,6 +1,6 @@
 # 文件:Invisible_Order封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fb\ns6%3AInvisible_Order%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fb\ns6%3AInvisible_Order%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 R／K_Project | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ R／K_Project | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Invisible Order](./Invisible_Order.md)  
-该封面包含的角色：- [八意永琳](./八意永琳.md)
-
-
-
+- [Invisible Order](./Invisible_Order.md)该封面包含的角色：
+- [八意永琳](./八意永琳.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:東方人形大戦8bitCollection_陰封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\78\ns6%3A%E6%9D%B1%E6%96%B9%E4%BA%BA%E5%BD%A2%E5%A4%A7%E6%88%A68bitCollection_%E9%99%B0%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\78\ns6%3A%E6%9D%B1%E6%96%B9%E4%BA%BA%E5%BD%A2%E5%A4%A7%E6%88%A68bitCollection_%E9%99%B0%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 a-TTTempo | 专辑封面 | 封面图片
 
@@ -8,11 +8,14 @@ a-TTTempo | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方人形大戦8bitCollection 陰](./東方人形大戦8bitCollection_陰.md)  
-该封面包含的角色：- [宇佐见莲子](./宇佐见莲子.md)- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [射命丸文](./射命丸文.md)- [河城荷取](./河城荷取.md)- [东风谷早苗](./东风谷早苗.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [東方人形大戦8bitCollection 陰](./東方人形大戦8bitCollection_陰.md)该封面包含的角色：
+- [宇佐见莲子](./宇佐见莲子.md)
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [射命丸文](./射命丸文.md)
+- [河城荷取](./河城荷取.md)
+- [东风谷早苗](./东风谷早苗.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

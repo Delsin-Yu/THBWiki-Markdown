@@ -1,12 +1,8 @@
 # 文件:冰精的冰屋banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\19\ns6%3A%E5%86%B0%E7%B2%BE%E7%9A%84%E5%86%B0%E5%B1%8Bbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\19\ns6%3A%E5%86%B0%E7%B2%BE%E7%9A%84%E5%86%B0%E5%B1%8Bbanner%2Epng.html -->
 
 冰精的冰屋 | 社团LOGO
-
-
-
-
 
 
 ---

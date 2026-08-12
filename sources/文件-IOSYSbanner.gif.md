@@ -1,14 +1,11 @@
 # 文件:IOSYSbanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8c\ns6%3AIOSYSbanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8c\ns6%3AIOSYSbanner%2Egif.html -->
 
 IOSYS | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:The_Night_of_Eternity封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\eb\ns6%3AThe_Night_of_Eternity%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\eb\ns6%3AThe_Night_of_Eternity%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Kissing_the_Mirror | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Kissing_the_Mirror | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [The Night of Eternity](./The_Night_of_Eternity.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)
-
-
-
+- [The Night of Eternity](./The_Night_of_Eternity.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
 
 
 ---

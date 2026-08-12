@@ -1,6 +1,6 @@
 # 文件:The_force_of_ruination封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d7\ns6%3AThe_force_of_ruination%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d7\ns6%3AThe_force_of_ruination%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 E.B.S._0／1 | 专辑封面 | 封面图片
 
@@ -8,19 +8,13 @@ E.B.S._0／1 | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [The force of ruination](./The_force_of_ruination.md)  
-该封面包含的角色：- [灵乌路空](./灵乌路空.md)
+- [The force of ruination](./The_force_of_ruination.md)该封面包含的角色：
+- [灵乌路空](./灵乌路空.md)
 
   
-源地址：[direct image link](https://blog-imgs-42-origin.fc2.com/z/e/r/zeroslash/ruination.jpg), [source page](http://zeroslash.blog62.fc2.com/blog-entry-5.html)
+源地址：[direct image link](https://blog-imgs-42-origin.fc2.com/z/e/r/zeroslash/ruination.jpg), [source page](http://zeroslash.blog62.fc2.com/blog-entry-5.html)  
   
-  
-Textless version can be found at [Pixiv artwork ID: 14811782](https://www.pixiv.net/artworks/14811782)
-  
-
-
-
-
+Textless version can be found at [Pixiv artwork ID: 14811782](https://www.pixiv.net/artworks/14811782)  
 
 ---
 

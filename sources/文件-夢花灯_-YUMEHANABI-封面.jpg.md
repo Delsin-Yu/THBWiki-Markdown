@@ -1,6 +1,6 @@
 # 文件:夢花灯_-YUMEHANABI-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\97\ns6%3A%E5%A4%A2%E8%8A%B1%E7%81%AF_-YUMEHANABI-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\97\ns6%3A%E5%A4%A2%E8%8A%B1%E7%81%AF_-YUMEHANABI-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 C-CLAYS | 专辑封面 | 封面图片
 
@@ -10,11 +10,9 @@ C-CLAYS | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [夢花灯 -YUMEHANABI-](./夢花灯_-YUMEHANABI-.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)- [饭纲丸龙](./饭纲丸龙.md)
-
-
-
+- [夢花灯 -YUMEHANABI-](./夢花灯_-YUMEHANABI-.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
+- [饭纲丸龙](./饭纲丸龙.md)
 
 
 ---

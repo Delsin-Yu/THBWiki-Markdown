@@ -1,12 +1,11 @@
 # 洩矢の旅～I_wanna_be_the_God
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\b7\ns0%3A%E6%B4%A9%E7%9F%A2%E3%81%AE%E6%97%85%EF%BD%9EI_wanna_be_the_God.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\b7\ns0%3A%E6%B4%A9%E7%9F%A2%E3%81%AE%E6%97%85%EF%BD%9EI_wanna_be_the_God.html -->
 
 2009年7月10日 由 UTG Software  发布的ACT同人游戏，可在 Windows 系统上运行，游戏人数为 1人，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人软件 (未找到链接)** 的词条
-
+**[二次创作同人软件](./二次创作.md#同人软件)**的词条
 ## 目录
 
 - [1 软件信息](#软件信息)
@@ -14,9 +13,6 @@
 - [3 内容页面](#内容页面)
 - [4 评论](#评论)
 - [5 下载](#下载)
-
-
-
 
 
 ## 软件信息
@@ -27,10 +23,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://www.utgsoftware.net/games/games2009/suwaaction/index.htm">http://www.utgsoftware.net/games/games2009/suwaaction/index.htm</a><br><span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span><span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到日文网页">（日文）</span></td></tr></tbody></table>
 
 洩矢の旅～I wanna be the God（同人游戏，UTG Software，2009） - 2009年7月10日 由 UTG Software  发布的ACT同人游戏，可在 Windows 系统上运行，游戏人数为 1人，分级为 一般向
-
 ## Staff
 
 ## 内容页面
+
 - 游戏设定与剧情 (未找到链接)
 - 攻略 (未找到链接)
 - 其他信息 (未找到链接)
@@ -41,9 +37,7 @@
 ## 下载
   
 请注意：  
- **所有的二次同人软件的下载地址均为站外资源，本站并不保证其来源的合法性以及资源的有效性和安全性** 
-  
-
+**所有的二次同人软件的下载地址均为站外资源，本站并不保证其来源的合法性以及资源的有效性和安全性**  
 
 <table>
 
@@ -51,17 +45,8 @@
 <th>下载地址（站外资源）
 </th></tr>
 <tr>
-<td><a rel="nofollow" class="external free" href="http://www.utgsoftware.net/archives/dlcount.php?fname=moriya_1100a.zip&amp;dir=old/">http://www.utgsoftware.net/archives/dlcount.php?fname=moriya_1100a.zip&amp;dir=old/</a>
+<td><a rel="nofollow" class="external free" href="http://www.utgsoftware.net/archives/dlcount.php?fname=moriya_1100a.zip&dir=old/">http://www.utgsoftware.net/archives/dlcount.php?fname=moriya_1100a.zip&dir=old/</a>
 </td></tr></tbody></table>
-
-
-  
-  
-
-  
-
-
-
 
 
 ---

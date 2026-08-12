@@ -1,6 +1,6 @@
 # 鈴集無名の丘_～_Little_Doll_Queen./系统
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\b9\ns0%3A%E9%88%B4%E9%9B%86%E7%84%A1%E5%90%8D%E3%81%AE%E4%B8%98_%EF%BD%9E_Little_Doll_Queen%2E%2F%E7%B3%BB%E7%BB%9F.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\b9\ns0%3A%E9%88%B4%E9%9B%86%E7%84%A1%E5%90%8D%E3%81%AE%E4%B8%98_%EF%BD%9E_Little_Doll_Queen%2E%2F%E7%B3%BB%E7%BB%9F.html -->
 
 幸归铃园
 
@@ -8,17 +8,12 @@
 ## 目录
 
 - [1 操作方法](#操作方法)
-
   - [1.1 道具](#道具)
   - [1.2 婴灵解放](#婴灵解放)
   - [1.3 关卡中出现的雾](#关卡中出现的雾)
 
 
-
 - [2 决死](#决死)
-
-
-
 
 
 ## 操作方法
@@ -35,8 +30,7 @@ Pause键（Esc键）：暂停游戏的进行
 
 User1键（C键）：开启婴灵结界（后述）  
 
-User2键（V键）：在对话时按紧即可快速跳过对话，若是遇到不可按Shot键的滞留对话时，　按紧此键也能到达加速对话的效果。或者在自机为里乃&amp;舞时切换角色。  
-
+User2键（V键）：在对话时按紧即可快速跳过对话，若是遇到不可按Shot键的滞留对话时，　按紧此键也能到达加速对话的效果。或者在自机为里乃&舞时切换角色。  
   
   
 对应键的参考与设定请查看游戏执行档旁的config.exe
@@ -46,17 +40,21 @@ Alt+Enter：切换全屏或视窗模式。
 左Ctrl：Replay与制作人员名单(StaffRoll)时、按紧时会加速。
   
 
-
 ### 道具
-- [](./文件-铃集无名之丘items_bomb.png.md)符卡道具：吃到后增加一个自机符卡。
 
-- [](./文件-铃集无名之丘items_point.png.md)点道具：除了加分用外还能增加最大得点。
+- <img alt="符卡道具：吃到后增加一个自机符卡。" src="https://upload.thwiki.cc/f/fa/%E9%93%83%E9%9B%86%E6%97%A0%E5%90%8D%E4%B9%8B%E4%B8%98items_bomb.png" decoding="async" loading="lazy" width="120" height="120" data-file-width="32" data-file-height="32"> 符卡道具：吃到后增加一个自机符卡。
 
-- [](./文件-铃集无名之丘items_soul.png.md)婴灵道具：凑齐一定的数量能使用婴灵解放，详情参考婴灵解放页面。
 
-- [](./文件-铃集无名之丘sys_soul_tank.png.md)婴灵槽：吃到的婴灵道具会由下而上增加婴灵槽的量，详情参考婴灵解放页面。
+- <img alt="点道具：除了加分用外还能增加最大得点。" src="https://upload.thwiki.cc/4/4f/%E9%93%83%E9%9B%86%E6%97%A0%E5%90%8D%E4%B9%8B%E4%B8%98items_point.png" decoding="async" loading="lazy" width="120" height="120" data-file-width="16" data-file-height="16"> 点道具：除了加分用外还能增加最大得点。
 
- - [](./文件-铃集无名之丘sys_cov_tank.png.md)心之毒槽：位于画面最右方的铃兰，当关卡中擦弹到一定数量后会变白色，变为白色即可解锁名为真名之符的终符。
+
+- <img alt="婴灵道具：凑齐一定的数量能使用婴灵解放，详情参考婴灵解放页面。" src="https://upload.thwiki.cc/d/d6/%E9%93%83%E9%9B%86%E6%97%A0%E5%90%8D%E4%B9%8B%E4%B8%98items_soul.png" decoding="async" loading="lazy" width="120" height="120" data-file-width="48" data-file-height="48"> 婴灵道具：凑齐一定的数量能使用婴灵解放，详情参考婴灵解放页面。
+
+
+- <img alt="婴灵槽：吃到的婴灵道具会由下而上增加婴灵槽的量，详情参考婴灵解放页面。" src="https://upload.thwiki.cc/5/54/%E9%93%83%E9%9B%86%E6%97%A0%E5%90%8D%E4%B9%8B%E4%B8%98sys_soul_tank.png" decoding="async" loading="lazy" width="72" height="120" data-file-width="48" data-file-height="80"> 婴灵槽：吃到的婴灵道具会由下而上增加婴灵槽的量，详情参考婴灵解放页面。
+
+
+- <img alt="心之毒槽：位于画面最右方的铃兰，当关卡中擦弹到一定数量后会变白色，变为白色即可解锁名为真名之符的终符。" src="https://upload.thwiki.cc/1/11/%E9%93%83%E9%9B%86%E6%97%A0%E5%90%8D%E4%B9%8B%E4%B8%98sys_cov_tank.png" decoding="async" loading="lazy" width="120" height="120" data-file-width="112" data-file-height="112"> 心之毒槽：位于画面最右方的铃兰，当关卡中擦弹到一定数量后会变白色，变为白色即可解锁名为真名之符的终符。
 
 
 ### 婴灵解放
@@ -67,7 +65,6 @@ Alt+Enter：切换全屏或视窗模式。
 屏障出现的期间，自机是无敌的。屏障收缩后，玩家将会获得一个符卡道具作为奖励。
 多利用解放来获得符卡道具的资源，以利于通关游戏。
   
-
 
 ### 关卡中出现的雾
   
@@ -90,9 +87,9 @@ Alt+Enter：切换全屏或视窗模式。
 毒雾效果的练习体验，可以到游戏标题画面的「POISON LAB」选项测试。
   
 
-
 ## 决死
-- [](./文件-铃集无名之丘manual_lease.png.md)当玩家被敌方子弹击中时，会在自机中心展开一个持续时间约半秒、逐渐收缩的决死花环。
+
+- <img alt="当玩家被敌方子弹击中时，会在自机中心展开一个持续时间约半秒、逐渐收缩的决死花环。" src="https://upload.thwiki.cc/thumb/4/4e/%E9%93%83%E9%9B%86%E6%97%A0%E5%90%8D%E4%B9%8B%E4%B8%98manual_lease.png/120px-%E9%93%83%E9%9B%86%E6%97%A0%E5%90%8D%E4%B9%8B%E4%B8%98manual_lease.png" decoding="async" loading="lazy" width="120" height="120" srcset="https://upload.thwiki.cc/thumb/4/4e/%E9%93%83%E9%9B%86%E6%97%A0%E5%90%8D%E4%B9%8B%E4%B8%98manual_lease.png/180px-%E9%93%83%E9%9B%86%E6%97%A0%E5%90%8D%E4%B9%8B%E4%B8%98manual_lease.png 1.5x, https://upload.thwiki.cc/4/4e/%E9%93%83%E9%9B%86%E6%97%A0%E5%90%8D%E4%B9%8B%E4%B8%98manual_lease.png 2x" data-file-width="222" data-file-height="222"> 当玩家被敌方子弹击中时，会在自机中心展开一个持续时间约半秒、逐渐收缩的决死花环。
 
   
 若玩家在这半秒的时候成功使用自机符卡，将会使出决死符卡。  
@@ -100,12 +97,7 @@ Alt+Enter：切换全屏或视窗模式。
 决死符卡的威力虽然与一般时候玩家使用的符卡相同，但是会展开一个带有小量持续伤害的花环，随着花环的扩大，花环的伤害判定范围也会跟着变大。  
 
 要注意的是，开启决死符卡会消耗2个自机符卡（剩1个时只消耗1个）  
-
   
-
-
-
-
 
 ---
 

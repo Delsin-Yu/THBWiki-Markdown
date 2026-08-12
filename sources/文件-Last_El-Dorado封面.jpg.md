@@ -1,6 +1,6 @@
 # 文件:Last_El-Dorado封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\04\ns6%3ALast_El-Dorado%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\04\ns6%3ALast_El-Dorado%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 趣味工房にんじんわいん
 
@@ -8,16 +8,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [Last El-Dorado](./Last_El-Dorado.md)  
-该封面包含的角色：- [古明地觉](./古明地觉.md)- [古明地恋](./古明地恋.md)
+- [Last El-Dorado](./Last_El-Dorado.md)该封面包含的角色：
+- [古明地觉](./古明地觉.md)
+- [古明地恋](./古明地恋.md)
 
   
-源地址：[[1]](http://img.toranoana.jp/popup_img/04/0030/43/71/040030437176-1p.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://img.toranoana.jp/popup_img/04/0030/43/71/040030437176-1p.jpg)  
 
 ---
 

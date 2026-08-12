@@ -1,6 +1,6 @@
 # 文件:HAPPY_RAINBOW封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\df\ns6%3AHAPPY_RAINBOW%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\df\ns6%3AHAPPY_RAINBOW%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 EASTARS | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@ EASTARS | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [HAPPY RAINBOW](./HAPPY_RAINBOW.md)  
-该封面包含的角色：- [蓬莱山辉夜](./蓬莱山辉夜.md)
+- [HAPPY RAINBOW](./HAPPY_RAINBOW.md)该封面包含的角色：
+- [蓬莱山辉夜](./蓬莱山辉夜.md)
 
   
-源：[[1]](https://www.doujinshi.org/book/706763/HAPPY-RAINBOW)
-  
-
-
-
-
+源：[\[1\]](https://www.doujinshi.org/book/706763/HAPPY-RAINBOW)  
 
 ---
 

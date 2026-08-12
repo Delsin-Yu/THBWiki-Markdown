@@ -1,18 +1,13 @@
 # 文件:东方醉蝶华_第7卷_MelonBooks_特典-2.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\aa\ns6%3A%E4%B8%9C%E6%96%B9%E9%86%89%E8%9D%B6%E5%8D%8E_%E7%AC%AC7%E5%8D%B7_MelonBooks_%E7%89%B9%E5%85%B8-2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\aa\ns6%3A%E4%B8%9C%E6%96%B9%E9%86%89%E8%9D%B6%E5%8D%8E_%E7%AC%AC7%E5%8D%B7_MelonBooks_%E7%89%B9%E5%85%B8-2%2Ejpg.html -->
 
 MelonBooks | 东方醉蝶华 | 官方特典
 
 
 ## 摘要
   
-源地址：[[1]](https://melonbooks.akamaized.net/user_data/packages/resize_image.php?image=211000200332h.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://melonbooks.akamaized.net/user_data/packages/resize_image.php?image=211000200332h.jpg)  
 
 ---
 

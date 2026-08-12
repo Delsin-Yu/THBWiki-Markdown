@@ -1,6 +1,6 @@
 # 文件:TTR_ArtWorks_ver3.0_駄ッ封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\53\ns6%3ATTR_ArtWorks_ver3%2E0_%E9%A7%84%E3%83%83%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\53\ns6%3ATTR_ArtWorks_ver3%2E0_%E9%A7%84%E3%83%83%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 あぶら畑グランテッド | 同人志封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [TTR ArtWorks ver3.0 駄ッ](./TTR_ArtWorks_ver3.0_駄ッ.md)  
-该封面包含的角色：- [比那名居天子](./比那名居天子.md)
-
-
-
+- [TTR ArtWorks ver3.0 駄ッ](./TTR_ArtWorks_ver3.0_駄ッ.md)该封面包含的角色：
+- [比那名居天子](./比那名居天子.md)
 
 
 ---

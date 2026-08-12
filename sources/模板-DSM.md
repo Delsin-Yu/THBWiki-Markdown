@@ -1,16 +1,12 @@
 # 模板:DSM
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\3\38\ns10%3ADSM.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\3\38\ns10%3ADSM.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

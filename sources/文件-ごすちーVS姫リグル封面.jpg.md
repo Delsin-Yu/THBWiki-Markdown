@@ -1,6 +1,6 @@
 # 文件:ごすちーVS姫リグル封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ee\ns6%3A%E3%81%94%E3%81%99%E3%81%A1%E3%83%BCVS%E5%A7%AB%E3%83%AA%E3%82%B0%E3%83%AB%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ee\ns6%3A%E3%81%94%E3%81%99%E3%81%A1%E3%83%BCVS%E5%A7%AB%E3%83%AA%E3%82%B0%E3%83%AB%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ふすま喫茶 | 同人志封面 | 封面图片 | 黒猫交差点
 
@@ -10,11 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [ごすちーVS姫リグル](./ごすちーVS姫リグル.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [莉格露·奈特巴格](./莉格露·奈特巴格.md)- [米斯蒂娅·萝蕾拉](./米斯蒂娅·萝蕾拉.md)- [森近霖之助](./森近霖之助.md)
-
-
-
+- [ごすちーVS姫リグル](./ごすちーVS姫リグル.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [莉格露·奈特巴格](./莉格露·奈特巴格.md)
+- [米斯蒂娅·萝蕾拉](./米斯蒂娅·萝蕾拉.md)
+- [森近霖之助](./森近霖之助.md)
 
 
 ---

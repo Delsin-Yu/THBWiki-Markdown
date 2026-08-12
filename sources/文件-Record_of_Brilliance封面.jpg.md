@@ -1,6 +1,6 @@
 # 文件:Record_of_Brilliance封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\54\ns6%3ARecord_of_Brilliance%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\54\ns6%3ARecord_of_Brilliance%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ティアドロップ | 同人志封面 | 封面图片
 
@@ -10,16 +10,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [Record of Brilliance](./Record_of_Brilliance.md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)- [西行寺幽幽子](./西行寺幽幽子.md)
+- [Record of Brilliance](./Record_of_Brilliance.md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
+- [西行寺幽幽子](./西行寺幽幽子.md)
 
   
-[Pixiv artwork ID: 88634765 (image 3/3)](https://www.pixiv.net/artworks/88634765)
-  
-
-
-
-
+[Pixiv artwork ID: 88634765 (image 3/3)](https://www.pixiv.net/artworks/88634765)  
 
 ---
 

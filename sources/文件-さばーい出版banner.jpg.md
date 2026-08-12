@@ -1,16 +1,11 @@
 # 文件:さばーい出版banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\25\ns6%3A%E3%81%95%E3%81%B0%E3%83%BC%E3%81%84%E5%87%BA%E7%89%88banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\25\ns6%3A%E3%81%95%E3%81%B0%E3%83%BC%E3%81%84%E5%87%BA%E7%89%88banner%2Ejpg.html -->
 
 さばーい出版 | 社团LOGO
 
   
-源地址：[[1]](https://livedoor.blogimg.jp/sabai_thai/imgs/7/8/780cf0e3.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://livedoor.blogimg.jp/sabai_thai/imgs/7/8/780cf0e3.jpg)  
 
 ---
 

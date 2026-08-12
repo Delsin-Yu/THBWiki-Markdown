@@ -1,14 +1,11 @@
 # 文件:EURO_BAKAICHIDAI_VOL.29封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b2\ns6%3AEURO_BAKAICHIDAI_VOL%2E29%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b2\ns6%3AEURO_BAKAICHIDAI_VOL%2E29%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Eurobeat_Union | 专辑封面 | 封面图片
 
 
 ## 摘要
-
-
-
 
 ---
 

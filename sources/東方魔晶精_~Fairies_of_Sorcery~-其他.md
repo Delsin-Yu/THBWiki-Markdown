@@ -1,14 +1,11 @@
 # 東方魔晶精_~Fairies_of_Sorcery~/其他
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\d\df\ns0%3A%E6%9D%B1%E6%96%B9%E9%AD%94%E6%99%B6%E7%B2%BE_%7EFairies_of_Sorcery%7E%2F%E5%85%B6%E4%BB%96.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\d\df\ns0%3A%E6%9D%B1%E6%96%B9%E9%AD%94%E6%99%B6%E7%B2%BE_%7EFairies_of_Sorcery%7E%2F%E5%85%B6%E4%BB%96.html -->
 
 Nono_443
 
 
 ## 游戏内标题及说明文字
-
-
-
 
 ---
 

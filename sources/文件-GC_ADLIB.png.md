@@ -1,12 +1,8 @@
 # 文件:GC_ADLIB.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0d\ns6%3AGC_ADLIB%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0d\ns6%3AGC_ADLIB%2Epng.html -->
 
 GROOVE_COASTER | 太东
-
-
-
-
 
 
 ---

@@ -1,14 +1,11 @@
 # 文件:永远幻想矩阵banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bf\ns6%3A%E6%B0%B8%E8%BF%9C%E5%B9%BB%E6%83%B3%E7%9F%A9%E9%98%B5banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bf\ns6%3A%E6%B0%B8%E8%BF%9C%E5%B9%BB%E6%83%B3%E7%9F%A9%E9%98%B5banner%2Epng.html -->
 
 永远幻想矩阵 | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

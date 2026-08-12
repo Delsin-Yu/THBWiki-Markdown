@@ -1,6 +1,6 @@
 # 文件:Gimbal封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\58\ns6%3AGimbal%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\58\ns6%3AGimbal%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Ms.Babbage | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Ms.Babbage | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Gimbal](./Gimbal.md)  
-该封面包含的角色：- [赫卡提亚·拉碧斯拉祖利](./赫卡提亚·拉碧斯拉祖利.md)
-
-
-
+- [Gimbal](./Gimbal.md)该封面包含的角色：
+- [赫卡提亚·拉碧斯拉祖利](./赫卡提亚·拉碧斯拉祖利.md)
 
 
 ---

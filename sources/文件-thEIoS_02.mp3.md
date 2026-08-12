@@ -1,14 +1,11 @@
 # 文件:thEIoS_02.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\35\ns6%3AthEIoS_02%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\35\ns6%3AthEIoS_02%2Emp3.html -->
 
 东方祈华梦制作组 | 幽竹远梦
 
 
 ## 文件说明
-
-
-
 
 ---
 

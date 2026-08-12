@@ -1,12 +1,8 @@
 # 文件:ZUN对此事的回应.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1f\ns6%3AZUN%E5%AF%B9%E6%AD%A4%E4%BA%8B%E7%9A%84%E5%9B%9E%E5%BA%94%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1f\ns6%3AZUN%E5%AF%B9%E6%AD%A4%E4%BA%8B%E7%9A%84%E5%9B%9E%E5%BA%94%2Epng.html -->
 
 东方警察
-
-
-
-
 
 
 ---

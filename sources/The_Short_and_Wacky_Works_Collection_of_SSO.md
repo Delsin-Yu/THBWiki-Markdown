@@ -1,12 +1,11 @@
 # The_Short_and_Wacky_Works_Collection_of_SSO
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\5\53\ns0%3AThe_Short_and_Wacky_Works_Collection_of_SSO.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\5\53\ns0%3AThe_Short_and_Wacky_Works_Collection_of_SSO.html -->
 
 2024年6月22日 由 Soundcard Symphony Orchestra  发布的全长同人专辑，曲目主要风格是 古典，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人专辑 (未找到链接)** 的词条
-
+**[二次创作同人专辑](./二次创作.md#同人音乐)**的词条
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-The_Short_and_Wacky_Works_Collection_of_SSO封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/8/89/The_Short_and_Wacky_Works_Collection_of_SSO%E5%B0%81%E9%9D%A2.jpg/280px-The_Short_and_Wacky_Works_Collection_of_SSO%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="280" height="280" srcset="https://upload.thwiki.cc/thumb/8/89/The_Short_and_Wacky_Works_Collection_of_SSO%E5%B0%81%E9%9D%A2.jpg/420px-The_Short_and_Wacky_Works_Collection_of_SSO%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/8/89/The_Short_and_Wacky_Works_Collection_of_SSO%E5%B0%81%E9%9D%A2.jpg/560px-The_Short_and_Wacky_Works_Collection_of_SSO%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="3000" data-file-height="3000"></a></td>
@@ -15,24 +14,19 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://space.bilibili.com/4401160">https://space.bilibili.com/4401160</a></td></tr></tbody></table>
 
 The Short and Wacky Works Collection of SSO（同人专辑，Soundcard Symphony Orchestra，2021） - 2024年6月22日 由 Soundcard Symphony Orchestra  发布的全长同人专辑，曲目主要风格是 古典，分级为 一般向
-
 ## Staff
   
- **Arrangement**   
+**Arrangement**  
 
 <table><tbody><tr><td><a href="./河北省的比利.md" title="河北省的比利">河北省的比利</a></td><td></td><td>Tr.1-12</td></tr></tbody></table>
-
 
 Design
 : [河北省的比利](./河北省的比利.md)
 illustration
 : [河北省的比利](./河北省的比利.md)
 
-
 ## 试听
   
-
-
   
 
 <table>
@@ -40,12 +34,7 @@ illustration
 <tr class="bilibili-video" style="display: none;"><td></td></tr>
 </table>
 
-
-
-
   
-
-
   
 
 <table>
@@ -53,11 +42,7 @@ illustration
 <tr class="bilibili-video" style="display: none;"><td></td></tr>
 </table>
 
-
-
   
-
-
   
 
 <table>
@@ -65,11 +50,7 @@ illustration
 <tr class="bilibili-video" style="display: none;"><td></td></tr>
 </table>
 
-
-
   
-
-
   
 
 <table>
@@ -77,11 +58,7 @@ illustration
 <tr class="bilibili-video" style="display: none;"><td></td></tr>
 </table>
 
-
-
   
-
-
   
 
 <table>
@@ -89,11 +66,7 @@ illustration
 <tr class="bilibili-video" style="display: none;"><td></td></tr>
 </table>
 
-
-
   
-
-
   
 
 <table>
@@ -101,11 +74,7 @@ illustration
 <tr class="bilibili-video" style="display: none;"><td></td></tr>
 </table>
 
-
-
   
-
-
   
 
 <table>
@@ -113,11 +82,7 @@ illustration
 <tr class="bilibili-video" style="display: none;"><td></td></tr>
 </table>
 
-
-
   
-
-
   
 
 <table>
@@ -125,11 +90,7 @@ illustration
 <tr class="bilibili-video" style="display: none;"><td></td></tr>
 </table>
 
-
-
   
-
-
   
 
 <table>
@@ -137,43 +98,32 @@ illustration
 <tr class="bilibili-video" style="display: none;"><td></td></tr>
 </table>
 
-
-
   
-
-
   
 
 <table>
 <tr><th style="text-align: center;"><a class="bilibili-title external text" target="_blank" rel="nofollow" style="margin: 0 0.4em 0 0.2em;"></a><input type="button" class="bilibili-toggle" value="显示视频" style="float: right;"></th></tr>
 <tr class="bilibili-video" style="display: none;"><td></td></tr>
 </table>
-
-
-
 
 
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Symphonic_Variations_of_&quot;Starry_Mountain_of_Tenma&quot;" colspan="2" class="title">Symphonic Variations of &#34;Starry Mountain of Tenma&#34;<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=河北省的比利&amp;ogmusic=星降る天魔の山&amp;fromwiki=The_Short_and_Wacky_Works_Collection_of_SSO"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:51</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./河北省的比利.md" title="河北省的比利">河北省的比利</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，河北省的比利&amp;fromwiki=The_Short_and_Wacky_Works_Collection_of_SSO"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=星降る天魔の山&amp;fromwiki=The_Short_and_Wacky_Works_Collection_of_SSO"><span></span></a></span><div class="ogmusic"><a href="./星降る天魔の山.md" class="mw-redirect" title="星降る天魔の山">星降る天魔の山</a></div><div class="source"><a href="./东方虹龙洞_～_Unconnected_Marketeers..md" class="mw-redirect" title="东方虹龙洞 ～ Unconnected Marketeers.">东方虹龙洞　～ Unconnected Marketeers.</a></div></td></tr>
-<tr><td id="2" class="infoYD"><b>02</b></td><td id="Bomben_auf_Reimuland" colspan="2" class="title">Bomben auf Reimuland<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=河北省的比利&amp;ogmusic=信仰は儚き人間の為に&amp;fromwiki=The_Short_and_Wacky_Works_Collection_of_SSO"><span title="搜索相似同人曲"></span></a></span></td><td class="time">02:38</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./河北省的比利.md" title="河北省的比利">河北省的比利</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，河北省的比利&amp;fromwiki=The_Short_and_Wacky_Works_Collection_of_SSO"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=信仰は儚き人間の為に&amp;fromwiki=The_Short_and_Wacky_Works_Collection_of_SSO"><span></span></a></span><div class="ogmusic"><a href="./信仰は儚き人間の為に.md" class="mw-redirect" title="信仰は儚き人間の為に">信仰は儚き人間の為に</a></div><div class="source"><a href="./东方风神录_～_Mountain_of_Faith..md" class="mw-redirect" title="东方风神录 ～ Mountain of Faith.">东方风神录　～ Mountain of Faith.</a></div></td></tr>
-<tr><td id="3" class="infoYD"><b>03</b></td><td id="Theme_and_Variations_for_Clarinet_and_Piano_in_G_minor,_Op.13" colspan="2" class="title">Theme and Variations for Clarinet and Piano in G minor, Op.13<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=河北省的比利&amp;ogmusic=東方緋想天&amp;fromwiki=The_Short_and_Wacky_Works_Collection_of_SSO"><span title="搜索相似同人曲"></span></a></span></td><td class="time">05:40</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./河北省的比利.md" title="河北省的比利">河北省的比利</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，河北省的比利&amp;fromwiki=The_Short_and_Wacky_Works_Collection_of_SSO"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=東方緋想天&amp;fromwiki=The_Short_and_Wacky_Works_Collection_of_SSO"><span></span></a></span><div class="ogmusic"><a href="./東方緋想天.md" class="mw-redirect" title="東方緋想天">東方緋想天</a></div><div class="source"><a href="./东方绯想天_～_Scarlet_Weather_Rhapsody..md" class="mw-redirect" title="东方绯想天 ～ Scarlet Weather Rhapsody.">东方绯想天　～ Scarlet Weather Rhapsody.</a></div></td></tr>
-<tr><td id="4" class="infoYD"><b>04</b></td><td id="The_Sacred_Sexy_Dream" colspan="2" class="title">The Sacred Sexy Dream<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=河北省的比利&amp;ogmusic=永遠の春夢&amp;fromwiki=The_Short_and_Wacky_Works_Collection_of_SSO"><span title="搜索相似同人曲"></span></a></span></td><td class="time">02:41</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./河北省的比利.md" title="河北省的比利">河北省的比利</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，河北省的比利&amp;fromwiki=The_Short_and_Wacky_Works_Collection_of_SSO"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=永遠の春夢&amp;fromwiki=The_Short_and_Wacky_Works_Collection_of_SSO"><span></span></a></span><div class="ogmusic"><a href="./永遠の春夢.md" class="mw-redirect" title="永遠の春夢">永遠の春夢</a></div><div class="source"><a href="./东方绀珠传_～_Legacy_of_Lunatic_Kingdom..md" class="mw-redirect" title="东方绀珠传 ～ Legacy of Lunatic Kingdom.">东方绀珠传　～ Legacy of Lunatic Kingdom.</a></div></td></tr>
-<tr><td id="5" class="infoYD"><b>05</b></td><td id="Theme_and_Variations_for_Piano_and_Trumpet_in_Bb_Major_Op.12" colspan="2" class="title">Theme and Variations for Piano and Trumpet in Bb Major Op.12<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=河北省的比利&amp;ogmusic=未知の花 魅知の旅&amp;fromwiki=The_Short_and_Wacky_Works_Collection_of_SSO"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:09</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./河北省的比利.md" title="河北省的比利">河北省的比利</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，河北省的比利&amp;fromwiki=The_Short_and_Wacky_Works_Collection_of_SSO"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=未知の花 魅知の旅&amp;fromwiki=The_Short_and_Wacky_Works_Collection_of_SSO"><span></span></a></span><div class="ogmusic"><a href="./未知の花_魅知の旅.md" class="mw-redirect" title="未知の花 魅知の旅">未知の花 魅知の旅</a></div><div class="source"><a href="./未知之花_魅知之旅.md" title="未知之花 魅知之旅">未知之花 魅知之旅</a></div></td></tr>
-<tr><td id="6" class="infoYD"><b>06</b></td><td id="Was_ist_des_Gensokyo_Vaterland?" colspan="2" class="title">Was ist des Gensokyo Vaterland?<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=河北省的比利&amp;ogmusic=神々が恋した幻想郷&amp;fromwiki=The_Short_and_Wacky_Works_Collection_of_SSO"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:55</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./河北省的比利.md" title="河北省的比利">河北省的比利</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，河北省的比利&amp;fromwiki=The_Short_and_Wacky_Works_Collection_of_SSO"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=神々が恋した幻想郷&amp;fromwiki=The_Short_and_Wacky_Works_Collection_of_SSO"><span></span></a></span><div class="ogmusic"><a href="./神々が恋した幻想郷.md" class="mw-redirect" title="神々が恋した幻想郷">神々が恋した幻想郷</a></div><div class="source"><a href="./东方风神录_～_Mountain_of_Faith..md" class="mw-redirect" title="东方风神录 ～ Mountain of Faith.">东方风神录　～ Mountain of Faith.</a></div></td></tr>
-<tr><td id="7" class="infoYD"><b>07</b></td><td id="Das_Mikos_Einheitsfrontlied" colspan="2" class="title">Das Mikos Einheitsfrontlied<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=河北省的比利&amp;ogmusic=少女が見た日本の原風景，東方妖恋談&amp;fromwiki=The_Short_and_Wacky_Works_Collection_of_SSO"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:38</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./河北省的比利.md" title="河北省的比利">河北省的比利</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，河北省的比利&amp;fromwiki=The_Short_and_Wacky_Works_Collection_of_SSO"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=少女が見た日本の原風景，東方妖恋談&amp;fromwiki=The_Short_and_Wacky_Works_Collection_of_SSO"><span></span></a></span><div class="ogmusic"><a href="./少女が見た日本の原風景.md" class="mw-redirect" title="少女が見た日本の原風景">少女が見た日本の原風景</a></div><div class="source"><a href="./东方风神录_～_Mountain_of_Faith..md" class="mw-redirect" title="东方风神录 ～ Mountain of Faith.">东方风神录　～ Mountain of Faith.</a></div><hr><div class="ogmusic"><a href="./東方妖恋談.md" class="mw-redirect" title="東方妖恋談">東方妖恋談</a></div><div class="source"><a href="./东方梦时空_～_Phantasmagoria_of_Dim._Dream..md" class="mw-redirect" title="东方梦时空 ～ Phantasmagoria of Dim. Dream.">东方梦时空　～ Phantasmagoria of Dim. Dream.</a></div></td></tr>
-<tr><td id="8" class="infoYD"><b>08</b></td><td id="三途河战车道进行曲" colspan="2" class="title">三途河战车道进行曲<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=河北省的比利&amp;ogmusic=六十年目の東方裁判　～ Fate of Sixty Years&amp;fromwiki=The_Short_and_Wacky_Works_Collection_of_SSO"><span title="搜索相似同人曲"></span></a></span></td><td class="time">02:18</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./河北省的比利.md" title="河北省的比利">河北省的比利</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，河北省的比利&amp;fromwiki=The_Short_and_Wacky_Works_Collection_of_SSO"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=六十年目の東方裁判　～ Fate of Sixty Years&amp;fromwiki=The_Short_and_Wacky_Works_Collection_of_SSO"><span></span></a></span><div class="ogmusic"><a href="./六十年目の東方裁判_～_Fate_of_Sixty_Years.md" class="mw-redirect" title="六十年目の東方裁判 ～ Fate of Sixty Years">六十年目の東方裁判　～ Fate of Sixty Years</a></div><div class="source"><a href="./东方花映塚_～_Phantasmagoria_of_Flower_View..md" class="mw-redirect" title="东方花映塚 ～ Phantasmagoria of Flower View.">东方花映塚　～ Phantasmagoria of Flower View.</a></div></td></tr>
-<tr><td id="9" class="infoYD"><b>09</b></td><td id="Allegro" colspan="2" class="title">Allegro<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=河北省的比利&amp;ogmusic=妖怪の山　～ Mysterious Mountain&amp;fromwiki=The_Short_and_Wacky_Works_Collection_of_SSO"><span title="搜索相似同人曲"></span></a></span></td><td class="time">05:33</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./河北省的比利.md" title="河北省的比利">河北省的比利</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，河北省的比利&amp;fromwiki=The_Short_and_Wacky_Works_Collection_of_SSO"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=妖怪の山　～ Mysterious Mountain&amp;fromwiki=The_Short_and_Wacky_Works_Collection_of_SSO"><span></span></a></span><div class="ogmusic"><a href="./妖怪の山_～_Mysterious_Mountain.md" class="mw-redirect" title="妖怪の山 ～ Mysterious Mountain">妖怪の山　～ Mysterious Mountain</a></div><div class="source"><a href="./东方风神录_～_Mountain_of_Faith..md" class="mw-redirect" title="东方风神录 ～ Mountain of Faith.">东方风神录　～ Mountain of Faith.</a></div></td></tr>
-<tr><td id="10" class="infoYD"><b>10</b></td><td id="Largo" colspan="2" class="title">Largo<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=河北省的比利&amp;ogmusic=東の国の眠らない夜&amp;fromwiki=The_Short_and_Wacky_Works_Collection_of_SSO"><span title="搜索相似同人曲"></span></a></span></td><td class="time">05:47</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./河北省的比利.md" title="河北省的比利">河北省的比利</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，河北省的比利&amp;fromwiki=The_Short_and_Wacky_Works_Collection_of_SSO"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=東の国の眠らない夜&amp;fromwiki=The_Short_and_Wacky_Works_Collection_of_SSO"><span></span></a></span><div class="ogmusic"><a href="./東の国の眠らない夜.md" class="mw-redirect" title="東の国の眠らない夜">東の国の眠らない夜</a></div><div class="source"><a href="./东方文花帖_～_Shoot_the_Bullet..md" class="mw-redirect" title="东方文花帖 ～ Shoot the Bullet.">东方文花帖　～ Shoot the Bullet.</a></div></td></tr>
-<tr><td id="11" class="infoYD"><b>11</b></td><td id="Allegro_-_Andante" colspan="2" class="title">Allegro - Andante<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=河北省的比利&amp;ogmusic=風神少女&amp;fromwiki=The_Short_and_Wacky_Works_Collection_of_SSO"><span title="搜索相似同人曲"></span></a></span></td><td class="time">05:43</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./河北省的比利.md" title="河北省的比利">河北省的比利</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，河北省的比利&amp;fromwiki=The_Short_and_Wacky_Works_Collection_of_SSO"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=風神少女&amp;fromwiki=The_Short_and_Wacky_Works_Collection_of_SSO"><span></span></a></span><div class="ogmusic"><a href="./風神少女.md" class="mw-redirect" title="風神少女">風神少女</a></div><div class="source"><a href="./东方文花帖_～_Shoot_the_Bullet..md" class="mw-redirect" title="东方文花帖 ～ Shoot the Bullet.">东方文花帖　～ Shoot the Bullet.</a></div></td></tr>
-<tr><td id="12" class="infoYD"><b>12</b></td><td id="Allegro_ma_non_troppo" colspan="2" class="title">Allegro ma non troppo<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=河北省的比利&amp;ogmusic=永夜抄　～ Eastern Night.，幻視の夜　～ Ghostly Eyes，蠢々秋月　～ Mooned Insect，夜雀の歌声　～ Night Bird，もう歌しか聞こえない&amp;fromwiki=The_Short_and_Wacky_Works_Collection_of_SSO"><span title="搜索相似同人曲"></span></a></span></td><td class="time">14:04</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./河北省的比利.md" title="河北省的比利">河北省的比利</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，河北省的比利&amp;fromwiki=The_Short_and_Wacky_Works_Collection_of_SSO"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=永夜抄　～ Eastern Night.，幻視の夜　～ Ghostly Eyes，蠢々秋月　～ Mooned Insect，夜雀の歌声　～ Night Bird，もう歌しか聞こえない&amp;fromwiki=The_Short_and_Wacky_Works_Collection_of_SSO"><span></span></a></span><div class="ogmusic"><a href="./永夜抄_～_Eastern_Night..md" title="永夜抄 ～ Eastern Night.">永夜抄　～ Eastern Night.</a></div><div class="ogmusic"><a href="./幻視の夜_～_Ghostly_Eyes.md" class="mw-redirect" title="幻視の夜 ～ Ghostly Eyes">幻視の夜　～ Ghostly Eyes</a></div><div class="ogmusic"><a href="./蠢々秋月_～_Mooned_Insect.md" class="mw-redirect" title="蠢々秋月 ～ Mooned Insect">蠢々秋月　～ Mooned Insect</a></div><div class="ogmusic"><a href="./夜雀の歌声_～_Night_Bird.md" class="mw-redirect" title="夜雀の歌声 ～ Night Bird">夜雀の歌声　～ Night Bird</a></div><div class="ogmusic"><a href="./もう歌しか聞こえない.md" class="mw-redirect" title="もう歌しか聞こえない">もう歌しか聞こえない</a></div><div class="source"><a href="./东方永夜抄_～_Imperishable_Night..md" class="mw-redirect" title="东方永夜抄 ～ Imperishable Night.">东方永夜抄　～ Imperishable Night.</a></div></td></tr></tbody></table>
-
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Symphonic_Variations_of_&quot;Starry_Mountain_of_Tenma&quot;" colspan="2" class="title">Symphonic Variations of "Starry Mountain of Tenma"</td><td class="time">04:51</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./河北省的比利.md" title="河北省的比利">河北省的比利</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./天魔之山漫天星.md" class="mw-redirect" title="星降る天魔の山">星降る天魔の山</a></div><div class="source"><a href="./东方虹龙洞.md" class="mw-redirect" title="东方虹龙洞 ～ Unconnected Marketeers.">东方虹龙洞　～ Unconnected Marketeers.</a></div></td></tr>
+<tr><td id="2" class="infoYD"><b>02</b></td><td id="Bomben_auf_Reimuland" colspan="2" class="title">Bomben auf Reimuland</td><td class="time">02:38</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./河北省的比利.md" title="河北省的比利">河北省的比利</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./信仰是为了虚幻之人.md" class="mw-redirect" title="信仰は儚き人間の為に">信仰は儚き人間の為に</a></div><div class="source"><a href="./东方风神录.md" class="mw-redirect" title="东方风神录 ～ Mountain of Faith.">东方风神录　～ Mountain of Faith.</a></div></td></tr>
+<tr><td id="3" class="infoYD"><b>03</b></td><td id="Theme_and_Variations_for_Clarinet_and_Piano_in_G_minor,_Op.13" colspan="2" class="title">Theme and Variations for Clarinet and Piano in G minor, Op.13</td><td class="time">05:40</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./河北省的比利.md" title="河北省的比利">河北省的比利</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./东方绯想天（曲目）.md" class="mw-redirect" title="東方緋想天">東方緋想天</a></div><div class="source"><a href="./东方绯想天.md" class="mw-redirect" title="东方绯想天 ～ Scarlet Weather Rhapsody.">东方绯想天　～ Scarlet Weather Rhapsody.</a></div></td></tr>
+<tr><td id="4" class="infoYD"><b>04</b></td><td id="The_Sacred_Sexy_Dream" colspan="2" class="title">The Sacred Sexy Dream</td><td class="time">02:41</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./河北省的比利.md" title="河北省的比利">河北省的比利</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./永远的春梦.md" class="mw-redirect" title="永遠の春夢">永遠の春夢</a></div><div class="source"><a href="./东方绀珠传.md" class="mw-redirect" title="东方绀珠传 ～ Legacy of Lunatic Kingdom.">东方绀珠传　～ Legacy of Lunatic Kingdom.</a></div></td></tr>
+<tr><td id="5" class="infoYD"><b>05</b></td><td id="Theme_and_Variations_for_Piano_and_Trumpet_in_Bb_Major_Op.12" colspan="2" class="title">Theme and Variations for Piano and Trumpet in Bb Major Op.12</td><td class="time">04:09</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./河北省的比利.md" title="河北省的比利">河北省的比利</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./未知之花_魅知之旅（曲目）.md" class="mw-redirect" title="未知の花 魅知の旅">未知の花 魅知の旅</a></div><div class="source"><a href="./未知之花_魅知之旅.md" title="未知之花 魅知之旅">未知之花 魅知之旅</a></div></td></tr>
+<tr><td id="6" class="infoYD"><b>06</b></td><td id="Was_ist_des_Gensokyo_Vaterland?" colspan="2" class="title">Was ist des Gensokyo Vaterland?</td><td class="time">03:55</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./河北省的比利.md" title="河北省的比利">河北省的比利</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./众神眷恋的幻想乡.md" class="mw-redirect" title="神々が恋した幻想郷">神々が恋した幻想郷</a></div><div class="source"><a href="./东方风神录.md" class="mw-redirect" title="东方风神录 ～ Mountain of Faith.">东方风神录　～ Mountain of Faith.</a></div></td></tr>
+<tr><td id="7" class="infoYD"><b>07</b></td><td id="Das_Mikos_Einheitsfrontlied" colspan="2" class="title">Das Mikos Einheitsfrontlied</td><td class="time">03:38</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./河北省的比利.md" title="河北省的比利">河北省的比利</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./少女曾见的日本原风景.md" class="mw-redirect" title="少女が見た日本の原風景">少女が見た日本の原風景</a></div><div class="source"><a href="./东方风神录.md" class="mw-redirect" title="东方风神录 ～ Mountain of Faith.">东方风神录　～ Mountain of Faith.</a></div><hr><div class="ogmusic"><a href="./东方妖恋谈.md" class="mw-redirect" title="東方妖恋談">東方妖恋談</a></div><div class="source"><a href="./东方梦时空.md" class="mw-redirect" title="东方梦时空 ～ Phantasmagoria of Dim. Dream.">东方梦时空　～ Phantasmagoria of Dim. Dream.</a></div></td></tr>
+<tr><td id="8" class="infoYD"><b>08</b></td><td id="三途河战车道进行曲" colspan="2" class="title">三途河战车道进行曲</td><td class="time">02:18</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./河北省的比利.md" title="河北省的比利">河北省的比利</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./第六十年的东方审判_～_Fate_of_Sixty_Years.md" class="mw-redirect" title="六十年目の東方裁判 ～ Fate of Sixty Years">六十年目の東方裁判　～ Fate of Sixty Years</a></div><div class="source"><a href="./东方花映塚.md" class="mw-redirect" title="东方花映塚 ～ Phantasmagoria of Flower View.">东方花映塚　～ Phantasmagoria of Flower View.</a></div></td></tr>
+<tr><td id="9" class="infoYD"><b>09</b></td><td id="Allegro" colspan="2" class="title">Allegro</td><td class="time">05:33</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./河北省的比利.md" title="河北省的比利">河北省的比利</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./妖怪之山_～_Mysterious_Mountain.md" class="mw-redirect" title="妖怪の山 ～ Mysterious Mountain">妖怪の山　～ Mysterious Mountain</a></div><div class="source"><a href="./东方风神录.md" class="mw-redirect" title="东方风神录 ～ Mountain of Faith.">东方风神录　～ Mountain of Faith.</a></div></td></tr>
+<tr><td id="10" class="infoYD"><b>10</b></td><td id="Largo" colspan="2" class="title">Largo</td><td class="time">05:47</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./河北省的比利.md" title="河北省的比利">河北省的比利</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./东之国的不眠夜.md" class="mw-redirect" title="東の国の眠らない夜">東の国の眠らない夜</a></div><div class="source"><a href="./东方文花帖.md" class="mw-redirect" title="东方文花帖 ～ Shoot the Bullet.">东方文花帖　～ Shoot the Bullet.</a></div></td></tr>
+<tr><td id="11" class="infoYD"><b>11</b></td><td id="Allegro_-_Andante" colspan="2" class="title">Allegro - Andante</td><td class="time">05:43</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./河北省的比利.md" title="河北省的比利">河北省的比利</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./风神少女.md" class="mw-redirect" title="風神少女">風神少女</a></div><div class="source"><a href="./东方文花帖.md" class="mw-redirect" title="东方文花帖 ～ Shoot the Bullet.">东方文花帖　～ Shoot the Bullet.</a></div></td></tr>
+<tr><td id="12" class="infoYD"><b>12</b></td><td id="Allegro_ma_non_troppo" colspan="2" class="title">Allegro ma non troppo</td><td class="time">14:04</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./河北省的比利.md" title="河北省的比利">河北省的比利</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./永夜抄_～_Eastern_Night..md" title="永夜抄 ～ Eastern Night.">永夜抄　～ Eastern Night.</a></div><div class="ogmusic"><a href="./幻视之夜_～_Ghostly_Eyes.md" class="mw-redirect" title="幻視の夜 ～ Ghostly Eyes">幻視の夜　～ Ghostly Eyes</a></div><div class="ogmusic"><a href="./蠢蠢的秋月_～_Mooned_Insect.md" class="mw-redirect" title="蠢々秋月 ～ Mooned Insect">蠢々秋月　～ Mooned Insect</a></div><div class="ogmusic"><a href="./夜雀的歌声_～_Night_Bird.md" class="mw-redirect" title="夜雀の歌声 ～ Night Bird">夜雀の歌声　～ Night Bird</a></div><div class="ogmusic"><a href="./已经只能听见歌声了.md" class="mw-redirect" title="もう歌しか聞こえない">もう歌しか聞こえない</a></div><div class="source"><a href="./东方永夜抄.md" class="mw-redirect" title="东方永夜抄 ～ Imperishable Night.">东方永夜抄　～ Imperishable Night.</a></div></td></tr></tbody></table>
 
 
 ## 评论
-
-
-
 
 ---
 

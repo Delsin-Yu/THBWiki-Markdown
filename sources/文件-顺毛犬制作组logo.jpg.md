@@ -1,16 +1,12 @@
 # 文件:顺毛犬制作组logo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7b\ns6%3A%E9%A1%BA%E6%AF%9B%E7%8A%AC%E5%88%B6%E4%BD%9C%E7%BB%84logo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7b\ns6%3A%E9%A1%BA%E6%AF%9B%E7%8A%AC%E5%88%B6%E4%BD%9C%E7%BB%84logo%2Ejpg.html -->
 
 社团LOGO | 顺毛犬制作组
 
   
 顺毛犬制作组logo
   
-
-
-
-
 
 ---
 

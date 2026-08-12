@@ -1,6 +1,6 @@
 # 文件:ぼくらの非想天則（Short_Ver.）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a4\ns6%3A%E3%81%BC%E3%81%8F%E3%82%89%E3%81%AE%E9%9D%9E%E6%83%B3%E5%A4%A9%E5%89%87%EF%BC%88Short_Ver%2E%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a4\ns6%3A%E3%81%BC%E3%81%8F%E3%82%89%E3%81%AE%E9%9D%9E%E6%83%B3%E5%A4%A9%E5%89%87%EF%BC%88Short_Ver%2E%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 幻想郷グリークラブ
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [ぼくらの非想天則（Short Ver.）](./ぼくらの非想天則（Short_Ver.）.md)  
-该封面包含的角色：- [非想天则](./非想天则.md)
+- [ぼくらの非想天則（Short Ver.）](./ぼくらの非想天則（Short_Ver.）.md)该封面包含的角色：
+- [非想天则](./非想天则.md)
 
   
-源地址：[[1]](http://www.cascre.com/glee/cscr0005/hyoshi.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://www.cascre.com/glee/cscr0005/hyoshi.jpg)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:東方紺珠伝_Classic5_Revival封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\32\ns6%3A%E6%9D%B1%E6%96%B9%E7%B4%BA%E7%8F%A0%E4%BC%9D_Classic5_Revival%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\32\ns6%3A%E6%9D%B1%E6%96%B9%E7%B4%BA%E7%8F%A0%E4%BC%9D_Classic5_Revival%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 森家
 
@@ -8,11 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方紺珠伝 Classic5 Revival](./東方紺珠伝_Classic5_Revival.md)  
-该封面包含的角色：- [纯狐](./纯狐.md)- [稀神探女](./稀神探女.md)- [克劳恩皮丝](./克劳恩皮丝.md)- [赫卡提亚·拉碧斯拉祖利](./赫卡提亚·拉碧斯拉祖利.md)
-
-
-
+- [東方紺珠伝 Classic5 Revival](./東方紺珠伝_Classic5_Revival.md)该封面包含的角色：
+- [纯狐](./纯狐.md)
+- [稀神探女](./稀神探女.md)
+- [克劳恩皮丝](./克劳恩皮丝.md)
+- [赫卡提亚·拉碧斯拉祖利](./赫卡提亚·拉碧斯拉祖利.md)
 
 
 ---

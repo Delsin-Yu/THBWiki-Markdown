@@ -1,16 +1,12 @@
 # 文件:ssg_6_Boss_1.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\14\ns6%3Assg_6_Boss_1%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\14\ns6%3Assg_6_Boss_1%2Epng.html -->
 
 秋霜玉
 
   
 秋霜玉6面Boss第1阶段像素图。
   
-
-
-
-
 
 ---
 

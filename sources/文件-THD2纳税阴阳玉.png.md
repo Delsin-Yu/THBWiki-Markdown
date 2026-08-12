@@ -1,12 +1,8 @@
 # 文件:THD2纳税阴阳玉.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4a\ns6%3ATHD2%E7%BA%B3%E7%A8%8E%E9%98%B4%E9%98%B3%E7%8E%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4a\ns6%3ATHD2%E7%BA%B3%E7%A8%8E%E9%98%B4%E9%98%B3%E7%8E%89%2Epng.html -->
 
 AvalonStudioOfficial
-
-
-
-
 
 
 ---

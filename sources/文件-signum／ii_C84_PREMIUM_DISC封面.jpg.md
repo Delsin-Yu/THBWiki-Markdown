@@ -1,6 +1,6 @@
 # 文件:signum／ii_C84_PREMIUM_DISC封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f2\ns6%3Asignum%EF%BC%8Fii_C84_PREMIUM_DISC%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f2\ns6%3Asignum%EF%BC%8Fii_C84_PREMIUM_DISC%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 signum／ii | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ signum／ii | 专辑封面 | 封面图片
   
 
 - [signum／ii C84 PREMIUM DISC](./signum／ii_C84_PREMIUM_DISC.md)
-
-
-
 
 
 ---

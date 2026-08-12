@@ -1,6 +1,6 @@
 # 文件:Collapse_of_the_sky封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e7\ns6%3ACollapse_of_the_sky%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e7\ns6%3ACollapse_of_the_sky%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Draw_the_Emotional | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Draw_the_Emotional | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Collapse of the sky](./Collapse_of_the_sky.md)  
-该封面包含的角色：- [封兽鵺](./封兽鵺.md)
-
-
-
+- [Collapse of the sky](./Collapse_of_the_sky.md)该封面包含的角色：
+- [封兽鵺](./封兽鵺.md)
 
 
 ---

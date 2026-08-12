@@ -1,6 +1,6 @@
 # 文件:Dark_Blue_Plain_Combo封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\71\ns6%3ADark_Blue_Plain_Combo%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\71\ns6%3ADark_Blue_Plain_Combo%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 鱒処
 
@@ -11,12 +11,7 @@
 - [Dark Blue Plain Combo](./Dark_Blue_Plain_Combo.md)
 
   
-源地址：[[1]](https://web.archive.org/web/20130621170815im_/http://masdokoro.s234.xrea.com/dark_bkue.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://web.archive.org/web/20130621170815im_/http://masdokoro.s234.xrea.com/dark_bkue.jpg)  
 
 ---
 

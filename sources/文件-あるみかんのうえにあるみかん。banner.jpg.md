@@ -1,16 +1,11 @@
 # 文件:あるみかんのうえにあるみかん。banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\af\ns6%3A%E3%81%82%E3%82%8B%E3%81%BF%E3%81%8B%E3%82%93%E3%81%AE%E3%81%86%E3%81%88%E3%81%AB%E3%81%82%E3%82%8B%E3%81%BF%E3%81%8B%E3%82%93%E3%80%82banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\af\ns6%3A%E3%81%82%E3%82%8B%E3%81%BF%E3%81%8B%E3%82%93%E3%81%AE%E3%81%86%E3%81%88%E3%81%AB%E3%81%82%E3%82%8B%E3%81%BF%E3%81%8B%E3%82%93%E3%80%82banner%2Ejpg.html -->
 
 あるみかんのうえにあるみかん。 | 社团LOGO
 
   
-源地址：[[1]](http://hirano323.sakura.ne.jp/ban_arumikan03.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://hirano323.sakura.ne.jp/ban_arumikan03.jpg)  
 
 ---
 

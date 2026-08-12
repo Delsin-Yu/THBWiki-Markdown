@@ -1,6 +1,6 @@
 # 文件:秘封活动记录-月-ORIGINAL_SOUNDTRACK封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3b\ns6%3A%E7%A7%98%E5%B0%81%E6%B4%BB%E5%8A%A8%E8%AE%B0%E5%BD%95-%E6%9C%88-ORIGINAL_SOUNDTRACK%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3b\ns6%3A%E7%A7%98%E5%B0%81%E6%B4%BB%E5%8A%A8%E8%AE%B0%E5%BD%95-%E6%9C%88-ORIGINAL_SOUNDTRACK%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Yonder_Voice | 专辑封面 | 京都幻想剧团 | 封面图片
 
@@ -8,11 +8,8 @@ Yonder_Voice | 专辑封面 | 京都幻想剧团 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [秘封活动记录-月-ORIGINAL SOUNDTRACK](./秘封活动记录-月-ORIGINAL_SOUNDTRACK.md)  
-该封面包含的角色：- [蓬莱山辉夜](./蓬莱山辉夜.md)
-
-
-
+- [秘封活动记录-月-ORIGINAL SOUNDTRACK](./秘封活动记录-月-ORIGINAL_SOUNDTRACK.md)该封面包含的角色：
+- [蓬莱山辉夜](./蓬莱山辉夜.md)
 
 
 ---

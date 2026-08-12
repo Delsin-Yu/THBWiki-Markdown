@@ -1,63 +1,46 @@
 # Discord_Registers
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\e\e9\ns0%3ADiscord_Registers.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\e\e9\ns0%3ADiscord_Registers.html -->
 
 Discord Registers ，主要制作 同人音乐 的日本同人社团，当前状态为 休止
 
-本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
-
+本页是关于**[同人社团](./二次创作.md#同人社团)**的词条
 ## 目录
 
 - [1 社团信息](#社团信息)
 - [2 成员名单](#成员名单)
 - [3 作品列表](#作品列表)
-
   - [3.1 同人专辑](#同人专辑)
-
 
 
 - [4 其他信息](#其他信息)
 
 
-
-
-
 ## 社团信息
-[](./文件-Discord_Registersbanner.png.md)  [](./文件-Discord_Registersbanner.png.md)banner
-
+<img alt="" src="https://upload.thwiki.cc/thumb/0/01/Discord_Registersbanner.png/200px-Discord_Registersbanner.png" decoding="async" loading="lazy" width="200" height="38" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/0/01/Discord_Registersbanner.png/300px-Discord_Registersbanner.png 1.5x, https://upload.thwiki.cc/thumb/0/01/Discord_Registersbanner.png/400px-Discord_Registersbanner.png 2x" data-file-width="600" data-file-height="115">
+ [放大](./文件-Discord_Registersbanner.png.md)banner
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Discord Registers </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://discordregisters.iza-yoi.net/index.html">http://discordregisters.iza-yoi.net/index.html</a> </td></tr></tbody></table>
 
 Discord Registers（同人社团，同人音乐社团） - Discord Registers ，主要制作 同人音乐 的日本同人社团，当前状态为 休止
-
 ## 成员名单
-- 狸者 (未找到链接)&#160;: composition, arrangement, EWI
+
+- 狸者 (未找到链接) : composition, arrangement, EWI
 
 : [Twitter: @Tanukimono](https://twitter.com/Tanukimono), [Youtube: tanukimono](https://www.youtube.com/user/tanukimono), [NicoNico](https://www.nicovideo.jp/user/2455457)
 
-- Len (未找到链接)&#160;: composition, arrangement, guitar, mixing
+- Len (未找到链接) : composition, arrangement, guitar, mixing
 
 : [Twitter: @len_discoreg](https://twitter.com/len_discoreg)
-
 
 ## 作品列表
 
 ### 同人专辑
-[](./Foggy_Night.md)[Foggy Night](./Foggy_Night.md)首发日期：2009-02-15 （紅のひろば1 (未找到链接)）DR-FN01全长 （一般向）[](./Find_Her_Match.md)[Find Her Match](./Find_Her_Match.md)首发日期：2009-08-15 （Comic Market 76 (未找到链接)）DR-FM02全长 （一般向）该专辑也在法国展会Chibi Japan Expo in Paris (2009-10-30)上发售[](./Hi!_NEW_SCAPE.md)[Hi! NEW SCAPE](./Hi!_NEW_SCAPE.md)首发日期：2010-05-05 （紅月ノ宴肆 (未找到链接)）DR-HS03全长 （一般向）[](./Arms_of_the_Nightmare.md)[Arms of the Nightmare](./Arms_of_the_Nightmare.md)首发日期：2011-10-16 （東方紅楼夢7 (未找到链接)）DR-AN04EP （一般向）
-<table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
-
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
-
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
-
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
-</table>
-
-
+- **[Foggy Night](./Foggy_Night.md)** — 首发日期：2009-02-15 （紅のひろば1）；DR-FN01；全长 （一般向）
+- **[Find Her Match](./Find_Her_Match.md)** — 首发日期：2009-08-15 （Comic Market 76）；DR-FM02；全长 （一般向）；该专辑也在法国展会Chibi Japan Expo in Paris (2009-10-30)上发售
+- **[Hi! NEW SCAPE](./Hi!_NEW_SCAPE.md)** — 首发日期：2010-05-05 （紅月ノ宴肆）；DR-HS03；全长 （一般向）
+- **[Arms of the Nightmare](./Arms_of_the_Nightmare.md)** — 首发日期：2011-10-16 （東方紅楼夢7）；DR-AN04；EP （一般向）
 
 ## 其他信息
-
-
-
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:TEC_BOX_VOL.1_～_"永夜SAW!!"封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c1\ns6%3ATEC_BOX_VOL%2E1_%EF%BD%9E_%22%E6%B0%B8%E5%A4%9CSAW%21%21%22%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c1\ns6%3ATEC_BOX_VOL%2E1_%EF%BD%9E_%22%E6%B0%B8%E5%A4%9CSAW%21%21%22%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 SoundChaos | 专辑封面 | 封面图片
 
@@ -10,11 +10,15 @@ SoundChaos | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [TEC BOX VOL.1 ～ "永夜SAW!!"](./TEC_BOX_VOL.1_～_-永夜SAW!!-.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)- [莉格露·奈特巴格](./莉格露·奈特巴格.md)- [米斯蒂娅·萝蕾拉](./米斯蒂娅·萝蕾拉.md)- [八意永琳](./八意永琳.md)- [蓬莱山辉夜](./蓬莱山辉夜.md)- [藤原妹红](./藤原妹红.md)
-
-
-
+- [TEC BOX VOL.1 ～ "永夜SAW!!"](./TEC_BOX_VOL.1_～_-永夜SAW!!-.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [莉格露·奈特巴格](./莉格露·奈特巴格.md)
+- [米斯蒂娅·萝蕾拉](./米斯蒂娅·萝蕾拉.md)
+- [八意永琳](./八意永琳.md)
+- [蓬莱山辉夜](./蓬莱山辉夜.md)
+- [藤原妹红](./藤原妹红.md)
 
 
 ---

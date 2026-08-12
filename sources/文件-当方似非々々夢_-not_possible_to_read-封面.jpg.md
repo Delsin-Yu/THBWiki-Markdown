@@ -1,6 +1,6 @@
 # 文件:当方似非々々夢_-not_possible_to_read-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0b\ns6%3A%E5%BD%93%E6%96%B9%E4%BC%BC%E9%9D%9E%E3%80%85%E3%80%85%E5%A4%A2_-not_possible_to_read-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0b\ns6%3A%E5%BD%93%E6%96%B9%E4%BC%BC%E9%9D%9E%E3%80%85%E3%80%85%E5%A4%A2_-not_possible_to_read-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 2SP＋C'K | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [当方似非々々夢 -not possible to read-](./当方似非々々夢_-not_possible_to_read-.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
+- [当方似非々々夢 -not possible to read-](./当方似非々々夢_-not_possible_to_read-.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
   
-[From English Touhou wiki](https://en.touhouwiki.net/wiki/File:Not_possible_to_read.jpg); an uncropped version can be found on [circle website](https://web.archive.org/web/20110928134423/http://www.daqua.ac/common/img/cd/tohoese.jpg)
-  
-
-
-
-
+[From English Touhou wiki](https://en.touhouwiki.net/wiki/File:Not_possible_to_read.jpg); an uncropped version can be found on [circle website](https://web.archive.org/web/20110928134423/http://www.daqua.ac/common/img/cd/tohoese.jpg)  
 
 ---
 

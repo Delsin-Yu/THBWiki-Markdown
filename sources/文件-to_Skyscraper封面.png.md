@@ -1,6 +1,6 @@
 # 文件:to_Skyscraper封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8a\ns6%3Ato_Skyscraper%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8a\ns6%3Ato_Skyscraper%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 StudioYKK | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ StudioYKK | 专辑封面 | 封面图片
   
 
 - [to Skyscraper](./to_Skyscraper.md)
-
-
-
 
 
 ---

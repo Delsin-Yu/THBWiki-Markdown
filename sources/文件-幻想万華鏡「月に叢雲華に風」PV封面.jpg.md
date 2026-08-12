@@ -1,6 +1,6 @@
 # 文件:幻想万華鏡「月に叢雲華に風」PV封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\12\ns6%3A%E5%B9%BB%E6%83%B3%E4%B8%87%E8%8F%AF%E9%8F%A1%E3%80%8C%E6%9C%88%E3%81%AB%E5%8F%A2%E9%9B%B2%E8%8F%AF%E3%81%AB%E9%A2%A8%E3%80%8DPV%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\12\ns6%3A%E5%B9%BB%E6%83%B3%E4%B8%87%E8%8F%AF%E9%8F%A1%E3%80%8C%E6%9C%88%E3%81%AB%E5%8F%A2%E9%9B%B2%E8%8F%AF%E3%81%AB%E9%A2%A8%E3%80%8DPV%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 封面图片 | 幽闭星光 | 満福神社 | 视频封面
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [幻想万華鏡「月に叢雲華に風」PV](./幻想万華鏡「月に叢雲華に風」PV.md)  
-该封面包含的角色：- [古明地觉](./古明地觉.md)
-
-
-
+- [幻想万華鏡「月に叢雲華に風」PV](./幻想万華鏡「月に叢雲華に風」PV.md)该封面包含的角色：
+- [古明地觉](./古明地觉.md)
 
 
 ---

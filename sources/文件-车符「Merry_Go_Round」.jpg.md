@@ -1,12 +1,8 @@
 # 文件:车符「Merry_Go_Round」.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\de\ns6%3A%E8%BD%A6%E7%AC%A6%E3%80%8CMerry_Go_Round%E3%80%8D%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\de\ns6%3A%E8%BD%A6%E7%AC%A6%E3%80%8CMerry_Go_Round%E3%80%8D%2Ejpg.html -->
 
 東方邪星章製作チーム
-
-
-
-
 
 
 ---

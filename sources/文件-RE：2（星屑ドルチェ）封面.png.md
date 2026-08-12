@@ -1,6 +1,6 @@
 # 文件:RE：2（星屑ドルチェ）封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6a\ns6%3ARE%EF%BC%9A2%EF%BC%88%E6%98%9F%E5%B1%91%E3%83%89%E3%83%AB%E3%83%81%E3%82%A7%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6a\ns6%3ARE%EF%BC%9A2%EF%BC%88%E6%98%9F%E5%B1%91%E3%83%89%E3%83%AB%E3%83%81%E3%82%A7%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 同人志封面 | 封面图片 | 星屑ドルチェ
 
@@ -10,11 +10,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [RE：2（星屑ドルチェ）](./RE：2（星屑ドルチェ）.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [八云紫](./八云紫.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [RE：2（星屑ドルチェ）](./RE：2（星屑ドルチェ）.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [八云紫](./八云紫.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:De-beL4banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b5\ns6%3ADe-beL4banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b5\ns6%3ADe-beL4banner%2Epng.html -->
 
 De：beL4 | 社团LOGO
-
-
-
-
 
 
 ---

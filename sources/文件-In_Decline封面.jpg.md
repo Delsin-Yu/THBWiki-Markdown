@@ -1,6 +1,6 @@
 # 文件:In_Decline封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\57\ns6%3AIn_Decline%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\57\ns6%3AIn_Decline%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Panic_Bomb | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@ Panic_Bomb | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [In Decline](./In_Decline.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
+- [In Decline](./In_Decline.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
   
-源地址：[Bandcamp (10 size)](https://f4.bcbits.com/img/a0305008281_10.jpg)
-  
-
-
-
-
+源地址：[Bandcamp (10 size)](https://f4.bcbits.com/img/a0305008281_10.jpg)  
 
 ---
 

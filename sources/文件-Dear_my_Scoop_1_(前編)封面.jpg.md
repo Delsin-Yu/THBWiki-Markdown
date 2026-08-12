@@ -1,6 +1,6 @@
 # 文件:Dear_my_Scoop_1_(前編)封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8c\ns6%3ADear_my_Scoop_1_%28%E5%89%8D%E7%B7%A8%29%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8c\ns6%3ADear_my_Scoop_1_%28%E5%89%8D%E7%B7%A8%29%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 壱萬弐阡廻 | 封面图片
 
@@ -10,16 +10,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [Dear my Scoop 1 (前編)](./Dear_my_Scoop_1_(前編).md)  
-该封面包含的角色：- [饭纲丸龙](./饭纲丸龙.md)- [姬虫百百世](./姬虫百百世.md)
+- [Dear my Scoop 1 (前編)](./Dear_my_Scoop_1_(前編%29.md)该封面包含的角色：
+- [饭纲丸龙](./饭纲丸龙.md)
+- [姬虫百百世](./姬虫百百世.md)
 
   
-[Pixiv artwork ID: 93441439 (original size)](https://www.pixiv.net/artworks/93441439)
-  
-
-
-
-
+[Pixiv artwork ID: 93441439 (original size)](https://www.pixiv.net/artworks/93441439)  
 
 ---
 

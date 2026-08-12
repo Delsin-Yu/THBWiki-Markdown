@@ -1,12 +1,8 @@
 # 文件:博丽灵梦（风神录Manual）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\53\ns6%3A%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E9%A3%8E%E7%A5%9E%E5%BD%95Manual%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\53\ns6%3A%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E9%A3%8E%E7%A5%9E%E5%BD%95Manual%EF%BC%89%2Ejpg.html -->
 
 Manual配图 | 东方风神录 | 博丽灵梦
-
-
-
-
 
 
 ---

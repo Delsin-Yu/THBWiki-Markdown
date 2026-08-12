@@ -1,12 +1,8 @@
 # 文件:st_yugi.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\60\ns6%3Ast_yugi%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\60\ns6%3Ast_yugi%2Ejpg.html -->
 
 未完童話
-
-
-
-
 
 
 ---

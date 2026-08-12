@@ -1,31 +1,27 @@
 # e＊
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\f7\ns0%3Ae%EF%BC%8A.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\f7\ns0%3Ae%EF%BC%8A.html -->
 
 2008年9月7日 由 ゆめいろごろも 于 ComicTreasure 12 发布的画集同人志，B5尺寸一共28页，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人志 (未找到链接)** 的词条
-
+**[二次创作同人志](./二次创作.md#同人志)**的词条
 ## 作品信息
 
-<table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-e＊封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/3/3b/e%EF%BC%8A%E5%B0%81%E9%9D%A2.jpg/168px-e%EF%BC%8A%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="168" height="117" srcset="https://upload.thwiki.cc/thumb/3/3b/e%EF%BC%8A%E5%B0%81%E9%9D%A2.jpg/252px-e%EF%BC%8A%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/3/3b/e%EF%BC%8A%E5%B0%81%E9%9D%A2.jpg/336px-e%EF%BC%8A%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="384" data-file-height="268"></a><div class="cover-char">角色：<a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a>，<a href="/%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C" title="十六夜咲夜">十六夜咲夜</a></div></td>
-</tr><tr><td class="label">名称</td><td colspan="2"> e* </td></tr><tr><td class="label">制作方</td><td><a href="./ゆめいろごろも.md" title="ゆめいろごろも">ゆめいろごろも</a></td><td class="cover-artwork" rowspan="6" style="min-width:168px;"><a href="./文件-e＊封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/3/3b/e%EF%BC%8A%E5%B0%81%E9%9D%A2.jpg/168px-e%EF%BC%8A%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="168" height="117" srcset="https://upload.thwiki.cc/thumb/3/3b/e%EF%BC%8A%E5%B0%81%E9%9D%A2.jpg/252px-e%EF%BC%8A%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/3/3b/e%EF%BC%8A%E5%B0%81%E9%9D%A2.jpg/336px-e%EF%BC%8A%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="384" data-file-height="268"></a><div class="cover-char">角色：<a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a>，<a href="/%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C" title="十六夜咲夜">十六夜咲夜</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2008-09-07&#160;（<a href="/展会作品列表?e=ComicTreasure%2312">こみっく★トレジャー12</a>）</td></tr><tr><td class="label">类型</td><td>画集</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>B5</td></tr><tr><td class="label">页数</td><td>28P</td></tr>
+<table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-e＊封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/3/3b/e%EF%BC%8A%E5%B0%81%E9%9D%A2.jpg/168px-e%EF%BC%8A%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="168" height="117" srcset="https://upload.thwiki.cc/thumb/3/3b/e%EF%BC%8A%E5%B0%81%E9%9D%A2.jpg/252px-e%EF%BC%8A%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/3/3b/e%EF%BC%8A%E5%B0%81%E9%9D%A2.jpg/336px-e%EF%BC%8A%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="384" data-file-height="268"></a><div class="cover-char">角色：<a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a>，<a href="./十六夜咲夜.md" title="十六夜咲夜">十六夜咲夜</a></div></td>
+</tr><tr><td class="label">名称</td><td colspan="2"> e* </td></tr><tr><td class="label">制作方</td><td><a href="./ゆめいろごろも.md" title="ゆめいろごろも">ゆめいろごろも</a></td><td class="cover-artwork" rowspan="6" style="min-width:168px;"><a href="./文件-e＊封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/3/3b/e%EF%BC%8A%E5%B0%81%E9%9D%A2.jpg/168px-e%EF%BC%8A%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="168" height="117" srcset="https://upload.thwiki.cc/thumb/3/3b/e%EF%BC%8A%E5%B0%81%E9%9D%A2.jpg/252px-e%EF%BC%8A%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/3/3b/e%EF%BC%8A%E5%B0%81%E9%9D%A2.jpg/336px-e%EF%BC%8A%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="384" data-file-height="268"></a><div class="cover-char">角色：<a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a>，<a href="./十六夜咲夜.md" title="十六夜咲夜">十六夜咲夜</a></div></td>
+</tr><tr><td class="label">首发日期</td><td>2008-09-07 （<a href="./展会作品列表.md#12">こみっく★トレジャー12</a>）</td></tr><tr><td class="label">类型</td><td>画集</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>B5</td></tr><tr><td class="label">页数</td><td>28P</td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://yumegoro.sumomo.ne.jp/y-info_2008.html">http://yumegoro.sumomo.ne.jp/y-info_2008.html</a><br><a rel="nofollow" class="external free" href="http://yumegoro.sumomo.ne.jp/nicky.cgi?DATE=200808?MODE=MONTH#20080827A">http://yumegoro.sumomo.ne.jp/nicky.cgi?DATE=200808?MODE=MONTH#20080827A</a></td></tr></tbody></table>
 
 e＊（同人志，ゆめいろごろも，2008） - 2008年9月7日 由 ゆめいろごろも 于 ComicTreasure 12 发布的画集同人志，B5尺寸一共28页，分级为 一般向
-
 ## 预览
 
 ## Staff
+
 - 春日沙生 (未找到链接)
 
 
 ## 评论
-
-
-
 
 ---
 

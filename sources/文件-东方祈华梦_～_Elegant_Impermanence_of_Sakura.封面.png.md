@@ -1,6 +1,6 @@
 # 文件:东方祈华梦_～_Elegant_Impermanence_of_Sakura.封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\16\ns6%3A%E4%B8%9C%E6%96%B9%E7%A5%88%E5%8D%8E%E6%A2%A6_%EF%BD%9E_Elegant_Impermanence_of_Sakura%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\16\ns6%3A%E4%B8%9C%E6%96%B9%E7%A5%88%E5%8D%8E%E6%A2%A6_%EF%BD%9E_Elegant_Impermanence_of_Sakura%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 东方祈华梦制作组 | 封面图片 | 软件封面
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [东方祈华梦 ～ Elegant Impermanence of Sakura.](./东方祈华梦_～_Elegant_Impermanence_of_Sakura..md)  
-该封面包含的角色：- [樱华院静](./樱华院静.md)
-
-
-
+- [东方祈华梦 ～ Elegant Impermanence of Sakura.](./东方祈华梦_～_Elegant_Impermanence_of_Sakura..md)该封面包含的角色：
+- [樱华院静](./樱华院静.md)
 
 
 ---

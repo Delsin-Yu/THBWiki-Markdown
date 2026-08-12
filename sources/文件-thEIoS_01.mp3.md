@@ -1,14 +1,11 @@
 # 文件:thEIoS_01.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8b\ns6%3AthEIoS_01%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8b\ns6%3AthEIoS_01%2Emp3.html -->
 
 东方祈华梦制作组 | 意祈华思_夜星明梦
 
 
 ## 文件说明
-
-
-
 
 ---
 

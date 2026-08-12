@@ -1,6 +1,6 @@
 # 文件:Amateras_Records_Best_Vol.3封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2b\ns6%3AAmateras_Records_Best_Vol%2E3%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2b\ns6%3AAmateras_Records_Best_Vol%2E3%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Amateras_Records | 专辑封面 | 封面图片
 
@@ -8,11 +8,13 @@ Amateras_Records | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Amateras Records Best Vol.3](./Amateras_Records_Best_Vol.3.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- 十六夜咲夜 (未找到链接)- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [洩矢诹访子](./洩矢诹访子.md)- [雾雨魔理沙](./雾雨魔理沙.md)- [克劳恩皮丝](./克劳恩皮丝.md)
-
-
-
+- [Amateras Records Best Vol.3](./Amateras_Records_Best_Vol.3.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [十六夜咲夜](./十六夜咲夜.md)
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [洩矢诹访子](./洩矢诹访子.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
+- [克劳恩皮丝](./克劳恩皮丝.md)
 
 
 ---

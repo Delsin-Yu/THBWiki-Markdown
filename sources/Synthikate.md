@@ -1,35 +1,29 @@
 # Synthikate
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\9\9b\ns0%3ASynthikate.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\9\9b\ns0%3ASynthikate.html -->
 
 Synthikate ，于 2014 年成立，主要制作 同人音乐 的韩国同人社团，当前状态为 活动
 
-本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
-
+本页是关于**[同人社团](./二次创作.md#同人社团)**的词条
 ## 目录
 
 - [1 社团信息](#社团信息)
 - [2 成员名单](#成员名单)
 - [3 作品列表](#作品列表)
-
   - [3.1 同人专辑](#同人专辑)
-
 
 
 - [4 其他信息](#其他信息)
 
 
-
-
-
 ## 社团信息
-[](./文件-Synthikatelogo.jpg.md)  [](./文件-Synthikatelogo.jpg.md)logo
-
+<img alt="" src="https://upload.thwiki.cc/5/54/Synthikatelogo.jpg" decoding="async" loading="lazy" width="64" height="64" class="thumbimage" data-file-width="64" data-file-height="64">
+ [放大](./文件-Synthikatelogo.jpg.md)logo
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Synthikate </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2014</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>地区</b></td><td>韩国</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="https://synthikate.tumblr.com/">https://synthikate.tumblr.com/</a> <br><a rel="nofollow" class="external free" href="https://synthikate.bandcamp.com/">https://synthikate.bandcamp.com/</a></td></tr></tbody></table>
 
 Synthikate（同人社团，同人音乐社团） - Synthikate ，于 2014 年成立，主要制作 同人音乐 的韩国同人社团，当前状态为 活动
-
 ## 成员名单
+
 - Stepic (未找到链接)
 - Nor (未找到链接)
 - Aire (未找到链接)
@@ -40,16 +34,9 @@ Synthikate（同人社团，同人音乐社团） - Synthikate ，于 2014 年�
 ## 作品列表
 
 ### 同人专辑
-[](./Bakapilation.md)[Bakapilation](./Bakapilation.md)首发日期：2014-09-09 EP （一般向）在[琪露诺之日](./东方角色日一览.md)发布
-<table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
-</table>
-
-
+- **[Bakapilation](./Bakapilation.md)** — 首发日期：2014-09-09；EP （一般向）；在琪露诺之日发布
 
 ## 其他信息
-
-
-
 
 ---
 

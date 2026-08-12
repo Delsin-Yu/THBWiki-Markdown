@@ -1,18 +1,13 @@
 # 文件:Alluvial_Cometbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f9\ns6%3AAlluvial_Cometbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f9\ns6%3AAlluvial_Cometbanner%2Ejpg.html -->
 
 Alluvial_Comet | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[[1]](http://alluvialcomet.web.fc2.com/minibanner3c1.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://alluvialcomet.web.fc2.com/minibanner3c1.jpg)  
 
 ---
 

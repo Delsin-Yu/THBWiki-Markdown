@@ -1,12 +1,8 @@
 # 文件:st_utsuho.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1f\ns6%3Ast_utsuho%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1f\ns6%3Ast_utsuho%2Ejpg.html -->
 
 未完童話
-
-
-
-
 
 
 ---

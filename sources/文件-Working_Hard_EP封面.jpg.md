@@ -1,6 +1,6 @@
 # 文件:Working_Hard_EP封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8f\ns6%3AWorking_Hard_EP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8f\ns6%3AWorking_Hard_EP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 IZMIZM | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ IZMIZM | 专辑封面 | 封面图片
   
 
 - [Working Hard EP](./Working_Hard_EP.md)
-
-
-
 
 
 ---

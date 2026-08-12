@@ -1,6 +1,6 @@
 # 文件:NOIR_-1-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f6\ns6%3ANOIR_-1-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f6\ns6%3ANOIR_-1-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 すーぱーのヴぁ | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [NOIR -1-](./NOIR_-1-.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [NOIR -1-](./NOIR_-1-.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
 
   
-源地址：[direct image link (max size)](https://blog-imgs-68-origin.fc2.com/s/u/p/supernova0001/201405100201188e8.jpg), [source page](http://supernova0001.blog.fc2.com/blog-entry-3.html)
-  
-
-
-
-
+源地址：[direct image link (max size)](https://blog-imgs-68-origin.fc2.com/s/u/p/supernova0001/201405100201188e8.jpg), [source page](http://supernova0001.blog.fc2.com/blog-entry-3.html)  
 
 ---
 

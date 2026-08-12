@@ -1,6 +1,6 @@
 # 文件:Torch_This_Light封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b7\ns6%3ATorch_This_Light%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b7\ns6%3ATorch_This_Light%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 REVERSE_RESISTANCE_RECORDS | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ REVERSE_RESISTANCE_RECORDS | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Torch This Light](./Torch_This_Light.md)  
-该封面包含的角色：- [物部布都](./物部布都.md)
-
-
-
+- [Torch This Light](./Torch_This_Light.md)该封面包含的角色：
+- [物部布都](./物部布都.md)
 
 
 ---

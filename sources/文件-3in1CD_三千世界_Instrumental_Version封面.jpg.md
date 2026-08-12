@@ -1,6 +1,6 @@
 # 文件:3in1CD_三千世界_Instrumental_Version封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d6\ns6%3A3in1CD_%E4%B8%89%E5%8D%83%E4%B8%96%E7%95%8C_Instrumental_Version%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d6\ns6%3A3in1CD_%E4%B8%89%E5%8D%83%E4%B8%96%E7%95%8C_Instrumental_Version%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 幽闭星光
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [3in1CD 三千世界 Instrumental Version](./3in1CD_三千世界_Instrumental_Version.md)  
-该封面包含的角色：- [东风谷早苗](./东风谷早苗.md)
-
-
-
+- [3in1CD 三千世界 Instrumental Version](./3in1CD_三千世界_Instrumental_Version.md)该封面包含的角色：
+- [东风谷早苗](./东风谷早苗.md)
 
 
 ---

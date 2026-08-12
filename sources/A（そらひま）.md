@@ -1,29 +1,25 @@
 # A（そらひま）
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\9\9e\ns0%3AA%EF%BC%88%E3%81%9D%E3%82%89%E3%81%B2%E3%81%BE%EF%BC%89.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\9\9e\ns0%3AA%EF%BC%88%E3%81%9D%E3%82%89%E3%81%B2%E3%81%BE%EF%BC%89.html -->
 
 2010年8月14日 由 そらひま 于 Comic Market 78 发布的画集同人志，A4尺寸一共20页，登场人物有 爱丽丝·玛格特洛依德，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人志 (未找到链接)** 的词条
-
+**[二次创作同人志](./二次创作.md#同人志)**的词条
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-A（そらひま）封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/9/99/A%EF%BC%88%E3%81%9D%E3%82%89%E3%81%B2%E3%81%BE%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/158px-A%EF%BC%88%E3%81%9D%E3%82%89%E3%81%B2%E3%81%BE%EF%BC%89%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="158" height="224" srcset="https://upload.thwiki.cc/thumb/9/99/A%EF%BC%88%E3%81%9D%E3%82%89%E3%81%B2%E3%81%BE%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/237px-A%EF%BC%88%E3%81%9D%E3%82%89%E3%81%B2%E3%81%BE%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/9/99/A%EF%BC%88%E3%81%9D%E3%82%89%E3%81%B2%E3%81%BE%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/316px-A%EF%BC%88%E3%81%9D%E3%82%89%E3%81%B2%E3%81%BE%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="600" data-file-height="851"></a><div class="cover-char">角色：<a href="./爱丽丝·玛格特洛依德.md" title="爱丽丝·玛格特洛依德">爱丽丝·玛格特洛依德</a></div></td>
 </tr><tr><td class="label">名称</td><td colspan="2"> A </td></tr><tr><td class="label">制作方</td><td><a href="./そらひま.md" title="そらひま">そらひま</a></td><td class="cover-artwork" rowspan="8" style="min-width:224px;"><a href="./文件-A（そらひま）封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/9/99/A%EF%BC%88%E3%81%9D%E3%82%89%E3%81%B2%E3%81%BE%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/158px-A%EF%BC%88%E3%81%9D%E3%82%89%E3%81%B2%E3%81%BE%EF%BC%89%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="158" height="224" srcset="https://upload.thwiki.cc/thumb/9/99/A%EF%BC%88%E3%81%9D%E3%82%89%E3%81%B2%E3%81%BE%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/237px-A%EF%BC%88%E3%81%9D%E3%82%89%E3%81%B2%E3%81%BE%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/9/99/A%EF%BC%88%E3%81%9D%E3%82%89%E3%81%B2%E3%81%BE%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/316px-A%EF%BC%88%E3%81%9D%E3%82%89%E3%81%B2%E3%81%BE%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="600" data-file-height="851"></a><div class="cover-char">角色：<a href="./爱丽丝·玛格特洛依德.md" title="爱丽丝·玛格特洛依德">爱丽丝·玛格特洛依德</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2010-08-14&#160;（<a href="/展会作品列表?e=Comic+Market%2378">Comic Market 78</a>）</td></tr><tr><td class="label">类型</td><td>画集</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>A4</td></tr><tr><td class="label">页数</td><td>20P</td></tr><tr><td class="label">登场人物</td><td><a href="./爱丽丝·玛格特洛依德.md" title="爱丽丝·玛格特洛依德">爱丽丝·玛格特洛依德</a></td></tr><tr><td class="label">售价</td><td>500日元</td></tr>
+</tr><tr><td class="label">首发日期</td><td>2010-08-14 （<a href="./展会作品列表.md#78">Comic Market 78</a>）</td></tr><tr><td class="label">类型</td><td>画集</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>A4</td></tr><tr><td class="label">页数</td><td>20P</td></tr><tr><td class="label">登场人物</td><td><a href="./爱丽丝·玛格特洛依德.md" title="爱丽丝·玛格特洛依德">爱丽丝·玛格特洛依德</a></td></tr><tr><td class="label">售价</td><td>500日元</td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://azure.genin.jp/dojin/a.html">http://azure.genin.jp/dojin/a.html</a></td></tr><tr><td class="label">备注</td><td colspan="2">全彩</td></tr></tbody></table>
 
 A（同人志，そらひま，2010） - 2010年8月14日 由 そらひま 于 Comic Market 78 发布的画集同人志，A4尺寸一共20页，登场人物有 爱丽丝·玛格特洛依德，分级为 一般向
-
 ## Staff
+
 - 日向あずり (未找到链接)
 
 
 ## 评论
-
-
-
 
 ---
 

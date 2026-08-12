@@ -1,16 +1,12 @@
 # 模板:田地Brothers
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\3\34\ns10%3A%E7%94%B0%E5%9C%B0Brothers.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\3\34\ns10%3A%E7%94%B0%E5%9C%B0Brothers.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

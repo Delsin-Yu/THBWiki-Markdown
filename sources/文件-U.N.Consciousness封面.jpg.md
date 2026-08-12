@@ -1,6 +1,6 @@
 # 文件:U.N.Consciousness封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bd\ns6%3AU%2EN%2EConsciousness%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bd\ns6%3AU%2EN%2EConsciousness%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Under_Reverse | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ Under_Reverse | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [U.N.Consciousness](./U.N.Consciousness.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)- [古明地恋](./古明地恋.md)
-
-
-
+- [U.N.Consciousness](./U.N.Consciousness.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [古明地恋](./古明地恋.md)
 
 
 ---

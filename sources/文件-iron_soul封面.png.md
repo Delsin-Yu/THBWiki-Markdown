@@ -1,6 +1,6 @@
 # 文件:iron_soul封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\14\ns6%3Airon_soul%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\14\ns6%3Airon_soul%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 猫茶馆
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [iron soul](./iron_soul.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [iron soul](./iron_soul.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:脑符「Brain_Fingerprint」（DS文花帖）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e6\ns6%3A%E8%84%91%E7%AC%A6%E3%80%8CBrain_Fingerprint%E3%80%8D%EF%BC%88DS%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e6\ns6%3A%E8%84%91%E7%AC%A6%E3%80%8CBrain_Fingerprint%E3%80%8D%EF%BC%88DS%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Ejpg.html -->
 
 东方文花帖DS | 古明地觉 | 敌机符卡
-
-
-
-
 
 
 ---

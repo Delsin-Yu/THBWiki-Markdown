@@ -1,12 +1,8 @@
 # 文件:依神紫苑（凭依华Spell_Card立绘）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\22\ns6%3A%E4%BE%9D%E7%A5%9E%E7%B4%AB%E8%8B%91%EF%BC%88%E5%87%AD%E4%BE%9D%E5%8D%8ESpell_Card%E7%AB%8B%E7%BB%98%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\22\ns6%3A%E4%BE%9D%E7%A5%9E%E7%B4%AB%E8%8B%91%EF%BC%88%E5%87%AD%E4%BE%9D%E5%8D%8ESpell_Card%E7%AB%8B%E7%BB%98%EF%BC%89%2Epng.html -->
 
 东方凭依华 | 依神紫苑 | 官方游戏立绘 | 春河萌绘
-
-
-
-
 
 
 ---

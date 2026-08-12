@@ -1,18 +1,13 @@
 # 文件:DFMlogo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b6\ns6%3ADFMlogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b6\ns6%3ADFMlogo%2Ejpg.html -->
 
 DFM | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[soundcloud avatar](https://i1.sndcdn.com/avatars-000007043205-fl8fky-original.jpg)
-  
-
-
-
-
+源地址：[soundcloud avatar](https://i1.sndcdn.com/avatars-000007043205-fl8fky-original.jpg)  
 
 ---
 

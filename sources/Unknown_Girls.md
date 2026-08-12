@@ -1,53 +1,40 @@
 # Unknown_Girls
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\49\ns0%3AUnknown_Girls.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\49\ns0%3AUnknown_Girls.html -->
 
 Unknown Girls 在 日本东京 举办的 芙兰朵露·斯卡蕾特×古明地恋×封兽鵺Only 东方同人展会活动，目前共举办了2届
 
-本页是关于 **[同人展会](./同人展会.md#展会类活动)**   
-及 **[相关活动](./相关活动.md)** 的词条
-
+本页是关于**[同人展会](./活动.md#展会类活动)**  
+及**[相关活动](./活动.md)**的词条
 ## 目录
 
 - [1 概述](#概述)
 - [2 历届信息](#历届信息)
 - [3 历届宣传图](#历届宣传图)
-
   - [3.1 第一届](#第一届)
-
 
 
 - [4 注释](#注释)
 
 
-
-
-
 ## 概述
-文件:Unknown GirlsLOGO.jpg (未找到链接)  Unknown Girls LOGO
+文件:Unknown GirlsLOGO.jpg (未找到链接) Unknown Girls LOGO  
+<big>**Unknown Girls**</big>（あんのうんがーるず）。  
   
-<big> **Unknown Girls** </big>（あんのうんがーるず）。  
-  
-  
-  
-  
- **[芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)** × **[古明地恋](./古明地恋.md)** × **[封兽鵺](./封兽鵺.md)** Only **同人[展会类活动](./展会类活动.md#展会类活动)** 。  
+**[芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)**×**[古明地恋](./古明地恋.md)**×**[封兽鵺](./封兽鵺.md)**Only**同人[展会类活动](./活动.md#展会类活动)**。  
   
 在东京举办。  
   
   
 此活动在2016年至2017年间共举办了2届，之后未再举办。  
   
-  
-  
-  
 活动官方网站： [http://shisyonooshigoto.jp](http://shisyonooshigoto.jp)   
-主办方： **Unknown Girls准备会** （Unknown Girls準備会）  
+主办方：**Unknown Girls准备会**（Unknown Girls準備会）  
 官方推特： [https://twitter.com/UnknownGirls5](https://twitter.com/UnknownGirls5) （需要翻墙）  
   
 Unknown Girls（活动，展会活动） - Unknown Girls 在 日本东京 举办的 芙兰朵露·斯卡蕾特×古明地恋×封兽鵺Only 东方同人展会活动，目前共举办了2届
-
 ## 历届信息
+
 - 点击届数可进入对应分类页面。
 - 请注意，摊位数统计可能不准确。
 - 举办日期以当地日期为准。
@@ -55,10 +42,9 @@ Unknown Girls（活动，展会活动） - Unknown Girls 在 日本东京 举办
 
 <table>
 <tbody><tr><th> </th><th>日期</th><th>地点</th><th>摊位数</th></tr>
-<tr><td id="1"><b><a href="/展会作品列表?e=Unknown+Girls%231">Unknown Girls1</a></b><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">1</a></sup></td><td id="ev-1">2016年09月18日</td><td>东京批发中心<br><small><span style="color:grey;">東京卸商センター</span></small></td><td></td></tr>
-<tr><td id="2"><b><a href="/展会作品列表?e=Unknown+Girls%232">Unknown Girls2</a></b><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">2</a></sup></td><td id="ev-2">2017年09月03日</td><td>东京批发中心<br><small><span style="color:grey;">東京卸商センター</span></small></td><td></td></tr>
+<tr><td id="1"><b><a href="./展会作品列表.md#1">Unknown Girls1</a></b><span>[^cite_note-1]</span></td><td id="ev-1">2016年09月18日</td><td>东京批发中心<br><small><span style="color:grey;">東京卸商センター</span></small></td><td></td></tr>
+<tr><td id="2"><b><a href="./展会作品列表.md#2">Unknown Girls2</a></b><span>[^cite_note-2]</span></td><td id="ev-2">2017年09月03日</td><td>东京批发中心<br><small><span style="color:grey;">東京卸商センター</span></small></td><td></td></tr>
 </tbody></table>
-
 
 
 ## 历届宣传图
@@ -66,20 +52,12 @@ Unknown Girls（活动，展会活动） - Unknown Girls 在 日本东京 举办
 网站首页使用的作为顶图或宣传图片的图片。
   
 
-
 ### 第一届
-- [](./文件-Unknown_Girls1插画.jpeg.md)第1届
 
+- <img alt="第1届" src="https://upload.thwiki.cc/thumb/5/5e/Unknown_Girls1%E6%8F%92%E7%94%BB.jpeg/266px-Unknown_Girls1%E6%8F%92%E7%94%BB.jpeg" decoding="async" loading="lazy" width="178" height="250" srcset="https://upload.thwiki.cc/thumb/5/5e/Unknown_Girls1%E6%8F%92%E7%94%BB.jpeg/399px-Unknown_Girls1%E6%8F%92%E7%94%BB.jpeg 1.5x, https://upload.thwiki.cc/5/5e/Unknown_Girls1%E6%8F%92%E7%94%BB.jpeg 2x" data-file-width="516" data-file-height="728"> 第1届
 
 [^cite_note-1]: 与[魔理爱丽茶会1](./魔理爱丽茶会.md)、[图书管理员的工作1](./图书管理员的工作.md)共同举办。
-
-  
-  
-
-
-
-
-
+[^cite_note-2]: 与[魔理爱丽茶会2](./魔理爱丽茶会.md)、[图书管理员的工作2](./图书管理员的工作.md)共同举办。
 
 ---
 

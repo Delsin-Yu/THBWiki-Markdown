@@ -1,6 +1,6 @@
 # 文件:GENSOU_HARDSOUND＃004封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cd\ns6%3AGENSOU_HARDSOUND%EF%BC%83004%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cd\ns6%3AGENSOU_HARDSOUND%EF%BC%83004%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 KINZOK_ON | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ KINZOK_ON | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [GENSOU HARDSOUND＃004](./GENSOU_HARDSOUND＃004.md)  
-该封面包含的角色：- [小野塚小町](./小野塚小町.md)- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)
-
-
-
+- [GENSOU HARDSOUND＃004](./GENSOU_HARDSOUND＃004.md)该封面包含的角色：
+- [小野塚小町](./小野塚小町.md)
+- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)
 
 
 ---

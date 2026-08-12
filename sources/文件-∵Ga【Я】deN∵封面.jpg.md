@@ -1,6 +1,6 @@
 # 文件:∵Ga【Я】deN∵封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b1\ns6%3A%E2%88%B5Ga%E3%80%90%D0%AF%E3%80%91deN%E2%88%B5%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b1\ns6%3A%E2%88%B5Ga%E3%80%90%D0%AF%E3%80%91deN%E2%88%B5%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 黒夜葬
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [∵Ga【Я】deN∵](./∵Ga【Я】deN∵.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [梅蒂欣·梅兰可莉](./梅蒂欣·梅兰可莉.md)
-
-
-
+- [∵Ga【Я】deN∵](./∵Ga【Я】deN∵.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [梅蒂欣·梅兰可莉](./梅蒂欣·梅兰可莉.md)
 
 
 ---

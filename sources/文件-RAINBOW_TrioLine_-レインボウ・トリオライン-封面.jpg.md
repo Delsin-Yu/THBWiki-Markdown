@@ -1,6 +1,6 @@
 # 文件:RAINBOW_TrioLine_-レインボウ・トリオライン-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b6\ns6%3ARAINBOW_TrioLine_-%E3%83%AC%E3%82%A4%E3%83%B3%E3%83%9C%E3%82%A6%E3%83%BB%E3%83%88%E3%83%AA%E3%82%AA%E3%83%A9%E3%82%A4%E3%83%B3-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b6\ns6%3ARAINBOW_TrioLine_-%E3%83%AC%E3%82%A4%E3%83%B3%E3%83%9C%E3%82%A6%E3%83%BB%E3%83%88%E3%83%AA%E3%82%AA%E3%83%A9%E3%82%A4%E3%83%B3-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 彩音_～xi-on～
 
@@ -10,15 +10,13 @@
 使用了本文件作封面图片的作品：
   
 
-- [RAINBOW TrioLine -レインボウ・トリオライン-](./RAINBOW_TrioLine_-レインボウ・トリオライン-.md)  
-该封面包含的角色：- [饭纲丸龙](./饭纲丸龙.md)- [天弓千亦](./天弓千亦.md)- [姬虫百百世](./姬虫百百世.md)
+- [RAINBOW TrioLine -レインボウ・トリオライン-](./RAINBOW_TrioLine_-レインボウ・トリオライン-.md)该封面包含的角色：
+- [饭纲丸龙](./饭纲丸龙.md)
+- [天弓千亦](./天弓千亦.md)
+- [姬虫百百世](./姬虫百百世.md)
 
 源地址
-: [[1]](http://xion-music.com/_src/6063/rainbow_omote_web1000.jpg)
-
-
-
-
+: [\[1\]](http://xion-music.com/_src/6063/rainbow_omote_web1000.jpg)
 
 ---
 

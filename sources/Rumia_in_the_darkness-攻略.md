@@ -1,6 +1,6 @@
 # Rumia_in_the_darkness/攻略
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\02\ns0%3ARumia_in_the_darkness%2F%E6%94%BB%E7%95%A5.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\02\ns0%3ARumia_in_the_darkness%2F%E6%94%BB%E7%95%A5.html -->
 
 Dark_Sky_Empire
 
@@ -13,26 +13,22 @@ Dark_Sky_Empire
 - [4 存档系统](#存档系统)
 
 
-
-
-
 ## 基本攻略
   
 本游戏的主要谜题是“露米娅在每张地图上能吃掉多少人”，吃人的数量将直接决定露米娅能否获得新技能：
   
   
- **2人**   = 吃人不吐骨（被露米娅捕食的人类不会留下鲜血和骨头）
+**2人**  = 吃人不吐骨（被露米娅捕食的人类不会留下鲜血和骨头）
   
   
- **10人**  = 贴地飞行（露米娅的移动速度上升，可直接飞过水面）
+**10人** = 贴地飞行（露米娅的移动速度上升，可直接飞过水面）
   
   
- **20人**  = 隐形攻击（村民和忍者的视野范围失效，无法看到露米娅）
+**20人** = 隐形攻击（村民和忍者的视野范围失效，无法看到露米娅）
   
   
 （提示：露米娅在游戏开头的森林里已经吃了1个人）
   
-
 
 ## 失败条件
   
@@ -48,7 +44,6 @@ Dark_Sky_Empire
 3、被驱魔师的式神碰到。
   
 
-
 ## 秘籍
   
 这个游戏没有任何秘籍，也不存在暗道。
@@ -57,7 +52,6 @@ Dark_Sky_Empire
 谨慎观察是通过复杂关卡的唯一方法，请不要横冲直撞。
   
 
-
 ## 存档系统
   
 露米娅必须从琪斯美那里得到“记事本”才能存档。
@@ -65,10 +59,6 @@ Dark_Sky_Empire
   
 本游戏使用的是定点存档设计，玩家无法手动打开存档菜单。
   
-
-
-
-
 
 ---
 

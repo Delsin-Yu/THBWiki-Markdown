@@ -1,18 +1,13 @@
 # 文件:XG幻想樂団banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bb\ns6%3AXG%E5%B9%BB%E6%83%B3%E6%A8%82%E5%9B%A3banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bb\ns6%3AXG%E5%B9%BB%E6%83%B3%E6%A8%82%E5%9B%A3banner%2Epng.html -->
 
 XG幻想樂団 | 社团LOGO
 
 
 ## 摘要
   
-源地址：[direct image link](https://xggensougakudan.at-ninja.jp/images/banner.png), [source page](https://xggensougakudan.at-ninja.jp/link.html)
-  
-
-
-
-
+源地址：[direct image link](https://xggensougakudan.at-ninja.jp/images/banner.png), [source page](https://xggensougakudan.at-ninja.jp/link.html)  
 
 ---
 

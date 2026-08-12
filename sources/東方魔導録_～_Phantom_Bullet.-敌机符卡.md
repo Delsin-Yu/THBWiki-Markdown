@@ -1,11 +1,12 @@
 # 東方魔導録_～_Phantom_Bullet./敌机符卡
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\5\51\ns0%3A%E6%9D%B1%E6%96%B9%E9%AD%94%E5%B0%8E%E9%8C%B2_%EF%BD%9E_Phantom_Bullet%2E%2F%E6%95%8C%E6%9C%BA%E7%AC%A6%E5%8D%A1.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\5\51\ns0%3A%E6%9D%B1%E6%96%B9%E9%AD%94%E5%B0%8E%E9%8C%B2_%EF%BD%9E_Phantom_Bullet%2E%2F%E6%95%8C%E6%9C%BA%E7%AC%A6%E5%8D%A1.html -->
 
 whiteboard
 
 
 ## 符卡列表
+
 - 列表中符卡未必出现在全部难度中
 - 符卡翻译以游戏内翻译为准
 - 符卡序号仅为列表序号，非游戏内顺序
@@ -215,7 +216,7 @@ whiteboard
 <tr>
 <td>23
 </td>
-<td rowspan="6"><a href="/%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C" title="十六夜咲夜">十六夜咲夜</a>
+<td rowspan="6"><a href="./十六夜咲夜.md" title="十六夜咲夜">十六夜咲夜</a>
 </td>
 <td>奇術「ミスディレクション」</td>
 <td>Conjuring "Misdirection"</td>
@@ -540,7 +541,7 @@ whiteboard
 <tr>
 <td>62
 </td>
-<td rowspan="5"><a href="./蕾米莉亚·斯卡雷特.md" class="mw-redirect" title="蕾米莉亚·斯卡雷特">蕾米莉亚·斯卡雷特</a>
+<td rowspan="5"><a href="./蕾米莉亚·斯卡蕾特.md" class="mw-redirect" title="蕾米莉亚·斯卡雷特">蕾米莉亚·斯卡雷特</a>
 </td>
 <td>神槍「エンシェントカタクリズム」</td>
 <td>Divine Spear "Ancient Cataclysm"</td>
@@ -668,7 +669,7 @@ whiteboard
 <td>77</td>
 <td>兎符「本気ぺったんこ」</td>
 <td>Rabbit Sign "Violent Pettanko"</td>
-<td>兔符「来砸团子喽」<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">1</a></sup></td>
+<td>兔符「来砸团子喽」<span>[^cite_note-1]</span></td>
 <td></td>
 <td>以惊人的速度捣年糕的符卡。味道也很不错，醇厚的口感更是绝佳
 </td></tr>
@@ -834,7 +835,7 @@ whiteboard
 <tr>
 <td>97
 </td>
-<td rowspan="4"><a href="./铃仙.md" class="mw-redirect" title="铃仙">铃仙</a>
+<td rowspan="4"><a href="./铃仙·优昙华院·因幡.md" class="mw-redirect" title="铃仙">铃仙</a>
 </td>
 <td>波符「赤眼催眠(マインドシエイカー)」</td>
 <td>lllusion Wave "Mind Blowing (Red-Eyed Hypnosis)"</td>
@@ -989,7 +990,7 @@ whiteboard
 <td>115</td>
 <td>実像「ハイパーファンタジア」</td>
 <td>Real Image "Hyper Phantasia"</td>
-<td>实像「超级幻想家」<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">2</a></sup></td>
+<td>实像「超级幻想家」<span>[^cite_note-2]</span></td>
 <td>所想的不一定都是真心，这样想的话可能会比较轻松吧</td>
 <td>能鲜明体现心灵创伤的符卡。如果不是玩弹幕游戏的话，希望能将快乐的记忆具现化
 </td></tr>
@@ -1104,7 +1105,7 @@ whiteboard
 <tr>
 <td>129
 </td>
-<td rowspan="3"><a href="./芙兰朵露·斯卡雷特.md" class="mw-redirect" title="芙兰朵露·斯卡雷特">芙兰朵露·斯卡雷特</a>
+<td rowspan="3"><a href="./芙兰朵露·斯卡蕾特.md" class="mw-redirect" title="芙兰朵露·斯卡雷特">芙兰朵露·斯卡雷特</a>
 </td>
 <td>禁忌「クランベリートラップ」</td>
 <td>Taboo "Cranberry Trap"</td>
@@ -1199,13 +1200,8 @@ whiteboard
 <td>-
 </td></tr></tbody></table>
 
-
-
 [^cite_note-1]: Pettanko具有“平胸”和砸团子双关
-
-
-
-
+[^cite_note-2]: Hyperphantasia为心理学专有名词，指“过想症”，与古明地恋符卡“心盲症”对应
 
 ---
 

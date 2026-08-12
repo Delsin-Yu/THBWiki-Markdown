@@ -1,6 +1,6 @@
 # 文件:纏-MATOI-_Singles_Best_Vol.1封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e5\ns6%3A%E7%BA%8F-MATOI-_Singles_Best_Vol%2E1%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e5\ns6%3A%E7%BA%8F-MATOI-_Singles_Best_Vol%2E1%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 幽闭星光
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [纏-MATOI- Singles Best Vol.1](./纏-MATOI-_Singles_Best_Vol.1.md)  
-该封面包含的角色：- [小野塚小町](./小野塚小町.md)- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)
-
-
-
+- [纏-MATOI- Singles Best Vol.1](./纏-MATOI-_Singles_Best_Vol.1.md)该封面包含的角色：
+- [小野塚小町](./小野塚小町.md)
+- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)
 
 
 ---

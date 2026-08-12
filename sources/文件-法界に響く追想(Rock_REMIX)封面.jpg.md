@@ -1,6 +1,6 @@
 # 文件:法界に響く追想(Rock_REMIX)封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\22\ns6%3A%E6%B3%95%E7%95%8C%E3%81%AB%E9%9F%BF%E3%81%8F%E8%BF%BD%E6%83%B3%28Rock_REMIX%29%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\22\ns6%3A%E6%B3%95%E7%95%8C%E3%81%AB%E9%9F%BF%E3%81%8F%E8%BF%BD%E6%83%B3%28Rock_REMIX%29%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Cry_Of_The_Soul | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Cry_Of_The_Soul | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [法界に響く追想(Rock REMIX)](./法界に響く追想(Rock_REMIX).md)  
-该封面包含的角色：- [圣白莲](./圣白莲.md)
-
-
-
+- [法界に響く追想(Rock REMIX)](./法界に響く追想(Rock_REMIX%29.md)该封面包含的角色：
+- [圣白莲](./圣白莲.md)
 
 
 ---

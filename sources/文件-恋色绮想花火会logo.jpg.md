@@ -1,12 +1,8 @@
 # 文件:恋色绮想花火会logo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5e\ns6%3A%E6%81%8B%E8%89%B2%E7%BB%AE%E6%83%B3%E8%8A%B1%E7%81%AB%E4%BC%9Alogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5e\ns6%3A%E6%81%8B%E8%89%B2%E7%BB%AE%E6%83%B3%E8%8A%B1%E7%81%AB%E4%BC%9Alogo%2Ejpg.html -->
 
 恋色绮想花火会 | 社团LOGO
-
-
-
-
 
 
 ---

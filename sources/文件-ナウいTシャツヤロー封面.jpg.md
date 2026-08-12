@@ -1,6 +1,6 @@
 # 文件:ナウいTシャツヤロー封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\95\ns6%3A%E3%83%8A%E3%82%A6%E3%81%84T%E3%82%B7%E3%83%A3%E3%83%84%E3%83%A4%E3%83%AD%E3%83%BC%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\95\ns6%3A%E3%83%8A%E3%82%A6%E3%81%84T%E3%82%B7%E3%83%A3%E3%83%84%E3%83%A4%E3%83%AD%E3%83%BC%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 悪徳豆業者
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [ナウいTシャツヤロー](./ナウいTシャツヤロー.md)  
-该封面包含的角色：- [纯狐](./纯狐.md)- [赫卡提亚·拉碧斯拉祖利](./赫卡提亚·拉碧斯拉祖利.md)
-
-
-
+- [ナウいTシャツヤロー](./ナウいTシャツヤロー.md)该封面包含的角色：
+- [纯狐](./纯狐.md)
+- [赫卡提亚·拉碧斯拉祖利](./赫卡提亚·拉碧斯拉祖利.md)
 
 
 ---

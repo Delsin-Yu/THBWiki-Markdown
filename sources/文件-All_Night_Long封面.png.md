@@ -1,6 +1,6 @@
 # 文件:All_Night_Long封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0a\ns6%3AAll_Night_Long%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0a\ns6%3AAll_Night_Long%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 FTRecords | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ FTRecords | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [All Night Long](./All_Night_Long.md)  
-该封面包含的角色：- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
+- [All Night Long](./All_Night_Long.md)该封面包含的角色：
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
 
   
-源地址：[[1]](http://ftrecords.net/blog/wp-content/uploads/allnightlong.png)
-  
-
-
-
-
+源地址：[\[1\]](http://ftrecords.net/blog/wp-content/uploads/allnightlong.png)  
 
 ---
 

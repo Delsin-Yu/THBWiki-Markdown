@@ -1,6 +1,6 @@
 # 文件:空音_BEST_2019_Skysound封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2e\ns6%3A%E7%A9%BA%E9%9F%B3_BEST_2019_Skysound%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2e\ns6%3A%E7%A9%BA%E9%9F%B3_BEST_2019_Skysound%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 DiGiTAL_WiNG | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ DiGiTAL_WiNG | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [空音 BEST 2019 Skysound](./空音_BEST_2019_Skysound.md)  
-该封面包含的角色：- [洩矢诹访子](./洩矢诹访子.md)
-
-
-
+- [空音 BEST 2019 Skysound](./空音_BEST_2019_Skysound.md)该封面包含的角色：
+- [洩矢诹访子](./洩矢诹访子.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:フランドール・スカーレットのDeep_DOKIDOKI_Disc_Lunatic封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b9\ns6%3A%E3%83%95%E3%83%A9%E3%83%B3%E3%83%89%E3%83%BC%E3%83%AB%E3%83%BB%E3%82%B9%E3%82%AB%E3%83%BC%E3%83%AC%E3%83%83%E3%83%88%E3%81%AEDeep_DOKIDOKI_Disc_Lunatic%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b9\ns6%3A%E3%83%95%E3%83%A9%E3%83%B3%E3%83%89%E3%83%BC%E3%83%AB%E3%83%BB%E3%82%B9%E3%82%AB%E3%83%BC%E3%83%AC%E3%83%83%E3%83%88%E3%81%AEDeep_DOKIDOKI_Disc_Lunatic%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 アールグレイ | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [フランドール・スカーレットのDeep DOKIDOKI Disc Lunatic](./フランドール・スカーレットのDeep_DOKIDOKI_Disc_Lunatic.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
-
-
-
+- [フランドール・スカーレットのDeep DOKIDOKI Disc Lunatic](./フランドール・スカーレットのDeep_DOKIDOKI_Disc_Lunatic.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
 
 ---

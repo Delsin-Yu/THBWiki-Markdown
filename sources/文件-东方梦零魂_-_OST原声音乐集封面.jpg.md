@@ -1,6 +1,6 @@
 # 文件:东方梦零魂_-_OST原声音乐集封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\35\ns6%3A%E4%B8%9C%E6%96%B9%E6%A2%A6%E9%9B%B6%E9%AD%82_-_OST%E5%8E%9F%E5%A3%B0%E9%9F%B3%E4%B9%90%E9%9B%86%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\35\ns6%3A%E4%B8%9C%E6%96%B9%E6%A2%A6%E9%9B%B6%E9%AD%82_-_OST%E5%8E%9F%E5%A3%B0%E9%9F%B3%E4%B9%90%E9%9B%86%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Re零同人社 | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ Re零同人社 | 专辑封面 | 封面图片
   
 
 - [东方梦零魂 - OST原声音乐集](./东方梦零魂_-_OST原声音乐集.md)
-
-
-
 
 
 ---

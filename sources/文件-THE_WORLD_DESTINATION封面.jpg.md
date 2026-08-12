@@ -1,6 +1,6 @@
 # 文件:THE_WORLD_DESTINATION封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\14\ns6%3ATHE_WORLD_DESTINATION%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\14\ns6%3ATHE_WORLD_DESTINATION%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Alstroemeria_Records | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ Alstroemeria_Records | 专辑封面 | 封面图片
   
 
 - [THE WORLD DESTINATION](./THE_WORLD_DESTINATION.md)
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Toho_Mishmash_Illust_Book封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a0\ns6%3AToho_Mishmash_Illust_Book%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a0\ns6%3AToho_Mishmash_Illust_Book%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 みずいろシャボン | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Toho Mishmash Illust Book](./Toho_Mishmash_Illust_Book.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
+- [Toho Mishmash Illust Book](./Toho_Mishmash_Illust_Book.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-[Pixiv artwork ID: 77188992 (original size)](https://www.pixiv.net/artworks/77188992)
-  
-
-
-
-
+[Pixiv artwork ID: 77188992 (original size)](https://www.pixiv.net/artworks/77188992)  
 
 ---
 

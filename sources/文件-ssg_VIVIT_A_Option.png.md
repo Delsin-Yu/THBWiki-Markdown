@@ -1,16 +1,12 @@
 # 文件:ssg_VIVIT_A_Option.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a1\ns6%3Assg_VIVIT_A_Option%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a1\ns6%3Assg_VIVIT_A_Option%2Epng.html -->
 
 秋霜玉
 
   
 《秋霜玉》机体Wide Shoot的子机弹幕。
   
-
-
-
-
 
 ---
 

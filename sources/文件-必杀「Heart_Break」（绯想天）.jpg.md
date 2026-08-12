@@ -1,12 +1,8 @@
 # 文件:必杀「Heart_Break」（绯想天）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\16\ns6%3A%E5%BF%85%E6%9D%80%E3%80%8CHeart_Break%E3%80%8D%EF%BC%88%E7%BB%AF%E6%83%B3%E5%A4%A9%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\16\ns6%3A%E5%BF%85%E6%9D%80%E3%80%8CHeart_Break%E3%80%8D%EF%BC%88%E7%BB%AF%E6%83%B3%E5%A4%A9%EF%BC%89%2Ejpg.html -->
 
 东方绯想天 | 自机符卡 | 蕾米莉亚·斯卡蕾特
-
-
-
-
 
 
 ---

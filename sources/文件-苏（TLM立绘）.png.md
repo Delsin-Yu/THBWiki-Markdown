@@ -1,12 +1,8 @@
 # 文件:苏（TLM立绘）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\56\ns6%3A%E8%8B%8F%EF%BC%88TLM%E7%AB%8B%E7%BB%98%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\56\ns6%3A%E8%8B%8F%EF%BC%88TLM%E7%AB%8B%E7%BB%98%EF%BC%89%2Epng.html -->
 
 Torte_Le_Magic | 苏
-
-
-
-
 
 
 ---

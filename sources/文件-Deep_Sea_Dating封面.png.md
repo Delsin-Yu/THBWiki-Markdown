@@ -1,6 +1,6 @@
 # 文件:Deep_Sea_Dating封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7f\ns6%3ADeep_Sea_Dating%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7f\ns6%3ADeep_Sea_Dating%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 FionaKaenbyou | 封面图片 | 软件封面
 
@@ -10,16 +10,12 @@ FionaKaenbyou | 封面图片 | 软件封面
 使用了本文件作封面图片的作品：
   
 
-- [Deep Sea Dating](./Deep_Sea_Dating.md)  
-该封面包含的角色：- [若鹭姬](./若鹭姬.md)- [今泉影狼](./今泉影狼.md)
+- [Deep Sea Dating](./Deep_Sea_Dating.md)该封面包含的角色：
+- [若鹭姬](./若鹭姬.md)
+- [今泉影狼](./今泉影狼.md)
 
   
-源地址：[direct image link (max size)](https://64.media.tumblr.com/e83532aa48b879691c2e3f38e296b862/tumblr_inline_o15t79fCPL1sxurtp_1280.png), [source page](https://fionakaenbyou.tumblr.com/post/137561522430/deep-sea-dating-a-touhou-visual-novel)
-  
-
-
-
-
+源地址：[direct image link (max size)](https://64.media.tumblr.com/e83532aa48b879691c2e3f38e296b862/tumblr_inline_o15t79fCPL1sxurtp_1280.png), [source page](https://fionakaenbyou.tumblr.com/post/137561522430/deep-sea-dating-a-touhou-visual-novel)  
 
 ---
 

@@ -1,12 +1,8 @@
 # 文件:彗星「Blazing_Star」（心绮楼）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\64\ns6%3A%E5%BD%97%E6%98%9F%E3%80%8CBlazing_Star%E3%80%8D%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\64\ns6%3A%E5%BD%97%E6%98%9F%E3%80%8CBlazing_Star%E3%80%8D%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%EF%BC%89%2Epng.html -->
 
 东方心绮楼 | 自机符卡 | 雾雨魔理沙
-
-
-
-
 
 
 ---

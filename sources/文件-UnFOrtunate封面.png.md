@@ -1,6 +1,6 @@
 # 文件:UnFOrtunate封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\61\ns6%3AUnFOrtunate%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\61\ns6%3AUnFOrtunate%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 MONOMIND | 专辑封面 | 封面图片
 
@@ -10,11 +10,10 @@ MONOMIND | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [UnFOrtunate](./UnFOrtunate.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [东风谷早苗](./东风谷早苗.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [UnFOrtunate](./UnFOrtunate.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [东风谷早苗](./东风谷早苗.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

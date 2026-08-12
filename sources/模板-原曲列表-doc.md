@@ -1,37 +1,18 @@
 # 模板:原曲列表/doc
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\6\60\ns10%3A%E5%8E%9F%E6%9B%B2%E5%88%97%E8%A1%A8%2Fdoc.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\6\60\ns10%3A%E5%8E%9F%E6%9B%B2%E5%88%97%E8%A1%A8%2Fdoc.html -->
 
 
 
 
 ## 使用说明
+
 - 格式示例：
 
+
 ```
-{{原曲列表|东方萃梦想||
-1,1,,,
-16,,,,
-17,,,,
-18,,,,
-19,,,,
-20,1,,,
-21,,,,
-22,,,,
-23,,,,
-24,,,,
-25,,,,
-26,,,,
-27,,,,
-28,,,,
-29,,,,
-30,,,,
-31,,,,
-32,,,,
-33,,,,
-34,,,,
-}}
-```
+{{原曲列表|东方萃梦想|| 1,1,,, 16,,,, 17,,,, 18,,,, 19,,,, 20,1,,, 21,,,, 22,,,, 23,,,, 24,,,, 25,,,, 26,,,, 27,,,, 28,,,, 29,,,, 30,,,, 31,,,, 32,,,, 33,,,, 34,,,, }} ```
+
 
 - 效果：
 
@@ -43,77 +24,65 @@
 
 - 格式说明：
 
+
 ```
-{{原曲列表|*作品显示名称*|*作品名参数*|
-*曲目编号*,*是否重定向*,*中文名*,*日文名*,*英文名*
-}}
+{{原曲列表|*作品显示名称*|*作品名参数*| *曲目编号*,*是否重定向*,*中文名*,*日文名*,*英文名* }} ```
+
+
+- **作品显示名称**： 当**作品名参数**不填写时，默认作为作品名参数以及作品显示名，例如 
 ```
-
-  
-  
-
-  
-
--  **作品显示名称** ： 当 **作品名参数** 不填写时，默认作为作品名参数以及作品显示名，例如 ```
 {{原曲列表|东方萃梦想||}}```
 
--  **作品名参数** ： 当 **作品名参数** 与 **作品名显示名称** 不一致时，则需要填写此项，以便得到正确的曲目列表，例如 ```
+
+- **作品名参数**： 当**作品名参数**与**作品名显示名称**不一致时，则需要填写此项，以便得到正确的曲目列表，例如 
+```
 {{原曲列表|8BIT MUSIC POWER FINAL|8MPF|}}```
 
--  **曲目列表** ： 在 **作品名参数** 之后的参数，一行作为一首曲目
--  **曲目编号** ： 参考[音乐名模板目录](./音乐名模板目录.md)的编号，例如：怪绮谈中，不可思议之国的爱丽丝曲目编号是16，则
+
+- **曲目列表**： 在**作品名参数**之后的参数，一行作为一首曲目
+- **曲目编号**： 参考[音乐名模板目录](./音乐名模板目录.md)的编号，例如：怪绮谈中，不可思议之国的爱丽丝曲目编号是16，则
+
 
 ```
-{{原曲列表|东方怪绮谈||
-16,,,,
-}}```
+{{原曲列表|东方怪绮谈|| 16,,,, }}```
 
   
 效果：
   
-
 
 <table><tbody><tr><th colspan="5"><a href="./东方怪绮谈.md" title="东方怪绮谈">东方怪绮谈</a>原曲列表</th></tr><tr><th>序号</th><th align="center">曲目编号</th><th align="center">中文名</th><th align="center">日文名</th><th align="center">英文名</th></tr>
 <tr><td>1</td><td>16</td><td><a href="./不可思议之国的爱丽丝.md" title="不可思议之国的爱丽丝">不可思议之国的爱丽丝</a></td><td><span lang="ja">不思議の国のアリス</span></td><td><span lang="en">Alice in Wonderland</span></td></tr><tr><th colspan="5">共1首原曲</th></tr>
 </tbody></table>
 
 
--  **是否重定向** ： 部分曲目与作品词条重名，默认跳转会跳转到作品，故而需要指定此参数，例如（东方萃梦想为例）：
+- **是否重定向**： 部分曲目与作品词条重名，默认跳转会跳转到作品，故而需要指定此参数，例如（东方萃梦想为例）：
+
 
 ```
-{{原曲列表|东方萃梦想||
-20,1,,,
-}}```
+{{原曲列表|东方萃梦想|| 20,1,,, }}```
 
   
 效果：
   
-
 
 <table><tbody><tr><th colspan="5"><a href="./东方萃梦想.md" title="东方萃梦想">东方萃梦想</a>原曲列表</th></tr><tr><th>序号</th><th align="center">曲目编号</th><th align="center">中文名</th><th align="center">日文名</th><th align="center">英文名</th></tr>
 <tr><td>1</td><td>20</td><td><a href="./东方萃梦想（曲目）.md" title="东方萃梦想（曲目）">东方萃梦想</a></td><td><span lang="ja">東方萃夢想</span></td><td><span lang="en">Eastern Memory of Forgathering Dream</span></td></tr><tr><th colspan="5">共1首原曲</th></tr>
 </tbody></table>
 
 
--  **中文名** 、 **日文名** 、 **英文名** : 当新作上线，Wiki还没来得及添加条目映射时，可手动指定曲目名称，例如
+- **中文名**、**日文名**、**英文名**: 当新作上线，Wiki还没来得及添加条目映射时，可手动指定曲目名称，例如
+
 
 ```
-{{原曲列表|东方妖妖梦||
-6,,莫斯科的人偶师,モスクワの人形師,The Doll Maker of Moscow
-}}```
+{{原曲列表|东方妖妖梦|| 6,,莫斯科的人偶师,モスクワの人形師,The Doll Maker of Moscow }}```
 
   
 效果：
   
 
-
 <table><tbody><tr><th colspan="5"><a href="./东方妖妖梦.md" title="东方妖妖梦">东方妖妖梦</a>原曲列表</th></tr><tr><th>序号</th><th align="center">曲目编号</th><th align="center">中文名</th><th align="center">日文名</th><th align="center">英文名</th></tr>
-<tr><td>1</td><td>6</td><td><a href="/index.php?title=%E8%8E%AB%E6%96%AF%E7%A7%91%E7%9A%84%E4%BA%BA%E5%81%B6%E5%B8%88&amp;action=edit&amp;redlink=1" class="new" title="莫斯科的人偶师（页面不存在）">莫斯科的人偶师</a></td><td><span lang="ja">モスクワの人形師</span></td><td><span lang="en">The Doll Maker of Moscow</span></td></tr><tr><th colspan="5">共1首原曲</th></tr>
+<tr><td>1</td><td>6</td><td><a class="new" title="莫斯科的人偶师（页面不存在）">莫斯科的人偶师</a></td><td><span lang="ja">モスクワの人形師</span></td><td><span lang="en">The Doll Maker of Moscow</span></td></tr><tr><th colspan="5">共1首原曲</th></tr>
 </tbody></table>
-
-
-
-
 
 
 ---

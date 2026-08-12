@@ -1,6 +1,6 @@
 # 文件:東方稀濳群_～_Unstable_and_Unimaginable_Power.封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\01\ns6%3A%E6%9D%B1%E6%96%B9%E7%A8%80%E6%BF%B3%E7%BE%A4_%EF%BD%9E_Unstable_and_Unimaginable_Power%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\01\ns6%3A%E6%9D%B1%E6%96%B9%E7%A8%80%E6%BF%B3%E7%BE%A4_%EF%BD%9E_Unstable_and_Unimaginable_Power%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Team_Magnitude_Manipulators | 封面图片 | 软件封面
 
@@ -8,11 +8,9 @@ Team_Magnitude_Manipulators | 封面图片 | 软件封面
 使用了本文件作封面图片的作品：
   
 
-- [東方稀濳群 ～ Unstable and Unimaginable Power.](./東方稀濳群_～_Unstable_and_Unimaginable_Power..md)  
-该封面包含的角色：- [蕾切尔·米开朗基罗](./蕾切尔·米开朗基罗.md)- [琼·罗兹洛兹](./琼·罗兹洛兹.md)
-
-
-
+- [東方稀濳群 ～ Unstable and Unimaginable Power.](./東方稀濳群_～_Unstable_and_Unimaginable_Power..md)该封面包含的角色：
+- [蕾切尔·米开朗基罗](./蕾切尔·米开朗基罗.md)
+- [琼·罗兹洛兹](./琼·罗兹洛兹.md)
 
 
 ---

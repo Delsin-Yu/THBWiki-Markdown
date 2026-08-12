@@ -1,18 +1,13 @@
 # 文件:HYPERMESS_Recordingslogo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4a\ns6%3AHYPERMESS_Recordingslogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4a\ns6%3AHYPERMESS_Recordingslogo%2Ejpg.html -->
 
 HYPERMESS_Recordings | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[soundcloud logo](https://i1.sndcdn.com/avatars-000108283889-wp8yvd-t500x500.jpg)
-  
-
-
-
-
+源地址：[soundcloud logo](https://i1.sndcdn.com/avatars-000108283889-wp8yvd-t500x500.jpg)  
 
 ---
 

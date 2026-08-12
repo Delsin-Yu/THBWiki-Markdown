@@ -1,12 +1,8 @@
 # 文件:Factory_Noise&AG.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\16\ns6%3AFactory_Noise%26AG%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\16\ns6%3AFactory_Noise%26AG%2Epng.html -->
 
 Factory_Noise&AG | 社团LOGO
-
-
-
-
 
 
 ---

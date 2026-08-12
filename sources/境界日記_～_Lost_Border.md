@@ -1,40 +1,35 @@
 # 境界日記_～_Lost_Border
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\5\54\ns0%3A%E5%A2%83%E7%95%8C%E6%97%A5%E8%A8%98_%EF%BD%9E_Lost_Border.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\5\54\ns0%3A%E5%A2%83%E7%95%8C%E6%97%A5%E8%A8%98_%EF%BD%9E_Lost_Border.html -->
 
 2023年10月15日 由 北方幻視林 ～ Northern Primeval Forest 于 东方红楼梦19 发布的全长同人专辑，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人专辑 (未找到链接)** 的词条
-
+**[二次创作同人专辑](./二次创作.md#同人音乐)**的词条
 ## 专辑信息
 
-<table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E5%A2%83%E7%95%8C%E6%97%A5%E8%A8%98_%EF%BD%9E_Lost_Border%E5%B0%81%E9%9D%A2.jpg" class="new" title="文件:境界日記 ～ Lost Border封面.jpg">封面图片</a></td>
-</tr><tr><td class="label">名称</td><td colspan="2"> 境界日記　～ Lost Border </td></tr><tr><td class="label">制作方</td><td><a href="./北方幻視林_～_Northern_Primeval_Forest.md" title="北方幻視林 ～ Northern Primeval Forest">北方幻視林 ～ Northern Primeval Forest</a></td><td class="cover-artwork" rowspan="7" style="min-width:196px;"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E5%A2%83%E7%95%8C%E6%97%A5%E8%A8%98_%EF%BD%9E_Lost_Border%E5%B0%81%E9%9D%A2.jpg" class="new" title="文件:境界日記 ～ Lost Border封面.jpg">封面图片</a></td>
-</tr><tr><td class="label">首发日期</td><td>2023-10-15&#160;（<a href="/展会作品列表?e=%E4%B8%9C%E6%96%B9%E7%BA%A2%E6%A5%BC%E6%A2%A6%2319">東方紅楼夢19</a>）</td></tr><tr><td class="label">类型</td><td>全长</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>7</td></tr><tr><td class="label">总时长</td><td>00:00</td></tr>
+<table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a class="new" title="文件:境界日記 ～ Lost Border封面.jpg">封面图片</a></td>
+</tr><tr><td class="label">名称</td><td colspan="2"> 境界日記　～ Lost Border </td></tr><tr><td class="label">制作方</td><td><a href="./北方幻視林_～_Northern_Primeval_Forest.md" title="北方幻視林 ～ Northern Primeval Forest">北方幻視林 ～ Northern Primeval Forest</a></td><td class="cover-artwork" rowspan="7" style="min-width:196px;"><a class="new" title="文件:境界日記 ～ Lost Border封面.jpg">封面图片</a></td>
+</tr><tr><td class="label">首发日期</td><td>2023-10-15 （<a href="./展会作品列表.md#19">東方紅楼夢19</a>）</td></tr><tr><td class="label">类型</td><td>全长</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>7</td></tr><tr><td class="label">总时长</td><td>00:00</td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/kitaichi0/status/1708464699128545322">https://twitter.com/kitaichi0/status/1708464699128545322</a></td></tr></tbody></table>
 
 境界日記 ～ Lost Border（同人专辑，北方幻視林 ～ Northern Primeval Forest，2023） - 2023年10月15日 由 北方幻視林 ～ Northern Primeval Forest 于 东方红楼梦19 发布的全长同人专辑，分级为 一般向
-
 ## Staff
   
- **Compose**   
+**Compose**  
 
 <table><tbody><tr><td><a href="./北逸_レイ.md" title="北逸 レイ">北逸 レイ</a></td><td></td><td>Tr.7</td></tr></tbody></table>
 
   
- **Arrangement**   
+**Arrangement**  
 
 <table><tbody><tr><td><a href="./北逸_レイ.md" title="北逸 レイ">北逸 レイ</a></td><td></td><td>Tr.1-6</td></tr></tbody></table>
-
 
 
 ## 试听
   
 <iframe width="100%" height="180" src="https://ext.nicovideo.jp/thumb/sm42817379" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/watch/sm42817379">,</a></iframe>
-
   
-
 
 <table>
 
@@ -46,23 +41,18 @@
 </td></tr></tbody></table>
 
 
-
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="夜のデンデラ野を逝く" colspan="2" class="title">夜のデンデラ野を逝く<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=北逸 レイ&amp;ogmusic=夜のデンデラ野を逝く&amp;fromwiki=境界日記_～_Lost_Border"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./北逸_レイ.md" title="北逸 レイ">北逸 レイ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，北逸 レイ&amp;fromwiki=境界日記_～_Lost_Border"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=夜のデンデラ野を逝く&amp;fromwiki=境界日記_～_Lost_Border"><span></span></a></span><div class="ogmusic"><a href="./夜のデンデラ野を逝く.md" class="mw-redirect" title="夜のデンデラ野を逝く">夜のデンデラ野を逝く</a></div><div class="source"><a href="./莲台野夜行_～_Ghostly_Field_Club..md" class="mw-redirect" title="莲台野夜行 ～ Ghostly Field Club.">莲台野夜行　～ Ghostly Field Club.</a></div></td></tr>
-<tr><td id="2" class="infoYD"><b>02</b></td><td id="サーカスレヴァリエ" colspan="2" class="title">サーカスレヴァリエ<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=北逸 レイ&amp;ogmusic=サーカスレヴァリエ&amp;fromwiki=境界日記_～_Lost_Border"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./北逸_レイ.md" title="北逸 レイ">北逸 レイ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，北逸 レイ&amp;fromwiki=境界日記_～_Lost_Border"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=サーカスレヴァリエ&amp;fromwiki=境界日記_～_Lost_Border"><span></span></a></span><div class="ogmusic"><a href="./サーカスレヴァリエ.md" class="mw-redirect" title="サーカスレヴァリエ">サーカスレヴァリエ</a></div><div class="source"><a href="./蓬莱人形_～_Dolls_in_Pseudo_Paradise.md" class="mw-redirect" title="蓬莱人形 ～ Dolls in Pseudo Paradise">蓬莱人形　～ Dolls in Pseudo Paradise</a></div></td></tr>
-<tr><td id="3" class="infoYD"><b>03</b></td><td id="月の妖鳥、化猫の幻" colspan="2" class="title">月の妖鳥、化猫の幻<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=北逸 レイ&amp;ogmusic=月の妖鳥、化猫の幻&amp;fromwiki=境界日記_～_Lost_Border"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./北逸_レイ.md" title="北逸 レイ">北逸 レイ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，北逸 レイ&amp;fromwiki=境界日記_～_Lost_Border"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=月の妖鳥、化猫の幻&amp;fromwiki=境界日記_～_Lost_Border"><span></span></a></span><div class="ogmusic"><a href="./月の妖鳥、化猫の幻.md" class="mw-redirect" title="月の妖鳥、化猫の幻">月の妖鳥、化猫の幻</a></div><div class="source"><a href="./莲台野夜行_～_Ghostly_Field_Club..md" class="mw-redirect" title="莲台野夜行 ～ Ghostly Field Club.">莲台野夜行　～ Ghostly Field Club.</a></div></td></tr>
-<tr><td id="4" class="infoYD"><b>04</b></td><td id="ラストオカルティズム" colspan="2" class="title">ラストオカルティズム<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=北逸 レイ&amp;ogmusic=ラストオカルティズム　～ 現し世の秘術師&amp;fromwiki=境界日記_～_Lost_Border"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./北逸_レイ.md" title="北逸 レイ">北逸 レイ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，北逸 レイ&amp;fromwiki=境界日記_～_Lost_Border"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=ラストオカルティズム　～ 現し世の秘術師&amp;fromwiki=境界日記_～_Lost_Border"><span></span></a></span><div class="ogmusic"><a href="./ラストオカルティズム_～_現し世の秘術師.md" class="mw-redirect" title="ラストオカルティズム ～ 現し世の秘術師">ラストオカルティズム　～ 現し世の秘術師</a></div><div class="source"><a href="./东方深秘录_～_Urban_Legend_in_Limbo..md" class="mw-redirect" title="东方深秘录 ～ Urban Legend in Limbo.">东方深秘录　～ Urban Legend in Limbo.</a></div></td></tr>
-<tr><td id="5" class="infoYD"><b>05</b></td><td id="二つの世界" colspan="2" class="title">二つの世界<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=北逸 レイ&amp;ogmusic=二つの世界&amp;fromwiki=境界日記_～_Lost_Border"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./北逸_レイ.md" title="北逸 レイ">北逸 レイ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，北逸 レイ&amp;fromwiki=境界日記_～_Lost_Border"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=二つの世界&amp;fromwiki=境界日記_～_Lost_Border"><span></span></a></span><div class="ogmusic"><a href="./二つの世界.md" class="mw-redirect" title="二つの世界">二つの世界</a></div><div class="source"><a href="./东方三月精_～_Strange_and_Bright_Nature_Deity.3_附属CD.md" class="mw-redirect" title="东方三月精 ～ Strange and Bright Nature Deity.3 附属CD">东方三月精 ～ Strange and Bright Nature Deity.3 附属CD</a></div></td></tr>
-<tr><td id="6" class="infoYD"><b>06</b></td><td id="永遠の巫女" colspan="2" class="title">永遠の巫女<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=北逸 レイ&amp;ogmusic=永遠の巫女&amp;fromwiki=境界日記_～_Lost_Border"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./北逸_レイ.md" title="北逸 レイ">北逸 レイ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，北逸 レイ&amp;fromwiki=境界日記_～_Lost_Border"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=永遠の巫女&amp;fromwiki=境界日記_～_Lost_Border"><span></span></a></span><div class="ogmusic"><a href="./永遠の巫女.md" class="mw-redirect" title="永遠の巫女">永遠の巫女</a></div><div class="source"><a href="./东方灵异传_～_Highly_Responsive_to_Prayers..md" class="mw-redirect" title="东方灵异传 ～ Highly Responsive to Prayers.">东方灵异传　～ Highly Responsive to Prayers.</a></div></td></tr>
-<tr><td id="7" class="infoYL"><b>07</b></td><td id="きょうかいにっき_～_Lost_Border" colspan="2" class="title">きょうかいにっき　～ Lost Border<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=北逸 レイ&amp;fromwiki=境界日記_～_Lost_Border"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./北逸_レイ.md" title="北逸 レイ">北逸 レイ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，北逸 レイ&amp;fromwiki=境界日記_～_Lost_Border"><span></span></a></span></td></tr></tbody></table>
-
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="夜のデンデラ野を逝く" colspan="2" class="title">夜のデンデラ野を逝く</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./北逸_レイ.md" title="北逸 レイ">北逸 レイ</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./走在夜晚的莲台野.md" class="mw-redirect" title="夜のデンデラ野を逝く">夜のデンデラ野を逝く</a></div><div class="source"><a href="./莲台野夜行.md" class="mw-redirect" title="莲台野夜行 ～ Ghostly Field Club.">莲台野夜行　～ Ghostly Field Club.</a></div></td></tr>
+<tr><td id="2" class="infoYD"><b>02</b></td><td id="サーカスレヴァリエ" colspan="2" class="title">サーカスレヴァリエ</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./北逸_レイ.md" title="北逸 レイ">北逸 レイ</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./机械马戏团_～_Reverie.md" class="mw-redirect" title="サーカスレヴァリエ">サーカスレヴァリエ</a></div><div class="source"><a href="./蓬莱人形.md" class="mw-redirect" title="蓬莱人形 ～ Dolls in Pseudo Paradise">蓬莱人形　～ Dolls in Pseudo Paradise</a></div></td></tr>
+<tr><td id="3" class="infoYD"><b>03</b></td><td id="月の妖鳥、化猫の幻" colspan="2" class="title">月の妖鳥、化猫の幻</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./北逸_レイ.md" title="北逸 レイ">北逸 レイ</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./月之妖鸟、化猫之幻.md" class="mw-redirect" title="月の妖鳥、化猫の幻">月の妖鳥、化猫の幻</a></div><div class="source"><a href="./莲台野夜行.md" class="mw-redirect" title="莲台野夜行 ～ Ghostly Field Club.">莲台野夜行　～ Ghostly Field Club.</a></div></td></tr>
+<tr><td id="4" class="infoYD"><b>04</b></td><td id="ラストオカルティズム" colspan="2" class="title">ラストオカルティズム</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./北逸_レイ.md" title="北逸 レイ">北逸 レイ</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./Last_Occultism_～_现世的秘术师.md" class="mw-redirect" title="ラストオカルティズム ～ 現し世の秘術師">ラストオカルティズム　～ 現し世の秘術師</a></div><div class="source"><a href="./东方深秘录.md" class="mw-redirect" title="东方深秘录 ～ Urban Legend in Limbo.">东方深秘录　～ Urban Legend in Limbo.</a></div></td></tr>
+<tr><td id="5" class="infoYD"><b>05</b></td><td id="二つの世界" colspan="2" class="title">二つの世界</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./北逸_レイ.md" title="北逸 レイ">北逸 レイ</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./两方世界.md" class="mw-redirect" title="二つの世界">二つの世界</a></div><div class="source"><a href="./东方三月精_～_Strange_and_Bright_Nature_Deity.-附属CD3.md" class="mw-redirect" title="东方三月精 ～ Strange and Bright Nature Deity.3 附属CD">东方三月精 ～ Strange and Bright Nature Deity.3 附属CD</a></div></td></tr>
+<tr><td id="6" class="infoYD"><b>06</b></td><td id="永遠の巫女" colspan="2" class="title">永遠の巫女</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./北逸_レイ.md" title="北逸 レイ">北逸 レイ</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./永远之巫女.md" class="mw-redirect" title="永遠の巫女">永遠の巫女</a></div><div class="source"><a href="./东方灵异传.md" class="mw-redirect" title="东方灵异传 ～ Highly Responsive to Prayers.">东方灵异传　～ Highly Responsive to Prayers.</a></div></td></tr>
+<tr><td id="7" class="infoYL"><b>07</b></td><td id="きょうかいにっき_～_Lost_Border" colspan="2" class="title">きょうかいにっき　～ Lost Border</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./北逸_レイ.md" title="北逸 レイ">北逸 レイ</a></td></tr></tbody></table>
 
 
 ## 评论
-
-
-
 
 ---
 

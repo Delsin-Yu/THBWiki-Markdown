@@ -1,11 +1,10 @@
 # 连缘咖啡厅_～_BOOK_of_the_CAFE/攻略/战斗系统
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\20\ns0%3A%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85_%EF%BD%9E_BOOK_of_the_CAFE%2F%E6%94%BB%E7%95%A5%2F%E6%88%98%E6%96%97%E7%B3%BB%E7%BB%9F.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\20\ns0%3A%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85_%EF%BD%9E_BOOK_of_the_CAFE%2F%E6%94%BB%E7%95%A5%2F%E6%88%98%E6%96%97%E7%B3%BB%E7%BB%9F.html -->
 
 JynX | トリック・ノスタルジー | 待完成页面 | 连缘Project | 连缘咖啡厅 | 需要完善的词条
 
 <center>
-
 <table>
 <tbody><tr>
 <td class="mbox-image"><div style="width: 52px;">
@@ -14,61 +13,43 @@ JynX | トリック・ノスタルジー | 待完成页面 | 连缘Project | 连
 </tr>
 </tbody></table>
 
-
 </center>
-
 <table>
 <tbody><tr>
 <td class="mbox-image width"><div style="width: 52px;">
-  <a href="/%E6%96%87%E4%BB%B6:Books_Flat_Icon_Vector.svg" class="image"><img alt="Books Flat Icon Vector.svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Books_Flat_Icon_Vector.svg/langzh-60px-Books_Flat_Icon_Vector.svg.png" decoding="async" loading="lazy" width="60" height="50" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Books_Flat_Icon_Vector.svg/langzh-90px-Books_Flat_Icon_Vector.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Books_Flat_Icon_Vector.svg/langzh-120px-Books_Flat_Icon_Vector.svg.png 2x" data-file-width="691" data-file-height="577"></a></div></td>
-<td class="mbox-text" style=""><big>本词条的内容需要进行补充。</big><br><b>本页面需要对于 武器系统 方面的内容进行补充</b>。<br>如果您对于相关内容较为了解，请您<a href="/index.php?title=%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85_%EF%BD%9E_BOOK_of_the_CAFE/%E6%94%BB%E7%95%A5/%E6%88%98%E6%96%97%E7%B3%BB%E7%BB%9F&amp;action=edit">补充本词条的内容</a></td>
+  <a class="image"><img alt="Books Flat Icon Vector.svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Books_Flat_Icon_Vector.svg/langzh-60px-Books_Flat_Icon_Vector.svg.png" decoding="async" loading="lazy" width="60" height="50" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Books_Flat_Icon_Vector.svg/langzh-90px-Books_Flat_Icon_Vector.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Books_Flat_Icon_Vector.svg/langzh-120px-Books_Flat_Icon_Vector.svg.png 2x" data-file-width="691" data-file-height="577"></a></div></td>
+<td class="mbox-text" style=""><big>本词条的内容需要进行补充。</big><br><b>本页面需要对于 武器系统 方面的内容进行补充</b>。<br>如果您对于相关内容较为了解，请您<a>补充本词条的内容</a></td>
 </tr>
 </tbody></table>
 
-
-本页是关于 **向[东方Project](./东方Project.md)  
-致敬、形式类似的作品** 的词条  
-  
-
-  
-  
+本页是关于**向[东方Project](./东方Project.md)致敬、形式类似的作品**  
+的词条  
 本页面除武器部分外 作者/翻译：robert  
-
   
-
 
 ## 目录
 
 - [1 选择战斗](#选择战斗)
-
   - [1.1 记忆的书库](#记忆的书库)
   - [1.2 进入战斗](#进入战斗)
 
 
-
 - [2 战斗界面介绍](#战斗界面介绍)
-
   - [2.1 菜单](#菜单)
   - [2.2 作战变更](#作战变更)
 
 
-
 - [3 战斗系统机制](#战斗系统机制)
-
   - [3.1 战斗场景内机制](#战斗场景内机制)
-
     - [3.1.1 地盘（非官方命名）](#地盘（非官方命名）)
     - [3.1.2 bomb（ボム）](#bomb（ボム）)
     - [3.1.3 Flashbomb](#Flashbomb)
 
 
-
   - [3.2 角色属性机制](#角色属性机制)
 
 
-
 - [4 战斗单位强化](#战斗单位强化)
-
   - [4.1 【核心强化】（コア强化）](#【核心强化】（コア强化）)
   - [4.2 核心变异（コア変異）](#核心变异（コア変異）)
   - [4.3 核心深化（コア深化）](#核心深化（コア深化）)
@@ -79,12 +60,8 @@ JynX | トリック・ノスタルジー | 待完成页面 | 连缘Project | 连
   - [4.8 装备强化（インプラント深化）](#装备强化（インプラント深化）)
 
 
-
 - [5 外部链接](#外部链接)
 - [6 词条导航](#词条导航)
-
-
-
 
 
 ## 选择战斗
@@ -92,13 +69,13 @@ JynX | トリック・ノスタルジー | 待完成页面 | 连缘Project | 连
 点击右边的黄色箭头，点第一个【记忆的书库】（記憶の書庫）就可以选关来打了
   
 
-
-### 记忆的书库  
+### 记忆的书库
+  
 
 目前有五个可以选择的作战  
   
-[](./文件-连缘咖啡厅正式版-记忆的书库.jpg.md)  [](./文件-连缘咖啡厅正式版-记忆的书库.jpg.md)当前版本的记忆书库
-  
+<img alt="" src="https://upload.thwiki.cc/thumb/a/a4/%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85%E6%AD%A3%E5%BC%8F%E7%89%88-%E8%AE%B0%E5%BF%86%E7%9A%84%E4%B9%A6%E5%BA%93.jpg/300px-%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85%E6%AD%A3%E5%BC%8F%E7%89%88-%E8%AE%B0%E5%BF%86%E7%9A%84%E4%B9%A6%E5%BA%93.jpg" decoding="async" loading="lazy" width="300" height="138" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/a/a4/%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85%E6%AD%A3%E5%BC%8F%E7%89%88-%E8%AE%B0%E5%BF%86%E7%9A%84%E4%B9%A6%E5%BA%93.jpg/450px-%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85%E6%AD%A3%E5%BC%8F%E7%89%88-%E8%AE%B0%E5%BF%86%E7%9A%84%E4%B9%A6%E5%BA%93.jpg 1.5x, https://upload.thwiki.cc/thumb/a/a4/%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85%E6%AD%A3%E5%BC%8F%E7%89%88-%E8%AE%B0%E5%BF%86%E7%9A%84%E4%B9%A6%E5%BA%93.jpg/600px-%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85%E6%AD%A3%E5%BC%8F%E7%89%88-%E8%AE%B0%E5%BF%86%E7%9A%84%E4%B9%A6%E5%BA%93.jpg 2x" data-file-width="2340" data-file-height="1080">
+ [放大](./文件-连缘咖啡厅正式版-记忆的书库.jpg.md)当前版本的记忆书库  
 【主线】（メインストーリー）：咖啡厅原创剧情的故事副本
 【活动】（イベント）：目前有打符牌芯片、符牌强化道具、Rei君Disc的关卡  
 
@@ -110,38 +87,31 @@ JynX | トリック・ノスタルジー | 待完成页面 | 连缘Project | 连
 各个画面一览  
 
 需要注意的是除日常战斗需要消耗体力，体力如何可在咖啡界面的右上方和此界面的左上方看到。  
-
   
-
 
 ### 进入战斗
   
 这里以【过往作品 -- 连缘无现里 -- 凤联薮雨篇 -- stage 2】为例，
   
-
-[](./文件-连缘咖啡厅-连缘无现里-凤联薮雨篇-stage_2.jpg.md)  [](./文件-连缘咖啡厅-连缘无现里-凤联薮雨篇-stage_2.jpg.md)连缘咖啡厅-连缘无现里-凤联薮雨篇-stage 2界面  
+<img alt="" src="https://upload.thwiki.cc/thumb/9/93/%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E8%BF%9E%E7%BC%98%E6%97%A0%E7%8E%B0%E9%87%8C-%E5%87%A4%E8%81%94%E8%96%AE%E9%9B%A8%E7%AF%87-stage_2.jpg/300px-%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E8%BF%9E%E7%BC%98%E6%97%A0%E7%8E%B0%E9%87%8C-%E5%87%A4%E8%81%94%E8%96%AE%E9%9B%A8%E7%AF%87-stage_2.jpg" decoding="async" loading="lazy" width="300" height="138" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/9/93/%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E8%BF%9E%E7%BC%98%E6%97%A0%E7%8E%B0%E9%87%8C-%E5%87%A4%E8%81%94%E8%96%AE%E9%9B%A8%E7%AF%87-stage_2.jpg/450px-%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E8%BF%9E%E7%BC%98%E6%97%A0%E7%8E%B0%E9%87%8C-%E5%87%A4%E8%81%94%E8%96%AE%E9%9B%A8%E7%AF%87-stage_2.jpg 1.5x, https://upload.thwiki.cc/thumb/9/93/%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E8%BF%9E%E7%BC%98%E6%97%A0%E7%8E%B0%E9%87%8C-%E5%87%A4%E8%81%94%E8%96%AE%E9%9B%A8%E7%AF%87-stage_2.jpg/600px-%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E8%BF%9E%E7%BC%98%E6%97%A0%E7%8E%B0%E9%87%8C-%E5%87%A4%E8%81%94%E8%96%AE%E9%9B%A8%E7%AF%87-stage_2.jpg 2x" data-file-width="2340" data-file-height="1080">
+ [放大](./文件-连缘咖啡厅-连缘无现里-凤联薮雨篇-stage_2.jpg.md)连缘咖啡厅-连缘无现里-凤联薮雨篇-stage 2界面  
 这里每一个大关由五个小关组成，最后一小关为boss战  
-
   
   
 没有打过的关卡会被锁定  
 
 首先我们点一个【时空之涡 02】
   
-
-[](./文件-连缘咖啡厅-时空之涡：02_准备界面.jpg.md)  [](./文件-连缘咖啡厅-时空之涡：02_准备界面.jpg.md)时空之涡：02 准备界面
-  
+<img alt="" src="https://upload.thwiki.cc/thumb/e/ee/%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E6%97%B6%E7%A9%BA%E4%B9%8B%E6%B6%A1%EF%BC%9A02_%E5%87%86%E5%A4%87%E7%95%8C%E9%9D%A2.jpg/300px-%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E6%97%B6%E7%A9%BA%E4%B9%8B%E6%B6%A1%EF%BC%9A02_%E5%87%86%E5%A4%87%E7%95%8C%E9%9D%A2.jpg" decoding="async" loading="lazy" width="300" height="138" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/e/ee/%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E6%97%B6%E7%A9%BA%E4%B9%8B%E6%B6%A1%EF%BC%9A02_%E5%87%86%E5%A4%87%E7%95%8C%E9%9D%A2.jpg/450px-%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E6%97%B6%E7%A9%BA%E4%B9%8B%E6%B6%A1%EF%BC%9A02_%E5%87%86%E5%A4%87%E7%95%8C%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/e/ee/%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E6%97%B6%E7%A9%BA%E4%B9%8B%E6%B6%A1%EF%BC%9A02_%E5%87%86%E5%A4%87%E7%95%8C%E9%9D%A2.jpg/600px-%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E6%97%B6%E7%A9%BA%E4%B9%8B%E6%B6%A1%EF%BC%9A02_%E5%87%86%E5%A4%87%E7%95%8C%E9%9D%A2.jpg 2x" data-file-width="2340" data-file-height="1080">
+ [放大](./文件-连缘咖啡厅-时空之涡：02_准备界面.jpg.md)时空之涡：02 准备界面  
   
 
 从左上开始：  
-
   
 
-- 难度选择（目前只有easy能选，通关easy后可以解锁normal，以此类推，直到unreal为止）  
-
-- 我方阵营（战斗单位，携带装备）；作战倾向；我方战力；队伍编成及切换；必须条件（目前只出现在过往作品中，满足其中的条件才可以开始关卡）；任务报酬（无人死亡通关；五回合内通关；十回合内通关）  
-
-- 关卡描述（敌人很多呢~）；关卡报酬（50个墨石，通关一次后就不能再次领取）；敌军详情；掉落道具；会话跳过;自动战斗开关；战前准备； **扫荡** ；开始关卡（消耗4体力）
+- 难度选择（目前只有easy能选，通关easy后可以解锁normal，以此类推，直到unreal为止）
+- 我方阵营（战斗单位，携带装备）；作战倾向；我方战力；队伍编成及切换；必须条件（目前只出现在过往作品中，满足其中的条件才可以开始关卡）；任务报酬（无人死亡通关；五回合内通关；十回合内通关）
+- 关卡描述（敌人很多呢~）；关卡报酬（50个墨石，通关一次后就不能再次领取）；敌军详情；掉落道具；会话跳过;自动战斗开关；战前准备；**扫荡**；开始关卡（消耗4体力）
 
   
 然后就会看到如图所示的画面  
@@ -149,40 +119,39 @@ JynX | トリック・ノスタルジー | 待完成页面 | 连缘Project | 连
 点击右下角的开始，这样我们就进入战斗页面了
   
 
-
 ## 战斗界面介绍
+
 - 战前准备
 
-[](./文件-连缘咖啡厅-战前准备.jpg.md)  [](./文件-连缘咖啡厅-战前准备.jpg.md)战前准备画面  
- **手动操作时推荐** ，主要用于调整我方角色站位，黄框地面为可调整的范围，部分关卡不可调整，如主线第一章中的“？？？？”关卡
+<img alt="" src="https://upload.thwiki.cc/thumb/5/56/%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E6%88%98%E5%89%8D%E5%87%86%E5%A4%87.jpg/300px-%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E6%88%98%E5%89%8D%E5%87%86%E5%A4%87.jpg" decoding="async" loading="lazy" width="300" height="138" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/5/56/%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E6%88%98%E5%89%8D%E5%87%86%E5%A4%87.jpg/450px-%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E6%88%98%E5%89%8D%E5%87%86%E5%A4%87.jpg 1.5x, https://upload.thwiki.cc/thumb/5/56/%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E6%88%98%E5%89%8D%E5%87%86%E5%A4%87.jpg/600px-%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E6%88%98%E5%89%8D%E5%87%86%E5%A4%87.jpg 2x" data-file-width="2340" data-file-height="1080">
+ [放大](./文件-连缘咖啡厅-战前准备.jpg.md)战前准备画面  
+**手动操作时推荐**，主要用于调整我方角色站位，黄框地面为可调整的范围，部分关卡不可调整，如主线第一章中的“？？？？”关卡
   
+
 - 开始战斗
 
   
 战斗画面的说明如图所示
   
-
-[](./文件-连缘咖啡厅-战斗界面及翻译.jpg.md)  [](./文件-连缘咖啡厅-战斗界面及翻译.jpg.md)战斗界面及翻译（来自专栏原文）
-  
+<img alt="" src="https://upload.thwiki.cc/thumb/8/87/%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E6%88%98%E6%96%97%E7%95%8C%E9%9D%A2%E5%8F%8A%E7%BF%BB%E8%AF%91.jpg/300px-%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E6%88%98%E6%96%97%E7%95%8C%E9%9D%A2%E5%8F%8A%E7%BF%BB%E8%AF%91.jpg" decoding="async" loading="lazy" width="300" height="136" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/8/87/%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E6%88%98%E6%96%97%E7%95%8C%E9%9D%A2%E5%8F%8A%E7%BF%BB%E8%AF%91.jpg/450px-%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E6%88%98%E6%96%97%E7%95%8C%E9%9D%A2%E5%8F%8A%E7%BF%BB%E8%AF%91.jpg 1.5x, https://upload.thwiki.cc/thumb/8/87/%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E6%88%98%E6%96%97%E7%95%8C%E9%9D%A2%E5%8F%8A%E7%BF%BB%E8%AF%91.jpg/600px-%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E6%88%98%E6%96%97%E7%95%8C%E9%9D%A2%E5%8F%8A%E7%BF%BB%E8%AF%91.jpg 2x" data-file-width="1920" data-file-height="873">
+ [放大](./文件-连缘咖啡厅-战斗界面及翻译.jpg.md)战斗界面及翻译（来自专栏原文）  
 后文也会说明一下“菜单”里的东西，另外图中的标记仅供方便理解用，并非官方命名（除了“自动战斗”和“菜单”）  
 
 首先我们需要点击蓝框，这样在行动时角色会随之移动，当然不点蓝框直接选技能的话也可，这样角色就会原地行动  
 
 被点中的框会变成黄色，意思是操作完之后角色会移动到那里
   
-
-[](./文件-连缘咖啡厅-战斗界面-移动.jpg.md)  [](./文件-连缘咖啡厅-战斗界面-移动.jpg.md)连缘咖啡厅-战斗界面-移动（来自专栏原文）
-  
+<img alt="" src="https://upload.thwiki.cc/thumb/2/2b/%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E6%88%98%E6%96%97%E7%95%8C%E9%9D%A2-%E7%A7%BB%E5%8A%A8.jpg/300px-%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E6%88%98%E6%96%97%E7%95%8C%E9%9D%A2-%E7%A7%BB%E5%8A%A8.jpg" decoding="async" loading="lazy" width="300" height="136" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/2/2b/%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E6%88%98%E6%96%97%E7%95%8C%E9%9D%A2-%E7%A7%BB%E5%8A%A8.jpg/450px-%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E6%88%98%E6%96%97%E7%95%8C%E9%9D%A2-%E7%A7%BB%E5%8A%A8.jpg 1.5x, https://upload.thwiki.cc/thumb/2/2b/%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E6%88%98%E6%96%97%E7%95%8C%E9%9D%A2-%E7%A7%BB%E5%8A%A8.jpg/600px-%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E6%88%98%E6%96%97%E7%95%8C%E9%9D%A2-%E7%A7%BB%E5%8A%A8.jpg 2x" data-file-width="1920" data-file-height="873">
+ [放大](./文件-连缘咖啡厅-战斗界面-移动.jpg.md)连缘咖啡厅-战斗界面-移动（来自专栏原文）  
 <small>技能选择区：正拳突击、小回复、充能射线、次元剥离、通常攻击[打击]、待机、Bomb与Flashbomb</small>
 然后我们就可以选择技能了（移动要在选技能之前）  
 
 这里选第三个技能“充能射线”（チャージビーム）
   
-
-[](./文件-连缘咖啡厅-战斗界面-攻击范围预览.jpg.md)  [](./文件-连缘咖啡厅-战斗界面-攻击范围预览.jpg.md)战斗界面-攻击范围预览（来自专栏原文）  
+<img alt="" src="https://upload.thwiki.cc/thumb/b/bf/%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E6%88%98%E6%96%97%E7%95%8C%E9%9D%A2-%E6%94%BB%E5%87%BB%E8%8C%83%E5%9B%B4%E9%A2%84%E8%A7%88.jpg/300px-%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E6%88%98%E6%96%97%E7%95%8C%E9%9D%A2-%E6%94%BB%E5%87%BB%E8%8C%83%E5%9B%B4%E9%A2%84%E8%A7%88.jpg" decoding="async" loading="lazy" width="300" height="136" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/b/bf/%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E6%88%98%E6%96%97%E7%95%8C%E9%9D%A2-%E6%94%BB%E5%87%BB%E8%8C%83%E5%9B%B4%E9%A2%84%E8%A7%88.jpg/450px-%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E6%88%98%E6%96%97%E7%95%8C%E9%9D%A2-%E6%94%BB%E5%87%BB%E8%8C%83%E5%9B%B4%E9%A2%84%E8%A7%88.jpg 1.5x, https://upload.thwiki.cc/thumb/b/bf/%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E6%88%98%E6%96%97%E7%95%8C%E9%9D%A2-%E6%94%BB%E5%87%BB%E8%8C%83%E5%9B%B4%E9%A2%84%E8%A7%88.jpg/600px-%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E6%88%98%E6%96%97%E7%95%8C%E9%9D%A2-%E6%94%BB%E5%87%BB%E8%8C%83%E5%9B%B4%E9%A2%84%E8%A7%88.jpg 2x" data-file-width="1920" data-file-height="873">
+ [放大](./文件-连缘咖啡厅-战斗界面-攻击范围预览.jpg.md)战斗界面-攻击范围预览（来自专栏原文）  
 可以看到前面有一排格子变红了，这个是攻击范围，所有在深红色范围内的敌兵都会受到伤害（<ruby><rb>有时候</rb><rp> (</rp><rt>待确认</rt><rp>) </rp></ruby>
 会在右侧范围内敌人的血条上显示伤害预览）  
-
   
   
 点击“攻击范围确定”就会发动攻击，点击“返回（戾る）”就会取消操作，点攻击范围确定后，角色就会行动  
@@ -190,53 +159,46 @@ JynX | トリック・ノスタルジー | 待完成页面 | 连缘Project | 连
 场上所有人行动过一次后，该回合结束，进入下一回合。在一定回合内结束战斗的话可以完成关卡任务
   
 
-
 ### 菜单
   
 顺便一提点击上面提到的“菜单（メニュー）”的话会出现下面的画面
   
-
-[](./文件-连缘咖啡厅-菜单.jpg.md)  [](./文件-连缘咖啡厅-菜单.jpg.md)菜单界面
--  **死心（あきらめる）** 是放弃作战  
-
+<img alt="" src="https://upload.thwiki.cc/thumb/c/cc/%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E8%8F%9C%E5%8D%95.jpg/300px-%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E8%8F%9C%E5%8D%95.jpg" decoding="async" loading="lazy" width="300" height="138" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/c/cc/%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E8%8F%9C%E5%8D%95.jpg/450px-%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E8%8F%9C%E5%8D%95.jpg 1.5x, https://upload.thwiki.cc/thumb/c/cc/%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E8%8F%9C%E5%8D%95.jpg/600px-%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E8%8F%9C%E5%8D%95.jpg 2x" data-file-width="2340" data-file-height="1080">
+ [放大](./文件-连缘咖啡厅-菜单.jpg.md)菜单界面
+- **死心（あきらめる）**是放弃作战
 
   
 放弃作战不会消耗体力，但会消耗挑战次数，也就是说如果【日常】里面的关卡打糟了的话，选择放弃作战将无法再次挑战，但是可以通过直接关闭游戏进程再开游戏进行重新挑战（通称：SL）  
 
 二次确认画面，
   
-
-[](./文件-连缘咖啡厅-菜单-二次确认.jpg.md)  [](./文件-连缘咖啡厅-菜单-二次确认.jpg.md)菜单二次确认界面
-  
+<img alt="" src="https://upload.thwiki.cc/thumb/2/26/%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E8%8F%9C%E5%8D%95-%E4%BA%8C%E6%AC%A1%E7%A1%AE%E8%AE%A4.jpg/300px-%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E8%8F%9C%E5%8D%95-%E4%BA%8C%E6%AC%A1%E7%A1%AE%E8%AE%A4.jpg" decoding="async" loading="lazy" width="300" height="138" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/2/26/%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E8%8F%9C%E5%8D%95-%E4%BA%8C%E6%AC%A1%E7%A1%AE%E8%AE%A4.jpg/450px-%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E8%8F%9C%E5%8D%95-%E4%BA%8C%E6%AC%A1%E7%A1%AE%E8%AE%A4.jpg 1.5x, https://upload.thwiki.cc/thumb/2/26/%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E8%8F%9C%E5%8D%95-%E4%BA%8C%E6%AC%A1%E7%A1%AE%E8%AE%A4.jpg/600px-%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E8%8F%9C%E5%8D%95-%E4%BA%8C%E6%AC%A1%E7%A1%AE%E8%AE%A4.jpg 2x" data-file-width="2340" data-file-height="1080">
+ [放大](./文件-连缘咖啡厅-菜单-二次确认.jpg.md)菜单二次确认界面  
 点左边那个就算真的放弃了
   
 
 - “关卡信息（ステージ情報）”可以看到相关关卡信息
 
-[](./文件-连缘咖啡厅-菜单-关卡情报.jpg.md)  [](./文件-连缘咖啡厅-菜单-关卡情报.jpg.md)关卡情报  
+<img alt="" src="https://upload.thwiki.cc/thumb/1/19/%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E8%8F%9C%E5%8D%95-%E5%85%B3%E5%8D%A1%E6%83%85%E6%8A%A5.jpg/300px-%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E8%8F%9C%E5%8D%95-%E5%85%B3%E5%8D%A1%E6%83%85%E6%8A%A5.jpg" decoding="async" loading="lazy" width="300" height="138" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/1/19/%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E8%8F%9C%E5%8D%95-%E5%85%B3%E5%8D%A1%E6%83%85%E6%8A%A5.jpg/450px-%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E8%8F%9C%E5%8D%95-%E5%85%B3%E5%8D%A1%E6%83%85%E6%8A%A5.jpg 1.5x, https://upload.thwiki.cc/thumb/1/19/%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E8%8F%9C%E5%8D%95-%E5%85%B3%E5%8D%A1%E6%83%85%E6%8A%A5.jpg/600px-%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E8%8F%9C%E5%8D%95-%E5%85%B3%E5%8D%A1%E6%83%85%E6%8A%A5.jpg 2x" data-file-width="2340" data-file-height="1080">
+ [放大](./文件-连缘咖啡厅-菜单-关卡情报.jpg.md)关卡情报  
 从上到下从左到右：关卡标题；过关条件（击破所有敌人）；关卡效果（不知道是这什么东西，这一关是“无”）；任务；敌兵情报（五个妖精(枪)）；返回
   
-- “变更作战（作戦変更）”下述点“变更”可以变换自动战斗时AI的行动模式，下文会详细说明  
 
+- “变更作战（作戦変更）”下述点“变更”可以变换自动战斗时AI的行动模式，下文会详细说明
 
   
 一般来说都是把对手都打干净就算通关了
-并解锁下一关和通过的这关的更高的难度（目前最多只有Unreal）默认只有easy能打。这里通关第二关的时候，右上角会被打上“　”的标签并解锁下一关  
-
+并解锁下一关和通过的这关的更高的难度（目前最多只有Unreal）默认只有easy能打。这里通关第二关的时候，右上角会被打上“ ”的标签并解锁下一关  
   
 
-
 ### 作战变更
-
   
 按下自动战斗按钮后，AI会操作己方角色作战（其实是Rei君在操作【）  
 
 菜单中的“作战变更”可以AI的战斗倾向，共有以下八种  
-
   
-
-[](./文件-连缘咖啡厅-作战变更.jpg.md)  [](./文件-连缘咖啡厅-作战变更.jpg.md)作战变更界面（来自专栏原文）  
-
+<img alt="" src="https://upload.thwiki.cc/thumb/1/1b/%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E4%BD%9C%E6%88%98%E5%8F%98%E6%9B%B4.jpg/300px-%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E4%BD%9C%E6%88%98%E5%8F%98%E6%9B%B4.jpg" decoding="async" loading="lazy" width="300" height="136" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/1/1b/%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E4%BD%9C%E6%88%98%E5%8F%98%E6%9B%B4.jpg/450px-%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E4%BD%9C%E6%88%98%E5%8F%98%E6%9B%B4.jpg 1.5x, https://upload.thwiki.cc/thumb/1/1b/%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E4%BD%9C%E6%88%98%E5%8F%98%E6%9B%B4.jpg/600px-%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E4%BD%9C%E6%88%98%E5%8F%98%E6%9B%B4.jpg 2x" data-file-width="1920" data-file-height="873">
+ [放大](./文件-连缘咖啡厅-作战变更.jpg.md)作战变更界面（来自专栏原文）  
   
 进攻者（アタッカー）：使用重视威力的攻击，不会使用回复和上buff、debuff的技能  
 
@@ -257,86 +219,80 @@ JynX | トリック・ノスタルジー | 待完成页面 | 连缘Project | 连
 默认情况下AI会使用“进攻者”模式行动
   
 
-
-
 ## 战斗系统机制
 
 ### 战斗场景内机制
 
-#### 地盘（非官方命名）  
+#### 地盘（非官方命名）
+  
 
 己方单位只能在己方地盘（蓝）内移动，敌方单位只能在敌方地盘（红）内移动。  
-[](./文件-连缘咖啡厅-战斗界面-移动.jpg.md)  [](./文件-连缘咖啡厅-战斗界面-移动.jpg.md)初始地盘示例（图片来自专栏原文）  
-<small>比如这张图里，从左到右就是蓝、白、红三色的地盘</small>
-  
+<img alt="" src="https://upload.thwiki.cc/thumb/2/2b/%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E6%88%98%E6%96%97%E7%95%8C%E9%9D%A2-%E7%A7%BB%E5%8A%A8.jpg/300px-%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E6%88%98%E6%96%97%E7%95%8C%E9%9D%A2-%E7%A7%BB%E5%8A%A8.jpg" decoding="async" loading="lazy" width="300" height="136" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/2/2b/%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E6%88%98%E6%96%97%E7%95%8C%E9%9D%A2-%E7%A7%BB%E5%8A%A8.jpg/450px-%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E6%88%98%E6%96%97%E7%95%8C%E9%9D%A2-%E7%A7%BB%E5%8A%A8.jpg 1.5x, https://upload.thwiki.cc/thumb/2/2b/%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E6%88%98%E6%96%97%E7%95%8C%E9%9D%A2-%E7%A7%BB%E5%8A%A8.jpg/600px-%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E6%88%98%E6%96%97%E7%95%8C%E9%9D%A2-%E7%A7%BB%E5%8A%A8.jpg 2x" data-file-width="1920" data-file-height="873">
+ [放大](./文件-连缘咖啡厅-战斗界面-移动.jpg.md)初始地盘示例（图片来自专栏原文）  
+<small>比如这张图里，从左到右就是蓝、白、红三色的地盘</small>  
   
 红色为敌方单位的地盘，蓝色为己方单位的地盘，白色为中立，任何一方均可前进，前进后则变为占领方所属
   
-
-[](./文件-连缘咖啡厅-地盘（示例）.jpg.md)  [](./文件-连缘咖啡厅-地盘（示例）.jpg.md)无中立地盘示例（图片来自专栏原文）
-  
+<img alt="" src="https://upload.thwiki.cc/thumb/4/46/%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E5%9C%B0%E7%9B%98%EF%BC%88%E7%A4%BA%E4%BE%8B%EF%BC%89.jpg/300px-%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E5%9C%B0%E7%9B%98%EF%BC%88%E7%A4%BA%E4%BE%8B%EF%BC%89.jpg" decoding="async" loading="lazy" width="300" height="136" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/4/46/%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E5%9C%B0%E7%9B%98%EF%BC%88%E7%A4%BA%E4%BE%8B%EF%BC%89.jpg/450px-%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E5%9C%B0%E7%9B%98%EF%BC%88%E7%A4%BA%E4%BE%8B%EF%BC%89.jpg 1.5x, https://upload.thwiki.cc/thumb/4/46/%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E5%9C%B0%E7%9B%98%EF%BC%88%E7%A4%BA%E4%BE%8B%EF%BC%89.jpg/600px-%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E5%9C%B0%E7%9B%98%EF%BC%88%E7%A4%BA%E4%BE%8B%EF%BC%89.jpg 2x" data-file-width="1920" data-file-height="873">
+ [放大](./文件-连缘咖啡厅-地盘（示例）.jpg.md)无中立地盘示例（图片来自专栏原文）  
 就像这样。这张图也体现了地盘对于移动范围的限制  
 
 最前面的战斗单位决定了这一方的地盘的范围，如果某方最前面的单位全部死亡，则地盘会重新变成白色，直到该方往后的一个单位为止（感觉我说的也不太明白，实际打一遍应该就能懂什么情况了）
   
 
-
 #### bomb（ボム）
   
 角色如果发动技能的话，需要消耗ＭＰ，有些技能还需要咏唱数个回合，
   
-
-<center>[](./文件-连缘咖啡厅-咏唱.jpg.md)  [](./文件-连缘咖啡厅-咏唱.jpg.md)战斗中的咏唱预览（图片来自专栏）
-<small>这张图中可以看到颊赤的二技能“点火（イグ）”和四技能“喷火「水蒸气爆炸」”的右上角多出了蓝色的数字，这个就是需要咏唱的回合数</small></center>  
+<center><img alt="" src="https://upload.thwiki.cc/thumb/e/eb/%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E5%92%8F%E5%94%B1.jpg/300px-%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E5%92%8F%E5%94%B1.jpg" decoding="async" loading="lazy" width="300" height="136" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/e/eb/%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E5%92%8F%E5%94%B1.jpg/450px-%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E5%92%8F%E5%94%B1.jpg 1.5x, https://upload.thwiki.cc/thumb/e/eb/%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E5%92%8F%E5%94%B1.jpg/600px-%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E5%92%8F%E5%94%B1.jpg 2x" data-file-width="1920" data-file-height="873">
+ [放大](./文件-连缘咖啡厅-咏唱.jpg.md)战斗中的咏唱预览（图片来自专栏）<small>这张图中可以看到颊赤的二技能“点火（イグ）”和四技能“喷火「水蒸气爆炸」”的右上角多出了蓝色的数字，这个就是需要咏唱的回合数</small></center>  
 如果进行技能咏唱的话，咏唱中途不能进行其他行动，但可以放弃咏唱，放弃的话会返还一定MP（如果咏唱完成之后范围内没有目标了的话，比如咏唱中途就把目标打死之类的，那咏唱建议直接取消，强行发动的话会导致发动失败）  
-
   
   
- **使用Bomb道具的话，可以无视咏唱时间并且不耗蓝发动一次技能** （只有特定角色的特定技能才能用Bomb帮助发动，比如薮雨的次元剥离。详情可见角色属性）  
-
+**使用Bomb道具的话，可以无视咏唱时间并且不耗蓝发动一次技能**（只有特定角色的特定技能才能用Bomb帮助发动，比如薮雨的次元剥离。详情可见角色属性）  
   
   
 
 下文以鹤喰的bomb的使用为例进行演示  
-<center>[](./文件-连缘咖啡厅-鹤鸣咏叹.png.md)  [](./文件-连缘咖啡厅-鹤鸣咏叹.png.md)bomb使用（图片来自专栏）
-<small>点击技能栏中的ボム，点击鹤鸣咏叹，就可以消耗三个雷道具不耗蓝不咏唱发动一次技能了</small></center><center>[](./文件-连缘咖啡厅-鹤鸣咏叹动画效果.jpeg.md)  [](./文件-连缘咖啡厅-鹤鸣咏叹动画效果.jpeg.md)bomb释放（图片来自专栏）<small>确认攻击范围之后就可以静静看着鹤喰杀爆全场了（</small></center>
-  
+<center><img alt="" src="https://upload.thwiki.cc/thumb/1/14/%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E9%B9%A4%E9%B8%A3%E5%92%8F%E5%8F%B9.png/300px-%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E9%B9%A4%E9%B8%A3%E5%92%8F%E5%8F%B9.png" decoding="async" loading="lazy" width="300" height="137" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/1/14/%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E9%B9%A4%E9%B8%A3%E5%92%8F%E5%8F%B9.png/450px-%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E9%B9%A4%E9%B8%A3%E5%92%8F%E5%8F%B9.png 1.5x, https://upload.thwiki.cc/thumb/1/14/%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E9%B9%A4%E9%B8%A3%E5%92%8F%E5%8F%B9.png/600px-%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E9%B9%A4%E9%B8%A3%E5%92%8F%E5%8F%B9.png 2x" data-file-width="1440" data-file-height="657">
+ [放大](./文件-连缘咖啡厅-鹤鸣咏叹.png.md)bomb使用（图片来自专栏）<small>点击技能栏中的ボム，点击鹤鸣咏叹，就可以消耗三个雷道具不耗蓝不咏唱发动一次技能了</small></center><center><img alt="" src="https://upload.thwiki.cc/thumb/2/29/%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E9%B9%A4%E9%B8%A3%E5%92%8F%E5%8F%B9%E5%8A%A8%E7%94%BB%E6%95%88%E6%9E%9C.jpeg/300px-%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E9%B9%A4%E9%B8%A3%E5%92%8F%E5%8F%B9%E5%8A%A8%E7%94%BB%E6%95%88%E6%9E%9C.jpeg" decoding="async" loading="lazy" width="300" height="136" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/2/29/%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E9%B9%A4%E9%B8%A3%E5%92%8F%E5%8F%B9%E5%8A%A8%E7%94%BB%E6%95%88%E6%9E%9C.jpeg/450px-%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E9%B9%A4%E9%B8%A3%E5%92%8F%E5%8F%B9%E5%8A%A8%E7%94%BB%E6%95%88%E6%9E%9C.jpeg 1.5x, https://upload.thwiki.cc/thumb/2/29/%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E9%B9%A4%E9%B8%A3%E5%92%8F%E5%8F%B9%E5%8A%A8%E7%94%BB%E6%95%88%E6%9E%9C.jpeg/600px-%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E9%B9%A4%E9%B8%A3%E5%92%8F%E5%8F%B9%E5%8A%A8%E7%94%BB%E6%95%88%E6%9E%9C.jpeg 2x" data-file-width="1920" data-file-height="873">
+ [放大](./文件-连缘咖啡厅-鹤鸣咏叹动画效果.jpeg.md)bomb释放（图片来自专栏）<small>确认攻击范围之后就可以静静看着鹤喰杀爆全场了（</small></center>  
 另外，不同的技能，消耗的Bomb数目也不同。比如次元剥离、鹤鸣咏叹、超新星、水蒸气爆发、黑白风暴和青风都需要三个Bomb道具，黑白炫光、切蛇是两个，把我或受挫是一个  
 
 自动战斗的AI不是很灵敏，所以自动战斗时AI可能不会使用Bomb帮助技能的发动
   
 
-
-#### Flashbomb  
+#### Flashbomb
+  
 
 这里以玄鸟为例说明flashbomb的机制  
-<center>[](./文件-连缘咖啡厅-瞬雷.jpg.md)  [](./文件-连缘咖啡厅-瞬雷.jpg.md)瞬雷使用（图片来自专栏）
-<small>先点击技能栏里的ボム，就可以看到雷（上文bomb）与瞬雷的发动页面。下面那个就是瞬雷。</small></center>  
+<center><img alt="" src="https://upload.thwiki.cc/thumb/a/a0/%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E7%9E%AC%E9%9B%B7.jpg/300px-%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E7%9E%AC%E9%9B%B7.jpg" decoding="async" loading="lazy" width="300" height="136" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/a/a0/%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E7%9E%AC%E9%9B%B7.jpg/450px-%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E7%9E%AC%E9%9B%B7.jpg 1.5x, https://upload.thwiki.cc/thumb/a/a0/%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E7%9E%AC%E9%9B%B7.jpg/600px-%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E7%9E%AC%E9%9B%B7.jpg 2x" data-file-width="1920" data-file-height="873">
+ [放大](./文件-连缘咖啡厅-瞬雷.jpg.md)瞬雷使用（图片来自专栏）<small>先点击技能栏里的ボム，就可以看到雷（上文bomb）与瞬雷的发动页面。下面那个就是瞬雷。</small></center>  
 
 只要槽够+核心深化到一定程度（Deep2），就可以进入这样的确认画面。  
-<center>[](./文件-连缘咖啡厅-瞬雷确认.jpg.md)  [](./文件-连缘咖啡厅-瞬雷确认.jpg.md)瞬雷使用确认（图片来自专栏）</center>  
+<center><img alt="" src="https://upload.thwiki.cc/thumb/6/6f/%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E7%9E%AC%E9%9B%B7%E7%A1%AE%E8%AE%A4.jpg/300px-%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E7%9E%AC%E9%9B%B7%E7%A1%AE%E8%AE%A4.jpg" decoding="async" loading="lazy" width="300" height="136" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/6/6f/%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E7%9E%AC%E9%9B%B7%E7%A1%AE%E8%AE%A4.jpg/450px-%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E7%9E%AC%E9%9B%B7%E7%A1%AE%E8%AE%A4.jpg 1.5x, https://upload.thwiki.cc/thumb/6/6f/%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E7%9E%AC%E9%9B%B7%E7%A1%AE%E8%AE%A4.jpg/600px-%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E7%9E%AC%E9%9B%B7%E7%A1%AE%E8%AE%A4.jpg 2x" data-file-width="1920" data-file-height="873">
+ [放大](./文件-连缘咖啡厅-瞬雷确认.jpg.md)瞬雷使用确认（图片来自专栏）</center>  
 使用Flashbomb的话，该角色会在一回合内待机  
-<center>[](./文件-连缘咖啡厅-瞬雷待机.jpg.md)  [](./文件-连缘咖啡厅-瞬雷待机.jpg.md)瞬雷发动后待机（图片来自专栏）<small>就是这样，文字是“瞬雷（flashbomb）待机</small></center>
-  
+<center><img alt="" src="https://upload.thwiki.cc/thumb/a/ac/%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E7%9E%AC%E9%9B%B7%E5%BE%85%E6%9C%BA.jpg/300px-%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E7%9E%AC%E9%9B%B7%E5%BE%85%E6%9C%BA.jpg" decoding="async" loading="lazy" width="300" height="136" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/a/ac/%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E7%9E%AC%E9%9B%B7%E5%BE%85%E6%9C%BA.jpg/450px-%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E7%9E%AC%E9%9B%B7%E5%BE%85%E6%9C%BA.jpg 1.5x, https://upload.thwiki.cc/thumb/a/ac/%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E7%9E%AC%E9%9B%B7%E5%BE%85%E6%9C%BA.jpg/600px-%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E7%9E%AC%E9%9B%B7%E5%BE%85%E6%9C%BA.jpg 2x" data-file-width="1920" data-file-height="873">
+ [放大](./文件-连缘咖啡厅-瞬雷待机.jpg.md)瞬雷发动后待机（图片来自专栏）<small>就是这样，文字是“瞬雷（flashbomb）待机</small></center>  
 待机期间若是受到伤害，则会发动对应的Flashbomb
   
-
-<center><small>[](./文件-连缘咖啡厅-瞬雷触发-受击.jpg.md)  [](./文件-连缘咖啡厅-瞬雷触发-受击.jpg.md)瞬雷受击（图片来自专栏）玄鸟被大妖精（剑）的技能打到了[](./文件-连缘咖啡厅-瞬雷触发.jpg.md)  [](./文件-连缘咖啡厅-瞬雷触发.jpg.md)瞬雷成功释放（图片来自专栏）
-大妖精（剑）被玄鸟的瞬雷（顶点激射）打爆了（</small></center>
-  
+<center><small><img alt="" src="https://upload.thwiki.cc/thumb/e/e7/%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E7%9E%AC%E9%9B%B7%E8%A7%A6%E5%8F%91-%E5%8F%97%E5%87%BB.jpg/300px-%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E7%9E%AC%E9%9B%B7%E8%A7%A6%E5%8F%91-%E5%8F%97%E5%87%BB.jpg" decoding="async" loading="lazy" width="300" height="136" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/e/e7/%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E7%9E%AC%E9%9B%B7%E8%A7%A6%E5%8F%91-%E5%8F%97%E5%87%BB.jpg/450px-%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E7%9E%AC%E9%9B%B7%E8%A7%A6%E5%8F%91-%E5%8F%97%E5%87%BB.jpg 1.5x, https://upload.thwiki.cc/thumb/e/e7/%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E7%9E%AC%E9%9B%B7%E8%A7%A6%E5%8F%91-%E5%8F%97%E5%87%BB.jpg/600px-%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E7%9E%AC%E9%9B%B7%E8%A7%A6%E5%8F%91-%E5%8F%97%E5%87%BB.jpg 2x" data-file-width="1920" data-file-height="873">
+ [放大](./文件-连缘咖啡厅-瞬雷触发-受击.jpg.md)瞬雷受击（图片来自专栏）玄鸟被大妖精（剑）的技能打到了<img alt="" src="https://upload.thwiki.cc/thumb/a/af/%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E7%9E%AC%E9%9B%B7%E8%A7%A6%E5%8F%91.jpg/300px-%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E7%9E%AC%E9%9B%B7%E8%A7%A6%E5%8F%91.jpg" decoding="async" loading="lazy" width="300" height="136" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/a/af/%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E7%9E%AC%E9%9B%B7%E8%A7%A6%E5%8F%91.jpg/450px-%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E7%9E%AC%E9%9B%B7%E8%A7%A6%E5%8F%91.jpg 1.5x, https://upload.thwiki.cc/thumb/a/af/%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E7%9E%AC%E9%9B%B7%E8%A7%A6%E5%8F%91.jpg/600px-%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E7%9E%AC%E9%9B%B7%E8%A7%A6%E5%8F%91.jpg 2x" data-file-width="1920" data-file-height="873">
+ [放大](./文件-连缘咖啡厅-瞬雷触发.jpg.md)瞬雷成功释放（图片来自专栏）
+大妖精（剑）被玄鸟的瞬雷（顶点激射）打爆了（</small></center>  
 根据Flashbomb不同，效果也会有所不同  
 
 和STG作一样，使用Flashbomb需要消耗Flashbomb槽。这次的Flashbomb槽是使用特定行动或技能的时候，或者度过一个回合的时候会向上涨，最多可以涨7个槽。Flashbomb的不同，消耗的槽的量也不同。Bomb和Flashbomb的使用权限都需要通过后述的核心深化解锁
   
 
-
 ### 角色属性机制
 
-- 【状态】（ステータス）  
+- 【状态】（ステータス）
 
 
-作战单位有如下的状态：[](./文件-连缘咖啡厅-角色状态.jpg.md)  [](./文件-连缘咖啡厅-角色状态.jpg.md)在抽卡界面预览的角色状态（图片来自专栏）ＨＰ：生命值，没有的话就会死  
-
+作战单位有如下的状态：<img alt="" src="https://upload.thwiki.cc/thumb/2/21/%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E8%A7%92%E8%89%B2%E7%8A%B6%E6%80%81.jpg/300px-%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E8%A7%92%E8%89%B2%E7%8A%B6%E6%80%81.jpg" decoding="async" loading="lazy" width="300" height="136" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/2/21/%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E8%A7%92%E8%89%B2%E7%8A%B6%E6%80%81.jpg/450px-%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E8%A7%92%E8%89%B2%E7%8A%B6%E6%80%81.jpg 1.5x, https://upload.thwiki.cc/thumb/2/21/%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E8%A7%92%E8%89%B2%E7%8A%B6%E6%80%81.jpg/600px-%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E8%A7%92%E8%89%B2%E7%8A%B6%E6%80%81.jpg 2x" data-file-width="1920" data-file-height="873">
+ [放大](./文件-连缘咖啡厅-角色状态.jpg.md)在抽卡界面预览的角色状态（图片来自专栏）ＨＰ：生命值，没有的话就会死  
   
 ＭＰ：魔力值，没有的话就放不了技能  
 
@@ -363,19 +319,15 @@ JynX | トリック・ノスタルジー | 待完成页面 | 连缘Project | 连
 敌方角色的回避率和会心率基本都是0  
 
 移动的范围是以该作战单位为中心的菱形（如前文的图所显示的那样）  
-
   
 
-- 【登场作品】  
-
+- 【登场作品】
 
   
 字面意思，显示这个角色在前作的登场情况，一部分特性和这个有关，至于什么是特性就请参见后文  
-
   
 
-- 【属性】  
-
+- 【属性】
 
   
 总共有九种属性实装：这里引用fanbox里迷唇的描述进行说明  
@@ -415,32 +367,28 @@ JynX | トリック・ノスタルジー | 待完成页面 | 连缘Project | 连
 无属性[無无]（無无）  
 
 莫名其妙的玩意儿  
-
   
 
-属性之间没有强弱相克，但角色会有对于属性的弱点与耐性<center>[](./文件-连缘咖啡厅-角色耐性.jpg.md)  [](./文件-连缘咖啡厅-角色耐性.jpg.md)角色耐性（图片来自专栏原文）<small>角色的耐性和弱点可以在角色信息的“耐性”一览查询，这里我们可以看到乌蛇很怕火炎和光圣属性的攻击，而对风爆和暗冥属性的攻击是具有耐性的</small></center>  
-
+属性之间没有强弱相克，但角色会有对于属性的弱点与耐性<center><img alt="" src="https://upload.thwiki.cc/thumb/f/f2/%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E8%A7%92%E8%89%B2%E8%80%90%E6%80%A7.jpg/300px-%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E8%A7%92%E8%89%B2%E8%80%90%E6%80%A7.jpg" decoding="async" loading="lazy" width="300" height="136" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/f/f2/%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E8%A7%92%E8%89%B2%E8%80%90%E6%80%A7.jpg/450px-%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E8%A7%92%E8%89%B2%E8%80%90%E6%80%A7.jpg 1.5x, https://upload.thwiki.cc/thumb/f/f2/%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E8%A7%92%E8%89%B2%E8%80%90%E6%80%A7.jpg/600px-%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E8%A7%92%E8%89%B2%E8%80%90%E6%80%A7.jpg 2x" data-file-width="1920" data-file-height="873">
+ [放大](./文件-连缘咖啡厅-角色耐性.jpg.md)角色耐性（图片来自专栏原文）<small>角色的耐性和弱点可以在角色信息的“耐性”一览查询，这里我们可以看到乌蛇很怕火炎和光圣属性的攻击，而对风爆和暗冥属性的攻击是具有耐性的</small></center>  
   
 如前文所述，每个技能都有对某个属性的倾向  
 
 不过尽管角色有弱点，也可以用有其他属性倾向的技能，但是也会出现魔耗变大等缺点（需要验证）  
-
   
 
-- 【系统】  
-
+- 【系统】
 
   
 除了属性之外，技能里还有系统  
 
 系统有：“咒文（呪文）”“科学（科学）”“奇术（奇術）”“打击（打撃）”“斩击（斬撃）”“射击（射撃）”六种  
-
   
 
-技能也有对某个系统的倾向，不过解释起来很麻烦（迷唇原话如此）<small></small><center><small>[](./文件-连缘咖啡厅-技能系统.jpg.md)  [](./文件-连缘咖啡厅-技能系统.jpg.md)技能属性及系统（图片来自专栏）（薮雨的次元剥离的属性和系统：[無无]属性与[奇术]系统。</small></center>  
+技能也有对某个系统的倾向，不过解释起来很麻烦（迷唇原话如此）<small></small><center><small><img alt="" src="https://upload.thwiki.cc/thumb/3/39/%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E6%8A%80%E8%83%BD%E7%B3%BB%E7%BB%9F.jpg/300px-%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E6%8A%80%E8%83%BD%E7%B3%BB%E7%BB%9F.jpg" decoding="async" loading="lazy" width="300" height="136" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/3/39/%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E6%8A%80%E8%83%BD%E7%B3%BB%E7%BB%9F.jpg/450px-%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E6%8A%80%E8%83%BD%E7%B3%BB%E7%BB%9F.jpg 1.5x, https://upload.thwiki.cc/thumb/3/39/%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E6%8A%80%E8%83%BD%E7%B3%BB%E7%BB%9F.jpg/600px-%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E6%8A%80%E8%83%BD%E7%B3%BB%E7%BB%9F.jpg 2x" data-file-width="1920" data-file-height="873">
+ [放大](./文件-连缘咖啡厅-技能系统.jpg.md)技能属性及系统（图片来自专栏）（薮雨的次元剥离的属性和系统：[無无]属性与[奇术]系统。</small></center>  
 
-- 【特性】  
-
+- 【特性】
 
   
 指的是对战斗单位带来有效效果的能力，一个单位最多可以有四个（如果没特性的话就会显示“无”[なし]）  
@@ -466,52 +414,48 @@ JynX | トリック・ノスタルジー | 待完成页面 | 连缘Project | 连
 特性的获得相关可参见下述“核心变异”进行了解
   
 
-
-
-## 战斗单位强化  
+## 战斗单位强化
+  
 
 点击右边的箭头，再点强化，可以看到左边的两个就是战斗单位的强化和编成了，本页面主要介绍战斗系统的强化，所以下文的东西基本都是在“战斗单位强化”里战斗单位强化的页面。  
-<small></small><center><small>[](./文件-连缘咖啡厅-战斗单位强化.jpg.md)  [](./文件-连缘咖啡厅-战斗单位强化.jpg.md)战斗单位强化界面从左到右从上到下：核心强化；核心变异；符牌安装；核心深化；？；符牌深化；符牌抽出；拟态超控（？）；装备强化</small></center>
-
+<small></small><center><small><img alt="" src="https://upload.thwiki.cc/thumb/8/8c/%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E6%88%98%E6%96%97%E5%8D%95%E4%BD%8D%E5%BC%BA%E5%8C%96.jpg/300px-%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E6%88%98%E6%96%97%E5%8D%95%E4%BD%8D%E5%BC%BA%E5%8C%96.jpg" decoding="async" loading="lazy" width="300" height="138" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/8/8c/%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E6%88%98%E6%96%97%E5%8D%95%E4%BD%8D%E5%BC%BA%E5%8C%96.jpg/450px-%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E6%88%98%E6%96%97%E5%8D%95%E4%BD%8D%E5%BC%BA%E5%8C%96.jpg 1.5x, https://upload.thwiki.cc/thumb/8/8c/%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E6%88%98%E6%96%97%E5%8D%95%E4%BD%8D%E5%BC%BA%E5%8C%96.jpg/600px-%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E6%88%98%E6%96%97%E5%8D%95%E4%BD%8D%E5%BC%BA%E5%8C%96.jpg 2x" data-file-width="2340" data-file-height="1080">
+ [放大](./文件-连缘咖啡厅-战斗单位强化.jpg.md)战斗单位强化界面从左到右从上到下：核心强化；核心变异；符牌安装；核心深化；？；符牌深化；符牌抽出；拟态超控（？）；装备强化</small></center>
 ### 【核心强化】（コア强化）
   
 说白了这里就是给战斗单位升级的地方，点击该页面下面的“单位选择（ユニットを選択する）”可以选择单位，长按右边的EXP注入就可以给这个单位升级，能升多少取决于右边的“所持EXP”。这个东西应该是可以靠打架来赚的，抽卡或者打关收获的紫色经验卡会自动补充到这里的经验池里  
-
   
-
 
 ### 核心变异（コア変異）
   
 核心变异需要消耗ZBC（Zero Base Core）进行。一次变异最多可以消耗9个。根据消耗的ZBC的数目，会抽选相应数目的特性（比如用9个就会给你随机抽9个特性）。  
 
 ZBC目前能通过商店购买、做任务（咖啡馆模式下点击左边三角形可以看到）和【日常】里“变异的记忆”获得。  
-
   
   
 
 根据ZBC的种类，也可能会更容易的抽到稀有特性，有些特定的特性也只能用特定的ZBC去抽  
-<small></small><center><small>[](./文件-连缘咖啡厅-核心变异.jpg.md)  [](./文件-连缘咖啡厅-核心变异.jpg.md)战斗单位核心变异（图片来自专栏）这里选了两个普通的ZBC给薮雨变异，点变异开始就会消耗ZBC开始变异</small></center>  
+<small></small><center><small><img alt="" src="https://upload.thwiki.cc/thumb/6/65/%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E6%A0%B8%E5%BF%83%E5%8F%98%E5%BC%82.jpg/300px-%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E6%A0%B8%E5%BF%83%E5%8F%98%E5%BC%82.jpg" decoding="async" loading="lazy" width="300" height="136" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/6/65/%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E6%A0%B8%E5%BF%83%E5%8F%98%E5%BC%82.jpg/450px-%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E6%A0%B8%E5%BF%83%E5%8F%98%E5%BC%82.jpg 1.5x, https://upload.thwiki.cc/thumb/6/65/%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E6%A0%B8%E5%BF%83%E5%8F%98%E5%BC%82.jpg/600px-%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E6%A0%B8%E5%BF%83%E5%8F%98%E5%BC%82.jpg 2x" data-file-width="1920" data-file-height="873">
+ [放大](./文件-连缘咖啡厅-核心变异.jpg.md)战斗单位核心变异（图片来自专栏）这里选了两个普通的ZBC给薮雨变异，点变异开始就会消耗ZBC开始变异</small></center>  
 
 抽选完毕后会从原本学习到的特性（固有特性除外），和新抽到的特性里选四个让角色重新学习  
-<small></small><center><small>[](./文件-连缘咖啡厅-核心变异-新特性预选.jpg.md)  [](./文件-连缘咖啡厅-核心变异-新特性预选.jpg.md)可选择的特性（图片来自专栏）就像这样</small></center>  
+<small></small><center><small><img alt="" src="https://upload.thwiki.cc/thumb/d/d0/%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E6%A0%B8%E5%BF%83%E5%8F%98%E5%BC%82-%E6%96%B0%E7%89%B9%E6%80%A7%E9%A2%84%E9%80%89.jpg/300px-%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E6%A0%B8%E5%BF%83%E5%8F%98%E5%BC%82-%E6%96%B0%E7%89%B9%E6%80%A7%E9%A2%84%E9%80%89.jpg" decoding="async" loading="lazy" width="300" height="136" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/d/d0/%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E6%A0%B8%E5%BF%83%E5%8F%98%E5%BC%82-%E6%96%B0%E7%89%B9%E6%80%A7%E9%A2%84%E9%80%89.jpg/450px-%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E6%A0%B8%E5%BF%83%E5%8F%98%E5%BC%82-%E6%96%B0%E7%89%B9%E6%80%A7%E9%A2%84%E9%80%89.jpg 1.5x, https://upload.thwiki.cc/thumb/d/d0/%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E6%A0%B8%E5%BF%83%E5%8F%98%E5%BC%82-%E6%96%B0%E7%89%B9%E6%80%A7%E9%A2%84%E9%80%89.jpg/600px-%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E6%A0%B8%E5%BF%83%E5%8F%98%E5%BC%82-%E6%96%B0%E7%89%B9%E6%80%A7%E9%A2%84%E9%80%89.jpg 2x" data-file-width="1920" data-file-height="873">
+ [放大](./文件-连缘咖啡厅-核心变异-新特性预选.jpg.md)可选择的特性（图片来自专栏）就像这样</small></center>  
 右边是选中的特性，左边是候补的特性，这里选中那俩候补特性  
-[](./文件-连缘咖啡厅-核心变异-新特性选择.jpg.md)  [](./文件-连缘咖啡厅-核心变异-新特性选择.jpg.md)选择新特性（图片来自专栏）  
+<img alt="" src="https://upload.thwiki.cc/thumb/f/fa/%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E6%A0%B8%E5%BF%83%E5%8F%98%E5%BC%82-%E6%96%B0%E7%89%B9%E6%80%A7%E9%80%89%E6%8B%A9.jpg/300px-%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E6%A0%B8%E5%BF%83%E5%8F%98%E5%BC%82-%E6%96%B0%E7%89%B9%E6%80%A7%E9%80%89%E6%8B%A9.jpg" decoding="async" loading="lazy" width="300" height="136" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/f/fa/%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E6%A0%B8%E5%BF%83%E5%8F%98%E5%BC%82-%E6%96%B0%E7%89%B9%E6%80%A7%E9%80%89%E6%8B%A9.jpg/450px-%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E6%A0%B8%E5%BF%83%E5%8F%98%E5%BC%82-%E6%96%B0%E7%89%B9%E6%80%A7%E9%80%89%E6%8B%A9.jpg 1.5x, https://upload.thwiki.cc/thumb/f/fa/%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E6%A0%B8%E5%BF%83%E5%8F%98%E5%BC%82-%E6%96%B0%E7%89%B9%E6%80%A7%E9%80%89%E6%8B%A9.jpg/600px-%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E6%A0%B8%E5%BF%83%E5%8F%98%E5%BC%82-%E6%96%B0%E7%89%B9%E6%80%A7%E9%80%89%E6%8B%A9.jpg 2x" data-file-width="1920" data-file-height="873">
+ [放大](./文件-连缘咖啡厅-核心变异-新特性选择.jpg.md)选择新特性（图片来自专栏）  
 然后点那个“决定”，变异就完成了  
-[](./文件-连缘咖啡厅-核心变异后.jpg.md)  [](./文件-连缘咖啡厅-核心变异后.jpg.md)就像这样（图片来自专栏）
-  
+<img alt="" src="https://upload.thwiki.cc/thumb/3/37/%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E6%A0%B8%E5%BF%83%E5%8F%98%E5%BC%82%E5%90%8E.jpg/300px-%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E6%A0%B8%E5%BF%83%E5%8F%98%E5%BC%82%E5%90%8E.jpg" decoding="async" loading="lazy" width="300" height="136" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/3/37/%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E6%A0%B8%E5%BF%83%E5%8F%98%E5%BC%82%E5%90%8E.jpg/450px-%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E6%A0%B8%E5%BF%83%E5%8F%98%E5%BC%82%E5%90%8E.jpg 1.5x, https://upload.thwiki.cc/thumb/3/37/%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E6%A0%B8%E5%BF%83%E5%8F%98%E5%BC%82%E5%90%8E.jpg/600px-%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E6%A0%B8%E5%BF%83%E5%8F%98%E5%BC%82%E5%90%8E.jpg 2x" data-file-width="1920" data-file-height="873">
+ [放大](./文件-连缘咖啡厅-核心变异后.jpg.md)就像这样（图片来自专栏）  
 这样，薮雨就有了这两个特性了
   
 
-
 ### 核心深化（コア深化）
-
   
 正式版中，同样的角色只能有一个，不能同时拥有多个相同角色，如果抽卡抽到相同角色的话，就会转化成100个该角色的DISC。这样获得的DISC只能用在这个角色身上。通过任务或者【日常】里“深化的记忆”也可以获得通用的DISC，这些DISC可以用在所有同样评级的单位上（比如都是D级单位的话，青色的DISC就是哪个D级单位都能用）  
-
   
 
-消耗DISC可以进行核心深化，这里我们就深化一个虚伪的秘药[紫][](./文件-连缘咖啡厅-战斗单位核心深化.jpg.md)  [](./文件-连缘咖啡厅-战斗单位核心深化.jpg.md)（图片来自专栏，Deep旧称为Tier）所谓核心深化就是，消费特定的DISC可以提升角色能力的阶段“Deep”。提高Deep可以解锁各种各样的能力  
-
+消耗DISC可以进行核心深化，这里我们就深化一个虚伪的秘药[紫]<img alt="" src="https://upload.thwiki.cc/thumb/3/3c/%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E6%88%98%E6%96%97%E5%8D%95%E4%BD%8D%E6%A0%B8%E5%BF%83%E6%B7%B1%E5%8C%96.jpg/300px-%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E6%88%98%E6%96%97%E5%8D%95%E4%BD%8D%E6%A0%B8%E5%BF%83%E6%B7%B1%E5%8C%96.jpg" decoding="async" loading="lazy" width="300" height="136" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/3/3c/%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E6%88%98%E6%96%97%E5%8D%95%E4%BD%8D%E6%A0%B8%E5%BF%83%E6%B7%B1%E5%8C%96.jpg/450px-%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E6%88%98%E6%96%97%E5%8D%95%E4%BD%8D%E6%A0%B8%E5%BF%83%E6%B7%B1%E5%8C%96.jpg 1.5x, https://upload.thwiki.cc/thumb/3/3c/%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E6%88%98%E6%96%97%E5%8D%95%E4%BD%8D%E6%A0%B8%E5%BF%83%E6%B7%B1%E5%8C%96.jpg/600px-%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E6%88%98%E6%96%97%E5%8D%95%E4%BD%8D%E6%A0%B8%E5%BF%83%E6%B7%B1%E5%8C%96.jpg 2x" data-file-width="1920" data-file-height="873">
+ [放大](./文件-连缘咖啡厅-战斗单位核心深化.jpg.md)（图片来自专栏，Deep旧称为Tier）所谓核心深化就是，消费特定的DISC可以提升角色能力的阶段“Deep”。提高Deep可以解锁各种各样的能力  
   
 从上图我们可以看到有1000个秘药这个角色的DISC和232个青色的DISC  
 
@@ -528,23 +472,22 @@ Deep4时解锁团队技能
 选够DISC，然后点开始，就可以看到深化动画，然后这个战斗单位的Deep就+1了。已经有了的Deep在左边的方框中，描述会由红字变为白字。目前而言Deep最高可以升4层。除此之外，DISC也是符牌抽出和拟态超控的必需品（下述）
   
 
-
-
-### 符牌安装（スペルインストール）  
+### 符牌安装（スペルインストール）
+  
 
 通过【活动】里的关卡可以搞到对应属性的符牌芯片（スペルチップ），不过很强的技能就很难获得了  
-<small></small><center><small>[](./文件-连缘咖啡厅-符牌安装.jpg.md)  [](./文件-连缘咖啡厅-符牌安装.jpg.md)符牌安装界面（图片来自专栏）</small></center>  
+<small></small><center><small><img alt="" src="https://upload.thwiki.cc/thumb/a/a0/%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E7%AC%A6%E7%89%8C%E5%AE%89%E8%A3%85.jpg/300px-%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E7%AC%A6%E7%89%8C%E5%AE%89%E8%A3%85.jpg" decoding="async" loading="lazy" width="300" height="136" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/a/a0/%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E7%AC%A6%E7%89%8C%E5%AE%89%E8%A3%85.jpg/450px-%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E7%AC%A6%E7%89%8C%E5%AE%89%E8%A3%85.jpg 1.5x, https://upload.thwiki.cc/thumb/a/a0/%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E7%AC%A6%E7%89%8C%E5%AE%89%E8%A3%85.jpg/600px-%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E7%AC%A6%E7%89%8C%E5%AE%89%E8%A3%85.jpg 2x" data-file-width="1920" data-file-height="873">
+ [放大](./文件-连缘咖啡厅-符牌安装.jpg.md)符牌安装界面（图片来自专栏）</small></center>  
 符牌不用管角色如何，可以随意给角色安装（比如可以给薮雨安黑白炫光，就像7周年视频那样）  
-
   
   
 但是需要注意的是安装技能会导致原技能被覆盖（如上图所示，正拳突击被换成了特攻降低，这意味着正拳突击就无法在战斗中使用了）  
-
   
   
 
 每个角色都有四个符牌插槽（スペルスロット），插槽上有1-4的编号，而符牌芯片上也有编号1-4，槽里安装的技能必须和芯片上的数字对应才行。如果原本槽里有技能的话，再对该槽安装技能会导致原技能被覆盖（就像上图那样）  
-<small></small><center><small>[](./文件-连缘咖啡厅-符牌安装-选择.jpg.md)  [](./文件-连缘咖啡厅-符牌安装-选择.jpg.md)芯片选择（图片来自专栏）如图所示，盲化射击、背叛的三人、特攻降低全是3号位的，这意味着这些技能只能被安装在3号而不能安在别的地方。</small></center>  
+<small></small><center><small><img alt="" src="https://upload.thwiki.cc/thumb/8/81/%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E7%AC%A6%E7%89%8C%E5%AE%89%E8%A3%85-%E9%80%89%E6%8B%A9.jpg/300px-%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E7%AC%A6%E7%89%8C%E5%AE%89%E8%A3%85-%E9%80%89%E6%8B%A9.jpg" decoding="async" loading="lazy" width="300" height="136" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/8/81/%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E7%AC%A6%E7%89%8C%E5%AE%89%E8%A3%85-%E9%80%89%E6%8B%A9.jpg/450px-%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E7%AC%A6%E7%89%8C%E5%AE%89%E8%A3%85-%E9%80%89%E6%8B%A9.jpg 1.5x, https://upload.thwiki.cc/thumb/8/81/%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E7%AC%A6%E7%89%8C%E5%AE%89%E8%A3%85-%E9%80%89%E6%8B%A9.jpg/600px-%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E7%AC%A6%E7%89%8C%E5%AE%89%E8%A3%85-%E9%80%89%E6%8B%A9.jpg 2x" data-file-width="1920" data-file-height="873">
+ [放大](./文件-连缘咖啡厅-符牌安装-选择.jpg.md)芯片选择（图片来自专栏）如图所示，盲化射击、背叛的三人、特攻降低全是3号位的，这意味着这些技能只能被安装在3号而不能安在别的地方。</small></center>  
 一般而言技能越强编号越大（比如次元剥离和黑白炫光都是4号）
   
 
@@ -553,12 +496,12 @@ Deep4时解锁团队技能
 通俗地说就是强化技能等级。在这里可以通过消耗符牌强化素材和符牌芯片来强化技能。强化符牌芯片通常可以提升伤害/回复量/特殊效果概率，也可以减少MP消耗，具体技能详情可见强化技能选择时出现的满级效果预览  
 
 选择技能的时候要注意技能前方的字母，B是bomb，F是flashbomb，数字是对应技能位上的技能  
-
   
   
 
 技能芯片名后方的数字只表示对应技能位置，但是强化素材括号内的数字表示等级（1、2、3），技能也有等级之分，个人推测能在芯片获取副本中easy和normal难度中获取的芯片技能需要使用素材1强化；hard和unreal难度中获取的芯片技能需要使用素材2强化；S级战斗单位独有的技能需要强化素材3强化  
-[](./文件-连缘咖啡厅-符牌深化.jpg.md)  [](./文件-连缘咖啡厅-符牌深化.jpg.md)符牌深化界面  
+<img alt="" src="https://upload.thwiki.cc/thumb/8/87/%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E7%AC%A6%E7%89%8C%E6%B7%B1%E5%8C%96.jpg/300px-%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E7%AC%A6%E7%89%8C%E6%B7%B1%E5%8C%96.jpg" decoding="async" loading="lazy" width="300" height="138" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/8/87/%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E7%AC%A6%E7%89%8C%E6%B7%B1%E5%8C%96.jpg/450px-%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E7%AC%A6%E7%89%8C%E6%B7%B1%E5%8C%96.jpg 1.5x, https://upload.thwiki.cc/thumb/8/87/%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E7%AC%A6%E7%89%8C%E6%B7%B1%E5%8C%96.jpg/600px-%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E7%AC%A6%E7%89%8C%E6%B7%B1%E5%8C%96.jpg 2x" data-file-width="2340" data-file-height="1080">
+ [放大](./文件-连缘咖啡厅-符牌深化.jpg.md)符牌深化界面  
 此为完成战斗单位选择后的画面，红框中的文本为当前强化后效果预览
   
 
@@ -566,14 +509,11 @@ Deep4时解锁团队技能
   
 用符牌抽出可以把一个角色的技能提取出来变成符牌芯片（需要消耗DISC）
   
-
-<small></small><center><small>
-[](./文件-连缘咖啡厅-符牌抽出.jpg.md)  [](./文件-连缘咖啡厅-符牌抽出.jpg.md)符牌抽出（图片来自专栏原文）
-符牌抽出界面</small></center>
-  
+<small></small><center><small><img alt="" src="https://upload.thwiki.cc/thumb/e/e6/%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E7%AC%A6%E7%89%8C%E6%8A%BD%E5%87%BA.jpg/300px-%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E7%AC%A6%E7%89%8C%E6%8A%BD%E5%87%BA.jpg" decoding="async" loading="lazy" width="300" height="136" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/e/e6/%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E7%AC%A6%E7%89%8C%E6%8A%BD%E5%87%BA.jpg/450px-%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E7%AC%A6%E7%89%8C%E6%8A%BD%E5%87%BA.jpg 1.5x, https://upload.thwiki.cc/thumb/e/e6/%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E7%AC%A6%E7%89%8C%E6%8A%BD%E5%87%BA.jpg/600px-%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85-%E7%AC%A6%E7%89%8C%E6%8A%BD%E5%87%BA.jpg 2x" data-file-width="1920" data-file-height="873">
+ [放大](./文件-连缘咖啡厅-符牌抽出.jpg.md)符牌抽出（图片来自专栏原文）
+符牌抽出界面</small></center>  
 符牌抽出后被抽的角色不会丢失原来的技能，如图所示秘药的一技能“质子枪”如果被抽出后，秘药仍旧可以使用质子枪这一技能
   
-
 
 ### 拟态超控（擬態オーバーライド）
   
@@ -584,7 +524,6 @@ Deep4时解锁团队技能
 我没怎么用过这个功能所以没法详细说明了，不好意思啊（
   
 
-
 ### 装备强化（インプラント深化）
   
 （本段落为该界面左上角“？”翻译）在这里选择强化装备。可以通过消耗重复的相同装备或装备等级对应的强化素材来提升装备的能力。装备强化时的上升量由概率决定，1次最多上升10级。但是LV越高，失败的概率也就越大。【失败概率=当前等级/当前等级+10(最大100)】  
@@ -592,20 +531,9 @@ Deep4时解锁团队技能
 目前的装备均有两项增益效果，强化时随机增加某一项或两项增益的等级
   
 
-
 ## 外部链接
+
 - [专栏原文](https://www.bilibili.com/read/cv11682374)
-
-
-## 词条导航
-  
-  
-
-<table><tbody><tr><td><table cellspacing="0" class="nowraplinks mw-collapsible mw-collapsed" style="width:100%;;;"><tbody><tr><th style=";" colspan="3" class="navbox-title"><div class="navbar"><div class="noprint plainlinksneverexpand" style="background-color:transparent; padding:0; font-weight:normal; font-size:80%; white-space:nowrap;"><a href="./模板-连缘咖啡厅导航.md" title="模板:连缘咖啡厅导航"><span style=";;border:none;" title="查看这个模板">查</span></a>&#160;<span style="font-size:80%;">•</span>&#160;<a href="/index.php?title=%E6%A8%A1%E6%9D%BF:%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85%E5%AF%BC%E8%88%AA&amp;action=edit"><span style=";;border:none;" title="您可以编辑这个模板。请在储存变更之前先预览">编</span></a></div></div><span><a href="./连缘咖啡厅_～_BOOK_of_the_CAFE.md" title="连缘咖啡厅 ～ BOOK of the CAFE">连缘咖啡厅 ～ BOOK of the CAFE</a></span></th></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">角色</td><td style=";;" class="navbox-list navbox-odd"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>店员</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./凤联薮雨.md" title="凤联薮雨">凤联薮雨</a> &#8226; <a href="./燕乐玄鸟.md" title="燕乐玄鸟">燕乐玄鸟</a> &#8226; <a href="./乌蛇.md" title="乌蛇">乌蛇</a> &#8226; <a href="./鹀蒿雀.md" title="鹀蒿雀">鹀蒿雀</a> &#8226; <a href="./鹀颊赤.md" title="鹀颊赤">鹀颊赤</a> &#8226; <a href="./鹀黑巫鸟.md" title="鹀黑巫鸟">鹀黑巫鸟</a> &#8226; <a href="./（前略）克劳斯（后略）.md" title="（前略）克劳斯（后略）">（前略）克劳斯（后略）</a> &#8226; <a href="./阐里鹤喰.md" title="阐里鹤喰">阐里鹤喰</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>战斗角色</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./NiLU.md" title="NiLU">NiLU</a> &#8226; <a href="./Tom_C._Zemlja.md" title="Tom C. Zemlja">Tom C. Zemlja</a></div></td></tr></tbody></table><div></div></td><td class="navbox-image" style="" rowspan="5"><a href="./文件-连缘咖啡厅_～_BOOK_of_the_CAFE封面.png.md" class="image"><img alt="连缘咖啡厅 ～ BOOK of the CAFE封面.png" src="https://upload.thwiki.cc/thumb/2/22/%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85_%EF%BD%9E_BOOK_of_the_CAFE%E5%B0%81%E9%9D%A2.png/160px-%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85_%EF%BD%9E_BOOK_of_the_CAFE%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="160" height="75" srcset="https://upload.thwiki.cc/thumb/2/22/%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85_%EF%BD%9E_BOOK_of_the_CAFE%E5%B0%81%E9%9D%A2.png/240px-%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85_%EF%BD%9E_BOOK_of_the_CAFE%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/2/22/%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85_%EF%BD%9E_BOOK_of_the_CAFE%E5%B0%81%E9%9D%A2.png/320px-%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85_%EF%BD%9E_BOOK_of_the_CAFE%E5%B0%81%E9%9D%A2.png 2x" data-file-width="512" data-file-height="240"></a></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">音乐</td><td style=";;" class="navbox-list navbox-odd"><div><a href="./连缘咖啡厅_～_BOOK_of_the_CAFE-Music.md" title="连缘咖啡厅 ～ BOOK of the CAFE/Music">Music</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">其他资料</td><td style=";;" class="navbox-list navbox-even"><div><a href="./连缘咖啡厅_～_BOOK_of_the_CAFE-攻略.md" title="连缘咖啡厅 ～ BOOK of the CAFE/攻略">游戏攻略</a></div></td></tr></tbody></table></td></tr></tbody></table>
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:B.U.D封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\17\ns6%3AB%2EU%2ED%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\17\ns6%3AB%2EU%2ED%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 スタジオネネム | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [B.U.D](./B.U.D.md)  
-该封面包含的角色：- [小野塚小町](./小野塚小町.md)
-
-
-
+- [B.U.D](./B.U.D.md)该封面包含的角色：
+- [小野塚小町](./小野塚小町.md)
 
 
 ---

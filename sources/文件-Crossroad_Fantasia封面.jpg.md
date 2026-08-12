@@ -1,6 +1,6 @@
 # 文件:Crossroad_Fantasia封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9e\ns6%3ACrossroad_Fantasia%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9e\ns6%3ACrossroad_Fantasia%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 L-ZONE | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ L-ZONE | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Crossroad Fantasia](./Crossroad_Fantasia.md)  
-该封面包含的角色：- [八云紫](./八云紫.md)
+- [Crossroad Fantasia](./Crossroad_Fantasia.md)该封面包含的角色：
+- [八云紫](./八云紫.md)
 
   
-源地址：[[1]](http://heiwasou.info/l-zone/application/files/8214/7921/9648/Pre1.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://heiwasou.info/l-zone/application/files/8214/7921/9648/Pre1.jpg)  
 
 ---
 

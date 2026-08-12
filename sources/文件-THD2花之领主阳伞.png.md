@@ -1,12 +1,8 @@
 # 文件:THD2花之领主阳伞.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d2\ns6%3ATHD2%E8%8A%B1%E4%B9%8B%E9%A2%86%E4%B8%BB%E9%98%B3%E4%BC%9E%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d2\ns6%3ATHD2%E8%8A%B1%E4%B9%8B%E9%A2%86%E4%B8%BB%E9%98%B3%E4%BC%9E%2Epng.html -->
 
 AvalonStudioOfficial
-
-
-
-
 
 
 ---

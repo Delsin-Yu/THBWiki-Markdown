@@ -1,6 +1,6 @@
 # 文件:秘々封々：Wing封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\82\ns6%3A%E7%A7%98%E3%80%85%E5%B0%81%E3%80%85%EF%BC%9AWing%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\82\ns6%3A%E7%A7%98%E3%80%85%E5%B0%81%E3%80%85%EF%BC%9AWing%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 一言芳恩社 | 同人志封面 | 封面图片
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [秘々封々：Wing](./秘々封々：Wing.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [秘々封々：Wing](./秘々封々：Wing.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

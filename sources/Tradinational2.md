@@ -1,23 +1,20 @@
 # Tradinational2
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\6f\ns0%3ATradinational2.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\6f\ns0%3ATradinational2.html -->
 
 2023年11月12日 由 GOOD LUC9 于 博丽神社秋季例大祭10 发布的合同志/画集同人志，B5尺寸一共88页，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人志 (未找到链接)** 的词条
-
+**[二次创作同人志](./二次创作.md#同人志)**的词条
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Tradinational2封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/8/8d/Tradinational2%E5%B0%81%E9%9D%A2.jpg/140px-Tradinational2%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="140" height="196" srcset="https://upload.thwiki.cc/thumb/8/8d/Tradinational2%E5%B0%81%E9%9D%A2.jpg/210px-Tradinational2%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/8/8d/Tradinational2%E5%B0%81%E9%9D%A2.jpg/280px-Tradinational2%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="2591" data-file-height="3624"></a><div class="cover-char">角色：<a href="./鬼人正邪.md" title="鬼人正邪">鬼人正邪</a></div></td>
 </tr><tr><td class="label">名称</td><td colspan="2"> Tradinational2 </td></tr><tr><td class="label">制作方</td><td><a href="./GOOD_LUC9.md" title="GOOD LUC9">GOOD LUC9</a></td><td class="cover-artwork" rowspan="7" style="min-width:196px;"><a href="./文件-Tradinational2封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/8/8d/Tradinational2%E5%B0%81%E9%9D%A2.jpg/140px-Tradinational2%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="140" height="196" srcset="https://upload.thwiki.cc/thumb/8/8d/Tradinational2%E5%B0%81%E9%9D%A2.jpg/210px-Tradinational2%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/8/8d/Tradinational2%E5%B0%81%E9%9D%A2.jpg/280px-Tradinational2%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="2591" data-file-height="3624"></a><div class="cover-char">角色：<a href="./鬼人正邪.md" title="鬼人正邪">鬼人正邪</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2023-11-12&#160;（<a href="/展会作品列表?e=%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E7%A7%8B%E5%AD%A3%E4%BE%8B%E5%A4%A7%E7%A5%AD%2310">第十回 博麗神社秋季例大祭</a>）</td></tr><tr><td class="label">类型</td><td>合同志，画集</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>B5</td></tr><tr><td class="label">页数</td><td>88P</td></tr><tr><td class="label">售价</td><td>会场售价：2000日元<br>通贩售价：2856日元</td></tr>
+</tr><tr><td class="label">首发日期</td><td>2023-11-12 （<a href="./展会作品列表.md#10">第十回 博麗神社秋季例大祭</a>）</td></tr><tr><td class="label">类型</td><td>合同志，画集</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>B5</td></tr><tr><td class="label">页数</td><td>88P</td></tr><tr><td class="label">售价</td><td>会场售价：2000日元<br>通贩售价：2856日元</td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/GSX250R_ANZIO/status/1719625321735999739">https://twitter.com/GSX250R_ANZIO/status/1719625321735999739</a><br><a rel="nofollow" class="external free" href="https://twitter.com/GSX250R_ANZIO/status/1721437264100680155">https://twitter.com/GSX250R_ANZIO/status/1721437264100680155</a><br><a rel="nofollow" class="external free" href="https://twitter.com/GSX250R_ANZIO/status/1721514556340797703">https://twitter.com/GSX250R_ANZIO/status/1721514556340797703</a></td></tr><tr><td class="label">备注</td><td colspan="2">東方民族衣装合同</td></tr></tbody></table>
 
 Tradinational2（同人志，GOOD LUC9，2023） - 2023年11月12日 由 GOOD LUC9 于 博丽神社秋季例大祭10 发布的合同志/画集同人志，B5尺寸一共88页，分级为 一般向
-
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=2135658">蜜瓜</a></td></tr></tbody></table>
-
 
 
 ## 预览
@@ -91,17 +88,12 @@ Tradinational2（同人志，GOOD LUC9，2023） - 2023年11月12日 由 GOOD LU
 : 餅千歳 （[亜栗庵本舗](./亜栗庵本舗.md) / [Twitter: @mochitoseaguri](https://twitter.com/mochitoseaguri)）
 : さばこ （[Pixiv ID: 20884806](https://www.pixiv.net/users/20884806) / [Twitter: @sabakounko](https://twitter.com/sabakounko)）
 : サーモン （[Twitter: @salmon082](https://twitter.com/salmon082)）
-
 封面绘画
 : ヨノイ （[解剖学の少年](./解剖学の少年.md)）
 封面设计
 : ぬめの （[NMN store](./NMN_store.md)）
 
-
 ## 评论
-
-
-
 
 ---
 

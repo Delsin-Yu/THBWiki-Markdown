@@ -1,6 +1,6 @@
 # 文件:After_the_Morning_Glow封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\59\ns6%3AAfter_the_Morning_Glow%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\59\ns6%3AAfter_the_Morning_Glow%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 カフェ・ド・松原 | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [After the Morning Glow](./After_the_Morning_Glow.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [After the Morning Glow](./After_the_Morning_Glow.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

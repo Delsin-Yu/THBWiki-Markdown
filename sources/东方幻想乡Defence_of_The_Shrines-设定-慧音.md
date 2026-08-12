@@ -1,31 +1,27 @@
 # 东方幻想乡Defence_of_The_Shrines/设定/慧音
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\67\ns0%3A%E4%B8%9C%E6%96%B9%E5%B9%BB%E6%83%B3%E4%B9%A1Defence_of_The_Shrines%2F%E8%AE%BE%E5%AE%9A%2F%E6%85%A7%E9%9F%B3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\67\ns0%3A%E4%B8%9C%E6%96%B9%E5%B9%BB%E6%83%B3%E4%B9%A1Defence_of_The_Shrines%2F%E8%AE%BE%E5%AE%9A%2F%E6%85%A7%E9%9F%B3.html -->
 
 东方DOTS制作组
 
   
-[](./文件-THD-Keine-E1.jpg.md)
+<img alt="THD-Keine-E1.jpg" src="https://upload.thwiki.cc/e/ea/THD-Keine-E1.jpg" decoding="async" loading="lazy" width="399" height="99" data-file-width="399" data-file-height="99">
   
   
-[](./文件-THD-Keine-E2.jpg.md)
+<img alt="THD-Keine-E2.jpg" src="https://upload.thwiki.cc/9/99/THD-Keine-E2.jpg" decoding="async" loading="lazy" width="409" height="109" data-file-width="409" data-file-height="109">
   
   
-[](./文件-THD-Keine-D.jpg.md)
+<img alt="THD-Keine-D.jpg" src="https://upload.thwiki.cc/8/83/THD-Keine-D.jpg" decoding="async" loading="lazy" width="400" height="272" data-file-width="400" data-file-height="272">
   
   
-[](./文件-THD-Keine-F.jpg.md)
+<img alt="THD-Keine-F.jpg" src="https://upload.thwiki.cc/6/62/THD-Keine-F.jpg" decoding="async" loading="lazy" width="395" height="265" data-file-width="395" data-file-height="265">
   
   
-[](./文件-THD-Keine-R.jpg.md)
+<img alt="THD-Keine-R.jpg" src="https://upload.thwiki.cc/4/45/THD-Keine-R.jpg" decoding="async" loading="lazy" width="394" height="380" data-file-width="394" data-file-height="380">
   
   
-[](./文件-THD-Keine-W.jpg.md)
+<img alt="THD-Keine-W.jpg" src="https://upload.thwiki.cc/b/b4/THD-Keine-W.jpg" decoding="async" loading="lazy" width="397" height="310" data-file-width="397" data-file-height="310">
   
-
-
-
-
 
 ---
 

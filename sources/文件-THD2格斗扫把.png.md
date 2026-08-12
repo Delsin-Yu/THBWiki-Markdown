@@ -1,12 +1,8 @@
 # 文件:THD2格斗扫把.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\19\ns6%3ATHD2%E6%A0%BC%E6%96%97%E6%89%AB%E6%8A%8A%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\19\ns6%3ATHD2%E6%A0%BC%E6%96%97%E6%89%AB%E6%8A%8A%2Epng.html -->
 
 AvalonStudioOfficial
-
-
-
-
 
 
 ---

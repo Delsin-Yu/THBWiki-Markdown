@@ -1,6 +1,6 @@
 # 文件:A.C.O封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1c\ns6%3AA%2EC%2EO%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1c\ns6%3AA%2EC%2EO%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Better_Half | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@ Better_Half | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [A.C.O](./A.C.O.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
+- [A.C.O](./A.C.O.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-源地址：[direct image link](https://t-tsu.com/t2wp/wp-content/uploads/2020/01/aco.png), [source page](https://t-tsu.com/portfolio/)
-  
-
-
-
-
+源地址：[direct image link](https://t-tsu.com/t2wp/wp-content/uploads/2020/01/aco.png), [source page](https://t-tsu.com/portfolio/)  
 
 ---
 

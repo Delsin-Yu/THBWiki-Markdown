@@ -1,6 +1,6 @@
 # 东方幻想乡Defence_of_The_Shrines/设定/红三
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\d\d3\ns0%3A%E4%B8%9C%E6%96%B9%E5%B9%BB%E6%83%B3%E4%B9%A1Defence_of_The_Shrines%2F%E8%AE%BE%E5%AE%9A%2F%E7%BA%A2%E4%B8%89.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\d\d3\ns0%3A%E4%B8%9C%E6%96%B9%E5%B9%BB%E6%83%B3%E4%B9%A1Defence_of_The_Shrines%2F%E8%AE%BE%E5%AE%9A%2F%E7%BA%A2%E4%B8%89.html -->
 
 东方DOTS制作组
 
@@ -10,12 +10,10 @@
   
 星熊勇仪
   
-
-
   
-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;力量： 30    
+                力量： 30    
 
-&#160;类型：力量       敏捷： 17   
+ 类型：力量       敏捷： 17   
 
 HP： 735        智力： 13   
 
@@ -27,30 +25,24 @@ MP： 200        力量成长： 3.25
 
 射程： 125       初始攻击力： 65~68
   
-
-
   
-[](./文件-THD-Yugi.jpg.md)
+<img alt="THD-Yugi.jpg" src="https://upload.thwiki.cc/1/17/THD-Yugi.jpg" decoding="async" loading="lazy" width="647" height="153" data-file-width="647" data-file-height="153">
   
   
-[](./文件-THD-Yugie.jpg.md)
+<img alt="THD-Yugie.jpg" src="https://upload.thwiki.cc/1/1f/THD-Yugie.jpg" decoding="async" loading="lazy" width="448" height="131" data-file-width="448" data-file-height="131">
   
   
-[](./文件-THD-Yugid.jpg.md)
+<img alt="THD-Yugid.jpg" src="https://upload.thwiki.cc/1/12/THD-Yugid.jpg" decoding="async" loading="lazy" width="447" height="248" data-file-width="447" data-file-height="248">
   
   
-[](./文件-THD-Yugig.jpg.md)
+<img alt="THD-Yugig.jpg" src="https://upload.thwiki.cc/4/45/THD-Yugig.jpg" decoding="async" loading="lazy" width="445" height="205" data-file-width="445" data-file-height="205">
   
   
-[](./文件-THD-Yugir.jpg.md)
+<img alt="THD-Yugir.jpg" src="https://upload.thwiki.cc/1/1b/THD-Yugir.jpg" decoding="async" loading="lazy" width="431" height="140" data-file-width="431" data-file-height="140">
   
   
-[](./文件-THD-Yugiw.jpg.md)
+<img alt="THD-Yugiw.jpg" src="https://upload.thwiki.cc/2/23/THD-Yugiw.jpg" decoding="async" loading="lazy" width="441" height="174" data-file-width="441" data-file-height="174">
   
-
-
-
-
 
 ---
 

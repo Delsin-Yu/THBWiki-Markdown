@@ -1,18 +1,13 @@
 # 文件:BAT☆STARlogo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\df\ns6%3ABAT%E2%98%86STARlogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\df\ns6%3ABAT%E2%98%86STARlogo%2Ejpg.html -->
 
 BAT☆STAR | 社团LOGO
 
 
 ## 摘要
   
-源地址：[direct image link](https://www.doujin.com.tw/uploads/groups/f3/f3/f3f346cf8a04871500259ef168efcffe_120.jpg), [source page](https://www.doujin.com.tw/groups/info/250)
-  
-
-
-
-
+源地址：[direct image link](https://www.doujin.com.tw/uploads/groups/f3/f3/f3f346cf8a04871500259ef168efcffe_120.jpg), [source page](https://www.doujin.com.tw/groups/info/250)  
 
 ---
 

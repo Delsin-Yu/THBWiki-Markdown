@@ -1,6 +1,6 @@
 # 文件:東方地雷女！_-TOHO_CIRCLE_CLASHEEEEEER-封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\69\ns6%3A%E6%9D%B1%E6%96%B9%E5%9C%B0%E9%9B%B7%E5%A5%B3%EF%BC%81_-TOHO_CIRCLE_CLASHEEEEEER-%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\69\ns6%3A%E6%9D%B1%E6%96%B9%E5%9C%B0%E9%9B%B7%E5%A5%B3%EF%BC%81_-TOHO_CIRCLE_CLASHEEEEEER-%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 M.H.S | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ M.H.S | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方地雷女！ -TOHO CIRCLE CLASHEEEEEER-](./東方地雷女！_-TOHO_CIRCLE_CLASHEEEEEER-.md)  
-该封面包含的角色：- [东风谷早苗](./东风谷早苗.md)
-
-
-
+- [東方地雷女！ -TOHO CIRCLE CLASHEEEEEER-](./東方地雷女！_-TOHO_CIRCLE_CLASHEEEEEER-.md)该封面包含的角色：
+- [东风谷早苗](./东风谷早苗.md)
 
 
 ---

@@ -1,14 +1,11 @@
 # 文件:The_Grimoire_of_Usami（九十九八桥1）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\60\ns6%3AThe_Grimoire_of_Usami%EF%BC%88%E4%B9%9D%E5%8D%81%E4%B9%9D%E5%85%AB%E6%A1%A51%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\60\ns6%3AThe_Grimoire_of_Usami%EF%BC%88%E4%B9%9D%E5%8D%81%E4%B9%9D%E5%85%AB%E6%A1%A51%EF%BC%89%2Ejpg.html -->
 
 九十九八桥 | 宇佐见的魔法书
 
 
 ## 摘要
-
-
-
 
 ---
 

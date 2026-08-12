@@ -1,6 +1,6 @@
 # 文件:東方pfh1封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\37\ns6%3A%E6%9D%B1%E6%96%B9pfh1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\37\ns6%3A%E6%9D%B1%E6%96%B9pfh1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Sound_Escape | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ Sound_Escape | 专辑封面 | 封面图片
   
 
 - [東方pfh1](./東方pfh1.md)
-
-
-
 
 
 ---

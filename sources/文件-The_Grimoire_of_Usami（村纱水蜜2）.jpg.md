@@ -1,14 +1,11 @@
 # 文件:The_Grimoire_of_Usami（村纱水蜜2）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7f\ns6%3AThe_Grimoire_of_Usami%EF%BC%88%E6%9D%91%E7%BA%B1%E6%B0%B4%E8%9C%9C2%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7f\ns6%3AThe_Grimoire_of_Usami%EF%BC%88%E6%9D%91%E7%BA%B1%E6%B0%B4%E8%9C%9C2%EF%BC%89%2Ejpg.html -->
 
 宇佐见的魔法书 | 村纱水蜜
 
 
 ## 摘要
-
-
-
 
 ---
 

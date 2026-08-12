@@ -1,12 +1,8 @@
 # 文件:THD2雪女的围巾.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\18\ns6%3ATHD2%E9%9B%AA%E5%A5%B3%E7%9A%84%E5%9B%B4%E5%B7%BE%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\18\ns6%3ATHD2%E9%9B%AA%E5%A5%B3%E7%9A%84%E5%9B%B4%E5%B7%BE%2Epng.html -->
 
 东方DOTS玩家社群
-
-
-
-
 
 
 ---

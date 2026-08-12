@@ -1,14 +1,11 @@
 # 文件:L連.NETbanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0e\ns6%3AL%E9%80%A3%2ENETbanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0e\ns6%3AL%E9%80%A3%2ENETbanner%2Egif.html -->
 
 L連.NET | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

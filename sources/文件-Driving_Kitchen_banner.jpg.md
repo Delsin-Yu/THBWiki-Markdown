@@ -1,14 +1,11 @@
 # 文件:Driving_Kitchen_banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fa\ns6%3ADriving_Kitchen_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fa\ns6%3ADriving_Kitchen_banner%2Ejpg.html -->
 
 Driving_Kitchen | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

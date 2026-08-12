@@ -1,12 +1,8 @@
 # 文件:囧仙子通贩LOGO.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\16\ns6%3A%E5%9B%A7%E4%BB%99%E5%AD%90%E9%80%9A%E8%B4%A9LOGO%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\16\ns6%3A%E5%9B%A7%E4%BB%99%E5%AD%90%E9%80%9A%E8%B4%A9LOGO%2Epng.html -->
 
 囧仙子通贩 | 社团LOGO
-
-
-
-
 
 
 ---

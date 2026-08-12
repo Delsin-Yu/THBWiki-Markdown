@@ -1,12 +1,8 @@
 # 文件:Oriental_Magician.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f6\ns6%3AOriental_Magician%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f6\ns6%3AOriental_Magician%2Emp3.html -->
 
 Oriental_Magician | 东方灵异传 | 原曲MP3
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:GIFT（PIANISSIMO）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\18\ns6%3AGIFT%EF%BC%88PIANISSIMO%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\18\ns6%3AGIFT%EF%BC%88PIANISSIMO%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 PIANISSIMO | 同人志封面 | 封面图片
 
@@ -8,11 +8,9 @@ PIANISSIMO | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [GIFT（PIANISSIMO）](./GIFT（PIANISSIMO）.md)  
-该封面包含的角色：- [幽谷响子](./幽谷响子.md)- [依神女苑](./依神女苑.md)
-
-
-
+- [GIFT（PIANISSIMO）](./GIFT（PIANISSIMO）.md)该封面包含的角色：
+- [幽谷响子](./幽谷响子.md)
+- [依神女苑](./依神女苑.md)
 
 
 ---

@@ -1,12 +1,13 @@
 # 东方系列人气投票/第十八回EX
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\e\e7\ns0%3A%E4%B8%9C%E6%96%B9%E7%B3%BB%E5%88%97%E4%BA%BA%E6%B0%94%E6%8A%95%E7%A5%A8%2F%E7%AC%AC%E5%8D%81%E5%85%AB%E5%9B%9EEX.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\e\e7\ns0%3A%E4%B8%9C%E6%96%B9%E7%B3%BB%E5%88%97%E4%BA%BA%E6%B0%94%E6%8A%95%E7%A5%A8%2F%E7%AC%AC%E5%8D%81%E5%85%AB%E5%9B%9EEX.html -->
 
 东方系列人气投票
 
-[](./文件-东方系列人气投票第十八回EXbanner.png.md)
+<img alt="东方系列人气投票第十八回EXbanner.png" src="https://upload.thwiki.cc/d/df/%E4%B8%9C%E6%96%B9%E7%B3%BB%E5%88%97%E4%BA%BA%E6%B0%94%E6%8A%95%E7%A5%A8%E7%AC%AC%E5%8D%81%E5%85%AB%E5%9B%9EEXbanner.png" decoding="async" loading="lazy" width="469" height="61" data-file-width="469" data-file-height="61">
+
 - 本页面内容是东方系列第十八回人气投票EX。
-- 原投票地址：[[1]](https://toho-vote.info/)
+- 原投票地址：[\[1\]](https://toho-vote.info/)
 
 
 ## 投票信息
@@ -17,26 +18,13 @@
 Rival部门（组合部门），每人最多可以投3组。  
 
 3组中的第一组必填，计2分，其余两组分别按1分进行统计。  
-
   
-
 
 ## 投票结果
-  
 <big>
-</big>  
-<big>- [组合部门](./东方系列人气投票-第十八回EX-组合部门.md)
-</big><big></big>  
-<big></big>  
+- [组合部门](./东方系列人气投票-第十八回EX-组合部门.md)
 
-  
-
-  
-
-
-
-
-
+</big>
 ---
 
 此文档由 [THBWiki-Markdown-Builder](https://github.com/Delsin-Yu/THBWiki-Markdown-Builder) 构建。

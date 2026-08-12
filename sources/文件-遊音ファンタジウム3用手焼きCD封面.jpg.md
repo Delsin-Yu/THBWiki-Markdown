@@ -1,6 +1,6 @@
 # 文件:遊音ファンタジウム3用手焼きCD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a1\ns6%3A%E9%81%8A%E9%9F%B3%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%82%A6%E3%83%A03%E7%94%A8%E6%89%8B%E7%84%BC%E3%81%8DCD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a1\ns6%3A%E9%81%8A%E9%9F%B3%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%82%A6%E3%83%A03%E7%94%A8%E6%89%8B%E7%84%BC%E3%81%8DCD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 mochi_season | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ mochi_season | 专辑封面 | 封面图片
   
 
 - [遊音ファンタジウム3用手焼きCD](./遊音ファンタジウム3用手焼きCD.md)
-
-
-
 
 
 ---

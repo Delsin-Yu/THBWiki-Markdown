@@ -1,6 +1,6 @@
 # 文件:また妖々夢のEDが見たくなる本。封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\46\ns6%3A%E3%81%BE%E3%81%9F%E5%A6%96%E3%80%85%E5%A4%A2%E3%81%AEED%E3%81%8C%E8%A6%8B%E3%81%9F%E3%81%8F%E3%81%AA%E3%82%8B%E6%9C%AC%E3%80%82%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\46\ns6%3A%E3%81%BE%E3%81%9F%E5%A6%96%E3%80%85%E5%A4%A2%E3%81%AEED%E3%81%8C%E8%A6%8B%E3%81%9F%E3%81%8F%E3%81%AA%E3%82%8B%E6%9C%AC%E3%80%82%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Pumpkin_City | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@ Pumpkin_City | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [また妖々夢のEDが見たくなる本。](./また妖々夢のEDが見たくなる本。.md)  
-该封面包含的角色：- [西行寺幽幽子](./西行寺幽幽子.md)
-
-
-
+- [また妖々夢のEDが見たくなる本。](./また妖々夢のEDが見たくなる本。.md)该封面包含的角色：
+- [西行寺幽幽子](./西行寺幽幽子.md)
 
 
 ---

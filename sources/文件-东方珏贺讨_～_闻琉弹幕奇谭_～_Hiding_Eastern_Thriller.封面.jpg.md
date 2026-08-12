@@ -1,6 +1,6 @@
 # 文件:东方珏贺讨_～_闻琉弹幕奇谭_～_Hiding_Eastern_Thriller.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7a\ns6%3A%E4%B8%9C%E6%96%B9%E7%8F%8F%E8%B4%BA%E8%AE%A8_%EF%BD%9E_%E9%97%BB%E7%90%89%E5%BC%B9%E5%B9%95%E5%A5%87%E8%B0%AD_%EF%BD%9E_Hiding_Eastern_Thriller%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7a\ns6%3A%E4%B8%9C%E6%96%B9%E7%8F%8F%E8%B4%BA%E8%AE%A8_%EF%BD%9E_%E9%97%BB%E7%90%89%E5%BC%B9%E5%B9%95%E5%A5%87%E8%B0%AD_%EF%BD%9E_Hiding_Eastern_Thriller%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 封面图片 | 纷鸟境虹谈制作组 | 软件封面
 
@@ -11,9 +11,6 @@
   
 
 - [东方珏贺讨 ～ 闻琉弹幕奇谭 ～ Hiding Eastern Thriller.](./东方珏贺讨_～_闻琉弹幕奇谭_～_Hiding_Eastern_Thriller..md)
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:幻想シンセサイザ2_-accel-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f8\ns6%3A%E5%B9%BB%E6%83%B3%E3%82%B7%E3%83%B3%E3%82%BB%E3%82%B5%E3%82%A4%E3%82%B62_-accel-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f8\ns6%3A%E5%B9%BB%E6%83%B3%E3%82%B7%E3%83%B3%E3%82%BB%E3%82%B5%E3%82%A4%E3%82%B62_-accel-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 グロテスクグリーン | 专辑封面 | 封面图片
 
@@ -8,12 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [幻想シンセサイザ2 -accel-](./幻想シンセサイザ2_-accel-.md)  
-该封面包含的角色：- [封兽鵺](./封兽鵺.md)源地址：[[1]](https://blog-imgs-43.fc2.com/g/r/o/grogre/grogre_02_jake.jpg)
-
-
-
-
+- [幻想シンセサイザ2 -accel-](./幻想シンセサイザ2_-accel-.md)该封面包含的角色：
+- [封兽鵺](./封兽鵺.md)
+源地址：[\[1\]](https://blog-imgs-43.fc2.com/g/r/o/grogre/grogre_02_jake.jpg)
 
 ---
 

@@ -1,12 +1,8 @@
 # 文件:Xenoglossybanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d8\ns6%3AXenoglossybanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d8\ns6%3AXenoglossybanner%2Epng.html -->
 
 Xenoglossy | 社团LOGO
-
-
-
-
 
 
 ---

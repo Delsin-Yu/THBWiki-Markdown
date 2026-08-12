@@ -1,6 +1,6 @@
 # 文件:夢想色彩集２_BlackWing-鴉羽-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c1\ns6%3A%E5%A4%A2%E6%83%B3%E8%89%B2%E5%BD%A9%E9%9B%86%EF%BC%92_BlackWing-%E9%B4%89%E7%BE%BD-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c1\ns6%3A%E5%A4%A2%E6%83%B3%E8%89%B2%E5%BD%A9%E9%9B%86%EF%BC%92_BlackWing-%E9%B4%89%E7%BE%BD-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Re：Volte | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Re：Volte | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [夢想色彩集２ BlackWing-鴉羽-](./夢想色彩集２_BlackWing-鴉羽-.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [夢想色彩集２ BlackWing-鴉羽-](./夢想色彩集２_BlackWing-鴉羽-.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

@@ -1,55 +1,40 @@
 # Clonesoldier's_Factory
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\fb\ns0%3AClonesoldier%27s_Factory.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\fb\ns0%3AClonesoldier%27s_Factory.html -->
 
 Clonesoldier's Factory ，主要制作 同人音乐 的日本同人社团，主催是 クローンソルジャー，当前状态为 休止
 
-本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
-
+本页是关于**[同人社团](./二次创作.md#同人社团)**的词条
 ## 目录
 
 - [1 社团信息](#社团信息)
 - [2 成员名单](#成员名单)
 - [3 作品列表](#作品列表)
-
   - [3.1 同人专辑](#同人专辑)
-
 
 
 - [4 其他信息](#其他信息)
 
 
-
-
-
 ## 社团信息
-[](./文件-Clonesoldier's_Factorybanner.gif.md)  [](./文件-Clonesoldier's_Factorybanner.gif.md)Banner
-
-<table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Clonesoldier&#39;s Factory </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%B3%E3%82%BD%E3%83%AB%E3%82%B8%E3%83%A3%E3%83%BC&amp;action=edit&amp;redlink=1" class="new" title="クローンソルジャー（页面不存在）">クローンソルジャー</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://sound.jp/clonesoldier/">http://sound.jp/clonesoldier/</a> <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span></td></tr></tbody></table>
+<img alt="" src="https://upload.thwiki.cc/7/74/Clonesoldier%27s_Factorybanner.gif" decoding="async" loading="lazy" width="200" height="40" class="thumbimage" data-file-width="200" data-file-height="40">
+ [放大](./文件-Clonesoldier's_Factorybanner.gif.md)Banner
+<table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Clonesoldier's Factory </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>主催</b></td><td> <a class="new" title="クローンソルジャー（页面不存在）">クローンソルジャー</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://sound.jp/clonesoldier/">http://sound.jp/clonesoldier/</a> <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span></td></tr></tbody></table>
 
 Clonesoldier's Factory（同人社团，同人音乐社团） - Clonesoldier's Factory ，主要制作 同人音乐 的日本同人社团，主催是 クローンソルジャー，当前状态为 休止
-
 ## 成员名单
+
 - クローンソルジャー (未找到链接)
 
 
 ## 作品列表
 
 ### 同人专辑
-[](./Eastern_Piano_&_Ensemble_-The_Concert_for_Crimson_Ladies-.md)[Eastern Piano &amp; Ensemble -The Concert for Crimson Ladies-](./Eastern_Piano_&_Ensemble_-The_Concert_for_Crimson_Ladies-.md)首发日期：2009-12-30 （Comic Market 77 (未找到链接)）全长 （一般向）[](./DOUBLE_IGNITION.md)[DOUBLE IGNITION](./DOUBLE_IGNITION.md)首发日期：2010-12-30 （Comic Market 79 (未找到链接)）全长 （一般向）[](./やるきのないピコピコ三面道中紀.md)[やるきのないピコピコ三面道中紀](./やるきのないピコピコ三面道中紀.md)首发日期：2011-05-08 （第八回 博麗神社例大祭 (未找到链接)）全长 （一般向）
-<table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
-
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
-
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
-</table>
-
-
+- **[Eastern Piano & Ensemble -The Concert for Crimson Ladies-](./Eastern_Piano_&_Ensemble_-The_Concert_for_Crimson_Ladies-.md)** — 首发日期：2009-12-30 （Comic Market 77）；全长 （一般向）
+- **[DOUBLE IGNITION](./DOUBLE_IGNITION.md)** — 首发日期：2010-12-30 （Comic Market 79）；全长 （一般向）
+- **[やるきのないピコピコ三面道中紀](./やるきのないピコピコ三面道中紀.md)** — 首发日期：2011-05-08 （第八回 博麗神社例大祭）；全长 （一般向）
 
 ## 其他信息
-
-
-
 
 ---
 

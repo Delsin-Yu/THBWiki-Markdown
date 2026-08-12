@@ -1,12 +1,8 @@
 # 文件:疵符「Broken_Amulet」（风神录）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\82\ns6%3A%E7%96%B5%E7%AC%A6%E3%80%8CBroken_Amulet%E3%80%8D%EF%BC%88%E9%A3%8E%E7%A5%9E%E5%BD%95%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\82\ns6%3A%E7%96%B5%E7%AC%A6%E3%80%8CBroken_Amulet%E3%80%8D%EF%BC%88%E9%A3%8E%E7%A5%9E%E5%BD%95%EF%BC%89%2Ejpg.html -->
 
 东方风神录 | 敌机符卡 | 键山雏
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:日焼けサロンHAKUREIの謎を追え!!封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\39\ns6%3A%E6%97%A5%E7%84%BC%E3%81%91%E3%82%B5%E3%83%AD%E3%83%B3HAKUREI%E3%81%AE%E8%AC%8E%E3%82%92%E8%BF%BD%E3%81%88%21%21%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\39\ns6%3A%E6%97%A5%E7%84%BC%E3%81%91%E3%82%B5%E3%83%AD%E3%83%B3HAKUREI%E3%81%AE%E8%AC%8E%E3%82%92%E8%BF%BD%E3%81%88%21%21%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 StrangeChameleon | 同人志封面 | 封面图片
 
@@ -8,11 +8,9 @@ StrangeChameleon | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [日焼けサロンHAKUREIの謎を追え!!](./日焼けサロンHAKUREIの謎を追え!!.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [日焼けサロンHAKUREIの謎を追え!!](./日焼けサロンHAKUREIの謎を追え!!.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

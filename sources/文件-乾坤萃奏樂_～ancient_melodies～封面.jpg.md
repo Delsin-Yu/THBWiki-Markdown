@@ -1,6 +1,6 @@
 # 文件:乾坤萃奏樂_～ancient_melodies～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ab\ns6%3A%E4%B9%BE%E5%9D%A4%E8%90%83%E5%A5%8F%E6%A8%82_%EF%BD%9Eancient_melodies%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ab\ns6%3A%E4%B9%BE%E5%9D%A4%E8%90%83%E5%A5%8F%E6%A8%82_%EF%BD%9Eancient_melodies%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 時雨月横丁
 
@@ -8,16 +8,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [乾坤萃奏樂 ～ancient melodies～](./乾坤萃奏樂_～ancient_melodies～.md)  
-该封面包含的角色：- [八坂神奈子](./八坂神奈子.md)- [洩矢诹访子](./洩矢诹访子.md)
+- [乾坤萃奏樂 ～ancient melodies～](./乾坤萃奏樂_～ancient_melodies～.md)该封面包含的角色：
+- [八坂神奈子](./八坂神奈子.md)
+- [洩矢诹访子](./洩矢诹访子.md)
 
   
-[Pixiv artwork ID: 3155373 (original size)](https://www.pixiv.net/artworks/3155373)
-  
-
-
-
-
+[Pixiv artwork ID: 3155373 (original size)](https://www.pixiv.net/artworks/3155373)  
 
 ---
 

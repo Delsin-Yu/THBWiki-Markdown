@@ -1,6 +1,6 @@
 # 文件:冥月_mei-getsu封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\af\ns6%3A%E5%86%A5%E6%9C%88_mei-getsu%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\af\ns6%3A%E5%86%A5%E6%9C%88_mei-getsu%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 K2_SOUND | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ K2_SOUND | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [冥月 mei-getsu](./冥月_mei-getsu.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [宫古芳香](./宫古芳香.md)
-
-
-
+- [冥月 mei-getsu](./冥月_mei-getsu.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [宫古芳香](./宫古芳香.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:紅い月が欠けるとき_Special_Sound_Track封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e9\ns6%3A%E7%B4%85%E3%81%84%E6%9C%88%E3%81%8C%E6%AC%A0%E3%81%91%E3%82%8B%E3%81%A8%E3%81%8D_Special_Sound_Track%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e9\ns6%3A%E7%B4%85%E3%81%84%E6%9C%88%E3%81%8C%E6%AC%A0%E3%81%91%E3%82%8B%E3%81%A8%E3%81%8D_Special_Sound_Track%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 LOST_BLESS | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ LOST_BLESS | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [紅い月が欠けるとき Special Sound Track](./紅い月が欠けるとき_Special_Sound_Track.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
-
-
-
+- [紅い月が欠けるとき Special Sound Track](./紅い月が欠けるとき_Special_Sound_Track.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
 
 ---

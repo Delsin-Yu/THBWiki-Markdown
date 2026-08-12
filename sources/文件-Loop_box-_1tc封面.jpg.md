@@ -1,6 +1,6 @@
 # 文件:Loop_box-_1tc封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\42\ns6%3ALoop_box-_1tc%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\42\ns6%3ALoop_box-_1tc%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 永久立体＜キュービックループ＞
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Loop box- 1tc](./Loop_box-_1tc.md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)
-
-
-
+- [Loop box- 1tc](./Loop_box-_1tc.md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
 
 
 ---

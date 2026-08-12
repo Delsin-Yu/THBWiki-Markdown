@@ -1,6 +1,6 @@
 # 文件:私の姉さんはこんなにも!Swap封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e0\ns6%3A%E7%A7%81%E3%81%AE%E5%A7%89%E3%81%95%E3%82%93%E3%81%AF%E3%81%93%E3%82%93%E3%81%AA%E3%81%AB%E3%82%82%21Swap%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e0\ns6%3A%E7%A7%81%E3%81%AE%E5%A7%89%E3%81%95%E3%82%93%E3%81%AF%E3%81%93%E3%82%93%E3%81%AA%E3%81%AB%E3%82%82%21Swap%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 春乃二式
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [私の姉さんはこんなにも!Swap](./私の姉さんはこんなにも!Swap.md)  
-该封面包含的角色：- [莉莉霍瓦特](./莉莉霍瓦特.md)
-
-
-
+- [私の姉さんはこんなにも!Swap](./私の姉さんはこんなにも!Swap.md)该封面包含的角色：
+- [莉莉霍瓦特](./莉莉霍瓦特.md)
 
 
 ---

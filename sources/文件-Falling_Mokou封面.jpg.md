@@ -1,6 +1,6 @@
 # 文件:Falling_Mokou封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7b\ns6%3AFalling_Mokou%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7b\ns6%3AFalling_Mokou%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 後思案計画
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Falling Mokou](./Falling_Mokou.md)  
-该封面包含的角色：- [藤原妹红](./藤原妹红.md)
+- [Falling Mokou](./Falling_Mokou.md)该封面包含的角色：
+- [藤原妹红](./藤原妹红.md)
 
   
-源地址：[announcement tweet (original quality image)](https://pbs.twimg.com/media/EkATZFXVcAYKNu2?format=jpg&amp;name=orig)
-  
-
-
-
-
+源地址：[announcement tweet (original quality image)](https://pbs.twimg.com/media/EkATZFXVcAYKNu2?format=jpg&name=orig)  
 
 ---
 

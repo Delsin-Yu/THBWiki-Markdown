@@ -1,12 +1,8 @@
 # 文件:RSSStagePHTitle.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\15\ns6%3ARSSStagePHTitle%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\15\ns6%3ARSSStagePHTitle%2Epng.html -->
 
 東方邪星章製作チーム
-
-
-
-
 
 
 ---

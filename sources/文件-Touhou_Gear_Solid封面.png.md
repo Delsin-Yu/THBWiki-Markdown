@@ -1,6 +1,6 @@
 # 文件:Touhou_Gear_Solid封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\26\ns6%3ATouhou_Gear_Solid%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\26\ns6%3ATouhou_Gear_Solid%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 SS3 | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@ SS3 | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Touhou Gear Solid](./Touhou_Gear_Solid.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
+- [Touhou Gear Solid](./Touhou_Gear_Solid.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
   
-[Pixiv artwork ID: 48530098 (original size)](https://www.pixiv.net/artworks/48530098)
-  
-
-
-
-
+[Pixiv artwork ID: 48530098 (original size)](https://www.pixiv.net/artworks/48530098)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:Starry_Fairy_Party封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\80\ns6%3AStarry_Fairy_Party%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\80\ns6%3AStarry_Fairy_Party%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 以呂波屋 | 封面图片
 
@@ -8,16 +8,15 @@
 使用了本文件作封面图片的作品：
   
 
-- [Starry Fairy Party](./Starry_Fairy_Party.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)- [大妖精](./大妖精.md)- [露娜切露德](./露娜切露德.md)- [桑尼米尔克](./桑尼米尔克.md)- [斯塔萨菲雅](./斯塔萨菲雅.md)
+- [Starry Fairy Party](./Starry_Fairy_Party.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
+- [大妖精](./大妖精.md)
+- [露娜切露德](./露娜切露德.md)
+- [桑尼米尔克](./桑尼米尔克.md)
+- [斯塔萨菲雅](./斯塔萨菲雅.md)
 
   
-源地址：[[1]](https://s.booth.pm/fb279eae-b423-4963-867e-4743460a704e/i/375261/6fcce200-0b61-46f8-a026-ffeda35872b4.png)
-  
-
-
-
-
+源地址：[\[1\]](https://s.booth.pm/fb279eae-b423-4963-867e-4743460a704e/i/375261/6fcce200-0b61-46f8-a026-ffeda35872b4.png)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:Scarlet_Breaks_-_Gensokyo_Underground_Funk_Unreleased_Tracks封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ca\ns6%3AScarlet_Breaks_-_Gensokyo_Underground_Funk_Unreleased_Tracks%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ca\ns6%3AScarlet_Breaks_-_Gensokyo_Underground_Funk_Unreleased_Tracks%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Zextillion | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ Zextillion | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Scarlet Breaks - Gensokyo Underground Funk Unreleased Tracks](./Scarlet_Breaks_-_Gensokyo_Underground_Funk_Unreleased_Tracks.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [古明地恋](./古明地恋.md)
-
-
-
+- [Scarlet Breaks - Gensokyo Underground Funk Unreleased Tracks](./Scarlet_Breaks_-_Gensokyo_Underground_Funk_Unreleased_Tracks.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [古明地恋](./古明地恋.md)
 
 
 ---

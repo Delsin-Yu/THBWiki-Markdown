@@ -1,6 +1,6 @@
 # 文件:Idleness封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\88\ns6%3AIdleness%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\88\ns6%3AIdleness%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 arg | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@ arg | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Idleness](./Idleness.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [Idleness](./Idleness.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
   
-源地址：[direct image link](https://www.suruga-ya.jp/database/pics_light/game/zhore138066.jpg), [source page (suruga-ya ID: ZHORE138066)](https://www.suruga-ya.jp/product/detail/ZHORE138066)
-  
-
-
-
-
+源地址：[direct image link](https://www.suruga-ya.jp/database/pics_light/game/zhore138066.jpg), [source page (suruga-ya ID: ZHORE138066)](https://www.suruga-ya.jp/product/detail/ZHORE138066)  
 
 ---
 

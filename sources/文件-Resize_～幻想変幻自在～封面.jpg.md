@@ -1,6 +1,6 @@
 # 文件:Resize_～幻想変幻自在～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\ff\ns6%3AResize_%EF%BD%9E%E5%B9%BB%E6%83%B3%E5%A4%89%E5%B9%BB%E8%87%AA%E5%9C%A8%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\ff\ns6%3AResize_%EF%BD%9E%E5%B9%BB%E6%83%B3%E5%A4%89%E5%B9%BB%E8%87%AA%E5%9C%A8%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 子猫夺回屋 | 封面图片
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [Resize ～幻想変幻自在～](./Resize_～幻想変幻自在～.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
-
-
-
+- [Resize ～幻想変幻自在～](./Resize_～幻想変幻自在～.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:For_My_Foolish_Days_-voiceless_version-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1a\ns6%3AFor_My_Foolish_Days_-voiceless_version-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1a\ns6%3AFor_My_Foolish_Days_-voiceless_version-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Aphrodite | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ Aphrodite | 专辑封面 | 封面图片
   
 
 - [For My Foolish Days -voiceless version-](./For_My_Foolish_Days_-voiceless_version-.md)
-
-
-
 
 
 ---

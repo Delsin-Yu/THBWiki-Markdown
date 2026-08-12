@@ -1,12 +1,8 @@
 # 文件:fumoismlogo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4d\ns6%3Afumoismlogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4d\ns6%3Afumoismlogo%2Ejpg.html -->
 
 fumoism | 社团LOGO
-
-
-
-
 
 
 ---

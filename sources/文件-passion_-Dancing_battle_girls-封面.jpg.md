@@ -1,6 +1,6 @@
 # 文件:passion_-Dancing_battle_girls-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\07\ns6%3Apassion_-Dancing_battle_girls-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\07\ns6%3Apassion_-Dancing_battle_girls-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 556ミリメートル | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [passion -Dancing battle girls-](./passion_-Dancing_battle_girls-.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
-
-
-
+- [passion -Dancing battle girls-](./passion_-Dancing_battle_girls-.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
 
 ---

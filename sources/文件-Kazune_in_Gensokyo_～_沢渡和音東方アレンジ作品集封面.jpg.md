@@ -1,6 +1,6 @@
 # 文件:Kazune_in_Gensokyo_～_沢渡和音東方アレンジ作品集封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f3\ns6%3AKazune_in_Gensokyo_%EF%BD%9E_%E6%B2%A2%E6%B8%A1%E5%92%8C%E9%9F%B3%E6%9D%B1%E6%96%B9%E3%82%A2%E3%83%AC%E3%83%B3%E3%82%B8%E4%BD%9C%E5%93%81%E9%9B%86%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f3\ns6%3AKazune_in_Gensokyo_%EF%BD%9E_%E6%B2%A2%E6%B8%A1%E5%92%8C%E9%9F%B3%E6%9D%B1%E6%96%B9%E3%82%A2%E3%83%AC%E3%83%B3%E3%82%B8%E4%BD%9C%E5%93%81%E9%9B%86%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Project_cherish | 专辑封面 | 封面图片
 
@@ -8,11 +8,11 @@ Project_cherish | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Kazune in Gensokyo ～ 沢渡和音東方アレンジ作品集](./Kazune_in_Gensokyo_～_沢渡和音東方アレンジ作品集.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [因幡帝](./因幡帝.md)- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [Kazune in Gensokyo ～ 沢渡和音東方アレンジ作品集](./Kazune_in_Gensokyo_～_沢渡和音東方アレンジ作品集.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [因幡帝](./因幡帝.md)
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

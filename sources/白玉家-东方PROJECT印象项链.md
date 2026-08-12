@@ -1,27 +1,21 @@
 # 白玉家/东方PROJECT印象项链
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\2c\ns0%3A%E7%99%BD%E7%8E%89%E5%AE%B6%2F%E4%B8%9C%E6%96%B9PROJECT%E5%8D%B0%E8%B1%A1%E9%A1%B9%E9%93%BE.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\2c\ns0%3A%E7%99%BD%E7%8E%89%E5%AE%B6%2F%E4%B8%9C%E6%96%B9PROJECT%E5%8D%B0%E8%B1%A1%E9%A1%B9%E9%93%BE.html -->
 
 2024年6月24日 由 白玉家  发布的饰品周边，分级为 一般向
 
 本页是关于东方Project  
- **相关实体周边 (未找到链接)** 的词条
-
+**相关实体周边 (未找到链接)**的词条
 ## 目录
 
 - [1 周边信息](#周边信息)
 - [2 参考图](#参考图)
-
   - [2.1 预览图](#预览图)
   - [2.2 实物图](#实物图)
 
 
-
 - [3 Staff](#Staff)
 - [4 评论](#评论)
-
-
-
 
 
 ## 周边信息
@@ -29,15 +23,14 @@
 <table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 东方PROJECT印象项链 </td></tr><tr><td class="label">制作方</td><td><a href="./白玉家.md" title="白玉家">白玉家</a></td></tr><tr><td class="label">首发日期</td><td>未知</td></tr><tr><td class="label">类型</td><td>饰品</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">售价</td><td>70人民币</td></tr><tr><td class="label">备注</td><td>70~100人民币/个</td></tr></tbody></table>
 
 白玉家/东方PROJECT印象项链（周边，白玉家） - 2024年6月22日 由 白玉家  发布的饰品周边，分级为 一般向
-
 ## 参考图
   
 周边宣传、售卖时使用的作为参考图的预览图或实物图的图片。
   
 
-
 ### 预览图
-- [](./文件-白玉家／东方PROJECT印象项链预览图1.jpg.md)
+
+- <img alt="白玉家／东方PROJECT印象项链预览图1.jpg" src="https://upload.thwiki.cc/thumb/1/19/%E7%99%BD%E7%8E%89%E5%AE%B6%EF%BC%8F%E4%B8%9C%E6%96%B9PROJECT%E5%8D%B0%E8%B1%A1%E9%A1%B9%E9%93%BE%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg/470px-%E7%99%BD%E7%8E%89%E5%AE%B6%EF%BC%8F%E4%B8%9C%E6%96%B9PROJECT%E5%8D%B0%E8%B1%A1%E9%A1%B9%E9%93%BE%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg" decoding="async" loading="lazy" width="314" height="250" srcset="https://upload.thwiki.cc/1/19/%E7%99%BD%E7%8E%89%E5%AE%B6%EF%BC%8F%E4%B8%9C%E6%96%B9PROJECT%E5%8D%B0%E8%B1%A1%E9%A1%B9%E9%93%BE%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg 1.5x" data-file-width="626" data-file-height="500"> 
 
 
 ### 实物图
@@ -46,11 +39,7 @@
 作者
 : 二妹夹心
 
-
 ## 评论
-
-
-
 
 ---
 

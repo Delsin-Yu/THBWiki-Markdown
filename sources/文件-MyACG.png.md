@@ -1,16 +1,12 @@
 # 文件:MyACG.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0b\ns6%3AMyACG%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0b\ns6%3AMyACG%2Epng.html -->
 
 MyACG_Studio | 社团LOGO
 
   
 国人游戏社团MyACG studio logo
   
-
-
-
-
 
 ---
 

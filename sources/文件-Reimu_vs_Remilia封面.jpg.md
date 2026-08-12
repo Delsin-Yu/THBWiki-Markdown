@@ -1,6 +1,6 @@
 # 文件:Reimu_vs_Remilia封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c6\ns6%3AReimu_vs_Remilia%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c6\ns6%3AReimu_vs_Remilia%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 minusT | 封面图片 | 视频封面
 
@@ -10,11 +10,9 @@ minusT | 封面图片 | 视频封面
 使用了本文件作封面图片的作品：
   
 
-- [Reimu vs Remilia](./Reimu_vs_Remilia.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
-
-
-
+- [Reimu vs Remilia](./Reimu_vs_Remilia.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
 
 ---

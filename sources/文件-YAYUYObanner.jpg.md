@@ -1,16 +1,11 @@
 # 文件:YAYUYObanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\39\ns6%3AYAYUYObanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\39\ns6%3AYAYUYObanner%2Ejpg.html -->
 
 YAYUYO | 社团LOGO
 
   
-源地址：[[1]](https://web.archive.org/web/20120328002737im_/http://iws.peewee.jp/yyy/banner.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://web.archive.org/web/20120328002737im_/http://iws.peewee.jp/yyy/banner.jpg)  
 
 ---
 

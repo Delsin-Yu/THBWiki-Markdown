@@ -1,6 +1,6 @@
 # 文件:TH_REMIX_-lol_style-_vol.0.5封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e5\ns6%3ATH_REMIX_-lol_style-_vol%2E0%2E5%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e5\ns6%3ATH_REMIX_-lol_style-_vol%2E0%2E5%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 laughing_out_loud | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ laughing_out_loud | 专辑封面 | 封面图片
   
 
 - [TH REMIX -lol style- vol.0.5](./TH_REMIX_-lol_style-_vol.0.5.md)
-
-
-
 
 
 ---

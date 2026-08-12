@@ -1,12 +1,8 @@
 # 文件:十六夜咲夜（永夜抄立绘_despise）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\df\ns6%3A%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C%EF%BC%88%E6%B0%B8%E5%A4%9C%E6%8A%84%E7%AB%8B%E7%BB%98_despise%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\df\ns6%3A%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C%EF%BC%88%E6%B0%B8%E5%A4%9C%E6%8A%84%E7%AB%8B%E7%BB%98_despise%EF%BC%89%2Epng.html -->
 
 ZUN绘 | 东方永夜抄 | 十六夜咲夜 | 官方游戏立绘
-
-
-
-
 
 
 ---

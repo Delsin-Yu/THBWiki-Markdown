@@ -1,40 +1,30 @@
 # Inventive_City
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\c\cb\ns0%3AInventive_City.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\c\cb\ns0%3AInventive_City.html -->
 
 由 ZUN 创作的官方曲目，原名 Inventive City
 
 本页是关于东方Project  
- **原作音乐** 的词条
-
+**原作音乐**的词条
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 出现作品](#出现作品)
 - [3 音乐文件](#音乐文件)
-
   - [3.1 东方幻想的音乐](#东方幻想的音乐)
 
 
-
 - [4 说明文本](#说明文本)
-
   - [4.1 东方幻想的音乐](#东方幻想的音乐_2)
 
 
-
 - [5 其他资料](#其他资料)
-
   - [5.1 乐理资讯](#乐理资讯)
   - [5.2 分析考据](#分析考据)
   - [5.3 二次同人数据](#二次同人数据)
 
 
-
 - [6 注释](#注释)
-
-
-
 
 
 ## 基本信息
@@ -42,14 +32,12 @@
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">Inventive City</td></tr><tr><td><b>译名</b></td><td>Inventive City</td></tr><tr><td><b>其他译名</b></td><td>创新之都</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 Inventive City（曲目） - 由 ZUN 创作的官方曲目，原名 Inventive City
-
 ## 出现作品
 
 <table>
 <tbody><tr><td>1999年11月5日（第23回鸠山祭）</td><td><b><a href="./秋霜玉.md" title="秋霜玉">秋霜玉</a>'99</b></td><td>（秋霜玉原型） 2面主题曲</td><td style="padding-left:5px;">Inventive City（Inventive City）</td><td style="padding-left:10px;">作曲：ZUN</td></tr>
 <tr><td>2000年1月10日（非展会）</td><td><b><a href="./东方幻想的音乐.md" title="东方幻想的音乐">东方幻想的音乐</a></b></td><td>其它的作品　～ ZUN's Strange Works</td><td style="padding-left:5px;">Inventive City（Inventive City）</td><td style="padding-left:10px;">编曲：ZUN</td></tr>
 </tbody></table>
-
 
 
 ## 音乐文件
@@ -59,11 +47,11 @@ Inventive City（曲目） - 由 ZUN 创作的官方曲目，原名 Inventive Ci
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td><a href="./文件-zun004.mid.md" title="文件:zun004.mid">zun004.mid</a></td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-zun_004.mp3.md" title="文件:zun 004.mp3">zun_004.mp3</a><br><audio src="https://upload.thwiki.cc/9/9f/zun_004.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>zun004.mid</td></tr><tr><td><b>音轨时长</b></td><td>3:51</td></tr></tbody></table>
 
 
-
 ## 说明文本
 
 ### 东方幻想的音乐
-- zun004.txt (未找到链接)
+
+- [zun004.txt](./东方幻想的音乐-过去的曲子-其他的作品.md#Inventive_City)
 
 +----------------------------------------------------------------------------+  
 |【 　 曲名　　】| 【 Inventive City 】  
@@ -94,7 +82,6 @@ Inventive City（曲目） - 由 ZUN 创作的官方曲目，原名 Inventive Ci
 曲子的感想、请求等，这边请  
 　东方幻想空间　「博丽神社」 http://www16.big.or.jp/~zun/  
 　e-Mail                     zun@big.or.jp
-
 ## 其他资料
 
 ### 乐理资讯
@@ -113,18 +100,6 @@ Inventive City（曲目） - 由 ZUN 创作的官方曲目，原名 Inventive Ci
 <tr><td>Arrange</td><td>6</td></tr>
 <tr><td>Vocal率</td><td>0%</td></tr>
 </tbody></table>
-
-
-
-
-
-  
-  
-
-  
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Diamond_Avenged封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\09\ns6%3ADiamond_Avenged%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\09\ns6%3ADiamond_Avenged%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 White_Elephant | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ White_Elephant | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Diamond Avenged](./Diamond_Avenged.md)  
-该封面包含的角色：- [红美铃](./红美铃.md)- [风见幽香](./风见幽香.md)
-
-
-
+- [Diamond Avenged](./Diamond_Avenged.md)该封面包含的角色：
+- [红美铃](./红美铃.md)
+- [风见幽香](./风见幽香.md)
 
 
 ---

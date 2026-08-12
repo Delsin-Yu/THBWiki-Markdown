@@ -1,6 +1,6 @@
 # 文件:Diorama_女の子138人詰め合わせイラスト本封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1e\ns6%3ADiorama_%E5%A5%B3%E3%81%AE%E5%AD%90138%E4%BA%BA%E8%A9%B0%E3%82%81%E5%90%88%E3%82%8F%E3%81%9B%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E6%9C%AC%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1e\ns6%3ADiorama_%E5%A5%B3%E3%81%AE%E5%AD%90138%E4%BA%BA%E8%A9%B0%E3%82%81%E5%90%88%E3%82%8F%E3%81%9B%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E6%9C%AC%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 なないろしっぽ団 | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Diorama 女の子138人詰め合わせイラスト本](./Diorama_女の子138人詰め合わせイラスト本.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [Diorama 女の子138人詰め合わせイラスト本](./Diorama_女の子138人詰め合わせイラスト本.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

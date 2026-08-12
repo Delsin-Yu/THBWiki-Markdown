@@ -1,6 +1,6 @@
 # 文件:DOPE_ICON封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ab\ns6%3ADOPE_ICON%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ab\ns6%3ADOPE_ICON%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 ZYTOKINE | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ ZYTOKINE | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [DOPE ICON](./DOPE_ICON.md)  
-该封面包含的角色：- [埴安神袿姬](./埴安神袿姬.md)
-
-
-
+- [DOPE ICON](./DOPE_ICON.md)该封面包含的角色：
+- [埴安神袿姬](./埴安神袿姬.md)
 
 
 ---

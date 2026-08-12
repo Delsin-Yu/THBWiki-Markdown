@@ -1,16 +1,12 @@
 # 模板:PrivateService
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\6\6c\ns10%3APrivateService.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\6\6c\ns10%3APrivateService.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

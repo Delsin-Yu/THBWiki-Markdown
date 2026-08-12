@@ -1,6 +1,6 @@
 # 文件:Cirno's_Perfect_Summer_Vacation封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\43\ns6%3ACirno%27s_Perfect_Summer_Vacation%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\43\ns6%3ACirno%27s_Perfect_Summer_Vacation%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Chaos_Cute_Soft | 封面图片 | 软件封面
 
@@ -10,16 +10,11 @@ Chaos_Cute_Soft | 封面图片 | 软件封面
 使用了本文件作封面图片的作品：
   
 
-- [Cirno's Perfect Summer Vacation](./Cirno's_Perfect_Summer_Vacation.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)
+- [Cirno's Perfect Summer Vacation](./Cirno's_Perfect_Summer_Vacation.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
 
   
-源地址：[[1]](https://steamcdn-a.akamaihd.net/steam/apps/1211650/header.jpg?t=1581353265)
-  
-
-
-
-
+源地址：[\[1\]](https://steamcdn-a.akamaihd.net/steam/apps/1211650/header.jpg?t=1581353265)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:连缘咖啡厅_～_BOOK_of_the_CAFE封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\34\ns6%3A%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85_%EF%BD%9E_BOOK_of_the_CAFE%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\34\ns6%3A%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85_%EF%BD%9E_BOOK_of_the_CAFE%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 トリック・ノスタルジー | 封面图片 | 软件封面
 
@@ -11,9 +11,6 @@
   
 
 - [连缘咖啡厅 ～ BOOK of the CAFE](./连缘咖啡厅_～_BOOK_of_the_CAFE.md)
-
-
-
 
 
 ---

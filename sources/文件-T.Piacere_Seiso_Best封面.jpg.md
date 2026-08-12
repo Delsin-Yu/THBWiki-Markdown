@@ -1,6 +1,6 @@
 # 文件:T.Piacere_Seiso_Best封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\38\ns6%3AT%2EPiacere_Seiso_Best%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\38\ns6%3AT%2EPiacere_Seiso_Best%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 T.Piacere | 专辑封面 | 封面图片
 
@@ -8,11 +8,12 @@ T.Piacere | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [T.Piacere Seiso Best](./T.Piacere_Seiso_Best.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)- [八坂神奈子](./八坂神奈子.md)- [古明地觉](./古明地觉.md)
-
-
-
+- [T.Piacere Seiso Best](./T.Piacere_Seiso_Best.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
+- [八坂神奈子](./八坂神奈子.md)
+- [古明地觉](./古明地觉.md)
 
 
 ---

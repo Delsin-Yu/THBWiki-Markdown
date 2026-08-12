@@ -1,12 +1,8 @@
 # 文件:ピズニアン_banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\24\ns6%3A%E3%83%94%E3%82%BA%E3%83%8B%E3%82%A2%E3%83%B3_banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\24\ns6%3A%E3%83%94%E3%82%BA%E3%83%8B%E3%82%A2%E3%83%B3_banner%2Epng.html -->
 
 ピズニアン | 社团LOGO
-
-
-
-
 
 
 ---

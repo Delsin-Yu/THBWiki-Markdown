@@ -1,6 +1,6 @@
 # 文件:秘封活動記録_～_The_Sealed_Esoteric_History._-序-（日版）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\24\ns6%3A%E7%A7%98%E5%B0%81%E6%B4%BB%E5%8B%95%E8%A8%98%E9%8C%B2_%EF%BD%9E_The_Sealed_Esoteric_History%2E_-%E5%BA%8F-%EF%BC%88%E6%97%A5%E7%89%88%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\24\ns6%3A%E7%A7%98%E5%B0%81%E6%B4%BB%E5%8B%95%E8%A8%98%E9%8C%B2_%EF%BD%9E_The_Sealed_Esoteric_History%2E_-%E5%BA%8F-%EF%BC%88%E6%97%A5%E7%89%88%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 京都幻想剧团 | 封面图片 | 视频封面
 
@@ -8,11 +8,16 @@
 使用了本文件作封面图片的作品：
   
 
-- [秘封活動記録 ～ The Sealed Esoteric History. -序-（日版）](./秘封活動記録_～_The_Sealed_Esoteric_History._-序-（日版）.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)- 十六夜咲夜 (未找到链接)- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [西行寺幽幽子](./西行寺幽幽子.md)- [八云紫](./八云紫.md)- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)- [藤原妹红](./藤原妹红.md)- [圣白莲](./圣白莲.md)
-
-
-
+- [秘封活動記録 ～ The Sealed Esoteric History. -序-（日版）](./秘封活動記録_～_The_Sealed_Esoteric_History._-序-（日版）.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
+- [十六夜咲夜](./十六夜咲夜.md)
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [西行寺幽幽子](./西行寺幽幽子.md)
+- [八云紫](./八云紫.md)
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
+- [藤原妹红](./藤原妹红.md)
+- [圣白莲](./圣白莲.md)
 
 
 ---

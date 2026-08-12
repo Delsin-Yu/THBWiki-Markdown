@@ -1,18 +1,16 @@
 # GEN（人物）
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\8\80\ns0%3AGEN%EF%BC%88%E4%BA%BA%E7%89%A9%EF%BC%89.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\8\80\ns0%3AGEN%EF%BC%88%E4%BA%BA%E7%89%A9%EF%BC%89.html -->
 
 现实人物
 
 本页是关于东方Project  
- **二次同人创作者** 的词条
-
+**二次同人创作者**的词条
 ## 基本信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="label"><b>名称</b></td><td> GEN <span style="font-size:90%;">（识别名：GEN（人物））</span></td></tr><tr><td class="label"><b>所属社团</b></td><td><b>当前</b><div style="margin-left:2em;"><a href="./pre-blossom.md" title="pre-blossom">pre-blossom</a></div></td></tr><tr><td class="label"><b>职位</b></td><td>绘师</td></tr><tr><td class="label"><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://www.pre-blossom.com/index.html">http://www.pre-blossom.com/index.html</a></td></tr><tr><td class="label"><b>个人页面</b></td><td><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><b>Twitter</b></td><td><a rel="nofollow" class="external free" href="https://twitter.com/genkun3222">https://twitter.com/genkun3222</a></td></tr></tbody></table></td></tr></tbody></table>
 
 GEN（人物） - 现实人物
-
 ## 介绍
   
 絵師を目指す自由気ままな一般大学生。
@@ -24,22 +22,15 @@ pixivID GEN
 ギャラリーは[こちら](http://www.pre-blossom.com/product/gen/gallery.html/)。
   
 
-
 ## 参与作品
 
 ### 同人音乐
   
-模板:人物曲目列表 (未找到链接)
-  
-
+模板:人物曲目列表 (未找到链接)  
 
 ## 人际关系
 人名
 : 关系
-
-
-
-
 
 ---
 

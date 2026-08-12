@@ -1,6 +1,6 @@
 # 文件:紅蓮の炎-voiceless_version_type_B-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9e\ns6%3A%E7%B4%85%E8%93%AE%E3%81%AE%E7%82%8E-voiceless_version_type_B-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9e\ns6%3A%E7%B4%85%E8%93%AE%E3%81%AE%E7%82%8E-voiceless_version_type_B-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 岡垣正志＆フレンズ
 
@@ -11,9 +11,6 @@
   
 
 - [紅蓮の炎-voiceless version type B-](./紅蓮の炎-voiceless_version_type_B-.md)
-
-
-
 
 
 ---

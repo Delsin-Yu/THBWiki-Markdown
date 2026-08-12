@@ -1,6 +1,6 @@
 # 文件:Phantasmagothic封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5b\ns6%3APhantasmagothic%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5b\ns6%3APhantasmagothic%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Rico_Rico_Alice | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Rico_Rico_Alice | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Phantasmagothic](./Phantasmagothic.md)  
-该封面包含的角色：- [因幡帝](./因幡帝.md)
+- [Phantasmagothic](./Phantasmagothic.md)该封面包含的角色：
+- [因幡帝](./因幡帝.md)
 
   
-源地址：[[1]](http://www.pixiv.net/member_illust.php?mode=medium&amp;illust_id=17224156)
-  
-
-
-
-
+源地址：[\[1\]](http://www.pixiv.net/member_illust.php?mode=medium&illust_id=17224156)  
 
 ---
 

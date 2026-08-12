@@ -1,29 +1,24 @@
 # 东深见闻录/发光id卡/第一批
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\b2\ns0%3A%E4%B8%9C%E6%B7%B1%E8%A7%81%E9%97%BB%E5%BD%95%2F%E5%8F%91%E5%85%89id%E5%8D%A1%2F%E7%AC%AC%E4%B8%80%E6%89%B9.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\b2\ns0%3A%E4%B8%9C%E6%B7%B1%E8%A7%81%E9%97%BB%E5%BD%95%2F%E5%8F%91%E5%85%89id%E5%8D%A1%2F%E7%AC%AC%E4%B8%80%E6%89%B9.html -->
 
 2024年3月17日 由 东深见闻录 于 白兔茶话会3 发布的证件周边，分级为 一般向
 
 本页是关于东方Project  
- **相关实体周边 (未找到链接)** 的词条
-
+**相关实体周边 (未找到链接)**的词条
 ## 周边信息
 
-<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 芙兰与⑨的发光id卡 </td></tr><tr><td class="label">制作方</td><td><a href="./东深见闻录.md" title="东深见闻录">东深见闻录</a></td></tr><tr><td class="label">首发日期</td><td>2024-03-17&#160;（<a href="/展会作品列表?e=%E7%99%BD%E5%85%94%E8%8C%B6%E8%AF%9D%E4%BC%9A%233">北京THP03-白兔茶话会</a>）</td></tr><tr><td class="label">类型</td><td>证件</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">角色</td><td><a href="./琪露诺.md" title="琪露诺">琪露诺</a><br><a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰朵露·斯卡蕾特</a></td></tr></tbody></table>
+<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 芙兰与⑨的发光id卡 </td></tr><tr><td class="label">制作方</td><td><a href="./东深见闻录.md" title="东深见闻录">东深见闻录</a></td></tr><tr><td class="label">首发日期</td><td>2024-03-17 （<a href="./展会作品列表.md#3">北京THP03-白兔茶话会</a>）</td></tr><tr><td class="label">类型</td><td>证件</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">角色</td><td><a href="./琪露诺.md" title="琪露诺">琪露诺</a><br><a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰朵露·斯卡蕾特</a></td></tr></tbody></table>
 
 东深见闻录/发光id卡/第一批（周边，东深见闻录，2024） - 2024年3月17日 由 东深见闻录 于 白兔茶话会3 发布的证件周边，分级为 一般向
-
 ## 预览图
-- [](./文件-东深见闻录／发光id卡／第一批预览图1.jpg.md)
+
+- <img alt="东深见闻录／发光id卡／第一批预览图1.jpg" src="https://upload.thwiki.cc/thumb/d/db/%E4%B8%9C%E6%B7%B1%E8%A7%81%E9%97%BB%E5%BD%95%EF%BC%8F%E5%8F%91%E5%85%89id%E5%8D%A1%EF%BC%8F%E7%AC%AC%E4%B8%80%E6%89%B9%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg/646px-%E4%B8%9C%E6%B7%B1%E8%A7%81%E9%97%BB%E5%BD%95%EF%BC%8F%E5%8F%91%E5%85%89id%E5%8D%A1%EF%BC%8F%E7%AC%AC%E4%B8%80%E6%89%B9%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg" decoding="async" loading="lazy" width="431" height="250" srcset="https://upload.thwiki.cc/thumb/d/db/%E4%B8%9C%E6%B7%B1%E8%A7%81%E9%97%BB%E5%BD%95%EF%BC%8F%E5%8F%91%E5%85%89id%E5%8D%A1%EF%BC%8F%E7%AC%AC%E4%B8%80%E6%89%B9%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg/969px-%E4%B8%9C%E6%B7%B1%E8%A7%81%E9%97%BB%E5%BD%95%EF%BC%8F%E5%8F%91%E5%85%89id%E5%8D%A1%EF%BC%8F%E7%AC%AC%E4%B8%80%E6%89%B9%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg 1.5x, https://upload.thwiki.cc/thumb/d/db/%E4%B8%9C%E6%B7%B1%E8%A7%81%E9%97%BB%E5%BD%95%EF%BC%8F%E5%8F%91%E5%85%89id%E5%8D%A1%EF%BC%8F%E7%AC%AC%E4%B8%80%E6%89%B9%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg/1291px-%E4%B8%9C%E6%B7%B1%E8%A7%81%E9%97%BB%E5%BD%95%EF%BC%8F%E5%8F%91%E5%85%89id%E5%8D%A1%EF%BC%8F%E7%AC%AC%E4%B8%80%E6%89%B9%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg 2x" data-file-width="1700" data-file-height="988"> 
 
 
 ## Staff
 《卑微技术员》
 : Concordski协和斯基
-
-
-
-
 
 ---
 

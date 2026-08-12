@@ -1,6 +1,6 @@
 # 文件:First_Dream封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\65\ns6%3AFirst_Dream%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\65\ns6%3AFirst_Dream%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 たのしいゆめ | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [First Dream](./First_Dream.md)  
-该封面包含的角色：- [西行寺幽幽子](./西行寺幽幽子.md)
+- [First Dream](./First_Dream.md)该封面包含的角色：
+- [西行寺幽幽子](./西行寺幽幽子.md)
 
   
-源地址：[direct image link (original uploaded image)](https://pbs.twimg.com/media/FB5WYxHVcAYq20l?format=jpg&amp;name=orig), [source tweet](https://twitter.com/ykwr0223/status/1449691118891765765)
-  
-
-
-
-
+源地址：[direct image link (original uploaded image)](https://pbs.twimg.com/media/FB5WYxHVcAYq20l?format=jpg&name=orig), [source tweet](https://twitter.com/ykwr0223/status/1449691118891765765)  
 
 ---
 

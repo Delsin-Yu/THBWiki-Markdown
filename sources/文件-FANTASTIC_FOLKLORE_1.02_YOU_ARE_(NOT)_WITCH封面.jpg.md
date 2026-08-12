@@ -1,6 +1,6 @@
 # 文件:FANTASTIC_FOLKLORE_1.02_YOU_ARE_(NOT)_WITCH封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c0\ns6%3AFANTASTIC_FOLKLORE_1%2E02_YOU_ARE_%28NOT%29_WITCH%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c0\ns6%3AFANTASTIC_FOLKLORE_1%2E02_YOU_ARE_%28NOT%29_WITCH%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 UnLimited_Questions | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ UnLimited_Questions | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [FANTASTIC FOLKLORE 1.02 YOU ARE (NOT) WITCH](./FANTASTIC_FOLKLORE_1.02_YOU_ARE_(NOT)_WITCH.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [FANTASTIC FOLKLORE 1.02 YOU ARE (NOT) WITCH](./FANTASTIC_FOLKLORE_1.02_YOU_ARE_(NOT%29_WITCH.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

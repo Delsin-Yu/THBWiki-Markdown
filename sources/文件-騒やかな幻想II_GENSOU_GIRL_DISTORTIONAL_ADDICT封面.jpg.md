@@ -1,6 +1,6 @@
 # 文件:騒やかな幻想II_GENSOU_GIRL_DISTORTIONAL_ADDICT封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7c\ns6%3A%E9%A8%92%E3%82%84%E3%81%8B%E3%81%AA%E5%B9%BB%E6%83%B3II_GENSOU_GIRL_DISTORTIONAL_ADDICT%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7c\ns6%3A%E9%A8%92%E3%82%84%E3%81%8B%E3%81%AA%E5%B9%BB%E6%83%B3II_GENSOU_GIRL_DISTORTIONAL_ADDICT%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 TV_SHOP_ON_THE_SECOND_FLOOR | 专辑封面 | 封面图片
 
@@ -8,16 +8,13 @@ TV_SHOP_ON_THE_SECOND_FLOOR | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [騒やかな幻想II GENSOU GIRL DISTORTIONAL ADDICT](./騒やかな幻想II_GENSOU_GIRL_DISTORTIONAL_ADDICT.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)- [红美铃](./红美铃.md)- [大妖精](./大妖精.md)
+- [騒やかな幻想II GENSOU GIRL DISTORTIONAL ADDICT](./騒やかな幻想II_GENSOU_GIRL_DISTORTIONAL_ADDICT.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
+- [红美铃](./红美铃.md)
+- [大妖精](./大妖精.md)
 
   
-源地址：[[1]](http://tvshoponthe2ndfloor.web.fc2.com/ggda_sg2jkt.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://tvshoponthe2ndfloor.web.fc2.com/ggda_sg2jkt.jpg)  
 
 ---
 

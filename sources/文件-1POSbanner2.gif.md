@@ -1,14 +1,11 @@
 # 文件:1POSbanner2.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\93\ns6%3A1POSbanner2%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\93\ns6%3A1POSbanner2%2Egif.html -->
 
 1POS | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

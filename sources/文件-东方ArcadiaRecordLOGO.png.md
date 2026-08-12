@@ -1,14 +1,11 @@
 # 文件:东方ArcadiaRecordLOGO.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bb\ns6%3A%E4%B8%9C%E6%96%B9ArcadiaRecordLOGO%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bb\ns6%3A%E4%B8%9C%E6%96%B9ArcadiaRecordLOGO%2Epng.html -->
 
 东方ArcadiaRecord | 授权商业二次创作手机游戏
 
 
 ## 摘要
-
-
-
 
 ---
 

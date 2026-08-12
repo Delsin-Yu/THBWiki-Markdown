@@ -1,6 +1,6 @@
 # 文件:東方徒然雲_～1_day_of_a_NEET～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\61\ns6%3A%E6%9D%B1%E6%96%B9%E5%BE%92%E7%84%B6%E9%9B%B2_%EF%BD%9E1_day_of_a_NEET%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\61\ns6%3A%E6%9D%B1%E6%96%B9%E5%BE%92%E7%84%B6%E9%9B%B2_%EF%BD%9E1_day_of_a_NEET%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 文鸟Online。
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方徒然雲 ～1 day of a NEET～](./東方徒然雲_～1_day_of_a_NEET～.md)  
-该封面包含的角色：- [蓬莱山辉夜](./蓬莱山辉夜.md)
-
-
-
+- [東方徒然雲 ～1 day of a NEET～](./東方徒然雲_～1_day_of_a_NEET～.md)该封面包含的角色：
+- [蓬莱山辉夜](./蓬莱山辉夜.md)
 
 
 ---

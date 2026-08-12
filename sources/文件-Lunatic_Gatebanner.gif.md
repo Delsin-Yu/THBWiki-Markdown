@@ -1,14 +1,11 @@
 # 文件:Lunatic_Gatebanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bf\ns6%3ALunatic_Gatebanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bf\ns6%3ALunatic_Gatebanner%2Egif.html -->
 
 Lunatic_Gate | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

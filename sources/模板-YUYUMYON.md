@@ -1,16 +1,12 @@
 # 模板:YUYUMYON
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\f\f7\ns10%3AYUYUMYON.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\f\f7\ns10%3AYUYUMYON.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

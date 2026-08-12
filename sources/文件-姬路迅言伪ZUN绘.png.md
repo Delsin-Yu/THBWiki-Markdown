@@ -1,12 +1,8 @@
 # 文件:姬路迅言伪ZUN绘.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b1\ns6%3A%E5%A7%AC%E8%B7%AF%E8%BF%85%E8%A8%80%E4%BC%AAZUN%E7%BB%98%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b1\ns6%3A%E5%A7%AC%E8%B7%AF%E8%BF%85%E8%A8%80%E4%BC%AAZUN%E7%BB%98%2Epng.html -->
 
 二次角色立绘 | 姬路迅言 | 尹棱DANE
-
-
-
-
 
 
 ---

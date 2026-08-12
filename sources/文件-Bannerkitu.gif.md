@@ -1,12 +1,8 @@
 # 文件:Bannerkitu.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f9\ns6%3ABannerkitu%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f9\ns6%3ABannerkitu%2Egif.html -->
 
 白狐茶会 | 社团LOGO
-
-
-
-
 
 
 ---

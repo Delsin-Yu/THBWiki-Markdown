@@ -1,6 +1,6 @@
 # 文件:Full_Materials_ver2.5_フルマテお年玉ぱっく封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e8\ns6%3AFull_Materials_ver2%2E5_%E3%83%95%E3%83%AB%E3%83%9E%E3%83%86%E3%81%8A%E5%B9%B4%E7%8E%89%E3%81%B1%E3%81%A3%E3%81%8F%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e8\ns6%3AFull_Materials_ver2%2E5_%E3%83%95%E3%83%AB%E3%83%9E%E3%83%86%E3%81%8A%E5%B9%B4%E7%8E%89%E3%81%B1%E3%81%A3%E3%81%8F%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 モヒカンサンドバッグ | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Full Materials ver2.5 フルマテお年玉ぱっく](./Full_Materials_ver2.5_フルマテお年玉ぱっく.md)  
-该封面包含的角色：- [洩矢诹访子](./洩矢诹访子.md)
-
-
-
+- [Full Materials ver2.5 フルマテお年玉ぱっく](./Full_Materials_ver2.5_フルマテお年玉ぱっく.md)该封面包含的角色：
+- [洩矢诹访子](./洩矢诹访子.md)
 
 
 ---

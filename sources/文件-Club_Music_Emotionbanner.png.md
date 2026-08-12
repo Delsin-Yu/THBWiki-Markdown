@@ -1,14 +1,11 @@
 # 文件:Club_Music_Emotionbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b0\ns6%3AClub_Music_Emotionbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b0\ns6%3AClub_Music_Emotionbanner%2Epng.html -->
 
 Club_Music_Emotion | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

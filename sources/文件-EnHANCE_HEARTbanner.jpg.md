@@ -1,14 +1,11 @@
 # 文件:EnHANCE_HEARTbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0b\ns6%3AEnHANCE_HEARTbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0b\ns6%3AEnHANCE_HEARTbanner%2Ejpg.html -->
 
 EnHANCE_HEART | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

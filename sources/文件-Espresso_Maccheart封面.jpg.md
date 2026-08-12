@@ -1,6 +1,6 @@
 # 文件:Espresso_Maccheart封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b0\ns6%3AEspresso_Maccheart%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b0\ns6%3AEspresso_Maccheart%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Digitalic_Party | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Digitalic_Party | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Espresso Maccheart](./Espresso_Maccheart.md)  
-该封面包含的角色：- [火焰猫燐](./火焰猫燐.md)
+- [Espresso Maccheart](./Espresso_Maccheart.md)该封面包含的角色：
+- [火焰猫燐](./火焰猫燐.md)
 
   
-源地址：[[1]](http://digitalic-party.net/image/event/rts8/jacket.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://digitalic-party.net/image/event/rts8/jacket.jpg)  
 
 ---
 

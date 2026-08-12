@@ -1,6 +1,6 @@
 # 文件:Triplet_vol.2封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\43\ns6%3ATriplet_vol%2E2%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\43\ns6%3ATriplet_vol%2E2%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 36MACHINE | Sound_Square | けみかるしとらすけーき！ | 专辑封面 | 封面图片
 
@@ -8,16 +8,13 @@
 使用了本文件作封面图片的作品：
   
 
-- [Triplet vol.2](./Triplet_vol.2.md)  
-该封面包含的角色：- [露娜萨·普莉兹姆利巴](./露娜萨·普莉兹姆利巴.md)- [梅露兰·普莉兹姆利巴](./梅露兰·普莉兹姆利巴.md)- [莉莉卡·普莉兹姆利巴](./莉莉卡·普莉兹姆利巴.md)
+- [Triplet vol.2](./Triplet_vol.2.md)该封面包含的角色：
+- [露娜萨·普莉兹姆利巴](./露娜萨·普莉兹姆利巴.md)
+- [梅露兰·普莉兹姆利巴](./梅露兰·普莉兹姆利巴.md)
+- [莉莉卡·普莉兹姆利巴](./莉莉卡·普莉兹姆利巴.md)
 
   
-源地址：[[1]](http://blog-imgs-60.fc2.com/s/o/u/soundsquare/Triplet_vol2_jacket_omote_500.png)
-  
-
-
-
-
+源地址：[\[1\]](http://blog-imgs-60.fc2.com/s/o/u/soundsquare/Triplet_vol2_jacket_omote_500.png)  
 
 ---
 

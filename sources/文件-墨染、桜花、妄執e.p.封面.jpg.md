@@ -1,6 +1,6 @@
 # 文件:墨染、桜花、妄執e.p.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f9\ns6%3A%E5%A2%A8%E6%9F%93%E3%80%81%E6%A1%9C%E8%8A%B1%E3%80%81%E5%A6%84%E5%9F%B7e%2Ep%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f9\ns6%3A%E5%A2%A8%E6%9F%93%E3%80%81%E6%A1%9C%E8%8A%B1%E3%80%81%E5%A6%84%E5%9F%B7e%2Ep%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 クロックタイムアナグラム | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [墨染、桜花、妄執e.p.](./墨染、桜花、妄執e.p..md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)
-
-
-
+- [墨染、桜花、妄執e.p.](./墨染、桜花、妄執e.p..md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
 
 
 ---

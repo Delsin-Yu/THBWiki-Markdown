@@ -1,6 +1,6 @@
 # 文件:SILVER_BULLET封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\83\ns6%3ASILVER_BULLET%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\83\ns6%3ASILVER_BULLET%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 緑高原
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [SILVER BULLET](./SILVER_BULLET.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)
+- [SILVER BULLET](./SILVER_BULLET.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
 
   
-源地址：[direct image link (original uploaded image)](https://pbs.twimg.com/media/Ewl2SU_UYAEucxk?format=jpg&amp;name=orig), [source tweet](https://twitter.com/Green_Kohgen/status/1371758334886379524)
-  
-
-
-
-
+源地址：[direct image link (original uploaded image)](https://pbs.twimg.com/media/Ewl2SU_UYAEucxk?format=jpg&name=orig), [source tweet](https://twitter.com/Green_Kohgen/status/1371758334886379524)  
 
 ---
 

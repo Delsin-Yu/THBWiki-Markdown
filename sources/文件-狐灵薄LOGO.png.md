@@ -1,12 +1,8 @@
 # 文件:狐灵薄LOGO.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\99\ns6%3A%E7%8B%90%E7%81%B5%E8%96%84LOGO%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\99\ns6%3A%E7%8B%90%E7%81%B5%E8%96%84LOGO%2Epng.html -->
 
 狐灵薄Fox-Limbo | 社团LOGO
-
-
-
-
 
 
 ---

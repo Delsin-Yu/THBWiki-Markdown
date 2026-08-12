@@ -1,6 +1,6 @@
 # 文件:3rd_eye封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\56\ns6%3A3rd_eye%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\56\ns6%3A3rd_eye%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 3rd_eye_制作委員会 | 封面图片 | 软件封面
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [3rd eye](./3rd_eye.md)  
-该封面包含的角色：- [古明地恋](./古明地恋.md)
-
-
-
+- [3rd eye](./3rd_eye.md)该封面包含的角色：
+- [古明地恋](./古明地恋.md)
 
 
 ---

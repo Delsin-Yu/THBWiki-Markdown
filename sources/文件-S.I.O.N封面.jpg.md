@@ -1,6 +1,6 @@
 # 文件:S.I.O.N封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fe\ns6%3AS%2EI%2EO%2EN%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fe\ns6%3AS%2EI%2EO%2EN%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 WILD_CAT_RECORD | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@ WILD_CAT_RECORD | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [S.I.O.N](./S.I.O.N.md)  
-该封面包含的角色：- [八云紫](./八云紫.md)
+- [S.I.O.N](./S.I.O.N.md)该封面包含的角色：
+- [八云紫](./八云紫.md)
 
   
-来源：[[1]](https://vocadb.net/Al/24633)
-  
-
-
-
-
+来源：[\[1\]](https://vocadb.net/Al/24633)  
 
 ---
 

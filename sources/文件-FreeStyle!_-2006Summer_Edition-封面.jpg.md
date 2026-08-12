@@ -1,6 +1,6 @@
 # 文件:FreeStyle!_-2006Summer_Edition-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cc\ns6%3AFreeStyle%21_-2006Summer_Edition-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cc\ns6%3AFreeStyle%21_-2006Summer_Edition-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 mistbell | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ mistbell | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [FreeStyle! -2006Summer Edition-](./FreeStyle!_-2006Summer_Edition-.md)  
-该封面包含的角色：- 原创角色 (未找到链接)
+- [FreeStyle! -2006Summer Edition-](./FreeStyle!_-2006Summer_Edition-.md)该封面包含的角色：
+- 原创角色 (未找到链接)
 
   
-源地址：[direct image link](https://www.suruga-ya.jp/database/pics/game/186117986.jpg), [origin page](https://www.suruga-ya.jp/product/detail/186117986)
-  
-
-
-
-
+源地址：[direct image link](https://www.suruga-ya.jp/database/pics/game/186117986.jpg), [origin page](https://www.suruga-ya.jp/product/detail/186117986)  
 
 ---
 

@@ -1,16 +1,12 @@
 # 模板:大富豪vs大贫民
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\8\8b\ns10%3A%E5%A4%A7%E5%AF%8C%E8%B1%AAvs%E5%A4%A7%E8%B4%AB%E6%B0%91.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\8\8b\ns10%3A%E5%A4%A7%E5%AF%8C%E8%B1%AAvs%E5%A4%A7%E8%B4%AB%E6%B0%91.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

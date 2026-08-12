@@ -1,14 +1,11 @@
 # 文件:メガネcafeLOGO.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5f\ns6%3A%E3%83%A1%E3%82%AC%E3%83%8DcafeLOGO%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5f\ns6%3A%E3%83%A1%E3%82%AC%E3%83%8DcafeLOGO%2Ejpg.html -->
 
 メガネcafe | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

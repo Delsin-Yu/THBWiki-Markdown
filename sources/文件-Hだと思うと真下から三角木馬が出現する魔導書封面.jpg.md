@@ -1,6 +1,6 @@
 # 文件:Hだと思うと真下から三角木馬が出現する魔導書封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9d\ns6%3AH%E3%81%A0%E3%81%A8%E6%80%9D%E3%81%86%E3%81%A8%E7%9C%9F%E4%B8%8B%E3%81%8B%E3%82%89%E4%B8%89%E8%A7%92%E6%9C%A8%E9%A6%AC%E3%81%8C%E5%87%BA%E7%8F%BE%E3%81%99%E3%82%8B%E9%AD%94%E5%B0%8E%E6%9B%B8%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9d\ns6%3AH%E3%81%A0%E3%81%A8%E6%80%9D%E3%81%86%E3%81%A8%E7%9C%9F%E4%B8%8B%E3%81%8B%E3%82%89%E4%B8%89%E8%A7%92%E6%9C%A8%E9%A6%AC%E3%81%8C%E5%87%BA%E7%8F%BE%E3%81%99%E3%82%8B%E9%AD%94%E5%B0%8E%E6%9B%B8%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 エントゲーゲン | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Hだと思うと真下から三角木馬が出現する魔導書](./Hだと思うと真下から三角木馬が出現する魔導書.md)  
-该封面包含的角色：- [小恶魔](./小恶魔.md)
-
-
-
+- [Hだと思うと真下から三角木馬が出現する魔導書](./Hだと思うと真下から三角木馬が出現する魔導書.md)该封面包含的角色：
+- [小恶魔](./小恶魔.md)
 
 
 ---

@@ -1,16 +1,11 @@
 # 文件:ad_libitum_recordsbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ac\ns6%3Aad_libitum_recordsbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ac\ns6%3Aad_libitum_recordsbanner%2Epng.html -->
 
 ad_libitum_records | 社团LOGO
 
   
-源地址：[[1]](https://web.archive.org/web/20070219144326im_/http://www.ad-l.net/banner.png)
-  
-
-
-
-
+源地址：[\[1\]](https://web.archive.org/web/20070219144326im_/http://www.ad-l.net/banner.png)  
 
 ---
 

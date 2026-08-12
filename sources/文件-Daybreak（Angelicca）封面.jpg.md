@@ -1,6 +1,6 @@
 # 文件:Daybreak（Angelicca）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\39\ns6%3ADaybreak%EF%BC%88Angelicca%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\39\ns6%3ADaybreak%EF%BC%88Angelicca%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Angelicca | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Angelicca | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Daybreak（Angelicca）](./Daybreak（Angelicca）.md)  
-该封面包含的角色：- [古明地恋](./古明地恋.md)
-
-
-
+- [Daybreak（Angelicca）](./Daybreak（Angelicca）.md)该封面包含的角色：
+- [古明地恋](./古明地恋.md)
 
 
 ---

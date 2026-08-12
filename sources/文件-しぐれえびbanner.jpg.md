@@ -1,12 +1,8 @@
 # 文件:しぐれえびbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6f\ns6%3A%E3%81%97%E3%81%90%E3%82%8C%E3%81%88%E3%81%B3banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6f\ns6%3A%E3%81%97%E3%81%90%E3%82%8C%E3%81%88%E3%81%B3banner%2Ejpg.html -->
 
 しぐれえび | 社团LOGO
-
-
-
-
 
 
 ---

@@ -1,16 +1,12 @@
 # 模板:Divergent_Connection
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\3\33\ns10%3ADivergent_Connection.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\3\33\ns10%3ADivergent_Connection.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

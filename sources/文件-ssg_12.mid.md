@@ -1,16 +1,12 @@
 # 文件:ssg_12.mid
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c0\ns6%3Assg_12%2Emid.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c0\ns6%3Assg_12%2Emid.html -->
 
 Antique_Terror | 东方幻想的音乐 | 官方MIDI | 秋霜玉
 
   
 アンティークテラー 秋霜玉6面道中主题曲。 东方的幻想音乐版，与原秋霜玉版本有出入！
   
-
-
-
-
 
 ---
 

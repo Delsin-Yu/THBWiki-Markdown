@@ -1,6 +1,6 @@
 # 文件:SOUND_VOLTEX×東方Project_TOHOMATION_PARADISE_MIX_vol.1封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\16\ns6%3ASOUND_VOLTEX%C3%97%E6%9D%B1%E6%96%B9Project_TOHOMATION_PARADISE_MIX_vol%2E1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\16\ns6%3ASOUND_VOLTEX%C3%97%E6%9D%B1%E6%96%B9Project_TOHOMATION_PARADISE_MIX_vol%2E1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 KONAMI | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ KONAMI | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [SOUND VOLTEX×東方Project TOHOMATION PARADISE MIX vol.1](./SOUND_VOLTEX×東方Project_TOHOMATION_PARADISE_MIX_vol.1.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [SOUND VOLTEX×東方Project TOHOMATION PARADISE MIX vol.1](./SOUND_VOLTEX×東方Project_TOHOMATION_PARADISE_MIX_vol.1.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

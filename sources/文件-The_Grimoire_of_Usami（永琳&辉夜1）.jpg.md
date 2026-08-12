@@ -1,14 +1,11 @@
 # 文件:The_Grimoire_of_Usami（永琳&辉夜1）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c2\ns6%3AThe_Grimoire_of_Usami%EF%BC%88%E6%B0%B8%E7%90%B3%26%E8%BE%89%E5%A4%9C1%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c2\ns6%3AThe_Grimoire_of_Usami%EF%BC%88%E6%B0%B8%E7%90%B3%26%E8%BE%89%E5%A4%9C1%EF%BC%89%2Ejpg.html -->
 
 八意永琳 | 宇佐见的魔法书 | 蓬莱山辉夜
 
 
 ## 摘要
-
-
-
 
 ---
 

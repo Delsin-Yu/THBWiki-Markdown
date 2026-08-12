@@ -1,6 +1,6 @@
 # 文件:Believe_in_my_little_intention封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f0\ns6%3ABelieve_in_my_little_intention%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f0\ns6%3ABelieve_in_my_little_intention%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Karkan | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ Karkan | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Believe in my little intention](./Believe_in_my_little_intention.md)  
-该封面包含的角色：- [古明地觉](./古明地觉.md)- [古明地恋](./古明地恋.md)
-
-
-
+- [Believe in my little intention](./Believe_in_my_little_intention.md)该封面包含的角色：
+- [古明地觉](./古明地觉.md)
+- [古明地恋](./古明地恋.md)
 
 
 ---

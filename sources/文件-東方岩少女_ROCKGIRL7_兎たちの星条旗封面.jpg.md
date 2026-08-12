@@ -1,6 +1,6 @@
 # 文件:東方岩少女_ROCKGIRL7_兎たちの星条旗封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\99\ns6%3A%E6%9D%B1%E6%96%B9%E5%B2%A9%E5%B0%91%E5%A5%B3_ROCKGIRL7_%E5%85%8E%E3%81%9F%E3%81%A1%E3%81%AE%E6%98%9F%E6%9D%A1%E6%97%97%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\99\ns6%3A%E6%9D%B1%E6%96%B9%E5%B2%A9%E5%B0%91%E5%A5%B3_ROCKGIRL7_%E5%85%8E%E3%81%9F%E3%81%A1%E3%81%AE%E6%98%9F%E6%9D%A1%E6%97%97%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 趣味工房にんじんわいん
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方岩少女 ROCKGIRL7 兎たちの星条旗](./東方岩少女_ROCKGIRL7_兎たちの星条旗.md)  
-该封面包含的角色：- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
-
-
-
+- [東方岩少女 ROCKGIRL7 兎たちの星条旗](./東方岩少女_ROCKGIRL7_兎たちの星条旗.md)该封面包含的角色：
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
 
 
 ---

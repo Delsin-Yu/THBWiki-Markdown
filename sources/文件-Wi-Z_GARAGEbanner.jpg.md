@@ -1,12 +1,8 @@
 # 文件:Wi-Z_GARAGEbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d1\ns6%3AWi-Z_GARAGEbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d1\ns6%3AWi-Z_GARAGEbanner%2Ejpg.html -->
 
 Wi-Z_GARAGE | 社团LOGO
-
-
-
-
 
 
 ---

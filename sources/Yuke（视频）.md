@@ -1,13 +1,12 @@
 # Yuke（视频）
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\4c\ns0%3AYuke%EF%BC%88%E8%A7%86%E9%A2%91%EF%BC%89.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\4c\ns0%3AYuke%EF%BC%88%E8%A7%86%E9%A2%91%EF%BC%89.html -->
 
 东方Project同人视频列表。
 
   
 本页面用于收录yuke的东方视频作品
   
-
 
 <table>
 
@@ -327,7 +326,7 @@
 <td>
 </td></tr>
 <tr>
-<td><a href="/%E6%9D%B1%E6%96%B9%E5%8E%9F%E6%9B%B2%E3%83%9C%E3%83%BC%E3%82%AB%E3%83%AB%E3%82%A2%E3%83%AB%E3%83%90%E3%83%A0%E3%80%8C%E5%B9%BB%E6%83%B3%E5%B4%A9%E5%A3%8A%E3%80%8D%E3%82%AF%E3%83%AD%E3%82%B9%E3%83%95%E3%82%A7%E3%83%BC%E3%83%89%E3%83%87%E3%83%A2" title="東方原曲ボーカルアルバム「幻想崩壊」クロスフェードデモ">東方原曲ボーカルアルバム「幻想崩壊」クロスフェードデモ</a></td>
+<td><a href="./東方原曲ボーカルアルバム「幻想崩壊」クロスフェードデモ.md" title="東方原曲ボーカルアルバム「幻想崩壊」クロスフェードデモ">東方原曲ボーカルアルバム「幻想崩壊」クロスフェードデモ</a></td>
 <td>yuke</td>
 <td>日本</td>
 <td>2018年04月01日</td>
@@ -345,7 +344,7 @@
 <td>
 </td></tr>
 <tr>
-<td><a href="/%E6%9D%B1%E6%96%B9%E5%8E%9F%E6%9B%B2%E3%83%9C%E3%83%BC%E3%82%AB%E3%83%AB%E3%82%A2%E3%83%AB%E3%83%90%E3%83%A0%E3%80%8C%E5%B9%BB%E6%83%B3%E5%9C%B0%E7%8D%84%E3%82%81%E3%81%90%E3%82%8A%E3%80%8D%E3%82%AF%E3%83%AD%E3%82%B9%E3%83%95%E3%82%A7%E3%83%BC%E3%83%89%E3%83%87%E3%83%A2" title="東方原曲ボーカルアルバム「幻想地獄めぐり」クロスフェードデモ">東方原曲ボーカルアルバム「幻想地獄めぐり」クロスフェードデモ</a></td>
+<td><a href="./東方原曲ボーカルアルバム「幻想地獄めぐり」クロスフェードデモ.md" title="東方原曲ボーカルアルバム「幻想地獄めぐり」クロスフェードデモ">東方原曲ボーカルアルバム「幻想地獄めぐり」クロスフェードデモ</a></td>
 <td>yuke</td>
 <td>日本</td>
 <td>2020年04月01日</td>
@@ -366,14 +365,10 @@
 <th colspan="7" align="center"><b>同人视频共有分类：<a href="./分类-同人视频.md" title="分类:同人视频">同人视频</a></b>
 </th></tr></tbody></table>
 
-
 Yuke - 东方Project同人视频列表。
-
 ## 符卡
+
 - [符卡](./Yuke（视频）-符卡.md)
-
-
-
 
 
 ---

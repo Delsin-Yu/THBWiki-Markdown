@@ -1,12 +1,8 @@
 # 文件:UAbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1b\ns6%3AUAbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1b\ns6%3AUAbanner%2Ejpg.html -->
 
 UA | 社团LOGO
-
-
-
-
 
 
 ---

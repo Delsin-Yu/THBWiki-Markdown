@@ -1,6 +1,6 @@
 # 東方求霖忍_～_Realizzando_Difficile_Decisione./其他
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\c\c9\ns0%3A%E6%9D%B1%E6%96%B9%E6%B1%82%E9%9C%96%E5%BF%8D_%EF%BD%9E_Realizzando_Difficile_Decisione%2E%2F%E5%85%B6%E4%BB%96.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\c\c9\ns0%3A%E6%9D%B1%E6%96%B9%E6%B1%82%E9%9C%96%E5%BF%8D_%EF%BD%9E_Realizzando_Difficile_Decisione%2E%2F%E5%85%B6%E4%BB%96.html -->
 
 遊色高楼
 
@@ -9,7 +9,6 @@
 
 - [1 常规音效](#常规音效)
 - [2 Last Word战的挑战条件及对话](#Last_Word战的挑战条件及对话)
-
   - [2.1 「夜雾的桥姬」](#「夜雾的桥姬」)
   - [2.2 「Promyvion的黑暗夜」](#「Promyvion的黑暗夜」)
   - [2.3 「Call Wyvern」](#「Call_Wyvern」)
@@ -17,12 +16,11 @@
   - [2.5 「集中炮花」](#「集中炮花」)
   - [2.6 「转生弹幕草子」](#「转生弹幕草子」)
   - [2.7 「Famicom Soft Drift」](#「Famicom_Soft_Drift」)
-  - [2.8 「Vicinity's Cancer」](#「Vicinity&#39;s_Cancer」)
+  - [2.8 「Vicinity's Cancer」](#「Vicinity's_Cancer」)
   - [2.9 「弹幕最终幻想」](#「弹幕最终幻想」)
   - [2.10 「机械结构的水中要塞」](#「机械结构的水中要塞」)
   - [2.11 「Geminian Maelstrom」](#「Geminian_Maelstrom」)
   - [2.12 「兼备光与暗的最强结界」](#「兼备光与暗的最强结界」)
-
 
 
 - [3 重新挑战界面](#重新挑战界面)
@@ -30,10 +28,8 @@
 - [5 注释](#注释)
 
 
-
-
-
 ## 常规音效
+
 - 注意，这些内容均为听译获得。如发现错误欢迎修改。
 
 
@@ -60,7 +56,7 @@
 <tr>
 <td><center>污忍</center></td>
 <td><center>别以为你赢了啊啊啊！！</center></td>
-<td><center>勝ったと思うなよぉぉぉーーー！！<sup id="cite_ref-nin_1-0" class="reference"><a href="#cite_note-nin-1">1</a></sup></center></td>
+<td><center>勝ったと思うなよぉぉぉーーー！！<span>[^cite_note-nin-1]</span></center></td>
 <td>中弹时
 </td></tr>
 <tr>
@@ -78,7 +74,7 @@
 <tr>
 <td><center>水桥帕露西</center></td>
 <td><center>爆炸吧！</center></td>
-<td><center>発なさい<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">2</a></sup></center></td>
+<td><center>発なさい<span>[^cite_note-2]</span></center></td>
 <td>EX发动Bomb 1「Jealousy Bomber」时
 </td></tr>
 <tr>
@@ -174,16 +170,14 @@
 </tbody></table>
 
 
-
 ## Last Word战的挑战条件及对话
+
 - 注意，这些内容均为听译获得。如发现错误欢迎修改。
 
 
 ### 「夜雾的桥姬」
 挑战条件
 : Normal或以上难度无续关通关
-
-
 
 <table>
 
@@ -193,7 +187,7 @@
 </p>
 </th>
 <td style="width: 44%" lang="ja">
-<p>こんなに私と忍者で、意識の差があるとは思わなかった…！<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">3</a></sup>
+<p>こんなに私と忍者で、意識の差があるとは思わなかった…！<span>[^cite_note-3]</span>
 </p>
 </td>
 <td style="width: 44%">
@@ -202,13 +196,9 @@
 </td></tr></tbody></table>
 
 
-
-
 ### 「Promyvion的黑暗夜」
 挑战条件
 : Normal或以上难度最高分超过360000000
-
-
 
 <table>
 
@@ -227,13 +217,9 @@
 </td></tr></tbody></table>
 
 
-
-
 ### 「Call Wyvern」
 挑战条件
 : 收取符卡No.24 No.36 No.106 No.114
-
-
 
 <table>
 
@@ -247,18 +233,14 @@
 </p>
 </td>
 <td style="width: 44%">
-<p>快来，Mikan碳！<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">4</a></sup>
+<p>快来，Mikan碳！<span>[^cite_note-4]</span>
 </p>
 </td></tr></tbody></table>
-
-
 
 
 ### 「Stimulus Roller」
 挑战条件
 : Hard或以上难度无续关通关
-
-
 
 <table>
 
@@ -277,13 +259,9 @@
 </td></tr></tbody></table>
 
 
-
-
 ### 「集中炮花」
 挑战条件
 : 收取符卡No.52 No.63 No.91 No.111
-
-
 
 <table>
 
@@ -302,13 +280,9 @@
 </td></tr></tbody></table>
 
 
-
-
 ### 「转生弹幕草子」
 挑战条件
 : Lunatic难度无续关通关
-
-
 
 <table>
 
@@ -327,13 +301,9 @@
 </td></tr></tbody></table>
 
 
-
-
 ### 「Famicom Soft Drift」
 挑战条件
 : 收取符卡No.10 No.41 No.61 No.100
-
-
 
 <table>
 
@@ -352,13 +322,9 @@
 </td></tr></tbody></table>
 
 
-
-
 ### 「Vicinity's Cancer」
 挑战条件
 : Extra难度通关
-
-
 
 <table>
 
@@ -377,13 +343,9 @@
 </td></tr></tbody></table>
 
 
-
-
 ### 「弹幕最终幻想」
 挑战条件
 : Last Word No.8为止全部挑战过
-
-
 
 <table>
 
@@ -402,13 +364,9 @@
 </td></tr></tbody></table>
 
 
-
-
 ### 「机械结构的水中要塞」
 挑战条件
 : Last Word No.1 No.2 No.4收取
-
-
 
 <table>
 
@@ -422,18 +380,14 @@
 </p>
 </td>
 <td style="width: 44%">
-<p>让你见识一下，我不输给加斯特拉帝国<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">5</a></sup>的技术力！
+<p>让你见识一下，我不输给加斯特拉帝国<span>[^cite_note-5]</span>的技术力！
 </p>
 </td></tr></tbody></table>
-
-
 
 
 ### 「Geminian Maelstrom」
 挑战条件
 : Last Word No.8 No.10收取
-
-
 
 <table>
 
@@ -467,7 +421,7 @@
 <td>
 </td>
 <th colspan="2">
-<p>河城荷取&amp;键山雏 暂停攻击
+<p>河城荷取&键山雏 暂停攻击
 </p>
 </th></tr>
 <tr>
@@ -498,13 +452,9 @@
 </td></tr></tbody></table>
 
 
-
-
 ### 「兼备光与暗的最强结界」
 挑战条件
 : 除此之外的Last Word全部收取
-
-
 
 <table>
 
@@ -514,7 +464,7 @@
 </p>
 </th>
 <td style="width: 44%" lang="ja">
-<p>光と闇が両方そなわり最強に見える！<sup id="cite_ref-buront_6-0" class="reference"><a href="#cite_note-buront-6">6</a></sup>
+<p>光と闇が両方そなわり最強に見える！<span>[^cite_note-buront-6]</span>
 </p>
 </td>
 <td style="width: 44%">
@@ -540,7 +490,7 @@
 </p>
 </th>
 <td style="width: 44%" lang="ja">
-<p>何いきなり話かけて来てるわけ？<sup id="cite_ref-buront_6-1" class="reference"><a href="#cite_note-buront-6">6</a></sup>
+<p>何いきなり話かけて来てるわけ？<span>[^cite_note-buront-6]</span>
 </p>
 </td>
 <td style="width: 44%">
@@ -566,7 +516,7 @@
 </p>
 </th>
 <td style="width: 44%" lang="ja">
-<p>ウザイなおまえケンカ売ってるのか？<sup id="cite_ref-buront_6-2" class="reference"><a href="#cite_note-buront-6">6</a></sup>
+<p>ウザイなおまえケンカ売ってるのか？<span>[^cite_note-buront-6]</span>
 </p>
 </td>
 <td style="width: 44%">
@@ -579,7 +529,7 @@
 </p>
 </th>
 <td style="width: 44%" lang="ja">
-<p>あらあら、どうしたんだナイトぉ？ん？そんな攻撃が俺に当たると思ってんのか？<sup id="cite_ref-nin_1-1" class="reference"><a href="#cite_note-nin-1">1</a></sup>
+<p>あらあら、どうしたんだナイトぉ？ん？そんな攻撃が俺に当たると思ってんのか？<span>[^cite_note-nin-1]</span>
 </p>
 </td>
 <td style="width: 44%">
@@ -592,7 +542,7 @@
 </p>
 </th>
 <td style="width: 44%" lang="ja">
-<p>あまり調子に乗ってると、裏世界でひっそり幕を閉じる！<sup id="cite_ref-buront_6-3" class="reference"><a href="#cite_note-buront-6">6</a></sup>
+<p>あまり調子に乗ってると、裏世界でひっそり幕を閉じる！<span>[^cite_note-buront-6]</span>
 </p>
 </td>
 <td style="width: 44%">
@@ -618,7 +568,7 @@
 </p>
 </th>
 <td style="width: 44%" lang="ja">
-<p>汚いなさすが忍者きたない<sup id="cite_ref-buront_6-4" class="reference"><a href="#cite_note-buront-6">6</a></sup>
+<p>汚いなさすが忍者きたない<span>[^cite_note-buront-6]</span>
 </p>
 </td>
 <td style="width: 44%">
@@ -635,7 +585,7 @@
 </p>
 </td>
 <td style="width: 44%">
-<p>切，纸兵<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">7</a></sup>越来越少了。但老子可不会输给你！！！
+<p>切，纸兵<span>[^cite_note-7]</span>越来越少了。但老子可不会输给你！！！
 </p>
 </td></tr>
 <tr>
@@ -644,7 +594,7 @@
 </p>
 </th>
 <td style="width: 44%" lang="ja">
-<p>調子に乗るなよ、本気出すだ！<sup id="cite_ref-buront_6-5" class="reference"><a href="#cite_note-buront-6">6</a></sup>
+<p>調子に乗るなよ、本気出すだ！<span>[^cite_note-buront-6]</span>
 </p>
 </td>
 <td style="width: 44%">
@@ -693,8 +643,6 @@
 </td></tr></tbody></table>
 
 
-
-
 ## 重新挑战界面
 
 <table>
@@ -710,17 +658,16 @@
 <td>要继续挑战吗？
 </td></tr>
 <tr>
-<td>はい。お願いします。<sup id="cite_ref-dictionary_8-0" class="reference"><a href="#cite_note-dictionary-8">8</a></sup></td>
-<td>Yes, please.<sup id="cite_ref-dictionary_8-1" class="reference"><a href="#cite_note-dictionary-8">8</a></sup></td>
+<td>はい。お願いします。<span>[^cite_note-dictionary-8]</span></td>
+<td>Yes, please.<span>[^cite_note-dictionary-8]</span></td>
 <td>是的，拜托了。
 </td></tr>
 <tr>
-<td>せっかくだけど遠慮します。<sup id="cite_ref-dictionary_8-2" class="reference"><a href="#cite_note-dictionary-8">8</a></sup></td>
-<td>Thanks for the offer, but I'll have to pass.<sup id="cite_ref-dictionary_8-3" class="reference"><a href="#cite_note-dictionary-8">8</a></sup></td>
+<td>せっかくだけど遠慮します。<span>[^cite_note-dictionary-8]</span></td>
+<td>Thanks for the offer, but I'll have to pass.<span>[^cite_note-dictionary-8]</span></td>
 <td>虽然难得，还是算了吧
 </td></tr>
 </tbody></table>
-
 
 
 ## 未知音乐播放说明
@@ -737,29 +684,36 @@
 </td></tr>
 
 <tr>
-<td>曲のコメントがえnたバレ<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">9</a></sup>になっちぇしまうのは決定的に明らか<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">10</a></sup>。</td>
+<td>曲のコメントがえnたバレ<span>[^cite_note-9]</span>になっちぇしまうのは決定的に明らか<span>[^cite_note-10]</span>。</td>
 <td>曲子的评论含有剧拓是决定性的显而易见。
 </td></tr>
 <tr>
-<td>それでもｶｶッ<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">11</a></sup>と再生するのか？</td>
+<td>それでもｶｶッ<span>[^cite_note-11]</span>と再生するのか？</td>
 <td>即便如此也要咔咔地播放吗？
 </td></tr>
 <tr>
-<td>再生したい忍者さんはもう一度決定バタンを押せばいいらしいぞ<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">12</a></sup></td>
+<td>再生したい忍者さんはもう一度決定バタンを押せばいいらしいぞ<span>[^cite_note-12]</span></td>
 <td>想要播放的忍者请好像要再按一次确定键
 </td></tr>
 <tr>
-<td>再生したくない謙虚なナイトはバックステッポ<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">13</a></sup>すべきそうべき<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">14</a></sup></td>
+<td>再生したくない謙虚なナイトはバックステッポ<span>[^cite_note-13]</span>すべきそうべき<span>[^cite_note-14]</span></td>
 <td>不想播放的谦虚的骑士应该就应该发动Back Step
 </td></tr></tbody></table>
 
-
-
 [^cite_note-nin-1]: 污忍的名台词。
-
-
-
-
+[^cite_note-2]: 疑为「爆発なさい」被截掉了一个字。
+[^cite_note-3]: 捏他自《超级机器人大战K》，主角米斯特·雷克斯的名言。
+[^cite_note-4]: 龙桑的爱龙。来源是FF11中，龙骑士职业最初可选的飞龙名字之一。
+[^cite_note-5]: FF6中登场的庞大帝国，有着强大的魔导技术。
+[^cite_note-buront-6]: 谦虚骑士布伦特的名台词。
+[^cite_note-7]: FF11中忍者发动空蝉之术必须的忍具。
+[^cite_note-dictionary-8]: 这是FF11中的“定型文”，类似于中国游戏中的“快速回复”。
+[^cite_note-9]: えnたバレ。布伦特语特征：故意打字顺序错误。
+[^cite_note-10]: 決定的に明らか。布伦特语特征：同义反复。此外，这句话布伦特本人用过。
+[^cite_note-11]: ｶｶッ。布伦特语。可以用来形容一切的拟声词。
+[^cite_note-12]: らしいぞ。布伦特语特征：多用「らしい」。
+[^cite_note-13]: バックステッポ。布伦特语。起源是FF中的后退系统。
+[^cite_note-14]: 污忍语：XXそうXX。
 
 ---
 

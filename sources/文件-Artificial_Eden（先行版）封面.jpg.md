@@ -1,6 +1,6 @@
 # 文件:Artificial_Eden（先行版）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c7\ns6%3AArtificial_Eden%EF%BC%88%E5%85%88%E8%A1%8C%E7%89%88%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c7\ns6%3AArtificial_Eden%EF%BC%88%E5%85%88%E8%A1%8C%E7%89%88%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Echollapsar | 专辑封面 | 封面图片
 
@@ -10,11 +10,9 @@ Echollapsar | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Artificial Eden（先行版）](./Artificial_Eden（先行版）.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [Artificial Eden（先行版）](./Artificial_Eden（先行版）.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

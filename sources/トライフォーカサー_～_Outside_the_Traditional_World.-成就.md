@@ -1,13 +1,12 @@
 # トライフォーカサー_～_Outside_the_Traditional_World./成就
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\e\e8\ns0%3A%E3%83%88%E3%83%A9%E3%82%A4%E3%83%95%E3%82%A9%E3%83%BC%E3%82%AB%E3%82%B5%E3%83%BC_%EF%BD%9E_Outside_the_Traditional_World%2E%2F%E6%88%90%E5%B0%B1.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\e\e8\ns0%3A%E3%83%88%E3%83%A9%E3%82%A4%E3%83%95%E3%82%A9%E3%83%BC%E3%82%AB%E3%82%B5%E3%83%BC_%EF%BD%9E_Outside_the_Traditional_World%2E%2F%E6%88%90%E5%B0%B1.html -->
 
 東方邪星章製作チーム
 
   
 注：未满足条件时名称和描述不解锁，只能看见取得条件。
   
-
 
 <table>
 
@@ -314,10 +313,6 @@
 <td>恭喜你能达到这一步。当个天狗也不错。</td>
 <td>取得所有其他成就。
 </td></tr></tbody></table>
-
-
-
-
 
 
 ---

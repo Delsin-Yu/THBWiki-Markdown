@@ -1,6 +1,6 @@
 # Danmaku!!/Staff
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\e\e5\ns0%3ADanmaku%21%21%2FStaff.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\e\e5\ns0%3ADanmaku%21%21%2FStaff.html -->
 
 Mystery_Parfait
 
@@ -58,10 +58,6 @@ Mystery Parfait
 : Matt Gregory
 : Bichen Wang
 : M. Beatriz García
-
-
-
-
 
 ---
 

@@ -1,12 +1,8 @@
 # 文件:THBWiki-LOGO-燕乐玄鸟.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\db\ns6%3ATHBWiki-LOGO-%E7%87%95%E4%B9%90%E7%8E%84%E9%B8%9F%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\db\ns6%3ATHBWiki-LOGO-%E7%87%95%E4%B9%90%E7%8E%84%E9%B8%9F%2Epng.html -->
 
 THBWiki | Wiki词条分类用图
-
-
-
-
 
 
 ---

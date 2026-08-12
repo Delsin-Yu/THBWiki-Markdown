@@ -1,12 +1,8 @@
 # 文件:Toby对谈24.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\db\ns6%3AToby%E5%AF%B9%E8%B0%8824%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\db\ns6%3AToby%E5%AF%B9%E8%B0%8824%2Epng.html -->
 
 Toby对谈 | 东方绀珠传
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Absolute_Wish封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\32\ns6%3AAbsolute_Wish%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\32\ns6%3AAbsolute_Wish%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 もぱた。 | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Absolute Wish](./Absolute_Wish.md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)
+- [Absolute Wish](./Absolute_Wish.md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
 
   
-[[1]](http://mopata.iza-yoi.net/mpt/mpt0002/index.html)
-  
-
-
-
-
+[\[1\]](http://mopata.iza-yoi.net/mpt/mpt0002/index.html)  
 
 ---
 

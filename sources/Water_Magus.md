@@ -1,22 +1,21 @@
 # Water_Magus
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\3\3d\ns0%3AWater_Magus.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\3\3d\ns0%3AWater_Magus.html -->
 
 2009年3月21日 由 Infrontia 于 东方不败小町5 发布的漫画同人志，B5尺寸一共40页，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人志 (未找到链接)** 的词条
-
+**[二次创作同人志](./二次创作.md#同人志)**的词条
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Water_Magus封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/a/a7/Water_Magus%E5%B0%81%E9%9D%A2.jpg/138px-Water_Magus%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="138" height="196" srcset="https://upload.thwiki.cc/thumb/a/a7/Water_Magus%E5%B0%81%E9%9D%A2.jpg/208px-Water_Magus%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/a/a7/Water_Magus%E5%B0%81%E9%9D%A2.jpg/277px-Water_Magus%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="389" data-file-height="550"></a><div class="cover-char">角色：<a href="./琪露诺.md" title="琪露诺">琪露诺</a></div></td>
 </tr><tr><td class="label">名称</td><td colspan="2"> Water Magus </td></tr><tr><td class="label">制作方</td><td><a href="./Infrontia.md" title="Infrontia">Infrontia</a></td><td class="cover-artwork" rowspan="7" style="min-width:196px;"><a href="./文件-Water_Magus封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/a/a7/Water_Magus%E5%B0%81%E9%9D%A2.jpg/138px-Water_Magus%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="138" height="196" srcset="https://upload.thwiki.cc/thumb/a/a7/Water_Magus%E5%B0%81%E9%9D%A2.jpg/208px-Water_Magus%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/a/a7/Water_Magus%E5%B0%81%E9%9D%A2.jpg/277px-Water_Magus%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="389" data-file-height="550"></a><div class="cover-char">角色：<a href="./琪露诺.md" title="琪露诺">琪露诺</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2009-03-21&#160;（<a href="/展会作品列表?e=%E4%B8%9C%E6%96%B9%E4%B8%8D%E8%B4%A5%E5%B0%8F%E7%94%BA%235">東方不敗小町5</a>）</td></tr><tr><td class="label">类型</td><td>漫画</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>B5</td></tr><tr><td class="label">页数</td><td>40P</td></tr><tr><td class="label">售价</td><td>500日元</td></tr>
+</tr><tr><td class="label">首发日期</td><td>2009-03-21 （<a href="./展会作品列表.md#5">東方不敗小町5</a>）</td></tr><tr><td class="label">类型</td><td>漫画</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>B5</td></tr><tr><td class="label">页数</td><td>40P</td></tr><tr><td class="label">售价</td><td>500日元</td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://www.studiomabo.jp/yamagata/index.php?e=131">http://www.studiomabo.jp/yamagata/index.php?e=131</a></td></tr></tbody></table>
 
 Water Magus（同人志，Infrontia，2009） - 2009年3月21日 由 Infrontia 于 东方不败小町5 发布的漫画同人志，B5尺寸一共40页，分级为 一般向
-
 ## Staff
+
 - [山県ひでと](./山県ひでと.md)
 
 
@@ -24,14 +23,6 @@ Water Magus（同人志，Infrontia，2009） - 2009年3月21日 由 Infrontia �
   
 チルノが幻想郷をふらふら飛び回る、ちょっと暗めなお話。
   
-  
-  
-
-  
-
-
-
-
 
 ---
 

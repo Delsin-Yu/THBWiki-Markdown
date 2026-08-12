@@ -1,14 +1,11 @@
 # 文件:Mountain_Jackbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5f\ns6%3AMountain_Jackbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5f\ns6%3AMountain_Jackbanner%2Epng.html -->
 
 Mountain_Jack | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

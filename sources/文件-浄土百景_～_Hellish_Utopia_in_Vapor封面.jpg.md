@@ -1,6 +1,6 @@
 # 文件:浄土百景_～_Hellish_Utopia_in_Vapor封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\22\ns6%3A%E6%B5%84%E5%9C%9F%E7%99%BE%E6%99%AF_%EF%BD%9E_Hellish_Utopia_in_Vapor%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\22\ns6%3A%E6%B5%84%E5%9C%9F%E7%99%BE%E6%99%AF_%EF%BD%9E_Hellish_Utopia_in_Vapor%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 平成懐元堂
 
@@ -8,16 +8,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [浄土百景 ～ Hellish Utopia in Vapor](./浄土百景_～_Hellish_Utopia_in_Vapor.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
+- [浄土百景 ～ Hellish Utopia in Vapor](./浄土百景_～_Hellish_Utopia_in_Vapor.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
   
-源地址：[[1]](https://pbs.twimg.com/media/D3jFxuKUcAAKtk8.jpg), [source tweet](https://twitter.com/_neruzou/status/1114858376532451328)
-  
-
-
-
-
+源地址：[\[1\]](https://pbs.twimg.com/media/D3jFxuKUcAAKtk8.jpg), [source tweet](https://twitter.com/_neruzou/status/1114858376532451328)  
 
 ---
 

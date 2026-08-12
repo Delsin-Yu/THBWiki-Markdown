@@ -1,6 +1,6 @@
 # 文件:宵闇伝説_The_Legend_of_Twilight封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f8\ns6%3A%E5%AE%B5%E9%97%87%E4%BC%9D%E8%AA%AC_The_Legend_of_Twilight%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f8\ns6%3A%E5%AE%B5%E9%97%87%E4%BC%9D%E8%AA%AC_The_Legend_of_Twilight%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 封面图片 | 川獺アルカディア | 软件封面
 
@@ -9,9 +9,6 @@
   
 
 - [宵闇伝説 The Legend of Twilight](./宵闇伝説_The_Legend_of_Twilight.md)
-
-
-
 
 
 ---

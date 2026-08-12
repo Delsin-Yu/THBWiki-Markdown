@@ -1,18 +1,13 @@
 # 文件:雪の足跡banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f7\ns6%3A%E9%9B%AA%E3%81%AE%E8%B6%B3%E8%B7%A1banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f7\ns6%3A%E9%9B%AA%E3%81%AE%E8%B6%B3%E8%B7%A1banner%2Ejpg.html -->
 
 社团LOGO | 雪の足跡
 
 
 ## 摘要
   
-源地址：[direct image link](http://yukiato.sakura.ne.jp/banner/yuki_banner.jpg), [source page](http://yukiato.sakura.ne.jp/link.html)
-  
-
-
-
-
+源地址：[direct image link](http://yukiato.sakura.ne.jp/banner/yuki_banner.jpg), [source page](http://yukiato.sakura.ne.jp/link.html)  
 
 ---
 

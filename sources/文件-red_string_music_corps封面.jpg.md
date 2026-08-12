@@ -1,6 +1,6 @@
 # 文件:red_string_music_corps封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\63\ns6%3Ared_string_music_corps%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\63\ns6%3Ared_string_music_corps%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 UNDER_CAT | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ UNDER_CAT | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [red string music corps](./red_string_music_corps.md)  
-该封面包含的角色：- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
-
-
-
+- [red string music corps](./red_string_music_corps.md)该封面包含的角色：
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
 
 ---

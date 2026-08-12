@@ -1,6 +1,6 @@
 # 文件:東方幻夢譚～Les_rêves_de_livres_dans_la_nuit_noire.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e5\ns6%3A%E6%9D%B1%E6%96%B9%E5%B9%BB%E5%A4%A2%E8%AD%9A%EF%BD%9ELes_r%C3%AAves_de_livres_dans_la_nuit_noire%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e5\ns6%3A%E6%9D%B1%E6%96%B9%E5%B9%BB%E5%A4%A2%E8%AD%9A%EF%BD%9ELes_r%C3%AAves_de_livres_dans_la_nuit_noire%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Dandelion_Trio | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ Dandelion_Trio | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方幻夢譚～Les rêves de livres dans la nuit noire.](./東方幻夢譚～Les_rêves_de_livres_dans_la_nuit_noire..md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [東方幻夢譚～Les rêves de livres dans la nuit noire.](./東方幻夢譚～Les_rêves_de_livres_dans_la_nuit_noire..md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

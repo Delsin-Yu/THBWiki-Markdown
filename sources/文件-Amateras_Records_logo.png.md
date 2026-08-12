@@ -1,12 +1,8 @@
 # 文件:Amateras_Records_logo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\01\ns6%3AAmateras_Records_logo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\01\ns6%3AAmateras_Records_logo%2Epng.html -->
 
 Amateras_Records | 社团LOGO
-
-
-
-
 
 
 ---

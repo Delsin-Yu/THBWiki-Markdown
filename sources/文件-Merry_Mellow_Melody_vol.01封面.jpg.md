@@ -1,6 +1,6 @@
 # 文件:Merry_Mellow_Melody_vol.01封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bd\ns6%3AMerry_Mellow_Melody_vol%2E01%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bd\ns6%3AMerry_Mellow_Melody_vol%2E01%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Merry_Mellow | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ Merry_Mellow | 专辑封面 | 封面图片
   
 
 - [Merry Mellow Melody vol.01](./Merry_Mellow_Melody_vol.01.md)
-
-
-
 
 
 ---

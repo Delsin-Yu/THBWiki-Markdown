@@ -1,6 +1,6 @@
 # 文件:Touhou_Luna_Nights_-_Original_Soundtrack封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\92\ns6%3ATouhou_Luna_Nights_-_Original_Soundtrack%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\92\ns6%3ATouhou_Luna_Nights_-_Original_Soundtrack%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Team_Ladybug | Vaka_Game_Magazine | peposoft | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Team_Ladybug | Vaka_Game_Magazine | peposoft | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Touhou Luna Nights - Original Soundtrack](./Touhou_Luna_Nights_-_Original_Soundtrack.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)
-
-
-
+- [Touhou Luna Nights - Original Soundtrack](./Touhou_Luna_Nights_-_Original_Soundtrack.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Empty_Dream封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e8\ns6%3AEmpty_Dream%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e8\ns6%3AEmpty_Dream%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Invisible_Garbage | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@ Invisible_Garbage | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Empty Dream](./Empty_Dream.md)  
-该封面包含的角色：- [露米娅](./露米娅.md)
+- [Empty Dream](./Empty_Dream.md)该封面包含的角色：
+- [露米娅](./露米娅.md)
 
   
-[Pixiv artwork ID: 69685561](https://www.pixiv.net/artworks/69685561)
-  
-
-
-
-
+[Pixiv artwork ID: 69685561](https://www.pixiv.net/artworks/69685561)  
 
 ---
 

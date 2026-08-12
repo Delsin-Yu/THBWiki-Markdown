@@ -1,6 +1,6 @@
 # 文件:THE_BEST_TOHO_EURO_OF_DJ_Command封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\01\ns6%3ATHE_BEST_TOHO_EURO_OF_DJ_Command%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\01\ns6%3ATHE_BEST_TOHO_EURO_OF_DJ_Command%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Eurobeat_Union | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Eurobeat_Union | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [THE BEST TOHO EURO OF DJ Command](./THE_BEST_TOHO_EURO_OF_DJ_Command.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
-
-
-
+- [THE BEST TOHO EURO OF DJ Command](./THE_BEST_TOHO_EURO_OF_DJ_Command.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
 
 ---

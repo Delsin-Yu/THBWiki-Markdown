@@ -1,6 +1,6 @@
 # 文件:寝ん猫飯店のお通し_Vol.1封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cf\ns6%3A%E5%AF%9D%E3%82%93%E7%8C%AB%E9%A3%AF%E5%BA%97%E3%81%AE%E3%81%8A%E9%80%9A%E3%81%97_Vol%2E1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cf\ns6%3A%E5%AF%9D%E3%82%93%E7%8C%AB%E9%A3%AF%E5%BA%97%E3%81%AE%E3%81%8A%E9%80%9A%E3%81%97_Vol%2E1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 寝ん猫飯店 | 封面图片
 
@@ -11,9 +11,6 @@
   
 
 - [寝ん猫飯店のお通し Vol.1](./寝ん猫飯店のお通し_Vol.1.md)
-
-
-
 
 
 ---

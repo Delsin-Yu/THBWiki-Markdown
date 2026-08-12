@@ -1,12 +1,8 @@
 # 文件:东方天陨梦stEX.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\96\ns6%3A%E4%B8%9C%E6%96%B9%E5%A4%A9%E9%99%A8%E6%A2%A6stEX%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\96\ns6%3A%E4%B8%9C%E6%96%B9%E5%A4%A9%E9%99%A8%E6%A2%A6stEX%2Epng.html -->
 
 NooblyPerson
-
-
-
-
 
 
 ---

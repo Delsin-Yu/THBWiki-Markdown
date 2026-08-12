@@ -1,6 +1,6 @@
 # 文件:Mind_games_～幻想心遊塔～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8a\ns6%3AMind_games_%EF%BD%9E%E5%B9%BB%E6%83%B3%E5%BF%83%E9%81%8A%E5%A1%94%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8a\ns6%3AMind_games_%EF%BD%9E%E5%B9%BB%E6%83%B3%E5%BF%83%E9%81%8A%E5%A1%94%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 子猫夺回屋 | 封面图片
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [Mind games ～幻想心遊塔～](./Mind_games_～幻想心遊塔～.md)  
-该封面包含的角色：- [比那名居天子](./比那名居天子.md)- [秦心](./秦心.md)
-
-
-
+- [Mind games ～幻想心遊塔～](./Mind_games_～幻想心遊塔～.md)该封面包含的角色：
+- [比那名居天子](./比那名居天子.md)
+- [秦心](./秦心.md)
 
 
 ---

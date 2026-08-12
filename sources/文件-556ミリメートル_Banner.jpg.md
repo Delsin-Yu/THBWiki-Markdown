@@ -1,12 +1,8 @@
 # 文件:556ミリメートル_Banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c4\ns6%3A556%E3%83%9F%E3%83%AA%E3%83%A1%E3%83%BC%E3%83%88%E3%83%AB_Banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c4\ns6%3A556%E3%83%9F%E3%83%AA%E3%83%A1%E3%83%BC%E3%83%88%E3%83%AB_Banner%2Ejpg.html -->
 
 556ミリメートル | 社团LOGO
-
-
-
-
 
 
 ---

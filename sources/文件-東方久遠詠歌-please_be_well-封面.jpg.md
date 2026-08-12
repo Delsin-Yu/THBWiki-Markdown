@@ -1,6 +1,6 @@
 # 文件:東方久遠詠歌-please_be_well-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f1\ns6%3A%E6%9D%B1%E6%96%B9%E4%B9%85%E9%81%A0%E8%A9%A0%E6%AD%8C-please_be_well-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f1\ns6%3A%E6%9D%B1%E6%96%B9%E4%B9%85%E9%81%A0%E8%A9%A0%E6%AD%8C-please_be_well-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 UtAGe | 专辑封面 | 封面图片
 
@@ -8,11 +8,17 @@ UtAGe | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方久遠詠歌-please be well-](./東方久遠詠歌-please_be_well-.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [橙](./橙.md)- [八云蓝](./八云蓝.md)- [八云紫](./八云紫.md)- [藤原妹红](./藤原妹红.md)- [比那名居天子](./比那名居天子.md)- [东风谷早苗](./东风谷早苗.md)- [洩矢诹访子](./洩矢诹访子.md)- [火焰猫燐](./火焰猫燐.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [東方久遠詠歌-please be well-](./東方久遠詠歌-please_be_well-.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [橙](./橙.md)
+- [八云蓝](./八云蓝.md)
+- [八云紫](./八云紫.md)
+- [藤原妹红](./藤原妹红.md)
+- [比那名居天子](./比那名居天子.md)
+- [东风谷早苗](./东风谷早苗.md)
+- [洩矢诹访子](./洩矢诹访子.md)
+- [火焰猫燐](./火焰猫燐.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

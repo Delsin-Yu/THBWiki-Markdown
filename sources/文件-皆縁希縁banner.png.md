@@ -1,12 +1,8 @@
 # 文件:皆縁希縁banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\58\ns6%3A%E7%9A%86%E7%B8%81%E5%B8%8C%E7%B8%81banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\58\ns6%3A%E7%9A%86%E7%B8%81%E5%B8%8C%E7%B8%81banner%2Epng.html -->
 
 皆縁希縁 | 社团LOGO
-
-
-
-
 
 
 ---

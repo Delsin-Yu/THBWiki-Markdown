@@ -1,6 +1,6 @@
 # 文件:冥夜_-神奏楽曲集III-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\28\ns6%3A%E5%86%A5%E5%A4%9C_-%E7%A5%9E%E5%A5%8F%E6%A5%BD%E6%9B%B2%E9%9B%86III-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\28\ns6%3A%E5%86%A5%E5%A4%9C_-%E7%A5%9E%E5%A5%8F%E6%A5%BD%E6%9B%B2%E9%9B%86III-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 神楽庭園
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [冥夜 -神奏楽曲集III-](./冥夜_-神奏楽曲集III-.md)  
-该封面包含的角色：- [蓬莱山辉夜](./蓬莱山辉夜.md)
-
-
-
+- [冥夜 -神奏楽曲集III-](./冥夜_-神奏楽曲集III-.md)该封面包含的角色：
+- [蓬莱山辉夜](./蓬莱山辉夜.md)
 
 
 ---

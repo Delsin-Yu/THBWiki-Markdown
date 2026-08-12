@@ -1,6 +1,6 @@
 # 文件:Back_To_life封面.jpeg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5c\ns6%3ABack_To_life%E5%B0%81%E9%9D%A2%2Ejpeg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5c\ns6%3ABack_To_life%E5%B0%81%E9%9D%A2%2Ejpeg.html -->
 
 Border_Of_Nightmares | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ Border_Of_Nightmares | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Back To Life](./Back_To_Life.md)  
-该封面包含的角色：- [圣白莲](./圣白莲.md)- [封兽鵺](./封兽鵺.md)
-
-
-
+- [Back To Life](./Back_To_Life.md)该封面包含的角色：
+- [圣白莲](./圣白莲.md)
+- [封兽鵺](./封兽鵺.md)
 
 
 ---

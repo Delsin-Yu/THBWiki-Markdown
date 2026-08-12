@@ -1,16 +1,11 @@
 # 文件:overpurebanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0b\ns6%3Aoverpurebanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0b\ns6%3Aoverpurebanner%2Epng.html -->
 
 overpure | 社团LOGO
 
   
-源地址：[[1]](https://web.archive.org/web/20131206192255if_/http://overpure.net/image/banner/overpure1.png)
-  
-
-
-
-
+源地址：[\[1\]](https://web.archive.org/web/20131206192255if_/http://overpure.net/image/banner/overpure1.png)  
 
 ---
 

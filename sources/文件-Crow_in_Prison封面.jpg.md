@@ -1,6 +1,6 @@
 # 文件:Crow_in_Prison封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0b\ns6%3ACrow_in_Prison%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0b\ns6%3ACrow_in_Prison%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 黒板クリーナー
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Crow in Prison](./Crow_in_Prison.md)  
-该封面包含的角色：- [灵乌路空](./灵乌路空.md)
+- [Crow in Prison](./Crow_in_Prison.md)该封面包含的角色：
+- [灵乌路空](./灵乌路空.md)
 
   
-源地址: [[1]](http://sakuku39.tuzigiri.com/fig/reitaisai8_jak.jpg)
-  
-
-
-
-
+源地址: [\[1\]](http://sakuku39.tuzigiri.com/fig/reitaisai8_jak.jpg)  
 
 ---
 

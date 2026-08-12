@@ -1,18 +1,13 @@
 # 文件:クロスロッジbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dc\ns6%3A%E3%82%AF%E3%83%AD%E3%82%B9%E3%83%AD%E3%83%83%E3%82%B8banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dc\ns6%3A%E3%82%AF%E3%83%AD%E3%82%B9%E3%83%AD%E3%83%83%E3%82%B8banner%2Epng.html -->
 
 クロスロッジ | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[direct image link](http://www.usamimi.info/~crosslodge/images/banner_crosslodge.png), [source page](http://www.usamimi.info/~crosslodge/)
-  
-
-
-
-
+源地址：[direct image link](http://www.usamimi.info/~crosslodge/images/banner_crosslodge.png), [source page](http://www.usamimi.info/~crosslodge/)  
 
 ---
 

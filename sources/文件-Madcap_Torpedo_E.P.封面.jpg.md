@@ -1,6 +1,6 @@
 # 文件:Madcap_Torpedo_E.P.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8b\ns6%3AMadcap_Torpedo_E%2EP%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8b\ns6%3AMadcap_Torpedo_E%2EP%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Sound_Square | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ Sound_Square | 专辑封面 | 封面图片
   
 
 - [Madcap Torpedo E.P.](./Madcap_Torpedo_E.P..md)
-
-
-
 
 
 ---

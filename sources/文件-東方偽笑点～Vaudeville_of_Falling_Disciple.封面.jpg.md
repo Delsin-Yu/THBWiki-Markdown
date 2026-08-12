@@ -1,6 +1,6 @@
 # 文件:東方偽笑点～Vaudeville_of_Falling_Disciple.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ae\ns6%3A%E6%9D%B1%E6%96%B9%E5%81%BD%E7%AC%91%E7%82%B9%EF%BD%9EVaudeville_of_Falling_Disciple%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ae\ns6%3A%E6%9D%B1%E6%96%B9%E5%81%BD%E7%AC%91%E7%82%B9%EF%BD%9EVaudeville_of_Falling_Disciple%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 封面图片 | 笑点大喜利歌丸团 | 软件封面
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方偽笑点～Vaudeville of Falling Disciple.](./東方偽笑点～Vaudeville_of_Falling_Disciple..md)  
-该封面包含的角色：- [土佐由依](./土佐由依.md)
-
-
-
+- [東方偽笑点～Vaudeville of Falling Disciple.](./東方偽笑点～Vaudeville_of_Falling_Disciple..md)该封面包含的角色：
+- [土佐由依](./土佐由依.md)
 
 
 ---

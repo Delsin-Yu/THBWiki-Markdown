@@ -1,6 +1,6 @@
 # 文件:東方任天音4_神-kanae-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ed\ns6%3A%E6%9D%B1%E6%96%B9%E4%BB%BB%E5%A4%A9%E9%9F%B34_%E7%A5%9E-kanae-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ed\ns6%3A%E6%9D%B1%E6%96%B9%E4%BB%BB%E5%A4%A9%E9%9F%B34_%E7%A5%9E-kanae-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 スタジオネネム | 专辑封面 | 封面图片
 
@@ -8,11 +8,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方任天音4 神-kanae-](./東方任天音4_神-kanae-.md)  
-该封面包含的角色：- [苏我屠自古](./苏我屠自古.md)- [物部布都](./物部布都.md)- [丰聪耳神子](./丰聪耳神子.md)
-
-
-
+- [東方任天音4 神-kanae-](./東方任天音4_神-kanae-.md)该封面包含的角色：
+- [苏我屠自古](./苏我屠自古.md)
+- [物部布都](./物部布都.md)
+- [丰聪耳神子](./丰聪耳神子.md)
 
 
 ---

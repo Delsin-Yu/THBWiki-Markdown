@@ -1,12 +1,8 @@
 # 文件:兔符「Berry_Berry_Dango」（绀珠传）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\46\ns6%3A%E5%85%94%E7%AC%A6%E3%80%8CBerry_Berry_Dango%E3%80%8D%EF%BC%88%E7%BB%80%E7%8F%A0%E4%BC%A0%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\46\ns6%3A%E5%85%94%E7%AC%A6%E3%80%8CBerry_Berry_Dango%E3%80%8D%EF%BC%88%E7%BB%80%E7%8F%A0%E4%BC%A0%EF%BC%89%2Epng.html -->
 
 东方绀珠传 | 敌机符卡 | 铃瑚
-
-
-
-
 
 
 ---

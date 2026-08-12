@@ -1,6 +1,6 @@
 # 文件:nakayoshi封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\77\ns6%3Anakayoshi%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\77\ns6%3Anakayoshi%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ロケット燃料★21 | 同人志封面 | 封面图片
 
@@ -8,11 +8,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [nakayoshi](./nakayoshi.md)  
-该封面包含的角色：- [纯狐](./纯狐.md)- [克劳恩皮丝](./克劳恩皮丝.md)- [赫卡提亚·拉碧斯拉祖利](./赫卡提亚·拉碧斯拉祖利.md)
-
-
-
+- [nakayoshi](./nakayoshi.md)该封面包含的角色：
+- [纯狐](./纯狐.md)
+- [克劳恩皮丝](./克劳恩皮丝.md)
+- [赫卡提亚·拉碧斯拉祖利](./赫卡提亚·拉碧斯拉祖利.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:2_~_CREATE_TO_DESTROY封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8e\ns6%3A2_%7E_CREATE_TO_DESTROY%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8e\ns6%3A2_%7E_CREATE_TO_DESTROY%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Holmgang_Ov_Gensokyo | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@ Holmgang_Ov_Gensokyo | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [2 ~ CREATE TO DESTROY](./2_~_CREATE_TO_DESTROY.md)  
-该封面包含的角色：- [神绮](./神绮.md)
+- [2 ~ CREATE TO DESTROY](./2_~_CREATE_TO_DESTROY.md)该封面包含的角色：
+- [神绮](./神绮.md)
 
   
-源地址：[direct image link (10 size)](https://f4.bcbits.com/img/a2168677998_10.jpg), [source page (circle Bandcamp)](https://f4.bcbits.com/img/a2168677998_10.jpg)
-  
-
-
-
-
+源地址：[direct image link (10 size)](https://f4.bcbits.com/img/a2168677998_10.jpg), [source page (circle Bandcamp)](https://f4.bcbits.com/img/a2168677998_10.jpg)  
 
 ---
 

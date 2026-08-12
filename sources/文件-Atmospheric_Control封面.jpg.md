@@ -1,6 +1,6 @@
 # 文件:Atmospheric_Control封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5d\ns6%3AAtmospheric_Control%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5d\ns6%3AAtmospheric_Control%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 floater-io | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ floater-io | 专辑封面 | 封面图片
   
 
 - [Atmospheric Control](./Atmospheric_Control.md)
-
-
-
 
 
 ---

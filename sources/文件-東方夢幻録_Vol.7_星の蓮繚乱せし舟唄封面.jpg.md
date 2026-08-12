@@ -1,6 +1,6 @@
 # 文件:東方夢幻録_Vol.7_星の蓮繚乱せし舟唄封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\76\ns6%3A%E6%9D%B1%E6%96%B9%E5%A4%A2%E5%B9%BB%E9%8C%B2_Vol%2E7_%E6%98%9F%E3%81%AE%E8%93%AE%E7%B9%9A%E4%B9%B1%E3%81%9B%E3%81%97%E8%88%9F%E5%94%84%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\76\ns6%3A%E6%9D%B1%E6%96%B9%E5%A4%A2%E5%B9%BB%E9%8C%B2_Vol%2E7_%E6%98%9F%E3%81%AE%E8%93%AE%E7%B9%9A%E4%B9%B1%E3%81%9B%E3%81%97%E8%88%9F%E5%94%84%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Re：Volte | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ Re：Volte | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方夢幻録 Vol.7 星の蓮繚乱せし舟唄](./東方夢幻録_Vol.7_星の蓮繚乱せし舟唄.md)  
-该封面包含的角色：- [娜兹玲](./娜兹玲.md)- [寅丸星](./寅丸星.md)
-
-
-
+- [東方夢幻録 Vol.7 星の蓮繚乱せし舟唄](./東方夢幻録_Vol.7_星の蓮繚乱せし舟唄.md)该封面包含的角色：
+- [娜兹玲](./娜兹玲.md)
+- [寅丸星](./寅丸星.md)
 
 
 ---

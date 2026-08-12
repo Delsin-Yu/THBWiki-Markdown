@@ -1,6 +1,6 @@
 # 文件:The_Border_(of_life_and_death)封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\35\ns6%3AThe_Border_%28of_life_and_death%29%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\35\ns6%3AThe_Border_%28of_life_and_death%29%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 NCMR | 专辑封面 | 封面图片
 
@@ -8,15 +8,10 @@ NCMR | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [The Border (of life and death)](./The_Border_(of_life_and_death).md)
+- [The Border (of life and death)](./The_Border_(of_life_and_death%29.md)
 
   
-源地址：[[1]](https://ncmr.bandcamp.com/album/the-border-of-life-and-death)
-  
-
-
-
-
+源地址：[\[1\]](https://ncmr.bandcamp.com/album/the-border-of-life-and-death)  
 
 ---
 

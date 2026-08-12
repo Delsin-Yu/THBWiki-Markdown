@@ -1,12 +1,8 @@
 # 文件:东方鬼葬剑Stage1标题.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\17\ns6%3A%E4%B8%9C%E6%96%B9%E9%AC%BC%E8%91%AC%E5%89%91Stage1%E6%A0%87%E9%A2%98%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\17\ns6%3A%E4%B8%9C%E6%96%B9%E9%AC%BC%E8%91%AC%E5%89%91Stage1%E6%A0%87%E9%A2%98%2Ejpg.html -->
 
 東方邪星章製作チーム
-
-
-
-
 
 
 ---

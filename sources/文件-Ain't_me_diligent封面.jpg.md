@@ -1,6 +1,6 @@
 # 文件:Ain't_me_diligent封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ab\ns6%3AAin%27t_me_diligent%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ab\ns6%3AAin%27t_me_diligent%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ついったー東方部 | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Ain't me diligent](./Ain't_me_diligent.md)  
-该封面包含的角色：- [鬼人正邪](./鬼人正邪.md)
+- [Ain't me diligent](./Ain't_me_diligent.md)该封面包含的角色：
+- [鬼人正邪](./鬼人正邪.md)
 
   
-源地址：[[1]](http://static.tumblr.com/0d720f4073487c78d830682a9ee66f86/luuput8/7dqop8qm6/tumblr_static_8nyixqx4650cgww40gkw8w880.png)
-  
-
-
-
-
+源地址：[\[1\]](http://static.tumblr.com/0d720f4073487c78d830682a9ee66f86/luuput8/7dqop8qm6/tumblr_static_8nyixqx4650cgww40gkw8w880.png)  
 
 ---
 

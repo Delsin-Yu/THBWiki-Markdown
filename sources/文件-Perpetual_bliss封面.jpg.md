@@ -1,6 +1,6 @@
 # 文件:Perpetual_bliss封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e7\ns6%3APerpetual_bliss%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e7\ns6%3APerpetual_bliss%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 いちごさいず | 同人志封面 | 封面图片
 
@@ -10,16 +10,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [Perpetual bliss](./Perpetual_bliss.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [Perpetual bliss](./Perpetual_bliss.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
   
-[Pixiv artwork ID: 12510860](https://www.pixiv.net/artworks/12510860)
-  
-
-
-
-
+[Pixiv artwork ID: 12510860](https://www.pixiv.net/artworks/12510860)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:東方EUROBEAT_ARRANGE_Vol.6封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\68\ns6%3A%E6%9D%B1%E6%96%B9EUROBEAT_ARRANGE_Vol%2E6%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\68\ns6%3A%E6%9D%B1%E6%96%B9EUROBEAT_ARRANGE_Vol%2E6%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 SuganoMusic | 专辑封面 | 封面图片
 
@@ -11,12 +11,7 @@ SuganoMusic | 专辑封面 | 封面图片
 - [東方EUROBEAT ARRANGE Vol.6](./東方EUROBEAT_ARRANGE_Vol.6.md)
 
   
-源地址：[[1]](http://suganomusic.com/wp/wp-content/uploads/2015/04/TOHO_EUROBEAT_ARRANGE_Vol6.png)
-  
-
-
-
-
+源地址：[\[1\]](http://suganomusic.com/wp/wp-content/uploads/2015/04/TOHO_EUROBEAT_ARRANGE_Vol6.png)  
 
 ---
 

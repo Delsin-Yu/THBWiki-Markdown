@@ -1,6 +1,6 @@
 # 文件:Sumireko's_Clearance_Cruise封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\78\ns6%3ASumireko%27s_Clearance_Cruise%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\78\ns6%3ASumireko%27s_Clearance_Cruise%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 DJThunderheart | Megapig9001 | Wookywok | 封面图片 | 软件封面
 
@@ -10,16 +10,11 @@ DJThunderheart | Megapig9001 | Wookywok | 封面图片 | 软件封面
 使用了本文件作封面图片的作品：
   
 
-- [Sumireko's Clearance Cruise](./Sumireko's_Clearance_Cruise.md)  
-该封面包含的角色：- [宇佐见堇子](./宇佐见堇子.md)
+- [Sumireko's Clearance Cruise](./Sumireko's_Clearance_Cruise.md)该封面包含的角色：
+- [宇佐见堇子](./宇佐见堇子.md)
 
   
-源地址：[direct image link](https://img.itch.zone/aW1nLzkzMTY1NzUucG5n/315x250#c/IlbMa5.png), [source page](https://wookywok.itch.io/)
-  
-
-
-
-
+源地址：[direct image link](https://img.itch.zone/aW1nLzkzMTY1NzUucG5n/315x250#c/IlbMa5.png), [source page](https://wookywok.itch.io/)  
 
 ---
 

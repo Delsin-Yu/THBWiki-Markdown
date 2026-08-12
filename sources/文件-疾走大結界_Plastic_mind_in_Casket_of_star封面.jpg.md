@@ -1,6 +1,6 @@
 # 文件:疾走大結界_Plastic_mind_in_Casket_of_star封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a1\ns6%3A%E7%96%BE%E8%B5%B0%E5%A4%A7%E7%B5%90%E7%95%8C_Plastic_mind_in_Casket_of_star%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a1\ns6%3A%E7%96%BE%E8%B5%B0%E5%A4%A7%E7%B5%90%E7%95%8C_Plastic_mind_in_Casket_of_star%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 AQUAELIE | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ AQUAELIE | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [疾走大結界 Plastic mind in Casket of star](./疾走大結界_Plastic_mind_in_Casket_of_star.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [疾走大結界 Plastic mind in Casket of star](./疾走大結界_Plastic_mind_in_Casket_of_star.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

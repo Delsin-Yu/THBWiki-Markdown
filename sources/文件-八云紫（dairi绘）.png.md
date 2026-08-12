@@ -1,12 +1,8 @@
 # 文件:八云紫（dairi绘）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\33\ns6%3A%E5%85%AB%E4%BA%91%E7%B4%AB%EF%BC%88dairi%E7%BB%98%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\33\ns6%3A%E5%85%AB%E4%BA%91%E7%B4%AB%EF%BC%88dairi%E7%BB%98%EF%BC%89%2Epng.html -->
 
 NooblyPerson | 二次角色立绘 | 八云紫（天陨梦）
-
-
-
-
 
 
 ---

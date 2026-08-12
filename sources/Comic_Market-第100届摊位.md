@@ -1,20 +1,15 @@
 # Comic_Market/第100届摊位
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\9\9a\ns0%3AComic_Market%2F%E7%AC%AC100%E5%B1%8A%E6%91%8A%E4%BD%8D.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\9\9a\ns0%3AComic_Market%2F%E7%AC%AC100%E5%B1%8A%E6%91%8A%E4%BD%8D.html -->
 
 活动摊位列表
-
-  
-  
-
-  
 
 
 <table>
 
 <tbody><tr>
 <td><b>名称</b></td>
-<td><a href="/Comic_Market#100" title="Comic Market">Comic Market 100</a>
+<td><a href="./Comic_Market.md#100" title="Comic Market">Comic Market 100</a>
 </td></tr>
 <tr>
 <td><b>日期</b></td>
@@ -29,15 +24,9 @@
 <td>708
 </td></tr></tbody></table>
 
-
- **摊位信息**   
+**摊位信息**  
 
 <table><tbody><tr><th>摊位编号</th><th>社团名称</th><th>官网页面</th><th>宣传页面</th><th>备注</th></tr><tr><td id="上海爱丽丝幻乐团">シ-47a</td><td><a href="./上海爱丽丝幻乐团.md" title="上海爱丽丝幻乐团">上海爱丽丝幻乐团</a></td><td><a rel="nofollow" class="external text" href="https://www16.big.or.jp/~zun/">官网</a></td><td><a rel="nofollow" class="external text" href="https://touhou-project.news/news/7436/">东方四方山新闻</a></td><td><a href="./弹幕狂们的黑市.md" title="弹幕狂们的黑市">弹幕狂们的黑市</a>首发</td></tr></tbody></table>
-
-
-
-
-
 
 
 ---

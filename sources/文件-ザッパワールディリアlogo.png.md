@@ -1,18 +1,13 @@
 # 文件:ザッパワールディリアlogo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\da\ns6%3A%E3%82%B6%E3%83%83%E3%83%91%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%AA%E3%82%A2logo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\da\ns6%3A%E3%82%B6%E3%83%83%E3%83%91%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%AA%E3%82%A2logo%2Epng.html -->
 
 ザッパワールディリア | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[[1]](https://static.wixstatic.com/media/30aca8_a46dab6cefc142c9a25f3672ed4b0c55~mv2_d_1929_1929_s_2.png)
-  
-
-
-
-
+源地址：[\[1\]](https://static.wixstatic.com/media/30aca8_a46dab6cefc142c9a25f3672ed4b0c55~mv2_d_1929_1929_s_2.png)  
 
 ---
 

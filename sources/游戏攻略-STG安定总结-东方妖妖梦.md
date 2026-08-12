@@ -1,6 +1,6 @@
 # 游戏攻略/STG安定总结/东方妖妖梦
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\b7\ns0%3A%E6%B8%B8%E6%88%8F%E6%94%BB%E7%95%A5%2FSTG%E5%AE%89%E5%AE%9A%E6%80%BB%E7%BB%93%2F%E4%B8%9C%E6%96%B9%E5%A6%96%E5%A6%96%E6%A2%A6.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\b7\ns0%3A%E6%B8%B8%E6%88%8F%E6%94%BB%E7%95%A5%2FSTG%E5%AE%89%E5%AE%9A%E6%80%BB%E7%BB%93%2F%E4%B8%9C%E6%96%B9%E5%A6%96%E5%A6%96%E6%A2%A6.html -->
 
 
 
@@ -45,14 +45,14 @@
 <td><a href="./文件-安定总结-妖妖梦6.jpg.md" class="image"><img alt="安定总结-妖妖梦6.jpg" src="https://upload.thwiki.cc/thumb/0/0d/%E5%AE%89%E5%AE%9A%E6%80%BB%E7%BB%93-%E5%A6%96%E5%A6%96%E6%A2%A66.jpg/100px-%E5%AE%89%E5%AE%9A%E6%80%BB%E7%BB%93-%E5%A6%96%E5%A6%96%E6%A2%A66.jpg" decoding="async" loading="lazy" width="100" height="200" srcset="https://upload.thwiki.cc/thumb/0/0d/%E5%AE%89%E5%AE%9A%E6%80%BB%E7%BB%93-%E5%A6%96%E5%A6%96%E6%A2%A66.jpg/150px-%E5%AE%89%E5%AE%9A%E6%80%BB%E7%BB%93-%E5%A6%96%E5%A6%96%E6%A2%A66.jpg 1.5x, https://upload.thwiki.cc/0/0d/%E5%AE%89%E5%AE%9A%E6%80%BB%E7%BB%93-%E5%A6%96%E5%A6%96%E6%A2%A66.jpg 2x" data-file-width="200" data-file-height="400"></a><a href="./文件-安定总结-妖妖梦7.jpg.md" class="image"><img alt="安定总结-妖妖梦7.jpg" src="https://upload.thwiki.cc/thumb/0/0a/%E5%AE%89%E5%AE%9A%E6%80%BB%E7%BB%93-%E5%A6%96%E5%A6%96%E6%A2%A67.jpg/100px-%E5%AE%89%E5%AE%9A%E6%80%BB%E7%BB%93-%E5%A6%96%E5%A6%96%E6%A2%A67.jpg" decoding="async" loading="lazy" width="100" height="200" srcset="https://upload.thwiki.cc/thumb/0/0a/%E5%AE%89%E5%AE%9A%E6%80%BB%E7%BB%93-%E5%A6%96%E5%A6%96%E6%A2%A67.jpg/150px-%E5%AE%89%E5%AE%9A%E6%80%BB%E7%BB%93-%E5%A6%96%E5%A6%96%E6%A2%A67.jpg 1.5x, https://upload.thwiki.cc/0/0a/%E5%AE%89%E5%AE%9A%E6%80%BB%E7%BB%93-%E5%A6%96%E5%A6%96%E6%A2%A67.jpg 2x" data-file-width="200" data-file-height="400"></a>
 </td>
 <td>6面道中符六道剑「一念无量劫」，各难度不同。
-<p>贴底，以单词Enemy的字母位置确定，各难度不同。<br>E难度：第一波和第二波：n上方(不过并不是站着不动就不会死)<br>N难度：第一波和第二波：y右侧附近；第三波：y左侧附近；第四波：中间e上方。<br>H难度：第一波：n上方；第二波：y右侧；第三波：my之间；第四波：n上方(左图)<br>L难度：第一、二波：ne之间偏n侧；第三波：ne之间偏e侧；第四波<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">1</a></sup>：En之间(右图)
+<p>贴底，以单词Enemy的字母位置确定，各难度不同。<br>E难度：第一波和第二波：n上方(不过并不是站着不动就不会死)<br>N难度：第一波和第二波：y右侧附近；第三波：y左侧附近；第四波：中间e上方。<br>H难度：第一波：n上方；第二波：y右侧；第三波：my之间；第四波：n上方(左图)<br>L难度：第一、二波：ne之间偏n侧；第三波：ne之间偏e侧；第四波<span>[^cite_note-1]</span>：En之间(右图)
 </p><p>(图片来源：日站东方project攻略wiki)
 </p>
 </td></tr>
 <tr>
 <td><a href="./文件-安定总结-妖妖梦10.png.md" class="image"><img alt="安定总结-妖妖梦10.png" src="https://upload.thwiki.cc/thumb/4/4b/%E5%AE%89%E5%AE%9A%E6%80%BB%E7%BB%93-%E5%A6%96%E5%A6%96%E6%A2%A610.png/200px-%E5%AE%89%E5%AE%9A%E6%80%BB%E7%BB%93-%E5%A6%96%E5%A6%96%E6%A2%A610.png" decoding="async" loading="lazy" width="200" height="150" srcset="https://upload.thwiki.cc/thumb/4/4b/%E5%AE%89%E5%AE%9A%E6%80%BB%E7%BB%93-%E5%A6%96%E5%A6%96%E6%A2%A610.png/300px-%E5%AE%89%E5%AE%9A%E6%80%BB%E7%BB%93-%E5%A6%96%E5%A6%96%E6%A2%A610.png 1.5x, https://upload.thwiki.cc/thumb/4/4b/%E5%AE%89%E5%AE%9A%E6%80%BB%E7%BB%93-%E5%A6%96%E5%A6%96%E6%A2%A610.png/400px-%E5%AE%89%E5%AE%9A%E6%80%BB%E7%BB%93-%E5%A6%96%E5%A6%96%E6%A2%A610.png 2x" data-file-width="640" data-file-height="480"></a><br><a href="./文件-安定总结-妖妖梦11.png.md" class="image"><img alt="安定总结-妖妖梦11.png" src="https://upload.thwiki.cc/thumb/4/41/%E5%AE%89%E5%AE%9A%E6%80%BB%E7%BB%93-%E5%A6%96%E5%A6%96%E6%A2%A611.png/200px-%E5%AE%89%E5%AE%9A%E6%80%BB%E7%BB%93-%E5%A6%96%E5%A6%96%E6%A2%A611.png" decoding="async" loading="lazy" width="200" height="150" srcset="https://upload.thwiki.cc/thumb/4/41/%E5%AE%89%E5%AE%9A%E6%80%BB%E7%BB%93-%E5%A6%96%E5%A6%96%E6%A2%A611.png/300px-%E5%AE%89%E5%AE%9A%E6%80%BB%E7%BB%93-%E5%A6%96%E5%A6%96%E6%A2%A611.png 1.5x, https://upload.thwiki.cc/thumb/4/41/%E5%AE%89%E5%AE%9A%E6%80%BB%E7%BB%93-%E5%A6%96%E5%A6%96%E6%A2%A611.png/400px-%E5%AE%89%E5%AE%9A%E6%80%BB%E7%BB%93-%E5%A6%96%E5%A6%96%E6%A2%A611.png 2x" data-file-width="640" data-file-height="480"></a>
 </td>
-<td>EX关底终符幻神「饭纲权现降临」&amp;PH关底十符结界「生与死的境界」
+<td>EX关底终符幻神「饭纲权现降临」&PH关底十符结界「生与死的境界」
 <p>看脸安定。把蓝/紫引到一边，先速破到大玉出来，观察大玉的位置是封左右还是下，然后在大玉没封的一边调整位置。出鳞弹以后不能乱动。
 </p>
 </td></tr>
@@ -65,12 +65,7 @@
 </p>
 </td></tr></tbody></table>
 
-
 [^cite_note-1]: 第四波有问题，等研究，话说这多少年的安定总结了，咋才有人发现有问题的？
-
-
-
-
 
 ---
 

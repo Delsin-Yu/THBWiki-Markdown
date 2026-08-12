@@ -1,8 +1,9 @@
 # ZUN/东方神灵庙采访
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\8\8c\ns0%3AZUN%2F%E4%B8%9C%E6%96%B9%E7%A5%9E%E7%81%B5%E5%BA%99%E9%87%87%E8%AE%BF.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\8\8c\ns0%3AZUN%2F%E4%B8%9C%E6%96%B9%E7%A5%9E%E7%81%B5%E5%BA%99%E9%87%87%E8%AE%BF.html -->
 
 ZUN | 东方神灵庙 | 采访
+
 
 - 本次访谈刊载于Chara☆Mel Febri Vol.09（即东方茨歌仙第九话刊载杂志）
 - 翻译：京都人形
@@ -95,7 +96,7 @@ Unknown danmaku sleeps in Gensokyo is...!?
 <tr><th>物部氏和苏我氏是代表古代日本的豪族。掌握军事的物部氏和与渡来人系的氏族有着密切关系的苏我氏，为了是否该信仰佛教而产生了激烈的对立。最终苏我氏取得了胜利。</th></tr>
 </tbody></table>
 <p><i><b>不是初次见面的角色们</b></i><br>
-<i>本作中除了自机角色之外，也有几个不是首次登场的人物。一面的BOSS西行寺幽幽子、二面的中BOSS多多良小伞<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">1</a></sup>、Ex面的中BOSS封兽鵺。她们分别在『东方妖妖梦』『东方星莲船』中登场，在其中大显身手。</i>
+<i>本作中除了自机角色之外，也有几个不是首次登场的人物。一面的BOSS西行寺幽幽子、二面的中BOSS多多良小伞<span>[^cite_note-1]</span>、Ex面的中BOSS封兽鵺。她们分别在『东方妖妖梦』『东方星莲船』中登场，在其中大显身手。</i>
 </p><p><big><b>BOSS！！</b></big>
 </p>
 <h4><span class="mw-headline" id="STAGE_6">STAGE 6</span></h4>
@@ -213,7 +214,7 @@ Interview with ZUN about Touhou Sinreibyo.<br>
 <p><b>——虽然是怪人，但是很受众呢。而且爱称是娘娘这点也很有趣。</b>
 </p>
 <dl><dt>ZUN</dt>
-<dd>那边的女神不管多厉害的人都被称作「娘娘」<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">2</a></sup>呢。形象是正统的仙女，但是性格非常非常棒呢。非常棒就是说「这家伙真有个性」的意思。</dd></dl>
+<dd>那边的女神不管多厉害的人都被称作「娘娘」<span>[^cite_note-2]</span>呢。形象是正统的仙女，但是性格非常非常棒呢。非常棒就是说「这家伙真有个性」的意思。</dd></dl>
 <p><b>——这个看了Another End就能知道呢。</b>
 </p>
 <dl><dt>ZUN</dt>
@@ -232,7 +233,7 @@ Interview with ZUN about Touhou Sinreibyo.<br>
 <p><b>——接近她们也就等于是刺激了她们吧。</b>
 </p>
 <dl><dt>ZUN</dt>
-<dd>是啊。我是留意着这种故事衔接的方式的。建造寺庙用的『星莲船』中的星辇船<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">3</a></sup>，终究也是因为『地灵殿』中潜入地下为契机复活的。这些成为了刺激使得故事接着展开下去。而原本前往地下的原因，还有『风神录』中连着湖把神社搬过来的，元凶都是神奈子。</dd></dl>
+<dd>是啊。我是留意着这种故事衔接的方式的。建造寺庙用的『星莲船』中的星辇船<span>[^cite_note-3]</span>，终究也是因为『地灵殿』中潜入地下为契机复活的。这些成为了刺激使得故事接着展开下去。而原本前往地下的原因，还有『风神录』中连着湖把神社搬过来的，元凶都是神奈子。</dd></dl>
 <p><b>——在这个意义上迄今为止的故事全都是由神奈子引起的呢。可怕。</b>
 </p>
 <dl><dt>ZUN</dt>
@@ -322,7 +323,7 @@ Interview with ZUN about Touhou Sinreibyo.<br>
 <dl><dt>ZUN</dt>
 <dd>一开始，因为冠位十二阶作为捏他也很有名所以想放到游戏之中，但想象不出来会成为什么样的弹幕。但是法律的量词是一条两条，激光也是同样用条来算的，所以感觉十七条宪法可以用得上。虽然不知道为什么量词是一样的。不过既然发现了这样的捏他，就不能不用了。量词单位完全相同真是非常有意思呢。</dd></dl>
 <p><i>打出的子弹会变化为狐狸型、鸟型、蛙型等各种形式的猯藏的符卡。虽然看起来很有趣，但实际上相当难。</i>
-</p><p><b>——说起来欧帕兹<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">4</a></sup>也很难吧？</b>
+</p><p><b>——说起来欧帕兹<span>[^cite_note-4]</span>也很难吧？</b>
 </p>
 <dl><dt>ZUN</dt>
 <dd>那个只要多加练习就会变得非常简单了。最初原本是更简单的，但是简单过头到可以勉强躲避的程度了。会感觉那个难应该是因为在下面，如果和BOSS贴在一起就简单了。那个子弹的配置其实不是随机的。要说随机也是随机，但是适度规则了一些。如果真的是随机就有可能变成墙把玩家逼死。</dd></dl>
@@ -520,7 +521,7 @@ The place which culture should aim at is in food.<br>
 <p><b>——对于支配者的反抗的感觉吗。</b>
 </p>
 <dl><dt>ZUN</dt>
-<dd>我认为这种游戏很多。如果要做的话就会把那个支配者做过的胡作非为的事情简单易懂地在demo里表现出来。就像现在的纽约一样<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">5</a></sup>。这种世间发生的各种事情可能在制作游戏的过程中会变得很重要，所以还是不能完全把它们抛开来创作故事。现在的人是怎么想的，也会联系到设定成什么样子玩家才会高兴。虽然多多少少会进行一些修饰，但是大家都在想同一件事情的时候，制作符合潮流的游戏与其说会赚得更多，不如说更易于被人们接受。</dd></dl>
+<dd>我认为这种游戏很多。如果要做的话就会把那个支配者做过的胡作非为的事情简单易懂地在demo里表现出来。就像现在的纽约一样<span>[^cite_note-5]</span>。这种世间发生的各种事情可能在制作游戏的过程中会变得很重要，所以还是不能完全把它们抛开来创作故事。现在的人是怎么想的，也会联系到设定成什么样子玩家才会高兴。虽然多多少少会进行一些修饰，但是大家都在想同一件事情的时候，制作符合潮流的游戏与其说会赚得更多，不如说更易于被人们接受。</dd></dl>
 <p><b>——通过游戏来排解郁闷，某种意义上也是对的，但不会感觉很寂寞吗。</b>
 </p>
 <dl><dt>ZUN</dt>
@@ -565,7 +566,7 @@ The place which culture should aim at is in food.<br>
 <p><b>——不过，另外一个神社过来也真是大事件呢。</b>
 </p>
 <dl><dt>ZUN</dt>
-<dd>在那之前说到神社就是博丽神社，说到山就是妖怪之山，说到森林就是妖精森林<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">6</a></sup>这种感觉，地点和存在都是一对一的。以现在的状态来说，可能说到神社也不知道指的是哪里了。</dd></dl>
+<dd>在那之前说到神社就是博丽神社，说到山就是妖怪之山，说到森林就是妖精森林<span>[^cite_note-6]</span>这种感觉，地点和存在都是一对一的。以现在的状态来说，可能说到神社也不知道指的是哪里了。</dd></dl>
 <p><b>——从系统的角度来说，『神灵庙』中有着符卡练习和Overdrive等等，感觉以往的各种要素都融合在了一起了。</b>
 </p>
 <dl><dt>ZUN</dt>
@@ -598,7 +599,7 @@ The place which culture should aim at is in food.<br>
 <p><b>——能否觉得这种事情很有趣而拿来当作捏他也很重要呢。</b>
 </p>
 <dl><dt>ZUN</dt>
-<dd>鬼过去读作「Mono（物）」呢。我觉得和「物怪」<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">7</a></sup>的「物」是一样的。和现在的人这个含义也有关系这一点很有趣<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">8</a></sup>。……像这样，因为这样的捏他四处都能发现，所以只要仔细想想，想要多少就有多少。虽然大一点的捏他就需要认真想想了。</dd></dl>
+<dd>鬼过去读作「Mono（物）」呢。我觉得和「物怪」<span>[^cite_note-7]</span>的「物」是一样的。和现在的人这个含义也有关系这一点很有趣<span>[^cite_note-8]</span>。……像这样，因为这样的捏他四处都能发现，所以只要仔细想想，想要多少就有多少。虽然大一点的捏他就需要认真想想了。</dd></dl>
 <p><br>
 <b>——『地灵殿』是以被厌恶者为主题？</b>
 </p>
@@ -612,10 +613,10 @@ The place which culture should aim at is in food.<br>
 </p>
 <dl><dt>ZUN</dt>
 <dd>是啊。登场的都是些平平淡淡的角色。而且相互之间的关系似乎也很好。但是，在『神灵庙』之中就要稍微破坏这种氛围。与其说是破坏，不如说正因为命莲寺建在了那种地方。像这样，会逐渐加入“其实有内幕”这样的故事。</dd></dl>
-<p><b>——去年『星莲船』发布了，而那一年的「旧去新来」<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">9</a></sup>中出现了信贵山的朝护孙子寺的时候我不禁笑了出来。</b>
+<p><b>——去年『星莲船』发布了，而那一年的「旧去新来」<span>[^cite_note-9]</span>中出现了信贵山的朝护孙子寺的时候我不禁笑了出来。</b>
 </p>
 <dl><dt>ZUN</dt>
-<dd>总之虎这一点是我故意的。在虎年让寅丸星登场。从故事上来看也正合适。但是这个感觉就稍微有些看不出来了。相比之下『风神录』就非常直白了，因为名字直接就是诹访子<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">10</a></sup>。真的是原封不动。但是像那样直白一点也很好。想要以那种主题来发展故事的话那种方式很好。</dd></dl>
+<dd>总之虎这一点是我故意的。在虎年让寅丸星登场。从故事上来看也正合适。但是这个感觉就稍微有些看不出来了。相比之下『风神录』就非常直白了，因为名字直接就是诹访子<span>[^cite_note-10]</span>。真的是原封不动。但是像那样直白一点也很好。想要以那种主题来发展故事的话那种方式很好。</dd></dl>
 <p><b>——洩矢（Moriya）这个姓从发音来讲也很直白。</b>
 </p>
 <dl><dt>ZUN</dt>
@@ -688,16 +689,20 @@ The place which culture should aim at is in food.<br>
 </div></td></tr></tbody></table>
 
 
-
 ## 其他
+
 - [杂志的错误订正](./ZUN-东方神灵庙采访-勘误.md)
 
-
 [^cite_note-1]: 原文如此，而神灵庙游戏内为三面的中BOSS
-
-
-
-
+[^cite_note-2]: 与日文中猫叫谐音
+[^cite_note-3]: 应为“圣辇船”，此处为误植。
+[^cite_note-4]: 指[秘宝「斑鸠寺的天球仪」](./斑鸠寺的天球仪.md)/[秘宝「圣德太子的欧帕兹」](./斑鸠寺的天球仪.md)
+[^cite_note-5]: 指“占领华尔街”运动
+[^cite_note-6]: 原文如此，实际应为魔法森林，此处可能为误植。
+[^cite_note-7]: 妖怪之意
+[^cite_note-8]: Mono也可以写作“者”，指人
+[^cite_note-9]: NHK于大年夜播送的节目，直播午夜零时全国各地的寺庙敲钟的场景
+[^cite_note-10]: 与诹访湖同音
 
 ---
 

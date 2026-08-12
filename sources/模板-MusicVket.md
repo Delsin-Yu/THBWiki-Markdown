@@ -1,16 +1,12 @@
 # 模板:MusicVket
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\a\ae\ns10%3AMusicVket.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\a\ae\ns10%3AMusicVket.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

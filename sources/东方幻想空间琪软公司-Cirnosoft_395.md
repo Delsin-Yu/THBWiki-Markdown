@@ -1,17 +1,17 @@
 # 东方幻想空间琪软公司/Cirnosoft_395
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\a\af\ns0%3A%E4%B8%9C%E6%96%B9%E5%B9%BB%E6%83%B3%E7%A9%BA%E9%97%B4%E7%90%AA%E8%BD%AF%E5%85%AC%E5%8F%B8%2FCirnosoft_395.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\a\af\ns0%3A%E4%B8%9C%E6%96%B9%E5%B9%BB%E6%83%B3%E7%A9%BA%E9%97%B4%E7%90%AA%E8%BD%AF%E5%85%AC%E5%8F%B8%2FCirnosoft_395.html -->
 
 东方幻想空间琪软公司
 
--  **本词条内容为[东方幻想空间琪软公司](./东方幻想空间琪软公司.md)的所有软件** 
+
+- **本词条内容为[东方幻想空间琪软公司](./东方幻想空间琪软公司.md)的所有软件**
 
 
 ## 目录
 
 - [1 Staff](#Staff)
 - [2 介绍](#介绍)
-
   - [2.1 琪露诺计算器](#琪露诺计算器)
   - [2.2 八云蓝模拟器](#八云蓝模拟器)
   - [2.3 文文新闻生成器](#文文新闻生成器)
@@ -24,11 +24,7 @@
   - [2.10 Cirnosoft Flandre](#Cirnosoft_Flandre)
 
 
-
 - [3 评论](#评论)
-
-
-
 
 
 ## Staff
@@ -36,56 +32,44 @@
 盒纸君
   
 
-
 ## 介绍
 
 ### 琪露诺计算器
-[](./文件-琪露诺计算器_图标.png.md)  [](./文件-琪露诺计算器_图标.png.md)琪露诺计算器 图标
-  
+<img alt="" src="https://upload.thwiki.cc/thumb/a/ab/%E7%90%AA%E9%9C%B2%E8%AF%BA%E8%AE%A1%E7%AE%97%E5%99%A8_%E5%9B%BE%E6%A0%87.png/140px-%E7%90%AA%E9%9C%B2%E8%AF%BA%E8%AE%A1%E7%AE%97%E5%99%A8_%E5%9B%BE%E6%A0%87.png" decoding="async" loading="lazy" width="140" height="140" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/a/ab/%E7%90%AA%E9%9C%B2%E8%AF%BA%E8%AE%A1%E7%AE%97%E5%99%A8_%E5%9B%BE%E6%A0%87.png/210px-%E7%90%AA%E9%9C%B2%E8%AF%BA%E8%AE%A1%E7%AE%97%E5%99%A8_%E5%9B%BE%E6%A0%87.png 1.5x, https://upload.thwiki.cc/thumb/a/ab/%E7%90%AA%E9%9C%B2%E8%AF%BA%E8%AE%A1%E7%AE%97%E5%99%A8_%E5%9B%BE%E6%A0%87.png/280px-%E7%90%AA%E9%9C%B2%E8%AF%BA%E8%AE%A1%E7%AE%97%E5%99%A8_%E5%9B%BE%E6%A0%87.png 2x" data-file-width="1000" data-file-height="1000">
+ [放大](./文件-琪露诺计算器_图标.png.md)琪露诺计算器 图标  
 一个只能算到⑨的计算器，但是加载时对电脑要求较高
 甚至有一些没用的功能
   
 
-
-
 ### 八云蓝模拟器
-[](./文件-八云蓝模拟器_图标.png.md)  [](./文件-八云蓝模拟器_图标.png.md)图标
-  
+<img alt="" src="https://upload.thwiki.cc/thumb/7/7c/%E5%85%AB%E4%BA%91%E8%93%9D%E6%A8%A1%E6%8B%9F%E5%99%A8_%E5%9B%BE%E6%A0%87.png/140px-%E5%85%AB%E4%BA%91%E8%93%9D%E6%A8%A1%E6%8B%9F%E5%99%A8_%E5%9B%BE%E6%A0%87.png" decoding="async" loading="lazy" width="140" height="140" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/7/7c/%E5%85%AB%E4%BA%91%E8%93%9D%E6%A8%A1%E6%8B%9F%E5%99%A8_%E5%9B%BE%E6%A0%87.png/210px-%E5%85%AB%E4%BA%91%E8%93%9D%E6%A8%A1%E6%8B%9F%E5%99%A8_%E5%9B%BE%E6%A0%87.png 1.5x, https://upload.thwiki.cc/thumb/7/7c/%E5%85%AB%E4%BA%91%E8%93%9D%E6%A8%A1%E6%8B%9F%E5%99%A8_%E5%9B%BE%E6%A0%87.png/280px-%E5%85%AB%E4%BA%91%E8%93%9D%E6%A8%A1%E6%8B%9F%E5%99%A8_%E5%9B%BE%E6%A0%87.png 2x" data-file-width="580" data-file-height="580">
+ [放大](./文件-八云蓝模拟器_图标.png.md)图标  
 使八云蓝在各种人物身上旋转，实际上是一个音乐播放器
   
 
-
-
 ### 文文新闻生成器
-[](./文件-文文新闻生成器_图标.png.md)  [](./文件-文文新闻生成器_图标.png.md)图标
-  
+<img alt="" src="https://upload.thwiki.cc/thumb/0/0f/%E6%96%87%E6%96%87%E6%96%B0%E9%97%BB%E7%94%9F%E6%88%90%E5%99%A8_%E5%9B%BE%E6%A0%87.png/140px-%E6%96%87%E6%96%87%E6%96%B0%E9%97%BB%E7%94%9F%E6%88%90%E5%99%A8_%E5%9B%BE%E6%A0%87.png" decoding="async" loading="lazy" width="140" height="140" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/0/0f/%E6%96%87%E6%96%87%E6%96%B0%E9%97%BB%E7%94%9F%E6%88%90%E5%99%A8_%E5%9B%BE%E6%A0%87.png/210px-%E6%96%87%E6%96%87%E6%96%B0%E9%97%BB%E7%94%9F%E6%88%90%E5%99%A8_%E5%9B%BE%E6%A0%87.png 1.5x, https://upload.thwiki.cc/thumb/0/0f/%E6%96%87%E6%96%87%E6%96%B0%E9%97%BB%E7%94%9F%E6%88%90%E5%99%A8_%E5%9B%BE%E6%A0%87.png/280px-%E6%96%87%E6%96%87%E6%96%B0%E9%97%BB%E7%94%9F%E6%88%90%E5%99%A8_%E5%9B%BE%E6%A0%87.png 2x" data-file-width="580" data-file-height="580">
+ [放大](./文件-文文新闻生成器_图标.png.md)图标  
 输入内容，将自动生成文文。新闻
-实际上就是个字符串拼接（
-  
-
-
+实际上就是个字符串拼接（  
 
 ### 一键山雏
-[](./文件-一键山雏_图标.png.md)  [](./文件-一键山雏_图标.png.md)图标
-  
+<img alt="" src="https://upload.thwiki.cc/thumb/c/cc/%E4%B8%80%E9%94%AE%E5%B1%B1%E9%9B%8F_%E5%9B%BE%E6%A0%87.png/140px-%E4%B8%80%E9%94%AE%E5%B1%B1%E9%9B%8F_%E5%9B%BE%E6%A0%87.png" decoding="async" loading="lazy" width="140" height="137" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/c/cc/%E4%B8%80%E9%94%AE%E5%B1%B1%E9%9B%8F_%E5%9B%BE%E6%A0%87.png/210px-%E4%B8%80%E9%94%AE%E5%B1%B1%E9%9B%8F_%E5%9B%BE%E6%A0%87.png 1.5x, https://upload.thwiki.cc/thumb/c/cc/%E4%B8%80%E9%94%AE%E5%B1%B1%E9%9B%8F_%E5%9B%BE%E6%A0%87.png/280px-%E4%B8%80%E9%94%AE%E5%B1%B1%E9%9B%8F_%E5%9B%BE%E6%A0%87.png 2x" data-file-width="658" data-file-height="646">
+ [放大](./文件-一键山雏_图标.png.md)图标  
 调整转转的位置与转速，开启图章使转转留下痕迹
 画出最厄厄的画！
   
 
-
-
 ### P点模拟器
-[](./文件-Cirnosoft_Ppoint_Icon.png.md)  [](./文件-Cirnosoft_Ppoint_Icon.png.md)图标
-  
+<img alt="" src="https://upload.thwiki.cc/thumb/8/89/Cirnosoft_Ppoint_Icon.png/140px-Cirnosoft_Ppoint_Icon.png" decoding="async" loading="lazy" width="140" height="141" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/8/89/Cirnosoft_Ppoint_Icon.png/210px-Cirnosoft_Ppoint_Icon.png 1.5x, https://upload.thwiki.cc/thumb/8/89/Cirnosoft_Ppoint_Icon.png/280px-Cirnosoft_Ppoint_Icon.png 2x" data-file-width="528" data-file-height="533">
+ [放大](./文件-Cirnosoft_Ppoint_Icon.png.md)图标  
 调整P点生成与吸收数据
 移动鼠标以收集P点
   
 
-
-
 ### 让我们展示足技吧~Scarlet Police
-[](./文件-Cirnosoft_Scarlet_Police_Icon.png.md)  [](./文件-Cirnosoft_Scarlet_Police_Icon.png.md)图标
-  
+<img alt="" src="https://upload.thwiki.cc/thumb/8/8d/Cirnosoft_Scarlet_Police_Icon.png/140px-Cirnosoft_Scarlet_Police_Icon.png" decoding="async" loading="lazy" width="140" height="140" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/8/8d/Cirnosoft_Scarlet_Police_Icon.png/210px-Cirnosoft_Scarlet_Police_Icon.png 1.5x, https://upload.thwiki.cc/thumb/8/8d/Cirnosoft_Scarlet_Police_Icon.png/280px-Cirnosoft_Scarlet_Police_Icon.png 2x" data-file-width="1000" data-file-height="1000">
+ [放大](./文件-Cirnosoft_Scarlet_Police_Icon.png.md)图标  
 使用Z键与X键或屏幕键盘，让斯卡蕾特警察展示的足技超过对手
   
 
@@ -95,46 +79,35 @@
 - 四面：ZUN
 
 
-
 ### Cirnosoft Matara
-[](./文件-Cirnosoft_Matara_Icon.png.md)  [](./文件-Cirnosoft_Matara_Icon.png.md)图标
-  
+<img alt="" src="https://upload.thwiki.cc/thumb/d/de/Cirnosoft_Matara_Icon.png/140px-Cirnosoft_Matara_Icon.png" decoding="async" loading="lazy" width="140" height="140" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/d/de/Cirnosoft_Matara_Icon.png/210px-Cirnosoft_Matara_Icon.png 1.5x, https://upload.thwiki.cc/thumb/d/de/Cirnosoft_Matara_Icon.png/280px-Cirnosoft_Matara_Icon.png 2x" data-file-width="580" data-file-height="580">
+ [放大](./文件-Cirnosoft_Matara_Icon.png.md)图标  
 让摩多罗在路上躲避迎面驶来的巴士
   
 
 - 注：巴士为随机生成，有一定几率会生成三辆并排的
 
 
-
 ### Cirnosoft Kosuzu
-[](./文件-Cirnosoft_Kosuzu_Icon.png.md)  [](./文件-Cirnosoft_Kosuzu_Icon.png.md)图标
-  
+<img alt="" src="https://upload.thwiki.cc/thumb/c/cb/Cirnosoft_Kosuzu_Icon.png/140px-Cirnosoft_Kosuzu_Icon.png" decoding="async" loading="lazy" width="140" height="137" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/c/cb/Cirnosoft_Kosuzu_Icon.png/210px-Cirnosoft_Kosuzu_Icon.png 1.5x, https://upload.thwiki.cc/thumb/c/cb/Cirnosoft_Kosuzu_Icon.png/280px-Cirnosoft_Kosuzu_Icon.png 2x" data-file-width="809" data-file-height="790">
+ [放大](./文件-Cirnosoft_Kosuzu_Icon.png.md)图标  
 普通的弹球游戏，需要防止小铃掉进任务栏
   
 
-
-
 ### Cirnosoft Fumo
-[](./文件-Cirnosoft_Fumo_Icon.png.md)  [](./文件-Cirnosoft_Fumo_Icon.png.md)图标
-  
+<img alt="" src="https://upload.thwiki.cc/thumb/3/3a/Cirnosoft_Fumo_Icon.png/140px-Cirnosoft_Fumo_Icon.png" decoding="async" loading="lazy" width="140" height="140" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/3/3a/Cirnosoft_Fumo_Icon.png/210px-Cirnosoft_Fumo_Icon.png 1.5x, https://upload.thwiki.cc/thumb/3/3a/Cirnosoft_Fumo_Icon.png/280px-Cirnosoft_Fumo_Icon.png 2x" data-file-width="966" data-file-height="967">
+ [放大](./文件-Cirnosoft_Fumo_Icon.png.md)图标  
 使用信封接住Fumo
   
 
-
-
 ### Cirnosoft Flandre
-[](./文件-Cirnosoft_Flandre_Icon.png.md)  [](./文件-Cirnosoft_Flandre_Icon.png.md)图标
-  
+<img alt="" src="https://upload.thwiki.cc/thumb/e/e2/Cirnosoft_Flandre_Icon.png/140px-Cirnosoft_Flandre_Icon.png" decoding="async" loading="lazy" width="140" height="140" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/e/e2/Cirnosoft_Flandre_Icon.png/210px-Cirnosoft_Flandre_Icon.png 1.5x, https://upload.thwiki.cc/thumb/e/e2/Cirnosoft_Flandre_Icon.png/280px-Cirnosoft_Flandre_Icon.png 2x" data-file-width="600" data-file-height="600">
+ [放大](./文件-Cirnosoft_Flandre_Icon.png.md)图标  
 斯卡蕾特姐妹正在抱头蹲防，时不时会探出头来
 使用鼠标指针点击她们，使她们继续抱头蹲防
   
 
-
-
 ## 评论
-
-
-
 
 ---
 

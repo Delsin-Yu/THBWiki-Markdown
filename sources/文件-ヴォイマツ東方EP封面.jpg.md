@@ -1,6 +1,6 @@
 # 文件:ヴォイマツ東方EP封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e3\ns6%3A%E3%83%B4%E3%82%A9%E3%82%A4%E3%83%9E%E3%83%84%E6%9D%B1%E6%96%B9EP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e3\ns6%3A%E3%83%B4%E3%82%A9%E3%82%A4%E3%83%9E%E3%83%84%E6%9D%B1%E6%96%B9EP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 D.S.K_Recordz | 专辑封面 | 奏琉堂 | 封面图片
 
@@ -8,11 +8,8 @@ D.S.K_Recordz | 专辑封面 | 奏琉堂 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [ヴォイマツ東方EP](./ヴォイマツ東方EP.md)  
-该封面包含的角色：- 原创角色 (未找到链接)
-
-
-
+- [ヴォイマツ東方EP](./ヴォイマツ東方EP.md)该封面包含的角色：
+- 原创角色 (未找到链接)
 
 
 ---

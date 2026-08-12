@@ -1,6 +1,6 @@
 # 文件:東方幻想郷_～_Lotus_Land_Story_全曲Win風アレンジ封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b0\ns6%3A%E6%9D%B1%E6%96%B9%E5%B9%BB%E6%83%B3%E9%83%B7_%EF%BD%9E_Lotus_Land_Story_%E5%85%A8%E6%9B%B2Win%E9%A2%A8%E3%82%A2%E3%83%AC%E3%83%B3%E3%82%B8%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b0\ns6%3A%E6%9D%B1%E6%96%B9%E5%B9%BB%E6%83%B3%E9%83%B7_%EF%BD%9E_Lotus_Land_Story_%E5%85%A8%E6%9B%B2Win%E9%A2%A8%E3%82%A2%E3%83%AC%E3%83%B3%E3%82%B8%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 FDesk | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ FDesk | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方幻想郷 ～ Lotus Land Story 全曲Win風アレンジ](./東方幻想郷_～_Lotus_Land_Story_全曲Win風アレンジ.md)  
-该封面包含的角色：- [博丽灵梦（旧作角色）](./博丽灵梦（旧作角色）.md)- [雾雨魔理沙（旧作角色）](./雾雨魔理沙（旧作角色）.md)
-
-
-
+- [東方幻想郷 ～ Lotus Land Story 全曲Win風アレンジ](./東方幻想郷_～_Lotus_Land_Story_全曲Win風アレンジ.md)该封面包含的角色：
+- [博丽灵梦（旧作角色）](./博丽灵梦（旧作角色）.md)
+- [雾雨魔理沙（旧作角色）](./雾雨魔理沙（旧作角色）.md)
 
 
 ---

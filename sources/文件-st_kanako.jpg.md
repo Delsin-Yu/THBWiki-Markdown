@@ -1,12 +1,8 @@
 # 文件:st_kanako.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a1\ns6%3Ast_kanako%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a1\ns6%3Ast_kanako%2Ejpg.html -->
 
 未完童話
-
-
-
-
 
 
 ---

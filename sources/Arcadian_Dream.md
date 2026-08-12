@@ -1,40 +1,30 @@
 # Arcadian_Dream
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\e\e1\ns0%3AArcadian_Dream.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\e\e1\ns0%3AArcadian_Dream.html -->
 
 由 ZUN 创作的官方曲目，原名 Arcadian Dream
 
 本页是关于东方Project  
- **原作音乐** 的词条
-
+**原作音乐**的词条
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 出现作品](#出现作品)
 - [3 音乐文件](#音乐文件)
-
   - [3.1 东方幻想乡](#东方幻想乡)
   - [3.2 东方怪绮谈](#东方怪绮谈)
   - [3.3 幺乐团的历史 vol.1](#幺乐团的历史_vol.1)
 
 
-
 - [4 说明文本](#说明文本)
-
   - [4.1 东方幻想乡](#东方幻想乡_2)
   - [4.2 东方怪绮谈](#东方怪绮谈_2)
 
 
-
 - [5 其他资料](#其他资料)
-
   - [5.1 乐理资讯](#乐理资讯)
   - [5.2 分析考据](#分析考据)
   - [5.3 二次同人数据](#二次同人数据)
-
-
-
-
 
 
 
@@ -44,7 +34,6 @@
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">Arcadian Dream</td></tr><tr><td><b>译名</b></td><td>Arcadian Dream</td></tr><tr><td><b>其他译名</b></td><td>幻想之梦</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 Arcadian Dream（曲目） - 由 ZUN 创作的官方曲目，原名 Arcadian Dream
-
 ## 出现作品
 
 <table>
@@ -54,7 +43,6 @@ Arcadian Dream（曲目） - 由 ZUN 创作的官方曲目，原名 Arcadian Dre
 </tbody></table>
 
 
-
 ## 音乐文件
 
 ### 东方幻想乡
@@ -62,17 +50,13 @@ Arcadian Dream（曲目） - 由 ZUN 创作的官方曲目，原名 Arcadian Dre
 YM2203(OPN)，FM26K音源版。
   
 
-
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th04_21_26.ogg.md" title="文件:th04 21 26.ogg">th04_21_26.ogg</a><br><audio src="https://upload.thwiki.cc/2/26/th04_21_26.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>STAFF.M26</td></tr><tr><td><b>音轨时长</b></td><td>1:49.515</td></tr></tbody></table>
-
 
   
 YM2608(OPNA)，FM86音源版。
   
 
-
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th04_21_86.ogg.md" title="文件:th04 21 86.ogg">th04_21_86.ogg</a><br><audio src="https://upload.thwiki.cc/f/f1/th04_21_86.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>STAFF.M86</td></tr><tr><td><b>音轨时长</b></td><td>1:49.515</td></tr></tbody></table>
-
 
 
 ### 东方怪绮谈
@@ -80,17 +64,13 @@ YM2608(OPNA)，FM86音源版。
 YM2203(OPN)，FM26K音源版。
   
 
-
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th05_G_21_26.ogg.md" title="文件:th05 G 21 26.ogg">th05_G_21_26.ogg</a><br><audio src="https://upload.thwiki.cc/3/32/th05_G_21_26.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>G_STAFF.M</td></tr><tr><td><b>音轨时长</b></td><td>1:49.515</td></tr></tbody></table>
-
 
   
 YM2608(OPNA)，FM86音源版。
   
 
-
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th05_G_21_86.ogg.md" title="文件:th05 G 21 86.ogg">th05_G_21_86.ogg</a><br><audio src="https://upload.thwiki.cc/4/48/th05_G_21_86.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>G_STAFF.M2</td></tr><tr><td><b>音轨时长</b></td><td>1:49.515</td></tr></tbody></table>
-
 
 
 ### 幺乐团的历史 vol.1
@@ -98,11 +78,11 @@ YM2608(OPNA)，FM86音源版。
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-ha01b_06.mp3.md" title="文件:ha01b 06.mp3">ha01b_06.mp3</a><br><audio src="https://upload.thwiki.cc/d/d6/ha01b_06.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track06.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>4:20</td></tr></tbody></table>
 
 
-
 ## 说明文本
 
 ### 东方幻想乡
-- Music Room (未找到链接)
+
+- [Music Room](./东方幻想乡-Music.md#Staff画面)
 
 　　　　制作人员名单主题曲  
 　制作人员名单，果然还是要帅气。  
@@ -110,34 +90,33 @@ YM2608(OPNA)，FM86音源版。
 　虽然是感觉非常单纯的曲子，其实说不  
 定就是非常单纯的。  
 　反正制作人员非常少，  
-&lt;曲子也不需要弄得很长呢(^^)  
+<曲子也不需要弄得很长呢(^^)  
   
 　为什么感觉和Boss曲没啥区别(^^;;;;Arcadian  
 ＺＵＮ（太田）  
 幻想乡的曲子。  
 这个还差很多。
-
 ### 东方怪绮谈
-- Music Room (未找到链接)
+
+- [Music Room](./东方怪绮谈-Music.md#东方幻想乡-95)
 
 Staff画面的主题曲Arcadian  
 ＺＵＮ（太田）  
 幻想乡的曲子  
 这个还差很多。
-
 ## 其他资料
 
 ### 乐理资讯
 
 ### 分析考据
   
- **Arcadian Dream** 
-  
+**Arcadian Dream**  
 幻想之梦
   
 
-- Arcadian
+- Arcadian 
   - 即“理想乡的”，等于“东方幻想乡的”
+
 
 
 
@@ -153,17 +132,6 @@ Staff画面的主题曲Arcadian
 <tr><td>Arrange</td><td>22</td></tr>
 <tr><td>Vocal率</td><td>15.38%</td></tr>
 </tbody></table>
-
-
-
-
-  
-  
-
-  
-
-
-
 
 
 ---

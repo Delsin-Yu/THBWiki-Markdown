@@ -1,12 +1,11 @@
 # 东方异文石Ep.01_爱亚利亚黎明
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\b9\ns0%3A%E4%B8%9C%E6%96%B9%E5%BC%82%E6%96%87%E7%9F%B3Ep%2E01_%E7%88%B1%E4%BA%9A%E5%88%A9%E4%BA%9A%E9%BB%8E%E6%98%8E.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\b9\ns0%3A%E4%B8%9C%E6%96%B9%E5%BC%82%E6%96%87%E7%9F%B3Ep%2E01_%E7%88%B1%E4%BA%9A%E5%88%A9%E4%BA%9A%E9%BB%8E%E6%98%8E.html -->
 
 2016年7月31日 由 萌东方兄弟会  发布的PUZ同人游戏，可在 Windows 系统上运行，游戏人数为 单人模式，多人模式，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人软件 (未找到链接)** 的词条
-
+**[二次创作同人软件](./二次创作.md#同人软件)**的词条
 ## 目录
 
 - [1 软件信息](#软件信息)
@@ -14,9 +13,6 @@
 - [3 游戏剧情](#游戏剧情)
 - [4 游戏帮助](#游戏帮助)
 - [5 评论](#评论)
-
-
-
 
 
 ## 软件信息
@@ -27,7 +23,6 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://tieba.baidu.com/p/4703116889">https://tieba.baidu.com/p/4703116889</a><br><a rel="nofollow" class="external free" href="http://moetouhou.blog.sohu.com/">http://moetouhou.blog.sohu.com/</a></td></tr></tbody></table>
 
 东方异文石Ep.01 爱亚利亚黎明（同人游戏，萌东方兄弟会，2016） - 2016年7月31日 由 萌东方兄弟会  发布的PUZ同人游戏，可在 Windows 系统上运行，游戏人数为 单人模式，多人模式，分级为 一般向
-
 ## Staff
 CAST
 : 博丽 灵梦 - 草摩里纱   
@@ -51,14 +46,11 @@ CAST
 铃仙 优昙华院 因幡 - 灵缡心  
 比那名居 天子 - 草摩里纱  
 永江 衣玖 - 封肆
-
 主程序
 : ツ不动King
-
 程序
 : 御宅萝莉控  
 中子结构
-
 原画
 : 大月紅葉  
 kaze  
@@ -82,7 +74,6 @@ Ten
 熊猫  
 Otakuyume  
 
-
 美工
 : 或一  
 胖次胖次ss  
@@ -90,22 +81,17 @@ Yuke-有希
 林卯  
 ツ不动King  
 Dr.洛可可
-
 剧本
 : Dr.洛可可
-
 校对
 : 千風夜々
-
 主催
 : Dr.洛可可
-
 鸣谢
 : 新语联盟  
 东方⑨町  
 妖怪山地下工作室  
 Alpha版测试小组成员
-
   
 嘉津子
 千叶的堕天黑猫
@@ -130,8 +116,8 @@ BUG
 望山羊
   
 
-
 ## 游戏剧情
+
 - [Chapter0 从零开始](./东方异文石Ep.01_爱亚利亚黎明-Chapter0.md)
 - Chapter1 一夜暴富 (未找到链接)
 - Chapter2 麻烦成双 (未找到链接)
@@ -145,6 +131,7 @@ BUG
 
 
 ## 游戏帮助
+
 - 游戏中按F1可以查看，ESC消除。
 
   
@@ -231,17 +218,9 @@ F4可以全屏。
 目前存在一个BUG，尚未解决。过于频繁的读档会导致游戏报错，重启游戏就能解决。我们在尽力分析解决这个问题，但是正常频率的读档应该不会引发这个问题。
   
 
-
 ## 评论
+
 - 重制版为[东方异文石 - 爱亚利亚黎明：再造](./东方异文石_-_爱亚利亚黎明：再造.md)
-
-  
-  
-
-  
-
-
-
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:THD2人魂之灯.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9b\ns6%3ATHD2%E4%BA%BA%E9%AD%82%E4%B9%8B%E7%81%AF%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9b\ns6%3ATHD2%E4%BA%BA%E9%AD%82%E4%B9%8B%E7%81%AF%2Epng.html -->
 
 AvalonStudioOfficial
-
-
-
-
 
 
 ---

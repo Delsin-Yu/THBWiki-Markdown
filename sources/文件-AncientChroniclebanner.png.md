@@ -1,16 +1,11 @@
 # 文件:AncientChroniclebanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0f\ns6%3AAncientChroniclebanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0f\ns6%3AAncientChroniclebanner%2Epng.html -->
 
 AncientChronicle | 社团LOGO
 
   
-源地址：[[1]](http://ac.udonge.net/banner.png)
-  
-
-
-
-
+源地址：[\[1\]](http://ac.udonge.net/banner.png)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:C’Nine”S”even’H封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\77\ns6%3AC%E2%80%99Nine%E2%80%9DS%E2%80%9Deven%E2%80%99H%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\77\ns6%3AC%E2%80%99Nine%E2%80%9DS%E2%80%9Deven%E2%80%99H%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Sound_Square | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Sound_Square | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [C’Nine”S”even’H](./C’Nine”S”even’H.md)  
-该封面包含的角色：- [封兽鵺](./封兽鵺.md)
+- [C’Nine”S”even’H](./C’Nine”S”even’H.md)该封面包含的角色：
+- [封兽鵺](./封兽鵺.md)
 
   
-源地址：[[1]](https://i1.sndcdn.com/artworks-000161751006-x1dzug-t500x500.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://i1.sndcdn.com/artworks-000161751006-x1dzug-t500x500.jpg)  
 
 ---
 

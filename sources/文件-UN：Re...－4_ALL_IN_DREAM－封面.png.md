@@ -1,6 +1,6 @@
 # 文件:UN：Re...－4_ALL_IN_DREAM－封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b0\ns6%3AUN%EF%BC%9ARe%2E%2E%2E%EF%BC%8D4_ALL_IN_DREAM%EF%BC%8D%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b0\ns6%3AUN%EF%BC%9ARe%2E%2E%2E%EF%BC%8D4_ALL_IN_DREAM%EF%BC%8D%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 ゆめかばん | 同人志封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [UN：Re...－4 ALL IN DREAM－](./UN：Re...－4_ALL_IN_DREAM－.md)  
-该封面包含的角色：- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [UN：Re...－4 ALL IN DREAM－](./UN：Re...－4_ALL_IN_DREAM－.md)该封面包含的角色：
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:「Blind_Night-Bird」（永夜抄）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\09\ns6%3A%E3%80%8CBlind_Night-Bird%E3%80%8D%EF%BC%88%E6%B0%B8%E5%A4%9C%E6%8A%84%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\09\ns6%3A%E3%80%8CBlind_Night-Bird%E3%80%8D%EF%BC%88%E6%B0%B8%E5%A4%9C%E6%8A%84%EF%BC%89%2Epng.html -->
 
 东方永夜抄 | 敌机符卡 | 米斯蒂娅·萝蕾拉
-
-
-
-
 
 
 ---

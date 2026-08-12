@@ -1,6 +1,6 @@
 # 文件:東方BR3封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1f\ns6%3A%E6%9D%B1%E6%96%B9BR3%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1f\ns6%3A%E6%9D%B1%E6%96%B9BR3%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ACID_CLUB | 同人志封面 | 封面图片
 
@@ -8,11 +8,8 @@ ACID_CLUB | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方BR3](./東方BR3.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
-
-
-
+- [東方BR3](./東方BR3.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
 
 ---

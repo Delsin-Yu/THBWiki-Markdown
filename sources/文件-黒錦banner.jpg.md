@@ -1,14 +1,11 @@
 # 文件:黒錦banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2a\ns6%3A%E9%BB%92%E9%8C%A6banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2a\ns6%3A%E9%BB%92%E9%8C%A6banner%2Ejpg.html -->
 
 社团LOGO | 黒錦
 
 
 ## 摘要
-
-
-
 
 ---
 

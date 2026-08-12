@@ -1,12 +1,8 @@
 # 文件:幽々燦々banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a9\ns6%3A%E5%B9%BD%E3%80%85%E7%87%A6%E3%80%85banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a9\ns6%3A%E5%B9%BD%E3%80%85%E7%87%A6%E3%80%85banner%2Epng.html -->
 
 幽々燦々 | 社团LOGO
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Inocent_Euro_Vol.6封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ce\ns6%3AInocent_Euro_Vol%2E6%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ce\ns6%3AInocent_Euro_Vol%2E6%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Inocent_Melody | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Inocent_Melody | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Inocent Euro Vol.6](./Inocent_Euro_Vol.6.md)  
-该封面包含的角色：- [多多良小伞](./多多良小伞.md)
-
-
-
+- [Inocent Euro Vol.6](./Inocent_Euro_Vol.6.md)该封面包含的角色：
+- [多多良小伞](./多多良小伞.md)
 
 
 ---

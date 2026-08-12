@@ -1,12 +1,8 @@
 # 文件:M3LOGO.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\06\ns6%3AM3LOGO%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\06\ns6%3AM3LOGO%2Epng.html -->
 
 M3 | 活动LOGO
-
-
-
-
 
 
 ---

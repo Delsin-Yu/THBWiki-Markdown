@@ -1,6 +1,6 @@
 # 文件:諏訪子の添い寝CD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\01\ns6%3A%E8%AB%8F%E8%A8%AA%E5%AD%90%E3%81%AE%E6%B7%BB%E3%81%84%E5%AF%9DCD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\01\ns6%3A%E8%AB%8F%E8%A8%AA%E5%AD%90%E3%81%AE%E6%B7%BB%E3%81%84%E5%AF%9DCD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 豆屋
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [諏訪子の添い寝CD](./諏訪子の添い寝CD.md)  
-该封面包含的角色：- [洩矢诹访子](./洩矢诹访子.md)
-
-
-
+- [諏訪子の添い寝CD](./諏訪子の添い寝CD.md)该封面包含的角色：
+- [洩矢诹访子](./洩矢诹访子.md)
 
 
 ---

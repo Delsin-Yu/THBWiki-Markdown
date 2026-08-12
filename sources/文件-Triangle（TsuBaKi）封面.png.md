@@ -1,6 +1,6 @@
 # 文件:Triangle（TsuBaKi）封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3b\ns6%3ATriangle%EF%BC%88TsuBaKi%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3b\ns6%3ATriangle%EF%BC%88TsuBaKi%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 En-sof | TsuBaKi | 专辑封面 | 封面图片
 
@@ -8,11 +8,10 @@ En-sof | TsuBaKi | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Triangle（TsuBaKi）](./Triangle（TsuBaKi）.md)  
-该封面包含的角色：- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [Triangle（TsuBaKi）](./Triangle（TsuBaKi）.md)该封面包含的角色：
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

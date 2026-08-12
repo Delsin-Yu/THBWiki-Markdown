@@ -1,6 +1,6 @@
 # 文件:JIGOKUMELTDOWN_／_SAKURATILTUP封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ca\ns6%3AJIGOKUMELTDOWN_%EF%BC%8F_SAKURATILTUP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ca\ns6%3AJIGOKUMELTDOWN_%EF%BC%8F_SAKURATILTUP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 現代日本縮図
 
@@ -13,12 +13,7 @@
 - [JIGOKUMELTDOWN ／ SAKURATILTUP](./JIGOKUMELTDOWN_／_SAKURATILTUP.md)
 
   
-源地址：[source tweet](https://twitter.com/orphicaluminous/status/1237955170752802816), [direct image link](https://pbs.twimg.com/media/ES4ZpL9U8AAawfu?format=jpg&amp;name=orig)
-  
-
-
-
-
+源地址：[source tweet](https://twitter.com/orphicaluminous/status/1237955170752802816), [direct image link](https://pbs.twimg.com/media/ES4ZpL9U8AAawfu?format=jpg&name=orig)  
 
 ---
 

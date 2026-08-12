@@ -1,6 +1,6 @@
 # 文件:JUMP_OTOME_SHOURI封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cf\ns6%3AJUMP_OTOME_SHOURI%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cf\ns6%3AJUMP_OTOME_SHOURI%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 豚乙女
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [JUMP OTOME SHOURI](./JUMP_OTOME_SHOURI.md)  
-该封面包含的角色：- [西行寺幽幽子](./西行寺幽幽子.md)
-
-
-
+- [JUMP OTOME SHOURI](./JUMP_OTOME_SHOURI.md)该封面包含的角色：
+- [西行寺幽幽子](./西行寺幽幽子.md)
 
 
 ---

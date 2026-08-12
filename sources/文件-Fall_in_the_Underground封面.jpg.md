@@ -1,6 +1,6 @@
 # 文件:Fall_in_the_Underground封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bb\ns6%3AFall_in_the_Underground%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bb\ns6%3AFall_in_the_Underground%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Cradle_of_Emeria | 专辑封面 | 封面图片
 
@@ -8,16 +8,12 @@ Cradle_of_Emeria | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Fall in the Underground](./Fall_in_the_Underground.md)  
-该封面包含的角色：- [古明地觉](./古明地觉.md)- [古明地恋](./古明地恋.md)
+- [Fall in the Underground](./Fall_in_the_Underground.md)该封面包含的角色：
+- [古明地觉](./古明地觉.md)
+- [古明地恋](./古明地恋.md)
 
   
-源地址：[[1]](https://pbs.twimg.com/media/CrLoce9UMAADr34.jpg:large)
-  
-
-
-
-
+源地址：[\[1\]](https://pbs.twimg.com/media/CrLoce9UMAADr34.jpg:large)  
 
 ---
 

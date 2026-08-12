@@ -1,6 +1,6 @@
 # 文件:Super_Forest_Beat_VOL.2封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0e\ns6%3ASuper_Forest_Beat_VOL%2E2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0e\ns6%3ASuper_Forest_Beat_VOL%2E2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Silver_Forest | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ Silver_Forest | 专辑封面 | 封面图片
   
 
 - [Super Forest Beat VOL.2](./Super_Forest_Beat_VOL.2.md)
-
-
-
 
 
 ---

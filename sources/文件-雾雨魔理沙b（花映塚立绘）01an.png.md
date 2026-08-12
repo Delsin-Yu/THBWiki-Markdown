@@ -1,12 +1,8 @@
 # 文件:雾雨魔理沙b（花映塚立绘）01an.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bc\ns6%3A%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99b%EF%BC%88%E8%8A%B1%E6%98%A0%E5%A1%9A%E7%AB%8B%E7%BB%98%EF%BC%8901an%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bc\ns6%3A%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99b%EF%BC%88%E8%8A%B1%E6%98%A0%E5%A1%9A%E7%AB%8B%E7%BB%98%EF%BC%8901an%2Epng.html -->
 
 ZUN绘 | 东方花映塚 | 官方游戏立绘 | 雾雨魔理沙
-
-
-
-
 
 
 ---

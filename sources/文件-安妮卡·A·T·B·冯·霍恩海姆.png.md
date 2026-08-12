@@ -1,14 +1,11 @@
 # 文件:安妮卡·A·T·B·冯·霍恩海姆.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\98\ns6%3A%E5%AE%89%E5%A6%AE%E5%8D%A1%C2%B7A%C2%B7T%C2%B7B%C2%B7%E5%86%AF%C2%B7%E9%9C%8D%E6%81%A9%E6%B5%B7%E5%A7%86%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\98\ns6%3A%E5%AE%89%E5%A6%AE%E5%8D%A1%C2%B7A%C2%B7T%C2%B7B%C2%B7%E5%86%AF%C2%B7%E9%9C%8D%E6%81%A9%E6%B5%B7%E5%A7%86%2Epng.html -->
 
 二次角色立绘 | 只鹳狸药堂 | 安妮卡·A·T·B·冯·霍恩海姆
 
 
 ## 文件说明
-
-
-
 
 ---
 

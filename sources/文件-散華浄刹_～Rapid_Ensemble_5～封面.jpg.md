@@ -1,6 +1,6 @@
 # 文件:散華浄刹_～Rapid_Ensemble_5～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\53\ns6%3A%E6%95%A3%E8%8F%AF%E6%B5%84%E5%88%B9_%EF%BD%9ERapid_Ensemble_5%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\53\ns6%3A%E6%95%A3%E8%8F%AF%E6%B5%84%E5%88%B9_%EF%BD%9ERapid_Ensemble_5%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 As／Hi_Soundworks | 专辑封面 | 封面图片
 
@@ -8,16 +8,12 @@ As／Hi_Soundworks | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- 散華浄刹 ～Rapid Ensemble 5～ (未找到链接)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
+- [散華浄刹 ～Rapid Ensemble 5～](./散華浄刹_～Rapid_Ensemble_5～.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
   
-源地址：[[1]](http://ashisoundworks.smat.ne.jp/0010_web/img/jacket.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://ashisoundworks.smat.ne.jp/0010_web/img/jacket.jpg)  
 
 ---
 

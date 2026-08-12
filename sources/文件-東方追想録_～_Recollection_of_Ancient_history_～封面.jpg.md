@@ -1,6 +1,6 @@
 # 文件:東方追想録_～_Recollection_of_Ancient_history_～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d7\ns6%3A%E6%9D%B1%E6%96%B9%E8%BF%BD%E6%83%B3%E9%8C%B2_%EF%BD%9E_Recollection_of_Ancient_history_%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d7\ns6%3A%E6%9D%B1%E6%96%B9%E8%BF%BD%E6%83%B3%E9%8C%B2_%EF%BD%9E_Recollection_of_Ancient_history_%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 まぐなむお～ぱす | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方追想録 ～ Recollection of Ancient history ～](./東方追想録_～_Recollection_of_Ancient_history_～.md)  
-该封面包含的角色：- [风见幽香](./风见幽香.md)
-
-
-
+- [東方追想録 ～ Recollection of Ancient history ～](./東方追想録_～_Recollection_of_Ancient_history_～.md)该封面包含的角色：
+- [风见幽香](./风见幽香.md)
 
 
 ---

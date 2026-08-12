@@ -1,12 +1,8 @@
 # 文件:Squall_Of_Screambanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\72\ns6%3ASquall_Of_Screambanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\72\ns6%3ASquall_Of_Screambanner%2Ejpg.html -->
 
 Squall_Of_Scream | 社团LOGO
-
-
-
-
 
 
 ---

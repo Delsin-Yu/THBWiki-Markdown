@@ -1,12 +1,8 @@
 # 文件:迷你八卦炉（Missile）（虹龙洞卡牌）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5b\ns6%3A%E8%BF%B7%E4%BD%A0%E5%85%AB%E5%8D%A6%E7%82%89%EF%BC%88Missile%EF%BC%89%EF%BC%88%E8%99%B9%E9%BE%99%E6%B4%9E%E5%8D%A1%E7%89%8C%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5b\ns6%3A%E8%BF%B7%E4%BD%A0%E5%85%AB%E5%8D%A6%E7%82%89%EF%BC%88Missile%EF%BC%89%EF%BC%88%E8%99%B9%E9%BE%99%E6%B4%9E%E5%8D%A1%E7%89%8C%EF%BC%89%2Epng.html -->
 
 东方虹龙洞
-
-
-
-
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:THD2土蜘蛛之丝.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e5\ns6%3ATHD2%E5%9C%9F%E8%9C%98%E8%9B%9B%E4%B9%8B%E4%B8%9D%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e5\ns6%3ATHD2%E5%9C%9F%E8%9C%98%E8%9B%9B%E4%B9%8B%E4%B8%9D%2Epng.html -->
 
 AvalonStudioOfficial
-
-
-
-
 
 
 ---

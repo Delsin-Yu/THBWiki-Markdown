@@ -1,6 +1,6 @@
 # 文件:犬咲夜Station_–黃–封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e4\ns6%3A%E7%8A%AC%E5%92%B2%E5%A4%9CStation_%E2%80%93%E9%BB%83%E2%80%93%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e4\ns6%3A%E7%8A%AC%E5%92%B2%E5%A4%9CStation_%E2%80%93%E9%BB%83%E2%80%93%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 カけラ＊羽 | 上海_x_Alice_妄想樂團 | 同人志封面 | 封面图片 | 緋紅ノ夜
 
@@ -10,11 +10,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [犬咲夜Station –黃–](./犬咲夜Station_–黃–.md)  
-该封面包含的角色：- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)- 十六夜咲夜 (未找到链接)- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
-
-
-
+- [犬咲夜Station –黃–](./犬咲夜Station_–黃–.md)该封面包含的角色：
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
+- [十六夜咲夜](./十六夜咲夜.md)
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
 
 ---

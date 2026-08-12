@@ -1,6 +1,6 @@
 # 文件:幸せ紫苑VS不幸天子封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3b\ns6%3A%E5%B9%B8%E3%81%9B%E7%B4%AB%E8%8B%91VS%E4%B8%8D%E5%B9%B8%E5%A4%A9%E5%AD%90%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3b\ns6%3A%E5%B9%B8%E3%81%9B%E7%B4%AB%E8%8B%91VS%E4%B8%8D%E5%B9%B8%E5%A4%A9%E5%AD%90%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 クォロッサシ | 同人志封面 | 封面图片
 
@@ -8,11 +8,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [幸せ紫苑VS不幸天子](./幸せ紫苑VS不幸天子.md)  
-该封面包含的角色：- [比那名居天子](./比那名居天子.md)- [少名针妙丸](./少名针妙丸.md)- [依神紫苑](./依神紫苑.md)
-
-
-
+- [幸せ紫苑VS不幸天子](./幸せ紫苑VS不幸天子.md)该封面包含的角色：
+- [比那名居天子](./比那名居天子.md)
+- [少名针妙丸](./少名针妙丸.md)
+- [依神紫苑](./依神紫苑.md)
 
 
 ---

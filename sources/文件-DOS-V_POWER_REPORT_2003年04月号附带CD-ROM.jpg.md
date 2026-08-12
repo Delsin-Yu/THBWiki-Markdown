@@ -1,14 +1,11 @@
 # 文件:DOS-V_POWER_REPORT_2003年04月号附带CD-ROM.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0a\ns6%3ADOS-V_POWER_REPORT_2003%E5%B9%B404%E6%9C%88%E5%8F%B7%E9%99%84%E5%B8%A6CD-ROM%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0a\ns6%3ADOS-V_POWER_REPORT_2003%E5%B9%B404%E6%9C%88%E5%8F%B7%E9%99%84%E5%B8%A6CD-ROM%2Ejpg.html -->
 
 东方妖妖梦 | 官方游戏体验版光盘扫图
 
 
 ## 文件说明
-
-
-
 
 ---
 

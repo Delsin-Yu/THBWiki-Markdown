@@ -1,6 +1,6 @@
 # 文件:1st_Demo（Discovering_the_Place）封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\da\ns6%3A1st_Demo%EF%BC%88Discovering_the_Place%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\da\ns6%3A1st_Demo%EF%BC%88Discovering_the_Place%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Discovering_the_Place | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Discovering_the_Place | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [1st Demo（Discovering the Place）](./1st_Demo（Discovering_the_Place）.md)  
-该封面包含的角色：- [今泉影狼](./今泉影狼.md)
+- [1st Demo（Discovering the Place）](./1st_Demo（Discovering_the_Place）.md)该封面包含的角色：
+- [今泉影狼](./今泉影狼.md)
 
   
-源地址：[direct image link (original size)](http://discoveringtheplace.web.fc2.com/sukusyo.png), [source page](http://discoveringtheplace.web.fc2.com/C85.html)
-  
-
-
-
-
+源地址：[direct image link (original size)](http://discoveringtheplace.web.fc2.com/sukusyo.png), [source page](http://discoveringtheplace.web.fc2.com/C85.html)  
 
 ---
 

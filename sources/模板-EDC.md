@@ -1,16 +1,12 @@
 # 模板:EDC
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\7\7a\ns10%3AEDC.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\7\7a\ns10%3AEDC.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

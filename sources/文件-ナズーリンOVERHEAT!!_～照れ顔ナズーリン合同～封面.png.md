@@ -1,6 +1,6 @@
 # 文件:ナズーリンOVERHEAT!!_～照れ顔ナズーリン合同～封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b4\ns6%3A%E3%83%8A%E3%82%BA%E3%83%BC%E3%83%AA%E3%83%B3OVERHEAT%21%21_%EF%BD%9E%E7%85%A7%E3%82%8C%E9%A1%94%E3%83%8A%E3%82%BA%E3%83%BC%E3%83%AA%E3%83%B3%E5%90%88%E5%90%8C%EF%BD%9E%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b4\ns6%3A%E3%83%8A%E3%82%BA%E3%83%BC%E3%83%AA%E3%83%B3OVERHEAT%21%21_%EF%BD%9E%E7%85%A7%E3%82%8C%E9%A1%94%E3%83%8A%E3%82%BA%E3%83%BC%E3%83%AA%E3%83%B3%E5%90%88%E5%90%8C%EF%BD%9E%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 41_LINE_R_! | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [ナズーリンOVERHEAT!! ～照れ顔ナズーリン合同～](./ナズーリンOVERHEAT!!_～照れ顔ナズーリン合同～.md)  
-该封面包含的角色：- [娜兹玲](./娜兹玲.md)
+- [ナズーリンOVERHEAT!! ～照れ顔ナズーリン合同～](./ナズーリンOVERHEAT!!_～照れ顔ナズーリン合同～.md)该封面包含的角色：
+- [娜兹玲](./娜兹玲.md)
 
   
-[Pixiv artwork ID: 97764475 (original size)](https://www.pixiv.net/artworks/97764475)
-  
-
-
-
-
+[Pixiv artwork ID: 97764475 (original size)](https://www.pixiv.net/artworks/97764475)  
 
 ---
 

@@ -1,12 +1,8 @@
 # 文件:Karkan.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\39\ns6%3AKarkan%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\39\ns6%3AKarkan%2Epng.html -->
 
 Karkan | 社团LOGO
-
-
-
-
 
 
 ---

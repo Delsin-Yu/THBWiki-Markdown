@@ -1,12 +1,8 @@
 # 文件:Poplica*_banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\21\ns6%3APoplica%2A_banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\21\ns6%3APoplica%2A_banner%2Epng.html -->
 
 Poplica＊ | 社团LOGO
-
-
-
-
 
 
 ---

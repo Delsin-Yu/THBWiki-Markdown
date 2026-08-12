@@ -1,6 +1,6 @@
 # 文件:CielArc_C97_会場限定特典CD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b2\ns6%3ACielArc_C97_%E4%BC%9A%E5%A0%B4%E9%99%90%E5%AE%9A%E7%89%B9%E5%85%B8CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b2\ns6%3ACielArc_C97_%E4%BC%9A%E5%A0%B4%E9%99%90%E5%AE%9A%E7%89%B9%E5%85%B8CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 CielArc | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ CielArc | 专辑封面 | 封面图片
   
 
 - [CielArc C97 会場限定特典CD](./CielArc_C97_会場限定特典CD.md)
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:SYNC.ART'S_2009_March封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ab\ns6%3ASYNC%2EART%27S_2009_March%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ab\ns6%3ASYNC%2EART%27S_2009_March%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 SYNC.ART'S | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ SYNC.ART'S | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [SYNC.ART'S 2009 March](./SYNC.ART'S_2009_March.md)  
-该封面包含的角色：- [键山雏](./键山雏.md)
-
-
-
+- [SYNC.ART'S 2009 March](./SYNC.ART'S_2009_March.md)该封面包含的角色：
+- [键山雏](./键山雏.md)
 
 
 ---

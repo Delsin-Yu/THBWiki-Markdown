@@ -1,6 +1,6 @@
 # 文件:情緒不安定_demo_ver.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7f\ns6%3A%E6%83%85%E7%B7%92%E4%B8%8D%E5%AE%89%E5%AE%9A_demo_ver%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7f\ns6%3A%E6%83%85%E7%B7%92%E4%B8%8D%E5%AE%89%E5%AE%9A_demo_ver%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 半裸帝国 | 封面图片
 
@@ -11,12 +11,7 @@
 - [情緒不安定 demo ver.](./情緒不安定_demo_ver..md)
 
   
-源地址：[[1]](http://empireofhanra.web.fc2.com/cd/jotyodemo.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://empireofhanra.web.fc2.com/cd/jotyodemo.jpg)  
 
 ---
 

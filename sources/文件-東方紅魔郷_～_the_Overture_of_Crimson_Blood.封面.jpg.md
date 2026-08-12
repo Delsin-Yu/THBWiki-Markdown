@@ -1,6 +1,6 @@
 # 文件:東方紅魔郷_～_the_Overture_of_Crimson_Blood.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\96\ns6%3A%E6%9D%B1%E6%96%B9%E7%B4%85%E9%AD%94%E9%83%B7_%EF%BD%9E_the_Overture_of_Crimson_Blood%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\96\ns6%3A%E6%9D%B1%E6%96%B9%E7%B4%85%E9%AD%94%E9%83%B7_%EF%BD%9E_the_Overture_of_Crimson_Blood%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 DLR | 专辑封面 | 封面图片
 
@@ -8,12 +8,9 @@ DLR | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方紅魔郷 ～ the Overture of Crimson Blood.](./東方紅魔郷_～_the_Overture_of_Crimson_Blood..md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)源地址：[[1]](http://blog-imgs-42.fc2.com/d/l/r/dlr/kouma_jac.jpg)
-
-
-
-
+- [東方紅魔郷 ～ the Overture of Crimson Blood.](./東方紅魔郷_～_the_Overture_of_Crimson_Blood..md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+源地址：[\[1\]](http://blog-imgs-42.fc2.com/d/l/r/dlr/kouma_jac.jpg)
 
 ---
 

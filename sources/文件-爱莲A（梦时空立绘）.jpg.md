@@ -1,14 +1,11 @@
 # 文件:爱莲A（梦时空立绘）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f0\ns6%3A%E7%88%B1%E8%8E%B2A%EF%BC%88%E6%A2%A6%E6%97%B6%E7%A9%BA%E7%AB%8B%E7%BB%98%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f0\ns6%3A%E7%88%B1%E8%8E%B2A%EF%BC%88%E6%A2%A6%E6%97%B6%E7%A9%BA%E7%AB%8B%E7%BB%98%EF%BC%89%2Ejpg.html -->
 
 ZUN绘 | 东方梦时空 | 官方游戏立绘 | 爱莲
 
 
 ## 摘要
-
-
-
 
 ---
 

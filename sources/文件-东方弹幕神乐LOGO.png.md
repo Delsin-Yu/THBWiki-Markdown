@@ -1,14 +1,11 @@
 # 文件:东方弹幕神乐LOGO.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\99\ns6%3A%E4%B8%9C%E6%96%B9%E5%BC%B9%E5%B9%95%E7%A5%9E%E4%B9%90LOGO%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\99\ns6%3A%E4%B8%9C%E6%96%B9%E5%BC%B9%E5%B9%95%E7%A5%9E%E4%B9%90LOGO%2Epng.html -->
 
 东方弹幕神乐 | 授权商业二次创作手机游戏
 
 
 ## 文件说明
-
-
-
 
 ---
 

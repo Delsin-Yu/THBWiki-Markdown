@@ -1,6 +1,6 @@
 # 文件:東方添い寝CD_夏恋。_～風見幽香の場合～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fa\ns6%3A%E6%9D%B1%E6%96%B9%E6%B7%BB%E3%81%84%E5%AF%9DCD_%E5%A4%8F%E6%81%8B%E3%80%82_%EF%BD%9E%E9%A2%A8%E8%A6%8B%E5%B9%BD%E9%A6%99%E3%81%AE%E5%A0%B4%E5%90%88%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fa\ns6%3A%E6%9D%B1%E6%96%B9%E6%B7%BB%E3%81%84%E5%AF%9DCD_%E5%A4%8F%E6%81%8B%E3%80%82_%EF%BD%9E%E9%A2%A8%E8%A6%8B%E5%B9%BD%E9%A6%99%E3%81%AE%E5%A0%B4%E5%90%88%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 豆屋
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方添い寝CD 夏恋。 ～風見幽香の場合～](./東方添い寝CD_夏恋。_～風見幽香の場合～.md)  
-该封面包含的角色：- [风见幽香](./风见幽香.md)
-
-
-
+- [東方添い寝CD 夏恋。 ～風見幽香の場合～](./東方添い寝CD_夏恋。_～風見幽香の場合～.md)该封面包含的角色：
+- [风见幽香](./风见幽香.md)
 
 
 ---

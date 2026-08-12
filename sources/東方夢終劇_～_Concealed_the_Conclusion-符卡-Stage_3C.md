@@ -1,34 +1,27 @@
 # 東方夢終劇_～_Concealed_the_Conclusion/符卡/Stage_3C
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\7\79\ns0%3A%E6%9D%B1%E6%96%B9%E5%A4%A2%E7%B5%82%E5%8A%87_%EF%BD%9E_Concealed_the_Conclusion%2F%E7%AC%A6%E5%8D%A1%2FStage_3C.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\7\79\ns0%3A%E6%9D%B1%E6%96%B9%E5%A4%A2%E7%B5%82%E5%8A%87_%EF%BD%9E_Concealed_the_Conclusion%2F%E7%AC%A6%E5%8D%A1%2FStage_3C.html -->
 
 Danmaq | 含有受损文件链接的页面
 
 <center>
-
 <table>
 <tbody><tr>
-<td>&lt;
+<td><
 </td>
-<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./東方夢終劇_～_Concealed_the_Conclusion-符卡-Stage_2C.md" title="東方夢終劇 ～ Concealed the Conclusion/符卡/Stage 2C">Stage 2C</a>&#160;
+<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./東方夢終劇_～_Concealed_the_Conclusion-符卡-Stage_2C.md" title="東方夢終劇 ～ Concealed the Conclusion/符卡/Stage 2C">Stage 2C</a> 
 </td>
-<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="./東方夢終劇_～_Concealed_the_Conclusion-符卡.md" title="東方夢終劇 ～ Concealed the Conclusion/符卡">符卡</a>&#160;
+<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;"> <a href="./東方夢終劇_～_Concealed_the_Conclusion-符卡.md" title="東方夢終劇 ～ Concealed the Conclusion/符卡">符卡</a> 
 </td>
-<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left">&#160;<a href="./東方夢終劇_～_Concealed_the_Conclusion-符卡-Stage_4.md" title="東方夢終劇 ～ Concealed the Conclusion/符卡/Stage 4">Stage 4</a>
+<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left"> <a href="./東方夢終劇_～_Concealed_the_Conclusion-符卡-Stage_4.md" title="東方夢終劇 ～ Concealed the Conclusion/符卡/Stage 4">Stage 4</a>
 </td>
-<td>&gt;
+<td>>
 </td></tr></tbody></table>
 
   
 </center>
-  
-  
-
-  
-
-
 <table>
-<tbody><tr><td width="80">符卡编号</td><td width="400">143</td><td rowspan="6" width="120"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%BB%88%E5%89%A7%E7%AC%A6%E5%8D%A1.jpg" class="new" title="文件:东方梦终剧符卡.jpg">文件:东方梦终剧符卡.jpg</a></td></tr>
+<tbody><tr><td width="80">符卡编号</td><td width="400">143</td><td rowspan="6" width="120"><a class="new" title="文件:东方梦终剧符卡.jpg">文件:东方梦终剧符卡.jpg</a></td></tr>
 <tr><td>符卡原名</td><td>葬符「江深淵クルーズ ～ Easy」</td></tr><tr><td>符卡译名</td><td>葬符「江深渊的客船 ～ Easy」</td></tr><tr><td>出现位置</td><td>Stage 3C
  - Easy（小野塚小町）</td></tr><tr><td>说明文本</td><td>三途の川渡り最大の危険地帯をまるごと召喚する。
 <p>通常は罪人のみが経験するゾーンを一般人も体験
@@ -39,14 +32,8 @@ Danmaq | 含有受损文件链接的页面
 因而从某种意义上来说很贵重。</td></tr></tbody></table>
 
 
-  
-  
-
-  
-
-
 <table>
-<tbody><tr><td width="80">符卡编号</td><td width="400">144</td><td rowspan="6" width="120"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%BB%88%E5%89%A7%E7%AC%A6%E5%8D%A1144.jpg" class="new" title="文件:东方梦终剧符卡144.jpg">文件:东方梦终剧符卡144.jpg</a></td></tr>
+<tbody><tr><td width="80">符卡编号</td><td width="400">144</td><td rowspan="6" width="120"><a class="new" title="文件:东方梦终剧符卡144.jpg">文件:东方梦终剧符卡144.jpg</a></td></tr>
 <tr><td>符卡原名</td><td>葬符「江深淵クルーズ」</td></tr><tr><td>符卡译名</td><td>葬符「江深渊的客船」</td></tr><tr><td>出现位置</td><td>Stage 3C
  - Normal（小野塚小町）</td></tr><tr><td>说明文本</td><td>三途の川渡り最大の危険地帯をまるごと召喚する。
 <p>最近は地獄も財政困難。経費削減でロクに懲罰も
@@ -59,14 +46,8 @@ Danmaq | 含有受损文件链接的页面
 在外界毫无价值的人类越来越多。</td></tr></tbody></table>
 
 
-  
-  
-
-  
-
-
 <table>
-<tbody><tr><td width="80">符卡编号</td><td width="400">145</td><td rowspan="6" width="120"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%BB%88%E5%89%A7%E7%AC%A6%E5%8D%A1145.jpg" class="new" title="文件:东方梦终剧符卡145.jpg">文件:东方梦终剧符卡145.jpg</a></td></tr>
+<tbody><tr><td width="80">符卡编号</td><td width="400">145</td><td rowspan="6" width="120"><a class="new" title="文件:东方梦终剧符卡145.jpg">文件:东方梦终剧符卡145.jpg</a></td></tr>
 <tr><td>符卡原名</td><td>葬符「江深淵クルーズ ～ Hard」</td></tr><tr><td>符卡译名</td><td>葬符「江深渊的客船 ～ Hard」</td></tr><tr><td>出现位置</td><td>Stage 3C
  - Hard（小野塚小町）</td></tr><tr><td>说明文本</td><td>三途の川渡り最大の危険地帯をまるごと召喚する。
 <p>最近は地獄も財政困難。観光客を呼び込もうと
@@ -79,14 +60,8 @@ Danmaq | 含有受损文件链接的页面
 因为太危险而遭到了不好的评价。没有反省之意。</td></tr></tbody></table>
 
 
-  
-  
-
-  
-
-
 <table>
-<tbody><tr><td width="80">符卡编号</td><td width="400">146</td><td rowspan="6" width="120"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%BB%88%E5%89%A7%E7%AC%A6%E5%8D%A1146.jpg" class="new" title="文件:东方梦终剧符卡146.jpg">文件:东方梦终剧符卡146.jpg</a></td></tr>
+<tbody><tr><td width="80">符卡编号</td><td width="400">146</td><td rowspan="6" width="120"><a class="new" title="文件:东方梦终剧符卡146.jpg">文件:东方梦终剧符卡146.jpg</a></td></tr>
 <tr><td>符卡原名</td><td>葬符「江深淵クルーズ ～ Lunatic」</td></tr><tr><td>符卡译名</td><td>葬符「江深渊的客船 ～ Lunatic」</td></tr><tr><td>出现位置</td><td>Stage 3C
  - Lunatic（小野塚小町）</td></tr><tr><td>说明文本</td><td>三途の川渡り最大の危険地帯をまるごと召喚する。
 <p>彼女の渡しは上・中・下の3等級あるが、どれを
@@ -99,14 +74,8 @@ Danmaq | 含有受损文件链接的页面
 于是就「不行呀这个」。</td></tr></tbody></table>
 
 
-  
-  
-
-  
-
-
 <table>
-<tbody><tr><td width="80">符卡编号</td><td width="400">147</td><td rowspan="6" width="120"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%BB%88%E5%89%A7%E7%AC%A6%E5%8D%A1147.jpg" class="new" title="文件:东方梦终剧符卡147.jpg">文件:东方梦终剧符卡147.jpg</a></td></tr>
+<tbody><tr><td width="80">符卡编号</td><td width="400">147</td><td rowspan="6" width="120"><a class="new" title="文件:东方梦终剧符卡147.jpg">文件:东方梦终剧符卡147.jpg</a></td></tr>
 <tr><td>符卡原名</td><td>審符「デスレジスター ～ Easy」</td></tr><tr><td>符卡译名</td><td>审符「生死簿 ～ Easy」</td></tr><tr><td>出现位置</td><td>Stage 3C
  - Easy（四季映姬·夜摩仙那度）</td></tr><tr><td>说明文本</td><td>裁く対象の罪深さに比例した量の弾幕を放つ、
 <p>映姫特製の閻魔帳。生前に犯した罪が全て記載
@@ -119,14 +88,8 @@ Danmaq | 含有受损文件链接的页面
 就会化作弹幕。</td></tr></tbody></table>
 
 
-  
-  
-
-  
-
-
 <table>
-<tbody><tr><td width="80">符卡编号</td><td width="400">148</td><td rowspan="6" width="120"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%BB%88%E5%89%A7%E7%AC%A6%E5%8D%A1148.jpg" class="new" title="文件:东方梦终剧符卡148.jpg">文件:东方梦终剧符卡148.jpg</a></td></tr>
+<tbody><tr><td width="80">符卡编号</td><td width="400">148</td><td rowspan="6" width="120"><a class="new" title="文件:东方梦终剧符卡148.jpg">文件:东方梦终剧符卡148.jpg</a></td></tr>
 <tr><td>符卡原名</td><td>審符「デスレジスター」</td></tr><tr><td>符卡译名</td><td>审符「生死簿」</td></tr><tr><td>出现位置</td><td>Stage 3C
  - Normal（四季映姬·夜摩仙那度）</td></tr><tr><td>说明文本</td><td>裁く対象の罪深さに比例した量の弾幕を放つ、
 <p>映姫特製の閻魔帳。生命は生存すること、存在
@@ -139,14 +102,8 @@ Danmaq | 含有受损文件链接的页面
 不被她的弹幕攻击。</td></tr></tbody></table>
 
 
-  
-  
-
-  
-
-
 <table>
-<tbody><tr><td width="80">符卡编号</td><td width="400">149</td><td rowspan="6" width="120"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%BB%88%E5%89%A7%E7%AC%A6%E5%8D%A1149.jpg" class="new" title="文件:东方梦终剧符卡149.jpg">文件:东方梦终剧符卡149.jpg</a></td></tr>
+<tbody><tr><td width="80">符卡编号</td><td width="400">149</td><td rowspan="6" width="120"><a class="new" title="文件:东方梦终剧符卡149.jpg">文件:东方梦终剧符卡149.jpg</a></td></tr>
 <tr><td>符卡原名</td><td>審符「デスレジスター ～ Hard」</td></tr><tr><td>符卡译名</td><td>审符「生死簿 ～ Hard」</td></tr><tr><td>出现位置</td><td>Stage 3C
  - Hard（四季映姬·夜摩仙那度）</td></tr><tr><td>说明文本</td><td>映姫特製の閻魔帳は、罪の重さを弾幕に変換する。
 <p>自覚出来ぬ罪は多く、大抵は厚い弾幕に面食らう
@@ -159,14 +116,8 @@ Danmaq | 含有受损文件链接的页面
 也绝不过分。</td></tr></tbody></table>
 
 
-  
-  
-
-  
-
-
 <table>
-<tbody><tr><td width="80">符卡编号</td><td width="400">150</td><td rowspan="6" width="120"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%BB%88%E5%89%A7%E7%AC%A6%E5%8D%A1150.jpg" class="new" title="文件:东方梦终剧符卡150.jpg">文件:东方梦终剧符卡150.jpg</a></td></tr>
+<tbody><tr><td width="80">符卡编号</td><td width="400">150</td><td rowspan="6" width="120"><a class="new" title="文件:东方梦终剧符卡150.jpg">文件:东方梦终剧符卡150.jpg</a></td></tr>
 <tr><td>符卡原名</td><td>審符「デスレジスター ～ Lunatic」</td></tr><tr><td>符卡译名</td><td>审符「生死簿 ～ Lunatic」</td></tr><tr><td>出现位置</td><td>Stage 3C
  - Lunatic（四季映姬·夜摩仙那度）</td></tr><tr><td>说明文本</td><td>映姫特製の閻魔帳は、罪の重さを弾幕に変換する。
 <p>大罪はもちろん、拾い食い等の細かいネタまで
@@ -179,14 +130,8 @@ Danmaq | 含有受损文件链接的页面
 用一大笔钱强行买走过。</td></tr></tbody></table>
 
 
-  
-  
-
-  
-
-
 <table>
-<tbody><tr><td width="80">符卡编号</td><td width="400">151</td><td rowspan="6" width="120"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%BB%88%E5%89%A7%E7%AC%A6%E5%8D%A1151.jpg" class="new" title="文件:东方梦终剧符卡151.jpg">文件:东方梦终剧符卡151.jpg</a></td></tr>
+<tbody><tr><td width="80">符卡编号</td><td width="400">151</td><td rowspan="6" width="120"><a class="new" title="文件:东方梦终剧符卡151.jpg">文件:东方梦终剧符卡151.jpg</a></td></tr>
 <tr><td>符卡原名</td><td>冥罰「十王の裁き ～ Easy」</td></tr><tr><td>符卡译名</td><td>冥罚「十王裁决 ～ Easy」</td></tr><tr><td>出现位置</td><td>Stage 3C
  - Easy（四季映姬·夜摩仙那度）</td></tr><tr><td>说明文本</td><td>地獄を統べる十王が席に着き、裁判が始まる。
 <p>裁判といえば開廷時の宣誓が付き物だが、ここ
@@ -199,14 +144,8 @@ Danmaq | 含有受损文件链接的页面
 结束审判。</td></tr></tbody></table>
 
 
-  
-  
-
-  
-
-
 <table>
-<tbody><tr><td width="80">符卡编号</td><td width="400">152</td><td rowspan="6" width="120"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%BB%88%E5%89%A7%E7%AC%A6%E5%8D%A1152.jpg" class="new" title="文件:东方梦终剧符卡152.jpg">文件:东方梦终剧符卡152.jpg</a></td></tr>
+<tbody><tr><td width="80">符卡编号</td><td width="400">152</td><td rowspan="6" width="120"><a class="new" title="文件:东方梦终剧符卡152.jpg">文件:东方梦终剧符卡152.jpg</a></td></tr>
 <tr><td>符卡原名</td><td>冥罰「十王の裁き」</td></tr><tr><td>符卡译名</td><td>冥罚「十王裁决」</td></tr><tr><td>出现位置</td><td>Stage 3C
  - Normal（四季映姬·夜摩仙那度）</td></tr><tr><td>说明文本</td><td>地獄を統べる十王が席に着き、裁判が始まる。
 <p>弁護士などという気の利いたものはいないため、
@@ -219,14 +158,8 @@ Danmaq | 含有受损文件链接的页面
 亦即弹幕全部避开以示清白。</td></tr></tbody></table>
 
 
-  
-  
-
-  
-
-
 <table>
-<tbody><tr><td width="80">符卡编号</td><td width="400">153</td><td rowspan="6" width="120"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%BB%88%E5%89%A7%E7%AC%A6%E5%8D%A1153.jpg" class="new" title="文件:东方梦终剧符卡153.jpg">文件:东方梦终剧符卡153.jpg</a></td></tr>
+<tbody><tr><td width="80">符卡编号</td><td width="400">153</td><td rowspan="6" width="120"><a class="new" title="文件:东方梦终剧符卡153.jpg">文件:东方梦终剧符卡153.jpg</a></td></tr>
 <tr><td>符卡原名</td><td>冥罰「十王の裁き ～ Hard」</td></tr><tr><td>符卡译名</td><td>冥罚「十王裁决 ～ Hard」</td></tr><tr><td>出现位置</td><td>Stage 3C
  - Hard（四季映姬·夜摩仙那度）</td></tr><tr><td>说明文本</td><td>地獄を統べる十王が席に着き、裁判が始まる。
 <p>十王と言えど、各々に解釈の違いがある。
@@ -239,14 +172,8 @@ Give me a truth!</td></tr><tr><td>说明译文</td><td>统治地狱的十王就�
 Give me a truth！</td></tr></tbody></table>
 
 
-  
-  
-
-  
-
-
 <table>
-<tbody><tr><td width="80">符卡编号</td><td width="400">154</td><td rowspan="6" width="120"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%BB%88%E5%89%A7%E7%AC%A6%E5%8D%A1154.jpg" class="new" title="文件:东方梦终剧符卡154.jpg">文件:东方梦终剧符卡154.jpg</a></td></tr>
+<tbody><tr><td width="80">符卡编号</td><td width="400">154</td><td rowspan="6" width="120"><a class="new" title="文件:东方梦终剧符卡154.jpg">文件:东方梦终剧符卡154.jpg</a></td></tr>
 <tr><td>符卡原名</td><td>冥罰「十王の裁き ～ Lunatic」</td></tr><tr><td>符卡译名</td><td>冥罚「十王裁决 ～ Lunatic」</td></tr><tr><td>出现位置</td><td>Stage 3C
  - Lunatic（四季映姬·夜摩仙那度）</td></tr><tr><td>说明文本</td><td>地獄を統べる十王が席に着き、裁判が始まる。
 <p>もし49日後の判決が不服なら、指を突きつけ
@@ -259,14 +186,8 @@ Give me a truth！</td></tr></tbody></table>
 ……不过，这之后的责任我可就担不起了。</td></tr></tbody></table>
 
 
-  
-  
-
-  
-
-
 <table>
-<tbody><tr><td width="80">符卡编号</td><td width="400">155</td><td rowspan="6" width="120"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%BB%88%E5%89%A7%E7%AC%A6%E5%8D%A1155.jpg" class="new" title="文件:东方梦终剧符卡155.jpg">文件:东方梦终剧符卡155.jpg</a></td></tr>
+<tbody><tr><td width="80">符卡编号</td><td width="400">155</td><td rowspan="6" width="120"><a class="new" title="文件:东方梦终剧符卡155.jpg">文件:东方梦终剧符卡155.jpg</a></td></tr>
 <tr><td>符卡原名</td><td>罪符「原罪の監獄 ～ Easy」</td></tr><tr><td>符卡译名</td><td>罪符「原罪的监狱 ～ Easy」</td></tr><tr><td>出现位置</td><td>Stage 3C
  - Easy（四季映姬·夜摩仙那度）</td></tr><tr><td>说明文本</td><td>人間が生まれながらに背負う罪を実体化した監獄。
 <p>生きていること自体が罪だと言われても、どう
@@ -278,14 +199,8 @@ Give me a truth！</td></tr></tbody></table>
 该怎么办好，在这里除了忍耐之外别无他法。</td></tr></tbody></table>
 
 
-  
-  
-
-  
-
-
 <table>
-<tbody><tr><td width="80">符卡编号</td><td width="400">156</td><td rowspan="6" width="120"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%BB%88%E5%89%A7%E7%AC%A6%E5%8D%A1156.jpg" class="new" title="文件:东方梦终剧符卡156.jpg">文件:东方梦终剧符卡156.jpg</a></td></tr>
+<tbody><tr><td width="80">符卡编号</td><td width="400">156</td><td rowspan="6" width="120"><a class="new" title="文件:东方梦终剧符卡156.jpg">文件:东方梦终剧符卡156.jpg</a></td></tr>
 <tr><td>符卡原名</td><td>罪符「原罪の監獄」</td></tr><tr><td>符卡译名</td><td>罪符「原罪的监狱」</td></tr><tr><td>出现位置</td><td>Stage 3C
  - Normal（四季映姬·夜摩仙那度）</td></tr><tr><td>说明文本</td><td>人間が生まれながらに背負う罪を実体化した監獄。
 <p>生きていること自体が罪だと言われるが、自殺
@@ -297,14 +212,8 @@ Give me a truth！</td></tr></tbody></table>
 更大的罪，所以还是不要这样做比较好。</td></tr></tbody></table>
 
 
-  
-  
-
-  
-
-
 <table>
-<tbody><tr><td width="80">符卡编号</td><td width="400">157</td><td rowspan="6" width="120"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%BB%88%E5%89%A7%E7%AC%A6%E5%8D%A1157.jpg" class="new" title="文件:东方梦终剧符卡157.jpg">文件:东方梦终剧符卡157.jpg</a></td></tr>
+<tbody><tr><td width="80">符卡编号</td><td width="400">157</td><td rowspan="6" width="120"><a class="new" title="文件:东方梦终剧符卡157.jpg">文件:东方梦终剧符卡157.jpg</a></td></tr>
 <tr><td>符卡原名</td><td>罪符「原罪の監獄 ～ Hard」</td></tr><tr><td>符卡译名</td><td>罪符「原罪的监狱 ～ Hard」</td></tr><tr><td>出现位置</td><td>Stage 3C
  - Hard（四季映姬·夜摩仙那度）</td></tr><tr><td>说明文本</td><td>人間が生まれながらに背負う罪を実体化した監獄。
 <p>超遠い祖先の罪のせいで檻に入れられるのは納得
@@ -317,14 +226,8 @@ Give me a truth！</td></tr></tbody></table>
 这就是所谓的官僚主义。</td></tr></tbody></table>
 
 
-  
-  
-
-  
-
-
 <table>
-<tbody><tr><td width="80">符卡编号</td><td width="400">158</td><td rowspan="6" width="120"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%BB%88%E5%89%A7%E7%AC%A6%E5%8D%A1158.jpg" class="new" title="文件:东方梦终剧符卡158.jpg">文件:东方梦终剧符卡158.jpg</a></td></tr>
+<tbody><tr><td width="80">符卡编号</td><td width="400">158</td><td rowspan="6" width="120"><a class="new" title="文件:东方梦终剧符卡158.jpg">文件:东方梦终剧符卡158.jpg</a></td></tr>
 <tr><td>符卡原名</td><td>罪符「原罪の監獄 ～ Lunatic」</td></tr><tr><td>符卡译名</td><td>罪符「原罪的监狱 ～ Lunatic」</td></tr><tr><td>出现位置</td><td>Stage 3C
  - Lunatic（四季映姬·夜摩仙那度）</td></tr><tr><td>说明文本</td><td>人間が生まれながらに背負う罪を実体化した監獄。
 <p>結局人間なら誰でもこの罪で説教されてしまう。
@@ -337,14 +240,8 @@ Give me a truth！</td></tr></tbody></table>
 记在心里就行了。</td></tr></tbody></table>
 
 
-  
-  
-
-  
-
-
 <table>
-<tbody><tr><td width="80">符卡编号</td><td width="400">159</td><td rowspan="6" width="120"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%BB%88%E5%89%A7%E7%AC%A6%E5%8D%A1159.jpg" class="new" title="文件:东方梦终剧符卡159.jpg">文件:东方梦终剧符卡159.jpg</a></td></tr>
+<tbody><tr><td width="80">符卡编号</td><td width="400">159</td><td rowspan="6" width="120"><a class="new" title="文件:东方梦终剧符卡159.jpg">文件:东方梦终剧符卡159.jpg</a></td></tr>
 <tr><td>符卡原名</td><td>業符「弾幕裁判 ～ Easy」</td></tr><tr><td>符卡译名</td><td>业符「弹幕裁判 ～ Easy」</td></tr><tr><td>出现位置</td><td>Stage 3C
  - Easy（四季映姬·夜摩仙那度）</td></tr><tr><td>说明文本</td><td>弾幕の罪を表面化し、浴びせかける。
 <p>弾一発にすら罪はあるということを身を以って
@@ -356,14 +253,8 @@ Give me a truth！</td></tr></tbody></table>
 这样的道理，据说目的是督促人自律。</td></tr></tbody></table>
 
 
-  
-  
-
-  
-
-
 <table>
-<tbody><tr><td width="80">符卡编号</td><td width="400">160</td><td rowspan="6" width="120"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%BB%88%E5%89%A7%E7%AC%A6%E5%8D%A1160.jpg" class="new" title="文件:东方梦终剧符卡160.jpg">文件:东方梦终剧符卡160.jpg</a></td></tr>
+<tbody><tr><td width="80">符卡编号</td><td width="400">160</td><td rowspan="6" width="120"><a class="new" title="文件:东方梦终剧符卡160.jpg">文件:东方梦终剧符卡160.jpg</a></td></tr>
 <tr><td>符卡原名</td><td>業符「弾幕裁判」</td></tr><tr><td>符卡译名</td><td>业符「弹幕裁判」</td></tr><tr><td>出现位置</td><td>Stage 3C
  - Normal（四季映姬·夜摩仙那度）</td></tr><tr><td>说明文本</td><td>弾幕の罪を表面化し、浴びせかける。
 <p>大罪を犯した者は原型を留めぬ程の弾幕を受ける
@@ -376,14 +267,8 @@ Give me a truth！</td></tr></tbody></table>
 温水浴池里一样。</td></tr></tbody></table>
 
 
-  
-  
-
-  
-
-
 <table>
-<tbody><tr><td width="80">符卡编号</td><td width="400">161</td><td rowspan="6" width="120"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%BB%88%E5%89%A7%E7%AC%A6%E5%8D%A1161.jpg" class="new" title="文件:东方梦终剧符卡161.jpg">文件:东方梦终剧符卡161.jpg</a></td></tr>
+<tbody><tr><td width="80">符卡编号</td><td width="400">161</td><td rowspan="6" width="120"><a class="new" title="文件:东方梦终剧符卡161.jpg">文件:东方梦终剧符卡161.jpg</a></td></tr>
 <tr><td>符卡原名</td><td>業符「弾幕裁判 ～ Hard」</td></tr><tr><td>符卡译名</td><td>业符「弹幕裁判 ～ Hard」</td></tr><tr><td>出现位置</td><td>Stage 3C
  - Hard（四季映姬·夜摩仙那度）</td></tr><tr><td>说明文本</td><td>地獄に蠢く罪を触媒とし、弾幕の片鱗を呼び出す。
 <p>地獄の一片を体で味わせた後での説教は効果倍増
@@ -395,14 +280,8 @@ Give me a truth！</td></tr></tbody></table>
 确实如果落入地狱的话就不会只是那种程度而已了。</td></tr></tbody></table>
 
 
-  
-  
-
-  
-
-
 <table>
-<tbody><tr><td width="80">符卡编号</td><td width="400">162</td><td rowspan="6" width="120"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%BB%88%E5%89%A7%E7%AC%A6%E5%8D%A1162.jpg" class="new" title="文件:东方梦终剧符卡162.jpg">文件:东方梦终剧符卡162.jpg</a></td></tr>
+<tbody><tr><td width="80">符卡编号</td><td width="400">162</td><td rowspan="6" width="120"><a class="new" title="文件:东方梦终剧符卡162.jpg">文件:东方梦终剧符卡162.jpg</a></td></tr>
 <tr><td>符卡原名</td><td>業符「弾幕裁判 ～ Lunatic」</td></tr><tr><td>符卡译名</td><td>业符「弹幕裁判 ～ Lunatic」</td></tr><tr><td>出现位置</td><td>Stage 3C
  - Lunatic（四季映姬·夜摩仙那度）</td></tr><tr><td>说明文本</td><td>地獄に蠢く罪を触媒とし、弾幕の片鱗を呼び出す。
 <p>地獄の闇から沸いて出た弾幕は魔理沙を襲う一方、
@@ -413,14 +292,8 @@ Give me a truth！</td></tr></tbody></table>
 也逼近了大小姐的枕边。</td></tr></tbody></table>
 
 
-  
-  
-
-  
-
-
 <table>
-<tbody><tr><td width="80">符卡编号</td><td width="400">163</td><td rowspan="6" width="120"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%BB%88%E5%89%A7%E7%AC%A6%E5%8D%A1163.jpg" class="new" title="文件:东方梦终剧符卡163.jpg">文件:东方梦终剧符卡163.jpg</a></td></tr>
+<tbody><tr><td width="80">符卡编号</td><td width="400">163</td><td rowspan="6" width="120"><a class="new" title="文件:东方梦终剧符卡163.jpg">文件:东方梦终剧符卡163.jpg</a></td></tr>
 <tr><td>符卡原名</td><td>因果「浄頗梨の鏡」</td></tr><tr><td>符卡译名</td><td>因果「净颇梨之镜」</td></tr><tr><td>出现位置</td><td>Stage 3C
  - Normal（四季映姬·夜摩仙那度）</td></tr><tr><td>说明文本</td><td>向かう者の一切の所業を映し出す鏡。
 <p>因果応報、鏡より発するは自らの罪であることが
@@ -431,14 +304,8 @@ Give me a truth！</td></tr></tbody></table>
 如果不能够理解这一点的话，就不可能获胜吧。</td></tr></tbody></table>
 
 
-  
-  
-
-  
-
-
 <table>
-<tbody><tr><td width="80">符卡编号</td><td width="400">164</td><td rowspan="6" width="120"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%BB%88%E5%89%A7%E7%AC%A6%E5%8D%A1164.jpg" class="new" title="文件:东方梦终剧符卡164.jpg">文件:东方梦终剧符卡164.jpg</a></td></tr>
+<tbody><tr><td width="80">符卡编号</td><td width="400">164</td><td rowspan="6" width="120"><a class="new" title="文件:东方梦终剧符卡164.jpg">文件:东方梦终剧符卡164.jpg</a></td></tr>
 <tr><td>符卡原名</td><td>因果「浄頗梨の鏡 ～ Hard」</td></tr><tr><td>符卡译名</td><td>因果「净颇梨之镜 ～ Hard」</td></tr><tr><td>出现位置</td><td>Stage 3C
  - Hard（四季映姬·夜摩仙那度）</td></tr><tr><td>说明文本</td><td>向かう者の一切の所業を映し出す鏡。
 <p>何が映ってもそれが真実。決して我を失って余計
@@ -449,14 +316,8 @@ Give me a truth！</td></tr></tbody></table>
 后犯下的多余的罪行。比方说毒苹果之类的。</td></tr></tbody></table>
 
 
-  
-  
-
-  
-
-
 <table>
-<tbody><tr><td width="80">符卡编号</td><td width="400">165</td><td rowspan="6" width="120"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%BB%88%E5%89%A7%E7%AC%A6%E5%8D%A1165.jpg" class="new" title="文件:东方梦终剧符卡165.jpg">文件:东方梦终剧符卡165.jpg</a></td></tr>
+<tbody><tr><td width="80">符卡编号</td><td width="400">165</td><td rowspan="6" width="120"><a class="new" title="文件:东方梦终剧符卡165.jpg">文件:东方梦终剧符卡165.jpg</a></td></tr>
 <tr><td>符卡原名</td><td>因果「浄頗梨の鏡 ～ Lunatic」</td></tr><tr><td>符卡译名</td><td>因果「净颇梨之镜 ～ Lunatic」</td></tr><tr><td>出现位置</td><td>Stage 3C
  - Lunatic（四季映姬·夜摩仙那度）</td></tr><tr><td>说明文本</td><td>向かう者の一切の所業を映し出す鏡。
 <p>そこいらの仔犬を映す行為は、単に己の煩悩を
@@ -466,33 +327,22 @@ Give me a truth！</td></tr></tbody></table>
 </p>
 徒增烦恼，不会得到什么夸奖。</td></tr></tbody></table>
 
-
 <center>
-
 <table>
 <tbody><tr>
-<td>&lt;
+<td><
 </td>
-<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./東方夢終劇_～_Concealed_the_Conclusion-符卡-Stage_2C.md" title="東方夢終劇 ～ Concealed the Conclusion/符卡/Stage 2C">Stage 2C</a>&#160;
+<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./東方夢終劇_～_Concealed_the_Conclusion-符卡-Stage_2C.md" title="東方夢終劇 ～ Concealed the Conclusion/符卡/Stage 2C">Stage 2C</a> 
 </td>
-<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="./東方夢終劇_～_Concealed_the_Conclusion-符卡.md" title="東方夢終劇 ～ Concealed the Conclusion/符卡">符卡</a>&#160;
+<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;"> <a href="./東方夢終劇_～_Concealed_the_Conclusion-符卡.md" title="東方夢終劇 ～ Concealed the Conclusion/符卡">符卡</a> 
 </td>
-<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left">&#160;<a href="./東方夢終劇_～_Concealed_the_Conclusion-符卡-Stage_4.md" title="東方夢終劇 ～ Concealed the Conclusion/符卡/Stage 4">Stage 4</a>
+<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left"> <a href="./東方夢終劇_～_Concealed_the_Conclusion-符卡-Stage_4.md" title="東方夢終劇 ～ Concealed the Conclusion/符卡/Stage 4">Stage 4</a>
 </td>
-<td>&gt;
+<td>>
 </td></tr></tbody></table>
 
   
 </center>
-  
-  
-
-  
-
-
-
-
-
 ---
 
 此文档由 [THBWiki-Markdown-Builder](https://github.com/Delsin-Yu/THBWiki-Markdown-Builder) 构建。

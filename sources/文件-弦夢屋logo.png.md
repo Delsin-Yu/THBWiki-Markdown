@@ -1,16 +1,11 @@
 # 文件:弦夢屋logo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ae\ns6%3A%E5%BC%A6%E5%A4%A2%E5%B1%8Blogo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ae\ns6%3A%E5%BC%A6%E5%A4%A2%E5%B1%8Blogo%2Epng.html -->
 
 弦夢屋 | 社团LOGO
 
   
-源地址：[[1]](http://genmuya.sakura.ne.jp/icon/genmmIcon.png)
-  
-
-
-
-
+源地址：[\[1\]](http://genmuya.sakura.ne.jp/icon/genmmIcon.png)  
 
 ---
 

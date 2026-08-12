@@ -1,6 +1,6 @@
 # 文件:Eastern_Piano_&_Ensemble_-The_Concert_for_Crimson_Ladies-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c4\ns6%3AEastern_Piano_%26_Ensemble_-The_Concert_for_Crimson_Ladies-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c4\ns6%3AEastern_Piano_%26_Ensemble_-The_Concert_for_Crimson_Ladies-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Clonesoldier's_Factory | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Clonesoldier's_Factory | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Eastern Piano &amp; Ensemble -The Concert for Crimson Ladies-](./Eastern_Piano_&_Ensemble_-The_Concert_for_Crimson_Ladies-.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)
-
-
-
+- [Eastern Piano & Ensemble -The Concert for Crimson Ladies-](./Eastern_Piano_&_Ensemble_-The_Concert_for_Crimson_Ladies-.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
 
 
 ---

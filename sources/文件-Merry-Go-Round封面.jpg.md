@@ -1,6 +1,6 @@
 # 文件:Merry-Go-Round封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\47\ns6%3AMerry-Go-Round%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\47\ns6%3AMerry-Go-Round%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ゆめいろごろも | 同人志封面 | 封面图片
 
@@ -10,16 +10,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [Merry-Go-Round](./Merry-Go-Round.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
+- [Merry-Go-Round](./Merry-Go-Round.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
   
-源地址：[direct image link](https://www.suruga-ya.jp/database/pics_light/game/zhore41654.jpg), [source page (suruga-ya ID: ZHORE41654)](https://www.suruga-ya.jp/product/detail/ZHORE41654)
-  
-
-
-
-
+源地址：[direct image link](https://www.suruga-ya.jp/database/pics_light/game/zhore41654.jpg), [source page (suruga-ya ID: ZHORE41654)](https://www.suruga-ya.jp/product/detail/ZHORE41654)  
 
 ---
 

@@ -1,37 +1,21 @@
 # Good_Smile_Company/大粘土/博丽灵梦
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\62\ns0%3AGood_Smile_Company%2F%E5%A4%A7%E7%B2%98%E5%9C%9F%2F%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\62\ns0%3AGood_Smile_Company%2F%E5%A4%A7%E7%B2%98%E5%9C%9F%2F%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6.html -->
 
 博丽灵梦PVCFigure手办模型
 
 本页是关于东方Project  
- **相关实体周边 (未找到链接)** 的词条
-
+**相关实体周边 (未找到链接)**的词条
 ## 模型信息
 
-<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 博丽灵梦 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>大粘土</td></tr><tr><td class="label">角色</td><td><a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></td></tr><tr><td class="label">原型师</td><td><a href="/index.php?title=%E3%81%AD%E3%82%93%E3%81%A9%E3%82%8D%E3%82%93&amp;action=edit&amp;redlink=1" class="new" title="ねんどろん（页面不存在）">ねんどろん</a></td></tr><tr><td class="label">尺寸</td><td>100mm</td></tr><tr><td class="label">状态</td><td>已发售</td></tr><tr><td class="label">售价</td><td>2857日元</td></tr><tr><td class="label">首发日期</td><td>2009-08</td></tr><tr><td class="label">发售方</td><td><a href="./Good_Smile_Company.md" title="Good Smile Company">Good Smile Company</a></td></tr><tr><td class="label">再版日期</td><td>2009-09 2011-06-21</td></tr><tr><td class="label">备注</td><td>编号74 第一次再版时手中灵符改为红色符文。<br style="clear:both;">初版和其他再版均为黑色符文</td></tr></tbody></table>
+<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 博丽灵梦 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>大粘土</td></tr><tr><td class="label">角色</td><td><a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></td></tr><tr><td class="label">原型师</td><td><a class="new" title="ねんどろん（页面不存在）">ねんどろん</a></td></tr><tr><td class="label">尺寸</td><td>100mm</td></tr><tr><td class="label">状态</td><td>已发售</td></tr><tr><td class="label">售价</td><td>2857日元</td></tr><tr><td class="label">首发日期</td><td>2009-08</td></tr><tr><td class="label">发售方</td><td><a href="./Good_Smile_Company.md" title="Good Smile Company">Good Smile Company</a></td></tr><tr><td class="label">再版日期</td><td>2009-09 2011-06-21</td></tr><tr><td class="label">备注</td><td>编号74 第一次再版时手中灵符改为红色符文。<br style="clear:both;">初版和其他再版均为黑色符文</td></tr></tbody></table>
 
 Good Smile Company/大粘土/博丽灵梦（周边） - 博丽灵梦PVCFigure手办模型
-
 ## 参考图片
-
-
-
-[](./文件-Good_Smile_Company大粘土博丽灵梦-1.jpg.md)
-
-
-[](./文件-Good_Smile_Company大粘土博丽灵梦-2.jpg.md)
-
-
-[](./文件-Good_Smile_Company大粘土博丽灵梦-3.jpg.md)
-
+<img alt="Good Smile Company大粘土博丽灵梦" src="https://upload.thwiki.cc/thumb/6/65/Good_Smile_Company%E5%A4%A7%E7%B2%98%E5%9C%9F%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6-1.jpg/160px-Good_Smile_Company%E5%A4%A7%E7%B2%98%E5%9C%9F%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6-1.jpg" decoding="async" loading="lazy" width="160" height="233" srcset="https://upload.thwiki.cc/thumb/6/65/Good_Smile_Company%E5%A4%A7%E7%B2%98%E5%9C%9F%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6-1.jpg/240px-Good_Smile_Company%E5%A4%A7%E7%B2%98%E5%9C%9F%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6-1.jpg 1.5x, https://upload.thwiki.cc/thumb/6/65/Good_Smile_Company%E5%A4%A7%E7%B2%98%E5%9C%9F%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6-1.jpg/320px-Good_Smile_Company%E5%A4%A7%E7%B2%98%E5%9C%9F%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6-1.jpg 2x" data-file-width="550" data-file-height="800">
+<img alt="Good Smile Company大粘土博丽灵梦" src="https://upload.thwiki.cc/thumb/2/2b/Good_Smile_Company%E5%A4%A7%E7%B2%98%E5%9C%9F%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6-2.jpg/160px-Good_Smile_Company%E5%A4%A7%E7%B2%98%E5%9C%9F%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6-2.jpg" decoding="async" loading="lazy" width="160" height="233" srcset="https://upload.thwiki.cc/thumb/2/2b/Good_Smile_Company%E5%A4%A7%E7%B2%98%E5%9C%9F%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6-2.jpg/240px-Good_Smile_Company%E5%A4%A7%E7%B2%98%E5%9C%9F%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6-2.jpg 1.5x, https://upload.thwiki.cc/thumb/2/2b/Good_Smile_Company%E5%A4%A7%E7%B2%98%E5%9C%9F%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6-2.jpg/320px-Good_Smile_Company%E5%A4%A7%E7%B2%98%E5%9C%9F%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6-2.jpg 2x" data-file-width="550" data-file-height="800">
+<img alt="Good Smile Company大粘土博丽灵梦" src="https://upload.thwiki.cc/thumb/d/d3/Good_Smile_Company%E5%A4%A7%E7%B2%98%E5%9C%9F%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6-3.jpg/160px-Good_Smile_Company%E5%A4%A7%E7%B2%98%E5%9C%9F%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6-3.jpg" decoding="async" loading="lazy" width="160" height="233" srcset="https://upload.thwiki.cc/thumb/d/d3/Good_Smile_Company%E5%A4%A7%E7%B2%98%E5%9C%9F%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6-3.jpg/240px-Good_Smile_Company%E5%A4%A7%E7%B2%98%E5%9C%9F%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6-3.jpg 1.5x, https://upload.thwiki.cc/thumb/d/d3/Good_Smile_Company%E5%A4%A7%E7%B2%98%E5%9C%9F%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6-3.jpg/320px-Good_Smile_Company%E5%A4%A7%E7%B2%98%E5%9C%9F%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6-3.jpg 2x" data-file-width="550" data-file-height="800">
 公式图
-
-
-
-
-
-
 
 ---
 

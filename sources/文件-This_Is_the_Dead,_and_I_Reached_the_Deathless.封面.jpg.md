@@ -1,6 +1,6 @@
 # 文件:This_Is_the_Dead,_and_I_Reached_the_Deathless.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\41\ns6%3AThis_Is_the_Dead%2C_and_I_Reached_the_Deathless%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\41\ns6%3AThis_Is_the_Dead%2C_and_I_Reached_the_Deathless%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 BLANKFIELD | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ BLANKFIELD | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [This Is the Dead, and I Reached the Deathless.](./This_Is_the_Dead,_and_I_Reached_the_Deathless..md)  
-该封面包含的角色：- [藤原妹红](./藤原妹红.md)
-
-
-
+- [This Is the Dead, and I Reached the Deathless.](./This_Is_the_Dead,_and_I_Reached_the_Deathless..md)该封面包含的角色：
+- [藤原妹红](./藤原妹红.md)
 
 
 ---

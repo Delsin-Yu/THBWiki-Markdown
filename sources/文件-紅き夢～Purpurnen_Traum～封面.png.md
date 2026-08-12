@@ -1,6 +1,6 @@
 # 文件:紅き夢～Purpurnen_Traum～封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\12\ns6%3A%E7%B4%85%E3%81%8D%E5%A4%A2%EF%BD%9EPurpurnen_Traum%EF%BD%9E%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\12\ns6%3A%E7%B4%85%E3%81%8D%E5%A4%A2%EF%BD%9EPurpurnen_Traum%EF%BD%9E%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 α_music | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [紅き夢～Purpurnen Traum～](./紅き夢～Purpurnen_Traum～.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
-
-
-
+- [紅き夢～Purpurnen Traum～](./紅き夢～Purpurnen_Traum～.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
 
 ---

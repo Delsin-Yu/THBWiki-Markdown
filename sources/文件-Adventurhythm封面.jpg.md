@@ -1,6 +1,6 @@
 # 文件:Adventurhythm封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\03\ns6%3AAdventurhythm%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\03\ns6%3AAdventurhythm%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 葉ヶ暮ハウス
 
@@ -8,11 +8,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [Adventurhythm](./Adventurhythm.md)  
-该封面包含的角色：- [键山雏](./键山雏.md)- [河城荷取](./河城荷取.md)- [露娜切露德](./露娜切露德.md)- [桑尼米尔克](./桑尼米尔克.md)- [斯塔萨菲雅](./斯塔萨菲雅.md)
-
-
-
+- [Adventurhythm](./Adventurhythm.md)该封面包含的角色：
+- [键山雏](./键山雏.md)
+- [河城荷取](./河城荷取.md)
+- [露娜切露德](./露娜切露德.md)
+- [桑尼米尔克](./桑尼米尔克.md)
+- [斯塔萨菲雅](./斯塔萨菲雅.md)
 
 
 ---

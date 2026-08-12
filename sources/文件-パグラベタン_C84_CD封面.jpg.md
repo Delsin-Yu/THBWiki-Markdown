@@ -1,6 +1,6 @@
 # 文件:パグラベタン_C84_CD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4c\ns6%3A%E3%83%91%E3%82%B0%E3%83%A9%E3%83%99%E3%82%BF%E3%83%B3_C84_CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4c\ns6%3A%E3%83%91%E3%82%B0%E3%83%A9%E3%83%99%E3%82%BF%E3%83%B3_C84_CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 パグラベタン | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [パグラベタン C84 CD](./パグラベタン_C84_CD.md)  
-该封面包含的角色：- [村纱水蜜](./村纱水蜜.md)
-
-
-
+- [パグラベタン C84 CD](./パグラベタン_C84_CD.md)该封面包含的角色：
+- [村纱水蜜](./村纱水蜜.md)
 
 
 ---

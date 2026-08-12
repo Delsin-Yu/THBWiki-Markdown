@@ -1,6 +1,6 @@
 # 文件:JiNG＊2封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7b\ns6%3AJiNG%EF%BC%8A2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7b\ns6%3AJiNG%EF%BC%8A2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Iemitsu. | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ Iemitsu. | 专辑封面 | 封面图片
   
 
 - [JiNG＊2](./JiNG＊2.md)
-
-
-
 
 
 ---

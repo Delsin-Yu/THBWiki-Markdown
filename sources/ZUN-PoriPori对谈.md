@@ -1,78 +1,57 @@
 # ZUN/PoriPori对谈
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\9\96\ns0%3AZUN%2FPoriPori%E5%AF%B9%E8%B0%88.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\9\96\ns0%3AZUN%2FPoriPori%E5%AF%B9%E8%B0%88.html -->
 
 PoriPori☆Club | ZUN | 木村祥朗
+
 
 - 本文刊载于「PoriPori Comic-夏CM 2017特大号」。
 - 翻译：京都人形
 
-  
-  
-
-  
-
-
-
-[](./文件-ZUN（PoriPori对谈1）.png.md)P0031[](./文件-ZUN（PoriPori对谈2）.png.md)P032[](./文件-ZUN（PoriPori对谈3）.png.md)P033[](./文件-ZUN（PoriPori对谈4）.png.md)P034
-
-
-  
+<img alt="PoriPori对谈1" src="https://upload.thwiki.cc/thumb/b/b4/ZUN%EF%BC%88PoriPori%E5%AF%B9%E8%B0%881%EF%BC%89.png/195px-ZUN%EF%BC%88PoriPori%E5%AF%B9%E8%B0%881%EF%BC%89.png" decoding="async" loading="lazy" width="195" height="277" srcset="https://upload.thwiki.cc/thumb/b/b4/ZUN%EF%BC%88PoriPori%E5%AF%B9%E8%B0%881%EF%BC%89.png/293px-ZUN%EF%BC%88PoriPori%E5%AF%B9%E8%B0%881%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/b/b4/ZUN%EF%BC%88PoriPori%E5%AF%B9%E8%B0%881%EF%BC%89.png/390px-ZUN%EF%BC%88PoriPori%E5%AF%B9%E8%B0%881%EF%BC%89.png 2x" data-file-width="2128" data-file-height="3028">
+P0031<img alt="PoriPori对谈2" src="https://upload.thwiki.cc/thumb/f/f2/ZUN%EF%BC%88PoriPori%E5%AF%B9%E8%B0%882%EF%BC%89.png/195px-ZUN%EF%BC%88PoriPori%E5%AF%B9%E8%B0%882%EF%BC%89.png" decoding="async" loading="lazy" width="195" height="277" srcset="https://upload.thwiki.cc/thumb/f/f2/ZUN%EF%BC%88PoriPori%E5%AF%B9%E8%B0%882%EF%BC%89.png/293px-ZUN%EF%BC%88PoriPori%E5%AF%B9%E8%B0%882%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/f/f2/ZUN%EF%BC%88PoriPori%E5%AF%B9%E8%B0%882%EF%BC%89.png/390px-ZUN%EF%BC%88PoriPori%E5%AF%B9%E8%B0%882%EF%BC%89.png 2x" data-file-width="2132" data-file-height="3028">
+P032<img alt="PoriPori对谈3" src="https://upload.thwiki.cc/thumb/7/7f/ZUN%EF%BC%88PoriPori%E5%AF%B9%E8%B0%883%EF%BC%89.png/195px-ZUN%EF%BC%88PoriPori%E5%AF%B9%E8%B0%883%EF%BC%89.png" decoding="async" loading="lazy" width="195" height="277" srcset="https://upload.thwiki.cc/thumb/7/7f/ZUN%EF%BC%88PoriPori%E5%AF%B9%E8%B0%883%EF%BC%89.png/293px-ZUN%EF%BC%88PoriPori%E5%AF%B9%E8%B0%883%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/7/7f/ZUN%EF%BC%88PoriPori%E5%AF%B9%E8%B0%883%EF%BC%89.png/390px-ZUN%EF%BC%88PoriPori%E5%AF%B9%E8%B0%883%EF%BC%89.png 2x" data-file-width="2132" data-file-height="3024">
+P033<img alt="PoriPori对谈4" src="https://upload.thwiki.cc/thumb/7/7a/ZUN%EF%BC%88PoriPori%E5%AF%B9%E8%B0%884%EF%BC%89.png/195px-ZUN%EF%BC%88PoriPori%E5%AF%B9%E8%B0%884%EF%BC%89.png" decoding="async" loading="lazy" width="195" height="275" srcset="https://upload.thwiki.cc/thumb/7/7a/ZUN%EF%BC%88PoriPori%E5%AF%B9%E8%B0%884%EF%BC%89.png/293px-ZUN%EF%BC%88PoriPori%E5%AF%B9%E8%B0%884%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/7/7a/ZUN%EF%BC%88PoriPori%E5%AF%B9%E8%B0%884%EF%BC%89.png/390px-ZUN%EF%BC%88PoriPori%E5%AF%B9%E8%B0%884%EF%BC%89.png 2x" data-file-width="2156" data-file-height="3044">
+P034  
 过去的2013年8月，木村在PoriPori☆Club的博客上，发表了“游戏业界势力图”的文章。文章贴合独立游戏引人热议的时代，获得了大量的点击，成为了话题。文章引发了同人游戏与独立游戏明明都做着自己喜欢的东西，为什么要用不同的名字称呼？有什么区别？等诸多议论。  
 
 本篇稿件，是在4年之后的现在，又重新制作了游戏业界势力图，一边看着这张图，本人木村祥朗，与在同人游戏界长年制作着游戏的ZUN、以街机游戏为中心日夜奋斗的人称“tantan”的丹泽悠一三人，在夜晚的酒馆中一手拿着酒进行了讨论的纯粹的三方会谈。  
-
   
 
-- 2013年游戏开发者势力图- [](./文件-游戏业界势力图13汉化.png.md)- [](./文件-游戏业界势力图13.png.md)
+- 2013年游戏开发者势力图
+- <img alt="游戏业界势力图13汉化.png" src="https://upload.thwiki.cc/thumb/5/58/%E6%B8%B8%E6%88%8F%E4%B8%9A%E7%95%8C%E5%8A%BF%E5%8A%9B%E5%9B%BE13%E6%B1%89%E5%8C%96.png/638px-%E6%B8%B8%E6%88%8F%E4%B8%9A%E7%95%8C%E5%8A%BF%E5%8A%9B%E5%9B%BE13%E6%B1%89%E5%8C%96.png" decoding="async" loading="lazy" width="426" height="600" srcset="https://upload.thwiki.cc/5/58/%E6%B8%B8%E6%88%8F%E4%B8%9A%E7%95%8C%E5%8A%BF%E5%8A%9B%E5%9B%BE13%E6%B1%89%E5%8C%96.png 1.5x" data-file-width="648" data-file-height="914"> 
+- <img alt="游戏业界势力图13.png" src="https://upload.thwiki.cc/thumb/2/20/%E6%B8%B8%E6%88%8F%E4%B8%9A%E7%95%8C%E5%8A%BF%E5%8A%9B%E5%9B%BE13.png/670px-%E6%B8%B8%E6%88%8F%E4%B8%9A%E7%95%8C%E5%8A%BF%E5%8A%9B%E5%9B%BE13.png" decoding="async" loading="lazy" width="447" height="600" srcset="https://upload.thwiki.cc/thumb/2/20/%E6%B8%B8%E6%88%8F%E4%B8%9A%E7%95%8C%E5%8A%BF%E5%8A%9B%E5%9B%BE13.png/1005px-%E6%B8%B8%E6%88%8F%E4%B8%9A%E7%95%8C%E5%8A%BF%E5%8A%9B%E5%9B%BE13.png 1.5x, https://upload.thwiki.cc/2/20/%E6%B8%B8%E6%88%8F%E4%B8%9A%E7%95%8C%E5%8A%BF%E5%8A%9B%E5%9B%BE13.png 2x" data-file-width="1023" data-file-height="1374"> 
 
-  
-  
-
-  
-
-
-<center><big><big> **三方会谈  
-ZUN×木村×tantan  
-讨论游戏业界的最新势力图  
-2017** </big></big>  
-
+<center><big><big>**三方会谈ZUN×木村×tantan讨论游戏业界的最新势力图2017**  
+</big></big>  
 
 <table>
 <tbody><tr><td><big>2017年 机器人支配人类！？</big></td></tr>
 </tbody></table>
 
-
-</center>
-
-  
+</center>  
 在三方会谈之前，先总结一下4年前发表的博客的内容。  
 
 详情请参照下述博客！  
-
 [http://poriporiclub.blogspot.com/2013/08/blog-post_21.html](http://poriporiclub.blogspot.com/2013/08/blog-post_21.html)  
-
- **1.世界可以平分为同人与同人以外（商业）。  
-** 
- **2.从同人业界来看，最近突然出现了独立这个词，开始被人以外来语称呼。  
-** 
- **3.同人游戏既有二次创作也有原创，同人≠独立。  
-** 
- **4.商业最重要的是赚钱，不赚钱就没意义！的感觉。同人有很多不打算赚钱的人。能赚钱也不错。这种感觉。  
-** 
- **5.同人的目标是完成，商业的目标是畅销  
-** 
+**1.世界可以平分为同人与同人以外（商业）。**  
+**2.从同人业界来看，最近突然出现了独立这个词，开始被人以外来语称呼。**  
+**3.同人游戏既有二次创作也有原创，同人≠独立。**  
+**4.商业最重要的是赚钱，不赚钱就没意义！的感觉。同人有很多不打算赚钱的人。能赚钱也不错。这种感觉。**  
+**5.同人的目标是完成，商业的目标是畅销**  
   
   
 ……从那之后过了4年。  
 
 时光飞逝，转眼已是2017年。在游戏业界用木筏进行着大航海的木村眼中所见的游戏业界势力图就在这里！  
-
   
 
-- 2017年游戏开发者势力图- [](./文件-游戏业界势力图17汉化.png.md)- [](./文件-游戏业界势力图17.png.md)
+- 2017年游戏开发者势力图
+- <img alt="游戏业界势力图17汉化.png" src="https://upload.thwiki.cc/thumb/7/73/%E6%B8%B8%E6%88%8F%E4%B8%9A%E7%95%8C%E5%8A%BF%E5%8A%9B%E5%9B%BE17%E6%B1%89%E5%8C%96.png/638px-%E6%B8%B8%E6%88%8F%E4%B8%9A%E7%95%8C%E5%8A%BF%E5%8A%9B%E5%9B%BE17%E6%B1%89%E5%8C%96.png" decoding="async" loading="lazy" width="426" height="600" srcset="https://upload.thwiki.cc/7/73/%E6%B8%B8%E6%88%8F%E4%B8%9A%E7%95%8C%E5%8A%BF%E5%8A%9B%E5%9B%BE17%E6%B1%89%E5%8C%96.png 1.5x" data-file-width="648" data-file-height="914"> 
+- <img alt="游戏业界势力图17.png" src="https://upload.thwiki.cc/thumb/9/98/%E6%B8%B8%E6%88%8F%E4%B8%9A%E7%95%8C%E5%8A%BF%E5%8A%9B%E5%9B%BE17.png/668px-%E6%B8%B8%E6%88%8F%E4%B8%9A%E7%95%8C%E5%8A%BF%E5%8A%9B%E5%9B%BE17.png" decoding="async" loading="lazy" width="446" height="600" srcset="https://upload.thwiki.cc/thumb/9/98/%E6%B8%B8%E6%88%8F%E4%B8%9A%E7%95%8C%E5%8A%BF%E5%8A%9B%E5%9B%BE17.png/1002px-%E6%B8%B8%E6%88%8F%E4%B8%9A%E7%95%8C%E5%8A%BF%E5%8A%9B%E5%9B%BE17.png 1.5x, https://upload.thwiki.cc/9/98/%E6%B8%B8%E6%88%8F%E4%B8%9A%E7%95%8C%E5%8A%BF%E5%8A%9B%E5%9B%BE17.png 2x" data-file-width="1023" data-file-height="1378"> 
 
-___
+
+---
 
 木村
 : 好平。
@@ -142,7 +121,7 @@ ZUN
 : 一定会的。不过，明明是性能完全一样的同样的东西摆在眼前……人们都会觉得人类村正锻造的刀“更有价值”。
 木村
 : 就算一样，人类锻造的刀，才是带有妖气的妖刀村正。大概。这就是人类的创造力吗。既然话题是这个走向，那我也说了……那个啊，娱乐的创造力，全都是“诅咒”。
-ZUN&amp;tantan
+ZUN&tantan
 : 诅咒？
 木村
 : 对。现在的游戏、漫画和电影等娱乐作品，都是让人忘记现实的东西吧。如果完全沉迷于这样的作品，在现实中的效率就消失了。我们一直在制作这种不妙的东西。而且，这些东西都诉诸人类的情感，通过能让人完全沉迷的方法论组装起来，全都是过去存在过的事物的循环。也就是说，我们不得不不断地去制作仿佛是过去制作过的东西的翻版。
@@ -154,10 +133,6 @@ tantan
 : 不过啊，创作虽然是重复的，但并不代表会制作出一模一样的东西……有一点点不同。就像生孩子一样。通过积累这种差别，我觉得就会产生“变化”。可能这就是希望吧。每年蝉都在叫，但今年的蝉却不是去年的蝉。
 ZUN
 : 游戏制作技术，虽然可能也会面临由于从机器人之国带来的工具的进化，任何人都可以量产同样的东西，这种被诅咒的时代，但只要能制作自己喜欢的东西就可以了。就像这本同人志一样（笑）。
-
-
-
-
 
 ---
 

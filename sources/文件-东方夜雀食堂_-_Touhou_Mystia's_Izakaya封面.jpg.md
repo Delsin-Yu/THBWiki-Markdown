@@ -1,6 +1,6 @@
 # 文件:东方夜雀食堂_-_Touhou_Mystia's_Izakaya封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0c\ns6%3A%E4%B8%9C%E6%96%B9%E5%A4%9C%E9%9B%80%E9%A3%9F%E5%A0%82_-_Touhou_Mystia%27s_Izakaya%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0c\ns6%3A%E4%B8%9C%E6%96%B9%E5%A4%9C%E9%9B%80%E9%A3%9F%E5%A0%82_-_Touhou_Mystia%27s_Izakaya%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Re零同人社 | 二色幽紫蝶 | 封面图片 | 软件封面
 
@@ -10,11 +10,8 @@ Re零同人社 | 二色幽紫蝶 | 封面图片 | 软件封面
 使用了本文件作封面图片的作品：
   
 
-- [东方夜雀食堂 - Touhou Mystia's Izakaya](./东方夜雀食堂_-_Touhou_Mystia's_Izakaya.md)  
-该封面包含的角色：- [米斯蒂娅·萝蕾拉](./米斯蒂娅·萝蕾拉.md)
-
-
-
+- [东方夜雀食堂 - Touhou Mystia's Izakaya](./东方夜雀食堂_-_Touhou_Mystia's_Izakaya.md)该封面包含的角色：
+- [米斯蒂娅·萝蕾拉](./米斯蒂娅·萝蕾拉.md)
 
 
 ---

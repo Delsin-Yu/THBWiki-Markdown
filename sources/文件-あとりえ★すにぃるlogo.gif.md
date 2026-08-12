@@ -1,18 +1,13 @@
 # 文件:あとりえ★すにぃるlogo.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\50\ns6%3A%E3%81%82%E3%81%A8%E3%82%8A%E3%81%88%E2%98%85%E3%81%99%E3%81%AB%E3%81%83%E3%82%8Blogo%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\50\ns6%3A%E3%81%82%E3%81%A8%E3%82%8A%E3%81%88%E2%98%85%E3%81%99%E3%81%AB%E3%81%83%E3%82%8Blogo%2Egif.html -->
 
 あとりえ★すにぃる | 社团LOGO
 
 
 ## 摘要
   
-源地址：[direct image link](http://ateliersunyiru.aikotoba.jp/images/common/logo00.gif), [source page](http://ateliersunyiru.aikotoba.jp/)
-  
-
-
-
-
+源地址：[direct image link](http://ateliersunyiru.aikotoba.jp/images/common/logo00.gif), [source page](http://ateliersunyiru.aikotoba.jp/)  
 
 ---
 

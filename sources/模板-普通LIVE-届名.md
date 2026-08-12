@@ -1,12 +1,8 @@
 # 模板:普通LIVE/届名
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\7\74\ns10%3A%E6%99%AE%E9%80%9ALIVE%2F%E5%B1%8A%E5%90%8D.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\7\74\ns10%3A%E6%99%AE%E9%80%9ALIVE%2F%E5%B1%8A%E5%90%8D.html -->
 
 活动届名模板
-
-
-
-
 
 
 ---

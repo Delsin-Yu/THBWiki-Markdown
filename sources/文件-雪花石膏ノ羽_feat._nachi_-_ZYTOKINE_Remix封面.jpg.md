@@ -1,6 +1,6 @@
 # 文件:雪花石膏ノ羽_feat._nachi_-_ZYTOKINE_Remix封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5a\ns6%3A%E9%9B%AA%E8%8A%B1%E7%9F%B3%E8%86%8F%E3%83%8E%E7%BE%BD_feat%2E_nachi_-_ZYTOKINE_Remix%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5a\ns6%3A%E9%9B%AA%E8%8A%B1%E7%9F%B3%E8%86%8F%E3%83%8E%E7%BE%BD_feat%2E_nachi_-_ZYTOKINE_Remix%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ZYTOKINE | 专辑封面 | 封面图片
 
@@ -10,11 +10,9 @@ ZYTOKINE | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [雪花石膏ノ羽 feat. nachi - ZYTOKINE Remix](./雪花石膏ノ羽_feat._nachi_-_ZYTOKINE_Remix.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [雪花石膏ノ羽 feat. nachi - ZYTOKINE Remix](./雪花石膏ノ羽_feat._nachi_-_ZYTOKINE_Remix.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

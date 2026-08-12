@@ -1,16 +1,11 @@
 # 文件:白楽亭banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dc\ns6%3A%E7%99%BD%E6%A5%BD%E4%BA%ADbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dc\ns6%3A%E7%99%BD%E6%A5%BD%E4%BA%ADbanner%2Ejpg.html -->
 
 白楽亭 | 社团LOGO
 
   
-源地址：[[1]](http://hakurakutei.web.fc2.com/banner.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://hakurakutei.web.fc2.com/banner.jpg)  
 
 ---
 

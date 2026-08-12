@@ -1,6 +1,6 @@
 # 東方千夜帖~Thousand_Night_Anamnesis./自机列表
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\d\d4\ns0%3A%E6%9D%B1%E6%96%B9%E5%8D%83%E5%A4%9C%E5%B8%96%7EThousand_Night_Anamnesis%2E%2F%E8%87%AA%E6%9C%BA%E5%88%97%E8%A1%A8.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\d\d4\ns0%3A%E6%9D%B1%E6%96%B9%E5%8D%83%E5%A4%9C%E5%B8%96%7EThousand_Night_Anamnesis%2E%2F%E8%87%AA%E6%9C%BA%E5%88%97%E8%A1%A8.html -->
 
 サラダ
 
@@ -41,7 +41,7 @@
 <td>Illusion Laser（<a href="./东方风神录.md" title="东方风神录">东方风神录</a>）</td>
 <td>魔法激光装置</td>
 <td>Cold Inferno（<a href="./东方风神录.md" title="东方风神录">东方风神录</a>）</td>
-<td>前方冷冻装置<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">1</a></sup></td>
+<td>前方冷冻装置<span>[^cite_note-1]</span></td>
 <td>恋符「极限火花」
 </td></tr>
 <tr>
@@ -54,21 +54,21 @@
 <td>蛙符「操纵蛤蟆」
 </td></tr>
 <tr>
-<td><a href="/%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C" title="十六夜咲夜">十六夜咲夜</a></td>
+<td><a href="./十六夜咲夜.md" title="十六夜咲夜">十六夜咲夜</a></td>
 <td>在屏幕上方使用Bomb伤害提升</td>
 <td>Silver Blade（<a href="./东方辉针城.md" title="东方辉针城">东方辉针城</a>）</td>
 <td>追踪飞刀装置</td>
 <td>Misdirection（<a href="./东方妖妖梦.md" title="东方妖妖梦">东方妖妖梦</a>）</td>
-<td>角度依存装置<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">2</a></sup></td>
+<td>角度依存装置<span>[^cite_note-2]</span></td>
 <td>幻符「无差别伤害」
 </td></tr>
 <tr>
 <td><a href="./铃仙·优昙华院·因幡.md" title="铃仙·优昙华院·因幡" unred="">铃仙</a></td>
 <td>在持有Bomb状态下miss将造成额外伤害</td>
 <td>Lunatic Gun（<a href="./东方绀珠传.md" title="东方绀珠传">东方绀珠传</a>）</td>
-<td>随机射击装置<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">3</a></sup></td>
+<td>随机射击装置<span>[^cite_note-3]</span></td>
 <td>Mind Wave（<a href="./东方绀珠传.md" title="东方绀珠传">东方绀珠传</a>）</td>
-<td>精神波动装置<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">4</a></sup></td>
+<td>精神波动装置<span>[^cite_note-4]</span></td>
 <td>狂符「障壁波动」
 </td></tr>
 <tr>
@@ -84,7 +84,7 @@
 <td><a href="./射命丸文.md" title="射命丸文">射命丸文</a></td>
 <td>Miss后一定时间攻击力提升</td>
 <td>深山颪（<a href="./东方地灵殿.md" title="东方地灵殿">东方地灵殿</a>）</td>
-<td>前后方向射击装置<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">5</a></sup></td>
+<td>前后方向射击装置<span>[^cite_note-5]</span></td>
 <td>Crazy Fall Wind（<a href="./东方天空璋.md" title="东方天空璋">东方天空璋</a>）</td>
 <td>加速射击装置</td>
 <td>黑符「乌鸦的暗影」
@@ -93,9 +93,9 @@
 <td><a href="./鬼人正邪.md" title="鬼人正邪">鬼人正邪</a></td>
 <td>特别可爱</td>
 <td>隙间的折叠伞（<a href="./弹幕天邪鬼.md" title="弹幕天邪鬼">弹幕天邪鬼</a>）</td>
-<td>画面边缘跃迁装置<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">6</a></sup></td>
+<td>画面边缘跃迁装置<span>[^cite_note-6]</span></td>
 <td>替身地藏（<a href="./弹幕天邪鬼.md" title="弹幕天邪鬼">弹幕天邪鬼</a>）</td>
-<td>犯规残机装置<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">7</a></sup></td>
+<td>犯规残机装置<span>[^cite_note-7]</span></td>
 <td>邪符「四尺魔法炸弹」
 </td></tr>
 <tr>
@@ -113,7 +113,7 @@
 <td>妖回针（<a href="./东方永夜抄.md" title="东方永夜抄">东方永夜抄</a>）</td>
 <td>式神追踪装置</td>
 <td>顶门紫针（<a href="./东方地灵殿.md" title="东方地灵殿">东方地灵殿</a>）</td>
-<td>左右围绕装置<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">8</a></sup></td>
+<td>左右围绕装置<span>[^cite_note-8]</span></td>
 <td>境符「四重结界」
 </td></tr>
 <tr>
@@ -131,7 +131,7 @@
 <td>Night Dance（<a href="./东方永夜抄.md" title="东方永夜抄">东方永夜抄</a>）</td>
 <td>舞动射击装置</td>
 <td>Bloody Devil（<a href="./东方永夜抄.md" title="东方永夜抄">东方永夜抄</a>）</td>
-<td>半安置射击装置<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">9</a></sup></td>
+<td>半安置射击装置<span>[^cite_note-9]</span></td>
 <td>红符「红色不夜城」
 </td></tr>
 <tr>
@@ -140,11 +140,10 @@
 <td>对岸的引诱（<a href="./东方永夜抄.md" title="东方永夜抄">东方永夜抄</a>）</td>
 <td>扩散蝶弹装置</td>
 <td>Mystery Butterfly（<a href="./东方永夜抄.md" title="东方永夜抄">东方永夜抄</a>）</td>
-<td>散乱蝶弹装置<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">10</a></sup></td>
+<td>散乱蝶弹装置<span>[^cite_note-10]</span></td>
 <td>死符「惊梦」
 </td></tr>
 </tbody></table>
-
 
 
 ## 旧版本自机特性
@@ -168,7 +167,7 @@
 <td>bomb无敌时间更长
 </td></tr>
 <tr>
-<td><a href="/%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C" title="十六夜咲夜">十六夜咲夜</a></td>
+<td><a href="./十六夜咲夜.md" title="十六夜咲夜">十六夜咲夜</a></td>
 <td>bomb范围更大
 </td></tr>
 <tr>
@@ -209,13 +208,16 @@
 </td></tr>
 </tbody></table>
 
-
-
 [^cite_note-1]: 即风神录魔C机体，但是由于游戏内无高低速切换，全程子机会跟随自机运动而不是停留在切换时位置
-
-
-
-
+[^cite_note-2]: 即妖妖梦咲夜B机体，部分射击角度会按照自机移动方向改变
+[^cite_note-3]: 即绀珠传铃仙高速射击
+[^cite_note-4]: 即绀珠传铃仙低速射击
+[^cite_note-5]: 此处不会如同地灵殿梦C机体一样改变射击角度，仅有前后两个方向射击
+[^cite_note-6]: 即弹幕天邪鬼的隙间伞，可以穿过墙壁去到另一侧
+[^cite_note-7]: 即弹幕天邪鬼的替身地藏，每一个残机可miss两次
+[^cite_note-8]: 即地灵殿梦A机体，允许在画面的左右边界穿墙至另一边
+[^cite_note-9]: 永夜抄单蕾米机体，开始移动后子机位置将不变，松手约1秒后子机回到自机身边
+[^cite_note-10]: 均为永夜抄幽幽子机体，区别在于蝶弹射出是否规律
 
 ---
 

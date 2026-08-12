@@ -1,6 +1,6 @@
 # 文件:LASCAUX_V封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\72\ns6%3ALASCAUX_V%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\72\ns6%3ALASCAUX_V%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 ごんばこんなか | 专辑封面 | 封面图片
 
@@ -13,12 +13,7 @@
 - [LASCAUX V](./LASCAUX_V.md)
 
   
-源地址：[图片链接](http://www.eonet.ne.jp/~torash/caventrance10_2.png) [来源网页](http://www.eonet.ne.jp/~torash/Lascaux5.html)
-  
-
-
-
-
+源地址：[图片链接](http://www.eonet.ne.jp/~torash/caventrance10_2.png) [来源网页](http://www.eonet.ne.jp/~torash/Lascaux5.html)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:Fatal_Contamination封面.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fc\ns6%3AFatal_Contamination%E5%B0%81%E9%9D%A2%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fc\ns6%3AFatal_Contamination%E5%B0%81%E9%9D%A2%2Egif.html -->
 
 Stratiotes | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Stratiotes | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Fatal Contamination](./Fatal_Contamination.md)  
-该封面包含的角色：- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
+- [Fatal Contamination](./Fatal_Contamination.md)该封面包含的角色：
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
 
   
-源地址: [[1]](http://mrsweden.com/udonge.gif)
-  
-
-
-
-
+源地址: [\[1\]](http://mrsweden.com/udonge.gif)  
 
 ---
 

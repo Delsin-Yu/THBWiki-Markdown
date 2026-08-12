@@ -1,6 +1,6 @@
 # 连缘天影战记～Brilliant_pagoda_or_haze_castle/机体说明
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\1\1c\ns0%3A%E8%BF%9E%E7%BC%98%E5%A4%A9%E5%BD%B1%E6%88%98%E8%AE%B0%EF%BD%9EBrilliant_pagoda_or_haze_castle%2F%E6%9C%BA%E4%BD%93%E8%AF%B4%E6%98%8E.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\1\1c\ns0%3A%E8%BF%9E%E7%BC%98%E5%A4%A9%E5%BD%B1%E6%88%98%E8%AE%B0%EF%BD%9EBrilliant_pagoda_or_haze_castle%2F%E6%9C%BA%E4%BD%93%E8%AF%B4%E6%98%8E.html -->
 
 トリック・ノスタルジー
 
@@ -8,114 +8,79 @@
 ## 目录
 
 - [1 神社组](#神社组)
-
   - [1.1 凤联薮雨](#凤联薮雨)
-
     - [1.1.1 性能说明](#性能说明)
     - [1.1.2 Upgrade](#Upgrade)
 
 
-
   - [1.2 燕乐玄鸟](#燕乐玄鸟)
-
     - [1.2.1 性能说明](#性能说明_2)
     - [1.2.2 Upgrade](#Upgrade_2)
 
 
-
   - [1.3 死宛](#死宛)
-
     - [1.3.1 性能说明](#性能说明_3)
     - [1.3.2 Upgrade](#Upgrade_3)
 
 
 
 
-
-
 - [2 新帝组](#新帝组)
-
   - [2.1 平文门](#平文门)
-
     - [2.1.1 性能说明](#性能说明_4)
     - [2.1.2 Upgrade](#Upgrade_4)
 
 
-
   - [2.2 藤原伊代真](#藤原伊代真)
-
     - [2.2.1 性能说明](#性能说明_5)
     - [2.2.2 Upgrade](#Upgrade_5)
 
 
-
   - [2.3 马立噤美](#马立噤美)
-
     - [2.3.1 性能说明](#性能说明_6)
     - [2.3.2 Upgrade](#Upgrade_6)
 
 
 
 
-
-
 - [3 幼儿园组](#幼儿园组)
-
   - [3.1 瑞风天堺](#瑞风天堺)
-
     - [3.1.1 性能说明](#性能说明_7)
     - [3.1.2 Upgrade](#Upgrade_7)
 
 
-
   - [3.2 片野宿祢](#片野宿祢)
-
     - [3.2.1 性能说明](#性能说明_8)
     - [3.2.2 Upgrade](#Upgrade_8)
 
 
-
   - [3.3 乞骸让让](#乞骸让让)
-
     - [3.3.1 性能说明](#性能说明_9)
     - [3.3.2 Upgrade](#Upgrade_9)
 
 
 
 
-
-
 - [4 恶党组](#恶党组)
-
   - [4.1 鹀黑巫鸟](#鹀黑巫鸟)
-
     - [4.1.1 性能说明](#性能说明_10)
     - [4.1.2 Upgrade](#Upgrade_10)
 
 
-
   - [4.2 鹀颊赤](#鹀颊赤)
-
     - [4.2.1 性能说明](#性能说明_11)
     - [4.2.2 Upgrade](#Upgrade_11)
 
 
-
   - [4.3 鹀蒿雀](#鹀蒿雀)
-
     - [4.3.1 性能说明](#性能说明_12)
     - [4.3.2 Upgrade](#Upgrade_12)
 
 
 
 
-
-
 - [5 隐藏自机](#隐藏自机)
 - [6 注释](#注释)
-
-
-
 
 
 ## 神社组
@@ -132,13 +97,12 @@ BOMB也普通地很强，作副自机也派的上用场
 <p>さらに広範囲攻撃と追尾弾を持つ
 ボムも普通に強いのでサブでも役立つ
 </p>
-色々楽な初心者向けキャラ</td></tr><tr><td style="min-width:125px"><b>Bomb（作为副自机的情况下）</b></td><td style="min-width:125px"><a href="/index.php?title=%E3%80%8C%E6%AC%A1%E5%85%83%E5%89%A5%E7%A6%BB%E3%80%8D&amp;action=edit&amp;redlink=1" class="new" title="「次元剥离」（页面不存在）">「次元剥离」</a></td><td style="min-width:100px" lang="ja">「次元剥離」</td></tr><tr><td style="min-width:125px"><b>瞬雷（作为副自机的情况下）</b></td><td style="min-width:125px"><a href="/index.php?title=%E3%80%8CMaiden_Pit%E3%80%8D&amp;action=edit&amp;redlink=1" class="new" title="「Maiden Pit」（页面不存在）">「Maiden Pit」</a>（幽闭之穴）</td><td style="min-width:100px" lang="ja">「メイデンピット」</td></tr></tbody></table>
-
+色々楽な初心者向けキャラ</td></tr><tr><td style="min-width:125px"><b>Bomb（作为副自机的情况下）</b></td><td style="min-width:125px"><a class="new" title="「次元剥离」（页面不存在）">「次元剥离」</a></td><td style="min-width:100px" lang="ja">「次元剥離」</td></tr><tr><td style="min-width:125px"><b>瞬雷（作为副自机的情况下）</b></td><td style="min-width:125px"><a class="new" title="「Maiden Pit」（页面不存在）">「Maiden Pit」</a>（幽闭之穴）</td><td style="min-width:100px" lang="ja">「メイデンピット」</td></tr></tbody></table>
 
 
 #### Upgrade
 
-<table><tbody><tr><td style="min-width:200px" colspan="2" align="center"><b>Higgs Juice（希格斯<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">1</a></sup>果汁）</b></td><td style="min-width:150px" colspan="2" align="center" lang="ja"><b>ヒッグスジュース</b></td></tr><tr><td style="min-width:125px"><b>生效位置</b></td><td style="min-width:125px">(主)</td><td style="min-width:100px" lang="ja">(メイン)</td></tr><tr><td style="min-width:125px"><b>描述</b></td><td style="min-width:125px">HP会缓～慢自动回复。
+<table><tbody><tr><td style="min-width:200px" colspan="2" align="center"><b>Higgs Juice（希格斯<span>[^cite_note-1]</span>果汁）</b></td><td style="min-width:150px" colspan="2" align="center" lang="ja"><b>ヒッグスジュース</b></td></tr><tr><td style="min-width:125px"><b>生效位置</b></td><td style="min-width:125px">(主)</td><td style="min-width:100px" lang="ja">(メイン)</td></tr><tr><td style="min-width:125px"><b>描述</b></td><td style="min-width:125px">HP会缓～慢自动回复。
 <p><br>总之先买了看看吧。
 <br>毕竟很方便嘛
 <br><br>『说了对健康很有帮助啦！』
@@ -177,7 +141,6 @@ BOMB也普通地很强，作副自机也派的上用场
 ——— シオン</td></tr></tbody></table>
 
 
-
 ### [燕乐玄鸟](./燕乐玄鸟.md)
 
 #### 性能说明
@@ -190,8 +153,7 @@ Bomb也很强力，作为副自机也不错
 <p>レーザーには実はちょっとした小細工がある
 ボムが強力なので、サブにまわすのもグー
 </p>
-このゲームのノリに慣れてきた中級者向け</td></tr><tr><td style="min-width:125px"><b>Bomb（作为副自机的情况下）</b></td><td style="min-width:125px"><a href="./「Monochrome_Ray」.md" class="mw-redirect" title="「Monochrome Ray」">「Monochrome Ray」</a>（黑白炫光）</td><td style="min-width:100px" lang="ja">「モノクロムレイ」</td></tr><tr><td style="min-width:125px"><b>瞬雷（作为副自机的情况下）</b></td><td style="min-width:125px"><a href="/index.php?title=%E3%80%8CVertex_Emit%E3%80%8D&amp;action=edit&amp;redlink=1" class="new" title="「Vertex Emit」（页面不存在）">「Vertex Emit」</a>（顶点激射）</td><td style="min-width:100px" lang="ja">「ヴァーテックス・エミット」</td></tr></tbody></table>
-
+このゲームのノリに慣れてきた中級者向け</td></tr><tr><td style="min-width:125px"><b>Bomb（作为副自机的情况下）</b></td><td style="min-width:125px"><a href="./Monochrome_Ray.md" class="mw-redirect" title="「Monochrome Ray」">「Monochrome Ray」</a>（黑白炫光）</td><td style="min-width:100px" lang="ja">「モノクロムレイ」</td></tr><tr><td style="min-width:125px"><b>瞬雷（作为副自机的情况下）</b></td><td style="min-width:125px"><a class="new" title="「Vertex Emit」（页面不存在）">「Vertex Emit」</a>（顶点激射）</td><td style="min-width:100px" lang="ja">「ヴァーテックス・エミット」</td></tr></tbody></table>
 
 
 #### Upgrade
@@ -238,7 +200,6 @@ Bomb也很强力，作为副自机也不错
 ——— 鳳聯 藪雨</td></tr></tbody></table>
 
 
-
 ### [死宛](./死宛.md)
 
 #### 性能说明
@@ -253,8 +214,7 @@ Bomb也很强力，作为副自机也不错
 威力はかなり強力
 フラッシュボムもクセがある
 </p>
-トリッキーなキャラ</td></tr><tr><td style="min-width:125px"><b>Bomb（作为副自机的情况下）</b></td><td style="min-width:125px"><a href="/index.php?title=%E5%90%B8%E9%AD%82%E3%80%8C%E6%B8%90%E8%BF%9C%E7%9A%84%E8%87%AA%E6%88%91%E3%80%8D&amp;action=edit&amp;redlink=1" class="new" title="吸魂「渐远的自我」（页面不存在）">吸魂「渐远的自我」</a></td><td style="min-width:100px" lang="ja">吸魂「遠ざかる自我」</td></tr><tr><td style="min-width:125px"><b>瞬雷（作为副自机的情况下）</b></td><td style="min-width:125px"><a href="/index.php?title=%E7%81%B5%E5%AD%90%E3%80%8C%E9%98%BF%E9%9F%A6%E9%BE%99%E7%9A%84%E9%87%8E%E7%81%B5%E5%84%BF%E3%80%8D&amp;action=edit&amp;redlink=1" class="new" title="灵子「阿韦龙的野灵儿」（页面不存在）">灵子「阿韦龙的野灵儿」</a></td><td style="min-width:100px" lang="ja">霊子「アベェロンの野霊児」</td></tr></tbody></table>
-
+トリッキーなキャラ</td></tr><tr><td style="min-width:125px"><b>Bomb（作为副自机的情况下）</b></td><td style="min-width:125px"><a class="new" title="吸魂「渐远的自我」（页面不存在）">吸魂「渐远的自我」</a></td><td style="min-width:100px" lang="ja">吸魂「遠ざかる自我」</td></tr><tr><td style="min-width:125px"><b>瞬雷（作为副自机的情况下）</b></td><td style="min-width:125px"><a class="new" title="灵子「阿韦龙的野灵儿」（页面不存在）">灵子「阿韦龙的野灵儿」</a></td><td style="min-width:100px" lang="ja">霊子「アベェロンの野霊児」</td></tr></tbody></table>
 
 
 #### Upgrade
@@ -296,7 +256,6 @@ Bomb也很强力，作为副自机也不错
 ——— シオン</td></tr></tbody></table>
 
 
-
 ## 新帝组
 
 ### [平文门](./平文门.md)
@@ -313,13 +272,12 @@ Bomb也很强力，作为副自机也不错
 そして一番の特徴はフラッシュボムの代わりに
 【装甲モード】が使えること
 </p>
-それでもメインで使う？</td></tr><tr><td style="min-width:125px"><b>Bomb（作为副自机的情况下）</b></td><td style="min-width:125px"><a href="/index.php?title=%E4%BD%9B%E5%8A%9B%E3%80%8C%E5%A4%A9%E7%9C%B7%E4%B9%8B%E5%A6%99%E5%89%91%E3%80%8D&amp;action=edit&amp;redlink=1" class="new" title="佛力「天眷之妙剑」（页面不存在）">佛力「天眷之妙剑」</a></td><td style="min-width:100px" lang="ja">仏力「天眷の妙剣」</td></tr><tr><td style="min-width:125px"><b>瞬雷（作为副自机的情况下）</b></td><td style="min-width:125px"><a href="/index.php?title=%E5%88%9A%E5%BF%83%E3%80%8C%E7%94%9F%E7%94%9F%E4%B8%8D%E6%81%AF%E7%9A%84%E9%93%81%E8%BA%AB%E4%BC%A0%E8%AF%B4%E3%80%8D&amp;action=edit&amp;redlink=1" class="new" title="刚心「生生不息的铁身传说」（页面不存在）">刚心「生生不息的铁身传说」</a></td><td style="min-width:100px" lang="ja">剛心「受け継がれし鉄身伝説」</td></tr></tbody></table>
-
+それでもメインで使う？</td></tr><tr><td style="min-width:125px"><b>Bomb（作为副自机的情况下）</b></td><td style="min-width:125px"><a class="new" title="佛力「天眷之妙剑」（页面不存在）">佛力「天眷之妙剑」</a></td><td style="min-width:100px" lang="ja">仏力「天眷の妙剣」</td></tr><tr><td style="min-width:125px"><b>瞬雷（作为副自机的情况下）</b></td><td style="min-width:125px"><a class="new" title="刚心「生生不息的铁身传说」（页面不存在）">刚心「生生不息的铁身传说」</a></td><td style="min-width:100px" lang="ja">剛心「受け継がれし鉄身伝説」</td></tr></tbody></table>
 
 
 #### Upgrade
 
-<table><tbody><tr><td style="min-width:200px" colspan="2" align="center"><b>生生不息的铁身传说<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">2</a></sup></b></td><td style="min-width:150px" colspan="2" align="center" lang="ja"><b>受け継がれし鉄身伝説</b></td></tr><tr><td style="min-width:125px"><b>生效位置</b></td><td style="min-width:125px">（副）</td><td style="min-width:100px" lang="ja">(サブ)</td></tr><tr><td style="min-width:125px"><b>描述</b></td><td style="min-width:125px">装甲模式的强化。
+<table><tbody><tr><td style="min-width:200px" colspan="2" align="center"><b>生生不息的铁身传说<span>[^cite_note-2]</span></b></td><td style="min-width:150px" colspan="2" align="center" lang="ja"><b>受け継がれし鉄身伝説</b></td></tr><tr><td style="min-width:125px"><b>生效位置</b></td><td style="min-width:125px">（副）</td><td style="min-width:100px" lang="ja">(サブ)</td></tr><tr><td style="min-width:125px"><b>描述</b></td><td style="min-width:125px">装甲模式的强化。
 <p>处于装甲模式时打中自机的子弹会反弹回去。
 带上这个技能好戏才真正开幕。
 <br><br>『到底是谁的攻击比较强呢……』
@@ -331,7 +289,7 @@ Bomb也很强力，作为副自机也不错
 </p>
 ———藤原 伊代真</td></tr>
 
-<tr><td style="min-width:200px" colspan="2" align="center"><b>七之影<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">3</a></sup></b></td><td style="min-width:150px" colspan="2" align="center" lang="ja"><b>七つの影</b></td></tr><tr><td style="min-width:125px"><b>生效位置</b></td><td style="min-width:125px">(主)(副)(支援)</td><td style="min-width:100px" lang="ja">(メイン)(サブ)(サポート)</td></tr><tr><td style="min-width:125px"><b>描述</b></td><td style="min-width:125px">追加三个过剩屏障。
+<tr><td style="min-width:200px" colspan="2" align="center"><b>七之影<span>[^cite_note-3]</span></b></td><td style="min-width:150px" colspan="2" align="center" lang="ja"><b>七つの影</b></td></tr><tr><td style="min-width:125px"><b>生效位置</b></td><td style="min-width:125px">(主)(副)(支援)</td><td style="min-width:100px" lang="ja">(メイン)(サブ)(サポート)</td></tr><tr><td style="min-width:125px"><b>描述</b></td><td style="min-width:125px">追加三个过剩屏障。
 <p>过剩屏障可充填，但一旦失去后
 除特殊方法外无法复原。
 过剩屏障展开时副事件【次元决坏】
@@ -360,7 +318,6 @@ Bomb也很强力，作为副自机也不错
 ——— 馬立 ツグミ</td></tr></tbody></table>
 
 
-
 ### [藤原伊代真](./藤原伊代真.md)
 
 #### 性能说明
@@ -373,13 +330,12 @@ Bomb也很强力，作为副自机也不错
 <p>ボムの効果時間が長いのが一番の魅力
 フラッシュボムは強化すれば攻撃力を持つ
 </p>
-メインでもサブでも、お好きなほうをどうぞ</td></tr><tr><td style="min-width:125px"><b>Bomb（作为副自机的情况下）</b></td><td style="min-width:125px"><a href="/index.php?title=%E6%B3%A2%E7%89%8C%E3%80%8C%E4%BC%8A%E4%BB%A3%E4%B9%8B%E6%B3%A2%E3%80%8D&amp;action=edit&amp;redlink=1" class="new" title="波牌「伊代之波」（页面不存在）">波牌「伊代之波」</a></td><td style="min-width:100px" lang="ja">波牌「伊代の波」</td></tr><tr><td style="min-width:125px"><b>瞬雷（作为副自机的情况下）</b></td><td style="min-width:125px"><a href="/index.php?title=%E5%8F%9B%E4%B9%B1%E3%80%8C%E5%85%B3%E7%99%BD%E7%82%AE%E3%80%8D&amp;action=edit&amp;redlink=1" class="new" title="叛乱「关白炮」（页面不存在）">叛乱「关白炮」</a></td><td style="min-width:100px" lang="ja">叛乱「関白砲」</td></tr><tr><td style="min-width:125px"><b>瞬雷（强化后）</b></td><td style="min-width:125px"><a href="/index.php?title=%E7%81%B5%E7%82%AE%E3%80%8C%E5%87%BA%E4%B8%96%E5%B7%B4%E7%A5%96%E5%8D%A1%E3%80%8D&amp;action=edit&amp;redlink=1" class="new" title="灵炮「出世巴祖卡」（页面不存在）">灵炮「出世巴祖卡」</a></td><td style="min-width:100px" lang="ja">霊砲「出世バズーカ」</td></tr></tbody></table>
-
+メインでもサブでも、お好きなほうをどうぞ</td></tr><tr><td style="min-width:125px"><b>Bomb（作为副自机的情况下）</b></td><td style="min-width:125px"><a class="new" title="波牌「伊代之波」（页面不存在）">波牌「伊代之波」</a></td><td style="min-width:100px" lang="ja">波牌「伊代の波」</td></tr><tr><td style="min-width:125px"><b>瞬雷（作为副自机的情况下）</b></td><td style="min-width:125px"><a class="new" title="叛乱「关白炮」（页面不存在）">叛乱「关白炮」</a></td><td style="min-width:100px" lang="ja">叛乱「関白砲」</td></tr><tr><td style="min-width:125px"><b>瞬雷（强化后）</b></td><td style="min-width:125px"><a class="new" title="灵炮「出世巴祖卡」（页面不存在）">灵炮「出世巴祖卡」</a></td><td style="min-width:100px" lang="ja">霊砲「出世バズーカ」</td></tr></tbody></table>
 
 
 #### Upgrade
 
-<table><tbody><tr><td style="min-width:200px" colspan="2" align="center"><b>灵炮「出世<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">4</a></sup>巴祖卡」</b></td><td style="min-width:150px" colspan="2" align="center" lang="ja"><b>カボチャロケット</b></td></tr><tr><td style="min-width:125px"><b>生效位置</b></td><td style="min-width:125px">（副）</td><td style="min-width:100px" lang="ja">(サブ)</td></tr><tr><td style="min-width:125px"><b>描述</b></td><td style="min-width:125px">瞬雷强化
+<table><tbody><tr><td style="min-width:200px" colspan="2" align="center"><b>灵炮「出世<span>[^cite_note-4]</span>巴祖卡」</b></td><td style="min-width:150px" colspan="2" align="center" lang="ja"><b>カボチャロケット</b></td></tr><tr><td style="min-width:125px"><b>生效位置</b></td><td style="min-width:125px">（副）</td><td style="min-width:100px" lang="ja">(サブ)</td></tr><tr><td style="min-width:125px"><b>描述</b></td><td style="min-width:125px">瞬雷强化
 <p>瞬雷附加攻击力。
 单论威力的话相当不错
 <br><br>『是那个新皇的话，实行垂帘听政也是没办法的呀』
@@ -391,7 +347,7 @@ Bomb也很强力，作为副自机也不错
 </p>
 ———馬立 ツグミ</td></tr>
 
-<tr><td style="min-width:200px" colspan="2" align="center"><b>灵火【焰返】<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">5</a></sup></b></td><td style="min-width:150px" colspan="2" align="center" lang="ja"><b>霊火【ホムラガエシ】</b></td></tr><tr><td style="min-width:125px"><b>生效位置</b></td><td style="min-width:125px">(主)</td><td style="min-width:100px" lang="ja">(メイン)</td></tr><tr><td style="min-width:125px"><b>描述</b></td><td style="min-width:125px">在自机周围召唤消除敌弹的幽灵。
+<tr><td style="min-width:200px" colspan="2" align="center"><b>灵火【焰返】<span>[^cite_note-5]</span></b></td><td style="min-width:150px" colspan="2" align="center" lang="ja"><b>霊火【ホムラガエシ】</b></td></tr><tr><td style="min-width:125px"><b>生效位置</b></td><td style="min-width:125px">(主)</td><td style="min-width:100px" lang="ja">(メイン)</td></tr><tr><td style="min-width:125px"><b>描述</b></td><td style="min-width:125px">在自机周围召唤消除敌弹的幽灵。
 <p>它们会顽强地加油的。
 <br><br>『能不能只收幽灵做部下呢』
 </p>
@@ -412,7 +368,6 @@ Bomb也很强力，作为副自机也不错
 ——— 藤原 伊代真</td></tr></tbody></table>
 
 
-
 ### [马立噤美](./马立噤美.md)
 
 #### 性能说明
@@ -427,8 +382,7 @@ Bomb可作为广范围也可作为集中火力使用
 ボムは広範囲にも集中火力にも使え
 非常に汎用性が高く、強く、そして愉快
 </p>
-変なメロディさえ鳴らなければいいのに</td></tr><tr><td style="min-width:125px"><b>Bomb（作为副自机的情况下）</b></td><td style="min-width:125px"><a href="/index.php?title=%E5%9B%9E%E7%94%9F%E3%80%8CReady-Go-Around%E3%80%8D&amp;action=edit&amp;redlink=1" class="new" title="回生「Ready-Go-Around」（页面不存在）">回生「Ready-Go-Around」</a>（旋转赛马）</td><td style="min-width:100px" lang="ja">廻生「レディーゴーアラウンド」</td></tr><tr><td style="min-width:125px"><b>瞬雷（作为副自机的情况下）</b></td><td style="min-width:125px"><a href="/index.php?title=%E3%80%8CCheap_Impact%E3%80%8D&amp;action=edit&amp;redlink=1" class="new" title="「Cheap Impact」（页面不存在）">「Cheap Impact」</a>（轻震撼）</td><td style="min-width:100px" lang="ja">「チープインパクト」　</td></tr></tbody></table>
-
+変なメロディさえ鳴らなければいいのに</td></tr><tr><td style="min-width:125px"><b>Bomb（作为副自机的情况下）</b></td><td style="min-width:125px"><a class="new" title="回生「Ready-Go-Around」（页面不存在）">回生「Ready-Go-Around」</a>（旋转赛马）</td><td style="min-width:100px" lang="ja">廻生「レディーゴーアラウンド」</td></tr><tr><td style="min-width:125px"><b>瞬雷（作为副自机的情况下）</b></td><td style="min-width:125px"><a class="new" title="「Cheap Impact」（页面不存在）">「Cheap Impact」</a>（轻震撼）</td><td style="min-width:100px" lang="ja">「チープインパクト」　</td></tr></tbody></table>
 
 
 #### Upgrade
@@ -464,7 +418,6 @@ Bomb可作为广范围也可作为集中火力使用
 ——— 馬立 ツグミ</td></tr></tbody></table>
 
 
-
 ## 幼儿园组
 
 ### [瑞风天堺](./瑞风天堺.md)
@@ -479,8 +432,7 @@ Bomb可作为广范围也可作为集中火力使用
 <p>ボムも使いやすく、かなり強い
 ただし、オプションの位置調節などが難しい
 </p>
-中級者向け</td></tr><tr><td style="min-width:125px"><b>Bomb（作为副自机的情况下）</b></td><td style="min-width:125px"><a href="/index.php?title=%E3%80%8C%E9%BB%91%E8%A1%A3%E7%9A%84%E5%AE%B0%E7%9B%B8%E3%80%8D&amp;action=edit&amp;redlink=1" class="new" title="「黑衣的宰相」（页面不存在）">「黑衣的宰相」</a></td><td style="min-width:100px" lang="ja">「黒衣の宰相」</td></tr><tr><td style="min-width:125px"><b>瞬雷（作为副自机的情况下）</b></td><td style="min-width:125px"><a href="/index.php?title=%E5%85%83%E7%89%8C%E3%80%8C%E6%AC%A1%E5%85%83%E5%89%8A%E9%99%A4%E3%80%8D&amp;action=edit&amp;redlink=1" class="new" title="元牌「次元削除」（页面不存在）">元牌「次元削除」</a></td><td style="min-width:100px" lang="ja">元牌「次元削除」</td></tr></tbody></table>
-
+中級者向け</td></tr><tr><td style="min-width:125px"><b>Bomb（作为副自机的情况下）</b></td><td style="min-width:125px"><a class="new" title="「黑衣的宰相」（页面不存在）">「黑衣的宰相」</a></td><td style="min-width:100px" lang="ja">「黒衣の宰相」</td></tr><tr><td style="min-width:125px"><b>瞬雷（作为副自机的情况下）</b></td><td style="min-width:125px"><a class="new" title="元牌「次元削除」（页面不存在）">元牌「次元削除」</a></td><td style="min-width:100px" lang="ja">元牌「次元削除」</td></tr></tbody></table>
 
 
 #### Upgrade
@@ -505,7 +457,7 @@ Bomb可作为广范围也可作为集中火力使用
 </p>
 ——— 乞骸 セセ</td></tr>
 
-<tr><td style="min-width:200px" colspan="2" align="center"><b>眠猫<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">6</a></sup></b></td><td style="min-width:150px" colspan="2" align="center" lang="ja"><b>眠り猫</b></td></tr><tr><td style="min-width:125px"><b>生效位置</b></td><td style="min-width:125px">(主)(副)(支援)</td><td style="min-width:100px" lang="ja">(メイン)(サブ)(サポート)</td></tr><tr><td style="min-width:125px"><b>描述</b></td><td style="min-width:125px">屏障一旦开始充能就会立刻充能完毕。
+<tr><td style="min-width:200px" colspan="2" align="center"><b>眠猫<span>[^cite_note-6]</span></b></td><td style="min-width:150px" colspan="2" align="center" lang="ja"><b>眠り猫</b></td></tr><tr><td style="min-width:125px"><b>生效位置</b></td><td style="min-width:125px">(主)(副)(支援)</td><td style="min-width:100px" lang="ja">(メイン)(サブ)(サポート)</td></tr><tr><td style="min-width:125px"><b>描述</b></td><td style="min-width:125px">屏障一旦开始充能就会立刻充能完毕。
 <p>有这个的话就不需要强化屏障再生速度了！
 <br><br>『超再生喵！』
 </p>
@@ -514,7 +466,6 @@ Bomb可作为广范围也可作为集中火力使用
 <br><br>『超再生だぎゃね！』
 </p>
 ——— 片埜 宿禰</td></tr></tbody></table>
-
 
 
 ### [片野宿祢](./片野宿祢.md)
@@ -529,8 +480,7 @@ Bomb可作为广范围也可作为集中火力使用
 <p>強化後のフラッシュボムは上手く当てれば
 最高の火力をたたき出せる
 </p>
-中級者向け</td></tr><tr><td style="min-width:125px"><b>Bomb（作为副自机的情况下）</b></td><td style="min-width:125px"><a href="/index.php?title=FAEB%E3%80%8C%E5%9F%B4%E8%BD%AE%E7%82%B8%E5%BC%B9%E3%80%8D&amp;action=edit&amp;redlink=1" class="new" title="FAEB「埴轮炸弹」（页面不存在）">FAEB「埴轮炸弹」</a></td><td style="min-width:100px" lang="ja">FAEB「埴轮爆弾」　</td></tr><tr><td style="min-width:125px"><b>瞬雷（作为副自机的情况下）</b></td><td style="min-width:125px"><a href="/index.php?title=%E3%80%8CLost_Torus%E3%80%8D&amp;action=edit&amp;redlink=1" class="new" title="「Lost Torus」（页面不存在）">「Lost Torus」</a>（遗落圆环）</td><td style="min-width:100px" lang="ja">「ロストトーラス」　</td></tr><tr><td style="min-width:125px"><b>瞬雷（强化后）</b></td><td style="min-width:125px"><a href="/index.php?title=Haniwa_Knuckle&amp;action=edit&amp;redlink=1" class="new" title="Haniwa Knuckle（页面不存在）">Haniwa Knuckle</a>（埴轮神拳）</td><td style="min-width:100px" lang="ja">ハニーワナックル　</td></tr></tbody></table>
-
+中級者向け</td></tr><tr><td style="min-width:125px"><b>Bomb（作为副自机的情况下）</b></td><td style="min-width:125px"><a class="new" title="FAEB「埴轮炸弹」（页面不存在）">FAEB「埴轮炸弹」</a></td><td style="min-width:100px" lang="ja">FAEB「埴轮爆弾」　</td></tr><tr><td style="min-width:125px"><b>瞬雷（作为副自机的情况下）</b></td><td style="min-width:125px"><a class="new" title="「Lost Torus」（页面不存在）">「Lost Torus」</a>（遗落圆环）</td><td style="min-width:100px" lang="ja">「ロストトーラス」　</td></tr><tr><td style="min-width:125px"><b>瞬雷（强化后）</b></td><td style="min-width:125px"><a class="new" title="Haniwa Knuckle（页面不存在）">Haniwa Knuckle</a>（埴轮神拳）</td><td style="min-width:100px" lang="ja">ハニーワナックル　</td></tr></tbody></table>
 
 
 #### Upgrade
@@ -566,7 +516,6 @@ Bomb可作为广范围也可作为集中火力使用
 ——— 片埜 宿禰</td></tr></tbody></table>
 
 
-
 ### [乞骸让让](./乞骸让让.md)
 
 #### 性能说明
@@ -579,8 +528,7 @@ Bomb可作为广范围也可作为集中火力使用
 <p>自機の当たり判定が小さめなので、敵弾を
 潜り抜けて火力を叩きつけよう！
 </p>
-上級者向け</td></tr><tr><td style="min-width:125px"><b>Bomb（作为副自机的情况下）</b></td><td style="min-width:125px"><a href="/index.php?title=%E9%AB%84%E7%82%AE%E3%80%8CBone_Buster%E3%80%8D&amp;action=edit&amp;redlink=1" class="new" title="髄炮「Bone Buster」（页面不存在）">髄炮「Bone Buster」</a>（骨髓破坏者）</td><td style="min-width:100px" lang="ja">髄砲「ボーンバスター」</td></tr><tr><td style="min-width:125px"><b>瞬雷（作为副自机的情况下）</b></td><td style="min-width:125px"><a href="/index.php?title=%E9%AA%B8%E7%89%8C%E3%80%8CMukuro_Heart%E3%80%8D&amp;action=edit&amp;redlink=1" class="new" title="骸牌「Mukuro Heart」（页面不存在）">骸牌「Mukuro Heart」</a>（骸之心）</td><td style="min-width:100px" lang="ja">骸牌「ムクロハート」　</td></tr><tr><td style="min-width:125px"><b>瞬雷（强化后）</b></td><td style="min-width:125px"><a href="/index.php?title=%E6%83%A8%E6%AD%BB%E3%80%8C%E9%AA%A8%E4%B8%B2%E5%88%BA%E4%B9%8B%E5%88%91%E3%80%8D&amp;action=edit&amp;redlink=1" class="new" title="惨死「骨串刺之刑」（页面不存在）">惨死「骨串刺之刑」</a></td><td style="min-width:100px" lang="ja">惨死「骨串刺しの刑」　　</td></tr></tbody></table>
-
+上級者向け</td></tr><tr><td style="min-width:125px"><b>Bomb（作为副自机的情况下）</b></td><td style="min-width:125px"><a class="new" title="髄炮「Bone Buster」（页面不存在）">髄炮「Bone Buster」</a>（骨髓破坏者）</td><td style="min-width:100px" lang="ja">髄砲「ボーンバスター」</td></tr><tr><td style="min-width:125px"><b>瞬雷（作为副自机的情况下）</b></td><td style="min-width:125px"><a class="new" title="骸牌「Mukuro Heart」（页面不存在）">骸牌「Mukuro Heart」</a>（骸之心）</td><td style="min-width:100px" lang="ja">骸牌「ムクロハート」　</td></tr><tr><td style="min-width:125px"><b>瞬雷（强化后）</b></td><td style="min-width:125px"><a class="new" title="惨死「骨串刺之刑」（页面不存在）">惨死「骨串刺之刑」</a></td><td style="min-width:100px" lang="ja">惨死「骨串刺しの刑」　　</td></tr></tbody></table>
 
 
 #### Upgrade
@@ -605,7 +553,7 @@ Bomb可作为广范围也可作为集中火力使用
 </p>
 ——— 瑞風 天堺</td></tr>
 
-<tr><td style="min-width:200px" colspan="2" align="center"><b>Necropotence（死冥权能）<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">7</a></sup></b></td><td style="min-width:150px" colspan="2" align="center" lang="ja"><b>ネクロポーテンス</b></td></tr><tr><td style="min-width:125px"><b>生效位置</b></td><td style="min-width:125px">(主)(副)</td><td style="min-width:100px" lang="ja">(メイン)(サブ)</td></tr><tr><td style="min-width:125px"><b>描述</b></td><td style="min-width:125px">被弹时会“无消耗”地释放一次瞬雷。
+<tr><td style="min-width:200px" colspan="2" align="center"><b>Necropotence（死冥权能）<span>[^cite_note-7]</span></b></td><td style="min-width:150px" colspan="2" align="center" lang="ja"><b>ネクロポーテンス</b></td></tr><tr><td style="min-width:125px"><b>生效位置</b></td><td style="min-width:125px">(主)(副)</td><td style="min-width:100px" lang="ja">(メイン)(サブ)</td></tr><tr><td style="min-width:125px"><b>描述</b></td><td style="min-width:125px">被弹时会“无消耗”地释放一次瞬雷。
 <p>但还是会算作被弹了哦。
 <br><br>『真是狗急跳墙喵！』
 </p>
@@ -614,7 +562,6 @@ Bomb可作为广范围也可作为集中火力使用
 <br><br>『火事場の馬鹿力だぎゃね！』
 </p>
 ——— 片埜 宿禰</td></tr></tbody></table>
-
 
 
 ## 恶党组
@@ -631,8 +578,7 @@ Bomb可作为广范围也可作为集中火力使用
 <p>フラッシュボムはクセがあるが強力
 使いこなせれば強力なキャラ
 </p>
-中級者向け</td></tr><tr><td style="min-width:125px"><b>Bomb（作为副自机的情况下）</b></td><td style="min-width:125px"><a href="/index.php?title=%EF%BC%B2%EF%BC%AE%EF%BC%A1%E3%80%8C%E9%80%86%E8%BD%AC%E5%BD%95%E7%97%85%E6%AF%92%E3%80%8D&amp;action=edit&amp;redlink=1" class="new" title="ＲＮＡ「逆转录病毒」（页面不存在）">ＲＮＡ「逆转录病毒」</a></td><td style="min-width:100px" lang="ja">ＲＮＡ｢レトロウイルス｣</td></tr><tr><td style="min-width:125px"><b>瞬雷（作为副自机的情况下）</b></td><td style="min-width:125px"><a href="/index.php?title=%E3%80%8C%E8%B4%9F%E4%B8%8E%E6%AD%A3%E3%80%8D&amp;action=edit&amp;redlink=1" class="new" title="「负与正」（页面不存在）">「负与正」</a></td><td style="min-width:100px" lang="ja">｢ネガポジ｣</td></tr></tbody></table>
-
+中級者向け</td></tr><tr><td style="min-width:125px"><b>Bomb（作为副自机的情况下）</b></td><td style="min-width:125px"><a class="new" title="ＲＮＡ「逆转录病毒」（页面不存在）">ＲＮＡ「逆转录病毒」</a></td><td style="min-width:100px" lang="ja">ＲＮＡ｢レトロウイルス｣</td></tr><tr><td style="min-width:125px"><b>瞬雷（作为副自机的情况下）</b></td><td style="min-width:125px"><a class="new" title="「负与正」（页面不存在）">「负与正」</a></td><td style="min-width:100px" lang="ja">｢ネガポジ｣</td></tr></tbody></table>
 
 
 #### Upgrade
@@ -663,7 +609,6 @@ Bomb可作为广范围也可作为集中火力使用
 ——— 鵐 黒巫鳥</td></tr></tbody></table>
 
 
-
 ### [鹀颊赤](./鹀颊赤.md)
 
 #### 性能说明
@@ -678,8 +623,7 @@ Bomb可作为广范围也可作为集中火力使用
 強化後のフラッシュボムも特殊で
 使いこなすのが難しい
 </p>
-上級者向け</td></tr><tr><td style="min-width:125px"><b>Bomb（作为副自机的情况下）</b></td><td style="min-width:125px"><a href="/index.php?title=%E3%80%8CHeat_Lance%E3%80%90%E6%9E%81%E5%B0%8F%E3%80%91%E3%80%8D&amp;action=edit&amp;redlink=1" class="new" title="「Heat Lance【极小】」（页面不存在）">「Heat Lance【极小】」</a></td><td style="min-width:100px" lang="ja">｢ヒートランス【極小】｣</td></tr><tr><td style="min-width:125px"><b>瞬雷（作为副自机的情况下）</b></td><td style="min-width:125px">「两极翼」</td><td style="min-width:100px" lang="ja">「両極翼」</td></tr><tr><td style="min-width:125px"><b>瞬雷（强化后）</b></td><td style="min-width:125px"><a href="/index.php?title=%E5%86%B7%E5%A3%81%E3%80%8CWhite_Out%E3%80%8D&amp;action=edit&amp;redlink=1" class="new" title="冷壁「White Out」（页面不存在）">冷壁「White Out」</a>（雪盲）</td><td style="min-width:100px" lang="ja">冷壁｢ホワイトアウト｣</td></tr></tbody></table>
-
+上級者向け</td></tr><tr><td style="min-width:125px"><b>Bomb（作为副自机的情况下）</b></td><td style="min-width:125px"><a class="new" title="「Heat Lance【极小】」（页面不存在）">「Heat Lance【极小】」</a></td><td style="min-width:100px" lang="ja">｢ヒートランス【極小】｣</td></tr><tr><td style="min-width:125px"><b>瞬雷（作为副自机的情况下）</b></td><td style="min-width:125px">「两极翼」</td><td style="min-width:100px" lang="ja">「両極翼」</td></tr><tr><td style="min-width:125px"><b>瞬雷（强化后）</b></td><td style="min-width:125px"><a class="new" title="冷壁「White Out」（页面不存在）">冷壁「White Out」</a>（雪盲）</td><td style="min-width:100px" lang="ja">冷壁｢ホワイトアウト｣</td></tr></tbody></table>
 
 
 #### Upgrade
@@ -692,7 +636,7 @@ Bomb可作为广范围也可作为集中火力使用
 </p>
 ———鵐 頬赤</td></tr>
 
-<tr><td style="min-width:200px" colspan="2" align="center"><b>White out（雪盲）<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">8</a></sup></b></td><td style="min-width:150px" colspan="2" align="center" lang="ja"><b>ホワイトアウト</b></td></tr><tr><td style="min-width:125px"><b>生效位置</b></td><td style="min-width:125px">(副)</td><td style="min-width:100px" lang="ja">(サブ)</td></tr><tr><td style="min-width:125px"><b>描述</b></td><td style="min-width:125px">强化颊赤的瞬雷。
+<tr><td style="min-width:200px" colspan="2" align="center"><b>White out（雪盲）<span>[^cite_note-8]</span></b></td><td style="min-width:150px" colspan="2" align="center" lang="ja"><b>ホワイトアウト</b></td></tr><tr><td style="min-width:125px"><b>生效位置</b></td><td style="min-width:125px">(副)</td><td style="min-width:100px" lang="ja">(サブ)</td></tr><tr><td style="min-width:125px"><b>描述</b></td><td style="min-width:125px">强化颊赤的瞬雷。
 <p>暂时冻结画面内全部的弹幕。
 被冻结的子弹不具有命中判定。
 <br><br>『冷藏费用要涨了呢～』
@@ -715,7 +659,6 @@ Bomb可作为广范围也可作为集中火力使用
 ——— 鵐　黒巫鳥</td></tr></tbody></table>
 
 
-
 ### [鹀蒿雀](./鹀蒿雀.md)
 
 #### 性能说明
@@ -733,8 +676,7 @@ Bomb也是又多又强又容易上手
 ボムは数も多くて普通に強いので使える
 普通っていいよね
 </p>
-初心者～中級者向け</td></tr><tr><td style="min-width:125px"><b>Bomb（作为副自机的情况下）</b></td><td style="min-width:125px"><a href="./鹀牌「青岚」.md" class="mw-redirect" title="鹀牌「青岚」">鹀牌「青岚」</a></td><td style="min-width:100px" lang="ja">鵐牌「青嵐」</td></tr><tr><td style="min-width:125px"><b>瞬雷（作为副自机的情况下）</b></td><td style="min-width:125px"><a href="./流波「Current_Blast」.md" class="mw-redirect" title="流波「Current Blast」">流波「Current Blast」</a>（水流爆破）</td><td style="min-width:100px" lang="ja">流波「クレントブラスト」</td></tr></tbody></table>
-
+初心者～中級者向け</td></tr><tr><td style="min-width:125px"><b>Bomb（作为副自机的情况下）</b></td><td style="min-width:125px"><a href="./青风.md" class="mw-redirect" title="鹀牌「青岚」">鹀牌「青岚」</a></td><td style="min-width:100px" lang="ja">鵐牌「青嵐」</td></tr><tr><td style="min-width:125px"><b>瞬雷（作为副自机的情况下）</b></td><td style="min-width:125px"><a href="./Current_Blast.md" class="mw-redirect" title="流波「Current Blast」">流波「Current Blast」</a>（水流爆破）</td><td style="min-width:100px" lang="ja">流波「クレントブラスト」</td></tr></tbody></table>
 
 
 #### Upgrade
@@ -770,22 +712,17 @@ Bomb也是又多又强又容易上手
 ——— 鵐 頬赤</td></tr></tbody></table>
 
 
-
 ## 隐藏自机
 
-- 以下内容是 **隐藏自机** 的机体说明，点击右侧展开可查看。
-
-
-  
-<big><big> **[国主雀巳](./国主雀巳.md)** </big></big>
-  
-
-___
+- 以下内容是**隐藏自机**的机体说明，点击右侧展开可查看。
 
   
-<big> **性能说明** </big>
-  
+<big><big>**[国主雀巳](./国主雀巳.md)**</big></big>  
 
+---
+
+  
+<big>**性能说明**</big>  
 
 <table><tbody><tr><td style="min-width:125px"><b>攻击力</b></td><td style="min-width:125px">■■■■</td><td style="min-width:100px" lang="ja">■■■■</td></tr><tr><td style="min-width:125px"><b>攻击范围</b></td><td style="min-width:125px">■■■■</td><td style="min-width:100px" lang="ja">■■■■</td></tr><tr><td style="min-width:125px"><b>移动速度</b></td><td style="min-width:125px">■■■■</td><td style="min-width:100px" lang="ja">■■■■</td></tr><tr><td style="min-width:125px"><b>HP</b></td><td style="min-width:125px">■■■■</td><td style="min-width:100px" lang="ja">■■■■</td></tr><tr><td style="min-width:125px"><b>屏障</b></td><td style="min-width:125px">■■■■</td><td style="min-width:100px" lang="ja">■■■■</td></tr><tr><td style="min-width:125px"><b>Bomb数（作为副自机的情况下）</b></td><td style="min-width:125px"><span>★★★★★</span></td><td style="min-width:100px" lang="ja"><span>★★★★★</span></td></tr><tr><td style="min-width:125px"><b>介绍</b></td><td style="min-width:125px"></td><td style="min-width:100px" lang="ja">チャージ通常弾、セルをやりなおせるボム
 <p>（最終セルのボスにはダメージ）、
@@ -796,11 +733,8 @@ ___
 </p>
 （中ボスのセルだと入手確率が上がる）</td></tr><tr><td style="min-width:125px"><b>Bomb（作为副自机的情况下）</b></td><td style="min-width:125px">？？？</td><td style="min-width:100px" lang="ja">？？？</td></tr><tr><td style="min-width:125px"><b>瞬雷（作为副自机的情况下）</b></td><td style="min-width:125px">？？？</td><td style="min-width:100px" lang="ja">？？？</td></tr></tbody></table>
 
-
   
-<big> **Upgrade** </big> 
-  
-
+<big>**Upgrade**</big>  
 
 <table><tbody><tr><td style="min-width:200px" colspan="2" align="center"><b>再现与体验「Replay」</b></td><td style="min-width:150px" colspan="2" align="center" lang="ja"><b>再現と体験「リプレイ」</b></td></tr><tr><td style="min-width:125px"><b>生效位置</b></td><td style="min-width:125px">(ALL)</td><td style="min-width:100px" lang="ja">(ALL)</td></tr><tr><td style="min-width:125px"><b>描述</b></td><td style="min-width:125px">能够预先知道
 <p><br>小关的小地图内发生事件的种类。
@@ -840,15 +774,14 @@ ___
 </p>
 ——— 國主 雀巳</td></tr></tbody></table>
 
-
-
-
-
 [^cite_note-1]: 彼得·希格斯(Peter Higgs)是英国物理学家，他提出了希格斯场的存在，并进而预言了希格斯玻色子。
-
-
-
-
+[^cite_note-2]: 取自平将门的“铁身传说”。据《古事谈》言，将门之母为下总国相马的一条大蛇，产下将门后的第三天，她用舌头把将门的全身都舔过一遍，使得将门遍身如铁刀枪不入。但是将门之母唯独遗留了一处（有眉间、太阳穴、右眼等说法）未舔舐到，成为了将门的死穴
+[^cite_note-3]: 传说平将门拥有秘术，行动时身边会出现六个完全一样的分身作为“影武者”，分辨的方法是，只有将门的真身在地上会显现出影子。
+[^cite_note-4]: 含义为“出仕做官”。
+[^cite_note-5]: 可能取自盂兰盆节的习俗，日本旧历7月13日的夜晚，在门前点燃火焰迎接先祖归来的灵魂，称作“迎魂火”（迎え火）；旧历7月16日的夜晚，点燃“送魂火”（送り火），在河中放灯，寓意将先祖的灵魂寄托于灯上，随流水回归幽冥。
+[^cite_note-6]: 位于日光东照宫奥社入口的著名雕塑，正面为闭目沉睡的猫，背面为嬉戏的雀鸟。一种说法称猫是奥社的守护者，为了保护德川家康而装睡，随时准备一跃而出；另一种说法认为猫入睡意味着鼠患消弭，象征在德川幕府的统治下天下太平。
+[^cite_note-7]: 取自“万智牌”中的同名卡牌。
+[^cite_note-8]: 雪盲症，寒冷天气下阳光通过白色雪地形成反光，致人暂时性失明。
 
 ---
 

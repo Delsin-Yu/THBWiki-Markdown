@@ -1,6 +1,6 @@
 # 东方DOTS-Touhou_Defence_of_The_Shrines2(THD2)/DOTA2国际服steam平台相关事项
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\e\ec\ns0%3A%E4%B8%9C%E6%96%B9DOTS-Touhou_Defence_of_The_Shrines2%28THD2%29%2FDOTA2%E5%9B%BD%E9%99%85%E6%9C%8Dsteam%E5%B9%B3%E5%8F%B0%E7%9B%B8%E5%85%B3%E4%BA%8B%E9%A1%B9.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\e\ec\ns0%3A%E4%B8%9C%E6%96%B9DOTS-Touhou_Defence_of_The_Shrines2%28THD2%29%2FDOTA2%E5%9B%BD%E9%99%85%E6%9C%8Dsteam%E5%B9%B3%E5%8F%B0%E7%9B%B8%E5%85%B3%E4%BA%8B%E9%A1%B9.html -->
 
 AvalonStudioOfficial
 
@@ -8,18 +8,13 @@ AvalonStudioOfficial
 THD2同DOTA2，存在国服和国际服。  
 
 如果是原来通过steam平台国际服玩DOTA2的玩家，可以通过修改启动项进入国服。  
-
-[](./文件-THD2教学7.jpg.md)  
-
-[](./文件-THD2教学8.jpg.md)  
-
-当然，如果是海外玩家也可以通过下载steam平台，关联国服DOTA2或者订阅下载DOTA2，在国际服与海外玩家一起玩。  
-
+<img alt="THD2教学7.jpg" src="https://upload.thwiki.cc/thumb/2/2a/THD2%E6%95%99%E5%AD%A67.jpg/700px-THD2%E6%95%99%E5%AD%A67.jpg" decoding="async" loading="lazy" width="700" height="465" srcset="https://upload.thwiki.cc/2/2a/THD2%E6%95%99%E5%AD%A67.jpg 1.5x" data-file-width="1005" data-file-height="667">
+  
+<img alt="THD2教学8.jpg" src="https://upload.thwiki.cc/thumb/8/8f/THD2%E6%95%99%E5%AD%A68.jpg/600px-THD2%E6%95%99%E5%AD%A68.jpg" decoding="async" loading="lazy" width="600" height="531" srcset="https://upload.thwiki.cc/8/8f/THD2%E6%95%99%E5%AD%A68.jpg 1.5x" data-file-width="678" data-file-height="600">
   
 
-
-
-
+当然，如果是海外玩家也可以通过下载steam平台，关联国服DOTA2或者订阅下载DOTA2，在国际服与海外玩家一起玩。  
+  
 
 ---
 

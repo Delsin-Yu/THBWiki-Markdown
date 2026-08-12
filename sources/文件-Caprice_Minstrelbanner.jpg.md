@@ -1,12 +1,8 @@
 # 文件:Caprice_Minstrelbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\18\ns6%3ACaprice_Minstrelbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\18\ns6%3ACaprice_Minstrelbanner%2Ejpg.html -->
 
 Caprice_Minstrel | 社团LOGO
-
-
-
-
 
 
 ---

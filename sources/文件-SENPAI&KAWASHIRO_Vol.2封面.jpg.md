@@ -1,6 +1,6 @@
 # 文件:SENPAI&KAWASHIRO_Vol.2封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f4\ns6%3ASENPAI%26KAWASHIRO_Vol%2E2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f4\ns6%3ASENPAI%26KAWASHIRO_Vol%2E2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 矢本堂落書市
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [SENPAI&amp;KAWASHIRO Vol.2](./SENPAI&KAWASHIRO_Vol.2.md)  
-该封面包含的角色：- [河童](./河童.md)- [森近霖之助](./森近霖之助.md)
-
-
-
+- [SENPAI&KAWASHIRO Vol.2](./SENPAI&KAWASHIRO_Vol.2.md)该封面包含的角色：
+- [河童](./河童.md)
+- [森近霖之助](./森近霖之助.md)
 
 
 ---

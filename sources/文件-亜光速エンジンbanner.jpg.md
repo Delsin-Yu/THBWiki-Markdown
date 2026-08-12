@@ -1,12 +1,8 @@
 # 文件:亜光速エンジンbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cd\ns6%3A%E4%BA%9C%E5%85%89%E9%80%9F%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%B3banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cd\ns6%3A%E4%BA%9C%E5%85%89%E9%80%9F%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%B3banner%2Ejpg.html -->
 
 亜光速エンジン | 社团LOGO
-
-
-
-
 
 
 ---

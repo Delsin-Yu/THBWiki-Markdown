@@ -1,6 +1,6 @@
 # 文件:煎_総集編_MUSUBI封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2d\ns6%3A%E7%85%8E_%E7%B7%8F%E9%9B%86%E7%B7%A8_MUSUBI%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2d\ns6%3A%E7%85%8E_%E7%B7%8F%E9%9B%86%E7%B7%A8_MUSUBI%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 煎
 
@@ -10,11 +10,13 @@
 使用了本文件作封面图片的作品：
   
 
-- [煎 総集編 MUSUBI](./煎_総集編_MUSUBI.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [八云紫](./八云紫.md)- [射命丸文](./射命丸文.md)- [古明地恋](./古明地恋.md)- [雾雨魔理沙](./雾雨魔理沙.md)- [姬海棠果](./姬海棠果.md)
-
-
-
+- [煎 総集編 MUSUBI](./煎_総集編_MUSUBI.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [八云紫](./八云紫.md)
+- [射命丸文](./射命丸文.md)
+- [古明地恋](./古明地恋.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
+- [姬海棠果](./姬海棠果.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Gem_of_Firmament_お試し版封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\79\ns6%3AGem_of_Firmament_%E3%81%8A%E8%A9%A6%E3%81%97%E7%89%88%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\79\ns6%3AGem_of_Firmament_%E3%81%8A%E8%A9%A6%E3%81%97%E7%89%88%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 All_Strings_Drive | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ All_Strings_Drive | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Gem of Firmament お試し版](./Gem_of_Firmament_お試し版.md)  
-该封面包含的角色：- [高丽野阿吽](./高丽野阿吽.md)
-
-
-
+- [Gem of Firmament お試し版](./Gem_of_Firmament_お試し版.md)该封面包含的角色：
+- [高丽野阿吽](./高丽野阿吽.md)
 
 
 ---

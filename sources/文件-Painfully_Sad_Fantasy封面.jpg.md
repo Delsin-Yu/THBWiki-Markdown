@@ -1,6 +1,6 @@
 # 文件:Painfully_Sad_Fantasy封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7f\ns6%3APainfully_Sad_Fantasy%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7f\ns6%3APainfully_Sad_Fantasy%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 空ノ調ベ
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Painfully Sad Fantasy](./Painfully_Sad_Fantasy.md)  
-该封面包含的角色：- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
-
-
-
+- [Painfully Sad Fantasy](./Painfully_Sad_Fantasy.md)该封面包含的角色：
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
 
 
 ---

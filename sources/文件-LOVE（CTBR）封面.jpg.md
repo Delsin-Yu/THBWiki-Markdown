@@ -1,6 +1,6 @@
 # 文件:LOVE（CTBR）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\05\ns6%3ALOVE%EF%BC%88CTBR%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\05\ns6%3ALOVE%EF%BC%88CTBR%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 CTBR | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ CTBR | 专辑封面 | 封面图片
   
 
 - [LOVE（CTBR）](./LOVE（CTBR）.md)
-
-
-
 
 
 ---

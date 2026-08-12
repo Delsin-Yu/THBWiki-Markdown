@@ -1,12 +1,8 @@
 # 文件:幻梦缘起社团LOGO.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a6\ns6%3A%E5%B9%BB%E6%A2%A6%E7%BC%98%E8%B5%B7%E7%A4%BE%E5%9B%A2LOGO%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a6\ns6%3A%E5%B9%BB%E6%A2%A6%E7%BC%98%E8%B5%B7%E7%A4%BE%E5%9B%A2LOGO%2Ejpg.html -->
 
 幻梦缘起 | 社团LOGO
-
-
-
-
 
 
 ---

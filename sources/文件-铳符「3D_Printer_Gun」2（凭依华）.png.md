@@ -1,12 +1,8 @@
 # 文件:铳符「3D_Printer_Gun」2（凭依华）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6d\ns6%3A%E9%93%B3%E7%AC%A6%E3%80%8C3D_Printer_Gun%E3%80%8D2%EF%BC%88%E5%87%AD%E4%BE%9D%E5%8D%8E%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6d\ns6%3A%E9%93%B3%E7%AC%A6%E3%80%8C3D_Printer_Gun%E3%80%8D2%EF%BC%88%E5%87%AD%E4%BE%9D%E5%8D%8E%EF%BC%89%2Epng.html -->
 
 东方凭依华 | 宇佐见堇子 | 自机符卡
-
-
-
-
 
 
 ---

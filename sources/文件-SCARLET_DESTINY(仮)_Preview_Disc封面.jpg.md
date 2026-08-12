@@ -1,6 +1,6 @@
 # 文件:SCARLET_DESTINY(仮)_Preview_Disc封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0a\ns6%3ASCARLET_DESTINY%28%E4%BB%AE%29_Preview_Disc%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0a\ns6%3ASCARLET_DESTINY%28%E4%BB%AE%29_Preview_Disc%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Sensitive_Heart | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Sensitive_Heart | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [SCARLET DESTINY(仮) Preview Disc](./SCARLET_DESTINY(仮)_Preview_Disc.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [SCARLET DESTINY(仮) Preview Disc](./SCARLET_DESTINY(仮%29_Preview_Disc.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

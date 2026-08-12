@@ -1,12 +1,11 @@
 # 東方黒冗談_1_ぷらす_～Toho_Black_Joke_1_Plus～
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\7\72\ns0%3A%E6%9D%B1%E6%96%B9%E9%BB%92%E5%86%97%E8%AB%87_1_%E3%81%B7%E3%82%89%E3%81%99_%EF%BD%9EToho_Black_Joke_1_Plus%EF%BD%9E.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\7\72\ns0%3A%E6%9D%B1%E6%96%B9%E9%BB%92%E5%86%97%E8%AB%87_1_%E3%81%B7%E3%82%89%E3%81%99_%EF%BD%9EToho_Black_Joke_1_Plus%EF%BD%9E.html -->
 
 2010年10月7日 由 痕桃梦  发布的漫画同人志，B5尺寸一共28页，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人志 (未找到链接)** 的词条
-
+**[二次创作同人志](./二次创作.md#同人志)**的词条
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-東方黒冗談_1_ぷらす_～Toho_Black_Joke_1_Plus～封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/6/6c/%E6%9D%B1%E6%96%B9%E9%BB%92%E5%86%97%E8%AB%87_1_%E3%81%B7%E3%82%89%E3%81%99_%EF%BD%9EToho_Black_Joke_1_Plus%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg/139px-%E6%9D%B1%E6%96%B9%E9%BB%92%E5%86%97%E8%AB%87_1_%E3%81%B7%E3%82%89%E3%81%99_%EF%BD%9EToho_Black_Joke_1_Plus%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="139" height="196" srcset="https://upload.thwiki.cc/thumb/6/6c/%E6%9D%B1%E6%96%B9%E9%BB%92%E5%86%97%E8%AB%87_1_%E3%81%B7%E3%82%89%E3%81%99_%EF%BD%9EToho_Black_Joke_1_Plus%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg/209px-%E6%9D%B1%E6%96%B9%E9%BB%92%E5%86%97%E8%AB%87_1_%E3%81%B7%E3%82%89%E3%81%99_%EF%BD%9EToho_Black_Joke_1_Plus%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/6/6c/%E6%9D%B1%E6%96%B9%E9%BB%92%E5%86%97%E8%AB%87_1_%E3%81%B7%E3%82%89%E3%81%99_%EF%BD%9EToho_Black_Joke_1_Plus%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg/278px-%E6%9D%B1%E6%96%B9%E9%BB%92%E5%86%97%E8%AB%87_1_%E3%81%B7%E3%82%89%E3%81%99_%EF%BD%9EToho_Black_Joke_1_Plus%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="284" data-file-height="400"></a><div class="cover-char">角色：<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a>，<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>，<a href="./八云紫.md" title="八云紫">八云紫</a>，<a href="./八意永琳.md" title="八意永琳">八意永琳</a>，<a href="./铃仙·优昙华院·因幡.md" title="铃仙·优昙华院·因幡">铃仙·优昙华院·因幡</a>，<a href="./蓬莱山辉夜.md" title="蓬莱山辉夜">蓬莱山辉夜</a></div></td>
@@ -15,19 +14,13 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://kontohboh.wiki.fc2.com/wiki/東方黒冗談１ぷらす">http://kontohboh.wiki.fc2.com/wiki/%E6%9D%B1%E6%96%B9%E9%BB%92%E5%86%97%E8%AB%87%EF%BC%91%E3%81%B7%E3%82%89%E3%81%99</a></td></tr></tbody></table>
 
 東方黒冗談 1 ぷらす ～Toho Black Joke 1 Plus～（同人志，痕桃梦，2010） - 2010年10月7日 由 痕桃梦  发布的漫画同人志，B5尺寸一共28页，分级为 一般向
-
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="http://www.dlsite.com/home/work/=/product_id/RJ034607.html">DLsite</a></td></tr></tbody></table>
-
 
 
 ## Staff
 : 縛 (未找到链接)
 
-
 ## 评论
-
-
-
 
 ---
 

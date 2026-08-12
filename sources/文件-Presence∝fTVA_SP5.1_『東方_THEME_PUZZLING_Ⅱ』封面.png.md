@@ -1,6 +1,6 @@
 # 文件:Presence∝fTVA_SP5.1_『東方_THEME_PUZZLING_Ⅱ』封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\81\ns6%3APresence%E2%88%9DfTVA_SP5%2E1_%E3%80%8E%E6%9D%B1%E6%96%B9_THEME_PUZZLING_%E2%85%A1%E3%80%8F%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\81\ns6%3APresence%E2%88%9DfTVA_SP5%2E1_%E3%80%8E%E6%9D%B1%E6%96%B9_THEME_PUZZLING_%E2%85%A1%E3%80%8F%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Presence∝fTVA | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Presence∝fTVA | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Presence∝fTVA SP5.1 『東方 THEME PUZZLING Ⅱ』](./Presence∝fTVA_SP5.1_『東方_THEME_PUZZLING_Ⅱ』.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [Presence∝fTVA SP5.1 『東方 THEME PUZZLING Ⅱ』](./Presence∝fTVA_SP5.1_『東方_THEME_PUZZLING_Ⅱ』.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

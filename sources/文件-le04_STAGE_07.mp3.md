@@ -1,16 +1,12 @@
 # 文件:le04_STAGE_07.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8a\ns6%3Ale04_STAGE_07%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8a\ns6%3Ale04_STAGE_07%2Emp3.html -->
 
 连缘Project官方音乐MP3 | 连缘天影战记 | 铁与油的理想乡
 
   
 连缘天影战记天城（Devanagara）主题曲
   
-
-
-
-
 
 ---
 

@@ -1,12 +1,8 @@
 # 文件:东方心梦游-人物-博丽灵梦（Q版）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\ff\ns6%3A%E4%B8%9C%E6%96%B9%E5%BF%83%E6%A2%A6%E6%B8%B8-%E4%BA%BA%E7%89%A9-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88Q%E7%89%88%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\ff\ns6%3A%E4%B8%9C%E6%96%B9%E5%BF%83%E6%A2%A6%E6%B8%B8-%E4%BA%BA%E7%89%A9-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88Q%E7%89%88%EF%BC%89%2Epng.html -->
 
 二次角色立绘 | 博丽灵梦（心梦游） | 夢星琉璃
-
-
-
-
 
 
 ---

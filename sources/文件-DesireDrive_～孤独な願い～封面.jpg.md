@@ -1,6 +1,6 @@
 # 文件:DesireDrive_～孤独な願い～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f6\ns6%3ADesireDrive_%EF%BD%9E%E5%AD%A4%E7%8B%AC%E3%81%AA%E9%A1%98%E3%81%84%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f6\ns6%3ADesireDrive_%EF%BD%9E%E5%AD%A4%E7%8B%AC%E3%81%AA%E9%A1%98%E3%81%84%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 L-ZONE | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ L-ZONE | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [DesireDrive ～孤独な願い～](./DesireDrive_～孤独な願い～.md)  
-该封面包含的角色：- [霍青娥](./霍青娥.md)
-
-
-
+- [DesireDrive ～孤独な願い～](./DesireDrive_～孤独な願い～.md)该封面包含的角色：
+- [霍青娥](./霍青娥.md)
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:ここから先、34小節目。banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\74\ns6%3A%E3%81%93%E3%81%93%E3%81%8B%E3%82%89%E5%85%88%E3%80%8134%E5%B0%8F%E7%AF%80%E7%9B%AE%E3%80%82banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\74\ns6%3A%E3%81%93%E3%81%93%E3%81%8B%E3%82%89%E5%85%88%E3%80%8134%E5%B0%8F%E7%AF%80%E7%9B%AE%E3%80%82banner%2Ejpg.html -->
 
 ここから先、34小節目 | 社团LOGO
-
-
-
-
 
 
 ---

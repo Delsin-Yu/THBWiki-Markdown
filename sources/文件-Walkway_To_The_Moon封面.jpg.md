@@ -1,6 +1,6 @@
 # 文件:Walkway_To_The_Moon封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\09\ns6%3AWalkway_To_The_Moon%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\09\ns6%3AWalkway_To_The_Moon%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 situation_report | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ situation_report | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Walkway To The Moon](./Walkway_To_The_Moon.md)  
-该封面包含的角色：- [比那名居天子](./比那名居天子.md)
+- [Walkway To The Moon](./Walkway_To_The_Moon.md)该封面包含的角色：
+- [比那名居天子](./比那名居天子.md)
 
   
-源地址：[direct image link](https://www.suruga-ya.jp/database/pics_light/game/186138788.jpg), [source page (suruga-ya ID: 186138788)](https://www.suruga-ya.jp/product/detail/186138788)
-  
-
-
-
-
+源地址：[direct image link](https://www.suruga-ya.jp/database/pics_light/game/186138788.jpg), [source page (suruga-ya ID: 186138788)](https://www.suruga-ya.jp/product/detail/186138788)  
 
 ---
 

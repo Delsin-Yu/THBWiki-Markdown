@@ -1,6 +1,6 @@
 # 文件:Minstrel_vs_BLANKFIELD_2封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\95\ns6%3AMinstrel_vs_BLANKFIELD_2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\95\ns6%3AMinstrel_vs_BLANKFIELD_2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 BLANKFIELD | Minstrel | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ BLANKFIELD | Minstrel | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Minstrel vs BLANKFIELD 2](./Minstrel_vs_BLANKFIELD_2.md)  
-该封面包含的角色：- [克劳恩皮丝](./克劳恩皮丝.md)
-
-
-
+- [Minstrel vs BLANKFIELD 2](./Minstrel_vs_BLANKFIELD_2.md)该封面包含的角色：
+- [克劳恩皮丝](./克劳恩皮丝.md)
 
 
 ---

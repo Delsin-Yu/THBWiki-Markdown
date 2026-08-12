@@ -1,12 +1,8 @@
 # 文件:MMMbanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ab\ns6%3AMMMbanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ab\ns6%3AMMMbanner%2Egif.html -->
 
 MAD_MIND_MACHINE | 社团LOGO
-
-
-
-
 
 
 ---

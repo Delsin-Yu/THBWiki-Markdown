@@ -1,16 +1,12 @@
 # 模板:Subcul幻想乡
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\f\fa\ns10%3ASubcul%E5%B9%BB%E6%83%B3%E4%B9%A1.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\f\fa\ns10%3ASubcul%E5%B9%BB%E6%83%B3%E4%B9%A1.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

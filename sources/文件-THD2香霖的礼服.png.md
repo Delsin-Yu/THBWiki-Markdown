@@ -1,12 +1,8 @@
 # 文件:THD2香霖的礼服.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\02\ns6%3ATHD2%E9%A6%99%E9%9C%96%E7%9A%84%E7%A4%BC%E6%9C%8D%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\02\ns6%3ATHD2%E9%A6%99%E9%9C%96%E7%9A%84%E7%A4%BC%E6%9C%8D%2Epng.html -->
 
 AvalonStudioOfficial
-
-
-
-
 
 
 ---

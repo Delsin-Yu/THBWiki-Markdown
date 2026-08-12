@@ -1,6 +1,6 @@
 # 文件:东方嘘伪话_~Anthology_of_Forgotten_Fables.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\50\ns6%3A%E4%B8%9C%E6%96%B9%E5%98%98%E4%BC%AA%E8%AF%9D_%7EAnthology_of_Forgotten_Fables%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\50\ns6%3A%E4%B8%9C%E6%96%B9%E5%98%98%E4%BC%AA%E8%AF%9D_%7EAnthology_of_Forgotten_Fables%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Consonances&Dissonances | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Consonances&Dissonances | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [东方嘘伪话 ~Anthology of Forgotten Fables.](./东方嘘伪话_~Anthology_of_Forgotten_Fables..md)  
-该封面包含的角色：- 邪鬼子 滝夜叉 (未找到链接)
-
-
-
+- [东方嘘伪话 ~Anthology of Forgotten Fables.](./东方嘘伪话_~Anthology_of_Forgotten_Fables..md)该封面包含的角色：
+- 邪鬼子 滝夜叉 (未找到链接)
 
 
 ---

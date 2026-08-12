@@ -1,6 +1,6 @@
 # 文件:PRELUDE_TO_THE_DISASTER封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4f\ns6%3APRELUDE_TO_THE_DISASTER%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4f\ns6%3APRELUDE_TO_THE_DISASTER%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 にくにくみっく | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [PRELUDE TO THE DISASTER](./PRELUDE_TO_THE_DISASTER.md)  
-该封面包含的角色：- [灵乌路空](./灵乌路空.md)
-
-
-
+- [PRELUDE TO THE DISASTER](./PRELUDE_TO_THE_DISASTER.md)该封面包含的角色：
+- [灵乌路空](./灵乌路空.md)
 
 
 ---

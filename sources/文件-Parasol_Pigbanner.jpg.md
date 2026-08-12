@@ -1,18 +1,13 @@
 # 文件:Parasol_Pigbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\90\ns6%3AParasol_Pigbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\90\ns6%3AParasol_Pigbanner%2Ejpg.html -->
 
 Parasol_Pig | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[[1]](http://parasolpig.web.fc2.com/pic/banner.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://parasolpig.web.fc2.com/pic/banner.jpg)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:TAO_no_ATO封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5b\ns6%3ATAO_no_ATO%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5b\ns6%3ATAO_no_ATO%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 东方编曲管弦乐团 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [TAO no ATO](./TAO_no_ATO.md)  
-该封面包含的角色：- [火焰猫燐](./火焰猫燐.md)
-
-
-
+- [TAO no ATO](./TAO_no_ATO.md)该封面包含的角色：
+- [火焰猫燐](./火焰猫燐.md)
 
 
 ---

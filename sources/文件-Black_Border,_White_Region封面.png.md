@@ -1,6 +1,6 @@
 # 文件:Black_Border,_White_Region封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5d\ns6%3ABlack_Border%2C_White_Region%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5d\ns6%3ABlack_Border%2C_White_Region%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 As／Hi_Soundworks | 专辑封面 | 封面图片 | 荒御灵
 
@@ -10,11 +10,8 @@ As／Hi_Soundworks | 专辑封面 | 封面图片 | 荒御灵
 使用了本文件作封面图片的作品：
   
 
-- [Black Border, White Region](./Black_Border,_White_Region.md)  
-该封面包含的角色：- [八云紫](./八云紫.md)
-
-
-
+- [Black Border, White Region](./Black_Border,_White_Region.md)该封面包含的角色：
+- [八云紫](./八云紫.md)
 
 
 ---

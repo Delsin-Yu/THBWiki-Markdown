@@ -1,36 +1,26 @@
 # 妖异亦忌之憩_～_Need_umbrella!
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\22\ns0%3A%E5%A6%96%E5%BC%82%E4%BA%A6%E5%BF%8C%E4%B9%8B%E6%86%A9_%EF%BD%9E_Need_umbrella%21.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\22\ns0%3A%E5%A6%96%E5%BC%82%E4%BA%A6%E5%BF%8C%E4%B9%8B%E6%86%A9_%EF%BD%9E_Need_umbrella%21.html -->
 
 JynX作曲 | 妖异亦忌之憩_～_Need_umbrella! | 引用了翻译表的页面 | 连缘Project | 连缘Project官方音乐
 
-本页是关于 **向[东方Project](./东方Project.md)  
-致敬、形式类似的作品** 的词条
-
+本页是关于**向[东方Project](./东方Project.md)致敬、形式类似的作品**  
+的词条
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 出现作品](#出现作品)
 - [3 音乐文件](#音乐文件)
-
   - [3.1 连缘蛇丛剑](#连缘蛇丛剑)
 
 
-
 - [4 说明文本](#说明文本)
-
   - [4.1 连缘蛇丛剑](#连缘蛇丛剑_2)
 
 
-
 - [5 其他资料](#其他资料)
-
   - [5.1 乐理资讯](#乐理资讯)
   - [5.2 分析考据](#分析考据)
-
-
-
-
 
 
 
@@ -59,14 +49,12 @@ JynX作曲 | 妖异亦忌之憩_～_Need_umbrella! | 引用了翻译表的页面
 </td></tr></tbody></table>
 
 
-
 ## 出现作品
 
 <table>
 
 <tbody><tr><td>2013年11月18日（非展会）</td><td><b><a href="./连缘蛇丛剑～Earthen_Miraculous_Sword.md" title="连缘蛇丛剑～Earthen Miraculous Sword" unred="">连缘蛇丛剑</a></b></td><td>标题画面曲</td><td style="padding-left:5px;">（妖异亦忌之憩 ～ Need umbrella!）</td><td style="padding-left:10px;">作曲：JynX</td></tr>
 </tbody></table>
-
 
 
 ## 音乐文件
@@ -76,11 +64,11 @@ JynX作曲 | 妖异亦忌之憩_～_Need_umbrella! | 引用了翻译表的页面
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>MIDI格式</b></td><td>无播放信息</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-le02_01.mp3.md" title="文件:le02 01.mp3">le02_01.mp3</a><br><audio src="https://upload.thwiki.cc/2/2b/le02_01.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>未填写</td></tr></tbody></table>
 
 
-
 ## 说明文本
 
 ### 连缘蛇丛剑
-- Music Room (未找到链接)
+
+- [Music Room](./连缘蛇丛剑～Earthen_Miraculous_Sword-Music.md#标题画面曲)
 
 这是op曲子呢。  
 至今为止作的曲子里面这首特别有种异端的氛围。  
@@ -89,15 +77,11 @@ JynX作曲 | 妖异亦忌之憩_～_Need_umbrella! | 引用了翻译表的页面
 只有op令人兴奋，而本篇却气氛平平。  
 只要不变成这样就好了呢...  
 算了总了个之，赶忙之中做出的曲子意外挺不错的不是吗？
-
 ## 其他资料
 
 ### 乐理资讯
 
 ### 分析考据
-
-
-
 
 ---
 

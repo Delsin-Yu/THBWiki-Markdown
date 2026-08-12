@@ -1,12 +1,11 @@
 # Cardenal/夜桜レミリアタペストリー
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\5\58\ns0%3ACardenal%2F%E5%A4%9C%E6%A1%9C%E3%83%AC%E3%83%9F%E3%83%AA%E3%82%A2%E3%82%BF%E3%83%9A%E3%82%B9%E3%83%88%E3%83%AA%E3%83%BC.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\5\58\ns0%3ACardenal%2F%E5%A4%9C%E6%A1%9C%E3%83%AC%E3%83%9F%E3%83%AA%E3%82%A2%E3%82%BF%E3%83%9A%E3%82%B9%E3%83%88%E3%83%AA%E3%83%BC.html -->
 
 2023年5月7日 由 Cardenal 于 博丽神社例大祭20 发布的挂画周边，分级为 一般向
 
 本页是关于东方Project  
- **相关实体周边 (未找到链接)** 的词条
-
+**相关实体周边 (未找到链接)**的词条
 ## 目录
 
 - [1 周边信息](#周边信息)
@@ -15,29 +14,25 @@
 - [4 评论](#评论)
 
 
-
-
-
 ## 周边信息
 
-<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 夜桜レミリアタペストリー </td></tr><tr><td class="label">制作方</td><td><a href="./Cardenal.md" title="Cardenal">Cardenal</a></td></tr><tr><td class="label">首发日期</td><td>2023-05-07&#160;（<a href="/展会作品列表?e=%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD%2320">第二十回 博麗神社例大祭</a>）</td></tr><tr><td class="label">类型</td><td>挂画</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>A2</td></tr><tr><td class="label">角色</td><td><a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a></td></tr><tr><td class="label">售价</td><td>2500日元</td></tr></tbody></table>
+<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 夜桜レミリアタペストリー </td></tr><tr><td class="label">制作方</td><td><a href="./Cardenal.md" title="Cardenal">Cardenal</a></td></tr><tr><td class="label">首发日期</td><td>2023-05-07 （<a href="./展会作品列表.md#20">第二十回 博麗神社例大祭</a>）</td></tr><tr><td class="label">类型</td><td>挂画</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>A2</td></tr><tr><td class="label">角色</td><td><a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a></td></tr><tr><td class="label">售价</td><td>2500日元</td></tr></tbody></table>
 
 Cardenal/夜桜レミリアタペストリー（周边，Cardenal，2023） - 2023年5月7日 由 Cardenal 于 博丽神社例大祭20 发布的挂画周边，分级为 一般向
-
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=1937440">蜜瓜</a></td></tr></tbody></table>
 
 
-
 ## 参考图
-- [](./文件-Cardenal／夜桜レミリアタペストリー预览图1.jpg.md)
+
+- <img alt="Cardenal／夜桜レミリアタペストリー预览图1.jpg" src="https://upload.thwiki.cc/thumb/1/1b/Cardenal%EF%BC%8F%E5%A4%9C%E6%A1%9C%E3%83%AC%E3%83%9F%E3%83%AA%E3%82%A2%E3%82%BF%E3%83%9A%E3%82%B9%E3%83%88%E3%83%AA%E3%83%BC%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg/244px-Cardenal%EF%BC%8F%E5%A4%9C%E6%A1%9C%E3%83%AC%E3%83%9F%E3%83%AA%E3%82%A2%E3%82%BF%E3%83%9A%E3%82%B9%E3%83%88%E3%83%AA%E3%83%BC%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg" decoding="async" loading="lazy" width="163" height="250" srcset="https://upload.thwiki.cc/thumb/1/1b/Cardenal%EF%BC%8F%E5%A4%9C%E6%A1%9C%E3%83%AC%E3%83%9F%E3%83%AA%E3%82%A2%E3%82%BF%E3%83%9A%E3%82%B9%E3%83%88%E3%83%AA%E3%83%BC%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg/366px-Cardenal%EF%BC%8F%E5%A4%9C%E6%A1%9C%E3%83%AC%E3%83%9F%E3%83%AA%E3%82%A2%E3%82%BF%E3%83%9A%E3%82%B9%E3%83%88%E3%83%AA%E3%83%BC%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg 1.5x, https://upload.thwiki.cc/thumb/1/1b/Cardenal%EF%BC%8F%E5%A4%9C%E6%A1%9C%E3%83%AC%E3%83%9F%E3%83%AA%E3%82%A2%E3%82%BF%E3%83%9A%E3%82%B9%E3%83%88%E3%83%AA%E3%83%BC%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg/487px-Cardenal%EF%BC%8F%E5%A4%9C%E6%A1%9C%E3%83%AC%E3%83%9F%E3%83%AA%E3%82%A2%E3%82%BF%E3%83%9A%E3%82%B9%E3%83%88%E3%83%AA%E3%83%BC%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg 2x" data-file-width="585" data-file-height="900"> 
 
 
 ## Staff
+
 - [秋染ハツカ](./秋染ハツカ.md)
 
 
 ## 评论
-
   
 例大祭20で頒布したレミリアのA2サイズタペストリーです。  
 
@@ -45,16 +40,6 @@ Cardenal/夜桜レミリアタペストリー（周边，Cardenal，2023） - 20
 
 サンプルの破線部分が縫製位置となります。
   
-
-
-  
-  
-
-  
-
-
-
-
 
 ---
 

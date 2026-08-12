@@ -1,16 +1,12 @@
 # 文件:宇城はやひろ&Zun.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5e\ns6%3A%E5%AE%87%E5%9F%8E%E3%81%AF%E3%82%84%E3%81%B2%E3%82%8D%26Zun%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5e\ns6%3A%E5%AE%87%E5%9F%8E%E3%81%AF%E3%82%84%E3%81%B2%E3%82%8D%26Zun%2Ejpg.html -->
 
 ZUN | 宇城はやひろ
 
   
 2022年3月30日宇城はやひろ和Zun一起用餐的照片
   
-
-
-
-
 
 ---
 

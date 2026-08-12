@@ -1,6 +1,6 @@
 # 文件:Unknown（ESSENTIAL_RECORDS）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\ba\ns6%3AUnknown%EF%BC%88ESSENTIAL_RECORDS%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\ba\ns6%3AUnknown%EF%BC%88ESSENTIAL_RECORDS%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ESSENTIAL_RECORDS | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ ESSENTIAL_RECORDS | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Unknown（ESSENTIAL RECORDS）](./Unknown（ESSENTIAL_RECORDS）.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [Unknown（ESSENTIAL RECORDS）](./Unknown（ESSENTIAL_RECORDS）.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
   
-源地址：[[1]](https://blog-imgs-32.fc2.com/a/r/c/arceusremix/Unknown.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://blog-imgs-32.fc2.com/a/r/c/arceusremix/Unknown.jpg)  
 
 ---
 

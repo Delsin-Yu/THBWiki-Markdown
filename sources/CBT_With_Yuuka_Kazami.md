@@ -1,21 +1,17 @@
 # CBT_With_Yuuka_Kazami
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\1\1e\ns0%3ACBT_With_Yuuka_Kazami.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\1\1e\ns0%3ACBT_With_Yuuka_Kazami.html -->
 
 2020年10月19日 由 Sigyaad Team  发布的AVG同人游戏，可在 Windows 系统上运行，游戏人数为 单人模式，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人软件 (未找到链接)** 的词条
-
+**[二次创作同人软件](./二次创作.md#同人软件)**的词条
 ## 目录
 
 - [1 软件信息](#软件信息)
 - [2 Staff](#Staff)
 - [3 内容页面](#内容页面)
 - [4 外部链接](#外部链接)
-
-
-
 
 
 ## 软件信息
@@ -26,31 +22,19 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/sigyaad">https://twitter.com/sigyaad</a></td></tr></tbody></table>
 
 CBT With Yuuka Kazami（同人游戏，Sigyaad Team，2020） - 2020年10月19日 由 Sigyaad Team  发布的AVG同人游戏，可在 Windows 系统上运行，游戏人数为 单人模式，分级为 一般向
-  
-  
-
-  
-
-
 <table>
 <tbody><tr><th colspan="2">配置需求</th></tr>
 <tr><td style="width:120px;padding-left:7px;"><b>操作系统</b></td><td>windows 7/above</td></tr><tr><td style="width:120px;padding-left:7px;"><b>CPU</b></td><td>Dual Core Intel/AMD CPU</td></tr><tr><td style="width:120px;padding-left:7px;"><b>显示卡</b></td><td>Integrated HD Graphics</td></tr>
 </tbody></table>
 
 
-  
-  
-
-  
-
-
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://store.steampowered.com/app/1430420">Steam</a></td></tr></tbody></table>
-
 
 
 ## Staff
 
 ## 内容页面
+
 - [游戏设定与剧情](./CBT_With_Yuuka_Kazami-设定与剧情.md)
 - 攻略 (未找到链接)
 - [使用说明](./CBT_With_Yuuka_Kazami-说明.md)
@@ -59,16 +43,8 @@ CBT With Yuuka Kazami（同人游戏，Sigyaad Team，2020） - 2020年10月19�
 
 ## 外部链接
   
-
 <iframe src="https://store.steampowered.com/widget/1430420/" frameborder="0" width="646" height="190" style="display: block" loading="lazy"></iframe>
-
-
-[捐赠渠道](https://ko-fi.com/sigyaad)
-  
-
-
-
-
+[捐赠渠道](https://ko-fi.com/sigyaad)  
 
 ---
 

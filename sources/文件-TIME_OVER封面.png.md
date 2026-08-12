@@ -1,14 +1,11 @@
 # 文件:TIME_OVER封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8a\ns6%3ATIME_OVER%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8a\ns6%3ATIME_OVER%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 戎瓔花狂恋サークル
 
 
 ## 摘要
-
-
-
 
 ---
 

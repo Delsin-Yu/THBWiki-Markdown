@@ -1,6 +1,6 @@
 # 文件:the_Grimoire_of_Asterisk封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\67\ns6%3Athe_Grimoire_of_Asterisk%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\67\ns6%3Athe_Grimoire_of_Asterisk%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 SYNC.ART'S | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ SYNC.ART'S | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [the Grimoire of Asterisk](./the_Grimoire_of_Asterisk.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
+- [the Grimoire of Asterisk](./the_Grimoire_of_Asterisk.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-源地址：[[1]](http://syncarts.jp/wp2015/wp-content/uploads/2016/01/SACD5038jake800.png)
-  
-
-
-
-
+源地址：[\[1\]](http://syncarts.jp/wp2015/wp-content/uploads/2016/01/SACD5038jake800.png)  
 
 ---
 

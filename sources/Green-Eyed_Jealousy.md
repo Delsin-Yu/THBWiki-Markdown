@@ -1,12 +1,11 @@
 # Green-Eyed_Jealousy
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\d\da\ns0%3AGreen-Eyed_Jealousy.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\d\da\ns0%3AGreen-Eyed_Jealousy.html -->
 
 2022年4月15日 由 YaboiMatoi  发布的单曲同人专辑，曲目主要风格是 金属，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人专辑 (未找到链接)** 的词条
-
+**[二次创作同人专辑](./二次创作.md#同人音乐)**的词条
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Green-Eyed_Jealousy封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/f/f1/Green-Eyed_Jealousy%E5%B0%81%E9%9D%A2.jpg/252px-Green-Eyed_Jealousy%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="252" height="252" srcset="https://upload.thwiki.cc/thumb/f/f1/Green-Eyed_Jealousy%E5%B0%81%E9%9D%A2.jpg/378px-Green-Eyed_Jealousy%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/f/f1/Green-Eyed_Jealousy%E5%B0%81%E9%9D%A2.jpg/504px-Green-Eyed_Jealousy%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1200" data-file-height="1200"></a></td>
@@ -14,26 +13,22 @@
 </tr><tr><td class="label">首发日期</td><td>2022-04-15</td></tr><tr><td class="label">类型</td><td>单曲</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>1</td></tr><tr><td class="label">总时长</td><td>03:08</td></tr><tr><td class="label">风格类型</td><td>金属</td></tr><tr><td class="label">售价</td><td>通贩售价：7人民币，1欧元</td></tr></tbody></table>
 
 Green-Eyed Jealousy（同人专辑，YaboiMatoi，2022） - 2022年4月15日 由 YaboiMatoi  发布的单曲同人专辑，曲目主要风格是 金属，分级为 一般向
-
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://yaboimatoi.bandcamp.com/track/green-eyed-jealousy">bandcamp</a>，<a rel="nofollow" class="external text" href="https://www.dizzylab.net/d/YM04">dizzylab</a></td></tr></tbody></table>
-
 
 
 ## Staff
   
- **Arrangement**   
+**Arrangement**  
 
 <table><tbody><tr><td><a href="./YaboiMatoi.md" title="YaboiMatoi">YaboiMatoi</a></td><td></td><td>Tr.1</td></tr></tbody></table>
 
   
- **Instrument**   
+**Instrument**  
 
 <table><tbody><tr><td><a href="./YaboiMatoi.md" title="YaboiMatoi">YaboiMatoi</a></td><td></td><td>Tr.1</td></tr></tbody></table>
 
-
 Artwork
 : [YaboiMatoi](./YaboiMatoi.md)
-
 
 ## 试听
 
@@ -46,10 +41,7 @@ Artwork
 <td><iframe width="560" height="315" src="//www.youtube-nocookie.com/embed/RzFfzJnBylE?" frameborder="0" allowfullscreen=""></iframe>
 </td></tr></tbody></table>
 
-
   
-
-
   
 
 <table>
@@ -58,14 +50,9 @@ Artwork
 </table>
 
 
-
-
-
-
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Green-Eyed_Jealousy" colspan="2" class="title">Green-Eyed Jealousy<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=YaboiMatoi&amp;ogmusic=緑眼のジェラシー，フラワリングナイト&amp;fromwiki=Green-Eyed_Jealousy"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:08</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./YaboiMatoi.md" title="YaboiMatoi">YaboiMatoi</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，YaboiMatoi&amp;fromwiki=Green-Eyed_Jealousy"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演奏</td><td class="text" colspan="2">guitar：<a href="./YaboiMatoi.md" title="YaboiMatoi">YaboiMatoi</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=緑眼のジェラシー，フラワリングナイト&amp;fromwiki=Green-Eyed_Jealousy"><span></span></a></span><div class="ogmusic"><a href="./緑眼のジェラシー.md" class="mw-redirect" title="緑眼のジェラシー">緑眼のジェラシー</a></div><div class="source"><a href="./东方地灵殿_～_Subterranean_Animism..md" class="mw-redirect" title="东方地灵殿 ～ Subterranean Animism.">东方地灵殿　～ Subterranean Animism.</a></div><hr><div class="ogmusic"><a href="./フラワリングナイト.md" class="mw-redirect" title="フラワリングナイト">フラワリングナイト</a></div><div class="source"><a href="./东方花映塚_～_Phantasmagoria_of_Flower_View..md" class="mw-redirect" title="东方花映塚 ～ Phantasmagoria of Flower View.">东方花映塚　～ Phantasmagoria of Flower View.</a></div></td></tr></tbody></table>
-
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Green-Eyed_Jealousy" colspan="2" class="title">Green-Eyed Jealousy</td><td class="time">03:08</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./YaboiMatoi.md" title="YaboiMatoi">YaboiMatoi</a></td></tr><tr><td class="left"></td><td class="label">演奏</td><td class="text" colspan="2">guitar：<a href="./YaboiMatoi.md" title="YaboiMatoi">YaboiMatoi</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./绿眼的嫉妒.md" class="mw-redirect" title="緑眼のジェラシー">緑眼のジェラシー</a></div><div class="source"><a href="./东方地灵殿.md" class="mw-redirect" title="东方地灵殿 ～ Subterranean Animism.">东方地灵殿　～ Subterranean Animism.</a></div><hr><div class="ogmusic"><a href="./Flowering_Night.md" class="mw-redirect" title="フラワリングナイト">フラワリングナイト</a></div><div class="source"><a href="./东方花映塚.md" class="mw-redirect" title="东方花映塚 ～ Phantasmagoria of Flower View.">东方花映塚　～ Phantasmagoria of Flower View.</a></div></td></tr></tbody></table>
 
 
 ## 评论
@@ -75,10 +62,6 @@ I made a guitar cover of Parsee's Theme from Touhou SA! It's been requested quit
   
 I also played parts of Sakuya's Theme (Flowering Night) and Orin's Stage Theme (Lullaby of Deserted Hell).
   
-
-
-
-
 
 ---
 

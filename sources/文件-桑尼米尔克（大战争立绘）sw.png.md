@@ -1,12 +1,8 @@
 # 文件:桑尼米尔克（大战争立绘）sw.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1b\ns6%3A%E6%A1%91%E5%B0%BC%E7%B1%B3%E5%B0%94%E5%85%8B%EF%BC%88%E5%A4%A7%E6%88%98%E4%BA%89%E7%AB%8B%E7%BB%98%EF%BC%89sw%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1b\ns6%3A%E6%A1%91%E5%B0%BC%E7%B1%B3%E5%B0%94%E5%85%8B%EF%BC%88%E5%A4%A7%E6%88%98%E4%BA%89%E7%AB%8B%E7%BB%98%EF%BC%89sw%2Epng.html -->
 
 妖精大战争 | 官方游戏立绘 | 桑尼米尔克 | 比良坂真琴绘
-
-
-
-
 
 
 ---

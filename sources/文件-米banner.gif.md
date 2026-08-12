@@ -1,12 +1,8 @@
 # 文件:米banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2b\ns6%3A%E7%B1%B3banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2b\ns6%3A%E7%B1%B3banner%2Egif.html -->
 
 社团LOGO | 米
-
-
-
-
 
 
 ---

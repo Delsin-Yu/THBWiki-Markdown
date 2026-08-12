@@ -1,12 +1,8 @@
 # 文件:东风谷早苗（神灵庙Manual）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\97\ns6%3A%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97%EF%BC%88%E7%A5%9E%E7%81%B5%E5%BA%99Manual%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\97\ns6%3A%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97%EF%BC%88%E7%A5%9E%E7%81%B5%E5%BA%99Manual%EF%BC%89%2Ejpg.html -->
 
 Manual配图 | 东方神灵庙 | 东风谷早苗
-
-
-
-
 
 
 ---

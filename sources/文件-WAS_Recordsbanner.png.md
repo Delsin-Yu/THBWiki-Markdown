@@ -1,14 +1,11 @@
 # 文件:WAS_Recordsbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\36\ns6%3AWAS_Recordsbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\36\ns6%3AWAS_Recordsbanner%2Epng.html -->
 
 WAS_Records | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

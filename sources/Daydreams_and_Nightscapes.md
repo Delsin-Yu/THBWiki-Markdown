@@ -1,52 +1,46 @@
 # Daydreams_and_Nightscapes
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\3\3e\ns0%3ADaydreams_and_Nightscapes.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\3\3e\ns0%3ADaydreams_and_Nightscapes.html -->
 
 2023年5月2日 由 Echollapsar 于 COMICUP29 发布的全长同人专辑，内容以 秘封俱乐部为题材，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人专辑 (未找到链接)** 的词条
-
+**[二次创作同人专辑](./二次创作.md#同人音乐)**的词条
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Daydreams_and_Nightscapes封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/2/26/Daydreams_and_Nightscapes%E5%B0%81%E9%9D%A2.jpg/252px-Daydreams_and_Nightscapes%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="252" height="252" srcset="https://upload.thwiki.cc/thumb/2/26/Daydreams_and_Nightscapes%E5%B0%81%E9%9D%A2.jpg/378px-Daydreams_and_Nightscapes%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/2/26/Daydreams_and_Nightscapes%E5%B0%81%E9%9D%A2.jpg/504px-Daydreams_and_Nightscapes%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1383" data-file-height="1383"></a><div class="cover-char">角色：<a href="./宇佐见莲子.md" title="宇佐见莲子">宇佐见莲子</a></div></td>
 </tr><tr><td class="label">名称</td><td colspan="2"> Daydreams and Nightscapes </td></tr><tr><td class="label">制作方</td><td><a href="./Echollapsar.md" title="Echollapsar">Echollapsar</a></td><td class="cover-artwork" rowspan="9" style="min-width:252px;"><a href="./文件-Daydreams_and_Nightscapes封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/2/26/Daydreams_and_Nightscapes%E5%B0%81%E9%9D%A2.jpg/252px-Daydreams_and_Nightscapes%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="252" height="252" srcset="https://upload.thwiki.cc/thumb/2/26/Daydreams_and_Nightscapes%E5%B0%81%E9%9D%A2.jpg/378px-Daydreams_and_Nightscapes%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/2/26/Daydreams_and_Nightscapes%E5%B0%81%E9%9D%A2.jpg/504px-Daydreams_and_Nightscapes%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1383" data-file-height="1383"></a><div class="cover-char">角色：<a href="./宇佐见莲子.md" title="宇佐见莲子">宇佐见莲子</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2023-05-02&#160;（<a href="/展会作品列表?e=COMICUP%2329">COMICUP29</a>）</td></tr><tr><td class="label">类型</td><td>全长</td></tr><tr><td class="label">编号</td><td>EC-004</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>5</td></tr><tr><td class="label">总时长</td><td>21:48</td></tr><tr><td class="label">特定选材</td><td>秘封俱乐部</td></tr>
+</tr><tr><td class="label">首发日期</td><td>2023-05-02 （<a href="./展会作品列表.md#29">COMICUP29</a>）</td></tr><tr><td class="label">类型</td><td>全长</td></tr><tr><td class="label">编号</td><td>EC-004</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>5</td></tr><tr><td class="label">总时长</td><td>21:48</td></tr><tr><td class="label">特定选材</td><td>秘封俱乐部</td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://ec0004.tumblr.com/">https://ec0004.tumblr.com/</a></td></tr></tbody></table>
 
 Daydreams and Nightscapes（同人专辑，Echollapsar，2023） - 2023年5月2日 由 Echollapsar 于 COMICUP29 发布的全长同人专辑，内容以 秘封俱乐部为题材，分级为 一般向
-
 ## Staff
   
- **Arrangement**   
+**Arrangement**  
 
 <table><tbody><tr><td><a href="./平茸.md" title="平茸">平茸</a></td><td><a href="./Aftergrow.md" title="Aftergrow">Aftergrow</a></td><td>Tr.1-3</td></tr><tr><td><a href="./RD-Sounds.md" title="RD-Sounds">RD-Sounds</a></td><td><a href="./凋叶棕.md" title="凋叶棕">凋叶棕</a></td><td>Tr.4</td></tr><tr><td><a href="./tomoya.md" title="tomoya">tomoya</a></td><td><a href="./TUMENECO.md" title="TUMENECO">TUMENECO</a></td><td>Tr.5</td></tr></tbody></table>
 
   
- **Vocal**   
+**Vocal**  
 
 <table><tbody><tr><td><a href="./Renka.md" title="Renka">Renka</a></td><td></td><td>Tr.1/2/5</td></tr><tr><td><a href="./Terasty.md" title="Terasty">Terasty</a></td><td></td><td>Tr.3/4</td></tr><tr><td><a href="./Possumomo.md" title="Possumomo">Possumomo</a></td><td></td><td>Tr.5</td></tr></tbody></table>
 
   
- **Lyrics**   
+**Lyrics**  
 
 <table><tbody><tr><td><a href="./蒼羅杏.md" title="蒼羅杏">蒼羅杏</a></td><td><a href="./Yonder_Voice.md" title="Yonder Voice">Yonder Voice</a></td><td>Tr.1</td></tr><tr><td><a href="./イチ.md" title="イチ">イチ</a></td><td><a href="./少年ヴィヴィッド.md" title="少年ヴィヴィッド">少年ヴィヴィッド</a></td><td>Tr.2/3</td></tr><tr><td><a href="./RD-Sounds.md" title="RD-Sounds">RD-Sounds</a></td><td><a href="./凋叶棕.md" title="凋叶棕">凋叶棕</a></td><td>Tr.4</td></tr><tr><td><a href="./Renka.md" title="Renka">Renka</a></td><td></td><td>Tr.5</td></tr></tbody></table>
 
-
-Mix &amp; Mastering
+Mix & Mastering
 : 艾斯褲裡衣母
-Director &amp; Design
+Director & Design
 : Renka
 Illustration
 : 八里（[Weibo](https://weibo.com/u/2839540581)）、ideolo （[Twitter](https://twitter.com/ideolo)）
 Special Thanks
 : OceanAGUL
 
-
 ## 试听
   
-
-
   
 
 <table>
@@ -55,33 +49,20 @@ Special Thanks
 </table>
 
 
-
-
-
-
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoRD"><b>01</b></td><td id="朝日をひと切れ" colspan="2" class="title"><a href="./歌词-朝日をひと切れ.md" title="歌词:朝日をひと切れ">朝日をひと切れ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=平茸&amp;vocal=Renka&amp;lyric=蒼羅杏&amp;ogmusic=緑のサナトリウム&amp;fromwiki=Daydreams_and_Nightscapes"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:31</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./平茸.md" title="平茸">平茸</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，平茸&amp;fromwiki=Daydreams_and_Nightscapes"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="./Renka.md" title="Renka">Renka</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=Renka&amp;fromwiki=Daydreams_and_Nightscapes"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="./蒼羅杏.md" title="蒼羅杏">蒼羅杏</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?lyric=蒼羅杏&amp;fromwiki=Daydreams_and_Nightscapes"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=緑のサナトリウム&amp;fromwiki=Daydreams_and_Nightscapes"><span></span></a></span><div class="ogmusic"><a href="./緑のサナトリウム.md" class="mw-redirect" title="緑のサナトリウム">緑のサナトリウム</a></div><div class="source"><a href="./伊奘诺物质_～_Neo-traditionalism_of_Japan..md" class="mw-redirect" title="伊奘诺物质 ～ Neo-traditionalism of Japan.">伊奘诺物质　～ Neo-traditionalism of Japan.</a></div></td></tr>
-<tr><td id="2" class="infoRD"><b>02</b></td><td id="或る雨の日の午後" colspan="2" class="title"><a href="./歌词-或る雨の日の午後.md" title="歌词:或る雨の日の午後">或る雨の日の午後</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=平茸&amp;vocal=Renka&amp;lyric=イチ&amp;ogmusic=他愛も無い二人の博物誌&amp;fromwiki=Daydreams_and_Nightscapes"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:45</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./平茸.md" title="平茸">平茸</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，平茸&amp;fromwiki=Daydreams_and_Nightscapes"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="./Renka.md" title="Renka">Renka</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=Renka&amp;fromwiki=Daydreams_and_Nightscapes"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="./イチ.md" title="イチ">イチ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?lyric=イチ&amp;fromwiki=Daydreams_and_Nightscapes"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=他愛も無い二人の博物誌&amp;fromwiki=Daydreams_and_Nightscapes"><span></span></a></span><div class="ogmusic"><a href="./他愛も無い二人の博物誌.md" class="mw-redirect" title="他愛も無い二人の博物誌">他愛も無い二人の博物誌</a></div><div class="source"><a href="./燕石博物志_～_Dr.Latency's_Freak_Report..md" class="mw-redirect" title="燕石博物志 ～ Dr.Latency&#39;s Freak Report.">燕石博物志　～ Dr.Latency's Freak Report.</a></div></td></tr>
-<tr><td id="3" class="infoRD"><b>03</b></td><td id="落陽" colspan="2" class="title"><a href="./歌词-落陽（Echollapsar）.md" title="歌词:落陽（Echollapsar）">落陽</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=平茸&amp;vocal=Terasty&amp;lyric=イチ&amp;ogmusic=二日酔いの同床異夢&amp;fromwiki=Daydreams_and_Nightscapes"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:18</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./平茸.md" title="平茸">平茸</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，平茸&amp;fromwiki=Daydreams_and_Nightscapes"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="./Terasty.md" title="Terasty">Terasty</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=Terasty&amp;fromwiki=Daydreams_and_Nightscapes"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="./イチ.md" title="イチ">イチ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?lyric=イチ&amp;fromwiki=Daydreams_and_Nightscapes"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=二日酔いの同床異夢&amp;fromwiki=Daydreams_and_Nightscapes"><span></span></a></span><div class="ogmusic"><a href="./二日酔いの同床異夢.md" class="mw-redirect" title="二日酔いの同床異夢">二日酔いの同床異夢</a></div><div class="source"><a href="./旧约酒馆_～_Dateless_Bar_-Old_Adam-..md" class="mw-redirect" title="旧约酒馆 ～ Dateless Bar &quot;Old Adam&quot;.">旧约酒馆　～ Dateless Bar "Old Adam".</a></div></td></tr>
-<tr><td id="4" class="infoRD"><b>04</b></td><td id="深更のアヴァロン" colspan="2" class="title"><a href="./歌词-深更のアヴァロン.md" title="歌词:深更のアヴァロン">深更のアヴァロン</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=RD-Sounds&amp;vocal=Terasty&amp;lyric=RD-Sounds&amp;ogmusic=バー・オールドアダム&amp;fromwiki=Daydreams_and_Nightscapes"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:00</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./RD-Sounds.md" title="RD-Sounds">RD-Sounds</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，RD-Sounds&amp;fromwiki=Daydreams_and_Nightscapes"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="./Terasty.md" title="Terasty">Terasty</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=Terasty&amp;fromwiki=Daydreams_and_Nightscapes"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="./RD-Sounds.md" title="RD-Sounds">RD-Sounds</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?lyric=RD-Sounds&amp;fromwiki=Daydreams_and_Nightscapes"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=バー・オールドアダム&amp;fromwiki=Daydreams_and_Nightscapes"><span></span></a></span><div class="ogmusic"><a href="./バー・オールドアダム.md" class="mw-redirect" title="バー・オールドアダム">バー・オールドアダム</a></div><div class="source"><a href="./旧约酒馆_～_Dateless_Bar_-Old_Adam-..md" class="mw-redirect" title="旧约酒馆 ～ Dateless Bar &quot;Old Adam&quot;.">旧约酒馆　～ Dateless Bar "Old Adam".</a></div></td></tr>
-<tr><td id="5" class="infoRD"><b>05</b></td><td id="いつか君と迎える夜明け" colspan="2" class="title"><a href="./歌词-いつか君と迎える夜明け.md" title="歌词:いつか君と迎える夜明け">いつか君と迎える夜明け</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=tomoya&amp;vocal=Renka，Possumomo&amp;lyric=Renka&amp;ogmusic=日本中の不思議を集めて&amp;fromwiki=Daydreams_and_Nightscapes"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:14</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./tomoya.md" title="tomoya">tomoya</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，tomoya&amp;fromwiki=Daydreams_and_Nightscapes"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="./Renka.md" title="Renka">Renka</a>，<a href="./Possumomo.md" title="Possumomo">Possumomo</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=Renka，Possumomo&amp;fromwiki=Daydreams_and_Nightscapes"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="./Renka.md" title="Renka">Renka</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?lyric=Renka&amp;fromwiki=Daydreams_and_Nightscapes"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=日本中の不思議を集めて&amp;fromwiki=Daydreams_and_Nightscapes"><span></span></a></span><div class="ogmusic"><a href="./日本中の不思議を集めて.md" class="mw-redirect" title="日本中の不思議を集めて">日本中の不思議を集めて</a></div><div class="source"><a href="./伊奘诺物质_～_Neo-traditionalism_of_Japan..md" class="mw-redirect" title="伊奘诺物质 ～ Neo-traditionalism of Japan.">伊奘诺物质　～ Neo-traditionalism of Japan.</a></div></td></tr></tbody></table>
-
+<table><tbody><tr><td id="1" class="infoRD"><b>01</b></td><td id="朝日をひと切れ" colspan="2" class="title"><a href="./歌词-朝日をひと切れ.md" title="歌词:朝日をひと切れ">朝日をひと切れ</a></td><td class="time">04:31</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./平茸.md" title="平茸">平茸</a></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="./Renka.md" title="Renka">Renka</a></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="./蒼羅杏.md" title="蒼羅杏">蒼羅杏</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./绿意盎然的疗养院.md" class="mw-redirect" title="緑のサナトリウム">緑のサナトリウム</a></div><div class="source"><a href="./伊奘诺物质.md" class="mw-redirect" title="伊奘诺物质 ～ Neo-traditionalism of Japan.">伊奘诺物质　～ Neo-traditionalism of Japan.</a></div></td></tr>
+<tr><td id="2" class="infoRD"><b>02</b></td><td id="或る雨の日の午後" colspan="2" class="title"><a href="./歌词-或る雨の日の午後.md" title="歌词:或る雨の日の午後">或る雨の日の午後</a></td><td class="time">04:45</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./平茸.md" title="平茸">平茸</a></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="./Renka.md" title="Renka">Renka</a></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="./イチ.md" title="イチ">イチ</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./二人不值一提的博物志.md" class="mw-redirect" title="他愛も無い二人の博物誌">他愛も無い二人の博物誌</a></div><div class="source"><a href="./燕石博物志.md" class="mw-redirect" title="燕石博物志 ～ Dr.Latency&#39;s Freak Report.">燕石博物志　～ Dr.Latency's Freak Report.</a></div></td></tr>
+<tr><td id="3" class="infoRD"><b>03</b></td><td id="落陽" colspan="2" class="title"><a href="./歌词-落陽（Echollapsar）.md" title="歌词:落陽（Echollapsar）">落陽</a></td><td class="time">04:18</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./平茸.md" title="平茸">平茸</a></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="./Terasty.md" title="Terasty">Terasty</a></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="./イチ.md" title="イチ">イチ</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./宿醉者的同床异梦.md" class="mw-redirect" title="二日酔いの同床異夢">二日酔いの同床異夢</a></div><div class="source"><a href="./旧约酒馆.md" class="mw-redirect" title="旧约酒馆 ～ Dateless Bar &quot;Old Adam&quot;.">旧约酒馆　～ Dateless Bar "Old Adam".</a></div></td></tr>
+<tr><td id="4" class="infoRD"><b>04</b></td><td id="深更のアヴァロン" colspan="2" class="title"><a href="./歌词-深更のアヴァロン.md" title="歌词:深更のアヴァロン">深更のアヴァロン</a></td><td class="time">04:00</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./RD-Sounds.md" title="RD-Sounds">RD-Sounds</a></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="./Terasty.md" title="Terasty">Terasty</a></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="./RD-Sounds.md" title="RD-Sounds">RD-Sounds</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./Bar·Old_Adam.md" class="mw-redirect" title="バー・オールドアダム">バー・オールドアダム</a></div><div class="source"><a href="./旧约酒馆.md" class="mw-redirect" title="旧约酒馆 ～ Dateless Bar &quot;Old Adam&quot;.">旧约酒馆　～ Dateless Bar "Old Adam".</a></div></td></tr>
+<tr><td id="5" class="infoRD"><b>05</b></td><td id="いつか君と迎える夜明け" colspan="2" class="title"><a href="./歌词-いつか君と迎える夜明け.md" title="歌词:いつか君と迎える夜明け">いつか君と迎える夜明け</a></td><td class="time">04:14</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./tomoya.md" title="tomoya">tomoya</a></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="./Renka.md" title="Renka">Renka</a>，<a href="./Possumomo.md" title="Possumomo">Possumomo</a></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="./Renka.md" title="Renka">Renka</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./收集日本各地的不可思议.md" class="mw-redirect" title="日本中の不思議を集めて">日本中の不思議を集めて</a></div><div class="source"><a href="./伊奘诺物质.md" class="mw-redirect" title="伊奘诺物质 ～ Neo-traditionalism of Japan.">伊奘诺物质　～ Neo-traditionalism of Japan.</a></div></td></tr></tbody></table>
 
 
 ## 评论
-
   
 明日晴れたら会いに行くから ありふれた日々の続きをずっと  
 
-Echollapsarの秘封オンリーボーカルアレンジCD第4弾。いつか来る夜明けは、君と一緒に迎えたい…
-  
-
-
-
-
-
-
+Echollapsarの秘封オンリーボーカルアレンジCD第4弾。いつか来る夜明けは、君と一緒に迎えたい…  
 
 ---
 

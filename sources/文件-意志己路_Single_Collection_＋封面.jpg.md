@@ -1,6 +1,6 @@
 # 文件:意志己路_Single_Collection_＋封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a0\ns6%3A%E6%84%8F%E5%BF%97%E5%B7%B1%E8%B7%AF_Single_Collection_%EF%BC%8B%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a0\ns6%3A%E6%84%8F%E5%BF%97%E5%B7%B1%E8%B7%AF_Single_Collection_%EF%BC%8B%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 AbsoЯute_Zero | 专辑封面 | 封面图片
 
@@ -10,11 +10,13 @@ AbsoЯute_Zero | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [意志己路 Single Collection ＋](./意志己路_Single_Collection_＋.md)  
-该封面包含的角色：- [八云紫](./八云紫.md)- [射命丸文](./射命丸文.md)- [古明地觉](./古明地觉.md)- [克劳恩皮丝](./克劳恩皮丝.md)- [埴安神袿姬](./埴安神袿姬.md)- [吉吊八千慧](./吉吊八千慧.md)
-
-
-
+- [意志己路 Single Collection ＋](./意志己路_Single_Collection_＋.md)该封面包含的角色：
+- [八云紫](./八云紫.md)
+- [射命丸文](./射命丸文.md)
+- [古明地觉](./古明地觉.md)
+- [克劳恩皮丝](./克劳恩皮丝.md)
+- [埴安神袿姬](./埴安神袿姬.md)
+- [吉吊八千慧](./吉吊八千慧.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:TOHO_CHAOS_MIX封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0a\ns6%3ATOHO_CHAOS_MIX%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0a\ns6%3ATOHO_CHAOS_MIX%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 CHAOS_MIXER | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ CHAOS_MIXER | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [TOHO CHAOS MIX](./TOHO_CHAOS_MIX.md)  
-该封面包含的角色：- [八云紫](./八云紫.md)
-
-
-
+- [TOHO CHAOS MIX](./TOHO_CHAOS_MIX.md)该封面包含的角色：
+- [八云紫](./八云紫.md)
 
 
 ---

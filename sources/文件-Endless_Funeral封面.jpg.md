@@ -1,6 +1,6 @@
 # 文件:Endless_Funeral封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\97\ns6%3AEndless_Funeral%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\97\ns6%3AEndless_Funeral%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 KxFxCx | 专辑封面 | 封面图片
 
@@ -13,12 +13,7 @@ KxFxCx | 专辑封面 | 封面图片
 - [Endless Funeral](./Endless_Funeral.md)
 
   
-源地址：[direct image link](https://i1.sndcdn.com/artworks-000611610328-62d7ys-t500x500.jpg), [source track](https://soundcloud.com/sketch-the-fantasy/endless-funeral)
-  
-
-
-
-
+源地址：[direct image link](https://i1.sndcdn.com/artworks-000611610328-62d7ys-t500x500.jpg), [source track](https://soundcloud.com/sketch-the-fantasy/endless-funeral)  
 
 ---
 

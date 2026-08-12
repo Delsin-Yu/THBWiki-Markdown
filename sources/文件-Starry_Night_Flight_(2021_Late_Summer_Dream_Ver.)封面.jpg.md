@@ -1,6 +1,6 @@
 # 文件:Starry_Night_Flight_(2021_Late_Summer_Dream_Ver.)封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\31\ns6%3AStarry_Night_Flight_%282021_Late_Summer_Dream_Ver%2E%29%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\31\ns6%3AStarry_Night_Flight_%282021_Late_Summer_Dream_Ver%2E%29%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 発熱巫女～ず
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Starry Night Flight (2021 Late Summer Dream Ver.)](./Starry_Night_Flight_(2021_Late_Summer_Dream_Ver.).md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [Starry Night Flight (2021 Late Summer Dream Ver.)](./Starry_Night_Flight_(2021_Late_Summer_Dream_Ver.%29.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

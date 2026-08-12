@@ -1,6 +1,6 @@
 # 文件:Various_Graffitis3封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5c\ns6%3AVarious_Graffitis3%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5c\ns6%3AVarious_Graffitis3%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Aqua_Cities | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@ Aqua_Cities | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Various Graffitis3](./Various_Graffitis3.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
+- [Various Graffitis3](./Various_Graffitis3.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
   
-[Pixiv artwork ID: 88562191](https://www.pixiv.net/artworks/88562191)
-  
-
-
-
-
+[Pixiv artwork ID: 88562191](https://www.pixiv.net/artworks/88562191)  
 
 ---
 

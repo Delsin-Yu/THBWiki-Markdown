@@ -1,6 +1,6 @@
 # 文件:Yukayuyu-Log封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4e\ns6%3AYukayuyu-Log%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4e\ns6%3AYukayuyu-Log%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Propagator | 同人志封面 | 封面图片
 
@@ -8,11 +8,9 @@ Propagator | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Yukayuyu-Log](./Yukayuyu-Log.md)  
-该封面包含的角色：- [西行寺幽幽子](./西行寺幽幽子.md)- [八云紫](./八云紫.md)
-
-
-
+- [Yukayuyu-Log](./Yukayuyu-Log.md)该封面包含的角色：
+- [西行寺幽幽子](./西行寺幽幽子.md)
+- [八云紫](./八云紫.md)
 
 
 ---

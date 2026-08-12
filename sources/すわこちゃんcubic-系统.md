@@ -1,14 +1,12 @@
 # すわこちゃんcubic/系统
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\e\ee\ns0%3A%E3%81%99%E3%82%8F%E3%81%93%E3%81%A1%E3%82%83%E3%82%93cubic%2F%E7%B3%BB%E7%BB%9F.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\e\ee\ns0%3A%E3%81%99%E3%82%8F%E3%81%93%E3%81%A1%E3%82%83%E3%82%93cubic%2F%E7%B3%BB%E7%BB%9F.html -->
 
 UTG_Software
 
   
 [参考资料1（上半部分是前作，不要搞混……）](http://tieba.baidu.com/p/2154176618).
-[官网，指不定能找到啥东西呢（](http://www.utgsoftware.net/games/suwapyon2/)
-  
-
+[官网，指不定能找到啥东西呢（](http://www.utgsoftware.net/games/suwapyon2/)  
 
 ## 目录
 
@@ -18,19 +16,15 @@ UTG_Software
 - [4 画面要素](#画面要素)
 - [5 难度说明](#难度说明)
 - [6 自机](#自机)
-
   - [6.1 广范围](#广范围)
   - [6.2 前方集中](#前方集中)
 
 
-
 - [7 道具说明](#道具说明)
 - [8 特殊系统](#特殊系统)
-
   - [8.1 SHIELD（护盾）](#SHIELD（护盾）)
   - [8.2 autobomb](#autobomb)
   - [8.3 地形](#地形)
-
 
 
 - [9 隐藏路线](#隐藏路线)
@@ -38,11 +32,8 @@ UTG_Software
 - [11 基本思路](#基本思路)
 
 
-
-
-
 ## 环境设定
-[](./文件-すわこちゃんcubic系统说明1.jpg.md)
+<img alt="すわこちゃんcubic系统说明1.jpg" src="https://upload.thwiki.cc/thumb/c/c4/%E3%81%99%E3%82%8F%E3%81%93%E3%81%A1%E3%82%83%E3%82%93cubic%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E1.jpg/300px-%E3%81%99%E3%82%8F%E3%81%93%E3%81%A1%E3%82%83%E3%82%93cubic%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E1.jpg" decoding="async" loading="lazy" width="300" height="358" srcset="https://upload.thwiki.cc/c/c4/%E3%81%99%E3%82%8F%E3%81%93%E3%81%A1%E3%82%83%E3%82%93cubic%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E1.jpg 1.5x" data-file-width="422" data-file-height="504">
   
 如果不使用app转码打开可能会出现乱码，不过没什么影响
   
@@ -56,10 +47,8 @@ UTG_Software
 左下按钮为打开replay存放文件夹,右下角按钮为开始游戏.
   
 
-
-
 ## 菜单界面
-[](./文件-すわこちゃんcubic系统说明2.jpg.md)
+<img alt="すわこちゃんcubic系统说明2.jpg" src="https://upload.thwiki.cc/thumb/7/7e/%E3%81%99%E3%82%8F%E3%81%93%E3%81%A1%E3%82%83%E3%82%93cubic%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E2.jpg/300px-%E3%81%99%E3%82%8F%E3%81%93%E3%81%A1%E3%82%83%E3%82%93cubic%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E2.jpg" decoding="async" loading="lazy" width="300" height="225" srcset="https://upload.thwiki.cc/thumb/7/7e/%E3%81%99%E3%82%8F%E3%81%93%E3%81%A1%E3%82%83%E3%82%93cubic%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E2.jpg/450px-%E3%81%99%E3%82%8F%E3%81%93%E3%81%A1%E3%82%83%E3%82%93cubic%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E2.jpg 1.5x, https://upload.thwiki.cc/7/7e/%E3%81%99%E3%82%8F%E3%81%93%E3%81%A1%E3%82%83%E3%82%93cubic%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E2.jpg 2x" data-file-width="580" data-file-height="435">
   
 从上到下依次为：
   
@@ -87,8 +76,6 @@ CG，音乐
   
 退出
   
-
-
 
 ## 基本操作
   
@@ -119,9 +106,8 @@ wasd可以调节游戏视角
 此外还有2D自由视角和3D自由视角,在后两种视角中可以通过方向键进行视角调整。
   
 
-
 ## 画面要素
-[](./文件-すわこちゃんcubic系统说明3.jpg.md)
+<img alt="すわこちゃんcubic系统说明3.jpg" src="https://upload.thwiki.cc/thumb/5/59/%E3%81%99%E3%82%8F%E3%81%93%E3%81%A1%E3%82%83%E3%82%93cubic%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E3.jpg/300px-%E3%81%99%E3%82%8F%E3%81%93%E3%81%A1%E3%82%83%E3%82%93cubic%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E3.jpg" decoding="async" loading="lazy" width="300" height="225" srcset="https://upload.thwiki.cc/thumb/5/59/%E3%81%99%E3%82%8F%E3%81%93%E3%81%A1%E3%82%83%E3%82%93cubic%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E3.jpg/450px-%E3%81%99%E3%82%8F%E3%81%93%E3%81%A1%E3%82%83%E3%82%93cubic%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E3.jpg 1.5x, https://upload.thwiki.cc/5/59/%E3%81%99%E3%82%8F%E3%81%93%E3%81%A1%E3%82%83%E3%82%93cubic%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E3.jpg 2x" data-file-width="580" data-file-height="435">
   
 游戏界面如图
 左上角的内容从上到下依次为：
@@ -136,10 +122,8 @@ wasd可以调节游戏视角
 
   
 右下角的是当前fps
-左下角是shield槽 (未找到链接)。
+左下角是[shield槽](./すわこちゃんcubic-系统.md#SHIELD（护盾）)。
   
-
-
 
 ## 难度说明
   
@@ -154,7 +138,6 @@ wasd可以调节游戏视角
   
 另外还有一个教学关（Tutorial）。
   
-
 
 <table>
 
@@ -206,7 +189,6 @@ wasd可以调节游戏视角
 </td></tr></tbody></table>
 
 
-
 ## 自机
 
 ### 广范围
@@ -233,29 +215,22 @@ bomb：增加一个bomb
 所有道具在距离自机小于一定范围时被自动吸收
   
 
-
 ## 特殊系统
 
 ### SHIELD（护盾）
-[](./文件-すわこちゃんcubic系统说明4.jpg.md)
+<img alt="すわこちゃんcubic系统说明4.jpg" src="https://upload.thwiki.cc/thumb/8/89/%E3%81%99%E3%82%8F%E3%81%93%E3%81%A1%E3%82%83%E3%82%93cubic%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E4.jpg/300px-%E3%81%99%E3%82%8F%E3%81%93%E3%81%A1%E3%82%83%E3%82%93cubic%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E4.jpg" decoding="async" loading="lazy" width="300" height="29" srcset="https://upload.thwiki.cc/thumb/8/89/%E3%81%99%E3%82%8F%E3%81%93%E3%81%A1%E3%82%83%E3%82%93cubic%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E4.jpg/450px-%E3%81%99%E3%82%8F%E3%81%93%E3%81%A1%E3%82%83%E3%82%93cubic%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E4.jpg 1.5x, https://upload.thwiki.cc/8/89/%E3%81%99%E3%82%8F%E3%81%93%E3%81%A1%E3%82%83%E3%82%93cubic%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E4.jpg 2x" data-file-width="554" data-file-height="53">
   
 在shield槽满时（即下边的数值为100%时），中弹时会自动触发一次护盾并清空shield槽，效果为全屏幕瞬间消弹，自机短时间无敌。
   
   
-shield槽会随着时间的推移自动回复（最大值显示为100%，内部数据为1000000）， **获得消弹道具** （bomb，收卡，护盾消弹所得的☆道具）以及 **擦弹** 可以迅速回复shield槽。
+shield槽会随着时间的推移自动回复（最大值显示为100%，内部数据为1000000），**获得消弹道具**（bomb，收卡，护盾消弹所得的☆道具）以及**擦弹**可以迅速回复shield槽。
   
   
- **shield+** 
-  
-
+**shield+**  
 : 代表shield槽每一帧的自动回复量（1s=60f）。初始值为400，在满power状态下获得power道具可以增加这一数值。
 : 每增加1点shield+数据需要的P点为[(shield+)/100-2]个,小数部分省略。
-
   
- **bomb以及shield触发后，自机暂时无法获得擦弹计数。但这个时间比起自机的无敌时间要略短一点点，高难度下在shield增加速度比较快而且弹幕比较密的一些场合，可以通过一直紧贴发弹点擦弹无限触发shield的方式无消耗通过一些难点弹幕，这一方法也适用于打分的安定混擦弹。** 
-  
-
-
+**bomb以及shield触发后，自机暂时无法获得擦弹计数。但这个时间比起自机的无敌时间要略短一点点，高难度下在shield增加速度比较快而且弹幕比较密的一些场合，可以通过一直紧贴发弹点擦弹无限触发shield的方式无消耗通过一些难点弹幕，这一方法也适用于打分的安定混擦弹。**  
 
 ### autobomb
   
@@ -265,9 +240,8 @@ shield槽会随着时间的推移自动回复（最大值显示为100%，内部�
 中弹时优先判定是否使用被弹bomb，之后才是autobomb。
   
 
-
 ### 地形
-[](./文件-すわこちゃんcubic系统说明5.jpg.md)
+<img alt="すわこちゃんcubic系统说明5.jpg" src="https://upload.thwiki.cc/thumb/f/fd/%E3%81%99%E3%82%8F%E3%81%93%E3%81%A1%E3%82%83%E3%82%93cubic%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E5.jpg/300px-%E3%81%99%E3%82%8F%E3%81%93%E3%81%A1%E3%82%83%E3%82%93cubic%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E5.jpg" decoding="async" loading="lazy" width="300" height="203" srcset="https://upload.thwiki.cc/thumb/f/fd/%E3%81%99%E3%82%8F%E3%81%93%E3%81%A1%E3%82%83%E3%82%93cubic%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E5.jpg/450px-%E3%81%99%E3%82%8F%E3%81%93%E3%81%A1%E3%82%83%E3%82%93cubic%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E5.jpg 1.5x, https://upload.thwiki.cc/f/fd/%E3%81%99%E3%82%8F%E3%81%93%E3%81%A1%E3%82%83%E3%82%93cubic%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E5.jpg 2x" data-file-width="555" data-file-height="376">
   
 游戏中的版面并不一定是平整的地面，而可能是高低起伏的地形
   
@@ -281,10 +255,7 @@ shield槽会随着时间的推移自动回复（最大值显示为100%，内部�
 如图所示，红色和绿色的弹幕是位于高处的敌人发射的，而蓝色的子弹是位于低处的敌人发射的，受到地形的阻挡。
   
   
- **注意：某些弹幕不会受到地形的阻挡，而是会沿着地形运动。** 
-  
-
-
+**注意：某些弹幕不会受到地形的阻挡，而是会沿着地形运动。**  
 
 ## 隐藏路线
   
@@ -315,7 +286,6 @@ shield槽会随着时间的推移自动回复（最大值显示为100%，内部�
 在FD难度会再增加一个boss
   
 
-
 ## 分数系统
 击破杂鱼
 : 每个10分
@@ -332,7 +302,6 @@ SCB
 结算
 : 无结算分
 
-
 ## 基本思路
   
 对于混关来说，要尽量利用好护盾和自动bomb，可以拼一些比较难的弹幕
@@ -343,10 +312,6 @@ SCB
   
 对于打分，尽量走隐藏线路，在适当的地方主动放bomb炸蓝点也是很好的方法
   
-
-
-
-
 
 ---
 

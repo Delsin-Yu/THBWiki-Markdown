@@ -1,12 +1,8 @@
 # 文件:Quarter_Iceshopbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dd\ns6%3AQuarter_Iceshopbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dd\ns6%3AQuarter_Iceshopbanner%2Epng.html -->
 
 Quarter_Iceshop | 社团LOGO
-
-
-
-
 
 
 ---

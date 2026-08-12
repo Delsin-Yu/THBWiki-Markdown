@@ -1,6 +1,6 @@
 # 文件:東方斑桜_Original_Sound_Track封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\28\ns6%3A%E6%9D%B1%E6%96%B9%E6%96%91%E6%A1%9C_Original_Sound_Track%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\28\ns6%3A%E6%9D%B1%E6%96%B9%E6%96%91%E6%A1%9C_Original_Sound_Track%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 幽々燦々
 
@@ -9,9 +9,6 @@
   
 
 - [東方斑桜 Original Sound Track](./東方斑桜_Original_Sound_Track.md)
-
-
-
 
 
 ---

@@ -1,16 +1,11 @@
 # 文件:ササラヤbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\28\ns6%3A%E3%82%B5%E3%82%B5%E3%83%A9%E3%83%A4banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\28\ns6%3A%E3%82%B5%E3%82%B5%E3%83%A9%E3%83%A4banner%2Ejpg.html -->
 
 ササラヤ | 社团LOGO
 
   
-源地址：[[1]](https://web.archive.org/web/20060621200838im_/http://www.ismusic.ne.jp:80/masa_mitsuki/bn.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://web.archive.org/web/20060621200838im_/http://www.ismusic.ne.jp:80/masa_mitsuki/bn.jpg)  
 
 ---
 

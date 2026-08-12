@@ -1,6 +1,6 @@
 # 文件:BURNING_DESIRE封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ee\ns6%3ABURNING_DESIRE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ee\ns6%3ABURNING_DESIRE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 K2E†Cradle | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ K2E†Cradle | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [BURNING DESIRE](./BURNING_DESIRE.md)  
-该封面包含的角色：- [藤原妹红](./藤原妹红.md)
-
-
-
+- [BURNING DESIRE](./BURNING_DESIRE.md)该封面包含的角色：
+- [藤原妹红](./藤原妹红.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Dolls_of_triple_time_～_Party_of_Waltz_and_Rond_～封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bf\ns6%3ADolls_of_triple_time_%EF%BD%9E_Party_of_Waltz_and_Rond_%EF%BD%9E%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bf\ns6%3ADolls_of_triple_time_%EF%BD%9E_Party_of_Waltz_and_Rond_%EF%BD%9E%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Stardust.Memories | 专辑封面 | 封面图片
 
@@ -8,10 +8,7 @@ Stardust.Memories | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Dolls of triple time ～ Party of Waltz and Rond ～](./Dolls_of_triple_time_～_Party_of_Waltz_and_Rond_～.md)源地址：[[1]](http://stardustmemories.web.fc2.com/works/images/CDSAMPLE004.png)
-
-
-
+- [Dolls of triple time ～ Party of Waltz and Rond ～](./Dolls_of_triple_time_～_Party_of_Waltz_and_Rond_～.md)源地址：[\[1\]](http://stardustmemories.web.fc2.com/works/images/CDSAMPLE004.png)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:东方刚欲异闻秋体验版disc.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c6\ns6%3A%E4%B8%9C%E6%96%B9%E5%88%9A%E6%AC%B2%E5%BC%82%E9%97%BB%E7%A7%8B%E4%BD%93%E9%AA%8C%E7%89%88disc%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c6\ns6%3A%E4%B8%9C%E6%96%B9%E5%88%9A%E6%AC%B2%E5%BC%82%E9%97%BB%E7%A7%8B%E4%BD%93%E9%AA%8C%E7%89%88disc%2Epng.html -->
 
 东方刚欲异闻 | 官方游戏体验版光盘扫图
 
@@ -12,19 +12,14 @@
 <tbody><tr>
 <td style="padding: 2px 0 2px 0.5em"><a href="./文件-Icon-info.png.md" class="image"><img alt="Icon-info.png" src="https://upload.thwiki.cc/5/57/Icon-info.png" decoding="async" loading="lazy" width="50" height="50" data-file-width="50" data-file-height="50"></a>
 </td>
-<td style="padding: 0.25em 0.5em"><div style="color: Black; font-weight: bold;">本图片为THBWiki编辑者<a href="/%E7%94%A8%E6%88%B7:%E8%B4%BE%E5%AE%9D%E7%8E%89" title="用户:贾宝玉"><img class="useravatar" src="https://avatar.thwiki.cc/thwikicc_wiki_68957_m.jpg?r=1690737201">贾宝玉</a>扫描并上传。<br>一般情况下不建议转载，如若转载则必须注明出处与本页面地址。</div>
+<td style="padding: 0.25em 0.5em"><div style="color: Black; font-weight: bold;">本图片为THBWiki编辑者<a title="用户:贾宝玉"><img class="useravatar" src="https://avatar.thwiki.cc/thwikicc_wiki_68957_m.jpg?r=1690737201">贾宝玉</a>扫描并上传。<br>一般情况下不建议转载，如若转载则必须注明出处与本页面地址。</div>
 </td></tr></tbody></table>
-
 
   
   
  
 ​​
   
-
-
-
-
 
 ---
 

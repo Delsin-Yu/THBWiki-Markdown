@@ -1,12 +1,8 @@
 # 文件:若鹭姬（辉针城立绘）pr.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e7\ns6%3A%E8%8B%A5%E9%B9%AD%E5%A7%AC%EF%BC%88%E8%BE%89%E9%92%88%E5%9F%8E%E7%AB%8B%E7%BB%98%EF%BC%89pr%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e7\ns6%3A%E8%8B%A5%E9%B9%AD%E5%A7%AC%EF%BC%88%E8%BE%89%E9%92%88%E5%9F%8E%E7%AB%8B%E7%BB%98%EF%BC%89pr%2Epng.html -->
 
 ZUN绘 | 东方辉针城 | 官方游戏立绘 | 若鹭姬
-
-
-
-
 
 
 ---

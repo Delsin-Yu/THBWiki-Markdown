@@ -1,6 +1,6 @@
 # 文件:Marionette_Kiss_-_Pomponne_soli封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\26\ns6%3AMarionette_Kiss_-_Pomponne_soli%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\26\ns6%3AMarionette_Kiss_-_Pomponne_soli%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Golden_City_Factory | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Golden_City_Factory | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Marionette Kiss - Pomponne soli](./Marionette_Kiss_-_Pomponne_soli.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
-
-
-
+- [Marionette Kiss - Pomponne soli](./Marionette_Kiss_-_Pomponne_soli.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
 
 
 ---

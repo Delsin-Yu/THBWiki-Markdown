@@ -1,6 +1,6 @@
 # 文件:no_idea_ver.1.5封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\33\ns6%3Ano_idea_ver%2E1%2E5%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\33\ns6%3Ano_idea_ver%2E1%2E5%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Music_Takes_Karma | 专辑封面 | 封面图片
 
@@ -8,11 +8,10 @@ Music_Takes_Karma | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [no idea ver.1.5](./no_idea_ver.1.5.md)  
-该封面包含的角色：- [露娜切露德](./露娜切露德.md)- [桑尼米尔克](./桑尼米尔克.md)- [斯塔萨菲雅](./斯塔萨菲雅.md)
-
-
-
+- [no idea ver.1.5](./no_idea_ver.1.5.md)该封面包含的角色：
+- [露娜切露德](./露娜切露德.md)
+- [桑尼米尔克](./桑尼米尔克.md)
+- [斯塔萨菲雅](./斯塔萨菲雅.md)
 
 
 ---

@@ -1,53 +1,41 @@
 # Bianca（airdrop）
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\9\93\ns0%3ABianca%EF%BC%88airdrop%EF%BC%89.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\9\93\ns0%3ABianca%EF%BC%88airdrop%EF%BC%89.html -->
 
 2019年5月5日 由 airdrop 于 博丽神社例大祭16 发布的画集/总集同人志，B5尺寸一共20页，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人志 (未找到链接)** 的词条
-
+**[二次创作同人志](./二次创作.md#同人志)**的词条
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Bianca（airdrop）封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/8/86/Bianca%EF%BC%88airdrop%EF%BC%89%E5%B0%81%E9%9D%A2.png/140px-Bianca%EF%BC%88airdrop%EF%BC%89%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="140" height="196" srcset="https://upload.thwiki.cc/thumb/8/86/Bianca%EF%BC%88airdrop%EF%BC%89%E5%B0%81%E9%9D%A2.png/210px-Bianca%EF%BC%88airdrop%EF%BC%89%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/8/86/Bianca%EF%BC%88airdrop%EF%BC%89%E5%B0%81%E9%9D%A2.png/280px-Bianca%EF%BC%88airdrop%EF%BC%89%E5%B0%81%E9%9D%A2.png 2x" data-file-width="643" data-file-height="900"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></div></td>
 </tr><tr><td class="label">名称</td><td colspan="2"> Bianca </td></tr><tr><td class="label">制作方</td><td><a href="./airdrop.md" title="airdrop">airdrop</a></td><td class="cover-artwork" rowspan="7" style="min-width:196px;"><a href="./文件-Bianca（airdrop）封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/8/86/Bianca%EF%BC%88airdrop%EF%BC%89%E5%B0%81%E9%9D%A2.png/140px-Bianca%EF%BC%88airdrop%EF%BC%89%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="140" height="196" srcset="https://upload.thwiki.cc/thumb/8/86/Bianca%EF%BC%88airdrop%EF%BC%89%E5%B0%81%E9%9D%A2.png/210px-Bianca%EF%BC%88airdrop%EF%BC%89%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/8/86/Bianca%EF%BC%88airdrop%EF%BC%89%E5%B0%81%E9%9D%A2.png/280px-Bianca%EF%BC%88airdrop%EF%BC%89%E5%B0%81%E9%9D%A2.png 2x" data-file-width="643" data-file-height="900"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2019-05-05&#160;（<a href="/展会作品列表?e=%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD%2316">第十六回 博麗神社例大祭</a>）</td></tr><tr><td class="label">类型</td><td>画集，总集</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>B5</td></tr><tr><td class="label">页数</td><td>20P</td></tr><tr><td class="label">售价</td><td>会场售价：500日元<br>通贩售价：600日元</td></tr>
-<tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/member_illust.php?mode=medium&amp;illust_id=74541017">https://www.pixiv.net/member_illust.php?mode=medium&amp;illust_id=74541017</a></td></tr></tbody></table>
+</tr><tr><td class="label">首发日期</td><td>2019-05-05 （<a href="./展会作品列表.md#16">第十六回 博麗神社例大祭</a>）</td></tr><tr><td class="label">类型</td><td>画集，总集</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>B5</td></tr><tr><td class="label">页数</td><td>20P</td></tr><tr><td class="label">售价</td><td>会场售价：500日元<br>通贩售价：600日元</td></tr>
+<tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/member_illust.php?mode=medium&illust_id=74541017">https://www.pixiv.net/member_illust.php?mode=medium&illust_id=74541017</a></td></tr></tbody></table>
 
 Bianca（同人志，airdrop，2019） - 2019年5月5日 由 airdrop 于 博丽神社例大祭16 发布的画集/总集同人志，B5尺寸一共20页，分级为 一般向
-
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=490210">蜜瓜特典版</a></td></tr></tbody></table>
 
 
-
 ## 特典
-- 特典版：A4文件夹（蜜瓜委托限定）  
-特典版：A4クリアファイル(メロンブックス委託のみ)
 
-- [](./文件-Bianca特典文件夹.jpg.md)特典文件夹
+- 特典版：A4文件夹（蜜瓜委托限定）特典版：A4クリアファイル(メロンブックス委託のみ)
+
+
+- <img alt="特典文件夹" src="https://upload.thwiki.cc/thumb/1/1a/Bianca%E7%89%B9%E5%85%B8%E6%96%87%E4%BB%B6%E5%A4%B9.jpg/120px-Bianca%E7%89%B9%E5%85%B8%E6%96%87%E4%BB%B6%E5%A4%B9.jpg" decoding="async" loading="lazy" width="120" height="85" srcset="https://upload.thwiki.cc/thumb/1/1a/Bianca%E7%89%B9%E5%85%B8%E6%96%87%E4%BB%B6%E5%A4%B9.jpg/180px-Bianca%E7%89%B9%E5%85%B8%E6%96%87%E4%BB%B6%E5%A4%B9.jpg 1.5x, https://upload.thwiki.cc/thumb/1/1a/Bianca%E7%89%B9%E5%85%B8%E6%96%87%E4%BB%B6%E5%A4%B9.jpg/240px-Bianca%E7%89%B9%E5%85%B8%E6%96%87%E4%BB%B6%E5%A4%B9.jpg 2x" data-file-width="450" data-file-height="317"> 特典文件夹
 
 
 ## Staff
+
 - [鳥居すみ](./鳥居すみ.md)
 
 
 ## 评论
-
   
 airdrop6年ぶりのフルカラーイラスト本です。  
 
 描き下ろし多めでお送りします。
   
-
-
-  
-  
-
-  
-
-
-
-
 
 ---
 

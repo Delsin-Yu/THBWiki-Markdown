@@ -1,6 +1,6 @@
 # 文件:Shoot!_BeatReporter!_Vol.4封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\39\ns6%3AShoot%21_BeatReporter%21_Vol%2E4%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\39\ns6%3AShoot%21_BeatReporter%21_Vol%2E4%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 3S_Cubic | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@
   
 
 - [Shoot! BeatReporter! Vol.4](./Shoot!_BeatReporter!_Vol.4.md)
-
-
-
 
 
 ---

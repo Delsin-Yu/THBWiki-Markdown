@@ -1,12 +1,8 @@
 # 文件:雾雨魔理沙（神灵庙立绘）sp.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8f\ns6%3A%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%EF%BC%88%E7%A5%9E%E7%81%B5%E5%BA%99%E7%AB%8B%E7%BB%98%EF%BC%89sp%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8f\ns6%3A%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%EF%BC%88%E7%A5%9E%E7%81%B5%E5%BA%99%E7%AB%8B%E7%BB%98%EF%BC%89sp%2Epng.html -->
 
 ZUN绘 | 东方神灵庙 | 官方游戏立绘 | 雾雨魔理沙
-
-
-
-
 
 
 ---

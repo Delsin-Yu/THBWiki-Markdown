@@ -1,18 +1,13 @@
 # 文件:追憶サーキットlogo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0b\ns6%3A%E8%BF%BD%E6%86%B6%E3%82%B5%E3%83%BC%E3%82%AD%E3%83%83%E3%83%88logo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0b\ns6%3A%E8%BF%BD%E6%86%B6%E3%82%B5%E3%83%BC%E3%82%AD%E3%83%83%E3%83%88logo%2Ejpg.html -->
 
 社团LOGO | 追憶サーキット
 
 
 ## 文件说明
   
-源地址：[[1]](https://f4.bcbits.com/img/0020135378_10.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://f4.bcbits.com/img/0020135378_10.jpg)  
 
 ---
 

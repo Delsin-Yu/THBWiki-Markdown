@@ -1,12 +1,8 @@
 # 文件:ZWEIbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3c\ns6%3AZWEIbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3c\ns6%3AZWEIbanner%2Ejpg.html -->
 
 Zwei | 社团LOGO
-
-
-
-
 
 
 ---

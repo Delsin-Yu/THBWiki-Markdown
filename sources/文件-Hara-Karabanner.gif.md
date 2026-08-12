@@ -1,12 +1,8 @@
 # 文件:Hara-Karabanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0c\ns6%3AHara-Karabanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0c\ns6%3AHara-Karabanner%2Egif.html -->
 
 Hara-Kara | 社团LOGO
-
-
-
-
 
 
 ---

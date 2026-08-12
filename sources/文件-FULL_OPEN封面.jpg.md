@@ -1,6 +1,6 @@
 # 文件:FULL_OPEN封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\db\ns6%3AFULL_OPEN%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\db\ns6%3AFULL_OPEN%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Pilsner | 专辑封面 | 封面图片
 
@@ -10,17 +10,12 @@ Pilsner | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [FULL OPEN](./FULL_OPEN.md)  
-该封面包含的角色：- [洩矢诹访子](./洩矢诹访子.md)
+- [FULL OPEN](./FULL_OPEN.md)该封面包含的角色：
+- [洩矢诹访子](./洩矢诹访子.md)
 
   
 原地址：<img src="https://i1.sndcdn.com/avatars-000333864924-05oymx-t500x500.jpg" alt="avatars-000333864924-05oymx-t500x500.jpg">
-
   
-
-
-
-
 
 ---
 

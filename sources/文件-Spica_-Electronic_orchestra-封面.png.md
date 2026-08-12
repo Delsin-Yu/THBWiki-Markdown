@@ -1,6 +1,6 @@
 # 文件:Spica_-Electronic_orchestra-封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ea\ns6%3ASpica_-Electronic_orchestra-%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ea\ns6%3ASpica_-Electronic_orchestra-%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 TEAM_AMULET | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ TEAM_AMULET | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Spica -Electronic orchestra-](./Spica_-Electronic_orchestra-.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
-
-
-
+- [Spica -Electronic orchestra-](./Spica_-Electronic_orchestra-.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
 
 
 ---

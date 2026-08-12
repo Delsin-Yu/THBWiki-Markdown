@@ -1,16 +1,12 @@
 # 模板:techtail
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\1\15\ns10%3Atechtail.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\1\15\ns10%3Atechtail.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

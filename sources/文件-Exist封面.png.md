@@ -1,6 +1,6 @@
 # 文件:Exist封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c2\ns6%3AExist%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c2\ns6%3AExist%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 ナトリニウム | 专辑封面 | 封面图片
 
@@ -8,16 +8,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [Exist](./Exist.md)  
-该封面包含的角色：- [古明地觉](./古明地觉.md)- [古明地恋](./古明地恋.md)
+- [Exist](./Exist.md)该封面包含的角色：
+- [古明地觉](./古明地觉.md)
+- [古明地恋](./古明地恋.md)
 
   
-源地址：[[1]](http://cdn-ak.f.st-hatena.com/images/fotolife/s/seascorpion/20131203/20131203235024.png)
-  
-
-
-
-
+源地址：[\[1\]](http://cdn-ak.f.st-hatena.com/images/fotolife/s/seascorpion/20131203/20131203235024.png)  
 
 ---
 

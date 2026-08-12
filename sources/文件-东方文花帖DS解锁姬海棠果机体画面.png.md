@@ -1,14 +1,11 @@
 # 文件:东方文花帖DS解锁姬海棠果机体画面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\85\ns6%3A%E4%B8%9C%E6%96%B9%E6%96%87%E8%8A%B1%E5%B8%96DS%E8%A7%A3%E9%94%81%E5%A7%AC%E6%B5%B7%E6%A3%A0%E6%9E%9C%E6%9C%BA%E4%BD%93%E7%94%BB%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\85\ns6%3A%E4%B8%9C%E6%96%B9%E6%96%87%E8%8A%B1%E5%B8%96DS%E8%A7%A3%E9%94%81%E5%A7%AC%E6%B5%B7%E6%A3%A0%E6%9E%9C%E6%9C%BA%E4%BD%93%E7%94%BB%E9%9D%A2%2Epng.html -->
 
 东方文花帖DS结局图
 
 
 ## 摘要
-
-
-
 
 ---
 

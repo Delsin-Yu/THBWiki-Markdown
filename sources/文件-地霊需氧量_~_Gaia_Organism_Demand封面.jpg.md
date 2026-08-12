@@ -1,6 +1,6 @@
 # 文件:地霊需氧量_~_Gaia_Organism_Demand封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\61\ns6%3A%E5%9C%B0%E9%9C%8A%E9%9C%80%E6%B0%A7%E9%87%8F_%7E_Gaia_Organism_Demand%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\61\ns6%3A%E5%9C%B0%E9%9C%8A%E9%9C%80%E6%B0%A7%E9%87%8F_%7E_Gaia_Organism_Demand%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 第零研究院
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [地霊需氧量 ~ Gaia Organism Demand](./地霊需氧量_~_Gaia_Organism_Demand.md)  
-该封面包含的角色：- [古明地觉](./古明地觉.md)- [古明地恋](./古明地恋.md)
-
-
-
+- [地霊需氧量 ~ Gaia Organism Demand](./地霊需氧量_~_Gaia_Organism_Demand.md)该封面包含的角色：
+- [古明地觉](./古明地觉.md)
+- [古明地恋](./古明地恋.md)
 
 
 ---

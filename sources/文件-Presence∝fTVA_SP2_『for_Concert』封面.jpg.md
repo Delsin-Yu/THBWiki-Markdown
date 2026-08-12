@@ -1,6 +1,6 @@
 # 文件:Presence∝fTVA_SP2_『for_Concert』封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7f\ns6%3APresence%E2%88%9DfTVA_SP2_%E3%80%8Efor_Concert%E3%80%8F%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7f\ns6%3APresence%E2%88%9DfTVA_SP2_%E3%80%8Efor_Concert%E3%80%8F%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Presence∝fTVA | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ Presence∝fTVA | 专辑封面 | 封面图片
   
 
 - [Presence∝fTVA SP2 『for Concert』](./Presence∝fTVA_SP2_『for_Concert』.md)
-
-
-
 
 
 ---

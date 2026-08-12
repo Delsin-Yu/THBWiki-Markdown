@@ -1,12 +1,8 @@
 # 文件:诹访神秋祭LOGO.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a0\ns6%3A%E8%AF%B9%E8%AE%BF%E7%A5%9E%E7%A7%8B%E7%A5%ADLOGO%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a0\ns6%3A%E8%AF%B9%E8%AE%BF%E7%A5%9E%E7%A7%8B%E7%A5%ADLOGO%2Epng.html -->
 
 活动LOGO | 诹访神秋祭
-
-
-
-
 
 
 ---

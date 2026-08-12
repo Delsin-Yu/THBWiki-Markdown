@@ -1,6 +1,6 @@
 # 文件:秘封活动记录_～_The_Sealed_Esoteric_History._-月-_Staff配音版封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\01\ns6%3A%E7%A7%98%E5%B0%81%E6%B4%BB%E5%8A%A8%E8%AE%B0%E5%BD%95_%EF%BD%9E_The_Sealed_Esoteric_History%2E_-%E6%9C%88-_Staff%E9%85%8D%E9%9F%B3%E7%89%88%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\01\ns6%3A%E7%A7%98%E5%B0%81%E6%B4%BB%E5%8A%A8%E8%AE%B0%E5%BD%95_%EF%BD%9E_The_Sealed_Esoteric_History%2E_-%E6%9C%88-_Staff%E9%85%8D%E9%9F%B3%E7%89%88%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 京都幻想剧团 | 封面图片 | 视频封面
 
@@ -9,9 +9,6 @@
   
 
 - [秘封活动记录 ～ The Sealed Esoteric History. -月- Staff配音版](./秘封活动记录_～_The_Sealed_Esoteric_History._-月-_Staff配音版.md)
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Third_Ensemble：_Noir封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\53\ns6%3AThird_Ensemble%EF%BC%9A_Noir%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\53\ns6%3AThird_Ensemble%EF%BC%9A_Noir%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Alstroemeria_Records | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ Alstroemeria_Records | 专辑封面 | 封面图片
   
 
 - [Third Ensemble： Noir](./Third_Ensemble：_Noir.md)
-
-
-
 
 
 ---

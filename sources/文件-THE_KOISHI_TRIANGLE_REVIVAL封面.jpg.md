@@ -1,6 +1,6 @@
 # 文件:THE_KOISHI_TRIANGLE_REVIVAL封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8f\ns6%3ATHE_KOISHI_TRIANGLE_REVIVAL%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8f\ns6%3ATHE_KOISHI_TRIANGLE_REVIVAL%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ネジロメイション! | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [THE KOISHI TRIANGLE REVIVAL](./THE_KOISHI_TRIANGLE_REVIVAL.md)  
-该封面包含的角色：- [古明地恋](./古明地恋.md)
-
-
-
+- [THE KOISHI TRIANGLE REVIVAL](./THE_KOISHI_TRIANGLE_REVIVAL.md)该封面包含的角色：
+- [古明地恋](./古明地恋.md)
 
 
 ---

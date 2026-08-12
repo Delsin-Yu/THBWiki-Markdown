@@ -1,6 +1,6 @@
 # 文件:a_Puppet_Show_終幕_雛流し封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a4\ns6%3Aa_Puppet_Show_%E7%B5%82%E5%B9%95_%E9%9B%9B%E6%B5%81%E3%81%97%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a4\ns6%3Aa_Puppet_Show_%E7%B5%82%E5%B9%95_%E9%9B%9B%E6%B5%81%E3%81%97%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 しぐれえび | 同人志封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [a Puppet Show 終幕 雛流し](./a_Puppet_Show_終幕_雛流し.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
-
-
-
+- [a Puppet Show 終幕 雛流し](./a_Puppet_Show_終幕_雛流し.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
 
 
 ---

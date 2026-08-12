@@ -1,6 +1,6 @@
 # 文件:nine封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\43\ns6%3Anine%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\43\ns6%3Anine%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 オランジュ停留所 | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [nine](./nine.md)  
-该封面包含的角色：- [东风谷早苗](./东风谷早苗.md)
-
-
-
+- [nine](./nine.md)该封面包含的角色：
+- [东风谷早苗](./东风谷早苗.md)
 
 
 ---

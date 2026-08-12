@@ -1,6 +1,6 @@
 # 文件:Planetarium封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d0\ns6%3APlanetarium%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d0\ns6%3APlanetarium%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 REVERIE | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@ REVERIE | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Planetarium](./Planetarium.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [Planetarium](./Planetarium.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
   
-源地址：[direct image link (max size)](https://s2.booth.pm/861a30e4-808c-43f4-9b22-568dfa928dec/i/168118/621714f6-326f-4a80-b387-08abc101f250.jpg), [source page (circle booth)](https://reverie.booth.pm/items/168118)
-  
-
-
-
-
+源地址：[direct image link (max size)](https://s2.booth.pm/861a30e4-808c-43f4-9b22-568dfa928dec/i/168118/621714f6-326f-4a80-b387-08abc101f250.jpg), [source page (circle booth)](https://reverie.booth.pm/items/168118)  
 
 ---
 

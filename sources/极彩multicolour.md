@@ -1,12 +1,11 @@
 # 极彩multicolour
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\3\32\ns0%3A%E6%9E%81%E5%BD%A9multicolour.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\3\32\ns0%3A%E6%9E%81%E5%BD%A9multicolour.html -->
 
 2022年10月5日 由 The 495th Complex  发布的TAB同人游戏，可在 通用 系统上运行，游戏人数为 2人以上，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人软件 (未找到链接)** 的词条
-
+**[二次创作同人软件](./二次创作.md#同人软件)**的词条
 ## 游戏信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-极彩multicolour封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/0/0e/%E6%9E%81%E5%BD%A9multicolour%E5%B0%81%E9%9D%A2.png/224px-%E6%9E%81%E5%BD%A9multicolour%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="224" height="126" srcset="https://upload.thwiki.cc/thumb/0/0e/%E6%9E%81%E5%BD%A9multicolour%E5%B0%81%E9%9D%A2.png/336px-%E6%9E%81%E5%BD%A9multicolour%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/0/0e/%E6%9E%81%E5%BD%A9multicolour%E5%B0%81%E9%9D%A2.png/448px-%E6%9E%81%E5%BD%A9multicolour%E5%B0%81%E9%9D%A2.png 2x" data-file-width="2986" data-file-height="1675"></a></td>
@@ -15,8 +14,8 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.multicolor.club/">https://www.multicolor.club/</a></td></tr><tr><td class="label">备注</td><td colspan="2">TCG（Trading Card Game)</td></tr></tbody></table>
 
 极彩multicolour（同人游戏，The 495th Complex，2022） - 2022年10月5日 由 The 495th Complex  发布的TAB同人游戏，可在 通用 系统上运行，游戏人数为 2人以上，分级为 一般向
-
 ## 内容页面
+
 - 官方网站：[The 495th Complex](https://www.multicolor.club/)
 - 官方哔哩哔哩：[https://space.bilibili.com/1629262586](https://space.bilibili.com/1629262586)
 
@@ -25,7 +24,6 @@
   
 此为第一弹极色之景
   
-
 
 <table>
 <caption>发售内容
@@ -46,21 +44,12 @@
 <td><div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="./文件-预组淘宝首图小町.jpg.md" class="image"><img alt="" src="https://upload.thwiki.cc/thumb/1/13/%E9%A2%84%E7%BB%84%E6%B7%98%E5%AE%9D%E9%A6%96%E5%9B%BE%E5%B0%8F%E7%94%BA.jpg/300px-%E9%A2%84%E7%BB%84%E6%B7%98%E5%AE%9D%E9%A6%96%E5%9B%BE%E5%B0%8F%E7%94%BA.jpg" decoding="async" loading="lazy" width="300" height="300" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/1/13/%E9%A2%84%E7%BB%84%E6%B7%98%E5%AE%9D%E9%A6%96%E5%9B%BE%E5%B0%8F%E7%94%BA.jpg/450px-%E9%A2%84%E7%BB%84%E6%B7%98%E5%AE%9D%E9%A6%96%E5%9B%BE%E5%B0%8F%E7%94%BA.jpg 1.5x, https://upload.thwiki.cc/thumb/1/13/%E9%A2%84%E7%BB%84%E6%B7%98%E5%AE%9D%E9%A6%96%E5%9B%BE%E5%B0%8F%E7%94%BA.jpg/600px-%E9%A2%84%E7%BB%84%E6%B7%98%E5%AE%9D%E9%A6%96%E5%9B%BE%E5%B0%8F%E7%94%BA.jpg 2x" data-file-width="785" data-file-height="786"></a>  <div class="thumbcaption"><div class="magnify"><a href="./文件-预组淘宝首图小町.jpg.md" class="internal" title="放大"></a></div>彼岸之花</div></div></div>
 </td></tr></tbody></table>
 
-
   
 共计包含195种类卡片
   
   
 详细卡片内容及预组构成请通过官网查看
   
-  
-  
-
-  
-
-
-
-
 
 ---
 

@@ -1,12 +1,8 @@
 # 文件:诹访子乐园LOGO.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3d\ns6%3A%E8%AF%B9%E8%AE%BF%E5%AD%90%E4%B9%90%E5%9B%ADLOGO%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3d\ns6%3A%E8%AF%B9%E8%AE%BF%E5%AD%90%E4%B9%90%E5%9B%ADLOGO%2Ejpg.html -->
 
 活动LOGO | 诹访子乐园
-
-
-
-
 
 
 ---

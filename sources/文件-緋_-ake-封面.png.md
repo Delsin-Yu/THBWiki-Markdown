@@ -1,6 +1,6 @@
 # 文件:緋_-ake-封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\41\ns6%3A%E7%B7%8B_-ake-%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\41\ns6%3A%E7%B7%8B_-ake-%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 鋲の人
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [緋 -ake-](./緋_-ake-.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [上白泽慧音](./上白泽慧音.md)
-
-
-
+- [緋 -ake-](./緋_-ake-.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [上白泽慧音](./上白泽慧音.md)
 
 
 ---

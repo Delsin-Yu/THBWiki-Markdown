@@ -1,6 +1,6 @@
 # 文件:Lunatic_AriA封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4a\ns6%3ALunatic_AriA%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4a\ns6%3ALunatic_AriA%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 suwawa_Records | 专辑封面 | 封面图片
 
@@ -8,11 +8,10 @@ suwawa_Records | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Lunatic AriA](./Lunatic_AriA.md)  
-该封面包含的角色：- [纯狐](./纯狐.md)- [克劳恩皮丝](./克劳恩皮丝.md)- [赫卡提亚·拉碧斯拉祖利](./赫卡提亚·拉碧斯拉祖利.md)
-
-
-
+- [Lunatic AriA](./Lunatic_AriA.md)该封面包含的角色：
+- [纯狐](./纯狐.md)
+- [克劳恩皮丝](./克劳恩皮丝.md)
+- [赫卡提亚·拉碧斯拉祖利](./赫卡提亚·拉碧斯拉祖利.md)
 
 
 ---

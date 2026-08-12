@@ -1,12 +1,11 @@
 # Pure_Furies_~_Whereabouts_of_the_Heart
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\b7\ns0%3APure_Furies_%7E_Whereabouts_of_the_Heart.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\b7\ns0%3APure_Furies_%7E_Whereabouts_of_the_Heart.html -->
 
 2021年4月19日 由 YaboiMatoi  发布的单曲同人专辑，曲目主要风格是 金属，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人专辑 (未找到链接)** 的词条
-
+**[二次创作同人专辑](./二次创作.md#同人音乐)**的词条
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Pure_Furies_~_Whereabouts_of_the_Heart封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/d/d8/Pure_Furies_~_Whereabouts_of_the_Heart%E5%B0%81%E9%9D%A2.jpg/252px-Pure_Furies_~_Whereabouts_of_the_Heart%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="252" height="252" srcset="https://upload.thwiki.cc/thumb/d/d8/Pure_Furies_~_Whereabouts_of_the_Heart%E5%B0%81%E9%9D%A2.jpg/378px-Pure_Furies_~_Whereabouts_of_the_Heart%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/d/d8/Pure_Furies_~_Whereabouts_of_the_Heart%E5%B0%81%E9%9D%A2.jpg/504px-Pure_Furies_~_Whereabouts_of_the_Heart%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1200" data-file-height="1200"></a></td>
@@ -14,26 +13,22 @@
 </tr><tr><td class="label">首发日期</td><td>2021-04-19</td></tr><tr><td class="label">类型</td><td>单曲</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>1</td></tr><tr><td class="label">总时长</td><td>04:00</td></tr><tr><td class="label">风格类型</td><td>金属</td></tr><tr><td class="label">售价</td><td>通贩售价：1欧元</td></tr></tbody></table>
 
 Pure Furies ~ Whereabouts of the Heart（同人专辑，YaboiMatoi，2021） - 2021年4月19日 由 YaboiMatoi  发布的单曲同人专辑，曲目主要风格是 金属，分级为 一般向
-
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://yaboimatoi.bandcamp.com/track/pure-furies-whereabouts-of-the-heart">bandcamp</a></td></tr></tbody></table>
-
 
 
 ## Staff
   
- **Arrangement**   
+**Arrangement**  
 
 <table><tbody><tr><td><a href="./YaboiMatoi.md" title="YaboiMatoi">YaboiMatoi</a></td><td></td><td>Tr.1</td></tr></tbody></table>
 
   
- **Instrument**   
+**Instrument**  
 
 <table><tbody><tr><td><a href="./YaboiMatoi.md" title="YaboiMatoi">YaboiMatoi</a></td><td></td><td>Tr.1</td></tr></tbody></table>
 
-
 Artwork
 : [YaboiMatoi](./YaboiMatoi.md)
-
 
 ## 试听
 
@@ -46,10 +41,7 @@ Artwork
 <td><iframe width="560" height="315" src="//www.youtube-nocookie.com/embed/dfHfV8XTHnE?" frameborder="0" allowfullscreen=""></iframe>
 </td></tr></tbody></table>
 
-
   
-
-
   
 
 <table>
@@ -58,14 +50,9 @@ Artwork
 </table>
 
 
-
-
-
-
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Pure_Furies_~_Whereabouts_of_the_Heart" colspan="2" class="title">Pure Furies ~ Whereabouts of the Heart<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=YaboiMatoi&amp;ogmusic=ピュアヒューリーズ　～ 心の在処&amp;fromwiki=Pure_Furies_~_Whereabouts_of_the_Heart"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:00</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./YaboiMatoi.md" title="YaboiMatoi">YaboiMatoi</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，YaboiMatoi&amp;fromwiki=Pure_Furies_~_Whereabouts_of_the_Heart"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演奏</td><td class="text" colspan="2">guitar：<a href="./YaboiMatoi.md" title="YaboiMatoi">YaboiMatoi</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=ピュアヒューリーズ　～ 心の在処&amp;fromwiki=Pure_Furies_~_Whereabouts_of_the_Heart"><span></span></a></span><div class="ogmusic"><a href="./ピュアヒューリーズ_～_心の在処.md" class="mw-redirect" title="ピュアヒューリーズ ～ 心の在処">ピュアヒューリーズ　～ 心の在処</a></div><div class="source"><a href="./东方绀珠传_～_Legacy_of_Lunatic_Kingdom..md" class="mw-redirect" title="东方绀珠传 ～ Legacy of Lunatic Kingdom.">东方绀珠传　～ Legacy of Lunatic Kingdom.</a></div></td></tr></tbody></table>
-
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Pure_Furies_~_Whereabouts_of_the_Heart" colspan="2" class="title">Pure Furies ~ Whereabouts of the Heart</td><td class="time">04:00</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./YaboiMatoi.md" title="YaboiMatoi">YaboiMatoi</a></td></tr><tr><td class="left"></td><td class="label">演奏</td><td class="text" colspan="2">guitar：<a href="./YaboiMatoi.md" title="YaboiMatoi">YaboiMatoi</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./Pure_Furies_～_心之所在.md" class="mw-redirect" title="ピュアヒューリーズ ～ 心の在処">ピュアヒューリーズ　～ 心の在処</a></div><div class="source"><a href="./东方绀珠传.md" class="mw-redirect" title="东方绀珠传 ～ Legacy of Lunatic Kingdom.">东方绀珠传　～ Legacy of Lunatic Kingdom.</a></div></td></tr></tbody></table>
 
 
 ## 评论
@@ -78,10 +65,6 @@ I've referenced Pandemonic Planet (Hecatia's Theme) and Pierrot of the Star-Span
 Hope you enjoy! Thank you so much!
 credits
   
-
-
-
-
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:LOST_PARADISE_Demonstration_Disc封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\55\ns6%3ALOST_PARADISE_Demonstration_Disc%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\55\ns6%3ALOST_PARADISE_Demonstration_Disc%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 弦奏水琴乐章
 
@@ -8,11 +8,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [LOST PARADISE Demonstration Disc](./LOST_PARADISE_Demonstration_Disc.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
-
-
-
+- [LOST PARADISE Demonstration Disc](./LOST_PARADISE_Demonstration_Disc.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
 
 
 ---

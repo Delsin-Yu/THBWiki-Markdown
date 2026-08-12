@@ -1,6 +1,6 @@
 # 文件:P@LONE封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\68\ns6%3AP%40LONE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\68\ns6%3AP%40LONE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 SOS_-Sound_of_Swing- | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ SOS_-Sound_of_Swing- | 专辑封面 | 封面图片
   
 
 - [P@LONE](./P@LONE.md)
-
-
-
 
 
 ---

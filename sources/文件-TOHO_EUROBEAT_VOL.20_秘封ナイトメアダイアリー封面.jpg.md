@@ -1,6 +1,6 @@
 # 文件:TOHO_EUROBEAT_VOL.20_秘封ナイトメアダイアリー封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\93\ns6%3ATOHO_EUROBEAT_VOL%2E20_%E7%A7%98%E5%B0%81%E3%83%8A%E3%82%A4%E3%83%88%E3%83%A1%E3%82%A2%E3%83%80%E3%82%A4%E3%82%A2%E3%83%AA%E3%83%BC%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\93\ns6%3ATOHO_EUROBEAT_VOL%2E20_%E7%A7%98%E5%B0%81%E3%83%8A%E3%82%A4%E3%83%88%E3%83%A1%E3%82%A2%E3%83%80%E3%82%A4%E3%82%A2%E3%83%AA%E3%83%BC%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 A-One | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ A-One | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [TOHO EUROBEAT VOL.20 秘封ナイトメアダイアリー](./TOHO_EUROBEAT_VOL.20_秘封ナイトメアダイアリー.md)  
-该封面包含的角色：- [宇佐见堇子](./宇佐见堇子.md)
-
-
-
+- [TOHO EUROBEAT VOL.20 秘封ナイトメアダイアリー](./TOHO_EUROBEAT_VOL.20_秘封ナイトメアダイアリー.md)该封面包含的角色：
+- [宇佐见堇子](./宇佐见堇子.md)
 
 
 ---

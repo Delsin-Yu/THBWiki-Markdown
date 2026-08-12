@@ -1,6 +1,6 @@
 # 文件:Sepher.jp_東方アレンジコレクションI封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\78\ns6%3ASepher%2Ejp_%E6%9D%B1%E6%96%B9%E3%82%A2%E3%83%AC%E3%83%B3%E3%82%B8%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3I%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\78\ns6%3ASepher%2Ejp_%E6%9D%B1%E6%96%B9%E3%82%A2%E3%83%AC%E3%83%B3%E3%82%B8%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3I%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 sound_sepher | 专辑封面 | 封面图片
 
@@ -8,11 +8,12 @@ sound_sepher | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [sepher.jp 東方アレンジコレクションI](./sepher.jp_東方アレンジコレクションI.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- 十六夜咲夜 (未找到链接)- [魂魄妖梦](./魂魄妖梦.md)- [东风谷早苗](./东风谷早苗.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [sepher.jp 東方アレンジコレクションI](./sepher.jp_東方アレンジコレクションI.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [十六夜咲夜](./十六夜咲夜.md)
+- [魂魄妖梦](./魂魄妖梦.md)
+- [东风谷早苗](./东风谷早苗.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

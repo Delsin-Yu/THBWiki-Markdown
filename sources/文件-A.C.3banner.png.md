@@ -1,14 +1,11 @@
 # 文件:A.C.3banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a6\ns6%3AA%2EC%2E3banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a6\ns6%3AA%2EC%2E3banner%2Epng.html -->
 
 A.C.3 | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

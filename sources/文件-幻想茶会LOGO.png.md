@@ -1,12 +1,8 @@
 # 文件:幻想茶会LOGO.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6b\ns6%3A%E5%B9%BB%E6%83%B3%E8%8C%B6%E4%BC%9ALOGO%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6b\ns6%3A%E5%B9%BB%E6%83%B3%E8%8C%B6%E4%BC%9ALOGO%2Epng.html -->
 
 幻想茶会 | 活动LOGO
-
-
-
-
 
 
 ---

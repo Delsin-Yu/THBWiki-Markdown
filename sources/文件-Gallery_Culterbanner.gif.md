@@ -1,12 +1,8 @@
 # 文件:Gallery_Culterbanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1a\ns6%3AGallery_Culterbanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1a\ns6%3AGallery_Culterbanner%2Egif.html -->
 
 Gallery_Culter | 社团LOGO
-
-
-
-
 
 
 ---

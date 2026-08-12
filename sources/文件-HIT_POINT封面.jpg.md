@@ -1,6 +1,6 @@
 # 文件:HIT_POINT封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0c\ns6%3AHIT_POINT%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0c\ns6%3AHIT_POINT%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 A·L | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@ A·L | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [HIT POINT](./HIT_POINT.md)  
-该封面包含的角色：- [堀川雷鼓](./堀川雷鼓.md)
+- [HIT POINT](./HIT_POINT.md)该封面包含的角色：
+- [堀川雷鼓](./堀川雷鼓.md)
 
   
-[Pixiv artwork ID: 40479255 (original size)](https://www.pixiv.net/artworks/40479255)
-  
-
-
-
-
+[Pixiv artwork ID: 40479255 (original size)](https://www.pixiv.net/artworks/40479255)  
 
 ---
 

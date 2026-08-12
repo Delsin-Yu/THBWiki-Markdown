@@ -1,6 +1,6 @@
 # 文件:stereophonic_voyager封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dc\ns6%3Astereophonic_voyager%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dc\ns6%3Astereophonic_voyager%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 flap+frog | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ flap+frog | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [stereophonic voyager](./stereophonic_voyager.md)  
-该封面包含的角色：- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [stereophonic voyager](./stereophonic_voyager.md)该封面包含的角色：
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

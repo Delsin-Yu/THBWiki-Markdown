@@ -1,34 +1,27 @@
 # 東方夢終劇_～_Concealed_the_Conclusion/符卡/Stage_1C
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\e\e1\ns0%3A%E6%9D%B1%E6%96%B9%E5%A4%A2%E7%B5%82%E5%8A%87_%EF%BD%9E_Concealed_the_Conclusion%2F%E7%AC%A6%E5%8D%A1%2FStage_1C.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\e\e1\ns0%3A%E6%9D%B1%E6%96%B9%E5%A4%A2%E7%B5%82%E5%8A%87_%EF%BD%9E_Concealed_the_Conclusion%2F%E7%AC%A6%E5%8D%A1%2FStage_1C.html -->
 
 Danmaq | 含有受损文件链接的页面
 
 <center>
-
 <table>
 <tbody><tr>
 <td>
 </td>
 <td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right">
 </td>
-<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="./東方夢終劇_～_Concealed_the_Conclusion-符卡.md" title="東方夢終劇 ～ Concealed the Conclusion/符卡">符卡</a>&#160;
+<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;"> <a href="./東方夢終劇_～_Concealed_the_Conclusion-符卡.md" title="東方夢終劇 ～ Concealed the Conclusion/符卡">符卡</a> 
 </td>
-<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left">&#160;<a href="./東方夢終劇_～_Concealed_the_Conclusion-符卡-Stage_2C.md" title="東方夢終劇 ～ Concealed the Conclusion/符卡/Stage 2C">Stage 2C</a>
+<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left"> <a href="./東方夢終劇_～_Concealed_the_Conclusion-符卡-Stage_2C.md" title="東方夢終劇 ～ Concealed the Conclusion/符卡/Stage 2C">Stage 2C</a>
 </td>
-<td>&gt;
+<td>>
 </td></tr></tbody></table>
 
   
 </center>
-  
-  
-
-  
-
-
 <table>
-<tbody><tr><td width="80">符卡编号</td><td width="400">111</td><td rowspan="6" width="120"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%BB%88%E5%89%A7%E7%AC%A6%E5%8D%A1111.jpg" class="new" title="文件:东方梦终剧符卡111.jpg">文件:东方梦终剧符卡111.jpg</a></td></tr>
+<tbody><tr><td width="80">符卡编号</td><td width="400">111</td><td rowspan="6" width="120"><a class="new" title="文件:东方梦终剧符卡111.jpg">文件:东方梦终剧符卡111.jpg</a></td></tr>
 <tr><td>符卡原名</td><td>輪廻「春夏秋冬」</td></tr><tr><td>符卡译名</td><td>轮回「春夏秋冬」</td></tr><tr><td>出现位置</td><td>Stage 1C - Hard（莉莉霍瓦特）</td></tr><tr><td>说明文本</td><td>弾幕で綴る四季の巡り変わり。
 <p>ここ数年の幻想郷は春が巡ってこなかったり、
 </p>
@@ -38,14 +31,8 @@ Danmaq | 含有受损文件链接的页面
 花朵无视季节感地绽放令人头大。</td></tr></tbody></table>
 
 
-  
-  
-
-  
-
-
 <table>
-<tbody><tr><td width="80">符卡编号</td><td width="400">112</td><td rowspan="6" width="120"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%BB%88%E5%89%A7%E7%AC%A6%E5%8D%A1112.jpg" class="new" title="文件:东方梦终剧符卡112.jpg">文件:东方梦终剧符卡112.jpg</a></td></tr>
+<tbody><tr><td width="80">符卡编号</td><td width="400">112</td><td rowspan="6" width="120"><a class="new" title="文件:东方梦终剧符卡112.jpg">文件:东方梦终剧符卡112.jpg</a></td></tr>
 <tr><td>符卡原名</td><td>輪廻「春夏秋冬 ～ Lunatic」</td></tr><tr><td>符卡译名</td><td>轮回「春夏秋冬 ～ Lunatic」</td></tr><tr><td>出现位置</td><td>Stage 1C - Lunatic（莉莉霍瓦特）</td></tr><tr><td>说明文本</td><td>弾幕で綴る四季の巡り変わり。
 <p>ここ数年の幻想郷は季節が乱れすぎて迷惑がって
 </p><p>いるが彼女だが、自身が迷惑極まりないことを
@@ -56,14 +43,8 @@ Danmaq | 含有受损文件链接的页面
 似乎没有发觉自己也在给别人造成无止境的困扰。</td></tr></tbody></table>
 
 
-  
-  
-
-  
-
-
 <table>
-<tbody><tr><td width="80">符卡编号</td><td width="400">113</td><td rowspan="6" width="120"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%BB%88%E5%89%A7%E7%AC%A6%E5%8D%A1113.jpg" class="new" title="文件:东方梦终剧符卡113.jpg">文件:东方梦终剧符卡113.jpg</a></td></tr>
+<tbody><tr><td width="80">符卡编号</td><td width="400">113</td><td rowspan="6" width="120"><a class="new" title="文件:东方梦终剧符卡113.jpg">文件:东方梦终剧符卡113.jpg</a></td></tr>
 <tr><td>符卡原名</td><td>露符「スイートレイン ～ Easy」</td></tr><tr><td>符卡译名</td><td>露符「甘美雨滴 ～ Easy」</td></tr><tr><td>出现位置</td><td>Stage 1C - Easy（梅蒂欣·梅兰可莉）</td></tr><tr><td>说明文本</td><td>微量の神経毒を含んだ雨を降らせる。
 <p>浴びると軽い痺れに見舞われる。動作がやや鈍る
 </p><p>程度だが、対戦中に喰らえばその隙が致命傷と
@@ -75,14 +56,8 @@ Danmaq | 含有受损文件链接的页面
 那空隙会变成致命伤吧。</td></tr></tbody></table>
 
 
-  
-  
-
-  
-
-
 <table>
-<tbody><tr><td width="80">符卡编号</td><td width="400">114</td><td rowspan="6" width="120"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%BB%88%E5%89%A7%E7%AC%A6%E5%8D%A1114.jpg" class="new" title="文件:东方梦终剧符卡114.jpg">文件:东方梦终剧符卡114.jpg</a></td></tr>
+<tbody><tr><td width="80">符卡编号</td><td width="400">114</td><td rowspan="6" width="120"><a class="new" title="文件:东方梦终剧符卡114.jpg">文件:东方梦终剧符卡114.jpg</a></td></tr>
 <tr><td>符卡原名</td><td>露符「スイートレイン」</td></tr><tr><td>符卡译名</td><td>露符「甘美雨滴」</td></tr><tr><td>出现位置</td><td>Stage 1C - Normal（梅蒂欣·梅兰可莉）</td></tr><tr><td>说明文本</td><td>微量の神経毒を含んだ雨を降らせる。
 <p>浴びると軽い痺れに見舞われる。動作がやや鈍る
 </p><p>程度だが、箒に乗って飛んでいる者にとっては
@@ -94,14 +69,8 @@ Danmaq | 含有受损文件链接的页面
 就相应的很危险。惊险一瞬，伤痛一生。</td></tr></tbody></table>
 
 
-  
-  
-
-  
-
-
 <table>
-<tbody><tr><td width="80">符卡编号</td><td width="400">115</td><td rowspan="6" width="120"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%BB%88%E5%89%A7%E7%AC%A6%E5%8D%A1115.jpg" class="new" title="文件:东方梦终剧符卡115.jpg">文件:东方梦终剧符卡115.jpg</a></td></tr>
+<tbody><tr><td width="80">符卡编号</td><td width="400">115</td><td rowspan="6" width="120"><a class="new" title="文件:东方梦终剧符卡115.jpg">文件:东方梦终剧符卡115.jpg</a></td></tr>
 <tr><td>符卡原名</td><td>露符「スイートレイン ～ Hard」</td></tr><tr><td>符卡译名</td><td>露符「甘美雨滴 ～ Hard」</td></tr><tr><td>出现位置</td><td>Stage 1C - Hard（梅蒂欣·梅兰可莉）</td></tr><tr><td>说明文本</td><td>微量の神経毒を含んだ雨を降らせる。
 <p>浴び続けると全身が小一時間正座した足程度の
 </p>
@@ -111,14 +80,8 @@ Danmaq | 含有受损文件链接的页面
 的脚的麻痹感侵袭。适量服用谨防上瘾。</td></tr></tbody></table>
 
 
-  
-  
-
-  
-
-
 <table>
-<tbody><tr><td width="80">符卡编号</td><td width="400">116</td><td rowspan="6" width="120"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%BB%88%E5%89%A7%E7%AC%A6%E5%8D%A1116.jpg" class="new" title="文件:东方梦终剧符卡116.jpg">文件:东方梦终剧符卡116.jpg</a></td></tr>
+<tbody><tr><td width="80">符卡编号</td><td width="400">116</td><td rowspan="6" width="120"><a class="new" title="文件:东方梦终剧符卡116.jpg">文件:东方梦终剧符卡116.jpg</a></td></tr>
 <tr><td>符卡原名</td><td>露符「スイートレイン ～ Lunatic」</td></tr><tr><td>符卡译名</td><td>露符「甘美雨滴 ～ Lunatic」</td></tr><tr><td>出现位置</td><td>Stage 1C - Lunatic（梅蒂欣·梅兰可莉）</td></tr><tr><td>说明文本</td><td>微量の神経毒を含んだ雨を降らせる。
 <p>浴びると独特の倦怠感と共に、一時的に幻想郷
 </p><p>ならではの幻視幻聴を体験できる。
@@ -130,14 +93,8 @@ Danmaq | 含有受损文件链接的页面
 有依存性，不建议经常服用。</td></tr></tbody></table>
 
 
-  
-  
-
-  
-
-
 <table>
-<tbody><tr><td width="80">符卡编号</td><td width="400">117</td><td rowspan="6" width="120"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%BB%88%E5%89%A7%E7%AC%A6%E5%8D%A1117.jpg" class="new" title="文件:东方梦终剧符卡117.jpg">文件:东方梦终剧符卡117.jpg</a></td></tr>
+<tbody><tr><td width="80">符卡编号</td><td width="400">117</td><td rowspan="6" width="120"><a class="new" title="文件:东方梦终剧符卡117.jpg">文件:东方梦终剧符卡117.jpg</a></td></tr>
 <tr><td>符卡原名</td><td>毒符「トキシックパウダー ～ Easy」</td></tr><tr><td>符卡译名</td><td>毒符「剧毒粉尘 ～ Easy」</td></tr><tr><td>出现位置</td><td>Stage 1C - Easy（梅蒂欣·梅兰可莉）</td></tr><tr><td>说明文本</td><td>視神経に影響する毒の粉を散布する。
 <p>一過性のもので失明等の危険はない。
 </p><p>突然視界を奪うことにより一時的なパニックを
@@ -149,14 +106,8 @@ Danmaq | 含有受损文件链接的页面
 一时恐慌的符。</td></tr></tbody></table>
 
 
-  
-  
-
-  
-
-
 <table>
-<tbody><tr><td width="80">符卡编号</td><td width="400">118</td><td rowspan="6" width="120"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%BB%88%E5%89%A7%E7%AC%A6%E5%8D%A1118.jpg" class="new" title="文件:东方梦终剧符卡118.jpg">文件:东方梦终剧符卡118.jpg</a></td></tr>
+<tbody><tr><td width="80">符卡编号</td><td width="400">118</td><td rowspan="6" width="120"><a class="new" title="文件:东方梦终剧符卡118.jpg">文件:东方梦终剧符卡118.jpg</a></td></tr>
 <tr><td>符卡原名</td><td>毒符「トキシックパウダー」</td></tr><tr><td>符卡译名</td><td>毒符「剧毒粉尘」</td></tr><tr><td>出现位置</td><td>Stage 1C - Normal（梅蒂欣·梅兰可莉）</td></tr><tr><td>说明文本</td><td>視神経に影響する毒の粉を散布する。
 <p>運動神経には作用しないため、喰らっても動きが
 </p><p>鈍ることはないが、弾が見えなくなるのは弾幕
@@ -168,14 +119,8 @@ Danmaq | 含有受损文件链接的页面
 在弹幕游戏中是非常致命的。</td></tr></tbody></table>
 
 
-  
-  
-
-  
-
-
 <table>
-<tbody><tr><td width="80">符卡编号</td><td width="400">119</td><td rowspan="6" width="120"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%BB%88%E5%89%A7%E7%AC%A6%E5%8D%A1119.jpg" class="new" title="文件:东方梦终剧符卡119.jpg">文件:东方梦终剧符卡119.jpg</a></td></tr>
+<tbody><tr><td width="80">符卡编号</td><td width="400">119</td><td rowspan="6" width="120"><a class="new" title="文件:东方梦终剧符卡119.jpg">文件:东方梦终剧符卡119.jpg</a></td></tr>
 <tr><td>符卡原名</td><td>毒符「トキシックパウダー ～ Hard」</td></tr><tr><td>符卡译名</td><td>毒符「剧毒粉尘 ～ Hard」</td></tr><tr><td>出现位置</td><td>Stage 1C - Hard（梅蒂欣·梅兰可莉）</td></tr><tr><td>说明文本</td><td>視神経に影響する毒の粉を散布する。
 <p>吸い込むと目の前で大量のフラッシュを炊かれた
 </p><p>ような錯覚に襲わる。10人の文に取材を受けてる
@@ -187,14 +132,8 @@ Danmaq | 含有受损文件链接的页面
 一样吧。</td></tr></tbody></table>
 
 
-  
-  
-
-  
-
-
 <table>
-<tbody><tr><td width="80">符卡编号</td><td width="400">120</td><td rowspan="6" width="120"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%BB%88%E5%89%A7%E7%AC%A6%E5%8D%A1120.jpg" class="new" title="文件:东方梦终剧符卡120.jpg">文件:东方梦终剧符卡120.jpg</a></td></tr>
+<tbody><tr><td width="80">符卡编号</td><td width="400">120</td><td rowspan="6" width="120"><a class="new" title="文件:东方梦终剧符卡120.jpg">文件:东方梦终剧符卡120.jpg</a></td></tr>
 <tr><td>符卡原名</td><td>毒符「トキシックパウダー ～ Lunatic」</td></tr><tr><td>符卡译名</td><td>毒符「剧毒粉尘 ～ Lunatic」</td></tr><tr><td>出现位置</td><td>Stage 1C - Lunatic（梅蒂欣·梅兰可莉）</td></tr><tr><td>说明文本</td><td>視神経に影響する毒の粉を散布する。
 <p>いっそのこと目を閉じ、風を感じて弾を見れば
 </p><p>虚を突かれることはないかも。目を潰すまでは
@@ -205,14 +144,8 @@ Danmaq | 含有受损文件链接的页面
 被乘虚而入。因为这符还不至于毁掉眼睛所以还算好。</td></tr></tbody></table>
 
 
-  
-  
-
-  
-
-
 <table>
-<tbody><tr><td width="80">符卡编号</td><td width="400">121</td><td rowspan="6" width="120"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%BB%88%E5%89%A7%E7%AC%A6%E5%8D%A1121.jpg" class="new" title="文件:东方梦终剧符卡121.jpg">文件:东方梦终剧符卡121.jpg</a></td></tr>
+<tbody><tr><td width="80">符卡编号</td><td width="400">121</td><td rowspan="6" width="120"><a class="new" title="文件:东方梦终剧符卡121.jpg">文件:东方梦终剧符卡121.jpg</a></td></tr>
 <tr><td>符卡原名</td><td>毒符「トキシックストーム」</td></tr><tr><td>符卡译名</td><td>毒符「剧毒风暴」</td></tr><tr><td>出现位置</td><td>Stage 1C - Normal（梅蒂欣·梅兰可莉）</td></tr><tr><td>说明文本</td><td>視神経に影響する毒の粉を大量散布する。
 <p>毒を撒くのに一所懸命だが、肝心の弾をあまり
 </p><p>撃てていないことに、彼女は果たして気が付いて
@@ -223,14 +156,8 @@ Danmaq | 含有受损文件链接的页面
 子弹却几乎没有，她当真意识到了吗？</td></tr></tbody></table>
 
 
-  
-  
-
-  
-
-
 <table>
-<tbody><tr><td width="80">符卡编号</td><td width="400">122</td><td rowspan="6" width="120"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%BB%88%E5%89%A7%E7%AC%A6%E5%8D%A1122.jpg" class="new" title="文件:东方梦终剧符卡122.jpg">文件:东方梦终剧符卡122.jpg</a></td></tr>
+<tbody><tr><td width="80">符卡编号</td><td width="400">122</td><td rowspan="6" width="120"><a class="new" title="文件:东方梦终剧符卡122.jpg">文件:东方梦终剧符卡122.jpg</a></td></tr>
 <tr><td>符卡原名</td><td>毒符「トキシックストーム ～ Hard」</td></tr><tr><td>符卡译名</td><td>毒符「剧毒风暴 ～ Hard」</td></tr><tr><td>出现位置</td><td>Stage 1C - Hard（梅蒂欣·梅兰可莉）</td></tr><tr><td>说明文本</td><td>視神経に影響する毒の粉を大量散布する。
 <p>直接殺傷能力は無いので、視界を奪われても
 </p><p>「へぁぁ、目が！目がー！」と叫んだりせず、
@@ -242,14 +169,8 @@ Danmaq | 含有受损文件链接的页面
 只要冷静地行动的话就绝没有那么可怕。</td></tr></tbody></table>
 
 
-  
-  
-
-  
-
-
 <table>
-<tbody><tr><td width="80">符卡编号</td><td width="400">123</td><td rowspan="6" width="120"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%BB%88%E5%89%A7%E7%AC%A6%E5%8D%A1123.jpg" class="new" title="文件:东方梦终剧符卡123.jpg">文件:东方梦终剧符卡123.jpg</a></td></tr>
+<tbody><tr><td width="80">符卡编号</td><td width="400">123</td><td rowspan="6" width="120"><a class="new" title="文件:东方梦终剧符卡123.jpg">文件:东方梦终剧符卡123.jpg</a></td></tr>
 <tr><td>符卡原名</td><td>毒符「トキシックストーム ～ Lunatic」</td></tr><tr><td>符卡译名</td><td>毒符「剧毒风暴 ～ Lunatic」</td></tr><tr><td>出现位置</td><td>Stage 1C - Lunatic（梅蒂欣·梅兰可莉）</td></tr><tr><td>说明文本</td><td>視神経に影響する毒の粉を大量散布する。
 <p>周囲が粉まみれになるくらい撒きまくっているが、
 </p><p>これなら小麦粉でも十分見えなくなる気がする。
@@ -260,33 +181,22 @@ Danmaq | 含有受损文件链接的页面
 </p>
 要注意在国际机场这样做可是会吃苦头的。</td></tr></tbody></table>
 
-
 <center>
-
 <table>
 <tbody><tr>
 <td>
 </td>
 <td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right">
 </td>
-<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="./東方夢終劇_～_Concealed_the_Conclusion-符卡.md" title="東方夢終劇 ～ Concealed the Conclusion/符卡">符卡</a>&#160;
+<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;"> <a href="./東方夢終劇_～_Concealed_the_Conclusion-符卡.md" title="東方夢終劇 ～ Concealed the Conclusion/符卡">符卡</a> 
 </td>
-<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left">&#160;<a href="./東方夢終劇_～_Concealed_the_Conclusion-符卡-Stage_2C.md" title="東方夢終劇 ～ Concealed the Conclusion/符卡/Stage 2C">Stage 2C</a>
+<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left"> <a href="./東方夢終劇_～_Concealed_the_Conclusion-符卡-Stage_2C.md" title="東方夢終劇 ～ Concealed the Conclusion/符卡/Stage 2C">Stage 2C</a>
 </td>
-<td>&gt;
+<td>>
 </td></tr></tbody></table>
 
   
 </center>
-  
-  
-
-  
-
-
-
-
-
 ---
 
 此文档由 [THBWiki-Markdown-Builder](https://github.com/Delsin-Yu/THBWiki-Markdown-Builder) 构建。

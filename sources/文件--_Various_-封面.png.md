@@ -1,6 +1,6 @@
 # 文件:-_Various_-封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\30\ns6%3A-_Various_-%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\30\ns6%3A-_Various_-%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 BlackEditionFX | 同人志封面 | 封面图片
 
@@ -10,16 +10,14 @@ BlackEditionFX | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [- Various -](./-_Various_-.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [比那名居天子](./比那名居天子.md)- [灵乌路空](./灵乌路空.md)- [圣白莲](./圣白莲.md)
+- [- Various -](./-_Various_-.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [比那名居天子](./比那名居天子.md)
+- [灵乌路空](./灵乌路空.md)
+- [圣白莲](./圣白莲.md)
 
   
-[Nico Seiga ID: im3620039 (original size)](https://seiga.nicovideo.jp/seiga/im3620039)
-  
-
-
-
-
+[Nico Seiga ID: im3620039 (original size)](https://seiga.nicovideo.jp/seiga/im3620039)  
 
 ---
 

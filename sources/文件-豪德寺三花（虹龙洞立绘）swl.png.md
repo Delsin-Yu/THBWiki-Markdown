@@ -1,12 +1,8 @@
 # 文件:豪德寺三花（虹龙洞立绘）swl.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\72\ns6%3A%E8%B1%AA%E5%BE%B7%E5%AF%BA%E4%B8%89%E8%8A%B1%EF%BC%88%E8%99%B9%E9%BE%99%E6%B4%9E%E7%AB%8B%E7%BB%98%EF%BC%89swl%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\72\ns6%3A%E8%B1%AA%E5%BE%B7%E5%AF%BA%E4%B8%89%E8%8A%B1%EF%BC%88%E8%99%B9%E9%BE%99%E6%B4%9E%E7%AB%8B%E7%BB%98%EF%BC%89swl%2Epng.html -->
 
 ZUN绘 | 东方虹龙洞 | 官方游戏立绘 | 豪德寺三花
-
-
-
-
 
 
 ---

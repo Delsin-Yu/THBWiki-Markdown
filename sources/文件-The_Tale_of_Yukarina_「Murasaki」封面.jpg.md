@@ -1,6 +1,6 @@
 # 文件:The_Tale_of_Yukarina_「Murasaki」封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\36\ns6%3AThe_Tale_of_Yukarina_%E3%80%8CMurasaki%E3%80%8D%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\36\ns6%3AThe_Tale_of_Yukarina_%E3%80%8CMurasaki%E3%80%8D%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Misfortune_Productions | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Misfortune_Productions | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [The Tale of Yukarina 「Murasaki」](./The_Tale_of_Yukarina_「Murasaki」.md)  
-该封面包含的角色：- 原创角色 (未找到链接)
+- [The Tale of Yukarina 「Murasaki」](./The_Tale_of_Yukarina_「Murasaki」.md)该封面包含的角色：
+- 原创角色 (未找到链接)
 
   
-源地址：[[1]](https://f4.bcbits.com/img/a4287593322_10.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://f4.bcbits.com/img/a4287593322_10.jpg)  
 
 ---
 

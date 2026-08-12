@@ -1,14 +1,11 @@
 # 文件:MineCraft幻想乡-萌澄果上色手稿.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fc\ns6%3AMineCraft%E5%B9%BB%E6%83%B3%E4%B9%A1-%E8%90%8C%E6%BE%84%E6%9E%9C%E4%B8%8A%E8%89%B2%E6%89%8B%E7%A8%BF%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fc\ns6%3AMineCraft%E5%B9%BB%E6%83%B3%E4%B9%A1-%E8%90%8C%E6%BE%84%E6%9E%9C%E4%B8%8A%E8%89%B2%E6%89%8B%E7%A8%BF%2Epng.html -->
 
 MineCraft幻想乡
 
 
 ## 文件说明
-
-
-
 
 ---
 

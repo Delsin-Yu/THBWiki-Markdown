@@ -1,16 +1,11 @@
 # 文件:东方醉蝶华_第3卷_Animate特典.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c8\ns6%3A%E4%B8%9C%E6%96%B9%E9%86%89%E8%9D%B6%E5%8D%8E_%E7%AC%AC3%E5%8D%B7_Animate%E7%89%B9%E5%85%B8%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c8\ns6%3A%E4%B8%9C%E6%96%B9%E9%86%89%E8%9D%B6%E5%8D%8E_%E7%AC%AC3%E5%8D%B7_Animate%E7%89%B9%E5%85%B8%2Ejpg.html -->
 
 Animate | 东方醉蝶华 | 官方特典
 
   
-[[1]](https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=10111459_6163d2bcdd5b7.jpg)
-  
-
-
-
-
+[\[1\]](https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=10111459_6163d2bcdd5b7.jpg)  
 
 ---
 

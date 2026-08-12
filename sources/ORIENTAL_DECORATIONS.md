@@ -1,26 +1,24 @@
 # ORIENTAL_DECORATIONS
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\03\ns0%3AORIENTAL_DECORATIONS.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\03\ns0%3AORIENTAL_DECORATIONS.html -->
 
 2020年5月17日 由 心病神社 于 博丽神社例大祭17 发布的合同志/绘本/小说/漫画同人志，一共130页，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人志 (未找到链接)** 的词条
-
+**[二次创作同人志](./二次创作.md#同人志)**的词条
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-ORIENTAL_DECORATIONS封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/2/29/ORIENTAL_DECORATIONS%E5%B0%81%E9%9D%A2.jpg/118px-ORIENTAL_DECORATIONS%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="118" height="168" srcset="https://upload.thwiki.cc/thumb/2/29/ORIENTAL_DECORATIONS%E5%B0%81%E9%9D%A2.jpg/177px-ORIENTAL_DECORATIONS%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/2/29/ORIENTAL_DECORATIONS%E5%B0%81%E9%9D%A2.jpg/236px-ORIENTAL_DECORATIONS%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1031" data-file-height="1469"></a><div class="cover-char">角色：<a href="./奥莲姬.md" title="奥莲姬">奥莲姬</a></div></td>
 </tr><tr><td class="label">名称</td><td colspan="2"> ORIENTAL DECORATIONS </td></tr><tr><td class="label">制作方</td><td><a href="./心病神社.md" title="心病神社">心病神社</a></td><td class="cover-artwork" rowspan="6" style="min-width:168px;"><a href="./文件-ORIENTAL_DECORATIONS封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/2/29/ORIENTAL_DECORATIONS%E5%B0%81%E9%9D%A2.jpg/118px-ORIENTAL_DECORATIONS%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="118" height="168" srcset="https://upload.thwiki.cc/thumb/2/29/ORIENTAL_DECORATIONS%E5%B0%81%E9%9D%A2.jpg/177px-ORIENTAL_DECORATIONS%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/2/29/ORIENTAL_DECORATIONS%E5%B0%81%E9%9D%A2.jpg/236px-ORIENTAL_DECORATIONS%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1031" data-file-height="1469"></a><div class="cover-char">角色：<a href="./奥莲姬.md" title="奥莲姬">奥莲姬</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2020-05-17&#160;（<a href="/展会作品列表?e=%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD%2317">第十七回 博麗神社例大祭</a>，非实际参与展会首发）</td></tr><tr><td class="label">类型</td><td>合同志，绘本，小说，漫画</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">页数</td><td>130P</td></tr><tr><td class="label">售价</td><td>会场售价：1000日元</td></tr>
+</tr><tr><td class="label">首发日期</td><td>2020-05-17 （<a href="./展会作品列表.md#17">第十七回 博麗神社例大祭</a>，非实际参与展会首发）</td></tr><tr><td class="label">类型</td><td>合同志，绘本，小说，漫画</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">页数</td><td>130P</td></tr><tr><td class="label">售价</td><td>会场售价：1000日元</td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/mimikuma333/status/1223908412028665861">https://twitter.com/mimikuma333/status/1223908412028665861</a></td></tr></tbody></table>
 
 ORIENTAL DECORATIONS（同人志，心病神社，2020） - 2020年5月17日 由 心病神社 于 博丽神社例大祭17 发布的合同志/绘本/小说/漫画同人志，一共130页，分级为 一般向
-
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://murmeltire1218.booth.pm/items/2448161">Booth</a></td></tr></tbody></table>
 
 
-
 ## Staff
+
 - 魅々熊 (未找到链接)
 - [もりのほん](./もりのほん.md)
 - 海原 (未找到链接)
@@ -28,9 +26,6 @@ ORIENTAL DECORATIONS（同人志，心病神社，2020） - 2020年5月17日 由
 
 
 ## 评论
-
-
-
 
 ---
 

@@ -1,12 +1,8 @@
 # 文件:Ryougakukai_logo.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\80\ns6%3ARyougakukai_logo%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\80\ns6%3ARyougakukai_logo%2Egif.html -->
 
 社团LOGO | 稜樂會
-
-
-
-
 
 
 ---

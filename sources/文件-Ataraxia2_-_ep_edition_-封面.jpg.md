@@ -1,6 +1,6 @@
 # 文件:Ataraxia2_-_ep_edition_-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a0\ns6%3AAtaraxia2_-_ep_edition_-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a0\ns6%3AAtaraxia2_-_ep_edition_-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 君の美術館 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [ataraxia2 - ep edition -](./ataraxia2_-_ep_edition_-.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [ataraxia2 - ep edition -](./ataraxia2_-_ep_edition_-.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

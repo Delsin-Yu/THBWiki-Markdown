@@ -1,16 +1,12 @@
 # 模板:BRT
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\8\80\ns10%3ABRT.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\8\80\ns10%3ABRT.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

@@ -1,18 +1,13 @@
 # 文件:WILD_CAT_RECORDbanner2.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\73\ns6%3AWILD_CAT_RECORDbanner2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\73\ns6%3AWILD_CAT_RECORDbanner2%2Ejpg.html -->
 
 WILD_CAT_RECORD | 社团LOGO
 
 
 ## 文件说明
   
-来源：[[1]](http://wildcatrecord.x0.com/link.html)
-  
-
-
-
-
+来源：[\[1\]](http://wildcatrecord.x0.com/link.html)  
 
 ---
 

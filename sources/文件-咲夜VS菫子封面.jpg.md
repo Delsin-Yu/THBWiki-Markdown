@@ -1,6 +1,6 @@
 # 文件:咲夜VS菫子封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\84\ns6%3A%E5%92%B2%E5%A4%9CVS%E8%8F%AB%E5%AD%90%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\84\ns6%3A%E5%92%B2%E5%A4%9CVS%E8%8F%AB%E5%AD%90%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 海之天切
 
@@ -10,11 +10,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [咲夜VS菫子](./咲夜VS菫子.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)- [少名针妙丸](./少名针妙丸.md)- [宇佐见堇子](./宇佐见堇子.md)
-
-
-
+- [咲夜VS菫子](./咲夜VS菫子.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
+- [少名针妙丸](./少名针妙丸.md)
+- [宇佐见堇子](./宇佐见堇子.md)
 
 
 ---

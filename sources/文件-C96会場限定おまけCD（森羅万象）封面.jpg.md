@@ -1,6 +1,6 @@
 # 文件:C96会場限定おまけCD（森羅万象）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\08\ns6%3AC96%E4%BC%9A%E5%A0%B4%E9%99%90%E5%AE%9A%E3%81%8A%E3%81%BE%E3%81%91CD%EF%BC%88%E6%A3%AE%E7%BE%85%E4%B8%87%E8%B1%A1%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\08\ns6%3AC96%E4%BC%9A%E5%A0%B4%E9%99%90%E5%AE%9A%E3%81%8A%E3%81%BE%E3%81%91CD%EF%BC%88%E6%A3%AE%E7%BE%85%E4%B8%87%E8%B1%A1%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 森羅万象
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [C96会場限定おまけCD（森羅万象）](./C96会場限定おまけCD（森羅万象）.md)  
-该封面包含的角色：- [八云紫](./八云紫.md)
-
-
-
+- [C96会場限定おまけCD（森羅万象）](./C96会場限定おまけCD（森羅万象）.md)该封面包含的角色：
+- [八云紫](./八云紫.md)
 
 
 ---

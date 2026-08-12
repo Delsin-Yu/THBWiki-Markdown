@@ -1,12 +1,8 @@
 # 文件:THD2动物信使.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\30\ns6%3ATHD2%E5%8A%A8%E7%89%A9%E4%BF%A1%E4%BD%BF%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\30\ns6%3ATHD2%E5%8A%A8%E7%89%A9%E4%BF%A1%E4%BD%BF%2Epng.html -->
 
 THD2
-
-
-
-
 
 
 ---

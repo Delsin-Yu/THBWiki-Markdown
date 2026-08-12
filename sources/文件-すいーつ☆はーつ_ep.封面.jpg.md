@@ -1,6 +1,6 @@
 # 文件:すいーつ☆はーつ_ep.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e9\ns6%3A%E3%81%99%E3%81%84%E3%83%BC%E3%81%A4%E2%98%86%E3%81%AF%E3%83%BC%E3%81%A4_ep%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e9\ns6%3A%E3%81%99%E3%81%84%E3%83%BC%E3%81%A4%E2%98%86%E3%81%AF%E3%83%BC%E3%81%A4_ep%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ばーどちゅーん | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [すいーつ☆はーつ ep.](./すいーつ☆はーつ_ep..md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
-
-
-
+- [すいーつ☆はーつ ep.](./すいーつ☆はーつ_ep..md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Tainted_Heart封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6f\ns6%3ATainted_Heart%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6f\ns6%3ATainted_Heart%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Grimoire_Technology | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Grimoire_Technology | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Tainted Heart](./Tainted_Heart.md)  
-该封面包含的角色：- [古明地恋](./古明地恋.md)
-
-
-
+- [Tainted Heart](./Tainted_Heart.md)该封面包含的角色：
+- [古明地恋](./古明地恋.md)
 
 
 ---

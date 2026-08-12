@@ -1,6 +1,6 @@
 # 文件:東方パーティバーレル_vol.1封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d4\ns6%3A%E6%9D%B1%E6%96%B9%E3%83%91%E3%83%BC%E3%83%86%E3%82%A3%E3%83%90%E3%83%BC%E3%83%AC%E3%83%AB_vol%2E1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d4\ns6%3A%E6%9D%B1%E6%96%B9%E3%83%91%E3%83%BC%E3%83%86%E3%82%A3%E3%83%90%E3%83%BC%E3%83%AC%E3%83%AB_vol%2E1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 からあげ屋さん | 同人志封面 | 封面图片
 
@@ -8,11 +8,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方パーティバーレル vol.1](./東方パーティバーレル_vol.1.md)  
-该封面包含的角色：- [东风谷早苗](./东风谷早苗.md)- [八坂神奈子](./八坂神奈子.md)- [洩矢诹访子](./洩矢诹访子.md)
-
-
-
+- [東方パーティバーレル vol.1](./東方パーティバーレル_vol.1.md)该封面包含的角色：
+- [东风谷早苗](./东风谷早苗.md)
+- [八坂神奈子](./八坂神奈子.md)
+- [洩矢诹访子](./洩矢诹访子.md)
 
 
 ---

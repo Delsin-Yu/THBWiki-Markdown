@@ -1,16 +1,12 @@
 # 文件:灵烈传？？？组GoodEnding2.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0d\ns6%3A%E7%81%B5%E7%83%88%E4%BC%A0%EF%BC%9F%EF%BC%9F%EF%BC%9F%E7%BB%84GoodEnding2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0d\ns6%3A%E7%81%B5%E7%83%88%E4%BC%A0%EF%BC%9F%EF%BC%9F%EF%BC%9F%E7%BB%84GoodEnding2%2Epng.html -->
 
 トリック・ノスタルジー
 
   
 灵烈传Good Ending插图
   
-
-
-
-
 
 ---
 

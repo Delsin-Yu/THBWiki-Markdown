@@ -1,6 +1,6 @@
 # 文件:Ottikiと愉快な仲間たち!封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\73\ns6%3AOttiki%E3%81%A8%E6%84%89%E5%BF%AB%E3%81%AA%E4%BB%B2%E9%96%93%E3%81%9F%E3%81%A1%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\73\ns6%3AOttiki%E3%81%A8%E6%84%89%E5%BF%AB%E3%81%AA%E4%BB%B2%E9%96%93%E3%81%9F%E3%81%A1%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 SEA_SPARROWS | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ SEA_SPARROWS | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Ottikiと愉快な仲間たち!](./Ottikiと愉快な仲間たち!.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
-
-
-
+- [Ottikiと愉快な仲間たち!](./Ottikiと愉快な仲間たち!.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
 
 ---

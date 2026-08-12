@@ -1,12 +1,8 @@
 # 文件:东方深秘录（PS4）coverA.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b5\ns6%3A%E4%B8%9C%E6%96%B9%E6%B7%B1%E7%A7%98%E5%BD%95%EF%BC%88PS4%EF%BC%89coverA%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b5\ns6%3A%E4%B8%9C%E6%96%B9%E6%B7%B1%E7%A7%98%E5%BD%95%EF%BC%88PS4%EF%BC%89coverA%2Ejpg.html -->
 
 Play,Doujin! | 东方深秘录 | 官方游戏光盘扫图
-
-
-
-
 
 
 ---

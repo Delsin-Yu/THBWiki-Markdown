@@ -1,12 +1,8 @@
 # 文件:Baird_Brewing.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ab\ns6%3ABaird_Brewing%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ab\ns6%3ABaird_Brewing%2Ejpg.html -->
 
 Baird_Brewing | ZUN自制啤酒
-
-
-
-
 
 
 ---

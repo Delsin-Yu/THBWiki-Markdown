@@ -1,12 +1,8 @@
 # 文件:猎奇剧团banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b7\ns6%3A%E7%8C%8E%E5%A5%87%E5%89%A7%E5%9B%A2banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b7\ns6%3A%E7%8C%8E%E5%A5%87%E5%89%A7%E5%9B%A2banner%2Ejpg.html -->
 
 猎奇剧团 | 社团LOGO
-
-
-
-
 
 
 ---

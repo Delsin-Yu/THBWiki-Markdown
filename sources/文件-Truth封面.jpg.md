@@ -1,6 +1,6 @@
 # 文件:Truth封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\ff\ns6%3ATruth%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\ff\ns6%3ATruth%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ガネメ | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Truth](./Truth.md)  
-该封面包含的角色：- [古明地恋](./古明地恋.md)
+- [Truth](./Truth.md)该封面包含的角色：
+- [古明地恋](./古明地恋.md)
 
   
-源地址：[[1]](http://static.tumblr.com/290c0e98ef79ca11d000e96beabb68c1/lircoia/Z9Bnm10q7/tumblr_static_9ag4q5oqbpwc4gsk84ws4ow04.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://static.tumblr.com/290c0e98ef79ca11d000e96beabb68c1/lircoia/Z9Bnm10q7/tumblr_static_9ag4q5oqbpwc4gsk84ws4ow04.jpg)  
 
 ---
 

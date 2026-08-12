@@ -1,6 +1,6 @@
 # 文件:东方龙隐谈_～_Chaos_of_Black_Loong封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ab\ns6%3A%E4%B8%9C%E6%96%B9%E9%BE%99%E9%9A%90%E8%B0%88_%EF%BD%9E_Chaos_of_Black_Loong%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ab\ns6%3A%E4%B8%9C%E6%96%B9%E9%BE%99%E9%9A%90%E8%B0%88_%EF%BD%9E_Chaos_of_Black_Loong%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 封面图片 | 软件封面 | 龙皇社
 
@@ -8,11 +8,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [东方龙隐谈 ～ Chaos of Black Loong](./东方龙隐谈_～_Chaos_of_Black_Loong.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [雾雨魔理沙](./雾雨魔理沙.md)- [敖宣](./敖宣.md)
-
-
-
+- [东方龙隐谈 ～ Chaos of Black Loong](./东方龙隐谈_～_Chaos_of_Black_Loong.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
+- [敖宣](./敖宣.md)
 
 
 ---

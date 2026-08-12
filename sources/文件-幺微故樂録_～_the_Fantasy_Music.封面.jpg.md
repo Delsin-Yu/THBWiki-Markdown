@@ -1,6 +1,6 @@
 # 文件:幺微故樂録_～_the_Fantasy_Music.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fc\ns6%3A%E5%B9%BA%E5%BE%AE%E6%95%85%E6%A8%82%E9%8C%B2_%EF%BD%9E_the_Fantasy_Music%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fc\ns6%3A%E5%B9%BA%E5%BE%AE%E6%95%85%E6%A8%82%E9%8C%B2_%EF%BD%9E_the_Fantasy_Music%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 机上の空想理論
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [幺微故樂録 ～ the Fantasy Music.](./幺微故樂録_～_the_Fantasy_Music..md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [幺微故樂録 ～ the Fantasy Music.](./幺微故樂録_～_the_Fantasy_Music..md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

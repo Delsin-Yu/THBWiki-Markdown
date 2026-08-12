@@ -1,6 +1,6 @@
 # 文件:东方甲乙木_~_Tree_of_Kabalah封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c5\ns6%3A%E4%B8%9C%E6%96%B9%E7%94%B2%E4%B9%99%E6%9C%A8_%7E_Tree_of_Kabalah%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c5\ns6%3A%E4%B8%9C%E6%96%B9%E7%94%B2%E4%B9%99%E6%9C%A8_%7E_Tree_of_Kabalah%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 六五八乱奏 | 封面图片
 
@@ -10,12 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [东方甲乙木 ~ Tree of Kabalah](./东方甲乙木_~_Tree_of_Kabalah.md)  
-该封面包含的角色：- [纯狐](./纯狐.md)[[1]](https://cdn.dizzylab.net/media/cover/TH-EAST.jpg)
-
-
-
-
+- [东方甲乙木 ~ Tree of Kabalah](./东方甲乙木_~_Tree_of_Kabalah.md)该封面包含的角色：
+- [纯狐](./纯狐.md)
+[\[1\]](https://cdn.dizzylab.net/media/cover/TH-EAST.jpg)
 
 ---
 

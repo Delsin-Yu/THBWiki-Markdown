@@ -1,6 +1,6 @@
 # 文件:空即是紫記音源録～TOHO_TEMPEST_EXTRA封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\af\ns6%3A%E7%A9%BA%E5%8D%B3%E6%98%AF%E7%B4%AB%E8%A8%98%E9%9F%B3%E6%BA%90%E9%8C%B2%EF%BD%9ETOHO_TEMPEST_EXTRA%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\af\ns6%3A%E7%A9%BA%E5%8D%B3%E6%98%AF%E7%B4%AB%E8%A8%98%E9%9F%B3%E6%BA%90%E9%8C%B2%EF%BD%9ETOHO_TEMPEST_EXTRA%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Sonic_Hybrid_Orchestra | 专辑封面 | 封面图片
 
@@ -8,11 +8,12 @@ Sonic_Hybrid_Orchestra | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [空即是紫記音源録～TOHO TEMPEST EXTRA](./空即是紫記音源録～TOHO_TEMPEST_EXTRA.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- 十六夜咲夜 (未找到链接)- [魂魄妖梦](./魂魄妖梦.md)- [八云紫](./八云紫.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [空即是紫記音源録～TOHO TEMPEST EXTRA](./空即是紫記音源録～TOHO_TEMPEST_EXTRA.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [十六夜咲夜](./十六夜咲夜.md)
+- [魂魄妖梦](./魂魄妖梦.md)
+- [八云紫](./八云紫.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

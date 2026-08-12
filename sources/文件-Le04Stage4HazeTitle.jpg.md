@@ -1,12 +1,8 @@
 # 文件:Le04Stage4HazeTitle.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d1\ns6%3ALe04Stage4HazeTitle%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d1\ns6%3ALe04Stage4HazeTitle%2Ejpg.html -->
 
 连缘天影战记
-
-
-
-
 
 
 ---

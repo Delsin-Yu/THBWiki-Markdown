@@ -1,6 +1,6 @@
 # 文件:Highway2封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4c\ns6%3AHighway2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4c\ns6%3AHighway2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 DDBY | 专辑封面 | 封面图片
 
@@ -8,11 +8,19 @@ DDBY | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Highway2](./Highway2.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [琪斯美](./琪斯美.md)- [射命丸文](./射命丸文.md)- [秋静叶](./秋静叶.md)- [秋穰子](./秋穰子.md)- [键山雏](./键山雏.md)- [河城荷取](./河城荷取.md)- [犬走椛](./犬走椛.md)- [黑谷山女](./黑谷山女.md)- [水桥帕露西](./水桥帕露西.md)- [多多良小伞](./多多良小伞.md)- [姬海棠果](./姬海棠果.md)
-
-
-
+- [Highway2](./Highway2.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [琪斯美](./琪斯美.md)
+- [射命丸文](./射命丸文.md)
+- [秋静叶](./秋静叶.md)
+- [秋穰子](./秋穰子.md)
+- [键山雏](./键山雏.md)
+- [河城荷取](./河城荷取.md)
+- [犬走椛](./犬走椛.md)
+- [黑谷山女](./黑谷山女.md)
+- [水桥帕露西](./水桥帕露西.md)
+- [多多良小伞](./多多良小伞.md)
+- [姬海棠果](./姬海棠果.md)
 
 
 ---

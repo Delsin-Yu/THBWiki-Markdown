@@ -1,6 +1,6 @@
 # 文件:Marisa_And_Reimu's_Switch_Hunt封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4c\ns6%3AMarisa_And_Reimu%27s_Switch_Hunt%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4c\ns6%3AMarisa_And_Reimu%27s_Switch_Hunt%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 RussianMan | 封面图片 | 软件封面
 
@@ -10,16 +10,13 @@ RussianMan | 封面图片 | 软件封面
 使用了本文件作封面图片的作品：
   
 
-- [Marisa And Reimu's Switch Hunt](./Marisa_And_Reimu's_Switch_Hunt.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [雾雨魔理沙](./雾雨魔理沙.md)
+- [Marisa And Reimu's Switch Hunt](./Marisa_And_Reimu's_Switch_Hunt.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
 screenshot of title
   
-
-
-
-
 
 ---
 

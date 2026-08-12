@@ -1,6 +1,6 @@
 # 文件:TOHO_FULL_SWING_2.5封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ee\ns6%3ATOHO_FULL_SWING_2%2E5%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ee\ns6%3ATOHO_FULL_SWING_2%2E5%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 a-TTTempo | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ a-TTTempo | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [TOHO FULL SWING 2.5](./TOHO_FULL_SWING_2.5.md)  
-该封面包含的角色：- [宫古芳香](./宫古芳香.md)
-
-
-
+- [TOHO FULL SWING 2.5](./TOHO_FULL_SWING_2.5.md)该封面包含的角色：
+- [宫古芳香](./宫古芳香.md)
 
 
 ---

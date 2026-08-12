@@ -1,6 +1,6 @@
 # 文件:Rebirth_&_restarT封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\50\ns6%3ARebirth_%26_restarT%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\50\ns6%3ARebirth_%26_restarT%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 jewelry_garden | 专辑封面 | 封面图片
 
@@ -10,10 +10,7 @@ jewelry_garden | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Rebirth &amp; restarT](./Rebirth_&_restarT.md)
-
-
-
+- [Rebirth & restarT](./Rebirth_&_restarT.md)
 
 
 ---

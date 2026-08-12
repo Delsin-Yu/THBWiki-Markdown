@@ -1,6 +1,6 @@
 # 文件:ADVENT_CIRNO＃0-2_凍る炎と燃える雪封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f5\ns6%3AADVENT_CIRNO%EF%BC%830-2_%E5%87%8D%E3%82%8B%E7%82%8E%E3%81%A8%E7%87%83%E3%81%88%E3%82%8B%E9%9B%AA%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f5\ns6%3AADVENT_CIRNO%EF%BC%830-2_%E5%87%8D%E3%82%8B%E7%82%8E%E3%81%A8%E7%87%83%E3%81%88%E3%82%8B%E9%9B%AA%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 One_Night_Stand | 同人志封面 | 封面图片
 
@@ -8,11 +8,10 @@ One_Night_Stand | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [ADVENT CIRNO＃0-2 凍る炎と燃える雪](./ADVENT_CIRNO＃0-2_凍る炎と燃える雪.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)- [蕾蒂·霍瓦特洛克](./蕾蒂·霍瓦特洛克.md)- [藤原妹红](./藤原妹红.md)
-
-
-
+- [ADVENT CIRNO＃0-2 凍る炎と燃える雪](./ADVENT_CIRNO＃0-2_凍る炎と燃える雪.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
+- [蕾蒂·霍瓦特洛克](./蕾蒂·霍瓦特洛克.md)
+- [藤原妹红](./藤原妹红.md)
 
 
 ---

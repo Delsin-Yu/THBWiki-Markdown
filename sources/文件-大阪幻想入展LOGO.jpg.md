@@ -1,14 +1,11 @@
 # 文件:大阪幻想入展LOGO.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f8\ns6%3A%E5%A4%A7%E9%98%AA%E5%B9%BB%E6%83%B3%E5%85%A5%E5%B1%95LOGO%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f8\ns6%3A%E5%A4%A7%E9%98%AA%E5%B9%BB%E6%83%B3%E5%85%A5%E5%B1%95LOGO%2Ejpg.html -->
 
 大阪幻想入展 | 活动LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

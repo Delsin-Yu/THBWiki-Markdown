@@ -1,11 +1,10 @@
 # Sound.／Ecriture
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\b2\ns0%3ASound%2E%EF%BC%8FEcriture.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\b2\ns0%3ASound%2E%EF%BC%8FEcriture.html -->
 
 Sound./Ecriture ，于 2007 年成立，主要制作 同人音乐 的日本同人社团，主催是 YoSi*，当前状态为 休止
 
-本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
-
+本页是关于**[同人社团](./二次创作.md#同人社团)**的词条
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -14,38 +13,25 @@ Sound./Ecriture ，于 2007 年成立，主要制作 同人音乐 的日本同�
 - [4 其他信息](#其他信息)
 
 
-
-
-
 ## 社团信息
-[](./文件-Sound.／Ecriturebanner.png.md)  [](./文件-Sound.／Ecriturebanner.png.md)banner
-
-<table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Sound./Ecriture </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2007</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=YoSi*&amp;action=edit&amp;redlink=1" class="new" title="YoSi*（页面不存在）">YoSi*</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://sound-ecriture.com/">http://sound-ecriture.com/</a> <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span></td></tr></tbody></table>
+<img alt="" src="https://upload.thwiki.cc/thumb/7/70/Sound.%EF%BC%8FEcriturebanner.png/200px-Sound.%EF%BC%8FEcriturebanner.png" decoding="async" loading="lazy" width="200" height="32" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/7/70/Sound.%EF%BC%8FEcriturebanner.png/300px-Sound.%EF%BC%8FEcriturebanner.png 1.5x, https://upload.thwiki.cc/7/70/Sound.%EF%BC%8FEcriturebanner.png 2x" data-file-width="375" data-file-height="60">
+ [放大](./文件-Sound.／Ecriturebanner.png.md)banner
+<table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Sound./Ecriture </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2007</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>主催</b></td><td> <a class="new" title="YoSi*（页面不存在）">YoSi*</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://sound-ecriture.com/">http://sound-ecriture.com/</a> <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span></td></tr></tbody></table>
 
 Sound.／Ecriture（同人社团，同人音乐社团） - Sound./Ecriture ，于 2007 年成立，主要制作 同人音乐 的日本同人社团，主催是 YoSi*，当前状态为 休止
-
 ## 成员名单
+
 - YoSi* (未找到链接)
 - しんさく (未找到链接)
 
 
 ## 作品列表
-[](./Capriccio～幻想郷綺想曲.md)[Capriccio～幻想郷綺想曲](./Capriccio～幻想郷綺想曲.md)首发日期：2007-04-29 （M3-2007春 (未找到链接)）SECD-0001全长 （一般向）[](./Scherzo～幻想郷諧謔曲.md)[Scherzo～幻想郷諧謔曲](./Scherzo～幻想郷諧謔曲.md)首发日期：2007-08-17 （Comic Market 72 (未找到链接)）SECD-0002全长 （一般向）[](./Rhapsody～幻想郷狂詩曲.md)[Rhapsody～幻想郷狂詩曲](./Rhapsody～幻想郷狂詩曲.md)首发日期：2007-12-31 （Comic Market 73 (未找到链接)）SECD-0003全长 （一般向）[](./Fantasia～幻想郷幻奏曲.md)[Fantasia～幻想郷幻奏曲](./Fantasia～幻想郷幻奏曲.md)首发日期：2008-08-16 （Comic Market 74 (未找到链接)）SECD-0005全长 （一般向）
-<table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
-
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
-
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
-
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
-</table>
-
-
+- **[Capriccio～幻想郷綺想曲](./Capriccio～幻想郷綺想曲.md)** — 首发日期：2007-04-29 （M3-2007春）；SECD-0001；全长 （一般向）
+- **[Scherzo～幻想郷諧謔曲](./Scherzo～幻想郷諧謔曲.md)** — 首发日期：2007-08-17 （Comic Market 72）；SECD-0002；全长 （一般向）
+- **[Rhapsody～幻想郷狂詩曲](./Rhapsody～幻想郷狂詩曲.md)** — 首发日期：2007-12-31 （Comic Market 73）；SECD-0003；全长 （一般向）
+- **[Fantasia～幻想郷幻奏曲](./Fantasia～幻想郷幻奏曲.md)** — 首发日期：2008-08-16 （Comic Market 74）；SECD-0005；全长 （一般向）
 
 ## 其他信息
-
-
-
 
 ---
 

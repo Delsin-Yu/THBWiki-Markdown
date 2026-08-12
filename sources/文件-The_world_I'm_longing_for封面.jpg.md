@@ -1,6 +1,6 @@
 # 文件:The_world_I'm_longing_for封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\34\ns6%3AThe_world_I%27m_longing_for%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\34\ns6%3AThe_world_I%27m_longing_for%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 situation_report | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ situation_report | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [The world I'm longing for](./The_world_I'm_longing_for.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [The world I'm longing for](./The_world_I'm_longing_for.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
 
   
-源地址：[direct image link](https://www.suruga-ya.jp/database/pics_light/game/186138327.jpg), [source page (suruga-ya ID: 186138327)](https://www.suruga-ya.jp/product/detail/186138327)
-  
-
-
-
-
+源地址：[direct image link](https://www.suruga-ya.jp/database/pics_light/game/186138327.jpg), [source page (suruga-ya ID: 186138327)](https://www.suruga-ya.jp/product/detail/186138327)  
 
 ---
 

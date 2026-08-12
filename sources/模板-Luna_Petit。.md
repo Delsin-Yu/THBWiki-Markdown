@@ -1,16 +1,12 @@
 # 模板:Luna_Petit。
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\3\32\ns10%3ALuna_Petit%E3%80%82.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\3\32\ns10%3ALuna_Petit%E3%80%82.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

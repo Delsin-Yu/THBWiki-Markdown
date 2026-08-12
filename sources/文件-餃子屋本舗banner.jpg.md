@@ -1,12 +1,8 @@
 # 文件:餃子屋本舗banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\06\ns6%3A%E9%A4%83%E5%AD%90%E5%B1%8B%E6%9C%AC%E8%88%97banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\06\ns6%3A%E9%A4%83%E5%AD%90%E5%B1%8B%E6%9C%AC%E8%88%97banner%2Ejpg.html -->
 
 社团LOGO | 餃子屋本舗
-
-
-
-
 
 
 ---

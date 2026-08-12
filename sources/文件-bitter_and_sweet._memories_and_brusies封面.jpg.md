@@ -1,6 +1,6 @@
 # 文件:bitter_and_sweet._memories_and_brusies封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\87\ns6%3Abitter_and_sweet%2E_memories_and_brusies%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\87\ns6%3Abitter_and_sweet%2E_memories_and_brusies%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 9bFOX | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [bitter and sweet. memories and brusies](./bitter_and_sweet._memories_and_brusies.md)  
-该封面包含的角色：- [魅魔](./魅魔.md)
-
-
-
+- [bitter and sweet. memories and brusies](./bitter_and_sweet._memories_and_brusies.md)该封面包含的角色：
+- [魅魔](./魅魔.md)
 
 
 ---

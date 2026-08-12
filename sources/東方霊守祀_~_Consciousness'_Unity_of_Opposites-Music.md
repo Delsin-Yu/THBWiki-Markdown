@@ -1,6 +1,6 @@
 # 東方霊守祀_~_Consciousness'_Unity_of_Opposites/Music
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\0b\ns0%3A%E6%9D%B1%E6%96%B9%E9%9C%8A%E5%AE%88%E7%A5%80_%7E_Consciousness%27_Unity_of_Opposites%2FMusic.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\0b\ns0%3A%E6%9D%B1%E6%96%B9%E9%9C%8A%E5%AE%88%E7%A5%80_%7E_Consciousness%27_Unity_of_Opposites%2FMusic.html -->
 
 只鹳狸药堂
 
@@ -32,7 +32,6 @@
 </td></tr></tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
@@ -55,13 +54,12 @@
 </td></tr></tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
 <td style="background: #dde6ff;" align="center" width="15%"><h6><span id="1.E9.9D.A2boss-.E5.A4.A9.E9.9D.92.E5.9D.8A.E7.9F.A5.E9.9B.A8.E5.A7.AC.E4.B8.BB.E9.A2.98.E6.9B.B2"></span><span class="mw-headline" id="1面boss-天青坊知雨姬主题曲">1面boss-<a href="./天青坊知雨姬.md" title="天青坊知雨姬">天青坊知雨姬</a>主题曲</span></h6>
 </td>
-<td style="background: #FFFFCC;" align="center" width="55%">Glaciated Gloam  ～ 未鸣七弦<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">1</a></sup>
+<td style="background: #FFFFCC;" align="center" width="55%">Glaciated Gloam  ～ 未鸣七弦<span>[^cite_note-1]</span>
 </td>
 <td style="background: #dde6ff;" align="center" width="10%">♪ <i>灵猫子</i>
 </td></tr>
@@ -73,7 +71,6 @@
 ——灵猫子<br>
 </p>
 </td></tr></tbody></table>
-
 
 
 <table>
@@ -98,15 +95,14 @@
 </td></tr></tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
 <td style="background: #dde6ff;" align="center" width="15%"><h6><span id="2.E9.9D.A2boss-.E5.AE.89.E5.A6.AE.E5.8D.A1.C2.B7A.C2.B7T.C2.B7B.C2.B7.E5.86.AF.C2.B7.E9.9C.8D.E6.81.A9.E6.B5.B7.E5.A7.86.E4.B8.BB.E9.A2.98.E6.9B.B2"></span><span class="mw-headline" id="2面boss-安妮卡·A·T·B·冯·霍恩海姆主题曲">2面boss-<a href="./安妮卡·A·T·B·冯·霍恩海姆.md" title="安妮卡·A·T·B·冯·霍恩海姆">安妮卡·A·T·B·冯·霍恩海姆</a>主题曲</span></h6>
 </td>
-<td style="background: #FFFFCC;" align="center" width="55%">赤蔷薇的瓶中庭 ～ Demiurge of Gloriosa<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">2</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">3</a></sup>
+<td style="background: #FFFFCC;" align="center" width="55%">赤蔷薇的瓶中庭 ～ Demiurge of Gloriosa<span>[^cite_note-2]</span><span>[^cite_note-3]</span>
 </td>
-<td style="background: #dde6ff;" align="center" width="10%">♪ <i>H2SO4 &amp; 灵猫子</i>
+<td style="background: #dde6ff;" align="center" width="10%">♪ <i>H2SO4 & 灵猫子</i>
 </td></tr>
 <tr valign="top">
 <td colspan="3" style="padding:1em; padding-left:2em;" lang="zh" width="30%">
@@ -118,7 +114,6 @@
 ——H2SO4<br>
 </p>
 </td></tr></tbody></table>
-
 
 
 <table>
@@ -144,13 +139,12 @@
 </td></tr></tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
 <td style="background: #dde6ff;" align="center" width="15%"><h6><span id="3.E9.9D.A2boss-.E8.97.A4.E5.8E.9F.E6.96.87.E7.A5.A2.E4.B8.BB.E9.A2.98.E6.9B.B2"></span><span class="mw-headline" id="3面boss-藤原文祢主题曲">3面boss-<a href="./藤原文祢.md" title="藤原文祢">藤原文祢</a>主题曲</span></h6>
 </td>
-<td style="background: #FFFFCC;" align="center" width="55%">探韵夷社的光君 ～ Miscanthus Love lyrics<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">4</a></sup>
+<td style="background: #FFFFCC;" align="center" width="55%">探韵夷社的光君 ～ Miscanthus Love lyrics<span>[^cite_note-4]</span>
 </td>
 <td style="background: #dde6ff;" align="center" width="10%">♪ <i>SD</i>
 </td></tr>
@@ -163,7 +157,6 @@
 ——SD<br>
 </p>
 </td></tr></tbody></table>
-
 
 
 <table>
@@ -185,21 +178,10 @@
 </p>
 </td></tr></tbody></table>
 
-
-
 [^cite_note-1]: 「七弦琴」即七根弦的古琴，也称瑶琴、玉琴。在民间传说中，青女手抚七弦琴，应武罗女神的邀请来到凡尘，降霜雪平息诛杀蚩尤兄弟后留下的秽污。
-
-
-## 词条导航
-  
-  
-
-<table><tbody><tr><td><table cellspacing="0" class="nowraplinks mw-collapsible mw-collapsed" style="width:100%;;;"><tbody><tr><th style=";" colspan="3" class="navbox-title"><div class="navbar"><div class="noprint plainlinksneverexpand" style="background-color:transparent; padding:0; font-weight:normal; font-size:80%; white-space:nowrap;"><a href="./東方霊守祀_~_Consciousness'_Unity_of_Opposites-导航.md" title="東方霊守祀 ~ Consciousness&#39; Unity of Opposites/导航"><span style=";;border:none;" title="查看这个模板">查</span></a>&#160;<span style="font-size:80%;">•</span>&#160;<a href="/index.php?title=%E6%9D%B1%E6%96%B9%E9%9C%8A%E5%AE%88%E7%A5%80_~_Consciousness%27_Unity_of_Opposites/%E5%AF%BC%E8%88%AA&amp;action=edit"><span style=";;border:none;" title="您可以编辑这个模板。请在储存变更之前先预览">编</span></a></div></div><span><a href="./東方霊守祀_~_Consciousness'_Unity_of_Opposites.md" title="東方霊守祀 ~ Consciousness&#39; Unity of Opposites">東方霊守祀 ~ Consciousness' Unity of Opposites</a></span></th></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="./東方霊守祀_~_Consciousness'_Unity_of_Opposites-Omake.md" title="東方霊守祀 ~ Consciousness&#39; Unity of Opposites/Omake">角色</a></td><td style=";;" class="navbox-list navbox-odd"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>自机</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="/%E6%9D%B1%E6%96%B9%E9%9C%8A%E5%AE%88%E7%A5%80_~_Consciousness%27_Unity_of_Opposites/Omake#博丽灵梦" title="東方霊守祀 ~ Consciousness&#39; Unity of Opposites/Omake">博丽灵梦</a> &#8226; <a href="/%E6%9D%B1%E6%96%B9%E9%9C%8A%E5%AE%88%E7%A5%80_~_Consciousness%27_Unity_of_Opposites/Omake#雾雨魔理沙" title="東方霊守祀 ~ Consciousness&#39; Unity of Opposites/Omake">雾雨魔理沙</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>BOSS</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./天青坊知雨姬.md" title="天青坊知雨姬">天青坊知雨姬</a> &#8226; <a href="./安妮卡·A·T·B·冯·霍恩海姆.md" title="安妮卡·A·T·B·冯·霍恩海姆">安妮卡·A·T·B·冯·霍恩海姆</a> &#8226; <a href="./藤原文祢.md" title="藤原文祢">藤原文祢</a></div></td></tr></tbody></table><div></div></td><td class="navbox-image" style="" rowspan="11"><a href="./文件-東方霊守祀_~_Consciousness'_Unity_of_Opposites封面.jpg.md" class="image"><img alt="東方霊守祀 ~ Consciousness&#39; Unity of Opposites封面.jpg" src="https://upload.thwiki.cc/thumb/a/ac/%E6%9D%B1%E6%96%B9%E9%9C%8A%E5%AE%88%E7%A5%80_~_Consciousness%27_Unity_of_Opposites%E5%B0%81%E9%9D%A2.jpg/160px-%E6%9D%B1%E6%96%B9%E9%9C%8A%E5%AE%88%E7%A5%80_~_Consciousness%27_Unity_of_Opposites%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="160" height="160" srcset="https://upload.thwiki.cc/thumb/a/ac/%E6%9D%B1%E6%96%B9%E9%9C%8A%E5%AE%88%E7%A5%80_~_Consciousness%27_Unity_of_Opposites%E5%B0%81%E9%9D%A2.jpg/240px-%E6%9D%B1%E6%96%B9%E9%9C%8A%E5%AE%88%E7%A5%80_~_Consciousness%27_Unity_of_Opposites%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/a/ac/%E6%9D%B1%E6%96%B9%E9%9C%8A%E5%AE%88%E7%A5%80_~_Consciousness%27_Unity_of_Opposites%E5%B0%81%E9%9D%A2.jpg/320px-%E6%9D%B1%E6%96%B9%E9%9C%8A%E5%AE%88%E7%A5%80_~_Consciousness%27_Unity_of_Opposites%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="828" data-file-height="828"></a></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="./東方霊守祀_~_Consciousness'_Unity_of_Opposites-设定与剧情.md" title="東方霊守祀 ~ Consciousness&#39; Unity of Opposites/设定与剧情">剧情</a></td><td style=";;" class="navbox-list navbox-even"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>剧情文本</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="/%E6%9D%B1%E6%96%B9%E9%9C%8A%E5%AE%88%E7%A5%80_~_Consciousness%27_Unity_of_Opposites/Omake#故事背景" title="東方霊守祀 ~ Consciousness&#39; Unity of Opposites/Omake">故事背景</a> &#8226; <a href="./東方霊守祀_~_Consciousness'_Unity_of_Opposites-Omake.md" title="東方霊守祀 ~ Consciousness&#39; Unity of Opposites/Omake">Ex 故事背景</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>游戏对话&amp;结局</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./東方霊守祀_~_Consciousness'_Unity_of_Opposites-博丽灵梦.md" title="東方霊守祀 ~ Consciousness&#39; Unity of Opposites/博丽灵梦">博丽灵梦</a> &#8226; <a href="./東方霊守祀_~_Consciousness'_Unity_of_Opposites-雾雨魔理沙.md" title="東方霊守祀 ~ Consciousness&#39; Unity of Opposites/雾雨魔理沙">雾雨魔理沙</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>EX游戏对话</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="/index.php?title=%E6%9D%B1%E6%96%B9%E9%9C%8A%E5%AE%88%E7%A5%80_~_Consciousness%27_Unity_of_Opposites/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6_ExStory&amp;action=edit&amp;redlink=1" class="new" title="東方霊守祀 ~ Consciousness&#39; Unity of Opposites/博丽灵梦 ExStory（页面不存在）">博丽灵梦</a> &#8226; <a href="/index.php?title=%E6%9D%B1%E6%96%B9%E9%9C%8A%E5%AE%88%E7%A5%80_~_Consciousness%27_Unity_of_Opposites/%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99_ExStory&amp;action=edit&amp;redlink=1" class="new" title="東方霊守祀 ~ Consciousness&#39; Unity of Opposites/雾雨魔理沙 ExStory（页面不存在）">雾雨魔理沙</a></div></td></tr></tbody></table><div></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">场景</td><td style=";;" class="navbox-list navbox-odd"><div><a href="./人类村落.md" title="人类村落">人类村落</a> &#8226; <a href="./中有之道.md" title="中有之道">中有之道</a> &#8226; 灵界</div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">音乐</td><td style=";;" class="navbox-list navbox-even"><div><a class="mw-selflink selflink">Music Room</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="/index.php?title=%E6%9D%B1%E6%96%B9%E9%9C%8A%E5%AE%88%E7%A5%80_~_Consciousness%27_Unity_of_Opposites/%E9%99%84%E5%B8%A6%E6%96%87%E6%A1%A3&amp;action=edit&amp;redlink=1" class="new" title="東方霊守祀 ~ Consciousness&#39; Unity of Opposites/附带文档（页面不存在）">附带文档</a></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./東方霊守祀_~_Consciousness'_Unity_of_Opposites-Omake.md" title="東方霊守祀 ~ Consciousness&#39; Unity of Opposites/Omake">Omake</a> &#8226; <a href="./東方霊守祀_~_Consciousness'_Unity_of_Opposites-游戏内Manual.md" title="東方霊守祀 ~ Consciousness&#39; Unity of Opposites/游戏内Manual" unred="">Manual</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="/index.php?title=%E6%9D%B1%E6%96%B9%E9%9C%8A%E5%AE%88%E7%A5%80_~_Consciousness%27_Unity_of_Opposites/%E7%B3%BB%E7%BB%9F&amp;action=edit&amp;redlink=1" class="new" title="東方霊守祀 ~ Consciousness&#39; Unity of Opposites/系统（页面不存在）">系统</a></td><td style=";;" class="navbox-list navbox-even"><div><a href="/index.php?title=%E6%9D%B1%E6%96%B9%E9%9C%8A%E5%AE%88%E7%A5%80_~_Consciousness%27_Unity_of_Opposites/%E7%B3%BB%E7%BB%9F&amp;action=edit&amp;redlink=1" class="new" title="東方霊守祀 ~ Consciousness&#39; Unity of Opposites/系统（页面不存在）">系统</a> &#8226; <a href="./東方霊守祀_~_Consciousness'_Unity_of_Opposites-其他.md" title="東方霊守祀 ~ Consciousness&#39; Unity of Opposites/其他">其他相关资料</a></div></td></tr></tbody></table></td></tr></tbody></table>
-
-
-
-
-
+[^cite_note-2]: 「Demiurge」（德谬哥/迪米乌哥斯）是诺斯替教派（灵知派）的概念，也被称作「巨匠造物主」，被认为创造了「物质世界」。诺斯替教派的观点有善恶二元论倾向，认为物质世界是束缚精神的「牢笼」，造物主「Demiurge」是阻碍精神挣脱束缚的恶神，精神最终要脱离物质世界的阻碍，觉醒后回归灵界。
+[^cite_note-3]: 「Gloriosa」为拉丁语中「惊叹」、「荣耀」、「美丽」之意，也指现实中存在的一种花卉「嘉兰百合」，可能是捏他[东方架空园](./東方架空園～Magician＇s_Aerial_Dream..md)中的角色[玛娜·嘉兰](./玛娜·嘉兰.md)。
+[^cite_note-4]: 「Miscanthus」意为芒草，据说西行法师在陆奥见到藤原实方的墓塚，四周是荒凉原野，墓旁遍地芒草，故作和歌：「故人身已逝，空留不朽名。枯野秋芒穗，徒为遗物形」（朽ちもせぬその名ばかりをとどめおきて枯れ野のすすきかたみにぞ見る），在松尾芭蕉《奥州小道》中提到的「遗物芒」即出自此典故。
 
 ---
 

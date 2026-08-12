@@ -1,6 +1,6 @@
 # 文件:FOOL_SPIRAL_EP封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ac\ns6%3AFOOL_SPIRAL_EP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ac\ns6%3AFOOL_SPIRAL_EP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Find_Your_Way | 专辑封面 | 封面图片
 
@@ -10,16 +10,12 @@ Find_Your_Way | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [FOOL SPIRAL EP](./FOOL_SPIRAL_EP.md)  
-该封面包含的角色：- [古明地觉](./古明地觉.md)- [古明地恋](./古明地恋.md)
+- [FOOL SPIRAL EP](./FOOL_SPIRAL_EP.md)该封面包含的角色：
+- [古明地觉](./古明地觉.md)
+- [古明地恋](./古明地恋.md)
 
   
-源地址：[direct image link (10 size)](https://f4.bcbits.com/img/a2644015768_10.jpg), [source page (artist Bandcamp)](https://youwillfindyourway.bandcamp.com/album/fool-spiral-ep)
-  
-
-
-
-
+源地址：[direct image link (10 size)](https://f4.bcbits.com/img/a2644015768_10.jpg), [source page (artist Bandcamp)](https://youwillfindyourway.bandcamp.com/album/fool-spiral-ep)  
 
 ---
 

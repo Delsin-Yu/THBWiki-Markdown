@@ -1,6 +1,6 @@
 # 文件:SECRET_MlND_EP封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c3\ns6%3ASECRET_MlND_EP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c3\ns6%3ASECRET_MlND_EP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Find_Your_Way | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ Find_Your_Way | 专辑封面 | 封面图片
   
 
 - [SECRET MlND EP](./SECRET_MlND_EP.md)
-
-
-
 
 
 ---

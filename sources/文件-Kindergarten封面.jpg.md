@@ -1,6 +1,6 @@
 # 文件:Kindergarten封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ea\ns6%3AKindergarten%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ea\ns6%3AKindergarten%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 カースドフォーチュン | 同人志封面 | 封面图片
 
@@ -10,16 +10,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [Kindergarten](./Kindergarten.md)  
-该封面包含的角色：- [骊驹早鬼](./骊驹早鬼.md)- [吉吊八千慧](./吉吊八千慧.md)
+- [Kindergarten](./Kindergarten.md)该封面包含的角色：
+- [骊驹早鬼](./骊驹早鬼.md)
+- [吉吊八千慧](./吉吊八千慧.md)
 
   
-源地址：[direct image link (original size)](https://pbs.twimg.com/media/FSCT6sOVsAIlCSE?format=jpg&amp;name=orig), [source tweet](https://twitter.com/kyacchi0229/status/1522531624734404610)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://pbs.twimg.com/media/FSCT6sOVsAIlCSE?format=jpg&name=orig), [source tweet](https://twitter.com/kyacchi0229/status/1522531624734404610)  
 
 ---
 

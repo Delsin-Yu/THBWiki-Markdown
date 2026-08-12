@@ -1,6 +1,6 @@
 # 文件:长沙THO纪念CD试听封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2f\ns6%3A%E9%95%BF%E6%B2%99THO%E7%BA%AA%E5%BF%B5CD%E8%AF%95%E5%90%AC%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2f\ns6%3A%E9%95%BF%E6%B2%99THO%E7%BA%AA%E5%BF%B5CD%E8%AF%95%E5%90%AC%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 颠神探女
 
@@ -10,11 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [长沙THO纪念CD试听](./长沙THO纪念CD试听.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)- [射命丸文](./射命丸文.md)- [犬走椛](./犬走椛.md)
-
-
-
+- [长沙THO纪念CD试听](./长沙THO纪念CD试听.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
+- [射命丸文](./射命丸文.md)
+- [犬走椛](./犬走椛.md)
 
 
 ---

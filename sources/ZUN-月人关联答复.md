@@ -1,31 +1,18 @@
 # ZUN/月人关联答复
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\7\7c\ns0%3AZUN%2F%E6%9C%88%E4%BA%BA%E5%85%B3%E8%81%94%E7%AD%94%E5%A4%8D.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\7\7c\ns0%3AZUN%2F%E6%9C%88%E4%BA%BA%E5%85%B3%E8%81%94%E7%AD%94%E5%A4%8D.html -->
 
 ZUN | 使用了翻译表的页面
+
 
 - 本页面内容是由弘世从ZUN氏得到的关于八意永琳和蓬莱山辉夜的年龄的描述。
 - 刊载于弘世（[アルトノイラント](./アルトノイラント.md)）的音乐CD[帰るべき城](./帰るべき城.md)（2005年05月04日，例大祭2）的BK文档中。
 
-  
-  
-
-  
-
 
 <table><tbody><tr class="tt-content" id="=-1" data-pos="&#91;&quot;=&quot;,1&#93;"><td class="tt-ja" lang="ja"><div class="poem">原作者ZUN氏に聞いたところ（酔っぱらった時に聞いた答えだが）、永琳や輝夜の年齢は億単位だそうだ。</div></td><td class="tt-zh" lang="zh"><div class="poem">听原作者ZUN说（醉酒时候说的），永琳和辉夜的年龄是以亿为计数单位的。</div></td></tr></tbody></table>
 
-
-[](./文件-弘世的月人关联答复.jpg.md)  [](./文件-弘世的月人关联答复.jpg.md)帰るべき城
-  
-  
-
-  
-
-
-
-
-
+<img alt="" src="https://upload.thwiki.cc/thumb/0/00/%E5%BC%98%E4%B8%96%E7%9A%84%E6%9C%88%E4%BA%BA%E5%85%B3%E8%81%94%E7%AD%94%E5%A4%8D.jpg/300px-%E5%BC%98%E4%B8%96%E7%9A%84%E6%9C%88%E4%BA%BA%E5%85%B3%E8%81%94%E7%AD%94%E5%A4%8D.jpg" decoding="async" loading="lazy" width="300" height="151" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/0/00/%E5%BC%98%E4%B8%96%E7%9A%84%E6%9C%88%E4%BA%BA%E5%85%B3%E8%81%94%E7%AD%94%E5%A4%8D.jpg/450px-%E5%BC%98%E4%B8%96%E7%9A%84%E6%9C%88%E4%BA%BA%E5%85%B3%E8%81%94%E7%AD%94%E5%A4%8D.jpg 1.5x, https://upload.thwiki.cc/thumb/0/00/%E5%BC%98%E4%B8%96%E7%9A%84%E6%9C%88%E4%BA%BA%E5%85%B3%E8%81%94%E7%AD%94%E5%A4%8D.jpg/600px-%E5%BC%98%E4%B8%96%E7%9A%84%E6%9C%88%E4%BA%BA%E5%85%B3%E8%81%94%E7%AD%94%E5%A4%8D.jpg 2x" data-file-width="1850" data-file-height="934">
+ [放大](./文件-弘世的月人关联答复.jpg.md)帰るべき城
 ---
 
 此文档由 [THBWiki-Markdown-Builder](https://github.com/Delsin-Yu/THBWiki-Markdown-Builder) 构建。

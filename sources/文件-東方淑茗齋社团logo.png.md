@@ -1,16 +1,12 @@
 # 文件:東方淑茗齋社团logo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7d\ns6%3A%E6%9D%B1%E6%96%B9%E6%B7%91%E8%8C%97%E9%BD%8B%E7%A4%BE%E5%9B%A2logo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7d\ns6%3A%E6%9D%B1%E6%96%B9%E6%B7%91%E8%8C%97%E9%BD%8B%E7%A4%BE%E5%9B%A2logo%2Epng.html -->
 
 东方淑茗斋 | 社团LOGO
 
   
 绘师：皮里
   
-
-
-
-
 
 ---
 

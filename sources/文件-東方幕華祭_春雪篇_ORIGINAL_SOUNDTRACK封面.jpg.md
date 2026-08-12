@@ -1,6 +1,6 @@
 # 文件:東方幕華祭_春雪篇_ORIGINAL_SOUNDTRACK封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\16\ns6%3A%E6%9D%B1%E6%96%B9%E5%B9%95%E8%8F%AF%E7%A5%AD_%E6%98%A5%E9%9B%AA%E7%AF%87_ORIGINAL_SOUNDTRACK%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\16\ns6%3A%E6%9D%B1%E6%96%B9%E5%B9%95%E8%8F%AF%E7%A5%AD_%E6%98%A5%E9%9B%AA%E7%AF%87_ORIGINAL_SOUNDTRACK%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 东方幕华祭制作组 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方幕華祭 春雪篇 ORIGINAL SOUNDTRACK](./東方幕華祭_春雪篇_ORIGINAL_SOUNDTRACK.md)  
-该封面包含的角色：- [西行寺幽幽子](./西行寺幽幽子.md)
-
-
-
+- [東方幕華祭 春雪篇 ORIGINAL SOUNDTRACK](./東方幕華祭_春雪篇_ORIGINAL_SOUNDTRACK.md)该封面包含的角色：
+- [西行寺幽幽子](./西行寺幽幽子.md)
 
 
 ---

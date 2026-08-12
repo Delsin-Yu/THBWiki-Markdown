@@ -1,6 +1,6 @@
 # 文件:OVER_THE_MOON封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b0\ns6%3AOVER_THE_MOON%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b0\ns6%3AOVER_THE_MOON%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 道草バンドワゴン
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [OVER THE MOON](./OVER_THE_MOON.md)  
-该封面包含的角色：- [因幡帝](./因幡帝.md)
-
-
-
+- [OVER THE MOON](./OVER_THE_MOON.md)该封面包含的角色：
+- [因幡帝](./因幡帝.md)
 
 
 ---

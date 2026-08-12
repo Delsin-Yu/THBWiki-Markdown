@@ -1,12 +1,8 @@
 # 文件:博丽灵梦by魔王陛下.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d1\ns6%3A%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6by%E9%AD%94%E7%8E%8B%E9%99%9B%E4%B8%8B%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d1\ns6%3A%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6by%E9%AD%94%E7%8E%8B%E9%99%9B%E4%B8%8B%2Ejpg.html -->
 
 博丽灵梦 | 蓬莱少女绘幻想
-
-
-
-
 
 
 ---

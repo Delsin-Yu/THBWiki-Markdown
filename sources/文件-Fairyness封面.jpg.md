@@ -1,6 +1,6 @@
 # 文件:Fairyness封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\77\ns6%3AFairyness%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\77\ns6%3AFairyness%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 発熱巫女～ず
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Fairyness](./Fairyness.md)  
-该封面包含的角色：- [爱塔妮缇拉尔瓦](./爱塔妮缇拉尔瓦.md)
-
-
-
+- [Fairyness](./Fairyness.md)该封面包含的角色：
+- [爱塔妮缇拉尔瓦](./爱塔妮缇拉尔瓦.md)
 
 
 ---

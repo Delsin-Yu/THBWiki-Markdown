@@ -1,12 +1,8 @@
 # 文件:东方铃奈庵第五卷waist.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\65\ns6%3A%E4%B8%9C%E6%96%B9%E9%93%83%E5%A5%88%E5%BA%B5%E7%AC%AC%E4%BA%94%E5%8D%B7waist%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\65\ns6%3A%E4%B8%9C%E6%96%B9%E9%93%83%E5%A5%88%E5%BA%B5%E7%AC%AC%E4%BA%94%E5%8D%B7waist%2Ejpg.html -->
 
 东方铃奈庵
-
-
-
-
 
 
 ---

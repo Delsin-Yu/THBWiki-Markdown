@@ -1,16 +1,12 @@
 # 模板:CWHK
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\0\00\ns10%3ACWHK.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\0\00\ns10%3ACWHK.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

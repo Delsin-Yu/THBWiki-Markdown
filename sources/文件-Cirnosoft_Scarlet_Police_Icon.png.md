@@ -1,12 +1,8 @@
 # 文件:Cirnosoft_Scarlet_Police_Icon.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\de\ns6%3ACirnosoft_Scarlet_Police_Icon%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\de\ns6%3ACirnosoft_Scarlet_Police_Icon%2Epng.html -->
 
 东方幻想空间琪软公司
-
-
-
-
 
 
 ---

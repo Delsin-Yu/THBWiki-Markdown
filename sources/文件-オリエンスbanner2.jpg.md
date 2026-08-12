@@ -1,14 +1,11 @@
 # 文件:オリエンスbanner2.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fe\ns6%3A%E3%82%AA%E3%83%AA%E3%82%A8%E3%83%B3%E3%82%B9banner2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fe\ns6%3A%E3%82%AA%E3%83%AA%E3%82%A8%E3%83%B3%E3%82%B9banner2%2Ejpg.html -->
 
 オリエンス | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

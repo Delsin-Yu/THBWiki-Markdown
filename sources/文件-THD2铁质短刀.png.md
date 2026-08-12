@@ -1,12 +1,8 @@
 # 文件:THD2铁质短刀.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bd\ns6%3ATHD2%E9%93%81%E8%B4%A8%E7%9F%AD%E5%88%80%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bd\ns6%3ATHD2%E9%93%81%E8%B4%A8%E7%9F%AD%E5%88%80%2Epng.html -->
 
 AvalonStudioOfficial | THD2
-
-
-
-
 
 
 ---

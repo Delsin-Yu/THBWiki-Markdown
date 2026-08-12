@@ -1,6 +1,6 @@
 # 文件:Nature_Report封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ca\ns6%3ANature_Report%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ca\ns6%3ANature_Report%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Aqua_Blend_Server | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ Aqua_Blend_Server | 专辑封面 | 封面图片
   
 
 - [Nature Report](./Nature_Report.md)
-
-
-
 
 
 ---

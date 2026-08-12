@@ -1,6 +1,6 @@
 # 文件:Tanks_of_Louts_Asia_東の果ての戦車たち封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9e\ns6%3ATanks_of_Louts_Asia_%E6%9D%B1%E3%81%AE%E6%9E%9C%E3%81%A6%E3%81%AE%E6%88%A6%E8%BB%8A%E3%81%9F%E3%81%A1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9e\ns6%3ATanks_of_Louts_Asia_%E6%9D%B1%E3%81%AE%E6%9E%9C%E3%81%A6%E3%81%AE%E6%88%A6%E8%BB%8A%E3%81%9F%E3%81%A1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 カルトッフェル | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Tanks of Louts Asia 東の果ての戦車たち](./Tanks_of_Louts_Asia_東の果ての戦車たち.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [Tanks of Louts Asia 東の果ての戦車たち](./Tanks_of_Louts_Asia_東の果ての戦車たち.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

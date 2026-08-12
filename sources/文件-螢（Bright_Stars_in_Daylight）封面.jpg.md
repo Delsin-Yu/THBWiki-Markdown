@@ -1,6 +1,6 @@
 # 文件:螢（Bright_Stars_in_Daylight）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\31\ns6%3A%E8%9E%A2%EF%BC%88Bright_Stars_in_Daylight%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\31\ns6%3A%E8%9E%A2%EF%BC%88Bright_Stars_in_Daylight%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Bright_Stars_in_Daylight | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Bright_Stars_in_Daylight | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [螢（Bright Stars in Daylight）](./螢（Bright_Stars_in_Daylight）.md)  
-该封面包含的角色：- [莉格露·奈特巴格](./莉格露·奈特巴格.md)
-
-
-
+- [螢（Bright Stars in Daylight）](./螢（Bright_Stars_in_Daylight）.md)该封面包含的角色：
+- [莉格露·奈特巴格](./莉格露·奈特巴格.md)
 
 
 ---

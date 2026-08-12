@@ -1,6 +1,6 @@
 # 文件:Ghaneveille_-収容幻想-_"Izanagi"封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\37\ns6%3AGhaneveille_-%E5%8F%8E%E5%AE%B9%E5%B9%BB%E6%83%B3-_%22Izanagi%22%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\37\ns6%3AGhaneveille_-%E5%8F%8E%E5%AE%B9%E5%B9%BB%E6%83%B3-_%22Izanagi%22%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 U京都怪奇倶楽部 | 同人志封面 | 封面图片
 
@@ -8,11 +8,9 @@ U京都怪奇倶楽部 | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Ghaneveille -収容幻想- "Izanagi"](./Ghaneveille_-収容幻想-_-Izanagi-.md)  
-该封面包含的角色：- [洩矢诹访子](./洩矢诹访子.md)- [宇佐见堇子](./宇佐见堇子.md)
-
-
-
+- [Ghaneveille -収容幻想- "Izanagi"](./Ghaneveille_-収容幻想-_-Izanagi-.md)该封面包含的角色：
+- [洩矢诹访子](./洩矢诹访子.md)
+- [宇佐见堇子](./宇佐见堇子.md)
 
 
 ---

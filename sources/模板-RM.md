@@ -1,16 +1,12 @@
 # 模板:RM
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\3\36\ns10%3ARM.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\3\36\ns10%3ARM.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

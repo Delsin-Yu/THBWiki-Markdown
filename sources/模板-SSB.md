@@ -1,16 +1,12 @@
 # 模板:SSB
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\2\2d\ns10%3ASSB.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\2\2d\ns10%3ASSB.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

@@ -1,12 +1,8 @@
 # 文件:EaLND_01.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\59\ns6%3AEaLND_01%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\59\ns6%3AEaLND_01%2Emp3.html -->
 
 Sunny_Rutile_Flection | 东方三月精_～_Eastern_and_Little_Nature_Deity. | 原曲MP3
-
-
-
-
 
 
 ---

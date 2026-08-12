@@ -1,12 +1,8 @@
 # 文件:狐の工作室_banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5e\ns6%3A%E7%8B%90%E3%81%AE%E5%B7%A5%E4%BD%9C%E5%AE%A4_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5e\ns6%3A%E7%8B%90%E3%81%AE%E5%B7%A5%E4%BD%9C%E5%AE%A4_banner%2Ejpg.html -->
 
 狐の工作室 | 社团LOGO
-
-
-
-
 
 
 ---

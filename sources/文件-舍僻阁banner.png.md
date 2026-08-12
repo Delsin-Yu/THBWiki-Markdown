@@ -1,12 +1,8 @@
 # 文件:舍僻阁banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d4\ns6%3A%E8%88%8D%E5%83%BB%E9%98%81banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d4\ns6%3A%E8%88%8D%E5%83%BB%E9%98%81banner%2Epng.html -->
 
 社团LOGO | 舍僻阁
-
-
-
-
 
 
 ---

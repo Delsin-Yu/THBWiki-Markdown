@@ -1,16 +1,11 @@
 # 文件:RTTF_Recordsbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\93\ns6%3ARTTF_Recordsbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\93\ns6%3ARTTF_Recordsbanner%2Epng.html -->
 
 RTTF_Records | 社团LOGO
 
   
-源地址：[[1]](http://rttfrecords.com/rttf_logo.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://rttfrecords.com/rttf_logo.jpg)  
 
 ---
 

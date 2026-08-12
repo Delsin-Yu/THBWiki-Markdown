@@ -1,12 +1,8 @@
 # 文件:无现里凤联薮雨BadEnding.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4c\ns6%3A%E6%97%A0%E7%8E%B0%E9%87%8C%E5%87%A4%E8%81%94%E8%96%AE%E9%9B%A8BadEnding%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4c\ns6%3A%E6%97%A0%E7%8E%B0%E9%87%8C%E5%87%A4%E8%81%94%E8%96%AE%E9%9B%A8BadEnding%2Epng.html -->
 
 トリック・ノスタルジー | 连缘无现里
-
-
-
-
 
 
 ---

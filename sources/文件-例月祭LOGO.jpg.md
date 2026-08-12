@@ -1,12 +1,8 @@
 # 文件:例月祭LOGO.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\03\ns6%3A%E4%BE%8B%E6%9C%88%E7%A5%ADLOGO%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\03\ns6%3A%E4%BE%8B%E6%9C%88%E7%A5%ADLOGO%2Ejpg.html -->
 
 例月祭 | 活动LOGO
-
-
-
-
 
 
 ---

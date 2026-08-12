@@ -1,12 +1,8 @@
 # 文件:ユウノウミbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\66\ns6%3A%E3%83%A6%E3%82%A6%E3%83%8E%E3%82%A6%E3%83%9Fbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\66\ns6%3A%E3%83%A6%E3%82%A6%E3%83%8E%E3%82%A6%E3%83%9Fbanner%2Ejpg.html -->
 
 ユウノウミ | 社团LOGO
-
-
-
-
 
 
 ---

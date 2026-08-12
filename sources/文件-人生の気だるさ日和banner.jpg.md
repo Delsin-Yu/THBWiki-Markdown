@@ -1,16 +1,11 @@
 # 文件:人生の気だるさ日和banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\57\ns6%3A%E4%BA%BA%E7%94%9F%E3%81%AE%E6%B0%97%E3%81%A0%E3%82%8B%E3%81%95%E6%97%A5%E5%92%8Cbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\57\ns6%3A%E4%BA%BA%E7%94%9F%E3%81%AE%E6%B0%97%E3%81%A0%E3%82%8B%E3%81%95%E6%97%A5%E5%92%8Cbanner%2Ejpg.html -->
 
 人生の気だるさ日和 | 社团LOGO
 
   
-源地址：[[1]](http://kat.ushimairi.com/index.htm)
-  
-
-
-
-
+源地址：[\[1\]](http://kat.ushimairi.com/index.htm)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:最速結界_G・FREE封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0b\ns6%3A%E6%9C%80%E9%80%9F%E7%B5%90%E7%95%8C_G%E3%83%BBFREE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0b\ns6%3A%E6%9C%80%E9%80%9F%E7%B5%90%E7%95%8C_G%E3%83%BBFREE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 さくSaku亭 | 同人志封面 | 封面图片
 
@@ -8,11 +8,14 @@
 使用了本文件作封面图片的作品：
   
 
-- [最速結界 G・FREE](./最速結界_G・FREE.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- 十六夜咲夜 (未找到链接)- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [八云紫](./八云紫.md)- [射命丸文](./射命丸文.md)- [伊吹萃香](./伊吹萃香.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [最速結界 G・FREE](./最速結界_G・FREE.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [十六夜咲夜](./十六夜咲夜.md)
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [八云紫](./八云紫.md)
+- [射命丸文](./射命丸文.md)
+- [伊吹萃香](./伊吹萃香.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

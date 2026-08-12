@@ -1,6 +1,6 @@
 # 文件:Red_Hot_Remi_Peppers封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\aa\ns6%3ARed_Hot_Remi_Peppers%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\aa\ns6%3ARed_Hot_Remi_Peppers%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 幻想四季
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Red Hot Remi Peppers](./Red_Hot_Remi_Peppers.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
-
-
-
+- [Red Hot Remi Peppers](./Red_Hot_Remi_Peppers.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
 
 ---

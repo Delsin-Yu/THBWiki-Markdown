@@ -1,6 +1,6 @@
 # 文件:Air_One_hour_Dream_EP.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\94\ns6%3AAir_One_hour_Dream_EP%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\94\ns6%3AAir_One_hour_Dream_EP%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Undefined_Field | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ Undefined_Field | 专辑封面 | 封面图片
   
 
 - [Air One hour Dream EP.](./Air_One_hour_Dream_EP..md)
-
-
-
 
 
 ---

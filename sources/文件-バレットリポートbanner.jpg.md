@@ -1,12 +1,8 @@
 # 文件:バレットリポートbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4c\ns6%3A%E3%83%90%E3%83%AC%E3%83%83%E3%83%88%E3%83%AA%E3%83%9D%E3%83%BC%E3%83%88banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4c\ns6%3A%E3%83%90%E3%83%AC%E3%83%83%E3%83%88%E3%83%AA%E3%83%9D%E3%83%BC%E3%83%88banner%2Ejpg.html -->
 
 AQUA_STYLE
-
-
-
-
 
 
 ---

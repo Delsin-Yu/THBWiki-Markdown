@@ -1,6 +1,6 @@
 # 文件:Suite_Crumble封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1e\ns6%3ASuite_Crumble%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1e\ns6%3ASuite_Crumble%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 すい～と・らぴーぬ | 封面图片 | 软件封面
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Suite Crumble](./Suite_Crumble.md)  
-该封面包含的角色：- [键山雏](./键山雏.md)
-
-
-
+- [Suite Crumble](./Suite_Crumble.md)该封面包含的角色：
+- [键山雏](./键山雏.md)
 
 
 ---

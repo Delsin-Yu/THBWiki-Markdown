@@ -1,6 +1,6 @@
 # 文件:FlatWorld封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d1\ns6%3AFlatWorld%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d1\ns6%3AFlatWorld%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 dat_file_records | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ dat_file_records | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [FlatWorld](./FlatWorld.md)  
-该封面包含的角色：- [露米娅](./露米娅.md)
+- [FlatWorld](./FlatWorld.md)该封面包含的角色：
+- [露米娅](./露米娅.md)
 
   
-源地址：[[1]](http://static.tumblr.com/f09dfa2cdd57eb1b7b7975d36ea94c02/e3lazzy/Jvumma1cf/tumblr_static_aaaaaa.png)
-  
-
-
-
-
+源地址：[\[1\]](http://static.tumblr.com/f09dfa2cdd57eb1b7b7975d36ea94c02/e3lazzy/Jvumma1cf/tumblr_static_aaaaaa.png)  
 
 ---
 

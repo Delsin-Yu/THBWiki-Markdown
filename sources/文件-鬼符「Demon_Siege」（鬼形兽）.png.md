@@ -1,14 +1,11 @@
 # 文件:鬼符「Demon_Siege」（鬼形兽）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ef\ns6%3A%E9%AC%BC%E7%AC%A6%E3%80%8CDemon_Siege%E3%80%8D%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ef\ns6%3A%E9%AC%BC%E7%AC%A6%E3%80%8CDemon_Siege%E3%80%8D%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%EF%BC%89%2Epng.html -->
 
 东方鬼形兽 | 敌机符卡 | 牛崎润美
 
 
 ## 文件说明
-
-
-
 
 ---
 

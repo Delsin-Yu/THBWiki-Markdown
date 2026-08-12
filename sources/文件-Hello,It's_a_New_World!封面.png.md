@@ -1,6 +1,6 @@
 # 文件:Hello,It's_a_New_World!封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1e\ns6%3AHello%2CIt%27s_a_New_World%21%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1e\ns6%3AHello%2CIt%27s_a_New_World%21%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Aftergrow | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Aftergrow | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Hello,It's a New World!](./Hello,It's_a_New_World!.md)  
-该封面包含的角色：- [东风谷早苗](./东风谷早苗.md)
-
-
-
+- [Hello,It's a New World!](./Hello,It's_a_New_World!.md)该封面包含的角色：
+- [东风谷早苗](./东风谷早苗.md)
 
 
 ---

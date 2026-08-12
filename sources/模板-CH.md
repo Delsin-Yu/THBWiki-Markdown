@@ -1,16 +1,12 @@
 # 模板:CH
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\2\27\ns10%3ACH.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\2\27\ns10%3ACH.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

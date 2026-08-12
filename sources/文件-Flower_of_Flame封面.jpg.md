@@ -1,6 +1,6 @@
 # 文件:Flower_of_Flame封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bd\ns6%3AFlower_of_Flame%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bd\ns6%3AFlower_of_Flame%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 もぱた。 | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Flower of Flame](./Flower_of_Flame.md)  
-该封面包含的角色：- [火焰猫燐](./火焰猫燐.md)
+- [Flower of Flame](./Flower_of_Flame.md)该封面包含的角色：
+- [火焰猫燐](./火焰猫燐.md)
 
   
-[[1]](http://mopata-mtcd0007.tumblr.com/)
-  
-
-
-
-
+[\[1\]](http://mopata-mtcd0007.tumblr.com/)  
 
 ---
 

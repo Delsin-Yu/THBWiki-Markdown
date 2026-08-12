@@ -1,6 +1,6 @@
 # 文件:Past_sight／見えないマスタースパーク封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\59\ns6%3APast_sight%EF%BC%8F%E8%A6%8B%E3%81%88%E3%81%AA%E3%81%84%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%B9%E3%83%91%E3%83%BC%E3%82%AF%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\59\ns6%3APast_sight%EF%BC%8F%E8%A6%8B%E3%81%88%E3%81%AA%E3%81%84%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%B9%E3%83%91%E3%83%BC%E3%82%AF%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 猫侍
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [Past sight／見えないマスタースパーク](./Past_sight／見えないマスタースパーク.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [Past sight／見えないマスタースパーク](./Past_sight／見えないマスタースパーク.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

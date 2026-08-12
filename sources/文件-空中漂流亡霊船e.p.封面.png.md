@@ -1,6 +1,6 @@
 # 文件:空中漂流亡霊船e.p.封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\12\ns6%3A%E7%A9%BA%E4%B8%AD%E6%BC%82%E6%B5%81%E4%BA%A1%E9%9C%8A%E8%88%B9e%2Ep%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\12\ns6%3A%E7%A9%BA%E4%B8%AD%E6%BC%82%E6%B5%81%E4%BA%A1%E9%9C%8A%E8%88%B9e%2Ep%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 クロックタイムアナグラム | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [空中漂流亡霊船e.p.](./空中漂流亡霊船e.p..md)  
-该封面包含的角色：- [村纱水蜜](./村纱水蜜.md)
-
-
-
+- [空中漂流亡霊船e.p.](./空中漂流亡霊船e.p..md)该封面包含的角色：
+- [村纱水蜜](./村纱水蜜.md)
 
 
 ---

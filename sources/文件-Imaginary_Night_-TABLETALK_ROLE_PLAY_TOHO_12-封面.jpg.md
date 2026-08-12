@@ -1,6 +1,6 @@
 # 文件:Imaginary_Night_-TABLETALK_ROLE_PLAY_TOHO_12-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2a\ns6%3AImaginary_Night_-TABLETALK_ROLE_PLAY_TOHO_12-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2a\ns6%3AImaginary_Night_-TABLETALK_ROLE_PLAY_TOHO_12-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 天秤亭 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Imaginary Night -TABLETALK ROLE PLAY TOHO 12-](./Imaginary_Night_-TABLETALK_ROLE_PLAY_TOHO_12-.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
-
-
-
+- [Imaginary Night -TABLETALK ROLE PLAY TOHO 12-](./Imaginary_Night_-TABLETALK_ROLE_PLAY_TOHO_12-.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
 
 
 ---

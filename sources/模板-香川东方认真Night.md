@@ -1,16 +1,12 @@
 # 模板:香川东方认真Night
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\3\33\ns10%3A%E9%A6%99%E5%B7%9D%E4%B8%9C%E6%96%B9%E8%AE%A4%E7%9C%9FNight.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\3\33\ns10%3A%E9%A6%99%E5%B7%9D%E4%B8%9C%E6%96%B9%E8%AE%A4%E7%9C%9FNight.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:CLAN_SHOOTIST封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\95\ns6%3ACLAN_SHOOTIST%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\95\ns6%3ACLAN_SHOOTIST%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Third_Joker | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ Third_Joker | 专辑封面 | 封面图片
   
 
 - [CLAN SHOOTIST](./CLAN_SHOOTIST.md)
-
-
-
 
 
 ---

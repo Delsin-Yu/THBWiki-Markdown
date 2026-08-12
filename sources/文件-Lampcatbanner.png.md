@@ -1,16 +1,12 @@
 # 文件:Lampcatbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a7\ns6%3ALampcatbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a7\ns6%3ALampcatbanner%2Epng.html -->
 
 Lampcat | 社团LOGO
 
   
 分类:社团LOGO分类:Lampcat
   
-
-
-
-
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:東方文花帖全部ゲーム○ーイ_2DS封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f1\ns6%3A%E6%9D%B1%E6%96%B9%E6%96%87%E8%8A%B1%E5%B8%96%E5%85%A8%E9%83%A8%E3%82%B2%E3%83%BC%E3%83%A0%E2%97%8B%E3%83%BC%E3%82%A4_2DS%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f1\ns6%3A%E6%9D%B1%E6%96%B9%E6%96%87%E8%8A%B1%E5%B8%96%E5%85%A8%E9%83%A8%E3%82%B2%E3%83%BC%E3%83%A0%E2%97%8B%E3%83%BC%E3%82%A4_2DS%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 STUDIO_BLUEFULL | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ STUDIO_BLUEFULL | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方文花帖全部ゲーム○ーイ 2DS](./東方文花帖全部ゲーム○ーイ_2DS.md)  
-该封面包含的角色：- [姬海棠果](./姬海棠果.md)
-
-
-
+- [東方文花帖全部ゲーム○ーイ 2DS](./東方文花帖全部ゲーム○ーイ_2DS.md)该封面包含的角色：
+- [姬海棠果](./姬海棠果.md)
 
 
 ---

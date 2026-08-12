@@ -1,6 +1,6 @@
 # 文件:Solitude（Spoo_and_Nick）封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\ba\ns6%3ASolitude%EF%BC%88Spoo_and_Nick%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\ba\ns6%3ASolitude%EF%BC%88Spoo_and_Nick%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Spoo_and_Nick | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Spoo_and_Nick | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Solitude（Spoo and Nick）](./Solitude（Spoo_and_Nick）.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
-
-
-
+- [Solitude（Spoo and Nick）](./Solitude（Spoo_and_Nick）.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
 
 ---

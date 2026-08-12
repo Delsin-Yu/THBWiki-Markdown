@@ -1,6 +1,6 @@
 # 文件:GX-RateD封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b4\ns6%3AGX-RateD%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b4\ns6%3AGX-RateD%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 OG-G_Music_Works | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ OG-G_Music_Works | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [GX-RateD](./GX-RateD.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [GX-RateD](./GX-RateD.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:三色だんご（Sunny_Milk）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9f\ns6%3A%E4%B8%89%E8%89%B2%E3%81%A0%E3%82%93%E3%81%94%EF%BC%88Sunny_Milk%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9f\ns6%3A%E4%B8%89%E8%89%B2%E3%81%A0%E3%82%93%E3%81%94%EF%BC%88Sunny_Milk%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 みずいろシャボン | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [三色だんご（Sunny Milk）](./三色だんご（Sunny_Milk）.md)  
-该封面包含的角色：- [桑尼米尔克](./桑尼米尔克.md)
-
-
-
+- [三色だんご（Sunny Milk）](./三色だんご（Sunny_Milk）.md)该封面包含的角色：
+- [桑尼米尔克](./桑尼米尔克.md)
 
 
 ---

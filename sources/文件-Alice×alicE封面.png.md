@@ -1,6 +1,6 @@
 # 文件:Alice×alicE封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9b\ns6%3AAlice%C3%97alicE%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9b\ns6%3AAlice%C3%97alicE%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Rico_Rico_Alice | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Rico_Rico_Alice | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Alice×alicE](./Alice×alicE.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
-
-
-
+- [Alice×alicE](./Alice×alicE.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
 
 
 ---

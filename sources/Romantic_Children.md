@@ -1,45 +1,35 @@
 # Romantic_Children
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\1\1f\ns0%3ARomantic_Children.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\1\1f\ns0%3ARomantic_Children.html -->
 
 由 ZUN 创作的官方曲目，原名 Romantic Children
 
 本页是关于东方Project  
- **原作音乐** 的词条
-
+**原作音乐**的词条
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 出现作品](#出现作品)
 - [3 音乐文件](#音乐文件)
-
   - [3.1 东方怪绮谈](#东方怪绮谈)
   - [3.2 东方幻想的音乐](#东方幻想的音乐)
   - [3.3 东方幻想怀古曲](#东方幻想怀古曲)
   - [3.4 幺乐团的历史 vol.2](#幺乐团的历史_vol.2)
 
 
-
 - [4 说明文本](#说明文本)
-
   - [4.1 东方怪绮谈](#东方怪绮谈_2)
   - [4.2 东方幻想的音乐](#东方幻想的音乐_2)
   - [4.3 东方幻想怀古曲](#东方幻想怀古曲_2)
 
 
-
 - [5 其他资料](#其他资料)
-
   - [5.1 乐理资讯](#乐理资讯)
   - [5.2 分析考据](#分析考据)
   - [5.3 二次同人数据](#二次同人数据)
 
 
-
 - [6 注释](#注释)
-
-
-
 
 
 ## 基本信息
@@ -47,16 +37,14 @@
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">Romantic Children</td></tr><tr><td><b>译名</b></td><td>Romantic Children</td></tr><tr><td><b>其他译名</b></td><td>浪漫的孩子</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 Romantic Children（曲目） - 由 ZUN 创作的官方曲目，原名 Romantic Children
-
 ## 出现作品
 
 <table>
 <tbody><tr><td>1998年12月30日（Comic Market 55）</td><td><b><a href="./东方怪绮谈.md" title="东方怪绮谈">东方怪绮谈</a></b></td><td>3面主题曲</td><td style="padding-left:5px;">Romantic Children（Romantic Children）</td><td style="padding-left:10px;">作曲：ZUN</td></tr>
 <tr><td>2001年6月28日（非展会）</td><td><b><a href="./东方幻想的音乐.md" title="东方幻想的音乐">东方幻想的音乐</a></b></td><td>东方怪绮谈</td><td style="padding-left:5px;">Romantic Children（Romantic Children）</td><td style="padding-left:10px;">编曲：ZUN</td></tr>
 <tr><td>2001年8月27日（非展会）</td><td><b><a href="./东方幻想怀古曲.md" title="东方幻想怀古曲">东方幻想怀古曲</a></b></td><td>东方怪绮谈</td><td style="padding-left:5px;">Romantic Children（Romantic Children）</td><td style="padding-left:10px;">作曲：ZUN</td></tr>
-<tr><td>2006年12月31日（Comic Market 71）</td><td><b><a href="./幺乐团的历史_vol.2.md" class="mw-redirect" title="幺乐团的历史 vol.2">幺乐团的历史 vol.2</a></b></td><td>第6轨</td><td style="padding-left:5px;">Romantic Children（Romantic Children）</td><td style="padding-left:10px;">编曲：ZUN</td></tr>
+<tr><td>2006年12月31日（Comic Market 71）</td><td><b><a href="./幺乐团的历史2.md" class="mw-redirect" title="幺乐团的历史 vol.2">幺乐团的历史 vol.2</a></b></td><td>第6轨</td><td style="padding-left:5px;">Romantic Children（Romantic Children）</td><td style="padding-left:10px;">编曲：ZUN</td></tr>
 </tbody></table>
-
 
 
 ## 音乐文件
@@ -66,17 +54,13 @@ Romantic Children（曲目） - 由 ZUN 创作的官方曲目，原名 Romantic 
 YM2203(OPN)，FM26K音源版。
   
 
-
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th05_06_26.ogg.md" title="文件:th05 06 26.ogg">th05_06_26.ogg</a><br><audio src="https://upload.thwiki.cc/5/53/th05_06_26.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>ST02.M</td></tr><tr><td><b>音轨时长</b></td><td>2:32.473</td></tr></tbody></table>
-
 
   
 YM2608(OPNA)，FM86音源版。
   
 
-
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th05_06_86.ogg.md" title="文件:th05 06 86.ogg">th05_06_86.ogg</a><br><audio src="https://upload.thwiki.cc/e/e3/th05_06_86.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>ST02.M2</td></tr><tr><td><b>音轨时长</b></td><td>2:32.473</td></tr></tbody></table>
-
 
 
 ### 东方幻想的音乐
@@ -84,11 +68,9 @@ YM2608(OPNA)，FM86音源版。
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td><a href="./文件-th5_06.mid.md" title="文件:th5 06.mid">th5_06.mid</a></td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th5_06.mp3.md" title="文件:th5 06.mp3">th5_06.mp3</a><br><audio src="https://upload.thwiki.cc/7/7a/th5_06.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>th5_06.mid</td></tr><tr><td><b>音轨时长</b></td><td>4:33</td></tr></tbody></table>
 
 
-
 ### 东方幻想怀古曲
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-thgs05_06.ogg.md" title="文件:thgs05 06.ogg">thgs05_06.ogg</a><br><audio src="https://upload.thwiki.cc/5/5a/thgs05_06.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>th5_06.m</td></tr><tr><td><b>音轨时长</b></td><td>2:32.473</td></tr></tbody></table>
-
 
 
 ### 幺乐团的历史 vol.2
@@ -96,11 +78,11 @@ YM2608(OPNA)，FM86音源版。
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-ha02_06.mp3.md" title="文件:ha02 06.mp3">ha02_06.mp3</a><br><audio src="https://upload.thwiki.cc/d/d4/ha02_06.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track06.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>5:13</td></tr></tbody></table>
 
 
-
 ## 说明文本
 
 ### 东方怪绮谈
-- Music Room (未找到链接)
+
+- [Music Room](./东方怪绮谈-Music.md#东方怪绮谈-21)
 
 　　　　３面主题曲  
 　    相当有魔界感的音乐吧？  
@@ -111,9 +93,9 @@ YM2608(OPNA)，FM86音源版。
 ＺＵＮ（太田）  
 怪绮谈3面的曲子  
 嗯——
-
 ### 东方幻想的音乐
-- th5_06.txt (未找到链接)
+
+- [th5_06.txt](./东方幻想的音乐-过去的曲子-东方怪绮谈.md#Romantic_Children)
 
 +----------------------------------------------------------------------------+  
 |【 　 曲名　　】| 【 Romantic Children 】  
@@ -127,7 +109,7 @@ YM2608(OPNA)，FM86音源版。
 |【  可否转载  】| 基本自由。但是，请邮件联络。  
 |                | 这种时候，请不要更动压缩包内部文件。  
 |【演奏上的注意】| 用sc-88Pro 的人在演奏时请不要按55Map,88Map。  
-|                                             &#126;&#126;&#126;&#126;~   
+|                                             ~~~~~   
 +-----------------------------------------------------------------------------+  
 感谢下载本文件。  
   
@@ -144,9 +126,9 @@ YM2608(OPNA)，FM86音源版。
 曲子的感想、请求等，这边请  
 　东方幻想空间　「博丽神社」 [http://www16.big.or.jp/~zun/](http://www16.big.or.jp/~zun/)  
 　e-Mail                     zun@big.or.jp
-
 ### 东方幻想怀古曲
-- th5_06pmd.txt (未找到链接)
+
+- [th5_06pmd.txt](./东方幻想怀古曲-东方怪绮谈.md#Romantic_Children)
 
 +----------------------------------------------------------------------------+  
 |【 　 曲名　　】| 【 Romantic Children 】（原版）  
@@ -180,25 +162,27 @@ YM2608(OPNA)，FM86音源版。
 曲子的感想、请求等，这边请  
 　东方幻想空间　「博丽神社」 [http://www16.big.or.jp/~zun/](http://www16.big.or.jp/~zun/)  
 　e-Mail　　　　　　　　　　 zun@big.or.jp
-
 ## 其他资料
 
 ### 乐理资讯
 
 ### 分析考据
   
- **Romantic Children**  Romantic Children
+**Romantic Children** Romantic Children
   
 
-- Romantic
+- Romantic 
   - ZUN说曲目在创作的时候强调了浪漫的感觉
   - 三面道中有写有“romantic”字样的看板
   - 本义为“罗马人的”、“有罗马人风格的”，罗马尼亚（Rumania, Romania）同样有着“罗马人的居住地”、“罗马风格的国家”的意思。
 
-- Children
+
+- Children 
   - zun说曲目有孩子气的印象
-  - 三面道中有写有“children”字样的看板
+  - 三面道中有写有“children”字样的看板 
     - 魔界的住人都有点孩子气？
+
+
 
 
 
@@ -215,18 +199,6 @@ YM2608(OPNA)，FM86音源版。
 <tr><td>Arrange</td><td>260</td></tr>
 <tr><td>Vocal率</td><td>29.92%</td></tr>
 </tbody></table>
-
-
-
-
-
-  
-  
-
-  
-
-
-
 
 
 ---

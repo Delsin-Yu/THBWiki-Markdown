@@ -1,6 +1,6 @@
 # 文件:infinity（MOFUYA）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1f\ns6%3Ainfinity%EF%BC%88MOFUYA%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1f\ns6%3Ainfinity%EF%BC%88MOFUYA%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 MOFUYA | 专辑封面 | 封面图片
 
@@ -8,16 +8,15 @@ MOFUYA | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [infinity（MOFUYA）](./infinity（MOFUYA）.md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)- [八云紫](./八云紫.md)- [风见幽香](./风见幽香.md)- [键山雏](./键山雏.md)- [雾雨魔理沙](./雾雨魔理沙.md)
+- [infinity（MOFUYA）](./infinity（MOFUYA）.md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
+- [八云紫](./八云紫.md)
+- [风见幽香](./风见幽香.md)
+- [键山雏](./键山雏.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-源地址：[[1]](http://file.mofuya.ky-3.net/02.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://file.mofuya.ky-3.net/02.jpg)  
 
 ---
 

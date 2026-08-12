@@ -1,6 +1,6 @@
 # 文件:REITAISAI8_Omake_CD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8d\ns6%3AREITAISAI8_Omake_CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8d\ns6%3AREITAISAI8_Omake_CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 いえろ～ぜぶら | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [REITAISAI8 Omake CD](./REITAISAI8_Omake_CD.md)  
-该封面包含的角色：- [橙](./橙.md)- [魂魄妖梦](./魂魄妖梦.md)
-
-
-
+- [REITAISAI8 Omake CD](./REITAISAI8_Omake_CD.md)该封面包含的角色：
+- [橙](./橙.md)
+- [魂魄妖梦](./魂魄妖梦.md)
 
 
 ---

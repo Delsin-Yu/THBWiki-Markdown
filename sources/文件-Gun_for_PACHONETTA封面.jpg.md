@@ -1,6 +1,6 @@
 # 文件:Gun_for_PACHONETTA封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a0\ns6%3AGun_for_PACHONETTA%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a0\ns6%3AGun_for_PACHONETTA%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 苦笑邸
 
@@ -10,11 +10,20 @@
 使用了本文件作封面图片的作品：
   
 
-- [Gun for PACHONETTA](./Gun_for_PACHONETTA.md)  
-该封面包含的角色：- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)- [橙](./橙.md)- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [八云蓝](./八云蓝.md)- [八云紫](./八云紫.md)- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)- [梅蒂欣·梅兰可莉](./梅蒂欣·梅兰可莉.md)- [风见幽香](./风见幽香.md)- [比那名居天子](./比那名居天子.md)- [秋静叶](./秋静叶.md)- [秋穰子](./秋穰子.md)- [圣白莲](./圣白莲.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [Gun for PACHONETTA](./Gun_for_PACHONETTA.md)该封面包含的角色：
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
+- [橙](./橙.md)
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [八云蓝](./八云蓝.md)
+- [八云紫](./八云紫.md)
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
+- [梅蒂欣·梅兰可莉](./梅蒂欣·梅兰可莉.md)
+- [风见幽香](./风见幽香.md)
+- [比那名居天子](./比那名居天子.md)
+- [秋静叶](./秋静叶.md)
+- [秋穰子](./秋穰子.md)
+- [圣白莲](./圣白莲.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

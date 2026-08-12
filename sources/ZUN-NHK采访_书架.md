@@ -1,8 +1,9 @@
 # ZUN/NHK采访_书架
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\bd\ns0%3AZUN%2FNHK%E9%87%87%E8%AE%BF_%E4%B9%A6%E6%9E%B6.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\bd\ns0%3AZUN%2FNHK%E9%87%87%E8%AE%BF_%E4%B9%A6%E6%9E%B6.html -->
 
 ZUN
+
 
 - 本页面为NHK电视台[MAG·NET节目ZUN采访](./NHK-MAG·NET.md)与[梦想国度imagine-nation节目东方Project专题采访](./NHK-imagine-nation.md)时，获得的ZUN的工作室中书架的画面整理而来的书籍及部分ISBN编号。
 - 由于画面不够清晰以及只出现了书背部分，所以可能存在判断不准确的情况，请酌情参考。
@@ -14,7 +15,6 @@ ZUN
 
 - [1 MAG·NET采访](#MAG·NET采访)
 - [2 imagine-nation采访](#imagine-nation采访)
-
   - [2.1 右侧书架 最下层](#右侧书架_最下层)
   - [2.2 右侧书架 第二层](#右侧书架_第二层)
   - [2.3 右侧书架 第三层](#右侧书架_第三层)
@@ -24,18 +24,13 @@ ZUN
   - [2.7 其他](#其他)
 
 
-
 - [3 注释](#注释)
 
 
-
-
-
 ## MAG·NET采访
-
-[](./文件-mag-net书架.jpg.md)[](./文件-mag-net书架.jpg.md)mag-net书架
-
-
+<img alt="" src="https://upload.thwiki.cc/f/f3/mag-net%E4%B9%A6%E6%9E%B6.jpg" decoding="async" loading="lazy" width="1000" height="750" data-file-width="907" data-file-height="680">
+<img alt="" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Magnify-clip.png" decoding="async" loading="lazy" width="15" height="11" data-file-width="15" data-file-height="11">
+mag-net书架
 <table>
 
 <tbody><tr>
@@ -145,14 +140,12 @@ ZUN
 </td></tr></tbody></table>
 
 
-
 ## imagine-nation采访
 
 ### 右侧书架 最下层
-
-[](./文件-右侧书架_最下层.jpg.md)[](./文件-右侧书架_最下层.jpg.md)右侧书架 最下层
-
-
+<img alt="" src="https://upload.thwiki.cc/2/2e/%E5%8F%B3%E4%BE%A7%E4%B9%A6%E6%9E%B6_%E6%9C%80%E4%B8%8B%E5%B1%82.jpg" decoding="async" loading="lazy" width="2000" height="1106" data-file-width="1790" data-file-height="990">
+<img alt="" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Magnify-clip.png" decoding="async" loading="lazy" width="15" height="11" data-file-width="15" data-file-height="11">
+右侧书架 最下层
 <table>
 
 <tbody><tr>
@@ -294,13 +287,10 @@ ZUN
 </td></tr></tbody></table>
 
 
-
-
 ### 右侧书架 第二层
-
-[](./文件-右侧书架_第二层.jpg.md)[](./文件-右侧书架_第二层.jpg.md)右侧书架 第二层
-
-
+<img alt="" src="https://upload.thwiki.cc/thumb/8/87/%E5%8F%B3%E4%BE%A7%E4%B9%A6%E6%9E%B6_%E7%AC%AC%E4%BA%8C%E5%B1%82.jpg/700px-%E5%8F%B3%E4%BE%A7%E4%B9%A6%E6%9E%B6_%E7%AC%AC%E4%BA%8C%E5%B1%82.jpg" decoding="async" loading="lazy" width="700" height="1050" srcset="https://upload.thwiki.cc/8/87/%E5%8F%B3%E4%BE%A7%E4%B9%A6%E6%9E%B6_%E7%AC%AC%E4%BA%8C%E5%B1%82.jpg 1.5x" data-file-width="800" data-file-height="1200">
+<img alt="" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Magnify-clip.png" decoding="async" loading="lazy" width="15" height="11" data-file-width="15" data-file-height="11">
+右侧书架 第二层
 <table>
 
 <tbody><tr>
@@ -410,13 +400,10 @@ ZUN
 </td></tr></tbody></table>
 
 
-
-
 ### 右侧书架 第三层
-
-[](./文件-右侧书架_第三层.png.md) (未找到链接)右侧书架 第三层
-
-
+<img alt="" src="https://upload.thwiki.cc/thumb/a/a3/%E5%8F%B3%E4%BE%A7%E4%B9%A6%E6%9E%B6_%E7%AC%AC%E4%B8%89%E5%B1%82.png/700px-%E5%8F%B3%E4%BE%A7%E4%B9%A6%E6%9E%B6_%E7%AC%AC%E4%B8%89%E5%B1%82.png" decoding="async" loading="lazy" width="700" height="700" srcset="https://upload.thwiki.cc/a/a3/%E5%8F%B3%E4%BE%A7%E4%B9%A6%E6%9E%B6_%E7%AC%AC%E4%B8%89%E5%B1%82.png 1.5x" data-file-width="850" data-file-height="850">
+<img alt="" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Magnify-clip.png" decoding="async" loading="lazy" width="15" height="11" data-file-width="15" data-file-height="11">
+右侧书架 第三层
 <table>
 
 <tbody><tr>
@@ -447,13 +434,10 @@ ZUN
 </td></tr></tbody></table>
 
 
-
-
 ### 右数第二列 最下层
-
-[](./文件-右数第二列_最下层.jpg.md)[](./文件-右数第二列_最下层.jpg.md)右数第二列 最下层
-
-
+<img alt="" src="https://upload.thwiki.cc/6/6a/%E5%8F%B3%E6%95%B0%E7%AC%AC%E4%BA%8C%E5%88%97_%E6%9C%80%E4%B8%8B%E5%B1%82.jpg" decoding="async" loading="lazy" width="2000" height="1053" data-file-width="1900" data-file-height="1000">
+<img alt="" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Magnify-clip.png" decoding="async" loading="lazy" width="15" height="11" data-file-width="15" data-file-height="11">
+右数第二列 最下层
 <table>
 
 <tbody><tr>
@@ -572,13 +556,13 @@ ZUN
 <td>978-4309224879
 </td></tr>
 <tr>
-<td>世界動物図案資料集成<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">1</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">2</a></sup>
+<td>世界動物図案資料集成<span>[^cite_note-1]</span><span>[^cite_note-2]</span>
 </td></tr>
 <tr>
-<td>信州に於ける薬用植物：成分並に薬効<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">3</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">4</a></sup>
+<td>信州に於ける薬用植物：成分並に薬効<span>[^cite_note-3]</span><span>[^cite_note-4]</span>
 </td></tr>
 <tr>
-<td>古川柳風俗事典<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">5</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">6</a></sup>
+<td>古川柳風俗事典<span>[^cite_note-5]</span><span>[^cite_note-6]</span>
 </td></tr>
 <tr>
 <td>The霊柩車　日本人の創造力が生んだ傑作</td>
@@ -587,13 +571,10 @@ ZUN
 </td></tr></tbody></table>
 
 
-
-
 ### 右数第二列 第二层
-
-[](./文件-右数第二列_第二层.jpg.md)[](./文件-右数第二列_第二层.jpg.md)右数第二列 第二层
-
-
+<img alt="" src="https://upload.thwiki.cc/6/64/%E5%8F%B3%E6%95%B0%E7%AC%AC%E4%BA%8C%E5%88%97_%E7%AC%AC%E4%BA%8C%E5%B1%82.jpg" decoding="async" loading="lazy" width="2000" height="1176" data-file-width="1700" data-file-height="1000">
+<img alt="" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Magnify-clip.png" decoding="async" loading="lazy" width="15" height="11" data-file-width="15" data-file-height="11">
+右数第二列 第二层
 <table>
 
 <tbody><tr>
@@ -602,7 +583,7 @@ ZUN
 <th>ISBN-13
 </th></tr>
 <tr>
-<td><a href="./異聞妖々夢.md" title="異聞妖々夢">異聞妖々夢</a><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">7</a></sup>
+<td><a href="./異聞妖々夢.md" title="異聞妖々夢">異聞妖々夢</a><span>[^cite_note-7]</span>
 </td></tr>
 <tr>
 <td>日本の伝統文様　花鳥風月</td>
@@ -658,7 +639,7 @@ ZUN
 <td>978-4787585400
 </td></tr>
 <tr>
-<td>花と日本人<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">8</a></sup></td>
+<td>花と日本人<span>[^cite_note-8]</span></td>
 <td>4043236042</td>
 <td>978-4043236046
 </td></tr>
@@ -749,13 +730,10 @@ ZUN
 </td></tr></tbody></table>
 
 
-
-
 ### 右数第二列 第三层
-
-[](./文件-右数第二列_第三层.jpg.md)[](./文件-右数第二列_第三层.jpg.md)右数第二列 第三层
-
-
+<img alt="" src="https://upload.thwiki.cc/d/d1/%E5%8F%B3%E6%95%B0%E7%AC%AC%E4%BA%8C%E5%88%97_%E7%AC%AC%E4%B8%89%E5%B1%82.jpg" decoding="async" loading="lazy" width="2000" height="1111" data-file-width="1800" data-file-height="1000">
+<img alt="" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Magnify-clip.png" decoding="async" loading="lazy" width="15" height="11" data-file-width="15" data-file-height="11">
+右数第二列 第三层
 <table>
 
 <tbody><tr>
@@ -943,13 +921,10 @@ ZUN
 </td></tr></tbody></table>
 
 
-
-
 ### 其他
-
-[](./文件-其他书架.jpg.md)[](./文件-其他书架.jpg.md)其他
-
-
+<img alt="" src="https://upload.thwiki.cc/thumb/6/66/%E5%85%B6%E4%BB%96%E4%B9%A6%E6%9E%B6.jpg/800px-%E5%85%B6%E4%BB%96%E4%B9%A6%E6%9E%B6.jpg" decoding="async" loading="lazy" width="800" height="424" srcset="https://upload.thwiki.cc/thumb/6/66/%E5%85%B6%E4%BB%96%E4%B9%A6%E6%9E%B6.jpg/1200px-%E5%85%B6%E4%BB%96%E4%B9%A6%E6%9E%B6.jpg 1.5x, https://upload.thwiki.cc/thumb/6/66/%E5%85%B6%E4%BB%96%E4%B9%A6%E6%9E%B6.jpg/1600px-%E5%85%B6%E4%BB%96%E4%B9%A6%E6%9E%B6.jpg 2x" data-file-width="1700" data-file-height="900">
+<img alt="" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Magnify-clip.png" decoding="async" loading="lazy" width="15" height="11" data-file-width="15" data-file-height="11">
+其他
 <table>
 
 <tbody><tr>
@@ -968,7 +943,7 @@ ZUN
 <td>978-4385162232
 </td></tr>
 <tr>
-<td>Ultimate Beer<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">9</a></sup></td>
+<td>Ultimate Beer<span>[^cite_note-9]</span></td>
 <td>0789435276</td>
 <td>978-0789435279
 </td></tr>
@@ -978,14 +953,15 @@ ZUN
 <td>978-4422420042
 </td></tr></tbody></table>
 
-
-
-
 [^cite_note-1]: 出版于1952年故无ISBN号，该书日本全国书目号码（日本全国書誌番号）为52004887。作者为杉浦非水、渡辺素舟。
-
-
-
-
+[^cite_note-2]: （日文）杉浦非水、渡辺素舟：[世界動物図案資料集成](https://iss.ndl.go.jp/books/R100000002-I000000887854-00)．*国立国会図書館サーチ*．
+[^cite_note-3]: 出版于1936年故无ISBN号，该书日本全国书目号码（日本全国書誌番号）为46058869。作者为波多腰節。
+[^cite_note-4]: （日文）波多腰節：[信州に於ける薬用植物：成分並に薬効](https://dl.ndl.go.jp/info:ndljp/pid/1047416)．*国立国会図書館*．
+[^cite_note-5]: 出版于1962年故无ISBN号，该书日本全国书目号码（日本全国書誌番号）为62009810。作者为田辺貞之助。
+[^cite_note-6]: （日文）田辺貞之助：[古川柳風俗事典](https://dl.ndl.go.jp/info:ndljp/pid/1346419)．*国立国会図書館*．
+[^cite_note-7]: 同人志。
+[^cite_note-8]: 作者为和歌森太郎，1982年版。
+[^cite_note-9]: 作者为Michael Jackson（并不是歌手）。参见英文维基百科：[Michael Jackson (writer)](https://en.wikipedia.org/wiki/en:Michael_Jackson_(writer%29)
 
 ---
 

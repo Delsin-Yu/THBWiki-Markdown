@@ -1,6 +1,6 @@
 # 文件:Cross_the_Boundaries封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0f\ns6%3ACross_the_Boundaries%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0f\ns6%3ACross_the_Boundaries%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Ziel_graywords | 封面图片 | 软件封面
 
@@ -10,11 +10,9 @@ Ziel_graywords | 封面图片 | 软件封面
 使用了本文件作封面图片的作品：
   
 
-- [Cross the Boundaries](./Cross_the_Boundaries.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [Cross the Boundaries](./Cross_the_Boundaries.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

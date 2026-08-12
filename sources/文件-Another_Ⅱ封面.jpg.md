@@ -1,6 +1,6 @@
 # 文件:Another_Ⅱ封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9a\ns6%3AAnother_%E2%85%A1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9a\ns6%3AAnother_%E2%85%A1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Cry_Of_The_Soul | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ Cry_Of_The_Soul | 专辑封面 | 封面图片
   
 
 - [Another Ⅱ](./Another_Ⅱ.md)
-
-
-
 
 
 ---

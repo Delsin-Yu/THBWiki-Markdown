@@ -1,6 +1,6 @@
 # 文件:東方レイマリQUEST封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\25\ns6%3A%E6%9D%B1%E6%96%B9%E3%83%AC%E3%82%A4%E3%83%9E%E3%83%AAQUEST%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\25\ns6%3A%E6%9D%B1%E6%96%B9%E3%83%AC%E3%82%A4%E3%83%9E%E3%83%AAQUEST%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 虎之穴
 
@@ -8,11 +8,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方レイマリQUEST](./東方レイマリQUEST.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [射命丸文](./射命丸文.md)- [比那名居天子](./比那名居天子.md)- [雾雨魔理沙](./雾雨魔理沙.md)- [茨木华扇](./茨木华扇.md)
-
-
-
+- [東方レイマリQUEST](./東方レイマリQUEST.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [射命丸文](./射命丸文.md)
+- [比那名居天子](./比那名居天子.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
+- [茨木华扇](./茨木华扇.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:PSYCHIC_DREAMER封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\68\ns6%3APSYCHIC_DREAMER%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\68\ns6%3APSYCHIC_DREAMER%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ESQUARIA | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ ESQUARIA | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [PSYCHIC DREAMER](./PSYCHIC_DREAMER.md)  
-该封面包含的角色：- [宇佐见堇子](./宇佐见堇子.md)
-
-
-
+- [PSYCHIC DREAMER](./PSYCHIC_DREAMER.md)该封面包含的角色：
+- [宇佐见堇子](./宇佐见堇子.md)
 
 
 ---

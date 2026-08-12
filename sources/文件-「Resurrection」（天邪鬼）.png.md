@@ -1,16 +1,12 @@
 # 文件:「Resurrection」（天邪鬼）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bf\ns6%3A%E3%80%8CResurrection%E3%80%8D%EF%BC%88%E5%A4%A9%E9%82%AA%E9%AC%BC%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bf\ns6%3A%E3%80%8CResurrection%E3%80%8D%EF%BC%88%E5%A4%A9%E9%82%AA%E9%AC%BC%EF%BC%89%2Epng.html -->
 
 弹幕天邪鬼 | 敌机符卡 | 藤原妹红
 
   
 弹幕天邪鬼第三日 场景7BOSS藤原妹红符卡
   
-
-
-
-
 
 ---
 

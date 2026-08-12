@@ -1,6 +1,6 @@
 # 文件:Terra_Incognita封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3b\ns6%3ATerra_Incognita%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3b\ns6%3ATerra_Incognita%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Mille_Oculos | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@ Mille_Oculos | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Terra Incognita](./Terra_Incognita.md)  
-该封面包含的角色：- [封兽鵺](./封兽鵺.md)
+- [Terra Incognita](./Terra_Incognita.md)该封面包含的角色：
+- [封兽鵺](./封兽鵺.md)
 
   
-源地址：[artist bandcamp (10 size)](https://f4.bcbits.com/img/a2299169958_10.jpg)
-  
-
-
-
-
+源地址：[artist bandcamp (10 size)](https://f4.bcbits.com/img/a2299169958_10.jpg)  
 
 ---
 

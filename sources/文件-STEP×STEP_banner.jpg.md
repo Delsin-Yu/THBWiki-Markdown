@@ -1,12 +1,8 @@
 # 文件:STEP×STEP_banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\57\ns6%3ASTEP%C3%97STEP_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\57\ns6%3ASTEP%C3%97STEP_banner%2Ejpg.html -->
 
 STEP×STEP | 社团LOGO
-
-
-
-
 
 
 ---

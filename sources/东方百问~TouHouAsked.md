@@ -1,21 +1,17 @@
 # 东方百问~TouHouAsked
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\bf\ns0%3A%E4%B8%9C%E6%96%B9%E7%99%BE%E9%97%AE%7ETouHouAsked.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\bf\ns0%3A%E4%B8%9C%E6%96%B9%E7%99%BE%E9%97%AE%7ETouHouAsked.html -->
 
 2018年10月8日 由 Root Nine Studio  发布的PUZ同人游戏，可在 Windows 系统上运行，游戏人数为 单人模式，多人模式，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人软件 (未找到链接)** 的词条
-
+**[二次创作同人软件](./二次创作.md#同人软件)**的词条
 ## 目录
 
 - [1 软件信息](#软件信息)
 - [2 Staff](#Staff)
 - [3 内容页面](#内容页面)
 - [4 评论](#评论)
-
-
-
 
 
 ## 软件信息
@@ -26,14 +22,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://asked.touhou.ren/">https://asked.touhou.ren/</a></td></tr></tbody></table>
 
 东方百问~TouHouAsked（同人游戏，Root Nine Studio，2018） - 2018年10月8日 由 Root Nine Studio  发布的PUZ同人游戏，可在 Windows 系统上运行，游戏人数为 单人模式，多人模式，分级为 一般向
-  
-  
-
-  
-
-
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://store.steampowered.com/app/930840">Steam</a></td></tr></tbody></table>
-
 
 
 <table>
@@ -42,21 +31,22 @@
 </tbody></table>
 
 
-
 ## Staff
-- 程序&#160;: [某米](./某米.md)
-- 策划&#160;: 七弦剑歌 (未找到链接)
-- 策划协力&#160;: 无逸流水
-- 音乐&#160;: 落雪鸦杀 (未找到链接)，羊羔羔
-- 美工&#160;: 少名八云恋，露姬姬
-- 测试&#160;: 芙洛德兰，周大牙，墨天流
-- 内容维护&#160;: rumia，Rinran (未找到链接)，C.DC，暴走の扎克
-- 策划支援&#160;: 东方收获祭组委会 绝对无视，圣光，瞳瞳
-- 素材支援&#160;: [妖怪山地下实验室](./妖怪山地下实验室.md)，[大家的幻想乡](./大家的幻想乡.md)
-- 特别感谢&#160;: 所有东方百问投稿人的参与建设，历任题库审核人员的辛勤劳动；and you！
+
+- 程序 : [某米](./某米.md)
+- 策划 : 七弦剑歌 (未找到链接)
+- 策划协力 : 无逸流水
+- 音乐 : 落雪鸦杀 (未找到链接)，羊羔羔
+- 美工 : 少名八云恋，露姬姬
+- 测试 : 芙洛德兰，周大牙，墨天流
+- 内容维护 : rumia，Rinran (未找到链接)，C.DC，暴走の扎克
+- 策划支援 : 东方收获祭组委会 绝对无视，圣光，瞳瞳
+- 素材支援 : [妖怪山地下实验室](./妖怪山地下实验室.md)，[大家的幻想乡](./大家的幻想乡.md)
+- 特别感谢 : 所有东方百问投稿人的参与建设，历任题库审核人员的辛勤劳动；and you！
 
 
 ## 内容页面
+
 - 游戏设定与剧情 (未找到链接)
 - 攻略 (未找到链接)
 - 使用说明 (未找到链接)
@@ -65,9 +55,6 @@
 
 
 ## 评论
-
-
-
 
 ---
 

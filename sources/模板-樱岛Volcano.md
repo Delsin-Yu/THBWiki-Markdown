@@ -1,16 +1,12 @@
 # 模板:樱岛Volcano
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\6\6a\ns10%3A%E6%A8%B1%E5%B2%9BVolcano.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\6\6a\ns10%3A%E6%A8%B1%E5%B2%9BVolcano.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

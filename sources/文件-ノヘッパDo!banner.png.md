@@ -1,12 +1,8 @@
 # 文件:ノヘッパDo!banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\66\ns6%3A%E3%83%8E%E3%83%98%E3%83%83%E3%83%91Do%21banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\66\ns6%3A%E3%83%8E%E3%83%98%E3%83%83%E3%83%91Do%21banner%2Epng.html -->
 
 ノヘッパDo! | 社团LOGO
-
-
-
-
 
 
 ---

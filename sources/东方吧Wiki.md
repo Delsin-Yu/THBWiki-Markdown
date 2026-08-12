@@ -1,11 +1,10 @@
 # 东方吧Wiki
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\6b\ns0%3A%E4%B8%9C%E6%96%B9%E5%90%A7Wiki.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\6b\ns0%3A%E4%B8%9C%E6%96%B9%E5%90%A7Wiki.html -->
 
 待完成页面
 
 <center>
-
 <table>
 <tbody><tr>
 <td class="mbox-image"><div style="width: 52px;">
@@ -14,28 +13,20 @@
 </tr>
 </tbody></table>
 
-
 </center>
-
 ## 简介
   
-<big>东方吧Wiki</big>（Touhou  **Bar**  Wiki）  
+<big>东方吧Wiki</big>（Touhou **Bar** Wiki）  
 
 于2010年8月6日建立，是中文（以简体中文为主）东方Project主题维基百科。  
+[东方吧](./百度东方吧.md)所属Wiki，是THBWiki（Touhou **Black** Wiki）的前身。  
 
-[东方吧](./百度东方吧.md)所属Wiki，是THBWiki（Touhou  **Black**  Wiki）的前身。  
-
-网站由TBSGroup建立并维护，附属站点有 **东方吧SCWiki** 和 **东方吧网盘** 。
+网站由TBSGroup建立并维护，附属站点有**东方吧SCWiki**和**东方吧网盘**。
   
   
 目前已停止更新，被本站（THBWiki）替代。  
 
-网址： ~~[http://wiki.touhou8.com](http://wiki.touhou8.com)~~  （已经失效）
-  
-
-
-
-
+网址： ~~[http://wiki.touhou8.com](http://wiki.touhou8.com)~~  （已经失效）  
 
 ---
 

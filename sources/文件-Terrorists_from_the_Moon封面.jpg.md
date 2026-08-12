@@ -1,6 +1,6 @@
 # 文件:Terrorists_from_the_Moon封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f5\ns6%3ATerrorists_from_the_Moon%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f5\ns6%3ATerrorists_from_the_Moon%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 下町パイプライン | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Terrorists from the Moon](./Terrorists_from_the_Moon.md)  
-该封面包含的角色：- [上白泽慧音](./上白泽慧音.md)
-
-
-
+- [Terrorists from the Moon](./Terrorists_from_the_Moon.md)该封面包含的角色：
+- [上白泽慧音](./上白泽慧音.md)
 
 
 ---

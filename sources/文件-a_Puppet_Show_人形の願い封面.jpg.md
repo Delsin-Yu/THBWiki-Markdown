@@ -1,6 +1,6 @@
 # 文件:a_Puppet_Show_人形の願い封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8e\ns6%3Aa_Puppet_Show_%E4%BA%BA%E5%BD%A2%E3%81%AE%E9%A1%98%E3%81%84%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8e\ns6%3Aa_Puppet_Show_%E4%BA%BA%E5%BD%A2%E3%81%AE%E9%A1%98%E3%81%84%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 しぐれえび | 同人志封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [a Puppet Show 人形の願い](./a_Puppet_Show_人形の願い.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
-
-
-
+- [a Puppet Show 人形の願い](./a_Puppet_Show_人形の願い.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
 
 
 ---

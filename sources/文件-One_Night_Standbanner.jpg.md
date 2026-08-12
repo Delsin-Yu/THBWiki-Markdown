@@ -1,12 +1,8 @@
 # 文件:One_Night_Standbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b1\ns6%3AOne_Night_Standbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b1\ns6%3AOne_Night_Standbanner%2Ejpg.html -->
 
 One_Night_Stand | 社团LOGO
-
-
-
-
 
 
 ---

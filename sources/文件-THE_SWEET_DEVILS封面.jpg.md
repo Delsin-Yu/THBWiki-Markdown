@@ -1,6 +1,6 @@
 # 文件:THE_SWEET_DEVILS封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c4\ns6%3ATHE_SWEET_DEVILS%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c4\ns6%3ATHE_SWEET_DEVILS%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Cis-Trance | 专辑封面 | 封面图片
 
@@ -8,16 +8,12 @@ Cis-Trance | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [THE SWEET DEVILS](./THE_SWEET_DEVILS.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [THE SWEET DEVILS](./THE_SWEET_DEVILS.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
   
-源地址：[[1]](http://cis-trance.sakura.ne.jp/sblo_files/cis-trance/image/008-f854f.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://cis-trance.sakura.ne.jp/sblo_files/cis-trance/image/008-f854f.jpg)  
 
 ---
 

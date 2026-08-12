@@ -1,6 +1,6 @@
 # 文件:call_my_name_e.p.封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c3\ns6%3Acall_my_name_e%2Ep%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c3\ns6%3Acall_my_name_e%2Ep%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 アリスミア・アリスメア | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [call my name e.p.](./call_my_name_e.p..md)  
-该封面包含的角色：- [矢田寺成美](./矢田寺成美.md)
+- [call my name e.p.](./call_my_name_e.p..md)该封面包含的角色：
+- [矢田寺成美](./矢田寺成美.md)
 
   
-源地址：[Pixiv](https://www.pixiv.net/artworks/84394900)
-  
-
-
-
-
+源地址：[Pixiv](https://www.pixiv.net/artworks/84394900)  
 
 ---
 

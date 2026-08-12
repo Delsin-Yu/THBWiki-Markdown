@@ -1,17 +1,14 @@
 # 文件:樱符「Sense_of_Cherry_Blossom」.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c3\ns6%3A%E6%A8%B1%E7%AC%A6%E3%80%8CSense_of_Cherry_Blossom%E3%80%8D%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c3\ns6%3A%E6%A8%B1%E7%AC%A6%E3%80%8CSense_of_Cherry_Blossom%E3%80%8D%2Epng.html -->
 
 西行寺幽幽子
 
 
 ## 文件说明
-- 《东方非想天则》中西行寺幽幽子 樱符「Sense of Cherry Blossom」符卡  
 
+- 《东方非想天则》中西行寺幽幽子 樱符「Sense of Cherry Blossom」符卡
 - 同时也是「Sense of Elegance」符卡
-
-
-
 
 
 ---

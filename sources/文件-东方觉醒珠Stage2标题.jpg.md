@@ -1,14 +1,11 @@
 # 文件:东方觉醒珠Stage2标题.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cb\ns6%3A%E4%B8%9C%E6%96%B9%E8%A7%89%E9%86%92%E7%8F%A0Stage2%E6%A0%87%E9%A2%98%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cb\ns6%3A%E4%B8%9C%E6%96%B9%E8%A7%89%E9%86%92%E7%8F%A0Stage2%E6%A0%87%E9%A2%98%2Ejpg.html -->
 
 Northern_Mind
 
 
 ## 文件说明
-
-
-
 
 ---
 

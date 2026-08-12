@@ -1,6 +1,6 @@
 # 文件:EN：CORE_＃1封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a4\ns6%3AEN%EF%BC%9ACORE_%EF%BC%831%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a4\ns6%3AEN%EF%BC%9ACORE_%EF%BC%831%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 魂音泉
 
@@ -8,11 +8,15 @@
 使用了本文件作封面图片的作品：
   
 
-- [EN：CORE ＃1](./EN：CORE_＃1.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)- [博丽灵梦](./博丽灵梦.md)- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)- 十六夜咲夜 (未找到链接)- [藤原妹红](./藤原妹红.md)- [河城荷取](./河城荷取.md)- [洩矢诹访子](./洩矢诹访子.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [EN：CORE ＃1](./EN：CORE_＃1.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
+- [博丽灵梦](./博丽灵梦.md)
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
+- [十六夜咲夜](./十六夜咲夜.md)
+- [藤原妹红](./藤原妹红.md)
+- [河城荷取](./河城荷取.md)
+- [洩矢诹访子](./洩矢诹访子.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

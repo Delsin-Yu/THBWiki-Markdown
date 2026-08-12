@@ -1,14 +1,11 @@
 # 文件:卡娜·安娜贝拉尔A（梦时空立绘）B.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b9\ns6%3A%E5%8D%A1%E5%A8%9C%C2%B7%E5%AE%89%E5%A8%9C%E8%B4%9D%E6%8B%89%E5%B0%94A%EF%BC%88%E6%A2%A6%E6%97%B6%E7%A9%BA%E7%AB%8B%E7%BB%98%EF%BC%89B%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b9\ns6%3A%E5%8D%A1%E5%A8%9C%C2%B7%E5%AE%89%E5%A8%9C%E8%B4%9D%E6%8B%89%E5%B0%94A%EF%BC%88%E6%A2%A6%E6%97%B6%E7%A9%BA%E7%AB%8B%E7%BB%98%EF%BC%89B%2Epng.html -->
 
 ZUN绘 | 东方梦时空 | 卡娜·安娜贝拉尔 | 官方游戏立绘
 
 
 ## 摘要
-
-
-
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:幽閉樂祭_～夏の宴～_LIVE_REC_DVD封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b0\ns6%3A%E5%B9%BD%E9%96%89%E6%A8%82%E7%A5%AD_%EF%BD%9E%E5%A4%8F%E3%81%AE%E5%AE%B4%EF%BD%9E_LIVE_REC_DVD%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b0\ns6%3A%E5%B9%BD%E9%96%89%E6%A8%82%E7%A5%AD_%EF%BD%9E%E5%A4%8F%E3%81%AE%E5%AE%B4%EF%BD%9E_LIVE_REC_DVD%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 封面图片 | 幽闭星光 | 视频封面
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [幽閉樂祭 ～夏の宴～ LIVE REC DVD](./幽閉樂祭_～夏の宴～_LIVE_REC_DVD.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- 十六夜咲夜 (未找到链接)
-
-
-
+- [幽閉樂祭 ～夏の宴～ LIVE REC DVD](./幽閉樂祭_～夏の宴～_LIVE_REC_DVD.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [十六夜咲夜](./十六夜咲夜.md)
 
 
 ---

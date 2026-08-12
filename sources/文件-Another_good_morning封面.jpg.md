@@ -1,6 +1,6 @@
 # 文件:Another_good_morning封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\33\ns6%3AAnother_good_morning%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\33\ns6%3AAnother_good_morning%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 minimum_electric_design | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ minimum_electric_design | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [another good morning](./another_good_morning.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [博丽灵梦（旧作角色）](./博丽灵梦（旧作角色）.md)
-
-
-
+- [another good morning](./another_good_morning.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [博丽灵梦（旧作角色）](./博丽灵梦（旧作角色）.md)
 
 
 ---

@@ -1,20 +1,21 @@
 # 文件:3in1CD_華鳥風月（リニューアル版）封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\20\ns6%3A3in1CD_%E8%8F%AF%E9%B3%A5%E9%A2%A8%E6%9C%88%EF%BC%88%E3%83%AA%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%A2%E3%83%AB%E7%89%88%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\20\ns6%3A3in1CD_%E8%8F%AF%E9%B3%A5%E9%A2%A8%E6%9C%88%EF%BC%88%E3%83%AA%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%A2%E3%83%AB%E7%89%88%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 幽闭星光
 
 
 ## 摘要
   
-源地址：[[1]](http://yuuhei-satellite.sakura.ne.jp/wp/wp-content/uploads/2022/12/YHST-0167_jaket.png)使用了本文件作封面图片的作品：
+源地址：[\[1\]](http://yuuhei-satellite.sakura.ne.jp/wp/wp-content/uploads/2022/12/YHST-0167_jaket.png)使用了本文件作封面图片的作品：
   
 
-- [3in1CD 華鳥風月（リニューアル版）](./3in1CD_華鳥風月（リニューアル版）.md)  
-该封面包含的角色：- [红美铃](./红美铃.md)- [博丽灵梦](./博丽灵梦.md)- 十六夜咲夜 (未找到链接)- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [3in1CD 華鳥風月（リニューアル版）](./3in1CD_華鳥風月（リニューアル版）.md)该封面包含的角色：
+- [红美铃](./红美铃.md)
+- [博丽灵梦](./博丽灵梦.md)
+- [十六夜咲夜](./十六夜咲夜.md)
+- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

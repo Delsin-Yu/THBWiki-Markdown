@@ -1,6 +1,6 @@
 # 文件:TouHou_Into_the_World_~_幻想世界入封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\56\ns6%3ATouHou_Into_the_World_%7E_%E5%B9%BB%E6%83%B3%E4%B8%96%E7%95%8C%E5%85%A5%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\56\ns6%3ATouHou_Into_the_World_%7E_%E5%B9%BB%E6%83%B3%E4%B8%96%E7%95%8C%E5%85%A5%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 evin | 封面图片 | 软件封面
 
@@ -10,9 +10,6 @@ evin | 封面图片 | 软件封面
   
 
 - [TouHou Into the World ~ 幻想世界入](./TouHou_Into_the_World_~_幻想世界入.md)
-
-
-
 
 
 ---

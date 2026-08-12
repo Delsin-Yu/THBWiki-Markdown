@@ -1,6 +1,6 @@
 # 文件:TOHO_NOTE_2封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a5\ns6%3ATOHO_NOTE_2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a5\ns6%3ATOHO_NOTE_2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 白線の内側
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [TOHO NOTE 2](./TOHO_NOTE_2.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
+- [TOHO NOTE 2](./TOHO_NOTE_2.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-源地址：[direct image link (max size)](https://blog-imgs-36-origin.fc2.com/w/h/i/whitelineinside/201008080014194a8.jpg), [source page](http://whitelineinside.blog45.fc2.com/blog-entry-48.html)
-  
-
-
-
-
+源地址：[direct image link (max size)](https://blog-imgs-36-origin.fc2.com/w/h/i/whitelineinside/201008080014194a8.jpg), [source page](http://whitelineinside.blog45.fc2.com/blog-entry-48.html)  
 
 ---
 

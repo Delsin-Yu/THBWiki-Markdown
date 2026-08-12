@@ -1,6 +1,6 @@
 # 文件:東方compilation_CD_萃星霜封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a7\ns6%3A%E6%9D%B1%E6%96%B9compilation_CD_%E8%90%83%E6%98%9F%E9%9C%9C%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a7\ns6%3A%E6%9D%B1%E6%96%B9compilation_CD_%E8%90%83%E6%98%9F%E9%9C%9C%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Melonbooks_Records | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Melonbooks_Records | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方compilation CD 萃星霜](./東方compilation_CD_萃星霜.md)  
-该封面包含的角色：- [伊吹萃香](./伊吹萃香.md)
-
-
-
+- [東方compilation CD 萃星霜](./東方compilation_CD_萃星霜.md)该封面包含的角色：
+- [伊吹萃香](./伊吹萃香.md)
 
 
 ---

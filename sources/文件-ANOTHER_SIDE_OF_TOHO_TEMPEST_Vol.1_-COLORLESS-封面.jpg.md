@@ -1,6 +1,6 @@
 # 文件:ANOTHER_SIDE_OF_TOHO_TEMPEST_Vol.1_-COLORLESS-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\66\ns6%3AANOTHER_SIDE_OF_TOHO_TEMPEST_Vol%2E1_-COLORLESS-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\66\ns6%3AANOTHER_SIDE_OF_TOHO_TEMPEST_Vol%2E1_-COLORLESS-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Sonic_Hybrid_Orchestra | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Sonic_Hybrid_Orchestra | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [ANOTHER SIDE OF TOHO TEMPEST Vol.1 -COLORLESS-](./ANOTHER_SIDE_OF_TOHO_TEMPEST_Vol.1_-COLORLESS-.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [ANOTHER SIDE OF TOHO TEMPEST Vol.1 -COLORLESS-](./ANOTHER_SIDE_OF_TOHO_TEMPEST_Vol.1_-COLORLESS-.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

@@ -1,12 +1,11 @@
 # RETROARING_RECORDS_EP.01
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\7\7a\ns0%3ARETROARING_RECORDS_EP%2E01.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\7\7a\ns0%3ARETROARING_RECORDS_EP%2E01.html -->
 
 2024年6月23日 由 RETROARING RECORDS  发布的EP同人专辑，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人专辑 (未找到链接)** 的词条
-
+**[二次创作同人专辑](./二次创作.md#同人音乐)**的词条
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-RETROARING_RECORDS_EP.01封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/8/81/RETROARING_RECORDS_EP.01%E5%B0%81%E9%9D%A2.jpg/224px-RETROARING_RECORDS_EP.01%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="224" srcset="https://upload.thwiki.cc/thumb/8/81/RETROARING_RECORDS_EP.01%E5%B0%81%E9%9D%A2.jpg/336px-RETROARING_RECORDS_EP.01%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/8/81/RETROARING_RECORDS_EP.01%E5%B0%81%E9%9D%A2.jpg/448px-RETROARING_RECORDS_EP.01%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="512" data-file-height="512"></a></td>
@@ -14,27 +13,21 @@
 </tr><tr><td class="label">首发日期</td><td>未知</td></tr><tr><td class="label">类型</td><td>EP</td></tr><tr><td class="label">编号</td><td>RTCD-1001</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>3</td></tr><tr><td class="label">总时长</td><td>00:00</td></tr></tbody></table>
 
 RETROARING RECORDS EP.01（同人专辑，RETROARING RECORDS） - 2024年6月22日 由 RETROARING RECORDS  发布的EP同人专辑，分级为 一般向
-
 ## Staff
   
- **Arrangement**   
+**Arrangement**  
 
-<table><tbody><tr><td><a href="./葉月_悠.md" class="mw-redirect" title="葉月 悠">葉月 悠</a></td><td></td><td>Tr.1-3</td></tr></tbody></table>
-
+<table><tbody><tr><td><a href="./葉月悠.md" class="mw-redirect" title="葉月 悠">葉月 悠</a></td><td></td><td>Tr.1-3</td></tr></tbody></table>
 
 
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Wind_Girl" colspan="2" class="title">Wind Girl<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=葉月 悠&amp;ogmusic=風神少女&amp;fromwiki=RETROARING_RECORDS_EP.01"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./葉月_悠.md" class="mw-redirect" title="葉月 悠">葉月 悠</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，葉月 悠&amp;fromwiki=RETROARING_RECORDS_EP.01"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=風神少女&amp;fromwiki=RETROARING_RECORDS_EP.01"><span></span></a></span><div class="ogmusic"><a href="./風神少女.md" class="mw-redirect" title="風神少女">風神少女</a></div><div class="source"><a href="./东方文花帖_～_Shoot_the_Bullet..md" class="mw-redirect" title="东方文花帖 ～ Shoot the Bullet.">东方文花帖　～ Shoot the Bullet.</a></div></td></tr>
-<tr><td id="2" class="infoYD"><b>02</b></td><td id="Mystery_Time!" colspan="2" class="title">Mystery Time!<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=葉月 悠&amp;ogmusic=あなたの町の怪事件&amp;fromwiki=RETROARING_RECORDS_EP.01"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./葉月_悠.md" class="mw-redirect" title="葉月 悠">葉月 悠</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，葉月 悠&amp;fromwiki=RETROARING_RECORDS_EP.01"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=あなたの町の怪事件&amp;fromwiki=RETROARING_RECORDS_EP.01"><span></span></a></span><div class="ogmusic"><a href="./あなたの町の怪事件.md" class="mw-redirect" title="あなたの町の怪事件">あなたの町の怪事件</a></div><div class="source"><a href="./Double_Spoiler_～_东方文花帖.md" class="mw-redirect" title="Double Spoiler ～ 东方文花帖">Double Spoiler　～ 东方文花帖</a></div></td></tr>
-<tr><td id="3" class="infoYD"><b>03</b></td><td id="fall_in_howling" colspan="2" class="title">fall in howling<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=葉月 悠&amp;ogmusic=フォールオブフォール　～ 秋めく滝&amp;fromwiki=RETROARING_RECORDS_EP.01"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./葉月_悠.md" class="mw-redirect" title="葉月 悠">葉月 悠</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，葉月 悠&amp;fromwiki=RETROARING_RECORDS_EP.01"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=フォールオブフォール　～ 秋めく滝&amp;fromwiki=RETROARING_RECORDS_EP.01"><span></span></a></span><div class="ogmusic"><a href="./フォールオブフォール_～_秋めく滝.md" class="mw-redirect" title="フォールオブフォール ～ 秋めく滝">フォールオブフォール　～ 秋めく滝</a></div><div class="source"><a href="./东方风神录_～_Mountain_of_Faith..md" class="mw-redirect" title="东方风神录 ～ Mountain of Faith.">东方风神录　～ Mountain of Faith.</a></div></td></tr></tbody></table>
-
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Wind_Girl" colspan="2" class="title">Wind Girl</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./葉月悠.md" class="mw-redirect" title="葉月 悠">葉月 悠</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./风神少女.md" class="mw-redirect" title="風神少女">風神少女</a></div><div class="source"><a href="./东方文花帖.md" class="mw-redirect" title="东方文花帖 ～ Shoot the Bullet.">东方文花帖　～ Shoot the Bullet.</a></div></td></tr>
+<tr><td id="2" class="infoYD"><b>02</b></td><td id="Mystery_Time!" colspan="2" class="title">Mystery Time!</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./葉月悠.md" class="mw-redirect" title="葉月 悠">葉月 悠</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./你所在之城的怪事.md" class="mw-redirect" title="あなたの町の怪事件">あなたの町の怪事件</a></div><div class="source"><a href="./东方文花帖DS.md" class="mw-redirect" title="Double Spoiler ～ 东方文花帖">Double Spoiler　～ 东方文花帖</a></div></td></tr>
+<tr><td id="3" class="infoYD"><b>03</b></td><td id="fall_in_howling" colspan="2" class="title">fall in howling</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./葉月悠.md" class="mw-redirect" title="葉月 悠">葉月 悠</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./Fall_of_Fall_～_秋意渐浓之瀑.md" class="mw-redirect" title="フォールオブフォール ～ 秋めく滝">フォールオブフォール　～ 秋めく滝</a></div><div class="source"><a href="./东方风神录.md" class="mw-redirect" title="东方风神录 ～ Mountain of Faith.">东方风神录　～ Mountain of Faith.</a></div></td></tr></tbody></table>
 
 
 ## 评论
-
-
-
 
 ---
 

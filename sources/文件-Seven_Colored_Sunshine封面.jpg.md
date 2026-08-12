@@ -1,6 +1,6 @@
 # 文件:Seven_Colored_Sunshine封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ac\ns6%3ASeven_Colored_Sunshine%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ac\ns6%3ASeven_Colored_Sunshine%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ゼッケン屋 | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Seven Colored Sunshine](./Seven_Colored_Sunshine.md)  
-该封面包含的角色：- [菅牧典](./菅牧典.md)
-
-
-
+- [Seven Colored Sunshine](./Seven_Colored_Sunshine.md)该封面包含的角色：
+- [菅牧典](./菅牧典.md)
 
 
 ---

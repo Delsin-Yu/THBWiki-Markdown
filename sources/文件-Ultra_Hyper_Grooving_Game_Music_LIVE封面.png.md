@@ -1,6 +1,6 @@
 # 文件:Ultra_Hyper_Grooving_Game_Music_LIVE封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1d\ns6%3AUltra_Hyper_Grooving_Game_Music_LIVE%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1d\ns6%3AUltra_Hyper_Grooving_Game_Music_LIVE%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 N!ESS | 专辑封面 | 封面图片
 
@@ -10,11 +10,9 @@ N!ESS | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Ultra Hyper Grooving Game Music LIVE](./Ultra_Hyper_Grooving_Game_Music_LIVE.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- 原创角色 (未找到链接)
-
-
-
+- [Ultra Hyper Grooving Game Music LIVE](./Ultra_Hyper_Grooving_Game_Music_LIVE.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- 原创角色 (未找到链接)
 
 
 ---

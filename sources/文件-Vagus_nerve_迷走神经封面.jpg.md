@@ -1,6 +1,6 @@
 # 文件:Vagus_nerve_迷走神经封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\06\ns6%3AVagus_nerve_%E8%BF%B7%E8%B5%B0%E7%A5%9E%E7%BB%8F%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\06\ns6%3AVagus_nerve_%E8%BF%B7%E8%B5%B0%E7%A5%9E%E7%BB%8F%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Structure_Sound | 专辑封面 | 封面图片
 
@@ -10,16 +10,12 @@ Structure_Sound | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Vagus nerve 迷走神经](./Vagus_nerve_迷走神经.md)  
-该封面包含的角色：- [古明地觉](./古明地觉.md)- [古明地恋](./古明地恋.md)
+- [Vagus nerve 迷走神经](./Vagus_nerve_迷走神经.md)该封面包含的角色：
+- [古明地觉](./古明地觉.md)
+- [古明地恋](./古明地恋.md)
 
   
-源地址：[direct image link](https://cdn.dizzylab.net/media/cover/STS-002.jpg), [from circle dizzylab](https://www.dizzylab.net/d/STS-002)
-  
-
-
-
-
+源地址：[direct image link](https://cdn.dizzylab.net/media/cover/STS-002.jpg), [from circle dizzylab](https://www.dizzylab.net/d/STS-002)  
 
 ---
 

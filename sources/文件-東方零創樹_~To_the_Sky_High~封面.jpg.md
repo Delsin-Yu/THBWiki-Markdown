@@ -1,6 +1,6 @@
 # 文件:東方零創樹_~To_the_Sky_High~封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\32\ns6%3A%E6%9D%B1%E6%96%B9%E9%9B%B6%E5%89%B5%E6%A8%B9_%7ETo_the_Sky_High%7E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\32\ns6%3A%E6%9D%B1%E6%96%B9%E9%9B%B6%E5%89%B5%E6%A8%B9_%7ETo_the_Sky_High%7E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 空色ぽりん
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方零創樹 ~To the Sky High~](./東方零創樹_~To_the_Sky_High~.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [東方零創樹 ~To the Sky High~](./東方零創樹_~To_the_Sky_High~.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

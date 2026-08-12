@@ -1,6 +1,6 @@
 # 文件:霊夢と魔理沙と萃香のおやすみCD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\be\ns6%3A%E9%9C%8A%E5%A4%A2%E3%81%A8%E9%AD%94%E7%90%86%E6%B2%99%E3%81%A8%E8%90%83%E9%A6%99%E3%81%AE%E3%81%8A%E3%82%84%E3%81%99%E3%81%BFCD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\be\ns6%3A%E9%9C%8A%E5%A4%A2%E3%81%A8%E9%AD%94%E7%90%86%E6%B2%99%E3%81%A8%E8%90%83%E9%A6%99%E3%81%AE%E3%81%8A%E3%82%84%E3%81%99%E3%81%BFCD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ぺとぴ | 专辑封面 | 封面图片
 
@@ -8,16 +8,13 @@
 使用了本文件作封面图片的作品：
   
 
-- [霊夢と魔理沙と萃香のおやすみCD](./霊夢と魔理沙と萃香のおやすみCD.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [伊吹萃香](./伊吹萃香.md)- [雾雨魔理沙](./雾雨魔理沙.md)
+- [霊夢と魔理沙と萃香のおやすみCD](./霊夢と魔理沙と萃香のおやすみCD.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [伊吹萃香](./伊吹萃香.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-源地址：[[1]](https://booth.pximg.net/c/620x620/81613909-4019-4cf1-b8e3-0211f3ca5e37/i/101014/031970a2-2843-4620-a2cd-5c4196de16ef_base_resized.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://booth.pximg.net/c/620x620/81613909-4019-4cf1-b8e3-0211f3ca5e37/i/101014/031970a2-2843-4620-a2cd-5c4196de16ef_base_resized.jpg)  
 
 ---
 

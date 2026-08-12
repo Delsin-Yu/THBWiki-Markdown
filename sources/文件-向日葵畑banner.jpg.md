@@ -1,16 +1,11 @@
 # 文件:向日葵畑banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\95\ns6%3A%E5%90%91%E6%97%A5%E8%91%B5%E7%95%91banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\95\ns6%3A%E5%90%91%E6%97%A5%E8%91%B5%E7%95%91banner%2Ejpg.html -->
 
 向日葵畑 | 社团LOGO
 
   
-源地址：[[1]](http://hima-pro.sakura.ne.jp/image/hbp_bana.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://hima-pro.sakura.ne.jp/image/hbp_bana.jpg)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:Beast_Of_Blood封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\11\ns6%3ABeast_Of_Blood%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\11\ns6%3ABeast_Of_Blood%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 monoralGrey | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ monoralGrey | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Beast Of Blood](./Beast_Of_Blood.md)  
-该封面包含的角色：- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
+- [Beast Of Blood](./Beast_Of_Blood.md)该封面包含的角色：
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
 
   
-源地址：[[1]](https://i1.sndcdn.com/artworks-000114235304-4rl4o9-t500x500.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://i1.sndcdn.com/artworks-000114235304-4rl4o9-t500x500.jpg)  
 
 ---
 

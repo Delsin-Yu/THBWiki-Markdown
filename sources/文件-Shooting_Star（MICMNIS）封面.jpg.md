@@ -1,6 +1,6 @@
 # 文件:Shooting_Star（MICMNIS）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cc\ns6%3AShooting_Star%EF%BC%88MICMNIS%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cc\ns6%3AShooting_Star%EF%BC%88MICMNIS%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 MICMNIS | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ MICMNIS | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Shooting Star（MICMNIS）](./Shooting_Star（MICMNIS）.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
+- [Shooting Star（MICMNIS）](./Shooting_Star（MICMNIS）.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-源地址：[[1]](http://micmnis.net/wp-content/uploads/2015/12/b9155f633d539d8d62a45bef29b75f59.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://micmnis.net/wp-content/uploads/2015/12/b9155f633d539d8d62a45bef29b75f59.jpg)  
 
 ---
 

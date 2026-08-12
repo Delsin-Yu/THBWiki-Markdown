@@ -1,12 +1,8 @@
 # 文件:こげコロッケbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\01\ns6%3A%E3%81%93%E3%81%92%E3%82%B3%E3%83%AD%E3%83%83%E3%82%B1banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\01\ns6%3A%E3%81%93%E3%81%92%E3%82%B3%E3%83%AD%E3%83%83%E3%82%B1banner%2Ejpg.html -->
 
 こげコロッケ | 社团LOGO
-
-
-
-
 
 
 ---

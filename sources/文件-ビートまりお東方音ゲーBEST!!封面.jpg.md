@@ -1,6 +1,6 @@
 # 文件:ビートまりお東方音ゲーBEST!!封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a8\ns6%3A%E3%83%93%E3%83%BC%E3%83%88%E3%81%BE%E3%82%8A%E3%81%8A%E6%9D%B1%E6%96%B9%E9%9F%B3%E3%82%B2%E3%83%BCBEST%21%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a8\ns6%3A%E3%83%93%E3%83%BC%E3%83%88%E3%81%BE%E3%82%8A%E3%81%8A%E6%9D%B1%E6%96%B9%E9%9F%B3%E3%82%B2%E3%83%BCBEST%21%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 COOL&CREATE | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ COOL&CREATE | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [ビートまりお東方音ゲーBEST!!](./ビートまりお東方音ゲーBEST!!.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [ビートまりお東方音ゲーBEST!!](./ビートまりお東方音ゲーBEST!!.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

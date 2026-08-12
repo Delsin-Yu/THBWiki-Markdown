@@ -1,12 +1,11 @@
 # I_Wanna_be_the_Shrine_Maiden_2
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\3\34\ns0%3AI_Wanna_be_the_Shrine_Maiden_2.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\3\34\ns0%3AI_Wanna_be_the_Shrine_Maiden_2.html -->
 
 2024年6月22日 由 2D Emotion  发布的ACT同人游戏，可在 Windows 系统上运行，游戏人数为 单人模式，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人软件 (未找到链接)** 的词条
-
+**[二次创作同人软件](./二次创作.md#同人软件)**的词条
 ## 目录
 
 - [1 软件信息](#软件信息)
@@ -14,9 +13,6 @@
 - [3 内容页面](#内容页面)
 - [4 评论](#评论)
 - [5 下载](#下载)
-
-
-
 
 
 ## 软件信息
@@ -27,10 +23,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://www.2demotion.com/iwannabetheshrinemaiden2.html">http://www.2demotion.com/iwannabetheshrinemaiden2.html</a></td></tr></tbody></table>
 
 I Wanna be the Shrine Maiden 2（同人游戏，2D Emotion，2010） - 2024年6月22日 由 2D Emotion  发布的ACT同人游戏，可在 Windows 系统上运行，游戏人数为 单人模式，分级为 一般向
-
 ## Staff
 
 ## 内容页面
+
 - 游戏设定与剧情 (未找到链接)
 - 攻略 (未找到链接)
 - 其他信息 (未找到链接)
@@ -41,9 +37,7 @@ I Wanna be the Shrine Maiden 2（同人游戏，2D Emotion，2010） - 2024年6�
 ## 下载
   
 请注意：  
- **所有的二次同人软件的下载地址均为站外资源，本站并不保证其来源的合法性以及资源的有效性和安全性** 
-  
-
+**所有的二次同人软件的下载地址均为站外资源，本站并不保证其来源的合法性以及资源的有效性和安全性**  
 
 <table>
 
@@ -53,15 +47,6 @@ I Wanna be the Shrine Maiden 2（同人游戏，2D Emotion，2010） - 2024年6�
 <tr>
 <td><a rel="nofollow" class="external free" href="http://www.2demotion.com/IWBTSM2.zip">http://www.2demotion.com/IWBTSM2.zip</a>
 </td></tr></tbody></table>
-
-
-  
-  
-
-  
-
-
-
 
 
 ---

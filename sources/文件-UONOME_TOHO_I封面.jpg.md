@@ -1,6 +1,6 @@
 # 文件:UONOME_TOHO_I封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fa\ns6%3AUONOME_TOHO_I%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fa\ns6%3AUONOME_TOHO_I%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 コトブキ104 | 同人志封面 | 封面图片
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [UONOME TOHO I](./UONOME_TOHO_I.md)  
-该封面包含的角色：- [克劳恩皮丝](./克劳恩皮丝.md)- [赫卡提亚·拉碧斯拉祖利](./赫卡提亚·拉碧斯拉祖利.md)
-
-
-
+- [UONOME TOHO I](./UONOME_TOHO_I.md)该封面包含的角色：
+- [克劳恩皮丝](./克劳恩皮丝.md)
+- [赫卡提亚·拉碧斯拉祖利](./赫卡提亚·拉碧斯拉祖利.md)
 
 
 ---

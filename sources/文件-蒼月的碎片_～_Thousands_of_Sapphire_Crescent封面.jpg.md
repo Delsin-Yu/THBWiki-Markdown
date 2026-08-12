@@ -1,6 +1,6 @@
 # 文件:蒼月的碎片_～_Thousands_of_Sapphire_Crescent封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ab\ns6%3A%E8%92%BC%E6%9C%88%E7%9A%84%E7%A2%8E%E7%89%87_%EF%BD%9E_Thousands_of_Sapphire_Crescent%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ab\ns6%3A%E8%92%BC%E6%9C%88%E7%9A%84%E7%A2%8E%E7%89%87_%EF%BD%9E_Thousands_of_Sapphire_Crescent%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ELField | 专辑封面 | 封面图片
 
@@ -8,12 +8,9 @@ ELField | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [蒼月的碎片 ～ Thousands of Sapphire Crescent](./蒼月的碎片_～_Thousands_of_Sapphire_Crescent.md)  
-该封面包含的角色：- 原创角色 (未找到链接)源地址：[[1]](https://web.archive.org/web/20160103211420im_/http://www.elfield.url.tw/hp/03works/tscd0001.jpg)
-
-
-
-
+- [蒼月的碎片 ～ Thousands of Sapphire Crescent](./蒼月的碎片_～_Thousands_of_Sapphire_Crescent.md)该封面包含的角色：
+- 原创角色 (未找到链接)
+源地址：[\[1\]](https://web.archive.org/web/20160103211420im_/http://www.elfield.url.tw/hp/03works/tscd0001.jpg)
 
 ---
 

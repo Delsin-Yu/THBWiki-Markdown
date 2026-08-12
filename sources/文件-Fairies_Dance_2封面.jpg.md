@@ -1,6 +1,6 @@
 # 文件:Fairies_Dance_2封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dd\ns6%3AFairies_Dance_2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dd\ns6%3AFairies_Dance_2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 くらっしゅハウス | 同人志封面 | 封面图片
 
@@ -10,16 +10,14 @@
 使用了本文件作封面图片的作品：
   
 
-- [Fairies Dance 2](./Fairies_Dance_2.md)  
-该封面包含的角色：- [露娜切露德](./露娜切露德.md)- [桑尼米尔克](./桑尼米尔克.md)- [斯塔萨菲雅](./斯塔萨菲雅.md)- [克劳恩皮丝](./克劳恩皮丝.md)
+- [Fairies Dance 2](./Fairies_Dance_2.md)该封面包含的角色：
+- [露娜切露德](./露娜切露德.md)
+- [桑尼米尔克](./桑尼米尔克.md)
+- [斯塔萨菲雅](./斯塔萨菲雅.md)
+- [克劳恩皮丝](./克劳恩皮丝.md)
 
   
-源地址：[蜜瓜](https://melonbooks.akamaized.net/user_data/packages/resize_image.php?image=212001428131.jpg)
-  
-
-
-
-
+源地址：[蜜瓜](https://melonbooks.akamaized.net/user_data/packages/resize_image.php?image=212001428131.jpg)  
 
 ---
 

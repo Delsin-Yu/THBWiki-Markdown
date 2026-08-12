@@ -1,6 +1,6 @@
 # 文件:THE_BEST_OF_東方_with_SCHRANZ封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\39\ns6%3ATHE_BEST_OF_%E6%9D%B1%E6%96%B9_with_SCHRANZ%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\39\ns6%3ATHE_BEST_OF_%E6%9D%B1%E6%96%B9_with_SCHRANZ%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ダシマキレコード | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [THE BEST OF 東方 with SCHRANZ](./THE_BEST_OF_東方_with_SCHRANZ.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [THE BEST OF 東方 with SCHRANZ](./THE_BEST_OF_東方_with_SCHRANZ.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

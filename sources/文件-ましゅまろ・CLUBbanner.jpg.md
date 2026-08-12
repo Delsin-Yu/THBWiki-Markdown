@@ -1,14 +1,11 @@
 # 文件:ましゅまろ・CLUBbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f8\ns6%3A%E3%81%BE%E3%81%97%E3%82%85%E3%81%BE%E3%82%8D%E3%83%BBCLUBbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f8\ns6%3A%E3%81%BE%E3%81%97%E3%82%85%E3%81%BE%E3%82%8D%E3%83%BBCLUBbanner%2Ejpg.html -->
 
 ましゅまろ・CLUB | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

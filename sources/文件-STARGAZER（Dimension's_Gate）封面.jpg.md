@@ -1,6 +1,6 @@
 # 文件:STARGAZER（Dimension's_Gate）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c1\ns6%3ASTARGAZER%EF%BC%88Dimension%27s_Gate%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c1\ns6%3ASTARGAZER%EF%BC%88Dimension%27s_Gate%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Dimension's_Gate | 专辑封面 | 封面图片
 
@@ -8,16 +8,12 @@ Dimension's_Gate | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [STARGAZER（Dimension's Gate）](./STARGAZER（Dimension's_Gate）.md)  
-该封面包含的角色：- [因幡帝](./因幡帝.md)- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
+- [STARGAZER（Dimension's Gate）](./STARGAZER（Dimension's_Gate）.md)该封面包含的角色：
+- [因幡帝](./因幡帝.md)
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
 
   
-源地址：[[1]](http://img.toranoana.jp/popup_img/04/0030/04/69/040030046994-1p.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://img.toranoana.jp/popup_img/04/0030/04/69/040030046994-1p.jpg)  
 
 ---
 

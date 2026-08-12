@@ -1,18 +1,13 @@
 # 文件:みっちぇるbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0c\ns6%3A%E3%81%BF%E3%81%A3%E3%81%A1%E3%81%87%E3%82%8Bbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0c\ns6%3A%E3%81%BF%E3%81%A3%E3%81%A1%E3%81%87%E3%82%8Bbanner%2Ejpg.html -->
 
 みっちぇる | 社团LOGO
 
 
 ## 摘要
   
-源地址：[direct image link](https://web.archive.org/web/20061030112844im_/http://www18.ocn.ne.jp/~mitchell/images/bana.jpg), [source page](https://web.archive.org/web/20071116035334/http://www18.ocn.ne.jp/~mitchell/about.html)
-  
-
-
-
-
+源地址：[direct image link](https://web.archive.org/web/20061030112844im_/http://www18.ocn.ne.jp/~mitchell/images/bana.jpg), [source page](https://web.archive.org/web/20071116035334/http://www18.ocn.ne.jp/~mitchell/about.html)  
 
 ---
 

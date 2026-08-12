@@ -1,6 +1,6 @@
 # 文件:A_HIKE_IN_THE_KAMIKOCHI_河童と天狗の上高地探訪封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e4\ns6%3AA_HIKE_IN_THE_KAMIKOCHI_%E6%B2%B3%E7%AB%A5%E3%81%A8%E5%A4%A9%E7%8B%97%E3%81%AE%E4%B8%8A%E9%AB%98%E5%9C%B0%E6%8E%A2%E8%A8%AA%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e4\ns6%3AA_HIKE_IN_THE_KAMIKOCHI_%E6%B2%B3%E7%AB%A5%E3%81%A8%E5%A4%A9%E7%8B%97%E3%81%AE%E4%B8%8A%E9%AB%98%E5%9C%B0%E6%8E%A2%E8%A8%AA%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 カゼノウタ | 同人志封面 | 封面图片
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [A HIKE IN THE KAMIKOCHI 河童と天狗の上高地探訪](./A_HIKE_IN_THE_KAMIKOCHI_河童と天狗の上高地探訪.md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)- [河城荷取](./河城荷取.md)
-
-
-
+- [A HIKE IN THE KAMIKOCHI 河童と天狗の上高地探訪](./A_HIKE_IN_THE_KAMIKOCHI_河童と天狗の上高地探訪.md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
+- [河城荷取](./河城荷取.md)
 
 
 ---

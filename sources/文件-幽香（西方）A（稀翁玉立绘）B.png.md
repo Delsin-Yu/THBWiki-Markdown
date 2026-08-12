@@ -1,14 +1,11 @@
 # 文件:幽香（西方）A（稀翁玉立绘）B.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f2\ns6%3A%E5%B9%BD%E9%A6%99%EF%BC%88%E8%A5%BF%E6%96%B9%EF%BC%89A%EF%BC%88%E7%A8%80%E7%BF%81%E7%8E%89%E7%AB%8B%E7%BB%98%EF%BC%89B%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f2\ns6%3A%E5%B9%BD%E9%A6%99%EF%BC%88%E8%A5%BF%E6%96%B9%EF%BC%89A%EF%BC%88%E7%A8%80%E7%BF%81%E7%8E%89%E7%AB%8B%E7%BB%98%EF%BC%89B%2Epng.html -->
 
 幽香（西方） | 稀翁玉 | 西方Project | 西方角色立绘
 
 
 ## 摘要
-
-
-
 
 ---
 

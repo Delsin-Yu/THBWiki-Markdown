@@ -1,18 +1,13 @@
 # 文件:Ink_Studiobanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b8\ns6%3AInk_Studiobanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b8\ns6%3AInk_Studiobanner%2Ejpg.html -->
 
 Ink_Studio | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[direct image link](https://web.archive.org/web/20120121184732im_/http://vocahou.ru/img/ink.jpg), [source page](https://web.archive.org/web/20120624071621/http://vocahou.ru/)
-  
-
-
-
-
+源地址：[direct image link](https://web.archive.org/web/20120121184732im_/http://vocahou.ru/img/ink.jpg), [source page](https://web.archive.org/web/20120624071621/http://vocahou.ru/)  
 
 ---
 

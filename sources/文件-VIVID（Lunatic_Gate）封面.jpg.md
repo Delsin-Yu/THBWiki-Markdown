@@ -1,6 +1,6 @@
 # 文件:VIVID（Lunatic_Gate）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\40\ns6%3AVIVID%EF%BC%88Lunatic_Gate%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\40\ns6%3AVIVID%EF%BC%88Lunatic_Gate%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Lunatic_Gate | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ Lunatic_Gate | 专辑封面 | 封面图片
   
 
 - [VIVID（Lunatic Gate）](./VIVID（Lunatic_Gate）.md)
-
-
-
 
 
 ---

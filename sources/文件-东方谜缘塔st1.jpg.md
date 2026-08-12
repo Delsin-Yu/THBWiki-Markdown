@@ -1,12 +1,8 @@
 # 文件:东方谜缘塔st1.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fd\ns6%3A%E4%B8%9C%E6%96%B9%E8%B0%9C%E7%BC%98%E5%A1%94st1%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fd\ns6%3A%E4%B8%9C%E6%96%B9%E8%B0%9C%E7%BC%98%E5%A1%94st1%2Ejpg.html -->
 
 阐幽赜书房
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:SIXFOLD封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\49\ns6%3ASIXFOLD%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\49\ns6%3ASIXFOLD%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Alstroemeria_Records | Amateras_Records | 专辑封面 | 封面图片
 
@@ -8,11 +8,15 @@ Alstroemeria_Records | Amateras_Records | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [SIXFOLD](./SIXFOLD.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [西行寺幽幽子](./西行寺幽幽子.md)- [射命丸文](./射命丸文.md)- [风见幽香](./风见幽香.md)- [雾雨魔理沙](./雾雨魔理沙.md)- [克劳恩皮丝](./克劳恩皮丝.md)
-
-
-
+- [SIXFOLD](./SIXFOLD.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [西行寺幽幽子](./西行寺幽幽子.md)
+- [射命丸文](./射命丸文.md)
+- [风见幽香](./风见幽香.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
+- [克劳恩皮丝](./克劳恩皮丝.md)
 
 
 ---

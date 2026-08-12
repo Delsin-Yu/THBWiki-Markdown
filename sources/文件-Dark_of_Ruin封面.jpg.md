@@ -1,6 +1,6 @@
 # 文件:Dark_of_Ruin封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c8\ns6%3ADark_of_Ruin%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c8\ns6%3ADark_of_Ruin%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Suspicion_&_Fear | 专辑封面 | 封面图片
 
@@ -13,11 +13,7 @@ Suspicion_&_Fear | 专辑封面 | 封面图片
 - [Dark of Ruin](./Dark_of_Ruin.md)
 
 源地址
-: [[1]](https://s2.booth.pm/6661702e-e731-4ea0-8a5b-dd58ac9567e4/i/5386570/72fdb48e-9306-4ccf-9921-66b5f9200edd_base_resized.jpg)
-
-
-
-
+: [\[1\]](https://s2.booth.pm/6661702e-e731-4ea0-8a5b-dd58ac9567e4/i/5386570/72fdb48e-9306-4ccf-9921-66b5f9200edd_base_resized.jpg)
 
 ---
 

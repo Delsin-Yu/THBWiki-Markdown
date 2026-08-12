@@ -1,16 +1,12 @@
 # 文件:第四设计院logo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ea\ns6%3A%E7%AC%AC%E5%9B%9B%E8%AE%BE%E8%AE%A1%E9%99%A2logo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ea\ns6%3A%E7%AC%AC%E5%9B%9B%E8%AE%BE%E8%AE%A1%E9%99%A2logo%2Epng.html -->
 
 社团LOGO | 第四设计院
 
   
 第四设计院logo
   
-
-
-
-
 
 ---
 

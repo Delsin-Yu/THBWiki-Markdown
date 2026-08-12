@@ -1,12 +1,8 @@
 # 文件:鸟船遗迹cover3.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6d\ns6%3A%E9%B8%9F%E8%88%B9%E9%81%97%E8%BF%B9cover3%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6d\ns6%3A%E9%B8%9F%E8%88%B9%E9%81%97%E8%BF%B9cover3%2Ejpg.html -->
 
 官方CD光盘扫图 | 鸟船遗迹
-
-
-
-
 
 
 ---

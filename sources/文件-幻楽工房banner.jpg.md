@@ -1,12 +1,8 @@
 # 文件:幻楽工房banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\05\ns6%3A%E5%B9%BB%E6%A5%BD%E5%B7%A5%E6%88%BFbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\05\ns6%3A%E5%B9%BB%E6%A5%BD%E5%B7%A5%E6%88%BFbanner%2Ejpg.html -->
 
 幻楽工房 | 社团LOGO
-
-
-
-
 
 
 ---

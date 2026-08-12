@@ -1,16 +1,11 @@
 # 文件:MA.S_ATTACKbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1b\ns6%3AMA%2ES_ATTACKbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1b\ns6%3AMA%2ES_ATTACKbanner%2Epng.html -->
 
 MA.S_ATTACK | 社团LOGO
 
   
-源地址：[[1]](https://web.archive.org/web/20130922130027/http://mas-attack.org/)
-  
-
-
-
-
+源地址：[\[1\]](https://web.archive.org/web/20130922130027/http://mas-attack.org/)  
 
 ---
 

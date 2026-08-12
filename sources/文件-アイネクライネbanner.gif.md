@@ -1,12 +1,8 @@
 # 文件:アイネクライネbanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\39\ns6%3A%E3%82%A2%E3%82%A4%E3%83%8D%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%8Dbanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\39\ns6%3A%E3%82%A2%E3%82%A4%E3%83%8D%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%8Dbanner%2Egif.html -->
 
 アイネクライネ | 社团LOGO
-
-
-
-
 
 
 ---

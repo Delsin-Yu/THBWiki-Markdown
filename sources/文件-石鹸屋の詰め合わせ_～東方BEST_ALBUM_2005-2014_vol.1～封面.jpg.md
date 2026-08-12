@@ -1,6 +1,6 @@
 # 文件:石鹸屋の詰め合わせ_～東方BEST_ALBUM_2005-2014_vol.1～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\15\ns6%3A%E7%9F%B3%E9%B9%B8%E5%B1%8B%E3%81%AE%E8%A9%B0%E3%82%81%E5%90%88%E3%82%8F%E3%81%9B_%EF%BD%9E%E6%9D%B1%E6%96%B9BEST_ALBUM_2005-2014_vol%2E1%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\15\ns6%3A%E7%9F%B3%E9%B9%B8%E5%B1%8B%E3%81%AE%E8%A9%B0%E3%82%81%E5%90%88%E3%82%8F%E3%81%9B_%EF%BD%9E%E6%9D%B1%E6%96%B9BEST_ALBUM_2005-2014_vol%2E1%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 石鹸屋
 
@@ -10,11 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [石鹸屋の詰め合わせ ～東方BEST ALBUM 2005-2014 vol.1～](./石鹸屋の詰め合わせ_～東方BEST_ALBUM_2005-2014_vol.1～.md)  
-该封面包含的角色：- [西行寺幽幽子](./西行寺幽幽子.md)- [上白泽慧音](./上白泽慧音.md)- [风见幽香](./风见幽香.md)- [小野塚小町](./小野塚小町.md)
-
-
-
+- [石鹸屋の詰め合わせ ～東方BEST ALBUM 2005-2014 vol.1～](./石鹸屋の詰め合わせ_～東方BEST_ALBUM_2005-2014_vol.1～.md)该封面包含的角色：
+- [西行寺幽幽子](./西行寺幽幽子.md)
+- [上白泽慧音](./上白泽慧音.md)
+- [风见幽香](./风见幽香.md)
+- [小野塚小町](./小野塚小町.md)
 
 
 ---

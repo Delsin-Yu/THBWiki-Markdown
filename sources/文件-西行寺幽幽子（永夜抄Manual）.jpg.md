@@ -1,12 +1,8 @@
 # 文件:西行寺幽幽子（永夜抄Manual）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\62\ns6%3A%E8%A5%BF%E8%A1%8C%E5%AF%BA%E5%B9%BD%E5%B9%BD%E5%AD%90%EF%BC%88%E6%B0%B8%E5%A4%9C%E6%8A%84Manual%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\62\ns6%3A%E8%A5%BF%E8%A1%8C%E5%AF%BA%E5%B9%BD%E5%B9%BD%E5%AD%90%EF%BC%88%E6%B0%B8%E5%A4%9C%E6%8A%84Manual%EF%BC%89%2Ejpg.html -->
 
 Manual配图 | 东方永夜抄 | 西行寺幽幽子
-
-
-
-
 
 
 ---

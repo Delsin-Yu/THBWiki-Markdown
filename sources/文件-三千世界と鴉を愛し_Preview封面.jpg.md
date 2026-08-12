@@ -1,6 +1,6 @@
 # 文件:三千世界と鴉を愛し_Preview封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\15\ns6%3A%E4%B8%89%E5%8D%83%E4%B8%96%E7%95%8C%E3%81%A8%E9%B4%89%E3%82%92%E6%84%9B%E3%81%97_Preview%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\15\ns6%3A%E4%B8%89%E5%8D%83%E4%B8%96%E7%95%8C%E3%81%A8%E9%B4%89%E3%82%92%E6%84%9B%E3%81%97_Preview%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 アイネクライネ | 同人志封面 | 封面图片
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [三千世界と鴉を愛し Preview](./三千世界と鴉を愛し_Preview.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [三千世界と鴉を愛し Preview](./三千世界と鴉を愛し_Preview.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

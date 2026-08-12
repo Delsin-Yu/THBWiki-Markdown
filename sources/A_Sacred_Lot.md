@@ -1,40 +1,30 @@
 # A_Sacred_Lot
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\5\57\ns0%3AA_Sacred_Lot.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\5\57\ns0%3AA_Sacred_Lot.html -->
 
 由 ZUN 创作的官方曲目，原名 A Sacred Lot
 
 本页是关于东方Project  
- **原作音乐** 的词条
-
+**原作音乐**的词条
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 出现作品](#出现作品)
 - [3 音乐文件](#音乐文件)
-
   - [3.1 东方灵异传](#东方灵异传)
   - [3.2 东方怪绮谈](#东方怪绮谈)
   - [3.3 幺乐团的历史 vol.5](#幺乐团的历史_vol.5)
 
 
-
 - [4 说明文本](#说明文本)
-
   - [4.1 东方灵异传](#东方灵异传_2)
   - [4.2 东方怪绮谈](#东方怪绮谈_2)
 
 
-
 - [5 其他资料](#其他资料)
-
   - [5.1 乐理资讯](#乐理资讯)
   - [5.2 分析考据](#分析考据)
   - [5.3 二次同人数据](#二次同人数据)
-
-
-
-
 
 
 
@@ -44,7 +34,6 @@
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">A Sacred Lot</td></tr><tr><td><b>译名</b></td><td>A Sacred Lot</td></tr><tr><td><b>其他译名</b></td><td>神圣之地<br>神圣的命运</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 A Sacred Lot（曲目） - 由 ZUN 创作的官方曲目，原名 A Sacred Lot
-
 ## 出现作品
 
 <table>
@@ -54,7 +43,6 @@ A Sacred Lot（曲目） - 由 ZUN 创作的官方曲目，原名 A Sacred Lot
 </tbody></table>
 
 
-
 ## 音乐文件
 
 ### 东方灵异传
@@ -62,23 +50,18 @@ A Sacred Lot（曲目） - 由 ZUN 创作的官方曲目，原名 A Sacred Lot
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-A_Sacret_Lot_0.mp3.md" title="文件:A Sacret Lot 0.mp3">A_Sacret_Lot_0.mp3</a><br><audio src="https://upload.thwiki.cc/0/0b/A_Sacret_Lot_0.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>REIMU.MDT</td></tr><tr><td><b>音轨时长</b></td><td>3:31</td></tr></tbody></table>
 
 
-
 ### 东方怪绮谈
   
 YM2203(OPN)，FM26K音源版。
   
 
-
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th05_R_01_1.ogg.md" title="文件:th05 R 01 1.ogg">th05_R_01_1.ogg</a><br><audio src="https://upload.thwiki.cc/c/cf/th05_R_01_1.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>R_00.M</td></tr><tr><td><b>音轨时长</b></td><td>1:29.964</td></tr></tbody></table>
-
 
   
 YM2608(OPNA)，FM86音源版。
   
 
-
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th05_R_01_2.ogg.md" title="文件:th05 R 01 2.ogg">th05_R_01_2.ogg</a><br><audio src="https://upload.thwiki.cc/b/b2/th05_R_01_2.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>R_00.M2</td></tr><tr><td><b>音轨时长</b></td><td>1:29.964</td></tr></tbody></table>
-
 
 
 ### 幺乐团的历史 vol.5
@@ -86,16 +69,16 @@ YM2608(OPNA)，FM86音源版。
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-ha05_01.mp3.md" title="文件:ha05 01.mp3">ha05_01.mp3</a><br><audio src="https://upload.thwiki.cc/3/32/ha05_01.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track01.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>3:20</td></tr></tbody></table>
 
 
-
 ## 说明文本
 
 ### 东方灵异传
-- Music Test (未找到链接)
+
+- [Music Test](./东方灵异传-Music.md#标题画面)
 
 　A Sacred Lot     　　　　　　　　　　　　　                Composer  ZUN
-
 ### 东方怪绮谈
-- Music Room (未找到链接)
+
+- [Music Room](./东方怪绮谈-Music.md#标题画面)
 
 　　　东方灵异传  PMD Arrange版  
 　　　　　　标题画面主题曲  
@@ -105,32 +88,33 @@ YM2608(OPNA)，FM86音源版。
 ＺＵＮ（太田）  
 灵异传曲目。  
 特别Arrange版
-
 ## 其他资料
 
 ### 乐理资讯
-- BPM
+
+- BPM 
   - 152.03
+
 
 
 
 ### 分析考据
   
- **A Sacred Lot** 
-  
+**A Sacred Lot**  
 神圣之地
   
 
 - MDT文件名为「REIMU」。即灵梦。
 - 曲名直译的话是神圣之地，神社，神签，或者神圣的命运...可以有各种各样的解释。
-- sacred：神圣的，与神有关联的；宗教的;不可侵犯的；献给（神明）的。
+- sacred：神圣的，与神有关联的；宗教的;不可侵犯的；献给（神明）的。 
   - 主人公为侍奉神灵的巫女。
-  - 与东方灵异传的标题英文部分同名的曲子「[Highly Responsive to Prayers](./Highly_Responsive_to_Prayers.md)」，  
-在MDT中以“日语 ～ 英语”方式命名为「献给神明之魂 ～ Highly Responsive to Prayers」。
+  - 与东方灵异传的标题英文部分同名的曲子「[Highly Responsive to Prayers](./Highly_Responsive_to_Prayers.md)」，在MDT中以“日语 ～ 英语”方式命名为「献给神明之魂 ～ Highly Responsive to Prayers」。
+
 
 - lot：有特殊用途的土地；被确定的命运；宿命。
-- sacred lot：①圣域？②祭献给神的命运？
+- sacred lot：①圣域？②祭献给神的命运？ 
   - ①关卡后期发生在魔界和地狱。②巫女侍奉神灵。
+
 
 
 
@@ -146,17 +130,6 @@ YM2608(OPNA)，FM86音源版。
 <tr><td>Arrange</td><td>51</td></tr>
 <tr><td>Vocal率</td><td>15%</td></tr>
 </tbody></table>
-
-
-
-
-  
-  
-
-  
-
-
-
 
 
 ---

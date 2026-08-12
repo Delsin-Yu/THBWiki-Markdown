@@ -1,6 +1,6 @@
 # 文件:TOHO_BOSSA_NOVA_12封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ef\ns6%3ATOHO_BOSSA_NOVA_12%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ef\ns6%3ATOHO_BOSSA_NOVA_12%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 ShibayanRecords | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@ ShibayanRecords | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [TOHO BOSSA NOVA 12](./TOHO_BOSSA_NOVA_12.md)  
-该封面包含的角色：- [赤蛮奇](./赤蛮奇.md)
+- [TOHO BOSSA NOVA 12](./TOHO_BOSSA_NOVA_12.md)该封面包含的角色：
+- [赤蛮奇](./赤蛮奇.md)
 
   
-原地址：[[1]](http://shibayan.info/stal2301/STAL2301_jacket.png)
-  
-
-
-
-
+原地址：[\[1\]](http://shibayan.info/stal2301/STAL2301_jacket.png)  
 
 ---
 

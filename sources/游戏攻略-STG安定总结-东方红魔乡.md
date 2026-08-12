@@ -1,6 +1,6 @@
 # 游戏攻略/STG安定总结/东方红魔乡
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\3\39\ns0%3A%E6%B8%B8%E6%88%8F%E6%94%BB%E7%95%A5%2FSTG%E5%AE%89%E5%AE%9A%E6%80%BB%E7%BB%93%2F%E4%B8%9C%E6%96%B9%E7%BA%A2%E9%AD%94%E4%B9%A1.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\3\39\ns0%3A%E6%B8%B8%E6%88%8F%E6%94%BB%E7%95%A5%2FSTG%E5%AE%89%E5%AE%9A%E6%80%BB%E7%BB%93%2F%E4%B8%9C%E6%96%B9%E7%BA%A2%E9%AD%94%E4%B9%A1.html -->
 
 
 
@@ -95,10 +95,6 @@
 安定范围不小，只是无法击破。
 </p>
 </td></tr></tbody></table>
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Phantom_Photograph封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\73\ns6%3APhantom_Photograph%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\73\ns6%3APhantom_Photograph%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 アベニュールーム | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Phantom Photograph](./Phantom_Photograph.md)  
-该封面包含的角色：- [宇佐见堇子](./宇佐见堇子.md)
-
-
-
+- [Phantom Photograph](./Phantom_Photograph.md)该封面包含的角色：
+- [宇佐见堇子](./宇佐见堇子.md)
 
 
 ---

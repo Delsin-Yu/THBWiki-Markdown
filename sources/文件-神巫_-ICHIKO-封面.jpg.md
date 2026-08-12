@@ -1,6 +1,6 @@
 # 文件:神巫_-ICHIKO-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\28\ns6%3A%E7%A5%9E%E5%B7%AB_-ICHIKO-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\28\ns6%3A%E7%A5%9E%E5%B7%AB_-ICHIKO-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 WAVEDRIVE | 专辑封面 | 封面图片
 
@@ -10,16 +10,12 @@ WAVEDRIVE | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [神巫 -ICHIKO-](./神巫_-ICHIKO-.md)  
-该封面包含的角色：- [伊吹萃香](./伊吹萃香.md)- 赤鬼 (未找到链接)
+- [神巫 -ICHIKO-](./神巫_-ICHIKO-.md)该封面包含的角色：
+- [伊吹萃香](./伊吹萃香.md)
+- 赤鬼 (未找到链接)
 
   
-源地址：[suruga-ya](https://www.suruga-ya.jp/product/detail/186104126)
-  
-
-
-
-
+源地址：[suruga-ya](https://www.suruga-ya.jp/product/detail/186104126)  
 
 ---
 

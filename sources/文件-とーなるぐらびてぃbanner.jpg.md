@@ -1,6 +1,6 @@
 # 文件:とーなるぐらびてぃbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3f\ns6%3A%E3%81%A8%E3%83%BC%E3%81%AA%E3%82%8B%E3%81%90%E3%82%89%E3%81%B3%E3%81%A6%E3%81%83banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3f\ns6%3A%E3%81%A8%E3%83%BC%E3%81%AA%E3%82%8B%E3%81%90%E3%82%89%E3%81%B3%E3%81%A6%E3%81%83banner%2Ejpg.html -->
 
 とーなるぐらびてぃ | 社团LOGO
 
@@ -9,10 +9,6 @@
   
 源地址：[direct image link](https://web.archive.org/web/20111020223235im_/http://tonalgravity.net/images/banner/bana1.jpg), [source page](https://web.archive.org/web/20111026084111/http://www.tonalgravity.net/) (in the link section)
   
-
-
-
-
 
 ---
 

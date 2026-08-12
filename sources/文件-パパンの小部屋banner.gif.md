@@ -1,12 +1,8 @@
 # 文件:パパンの小部屋banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\81\ns6%3A%E3%83%91%E3%83%91%E3%83%B3%E3%81%AE%E5%B0%8F%E9%83%A8%E5%B1%8Bbanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\81\ns6%3A%E3%83%91%E3%83%91%E3%83%B3%E3%81%AE%E5%B0%8F%E9%83%A8%E5%B1%8Bbanner%2Egif.html -->
 
 パパンの小部屋 | 社团LOGO
-
-
-
-
 
 
 ---

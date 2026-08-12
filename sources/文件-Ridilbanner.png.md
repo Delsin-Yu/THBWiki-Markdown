@@ -1,16 +1,11 @@
 # 文件:Ridilbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\37\ns6%3ARidilbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\37\ns6%3ARidilbanner%2Epng.html -->
 
 Ridil | 社团LOGO
 
   
-源地址：[[1]](http://ridil.jp/image/Ridil_banner.png)
-  
-
-
-
-
+源地址：[\[1\]](http://ridil.jp/image/Ridil_banner.png)  
 
 ---
 

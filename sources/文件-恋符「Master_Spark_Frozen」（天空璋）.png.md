@@ -1,16 +1,12 @@
 # 文件:恋符「Master_Spark_Frozen」（天空璋）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\17\ns6%3A%E6%81%8B%E7%AC%A6%E3%80%8CMaster_Spark_Frozen%E3%80%8D%EF%BC%88%E5%A4%A9%E7%A9%BA%E7%92%8B%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\17\ns6%3A%E6%81%8B%E7%AC%A6%E3%80%8CMaster_Spark_Frozen%E3%80%8D%EF%BC%88%E5%A4%A9%E7%A9%BA%E7%92%8B%EF%BC%89%2Epng.html -->
 
 东方天空璋 | 自机符卡 | 雾雨魔理沙
 
   
 东方天空璋自机角色雾雨魔理沙的Bomb
   
-
-
-
-
 
 ---
 

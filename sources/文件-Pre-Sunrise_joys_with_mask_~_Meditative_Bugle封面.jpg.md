@@ -1,6 +1,6 @@
 # 文件:Pre-Sunrise_joys_with_mask_~_Meditative_Bugle封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1e\ns6%3APre-Sunrise_joys_with_mask_%7E_Meditative_Bugle%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1e\ns6%3APre-Sunrise_joys_with_mask_%7E_Meditative_Bugle%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Erica-Angelina_Kanarska-Sabat | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Erica-Angelina_Kanarska-Sabat | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Pre-Sunrise joys with mask ~ Meditative Bugle](./Pre-Sunrise_joys_with_mask_~_Meditative_Bugle.md)  
-该封面包含的角色：- [秦心](./秦心.md)
-
-
-
+- [Pre-Sunrise joys with mask ~ Meditative Bugle](./Pre-Sunrise_joys_with_mask_~_Meditative_Bugle.md)该封面包含的角色：
+- [秦心](./秦心.md)
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:幕II「神出鬼没的柴郡猫」.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\58\ns6%3A%E5%B9%95II%E3%80%8C%E7%A5%9E%E5%87%BA%E9%AC%BC%E6%B2%A1%E7%9A%84%E6%9F%B4%E9%83%A1%E7%8C%AB%E3%80%8D%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\58\ns6%3A%E5%B9%95II%E3%80%8C%E7%A5%9E%E5%87%BA%E9%AC%BC%E6%B2%A1%E7%9A%84%E6%9F%B4%E9%83%A1%E7%8C%AB%E3%80%8D%2Epng.html -->
 
 东方幕华祭制作组 | 敌机符卡 | 爱丽丝·玛格特洛依德
-
-
-
-
 
 
 ---

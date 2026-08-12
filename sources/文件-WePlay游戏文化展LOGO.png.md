@@ -1,14 +1,11 @@
 # 文件:WePlay游戏文化展LOGO.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\db\ns6%3AWePlay%E6%B8%B8%E6%88%8F%E6%96%87%E5%8C%96%E5%B1%95LOGO%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\db\ns6%3AWePlay%E6%B8%B8%E6%88%8F%E6%96%87%E5%8C%96%E5%B1%95LOGO%2Epng.html -->
 
 WePlay游戏文化展 | 活动LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

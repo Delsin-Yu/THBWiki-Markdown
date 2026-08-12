@@ -1,6 +1,6 @@
 # 文件:Perpetual_Devotion封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\45\ns6%3APerpetual_Devotion%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\45\ns6%3APerpetual_Devotion%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 EastNewSound | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ EastNewSound | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Perpetual Devotion](./Perpetual_Devotion.md)  
-该封面包含的角色：- [少名针妙丸](./少名针妙丸.md)
-
-
-
+- [Perpetual Devotion](./Perpetual_Devotion.md)该封面包含的角色：
+- [少名针妙丸](./少名针妙丸.md)
 
 
 ---

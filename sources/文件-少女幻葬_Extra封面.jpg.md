@@ -1,6 +1,6 @@
 # 文件:少女幻葬_Extra封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3f\ns6%3A%E5%B0%91%E5%A5%B3%E5%B9%BB%E8%91%AC_Extra%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3f\ns6%3A%E5%B0%91%E5%A5%B3%E5%B9%BB%E8%91%AC_Extra%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 VISIONNERZ | 同人志封面 | 封面图片
 
@@ -8,11 +8,11 @@ VISIONNERZ | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [少女幻葬 Extra](./少女幻葬_Extra.md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)- [西行寺幽幽子](./西行寺幽幽子.md)- [八云蓝](./八云蓝.md)- [八云紫](./八云紫.md)
-
-
-
+- [少女幻葬 Extra](./少女幻葬_Extra.md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
+- [西行寺幽幽子](./西行寺幽幽子.md)
+- [八云蓝](./八云蓝.md)
+- [八云紫](./八云紫.md)
 
 
 ---

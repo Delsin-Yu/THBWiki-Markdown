@@ -1,12 +1,8 @@
 # 文件:THD2月面之弓弦.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c7\ns6%3ATHD2%E6%9C%88%E9%9D%A2%E4%B9%8B%E5%BC%93%E5%BC%A6%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c7\ns6%3ATHD2%E6%9C%88%E9%9D%A2%E4%B9%8B%E5%BC%93%E5%BC%A6%2Epng.html -->
 
 THD2
-
-
-
-
 
 
 ---

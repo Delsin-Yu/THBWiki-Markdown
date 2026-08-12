@@ -1,6 +1,6 @@
 # 文件:Cross_Trip_紅魔郷封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\27\ns6%3ACross_Trip_%E7%B4%85%E9%AD%94%E9%83%B7%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\27\ns6%3ACross_Trip_%E7%B4%85%E9%AD%94%E9%83%B7%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 言ノ刃幻想鍛刀地
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Cross Trip 紅魔郷](./Cross_Trip_紅魔郷.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [Cross Trip 紅魔郷](./Cross_Trip_紅魔郷.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
   
-源地址：[图片链接](https://64.media.tumblr.com/e4343c8febc73df5ee85394d95dd0044/949256986223cb65-75/s999999999x999999999/4d7d5914da91adcb641117b25a819b86c69dd2ce.jpg) [特设页](https://crosstripkoumkyo.tumblr.com/)
-  
-
-
-
-
+源地址：[图片链接](https://64.media.tumblr.com/e4343c8febc73df5ee85394d95dd0044/949256986223cb65-75/s999999999x999999999/4d7d5914da91adcb641117b25a819b86c69dd2ce.jpg) [特设页](https://crosstripkoumkyo.tumblr.com/)  
 
 ---
 

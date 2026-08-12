@@ -1,12 +1,8 @@
 # 文件:光学「Optical_Camouflage」（风神录）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e9\ns6%3A%E5%85%89%E5%AD%A6%E3%80%8COptical_Camouflage%E3%80%8D%EF%BC%88%E9%A3%8E%E7%A5%9E%E5%BD%95%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e9\ns6%3A%E5%85%89%E5%AD%A6%E3%80%8COptical_Camouflage%E3%80%8D%EF%BC%88%E9%A3%8E%E7%A5%9E%E5%BD%95%EF%BC%89%2Ejpg.html -->
 
 东方风神录 | 敌机符卡 | 河城荷取
-
-
-
-
 
 
 ---

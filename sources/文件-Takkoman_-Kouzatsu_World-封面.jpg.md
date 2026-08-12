@@ -1,6 +1,6 @@
 # 文件:Takkoman_-Kouzatsu_World-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7f\ns6%3ATakkoman_-Kouzatsu_World-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7f\ns6%3ATakkoman_-Kouzatsu_World-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 illuCalab. | 封面图片 | 软件封面
 
@@ -10,16 +10,12 @@ illuCalab. | 封面图片 | 软件封面
 使用了本文件作封面图片的作品：
   
 
-- [Takkoman -Kouzatsu World-](./Takkoman_-Kouzatsu_World-.md)  
-该封面包含的角色：- 原创角色 (未找到链接)
+- [Takkoman -Kouzatsu World-](./Takkoman_-Kouzatsu_World-.md)该封面包含的角色：
+- 原创角色 (未找到链接)
 
   
 Image taken from [Touhou wiki](https://en.touhouwiki.net/wiki/File:TakkomanJacket.jpg). Original source unknown.
   
-
-
-
-
 
 ---
 

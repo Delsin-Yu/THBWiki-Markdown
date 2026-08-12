@@ -1,6 +1,6 @@
 # 文件:UNKNOWN_BEAT封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\95\ns6%3AUNKNOWN_BEAT%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\95\ns6%3AUNKNOWN_BEAT%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 UNKNOWN_BEATS | 专辑封面 | 封面图片
 
@@ -13,12 +13,7 @@ UNKNOWN_BEATS | 专辑封面 | 封面图片
 - [UNKNOWN BEAT](./UNKNOWN_BEAT.md)
 
   
-源地址：[direct image link (original size)](https://s2.booth.pm/773d1bd9-8454-4289-8836-1144310fedf7/i/4686657/501027fa-a81b-4554-9590-1fc9c26039f7.jpeg), [source page (circle Booth)](https://unknownbeats.booth.pm/items/4686657)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://s2.booth.pm/773d1bd9-8454-4289-8836-1144310fedf7/i/4686657/501027fa-a81b-4554-9590-1fc9c26039f7.jpeg), [source page (circle Booth)](https://unknownbeats.booth.pm/items/4686657)  
 
 ---
 

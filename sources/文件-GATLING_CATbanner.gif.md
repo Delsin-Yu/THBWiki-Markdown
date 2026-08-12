@@ -1,12 +1,8 @@
 # 文件:GATLING_CATbanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\59\ns6%3AGATLING_CATbanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\59\ns6%3AGATLING_CATbanner%2Egif.html -->
 
 GATLING_CAT | 社团LOGO
-
-
-
-
 
 
 ---

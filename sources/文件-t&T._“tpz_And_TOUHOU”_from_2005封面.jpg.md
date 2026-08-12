@@ -1,6 +1,6 @@
 # 文件:t&T._“tpz_And_TOUHOU”_from_2005封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5a\ns6%3At%26T%2E_%E2%80%9Ctpz_And_TOUHOU%E2%80%9D_from_2005%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5a\ns6%3At%26T%2E_%E2%80%9Ctpz_And_TOUHOU%E2%80%9D_from_2005%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 C.H.S | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ C.H.S | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [t&amp;T. “tpz And TOUHOU” from 2005](./t&T._“tpz_And_TOUHOU”_from_2005.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [t&T. “tpz And TOUHOU” from 2005](./t&T._“tpz_And_TOUHOU”_from_2005.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

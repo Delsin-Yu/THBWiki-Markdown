@@ -1,6 +1,6 @@
 # 文件:THE_BEST_OF_COCOA_EUROBEAT封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fc\ns6%3ATHE_BEST_OF_COCOA_EUROBEAT%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fc\ns6%3ATHE_BEST_OF_COCOA_EUROBEAT%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Eurobeat_Union | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Eurobeat_Union | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [THE BEST OF COCOA EUROBEAT](./THE_BEST_OF_COCOA_EUROBEAT.md)  
-该封面包含的角色：- [河城荷取](./河城荷取.md)
+- [THE BEST OF COCOA EUROBEAT](./THE_BEST_OF_COCOA_EUROBEAT.md)该封面包含的角色：
+- [河城荷取](./河城荷取.md)
 
   
-源地址：[[1]](http://img.toranoana.jp/popup_img/04/0030/40/97/040030409783-1p.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://img.toranoana.jp/popup_img/04/0030/40/97/040030409783-1p.jpg)  
 
 ---
 

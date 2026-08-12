@@ -1,12 +1,8 @@
 # 文件:Magnum_opusbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d5\ns6%3AMagnum_opusbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d5\ns6%3AMagnum_opusbanner%2Ejpg.html -->
 
 Magnum_opus | 社团LOGO
-
-
-
-
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:蓬莱少女绘幻想LOGO.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\53\ns6%3A%E8%93%AC%E8%8E%B1%E5%B0%91%E5%A5%B3%E7%BB%98%E5%B9%BB%E6%83%B3LOGO%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\53\ns6%3A%E8%93%AC%E8%8E%B1%E5%B0%91%E5%A5%B3%E7%BB%98%E5%B9%BB%E6%83%B3LOGO%2Epng.html -->
 
 幻乐团官网
-
-
-
-
 
 
 ---

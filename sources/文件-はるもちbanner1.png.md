@@ -1,12 +1,8 @@
 # 文件:はるもちbanner1.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dd\ns6%3A%E3%81%AF%E3%82%8B%E3%82%82%E3%81%A1banner1%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dd\ns6%3A%E3%81%AF%E3%82%8B%E3%82%82%E3%81%A1banner1%2Epng.html -->
 
 はるもち | 社团LOGO
-
-
-
-
 
 
 ---

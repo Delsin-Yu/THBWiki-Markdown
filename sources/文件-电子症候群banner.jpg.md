@@ -1,12 +1,8 @@
 # 文件:电子症候群banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4e\ns6%3A%E7%94%B5%E5%AD%90%E7%97%87%E5%80%99%E7%BE%A4banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4e\ns6%3A%E7%94%B5%E5%AD%90%E7%97%87%E5%80%99%E7%BE%A4banner%2Ejpg.html -->
 
 电子症候群 | 社团LOGO
-
-
-
-
 
 
 ---

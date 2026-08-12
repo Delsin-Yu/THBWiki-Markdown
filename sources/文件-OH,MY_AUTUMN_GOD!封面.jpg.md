@@ -1,6 +1,6 @@
 # 文件:OH,MY_AUTUMN_GOD!封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c5\ns6%3AOH%2CMY_AUTUMN_GOD%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c5\ns6%3AOH%2CMY_AUTUMN_GOD%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 アリヌの工作部屋 | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [OH,MY AUTUMN GOD!](./OH,MY_AUTUMN_GOD!.md)  
-该封面包含的角色：- [秋穰子](./秋穰子.md)
+- [OH,MY AUTUMN GOD!](./OH,MY_AUTUMN_GOD!.md)该封面包含的角色：
+- [秋穰子](./秋穰子.md)
 
   
-[Pixiv artwork ID: 94390733 (image 2/3; original size)](https://www.pixiv.net/artworks/94390733)
-  
-
-
-
-
+[Pixiv artwork ID: 94390733 (image 2/3; original size)](https://www.pixiv.net/artworks/94390733)  
 
 ---
 

@@ -1,16 +1,12 @@
 # 模板:SR
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\4\4f\ns10%3ASR.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\4\4f\ns10%3ASR.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

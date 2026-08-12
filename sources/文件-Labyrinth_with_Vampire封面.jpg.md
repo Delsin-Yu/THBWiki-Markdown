@@ -1,6 +1,6 @@
 # 文件:Labyrinth_with_Vampire封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9f\ns6%3ALabyrinth_with_Vampire%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9f\ns6%3ALabyrinth_with_Vampire%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 IRON_ATTACK! | 专辑封面 | 封面图片
 
@@ -10,16 +10,12 @@ IRON_ATTACK! | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Labyrinth with Vampire](./Labyrinth_with_Vampire.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [Labyrinth with Vampire](./Labyrinth_with_Vampire.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
   
-源地址：[图片链接](https://static.wixstatic.com/media/a3c246_43597293326449c783fdc3fd9cbc8c49~mv2.jpg) [官网](https://ion1128.wixsite.com/ironattack/reitaisai17-rabyrinth)
-  
-
-
-
-
+源地址：[图片链接](https://static.wixstatic.com/media/a3c246_43597293326449c783fdc3fd9cbc8c49~mv2.jpg) [官网](https://ion1128.wixsite.com/ironattack/reitaisai17-rabyrinth)  
 
 ---
 

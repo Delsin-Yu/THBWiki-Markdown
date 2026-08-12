@@ -1,37 +1,36 @@
 # wrapping
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\27\ns0%3Awrapping.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\27\ns0%3Awrapping.html -->
 
 2019年5月5日 由 ちどりあし 于 博丽神社例大祭16 发布的漫画同人志，B5尺寸一共26页，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人志 (未找到链接)** 的词条
-
+**[二次创作同人志](./二次创作.md#同人志)**的词条
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-wrapping封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/6/68/wrapping%E5%B0%81%E9%9D%A2.jpg/137px-wrapping%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="137" height="196" srcset="https://upload.thwiki.cc/thumb/6/68/wrapping%E5%B0%81%E9%9D%A2.jpg/206px-wrapping%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/6/68/wrapping%E5%B0%81%E9%9D%A2.jpg/275px-wrapping%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1000" data-file-height="1427"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>，<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a></div></td>
 </tr><tr><td class="label">名称</td><td colspan="2"> wrapping </td></tr><tr><td class="label">制作方</td><td><a href="./ちどりあし.md" title="ちどりあし">ちどりあし</a></td><td class="cover-artwork" rowspan="7" style="min-width:196px;"><a href="./文件-wrapping封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/6/68/wrapping%E5%B0%81%E9%9D%A2.jpg/137px-wrapping%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="137" height="196" srcset="https://upload.thwiki.cc/thumb/6/68/wrapping%E5%B0%81%E9%9D%A2.jpg/206px-wrapping%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/6/68/wrapping%E5%B0%81%E9%9D%A2.jpg/275px-wrapping%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1000" data-file-height="1427"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>，<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2019-05-05&#160;（<a href="/展会作品列表?e=%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD%2316">第十六回 博麗神社例大祭</a>）</td></tr><tr><td class="label">类型</td><td>漫画</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>B5</td></tr><tr><td class="label">页数</td><td>26P</td></tr><tr><td class="label">售价</td><td>会场售价：500日元<br>通贩售价：650日元</td></tr>
+</tr><tr><td class="label">首发日期</td><td>2019-05-05 （<a href="./展会作品列表.md#16">第十六回 博麗神社例大祭</a>）</td></tr><tr><td class="label">类型</td><td>漫画</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>B5</td></tr><tr><td class="label">页数</td><td>26P</td></tr><tr><td class="label">售价</td><td>会场售价：500日元<br>通贩售价：650日元</td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/74448625">https://www.pixiv.net/artworks/74448625</a></td></tr></tbody></table>
 
 wrapping（同人志，ちどりあし，2019） - 2019年5月5日 由 ちどりあし 于 博丽神社例大祭16 发布的漫画同人志，B5尺寸一共26页，分级为 一般向
-
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=502456">蜜瓜</a></td></tr></tbody></table>
 
 
-
 ## 预览
-- [](./文件-wrapping预览图1.jpg.md)- [](./文件-wrapping预览图2.jpg.md)- [](./文件-wrapping预览图3.jpg.md)- [](./文件-wrapping预览图4.jpg.md)
+
+- <img alt="wrapping预览图1.jpg" src="https://upload.thwiki.cc/thumb/7/7c/wrapping%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg/269px-wrapping%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg" decoding="async" loading="lazy" width="180" height="250" srcset="https://upload.thwiki.cc/thumb/7/7c/wrapping%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg/403px-wrapping%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg 1.5x, https://upload.thwiki.cc/thumb/7/7c/wrapping%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg/537px-wrapping%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg 2x" data-file-width="645" data-file-height="900"> 
+- <img alt="wrapping预览图2.jpg" src="https://upload.thwiki.cc/thumb/a/af/wrapping%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg/269px-wrapping%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg" decoding="async" loading="lazy" width="180" height="250" srcset="https://upload.thwiki.cc/thumb/a/af/wrapping%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg/403px-wrapping%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg 1.5x, https://upload.thwiki.cc/thumb/a/af/wrapping%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg/537px-wrapping%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg 2x" data-file-width="645" data-file-height="900"> 
+- <img alt="wrapping预览图3.jpg" src="https://upload.thwiki.cc/thumb/e/e2/wrapping%E9%A2%84%E8%A7%88%E5%9B%BE3.jpg/269px-wrapping%E9%A2%84%E8%A7%88%E5%9B%BE3.jpg" decoding="async" loading="lazy" width="180" height="250" srcset="https://upload.thwiki.cc/thumb/e/e2/wrapping%E9%A2%84%E8%A7%88%E5%9B%BE3.jpg/403px-wrapping%E9%A2%84%E8%A7%88%E5%9B%BE3.jpg 1.5x, https://upload.thwiki.cc/thumb/e/e2/wrapping%E9%A2%84%E8%A7%88%E5%9B%BE3.jpg/537px-wrapping%E9%A2%84%E8%A7%88%E5%9B%BE3.jpg 2x" data-file-width="645" data-file-height="900"> 
+- <img alt="wrapping预览图4.jpg" src="https://upload.thwiki.cc/thumb/a/a2/wrapping%E9%A2%84%E8%A7%88%E5%9B%BE4.jpg/269px-wrapping%E9%A2%84%E8%A7%88%E5%9B%BE4.jpg" decoding="async" loading="lazy" width="180" height="250" srcset="https://upload.thwiki.cc/thumb/a/a2/wrapping%E9%A2%84%E8%A7%88%E5%9B%BE4.jpg/403px-wrapping%E9%A2%84%E8%A7%88%E5%9B%BE4.jpg 1.5x, https://upload.thwiki.cc/thumb/a/a2/wrapping%E9%A2%84%E8%A7%88%E5%9B%BE4.jpg/537px-wrapping%E9%A2%84%E8%A7%88%E5%9B%BE4.jpg 2x" data-file-width="645" data-file-height="900"> 
 
 
 ## Staff
+
 - [もずくず](./もずくず.md)
 
 
 ## 评论
-
-
-
 
 ---
 

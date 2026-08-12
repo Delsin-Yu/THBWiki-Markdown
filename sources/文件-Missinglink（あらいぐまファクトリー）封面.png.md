@@ -1,6 +1,6 @@
 # 文件:Missinglink（あらいぐまファクトリー）封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8e\ns6%3AMissinglink%EF%BC%88%E3%81%82%E3%82%89%E3%81%84%E3%81%90%E3%81%BE%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8e\ns6%3AMissinglink%EF%BC%88%E3%81%82%E3%82%89%E3%81%84%E3%81%90%E3%81%BE%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 あらいぐまファクトリー | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Missinglink（あらいぐまファクトリー）](./Missinglink（あらいぐまファクトリー）.md)  
-该封面包含的角色：- [宇佐见堇子](./宇佐见堇子.md)
-
-
-
+- [Missinglink（あらいぐまファクトリー）](./Missinglink（あらいぐまファクトリー）.md)该封面包含的角色：
+- [宇佐见堇子](./宇佐见堇子.md)
 
 
 ---

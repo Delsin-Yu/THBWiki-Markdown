@@ -1,6 +1,6 @@
 # 文件:TOUHOU_ILLUSTRATION_MAKING封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\91\ns6%3ATOUHOU_ILLUSTRATION_MAKING%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\91\ns6%3ATOUHOU_ILLUSTRATION_MAKING%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 羽々斬
 
@@ -10,16 +10,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [TOUHOU ILLUSTRATION MAKING](./TOUHOU_ILLUSTRATION_MAKING.md)  
-该封面包含的角色：- [古明地觉](./古明地觉.md)- [古明地恋](./古明地恋.md)
+- [TOUHOU ILLUSTRATION MAKING](./TOUHOU_ILLUSTRATION_MAKING.md)该封面包含的角色：
+- [古明地觉](./古明地觉.md)
+- [古明地恋](./古明地恋.md)
 
   
-源地址：[direct image link (original size)](https://melonbooks.akamaized.net/upload/save_image/212001370151.jpg), [Melonbooks ID: 1668907](https://www.melonbooks.co.jp/detail/detail.php?product_id=1668907)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://melonbooks.akamaized.net/upload/save_image/212001370151.jpg), [Melonbooks ID: 1668907](https://www.melonbooks.co.jp/detail/detail.php?product_id=1668907)  
 
 ---
 

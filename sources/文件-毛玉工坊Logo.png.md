@@ -1,16 +1,12 @@
 # 文件:毛玉工坊Logo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\17\ns6%3A%E6%AF%9B%E7%8E%89%E5%B7%A5%E5%9D%8ALogo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\17\ns6%3A%E6%AF%9B%E7%8E%89%E5%B7%A5%E5%9D%8ALogo%2Epng.html -->
 
 毛玉工坊 | 社团LOGO
 
   
 毛玉工坊社团logo
   
-
-
-
-
 
 ---
 

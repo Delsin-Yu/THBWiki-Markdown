@@ -1,6 +1,6 @@
 # 文件:Existence_～幻想百花繚乱～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\93\ns6%3AExistence_%EF%BD%9E%E5%B9%BB%E6%83%B3%E7%99%BE%E8%8A%B1%E7%B9%9A%E4%B9%B1%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\93\ns6%3AExistence_%EF%BD%9E%E5%B9%BB%E6%83%B3%E7%99%BE%E8%8A%B1%E7%B9%9A%E4%B9%B1%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 子猫夺回屋 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Existence ～幻想百花繚乱～](./Existence_～幻想百花繚乱～.md)  
-该封面包含的角色：- [八坂神奈子](./八坂神奈子.md)
-
-
-
+- [Existence ～幻想百花繚乱～](./Existence_～幻想百花繚乱～.md)该封面包含的角色：
+- [八坂神奈子](./八坂神奈子.md)
 
 
 ---

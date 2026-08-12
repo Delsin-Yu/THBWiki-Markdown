@@ -1,6 +1,6 @@
 # 文件:もうCV水橋かおりにしか聞こえない封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4d\ns6%3A%E3%82%82%E3%81%86CV%E6%B0%B4%E6%A9%8B%E3%81%8B%E3%81%8A%E3%82%8A%E3%81%AB%E3%81%97%E3%81%8B%E8%81%9E%E3%81%93%E3%81%88%E3%81%AA%E3%81%84%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4d\ns6%3A%E3%82%82%E3%81%86CV%E6%B0%B4%E6%A9%8B%E3%81%8B%E3%81%8A%E3%82%8A%E3%81%AB%E3%81%97%E3%81%8B%E8%81%9E%E3%81%93%E3%81%88%E3%81%AA%E3%81%84%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Stratosphere | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ Stratosphere | 专辑封面 | 封面图片
   
 
 - [もうCV水橋かおりにしか聞こえない](./もうCV水橋かおりにしか聞こえない.md)
-
-
-
 
 
 ---

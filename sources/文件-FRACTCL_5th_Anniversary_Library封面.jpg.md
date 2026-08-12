@@ -1,6 +1,6 @@
 # 文件:FRACTCL_5th_Anniversary_Library封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\84\ns6%3AFRACTCL_5th_Anniversary_Library%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\84\ns6%3AFRACTCL_5th_Anniversary_Library%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 FRACTCL | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ FRACTCL | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [FRACTCL 5th Anniversary Library](./FRACTCL_5th_Anniversary_Library.md)  
-该封面包含的角色：- [古明地恋](./古明地恋.md)
+- [FRACTCL 5th Anniversary Library](./FRACTCL_5th_Anniversary_Library.md)该封面包含的角色：
+- [古明地恋](./古明地恋.md)
 
   
-源地址：[[1]](https://booth.pximg.net/c/620x620/913908b8-a01b-408c-87a6-535c6bdada36/i/1312151/765e5563-f40c-44ed-906a-bcc3b583b3bf_base_resized.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://booth.pximg.net/c/620x620/913908b8-a01b-408c-87a6-535c6bdada36/i/1312151/765e5563-f40c-44ed-906a-bcc3b583b3bf_base_resized.jpg)  
 
 ---
 

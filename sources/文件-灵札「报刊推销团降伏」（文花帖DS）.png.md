@@ -1,12 +1,8 @@
 # 文件:灵札「报刊推销团降伏」（文花帖DS）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\71\ns6%3A%E7%81%B5%E6%9C%AD%E3%80%8C%E6%8A%A5%E5%88%8A%E6%8E%A8%E9%94%80%E5%9B%A2%E9%99%8D%E4%BC%8F%E3%80%8D%EF%BC%88%E6%96%87%E8%8A%B1%E5%B8%96DS%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\71\ns6%3A%E7%81%B5%E6%9C%AD%E3%80%8C%E6%8A%A5%E5%88%8A%E6%8E%A8%E9%94%80%E5%9B%A2%E9%99%8D%E4%BC%8F%E3%80%8D%EF%BC%88%E6%96%87%E8%8A%B1%E5%B8%96DS%EF%BC%89%2Epng.html -->
 
 东方文花帖DS | 博丽灵梦 | 敌机符卡
-
-
-
-
 
 
 ---

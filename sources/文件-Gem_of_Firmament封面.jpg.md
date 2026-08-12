@@ -1,6 +1,6 @@
 # 文件:Gem_of_Firmament封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f3\ns6%3AGem_of_Firmament%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f3\ns6%3AGem_of_Firmament%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 流石奏楽堂
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Gem of Firmament](./Gem_of_Firmament.md)  
-该封面包含的角色：- [高丽野阿吽](./高丽野阿吽.md)
+- [Gem of Firmament](./Gem_of_Firmament.md)该封面包含的角色：
+- [高丽野阿吽](./高丽野阿吽.md)
 
   
-源地址：[图片链接](https://booth.pximg.net/67c204e7-dd37-4cf1-92d0-8723a3c3ec37/i/1929954/f56d1357-4340-4604-bc43-95554f35f576_base_resized.jpg) [BOOTH通贩](https://booth.pm/zh-cn/items/1929954)
-  
-
-
-
-
+源地址：[图片链接](https://booth.pximg.net/67c204e7-dd37-4cf1-92d0-8723a3c3ec37/i/1929954/f56d1357-4340-4604-bc43-95554f35f576_base_resized.jpg) [BOOTH通贩](https://booth.pm/zh-cn/items/1929954)  
 
 ---
 

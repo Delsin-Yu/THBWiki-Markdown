@@ -1,6 +1,6 @@
 # 文件:凸凹ExtraStage封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0a\ns6%3A%E5%87%B8%E5%87%B9ExtraStage%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0a\ns6%3A%E5%87%B8%E5%87%B9ExtraStage%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 凸凹えんた～ていんめんとすたじお | 封面图片
 
@@ -8,11 +8,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [凸凹ExtraStage](./凸凹ExtraStage.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)- [古明地恋](./古明地恋.md)- [封兽鵺](./封兽鵺.md)
-
-
-
+- [凸凹ExtraStage](./凸凹ExtraStage.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [古明地恋](./古明地恋.md)
+- [封兽鵺](./封兽鵺.md)
 
 
 ---

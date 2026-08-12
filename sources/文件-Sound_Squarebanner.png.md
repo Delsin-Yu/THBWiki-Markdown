@@ -1,12 +1,8 @@
 # 文件:Sound_Squarebanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\11\ns6%3ASound_Squarebanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\11\ns6%3ASound_Squarebanner%2Epng.html -->
 
 Sound_Square | 社团LOGO
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:風-KANDACHI封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\81\ns6%3A%E9%A2%A8-KANDACHI%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\81\ns6%3A%E9%A2%A8-KANDACHI%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 TsuBaKi | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@ TsuBaKi | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [風-KANDACHI](./風-KANDACHI.md)  
-该封面包含的角色：- [东风谷早苗](./东风谷早苗.md)
+- [風-KANDACHI](./風-KANDACHI.md)该封面包含的角色：
+- [东风谷早苗](./东风谷早苗.md)
 
   
-源地址：[图片链接](https://i0.hdslb.com/bfs/album/09ba5294b3b7eaf945721d7ade04a8262f865d21.jpg)
-  
-
-
-
-
+源地址：[图片链接](https://i0.hdslb.com/bfs/album/09ba5294b3b7eaf945721d7ade04a8262f865d21.jpg)  
 
 ---
 

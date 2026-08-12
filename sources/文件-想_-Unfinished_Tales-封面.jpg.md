@@ -1,6 +1,6 @@
 # 文件:想_-Unfinished_Tales-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c8\ns6%3A%E6%83%B3_-Unfinished_Tales-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c8\ns6%3A%E6%83%B3_-Unfinished_Tales-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 hajime-saku- | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ hajime-saku- | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [想 -Unfinished Tales-](./想_-Unfinished_Tales-.md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)- [西行寺幽幽子](./西行寺幽幽子.md)
-
-
-
+- [想 -Unfinished Tales-](./想_-Unfinished_Tales-.md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
+- [西行寺幽幽子](./西行寺幽幽子.md)
 
 
 ---

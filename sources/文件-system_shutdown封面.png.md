@@ -1,6 +1,6 @@
 # 文件:system_shutdown封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\69\ns6%3Asystem_shutdown%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\69\ns6%3Asystem_shutdown%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Grimoire_Technology | 专辑封面 | 封面图片
 
@@ -8,11 +8,11 @@ Grimoire_Technology | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [system shutdown](./system_shutdown.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [比那名居天子](./比那名居天子.md)- [河城荷取](./河城荷取.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [system shutdown](./system_shutdown.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [比那名居天子](./比那名居天子.md)
+- [河城荷取](./河城荷取.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

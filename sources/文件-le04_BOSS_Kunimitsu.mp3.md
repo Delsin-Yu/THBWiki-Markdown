@@ -1,16 +1,12 @@
 # 文件:le04_BOSS_Kunimitsu.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fb\ns6%3Ale04_BOSS_Kunimitsu%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fb\ns6%3Ale04_BOSS_Kunimitsu%2Emp3.html -->
 
 Killing_Superior_～_Giant_killing | 连缘Project官方音乐MP3 | 连缘天影战记
 
   
 连缘天影战记都线3面Boss-大宅都光主题曲
   
-
-
-
-
 
 ---
 

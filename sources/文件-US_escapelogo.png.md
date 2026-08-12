@@ -1,12 +1,8 @@
 # 文件:US_escapelogo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5c\ns6%3AUS_escapelogo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5c\ns6%3AUS_escapelogo%2Epng.html -->
 
 US_escape | 社团LOGO
-
-
-
-
 
 
 ---

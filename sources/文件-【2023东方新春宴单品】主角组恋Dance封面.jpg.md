@@ -1,6 +1,6 @@
 # 文件:【2023东方新春宴单品】主角组恋Dance封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\15\ns6%3A%E3%80%902023%E4%B8%9C%E6%96%B9%E6%96%B0%E6%98%A5%E5%AE%B4%E5%8D%95%E5%93%81%E3%80%91%E4%B8%BB%E8%A7%92%E7%BB%84%E6%81%8BDance%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\15\ns6%3A%E3%80%902023%E4%B8%9C%E6%96%B9%E6%96%B0%E6%98%A5%E5%AE%B4%E5%8D%95%E5%93%81%E3%80%91%E4%B8%BB%E8%A7%92%E7%BB%84%E6%81%8BDance%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 封面图片 | 幻相风靡 | 恋色绮想花火会 | 视频封面
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [【2023东方新春宴单品】主角组恋Dance](./【2023东方新春宴单品】主角组恋Dance.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [【2023东方新春宴单品】主角组恋Dance](./【2023东方新春宴单品】主角组恋Dance.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

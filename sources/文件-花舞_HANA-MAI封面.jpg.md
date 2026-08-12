@@ -1,6 +1,6 @@
 # 文件:花舞_HANA-MAI封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\68\ns6%3A%E8%8A%B1%E8%88%9E_HANA-MAI%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\68\ns6%3A%E8%8A%B1%E8%88%9E_HANA-MAI%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 C-CLAYS | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ C-CLAYS | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [花舞 HANA-MAI](./花舞_HANA-MAI.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [东风谷早苗](./东风谷早苗.md)
-
-
-
+- [花舞 HANA-MAI](./花舞_HANA-MAI.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [东风谷早苗](./东风谷早苗.md)
 
 
 ---

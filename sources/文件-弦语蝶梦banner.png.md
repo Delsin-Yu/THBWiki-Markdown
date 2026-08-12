@@ -1,16 +1,12 @@
 # 文件:弦语蝶梦banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5c\ns6%3A%E5%BC%A6%E8%AF%AD%E8%9D%B6%E6%A2%A6banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5c\ns6%3A%E5%BC%A6%E8%AF%AD%E8%9D%B6%E6%A2%A6banner%2Epng.html -->
 
 弦语蝶梦 | 社团LOGO
 
   
 弦语蝶梦banner.png
   
-
-
-
-
 
 ---
 

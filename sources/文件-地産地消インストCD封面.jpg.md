@@ -1,6 +1,6 @@
 # 文件:地産地消インストCD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cf\ns6%3A%E5%9C%B0%E7%94%A3%E5%9C%B0%E6%B6%88%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cf\ns6%3A%E5%9C%B0%E7%94%A3%E5%9C%B0%E6%B6%88%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 赤螢Clusters
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [地産地消インストCD](./地産地消インストCD.md)  
-该封面包含的角色：- [红美铃](./红美铃.md)
-
-
-
+- [地産地消インストCD](./地産地消インストCD.md)该封面包含的角色：
+- [红美铃](./红美铃.md)
 
 
 ---

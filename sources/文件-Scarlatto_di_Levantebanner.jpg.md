@@ -1,16 +1,11 @@
 # 文件:Scarlatto_di_Levantebanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d2\ns6%3AScarlatto_di_Levantebanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d2\ns6%3AScarlatto_di_Levantebanner%2Ejpg.html -->
 
 Scarlatto_di_Levante | 社团LOGO
 
   
-源地址：[[1]](http://mooper.web.fc2.com/sdlbn1.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://mooper.web.fc2.com/sdlbn1.jpg)  
 
 ---
 

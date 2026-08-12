@@ -1,6 +1,6 @@
 # 文件:FragmentS00封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c9\ns6%3AFragmentS00%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c9\ns6%3AFragmentS00%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Sound_Square | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Sound_Square | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [FragmentS00](./FragmentS00.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [FragmentS00](./FragmentS00.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
   
-源地址：[[1]](http://blog-imgs-35.fc2.com/s/o/u/soundsquare/Jacket_omote_500x500.png)
-  
-
-
-
-
+源地址：[\[1\]](http://blog-imgs-35.fc2.com/s/o/u/soundsquare/Jacket_omote_500x500.png)  
 
 ---
 

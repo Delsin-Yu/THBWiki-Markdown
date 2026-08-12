@@ -1,6 +1,6 @@
 # 文件:EUROBEAT_FESTIVAL_VOL.10封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\61\ns6%3AEUROBEAT_FESTIVAL_VOL%2E10%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\61\ns6%3AEUROBEAT_FESTIVAL_VOL%2E10%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 SuganoMusic | 专辑封面 | 封面图片
 
@@ -13,12 +13,7 @@ SuganoMusic | 专辑封面 | 封面图片
 - [EUROBEAT FESTIVAL VOL.10](./EUROBEAT_FESTIVAL_VOL.10.md)
 
   
-源地址：[图片链接](https://suganomusic.com/wp-content/uploads/2019/08/EUROBEAT-FESTIVAL-10.png) [官网](https://suganomusic.com/20190804/689)
-  
-
-
-
-
+源地址：[图片链接](https://suganomusic.com/wp-content/uploads/2019/08/EUROBEAT-FESTIVAL-10.png) [官网](https://suganomusic.com/20190804/689)  
 
 ---
 

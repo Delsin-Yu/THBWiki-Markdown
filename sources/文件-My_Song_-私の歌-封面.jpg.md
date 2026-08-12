@@ -1,6 +1,6 @@
 # 文件:My_Song_-私の歌-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\06\ns6%3AMy_Song_-%E7%A7%81%E3%81%AE%E6%AD%8C-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\06\ns6%3AMy_Song_-%E7%A7%81%E3%81%AE%E6%AD%8C-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 カルトッフェル | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [My Song -私の歌-](./My_Song_-私の歌-.md)  
-该封面包含的角色：- [米斯蒂娅·萝蕾拉](./米斯蒂娅·萝蕾拉.md)
-
-
-
+- [My Song -私の歌-](./My_Song_-私の歌-.md)该封面包含的角色：
+- [米斯蒂娅·萝蕾拉](./米斯蒂娅·萝蕾拉.md)
 
 
 ---

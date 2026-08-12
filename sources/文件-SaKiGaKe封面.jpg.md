@@ -1,6 +1,6 @@
 # 文件:SaKiGaKe封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\ba\ns6%3ASaKiGaKe%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\ba\ns6%3ASaKiGaKe%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 はちみつとんこつ | 专辑封面 | 封面图片
 
@@ -8,16 +8,13 @@
 使用了本文件作封面图片的作品：
   
 
-- [SaKiGaKe](./SaKiGaKe.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)- [伊吹萃香](./伊吹萃香.md)- [古明地恋](./古明地恋.md)
+- [SaKiGaKe](./SaKiGaKe.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
+- [伊吹萃香](./伊吹萃香.md)
+- [古明地恋](./古明地恋.md)
 
   
-[Pixiv artwork ID: 86478950 (original size)](https://www.pixiv.net/artworks/86478950)
-  
-
-
-
-
+[Pixiv artwork ID: 86478950 (original size)](https://www.pixiv.net/artworks/86478950)  
 
 ---
 

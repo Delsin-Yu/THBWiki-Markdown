@@ -1,6 +1,6 @@
 # 文件:空色作戦_DEMO_CD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\88\ns6%3A%E7%A9%BA%E8%89%B2%E4%BD%9C%E6%88%A6_DEMO_CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\88\ns6%3A%E7%A9%BA%E8%89%B2%E4%BD%9C%E6%88%A6_DEMO_CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 空色作戦
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [空色作戦 DEMO CD](./空色作戦_DEMO_CD.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
-
-
-
+- [空色作戦 DEMO CD](./空色作戦_DEMO_CD.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
 
 ---

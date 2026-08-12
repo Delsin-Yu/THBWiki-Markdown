@@ -1,6 +1,6 @@
 # 文件:EUROBEAT_FESTIVAL_VOL.4封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\32\ns6%3AEUROBEAT_FESTIVAL_VOL%2E4%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\32\ns6%3AEUROBEAT_FESTIVAL_VOL%2E4%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 SuganoMusic | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ SuganoMusic | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [EUROBEAT FESTIVAL VOL.4](./EUROBEAT_FESTIVAL_VOL.4.md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)
+- [EUROBEAT FESTIVAL VOL.4](./EUROBEAT_FESTIVAL_VOL.4.md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
 
   
-源地址：[[1]](http://suganomusic.com/20170923/528)
-  
-
-
-
-
+源地址：[\[1\]](http://suganomusic.com/20170923/528)  
 
 ---
 

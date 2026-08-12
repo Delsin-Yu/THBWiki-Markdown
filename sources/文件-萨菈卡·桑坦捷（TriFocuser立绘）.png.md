@@ -1,12 +1,8 @@
 # 文件:萨菈卡·桑坦捷（TriFocuser立绘）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\41\ns6%3A%E8%90%A8%E8%8F%88%E5%8D%A1%C2%B7%E6%A1%91%E5%9D%A6%E6%8D%B7%EF%BC%88TriFocuser%E7%AB%8B%E7%BB%98%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\41\ns6%3A%E8%90%A8%E8%8F%88%E5%8D%A1%C2%B7%E6%A1%91%E5%9D%A6%E6%8D%B7%EF%BC%88TriFocuser%E7%AB%8B%E7%BB%98%EF%BC%89%2Epng.html -->
 
 二次角色立绘 | 東方邪星章製作チーム | 萨菈卡·桑坦捷
-
-
-
-
 
 
 ---

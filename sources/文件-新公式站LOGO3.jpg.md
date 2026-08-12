@@ -1,12 +1,8 @@
 # 文件:新公式站LOGO3.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\df\ns6%3A%E6%96%B0%E5%85%AC%E5%BC%8F%E7%AB%99LOGO3%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\df\ns6%3A%E6%96%B0%E5%85%AC%E5%BC%8F%E7%AB%99LOGO3%2Ejpg.html -->
 
 Top绘
-
-
-
-
 
 
 ---

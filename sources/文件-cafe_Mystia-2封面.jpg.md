@@ -1,6 +1,6 @@
 # 文件:cafe_Mystia-2封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\de\ns6%3Acafe_Mystia-2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\de\ns6%3Acafe_Mystia-2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 肉食獣×2
 
@@ -10,16 +10,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [cafe Mystia-2](./cafe_Mystia-2.md)  
-该封面包含的角色：- [米斯蒂娅·萝蕾拉](./米斯蒂娅·萝蕾拉.md)- [无名的读书妖怪](./无名的读书妖怪.md)
+- [cafe Mystia-2](./cafe_Mystia-2.md)该封面包含的角色：
+- [米斯蒂娅·萝蕾拉](./米斯蒂娅·萝蕾拉.md)
+- [无名的读书妖怪](./无名的读书妖怪.md)
 
   
-[Pixiv artwork ID: 51960267 (original size)](https://www.pixiv.net/artworks/51960267)
-  
-
-
-
-
+[Pixiv artwork ID: 51960267 (original size)](https://www.pixiv.net/artworks/51960267)  
 
 ---
 

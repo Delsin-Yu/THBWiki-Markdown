@@ -1,16 +1,12 @@
 # 文件:THD2悔悟棒.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\58\ns6%3ATHD2%E6%82%94%E6%82%9F%E6%A3%92%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\58\ns6%3ATHD2%E6%82%94%E6%82%9F%E6%A3%92%2Epng.html -->
 
 东方DOTS玩家社群
 
   
 THD2悔悟棒
   
-
-
-
-
 
 ---
 

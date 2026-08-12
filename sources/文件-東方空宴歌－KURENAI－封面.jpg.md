@@ -1,6 +1,6 @@
 # 文件:東方空宴歌－KURENAI－封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7b\ns6%3A%E6%9D%B1%E6%96%B9%E7%A9%BA%E5%AE%B4%E6%AD%8C%EF%BC%8DKURENAI%EF%BC%8D%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7b\ns6%3A%E6%9D%B1%E6%96%B9%E7%A9%BA%E5%AE%B4%E6%AD%8C%EF%BC%8DKURENAI%EF%BC%8D%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 領域ZERO
 
@@ -8,11 +8,17 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方空宴歌－KURENAI－](./東方空宴歌－KURENAI－.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)- [藤原妹红](./藤原妹红.md)- [射命丸文](./射命丸文.md)- [比那名居天子](./比那名居天子.md)- [伊吹萃香](./伊吹萃香.md)- [东风谷早苗](./东风谷早苗.md)- [古明地恋](./古明地恋.md)- [多多良小伞](./多多良小伞.md)- [封兽鵺](./封兽鵺.md)
-
-
-
+- [東方空宴歌－KURENAI－](./東方空宴歌－KURENAI－.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
+- [藤原妹红](./藤原妹红.md)
+- [射命丸文](./射命丸文.md)
+- [比那名居天子](./比那名居天子.md)
+- [伊吹萃香](./伊吹萃香.md)
+- [东风谷早苗](./东风谷早苗.md)
+- [古明地恋](./古明地恋.md)
+- [多多良小伞](./多多良小伞.md)
+- [封兽鵺](./封兽鵺.md)
 
 
 ---

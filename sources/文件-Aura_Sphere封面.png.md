@@ -1,6 +1,6 @@
 # 文件:Aura_Sphere封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a3\ns6%3AAura_Sphere%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a3\ns6%3AAura_Sphere%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 MAD_MIND_MACHINE | 专辑封面 | 封面图片
 
@@ -10,16 +10,12 @@ MAD_MIND_MACHINE | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Aura Sphere](./Aura_Sphere.md)  
-该封面包含的角色：- [比那名居天子](./比那名居天子.md)- [依神紫苑](./依神紫苑.md)
+- [Aura Sphere](./Aura_Sphere.md)该封面包含的角色：
+- [比那名居天子](./比那名居天子.md)
+- [依神紫苑](./依神紫苑.md)
 
   
-源地址：[direct image link](http://madmindmachine.com/aura/image/jacket.png), [source page](http://madmindmachine.com/aura/)
-  
-
-
-
-
+源地址：[direct image link](http://madmindmachine.com/aura/image/jacket.png), [source page](http://madmindmachine.com/aura/)  
 
 ---
 

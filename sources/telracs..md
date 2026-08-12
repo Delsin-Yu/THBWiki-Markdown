@@ -1,30 +1,24 @@
 # telracs.
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\7\7e\ns0%3Atelracs%2E.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\7\7e\ns0%3Atelracs%2E.html -->
 
 2018年12月30日 由 カラスのおうち 于 Comic Market 95 发布的画集同人志，A5尺寸一共16页，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人志 (未找到链接)** 的词条
-
+**[二次创作同人志](./二次创作.md#同人志)**的词条
 ## 作品信息
 
-<table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-telracs.封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/f/f2/telracs.%E5%B0%81%E9%9D%A2.png/138px-telracs.%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="138" height="196" srcset="https://upload.thwiki.cc/thumb/f/f2/telracs.%E5%B0%81%E9%9D%A2.png/207px-telracs.%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/f/f2/telracs.%E5%B0%81%E9%9D%A2.png/276px-telracs.%E5%B0%81%E9%9D%A2.png 2x" data-file-width="2039" data-file-height="2894"></a><div class="cover-char">角色：<a href="./红美铃.md" title="红美铃">红美铃</a>，<a href="./小恶魔.md" title="小恶魔">小恶魔</a>，<a href="./帕秋莉·诺蕾姬.md" title="帕秋莉·诺蕾姬">帕秋莉·诺蕾姬</a>，<a href="/%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C" title="十六夜咲夜">十六夜咲夜</a>，<a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a>，<a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰朵露·斯卡蕾特</a></div></td>
-</tr><tr><td class="label">名称</td><td colspan="2"> telracs. </td></tr><tr><td class="label">制作方</td><td><a href="./カラスのおうち.md" title="カラスのおうち">カラスのおうち</a></td><td class="cover-artwork" rowspan="7" style="min-width:196px;"><a href="./文件-telracs.封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/f/f2/telracs.%E5%B0%81%E9%9D%A2.png/138px-telracs.%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="138" height="196" srcset="https://upload.thwiki.cc/thumb/f/f2/telracs.%E5%B0%81%E9%9D%A2.png/207px-telracs.%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/f/f2/telracs.%E5%B0%81%E9%9D%A2.png/276px-telracs.%E5%B0%81%E9%9D%A2.png 2x" data-file-width="2039" data-file-height="2894"></a><div class="cover-char">角色：<a href="./红美铃.md" title="红美铃">红美铃</a>，<a href="./小恶魔.md" title="小恶魔">小恶魔</a>，<a href="./帕秋莉·诺蕾姬.md" title="帕秋莉·诺蕾姬">帕秋莉·诺蕾姬</a>，<a href="/%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C" title="十六夜咲夜">十六夜咲夜</a>，<a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a>，<a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰朵露·斯卡蕾特</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2018-12-30&#160;（<a href="/展会作品列表?e=Comic+Market%2395">Comic Market 95</a>）</td></tr><tr><td class="label">类型</td><td>画集</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>A5</td></tr><tr><td class="label">页数</td><td>16P</td></tr><tr><td class="label">售价</td><td>300日元</td></tr>
-<tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/member_illust.php?mode=medium&amp;illust_id=72274430">https://www.pixiv.net/member_illust.php?mode=medium&amp;illust_id=72274430</a></td></tr></tbody></table>
+<table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-telracs.封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/f/f2/telracs.%E5%B0%81%E9%9D%A2.png/138px-telracs.%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="138" height="196" srcset="https://upload.thwiki.cc/thumb/f/f2/telracs.%E5%B0%81%E9%9D%A2.png/207px-telracs.%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/f/f2/telracs.%E5%B0%81%E9%9D%A2.png/276px-telracs.%E5%B0%81%E9%9D%A2.png 2x" data-file-width="2039" data-file-height="2894"></a><div class="cover-char">角色：<a href="./红美铃.md" title="红美铃">红美铃</a>，<a href="./小恶魔.md" title="小恶魔">小恶魔</a>，<a href="./帕秋莉·诺蕾姬.md" title="帕秋莉·诺蕾姬">帕秋莉·诺蕾姬</a>，<a href="./十六夜咲夜.md" title="十六夜咲夜">十六夜咲夜</a>，<a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a>，<a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰朵露·斯卡蕾特</a></div></td>
+</tr><tr><td class="label">名称</td><td colspan="2"> telracs. </td></tr><tr><td class="label">制作方</td><td><a href="./カラスのおうち.md" title="カラスのおうち">カラスのおうち</a></td><td class="cover-artwork" rowspan="7" style="min-width:196px;"><a href="./文件-telracs.封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/f/f2/telracs.%E5%B0%81%E9%9D%A2.png/138px-telracs.%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="138" height="196" srcset="https://upload.thwiki.cc/thumb/f/f2/telracs.%E5%B0%81%E9%9D%A2.png/207px-telracs.%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/f/f2/telracs.%E5%B0%81%E9%9D%A2.png/276px-telracs.%E5%B0%81%E9%9D%A2.png 2x" data-file-width="2039" data-file-height="2894"></a><div class="cover-char">角色：<a href="./红美铃.md" title="红美铃">红美铃</a>，<a href="./小恶魔.md" title="小恶魔">小恶魔</a>，<a href="./帕秋莉·诺蕾姬.md" title="帕秋莉·诺蕾姬">帕秋莉·诺蕾姬</a>，<a href="./十六夜咲夜.md" title="十六夜咲夜">十六夜咲夜</a>，<a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a>，<a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰朵露·斯卡蕾特</a></div></td>
+</tr><tr><td class="label">首发日期</td><td>2018-12-30 （<a href="./展会作品列表.md#95">Comic Market 95</a>）</td></tr><tr><td class="label">类型</td><td>画集</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>A5</td></tr><tr><td class="label">页数</td><td>16P</td></tr><tr><td class="label">售价</td><td>300日元</td></tr>
+<tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/member_illust.php?mode=medium&illust_id=72274430">https://www.pixiv.net/member_illust.php?mode=medium&illust_id=72274430</a></td></tr></tbody></table>
 
 telracs.（同人志，カラスのおうち，2018） - 2018年12月30日 由 カラスのおうち 于 Comic Market 95 发布的画集同人志，A5尺寸一共16页，分级为 一般向
-
 ## Staff
 主催
 : [高畠宗太](./高畠宗太.md)
 
-
 ## 评论
-
-
-
 
 ---
 

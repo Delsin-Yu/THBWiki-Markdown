@@ -1,12 +1,8 @@
 # 文件:东方永夜抄（LINE主题）1.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\15\ns6%3A%E4%B8%9C%E6%96%B9%E6%B0%B8%E5%A4%9C%E6%8A%84%EF%BC%88LINE%E4%B8%BB%E9%A2%98%EF%BC%891%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\15\ns6%3A%E4%B8%9C%E6%96%B9%E6%B0%B8%E5%A4%9C%E6%8A%84%EF%BC%88LINE%E4%B8%BB%E9%A2%98%EF%BC%891%2Epng.html -->
 
 东方Project官方LINE主题
-
-
-
-
 
 
 ---

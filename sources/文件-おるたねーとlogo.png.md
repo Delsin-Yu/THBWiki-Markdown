@@ -1,18 +1,13 @@
 # 文件:おるたねーとlogo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2b\ns6%3A%E3%81%8A%E3%82%8B%E3%81%9F%E3%81%AD%E3%83%BC%E3%81%A8logo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2b\ns6%3A%E3%81%8A%E3%82%8B%E3%81%9F%E3%81%AD%E3%83%BC%E3%81%A8logo%2Epng.html -->
 
 おるたねーと | 社团LOGO
 
 
 ## 摘要
   
-源地址：[direct image link (max size)](https://blog-imgs-52-origin.fc2.com/o/r/u/orutaneito/2012042500000466d.png), [source page (circle blog)](http://orutaneito.blog56.fc2.com/)
-  
-
-
-
-
+源地址：[direct image link (max size)](https://blog-imgs-52-origin.fc2.com/o/r/u/orutaneito/2012042500000466d.png), [source page (circle blog)](http://orutaneito.blog56.fc2.com/)  
 
 ---
 

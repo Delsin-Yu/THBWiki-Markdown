@@ -1,18 +1,13 @@
 # 文件:焼菓一心logo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\68\ns6%3A%E7%84%BC%E8%8F%93%E4%B8%80%E5%BF%83logo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\68\ns6%3A%E7%84%BC%E8%8F%93%E4%B8%80%E5%BF%83logo%2Epng.html -->
 
 焼菓一心 | 社团LOGO
 
 
 ## 摘要
   
-源地址：[direct image link (max size)](https://s2.booth.pm/c2ee05eb-1710-45a6-9b2d-1bc971bee406/c4e108e0-ce5c-4b4a-add8-93778ea77ded.png), [source page (circle Booth banner)](https://shoukaissin.booth.pm/)
-  
-
-
-
-
+源地址：[direct image link (max size)](https://s2.booth.pm/c2ee05eb-1710-45a6-9b2d-1bc971bee406/c4e108e0-ce5c-4b4a-add8-93778ea77ded.png), [source page (circle Booth banner)](https://shoukaissin.booth.pm/)  
 
 ---
 

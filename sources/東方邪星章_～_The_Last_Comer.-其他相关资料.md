@@ -1,6 +1,6 @@
 # 東方邪星章_～_The_Last_Comer./其他相关资料
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\49\ns0%3A%E6%9D%B1%E6%96%B9%E9%82%AA%E6%98%9F%E7%AB%A0_%EF%BD%9E_The_Last_Comer%2E%2F%E5%85%B6%E4%BB%96%E7%9B%B8%E5%85%B3%E8%B5%84%E6%96%99.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\49\ns0%3A%E6%9D%B1%E6%96%B9%E9%82%AA%E6%98%9F%E7%AB%A0_%EF%BD%9E_The_Last_Comer%2E%2F%E5%85%B6%E4%BB%96%E7%9B%B8%E5%85%B3%E8%B5%84%E6%96%99.html -->
 
 東方邪星章製作チーム
 
@@ -34,7 +34,7 @@
 <td>広範囲装備。<br>中央に行くほどショットが強いです。<br>敵の真正面に陣取ると火力が出ます。
 </td></tr>
 <tr>
-<td><b>太阳的针巫女 博丽灵梦<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">2</a></sup></b></td>
+<td><b>太阳的针巫女 博丽灵梦<span>[^cite_note-2]</span></b></td>
 <td>太陽の針巫女 博麗霊夢
 </td></tr>
 <tr>
@@ -42,7 +42,6 @@
 <td>邪な針巫女
 </td></tr>
 </tbody></table>
-
 
 
 ## 难度标题及说明文字
@@ -71,12 +70,12 @@
 </td></tr>
 <tr>
 <td>HARD</td>
-<td><center><big>陨石级</big><br>HARD MODE<br><small>灰落天寒，活下去<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">3</a></sup></small></center></td>
+<td><center><big>陨石级</big><br>HARD MODE<br><small>灰落天寒，活下去<span>[^cite_note-3]</span></small></center></td>
 <td><center><big>メデオ級</big><br>HARD MODE<br><small>寒くなって灰も降ります、生きろ</small></center>
 </td></tr>
 <tr>
 <td>LUNATIC</td>
-<td><center><big>安哥尔摩亚<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">4</a></sup>级</big><br>LUNATIC MODE<br><small>通关在前呢还是人类灭亡在前呢</small></center></td>
+<td><center><big>安哥尔摩亚<span>[^cite_note-4]</span>级</big><br>LUNATIC MODE<br><small>通关在前呢还是人类灭亡在前呢</small></center></td>
 <td><center><big>アンゴルモア級</big><br>LUNATIC MODE<br><small>クリアが先か人類滅亡が先か</small></center>
 </td></tr>
 <tr>
@@ -86,7 +85,7 @@
 </td></tr>
 <tr>
 <td>PHANTASM</td>
-<td><center><big>暗黑级<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">5</a></sup></big><br>PHANTASM MODE<br><small>呵呵呵，许久不曾弹幕了……<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">6</a></sup></small></center></td>
+<td><center><big>暗黑级<span>[^cite_note-5]</span></big><br>PHANTASM MODE<br><small>呵呵呵，许久不曾弹幕了……<span>[^cite_note-6]</span></small></center></td>
 <td><center><big>暗黒級</big><br>PHANTASM MODE<br><small>ククク、久しぶり弾幕だぜ…</small></center>
 </td></tr>
 <tr>
@@ -111,13 +110,12 @@
 </td></tr>
 </tbody></table>
 
-
-
 [^cite_note-1]: 在弹幕风界面选择时
-
-
-
-
+[^cite_note-2]: 相当于灵梦二号机，除性能外其他都和第一个灵梦一样
+[^cite_note-3]: 巨大陨石引起的核冬天。
+[^cite_note-4]: 诺查丹玛斯预言中的恐怖大王
+[^cite_note-5]: 实际游戏里没有
+[^cite_note-6]: 自2ch热帖而来的中二病用语。详细可搜索「影羅」。
 
 ---
 

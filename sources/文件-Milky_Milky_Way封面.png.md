@@ -1,6 +1,6 @@
 # 文件:Milky_Milky_Way封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5c\ns6%3AMilky_Milky_Way%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5c\ns6%3AMilky_Milky_Way%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Lapis_moss | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Lapis_moss | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Milky Milky Way](./Milky_Milky_Way.md)  
-该封面包含的角色：- [霍青娥](./霍青娥.md)
-
-
-
+- [Milky Milky Way](./Milky_Milky_Way.md)该封面包含的角色：
+- [霍青娥](./霍青娥.md)
 
 
 ---

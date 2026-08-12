@@ -1,6 +1,6 @@
 # 文件:Best_of_Izanagi_Object封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bf\ns6%3ABest_of_Izanagi_Object%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bf\ns6%3ABest_of_Izanagi_Object%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 東方弦楽郷
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Best of Izanagi Object](./Best_of_Izanagi_Object.md)  
-该封面包含的角色：- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [Best of Izanagi Object](./Best_of_Izanagi_Object.md)该封面包含的角色：
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

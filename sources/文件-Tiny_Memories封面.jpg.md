@@ -1,6 +1,6 @@
 # 文件:Tiny_Memories封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ca\ns6%3ATiny_Memories%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ca\ns6%3ATiny_Memories%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 しろくまビレッジ | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Tiny Memories](./Tiny_Memories.md)  
-该封面包含的角色：- [娜兹玲](./娜兹玲.md)
+- [Tiny Memories](./Tiny_Memories.md)该封面包含的角色：
+- [娜兹玲](./娜兹玲.md)
 
   
-源地址：[direct image link (original uploaded image)](https://pbs.twimg.com/media/D1oJeg-UwAEdQs2?format=jpg&amp;name=orig), [source tweet](https://twitter.com/polarbearrossi/status/1106228152349556737)
-  
-
-
-
-
+源地址：[direct image link (original uploaded image)](https://pbs.twimg.com/media/D1oJeg-UwAEdQs2?format=jpg&name=orig), [source tweet](https://twitter.com/polarbearrossi/status/1106228152349556737)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:Opium_and_Purple_haze_EP封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\93\ns6%3AOpium_and_Purple_haze_EP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\93\ns6%3AOpium_and_Purple_haze_EP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 OTAKU-ELITE_Recordings | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ OTAKU-ELITE_Recordings | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Opium and Purple haze EP](./Opium_and_Purple_haze_EP.md)  
-该封面包含的角色：- [古明地觉](./古明地觉.md)
-
-
-
+- [Opium and Purple haze EP](./Opium_and_Purple_haze_EP.md)该封面包含的角色：
+- [古明地觉](./古明地觉.md)
 
 
 ---

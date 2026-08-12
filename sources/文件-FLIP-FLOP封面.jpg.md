@@ -1,6 +1,6 @@
 # 文件:FLIP-FLOP封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ab\ns6%3AFLIP-FLOP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ab\ns6%3AFLIP-FLOP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 S-2-N | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ S-2-N | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [FLIP-FLOP](./FLIP-FLOP.md)  
-该封面包含的角色：- [河城荷取](./河城荷取.md)- [洩矢诹访子](./洩矢诹访子.md)
-
-
-
+- [FLIP-FLOP](./FLIP-FLOP.md)该封面包含的角色：
+- [河城荷取](./河城荷取.md)
+- [洩矢诹访子](./洩矢诹访子.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:東方幻想サーフバンド_~_Tôhô_Fantasy_Surf_Band封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\db\ns6%3A%E6%9D%B1%E6%96%B9%E5%B9%BB%E6%83%B3%E3%82%B5%E3%83%BC%E3%83%95%E3%83%90%E3%83%B3%E3%83%89_%7E_T%C3%B4h%C3%B4_Fantasy_Surf_Band%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\db\ns6%3A%E6%9D%B1%E6%96%B9%E5%B9%BB%E6%83%B3%E3%82%B5%E3%83%BC%E3%83%95%E3%83%90%E3%83%B3%E3%83%89_%7E_T%C3%B4h%C3%B4_Fantasy_Surf_Band%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Tangentg | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Tangentg | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方幻想サーフバンド ~ Tôhô Fantasy Surf Band](./東方幻想サーフバンド_~_Tôhô_Fantasy_Surf_Band.md)  
-该封面包含的角色：- [鬼人正邪](./鬼人正邪.md)
-
-
-
+- [東方幻想サーフバンド ~ Tôhô Fantasy Surf Band](./東方幻想サーフバンド_~_Tôhô_Fantasy_Surf_Band.md)该封面包含的角色：
+- [鬼人正邪](./鬼人正邪.md)
 
 
 ---

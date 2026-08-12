@@ -1,18 +1,13 @@
 # 文件:月華庭院banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\85\ns6%3A%E6%9C%88%E8%8F%AF%E5%BA%AD%E9%99%A2banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\85\ns6%3A%E6%9C%88%E8%8F%AF%E5%BA%AD%E9%99%A2banner%2Ejpg.html -->
 
 月華庭院 | 社团LOGO
 
 
 ## 摘要
   
-源地址：[direct image link](https://img7.photo.qooza.hk/userphoto/7/3/301473/279097/10652445f550d4d6.jpg), [source page](https://blog.qooza.hk/ree793yusi)
-  
-
-
-
-
+源地址：[direct image link](https://img7.photo.qooza.hk/userphoto/7/3/301473/279097/10652445f550d4d6.jpg), [source page](https://blog.qooza.hk/ree793yusi)  
 
 ---
 

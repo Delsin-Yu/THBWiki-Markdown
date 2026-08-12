@@ -1,6 +1,6 @@
 # 文件:404_not_found封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0a\ns6%3A404_not_found%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0a\ns6%3A404_not_found%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 同人志封面 | 封面图片 | 東方慶庵郷
 
@@ -8,16 +8,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [404 not found](./404_not_found.md)  
-该封面包含的角色：- [圣白莲](./圣白莲.md)- [封兽鵺](./封兽鵺.md)
+- [404 not found](./404_not_found.md)该封面包含的角色：
+- [圣白莲](./圣白莲.md)
+- [封兽鵺](./封兽鵺.md)
 
   
-源地址：[direct link](https://pbs.twimg.com/media/B2fC637CIAAmBNX.png:orig), [source tweet](https://twitter.com/Keio_k_an/status/533609398803771392)
-  
-
-
-
-
+源地址：[direct link](https://pbs.twimg.com/media/B2fC637CIAAmBNX.png:orig), [source tweet](https://twitter.com/Keio_k_an/status/533609398803771392)  
 
 ---
 

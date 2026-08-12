@@ -1,6 +1,6 @@
 # 文件:春の彼女を創造した~SPRING_CREATION封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7d\ns6%3A%E6%98%A5%E3%81%AE%E5%BD%BC%E5%A5%B3%E3%82%92%E5%89%B5%E9%80%A0%E3%81%97%E3%81%9F%7ESPRING_CREATION%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7d\ns6%3A%E6%98%A5%E3%81%AE%E5%BD%BC%E5%A5%B3%E3%82%92%E5%89%B5%E9%80%A0%E3%81%97%E3%81%9F%7ESPRING_CREATION%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 绯春研究会
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [春の彼女を創造した~SPRING CREATION](./春の彼女を創造した~SPRING_CREATION.md)  
-该封面包含的角色：- [莉莉霍瓦特](./莉莉霍瓦特.md)
-
-
-
+- [春の彼女を創造した~SPRING CREATION](./春の彼女を創造した~SPRING_CREATION.md)该封面包含的角色：
+- [莉莉霍瓦特](./莉莉霍瓦特.md)
 
 
 ---

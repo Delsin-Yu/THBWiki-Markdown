@@ -1,6 +1,6 @@
 # 文件:Cross_the_Boundaries_SoundTrack封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f7\ns6%3ACross_the_Boundaries_SoundTrack%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f7\ns6%3ACross_the_Boundaries_SoundTrack%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Erica-Angelina_Kanarska-Sabat | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ Erica-Angelina_Kanarska-Sabat | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Cross the Boundaries SoundTrack](./Cross_the_Boundaries_SoundTrack.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [八云紫](./八云紫.md)
-
-
-
+- [Cross the Boundaries SoundTrack](./Cross_the_Boundaries_SoundTrack.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [八云紫](./八云紫.md)
 
 
 ---

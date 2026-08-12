@@ -1,6 +1,6 @@
 # 文件:東方総集編1_DiSCOVERIES封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\da\ns6%3A%E6%9D%B1%E6%96%B9%E7%B7%8F%E9%9B%86%E7%B7%A81_DiSCOVERIES%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\da\ns6%3A%E6%9D%B1%E6%96%B9%E7%B7%8F%E9%9B%86%E7%B7%A81_DiSCOVERIES%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 GP-KIDS | 同人志封面 | 封面图片
 
@@ -8,16 +8,11 @@ GP-KIDS | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方総集編1 DiSCOVERIES](./東方総集編1_DiSCOVERIES.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
+- [東方総集編1 DiSCOVERIES](./東方総集編1_DiSCOVERIES.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-源地址：[[1]](https://booth.pximg.net/c/620x620/be602c92-0714-4432-912c-f055fb98ce88/i/64172/78f68ae8-5fe6-4906-ab01-c0fcfd8adc14_base_resized.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://booth.pximg.net/c/620x620/be602c92-0714-4432-912c-f055fb98ce88/i/64172/78f68ae8-5fe6-4906-ab01-c0fcfd8adc14_base_resized.jpg)  
 
 ---
 

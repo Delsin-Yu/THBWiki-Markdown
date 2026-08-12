@@ -1,12 +1,8 @@
 # 文件:THBWiki-LOGO-啤酒子.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\48\ns6%3ATHBWiki-LOGO-%E5%95%A4%E9%85%92%E5%AD%90%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\48\ns6%3ATHBWiki-LOGO-%E5%95%A4%E9%85%92%E5%AD%90%2Epng.html -->
 
 THBWiki | Wiki词条分类用图
-
-
-
-
 
 
 ---

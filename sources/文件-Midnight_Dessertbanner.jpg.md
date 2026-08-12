@@ -1,12 +1,8 @@
 # 文件:Midnight_Dessertbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a4\ns6%3AMidnight_Dessertbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a4\ns6%3AMidnight_Dessertbanner%2Ejpg.html -->
 
 Midnight_Dessert | 社团LOGO
-
-
-
-
 
 
 ---

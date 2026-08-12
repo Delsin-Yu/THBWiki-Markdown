@@ -1,6 +1,6 @@
 # 文件:danmaq_soundtrack封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\da\ns6%3Adanmaq_soundtrack%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\da\ns6%3Adanmaq_soundtrack%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Danmaq | 专辑封面 | 封面图片
 
@@ -13,12 +13,7 @@ Danmaq | 专辑封面 | 封面图片
 - [danmaq soundtrack](./danmaq_soundtrack.md)
 
   
-源地址：[[1]](https://web.archive.org/web/20131220211307im_/http://danmaq.com/!/dst/dst_jacket.png)
-  
-
-
-
-
+源地址：[\[1\]](https://web.archive.org/web/20131220211307im_/http://danmaq.com/!/dst/dst_jacket.png)  
 
 ---
 

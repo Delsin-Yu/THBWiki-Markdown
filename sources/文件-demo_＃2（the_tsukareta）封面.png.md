@@ -1,6 +1,6 @@
 # 文件:demo_＃2（the_tsukareta）封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7b\ns6%3Ademo_%EF%BC%832%EF%BC%88the_tsukareta%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7b\ns6%3Ademo_%EF%BC%832%EF%BC%88the_tsukareta%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 the_tsukareta | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ the_tsukareta | 专辑封面 | 封面图片
   
 
 - [demo ＃2（the tsukareta）](./demo_＃2（the_tsukareta）.md)
-
-
-
 
 
 ---

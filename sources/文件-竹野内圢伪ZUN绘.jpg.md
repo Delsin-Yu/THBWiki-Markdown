@@ -1,12 +1,8 @@
 # 文件:竹野内圢伪ZUN绘.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e7\ns6%3A%E7%AB%B9%E9%87%8E%E5%86%85%E5%9C%A2%E4%BC%AAZUN%E7%BB%98%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e7\ns6%3A%E7%AB%B9%E9%87%8E%E5%86%85%E5%9C%A2%E4%BC%AAZUN%E7%BB%98%2Ejpg.html -->
 
 二次角色立绘 | 尹棱DANE | 竹野内圢
-
-
-
-
 
 
 ---

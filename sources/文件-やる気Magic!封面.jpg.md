@@ -1,6 +1,6 @@
 # 文件:やる気Magic!封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\32\ns6%3A%E3%82%84%E3%82%8B%E6%B0%97Magic%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\32\ns6%3A%E3%82%84%E3%82%8B%E6%B0%97Magic%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ねこのさけごと | 同人志封面 | 封面图片
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [やる気Magic!](./やる気Magic!.md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [やる気Magic!](./やる気Magic!.md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

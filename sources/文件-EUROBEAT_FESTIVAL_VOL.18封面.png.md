@@ -1,6 +1,6 @@
 # 文件:EUROBEAT_FESTIVAL_VOL.18封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a5\ns6%3AEUROBEAT_FESTIVAL_VOL%2E18%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a5\ns6%3AEUROBEAT_FESTIVAL_VOL%2E18%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 SuganoMusic | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ SuganoMusic | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [EUROBEAT FESTIVAL VOL.18](./EUROBEAT_FESTIVAL_VOL.18.md)  
-该封面包含的角色：- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
-
-
-
+- [EUROBEAT FESTIVAL VOL.18](./EUROBEAT_FESTIVAL_VOL.18.md)该封面包含的角色：
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
 
 
 ---

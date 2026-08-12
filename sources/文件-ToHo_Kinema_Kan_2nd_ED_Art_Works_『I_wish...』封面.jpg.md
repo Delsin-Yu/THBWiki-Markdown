@@ -1,6 +1,6 @@
 # 文件:ToHo_Kinema_Kan_2nd_ED_Art_Works_『I_wish...』封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8c\ns6%3AToHo_Kinema_Kan_2nd_ED_Art_Works_%E3%80%8EI_wish%2E%2E%2E%E3%80%8F%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8c\ns6%3AToHo_Kinema_Kan_2nd_ED_Art_Works_%E3%80%8EI_wish%2E%2E%2E%E3%80%8F%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 東方活動写真館
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [ToHo Kinema Kan 2nd ED Art Works 『I wish...』](./ToHo_Kinema_Kan_2nd_ED_Art_Works_『I_wish...』.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [ToHo Kinema Kan 2nd ED Art Works 『I wish...』](./ToHo_Kinema_Kan_2nd_ED_Art_Works_『I_wish...』.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

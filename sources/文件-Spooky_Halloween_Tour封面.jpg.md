@@ -1,6 +1,6 @@
 # 文件:Spooky_Halloween_Tour封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\26\ns6%3ASpooky_Halloween_Tour%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\26\ns6%3ASpooky_Halloween_Tour%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 IOSYS | 专辑封面 | 封面图片
 
@@ -8,16 +8,12 @@ IOSYS | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Spooky Halloween Tour](./Spooky_Halloween_Tour.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
+- [Spooky Halloween Tour](./Spooky_Halloween_Tour.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
   
-源地址：[[1]](http://www.iosysos.com/cd/SHT/pc/images/IO-0307_500px.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://www.iosysos.com/cd/SHT/pc/images/IO-0307_500px.jpg)  
 
 ---
 

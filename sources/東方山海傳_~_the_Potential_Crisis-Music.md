@@ -1,13 +1,8 @@
 # 東方山海傳_~_the_Potential_Crisis/Music
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\1\18\ns0%3A%E6%9D%B1%E6%96%B9%E5%B1%B1%E6%B5%B7%E5%82%B3_%7E_the_Potential_Crisis%2FMusic.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\1\18\ns0%3A%E6%9D%B1%E6%96%B9%E5%B1%B1%E6%B5%B7%E5%82%B3_%7E_the_Potential_Crisis%2FMusic.html -->
 
 旧雨忆梦幻想乐团
-
-  
-  
-
-  
 
 
 <table>
@@ -35,7 +30,6 @@
 </tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
@@ -59,7 +53,6 @@
 </td></tr>
 
 </tbody></table>
-
 
 
 <table>
@@ -87,7 +80,6 @@
 </tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
@@ -111,7 +103,6 @@ Lost hope这样的名字为何会配着这样一首如此温柔的曲子呢，�
 </td></tr>
 
 </tbody></table>
-
 
 
 <table>
@@ -139,7 +130,6 @@ Lost hope这样的名字为何会配着这样一首如此温柔的曲子呢，�
 </tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
@@ -163,7 +153,6 @@ Lost hope这样的名字为何会配着这样一首如此温柔的曲子呢，�
 </td></tr>
 
 </tbody></table>
-
 
 
 <table>
@@ -191,7 +180,6 @@ Lost hope这样的名字为何会配着这样一首如此温柔的曲子呢，�
 </tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
@@ -215,7 +203,6 @@ Lost hope这样的名字为何会配着这样一首如此温柔的曲子呢，�
 </td></tr>
 
 </tbody></table>
-
 
 
 <table>
@@ -243,7 +230,6 @@ Lost hope这样的名字为何会配着这样一首如此温柔的曲子呢，�
 </tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
@@ -267,7 +253,6 @@ Lost hope这样的名字为何会配着这样一首如此温柔的曲子呢，�
 </td></tr>
 
 </tbody></table>
-
 
 
 <table>
@@ -295,7 +280,6 @@ Lost hope这样的名字为何会配着这样一首如此温柔的曲子呢，�
 </tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
@@ -319,7 +303,6 @@ Lost hope这样的名字为何会配着这样一首如此温柔的曲子呢，�
 </td></tr>
 
 </tbody></table>
-
 
 
 <table>
@@ -347,7 +330,6 @@ Lost hope这样的名字为何会配着这样一首如此温柔的曲子呢，�
 </tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
@@ -371,7 +353,6 @@ Lost hope这样的名字为何会配着这样一首如此温柔的曲子呢，�
 </td></tr>
 
 </tbody></table>
-
 
 
 <table>
@@ -399,7 +380,6 @@ Ending应该不会太长吧（？）
 </tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
@@ -423,7 +403,6 @@ Ending应该不会太长吧（？）
 </td></tr>
 
 </tbody></table>
-
 
 
 <table>
@@ -451,7 +430,6 @@ Ending应该不会太长吧（？）
 </tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
@@ -474,7 +452,6 @@ Ending应该不会太长吧（？）
 </td></tr>
 
 </tbody></table>
-
 
 
 <table>
@@ -502,7 +479,6 @@ Ending应该不会太长吧（？）
 </tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
@@ -526,19 +502,6 @@ Ending应该不会太长吧（？）
 </td></tr>
 
 </tbody></table>
-
-
-
-
-## 词条导航
-  
-  
-
-<table><tbody><tr><td><table cellspacing="0" class="nowraplinks mw-collapsible mw-collapsed" style="width:100%;;;"><tbody><tr><th style=";" colspan="3" class="navbox-title"><div class="navbar"><div class="noprint plainlinksneverexpand" style="background-color:transparent; padding:0; font-weight:normal; font-size:80%; white-space:nowrap;"><a href="./東方山海傳_~_the_Potential_Crisis-导航.md" title="東方山海傳 ~ the Potential Crisis/导航"><span style=";;border:none;" title="查看这个模板">查</span></a>&#160;<span style="font-size:80%;">•</span>&#160;<a href="/index.php?title=%E6%9D%B1%E6%96%B9%E5%B1%B1%E6%B5%B7%E5%82%B3_~_the_Potential_Crisis/%E5%AF%BC%E8%88%AA&amp;action=edit"><span style=";;border:none;" title="您可以编辑这个模板。请在储存变更之前先预览">编</span></a></div></div><span><a href="./東方山海傳_~_the_Potential_Crisis.md" title="東方山海傳 ~ the Potential Crisis">東方山海傳 ~ the Potential Crisis</a></span></th></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">角色</td><td style=";;" class="navbox-list navbox-odd"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>自机</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a> &#8226; <a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a> &#8226; <a href="./东风谷早苗.md" title="东风谷早苗">东风谷早苗</a> &#8226; <a href="./射命丸文.md" title="射命丸文">射命丸文</a> &#8226;</div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>BOSS</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./南宫蒂亚.md" title="南宫蒂亚">南宫蒂亚</a> &#8226; <a href="./端木忆.md" title="端木忆">端木忆</a> &#8226; <a href="./墨菊.md" title="墨菊">墨菊</a> &#8226; <a href="./凌司.md" title="凌司">凌司</a> &#8226; <a href="./洛炎.md" title="洛炎">洛炎</a> &#8226; <a href="./轩辕泽熙.md" title="轩辕泽熙">轩辕泽熙</a> &#8226; <a href="./独孤苍海.md" title="独孤苍海">独孤苍海</a> &#8226; <a href="./落霞.md" title="落霞">落霞</a> &#8226; <a href="./慕容月.md" title="慕容月">慕容月</a></div></td></tr></tbody></table><div></div></td><td class="navbox-image" style="" rowspan="9"><a href="./文件-東方山海傳_~_the_Potential_Crisis封面.png.md" class="image"><img alt="東方山海傳 ~ the Potential Crisis封面.png" src="https://upload.thwiki.cc/thumb/d/db/%E6%9D%B1%E6%96%B9%E5%B1%B1%E6%B5%B7%E5%82%B3_~_the_Potential_Crisis%E5%B0%81%E9%9D%A2.png/160px-%E6%9D%B1%E6%96%B9%E5%B1%B1%E6%B5%B7%E5%82%B3_~_the_Potential_Crisis%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="160" height="159" srcset="https://upload.thwiki.cc/thumb/d/db/%E6%9D%B1%E6%96%B9%E5%B1%B1%E6%B5%B7%E5%82%B3_~_the_Potential_Crisis%E5%B0%81%E9%9D%A2.png/240px-%E6%9D%B1%E6%96%B9%E5%B1%B1%E6%B5%B7%E5%82%B3_~_the_Potential_Crisis%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/d/db/%E6%9D%B1%E6%96%B9%E5%B1%B1%E6%B5%B7%E5%82%B3_~_the_Potential_Crisis%E5%B0%81%E9%9D%A2.png/320px-%E6%9D%B1%E6%96%B9%E5%B1%B1%E6%B5%B7%E5%82%B3_~_the_Potential_Crisis%E5%B0%81%E9%9D%A2.png 2x" data-file-width="902" data-file-height="894"></a></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">剧情</td><td style=";;" class="navbox-list navbox-even"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>剧情文本</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./東方山海傳_~_the_Potential_Crisis-故事背景.md" title="東方山海傳 ~ the Potential Crisis/故事背景" unred="">故事背景</a> &#8226; <a href="./東方山海傳_~_the_Potential_Crisis-ExStory.md" title="東方山海傳 ~ the Potential Crisis/ExStory" unred="">Ex故事背景</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>游戏对话&amp;结局</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="/index.php?title=%E6%9D%B1%E6%96%B9%E5%B1%B1%E6%B5%B7%E5%82%B3_%EF%BD%9E_the_Potential_Crisis/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6&amp;action=edit&amp;redlink=1" class="new" title="東方山海傳 ～ the Potential Crisis/博丽灵梦（页面不存在）">博丽灵梦</a> &#8226; <a href="./東方山海傳_~_the_Potential_Crisis-雾雨魔理沙.md" title="東方山海傳 ~ the Potential Crisis/雾雨魔理沙" unred="">雾雨魔理沙</a> &#8226; <a href="/index.php?title=%E6%9D%B1%E6%96%B9%E5%B1%B1%E6%B5%B7%E5%82%B3_%EF%BD%9E_the_Potential_Crisis/%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97&amp;action=edit&amp;redlink=1" class="new" title="東方山海傳 ～ the Potential Crisis/东风谷早苗（页面不存在）">东风谷早苗</a> &#8226; <a href="/index.php?title=%E6%9D%B1%E6%96%B9%E5%B1%B1%E6%B5%B7%E5%82%B3_%EF%BD%9E_the_Potential_Crisis/%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87&amp;action=edit&amp;redlink=1" class="new" title="東方山海傳 ～ the Potential Crisis/射命丸文（页面不存在）">射命丸文</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>Ex游戏对话</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="/index.php?title=%E6%9D%B1%E6%96%B9%E5%B1%B1%E6%B5%B7%E5%82%B3_%EF%BD%9E_the_Potential_Crisis/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6_ExStory&amp;action=edit&amp;redlink=1" class="new" title="東方山海傳 ～ the Potential Crisis/博丽灵梦 ExStory（页面不存在）">博丽灵梦</a> &#8226; <a href="./東方山海傳_~_the_Potential_Crisis-雾雨魔理沙_ExStory.md" title="東方山海傳 ~ the Potential Crisis/雾雨魔理沙 ExStory" unred="">雾雨魔理沙</a> &#8226; <a href="/index.php?title=%E6%9D%B1%E6%96%B9%E5%B1%B1%E6%B5%B7%E5%82%B3_%EF%BD%9E_the_Potential_Crisis/%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97_ExStory&amp;action=edit&amp;redlink=1" class="new" title="東方山海傳 ～ the Potential Crisis/东风谷早苗 ExStory（页面不存在）">东风谷早苗</a> &#8226; <a href="/index.php?title=%E6%9D%B1%E6%96%B9%E5%B1%B1%E6%B5%B7%E5%82%B3_%EF%BD%9E_the_Potential_Crisis/%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87_ExStory&amp;action=edit&amp;redlink=1" class="new" title="東方山海傳 ～ the Potential Crisis/射命丸文 ExStory（页面不存在）">射命丸文</a></div></td></tr></tbody></table><div></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">场景</td><td style=";;" class="navbox-list navbox-odd"><div><a href="/index.php?title=%E9%95%87%E6%B5%B7&amp;action=edit&amp;redlink=1" class="new" title="镇海（页面不存在）">镇海</a> &#8226; <a href="/index.php?title=%E5%8F%A4%E7%93%B7%E8%BE%B9%E5%A2%83%E6%9D%91%E5%BA%84&amp;action=edit&amp;redlink=1" class="new" title="古瓷边境村庄（页面不存在）">古瓷边境村庄</a> &#8226; <a href="/index.php?title=%E5%8F%A4%E7%93%B7%E5%BA%99%E4%BC%9A&amp;action=edit&amp;redlink=1" class="new" title="古瓷庙会（页面不存在）">古瓷庙会</a> &#8226; <a href="/index.php?title=%E8%B8%8F%E7%81%AB%E4%B9%8B%E8%B7%AF&amp;action=edit&amp;redlink=1" class="new" title="踏火之路（页面不存在）">踏火之路</a> &#8226; <a href="/index.php?title=%E6%B6%85%E6%A7%83%E9%82%A3%E5%B1%B1&amp;action=edit&amp;redlink=1" class="new" title="涅槃那山（页面不存在）">涅槃那山</a> &#8226; <a href="/index.php?title=%E9%BB%91%E9%BD%BF%E4%B8%98&amp;action=edit&amp;redlink=1" class="new" title="黑齿丘（页面不存在）">黑齿丘</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">音乐</td><td style=";;" class="navbox-list navbox-even"><div><a href="./東方山海傳_~_the_Potential_Crisis-Music.md" title="東方山海傳 ~ the Potential Crisis/Music" unred="">Music Room</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">附带文档</td><td style=";;" class="navbox-list navbox-odd"><div><a href="/index.php?title=%E9%99%84%E5%B8%A6%E6%96%87%E6%A1%A3:%E6%9D%B1%E6%96%B9%E5%B1%B1%E6%B5%B7%E5%82%B3_%EF%BD%9E_the_Potential_Crisis/Readme&amp;action=edit&amp;redlink=1" class="new" title="附带文档:東方山海傳 ～ the Potential Crisis/Readme（页面不存在）">Readme</a> &#8226; <a href="/index.php?title=%E9%99%84%E5%B8%A6%E6%96%87%E6%A1%A3:%E6%9D%B1%E6%96%B9%E5%B1%B1%E6%B5%B7%E5%82%B3_%EF%BD%9E_the_Potential_Crisis/Omake&amp;action=edit&amp;redlink=1" class="new" title="附带文档:東方山海傳 ～ the Potential Crisis/Omake（页面不存在）">设定文档</a> &#8226; <a href="./東方山海傳_~_the_Potential_Crisis-山海求闻忆梦.md" title="東方山海傳 ~ the Potential Crisis/山海求闻忆梦" unred="">山海求闻忆梦</a></div></td></tr></tbody></table></td></tr></tbody></table>
-
-
-
-
 
 
 ---

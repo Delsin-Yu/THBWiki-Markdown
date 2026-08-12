@@ -1,6 +1,6 @@
 # 文件:Silent_Majority封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9b\ns6%3ASilent_Majority%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9b\ns6%3ASilent_Majority%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 No_Gimmick_No_Life | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ No_Gimmick_No_Life | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Silent Majority](./Silent_Majority.md)  
-该封面包含的角色：- [稀神探女](./稀神探女.md)
+- [Silent Majority](./Silent_Majority.md)该封面包含的角色：
+- [稀神探女](./稀神探女.md)
 
   
-源地址：[[1]](http://static.tumblr.com/10516208678598bbc1b3f2d717296a95/s0dxskf/6wKob0iel/tumblr_static_4ppcpv9ajv6so8wkwkksowgs8.png)
-  
-
-
-
-
+源地址：[\[1\]](http://static.tumblr.com/10516208678598bbc1b3f2d717296a95/s0dxskf/6wKob0iel/tumblr_static_4ppcpv9ajv6so8wkwkksowgs8.png)  
 
 ---
 

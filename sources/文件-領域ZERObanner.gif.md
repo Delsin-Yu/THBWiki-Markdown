@@ -1,12 +1,8 @@
 # 文件:領域ZERObanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ac\ns6%3A%E9%A0%98%E5%9F%9FZERObanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ac\ns6%3A%E9%A0%98%E5%9F%9FZERObanner%2Egif.html -->
 
 社团LOGO | 領域ZERO
-
-
-
-
 
 
 ---

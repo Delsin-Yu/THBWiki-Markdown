@@ -1,16 +1,12 @@
 # 模板:UTFD
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\0\0c\ns10%3AUTFD.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\0\0c\ns10%3AUTFD.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

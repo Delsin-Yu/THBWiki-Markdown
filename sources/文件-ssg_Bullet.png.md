@@ -1,16 +1,12 @@
 # 文件:ssg_Bullet.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\12\ns6%3Assg_Bullet%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\12\ns6%3Assg_Bullet%2Epng.html -->
 
 秋霜玉
 
   
 《秋霜玉》弹幕铳弹。
   
-
-
-
-
 
 ---
 

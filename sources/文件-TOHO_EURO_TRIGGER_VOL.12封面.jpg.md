@@ -1,6 +1,6 @@
 # 文件:TOHO_EURO_TRIGGER_VOL.12封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a2\ns6%3ATOHO_EURO_TRIGGER_VOL%2E12%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a2\ns6%3ATOHO_EURO_TRIGGER_VOL%2E12%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 K2E†Cradle | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@ K2E†Cradle | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [TOHO EURO TRIGGER VOL.12](./TOHO_EURO_TRIGGER_VOL.12.md)  
-该封面包含的角色：- [姬虫百百世](./姬虫百百世.md)
+- [TOHO EURO TRIGGER VOL.12](./TOHO_EURO_TRIGGER_VOL.12.md)该封面包含的角色：
+- [姬虫百百世](./姬虫百百世.md)
 
   
-源地址：[BOOTH](https://k2e-cradle.booth.pm/items/3358256) [图片链接](https://booth.pximg.net/5a046c38-d322-49e4-8cd3-e2b13c37cd31/i/3358256/899454a9-dfb8-498a-b78a-3fc15d164c7b.jpg)
-  
-
-
-
-
+源地址：[BOOTH](https://k2e-cradle.booth.pm/items/3358256) [图片链接](https://booth.pximg.net/5a046c38-d322-49e4-8cd3-e2b13c37cd31/i/3358256/899454a9-dfb8-498a-b78a-3fc15d164c7b.jpg)  
 
 ---
 

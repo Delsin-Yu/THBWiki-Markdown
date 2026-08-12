@@ -1,6 +1,6 @@
 # 文件:tpz_GOMEN_NASAI_ep.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8a\ns6%3Atpz_GOMEN_NASAI_ep%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8a\ns6%3Atpz_GOMEN_NASAI_ep%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 C.H.S | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@ C.H.S | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [tpz GOMEN NASAI ep.](./tpz_GOMEN_NASAI_ep..md)  
-该封面包含的角色：- [古明地恋](./古明地恋.md)
+- [tpz GOMEN NASAI ep.](./tpz_GOMEN_NASAI_ep..md)该封面包含的角色：
+- [古明地恋](./古明地恋.md)
 
   
-源地址：[direct image link](https://www.suruga-ya.jp/database/pics_light/game/186139174.jpg), [source page (suruga-ya ID: 186139174)](https://www.suruga-ya.jp/product/detail/186139174)
-  
-
-
-
-
+源地址：[direct image link](https://www.suruga-ya.jp/database/pics_light/game/186139174.jpg), [source page (suruga-ya ID: 186139174)](https://www.suruga-ya.jp/product/detail/186139174)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:AVC封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1a\ns6%3AAVC%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1a\ns6%3AAVC%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 カグラミクス | 同人志封面 | 封面图片
 
@@ -10,16 +10,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [AVC](./AVC.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)- 异形 (未找到链接)
+- [AVC](./AVC.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
+- 异形 (未找到链接)
 
   
-源地址：[direct image link (cropped from original)](https://www.suruga-ya.jp/database/pics_light/game/zhore16893.jpg), [source page (DLsite)](https://www.dlsite.com/home/work/=/product_id/RJ069179.html)
-  
-
-
-
-
+源地址：[direct image link (cropped from original)](https://www.suruga-ya.jp/database/pics_light/game/zhore16893.jpg), [source page (DLsite)](https://www.dlsite.com/home/work/=/product_id/RJ069179.html)  
 
 ---
 

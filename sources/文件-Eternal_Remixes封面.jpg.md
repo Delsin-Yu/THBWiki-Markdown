@@ -1,6 +1,6 @@
 # 文件:Eternal_Remixes封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1d\ns6%3AEternal_Remixes%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1d\ns6%3AEternal_Remixes%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Frozen_Starfall | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Frozen_Starfall | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Eternal Remixes](./Eternal_Remixes.md)  
-该封面包含的角色：- [高丽野阿吽](./高丽野阿吽.md)
-
-
-
+- [Eternal Remixes](./Eternal_Remixes.md)该封面包含的角色：
+- [高丽野阿吽](./高丽野阿吽.md)
 
 
 ---

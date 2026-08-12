@@ -1,6 +1,6 @@
 # 文件:Lotus_root_Orchestra_Best_2007-2014封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\17\ns6%3ALotus_root_Orchestra_Best_2007-2014%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\17\ns6%3ALotus_root_Orchestra_Best_2007-2014%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Lotus_root_Orchestra | 专辑封面 | 封面图片
 
@@ -10,11 +10,9 @@ Lotus_root_Orchestra | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Lotus root Orchestra Best 2007-2014](./Lotus_root_Orchestra_Best_2007-2014.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- 原创角色 (未找到链接)
-
-
-
+- [Lotus root Orchestra Best 2007-2014](./Lotus_root_Orchestra_Best_2007-2014.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- 原创角色 (未找到链接)
 
 
 ---

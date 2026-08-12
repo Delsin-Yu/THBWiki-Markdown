@@ -1,12 +1,12 @@
 # ZUN/WePlay采访
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\b0\ns0%3AZUN%2FWePlay%E9%87%87%E8%AE%BF.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\b0\ns0%3AZUN%2FWePlay%E9%87%87%E8%AE%BF.html -->
 
 ZUN | 采访
 
+
 - 本文为2019年12月8日举办的WePlay第二日上午，各大媒体对ZUN的采访。
-- 现场翻译：京都人形 (未找到链接)  
-文字整理：voyage1970 (未找到链接)
+- 现场翻译：京都人形 (未找到链接)文字整理：voyage1970 (未找到链接)
 
 ——
 : 鬼形兽和之前的作品有什么区别？
@@ -132,12 +132,8 @@ ZUN
 : 您有什么话想对中国东方爱好者们说吗？
 ZUN
 : 非常感谢大家从现在众多的作品中喜欢上了东方。其实大家也不用过于深入地去沉浸于这个世界，能够偶尔玩一下就可以了。东方已经存续很多年了，希望大家以后也能继续支持。
-
-[^cite_note-1]: ZUN从小学开始就很喜欢射击游戏，并在初中时玩过宇宙巡航机3等作品[&#91;博之访谈&#93;](https://cn.touhougarakuta.com/article/cn_specialtaidan_zun_hiroyuki_1)
-
-
-
-
+[^cite_note-1]: ZUN从小学开始就很喜欢射击游戏，并在初中时玩过宇宙巡航机3等作品[\[博之访谈\]](https://cn.touhougarakuta.com/article/cn_specialtaidan_zun_hiroyuki_1)
+[^cite_note-2]: 此后最近的[秘封CD](./虹色的北斗七星.md)于2021年12月31日 面世
 
 ---
 

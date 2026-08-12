@@ -1,6 +1,6 @@
 # 文件:DeadAndRevive封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f7\ns6%3ADeadAndRevive%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f7\ns6%3ADeadAndRevive%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 サラウドンサラウンド | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [DeadAndRevive](./DeadAndRevive.md)  
-该封面包含的角色：- [宫古芳香](./宫古芳香.md)
-
-
-
+- [DeadAndRevive](./DeadAndRevive.md)该封面包含的角色：
+- [宫古芳香](./宫古芳香.md)
 
 
 ---

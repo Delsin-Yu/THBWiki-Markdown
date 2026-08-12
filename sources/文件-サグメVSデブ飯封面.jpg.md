@@ -1,6 +1,6 @@
 # 文件:サグメVSデブ飯封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b2\ns6%3A%E3%82%B5%E3%82%B0%E3%83%A1VS%E3%83%87%E3%83%96%E9%A3%AF%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b2\ns6%3A%E3%82%B5%E3%82%B0%E3%83%A1VS%E3%83%87%E3%83%96%E9%A3%AF%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 さやかた紅茶館 | 同人志封面 | 封面图片
 
@@ -10,16 +10,15 @@
 使用了本文件作封面图片的作品：
   
 
-- [サグメVSデブ飯](./サグメVSデブ飯.md)  
-该封面包含的角色：- [西行寺幽幽子](./西行寺幽幽子.md)- 原创角色 (未找到链接)- [稀神探女](./稀神探女.md)- [骊驹早鬼](./骊驹早鬼.md)- [吉吊八千慧](./吉吊八千慧.md)
+- [サグメVSデブ飯](./サグメVSデブ飯.md)该封面包含的角色：
+- [西行寺幽幽子](./西行寺幽幽子.md)
+- 原创角色 (未找到链接)
+- [稀神探女](./稀神探女.md)
+- [骊驹早鬼](./骊驹早鬼.md)
+- [吉吊八千慧](./吉吊八千慧.md)
 
   
-源地址：[direct image link](https://pbs.twimg.com/media/EeNDpGAVAAAWiDo?format=jpg&amp;name=orig), [source tweet](https://twitter.com/sayakata/status/1288948296094867456)
-  
-
-
-
-
+源地址：[direct image link](https://pbs.twimg.com/media/EeNDpGAVAAAWiDo?format=jpg&name=orig), [source tweet](https://twitter.com/sayakata/status/1288948296094867456)  
 
 ---
 

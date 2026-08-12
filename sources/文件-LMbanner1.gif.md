@@ -1,12 +1,8 @@
 # 文件:LMbanner1.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\52\ns6%3ALMbanner1%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\52\ns6%3ALMbanner1%2Egif.html -->
 
 LM | 社团LOGO
-
-
-
-
 
 
 ---

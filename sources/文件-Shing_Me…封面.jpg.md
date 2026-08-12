@@ -1,6 +1,6 @@
 # 文件:Shing_Me…封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6e\ns6%3AShing_Me%E2%80%A6%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6e\ns6%3AShing_Me%E2%80%A6%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 FLANKER | 专辑封面 | 封面图片
 
@@ -8,16 +8,13 @@ FLANKER | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Shing Me…](./Shing_Me….md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [八云紫](./八云紫.md)- [伊吹萃香](./伊吹萃香.md)
+- [Shing Me…](./Shing_Me….md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [八云紫](./八云紫.md)
+- [伊吹萃香](./伊吹萃香.md)
 
   
-源地址:[http&#160;://flankerdoujin.web.fc2.com/t8/alice. jpg](http://flankerdoujin.web.fc2.com/t8/alice.jpg)
-  
-
-
-
-
+源地址:[http ://flankerdoujin.web.fc2.com/t8/alice. jpg](http://flankerdoujin.web.fc2.com/t8/alice.jpg)  
 
 ---
 

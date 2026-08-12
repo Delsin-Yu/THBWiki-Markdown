@@ -1,6 +1,6 @@
 # 文件:fairyring（同人专辑）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\10\ns6%3Afairyring%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\10\ns6%3Afairyring%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 activity | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ activity | 专辑封面 | 封面图片
   
 
 - [fairyring（同人专辑）](./fairyring（同人专辑）.md)
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:博麗vs守矢封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\94\ns6%3A%E5%8D%9A%E9%BA%97vs%E5%AE%88%E7%9F%A2%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\94\ns6%3A%E5%8D%9A%E9%BA%97vs%E5%AE%88%E7%9F%A2%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 RED_BIRD | 专辑封面 | 封面图片
 
@@ -8,11 +8,10 @@ RED_BIRD | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [博麗vs守矢](./博麗vs守矢.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [伊吹萃香](./伊吹萃香.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [博麗vs守矢](./博麗vs守矢.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [伊吹萃香](./伊吹萃香.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

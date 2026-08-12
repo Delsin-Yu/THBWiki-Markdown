@@ -1,6 +1,6 @@
 # 文件:HARDCORE_KOISHICHANG_Pt.2封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cd\ns6%3AHARDCORE_KOISHICHANG_Pt%2E2%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cd\ns6%3AHARDCORE_KOISHICHANG_Pt%2E2%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 YAJIMA | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ YAJIMA | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [HARDCORE KOISHICHANG Pt.2](./HARDCORE_KOISHICHANG_Pt.2.md)  
-该封面包含的角色：- [古明地恋](./古明地恋.md)
-
-
-
+- [HARDCORE KOISHICHANG Pt.2](./HARDCORE_KOISHICHANG_Pt.2.md)该封面包含的角色：
+- [古明地恋](./古明地恋.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Remilia_／_Shoujo_Satori封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\da\ns6%3ARemilia_%EF%BC%8F_Shoujo_Satori%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\da\ns6%3ARemilia_%EF%BC%8F_Shoujo_Satori%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 nyankobrq | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ nyankobrq | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Remilia ／ Shoujo Satori](./Remilia_／_Shoujo_Satori.md)  
-该封面包含的角色：- [古明地觉](./古明地觉.md)
+- [Remilia ／ Shoujo Satori](./Remilia_／_Shoujo_Satori.md)该封面包含的角色：
+- [古明地觉](./古明地觉.md)
 
   
-源地址：[[1]](https://f4.bcbits.com/img/a1553139458_10.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://f4.bcbits.com/img/a1553139458_10.jpg)  
 
 ---
 

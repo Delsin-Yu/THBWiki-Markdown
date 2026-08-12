@@ -1,6 +1,6 @@
 # 文件:EASY_SHOOT!!!封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\74\ns6%3AEASY_SHOOT%21%21%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\74\ns6%3AEASY_SHOOT%21%21%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 モノクロ殺人現場写真 | 专辑封面 | 味玉定食 | 封面图片 | 鉄腕トカゲ探知機
 
@@ -8,11 +8,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [EASY SHOOT!!!](./EASY_SHOOT!!!.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [上白泽慧音](./上白泽慧音.md)
-
-
-
+- [EASY SHOOT!!!](./EASY_SHOOT!!!.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [上白泽慧音](./上白泽慧音.md)
 
 
 ---

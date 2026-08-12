@@ -1,6 +1,6 @@
 # 文件:令和時代好奇心_～_Otherworldly_Paradox封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\46\ns6%3A%E4%BB%A4%E5%92%8C%E6%99%82%E4%BB%A3%E5%A5%BD%E5%A5%87%E5%BF%83_%EF%BD%9E_Otherworldly_Paradox%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\46\ns6%3A%E4%BB%A4%E5%92%8C%E6%99%82%E4%BB%A3%E5%A5%BD%E5%A5%87%E5%BF%83_%EF%BD%9E_Otherworldly_Paradox%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Paradise_of_Boundaries | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Paradise_of_Boundaries | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [令和時代好奇心 ～ Otherworldly Paradox](./令和時代好奇心_～_Otherworldly_Paradox.md)  
-该封面包含的角色：- Seiko Ayano (未找到链接)
-
-
-
+- [令和時代好奇心 ～ Otherworldly Paradox](./令和時代好奇心_～_Otherworldly_Paradox.md)该封面包含的角色：
+- Seiko Ayano (未找到链接)
 
 
 ---

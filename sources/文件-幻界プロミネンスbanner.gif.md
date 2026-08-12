@@ -1,14 +1,11 @@
 # 文件:幻界プロミネンスbanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\06\ns6%3A%E5%B9%BB%E7%95%8C%E3%83%97%E3%83%AD%E3%83%9F%E3%83%8D%E3%83%B3%E3%82%B9banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\06\ns6%3A%E5%B9%BB%E7%95%8C%E3%83%97%E3%83%AD%E3%83%9F%E3%83%8D%E3%83%B3%E3%82%B9banner%2Egif.html -->
 
 幻界プロミネンス | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

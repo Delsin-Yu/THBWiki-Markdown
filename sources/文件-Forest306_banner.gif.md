@@ -1,12 +1,8 @@
 # 文件:Forest306_banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d4\ns6%3AForest306_banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d4\ns6%3AForest306_banner%2Egif.html -->
 
 Forest306 | 社团LOGO
-
-
-
-
 
 
 ---

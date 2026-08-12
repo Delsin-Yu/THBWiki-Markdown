@@ -1,6 +1,6 @@
 # 文件:LOTUS_-ロータス-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\09\ns6%3ALOTUS_-%E3%83%AD%E3%83%BC%E3%82%BF%E3%82%B9-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\09\ns6%3ALOTUS_-%E3%83%AD%E3%83%BC%E3%82%BF%E3%82%B9-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 彩音_～xi-on～
 
@@ -9,9 +9,6 @@
   
 
 - [LOTUS -ロータス-](./LOTUS_-ロータス-.md)
-
-
-
 
 
 ---

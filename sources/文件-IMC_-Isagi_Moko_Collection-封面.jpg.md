@@ -1,6 +1,6 @@
 # 文件:IMC_-Isagi_Moko_Collection-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8c\ns6%3AIMC_-Isagi_Moko_Collection-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8c\ns6%3AIMC_-Isagi_Moko_Collection-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 楽天地
 
@@ -10,19 +10,14 @@
 使用了本文件作封面图片的作品：
   
 
-- [IMC -Isagi Moko Collection-](./IMC_-Isagi_Moko_Collection-.md)  
-该封面包含的角色：- [藤原妹红](./藤原妹红.md)
+- [IMC -Isagi Moko Collection-](./IMC_-Isagi_Moko_Collection-.md)该封面包含的角色：
+- [藤原妹红](./藤原妹红.md)
 
   
-源地址：[direct image link (original size)](https://pbs.twimg.com/media/FeTLY42akAAzRzn?format=jpg&amp;name=orig), [source tweet](https://twitter.com/isaisaisaisagi/status/1577609400428396544)
-  
+源地址：[direct image link (original size)](https://pbs.twimg.com/media/FeTLY42akAAzRzn?format=jpg&name=orig), [source tweet](https://twitter.com/isaisaisaisagi/status/1577609400428396544)  
   
 note: photograph of cover, should be replaced by better image
   
-
-
-
-
 
 ---
 

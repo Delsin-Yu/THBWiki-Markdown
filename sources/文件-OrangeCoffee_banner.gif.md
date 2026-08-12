@@ -1,12 +1,8 @@
 # 文件:OrangeCoffee_banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0c\ns6%3AOrangeCoffee_banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0c\ns6%3AOrangeCoffee_banner%2Egif.html -->
 
 OrangeCoffee | 社团LOGO
-
-
-
-
 
 
 ---

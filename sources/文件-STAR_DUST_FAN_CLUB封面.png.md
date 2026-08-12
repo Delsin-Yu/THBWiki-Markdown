@@ -1,6 +1,6 @@
 # 文件:STAR_DUST_FAN_CLUB封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b9\ns6%3ASTAR_DUST_FAN_CLUB%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b9\ns6%3ASTAR_DUST_FAN_CLUB%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 MISTY_RAIN | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ MISTY_RAIN | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [STAR DUST FAN CLUB](./STAR_DUST_FAN_CLUB.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [STAR DUST FAN CLUB](./STAR_DUST_FAN_CLUB.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

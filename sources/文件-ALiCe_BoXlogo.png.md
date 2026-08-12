@@ -1,14 +1,11 @@
 # 文件:ALiCe_BoXlogo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\58\ns6%3AALiCe_BoXlogo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\58\ns6%3AALiCe_BoXlogo%2Epng.html -->
 
 ALiCe_BoX | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

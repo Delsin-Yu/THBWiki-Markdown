@@ -1,6 +1,6 @@
 # 文件:Ideal_Restrictions_～人形ノ愛寵感情封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d8\ns6%3AIdeal_Restrictions_%EF%BD%9E%E4%BA%BA%E5%BD%A2%E3%83%8E%E6%84%9B%E5%AF%B5%E6%84%9F%E6%83%85%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d8\ns6%3AIdeal_Restrictions_%EF%BD%9E%E4%BA%BA%E5%BD%A2%E3%83%8E%E6%84%9B%E5%AF%B5%E6%84%9F%E6%83%85%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 緋月ノ雫
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Ideal Restrictions ～人形ノ愛寵感情](./Ideal_Restrictions_～人形ノ愛寵感情.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
-
-
-
+- [Ideal Restrictions ～人形ノ愛寵感情](./Ideal_Restrictions_～人形ノ愛寵感情.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
 
 
 ---

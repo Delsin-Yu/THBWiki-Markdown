@@ -1,6 +1,6 @@
 # 文件:SHESEA封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1e\ns6%3ASHESEA%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1e\ns6%3ASHESEA%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 tenohila | 同人志封面 | 封面图片
 
@@ -13,12 +13,7 @@ tenohila | 同人志封面 | 封面图片
 - [SHESEA](./SHESEA.md)
 
   
-[Pixiv artwork ID: 53227671](https://www.pixiv.net/artworks/53227671)
-  
-
-
-
-
+[Pixiv artwork ID: 53227671](https://www.pixiv.net/artworks/53227671)  
 
 ---
 

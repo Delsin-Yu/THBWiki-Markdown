@@ -1,6 +1,6 @@
 # 文件:Never_get_away_from_HEAVY_METAL封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bc\ns6%3ANever_get_away_from_HEAVY_METAL%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bc\ns6%3ANever_get_away_from_HEAVY_METAL%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Icarus'cry | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Icarus'cry | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Never get away from HEAVY METAL](./Never_get_away_from_HEAVY_METAL.md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)
-
-
-
+- [Never get away from HEAVY METAL](./Never_get_away_from_HEAVY_METAL.md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
 
 
 ---

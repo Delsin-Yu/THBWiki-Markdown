@@ -1,6 +1,6 @@
 # 文件:Cross_Hair_E.P.封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e6\ns6%3ACross_Hair_E%2EP%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e6\ns6%3ACross_Hair_E%2EP%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Sound_Square | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Sound_Square | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Cross Hair E.P.](./Cross_Hair_E.P..md)  
-该封面包含的角色：- [灵乌路空](./灵乌路空.md)
+- [Cross Hair E.P.](./Cross_Hair_E.P..md)该封面包含的角色：
+- [灵乌路空](./灵乌路空.md)
 
   
-源地址：[[1]](http://img.melonbooks.com/contents/sample/IT000017153301.png)
-  
-
-
-
-
+源地址：[\[1\]](http://img.melonbooks.com/contents/sample/IT000017153301.png)  
 
 ---
 

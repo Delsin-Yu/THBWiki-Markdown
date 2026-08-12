@@ -1,6 +1,6 @@
 # 文件:Lunatic_Fantasy封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\39\ns6%3ALunatic_Fantasy%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\39\ns6%3ALunatic_Fantasy%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 電解アンサー
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Lunatic Fantasy](./Lunatic_Fantasy.md)  
-该封面包含的角色：- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
+- [Lunatic Fantasy](./Lunatic_Fantasy.md)该封面包含的角色：
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
 
   
-源地址：[[1]](https://twitter.com/Hi_Fu_music/status/920231158691930112)
-  
-
-
-
-
+源地址：[\[1\]](https://twitter.com/Hi_Fu_music/status/920231158691930112)  
 
 ---
 

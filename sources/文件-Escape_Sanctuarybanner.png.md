@@ -1,12 +1,8 @@
 # 文件:Escape_Sanctuarybanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b7\ns6%3AEscape_Sanctuarybanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b7\ns6%3AEscape_Sanctuarybanner%2Epng.html -->
 
 Escape_Sanctuary | 社团LOGO
-
-
-
-
 
 
 ---

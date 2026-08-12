@@ -1,6 +1,6 @@
 # 文件:Innocent_Abyss封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a2\ns6%3AInnocent_Abyss%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a2\ns6%3AInnocent_Abyss%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 EastNewSound | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ EastNewSound | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Innocent Abyss](./Innocent_Abyss.md)  
-该封面包含的角色：- [纯狐](./纯狐.md)
-
-
-
+- [Innocent Abyss](./Innocent_Abyss.md)该封面包含的角色：
+- [纯狐](./纯狐.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:デジウィ_SURViVE封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\de\ns6%3A%E3%83%87%E3%82%B8%E3%82%A6%E3%82%A3_SURViVE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\de\ns6%3A%E3%83%87%E3%82%B8%E3%82%A6%E3%82%A3_SURViVE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 DiGiTAL_WiNG | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ DiGiTAL_WiNG | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [デジウィ SURViVE](./デジウィ_SURViVE.md)  
-该封面包含的角色：- [多多良小伞](./多多良小伞.md)
-
-
-
+- [デジウィ SURViVE](./デジウィ_SURViVE.md)该封面包含的角色：
+- [多多良小伞](./多多良小伞.md)
 
 
 ---

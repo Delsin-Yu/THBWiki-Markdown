@@ -1,6 +1,6 @@
 # 文件:THE_SELECTED_WORKS_OF_TAMAONSEN_2封面.jpeg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\04\ns6%3ATHE_SELECTED_WORKS_OF_TAMAONSEN_2%E5%B0%81%E9%9D%A2%2Ejpeg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\04\ns6%3ATHE_SELECTED_WORKS_OF_TAMAONSEN_2%E5%B0%81%E9%9D%A2%2Ejpeg.html -->
 
 专辑封面 | 封面图片 | 魂音泉
 
@@ -9,9 +9,6 @@
   
 
 - [THE SELECTED WORKS OF TAMAONSEN 2](./THE_SELECTED_WORKS_OF_TAMAONSEN_2.md)
-
-
-
 
 
 ---

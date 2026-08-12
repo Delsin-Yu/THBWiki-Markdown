@@ -1,6 +1,6 @@
 # 文件:PiXEL_KIIISS封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\22\ns6%3APiXEL_KIIISS%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\22\ns6%3APiXEL_KIIISS%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 焼菓一心
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [PiXEL KIIISS](./PiXEL_KIIISS.md)  
-该封面包含的角色：- [八云紫](./八云紫.md)
+- [PiXEL KIIISS](./PiXEL_KIIISS.md)该封面包含的角色：
+- [八云紫](./八云紫.md)
 
   
-源地址：[direct image link (max size)](https://s2.booth.pm/c2ee05eb-1710-45a6-9b2d-1bc971bee406/i/3836884/e2cb3c33-b166-4147-ae3d-cef647944575.jpg), [source page (Booth)](https://shoukaissin.booth.pm/items/3836884)
-  
-
-
-
-
+源地址：[direct image link (max size)](https://s2.booth.pm/c2ee05eb-1710-45a6-9b2d-1bc971bee406/i/3836884/e2cb3c33-b166-4147-ae3d-cef647944575.jpg), [source page (Booth)](https://shoukaissin.booth.pm/items/3836884)  
 
 ---
 

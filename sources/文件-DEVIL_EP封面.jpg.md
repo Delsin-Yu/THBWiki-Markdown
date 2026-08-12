@@ -1,6 +1,6 @@
 # 文件:DEVIL_EP封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\87\ns6%3ADEVIL_EP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\87\ns6%3ADEVIL_EP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 死際サテライト
 
@@ -11,12 +11,7 @@
 - [DEVIL EP](./DEVIL_EP.md)
 
   
-源地址：[[1]](https://static.wixstatic.com/media/133e6c_f83d73f8f0964a159a061c3b19840b57~mv2.jpg/v1/fill/w_334,h_317,al_c,lg_1,q_80/133e6c_f83d73f8f0964a159a061c3b19840b57~mv2.webp)
-  
-
-
-
-
+源地址：[\[1\]](https://static.wixstatic.com/media/133e6c_f83d73f8f0964a159a061c3b19840b57~mv2.jpg/v1/fill/w_334,h_317,al_c,lg_1,q_80/133e6c_f83d73f8f0964a159a061c3b19840b57~mv2.webp)  
 
 ---
 

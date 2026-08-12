@@ -1,16 +1,12 @@
 # 模板:Magical_Heroine
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\b\b9\ns10%3AMagical_Heroine.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\b\b9\ns10%3AMagical_Heroine.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

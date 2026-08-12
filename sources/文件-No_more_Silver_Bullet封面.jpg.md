@@ -1,6 +1,6 @@
 # 文件:No_more_Silver_Bullet封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f6\ns6%3ANo_more_Silver_Bullet%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f6\ns6%3ANo_more_Silver_Bullet%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 折葉坂三番地
 
@@ -10,11 +10,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [No more Silver Bullet](./No_more_Silver_Bullet.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)- [娜兹玲](./娜兹玲.md)- [冈崎梦美](./冈崎梦美.md)- [北白河千百合](./北白河千百合.md)
-
-
-
+- [No more Silver Bullet](./No_more_Silver_Bullet.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
+- [娜兹玲](./娜兹玲.md)
+- [冈崎梦美](./冈崎梦美.md)
+- [北白河千百合](./北白河千百合.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Intense_Symphonic_Metal：_Touhou封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\88\ns6%3AIntense_Symphonic_Metal%EF%BC%9A_Touhou%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\88\ns6%3AIntense_Symphonic_Metal%EF%BC%9A_Touhou%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Falkkone | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Falkkone | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Intense Symphonic Metal： Touhou](./Intense_Symphonic_Metal：_Touhou.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [Intense Symphonic Metal： Touhou](./Intense_Symphonic_Metal：_Touhou.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
   
-源地址：[direct image link](https://static.wixstatic.com/media/c0e641_fef74d94d2b745fd974b374139f93a2f~mv2.png), [source page](https://www.falkkone.com/music)
-  
-
-
-
-
+源地址：[direct image link](https://static.wixstatic.com/media/c0e641_fef74d94d2b745fd974b374139f93a2f~mv2.png), [source page](https://www.falkkone.com/music)  
 
 ---
 

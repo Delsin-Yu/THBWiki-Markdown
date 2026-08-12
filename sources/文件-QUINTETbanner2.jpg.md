@@ -1,14 +1,11 @@
 # 文件:QUINTETbanner2.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\71\ns6%3AQUINTETbanner2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\71\ns6%3AQUINTETbanner2%2Ejpg.html -->
 
 QUINTET | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

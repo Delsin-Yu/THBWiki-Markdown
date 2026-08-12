@@ -1,6 +1,6 @@
 # 文件:Magnanimous_Cataclysm封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ae\ns6%3AMagnanimous_Cataclysm%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ae\ns6%3AMagnanimous_Cataclysm%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Kyandoru_Raito_No_Konran | 专辑封面 | 封面图片
 
@@ -8,16 +8,12 @@ Kyandoru_Raito_No_Konran | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Magnanimous Cataclysm](./Magnanimous_Cataclysm.md)  
-该封面包含的角色：- [永江衣玖](./永江衣玖.md)- [比那名居天子](./比那名居天子.md)
+- [Magnanimous Cataclysm](./Magnanimous_Cataclysm.md)该封面包含的角色：
+- [永江衣玖](./永江衣玖.md)
+- [比那名居天子](./比那名居天子.md)
 
   
-源地址：[[1]](https://kyandoruraitonokonranofficial.files.wordpress.com/2014/02/mc-cover.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://kyandoruraitonokonranofficial.files.wordpress.com/2014/02/mc-cover.jpg)  
 
 ---
 

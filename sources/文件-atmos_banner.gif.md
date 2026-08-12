@@ -1,12 +1,8 @@
 # 文件:atmos_banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\64\ns6%3Aatmos_banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\64\ns6%3Aatmos_banner%2Egif.html -->
 
 at_the_mercy_of_sounds | 社团LOGO
-
-
-
-
 
 
 ---

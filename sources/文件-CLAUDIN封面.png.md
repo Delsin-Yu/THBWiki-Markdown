@@ -1,6 +1,6 @@
 # 文件:CLAUDIN封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f0\ns6%3ACLAUDIN%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f0\ns6%3ACLAUDIN%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 シャレコーベ草原 | 同人志封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [CLAUDIN](./CLAUDIN.md)  
-该封面包含的角色：- [菊理](./菊理.md)
-
-
-
+- [CLAUDIN](./CLAUDIN.md)该封面包含的角色：
+- [菊理](./菊理.md)
 
 
 ---

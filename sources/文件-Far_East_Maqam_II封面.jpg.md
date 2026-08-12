@@ -1,6 +1,6 @@
 # 文件:Far_East_Maqam_II封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e4\ns6%3AFar_East_Maqam_II%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e4\ns6%3AFar_East_Maqam_II%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Metaluna | 专辑封面 | 封面图片
 
@@ -8,16 +8,12 @@ Metaluna | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Far East Maqam II](./Far_East_Maqam_II.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [爱丽丝（旧作角色）](./爱丽丝（旧作角色）.md)
+- [Far East Maqam II](./Far_East_Maqam_II.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [爱丽丝（旧作角色）](./爱丽丝（旧作角色）.md)
 
   
-源地址：[direct image link (original size)](https://stat.ameba.jp/user_images/20100310/20/metalwasabi/73/f8/j/o0800080110445824313.jpg), [source page](https://ameblo.jp/metalwasabi/entry-10478481784.html)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://stat.ameba.jp/user_images/20100310/20/metalwasabi/73/f8/j/o0800080110445824313.jpg), [source page](https://ameblo.jp/metalwasabi/entry-10478481784.html)  
 
 ---
 

@@ -1,37 +1,27 @@
 # Unlocated_Hell
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\00\ns0%3AUnlocated_Hell.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\00\ns0%3AUnlocated_Hell.html -->
 
 由 ZUN 创作的官方曲目，原名 アンロケイテッドヘル
 
 本页是关于东方Project  
- **原作音乐** 的词条
-
+**原作音乐**的词条
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 出现作品](#出现作品)
 - [3 音乐文件](#音乐文件)
-
   - [3.1 东方鬼形兽](#东方鬼形兽)
 
 
-
 - [4 说明文本](#说明文本)
-
   - [4.1 东方鬼形兽](#东方鬼形兽_2)
 
 
-
 - [5 其他资料](#其他资料)
-
   - [5.1 乐理资讯](#乐理资讯)
   - [5.2 分析考据](#分析考据)
   - [5.3 二次同人数据](#二次同人数据)
-
-
-
-
 
 
 
@@ -41,13 +31,11 @@
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">アンロケイテッドヘル</td></tr><tr><td><b>译名</b></td><td>Unlocated Hell</td></tr><tr><td><b>其他译名</b></td><td>未定位的地狱</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 Unlocated Hell（曲目） - 由 ZUN 创作的官方曲目，原名 アンロケイテッドヘル
-
 ## 出现作品
 
 <table>
 <tbody><tr><td>2019年8月12日（Comic Market 96）</td><td><b><a href="./东方鬼形兽.md" title="东方鬼形兽">东方鬼形兽</a>正式版</b></td><td>4面主题曲</td><td style="padding-left:5px;">アンロケイテッドヘル（Unlocated Hell）</td><td style="padding-left:10px;">作曲：ZUN</td></tr>
 </tbody></table>
-
 
 
 ## 音乐文件
@@ -62,38 +50,39 @@ Unlocated Hell（曲目） - 由 ZUN 创作的官方曲目，原名 アンロケ
 </td></tr></tbody></table>
 
 
-
 ## 说明文本
 
 ### 东方鬼形兽
-- Music Room (未找到链接)
+
+- [Music Room](./东方鬼形兽-Music.md#4面主题曲)
 
 　4面的主题曲。  
-　  
+   
 　在音乐里说到地狱就是重金属！我从这种刻板的  
 　想法开始创作这首曲子，但因为我对金属的造诣并不深，  
 　所以就仅仅是一如既往的曲子里多了一点金属成分而已。  
 　这是一首能体会到敌人的从容和强大的曲子，听起来非常舒服。
-
 ## 其他资料
 
 ### 乐理资讯
 
 ### 分析考据
   
- **アンロケイテッドヘル**  Unlocated Hell
+**アンロケイテッドヘル** Unlocated Hell
   
 
--  *unlocated* 
+- *unlocated*
   - 未定位的；未放置的。
 
--  *hell* 
+
+- *hell*
   - 地狱
+
 
 - 指鬼形兽四面场景:地狱（无法确定具体位置）。
 
-[](./文件-鬼形兽4面场景.png.md)  [](./文件-鬼形兽4面场景.png.md)鬼形兽4面场景
-
+<img alt="" src="https://upload.thwiki.cc/thumb/5/57/%E9%AC%BC%E5%BD%A2%E5%85%BD4%E9%9D%A2%E5%9C%BA%E6%99%AF.png/300px-%E9%AC%BC%E5%BD%A2%E5%85%BD4%E9%9D%A2%E5%9C%BA%E6%99%AF.png" decoding="async" loading="lazy" width="300" height="95" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/5/57/%E9%AC%BC%E5%BD%A2%E5%85%BD4%E9%9D%A2%E5%9C%BA%E6%99%AF.png/450px-%E9%AC%BC%E5%BD%A2%E5%85%BD4%E9%9D%A2%E5%9C%BA%E6%99%AF.png 1.5x, https://upload.thwiki.cc/5/57/%E9%AC%BC%E5%BD%A2%E5%85%BD4%E9%9D%A2%E5%9C%BA%E6%99%AF.png 2x" data-file-width="600" data-file-height="190">
+ [放大](./文件-鬼形兽4面场景.png.md)鬼形兽4面场景
 ### 二次同人数据
 
 <table><tbody><tr><th colspan="2">统计</th></tr>
@@ -106,17 +95,6 @@ Unlocated Hell（曲目） - 由 ZUN 创作的官方曲目，原名 アンロケ
 <tr><td>Arrange</td><td>88</td></tr>
 <tr><td>Vocal率</td><td>27.27%</td></tr>
 </tbody></table>
-
-
-
-
-  
-  
-
-  
-
-
-
 
 
 ---

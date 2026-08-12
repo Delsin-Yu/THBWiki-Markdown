@@ -1,6 +1,6 @@
 # 文件:TOHOBU_STG_Ex封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\09\ns6%3ATOHOBU_STG_Ex%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\09\ns6%3ATOHOBU_STG_Ex%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 ついったー東方部 | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [TOHOBU STG Ex](./TOHOBU_STG_Ex.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
-
-
-
+- [TOHOBU STG Ex](./TOHOBU_STG_Ex.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
 
 ---

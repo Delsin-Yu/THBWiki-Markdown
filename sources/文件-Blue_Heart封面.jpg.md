@@ -1,6 +1,6 @@
 # 文件:Blue_Heart封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f4\ns6%3ABlue_Heart%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f4\ns6%3ABlue_Heart%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 下町パイプライン | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Blue Heart](./Blue_Heart.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)
-
-
-
+- [Blue Heart](./Blue_Heart.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
 
 
 ---

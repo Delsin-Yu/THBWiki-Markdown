@@ -1,14 +1,11 @@
 # 文件:The_Grimoire_of_Usami（姬海棠果1）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\33\ns6%3AThe_Grimoire_of_Usami%EF%BC%88%E5%A7%AC%E6%B5%B7%E6%A3%A0%E6%9E%9C1%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\33\ns6%3AThe_Grimoire_of_Usami%EF%BC%88%E5%A7%AC%E6%B5%B7%E6%A3%A0%E6%9E%9C1%EF%BC%89%2Ejpg.html -->
 
 姬海棠果 | 宇佐见的魔法书
 
 
 ## 摘要
-
-
-
 
 ---
 

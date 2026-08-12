@@ -1,12 +1,8 @@
 # 文件:gaton.banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\77\ns6%3Agaton%2Ebanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\77\ns6%3Agaton%2Ebanner%2Egif.html -->
 
 gaton. | 社团LOGO
-
-
-
-
 
 
 ---

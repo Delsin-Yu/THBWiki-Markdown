@@ -1,6 +1,6 @@
 # 文件:Specification_Ver_2.0封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\04\ns6%3ASpecification_Ver_2%2E0%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\04\ns6%3ASpecification_Ver_2%2E0%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 まぃん☆しぃかぁ | 专辑封面 | 封面图片
 
@@ -8,11 +8,15 @@
 使用了本文件作封面图片的作品：
   
 
-- [Specification Ver 2.0](./Specification_Ver_2.0.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [魂魄妖梦](./魂魄妖梦.md)- [西行寺幽幽子](./西行寺幽幽子.md)- [射命丸文](./射命丸文.md)- [犬走椛](./犬走椛.md)- [东风谷早苗](./东风谷早苗.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [Specification Ver 2.0](./Specification_Ver_2.0.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [魂魄妖梦](./魂魄妖梦.md)
+- [西行寺幽幽子](./西行寺幽幽子.md)
+- [射命丸文](./射命丸文.md)
+- [犬走椛](./犬走椛.md)
+- [东风谷早苗](./东风谷早苗.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

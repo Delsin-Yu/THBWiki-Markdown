@@ -1,6 +1,6 @@
 # 文件:境界観測_The_Border_Observation封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\25\ns6%3A%E5%A2%83%E7%95%8C%E8%A6%B3%E6%B8%AC_The_Border_Observation%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\25\ns6%3A%E5%A2%83%E7%95%8C%E8%A6%B3%E6%B8%AC_The_Border_Observation%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 石鹸屋
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [境界観測 The Border Observation](./境界観測_The_Border_Observation.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [境界観測 The Border Observation](./境界観測_The_Border_Observation.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

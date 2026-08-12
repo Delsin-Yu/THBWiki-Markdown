@@ -1,6 +1,6 @@
 # 文件:HEARTBEAT（Ende_der_Welt）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ca\ns6%3AHEARTBEAT%EF%BC%88Ende_der_Welt%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ca\ns6%3AHEARTBEAT%EF%BC%88Ende_der_Welt%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Ende_der_Welt | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Ende_der_Welt | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [HEARTBEAT（Ende der Welt）](./HEARTBEAT（Ende_der_Welt）.md)  
-该封面包含的角色：- [秦心](./秦心.md)
-
-
-
+- [HEARTBEAT（Ende der Welt）](./HEARTBEAT（Ende_der_Welt）.md)该封面包含的角色：
+- [秦心](./秦心.md)
 
 
 ---

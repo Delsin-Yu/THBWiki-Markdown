@@ -1,34 +1,26 @@
 # Magical_Storm
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\9\93\ns0%3AMagical_Storm.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\9\93\ns0%3AMagical_Storm.html -->
 
 由 ZUN 创作的官方曲目，原名 マジカルストーム
 
 本页是关于东方Project  
- **原作音乐** 的词条
-
+**原作音乐**的词条
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 出现作品](#出现作品)
 - [3 音乐文件](#音乐文件)
-
   - [3.1 东方辉针城](#东方辉针城)
 
 
-
 - [4 说明文本](#说明文本)
-
   - [4.1 东方辉针城](#东方辉针城_2)
 
 
-
 - [5 其他资料](#其他资料)
-
   - [5.1 乐理资讯](#乐理资讯)
-
     - [5.1.1 使用乐器](#使用乐器)
-
 
 
   - [5.2 分析考据](#分析考据)
@@ -37,22 +29,16 @@
 
 
 
-
-
-
-
 ## 基本信息
 
-<table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">マジカルストーム</td></tr><tr><td><b>译名</b></td><td>Magical Storm</td></tr><tr><td><b>其他译名</b></td><td>魔法风暴<br>魔力的风暴</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>关联</td></tr><tr><td style="padding-left:15px"><b>原曲</b></td><td><a href="./幻想浄瑠璃.md" class="mw-redirect" title="幻想浄瑠璃">幻想浄瑠璃</a></td></tr><tr><td style="padding-left:15px"><b>　来源</b></td><td>东方辉针城　～ Double Dealing Character.</td></tr></tbody></table>
+<table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">マジカルストーム</td></tr><tr><td><b>译名</b></td><td>Magical Storm</td></tr><tr><td><b>其他译名</b></td><td>魔法风暴<br>魔力的风暴</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>关联</td></tr><tr><td style="padding-left:15px"><b>原曲</b></td><td><a href="./幻想净琉璃.md" class="mw-redirect" title="幻想浄瑠璃">幻想浄瑠璃</a></td></tr><tr><td style="padding-left:15px"><b>　来源</b></td><td>东方辉针城　～ Double Dealing Character.</td></tr></tbody></table>
 
 Magical Storm（曲目） - 由 ZUN 创作的官方曲目，原名 マジカルストーム
-
 ## 出现作品
 
 <table>
 <tbody><tr><td>2013年8月12日（Comic Market 84）</td><td><b><a href="./东方辉针城.md" title="东方辉针城">东方辉针城</a>正式版</b></td><td>4面主题曲</td><td style="padding-left:5px;">マジカルストーム（Magical Storm）</td><td style="padding-left:10px;">作曲：ZUN</td></tr>
 </tbody></table>
-
 
 
 ## 音乐文件
@@ -67,11 +53,11 @@ Magical Storm（曲目） - 由 ZUN 创作的官方曲目，原名 マジカル�
 </td></tr></tbody></table>
 
 
-
 ## 说明文本
 
 ### 东方辉针城
-- Music Room (未找到链接)
+
+- [Music Room](./东方辉针城-Music.md#4面主题曲)
 
 4面的主题曲。  
   
@@ -79,12 +65,12 @@ Magical Storm（曲目） - 由 ZUN 创作的官方曲目，原名 マジカル�
 表现出了有些不可思议的浮游感。  
 明明是暴风雨却轻飘飘的……。  
 顾名思义，真是沉不住气的感觉呢。
-
 ## 其他资料
 
 ### 乐理资讯
 
 #### 使用乐器
+
 - SD-90Tenor Sax
 - SD-90 St.Harpsichd
 - SD-90 St.Slow Str
@@ -97,21 +83,22 @@ Magical Storm（曲目） - 由 ZUN 创作的官方曲目，原名 マジカル�
 
 ### 分析考据
   
- **マジカルストーム**  Magical Storm
+**マジカルストーム** Magical Storm
   
 
-- マジカルストーム（Magical Storm）
+- マジカルストーム（Magical Storm） 
   - 魔法风暴、魔力的风暴。
-  - [东方辉针城](./东方辉针城.md)四面和EX面场景名称皆为「幻想郷上空（嵐）」。
+  - [东方辉针城](./东方辉针城.md)四面和EX面场景名称皆为「幻想郷上空（嵐）」。 
     - 设定中由于小槌魔力的影响，[幻想乡](./幻想乡.md)中的草根妖怪、付丧神都变得凶暴，意图「下克上」。
-    - 联系EX面道中曲[魔力的雷云](./魔力的雷云.md)、符卡[弦乐「风暴的合奏」](./弦乐「风暴的合奏」.md)。
+    - 联系EX面道中曲[魔力的雷云](./魔力的雷云.md)、符卡[弦乐「风暴的合奏」](./风暴的合奏.md)。
 
 
 
-[](./文件-辉针城4面场景.png.md)  [](./文件-辉针城4面场景.png.md)辉针城4面场景
 
+
+<img alt="" src="https://upload.thwiki.cc/thumb/c/ce/%E8%BE%89%E9%92%88%E5%9F%8E4%E9%9D%A2%E5%9C%BA%E6%99%AF.png/300px-%E8%BE%89%E9%92%88%E5%9F%8E4%E9%9D%A2%E5%9C%BA%E6%99%AF.png" decoding="async" loading="lazy" width="300" height="94" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/c/ce/%E8%BE%89%E9%92%88%E5%9F%8E4%E9%9D%A2%E5%9C%BA%E6%99%AF.png/450px-%E8%BE%89%E9%92%88%E5%9F%8E4%E9%9D%A2%E5%9C%BA%E6%99%AF.png 1.5x, https://upload.thwiki.cc/c/ce/%E8%BE%89%E9%92%88%E5%9F%8E4%E9%9D%A2%E5%9C%BA%E6%99%AF.png 2x" data-file-width="467" data-file-height="146">
+ [放大](./文件-辉针城4面场景.png.md)辉针城4面场景
 <table><tbody><tr class="tt-remark" id="Stage_4-1" data-pos="&#91;&quot;Stage 4&quot;,1&#93;"><td id="" class="tt-remark" lang="zh"><div class="poem"></div></td><td class="tt-ja" lang="ja"><div class="poem">嵐の中の不協和音<br>Stormy Discord</div></td><td class="tt-zh" lang="zh"><div class="poem">风暴中的不协和音<br><br>Stormy Discord</div></td></tr><tr class="tt-header-white" id="Stage_4-2" data-pos="&#91;&quot;Stage 4&quot;,2&#93;"><td id="" class="tt-w" lang="zh"><div class="poem"></div></td><td class="tt-jaw" lang="ja"><div class="poem">幻想郷上空（嵐）</div></td><td class="tt-zhw" lang="zh"><div class="poem">幻想乡上空（风暴）</div></td></tr></tbody></table>
-
 
 
 ### 二次同人数据
@@ -126,17 +113,6 @@ Magical Storm（曲目） - 由 ZUN 创作的官方曲目，原名 マジカル�
 <tr><td>Arrange</td><td>73</td></tr>
 <tr><td>Vocal率</td><td>32.41%</td></tr>
 </tbody></table>
-
-
-
-
-  
-  
-
-  
-
-
-
 
 
 ---

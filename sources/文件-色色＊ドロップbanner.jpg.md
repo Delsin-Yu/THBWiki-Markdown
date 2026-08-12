@@ -1,18 +1,13 @@
 # 文件:色色＊ドロップbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b3\ns6%3A%E8%89%B2%E8%89%B2%EF%BC%8A%E3%83%89%E3%83%AD%E3%83%83%E3%83%97banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b3\ns6%3A%E8%89%B2%E8%89%B2%EF%BC%8A%E3%83%89%E3%83%AD%E3%83%83%E3%83%97banner%2Ejpg.html -->
 
 社团LOGO | 色色＊ドロップ
 
 
 ## 文件说明
   
-源地址：[[1]](https://wox.cc/user/hakuro/o/banner.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://wox.cc/user/hakuro/o/banner.jpg)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:客星は汀に惑う_Last_preview封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5a\ns6%3A%E5%AE%A2%E6%98%9F%E3%81%AF%E6%B1%80%E3%81%AB%E6%83%91%E3%81%86_Last_preview%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5a\ns6%3A%E5%AE%A2%E6%98%9F%E3%81%AF%E6%B1%80%E3%81%AB%E6%83%91%E3%81%86_Last_preview%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 DEMOUR402 | 同人志封面 | 封面图片
 
@@ -9,9 +9,6 @@ DEMOUR402 | 同人志封面 | 封面图片
   
 
 - [客星は汀に惑う Last preview](./客星は汀に惑う_Last_preview.md)
-
-
-
 
 
 ---

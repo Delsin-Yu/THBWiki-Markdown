@@ -1,27 +1,27 @@
 # 东方Project人气投票/第六回/作品部门
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\2d\ns0%3A%E4%B8%9C%E6%96%B9Project%E4%BA%BA%E6%B0%94%E6%8A%95%E7%A5%A8%2F%E7%AC%AC%E5%85%AD%E5%9B%9E%2F%E4%BD%9C%E5%93%81%E9%83%A8%E9%97%A8.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\2d\ns0%3A%E4%B8%9C%E6%96%B9Project%E4%BA%BA%E6%B0%94%E6%8A%95%E7%A5%A8%2F%E7%AC%AC%E5%85%AD%E5%9B%9E%2F%E4%BD%9C%E5%93%81%E9%83%A8%E9%97%A8.html -->
 
 东方Project人气投票
 
 <center>
-
 <table>
 <tbody><tr>
-<td>&lt;
+<td><
 </td>
-<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./东方Project人气投票-第五回-作品部门.md" title="东方Project人气投票/第五回/作品部门">第五回</a>&#160;
+<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./东方Project人气投票-第五回-作品部门.md" title="东方Project人气投票/第五回/作品部门">第五回</a> 
 </td>
-<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="./东方Project人气投票.md" title="东方Project人气投票">东方Project人气投票</a>（作品部门）&#160;
+<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;"> <a href="./东方Project人气投票.md" title="东方Project人气投票">东方Project人气投票</a>（作品部门） 
 </td>
-<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left">&#160;<a href="./东方Project人气投票-第七回-作品部门.md" title="东方Project人气投票/第七回/作品部门">第七回</a>
+<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left"> <a href="./东方Project人气投票-第七回-作品部门.md" title="东方Project人气投票/第七回/作品部门">第七回</a>
 </td>
-<td>&gt;
+<td>>
 </td></tr></tbody></table>
 
   
 </center>
 - 本页面为作品部门的票数排行简表，本命加权是指1位票算3票，2位票算2票，3位票算1票。
+
 
 - 总有效票数5760
 
@@ -881,10 +881,6 @@
 <td>0</td>
 <td>0%
 </td></tr></tbody></table>
-
-
-
-
 
 
 ---

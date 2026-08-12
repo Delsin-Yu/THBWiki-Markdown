@@ -1,14 +1,11 @@
 # 文件:Karasulogo.jpeg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\07\ns6%3AKarasulogo%2Ejpeg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\07\ns6%3AKarasulogo%2Ejpeg.html -->
 
 Karasu | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

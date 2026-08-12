@@ -1,13 +1,8 @@
 # 黄昏边境/PS4版东方深秘录
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\c\c1\ns0%3A%E9%BB%84%E6%98%8F%E8%BE%B9%E5%A2%83%2FPS4%E7%89%88%E4%B8%9C%E6%96%B9%E6%B7%B1%E7%A7%98%E5%BD%95.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\c\c1\ns0%3A%E9%BB%84%E6%98%8F%E8%BE%B9%E5%A2%83%2FPS4%E7%89%88%E4%B8%9C%E6%96%B9%E6%B7%B1%E7%A7%98%E5%BD%95.html -->
 
 东方深秘录 | 使用了翻译表的页面 | 黄昏边境
-
-  
-  
-
-  
 
 
 ## 目录
@@ -19,23 +14,17 @@
 - [5 词条导航](#词条导航)
 
 
-
-
-
 ## 介绍
   
-<big> **东方深秘录** </big>（東方深秘録）
+<big>**东方深秘录**</big>（東方深秘録）
   
 
 - 页面地址：[http://tasofro.net/touhou145ps4/index.html](http://tasofro.net/touhou145ps4/index.html)
-- 页面状态： **有效** 
+- 页面状态：**有效**
 
   
-社团黄昏边境的 **PS4版[东方深秘录](./东方深秘录.md)** 官方网站。
+社团黄昏边境的**PS4版[东方深秘录](./东方深秘录.md)**官方网站。
   
-
-
-## 导航
 
 <table>
 
@@ -69,23 +58,10 @@
 </td></tr></tbody></table>
 
 
-
 ## 内容
-[](./文件-东方深秘录（PS4）coverB.jpg.md)
+<img alt="东方深秘录（PS4）coverB.jpg" src="https://upload.thwiki.cc/thumb/4/4e/%E4%B8%9C%E6%96%B9%E6%B7%B1%E7%A7%98%E5%BD%95%EF%BC%88PS4%EF%BC%89coverB.jpg/300px-%E4%B8%9C%E6%96%B9%E6%B7%B1%E7%A7%98%E5%BD%95%EF%BC%88PS4%EF%BC%89coverB.jpg" decoding="async" loading="lazy" width="300" height="324" srcset="https://upload.thwiki.cc/thumb/4/4e/%E4%B8%9C%E6%96%B9%E6%B7%B1%E7%A7%98%E5%BD%95%EF%BC%88PS4%EF%BC%89coverB.jpg/450px-%E4%B8%9C%E6%96%B9%E6%B7%B1%E7%A7%98%E5%BD%95%EF%BC%88PS4%EF%BC%89coverB.jpg 1.5x, https://upload.thwiki.cc/thumb/4/4e/%E4%B8%9C%E6%96%B9%E6%B7%B1%E7%A7%98%E5%BD%95%EF%BC%88PS4%EF%BC%89coverB.jpg/600px-%E4%B8%9C%E6%96%B9%E6%B7%B1%E7%A7%98%E5%BD%95%EF%BC%88PS4%EF%BC%89coverB.jpg 2x" data-file-width="1920" data-file-height="2074">
 
 <table><tbody><tr class="tt-content-header" id="内容-1" data-pos="&#91;&quot;\u5185\u5bb9&quot;,1&#93;"><td class="tt-jah" lang="ja"><div class="poem">都市伝説は終わらない──東方の決闘は地に足つかず。</div></td><td class="tt-zhh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-content" id="内容-2" data-pos="&#91;&quot;\u5185\u5bb9&quot;,2&#93;"><td class="tt-ja" lang="ja"><div class="poem">人気同人ゲーム「東方Project」シリーズから、空中を舞台に繰り広げられる異色の対戦ゲーム「東方深秘録」の移植が実現！<br>人間と妖怪の共存する「幻想郷」に突如、都市伝説の噂が現実になるという異常事態が発生。<br>異変と共に現れたオカルトボールと思惑をめぐって、華麗なアクションが、弾幕が、スペルカードがぶつかり合う、オカルトボール争奪戦が繰り広げられる！<br>パソコン版から新たなキャラとストーリーも加わり、さらにパワーアップした空中弾幕対戦アクションをPlayStation®4で堪能しよう！</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr></tbody></table>
-
-
-
-
-## 词条导航
-  
-  
-
-  
-
-
-
 
 
 ---

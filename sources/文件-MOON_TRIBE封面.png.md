@@ -1,6 +1,6 @@
 # 文件:MOON_TRIBE封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ce\ns6%3AMOON_TRIBE%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ce\ns6%3AMOON_TRIBE%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 梶迫小道具店
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [MOON TRIBE](./MOON_TRIBE.md)  
-该封面包含的角色：- [纯狐](./纯狐.md)
+- [MOON TRIBE](./MOON_TRIBE.md)该封面包含的角色：
+- [纯狐](./纯狐.md)
 
   
-源地址：[[1]](http://static.tumblr.com/afb09d67e9940ae5d04f9ca729c067b5/ceutwp6/MEanyldcx/tumblr_static_28ohsu9n1000c44cww080s0cc.png)
-  
-
-
-
-
+源地址：[\[1\]](http://static.tumblr.com/afb09d67e9940ae5d04f9ca729c067b5/ceutwp6/MEanyldcx/tumblr_static_28ohsu9n1000c44cww080s0cc.png)  
 
 ---
 

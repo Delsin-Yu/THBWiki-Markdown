@@ -1,14 +1,11 @@
 # 文件:东方潮圣书st4.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4c\ns6%3A%E4%B8%9C%E6%96%B9%E6%BD%AE%E5%9C%A3%E4%B9%A6st4%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4c\ns6%3A%E4%B8%9C%E6%96%B9%E6%BD%AE%E5%9C%A3%E4%B9%A6st4%2Epng.html -->
 
 Team_Urban_Magic
 
 
 ## 文件说明
-
-
-
 
 ---
 

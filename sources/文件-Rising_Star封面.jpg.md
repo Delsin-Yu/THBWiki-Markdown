@@ -1,6 +1,6 @@
 # 文件:Rising_Star封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\41\ns6%3ARising_Star%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\41\ns6%3ARising_Star%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Pizuya's_Cell | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Pizuya's_Cell | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Rising Star](./Rising_Star.md)  
-该封面包含的角色：- [风见幽香](./风见幽香.md)
-
-
-
+- [Rising Star](./Rising_Star.md)该封面包含的角色：
+- [风见幽香](./风见幽香.md)
 
 
 ---

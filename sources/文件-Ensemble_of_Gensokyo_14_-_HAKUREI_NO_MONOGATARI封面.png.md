@@ -1,6 +1,6 @@
 # 文件:Ensemble_of_Gensokyo_14_-_HAKUREI_NO_MONOGATARI封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8e\ns6%3AEnsemble_of_Gensokyo_14_-_HAKUREI_NO_MONOGATARI%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8e\ns6%3AEnsemble_of_Gensokyo_14_-_HAKUREI_NO_MONOGATARI%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Dex_Hexallion | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Dex_Hexallion | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Ensemble of Gensokyo 14 - HAKUREI NO MONOGATARI](./Ensemble_of_Gensokyo_14_-_HAKUREI_NO_MONOGATARI.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [Ensemble of Gensokyo 14 - HAKUREI NO MONOGATARI](./Ensemble_of_Gensokyo_14_-_HAKUREI_NO_MONOGATARI.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Touhou_Ambient_Project_XII封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\79\ns6%3ATouhou_Ambient_Project_XII%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\79\ns6%3ATouhou_Ambient_Project_XII%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Stas_Gavrik | 专辑封面 | 封面图片
 
@@ -10,16 +10,12 @@ Stas_Gavrik | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Touhou Ambient Project XII](./Touhou_Ambient_Project_XII.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)- [蕾蒂·霍瓦特洛克](./蕾蒂·霍瓦特洛克.md)
+- [Touhou Ambient Project XII](./Touhou_Ambient_Project_XII.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
+- [蕾蒂·霍瓦特洛克](./蕾蒂·霍瓦特洛克.md)
 
   
-源地址：[direct image link (10 size)](https://f4.bcbits.com/img/a3842015725_10.jpg), [from artist bandcamp](https://stasgavrik.bandcamp.com/album/touhou-ambient-project-xii)
-  
-
-
-
-
+源地址：[direct image link (10 size)](https://f4.bcbits.com/img/a3842015725_10.jpg), [from artist bandcamp](https://stasgavrik.bandcamp.com/album/touhou-ambient-project-xii)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:UNTITLED：2021.3.21.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f4\ns6%3AUNTITLED%EF%BC%9A2021%2E3%2E21%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f4\ns6%3AUNTITLED%EF%BC%9A2021%2E3%2E21%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 オランジュ停留所 | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [UNTITLED：2021.3.21.](./UNTITLED：2021.3.21..md)  
-该封面包含的角色：- [幽香](./幽香.md)
-
-
-
+- [UNTITLED：2021.3.21.](./UNTITLED：2021.3.21..md)该封面包含的角色：
+- [幽香](./幽香.md)
 
 
 ---

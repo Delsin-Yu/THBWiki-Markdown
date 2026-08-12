@@ -1,12 +1,8 @@
 # 文件:4C-Fantasy_banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\be\ns6%3A4C-Fantasy_banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\be\ns6%3A4C-Fantasy_banner%2Epng.html -->
 
 4C-Fantasy | 社团LOGO
-
-
-
-
 
 
 ---

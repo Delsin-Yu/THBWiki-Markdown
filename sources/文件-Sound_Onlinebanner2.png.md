@@ -1,14 +1,11 @@
 # 文件:Sound_Onlinebanner2.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\66\ns6%3ASound_Onlinebanner2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\66\ns6%3ASound_Onlinebanner2%2Epng.html -->
 
 Sound_Online | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

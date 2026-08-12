@@ -1,6 +1,6 @@
 # 文件:ENGAGE_DIRECTOR'S_CUT封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8d\ns6%3AENGAGE_DIRECTOR%27S_CUT%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8d\ns6%3AENGAGE_DIRECTOR%27S_CUT%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ビタミンごはん | 专辑封面 | 封面图片
 
@@ -8,16 +8,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [ENGAGE DIRECTOR'S CUT](./ENGAGE_DIRECTOR'S_CUT.md)  
-该封面包含的角色：- [因幡帝](./因幡帝.md)
+- [ENGAGE DIRECTOR'S CUT](./ENGAGE_DIRECTOR'S_CUT.md)该封面包含的角色：
+- [因幡帝](./因幡帝.md)
 
   
 from TLMC scans (edited)
   
-
-
-
-
 
 ---
 

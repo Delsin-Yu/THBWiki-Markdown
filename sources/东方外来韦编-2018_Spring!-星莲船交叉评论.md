@@ -1,15 +1,14 @@
 # 东方外来韦编/2018_Spring!/星莲船交叉评论
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\b3\ns0%3A%E4%B8%9C%E6%96%B9%E5%A4%96%E6%9D%A5%E9%9F%A6%E7%BC%96%2F2018_Spring%21%2F%E6%98%9F%E8%8E%B2%E8%88%B9%E4%BA%A4%E5%8F%89%E8%AF%84%E8%AE%BA.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\b3\ns0%3A%E4%B8%9C%E6%96%B9%E5%A4%96%E6%9D%A5%E9%9F%A6%E7%BC%96%2F2018_Spring%21%2F%E6%98%9F%E8%8E%B2%E8%88%B9%E4%BA%A4%E5%8F%89%E8%AF%84%E8%AE%BA.html -->
 
 东方外来韦编 | 引用了翻译表的页面
 
-- 本词条为中文翻译版，如需要日文对照请参见 **[中日对照](./东方外来韦编-2018_Spring!-星莲船交叉评论-中日对照.md)** 。
+
+- 本词条为中文翻译版，如需要日文对照请参见**[中日对照](./东方外来韦编-2018_Spring!-星莲船交叉评论-中日对照.md)**。
 - 该内容于杂志中页数：034-035
 
- **<big><big>东方星莲船全关卡Cross Review</big></big>** 
-关于「星莲船」的关卡与BOSS，有识之士的回顾。早苗小姐，好像保护者们的话反而比较多呢？
-
+**<big><big>东方星莲船全关卡Cross Review</big></big>**关于「星莲船」的关卡与BOSS，有识之士的回顾。早苗小姐，好像保护者们的话反而比较多呢？
 <table>
 
 <tbody><tr>
@@ -19,7 +18,7 @@
 </th>
 <th style="width: 13%">Stage 2<br><div class="tt-zh tt-type-dialogue" lang="zh"><div class="poem"><a href="./多多良小伞.md" title="多多良小伞">多多良小伞</a></div></div>
 </th>
-<th style="width: 13%">Stage 3<br><div class="tt-zh tt-type-dialogue" lang="zh"><div class="poem"><a href="./云居一轮.md" title="云居一轮">云居一轮</a>&amp;<a href="./云山.md" title="云山">云山</a></div></div>
+<th style="width: 13%">Stage 3<br><div class="tt-zh tt-type-dialogue" lang="zh"><div class="poem"><a href="./云居一轮.md" title="云居一轮">云居一轮</a>&<a href="./云山.md" title="云山">云山</a></div></div>
 </th>
 <th style="width: 13%">Stage 4<br><div class="tt-zh tt-type-dialogue" lang="zh"><div class="poem"><a href="./村纱水蜜.md" title="村纱水蜜">村纱水蜜</a></div></div>
 </th>
@@ -36,7 +35,7 @@
 </td>
 <td><div class="tt-zh tt-type-dialogue" lang="zh"><div class="poem">这家伙根本没有成长对吧。反正付丧神也就如此了吗。<br>（5）</div></div>
 </td>
-<td><div class="tt-zh tt-type-dialogue" lang="zh"><div class="poem">之前把云山借给我真是多谢了<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">1</a></sup>。有机会再拜托你啦——。<br>（9）</div></div>
+<td><div class="tt-zh tt-type-dialogue" lang="zh"><div class="poem">之前把云山借给我真是多谢了<span>[^cite_note-1]</span>。有机会再拜托你啦——。<br>（9）</div></div>
 </td>
 <td><div class="tt-zh tt-type-dialogue" lang="zh"><div class="poem">因为是飞在空中的船所以就不会被弄沉吗。<br>（5）</div></div>
 </td>
@@ -64,7 +63,7 @@
 <td><div class="tt-zh tt-type-dialogue" lang="zh"><div class="poem">知晓了真相不明的真相的这件事，虽然一开始觉得太好了不过到了现在又觉得有点遗憾。<br>（7）</div></div>
 </td></tr>
 <tr>
-<th><div class="tt-zh tt-type-dialogue" lang="zh"><div class="poem"><a href="./东风谷早苗.md" title="东风谷早苗">早苗</a>&amp;<a href="./八坂神奈子.md" title="八坂神奈子">神奈子</a>&amp;<a href="./洩矢诹访子.md" title="洩矢诹访子">诹访子</a></div></div><div class="tt-zh tt-type-dialogue" lang="zh"><div class="poem">守矢神社的祭神。<br>因为早苗得意忘形过头了所以祖先们也大出动。</div></div>
+<th><div class="tt-zh tt-type-dialogue" lang="zh"><div class="poem"><a href="./东风谷早苗.md" title="东风谷早苗">早苗</a>&<a href="./八坂神奈子.md" title="八坂神奈子">神奈子</a>&<a href="./洩矢诹访子.md" title="洩矢诹访子">诹访子</a></div></div><div class="tt-zh tt-type-dialogue" lang="zh"><div class="poem">守矢神社的祭神。<br>因为早苗得意忘形过头了所以祖先们也大出动。</div></div>
 </th>
 <td><div class="tt-zh tt-type-dialogue" lang="zh"><div class="poem">早苗「作为第一次来说不觉得我做的很好吗？」<br>神奈子「早苗也终于能够独当一面了，虽然是很想这么说啦」<br>诹访子「果然还是希望能有更多的冲击力呢，轰隆地！」<br>（可）</div></div>
 </td>
@@ -72,7 +71,7 @@
 </td>
 <td><div class="tt-zh tt-type-dialogue" lang="zh"><div class="poem">诹访子「不过，降伏妖怪本身很新鲜，早苗也很开心的样子呢」<br>神奈子「不管怎么说享受乐趣都是非常重要的事情呢」<br>早苗「就是说嘛，就是说嘛！」<br>（良）</div></div>
 </td>
-<td><div class="tt-zh tt-type-dialogue" lang="zh"><div class="poem">神奈子「说起来，我以前也在用船当御神体的神社<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">2</a></sup>来着」<br>早苗「用船，吗？」<br>诹访子「结果，船夫太多的船，还是登到了山上去<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">3</a></sup>呢」<br>（良）</div></div>
+<td><div class="tt-zh tt-type-dialogue" lang="zh"><div class="poem">神奈子「说起来，我以前也在用船当御神体的神社<span>[^cite_note-2]</span>来着」<br>早苗「用船，吗？」<br>诹访子「结果，船夫太多的船，还是登到了山上去<span>[^cite_note-3]</span>呢」<br>（良）</div></div>
 </td>
 <td><div class="tt-zh tt-type-dialogue" lang="zh"><div class="poem">早苗「命莲寺那边，是用这个妖怪来当作御神体呢」<br>神奈子「真可怜啊」<br>诹访子「能够让人们崇敬的山啊湖啊都没有，就会变成这个样子吗」<br>（可）</div></div>
 </td>
@@ -98,13 +97,9 @@
 <td><div class="tt-zh tt-type-dialogue" lang="zh"><div class="poem">其实作为外星人的小灰人作为BOSS登场的可能性也很高，如果外星人登场的话东方的可能性也会更加被扩展开来也说不定呢。要替UFO为什么会飞在空中找一个理由，难道真的是UFO吗，和其实是真相不明的鵺是其真相吗这两方有着巨大的差距。像鵺的就只有最后的弹幕而已，除此之外的是什么都有的感觉。</div></div>
 </td></tr></tbody></table>
 
-
-
 [^cite_note-1]: 指茨歌仙第44话中灵梦向一轮勒索云山变成御神体的故事。
-
-
-
-
+[^cite_note-2]: 荒船山神社。
+[^cite_note-3]: 出自日本谚语「船頭多くして船山に登る」（船夫太多的船会爬上山）形容出主意的人太多反而办不好事。
 
 ---
 

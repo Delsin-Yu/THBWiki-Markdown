@@ -1,12 +1,8 @@
 # 文件:七色御伽草子banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8a\ns6%3A%E4%B8%83%E8%89%B2%E5%BE%A1%E4%BC%BD%E8%8D%89%E5%AD%90banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8a\ns6%3A%E4%B8%83%E8%89%B2%E5%BE%A1%E4%BC%BD%E8%8D%89%E5%AD%90banner%2Egif.html -->
 
 七色御伽草子 | 社团LOGO
-
-
-
-
 
 
 ---

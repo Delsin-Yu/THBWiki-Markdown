@@ -1,6 +1,6 @@
 # 文件:东方大炮弹LOGO.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cb\ns6%3A%E4%B8%9C%E6%96%B9%E5%A4%A7%E7%82%AE%E5%BC%B9LOGO%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cb\ns6%3A%E4%B8%9C%E6%96%B9%E5%A4%A7%E7%82%AE%E5%BC%B9LOGO%2Epng.html -->
 
 东方大炮弹 | 授权商业二次创作手机游戏
 
@@ -9,10 +9,6 @@
   
 东方大炮弹LOGO
   
-
-
-
-
 
 ---
 

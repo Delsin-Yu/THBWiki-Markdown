@@ -1,6 +1,6 @@
 # 文件:I_Love_You封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\18\ns6%3AI_Love_You%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\18\ns6%3AI_Love_You%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 9bFOX | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [I Love You](./I_Love_You.md)  
-该封面包含的角色：- [莉格露·奈特巴格](./莉格露·奈特巴格.md)- [风见幽香](./风见幽香.md)
-
-
-
+- [I Love You](./I_Love_You.md)该封面包含的角色：
+- [莉格露·奈特巴格](./莉格露·奈特巴格.md)
+- [风见幽香](./风见幽香.md)
 
 
 ---

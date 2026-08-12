@@ -1,12 +1,8 @@
 # 文件:铁拳「入道唰」（DS文花帖）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\09\ns6%3A%E9%93%81%E6%8B%B3%E3%80%8C%E5%85%A5%E9%81%93%E5%94%B0%E3%80%8D%EF%BC%88DS%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\09\ns6%3A%E9%93%81%E6%8B%B3%E3%80%8C%E5%85%A5%E9%81%93%E5%94%B0%E3%80%8D%EF%BC%88DS%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Ejpg.html -->
 
 东方文花帖DS | 云居一轮 | 云山 | 敌机符卡
-
-
-
-
 
 
 ---

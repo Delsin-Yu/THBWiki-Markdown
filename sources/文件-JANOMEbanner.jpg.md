@@ -1,14 +1,11 @@
 # 文件:JANOMEbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\10\ns6%3AJANOMEbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\10\ns6%3AJANOMEbanner%2Ejpg.html -->
 
 JANOME | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

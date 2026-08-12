@@ -1,12 +1,8 @@
 # 文件:弱心「丧心丧意（Demotivation）」（绯想天）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ac\ns6%3A%E5%BC%B1%E5%BF%83%E3%80%8C%E4%B8%A7%E5%BF%83%E4%B8%A7%E6%84%8F%EF%BC%88Demotivation%EF%BC%89%E3%80%8D%EF%BC%88%E7%BB%AF%E6%83%B3%E5%A4%A9%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ac\ns6%3A%E5%BC%B1%E5%BF%83%E3%80%8C%E4%B8%A7%E5%BF%83%E4%B8%A7%E6%84%8F%EF%BC%88Demotivation%EF%BC%89%E3%80%8D%EF%BC%88%E7%BB%AF%E6%83%B3%E5%A4%A9%EF%BC%89%2Ejpg.html -->
 
 东方绯想天 | 自机符卡 | 铃仙·优昙华院·因幡
-
-
-
-
 
 
 ---

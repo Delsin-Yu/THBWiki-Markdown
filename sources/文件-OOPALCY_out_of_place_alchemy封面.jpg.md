@@ -1,6 +1,6 @@
 # 文件:OOPALCY_out_of_place_alchemy封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\52\ns6%3AOOPALCY_out_of_place_alchemy%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\52\ns6%3AOOPALCY_out_of_place_alchemy%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ごんばこんなか | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [OOPALCY out of place alchemy](./OOPALCY_out_of_place_alchemy.md)  
-该封面包含的角色：- [宇佐见堇子](./宇佐见堇子.md)
-
-
-
+- [OOPALCY out of place alchemy](./OOPALCY_out_of_place_alchemy.md)该封面包含的角色：
+- [宇佐见堇子](./宇佐见堇子.md)
 
 
 ---

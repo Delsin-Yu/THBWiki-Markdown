@@ -1,6 +1,6 @@
 # 文件:3in1CD_月に叢雲華に風_(リニューアル版)封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d2\ns6%3A3in1CD_%E6%9C%88%E3%81%AB%E5%8F%A2%E9%9B%B2%E8%8F%AF%E3%81%AB%E9%A2%A8_%28%E3%83%AA%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%A2%E3%83%AB%E7%89%88%29%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d2\ns6%3A3in1CD_%E6%9C%88%E3%81%AB%E5%8F%A2%E9%9B%B2%E8%8F%AF%E3%81%AB%E9%A2%A8_%28%E3%83%AA%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%A2%E3%83%AB%E7%89%88%29%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 幽闭星光
 
@@ -10,11 +10,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [3in1CD 月に叢雲華に風 (リニューアル版)](./3in1CD_月に叢雲華に風_(リニューアル版).md)  
-该封面包含的角色：- [西行寺幽幽子](./西行寺幽幽子.md)- [古明地觉](./古明地觉.md)- [多多良小伞](./多多良小伞.md)
-
-
-
+- [3in1CD 月に叢雲華に風 (リニューアル版)](./3in1CD_月に叢雲華に風_(リニューアル版%29.md)该封面包含的角色：
+- [西行寺幽幽子](./西行寺幽幽子.md)
+- [古明地觉](./古明地觉.md)
+- [多多良小伞](./多多良小伞.md)
 
 
 ---

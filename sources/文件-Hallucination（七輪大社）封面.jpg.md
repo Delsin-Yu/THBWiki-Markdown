@@ -1,6 +1,6 @@
 # 文件:Hallucination（七輪大社）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e3\ns6%3AHallucination%EF%BC%88%E4%B8%83%E8%BC%AA%E5%A4%A7%E7%A4%BE%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e3\ns6%3AHallucination%EF%BC%88%E4%B8%83%E8%BC%AA%E5%A4%A7%E7%A4%BE%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 七輪大社 | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Hallucination（七輪大社）](./Hallucination（七輪大社）.md)  
-该封面包含的角色：- [八云紫](./八云紫.md)
-
-
-
+- [Hallucination（七輪大社）](./Hallucination（七輪大社）.md)该封面包含的角色：
+- [八云紫](./八云紫.md)
 
 
 ---

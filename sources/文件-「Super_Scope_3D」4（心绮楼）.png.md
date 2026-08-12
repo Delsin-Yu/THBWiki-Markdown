@@ -1,12 +1,8 @@
 # 文件:「Super_Scope_3D」4（心绮楼）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b5\ns6%3A%E3%80%8CSuper_Scope_3D%E3%80%8D4%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b5\ns6%3A%E3%80%8CSuper_Scope_3D%E3%80%8D4%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%EF%BC%89%2Epng.html -->
 
 东方心绮楼 | 河城荷取 | 自机符卡
-
-
-
-
 
 
 ---

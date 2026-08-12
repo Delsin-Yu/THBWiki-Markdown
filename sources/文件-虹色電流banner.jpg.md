@@ -1,14 +1,11 @@
 # 文件:虹色電流banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\88\ns6%3A%E8%99%B9%E8%89%B2%E9%9B%BB%E6%B5%81banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\88\ns6%3A%E8%99%B9%E8%89%B2%E9%9B%BB%E6%B5%81banner%2Ejpg.html -->
 
 社团LOGO | 虹色電流
 
 
 ## 摘要
-
-
-
 
 ---
 

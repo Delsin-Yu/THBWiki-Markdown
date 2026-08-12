@@ -1,6 +1,6 @@
 # 文件:Loop（Pearls_Before_Swine）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0d\ns6%3ALoop%EF%BC%88Pearls_Before_Swine%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0d\ns6%3ALoop%EF%BC%88Pearls_Before_Swine%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Pearls_Before_Swine | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Pearls_Before_Swine | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Loop（Pearls Before Swine）](./Loop（Pearls_Before_Swine）.md)  
-该封面包含的角色：- [露娜萨·普莉兹姆利巴](./露娜萨·普莉兹姆利巴.md)
-
-
-
+- [Loop（Pearls Before Swine）](./Loop（Pearls_Before_Swine）.md)该封面包含的角色：
+- [露娜萨·普莉兹姆利巴](./露娜萨·普莉兹姆利巴.md)
 
 
 ---

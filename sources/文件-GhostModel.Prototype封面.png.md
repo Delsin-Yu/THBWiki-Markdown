@@ -1,6 +1,6 @@
 # 文件:GhostModel.Prototype封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6b\ns6%3AGhostModel%2EPrototype%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6b\ns6%3AGhostModel%2EPrototype%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 scarletglory | 专辑封面 | 封面图片
 
@@ -8,10 +8,7 @@ scarletglory | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [GhostModel.Prototype](./GhostModel.Prototype.md)源地址：[[1]](https://booth.pximg.net/ae27f122-8720-46ac-a414-53c92f348066/i/554259/ffc31ec8-21d7-477a-9924-f27dd79dc75c.png)
-
-
-
+- [GhostModel.Prototype](./GhostModel.Prototype.md)源地址：[\[1\]](https://booth.pximg.net/ae27f122-8720-46ac-a414-53c92f348066/i/554259/ffc31ec8-21d7-477a-9924-f27dd79dc75c.png)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:東方仮音源_ver1.02封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3c\ns6%3A%E6%9D%B1%E6%96%B9%E4%BB%AE%E9%9F%B3%E6%BA%90_ver1%2E02%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3c\ns6%3A%E6%9D%B1%E6%96%B9%E4%BB%AE%E9%9F%B3%E6%BA%90_ver1%2E02%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 まぐなむお～ぱす | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@
   
 
 - [東方仮音源 ver1.02](./東方仮音源_ver1.02.md)
-
-
-
 
 
 ---

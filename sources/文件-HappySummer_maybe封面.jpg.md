@@ -1,6 +1,6 @@
 # 文件:HappySummer_maybe封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\72\ns6%3AHappySummer_maybe%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\72\ns6%3AHappySummer_maybe%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 BAT☆STAR | 同人志封面 | 封面图片
 
@@ -10,16 +10,13 @@ BAT☆STAR | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [HappySummer maybe](./HappySummer_maybe.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [雾雨魔理沙](./雾雨魔理沙.md)
+- [HappySummer maybe](./HappySummer_maybe.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-[Pixiv artwork ID: 34237050 (original size)](https://www.pixiv.net/artworks/34237050)
-  
-
-
-
-
+[Pixiv artwork ID: 34237050 (original size)](https://www.pixiv.net/artworks/34237050)  
 
 ---
 

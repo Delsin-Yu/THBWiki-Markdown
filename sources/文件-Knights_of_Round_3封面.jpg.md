@@ -1,6 +1,6 @@
 # 文件:Knights_of_Round_3封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\34\ns6%3AKnights_of_Round_3%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\34\ns6%3AKnights_of_Round_3%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Knights_of_Round | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Knights_of_Round | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Knights of Round 3](./Knights_of_Round_3.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)
-
-
-
+- [Knights of Round 3](./Knights_of_Round_3.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
 
 
 ---

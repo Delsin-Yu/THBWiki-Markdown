@@ -1,12 +1,11 @@
 # It
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\fd\ns0%3AIt.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\fd\ns0%3AIt.html -->
 
 2024年6月22日 由 2nd Flush  发布的EP同人专辑，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人专辑 (未找到链接)** 的词条
-
+**[二次创作同人专辑](./二次创作.md#同人音乐)**的词条
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-It封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/2/24/It%E5%B0%81%E9%9D%A2.jpg/196px-It%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="196" height="196" srcset="https://upload.thwiki.cc/thumb/2/24/It%E5%B0%81%E9%9D%A2.jpg/294px-It%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/2/24/It%E5%B0%81%E9%9D%A2.jpg/392px-It%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="500" data-file-height="500"></a><div class="cover-char">角色：<a href="./帕秋莉·诺蕾姬.md" title="帕秋莉·诺蕾姬">帕秋莉·诺蕾姬</a></div></td>
@@ -14,38 +13,26 @@
 </tr><tr><td class="label">首发日期</td><td>未知</td></tr><tr><td class="label">类型</td><td>EP</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>4</td></tr><tr><td class="label">总时长</td><td>00:00</td></tr></tbody></table>
 
 It（同人专辑，2nd Flush） - 2024年6月22日 由 2nd Flush  发布的EP同人专辑，分级为 一般向
-
 ## Staff
   
- **Arrangement**   
+**Arrangement**  
 
-<table><tbody><tr><td><a href="/index.php?title=%E7%A7%8B%E3%83%8E&amp;action=edit&amp;redlink=1" class="new" title="秋ノ（页面不存在）">秋ノ</a></td><td><a href="./2nd_Flush.md" title="2nd Flush">2nd Flush</a></td><td>Tr.1-4</td></tr></tbody></table>
-
+<table><tbody><tr><td><a class="new" title="秋ノ（页面不存在）">秋ノ</a></td><td><a href="./2nd_Flush.md" title="2nd Flush">2nd Flush</a></td><td>Tr.1-4</td></tr></tbody></table>
 
 Illustration
 : 秋野かえで （青空の卵 (未找到链接)）
 
-
 ## 试听
-  
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/87986084&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=false"></iframe>
-
-  
-
 
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Penetration_path" colspan="2" class="title">Penetration path<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=秋ノ&amp;ogmusic=神々が恋した幻想郷&amp;fromwiki=It"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E7%A7%8B%E3%83%8E&amp;action=edit&amp;redlink=1" class="new" title="秋ノ（页面不存在）">秋ノ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，秋ノ&amp;fromwiki=It"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=神々が恋した幻想郷&amp;fromwiki=It"><span></span></a></span><div class="ogmusic"><a href="./神々が恋した幻想郷.md" class="mw-redirect" title="神々が恋した幻想郷">神々が恋した幻想郷</a></div><div class="source"><a href="./东方风神录_～_Mountain_of_Faith..md" class="mw-redirect" title="东方风神录 ～ Mountain of Faith.">东方风神录　～ Mountain of Faith.</a></div></td></tr>
-<tr><td id="2" class="infoYD"><b>02</b></td><td id="Black_passage" colspan="2" class="title">Black passage<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=秋ノ&amp;ogmusic=厄神様の通り道　～ Dark Road&amp;fromwiki=It"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E7%A7%8B%E3%83%8E&amp;action=edit&amp;redlink=1" class="new" title="秋ノ（页面不存在）">秋ノ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，秋ノ&amp;fromwiki=It"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=厄神様の通り道　～ Dark Road&amp;fromwiki=It"><span></span></a></span><div class="ogmusic"><a href="./厄神様の通り道_～_Dark_Road.md" class="mw-redirect" title="厄神様の通り道 ～ Dark Road">厄神様の通り道　～ Dark Road</a></div><div class="source"><a href="./东方风神录_～_Mountain_of_Faith..md" class="mw-redirect" title="东方风神录 ～ Mountain of Faith.">东方风神录　～ Mountain of Faith.</a></div></td></tr>
-<tr><td id="3" class="infoYD"><b>03</b></td><td id="Infinite_account_of_a_trip_Ver.2" colspan="2" class="title">Infinite account of a trip Ver.2<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=秋ノ&amp;ogmusic=ヴォヤージュ1969，ヴォヤージュ1970&amp;fromwiki=It"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E7%A7%8B%E3%83%8E&amp;action=edit&amp;redlink=1" class="new" title="秋ノ（页面不存在）">秋ノ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，秋ノ&amp;fromwiki=It"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=ヴォヤージュ1969，ヴォヤージュ1970&amp;fromwiki=It"><span></span></a></span><div class="ogmusic"><a href="./ヴォヤージュ1969.md" class="mw-redirect" title="ヴォヤージュ1969">ヴォヤージュ1969</a></div><div class="ogmusic"><a href="./ヴォヤージュ1970.md" class="mw-redirect" title="ヴォヤージュ1970">ヴォヤージュ1970</a></div><div class="source"><a href="./东方永夜抄_～_Imperishable_Night..md" class="mw-redirect" title="东方永夜抄 ～ Imperishable Night.">东方永夜抄　～ Imperishable Night.</a></div></td></tr>
-<tr><td id="4" class="infoYD"><b>04</b></td><td id="Muriyari_Rock_Ver.2" colspan="2" class="title">Muriyari Rock Ver.2<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=秋ノ&amp;ogmusic=上海紅茶館　～ Chinese Tea&amp;fromwiki=It"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E7%A7%8B%E3%83%8E&amp;action=edit&amp;redlink=1" class="new" title="秋ノ（页面不存在）">秋ノ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，秋ノ&amp;fromwiki=It"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=上海紅茶館　～ Chinese Tea&amp;fromwiki=It"><span></span></a></span><div class="ogmusic"><a href="./上海紅茶館_～_Chinese_Tea.md" class="mw-redirect" title="上海紅茶館 ～ Chinese Tea">上海紅茶館　～ Chinese Tea</a></div><div class="source"><a href="./东方红魔乡_～_the_Embodiment_of_Scarlet_Devil..md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr></tbody></table>
-
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Penetration_path" colspan="2" class="title">Penetration path</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="秋ノ（页面不存在）">秋ノ</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./众神眷恋的幻想乡.md" class="mw-redirect" title="神々が恋した幻想郷">神々が恋した幻想郷</a></div><div class="source"><a href="./东方风神录.md" class="mw-redirect" title="东方风神录 ～ Mountain of Faith.">东方风神录　～ Mountain of Faith.</a></div></td></tr>
+<tr><td id="2" class="infoYD"><b>02</b></td><td id="Black_passage" colspan="2" class="title">Black passage</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="秋ノ（页面不存在）">秋ノ</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./厄神降临之路_～_Dark_Road.md" class="mw-redirect" title="厄神様の通り道 ～ Dark Road">厄神様の通り道　～ Dark Road</a></div><div class="source"><a href="./东方风神录.md" class="mw-redirect" title="东方风神录 ～ Mountain of Faith.">东方风神录　～ Mountain of Faith.</a></div></td></tr>
+<tr><td id="3" class="infoYD"><b>03</b></td><td id="Infinite_account_of_a_trip_Ver.2" colspan="2" class="title">Infinite account of a trip Ver.2</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="秋ノ（页面不存在）">秋ノ</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./Voyage1969.md" class="mw-redirect" title="ヴォヤージュ1969">ヴォヤージュ1969</a></div><div class="ogmusic"><a href="./Voyage1970.md" class="mw-redirect" title="ヴォヤージュ1970">ヴォヤージュ1970</a></div><div class="source"><a href="./东方永夜抄.md" class="mw-redirect" title="东方永夜抄 ～ Imperishable Night.">东方永夜抄　～ Imperishable Night.</a></div></td></tr>
+<tr><td id="4" class="infoYD"><b>04</b></td><td id="Muriyari_Rock_Ver.2" colspan="2" class="title">Muriyari Rock Ver.2</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="秋ノ（页面不存在）">秋ノ</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./上海红茶馆_～_Chinese_Tea.md" class="mw-redirect" title="上海紅茶館 ～ Chinese Tea">上海紅茶館　～ Chinese Tea</a></div><div class="source"><a href="./东方红魔乡.md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr></tbody></table>
 
 
 ## 评论
-
-
-
 
 ---
 

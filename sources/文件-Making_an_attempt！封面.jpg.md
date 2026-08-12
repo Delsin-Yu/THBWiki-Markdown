@@ -1,6 +1,6 @@
 # 文件:Making_an_attempt！封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c9\ns6%3AMaking_an_attempt%EF%BC%81%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c9\ns6%3AMaking_an_attempt%EF%BC%81%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 よいむつ | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Making an attempt！](./Making_an_attempt！.md)  
-该封面包含的角色：- [洩矢诹访子](./洩矢诹访子.md)
-
-
-
+- [Making an attempt！](./Making_an_attempt！.md)该封面包含的角色：
+- [洩矢诹访子](./洩矢诹访子.md)
 
 
 ---

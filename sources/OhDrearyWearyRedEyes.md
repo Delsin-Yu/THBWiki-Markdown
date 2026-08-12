@@ -1,12 +1,11 @@
 # OhDrearyWearyRedEyes
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\7\78\ns0%3AOhDrearyWearyRedEyes.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\7\78\ns0%3AOhDrearyWearyRedEyes.html -->
 
 2017年12月31日 由 Hyperdimension!  发布的EP同人专辑，曲目主要风格是 Rock，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人专辑 (未找到链接)** 的词条
-
+**[二次创作同人专辑](./二次创作.md#同人音乐)**的词条
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-OhDrearyWearyRedEyes封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/5/54/OhDrearyWearyRedEyes%E5%B0%81%E9%9D%A2.jpg/252px-OhDrearyWearyRedEyes%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="252" height="252" srcset="https://upload.thwiki.cc/thumb/5/54/OhDrearyWearyRedEyes%E5%B0%81%E9%9D%A2.jpg/378px-OhDrearyWearyRedEyes%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/5/54/OhDrearyWearyRedEyes%E5%B0%81%E9%9D%A2.jpg/504px-OhDrearyWearyRedEyes%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1200" data-file-height="1200"></a><div class="cover-char">角色：<a href="./因幡帝.md" title="因幡帝">因幡天为</a>，<a href="./铃仙·优昙华院·因幡.md" title="铃仙·优昙华院·因幡">铃仙·优昙华院·因幡</a></div></td>
@@ -15,38 +14,26 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://hyperdimensionfumo.bandcamp.com/album/ohdrearywearyredeyes-e-p">https://hyperdimensionfumo.bandcamp.com/album/ohdrearywearyredeyes-e-p</a></td></tr></tbody></table>
 
 OhDrearyWearyRedEyes（同人专辑，Hyperdimension!，2017） - 2017年12月31日 由 Hyperdimension!  发布的EP同人专辑，曲目主要风格是 Rock，分级为 一般向
-
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://hyperdimensionfumo.bandcamp.com/album/ohdrearywearyredeyes-e-p">bandcamp</a></td></tr></tbody></table>
-
 
 
 ## Staff
   
- **Arrangement**   
+**Arrangement**  
 
 <table><tbody><tr><td><a href="./fumo.md" title="fumo">fumo</a></td><td><a href="./Hyperdimension!.md" title="Hyperdimension!">Hyperdimension!</a></td><td>Tr.1-3</td></tr></tbody></table>
 
 
-
 ## 试听
-  
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/376531613&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=false"></iframe>
-
-  
-
 
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Alfred_with_a_shotgun" colspan="2" class="title">Alfred with a shotgun<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=fumo&amp;ogmusic=万年置き傘にご注意を&amp;fromwiki=OhDrearyWearyRedEyes"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:12</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./fumo.md" title="fumo">fumo</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，fumo&amp;fromwiki=OhDrearyWearyRedEyes"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=万年置き傘にご注意を&amp;fromwiki=OhDrearyWearyRedEyes"><span></span></a></span><div class="ogmusic"><a href="./万年置き傘にご注意を.md" class="mw-redirect" title="万年置き傘にご注意を">万年置き傘にご注意を</a></div><div class="source"><a href="./东方星莲船_～_Undefined_Fantastic_Object..md" class="mw-redirect" title="东方星莲船 ～ Undefined Fantastic Object.">东方星莲船　～ Undefined Fantastic Object.</a></div></td></tr>
-<tr><td id="2" class="infoYD"><b>02</b></td><td id="O!_Such_dreary,_weary,_terrible,_terrible_red_eyes!" colspan="2" class="title">O! Such dreary, weary, terrible, terrible red eyes!<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=fumo&amp;ogmusic=狂気の瞳　～ Invisible Full Moon&amp;fromwiki=OhDrearyWearyRedEyes"><span title="搜索相似同人曲"></span></a></span></td><td class="time">05:20</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./fumo.md" title="fumo">fumo</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，fumo&amp;fromwiki=OhDrearyWearyRedEyes"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=狂気の瞳　～ Invisible Full Moon&amp;fromwiki=OhDrearyWearyRedEyes"><span></span></a></span><div class="ogmusic"><a href="./狂気の瞳_～_Invisible_Full_Moon.md" class="mw-redirect" title="狂気の瞳 ～ Invisible Full Moon">狂気の瞳　～ Invisible Full Moon</a></div><div class="source"><a href="./东方永夜抄_～_Imperishable_Night..md" class="mw-redirect" title="东方永夜抄 ～ Imperishable Night.">东方永夜抄　～ Imperishable Night.</a></div></td></tr>
-<tr><td id="3" class="infoYD"><b>03</b></td><td id="She_is_constantly_having_to_guide_me_through_the_world" colspan="2" class="title">She is constantly having to guide me through the world<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=fumo&amp;ogmusic=U.N.オーエンは彼女なのか？&amp;fromwiki=OhDrearyWearyRedEyes"><span title="搜索相似同人曲"></span></a></span></td><td class="time">09:33</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./fumo.md" title="fumo">fumo</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，fumo&amp;fromwiki=OhDrearyWearyRedEyes"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=U.N.オーエンは彼女なのか？&amp;fromwiki=OhDrearyWearyRedEyes"><span></span></a></span><div class="ogmusic"><a href="./U.N.オーエンは彼女なのか？.md" class="mw-redirect" title="U.N.オーエンは彼女なのか？">U.N.オーエンは彼女なのか？</a></div><div class="source"><a href="./东方红魔乡_～_the_Embodiment_of_Scarlet_Devil..md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr></tbody></table>
-
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Alfred_with_a_shotgun" colspan="2" class="title">Alfred with a shotgun</td><td class="time">04:12</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./fumo.md" title="fumo">fumo</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./请注意万年备用伞.md" class="mw-redirect" title="万年置き傘にご注意を">万年置き傘にご注意を</a></div><div class="source"><a href="./东方星莲船.md" class="mw-redirect" title="东方星莲船 ～ Undefined Fantastic Object.">东方星莲船　～ Undefined Fantastic Object.</a></div></td></tr>
+<tr><td id="2" class="infoYD"><b>02</b></td><td id="O!_Such_dreary,_weary,_terrible,_terrible_red_eyes!" colspan="2" class="title">O! Such dreary, weary, terrible, terrible red eyes!</td><td class="time">05:20</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./fumo.md" title="fumo">fumo</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./狂气之瞳_～_Invisible_Full_Moon.md" class="mw-redirect" title="狂気の瞳 ～ Invisible Full Moon">狂気の瞳　～ Invisible Full Moon</a></div><div class="source"><a href="./东方永夜抄.md" class="mw-redirect" title="东方永夜抄 ～ Imperishable Night.">东方永夜抄　～ Imperishable Night.</a></div></td></tr>
+<tr><td id="3" class="infoYD"><b>03</b></td><td id="She_is_constantly_having_to_guide_me_through_the_world" colspan="2" class="title">She is constantly having to guide me through the world</td><td class="time">09:33</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./fumo.md" title="fumo">fumo</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./U.N.OWEN就是她吗？.md" class="mw-redirect" title="U.N.オーエンは彼女なのか？">U.N.オーエンは彼女なのか？</a></div><div class="source"><a href="./东方红魔乡.md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr></tbody></table>
 
 
 ## 评论
-
-
-
 
 ---
 

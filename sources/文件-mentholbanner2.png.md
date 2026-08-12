@@ -1,14 +1,11 @@
 # 文件:mentholbanner2.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\29\ns6%3Amentholbanner2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\29\ns6%3Amentholbanner2%2Epng.html -->
 
 menthol | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

@@ -1,16 +1,12 @@
 # 模板:CR夏季毕业祭动漫游园会
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\6\6e\ns10%3ACR%E5%A4%8F%E5%AD%A3%E6%AF%95%E4%B8%9A%E7%A5%AD%E5%8A%A8%E6%BC%AB%E6%B8%B8%E5%9B%AD%E4%BC%9A.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\6\6e\ns10%3ACR%E5%A4%8F%E5%AD%A3%E6%AF%95%E4%B8%9A%E7%A5%AD%E5%8A%A8%E6%BC%AB%E6%B8%B8%E5%9B%AD%E4%BC%9A.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

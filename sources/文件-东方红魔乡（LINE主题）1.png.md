@@ -1,12 +1,8 @@
 # 文件:东方红魔乡（LINE主题）1.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\77\ns6%3A%E4%B8%9C%E6%96%B9%E7%BA%A2%E9%AD%94%E4%B9%A1%EF%BC%88LINE%E4%B8%BB%E9%A2%98%EF%BC%891%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\77\ns6%3A%E4%B8%9C%E6%96%B9%E7%BA%A2%E9%AD%94%E4%B9%A1%EF%BC%88LINE%E4%B8%BB%E9%A2%98%EF%BC%891%2Epng.html -->
 
 东方Project官方LINE主题
-
-
-
-
 
 
 ---

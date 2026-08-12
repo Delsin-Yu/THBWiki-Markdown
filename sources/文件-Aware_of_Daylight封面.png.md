@@ -1,6 +1,6 @@
 # 文件:Aware_of_Daylight封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5a\ns6%3AAware_of_Daylight%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5a\ns6%3AAware_of_Daylight%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 HIDDEN_TREASURE | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ HIDDEN_TREASURE | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Aware of Daylight](./Aware_of_Daylight.md)  
-该封面包含的角色：- [坂田合欢](./坂田合欢.md)
-
-
-
+- [Aware of Daylight](./Aware_of_Daylight.md)该封面包含的角色：
+- [坂田合欢](./坂田合欢.md)
 
 
 ---

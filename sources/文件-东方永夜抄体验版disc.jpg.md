@@ -1,12 +1,8 @@
 # 文件:东方永夜抄体验版disc.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\57\ns6%3A%E4%B8%9C%E6%96%B9%E6%B0%B8%E5%A4%9C%E6%8A%84%E4%BD%93%E9%AA%8C%E7%89%88disc%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\57\ns6%3A%E4%B8%9C%E6%96%B9%E6%B0%B8%E5%A4%9C%E6%8A%84%E4%BD%93%E9%AA%8C%E7%89%88disc%2Ejpg.html -->
 
 东方永夜抄 | 官方游戏体验版光盘扫图
-
-
-
-
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:GoM插图（恋-7-4）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f7\ns6%3AGoM%E6%8F%92%E5%9B%BE%EF%BC%88%E6%81%8B-7-4%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f7\ns6%3AGoM%E6%8F%92%E5%9B%BE%EF%BC%88%E6%81%8B-7-4%EF%BC%89%2Ejpg.html -->
 
 古明地恋 | 魔理沙的魔法书
-
-
-
-
 
 
 ---

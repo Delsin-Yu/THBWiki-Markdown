@@ -1,6 +1,6 @@
 # 文件:Tool_and_besom封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fe\ns6%3ATool_and_besom%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fe\ns6%3ATool_and_besom%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 てぃーたいむ@縁側 | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [Tool and besom](./Tool_and_besom.md)  
-该封面包含的角色：- [河城荷取](./河城荷取.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [Tool and besom](./Tool_and_besom.md)该封面包含的角色：
+- [河城荷取](./河城荷取.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

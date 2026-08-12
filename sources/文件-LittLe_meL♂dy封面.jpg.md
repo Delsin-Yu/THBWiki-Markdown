@@ -1,6 +1,6 @@
 # 文件:LittLe_meL♂dy封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\82\ns6%3ALittLe_meL%E2%99%82dy%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\82\ns6%3ALittLe_meL%E2%99%82dy%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 チ→ム♂ツナギ | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [LittLe meL♂dy](./LittLe_meL♂dy.md)  
-该封面包含的角色：- [河城荷取](./河城荷取.md)
-
-
-
+- [LittLe meL♂dy](./LittLe_meL♂dy.md)该封面包含的角色：
+- [河城荷取](./河城荷取.md)
 
 
 ---

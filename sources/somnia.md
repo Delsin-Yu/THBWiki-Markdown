@@ -1,25 +1,19 @@
 # somnia
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\fe\ns0%3Asomnia.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\fe\ns0%3Asomnia.html -->
 
 somnia ，于 2017 年成立，主要制作 同人志 的韩国同人社团，当前状态为 活动
 
-本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
-
+本页是关于**[同人社团](./二次创作.md#同人社团)**的词条
 ## 目录
 
 - [1 社团信息](#社团信息)
 - [2 成员名单](#成员名单)
 - [3 作品列表](#作品列表)
-
   - [3.1 同人志](#同人志)
 
 
-
 - [4 其他信息](#其他信息)
-
-
-
 
 
 ## 社团信息
@@ -27,8 +21,8 @@ somnia ，于 2017 年成立，主要制作 同人志 的韩国同人社团，�
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> somnia </td></tr><tr><td><b>主要作品类型</b></td><td>同人志</td></tr><tr><td><b>成立时间</b></td><td>2017</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>地区</b></td><td>韩国</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="https://www.pixiv.net/member.php?id=15772166">https://www.pixiv.net/member.php?id=15772166</a> （<a href="./minusT.md" title="minusT">minusT</a>的Pixiv主页）<br><a rel="nofollow" class="external free" href="https://www.pixiv.net/member_illust.php?id=6584502">https://www.pixiv.net/member_illust.php?id=6584502</a> （<a href="./Hajin.md" title="Hajin">Hajin</a>的Pixiv主页）</td></tr></tbody></table>
 
 somnia（同人社团，同人志社团） - somnia ，于 2017 年成立，主要制作 同人志 的韩国同人社团，当前状态为 活动
-
 ## 成员名单
+
 - [minusT](./minusT.md)
 - [Hajin](./Hajin.md)
 
@@ -36,32 +30,14 @@ somnia（同人社团，同人志社团） - somnia ，于 2017 年成立，主�
 ## 作品列表
 
 ### 同人志
-[](./BLOSSOM（同人志）.md)[BLOSSOM](./BLOSSOM（同人志）.md)首发日期：2017-10-15 （第四回 博麗神社秋季例大祭 (未找到链接)）画集 （一般向）B5&#160;尺寸 16&#160;页[](./Drinks.md)[Drinks](./Drinks.md)首发日期：2018-05-06 （第十五回 博麗神社例大祭 (未找到链接)）画集 （一般向）B5&#160;尺寸 16&#160;页[](./snowy_spring.md)[snowy spring](./snowy_spring.md)首发日期：2018-05-06 （第十五回 博麗神社例大祭 (未找到链接)）画集 （一般向）B5&#160;尺寸 16&#160;页[](./Scarlet_Kiss（同人志）.md)[Scarlet Kiss](./Scarlet_Kiss（同人志）.md)首发日期：2018-10-14 （第五回 博麗神社秋季例大祭 (未找到链接)）画集 （一般向）B5&#160;尺寸 16&#160;页[](./紅葉の秋と恋心.md)[紅葉の秋と恋心](./紅葉の秋と恋心.md)首发日期：2018-10-14 （第五回 博麗神社秋季例大祭 (未找到链接)）漫画 （一般向）B5&#160;尺寸 36&#160;页[](./VIOLET（somnia）.md)[VIOLET](./VIOLET（somnia）.md)首发日期：2019-10-06 （第六回 博麗神社秋季例大祭 (未找到链接)）画集 （一般向）B5&#160;尺寸 16&#160;页
-<table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
-
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
-
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
-
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
-
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
-
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
-
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
-
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
-
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
-</table>
-
-
+- **[BLOSSOM](./BLOSSOM（同人志）.md)** — 首发日期：2017-10-15 （第四回 博麗神社秋季例大祭）；画集 （一般向）；B5 尺寸 16 页
+- **[Drinks](./Drinks.md)** — 首发日期：2018-05-06 （第十五回 博麗神社例大祭）；画集 （一般向）；B5 尺寸 16 页
+- **[snowy spring](./snowy_spring.md)** — 首发日期：2018-05-06 （第十五回 博麗神社例大祭）；画集 （一般向）；B5 尺寸 16 页
+- **[Scarlet Kiss](./Scarlet_Kiss（同人志）.md)** — 首发日期：2018-10-14 （第五回 博麗神社秋季例大祭）；画集 （一般向）；B5 尺寸 16 页
+- **[紅葉の秋と恋心](./紅葉の秋と恋心.md)** — 首发日期：2018-10-14 （第五回 博麗神社秋季例大祭）；漫画 （一般向）；B5 尺寸 36 页
+- **[VIOLET](./VIOLET（somnia）.md)** — 首发日期：2019-10-06 （第六回 博麗神社秋季例大祭）；画集 （一般向）；B5 尺寸 16 页
 
 ## 其他信息
-
-
-
 
 ---
 

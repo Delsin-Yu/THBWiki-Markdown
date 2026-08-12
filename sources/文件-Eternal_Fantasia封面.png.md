@@ -1,6 +1,6 @@
 # 文件:Eternal_Fantasia封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\40\ns6%3AEternal_Fantasia%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\40\ns6%3AEternal_Fantasia%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 DiGiTAL_WiNG | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ DiGiTAL_WiNG | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Eternal Fantasia](./Eternal_Fantasia.md)  
-该封面包含的角色：- [八云紫](./八云紫.md)
-
-
-
+- [Eternal Fantasia](./Eternal_Fantasia.md)该封面包含的角色：
+- [八云紫](./八云紫.md)
 
 
 ---

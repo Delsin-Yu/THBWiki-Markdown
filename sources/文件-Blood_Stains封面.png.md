@@ -1,6 +1,6 @@
 # 文件:Blood_Stains封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\23\ns6%3ABlood_Stains%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\23\ns6%3ABlood_Stains%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 OutBreak株式会社 | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ OutBreak株式会社 | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Blood Stains](./Blood_Stains.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [Blood Stains](./Blood_Stains.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
   
-Image is a screenshot taken from the [cropreview video](https://www.nicovideo.jp/watch/sm16040926)
-  
-
-
-
-
+Image is a screenshot taken from the [cropreview video](https://www.nicovideo.jp/watch/sm16040926)  
 
 ---
 

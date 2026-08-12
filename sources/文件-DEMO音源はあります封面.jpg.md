@@ -1,6 +1,6 @@
 # 文件:DEMO音源はあります封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\63\ns6%3ADEMO%E9%9F%B3%E6%BA%90%E3%81%AF%E3%81%82%E3%82%8A%E3%81%BE%E3%81%99%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\63\ns6%3ADEMO%E9%9F%B3%E6%BA%90%E3%81%AF%E3%81%82%E3%82%8A%E3%81%BE%E3%81%99%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 地雷少女症候群 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [DEMO音源はあります](./DEMO音源はあります.md)  
-该封面包含的角色：- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [DEMO音源はあります](./DEMO音源はあります.md)该封面包含的角色：
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

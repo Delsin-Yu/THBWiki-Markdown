@@ -1,6 +1,6 @@
 # 文件:紅白ノ宴-MAIDEN'S_FESTIVAL-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9b\ns6%3A%E7%B4%85%E7%99%BD%E3%83%8E%E5%AE%B4-MAIDEN%27S_FESTIVAL-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9b\ns6%3A%E7%B4%85%E7%99%BD%E3%83%8E%E5%AE%B4-MAIDEN%27S_FESTIVAL-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 SULFURIC_ACID_PRODUCT | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ SULFURIC_ACID_PRODUCT | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [紅白ノ宴-MAIDEN'S FESTIVAL-](./紅白ノ宴-MAIDEN'S_FESTIVAL-.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
+- [紅白ノ宴-MAIDEN'S FESTIVAL-](./紅白ノ宴-MAIDEN'S_FESTIVAL-.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
   
-源地址：[[1]](http://ryusaki853.web.fc2.com/ryuwavejkm2.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://ryusaki853.web.fc2.com/ryuwavejkm2.jpg)  
 
 ---
 

@@ -1,12 +1,8 @@
 # 文件:东方绯想天体验版disc.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2c\ns6%3A%E4%B8%9C%E6%96%B9%E7%BB%AF%E6%83%B3%E5%A4%A9%E4%BD%93%E9%AA%8C%E7%89%88disc%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2c\ns6%3A%E4%B8%9C%E6%96%B9%E7%BB%AF%E6%83%B3%E5%A4%A9%E4%BD%93%E9%AA%8C%E7%89%88disc%2Ejpg.html -->
 
 东方绯想天 | 官方游戏体验版光盘扫图
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:幽霊楽団～Phantom_Ensemble（同人专辑）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\97\ns6%3A%E5%B9%BD%E9%9C%8A%E6%A5%BD%E5%9B%A3%EF%BD%9EPhantom_Ensemble%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\97\ns6%3A%E5%B9%BD%E9%9C%8A%E6%A5%BD%E5%9B%A3%EF%BD%9EPhantom_Ensemble%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 UI-70 | 专辑封面 | 封面图片
 
@@ -8,11 +8,10 @@ UI-70 | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [幽霊楽団～Phantom Ensemble（同人专辑）](./幽霊楽団～Phantom_Ensemble（同人专辑）.md)  
-该封面包含的角色：- [露娜萨·普莉兹姆利巴](./露娜萨·普莉兹姆利巴.md)- [梅露兰·普莉兹姆利巴](./梅露兰·普莉兹姆利巴.md)- [莉莉卡·普莉兹姆利巴](./莉莉卡·普莉兹姆利巴.md)
-
-
-
+- [幽霊楽団～Phantom Ensemble（同人专辑）](./幽霊楽団～Phantom_Ensemble（同人专辑）.md)该封面包含的角色：
+- [露娜萨·普莉兹姆利巴](./露娜萨·普莉兹姆利巴.md)
+- [梅露兰·普莉兹姆利巴](./梅露兰·普莉兹姆利巴.md)
+- [莉莉卡·普莉兹姆利巴](./莉莉卡·普莉兹姆利巴.md)
 
 
 ---

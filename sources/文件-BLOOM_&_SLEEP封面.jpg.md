@@ -1,6 +1,6 @@
 # 文件:BLOOM_&_SLEEP封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c9\ns6%3ABLOOM_%26_SLEEP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c9\ns6%3ABLOOM_%26_SLEEP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ごんばこんなか | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [BLOOM &amp; SLEEP](./BLOOM_&_SLEEP.md)  
-该封面包含的角色：- [矢田寺成美](./矢田寺成美.md)
-
-
-
+- [BLOOM & SLEEP](./BLOOM_&_SLEEP.md)该封面包含的角色：
+- [矢田寺成美](./矢田寺成美.md)
 
 
 ---

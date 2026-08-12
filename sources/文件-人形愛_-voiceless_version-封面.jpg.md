@@ -1,6 +1,6 @@
 # 文件:人形愛_-voiceless_version-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a1\ns6%3A%E4%BA%BA%E5%BD%A2%E6%84%9B_-voiceless_version-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a1\ns6%3A%E4%BA%BA%E5%BD%A2%E6%84%9B_-voiceless_version-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 岡垣正志＆フレンズ
 
@@ -11,9 +11,6 @@
   
 
 - [人形愛 -voiceless version-](./人形愛_-voiceless_version-.md)
-
-
-
 
 
 ---

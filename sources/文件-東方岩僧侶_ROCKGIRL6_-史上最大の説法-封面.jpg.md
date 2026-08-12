@@ -1,6 +1,6 @@
 # 文件:東方岩僧侶_ROCKGIRL6_-史上最大の説法-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c2\ns6%3A%E6%9D%B1%E6%96%B9%E5%B2%A9%E5%83%A7%E4%BE%B6_ROCKGIRL6_-%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7%E3%81%AE%E8%AA%AC%E6%B3%95-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c2\ns6%3A%E6%9D%B1%E6%96%B9%E5%B2%A9%E5%83%A7%E4%BE%B6_ROCKGIRL6_-%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7%E3%81%AE%E8%AA%AC%E6%B3%95-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 趣味工房にんじんわいん
 
@@ -8,16 +8,13 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方岩僧侶 ROCKGIRL6 -史上最大の説法-](./東方岩僧侶_ROCKGIRL6_-史上最大の説法-.md)  
-该封面包含的角色：- [娜兹玲](./娜兹玲.md)- [圣白莲](./圣白莲.md)- [封兽鵺](./封兽鵺.md)
+- [東方岩僧侶 ROCKGIRL6 -史上最大の説法-](./東方岩僧侶_ROCKGIRL6_-史上最大の説法-.md)该封面包含的角色：
+- [娜兹玲](./娜兹玲.md)
+- [圣白莲](./圣白莲.md)
+- [封兽鵺](./封兽鵺.md)
 
   
-源地址：[[1]](http://carrotwine.muse.bindsite.jp/_src/sc398/rg6_jacket_400x400.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://carrotwine.muse.bindsite.jp/_src/sc398/rg6_jacket_400x400.jpg)  
 
 ---
 

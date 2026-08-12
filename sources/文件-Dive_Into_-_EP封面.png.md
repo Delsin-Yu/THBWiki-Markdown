@@ -1,6 +1,6 @@
 # 文件:Dive_Into_-_EP封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fc\ns6%3ADive_Into_-_EP%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fc\ns6%3ADive_Into_-_EP%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 RoundLoudness | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ RoundLoudness | 专辑封面 | 封面图片
   
 
 - [Dive Into - EP](./Dive_Into_-_EP.md)
-
-
-
 
 
 ---

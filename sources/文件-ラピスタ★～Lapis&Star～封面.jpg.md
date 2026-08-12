@@ -1,6 +1,6 @@
 # 文件:ラピスタ★～Lapis&Star～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\48\ns6%3A%E3%83%A9%E3%83%94%E3%82%B9%E3%82%BF%E2%98%85%EF%BD%9ELapis%26Star%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\48\ns6%3A%E3%83%A9%E3%83%94%E3%82%B9%E3%82%BF%E2%98%85%EF%BD%9ELapis%26Star%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 安達貴族 | 封面图片
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [ラピスタ★～Lapis&amp;Star～](./ラピスタ★～Lapis&Star～.md)  
-该封面包含的角色：- [斯塔萨菲雅](./斯塔萨菲雅.md)- [赫卡提亚·拉碧斯拉祖利](./赫卡提亚·拉碧斯拉祖利.md)
-
-
-
+- [ラピスタ★～Lapis&Star～](./ラピスタ★～Lapis&Star～.md)该封面包含的角色：
+- [斯塔萨菲雅](./斯塔萨菲雅.md)
+- [赫卡提亚·拉碧斯拉祖利](./赫卡提亚·拉碧斯拉祖利.md)
 
 
 ---

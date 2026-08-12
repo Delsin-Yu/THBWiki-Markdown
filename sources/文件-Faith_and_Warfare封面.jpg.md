@@ -1,6 +1,6 @@
 # 文件:Faith_and_Warfare封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8e\ns6%3AFaith_and_Warfare%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8e\ns6%3AFaith_and_Warfare%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Unlucky_Morpheus | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Unlucky_Morpheus | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Faith and Warfare](./Faith_and_Warfare.md)  
-该封面包含的角色：- [洩矢诹访子](./洩矢诹访子.md)
-
-
-
+- [Faith and Warfare](./Faith_and_Warfare.md)该封面包含的角色：
+- [洩矢诹访子](./洩矢诹访子.md)
 
 
 ---

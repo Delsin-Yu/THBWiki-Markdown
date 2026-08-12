@@ -1,12 +1,8 @@
 # 文件:彗星「Blazing_Star」（深秘录）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9f\ns6%3A%E5%BD%97%E6%98%9F%E3%80%8CBlazing_Star%E3%80%8D%EF%BC%88%E6%B7%B1%E7%A7%98%E5%BD%95%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9f\ns6%3A%E5%BD%97%E6%98%9F%E3%80%8CBlazing_Star%E3%80%8D%EF%BC%88%E6%B7%B1%E7%A7%98%E5%BD%95%EF%BC%89%2Epng.html -->
 
 东方深秘录 | 自机符卡 | 雾雨魔理沙
-
-
-
-
 
 
 ---

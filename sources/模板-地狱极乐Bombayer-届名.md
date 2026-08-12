@@ -1,12 +1,8 @@
 # 模板:地狱极乐Bombayer/届名
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\6\60\ns10%3A%E5%9C%B0%E7%8B%B1%E6%9E%81%E4%B9%90Bombayer%2F%E5%B1%8A%E5%90%8D.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\6\60\ns10%3A%E5%9C%B0%E7%8B%B1%E6%9E%81%E4%B9%90Bombayer%2F%E5%B1%8A%E5%90%8D.html -->
 
 活动届名模板
-
-
-
-
 
 
 ---

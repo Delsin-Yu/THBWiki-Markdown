@@ -1,16 +1,11 @@
 # 文件:天狗ノ舞banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7a\ns6%3A%E5%A4%A9%E7%8B%97%E3%83%8E%E8%88%9Ebanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7a\ns6%3A%E5%A4%A9%E7%8B%97%E3%83%8E%E8%88%9Ebanner%2Ejpg.html -->
 
 天狗ノ舞 | 社团LOGO
 
   
-源地址：[[1]](http://natsume.ushimairi.com/nbana.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://natsume.ushimairi.com/nbana.jpg)  
 
 ---
 

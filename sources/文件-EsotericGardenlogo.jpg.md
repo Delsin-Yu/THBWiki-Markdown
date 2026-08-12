@@ -1,18 +1,13 @@
 # 文件:EsotericGardenlogo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3f\ns6%3AEsotericGardenlogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3f\ns6%3AEsotericGardenlogo%2Ejpg.html -->
 
 EsotericGarden | 社团LOGO
 
 
 ## 摘要
   
-源地址：[direct image link (original size)](https://pbs.twimg.com/profile_banners/1638767454351687683/1683124266), [from circle twitter header](https://twitter.com/EsGarden_1202/header_photo)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://pbs.twimg.com/profile_banners/1638767454351687683/1683124266), [from circle twitter header](https://twitter.com/EsGarden_1202/header_photo)  
 
 ---
 

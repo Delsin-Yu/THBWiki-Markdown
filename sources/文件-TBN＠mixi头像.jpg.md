@@ -1,12 +1,8 @@
 # 文件:TBN＠mixi头像.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\54\ns6%3ATBN%EF%BC%A0mixi%E5%A4%B4%E5%83%8F%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\54\ns6%3ATBN%EF%BC%A0mixi%E5%A4%B4%E5%83%8F%2Ejpg.html -->
 
 Mixi
-
-
-
-
 
 
 ---

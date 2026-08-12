@@ -1,12 +1,8 @@
 # 文件:东方外来韦编参（CD）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4c\ns6%3A%E4%B8%9C%E6%96%B9%E5%A4%96%E6%9D%A5%E9%9F%A6%E7%BC%96%E5%8F%82%EF%BC%88CD%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4c\ns6%3A%E4%B8%9C%E6%96%B9%E5%A4%96%E6%9D%A5%E9%9F%A6%E7%BC%96%E5%8F%82%EF%BC%88CD%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 东方外来韦编 | 官方音乐CD封面
-
-
-
-
 
 
 ---

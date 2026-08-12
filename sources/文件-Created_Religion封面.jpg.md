@@ -1,6 +1,6 @@
 # 文件:Created_Religion封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3c\ns6%3ACreated_Religion%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3c\ns6%3ACreated_Religion%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ジェリコの法則 | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Created Religion](./Created_Religion.md)  
-该封面包含的角色：- [圣白莲](./圣白莲.md)
+- [Created Religion](./Created_Religion.md)该封面包含的角色：
+- [圣白莲](./圣白莲.md)
 
   
-源地址：[[1]](https://image.jimcdn.com/app/cms/image/transf/dimension=290x1024:format=jpg/path/s33623d2f60ccc5da/image/i886c64791fe1c5b8/version/1446378420/image.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://image.jimcdn.com/app/cms/image/transf/dimension=290x1024:format=jpg/path/s33623d2f60ccc5da/image/i886c64791fe1c5b8/version/1446378420/image.jpg)  
 
 ---
 

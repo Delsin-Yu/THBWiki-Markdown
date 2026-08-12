@@ -1,6 +1,6 @@
 # 文件:幻想砲劇詩～Art_of_Curtain_Fire_Aggression.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d4\ns6%3A%E5%B9%BB%E6%83%B3%E7%A0%B2%E5%8A%87%E8%A9%A9%EF%BD%9EArt_of_Curtain_Fire_Aggression%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d4\ns6%3A%E5%B9%BB%E6%83%B3%E7%A0%B2%E5%8A%87%E8%A9%A9%EF%BD%9EArt_of_Curtain_Fire_Aggression%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 D.N.A.Softwares | 封面图片 | 软件封面
 
@@ -8,11 +8,11 @@ D.N.A.Softwares | 封面图片 | 软件封面
 使用了本文件作封面图片的作品：
   
 
-- [幻想砲劇詩～Art of Curtain Fire Aggression.](./幻想砲劇詩～Art_of_Curtain_Fire_Aggression..md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)- [莉格露·奈特巴格](./莉格露·奈特巴格.md)- [米斯蒂娅·萝蕾拉](./米斯蒂娅·萝蕾拉.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [幻想砲劇詩～Art of Curtain Fire Aggression.](./幻想砲劇詩～Art_of_Curtain_Fire_Aggression..md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
+- [莉格露·奈特巴格](./莉格露·奈特巴格.md)
+- [米斯蒂娅·萝蕾拉](./米斯蒂娅·萝蕾拉.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

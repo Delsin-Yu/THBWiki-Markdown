@@ -1,6 +1,6 @@
 # 文件:Enfants_Atomiques封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dc\ns6%3AEnfants_Atomiques%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dc\ns6%3AEnfants_Atomiques%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Raven's_Jig | 专辑封面 | 封面图片
 
@@ -10,16 +10,13 @@ Raven's_Jig | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Enfants Atomiques](./Enfants_Atomiques.md)  
-该封面包含的角色：- [火焰猫燐](./火焰猫燐.md)- [灵乌路空](./灵乌路空.md)
+- [Enfants Atomiques](./Enfants_Atomiques.md)该封面包含的角色：
+- [火焰猫燐](./火焰猫燐.md)
+- [灵乌路空](./灵乌路空.md)
 
   
 Included in download (SA EP cover2.png)
   
-
-
-
-
 
 ---
 

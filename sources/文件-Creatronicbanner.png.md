@@ -1,14 +1,11 @@
 # 文件:Creatronicbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d5\ns6%3ACreatronicbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d5\ns6%3ACreatronicbanner%2Epng.html -->
 
 Creatronic | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

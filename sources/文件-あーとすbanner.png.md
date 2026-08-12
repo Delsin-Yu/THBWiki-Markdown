@@ -1,12 +1,8 @@
 # 文件:あーとすbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e7\ns6%3A%E3%81%82%E3%83%BC%E3%81%A8%E3%81%99banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e7\ns6%3A%E3%81%82%E3%83%BC%E3%81%A8%E3%81%99banner%2Epng.html -->
 
 あーとす | 社团LOGO
-
-
-
-
 
 
 ---

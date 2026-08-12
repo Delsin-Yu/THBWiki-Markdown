@@ -1,6 +1,6 @@
 # 文件:ROOTS（アドレナ義塾）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\25\ns6%3AROOTS%EF%BC%88%E3%82%A2%E3%83%89%E3%83%AC%E3%83%8A%E7%BE%A9%E5%A1%BE%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\25\ns6%3AROOTS%EF%BC%88%E3%82%A2%E3%83%89%E3%83%AC%E3%83%8A%E7%BE%A9%E5%A1%BE%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 アドレナ義塾 | 专辑封面 | 封面图片
 
@@ -8,11 +8,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [ROOTS（アドレナ義塾）](./ROOTS（アドレナ義塾）.md)  
-该封面包含的角色：- [橙](./橙.md)- [射命丸文](./射命丸文.md)- 原创角色 (未找到链接)
-
-
-
+- [ROOTS（アドレナ義塾）](./ROOTS（アドレナ義塾）.md)该封面包含的角色：
+- [橙](./橙.md)
+- [射命丸文](./射命丸文.md)
+- 原创角色 (未找到链接)
 
 
 ---

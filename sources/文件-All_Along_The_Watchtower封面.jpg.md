@@ -1,6 +1,6 @@
 # 文件:All_Along_The_Watchtower封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0b\ns6%3AAll_Along_The_Watchtower%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0b\ns6%3AAll_Along_The_Watchtower%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Arts＆Sounds：Utopia | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ Arts＆Sounds：Utopia | 专辑封面 | 封面图片
   
 
 - [All Along The Watchtower](./All_Along_The_Watchtower.md)
-
-
-
 
 
 ---

@@ -1,16 +1,12 @@
 # 模板:P×P
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\1\17\ns10%3AP%C3%97P.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\1\17\ns10%3AP%C3%97P.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

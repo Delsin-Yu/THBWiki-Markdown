@@ -1,6 +1,6 @@
 # 文件:THE_OUTSIDE_ANSWER_TO_THE_ULTIMATE_QUESTION封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5f\ns6%3ATHE_OUTSIDE_ANSWER_TO_THE_ULTIMATE_QUESTION%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5f\ns6%3ATHE_OUTSIDE_ANSWER_TO_THE_ULTIMATE_QUESTION%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ZYTOKINE | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ ZYTOKINE | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [THE OUTSIDE ANSWER TO THE ULTIMATE QUESTION](./THE_OUTSIDE_ANSWER_TO_THE_ULTIMATE_QUESTION.md)  
-该封面包含的角色：- [西行寺幽幽子](./西行寺幽幽子.md)
-
-
-
+- [THE OUTSIDE ANSWER TO THE ULTIMATE QUESTION](./THE_OUTSIDE_ANSWER_TO_THE_ULTIMATE_QUESTION.md)该封面包含的角色：
+- [西行寺幽幽子](./西行寺幽幽子.md)
 
 
 ---

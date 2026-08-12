@@ -1,37 +1,27 @@
 # 魂之花_～_Another_Dream...
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\6f\ns0%3A%E9%AD%82%E4%B9%8B%E8%8A%B1_%EF%BD%9E_Another_Dream%2E%2E%2E.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\6f\ns0%3A%E9%AD%82%E4%B9%8B%E8%8A%B1_%EF%BD%9E_Another_Dream%2E%2E%2E.html -->
 
 由 ZUN 创作的官方曲目，原名 魂の花　～ Another Dream...
 
 本页是关于东方Project  
- **原作音乐** 的词条
-
+**原作音乐**的词条
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 出现作品](#出现作品)
 - [3 音乐文件](#音乐文件)
-
   - [3.1 东方花映塚](#东方花映塚)
 
 
-
 - [4 说明文本](#说明文本)
-
   - [4.1 东方花映塚](#东方花映塚_2)
 
 
-
 - [5 其他资料](#其他资料)
-
   - [5.1 乐理资讯](#乐理资讯)
   - [5.2 分析考据](#分析考据)
   - [5.3 二次同人数据](#二次同人数据)
-
-
-
-
 
 
 
@@ -41,13 +31,11 @@
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">魂の花　～ Another Dream...</td></tr><tr><td><b>译名</b></td><td>魂之花 ～ Another Dream...</td></tr><tr><td><b>英文译名</b></td><td>Flower of Soul ~ Another Dream...</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 魂之花 ～ Another Dream...（曲目） - 由 ZUN 创作的官方曲目，原名 魂の花　～ Another Dream...
-
 ## 出现作品
 
 <table>
 <tbody><tr><td>2005年8月14日（Comic Market 68）</td><td><b><a href="./东方花映塚.md" title="东方花映塚">东方花映塚</a></b></td><td>Staff画面主题曲</td><td style="padding-left:5px;">魂の花　～ Another Dream...（魂之花 ～ Another Dream...）</td><td style="padding-left:10px;">作曲：ZUN</td></tr>
 </tbody></table>
-
 
 
 ## 音乐文件
@@ -62,11 +50,11 @@
 </td></tr></tbody></table>
 
 
-
 ## 说明文本
 
 ### 东方花映塚
-- Music Room (未找到链接)
+
+- [Music Room](./东方花映塚-Music.md#Staff画面)
 
 　制作人员名单时的音乐。  
 　想要创作与以往的Staff Roll曲不同的欢乐的曲子，  
@@ -74,33 +62,39 @@
 　也许应该更强烈地偏向某一种感觉。  
 　反正，表现出这样就结束的感觉了啊，要说也有点起始感。  
 　曲子还不错吧？
-
 ## 其他资料
 
 ### 乐理资讯
 
 ### 分析考据
   
- **魂の花　～ Another Dream...**  魂之花　～ Another Dream...
+**魂の花 ～ Another Dream...** 魂之花　～ Another Dream...
   
 
-- 魂
+- 魂 
   - 外界涌入的灵魂。
 
-- 花
+
+- 花 
   - 幻想乡的花。
-  - 创作的灵感？
+  - 创作的灵感？ 
     - 本曲为staff曲。
 
 
-- Another Dream
-  - 另一个梦。
+
+
+- Another Dream 
+  - 另一个梦。 
     - 花映塚是继东方梦时空后第二部弹幕对战游戏。
 
 
-- …
-  - 语意未尽，让人思索。
+
+
+- … 
+  - 语意未尽，让人思索。 
     - 可能表示后期会有新的作品——《[东方风神录](./东方风神录.md)》。也可能表示后期会有新的弹幕对战游戏——《[东方兽王园](./东方兽王园.md)》。
+
+
 
 
 
@@ -117,17 +111,6 @@
 <tr><td>Arrange</td><td>69</td></tr>
 <tr><td>Vocal率</td><td>28.13%</td></tr>
 </tbody></table>
-
-
-
-
-  
-  
-
-  
-
-
-
 
 
 ---

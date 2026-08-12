@@ -1,16 +1,12 @@
 # 文件:现世通行LOGO.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2d\ns6%3A%E7%8E%B0%E4%B8%96%E9%80%9A%E8%A1%8CLOGO%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2d\ns6%3A%E7%8E%B0%E4%B8%96%E9%80%9A%E8%A1%8CLOGO%2Epng.html -->
 
 现世通行 | 社团LOGO
 
   
 现世通行标志
   
-
-
-
-
 
 ---
 

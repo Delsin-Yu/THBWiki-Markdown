@@ -1,6 +1,6 @@
 # 文件:三日月の寝台Addition封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\87\ns6%3A%E4%B8%89%E6%97%A5%E6%9C%88%E3%81%AE%E5%AF%9D%E5%8F%B0Addition%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\87\ns6%3A%E4%B8%89%E6%97%A5%E6%9C%88%E3%81%AE%E5%AF%9D%E5%8F%B0Addition%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 BELL'S_BRAND | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@ BELL'S_BRAND | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [三日月の寝台Addition](./三日月の寝台Addition.md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)
+- [三日月の寝台Addition](./三日月の寝台Addition.md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
 
   
-[Doujinshi.org ID: B55649 (V2)](https://www.doujinshi.org/book/55649/)
-  
-
-
-
-
+[Doujinshi.org ID: B55649 (V2)](https://www.doujinshi.org/book/55649/)  
 
 ---
 

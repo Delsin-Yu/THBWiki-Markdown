@@ -1,12 +1,8 @@
 # 文件:東方店舗録～Combinations_With_You封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3b\ns6%3A%E6%9D%B1%E6%96%B9%E5%BA%97%E8%88%97%E9%8C%B2%EF%BD%9ECombinations_With_You%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3b\ns6%3A%E6%9D%B1%E6%96%B9%E5%BA%97%E8%88%97%E9%8C%B2%EF%BD%9ECombinations_With_You%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 封面图片 | 没有被使用的封面文件
-
-
-
-
 
 
 ---

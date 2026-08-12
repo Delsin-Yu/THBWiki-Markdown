@@ -1,12 +1,8 @@
 # 文件:THD2信仰吊坠.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\69\ns6%3ATHD2%E4%BF%A1%E4%BB%B0%E5%90%8A%E5%9D%A0%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\69\ns6%3ATHD2%E4%BF%A1%E4%BB%B0%E5%90%8A%E5%9D%A0%2Epng.html -->
 
 AvalonStudioOfficial
-
-
-
-
 
 
 ---

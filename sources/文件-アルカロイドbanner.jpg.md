@@ -1,12 +1,8 @@
 # 文件:アルカロイドbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5f\ns6%3A%E3%82%A2%E3%83%AB%E3%82%AB%E3%83%AD%E3%82%A4%E3%83%89banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5f\ns6%3A%E3%82%A2%E3%83%AB%E3%82%AB%E3%83%AD%E3%82%A4%E3%83%89banner%2Ejpg.html -->
 
 アルカロイド
-
-
-
-
 
 
 ---

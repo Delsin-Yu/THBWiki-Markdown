@@ -1,16 +1,12 @@
 # 文件:xqpc.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fc\ns6%3Axqpc%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fc\ns6%3Axqpc%2Epng.html -->
 
 二次角色立绘 | 信取Pica | 彣影杉
 
   
 信取Pica
   
-
-
-
-
 
 ---
 

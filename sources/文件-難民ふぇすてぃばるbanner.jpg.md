@@ -1,18 +1,13 @@
 # 文件:難民ふぇすてぃばるbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\03\ns6%3A%E9%9B%A3%E6%B0%91%E3%81%B5%E3%81%87%E3%81%99%E3%81%A6%E3%81%83%E3%81%B0%E3%82%8Bbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\03\ns6%3A%E9%9B%A3%E6%B0%91%E3%81%B5%E3%81%87%E3%81%99%E3%81%A6%E3%81%83%E3%81%B0%E3%82%8Bbanner%2Ejpg.html -->
 
 社团LOGO | 難民ふぇすてぃばる
 
 
 ## 文件说明
   
-源地址：[[1]](http://gibuchoko.web.fc2.com/fgfdgfdgf.gif)
-  
-
-
-
-
+源地址：[\[1\]](http://gibuchoko.web.fc2.com/fgfdgfdgf.gif)  
 
 ---
 

@@ -1,12 +1,8 @@
 # 文件:FRACbanner2.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\31\ns6%3AFRACbanner2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\31\ns6%3AFRACbanner2%2Ejpg.html -->
 
 FRAC | 社团LOGO
-
-
-
-
 
 
 ---

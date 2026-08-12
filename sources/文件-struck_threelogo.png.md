@@ -1,18 +1,13 @@
 # 文件:struck_threelogo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\47\ns6%3Astruck_threelogo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\47\ns6%3Astruck_threelogo%2Epng.html -->
 
 struck_three | 社团LOGO
 
 
 ## 摘要
   
-源地址：[direct image link (max size)](https://image.jimcdn.com/app/cms/image/transf/none/path/s555c884c706ef551/image/ic8699a0404008def/version/1522775254/image.png), [source page (circle website)](https://struck-three.jimdofree.com/)
-  
-
-
-
-
+源地址：[direct image link (max size)](https://image.jimcdn.com/app/cms/image/transf/none/path/s555c884c706ef551/image/ic8699a0404008def/version/1522775254/image.png), [source page (circle website)](https://struck-three.jimdofree.com/)  
 
 ---
 

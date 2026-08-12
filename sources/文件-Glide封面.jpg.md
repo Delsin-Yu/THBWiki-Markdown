@@ -1,6 +1,6 @@
 # 文件:Glide封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a9\ns6%3AGlide%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a9\ns6%3AGlide%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Ark_of_Phantasm | 专辑封面 | 封面图片
 
@@ -13,12 +13,7 @@ Ark_of_Phantasm | 专辑封面 | 封面图片
 - [Glide](./Glide.md)
 
   
-源地址：[direct image link](https://web.archive.org/web/20120318184557im_/http://gkf.sakura.ne.jp/winna/blog/images/glide_omote.jpg), [source page](https://web.archive.org/web/20121226175759/http://gkf.sakura.ne.jp/winna/blog/static.php?page=product_cd)
-  
-
-
-
-
+源地址：[direct image link](https://web.archive.org/web/20120318184557im_/http://gkf.sakura.ne.jp/winna/blog/images/glide_omote.jpg), [source page](https://web.archive.org/web/20121226175759/http://gkf.sakura.ne.jp/winna/blog/static.php?page=product_cd)  
 
 ---
 

@@ -1,12 +1,8 @@
 # 文件:因幡帝b（花映塚自机像素绘）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\38\ns6%3A%E5%9B%A0%E5%B9%A1%E5%B8%9Db%EF%BC%88%E8%8A%B1%E6%98%A0%E5%A1%9A%E8%87%AA%E6%9C%BA%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\38\ns6%3A%E5%9B%A0%E5%B9%A1%E5%B8%9Db%EF%BC%88%E8%8A%B1%E6%98%A0%E5%A1%9A%E8%87%AA%E6%9C%BA%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89%2Epng.html -->
 
 STG自机像素绘 | 东方花映塚 | 因幡帝 | 官方游戏像素绘
-
-
-
-
 
 
 ---

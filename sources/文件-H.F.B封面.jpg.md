@@ -1,6 +1,6 @@
 # 文件:H.F.B封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7a\ns6%3AH%2EF%2EB%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7a\ns6%3AH%2EF%2EB%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ビッグアイランド | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [H.F.B](./H.F.B.md)  
-该封面包含的角色：- [古明地觉](./古明地觉.md)
-
-
-
+- [H.F.B](./H.F.B.md)该封面包含的角色：
+- [古明地觉](./古明地觉.md)
 
 
 ---

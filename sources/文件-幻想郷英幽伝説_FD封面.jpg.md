@@ -1,6 +1,6 @@
 # 文件:幻想郷英幽伝説_FD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bf\ns6%3A%E5%B9%BB%E6%83%B3%E9%83%B7%E8%8B%B1%E5%B9%BD%E4%BC%9D%E8%AA%AC_FD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bf\ns6%3A%E5%B9%BB%E6%83%B3%E9%83%B7%E8%8B%B1%E5%B9%BD%E4%BC%9D%E8%AA%AC_FD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 趣味工房にんじんわいん
 
@@ -8,11 +8,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [幻想郷英幽伝説 FD](./幻想郷英幽伝説_FD.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- 十六夜咲夜 (未找到链接)- [东风谷早苗](./东风谷早苗.md)
-
-
-
+- [幻想郷英幽伝説 FD](./幻想郷英幽伝説_FD.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [十六夜咲夜](./十六夜咲夜.md)
+- [东风谷早苗](./东风谷早苗.md)
 
 
 ---

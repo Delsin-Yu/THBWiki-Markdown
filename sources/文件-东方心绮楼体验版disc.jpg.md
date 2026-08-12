@@ -1,12 +1,8 @@
 # 文件:东方心绮楼体验版disc.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\19\ns6%3A%E4%B8%9C%E6%96%B9%E5%BF%83%E7%BB%AE%E6%A5%BC%E4%BD%93%E9%AA%8C%E7%89%88disc%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\19\ns6%3A%E4%B8%9C%E6%96%B9%E5%BF%83%E7%BB%AE%E6%A5%BC%E4%BD%93%E9%AA%8C%E7%89%88disc%2Ejpg.html -->
 
 东方心绮楼 | 官方游戏体验版光盘扫图
-
-
-
-
 
 
 ---

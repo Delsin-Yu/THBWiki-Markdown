@@ -1,6 +1,6 @@
 # 文件:Secret（京田モータース）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ae\ns6%3ASecret%EF%BC%88%E4%BA%AC%E7%94%B0%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%B9%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ae\ns6%3ASecret%EF%BC%88%E4%BA%AC%E7%94%B0%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%B9%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 京田モータース | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Secret（京田モータース）](./Secret（京田モータース）.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
-
-
-
+- [Secret（京田モータース）](./Secret（京田モータース）.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
 
 ---

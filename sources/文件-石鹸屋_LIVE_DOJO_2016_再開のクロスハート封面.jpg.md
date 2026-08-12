@@ -1,6 +1,6 @@
 # 文件:石鹸屋_LIVE_DOJO_2016_再開のクロスハート封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d4\ns6%3A%E7%9F%B3%E9%B9%B8%E5%B1%8B_LIVE_DOJO_2016_%E5%86%8D%E9%96%8B%E3%81%AE%E3%82%AF%E3%83%AD%E3%82%B9%E3%83%8F%E3%83%BC%E3%83%88%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d4\ns6%3A%E7%9F%B3%E9%B9%B8%E5%B1%8B_LIVE_DOJO_2016_%E5%86%8D%E9%96%8B%E3%81%AE%E3%82%AF%E3%83%AD%E3%82%B9%E3%83%8F%E3%83%BC%E3%83%88%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 石鹸屋
 
@@ -9,9 +9,6 @@
   
 
 - [石鹸屋 LIVE DOJO 2016 再開のクロスハート](./石鹸屋_LIVE_DOJO_2016_再開のクロスハート.md)
-
-
-
 
 
 ---

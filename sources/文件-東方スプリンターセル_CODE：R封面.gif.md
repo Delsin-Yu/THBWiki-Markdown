@@ -1,6 +1,6 @@
 # 文件:東方スプリンターセル_CODE：R封面.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8a\ns6%3A%E6%9D%B1%E6%96%B9%E3%82%B9%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%82%BB%E3%83%AB_CODE%EF%BC%9AR%E5%B0%81%E9%9D%A2%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8a\ns6%3A%E6%9D%B1%E6%96%B9%E3%82%B9%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%82%BB%E3%83%AB_CODE%EF%BC%9AR%E5%B0%81%E9%9D%A2%2Egif.html -->
 
 BlueMica | 封面图片 | 软件封面
 
@@ -8,11 +8,8 @@ BlueMica | 封面图片 | 软件封面
 使用了本文件作封面图片的作品：
   
 
-- [東方スプリンターセル CODE：R](./東方スプリンターセル_CODE：R.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [東方スプリンターセル CODE：R](./東方スプリンターセル_CODE：R.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

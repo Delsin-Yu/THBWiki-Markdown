@@ -1,6 +1,6 @@
 # 文件:姫リグルvsフラン封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a4\ns6%3A%E5%A7%AB%E3%83%AA%E3%82%B0%E3%83%ABvs%E3%83%95%E3%83%A9%E3%83%B3%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a4\ns6%3A%E5%A7%AB%E3%83%AA%E3%82%B0%E3%83%ABvs%E3%83%95%E3%83%A9%E3%83%B3%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ふすま喫茶 | 同人志封面 | 封面图片 | 蒼空市場
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [姫リグルvsフラン](./姫リグルvsフラン.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)- [莉格露·奈特巴格](./莉格露·奈特巴格.md)
-
-
-
+- [姫リグルvsフラン](./姫リグルvsフラン.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [莉格露·奈特巴格](./莉格露·奈特巴格.md)
 
 
 ---

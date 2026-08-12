@@ -1,6 +1,6 @@
 # 文件:diary（白上さん家）封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\31\ns6%3Adiary%EF%BC%88%E7%99%BD%E4%B8%8A%E3%81%95%E3%82%93%E5%AE%B6%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\31\ns6%3Adiary%EF%BC%88%E7%99%BD%E4%B8%8A%E3%81%95%E3%82%93%E5%AE%B6%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 ゆめかばん | 同人志封面 | 封面图片 | 白上さん家
 
@@ -11,9 +11,6 @@
   
 
 - [diary（白上さん家）](./diary（白上さん家）.md)
-
-
-
 
 
 ---

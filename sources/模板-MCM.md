@@ -1,16 +1,12 @@
 # 模板:MCM
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\7\70\ns10%3AMCM.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\7\70\ns10%3AMCM.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

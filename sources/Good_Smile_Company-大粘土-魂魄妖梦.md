@@ -1,37 +1,21 @@
 # Good_Smile_Company/大粘土/魂魄妖梦
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\21\ns0%3AGood_Smile_Company%2F%E5%A4%A7%E7%B2%98%E5%9C%9F%2F%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\21\ns0%3AGood_Smile_Company%2F%E5%A4%A7%E7%B2%98%E5%9C%9F%2F%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6.html -->
 
 魂魄妖梦PVCFigure手办模型
 
 本页是关于东方Project  
- **相关实体周边 (未找到链接)** 的词条
-
+**相关实体周边 (未找到链接)**的词条
 ## 模型信息
 
-<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 魂魄妖梦 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>大粘土</td></tr><tr><td class="label">角色</td><td><a href="./魂魄妖梦.md" title="魂魄妖梦">魂魄妖梦</a></td></tr><tr><td class="label">原型师</td><td><a href="/index.php?title=JUN_(E.V.)&amp;action=edit&amp;redlink=1" class="new" title="JUN (E.V.)（页面不存在）">JUN (E.V.)</a></td></tr><tr><td class="label">尺寸</td><td>100mm</td></tr><tr><td class="label">状态</td><td>已发售</td></tr><tr><td class="label">售价</td><td>2857日元</td></tr><tr><td class="label">首发日期</td><td>2011-04-20</td></tr><tr><td class="label">发售方</td><td><a href="./Good_Smile_Company.md" title="Good Smile Company">Good Smile Company</a></td></tr><tr><td class="label">再版日期</td><td>2012-12-25</td></tr><tr><td class="label">官网页面</td><td><a rel="nofollow" class="external free" href="http://goodsmileasia.info/">http://goodsmileasia.info/</a></td></tr><tr><td class="label">备注</td><td>编号141 附赠头顶青筋表情贴纸</td></tr></tbody></table>
+<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 魂魄妖梦 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>大粘土</td></tr><tr><td class="label">角色</td><td><a href="./魂魄妖梦.md" title="魂魄妖梦">魂魄妖梦</a></td></tr><tr><td class="label">原型师</td><td><a class="new" title="JUN (E.V.)（页面不存在）">JUN (E.V.)</a></td></tr><tr><td class="label">尺寸</td><td>100mm</td></tr><tr><td class="label">状态</td><td>已发售</td></tr><tr><td class="label">售价</td><td>2857日元</td></tr><tr><td class="label">首发日期</td><td>2011-04-20</td></tr><tr><td class="label">发售方</td><td><a href="./Good_Smile_Company.md" title="Good Smile Company">Good Smile Company</a></td></tr><tr><td class="label">再版日期</td><td>2012-12-25</td></tr><tr><td class="label">官网页面</td><td><a rel="nofollow" class="external free" href="http://goodsmileasia.info/">http://goodsmileasia.info/</a></td></tr><tr><td class="label">备注</td><td>编号141 附赠头顶青筋表情贴纸</td></tr></tbody></table>
 
 Good Smile Company/大粘土/魂魄妖梦（周边） - 魂魄妖梦PVCFigure手办模型
-
 ## 参考图片
-
-
-
-[](./文件-Good_Smile_Company大粘土魂魄妖梦-1.jpg.md)
-
-
-[](./文件-Good_Smile_Company大粘土魂魄妖梦-2.jpg.md)
-
-
-[](./文件-Good_Smile_Company大粘土魂魄妖梦-3.jpg.md)
-
+<img alt="Good Smile Company大粘土魂魄妖梦" src="https://upload.thwiki.cc/thumb/0/08/Good_Smile_Company%E5%A4%A7%E7%B2%98%E5%9C%9F%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6-1.jpg/160px-Good_Smile_Company%E5%A4%A7%E7%B2%98%E5%9C%9F%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6-1.jpg" decoding="async" loading="lazy" width="160" height="173" srcset="https://upload.thwiki.cc/thumb/0/08/Good_Smile_Company%E5%A4%A7%E7%B2%98%E5%9C%9F%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6-1.jpg/240px-Good_Smile_Company%E5%A4%A7%E7%B2%98%E5%9C%9F%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6-1.jpg 1.5x, https://upload.thwiki.cc/thumb/0/08/Good_Smile_Company%E5%A4%A7%E7%B2%98%E5%9C%9F%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6-1.jpg/320px-Good_Smile_Company%E5%A4%A7%E7%B2%98%E5%9C%9F%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6-1.jpg 2x" data-file-width="500" data-file-height="542">
+<img alt="Good Smile Company大粘土魂魄妖梦" src="https://upload.thwiki.cc/thumb/3/30/Good_Smile_Company%E5%A4%A7%E7%B2%98%E5%9C%9F%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6-2.jpg/170px-Good_Smile_Company%E5%A4%A7%E7%B2%98%E5%9C%9F%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6-2.jpg" decoding="async" loading="lazy" width="170" height="173" srcset="https://upload.thwiki.cc/thumb/3/30/Good_Smile_Company%E5%A4%A7%E7%B2%98%E5%9C%9F%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6-2.jpg/255px-Good_Smile_Company%E5%A4%A7%E7%B2%98%E5%9C%9F%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6-2.jpg 1.5x, https://upload.thwiki.cc/thumb/3/30/Good_Smile_Company%E5%A4%A7%E7%B2%98%E5%9C%9F%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6-2.jpg/340px-Good_Smile_Company%E5%A4%A7%E7%B2%98%E5%9C%9F%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6-2.jpg 2x" data-file-width="500" data-file-height="509">
+<img alt="Good Smile Company大粘土魂魄妖梦" src="https://upload.thwiki.cc/thumb/3/31/Good_Smile_Company%E5%A4%A7%E7%B2%98%E5%9C%9F%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6-3.jpg/195px-Good_Smile_Company%E5%A4%A7%E7%B2%98%E5%9C%9F%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6-3.jpg" decoding="async" loading="lazy" width="195" height="173" srcset="https://upload.thwiki.cc/thumb/3/31/Good_Smile_Company%E5%A4%A7%E7%B2%98%E5%9C%9F%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6-3.jpg/293px-Good_Smile_Company%E5%A4%A7%E7%B2%98%E5%9C%9F%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6-3.jpg 1.5x, https://upload.thwiki.cc/thumb/3/31/Good_Smile_Company%E5%A4%A7%E7%B2%98%E5%9C%9F%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6-3.jpg/390px-Good_Smile_Company%E5%A4%A7%E7%B2%98%E5%9C%9F%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6-3.jpg 2x" data-file-width="500" data-file-height="444">
 公式图
-
-
-
-
-
-
 
 ---
 

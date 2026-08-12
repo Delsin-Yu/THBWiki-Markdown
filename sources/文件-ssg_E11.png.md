@@ -1,16 +1,12 @@
 # 文件:ssg_E11.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\27\ns6%3Assg_E11%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\27\ns6%3Assg_E11%2Epng.html -->
 
 秋霜玉
 
   
 秋霜玉敌机11像素图。
   
-
-
-
-
 
 ---
 

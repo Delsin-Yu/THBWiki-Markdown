@@ -1,6 +1,6 @@
 # 文件:东方远空界_~_Ultimate_Vitality_of_Imagination封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\77\ns6%3A%E4%B8%9C%E6%96%B9%E8%BF%9C%E7%A9%BA%E7%95%8C_%7E_Ultimate_Vitality_of_Imagination%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\77\ns6%3A%E4%B8%9C%E6%96%B9%E8%BF%9C%E7%A9%BA%E7%95%8C_%7E_Ultimate_Vitality_of_Imagination%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 封面图片 | 神心飘游堂 | 软件封面
 
@@ -8,11 +8,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [东方远空界 ~ Ultimate Vitality of Imagination](./东方远空界_~_Ultimate_Vitality_of_Imagination.md)  
-该封面包含的角色：- [爱赫娜特恩·凝心](./爱赫娜特恩·凝心.md)- [神欲知现空](./神欲知现空.md)- [明隐玄思](./明隐玄思.md)
-
-
-
+- [东方远空界 ~ Ultimate Vitality of Imagination](./东方远空界_~_Ultimate_Vitality_of_Imagination.md)该封面包含的角色：
+- [爱赫娜特恩·凝心](./爱赫娜特恩·凝心.md)
+- [神欲知现空](./神欲知现空.md)
+- [明隐玄思](./明隐玄思.md)
 
 
 ---

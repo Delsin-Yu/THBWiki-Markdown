@@ -1,6 +1,6 @@
 # 文件:JUST_FLOWERING封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7d\ns6%3AJUST_FLOWERING%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7d\ns6%3AJUST_FLOWERING%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 ZYTOKINE | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ ZYTOKINE | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [JUST FLOWERING](./JUST_FLOWERING.md)  
-该封面包含的角色：- [风见幽香](./风见幽香.md)
-
-
-
+- [JUST FLOWERING](./JUST_FLOWERING.md)该封面包含的角色：
+- [风见幽香](./风见幽香.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:上海TH09_東方萤灯筏紀念CD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d3\ns6%3A%E4%B8%8A%E6%B5%B7TH09_%E6%9D%B1%E6%96%B9%E8%90%A4%E7%81%AF%E7%AD%8F%E7%B4%80%E5%BF%B5CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d3\ns6%3A%E4%B8%8A%E6%B5%B7TH09_%E6%9D%B1%E6%96%B9%E8%90%A4%E7%81%AF%E7%AD%8F%E7%B4%80%E5%BF%B5CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 上海THONLY组委会 | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [上海TH09 東方萤灯筏紀念CD](./上海TH09_東方萤灯筏紀念CD.md)  
-该封面包含的角色：- [古明地恋](./古明地恋.md)
-
-
-
+- [上海TH09 東方萤灯筏紀念CD](./上海TH09_東方萤灯筏紀念CD.md)该封面包含的角色：
+- [古明地恋](./古明地恋.md)
 
 
 ---

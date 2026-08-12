@@ -1,68 +1,52 @@
 # 少女神性_～_Pandora's_Box
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\e\e3\ns0%3A%E5%B0%91%E5%A5%B3%E7%A5%9E%E6%80%A7_%EF%BD%9E_Pandora%27s_Box.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\e\e3\ns0%3A%E5%B0%91%E5%A5%B3%E7%A5%9E%E6%80%A7_%EF%BD%9E_Pandora%27s_Box.html -->
 
 由 ZUN 创作的官方曲目，原名 少女神性　～ Pandora's Box
 
 本页是关于东方Project  
- **原作音乐** 的词条
-
+**原作音乐**的词条
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 出现作品](#出现作品)
 - [3 音乐文件](#音乐文件)
-
   - [3.1 秋霜玉](#秋霜玉)
   - [3.2 东方幻想的音乐](#东方幻想的音乐)
 
 
-
 - [4 说明文本](#说明文本)
-
   - [4.1 秋霜玉](#秋霜玉_2)
-
     - [4.1.1 Music Room](#Music_Room)
     - [4.1.2 创曲幻想](#创曲幻想)
 
 
-
   - [4.2 东方幻想的音乐](#东方幻想的音乐_2)
-
     - [4.2.1 秋霜玉](#秋霜玉_3)
 
 
 
 
-
-
 - [5 其他资料](#其他资料)
-
   - [5.1 乐理资讯](#乐理资讯)
   - [5.2 分析考据](#分析考据)
   - [5.3 二次同人数据](#二次同人数据)
 
 
-
 - [6 注释](#注释)
-
-
-
 
 
 ## 基本信息
 
-<table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">少女神性　～ Pandora's Box</td></tr><tr><td><b>译名</b></td><td>少女神性 ～ Pandora&#39;s Box</td></tr><tr><td><b>英文译名</b></td><td>Girl's Divinity ~ Pandora's Box</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
+<table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">少女神性　～ Pandora's Box</td></tr><tr><td><b>译名</b></td><td>少女神性 ～ Pandora's Box</td></tr><tr><td><b>英文译名</b></td><td>Girl's Divinity ~ Pandora's Box</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 少女神性 ～ Pandora's Box（曲目） - 由 ZUN 创作的官方曲目，原名 少女神性　～ Pandora's Box
-
 ## 出现作品
 
 <table>
-<tbody><tr><td>2000年12月30日（Comic Market 59）</td><td><b><a href="./秋霜玉.md" title="秋霜玉">秋霜玉</a></b></td><td>最终关BOSS<a href="./ビビット（VIVIT）.md" title="ビビット（VIVIT）">ビビット</a>的主题曲3</td><td style="padding-left:5px;">少女神性　～ Pandora's Box（少女神性 ～ Pandora&#39;s Box）</td><td style="padding-left:10px;">作曲：ZUN</td></tr>
-<tr><td>2001年4月29日（非展会）</td><td><b><a href="./东方幻想的音乐.md" title="东方幻想的音乐">东方幻想的音乐</a></b></td><td>秋霜玉</td><td style="padding-left:5px;">少女神性　～ Pandora's Box（少女神性 ～ Pandora&#39;s Box）</td><td style="padding-left:10px;">编曲：ZUN</td></tr>
+<tbody><tr><td>2000年12月30日（Comic Market 59）</td><td><b><a href="./秋霜玉.md" title="秋霜玉">秋霜玉</a></b></td><td>最终关BOSS<a href="./ビビット（VIVIT）.md" title="ビビット（VIVIT）">ビビット</a>的主题曲3</td><td style="padding-left:5px;">少女神性　～ Pandora's Box（少女神性 ～ Pandora's Box）</td><td style="padding-left:10px;">作曲：ZUN</td></tr>
+<tr><td>2001年4月29日（非展会）</td><td><b><a href="./东方幻想的音乐.md" title="东方幻想的音乐">东方幻想的音乐</a></b></td><td>秋霜玉</td><td style="padding-left:5px;">少女神性　～ Pandora's Box（少女神性 ～ Pandora's Box）</td><td style="padding-left:10px;">编曲：ZUN</td></tr>
 </tbody></table>
-
 
 
 ## 音乐文件
@@ -72,9 +56,7 @@
 MP3由Roland SC-88Pro 实机录制。官方只发布MIDI而未发布MP3，故音轨长度以从游戏中提取的原MIDI文件为准。
   
 
-
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td><a href="./文件-sh01_15.mid.md" title="文件:sh01 15.mid">sh01_15.mid</a></td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-SE01_15.mp3.md" title="文件:SE01 15.mp3">SE01_15.mp3</a><br><audio src="https://upload.thwiki.cc/e/ee/SE01_15.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>MUSIC\DATA0014（MIDI）</td></tr><tr><td><b>音轨时长</b></td><td>5:49</td></tr></tbody></table>
-
 
 
 ### 东方幻想的音乐
@@ -82,9 +64,7 @@ MP3由Roland SC-88Pro 实机录制。官方只发布MIDI而未发布MP3，故音
 MP3由Roland SC-88Pro 实机录制。官方只发布MIDI而未发布MP3，故音轨长度以原MIDI文件为准。
   
 
-
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td><a href="./文件-ssg_15.mid.md" title="文件:ssg 15.mid">ssg_15.mid</a></td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-ssg_15.mp3.md" title="文件:ssg 15.mp3">ssg_15.mp3</a><br><audio src="https://upload.thwiki.cc/2/26/ssg_15.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td><a rel="nofollow" class="external free" href="http://www16.big.or.jp/~zun/html/music_old.html">http://www16.big.or.jp/~zun/html/music_old.html</a></td></tr><tr><td><b>音轨时长</b></td><td>4:00</td></tr></tbody></table>
-
 
 
 ## 说明文本
@@ -92,7 +72,8 @@ MP3由Roland SC-88Pro 实机录制。官方只发布MIDI而未发布MP3，故音
 ### 秋霜玉
 
 #### Music Room
-- Music Room (未找到链接)
+
+- [Music Room](./秋霜玉-Music.md#最终面bossビビット的主题曲3)
 
 最终Boss，VIVIT的主题曲３。  
   
@@ -101,19 +82,19 @@ MP3由Roland SC-88Pro 实机录制。官方只发布MIDI而未发布MP3，故音
 “西洋风真令人高兴呐～。”我就是将其做成了这种感觉（微谜）  
   
 我本想将全部的曲子都做成这种感觉。（喂喂）少女神性 ～ Pandora's Box
-
 #### 创曲幻想
-- 创曲幻想 (未找到链接)
+
+- [创曲幻想](./附带文档-秋霜玉-创曲幻想.md#曲名解说-16)
 
 【 少女神性 ～ Pandora's Box 】最终Boss主题曲3  
   
 Pandora's Box ： 希望  
 总之，我不知道会是什么样的Boss，所以就尽可能地做得神圣了，但也带有流行音乐的感觉。少女神性。意义不明的标题（笑）
-
 ### 东方幻想的音乐
 
 #### 秋霜玉
-- 东方幻想的音乐 (未找到链接)
+
+- [东方幻想的音乐](./东方幻想的音乐-过去的曲子-秋霜玉.md#少女神性_～_Pandora's_Box)
 
 +----------------------------------------------------------------------------+  
 |【 　 曲名　　】| 【 少女神性　～ Pandora's Box 】  
@@ -127,7 +108,7 @@ Pandora's Box ： 希望
 |                | 这种时候，请不要更动压缩包内部文件。  
 |【　 著作权 　】| ＺＵＮ (太田顺也）  
 |【演奏上的注意】| 用sc-88Pro 的人在演奏时请不要按88Map。  
-|                                          &#126;&#126;&#126;&#126;~   
+|                                          ~~~~~   
 +-----------------------------------------------------------------------------+  
 感谢您下载本文件。  
   
@@ -156,7 +137,6 @@ Pandora's Box ： 希望
 曲子的感想、请求等，这边请  
 　东方幻想空间　「博丽神社」 [http://www16.big.or.jp/~zun/](http://www16.big.or.jp/~zun/)  
 　e-Mail                     zun@big.or.jp
-
 ## 其他资料
 
 ### 乐理资讯
@@ -166,7 +146,7 @@ Pandora's Box ： 希望
 ### 二次同人数据
 
 <table><tbody><tr><th colspan="2">统计</th></tr>
-<tr><td>名称</td><td>少女神性 ～ Pandora&#39;s Box</td></tr>
+<tr><td>名称</td><td>少女神性 ～ Pandora's Box</td></tr>
 <tr><td>别名</td><td>少女神性</td></tr>
 <tr><td>首发作品</td><td></td></tr>
 <tr><td>首发日期</td><td></td></tr>
@@ -175,16 +155,6 @@ Pandora's Box ： 希望
 <tr><td>Arrange</td><td>0</td></tr>
 <tr><td>Vocal率</td><td>0%</td></tr>
 </tbody></table>
-
-
-
-  
-  
-
-  
-
-
-
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:莉莉霍瓦特（祈华梦立绘）sad.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\84\ns6%3A%E8%8E%89%E8%8E%89%E9%9C%8D%E7%93%A6%E7%89%B9%EF%BC%88%E7%A5%88%E5%8D%8E%E6%A2%A6%E7%AB%8B%E7%BB%98%EF%BC%89sad%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\84\ns6%3A%E8%8E%89%E8%8E%89%E9%9C%8D%E7%93%A6%E7%89%B9%EF%BC%88%E7%A5%88%E5%8D%8E%E6%A2%A6%E7%AB%8B%E7%BB%98%EF%BC%89sad%2Epng.html -->
 
 OSY搞事组 | 东方祈华梦制作组 | 二次角色立绘 | 莉莉霍瓦特（祈华梦）
-
-
-
-
 
 
 ---

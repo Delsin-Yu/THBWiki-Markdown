@@ -1,37 +1,20 @@
 # GRIFFON/凤凰ver/藤原妹红
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\f3\ns0%3AGRIFFON%2F%E5%87%A4%E5%87%B0ver%2F%E8%97%A4%E5%8E%9F%E5%A6%B9%E7%BA%A2.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\f3\ns0%3AGRIFFON%2F%E5%87%A4%E5%87%B0ver%2F%E8%97%A4%E5%8E%9F%E5%A6%B9%E7%BA%A2.html -->
 
 藤原妹红PVCFigure手办模型
 
 本页是关于东方Project  
- **相关实体周边 (未找到链接)** 的词条
-
+**相关实体周边 (未找到链接)**的词条
 ## 模型信息
 
-<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 藤原妹红 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>凤凰ver</td></tr><tr><td class="label">角色</td><td><a href="./藤原妹红.md" title="藤原妹红">藤原妹红</a></td></tr><tr><td class="label">原型师</td><td><a href="/index.php?title=%E3%81%82%E3%81%8D%E3%82%84%E3%81%BE_%E3%81%82%E3%81%8D%E3%81%8A&amp;action=edit&amp;redlink=1" class="new" title="あきやま あきお（页面不存在）">あきやま あきお</a></td></tr><tr><td class="label">比例</td><td>1/8</td></tr><tr><td class="label">尺寸</td><td>220mm</td></tr><tr><td class="label">状态</td><td>已发售</td></tr><tr><td class="label">售价</td><td>9800円</td></tr><tr><td class="label">首发日期</td><td>2013-03</td></tr><tr><td class="label">发售方</td><td><a href="/index.php?title=GRIFFON&amp;action=edit&amp;redlink=1" class="new" title="GRIFFON（页面不存在）">GRIFFON</a></td></tr></tbody></table>
+<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 藤原妹红 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>凤凰ver</td></tr><tr><td class="label">角色</td><td><a href="./藤原妹红.md" title="藤原妹红">藤原妹红</a></td></tr><tr><td class="label">原型师</td><td><a class="new" title="あきやま あきお（页面不存在）">あきやま あきお</a></td></tr><tr><td class="label">比例</td><td>1/8</td></tr><tr><td class="label">尺寸</td><td>220mm</td></tr><tr><td class="label">状态</td><td>已发售</td></tr><tr><td class="label">售价</td><td>9800円</td></tr><tr><td class="label">首发日期</td><td>2013-03</td></tr><tr><td class="label">发售方</td><td><a class="new" title="GRIFFON（页面不存在）">GRIFFON</a></td></tr></tbody></table>
 
 GRIFFON/凤凰ver/藤原妹红（周边） - 藤原妹红PVCFigure手办模型
-
 ## 参考图片
-
-
-
-[](./文件-GRIFFON凤凰ver藤原妹红-1.jpg.md)
-
-
-[](./文件-GRIFFON凤凰ver藤原妹红-2.jpg.md)
-
-
-文件:GRIFFON凤凰ver藤原妹红-3.jpg (未找到链接)
-
-公式图
-
-
-
-
-
-
+<img alt="GRIFFON凤凰ver藤原妹红" src="https://upload.thwiki.cc/thumb/f/fe/GRIFFON%E5%87%A4%E5%87%B0ver%E8%97%A4%E5%8E%9F%E5%A6%B9%E7%BA%A2-1.jpg/160px-GRIFFON%E5%87%A4%E5%87%B0ver%E8%97%A4%E5%8E%9F%E5%A6%B9%E7%BA%A2-1.jpg" decoding="async" loading="lazy" width="160" height="107" srcset="https://upload.thwiki.cc/thumb/f/fe/GRIFFON%E5%87%A4%E5%87%B0ver%E8%97%A4%E5%8E%9F%E5%A6%B9%E7%BA%A2-1.jpg/240px-GRIFFON%E5%87%A4%E5%87%B0ver%E8%97%A4%E5%8E%9F%E5%A6%B9%E7%BA%A2-1.jpg 1.5x, https://upload.thwiki.cc/thumb/f/fe/GRIFFON%E5%87%A4%E5%87%B0ver%E8%97%A4%E5%8E%9F%E5%A6%B9%E7%BA%A2-1.jpg/320px-GRIFFON%E5%87%A4%E5%87%B0ver%E8%97%A4%E5%8E%9F%E5%A6%B9%E7%BA%A2-1.jpg 2x" data-file-width="1600" data-file-height="1067">
+<img alt="GRIFFON凤凰ver藤原妹红" src="https://upload.thwiki.cc/thumb/a/a3/GRIFFON%E5%87%A4%E5%87%B0ver%E8%97%A4%E5%8E%9F%E5%A6%B9%E7%BA%A2-2.jpg/160px-GRIFFON%E5%87%A4%E5%87%B0ver%E8%97%A4%E5%8E%9F%E5%A6%B9%E7%BA%A2-2.jpg" decoding="async" loading="lazy" width="160" height="107" srcset="https://upload.thwiki.cc/thumb/a/a3/GRIFFON%E5%87%A4%E5%87%B0ver%E8%97%A4%E5%8E%9F%E5%A6%B9%E7%BA%A2-2.jpg/240px-GRIFFON%E5%87%A4%E5%87%B0ver%E8%97%A4%E5%8E%9F%E5%A6%B9%E7%BA%A2-2.jpg 1.5x, https://upload.thwiki.cc/thumb/a/a3/GRIFFON%E5%87%A4%E5%87%B0ver%E8%97%A4%E5%8E%9F%E5%A6%B9%E7%BA%A2-2.jpg/320px-GRIFFON%E5%87%A4%E5%87%B0ver%E8%97%A4%E5%8E%9F%E5%A6%B9%E7%BA%A2-2.jpg 2x" data-file-width="600" data-file-height="400">
+文件:GRIFFON凤凰ver藤原妹红-3.jpg (未找到链接)公式图
 
 ---
 

@@ -1,18 +1,14 @@
 # Butterfly_Flies_For_Fry/简介
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\5\5f\ns0%3AButterfly_Flies_For_Fry%2F%E7%AE%80%E4%BB%8B.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\5\5f\ns0%3AButterfly_Flies_For_Fry%2F%E7%AE%80%E4%BB%8B.html -->
 
 yu-ki
 
 
 ## 简介
   
-[Butterfly Flies For Fry](./Butterfly_Flies_For_Fry.md)是Chibitami开发的一款游戏，您需要操控[西行寺幽幽子](./西行寺幽幽子.md)吃食物，同时躲避弹幕 (未找到链接)。
+[Butterfly Flies For Fry](./Butterfly_Flies_For_Fry.md)是Chibitami开发的一款游戏，您需要操控[西行寺幽幽子](./西行寺幽幽子.md)吃食物，同时躲避[弹幕](./游戏攻略-STG术语.md#弹幕)。
   
-
-
-
-
 
 ---
 

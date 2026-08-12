@@ -1,38 +1,28 @@
 # Air_Master!_～_Soul_Dualism
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\c\c0\ns0%3AAir_Master%21_%EF%BD%9E_Soul_Dualism.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\c\c0\ns0%3AAir_Master%21_%EF%BD%9E_Soul_Dualism.html -->
 
 Air_Master!_～_Soul_Dualism | JynX作曲 | 引用了翻译表的页面 | 连缘Project | 连缘Project官方音乐
 
-本页是关于 **向[东方Project](./东方Project.md)  
-致敬、形式类似的作品** 的词条
-
+本页是关于**向[东方Project](./东方Project.md)致敬、形式类似的作品**  
+的词条
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 出现作品](#出现作品)
 - [3 音乐文件](#音乐文件)
-
   - [3.1 连缘无现里](#连缘无现里)
   - [3.2 连缘天影战记](#连缘天影战记)
 
 
-
 - [4 说明文本](#说明文本)
-
   - [4.1 连缘无现里](#连缘无现里_2)
   - [4.2 连缘天影战记](#连缘天影战记_2)
 
 
-
 - [5 其他资料](#其他资料)
-
   - [5.1 乐理资讯](#乐理资讯)
   - [5.2 分析考据](#分析考据)
-
-
-
-
 
 
 
@@ -65,7 +55,6 @@ Air_Master!_～_Soul_Dualism | JynX作曲 | 引用了翻译表的页面 | 连缘
 </td></tr></tbody></table>
 
 
-
 ## 出现作品
 
 <table>
@@ -75,7 +64,6 @@ Air_Master!_～_Soul_Dualism | JynX作曲 | 引用了翻译表的页面 | 连缘
 </tbody></table>
 
 
-
 ## 音乐文件
 
 ### 连缘无现里
@@ -83,26 +71,25 @@ Air_Master!_～_Soul_Dualism | JynX作曲 | 引用了翻译表的页面 | 连缘
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>MIDI格式</b></td><td>无播放信息</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-le01_10.mp3.md" title="文件:le01 10.mp3">le01_10.mp3</a><br><audio src="https://upload.thwiki.cc/2/27/le01_10.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>未填写</td></tr></tbody></table>
 
 
-
 ### 连缘天影战记
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>MIDI格式</b></td><td>无播放信息</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-le04_BOSS_Hooaka.mp3.md" title="文件:le04 BOSS Hooaka.mp3">le04_BOSS_Hooaka.mp3</a><br><audio src="https://upload.thwiki.cc/8/82/le04_BOSS_Hooaka.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>未填写</td></tr></tbody></table>
 
 
-
 ## 说明文本
 
 ### 连缘无现里
-- Music Room (未找到链接)
+
+- [Music Room](./连缘无现里～Evanescent_Existence-Music.md#4面BOSS-鹀颊赤主题曲)
 
 四面头目颊赤的曲子。  
 外面空气变冷的话，脸颊也马上会变得赤红，  
 不过颊赤的脸颊不会变红哦。只要没醉的话。  
 是个在“察读气氛”方面颇受好评的家伙，所以是Air Master呢。  
 不不不，曲名真的是由能力而来的啦，真的真的。
-
 ### 连缘天影战记
-- Music Room (未找到链接)
+
+- [Music Room](./连缘天影战记～Brilliant_pagoda_or_haze_castle-Music.md#中立线4面Boss-鹀颊赤主题曲)
 
 四面BOSS，颊赤的曲子。  
   
@@ -111,36 +98,38 @@ Air_Master!_～_Soul_Dualism | JynX作曲 | 引用了翻译表的页面 | 连缘
 但作为BOSS真是相当久违了。  
   
 这首曲子配合着战乱的气氛变得酷热了起来。
-
 ## 其他资料
 
 ### 乐理资讯
 
 ### 分析考据
   
- **エア・マスター！ ～ Soul_Dualism**   
+**エア・マスター！ ～ Soul_Dualism**  
 
 Air Master! ～ Soul_Dualism
   
 
-- Air Master
-  - air
+- Air Master 
+  - air 
     - 空气，在日本也指氛围
 
-  - 鹀颊赤能感知气氛。&#91;鹀颊赤无现里设定&#93; (未找到链接)
-    - 是个在“察读气氛”方面颇受好评的家伙，就把祂叫做Air Master了。&#91;本曲曲评&#93; (未找到链接)
 
-  - 由于祂能掌控冷热，所以也能在一定程度上控制空气，不不不，曲名真的是由能力而来的啦，真的真的。&#91;本曲曲评&#93; (未找到链接)
+  - 鹀颊赤能感知气氛。[\[鹀颊赤无现里设定\]](./鹀颊赤.md#连缘无现里设定)
+    - 是个在“察读气氛”方面颇受好评的家伙，就把祂叫做Air Master了。[\[本曲曲评\]](./连缘无现里～Evanescent_Existence-Music.md#4面BOSS-鹀颊赤主题曲)
 
-- Soul_Dualism
-  - dualism
-    - 二元论、双重性
+
+  - 由于祂能掌控冷热，所以也能在一定程度上控制空气，不不不，曲名真的是由能力而来的啦，真的真的。[\[本曲曲评\]](./连缘无现里～Evanescent_Existence-Music.md#4面BOSS-鹀颊赤主题曲)
+
+
+- Soul_Dualism 
+  - dualism 
+    - 二元论、双重性 
       - 鹀颊赤有掌控冷热之类的能力。冷和热时是相对的，就像物质和精神一样。
 
 
-  - [雀巳](./国主雀巳.md)(Hamee)提到在鹀颊赤一个人的身体中，有两个灵魂和两个人的力量。&#91;连缘天影战记游戏对话&#93; (未找到链接)
 
 
+  - [雀巳](./国主雀巳.md)(Hamee)提到在鹀颊赤一个人的身体中，有两个灵魂和两个人的力量。[\[连缘天影战记游戏对话\]](./连缘天影战记～Brilliant_pagoda_or_haze_castle-？？？组中立线.md#鹀颊赤)
 
 
 

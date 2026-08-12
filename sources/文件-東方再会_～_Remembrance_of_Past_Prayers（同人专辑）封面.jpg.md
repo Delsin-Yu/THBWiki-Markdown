@@ -1,6 +1,6 @@
 # 文件:東方再会_～_Remembrance_of_Past_Prayers（同人专辑）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e2\ns6%3A%E6%9D%B1%E6%96%B9%E5%86%8D%E4%BC%9A_%EF%BD%9E_Remembrance_of_Past_Prayers%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e2\ns6%3A%E6%9D%B1%E6%96%B9%E5%86%8D%E4%BC%9A_%EF%BD%9E_Remembrance_of_Past_Prayers%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Analogue_Reverie | 专辑封面 | 封面图片
 
@@ -13,12 +13,7 @@ Analogue_Reverie | 专辑封面 | 封面图片
 - [東方再会 ～ Remembrance of Past Prayers（同人专辑）](./東方再会_～_Remembrance_of_Past_Prayers（同人专辑）.md)
 
   
-源地址：[[1]](https://f4.bcbits.com/img/a3339609047_10.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://f4.bcbits.com/img/a3339609047_10.jpg)  
 
 ---
 

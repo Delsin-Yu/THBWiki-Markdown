@@ -1,6 +1,6 @@
 # 文件:デジウィ_EVOLUTiON封面.jpeg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\56\ns6%3A%E3%83%87%E3%82%B8%E3%82%A6%E3%82%A3_EVOLUTiON%E5%B0%81%E9%9D%A2%2Ejpeg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\56\ns6%3A%E3%83%87%E3%82%B8%E3%82%A6%E3%82%A3_EVOLUTiON%E5%B0%81%E9%9D%A2%2Ejpeg.html -->
 
 DiGiTAL_WiNG | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ DiGiTAL_WiNG | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [デジウィ EVOLUTiON](./デジウィ_EVOLUTiON.md)  
-该封面包含的角色：- [秦心](./秦心.md)
-
-
-
+- [デジウィ EVOLUTiON](./デジウィ_EVOLUTiON.md)该封面包含的角色：
+- [秦心](./秦心.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Bad_Flower封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\be\ns6%3ABad_Flower%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\be\ns6%3ABad_Flower%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 もぱた。 | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Bad Flower](./Bad_Flower.md)  
-该封面包含的角色：- [九十九弁弁](./九十九弁弁.md)
+- [Bad Flower](./Bad_Flower.md)该封面包含的角色：
+- [九十九弁弁](./九十九弁弁.md)
 
   
-[[1]](http://mopata-mtcd0006.tumblr.com/)
-  
-
-
-
-
+[\[1\]](http://mopata-mtcd0006.tumblr.com/)  
 
 ---
 

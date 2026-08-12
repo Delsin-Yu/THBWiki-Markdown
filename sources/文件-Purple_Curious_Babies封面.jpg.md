@@ -1,6 +1,6 @@
 # 文件:Purple_Curious_Babies封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1b\ns6%3APurple_Curious_Babies%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1b\ns6%3APurple_Curious_Babies%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 東方慶庵郷
 
@@ -8,16 +8,13 @@
 使用了本文件作封面图片的作品：
   
 
-- [Purple Curious Babies](./Purple_Curious_Babies.md)  
-该封面包含的角色：- [橙](./橙.md)- [八云蓝](./八云蓝.md)- [八云紫](./八云紫.md)
+- [Purple Curious Babies](./Purple_Curious_Babies.md)该封面包含的角色：
+- [橙](./橙.md)
+- [八云蓝](./八云蓝.md)
+- [八云紫](./八云紫.md)
 
   
-源地址：[[1]](https://blog-imgs-69.fc2.com/k/e/i/keiohewhoclub/head_test.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://blog-imgs-69.fc2.com/k/e/i/keiohewhoclub/head_test.jpg)  
 
 ---
 

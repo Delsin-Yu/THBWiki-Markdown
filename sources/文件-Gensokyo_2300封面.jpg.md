@@ -1,6 +1,6 @@
 # 文件:Gensokyo_2300封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1e\ns6%3AGensokyo_2300%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1e\ns6%3AGensokyo_2300%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Antares_Enigma | 专辑封面 | 封面图片
 
@@ -13,12 +13,7 @@ Antares_Enigma | 专辑封面 | 封面图片
 - [Gensokyo 2300](./Gensokyo_2300.md)
 
   
-源地址：[direct image link (10 size)](https://f4.bcbits.com/img/a2103290239_10.jpg), [source page (artist Bandcamp)](https://antaresenigma.bandcamp.com/album/gensokyo-2300)
-  
-
-
-
-
+源地址：[direct image link (10 size)](https://f4.bcbits.com/img/a2103290239_10.jpg), [source page (artist Bandcamp)](https://antaresenigma.bandcamp.com/album/gensokyo-2300)  
 
 ---
 

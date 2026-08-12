@@ -1,12 +1,8 @@
 # 文件:KirororOlogo.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6c\ns6%3AKirororOlogo%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6c\ns6%3AKirororOlogo%2Egif.html -->
 
 KirororO | 社团LOGO
-
-
-
-
 
 
 ---

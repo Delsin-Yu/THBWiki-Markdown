@@ -1,6 +1,6 @@
 # 文件:Girl_Meets_Girl封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\70\ns6%3AGirl_Meets_Girl%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\70\ns6%3AGirl_Meets_Girl%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | ＊Cherry_Garden＊
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [Girl Meets Girl](./Girl_Meets_Girl.md)  
-该封面包含的角色：- [水桥帕露西](./水桥帕露西.md)- [星熊勇仪](./星熊勇仪.md)
-
-
-
+- [Girl Meets Girl](./Girl_Meets_Girl.md)该封面包含的角色：
+- [水桥帕露西](./水桥帕露西.md)
+- [星熊勇仪](./星熊勇仪.md)
 
 
 ---

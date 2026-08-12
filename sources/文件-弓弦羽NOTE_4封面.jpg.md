@@ -1,6 +1,6 @@
 # 文件:弓弦羽NOTE_4封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\79\ns6%3A%E5%BC%93%E5%BC%A6%E7%BE%BDNOTE_4%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\79\ns6%3A%E5%BC%93%E5%BC%A6%E7%BE%BDNOTE_4%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 弓弦羽Konzert
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [弓弦羽NOTE 4](./弓弦羽NOTE_4.md)  
-该封面包含的角色：- [蕾蒂·霍瓦特洛克](./蕾蒂·霍瓦特洛克.md)
-
-
-
+- [弓弦羽NOTE 4](./弓弦羽NOTE_4.md)该封面包含的角色：
+- [蕾蒂·霍瓦特洛克](./蕾蒂·霍瓦特洛克.md)
 
 
 ---

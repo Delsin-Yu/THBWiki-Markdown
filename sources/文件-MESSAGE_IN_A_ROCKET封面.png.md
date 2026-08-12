@@ -1,6 +1,6 @@
 # 文件:MESSAGE_IN_A_ROCKET封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e8\ns6%3AMESSAGE_IN_A_ROCKET%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e8\ns6%3AMESSAGE_IN_A_ROCKET%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 同人志封面 | 封面图片 | 海之天切
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [MESSAGE IN A ROCKET](./MESSAGE_IN_A_ROCKET.md)  
-该封面包含的角色：- [清兰](./清兰.md)- [铃瑚](./铃瑚.md)
-
-
-
+- [MESSAGE IN A ROCKET](./MESSAGE_IN_A_ROCKET.md)该封面包含的角色：
+- [清兰](./清兰.md)
+- [铃瑚](./铃瑚.md)
 
 
 ---

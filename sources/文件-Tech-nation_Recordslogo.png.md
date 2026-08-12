@@ -1,18 +1,13 @@
 # 文件:Tech-nation_Recordslogo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\98\ns6%3ATech-nation_Recordslogo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\98\ns6%3ATech-nation_Recordslogo%2Epng.html -->
 
 Tech-nation_Records | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[Twitter logo](https://pbs.twimg.com/profile_images/523113695757361153/51R9E6OG_400x400.png)
-  
-
-
-
-
+源地址：[Twitter logo](https://pbs.twimg.com/profile_images/523113695757361153/51R9E6OG_400x400.png)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:サリー_Presents_プレイリスト①封面.jpeg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\80\ns6%3A%E3%82%B5%E3%83%AA%E3%83%BC_Presents_%E3%83%97%E3%83%AC%E3%82%A4%E3%83%AA%E3%82%B9%E3%83%88%E2%91%A0%E5%B0%81%E9%9D%A2%2Ejpeg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\80\ns6%3A%E3%82%B5%E3%83%AA%E3%83%BC_Presents_%E3%83%97%E3%83%AC%E3%82%A4%E3%83%AA%E3%82%B9%E3%83%88%E2%91%A0%E5%B0%81%E9%9D%A2%2Ejpeg.html -->
 
 サリー | 专辑封面 | 封面图片
 
@@ -8,11 +8,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [サリー Presents プレイリスト①](./サリー_Presents_プレイリスト①.md)  
-该封面包含的角色：- [星熊勇仪](./星熊勇仪.md)- [村纱水蜜](./村纱水蜜.md)- [封兽鵺](./封兽鵺.md)- [丰聪耳神子](./丰聪耳神子.md)- [赤蛮奇](./赤蛮奇.md)
-
-
-
+- [サリー Presents プレイリスト①](./サリー_Presents_プレイリスト①.md)该封面包含的角色：
+- [星熊勇仪](./星熊勇仪.md)
+- [村纱水蜜](./村纱水蜜.md)
+- [封兽鵺](./封兽鵺.md)
+- [丰聪耳神子](./丰聪耳神子.md)
+- [赤蛮奇](./赤蛮奇.md)
 
 
 ---

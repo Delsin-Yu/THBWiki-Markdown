@@ -1,31 +1,27 @@
 # 东方儚月抄_～_Cage_in_Lunatic_Runagate./设定文档
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\2a\ns0%3A%E4%B8%9C%E6%96%B9%E5%84%9A%E6%9C%88%E6%8A%84_%EF%BD%9E_Cage_in_Lunatic_Runagate%2E%2F%E8%AE%BE%E5%AE%9A%E6%96%87%E6%A1%A3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\2a\ns0%3A%E4%B8%9C%E6%96%B9%E5%84%9A%E6%9C%88%E6%8A%84_%EF%BD%9E_Cage_in_Lunatic_Runagate%2E%2F%E8%AE%BE%E5%AE%9A%E6%96%87%E6%A1%A3.html -->
 
 东方儚月抄 | 东方儚月抄_～_Cage_in_Lunatic_Runagate. | 引用了翻译表的页面
 
-- 本词条为中文翻译版，如需要日文对照请参见 **[中日对照](./东方儚月抄_～_Cage_in_Lunatic_Runagate.-设定文档-中日对照.md)** 
+
+- 本词条为中文翻译版，如需要日文对照请参见**[中日对照](./东方儚月抄_～_Cage_in_Lunatic_Runagate.-设定文档-中日对照.md)**
 - 该内容仅出现在连载中
 
 
 ## 目录
 
 - [1 综述](#综述)
-
   - [1.1 东方Project——人与妖怪共存的土地](#东方Project——人与妖怪共存的土地)
-
     - [1.1.1 被称作幻想乡的乐园](#被称作幻想乡的乐园)
     - [1.1.2 符卡与异变](#符卡与异变)
     - [1.1.3 异变=作品介绍](#异变=作品介绍)
 
 
-
   - [1.2 『东方儚月抄』主要的人物关系图](#『东方儚月抄』主要的人物关系图)
 
 
-
 - [2 第一话设定文本](#第一话设定文本)
-
   - [2.1 八意永琳](#八意永琳)
   - [2.2 蓬莱山辉夜](#蓬莱山辉夜)
   - [2.3 博丽灵梦](#博丽灵梦)
@@ -33,19 +29,14 @@
   - [2.5 因幡帝](#因幡帝)
 
 
-
 - [3 第二话设定文本](#第二话设定文本)
-
   - [3.1 文字解说](#文字解说)
-
     - [3.1.1 〇八云紫的野心？](#〇八云紫的野心？)
     - [3.1.2 〇各自的想法](#〇各自的想法)
     - [3.1.3 〇今后的展开](#〇今后的展开)
 
 
-
   - [3.2 人物关系图](#人物关系图)
-
     - [3.2.1 主人公](#主人公)
     - [3.2.2 红魔馆](#红魔馆)
     - [3.2.3 冥界·白玉楼](#冥界·白玉楼)
@@ -56,20 +47,14 @@
 
 
 
-
-
 - [4 第三话设定文本](#第三话设定文本)
-
   - [4.1 文字解说](#文字解说_2)
-
     - [4.1.1 〇逐渐明晰起來的月之都](#〇逐渐明晰起來的月之都)
     - [4.1.2 〇月人起源介绍](#〇月人起源介绍)
     - [4.1.3 〇铃仙与铃仙](#〇铃仙与铃仙)
 
 
-
   - [4.2 人物关系图](#人物关系图_2)
-
     - [4.2.1 博丽灵梦](#博丽灵梦_2)
     - [4.2.2 永远亭](#永远亭_2)
     - [4.2.3 月之都](#月之都)
@@ -77,57 +62,36 @@
 
 
 
-
-
 - [5 第四话设定文本](#第四话设定文本)
-
   - [5.1 东方Project人物介绍](#东方Project人物介绍)
-
     - [5.1.1 藤原妹红](#藤原妹红)
     - [5.1.2 上白泽慧音](#上白泽慧音)
 
 
 
 
-
-
 - [6 第五话设定文本](#第五话设定文本)
-
   - [6.1 东方Project人物介绍](#东方Project人物介绍_2)
-
     - [6.1.1 八云紫](#八云紫)
     - [6.1.2 八云蓝](#八云蓝)
 
 
 
 
-
-
 - [7 第六话设定文本](#第六话设定文本)
-
   - [7.1 东方Project人物介绍](#东方Project人物介绍_3)
-
     - [7.1.1 铃仙·优昙华院·因幡](#铃仙·优昙华院·因幡_2)
 
 
 
 
-
-
 - [8 第七话设定文本](#第七话设定文本)
-
   - [8.1 东方Project人物介绍](#东方Project人物介绍_4)
-
     - [8.1.1 魂魄妖梦](#魂魄妖梦)
     - [8.1.2 西行寺幽幽子](#西行寺幽幽子)
     - [8.1.3 十六夜咲夜](#十六夜咲夜)
     - [8.1.4 帕秋莉·诺蕾姬](#帕秋莉·诺蕾姬)
     - [8.1.5 森近雾之介1](#森近雾之介1)
-
-
-
-
-
 
 
 
@@ -154,12 +118,11 @@
 <ul><li><a href="./东方花映塚.md" title="东方花映塚">东方花映塚</a>　～ Phantasmgoria of Flower View</li></ul>
 <div class="tt-zh tt-type-omake" lang="zh"><div class="poem">　春天，幻想乡的大地被盛开的鲜花所覆盖。然而，不知道为什么发生了不仅是春天的花就连一年中其他季节的花也都同时盛开的异变。将兴奋的妖精们放在一边，灵梦又开始了她漫无目的的调查。<br>（六十年为周期的大结界异变）</div></div>
 <h3><span id=".E3.80.8E.E4.B8.9C.E6.96.B9.E5.84.9A.E6.9C.88.E6.8A.84.E3.80.8F.E4.B8.BB.E8.A6.81.E7.9A.84.E4.BA.BA.E7.89.A9.E5.85.B3.E7.B3.BB.E5.9B.BE"></span><span class="mw-headline" id="『东方儚月抄』主要的人物关系图"><div class="tt-zhh tt-type-omake" lang="zh"><div class="poem">『东方儚月抄』主要的人物关系图</div></div></span></h3>
-<div class="tt-zh tt-type-omake" lang="zh"><div class="poem"><a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a><br>博丽神社的巫女。虽然长时间不修行但依旧能力出众。<br>惩罚→八云紫<br>惩罚→蓬莱山辉夜</div></div><div class="tt-zh tt-type-omake" lang="zh"><div class="poem"><a href="./八云紫.md" title="八云紫">八云紫</a><br>操纵境界的最强妖怪。妖怪贤者之一。<br>使役→八云蓝<br>侵略？→月</div></div><div class="tt-zh tt-type-omake" lang="zh"><div class="poem"><a href="./八云蓝.md" title="八云蓝">八云蓝</a><br>紫的式神。而她本人也能操纵式神。</div></div><div class="tt-zh tt-type-omake" lang="zh"><div class="poem"><a href="./蓬莱山辉夜.md" title="蓬莱山辉夜">蓬莱山辉夜</a><br>月球的公主。因为服食了蓬莱之药而被流放。<br>藏匿→铃仙·优昙华院·因幡</div></div><div class="tt-zh tt-type-omake" lang="zh"><div class="poem"><a href="./八意永琳.md" title="八意永琳">八意永琳</a><br>擅长制药且是辉夜的老师。与辉夜一起逃亡。<br>教育→蓬莱山辉夜</div></div><div class="tt-zh tt-type-omake" lang="zh"><div class="poem"><a href="./铃仙·优昙华院·因幡.md" title="铃仙·优昙华院·因幡">铃仙·优昙华院·因幡</a><br>月兔。抛弃了同伴逃亡到了地面上。<br>拜师→八意永琳</div></div><div class="tt-zh tt-type-omake" lang="zh"><div class="poem"><a href="./因幡天为.md" class="mw-redirect" title="因幡天为">因幡天为</a><br>十分长寿的妖怪兔。传说见到她就会变得幸运。<br>协助→铃仙·优昙华院·因幡</div></div><div class="tt-zh tt-type-omake" lang="zh"><div class="poem">月<br>击退→八云紫<br>流放→蓬莱山辉夜<br>逃亡→八意永琳<br>逃亡→铃仙·优昙华院·因幡</div></div></td><td width="200px"><div class="thumb infobox noclear" style="width:200px; margin:0 3px 0 1em;">
+<div class="tt-zh tt-type-omake" lang="zh"><div class="poem"><a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a><br>博丽神社的巫女。虽然长时间不修行但依旧能力出众。<br>惩罚→八云紫<br>惩罚→蓬莱山辉夜</div></div><div class="tt-zh tt-type-omake" lang="zh"><div class="poem"><a href="./八云紫.md" title="八云紫">八云紫</a><br>操纵境界的最强妖怪。妖怪贤者之一。<br>使役→八云蓝<br>侵略？→月</div></div><div class="tt-zh tt-type-omake" lang="zh"><div class="poem"><a href="./八云蓝.md" title="八云蓝">八云蓝</a><br>紫的式神。而她本人也能操纵式神。</div></div><div class="tt-zh tt-type-omake" lang="zh"><div class="poem"><a href="./蓬莱山辉夜.md" title="蓬莱山辉夜">蓬莱山辉夜</a><br>月球的公主。因为服食了蓬莱之药而被流放。<br>藏匿→铃仙·优昙华院·因幡</div></div><div class="tt-zh tt-type-omake" lang="zh"><div class="poem"><a href="./八意永琳.md" title="八意永琳">八意永琳</a><br>擅长制药且是辉夜的老师。与辉夜一起逃亡。<br>教育→蓬莱山辉夜</div></div><div class="tt-zh tt-type-omake" lang="zh"><div class="poem"><a href="./铃仙·优昙华院·因幡.md" title="铃仙·优昙华院·因幡">铃仙·优昙华院·因幡</a><br>月兔。抛弃了同伴逃亡到了地面上。<br>拜师→八意永琳</div></div><div class="tt-zh tt-type-omake" lang="zh"><div class="poem"><a href="./因幡帝.md" class="mw-redirect" title="因幡天为">因幡天为</a><br>十分长寿的妖怪兔。传说见到她就会变得幸运。<br>协助→铃仙·优昙华院·因幡</div></div><div class="tt-zh tt-type-omake" lang="zh"><div class="poem">月<br>击退→八云紫<br>流放→蓬莱山辉夜<br>逃亡→八意永琳<br>逃亡→铃仙·优昙华院·因幡</div></div></td><td width="200px"><div class="thumb infobox noclear" style="width:200px; margin:0 3px 0 1em;">
 <div class="thumbinner" style="float:right">
 <div class="thumbimage" style="margin: 0; padding: 0;"><a href="./文件-东方儚月抄_～_Cage_in_Lunatic_Runagate.（设定文档1）.jpg.md" class="image" title="设定文档1"><img alt="设定文档1" src="https://upload.thwiki.cc/thumb/c/c3/%E4%B8%9C%E6%96%B9%E5%84%9A%E6%9C%88%E6%8A%84_%EF%BD%9E_Cage_in_Lunatic_Runagate.%EF%BC%88%E8%AE%BE%E5%AE%9A%E6%96%87%E6%A1%A31%EF%BC%89.jpg/195px-%E4%B8%9C%E6%96%B9%E5%84%9A%E6%9C%88%E6%8A%84_%EF%BD%9E_Cage_in_Lunatic_Runagate.%EF%BC%88%E8%AE%BE%E5%AE%9A%E6%96%87%E6%A1%A31%EF%BC%89.jpg" decoding="async" loading="lazy" width="195" height="277" srcset="https://upload.thwiki.cc/thumb/c/c3/%E4%B8%9C%E6%96%B9%E5%84%9A%E6%9C%88%E6%8A%84_%EF%BD%9E_Cage_in_Lunatic_Runagate.%EF%BC%88%E8%AE%BE%E5%AE%9A%E6%96%87%E6%A1%A31%EF%BC%89.jpg/293px-%E4%B8%9C%E6%96%B9%E5%84%9A%E6%9C%88%E6%8A%84_%EF%BD%9E_Cage_in_Lunatic_Runagate.%EF%BC%88%E8%AE%BE%E5%AE%9A%E6%96%87%E6%A1%A31%EF%BC%89.jpg 1.5x, https://upload.thwiki.cc/thumb/c/c3/%E4%B8%9C%E6%96%B9%E5%84%9A%E6%9C%88%E6%8A%84_%EF%BD%9E_Cage_in_Lunatic_Runagate.%EF%BC%88%E8%AE%BE%E5%AE%9A%E6%96%87%E6%A1%A31%EF%BC%89.jpg/390px-%E4%B8%9C%E6%96%B9%E5%84%9A%E6%9C%88%E6%8A%84_%EF%BD%9E_Cage_in_Lunatic_Runagate.%EF%BC%88%E8%AE%BE%E5%AE%9A%E6%96%87%E6%A1%A31%EF%BC%89.jpg 2x" data-file-width="1233" data-file-height="1752"></a></div><div class="thumbcaption" style="margin: 0 0 2px; padding: 0; line-height: 1.1em;">P001</div><div class="thumbimage" style="margin: 0; padding: 0;"><a href="./文件-东方儚月抄_～_Cage_in_Lunatic_Runagate.（设定文档2）.jpg.md" class="image" title="设定文档2"><img alt="设定文档2" src="https://upload.thwiki.cc/thumb/1/19/%E4%B8%9C%E6%96%B9%E5%84%9A%E6%9C%88%E6%8A%84_%EF%BD%9E_Cage_in_Lunatic_Runagate.%EF%BC%88%E8%AE%BE%E5%AE%9A%E6%96%87%E6%A1%A32%EF%BC%89.jpg/195px-%E4%B8%9C%E6%96%B9%E5%84%9A%E6%9C%88%E6%8A%84_%EF%BD%9E_Cage_in_Lunatic_Runagate.%EF%BC%88%E8%AE%BE%E5%AE%9A%E6%96%87%E6%A1%A32%EF%BC%89.jpg" decoding="async" loading="lazy" width="195" height="277" srcset="https://upload.thwiki.cc/thumb/1/19/%E4%B8%9C%E6%96%B9%E5%84%9A%E6%9C%88%E6%8A%84_%EF%BD%9E_Cage_in_Lunatic_Runagate.%EF%BC%88%E8%AE%BE%E5%AE%9A%E6%96%87%E6%A1%A32%EF%BC%89.jpg/293px-%E4%B8%9C%E6%96%B9%E5%84%9A%E6%9C%88%E6%8A%84_%EF%BD%9E_Cage_in_Lunatic_Runagate.%EF%BC%88%E8%AE%BE%E5%AE%9A%E6%96%87%E6%A1%A32%EF%BC%89.jpg 1.5x, https://upload.thwiki.cc/thumb/1/19/%E4%B8%9C%E6%96%B9%E5%84%9A%E6%9C%88%E6%8A%84_%EF%BD%9E_Cage_in_Lunatic_Runagate.%EF%BC%88%E8%AE%BE%E5%AE%9A%E6%96%87%E6%A1%A32%EF%BC%89.jpg/390px-%E4%B8%9C%E6%96%B9%E5%84%9A%E6%9C%88%E6%8A%84_%EF%BD%9E_Cage_in_Lunatic_Runagate.%EF%BC%88%E8%AE%BE%E5%AE%9A%E6%96%87%E6%A1%A32%EF%BC%89.jpg 2x" data-file-width="1233" data-file-height="1752"></a></div><div class="thumbcaption" style="margin: 0 0 2px; padding: 0; line-height: 1.1em;">P002</div>
 </div>
 </div></td></tr></tbody></table>
-
 
 
 ## 第一话设定文本
@@ -183,7 +146,6 @@
 <div class="tt-zh tt-type-omake" lang="zh"><div class="poem">　因为长寿而成为妖怪的兔子。实际上也是幻想乡内最长寿的一类妖怪。除了控制兔子，她还有给予见到她的人幸运的能力。在来到永远亭之前居住在竹林里面，详细情况则不明。是充满了谜团的兔子。</div></div></td><td width="200px"><div class="thumb tright"><div class="thumbinner" style="width:202px;"><a href="./文件-儚月抄连载设定1.jpg.md" class="image"><img alt="" src="https://upload.thwiki.cc/thumb/d/d0/%E5%84%9A%E6%9C%88%E6%8A%84%E8%BF%9E%E8%BD%BD%E8%AE%BE%E5%AE%9A1.jpg/200px-%E5%84%9A%E6%9C%88%E6%8A%84%E8%BF%9E%E8%BD%BD%E8%AE%BE%E5%AE%9A1.jpg" decoding="async" loading="lazy" width="200" height="284" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/d/d0/%E5%84%9A%E6%9C%88%E6%8A%84%E8%BF%9E%E8%BD%BD%E8%AE%BE%E5%AE%9A1.jpg/300px-%E5%84%9A%E6%9C%88%E6%8A%84%E8%BF%9E%E8%BD%BD%E8%AE%BE%E5%AE%9A1.jpg 1.5x, https://upload.thwiki.cc/thumb/d/d0/%E5%84%9A%E6%9C%88%E6%8A%84%E8%BF%9E%E8%BD%BD%E8%AE%BE%E5%AE%9A1.jpg/400px-%E5%84%9A%E6%9C%88%E6%8A%84%E8%BF%9E%E8%BD%BD%E8%AE%BE%E5%AE%9A1.jpg 2x" data-file-width="1233" data-file-height="1752"></a>  <div class="thumbcaption"><div class="magnify"><a href="./文件-儚月抄连载设定1.jpg.md" class="internal" title="放大"></a></div>第一话设定页</div></div></div></td></tr></tbody></table>
 
 
-
 ## 第二话设定文本
 
 <table><tbody><tr align="left" valign="top"><td style="min-width:200px;"><br>
@@ -200,7 +162,7 @@
 <h4><span id=".E4.B8.BB.E4.BA.BA.E5.85.AC"></span><span class="mw-headline" id="主人公"><div class="tt-zhh tt-type-omake" lang="zh"><div class="poem">主人公</div></div></span></h4>
 <div class="tt-zh tt-type-omake" lang="zh"><div class="poem"><a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a><br>博丽神社的巫女小姐。<br>听紫的话正在修行中。</div></div><div class="tt-zh tt-type-omake" lang="zh"><div class="poem"><a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a><br>灵梦的朋友。<br>对有趣的东西毫无抵抗力。</div></div>
 <h4><span id=".E7.BA.A2.E9.AD.94.E9.A6.86"></span><span class="mw-headline" id="红魔馆"><div class="tt-zhh tt-type-omake" lang="zh"><div class="poem">红魔馆</div></div></span></h4>
-<div class="tt-zh tt-type-omake" lang="zh"><div class="poem"><a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a><br>好奇心旺盛的吸血鬼。<br>为了比紫先到月面<br>而制定计划。<br>命令→帕秋莉·诺蕾姬<br>命令→十六夜咲夜<br>想要比紫先走一步→月世界</div></div><div class="tt-zh tt-type-omake" lang="zh"><div class="poem"><a href="/%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C" title="十六夜咲夜">十六夜咲夜</a><br>为蕾米莉亚工作的女仆。<br>寻找火箭的制作材料。<br>依赖→主人公</div></div><div class="tt-zh tt-type-omake" lang="zh"><div class="poem"><a href="./帕秋莉·诺蕾姬.md" title="帕秋莉·诺蕾姬">帕秋莉·诺蕾姬</a><br>蕾米莉亚的朋友。<br>正在制作火箭中。</div></div>
+<div class="tt-zh tt-type-omake" lang="zh"><div class="poem"><a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a><br>好奇心旺盛的吸血鬼。<br>为了比紫先到月面<br>而制定计划。<br>命令→帕秋莉·诺蕾姬<br>命令→十六夜咲夜<br>想要比紫先走一步→月世界</div></div><div class="tt-zh tt-type-omake" lang="zh"><div class="poem"><a href="./十六夜咲夜.md" title="十六夜咲夜">十六夜咲夜</a><br>为蕾米莉亚工作的女仆。<br>寻找火箭的制作材料。<br>依赖→主人公</div></div><div class="tt-zh tt-type-omake" lang="zh"><div class="poem"><a href="./帕秋莉·诺蕾姬.md" title="帕秋莉·诺蕾姬">帕秋莉·诺蕾姬</a><br>蕾米莉亚的朋友。<br>正在制作火箭中。</div></div>
 <h4><span id=".E5.86.A5.E7.95.8C.C2.B7.E7.99.BD.E7.8E.89.E6.A5.BC"></span><span class="mw-headline" id="冥界·白玉楼"><div class="tt-zhh tt-type-omake" lang="zh"><div class="poem">冥界·白玉楼</div></div></span></h4>
 <div class="tt-zh tt-type-omake" lang="zh"><div class="poem"><a href="./西行寺幽幽子.md" title="西行寺幽幽子">西行寺幽幽子</a><br>紫很久以来的朋友。<br>看上去是拒绝<br>与紫合作…？<br>→魂魄妖梦<br>协助？→八云紫</div></div><div class="tt-zh tt-type-omake" lang="zh"><div class="poem"><a href="./魂魄妖梦.md" title="魂魄妖梦">魂魄妖梦</a><br>西行寺家的园艺师。<br>向灵梦传递了<br>某些情报。<br>情报→博丽灵梦</div></div>
 <h4><span id=".E6.B0.B8.E8.BF.9C.E4.BA.AD"></span><span class="mw-headline" id="永远亭"><div class="tt-zhh tt-type-omake" lang="zh"><div class="poem">永远亭</div></div></span></h4>
@@ -209,7 +171,6 @@
 <div class="tt-zh tt-type-omake" lang="zh"><div class="poem"><a href="./八云紫.md" title="八云紫">八云紫</a><br>栖息于缝隙中的大妖怪。<br>正计划侵略月面？<br>使役→八云蓝<br>协助？→西行寺幽幽子<br>修行→博丽灵梦<br>侵略？→月世界</div></div><div class="tt-zh tt-type-omake" lang="zh"><div class="poem"><a href="./八云蓝.md" title="八云蓝">八云蓝</a><br>紫的式神。<br>为紫的计划而四处奔走。</div></div>
 <h4><span id=".E6.9C.88.E4.B8.96.E7.95.8C"></span><span class="mw-headline" id="月世界"><div class="tt-zhh tt-type-omake" lang="zh"><div class="poem">月世界</div></div></span></h4>
 <div class="tt-zh tt-type-omake" lang="zh"><div class="poem">对立→八意永琳</div></div></td><td width="200px"><div class="thumb tright"><div class="thumbinner" style="width:202px;"><a href="./文件-儚月抄连载设定2.jpg.md" class="image"><img alt="" src="https://upload.thwiki.cc/thumb/d/d5/%E5%84%9A%E6%9C%88%E6%8A%84%E8%BF%9E%E8%BD%BD%E8%AE%BE%E5%AE%9A2.jpg/200px-%E5%84%9A%E6%9C%88%E6%8A%84%E8%BF%9E%E8%BD%BD%E8%AE%BE%E5%AE%9A2.jpg" decoding="async" loading="lazy" width="200" height="286" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/d/d5/%E5%84%9A%E6%9C%88%E6%8A%84%E8%BF%9E%E8%BD%BD%E8%AE%BE%E5%AE%9A2.jpg/300px-%E5%84%9A%E6%9C%88%E6%8A%84%E8%BF%9E%E8%BD%BD%E8%AE%BE%E5%AE%9A2.jpg 1.5x, https://upload.thwiki.cc/thumb/d/d5/%E5%84%9A%E6%9C%88%E6%8A%84%E8%BF%9E%E8%BD%BD%E8%AE%BE%E5%AE%9A2.jpg/400px-%E5%84%9A%E6%9C%88%E6%8A%84%E8%BF%9E%E8%BD%BD%E8%AE%BE%E5%AE%9A2.jpg 2x" data-file-width="1227" data-file-height="1752"></a>  <div class="thumbcaption"><div class="magnify"><a href="./文件-儚月抄连载设定2.jpg.md" class="internal" title="放大"></a></div>第二话设定页</div></div></div></td></tr></tbody></table>
-
 
 
 ## 第三话设定文本
@@ -230,8 +191,7 @@
 <h4><span id=".E6.B0.B8.E8.BF.9C.E4.BA.AD_2"></span><span class="mw-headline" id="永远亭_2"><div class="tt-zhh tt-type-omake" lang="zh"><div class="poem">永远亭</div></div></span></h4>
 <div class="tt-zh tt-type-omake" lang="zh"><div class="poem"><a href="./八意永琳.md" title="八意永琳">八意永琳</a><br>月之头脑与贤者<br>如今居住在地球的幻想乡中<br>前老师→蓬莱山辉夜<br>前老师→绵月依姬<br>前老师→绵月丰姬</div></div><div class="tt-zh tt-type-omake" lang="zh"><div class="poem"><a href="./蓬莱山辉夜.md" title="蓬莱山辉夜">蓬莱山辉夜</a><br>前月之公主。<br>因为任性的行为<br>而降落到了地上<br>宠物→铃仙·优昙华院·因幡</div></div><div class="tt-zh tt-type-omake" lang="zh"><div class="poem"><a href="./铃仙·优昙华院·因幡.md" title="铃仙·优昙华院·因幡">铃仙·优昙华院·因幡</a><br>在「之前的战斗」之际<br>从月亮逃亡的兔子<br>现在正在辉夜和永琳之下<br>幸福地生活中<br>师傅→八意永琳</div></div>
 <h4><span id=".E6.9C.88.E4.B9.8B.E9.83.BD"></span><span class="mw-headline" id="月之都"><div class="tt-zhh tt-type-omake" lang="zh"><div class="poem">月之都</div></div></span></h4>
-<div class="tt-zh tt-type-omake" lang="zh"><div class="poem"><a href="./月夜见.md" title="月夜见">月夜见</a><br>月之都的开山鼻祖，夜与月之都之王<br>迄今为止的一切<br>都笼罩在谜团之中<br>邀请移民月球→八意永琳</div></div><div class="tt-zh tt-type-omake" lang="zh"><div class="poem"><a href="./绵月丰姬.md" title="绵月丰姬">绵月丰姬</a><br>曾经受永琳照顾的<br>月之公主<br>这次，似乎瞥见了她的<br>能力的蛛丝马迹…<br>姐妹→绵月依姬<br>原宠物→铃仙·优昙华院·因幡<br>宠物→铃仙</div></div><div class="tt-zh tt-type-omake" lang="zh"><div class="poem"><a href="./绵月依姬.md" title="绵月依姬">绵月依姬</a><br>和丰姬一样<br>接受永琳教育的公主<br>与姐姐丰姬相比<br>性格更刻板一点？<br>姐妹→绵月丰姬</div></div><div class="tt-zh tt-type-omake" lang="zh"><div class="poem"><a href="./铃仙二号.md" class="mw-redirect" title="铃仙二号">铃仙</a><br>在「儚月抄」的故事开头时<br>掉到地上的月兔<br>将永琳的信交给了<br>丰姬和依姬</div></div></td><td width="200px"><div class="thumb tright"><div class="thumbinner" style="width:202px;"><a href="./文件-儚月抄连载设定3.jpg.md" class="image"><img alt="" src="https://upload.thwiki.cc/thumb/3/3c/%E5%84%9A%E6%9C%88%E6%8A%84%E8%BF%9E%E8%BD%BD%E8%AE%BE%E5%AE%9A3.jpg/200px-%E5%84%9A%E6%9C%88%E6%8A%84%E8%BF%9E%E8%BD%BD%E8%AE%BE%E5%AE%9A3.jpg" decoding="async" loading="lazy" width="200" height="283" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/3/3c/%E5%84%9A%E6%9C%88%E6%8A%84%E8%BF%9E%E8%BD%BD%E8%AE%BE%E5%AE%9A3.jpg/300px-%E5%84%9A%E6%9C%88%E6%8A%84%E8%BF%9E%E8%BD%BD%E8%AE%BE%E5%AE%9A3.jpg 1.5x, https://upload.thwiki.cc/thumb/3/3c/%E5%84%9A%E6%9C%88%E6%8A%84%E8%BF%9E%E8%BD%BD%E8%AE%BE%E5%AE%9A3.jpg/400px-%E5%84%9A%E6%9C%88%E6%8A%84%E8%BF%9E%E8%BD%BD%E8%AE%BE%E5%AE%9A3.jpg 2x" data-file-width="1234" data-file-height="1749"></a>  <div class="thumbcaption"><div class="magnify"><a href="./文件-儚月抄连载设定3.jpg.md" class="internal" title="放大"></a></div>第三话设定页</div></div></div></td></tr></tbody></table>
-
+<div class="tt-zh tt-type-omake" lang="zh"><div class="poem"><a href="./月夜见.md" title="月夜见">月夜见</a><br>月之都的开山鼻祖，夜与月之都之王<br>迄今为止的一切<br>都笼罩在谜团之中<br>邀请移民月球→八意永琳</div></div><div class="tt-zh tt-type-omake" lang="zh"><div class="poem"><a href="./绵月丰姬.md" title="绵月丰姬">绵月丰姬</a><br>曾经受永琳照顾的<br>月之公主<br>这次，似乎瞥见了她的<br>能力的蛛丝马迹…<br>姐妹→绵月依姬<br>原宠物→铃仙·优昙华院·因幡<br>宠物→铃仙</div></div><div class="tt-zh tt-type-omake" lang="zh"><div class="poem"><a href="./绵月依姬.md" title="绵月依姬">绵月依姬</a><br>和丰姬一样<br>接受永琳教育的公主<br>与姐姐丰姬相比<br>性格更刻板一点？<br>姐妹→绵月丰姬</div></div><div class="tt-zh tt-type-omake" lang="zh"><div class="poem"><a href="./Reisen.md" class="mw-redirect" title="铃仙二号">铃仙</a><br>在「儚月抄」的故事开头时<br>掉到地上的月兔<br>将永琳的信交给了<br>丰姬和依姬</div></div></td><td width="200px"><div class="thumb tright"><div class="thumbinner" style="width:202px;"><a href="./文件-儚月抄连载设定3.jpg.md" class="image"><img alt="" src="https://upload.thwiki.cc/thumb/3/3c/%E5%84%9A%E6%9C%88%E6%8A%84%E8%BF%9E%E8%BD%BD%E8%AE%BE%E5%AE%9A3.jpg/200px-%E5%84%9A%E6%9C%88%E6%8A%84%E8%BF%9E%E8%BD%BD%E8%AE%BE%E5%AE%9A3.jpg" decoding="async" loading="lazy" width="200" height="283" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/3/3c/%E5%84%9A%E6%9C%88%E6%8A%84%E8%BF%9E%E8%BD%BD%E8%AE%BE%E5%AE%9A3.jpg/300px-%E5%84%9A%E6%9C%88%E6%8A%84%E8%BF%9E%E8%BD%BD%E8%AE%BE%E5%AE%9A3.jpg 1.5x, https://upload.thwiki.cc/thumb/3/3c/%E5%84%9A%E6%9C%88%E6%8A%84%E8%BF%9E%E8%BD%BD%E8%AE%BE%E5%AE%9A3.jpg/400px-%E5%84%9A%E6%9C%88%E6%8A%84%E8%BF%9E%E8%BD%BD%E8%AE%BE%E5%AE%9A3.jpg 2x" data-file-width="1234" data-file-height="1749"></a>  <div class="thumbcaption"><div class="magnify"><a href="./文件-儚月抄连载设定3.jpg.md" class="internal" title="放大"></a></div>第三话设定页</div></div></div></td></tr></tbody></table>
 
 
 ## 第四话设定文本
@@ -248,7 +208,6 @@
 <br></td><td width="200px"><div class="thumb tright"><div class="thumbinner" style="width:202px;"><a href="./文件-儚月抄连载设定4.jpg.md" class="image"><img alt="" src="https://upload.thwiki.cc/thumb/f/fc/%E5%84%9A%E6%9C%88%E6%8A%84%E8%BF%9E%E8%BD%BD%E8%AE%BE%E5%AE%9A4.jpg/200px-%E5%84%9A%E6%9C%88%E6%8A%84%E8%BF%9E%E8%BD%BD%E8%AE%BE%E5%AE%9A4.jpg" decoding="async" loading="lazy" width="200" height="279" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/f/fc/%E5%84%9A%E6%9C%88%E6%8A%84%E8%BF%9E%E8%BD%BD%E8%AE%BE%E5%AE%9A4.jpg/300px-%E5%84%9A%E6%9C%88%E6%8A%84%E8%BF%9E%E8%BD%BD%E8%AE%BE%E5%AE%9A4.jpg 1.5x, https://upload.thwiki.cc/thumb/f/fc/%E5%84%9A%E6%9C%88%E6%8A%84%E8%BF%9E%E8%BD%BD%E8%AE%BE%E5%AE%9A4.jpg/400px-%E5%84%9A%E6%9C%88%E6%8A%84%E8%BF%9E%E8%BD%BD%E8%AE%BE%E5%AE%9A4.jpg 2x" data-file-width="1433" data-file-height="2000"></a>  <div class="thumbcaption"><div class="magnify"><a href="./文件-儚月抄连载设定4.jpg.md" class="internal" title="放大"></a></div>第四话设定页</div></div></div></td></tr></tbody></table>
 
 
-
 ## 第五话设定文本
 
 <table><tbody><tr align="left" valign="top"><td style="min-width:200px;"><br>
@@ -262,7 +221,6 @@
 <br></td><td width="200px"><div class="thumb tright"><div class="thumbinner" style="width:202px;"><a href="./文件-儚月抄连载设定5.jpg.md" class="image"><img alt="" src="https://upload.thwiki.cc/thumb/1/16/%E5%84%9A%E6%9C%88%E6%8A%84%E8%BF%9E%E8%BD%BD%E8%AE%BE%E5%AE%9A5.jpg/200px-%E5%84%9A%E6%9C%88%E6%8A%84%E8%BF%9E%E8%BD%BD%E8%AE%BE%E5%AE%9A5.jpg" decoding="async" loading="lazy" width="200" height="282" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/1/16/%E5%84%9A%E6%9C%88%E6%8A%84%E8%BF%9E%E8%BD%BD%E8%AE%BE%E5%AE%9A5.jpg/300px-%E5%84%9A%E6%9C%88%E6%8A%84%E8%BF%9E%E8%BD%BD%E8%AE%BE%E5%AE%9A5.jpg 1.5x, https://upload.thwiki.cc/thumb/1/16/%E5%84%9A%E6%9C%88%E6%8A%84%E8%BF%9E%E8%BD%BD%E8%AE%BE%E5%AE%9A5.jpg/400px-%E5%84%9A%E6%9C%88%E6%8A%84%E8%BF%9E%E8%BD%BD%E8%AE%BE%E5%AE%9A5.jpg 2x" data-file-width="1420" data-file-height="2000"></a>  <div class="thumbcaption"><div class="magnify"><a href="./文件-儚月抄连载设定5.jpg.md" class="internal" title="放大"></a></div>第五话设定页</div></div></div></td></tr></tbody></table>
 
 
-
 ## 第六话设定文本
 
 <table><tbody><tr align="left" valign="top"><td style="min-width:200px;"><br>
@@ -273,7 +231,6 @@
 <br></td><td width="200px"><div class="thumb tright"><div class="thumbinner" style="width:202px;"><a href="./文件-儚月抄连载设定6.jpg.md" class="image"><img alt="" src="https://upload.thwiki.cc/thumb/9/99/%E5%84%9A%E6%9C%88%E6%8A%84%E8%BF%9E%E8%BD%BD%E8%AE%BE%E5%AE%9A6.jpg/200px-%E5%84%9A%E6%9C%88%E6%8A%84%E8%BF%9E%E8%BD%BD%E8%AE%BE%E5%AE%9A6.jpg" decoding="async" loading="lazy" width="200" height="283" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/9/99/%E5%84%9A%E6%9C%88%E6%8A%84%E8%BF%9E%E8%BD%BD%E8%AE%BE%E5%AE%9A6.jpg/300px-%E5%84%9A%E6%9C%88%E6%8A%84%E8%BF%9E%E8%BD%BD%E8%AE%BE%E5%AE%9A6.jpg 1.5x, https://upload.thwiki.cc/thumb/9/99/%E5%84%9A%E6%9C%88%E6%8A%84%E8%BF%9E%E8%BD%BD%E8%AE%BE%E5%AE%9A6.jpg/400px-%E5%84%9A%E6%9C%88%E6%8A%84%E8%BF%9E%E8%BD%BD%E8%AE%BE%E5%AE%9A6.jpg 2x" data-file-width="1413" data-file-height="2000"></a>  <div class="thumbcaption"><div class="magnify"><a href="./文件-儚月抄连载设定6.jpg.md" class="internal" title="放大"></a></div>第六话设定页</div></div></div></td></tr></tbody></table>
 
 
-
 ## 第七话设定文本
 
 <table><tbody><tr align="left" valign="top"><td style="min-width:200px;"><br>
@@ -282,26 +239,15 @@
 <div class="tt-zh tt-type-omake" lang="zh"><div class="poem">　半人半灵的少女。虽说一半是人类一半是幽灵，但幽灵的部分和人类的部分是分开的（参考插图）。主要有着使用剑术程度的能力。<br>　魂魄家从先代·魂魄妖忌那一代就开始担任西行寺家的园艺师兼大小姐的护卫，但由于妖忌行踪不明，便让尚年幼的妖梦匆忙继承了职位。由于剑术也尚未成熟，每日的修行是不可或缺的。整日被主人西行寺幽幽子支使来支使去，有着勤快的跟屁虫般的忠诚心。<br>　使用二刀流，战斗所用的两把刀分别是一挥即可杀伤10只幽灵的长刀「<ruby><rb>楼观剑</rb><rp> (</rp><rt>Roukanken</rt><rp>) </rp></ruby>」，和可以斩断人类迷惘的短刀「<ruby><rb>白楼剑</rb><rp> (</rp><rt>Hakurouken</rt><rp>) </rp></ruby>」。</div></div>
 <h4><span id=".E8.A5.BF.E8.A1.8C.E5.AF.BA.E5.B9.BD.E5.B9.BD.E5.AD.90"></span><span class="mw-headline" id="西行寺幽幽子"><a href="./西行寺幽幽子.md" title="西行寺幽幽子">西行寺幽幽子</a></span></h4>
 <div class="tt-zh tt-type-omake" lang="zh"><div class="poem">　居住在冥界被称为白玉楼的宅邸中的大小姐。大约千年以来都保持亡灵状态而未成佛，是非常罕见的亡灵。有着非常漫不经心的悠闲性格，却有着操纵死亡的能力。<br>　为了让宅邸庭院中所种的不会开花的樱树“西行妖”盛开，命令园艺师妖梦从幻想乡夺取“春”从而引发了「春雪异变」。然而，西行妖不开花的理由与幽幽子自身有紧密的关系，加之灵梦她们的阻挠最终樱花还是没有盛开。<br>　并不对任何人抱有仇恨的她，可以统管幽灵们的能力被阎魔大人看中，被委任管理着幽灵们。作为交换，她也获得了在冥界永居的稀有特权（※一般无论何种生物都必须成佛）。</div></div>
-<h4><span id=".E5.8D.81.E5.85.AD.E5.A4.9C.E5.92.B2.E5.A4.9C"></span><span class="mw-headline" id="十六夜咲夜"><a href="/%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C" title="十六夜咲夜">十六夜咲夜</a></span></h4>
+<h4><span id=".E5.8D.81.E5.85.AD.E5.A4.9C.E5.92.B2.E5.A4.9C"></span><span class="mw-headline" id="十六夜咲夜"><a href="./十六夜咲夜.md" title="十六夜咲夜">十六夜咲夜</a></span></h4>
 <div class="tt-zh tt-type-omake" lang="zh"><div class="poem">　侍奉吸血鬼蕾米莉亚的女仆，有着操纵时间程度的能力。<br>　虽然蕾米莉亚的住所·红魔馆中还有其他女仆，但都是些随心所欲的妖精，家中的杂事完全帮不上忙，所以实际上大小琐事几乎完全是咲夜一个人在处理。</div></div>
 <h4><span id=".E5.B8.95.E7.A7.8B.E8.8E.89.C2.B7.E8.AF.BA.E8.95.BE.E5.A7.AC"></span><span class="mw-headline" id="帕秋莉·诺蕾姬"><a href="./帕秋莉·诺蕾姬.md" title="帕秋莉·诺蕾姬">帕秋莉·诺蕾姬</a></span></h4>
 <div class="tt-zh tt-type-omake" lang="zh"><div class="poem">　作为蕾米莉亚的客人住在红魔馆的图书馆中的魔法使。在各种魔法之中擅长使用精灵魔法，也会自己开发魔法。<br>　与人类修行而成的魔法使不同，属于生来就是魔法使的种族。</div></div>
-<h4><span id=".E6.A3.AE.E8.BF.91.E9.9B.BE.E4.B9.8B.E4.BB.8B1"></span><span class="mw-headline" id="森近雾之介1"><a href="./森近霖之助.md" title="森近霖之助">森近雾之介</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">1</a></sup></span></h4>
+<h4><span id=".E6.A3.AE.E8.BF.91.E9.9B.BE.E4.B9.8B.E4.BB.8B1"></span><span class="mw-headline" id="森近雾之介1"><a href="./森近霖之助.md" title="森近霖之助">森近雾之介</a><span>[^cite_note-1]</span></span></h4>
 <div class="tt-zh tt-type-omake" lang="zh"><div class="poem">　古董店「香霖堂」的店主。有着能够知道经手道具的名称和用途程度的能力。但美中不足的是，即使知道用途也无从得知使用方法。<br>　仿佛与主人公之一的魔理沙，有着不浅的渊源，但具体情况还是个谜。</div></div>
 <br></td><td width="200px"><div class="thumb tright"><div class="thumbinner" style="width:202px;"><a href="./文件-儚月抄连载设定7.jpg.md" class="image"><img alt="" src="https://upload.thwiki.cc/thumb/0/05/%E5%84%9A%E6%9C%88%E6%8A%84%E8%BF%9E%E8%BD%BD%E8%AE%BE%E5%AE%9A7.jpg/200px-%E5%84%9A%E6%9C%88%E6%8A%84%E8%BF%9E%E8%BD%BD%E8%AE%BE%E5%AE%9A7.jpg" decoding="async" loading="lazy" width="200" height="300" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/0/05/%E5%84%9A%E6%9C%88%E6%8A%84%E8%BF%9E%E8%BD%BD%E8%AE%BE%E5%AE%9A7.jpg/300px-%E5%84%9A%E6%9C%88%E6%8A%84%E8%BF%9E%E8%BD%BD%E8%AE%BE%E5%AE%9A7.jpg 1.5x, https://upload.thwiki.cc/thumb/0/05/%E5%84%9A%E6%9C%88%E6%8A%84%E8%BF%9E%E8%BD%BD%E8%AE%BE%E5%AE%9A7.jpg/400px-%E5%84%9A%E6%9C%88%E6%8A%84%E8%BF%9E%E8%BD%BD%E8%AE%BE%E5%AE%9A7.jpg 2x" data-file-width="1332" data-file-height="2000"></a>  <div class="thumbcaption"><div class="magnify"><a href="./文件-儚月抄连载设定7.jpg.md" class="internal" title="放大"></a></div>第七话设定页</div></div></div></td></tr></tbody></table>
 
-
 [^cite_note-1]: 原文如此。
-
-  
-  
-
-<table><tbody><tr><td><table cellspacing="0" class="nowraplinks mw-collapsible mw-collapsed" style="width:100%;;;"><tbody><tr><th style=";" colspan="3" class="navbox-title"><div class="navbar"><div class="noprint plainlinksneverexpand" style="background-color:transparent; padding:0; font-weight:normal; font-size:80%; white-space:nowrap;"><a href="./模板-东方儚月抄导航.md" title="模板:东方儚月抄导航"><span style=";;border:none;" title="查看这个模板">查</span></a>&#160;<span style="font-size:80%;">•</span>&#160;<a href="/index.php?title=%E6%A8%A1%E6%9D%BF:%E4%B8%9C%E6%96%B9%E5%84%9A%E6%9C%88%E6%8A%84%E5%AF%BC%E8%88%AA&amp;action=edit"><span style=";;border:none;" title="您可以编辑这个模板。请在储存变更之前先预览">编</span></a></div></div><span><a href="./东方儚月抄.md" title="东方儚月抄">东方儚月抄</a></span></th></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="./东方儚月抄_～_Silent_Sinner_in_Blue..md" title="东方儚月抄 ～ Silent Sinner in Blue.">漫画</a></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./东方儚月抄_～_Silent_Sinner_in_Blue..md" title="东方儚月抄 ～ Silent Sinner in Blue.">东方儚月抄 ～ Silent Sinner in Blue.（0 + 1-21）</a></div></td><td class="navbox-image" style="" rowspan="5"><a href="./文件-东方儚月抄（小说）封面.jpg.md" class="image"><img alt="东方儚月抄（小说）封面.jpg" src="https://upload.thwiki.cc/thumb/2/2e/%E4%B8%9C%E6%96%B9%E5%84%9A%E6%9C%88%E6%8A%84%EF%BC%88%E5%B0%8F%E8%AF%B4%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/120px-%E4%B8%9C%E6%96%B9%E5%84%9A%E6%9C%88%E6%8A%84%EF%BC%88%E5%B0%8F%E8%AF%B4%EF%BC%89%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="120" height="168" srcset="https://upload.thwiki.cc/thumb/2/2e/%E4%B8%9C%E6%96%B9%E5%84%9A%E6%9C%88%E6%8A%84%EF%BC%88%E5%B0%8F%E8%AF%B4%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/180px-%E4%B8%9C%E6%96%B9%E5%84%9A%E6%9C%88%E6%8A%84%EF%BC%88%E5%B0%8F%E8%AF%B4%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/2/2e/%E4%B8%9C%E6%96%B9%E5%84%9A%E6%9C%88%E6%8A%84%EF%BC%88%E5%B0%8F%E8%AF%B4%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/240px-%E4%B8%9C%E6%96%B9%E5%84%9A%E6%9C%88%E6%8A%84%EF%BC%88%E5%B0%8F%E8%AF%B4%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="358" data-file-height="500"></a></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="./东方儚月抄_～_Cage_in_Lunatic_Runagate..md" title="东方儚月抄 ～ Cage in Lunatic Runagate.">小说</a></td><td style=";;" class="navbox-list navbox-even"><div><a class="mw-selflink selflink">设定文档</a> &#8226; <a href="./东方儚月抄_～_Cage_in_Lunatic_Runagate.-卷首语.md" title="东方儚月抄 ～ Cage in Lunatic Runagate./卷首语">卷首语</a> &#8226; <a href="./东方儚月抄_～_Cage_in_Lunatic_Runagate.-第一话.md" title="东方儚月抄 ～ Cage in Lunatic Runagate./第一话">第一话 贤者的追忆</a> &#8226; <a href="./东方儚月抄_～_Cage_in_Lunatic_Runagate.-第二话.md" title="东方儚月抄 ～ Cage in Lunatic Runagate./第二话">第二话 三千年之玉</a> &#8226; <a href="./东方儚月抄_～_Cage_in_Lunatic_Runagate.-第三话.md" title="东方儚月抄 ～ Cage in Lunatic Runagate./第三话">第三话 净土龙宫城</a> &#8226; <a href="./东方儚月抄_～_Cage_in_Lunatic_Runagate.-第四话.md" title="东方儚月抄 ～ Cage in Lunatic Runagate./第四话">第四话 无尽之火</a> &#8226; <a href="./东方儚月抄_～_Cage_in_Lunatic_Runagate.-第五话.md" title="东方儚月抄 ～ Cage in Lunatic Runagate./第五话">第五话 自无比低矮的地上</a><br><a href="./东方儚月抄_～_Cage_in_Lunatic_Runagate.-第六话.md" title="东方儚月抄 ～ Cage in Lunatic Runagate./第六话">第六话 愚者的密信</a> &#8226; <a href="./东方儚月抄_～_Cage_in_Lunatic_Runagate.-第七话.md" title="东方儚月抄 ～ Cage in Lunatic Runagate./第七话">第七话 半身半义</a> &#8226; <a href="./东方儚月抄_～_Cage_in_Lunatic_Runagate.-最终话.md" title="东方儚月抄 ～ Cage in Lunatic Runagate./最终话">最终话 两个望乡</a> &#8226; <a href="./东方儚月抄_～_Cage_in_Lunatic_Runagate.-后记.md" title="东方儚月抄 ～ Cage in Lunatic Runagate./后记">后记</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="./东方儚月抄_～_月上的因幡和地上的因幡.md" title="东方儚月抄 ～ 月上的因幡和地上的因幡">四格</a></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./东方儚月抄_～_月上的因幡和地上的因幡.md" title="东方儚月抄 ～ 月上的因幡和地上的因幡">东方儚月抄 ～ 月上的因幡和地上的因幡 30 + 3</a></div></td></tr></tbody></table></td></tr></tbody></table>
-
-
-
-
-
 
 ---
 

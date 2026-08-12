@@ -1,6 +1,6 @@
 # 文件:Glisten_Jewelry_box封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ab\ns6%3AGlisten_Jewelry_box%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ab\ns6%3AGlisten_Jewelry_box%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 ZINFANDEL | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@ ZINFANDEL | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Glisten Jewelry box](./Glisten_Jewelry_box.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
-
-
-
+- [Glisten Jewelry box](./Glisten_Jewelry_box.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
 
 ---

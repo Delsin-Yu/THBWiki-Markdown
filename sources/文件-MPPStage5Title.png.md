@@ -1,12 +1,8 @@
 # 文件:MPPStage5Title.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\12\ns6%3AMPPStage5Title%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\12\ns6%3AMPPStage5Title%2Epng.html -->
 
 東方邪星章製作チーム
-
-
-
-
 
 
 ---

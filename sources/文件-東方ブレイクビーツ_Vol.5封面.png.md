@@ -1,6 +1,6 @@
 # 文件:東方ブレイクビーツ_Vol.5封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4d\ns6%3A%E6%9D%B1%E6%96%B9%E3%83%96%E3%83%AC%E3%82%A4%E3%82%AF%E3%83%93%E3%83%BC%E3%83%84_Vol%2E5%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4d\ns6%3A%E6%9D%B1%E6%96%B9%E3%83%96%E3%83%AC%E3%82%A4%E3%82%AF%E3%83%93%E3%83%BC%E3%83%84_Vol%2E5%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Water.Club. | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Water.Club. | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方ブレイクビーツ Vol.5](./東方ブレイクビーツ_Vol.5.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)
+- [東方ブレイクビーツ Vol.5](./東方ブレイクビーツ_Vol.5.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
 
   
-源地址：[[1]](http://waterclub.web.fc2.com/Water.Club./wccd-0005_files/wccd005jacet.png)
-  
-
-
-
-
+源地址：[\[1\]](http://waterclub.web.fc2.com/Water.Club./wccd-0005_files/wccd005jacet.png)  
 
 ---
 

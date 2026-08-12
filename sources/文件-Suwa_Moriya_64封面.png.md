@@ -1,6 +1,6 @@
 # 文件:Suwa_Moriya_64封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3f\ns6%3ASuwa_Moriya_64%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3f\ns6%3ASuwa_Moriya_64%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Shpuld | 封面图片 | 软件封面
 
@@ -10,16 +10,11 @@ Shpuld | 封面图片 | 软件封面
 使用了本文件作封面图片的作品：
   
 
-- [Suwa Moriya 64](./Suwa_Moriya_64.md)  
-该封面包含的角色：- [洩矢诹访子](./洩矢诹访子.md)
+- [Suwa Moriya 64](./Suwa_Moriya_64.md)该封面包含的角色：
+- [洩矢诹访子](./洩矢诹访子.md)
 
   
-源地址：[direct image link](https://img.itch.zone/aW1nLzUxNTg3ODYucG5n/315x250#c/wTWxAB.png), [source page (developer's itch.io homepage)](https://leonovsky.itch.io/)
-  
-
-
-
-
+源地址：[direct image link](https://img.itch.zone/aW1nLzUxNTg3ODYucG5n/315x250#c/wTWxAB.png), [source page (developer's itch.io homepage)](https://leonovsky.itch.io/)  
 
 ---
 

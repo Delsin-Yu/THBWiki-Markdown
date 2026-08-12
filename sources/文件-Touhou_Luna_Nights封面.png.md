@@ -1,6 +1,6 @@
 # 文件:Touhou_Luna_Nights封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\06\ns6%3ATouhou_Luna_Nights%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\06\ns6%3ATouhou_Luna_Nights%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Team_Ladybug | Vaka_Game_Magazine | 封面图片 | 软件封面
 
@@ -8,11 +8,8 @@ Team_Ladybug | Vaka_Game_Magazine | 封面图片 | 软件封面
 使用了本文件作封面图片的作品：
   
 
-- [Touhou Luna Nights](./Touhou_Luna_Nights.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)
-
-
-
+- [Touhou Luna Nights](./Touhou_Luna_Nights.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
 
 
 ---

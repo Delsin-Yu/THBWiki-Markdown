@@ -1,6 +1,6 @@
 # 文件:弹幕逸群歌_～_the_Battle_of_Gs.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\49\ns6%3A%E5%BC%B9%E5%B9%95%E9%80%B8%E7%BE%A4%E6%AD%8C_%EF%BD%9E_the_Battle_of_Gs%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\49\ns6%3A%E5%BC%B9%E5%B9%95%E9%80%B8%E7%BE%A4%E6%AD%8C_%EF%BD%9E_the_Battle_of_Gs%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 一群鸽制作组 | 封面图片 | 软件封面
 
@@ -9,9 +9,6 @@
   
 
 - [弹幕逸群歌 ～ the Battle of Gs.](./弹幕逸群歌_～_the_Battle_of_Gs..md)
-
-
-
 
 
 ---

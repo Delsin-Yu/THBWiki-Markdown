@@ -1,37 +1,41 @@
 # BACK_TO_THE_科学世紀
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\3\36\ns0%3ABACK_TO_THE_%E7%A7%91%E5%AD%A6%E4%B8%96%E7%B4%80.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\3\36\ns0%3ABACK_TO_THE_%E7%A7%91%E5%AD%A6%E4%B8%96%E7%B4%80.html -->
 
 2018年8月10日 由 ぜのさいど 于 Comic Market 94 发布的漫画同人志，B5尺寸一共52页，登场人物有 宇佐见莲子、八云紫、宇佐见堇子，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人志 (未找到链接)** 的词条
-
+**[二次创作同人志](./二次创作.md#同人志)**的词条
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-BACK_TO_THE_科学世紀封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/9/97/BACK_TO_THE_%E7%A7%91%E5%AD%A6%E4%B8%96%E7%B4%80%E5%B0%81%E9%9D%A2.jpg/178px-BACK_TO_THE_%E7%A7%91%E5%AD%A6%E4%B8%96%E7%B4%80%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="178" height="252" srcset="https://upload.thwiki.cc/thumb/9/97/BACK_TO_THE_%E7%A7%91%E5%AD%A6%E4%B8%96%E7%B4%80%E5%B0%81%E9%9D%A2.jpg/267px-BACK_TO_THE_%E7%A7%91%E5%AD%A6%E4%B8%96%E7%B4%80%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/9/97/BACK_TO_THE_%E7%A7%91%E5%AD%A6%E4%B8%96%E7%B4%80%E5%B0%81%E9%9D%A2.jpg/357px-BACK_TO_THE_%E7%A7%91%E5%AD%A6%E4%B8%96%E7%B4%80%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="800" data-file-height="1130"></a><div class="cover-char">角色：<a href="./宇佐见莲子.md" title="宇佐见莲子">宇佐见莲子</a>，<a href="./八云紫.md" title="八云紫">八云紫</a>，<a href="./宇佐见堇子.md" title="宇佐见堇子">宇佐见堇子</a></div></td>
 </tr><tr><td class="label">名称</td><td colspan="2"> BACK TO THE 科学世紀 </td></tr><tr><td class="label">译名</td><td colspan="2"> BACK TO THE 科学世纪 </td></tr><tr><td class="label">制作方</td><td><a href="./ぜのさいど.md" title="ぜのさいど">ぜのさいど</a></td><td class="cover-artwork" rowspan="9" style="min-width:252px;"><a href="./文件-BACK_TO_THE_科学世紀封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/9/97/BACK_TO_THE_%E7%A7%91%E5%AD%A6%E4%B8%96%E7%B4%80%E5%B0%81%E9%9D%A2.jpg/178px-BACK_TO_THE_%E7%A7%91%E5%AD%A6%E4%B8%96%E7%B4%80%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="178" height="252" srcset="https://upload.thwiki.cc/thumb/9/97/BACK_TO_THE_%E7%A7%91%E5%AD%A6%E4%B8%96%E7%B4%80%E5%B0%81%E9%9D%A2.jpg/267px-BACK_TO_THE_%E7%A7%91%E5%AD%A6%E4%B8%96%E7%B4%80%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/9/97/BACK_TO_THE_%E7%A7%91%E5%AD%A6%E4%B8%96%E7%B4%80%E5%B0%81%E9%9D%A2.jpg/357px-BACK_TO_THE_%E7%A7%91%E5%AD%A6%E4%B8%96%E7%B4%80%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="800" data-file-height="1130"></a><div class="cover-char">角色：<a href="./宇佐见莲子.md" title="宇佐见莲子">宇佐见莲子</a>，<a href="./八云紫.md" title="八云紫">八云紫</a>，<a href="./宇佐见堇子.md" title="宇佐见堇子">宇佐见堇子</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2018-08-10&#160;（<a href="/展会作品列表?e=Comic+Market%2394">Comic Market 94</a>）</td></tr><tr><td class="label">类型</td><td>漫画</td></tr><tr><td class="label">编号</td><td>No.050</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>B5</td></tr><tr><td class="label">页数</td><td>52P</td></tr><tr><td class="label">登场人物</td><td><a href="./宇佐见莲子.md" title="宇佐见莲子">宇佐见莲子</a>，<a href="./八云紫.md" title="八云紫">八云紫</a>，<a href="./宇佐见堇子.md" title="宇佐见堇子">宇佐见堇子</a></td></tr><tr><td class="label">售价</td><td>会场售价：500日元<br>通贩售价：600日元</td></tr>
+</tr><tr><td class="label">首发日期</td><td>2018-08-10 （<a href="./展会作品列表.md#94">Comic Market 94</a>）</td></tr><tr><td class="label">类型</td><td>漫画</td></tr><tr><td class="label">编号</td><td>No.050</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>B5</td></tr><tr><td class="label">页数</td><td>52P</td></tr><tr><td class="label">登场人物</td><td><a href="./宇佐见莲子.md" title="宇佐见莲子">宇佐见莲子</a>，<a href="./八云紫.md" title="八云紫">八云紫</a>，<a href="./宇佐见堇子.md" title="宇佐见堇子">宇佐见堇子</a></td></tr><tr><td class="label">售价</td><td>会场售价：500日元<br>通贩售价：600日元</td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/70048670">https://www.pixiv.net/artworks/70048670</a><br><a rel="nofollow" class="external free" href="http://zenoside.blog32.fc2.com/blog-entry-255.html">http://zenoside.blog32.fc2.com/blog-entry-255.html</a></td></tr></tbody></table>
 
 BACK TO THE 科学世紀（同人志，ぜのさいど，2018） - 2018年8月10日 由 ぜのさいど 于 Comic Market 94 发布的漫画同人志，B5尺寸一共52页，登场人物有 宇佐见莲子、八云紫、宇佐见堇子，分级为 一般向
-
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=391273">蜜瓜</a>，<a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=391273">蜜瓜（特典）</a>，<a rel="nofollow" class="external text" href="https://ec.toranoana.jp/tora_r/ec/item/040030656010">虎穴</a></td></tr></tbody></table>
 
 
-
 ## 预览
-- [](./文件-BACK_TO_THE_科学世紀预览图1.jpg.md)- [](./文件-BACK_TO_THE_科学世紀预览图2.jpg.md)- [](./文件-BACK_TO_THE_科学世紀预览图3.jpg.md)- [](./文件-BACK_TO_THE_科学世紀预览图4.jpg.md)- [](./文件-BACK_TO_THE_科学世紀预览图5.jpg.md)
+
+- <img alt="BACK TO THE 科学世紀预览图1.jpg" src="https://upload.thwiki.cc/thumb/8/81/BACK_TO_THE_%E7%A7%91%E5%AD%A6%E4%B8%96%E7%B4%80%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg/265px-BACK_TO_THE_%E7%A7%91%E5%AD%A6%E4%B8%96%E7%B4%80%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg" decoding="async" loading="lazy" width="177" height="250" srcset="https://upload.thwiki.cc/thumb/8/81/BACK_TO_THE_%E7%A7%91%E5%AD%A6%E4%B8%96%E7%B4%80%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg/399px-BACK_TO_THE_%E7%A7%91%E5%AD%A6%E4%B8%96%E7%B4%80%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg 1.5x, https://upload.thwiki.cc/thumb/8/81/BACK_TO_THE_%E7%A7%91%E5%AD%A6%E4%B8%96%E7%B4%80%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg/531px-BACK_TO_THE_%E7%A7%91%E5%AD%A6%E4%B8%96%E7%B4%80%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg 2x" data-file-width="946" data-file-height="1336"> 
+- <img alt="BACK TO THE 科学世紀预览图2.jpg" src="https://upload.thwiki.cc/thumb/9/93/BACK_TO_THE_%E7%A7%91%E5%AD%A6%E4%B8%96%E7%B4%80%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg/265px-BACK_TO_THE_%E7%A7%91%E5%AD%A6%E4%B8%96%E7%B4%80%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg" decoding="async" loading="lazy" width="177" height="250" srcset="https://upload.thwiki.cc/thumb/9/93/BACK_TO_THE_%E7%A7%91%E5%AD%A6%E4%B8%96%E7%B4%80%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg/399px-BACK_TO_THE_%E7%A7%91%E5%AD%A6%E4%B8%96%E7%B4%80%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg 1.5x, https://upload.thwiki.cc/thumb/9/93/BACK_TO_THE_%E7%A7%91%E5%AD%A6%E4%B8%96%E7%B4%80%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg/531px-BACK_TO_THE_%E7%A7%91%E5%AD%A6%E4%B8%96%E7%B4%80%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg 2x" data-file-width="946" data-file-height="1336"> 
+- <img alt="BACK TO THE 科学世紀预览图3.jpg" src="https://upload.thwiki.cc/thumb/c/c1/BACK_TO_THE_%E7%A7%91%E5%AD%A6%E4%B8%96%E7%B4%80%E9%A2%84%E8%A7%88%E5%9B%BE3.jpg/265px-BACK_TO_THE_%E7%A7%91%E5%AD%A6%E4%B8%96%E7%B4%80%E9%A2%84%E8%A7%88%E5%9B%BE3.jpg" decoding="async" loading="lazy" width="177" height="250" srcset="https://upload.thwiki.cc/thumb/c/c1/BACK_TO_THE_%E7%A7%91%E5%AD%A6%E4%B8%96%E7%B4%80%E9%A2%84%E8%A7%88%E5%9B%BE3.jpg/399px-BACK_TO_THE_%E7%A7%91%E5%AD%A6%E4%B8%96%E7%B4%80%E9%A2%84%E8%A7%88%E5%9B%BE3.jpg 1.5x, https://upload.thwiki.cc/thumb/c/c1/BACK_TO_THE_%E7%A7%91%E5%AD%A6%E4%B8%96%E7%B4%80%E9%A2%84%E8%A7%88%E5%9B%BE3.jpg/531px-BACK_TO_THE_%E7%A7%91%E5%AD%A6%E4%B8%96%E7%B4%80%E9%A2%84%E8%A7%88%E5%9B%BE3.jpg 2x" data-file-width="946" data-file-height="1336"> 
+- <img alt="BACK TO THE 科学世紀预览图4.jpg" src="https://upload.thwiki.cc/thumb/c/c9/BACK_TO_THE_%E7%A7%91%E5%AD%A6%E4%B8%96%E7%B4%80%E9%A2%84%E8%A7%88%E5%9B%BE4.jpg/265px-BACK_TO_THE_%E7%A7%91%E5%AD%A6%E4%B8%96%E7%B4%80%E9%A2%84%E8%A7%88%E5%9B%BE4.jpg" decoding="async" loading="lazy" width="177" height="250" srcset="https://upload.thwiki.cc/thumb/c/c9/BACK_TO_THE_%E7%A7%91%E5%AD%A6%E4%B8%96%E7%B4%80%E9%A2%84%E8%A7%88%E5%9B%BE4.jpg/399px-BACK_TO_THE_%E7%A7%91%E5%AD%A6%E4%B8%96%E7%B4%80%E9%A2%84%E8%A7%88%E5%9B%BE4.jpg 1.5x, https://upload.thwiki.cc/thumb/c/c9/BACK_TO_THE_%E7%A7%91%E5%AD%A6%E4%B8%96%E7%B4%80%E9%A2%84%E8%A7%88%E5%9B%BE4.jpg/531px-BACK_TO_THE_%E7%A7%91%E5%AD%A6%E4%B8%96%E7%B4%80%E9%A2%84%E8%A7%88%E5%9B%BE4.jpg 2x" data-file-width="946" data-file-height="1336"> 
+- <img alt="BACK TO THE 科学世紀预览图5.jpg" src="https://upload.thwiki.cc/thumb/f/f8/BACK_TO_THE_%E7%A7%91%E5%AD%A6%E4%B8%96%E7%B4%80%E9%A2%84%E8%A7%88%E5%9B%BE5.jpg/265px-BACK_TO_THE_%E7%A7%91%E5%AD%A6%E4%B8%96%E7%B4%80%E9%A2%84%E8%A7%88%E5%9B%BE5.jpg" decoding="async" loading="lazy" width="177" height="250" srcset="https://upload.thwiki.cc/thumb/f/f8/BACK_TO_THE_%E7%A7%91%E5%AD%A6%E4%B8%96%E7%B4%80%E9%A2%84%E8%A7%88%E5%9B%BE5.jpg/399px-BACK_TO_THE_%E7%A7%91%E5%AD%A6%E4%B8%96%E7%B4%80%E9%A2%84%E8%A7%88%E5%9B%BE5.jpg 1.5x, https://upload.thwiki.cc/thumb/f/f8/BACK_TO_THE_%E7%A7%91%E5%AD%A6%E4%B8%96%E7%B4%80%E9%A2%84%E8%A7%88%E5%9B%BE5.jpg/531px-BACK_TO_THE_%E7%A7%91%E5%AD%A6%E4%B8%96%E7%B4%80%E9%A2%84%E8%A7%88%E5%9B%BE5.jpg 2x" data-file-width="946" data-file-height="1336"> 
 
 
 ## 特典
-- 特典版：A4文件夹（MelonBooks委托限定）  
-特典版：A4クリアファイル(メロンブックス委託のみ)
 
-- [](./文件-BACK_TO_THE_科学世紀A4文件夹.jpg.md)
+- 特典版：A4文件夹（MelonBooks委托限定）特典版：A4クリアファイル(メロンブックス委託のみ)
+
+
+- <img alt="BACK TO THE 科学世紀A4文件夹.jpg" src="https://upload.thwiki.cc/thumb/8/89/BACK_TO_THE_%E7%A7%91%E5%AD%A6%E4%B8%96%E7%B4%80A4%E6%96%87%E4%BB%B6%E5%A4%B9.jpg/120px-BACK_TO_THE_%E7%A7%91%E5%AD%A6%E4%B8%96%E7%B4%80A4%E6%96%87%E4%BB%B6%E5%A4%B9.jpg" decoding="async" loading="lazy" width="120" height="85" srcset="https://upload.thwiki.cc/thumb/8/89/BACK_TO_THE_%E7%A7%91%E5%AD%A6%E4%B8%96%E7%B4%80A4%E6%96%87%E4%BB%B6%E5%A4%B9.jpg/180px-BACK_TO_THE_%E7%A7%91%E5%AD%A6%E4%B8%96%E7%B4%80A4%E6%96%87%E4%BB%B6%E5%A4%B9.jpg 1.5x, https://upload.thwiki.cc/thumb/8/89/BACK_TO_THE_%E7%A7%91%E5%AD%A6%E4%B8%96%E7%B4%80A4%E6%96%87%E4%BB%B6%E5%A4%B9.jpg/240px-BACK_TO_THE_%E7%A7%91%E5%AD%A6%E4%B8%96%E7%B4%80A4%E6%96%87%E4%BB%B6%E5%A4%B9.jpg 2x" data-file-width="450" data-file-height="317"> 
 
 
 ## Staff
+
 - [是乃](./是乃.md)
 
 
@@ -39,15 +43,11 @@ BACK TO THE 科学世紀（同人志，ぜのさいど，2018） - 2018年8月10
   
 标题neta了1985年开始上映的美国科幻喜剧电影系列《回到未来》(Back To The Future)，而作品的剧情也与《回到未来》的第一部有相似之处。
   
-
 社团方的评论
-
   
 マエリベリー・ハーンが夢の中から持ち帰った時計がキッカケで幻想郷へ迷い込んだ宇佐見蓮子が宇佐見菫子と出会ってしまったり八雲紫に絡まれたりするタイムトラベルコメディです。
   
-
 MelonBooks staff的评论
-
   
 蓮子は過去にタイムスリップ。過去で手を差し伸べてくれたのは宇佐見菫子でした。  
 
@@ -57,10 +57,6 @@ MelonBooks staff的评论
 
 是乃先生の贈る、わくわくタイムトラベルギャグをぜひお手元にてお楽しみ下さい。
   
-
-
-
-
 
 ---
 

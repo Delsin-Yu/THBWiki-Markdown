@@ -1,6 +1,6 @@
 # 文件:東方ファンタジー_-ADVENT_CIRNO-_ORIGINAL仮想SOUNDTRACK封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2e\ns6%3A%E6%9D%B1%E6%96%B9%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC_-ADVENT_CIRNO-_ORIGINAL%E4%BB%AE%E6%83%B3SOUNDTRACK%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2e\ns6%3A%E6%9D%B1%E6%96%B9%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC_-ADVENT_CIRNO-_ORIGINAL%E4%BB%AE%E6%83%B3SOUNDTRACK%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 mistbell | 专辑封面 | 封面图片
 
@@ -8,16 +8,17 @@ mistbell | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方ファンタジー -ADVENT CIRNO- ORIGINAL仮想SOUNDTRACK](./東方ファンタジー_-ADVENT_CIRNO-_ORIGINAL仮想SOUNDTRACK.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)- [博丽灵梦](./博丽灵梦.md)- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)- 十六夜咲夜 (未找到链接)- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [魂魄妖梦](./魂魄妖梦.md)- [雾雨魔理沙](./雾雨魔理沙.md)
+- [東方ファンタジー -ADVENT CIRNO- ORIGINAL仮想SOUNDTRACK](./東方ファンタジー_-ADVENT_CIRNO-_ORIGINAL仮想SOUNDTRACK.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
+- [博丽灵梦](./博丽灵梦.md)
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
+- [十六夜咲夜](./十六夜咲夜.md)
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [魂魄妖梦](./魂魄妖梦.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-源地址：[[1]](https://web.archive.org/web/20060620115905im_/http://www.mistbell.com/official/image/album008/mistbell_008_jacket_2.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://web.archive.org/web/20060620115905im_/http://www.mistbell.com/official/image/album008/mistbell_008_jacket_2.jpg)  
 
 ---
 

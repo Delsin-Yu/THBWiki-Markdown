@@ -1,6 +1,6 @@
 # 文件:FFV_TOHO_ARRANGE封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5a\ns6%3AFFV_TOHO_ARRANGE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5a\ns6%3AFFV_TOHO_ARRANGE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Milkclip | 专辑封面 | 封面图片
 
@@ -8,11 +8,11 @@ Milkclip | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [FFV TOHO ARRANGE](./FFV_TOHO_ARRANGE.md)  
-该封面包含的角色：- [露米娅](./露米娅.md)- [琪露诺](./琪露诺.md)- [莉格露·奈特巴格](./莉格露·奈特巴格.md)- [米斯蒂娅·萝蕾拉](./米斯蒂娅·萝蕾拉.md)
-
-
-
+- [FFV TOHO ARRANGE](./FFV_TOHO_ARRANGE.md)该封面包含的角色：
+- [露米娅](./露米娅.md)
+- [琪露诺](./琪露诺.md)
+- [莉格露·奈特巴格](./莉格露·奈特巴格.md)
+- [米斯蒂娅·萝蕾拉](./米斯蒂娅·萝蕾拉.md)
 
 
 ---

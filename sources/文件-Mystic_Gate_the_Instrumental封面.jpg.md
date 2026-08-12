@@ -1,6 +1,6 @@
 # 文件:Mystic_Gate_the_Instrumental封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3e\ns6%3AMystic_Gate_the_Instrumental%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3e\ns6%3AMystic_Gate_the_Instrumental%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 EastNewSound | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ EastNewSound | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Mystic Gate the Instrumental](./Mystic_Gate_the_Instrumental.md)  
-该封面包含的角色：- [摩多罗隐岐奈](./摩多罗隐岐奈.md)
+- [Mystic Gate the Instrumental](./Mystic_Gate_the_Instrumental.md)该封面包含的角色：
+- [摩多罗隐岐奈](./摩多罗隐岐奈.md)
 
   
-源地址：[[1]](https://twitter.com/EastNewSound/status/992658233947971584)
-  
-
-
-
-
+源地址：[\[1\]](https://twitter.com/EastNewSound/status/992658233947971584)  
 
 ---
 

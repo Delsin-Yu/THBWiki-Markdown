@@ -1,6 +1,6 @@
 # 文件:東方幻朧悠月抄_～_Imperishable_sin_and_millennium_history_～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5b\ns6%3A%E6%9D%B1%E6%96%B9%E5%B9%BB%E6%9C%A7%E6%82%A0%E6%9C%88%E6%8A%84_%EF%BD%9E_Imperishable_sin_and_millennium_history_%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5b\ns6%3A%E6%9D%B1%E6%96%B9%E5%B9%BB%E6%9C%A7%E6%82%A0%E6%9C%88%E6%8A%84_%EF%BD%9E_Imperishable_sin_and_millennium_history_%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 まぐなむお～ぱす | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方幻朧悠月抄 ～ Imperishable sin and millennium history ～](./東方幻朧悠月抄_～_Imperishable_sin_and_millennium_history_～.md)  
-该封面包含的角色：- [蓬莱山辉夜](./蓬莱山辉夜.md)- [藤原妹红](./藤原妹红.md)
-
-
-
+- [東方幻朧悠月抄 ～ Imperishable sin and millennium history ～](./東方幻朧悠月抄_～_Imperishable_sin_and_millennium_history_～.md)该封面包含的角色：
+- [蓬莱山辉夜](./蓬莱山辉夜.md)
+- [藤原妹红](./藤原妹红.md)
 
 
 ---

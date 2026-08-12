@@ -1,6 +1,6 @@
 # 文件:AR_2nd_impact封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cf\ns6%3AAR_2nd_impact%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cf\ns6%3AAR_2nd_impact%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 あらいぐまファクトリー | 专辑封面 | 封面图片
 
@@ -8,11 +8,20 @@
 使用了本文件作封面图片的作品：
   
 
-- [AR 2nd impact](./AR_2nd_impact.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [蕾蒂·霍瓦特洛克](./蕾蒂·霍瓦特洛克.md)- [魂魄妖梦](./魂魄妖梦.md)- [河城荷取](./河城荷取.md)- [东风谷早苗](./东风谷早苗.md)- [圣白莲](./圣白莲.md)- [宫古芳香](./宫古芳香.md)- [雾雨魔理沙](./雾雨魔理沙.md)- [茨木华扇](./茨木华扇.md)- [秦心](./秦心.md)- [稀神探女](./稀神探女.md)- [克劳恩皮丝](./克劳恩皮丝.md)- [矢田寺成美](./矢田寺成美.md)
-
-
-
+- [AR 2nd impact](./AR_2nd_impact.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [蕾蒂·霍瓦特洛克](./蕾蒂·霍瓦特洛克.md)
+- [魂魄妖梦](./魂魄妖梦.md)
+- [河城荷取](./河城荷取.md)
+- [东风谷早苗](./东风谷早苗.md)
+- [圣白莲](./圣白莲.md)
+- [宫古芳香](./宫古芳香.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
+- [茨木华扇](./茨木华扇.md)
+- [秦心](./秦心.md)
+- [稀神探女](./稀神探女.md)
+- [克劳恩皮丝](./克劳恩皮丝.md)
+- [矢田寺成美](./矢田寺成美.md)
 
 
 ---

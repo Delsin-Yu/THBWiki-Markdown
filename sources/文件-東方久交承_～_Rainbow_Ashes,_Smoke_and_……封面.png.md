@@ -1,6 +1,6 @@
 # 文件:東方久交承_～_Rainbow_Ashes,_Smoke_and_……封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d4\ns6%3A%E6%9D%B1%E6%96%B9%E4%B9%85%E4%BA%A4%E6%89%BF_%EF%BD%9E_Rainbow_Ashes%2C_Smoke_and_%E2%80%A6%E2%80%A6%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d4\ns6%3A%E6%9D%B1%E6%96%B9%E4%B9%85%E4%BA%A4%E6%89%BF_%EF%BD%9E_Rainbow_Ashes%2C_Smoke_and_%E2%80%A6%E2%80%A6%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Yurihaka | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ Yurihaka | 专辑封面 | 封面图片
   
 
 - [東方久交承 ～ Rainbow Ashes, Smoke and ……](./東方久交承_～_Rainbow_Ashes,_Smoke_and_…….md)
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:MAGMA_LIVE_2017封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e4\ns6%3AMAGMA_LIVE_2017%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e4\ns6%3AMAGMA_LIVE_2017%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 SOUND_HOLIC | 封面图片 | 视频封面
 
@@ -9,9 +9,6 @@ SOUND_HOLIC | 封面图片 | 视频封面
   
 
 - [MAGMA LIVE 2017](./MAGMA_LIVE_2017.md)
-
-
-
 
 
 ---

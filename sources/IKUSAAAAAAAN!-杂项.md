@@ -1,16 +1,11 @@
 # IKUSAAAAAAAN!/杂项
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\f6\ns0%3AIKUSAAAAAAAN%21%2F%E6%9D%82%E9%A1%B9.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\f6\ns0%3AIKUSAAAAAAAN%21%2F%E6%9D%82%E9%A1%B9.html -->
 
 幽々燦々
 
   
-中文游戏名： ~~19桑～～～～～～～~~ 
-  
-
-
-
-
+中文游戏名： ~~19桑～～～～～～～~~   
 
 ---
 

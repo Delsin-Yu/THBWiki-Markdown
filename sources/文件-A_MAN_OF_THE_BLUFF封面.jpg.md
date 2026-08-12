@@ -1,6 +1,6 @@
 # 文件:A_MAN_OF_THE_BLUFF封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\df\ns6%3AA_MAN_OF_THE_BLUFF%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\df\ns6%3AA_MAN_OF_THE_BLUFF%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 9bFOX | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [A MAN OF THE BLUFF](./A_MAN_OF_THE_BLUFF.md)  
-该封面包含的角色：- [八云蓝](./八云蓝.md)
-
-
-
+- [A MAN OF THE BLUFF](./A_MAN_OF_THE_BLUFF.md)该封面包含的角色：
+- [八云蓝](./八云蓝.md)
 
 
 ---

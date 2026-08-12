@@ -1,6 +1,6 @@
 # 文件:美麗的故事_Lucy_a.k.a._ky_TOHO_Remixes_BEST封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a4\ns6%3A%E7%BE%8E%E9%BA%97%E7%9A%84%E6%95%85%E4%BA%8B_Lucy_a%2Ek%2Ea%2E_ky_TOHO_Remixes_BEST%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a4\ns6%3A%E7%BE%8E%E9%BA%97%E7%9A%84%E6%95%85%E4%BA%8B_Lucy_a%2Ek%2Ea%2E_ky_TOHO_Remixes_BEST%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Golden_City_Factory | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ Golden_City_Factory | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [美麗的故事 Lucy a.k.a. ky TOHO Remixes BEST](./美麗的故事_Lucy_a.k.a._ky_TOHO_Remixes_BEST.md)  
-该封面包含的角色：- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)- [八意永琳](./八意永琳.md)
-
-
-
+- [美麗的故事 Lucy a.k.a. ky TOHO Remixes BEST](./美麗的故事_Lucy_a.k.a._ky_TOHO_Remixes_BEST.md)该封面包含的角色：
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
+- [八意永琳](./八意永琳.md)
 
 
 ---

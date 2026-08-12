@@ -1,6 +1,6 @@
 # 文件:Wind_lord_Type：miracle封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\07\ns6%3AWind_lord_Type%EF%BC%9Amiracle%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\07\ns6%3AWind_lord_Type%EF%BC%9Amiracle%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Clip_Sounds | 专辑封面 | 封面图片 | 灿华幻梦 | 白玉家
 
@@ -8,11 +8,9 @@ Clip_Sounds | 专辑封面 | 封面图片 | 灿华幻梦 | 白玉家
 使用了本文件作封面图片的作品：
   
 
-- [Wind lord Type：miracle](./Wind_lord_Type：miracle.md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)- [东风谷早苗](./东风谷早苗.md)
-
-
-
+- [Wind lord Type：miracle](./Wind_lord_Type：miracle.md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
+- [东风谷早苗](./东风谷早苗.md)
 
 
 ---

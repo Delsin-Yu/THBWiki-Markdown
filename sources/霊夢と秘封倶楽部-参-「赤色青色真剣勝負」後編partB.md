@@ -1,12 +1,11 @@
 # 霊夢と秘封倶楽部-参-「赤色青色真剣勝負」後編partB
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\8\88\ns0%3A%E9%9C%8A%E5%A4%A2%E3%81%A8%E7%A7%98%E5%B0%81%E5%80%B6%E6%A5%BD%E9%83%A8-%E5%8F%82-%E3%80%8C%E8%B5%A4%E8%89%B2%E9%9D%92%E8%89%B2%E7%9C%9F%E5%89%A3%E5%8B%9D%E8%B2%A0%E3%80%8D%E5%BE%8C%E7%B7%A8partB.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\8\88\ns0%3A%E9%9C%8A%E5%A4%A2%E3%81%A8%E7%A7%98%E5%B0%81%E5%80%B6%E6%A5%BD%E9%83%A8-%E5%8F%82-%E3%80%8C%E8%B5%A4%E8%89%B2%E9%9D%92%E8%89%B2%E7%9C%9F%E5%89%A3%E5%8B%9D%E8%B2%A0%E3%80%8D%E5%BE%8C%E7%B7%A8partB.html -->
 
 2014年10月6日 由 わきぴー  发布的手书同人视频，总长 0小时13分钟，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人视频 (未找到链接)** 的词条
-
+**[二次创作同人视频](./二次创作.md#视频创作)**的词条
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-霊夢と秘封倶楽部-参-「赤色青色真剣勝負」後編partB封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/2/28/%E9%9C%8A%E5%A4%A2%E3%81%A8%E7%A7%98%E5%B0%81%E5%80%B6%E6%A5%BD%E9%83%A8-%E5%8F%82-%E3%80%8C%E8%B5%A4%E8%89%B2%E9%9D%92%E8%89%B2%E7%9C%9F%E5%89%A3%E5%8B%9D%E8%B2%A0%E3%80%8D%E5%BE%8C%E7%B7%A8partB%E5%B0%81%E9%9D%A2.jpg/168px-%E9%9C%8A%E5%A4%A2%E3%81%A8%E7%A7%98%E5%B0%81%E5%80%B6%E6%A5%BD%E9%83%A8-%E5%8F%82-%E3%80%8C%E8%B5%A4%E8%89%B2%E9%9D%92%E8%89%B2%E7%9C%9F%E5%89%A3%E5%8B%9D%E8%B2%A0%E3%80%8D%E5%BE%8C%E7%B7%A8partB%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="168" height="126" srcset="https://upload.thwiki.cc/thumb/2/28/%E9%9C%8A%E5%A4%A2%E3%81%A8%E7%A7%98%E5%B0%81%E5%80%B6%E6%A5%BD%E9%83%A8-%E5%8F%82-%E3%80%8C%E8%B5%A4%E8%89%B2%E9%9D%92%E8%89%B2%E7%9C%9F%E5%89%A3%E5%8B%9D%E8%B2%A0%E3%80%8D%E5%BE%8C%E7%B7%A8partB%E5%B0%81%E9%9D%A2.jpg/252px-%E9%9C%8A%E5%A4%A2%E3%81%A8%E7%A7%98%E5%B0%81%E5%80%B6%E6%A5%BD%E9%83%A8-%E5%8F%82-%E3%80%8C%E8%B5%A4%E8%89%B2%E9%9D%92%E8%89%B2%E7%9C%9F%E5%89%A3%E5%8B%9D%E8%B2%A0%E3%80%8D%E5%BE%8C%E7%B7%A8partB%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/2/28/%E9%9C%8A%E5%A4%A2%E3%81%A8%E7%A7%98%E5%B0%81%E5%80%B6%E6%A5%BD%E9%83%A8-%E5%8F%82-%E3%80%8C%E8%B5%A4%E8%89%B2%E9%9D%92%E8%89%B2%E7%9C%9F%E5%89%A3%E5%8B%9D%E8%B2%A0%E3%80%8D%E5%BE%8C%E7%B7%A8partB%E5%B0%81%E9%9D%A2.jpg/336px-%E9%9C%8A%E5%A4%A2%E3%81%A8%E7%A7%98%E5%B0%81%E5%80%B6%E6%A5%BD%E9%83%A8-%E5%8F%82-%E3%80%8C%E8%B5%A4%E8%89%B2%E9%9D%92%E8%89%B2%E7%9C%9F%E5%89%A3%E5%8B%9D%E8%B2%A0%E3%80%8D%E5%BE%8C%E7%B7%A8partB%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="360" data-file-height="270"></a><div class="cover-char">角色：<a href="./宇佐见莲子.md" title="宇佐见莲子">宇佐见莲子</a>，<a href="./玛艾露贝莉·赫恩.md" title="玛艾露贝莉·赫恩">玛艾露贝莉·赫恩</a></div></td>
@@ -15,19 +14,14 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.nicovideo.jp/watch/sm24629983">https://www.nicovideo.jp/watch/sm24629983</a></td></tr></tbody></table>
 
 霊夢と秘封倶楽部-参-「赤色青色真剣勝負」後編partB（同人视频，わきぴー，2014） - 2014年10月6日 由 わきぴー  发布的手书同人视频，总长 0小时13分钟，分级为 一般向
-
 ## 说明
   
 本作品是[霊夢と秘封倶楽部](./霊夢と秘封倶楽部.md)系列第三话后篇的B部分
   
 
-
 ## 在线地址
   
 <iframe width="100%" height="180" src="https://ext.nicovideo.jp/thumb/sm24629983" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/watch/sm24629983">,</a></iframe>
-
-
-
   
 
 <table>
@@ -36,23 +30,12 @@
 </table>
 
 
-
-
-
-
 ## Staff
 
 ## 评论
-
   
 参の後編のpartB。蓮メリの能力と必要性の説明。天子編おしまい。
   
-
-
-
-
-
-
 
 ---
 

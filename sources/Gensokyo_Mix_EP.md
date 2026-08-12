@@ -1,12 +1,11 @@
 # Gensokyo_Mix_EP
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\d\d1\ns0%3AGensokyo_Mix_EP.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\d\d1\ns0%3AGensokyo_Mix_EP.html -->
 
 2011年8月12日 由 typeMARS Records  发布的EP同人专辑，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人专辑 (未找到链接)** 的词条
-
+**[二次创作同人专辑](./二次创作.md#同人音乐)**的词条
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Gensokyo_Mix_EP封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/4/4c/Gensokyo_Mix_EP%E5%B0%81%E9%9D%A2.jpg/252px-Gensokyo_Mix_EP%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="252" height="252" srcset="https://upload.thwiki.cc/thumb/4/4c/Gensokyo_Mix_EP%E5%B0%81%E9%9D%A2.jpg/378px-Gensokyo_Mix_EP%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/4/4c/Gensokyo_Mix_EP%E5%B0%81%E9%9D%A2.jpg/504px-Gensokyo_Mix_EP%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="700" data-file-height="700"></a><div class="cover-char">角色：<a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a></div></td>
@@ -14,39 +13,27 @@
 </tr><tr><td class="label">首发日期</td><td>2011-08-12</td></tr><tr><td class="label">类型</td><td>EP</td></tr><tr><td class="label">编号</td><td>TMR-0002</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>3</td></tr><tr><td class="label">总时长</td><td>00:00</td></tr><tr><td class="label">售价</td><td>会场售价：免费</td></tr></tbody></table>
 
 Gensokyo Mix EP（同人专辑，typeMARS Records，2011） - 2011年8月12日 由 typeMARS Records  发布的EP同人专辑，分级为 一般向
-
 ## Staff
   
- **Arrangement**   
+**Arrangement**  
 
 <table><tbody><tr><td><a href="./typeMARS.md" title="typeMARS">typeMARS</a></td><td></td><td>Tr.1-3</td></tr></tbody></table>
-
 
 Design
 : 设计师 （[网址 社团]）
 Illustration
 : 画师 （[网址 社团]）
 
-
 ## 试听
-  
-<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/993847&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=false"></iframe>
-
-  
-
 
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Blood_of_Descendants" colspan="2" class="title">Blood of Descendants<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=typeMARS&amp;ogmusic=ツェペシュの幼き末裔&amp;fromwiki=Gensokyo_Mix_EP"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./typeMARS.md" title="typeMARS">typeMARS</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，typeMARS&amp;fromwiki=Gensokyo_Mix_EP"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=ツェペシュの幼き末裔&amp;fromwiki=Gensokyo_Mix_EP"><span></span></a></span><div class="ogmusic"><a href="./ツェペシュの幼き末裔.md" class="mw-redirect" title="ツェペシュの幼き末裔">ツェペシュの幼き末裔</a></div><div class="source"><a href="./东方红魔乡_～_the_Embodiment_of_Scarlet_Devil..md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr>
-<tr><td id="2" class="infoYD"><b>02</b></td><td id="Librarian_Power_of_Curiosity" colspan="2" class="title">Librarian Power of Curiosity<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=typeMARS&amp;ogmusic=年中夢中の好奇心&amp;fromwiki=Gensokyo_Mix_EP"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./typeMARS.md" title="typeMARS">typeMARS</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，typeMARS&amp;fromwiki=Gensokyo_Mix_EP"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=年中夢中の好奇心&amp;fromwiki=Gensokyo_Mix_EP"><span></span></a></span><div class="ogmusic"><a href="./年中夢中の好奇心.md" class="mw-redirect" title="年中夢中の好奇心">年中夢中の好奇心</a></div><div class="source"><a href="./妖精大战争_～_东方三月精.md" class="mw-redirect" title="妖精大战争 ～ 东方三月精">妖精大战争　～ 东方三月精</a></div></td></tr>
-<tr><td id="3" class="infoYD"><b>03</b></td><td id="Shutter_Flash_of_the_Far_East" colspan="2" class="title">Shutter Flash of the Far East<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=typeMARS&amp;ogmusic=東の国の眠らない夜&amp;fromwiki=Gensokyo_Mix_EP"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./typeMARS.md" title="typeMARS">typeMARS</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，typeMARS&amp;fromwiki=Gensokyo_Mix_EP"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=東の国の眠らない夜&amp;fromwiki=Gensokyo_Mix_EP"><span></span></a></span><div class="ogmusic"><a href="./東の国の眠らない夜.md" class="mw-redirect" title="東の国の眠らない夜">東の国の眠らない夜</a></div><div class="source"><a href="./东方文花帖_～_Shoot_the_Bullet..md" class="mw-redirect" title="东方文花帖 ～ Shoot the Bullet.">东方文花帖　～ Shoot the Bullet.</a></div></td></tr></tbody></table>
-
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Blood_of_Descendants" colspan="2" class="title">Blood of Descendants</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./typeMARS.md" title="typeMARS">typeMARS</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./特佩斯的年幼末裔.md" class="mw-redirect" title="ツェペシュの幼き末裔">ツェペシュの幼き末裔</a></div><div class="source"><a href="./东方红魔乡.md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr>
+<tr><td id="2" class="infoYD"><b>02</b></td><td id="Librarian_Power_of_Curiosity" colspan="2" class="title">Librarian Power of Curiosity</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./typeMARS.md" title="typeMARS">typeMARS</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./时刻旺盛的好奇心.md" class="mw-redirect" title="年中夢中の好奇心">年中夢中の好奇心</a></div><div class="source"><a href="./妖精大战争.md" class="mw-redirect" title="妖精大战争 ～ 东方三月精">妖精大战争　～ 东方三月精</a></div></td></tr>
+<tr><td id="3" class="infoYD"><b>03</b></td><td id="Shutter_Flash_of_the_Far_East" colspan="2" class="title">Shutter Flash of the Far East</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./typeMARS.md" title="typeMARS">typeMARS</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./东之国的不眠夜.md" class="mw-redirect" title="東の国の眠らない夜">東の国の眠らない夜</a></div><div class="source"><a href="./东方文花帖.md" class="mw-redirect" title="东方文花帖 ～ Shoot the Bullet.">东方文花帖　～ Shoot the Bullet.</a></div></td></tr></tbody></table>
 
 
 ## 评论
-
-
-
 
 ---
 

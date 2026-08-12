@@ -1,16 +1,12 @@
 # 文件:Sexy_Oldguys_Logo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c0\ns6%3ASexy_Oldguys_Logo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c0\ns6%3ASexy_Oldguys_Logo%2Epng.html -->
 
 Sexy_Oldguys | 社团LOGO
 
   
 Sexy Oldguys Logo
   
-
-
-
-
 
 ---
 

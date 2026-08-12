@@ -1,6 +1,6 @@
 # 文件:BEAUTIES_OF_NATURE封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e6\ns6%3ABEAUTIES_OF_NATURE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e6\ns6%3ABEAUTIES_OF_NATURE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Milky_List | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ Milky_List | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [BEAUTIES OF NATURE](./BEAUTIES_OF_NATURE.md)  
-该封面包含的角色：- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)- [东风谷早苗](./东风谷早苗.md)
-
-
-
+- [BEAUTIES OF NATURE](./BEAUTIES_OF_NATURE.md)该封面包含的角色：
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
+- [东风谷早苗](./东风谷早苗.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:古明地さとり＆こいしのハイパーDJ_Remix封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6c\ns6%3A%E5%8F%A4%E6%98%8E%E5%9C%B0%E3%81%95%E3%81%A8%E3%82%8A%EF%BC%86%E3%81%93%E3%81%84%E3%81%97%E3%81%AE%E3%83%8F%E3%82%A4%E3%83%91%E3%83%BCDJ_Remix%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6c\ns6%3A%E5%8F%A4%E6%98%8E%E5%9C%B0%E3%81%95%E3%81%A8%E3%82%8A%EF%BC%86%E3%81%93%E3%81%84%E3%81%97%E3%81%AE%E3%83%8F%E3%82%A4%E3%83%91%E3%83%BCDJ_Remix%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 アールグレイ | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [古明地さとり＆こいしのハイパーDJ Remix](./古明地さとり＆こいしのハイパーDJ_Remix.md)  
-该封面包含的角色：- [古明地觉](./古明地觉.md)- [古明地恋](./古明地恋.md)
-
-
-
+- [古明地さとり＆こいしのハイパーDJ Remix](./古明地さとり＆こいしのハイパーDJ_Remix.md)该封面包含的角色：
+- [古明地觉](./古明地觉.md)
+- [古明地恋](./古明地恋.md)
 
 
 ---

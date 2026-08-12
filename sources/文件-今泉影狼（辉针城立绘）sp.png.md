@@ -1,12 +1,8 @@
 # 文件:今泉影狼（辉针城立绘）sp.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ef\ns6%3A%E4%BB%8A%E6%B3%89%E5%BD%B1%E7%8B%BC%EF%BC%88%E8%BE%89%E9%92%88%E5%9F%8E%E7%AB%8B%E7%BB%98%EF%BC%89sp%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ef\ns6%3A%E4%BB%8A%E6%B3%89%E5%BD%B1%E7%8B%BC%EF%BC%88%E8%BE%89%E9%92%88%E5%9F%8E%E7%AB%8B%E7%BB%98%EF%BC%89sp%2Epng.html -->
 
 ZUN绘 | 东方辉针城 | 今泉影狼 | 官方游戏立绘
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Respect_for_IOSYS封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d2\ns6%3ARespect_for_IOSYS%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d2\ns6%3ARespect_for_IOSYS%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 テレピン1000ml | 封面图片 | 软件封面
 
@@ -10,11 +10,13 @@
 使用了本文件作封面图片的作品：
   
 
-- [Respect for IOSYS](./Respect_for_IOSYS.md)  
-该封面包含的角色：- [露米娅](./露米娅.md)- [琪露诺](./琪露诺.md)- [大妖精](./大妖精.md)- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)- 十六夜咲夜 (未找到链接)- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
-
-
-
+- [Respect for IOSYS](./Respect_for_IOSYS.md)该封面包含的角色：
+- [露米娅](./露米娅.md)
+- [琪露诺](./琪露诺.md)
+- [大妖精](./大妖精.md)
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
+- [十六夜咲夜](./十六夜咲夜.md)
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
 
 ---

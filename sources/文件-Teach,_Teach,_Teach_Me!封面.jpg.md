@@ -1,6 +1,6 @@
 # 文件:Teach,_Teach,_Teach_Me!封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\79\ns6%3ATeach%2C_Teach%2C_Teach_Me%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\79\ns6%3ATeach%2C_Teach%2C_Teach_Me%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 暁Records
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Teach, Teach, Teach Me!](./Teach,_Teach,_Teach_Me!.md)  
-该封面包含的角色：- [上白泽慧音](./上白泽慧音.md)
+- [Teach, Teach, Teach Me!](./Teach,_Teach,_Teach_Me!.md)该封面包含的角色：
+- [上白泽慧音](./上白泽慧音.md)
 
   
-源地址：[[1]](http://akatsuki-records.com/drcd0029.html)
-  
-
-
-
-
+源地址：[\[1\]](http://akatsuki-records.com/drcd0029.html)  
 
 ---
 

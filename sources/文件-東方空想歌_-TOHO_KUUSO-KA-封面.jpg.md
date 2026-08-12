@@ -1,6 +1,6 @@
 # 文件:東方空想歌_-TOHO_KUUSO-KA-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f0\ns6%3A%E6%9D%B1%E6%96%B9%E7%A9%BA%E6%83%B3%E6%AD%8C_-TOHO_KUUSO-KA-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f0\ns6%3A%E6%9D%B1%E6%96%B9%E7%A9%BA%E6%83%B3%E6%AD%8C_-TOHO_KUUSO-KA-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Kraster | 专辑封面 | 封面图片
 
@@ -8,11 +8,10 @@ Kraster | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方空想歌 -TOHO KUUSO-KA-](./東方空想歌_-TOHO_KUUSO-KA-.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [东风谷早苗](./东风谷早苗.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [東方空想歌 -TOHO KUUSO-KA-](./東方空想歌_-TOHO_KUUSO-KA-.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [东风谷早苗](./东风谷早苗.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

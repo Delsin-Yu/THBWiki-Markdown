@@ -1,6 +1,6 @@
 # 文件:Baroque_Stroke_～東方クラシックス2～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4d\ns6%3ABaroque_Stroke_%EF%BD%9E%E6%9D%B1%E6%96%B9%E3%82%AF%E3%83%A9%E3%82%B7%E3%83%83%E3%82%AF%E3%82%B92%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4d\ns6%3ABaroque_Stroke_%EF%BD%9E%E6%9D%B1%E6%96%B9%E3%82%AF%E3%83%A9%E3%82%B7%E3%83%83%E3%82%AF%E3%82%B92%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 TATAMI_STUGIWO | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ TATAMI_STUGIWO | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Baroque Stroke ～東方クラシックス2～](./Baroque_Stroke_～東方クラシックス2～.md)  
-该封面包含的角色：- [梅蒂欣·梅兰可莉](./梅蒂欣·梅兰可莉.md)
-
-
-
+- [Baroque Stroke ～東方クラシックス2～](./Baroque_Stroke_～東方クラシックス2～.md)该封面包含的角色：
+- [梅蒂欣·梅兰可莉](./梅蒂欣·梅兰可莉.md)
 
 
 ---

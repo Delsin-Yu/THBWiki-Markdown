@@ -1,6 +1,6 @@
 # 文件:Dies_irae_~Acta_est_Fabura~_E.P.封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\65\ns6%3ADies_irae_%7EActa_est_Fabura%7E_E%2EP%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\65\ns6%3ADies_irae_%7EActa_est_Fabura%7E_E%2EP%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Remember_memories. | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Remember_memories. | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Dies irae ~Acta est Fabura~ E.P.](./Dies_irae_~Acta_est_Fabura~_E.P..md)  
-该封面包含的角色：- [西行寺幽幽子](./西行寺幽幽子.md)
+- [Dies irae ~Acta est Fabura~ E.P.](./Dies_irae_~Acta_est_Fabura~_E.P..md)该封面包含的角色：
+- [西行寺幽幽子](./西行寺幽幽子.md)
 
   
-源地址：[[1]](http://static.tumblr.com/f16f2c12f380a8243b2b7ecfd4a8de1f/imht57o/32Zna7etp/tumblr_static_89iv1wny3ukg88ow0ococsooc.png)
-  
-
-
-
-
+源地址：[\[1\]](http://static.tumblr.com/f16f2c12f380a8243b2b7ecfd4a8de1f/imht57o/32Zna7etp/tumblr_static_89iv1wny3ukg88ow0ococsooc.png)  
 
 ---
 

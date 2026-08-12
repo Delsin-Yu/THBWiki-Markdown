@@ -1,12 +1,8 @@
 # 文件:Liz_triangle_banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bc\ns6%3ALiz_triangle_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bc\ns6%3ALiz_triangle_banner%2Ejpg.html -->
 
 Liz_Triangle | 社团LOGO
-
-
-
-
 
 
 ---

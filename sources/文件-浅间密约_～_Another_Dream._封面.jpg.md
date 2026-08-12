@@ -1,6 +1,6 @@
 # 文件:浅间密约_～_Another_Dream._封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d0\ns6%3A%E6%B5%85%E9%97%B4%E5%AF%86%E7%BA%A6_%EF%BD%9E_Another_Dream%2E_%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d0\ns6%3A%E6%B5%85%E9%97%B4%E5%AF%86%E7%BA%A6_%EF%BD%9E_Another_Dream%2E_%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 东方祈华梦制作组 | 封面图片
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [浅间密约 ～ Another Dream.](./浅间密约_～_Another_Dream..md)  
-该封面包含的角色：- [樱华院静](./樱华院静.md)- [岩渊永](./岩渊永.md)
-
-
-
+- [浅间密约 ～ Another Dream.](./浅间密约_～_Another_Dream..md)该封面包含的角色：
+- [樱华院静](./樱华院静.md)
+- [岩渊永](./岩渊永.md)
 
 
 ---

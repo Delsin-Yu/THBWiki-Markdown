@@ -1,12 +1,8 @@
 # 文件:眼光「Hell's_Ray」（天邪鬼）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\47\ns6%3A%E7%9C%BC%E5%85%89%E3%80%8CHell%27s_Ray%E3%80%8D%EF%BC%88%E5%A4%A9%E9%82%AA%E9%AC%BC%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\47\ns6%3A%E7%9C%BC%E5%85%89%E3%80%8CHell%27s_Ray%E3%80%8D%EF%BC%88%E5%A4%A9%E9%82%AA%E9%AC%BC%EF%BC%89%2Ejpg.html -->
 
 弹幕天邪鬼 | 敌机符卡 | 赤蛮奇
-
-
-
-
 
 
 ---

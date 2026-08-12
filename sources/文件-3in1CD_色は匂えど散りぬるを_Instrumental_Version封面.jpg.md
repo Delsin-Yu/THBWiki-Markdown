@@ -1,6 +1,6 @@
 # 文件:3in1CD_色は匂えど散りぬるを_Instrumental_Version封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b4\ns6%3A3in1CD_%E8%89%B2%E3%81%AF%E5%8C%82%E3%81%88%E3%81%A9%E6%95%A3%E3%82%8A%E3%81%AC%E3%82%8B%E3%82%92_Instrumental_Version%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b4\ns6%3A3in1CD_%E8%89%B2%E3%81%AF%E5%8C%82%E3%81%88%E3%81%A9%E6%95%A3%E3%82%8A%E3%81%AC%E3%82%8B%E3%82%92_Instrumental_Version%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 幽闭星光
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [3in1CD 色は匂えど散りぬるを Instrumental Version](./3in1CD_色は匂えど散りぬるを_Instrumental_Version.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [3in1CD 色は匂えど散りぬるを Instrumental Version](./3in1CD_色は匂えど散りぬるを_Instrumental_Version.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

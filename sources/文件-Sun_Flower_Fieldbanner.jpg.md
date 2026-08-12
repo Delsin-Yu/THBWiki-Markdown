@@ -1,12 +1,8 @@
 # 文件:Sun_Flower_Fieldbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3b\ns6%3ASun_Flower_Fieldbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3b\ns6%3ASun_Flower_Fieldbanner%2Ejpg.html -->
 
 Sun_Flower_Field | 社团LOGO
-
-
-
-
 
 
 ---

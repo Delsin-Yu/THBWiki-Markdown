@@ -1,6 +1,6 @@
 # 文件:东方混音传_~_Note_Phantasm_of_Reality封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9f\ns6%3A%E4%B8%9C%E6%96%B9%E6%B7%B7%E9%9F%B3%E4%BC%A0_%7E_Note_Phantasm_of_Reality%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9f\ns6%3A%E4%B8%9C%E6%96%B9%E6%B7%B7%E9%9F%B3%E4%BC%A0_%7E_Note_Phantasm_of_Reality%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Kailang | 封面图片 | 软件封面
 
@@ -11,9 +11,6 @@ Kailang | 封面图片 | 软件封面
   
 
 - [东方混音传 ~ Note Phantasm of Reality](./东方混音传_~_Note_Phantasm_of_Reality.md)
-
-
-
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:LemonMaidenbanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\36\ns6%3ALemonMaidenbanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\36\ns6%3ALemonMaidenbanner%2Egif.html -->
 
 LemonMaiden | 社团LOGO
-
-
-
-
 
 
 ---

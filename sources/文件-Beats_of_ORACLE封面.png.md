@@ -1,6 +1,6 @@
 # 文件:Beats_of_ORACLE封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6f\ns6%3ABeats_of_ORACLE%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6f\ns6%3ABeats_of_ORACLE%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Sound_Square | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Sound_Square | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Beats of ORACLE](./Beats_of_ORACLE.md)  
-该封面包含的角色：- [寅丸星](./寅丸星.md)
+- [Beats of ORACLE](./Beats_of_ORACLE.md)该封面包含的角色：
+- [寅丸星](./寅丸星.md)
 
   
-源地址：[[1]](http://blog-imgs-60.fc2.com/s/o/u/soundsquare/BoO_500.png)
-  
-
-
-
-
+源地址：[\[1\]](http://blog-imgs-60.fc2.com/s/o/u/soundsquare/BoO_500.png)  
 
 ---
 

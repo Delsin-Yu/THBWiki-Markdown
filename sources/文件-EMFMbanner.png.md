@@ -1,14 +1,11 @@
 # 文件:EMFMbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fe\ns6%3AEMFMbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fe\ns6%3AEMFMbanner%2Epng.html -->
 
 EMFM | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

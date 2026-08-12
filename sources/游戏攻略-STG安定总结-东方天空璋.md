@@ -1,6 +1,6 @@
 # 游戏攻略/STG安定总结/东方天空璋
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\d\da\ns0%3A%E6%B8%B8%E6%88%8F%E6%94%BB%E7%95%A5%2FSTG%E5%AE%89%E5%AE%9A%E6%80%BB%E7%BB%93%2F%E4%B8%9C%E6%96%B9%E5%A4%A9%E7%A9%BA%E7%92%8B.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\d\da\ns0%3A%E6%B8%B8%E6%88%8F%E6%94%BB%E7%95%A5%2FSTG%E5%AE%89%E5%AE%9A%E6%80%BB%E7%BB%93%2F%E4%B8%9C%E6%96%B9%E5%A4%A9%E7%A9%BA%E7%92%8B.html -->
 
 
 
@@ -31,10 +31,6 @@
 </td>
 </tr>
 </tbody></table>
-
-
-
-
 
 
 ---

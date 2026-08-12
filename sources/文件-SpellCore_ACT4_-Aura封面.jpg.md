@@ -1,6 +1,6 @@
 # 文件:SpellCore_ACT4_-Aura封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\69\ns6%3ASpellCore_ACT4_-Aura%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\69\ns6%3ASpellCore_ACT4_-Aura%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 荒御灵
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [SpellCore ACT4 -Aura](./SpellCore_ACT4_-Aura.md)  
-该封面包含的角色：- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)
-
-
-
+- [SpellCore ACT4 -Aura](./SpellCore_ACT4_-Aura.md)该封面包含的角色：
+- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)
 
 
 ---

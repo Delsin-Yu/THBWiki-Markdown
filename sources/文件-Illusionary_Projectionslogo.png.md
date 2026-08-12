@@ -1,18 +1,13 @@
 # 文件:Illusionary_Projectionslogo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\76\ns6%3AIllusionary_Projectionslogo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\76\ns6%3AIllusionary_Projectionslogo%2Epng.html -->
 
 Illusionary_Projections | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[circle Facebook logo (original size)](https://www.facebook.com/241530140304284/photos/a.241530186970946/241530536970911/?type=1&amp;theater)
-  
-
-
-
-
+源地址：[circle Facebook logo (original size)](https://www.facebook.com/241530140304284/photos/a.241530186970946/241530536970911/?type=1&theater)  
 
 ---
 

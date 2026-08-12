@@ -1,6 +1,6 @@
 # 文件:Seated_With_Liquor封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bc\ns6%3ASeated_With_Liquor%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bc\ns6%3ASeated_With_Liquor%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Draw_the_Emotional | Foreground_Eclipse | 专辑封面 | 封面图片
 
@@ -8,19 +8,14 @@ Draw_the_Emotional | Foreground_Eclipse | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Seated With Liquor](./Seated_With_Liquor.md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)
+- [Seated With Liquor](./Seated_With_Liquor.md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
 
   
-源地址：don't know&#160;:( I have it saved on my computer back in 2015
+源地址：don't know :( I have it saved on my computer back in 2015
   
   
-Previous textless version of the cover can be found at [Pixiv artwork ID: 32257664](https://www.pixiv.net/artworks/32257664)
-  
-
-
-
-
+Previous textless version of the cover can be found at [Pixiv artwork ID: 32257664](https://www.pixiv.net/artworks/32257664)  
 
 ---
 

@@ -1,18 +1,13 @@
 # 文件:Blau_tealogo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9a\ns6%3ABlau_tealogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9a\ns6%3ABlau_tealogo%2Ejpg.html -->
 
 Blau_tea | 社团LOGO
 
 
 ## 摘要
   
-源地址：[direct image link](https://vocadb.net/Artist/Picture/13460?v=6), [source page (VocaDB Artist ID: 13460)](https://vocadb.net/Ar/13460)
-  
-
-
-
-
+源地址：[direct image link](https://vocadb.net/Artist/Picture/13460?v=6), [source page (VocaDB Artist ID: 13460)](https://vocadb.net/Ar/13460)  
 
 ---
 

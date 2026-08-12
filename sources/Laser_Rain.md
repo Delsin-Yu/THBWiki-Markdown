@@ -1,12 +1,11 @@
 # Laser_Rain
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\b7\ns0%3ALaser_Rain.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\b7\ns0%3ALaser_Rain.html -->
 
 凤联薮雨 | 含有受损文件链接的页面 | 连缘Project官方符牌
 
-本页是关于 **向[东方Project](./东方Project.md)  
-致敬、形式类似的作品** 的词条
-
+本页是关于**向[东方Project](./东方Project.md)致敬、形式类似的作品**  
+的词条
 <table>
 
 <tbody><tr>
@@ -23,23 +22,15 @@
 </td></tr></tbody></table>
 
 
-
 ## 目录
 
 - [1 登场](#登场)
-
   - [1.1 连缘无现里](#连缘无现里)
   - [1.2 连缘天影战记](#连缘天影战记)
 
 
-
 - [2 其他内容](#其他内容)
-
   - [2.1 分析与考据](#分析与考据)
-
-
-
-
 
 
 
@@ -51,7 +42,7 @@
 <table>
 
 <tbody><tr>
-<td><div class="thumb tleft"><div class="thumbinner" style="width:182px;"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E5%85%89%E7%89%8C%E3%80%8CLaser_Rain%E3%80%8D.jpg" class="new" title="文件:光牌「Laser Rain」.jpg">文件:光牌「Laser Rain」.jpg</a>  <div class="thumbcaption">光牌「Laser Rain」</div></div></div>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:182px;"><a class="new" title="文件:光牌「Laser Rain」.jpg">文件:光牌「Laser Rain」.jpg</a>  <div class="thumbcaption">光牌「Laser Rain」</div></div></div>
 </td>
 <td>
 <p>3面道中BOSS凤联薮雨Easy / Normal难度符牌。
@@ -59,17 +50,10 @@
 </td></tr></tbody></table>
 
 
-
-  
-  
-
-  
-
-
 <table>
 
 <tbody><tr>
-<td><div class="thumb tleft"><div class="thumbinner" style="width:182px;"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E5%85%89%E7%89%8C%E3%80%8CLaser_Grid%E3%80%8D.jpg" class="new" title="文件:光牌「Laser Grid」.jpg">文件:光牌「Laser Grid」.jpg</a>  <div class="thumbcaption">光牌「Laser Grid」</div></div></div>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:182px;"><a class="new" title="文件:光牌「Laser Grid」.jpg">文件:光牌「Laser Grid」.jpg</a>  <div class="thumbcaption">光牌「Laser Grid」</div></div></div>
 </td>
 <td>
 <p>3面道中BOSS凤联薮雨Hard / Unreal难度符牌。
@@ -77,14 +61,12 @@
 </td></tr></tbody></table>
 
 
-
-
 ### 连缘天影战记
 
 <table>
 
 <tbody><tr>
-<td><div class="thumb tleft"><div class="thumbinner" style="width:182px;"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E5%85%89%E7%89%8C%E3%80%8CLaser_Rain%E3%80%8D.jpg" class="new" title="文件:光牌「Laser Rain」.jpg">文件:光牌「Laser Rain」.jpg</a>  <div class="thumbcaption">光牌「Laser Rain」</div></div></div>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:182px;"><a class="new" title="文件:光牌「Laser Rain」.jpg">文件:光牌「Laser Rain」.jpg</a>  <div class="thumbcaption">光牌「Laser Rain」</div></div></div>
 </td>
 <td>
 <p>6面BOSS凤联薮雨Easy / Normal难度符牌。
@@ -92,17 +74,10 @@
 </td></tr></tbody></table>
 
 
-
-  
-  
-
-  
-
-
 <table>
 
 <tbody><tr>
-<td><div class="thumb tleft"><div class="thumbinner" style="width:182px;"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E5%85%89%E7%89%8C%E3%80%8CLaser_Grid%E3%80%8D.jpg" class="new" title="文件:光牌「Laser Grid」.jpg">文件:光牌「Laser Grid」.jpg</a>  <div class="thumbcaption">光牌「Laser Grid」</div></div></div>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:182px;"><a class="new" title="文件:光牌「Laser Grid」.jpg">文件:光牌「Laser Grid」.jpg</a>  <div class="thumbcaption">光牌「Laser Grid」</div></div></div>
 </td>
 <td>
 <p>6面BOSS凤联薮雨Hard / Unreal难度符牌。
@@ -110,14 +85,9 @@
 </td></tr></tbody></table>
 
 
-
-
 ## 其他内容
 
 ### 分析与考据
-
-
-
 
 ---
 

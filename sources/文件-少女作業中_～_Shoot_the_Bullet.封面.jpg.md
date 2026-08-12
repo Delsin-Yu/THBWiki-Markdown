@@ -1,6 +1,6 @@
 # 文件:少女作業中_～_Shoot_the_Bullet.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e5\ns6%3A%E5%B0%91%E5%A5%B3%E4%BD%9C%E6%A5%AD%E4%B8%AD_%EF%BD%9E_Shoot_the_Bullet%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e5\ns6%3A%E5%B0%91%E5%A5%B3%E4%BD%9C%E6%A5%AD%E4%B8%AD_%EF%BD%9E_Shoot_the_Bullet%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 mondorium | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ mondorium | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [少女作業中 ～ Shoot the Bullet.](./少女作業中_～_Shoot_the_Bullet..md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)
-
-
-
+- [少女作業中 ～ Shoot the Bullet.](./少女作業中_～_Shoot_the_Bullet..md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
 
 
 ---

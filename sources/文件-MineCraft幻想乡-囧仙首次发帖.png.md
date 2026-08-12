@@ -1,14 +1,11 @@
 # 文件:MineCraft幻想乡-囧仙首次发帖.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ef\ns6%3AMineCraft%E5%B9%BB%E6%83%B3%E4%B9%A1-%E5%9B%A7%E4%BB%99%E9%A6%96%E6%AC%A1%E5%8F%91%E5%B8%96%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ef\ns6%3AMineCraft%E5%B9%BB%E6%83%B3%E4%B9%A1-%E5%9B%A7%E4%BB%99%E9%A6%96%E6%AC%A1%E5%8F%91%E5%B8%96%2Epng.html -->
 
 MineCraft幻想乡
 
 
 ## 文件说明
-
-
-
 
 ---
 

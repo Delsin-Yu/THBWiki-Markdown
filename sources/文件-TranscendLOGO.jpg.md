@@ -1,16 +1,12 @@
 # 文件:TranscendLOGO.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7a\ns6%3ATranscendLOGO%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7a\ns6%3ATranscendLOGO%2Ejpg.html -->
 
 Transcendental_Etudes | 社团LOGO
 
   
 TranscendLOGO
   
-
-
-
-
 
 ---
 

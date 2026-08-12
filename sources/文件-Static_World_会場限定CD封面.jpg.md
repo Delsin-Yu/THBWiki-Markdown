@@ -1,6 +1,6 @@
 # 文件:Static_World_会場限定CD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\42\ns6%3AStatic_World_%E4%BC%9A%E5%A0%B4%E9%99%90%E5%AE%9ACD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\42\ns6%3AStatic_World_%E4%BC%9A%E5%A0%B4%E9%99%90%E5%AE%9ACD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Static_World | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Static_World | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Static World 会場限定CD](./Static_World_会場限定CD.md)  
-该封面包含的角色：- [多多良小伞](./多多良小伞.md)
-
-
-
+- [Static World 会場限定CD](./Static_World_会場限定CD.md)该封面包含的角色：
+- [多多良小伞](./多多良小伞.md)
 
 
 ---

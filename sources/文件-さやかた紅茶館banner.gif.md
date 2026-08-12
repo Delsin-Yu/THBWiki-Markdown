@@ -1,12 +1,8 @@
 # 文件:さやかた紅茶館banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\31\ns6%3A%E3%81%95%E3%82%84%E3%81%8B%E3%81%9F%E7%B4%85%E8%8C%B6%E9%A4%A8banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\31\ns6%3A%E3%81%95%E3%82%84%E3%81%8B%E3%81%9F%E7%B4%85%E8%8C%B6%E9%A4%A8banner%2Egif.html -->
 
 さやかた紅茶館 | 社团LOGO
-
-
-
-
 
 
 ---

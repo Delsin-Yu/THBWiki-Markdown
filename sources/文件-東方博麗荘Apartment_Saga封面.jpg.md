@@ -1,6 +1,6 @@
 # 文件:東方博麗荘Apartment_Saga封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\84\ns6%3A%E6%9D%B1%E6%96%B9%E5%8D%9A%E9%BA%97%E8%8D%98Apartment_Saga%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\84\ns6%3A%E6%9D%B1%E6%96%B9%E5%8D%9A%E9%BA%97%E8%8D%98Apartment_Saga%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 封面图片 | 弐維鏡像 | 视频封面
 
@@ -9,9 +9,6 @@
   
 
 - [東方博麗荘Apartment Saga](./東方博麗荘Apartment_Saga.md)
-
-
-
 
 
 ---

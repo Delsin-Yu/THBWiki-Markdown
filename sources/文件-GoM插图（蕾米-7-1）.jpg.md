@@ -1,12 +1,8 @@
 # 文件:GoM插图（蕾米-7-1）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\31\ns6%3AGoM%E6%8F%92%E5%9B%BE%EF%BC%88%E8%95%BE%E7%B1%B3-7-1%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\31\ns6%3AGoM%E6%8F%92%E5%9B%BE%EF%BC%88%E8%95%BE%E7%B1%B3-7-1%EF%BC%89%2Ejpg.html -->
 
 蕾米莉亚·斯卡蕾特 | 魔理沙的魔法书
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:EUROBAKA_ICHIDAI_DUB-MIX_COLLECTION_VOL.6封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4b\ns6%3AEUROBAKA_ICHIDAI_DUB-MIX_COLLECTION_VOL%2E6%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4b\ns6%3AEUROBAKA_ICHIDAI_DUB-MIX_COLLECTION_VOL%2E6%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Eurobeat_Union | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ Eurobeat_Union | 专辑封面 | 封面图片
   
 
 - [EUROBAKA ICHIDAI DUB-MIX COLLECTION VOL.6](./EUROBAKA_ICHIDAI_DUB-MIX_COLLECTION_VOL.6.md)
-
-
-
 
 
 ---

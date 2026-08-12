@@ -1,12 +1,8 @@
 # 文件:THBWiki-LOGO-古明地恋.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8f\ns6%3ATHBWiki-LOGO-%E5%8F%A4%E6%98%8E%E5%9C%B0%E6%81%8B%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8f\ns6%3ATHBWiki-LOGO-%E5%8F%A4%E6%98%8E%E5%9C%B0%E6%81%8B%2Epng.html -->
 
 THBWiki | Wiki词条分类用图
-
-
-
-
 
 
 ---

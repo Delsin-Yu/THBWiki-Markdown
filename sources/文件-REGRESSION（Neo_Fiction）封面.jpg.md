@@ -1,6 +1,6 @@
 # 文件:REGRESSION（Neo_Fiction）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\13\ns6%3AREGRESSION%EF%BC%88Neo_Fiction%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\13\ns6%3AREGRESSION%EF%BC%88Neo_Fiction%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Neo_Fiction | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Neo_Fiction | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [REGRESSION（Neo Fiction）](./REGRESSION（Neo_Fiction）.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)
+- [REGRESSION（Neo Fiction）](./REGRESSION（Neo_Fiction）.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
 
   
-源地址：[[1]](http://static.tumblr.com/aed40d03104934f98c84106436868347/as6jjuh/PVynvc9ut/tumblr_static_8rk3h5bkvqckg0kgksws8c8g4.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://static.tumblr.com/aed40d03104934f98c84106436868347/as6jjuh/PVynvc9ut/tumblr_static_8rk3h5bkvqckg0kgksws8c8g4.jpg)  
 
 ---
 

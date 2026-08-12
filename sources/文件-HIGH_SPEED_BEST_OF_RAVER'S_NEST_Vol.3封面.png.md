@@ -1,6 +1,6 @@
 # 文件:HIGH_SPEED_BEST_OF_RAVER'S_NEST_Vol.3封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\42\ns6%3AHIGH_SPEED_BEST_OF_RAVER%27S_NEST_Vol%2E3%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\42\ns6%3AHIGH_SPEED_BEST_OF_RAVER%27S_NEST_Vol%2E3%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 DiGiTAL_WiNG | 专辑封面 | 封面图片
 
@@ -10,11 +10,9 @@ DiGiTAL_WiNG | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [HIGH SPEED BEST OF RAVER'S NEST Vol.3](./HIGH_SPEED_BEST_OF_RAVER'S_NEST_Vol.3.md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)- [西行寺幽幽子](./西行寺幽幽子.md)
-
-
-
+- [HIGH SPEED BEST OF RAVER'S NEST Vol.3](./HIGH_SPEED_BEST_OF_RAVER'S_NEST_Vol.3.md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
+- [西行寺幽幽子](./西行寺幽幽子.md)
 
 
 ---

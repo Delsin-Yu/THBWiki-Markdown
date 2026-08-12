@@ -1,16 +1,12 @@
 # 模板:DP
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\a\a8\ns10%3ADP.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\a\a8\ns10%3ADP.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

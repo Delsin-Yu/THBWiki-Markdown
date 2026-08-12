@@ -1,6 +1,6 @@
 # 文件:Sins_of_the_Fossil_World封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3d\ns6%3ASins_of_the_Fossil_World%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3d\ns6%3ASins_of_the_Fossil_World%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Yumi_Sakata | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Yumi_Sakata | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Sins of the Fossil World](./Sins_of_the_Fossil_World.md)  
-该封面包含的角色：- [饕餮尤魔](./饕餮尤魔.md)
-
-
-
+- [Sins of the Fossil World](./Sins_of_the_Fossil_World.md)该封面包含的角色：
+- [饕餮尤魔](./饕餮尤魔.md)
 
 
 ---

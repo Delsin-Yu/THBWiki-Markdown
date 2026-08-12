@@ -1,6 +1,6 @@
 # 文件:秘封萃奏樂_～_mysterious_sounds封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cd\ns6%3A%E7%A7%98%E5%B0%81%E8%90%83%E5%A5%8F%E6%A8%82_%EF%BD%9E_mysterious_sounds%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cd\ns6%3A%E7%A7%98%E5%B0%81%E8%90%83%E5%A5%8F%E6%A8%82_%EF%BD%9E_mysterious_sounds%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 時雨月横丁
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [秘封萃奏樂 ～ mysterious sounds](./秘封萃奏樂_～_mysterious_sounds.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [秘封萃奏樂 ～ mysterious sounds](./秘封萃奏樂_～_mysterious_sounds.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

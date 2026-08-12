@@ -1,6 +1,6 @@
 # 文件:TAGIRUZE!封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e9\ns6%3ATAGIRUZE%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e9\ns6%3ATAGIRUZE%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ②号トピック | 同人志封面 | 封面图片
 
@@ -10,16 +10,20 @@
 使用了本文件作封面图片的作品：
   
 
-- [TAGIRUZE!](./TAGIRUZE!.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [橙](./橙.md)- [八云紫](./八云紫.md)- [射命丸文](./射命丸文.md)- [秋静叶](./秋静叶.md)- [秋穰子](./秋穰子.md)- [雾雨魔理沙](./雾雨魔理沙.md)- 博丽灵梦油库里 (未找到链接)- 雾雨魔理沙油库里 (未找到链接)
+- [TAGIRUZE!](./TAGIRUZE!.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [橙](./橙.md)
+- [八云紫](./八云紫.md)
+- [射命丸文](./射命丸文.md)
+- [秋静叶](./秋静叶.md)
+- [秋穰子](./秋穰子.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
+- [博丽灵梦油库里](./馒馒来.md#博丽灵梦)
+- [雾雨魔理沙油库里](./馒馒来.md#雾雨魔理沙)
 
   
-[Pixiv artwork ID: 32107618 (original size)](https://www.pixiv.net/artworks/32107618)
-  
-
-
-
-
+[Pixiv artwork ID: 32107618 (original size)](https://www.pixiv.net/artworks/32107618)  
 
 ---
 

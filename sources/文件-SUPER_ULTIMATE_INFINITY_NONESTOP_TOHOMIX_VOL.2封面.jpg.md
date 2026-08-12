@@ -1,6 +1,6 @@
 # 文件:SUPER_ULTIMATE_INFINITY_NONESTOP_TOHOMIX_VOL.2封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f9\ns6%3ASUPER_ULTIMATE_INFINITY_NONESTOP_TOHOMIX_VOL%2E2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f9\ns6%3ASUPER_ULTIMATE_INFINITY_NONESTOP_TOHOMIX_VOL%2E2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 SUPER_NOVA | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ SUPER_NOVA | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [SUPER ULTIMATE INFINITY NONESTOP TOHOMIX VOL.2](./SUPER_ULTIMATE_INFINITY_NONESTOP_TOHOMIX_VOL.2.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)
-
-
-
+- [SUPER ULTIMATE INFINITY NONESTOP TOHOMIX VOL.2](./SUPER_ULTIMATE_INFINITY_NONESTOP_TOHOMIX_VOL.2.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
 
 
 ---

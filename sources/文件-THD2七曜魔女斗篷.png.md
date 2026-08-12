@@ -1,12 +1,8 @@
 # 文件:THD2七曜魔女斗篷.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a9\ns6%3ATHD2%E4%B8%83%E6%9B%9C%E9%AD%94%E5%A5%B3%E6%96%97%E7%AF%B7%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a9\ns6%3ATHD2%E4%B8%83%E6%9B%9C%E9%AD%94%E5%A5%B3%E6%96%97%E7%AF%B7%2Epng.html -->
 
 AvalonStudioOfficial
-
-
-
-
 
 
 ---

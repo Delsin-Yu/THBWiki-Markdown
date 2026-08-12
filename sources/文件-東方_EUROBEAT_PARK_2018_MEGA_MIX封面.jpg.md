@@ -1,6 +1,6 @@
 # 文件:東方_EUROBEAT_PARK_2018_MEGA_MIX封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8c\ns6%3A%E6%9D%B1%E6%96%B9_EUROBEAT_PARK_2018_MEGA_MIX%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8c\ns6%3A%E6%9D%B1%E6%96%B9_EUROBEAT_PARK_2018_MEGA_MIX%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 TTL_SOUND | 专辑封面 | 封面图片
 
@@ -11,12 +11,7 @@ TTL_SOUND | 专辑封面 | 封面图片
 - [東方 EUROBEAT PARK 2018 MEGA MIX](./東方_EUROBEAT_PARK_2018_MEGA_MIX.md)
 
   
-源地址：[[1]](https://booth.pm/ja/items/887962)
-  
-
-
-
-
+源地址：[\[1\]](https://booth.pm/ja/items/887962)  
 
 ---
 

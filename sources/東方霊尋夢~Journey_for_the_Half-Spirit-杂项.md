@@ -1,11 +1,10 @@
 # 東方霊尋夢~Journey_for_the_Half-Spirit/杂项
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\22\ns0%3A%E6%9D%B1%E6%96%B9%E9%9C%8A%E5%B0%8B%E5%A4%A2%7EJourney_for_the_Half-Spirit%2F%E6%9D%82%E9%A1%B9.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\22\ns0%3A%E6%9D%B1%E6%96%B9%E9%9C%8A%E5%B0%8B%E5%A4%A2%7EJourney_for_the_Half-Spirit%2F%E6%9D%82%E9%A1%B9.html -->
 
 待完成页面 | 菜酱
 
 <center>
-
 <table>
 <tbody><tr>
 <td class="mbox-image"><div style="width: 52px;">
@@ -14,20 +13,13 @@
 </tr>
 </tbody></table>
 
-
 </center>
-
 ## 目录
 
 - [1 敌机能力设定及评级](#敌机能力设定及评级)
-- [2 素材&amp;Neta来源](#素材&amp;Neta来源)
-
+- [2 素材&Neta来源](#素材&Neta来源)
   - [2.1 Neta源](#Neta源)
   - [2.2 音乐](#音乐)
-
-
-
-
 
 
 
@@ -80,10 +72,10 @@
 </td></tr></tbody></table>
 
 
-
-## 素材&amp;Neta来源
+## 素材&Neta来源
 
 ### Neta源
+
 - 这样的东方才不要呢
 - Danmaku Death
 - 斑鸠 Ikagura
@@ -93,7 +85,6 @@
   
 …
   
-
 
 ### 音乐
 
@@ -105,10 +96,6 @@
 <tr><td class="infoYD"><b>05</b></td><td colspan="2" class="title"><a href="./少女幻葬_～_Necro-Fantasy.md" title="少女幻葬 ～ Necro-Fantasy">少女幻葬　～ Necro-Fantasy</a></td><td class="time"></td></tr><tr><td class="left"></td><td colspan="3" class="bigtext"><a href="./少女幻葬_～_Necro-Fantasy.md" title="少女幻葬 ～ Necro-Fantasy">少女幻葬　～ Necro-Fantasy</a></td></tr><tr><td class="left"></td><td class="label">来源</td><td class="text" colspan="2"><a href="./东方妖妖梦.md" title="东方妖妖梦" unred="">东方妖妖梦　～ Perfect Cherry Blossom.</a></td></tr>
 <tr><td class="infoYD"><b>06</b></td><td colspan="2" class="title"><a href="./信仰是为了虚幻之人.md" title="信仰是为了虚幻之人">信仰是为了虚幻之人</a></td><td class="time"></td></tr><tr><td class="left"></td><td colspan="3" class="bigtext"><a href="./信仰是为了虚幻之人.md" title="信仰是为了虚幻之人" unred="">信仰は儚き人間の為に</a></td></tr><tr><td class="left"></td><td class="label">来源</td><td class="text" colspan="2"><a href="./东方风神录.md" title="东方风神录" unred="">东方风神录　～ Mountain of Faith.</a></td></tr>
 <tr><td class="infoYD"><b>07</b></td><td colspan="2" class="title"><a href="./Desire_Drive.md" title="Desire Drive">Desire Drive</a></td><td class="time"></td></tr><tr><td class="left"></td><td colspan="3" class="bigtext"><a href="./Desire_Drive.md" title="Desire Drive" unred="">デザイアドライブ</a></td></tr><tr><td class="left"></td><td class="label">来源</td><td class="text" colspan="2"><a href="./东方神灵庙.md" title="东方神灵庙" unred="">东方神灵庙　～ Ten Desires.</a></td></tr></tbody></table>
-
-
-
-
 
 
 ---

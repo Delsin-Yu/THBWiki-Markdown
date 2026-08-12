@@ -1,6 +1,6 @@
 # 文件:Dear_Marisa（みかん箱）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\74\ns6%3ADear_Marisa%EF%BC%88%E3%81%BF%E3%81%8B%E3%82%93%E7%AE%B1%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\74\ns6%3ADear_Marisa%EF%BC%88%E3%81%BF%E3%81%8B%E3%82%93%E7%AE%B1%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 みかん箱 | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@
   
 
 - [Dear Marisa（みかん箱）](./Dear_Marisa（みかん箱）.md)
-
-
-
 
 
 ---

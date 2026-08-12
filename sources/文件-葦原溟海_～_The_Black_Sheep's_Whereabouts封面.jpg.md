@@ -1,6 +1,6 @@
 # 文件:葦原溟海_～_The_Black_Sheep's_Whereabouts封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3e\ns6%3A%E8%91%A6%E5%8E%9F%E6%BA%9F%E6%B5%B7_%EF%BD%9E_The_Black_Sheep%27s_Whereabouts%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3e\ns6%3A%E8%91%A6%E5%8E%9F%E6%BA%9F%E6%B5%B7_%EF%BD%9E_The_Black_Sheep%27s_Whereabouts%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 東方幻柳都
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [葦原溟海 ～ The Black Sheep's Whereabouts](./葦原溟海_～_The_Black_Sheep's_Whereabouts.md)  
-该封面包含的角色：- 原创角色 (未找到链接)
-
-
-
+- [葦原溟海 ～ The Black Sheep's Whereabouts](./葦原溟海_～_The_Black_Sheep's_Whereabouts.md)该封面包含的角色：
+- 原创角色 (未找到链接)
 
 
 ---

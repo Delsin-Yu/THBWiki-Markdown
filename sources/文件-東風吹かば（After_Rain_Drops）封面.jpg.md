@@ -1,6 +1,6 @@
 # 文件:東風吹かば（After_Rain_Drops）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a8\ns6%3A%E6%9D%B1%E9%A2%A8%E5%90%B9%E3%81%8B%E3%81%B0%EF%BC%88After_Rain_Drops%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a8\ns6%3A%E6%9D%B1%E9%A2%A8%E5%90%B9%E3%81%8B%E3%81%B0%EF%BC%88After_Rain_Drops%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 After_Rain_Drops | 专辑封面 | 封面图片
 
@@ -10,11 +10,10 @@ After_Rain_Drops | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東風吹かば（After Rain Drops）](./東風吹かば（After_Rain_Drops）.md)  
-该封面包含的角色：- [东风谷早苗](./东风谷早苗.md)- [八坂神奈子](./八坂神奈子.md)- [洩矢诹访子](./洩矢诹访子.md)
-
-
-
+- [東風吹かば（After Rain Drops）](./東風吹かば（After_Rain_Drops）.md)该封面包含的角色：
+- [东风谷早苗](./东风谷早苗.md)
+- [八坂神奈子](./八坂神奈子.md)
+- [洩矢诹访子](./洩矢诹访子.md)
 
 
 ---

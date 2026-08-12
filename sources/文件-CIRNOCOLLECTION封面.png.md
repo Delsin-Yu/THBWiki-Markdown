@@ -1,6 +1,6 @@
 # 文件:CIRNOCOLLECTION封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4d\ns6%3ACIRNOCOLLECTION%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4d\ns6%3ACIRNOCOLLECTION%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 あおいろてんかい | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [CIRNOCOLLECTION](./CIRNOCOLLECTION.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)
+- [CIRNOCOLLECTION](./CIRNOCOLLECTION.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
 
   
-源地址：[direct image link (original size)](https://booth.pximg.net/fcc6101e-b208-469d-97cc-e0c9c92891a9/i/1614022/96c6660e-bc48-4540-929f-a4badf39721a.png), [source page (circle Booth)](https://mizune.booth.pm/items/1614022)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://booth.pximg.net/fcc6101e-b208-469d-97cc-e0c9c92891a9/i/1614022/96c6660e-bc48-4540-929f-a4badf39721a.png), [source page (circle Booth)](https://mizune.booth.pm/items/1614022)  
 
 ---
 

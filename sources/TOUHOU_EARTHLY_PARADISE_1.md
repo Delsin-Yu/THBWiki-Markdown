@@ -1,13 +1,11 @@
 # TOUHOU_EARTHLY_PARADISE_1
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\0d\ns0%3ATOUHOU_EARTHLY_PARADISE_1.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\0d\ns0%3ATOUHOU_EARTHLY_PARADISE_1.html -->
 
 2024年6月23日 由 乌有社  发布的画集同人志，A4尺寸一共44页，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人志 (未找到链接)** 的词条
-<center>
-
+**[二次创作同人志](./二次创作.md#同人志)**的词条<center>
 <table>
 <tbody><tr>
 <td class="mbox-image"><div style="width: 52px;">
@@ -16,9 +14,7 @@
 </tr>
 </tbody></table>
 
-
 </center>
-
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-TOUHOU_EARTHLY_PARADISE_1封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/e/ea/TOUHOU_EARTHLY_PARADISE_1%E5%B0%81%E9%9D%A2.jpg/142px-TOUHOU_EARTHLY_PARADISE_1%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="142" height="196" srcset="https://upload.thwiki.cc/thumb/e/ea/TOUHOU_EARTHLY_PARADISE_1%E5%B0%81%E9%9D%A2.jpg/213px-TOUHOU_EARTHLY_PARADISE_1%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/e/ea/TOUHOU_EARTHLY_PARADISE_1%E5%B0%81%E9%9D%A2.jpg/284px-TOUHOU_EARTHLY_PARADISE_1%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="620" data-file-height="856"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>，<a href="./九十九弁弁.md" title="九十九弁弁">九十九弁弁</a>，<a href="./九十九八桥.md" title="九十九八桥">九十九八桥</a>，<a href="./少名针妙丸.md" title="少名针妙丸">少名针妙丸</a></div></td>
@@ -27,19 +23,15 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://weibo.com/3188120510/IwkvD9bK1">https://weibo.com/3188120510/IwkvD9bK1</a></td></tr></tbody></table>
 
 TOUHOU EARTHLY PARADISE 1（同人志，乌有社，2020） - 2024年6月22日 由 乌有社  发布的画集同人志，A4尺寸一共44页，分级为 一般向
-
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://item.taobao.com/item.htm?id=613280599171">淘宝</a></td></tr></tbody></table>
 
 
-
 ## Staff
+
 - [amibazh](./Amibazh.md)
 
 
 ## 评论
-
-
-
 
 ---
 

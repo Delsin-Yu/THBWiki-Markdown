@@ -1,6 +1,6 @@
 # 文件:Radical_chics封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\be\ns6%3ARadical_chics%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\be\ns6%3ARadical_chics%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 カレイドノート | 专辑封面 | 封面图片
 
@@ -10,11 +10,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [Radical chics](./Radical_chics.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)- [橙](./橙.md)- [露娜萨·普莉兹姆利巴](./露娜萨·普莉兹姆利巴.md)
-
-
-
+- [Radical chics](./Radical_chics.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
+- [橙](./橙.md)
+- [露娜萨·普莉兹姆利巴](./露娜萨·普莉兹姆利巴.md)
 
 
 ---

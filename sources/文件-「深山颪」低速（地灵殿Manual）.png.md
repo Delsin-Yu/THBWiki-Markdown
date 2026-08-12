@@ -1,12 +1,8 @@
 # 文件:「深山颪」低速（地灵殿Manual）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b4\ns6%3A%E3%80%8C%E6%B7%B1%E5%B1%B1%E9%A2%AA%E3%80%8D%E4%BD%8E%E9%80%9F%EF%BC%88%E5%9C%B0%E7%81%B5%E6%AE%BFManual%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b4\ns6%3A%E3%80%8C%E6%B7%B1%E5%B1%B1%E9%A2%AA%E3%80%8D%E4%BD%8E%E9%80%9F%EF%BC%88%E5%9C%B0%E7%81%B5%E6%AE%BFManual%EF%BC%89%2Epng.html -->
 
 Manual配图 | 东方地灵殿 | 博丽灵梦
-
-
-
-
 
 
 ---

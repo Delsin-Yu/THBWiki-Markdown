@@ -1,6 +1,6 @@
 # 文件:月射録_～_The_Moon-shooter封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3d\ns6%3A%E6%9C%88%E5%B0%84%E9%8C%B2_%EF%BD%9E_The_Moon-shooter%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3d\ns6%3A%E6%9C%88%E5%B0%84%E9%8C%B2_%EF%BD%9E_The_Moon-shooter%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Sensitive_Heart | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Sensitive_Heart | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [月射録 ～ The Moon-shooter](./月射録_～_The_Moon-shooter.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [月射録 ～ The Moon-shooter](./月射録_～_The_Moon-shooter.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

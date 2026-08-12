@@ -1,12 +1,8 @@
 # 文件:恋符「Master_Spark」（萃梦想）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9f\ns6%3A%E6%81%8B%E7%AC%A6%E3%80%8CMaster_Spark%E3%80%8D%EF%BC%88%E8%90%83%E6%A2%A6%E6%83%B3%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9f\ns6%3A%E6%81%8B%E7%AC%A6%E3%80%8CMaster_Spark%E3%80%8D%EF%BC%88%E8%90%83%E6%A2%A6%E6%83%B3%EF%BC%89%2Epng.html -->
 
 东方萃梦想 | 自机符卡 | 雾雨魔理沙
-
-
-
-
 
 
 ---

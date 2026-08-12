@@ -1,6 +1,6 @@
 # 文件:西方アレンジコンピ_"Kaktus"封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\48\ns6%3A%E8%A5%BF%E6%96%B9%E3%82%A2%E3%83%AC%E3%83%B3%E3%82%B8%E3%82%B3%E3%83%B3%E3%83%94_%22Kaktus%22%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\48\ns6%3A%E8%A5%BF%E6%96%B9%E3%82%A2%E3%83%AC%E3%83%B3%E3%82%B8%E3%82%B3%E3%83%B3%E3%83%94_%22Kaktus%22%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 ぬまうおハウス | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [西方アレンジコンピ "Kaktus"](./西方アレンジコンピ_-Kaktus-.md)  
-该封面包含的角色：- [VIVIT](./VIVIT.md)
-
-
-
+- [西方アレンジコンピ "Kaktus"](./西方アレンジコンピ_-Kaktus-.md)该封面包含的角色：
+- [VIVIT](./VIVIT.md)
 
 
 ---

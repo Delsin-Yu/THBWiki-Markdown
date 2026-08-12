@@ -1,21 +1,17 @@
 # 諏訪子_in_ニコニコ動画
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\5\5d\ns0%3A%E8%AB%8F%E8%A8%AA%E5%AD%90_in_%E3%83%8B%E3%82%B3%E3%83%8B%E3%82%B3%E5%8B%95%E7%94%BB.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\5\5d\ns0%3A%E8%AB%8F%E8%A8%AA%E5%AD%90_in_%E3%83%8B%E3%82%B3%E3%83%8B%E3%82%B3%E5%8B%95%E7%94%BB.html -->
 
 2009年3月29日 由 UTG Software  发布的ACT同人游戏，可在 Windows 系统上运行，游戏人数为 单人模式，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人软件 (未找到链接)** 的词条
-
+**[二次创作同人软件](./二次创作.md#同人软件)**的词条
 ## 目录
 
 - [1 软件信息](#软件信息)
 - [2 Staff](#Staff)
 - [3 内容页面](#内容页面)
 - [4 评论](#评论)
-
-
-
 
 
 ## 软件信息
@@ -26,24 +22,19 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://www.utgsoftware.net/games/games2009/suwanico/index.htm">http://www.utgsoftware.net/games/games2009/suwanico/index.htm</a><br><span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span></td></tr></tbody></table>
 
 諏訪子 in ニコニコ動画（同人游戏，UTG Software，2009） - 2009年3月29日 由 UTG Software  发布的ACT同人游戏，可在 Windows 系统上运行，游戏人数为 单人模式，分级为 一般向
-  
-  
-
-  
-
-
 <table>
 <tbody><tr><th colspan="2">配置需求</th></tr>
 <tr><td style="width:120px;padding-left:7px;"><b>操作系统</b></td><td>XP Home/Pro (SP2以后) , Vista (SP1以后)</td></tr><tr><td style="width:120px;padding-left:7px;"><b>CPU</b></td><td>1.0GHz以上</td></tr><tr><td style="width:120px;padding-left:7px;"><b>内存</b></td><td>XP 128MB以上, Vista 1GB以上</td></tr><tr><td style="width:120px;padding-left:7px;"><b>显示卡</b></td><td>DirectGraphic兼容，32MB以上 VRAM，DirectX 9.0c</td></tr>
 </tbody></table>
 
 
-
 ## Staff
+
 - 魯鈍ジョン (未找到链接)
 
 
 ## 内容页面
+
 - 游戏设定与剧情 (未找到链接)
 - 攻略 (未找到链接)
 - 使用说明 (未找到链接)
@@ -51,9 +42,6 @@
 
 
 ## 评论
-
-
-
 
 ---
 

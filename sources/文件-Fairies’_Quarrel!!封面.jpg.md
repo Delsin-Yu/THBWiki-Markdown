@@ -1,6 +1,6 @@
 # 文件:Fairies’_Quarrel!!封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7c\ns6%3AFairies%E2%80%99_Quarrel%21%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7c\ns6%3AFairies%E2%80%99_Quarrel%21%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 CM11（同人社团） | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ CM11（同人社团） | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Fairies’ Quarrel!!](./Fairies’_Quarrel!!.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)
-
-
-
+- [Fairies’ Quarrel!!](./Fairies’_Quarrel!!.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
 
 
 ---

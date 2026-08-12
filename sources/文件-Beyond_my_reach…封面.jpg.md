@@ -1,6 +1,6 @@
 # 文件:Beyond_my_reach…封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\08\ns6%3ABeyond_my_reach%E2%80%A6%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\08\ns6%3ABeyond_my_reach%E2%80%A6%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ワカサギツリ。 | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Beyond my reach…](./Beyond_my_reach….md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
-
-
-
+- [Beyond my reach…](./Beyond_my_reach….md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
 
 ---

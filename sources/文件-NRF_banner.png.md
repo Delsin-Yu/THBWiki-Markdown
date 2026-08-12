@@ -1,12 +1,8 @@
 # 文件:NRF_banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0d\ns6%3ANRF_banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0d\ns6%3ANRF_banner%2Epng.html -->
 
 NRF | 社团LOGO
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:东方试闻广纪_~_Perfect_Memento_of_Touhou_Question封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\db\ns6%3A%E4%B8%9C%E6%96%B9%E8%AF%95%E9%97%BB%E5%B9%BF%E7%BA%AA_%7E_Perfect_Memento_of_Touhou_Question%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\db\ns6%3A%E4%B8%9C%E6%96%B9%E8%AF%95%E9%97%BB%E5%B9%BF%E7%BA%AA_%7E_Perfect_Memento_of_Touhou_Question%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 八雾游戏制作组 | 封面图片 | 软件封面
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [东方试闻广纪 ~ Perfect Memento of Touhou Question](./东方试闻广纪_~_Perfect_Memento_of_Touhou_Question.md)  
-该封面包含的角色：- [本居小铃](./本居小铃.md)- [稗田阿求](./稗田阿求.md)
-
-
-
+- [东方试闻广纪 ~ Perfect Memento of Touhou Question](./东方试闻广纪_~_Perfect_Memento_of_Touhou_Question.md)该封面包含的角色：
+- [本居小铃](./本居小铃.md)
+- [稗田阿求](./稗田阿求.md)
 
 
 ---

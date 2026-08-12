@@ -1,6 +1,6 @@
 # 文件:NIGHT_AIR封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fa\ns6%3ANIGHT_AIR%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fa\ns6%3ANIGHT_AIR%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 SNUG_SPACE | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ SNUG_SPACE | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [NIGHT AIR](./NIGHT_AIR.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
-
-
-
+- [NIGHT AIR](./NIGHT_AIR.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
 
 ---

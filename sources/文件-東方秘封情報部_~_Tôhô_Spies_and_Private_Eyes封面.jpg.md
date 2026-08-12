@@ -1,6 +1,6 @@
 # 文件:東方秘封情報部_~_Tôhô_Spies_and_Private_Eyes封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c6\ns6%3A%E6%9D%B1%E6%96%B9%E7%A7%98%E5%B0%81%E6%83%85%E5%A0%B1%E9%83%A8_%7E_T%C3%B4h%C3%B4_Spies_and_Private_Eyes%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c6\ns6%3A%E6%9D%B1%E6%96%B9%E7%A7%98%E5%B0%81%E6%83%85%E5%A0%B1%E9%83%A8_%7E_T%C3%B4h%C3%B4_Spies_and_Private_Eyes%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Tangentg | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@ Tangentg | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方秘封情報部 ~ Tôhô Spies and Private Eyes](./東方秘封情報部_~_Tôhô_Spies_and_Private_Eyes.md)  
-该封面包含的角色：- [鬼人正邪](./鬼人正邪.md)
+- [東方秘封情報部 ~ Tôhô Spies and Private Eyes](./東方秘封情報部_~_Tôhô_Spies_and_Private_Eyes.md)该封面包含的角色：
+- [鬼人正邪](./鬼人正邪.md)
 
   
-源地址：[Bandcamp cover (10 size)](https://f4.bcbits.com/img/a2419949292_10.jpg)
-  
-
-
-
-
+源地址：[Bandcamp cover (10 size)](https://f4.bcbits.com/img/a2419949292_10.jpg)  
 
 ---
 

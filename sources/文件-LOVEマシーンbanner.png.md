@@ -1,12 +1,8 @@
 # 文件:LOVEマシーンbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e4\ns6%3ALOVE%E3%83%9E%E3%82%B7%E3%83%BC%E3%83%B3banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e4\ns6%3ALOVE%E3%83%9E%E3%82%B7%E3%83%BC%E3%83%B3banner%2Epng.html -->
 
 LOVEマシーン | 社团LOGO
-
-
-
-
 
 
 ---

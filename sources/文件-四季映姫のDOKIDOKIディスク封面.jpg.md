@@ -1,6 +1,6 @@
 # 文件:四季映姫のDOKIDOKIディスク封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3f\ns6%3A%E5%9B%9B%E5%AD%A3%E6%98%A0%E5%A7%AB%E3%81%AEDOKIDOKI%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3f\ns6%3A%E5%9B%9B%E5%AD%A3%E6%98%A0%E5%A7%AB%E3%81%AEDOKIDOKI%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 アールグレイ | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [四季映姫のDOKIDOKIディスク](./四季映姫のDOKIDOKIディスク.md)  
-该封面包含的角色：- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)
-
-
-
+- [四季映姫のDOKIDOKIディスク](./四季映姫のDOKIDOKIディスク.md)该封面包含的角色：
+- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)
 
 
 ---

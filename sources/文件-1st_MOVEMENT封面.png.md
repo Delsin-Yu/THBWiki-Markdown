@@ -1,6 +1,6 @@
 # 文件:1st_MOVEMENT封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\29\ns6%3A1st_MOVEMENT%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\29\ns6%3A1st_MOVEMENT%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 インスタントフィルハーモニー | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [1st MOVEMENT](./1st_MOVEMENT.md)  
-该封面包含的角色：- [洩矢诹访子](./洩矢诹访子.md)
+- [1st MOVEMENT](./1st_MOVEMENT.md)该封面包含的角色：
+- [洩矢诹访子](./洩矢诹访子.md)
 
   
-源地址：[[1]](http://instantphil.iza-yoi.net/images/r13j.png)
-  
-
-
-
-
+源地址：[\[1\]](http://instantphil.iza-yoi.net/images/r13j.png)  
 
 ---
 

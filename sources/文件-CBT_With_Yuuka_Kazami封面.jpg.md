@@ -1,6 +1,6 @@
 # 文件:CBT_With_Yuuka_Kazami封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\68\ns6%3ACBT_With_Yuuka_Kazami%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\68\ns6%3ACBT_With_Yuuka_Kazami%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Sigyaad_Team | 封面图片 | 软件封面
 
@@ -10,11 +10,8 @@ Sigyaad_Team | 封面图片 | 软件封面
 使用了本文件作封面图片的作品：
   
 
-- [CBT With Yuuka Kazami](./CBT_With_Yuuka_Kazami.md)  
-该封面包含的角色：- [风见幽香](./风见幽香.md)
-
-
-
+- [CBT With Yuuka Kazami](./CBT_With_Yuuka_Kazami.md)该封面包含的角色：
+- [风见幽香](./风见幽香.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:初染e.p.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\33\ns6%3A%E5%88%9D%E6%9F%93e%2Ep%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\33\ns6%3A%E5%88%9D%E6%9F%93e%2Ep%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 群青リボン
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [初染e.p.](./初染e.p..md)  
-该封面包含的角色：- [娜兹玲](./娜兹玲.md)
+- [初染e.p.](./初染e.p..md)该封面包含的角色：
+- [娜兹玲](./娜兹玲.md)
 
   
-源地址：[[1]](http://gunjouribon.web.fc2.com/nazu.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://gunjouribon.web.fc2.com/nazu.jpg)  
 
 ---
 

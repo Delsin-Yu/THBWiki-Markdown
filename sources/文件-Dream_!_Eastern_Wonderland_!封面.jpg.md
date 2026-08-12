@@ -1,6 +1,6 @@
 # 文件:Dream_!_Eastern_Wonderland_!封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dc\ns6%3ADream_%21_Eastern_Wonderland_%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dc\ns6%3ADream_%21_Eastern_Wonderland_%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Collectif_Touindin | 专辑封面 | 封面图片
 
@@ -10,15 +10,10 @@ Collectif_Touindin | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Dream&#160;! Eastern Wonderland&#160;!](./Dream_!_Eastern_Wonderland_!.md)
+- [Dream ! Eastern Wonderland !](./Dream_!_Eastern_Wonderland_!.md)
 
   
-源地址：[direct image link (original size)](https://i1.sndcdn.com/artworks-000012654403-y12x3l-original.jpg), [source page (soundcloud playlist)](https://soundcloud.com/jean-charlesmustaine/sets/dream-eastern-wonderland)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://i1.sndcdn.com/artworks-000012654403-y12x3l-original.jpg), [source page (soundcloud playlist)](https://soundcloud.com/jean-charlesmustaine/sets/dream-eastern-wonderland)  
 
 ---
 

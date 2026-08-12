@@ -1,6 +1,6 @@
 # 文件:東方恋舞想_-_Dance_Music_Arrange封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b8\ns6%3A%E6%9D%B1%E6%96%B9%E6%81%8B%E8%88%9E%E6%83%B3_-_Dance_Music_Arrange%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b8\ns6%3A%E6%9D%B1%E6%96%B9%E6%81%8B%E8%88%9E%E6%83%B3_-_Dance_Music_Arrange%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 LOST_BLESS | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ LOST_BLESS | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方恋舞想 - Dance Music Arrange](./東方恋舞想_-_Dance_Music_Arrange.md)  
-该封面包含的角色：- [东风谷早苗](./东风谷早苗.md)
+- [東方恋舞想 - Dance Music Arrange](./東方恋舞想_-_Dance_Music_Arrange.md)该封面包含的角色：
+- [东风谷早苗](./东风谷早苗.md)
 
   
-源地址:[[1]](http://img.toranoana.jp/popup_img/04/0010/19/69/040010196962-1p.jpg)
-  
-
-
-
-
+源地址:[\[1\]](http://img.toranoana.jp/popup_img/04/0010/19/69/040010196962-1p.jpg)  
 
 ---
 

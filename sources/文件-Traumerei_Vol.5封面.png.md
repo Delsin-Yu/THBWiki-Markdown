@@ -1,6 +1,6 @@
 # 文件:Traumerei_Vol.5封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\32\ns6%3ATraumerei_Vol%2E5%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\32\ns6%3ATraumerei_Vol%2E5%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 同人志封面 | 封面图片 | 黒獅子帝
 
@@ -10,16 +10,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [Traumerei Vol.5](./Traumerei_Vol.5.md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)- [火焰猫燐](./火焰猫燐.md)
+- [Traumerei Vol.5](./Traumerei_Vol.5.md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
+- [火焰猫燐](./火焰猫燐.md)
 
   
-[Pixiv artwork ID: 53210732 (original size)](https://www.pixiv.net/artworks/53210732)
-  
-
-
-
-
+[Pixiv artwork ID: 53210732 (original size)](https://www.pixiv.net/artworks/53210732)  
 
 ---
 

@@ -1,12 +1,8 @@
 # 文件:THD2血染的太阳伞.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\92\ns6%3ATHD2%E8%A1%80%E6%9F%93%E7%9A%84%E5%A4%AA%E9%98%B3%E4%BC%9E%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\92\ns6%3ATHD2%E8%A1%80%E6%9F%93%E7%9A%84%E5%A4%AA%E9%98%B3%E4%BC%9E%2Epng.html -->
 
 THD2
-
-
-
-
 
 
 ---

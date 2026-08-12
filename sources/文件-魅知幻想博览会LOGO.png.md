@@ -1,14 +1,11 @@
 # 文件:魅知幻想博览会LOGO.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ca\ns6%3A%E9%AD%85%E7%9F%A5%E5%B9%BB%E6%83%B3%E5%8D%9A%E8%A7%88%E4%BC%9ALOGO%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ca\ns6%3A%E9%AD%85%E7%9F%A5%E5%B9%BB%E6%83%B3%E5%8D%9A%E8%A7%88%E4%BC%9ALOGO%2Epng.html -->
 
 活动LOGO | 魅知幻想博览会
 
 
 ## 文件说明
-
-
-
 
 ---
 

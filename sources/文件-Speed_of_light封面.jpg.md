@@ -1,6 +1,6 @@
 # 文件:Speed_of_light封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e3\ns6%3ASpeed_of_light%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e3\ns6%3ASpeed_of_light%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 IbEthics | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ IbEthics | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Speed of light](./Speed_of_light.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [Speed of light](./Speed_of_light.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

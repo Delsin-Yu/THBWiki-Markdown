@@ -1,16 +1,12 @@
 # 文件:le04_STAGE_04.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\20\ns6%3Ale04_STAGE_04%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\20\ns6%3Ale04_STAGE_04%2Emp3.html -->
 
 军靴声的幻听 | 连缘Project官方音乐MP3 | 连缘天影战记
 
   
 连缘天影战记前哨阵地主题曲
   
-
-
-
-
 
 ---
 

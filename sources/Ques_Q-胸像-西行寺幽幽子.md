@@ -1,37 +1,21 @@
 # Ques_Q/胸像/西行寺幽幽子
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\c\c9\ns0%3AQues_Q%2F%E8%83%B8%E5%83%8F%2F%E8%A5%BF%E8%A1%8C%E5%AF%BA%E5%B9%BD%E5%B9%BD%E5%AD%90.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\c\c9\ns0%3AQues_Q%2F%E8%83%B8%E5%83%8F%2F%E8%A5%BF%E8%A1%8C%E5%AF%BA%E5%B9%BD%E5%B9%BD%E5%AD%90.html -->
 
 西行寺幽幽子PVCFigure手办模型
 
 本页是关于东方Project  
- **相关实体周边 (未找到链接)** 的词条
-
+**相关实体周边 (未找到链接)**的词条
 ## 模型信息
 
-<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 西行寺幽幽子 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>胸像</td></tr><tr><td class="label">角色</td><td><a href="./西行寺幽幽子.md" title="西行寺幽幽子">西行寺幽幽子</a></td></tr><tr><td class="label">原型师</td><td><a href="/index.php?title=ZASH&amp;action=edit&amp;redlink=1" class="new" title="ZASH（页面不存在）">ZASH</a></td></tr><tr><td class="label">比例</td><td>1/6</td></tr><tr><td class="label">尺寸</td><td>90 mm</td></tr><tr><td class="label">状态</td><td>已发售</td></tr><tr><td class="label">售价</td><td>3360円</td></tr><tr><td class="label">首发日期</td><td>2009-10</td></tr><tr><td class="label">发售方</td><td><a href="/index.php?title=Ques_Q&amp;action=edit&amp;redlink=1" class="new" title="Ques Q（页面不存在）">Ques Q</a></td></tr></tbody></table>
+<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 西行寺幽幽子 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>胸像</td></tr><tr><td class="label">角色</td><td><a href="./西行寺幽幽子.md" title="西行寺幽幽子">西行寺幽幽子</a></td></tr><tr><td class="label">原型师</td><td><a class="new" title="ZASH（页面不存在）">ZASH</a></td></tr><tr><td class="label">比例</td><td>1/6</td></tr><tr><td class="label">尺寸</td><td>90 mm</td></tr><tr><td class="label">状态</td><td>已发售</td></tr><tr><td class="label">售价</td><td>3360円</td></tr><tr><td class="label">首发日期</td><td>2009-10</td></tr><tr><td class="label">发售方</td><td><a class="new" title="Ques Q（页面不存在）">Ques Q</a></td></tr></tbody></table>
 
 Ques Q/胸像/西行寺幽幽子（周边） - 西行寺幽幽子PVCFigure手办模型
-
 ## 参考图片
-
-
-
-[](./文件-Ques_Q胸像西行寺幽幽子-1.jpg.md)
-
-
-[](./文件-Ques_Q胸像西行寺幽幽子-2.jpg.md)
-
-
-[](./文件-Ques_Q胸像西行寺幽幽子-3.jpg.md)
-
+<img alt="Ques Q胸像西行寺幽幽子" src="https://upload.thwiki.cc/thumb/e/ed/Ques_Q%E8%83%B8%E5%83%8F%E8%A5%BF%E8%A1%8C%E5%AF%BA%E5%B9%BD%E5%B9%BD%E5%AD%90-1.jpg/160px-Ques_Q%E8%83%B8%E5%83%8F%E8%A5%BF%E8%A1%8C%E5%AF%BA%E5%B9%BD%E5%B9%BD%E5%AD%90-1.jpg" decoding="async" loading="lazy" width="160" height="240" srcset="https://upload.thwiki.cc/thumb/e/ed/Ques_Q%E8%83%B8%E5%83%8F%E8%A5%BF%E8%A1%8C%E5%AF%BA%E5%B9%BD%E5%B9%BD%E5%AD%90-1.jpg/240px-Ques_Q%E8%83%B8%E5%83%8F%E8%A5%BF%E8%A1%8C%E5%AF%BA%E5%B9%BD%E5%B9%BD%E5%AD%90-1.jpg 1.5x, https://upload.thwiki.cc/e/ed/Ques_Q%E8%83%B8%E5%83%8F%E8%A5%BF%E8%A1%8C%E5%AF%BA%E5%B9%BD%E5%B9%BD%E5%AD%90-1.jpg 2x" data-file-width="280" data-file-height="420">
+<img alt="Ques Q胸像西行寺幽幽子" src="https://upload.thwiki.cc/thumb/5/59/Ques_Q%E8%83%B8%E5%83%8F%E8%A5%BF%E8%A1%8C%E5%AF%BA%E5%B9%BD%E5%B9%BD%E5%AD%90-2.jpg/160px-Ques_Q%E8%83%B8%E5%83%8F%E8%A5%BF%E8%A1%8C%E5%AF%BA%E5%B9%BD%E5%B9%BD%E5%AD%90-2.jpg" decoding="async" loading="lazy" width="160" height="240" srcset="https://upload.thwiki.cc/thumb/5/59/Ques_Q%E8%83%B8%E5%83%8F%E8%A5%BF%E8%A1%8C%E5%AF%BA%E5%B9%BD%E5%B9%BD%E5%AD%90-2.jpg/240px-Ques_Q%E8%83%B8%E5%83%8F%E8%A5%BF%E8%A1%8C%E5%AF%BA%E5%B9%BD%E5%B9%BD%E5%AD%90-2.jpg 1.5x, https://upload.thwiki.cc/5/59/Ques_Q%E8%83%B8%E5%83%8F%E8%A5%BF%E8%A1%8C%E5%AF%BA%E5%B9%BD%E5%B9%BD%E5%AD%90-2.jpg 2x" data-file-width="280" data-file-height="420">
+<img alt="Ques Q胸像西行寺幽幽子" src="https://upload.thwiki.cc/thumb/4/43/Ques_Q%E8%83%B8%E5%83%8F%E8%A5%BF%E8%A1%8C%E5%AF%BA%E5%B9%BD%E5%B9%BD%E5%AD%90-3.jpg/160px-Ques_Q%E8%83%B8%E5%83%8F%E8%A5%BF%E8%A1%8C%E5%AF%BA%E5%B9%BD%E5%B9%BD%E5%AD%90-3.jpg" decoding="async" loading="lazy" width="160" height="240" srcset="https://upload.thwiki.cc/thumb/4/43/Ques_Q%E8%83%B8%E5%83%8F%E8%A5%BF%E8%A1%8C%E5%AF%BA%E5%B9%BD%E5%B9%BD%E5%AD%90-3.jpg/240px-Ques_Q%E8%83%B8%E5%83%8F%E8%A5%BF%E8%A1%8C%E5%AF%BA%E5%B9%BD%E5%B9%BD%E5%AD%90-3.jpg 1.5x, https://upload.thwiki.cc/4/43/Ques_Q%E8%83%B8%E5%83%8F%E8%A5%BF%E8%A1%8C%E5%AF%BA%E5%B9%BD%E5%B9%BD%E5%AD%90-3.jpg 2x" data-file-width="280" data-file-height="420">
 公式图
-
-
-
-
-
-
 
 ---
 

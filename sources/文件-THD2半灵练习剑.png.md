@@ -1,12 +1,8 @@
 # 文件:THD2半灵练习剑.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\96\ns6%3ATHD2%E5%8D%8A%E7%81%B5%E7%BB%83%E4%B9%A0%E5%89%91%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\96\ns6%3ATHD2%E5%8D%8A%E7%81%B5%E7%BB%83%E4%B9%A0%E5%89%91%2Epng.html -->
 
 AvalonStudioOfficial
-
-
-
-
 
 
 ---

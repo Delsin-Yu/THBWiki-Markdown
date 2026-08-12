@@ -1,18 +1,13 @@
 # 文件:夢想史紀行logo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\03\ns6%3A%E5%A4%A2%E6%83%B3%E5%8F%B2%E7%B4%80%E8%A1%8Clogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\03\ns6%3A%E5%A4%A2%E6%83%B3%E5%8F%B2%E7%B4%80%E8%A1%8Clogo%2Ejpg.html -->
 
 夢想史紀行 | 社团LOGO
 
 
 ## 摘要
   
-源地址：[direct image link (max size)](https://pbs.twimg.com/profile_images/1241752018898714624/Ctu36UI6.jpg), [source page (circle Twitter avatar)](https://twitter.com/wadai_th/photo)
-  
-
-
-
-
+源地址：[direct image link (max size)](https://pbs.twimg.com/profile_images/1241752018898714624/Ctu36UI6.jpg), [source page (circle Twitter avatar)](https://twitter.com/wadai_th/photo)  
 
 ---
 

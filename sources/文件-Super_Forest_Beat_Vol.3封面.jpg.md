@@ -1,6 +1,6 @@
 # 文件:Super_Forest_Beat_Vol.3封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\87\ns6%3ASuper_Forest_Beat_Vol%2E3%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\87\ns6%3ASuper_Forest_Beat_Vol%2E3%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Silver_Forest | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ Silver_Forest | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Super Forest Beat Vol.3](./Super_Forest_Beat_Vol.3.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
-
-
-
+- [Super Forest Beat Vol.3](./Super_Forest_Beat_Vol.3.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:the_Wind封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\62\ns6%3Athe_Wind%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\62\ns6%3Athe_Wind%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Seaside | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Seaside | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [the Wind](./the_Wind.md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)
-
-
-
+- [the Wind](./the_Wind.md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
 
 
 ---

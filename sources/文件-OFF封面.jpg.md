@@ -1,6 +1,6 @@
 # 文件:OFF封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\03\ns6%3AOFF%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\03\ns6%3AOFF%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 舞音KAGURA
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [OFF](./OFF.md)  
-该封面包含的角色：- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)- [秦心](./秦心.md)
-
-
-
+- [OFF](./OFF.md)该封面包含的角色：
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
+- [秦心](./秦心.md)
 
 
 ---

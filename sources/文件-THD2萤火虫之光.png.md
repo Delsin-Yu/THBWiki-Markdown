@@ -1,12 +1,8 @@
 # 文件:THD2萤火虫之光.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c4\ns6%3ATHD2%E8%90%A4%E7%81%AB%E8%99%AB%E4%B9%8B%E5%85%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c4\ns6%3ATHD2%E8%90%A4%E7%81%AB%E8%99%AB%E4%B9%8B%E5%85%89%2Epng.html -->
 
 东方DOTS玩家社群
-
-
-
-
 
 
 ---

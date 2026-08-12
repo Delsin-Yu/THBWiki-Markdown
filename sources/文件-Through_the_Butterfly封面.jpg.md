@@ -1,6 +1,6 @@
 # 文件:Through_the_Butterfly封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\55\ns6%3AThrough_the_Butterfly%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\55\ns6%3AThrough_the_Butterfly%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 3S_Cubic | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [Through the Butterfly](./Through_the_Butterfly.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [西行寺幽幽子](./西行寺幽幽子.md)
-
-
-
+- [Through the Butterfly](./Through_the_Butterfly.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [西行寺幽幽子](./西行寺幽幽子.md)
 
 
 ---

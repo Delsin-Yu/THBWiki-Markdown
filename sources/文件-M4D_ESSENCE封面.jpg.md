@@ -1,6 +1,6 @@
 # 文件:M4D_ESSENCE封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a4\ns6%3AM4D_ESSENCE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a4\ns6%3AM4D_ESSENCE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 LiLA'c_Records | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ LiLA'c_Records | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [M4D ESSENCE](./M4D_ESSENCE.md)  
-该封面包含的角色：- [丰聪耳神子](./丰聪耳神子.md)
-
-
-
+- [M4D ESSENCE](./M4D_ESSENCE.md)该封面包含的角色：
+- [丰聪耳神子](./丰聪耳神子.md)
 
 
 ---

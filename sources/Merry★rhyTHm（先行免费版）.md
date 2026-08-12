@@ -1,12 +1,11 @@
 # Merry★rhyTHm（先行免费版）
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\46\ns0%3AMerry%E2%98%85rhyTHm%EF%BC%88%E5%85%88%E8%A1%8C%E5%85%8D%E8%B4%B9%E7%89%88%EF%BC%89.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\46\ns0%3AMerry%E2%98%85rhyTHm%EF%BC%88%E5%85%88%E8%A1%8C%E5%85%8D%E8%B4%B9%E7%89%88%EF%BC%89.html -->
 
 2020年12月24日 由 bunny rhyTHm  发布的单曲同人专辑，曲目主要风格是 其他电子，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人专辑 (未找到链接)** 的词条
-
+**[二次创作同人专辑](./二次创作.md#同人音乐)**的词条
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Merry★rhyTHm（先行免费版）封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/a/a7/Merry%E2%98%85rhyTHm%EF%BC%88%E5%85%88%E8%A1%8C%E5%85%8D%E8%B4%B9%E7%89%88%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/252px-Merry%E2%98%85rhyTHm%EF%BC%88%E5%85%88%E8%A1%8C%E5%85%8D%E8%B4%B9%E7%89%88%EF%BC%89%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="252" height="252" srcset="https://upload.thwiki.cc/thumb/a/a7/Merry%E2%98%85rhyTHm%EF%BC%88%E5%85%88%E8%A1%8C%E5%85%8D%E8%B4%B9%E7%89%88%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/378px-Merry%E2%98%85rhyTHm%EF%BC%88%E5%85%88%E8%A1%8C%E5%85%8D%E8%B4%B9%E7%89%88%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/a/a7/Merry%E2%98%85rhyTHm%EF%BC%88%E5%85%88%E8%A1%8C%E5%85%8D%E8%B4%B9%E7%89%88%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/504px-Merry%E2%98%85rhyTHm%EF%BC%88%E5%85%88%E8%A1%8C%E5%85%8D%E8%B4%B9%E7%89%88%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1000" data-file-height="1000"></a><div class="cover-char">角色：<a href="./宇佐见莲子.md" title="宇佐见莲子">宇佐见莲子</a>，<a href="./玛艾露贝莉·赫恩.md" title="玛艾露贝莉·赫恩">玛艾露贝莉·赫恩</a></div></td>
@@ -14,27 +13,24 @@
 </tr><tr><td class="label">首发日期</td><td>2020-12-24</td></tr><tr><td class="label">类型</td><td>单曲</td></tr><tr><td class="label">编号</td><td>BRTH-009.9</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>1</td></tr><tr><td class="label">总时长</td><td>04:32</td></tr><tr><td class="label">风格类型</td><td>其他电子</td></tr></tbody></table>
 
 Merry★rhyTHm（先行免费版）（同人专辑，bunny rhyTHm，2020） - 2020年12月24日 由 bunny rhyTHm  发布的单曲同人专辑，曲目主要风格是 其他电子，分级为 一般向
-
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.dizzylab.net/d/BRTH009_9">dizzylab先行免费版</a></td></tr></tbody></table>
-
 
 
 ## Staff
   
- **Arrangement**   
+**Arrangement**  
 
 <table><tbody><tr><td><a href="./Rayven.md" title="Rayven">Rayven</a></td><td></td><td>Tr.1</td></tr></tbody></table>
 
   
- **Vocal**   
+**Vocal**  
 
 <table><tbody><tr><td><a href="./缨缨Ei.md" title="缨缨Ei">缨缨Ei</a></td><td></td><td>Tr.1</td></tr><tr><td><a href="./琉芸Miruku.md" title="琉芸Miruku">琉芸Miruku</a></td><td></td><td>Tr.1</td></tr></tbody></table>
 
   
- **Lyrics**   
+**Lyrics**  
 
 <table><tbody><tr><td><a href="./氷霜暗月.md" title="氷霜暗月">氷霜暗月</a></td><td></td><td>Tr.1</td></tr></tbody></table>
-
 
 Design
 : iMASU 、 缨缨Ei
@@ -45,11 +41,8 @@ Mixing
 Mastering
 : 小洋
 
-
 ## 试听
   
-
-
   
 
 <table>
@@ -58,20 +51,12 @@ Mastering
 </table>
 
 
-
-
-
-
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoRD"><b>01</b></td><td id="Merry★rhyTHm" colspan="2" class="title"><a href="./歌词-Merry★rhyTHm.md" title="歌词:Merry★rhyTHm">Merry★rhyTHm</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Rayven&amp;vocal=缨缨Ei，琉芸Miruku&amp;lyric=氷霜暗月&amp;ogmusic=悠久の蒸気機関，月面ツアーへようこそ&amp;fromwiki=Merry★rhyTHm（先行免费版）"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:32</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Rayven.md" title="Rayven">Rayven</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Rayven&amp;fromwiki=Merry★rhyTHm（先行免费版）"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="./缨缨Ei.md" title="缨缨Ei">缨缨Ei</a>，<a href="./琉芸Miruku.md" title="琉芸Miruku">琉芸Miruku</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=缨缨Ei，琉芸Miruku&amp;fromwiki=Merry★rhyTHm（先行免费版）"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="./氷霜暗月.md" title="氷霜暗月">氷霜暗月</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?lyric=氷霜暗月&amp;fromwiki=Merry★rhyTHm（先行免费版）"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=悠久の蒸気機関，月面ツアーへようこそ&amp;fromwiki=Merry★rhyTHm（先行免费版）"><span></span></a></span><div class="ogmusic"><a href="./悠久の蒸気機関.md" class="mw-redirect" title="悠久の蒸気機関">悠久の蒸気機関</a></div><div class="source"><a href="./东方非想天则_～_追寻特大型人偶之谜.md" class="mw-redirect" title="东方非想天则 ～ 追寻特大型人偶之谜">东方非想天则　～ 追寻特大型人偶之谜</a></div><hr><div class="ogmusic"><a href="./月面ツアーへようこそ.md" class="mw-redirect" title="月面ツアーへようこそ">月面ツアーへようこそ</a></div><div class="source"><a href="./大空魔术_～_Magical_Astronomy.md" class="mw-redirect" title="大空魔术 ～ Magical Astronomy">大空魔术　～ Magical Astronomy</a></div></td></tr></tbody></table>
-
+<table><tbody><tr><td id="1" class="infoRD"><b>01</b></td><td id="Merry★rhyTHm" colspan="2" class="title"><a href="./歌词-Merry★rhyTHm.md" title="歌词:Merry★rhyTHm">Merry★rhyTHm</a></td><td class="time">04:32</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Rayven.md" title="Rayven">Rayven</a></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="./缨缨Ei.md" title="缨缨Ei">缨缨Ei</a>，<a href="./琉芸Miruku.md" title="琉芸Miruku">琉芸Miruku</a></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="./氷霜暗月.md" title="氷霜暗月">氷霜暗月</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./悠久的蒸汽机关.md" class="mw-redirect" title="悠久の蒸気機関">悠久の蒸気機関</a></div><div class="source"><a href="./东方非想天则.md" class="mw-redirect" title="东方非想天则 ～ 追寻特大型人偶之谜">东方非想天则　～ 追寻特大型人偶之谜</a></div><hr><div class="ogmusic"><a href="./欢迎来到月面旅行团.md" class="mw-redirect" title="月面ツアーへようこそ">月面ツアーへようこそ</a></div><div class="source"><a href="./大空魔术.md" class="mw-redirect" title="大空魔术 ～ Magical Astronomy">大空魔术　～ Magical Astronomy</a></div></td></tr></tbody></table>
 
 
 ## 评论
-
-
-
 
 ---
 

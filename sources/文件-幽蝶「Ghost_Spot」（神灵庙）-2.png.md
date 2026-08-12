@@ -1,12 +1,8 @@
 # 文件:幽蝶「Ghost_Spot」（神灵庙）-2.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\df\ns6%3A%E5%B9%BD%E8%9D%B6%E3%80%8CGhost_Spot%E3%80%8D%EF%BC%88%E7%A5%9E%E7%81%B5%E5%BA%99%EF%BC%89-2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\df\ns6%3A%E5%B9%BD%E8%9D%B6%E3%80%8CGhost_Spot%E3%80%8D%EF%BC%88%E7%A5%9E%E7%81%B5%E5%BA%99%EF%BC%89-2%2Epng.html -->
 
 东方神灵庙 | 敌机符卡 | 西行寺幽幽子
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Ookami_Kakushi封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1e\ns6%3AOokami_Kakushi%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1e\ns6%3AOokami_Kakushi%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Endless_Sound_匯音社 | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ Endless_Sound_匯音社 | 专辑封面 | 封面图片
   
 
 - [Ookami Kakushi](./Ookami_Kakushi.md)
-
-
-
 
 
 ---

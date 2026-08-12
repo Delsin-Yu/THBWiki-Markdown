@@ -1,12 +1,8 @@
 # 文件:THD2巫女的狐狸面具.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\64\ns6%3ATHD2%E5%B7%AB%E5%A5%B3%E7%9A%84%E7%8B%90%E7%8B%B8%E9%9D%A2%E5%85%B7%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\64\ns6%3ATHD2%E5%B7%AB%E5%A5%B3%E7%9A%84%E7%8B%90%E7%8B%B8%E9%9D%A2%E5%85%B7%2Epng.html -->
 
 THD2
-
-
-
-
 
 
 ---

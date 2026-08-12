@@ -1,6 +1,6 @@
 # 文件:Fantastic_Park封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3f\ns6%3AFantastic_Park%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3f\ns6%3AFantastic_Park%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Cold_Sleep_Girlfriend | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Cold_Sleep_Girlfriend | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Fantastic Park](./Fantastic_Park.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
-
-
-
+- [Fantastic Park](./Fantastic_Park.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
 
 ---

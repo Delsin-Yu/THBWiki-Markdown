@@ -1,37 +1,21 @@
 # GRIFFON/古明地恋
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\7\75\ns0%3AGRIFFON%2F%E5%8F%A4%E6%98%8E%E5%9C%B0%E6%81%8B.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\7\75\ns0%3AGRIFFON%2F%E5%8F%A4%E6%98%8E%E5%9C%B0%E6%81%8B.html -->
 
 古明地恋PVCFigure手办模型
 
 本页是关于东方Project  
- **相关实体周边 (未找到链接)** 的词条
-
+**相关实体周边 (未找到链接)**的词条
 ## 模型信息
 
-<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 古明地恋 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>无</td></tr><tr><td class="label">角色</td><td><a href="./古明地恋.md" title="古明地恋">古明地恋</a></td></tr><tr><td class="label">原型师</td><td><a href="/index.php?title=I-con&amp;action=edit&amp;redlink=1" class="new" title="I-con（页面不存在）">I-con</a></td></tr><tr><td class="label">比例</td><td>1/8</td></tr><tr><td class="label">尺寸</td><td>165 mm</td></tr><tr><td class="label">状态</td><td>已发售</td></tr><tr><td class="label">售价</td><td>7200円</td></tr><tr><td class="label">首发日期</td><td>2011-08-31</td></tr><tr><td class="label">发售方</td><td><a href="/index.php?title=GRIFFON&amp;action=edit&amp;redlink=1" class="new" title="GRIFFON（页面不存在）">GRIFFON</a></td></tr><tr><td class="label">再版日期</td><td>2012-06-29</td></tr></tbody></table>
+<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 古明地恋 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>无</td></tr><tr><td class="label">角色</td><td><a href="./古明地恋.md" title="古明地恋">古明地恋</a></td></tr><tr><td class="label">原型师</td><td><a class="new" title="I-con（页面不存在）">I-con</a></td></tr><tr><td class="label">比例</td><td>1/8</td></tr><tr><td class="label">尺寸</td><td>165 mm</td></tr><tr><td class="label">状态</td><td>已发售</td></tr><tr><td class="label">售价</td><td>7200円</td></tr><tr><td class="label">首发日期</td><td>2011-08-31</td></tr><tr><td class="label">发售方</td><td><a class="new" title="GRIFFON（页面不存在）">GRIFFON</a></td></tr><tr><td class="label">再版日期</td><td>2012-06-29</td></tr></tbody></table>
 
 GRIFFON/古明地恋（周边） - 古明地恋PVCFigure手办模型
-
 ## 参考图片
-
-
-
-[](./文件-GRIFFON古明地恋-1.jpg.md)
-
-
-[](./文件-GRIFFON古明地恋-2.jpg.md)
-
-
-[](./文件-GRIFFON古明地恋-3.jpg.md)
-
+<img alt="GRIFFON古明地恋" src="https://upload.thwiki.cc/thumb/0/09/GRIFFON%E5%8F%A4%E6%98%8E%E5%9C%B0%E6%81%8B-1.jpg/160px-GRIFFON%E5%8F%A4%E6%98%8E%E5%9C%B0%E6%81%8B-1.jpg" decoding="async" loading="lazy" width="160" height="240" srcset="https://upload.thwiki.cc/thumb/0/09/GRIFFON%E5%8F%A4%E6%98%8E%E5%9C%B0%E6%81%8B-1.jpg/240px-GRIFFON%E5%8F%A4%E6%98%8E%E5%9C%B0%E6%81%8B-1.jpg 1.5x, https://upload.thwiki.cc/thumb/0/09/GRIFFON%E5%8F%A4%E6%98%8E%E5%9C%B0%E6%81%8B-1.jpg/320px-GRIFFON%E5%8F%A4%E6%98%8E%E5%9C%B0%E6%81%8B-1.jpg 2x" data-file-width="533" data-file-height="800">
+<img alt="GRIFFON古明地恋" src="https://upload.thwiki.cc/thumb/4/48/GRIFFON%E5%8F%A4%E6%98%8E%E5%9C%B0%E6%81%8B-2.jpg/160px-GRIFFON%E5%8F%A4%E6%98%8E%E5%9C%B0%E6%81%8B-2.jpg" decoding="async" loading="lazy" width="160" height="240" srcset="https://upload.thwiki.cc/thumb/4/48/GRIFFON%E5%8F%A4%E6%98%8E%E5%9C%B0%E6%81%8B-2.jpg/240px-GRIFFON%E5%8F%A4%E6%98%8E%E5%9C%B0%E6%81%8B-2.jpg 1.5x, https://upload.thwiki.cc/thumb/4/48/GRIFFON%E5%8F%A4%E6%98%8E%E5%9C%B0%E6%81%8B-2.jpg/320px-GRIFFON%E5%8F%A4%E6%98%8E%E5%9C%B0%E6%81%8B-2.jpg 2x" data-file-width="533" data-file-height="800">
+<img alt="GRIFFON古明地恋" src="https://upload.thwiki.cc/thumb/a/a0/GRIFFON%E5%8F%A4%E6%98%8E%E5%9C%B0%E6%81%8B-3.jpg/160px-GRIFFON%E5%8F%A4%E6%98%8E%E5%9C%B0%E6%81%8B-3.jpg" decoding="async" loading="lazy" width="160" height="240" srcset="https://upload.thwiki.cc/thumb/a/a0/GRIFFON%E5%8F%A4%E6%98%8E%E5%9C%B0%E6%81%8B-3.jpg/240px-GRIFFON%E5%8F%A4%E6%98%8E%E5%9C%B0%E6%81%8B-3.jpg 1.5x, https://upload.thwiki.cc/thumb/a/a0/GRIFFON%E5%8F%A4%E6%98%8E%E5%9C%B0%E6%81%8B-3.jpg/320px-GRIFFON%E5%8F%A4%E6%98%8E%E5%9C%B0%E6%81%8B-3.jpg 2x" data-file-width="533" data-file-height="800">
 公式图
-
-
-
-
-
-
 
 ---
 

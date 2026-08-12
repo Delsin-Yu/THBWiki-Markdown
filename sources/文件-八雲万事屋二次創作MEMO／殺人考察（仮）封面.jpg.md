@@ -1,6 +1,6 @@
 # 文件:八雲万事屋二次創作MEMO／殺人考察（仮）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\08\ns6%3A%E5%85%AB%E9%9B%B2%E4%B8%87%E4%BA%8B%E5%B1%8B%E4%BA%8C%E6%AC%A1%E5%89%B5%E4%BD%9CMEMO%EF%BC%8F%E6%AE%BA%E4%BA%BA%E8%80%83%E5%AF%9F%EF%BC%88%E4%BB%AE%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\08\ns6%3A%E5%85%AB%E9%9B%B2%E4%B8%87%E4%BA%8B%E5%B1%8B%E4%BA%8C%E6%AC%A1%E5%89%B5%E4%BD%9CMEMO%EF%BC%8F%E6%AE%BA%E4%BA%BA%E8%80%83%E5%AF%9F%EF%BC%88%E4%BB%AE%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 松江八云万事屋
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [八雲万事屋二次創作MEMO／殺人考察（仮）](./八雲万事屋二次創作MEMO／殺人考察（仮）.md)  
-该封面包含的角色：- 原创角色 (未找到链接)
-
-
-
+- [八雲万事屋二次創作MEMO／殺人考察（仮）](./八雲万事屋二次創作MEMO／殺人考察（仮）.md)该封面包含的角色：
+- 原创角色 (未找到链接)
 
 
 ---

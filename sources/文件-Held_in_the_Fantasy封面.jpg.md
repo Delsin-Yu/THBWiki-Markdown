@@ -1,6 +1,6 @@
 # 文件:Held_in_the_Fantasy封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\95\ns6%3AHeld_in_the_Fantasy%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\95\ns6%3AHeld_in_the_Fantasy%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 天舞草 | 封面图片
 
@@ -10,16 +10,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [Held in the Fantasy](./Held_in_the_Fantasy.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
+- [Held in the Fantasy](./Held_in_the_Fantasy.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
   
-源地址：[direct image link](http://ukestemari.web.fc2.com/held_in_the_fantasy), [source page](http://ukestemari.web.fc2.com/works.html)
-  
-
-
-
-
+源地址：[direct image link](http://ukestemari.web.fc2.com/held_in_the_fantasy), [source page](http://ukestemari.web.fc2.com/works.html)  
 
 ---
 

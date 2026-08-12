@@ -1,18 +1,13 @@
 # 文件:Nikolaschikabanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\51\ns6%3ANikolaschikabanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\51\ns6%3ANikolaschikabanner%2Ejpg.html -->
 
 Nikolaschika | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[direct image link](https://web.archive.org/web/20120207081925im_/http://www2.117.ne.jp/~kanome/n_bana.jpg), [source page](https://web.archive.org/web/20120117151842/http://www2.117.ne.jp/~kanome/)
-  
-
-
-
-
+源地址：[direct image link](https://web.archive.org/web/20120207081925im_/http://www2.117.ne.jp/~kanome/n_bana.jpg), [source page](https://web.archive.org/web/20120117151842/http://www2.117.ne.jp/~kanome/)  
 
 ---
 

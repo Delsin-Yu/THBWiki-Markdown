@@ -1,6 +1,6 @@
 # 文件:TH0X_Chaos_Trance_Zero_Re：incarnation封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3b\ns6%3ATH0X_Chaos_Trance_Zero_Re%EF%BC%9Aincarnation%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3b\ns6%3ATH0X_Chaos_Trance_Zero_Re%EF%BC%9Aincarnation%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Active_Sounds_Zone | 专辑封面 | 封面图片
 
@@ -11,12 +11,7 @@ Active_Sounds_Zone | 专辑封面 | 封面图片
 - [TH0X Chaos Trance Zero Re：incarnation](./TH0X_Chaos_Trance_Zero_Re：incarnation.md)
 
   
-源地址：[[1]](https://s.booth.pm/624078f7-8062-4ac4-9337-4cee1fb04c7c/i/302744/73136936-37aa-4635-8627-dedac53b7e34.png)
-  
-
-
-
-
+源地址：[\[1\]](https://s.booth.pm/624078f7-8062-4ac4-9337-4cee1fb04c7c/i/302744/73136936-37aa-4635-8627-dedac53b7e34.png)  
 
 ---
 

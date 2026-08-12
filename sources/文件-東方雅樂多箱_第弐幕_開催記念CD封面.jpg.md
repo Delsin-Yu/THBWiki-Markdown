@@ -1,6 +1,6 @@
 # 文件:東方雅樂多箱_第弐幕_開催記念CD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f2\ns6%3A%E6%9D%B1%E6%96%B9%E9%9B%85%E6%A8%82%E5%A4%9A%E7%AE%B1_%E7%AC%AC%E5%BC%90%E5%B9%95_%E9%96%8B%E5%82%AC%E8%A8%98%E5%BF%B5CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f2\ns6%3A%E6%9D%B1%E6%96%B9%E9%9B%85%E6%A8%82%E5%A4%9A%E7%AE%B1_%E7%AC%AC%E5%BC%90%E5%B9%95_%E9%96%8B%E5%82%AC%E8%A8%98%E5%BF%B5CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 荒御灵 | 音召缶
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方雅樂多箱 第弐幕 開催記念CD](./東方雅樂多箱_第弐幕_開催記念CD.md)  
-该封面包含的角色：- [洩矢诹访子](./洩矢诹访子.md)
-
-
-
+- [東方雅樂多箱 第弐幕 開催記念CD](./東方雅樂多箱_第弐幕_開催記念CD.md)该封面包含的角色：
+- [洩矢诹访子](./洩矢诹访子.md)
 
 
 ---

@@ -1,37 +1,19 @@
 # GRIFFON/东方迷你篇/秋穰子
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\23\ns0%3AGRIFFON%2F%E4%B8%9C%E6%96%B9%E8%BF%B7%E4%BD%A0%E7%AF%87%2F%E7%A7%8B%E7%A9%B0%E5%AD%90.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\23\ns0%3AGRIFFON%2F%E4%B8%9C%E6%96%B9%E8%BF%B7%E4%BD%A0%E7%AF%87%2F%E7%A7%8B%E7%A9%B0%E5%AD%90.html -->
 
 秋穰子PVCFigure手办模型
 
 本页是关于东方Project  
- **相关实体周边 (未找到链接)** 的词条
-
+**相关实体周边 (未找到链接)**的词条
 ## 模型信息
 
-<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 秋穰子 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>东方迷你篇</td></tr><tr><td class="label">角色</td><td><a href="./秋穰子.md" title="秋穰子">秋穰子</a></td></tr><tr><td class="label">比例</td><td>1/10</td></tr><tr><td class="label">状态</td><td>未发售</td></tr><tr><td class="label">发售方</td><td><a href="/index.php?title=GRIFFON&amp;action=edit&amp;redlink=1" class="new" title="GRIFFON（页面不存在）">GRIFFON</a></td></tr><tr><td class="label">备注</td><td>发售终止</td></tr></tbody></table>
+<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 秋穰子 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>东方迷你篇</td></tr><tr><td class="label">角色</td><td><a href="./秋穰子.md" title="秋穰子">秋穰子</a></td></tr><tr><td class="label">比例</td><td>1/10</td></tr><tr><td class="label">状态</td><td>未发售</td></tr><tr><td class="label">发售方</td><td><a class="new" title="GRIFFON（页面不存在）">GRIFFON</a></td></tr><tr><td class="label">备注</td><td>发售终止</td></tr></tbody></table>
 
 GRIFFON/东方迷你篇/秋穰子（周边） - 秋穰子PVCFigure手办模型
-
 ## 参考图片
-
-
-
-[](./文件-GRIFFON东方迷你篇秋穰子-1.jpg.md)
-
-
-文件:GRIFFON东方迷你篇秋穰子-2.jpg (未找到链接)
-
-
-文件:GRIFFON东方迷你篇秋穰子-3.jpg (未找到链接)
-
-公式图
-
-
-
-
-
-
+<img alt="GRIFFON东方迷你篇秋穰子" src="https://upload.thwiki.cc/thumb/a/a5/GRIFFON%E4%B8%9C%E6%96%B9%E8%BF%B7%E4%BD%A0%E7%AF%87%E7%A7%8B%E7%A9%B0%E5%AD%90-1.jpg/160px-GRIFFON%E4%B8%9C%E6%96%B9%E8%BF%B7%E4%BD%A0%E7%AF%87%E7%A7%8B%E7%A9%B0%E5%AD%90-1.jpg" decoding="async" loading="lazy" width="160" height="240" srcset="https://upload.thwiki.cc/thumb/a/a5/GRIFFON%E4%B8%9C%E6%96%B9%E8%BF%B7%E4%BD%A0%E7%AF%87%E7%A7%8B%E7%A9%B0%E5%AD%90-1.jpg/240px-GRIFFON%E4%B8%9C%E6%96%B9%E8%BF%B7%E4%BD%A0%E7%AF%87%E7%A7%8B%E7%A9%B0%E5%AD%90-1.jpg 1.5x, https://upload.thwiki.cc/thumb/a/a5/GRIFFON%E4%B8%9C%E6%96%B9%E8%BF%B7%E4%BD%A0%E7%AF%87%E7%A7%8B%E7%A9%B0%E5%AD%90-1.jpg/320px-GRIFFON%E4%B8%9C%E6%96%B9%E8%BF%B7%E4%BD%A0%E7%AF%87%E7%A7%8B%E7%A9%B0%E5%AD%90-1.jpg 2x" data-file-width="480" data-file-height="720">
+文件:GRIFFON东方迷你篇秋穰子-2.jpg (未找到链接)文件:GRIFFON东方迷你篇秋穰子-3.jpg (未找到链接)公式图
 
 ---
 

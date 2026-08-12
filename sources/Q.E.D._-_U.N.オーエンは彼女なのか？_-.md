@@ -1,12 +1,11 @@
 # Q.E.D._-_U.N.オーエンは彼女なのか？_-
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\69\ns0%3AQ%2EE%2ED%2E_-_U%2EN%2E%E3%82%AA%E3%83%BC%E3%82%A8%E3%83%B3%E3%81%AF%E5%BD%BC%E5%A5%B3%E3%81%AA%E3%81%AE%E3%81%8B%EF%BC%9F_-.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\69\ns0%3AQ%2EE%2ED%2E_-_U%2EN%2E%E3%82%AA%E3%83%BC%E3%82%A8%E3%83%B3%E3%81%AF%E5%BD%BC%E5%A5%B3%E3%81%AA%E3%81%AE%E3%81%8B%EF%BC%9F_-.html -->
 
 2023年5月1日 由 mondorium  发布的单曲同人专辑，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人专辑 (未找到链接)** 的词条
-
+**[二次创作同人专辑](./二次创作.md#同人音乐)**的词条
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Q.E.D._-_U.N.オーエンは彼女なのか？_-封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/7/71/Q.E.D._-_U.N.%E3%82%AA%E3%83%BC%E3%82%A8%E3%83%B3%E3%81%AF%E5%BD%BC%E5%A5%B3%E3%81%AA%E3%81%AE%E3%81%8B%EF%BC%9F_-%E5%B0%81%E9%9D%A2.png/196px-Q.E.D._-_U.N.%E3%82%AA%E3%83%BC%E3%82%A8%E3%83%B3%E3%81%AF%E5%BD%BC%E5%A5%B3%E3%81%AA%E3%81%AE%E3%81%8B%EF%BC%9F_-%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="196" height="196" srcset="https://upload.thwiki.cc/thumb/7/71/Q.E.D._-_U.N.%E3%82%AA%E3%83%BC%E3%82%A8%E3%83%B3%E3%81%AF%E5%BD%BC%E5%A5%B3%E3%81%AA%E3%81%AE%E3%81%8B%EF%BC%9F_-%E5%B0%81%E9%9D%A2.png/294px-Q.E.D._-_U.N.%E3%82%AA%E3%83%BC%E3%82%A8%E3%83%B3%E3%81%AF%E5%BD%BC%E5%A5%B3%E3%81%AA%E3%81%AE%E3%81%8B%EF%BC%9F_-%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/7/71/Q.E.D._-_U.N.%E3%82%AA%E3%83%BC%E3%82%A8%E3%83%B3%E3%81%AF%E5%BD%BC%E5%A5%B3%E3%81%AA%E3%81%AE%E3%81%8B%EF%BC%9F_-%E5%B0%81%E9%9D%A2.png/392px-Q.E.D._-_U.N.%E3%82%AA%E3%83%BC%E3%82%A8%E3%83%B3%E3%81%AF%E5%BD%BC%E5%A5%B3%E3%81%AA%E3%81%AE%E3%81%8B%EF%BC%9F_-%E5%B0%81%E9%9D%A2.png 2x" data-file-width="2400" data-file-height="2400"></a><div class="cover-char">角色：<a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰朵露·斯卡蕾特</a></div></td>
@@ -14,21 +13,17 @@
 </tr><tr><td class="label">首发日期</td><td>2023-05-01</td></tr><tr><td class="label">类型</td><td>单曲</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>1</td></tr><tr><td class="label">总时长</td><td>03:16</td></tr></tbody></table>
 
 Q.E.D. - U.N.オーエンは彼女なのか？ -（同人专辑，mondorium，2023） - 2023年5月1日 由 mondorium  发布的单曲同人专辑，分级为 一般向
-
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://mondorium.booth.pm/items/4801138">BoothDL</a></td></tr></tbody></table>
-
 
 
 ## Staff
   
- **Arrangement**   
+**Arrangement**  
 
 <table><tbody><tr><td><a href="./Elle.md" title="Elle">Elle</a></td><td></td><td>Tr.1</td></tr></tbody></table>
 
-
 Illustration
 : スズシロ
-
 
 ## 试听
 
@@ -42,17 +37,12 @@ Illustration
 </td></tr></tbody></table>
 
 
-
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Q.E.D" colspan="2" class="title">Q.E.D<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Elle&amp;ogmusic=U.N.オーエンは彼女なのか？&amp;fromwiki=Q.E.D._-_U.N.オーエンは彼女なのか？_-"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:16</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Elle.md" title="Elle">Elle</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Elle&amp;fromwiki=Q.E.D._-_U.N.オーエンは彼女なのか？_-"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=U.N.オーエンは彼女なのか？&amp;fromwiki=Q.E.D._-_U.N.オーエンは彼女なのか？_-"><span></span></a></span><div class="ogmusic"><a href="./U.N.オーエンは彼女なのか？.md" class="mw-redirect" title="U.N.オーエンは彼女なのか？">U.N.オーエンは彼女なのか？</a></div><div class="source"><a href="./东方红魔乡_～_the_Embodiment_of_Scarlet_Devil..md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr></tbody></table>
-
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Q.E.D" colspan="2" class="title">Q.E.D</td><td class="time">03:16</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Elle.md" title="Elle">Elle</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./U.N.OWEN就是她吗？.md" class="mw-redirect" title="U.N.オーエンは彼女なのか？">U.N.オーエンは彼女なのか？</a></div><div class="source"><a href="./东方红魔乡.md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr></tbody></table>
 
 
 ## 评论
-
-
-
 
 ---
 

@@ -1,56 +1,40 @@
 # K1-Style_C81
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\3\33\ns0%3AK1-Style_C81.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\3\33\ns0%3AK1-Style_C81.html -->
 
 2011年12月30日 由 K1-Style 于 Comic Market 81 发布的Omake同人专辑，曲目主要风格是 Rock，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人专辑 (未找到链接)** 的词条
-
+**[二次创作同人专辑](./二次创作.md#同人音乐)**的词条
 ## 专辑信息
 
-<table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=K1-Style_C81%E5%B0%81%E9%9D%A2.jpg" class="new" title="文件:K1-Style C81封面.jpg">封面图片</a></td>
-</tr><tr><td class="label">名称</td><td colspan="2"> K1-Style C81 </td></tr><tr><td class="label">制作方</td><td><a href="./K1-Style.md" title="K1-Style">K1-Style</a></td><td class="cover-artwork" rowspan="9" style="min-width:252px;"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=K1-Style_C81%E5%B0%81%E9%9D%A2.jpg" class="new" title="文件:K1-Style C81封面.jpg">封面图片</a></td>
-</tr><tr><td class="label">首发日期</td><td>2011-12-30&#160;（<a href="/展会作品列表?e=Comic+Market%2381">Comic Market 81</a>）</td></tr><tr><td class="label">类型</td><td>Omake</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>2</td></tr><tr><td class="label">总时长</td><td>00:00</td></tr><tr><td class="label">风格类型</td><td>Rock</td></tr><tr><td class="label">售价</td><td>会场售价：免费</td></tr>
+<table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a class="new" title="文件:K1-Style C81封面.jpg">封面图片</a></td>
+</tr><tr><td class="label">名称</td><td colspan="2"> K1-Style C81 </td></tr><tr><td class="label">制作方</td><td><a href="./K1-Style.md" title="K1-Style">K1-Style</a></td><td class="cover-artwork" rowspan="9" style="min-width:252px;"><a class="new" title="文件:K1-Style C81封面.jpg">封面图片</a></td>
+</tr><tr><td class="label">首发日期</td><td>2011-12-30 （<a href="./展会作品列表.md#81">Comic Market 81</a>）</td></tr><tr><td class="label">类型</td><td>Omake</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>2</td></tr><tr><td class="label">总时长</td><td>00:00</td></tr><tr><td class="label">风格类型</td><td>Rock</td></tr><tr><td class="label">售价</td><td>会场售价：免费</td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://k1-style.net/2011/12/c81_notice/">https://k1-style.net/2011/12/c81_notice/</a></td></tr></tbody></table>
 
 K1-Style C81（同人专辑，K1-Style，2011） - 2011年12月30日 由 K1-Style 于 Comic Market 81 发布的Omake同人专辑，曲目主要风格是 Rock，分级为 一般向
-
 ## Staff
   
- **Compose**   
+**Compose**  
 
-<table><tbody><tr><td><a href="/index.php?title=K1&amp;action=edit&amp;redlink=1" class="new" title="K1（页面不存在）">K1</a></td><td></td><td>Tr.1</td></tr></tbody></table>
+<table><tbody><tr><td><a class="new" title="K1（页面不存在）">K1</a></td><td></td><td>Tr.1</td></tr></tbody></table>
 
   
- **Arrangement**   
+**Arrangement**  
 
-<table><tbody><tr><td><a href="/index.php?title=K1&amp;action=edit&amp;redlink=1" class="new" title="K1（页面不存在）">K1</a></td><td></td><td>Tr.2</td></tr></tbody></table>
-
+<table><tbody><tr><td><a class="new" title="K1（页面不存在）">K1</a></td><td></td><td>Tr.2</td></tr></tbody></table>
 
 
 ## 试听
-  
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/10941484&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=false"></iframe>
-
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/31960110&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=false"></iframe>
-
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/10121828&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=false"></iframe>
-
-  
-
 
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYL"><b>01</b></td><td id="???" colspan="2" class="title">???<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=K1&amp;fromwiki=K1-Style_C81"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=K1&amp;action=edit&amp;redlink=1" class="new" title="K1（页面不存在）">K1</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，K1&amp;fromwiki=K1-Style_C81"><span></span></a></span></td></tr>
-<tr><td id="2" class="infoYD"><b>02</b></td><td id="???" colspan="2" class="title">???<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=K1&amp;ogmusic=恋色マスタースパーク，オリエンタルダークフライト&amp;fromwiki=K1-Style_C81"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=K1&amp;action=edit&amp;redlink=1" class="new" title="K1（页面不存在）">K1</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，K1&amp;fromwiki=K1-Style_C81"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=恋色マスタースパーク，オリエンタルダークフライト&amp;fromwiki=K1-Style_C81"><span></span></a></span><div class="ogmusic"><a href="./恋色マスタースパーク.md" class="mw-redirect" title="恋色マスタースパーク">恋色マスタースパーク</a></div><div class="source"><a href="./东方永夜抄_～_Imperishable_Night..md" class="mw-redirect" title="东方永夜抄 ～ Imperishable Night.">东方永夜抄　～ Imperishable Night.</a></div><hr><div class="ogmusic"><a href="./オリエンタルダークフライト.md" class="mw-redirect" title="オリエンタルダークフライト">オリエンタルダークフライト</a></div><div class="source"><a href="./东方花映塚_～_Phantasmagoria_of_Flower_View..md" class="mw-redirect" title="东方花映塚 ～ Phantasmagoria of Flower View.">东方花映塚　～ Phantasmagoria of Flower View.</a></div></td></tr></tbody></table>
-
+<table><tbody><tr><td id="1" class="infoYL"><b>01</b></td><td id="???" colspan="2" class="title">???</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a class="new" title="K1（页面不存在）">K1</a></td></tr>
+<tr><td id="2" class="infoYD"><b>02</b></td><td id="???" colspan="2" class="title">???</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="K1（页面不存在）">K1</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./恋色Magic.md" class="mw-redirect" title="恋色マスタースパーク">恋色マスタースパーク</a></div><div class="source"><a href="./东方永夜抄.md" class="mw-redirect" title="东方永夜抄 ～ Imperishable Night.">东方永夜抄　～ Imperishable Night.</a></div><hr><div class="ogmusic"><a href="./Oriental_Dark_Flight.md" class="mw-redirect" title="オリエンタルダークフライト">オリエンタルダークフライト</a></div><div class="source"><a href="./东方花映塚.md" class="mw-redirect" title="东方花映塚 ～ Phantasmagoria of Flower View.">东方花映塚　～ Phantasmagoria of Flower View.</a></div></td></tr></tbody></table>
 
 
 ## 评论
-
-
-
 
 ---
 

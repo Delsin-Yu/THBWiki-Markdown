@@ -1,6 +1,6 @@
 # 文件:Devote_Strikers!!_Zwei封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\40\ns6%3ADevote_Strikers%21%21_Zwei%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\40\ns6%3ADevote_Strikers%21%21_Zwei%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 セブンスヘブンMAXION | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Devote Strikers!! Zwei](./Devote_Strikers!!_Zwei.md)  
-该封面包含的角色：- [小野塚小町](./小野塚小町.md)
-
-
-
+- [Devote Strikers!! Zwei](./Devote_Strikers!!_Zwei.md)该封面包含的角色：
+- [小野塚小町](./小野塚小町.md)
 
 
 ---

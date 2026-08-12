@@ -1,6 +1,6 @@
 # 文件:未来伝文～time_capsule～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\70\ns6%3A%E6%9C%AA%E6%9D%A5%E4%BC%9D%E6%96%87%EF%BD%9Etime_capsule%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\70\ns6%3A%E6%9C%AA%E6%9D%A5%E4%BC%9D%E6%96%87%EF%BD%9Etime_capsule%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 MEMENT_MORI | 同人志封面 | 封面图片
 
@@ -10,11 +10,9 @@ MEMENT_MORI | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [未来伝文～time capsule～](./未来伝文～time_capsule～.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [未来伝文～time capsule～](./未来伝文～time_capsule～.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

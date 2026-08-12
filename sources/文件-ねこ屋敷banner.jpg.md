@@ -1,14 +1,11 @@
 # 文件:ねこ屋敷banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\50\ns6%3A%E3%81%AD%E3%81%93%E5%B1%8B%E6%95%B7banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\50\ns6%3A%E3%81%AD%E3%81%93%E5%B1%8B%E6%95%B7banner%2Ejpg.html -->
 
 ねこ屋敷 | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

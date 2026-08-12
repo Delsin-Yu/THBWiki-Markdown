@@ -1,6 +1,6 @@
 # 文件:RRRRR_VS_ZUN封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\be\ns6%3ARRRRR_VS_ZUN%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\be\ns6%3ARRRRR_VS_ZUN%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 RRRRRecords | 专辑封面 | 封面图片
 
@@ -10,16 +10,12 @@ RRRRRecords | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [RRRRR VS ZUN](./RRRRR_VS_ZUN.md)  
-该封面包含的角色：- 原创角色 (未找到链接)- [ZUN](./ZUN.md)
+- [RRRRR VS ZUN](./RRRRR_VS_ZUN.md)该封面包含的角色：
+- 原创角色 (未找到链接)
+- [ZUN](./ZUN.md)
 
   
-源地址：[direct image link (10 size)](https://f4.bcbits.com/img/a3123906355_10.jpg), [source page (artist Bandcamp)](https://rrrrrecords.bandcamp.com/album/rrrrr-vs-zun)
-  
-
-
-
-
+源地址：[direct image link (10 size)](https://f4.bcbits.com/img/a3123906355_10.jpg), [source page (artist Bandcamp)](https://rrrrrecords.bandcamp.com/album/rrrrr-vs-zun)  
 
 ---
 

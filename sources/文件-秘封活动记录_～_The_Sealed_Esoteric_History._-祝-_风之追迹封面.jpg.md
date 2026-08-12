@@ -1,6 +1,6 @@
 # 文件:秘封活动记录_～_The_Sealed_Esoteric_History._-祝-_风之追迹封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7c\ns6%3A%E7%A7%98%E5%B0%81%E6%B4%BB%E5%8A%A8%E8%AE%B0%E5%BD%95_%EF%BD%9E_The_Sealed_Esoteric_History%2E_-%E7%A5%9D-_%E9%A3%8E%E4%B9%8B%E8%BF%BD%E8%BF%B9%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7c\ns6%3A%E7%A7%98%E5%B0%81%E6%B4%BB%E5%8A%A8%E8%AE%B0%E5%BD%95_%EF%BD%9E_The_Sealed_Esoteric_History%2E_-%E7%A5%9D-_%E9%A3%8E%E4%B9%8B%E8%BF%BD%E8%BF%B9%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 京都幻想剧团 | 同人志封面 | 封面图片
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [秘封活动记录 ～ The Sealed Esoteric History. -祝- 风之追迹](./秘封活动记录_～_The_Sealed_Esoteric_History._-祝-_风之追迹.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [秘封活动记录 ～ The Sealed Esoteric History. -祝- 风之追迹](./秘封活动记录_～_The_Sealed_Esoteric_History._-祝-_风之追迹.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

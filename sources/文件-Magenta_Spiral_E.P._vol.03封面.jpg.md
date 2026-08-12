@@ -1,6 +1,6 @@
 # 文件:Magenta_Spiral_E.P._vol.03封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\38\ns6%3AMagenta_Spiral_E%2EP%2E_vol%2E03%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\38\ns6%3AMagenta_Spiral_E%2EP%2E_vol%2E03%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 MagentaSpiral | 专辑封面 | 封面图片
 
@@ -8,16 +8,12 @@ MagentaSpiral | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Magenta Spiral E.P. vol.03](./Magenta_Spiral_E.P._vol.03.md)  
-该封面包含的角色：- [云居一轮](./云居一轮.md)- [云山](./云山.md)
+- [Magenta Spiral E.P. vol.03](./Magenta_Spiral_E.P._vol.03.md)该封面包含的角色：
+- [云居一轮](./云居一轮.md)
+- [云山](./云山.md)
 
   
-源地址：[[1]](https://i1.sndcdn.com/artworks-000161610236-monyu2-t500x500.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://i1.sndcdn.com/artworks-000161610236-monyu2-t500x500.jpg)  
 
 ---
 

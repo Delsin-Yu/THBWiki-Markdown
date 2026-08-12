@@ -1,6 +1,6 @@
 # 文件:Vow_Gate／厄神ちゃんの祈り封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0f\ns6%3AVow_Gate%EF%BC%8F%E5%8E%84%E7%A5%9E%E3%81%A1%E3%82%83%E3%82%93%E3%81%AE%E7%A5%88%E3%82%8A%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0f\ns6%3AVow_Gate%EF%BC%8F%E5%8E%84%E7%A5%9E%E3%81%A1%E3%82%83%E3%82%93%E3%81%AE%E7%A5%88%E3%82%8A%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 サイハテ堂 | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Vow Gate／厄神ちゃんの祈り](./Vow_Gate／厄神ちゃんの祈り.md)  
-该封面包含的角色：- [红美铃](./红美铃.md)
-
-
-
+- [Vow Gate／厄神ちゃんの祈り](./Vow_Gate／厄神ちゃんの祈り.md)该封面包含的角色：
+- [红美铃](./红美铃.md)
 
 
 ---

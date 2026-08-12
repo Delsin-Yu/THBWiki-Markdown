@@ -1,6 +1,6 @@
 # 文件:奏転生-Sana_reincarnation封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cf\ns6%3A%E5%A5%8F%E8%BB%A2%E7%94%9F-Sana_reincarnation%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cf\ns6%3A%E5%A5%8F%E8%BB%A2%E7%94%9F-Sana_reincarnation%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 フローラル鍵盤部 | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [奏転生-Sana reincarnation](./奏転生-Sana_reincarnation.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [奏転生-Sana reincarnation](./奏転生-Sana_reincarnation.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

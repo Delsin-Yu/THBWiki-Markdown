@@ -1,6 +1,6 @@
 # 文件:东方博丽莊_~_The_bizarre_apartment_~封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2b\ns6%3A%E4%B8%9C%E6%96%B9%E5%8D%9A%E4%B8%BD%E8%8E%8A_%7E_The_bizarre_apartment_%7E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2b\ns6%3A%E4%B8%9C%E6%96%B9%E5%8D%9A%E4%B8%BD%E8%8E%8A_%7E_The_bizarre_apartment_%7E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 弐維鏡像
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [东方博丽莊 ~ The bizarre apartment ~](./东方博丽莊_~_The_bizarre_apartment_~.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [东方博丽莊 ~ The bizarre apartment ~](./东方博丽莊_~_The_bizarre_apartment_~.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

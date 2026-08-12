@@ -1,6 +1,6 @@
 # 文件:Rabbit_Eye_Movement封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\90\ns6%3ARabbit_Eye_Movement%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\90\ns6%3ARabbit_Eye_Movement%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Red_Bullet_Sequence | 专辑封面 | 封面图片
 
@@ -8,16 +8,13 @@ Red_Bullet_Sequence | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Rabbit Eye Movement](./Rabbit_Eye_Movement.md)  
-该封面包含的角色：- [因幡帝](./因幡帝.md)- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)- [八意永琳](./八意永琳.md)
+- [Rabbit Eye Movement](./Rabbit_Eye_Movement.md)该封面包含的角色：
+- [因幡帝](./因幡帝.md)
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
+- [八意永琳](./八意永琳.md)
 
   
-源地址：[[1]](https://rbsrem.tumblr.com/)
-  
-
-
-
-
+源地址：[\[1\]](https://rbsrem.tumblr.com/)  
 
 ---
 

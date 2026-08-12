@@ -1,6 +1,6 @@
 # 文件:NUABE_a_GOGO封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cc\ns6%3ANUABE_a_GOGO%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cc\ns6%3ANUABE_a_GOGO%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 鯖味粗
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [NUABE a GOGO](./NUABE_a_GOGO.md)  
-该封面包含的角色：- [封兽鵺](./封兽鵺.md)
-
-
-
+- [NUABE a GOGO](./NUABE_a_GOGO.md)该封面包含的角色：
+- [封兽鵺](./封兽鵺.md)
 
 
 ---

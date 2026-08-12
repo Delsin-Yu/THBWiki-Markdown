@@ -1,18 +1,13 @@
 # 文件:DragonTree_MusicTroopslogo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\68\ns6%3ADragonTree_MusicTroopslogo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\68\ns6%3ADragonTree_MusicTroopslogo%2Epng.html -->
 
 DragonTree_MusicTroops | 社团LOGO
 
 
 ## 摘要
   
-源地址：[direct image link (cropped from original)](https://web.archive.org/web/20130131160330im_/http://dragontree.sakura.ne.jp/gemini/image/dtmttop.gif), [source page](https://web.archive.org/web/20100504013535/http://dragontree.sakura.ne.jp/gemini/top.html)
-  
-
-
-
-
+源地址：[direct image link (cropped from original)](https://web.archive.org/web/20130131160330im_/http://dragontree.sakura.ne.jp/gemini/image/dtmttop.gif), [source page](https://web.archive.org/web/20100504013535/http://dragontree.sakura.ne.jp/gemini/top.html)  
 
 ---
 

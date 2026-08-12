@@ -1,12 +1,8 @@
 # 文件:そらひま_banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cf\ns6%3A%E3%81%9D%E3%82%89%E3%81%B2%E3%81%BE_banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cf\ns6%3A%E3%81%9D%E3%82%89%E3%81%B2%E3%81%BE_banner%2Egif.html -->
 
 そらひま | 社团LOGO
-
-
-
-
 
 
 ---

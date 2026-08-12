@@ -1,6 +1,6 @@
 # 文件:幻想郷の交響楽団_vol.2封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c9\ns6%3A%E5%B9%BB%E6%83%B3%E9%83%B7%E3%81%AE%E4%BA%A4%E9%9F%BF%E6%A5%BD%E5%9B%A3_vol%2E2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c9\ns6%3A%E5%B9%BB%E6%83%B3%E9%83%B7%E3%81%AE%E4%BA%A4%E9%9F%BF%E6%A5%BD%E5%9B%A3_vol%2E2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 JAGMO | 专辑封面 | 封面图片
 
@@ -10,11 +10,10 @@ JAGMO | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [幻想郷の交響楽団 vol.2](./幻想郷の交響楽団_vol.2.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [洩矢诹访子](./洩矢诹访子.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [幻想郷の交響楽団 vol.2](./幻想郷の交響楽団_vol.2.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [洩矢诹访子](./洩矢诹访子.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

@@ -1,14 +1,11 @@
 # 文件:The_Grimoire_of_Usami（星熊勇仪1）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\98\ns6%3AThe_Grimoire_of_Usami%EF%BC%88%E6%98%9F%E7%86%8A%E5%8B%87%E4%BB%AA1%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\98\ns6%3AThe_Grimoire_of_Usami%EF%BC%88%E6%98%9F%E7%86%8A%E5%8B%87%E4%BB%AA1%EF%BC%89%2Ejpg.html -->
 
 宇佐见的魔法书 | 星熊勇仪
 
 
 ## 摘要
-
-
-
 
 ---
 

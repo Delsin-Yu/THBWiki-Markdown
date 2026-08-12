@@ -1,12 +1,11 @@
 # Nostalgic_Chiptune_183
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\1\12\ns0%3ANostalgic_Chiptune_183.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\1\12\ns0%3ANostalgic_Chiptune_183.html -->
 
 2023年1月18日 由 Asilee Sound Group  发布的EP同人专辑，曲目主要风格是 游戏音乐、Rock，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人专辑 (未找到链接)** 的词条
-
+**[二次创作同人专辑](./二次创作.md#同人音乐)**的词条
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Nostalgic_Chiptune_183封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/3/3d/Nostalgic_Chiptune_183%E5%B0%81%E9%9D%A2.jpg/252px-Nostalgic_Chiptune_183%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="252" height="250" srcset="https://upload.thwiki.cc/thumb/3/3d/Nostalgic_Chiptune_183%E5%B0%81%E9%9D%A2.jpg/378px-Nostalgic_Chiptune_183%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/3/3d/Nostalgic_Chiptune_183%E5%B0%81%E9%9D%A2.jpg/504px-Nostalgic_Chiptune_183%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1200" data-file-height="1192"></a><div class="cover-char">角色：<a href="./米斯蒂娅·萝蕾拉.md" title="米斯蒂娅·萝蕾拉">米斯蒂娅·萝蕾拉</a></div></td>
@@ -15,21 +14,17 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://asi14.bandcamp.com/album/nostalgic-chiptune-183">https://asi14.bandcamp.com/album/nostalgic-chiptune-183</a></td></tr></tbody></table>
 
 Nostalgic Chiptune 183（同人专辑，Asilee Sound Group，2023） - 2023年1月18日 由 Asilee Sound Group  发布的EP同人专辑，曲目主要风格是 游戏音乐、Rock，分级为 一般向
-
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://asi14.bandcamp.com/album/nostalgic-chiptune-183">bandcamp</a></td></tr></tbody></table>
-
 
 
 ## Staff
   
- **Arrangement**   
+**Arrangement**  
 
-<table><tbody><tr><td><a href="/index.php?title=asi14&amp;action=edit&amp;redlink=1" class="new" title="asi14（页面不存在）">asi14</a></td><td><a href="./Asilee_Sound_Group.md" title="Asilee Sound Group">Asilee Sound Group</a></td><td>Tr.1-3</td></tr><tr><td><a href="./徒桜.md" title="徒桜">徒桜</a></td><td><a href="./Reset_All_Controllers.md" title="Reset All Controllers">Reset All Controllers</a></td><td>Tr.2</td></tr><tr><td><a href="/index.php?title=kujiratr&amp;action=edit&amp;redlink=1" class="new" title="kujiratr（页面不存在）">kujiratr</a></td><td><a rel="nofollow" class="external text" href="https://www.youtube.com/@kujiratr">Youtube: @kujiratr</a></td><td>Tr.3</td></tr></tbody></table>
-
+<table><tbody><tr><td><a class="new" title="asi14（页面不存在）">asi14</a></td><td><a href="./Asilee_Sound_Group.md" title="Asilee Sound Group">Asilee Sound Group</a></td><td>Tr.1-3</td></tr><tr><td><a href="./徒桜.md" title="徒桜">徒桜</a></td><td><a href="./Reset_All_Controllers.md" title="Reset All Controllers">Reset All Controllers</a></td><td>Tr.2</td></tr><tr><td><a class="new" title="kujiratr（页面不存在）">kujiratr</a></td><td><a rel="nofollow" class="external text" href="https://www.youtube.com/@kujiratr">Youtube: @kujiratr</a></td><td>Tr.3</td></tr></tbody></table>
 
 Illustration
 : 猫間ことみつ （[猫間家](http://park10.wakwak.com/~nekoma/) / ねこま屋。 (未找到链接)）
-
 
 ## 试听
 
@@ -43,19 +38,14 @@ Illustration
 </td></tr></tbody></table>
 
 
-
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Untitled_Evening_Passeridae" colspan="2" class="title">Untitled Evening Passeridae<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=asi14&amp;ogmusic=夜雀の歌声　～ Night Bird&amp;fromwiki=Nostalgic_Chiptune_183"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:27</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=asi14&amp;action=edit&amp;redlink=1" class="new" title="asi14（页面不存在）">asi14</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，asi14&amp;fromwiki=Nostalgic_Chiptune_183"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=夜雀の歌声　～ Night Bird&amp;fromwiki=Nostalgic_Chiptune_183"><span></span></a></span><div class="ogmusic"><a href="./夜雀の歌声_～_Night_Bird.md" class="mw-redirect" title="夜雀の歌声 ～ Night Bird">夜雀の歌声　～ Night Bird</a></div><div class="source"><a href="./东方永夜抄_～_Imperishable_Night..md" class="mw-redirect" title="东方永夜抄 ～ Imperishable Night.">东方永夜抄　～ Imperishable Night.</a></div></td></tr>
-<tr><td id="2" class="infoO"><b>02</b></td><td id="Vessel_of_Star_~_Casket_of_Star_(Hisou_Ver.)" colspan="2" class="title">Vessel of Star ~ Casket of Star (Hisou Ver.)<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=徒桜，asi14&amp;ogmusic=星の器　～ Casket of Star&amp;fromwiki=Nostalgic_Chiptune_183"><span title="搜索相似同人曲"></span></a></span></td><td class="time">02:56</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./徒桜.md" title="徒桜">徒桜</a>（MIDI transcription）<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，徒桜&amp;fromwiki=Nostalgic_Chiptune_183"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">再编曲</td><td class="text" colspan="2"><a href="/index.php?title=asi14&amp;action=edit&amp;redlink=1" class="new" title="asi14（页面不存在）">asi14</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=asi14&amp;fromwiki=Nostalgic_Chiptune_183"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=星の器　～ Casket of Star&amp;fromwiki=Nostalgic_Chiptune_183"><span></span></a></span><div class="ogmusic"><a href="./星の器_～_Casket_of_Star.md" class="mw-redirect" title="星の器 ～ Casket of Star">星の器　～ Casket of Star</a></div><div class="source"><a href="./东方幻想乡_～_Lotus_Land_Story..md" class="mw-redirect" title="东方幻想乡 ～ Lotus Land Story.">东方幻想乡　～ Lotus Land Story.</a></div></td></tr>
-<tr><td id="3" class="infoO"><b>03</b></td><td id="Nightmare_Diary_(Week_Three)" colspan="2" class="title">Nightmare Diary (Week Three)<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=kujiratr，asi14&amp;ogmusic=ナイトメアダイアリー&amp;fromwiki=Nostalgic_Chiptune_183"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:42</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=kujiratr&amp;action=edit&amp;redlink=1" class="new" title="kujiratr（页面不存在）">kujiratr</a>（MIDI transcription）<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，kujiratr&amp;fromwiki=Nostalgic_Chiptune_183"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">再编曲</td><td class="text" colspan="2"><a href="/index.php?title=asi14&amp;action=edit&amp;redlink=1" class="new" title="asi14（页面不存在）">asi14</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=asi14&amp;fromwiki=Nostalgic_Chiptune_183"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=ナイトメアダイアリー&amp;fromwiki=Nostalgic_Chiptune_183"><span></span></a></span><div class="ogmusic"><a href="./ナイトメアダイアリー.md" class="mw-redirect" title="ナイトメアダイアリー">ナイトメアダイアリー</a></div><div class="source"><a href="./秘封噩梦日记_～_Violet_Detector..md" class="mw-redirect" title="秘封噩梦日记 ～ Violet Detector.">秘封噩梦日记　～ Violet Detector.</a></div></td></tr></tbody></table>
-
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Untitled_Evening_Passeridae" colspan="2" class="title">Untitled Evening Passeridae</td><td class="time">03:27</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="asi14（页面不存在）">asi14</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./夜雀的歌声_～_Night_Bird.md" class="mw-redirect" title="夜雀の歌声 ～ Night Bird">夜雀の歌声　～ Night Bird</a></div><div class="source"><a href="./东方永夜抄.md" class="mw-redirect" title="东方永夜抄 ～ Imperishable Night.">东方永夜抄　～ Imperishable Night.</a></div></td></tr>
+<tr><td id="2" class="infoO"><b>02</b></td><td id="Vessel_of_Star_~_Casket_of_Star_(Hisou_Ver.)" colspan="2" class="title">Vessel of Star ~ Casket of Star (Hisou Ver.)</td><td class="time">02:56</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./徒桜.md" title="徒桜">徒桜</a>（MIDI transcription）</td></tr><tr><td class="left"></td><td class="label">再编曲</td><td class="text" colspan="2"><a class="new" title="asi14（页面不存在）">asi14</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./星之器_～_Casket_of_Star.md" class="mw-redirect" title="星の器 ～ Casket of Star">星の器　～ Casket of Star</a></div><div class="source"><a href="./东方幻想乡.md" class="mw-redirect" title="东方幻想乡 ～ Lotus Land Story.">东方幻想乡　～ Lotus Land Story.</a></div></td></tr>
+<tr><td id="3" class="infoO"><b>03</b></td><td id="Nightmare_Diary_(Week_Three)" colspan="2" class="title">Nightmare Diary (Week Three)</td><td class="time">04:42</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="kujiratr（页面不存在）">kujiratr</a>（MIDI transcription）</td></tr><tr><td class="left"></td><td class="label">再编曲</td><td class="text" colspan="2"><a class="new" title="asi14（页面不存在）">asi14</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./Nightmare_Diary.md" class="mw-redirect" title="ナイトメアダイアリー">ナイトメアダイアリー</a></div><div class="source"><a href="./秘封噩梦日记.md" class="mw-redirect" title="秘封噩梦日记 ～ Violet Detector.">秘封噩梦日记　～ Violet Detector.</a></div></td></tr></tbody></table>
 
 
 ## 评论
-
-
-
 
 ---
 

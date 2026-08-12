@@ -1,16 +1,11 @@
 # 文件:Unprepared_Orchestrabanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\11\ns6%3AUnprepared_Orchestrabanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\11\ns6%3AUnprepared_Orchestrabanner%2Egif.html -->
 
 Unprepared_Orchestra | 社团LOGO
 
   
-源地址：[[1]](http://unpp.iza-yoi.net/image/banner.gif)
-  
-
-
-
-
+源地址：[\[1\]](http://unpp.iza-yoi.net/image/banner.gif)  
 
 ---
 

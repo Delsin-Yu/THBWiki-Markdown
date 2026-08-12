@@ -1,6 +1,6 @@
 # 文件:BIRTH_IN_DAWN封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\09\ns6%3ABIRTH_IN_DAWN%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\09\ns6%3ABIRTH_IN_DAWN%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 ZYTOKINE | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ ZYTOKINE | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [BIRTH IN DAWN](./BIRTH_IN_DAWN.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [BIRTH IN DAWN](./BIRTH_IN_DAWN.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:POP｜CULTURE_3封面.JPG
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7d\ns6%3APOP%EF%BD%9CCULTURE_3%E5%B0%81%E9%9D%A2%2EJPG.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7d\ns6%3APOP%EF%BD%9CCULTURE_3%E5%B0%81%E9%9D%A2%2EJPG.html -->
 
 Alstroemeria_Records | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Alstroemeria_Records | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [POP｜CULTURE 3](./POP｜CULTURE_3.md)  
-该封面包含的角色：- [秦心](./秦心.md)
-
-
-
+- [POP｜CULTURE 3](./POP｜CULTURE_3.md)该封面包含的角色：
+- [秦心](./秦心.md)
 
 
 ---

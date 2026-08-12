@@ -1,12 +1,8 @@
 # 文件:Jellyfish_Factorybanner2.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\79\ns6%3AJellyfish_Factorybanner2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\79\ns6%3AJellyfish_Factorybanner2%2Ejpg.html -->
 
 Jellyfish_Factory | 社团LOGO
-
-
-
-
 
 
 ---

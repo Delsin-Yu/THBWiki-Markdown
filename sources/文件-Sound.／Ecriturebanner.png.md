@@ -1,12 +1,8 @@
 # 文件:Sound.／Ecriturebanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c6\ns6%3ASound%2E%EF%BC%8FEcriturebanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c6\ns6%3ASound%2E%EF%BC%8FEcriturebanner%2Epng.html -->
 
 Sound.／Ecriture | 社团LOGO
-
-
-
-
 
 
 ---

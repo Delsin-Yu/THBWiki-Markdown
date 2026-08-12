@@ -1,6 +1,6 @@
 # 文件:イ·ト·ホ·シ_-Vocal_Version_／_PreMaster_Edit-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\df\ns6%3A%E3%82%A4%C2%B7%E3%83%88%C2%B7%E3%83%9B%C2%B7%E3%82%B7_-Vocal_Version_%EF%BC%8F_PreMaster_Edit-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\df\ns6%3A%E3%82%A4%C2%B7%E3%83%88%C2%B7%E3%83%9B%C2%B7%E3%82%B7_-Vocal_Version_%EF%BC%8F_PreMaster_Edit-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Aphrodite | 专辑封面 | 封面图片
 
@@ -10,11 +10,9 @@ Aphrodite | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [イ·ト·ホ·シ -Vocal Version ／ PreMaster Edit-](./イ·ト·ホ·シ_-Vocal_Version_／_PreMaster_Edit-.md)  
-该封面包含的角色：- [小恶魔](./小恶魔.md)- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
-
-
-
+- [イ·ト·ホ·シ -Vocal Version ／ PreMaster Edit-](./イ·ト·ホ·シ_-Vocal_Version_／_PreMaster_Edit-.md)该封面包含的角色：
+- [小恶魔](./小恶魔.md)
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:TOHO_DEMHﾟARD_～とーほーでんぱーど_Vol.2～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3e\ns6%3ATOHO_DEMH%EF%BE%9FARD_%EF%BD%9E%E3%81%A8%E3%83%BC%E3%81%BB%E3%83%BC%E3%81%A7%E3%82%93%E3%81%B1%E3%83%BC%E3%81%A9_Vol%2E2%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3e\ns6%3ATOHO_DEMH%EF%BE%9FARD_%EF%BD%9E%E3%81%A8%E3%83%BC%E3%81%BB%E3%83%BC%E3%81%A7%E3%82%93%E3%81%B1%E3%83%BC%E3%81%A9_Vol%2E2%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Dドライブ | 专辑封面 | 封面图片
 
@@ -10,11 +10,9 @@ Dドライブ | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [TOHO DEMHﾟARD ～とーほーでんぱーど Vol.2～](./TOHO_DEMHﾟARD_～とーほーでんぱーど_Vol.2～.md)  
-该封面包含的角色：- [因幡帝](./因幡帝.md)- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
-
-
-
+- [TOHO DEMHﾟARD ～とーほーでんぱーど Vol.2～](./TOHO_DEMHﾟARD_～とーほーでんぱーど_Vol.2～.md)该封面包含的角色：
+- [因幡帝](./因幡帝.md)
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
 
 
 ---

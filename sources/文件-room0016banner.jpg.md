@@ -1,12 +1,8 @@
 # 文件:room0016banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\24\ns6%3Aroom0016banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\24\ns6%3Aroom0016banner%2Ejpg.html -->
 
 room0016 | 社团LOGO
-
-
-
-
 
 
 ---

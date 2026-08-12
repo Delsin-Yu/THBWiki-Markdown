@@ -1,6 +1,6 @@
 # 文件:AFRO_PILLOS_EP封面.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ac\ns6%3AAFRO_PILLOS_EP%E5%B0%81%E9%9D%A2%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ac\ns6%3AAFRO_PILLOS_EP%E5%B0%81%E9%9D%A2%2Egif.html -->
 
 Find_Your_Way | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@ Find_Your_Way | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [AFRO PILLOS EP](./AFRO_PILLOS_EP.md)  
-该封面包含的角色：- [玉造魅须丸](./玉造魅须丸.md)
+- [AFRO PILLOS EP](./AFRO_PILLOS_EP.md)该封面包含的角色：
+- [玉造魅须丸](./玉造魅须丸.md)
 
   
-源地址：[图片链接](https://f4.bcbits.com/img/a2723506772_0.jpg) [Bandcamp](https://youwillfindyourway.bandcamp.com/album/afro-pillos-ep)
-  
-
-
-
-
+源地址：[图片链接](https://f4.bcbits.com/img/a2723506772_0.jpg) [Bandcamp](https://youwillfindyourway.bandcamp.com/album/afro-pillos-ep)  
 
 ---
 

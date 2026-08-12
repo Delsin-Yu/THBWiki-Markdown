@@ -1,6 +1,6 @@
 # 文件:東方いよしこく祭3_会場限定CD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\97\ns6%3A%E6%9D%B1%E6%96%B9%E3%81%84%E3%82%88%E3%81%97%E3%81%93%E3%81%8F%E7%A5%AD3_%E4%BC%9A%E5%A0%B4%E9%99%90%E5%AE%9ACD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\97\ns6%3A%E6%9D%B1%E6%96%B9%E3%81%84%E3%82%88%E3%81%97%E3%81%93%E3%81%8F%E7%A5%AD3_%E4%BC%9A%E5%A0%B4%E9%99%90%E5%AE%9ACD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Pizuya's_Cell | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Pizuya's_Cell | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方いよしこく祭3 会場限定CD](./東方いよしこく祭3_会場限定CD.md)  
-该封面包含的角色：- [卡娜·安娜贝拉尔](./卡娜·安娜贝拉尔.md)
-
-
-
+- [東方いよしこく祭3 会場限定CD](./東方いよしこく祭3_会場限定CD.md)该封面包含的角色：
+- [卡娜·安娜贝拉尔](./卡娜·安娜贝拉尔.md)
 
 
 ---

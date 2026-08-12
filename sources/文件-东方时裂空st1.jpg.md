@@ -1,12 +1,8 @@
 # 文件:东方时裂空st1.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bb\ns6%3A%E4%B8%9C%E6%96%B9%E6%97%B6%E8%A3%82%E7%A9%BAst1%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bb\ns6%3A%E4%B8%9C%E6%96%B9%E6%97%B6%E8%A3%82%E7%A9%BAst1%2Ejpg.html -->
 
 东方时裂空 | 顺毛犬制作组
-
-
-
-
 
 
 ---

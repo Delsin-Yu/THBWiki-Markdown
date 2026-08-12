@@ -1,6 +1,6 @@
 # 文件:Talaria_～_翼の生えた靴、或はサンダアル。封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3d\ns6%3ATalaria_%EF%BD%9E_%E7%BF%BC%E3%81%AE%E7%94%9F%E3%81%88%E3%81%9F%E9%9D%B4%E3%80%81%E6%88%96%E3%81%AF%E3%82%B5%E3%83%B3%E3%83%80%E3%82%A2%E3%83%AB%E3%80%82%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3d\ns6%3ATalaria_%EF%BD%9E_%E7%BF%BC%E3%81%AE%E7%94%9F%E3%81%88%E3%81%9F%E9%9D%B4%E3%80%81%E6%88%96%E3%81%AF%E3%82%B5%E3%83%B3%E3%83%80%E3%82%A2%E3%83%AB%E3%80%82%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 夢想夏月郷 | 封面图片
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [Talaria ～ 翼の生えた靴、或はサンダアル。](./Talaria_～_翼の生えた靴、或はサンダアル。.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [Talaria ～ 翼の生えた靴、或はサンダアル。](./Talaria_～_翼の生えた靴、或はサンダアル。.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

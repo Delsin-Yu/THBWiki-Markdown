@@ -1,6 +1,6 @@
 # 文件:RECYCLE_EDITION封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\79\ns6%3ARECYCLE_EDITION%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\79\ns6%3ARECYCLE_EDITION%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ネジロメイション! | 同人志封面 | 封面图片
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [RECYCLE EDITION](./RECYCLE_EDITION.md)  
-该封面包含的角色：- [鬼人正邪](./鬼人正邪.md)- [少名针妙丸](./少名针妙丸.md)
-
-
-
+- [RECYCLE EDITION](./RECYCLE_EDITION.md)该封面包含的角色：
+- [鬼人正邪](./鬼人正邪.md)
+- [少名针妙丸](./少名针妙丸.md)
 
 
 ---

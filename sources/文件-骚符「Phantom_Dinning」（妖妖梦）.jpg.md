@@ -1,12 +1,8 @@
 # 文件:骚符「Phantom_Dinning」（妖妖梦）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\18\ns6%3A%E9%AA%9A%E7%AC%A6%E3%80%8CPhantom_Dinning%E3%80%8D%EF%BC%88%E5%A6%96%E5%A6%96%E6%A2%A6%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\18\ns6%3A%E9%AA%9A%E7%AC%A6%E3%80%8CPhantom_Dinning%E3%80%8D%EF%BC%88%E5%A6%96%E5%A6%96%E6%A2%A6%EF%BC%89%2Ejpg.html -->
 
 东方妖妖梦 | 敌机符卡 | 骚灵三姐妹
-
-
-
-
 
 
 ---

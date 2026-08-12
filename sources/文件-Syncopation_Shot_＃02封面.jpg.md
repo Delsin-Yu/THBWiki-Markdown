@@ -1,6 +1,6 @@
 # 文件:Syncopation_Shot_＃02封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\35\ns6%3ASyncopation_Shot_%EF%BC%8302%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\35\ns6%3ASyncopation_Shot_%EF%BC%8302%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 rythmique | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ rythmique | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Syncopation Shot ＃02](./Syncopation_Shot_＃02.md)  
-该封面包含的角色：- [神绮](./神绮.md)- [梦子](./梦子.md)
-
-
-
+- [Syncopation Shot ＃02](./Syncopation_Shot_＃02.md)该封面包含的角色：
+- [神绮](./神绮.md)
+- [梦子](./梦子.md)
 
 
 ---

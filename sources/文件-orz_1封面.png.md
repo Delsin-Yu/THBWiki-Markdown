@@ -1,6 +1,6 @@
 # 文件:orz_1封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0e\ns6%3Aorz_1%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0e\ns6%3Aorz_1%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 UFO_County | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ UFO_County | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [orz 1](./orz_1.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [orz 1](./orz_1.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:EXTRA_BITTER_Ⅵ封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c0\ns6%3AEXTRA_BITTER_%E2%85%A5%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c0\ns6%3AEXTRA_BITTER_%E2%85%A5%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Silver_Forest | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ Silver_Forest | 专辑封面 | 封面图片
   
 
 - [EXTRA BITTER Ⅵ](./EXTRA_BITTER_Ⅵ.md)
-
-
-
 
 
 ---

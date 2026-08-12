@@ -1,6 +1,6 @@
 # 文件:どりこれ。_-Dream_Collaboration_Movie_Collection-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d8\ns6%3A%E3%81%A9%E3%82%8A%E3%81%93%E3%82%8C%E3%80%82_-Dream_Collaboration_Movie_Collection-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d8\ns6%3A%E3%81%A9%E3%82%8A%E3%81%93%E3%82%8C%E3%80%82_-Dream_Collaboration_Movie_Collection-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 あぷえぬすたーと！ | 封面图片 | 视频封面
 
@@ -13,12 +13,7 @@
 - [どりこれ。 -Dream Collaboration Movie Collection-](./どりこれ。_-Dream_Collaboration_Movie_Collection-.md)
 
   
-源地址：[[1]](https://tuguna.info/circle/image/susi02_jacket.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://tuguna.info/circle/image/susi02_jacket.jpg)  
 
 ---
 

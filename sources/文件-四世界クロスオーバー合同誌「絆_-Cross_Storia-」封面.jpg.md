@@ -1,6 +1,6 @@
 # 文件:四世界クロスオーバー合同誌「絆_-Cross_Storia-」封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\82\ns6%3A%E5%9B%9B%E4%B8%96%E7%95%8C%E3%82%AF%E3%83%AD%E3%82%B9%E3%82%AA%E3%83%BC%E3%83%90%E3%83%BC%E5%90%88%E5%90%8C%E8%AA%8C%E3%80%8C%E7%B5%86_-Cross_Storia-%E3%80%8D%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\82\ns6%3A%E5%9B%9B%E4%B8%96%E7%95%8C%E3%82%AF%E3%83%AD%E3%82%B9%E3%82%AA%E3%83%BC%E3%83%90%E3%83%BC%E5%90%88%E5%90%8C%E8%AA%8C%E3%80%8C%E7%B5%86_-Cross_Storia-%E3%80%8D%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 unlockerfield | 同人志封面 | 封面图片
 
@@ -10,16 +10,14 @@ unlockerfield | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [四世界クロスオーバー合同誌「絆 -Cross Storia-」](./四世界クロスオーバー合同誌「絆_-Cross_Storia-」.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- 原创角色 (未找到链接)- 露莉亚 (未找到链接)- 玛修·基列莱特 (未找到链接)
+- [四世界クロスオーバー合同誌「絆 -Cross Storia-」](./四世界クロスオーバー合同誌「絆_-Cross_Storia-」.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- 原创角色 (未找到链接)
+- 露莉亚 (未找到链接)
+- 玛修·基列莱特 (未找到链接)
 
   
-源地址：[[1]](https://unlockerfield.com/c93/img/img01.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://unlockerfield.com/c93/img/img01.jpg)  
 
 ---
 

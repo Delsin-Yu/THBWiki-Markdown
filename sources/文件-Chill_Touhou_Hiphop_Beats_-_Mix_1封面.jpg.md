@@ -1,6 +1,6 @@
 # 文件:Chill_Touhou_Hiphop_Beats_-_Mix_1封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\43\ns6%3AChill_Touhou_Hiphop_Beats_-_Mix_1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\43\ns6%3AChill_Touhou_Hiphop_Beats_-_Mix_1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Moon-Tone | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ Moon-Tone | 专辑封面 | 封面图片
   
 
 - [Chill Touhou Hiphop Beats - Mix 1](./Chill_Touhou_Hiphop_Beats_-_Mix_1.md)
-
-
-
 
 
 ---

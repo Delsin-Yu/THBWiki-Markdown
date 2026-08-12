@@ -1,6 +1,6 @@
 # 文件:Perfect_Cherry_Blossom（Studio_K.N.S.）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\44\ns6%3APerfect_Cherry_Blossom%EF%BC%88Studio_K%2EN%2ES%2E%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\44\ns6%3APerfect_Cherry_Blossom%EF%BC%88Studio_K%2EN%2ES%2E%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Studio_K.N.S. | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Studio_K.N.S. | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Perfect Cherry Blossom（Studio K.N.S.）](./Perfect_Cherry_Blossom（Studio_K.N.S.）.md)  
-该封面包含的角色：- [西行寺幽幽子](./西行寺幽幽子.md)
-
-
-
+- [Perfect Cherry Blossom（Studio K.N.S.）](./Perfect_Cherry_Blossom（Studio_K.N.S.）.md)该封面包含的角色：
+- [西行寺幽幽子](./西行寺幽幽子.md)
 
 
 ---

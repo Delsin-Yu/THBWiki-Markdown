@@ -1,12 +1,8 @@
 # 文件:里春「April_Wizard」（天空璋）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b3\ns6%3A%E9%87%8C%E6%98%A5%E3%80%8CApril_Wizard%E3%80%8D%EF%BC%88%E5%A4%A9%E7%A9%BA%E7%92%8B%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b3\ns6%3A%E9%87%8C%E6%98%A5%E3%80%8CApril_Wizard%E3%80%8D%EF%BC%88%E5%A4%A9%E7%A9%BA%E7%92%8B%EF%BC%89%2Ejpg.html -->
 
 东方天空璋 | 摩多罗隐岐奈 | 敌机符卡
-
-
-
-
 
 
 ---

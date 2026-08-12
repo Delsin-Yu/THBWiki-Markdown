@@ -1,12 +1,8 @@
 # 文件:古明地觉（地灵殿立绘_normal）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\11\ns6%3A%E5%8F%A4%E6%98%8E%E5%9C%B0%E8%A7%89%EF%BC%88%E5%9C%B0%E7%81%B5%E6%AE%BF%E7%AB%8B%E7%BB%98_normal%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\11\ns6%3A%E5%8F%A4%E6%98%8E%E5%9C%B0%E8%A7%89%EF%BC%88%E5%9C%B0%E7%81%B5%E6%AE%BF%E7%AB%8B%E7%BB%98_normal%EF%BC%89%2Epng.html -->
 
 ZUN绘 | 东方地灵殿 | 古明地觉 | 官方游戏立绘
-
-
-
-
 
 
 ---

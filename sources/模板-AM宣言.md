@@ -1,16 +1,12 @@
 # 模板:AM宣言
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\1\15\ns10%3AAM%E5%AE%A3%E8%A8%80.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\1\15\ns10%3AAM%E5%AE%A3%E8%A8%80.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

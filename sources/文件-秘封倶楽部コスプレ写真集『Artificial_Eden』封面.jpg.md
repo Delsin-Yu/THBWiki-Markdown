@@ -1,6 +1,6 @@
 # 文件:秘封倶楽部コスプレ写真集『Artificial_Eden』封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\42\ns6%3A%E7%A7%98%E5%B0%81%E5%80%B6%E6%A5%BD%E9%83%A8%E3%82%B3%E3%82%B9%E3%83%97%E3%83%AC%E5%86%99%E7%9C%9F%E9%9B%86%E3%80%8EArtificial_Eden%E3%80%8F%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\42\ns6%3A%E7%A7%98%E5%B0%81%E5%80%B6%E6%A5%BD%E9%83%A8%E3%82%B3%E3%82%B9%E3%83%97%E3%83%AC%E5%86%99%E7%9C%9F%E9%9B%86%E3%80%8EArtificial_Eden%E3%80%8F%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Echollapsar | 同人志封面 | 封面图片
 
@@ -8,11 +8,9 @@ Echollapsar | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [秘封倶楽部コスプレ写真集『Artificial Eden』](./秘封倶楽部コスプレ写真集『Artificial_Eden』.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [秘封倶楽部コスプレ写真集『Artificial Eden』](./秘封倶楽部コスプレ写真集『Artificial_Eden』.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

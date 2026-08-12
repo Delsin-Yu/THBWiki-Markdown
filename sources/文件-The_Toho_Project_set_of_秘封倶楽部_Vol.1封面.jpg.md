@@ -1,6 +1,6 @@
 # 文件:The_Toho_Project_set_of_秘封倶楽部_Vol.1封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\01\ns6%3AThe_Toho_Project_set_of_%E7%A7%98%E5%B0%81%E5%80%B6%E6%A5%BD%E9%83%A8_Vol%2E1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\01\ns6%3AThe_Toho_Project_set_of_%E7%A7%98%E5%B0%81%E5%80%B6%E6%A5%BD%E9%83%A8_Vol%2E1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 自己崩壊性LOGiC
 
@@ -11,12 +11,7 @@
 - [The Toho Project set of 秘封倶楽部 Vol.1](./The_Toho_Project_set_of_秘封倶楽部_Vol.1.md)
 
   
-源地址：[[1]](https://jicohoukaiseilogic.files.wordpress.com/2015/10/e4be8be5a4a7e7a5ade382b8e383a3e382b1e38383e38388e8a1a8.jpg?w=780&amp;h=780)
-  
-
-
-
-
+源地址：[\[1\]](https://jicohoukaiseilogic.files.wordpress.com/2015/10/e4be8be5a4a7e7a5ade382b8e383a3e382b1e38383e38388e8a1a8.jpg?w=780&h=780)  
 
 ---
 

@@ -1,14 +1,11 @@
 # 文件:Het.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\33\ns6%3AHet%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\33\ns6%3AHet%2Epng.html -->
 
 Het | 二次角色立绘 | 纷鸟境虹谈制作组
 
 
 ## 摘要
-
-
-
 
 ---
 

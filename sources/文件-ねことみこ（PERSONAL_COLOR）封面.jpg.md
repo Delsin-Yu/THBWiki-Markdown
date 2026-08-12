@@ -1,6 +1,6 @@
 # 文件:ねことみこ（PERSONAL_COLOR）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\59\ns6%3A%E3%81%AD%E3%81%93%E3%81%A8%E3%81%BF%E3%81%93%EF%BC%88PERSONAL_COLOR%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\59\ns6%3A%E3%81%AD%E3%81%93%E3%81%A8%E3%81%BF%E3%81%93%EF%BC%88PERSONAL_COLOR%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 PERSONAL_COLOR | 同人志封面 | 封面图片
 
@@ -11,9 +11,6 @@ PERSONAL_COLOR | 同人志封面 | 封面图片
   
 
 - [ねことみこ（PERSONAL COLOR）](./ねことみこ（PERSONAL_COLOR）.md)
-
-
-
 
 
 ---

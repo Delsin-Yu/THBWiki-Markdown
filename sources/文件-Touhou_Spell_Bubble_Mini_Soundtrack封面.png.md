@@ -1,6 +1,6 @@
 # 文件:Touhou_Spell_Bubble_Mini_Soundtrack封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\57\ns6%3ATouhou_Spell_Bubble_Mini_Soundtrack%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\57\ns6%3ATouhou_Spell_Bubble_Mini_Soundtrack%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 太东 | 封面图片
 
@@ -10,16 +10,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [Touhou Spell Bubble Mini Soundtrack](./Touhou_Spell_Bubble_Mini_Soundtrack.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [雾雨魔理沙](./雾雨魔理沙.md)
+- [Touhou Spell Bubble Mini Soundtrack](./Touhou_Spell_Bubble_Mini_Soundtrack.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-源地址：[vgmdb, originally uploaded by mstea](https://vgmdb.net/album/106015)
-  
-
-
-
-
+源地址：[vgmdb, originally uploaded by mstea](https://vgmdb.net/album/106015)  
 
 ---
 

@@ -1,12 +1,8 @@
 # 文件:BOXELLbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\57\ns6%3ABOXELLbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\57\ns6%3ABOXELLbanner%2Epng.html -->
 
 BOXELL | 社团LOGO
-
-
-
-
 
 
 ---

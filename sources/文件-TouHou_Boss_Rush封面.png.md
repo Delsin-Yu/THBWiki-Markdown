@@ -1,6 +1,6 @@
 # 文件:TouHou_Boss_Rush封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b1\ns6%3ATouHou_Boss_Rush%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b1\ns6%3ATouHou_Boss_Rush%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 吃药图书 | 封面图片 | 软件封面
 
@@ -11,9 +11,6 @@
   
 
 - [TouHou Boss Rush](./TouHou_Boss_Rush.md)
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:東方リミックス_~Scarlet_Mist~封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\25\ns6%3A%E6%9D%B1%E6%96%B9%E3%83%AA%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9_%7EScarlet_Mist%7E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\25\ns6%3A%E6%9D%B1%E6%96%B9%E3%83%AA%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9_%7EScarlet_Mist%7E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Nocturnal_Aura | 专辑封面 | 封面图片
 
@@ -13,12 +13,7 @@ Nocturnal_Aura | 专辑封面 | 封面图片
 - [東方リミックス ~Scarlet Mist~](./東方リミックス_~Scarlet_Mist~.md)
 
   
-源地址：[[1]](https://nocturnalaura.bandcamp.com/album/scarlet-mist)
-  
-
-
-
-
+源地址：[\[1\]](https://nocturnalaura.bandcamp.com/album/scarlet-mist)  
 
 ---
 

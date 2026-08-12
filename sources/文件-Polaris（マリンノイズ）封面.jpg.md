@@ -1,6 +1,6 @@
 # 文件:Polaris（マリンノイズ）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d0\ns6%3APolaris%EF%BC%88%E3%83%9E%E3%83%AA%E3%83%B3%E3%83%8E%E3%82%A4%E3%82%BA%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d0\ns6%3APolaris%EF%BC%88%E3%83%9E%E3%83%AA%E3%83%B3%E3%83%8E%E3%82%A4%E3%82%BA%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 マリンノイズ | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Polaris（マリンノイズ）](./Polaris（マリンノイズ）.md)  
-该封面包含的角色：- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
-
-
-
+- [Polaris（マリンノイズ）](./Polaris（マリンノイズ）.md)该封面包含的角色：
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
 
 
 ---

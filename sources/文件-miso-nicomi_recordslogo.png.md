@@ -1,18 +1,13 @@
 # 文件:miso-nicomi_recordslogo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f4\ns6%3Amiso-nicomi_recordslogo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f4\ns6%3Amiso-nicomi_recordslogo%2Epng.html -->
 
 miso-nicomi_records | 社团LOGO
 
 
 ## 摘要
   
-源地址：[direct image link (max size)](https://64.media.tumblr.com/dea8cf2f980d1ce83785b46977302dda/tumblr_inline_o6at38W4OH1tmukte_1280.png), [source page](https://misorec.tumblr.com/about)
-  
-
-
-
-
+源地址：[direct image link (max size)](https://64.media.tumblr.com/dea8cf2f980d1ce83785b46977302dda/tumblr_inline_o6at38W4OH1tmukte_1280.png), [source page](https://misorec.tumblr.com/about)  
 
 ---
 

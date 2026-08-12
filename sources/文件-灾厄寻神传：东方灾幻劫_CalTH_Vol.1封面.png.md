@@ -1,6 +1,6 @@
 # 文件:灾厄寻神传：东方灾幻劫_CalTH_Vol.1封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d7\ns6%3A%E7%81%BE%E5%8E%84%E5%AF%BB%E7%A5%9E%E4%BC%A0%EF%BC%9A%E4%B8%9C%E6%96%B9%E7%81%BE%E5%B9%BB%E5%8A%AB_CalTH_Vol%2E1%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d7\ns6%3A%E7%81%BE%E5%8E%84%E5%AF%BB%E7%A5%9E%E4%BC%A0%EF%BC%9A%E4%B8%9C%E6%96%B9%E7%81%BE%E5%B9%BB%E5%8A%AB_CalTH_Vol%2E1%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 天琈苑乐 | 封面图片
 
@@ -11,9 +11,6 @@
   
 
 - [灾厄寻神传：东方灾幻劫 CalTH Vol.1](./灾厄寻神传：东方灾幻劫_CalTH_Vol.1.md)
-
-
-
 
 
 ---

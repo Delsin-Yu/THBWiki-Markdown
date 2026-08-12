@@ -1,6 +1,6 @@
 # 文件:OOKAMI_COMMUNICATION!封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\00\ns6%3AOOKAMI_COMMUNICATION%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\00\ns6%3AOOKAMI_COMMUNICATION%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 RUMP | 同人志封面 | 封面图片
 
@@ -8,11 +8,12 @@ RUMP | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [OOKAMI COMMUNICATION!](./OOKAMI_COMMUNICATION!.md)  
-该封面包含的角色：- [因幡帝](./因幡帝.md)- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)- [蓬莱山辉夜](./蓬莱山辉夜.md)- [若鹭姬](./若鹭姬.md)- [今泉影狼](./今泉影狼.md)
-
-
-
+- [OOKAMI COMMUNICATION!](./OOKAMI_COMMUNICATION!.md)该封面包含的角色：
+- [因幡帝](./因幡帝.md)
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
+- [蓬莱山辉夜](./蓬莱山辉夜.md)
+- [若鹭姬](./若鹭姬.md)
+- [今泉影狼](./今泉影狼.md)
 
 
 ---

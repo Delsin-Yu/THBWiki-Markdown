@@ -1,6 +1,6 @@
 # 文件:求闻工坊logo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\42\ns6%3A%E6%B1%82%E9%97%BB%E5%B7%A5%E5%9D%8Alogo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\42\ns6%3A%E6%B1%82%E9%97%BB%E5%B7%A5%E5%9D%8Alogo%2Epng.html -->
 
 求闻工坊 | 社团LOGO
 
@@ -9,10 +9,6 @@
   
 东方同人社团求闻工坊的LOGO
   
-
-
-
-
 
 ---
 

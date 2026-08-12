@@ -1,6 +1,6 @@
 # 文件:癒音_-My_healing_time-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\64\ns6%3A%E7%99%92%E9%9F%B3_-My_healing_time-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\64\ns6%3A%E7%99%92%E9%9F%B3_-My_healing_time-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 紅悠Salvation
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [癒音 -My healing time-](./癒音_-My_healing_time-.md)  
-该封面包含的角色：- [莉莉霍瓦特](./莉莉霍瓦特.md)
-
-
-
+- [癒音 -My healing time-](./癒音_-My_healing_time-.md)该封面包含的角色：
+- [莉莉霍瓦特](./莉莉霍瓦特.md)
 
 
 ---

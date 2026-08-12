@@ -1,6 +1,6 @@
 # 文件:Place_of_one's_death封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5c\ns6%3APlace_of_one%27s_death%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5c\ns6%3APlace_of_one%27s_death%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 鮮夏Derayn
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Place of one's death](./Place_of_one's_death.md)  
-该封面包含的角色：- [小野塚小町](./小野塚小町.md)
-
-
-
+- [Place of one's death](./Place_of_one's_death.md)该封面包含的角色：
+- [小野塚小町](./小野塚小町.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:The_"Lost"封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fc\ns6%3AThe_%22Lost%22%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fc\ns6%3AThe_%22Lost%22%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 fractrick | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ fractrick | 专辑封面 | 封面图片
   
 
 - [The "Lost"](./The_-Lost-.md)
-
-
-
 
 
 ---

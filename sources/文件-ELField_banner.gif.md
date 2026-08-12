@@ -1,12 +1,8 @@
 # 文件:ELField_banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\71\ns6%3AELField_banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\71\ns6%3AELField_banner%2Egif.html -->
 
 ELField | 社团LOGO
-
-
-
-
 
 
 ---

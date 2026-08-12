@@ -1,14 +1,11 @@
 # 文件:Red_Bullet_Sequencebanner2.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\78\ns6%3ARed_Bullet_Sequencebanner2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\78\ns6%3ARed_Bullet_Sequencebanner2%2Ejpg.html -->
 
 Red_Bullet_Sequence | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

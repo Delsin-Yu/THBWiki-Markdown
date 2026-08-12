@@ -1,14 +1,11 @@
 # 文件:心绮楼开幕OP绘卷.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c8\ns6%3A%E5%BF%83%E7%BB%AE%E6%A5%BC%E5%BC%80%E5%B9%95OP%E7%BB%98%E5%8D%B7%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c8\ns6%3A%E5%BF%83%E7%BB%AE%E6%A5%BC%E5%BC%80%E5%B9%95OP%E7%BB%98%E5%8D%B7%2Epng.html -->
 
 东方心绮楼
 
 
 ## 摘要
-
-
-
 
 ---
 

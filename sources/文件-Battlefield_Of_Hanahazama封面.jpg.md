@@ -1,6 +1,6 @@
 # 文件:Battlefield_Of_Hanahazama封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\28\ns6%3ABattlefield_Of_Hanahazama%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\28\ns6%3ABattlefield_Of_Hanahazama%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 CROW'SCLAW | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ CROW'SCLAW | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Battlefield Of Hanahazama](./Battlefield_Of_Hanahazama.md)  
-该封面包含的角色：- [茨木华扇](./茨木华扇.md)
-
-
-
+- [Battlefield Of Hanahazama](./Battlefield_Of_Hanahazama.md)该封面包含的角色：
+- [茨木华扇](./茨木华扇.md)
 
 
 ---

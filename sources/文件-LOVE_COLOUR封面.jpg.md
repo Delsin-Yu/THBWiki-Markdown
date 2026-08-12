@@ -1,6 +1,6 @@
 # 文件:LOVE_COLOUR封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a2\ns6%3ALOVE_COLOUR%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a2\ns6%3ALOVE_COLOUR%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Rolling_Contact | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ Rolling_Contact | 专辑封面 | 封面图片
   
 
 - [LOVE COLOUR](./LOVE_COLOUR.md)
-
-
-
 
 
 ---

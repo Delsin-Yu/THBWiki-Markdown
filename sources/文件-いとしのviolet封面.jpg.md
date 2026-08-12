@@ -1,6 +1,6 @@
 # 文件:いとしのviolet封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c7\ns6%3A%E3%81%84%E3%81%A8%E3%81%97%E3%81%AEviolet%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c7\ns6%3A%E3%81%84%E3%81%A8%E3%81%97%E3%81%AEviolet%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 poprication | 同人志封面 | 封面图片
 
@@ -8,11 +8,10 @@ poprication | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [いとしのviolet](./いとしのviolet.md)  
-该封面包含的角色：- [八云紫](./八云紫.md)- [宇佐见堇子](./宇佐见堇子.md)- [摩多罗隐岐奈](./摩多罗隐岐奈.md)
-
-
-
+- [いとしのviolet](./いとしのviolet.md)该封面包含的角色：
+- [八云紫](./八云紫.md)
+- [宇佐见堇子](./宇佐见堇子.md)
+- [摩多罗隐岐奈](./摩多罗隐岐奈.md)
 
 
 ---

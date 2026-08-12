@@ -1,6 +1,6 @@
 # 文件:Tactics_on_Fairy_Fables封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f8\ns6%3ATactics_on_Fairy_Fables%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f8\ns6%3ATactics_on_Fairy_Fables%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 ほわいとふれあ | 封面图片 | 软件封面
 
@@ -8,11 +8,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [Tactics on Fairy Fables](./Tactics_on_Fairy_Fables.md)  
-该封面包含的角色：- [大妖精](./大妖精.md)- [莉莉霍瓦特](./莉莉霍瓦特.md)- [妖精](./妖精.md)- [露娜切露德](./露娜切露德.md)- [克劳恩皮丝](./克劳恩皮丝.md)
-
-
-
+- [Tactics on Fairy Fables](./Tactics_on_Fairy_Fables.md)该封面包含的角色：
+- [大妖精](./大妖精.md)
+- [莉莉霍瓦特](./莉莉霍瓦特.md)
+- [妖精](./妖精.md)
+- [露娜切露德](./露娜切露德.md)
+- [克劳恩皮丝](./克劳恩皮丝.md)
 
 
 ---

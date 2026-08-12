@@ -1,18 +1,13 @@
 # 文件:BeζUMa_The_さうんどlogo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f7\ns6%3ABe%CE%B6UMa_The_%E3%81%95%E3%81%86%E3%82%93%E3%81%A9logo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f7\ns6%3ABe%CE%B6UMa_The_%E3%81%95%E3%81%86%E3%82%93%E3%81%A9logo%2Epng.html -->
 
 BeζUMa_The_さうんど | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[direct image link](http://karitu.web.fc2.com/title.png), [source page](http://karitu.web.fc2.com)
-  
-
-
-
-
+源地址：[direct image link](http://karitu.web.fc2.com/title.png), [source page](http://karitu.web.fc2.com)  
 
 ---
 

@@ -1,11 +1,10 @@
 # 东方STATION
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\8\80\ns0%3A%E4%B8%9C%E6%96%B9STATION.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\8\80\ns0%3A%E4%B8%9C%E6%96%B9STATION.html -->
 
 东方STATION | 具有时效性的词条 | 待完成页面
 
 <center>
-
 <table>
 <tbody><tr>
 <td class="mbox-image"><div style="width: 52px;">
@@ -14,17 +13,14 @@
 </tr>
 </tbody></table>
 
-
 </center>
-
 <table>
 <tbody><tr>
 <td class="mbox-image width"><div style="width: 52px;">
-  <a href="/%E6%96%87%E4%BB%B6:Additional_time.svg" class="image"><img alt="Additional time.svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Additional_time.svg/langzh-60px-Additional_time.svg.png" decoding="async" loading="lazy" width="60" height="76" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Additional_time.svg/langzh-90px-Additional_time.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Additional_time.svg/langzh-120px-Additional_time.svg.png 2x" data-file-width="166" data-file-height="211"></a></div></td>
-<td class="mbox-text" style=""><big>本词条的内容具有较强的时效性。</big><br><b>其内容可能会由于时间推进而出现疏漏或错误之处</b>。<br>如果您发现本词条内出现过时内容，请您<a href="/index.php?title=%E4%B8%9C%E6%96%B9STATION&amp;action=edit">修改词条到最新状态</a></td>
+  <a class="image"><img alt="Additional time.svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Additional_time.svg/langzh-60px-Additional_time.svg.png" decoding="async" loading="lazy" width="60" height="76" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Additional_time.svg/langzh-90px-Additional_time.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Additional_time.svg/langzh-120px-Additional_time.svg.png 2x" data-file-width="166" data-file-height="211"></a></div></td>
+<td class="mbox-text" style=""><big>本词条的内容具有较强的时效性。</big><br><b>其内容可能会由于时间推进而出现疏漏或错误之处</b>。<br>如果您发现本词条内出现过时内容，请您<a>修改词条到最新状态</a></td>
 </tr>
 </tbody></table>
-
 
 
 ## 目录
@@ -35,27 +31,17 @@
 - [4 注释](#注释)
 
 
-
-
-
 ## 简介
-[](./文件-东方STATION_LOGO.jpg.md)  [](./文件-东方STATION_LOGO.jpg.md)东方STATION LOGO
+<img alt="" src="https://upload.thwiki.cc/7/77/%E4%B8%9C%E6%96%B9STATION_LOGO.jpg" decoding="async" loading="lazy" width="192" height="144" class="thumbimage" data-file-width="192" data-file-height="144">
+ [放大](./文件-东方STATION_LOGO.jpg.md)东方STATION LOGO  
+<small>*以东方Project的各种话题为中心的情报娱乐节目。*</small>  
   
-<small> *以东方Project的各种话题为中心的情报娱乐节目。* 
-</small>  
-  
-<small> *从最新情报到有趣捏他，无比轻松地传达东方的「现在」。* </small>
-  
+<small>*从最新情报到有趣捏他，无比轻松地传达东方的「现在」。*</small>  
   
   
-
-<big>東方ステーション</big>，東方ステーシ， **东方STATION** 。  
+<big>東方ステーション</big>，東方ステーシ，**东方STATION**。  
 
 是多玩国（NICONICO动画）组织的东方主题娱乐节目，由株式会社WHY SO SERIOUS?负责运营。主要主持人有[Beat Mario](./ビートまりお.md)、声优金泽舞等。ZUN作为常驻嘉宾，不定期参加。
-  
-  
-  
-
   
 
 - 推特主页：[https://twitter.com/touhou_station](https://twitter.com/touhou_station)
@@ -85,7 +71,7 @@
 </td></tr>
 <tr>
 <td class="bg-color-info-10" style="">2017/06/10</td>
-<td><a rel="nofollow" class="external text" href="http://live.nicovideo.jp/watch/lv297551890">東方ステーション #２ 台湾うた祭り&amp;例大祭特集</a></td>
+<td><a rel="nofollow" class="external text" href="http://live.nicovideo.jp/watch/lv297551890">東方ステーション #２ 台湾うた祭り&例大祭特集</a></td>
 <td></td>
 <td>ビートまりお</td>
 <td>海原海豚</td>
@@ -144,7 +130,7 @@
 <td><a rel="nofollow" class="external text" href="http://live.nicovideo.jp/watch/lv308727990">東方ステーション #8　冬コミSP～憑依華もあるよ～</a></td>
 <td></td>
 <td>ビートまりお</td>
-<td>ZUN（希望你能来）<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">1</a></sup>、海原海豚</td>
+<td>ZUN（希望你能来）<span>[^cite_note-1]</span>、海原海豚</td>
 <td>魂音泉（抹）、Crest（なぎさMK-02）<br>以及参与酒会的各位
 </td></tr>
 <tr>
@@ -178,7 +164,7 @@
 <td><a rel="nofollow" class="external text" href="http://live.nicovideo.jp/watch/lv312006165">東方ステーション　#12　第十五回博麗神社例大祭直前スペシャル</a></td>
 <td></td>
 <td>ビートまりお</td>
-<td>ZUN<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">2</a></sup></td>
+<td>ZUN<span>[^cite_note-2]</span></td>
 <td>
 </td></tr>
 <tr>
@@ -264,7 +250,7 @@
 <tr>
 <td class="bg-color-info-10" style="">2020/02/27</td>
 <td><a rel="nofollow" class="external text" href="https://live2.nicovideo.jp/gate/lv324381295">東方ステーション #22　秘封特集＆３月静岡例大祭情報公開</a></td>
-<td>东方STATION#21 秘封特辑&amp;3月静冈例大祭情报公开</td>
+<td>东方STATION#21 秘封特辑&3月静冈例大祭情报公开</td>
 <td>ビートまりお</td>
 <td></td>
 <td>博麗神社社務所（北條、関）<br> 魂音泉（抹）、境界から視えた外界（篠原康博）<br>豚乙女（ランコの姉）、カナザワ
@@ -408,7 +394,7 @@
 <tr>
 <td class="bg-color-info-10" style="">2023/04/14</td>
 <td><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=A385WA8r-qU">東方ステーション#34　#春の東方ワンドロ大会＆例大祭直前特集</a></td>
-<td>东方STATION34 春季东方一小时绘画大会&amp;例大祭前特辑</td>
+<td>东方STATION34 春季东方一小时绘画大会&例大祭前特辑</td>
 <td>ビートまりお</td>
 <td></td>
 <td>紡、まがとろ、粗茶、ゆたろう、ぱらどっと、２１６、すばる、是乃、金澤まい
@@ -416,7 +402,7 @@
 <tr>
 <td class="bg-color-info-10" style="">2023/06/30</td>
 <td><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=DeW7QJ4BlQs">東方ステーション#35　『海外東方ファン＆東方ステーション特集』</a></td>
-<td>东方STATION35 海外东方爱好者&amp;东方STATION特辑</td>
+<td>东方STATION35 海外东方爱好者&东方STATION特辑</td>
 <td>ビートまりお</td>
 <td></td>
 <td>
@@ -496,20 +482,15 @@
 </tbody></table>
 
 
-
 ## 内容整理
   
 部分东方STATION内容可以参考此页面。
   
 
-- <big> ** 内容整理 (未找到链接)** </big>
-
+- <big>** [内容整理](./东方STATION-内容整理.md)**</big>
 
 [^cite_note-1]: 最后并没有到场
-
-
-
-
+[^cite_note-2]: 事先录像登场
 
 ---
 

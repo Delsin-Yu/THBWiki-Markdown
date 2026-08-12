@@ -1,6 +1,6 @@
 # 文件:東方_NEW_WAVE封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\32\ns6%3A%E6%9D%B1%E6%96%B9_NEW_WAVE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\32\ns6%3A%E6%9D%B1%E6%96%B9_NEW_WAVE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 C.S.C→luv | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ C.S.C→luv | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方 NEW WAVE](./東方_NEW_WAVE.md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)
-
-
-
+- [東方 NEW WAVE](./東方_NEW_WAVE.md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
 
 
 ---

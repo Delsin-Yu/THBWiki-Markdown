@@ -1,6 +1,6 @@
 # 五つの難題MOD/物品
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\f2\ns0%3A%E4%BA%94%E3%81%A4%E3%81%AE%E9%9B%A3%E9%A1%8CMOD%2F%E7%89%A9%E5%93%81.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\f2\ns0%3A%E4%BA%94%E3%81%A4%E3%81%AE%E9%9B%A3%E9%A1%8CMOD%2F%E7%89%A9%E5%93%81.html -->
 
 くろあんこ | 五つの難題MOD
 
@@ -8,12 +8,10 @@
 ## 关于物品的耐久度
   
 以下页面中所有的物品耐久度均以模组ArmorStatusHUD（版本号1.28）在游戏中显示的为准。  
-
 [mc百科](https://www.mcmod.cn/)中物品的耐久度一般来讲比这边少1，这是因为mojang在MC的1.13.1版本中把所有物品的耐久度降低了1以修复一个bug。  
 
 由于本模组的最高支持版本为1.7.10，故采用物品的真实耐久而非最大耐久。
   
-
 
 ## 关于物品id
   
@@ -22,8 +20,8 @@
 但由于是1.7.10版本，所以可以通过物品的数字id获得。同理适用于对于生物的/summon指令。
   
 
-
 ## 物品和方块
+
 - [装饰性方块](./五つの難題MOD-物品-装饰性方块.md)
 - [杂项](./五つの難題MOD-物品-杂项.md)
 - [食物](./五つの難題MOD-物品-食物.md)
@@ -31,9 +29,6 @@
 - [战斗用品](./五つの難題MOD-物品-战斗用品.md)
 - 材料 (未找到链接)
 - [符卡](./五つの難題MOD-物品-符卡.md)
-
-
-
 
 
 ---

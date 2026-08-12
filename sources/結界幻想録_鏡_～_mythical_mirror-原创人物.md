@@ -1,6 +1,6 @@
 # 結界幻想録_鏡_～_mythical_mirror/原创人物
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\c\c5\ns0%3A%E7%B5%90%E7%95%8C%E5%B9%BB%E6%83%B3%E9%8C%B2_%E9%8F%A1_%EF%BD%9E_mythical_mirror%2F%E5%8E%9F%E5%88%9B%E4%BA%BA%E7%89%A9.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\c\c5\ns0%3A%E7%B5%90%E7%95%8C%E5%B9%BB%E6%83%B3%E9%8C%B2_%E9%8F%A1_%EF%BD%9E_mythical_mirror%2F%E5%8E%9F%E5%88%9B%E4%BA%BA%E7%89%A9.html -->
 
 DANGOYA | Danmaq
 
@@ -10,7 +10,7 @@ DANGOYA | Danmaq
 二面 上知我麻命名
   
   
-[](./文件-上知我麻_命名.jpg.md)
+<img alt="上知我麻 命名.jpg" src="https://upload.thwiki.cc/a/ae/%E4%B8%8A%E7%9F%A5%E6%88%91%E9%BA%BB_%E5%91%BD%E5%90%8D.jpg" decoding="async" loading="lazy" width="552" height="636" data-file-width="552" data-file-height="636">
   
   
   
@@ -18,19 +18,19 @@ DANGOYA | Danmaq
 三面 一谷山オロチ
   
   
-[](./文件-一谷山_オロチ.jpg.md)
+<img alt="一谷山 オロチ.jpg" src="https://upload.thwiki.cc/e/ee/%E4%B8%80%E8%B0%B7%E5%B1%B1_%E3%82%AA%E3%83%AD%E3%83%81.jpg" decoding="async" loading="lazy" width="552" height="641" data-file-width="552" data-file-height="641">
   
   
   
 
-四面 オーラル&amp;コーラル
+四面 オーラル&コーラル
   
   
 其原型为慧音的三种神器 玉
   
   
-[](./文件-オ—ラル.jpg.md)
-[](./文件-コ—ラル.jpg.md)
+<img alt="オ—ラル.jpg" src="https://upload.thwiki.cc/4/4b/%E3%82%AA%E2%80%94%E3%83%A9%E3%83%AB.jpg" decoding="async" loading="lazy" width="556" height="648" data-file-width="556" data-file-height="648">
+<img alt="コ—ラル.jpg" src="https://upload.thwiki.cc/1/15/%E3%82%B3%E2%80%94%E3%83%A9%E3%83%AB.jpg" decoding="async" loading="lazy" width="551" height="643" data-file-width="551" data-file-height="643">
   
   
   
@@ -41,7 +41,7 @@ DANGOYA | Danmaq
 其原型为慧音的三种神器 剑
   
   
-[](./文件-天草_幻夜.jpg.md)
+<img alt="天草 幻夜.jpg" src="https://upload.thwiki.cc/e/e4/%E5%A4%A9%E8%8D%89_%E5%B9%BB%E5%A4%9C.jpg" decoding="async" loading="lazy" width="553" height="645" data-file-width="553" data-file-height="645">
   
   
   
@@ -52,7 +52,7 @@ DANGOYA | Danmaq
 其原型为慧音的三种神器 镜
   
   
-[](./文件-八经津_日向.jpg.md)
+<img alt="八经津 日向.jpg" src="https://upload.thwiki.cc/4/40/%E5%85%AB%E7%BB%8F%E6%B4%A5_%E6%97%A5%E5%90%91.jpg" decoding="async" loading="lazy" width="556" height="649" data-file-width="556" data-file-height="649">
   
   
   
@@ -63,12 +63,8 @@ EX 八经津火乃照
 其原型为慧音的三种神器 乡
   
   
-[](./文件-八经津_火乃照.jpg.md)
+<img alt="八经津 火乃照.jpg" src="https://upload.thwiki.cc/4/4f/%E5%85%AB%E7%BB%8F%E6%B4%A5_%E7%81%AB%E4%B9%83%E7%85%A7.jpg" decoding="async" loading="lazy" width="552" height="644" data-file-width="552" data-file-height="644">
   
-
-
-
-
 
 ---
 

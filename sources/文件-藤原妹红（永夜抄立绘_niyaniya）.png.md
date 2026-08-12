@@ -1,12 +1,8 @@
 # 文件:藤原妹红（永夜抄立绘_niyaniya）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\61\ns6%3A%E8%97%A4%E5%8E%9F%E5%A6%B9%E7%BA%A2%EF%BC%88%E6%B0%B8%E5%A4%9C%E6%8A%84%E7%AB%8B%E7%BB%98_niyaniya%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\61\ns6%3A%E8%97%A4%E5%8E%9F%E5%A6%B9%E7%BA%A2%EF%BC%88%E6%B0%B8%E5%A4%9C%E6%8A%84%E7%AB%8B%E7%BB%98_niyaniya%EF%BC%89%2Epng.html -->
 
 ZUN绘 | 东方永夜抄 | 官方游戏立绘 | 藤原妹红
-
-
-
-
 
 
 ---

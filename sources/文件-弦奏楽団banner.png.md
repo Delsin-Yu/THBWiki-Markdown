@@ -1,18 +1,13 @@
 # 文件:弦奏楽団banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\40\ns6%3A%E5%BC%A6%E5%A5%8F%E6%A5%BD%E5%9B%A3banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\40\ns6%3A%E5%BC%A6%E5%A5%8F%E6%A5%BD%E5%9B%A3banner%2Epng.html -->
 
 弦奏楽団 | 社团LOGO
 
 
 ## 摘要
   
-源地址：[[1]](http://gakudan.jp/i/banner.png)
-  
-
-
-
-
+源地址：[\[1\]](http://gakudan.jp/i/banner.png)  
 
 ---
 

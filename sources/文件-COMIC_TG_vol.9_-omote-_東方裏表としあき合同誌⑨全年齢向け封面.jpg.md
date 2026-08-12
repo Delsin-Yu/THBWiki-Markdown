@@ -1,6 +1,6 @@
 # 文件:COMIC_TG_vol.9_-omote-_東方裏表としあき合同誌⑨全年齢向け封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2d\ns6%3ACOMIC_TG_vol%2E9_-omote-_%E6%9D%B1%E6%96%B9%E8%A3%8F%E8%A1%A8%E3%81%A8%E3%81%97%E3%81%82%E3%81%8D%E5%90%88%E5%90%8C%E8%AA%8C%E2%91%A8%E5%85%A8%E5%B9%B4%E9%BD%A2%E5%90%91%E3%81%91%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2d\ns6%3ACOMIC_TG_vol%2E9_-omote-_%E6%9D%B1%E6%96%B9%E8%A3%8F%E8%A1%A8%E3%81%A8%E3%81%97%E3%81%82%E3%81%8D%E5%90%88%E5%90%8C%E8%AA%8C%E2%91%A8%E5%85%A8%E5%B9%B4%E9%BD%A2%E5%90%91%E3%81%91%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 心輝楼
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [COMIC TG vol.9 -omote- 東方裏表としあき合同誌⑨全年齢向け](./COMIC_TG_vol.9_-omote-_東方裏表としあき合同誌⑨全年齢向け.md)  
-该封面包含的角色：- [庭渡久侘歌](./庭渡久侘歌.md)
-
-
-
+- [COMIC TG vol.9 -omote- 東方裏表としあき合同誌⑨全年齢向け](./COMIC_TG_vol.9_-omote-_東方裏表としあき合同誌⑨全年齢向け.md)该封面包含的角色：
+- [庭渡久侘歌](./庭渡久侘歌.md)
 
 
 ---

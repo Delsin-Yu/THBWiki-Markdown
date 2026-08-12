@@ -1,6 +1,6 @@
 # 文件:むげんげEP封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\14\ns6%3A%E3%82%80%E3%81%92%E3%82%93%E3%81%92EP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\14\ns6%3A%E3%82%80%E3%81%92%E3%82%93%E3%81%92EP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 下町パイプライン | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [むげんげEP](./むげんげEP.md)  
-该封面包含的角色：- [梦月](./梦月.md)- [幻月](./幻月.md)
-
-
-
+- [むげんげEP](./むげんげEP.md)该封面包含的角色：
+- [梦月](./梦月.md)
+- [幻月](./幻月.md)
 
 
 ---

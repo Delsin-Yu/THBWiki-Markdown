@@ -1,6 +1,6 @@
 # 文件:SumiTube_ON_Live封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c5\ns6%3ASumiTube_ON_Live%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c5\ns6%3ASumiTube_ON_Live%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 熊猫苺
 
@@ -10,16 +10,13 @@
 使用了本文件作封面图片的作品：
   
 
-- [SumiTube ON Live](./SumiTube_ON_Live.md)  
-该封面包含的角色：- [冈崎梦美](./冈崎梦美.md)- [北白河千百合](./北白河千百合.md)- [宇佐见堇子](./宇佐见堇子.md)
+- [SumiTube ON Live](./SumiTube_ON_Live.md)该封面包含的角色：
+- [冈崎梦美](./冈崎梦美.md)
+- [北白河千百合](./北白河千百合.md)
+- [宇佐见堇子](./宇佐见堇子.md)
 
   
-源地址：[direct image link (original size)](https://pbs.twimg.com/media/FdvGb_CaIAIxfOn?format=jpg&amp;name=orig), [source tweet](https://twitter.com/KuroNon_96/status/1575070702675578880)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://pbs.twimg.com/media/FdvGb_CaIAIxfOn?format=jpg&name=orig), [source tweet](https://twitter.com/KuroNon_96/status/1575070702675578880)  
 
 ---
 

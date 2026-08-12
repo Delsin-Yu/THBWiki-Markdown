@@ -1,6 +1,6 @@
 # 文件:God_Forsaken（ELECTRIC_RED）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\01\ns6%3AGod_Forsaken%EF%BC%88ELECTRIC_RED%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\01\ns6%3AGod_Forsaken%EF%BC%88ELECTRIC_RED%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ELECTRIC_RED | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ ELECTRIC_RED | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [God Forsaken（ELECTRIC RED）](./God_Forsaken（ELECTRIC_RED）.md)  
-该封面包含的角色：- [八坂神奈子](./八坂神奈子.md)
-
-
-
+- [God Forsaken（ELECTRIC RED）](./God_Forsaken（ELECTRIC_RED）.md)该封面包含的角色：
+- [八坂神奈子](./八坂神奈子.md)
 
 
 ---

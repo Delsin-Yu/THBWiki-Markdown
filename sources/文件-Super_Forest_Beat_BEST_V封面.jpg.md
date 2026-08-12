@@ -1,6 +1,6 @@
 # 文件:Super_Forest_Beat_BEST_V封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e2\ns6%3ASuper_Forest_Beat_BEST_V%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e2\ns6%3ASuper_Forest_Beat_BEST_V%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Silver_Forest | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ Silver_Forest | 专辑封面 | 封面图片
   
 
 - [Super Forest Beat BEST V](./Super_Forest_Beat_BEST_V.md)
-
-
-
 
 
 ---

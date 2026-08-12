@@ -1,6 +1,6 @@
 # 文件:東の方の独奏会-fleur-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0a\ns6%3A%E6%9D%B1%E3%81%AE%E6%96%B9%E3%81%AE%E7%8B%AC%E5%A5%8F%E4%BC%9A-fleur-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0a\ns6%3A%E6%9D%B1%E3%81%AE%E6%96%B9%E3%81%AE%E7%8B%AC%E5%A5%8F%E4%BC%9A-fleur-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 弦夢屋
 
@@ -11,12 +11,7 @@
 - [東の方の独奏会-fleur-](./東の方の独奏会-fleur-.md)
 
   
-源地址：[[1]](http://genmuya.sakura.ne.jp/img/Fleuromote.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://genmuya.sakura.ne.jp/img/Fleuromote.jpg)  
 
 ---
 

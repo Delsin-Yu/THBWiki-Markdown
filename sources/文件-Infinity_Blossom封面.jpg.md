@@ -1,6 +1,6 @@
 # 文件:Infinity_Blossom封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\21\ns6%3AInfinity_Blossom%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\21\ns6%3AInfinity_Blossom%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Amateras_Records | 专辑封面 | 封面图片
 
@@ -10,11 +10,10 @@ Amateras_Records | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Infinity Blossom](./Infinity_Blossom.md)  
-该封面包含的角色：- [西行寺幽幽子](./西行寺幽幽子.md)- [古明地恋](./古明地恋.md)- [霍青娥](./霍青娥.md)
-
-
-
+- [Infinity Blossom](./Infinity_Blossom.md)该封面包含的角色：
+- [西行寺幽幽子](./西行寺幽幽子.md)
+- [古明地恋](./古明地恋.md)
+- [霍青娥](./霍青娥.md)
 
 
 ---

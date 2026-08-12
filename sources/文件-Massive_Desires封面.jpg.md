@@ -1,6 +1,6 @@
 # 文件:Massive_Desires封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0d\ns6%3AMassive_Desires%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0d\ns6%3AMassive_Desires%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ESSENTIAL_RECORDS | 专辑封面 | 封面图片
 
@@ -8,16 +8,12 @@ ESSENTIAL_RECORDS | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Massive Desires](./Massive_Desires.md)  
-该封面包含的角色：- [物部布都](./物部布都.md)- [丰聪耳神子](./丰聪耳神子.md)
+- [Massive Desires](./Massive_Desires.md)该封面包含的角色：
+- [物部布都](./物部布都.md)
+- [丰聪耳神子](./丰聪耳神子.md)
 
   
-源地址：[[1]](https://blog-imgs-51.fc2.com/a/r/c/arceusremix/C21.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://blog-imgs-51.fc2.com/a/r/c/arceusremix/C21.jpg)  
 
 ---
 

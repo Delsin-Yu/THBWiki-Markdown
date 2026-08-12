@@ -1,6 +1,6 @@
 # 文件:東方蓬千歌_～Sound_of_Chord～封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3c\ns6%3A%E6%9D%B1%E6%96%B9%E8%93%AC%E5%8D%83%E6%AD%8C_%EF%BD%9ESound_of_Chord%EF%BD%9E%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3c\ns6%3A%E6%9D%B1%E6%96%B9%E8%93%AC%E5%8D%83%E6%AD%8C_%EF%BD%9ESound_of_Chord%EF%BD%9E%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 いえろ～ぜぶら | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方蓬千歌 ～Sound of Chord～](./東方蓬千歌_～Sound_of_Chord～.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [東方蓬千歌 ～Sound of Chord～](./東方蓬千歌_～Sound_of_Chord～.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

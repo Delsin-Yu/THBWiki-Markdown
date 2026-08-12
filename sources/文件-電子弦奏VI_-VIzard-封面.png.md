@@ -1,6 +1,6 @@
 # 文件:電子弦奏VI_-VIzard-封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ec\ns6%3A%E9%9B%BB%E5%AD%90%E5%BC%A6%E5%A5%8FVI_-VIzard-%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ec\ns6%3A%E9%9B%BB%E5%AD%90%E5%BC%A6%E5%A5%8FVI_-VIzard-%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 ゼッケン屋 | 专辑封面 | 封面图片 | 狐梦想屋
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [電子弦奏VI -VIzard-](./電子弦奏VI_-VIzard-.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)
-
-
-
+- [電子弦奏VI -VIzard-](./電子弦奏VI_-VIzard-.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
 
 
 ---

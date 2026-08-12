@@ -1,12 +1,8 @@
 # 文件:せーてんのへきれきbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\86\ns6%3A%E3%81%9B%E3%83%BC%E3%81%A6%E3%82%93%E3%81%AE%E3%81%B8%E3%81%8D%E3%82%8C%E3%81%8Dbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\86\ns6%3A%E3%81%9B%E3%83%BC%E3%81%A6%E3%82%93%E3%81%AE%E3%81%B8%E3%81%8D%E3%82%8C%E3%81%8Dbanner%2Ejpg.html -->
 
 せーてんのへきれき | 社团LOGO
-
-
-
-
 
 
 ---

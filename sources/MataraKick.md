@@ -1,21 +1,17 @@
 # MataraKick
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\62\ns0%3AMataraKick.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\62\ns0%3AMataraKick.html -->
 
 2023年5月17日 由 永远幻想矩阵  发布的RAC同人游戏，可在 通用 系统上运行，游戏人数为 单人模式，，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人软件 (未找到链接)** 的词条
-
+**[二次创作同人软件](./二次创作.md#同人软件)**的词条
 ## 目录
 
 - [1 软件信息](#软件信息)
 - [2 Staff](#Staff)
 - [3 内容页面](#内容页面)
 - [4 评论](#评论)
-
-
-
 
 
 ## 软件信息
@@ -26,17 +22,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://dreammatrix.cc">http://dreammatrix.cc</a><br><a rel="nofollow" class="external free" href="http://evkworld.cn/g/ifberm">http://evkworld.cn/g/ifberm</a></td></tr></tbody></table>
 
 MataraKick（同人游戏，永远幻想矩阵，2023） - 2023年5月17日 由 永远幻想矩阵  发布的RAC同人游戏，可在 通用 系统上运行，游戏人数为 单人模式，，分级为 一般向
-  
-  
-
-  
-
-
 <table>
 <tbody><tr><th colspan="2">配置需求</th></tr>
 <tr><td style="width:120px;padding-left:7px;"><b>操作系统</b></td><td>任意可以使用支持HTML5的浏览器和鼠标/触控笔的操作系统均可</td></tr><tr><td style="width:120px;padding-left:7px;"><b>CPU</b></td><td>无要求</td></tr><tr><td style="width:120px;padding-left:7px;"><b>内存</b></td><td>推荐4GB以上</td></tr><tr><td style="width:120px;padding-left:7px;"><b>显示卡</b></td><td>无需求</td></tr><tr><td style="width:120px;padding-left:7px;"><b>硬盘需求</b></td><td>在线版本无需求，离线版本需求100MB以上</td></tr><tr><td style="width:120px;padding-left:7px;"><b>其他</b></td><td>推荐在触屏设备或鼠标设备上游玩</td></tr>
 </tbody></table>
-
 
 
 ## Staff
@@ -47,11 +36,9 @@ MataraKick（同人游戏，永远幻想矩阵，2023） - 2023年5月17日 由 
 美术（非dairi绘部分）：Mokousoft
   
 
-
 ## 内容页面
   
- **使用说明** 
-  
+**使用说明**  
   
 摩多罗向点击位置的移动速度为600像素/s
   
@@ -83,8 +70,7 @@ MataraKick（同人游戏，永远幻想矩阵，2023） - 2023年5月17日 由 
 月狂护盾可以将除防撞桶、莉莉白外的敌机的碰撞取消五秒
   
   
- **其他信息** 
-  
+**其他信息**  
   
 游戏使用唤境引擎制作
   
@@ -98,11 +84,7 @@ MataraKick（同人游戏，永远幻想矩阵，2023） - 2023年5月17日 由 
 游戏在2023年5月17日晚发布第一个预览版本，并在八天后上线了增加大量内容的正式版本
   
 
-
 ## 评论
-
-
-
 
 ---
 

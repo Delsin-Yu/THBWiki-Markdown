@@ -1,6 +1,6 @@
 # 文件:Hypocrisy_Luna封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\12\ns6%3AHypocrisy_Luna%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\12\ns6%3AHypocrisy_Luna%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Al-Kamar_Project | 专辑封面 | 封面图片
 
@@ -13,12 +13,7 @@ Al-Kamar_Project | 专辑封面 | 封面图片
 - [Hypocrisy Luna](./Hypocrisy_Luna.md)
 
   
-源地址：[direct image link](https://web.archive.org/web/20160522155626im_/http://alkamar.jougennotuki.com/img/alkamar.jpg), [source page](https://web.archive.org/web/20100922055412/http://alkamar.jougennotuki.com/)
-  
-
-
-
-
+源地址：[direct image link](https://web.archive.org/web/20160522155626im_/http://alkamar.jougennotuki.com/img/alkamar.jpg), [source page](https://web.archive.org/web/20100922055412/http://alkamar.jougennotuki.com/)  
 
 ---
 

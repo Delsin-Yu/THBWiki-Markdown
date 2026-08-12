@@ -1,16 +1,12 @@
 # 模板:人偶使的Tea_Party
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\3\30\ns10%3A%E4%BA%BA%E5%81%B6%E4%BD%BF%E7%9A%84Tea_Party.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\3\30\ns10%3A%E4%BA%BA%E5%81%B6%E4%BD%BF%E7%9A%84Tea_Party.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

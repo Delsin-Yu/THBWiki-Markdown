@@ -1,14 +1,11 @@
 # 文件:Studio_Rice_Cake_banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\91\ns6%3AStudio_Rice_Cake_banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\91\ns6%3AStudio_Rice_Cake_banner%2Egif.html -->
 
 Studio_Rice_Cake | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:昏迷のサンクタム_-TABLETALK_ROLE_PLAY_IN_TOHO_20-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b0\ns6%3A%E6%98%8F%E8%BF%B7%E3%81%AE%E3%82%B5%E3%83%B3%E3%82%AF%E3%82%BF%E3%83%A0_-TABLETALK_ROLE_PLAY_IN_TOHO_20-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b0\ns6%3A%E6%98%8F%E8%BF%B7%E3%81%AE%E3%82%B5%E3%83%B3%E3%82%AF%E3%82%BF%E3%83%A0_-TABLETALK_ROLE_PLAY_IN_TOHO_20-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 天秤亭 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [昏迷のサンクタム -TABLETALK ROLE PLAY IN TOHO 20-](./昏迷のサンクタム_-TABLETALK_ROLE_PLAY_IN_TOHO_20-.md)  
-该封面包含的角色：- [天弓千亦](./天弓千亦.md)
-
-
-
+- [昏迷のサンクタム -TABLETALK ROLE PLAY IN TOHO 20-](./昏迷のサンクタム_-TABLETALK_ROLE_PLAY_IN_TOHO_20-.md)该封面包含的角色：
+- [天弓千亦](./天弓千亦.md)
 
 
 ---

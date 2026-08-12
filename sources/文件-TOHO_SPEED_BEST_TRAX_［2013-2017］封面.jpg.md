@@ -1,6 +1,6 @@
 # 文件:TOHO_SPEED_BEST_TRAX_［2013-2017］封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\de\ns6%3ATOHO_SPEED_BEST_TRAX_%EF%BC%BB2013-2017%EF%BC%BD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\de\ns6%3ATOHO_SPEED_BEST_TRAX_%EF%BC%BB2013-2017%EF%BC%BD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 LiLA'c_Records | 专辑封面 | 封面图片
 
@@ -8,11 +8,11 @@ LiLA'c_Records | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [TOHO SPEED BEST TRAX ［2013-2017］](./TOHO_SPEED_BEST_TRAX_［2013-2017］.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)- [藤原妹红](./藤原妹红.md)- [克劳恩皮丝](./克劳恩皮丝.md)
-
-
-
+- [TOHO SPEED BEST TRAX ［2013-2017］](./TOHO_SPEED_BEST_TRAX_［2013-2017］.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [藤原妹红](./藤原妹红.md)
+- [克劳恩皮丝](./克劳恩皮丝.md)
 
 
 ---

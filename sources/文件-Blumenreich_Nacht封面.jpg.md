@@ -1,6 +1,6 @@
 # 文件:Blumenreich_Nacht封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1b\ns6%3ABlumenreich_Nacht%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1b\ns6%3ABlumenreich_Nacht%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 半裸帝国 | 封面图片
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Blumenreich Nacht](./Blumenreich_Nacht.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)
+- [Blumenreich Nacht](./Blumenreich_Nacht.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
 
   
-源地址：[[1]](http://empireofhanra.web.fc2.com/cd/BlumenreichNacht.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://empireofhanra.web.fc2.com/cd/BlumenreichNacht.jpg)  
 
 ---
 

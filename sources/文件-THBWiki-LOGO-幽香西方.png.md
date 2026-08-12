@@ -1,12 +1,8 @@
 # 文件:THBWiki-LOGO-幽香西方.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\01\ns6%3ATHBWiki-LOGO-%E5%B9%BD%E9%A6%99%E8%A5%BF%E6%96%B9%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\01\ns6%3ATHBWiki-LOGO-%E5%B9%BD%E9%A6%99%E8%A5%BF%E6%96%B9%2Epng.html -->
 
 THBWiki | Wiki词条分类用图
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:東方麗魅嬢_～Toho_Remilia～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\ff\ns6%3A%E6%9D%B1%E6%96%B9%E9%BA%97%E9%AD%85%E5%AC%A2_%EF%BD%9EToho_Remilia%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\ff\ns6%3A%E6%9D%B1%E6%96%B9%E9%BA%97%E9%AD%85%E5%AC%A2_%EF%BD%9EToho_Remilia%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 LunarComet | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@ LunarComet | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方麗魅嬢 ～Toho Remilia～](./東方麗魅嬢_～Toho_Remilia～.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [東方麗魅嬢 ～Toho Remilia～](./東方麗魅嬢_～Toho_Remilia～.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
   
-源地址：[direct image link](https://kstd.net/img/lcmc001_jk.jpg), [source page](https://kstd.net/c76-remilia.html)
-  
-
-
-
-
+源地址：[direct image link](https://kstd.net/img/lcmc001_jk.jpg), [source page](https://kstd.net/c76-remilia.html)  
 
 ---
 

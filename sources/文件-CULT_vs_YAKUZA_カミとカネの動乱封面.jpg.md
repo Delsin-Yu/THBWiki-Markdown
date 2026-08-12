@@ -1,6 +1,6 @@
 # 文件:CULT_vs_YAKUZA_カミとカネの動乱封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\41\ns6%3ACULT_vs_YAKUZA_%E3%82%AB%E3%83%9F%E3%81%A8%E3%82%AB%E3%83%8D%E3%81%AE%E5%8B%95%E4%B9%B1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\41\ns6%3ACULT_vs_YAKUZA_%E3%82%AB%E3%83%9F%E3%81%A8%E3%82%AB%E3%83%8D%E3%81%AE%E5%8B%95%E4%B9%B1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 純情リーマー
 
@@ -10,11 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [CULT vs YAKUZA カミとカネの動乱](./CULT_vs_YAKUZA_カミとカネの動乱.md)  
-该封面包含的角色：- [骊驹早鬼](./骊驹早鬼.md)- [埴安神袿姬](./埴安神袿姬.md)- [吉吊八千慧](./吉吊八千慧.md)- [杖刀偶磨弓](./杖刀偶磨弓.md)
-
-
-
+- [CULT vs YAKUZA カミとカネの動乱](./CULT_vs_YAKUZA_カミとカネの動乱.md)该封面包含的角色：
+- [骊驹早鬼](./骊驹早鬼.md)
+- [埴安神袿姬](./埴安神袿姬.md)
+- [吉吊八千慧](./吉吊八千慧.md)
+- [杖刀偶磨弓](./杖刀偶磨弓.md)
 
 
 ---

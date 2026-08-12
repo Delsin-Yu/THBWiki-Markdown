@@ -1,6 +1,6 @@
 # 文件:Element封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e3\ns6%3AElement%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e3\ns6%3AElement%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 RekraH | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@ RekraH | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Element](./Element.md)  
-该封面包含的角色：- [古明地觉](./古明地觉.md)
+- [Element](./Element.md)该封面包含的角色：
+- [古明地觉](./古明地觉.md)
 
   
-源地址：[direct image link (original size; cropped)](https://pbs.twimg.com/media/Fegr2IOakAAEilm?format=jpg&amp;name=orig), [source tweet](https://twitter.com/chesscure/status/1578559886761553920)
-  
-
-
-
-
+源地址：[direct image link (original size; cropped)](https://pbs.twimg.com/media/Fegr2IOakAAEilm?format=jpg&name=orig), [source tweet](https://twitter.com/chesscure/status/1578559886761553920)  
 
 ---
 

@@ -1,14 +1,11 @@
 # 文件:TOUHOU_ROCK_FES_LOGO.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b1\ns6%3ATOUHOU_ROCK_FES_LOGO%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b1\ns6%3ATOUHOU_ROCK_FES_LOGO%2Epng.html -->
 
 TOUHOU_ROCK_FES | 活动LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

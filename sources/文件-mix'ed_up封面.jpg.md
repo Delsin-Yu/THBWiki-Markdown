@@ -1,6 +1,6 @@
 # 文件:mix'ed_up封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bb\ns6%3Amix%27ed_up%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bb\ns6%3Amix%27ed_up%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 うさちゃんスタジオ | 专辑封面 | 封面图片
 
@@ -8,12 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [mix'ed up](./mix'ed_up.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [古明地恋](./古明地恋.md)源地址：[[1]](https://web.archive.org/web/20150804152318im_/http://matuokoumuten.com/images/mixup.jpg)
-
-
-
-
+- [mix'ed up](./mix'ed_up.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [古明地恋](./古明地恋.md)
+源地址：[\[1\]](https://web.archive.org/web/20150804152318im_/http://matuokoumuten.com/images/mixup.jpg)
 
 ---
 

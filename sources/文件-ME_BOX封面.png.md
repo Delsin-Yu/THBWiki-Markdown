@@ -1,6 +1,6 @@
 # 文件:ME_BOX封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\41\ns6%3AME_BOX%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\41\ns6%3AME_BOX%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 氷笠家屋
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [ME BOX](./ME_BOX.md)  
-该封面包含的角色：- [堀川雷鼓](./堀川雷鼓.md)
-
-
-
+- [ME BOX](./ME_BOX.md)该封面包含的角色：
+- [堀川雷鼓](./堀川雷鼓.md)
 
 
 ---

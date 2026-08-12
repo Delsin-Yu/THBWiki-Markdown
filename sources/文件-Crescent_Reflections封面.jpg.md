@@ -1,6 +1,6 @@
 # 文件:Crescent_Reflections封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\13\ns6%3ACrescent_Reflections%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\13\ns6%3ACrescent_Reflections%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Higan_Daybreak | 专辑封面 | 封面图片 | ＊_Works
 
@@ -11,12 +11,7 @@ Higan_Daybreak | 专辑封面 | 封面图片 | ＊_Works
 - [Crescent Reflections](./Crescent_Reflections.md)
 
   
-源地址：[[1]](https://f4.bcbits.com/img/a4142212864_10.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://f4.bcbits.com/img/a4142212864_10.jpg)  
 
 ---
 

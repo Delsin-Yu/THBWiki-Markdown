@@ -1,12 +1,11 @@
 # 东方幻梦笺~Touhou_Phantasm_Dream/说明
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\c\ca\ns0%3A%E4%B8%9C%E6%96%B9%E5%B9%BB%E6%A2%A6%E7%AC%BA%7ETouhou_Phantasm_Dream%2F%E8%AF%B4%E6%98%8E.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\c\ca\ns0%3A%E4%B8%9C%E6%96%B9%E5%B9%BB%E6%A2%A6%E7%AC%BA%7ETouhou_Phantasm_Dream%2F%E8%AF%B4%E6%98%8E.html -->
 
 龙皇社
 
   
- **自机角色** 
-  
+**自机角色**  
   
 博丽灵梦
   
@@ -62,7 +61,7 @@
 性别：女
   
   
-职业：魔法使&amp;职业惯匪（？）
+职业：魔法使&职业惯匪（？）
   
   
 种族：人类
@@ -107,7 +106,7 @@
 　　什么？你问为什么不直接说小偷？
   
   
-　　“读书人的事，怎么能叫偷呢？你知道茴字的四种写法吗？等等别走呀！你听我说完呀！别打我呀！%&amp;%&amp;！（拳脚相加声）”——受采访的路人如是说。
+　　“读书人的事，怎么能叫偷呢？你知道茴字的四种写法吗？等等别走呀！你听我说完呀！别打我呀！%&%&！（拳脚相加声）”——受采访的路人如是说。
   
   
   
@@ -215,8 +214,7 @@
 　　不敢最好。
   
   
- **敌机角色** 
-  
+**敌机角色**  
   
 博丽梦入
   
@@ -836,10 +834,6 @@
 　　油炸豆腐是个好主意，不过鉴于对方的高智商，还是不要主动招惹比较好。
   
   
-  
-
-  
-  
 八云紫
   
   
@@ -993,10 +987,6 @@
   
 　　你一般察觉不到她，并且她对人类也没什么危害，所以你并不需要什么鸟对策～
   
-
-
-
-
 
 ---
 

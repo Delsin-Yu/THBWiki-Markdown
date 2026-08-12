@@ -1,12 +1,8 @@
 # 文件:「ZUN_Soft」の表示で流れる音楽.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a4\ns6%3A%E3%80%8CZUN_Soft%E3%80%8D%E3%81%AE%E8%A1%A8%E7%A4%BA%E3%81%A7%E6%B5%81%E3%82%8C%E3%82%8B%E9%9F%B3%E6%A5%BD%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a4\ns6%3A%E3%80%8CZUN_Soft%E3%80%8D%E3%81%AE%E8%A1%A8%E7%A4%BA%E3%81%A7%E6%B5%81%E3%82%8C%E3%82%8B%E9%9F%B3%E6%A5%BD%2Emp3.html -->
 
 Init | 东方幻想乡 | 东方怪绮谈 | 原曲MP3
-
-
-
-
 
 
 ---

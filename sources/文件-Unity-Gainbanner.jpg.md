@@ -1,16 +1,11 @@
 # 文件:Unity-Gainbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3b\ns6%3AUnity-Gainbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3b\ns6%3AUnity-Gainbanner%2Ejpg.html -->
 
 Unity-Gain | 社团LOGO
 
   
-源地址：[[1]](http://kakeruichi.mydns.jp/unity-gain_logo.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://kakeruichi.mydns.jp/unity-gain_logo.jpg)  
 
 ---
 

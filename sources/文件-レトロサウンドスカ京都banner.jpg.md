@@ -1,12 +1,8 @@
 # 文件:レトロサウンドスカ京都banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\71\ns6%3A%E3%83%AC%E3%83%88%E3%83%AD%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%82%B9%E3%82%AB%E4%BA%AC%E9%83%BDbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\71\ns6%3A%E3%83%AC%E3%83%88%E3%83%AD%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%82%B9%E3%82%AB%E4%BA%AC%E9%83%BDbanner%2Ejpg.html -->
 
 レトロサウンドスカ京都 | 社团LOGO
-
-
-
-
 
 
 ---

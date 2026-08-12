@@ -1,16 +1,11 @@
 # 文件:あんみつよもぎ亭banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\db\ns6%3A%E3%81%82%E3%82%93%E3%81%BF%E3%81%A4%E3%82%88%E3%82%82%E3%81%8E%E4%BA%ADbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\db\ns6%3A%E3%81%82%E3%82%93%E3%81%BF%E3%81%A4%E3%82%88%E3%82%82%E3%81%8E%E4%BA%ADbanner%2Ejpg.html -->
 
 あんみつよもぎ亭 | 社团LOGO
 
   
-来源：[https://www.pixiv.net/member_illust.php?mode=medium&amp;illust_id=13123228](https://www.pixiv.net/member_illust.php?mode=medium&amp;illust_id=13123228)
-  
-
-
-
-
+来源：[https://www.pixiv.net/member_illust.php?mode=medium&illust_id=13123228](https://www.pixiv.net/member_illust.php?mode=medium&illust_id=13123228)  
 
 ---
 

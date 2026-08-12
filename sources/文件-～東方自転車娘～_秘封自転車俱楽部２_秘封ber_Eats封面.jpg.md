@@ -1,6 +1,6 @@
 # 文件:～東方自転車娘～_秘封自転車俱楽部２_秘封ber_Eats封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\23\ns6%3A%EF%BD%9E%E6%9D%B1%E6%96%B9%E8%87%AA%E8%BB%A2%E8%BB%8A%E5%A8%98%EF%BD%9E_%E7%A7%98%E5%B0%81%E8%87%AA%E8%BB%A2%E8%BB%8A%E4%BF%B1%E6%A5%BD%E9%83%A8%EF%BC%92_%E7%A7%98%E5%B0%81ber_Eats%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\23\ns6%3A%EF%BD%9E%E6%9D%B1%E6%96%B9%E8%87%AA%E8%BB%A2%E8%BB%8A%E5%A8%98%EF%BD%9E_%E7%A7%98%E5%B0%81%E8%87%AA%E8%BB%A2%E8%BB%8A%E4%BF%B1%E6%A5%BD%E9%83%A8%EF%BC%92_%E7%A7%98%E5%B0%81ber_Eats%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 青南風
 
@@ -10,16 +10,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [～東方自転車娘～ 秘封自転車俱楽部２ 秘封ber Eats](./～東方自転車娘～_秘封自転車俱楽部２_秘封ber_Eats.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
+- [～東方自転車娘～ 秘封自転車俱楽部２ 秘封ber Eats](./～東方自転車娘～_秘封自転車俱楽部２_秘封ber_Eats.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
   
-源地址：[direct image link (original uploaded image)](https://pbs.twimg.com/media/FHNzb_IacAIKGba?format=jpg&amp;name=orig), [source tweet](https://twitter.com/bd_r838/status/1473653682680246273)
-  
-
-
-
-
+源地址：[direct image link (original uploaded image)](https://pbs.twimg.com/media/FHNzb_IacAIKGba?format=jpg&name=orig), [source tweet](https://twitter.com/bd_r838/status/1473653682680246273)  
 
 ---
 

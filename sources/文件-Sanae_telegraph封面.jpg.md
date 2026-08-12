@@ -1,6 +1,6 @@
 # 文件:Sanae_telegraph封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5b\ns6%3ASanae_telegraph%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5b\ns6%3ASanae_telegraph%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 minimum_electric_design | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ minimum_electric_design | 专辑封面 | 封面图片
   
 
 - [sanae telegraph](./sanae_telegraph.md)
-
-
-
 
 
 ---

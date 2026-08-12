@@ -1,12 +1,8 @@
 # 文件:钓瓶「飞入井中」（DS文花帖）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\93\ns6%3A%E9%92%93%E7%93%B6%E3%80%8C%E9%A3%9E%E5%85%A5%E4%BA%95%E4%B8%AD%E3%80%8D%EF%BC%88DS%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\93\ns6%3A%E9%92%93%E7%93%B6%E3%80%8C%E9%A3%9E%E5%85%A5%E4%BA%95%E4%B8%AD%E3%80%8D%EF%BC%88DS%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Ejpg.html -->
 
 东方文花帖DS | 敌机符卡 | 琪斯美
-
-
-
-
 
 
 ---

@@ -1,16 +1,12 @@
 # 模板:AT
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\2\23\ns10%3AAT.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\2\23\ns10%3AAT.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

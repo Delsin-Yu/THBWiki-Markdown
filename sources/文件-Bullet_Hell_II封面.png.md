@@ -1,6 +1,6 @@
 # 文件:Bullet_Hell_II封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\12\ns6%3ABullet_Hell_II%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\12\ns6%3ABullet_Hell_II%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 RichaadEB | 专辑封面 | 封面图片
 
@@ -10,16 +10,12 @@ RichaadEB | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Bullet Hell II](./Bullet_Hell_II.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)
+- [Bullet Hell II](./Bullet_Hell_II.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
 
   
-源地址：[[1]](https://pbs.twimg.com/media/Ecl3jmzUMAAh_TV?format=png&amp;name=orig) (from release announcement tweet)
+源地址：[\[1\]](https://pbs.twimg.com/media/Ecl3jmzUMAAh_TV?format=png&name=orig) (from release announcement tweet)
   
-
-
-
-
 
 ---
 

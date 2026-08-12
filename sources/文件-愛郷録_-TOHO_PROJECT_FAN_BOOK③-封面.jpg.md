@@ -1,6 +1,6 @@
 # 文件:愛郷録_-TOHO_PROJECT_FAN_BOOK③-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\14\ns6%3A%E6%84%9B%E9%83%B7%E9%8C%B2_-TOHO_PROJECT_FAN_BOOK%E2%91%A2-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\14\ns6%3A%E6%84%9B%E9%83%B7%E9%8C%B2_-TOHO_PROJECT_FAN_BOOK%E2%91%A2-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 オランジュ停留所 | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [愛郷録 -TOHO PROJECT FAN BOOK③-](./愛郷録_-TOHO_PROJECT_FAN_BOOK③-.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
-
-
-
+- [愛郷録 -TOHO PROJECT FAN BOOK③-](./愛郷録_-TOHO_PROJECT_FAN_BOOK③-.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
 
 ---

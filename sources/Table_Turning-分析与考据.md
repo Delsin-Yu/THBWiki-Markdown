@@ -1,6 +1,6 @@
 # Table_Turning/分析与考据
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\e\e5\ns0%3ATable_Turning%2F%E5%88%86%E6%9E%90%E4%B8%8E%E8%80%83%E6%8D%AE.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\e\e5\ns0%3ATable_Turning%2F%E5%88%86%E6%9E%90%E4%B8%8E%E8%80%83%E6%8D%AE.html -->
 
 符卡 | 蕾蒂·霍瓦特洛克
 
@@ -8,9 +8,7 @@
 ## 目录
 
 - [1 分析与考据](#分析与考据)
-
   - [1.1 怪符「テーブルターニング」](#怪符「テーブルターニング」)
-
 
 
 - [2 注释](#注释)
@@ -18,43 +16,33 @@
 - [4 导航](#导航)
 
 
-
-
-
 ## 分析与考据
 
 ### 怪符「テーブルターニング」
   
- **怪符「テーブルターニング」**  怪符「Table Turning」（桌灵转）
+**怪符「テーブルターニング」** 怪符「Table Turning」（桌灵转）
   
 
 - <ruby lang="ja"><rb>怪</rb><rp> (</rp><rt>かい</rt><rp>) </rp></ruby>
-
   - 指妖妖梦里冬天持续到五月的怪现象。
 
-- テーブルターニング（table-turning）
-  - 英语：桌灵转。数人围着桌子举行的一种降灵术。
+
+- テーブルターニング（table-turning） 
+  - 英语：桌灵转。数人围着桌子举行的一种降灵术。 
     - 从西洋传入日本后，派生了狐狗狸占卜[^cite_note-1]。
-    - 阿加莎·克里斯蒂的推理小说《西塔佛秘案》（ *The Sittaford Mystery* ）[^cite_note-2]中，主人公们在下着大雪的夜晚举行桌灵转仪式。
+    - 阿加莎·克里斯蒂的推理小说《西塔佛秘案》（*The Sittaford Mystery*）[^cite_note-2]中，主人公们在下着大雪的夜晚举行桌灵转仪式。
+
 
   - 相似的英语短句“turn the table”是「逆转形势」的意思。
 
 
 
 [^cite_note-1]: 中文维基百科：[狐狗狸](https://en.wikipedia.org/wiki/zh:狐狗狸)
-
+[^cite_note-2]: 中文维基百科：[西塔佛秘案](https://en.wikipedia.org/wiki/zh:西塔佛秘案)
 
 ## 参见
+
 - [蕾蒂·霍瓦特洛克/分析考据](./蕾蒂·霍瓦特洛克-分析考据.md)
-
-
-## 导航
-
-<table><tbody><tr><td><table cellspacing="0" class="nowraplinks mw-collapsible mw-collapsed" style="width:100%;;;"><tbody><tr><th style=";" colspan="3" class="navbox-title"><div class="navbar"><div class="noprint plainlinksneverexpand" style="background-color:transparent; padding:0; font-weight:normal; font-size:80%; white-space:nowrap;"><a href="./模板-蕾蒂符卡导航.md" title="模板:蕾蒂符卡导航"><span style=";;border:none;" title="查看这个模板">查</span></a>&#160;<span style="font-size:80%;">•</span>&#160;<a href="/index.php?title=%E6%A8%A1%E6%9D%BF:%E8%95%BE%E8%92%82%E7%AC%A6%E5%8D%A1%E5%AF%BC%E8%88%AA&amp;action=edit"><span style=";;border:none;" title="您可以编辑这个模板。请在储存变更之前先预览">编</span></a></div></div><span><a href="./蕾蒂·霍瓦特洛克.md" title="蕾蒂·霍瓦特洛克">蕾蒂·霍瓦特洛克</a>符卡</span></th></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">射击游戏</td><td style=";;" class="navbox-list navbox-odd"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div><a href="./东方妖妖梦.md" title="东方妖妖梦">东方妖妖梦</a></div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./Lingering_Cold.md" title="Lingering Cold" unred="">寒符「Lingering Cold」</a> &#8226; <a href="./Flower_Wither_Away.md" title="Flower Wither Away" unred="">冬符「Flower Wither Away」</a> &#8226; <a href="./Undulation_Ray.md" title="Undulation Ray" unred="">白符「Undulation Ray」</a> &#8226; <a href="./Table_Turning.md" title="Table Turning" unred="">怪符「Table Turning」</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div><a href="./东方文花帖.md" title="东方文花帖">东方文花帖</a></div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./Cold_Snap.md" title="Cold Snap" unred="">寒符「Cold Snap」</a> &#8226; <a href="./Northern_Winner.md" title="Northern Winner" unred="">冬符「Northern Winner」</a></div></td></tr></tbody></table><div></div></td><td class="navbox-image" style="" rowspan="3"><a href="./文件-蕾蒂（Q版立绘）.png.md" class="image"><img alt="蕾蒂（Q版立绘）.png" src="https://upload.thwiki.cc/thumb/9/9b/%E8%95%BE%E8%92%82%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png/160px-%E8%95%BE%E8%92%82%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="160" height="160" srcset="https://upload.thwiki.cc/thumb/9/9b/%E8%95%BE%E8%92%82%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png/240px-%E8%95%BE%E8%92%82%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/9/9b/%E8%95%BE%E8%92%82%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png/320px-%E8%95%BE%E8%92%82%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="500" data-file-height="500"></a></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">出版物</td><td style=";;" class="navbox-list navbox-even"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div><a href="./The_Grimoire_of_Marisa.md" title="The Grimoire of Marisa" unred="">魔理沙的魔法书</a></div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./Cold_Snap.md" title="Cold Snap" unred="">寒符「Cold Snap」</a> &#8226; <a href="./Flower_Wither_Away.md" title="Flower Wither Away" unred="">冬符「Flower Wither Away」</a></div></td></tr></tbody></table><div></div></td></tr></tbody></table></td></tr></tbody></table>
-
-
-
-
 
 
 ---

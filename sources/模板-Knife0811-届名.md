@@ -1,16 +1,12 @@
 # 模板:Knife0811/届名
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\2\2d\ns10%3AKnife0811%2F%E5%B1%8A%E5%90%8D.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\2\2d\ns10%3AKnife0811%2F%E5%B1%8A%E5%90%8D.html -->
 
 活动届名模板
 
   
 Knife-Knife- 座谈会～きらぴかみうな改名集结～＆Knife单独公演 mini One-man 「无限接近One-man的mini One-man」
   
-
-
-
-
 
 ---
 

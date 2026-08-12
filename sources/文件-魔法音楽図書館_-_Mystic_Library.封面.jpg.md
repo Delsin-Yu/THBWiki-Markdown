@@ -1,6 +1,6 @@
 # 文件:魔法音楽図書館_-_Mystic_Library.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\74\ns6%3A%E9%AD%94%E6%B3%95%E9%9F%B3%E6%A5%BD%E5%9B%B3%E6%9B%B8%E9%A4%A8_-_Mystic_Library%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\74\ns6%3A%E9%AD%94%E6%B3%95%E9%9F%B3%E6%A5%BD%E5%9B%B3%E6%9B%B8%E9%A4%A8_-_Mystic_Library%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 AncientChronicle | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ AncientChronicle | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [魔法音楽図書館 - Mystic Library.](./魔法音楽図書館_-_Mystic_Library..md)  
-该封面包含的角色：- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)- 十六夜咲夜 (未找到链接)
-
-
-
+- [魔法音楽図書館 - Mystic Library.](./魔法音楽図書館_-_Mystic_Library..md)该封面包含的角色：
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
+- [十六夜咲夜](./十六夜咲夜.md)
 
 
 ---

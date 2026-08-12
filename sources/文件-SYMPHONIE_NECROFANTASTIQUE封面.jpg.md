@@ -1,6 +1,6 @@
 # 文件:SYMPHONIE_NECROFANTASTIQUE封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\10\ns6%3ASYMPHONIE_NECROFANTASTIQUE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\10\ns6%3ASYMPHONIE_NECROFANTASTIQUE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 しっぽり隠れ家 | 同人志封面 | 封面图片
 
@@ -10,12 +10,16 @@
 使用了本文件作封面图片的作品：
   
 
-- [SYMPHONIE NECROFANTASTIQUE](./SYMPHONIE_NECROFANTASTIQUE.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)- 十六夜咲夜 (未找到链接)- [梅蒂欣·梅兰可莉](./梅蒂欣·梅兰可莉.md)- [键山雏](./键山雏.md)- [东风谷早苗](./东风谷早苗.md)- [火焰猫燐](./火焰猫燐.md)- [灵乌路空](./灵乌路空.md) 来源：[https://www.pixiv.net/artworks/50236967](https://www.pixiv.net/artworks/50236967)
-
-
-
-
+- [SYMPHONIE NECROFANTASTIQUE](./SYMPHONIE_NECROFANTASTIQUE.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
+- [十六夜咲夜](./十六夜咲夜.md)
+- [梅蒂欣·梅兰可莉](./梅蒂欣·梅兰可莉.md)
+- [键山雏](./键山雏.md)
+- [东风谷早苗](./东风谷早苗.md)
+- [火焰猫燐](./火焰猫燐.md)
+- [灵乌路空](./灵乌路空.md)
+ 来源：[https://www.pixiv.net/artworks/50236967](https://www.pixiv.net/artworks/50236967)
 
 ---
 

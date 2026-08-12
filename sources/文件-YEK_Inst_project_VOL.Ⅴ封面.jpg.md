@@ -1,6 +1,6 @@
 # 文件:YEK_Inst_project_VOL.Ⅴ封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5d\ns6%3AYEK_Inst_project_VOL%2E%E2%85%A4%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5d\ns6%3AYEK_Inst_project_VOL%2E%E2%85%A4%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 YEKproject | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ YEKproject | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [YEK Inst project VOL.Ⅴ](./YEK_Inst_project_VOL.Ⅴ.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
-
-
-
+- [YEK Inst project VOL.Ⅴ](./YEK_Inst_project_VOL.Ⅴ.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:BEST_Marcia_手焼きCD封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ad\ns6%3ABEST_Marcia_%E6%89%8B%E7%84%BC%E3%81%8DCD%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ad\ns6%3ABEST_Marcia_%E6%89%8B%E7%84%BC%E3%81%8DCD%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 幽闭星光
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [BEST Marcia 手焼きCD](./BEST_Marcia_手焼きCD.md)  
-该封面包含的角色：- [东风谷早苗](./东风谷早苗.md)- [一咲美葵](./一咲美葵.md)
-
-
-
+- [BEST Marcia 手焼きCD](./BEST_Marcia_手焼きCD.md)该封面包含的角色：
+- [东风谷早苗](./东风谷早苗.md)
+- [一咲美葵](./一咲美葵.md)
 
 
 ---

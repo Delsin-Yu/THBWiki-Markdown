@@ -1,6 +1,6 @@
 # 文件:弾き語り集_Vol.2封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\94\ns6%3A%E5%BC%BE%E3%81%8D%E8%AA%9E%E3%82%8A%E9%9B%86_Vol%2E2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\94\ns6%3A%E5%BC%BE%E3%81%8D%E8%AA%9E%E3%82%8A%E9%9B%86_Vol%2E2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 味玉定食 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [弾き語り集 Vol.2](./弾き語り集_Vol.2.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
-
-
-
+- [弾き語り集 Vol.2](./弾き語り集_Vol.2.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
 
 
 ---

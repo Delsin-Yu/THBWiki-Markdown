@@ -1,6 +1,6 @@
 # 文件:JUMP-OTOME～SHOURI～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a6\ns6%3AJUMP-OTOME%EF%BD%9ESHOURI%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a6\ns6%3AJUMP-OTOME%EF%BD%9ESHOURI%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 封面图片 | 视频封面 | 豚乙女
 
@@ -9,9 +9,6 @@
   
 
 - [JUMP-OTOME～SHOURI～](./JUMP-OTOME～SHOURI～.md)
-
-
-
 
 
 ---

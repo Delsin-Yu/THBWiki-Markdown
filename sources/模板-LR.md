@@ -1,16 +1,12 @@
 # 模板:LR
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\7\77\ns10%3ALR.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\7\77\ns10%3ALR.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

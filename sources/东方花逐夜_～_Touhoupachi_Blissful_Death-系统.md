@@ -1,6 +1,6 @@
 # 东方花逐夜_～_Touhoupachi_Blissful_Death/系统
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\5\50\ns0%3A%E4%B8%9C%E6%96%B9%E8%8A%B1%E9%80%90%E5%A4%9C_%EF%BD%9E_Touhoupachi_Blissful_Death%2F%E7%B3%BB%E7%BB%9F.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\5\50\ns0%3A%E4%B8%9C%E6%96%B9%E8%8A%B1%E9%80%90%E5%A4%9C_%EF%BD%9E_Touhoupachi_Blissful_Death%2F%E7%B3%BB%E7%BB%9F.html -->
 
 正灌
 
@@ -12,9 +12,6 @@
 - [3 结界槽](#结界槽)
 - [4 机体说明](#机体说明)
 - [5 Extra模式](#Extra模式)
-
-
-
 
 
 ## 操作说明
@@ -50,7 +47,7 @@ Hyper
 
 
 ## 结界槽
-[](./文件-东方花逐夜系统说明.jpg.md)
+<img alt="东方花逐夜系统说明.jpg" src="https://upload.thwiki.cc/thumb/1/16/%E4%B8%9C%E6%96%B9%E8%8A%B1%E9%80%90%E5%A4%9C%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E.jpg/200px-%E4%B8%9C%E6%96%B9%E8%8A%B1%E9%80%90%E5%A4%9C%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E.jpg" decoding="async" loading="lazy" width="200" height="186" srcset="https://upload.thwiki.cc/1/16/%E4%B8%9C%E6%96%B9%E8%8A%B1%E9%80%90%E5%A4%9C%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E.jpg 1.5x" data-file-width="225" data-file-height="209">
   
 屏幕右侧状态栏的STATU条即为结界槽，代表着博丽大结界的稳定程度，擦弹会使结界槽增长。注意，游戏的前两关有一些带黑边的子弹，它们能让结界槽更快地增长起来。
   
@@ -73,8 +70,6 @@ Hyper
 第二面除了Simple模式以外会出现增援的杂鱼，这些杂鱼的出现频率也会随着结界槽的增长而加快。
   
 
-
-
 ## 机体说明
   
 人物与机体存在解锁的条件，需要完成该条件后才能解锁，单关练习则需要对应机体与强化通关过该关才能开启。大部分机体具有主机强化、僚机强化和双强化三种强化配置。
@@ -95,13 +90,12 @@ Hyper
 推荐机体：灵C僚机强化、魔B主机强化。魔C与魔D过于强力很可能影响游戏体会，故不推荐使用
   
 
-
 ## Extra模式
   
 1.Extra模式下无法续关，且只能使用每个人物的前两个装备。
   
   
-2.当power为9.99时获得P点将会累计hyper值，hyper值最高9.00，hyper值&gt;=1.00的情况下按C可以使用 hyper，hyper提供1秒的无敌时间同时增强自身火力，越高等级的hyper持续时间越短伤害越强，hyper状 态下连击数增涨速度加快，敌方弹速增加25%。hyper状态下使用bomb或是MISS都会将hyper值清0，但非 hyper状态下使用bomb则不受影响。当前连击数在1000以下时，每获得1000W分便会掉落一个Hyper道具。
+2.当power为9.99时获得P点将会累计hyper值，hyper值最高9.00，hyper值>=1.00的情况下按C可以使用 hyper，hyper提供1秒的无敌时间同时增强自身火力，越高等级的hyper持续时间越短伤害越强，hyper状 态下连击数增涨速度加快，敌方弹速增加25%。hyper状态下使用bomb或是MISS都会将hyper值清0，但非 hyper状态下使用bomb则不受影响。当前连击数在1000以下时，每获得1000W分便会掉落一个Hyper道具。
   
   
 3.结界槽改为连击槽，每击破一个敌人都将增加与该敌人血量成正比的连击槽，连击槽过线后自动吸收道 具同时进入累加连击的状态，该状态下每一连击都提供一些分数，连击越高分数越高，使用bomb与BOSS战 时连击槽不会下降。
@@ -139,10 +133,6 @@ Hyper
   
 9.关底BOSS全程带盾，不论是BOMB还是MISS带来的无敌期间敌机都会无敌，hyper的一秒无敌除外，同时 关底BOSS终身形态下hyper状态时的火力会被消减一半。
   
-
-
-
-
 
 ---
 

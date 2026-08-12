@@ -1,16 +1,11 @@
 # 文件:Nine_Tailsbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\30\ns6%3ANine_Tailsbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\30\ns6%3ANine_Tailsbanner%2Ejpg.html -->
 
 Nine_Tails | 社团LOGO
 
   
-源地址：[[1]](http://heliospherenova.web.fc2.com/nintbunner.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://heliospherenova.web.fc2.com/nintbunner.jpg)  
 
 ---
 

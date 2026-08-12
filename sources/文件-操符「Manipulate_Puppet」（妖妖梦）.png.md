@@ -1,12 +1,8 @@
 # 文件:操符「Manipulate_Puppet」（妖妖梦）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\48\ns6%3A%E6%93%8D%E7%AC%A6%E3%80%8CManipulate_Puppet%E3%80%8D%EF%BC%88%E5%A6%96%E5%A6%96%E6%A2%A6%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\48\ns6%3A%E6%93%8D%E7%AC%A6%E3%80%8CManipulate_Puppet%E3%80%8D%EF%BC%88%E5%A6%96%E5%A6%96%E6%A2%A6%EF%BC%89%2Epng.html -->
 
 东方妖妖梦 | 敌机符卡 | 爱丽丝·玛格特洛依德
-
-
-
-
 
 
 ---

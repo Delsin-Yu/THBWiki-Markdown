@@ -1,16 +1,11 @@
 # 文件:OMOCHI_SOUND_FACTORYlogo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6e\ns6%3AOMOCHI_SOUND_FACTORYlogo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6e\ns6%3AOMOCHI_SOUND_FACTORYlogo%2Epng.html -->
 
 OMOCHI_SOUND_FACTORY | 社团LOGO
 
   
-源地址：[[1]](http://omochi-sf.com/wp-content/themes/twentyseventeen/assets/images/header/logo_osf_wh.png)
-  
-
-
-
-
+源地址：[\[1\]](http://omochi-sf.com/wp-content/themes/twentyseventeen/assets/images/header/logo_osf_wh.png)  
 
 ---
 

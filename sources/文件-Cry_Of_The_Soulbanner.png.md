@@ -1,16 +1,11 @@
 # 文件:Cry_Of_The_Soulbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\90\ns6%3ACry_Of_The_Soulbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\90\ns6%3ACry_Of_The_Soulbanner%2Epng.html -->
 
 Cry_Of_The_Soul | 社团LOGO
 
   
-源地址：[[1]](https://static.wixstatic.com/media/da789f_3c3c57c5a70f43e29737583dce480429~mv2_d_1920_1920_s_2.png/v1/fill/w_369,h_369,al_c,usm_0.66_1.00_0.01/da789f_3c3c57c5a70f43e29737583dce480429~mv2_d_1920_1920_s_2.png)
-  
-
-
-
-
+源地址：[\[1\]](https://static.wixstatic.com/media/da789f_3c3c57c5a70f43e29737583dce480429~mv2_d_1920_1920_s_2.png/v1/fill/w_369,h_369,al_c,usm_0.66_1.00_0.01/da789f_3c3c57c5a70f43e29737583dce480429~mv2_d_1920_1920_s_2.png)  
 
 ---
 

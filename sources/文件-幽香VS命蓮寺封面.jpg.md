@@ -1,6 +1,6 @@
 # 文件:幽香VS命蓮寺封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7f\ns6%3A%E5%B9%BD%E9%A6%99VS%E5%91%BD%E8%93%AE%E5%AF%BA%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7f\ns6%3A%E5%B9%BD%E9%A6%99VS%E5%91%BD%E8%93%AE%E5%AF%BA%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 徒歩二分
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [幽香VS命蓮寺](./幽香VS命蓮寺.md)  
-该封面包含的角色：- [风见幽香](./风见幽香.md)- [圣白莲](./圣白莲.md)
-
-
-
+- [幽香VS命蓮寺](./幽香VS命蓮寺.md)该封面包含的角色：
+- [风见幽香](./风见幽香.md)
+- [圣白莲](./圣白莲.md)
 
 
 ---

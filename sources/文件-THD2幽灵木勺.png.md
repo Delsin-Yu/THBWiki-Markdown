@@ -1,12 +1,8 @@
 # 文件:THD2幽灵木勺.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\aa\ns6%3ATHD2%E5%B9%BD%E7%81%B5%E6%9C%A8%E5%8B%BA%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\aa\ns6%3ATHD2%E5%B9%BD%E7%81%B5%E6%9C%A8%E5%8B%BA%2Epng.html -->
 
 东方DOTS玩家社群
-
-
-
-
 
 
 ---

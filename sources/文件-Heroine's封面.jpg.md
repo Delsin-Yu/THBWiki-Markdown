@@ -1,6 +1,6 @@
 # 文件:Heroine's封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c2\ns6%3AHeroine%27s%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c2\ns6%3AHeroine%27s%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Dystopia_Drug | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Dystopia_Drug | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Heroine's](./Heroine's.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [Heroine's](./Heroine's.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

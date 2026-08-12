@@ -1,6 +1,6 @@
 # 文件:Gossip_Report封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\69\ns6%3AGossip_Report%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\69\ns6%3AGossip_Report%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 まんじゅう大爆発 | 同人志封面 | 封面图片
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [Gossip Report](./Gossip_Report.md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)- [犬走椛](./犬走椛.md)
-
-
-
+- [Gossip Report](./Gossip_Report.md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
+- [犬走椛](./犬走椛.md)
 
 
 ---

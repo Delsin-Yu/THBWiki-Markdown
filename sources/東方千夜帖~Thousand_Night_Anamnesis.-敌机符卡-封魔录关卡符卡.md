@@ -1,6 +1,6 @@
 # 東方千夜帖~Thousand_Night_Anamnesis./敌机符卡/封魔录关卡符卡
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\c\c0\ns0%3A%E6%9D%B1%E6%96%B9%E5%8D%83%E5%A4%9C%E5%B8%96%7EThousand_Night_Anamnesis%2E%2F%E6%95%8C%E6%9C%BA%E7%AC%A6%E5%8D%A1%2F%E5%B0%81%E9%AD%94%E5%BD%95%E5%85%B3%E5%8D%A1%E7%AC%A6%E5%8D%A1.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\c\c0\ns0%3A%E6%9D%B1%E6%96%B9%E5%8D%83%E5%A4%9C%E5%B8%96%7EThousand_Night_Anamnesis%2E%2F%E6%95%8C%E6%9C%BA%E7%AC%A6%E5%8D%A1%2F%E5%B0%81%E9%AD%94%E5%BD%95%E5%85%B3%E5%8D%A1%E7%AC%A6%E5%8D%A1.html -->
 
 サラダ
 
@@ -90,20 +90,15 @@
 <td>我还不如让她使用「极限火花」呢。就像一个意外惊喜。
 </td></tr>
 <tr>
-<td><b>「千夜回忆」<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">1</a></sup>/「幻想千夜一夜物语」<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">2</a></sup></b></td>
+<td><b>「千夜回忆」<span>[^cite_note-1]</span>/「幻想千夜一夜物语」<span>[^cite_note-2]</span></b></td>
 <td>回归标题。最后一张符卡结束了这漫长的弹幕之旅。</td>
 <td>回归标题。随着背景画面变换，真的是The Last的感觉。</td>
 <td>因为有五个阶段，所以实际上是五张符卡。也就是一粒有五倍的味道。</td>
 <td>漫长的弹幕故事就此圆满完结。如果有机会我们会再次见面。
 </td></tr></tbody></table>
 
-
-
 [^cite_note-1]: E，N难度下的名称，其符卡英文名为游戏副标题
-
-
-
-
+[^cite_note-2]: H，L难度的符卡，其中L难度最后阶段开幕的弹幕展现即是游戏图标
 
 ---
 

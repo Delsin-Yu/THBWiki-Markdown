@@ -1,6 +1,6 @@
 # 文件:東方道中膝栗毛-In_the_Far_East_Journey-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\97\ns6%3A%E6%9D%B1%E6%96%B9%E9%81%93%E4%B8%AD%E8%86%9D%E6%A0%97%E6%AF%9B-In_the_Far_East_Journey-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\97\ns6%3A%E6%9D%B1%E6%96%B9%E9%81%93%E4%B8%AD%E8%86%9D%E6%A0%97%E6%AF%9B-In_the_Far_East_Journey-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Chroma。 | 专辑封面 | 封面图片
 
@@ -8,11 +8,10 @@ Chroma。 | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方道中膝栗毛-In the Far East Journey-](./東方道中膝栗毛-In_the_Far_East_Journey-.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)- [博丽灵梦](./博丽灵梦.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [東方道中膝栗毛-In the Far East Journey-](./東方道中膝栗毛-In_the_Far_East_Journey-.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
+- [博丽灵梦](./博丽灵梦.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

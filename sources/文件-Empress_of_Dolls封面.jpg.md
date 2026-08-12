@@ -1,6 +1,6 @@
 # 文件:Empress_of_Dolls封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a0\ns6%3AEmpress_of_Dolls%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a0\ns6%3AEmpress_of_Dolls%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 MA☆SPARK!_RECORDS | 专辑封面 | 封面图片
 
@@ -8,11 +8,16 @@ MA☆SPARK!_RECORDS | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Empress of Dolls](./Empress_of_Dolls.md)  
-该封面包含的角色：- [博丽灵梦（旧作角色）](./博丽灵梦（旧作角色）.md)- [雾雨魔理沙（旧作角色）](./雾雨魔理沙（旧作角色）.md)- [爱丽丝（旧作角色）](./爱丽丝（旧作角色）.md)- [梦子](./梦子.md)- [萨拉](./萨拉.md)- [露易兹](./露易兹.md)- [雪](./雪.md)- [舞](./舞.md)- [幽香](./幽香.md)
-
-
-
+- [Empress of Dolls](./Empress_of_Dolls.md)该封面包含的角色：
+- [博丽灵梦（旧作角色）](./博丽灵梦（旧作角色）.md)
+- [雾雨魔理沙（旧作角色）](./雾雨魔理沙（旧作角色）.md)
+- [爱丽丝（旧作角色）](./爱丽丝（旧作角色）.md)
+- [梦子](./梦子.md)
+- [萨拉](./萨拉.md)
+- [露易兹](./露易兹.md)
+- [雪](./雪.md)
+- [舞](./舞.md)
+- [幽香](./幽香.md)
 
 
 ---

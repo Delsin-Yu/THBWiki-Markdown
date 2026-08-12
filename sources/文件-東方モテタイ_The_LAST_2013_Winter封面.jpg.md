@@ -1,6 +1,6 @@
 # 文件:東方モテタイ_The_LAST_2013_Winter封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f0\ns6%3A%E6%9D%B1%E6%96%B9%E3%83%A2%E3%83%86%E3%82%BF%E3%82%A4_The_LAST_2013_Winter%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f0\ns6%3A%E6%9D%B1%E6%96%B9%E3%83%A2%E3%83%86%E3%82%BF%E3%82%A4_The_LAST_2013_Winter%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Sound_CYCLONE | 专辑封面 | 封面图片
 
@@ -10,11 +10,11 @@ Sound_CYCLONE | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方モテタイ The LAST 2013 Winter](./東方モテタイ_The_LAST_2013_Winter.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [八云紫](./八云紫.md)- [雾雨魔理沙](./雾雨魔理沙.md)- [森近霖之助](./森近霖之助.md)
-
-
-
+- [東方モテタイ The LAST 2013 Winter](./東方モテタイ_The_LAST_2013_Winter.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [八云紫](./八云紫.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
+- [森近霖之助](./森近霖之助.md)
 
 
 ---

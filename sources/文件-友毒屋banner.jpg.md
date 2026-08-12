@@ -1,14 +1,11 @@
 # 文件:友毒屋banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2e\ns6%3A%E5%8F%8B%E6%AF%92%E5%B1%8Bbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2e\ns6%3A%E5%8F%8B%E6%AF%92%E5%B1%8Bbanner%2Ejpg.html -->
 
 友毒屋 | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

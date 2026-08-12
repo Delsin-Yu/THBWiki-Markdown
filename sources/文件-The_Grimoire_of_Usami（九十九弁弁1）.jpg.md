@@ -1,14 +1,11 @@
 # 文件:The_Grimoire_of_Usami（九十九弁弁1）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e5\ns6%3AThe_Grimoire_of_Usami%EF%BC%88%E4%B9%9D%E5%8D%81%E4%B9%9D%E5%BC%81%E5%BC%811%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e5\ns6%3AThe_Grimoire_of_Usami%EF%BC%88%E4%B9%9D%E5%8D%81%E4%B9%9D%E5%BC%81%E5%BC%811%EF%BC%89%2Ejpg.html -->
 
 九十九弁弁 | 宇佐见的魔法书
 
 
 ## 摘要
-
-
-
 
 ---
 

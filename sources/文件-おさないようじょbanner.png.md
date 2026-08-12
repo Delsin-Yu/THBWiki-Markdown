@@ -1,14 +1,11 @@
 # 文件:おさないようじょbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f6\ns6%3A%E3%81%8A%E3%81%95%E3%81%AA%E3%81%84%E3%82%88%E3%81%86%E3%81%98%E3%82%87banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f6\ns6%3A%E3%81%8A%E3%81%95%E3%81%AA%E3%81%84%E3%82%88%E3%81%86%E3%81%98%E3%82%87banner%2Epng.html -->
 
 おさないようじょ | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

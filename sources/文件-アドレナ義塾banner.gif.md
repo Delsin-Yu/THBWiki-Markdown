@@ -1,12 +1,8 @@
 # 文件:アドレナ義塾banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bd\ns6%3A%E3%82%A2%E3%83%89%E3%83%AC%E3%83%8A%E7%BE%A9%E5%A1%BEbanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bd\ns6%3A%E3%82%A2%E3%83%89%E3%83%AC%E3%83%8A%E7%BE%A9%E5%A1%BEbanner%2Egif.html -->
 
 アドレナ義塾 | 社团LOGO
-
-
-
-
 
 
 ---

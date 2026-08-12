@@ -1,12 +1,8 @@
 # 文件:东方心梦游-人物-玛利亚（Q版）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\57\ns6%3A%E4%B8%9C%E6%96%B9%E5%BF%83%E6%A2%A6%E6%B8%B8-%E4%BA%BA%E7%89%A9-%E7%8E%9B%E5%88%A9%E4%BA%9A%EF%BC%88Q%E7%89%88%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\57\ns6%3A%E4%B8%9C%E6%96%B9%E5%BF%83%E6%A2%A6%E6%B8%B8-%E4%BA%BA%E7%89%A9-%E7%8E%9B%E5%88%A9%E4%BA%9A%EF%BC%88Q%E7%89%88%EF%BC%89%2Epng.html -->
 
 二次角色立绘 | 夢星琉璃 | 玛利亚·克里斯诺
-
-
-
-
 
 
 ---

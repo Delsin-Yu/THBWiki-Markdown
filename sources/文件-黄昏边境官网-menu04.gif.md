@@ -1,14 +1,11 @@
 # 文件:黄昏边境官网-menu04.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cb\ns6%3A%E9%BB%84%E6%98%8F%E8%BE%B9%E5%A2%83%E5%AE%98%E7%BD%91-menu04%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cb\ns6%3A%E9%BB%84%E6%98%8F%E8%BE%B9%E5%A2%83%E5%AE%98%E7%BD%91-menu04%2Egif.html -->
 
 黄昏边境官网
 
 
 ## 摘要
-
-
-
 
 ---
 

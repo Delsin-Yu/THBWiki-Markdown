@@ -1,12 +1,8 @@
 # 文件:THBWiki-LOGO-茨木华扇.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\09\ns6%3ATHBWiki-LOGO-%E8%8C%A8%E6%9C%A8%E5%8D%8E%E6%89%87%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\09\ns6%3ATHBWiki-LOGO-%E8%8C%A8%E6%9C%A8%E5%8D%8E%E6%89%87%2Epng.html -->
 
 THBWiki | Wiki词条分类用图
-
-
-
-
 
 
 ---

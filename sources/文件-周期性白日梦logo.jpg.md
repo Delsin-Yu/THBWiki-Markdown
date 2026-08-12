@@ -1,12 +1,8 @@
 # 文件:周期性白日梦logo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\80\ns6%3A%E5%91%A8%E6%9C%9F%E6%80%A7%E7%99%BD%E6%97%A5%E6%A2%A6logo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\80\ns6%3A%E5%91%A8%E6%9C%9F%E6%80%A7%E7%99%BD%E6%97%A5%E6%A2%A6logo%2Ejpg.html -->
 
 周期性白日梦 | 社团LOGO
-
-
-
-
 
 
 ---

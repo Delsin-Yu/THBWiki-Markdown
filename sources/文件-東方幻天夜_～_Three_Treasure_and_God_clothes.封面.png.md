@@ -1,6 +1,6 @@
 # 文件:東方幻天夜_～_Three_Treasure_and_God_clothes.封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3c\ns6%3A%E6%9D%B1%E6%96%B9%E5%B9%BB%E5%A4%A9%E5%A4%9C_%EF%BD%9E_Three_Treasure_and_God_clothes%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3c\ns6%3A%E6%9D%B1%E6%96%B9%E5%B9%BB%E5%A4%A9%E5%A4%9C_%EF%BD%9E_Three_Treasure_and_God_clothes%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 でぃーばいと | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方幻天夜 ～ Three Treasure and God clothes.](./東方幻天夜_～_Three_Treasure_and_God_clothes..md)  
-该封面包含的角色：- [环天顶幻日](./环天顶幻日.md)
-
-
-
+- [東方幻天夜 ～ Three Treasure and God clothes.](./東方幻天夜_～_Three_Treasure_and_God_clothes..md)该封面包含的角色：
+- [环天顶幻日](./环天顶幻日.md)
 
 
 ---

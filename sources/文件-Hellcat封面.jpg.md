@@ -1,6 +1,6 @@
 # 文件:Hellcat封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\72\ns6%3AHellcat%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\72\ns6%3AHellcat%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Ragathol_Enterprises | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@ Ragathol_Enterprises | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Hellcat](./Hellcat.md)  
-该封面包含的角色：- [火焰猫燐](./火焰猫燐.md)
+- [Hellcat](./Hellcat.md)该封面包含的角色：
+- [火焰猫燐](./火焰猫燐.md)
 
   
-源地址：[direct image link from Gumroad (original size)](https://public-files.gumroad.com/hpk6u6pmpkyubmfubasqz9oq1jma), [source page](https://ragathol.gumroad.com/l/YNekL)
-  
-
-
-
-
+源地址：[direct image link from Gumroad (original size)](https://public-files.gumroad.com/hpk6u6pmpkyubmfubasqz9oq1jma), [source page](https://ragathol.gumroad.com/l/YNekL)  
 
 ---
 

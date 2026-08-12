@@ -1,16 +1,11 @@
 # 文件:洋月堂banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2e\ns6%3A%E6%B4%8B%E6%9C%88%E5%A0%82banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2e\ns6%3A%E6%B4%8B%E6%9C%88%E5%A0%82banner%2Ejpg.html -->
 
 洋月堂 | 社团LOGO
 
   
-源地址：[[1]](http://yougetsudou.web.fc2.com/gazou/yougetsubanner.JPG)
-  
-
-
-
-
+源地址：[\[1\]](http://yougetsudou.web.fc2.com/gazou/yougetsubanner.JPG)  
 
 ---
 

@@ -1,16 +1,11 @@
 # 文件:以呂波屋banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8c\ns6%3A%E4%BB%A5%E5%91%82%E6%B3%A2%E5%B1%8Bbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8c\ns6%3A%E4%BB%A5%E5%91%82%E6%B3%A2%E5%B1%8Bbanner%2Epng.html -->
 
 以呂波屋 | 社团LOGO
 
   
-源地址：[[1]](http://www.iroha-ya.info/img/materials/banner_irohaya_0.png)
-  
-
-
-
-
+源地址：[\[1\]](http://www.iroha-ya.info/img/materials/banner_irohaya_0.png)  
 
 ---
 

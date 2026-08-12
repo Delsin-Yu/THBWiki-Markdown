@@ -1,6 +1,6 @@
 # 文件:Mystic_Pocket_Watch封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3f\ns6%3AMystic_Pocket_Watch%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3f\ns6%3AMystic_Pocket_Watch%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 MICMNIS | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ MICMNIS | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Mystic Pocket Watch](./Mystic_Pocket_Watch.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)
-
-
-
+- [Mystic Pocket Watch](./Mystic_Pocket_Watch.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
 
 
 ---

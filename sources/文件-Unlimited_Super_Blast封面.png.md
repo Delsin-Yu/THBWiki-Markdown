@@ -1,6 +1,6 @@
 # 文件:Unlimited_Super_Blast封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0e\ns6%3AUnlimited_Super_Blast%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0e\ns6%3AUnlimited_Super_Blast%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Rimitz | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Rimitz | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Unlimited Super Blast](./Unlimited_Super_Blast.md)  
-该封面包含的角色：- [灵乌路空](./灵乌路空.md)
-
-
-
+- [Unlimited Super Blast](./Unlimited_Super_Blast.md)该封面包含的角色：
+- [灵乌路空](./灵乌路空.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:spiral_galaxy封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7e\ns6%3Aspiral_galaxy%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7e\ns6%3Aspiral_galaxy%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Tribullets | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Tribullets | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [spiral galaxy](./spiral_galaxy.md)  
-该封面包含的角色：- [圣白莲](./圣白莲.md)
+- [spiral galaxy](./spiral_galaxy.md)该封面包含的角色：
+- [圣白莲](./圣白莲.md)
 
   
-源地址：[[1]](http://tribullets.info/06_spiralgalaxy/image/jacket.png)
-  
-
-
-
-
+源地址：[\[1\]](http://tribullets.info/06_spiralgalaxy/image/jacket.png)  
 
 ---
 

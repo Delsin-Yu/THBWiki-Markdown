@@ -1,6 +1,6 @@
 # 文件:TOHO_EURO_MISSION_03封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e4\ns6%3ATOHO_EURO_MISSION_03%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e4\ns6%3ATOHO_EURO_MISSION_03%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 高梨工房
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [TOHO EURO MISSION 03](./TOHO_EURO_MISSION_03.md)  
-该封面包含的角色：- [东风谷早苗](./东风谷早苗.md)
+- [TOHO EURO MISSION 03](./TOHO_EURO_MISSION_03.md)该封面包含的角色：
+- [东风谷早苗](./东风谷早苗.md)
 
   
-源地址：[图片链接](https://static.wixstatic.com/media/34e3c8_b344c909e1ba429b8e0b941381afeedb~mv2.png) [官网特设](https://takanashikoubou.wixsite.com/mysite/toho-euro-mission-03)
-  
-
-
-
-
+源地址：[图片链接](https://static.wixstatic.com/media/34e3c8_b344c909e1ba429b8e0b941381afeedb~mv2.png) [官网特设](https://takanashikoubou.wixsite.com/mysite/toho-euro-mission-03)  
 
 ---
 

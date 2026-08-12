@@ -1,6 +1,6 @@
 # 文件:Sound_Box封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\65\ns6%3ASound_Box%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\65\ns6%3ASound_Box%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 RED_BIRD | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ RED_BIRD | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Sound Box](./Sound_Box.md)  
-该封面包含的角色：- [八云蓝](./八云蓝.md)- [河城荷取](./河城荷取.md)
-
-
-
+- [Sound Box](./Sound_Box.md)该封面包含的角色：
+- [八云蓝](./八云蓝.md)
+- [河城荷取](./河城荷取.md)
 
 
 ---

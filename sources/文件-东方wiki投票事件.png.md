@@ -1,12 +1,8 @@
 # 文件:东方wiki投票事件.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\ba\ns6%3A%E4%B8%9C%E6%96%B9wiki%E6%8A%95%E7%A5%A8%E4%BA%8B%E4%BB%B6%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\ba\ns6%3A%E4%B8%9C%E6%96%B9wiki%E6%8A%95%E7%A5%A8%E4%BA%8B%E4%BB%B6%2Epng.html -->
 
 东方警察
-
-
-
-
 
 
 ---

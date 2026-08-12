@@ -1,36 +1,26 @@
 # Exotic_Crystal
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\a\ab\ns0%3AExotic_Crystal.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\a\ab\ns0%3AExotic_Crystal.html -->
 
 Exotic_Crystal | JynX作曲 | 引用了翻译表的页面 | 连缘Project | 连缘Project官方音乐
 
-本页是关于 **向[东方Project](./东方Project.md)  
-致敬、形式类似的作品** 的词条
-
+本页是关于**向[东方Project](./东方Project.md)致敬、形式类似的作品**  
+的词条
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 出现作品](#出现作品)
 - [3 音乐文件](#音乐文件)
-
   - [3.1 连缘无现里](#连缘无现里)
 
 
-
 - [4 说明文本](#说明文本)
-
   - [4.1 连缘无现里](#连缘无现里_2)
 
 
-
 - [5 其他资料](#其他资料)
-
   - [5.1 乐理资讯](#乐理资讯)
   - [5.2 分析考据](#分析考据)
-
-
-
-
 
 
 
@@ -63,14 +53,12 @@ Exotic_Crystal | JynX作曲 | 引用了翻译表的页面 | 连缘Project | 连�
 </td></tr></tbody></table>
 
 
-
 ## 出现作品
 
 <table>
 
 <tbody><tr><td>2013年11月18日（非展会）</td><td><b><a href="./连缘无现里～Evanescent_Existence.md" title="连缘无现里～Evanescent Existence" unred="">连缘无现里</a></b></td><td>1面道中曲</td><td style="padding-left:5px;">（Exotic Crystal）</td><td style="padding-left:10px;">作曲：JynX</td></tr>
 </tbody></table>
-
 
 
 ## 音乐文件
@@ -94,11 +82,11 @@ Exotic_Crystal | JynX作曲 | 引用了翻译表的页面 | 连缘Project | 连�
 </td></tr></tbody></table>
 
 
-
 ## 说明文本
 
 ### 连缘无现里
-- Music Room (未找到链接)
+
+- [Music Room](./连缘无现里～Evanescent_Existence-Music.md#1面道中曲)
 
 是一面道中曲啊。  
 想作一首带有神秘感的曲子，就成了这个。  
@@ -106,15 +94,11 @@ Exotic_Crystal | JynX作曲 | 引用了翻译表的页面 | 连缘Project | 连�
 令人料想到这之后多舛的剧情……之类的。  
 次元洞窟里应该能挖到异域风情的矿物吧？  
 嘛，这不是挺有一面的感觉吗。
-
 ## 其他资料
 
 ### 乐理资讯
 
 ### 分析考据
-
-
-
 
 ---
 

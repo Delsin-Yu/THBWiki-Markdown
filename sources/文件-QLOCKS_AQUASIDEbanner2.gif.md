@@ -1,16 +1,13 @@
 # 文件:QLOCKS_AQUASIDEbanner2.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\21\ns6%3AQLOCKS_AQUASIDEbanner2%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\21\ns6%3AQLOCKS_AQUASIDEbanner2%2Egif.html -->
 
 QLOCKS_AQUASIDE | 社团LOGO
 
 
-## 文件说明  
-[[1]](http://aqualump.web.fc2.com/about/aqualump2.gif)  
-
-
-
-
+## 文件说明
+  
+[\[1\]](http://aqualump.web.fc2.com/about/aqualump2.gif)  
 
 ---
 

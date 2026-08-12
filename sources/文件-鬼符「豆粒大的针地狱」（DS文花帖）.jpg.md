@@ -1,12 +1,8 @@
 # 文件:鬼符「豆粒大的针地狱」（DS文花帖）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e5\ns6%3A%E9%AC%BC%E7%AC%A6%E3%80%8C%E8%B1%86%E7%B2%92%E5%A4%A7%E7%9A%84%E9%92%88%E5%9C%B0%E7%8B%B1%E3%80%8D%EF%BC%88DS%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e5\ns6%3A%E9%AC%BC%E7%AC%A6%E3%80%8C%E8%B1%86%E7%B2%92%E5%A4%A7%E7%9A%84%E9%92%88%E5%9C%B0%E7%8B%B1%E3%80%8D%EF%BC%88DS%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Ejpg.html -->
 
 东方文花帖DS | 伊吹萃香 | 敌机符卡
-
-
-
-
 
 
 ---

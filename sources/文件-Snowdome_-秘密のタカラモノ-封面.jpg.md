@@ -1,6 +1,6 @@
 # 文件:Snowdome_-秘密のタカラモノ-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\20\ns6%3ASnowdome_-%E7%A7%98%E5%AF%86%E3%81%AE%E3%82%BF%E3%82%AB%E3%83%A9%E3%83%A2%E3%83%8E-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\20\ns6%3ASnowdome_-%E7%A7%98%E5%AF%86%E3%81%AE%E3%82%BF%E3%82%AB%E3%83%A9%E3%83%A2%E3%83%8E-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 TUMENECO | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ TUMENECO | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Snowdome -秘密のタカラモノ-](./Snowdome_-秘密のタカラモノ-.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [Snowdome -秘密のタカラモノ-](./Snowdome_-秘密のタカラモノ-.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

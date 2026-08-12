@@ -1,6 +1,6 @@
 # 文件:Dancin'_In_Carol封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fc\ns6%3ADancin%27_In_Carol%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fc\ns6%3ADancin%27_In_Carol%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 森林送電線
 
@@ -10,16 +10,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [Dancin' In Carol](./Dancin'_In_Carol.md)  
-该封面包含的角色：- [莉格露·奈特巴格](./莉格露·奈特巴格.md)- [风见幽香](./风见幽香.md)
+- [Dancin' In Carol](./Dancin'_In_Carol.md)该封面包含的角色：
+- [莉格露·奈特巴格](./莉格露·奈特巴格.md)
+- [风见幽香](./风见幽香.md)
 
   
-源地址：[[1]](https://blog-imgs-30-origin.fc2.com/k/o/k/kokenoiori/201103102111169d1.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://blog-imgs-30-origin.fc2.com/k/o/k/kokenoiori/201103102111169d1.jpg)  
 
 ---
 

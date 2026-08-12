@@ -1,6 +1,6 @@
 # 文件:白道輪廻_-samsara-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7c\ns6%3A%E7%99%BD%E9%81%93%E8%BC%AA%E5%BB%BB_-samsara-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7c\ns6%3A%E7%99%BD%E9%81%93%E8%BC%AA%E5%BB%BB_-samsara-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ClearLeMel | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ ClearLeMel | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [白道輪廻 -samsara-](./白道輪廻_-samsara-.md)  
-该封面包含的角色：- [蓬莱山辉夜](./蓬莱山辉夜.md)
+- [白道輪廻 -samsara-](./白道輪廻_-samsara-.md)该封面包含的角色：
+- [蓬莱山辉夜](./蓬莱山辉夜.md)
 
   
-源地址：[[1]](http://clmel.com/discography/img/0010.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://clmel.com/discography/img/0010.jpg)  
 
 ---
 

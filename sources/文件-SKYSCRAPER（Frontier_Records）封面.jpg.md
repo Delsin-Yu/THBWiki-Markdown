@@ -1,6 +1,6 @@
 # 文件:SKYSCRAPER（Frontier_Records）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5e\ns6%3ASKYSCRAPER%EF%BC%88Frontier_Records%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5e\ns6%3ASKYSCRAPER%EF%BC%88Frontier_Records%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Frontier_Records | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ Frontier_Records | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [SKYSCRAPER（Frontier Records）](./SKYSCRAPER（Frontier_Records）.md)  
-该封面包含的角色：- [寅丸星](./寅丸星.md)- [圣白莲](./圣白莲.md)
-
-
-
+- [SKYSCRAPER（Frontier Records）](./SKYSCRAPER（Frontier_Records）.md)该封面包含的角色：
+- [寅丸星](./寅丸星.md)
+- [圣白莲](./圣白莲.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Vol.5_おたこれ封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8e\ns6%3AVol%2E5_%E3%81%8A%E3%81%9F%E3%81%93%E3%82%8C%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8e\ns6%3AVol%2E5_%E3%81%8A%E3%81%9F%E3%81%93%E3%82%8C%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 おたクインテット | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Vol.5 おたこれ](./Vol.5_おたこれ.md)  
-该封面包含的角色：- 岛风 (未找到链接)
+- [Vol.5 おたこれ](./Vol.5_おたこれ.md)该封面包含的角色：
+- 岛风 (未找到链接)
 
   
-源地址：[[1]](http://otaquintet.net/images/vol.5.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://otaquintet.net/images/vol.5.jpg)  
 
 ---
 

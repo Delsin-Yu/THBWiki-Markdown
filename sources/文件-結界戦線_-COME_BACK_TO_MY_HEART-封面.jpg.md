@@ -1,6 +1,6 @@
 # 文件:結界戦線_-COME_BACK_TO_MY_HEART-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f8\ns6%3A%E7%B5%90%E7%95%8C%E6%88%A6%E7%B7%9A_-COME_BACK_TO_MY_HEART-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f8\ns6%3A%E7%B5%90%E7%95%8C%E6%88%A6%E7%B7%9A_-COME_BACK_TO_MY_HEART-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 白上さん家
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [結界戦線 -COME BACK TO MY HEART-](./結界戦線_-COME_BACK_TO_MY_HEART-.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [結界戦線 -COME BACK TO MY HEART-](./結界戦線_-COME_BACK_TO_MY_HEART-.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

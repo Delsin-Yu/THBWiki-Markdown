@@ -1,37 +1,27 @@
 # 风的循环_～_Wind_Tour
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\0a\ns0%3A%E9%A3%8E%E7%9A%84%E5%BE%AA%E7%8E%AF_%EF%BD%9E_Wind_Tour.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\0a\ns0%3A%E9%A3%8E%E7%9A%84%E5%BE%AA%E7%8E%AF_%EF%BD%9E_Wind_Tour.html -->
 
 由 ZUN 创作的官方曲目，原名 風の循環　～ Wind Tour
 
 本页是关于东方Project  
- **原作音乐** 的词条
-
+**原作音乐**的词条
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 出现作品](#出现作品)
 - [3 音乐文件](#音乐文件)
-
   - [3.1 东方文花帖](#东方文花帖)
 
 
-
 - [4 说明文本](#说明文本)
-
   - [4.1 东方文花帖](#东方文花帖_2)
 
 
-
 - [5 其他资料](#其他资料)
-
   - [5.1 乐理资讯](#乐理资讯)
   - [5.2 分析考据](#分析考据)
   - [5.3 二次同人数据](#二次同人数据)
-
-
-
-
 
 
 
@@ -41,13 +31,11 @@
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">風の循環　～ Wind Tour</td></tr><tr><td><b>译名</b></td><td>风的循环 ～ Wind Tour</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 风的循环 ～ Wind Tour（曲目） - 由 ZUN 创作的官方曲目，原名 風の循環　～ Wind Tour
-
 ## 出现作品
 
 <table>
 <tbody><tr><td>2005年12月30日（Comic Market 69）</td><td><b><a href="./东方文花帖.md" title="东方文花帖">东方文花帖</a></b></td><td>Level 1、Level 2场景音乐</td><td style="padding-left:5px;">風の循環　～ Wind Tour（风的循环 ～ Wind Tour）</td><td style="padding-left:10px;">作曲：ZUN</td></tr>
 </tbody></table>
-
 
 
 ## 音乐文件
@@ -62,11 +50,11 @@
 </td></tr></tbody></table>
 
 
-
 ## 说明文本
 
 ### 东方文花帖
-- Music Room (未找到链接)
+
+- [Music Room](./东方文花帖-Music.md#摄影主题曲1)
 
 　摄影用曲１。  
   
@@ -74,26 +62,29 @@
 　为了表现出更多的日常感，做成了这种感觉。  
 　相当沉着的感觉，实际上文也是游刃有余，  
 　就象是自己正在逗摄影对象玩一般。
-
 ## 其他资料
 
 ### 乐理资讯
 
 ### 分析考据
   
- **風の循環　～ Wind Tour**  风的循环　～ Wind Tour
+**風の循環 ～ Wind Tour** 风的循环　～ Wind Tour
   
 
-- 风
+- 风 
   - 文文。
   - 文文的取材活动。
 
-- 循环
+
+- 循环 
   - 神主表示曲目中包含了更多日常的感觉。
 
-- Tour
-  - 巡回演出，旅行。
+
+- Tour 
+  - 巡回演出，旅行。 
     - 文文取材的活动。
+
+
 
 
 
@@ -110,17 +101,6 @@
 <tr><td>Arrange</td><td>187</td></tr>
 <tr><td>Vocal率</td><td>18.34%</td></tr>
 </tbody></table>
-
-
-
-
-  
-  
-
-  
-
-
-
 
 
 ---

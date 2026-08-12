@@ -1,6 +1,6 @@
 # 文件:千夜一夜～Alf_Layla_wa_Layla～（同人专辑）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\67\ns6%3A%E5%8D%83%E5%A4%9C%E4%B8%80%E5%A4%9C%EF%BD%9EAlf_Layla_wa_Layla%EF%BD%9E%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\67\ns6%3A%E5%8D%83%E5%A4%9C%E4%B8%80%E5%A4%9C%EF%BD%9EAlf_Layla_wa_Layla%EF%BD%9E%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 GenocideKitten | レミ咲合同企画 | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ GenocideKitten | レミ咲合同企画 | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [千夜一夜～Alf Layla wa Layla～（同人专辑）](./千夜一夜～Alf_Layla_wa_Layla～（同人专辑）.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
-
-
-
+- [千夜一夜～Alf Layla wa Layla～（同人专辑）](./千夜一夜～Alf_Layla_wa_Layla～（同人专辑）.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
 
 ---

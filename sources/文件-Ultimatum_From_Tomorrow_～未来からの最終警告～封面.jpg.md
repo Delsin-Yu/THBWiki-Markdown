@@ -1,6 +1,6 @@
 # 文件:Ultimatum_From_Tomorrow_～未来からの最終警告～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\74\ns6%3AUltimatum_From_Tomorrow_%EF%BD%9E%E6%9C%AA%E6%9D%A5%E3%81%8B%E3%82%89%E3%81%AE%E6%9C%80%E7%B5%82%E8%AD%A6%E5%91%8A%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\74\ns6%3AUltimatum_From_Tomorrow_%EF%BD%9E%E6%9C%AA%E6%9D%A5%E3%81%8B%E3%82%89%E3%81%AE%E6%9C%80%E7%B5%82%E8%AD%A6%E5%91%8A%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 てんじんあんどん | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Ultimatum From Tomorrow ～未来からの最終警告～](./Ultimatum_From_Tomorrow_～未来からの最終警告～.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [Ultimatum From Tomorrow ～未来からの最終警告～](./Ultimatum_From_Tomorrow_～未来からの最終警告～.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
   
-源地址：[direct image link](http://img.www5.hp-ez.com/img/tenjinandon/img_20110826-183648.jpg), [source page](https://www5.hp-ez.com/hp/tenjinandon)
-  
-
-
-
-
+源地址：[direct image link](http://img.www5.hp-ez.com/img/tenjinandon/img_20110826-183648.jpg), [source page](https://www5.hp-ez.com/hp/tenjinandon)  
 
 ---
 

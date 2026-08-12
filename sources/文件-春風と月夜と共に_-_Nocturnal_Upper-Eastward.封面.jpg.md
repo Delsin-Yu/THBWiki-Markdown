@@ -1,6 +1,6 @@
 # 文件:春風と月夜と共に_-_Nocturnal_Upper-Eastward.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\21\ns6%3A%E6%98%A5%E9%A2%A8%E3%81%A8%E6%9C%88%E5%A4%9C%E3%81%A8%E5%85%B1%E3%81%AB_-_Nocturnal_Upper-Eastward%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\21\ns6%3A%E6%98%A5%E9%A2%A8%E3%81%A8%E6%9C%88%E5%A4%9C%E3%81%A8%E5%85%B1%E3%81%AB_-_Nocturnal_Upper-Eastward%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 AncientChronicle | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ AncientChronicle | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [春風と月夜と共に - Nocturnal Upper-Eastward.](./春風と月夜と共に_-_Nocturnal_Upper-Eastward..md)  
-该封面包含的角色：- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
-
-
-
+- [春風と月夜と共に - Nocturnal Upper-Eastward.](./春風と月夜と共に_-_Nocturnal_Upper-Eastward..md)该封面包含的角色：
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
 
 
 ---

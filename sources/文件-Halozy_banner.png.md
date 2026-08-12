@@ -1,12 +1,8 @@
 # 文件:Halozy_banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7e\ns6%3AHalozy_banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7e\ns6%3AHalozy_banner%2Epng.html -->
 
 Halozy | 社团LOGO
-
-
-
-
 
 
 ---

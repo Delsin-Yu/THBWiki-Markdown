@@ -1,6 +1,6 @@
 # 文件:Best_Premium_of_Melon封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\98\ns6%3ABest_Premium_of_Melon%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\98\ns6%3ABest_Premium_of_Melon%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Melonbooks_Records | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ Melonbooks_Records | 专辑封面 | 封面图片
   
 
 - [Best Premium of Melon](./Best_Premium_of_Melon.md)
-
-
-
 
 
 ---

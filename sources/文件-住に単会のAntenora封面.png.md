@@ -1,6 +1,6 @@
 # 文件:住に単会のAntenora封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2c\ns6%3A%E4%BD%8F%E3%81%AB%E5%8D%98%E4%BC%9A%E3%81%AEAntenora%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2c\ns6%3A%E4%BD%8F%E3%81%AB%E5%8D%98%E4%BC%9A%E3%81%AEAntenora%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 AbsoЯute_Zero | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ AbsoЯute_Zero | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [住に単会のAntenora](./住に単会のAntenora.md)  
-该封面包含的角色：- [蓬莱山辉夜](./蓬莱山辉夜.md)
-
-
-
+- [住に単会のAntenora](./住に単会のAntenora.md)该封面包含的角色：
+- [蓬莱山辉夜](./蓬莱山辉夜.md)
 
 
 ---

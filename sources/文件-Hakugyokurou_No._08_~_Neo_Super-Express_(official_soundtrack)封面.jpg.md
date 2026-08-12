@@ -1,6 +1,6 @@
 # 文件:Hakugyokurou_No._08_~_Neo_Super-Express_(official_soundtrack)封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3a\ns6%3AHakugyokurou_No%2E_08_%7E_Neo_Super-Express_%28official_soundtrack%29%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3a\ns6%3AHakugyokurou_No%2E_08_%7E_Neo_Super-Express_%28official_soundtrack%29%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Lowlands_Blossom | 专辑封面 | 封面图片
 
@@ -10,15 +10,10 @@ Lowlands_Blossom | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Hakugyokurou No. 08 ~ Neo Super-Express (official soundtrack)](./Hakugyokurou_No._08_~_Neo_Super-Express_(official_soundtrack).md)
+- [Hakugyokurou No. 08 ~ Neo Super-Express (official soundtrack)](./Hakugyokurou_No._08_~_Neo_Super-Express_(official_soundtrack%29.md)
 
   
-源地址：[图片链接](https://f4.bcbits.com/img/a0427517542_0.jpg) [Bandcamp](https://lowlandsblossom.bandcamp.com/album/hakugyokurou-no-08-neo-super-express-official-soundtrack)
-  
-
-
-
-
+源地址：[图片链接](https://f4.bcbits.com/img/a0427517542_0.jpg) [Bandcamp](https://lowlandsblossom.bandcamp.com/album/hakugyokurou-no-08-neo-super-express-official-soundtrack)  
 
 ---
 

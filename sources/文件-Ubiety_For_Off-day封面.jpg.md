@@ -1,6 +1,6 @@
 # 文件:Ubiety_For_Off-day封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f2\ns6%3AUbiety_For_Off-day%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f2\ns6%3AUbiety_For_Off-day%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 GothiC | 同人志封面 | 封面图片
 
@@ -8,16 +8,11 @@ GothiC | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Ubiety For Off-day](./Ubiety_For_Off-day.md)  
-该封面包含的角色：- [封兽鵺](./封兽鵺.md)
+- [Ubiety For Off-day](./Ubiety_For_Off-day.md)该封面包含的角色：
+- [封兽鵺](./封兽鵺.md)
 
   
-源地址：[[1]](http://img-cdn.jg.jugem.jp/0f5/1694214/20120523_2351305.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://img-cdn.jg.jugem.jp/0f5/1694214/20120523_2351305.jpg)  
 
 ---
 

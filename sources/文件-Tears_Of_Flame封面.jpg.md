@@ -1,6 +1,6 @@
 # 文件:Tears_Of_Flame封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b6\ns6%3ATears_Of_Flame%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b6\ns6%3ATears_Of_Flame%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Sound_I'z | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@ Sound_I'z | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Tears Of Flame](./Tears_Of_Flame.md)  
-该封面包含的角色：- [藤原妹红](./藤原妹红.md)
+- [Tears Of Flame](./Tears_Of_Flame.md)该封面包含的角色：
+- [藤原妹红](./藤原妹红.md)
 
   
-[Pixiv artwork ID: 56772149](https://www.pixiv.net/artworks/56772149)
-  
-
-
-
-
+[Pixiv artwork ID: 56772149](https://www.pixiv.net/artworks/56772149)  
 
 ---
 

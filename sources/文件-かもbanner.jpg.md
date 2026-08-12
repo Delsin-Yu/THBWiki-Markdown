@@ -1,12 +1,8 @@
 # 文件:かもbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\23\ns6%3A%E3%81%8B%E3%82%82banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\23\ns6%3A%E3%81%8B%E3%82%82banner%2Ejpg.html -->
 
 かも | 社团LOGO
-
-
-
-
 
 
 ---

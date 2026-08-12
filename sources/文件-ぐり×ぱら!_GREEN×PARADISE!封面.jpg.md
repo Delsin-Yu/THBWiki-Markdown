@@ -1,6 +1,6 @@
 # 文件:ぐり×ぱら!_GREEN×PARADISE!封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\01\ns6%3A%E3%81%90%E3%82%8A%C3%97%E3%81%B1%E3%82%89%21_GREEN%C3%97PARADISE%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\01\ns6%3A%E3%81%90%E3%82%8A%C3%97%E3%81%B1%E3%82%89%21_GREEN%C3%97PARADISE%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 こはくてゐ | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [ぐり×ぱら! GREEN×PARADISE!](./ぐり×ぱら!_GREEN×PARADISE!.md)  
-该封面包含的角色：- [东风谷早苗](./东风谷早苗.md)
-
-
-
+- [ぐり×ぱら! GREEN×PARADISE!](./ぐり×ぱら!_GREEN×PARADISE!.md)该封面包含的角色：
+- [东风谷早苗](./东风谷早苗.md)
 
 
 ---

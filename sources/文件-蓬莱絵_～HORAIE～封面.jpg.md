@@ -1,6 +1,6 @@
 # 文件:蓬莱絵_～HORAIE～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b9\ns6%3A%E8%93%AC%E8%8E%B1%E7%B5%B5_%EF%BD%9EHORAIE%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b9\ns6%3A%E8%93%AC%E8%8E%B1%E7%B5%B5_%EF%BD%9EHORAIE%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ごんばこんなか | 专辑封面 | 封面图片
 
@@ -11,12 +11,7 @@
 - [蓬莱絵 ～HORAIE～](./蓬莱絵_～HORAIE～.md)
 
   
-源地址：[[1]](http://www.eonet.ne.jp/~torash/houraie.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://www.eonet.ne.jp/~torash/houraie.jpg)  
 
 ---
 

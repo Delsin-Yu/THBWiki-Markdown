@@ -1,6 +1,6 @@
 # 文件:Vivid_light封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e2\ns6%3AVivid_light%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e2\ns6%3AVivid_light%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Languid_space | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Languid_space | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Vivid light](./Vivid_light.md)  
-该封面包含的角色：- [茨木华扇](./茨木华扇.md)
-
-
-
+- [Vivid light](./Vivid_light.md)该封面包含的角色：
+- [茨木华扇](./茨木华扇.md)
 
 
 ---

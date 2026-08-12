@@ -1,6 +1,6 @@
 # 文件:Forest_POP_Party_vol.00封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b7\ns6%3AForest_POP_Party_vol%2E00%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b7\ns6%3AForest_POP_Party_vol%2E00%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Silver_Forest | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ Silver_Forest | 专辑封面 | 封面图片
   
 
 - [Forest POP Party vol.00](./Forest_POP_Party_vol.00.md)
-
-
-
 
 
 ---

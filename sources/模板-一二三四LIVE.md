@@ -1,16 +1,12 @@
 # 模板:一二三四LIVE
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\0\03\ns10%3A%E4%B8%80%E4%BA%8C%E4%B8%89%E5%9B%9BLIVE.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\0\03\ns10%3A%E4%B8%80%E4%BA%8C%E4%B8%89%E5%9B%9BLIVE.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

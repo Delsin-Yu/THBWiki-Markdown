@@ -1,12 +1,8 @@
 # 文件:Saga_Novelbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\61\ns6%3ASaga_Novelbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\61\ns6%3ASaga_Novelbanner%2Ejpg.html -->
 
 Saga_Novel | 社团LOGO
-
-
-
-
 
 
 ---

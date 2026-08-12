@@ -1,6 +1,6 @@
 # 文件:我楽多灯籠_-Junk-O'-Lantern-封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\07\ns6%3A%E6%88%91%E6%A5%BD%E5%A4%9A%E7%81%AF%E7%B1%A0_-Junk-O%27-Lantern-%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\07\ns6%3A%E6%88%91%E6%A5%BD%E5%A4%9A%E7%81%AF%E7%B1%A0_-Junk-O%27-Lantern-%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 A-GEAR | 专辑封面 | 封面图片
 
@@ -8,16 +8,12 @@ A-GEAR | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [我楽多灯籠 -Junk-O'-Lantern-](./我楽多灯籠_-Junk-O'-Lantern-.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
+- [我楽多灯籠 -Junk-O'-Lantern-](./我楽多灯籠_-Junk-O'-Lantern-.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
   
-源地址：[[1]](http://bmimg.nicovideo.jp/image/ch2573347/44850/36ed98c53d816d59120f3b16fb5abdcd27d2e61f.png)
-  
-
-
-
-
+源地址：[\[1\]](http://bmimg.nicovideo.jp/image/ch2573347/44850/36ed98c53d816d59120f3b16fb5abdcd27d2e61f.png)  
 
 ---
 

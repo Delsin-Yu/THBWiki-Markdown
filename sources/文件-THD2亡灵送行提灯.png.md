@@ -1,12 +1,8 @@
 # 文件:THD2亡灵送行提灯.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fa\ns6%3ATHD2%E4%BA%A1%E7%81%B5%E9%80%81%E8%A1%8C%E6%8F%90%E7%81%AF%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fa\ns6%3ATHD2%E4%BA%A1%E7%81%B5%E9%80%81%E8%A1%8C%E6%8F%90%E7%81%AF%2Epng.html -->
 
 AvalonStudioOfficial
-
-
-
-
 
 
 ---

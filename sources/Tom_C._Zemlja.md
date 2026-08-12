@@ -1,11 +1,10 @@
 # Tom_C._Zemlja
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\f7\ns0%3ATom_C%2E_Zemlja.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\f7\ns0%3ATom_C%2E_Zemlja.html -->
 
 二次同人角色
 
 <center>
-
 <table>
 <tbody><tr>
 <td class="mbox-image"><div style="width: 52px;">
@@ -14,13 +13,11 @@
 </tr>
 </tbody></table>
 
-
-</center>
-本页是关于 **向[东方Project](./东方Project.md)  
-致敬、形式类似的作品** 的词条
-
+</center>本页是关于**向[东方Project](./东方Project.md)致敬、形式类似的作品**  
+的词条
 ## 角色信息
-[](./文件-TOM（连缘咖啡厅立绘）.png.md)  [](./文件-TOM（连缘咖啡厅立绘）.png.md)连缘咖啡厅TOM的立绘
+<img alt="" src="https://upload.thwiki.cc/thumb/f/f7/TOM%EF%BC%88%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85%E7%AB%8B%E7%BB%98%EF%BC%89.png/200px-TOM%EF%BC%88%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="200" height="174" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/f/f7/TOM%EF%BC%88%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85%E7%AB%8B%E7%BB%98%EF%BC%89.png/300px-TOM%EF%BC%88%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/f/f7/TOM%EF%BC%88%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="364" data-file-height="317">
+ [放大](./文件-TOM（连缘咖啡厅立绘）.png.md)连缘咖啡厅TOM的立绘
 <table>
 <tbody><tr>
 <th colspan="2">基本信息</th>
@@ -29,32 +26,23 @@
 <td style="width:120px"><b>人物名</b></td><td style="min-width:300px">Tom C. Zemlja</td>
 </tr><tr><td><b>日文名</b></td><td>ゼムリャ=C=トム Zemurya = C = Tomu</td></tr><tr><td><b>英文名</b></td><td>Tom C. Zemlja</td></tr><tr><td><b>种族</b></td><td>未知</td></tr></tbody></table>
 
-Tom C. Zemlja（同人角色） - 二次同人角色
+Tom C. Zemlja（同人角色） - 二次同人角色  
+**汤姆·C·泽姆利亚**（ゼムリャ=C=トム Zemurya = C = Tomu）与[NiLU](./NiLU.md)同为《[连缘咖啡](./连缘咖啡厅_～_BOOK_of_the_CAFE.md)》的主要角色，与NiLU一同收集有关无现里的情报。  
   
- **汤姆·C·泽姆利亚** （ゼムリャ=C=トム Zemurya = C = Tomu）与[NiLU](./NiLU.md)同为《[连缘咖啡](./连缘咖啡厅_～_BOOK_of_the_CAFE.md)》的主要角色，与NiLU一同收集有关无现里的情报。  
-
-  
-
 
 ## 角色介绍
   
 Tom最早在连缘系列的6周年纪念视频中与NiLU一同出现。与NiLU相比，Tom异常聒噪，对无现里和NiLU的身世似乎了解很深，却极力反对“剧透”行为，常常佯装不知道。  
 
 Tom的名字和[国主雀巳](./国主雀巳.md)（monad2）一样用双重连字符连接。  
-
   
-
 
 ## 外貌特征
   
-Tom体现为一个长着翅膀、鸟爪和蛇尾的阐里之瞳生物，外形像是邪眼西格玛 (未找到链接)。  
+Tom体现为一个长着翅膀、鸟爪和蛇尾的阐里之瞳生物，外形像是[邪眼西格玛](./里香.md#.E9.82.AA.E7.9C.BC.E8.A5.BF.E6.A0.BC.E7.8E.9B)。  
 
 根据Jynx在Fanbox中所说，Tom的躯干大概有棒球棍那么大，重量接近苹果，但这两点都会因时间和场所而变化。
   
-
-
-
-
 
 ---
 

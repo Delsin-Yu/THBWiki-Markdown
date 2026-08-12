@@ -1,16 +1,11 @@
 # 文件:机上の空想理論banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\98\ns6%3A%E6%9C%BA%E4%B8%8A%E3%81%AE%E7%A9%BA%E6%83%B3%E7%90%86%E8%AB%96banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\98\ns6%3A%E6%9C%BA%E4%B8%8A%E3%81%AE%E7%A9%BA%E6%83%B3%E7%90%86%E8%AB%96banner%2Ejpg.html -->
 
 机上の空想理論 | 社团LOGO
 
   
-源地址：[[1]](https://kuusouriron.com/banner1.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://kuusouriron.com/banner1.jpg)  
 
 ---
 

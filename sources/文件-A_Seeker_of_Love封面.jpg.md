@@ -1,6 +1,6 @@
 # 文件:A_Seeker_of_Love封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f9\ns6%3AA_Seeker_of_Love%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f9\ns6%3AA_Seeker_of_Love%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 紙そうび
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [A Seeker of Love](./A_Seeker_of_Love.md)  
-该封面包含的角色：- [古明地恋](./古明地恋.md)- [姬海棠果](./姬海棠果.md)
-
-
-
+- [A Seeker of Love](./A_Seeker_of_Love.md)该封面包含的角色：
+- [古明地恋](./古明地恋.md)
+- [姬海棠果](./姬海棠果.md)
 
 
 ---

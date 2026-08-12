@@ -1,6 +1,6 @@
 # 文件:TOUHOU_~_Ultimate_Sound~封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1f\ns6%3ATOUHOU_%7E_Ultimate_Sound%7E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1f\ns6%3ATOUHOU_%7E_Ultimate_Sound%7E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 MiRAETRAX | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@ MiRAETRAX | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [TOUHOU ~ Ultimate Sound~](./TOUHOU_~_Ultimate_Sound~.md)  
-该封面包含的角色：- [洩矢诹访子](./洩矢诹访子.md)
+- [TOUHOU ~ Ultimate Sound~](./TOUHOU_~_Ultimate_Sound~.md)该封面包含的角色：
+- [洩矢诹访子](./洩矢诹访子.md)
 
   
-源地址：[direct image link (10 size)](https://f4.bcbits.com/img/a2195726017_10.jpg), [source page (artist Bandcamp)](https://miraetrax.bandcamp.com/album/touhou-ultimate-sound)
-  
-
-
-
-
+源地址：[direct image link (10 size)](https://f4.bcbits.com/img/a2195726017_10.jpg), [source page (artist Bandcamp)](https://miraetrax.bandcamp.com/album/touhou-ultimate-sound)  
 
 ---
 

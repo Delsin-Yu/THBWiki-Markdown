@@ -1,16 +1,12 @@
 # 模板:魔理爱丽●REC
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\6\60\ns10%3A%E9%AD%94%E7%90%86%E7%88%B1%E4%B8%BD%E2%97%8FREC.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\6\60\ns10%3A%E9%AD%94%E7%90%86%E7%88%B1%E4%B8%BD%E2%97%8FREC.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

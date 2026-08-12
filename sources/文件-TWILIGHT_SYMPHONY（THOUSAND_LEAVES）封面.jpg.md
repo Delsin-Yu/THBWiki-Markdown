@@ -1,6 +1,6 @@
 # 文件:TWILIGHT_SYMPHONY（THOUSAND_LEAVES）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\52\ns6%3ATWILIGHT_SYMPHONY%EF%BC%88THOUSAND_LEAVES%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\52\ns6%3ATWILIGHT_SYMPHONY%EF%BC%88THOUSAND_LEAVES%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 THOUSAND_LEAVES | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ THOUSAND_LEAVES | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [TWILIGHT SYMPHONY（THOUSAND LEAVES）](./TWILIGHT_SYMPHONY（THOUSAND_LEAVES）.md)  
-该封面包含的角色：- [魅魔](./魅魔.md)
-
-
-
+- [TWILIGHT SYMPHONY（THOUSAND LEAVES）](./TWILIGHT_SYMPHONY（THOUSAND_LEAVES）.md)该封面包含的角色：
+- [魅魔](./魅魔.md)
 
 
 ---

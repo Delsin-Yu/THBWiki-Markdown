@@ -1,6 +1,6 @@
 # 文件:東方_with_SCHRANZ4.5封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c9\ns6%3A%E6%9D%B1%E6%96%B9_with_SCHRANZ4%2E5%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c9\ns6%3A%E6%9D%B1%E6%96%B9_with_SCHRANZ4%2E5%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ダシマキレコード | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方 with SCHRANZ4.5](./東方_with_SCHRANZ4.5.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
-
-
-
+- [東方 with SCHRANZ4.5](./東方_with_SCHRANZ4.5.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
 
 ---

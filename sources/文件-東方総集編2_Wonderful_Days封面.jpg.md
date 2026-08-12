@@ -1,6 +1,6 @@
 # 文件:東方総集編2_Wonderful_Days封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\ff\ns6%3A%E6%9D%B1%E6%96%B9%E7%B7%8F%E9%9B%86%E7%B7%A82_Wonderful_Days%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\ff\ns6%3A%E6%9D%B1%E6%96%B9%E7%B7%8F%E9%9B%86%E7%B7%A82_Wonderful_Days%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 GP-KIDS | 同人志封面 | 封面图片
 
@@ -10,16 +10,12 @@ GP-KIDS | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方総集編2 Wonderful Days](./東方総集編2_Wonderful_Days.md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)- [西行寺幽幽子](./西行寺幽幽子.md)
+- [東方総集編2 Wonderful Days](./東方総集編2_Wonderful_Days.md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
+- [西行寺幽幽子](./西行寺幽幽子.md)
 
   
-源地址：[direct image link](https://booth.pximg.net/c/620x620/be602c92-0714-4432-912c-f055fb98ce88/i/64173/4a161af9-22cd-45ee-80d7-24cfce608c2c_base_resized.jpg), [source page](https://gp-kids.booth.pm/items/64173)
-  
-
-
-
-
+源地址：[direct image link](https://booth.pximg.net/c/620x620/be602c92-0714-4432-912c-f055fb98ce88/i/64173/4a161af9-22cd-45ee-80d7-24cfce608c2c_base_resized.jpg), [source page](https://gp-kids.booth.pm/items/64173)  
 
 ---
 

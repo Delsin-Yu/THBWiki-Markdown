@@ -1,37 +1,27 @@
 # Into_Backdoor
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\1\1a\ns0%3AInto_Backdoor.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\1\1a\ns0%3AInto_Backdoor.html -->
 
 由 ZUN 创作的官方曲目，原名 イントゥ・バックドア
 
 本页是关于东方Project  
- **原作音乐** 的词条
-
+**原作音乐**的词条
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 出现作品](#出现作品)
 - [3 音乐文件](#音乐文件)
-
   - [3.1 东方天空璋](#东方天空璋)
 
 
-
 - [4 说明文本](#说明文本)
-
   - [4.1 东方天空璋](#东方天空璋_2)
 
 
-
 - [5 其他资料](#其他资料)
-
   - [5.1 乐理资讯](#乐理资讯)
   - [5.2 分析考据](#分析考据)
   - [5.3 二次同人数据](#二次同人数据)
-
-
-
-
 
 
 
@@ -41,13 +31,11 @@
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">イントゥ・バックドア</td></tr><tr><td><b>译名</b></td><td>Into Backdoor</td></tr><tr><td><b>其他译名</b></td><td>进入后门</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 Into Backdoor（曲目） - 由 ZUN 创作的官方曲目，原名 イントゥ・バックドア
-
 ## 出现作品
 
 <table>
 <tbody><tr><td>2017年8月11日（Comic Market 92）</td><td><b><a href="./东方天空璋.md" title="东方天空璋">东方天空璋</a>正式版</b></td><td>6面主题曲</td><td style="padding-left:5px;">イントゥ・バックドア（Into Backdoor）</td><td style="padding-left:10px;">作曲：ZUN</td></tr>
 </tbody></table>
-
 
 
 ## 音乐文件
@@ -62,30 +50,32 @@ Into Backdoor（曲目） - 由 ZUN 创作的官方曲目，原名 イントゥ�
 </td></tr></tbody></table>
 
 
-
 ## 说明文本
 
 ### 东方天空璋
-- Music Room (未找到链接)
+
+- [Music Room](./东方天空璋-Music.md#6面主题曲)
 
 　6面的主题曲。  
-　  
+   
 　以BOSS战前的高速关卡为印象作的。  
 　感觉能传达出和剧情本身无关的焦灼感。
-
 ## 其他资料
 
 ### 乐理资讯
 
 ### 分析考据
   
- **イントゥ・バックドア**  Into Backdoor
+**イントゥ・バックドア** Into Backdoor
   
 
-- イントゥ・バックドア（Into Backdoor）
-  - 进入后门。
-    - 在天空璋六面，周围都是漆黑一片，只有面前的门扉依次打开，每次打开都有不同颜色的雾气。
+- イントゥ・バックドア（Into Backdoor） 
+  - 进入后门。 
+    - 在天空璋六面，周围都是漆黑一片，只有面前的门扉依次打开，每次打开都有不同颜色的雾气。 
       - 自机们穿过依次打开的门扉。
+
+
+
 
 
 
@@ -103,17 +93,6 @@ Into Backdoor（曲目） - 由 ZUN 创作的官方曲目，原名 イントゥ�
 <tr><td>Arrange</td><td>51</td></tr>
 <tr><td>Vocal率</td><td>12.07%</td></tr>
 </tbody></table>
-
-
-
-
-  
-  
-
-  
-
-
-
 
 
 ---

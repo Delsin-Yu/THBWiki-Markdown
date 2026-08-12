@@ -1,6 +1,6 @@
 # 文件:東方砂紋宮_～_Wonderful_Wander.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\80\ns6%3A%E6%9D%B1%E6%96%B9%E7%A0%82%E7%B4%8B%E5%AE%AE_%EF%BD%9E_Wonderful_Wander%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\80\ns6%3A%E6%9D%B1%E6%96%B9%E7%A0%82%E7%B4%8B%E5%AE%AE_%EF%BD%9E_Wonderful_Wander%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 鹿子
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方砂紋宮 ～ Wonderful Wander.](./東方砂紋宮_～_Wonderful_Wander..md)  
-该封面包含的角色：- [奥黛丽·克雷斯顿](./奥黛丽·克雷斯顿.md)
-
-
-
+- [東方砂紋宮 ～ Wonderful Wander.](./東方砂紋宮_～_Wonderful_Wander..md)该封面包含的角色：
+- [奥黛丽·克雷斯顿](./奥黛丽·克雷斯顿.md)
 
 
 ---

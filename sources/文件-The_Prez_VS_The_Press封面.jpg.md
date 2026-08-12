@@ -1,6 +1,6 @@
 # 文件:The_Prez_VS_The_Press封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\90\ns6%3AThe_Prez_VS_The_Press%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\90\ns6%3AThe_Prez_VS_The_Press%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Ragathol_Enterprises | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@ Ragathol_Enterprises | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [The Prez VS The Press](./The_Prez_VS_The_Press.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)
+- [The Prez VS The Press](./The_Prez_VS_The_Press.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
 
   
-[Pixiv artwork ID: 35838192 (original size)](https://www.pixiv.net/artworks/35838192)
-  
-
-
-
-
+[Pixiv artwork ID: 35838192 (original size)](https://www.pixiv.net/artworks/35838192)  
 
 ---
 

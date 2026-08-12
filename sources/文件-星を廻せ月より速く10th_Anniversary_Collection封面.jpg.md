@@ -1,6 +1,6 @@
 # 文件:星を廻せ月より速く10th_Anniversary_Collection封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\74\ns6%3A%E6%98%9F%E3%82%92%E5%BB%BB%E3%81%9B%E6%9C%88%E3%82%88%E3%82%8A%E9%80%9F%E3%81%8F10th_Anniversary_Collection%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\74\ns6%3A%E6%98%9F%E3%82%92%E5%BB%BB%E3%81%9B%E6%9C%88%E3%82%88%E3%82%8A%E9%80%9F%E3%81%8F10th_Anniversary_Collection%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 TUMENECO | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ TUMENECO | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [星を廻せ月より速く10th Anniversary Collection](./星を廻せ月より速く10th_Anniversary_Collection.md)  
-该封面包含的角色：- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [星を廻せ月より速く10th Anniversary Collection](./星を廻せ月より速く10th_Anniversary_Collection.md)该封面包含的角色：
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

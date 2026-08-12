@@ -1,61 +1,45 @@
 # 东方ProjectSTG基础百科/第二章
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\1\13\ns0%3A%E4%B8%9C%E6%96%B9ProjectSTG%E5%9F%BA%E7%A1%80%E7%99%BE%E7%A7%91%2F%E7%AC%AC%E4%BA%8C%E7%AB%A0.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\1\13\ns0%3A%E4%B8%9C%E6%96%B9ProjectSTG%E5%9F%BA%E7%A1%80%E7%99%BE%E7%A7%91%2F%E7%AC%AC%E4%BA%8C%E7%AB%A0.html -->
 
 东方projectSTG基础百科
 
 <center>
-
 <table>
 <tbody><tr>
-<td>&lt;
+<td><
 </td>
-<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./东方ProjectSTG基础百科-第一章.md" title="东方ProjectSTG基础百科/第一章">第一章</a>&#160;
+<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./东方ProjectSTG基础百科-第一章.md" title="东方ProjectSTG基础百科/第一章">第一章</a> 
 </td>
-<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="./东方ProjectSTG基础百科.md" title="东方ProjectSTG基础百科" unred="">东方projectSTG基础百科</a>&#160;
+<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;"> <a href="./东方ProjectSTG基础百科.md" title="东方ProjectSTG基础百科" unred="">东方projectSTG基础百科</a> 
 </td>
-<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left">&#160;<a href="./东方ProjectSTG基础百科-第三章.md" title="东方ProjectSTG基础百科/第三章">第三章</a>
+<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left"> <a href="./东方ProjectSTG基础百科-第三章.md" title="东方ProjectSTG基础百科/第三章">第三章</a>
 </td>
-<td>&gt;
+<td>>
 </td></tr></tbody></table>
 
   
-</center>
-<center> **<big><big><big>第二章 常见弹幕类型之随机弹与固定弹</big></big></big>** </center>  
-  
-
-  
-  
+</center><center>**<big><big><big>第二章 常见弹幕类型之随机弹与固定弹</big></big></big>**</center>  
 从本章开始将介绍游戏中常见的弹幕模式类型。如果之前认识各种子弹判定是认字与写字的话，那么在这章里，你将要学习词组和组词。  
 
 首先要介绍的将是随机弹与固定弹。这两种弹幕在游戏中出场率极高。他们有共同点，即不与敌人或者自机的位置相关；同时又有着截然不同的区别，即随机弹的无序性与固定弹的规律性。
   
 
-
 ## 目录
 
 - [1 随机弹](#随机弹)
-
   - [1.1 随机弹概述与实用避法](#随机弹概述与实用避法)
   - [1.2 方向性随机弹](#方向性随机弹)
 
 
-
 - [2 固定弹](#固定弹)
-
   - [2.1 固定弹概述](#固定弹概述)
   - [2.2 周期性避法](#周期性避法)
 
 
-
 - [3 安定](#安定)
-
   - [3.1 安定点](#安定点)
   - [3.2 安定避法](#安定避法)
-
-
-
-
 
 
 
@@ -63,59 +47,32 @@
 ## 随机弹
 
 ### 随机弹概述与实用避法
-
   
 随机弹，又称乱弹，散弹等。顾名思义，就是具有混乱性，没有明显规律的弹幕。就好像一个被惹恼了的敌人，闭上眼睛，扣下扳机，对前方胡乱一通扫射所形成的弹幕一般。在新手上路的时候，往往因为经验和分析力的缺乏，导致看什么都像随机弹。  
 
 弹幕具有随机性，考验的是玩家基础的避弹能力，也就是常说的底力。最基本的方法，即要学会预先判断出会对自机有威胁的、直接奔自机而来的子弹(直击弹，通常只有几颗子弹)和它的运动路线，从路线上移开，回避子弹，而不是随便乱走碰运气。做到分析，回避，再分析，如此循环直到击破或者时间结束。为了简单说明，选择了一个高难度模式下的例子，其他难度原理一样。  
-
- * **例 2.1** *    *红魔乡 L难度2面终符 雪符「钻石风暴」*   
+***例 2.1*** *红魔乡 L难度2面终符 雪符「钻石风暴」*  
 
 如图，这个时候对自机有威胁的只有来自正面的那颗子弹(左图)，其他子弹均无太大威胁。只要往一旁移动一小下即可回避(右图)，例子是L难度，不过这是所有难度通用的。实际方法需要玩家在实践中掌握，通过不断练习巩固。  
-
   
-
-[](./文件-东方projectSTG基础百科图例2.1.jpg.md)  图例2.1 雪符「钻石风暴」  
-
+<img alt="" src="https://upload.thwiki.cc/0/0d/%E4%B8%9C%E6%96%B9projectSTG%E5%9F%BA%E7%A1%80%E7%99%BE%E7%A7%91%E5%9B%BE%E4%BE%8B2.1.jpg" decoding="async" loading="lazy" width="770" height="450" class="thumbimage" data-file-width="770" data-file-height="450">
+ 图例2.1 雪符「钻石风暴」  
   
 一点小建议，在躲随机弹或者其他不需要高精度的弹幕时，可能的话不要贴着底线，而应该主动上去一点。通常新手会迫于弹幕压力，畏缩在底线上左右回避不敢上前，觉得越靠低有越多的反应时间。  
 
 实际上在开始阶段的新手只能对自机一定范围内的弹幕进行分析和反应。适当往上站一点，不但不会减少反应时间，还可以提供通过往下后退的机会，增加反应的时间(向下过程中子弹相对自机的速度变慢了)，可谓攻守兼备。通常站到底线以上1-3cm左右都是可取的。
   
 
-
-
 ### 方向性随机弹
-
   
 很多随机弹并不是从四面八方攻击过来的，而是具有方向性。根据方向的不同，有不同的应对方法。  
 
 最常见的就是单纯的从上往下型，就好像下雨一样。常见符卡如下：  
-
- * **例 2.2** *    *妖妖梦 2面 各难度 方符「奇门遁甲」；风神录 EX 土著神「小小青蛙不输风雨」* 
-  
-
-
-
-
-
-[](./文件-东方projectSTG基础百科图例2.2-1.jpg.md)
-
+***例 2.2*** *妖妖梦 2面 各难度 方符「奇门遁甲」；风神录 EX 土著神「小小青蛙不输风雨」*  
+<img alt="图例2.2-1 方符「奇门遁甲」" src="https://upload.thwiki.cc/3/3d/%E4%B8%9C%E6%96%B9projectSTG%E5%9F%BA%E7%A1%80%E7%99%BE%E7%A7%91%E5%9B%BE%E4%BE%8B2.2-1.jpg" decoding="async" loading="lazy" width="385" height="450" data-file-width="385" data-file-height="450">
 图例2.2-1 方符「奇门遁甲」
-
-
-[](./文件-东方projectSTG基础百科图例2.2-2.jpg.md)
+<img alt="图例2.2-2 土著神「小小青蛙不输风雨」" src="https://upload.thwiki.cc/1/18/%E4%B8%9C%E6%96%B9projectSTG%E5%9F%BA%E7%A1%80%E7%99%BE%E7%A7%91%E5%9B%BE%E4%BE%8B2.2-2.jpg" decoding="async" loading="lazy" width="385" height="450" data-file-width="385" data-file-height="450">
 图例2.2-2 土著神「小小青蛙不输风雨」
-
-
-
-
-  
-  
-
-  
-
-
   
 面对这类弹幕一般以左右移动回避为主，同时也要注意上下配合主动穿。所谓主动穿，就是在需要从几颗并排子弹之间通过时，主动从子弹间的缝隙中穿过，使子弹运动到自机后方消除威胁，而不是等待子弹从自机两边划过的被动穿。被动穿时，可能会出现并排子弹正好在自机两侧而正面又出现直击弹，形成“封杀”；或者对并排弹速度认识有误，在还没完全运动到自机后方的情况下进行左右移动，造成“撞留弹”；再或者对并排弹轨迹认识有误，在并排弹运动到自机旁边时，间距已经不足以让自机通过，结果被“夹死”。  
 
@@ -124,46 +81,25 @@
 新人常犯的错误：常有新人在面对单向随机弹时，会出现逐渐往一个方向回避，最终远离屏幕中间无法攻击到敌人的情况。要切记保持自机的位置，往左走了好几次就要找机会再往右走几次。不然输出不够，时间拖得太长的话，再好的底力也会失误的。  
 
 除了从上往下型，从侧面来的斜向随机弹也是常见的。这类弹幕的对策通常以上下移动为主，主动左右穿为辅，如果把屏幕斜过来的话，和从上往下型是差不多的呢。常见的斜向随机弹如下：  
-
- * **例 2.3** *    *地灵殿 3面 各难度 力业「大江山岚」；星莲船 EX 惊雨「台风骤雨」* 
-  
-
-
-
-
-
-[](./文件-东方projectSTG基础百科图例2.3-1.jpg.md)
-
+***例 2.3*** *地灵殿 3面 各难度 力业「大江山岚」；星莲船 EX 惊雨「台风骤雨」*  
+<img alt="图例2.3-1 力业「大江山岚」" src="https://upload.thwiki.cc/9/97/%E4%B8%9C%E6%96%B9projectSTG%E5%9F%BA%E7%A1%80%E7%99%BE%E7%A7%91%E5%9B%BE%E4%BE%8B2.3-1.jpg" decoding="async" loading="lazy" width="384" height="448" data-file-width="384" data-file-height="448">
 图例2.3-1 力业「大江山岚」
-
-
-[](./文件-东方projectSTG基础百科图例2.3-2.jpg.md)
+<img alt="图例2.3-2 惊雨「台风骤雨」" src="https://upload.thwiki.cc/c/c9/%E4%B8%9C%E6%96%B9projectSTG%E5%9F%BA%E7%A1%80%E7%99%BE%E7%A7%91%E5%9B%BE%E4%BE%8B2.3-2.jpg" decoding="async" loading="lazy" width="384" height="448" data-file-width="384" data-file-height="448">
 图例2.3-2 惊雨「台风骤雨」
-
-
-
-
   
   
 
 当然，也存在上下型和斜向型结合形式多方向随机弹幕，这类就需要有同时分析2个方向弹幕的能力，原则还是不变，找出直击弹，回避，并且保持自机的攻击位置。如下例：  
-
- * **例 2.4** *    *红魔乡 4面 木符「风灵的角笛」* 
-  
-
-[](./文件-东方projectSTG基础百科图例2.4.jpg.md)  图例2.4 木符「风灵的角笛」
-  
+***例 2.4*** *红魔乡 4面 木符「风灵的角笛」*  
+<img alt="" src="https://upload.thwiki.cc/2/26/%E4%B8%9C%E6%96%B9projectSTG%E5%9F%BA%E7%A1%80%E7%99%BE%E7%A7%91%E5%9B%BE%E4%BE%8B2.4.jpg" decoding="async" loading="lazy" width="640" height="480" class="thumbimage" data-file-width="640" data-file-height="480">
+ 图例2.4 木符「风灵的角笛」  
 对于某些有更多方向出现的随机弹幕，可以通过站在屏幕边缘附近回避的方法，减少需要分析的弹幕数量。如下例：
- * **例 2.5** *    *风神录 4面3符 N-L难度 「幻想风靡」(「无双风神」)* 
-  
-
-[](./文件-东方projectSTG基础百科图例2.5.jpg.md)  图例2.5 「无双风神」
-  
+***例 2.5*** *风神录 4面3符 N-L难度 「幻想风靡」(「无双风神」)*  
+<img alt="" src="https://upload.thwiki.cc/5/5e/%E4%B8%9C%E6%96%B9projectSTG%E5%9F%BA%E7%A1%80%E7%99%BE%E7%A7%91%E5%9B%BE%E4%BE%8B2.5.jpg" decoding="async" loading="lazy" width="640" height="480" class="thumbimage" data-file-width="640" data-file-height="480">
+ 图例2.5 「无双风神」  
 除此之外，那些多方向，又必须在屏幕中间站位打BOSS的随机弹幕就有很大难度了；还有一些弹幕形式固定，但发射角度随机，这样形成的随机弹(如地灵殿5面道中符猫符「猫步」)分析方法较复杂。这两类弹幕新手觉得压力很大的话还是推荐选择放B解决，强行收取很可能得不偿失。
   
-
   
-
 
 ## 固定弹
 
@@ -172,77 +108,36 @@
 如果说随机弹是闭眼胡乱扫射的话，固定弹就是按照固定模式定点开枪了。固定弹的出现位置、时间、运动方向也与自机无关，按照设定好的程序进行规律性地、周期性的攻击。  
 
 固定弹分为两种。第一种为相对屏幕固定，就如字面意思一般，在这种模式的固定弹中boss或者敌人通常不动(也有少量移动的，但一般不会影响弹幕形状)。值得一提的是第二种，相对敌人固定，这里主要指boss或者敌人在不停的移动，以boss或敌人自己的位置为基准的固定弹幕，就好比将第一种固定弹进行平移一样。  
-
   
-
 
 ### 周期性避法
-
   
 在初次面对某些固定弹的时候，通常可以作为随机弹来处理，回避方法也和随机弹类似。不同的是，固定弹在尝试次数增加后可以总结出一套固定的避弹模式，进行同样地周期性运动就能回避，不需要随机弹中不断分析寻找直击弹的过程。  
-
- * **例 2.6** *    *永夜抄 5面 N难度 3符 懒符「生神停止(Idling Wave)(懒散波动)」*   
+***例 2.6*** *永夜抄 5面 N难度 3符 懒符「生神停止(Idling Wave)(懒散波动)」*  
 
 永夜抄五面的兔子符卡一直被称作新人杀手。但是仔细分析其规律后可以发现有不少是固定弹幕，均存在相对安全的避法。这里以3符为例。  
-
   
-
-[](./文件-东方projectSTG基础百科图例2.6.png.md)  图例2.6 懒符「生神停止(Idling Wave)(懒散波动)」  
-
+<img alt="" src="https://upload.thwiki.cc/5/59/%E4%B8%9C%E6%96%B9projectSTG%E5%9F%BA%E7%A1%80%E7%99%BE%E7%A7%91%E5%9B%BE%E4%BE%8B2.6.png" decoding="async" loading="lazy" width="650" height="506" class="thumbimage" data-file-width="650" data-file-height="506">
+ 图例2.6 懒符「生神停止(Idling Wave)(懒散波动)」  
   
 需要注意这里有一个比较欺骗性的诡计存在。在第一个周期中，往往很多人可以发现站在正下的空隙中会很安全(图1与图2)。当第二个周期到来时，还站在中间就很危险了(图3)。从第二个周期开始，需要按照图3到图5的流程进行回避。这种第一个周期与之后不同的特例情况需要格外注意。  
-
- * **例 2.7** *    *星莲船 4面 N难度船长2非* 
-  
-
-
-
-
-
-[](./文件-东方projectSTG基础百科图例2.7-1.jpg.md)
-
+***例 2.7*** *星莲船 4面 N难度船长2非*  
+<img alt="图例2.7 N难度4面关底2非" src="https://upload.thwiki.cc/thumb/9/97/%E4%B8%9C%E6%96%B9projectSTG%E5%9F%BA%E7%A1%80%E7%99%BE%E7%A7%91%E5%9B%BE%E4%BE%8B2.7-1.jpg/250px-%E4%B8%9C%E6%96%B9projectSTG%E5%9F%BA%E7%A1%80%E7%99%BE%E7%A7%91%E5%9B%BE%E4%BE%8B2.7-1.jpg" decoding="async" loading="lazy" width="250" height="292" srcset="https://upload.thwiki.cc/thumb/9/97/%E4%B8%9C%E6%96%B9projectSTG%E5%9F%BA%E7%A1%80%E7%99%BE%E7%A7%91%E5%9B%BE%E4%BE%8B2.7-1.jpg/375px-%E4%B8%9C%E6%96%B9projectSTG%E5%9F%BA%E7%A1%80%E7%99%BE%E7%A7%91%E5%9B%BE%E4%BE%8B2.7-1.jpg 1.5x, https://upload.thwiki.cc/9/97/%E4%B8%9C%E6%96%B9projectSTG%E5%9F%BA%E7%A1%80%E7%99%BE%E7%A7%91%E5%9B%BE%E4%BE%8B2.7-1.jpg 2x" data-file-width="385" data-file-height="450">
 图例2.7  N难度4面关底2非
-
-
-[](./文件-东方projectSTG基础百科图例2.7-2.jpg.md)
-
-
-[](./文件-东方projectSTG基础百科图例2.7-3.jpg.md)
-
-
-[](./文件-东方projectSTG基础百科图例2.7-4.jpg.md)
-
-
-
-
+<img alt="" src="https://upload.thwiki.cc/thumb/3/38/%E4%B8%9C%E6%96%B9projectSTG%E5%9F%BA%E7%A1%80%E7%99%BE%E7%A7%91%E5%9B%BE%E4%BE%8B2.7-2.jpg/250px-%E4%B8%9C%E6%96%B9projectSTG%E5%9F%BA%E7%A1%80%E7%99%BE%E7%A7%91%E5%9B%BE%E4%BE%8B2.7-2.jpg" decoding="async" loading="lazy" width="250" height="292" srcset="https://upload.thwiki.cc/thumb/3/38/%E4%B8%9C%E6%96%B9projectSTG%E5%9F%BA%E7%A1%80%E7%99%BE%E7%A7%91%E5%9B%BE%E4%BE%8B2.7-2.jpg/375px-%E4%B8%9C%E6%96%B9projectSTG%E5%9F%BA%E7%A1%80%E7%99%BE%E7%A7%91%E5%9B%BE%E4%BE%8B2.7-2.jpg 1.5x, https://upload.thwiki.cc/3/38/%E4%B8%9C%E6%96%B9projectSTG%E5%9F%BA%E7%A1%80%E7%99%BE%E7%A7%91%E5%9B%BE%E4%BE%8B2.7-2.jpg 2x" data-file-width="385" data-file-height="450">
+<img alt="" src="https://upload.thwiki.cc/thumb/2/23/%E4%B8%9C%E6%96%B9projectSTG%E5%9F%BA%E7%A1%80%E7%99%BE%E7%A7%91%E5%9B%BE%E4%BE%8B2.7-3.jpg/250px-%E4%B8%9C%E6%96%B9projectSTG%E5%9F%BA%E7%A1%80%E7%99%BE%E7%A7%91%E5%9B%BE%E4%BE%8B2.7-3.jpg" decoding="async" loading="lazy" width="250" height="292" srcset="https://upload.thwiki.cc/thumb/2/23/%E4%B8%9C%E6%96%B9projectSTG%E5%9F%BA%E7%A1%80%E7%99%BE%E7%A7%91%E5%9B%BE%E4%BE%8B2.7-3.jpg/375px-%E4%B8%9C%E6%96%B9projectSTG%E5%9F%BA%E7%A1%80%E7%99%BE%E7%A7%91%E5%9B%BE%E4%BE%8B2.7-3.jpg 1.5x, https://upload.thwiki.cc/2/23/%E4%B8%9C%E6%96%B9projectSTG%E5%9F%BA%E7%A1%80%E7%99%BE%E7%A7%91%E5%9B%BE%E4%BE%8B2.7-3.jpg 2x" data-file-width="385" data-file-height="450">
+<img alt="" src="https://upload.thwiki.cc/thumb/b/b3/%E4%B8%9C%E6%96%B9projectSTG%E5%9F%BA%E7%A1%80%E7%99%BE%E7%A7%91%E5%9B%BE%E4%BE%8B2.7-4.jpg/250px-%E4%B8%9C%E6%96%B9projectSTG%E5%9F%BA%E7%A1%80%E7%99%BE%E7%A7%91%E5%9B%BE%E4%BE%8B2.7-4.jpg" decoding="async" loading="lazy" width="250" height="292" srcset="https://upload.thwiki.cc/thumb/b/b3/%E4%B8%9C%E6%96%B9projectSTG%E5%9F%BA%E7%A1%80%E7%99%BE%E7%A7%91%E5%9B%BE%E4%BE%8B2.7-4.jpg/375px-%E4%B8%9C%E6%96%B9projectSTG%E5%9F%BA%E7%A1%80%E7%99%BE%E7%A7%91%E5%9B%BE%E4%BE%8B2.7-4.jpg 1.5x, https://upload.thwiki.cc/b/b3/%E4%B8%9C%E6%96%B9projectSTG%E5%9F%BA%E7%A1%80%E7%99%BE%E7%A7%91%E5%9B%BE%E4%BE%8B2.7-4.jpg 2x" data-file-width="385" data-file-height="450">
   
   
 
 船长的第1、2个非符攻击看似随机弹，其实是固定弹。以2非为例，可以按照图中的方法周期性回避每一波弹幕。即使把难度提高到Lunatic，仍然可以用类似的周期性方法回避。  
-
- * **例 2.8** *    *星莲船 4面 L难度 船长2非*   
-
+***例 2.8*** *星莲船 4面 L难度 船长2非*  
   
-
-
-
-
-[](./文件-东方projectSTG基础百科图例2.8-1.jpg.md)
-
+<img alt="图例2.8 L难度4面关底2非" src="https://upload.thwiki.cc/thumb/a/ad/%E4%B8%9C%E6%96%B9projectSTG%E5%9F%BA%E7%A1%80%E7%99%BE%E7%A7%91%E5%9B%BE%E4%BE%8B2.8-1.jpg/250px-%E4%B8%9C%E6%96%B9projectSTG%E5%9F%BA%E7%A1%80%E7%99%BE%E7%A7%91%E5%9B%BE%E4%BE%8B2.8-1.jpg" decoding="async" loading="lazy" width="250" height="292" srcset="https://upload.thwiki.cc/thumb/a/ad/%E4%B8%9C%E6%96%B9projectSTG%E5%9F%BA%E7%A1%80%E7%99%BE%E7%A7%91%E5%9B%BE%E4%BE%8B2.8-1.jpg/375px-%E4%B8%9C%E6%96%B9projectSTG%E5%9F%BA%E7%A1%80%E7%99%BE%E7%A7%91%E5%9B%BE%E4%BE%8B2.8-1.jpg 1.5x, https://upload.thwiki.cc/a/ad/%E4%B8%9C%E6%96%B9projectSTG%E5%9F%BA%E7%A1%80%E7%99%BE%E7%A7%91%E5%9B%BE%E4%BE%8B2.8-1.jpg 2x" data-file-width="385" data-file-height="450">
 图例2.8  L难度4面关底2非
-
-
-[](./文件-东方projectSTG基础百科图例2.8-2.jpg.md)
-
-
-[](./文件-东方projectSTG基础百科图例2.8-3.jpg.md)
-
-
-[](./文件-东方projectSTG基础百科图例2.8-4.jpg.md)
-
-
-
-
+<img alt="" src="https://upload.thwiki.cc/thumb/5/5e/%E4%B8%9C%E6%96%B9projectSTG%E5%9F%BA%E7%A1%80%E7%99%BE%E7%A7%91%E5%9B%BE%E4%BE%8B2.8-2.jpg/250px-%E4%B8%9C%E6%96%B9projectSTG%E5%9F%BA%E7%A1%80%E7%99%BE%E7%A7%91%E5%9B%BE%E4%BE%8B2.8-2.jpg" decoding="async" loading="lazy" width="250" height="292" srcset="https://upload.thwiki.cc/thumb/5/5e/%E4%B8%9C%E6%96%B9projectSTG%E5%9F%BA%E7%A1%80%E7%99%BE%E7%A7%91%E5%9B%BE%E4%BE%8B2.8-2.jpg/375px-%E4%B8%9C%E6%96%B9projectSTG%E5%9F%BA%E7%A1%80%E7%99%BE%E7%A7%91%E5%9B%BE%E4%BE%8B2.8-2.jpg 1.5x, https://upload.thwiki.cc/5/5e/%E4%B8%9C%E6%96%B9projectSTG%E5%9F%BA%E7%A1%80%E7%99%BE%E7%A7%91%E5%9B%BE%E4%BE%8B2.8-2.jpg 2x" data-file-width="385" data-file-height="450">
+<img alt="" src="https://upload.thwiki.cc/thumb/5/57/%E4%B8%9C%E6%96%B9projectSTG%E5%9F%BA%E7%A1%80%E7%99%BE%E7%A7%91%E5%9B%BE%E4%BE%8B2.8-3.jpg/250px-%E4%B8%9C%E6%96%B9projectSTG%E5%9F%BA%E7%A1%80%E7%99%BE%E7%A7%91%E5%9B%BE%E4%BE%8B2.8-3.jpg" decoding="async" loading="lazy" width="250" height="292" srcset="https://upload.thwiki.cc/thumb/5/57/%E4%B8%9C%E6%96%B9projectSTG%E5%9F%BA%E7%A1%80%E7%99%BE%E7%A7%91%E5%9B%BE%E4%BE%8B2.8-3.jpg/375px-%E4%B8%9C%E6%96%B9projectSTG%E5%9F%BA%E7%A1%80%E7%99%BE%E7%A7%91%E5%9B%BE%E4%BE%8B2.8-3.jpg 1.5x, https://upload.thwiki.cc/5/57/%E4%B8%9C%E6%96%B9projectSTG%E5%9F%BA%E7%A1%80%E7%99%BE%E7%A7%91%E5%9B%BE%E4%BE%8B2.8-3.jpg 2x" data-file-width="385" data-file-height="450">
+<img alt="" src="https://upload.thwiki.cc/thumb/1/1f/%E4%B8%9C%E6%96%B9projectSTG%E5%9F%BA%E7%A1%80%E7%99%BE%E7%A7%91%E5%9B%BE%E4%BE%8B2.8-4.jpg/250px-%E4%B8%9C%E6%96%B9projectSTG%E5%9F%BA%E7%A1%80%E7%99%BE%E7%A7%91%E5%9B%BE%E4%BE%8B2.8-4.jpg" decoding="async" loading="lazy" width="250" height="165" srcset="https://upload.thwiki.cc/thumb/1/1f/%E4%B8%9C%E6%96%B9projectSTG%E5%9F%BA%E7%A1%80%E7%99%BE%E7%A7%91%E5%9B%BE%E4%BE%8B2.8-4.jpg/375px-%E4%B8%9C%E6%96%B9projectSTG%E5%9F%BA%E7%A1%80%E7%99%BE%E7%A7%91%E5%9B%BE%E4%BE%8B2.8-4.jpg 1.5x, https://upload.thwiki.cc/1/1f/%E4%B8%9C%E6%96%B9projectSTG%E5%9F%BA%E7%A1%80%E7%99%BE%E7%A7%91%E5%9B%BE%E4%BE%8B2.8-4.jpg 2x" data-file-width="500" data-file-height="329">
   
   
 
@@ -251,31 +146,17 @@
 不仅仅是单纯的固定弹，有时在有与自机位置有关的自机狙弹幕中，也能形成一种固定的避弹模式，这将会在之后的章节介绍。当然，回避的模式和路线通常并不是唯一的，STG是一种能充分发挥想象力和创造力的游戏。玩家要学会形成自己的模式，不用刻意照搬复制，这样才能加深理解，提高成功率。
   
 
-
 ## 安定
   
 一些固定弹幕或随机弹幕，由于发弹点位置和子弹方向等因素，存在着一定时间内不会有子弹经过的区域，这个区域就被称作安定区域(通常有明显的大范围的安定区域的固定弹会与其他类型的弹幕相结合，这些会在后面章节介绍)。
   
 
-
 ### 安定点
   
- * **例 2.9** *    *妖妖梦  E&amp;N难度 5面关底2符 畜趣剑「无为无策的冥罚」安定点* 
-  
-
-
-
-
-[](./文件-东方projectSTG基础百科图例2.9-1.jpg.md)
-
+***例 2.9*** *妖妖梦 E&N难度 5面关底2符 畜趣剑「无为无策的冥罚」安定点*  
+<img alt="图例2.9 畜趣剑「无为无策的冥罚」" src="https://upload.thwiki.cc/thumb/4/42/%E4%B8%9C%E6%96%B9projectSTG%E5%9F%BA%E7%A1%80%E7%99%BE%E7%A7%91%E5%9B%BE%E4%BE%8B2.9-1.jpg/384px-%E4%B8%9C%E6%96%B9projectSTG%E5%9F%BA%E7%A1%80%E7%99%BE%E7%A7%91%E5%9B%BE%E4%BE%8B2.9-1.jpg" decoding="async" loading="lazy" width="384" height="448" srcset="https://upload.thwiki.cc/4/42/%E4%B8%9C%E6%96%B9projectSTG%E5%9F%BA%E7%A1%80%E7%99%BE%E7%A7%91%E5%9B%BE%E4%BE%8B2.9-1.jpg 1.5x" data-file-width="480" data-file-height="560">
 图例2.9 畜趣剑「无为无策的冥罚」
-
-
-[](./文件-东方projectSTG基础百科图例2.9-2.jpg.md)
-
-
-
-
+<img alt="" src="https://upload.thwiki.cc/1/11/%E4%B8%9C%E6%96%B9projectSTG%E5%9F%BA%E7%A1%80%E7%99%BE%E7%A7%91%E5%9B%BE%E4%BE%8B2.9-2.jpg" decoding="async" loading="lazy" width="256" height="209" data-file-width="256" data-file-height="209">
   
   
 
@@ -284,42 +165,32 @@
 安定点的存在也许是游戏制作者不希望看到的，因此安定点在游戏中数量并不多。另外不少安定点在使用时无法攻击到boss，符卡拖到时间结束的话可是没有击破奖励(道具、分数)的哦。
   
 
-
 ### 安定避法
   
 与安定区域相关，仅需要按模式移动即可大量降低难度的躲避方法被称为安定避法。  
-
- * **例2.10** *    *星莲船 L难度 5面 关底3非* 
-  
-
-[](./文件-东方projectSTG基础百科图例2.10.jpg.md)  图例2.10 5面关底3非
-  
+***例2.10*** *星莲船 L难度 5面 关底3非*  
+<img alt="" src="https://upload.thwiki.cc/9/92/%E4%B8%9C%E6%96%B9projectSTG%E5%9F%BA%E7%A1%80%E7%99%BE%E7%A7%91%E5%9B%BE%E4%BE%8B2.10.jpg" decoding="async" loading="lazy" width="640" height="480" class="thumbimage" data-file-width="640" data-file-height="480">
+ 图例2.10 5面关底3非  
 在黄色激光内部绕着boss逆时针旋转的话，也是不会有任何子弹打中自机的。但是boss会随机移动，这就需要玩家的随机应变了，这张非符结束后boss会回到屏幕正中间，击破的时候如果站在boss下面被撞死的话就太亏了。  
 
 与安定点不同，安定避法仅仅是降低弹幕难度而不是绝对不会死，在使用时也不能过于放松，毕竟再怎么安定也还是需要去“避”的。附录3中收录了各作常用且精度要求不是很高的安定，供玩家参考。
   
-
 <center>
-
 <table>
 <tbody><tr>
-<td>&lt;
+<td><
 </td>
-<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./东方ProjectSTG基础百科-第一章.md" title="东方ProjectSTG基础百科/第一章">第一章</a>&#160;
+<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./东方ProjectSTG基础百科-第一章.md" title="东方ProjectSTG基础百科/第一章">第一章</a> 
 </td>
-<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="./东方ProjectSTG基础百科.md" title="东方ProjectSTG基础百科" unred="">东方projectSTG基础百科</a>&#160;
+<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;"> <a href="./东方ProjectSTG基础百科.md" title="东方ProjectSTG基础百科" unred="">东方projectSTG基础百科</a> 
 </td>
-<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left">&#160;<a href="./东方ProjectSTG基础百科-第三章.md" title="东方ProjectSTG基础百科/第三章">第三章</a>
+<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left"> <a href="./东方ProjectSTG基础百科-第三章.md" title="东方ProjectSTG基础百科/第三章">第三章</a>
 </td>
-<td>&gt;
+<td>>
 </td></tr></tbody></table>
 
   
 </center>
-
-
-
-
 ---
 
 此文档由 [THBWiki-Markdown-Builder](https://github.com/Delsin-Yu/THBWiki-Markdown-Builder) 构建。

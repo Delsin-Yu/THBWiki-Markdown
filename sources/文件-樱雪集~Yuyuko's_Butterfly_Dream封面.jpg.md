@@ -1,6 +1,6 @@
 # 文件:樱雪集~Yuyuko's_Butterfly_Dream封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\81\ns6%3A%E6%A8%B1%E9%9B%AA%E9%9B%86%7EYuyuko%27s_Butterfly_Dream%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\81\ns6%3A%E6%A8%B1%E9%9B%AA%E9%9B%86%7EYuyuko%27s_Butterfly_Dream%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 墨斯卡林之翼 | 封面图片 | 软件封面
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [樱雪集~Yuyuko's Butterfly Dream](./樱雪集~Yuyuko's_Butterfly_Dream.md)  
-该封面包含的角色：- [西行寺幽幽子](./西行寺幽幽子.md)- [八云紫](./八云紫.md)
-
-
-
+- [樱雪集~Yuyuko's Butterfly Dream](./樱雪集~Yuyuko's_Butterfly_Dream.md)该封面包含的角色：
+- [西行寺幽幽子](./西行寺幽幽子.md)
+- [八云紫](./八云紫.md)
 
 
 ---

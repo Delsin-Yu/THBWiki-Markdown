@@ -1,6 +1,6 @@
 # 文件:Apple_Mirage_例大祭封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d0\ns6%3AApple_Mirage_%E4%BE%8B%E5%A4%A7%E7%A5%AD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d0\ns6%3AApple_Mirage_%E4%BE%8B%E5%A4%A7%E7%A5%AD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Apple_Mirage | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Apple_Mirage | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Apple Mirage 例大祭](./Apple_Mirage_例大祭.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
-
-
-
+- [Apple Mirage 例大祭](./Apple_Mirage_例大祭.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
 
 ---

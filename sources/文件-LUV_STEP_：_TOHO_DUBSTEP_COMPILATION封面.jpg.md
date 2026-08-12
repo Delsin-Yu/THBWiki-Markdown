@@ -1,6 +1,6 @@
 # 文件:LUV_STEP_：_TOHO_DUBSTEP_COMPILATION封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0b\ns6%3ALUV_STEP_%EF%BC%9A_TOHO_DUBSTEP_COMPILATION%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0b\ns6%3ALUV_STEP_%EF%BC%9A_TOHO_DUBSTEP_COMPILATION%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 9bit_Log!Q+ | 专辑封面 | 封面图片
 
@@ -8,11 +8,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [LUV STEP ： TOHO DUBSTEP COMPILATION](./LUV_STEP_：_TOHO_DUBSTEP_COMPILATION.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [风见幽香](./风见幽香.md)- [古明地觉](./古明地觉.md)
-
-
-
+- [LUV STEP ： TOHO DUBSTEP COMPILATION](./LUV_STEP_：_TOHO_DUBSTEP_COMPILATION.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [风见幽香](./风见幽香.md)
+- [古明地觉](./古明地觉.md)
 
 
 ---

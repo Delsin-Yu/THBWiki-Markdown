@@ -1,6 +1,6 @@
 # 文件:Reunion_Bloom封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b9\ns6%3AReunion_Bloom%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b9\ns6%3AReunion_Bloom%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 -PF_AUDIO- | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@
   
 
 - [Reunion Bloom](./Reunion_Bloom.md)
-
-
-
 
 
 ---

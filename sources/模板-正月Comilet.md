@@ -1,16 +1,12 @@
 # 模板:正月Comilet
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\8\89\ns10%3A%E6%AD%A3%E6%9C%88Comilet.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\8\89\ns10%3A%E6%AD%A3%E6%9C%88Comilet.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

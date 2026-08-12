@@ -1,12 +1,8 @@
 # 文件:灵梦（植物）二次创作（Au-Sn）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\56\ns6%3A%E7%81%B5%E6%A2%A6%EF%BC%88%E6%A4%8D%E7%89%A9%EF%BC%89%E4%BA%8C%E6%AC%A1%E5%88%9B%E4%BD%9C%EF%BC%88Au-Sn%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\56\ns6%3A%E7%81%B5%E6%A2%A6%EF%BC%88%E6%A4%8D%E7%89%A9%EF%BC%89%E4%BA%8C%E6%AC%A1%E5%88%9B%E4%BD%9C%EF%BC%88Au-Sn%EF%BC%89%2Ejpg.html -->
 
 灵梦（植物）
-
-
-
-
 
 
 ---

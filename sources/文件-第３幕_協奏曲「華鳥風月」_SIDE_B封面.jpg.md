@@ -1,6 +1,6 @@
 # 文件:第３幕_協奏曲「華鳥風月」_SIDE_B封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f6\ns6%3A%E7%AC%AC%EF%BC%93%E5%B9%95_%E5%8D%94%E5%A5%8F%E6%9B%B2%E3%80%8C%E8%8F%AF%E9%B3%A5%E9%A2%A8%E6%9C%88%E3%80%8D_SIDE_B%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f6\ns6%3A%E7%AC%AC%EF%BC%93%E5%B9%95_%E5%8D%94%E5%A5%8F%E6%9B%B2%E3%80%8C%E8%8F%AF%E9%B3%A5%E9%A2%A8%E6%9C%88%E3%80%8D_SIDE_B%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 交響アクティブNEETs | 封面图片 | 少女フラクタル | 幽閉少女ActiveNEETs | 幽闭星光
 
@@ -8,11 +8,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [第３幕 協奏曲「華鳥風月」 SIDE B](./第３幕_協奏曲「華鳥風月」_SIDE_B.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [蓬莱山辉夜](./蓬莱山辉夜.md)
-
-
-
+- [第３幕 協奏曲「華鳥風月」 SIDE B](./第３幕_協奏曲「華鳥風月」_SIDE_B.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [蓬莱山辉夜](./蓬莱山辉夜.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Oriental_Energy封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\36\ns6%3AOriental_Energy%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\36\ns6%3AOriental_Energy%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Tinker_JunKtion | 专辑封面 | 封面图片
 
@@ -11,12 +11,7 @@ Tinker_JunKtion | 专辑封面 | 封面图片
 - [Oriental Energy](./Oriental_Energy.md)
 
   
-源地址：[[1]](http://static.tumblr.com/f51d10f1348cd0863bde8c89ed983763/i6lsuvq/tymnzm0s9/tumblr_static_2z8vb68yy2g4o8400so48sooc.png)
-  
-
-
-
-
+源地址：[\[1\]](http://static.tumblr.com/f51d10f1348cd0863bde8c89ed983763/i6lsuvq/tymnzm0s9/tumblr_static_2z8vb68yy2g4o8400so48sooc.png)  
 
 ---
 

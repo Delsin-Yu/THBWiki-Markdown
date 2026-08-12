@@ -1,6 +1,6 @@
 # 文件:Cruzeiro_-_現在から過去へ遡る船旅へ封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\34\ns6%3ACruzeiro_-_%E7%8F%BE%E5%9C%A8%E3%81%8B%E3%82%89%E9%81%8E%E5%8E%BB%E3%81%B8%E9%81%A1%E3%82%8B%E8%88%B9%E6%97%85%E3%81%B8%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\34\ns6%3ACruzeiro_-_%E7%8F%BE%E5%9C%A8%E3%81%8B%E3%82%89%E9%81%8E%E5%8E%BB%E3%81%B8%E9%81%A1%E3%82%8B%E8%88%B9%E6%97%85%E3%81%B8%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 LOST_BLESS | 专辑封面 | 封面图片
 
@@ -8,16 +8,12 @@ LOST_BLESS | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Cruzeiro - 現在から過去へ遡る船旅へ](./Cruzeiro_-_現在から過去へ遡る船旅へ.md)  
-该封面包含的角色：- [村纱水蜜](./村纱水蜜.md)- [雾雨魔理沙](./雾雨魔理沙.md)
+- [Cruzeiro - 現在から過去へ遡る船旅へ](./Cruzeiro_-_現在から過去へ遡る船旅へ.md)该封面包含的角色：
+- [村纱水蜜](./村纱水蜜.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-源地址:[[1]](http://img.toranoana.jp/popup_img/04/0010/21/42/040010214264-1p.jpg)
-  
-
-
-
-
+源地址:[\[1\]](http://img.toranoana.jp/popup_img/04/0010/21/42/040010214264-1p.jpg)  
 
 ---
 

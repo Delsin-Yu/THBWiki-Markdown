@@ -1,6 +1,6 @@
 # 文件:ぬえちゃん_vol.00004封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\96\ns6%3A%E3%81%AC%E3%81%88%E3%81%A1%E3%82%83%E3%82%93_vol%2E00004%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\96\ns6%3A%E3%81%AC%E3%81%88%E3%81%A1%E3%82%83%E3%82%93_vol%2E00004%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 だいどころ | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [ぬえちゃん vol.00004](./ぬえちゃん_vol.00004.md)  
-该封面包含的角色：- [封兽鵺](./封兽鵺.md)
+- [ぬえちゃん vol.00004](./ぬえちゃん_vol.00004.md)该封面包含的角色：
+- [封兽鵺](./封兽鵺.md)
 
   
-源地址:[[1]](http://ivent.maru9.org/m3-2012a/img/jacket02.jpg)
-  
-
-
-
-
+源地址:[\[1\]](http://ivent.maru9.org/m3-2012a/img/jacket02.jpg)  
 
 ---
 

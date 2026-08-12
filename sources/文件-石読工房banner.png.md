@@ -1,12 +1,8 @@
 # 文件:石読工房banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0f\ns6%3A%E7%9F%B3%E8%AA%AD%E5%B7%A5%E6%88%BFbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0f\ns6%3A%E7%9F%B3%E8%AA%AD%E5%B7%A5%E6%88%BFbanner%2Epng.html -->
 
 石読工房 | 社团LOGO
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:West_End_Girls封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\32\ns6%3AWest_End_Girls%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\32\ns6%3AWest_End_Girls%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Futon. | HappyBirthday | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Futon. | HappyBirthday | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [West End Girls](./West_End_Girls.md)  
-该封面包含的角色：- [宇佐见莲子](./宇佐见莲子.md)
+- [West End Girls](./West_End_Girls.md)该封面包含的角色：
+- [宇佐见莲子](./宇佐见莲子.md)
 
   
-源地址：[from English Touhou Wiki](https://en.touhouwiki.net/wiki/File:FTMP-0008.JPG)
-  
-
-
-
-
+源地址：[from English Touhou Wiki](https://en.touhouwiki.net/wiki/File:FTMP-0008.JPG)  
 
 ---
 

@@ -1,12 +1,8 @@
 # 文件:Cirnosoft_Matara_Icon.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8b\ns6%3ACirnosoft_Matara_Icon%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8b\ns6%3ACirnosoft_Matara_Icon%2Epng.html -->
 
 东方幻想空间琪软公司
-
-
-
-
 
 
 ---

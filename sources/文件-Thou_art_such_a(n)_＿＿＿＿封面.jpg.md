@@ -1,6 +1,6 @@
 # 文件:Thou_art_such_a(n)_＿＿＿＿封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3c\ns6%3AThou_art_such_a%28n%29_%EF%BC%BF%EF%BC%BF%EF%BC%BF%EF%BC%BF%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3c\ns6%3AThou_art_such_a%28n%29_%EF%BC%BF%EF%BC%BF%EF%BC%BF%EF%BC%BF%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 NCMR | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ NCMR | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Thou art such a(n) ＿＿＿＿](./Thou_art_such_a(n)_＿＿＿＿.md)  
-该封面包含的角色：- 原创角色 (未找到链接)
+- [Thou art such a(n) ＿＿＿＿](./Thou_art_such_a(n%29_＿＿＿＿.md)该封面包含的角色：
+- 原创角色 (未找到链接)
 
   
-源地址：[[1]](https://ncmr.bandcamp.com/album/thou-art-such-a-n)
-  
-
-
-
-
+源地址：[\[1\]](https://ncmr.bandcamp.com/album/thou-art-such-a-n)  
 
 ---
 

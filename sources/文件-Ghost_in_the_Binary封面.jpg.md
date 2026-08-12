@@ -1,6 +1,6 @@
 # 文件:Ghost_in_the_Binary封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\ba\ns6%3AGhost_in_the_Binary%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\ba\ns6%3AGhost_in_the_Binary%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 The_Perfect_Insiders | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ The_Perfect_Insiders | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Ghost in the Binary](./Ghost_in_the_Binary.md)  
-该封面包含的角色：- [西行寺幽幽子](./西行寺幽幽子.md)
-
-
-
+- [Ghost in the Binary](./Ghost_in_the_Binary.md)该封面包含的角色：
+- [西行寺幽幽子](./西行寺幽幽子.md)
 
 
 ---

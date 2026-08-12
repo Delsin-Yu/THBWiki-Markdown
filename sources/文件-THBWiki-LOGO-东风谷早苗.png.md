@@ -1,12 +1,8 @@
 # 文件:THBWiki-LOGO-东风谷早苗.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\ba\ns6%3ATHBWiki-LOGO-%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\ba\ns6%3ATHBWiki-LOGO-%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97%2Epng.html -->
 
 THBWiki | Wiki词条分类用图
-
-
-
-
 
 
 ---

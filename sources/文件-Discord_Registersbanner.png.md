@@ -1,12 +1,8 @@
 # 文件:Discord_Registersbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a4\ns6%3ADiscord_Registersbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a4\ns6%3ADiscord_Registersbanner%2Epng.html -->
 
 Discord_Registers | 社团LOGO
-
-
-
-
 
 
 ---

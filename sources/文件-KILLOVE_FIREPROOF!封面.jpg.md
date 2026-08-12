@@ -1,6 +1,6 @@
 # 文件:KILLOVE_FIREPROOF!封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4f\ns6%3AKILLOVE_FIREPROOF%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4f\ns6%3AKILLOVE_FIREPROOF%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 暁Records
 
@@ -8,16 +8,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [KILLOVE FIREPROOF!](./KILLOVE_FIREPROOF!.md)  
-该封面包含的角色：- [蓬莱山辉夜](./蓬莱山辉夜.md)- [藤原妹红](./藤原妹红.md)
+- [KILLOVE FIREPROOF!](./KILLOVE_FIREPROOF!.md)该封面包含的角色：
+- [蓬莱山辉夜](./蓬莱山辉夜.md)
+- [藤原妹红](./藤原妹红.md)
 
   
-源文件：[[1]](http://ec.akbh.jp/upload/save_image/pics/2100000072811.jpg)
-  
-
-
-
-
+源文件：[\[1\]](http://ec.akbh.jp/upload/save_image/pics/2100000072811.jpg)  
 
 ---
 

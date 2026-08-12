@@ -1,6 +1,6 @@
 # 文件:C91新譜_とらのあな限定版_特典CD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e6\ns6%3AC91%E6%96%B0%E8%AD%9C_%E3%81%A8%E3%82%89%E3%81%AE%E3%81%82%E3%81%AA%E9%99%90%E5%AE%9A%E7%89%88_%E7%89%B9%E5%85%B8CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e6\ns6%3AC91%E6%96%B0%E8%AD%9C_%E3%81%A8%E3%82%89%E3%81%AE%E3%81%82%E3%81%AA%E9%99%90%E5%AE%9A%E7%89%88_%E7%89%B9%E5%85%B8CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 幽闭星光
 
@@ -9,9 +9,6 @@
   
 
 - [C91新譜 とらのあな限定版 特典CD](./C91新譜_とらのあな限定版_特典CD.md)
-
-
-
 
 
 ---

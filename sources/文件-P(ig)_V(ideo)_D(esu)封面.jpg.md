@@ -1,6 +1,6 @@
 # 文件:P(ig)_V(ideo)_D(esu)封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8e\ns6%3AP%28ig%29_V%28ideo%29_D%28esu%29%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8e\ns6%3AP%28ig%29_V%28ideo%29_D%28esu%29%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 封面图片 | 视频封面 | 豚乙女
 
@@ -8,11 +8,18 @@
 使用了本文件作封面图片的作品：
   
 
-- [P(ig) V(ideo) D(esu)](./P(ig)_V(ideo)_D(esu).md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)- [琪露诺](./琪露诺.md)- [博丽灵梦](./博丽灵梦.md)- [魂魄妖梦](./魂魄妖梦.md)- [伊吹萃香](./伊吹萃香.md)- [秋静叶](./秋静叶.md)- [秋穰子](./秋穰子.md)- [东风谷早苗](./东风谷早苗.md)- [宫古芳香](./宫古芳香.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [P(ig) V(ideo) D(esu)](./P(ig%29_V(ideo%29_D(esu%29.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
+- [琪露诺](./琪露诺.md)
+- [博丽灵梦](./博丽灵梦.md)
+- [魂魄妖梦](./魂魄妖梦.md)
+- [伊吹萃香](./伊吹萃香.md)
+- [秋静叶](./秋静叶.md)
+- [秋穰子](./秋穰子.md)
+- [东风谷早苗](./东风谷早苗.md)
+- [宫古芳香](./宫古芳香.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

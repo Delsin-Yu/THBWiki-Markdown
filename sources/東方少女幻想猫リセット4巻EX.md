@@ -1,12 +1,11 @@
 # 東方少女幻想猫リセット4巻EX
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\fc\ns0%3A%E6%9D%B1%E6%96%B9%E5%B0%91%E5%A5%B3%E5%B9%BB%E6%83%B3%E7%8C%AB%E3%83%AA%E3%82%BB%E3%83%83%E3%83%884%E5%B7%BBEX.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\fc\ns0%3A%E6%9D%B1%E6%96%B9%E5%B0%91%E5%A5%B3%E5%B9%BB%E6%83%B3%E7%8C%AB%E3%83%AA%E3%82%BB%E3%83%83%E3%83%884%E5%B7%BBEX.html -->
 
 2005年7月1日 由 Quarter Iceshop  发布的漫画同人志，B5尺寸一共36页，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人志 (未找到链接)** 的词条
-
+**[二次创作同人志](./二次创作.md#同人志)**的词条
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-東方少女幻想猫リセット4巻EX封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/8/88/%E6%9D%B1%E6%96%B9%E5%B0%91%E5%A5%B3%E5%B9%BB%E6%83%B3%E7%8C%AB%E3%83%AA%E3%82%BB%E3%83%83%E3%83%884%E5%B7%BBEX%E5%B0%81%E9%9D%A2.jpg/143px-%E6%9D%B1%E6%96%B9%E5%B0%91%E5%A5%B3%E5%B9%BB%E6%83%B3%E7%8C%AB%E3%83%AA%E3%82%BB%E3%83%83%E3%83%884%E5%B7%BBEX%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="143" height="196" srcset="https://upload.thwiki.cc/thumb/8/88/%E6%9D%B1%E6%96%B9%E5%B0%91%E5%A5%B3%E5%B9%BB%E6%83%B3%E7%8C%AB%E3%83%AA%E3%82%BB%E3%83%83%E3%83%884%E5%B7%BBEX%E5%B0%81%E9%9D%A2.jpg/215px-%E6%9D%B1%E6%96%B9%E5%B0%91%E5%A5%B3%E5%B9%BB%E6%83%B3%E7%8C%AB%E3%83%AA%E3%82%BB%E3%83%83%E3%83%884%E5%B7%BBEX%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/8/88/%E6%9D%B1%E6%96%B9%E5%B0%91%E5%A5%B3%E5%B9%BB%E6%83%B3%E7%8C%AB%E3%83%AA%E3%82%BB%E3%83%83%E3%83%884%E5%B7%BBEX%E5%B0%81%E9%9D%A2.jpg/287px-%E6%9D%B1%E6%96%B9%E5%B0%91%E5%A5%B3%E5%B9%BB%E6%83%B3%E7%8C%AB%E3%83%AA%E3%82%BB%E3%83%83%E3%83%884%E5%B7%BBEX%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="403" data-file-height="550"></a><div class="cover-char">角色：<a href="./铃仙·优昙华院·因幡.md" title="铃仙·优昙华院·因幡">铃仙·优昙华院·因幡</a></div></td>
@@ -14,19 +13,15 @@
 </tr><tr><td class="label">首发日期</td><td>2005-07-01</td></tr><tr><td class="label">类型</td><td>漫画</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>B5</td></tr><tr><td class="label">页数</td><td>36P</td></tr><tr><td class="label">售价</td><td>700日元</td></tr></tbody></table>
 
 東方少女幻想猫リセット4巻EX（同人志，Quarter Iceshop，2005） - 2005年7月1日 由 Quarter Iceshop  发布的漫画同人志，B5尺寸一共36页，分级为 一般向
-
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://ec.toranoana.jp/tora_r/ec/item/040000084493">虎穴</a></td></tr></tbody></table>
 
 
-
 ## Staff
+
 - ともえひむろ (未找到链接)
 
 
 ## 评论
-
-
-
 
 ---
 

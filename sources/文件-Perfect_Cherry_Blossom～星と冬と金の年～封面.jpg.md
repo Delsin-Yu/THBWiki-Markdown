@@ -1,6 +1,6 @@
 # 文件:Perfect_Cherry_Blossom～星と冬と金の年～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3c\ns6%3APerfect_Cherry_Blossom%EF%BD%9E%E6%98%9F%E3%81%A8%E5%86%AC%E3%81%A8%E9%87%91%E3%81%AE%E5%B9%B4%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3c\ns6%3APerfect_Cherry_Blossom%EF%BD%9E%E6%98%9F%E3%81%A8%E5%86%AC%E3%81%A8%E9%87%91%E3%81%AE%E5%B9%B4%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 東京アクティブNEETs
 
@@ -8,11 +8,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [Perfect Cherry Blossom～星と冬と金の年～](./Perfect_Cherry_Blossom～星と冬と金の年～.md)  
-该封面包含的角色：- [露娜萨·普莉兹姆利巴](./露娜萨·普莉兹姆利巴.md)- [梅露兰·普莉兹姆利巴](./梅露兰·普莉兹姆利巴.md)- [莉莉卡·普莉兹姆利巴](./莉莉卡·普莉兹姆利巴.md)
-
-
-
+- [Perfect Cherry Blossom～星と冬と金の年～](./Perfect_Cherry_Blossom～星と冬と金の年～.md)该封面包含的角色：
+- [露娜萨·普莉兹姆利巴](./露娜萨·普莉兹姆利巴.md)
+- [梅露兰·普莉兹姆利巴](./梅露兰·普莉兹姆利巴.md)
+- [莉莉卡·普莉兹姆利巴](./莉莉卡·普莉兹姆利巴.md)
 
 
 ---

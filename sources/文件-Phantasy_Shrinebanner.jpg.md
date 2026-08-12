@@ -1,12 +1,8 @@
 # 文件:Phantasy_Shrinebanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d9\ns6%3APhantasy_Shrinebanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d9\ns6%3APhantasy_Shrinebanner%2Ejpg.html -->
 
 Phantasy_Shrine | 社团LOGO
-
-
-
-
 
 
 ---

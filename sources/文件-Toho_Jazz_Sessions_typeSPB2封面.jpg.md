@@ -1,6 +1,6 @@
 # 文件:Toho_Jazz_Sessions_typeSPB2封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ce\ns6%3AToho_Jazz_Sessions_typeSPB2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ce\ns6%3AToho_Jazz_Sessions_typeSPB2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Baguettes_Ensemble | 专辑封面 | 封面图片
 
@@ -11,12 +11,7 @@ Baguettes_Ensemble | 专辑封面 | 封面图片
 - [Toho Jazz Sessions typeSPB2](./Toho_Jazz_Sessions_typeSPB2.md)
 
   
-源地址：[[1]](http://stat001.ameba.jp/user_images/20160502/23/ichi-session/79/1a/j/o0800080013635294128.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://stat001.ameba.jp/user_images/20160502/23/ichi-session/79/1a/j/o0800080013635294128.jpg)  
 
 ---
 

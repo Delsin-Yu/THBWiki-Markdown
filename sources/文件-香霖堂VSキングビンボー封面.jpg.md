@@ -1,6 +1,6 @@
 # 文件:香霖堂VSキングビンボー封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d7\ns6%3A%E9%A6%99%E9%9C%96%E5%A0%82VS%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%93%E3%83%B3%E3%83%9C%E3%83%BC%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d7\ns6%3A%E9%A6%99%E9%9C%96%E5%A0%82VS%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%93%E3%83%B3%E3%83%9C%E3%83%BC%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 せーてんのへきれき | 同人志封面 | 封面图片
 
@@ -8,11 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [香霖堂VSキングビンボー](./香霖堂VSキングビンボー.md)  
-该封面包含的角色：- [小野塚小町](./小野塚小町.md)- [洩矢诹访子](./洩矢诹访子.md)- [森近霖之助](./森近霖之助.md)- [依神紫苑](./依神紫苑.md)
-
-
-
+- [香霖堂VSキングビンボー](./香霖堂VSキングビンボー.md)该封面包含的角色：
+- [小野塚小町](./小野塚小町.md)
+- [洩矢诹访子](./洩矢诹访子.md)
+- [森近霖之助](./森近霖之助.md)
+- [依神紫苑](./依神紫苑.md)
 
 
 ---

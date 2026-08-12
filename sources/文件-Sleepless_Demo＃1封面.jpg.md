@@ -1,6 +1,6 @@
 # 文件:Sleepless_Demo＃1封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\33\ns6%3ASleepless_Demo%EF%BC%831%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\33\ns6%3ASleepless_Demo%EF%BC%831%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Sleepless | 专辑封面 | 封面图片
 
@@ -13,12 +13,7 @@ Sleepless | 专辑封面 | 封面图片
 - [Sleepless Demo＃1](./Sleepless_Demo＃1.md)
 
   
-源地址：[direct image link (original size)](https://i1.sndcdn.com/artworks-000243485702-1v1h5f-original.jpg), [source page (Soundcloud)](https://soundcloud.com/sctspl/sleepless-demo1-xfd)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://i1.sndcdn.com/artworks-000243485702-1v1h5f-original.jpg), [source page (Soundcloud)](https://soundcloud.com/sctspl/sleepless-demo1-xfd)  
 
 ---
 

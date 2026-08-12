@@ -1,24 +1,21 @@
 # Mr.J.AND
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\a\a0\ns0%3AMr%2EJ%2EAND.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\a\a0\ns0%3AMr%2EJ%2EAND.html -->
 
 现实人物
 
 本页是关于东方Project  
- **二次同人创作者** 的词条
-
+**二次同人创作者**的词条
 ## 基本信息
-[](./文件-Mr.J.AND头像.jpg.md)
+<img alt="Mr.J.AND头像.jpg" src="https://upload.thwiki.cc/thumb/d/d1/Mr.J.AND%E5%A4%B4%E5%83%8F.jpg/300px-Mr.J.AND%E5%A4%B4%E5%83%8F.jpg" decoding="async" loading="lazy" width="300" height="300" srcset="https://upload.thwiki.cc/thumb/d/d1/Mr.J.AND%E5%A4%B4%E5%83%8F.jpg/450px-Mr.J.AND%E5%A4%B4%E5%83%8F.jpg 1.5x, https://upload.thwiki.cc/d/d1/Mr.J.AND%E5%A4%B4%E5%83%8F.jpg 2x" data-file-width="525" data-file-height="525">
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="label"><b>名称</b></td><td> Mr.J.AND </td></tr><tr><td class="label"><b>真实名</b></td><td>詹姆斯 邦德</td></tr><tr><td class="label"><b>别名</b></td><td>同人内鬼</td></tr><tr><td class="label"><b>译名</b></td><td>Jander</td></tr><tr><td class="label"><b>所属社团</b></td><td><b>当前</b><div style="margin-left:2em;">东方整活堂、幻想授华录、梦幻泡影、哈尔滨工业大学东方社群、妖怪之山集团河童重工</div></td></tr><tr><td class="label"><b>职位</b></td><td>打杂</td></tr><tr><td class="label"><b>性别</b></td><td>男</td></tr><tr><td class="label"><b>生日</b></td><td>7月3日</td></tr><tr><td class="label"><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://scp-wiki-cn.wikidot.com/mr-j-and">http://scp-wiki-cn.wikidot.com/mr-j-and</a></td></tr><tr><td class="label"><b>个人页面</b></td><td><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><b>Email</b></td><td>2906549007@qq.com</td></tr></tbody></table></td></tr></tbody></table>
 
 Mr.J.AND（人物） - 现实人物
-
 ## 介绍
   
 24岁，是学生
   
-
 
 ## 参与作品
   
@@ -27,14 +24,9 @@ Mr.J.AND（人物） - 现实人物
 以及其它
   
 
-
 ## 人际关系
 人名
 : 【已编辑】
-
-
-
-
 
 ---
 

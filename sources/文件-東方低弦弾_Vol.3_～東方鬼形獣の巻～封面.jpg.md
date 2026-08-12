@@ -1,6 +1,6 @@
 # 文件:東方低弦弾_Vol.3_～東方鬼形獣の巻～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\33\ns6%3A%E6%9D%B1%E6%96%B9%E4%BD%8E%E5%BC%A6%E5%BC%BE_Vol%2E3_%EF%BD%9E%E6%9D%B1%E6%96%B9%E9%AC%BC%E5%BD%A2%E7%8D%A3%E3%81%AE%E5%B7%BB%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\33\ns6%3A%E6%9D%B1%E6%96%B9%E4%BD%8E%E5%BC%A6%E5%BC%BE_Vol%2E3_%EF%BD%9E%E6%9D%B1%E6%96%B9%E9%AC%BC%E5%BD%A2%E7%8D%A3%E3%81%AE%E5%B7%BB%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 H.J.Freaks | ぼいじゃあ | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ H.J.Freaks | ぼいじゃあ | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方低弦弾 Vol.3 ～東方鬼形獣の巻～](./東方低弦弾_Vol.3_～東方鬼形獣の巻～.md)  
-该封面包含的角色：- [埴安神袿姬](./埴安神袿姬.md)- [杖刀偶磨弓](./杖刀偶磨弓.md)
-
-
-
+- [東方低弦弾 Vol.3 ～東方鬼形獣の巻～](./東方低弦弾_Vol.3_～東方鬼形獣の巻～.md)该封面包含的角色：
+- [埴安神袿姬](./埴安神袿姬.md)
+- [杖刀偶磨弓](./杖刀偶磨弓.md)
 
 
 ---

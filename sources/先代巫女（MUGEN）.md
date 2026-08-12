@@ -1,18 +1,15 @@
 # 先代巫女（MUGEN）
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\7\7a\ns0%3A%E5%85%88%E4%BB%A3%E5%B7%AB%E5%A5%B3%EF%BC%88MUGEN%EF%BC%89.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\7\7a\ns0%3A%E5%85%88%E4%BB%A3%E5%B7%AB%E5%A5%B3%EF%BC%88MUGEN%EF%BC%89.html -->
 
 二次同人角色
 
 本页是关于东方Project  
- **[二次同人角色](./二次角色列表.md)** 的词条
-
+**[二次同人角色](./二次角色列表.md)**的词条
 ## 目录
 
 - [1 基本资料](#基本资料)
-
   - [1.1 出处](#出处)
-
 
 
 - [2 设定](#设定)
@@ -20,12 +17,9 @@
 - [4 注释](#注释)
 
 
-
-
-
 ## 基本资料
-[](./文件-先代巫女.jpg.md)  [](./文件-先代巫女.jpg.md)先代巫女
-
+<img alt="" src="https://upload.thwiki.cc/thumb/e/e3/%E5%85%88%E4%BB%A3%E5%B7%AB%E5%A5%B3.jpg/300px-%E5%85%88%E4%BB%A3%E5%B7%AB%E5%A5%B3.jpg" decoding="async" loading="lazy" width="300" height="300" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/e/e3/%E5%85%88%E4%BB%A3%E5%B7%AB%E5%A5%B3.jpg/450px-%E5%85%88%E4%BB%A3%E5%B7%AB%E5%A5%B3.jpg 1.5x, https://upload.thwiki.cc/e/e3/%E5%85%88%E4%BB%A3%E5%B7%AB%E5%A5%B3.jpg 2x" data-file-width="512" data-file-height="512">
+ [放大](./文件-先代巫女.jpg.md)先代巫女
 <table>
 <tbody><tr>
 <th colspan="2">基本信息</th>
@@ -35,12 +29,10 @@
 </tr><tr><td><b>英文名</b></td><td>miko</td></tr><tr><td><b>种族</b></td><td>人类</td></tr><tr><td><b>职业</b></td><td>博丽神社的巫女</td></tr><tr><td><b>能力</b></td><td>破坏物体与概念程度的能力无视对手的能力</td></tr></tbody></table>
 
 先代巫女（MUGEN）（同人角色） - 二次同人角色
-
 <table>
 <tbody><tr>
 <th colspan="5">登场信息</th>
 </tr><tr><th><b>作品名</b></th><th><b>位置</b></th><th><b>类型</b></th><th><b>称号</b></th><th><b>主题曲</b></th></tr><tr><td style="width:130px">-</td><td style="width:15px"></td><td style="width:180px">-</td><td style="width:200px">-</td></tr></tbody></table>
-
 
 
 ### 出处
@@ -48,9 +40,7 @@
 由pre-to氏创作的MUGEN人物，这个形象对此后关于该人物的同人创作产生了较大的影响。
   
 
-
 ## 设定
-
   
 是霖之助还在雾雨魔法店里修行时的友人。  
 
@@ -73,14 +63,7 @@
 同上，历代的博丽巫女都比灵梦有危机感。
   
 
-
-
 ## 其他内容
-
-
-
-
-
 
 ---
 

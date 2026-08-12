@@ -1,6 +1,6 @@
 # 文件:ジャージと愉快な仲間達_デモ盤vol.3_突発合同xForest306封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\79\ns6%3A%E3%82%B8%E3%83%A3%E3%83%BC%E3%82%B8%E3%81%A8%E6%84%89%E5%BF%AB%E3%81%AA%E4%BB%B2%E9%96%93%E9%81%94_%E3%83%87%E3%83%A2%E7%9B%A4vol%2E3_%E7%AA%81%E7%99%BA%E5%90%88%E5%90%8CxForest306%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\79\ns6%3A%E3%82%B8%E3%83%A3%E3%83%BC%E3%82%B8%E3%81%A8%E6%84%89%E5%BF%AB%E3%81%AA%E4%BB%B2%E9%96%93%E9%81%94_%E3%83%87%E3%83%A2%E7%9B%A4vol%2E3_%E7%AA%81%E7%99%BA%E5%90%88%E5%90%8CxForest306%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Forest306 | ジャージと愉快な仲間たち | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Forest306 | ジャージと愉快な仲間たち | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [ジャージと愉快な仲間達 デモ盤vol.3 突発合同xForest306](./ジャージと愉快な仲間達_デモ盤vol.3_突発合同xForest306.md)  
-该封面包含的角色：- [河城荷取](./河城荷取.md)
-
-
-
+- [ジャージと愉快な仲間達 デモ盤vol.3 突発合同xForest306](./ジャージと愉快な仲間達_デモ盤vol.3_突発合同xForest306.md)该封面包含的角色：
+- [河城荷取](./河城荷取.md)
 
 
 ---

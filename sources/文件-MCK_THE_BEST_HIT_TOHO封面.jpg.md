@@ -1,6 +1,6 @@
 # 文件:MCK_THE_BEST_HIT_TOHO封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\77\ns6%3AMCK_THE_BEST_HIT_TOHO%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\77\ns6%3AMCK_THE_BEST_HIT_TOHO%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 マッカチン企画 | 专辑封面 | 封面图片
 
@@ -8,11 +8,17 @@
 使用了本文件作封面图片的作品：
   
 
-- [MCK THE BEST HIT TOHO](./MCK_THE_BEST_HIT_TOHO.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)- [西行寺幽幽子](./西行寺幽幽子.md)- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)- [古明地恋](./古明地恋.md)- [封兽鵺](./封兽鵺.md)- [宫古芳香](./宫古芳香.md)- [霍青娥](./霍青娥.md)- [雾雨魔理沙](./雾雨魔理沙.md)- [赤蛮奇](./赤蛮奇.md)
-
-
-
+- [MCK THE BEST HIT TOHO](./MCK_THE_BEST_HIT_TOHO.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
+- [西行寺幽幽子](./西行寺幽幽子.md)
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
+- [古明地恋](./古明地恋.md)
+- [封兽鵺](./封兽鵺.md)
+- [宫古芳香](./宫古芳香.md)
+- [霍青娥](./霍青娥.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
+- [赤蛮奇](./赤蛮奇.md)
 
 
 ---

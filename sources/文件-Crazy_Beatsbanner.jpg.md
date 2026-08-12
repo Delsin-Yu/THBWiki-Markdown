@@ -1,12 +1,8 @@
 # 文件:Crazy_Beatsbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\19\ns6%3ACrazy_Beatsbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\19\ns6%3ACrazy_Beatsbanner%2Ejpg.html -->
 
 Crazy_Beats | 社团LOGO
-
-
-
-
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:瀑符「Shiraito_Fall」（天邪鬼）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b7\ns6%3A%E7%80%91%E7%AC%A6%E3%80%8CShiraito_Fall%E3%80%8D%EF%BC%88%E5%A4%A9%E9%82%AA%E9%AC%BC%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b7\ns6%3A%E7%80%91%E7%AC%A6%E3%80%8CShiraito_Fall%E3%80%8D%EF%BC%88%E5%A4%A9%E9%82%AA%E9%AC%BC%EF%BC%89%2Ejpg.html -->
 
 弹幕天邪鬼 | 敌机符卡 | 河城荷取
-
-
-
-
 
 
 ---

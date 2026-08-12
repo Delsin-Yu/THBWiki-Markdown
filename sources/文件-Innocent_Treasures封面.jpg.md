@@ -1,6 +1,6 @@
 # 文件:Innocent_Treasures封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7f\ns6%3AInnocent_Treasures%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7f\ns6%3AInnocent_Treasures%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 HIDDEN_TREASURE | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ HIDDEN_TREASURE | 专辑封面 | 封面图片
   
 
 - [Innocent Treasures](./Innocent_Treasures.md)
-
-
-
 
 
 ---

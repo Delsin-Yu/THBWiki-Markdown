@@ -1,6 +1,6 @@
 # 文件:My_Nazrin4封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b4\ns6%3AMy_Nazrin4%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b4\ns6%3AMy_Nazrin4%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 またたびガーデン | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [My Nazrin4](./My_Nazrin4.md)  
-该封面包含的角色：- [娜兹玲](./娜兹玲.md)
+- [My Nazrin4](./My_Nazrin4.md)该封面包含的角色：
+- [娜兹玲](./娜兹玲.md)
 
   
-[Pixiv artwork ID: 83513658 (original size)](https://www.pixiv.net/artworks/83513658)
-  
-
-
-
-
+[Pixiv artwork ID: 83513658 (original size)](https://www.pixiv.net/artworks/83513658)  
 
 ---
 

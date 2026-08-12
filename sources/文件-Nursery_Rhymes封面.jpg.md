@@ -1,6 +1,6 @@
 # 文件:Nursery_Rhymes封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\16\ns6%3ANursery_Rhymes%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\16\ns6%3ANursery_Rhymes%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 オッポレ☆コッポレ | 同人志封面 | 封面图片 | 白上さん家
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Nursery Rhymes](./Nursery_Rhymes.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
-
-
-
+- [Nursery Rhymes](./Nursery_Rhymes.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
 
 ---

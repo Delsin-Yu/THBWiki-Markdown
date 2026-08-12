@@ -1,6 +1,6 @@
 # 文件:大空魔術～Magical_Astronomy-EP-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2b\ns6%3A%E5%A4%A7%E7%A9%BA%E9%AD%94%E8%A1%93%EF%BD%9EMagical_Astronomy-EP-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2b\ns6%3A%E5%A4%A7%E7%A9%BA%E9%AD%94%E8%A1%93%EF%BD%9EMagical_Astronomy-EP-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ELECTRIC_RED | 专辑封面 | 封面图片
 
@@ -8,16 +8,13 @@ ELECTRIC_RED | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [大空魔術～Magical Astronomy-EP-](./大空魔術～Magical_Astronomy-EP-.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
+- [大空魔術～Magical Astronomy-EP-](./大空魔術～Magical_Astronomy-EP-.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
   
 p站id=15442762
   
-
-
-
-
 
 ---
 

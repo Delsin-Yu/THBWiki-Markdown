@@ -1,6 +1,6 @@
 # 文件:東方時封城_～_the_Alternative_Age封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\85\ns6%3A%E6%9D%B1%E6%96%B9%E6%99%82%E5%B0%81%E5%9F%8E_%EF%BD%9E_the_Alternative_Age%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\85\ns6%3A%E6%9D%B1%E6%96%B9%E6%99%82%E5%B0%81%E5%9F%8E_%EF%BD%9E_the_Alternative_Age%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Danmaq | 封面图片 | 软件封面
 
@@ -8,11 +8,10 @@ Danmaq | 封面图片 | 软件封面
 使用了本文件作封面图片的作品：
   
 
-- [東方時封城 ～ the Alternative Age](./東方時封城_～_the_Alternative_Age.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)- [上白泽慧音](./上白泽慧音.md)
-
-
-
+- [東方時封城 ～ the Alternative Age](./東方時封城_～_the_Alternative_Age.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
+- [上白泽慧音](./上白泽慧音.md)
 
 
 ---

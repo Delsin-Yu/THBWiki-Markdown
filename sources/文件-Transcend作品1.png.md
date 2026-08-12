@@ -1,16 +1,12 @@
 # 文件:Transcend作品1.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0c\ns6%3ATranscend%E4%BD%9C%E5%93%811%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0c\ns6%3ATranscend%E4%BD%9C%E5%93%811%2Epng.html -->
 
 Transcendental_Etudes
 
   
 Transcend作品1
   
-
-
-
-
 
 ---
 

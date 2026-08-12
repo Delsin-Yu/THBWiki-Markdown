@@ -1,6 +1,6 @@
 # 文件:神獣の宴-the_Grateful_BEASTS-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1b\ns6%3A%E7%A5%9E%E7%8D%A3%E3%81%AE%E5%AE%B4-the_Grateful_BEASTS-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1b\ns6%3A%E7%A5%9E%E7%8D%A3%E3%81%AE%E5%AE%B4-the_Grateful_BEASTS-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 1569 | EX永遠亭 | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [神獣の宴-the Grateful BEASTS-](./神獣の宴-the_Grateful_BEASTS-.md)  
-该封面包含的角色：- [高丽野阿吽](./高丽野阿吽.md)
-
-
-
+- [神獣の宴-the Grateful BEASTS-](./神獣の宴-the_Grateful_BEASTS-.md)该封面包含的角色：
+- [高丽野阿吽](./高丽野阿吽.md)
 
 
 ---

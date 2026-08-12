@@ -1,18 +1,13 @@
 # 文件:Dangerous_Mezashi_Catbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d2\ns6%3ADangerous_Mezashi_Catbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d2\ns6%3ADangerous_Mezashi_Catbanner%2Ejpg.html -->
 
 Dangerous_Mezashi_Cat | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[[1]](http://www.nekonomikan.com/dmc/images/ban_dmc.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://www.nekonomikan.com/dmc/images/ban_dmc.jpg)  
 
 ---
 

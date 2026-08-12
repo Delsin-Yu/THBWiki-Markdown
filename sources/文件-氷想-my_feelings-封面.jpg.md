@@ -1,6 +1,6 @@
 # 文件:氷想-my_feelings-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\58\ns6%3A%E6%B0%B7%E6%83%B3-my_feelings-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\58\ns6%3A%E6%B0%B7%E6%83%B3-my_feelings-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 L-ZONE | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ L-ZONE | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [氷想-my feelings-](./氷想-my_feelings-.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)
-
-
-
+- [氷想-my feelings-](./氷想-my_feelings-.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
 
 
 ---

@@ -1,16 +1,11 @@
 # 文件:かちかち山logo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ae\ns6%3A%E3%81%8B%E3%81%A1%E3%81%8B%E3%81%A1%E5%B1%B1logo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ae\ns6%3A%E3%81%8B%E3%81%A1%E3%81%8B%E3%81%A1%E5%B1%B1logo%2Epng.html -->
 
 かちかち山 | 社团LOGO
 
   
-源地址：[[1]](https://static.wixstatic.com/media/51f536_4b671f4e0f38468ebc2ee985883e3318~mv2.png)
-  
-
-
-
-
+源地址：[\[1\]](https://static.wixstatic.com/media/51f536_4b671f4e0f38468ebc2ee985883e3318~mv2.png)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:The_History_Of_Ice封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ae\ns6%3AThe_History_Of_Ice%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ae\ns6%3AThe_History_Of_Ice%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 冰精的冰屋 | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [The History Of Ice](./The_History_Of_Ice.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)
-
-
-
+- [The History Of Ice](./The_History_Of_Ice.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
 
 
 ---

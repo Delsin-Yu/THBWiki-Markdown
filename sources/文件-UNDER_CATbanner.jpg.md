@@ -1,12 +1,8 @@
 # 文件:UNDER_CATbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\67\ns6%3AUNDER_CATbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\67\ns6%3AUNDER_CATbanner%2Ejpg.html -->
 
 UNDER_CAT | 社团LOGO
-
-
-
-
 
 
 ---

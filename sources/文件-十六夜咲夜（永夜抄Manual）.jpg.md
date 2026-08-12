@@ -1,12 +1,8 @@
 # 文件:十六夜咲夜（永夜抄Manual）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\52\ns6%3A%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C%EF%BC%88%E6%B0%B8%E5%A4%9C%E6%8A%84Manual%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\52\ns6%3A%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C%EF%BC%88%E6%B0%B8%E5%A4%9C%E6%8A%84Manual%EF%BC%89%2Ejpg.html -->
 
 Manual配图 | 东方永夜抄 | 十六夜咲夜
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:東方幻鍵音2_～SOUND_LYCORIS～封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0c\ns6%3A%E6%9D%B1%E6%96%B9%E5%B9%BB%E9%8D%B5%E9%9F%B32_%EF%BD%9ESOUND_LYCORIS%EF%BD%9E%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0c\ns6%3A%E6%9D%B1%E6%96%B9%E5%B9%BB%E9%8D%B5%E9%9F%B32_%EF%BD%9ESOUND_LYCORIS%EF%BD%9E%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Glassy：oceaN | 专辑封面 | 封面图片
 
@@ -8,16 +8,12 @@ Glassy：oceaN | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方幻鍵音2 ～SOUND LYCORIS～](./東方幻鍵音2_～SOUND_LYCORIS～.md)  
-该封面包含的角色：- [封兽鵺](./封兽鵺.md)- [鬼人正邪](./鬼人正邪.md)
+- [東方幻鍵音2 ～SOUND LYCORIS～](./東方幻鍵音2_～SOUND_LYCORIS～.md)该封面包含的角色：
+- [封兽鵺](./封兽鵺.md)
+- [鬼人正邪](./鬼人正邪.md)
 
   
-源地址：[[1]](https://static.wixstatic.com/media/438c3f_72a350559ba24a75b25f0a2d71ca4302.png/v1/fill/w_400,h_400,al_c/438c3f_72a350559ba24a75b25f0a2d71ca4302.png)
-  
-
-
-
-
+源地址：[\[1\]](https://static.wixstatic.com/media/438c3f_72a350559ba24a75b25f0a2d71ca4302.png/v1/fill/w_400,h_400,al_c/438c3f_72a350559ba24a75b25f0a2d71ca4302.png)  
 
 ---
 

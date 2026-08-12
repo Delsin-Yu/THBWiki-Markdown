@@ -1,12 +1,8 @@
 # 文件:天然ジェミニ_banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\76\ns6%3A%E5%A4%A9%E7%84%B6%E3%82%B8%E3%82%A7%E3%83%9F%E3%83%8B_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\76\ns6%3A%E5%A4%A9%E7%84%B6%E3%82%B8%E3%82%A7%E3%83%9F%E3%83%8B_banner%2Ejpg.html -->
 
 天然ジェミニ | 社团LOGO
-
-
-
-
 
 
 ---

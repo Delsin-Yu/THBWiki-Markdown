@@ -1,6 +1,6 @@
 # 文件:ふたつの子午線_Orthogonal_parallel_line封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bc\ns6%3A%E3%81%B5%E3%81%9F%E3%81%A4%E3%81%AE%E5%AD%90%E5%8D%88%E7%B7%9A_Orthogonal_parallel_line%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bc\ns6%3A%E3%81%B5%E3%81%9F%E3%81%A4%E3%81%AE%E5%AD%90%E5%8D%88%E7%B7%9A_Orthogonal_parallel_line%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 dBu_music | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ dBu_music | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [ふたつの子午線 Orthogonal parallel line](./ふたつの子午線_Orthogonal_parallel_line.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [ふたつの子午線 Orthogonal parallel line](./ふたつの子午線_Orthogonal_parallel_line.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

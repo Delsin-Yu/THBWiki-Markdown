@@ -1,44 +1,35 @@
 # Perfume
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\fa\ns0%3APerfume.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\fa\ns0%3APerfume.html -->
 
 2014年12月29日 由 ハラペーニョチップス 于 Comic Market 87 发布的漫画同人志，B5尺寸一共20页，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人志 (未找到链接)** 的词条
-
+**[二次创作同人志](./二次创作.md#同人志)**的词条
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Perfume封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/1/15/Perfume%E5%B0%81%E9%9D%A2.jpg/139px-Perfume%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="139" height="196" srcset="https://upload.thwiki.cc/thumb/1/15/Perfume%E5%B0%81%E9%9D%A2.jpg/208px-Perfume%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/1/15/Perfume%E5%B0%81%E9%9D%A2.jpg/277px-Perfume%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="637" data-file-height="900"></a><div class="cover-char">角色：<a href="./爱丽丝·玛格特洛依德.md" title="爱丽丝·玛格特洛依德">爱丽丝·玛格特洛依德</a></div></td>
 </tr><tr><td class="label">名称</td><td colspan="2"> Perfume </td></tr><tr><td class="label">制作方</td><td><a href="./ハラペーニョチップス.md" title="ハラペーニョチップス">ハラペーニョチップス</a></td><td class="cover-artwork" rowspan="7" style="min-width:196px;"><a href="./文件-Perfume封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/1/15/Perfume%E5%B0%81%E9%9D%A2.jpg/139px-Perfume%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="139" height="196" srcset="https://upload.thwiki.cc/thumb/1/15/Perfume%E5%B0%81%E9%9D%A2.jpg/208px-Perfume%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/1/15/Perfume%E5%B0%81%E9%9D%A2.jpg/277px-Perfume%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="637" data-file-height="900"></a><div class="cover-char">角色：<a href="./爱丽丝·玛格特洛依德.md" title="爱丽丝·玛格特洛依德">爱丽丝·玛格特洛依德</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2014-12-29&#160;（<a href="/展会作品列表?e=Comic+Market%2387">Comic Market 87</a>）</td></tr><tr><td class="label">类型</td><td>漫画</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>B5</td></tr><tr><td class="label">页数</td><td>20P</td></tr><tr><td class="label">售价</td><td>通贩售价：400日元</td></tr>
+</tr><tr><td class="label">首发日期</td><td>2014-12-29 （<a href="./展会作品列表.md#87">Comic Market 87</a>）</td></tr><tr><td class="label">类型</td><td>漫画</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>B5</td></tr><tr><td class="label">页数</td><td>20P</td></tr><tr><td class="label">售价</td><td>通贩售价：400日元</td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/47593248">https://www.pixiv.net/artworks/47593248</a><br><a rel="nofollow" class="external free" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=112611">https://www.melonbooks.co.jp/detail/detail.php?product_id=112611</a></td></tr></tbody></table>
 
 Perfume（同人志，ハラペーニョチップス，2014） - 2014年12月29日 由 ハラペーニョチップス 于 Comic Market 87 发布的漫画同人志，B5尺寸一共20页，分级为 一般向
-
 ## 预览
-- [](./文件-Perfume预览图1.jpg.md)- [](./文件-Perfume预览图2.jpg.md)- [](./文件-Perfume预览图3.jpg.md)
+
+- <img alt="Perfume预览图1.jpg" src="https://upload.thwiki.cc/thumb/f/fa/Perfume%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg/265px-Perfume%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg" decoding="async" loading="lazy" width="177" height="250" srcset="https://upload.thwiki.cc/thumb/f/fa/Perfume%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg/398px-Perfume%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg 1.5x, https://upload.thwiki.cc/thumb/f/fa/Perfume%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg/531px-Perfume%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg 2x" data-file-width="637" data-file-height="900"> 
+- <img alt="Perfume预览图2.jpg" src="https://upload.thwiki.cc/thumb/d/d9/Perfume%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg/265px-Perfume%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg" decoding="async" loading="lazy" width="177" height="250" srcset="https://upload.thwiki.cc/thumb/d/d9/Perfume%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg/398px-Perfume%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg 1.5x, https://upload.thwiki.cc/thumb/d/d9/Perfume%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg/531px-Perfume%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg 2x" data-file-width="637" data-file-height="900"> 
+- <img alt="Perfume预览图3.jpg" src="https://upload.thwiki.cc/thumb/f/f0/Perfume%E9%A2%84%E8%A7%88%E5%9B%BE3.jpg/265px-Perfume%E9%A2%84%E8%A7%88%E5%9B%BE3.jpg" decoding="async" loading="lazy" width="177" height="250" srcset="https://upload.thwiki.cc/thumb/f/f0/Perfume%E9%A2%84%E8%A7%88%E5%9B%BE3.jpg/398px-Perfume%E9%A2%84%E8%A7%88%E5%9B%BE3.jpg 1.5x, https://upload.thwiki.cc/thumb/f/f0/Perfume%E9%A2%84%E8%A7%88%E5%9B%BE3.jpg/531px-Perfume%E9%A2%84%E8%A7%88%E5%9B%BE3.jpg 2x" data-file-width="637" data-file-height="900"> 
 
 
 ## Staff
+
 - ウロ (未找到链接)
 
 
 ## 评论
+
 ```
-魔理沙に癖になる良い匂いがすると絶賛されて、戸惑いつつもちょっぴり嬉しいアリス☆
-ところが霊夢に下着の香りを貪る様に嗅がれ、赤面して追いかけ回すも軽く躱されます!
-更に2人の行動はエスカレート、両脇を舐められ涙目でやめてと訴えるアリスですが…♪
-自分の良い香りのせいでHな災難に遭うアリスの、微エロ百合漫画を是非ご堪能下さい。 
-```
-
-  
-  
-
-  
-
-
-
+魔理沙に癖になる良い匂いがすると絶賛されて、戸惑いつつもちょっぴり嬉しいアリス☆ ところが霊夢に下着の香りを貪る様に嗅がれ、赤面して追いかけ回すも軽く躱されます! 更に2人の行動はエスカレート、両脇を舐められ涙目でやめてと訴えるアリスですが…♪ 自分の良い香りのせいでHな災難に遭うアリスの、微エロ百合漫画を是非ご堪能下さい。 ```
 
 
 ---

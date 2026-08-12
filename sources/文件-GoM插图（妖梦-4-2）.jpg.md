@@ -1,12 +1,8 @@
 # 文件:GoM插图（妖梦-4-2）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\58\ns6%3AGoM%E6%8F%92%E5%9B%BE%EF%BC%88%E5%A6%96%E6%A2%A6-4-2%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\58\ns6%3AGoM%E6%8F%92%E5%9B%BE%EF%BC%88%E5%A6%96%E6%A2%A6-4-2%EF%BC%89%2Ejpg.html -->
 
 魂魄妖梦 | 魔理沙的魔法书
-
-
-
-
 
 
 ---

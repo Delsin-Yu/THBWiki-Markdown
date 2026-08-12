@@ -1,6 +1,6 @@
 # 文件:RAVER’S_NEST_8_TOHO_RAVE_PARTY_instrumental封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\31\ns6%3ARAVER%E2%80%99S_NEST_8_TOHO_RAVE_PARTY_instrumental%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\31\ns6%3ARAVER%E2%80%99S_NEST_8_TOHO_RAVE_PARTY_instrumental%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 DiGiTAL_WiNG | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ DiGiTAL_WiNG | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [RAVER'S NEST 8 TOHO RAVE PARTY instrumental](./RAVER'S_NEST_8_TOHO_RAVE_PARTY_instrumental.md)  
-该封面包含的角色：- [古明地觉](./古明地觉.md)
+- [RAVER'S NEST 8 TOHO RAVE PARTY instrumental](./RAVER'S_NEST_8_TOHO_RAVE_PARTY_instrumental.md)该封面包含的角色：
+- [古明地觉](./古明地觉.md)
 
   
-源地址：[[1]](https://www.melonbooks.co.jp/detail/detail.php?product_id=322613)
-  
-
-
-
-
+源地址：[\[1\]](https://www.melonbooks.co.jp/detail/detail.php?product_id=322613)  
 
 ---
 

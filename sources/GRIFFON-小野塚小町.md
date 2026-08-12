@@ -1,23 +1,21 @@
 # GRIFFON/小野塚小町
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\8\8c\ns0%3AGRIFFON%2F%E5%B0%8F%E9%87%8E%E5%A1%9A%E5%B0%8F%E7%94%BA.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\8\8c\ns0%3AGRIFFON%2F%E5%B0%8F%E9%87%8E%E5%A1%9A%E5%B0%8F%E7%94%BA.html -->
 
 小野塚小町PVCFigure手办模型
 
 本页是关于东方Project  
- **相关实体周边 (未找到链接)** 的词条
-
+**相关实体周边 (未找到链接)**的词条
 ## 模型信息
 
-<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 小野塚小町 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>GRIFFON</td></tr><tr><td class="label">角色</td><td><a href="./小野塚小町.md" title="小野塚小町">小野塚小町</a></td></tr><tr><td class="label">原型师</td><td><a href="/index.php?title=I-con&amp;action=edit&amp;redlink=1" class="new" title="I-con（页面不存在）">I-con</a><br><a href="/index.php?title=%E5%B1%B1%E6%9C%AC_%E9%9B%85%E5%BC%98&amp;action=edit&amp;redlink=1" class="new" title="山本 雅弘（页面不存在）">山本 雅弘</a></td></tr><tr><td class="label">比例</td><td>1/8</td></tr><tr><td class="label">尺寸</td><td>240 mm</td></tr><tr><td class="label">状态</td><td>已发售</td></tr><tr><td class="label">售价</td><td>7400円</td></tr><tr><td class="label">首发日期</td><td>2010-4-19</td></tr><tr><td class="label">发售方</td><td><a href="/index.php?title=GRIFFON&amp;action=edit&amp;redlink=1" class="new" title="GRIFFON（页面不存在）">GRIFFON</a></td></tr><tr><td class="label">再版日期</td><td>2011-12，2012-04-19</td></tr><tr><td class="label">官网页面</td><td><a rel="nofollow" class="external free" href="http://www.griffon.co.jp/toho/products/comachi/comachi.html">http://www.griffon.co.jp/toho/products/comachi/comachi.html</a></td></tr></tbody></table>
+<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 小野塚小町 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>GRIFFON</td></tr><tr><td class="label">角色</td><td><a href="./小野塚小町.md" title="小野塚小町">小野塚小町</a></td></tr><tr><td class="label">原型师</td><td><a class="new" title="I-con（页面不存在）">I-con</a><br><a class="new" title="山本 雅弘（页面不存在）">山本 雅弘</a></td></tr><tr><td class="label">比例</td><td>1/8</td></tr><tr><td class="label">尺寸</td><td>240 mm</td></tr><tr><td class="label">状态</td><td>已发售</td></tr><tr><td class="label">售价</td><td>7400円</td></tr><tr><td class="label">首发日期</td><td>2010-4-19</td></tr><tr><td class="label">发售方</td><td><a class="new" title="GRIFFON（页面不存在）">GRIFFON</a></td></tr><tr><td class="label">再版日期</td><td>2011-12，2012-04-19</td></tr><tr><td class="label">官网页面</td><td><a rel="nofollow" class="external free" href="http://www.griffon.co.jp/toho/products/comachi/comachi.html">http://www.griffon.co.jp/toho/products/comachi/comachi.html</a></td></tr></tbody></table>
 
 GRIFFON/小野塚小町（周边） - 小野塚小町PVCFigure手办模型
-
 ## 参考图片
-- [](./文件-GRIFFON小野塚小町-1.jpg.md)预览图1- [](./文件-GRIFFON小野塚小町-2.jpg.md)预览图2- [](./文件-GRIFFON小野塚小町-3.jpg.md)预览图3
 
-
-
+- <img alt="预览图1" src="https://upload.thwiki.cc/thumb/4/4a/GRIFFON%E5%B0%8F%E9%87%8E%E5%A1%9A%E5%B0%8F%E7%94%BA-1.jpg/289px-GRIFFON%E5%B0%8F%E9%87%8E%E5%A1%9A%E5%B0%8F%E7%94%BA-1.jpg" decoding="async" loading="lazy" width="193" height="250" srcset="https://upload.thwiki.cc/4/4a/GRIFFON%E5%B0%8F%E9%87%8E%E5%A1%9A%E5%B0%8F%E7%94%BA-1.jpg 1.5x" data-file-width="400" data-file-height="518"> 预览图1
+- <img alt="预览图2" src="https://upload.thwiki.cc/thumb/4/4c/GRIFFON%E5%B0%8F%E9%87%8E%E5%A1%9A%E5%B0%8F%E7%94%BA-2.jpg/289px-GRIFFON%E5%B0%8F%E9%87%8E%E5%A1%9A%E5%B0%8F%E7%94%BA-2.jpg" decoding="async" loading="lazy" width="193" height="250" srcset="https://upload.thwiki.cc/4/4c/GRIFFON%E5%B0%8F%E9%87%8E%E5%A1%9A%E5%B0%8F%E7%94%BA-2.jpg 1.5x" data-file-width="400" data-file-height="518"> 预览图2
+- <img alt="预览图3" src="https://upload.thwiki.cc/thumb/e/e0/GRIFFON%E5%B0%8F%E9%87%8E%E5%A1%9A%E5%B0%8F%E7%94%BA-3.jpg/289px-GRIFFON%E5%B0%8F%E9%87%8E%E5%A1%9A%E5%B0%8F%E7%94%BA-3.jpg" decoding="async" loading="lazy" width="193" height="250" srcset="https://upload.thwiki.cc/e/e0/GRIFFON%E5%B0%8F%E9%87%8E%E5%A1%9A%E5%B0%8F%E7%94%BA-3.jpg 1.5x" data-file-width="400" data-file-height="518"> 预览图3
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:THE_BEST_OF_頭文字T「EXCITING_BEST」封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1f\ns6%3ATHE_BEST_OF_%E9%A0%AD%E6%96%87%E5%AD%97T%E3%80%8CEXCITING_BEST%E3%80%8D%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1f\ns6%3ATHE_BEST_OF_%E9%A0%AD%E6%96%87%E5%AD%97T%E3%80%8CEXCITING_BEST%E3%80%8D%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Crazy_Beats | 专辑封面 | 封面图片
 
@@ -8,11 +8,12 @@ Crazy_Beats | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [THE BEST OF 頭文字T「EXCITING BEST」](./THE_BEST_OF_頭文字T「EXCITING_BEST」.md)  
-该封面包含的角色：- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)- [魂魄妖梦](./魂魄妖梦.md)- [射命丸文](./射命丸文.md)- [铃瑚](./铃瑚.md)
-
-
-
+- [THE BEST OF 頭文字T「EXCITING BEST」](./THE_BEST_OF_頭文字T「EXCITING_BEST」.md)该封面包含的角色：
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [魂魄妖梦](./魂魄妖梦.md)
+- [射命丸文](./射命丸文.md)
+- [铃瑚](./铃瑚.md)
 
 
 ---

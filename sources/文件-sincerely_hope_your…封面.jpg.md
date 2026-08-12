@@ -1,6 +1,6 @@
 # 文件:sincerely_hope_your…封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\19\ns6%3Asincerely_hope_your%E2%80%A6%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\19\ns6%3Asincerely_hope_your%E2%80%A6%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ゆめいろごろも | 同人志封面 | 封面图片
 
@@ -10,19 +10,14 @@
 使用了本文件作封面图片的作品：
   
 
-- [sincerely hope your…](./sincerely_hope_your….md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [sincerely hope your…](./sincerely_hope_your….md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
   
-源地址：[Danbooru ID: 184478](https://danbooru.donmai.us/posts/184478)
+源地址：[Danbooru ID: 184478](https://danbooru.donmai.us/posts/184478)  
   
-  
-reference: [direct image link](https://www.suruga-ya.jp/database/pics_light/game/zhore6629.jpg), [source page (suruga-ya ID: ZHORE6629)](https://www.suruga-ya.jp/product/detail/ZHORE6629)
-  
-
-
-
-
+reference: [direct image link](https://www.suruga-ya.jp/database/pics_light/game/zhore6629.jpg), [source page (suruga-ya ID: ZHORE6629)](https://www.suruga-ya.jp/product/detail/ZHORE6629)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:Incarnation3_いつか君とのメイド帳封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a2\ns6%3AIncarnation3_%E3%81%84%E3%81%A4%E3%81%8B%E5%90%9B%E3%81%A8%E3%81%AE%E3%83%A1%E3%82%A4%E3%83%89%E5%B8%B3%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a2\ns6%3AIncarnation3_%E3%81%84%E3%81%A4%E3%81%8B%E5%90%9B%E3%81%A8%E3%81%AE%E3%83%A1%E3%82%A4%E3%83%89%E5%B8%B3%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 しぐれえび | 同人志封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Incarnation3 いつか君とのメイド帳](./Incarnation3_いつか君とのメイド帳.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)
-
-
-
+- [Incarnation3 いつか君とのメイド帳](./Incarnation3_いつか君とのメイド帳.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:枪符「3D_Printer_Gun」2（深秘录）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\43\ns6%3A%E6%9E%AA%E7%AC%A6%E3%80%8C3D_Printer_Gun%E3%80%8D2%EF%BC%88%E6%B7%B1%E7%A7%98%E5%BD%95%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\43\ns6%3A%E6%9E%AA%E7%AC%A6%E3%80%8C3D_Printer_Gun%E3%80%8D2%EF%BC%88%E6%B7%B1%E7%A7%98%E5%BD%95%EF%BC%89%2Epng.html -->
 
 东方深秘录 | 宇佐见堇子 | 自机符卡
-
-
-
-
 
 
 ---

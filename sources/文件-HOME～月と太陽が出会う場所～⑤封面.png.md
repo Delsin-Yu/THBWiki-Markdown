@@ -1,6 +1,6 @@
 # 文件:HOME～月と太陽が出会う場所～⑤封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e3\ns6%3AHOME%EF%BD%9E%E6%9C%88%E3%81%A8%E5%A4%AA%E9%99%BD%E3%81%8C%E5%87%BA%E4%BC%9A%E3%81%86%E5%A0%B4%E6%89%80%EF%BD%9E%E2%91%A4%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e3\ns6%3AHOME%EF%BD%9E%E6%9C%88%E3%81%A8%E5%A4%AA%E9%99%BD%E3%81%8C%E5%87%BA%E4%BC%9A%E3%81%86%E5%A0%B4%E6%89%80%EF%BD%9E%E2%91%A4%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 ForestRest | 同人志封面 | 封面图片
 
@@ -8,11 +8,9 @@ ForestRest | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [HOME～月と太陽が出会う場所～⑤](./HOME～月と太陽が出会う場所～⑤.md)  
-该封面包含的角色：- [小恶魔](./小恶魔.md)- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
-
-
-
+- [HOME～月と太陽が出会う場所～⑤](./HOME～月と太陽が出会う場所～⑤.md)该封面包含的角色：
+- [小恶魔](./小恶魔.md)
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
 
 ---

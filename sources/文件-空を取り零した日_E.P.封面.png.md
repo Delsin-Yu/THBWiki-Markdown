@@ -1,6 +1,6 @@
 # 文件:空を取り零した日_E.P.封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\90\ns6%3A%E7%A9%BA%E3%82%92%E5%8F%96%E3%82%8A%E9%9B%B6%E3%81%97%E3%81%9F%E6%97%A5_E%2EP%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\90\ns6%3A%E7%A9%BA%E3%82%92%E5%8F%96%E3%82%8A%E9%9B%B6%E3%81%97%E3%81%9F%E6%97%A5_E%2EP%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 明日ryBEATS
 
@@ -8,12 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [空を取り零した日 E.P.](./空を取り零した日_E.P..md)  
-该封面包含的角色：- [灵乌路空](./灵乌路空.md)源地址：[[1]](https://blog-imgs-77.fc2.com/a/s/h/ashitarybeats/20150816180302183.png)
-
-
-
-
+- [空を取り零した日 E.P.](./空を取り零した日_E.P..md)该封面包含的角色：
+- [灵乌路空](./灵乌路空.md)
+源地址：[\[1\]](https://blog-imgs-77.fc2.com/a/s/h/ashitarybeats/20150816180302183.png)
 
 ---
 

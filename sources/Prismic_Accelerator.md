@@ -1,38 +1,28 @@
 # Prismic_Accelerator
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\7\73\ns0%3APrismic_Accelerator.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\7\73\ns0%3APrismic_Accelerator.html -->
 
 JynX作曲 | Prismic_Accelerator | 引用了翻译表的页面 | 连缘Project | 连缘Project官方音乐
 
-本页是关于 **向[东方Project](./东方Project.md)  
-致敬、形式类似的作品** 的词条
-
+本页是关于**向[东方Project](./东方Project.md)致敬、形式类似的作品**  
+的词条
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 出现作品](#出现作品)
 - [3 音乐文件](#音乐文件)
-
   - [3.1 连缘蛇丛剑](#连缘蛇丛剑)
   - [3.2 连缘天影战记](#连缘天影战记)
 
 
-
 - [4 说明文本](#说明文本)
-
   - [4.1 连缘蛇丛剑](#连缘蛇丛剑_2)
   - [4.2 连缘天影战记](#连缘天影战记_2)
 
 
-
 - [5 其他资料](#其他资料)
-
   - [5.1 乐理资讯](#乐理资讯)
   - [5.2 分析考据](#分析考据)
-
-
-
-
 
 
 
@@ -65,7 +55,6 @@ JynX作曲 | Prismic_Accelerator | 引用了翻译表的页面 | 连缘Project |
 </td></tr></tbody></table>
 
 
-
 ## 出现作品
 
 <table>
@@ -75,7 +64,6 @@ JynX作曲 | Prismic_Accelerator | 引用了翻译表的页面 | 连缘Project |
 </tbody></table>
 
 
-
 ## 音乐文件
 
 ### 连缘蛇丛剑
@@ -83,17 +71,16 @@ JynX作曲 | Prismic_Accelerator | 引用了翻译表的页面 | 连缘Project |
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>MIDI格式</b></td><td>无播放信息</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-le02_07.mp3.md" title="文件:le02 07.mp3">le02_07.mp3</a><br><audio src="https://upload.thwiki.cc/c/cf/le02_07.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>未填写</td></tr></tbody></table>
 
 
-
 ### 连缘天影战记
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>MIDI格式</b></td><td>无播放信息</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-le04_BOSS_Lumen.mp3.md" title="文件:le04 BOSS Lumen.mp3">le04_BOSS_Lumen.mp3</a><br><audio src="https://upload.thwiki.cc/6/68/le04_BOSS_Lumen.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>未填写</td></tr></tbody></table>
 
 
-
 ## 说明文本
 
 ### 连缘蛇丛剑
-- Music Room (未找到链接)
+
+- [Music Room](./连缘蛇丛剑～Earthen_Miraculous_Sword-Music.md#3面BOSS-凯勒里塔斯·流明主题曲)
 
 笨蛋伟人的曲子。  
 已经是100%努力地做出了这首曲子。  
@@ -102,9 +89,9 @@ JynX作曲 | Prismic_Accelerator | 引用了翻译表的页面 | 连缘Project |
 不正好将极端地压抑着表里的流明生动地表现了出来吗？  
 虽然是结果论但我就是这样想的。  
 但作曲这件事不都是这样的吗？(嘘声四起)
-
 ### 连缘天影战记
-- Music Room (未找到链接)
+
+- [Music Room](./连缘天影战记～Brilliant_pagoda_or_haze_castle-Music.md#中立线3面Boss-凯勒里塔斯·流明主题曲)
 
 三面，笨蛋伟人的曲子  
 第二作使用曲的微改编曲  
@@ -115,21 +102,21 @@ JynX作曲 | Prismic_Accelerator | 引用了翻译表的页面 | 连缘Project |
   
   
 快把门松拿下来啊，这个白痴
-
 ## 其他资料
 
 ### 乐理资讯
 
 ### 分析考据
-- Prismic
-  - 词源为Prism，意为三棱镜;词缀ic意为…的
+
+- Prismic 
+  - 词源为Prism，意为三棱镜;词缀ic意为…的 
     - 白色光经三棱镜折射后会分离出七色光
 
 
-- Accelerator
+
+
+- Accelerator 
   - 意为加速器
-
-
 
 
 

@@ -1,6 +1,6 @@
 # 文件:Toho_Warfare：RED_FLAME封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4a\ns6%3AToho_Warfare%EF%BC%9ARED_FLAME%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4a\ns6%3AToho_Warfare%EF%BC%9ARED_FLAME%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 天然ジェミニ | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Toho Warfare：RED FLAME](./Toho_Warfare：RED_FLAME.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [Toho Warfare：RED FLAME](./Toho_Warfare：RED_FLAME.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

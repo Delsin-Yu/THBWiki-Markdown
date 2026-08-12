@@ -1,14 +1,11 @@
 # 文件:隙间核弹LOGO.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\30\ns6%3A%E9%9A%99%E9%97%B4%E6%A0%B8%E5%BC%B9LOGO%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\30\ns6%3A%E9%9A%99%E9%97%B4%E6%A0%B8%E5%BC%B9LOGO%2Ejpg.html -->
 
 社团LOGO | 隙间核弹
 
 
 ## 文件说明
-
-
-
 
 ---
 

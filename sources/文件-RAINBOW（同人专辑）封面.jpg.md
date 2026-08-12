@@ -1,6 +1,6 @@
 # 文件:RAINBOW（同人专辑）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\37\ns6%3ARAINBOW%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\37\ns6%3ARAINBOW%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 給食頭蛮
 
@@ -10,11 +10,15 @@
 使用了本文件作封面图片的作品：
   
 
-- [RAINBOW（同人专辑）](./RAINBOW（同人专辑）.md)  
-该封面包含的角色：- [豪德寺三花](./豪德寺三花.md)- [驹草山如](./驹草山如.md)- [山城高岭](./山城高岭.md)- [玉造魅须丸](./玉造魅须丸.md)- [菅牧典](./菅牧典.md)- [饭纲丸龙](./饭纲丸龙.md)- [天弓千亦](./天弓千亦.md)- [姬虫百百世](./姬虫百百世.md)
-
-
-
+- [RAINBOW（同人专辑）](./RAINBOW（同人专辑）.md)该封面包含的角色：
+- [豪德寺三花](./豪德寺三花.md)
+- [驹草山如](./驹草山如.md)
+- [山城高岭](./山城高岭.md)
+- [玉造魅须丸](./玉造魅须丸.md)
+- [菅牧典](./菅牧典.md)
+- [饭纲丸龙](./饭纲丸龙.md)
+- [天弓千亦](./天弓千亦.md)
+- [姬虫百百世](./姬虫百百世.md)
 
 
 ---

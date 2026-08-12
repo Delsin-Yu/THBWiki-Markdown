@@ -1,6 +1,6 @@
 # 文件:怪☆盗_魔理沙_Full封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\db\ns6%3A%E6%80%AA%E2%98%86%E7%9B%97_%E9%AD%94%E7%90%86%E6%B2%99_Full%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\db\ns6%3A%E6%80%AA%E2%98%86%E7%9B%97_%E9%AD%94%E7%90%86%E6%B2%99_Full%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 HAPPY_CLOVER | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@ HAPPY_CLOVER | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [怪☆盗 魔理沙 Full](./怪☆盗_魔理沙_Full.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [怪☆盗 魔理沙 Full](./怪☆盗_魔理沙_Full.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

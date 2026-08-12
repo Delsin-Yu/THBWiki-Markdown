@@ -1,37 +1,21 @@
 # GRIFFON/ver.2/风见幽香
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\9\9f\ns0%3AGRIFFON%2Fver%2E2%2F%E9%A3%8E%E8%A7%81%E5%B9%BD%E9%A6%99.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\9\9f\ns0%3AGRIFFON%2Fver%2E2%2F%E9%A3%8E%E8%A7%81%E5%B9%BD%E9%A6%99.html -->
 
 风见幽香PVCFigure手办模型
 
 本页是关于东方Project  
- **相关实体周边 (未找到链接)** 的词条
-
+**相关实体周边 (未找到链接)**的词条
 ## 模型信息
 
-<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 风见幽香 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>ver.2</td></tr><tr><td class="label">角色</td><td><a href="./风见幽香.md" title="风见幽香">风见幽香</a></td></tr><tr><td class="label">原型师</td><td><a href="/index.php?title=%E3%81%82%E3%81%8D%E3%82%84%E3%81%BE_%E3%81%82%E3%81%8D%E3%81%8A&amp;action=edit&amp;redlink=1" class="new" title="あきやま あきお（页面不存在）">あきやま あきお</a></td></tr><tr><td class="label">比例</td><td>1/8</td></tr><tr><td class="label">尺寸</td><td>95mm</td></tr><tr><td class="label">状态</td><td>已发售</td></tr><tr><td class="label">售价</td><td>7400日元</td></tr><tr><td class="label">首发日期</td><td>2012-06-29</td></tr><tr><td class="label">发售方</td><td><a href="/index.php?title=GRIFFON&amp;action=edit&amp;redlink=1" class="new" title="GRIFFON（页面不存在）">GRIFFON</a></td></tr><tr><td class="label">官网页面</td><td><a rel="nofollow" class="external free" href="http://www.griffon.co.jp/toho/">http://www.griffon.co.jp/toho/</a></td></tr></tbody></table>
+<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 风见幽香 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>ver.2</td></tr><tr><td class="label">角色</td><td><a href="./风见幽香.md" title="风见幽香">风见幽香</a></td></tr><tr><td class="label">原型师</td><td><a class="new" title="あきやま あきお（页面不存在）">あきやま あきお</a></td></tr><tr><td class="label">比例</td><td>1/8</td></tr><tr><td class="label">尺寸</td><td>95mm</td></tr><tr><td class="label">状态</td><td>已发售</td></tr><tr><td class="label">售价</td><td>7400日元</td></tr><tr><td class="label">首发日期</td><td>2012-06-29</td></tr><tr><td class="label">发售方</td><td><a class="new" title="GRIFFON（页面不存在）">GRIFFON</a></td></tr><tr><td class="label">官网页面</td><td><a rel="nofollow" class="external free" href="http://www.griffon.co.jp/toho/">http://www.griffon.co.jp/toho/</a></td></tr></tbody></table>
 
 GRIFFON/ver.2/风见幽香（周边） - 风见幽香PVCFigure手办模型
-
 ## 参考图片
-
-
-
-[](./文件-GRIFFONver.2风见幽香-1.jpg.md)
-
-
-[](./文件-GRIFFONver.2风见幽香-2.jpg.md)
-
-
-[](./文件-GRIFFONver.2风见幽香-3.jpg.md)
-
+<img alt="GRIFFONver.2风见幽香" src="https://upload.thwiki.cc/thumb/3/38/GRIFFONver.2%E9%A3%8E%E8%A7%81%E5%B9%BD%E9%A6%99-1.jpg/160px-GRIFFONver.2%E9%A3%8E%E8%A7%81%E5%B9%BD%E9%A6%99-1.jpg" decoding="async" loading="lazy" width="160" height="240" srcset="https://upload.thwiki.cc/thumb/3/38/GRIFFONver.2%E9%A3%8E%E8%A7%81%E5%B9%BD%E9%A6%99-1.jpg/240px-GRIFFONver.2%E9%A3%8E%E8%A7%81%E5%B9%BD%E9%A6%99-1.jpg 1.5x, https://upload.thwiki.cc/thumb/3/38/GRIFFONver.2%E9%A3%8E%E8%A7%81%E5%B9%BD%E9%A6%99-1.jpg/320px-GRIFFONver.2%E9%A3%8E%E8%A7%81%E5%B9%BD%E9%A6%99-1.jpg 2x" data-file-width="533" data-file-height="800">
+<img alt="GRIFFONver.2风见幽香" src="https://upload.thwiki.cc/thumb/8/85/GRIFFONver.2%E9%A3%8E%E8%A7%81%E5%B9%BD%E9%A6%99-2.jpg/160px-GRIFFONver.2%E9%A3%8E%E8%A7%81%E5%B9%BD%E9%A6%99-2.jpg" decoding="async" loading="lazy" width="160" height="240" srcset="https://upload.thwiki.cc/thumb/8/85/GRIFFONver.2%E9%A3%8E%E8%A7%81%E5%B9%BD%E9%A6%99-2.jpg/240px-GRIFFONver.2%E9%A3%8E%E8%A7%81%E5%B9%BD%E9%A6%99-2.jpg 1.5x, https://upload.thwiki.cc/thumb/8/85/GRIFFONver.2%E9%A3%8E%E8%A7%81%E5%B9%BD%E9%A6%99-2.jpg/320px-GRIFFONver.2%E9%A3%8E%E8%A7%81%E5%B9%BD%E9%A6%99-2.jpg 2x" data-file-width="533" data-file-height="800">
+<img alt="GRIFFONver.2风见幽香" src="https://upload.thwiki.cc/thumb/e/ea/GRIFFONver.2%E9%A3%8E%E8%A7%81%E5%B9%BD%E9%A6%99-3.jpg/160px-GRIFFONver.2%E9%A3%8E%E8%A7%81%E5%B9%BD%E9%A6%99-3.jpg" decoding="async" loading="lazy" width="160" height="240" srcset="https://upload.thwiki.cc/thumb/e/ea/GRIFFONver.2%E9%A3%8E%E8%A7%81%E5%B9%BD%E9%A6%99-3.jpg/240px-GRIFFONver.2%E9%A3%8E%E8%A7%81%E5%B9%BD%E9%A6%99-3.jpg 1.5x, https://upload.thwiki.cc/thumb/e/ea/GRIFFONver.2%E9%A3%8E%E8%A7%81%E5%B9%BD%E9%A6%99-3.jpg/320px-GRIFFONver.2%E9%A3%8E%E8%A7%81%E5%B9%BD%E9%A6%99-3.jpg 2x" data-file-width="533" data-file-height="800">
 公式图
-
-
-
-
-
-
 
 ---
 

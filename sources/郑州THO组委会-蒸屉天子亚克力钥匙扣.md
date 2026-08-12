@@ -1,27 +1,21 @@
 # 郑州THO组委会/蒸屉天子亚克力钥匙扣
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\20\ns0%3A%E9%83%91%E5%B7%9ETHO%E7%BB%84%E5%A7%94%E4%BC%9A%2F%E8%92%B8%E5%B1%89%E5%A4%A9%E5%AD%90%E4%BA%9A%E5%85%8B%E5%8A%9B%E9%92%A5%E5%8C%99%E6%89%A3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\20\ns0%3A%E9%83%91%E5%B7%9ETHO%E7%BB%84%E5%A7%94%E4%BC%9A%2F%E8%92%B8%E5%B1%89%E5%A4%A9%E5%AD%90%E4%BA%9A%E5%85%8B%E5%8A%9B%E9%92%A5%E5%8C%99%E6%89%A3.html -->
 
 2024年6月24日 由 郑州THO组委会  发布的钥匙扣周边，分级为 一般向
 
 本页是关于东方Project  
- **相关实体周边 (未找到链接)** 的词条
-
+**相关实体周边 (未找到链接)**的词条
 ## 目录
 
 - [1 周边信息](#周边信息)
 - [2 参考图](#参考图)
-
   - [2.1 预览图](#预览图)
   - [2.2 实物图](#实物图)
 
 
-
 - [3 Staff](#Staff)
 - [4 评论](#评论)
-
-
-
 
 
 ## 周边信息
@@ -29,15 +23,14 @@
 <table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 蒸屉天子亚克力钥匙扣 </td></tr><tr><td class="label">制作方</td><td><a href="./郑州THO组委会.md" title="郑州THO组委会">郑州THO组委会</a></td></tr><tr><td class="label">首发日期</td><td>未知</td></tr><tr><td class="label">类型</td><td>钥匙扣</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">角色</td><td><a href="./比那名居天子.md" title="比那名居天子">比那名居天子</a></td></tr><tr><td class="label">售价</td><td>20人民币</td></tr></tbody></table>
 
 郑州THO组委会/蒸屉天子亚克力钥匙扣（周边，郑州THO组委会） - 2024年6月22日 由 郑州THO组委会  发布的钥匙扣周边，分级为 一般向
-
 ## 参考图
   
 周边宣传、售卖时使用的作为参考图的预览图或实物图的图片。
   
 
-
 ### 预览图
-- [](./文件-郑州THO组委会／蒸屉天子亚克力钥匙扣预览图1.jpg.md)
+
+- <img alt="郑州THO组委会／蒸屉天子亚克力钥匙扣预览图1.jpg" src="https://upload.thwiki.cc/3/32/%E9%83%91%E5%B7%9ETHO%E7%BB%84%E5%A7%94%E4%BC%9A%EF%BC%8F%E8%92%B8%E5%B1%89%E5%A4%A9%E5%AD%90%E4%BA%9A%E5%85%8B%E5%8A%9B%E9%92%A5%E5%8C%99%E6%89%A3%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg" decoding="async" loading="lazy" width="384" height="250" data-file-width="484" data-file-height="315"> 
 
 
 ### 实物图
@@ -45,9 +38,6 @@
 ## Staff
 
 ## 评论
-
-
-
 
 ---
 

@@ -1,14 +1,11 @@
 # 文件:第七倉庫banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\19\ns6%3A%E7%AC%AC%E4%B8%83%E5%80%89%E5%BA%ABbanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\19\ns6%3A%E7%AC%AC%E4%B8%83%E5%80%89%E5%BA%ABbanner%2Egif.html -->
 
 社团LOGO | 第七倉庫
 
 
 ## 文件说明
-
-
-
 
 ---
 

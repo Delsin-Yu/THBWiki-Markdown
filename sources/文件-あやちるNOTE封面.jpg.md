@@ -1,6 +1,6 @@
 # 文件:あやちるNOTE封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1f\ns6%3A%E3%81%82%E3%82%84%E3%81%A1%E3%82%8BNOTE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1f\ns6%3A%E3%81%82%E3%82%84%E3%81%A1%E3%82%8BNOTE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 がらくたロケット | 同人志封面 | 封面图片
 
@@ -8,16 +8,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [あやちるNOTE](./あやちるNOTE.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)- [射命丸文](./射命丸文.md)
+- [あやちるNOTE](./あやちるNOTE.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
+- [射命丸文](./射命丸文.md)
 
   
-[Pixiv ID: 69968759](https://i.pximg.net/img-master/img/2018/08/01/21/02/02/69968759_p0_master1200.jpg)
-  
-
-
-
-
+[Pixiv ID: 69968759](https://i.pximg.net/img-master/img/2018/08/01/21/02/02/69968759_p0_master1200.jpg)  
 
 ---
 

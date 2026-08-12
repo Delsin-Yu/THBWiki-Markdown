@@ -1,12 +1,8 @@
 # 文件:秘封噩梦日记Teleportation教程.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3d\ns6%3A%E7%A7%98%E5%B0%81%E5%99%A9%E6%A2%A6%E6%97%A5%E8%AE%B0Teleportation%E6%95%99%E7%A8%8B%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3d\ns6%3A%E7%A7%98%E5%B0%81%E5%99%A9%E6%A2%A6%E6%97%A5%E8%AE%B0Teleportation%E6%95%99%E7%A8%8B%2Ejpg.html -->
 
 秘封噩梦日记
-
-
-
-
 
 
 ---

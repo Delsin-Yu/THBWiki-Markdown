@@ -1,6 +1,6 @@
 # 文件:Sweet_Witch_craft封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a1\ns6%3ASweet_Witch_craft%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a1\ns6%3ASweet_Witch_craft%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 S-wab | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ S-wab | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Sweet Witch craft](./Sweet_Witch_craft.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [Sweet Witch craft](./Sweet_Witch_craft.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

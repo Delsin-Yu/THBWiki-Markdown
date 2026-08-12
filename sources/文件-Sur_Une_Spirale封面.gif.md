@@ -1,18 +1,13 @@
 # 文件:Sur_Une_Spirale封面.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e0\ns6%3ASur_Une_Spirale%E5%B0%81%E9%9D%A2%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e0\ns6%3ASur_Une_Spirale%E5%B0%81%E9%9D%A2%2Egif.html -->
 
 fractaleline | 专辑封面 | 封面图片
 
 
 ## 摘要
   
-[Pixiv artwork ID: 17220578 (original size)](https://www.pixiv.net/artworks/17220578)
-  
-
-
-
-
+[Pixiv artwork ID: 17220578 (original size)](https://www.pixiv.net/artworks/17220578)  
 
 ---
 

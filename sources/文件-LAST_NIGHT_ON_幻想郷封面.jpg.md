@@ -1,6 +1,6 @@
 # 文件:LAST_NIGHT_ON_幻想郷封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d4\ns6%3ALAST_NIGHT_ON_%E5%B9%BB%E6%83%B3%E9%83%B7%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d4\ns6%3ALAST_NIGHT_ON_%E5%B9%BB%E6%83%B3%E9%83%B7%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Pocket_AD | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Pocket_AD | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [LAST NIGHT ON 幻想郷](./LAST_NIGHT_ON_幻想郷.md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)
-
-
-
+- [LAST NIGHT ON 幻想郷](./LAST_NIGHT_ON_幻想郷.md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
 
 
 ---

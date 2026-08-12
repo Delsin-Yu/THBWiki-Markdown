@@ -1,6 +1,6 @@
 # 文件:DON'T_SAY_ANYTHING,_COLLECTED_SONGS.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\eb\ns6%3ADON%27T_SAY_ANYTHING%2C_COLLECTED_SONGS%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\eb\ns6%3ADON%27T_SAY_ANYTHING%2C_COLLECTED_SONGS%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Alstroemeria_Records | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ Alstroemeria_Records | 专辑封面 | 封面图片
   
 
 - [DON'T SAY ANYTHING, COLLECTED SONGS.](./DON'T_SAY_ANYTHING,_COLLECTED_SONGS..md)
-
-
-
 
 
 ---

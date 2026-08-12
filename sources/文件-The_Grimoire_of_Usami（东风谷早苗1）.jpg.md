@@ -1,14 +1,11 @@
 # 文件:The_Grimoire_of_Usami（东风谷早苗1）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cf\ns6%3AThe_Grimoire_of_Usami%EF%BC%88%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%971%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cf\ns6%3AThe_Grimoire_of_Usami%EF%BC%88%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%971%EF%BC%89%2Ejpg.html -->
 
 东风谷早苗 | 宇佐见的魔法书
 
 
 ## 摘要
-
-
-
 
 ---
 

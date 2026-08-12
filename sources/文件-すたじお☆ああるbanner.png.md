@@ -1,14 +1,11 @@
 # 文件:すたじお☆ああるbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\af\ns6%3A%E3%81%99%E3%81%9F%E3%81%98%E3%81%8A%E2%98%86%E3%81%82%E3%81%82%E3%82%8Bbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\af\ns6%3A%E3%81%99%E3%81%9F%E3%81%98%E3%81%8A%E2%98%86%E3%81%82%E3%81%82%E3%82%8Bbanner%2Epng.html -->
 
 すたじお☆あある | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

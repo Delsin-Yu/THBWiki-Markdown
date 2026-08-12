@@ -1,12 +1,8 @@
 # 文件:THD2护士人偶.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d1\ns6%3ATHD2%E6%8A%A4%E5%A3%AB%E4%BA%BA%E5%81%B6%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d1\ns6%3ATHD2%E6%8A%A4%E5%A3%AB%E4%BA%BA%E5%81%B6%2Epng.html -->
 
 THD2
-
-
-
-
 
 
 ---

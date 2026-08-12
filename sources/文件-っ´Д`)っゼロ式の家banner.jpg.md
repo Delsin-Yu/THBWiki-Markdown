@@ -1,14 +1,11 @@
 # 文件:っ´Д`)っゼロ式の家banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3d\ns6%3A%E3%81%A3%C2%B4%D0%94%60%29%E3%81%A3%E3%82%BC%E3%83%AD%E5%BC%8F%E3%81%AE%E5%AE%B6banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3d\ns6%3A%E3%81%A3%C2%B4%D0%94%60%29%E3%81%A3%E3%82%BC%E3%83%AD%E5%BC%8F%E3%81%AE%E5%AE%B6banner%2Ejpg.html -->
 
 っ´Д`)っゼロ式の家 | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

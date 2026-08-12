@@ -1,6 +1,6 @@
 # 文件:TOHO_YUMEMIX封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\01\ns6%3ATOHO_YUMEMIX%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\01\ns6%3ATOHO_YUMEMIX%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 CHAOS_MIXER | 专辑封面 | 封面图片
 
@@ -8,12 +8,9 @@ CHAOS_MIXER | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [TOHO YUMEMIX](./TOHO_YUMEMIX.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)源地址：从[[1]](https://web.archive.org/web/20131220110018im_/http://chaosmix.net/yumemix/img/baseIN5.png)修改
-
-
-
-
+- [TOHO YUMEMIX](./TOHO_YUMEMIX.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+源地址：从[\[1\]](https://web.archive.org/web/20131220110018im_/http://chaosmix.net/yumemix/img/baseIN5.png)修改
 
 ---
 

@@ -1,16 +1,11 @@
 # 文件:惰音ライフbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7d\ns6%3A%E6%83%B0%E9%9F%B3%E3%83%A9%E3%82%A4%E3%83%95banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7d\ns6%3A%E6%83%B0%E9%9F%B3%E3%83%A9%E3%82%A4%E3%83%95banner%2Ejpg.html -->
 
 惰音ライフ | 社团LOGO
 
   
-源地址：[[1]](http://ononono.heavy.jp/images/banner.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://ononono.heavy.jp/images/banner.jpg)  
 
 ---
 

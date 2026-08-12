@@ -1,6 +1,6 @@
 # 文件:記憶_MAIKAZE_music_works_新装版封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d5\ns6%3A%E8%A8%98%E6%86%B6_MAIKAZE_music_works_%E6%96%B0%E8%A3%85%E7%89%88%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d5\ns6%3A%E8%A8%98%E6%86%B6_MAIKAZE_music_works_%E6%96%B0%E8%A3%85%E7%89%88%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 舞风
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [記憶 MAIKAZE music works 新装版](./記憶_MAIKAZE_music_works_新装版.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
+- [記憶 MAIKAZE music works 新装版](./記憶_MAIKAZE_music_works_新装版.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
   
-源地址：[[1]](http://maikaze.com/wp-content/uploads/2015/10/8d6bc7b11e6c8c3d443af7c038b696da.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://maikaze.com/wp-content/uploads/2015/10/8d6bc7b11e6c8c3d443af7c038b696da.jpg)  
 
 ---
 

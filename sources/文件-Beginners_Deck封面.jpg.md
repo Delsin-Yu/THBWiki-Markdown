@@ -1,6 +1,6 @@
 # 文件:Beginners_Deck封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bb\ns6%3ABeginners_Deck%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bb\ns6%3ABeginners_Deck%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 テレピン1000ml | 封面图片 | 软件封面
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Beginners Deck](./Beginners_Deck.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [Beginners Deck](./Beginners_Deck.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

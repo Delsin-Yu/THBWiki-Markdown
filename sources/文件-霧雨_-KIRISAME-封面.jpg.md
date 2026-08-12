@@ -1,6 +1,6 @@
 # 文件:霧雨_-KIRISAME-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6f\ns6%3A%E9%9C%A7%E9%9B%A8_-KIRISAME-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6f\ns6%3A%E9%9C%A7%E9%9B%A8_-KIRISAME-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 SOUND_HOLIC | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ SOUND_HOLIC | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [霧雨 -KIRISAME-](./霧雨_-KIRISAME-.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
+- [霧雨 -KIRISAME-](./霧雨_-KIRISAME-.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-源地址：[[1]](https://buydoujin.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/0/0/0062_2_.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://buydoujin.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/0/0/0062_2_.jpg)  
 
 ---
 

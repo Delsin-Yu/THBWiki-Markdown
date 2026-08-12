@@ -1,6 +1,6 @@
 # 文件:FarEast_E.P.2封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\52\ns6%3AFarEast_E%2EP%2E2%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\52\ns6%3AFarEast_E%2EP%2E2%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 dat_file_records | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ dat_file_records | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [FarEast E.P.2](./FarEast_E.P.2.md)  
-该封面包含的角色：- [堀川雷鼓](./堀川雷鼓.md)
+- [FarEast E.P.2](./FarEast_E.P.2.md)该封面包含的角色：
+- [堀川雷鼓](./堀川雷鼓.md)
 
   
-源地址：[[1]](http://33.media.tumblr.com/a9db46f888cb19a60d8cca637b0f24ae/tumblr_inline_n2qtvqXnhK1ql9ocl.png)
-  
-
-
-
-
+源地址：[\[1\]](http://33.media.tumblr.com/a9db46f888cb19a60d8cca637b0f24ae/tumblr_inline_n2qtvqXnhK1ql9ocl.png)  
 
 ---
 

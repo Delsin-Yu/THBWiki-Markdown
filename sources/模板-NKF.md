@@ -1,16 +1,12 @@
 # 模板:NKF
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\d\da\ns10%3ANKF.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\d\da\ns10%3ANKF.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

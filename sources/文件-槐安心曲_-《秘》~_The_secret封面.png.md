@@ -1,14 +1,11 @@
 # 文件:槐安心曲_-《秘》~_The_secret封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\68\ns6%3A%E6%A7%90%E5%AE%89%E5%BF%83%E6%9B%B2_-%E3%80%8A%E7%A7%98%E3%80%8B%7E_The_secret%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\68\ns6%3A%E6%A7%90%E5%AE%89%E5%BF%83%E6%9B%B2_-%E3%80%8A%E7%A7%98%E3%80%8B%7E_The_secret%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 颠神探女
 
 
 ## 摘要
-
-
-
 
 ---
 

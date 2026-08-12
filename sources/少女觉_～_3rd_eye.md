@@ -1,37 +1,27 @@
 # 少女觉_～_3rd_eye
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\6c\ns0%3A%E5%B0%91%E5%A5%B3%E8%A7%89_%EF%BD%9E_3rd_eye.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\6c\ns0%3A%E5%B0%91%E5%A5%B3%E8%A7%89_%EF%BD%9E_3rd_eye.html -->
 
 由 ZUN 创作的官方曲目，原名 少女さとり　～ 3rd eye
 
 本页是关于东方Project  
- **原作音乐** 的词条
-
+**原作音乐**的词条
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 出现作品](#出现作品)
 - [3 音乐文件](#音乐文件)
-
   - [3.1 东方地灵殿](#东方地灵殿)
 
 
-
 - [4 说明文本](#说明文本)
-
   - [4.1 东方地灵殿](#东方地灵殿_2)
 
 
-
 - [5 其他资料](#其他资料)
-
   - [5.1 乐理资讯](#乐理资讯)
   - [5.2 分析考据](#分析考据)
   - [5.3 二次同人数据](#二次同人数据)
-
-
-
-
 
 
 
@@ -41,13 +31,11 @@
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">少女さとり　～ 3rd eye</td></tr><tr><td><b>译名</b></td><td>少女觉 ～ 3rd eye</td></tr><tr><td><b>英文译名</b></td><td>Satori Maiden ~ 3rd eye</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 少女觉 ～ 3rd eye（曲目） - 由 ZUN 创作的官方曲目，原名 少女さとり　～ 3rd eye
-
 ## 出现作品
 
 <table>
 <tbody><tr><td>2008年8月16日（Comic Market 74）</td><td><b><a href="./东方地灵殿.md" title="东方地灵殿">东方地灵殿</a>正式版</b></td><td>4面BOSS<a href="./古明地觉.md" title="古明地觉">古明地觉</a>的主题曲</td><td style="padding-left:5px;">少女さとり　～ 3rd eye（少女觉 ～ 3rd eye）</td><td style="padding-left:10px;">作曲：ZUN</td></tr>
 </tbody></table>
-
 
 
 ## 音乐文件
@@ -62,23 +50,23 @@
 </td></tr></tbody></table>
 
 
-
 ## 说明文本
 
 ### 东方地灵殿
-- Music Room (未找到链接)
+
+- [Music Room](./东方地灵殿-Music.md#4面BOSS古明地觉角色曲)
 
 　古明地觉的主题曲。  
-　  
+   
 　她是地灵殿的主人。稍有幻想情调并喜爱动物。  
 　其实是这次地灵殿中的最大牌人物，然而  
 　并不怎么擅长战斗的样子。  
 　曲风也展现出大人物的以及阴森的感觉。
-
 ## 其他资料
 
 ### 乐理资讯
-- 使用乐器
+
+- 使用乐器 
   - SD-90 :Ocarina Vib.
   - SD-90 :Romantic Tp.
   - SD-90 :St.Harpsichd
@@ -92,25 +80,31 @@
 
 
 
+
 ### 分析考据
   
- **少女さとり　～ 3rd eye**  少女觉　～ 3rd eye
+**少女さとり ～ 3rd eye** 少女觉　～ 3rd eye
   
 
-- 少女さとり
+- 少女さとり 
   - 指古明地觉。
 
-- さとり
+
+- さとり 
   - 妖怪种族觉。
 
-- 3rd eye
-  - 第三只眼，第三只眼睛，第三眼。
+
+- 3rd eye 
+  - 第三只眼，第三只眼睛，第三眼。 
     - 古明地觉有能读心的第三只眼。
     - 古明地觉长期游离于正常世界之外，所以能以相对客观的视角观察地表社会。
 
 
-- 相关曲目
-  - 动画《新世纪福音战士》的插曲 *She said, "Don't make others suffer for your personal hatred."*  0:28处开始的旋律，和本曲的主旋律非常相似。
+
+
+- 相关曲目 
+  - 动画《新世纪福音战士》的插曲*She said, "Don't make others suffer for your personal hatred."* 0:28处开始的旋律，和本曲的主旋律非常相似。
+
 
 
 
@@ -126,17 +120,6 @@
 <tr><td>Arrange</td><td>1452</td></tr>
 <tr><td>Vocal率</td><td>35.5%</td></tr>
 </tbody></table>
-
-
-
-
-  
-  
-
-  
-
-
-
 
 
 ---

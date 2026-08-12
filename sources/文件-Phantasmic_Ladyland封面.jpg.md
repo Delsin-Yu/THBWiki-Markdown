@@ -1,6 +1,6 @@
 # 文件:Phantasmic_Ladyland封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ac\ns6%3APhantasmic_Ladyland%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ac\ns6%3APhantasmic_Ladyland%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 wujiu～うーじう～ | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ wujiu～うーじう～ | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Phantasmic Ladyland](./Phantasmic_Ladyland.md)  
-该封面包含的角色：- [八云紫](./八云紫.md)
+- [Phantasmic Ladyland](./Phantasmic_Ladyland.md)该封面包含的角色：
+- [八云紫](./八云紫.md)
 
   
-源地址：[[1]](http://www.wujiu-gao.com/Phantasmic Ladyland/img/jacket.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://www.wujiu-gao.com/Phantasmic%20Ladyland/img/jacket.jpg)  
 
 ---
 

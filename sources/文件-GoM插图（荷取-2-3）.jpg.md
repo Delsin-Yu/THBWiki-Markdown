@@ -1,12 +1,8 @@
 # 文件:GoM插图（荷取-2-3）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4a\ns6%3AGoM%E6%8F%92%E5%9B%BE%EF%BC%88%E8%8D%B7%E5%8F%96-2-3%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4a\ns6%3AGoM%E6%8F%92%E5%9B%BE%EF%BC%88%E8%8D%B7%E5%8F%96-2-3%EF%BC%89%2Ejpg.html -->
 
 河城荷取 | 魔理沙的魔法书
-
-
-
-
 
 
 ---

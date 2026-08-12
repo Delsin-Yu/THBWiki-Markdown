@@ -1,12 +1,8 @@
 # 文件:TheAnimals（铃奈庵）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a8\ns6%3ATheAnimals%EF%BC%88%E9%93%83%E5%A5%88%E5%BA%B5%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a8\ns6%3ATheAnimals%EF%BC%88%E9%93%83%E5%A5%88%E5%BA%B5%EF%BC%89%2Epng.html -->
 
 出典文献
-
-
-
-
 
 
 ---

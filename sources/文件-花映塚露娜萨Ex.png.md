@@ -1,12 +1,8 @@
 # 文件:花映塚露娜萨Ex.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\59\ns6%3A%E8%8A%B1%E6%98%A0%E5%A1%9A%E9%9C%B2%E5%A8%9C%E8%90%A8Ex%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\59\ns6%3A%E8%8A%B1%E6%98%A0%E5%A1%9A%E9%9C%B2%E5%A8%9C%E8%90%A8Ex%2Epng.html -->
 
 东方花映塚 | 露娜萨·普莉兹姆利巴
-
-
-
-
 
 
 ---

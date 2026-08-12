@@ -1,12 +1,8 @@
 # 文件:Anime_Weekend_Atlanta_ZUN绘天子衬衫.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f6\ns6%3AAnime_Weekend_Atlanta_ZUN%E7%BB%98%E5%A4%A9%E5%AD%90%E8%A1%AC%E8%A1%AB%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f6\ns6%3AAnime_Weekend_Atlanta_ZUN%E7%BB%98%E5%A4%A9%E5%AD%90%E8%A1%AC%E8%A1%AB%2Ejpg.html -->
 
 ZUN绘 | 比那名居天子
-
-
-
-
 
 
 ---

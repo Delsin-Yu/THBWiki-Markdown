@@ -1,12 +1,8 @@
 # 文件:东游鉴LOGO.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1f\ns6%3A%E4%B8%9C%E6%B8%B8%E9%89%B4LOGO%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1f\ns6%3A%E4%B8%9C%E6%B8%B8%E9%89%B4LOGO%2Ejpg.html -->
 
 东游鉴 | 社团LOGO
-
-
-
-
 
 
 ---

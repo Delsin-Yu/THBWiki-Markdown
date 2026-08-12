@@ -1,6 +1,6 @@
 # 文件:The_Toho_Project_set_of_秘封倶楽部_Vol.2封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\17\ns6%3AThe_Toho_Project_set_of_%E7%A7%98%E5%B0%81%E5%80%B6%E6%A5%BD%E9%83%A8_Vol%2E2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\17\ns6%3AThe_Toho_Project_set_of_%E7%A7%98%E5%B0%81%E5%80%B6%E6%A5%BD%E9%83%A8_Vol%2E2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 自己崩壊性LOGiC
 
@@ -8,16 +8,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [The Toho Project set of 秘封倶楽部 Vol.2](./The_Toho_Project_set_of_秘封倶楽部_Vol.2.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
+- [The Toho Project set of 秘封倶楽部 Vol.2](./The_Toho_Project_set_of_秘封倶楽部_Vol.2.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
   
-源地址：[[1]](https://jicohoukaiseilogic.files.wordpress.com/2016/09/20160911e7a798e5b081e382b8e383a3e382b1e38383e38388efbcbfefbd83efbd8defbd99efbd8b_e9bb92e7b79ae4bd8de7bdaee98195e38184.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://jicohoukaiseilogic.files.wordpress.com/2016/09/20160911e7a798e5b081e382b8e383a3e382b1e38383e38388efbcbfefbd83efbd8defbd99efbd8b_e9bb92e7b79ae4bd8de7bdaee98195e38184.jpg)  
 
 ---
 

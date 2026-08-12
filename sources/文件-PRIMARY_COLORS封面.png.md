@@ -1,6 +1,6 @@
 # 文件:PRIMARY_COLORS封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ee\ns6%3APRIMARY_COLORS%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ee\ns6%3APRIMARY_COLORS%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 QUINTET | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ QUINTET | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [PRIMARY COLORS](./PRIMARY_COLORS.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
+- [PRIMARY COLORS](./PRIMARY_COLORS.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
   
-源地址：[[1]](http://lostcollection.net/img/1K/lcd13.png)
-  
-
-
-
-
+源地址：[\[1\]](http://lostcollection.net/img/1K/lcd13.png)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:花速_-_k_a_s_o_k_u_-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cb\ns6%3A%E8%8A%B1%E9%80%9F_-_k_a_s_o_k_u_-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cb\ns6%3A%E8%8A%B1%E9%80%9F_-_k_a_s_o_k_u_-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 SYNC.ART'S | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ SYNC.ART'S | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [花速 - k a s o k u -](./花速_-_k_a_s_o_k_u_-.md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)
-
-
-
+- [花速 - k a s o k u -](./花速_-_k_a_s_o_k_u_-.md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
 
 
 ---

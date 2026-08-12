@@ -1,16 +1,12 @@
 # 模板:CW
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\8\8c\ns10%3ACW.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\8\8c\ns10%3ACW.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

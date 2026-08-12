@@ -1,6 +1,6 @@
 # 东方DOTS·续·桃花岛/其他
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\f8\ns0%3A%E4%B8%9C%E6%96%B9DOTS%C2%B7%E7%BB%AD%C2%B7%E6%A1%83%E8%8A%B1%E5%B2%9B%2F%E5%85%B6%E4%BB%96.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\f8\ns0%3A%E4%B8%9C%E6%96%B9DOTS%C2%B7%E7%BB%AD%C2%B7%E6%A1%83%E8%8A%B1%E5%B2%9B%2F%E5%85%B6%E4%BB%96.html -->
 
 东方DOTS玩家社群
 
@@ -28,19 +28,17 @@
 </td></tr></tbody></table>
 
 
-
 <table>
 <caption>天梯分排名及胜率查询
 </caption>
 <tbody><tr>
-<td><a rel="nofollow" class="external text" href="https://thd2.cc/datas/heroranklist.php?o=3&amp;/">英雄胜率查询</a></td>
+<td><a rel="nofollow" class="external text" href="https://thd2.cc/datas/heroranklist.php?o=3&/">英雄胜率查询</a></td>
 <td>所有英雄的总出场及胜率；在网址末端输入?sid=玩家的steamUID，可查询该玩家的英雄出场及英雄胜率
 </td></tr>
 <tr>
 <td><a rel="nofollow" class="external text" href="https://thd2.cc/api/ranklist.php?p=1/">天梯分排名</a></td>
 <td>所有玩家的排名
 </td></tr></tbody></table>
-
 
 
 <table>
@@ -128,7 +126,6 @@
 </td></tr></tbody></table>
 
 
-
 ##### 人机模式聊天指令
 
 <table>
@@ -156,7 +153,6 @@
 </td></tr></tbody></table>
 
 
-
 <table>
 <caption>人数调整
 </caption>
@@ -172,7 +168,6 @@
 <td>-banbots 英雄代码</td>
 <td>禁用bot机体，多个机体用空格隔开（英雄代码可在内部名称页面查询）
 </td></tr></tbody></table>
-
 
 
 <table>
@@ -216,7 +211,6 @@
 </td></tr></tbody></table>
 
 
-
 ##### 通用聊天指令
 
 <table>
@@ -250,10 +244,6 @@
 <td>-pause</td>
 <td>暂停
 </td></tr></tbody></table>
-
-
-
-
 
 
 ---

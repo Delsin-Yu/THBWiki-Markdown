@@ -1,12 +1,8 @@
 # 文件:洪水「Diluvial_Mare」（风神录）.JPG
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7c\ns6%3A%E6%B4%AA%E6%B0%B4%E3%80%8CDiluvial_Mare%E3%80%8D%EF%BC%88%E9%A3%8E%E7%A5%9E%E5%BD%95%EF%BC%89%2EJPG.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7c\ns6%3A%E6%B4%AA%E6%B0%B4%E3%80%8CDiluvial_Mare%E3%80%8D%EF%BC%88%E9%A3%8E%E7%A5%9E%E5%BD%95%EF%BC%89%2EJPG.html -->
 
 东方风神录 | 敌机符卡 | 河城荷取
-
-
-
-
 
 
 ---

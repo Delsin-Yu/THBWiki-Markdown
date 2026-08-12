@@ -1,6 +1,6 @@
 # 文件:Welcome_to_Heaven封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\07\ns6%3AWelcome_to_Heaven%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\07\ns6%3AWelcome_to_Heaven%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 吊るし処 | 封面图片
 
@@ -8,11 +8,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [Welcome to Heaven](./Welcome_to_Heaven.md)  
-该封面包含的角色：- [比那名居天子](./比那名居天子.md)- [少名针妙丸](./少名针妙丸.md)- [依神紫苑](./依神紫苑.md)
-
-
-
+- [Welcome to Heaven](./Welcome_to_Heaven.md)该封面包含的角色：
+- [比那名居天子](./比那名居天子.md)
+- [少名针妙丸](./少名针妙丸.md)
+- [依神紫苑](./依神紫苑.md)
 
 
 ---

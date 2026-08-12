@@ -1,16 +1,12 @@
 # 文件:ssg_E19.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\63\ns6%3Assg_E19%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\63\ns6%3Assg_E19%2Epng.html -->
 
 秋霜玉
 
   
 秋霜玉敌机19像素图。
   
-
-
-
-
 
 ---
 

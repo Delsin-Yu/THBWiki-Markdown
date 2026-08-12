@@ -1,12 +1,8 @@
 # 文件:猫耳神社logo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6e\ns6%3A%E7%8C%AB%E8%80%B3%E7%A5%9E%E7%A4%BElogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6e\ns6%3A%E7%8C%AB%E8%80%B3%E7%A5%9E%E7%A4%BElogo%2Ejpg.html -->
 
 猫耳神社 | 社团LOGO
-
-
-
-
 
 
 ---

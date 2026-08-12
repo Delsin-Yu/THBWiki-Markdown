@@ -1,12 +1,8 @@
 # 文件:松符「Double_Dragon_Matsu」.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\47\ns6%3A%E6%9D%BE%E7%AC%A6%E3%80%8CDouble_Dragon_Matsu%E3%80%8D%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\47\ns6%3A%E6%9D%BE%E7%AC%A6%E3%80%8CDouble_Dragon_Matsu%E3%80%8D%2Ejpg.html -->
 
 東方邪星章製作チーム
-
-
-
-
 
 
 ---

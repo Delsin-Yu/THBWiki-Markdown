@@ -1,6 +1,6 @@
 # 文件:残★夏_-ZANKA-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\54\ns6%3A%E6%AE%8B%E2%98%85%E5%A4%8F_-ZANKA-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\54\ns6%3A%E6%AE%8B%E2%98%85%E5%A4%8F_-ZANKA-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Studio_*.izumi | 专辑封面 | 封面图片
 
@@ -10,16 +10,20 @@ Studio_*.izumi | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [残★夏 -ZANKA-](./残★夏_-ZANKA-.md)  
-该封面包含的角色：- [橙](./橙.md)- [露娜萨·普莉兹姆利巴](./露娜萨·普莉兹姆利巴.md)- [梅露兰·普莉兹姆利巴](./梅露兰·普莉兹姆利巴.md)- [莉莉卡·普莉兹姆利巴](./莉莉卡·普莉兹姆利巴.md)- [伊吹萃香](./伊吹萃香.md)- [河城荷取](./河城荷取.md)- [东风谷早苗](./东风谷早苗.md)- [八坂神奈子](./八坂神奈子.md)- [村纱水蜜](./村纱水蜜.md)
+- [残★夏 -ZANKA-](./残★夏_-ZANKA-.md)该封面包含的角色：
+- [橙](./橙.md)
+- [露娜萨·普莉兹姆利巴](./露娜萨·普莉兹姆利巴.md)
+- [梅露兰·普莉兹姆利巴](./梅露兰·普莉兹姆利巴.md)
+- [莉莉卡·普莉兹姆利巴](./莉莉卡·普莉兹姆利巴.md)
+- [伊吹萃香](./伊吹萃香.md)
+- [河城荷取](./河城荷取.md)
+- [东风谷早苗](./东风谷早苗.md)
+- [八坂神奈子](./八坂神奈子.md)
+- [村纱水蜜](./村纱水蜜.md)
 
   
 Image taken from TLMC scans (cropped and resized)
   
-
-
-
-
 
 ---
 

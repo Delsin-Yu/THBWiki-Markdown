@@ -1,12 +1,8 @@
 # 文件:崩坏一番工作室banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2e\ns6%3A%E5%B4%A9%E5%9D%8F%E4%B8%80%E7%95%AA%E5%B7%A5%E4%BD%9C%E5%AE%A4banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2e\ns6%3A%E5%B4%A9%E5%9D%8F%E4%B8%80%E7%95%AA%E5%B7%A5%E4%BD%9C%E5%AE%A4banner%2Ejpg.html -->
 
 崩坏一番工作室 | 社团LOGO
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Which_of_Alice封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\ba\ns6%3AWhich_of_Alice%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\ba\ns6%3AWhich_of_Alice%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 しぐれえび | 同人志封面 | 封面图片
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [Which of Alice](./Which_of_Alice.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [爱丽丝（旧作角色）](./爱丽丝（旧作角色）.md)
-
-
-
+- [Which of Alice](./Which_of_Alice.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [爱丽丝（旧作角色）](./爱丽丝（旧作角色）.md)
 
 
 ---

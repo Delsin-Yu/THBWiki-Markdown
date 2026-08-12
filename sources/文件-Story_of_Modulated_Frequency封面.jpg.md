@@ -1,6 +1,6 @@
 # 文件:Story_of_Modulated_Frequency封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e4\ns6%3AStory_of_Modulated_Frequency%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e4\ns6%3AStory_of_Modulated_Frequency%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 +tek | 专辑封面 | 封面图片
 
@@ -8,12 +8,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [Story of Modulated Frequency](./Story_of_Modulated_Frequency.md)  
-该封面包含的角色：- [博丽灵梦（旧作角色）](./博丽灵梦（旧作角色）.md)- [雾雨魔理沙（旧作角色）](./雾雨魔理沙（旧作角色）.md)源地址：[[1]](https://plustek.bandcamp.com/album/story-of-modulated-frequency)
-
-
-
-
+- [Story of Modulated Frequency](./Story_of_Modulated_Frequency.md)该封面包含的角色：
+- [博丽灵梦（旧作角色）](./博丽灵梦（旧作角色）.md)
+- [雾雨魔理沙（旧作角色）](./雾雨魔理沙（旧作角色）.md)
+源地址：[\[1\]](https://plustek.bandcamp.com/album/story-of-modulated-frequency)
 
 ---
 

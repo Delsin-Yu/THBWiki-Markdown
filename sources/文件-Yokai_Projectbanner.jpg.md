@@ -1,12 +1,8 @@
 # 文件:Yokai_Projectbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b4\ns6%3AYokai_Projectbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b4\ns6%3AYokai_Projectbanner%2Ejpg.html -->
 
 Yokai_Project | 社团LOGO
-
-
-
-
 
 
 ---

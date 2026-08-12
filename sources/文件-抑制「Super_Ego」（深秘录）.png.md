@@ -1,12 +1,8 @@
 # 文件:抑制「Super_Ego」（深秘录）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0b\ns6%3A%E6%8A%91%E5%88%B6%E3%80%8CSuper_Ego%E3%80%8D%EF%BC%88%E6%B7%B1%E7%A7%98%E5%BD%95%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0b\ns6%3A%E6%8A%91%E5%88%B6%E3%80%8CSuper_Ego%E3%80%8D%EF%BC%88%E6%B7%B1%E7%A7%98%E5%BD%95%EF%BC%89%2Epng.html -->
 
 东方深秘录 | 古明地恋 | 自机符卡
-
-
-
-
 
 
 ---

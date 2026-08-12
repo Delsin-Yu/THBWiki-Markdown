@@ -1,16 +1,12 @@
 # 模板:WF/届名
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\c\ca\ns10%3AWF%2F%E5%B1%8A%E5%90%8D.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\c\ca\ns10%3AWF%2F%E5%B1%8A%E5%90%8D.html -->
 
 活动届名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

@@ -1,12 +1,8 @@
 # 文件:BAiJR_03.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\42\ns6%3ABAiJR_03%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\42\ns6%3ABAiJR_03%2Emp3.html -->
 
 东方文花帖（书籍） | 原曲MP3 | 花映塚_～_after_Higan_Retour
-
-
-
-
 
 
 ---

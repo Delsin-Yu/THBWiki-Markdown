@@ -1,12 +1,8 @@
 # 文件:GC_S_HOLD.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\af\ns6%3AGC_S_HOLD%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\af\ns6%3AGC_S_HOLD%2Epng.html -->
 
 GROOVE_COASTER | 太东
-
-
-
-
 
 
 ---

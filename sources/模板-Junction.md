@@ -1,16 +1,12 @@
 # 模板:Junction
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\5\5b\ns10%3AJunction.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\5\5b\ns10%3AJunction.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

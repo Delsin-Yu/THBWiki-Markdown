@@ -1,18 +1,13 @@
 # 文件:PROSCIUTTObanner2.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\51\ns6%3APROSCIUTTObanner2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\51\ns6%3APROSCIUTTObanner2%2Epng.html -->
 
 PROSCIUTTO | 社团LOGO
 
 
 ## 摘要
   
-源地址：[direct image link](https://web.archive.org/web/20230825002506im_/http://conpallo.web.fc2.com/banner/prosciutto_crudo.png), [source page](https://web.archive.org/web/20230825002506/http://conpallo.web.fc2.com/link.html)
-  
-
-
-
-
+源地址：[direct image link](https://web.archive.org/web/20230825002506im_/http://conpallo.web.fc2.com/banner/prosciutto_crudo.png), [source page](https://web.archive.org/web/20230825002506/http://conpallo.web.fc2.com/link.html)  
 
 ---
 

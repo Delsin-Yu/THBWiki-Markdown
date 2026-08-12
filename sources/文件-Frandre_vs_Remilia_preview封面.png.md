@@ -1,6 +1,6 @@
 # 文件:Frandre_vs_Remilia_preview封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\58\ns6%3AFrandre_vs_Remilia_preview%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\58\ns6%3AFrandre_vs_Remilia_preview%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 IMINIC | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@ IMINIC | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Frandre vs Remilia preview](./Frandre_vs_Remilia_preview.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
-
-
-
+- [Frandre vs Remilia preview](./Frandre_vs_Remilia_preview.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
 
 ---

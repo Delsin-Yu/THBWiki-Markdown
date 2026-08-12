@@ -1,6 +1,6 @@
 # 文件:not_sweet封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8f\ns6%3Anot_sweet%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8f\ns6%3Anot_sweet%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 京田モータース | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [not sweet](./not_sweet.md)  
-该封面包含的角色：- [古明地恋](./古明地恋.md)
+- [not sweet](./not_sweet.md)该封面包含的角色：
+- [古明地恋](./古明地恋.md)
 
   
-源地址：[Twitter](https://pbs.twimg.com/media/Fu9xkG2agAEvYWF?format=jpg&amp;name=orig)
-  
-
-
-
-
+源地址：[Twitter](https://pbs.twimg.com/media/Fu9xkG2agAEvYWF?format=jpg&name=orig)  
 
 ---
 

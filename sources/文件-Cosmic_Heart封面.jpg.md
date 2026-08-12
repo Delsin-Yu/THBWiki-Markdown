@@ -1,6 +1,6 @@
 # 文件:Cosmic_Heart封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\83\ns6%3ACosmic_Heart%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\83\ns6%3ACosmic_Heart%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 骨神一族&きのこスープす
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Cosmic Heart](./Cosmic_Heart.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
-
-
-
+- [Cosmic Heart](./Cosmic_Heart.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
 
 
 ---

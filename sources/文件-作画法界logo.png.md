@@ -1,16 +1,11 @@
 # 文件:作画法界logo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\24\ns6%3A%E4%BD%9C%E7%94%BB%E6%B3%95%E7%95%8Clogo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\24\ns6%3A%E4%BD%9C%E7%94%BB%E6%B3%95%E7%95%8Clogo%2Epng.html -->
 
 社团LOGO
 
   
-源地址：[[1]](https://static.wixstatic.com/media/06c5ac_d59b771022ca425dba48841f2520aab1~mv2.png)
-  
-
-
-
-
+源地址：[\[1\]](https://static.wixstatic.com/media/06c5ac_d59b771022ca425dba48841f2520aab1~mv2.png)  
 
 ---
 

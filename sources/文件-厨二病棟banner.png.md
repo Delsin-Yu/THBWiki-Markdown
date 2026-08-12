@@ -1,12 +1,8 @@
 # 文件:厨二病棟banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4e\ns6%3A%E5%8E%A8%E4%BA%8C%E7%97%85%E6%A3%9Fbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4e\ns6%3A%E5%8E%A8%E4%BA%8C%E7%97%85%E6%A3%9Fbanner%2Epng.html -->
 
 厨二病棟 | 社团LOGO
-
-
-
-
 
 
 ---

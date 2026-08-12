@@ -1,6 +1,6 @@
 # 文件:MUSIC_OF_THE_3RD_EYE封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7f\ns6%3AMUSIC_OF_THE_3RD_EYE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7f\ns6%3AMUSIC_OF_THE_3RD_EYE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Ridil | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Ridil | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [MUSIC OF THE 3RD EYE](./MUSIC_OF_THE_3RD_EYE.md)  
-该封面包含的角色：- [秦心](./秦心.md)
-
-
-
+- [MUSIC OF THE 3RD EYE](./MUSIC_OF_THE_3RD_EYE.md)该封面包含的角色：
+- [秦心](./秦心.md)
 
 
 ---

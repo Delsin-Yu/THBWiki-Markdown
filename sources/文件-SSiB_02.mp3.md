@@ -1,12 +1,8 @@
 # 文件:SSiB_02.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\42\ns6%3ASSiB_02%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\42\ns6%3ASSiB_02%2Emp3.html -->
 
 东方儚月抄_～_Silent_Sinner_in_Blue. | 原曲MP3 | 绵月的符卡_～_Lunatic_Blue
-
-
-
-
 
 
 ---

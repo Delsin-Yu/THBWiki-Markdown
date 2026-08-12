@@ -1,12 +1,8 @@
 # 文件:Epic-Worksbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8e\ns6%3AEpic-Worksbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8e\ns6%3AEpic-Worksbanner%2Epng.html -->
 
 Epic-Works | 社团LOGO
-
-
-
-
 
 
 ---

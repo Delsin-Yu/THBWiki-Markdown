@@ -1,16 +1,11 @@
 # 文件:Active_Sounds_Zonebanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\89\ns6%3AActive_Sounds_Zonebanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\89\ns6%3AActive_Sounds_Zonebanner%2Ejpg.html -->
 
 Active_Sounds_Zone | 社团LOGO
 
   
-源地址：[[1]](https://pbs.twimg.com/profile_images/707124384666771458/82bPUrf0_400x400.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://pbs.twimg.com/profile_images/707124384666771458/82bPUrf0_400x400.jpg)  
 
 ---
 

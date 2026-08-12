@@ -1,6 +1,6 @@
 # 文件:DOLCE_LATTE_mokou_assort_book封面.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\58\ns6%3ADOLCE_LATTE_mokou_assort_book%E5%B0%81%E9%9D%A2%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\58\ns6%3ADOLCE_LATTE_mokou_assort_book%E5%B0%81%E9%9D%A2%2Egif.html -->
 
 DOLCE_LATTE | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@ DOLCE_LATTE | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [DOLCE LATTE mokou assort book](./DOLCE_LATTE_mokou_assort_book.md)  
-该封面包含的角色：- [藤原妹红](./藤原妹红.md)
-
-
-
+- [DOLCE LATTE mokou assort book](./DOLCE_LATTE_mokou_assort_book.md)该封面包含的角色：
+- [藤原妹红](./藤原妹红.md)
 
 
 ---

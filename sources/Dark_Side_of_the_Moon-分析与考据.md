@@ -1,6 +1,6 @@
 # Dark_Side_of_the_Moon/分析与考据
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\2b\ns0%3ADark_Side_of_the_Moon%2F%E5%88%86%E6%9E%90%E4%B8%8E%E8%80%83%E6%8D%AE.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\2b\ns0%3ADark_Side_of_the_Moon%2F%E5%88%86%E6%9E%90%E4%B8%8E%E8%80%83%E6%8D%AE.html -->
 
 符卡 | 露米娅
 
@@ -8,9 +8,7 @@
 ## 目录
 
 - [1 分析与考据](#分析与考据)
-
   - [1.1 闇符「ダークサイドオブザムーン」](#闇符「ダークサイドオブザムーン」)
-
 
 
 - [2 注释](#注释)
@@ -18,52 +16,45 @@
 - [4 导航](#导航)
 
 
-
-
-
 ## 分析与考据
 
 ### 闇符「ダークサイドオブザムーン」
   
- **闇符「ダークサイドオブザムーン」**  暗符「Dark Side of the Moon」（月的阴暗面）
+**闇符「ダークサイドオブザムーン」** 暗符「Dark Side of the Moon」（月的阴暗面）
   
 
-- <ruby lang="ja"><rb>闇</rb><rp> (</rp><rt>やみ</rt><rp>) </rp></ruby>
-（暗）
+- <ruby lang="ja"><rb>闇</rb><rp> (</rp><rt>やみ</rt><rp>) </rp></ruby>（暗） 
   - 参见[暗符「Demarcation」](./Demarcation.md)的[分析考据](./Demarcation-分析与考据.md)。
 
-- ダークサイドオブザムーン（dark side of the Moon）
+
+- ダークサイドオブザムーン（dark side of the Moon） 
   - 英语：月之暗面，月球背面。引申为神秘、未知的事物。
   - 月之暗面[^cite_note-1]
     - 指月球永远背对地球的一面。
     - 因为潮汐锁定，月球永远以同一面朝向地球，从地球上永远看不见月球背面[^cite_note-2]。
 
-  - 可能出自英国摇滚乐队平克·佛洛伊德（Pink Floyd）的著名专辑《月之暗面》（ *The Dark Side of the Moon* ）[^cite_note-3]，以及其中歌曲  *Eclipse*  的歌词：
+
+  - 可能出自英国摇滚乐队平克·佛洛伊德（Pink Floyd）的著名专辑《月之暗面》（*The Dark Side of the Moon*）[^cite_note-3]，以及其中歌曲 *Eclipse* 的歌词：
+
 
 
 <img alt="Open Iconic double quote sans left.svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Open_Iconic_double_quote_sans_left.svg/langzh-25px-Open_Iconic_double_quote_sans_left.svg.png" decoding="async" loading="lazy" width="25" height="25" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Open_Iconic_double_quote_sans_left.svg/langzh-38px-Open_Iconic_double_quote_sans_left.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Open_Iconic_double_quote_sans_left.svg/langzh-50px-Open_Iconic_double_quote_sans_left.svg.png 2x" data-file-width="8" data-file-height="8">
-There is no dark side in the moon, really. Matter of fact, it's all dark.___
+There is no dark side in the moon, really. Matter of fact, it's all dark.
+---
+
 其实月球并没有黑暗的一面。事实上，它全都是黑暗的。<img alt="Open Iconic double quote sans right.svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Open_Iconic_double_quote_sans_right.svg/langzh-25px-Open_Iconic_double_quote_sans_right.svg.png" decoding="async" loading="lazy" width="25" height="25" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Open_Iconic_double_quote_sans_right.svg/langzh-38px-Open_Iconic_double_quote_sans_right.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Open_Iconic_double_quote_sans_right.svg/langzh-50px-Open_Iconic_double_quote_sans_right.svg.png 2x" data-file-width="8" data-file-height="8">
-——Pink Floyd -  *Eclipse* 
-: - [红魔乡](./东方红魔乡.md)露米娅的符卡[月符「Moonlight Ray」](./Moonlight_Ray.md)也与月亮有关。
+——Pink Floyd - *Eclipse*: 
+- [红魔乡](./东方红魔乡.md)露米娅的符卡[月符「Moonlight Ray」](./Moonlight_Ray.md)也与月亮有关。
 - ZUN的音乐CD[大空魔术](./大空魔术.md)中的乐曲[另一侧的月](./另一侧的月.md)。
 
 
-
 [^cite_note-1]: 中文维基百科：[月球背面](https://en.wikipedia.org/wiki/zh:月球背面)
-
+[^cite_note-2]: 中文维基百科：[潮汐锁定](https://en.wikipedia.org/wiki/zh:潮汐锁定)
+[^cite_note-3]: 中文维基百科：[月之暗面](https://en.wikipedia.org/wiki/zh:月之暗面)
 
 ## 参见
+
 - [露米娅/分析考据](./露米娅-分析考据.md)
-
-
-## 导航
-
-<table><tbody><tr><td><table cellspacing="0" class="nowraplinks mw-collapsible mw-collapsed" style="width:100%;;;"><tbody><tr><th style=";" colspan="3" class="navbox-title"><div class="navbar"><div class="noprint plainlinksneverexpand" style="background-color:transparent; padding:0; font-weight:normal; font-size:80%; white-space:nowrap;"><a href="./模板-露米娅符卡导航.md" title="模板:露米娅符卡导航"><span style=";;border:none;" title="查看这个模板">查</span></a>&#160;<span style="font-size:80%;">•</span>&#160;<a href="/index.php?title=%E6%A8%A1%E6%9D%BF:%E9%9C%B2%E7%B1%B3%E5%A8%85%E7%AC%A6%E5%8D%A1%E5%AF%BC%E8%88%AA&amp;action=edit"><span style=";;border:none;" title="您可以编辑这个模板。请在储存变更之前先预览">编</span></a></div></div><span><a href="./露米娅.md" title="露米娅">露米娅</a>符卡</span></th></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">射击游戏</td><td style=";;" class="navbox-list navbox-odd"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div><a href="./东方红魔乡.md" title="东方红魔乡">东方红魔乡</a></div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./Moonlight_Ray.md" title="Moonlight Ray" unred="">月符「Moonlight Ray」</a> &#8226; <a href="./Night_Bird.md" title="Night Bird" unred="">夜符「Night Bird」</a> &#8226; <a href="./Demarcation.md" title="Demarcation" unred="">暗符「Demarcation」</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div><a href="./东方文花帖.md" title="东方文花帖">东方文花帖</a></div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./Dark_Side_of_the_Moon.md" title="Dark Side of the Moon" unred="">暗符「Dark Side of the Moon」</a> &#8226; <a href="./Midnight_Bird.md" title="Midnight Bird" unred="">夜符「Midnight Bird」</a></div></td></tr></tbody></table><div></div></td><td class="navbox-image" style="" rowspan="3"><a href="./文件-露米娅（Q版立绘）.png.md" class="image"><img alt="露米娅（Q版立绘）.png" src="https://upload.thwiki.cc/thumb/7/74/%E9%9C%B2%E7%B1%B3%E5%A8%85%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png/160px-%E9%9C%B2%E7%B1%B3%E5%A8%85%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="160" height="160" srcset="https://upload.thwiki.cc/thumb/7/74/%E9%9C%B2%E7%B1%B3%E5%A8%85%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png/240px-%E9%9C%B2%E7%B1%B3%E5%A8%85%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/7/74/%E9%9C%B2%E7%B1%B3%E5%A8%85%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png/320px-%E9%9C%B2%E7%B1%B3%E5%A8%85%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="500" data-file-height="500"></a></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">出版物</td><td style=";;" class="navbox-list navbox-even"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div><a href="./The_Grimoire_of_Marisa.md" title="The Grimoire of Marisa" unred="">魔理沙的魔法书</a></div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./Night_Bird.md" title="Night Bird" unred="">夜符「Night Bird」</a></div></td></tr></tbody></table><div></div></td></tr></tbody></table></td></tr></tbody></table>
-
-
-
-
 
 
 ---

@@ -1,31 +1,27 @@
 # TRIPLE_"M"
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\d\d4\ns0%3ATRIPLE_%22M%22.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\d\d4\ns0%3ATRIPLE_%22M%22.html -->
 
 2010年8月14日 由 Unity-Gain 于 Comic Market 78 发布的单曲同人专辑，曲目主要风格是 爵士、其他，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人专辑 (未找到链接)** 的词条
-
+**[二次创作同人专辑](./二次创作.md#同人音乐)**的词条
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-TRIPLE_-M-封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/e/ed/TRIPLE_%22M%22%E5%B0%81%E9%9D%A2.jpg/280px-TRIPLE_%22M%22%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="280" height="278" srcset="https://upload.thwiki.cc/thumb/e/ed/TRIPLE_%22M%22%E5%B0%81%E9%9D%A2.jpg/420px-TRIPLE_%22M%22%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/e/ed/TRIPLE_%22M%22%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="450" data-file-height="446"></a><div class="cover-char">角色：<a href="./犬走椛.md" title="犬走椛">犬走椛</a></div></td>
-</tr><tr><td class="label">名称</td><td colspan="2"> TRIPLE &#34;M&#34; </td></tr><tr><td class="label">制作方</td><td><a href="./Unity-Gain.md" title="Unity-Gain">Unity-Gain</a></td><td class="cover-artwork" rowspan="10" style="min-width:280px;"><a href="./文件-TRIPLE_-M-封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/e/ed/TRIPLE_%22M%22%E5%B0%81%E9%9D%A2.jpg/280px-TRIPLE_%22M%22%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="280" height="278" srcset="https://upload.thwiki.cc/thumb/e/ed/TRIPLE_%22M%22%E5%B0%81%E9%9D%A2.jpg/420px-TRIPLE_%22M%22%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/e/ed/TRIPLE_%22M%22%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="450" data-file-height="446"></a><div class="cover-char">角色：<a href="./犬走椛.md" title="犬走椛">犬走椛</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2010-08-14&#160;（<a href="/展会作品列表?e=Comic+Market%2378">Comic Market 78</a>）</td></tr><tr><td class="label">类型</td><td>单曲</td></tr><tr><td class="label">编号</td><td>UTGN-0002</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>2</td></tr><tr><td class="label">总时长</td><td>11:29</td></tr><tr><td class="label">风格类型</td><td>爵士，其他</td></tr><tr><td class="label">售价</td><td>会场售价：100日元</td></tr>
+</tr><tr><td class="label">名称</td><td colspan="2"> TRIPLE "M" </td></tr><tr><td class="label">制作方</td><td><a href="./Unity-Gain.md" title="Unity-Gain">Unity-Gain</a></td><td class="cover-artwork" rowspan="10" style="min-width:280px;"><a href="./文件-TRIPLE_-M-封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/e/ed/TRIPLE_%22M%22%E5%B0%81%E9%9D%A2.jpg/280px-TRIPLE_%22M%22%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="280" height="278" srcset="https://upload.thwiki.cc/thumb/e/ed/TRIPLE_%22M%22%E5%B0%81%E9%9D%A2.jpg/420px-TRIPLE_%22M%22%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/e/ed/TRIPLE_%22M%22%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="450" data-file-height="446"></a><div class="cover-char">角色：<a href="./犬走椛.md" title="犬走椛">犬走椛</a></div></td>
+</tr><tr><td class="label">首发日期</td><td>2010-08-14 （<a href="./展会作品列表.md#78">Comic Market 78</a>）</td></tr><tr><td class="label">类型</td><td>单曲</td></tr><tr><td class="label">编号</td><td>UTGN-0002</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>2</td></tr><tr><td class="label">总时长</td><td>11:29</td></tr><tr><td class="label">风格类型</td><td>爵士，其他</td></tr><tr><td class="label">售价</td><td>会场售价：100日元</td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://kakeruichi.mydns.jp/event/post.html#utgn-0002">http://kakeruichi.mydns.jp/event/post.html#utgn-0002</a></td></tr></tbody></table>
 
 TRIPLE "M"（同人专辑，Unity-Gain，2010） - 2010年8月14日 由 Unity-Gain 于 Comic Market 78 发布的单曲同人专辑，曲目主要风格是 爵士、其他，分级为 一般向
-
 ## Staff
   
- **Arrangement**   
+**Arrangement**  
 
-<table><tbody><tr><td><a href="/index.php?title=O%E5%A4%AA&amp;action=edit&amp;redlink=1" class="new" title="O太（页面不存在）">O太</a></td><td><a href="./Unity-Gain.md" title="Unity-Gain">Unity-Gain</a></td><td>Tr.1/2</td></tr></tbody></table>
-
+<table><tbody><tr><td><a class="new" title="O太（页面不存在）">O太</a></td><td><a href="./Unity-Gain.md" title="Unity-Gain">Unity-Gain</a></td><td>Tr.1/2</td></tr></tbody></table>
 
 Jacket Illustration
 : 夢職人 （[pixiv](http://www.pixiv.net/member.php?id=274333)）
-
 
 ## 试听
   
@@ -34,25 +30,18 @@ TRIP TRIPLE "M"
 
 METRO FANTASIA @Tokyo   
 <audio src="http://kakeruichi.mydns.jp/event/utgn-0002/utgn-0002_metoro_preview.mp3" loop="" controls="" preload="none"></audio>
-
   
   
 <iframe width="100%" height="180" src="https://ext.nicovideo.jp/thumb/sm11682123" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/watch/sm11682123">,</a></iframe>
-
   
-
 
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="TRIP_TRIPLE_&quot;M&quot;" colspan="2" class="title">TRIP TRIPLE &#34;M&#34;<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=O太&amp;ogmusic=フォールオブフォール　～ 秋めく滝&amp;fromwiki=TRIPLE_&quot;M&quot;"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:59</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=O%E5%A4%AA&amp;action=edit&amp;redlink=1" class="new" title="O太（页面不存在）">O太</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，O太&amp;fromwiki=TRIPLE_&quot;M&quot;"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=フォールオブフォール　～ 秋めく滝&amp;fromwiki=TRIPLE_&quot;M&quot;"><span></span></a></span><div class="ogmusic"><a href="./フォールオブフォール_～_秋めく滝.md" class="mw-redirect" title="フォールオブフォール ～ 秋めく滝">フォールオブフォール　～ 秋めく滝</a></div><div class="source"><a href="./东方风神录_～_Mountain_of_Faith..md" class="mw-redirect" title="东方风神录 ～ Mountain of Faith.">东方风神录　～ Mountain of Faith.</a></div></td></tr>
-<tr><td id="2" class="infoYD"><b>02</b></td><td id="METRO_FANTASIA_@Tokyo" colspan="2" class="title">METRO FANTASIA @Tokyo<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=O太&amp;ogmusic=ネクロファンタジア&amp;fromwiki=TRIPLE_&quot;M&quot;"><span title="搜索相似同人曲"></span></a></span></td><td class="time">06:30</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=O%E5%A4%AA&amp;action=edit&amp;redlink=1" class="new" title="O太（页面不存在）">O太</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，O太&amp;fromwiki=TRIPLE_&quot;M&quot;"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=ネクロファンタジア&amp;fromwiki=TRIPLE_&quot;M&quot;"><span></span></a></span><div class="ogmusic"><a href="./ネクロファンタジア.md" class="mw-redirect" title="ネクロファンタジア">ネクロファンタジア</a></div><div class="source"><a href="./东方妖妖梦_～_Perfect_Cherry_Blossom..md" class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr></tbody></table>
-
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="TRIP_TRIPLE_&quot;M&quot;" colspan="2" class="title">TRIP TRIPLE "M"</td><td class="time">04:59</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="O太（页面不存在）">O太</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./Fall_of_Fall_～_秋意渐浓之瀑.md" class="mw-redirect" title="フォールオブフォール ～ 秋めく滝">フォールオブフォール　～ 秋めく滝</a></div><div class="source"><a href="./东方风神录.md" class="mw-redirect" title="东方风神录 ～ Mountain of Faith.">东方风神录　～ Mountain of Faith.</a></div></td></tr>
+<tr><td id="2" class="infoYD"><b>02</b></td><td id="METRO_FANTASIA_@Tokyo" colspan="2" class="title">METRO FANTASIA @Tokyo</td><td class="time">06:30</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="O太（页面不存在）">O太</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./Necro-Fantasia.md" class="mw-redirect" title="ネクロファンタジア">ネクロファンタジア</a></div><div class="source"><a href="./东方妖妖梦.md" class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr></tbody></table>
 
 
 ## 评论
-
-
-
 
 ---
 

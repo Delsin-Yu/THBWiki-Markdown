@@ -1,6 +1,6 @@
 # 文件:風祝紅魔郷_Re：Birth封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9e\ns6%3A%E9%A2%A8%E7%A5%9D%E7%B4%85%E9%AD%94%E9%83%B7_Re%EF%BC%9ABirth%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9e\ns6%3A%E9%A2%A8%E7%A5%9D%E7%B4%85%E9%AD%94%E9%83%B7_Re%EF%BC%9ABirth%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 すいはんじゃー | 同人志封面 | 封面图片
 
@@ -10,16 +10,14 @@
 使用了本文件作封面图片的作品：
   
 
-- [風祝紅魔郷 Re：Birth](./風祝紅魔郷_Re：Birth.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [东风谷早苗](./东风谷早苗.md)- [雾雨魔理沙](./雾雨魔理沙.md)
+- [風祝紅魔郷 Re：Birth](./風祝紅魔郷_Re：Birth.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [东风谷早苗](./东风谷早苗.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-源地址：[direct image link](http://suihanjar.web.fc2.com/cov88.png), [source page](http://suihanjar.web.fc2.com/C88.html)
-  
-
-
-
-
+源地址：[direct image link](http://suihanjar.web.fc2.com/cov88.png), [source page](http://suihanjar.web.fc2.com/C88.html)  
 
 ---
 

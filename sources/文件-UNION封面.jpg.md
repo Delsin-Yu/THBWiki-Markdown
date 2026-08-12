@@ -1,6 +1,6 @@
 # 文件:UNION封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ed\ns6%3AUNION%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ed\ns6%3AUNION%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Sound_Refil | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ Sound_Refil | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [UNION](./UNION.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [UNION](./UNION.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

@@ -1,16 +1,11 @@
 # 文件:Matutinum_Miserabilislogo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4d\ns6%3AMatutinum_Miserabilislogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4d\ns6%3AMatutinum_Miserabilislogo%2Ejpg.html -->
 
 Matutinum_Miserabilis | 社团LOGO
 
   
-源地址：[[1]](https://scontent.fyvr4-1.fna.fbcdn.net/v/t31.0-8/20287219_1428560640543846_1132454744535102769_o.jpg?_nc_cat=103&amp;_nc_oc=AQlWaEC4T8gYVXHZdcS2Iwvss7jEO2UoilYOqly7uM547wytdf2nRwCe4m0UG94eVK0&amp;_nc_ht=scontent.fyvr4-1.fna&amp;oh=bcfd9909465d221cce8099e579c3bb35&amp;oe=5DAB5536)
-  
-
-
-
-
+源地址：[\[1\]](https://scontent.fyvr4-1.fna.fbcdn.net/v/t31.0-8/20287219_1428560640543846_1132454744535102769_o.jpg?_nc_cat=103&_nc_oc=AQlWaEC4T8gYVXHZdcS2Iwvss7jEO2UoilYOqly7uM547wytdf2nRwCe4m0UG94eVK0&_nc_ht=scontent.fyvr4-1.fna&oh=bcfd9909465d221cce8099e579c3bb35&oe=5DAB5536)  
 
 ---
 

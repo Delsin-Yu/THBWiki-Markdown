@@ -1,6 +1,6 @@
 # 文件:TETRIS封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a8\ns6%3ATETRIS%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a8\ns6%3ATETRIS%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 六角亭戒酒互助会 | 同人志封面 | 封面图片 | 白玉家
 
@@ -10,9 +10,6 @@
   
 
 - [TETRIS](./TETRIS.md)
-
-
-
 
 
 ---

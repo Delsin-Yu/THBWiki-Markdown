@@ -1,6 +1,6 @@
 # 文件:ミステリー作家Qの事件簿Ⅰ封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1b\ns6%3A%E3%83%9F%E3%82%B9%E3%83%86%E3%83%AA%E3%83%BC%E4%BD%9C%E5%AE%B6Q%E3%81%AE%E4%BA%8B%E4%BB%B6%E7%B0%BF%E2%85%A0%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1b\ns6%3A%E3%83%9F%E3%82%B9%E3%83%86%E3%83%AA%E3%83%BC%E4%BD%9C%E5%AE%B6Q%E3%81%AE%E4%BA%8B%E4%BB%B6%E7%B0%BF%E2%85%A0%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Parallel_Station | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@ Parallel_Station | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [ミステリー作家Qの事件簿Ⅰ](./ミステリー作家Qの事件簿Ⅰ.md)  
-该封面包含的角色：- [稗田阿求](./稗田阿求.md)
+- [ミステリー作家Qの事件簿Ⅰ](./ミステリー作家Qの事件簿Ⅰ.md)该封面包含的角色：
+- [稗田阿求](./稗田阿求.md)
 
   
-源地址：[direct image link (max size)](https://s2.booth.pm/1c41e1d6-bca9-4206-b629-c1d7586fabb2/i/1132708/763e6928-3f55-46ee-a6ba-ed2c0545417c.png), [source page (circle booth)](https://tennnoumi.booth.pm/items/1132708)
-  
-
-
-
-
+源地址：[direct image link (max size)](https://s2.booth.pm/1c41e1d6-bca9-4206-b629-c1d7586fabb2/i/1132708/763e6928-3f55-46ee-a6ba-ed2c0545417c.png), [source page (circle booth)](https://tennnoumi.booth.pm/items/1132708)  
 
 ---
 

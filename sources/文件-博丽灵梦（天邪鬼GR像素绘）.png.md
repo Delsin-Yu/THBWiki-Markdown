@@ -1,12 +1,8 @@
 # 文件:博丽灵梦（天邪鬼GR像素绘）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5c\ns6%3A%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E5%A4%A9%E9%82%AA%E9%AC%BCGR%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5c\ns6%3A%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E5%A4%A9%E9%82%AA%E9%AC%BCGR%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89%2Epng.html -->
 
 博丽灵梦 | 官方游戏像素绘 | 弹幕天邪鬼
-
-
-
-
 
 
 ---

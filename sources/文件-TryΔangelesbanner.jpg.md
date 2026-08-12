@@ -1,12 +1,8 @@
 # 文件:TryΔangelesbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\65\ns6%3ATry%CE%94angelesbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\65\ns6%3ATry%CE%94angelesbanner%2Ejpg.html -->
 
 TryΔangeles | 社团LOGO
-
-
-
-
 
 
 ---

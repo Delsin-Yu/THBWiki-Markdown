@@ -1,6 +1,6 @@
 # 文件:Pray_-voiceless_version-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\28\ns6%3APray_-voiceless_version-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\28\ns6%3APray_-voiceless_version-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 岡垣正志＆フレンズ
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [Pray -voiceless version-](./Pray_-voiceless_version-.md)  
-该封面包含的角色：- [小恶魔](./小恶魔.md)- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
-
-
-
+- [Pray -voiceless version-](./Pray_-voiceless_version-.md)该封面包含的角色：
+- [小恶魔](./小恶魔.md)
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
 
 
 ---

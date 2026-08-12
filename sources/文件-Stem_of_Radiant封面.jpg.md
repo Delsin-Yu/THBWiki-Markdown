@@ -1,6 +1,6 @@
 # 文件:Stem_of_Radiant封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3c\ns6%3AStem_of_Radiant%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3c\ns6%3AStem_of_Radiant%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Alstroemeria_Records | Cradle（同人社团） | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ Alstroemeria_Records | Cradle（同人社团） | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Stem of Radiant](./Stem_of_Radiant.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [八云紫](./八云紫.md)
-
-
-
+- [Stem of Radiant](./Stem_of_Radiant.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [八云紫](./八云紫.md)
 
 
 ---

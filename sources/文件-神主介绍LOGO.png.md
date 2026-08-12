@@ -1,12 +1,8 @@
 # 文件:神主介绍LOGO.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a3\ns6%3A%E7%A5%9E%E4%B8%BB%E4%BB%8B%E7%BB%8DLOGO%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a3\ns6%3A%E7%A5%9E%E4%B8%BB%E4%BB%8B%E7%BB%8DLOGO%2Epng.html -->
 
 幻乐团官网 | 神主介绍
-
-
-
-
 
 
 ---

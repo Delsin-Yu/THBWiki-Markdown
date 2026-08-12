@@ -1,6 +1,6 @@
 # 文件:マリアリ合同_『REASON』『あなたの長い髪』封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b4\ns6%3A%E3%83%9E%E3%83%AA%E3%82%A2%E3%83%AA%E5%90%88%E5%90%8C_%E3%80%8EREASON%E3%80%8F%E3%80%8E%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AE%E9%95%B7%E3%81%84%E9%AB%AA%E3%80%8F%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b4\ns6%3A%E3%83%9E%E3%83%AA%E3%82%A2%E3%83%AA%E5%90%88%E5%90%8C_%E3%80%8EREASON%E3%80%8F%E3%80%8E%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AE%E9%95%B7%E3%81%84%E9%AB%AA%E3%80%8F%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 狐の嫁入り
 
@@ -10,11 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [マリアリ合同 『REASON』『あなたの長い髪』](./マリアリ合同_『REASON』『あなたの長い髪』.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [八云紫](./八云紫.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [マリアリ合同 『REASON』『あなたの長い髪』](./マリアリ合同_『REASON』『あなたの長い髪』.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [八云紫](./八云紫.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

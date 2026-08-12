@@ -1,6 +1,6 @@
 # 文件:RED_RED_RED_CURTAIN封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7f\ns6%3ARED_RED_RED_CURTAIN%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7f\ns6%3ARED_RED_RED_CURTAIN%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 梶迫小道具店
 
@@ -8,16 +8,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [RED RED RED CURTAIN](./RED_RED_RED_CURTAIN.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [RED RED RED CURTAIN](./RED_RED_RED_CURTAIN.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
   
-源地址：[[1]](http://static.tumblr.com/b622d9ecbe6a4e77129d00011e835248/ceutwp6/kDrngguhi/tumblr_static_cxajv09vy74k880wcc0o88888.png)
-  
-
-
-
-
+源地址：[\[1\]](http://static.tumblr.com/b622d9ecbe6a4e77129d00011e835248/ceutwp6/kDrngguhi/tumblr_static_cxajv09vy74k880wcc0o88888.png)  
 
 ---
 

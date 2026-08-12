@@ -1,18 +1,13 @@
 # 文件:しゃむ'z_Patch_Workslogo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c1\ns6%3A%E3%81%97%E3%82%83%E3%82%80%27z_Patch_Workslogo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c1\ns6%3A%E3%81%97%E3%82%83%E3%82%80%27z_Patch_Workslogo%2Epng.html -->
 
 しゃむ'z_Patch_Works | 社团LOGO
 
 
 ## 摘要
   
-源地址：[direct image link (original size)](https://yt3.googleusercontent.com/ytc/APkrFKazTFZxlyQsu4Z55jTceNIIqdZhiG8iir1b63jx=s0?imgmax=0), [source page (Youtube channel logo)](https://www.youtube.com/@sh1090mienaichikara)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://yt3.googleusercontent.com/ytc/APkrFKazTFZxlyQsu4Z55jTceNIIqdZhiG8iir1b63jx=s0?imgmax=0), [source page (Youtube channel logo)](https://www.youtube.com/@sh1090mienaichikara)  
 
 ---
 

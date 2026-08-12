@@ -1,6 +1,6 @@
 # 文件:東方映画音楽選_-_TOHO_FILM_MUSIC_SELECTION_-_～_花舞う調べ封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9c\ns6%3A%E6%9D%B1%E6%96%B9%E6%98%A0%E7%94%BB%E9%9F%B3%E6%A5%BD%E9%81%B8_-_TOHO_FILM_MUSIC_SELECTION_-_%EF%BD%9E_%E8%8A%B1%E8%88%9E%E3%81%86%E8%AA%BF%E3%81%B9%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9c\ns6%3A%E6%9D%B1%E6%96%B9%E6%98%A0%E7%94%BB%E9%9F%B3%E6%A5%BD%E9%81%B8_-_TOHO_FILM_MUSIC_SELECTION_-_%EF%BD%9E_%E8%8A%B1%E8%88%9E%E3%81%86%E8%AA%BF%E3%81%B9%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Tutti_Sound | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Tutti_Sound | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方映画音楽選 - TOHO FILM MUSIC SELECTION - ～ 花舞う調べ](./東方映画音楽選_-_TOHO_FILM_MUSIC_SELECTION_-_～_花舞う調べ.md)  
-该封面包含的角色：- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)
-
-
-
+- [東方映画音楽選 - TOHO FILM MUSIC SELECTION - ～ 花舞う調べ](./東方映画音楽選_-_TOHO_FILM_MUSIC_SELECTION_-_～_花舞う調べ.md)该封面包含的角色：
+- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)
 
 
 ---

@@ -1,16 +1,12 @@
 # 文件:壯士紅茶館logo2.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\25\ns6%3A%E5%A3%AF%E5%A3%AB%E7%B4%85%E8%8C%B6%E9%A4%A8logo2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\25\ns6%3A%E5%A3%AF%E5%A3%AB%E7%B4%85%E8%8C%B6%E9%A4%A8logo2%2Epng.html -->
 
 壯士紅茶館 | 社团LOGO
 
   
 黑白logo
   
-
-
-
-
 
 ---
 

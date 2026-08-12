@@ -1,6 +1,6 @@
 # 文件:日出処神子・上_DL先行版封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\62\ns6%3A%E6%97%A5%E5%87%BA%E5%87%A6%E7%A5%9E%E5%AD%90%E3%83%BB%E4%B8%8A_DL%E5%85%88%E8%A1%8C%E7%89%88%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\62\ns6%3A%E6%97%A5%E5%87%BA%E5%87%A6%E7%A5%9E%E5%AD%90%E3%83%BB%E4%B8%8A_DL%E5%85%88%E8%A1%8C%E7%89%88%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 WBR | 同人志封面 | 封面图片
 
@@ -8,11 +8,10 @@ WBR | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [日出処神子・上 DL先行版](./日出処神子・上_DL先行版.md)  
-该封面包含的角色：- [苏我屠自古](./苏我屠自古.md)- [物部布都](./物部布都.md)- [丰聪耳神子](./丰聪耳神子.md)
-
-
-
+- [日出処神子・上 DL先行版](./日出処神子・上_DL先行版.md)该封面包含的角色：
+- [苏我屠自古](./苏我屠自古.md)
+- [物部布都](./物部布都.md)
+- [丰聪耳神子](./丰聪耳神子.md)
 
 
 ---

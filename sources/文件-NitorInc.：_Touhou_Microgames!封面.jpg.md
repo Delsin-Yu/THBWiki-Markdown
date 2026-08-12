@@ -1,6 +1,6 @@
 # 文件:NitorInc.：_Touhou_Microgames!封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\10\ns6%3ANitorInc%2E%EF%BC%9A_Touhou_Microgames%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\10\ns6%3ANitorInc%2E%EF%BC%9A_Touhou_Microgames%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 NitorInc._Collab | 封面图片 | 软件封面
 
@@ -8,11 +8,8 @@ NitorInc._Collab | 封面图片 | 软件封面
 使用了本文件作封面图片的作品：
   
 
-- [NitorInc.： Touhou Microgames!](./NitorInc.：_Touhou_Microgames!.md)  
-该封面包含的角色：- [河城荷取](./河城荷取.md)
-
-
-
+- [NitorInc.： Touhou Microgames!](./NitorInc.：_Touhou_Microgames!.md)该封面包含的角色：
+- [河城荷取](./河城荷取.md)
 
 
 ---

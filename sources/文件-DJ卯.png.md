@@ -1,12 +1,8 @@
 # 文件:DJ卯.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3d\ns6%3ADJ%E5%8D%AF%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3d\ns6%3ADJ%E5%8D%AF%2Epng.html -->
 
 ドリル乳繰り
-
-
-
-
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:龙鱼「龙宫使者的游泳弹」（DS文花帖）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ee\ns6%3A%E9%BE%99%E9%B1%BC%E3%80%8C%E9%BE%99%E5%AE%AB%E4%BD%BF%E8%80%85%E7%9A%84%E6%B8%B8%E6%B3%B3%E5%BC%B9%E3%80%8D%EF%BC%88DS%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ee\ns6%3A%E9%BE%99%E9%B1%BC%E3%80%8C%E9%BE%99%E5%AE%AB%E4%BD%BF%E8%80%85%E7%9A%84%E6%B8%B8%E6%B3%B3%E5%BC%B9%E3%80%8D%EF%BC%88DS%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Ejpg.html -->
 
 东方文花帖DS | 敌机符卡 | 永江衣玖
-
-
-
-
 
 
 ---

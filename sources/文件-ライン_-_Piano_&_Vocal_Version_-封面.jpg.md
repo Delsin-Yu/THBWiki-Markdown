@@ -1,6 +1,6 @@
 # 文件:ライン_-_Piano_&_Vocal_Version_-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c3\ns6%3A%E3%83%A9%E3%82%A4%E3%83%B3_-_Piano_%26_Vocal_Version_-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c3\ns6%3A%E3%83%A9%E3%82%A4%E3%83%B3_-_Piano_%26_Vocal_Version_-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Liz_Triangle | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@ Liz_Triangle | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [ライン - Piano &amp; Vocal Version -](./ライン_-_Piano_&_Vocal_Version_-.md)  
-该封面包含的角色：- [物部布都](./物部布都.md)
+- [ライン - Piano & Vocal Version -](./ライン_-_Piano_&_Vocal_Version_-.md)该封面包含的角色：
+- [物部布都](./物部布都.md)
 
   
-源地址：[[1]](https://pbs.twimg.com/media/FzdnLBeaQAEM-mH?format=jpg&amp;name=orig)
-  
-
-
-
-
+源地址：[\[1\]](https://pbs.twimg.com/media/FzdnLBeaQAEM-mH?format=jpg&name=orig)  
 
 ---
 

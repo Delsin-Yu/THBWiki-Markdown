@@ -1,14 +1,11 @@
 # 文件:菊政宗banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f1\ns6%3A%E8%8F%8A%E6%94%BF%E5%AE%97banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f1\ns6%3A%E8%8F%8A%E6%94%BF%E5%AE%97banner%2Egif.html -->
 
 社团LOGO | 菊政宗
 
 
 ## 文件说明
-
-
-
 
 ---
 

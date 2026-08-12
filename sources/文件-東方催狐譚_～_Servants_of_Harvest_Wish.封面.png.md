@@ -1,6 +1,6 @@
 # 文件:東方催狐譚_～_Servants_of_Harvest_Wish.封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5f\ns6%3A%E6%9D%B1%E6%96%B9%E5%82%AC%E7%8B%90%E8%AD%9A_%EF%BD%9E_Servants_of_Harvest_Wish%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5f\ns6%3A%E6%9D%B1%E6%96%B9%E5%82%AC%E7%8B%90%E8%AD%9A_%EF%BD%9E_Servants_of_Harvest_Wish%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Dream_Compass | 封面图片 | 软件封面
 
@@ -8,11 +8,8 @@ Dream_Compass | 封面图片 | 软件封面
 使用了本文件作封面图片的作品：
   
 
-- [東方催狐譚 ～ Servants of Harvest Wish.](./東方催狐譚_～_Servants_of_Harvest_Wish..md)  
-该封面包含的角色：- [影面](./影面.md)
-
-
-
+- [東方催狐譚 ～ Servants of Harvest Wish.](./東方催狐譚_～_Servants_of_Harvest_Wish..md)该封面包含的角色：
+- [影面](./影面.md)
 
 
 ---

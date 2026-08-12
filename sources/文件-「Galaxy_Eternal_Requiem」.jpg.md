@@ -1,12 +1,8 @@
 # 文件:「Galaxy_Eternal_Requiem」.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\eb\ns6%3A%E3%80%8CGalaxy_Eternal_Requiem%E3%80%8D%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\eb\ns6%3A%E3%80%8CGalaxy_Eternal_Requiem%E3%80%8D%2Ejpg.html -->
 
 東方邪星章製作チーム
-
-
-
-
 
 
 ---

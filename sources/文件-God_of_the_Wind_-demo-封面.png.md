@@ -1,6 +1,6 @@
 # 文件:God_of_the_Wind_-demo-封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0d\ns6%3AGod_of_the_Wind_-demo-%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0d\ns6%3AGod_of_the_Wind_-demo-%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 非現実境界
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [God of the Wind -demo-](./God_of_the_Wind_-demo-.md)  
-该封面包含的角色：- [封兽鵺](./封兽鵺.md)
-
-
-
+- [God of the Wind -demo-](./God_of_the_Wind_-demo-.md)该封面包含的角色：
+- [封兽鵺](./封兽鵺.md)
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:THD2恶魔之翼.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a8\ns6%3ATHD2%E6%81%B6%E9%AD%94%E4%B9%8B%E7%BF%BC%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a8\ns6%3ATHD2%E6%81%B6%E9%AD%94%E4%B9%8B%E7%BF%BC%2Epng.html -->
 
 AvalonStudioOfficial
-
-
-
-
 
 
 ---

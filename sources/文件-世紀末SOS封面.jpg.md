@@ -1,6 +1,6 @@
 # 文件:世紀末SOS封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0a\ns6%3A%E4%B8%96%E7%B4%80%E6%9C%ABSOS%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0a\ns6%3A%E4%B8%96%E7%B4%80%E6%9C%ABSOS%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 森羅万象
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [世紀末SOS](./世紀末SOS.md)  
-该封面包含的角色：- [键山雏](./键山雏.md)
-
-
-
+- [世紀末SOS](./世紀末SOS.md)该封面包含的角色：
+- [键山雏](./键山雏.md)
 
 
 ---

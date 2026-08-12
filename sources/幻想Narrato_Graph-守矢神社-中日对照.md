@@ -1,11 +1,10 @@
 # 幻想Narrato_Graph/守矢神社/中日对照
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\7\75\ns0%3A%E5%B9%BB%E6%83%B3Narrato_Graph%2F%E5%AE%88%E7%9F%A2%E7%A5%9E%E7%A4%BE%2F%E4%B8%AD%E6%97%A5%E5%AF%B9%E7%85%A7.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\7\75\ns0%3A%E5%B9%BB%E6%83%B3Narrato_Graph%2F%E5%AE%88%E7%9F%A2%E7%A5%9E%E7%A4%BE%2F%E4%B8%AD%E6%97%A5%E5%AF%B9%E7%85%A7.html -->
 
 使用了翻译表的页面 | 幻想Narrato_Graph | 待完成页面
 
 <center>
-
 <table>
 <tbody><tr>
 <td class="mbox-image"><div style="width: 52px;">
@@ -14,43 +13,17 @@
 </tr>
 </tbody></table>
 
-
 </center>
 - 本章节于书中页数：第254页
-
-  
-  
-
-  
-  
-  
-
-  
 
 
 <table><tbody><tr class="tt-content-header" id="=-1" data-pos="&#91;&quot;=&quot;,1&#93;"><td class="tt-jah" lang="ja"><div class="poem"><big><big>守矢神社</big></big></div></td><td class="tt-zhh" lang="zh"><div class="poem"><big><big>守矢神社</big></big></div></td></tr><tr class="tt-content" id="=-2" data-pos="&#91;&quot;=&quot;,2&#93;"><td class="tt-ja" lang="ja"><div class="poem"><small>２ 妖怪の山エリア</small></div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-content" id="=-3" data-pos="&#91;&quot;=&quot;,3&#93;"><td class="tt-ja" lang="ja"><div class="poem">指定タグ：<big>《守矢神社》</big></div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr></tbody></table>
 
 
-  
-  
-
-  
-
-
 <table><tbody><tr class="tt-content" id="=-5" data-pos="&#91;&quot;=&quot;,5&#93;"><td class="tt-ja" lang="ja"><div class="poem"><big><b>「ロープウェイもできてますます便利ね。屋台を出せば博麗神社より儲かりそう！」（ミスティア・ローレライ）</b></big></div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-content" id="=-6" data-pos="&#91;&quot;=&quot;,6&#93;"><td class="tt-ja" lang="ja"><div class="poem">　妖怪の山にある神社。ここには八坂神奈子、洩矢諏訪子、東風谷早苗の三人の神様が住んでいます。近くに美しい湖があり、景勝地としても有名です。最近はロープウェイが完成し、人間の参拝客も増えました。典型的な現代の観光神社です。<br>　観光に力を入れているとはいえ、妖怪の山は妖怪だらけなので人間にはとても危険です。また、一部の妖怪にとっても人間に山に入られることは不快で、常に守矢神社の周りは一触即発な状態です。その辺は、神奈子らが幻想郷ができた頃の事情を知らない事が原因の一つかも知れません。人間を襲いたくても、公然と襲うわけにはいけない、しかしどうせ襲われないと人間に思われてしまうのも、妖怪の存亡に関わる。と言うわけで、守矢神社は妖怪のジレンマを生み出してしまっているのです。</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr></tbody></table>
 
 
-
 <table><tbody><tr class="tt-content-header" id="=-8" data-pos="&#91;&quot;=&quot;,8&#93;"><td class="tt-jah" lang="ja"><div class="poem">アドバイス</div></td><td class="tt-zhh" lang="zh"><div class="poem">Advice</div></td></tr><tr class="tt-content" id="=-9" data-pos="&#91;&quot;=&quot;,9&#93;"><td class="tt-ja" lang="ja"><div class="poem">妖怪の山エリアの最奥にあるスポットです。「命蓮寺」同様に【霊力】を獲得することができますが、立地が立地ですので命蓮寺より駆け込み神社としては使い勝手はよろしくないかもしれません。PCに洩矢諏訪子がいると、能力スキルの特殊効果によって、「人間の里」と簡単に行き来できるようになり、一気にアクセスがよくなります。</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr></tbody></table>
-
-
-  
-  
-
-  
-
-
-
 
 
 ---

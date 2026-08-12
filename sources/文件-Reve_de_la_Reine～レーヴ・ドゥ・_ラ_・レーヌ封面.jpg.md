@@ -1,6 +1,6 @@
 # 文件:Reve_de_la_Reine～レーヴ・ドゥ・_ラ_・レーヌ封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0e\ns6%3AReve_de_la_Reine%EF%BD%9E%E3%83%AC%E3%83%BC%E3%83%B4%E3%83%BB%E3%83%89%E3%82%A5%E3%83%BB_%E3%83%A9_%E3%83%BB%E3%83%AC%E3%83%BC%E3%83%8C%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0e\ns6%3AReve_de_la_Reine%EF%BD%9E%E3%83%AC%E3%83%BC%E3%83%B4%E3%83%BB%E3%83%89%E3%82%A5%E3%83%BB_%E3%83%A9_%E3%83%BB%E3%83%AC%E3%83%BC%E3%83%8C%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 フーリンキャットマーク | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Reve de la Reine～レーヴ・ドゥ・ ラ ・レーヌ](./Reve_de_la_Reine～レーヴ・ドゥ・_ラ_・レーヌ.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [Reve de la Reine～レーヴ・ドゥ・ ラ ・レーヌ](./Reve_de_la_Reine～レーヴ・ドゥ・_ラ_・レーヌ.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

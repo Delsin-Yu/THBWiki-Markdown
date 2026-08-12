@@ -1,18 +1,13 @@
 # 文件:东方智灵奇传_迷宫篇_第4卷_AKIBA-HOBBY_特典-1.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a7\ns6%3A%E4%B8%9C%E6%96%B9%E6%99%BA%E7%81%B5%E5%A5%87%E4%BC%A0_%E8%BF%B7%E5%AE%AB%E7%AF%87_%E7%AC%AC4%E5%8D%B7_AKIBA-HOBBY_%E7%89%B9%E5%85%B8-1%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a7\ns6%3A%E4%B8%9C%E6%96%B9%E6%99%BA%E7%81%B5%E5%A5%87%E4%BC%A0_%E8%BF%B7%E5%AE%AB%E7%AF%87_%E7%AC%AC4%E5%8D%B7_AKIBA-HOBBY_%E7%89%B9%E5%85%B8-1%2Ejpg.html -->
 
 AKIBA-HOBBY | 东方智灵奇传 | 官方特典
 
 
 ## 摘要
   
-源地址：[AKIBA-HOBBY](https://cdn.shopify.com/s/files/1/0270/2812/7807/files/touhou_comic_kadokawa_4580371416373_1.jpg)
-  
-
-
-
-
+源地址：[AKIBA-HOBBY](https://cdn.shopify.com/s/files/1/0270/2812/7807/files/touhou_comic_kadokawa_4580371416373_1.jpg)  
 
 ---
 

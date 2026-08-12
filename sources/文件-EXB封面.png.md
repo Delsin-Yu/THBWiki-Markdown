@@ -1,6 +1,6 @@
 # 文件:EXB封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\da\ns6%3AEXB%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\da\ns6%3AEXB%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 梶迫小道具店
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [EXB](./EXB.md)  
-该封面包含的角色：- [八云紫](./八云紫.md)
-
-
-
+- [EXB](./EXB.md)该封面包含的角色：
+- [八云紫](./八云紫.md)
 
 
 ---

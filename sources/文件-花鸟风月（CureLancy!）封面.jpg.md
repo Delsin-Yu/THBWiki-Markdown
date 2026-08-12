@@ -1,6 +1,6 @@
 # 文件:花鸟风月（CureLancy!）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\20\ns6%3A%E8%8A%B1%E9%B8%9F%E9%A3%8E%E6%9C%88%EF%BC%88CureLancy%21%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\20\ns6%3A%E8%8A%B1%E9%B8%9F%E9%A3%8E%E6%9C%88%EF%BC%88CureLancy%21%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 CureLancy! | 同人志封面 | 封面图片
 
@@ -10,11 +10,9 @@ CureLancy! | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [花鸟风月（CureLancy!）](./花鸟风月（CureLancy!）.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [八云紫](./八云紫.md)
-
-
-
+- [花鸟风月（CureLancy!）](./花鸟风月（CureLancy!）.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [八云紫](./八云紫.md)
 
 
 ---

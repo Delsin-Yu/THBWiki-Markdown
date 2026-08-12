@@ -1,6 +1,6 @@
 # 文件:東方アイリッシュ3（仮）Preview封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e6\ns6%3A%E6%9D%B1%E6%96%B9%E3%82%A2%E3%82%A4%E3%83%AA%E3%83%83%E3%82%B7%E3%83%A53%EF%BC%88%E4%BB%AE%EF%BC%89Preview%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e6\ns6%3A%E6%9D%B1%E6%96%B9%E3%82%A2%E3%82%A4%E3%83%AA%E3%83%83%E3%82%B7%E3%83%A53%EF%BC%88%E4%BB%AE%EF%BC%89Preview%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Floating_Cloud | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Floating_Cloud | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方アイリッシュ3（仮）Preview](./東方アイリッシュ3（仮）Preview.md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)
-
-
-
+- [東方アイリッシュ3（仮）Preview](./東方アイリッシュ3（仮）Preview.md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
 
 
 ---

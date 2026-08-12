@@ -1,16 +1,11 @@
 # 文件:ピコクマbanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\52\ns6%3A%E3%83%94%E3%82%B3%E3%82%AF%E3%83%9Ebanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\52\ns6%3A%E3%83%94%E3%82%B3%E3%82%AF%E3%83%9Ebanner%2Egif.html -->
 
 ピコクマ | 社团LOGO
 
   
-源地址：[[1]](http://pikokuma.sakura.ne.jp/pics/piko_banner_200_40.GIF)
-  
-
-
-
-
+源地址：[\[1\]](http://pikokuma.sakura.ne.jp/pics/piko_banner_200_40.GIF)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:TOHO_PIANISM_III封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\87\ns6%3ATOHO_PIANISM_III%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\87\ns6%3ATOHO_PIANISM_III%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 SOUND_HOLIC | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ SOUND_HOLIC | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [TOHO PIANISM III](./TOHO_PIANISM_III.md)  
-该封面包含的角色：- [克劳恩皮丝](./克劳恩皮丝.md)
+- [TOHO PIANISM III](./TOHO_PIANISM_III.md)该封面包含的角色：
+- [克劳恩皮丝](./克劳恩皮丝.md)
 
   
-源地址：[[1]](http://ec.akbh.jp/upload/save_image/pics/2100000072736.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://ec.akbh.jp/upload/save_image/pics/2100000072736.jpg)  
 
 ---
 

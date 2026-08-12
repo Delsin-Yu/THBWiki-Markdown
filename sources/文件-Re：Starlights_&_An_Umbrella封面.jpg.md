@@ -1,6 +1,6 @@
 # 文件:Re：Starlights_&_An_Umbrella封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\72\ns6%3ARe%EF%BC%9AStarlights_%26_An_Umbrella%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\72\ns6%3ARe%EF%BC%9AStarlights_%26_An_Umbrella%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 発熱巫女～ず
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Re：Starlights &amp; An Umbrella](./Re：Starlights_&_An_Umbrella.md)  
-该封面包含的角色：- [多多良小伞](./多多良小伞.md)
-
-
-
+- [Re：Starlights & An Umbrella](./Re：Starlights_&_An_Umbrella.md)该封面包含的角色：
+- [多多良小伞](./多多良小伞.md)
 
 
 ---

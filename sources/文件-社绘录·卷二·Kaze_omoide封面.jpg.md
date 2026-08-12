@@ -1,6 +1,6 @@
 # 文件:社绘录·卷二·Kaze_omoide封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f6\ns6%3A%E7%A4%BE%E7%BB%98%E5%BD%95%C2%B7%E5%8D%B7%E4%BA%8C%C2%B7Kaze_omoide%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f6\ns6%3A%E7%A4%BE%E7%BB%98%E5%BD%95%C2%B7%E5%8D%B7%E4%BA%8C%C2%B7Kaze_omoide%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 KOCHIYA | 同人志封面 | 封面图片
 
@@ -10,11 +10,10 @@ KOCHIYA | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [社绘录·卷二·Kaze omoide](./社绘录·卷二·Kaze_omoide.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [洩矢诹访子](./洩矢诹访子.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [社绘录·卷二·Kaze omoide](./社绘录·卷二·Kaze_omoide.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [洩矢诹访子](./洩矢诹访子.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

@@ -1,14 +1,11 @@
 # 文件:Eternal_Melodybanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3f\ns6%3AEternal_Melodybanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3f\ns6%3AEternal_Melodybanner%2Ejpg.html -->
 
 Eternal_Melody | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

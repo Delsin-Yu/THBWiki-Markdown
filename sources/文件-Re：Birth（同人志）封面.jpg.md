@@ -1,6 +1,6 @@
 # 文件:Re：Birth（同人志）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ea\ns6%3ARe%EF%BC%9ABirth%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ea\ns6%3ARe%EF%BC%9ABirth%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Cradle（同人社团） | 同人志封面 | 封面图片
 
@@ -10,16 +10,12 @@ Cradle（同人社团） | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Re：Birth（同人志）](./Re：Birth（同人志）.md)  
-该封面包含的角色：- [西行寺幽幽子](./西行寺幽幽子.md)
+- [Re：Birth（同人志）](./Re：Birth（同人志）.md)该封面包含的角色：
+- [西行寺幽幽子](./西行寺幽幽子.md)
 
   
 [Danbooru ID: 120659](https://danbooru.donmai.us/posts/120659) (source URL was used on release posts [here](https://web.archive.org/web/20080509045343/http://cradle.cc/?p=44) and [here](https://web.archive.org/web/20071124003757/http://cradle.cc/?p=47))
   
-
-
-
-
 
 ---
 

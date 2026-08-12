@@ -1,6 +1,6 @@
 # 文件:罪と矛先_～Shattered_guilty封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\05\ns6%3A%E7%BD%AA%E3%81%A8%E7%9F%9B%E5%85%88_%EF%BD%9EShattered_guilty%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\05\ns6%3A%E7%BD%AA%E3%81%A8%E7%9F%9B%E5%85%88_%EF%BD%9EShattered_guilty%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 僕を犬と呼ばないで | 同人志封面 | 封面图片
 
@@ -10,16 +10,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [罪と矛先 ～Shattered guilty](./罪と矛先_～Shattered_guilty.md)  
-该封面包含的角色：- [八云紫](./八云紫.md)- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)
+- [罪と矛先 ～Shattered guilty](./罪と矛先_～Shattered_guilty.md)该封面包含的角色：
+- [八云紫](./八云紫.md)
+- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)
 
   
-[Pixiv artwork ID: 12019552 (original size)](https://www.pixiv.net/artworks/12019552)
-  
-
-
-
-
+[Pixiv artwork ID: 12019552 (original size)](https://www.pixiv.net/artworks/12019552)  
 
 ---
 

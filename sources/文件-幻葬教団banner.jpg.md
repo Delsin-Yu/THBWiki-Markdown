@@ -1,12 +1,8 @@
 # 文件:幻葬教団banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\55\ns6%3A%E5%B9%BB%E8%91%AC%E6%95%99%E5%9B%A3banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\55\ns6%3A%E5%B9%BB%E8%91%AC%E6%95%99%E5%9B%A3banner%2Ejpg.html -->
 
 幻葬教団 | 社团LOGO
-
-
-
-
 
 
 ---

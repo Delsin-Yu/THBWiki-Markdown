@@ -1,12 +1,8 @@
 # 文件:THD2贤者之石.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6b\ns6%3ATHD2%E8%B4%A4%E8%80%85%E4%B9%8B%E7%9F%B3%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6b\ns6%3ATHD2%E8%B4%A4%E8%80%85%E4%B9%8B%E7%9F%B3%2Epng.html -->
 
 AvalonStudioOfficial
-
-
-
-
 
 
 ---

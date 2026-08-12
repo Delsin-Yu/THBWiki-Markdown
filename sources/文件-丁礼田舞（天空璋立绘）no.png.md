@@ -1,12 +1,8 @@
 # 文件:丁礼田舞（天空璋立绘）no.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\29\ns6%3A%E4%B8%81%E7%A4%BC%E7%94%B0%E8%88%9E%EF%BC%88%E5%A4%A9%E7%A9%BA%E7%92%8B%E7%AB%8B%E7%BB%98%EF%BC%89no%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\29\ns6%3A%E4%B8%81%E7%A4%BC%E7%94%B0%E8%88%9E%EF%BC%88%E5%A4%A9%E7%A9%BA%E7%92%8B%E7%AB%8B%E7%BB%98%EF%BC%89no%2Epng.html -->
 
 ZUN绘 | 丁礼田舞 | 东方天空璋 | 官方游戏立绘
-
-
-
-
 
 
 ---

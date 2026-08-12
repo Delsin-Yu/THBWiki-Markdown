@@ -1,12 +1,11 @@
 # 亭上满月映西枝~The_Forever_Moon
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\c\c1\ns0%3A%E4%BA%AD%E4%B8%8A%E6%BB%A1%E6%9C%88%E6%98%A0%E8%A5%BF%E6%9E%9D%7EThe_Forever_Moon.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\c\c1\ns0%3A%E4%BA%AD%E4%B8%8A%E6%BB%A1%E6%9C%88%E6%98%A0%E8%A5%BF%E6%9E%9D%7EThe_Forever_Moon.html -->
 
 2020年6月13日 由 凝冰剑斩  发布的AVG同人游戏，可在 Windows 系统上运行，游戏人数为 单人模式，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人软件 (未找到链接)** 的词条
-
+**[二次创作同人软件](./二次创作.md#同人软件)**的词条
 ## 软件信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-亭上满月映西枝~The_Forever_Moon封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/b/bb/%E4%BA%AD%E4%B8%8A%E6%BB%A1%E6%9C%88%E6%98%A0%E8%A5%BF%E6%9E%9D~The_Forever_Moon%E5%B0%81%E9%9D%A2.jpg/224px-%E4%BA%AD%E4%B8%8A%E6%BB%A1%E6%9C%88%E6%98%A0%E8%A5%BF%E6%9E%9D~The_Forever_Moon%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="105" srcset="https://upload.thwiki.cc/thumb/b/bb/%E4%BA%AD%E4%B8%8A%E6%BB%A1%E6%9C%88%E6%98%A0%E8%A5%BF%E6%9E%9D~The_Forever_Moon%E5%B0%81%E9%9D%A2.jpg/336px-%E4%BA%AD%E4%B8%8A%E6%BB%A1%E6%9C%88%E6%98%A0%E8%A5%BF%E6%9E%9D~The_Forever_Moon%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/b/bb/%E4%BA%AD%E4%B8%8A%E6%BB%A1%E6%9C%88%E6%98%A0%E8%A5%BF%E6%9E%9D~The_Forever_Moon%E5%B0%81%E9%9D%A2.jpg/448px-%E4%BA%AD%E4%B8%8A%E6%BB%A1%E6%9C%88%E6%98%A0%E8%A5%BF%E6%9E%9D~The_Forever_Moon%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="460" data-file-height="215"></a><div class="cover-char">角色：<a href="./蓬莱山辉夜.md" title="蓬莱山辉夜">蓬莱山辉夜</a>，<a href="./藤原妹红.md" title="藤原妹红">藤原妹红</a></div></td>
@@ -15,9 +14,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://weibo.com/5873924195/J2WtHxP1U">https://weibo.com/5873924195/J2WtHxP1U</a></td></tr></tbody></table>
 
 亭上满月映西枝~The Forever Moon（同人游戏，凝冰剑斩，2020） - 2020年6月13日 由 凝冰剑斩  发布的AVG同人游戏，可在 Windows 系统上运行，游戏人数为 单人模式，分级为 一般向
-
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://store.steampowered.com/app/1327020">Steam</a></td></tr></tbody></table>
-
 
 
 <table>
@@ -26,17 +23,14 @@
 </tbody></table>
 
 
-
 ## 内容页面
+
 - 游戏设定与剧情 (未找到链接)
 - 攻略 (未找到链接)
 - 其他信息 (未找到链接)
 
 
 ## 评论
-
-
-
 
 ---
 

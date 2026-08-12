@@ -1,6 +1,6 @@
 # 文件:DUO_secret_paradise封面.jpeg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f9\ns6%3ADUO_secret_paradise%E5%B0%81%E9%9D%A2%2Ejpeg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f9\ns6%3ADUO_secret_paradise%E5%B0%81%E9%9D%A2%2Ejpeg.html -->
 
 UnLimited_Questions | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ UnLimited_Questions | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [DUO secret paradise](./DUO_secret_paradise.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [DUO secret paradise](./DUO_secret_paradise.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

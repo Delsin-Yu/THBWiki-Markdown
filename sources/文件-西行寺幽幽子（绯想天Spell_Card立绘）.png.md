@@ -1,12 +1,8 @@
 # 文件:西行寺幽幽子（绯想天Spell_Card立绘）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b7\ns6%3A%E8%A5%BF%E8%A1%8C%E5%AF%BA%E5%B9%BD%E5%B9%BD%E5%AD%90%EF%BC%88%E7%BB%AF%E6%83%B3%E5%A4%A9Spell_Card%E7%AB%8B%E7%BB%98%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b7\ns6%3A%E8%A5%BF%E8%A1%8C%E5%AF%BA%E5%B9%BD%E5%B9%BD%E5%AD%90%EF%BC%88%E7%BB%AF%E6%83%B3%E5%A4%A9Spell_Card%E7%AB%8B%E7%BB%98%EF%BC%89%2Epng.html -->
 
 Alphes绘 | 东方绯想天 | 官方游戏立绘
-
-
-
-
 
 
 ---

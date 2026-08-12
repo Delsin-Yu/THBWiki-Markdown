@@ -1,16 +1,11 @@
 # 文件:Ma-Hi-Tebanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\76\ns6%3AMa-Hi-Tebanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\76\ns6%3AMa-Hi-Tebanner%2Epng.html -->
 
 Ma-Hi-Te | 社团LOGO
 
   
-源地址：[[1]](http://ma-hi-te.com/banner/banner_ma-hi-te.png)
-  
-
-
-
-
+源地址：[\[1\]](http://ma-hi-te.com/banner/banner_ma-hi-te.png)  
 
 ---
 

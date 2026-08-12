@@ -1,6 +1,6 @@
 # 文件:东方妖精武踏会_-_Touhou_Fairy_Knockout_~_One_fairy_to_rule_them_all封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\57\ns6%3A%E4%B8%9C%E6%96%B9%E5%A6%96%E7%B2%BE%E6%AD%A6%E8%B8%8F%E4%BC%9A_-_Touhou_Fairy_Knockout_%7E_One_fairy_to_rule_them_all%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\57\ns6%3A%E4%B8%9C%E6%96%B9%E5%A6%96%E7%B2%BE%E6%AD%A6%E8%B8%8F%E4%BC%9A_-_Touhou_Fairy_Knockout_%7E_One_fairy_to_rule_them_all%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 二色幽紫蝶 | 封面图片 | 软件封面
 
@@ -10,11 +10,16 @@
 使用了本文件作封面图片的作品：
   
 
-- [东方妖精武踏会 - Touhou Fairy Knockout ~ One fairy to rule them all](./东方妖精武踏会_-_Touhou_Fairy_Knockout_~_One_fairy_to_rule_them_all.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)- [大妖精](./大妖精.md)- [莉莉霍瓦特](./莉莉霍瓦特.md)- [露娜切露德](./露娜切露德.md)- [桑尼米尔克](./桑尼米尔克.md)- [斯塔萨菲雅](./斯塔萨菲雅.md)- 原创角色 (未找到链接)- [克劳恩皮丝](./克劳恩皮丝.md)- [爱塔妮缇拉尔瓦](./爱塔妮缇拉尔瓦.md)
-
-
-
+- [东方妖精武踏会 - Touhou Fairy Knockout ~ One fairy to rule them all](./东方妖精武踏会_-_Touhou_Fairy_Knockout_~_One_fairy_to_rule_them_all.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
+- [大妖精](./大妖精.md)
+- [莉莉霍瓦特](./莉莉霍瓦特.md)
+- [露娜切露德](./露娜切露德.md)
+- [桑尼米尔克](./桑尼米尔克.md)
+- [斯塔萨菲雅](./斯塔萨菲雅.md)
+- 原创角色 (未找到链接)
+- [克劳恩皮丝](./克劳恩皮丝.md)
+- [爱塔妮缇拉尔瓦](./爱塔妮缇拉尔瓦.md)
 
 
 ---

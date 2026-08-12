@@ -1,6 +1,6 @@
 # 文件:HEROIC_reVERSE封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\05\ns6%3AHEROIC_reVERSE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\05\ns6%3AHEROIC_reVERSE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Dimension's_Gate | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Dimension's_Gate | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [HEROIC reVERSE](./HEROIC_reVERSE.md)  
-该封面包含的角色：- [饭纲丸龙](./饭纲丸龙.md)
-
-
-
+- [HEROIC reVERSE](./HEROIC_reVERSE.md)该封面包含的角色：
+- [饭纲丸龙](./饭纲丸龙.md)
 
 
 ---

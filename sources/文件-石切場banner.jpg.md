@@ -1,14 +1,11 @@
 # 文件:石切場banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\27\ns6%3A%E7%9F%B3%E5%88%87%E5%A0%B4banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\27\ns6%3A%E7%9F%B3%E5%88%87%E5%A0%B4banner%2Ejpg.html -->
 
 石切場 | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

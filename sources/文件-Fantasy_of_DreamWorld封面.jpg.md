@@ -1,6 +1,6 @@
 # 文件:Fantasy_of_DreamWorld封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ac\ns6%3AFantasy_of_DreamWorld%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ac\ns6%3AFantasy_of_DreamWorld%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Misfortune_Productions | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Misfortune_Productions | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Fantasy of DreamWorld](./Fantasy_of_DreamWorld.md)  
-该封面包含的角色：- [八云紫](./八云紫.md)
+- [Fantasy of DreamWorld](./Fantasy_of_DreamWorld.md)该封面包含的角色：
+- [八云紫](./八云紫.md)
 
   
-源地址：[direct image link](https://i1.sndcdn.com/artworks-000579793595-ixxa72-t500x500.jpg), [source upload](https://soundcloud.com/misfortuneproductions/c96-fantasy-of-dreamworld-xfd)
-  
-
-
-
-
+源地址：[direct image link](https://i1.sndcdn.com/artworks-000579793595-ixxa72-t500x500.jpg), [source upload](https://soundcloud.com/misfortuneproductions/c96-fantasy-of-dreamworld-xfd)  
 
 ---
 

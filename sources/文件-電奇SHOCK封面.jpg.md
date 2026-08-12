@@ -1,6 +1,6 @@
 # 文件:電奇SHOCK封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c7\ns6%3A%E9%9B%BB%E5%A5%87SHOCK%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c7\ns6%3A%E9%9B%BB%E5%A5%87SHOCK%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 USONAX | 同人志封面 | 封面图片
 
@@ -10,16 +10,12 @@ USONAX | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [電奇SHOCK](./電奇SHOCK.md)  
-该封面包含的角色：- [霍青娥](./霍青娥.md)- 原创角色 (未找到链接)
+- [電奇SHOCK](./電奇SHOCK.md)该封面包含的角色：
+- [霍青娥](./霍青娥.md)
+- 原创角色 (未找到链接)
 
   
-源地址：[direct image link (original uploaded image)](https://pbs.twimg.com/media/FB1K3hVUcAMxWhw?format=jpg&amp;name=orig), [source tweet](https://twitter.com/2qune/status/1449396979532910603)
-  
-
-
-
-
+源地址：[direct image link (original uploaded image)](https://pbs.twimg.com/media/FB1K3hVUcAMxWhw?format=jpg&name=orig), [source tweet](https://twitter.com/2qune/status/1449396979532910603)  
 
 ---
 

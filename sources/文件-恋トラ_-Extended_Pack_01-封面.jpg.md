@@ -1,6 +1,6 @@
 # 文件:恋トラ_-Extended_Pack_01-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\31\ns6%3A%E6%81%8B%E3%83%88%E3%83%A9_-Extended_Pack_01-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\31\ns6%3A%E6%81%8B%E3%83%88%E3%83%A9_-Extended_Pack_01-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Amateras_Records | 专辑封面 | 封面图片
 
@@ -10,11 +10,11 @@ Amateras_Records | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [恋トラ -Extended Pack 01-](./恋トラ_-Extended_Pack_01-.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)- [八云紫](./八云紫.md)- [键山雏](./键山雏.md)- [摩多罗隐岐奈](./摩多罗隐岐奈.md)
-
-
-
+- [恋トラ -Extended Pack 01-](./恋トラ_-Extended_Pack_01-.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
+- [八云紫](./八云紫.md)
+- [键山雏](./键山雏.md)
+- [摩多罗隐岐奈](./摩多罗隐岐奈.md)
 
 
 ---

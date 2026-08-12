@@ -1,12 +1,11 @@
 # Miserable_Mind_EP
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\5\55\ns0%3AMiserable_Mind_EP.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\5\55\ns0%3AMiserable_Mind_EP.html -->
 
 2019年8月16日 由 kita  发布的EP同人专辑，曲目主要风格是 金属、Rock，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人专辑 (未找到链接)** 的词条
-
+**[二次创作同人专辑](./二次创作.md#同人音乐)**的词条
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Miserable_Mind_EP封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/d/d5/Miserable_Mind_EP%E5%B0%81%E9%9D%A2.jpg/252px-Miserable_Mind_EP%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="252" height="252" srcset="https://upload.thwiki.cc/thumb/d/d5/Miserable_Mind_EP%E5%B0%81%E9%9D%A2.jpg/378px-Miserable_Mind_EP%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/d/d5/Miserable_Mind_EP%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="500" data-file-height="500"></a><div class="cover-char">角色：<a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰朵露·斯卡蕾特</a></div></td>
@@ -15,21 +14,17 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.youtube.com/watch?v=u_Mp59RA9gs">https://www.youtube.com/watch?v=u_Mp59RA9gs</a></td></tr></tbody></table>
 
 Miserable Mind EP（同人专辑，kita，2019） - 2019年8月16日 由 kita  发布的EP同人专辑，曲目主要风格是 金属、Rock，分级为 一般向
-
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://ourheartlessdecline.bandcamp.com/album/miserable-mind-ep">bandcamp</a></td></tr></tbody></table>
-
 
 
 ## Staff
   
- **Arrangement**   
+**Arrangement**  
 
 <table><tbody><tr><td><a href="./kita.md" title="kita">kita</a></td><td><a href="./kita.md" title="kita">kita</a></td><td>Tr.1-5</td></tr></tbody></table>
 
-
 Illustration
 : Gar45u
-
 
 ## 试听
 
@@ -43,21 +38,16 @@ Illustration
 </td></tr></tbody></table>
 
 
-
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Lost" colspan="2" class="title">Lost<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=kita&amp;ogmusic=ネクロファンタジア&amp;fromwiki=Miserable_Mind_EP"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:48</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./kita.md" title="kita">kita</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，kita&amp;fromwiki=Miserable_Mind_EP"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=ネクロファンタジア&amp;fromwiki=Miserable_Mind_EP"><span></span></a></span><div class="ogmusic"><a href="./ネクロファンタジア.md" class="mw-redirect" title="ネクロファンタジア">ネクロファンタジア</a></div><div class="source"><a href="./东方妖妖梦_～_Perfect_Cherry_Blossom..md" class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr>
-<tr><td id="2" class="infoYD"><b>02</b></td><td id="Loud_Rock_Station_And_Sky" colspan="2" class="title">Loud Rock Station And Sky<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=kita&amp;ogmusic=始原のビート　～ Pristine Beat&amp;fromwiki=Miserable_Mind_EP"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:58</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./kita.md" title="kita">kita</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，kita&amp;fromwiki=Miserable_Mind_EP"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=始原のビート　～ Pristine Beat&amp;fromwiki=Miserable_Mind_EP"><span></span></a></span><div class="ogmusic"><a href="./始原のビート_～_Pristine_Beat.md" class="mw-redirect" title="始原のビート ～ Pristine Beat">始原のビート　～ Pristine Beat</a></div><div class="source"><a href="./东方辉针城_～_Double_Dealing_Character..md" class="mw-redirect" title="东方辉针城 ～ Double Dealing Character.">东方辉针城　～ Double Dealing Character.</a></div></td></tr>
-<tr><td id="3" class="infoYD"><b>03</b></td><td id="Miserable_Mind" colspan="2" class="title">Miserable Mind<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=kita&amp;ogmusic=U.N.オーエンは彼女なのか？&amp;fromwiki=Miserable_Mind_EP"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:16</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./kita.md" title="kita">kita</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，kita&amp;fromwiki=Miserable_Mind_EP"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=U.N.オーエンは彼女なのか？&amp;fromwiki=Miserable_Mind_EP"><span></span></a></span><div class="ogmusic"><a href="./U.N.オーエンは彼女なのか？.md" class="mw-redirect" title="U.N.オーエンは彼女なのか？">U.N.オーエンは彼女なのか？</a></div><div class="source"><a href="./东方红魔乡_～_the_Embodiment_of_Scarlet_Devil..md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr>
-<tr><td id="4" class="infoYD"><b>04</b></td><td id="Opposed_World" colspan="2" class="title">Opposed World<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=kita&amp;ogmusic=神話幻想　～ Infinite Being&amp;fromwiki=Miserable_Mind_EP"><span title="搜索相似同人曲"></span></a></span></td><td class="time">02:36</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./kita.md" title="kita">kita</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，kita&amp;fromwiki=Miserable_Mind_EP"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=神話幻想　～ Infinite Being&amp;fromwiki=Miserable_Mind_EP"><span></span></a></span><div class="ogmusic"><a href="./神話幻想_～_Infinite_Being.md" class="mw-redirect" title="神話幻想 ～ Infinite Being">神話幻想　～ Infinite Being</a></div><div class="source"><a href="./东方怪绮谈_～_Mystic_Square..md" class="mw-redirect" title="东方怪绮谈 ～ Mystic Square.">东方怪绮谈　～ Mystic Square.</a></div></td></tr>
-<tr><td id="5" class="infoYD"><b>05</b></td><td id="Opposed_World_-light_remix-" colspan="2" class="title">Opposed World -light remix-<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=kita&amp;ogmusic=神話幻想　～ Infinite Being&amp;fromwiki=Miserable_Mind_EP"><span title="搜索相似同人曲"></span></a></span></td><td class="time">02:36</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./kita.md" title="kita">kita</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，kita&amp;fromwiki=Miserable_Mind_EP"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=神話幻想　～ Infinite Being&amp;fromwiki=Miserable_Mind_EP"><span></span></a></span><div class="ogmusic"><a href="./神話幻想_～_Infinite_Being.md" class="mw-redirect" title="神話幻想 ～ Infinite Being">神話幻想　～ Infinite Being</a></div><div class="source"><a href="./东方怪绮谈_～_Mystic_Square..md" class="mw-redirect" title="东方怪绮谈 ～ Mystic Square.">东方怪绮谈　～ Mystic Square.</a></div></td></tr></tbody></table>
-
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Lost" colspan="2" class="title">Lost</td><td class="time">04:48</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./kita.md" title="kita">kita</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./Necro-Fantasia.md" class="mw-redirect" title="ネクロファンタジア">ネクロファンタジア</a></div><div class="source"><a href="./东方妖妖梦.md" class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr>
+<tr><td id="2" class="infoYD"><b>02</b></td><td id="Loud_Rock_Station_And_Sky" colspan="2" class="title">Loud Rock Station And Sky</td><td class="time">03:58</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./kita.md" title="kita">kita</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./原初的节拍_～_Pristine_Beat.md" class="mw-redirect" title="始原のビート ～ Pristine Beat">始原のビート　～ Pristine Beat</a></div><div class="source"><a href="./东方辉针城.md" class="mw-redirect" title="东方辉针城 ～ Double Dealing Character.">东方辉针城　～ Double Dealing Character.</a></div></td></tr>
+<tr><td id="3" class="infoYD"><b>03</b></td><td id="Miserable_Mind" colspan="2" class="title">Miserable Mind</td><td class="time">04:16</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./kita.md" title="kita">kita</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./U.N.OWEN就是她吗？.md" class="mw-redirect" title="U.N.オーエンは彼女なのか？">U.N.オーエンは彼女なのか？</a></div><div class="source"><a href="./东方红魔乡.md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr>
+<tr><td id="4" class="infoYD"><b>04</b></td><td id="Opposed_World" colspan="2" class="title">Opposed World</td><td class="time">02:36</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./kita.md" title="kita">kita</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./神话幻想_～_Infinite_Being.md" class="mw-redirect" title="神話幻想 ～ Infinite Being">神話幻想　～ Infinite Being</a></div><div class="source"><a href="./东方怪绮谈.md" class="mw-redirect" title="东方怪绮谈 ～ Mystic Square.">东方怪绮谈　～ Mystic Square.</a></div></td></tr>
+<tr><td id="5" class="infoYD"><b>05</b></td><td id="Opposed_World_-light_remix-" colspan="2" class="title">Opposed World -light remix-</td><td class="time">02:36</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./kita.md" title="kita">kita</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./神话幻想_～_Infinite_Being.md" class="mw-redirect" title="神話幻想 ～ Infinite Being">神話幻想　～ Infinite Being</a></div><div class="source"><a href="./东方怪绮谈.md" class="mw-redirect" title="东方怪绮谈 ～ Mystic Square.">东方怪绮谈　～ Mystic Square.</a></div></td></tr></tbody></table>
 
 
 ## 评论
-
-
-
 
 ---
 

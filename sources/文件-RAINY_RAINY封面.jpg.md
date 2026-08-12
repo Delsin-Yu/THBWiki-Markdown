@@ -1,6 +1,6 @@
 # 文件:RAINY_RAINY封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2d\ns6%3ARAINY_RAINY%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2d\ns6%3ARAINY_RAINY%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Eastern_Old_Fashion | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Eastern_Old_Fashion | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [RAINY RAINY](./RAINY_RAINY.md)  
-该封面包含的角色：- [因幡帝](./因幡帝.md)
-
-
-
+- [RAINY RAINY](./RAINY_RAINY.md)该封面包含的角色：
+- [因幡帝](./因幡帝.md)
 
 
 ---

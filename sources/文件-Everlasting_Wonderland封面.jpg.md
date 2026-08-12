@@ -1,6 +1,6 @@
 # 文件:Everlasting_Wonderland封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f6\ns6%3AEverlasting_Wonderland%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f6\ns6%3AEverlasting_Wonderland%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Lost_Garden | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Lost_Garden | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Everlasting Wonderland](./Everlasting_Wonderland.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
+- [Everlasting Wonderland](./Everlasting_Wonderland.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
   
-源地址:[[1]](http://lost-garden.info/discography/images/everlasting_wonderland_jacket.jpg)
-  
-
-
-
-
+源地址:[\[1\]](http://lost-garden.info/discography/images/everlasting_wonderland_jacket.jpg)  
 
 ---
 

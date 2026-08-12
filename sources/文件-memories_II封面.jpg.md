@@ -1,6 +1,6 @@
 # 文件:memories_II封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c3\ns6%3Amemories_II%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c3\ns6%3Amemories_II%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ORANGE★JAM | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ ORANGE★JAM | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [memories II](./memories_II.md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)
+- [memories II](./memories_II.md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
 
   
-源地址：[[1]](https://pbs.twimg.com/media/C0H4GVfUsAA6V21.jpg:large)
-  
-
-
-
-
+源地址：[\[1\]](https://pbs.twimg.com/media/C0H4GVfUsAA6V21.jpg:large)  
 
 ---
 

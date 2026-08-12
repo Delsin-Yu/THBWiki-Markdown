@@ -1,6 +1,6 @@
 # 文件:YONIMO_ZATTANA_TOHO_ARRANGE_2封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e6\ns6%3AYONIMO_ZATTANA_TOHO_ARRANGE_2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e6\ns6%3AYONIMO_ZATTANA_TOHO_ARRANGE_2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 若葉屋工房
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [YONIMO ZATTANA TOHO ARRANGE 2](./YONIMO_ZATTANA_TOHO_ARRANGE_2.md)  
-该封面包含的角色：- [河城荷取](./河城荷取.md)
-
-
-
+- [YONIMO ZATTANA TOHO ARRANGE 2](./YONIMO_ZATTANA_TOHO_ARRANGE_2.md)该封面包含的角色：
+- [河城荷取](./河城荷取.md)
 
 
 ---

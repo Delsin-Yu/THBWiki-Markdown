@@ -1,6 +1,6 @@
 # 文件:過去不明記録_～_Musical_Retrospective封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\87\ns6%3A%E9%81%8E%E5%8E%BB%E4%B8%8D%E6%98%8E%E8%A8%98%E9%8C%B2_%EF%BD%9E_Musical_Retrospective%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\87\ns6%3A%E9%81%8E%E5%8E%BB%E4%B8%8D%E6%98%8E%E8%A8%98%E9%8C%B2_%EF%BD%9E_Musical_Retrospective%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Armand | 专辑封面 | 封面图片
 
@@ -13,12 +13,7 @@ Armand | 专辑封面 | 封面图片
 - [過去不明記録 ～ Musical Retrospective](./過去不明記録_～_Musical_Retrospective.md)
 
   
-源地址：[[1]](https://f4.bcbits.com/img/a3329809612_10.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://f4.bcbits.com/img/a3329809612_10.jpg)  
 
 ---
 

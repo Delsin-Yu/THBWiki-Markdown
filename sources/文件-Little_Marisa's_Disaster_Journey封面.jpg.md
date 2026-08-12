@@ -1,6 +1,6 @@
 # 文件:Little_Marisa's_Disaster_Journey封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5c\ns6%3ALittle_Marisa%27s_Disaster_Journey%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5c\ns6%3ALittle_Marisa%27s_Disaster_Journey%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Dark_Sky_Empire | 封面图片 | 软件封面
 
@@ -9,9 +9,6 @@ Dark_Sky_Empire | 封面图片 | 软件封面
   
 
 - [Little Marisa's Disaster Journey](./Little_Marisa's_Disaster_Journey.md)
-
-
-
 
 
 ---

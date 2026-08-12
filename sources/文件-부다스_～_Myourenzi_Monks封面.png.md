@@ -1,6 +1,6 @@
 # 文件:부다스_～_Myourenzi_Monks封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\43\ns6%3A%EB%B6%80%EB%8B%A4%EC%8A%A4_%EF%BD%9E_Myourenzi_Monks%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\43\ns6%3A%EB%B6%80%EB%8B%A4%EC%8A%A4_%EF%BD%9E_Myourenzi_Monks%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 MAD_MIND_MACHINE | 专辑封面 | 封面图片
 
@@ -8,11 +8,13 @@ MAD_MIND_MACHINE | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [부다스 ～ Myourenzi Monks](./부다스_～_Myourenzi_Monks.md)  
-该封面包含的角色：- [娜兹玲](./娜兹玲.md)- [多多良小伞](./多多良小伞.md)- [云居一轮](./云居一轮.md)- [村纱水蜜](./村纱水蜜.md)- [寅丸星](./寅丸星.md)- [圣白莲](./圣白莲.md)
-
-
-
+- [부다스 ～ Myourenzi Monks](./부다스_～_Myourenzi_Monks.md)该封面包含的角色：
+- [娜兹玲](./娜兹玲.md)
+- [多多良小伞](./多多良小伞.md)
+- [云居一轮](./云居一轮.md)
+- [村纱水蜜](./村纱水蜜.md)
+- [寅丸星](./寅丸星.md)
+- [圣白莲](./圣白莲.md)
 
 
 ---

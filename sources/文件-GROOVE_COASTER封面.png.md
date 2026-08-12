@@ -1,6 +1,6 @@
 # 文件:GROOVE_COASTER封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a3\ns6%3AGROOVE_COASTER%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a3\ns6%3AGROOVE_COASTER%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 太东 | 封面图片 | 软件封面
 
@@ -11,9 +11,6 @@
   
 
 - [GROOVE COASTER](./GROOVE_COASTER.md)
-
-
-
 
 
 ---

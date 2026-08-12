@@ -1,16 +1,12 @@
 # 模板:Cosplay&痛车Festival
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\d\d3\ns10%3ACosplay%26%E7%97%9B%E8%BD%A6Festival.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\d\d3\ns10%3ACosplay%26%E7%97%9B%E8%BD%A6Festival.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

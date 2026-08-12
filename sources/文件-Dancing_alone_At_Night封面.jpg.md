@@ -1,6 +1,6 @@
 # 文件:Dancing_alone_At_Night封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fc\ns6%3ADancing_alone_At_Night%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fc\ns6%3ADancing_alone_At_Night%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 宵越幻想 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Dancing alone At Night](./Dancing_alone_At_Night.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
-
-
-
+- [Dancing alone At Night](./Dancing_alone_At_Night.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
 
 ---

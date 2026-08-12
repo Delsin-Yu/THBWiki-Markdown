@@ -1,6 +1,6 @@
 # 文件:Memory（月猫工房）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fb\ns6%3AMemory%EF%BC%88%E6%9C%88%E7%8C%AB%E5%B7%A5%E6%88%BF%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fb\ns6%3AMemory%EF%BC%88%E6%9C%88%E7%8C%AB%E5%B7%A5%E6%88%BF%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 月猫工房
 
@@ -8,11 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Memory（月猫工房）](./Memory（月猫工房）.md)  
-该封面包含的角色：- [露米娅](./露米娅.md)- [琪露诺](./琪露诺.md)- [莉格露·奈特巴格](./莉格露·奈特巴格.md)- [米斯蒂娅·萝蕾拉](./米斯蒂娅·萝蕾拉.md)
-
-
-
+- [Memory（月猫工房）](./Memory（月猫工房）.md)该封面包含的角色：
+- [露米娅](./露米娅.md)
+- [琪露诺](./琪露诺.md)
+- [莉格露·奈特巴格](./莉格露·奈特巴格.md)
+- [米斯蒂娅·萝蕾拉](./米斯蒂娅·萝蕾拉.md)
 
 
 ---

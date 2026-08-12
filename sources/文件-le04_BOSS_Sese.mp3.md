@@ -1,16 +1,12 @@
 # 文件:le04_BOSS_Sese.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c2\ns6%3Ale04_BOSS_Sese%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c2\ns6%3Ale04_BOSS_Sese%2Emp3.html -->
 
 Necro_Master | 连缘Project官方音乐MP3 | 连缘天影战记
 
   
 连缘天影战记中立线3面Boss-乞骸让让主题曲
   
-
-
-
-
 
 ---
 

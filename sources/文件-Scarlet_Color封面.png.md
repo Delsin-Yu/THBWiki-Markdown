@@ -1,6 +1,6 @@
 # 文件:Scarlet_Color封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e1\ns6%3AScarlet_Color%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e1\ns6%3AScarlet_Color%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 CrerpSucre | 同人志封面 | 封面图片
 
@@ -8,11 +8,8 @@ CrerpSucre | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Scarlet Color](./Scarlet_Color.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
-
-
-
+- [Scarlet Color](./Scarlet_Color.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
 
 ---

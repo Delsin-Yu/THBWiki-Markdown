@@ -1,6 +1,6 @@
 # 文件:TOUHOU_DRIFT_PHONK_VOL.2封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\05\ns6%3ATOUHOU_DRIFT_PHONK_VOL%2E2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\05\ns6%3ATOUHOU_DRIFT_PHONK_VOL%2E2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Sastra_Moment | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@ Sastra_Moment | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [TOUHOU DRIFT PHONK VOL.2](./TOUHOU_DRIFT_PHONK_VOL.2.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
+- [TOUHOU DRIFT PHONK VOL.2](./TOUHOU_DRIFT_PHONK_VOL.2.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
   
-源地址：[direct image link (10 size)](https://f4.bcbits.com/img/a2584355272_10.jpg), [source page (artist Bandcamp)](https://sastramoment.bandcamp.com/album/touhou-drift-phonk-vol-2)
-  
-
-
-
-
+源地址：[direct image link (10 size)](https://f4.bcbits.com/img/a2584355272_10.jpg), [source page (artist Bandcamp)](https://sastramoment.bandcamp.com/album/touhou-drift-phonk-vol-2)  
 
 ---
 

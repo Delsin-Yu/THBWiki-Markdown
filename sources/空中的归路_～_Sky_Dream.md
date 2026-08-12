@@ -1,30 +1,24 @@
 # 空中的归路_～_Sky_Dream
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\d\dd\ns0%3A%E7%A9%BA%E4%B8%AD%E7%9A%84%E5%BD%92%E8%B7%AF_%EF%BD%9E_Sky_Dream.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\d\dd\ns0%3A%E7%A9%BA%E4%B8%AD%E7%9A%84%E5%BD%92%E8%B7%AF_%EF%BD%9E_Sky_Dream.html -->
 
 由 ZUN 创作的官方曲目，原名 空の帰り道　～ Sky Dream
 
 本页是关于东方Project  
- **原作音乐** 的词条
-
+**原作音乐**的词条
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 出现作品](#出现作品)
 - [3 音乐文件](#音乐文件)
-
   - [3.1 东方星莲船](#东方星莲船)
 
 
-
 - [4 说明文本](#说明文本)
-
   - [4.1 东方星莲船](#东方星莲船_2)
 
 
-
 - [5 其他资料](#其他资料)
-
   - [5.1 乐理资讯](#乐理资讯)
   - [5.2 分析考据](#分析考据)
   - [5.3 二次同人数据](#二次同人数据)
@@ -32,22 +26,16 @@
 
 
 
-
-
-
-
 ## 基本信息
 
-<table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">空の帰り道　～ Sky Dream</td></tr><tr><td><b>译名</b></td><td>空中的归路 ～ Sky Dream</td></tr><tr><td><b>英文译名</b></td><td>Returning Home from the Sky ~ Sky Dream</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>再编</td></tr><tr><td style="padding-left:15px"><b>原曲</b></td><td><a href="./感情の摩天楼_～_Cosmic_Mind.md" class="mw-redirect" title="感情の摩天楼 ～ Cosmic Mind">感情の摩天楼　～ Cosmic Mind</a></td></tr><tr><td style="padding-left:15px"><b>　来源</b></td><td>东方星莲船　～ Undefined Fantastic Object.</td></tr></tbody></table>
+<table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">空の帰り道　～ Sky Dream</td></tr><tr><td><b>译名</b></td><td>空中的归路 ～ Sky Dream</td></tr><tr><td><b>英文译名</b></td><td>Returning Home from the Sky ~ Sky Dream</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>再编</td></tr><tr><td style="padding-left:15px"><b>原曲</b></td><td><a href="./感情的摩天楼_～_Cosmic_Mind.md" class="mw-redirect" title="感情の摩天楼 ～ Cosmic Mind">感情の摩天楼　～ Cosmic Mind</a></td></tr><tr><td style="padding-left:15px"><b>　来源</b></td><td>东方星莲船　～ Undefined Fantastic Object.</td></tr></tbody></table>
 
 空中的归路 ～ Sky Dream（曲目） - 由 ZUN 创作的官方曲目，原名 空の帰り道　～ Sky Dream
-
 ## 出现作品
 
 <table>
 <tbody><tr><td>2009年8月15日（Comic Market 76）</td><td><b><a href="./东方星莲船.md" title="东方星莲船">东方星莲船</a></b></td><td>Staff画面主题曲</td><td style="padding-left:5px;">空の帰り道　～ Sky Dream（空中的归路 ～ Sky Dream）</td><td style="padding-left:10px;">作曲：ZUN</td></tr>
 </tbody></table>
-
 
 
 ## 音乐文件
@@ -62,11 +50,11 @@
 </td></tr></tbody></table>
 
 
-
 ## 说明文本
 
 ### 东方星莲船
-- Music Room (未找到链接)
+
+- [Music Room](./东方星莲船-Music.md#Staff画面)
 
 　制作人员名单的主题曲。  
   
@@ -74,25 +62,28 @@
   
 　旅游完了踏上安静的归途的感觉。  
 　请抬头仰望～夜空里有UFO在飞呢。
-
 ## 其他资料
 
 ### 乐理资讯
 
 ### 分析考据
   
- **空の帰り道　～ Sky Dream**  空中的归路　～ Sky Dream
+**空の帰り道 ～ Sky Dream** 空中的归路　～ Sky Dream
   
 
-- 空中
+- 空中 
   - 故事的场景发生在空中。
 
-- 归路
+
+- 归路 
   - 本曲为结束曲。
 
-- Sky Dream
-  - 天空之梦。
+
+- Sky Dream 
+  - 天空之梦。 
     - 圣辇船在天空中。
+
+
 
 
 
@@ -109,17 +100,6 @@
 <tr><td>Arrange</td><td>101</td></tr>
 <tr><td>Vocal率</td><td>28.37%</td></tr>
 </tbody></table>
-
-
-
-
-  
-  
-
-  
-
-
-
 
 
 ---

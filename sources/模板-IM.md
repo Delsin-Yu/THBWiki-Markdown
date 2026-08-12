@@ -1,16 +1,12 @@
 # 模板:IM
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\4\45\ns10%3AIM.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\4\45\ns10%3AIM.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

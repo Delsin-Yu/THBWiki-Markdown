@@ -1,6 +1,6 @@
 # 文件:Chiffon封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ee\ns6%3AChiffon%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ee\ns6%3AChiffon%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Aozora | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Aozora | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Chiffon](./Chiffon.md)  
-该封面包含的角色：- [古明地恋](./古明地恋.md)
-
-
-
+- [Chiffon](./Chiffon.md)该封面包含的角色：
+- [古明地恋](./古明地恋.md)
 
 
 ---

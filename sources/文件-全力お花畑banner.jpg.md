@@ -1,16 +1,11 @@
 # 文件:全力お花畑banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\82\ns6%3A%E5%85%A8%E5%8A%9B%E3%81%8A%E8%8A%B1%E7%95%91banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\82\ns6%3A%E5%85%A8%E5%8A%9B%E3%81%8A%E8%8A%B1%E7%95%91banner%2Ejpg.html -->
 
 全力お花畑 | 社团LOGO
 
   
-源地址：[[1]](https://blog-imgs-46.fc2.com/f/u/l/fullfloweryfield/20110613165856c14.jpeg)
-  
-
-
-
-
+源地址：[\[1\]](https://blog-imgs-46.fc2.com/f/u/l/fullfloweryfield/20110613165856c14.jpeg)  
 
 ---
 

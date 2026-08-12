@@ -1,16 +1,11 @@
 # 文件:十二茶茶banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e0\ns6%3A%E5%8D%81%E4%BA%8C%E8%8C%B6%E8%8C%B6banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e0\ns6%3A%E5%8D%81%E4%BA%8C%E8%8C%B6%E8%8C%B6banner%2Ejpg.html -->
 
 十二茶茶 | 社团LOGO
 
   
-源地址：[[1]](https://web.archive.org/web/20070224153723im_/http://izayoi.myweb.hinet.net:80/img/BENNER0001.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://web.archive.org/web/20070224153723im_/http://izayoi.myweb.hinet.net:80/img/BENNER0001.jpg)  
 
 ---
 

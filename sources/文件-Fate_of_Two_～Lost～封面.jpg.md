@@ -1,6 +1,6 @@
 # 文件:Fate_of_Two_～Lost～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\36\ns6%3AFate_of_Two_%EF%BD%9ELost%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\36\ns6%3AFate_of_Two_%EF%BD%9ELost%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Reason_Is_Nowhere | 专辑封面 | 封面图片
 
@@ -8,16 +8,12 @@ Reason_Is_Nowhere | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Fate of Two ～Lost～](./Fate_of_Two_～Lost～.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
+- [Fate of Two ～Lost～](./Fate_of_Two_～Lost～.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
   
-[Pixiv artwork ID: 47765553 (original size)](https://www.pixiv.net/artworks/47765553)
-  
-
-
-
-
+[Pixiv artwork ID: 47765553 (original size)](https://www.pixiv.net/artworks/47765553)  
 
 ---
 

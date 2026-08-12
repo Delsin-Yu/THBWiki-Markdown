@@ -1,14 +1,11 @@
 # 文件:MineCraft幻想乡-Rin提出rpg企划.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0c\ns6%3AMineCraft%E5%B9%BB%E6%83%B3%E4%B9%A1-Rin%E6%8F%90%E5%87%BArpg%E4%BC%81%E5%88%92%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0c\ns6%3AMineCraft%E5%B9%BB%E6%83%B3%E4%B9%A1-Rin%E6%8F%90%E5%87%BArpg%E4%BC%81%E5%88%92%2Epng.html -->
 
 MineCraft幻想乡
 
 
 ## 文件说明
-
-
-
 
 ---
 

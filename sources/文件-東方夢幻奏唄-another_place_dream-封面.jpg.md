@@ -1,6 +1,6 @@
 # 文件:東方夢幻奏唄-another_place_dream-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\03\ns6%3A%E6%9D%B1%E6%96%B9%E5%A4%A2%E5%B9%BB%E5%A5%8F%E5%94%84-another_place_dream-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\03\ns6%3A%E6%9D%B1%E6%96%B9%E5%A4%A2%E5%B9%BB%E5%A5%8F%E5%94%84-another_place_dream-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 UtAGe | 专辑封面 | 封面图片
 
@@ -10,11 +10,9 @@ UtAGe | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方夢幻奏唄-another place dream-](./東方夢幻奏唄-another_place_dream-.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [東方夢幻奏唄-another place dream-](./東方夢幻奏唄-another_place_dream-.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Hors_d'oeuvre3封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c6\ns6%3AHors_d%27oeuvre3%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c6\ns6%3AHors_d%27oeuvre3%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 FRACTCL | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ FRACTCL | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Hors d'oeuvre3](./Hors_d'oeuvre3.md)  
-该封面包含的角色：- [克劳恩皮丝](./克劳恩皮丝.md)
-
-
-
+- [Hors d'oeuvre3](./Hors_d'oeuvre3.md)该封面包含的角色：
+- [克劳恩皮丝](./克劳恩皮丝.md)
 
 
 ---

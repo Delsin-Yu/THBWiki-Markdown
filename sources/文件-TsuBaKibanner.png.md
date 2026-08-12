@@ -1,12 +1,8 @@
 # 文件:TsuBaKibanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0d\ns6%3ATsuBaKibanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0d\ns6%3ATsuBaKibanner%2Epng.html -->
 
 TsuBaKi | 社团LOGO
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:John_us!封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d2\ns6%3AJohn_us%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d2\ns6%3AJohn_us%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 国境横断 | 封面图片
 
@@ -8,16 +8,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [John us!](./John_us!.md)  
-该封面包含的角色：- [依神女苑](./依神女苑.md)- [依神紫苑](./依神紫苑.md)
+- [John us!](./John_us!.md)该封面包含的角色：
+- [依神女苑](./依神女苑.md)
+- [依神紫苑](./依神紫苑.md)
 
   
-[Pixiv Illust ID: 71962325](https://i.pximg.net/img-master/img/2018/12/04/20/14/26/71962325_p0_master1200.jpg)
-  
-
-
-
-
+[Pixiv Illust ID: 71962325](https://i.pximg.net/img-master/img/2018/12/04/20/14/26/71962325_p0_master1200.jpg)  
 
 ---
 

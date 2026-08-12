@@ -1,12 +1,8 @@
 # 文件:リレバbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a6\ns6%3A%E3%83%AA%E3%83%AC%E3%83%90banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a6\ns6%3A%E3%83%AA%E3%83%AC%E3%83%90banner%2Ejpg.html -->
 
 リレバ | 社团LOGO
-
-
-
-
 
 
 ---

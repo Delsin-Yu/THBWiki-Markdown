@@ -1,12 +1,8 @@
 # 文件:ROYALbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d1\ns6%3AROYALbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d1\ns6%3AROYALbanner%2Ejpg.html -->
 
 ROYAL | 社团LOGO
-
-
-
-
 
 
 ---

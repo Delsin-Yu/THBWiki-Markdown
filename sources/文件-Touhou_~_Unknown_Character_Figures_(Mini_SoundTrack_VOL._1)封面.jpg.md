@@ -1,6 +1,6 @@
 # 文件:Touhou_~_Unknown_Character_Figures_(Mini_SoundTrack_VOL._1)封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a4\ns6%3ATouhou_%7E_Unknown_Character_Figures_%28Mini_SoundTrack_VOL%2E_1%29%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a4\ns6%3ATouhou_%7E_Unknown_Character_Figures_%28Mini_SoundTrack_VOL%2E_1%29%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Jani | 专辑封面 | 封面图片
 
@@ -10,15 +10,11 @@ Jani | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Touhou ~ Unknown Character Figures (Mini SoundTrack VOL. 1)](./Touhou_~_Unknown_Character_Figures_(Mini_SoundTrack_VOL._1).md)
+- [Touhou ~ Unknown Character Figures (Mini SoundTrack VOL. 1)](./Touhou_~_Unknown_Character_Figures_(Mini_SoundTrack_VOL._1%29.md)
 
   
 cover art included in file metadata
   
-
-
-
-
 
 ---
 

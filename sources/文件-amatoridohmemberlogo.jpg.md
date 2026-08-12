@@ -1,12 +1,8 @@
 # 文件:amatoridohmemberlogo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e5\ns6%3Aamatoridohmemberlogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e5\ns6%3Aamatoridohmemberlogo%2Ejpg.html -->
 
 天鳥堂 | 社团LOGO
-
-
-
-
 
 
 ---

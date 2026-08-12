@@ -1,6 +1,6 @@
 # 文件:The_Flames_Of_Shrine封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4a\ns6%3AThe_Flames_Of_Shrine%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4a\ns6%3AThe_Flames_Of_Shrine%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Kyandoru_Raito_No_Konran | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Kyandoru_Raito_No_Konran | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [The Flames Of Shrine](./The_Flames_Of_Shrine.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
+- [The Flames Of Shrine](./The_Flames_Of_Shrine.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
   
-源地址：[[1]](https://kyandoruraitonokonranofficial.files.wordpress.com/2014/07/front.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://kyandoruraitonokonranofficial.files.wordpress.com/2014/07/front.jpg)  
 
 ---
 

@@ -1,14 +1,11 @@
 # 文件:Nigrantebanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b2\ns6%3ANigrantebanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b2\ns6%3ANigrantebanner%2Ejpg.html -->
 
 Nigrante | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

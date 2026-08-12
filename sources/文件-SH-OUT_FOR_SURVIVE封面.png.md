@@ -1,6 +1,6 @@
 # 文件:SH-OUT_FOR_SURVIVE封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b5\ns6%3ASH-OUT_FOR_SURVIVE%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b5\ns6%3ASH-OUT_FOR_SURVIVE%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 吊るし処 | 封面图片
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [SH-OUT FOR SURVIVE](./SH-OUT_FOR_SURVIVE.md)  
-该封面包含的角色：- [幽谷响子](./幽谷响子.md)- [鬼人正邪](./鬼人正邪.md)
-
-
-
+- [SH-OUT FOR SURVIVE](./SH-OUT_FOR_SURVIVE.md)该封面包含的角色：
+- [幽谷响子](./幽谷响子.md)
+- [鬼人正邪](./鬼人正邪.md)
 
 
 ---

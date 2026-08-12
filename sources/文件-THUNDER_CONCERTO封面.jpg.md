@@ -1,6 +1,6 @@
 # 文件:THUNDER_CONCERTO封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8e\ns6%3ATHUNDER_CONCERTO%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8e\ns6%3ATHUNDER_CONCERTO%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 IRON_ATTACK! | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ IRON_ATTACK! | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [THUNDER CONCERTO](./THUNDER_CONCERTO.md)  
-该封面包含的角色：- [永江衣玖](./永江衣玖.md)
-
-
-
+- [THUNDER CONCERTO](./THUNDER_CONCERTO.md)该封面包含的角色：
+- [永江衣玖](./永江衣玖.md)
 
 
 ---

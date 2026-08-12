@@ -1,12 +1,8 @@
 # 文件:「Queen_of_Bubble」（凭依华）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ce\ns6%3A%E3%80%8CQueen_of_Bubble%E3%80%8D%EF%BC%88%E5%87%AD%E4%BE%9D%E5%8D%8E%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ce\ns6%3A%E3%80%8CQueen_of_Bubble%E3%80%8D%EF%BC%88%E5%87%AD%E4%BE%9D%E5%8D%8E%EF%BC%89%2Epng.html -->
 
 东方凭依华 | 依神女苑 | 自机符卡
-
-
-
-
 
 
 ---

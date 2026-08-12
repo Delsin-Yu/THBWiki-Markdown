@@ -1,6 +1,6 @@
 # 文件:Arrow_Rain封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7b\ns6%3AArrow_Rain%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7b\ns6%3AArrow_Rain%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 LOST_IN_THE_DARKNESS | PHOENIX_Project | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ LOST_IN_THE_DARKNESS | PHOENIX_Project | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Arrow Rain](./Arrow_Rain.md)  
-该封面包含的角色：- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
-
-
-
+- [Arrow Rain](./Arrow_Rain.md)该封面包含的角色：
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
 
 
 ---

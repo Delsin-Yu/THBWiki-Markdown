@@ -1,6 +1,6 @@
 # 文件:Taub_Für_Alle,_aber_ihr_Lied_~_Spatz_der_Nacht_(Single)封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\29\ns6%3ATaub_F%C3%BCr_Alle%2C_aber_ihr_Lied_%7E_Spatz_der_Nacht_%28Single%29%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\29\ns6%3ATaub_F%C3%BCr_Alle%2C_aber_ihr_Lied_%7E_Spatz_der_Nacht_%28Single%29%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Maiden's_Capriccio | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Maiden's_Capriccio | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Taub Für Alle, aber ihr Lied ~ Spatz der Nacht (Single)](./Taub_Für_Alle,_aber_ihr_Lied_~_Spatz_der_Nacht_(Single).md)  
-该封面包含的角色：- [米斯蒂娅·萝蕾拉](./米斯蒂娅·萝蕾拉.md)
+- [Taub Für Alle, aber ihr Lied ~ Spatz der Nacht (Single)](./Taub_Für_Alle,_aber_ihr_Lied_~_Spatz_der_Nacht_(Single%29.md)该封面包含的角色：
+- [米斯蒂娅·萝蕾拉](./米斯蒂娅·萝蕾拉.md)
 
   
-源地址：[[1]](https://kuroblood.bandcamp.com/track/taub-f-r-alle-aber-ihr-lied-spatz-der-nacht-single)
-  
-
-
-
-
+源地址：[\[1\]](https://kuroblood.bandcamp.com/track/taub-f-r-alle-aber-ihr-lied-spatz-der-nacht-single)  
 
 ---
 

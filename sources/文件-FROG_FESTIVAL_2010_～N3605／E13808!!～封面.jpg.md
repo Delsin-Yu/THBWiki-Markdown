@@ -1,6 +1,6 @@
 # 文件:FROG_FESTIVAL_2010_～N3605／E13808!!～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4c\ns6%3AFROG_FESTIVAL_2010_%EF%BD%9EN3605%EF%BC%8FE13808%21%21%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4c\ns6%3AFROG_FESTIVAL_2010_%EF%BD%9EN3605%EF%BC%8FE13808%21%21%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 葉ヶ暮ハウス
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [FROG FESTIVAL 2010 ～N3605／E13808!!～](./FROG_FESTIVAL_2010_～N3605／E13808!!～.md)  
-该封面包含的角色：- [东风谷早苗](./东风谷早苗.md)
-
-
-
+- [FROG FESTIVAL 2010 ～N3605／E13808!!～](./FROG_FESTIVAL_2010_～N3605／E13808!!～.md)该封面包含的角色：
+- [东风谷早苗](./东风谷早苗.md)
 
 
 ---

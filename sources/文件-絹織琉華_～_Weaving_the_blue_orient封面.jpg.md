@@ -1,12 +1,8 @@
 # 文件:絹織琉華_～_Weaving_the_blue_orient封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9c\ns6%3A%E7%B5%B9%E7%B9%94%E7%90%89%E8%8F%AF_%EF%BD%9E_Weaving_the_blue_orient%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9c\ns6%3A%E7%B5%B9%E7%B9%94%E7%90%89%E8%8F%AF_%EF%BD%9E_Weaving_the_blue_orient%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 封面图片 | 没有被使用的封面文件
-
-
-
-
 
 
 ---

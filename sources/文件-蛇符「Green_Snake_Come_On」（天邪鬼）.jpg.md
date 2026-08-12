@@ -1,12 +1,8 @@
 # 文件:蛇符「Green_Snake_Come_On」（天邪鬼）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\04\ns6%3A%E8%9B%87%E7%AC%A6%E3%80%8CGreen_Snake_Come_On%E3%80%8D%EF%BC%88%E5%A4%A9%E9%82%AA%E9%AC%BC%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\04\ns6%3A%E8%9B%87%E7%AC%A6%E3%80%8CGreen_Snake_Come_On%E3%80%8D%EF%BC%88%E5%A4%A9%E9%82%AA%E9%AC%BC%EF%BC%89%2Ejpg.html -->
 
 东风谷早苗 | 弹幕天邪鬼 | 敌机符卡
-
-
-
-
 
 
 ---

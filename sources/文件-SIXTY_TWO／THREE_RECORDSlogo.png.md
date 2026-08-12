@@ -1,16 +1,11 @@
 # 文件:SIXTY_TWO／THREE_RECORDSlogo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d3\ns6%3ASIXTY_TWO%EF%BC%8FTHREE_RECORDSlogo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d3\ns6%3ASIXTY_TWO%EF%BC%8FTHREE_RECORDSlogo%2Epng.html -->
 
 SIXTY_TWO／THREE_RECORDS | 社团LOGO
 
   
-源地址：[[1]](http://sixtytwothree.zouri.jp/GS/sitelogo.png)
-  
-
-
-
-
+源地址：[\[1\]](http://sixtytwothree.zouri.jp/GS/sitelogo.png)  
 
 ---
 

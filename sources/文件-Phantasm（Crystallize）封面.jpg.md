@@ -1,6 +1,6 @@
 # 文件:Phantasm（Crystallize）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\df\ns6%3APhantasm%EF%BC%88Crystallize%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\df\ns6%3APhantasm%EF%BC%88Crystallize%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Crystallize | 专辑封面 | 封面图片
 
@@ -10,11 +10,9 @@ Crystallize | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Phantasm（Crystallize）](./Phantasm（Crystallize）.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
-
-
-
+- [Phantasm（Crystallize）](./Phantasm（Crystallize）.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
 
 ---

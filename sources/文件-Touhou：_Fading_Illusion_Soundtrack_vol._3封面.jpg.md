@@ -1,6 +1,6 @@
 # 文件:Touhou：_Fading_Illusion_Soundtrack_vol._3封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\90\ns6%3ATouhou%EF%BC%9A_Fading_Illusion_Soundtrack_vol%2E_3%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\90\ns6%3ATouhou%EF%BC%9A_Fading_Illusion_Soundtrack_vol%2E_3%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Mille_Oculos | 专辑封面 | 封面图片
 
@@ -10,11 +10,9 @@ Mille_Oculos | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Touhou： Fading Illusion Soundtrack vol. 3](./Touhou：_Fading_Illusion_Soundtrack_vol._3.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [Touhou： Fading Illusion Soundtrack vol. 3](./Touhou：_Fading_Illusion_Soundtrack_vol._3.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

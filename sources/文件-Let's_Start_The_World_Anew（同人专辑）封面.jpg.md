@@ -1,6 +1,6 @@
 # 文件:Let's_Start_The_World_Anew（同人专辑）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\62\ns6%3ALet%27s_Start_The_World_Anew%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\62\ns6%3ALet%27s_Start_The_World_Anew%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Squall_Of_Scream | 专辑封面 | 封面图片
 
@@ -10,11 +10,9 @@ Squall_Of_Scream | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Let's Start The World Anew（同人专辑）](./Let's_Start_The_World_Anew（同人专辑）.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [Let's Start The World Anew（同人专辑）](./Let's_Start_The_World_Anew（同人专辑）.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

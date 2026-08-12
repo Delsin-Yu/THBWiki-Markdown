@@ -1,6 +1,6 @@
 # 文件:Subterranean_Light_Show封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b9\ns6%3ASubterranean_Light_Show%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b9\ns6%3ASubterranean_Light_Show%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Komeiji_Records | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Komeiji_Records | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Subterranean Light Show](./Subterranean_Light_Show.md)  
-该封面包含的角色：- [灵乌路空](./灵乌路空.md)
+- [Subterranean Light Show](./Subterranean_Light_Show.md)该封面包含的角色：
+- [灵乌路空](./灵乌路空.md)
 
   
-源地址：[[1]](https://wilddakpaks.bandcamp.com/album/subterranean-light-show)
-  
-
-
-
-
+源地址：[\[1\]](https://wilddakpaks.bandcamp.com/album/subterranean-light-show)  
 
 ---
 

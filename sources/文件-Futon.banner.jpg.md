@@ -1,14 +1,11 @@
 # 文件:Futon.banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\90\ns6%3AFuton%2Ebanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\90\ns6%3AFuton%2Ebanner%2Ejpg.html -->
 
 Futon. | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:The_Orient~东方旧梦封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d4\ns6%3AThe_Orient%7E%E4%B8%9C%E6%96%B9%E6%97%A7%E6%A2%A6%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d4\ns6%3AThe_Orient%7E%E4%B8%9C%E6%96%B9%E6%97%A7%E6%A2%A6%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Dia_Schisma | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ Dia_Schisma | 专辑封面 | 封面图片
   
 
 - [The Orient~东方旧梦](./The_Orient~东方旧梦.md)
-
-
-
 
 
 ---

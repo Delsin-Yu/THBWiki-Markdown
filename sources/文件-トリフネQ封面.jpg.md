@@ -1,6 +1,6 @@
 # 文件:トリフネQ封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\44\ns6%3A%E3%83%88%E3%83%AA%E3%83%95%E3%83%8DQ%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\44\ns6%3A%E3%83%88%E3%83%AA%E3%83%95%E3%83%8DQ%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 AbyssDragon | 同人志封面 | 封面图片
 
@@ -10,16 +10,12 @@ AbyssDragon | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [トリフネQ](./トリフネQ.md)  
-该封面包含的角色：- [宇佐见莲子](./宇佐见莲子.md)- 卡内贡 (未找到链接)
+- [トリフネQ](./トリフネQ.md)该封面包含的角色：
+- [宇佐见莲子](./宇佐见莲子.md)
+- 卡内贡 (未找到链接)
 
   
-[Pixiv artwork ID: 77835904](https://www.pixiv.net/artworks/77835904)
-  
-
-
-
-
+[Pixiv artwork ID: 77835904](https://www.pixiv.net/artworks/77835904)  
 
 ---
 

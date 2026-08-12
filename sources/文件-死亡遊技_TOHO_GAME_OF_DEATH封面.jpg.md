@@ -1,6 +1,6 @@
 # 文件:死亡遊技_TOHO_GAME_OF_DEATH封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\85\ns6%3A%E6%AD%BB%E4%BA%A1%E9%81%8A%E6%8A%80_TOHO_GAME_OF_DEATH%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\85\ns6%3A%E6%AD%BB%E4%BA%A1%E9%81%8A%E6%8A%80_TOHO_GAME_OF_DEATH%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Satellite_Himawari（同人社团） | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Satellite_Himawari（同人社团） | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [死亡遊技 TOHO GAME OF DEATH](./死亡遊技_TOHO_GAME_OF_DEATH.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [死亡遊技 TOHO GAME OF DEATH](./死亡遊技_TOHO_GAME_OF_DEATH.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

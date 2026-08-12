@@ -1,16 +1,11 @@
 # 文件:ナトリニウムbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5f\ns6%3A%E3%83%8A%E3%83%88%E3%83%AA%E3%83%8B%E3%82%A6%E3%83%A0banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5f\ns6%3A%E3%83%8A%E3%83%88%E3%83%AA%E3%83%8B%E3%82%A6%E3%83%A0banner%2Epng.html -->
 
 ナトリニウム | 社团LOGO
 
   
-源地址：[[1]](http://img.f.hatena.ne.jp/images/fotolife/s/seascorpion/20160112/20160112224314.png)
-  
-
-
-
-
+源地址：[\[1\]](http://img.f.hatena.ne.jp/images/fotolife/s/seascorpion/20160112/20160112224314.png)  
 
 ---
 

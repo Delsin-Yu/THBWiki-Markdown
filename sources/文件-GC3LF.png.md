@@ -1,12 +1,8 @@
 # 文件:GC3LF.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f0\ns6%3AGC3LF%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f0\ns6%3AGC3LF%2Epng.html -->
 
 GROOVE_COASTER | 太东 | 游戏LOGO
-
-
-
-
 
 
 ---

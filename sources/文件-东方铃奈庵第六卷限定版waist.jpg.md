@@ -1,12 +1,8 @@
 # 文件:东方铃奈庵第六卷限定版waist.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\43\ns6%3A%E4%B8%9C%E6%96%B9%E9%93%83%E5%A5%88%E5%BA%B5%E7%AC%AC%E5%85%AD%E5%8D%B7%E9%99%90%E5%AE%9A%E7%89%88waist%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\43\ns6%3A%E4%B8%9C%E6%96%B9%E9%93%83%E5%A5%88%E5%BA%B5%E7%AC%AC%E5%85%AD%E5%8D%B7%E9%99%90%E5%AE%9A%E7%89%88waist%2Ejpg.html -->
 
 东方铃奈庵
-
-
-
-
 
 
 ---

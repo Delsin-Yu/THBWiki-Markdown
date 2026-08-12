@@ -1,6 +1,6 @@
 # 文件:東方竜血脈_Touhou_Dragonborn封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\29\ns6%3A%E6%9D%B1%E6%96%B9%E7%AB%9C%E8%A1%80%E8%84%88_Touhou_Dragonborn%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\29\ns6%3A%E6%9D%B1%E6%96%B9%E7%AB%9C%E8%A1%80%E8%84%88_Touhou_Dragonborn%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Five-seveN | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@ Five-seveN | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方竜血脈 Touhou Dragonborn](./東方竜血脈_Touhou_Dragonborn.md)  
-该封面包含的角色：- [幽谷响子](./幽谷响子.md)
-
-
-
+- [東方竜血脈 Touhou Dragonborn](./東方竜血脈_Touhou_Dragonborn.md)该封面包含的角色：
+- [幽谷响子](./幽谷响子.md)
 
 
 ---

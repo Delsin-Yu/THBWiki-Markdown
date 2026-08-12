@@ -1,6 +1,6 @@
 # 文件:scarlet_marrygold封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\22\ns6%3Ascarlet_marrygold%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\22\ns6%3Ascarlet_marrygold%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ちょこふぁん | 专辑封面 | 封面图片
 
@@ -10,11 +10,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [scarlet marrygold](./scarlet_marrygold.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)- Sans（Undertale） (未找到链接)- Jevil（Deltarune） (未找到链接)
-
-
-
+- [scarlet marrygold](./scarlet_marrygold.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- Sans（Undertale） (未找到链接)
+- Jevil（Deltarune） (未找到链接)
 
 
 ---

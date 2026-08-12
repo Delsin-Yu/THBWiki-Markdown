@@ -1,6 +1,6 @@
 # 文件:V-ROCK_TOUHOU封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a2\ns6%3AV-ROCK_TOUHOU%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a2\ns6%3AV-ROCK_TOUHOU%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 IOSYS | 专辑封面 | 封面图片
 
@@ -8,11 +8,11 @@ IOSYS | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [V-ROCK TOUHOU](./V-ROCK_TOUHOU.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)- [八云紫](./八云紫.md)- [圣白莲](./圣白莲.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [V-ROCK TOUHOU](./V-ROCK_TOUHOU.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [八云紫](./八云紫.md)
+- [圣白莲](./圣白莲.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Rebarrel'd封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c0\ns6%3ARebarrel%27d%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c0\ns6%3ARebarrel%27d%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Casket | 专辑封面 | 封面图片 | 荒御灵
 
@@ -10,11 +10,8 @@ Casket | 专辑封面 | 封面图片 | 荒御灵
 使用了本文件作封面图片的作品：
   
 
-- [Rebarrel'd](./Rebarrel'd.md)  
-该封面包含的角色：- [露娜萨·普莉兹姆利巴](./露娜萨·普莉兹姆利巴.md)
-
-
-
+- [Rebarrel'd](./Rebarrel'd.md)该封面包含的角色：
+- [露娜萨·普莉兹姆利巴](./露娜萨·普莉兹姆利巴.md)
 
 
 ---

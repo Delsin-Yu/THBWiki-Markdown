@@ -1,12 +1,8 @@
 # 文件:日月符「Royal_Diamond_Ring」（非想天则）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fa\ns6%3A%E6%97%A5%E6%9C%88%E7%AC%A6%E3%80%8CRoyal_Diamond_Ring%E3%80%8D%EF%BC%88%E9%9D%9E%E6%83%B3%E5%A4%A9%E5%88%99%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fa\ns6%3A%E6%97%A5%E6%9C%88%E7%AC%A6%E3%80%8CRoyal_Diamond_Ring%E3%80%8D%EF%BC%88%E9%9D%9E%E6%83%B3%E5%A4%A9%E5%88%99%EF%BC%89%2Ejpg.html -->
 
 东方非想天则 | 帕秋莉·诺蕾姬 | 自机符卡
-
-
-
-
 
 
 ---

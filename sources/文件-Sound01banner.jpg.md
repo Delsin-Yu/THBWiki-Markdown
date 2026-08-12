@@ -1,14 +1,11 @@
 # 文件:Sound01banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\82\ns6%3ASound01banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\82\ns6%3ASound01banner%2Ejpg.html -->
 
 Sound01 | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

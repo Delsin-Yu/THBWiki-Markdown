@@ -1,6 +1,6 @@
 # 文件:RED_4_SPEED封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a7\ns6%3ARED_4_SPEED%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a7\ns6%3ARED_4_SPEED%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 LiLA'c_Records | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ LiLA'c_Records | 专辑封面 | 封面图片
   
 
 - [RED 4 SPEED](./RED_4_SPEED.md)
-
-
-
 
 
 ---

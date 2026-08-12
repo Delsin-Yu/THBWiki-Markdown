@@ -1,6 +1,6 @@
 # 文件:To_the_Cosmos封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6a\ns6%3ATo_the_Cosmos%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6a\ns6%3ATo_the_Cosmos%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Releska | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Releska | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [To the Cosmos](./To_the_Cosmos.md)  
-该封面包含的角色：- [丰聪耳神子](./丰聪耳神子.md)
-
-
-
+- [To the Cosmos](./To_the_Cosmos.md)该封面包含的角色：
+- [丰聪耳神子](./丰聪耳神子.md)
 
 
 ---

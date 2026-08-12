@@ -1,18 +1,13 @@
 # 文件:Rice_Recordslogo2.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6f\ns6%3ARice_Recordslogo2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6f\ns6%3ARice_Recordslogo2%2Ejpg.html -->
 
 Rice_Records | 社团LOGO
 
 
 ## 摘要
   
-源地址：[direct image link (max size)](https://yt3.ggpht.com/ytc/AKedOLSKrNKL3gFcfVQ9PRcy1kLxsZRVqzCnsSHTu5D0=s0?imgmax=0), [from circle Youtube logo](https://www.youtube.com/user/RiceRecordsJP/videos)
-  
-
-
-
-
+源地址：[direct image link (max size)](https://yt3.ggpht.com/ytc/AKedOLSKrNKL3gFcfVQ9PRcy1kLxsZRVqzCnsSHTu5D0=s0?imgmax=0), [from circle Youtube logo](https://www.youtube.com/user/RiceRecordsJP/videos)  
 
 ---
 

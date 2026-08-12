@@ -1,6 +1,6 @@
 # 文件:Do_Your_Face封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\55\ns6%3ADo_Your_Face%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\55\ns6%3ADo_Your_Face%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 OG-G_Music_Works | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ OG-G_Music_Works | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Do Your Face](./Do_Your_Face.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [Do Your Face](./Do_Your_Face.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

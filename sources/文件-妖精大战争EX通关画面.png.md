@@ -1,14 +1,11 @@
 # 文件:妖精大战争EX通关画面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\12\ns6%3A%E5%A6%96%E7%B2%BE%E5%A4%A7%E6%88%98%E4%BA%89EX%E9%80%9A%E5%85%B3%E7%94%BB%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\12\ns6%3A%E5%A6%96%E7%B2%BE%E5%A4%A7%E6%88%98%E4%BA%89EX%E9%80%9A%E5%85%B3%E7%94%BB%E9%9D%A2%2Epng.html -->
 
 妖精大战争结局图
 
 
 ## 摘要
-
-
-
 
 ---
 

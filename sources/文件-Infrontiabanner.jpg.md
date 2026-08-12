@@ -1,14 +1,11 @@
 # 文件:Infrontiabanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\96\ns6%3AInfrontiabanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\96\ns6%3AInfrontiabanner%2Ejpg.html -->
 
 Infrontia | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

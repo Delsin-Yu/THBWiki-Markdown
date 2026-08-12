@@ -1,6 +1,6 @@
 # 文件:Remorse_Codex封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cb\ns6%3ARemorse_Codex%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cb\ns6%3ARemorse_Codex%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 E.B.S._0／1 | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ E.B.S._0／1 | 专辑封面 | 封面图片
   
 
 - [Remorse Codex](./Remorse_Codex.md)
-
-
-
 
 
 ---

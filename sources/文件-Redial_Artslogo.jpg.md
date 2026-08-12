@@ -1,18 +1,13 @@
 # 文件:Redial_Artslogo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f4\ns6%3ARedial_Artslogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f4\ns6%3ARedial_Artslogo%2Ejpg.html -->
 
 Redial_Arts | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[twitter avatar](https://pbs.twimg.com/profile_images/711249165766909952/V-7CuqMs_400x400.jpg)
-  
-
-
-
-
+源地址：[twitter avatar](https://pbs.twimg.com/profile_images/711249165766909952/V-7CuqMs_400x400.jpg)  
 
 ---
 

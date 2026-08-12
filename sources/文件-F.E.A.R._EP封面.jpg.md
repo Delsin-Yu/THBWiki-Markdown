@@ -1,6 +1,6 @@
 # 文件:F.E.A.R._EP封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dc\ns6%3AF%2EE%2EA%2ER%2E_EP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dc\ns6%3AF%2EE%2EA%2ER%2E_EP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 死際サテライト
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [F.E.A.R. EP](./F.E.A.R._EP.md)  
-该封面包含的角色：- [米斯蒂娅·萝蕾拉](./米斯蒂娅·萝蕾拉.md)
-
-
-
+- [F.E.A.R. EP](./F.E.A.R._EP.md)该封面包含的角色：
+- [米斯蒂娅·萝蕾拉](./米斯蒂娅·萝蕾拉.md)
 
 
 ---

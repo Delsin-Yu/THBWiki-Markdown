@@ -1,14 +1,11 @@
 # 文件:thEIoS_06.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\76\ns6%3AthEIoS_06%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\76\ns6%3AthEIoS_06%2Emp3.html -->
 
 东方祈华梦制作组 | 林间烟雨小令
 
 
 ## 文件说明
-
-
-
 
 ---
 

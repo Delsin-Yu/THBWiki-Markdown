@@ -1,16 +1,11 @@
 # 文件:ごりら公園banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4a\ns6%3A%E3%81%94%E3%82%8A%E3%82%89%E5%85%AC%E5%9C%92banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4a\ns6%3A%E3%81%94%E3%82%8A%E3%82%89%E5%85%AC%E5%9C%92banner%2Epng.html -->
 
 ごりら公園 | 社团LOGO
 
   
-源地址：[[1]](https://web.archive.org/web/20171019194821im_/http://efumajor7th.web.fc2.com/banner.png)
-  
-
-
-
-
+源地址：[\[1\]](https://web.archive.org/web/20171019194821im_/http://efumajor7th.web.fc2.com/banner.png)  
 
 ---
 

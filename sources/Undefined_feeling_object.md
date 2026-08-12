@@ -1,13 +1,11 @@
 # Undefined_feeling_object
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\a\ac\ns0%3AUndefined_feeling_object.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\a\ac\ns0%3AUndefined_feeling_object.html -->
 
 2014年11月24日 由 東方慶庵郷 于 博丽神社秋季例大祭1 发布的全长同人专辑，内容以 东方星莲船为题材，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人专辑 (未找到链接)** 的词条
-<center>
-
+**[二次创作同人专辑](./二次创作.md#同人音乐)**的词条<center>
 <table>
 <tbody><tr>
 <td class="mbox-image"><div style="width: 52px;">
@@ -16,30 +14,20 @@
 </tr>
 </tbody></table>
 
-
 </center>
-
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Undefined_feeling_object封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/2/2e/Undefined_feeling_object%E5%B0%81%E9%9D%A2.jpg/247px-Undefined_feeling_object%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="247" height="252" srcset="https://upload.thwiki.cc/thumb/2/2e/Undefined_feeling_object%E5%B0%81%E9%9D%A2.jpg/370px-Undefined_feeling_object%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/2/2e/Undefined_feeling_object%E5%B0%81%E9%9D%A2.jpg/493px-Undefined_feeling_object%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1002" data-file-height="1024"></a><div class="cover-char">角色：<a href="./封兽鵺.md" title="封兽鵺">封兽鵺</a>，<a href="./多多良小伞.md" title="多多良小伞">多多良小伞</a></div></td>
 </tr><tr><td class="label">名称</td><td colspan="2"> Undefined feeling object </td></tr><tr><td class="label">制作方</td><td><a href="./東方慶庵郷.md" title="東方慶庵郷">東方慶庵郷</a></td><td class="cover-artwork" rowspan="9" style="min-width:252px;"><a href="./文件-Undefined_feeling_object封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/2/2e/Undefined_feeling_object%E5%B0%81%E9%9D%A2.jpg/247px-Undefined_feeling_object%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="247" height="252" srcset="https://upload.thwiki.cc/thumb/2/2e/Undefined_feeling_object%E5%B0%81%E9%9D%A2.jpg/370px-Undefined_feeling_object%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/2/2e/Undefined_feeling_object%E5%B0%81%E9%9D%A2.jpg/493px-Undefined_feeling_object%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1002" data-file-height="1024"></a><div class="cover-char">角色：<a href="./封兽鵺.md" title="封兽鵺">封兽鵺</a>，<a href="./多多良小伞.md" title="多多良小伞">多多良小伞</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2014-11-24&#160;（<a href="/展会作品列表?e=%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E7%A7%8B%E5%AD%A3%E4%BE%8B%E5%A4%A7%E7%A5%AD%231">第一回 博麗神社秋季例大祭</a>）</td></tr><tr><td class="label">类型</td><td>全长</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>0</td></tr><tr><td class="label">总时长</td><td>00:00</td></tr><tr><td class="label">特定选材</td><td>东方星莲船</td></tr><tr><td class="label">售价</td><td>会场售价：200日元</td></tr>
+</tr><tr><td class="label">首发日期</td><td>2014-11-24 （<a href="./展会作品列表.md#1">第一回 博麗神社秋季例大祭</a>）</td></tr><tr><td class="label">类型</td><td>全长</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>0</td></tr><tr><td class="label">总时长</td><td>00:00</td></tr><tr><td class="label">特定选材</td><td>东方星莲船</td></tr><tr><td class="label">售价</td><td>会场售价：200日元</td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/Keio_k_an/status/533959970375487489">https://twitter.com/Keio_k_an/status/533959970375487489</a><br><a rel="nofollow" class="external free" href="https://twitter.com/Keio_k_an/status/536516190193987585">https://twitter.com/Keio_k_an/status/536516190193987585</a></td></tr></tbody></table>
 
 Undefined feeling object（同人专辑，東方慶庵郷，2014） - 2014年11月24日 由 東方慶庵郷 于 博丽神社秋季例大祭1 发布的全长同人专辑，内容以 东方星莲船为题材，分级为 一般向
-
 ## Staff
 
 ## 曲目列表
 
-<table></table>
-
-
-
 ## 评论
-
-
-
 
 ---
 

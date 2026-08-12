@@ -1,6 +1,6 @@
 # 文件:RESetup;封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d0\ns6%3ARESetup%3B%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d0\ns6%3ARESetup%3B%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 C.H.S | 专辑封面 | 封面图片
 
@@ -8,11 +8,10 @@ C.H.S | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [RESetup;](./RESetup;.md)  
-该封面包含的角色：- [云居一轮](./云居一轮.md)- [封兽鵺](./封兽鵺.md)- [云山](./云山.md)
-
-
-
+- [RESetup;](./RESetup;.md)该封面包含的角色：
+- [云居一轮](./云居一轮.md)
+- [封兽鵺](./封兽鵺.md)
+- [云山](./云山.md)
 
 
 ---

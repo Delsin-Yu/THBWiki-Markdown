@@ -1,12 +1,8 @@
 # 文件:逆行社banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b7\ns6%3A%E9%80%86%E8%A1%8C%E7%A4%BEbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b7\ns6%3A%E9%80%86%E8%A1%8C%E7%A4%BEbanner%2Ejpg.html -->
 
 社团LOGO | 逆行社
-
-
-
-
 
 
 ---

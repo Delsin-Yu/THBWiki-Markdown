@@ -1,37 +1,27 @@
 # Lost_River
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\8\8e\ns0%3ALost_River.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\8\8e\ns0%3ALost_River.html -->
 
 由 ZUN 创作的官方曲目，原名 ロストリバー
 
 本页是关于东方Project  
- **原作音乐** 的词条
-
+**原作音乐**的词条
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 出现作品](#出现作品)
 - [3 音乐文件](#音乐文件)
-
   - [3.1 东方鬼形兽](#东方鬼形兽)
 
 
-
 - [4 说明文本](#说明文本)
-
   - [4.1 东方鬼形兽](#东方鬼形兽_2)
 
 
-
 - [5 其他资料](#其他资料)
-
   - [5.1 乐理资讯](#乐理资讯)
   - [5.2 分析考据](#分析考据)
   - [5.3 二次同人数据](#二次同人数据)
-
-
-
-
 
 
 
@@ -41,14 +31,12 @@
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">ロストリバー</td></tr><tr><td><b>译名</b></td><td>Lost River</td></tr><tr><td><b>其他译名</b></td><td>迷失之河<br>失落之河</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 Lost River（曲目） - 由 ZUN 创作的官方曲目，原名 ロストリバー
-
 ## 出现作品
 
 <table>
 <tbody><tr><td>2019年5月5日（第十六回 博丽神社例大祭）</td><td><b><a href="./东方鬼形兽.md" title="东方鬼形兽">东方鬼形兽</a>体验版</b></td><td>2面主题曲</td><td style="padding-left:5px;">ロストリバー（Lost River）</td><td style="padding-left:10px;">作曲：ZUN</td></tr>
 <tr><td>2019年8月12日（Comic Market 96）</td><td><b><a href="./东方鬼形兽.md" title="东方鬼形兽">东方鬼形兽</a>正式版</b></td><td>2面主题曲</td><td style="padding-left:5px;">ロストリバー（Lost River）</td><td style="padding-left:10px;">作曲：ZUN</td></tr>
 </tbody></table>
-
 
 
 ## 音乐文件
@@ -63,32 +51,34 @@ Lost River（曲目） - 由 ZUN 创作的官方曲目，原名 ロストリバ�
 </td></tr></tbody></table>
 
 
-
 ## 说明文本
 
 ### 东方鬼形兽
-- Music Room (未找到链接)
+
+- [Music Room](./东方鬼形兽-Music.md#2面主题曲)
 
 　2面的主题曲。  
-　  
+   
 　人见人爱三途河的主题曲。  
 　比起河，不如说是以海上的战斗为印象创作了这首曲子。  
 　栖息在水中的鱼类，可能也包含已经灭绝的古代鱼，  
 　甚至是蛇颈龙。真是让人浮想联翩。
-
 ## 其他资料
 
 ### 乐理资讯
 
 ### 分析考据
   
- **ロストリバー**  Lost River
+**ロストリバー** Lost River
   
 
-- Lost
-  - 迷失。
-    - 迷失之河。
+- Lost 
+  - 迷失。 
+    - 迷失之河。 
       - 指魂魄妖梦和雾雨魔理沙于三途河迷失方向？
+
+
+
 
 
 
@@ -106,17 +96,6 @@ Lost River（曲目） - 由 ZUN 创作的官方曲目，原名 ロストリバ�
 <tr><td>Arrange</td><td>37</td></tr>
 <tr><td>Vocal率</td><td>27.45%</td></tr>
 </tbody></table>
-
-
-
-
-  
-  
-
-  
-
-
-
 
 
 ---

@@ -1,14 +1,11 @@
 # 文件:彗星「Blazing_Star」（绯想天符录）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e9\ns6%3A%E5%BD%97%E6%98%9F%E3%80%8CBlazing_Star%E3%80%8D%EF%BC%88%E7%BB%AF%E6%83%B3%E5%A4%A9%E7%AC%A6%E5%BD%95%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e9\ns6%3A%E5%BD%97%E6%98%9F%E3%80%8CBlazing_Star%E3%80%8D%EF%BC%88%E7%BB%AF%E6%83%B3%E5%A4%A9%E7%AC%A6%E5%BD%95%EF%BC%89%2Ejpg.html -->
 
 绯想天符录 | 雾雨魔理沙
 
 
 ## 摘要
-
-
-
 
 ---
 

@@ -1,12 +1,8 @@
 # 文件:虹色くりえいた～ずbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\11\ns6%3A%E8%99%B9%E8%89%B2%E3%81%8F%E3%82%8A%E3%81%88%E3%81%84%E3%81%9F%EF%BD%9E%E3%81%9Abanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\11\ns6%3A%E8%99%B9%E8%89%B2%E3%81%8F%E3%82%8A%E3%81%88%E3%81%84%E3%81%9F%EF%BD%9E%E3%81%9Abanner%2Ejpg.html -->
 
 社团LOGO | 虹色くりえいた～ず
-
-
-
-
 
 
 ---

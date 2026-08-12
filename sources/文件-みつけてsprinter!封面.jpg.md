@@ -1,6 +1,6 @@
 # 文件:みつけてsprinter!封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\40\ns6%3A%E3%81%BF%E3%81%A4%E3%81%91%E3%81%A6sprinter%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\40\ns6%3A%E3%81%BF%E3%81%A4%E3%81%91%E3%81%A6sprinter%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ②号トピック | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [みつけてsprinter!](./みつけてsprinter!.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
+- [みつけてsprinter!](./みつけてsprinter!.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-源地址：[direct image link](http://2gotopic.web.fc2.com/g/hyousi_mitu.jpg), [source page](http://2gotopic.web.fc2.com/off.htm)
-  
-
-
-
-
+源地址：[direct image link](http://2gotopic.web.fc2.com/g/hyousi_mitu.jpg), [source page](http://2gotopic.web.fc2.com/off.htm)  
 
 ---
 

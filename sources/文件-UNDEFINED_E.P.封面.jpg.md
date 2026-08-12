@@ -1,6 +1,6 @@
 # 文件:UNDEFINED_E.P.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1a\ns6%3AUNDEFINED_E%2EP%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1a\ns6%3AUNDEFINED_E%2EP%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Our_Last_Day | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Our_Last_Day | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [UNDEFINED E.P.](./UNDEFINED_E.P..md)  
-该封面包含的角色：- [圣白莲](./圣白莲.md)
+- [UNDEFINED E.P.](./UNDEFINED_E.P..md)该封面包含的角色：
+- [圣白莲](./圣白莲.md)
 
   
-源地址：[[1]](https://cdn.melonbooks.co.jp/user_data/packages/resize_image.php?image=11091224_545ede67c2a55.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://cdn.melonbooks.co.jp/user_data/packages/resize_image.php?image=11091224_545ede67c2a55.jpg)  
 
 ---
 

@@ -1,12 +1,8 @@
 # 文件:1211banner2.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\30\ns6%3A1211banner2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\30\ns6%3A1211banner2%2Ejpg.html -->
 
 1211 | 社团LOGO
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:礦石音幻紀行３_～_Note_of_the_Lotus_land封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2a\ns6%3A%E7%A4%A6%E7%9F%B3%E9%9F%B3%E5%B9%BB%E7%B4%80%E8%A1%8C%EF%BC%93_%EF%BD%9E_Note_of_the_Lotus_land%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2a\ns6%3A%E7%A4%A6%E7%9F%B3%E9%9F%B3%E5%B9%BB%E7%B4%80%E8%A1%8C%EF%BC%93_%EF%BD%9E_Note_of_the_Lotus_land%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 武蔵野電機製作所
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [礦石音幻紀行３ ～ Note of the Lotus land](./礦石音幻紀行３_～_Note_of_the_Lotus_land.md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)
-
-
-
+- [礦石音幻紀行３ ～ Note of the Lotus land](./礦石音幻紀行３_～_Note_of_the_Lotus_land.md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
 
 
 ---

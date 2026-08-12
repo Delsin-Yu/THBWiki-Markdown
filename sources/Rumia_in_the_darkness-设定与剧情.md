@@ -1,6 +1,6 @@
 # Rumia_in_the_darkness/设定与剧情
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\8\86\ns0%3ARumia_in_the_darkness%2F%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\8\86\ns0%3ARumia_in_the_darkness%2F%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85.html -->
 
 Dark_Sky_Empire
 
@@ -10,14 +10,9 @@ Dark_Sky_Empire
 幻想乡中竟然出现了一个企图通过修改妖怪们的名字来削弱她们力量的邪恶大商人！如此恶毒之人，怎能允许其继续活命？现在，黑暗妖怪露米娅自告奋勇前去除恶！她将渗透人类的村庄，并且吃掉村民来获取新技能。
   
 
-
 ## 游戏设定
   
 这是一部以露米娅为主角的黑暗风格冒险游戏。为了阻止某个企图通过修改妖怪们的名字来削弱其力量的邪恶大商人，露米娅将潜入到人类村落中。她必须在不被人发现的情况下前进并突破大量的障碍，同时猎杀村民来获得新技能。
-  
-  
-  
-
   
   
 游戏特点：
@@ -46,10 +41,6 @@ Dark_Sky_Empire
   
 ·支持Steam云。
   
-
-
-
-
 
 ---
 

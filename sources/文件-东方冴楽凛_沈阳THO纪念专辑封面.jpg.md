@@ -1,6 +1,6 @@
 # 文件:东方冴楽凛_沈阳THO纪念专辑封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cd\ns6%3A%E4%B8%9C%E6%96%B9%E5%86%B4%E6%A5%BD%E5%87%9B_%E6%B2%88%E9%98%B3THO%E7%BA%AA%E5%BF%B5%E4%B8%93%E8%BE%91%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cd\ns6%3A%E4%B8%9C%E6%96%B9%E5%86%B4%E6%A5%BD%E5%87%9B_%E6%B2%88%E9%98%B3THO%E7%BA%AA%E5%BF%B5%E4%B8%93%E8%BE%91%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 沈阳THONLY
 
@@ -8,12 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [东方冴楽凛 沈阳THO纪念专辑](./东方冴楽凛_沈阳THO纪念专辑.md)  
-该封面包含的角色：- 原创角色 (未找到链接)这是沈T纪念专封面，因为到现在还没人补自己用手机照了一张，如有扫图版敬请替换之。
-
-
-
-
+- [东方冴楽凛 沈阳THO纪念专辑](./东方冴楽凛_沈阳THO纪念专辑.md)该封面包含的角色：
+- 原创角色 (未找到链接)
+这是沈T纪念专封面，因为到现在还没人补自己用手机照了一张，如有扫图版敬请替换之。
 
 ---
 

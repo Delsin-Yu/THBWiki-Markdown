@@ -1,12 +1,8 @@
 # 文件:BLANKFIELDlogo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1b\ns6%3ABLANKFIELDlogo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1b\ns6%3ABLANKFIELDlogo%2Epng.html -->
 
 BLANKFIELD | 社团LOGO
-
-
-
-
 
 
 ---

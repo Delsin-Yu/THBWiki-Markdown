@@ -1,6 +1,6 @@
 # 文件:RUSH！_-ラッシュ！-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\76\ns6%3ARUSH%EF%BC%81_-%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%EF%BC%81-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\76\ns6%3ARUSH%EF%BC%81_-%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%EF%BC%81-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 K2_SOUND | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ K2_SOUND | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [RUSH！ -ラッシュ！-](./RUSH！_-ラッシュ！-.md)  
-该封面包含的角色：- [娜兹玲](./娜兹玲.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [RUSH！ -ラッシュ！-](./RUSH！_-ラッシュ！-.md)该封面包含的角色：
+- [娜兹玲](./娜兹玲.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

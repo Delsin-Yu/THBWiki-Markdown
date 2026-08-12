@@ -1,37 +1,35 @@
 # CYTOKINE_ZYTOKINE_TOUHOU_DOUJIN_ARTWORKS_2016_-_2021
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\c\cc\ns0%3ACYTOKINE_ZYTOKINE_TOUHOU_DOUJIN_ARTWORKS_2016_-_2021.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\c\cc\ns0%3ACYTOKINE_ZYTOKINE_TOUHOU_DOUJIN_ARTWORKS_2016_-_2021.html -->
 
 2021年5月2日 由 CYTOKINE，ZYTOKINE 于 空气Comiket3 发布的画集同人志，B5尺寸一共36页，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人志 (未找到链接)** 的词条
-
+**[二次创作同人志](./二次创作.md#同人志)**的词条
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-CYTOKINE_ZYTOKINE_TOUHOU_DOUJIN_ARTWORKS_2016_-_2021封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/0/06/CYTOKINE_ZYTOKINE_TOUHOU_DOUJIN_ARTWORKS_2016_-_2021%E5%B0%81%E9%9D%A2.jpg/138px-CYTOKINE_ZYTOKINE_TOUHOU_DOUJIN_ARTWORKS_2016_-_2021%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="138" height="196" srcset="https://upload.thwiki.cc/thumb/0/06/CYTOKINE_ZYTOKINE_TOUHOU_DOUJIN_ARTWORKS_2016_-_2021%E5%B0%81%E9%9D%A2.jpg/207px-CYTOKINE_ZYTOKINE_TOUHOU_DOUJIN_ARTWORKS_2016_-_2021%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/0/06/CYTOKINE_ZYTOKINE_TOUHOU_DOUJIN_ARTWORKS_2016_-_2021%E5%B0%81%E9%9D%A2.jpg/276px-CYTOKINE_ZYTOKINE_TOUHOU_DOUJIN_ARTWORKS_2016_-_2021%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1402" data-file-height="1987"></a><div class="cover-char">角色：<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a></div></td>
 </tr><tr><td class="label">名称</td><td colspan="2"> CYTOKINE ZYTOKINE TOUHOU DOUJIN ARTWORKS 2016 - 2021 </td></tr><tr><td class="label">制作方</td><td><a href="./CYTOKINE.md" title="CYTOKINE">CYTOKINE</a><br><a href="./ZYTOKINE.md" title="ZYTOKINE">ZYTOKINE</a></td><td class="cover-artwork" rowspan="7" style="min-width:196px;"><a href="./文件-CYTOKINE_ZYTOKINE_TOUHOU_DOUJIN_ARTWORKS_2016_-_2021封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/0/06/CYTOKINE_ZYTOKINE_TOUHOU_DOUJIN_ARTWORKS_2016_-_2021%E5%B0%81%E9%9D%A2.jpg/138px-CYTOKINE_ZYTOKINE_TOUHOU_DOUJIN_ARTWORKS_2016_-_2021%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="138" height="196" srcset="https://upload.thwiki.cc/thumb/0/06/CYTOKINE_ZYTOKINE_TOUHOU_DOUJIN_ARTWORKS_2016_-_2021%E5%B0%81%E9%9D%A2.jpg/207px-CYTOKINE_ZYTOKINE_TOUHOU_DOUJIN_ARTWORKS_2016_-_2021%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/0/06/CYTOKINE_ZYTOKINE_TOUHOU_DOUJIN_ARTWORKS_2016_-_2021%E5%B0%81%E9%9D%A2.jpg/276px-CYTOKINE_ZYTOKINE_TOUHOU_DOUJIN_ARTWORKS_2016_-_2021%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1402" data-file-height="1987"></a><div class="cover-char">角色：<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2021-05-02&#160;（<a href="/展会作品列表?e=%E7%A9%BA%E6%B0%94Comiket%233">エアコミケ3</a>）</td></tr><tr><td class="label">类型</td><td>画集</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>B5</td></tr><tr><td class="label">页数</td><td>36P</td></tr><tr><td class="label">售价</td><td>1200日元</td></tr>
+</tr><tr><td class="label">首发日期</td><td>2021-05-02 （<a href="./展会作品列表.md#3">エアコミケ3</a>）</td></tr><tr><td class="label">类型</td><td>画集</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>B5</td></tr><tr><td class="label">页数</td><td>36P</td></tr><tr><td class="label">售价</td><td>1200日元</td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://zytokine-web.com/70ZC/">http://zytokine-web.com/70ZC/</a></td></tr></tbody></table>
 
 CYTOKINE ZYTOKINE TOUHOU DOUJIN ARTWORKS 2016 - 2021（同人志，CYTOKINE，ZYTOKINE，2021） - 2021年5月2日 由 CYTOKINE，ZYTOKINE 于 空气Comiket3 发布的画集同人志，B5尺寸一共36页，分级为 一般向
-
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://zytokine.booth.pm/items/2922727">Booth</a></td></tr></tbody></table>
 
 
-
 ## 预览
-- [](./文件-CYTOKINE_ZYTOKINE_TOUHOU_DOUJIN_ARTWORKS_2016_-_2021预览图1.jpg.md)- [](./文件-CYTOKINE_ZYTOKINE_TOUHOU_DOUJIN_ARTWORKS_2016_-_2021预览图2.jpg.md)- [](./文件-CYTOKINE_ZYTOKINE_TOUHOU_DOUJIN_ARTWORKS_2016_-_2021预览图3.jpg.md)
+
+- <img alt="CYTOKINE ZYTOKINE TOUHOU DOUJIN ARTWORKS 2016 - 2021预览图1.jpg" src="https://upload.thwiki.cc/thumb/b/b6/CYTOKINE_ZYTOKINE_TOUHOU_DOUJIN_ARTWORKS_2016_-_2021%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg/268px-CYTOKINE_ZYTOKINE_TOUHOU_DOUJIN_ARTWORKS_2016_-_2021%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg" decoding="async" loading="lazy" width="179" height="250" srcset="https://upload.thwiki.cc/thumb/b/b6/CYTOKINE_ZYTOKINE_TOUHOU_DOUJIN_ARTWORKS_2016_-_2021%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg/402px-CYTOKINE_ZYTOKINE_TOUHOU_DOUJIN_ARTWORKS_2016_-_2021%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg 1.5x, https://upload.thwiki.cc/thumb/b/b6/CYTOKINE_ZYTOKINE_TOUHOU_DOUJIN_ARTWORKS_2016_-_2021%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg/535px-CYTOKINE_ZYTOKINE_TOUHOU_DOUJIN_ARTWORKS_2016_-_2021%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg 2x" data-file-width="1083" data-file-height="1517"> 
+- <img alt="CYTOKINE ZYTOKINE TOUHOU DOUJIN ARTWORKS 2016 - 2021预览图2.jpg" src="https://upload.thwiki.cc/thumb/f/fc/CYTOKINE_ZYTOKINE_TOUHOU_DOUJIN_ARTWORKS_2016_-_2021%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg/266px-CYTOKINE_ZYTOKINE_TOUHOU_DOUJIN_ARTWORKS_2016_-_2021%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg" decoding="async" loading="lazy" width="178" height="250" srcset="https://upload.thwiki.cc/thumb/f/fc/CYTOKINE_ZYTOKINE_TOUHOU_DOUJIN_ARTWORKS_2016_-_2021%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg/399px-CYTOKINE_ZYTOKINE_TOUHOU_DOUJIN_ARTWORKS_2016_-_2021%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg 1.5x, https://upload.thwiki.cc/thumb/f/fc/CYTOKINE_ZYTOKINE_TOUHOU_DOUJIN_ARTWORKS_2016_-_2021%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg/531px-CYTOKINE_ZYTOKINE_TOUHOU_DOUJIN_ARTWORKS_2016_-_2021%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg 2x" data-file-width="2508" data-file-height="3539"> 
+- <img alt="CYTOKINE ZYTOKINE TOUHOU DOUJIN ARTWORKS 2016 - 2021预览图3.jpg" src="https://upload.thwiki.cc/thumb/1/18/CYTOKINE_ZYTOKINE_TOUHOU_DOUJIN_ARTWORKS_2016_-_2021%E9%A2%84%E8%A7%88%E5%9B%BE3.jpg/266px-CYTOKINE_ZYTOKINE_TOUHOU_DOUJIN_ARTWORKS_2016_-_2021%E9%A2%84%E8%A7%88%E5%9B%BE3.jpg" decoding="async" loading="lazy" width="178" height="250" srcset="https://upload.thwiki.cc/thumb/1/18/CYTOKINE_ZYTOKINE_TOUHOU_DOUJIN_ARTWORKS_2016_-_2021%E9%A2%84%E8%A7%88%E5%9B%BE3.jpg/399px-CYTOKINE_ZYTOKINE_TOUHOU_DOUJIN_ARTWORKS_2016_-_2021%E9%A2%84%E8%A7%88%E5%9B%BE3.jpg 1.5x, https://upload.thwiki.cc/thumb/1/18/CYTOKINE_ZYTOKINE_TOUHOU_DOUJIN_ARTWORKS_2016_-_2021%E9%A2%84%E8%A7%88%E5%9B%BE3.jpg/532px-CYTOKINE_ZYTOKINE_TOUHOU_DOUJIN_ARTWORKS_2016_-_2021%E9%A2%84%E8%A7%88%E5%9B%BE3.jpg 2x" data-file-width="2509" data-file-height="3539"> 
 
 
 ## Staff
-- [蒲焼うなぎ](./蒲焼うなぎ.md)
+
+- [蒲焼うなぎ](./蒲焼鰻.md)
 
 
 ## 评论
-
-
-
 
 ---
 

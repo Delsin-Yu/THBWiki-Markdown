@@ -1,12 +1,8 @@
 # 文件:东方求闻史纪MelonBooks特典.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f9\ns6%3A%E4%B8%9C%E6%96%B9%E6%B1%82%E9%97%BB%E5%8F%B2%E7%BA%AAMelonBooks%E7%89%B9%E5%85%B8%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f9\ns6%3A%E4%B8%9C%E6%96%B9%E6%B1%82%E9%97%BB%E5%8F%B2%E7%BA%AAMelonBooks%E7%89%B9%E5%85%B8%2Ejpg.html -->
 
 MelonBooks特典 | 东方求闻史纪
-
-
-
-
 
 
 ---

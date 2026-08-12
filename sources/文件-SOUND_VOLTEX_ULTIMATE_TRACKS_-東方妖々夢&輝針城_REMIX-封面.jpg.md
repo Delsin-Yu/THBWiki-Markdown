@@ -1,6 +1,6 @@
 # 文件:SOUND_VOLTEX_ULTIMATE_TRACKS_-東方妖々夢&輝針城_REMIX-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b2\ns6%3ASOUND_VOLTEX_ULTIMATE_TRACKS_-%E6%9D%B1%E6%96%B9%E5%A6%96%E3%80%85%E5%A4%A2%26%E8%BC%9D%E9%87%9D%E5%9F%8E_REMIX-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b2\ns6%3ASOUND_VOLTEX_ULTIMATE_TRACKS_-%E6%9D%B1%E6%96%B9%E5%A6%96%E3%80%85%E5%A4%A2%26%E8%BC%9D%E9%87%9D%E5%9F%8E_REMIX-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 KONAMI | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ KONAMI | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [SOUND VOLTEX ULTIMATE TRACKS -東方妖々夢&amp;輝針城 REMIX-](./SOUND_VOLTEX_ULTIMATE_TRACKS_-東方妖々夢&輝針城_REMIX-.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
-
-
-
+- [SOUND VOLTEX ULTIMATE TRACKS -東方妖々夢&輝針城 REMIX-](./SOUND_VOLTEX_ULTIMATE_TRACKS_-東方妖々夢&輝針城_REMIX-.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
 
 
 ---

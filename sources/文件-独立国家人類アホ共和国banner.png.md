@@ -1,12 +1,8 @@
 # 文件:独立国家人類アホ共和国banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\19\ns6%3A%E7%8B%AC%E7%AB%8B%E5%9B%BD%E5%AE%B6%E4%BA%BA%E9%A1%9E%E3%82%A2%E3%83%9B%E5%85%B1%E5%92%8C%E5%9B%BDbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\19\ns6%3A%E7%8B%AC%E7%AB%8B%E5%9B%BD%E5%AE%B6%E4%BA%BA%E9%A1%9E%E3%82%A2%E3%83%9B%E5%85%B1%E5%92%8C%E5%9B%BDbanner%2Epng.html -->
 
 独立国家人類アホ共和国 | 社团LOGO
-
-
-
-
 
 
 ---

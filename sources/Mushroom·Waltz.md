@@ -1,31 +1,23 @@
 # Mushroom·Waltz
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\5\59\ns0%3AMushroom%C2%B7Waltz.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\5\59\ns0%3AMushroom%C2%B7Waltz.html -->
 
 由 あきやまうに 创作的官方曲目，原名 マッシュルーム・ワルツ
 
 本页是关于东方Project  
- **原作音乐** 的词条
-
+**原作音乐**的词条
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 出现作品](#出现作品)
 - [3 音乐文件](#音乐文件)
-
   - [3.1 完全凭依唱片名录](#完全凭依唱片名录)
 
 
-
 - [4 其他资料](#其他资料)
-
   - [4.1 乐理资讯](#乐理资讯)
   - [4.2 分析考据](#分析考据)
   - [4.3 二次同人数据](#二次同人数据)
-
-
-
-
 
 
 
@@ -35,7 +27,6 @@
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">マッシュルーム・ワルツ</td></tr><tr><td><b>译名</b></td><td>Mushroom·Waltz</td></tr><tr><td><b>英文译名</b></td><td>Mushroom Waltz</td></tr><tr><td><b>其他译名</b></td><td>蘑菇华尔兹</td></tr><tr><td><b>作曲</b></td><td><a href="./あきやまうに.md" title="あきやまうに">あきやまうに</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 Mushroom·Waltz（曲目） - 由 あきやまうに 创作的官方曲目，原名 マッシュルーム・ワルツ
-
 ## 出现作品
 
 <table>
@@ -46,13 +37,11 @@ Mushroom·Waltz（曲目） - 由 あきやまうに 创作的官方曲目，原
 </tbody></table>
 
 
-
 ## 音乐文件
 
 ### 完全凭依唱片名录
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-TFM-009a_04.mp3.md" title="文件:TFM-009a 04.mp3">TFM-009a_04.mp3</a><br><audio src="https://upload.thwiki.cc/7/71/TFM-009a_04.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track04.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>3:29</td></tr></tbody></table>
-
 
 
 ## 其他资料
@@ -61,31 +50,33 @@ Mushroom·Waltz（曲目） - 由 あきやまうに 创作的官方曲目，原
 
 ### 分析考据
   
- **マッシュルーム・ワルツ**  Mushroom·Waltz
+**マッシュルーム・ワルツ** Mushroom·Waltz
   
 
-- Mushroom
+- Mushroom 
   - 蘑菇，一种可食用的白盖菌类。作为形容词使用时有“一个接一个地出现”，“生长”的意思。
 
-- Waltz(德语)
+
+- Waltz(德语) 
   - 华尔兹，一种配合着四三拍的舞曲跳舞的舞蹈。
 
-- 乐曲
-  - 以手风琴和钢琴为主体的BGM。
+
+- 乐曲 
+  - 以手风琴和钢琴为主体的BGM。 
     - 副歌部分由手风琴变为以小提琴、钢琴为主。
 
 
 
-  
-  
 
-  
 
-- 备考
-  - 在茨歌仙第六卷中有收集菌类的情节。
+
+- 备考 
+  - 在茨歌仙第六卷中有收集菌类的情节。 
     - 有冬虫夏草的印象？
 
+
   - 在体验版中，不灭的赤魂可能被随机选为该场景的战斗曲。
+
 
 
 
@@ -101,17 +92,6 @@ Mushroom·Waltz（曲目） - 由 あきやまうに 创作的官方曲目，原
 <tr><td>Arrange</td><td>5</td></tr>
 <tr><td>Vocal率</td><td>0%</td></tr>
 </tbody></table>
-
-
-
-
-  
-  
-
-  
-
-
-
 
 
 ---

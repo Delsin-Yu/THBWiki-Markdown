@@ -1,6 +1,6 @@
 # 文件:Forever_be_Your_Wonderland封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2c\ns6%3AForever_be_Your_Wonderland%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2c\ns6%3AForever_be_Your_Wonderland%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 下弦月舞会 | 同人志封面 | 封面图片
 
@@ -10,16 +10,16 @@
 使用了本文件作封面图片的作品：
   
 
-- [Forever be Your Wonderland](./Forever_be_Your_Wonderland.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [魂魄妖梦](./魂魄妖梦.md)- [西行寺幽幽子](./西行寺幽幽子.md)- 阿鲁卡多 (未找到链接)- 巫妖王 (未找到链接)
+- [Forever be Your Wonderland](./Forever_be_Your_Wonderland.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [魂魄妖梦](./魂魄妖梦.md)
+- [西行寺幽幽子](./西行寺幽幽子.md)
+- 阿鲁卡多 (未找到链接)
+- 巫妖王 (未找到链接)
 
   
-源地址：[天窗联盟](https://doujin.bgm.tv/subject/10601), higher quality but watermarked version at [Pixiv artwork ID: 16387943](https://www.pixiv.net/artworks/16387943)
-  
-
-
-
-
+源地址：[天窗联盟](https://doujin.bgm.tv/subject/10601), higher quality but watermarked version at [Pixiv artwork ID: 16387943](https://www.pixiv.net/artworks/16387943)  
 
 ---
 

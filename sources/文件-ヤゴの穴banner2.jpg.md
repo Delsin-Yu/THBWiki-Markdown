@@ -1,14 +1,11 @@
 # 文件:ヤゴの穴banner2.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\76\ns6%3A%E3%83%A4%E3%82%B4%E3%81%AE%E7%A9%B4banner2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\76\ns6%3A%E3%83%A4%E3%82%B4%E3%81%AE%E7%A9%B4banner2%2Ejpg.html -->
 
 ヤゴの穴 | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

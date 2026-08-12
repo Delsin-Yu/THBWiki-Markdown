@@ -1,16 +1,11 @@
 # 文件:MUD_SPIKE!banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b2\ns6%3AMUD_SPIKE%21banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b2\ns6%3AMUD_SPIKE%21banner%2Egif.html -->
 
 MUD_SPIKE! | 社团LOGO
 
   
-源地址：[[1]](http://mudspike.rgr.jp/banner.gif)
-  
-
-
-
-
+源地址：[\[1\]](http://mudspike.rgr.jp/banner.gif)  
 
 ---
 

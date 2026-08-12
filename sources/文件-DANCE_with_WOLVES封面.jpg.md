@@ -1,6 +1,6 @@
 # 文件:DANCE_with_WOLVES封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c2\ns6%3ADANCE_with_WOLVES%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c2\ns6%3ADANCE_with_WOLVES%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 発熱巫女～ず
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [DANCE with WOLVES](./DANCE_with_WOLVES.md)  
-该封面包含的角色：- [今泉影狼](./今泉影狼.md)
-
-
-
+- [DANCE with WOLVES](./DANCE_with_WOLVES.md)该封面包含的角色：
+- [今泉影狼](./今泉影狼.md)
 
 
 ---

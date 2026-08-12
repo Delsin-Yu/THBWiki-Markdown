@@ -1,6 +1,6 @@
 # 文件:Traveler封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b9\ns6%3ATraveler%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b9\ns6%3ATraveler%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Tinker_JunKtion | 专辑封面 | 封面图片
 
@@ -11,12 +11,7 @@ Tinker_JunKtion | 专辑封面 | 封面图片
 - [Traveler](./Traveler.md)
 
   
-源地址：[[1]](https://s.booth.pm/c/f_620/30f9ac5f-40dc-4025-a64b-eaefb7e5b8c9/i/101227/48fc09eb-a8a7-4d7e-9c56-aad7ae16f8c7.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://s.booth.pm/c/f_620/30f9ac5f-40dc-4025-a64b-eaefb7e5b8c9/i/101227/48fc09eb-a8a7-4d7e-9c56-aad7ae16f8c7.jpg)  
 
 ---
 

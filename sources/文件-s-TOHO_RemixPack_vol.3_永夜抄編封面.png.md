@@ -1,6 +1,6 @@
 # 文件:s-TOHO_RemixPack_vol.3_永夜抄編封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\21\ns6%3As-TOHO_RemixPack_vol%2E3_%E6%B0%B8%E5%A4%9C%E6%8A%84%E7%B7%A8%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\21\ns6%3As-TOHO_RemixPack_vol%2E3_%E6%B0%B8%E5%A4%9C%E6%8A%84%E7%B7%A8%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Defiant_Groovings | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Defiant_Groovings | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [s-TOHO RemixPack vol.3 永夜抄編](./s-TOHO_RemixPack_vol.3_永夜抄編.md)  
-该封面包含的角色：- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
-
-
-
+- [s-TOHO RemixPack vol.3 永夜抄編](./s-TOHO_RemixPack_vol.3_永夜抄編.md)该封面包含的角色：
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
 
 
 ---

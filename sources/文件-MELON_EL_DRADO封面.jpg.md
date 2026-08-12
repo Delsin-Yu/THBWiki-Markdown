@@ -1,6 +1,6 @@
 # 文件:MELON_EL_DRADO封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\07\ns6%3AMELON_EL_DRADO%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\07\ns6%3AMELON_EL_DRADO%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Melonbooks_Records | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ Melonbooks_Records | 专辑封面 | 封面图片
   
 
 - [MELON EL DRADO](./MELON_EL_DRADO.md)
-
-
-
 
 
 ---

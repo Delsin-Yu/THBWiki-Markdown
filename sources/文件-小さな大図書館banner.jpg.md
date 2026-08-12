@@ -1,12 +1,8 @@
 # 文件:小さな大図書館banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\62\ns6%3A%E5%B0%8F%E3%81%95%E3%81%AA%E5%A4%A7%E5%9B%B3%E6%9B%B8%E9%A4%A8banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\62\ns6%3A%E5%B0%8F%E3%81%95%E3%81%AA%E5%A4%A7%E5%9B%B3%E6%9B%B8%E9%A4%A8banner%2Ejpg.html -->
 
 小さな大図書館 | 社团LOGO
-
-
-
-
 
 
 ---

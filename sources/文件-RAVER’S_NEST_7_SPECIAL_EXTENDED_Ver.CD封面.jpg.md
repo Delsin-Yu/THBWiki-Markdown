@@ -1,6 +1,6 @@
 # 文件:RAVER’S_NEST_7_SPECIAL_EXTENDED_Ver.CD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\62\ns6%3ARAVER%E2%80%99S_NEST_7_SPECIAL_EXTENDED_Ver%2ECD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\62\ns6%3ARAVER%E2%80%99S_NEST_7_SPECIAL_EXTENDED_Ver%2ECD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 DiGiTAL_WiNG | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ DiGiTAL_WiNG | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [RAVER'S NEST 7 SPECIAL EXTENDED Ver.CD](./RAVER'S_NEST_7_SPECIAL_EXTENDED_Ver.CD.md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)
+- [RAVER'S NEST 7 SPECIAL EXTENDED Ver.CD](./RAVER'S_NEST_7_SPECIAL_EXTENDED_Ver.CD.md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
 
   
-源地址：[[1]](http://digital-wing.net/c91)
-  
-
-
-
-
+源地址：[\[1\]](http://digital-wing.net/c91)  
 
 ---
 

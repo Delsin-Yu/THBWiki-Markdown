@@ -1,6 +1,6 @@
 # 文件:NEWBORN_CRYING封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0e\ns6%3ANEWBORN_CRYING%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0e\ns6%3ANEWBORN_CRYING%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ZYTOKINE | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ ZYTOKINE | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [NEWBORN CRYING](./NEWBORN_CRYING.md)  
-该封面包含的角色：- [稗田阿求](./稗田阿求.md)
-
-
-
+- [NEWBORN CRYING](./NEWBORN_CRYING.md)该封面包含的角色：
+- [稗田阿求](./稗田阿求.md)
 
 
 ---

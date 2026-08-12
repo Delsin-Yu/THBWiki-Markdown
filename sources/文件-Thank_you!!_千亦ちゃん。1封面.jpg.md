@@ -1,6 +1,6 @@
 # 文件:Thank_you!!_千亦ちゃん。1封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\75\ns6%3AThank_you%21%21_%E5%8D%83%E4%BA%A6%E3%81%A1%E3%82%83%E3%82%93%E3%80%821%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\75\ns6%3AThank_you%21%21_%E5%8D%83%E4%BA%A6%E3%81%A1%E3%82%83%E3%82%93%E3%80%821%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 三角パレット | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Thank you!! 千亦ちゃん。1](./Thank_you!!_千亦ちゃん。1.md)  
-该封面包含的角色：- [天弓千亦](./天弓千亦.md)
-
-
-
+- [Thank you!! 千亦ちゃん。1](./Thank_you!!_千亦ちゃん。1.md)该封面包含的角色：
+- [天弓千亦](./天弓千亦.md)
 
 
 ---

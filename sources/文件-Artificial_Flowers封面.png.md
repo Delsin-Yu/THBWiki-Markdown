@@ -1,6 +1,6 @@
 # 文件:Artificial_Flowers封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3d\ns6%3AArtificial_Flowers%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3d\ns6%3AArtificial_Flowers%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Applice | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Applice | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Artificial Flowers](./Artificial_Flowers.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [Artificial Flowers](./Artificial_Flowers.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

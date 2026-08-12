@@ -1,6 +1,6 @@
 # 文件:Seventh_Color封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\68\ns6%3ASeventh_Color%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\68\ns6%3ASeventh_Color%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 TRiANCE_CODE | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ TRiANCE_CODE | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Seventh Color](./Seventh_Color.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
-
-
-
+- [Seventh Color](./Seventh_Color.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
 
 
 ---

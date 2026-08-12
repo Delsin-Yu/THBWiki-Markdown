@@ -1,14 +1,11 @@
 # 文件:笹車banner2.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\55\ns6%3A%E7%AC%B9%E8%BB%8Abanner2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\55\ns6%3A%E7%AC%B9%E8%BB%8Abanner2%2Ejpg.html -->
 
 笹車
 
 
 ## 文件说明
-
-
-
 
 ---
 

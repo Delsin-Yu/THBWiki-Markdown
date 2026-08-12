@@ -1,12 +1,8 @@
 # 文件:Giinno_Countrybanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\72\ns6%3AGiinno_Countrybanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\72\ns6%3AGiinno_Countrybanner%2Epng.html -->
 
 Giinno_Country | 社团LOGO
-
-
-
-
 
 
 ---

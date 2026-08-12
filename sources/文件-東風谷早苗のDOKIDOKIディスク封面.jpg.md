@@ -1,6 +1,6 @@
 # 文件:東風谷早苗のDOKIDOKIディスク封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a2\ns6%3A%E6%9D%B1%E9%A2%A8%E8%B0%B7%E6%97%A9%E8%8B%97%E3%81%AEDOKIDOKI%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a2\ns6%3A%E6%9D%B1%E9%A2%A8%E8%B0%B7%E6%97%A9%E8%8B%97%E3%81%AEDOKIDOKI%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 アールグレイ | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [東風谷早苗のDOKIDOKIディスク](./東風谷早苗のDOKIDOKIディスク.md)  
-该封面包含的角色：- [东风谷早苗](./东风谷早苗.md)
-
-
-
+- [東風谷早苗のDOKIDOKIディスク](./東風谷早苗のDOKIDOKIディスク.md)该封面包含的角色：
+- [东风谷早苗](./东风谷早苗.md)
 
 
 ---

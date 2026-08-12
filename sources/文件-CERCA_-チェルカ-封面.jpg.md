@@ -1,6 +1,6 @@
 # 文件:CERCA_-チェルカ-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\62\ns6%3ACERCA_-%E3%83%81%E3%82%A7%E3%83%AB%E3%82%AB-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\62\ns6%3ACERCA_-%E3%83%81%E3%82%A7%E3%83%AB%E3%82%AB-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 C-CLAYS | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ C-CLAYS | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [CERCA -チェルカ-](./CERCA_-チェルカ-.md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)
-
-
-
+- [CERCA -チェルカ-](./CERCA_-チェルカ-.md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
 
 
 ---

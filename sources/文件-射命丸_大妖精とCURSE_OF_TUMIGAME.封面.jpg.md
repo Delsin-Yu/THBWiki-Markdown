@@ -1,6 +1,6 @@
 # 文件:射命丸_大妖精とCURSE_OF_TUMIGAME.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\85\ns6%3A%E5%B0%84%E5%91%BD%E4%B8%B8_%E5%A4%A7%E5%A6%96%E7%B2%BE%E3%81%A8CURSE_OF_TUMIGAME%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\85\ns6%3A%E5%B0%84%E5%91%BD%E4%B8%B8_%E5%A4%A7%E5%A6%96%E7%B2%BE%E3%81%A8CURSE_OF_TUMIGAME%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 エントゲーゲン | 同人志封面 | 封面图片
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [射命丸 大妖精とCURSE OF TUMIGAME.](./射命丸_大妖精とCURSE_OF_TUMIGAME..md)  
-该封面包含的角色：- [大妖精](./大妖精.md)- [射命丸文](./射命丸文.md)
-
-
-
+- [射命丸 大妖精とCURSE OF TUMIGAME.](./射命丸_大妖精とCURSE_OF_TUMIGAME..md)该封面包含的角色：
+- [大妖精](./大妖精.md)
+- [射命丸文](./射命丸文.md)
 
 
 ---

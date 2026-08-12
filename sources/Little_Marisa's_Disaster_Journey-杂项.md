@@ -1,6 +1,6 @@
 # Little_Marisa's_Disaster_Journey/杂项
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\3\39\ns0%3ALittle_Marisa%27s_Disaster_Journey%2F%E6%9D%82%E9%A1%B9.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\3\39\ns0%3ALittle_Marisa%27s_Disaster_Journey%2F%E6%9D%82%E9%A1%B9.html -->
 
 Dark_Sky_Empire
 
@@ -24,10 +24,6 @@ Dark_Sky_Empire
   
 其它的人物图像、书架、桌面物体由开发者自行绘制。
   
-
-
-
-
 
 ---
 

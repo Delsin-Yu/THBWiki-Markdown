@@ -1,6 +1,6 @@
 # 文件:Samplejunk封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d4\ns6%3ASamplejunk%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d4\ns6%3ASamplejunk%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 C.H.S | 专辑封面 | 封面图片
 
@@ -8,11 +8,13 @@ C.H.S | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Samplejunk](./Samplejunk.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [魂魄妖梦](./魂魄妖梦.md)- [西行寺幽幽子](./西行寺幽幽子.md)- [古明地恋](./古明地恋.md)- [幽谷响子](./幽谷响子.md)- [宫古芳香](./宫古芳香.md)
-
-
-
+- [Samplejunk](./Samplejunk.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [魂魄妖梦](./魂魄妖梦.md)
+- [西行寺幽幽子](./西行寺幽幽子.md)
+- [古明地恋](./古明地恋.md)
+- [幽谷响子](./幽谷响子.md)
+- [宫古芳香](./宫古芳香.md)
 
 
 ---

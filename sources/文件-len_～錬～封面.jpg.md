@@ -1,6 +1,6 @@
 # 文件:len_～錬～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fb\ns6%3Alen_%EF%BD%9E%E9%8C%AC%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fb\ns6%3Alen_%EF%BD%9E%E9%8C%AC%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 N+ | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ N+ | 专辑封面 | 封面图片
   
 
 - [len ～錬～](./len_～錬～.md)
-
-
-
 
 
 ---

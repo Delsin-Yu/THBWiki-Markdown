@@ -1,6 +1,6 @@
 # 文件:与雾雨魔理沙一起偷重要的东西~Happy_Stealing_with_Kirisame_Marisa封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dc\ns6%3A%E4%B8%8E%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%E4%B8%80%E8%B5%B7%E5%81%B7%E9%87%8D%E8%A6%81%E7%9A%84%E4%B8%9C%E8%A5%BF%7EHappy_Stealing_with_Kirisame_Marisa%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dc\ns6%3A%E4%B8%8E%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%E4%B8%80%E8%B5%B7%E5%81%B7%E9%87%8D%E8%A6%81%E7%9A%84%E4%B8%9C%E8%A5%BF%7EHappy_Stealing_with_Kirisame_Marisa%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 八雾游戏制作组 | 封面图片 | 软件封面
 
@@ -9,11 +9,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [与雾雨魔理沙一起偷重要的东西~Happy Stealing with Kirisame Marisa](./与雾雨魔理沙一起偷重要的东西~Happy_Stealing_with_Kirisame_Marisa.md)  
-该封面包含的角色：- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
-
-
-
+- [与雾雨魔理沙一起偷重要的东西~Happy Stealing with Kirisame Marisa](./与雾雨魔理沙一起偷重要的东西~Happy_Stealing_with_Kirisame_Marisa.md)该封面包含的角色：
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
 
 
 ---

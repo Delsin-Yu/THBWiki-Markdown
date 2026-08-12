@@ -1,6 +1,6 @@
 # 文件:Seventh_Heaven（同人志）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e2\ns6%3ASeventh_Heaven%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e2\ns6%3ASeventh_Heaven%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 夢中界 | 封面图片
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Seventh Heaven（同人志）](./Seventh_Heaven（同人志）.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [Seventh Heaven（同人志）](./Seventh_Heaven（同人志）.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
 
   
-源地址：[direct image link (original size)](https://melonbooks.akamaized.net/upload/save_image/212001097234.jpg), [source page (Melonbooks ID: 162062)](https://www.melonbooks.co.jp/detail/detail.php?product_id=162062)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://melonbooks.akamaized.net/upload/save_image/212001097234.jpg), [source page (Melonbooks ID: 162062)](https://www.melonbooks.co.jp/detail/detail.php?product_id=162062)  
 
 ---
 

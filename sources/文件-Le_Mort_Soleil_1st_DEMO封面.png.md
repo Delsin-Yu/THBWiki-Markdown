@@ -1,6 +1,6 @@
 # 文件:Le_Mort_Soleil_1st_DEMO封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c3\ns6%3ALe_Mort_Soleil_1st_DEMO%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c3\ns6%3ALe_Mort_Soleil_1st_DEMO%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Le_Mort_Soleil | 专辑封面 | 封面图片
 
@@ -13,12 +13,7 @@ Le_Mort_Soleil | 专辑封面 | 封面图片
 - [Le Mort Soleil 1st DEMO](./Le_Mort_Soleil_1st_DEMO.md)
 
   
-源地址：[direct image link (max size)](https://blog-imgs-52-origin.fc2.com/m/o/r/mortsoleil/M3_2012O_Jack_small.png), [source page](http://mortsoleil.blog.fc2.com/blog-entry-9.html)
-  
-
-
-
-
+源地址：[direct image link (max size)](https://blog-imgs-52-origin.fc2.com/m/o/r/mortsoleil/M3_2012O_Jack_small.png), [source page](http://mortsoleil.blog.fc2.com/blog-entry-9.html)  
 
 ---
 

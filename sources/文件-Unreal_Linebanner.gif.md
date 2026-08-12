@@ -1,18 +1,13 @@
 # 文件:Unreal_Linebanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\42\ns6%3AUnreal_Linebanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\42\ns6%3AUnreal_Linebanner%2Egif.html -->
 
 Unreal_Line | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[direct image link](https://web.archive.org/web/20110826175706im_/http://www.unreal-line.com/link/img/unreal_line_banner1.gif), [source page](https://web.archive.org/web/20110816124306/http://www.unreal-line.com/link/index.html)
-  
-
-
-
-
+源地址：[direct image link](https://web.archive.org/web/20110826175706im_/http://www.unreal-line.com/link/img/unreal_line_banner1.gif), [source page](https://web.archive.org/web/20110816124306/http://www.unreal-line.com/link/index.html)  
 
 ---
 

@@ -1,16 +1,11 @@
 # 文件:positive_suicidelogo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\97\ns6%3Apositive_suicidelogo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\97\ns6%3Apositive_suicidelogo%2Epng.html -->
 
 positive_suicide | 社团LOGO
 
   
-源地址：[[1]](http://positivesuicide.at-ninja.jp/logo.png)
-  
-
-
-
-
+源地址：[\[1\]](http://positivesuicide.at-ninja.jp/logo.png)  
 
 ---
 

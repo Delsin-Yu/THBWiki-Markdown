@@ -1,6 +1,6 @@
 # 文件:A.はい、大好きです。封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fe\ns6%3AA%2E%E3%81%AF%E3%81%84%E3%80%81%E5%A4%A7%E5%A5%BD%E3%81%8D%E3%81%A7%E3%81%99%E3%80%82%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fe\ns6%3AA%2E%E3%81%AF%E3%81%84%E3%80%81%E5%A4%A7%E5%A5%BD%E3%81%8D%E3%81%A7%E3%81%99%E3%80%82%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 山鳥エリア
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [A.はい、大好きです。](./A.はい、大好きです。.md)  
-该封面包含的角色：- [小野塚小町](./小野塚小町.md)- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)
-
-
-
+- [A.はい、大好きです。](./A.はい、大好きです。.md)该封面包含的角色：
+- [小野塚小町](./小野塚小町.md)
+- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)
 
 
 ---

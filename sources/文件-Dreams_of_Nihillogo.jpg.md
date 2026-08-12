@@ -1,18 +1,13 @@
 # 文件:Dreams_of_Nihillogo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e5\ns6%3ADreams_of_Nihillogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e5\ns6%3ADreams_of_Nihillogo%2Ejpg.html -->
 
 Dreams_of_Nihil | 社团LOGO
 
 
 ## 摘要
   
-源地址：[direct image link (original size)](https://f4.bcbits.com/img/0028687601_0.jpg), [source page (circle Bandcamp)](https://dreamsofnihil.bandcamp.com)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://f4.bcbits.com/img/0028687601_0.jpg), [source page (circle Bandcamp)](https://dreamsofnihil.bandcamp.com)  
 
 ---
 

@@ -1,12 +1,8 @@
 # 文件:Dxtliant_Child_logo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a0\ns6%3ADxtliant_Child_logo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a0\ns6%3ADxtliant_Child_logo%2Ejpg.html -->
 
 Dxtliant_Child | 社团LOGO
-
-
-
-
 
 
 ---

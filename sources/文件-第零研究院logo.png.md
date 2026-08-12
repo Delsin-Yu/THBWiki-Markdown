@@ -1,16 +1,12 @@
 # 文件:第零研究院logo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9a\ns6%3A%E7%AC%AC%E9%9B%B6%E7%A0%94%E7%A9%B6%E9%99%A2logo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9a\ns6%3A%E7%AC%AC%E9%9B%B6%E7%A0%94%E7%A9%B6%E9%99%A2logo%2Epng.html -->
 
 社团LOGO | 第零研究院
 
   
 第零研究院（ZRI）的logo
   
-
-
-
-
 
 ---
 

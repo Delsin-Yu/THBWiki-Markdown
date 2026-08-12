@@ -1,12 +1,8 @@
 # 文件:冰符「Perfect_Glacialist」（天邪鬼）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dd\ns6%3A%E5%86%B0%E7%AC%A6%E3%80%8CPerfect_Glacialist%E3%80%8D%EF%BC%88%E5%A4%A9%E9%82%AA%E9%AC%BC%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dd\ns6%3A%E5%86%B0%E7%AC%A6%E3%80%8CPerfect_Glacialist%E3%80%8D%EF%BC%88%E5%A4%A9%E9%82%AA%E9%AC%BC%EF%BC%89%2Ejpg.html -->
 
 弹幕天邪鬼 | 敌机符卡 | 琪露诺
-
-
-
-
 
 
 ---

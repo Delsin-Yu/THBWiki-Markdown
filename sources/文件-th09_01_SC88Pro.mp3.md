@@ -1,12 +1,8 @@
 # 文件:th09_01_SC88Pro.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\64\ns6%3Ath09_01_SC88Pro%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\64\ns6%3Ath09_01_SC88Pro%2Emp3.html -->
 
 东方花映塚 | 春色小径_～_Colorful_Path
-
-
-
-
 
 
 ---

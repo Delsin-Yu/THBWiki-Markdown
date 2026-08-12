@@ -1,12 +1,8 @@
 # 文件:哈尼陶社logo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\76\ns6%3A%E5%93%88%E5%B0%BC%E9%99%B6%E7%A4%BElogo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\76\ns6%3A%E5%93%88%E5%B0%BC%E9%99%B6%E7%A4%BElogo%2Epng.html -->
 
 哈尼陶社 | 社团LOGO
-
-
-
-
 
 
 ---

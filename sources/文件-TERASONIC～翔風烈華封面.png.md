@@ -1,6 +1,6 @@
 # 文件:TERASONIC～翔風烈華封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\58\ns6%3ATERASONIC%EF%BD%9E%E7%BF%94%E9%A2%A8%E7%83%88%E8%8F%AF%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\58\ns6%3ATERASONIC%EF%BD%9E%E7%BF%94%E9%A2%A8%E7%83%88%E8%8F%AF%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Re：Volte | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Re：Volte | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [TERASONIC～翔風烈華](./TERASONIC～翔風烈華.md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)
-
-
-
+- [TERASONIC～翔風烈華](./TERASONIC～翔風烈華.md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
 
 
 ---

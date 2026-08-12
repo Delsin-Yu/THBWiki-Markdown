@@ -1,12 +1,8 @@
 # 文件:B.L.Addictivebanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c7\ns6%3AB%2EL%2EAddictivebanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c7\ns6%3AB%2EL%2EAddictivebanner%2Epng.html -->
 
 B.L.Addictive | 社团LOGO
-
-
-
-
 
 
 ---

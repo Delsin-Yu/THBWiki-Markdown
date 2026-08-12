@@ -1,16 +1,12 @@
 # 文件:WACCA_CENSORED!!_封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e6\ns6%3AWACCA_CENSORED%21%21_%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e6\ns6%3AWACCA_CENSORED%21%21_%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Marvelous
 
   
 WACCA_CENSORED!!_封面
   
-
-
-
-
 
 ---
 

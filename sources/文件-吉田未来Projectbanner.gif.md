@@ -1,16 +1,11 @@
 # 文件:吉田未来Projectbanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\19\ns6%3A%E5%90%89%E7%94%B0%E6%9C%AA%E6%9D%A5Projectbanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\19\ns6%3A%E5%90%89%E7%94%B0%E6%9C%AA%E6%9D%A5Projectbanner%2Egif.html -->
 
 吉田未来Project | 社团LOGO
 
   
-源地址：[[1]](http://sound.jp/yoshipro/bannar/yoshipro-banner.gif)
-  
-
-
-
-
+源地址：[\[1\]](http://sound.jp/yoshipro/bannar/yoshipro-banner.gif)  
 
 ---
 

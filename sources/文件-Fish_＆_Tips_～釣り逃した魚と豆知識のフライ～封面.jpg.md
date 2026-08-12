@@ -1,6 +1,6 @@
 # 文件:Fish_＆_Tips_～釣り逃した魚と豆知識のフライ～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0c\ns6%3AFish_%EF%BC%86_Tips_%EF%BD%9E%E9%87%A3%E3%82%8A%E9%80%83%E3%81%97%E3%81%9F%E9%AD%9A%E3%81%A8%E8%B1%86%E7%9F%A5%E8%AD%98%E3%81%AE%E3%83%95%E3%83%A9%E3%82%A4%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0c\ns6%3AFish_%EF%BC%86_Tips_%EF%BD%9E%E9%87%A3%E3%82%8A%E9%80%83%E3%81%97%E3%81%9F%E9%AD%9A%E3%81%A8%E8%B1%86%E7%9F%A5%E8%AD%98%E3%81%AE%E3%83%95%E3%83%A9%E3%82%A4%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 フレキシ | 同人志封面 | 封面图片
 
@@ -10,16 +10,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [Fish ＆ Tips ～釣り逃した魚と豆知識のフライ～](./Fish_＆_Tips_～釣り逃した魚と豆知識のフライ～.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
+- [Fish ＆ Tips ～釣り逃した魚と豆知識のフライ～](./Fish_＆_Tips_～釣り逃した魚と豆知識のフライ～.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
   
-[Pixiv artwork ID: 65344372](https://www.pixiv.net/artworks/65344372)
-  
-
-
-
-
+[Pixiv artwork ID: 65344372](https://www.pixiv.net/artworks/65344372)  
 
 ---
 

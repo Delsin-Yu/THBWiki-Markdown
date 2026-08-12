@@ -1,6 +1,6 @@
 # 文件:Interminate_(make_peace_with_the_cat_Version)封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0f\ns6%3AInterminate_%28make_peace_with_the_cat_Version%29%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0f\ns6%3AInterminate_%28make_peace_with_the_cat_Version%29%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Alstroemeria_Records | 专辑封面 | 封面图片
 
@@ -10,10 +10,7 @@ Alstroemeria_Records | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Interminate (make peace with the cat Version)](./Interminate_(make_peace_with_the_cat_Version).md)
-
-
-
+- [Interminate (make peace with the cat Version)](./Interminate_(make_peace_with_the_cat_Version%29.md)
 
 
 ---

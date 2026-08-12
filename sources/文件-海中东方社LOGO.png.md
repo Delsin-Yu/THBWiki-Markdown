@@ -1,16 +1,12 @@
 # 文件:海中东方社LOGO.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ab\ns6%3A%E6%B5%B7%E4%B8%AD%E4%B8%9C%E6%96%B9%E7%A4%BELOGO%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ab\ns6%3A%E6%B5%B7%E4%B8%AD%E4%B8%9C%E6%96%B9%E7%A4%BELOGO%2Epng.html -->
 
 海中东方社 | 社团LOGO
 
   
 社长觅觅觅觅子亲自设计的社徽。
   
-
-
-
-
 
 ---
 

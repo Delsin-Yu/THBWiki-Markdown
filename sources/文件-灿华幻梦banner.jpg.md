@@ -1,12 +1,8 @@
 # 文件:灿华幻梦banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4e\ns6%3A%E7%81%BF%E5%8D%8E%E5%B9%BB%E6%A2%A6banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4e\ns6%3A%E7%81%BF%E5%8D%8E%E5%B9%BB%E6%A2%A6banner%2Ejpg.html -->
 
 灿华幻梦 | 社团LOGO
-
-
-
-
 
 
 ---

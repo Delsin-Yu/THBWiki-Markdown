@@ -1,6 +1,6 @@
 # 文件:Two_people_with_the_distance封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\61\ns6%3ATwo_people_with_the_distance%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\61\ns6%3ATwo_people_with_the_distance%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 しうまいを継ぐ者 | 同人志封面 | 封面图片
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [Two people with the distance](./Two_people_with_the_distance.md)  
-该封面包含的角色：- [古明地觉](./古明地觉.md)- [稀神探女](./稀神探女.md)
-
-
-
+- [Two people with the distance](./Two_people_with_the_distance.md)该封面包含的角色：
+- [古明地觉](./古明地觉.md)
+- [稀神探女](./稀神探女.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Tohobu_EP_Phoenix封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\37\ns6%3ATohobu_EP_Phoenix%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\37\ns6%3ATohobu_EP_Phoenix%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 ついったー東方部 | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Tohobu EP Phoenix](./Tohobu_EP_Phoenix.md)  
-该封面包含的角色：- [藤原妹红](./藤原妹红.md)
-
-
-
+- [Tohobu EP Phoenix](./Tohobu_EP_Phoenix.md)该封面包含的角色：
+- [藤原妹红](./藤原妹红.md)
 
 
 ---

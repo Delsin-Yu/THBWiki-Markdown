@@ -1,8 +1,9 @@
 # ZUN/Play,Doujin!采访1
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\5\55\ns0%3AZUN%2FPlay%2CDoujin%21%E9%87%87%E8%AE%BF1.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\5\55\ns0%3AZUN%2FPlay%2CDoujin%21%E9%87%87%E8%AE%BF1.html -->
 
 Play,Doujin! | ZUN
+
 
 - 本文刊载于周刊Fami通2015年2月12日号。
 - 翻译：京都人形
@@ -11,7 +12,6 @@ Play,Doujin! | ZUN
 ## 目录
 
 - [1 内容](#内容)
-
   - [1.1 一切都为了确保同人游戏的未来](#一切都为了确保同人游戏的未来)
   - [1.2 作为有个性的独立作品同人游戏通用于全世界](#作为有个性的独立作品同人游戏通用于全世界)
   - [1.3 拓宽同人游戏的销路的“Play,Doujin!”是？](#拓宽同人游戏的销路的“Play,Doujin!”是？)
@@ -19,47 +19,34 @@ Play,Doujin! | ZUN
 
 
 
-
-
-
-
 ## 内容
-
 <center>报道特辑② 将同人游戏带到PlayStation平台！  
-<big><big> **“Play,Doujin!”的用意是？** </big></big></center>
-
-  
+<big><big>**“Play,Doujin!”的用意是？**</big></big></center>  
 以PlayStation格式展开同人游戏的“Play,Doujin!”正式启动。在这里，我们采访了掌握着该计划的关键的Mediascape的江崎望、小山田文雄、索尼电脑娱乐（亚洲日本）（SCEJA）的伊东章成，以及『东方Project』的生父ZUN。
   
-
-
-<center> **SCEJA（Sony Computer Entertainment Japan Asia）与『东方Project』主导的全新的游戏发行的形式** </center>
-
-[](./文件-pd采访1.jpg.md)
+<center>**SCEJA（Sony Computer Entertainment Japan Asia）与『东方Project』主导的全新的游戏发行的形式**</center><img alt="pd采访1.jpg" src="https://upload.thwiki.cc/thumb/1/12/pd%E9%87%87%E8%AE%BF1.jpg/500px-pd%E9%87%87%E8%AE%BF1.jpg" decoding="async" loading="lazy" width="500" height="271" srcset="https://upload.thwiki.cc/1/12/pd%E9%87%87%E8%AE%BF1.jpg 1.5x" data-file-width="719" data-file-height="389">
   
 从左至右：  
-
   
   
- **ZUN**   
+**ZUN**  
 文中为ZUN
   
   
 Mediascape 代表董事  
- **江崎望**   
+**江崎望**  
 文中为江崎
   
   
 Mediascape 董事  
- **小山田文雄**   
+**小山田文雄**  
 文中为小山田
   
   
 索尼电脑娱乐（亚洲日本）发行商关系部开发者关系科客户经理  
- **伊东章成**   
+**伊东章成**  
 文中为伊东
   
-
 
 ### 一切都为了确保同人游戏的未来
 ——
@@ -86,7 +73,6 @@ ZUN
 : 在和ZUN先生交谈时印象最深的是，同人游戏明明曾经以日本原创的创作平台成立，但随着PC的媒体环境逐渐变化，产生了一种会不会缩小下去的危机感。关于这一点，由于“Play,Doujin!”能够进行数码发布，也是这次的讨论得以顺利进行的一个要因。
 小山田
 : 同人志在当场得到的那个瞬间就能阅读，但CD和DVD却需要播放设备。这是一个想入手的障碍。从这个意义上讲，<font color="#FF0000">通过确保以PlayStation格式发售软件的渠道，能够为开发者开辟一条通向未来的道路。为此“Play,Doujin!”也必须存在</font>，这种话我们互相都谈到了。
-
 
 ### 作为有个性的独立作品同人游戏通用于全世界
 ——
@@ -120,38 +106,27 @@ ZUN
 小山田
 : 实际上已经公布的作品的发行日期也尚不明确。这也事关“Play,Doujin!”的方针，我们不会接触社团说「请在这个时期之前完成」。发行的时机完全交给各个社团，也有可能永远也不会出。即便如此，有名的社团基本上都会自己决定好日程。这方面我们并不怎么担心。我们与这次公布的4个社团，正以“为预定在2015年内发售努力吧！”的方向前进。各位敬请期待今年“Play,Doujin!”的进展。
 
-
 ### 拓宽同人游戏的销路的“Play,Doujin!”是？
   
 Mediascape开展的“Play,Doujin!”，是包含了『东方Project』爱好者的创作作品的，以将各种同人游戏面向PlayStation平台发行为目标的计划。目前已经公布了4部作品。今后对应的作品将会陆续追加。
   
 
-
 <table>
 <tbody><tr><td><big>“Play,Doujin!”发行预定作品<br>（作品名/平台/社团名）<br><b>『不可思议的幻想乡』</b>/PS Vita/AQUA STYLE<br><b>『东方苍神缘起V』</b>/PS Vita/莓坊主<br><b>『东方空中竞技场祭』</b>/平台未定/领域ZERO<br><b>『幻想的轮舞』</b>/PlayStation 4/CUBETYPE</big></td></tr>
 </tbody></table>
 
-
 『不可思议的幻想乡』
 : 
-
   
 在自动生成的迷宫中冒险的Roguelike的冒险游戏。驱使符卡前往迷宫的最深部。自从2009年发布系列第1作后，这部作品便获得了莫大的支持。
   
-
 『幻想的轮舞』
 : 
-
   
 “以这边是BOSS，那边也是BOSS的弹幕战斗”为主题的动作游戏。组合通常攻击、近战攻击、符卡三种攻击组建属于自己的弹幕战斗是这部游戏的特征。也对应在线对战。
   
   
-<small>※画面全部来自PC版。</small>
-  
-
-
-
-
+<small>※画面全部来自PC版。</small>  
 
 ---
 

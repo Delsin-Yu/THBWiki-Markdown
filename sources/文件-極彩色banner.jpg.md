@@ -1,12 +1,8 @@
 # 文件:極彩色banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\06\ns6%3A%E6%A5%B5%E5%BD%A9%E8%89%B2banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\06\ns6%3A%E6%A5%B5%E5%BD%A9%E8%89%B2banner%2Ejpg.html -->
 
 極彩色 | 社团LOGO
-
-
-
-
 
 
 ---

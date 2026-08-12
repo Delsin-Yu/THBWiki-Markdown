@@ -1,12 +1,8 @@
 # 文件:氣球魚屋banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7a\ns6%3A%E6%B0%A3%E7%90%83%E9%AD%9A%E5%B1%8Bbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7a\ns6%3A%E6%B0%A3%E7%90%83%E9%AD%9A%E5%B1%8Bbanner%2Ejpg.html -->
 
 氣球魚屋 | 社团LOGO
-
-
-
-
 
 
 ---

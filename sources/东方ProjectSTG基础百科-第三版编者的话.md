@@ -1,29 +1,26 @@
 # 东方ProjectSTG基础百科/第三版编者的话
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\c\c1\ns0%3A%E4%B8%9C%E6%96%B9ProjectSTG%E5%9F%BA%E7%A1%80%E7%99%BE%E7%A7%91%2F%E7%AC%AC%E4%B8%89%E7%89%88%E7%BC%96%E8%80%85%E7%9A%84%E8%AF%9D.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\c\c1\ns0%3A%E4%B8%9C%E6%96%B9ProjectSTG%E5%9F%BA%E7%A1%80%E7%99%BE%E7%A7%91%2F%E7%AC%AC%E4%B8%89%E7%89%88%E7%BC%96%E8%80%85%E7%9A%84%E8%AF%9D.html -->
 
 东方projectSTG基础百科
 
 <center>
-
 <table>
 <tbody><tr>
-<td>&lt;
+<td><
 </td>
-<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a class="mw-selflink selflink">第三版编者的话</a>&#160;
+<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a class="mw-selflink selflink">第三版编者的话</a> 
 </td>
-<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="./东方ProjectSTG基础百科.md" title="东方ProjectSTG基础百科" unred="">东方projectSTG基础百科</a>&#160;
+<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;"> <a href="./东方ProjectSTG基础百科.md" title="东方ProjectSTG基础百科" unred="">东方projectSTG基础百科</a> 
 </td>
-<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left">&#160;<a href="./东方ProjectSTG基础百科-再版编者的话.md" title="东方ProjectSTG基础百科/再版编者的话">再版编者的话</a>
+<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left"> <a href="./东方ProjectSTG基础百科-再版编者的话.md" title="东方ProjectSTG基础百科/再版编者的话">再版编者的话</a>
 </td>
-<td>&gt;
+<td>>
 </td></tr></tbody></table>
 
   
-</center>
-  
- **<big><big>第三版编者的话</big></big>**   
-
+</center>  
+**<big><big>第三版编者的话</big></big>**  
   
   
 转眼间距离本百科初版已经十年了呢，也算是从前辈手里把这个坑传承下去了……
@@ -58,28 +55,22 @@
   
 在此感谢所有协助过我完成这份文档的朋友，以及正在阅读这份“百科全书”的诸位。
   
-
 <center>
-
 <table>
 <tbody><tr>
-<td>&lt;
+<td><
 </td>
-<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a class="mw-selflink selflink">第三版编者的话</a>&#160;
+<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a class="mw-selflink selflink">第三版编者的话</a> 
 </td>
-<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="./东方ProjectSTG基础百科.md" title="东方ProjectSTG基础百科" unred="">东方projectSTG基础百科</a>&#160;
+<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;"> <a href="./东方ProjectSTG基础百科.md" title="东方ProjectSTG基础百科" unred="">东方projectSTG基础百科</a> 
 </td>
-<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left">&#160;<a href="./东方ProjectSTG基础百科-再版编者的话.md" title="东方ProjectSTG基础百科/再版编者的话">再版编者的话</a>
+<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left"> <a href="./东方ProjectSTG基础百科-再版编者的话.md" title="东方ProjectSTG基础百科/再版编者的话">再版编者的话</a>
 </td>
-<td>&gt;
+<td>>
 </td></tr></tbody></table>
 
   
 </center>
-
-
-
-
 ---
 
 此文档由 [THBWiki-Markdown-Builder](https://github.com/Delsin-Yu/THBWiki-Markdown-Builder) 构建。

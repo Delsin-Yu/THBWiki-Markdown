@@ -1,6 +1,6 @@
 # 文件:東方映画音楽選_-_TOHO_FILM_MUSIC_SELECTION_-_～_紅幻奏詩封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\08\ns6%3A%E6%9D%B1%E6%96%B9%E6%98%A0%E7%94%BB%E9%9F%B3%E6%A5%BD%E9%81%B8_-_TOHO_FILM_MUSIC_SELECTION_-_%EF%BD%9E_%E7%B4%85%E5%B9%BB%E5%A5%8F%E8%A9%A9%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\08\ns6%3A%E6%9D%B1%E6%96%B9%E6%98%A0%E7%94%BB%E9%9F%B3%E6%A5%BD%E9%81%B8_-_TOHO_FILM_MUSIC_SELECTION_-_%EF%BD%9E_%E7%B4%85%E5%B9%BB%E5%A5%8F%E8%A9%A9%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Tutti_Sound | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ Tutti_Sound | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方映画音楽選 - TOHO FILM MUSIC SELECTION - ～ 紅幻奏詩](./東方映画音楽選_-_TOHO_FILM_MUSIC_SELECTION_-_～_紅幻奏詩.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
-
-
-
+- [東方映画音楽選 - TOHO FILM MUSIC SELECTION - ～ 紅幻奏詩](./東方映画音楽選_-_TOHO_FILM_MUSIC_SELECTION_-_～_紅幻奏詩.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
 
 ---

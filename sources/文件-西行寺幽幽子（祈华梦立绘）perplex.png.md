@@ -1,12 +1,8 @@
 # 文件:西行寺幽幽子（祈华梦立绘）perplex.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\95\ns6%3A%E8%A5%BF%E8%A1%8C%E5%AF%BA%E5%B9%BD%E5%B9%BD%E5%AD%90%EF%BC%88%E7%A5%88%E5%8D%8E%E6%A2%A6%E7%AB%8B%E7%BB%98%EF%BC%89perplex%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\95\ns6%3A%E8%A5%BF%E8%A1%8C%E5%AF%BA%E5%B9%BD%E5%B9%BD%E5%AD%90%EF%BC%88%E7%A5%88%E5%8D%8E%E6%A2%A6%E7%AB%8B%E7%BB%98%EF%BC%89perplex%2Epng.html -->
 
 东方祈华梦制作组 | 二次角色立绘 | 西行寺幽幽子（祈华梦）
-
-
-
-
 
 
 ---

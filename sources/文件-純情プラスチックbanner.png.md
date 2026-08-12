@@ -1,12 +1,8 @@
 # 文件:純情プラスチックbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b0\ns6%3A%E7%B4%94%E6%83%85%E3%83%97%E3%83%A9%E3%82%B9%E3%83%81%E3%83%83%E3%82%AFbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b0\ns6%3A%E7%B4%94%E6%83%85%E3%83%97%E3%83%A9%E3%82%B9%E3%83%81%E3%83%83%E3%82%AFbanner%2Epng.html -->
 
 社团LOGO | 純情プラスチック
-
-
-
-
 
 
 ---

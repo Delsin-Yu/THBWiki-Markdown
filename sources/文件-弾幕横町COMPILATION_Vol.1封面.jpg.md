@@ -1,6 +1,6 @@
 # 文件:弾幕横町COMPILATION_Vol.1封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7e\ns6%3A%E5%BC%BE%E5%B9%95%E6%A8%AA%E7%94%BACOMPILATION_Vol%2E1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7e\ns6%3A%E5%BC%BE%E5%B9%95%E6%A8%AA%E7%94%BACOMPILATION_Vol%2E1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 味ノ素密売所 | 封面图片 | 群青リボン
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [弾幕横町COMPILATION Vol.1](./弾幕横町COMPILATION_Vol.1.md)  
-该封面包含的角色：- [伊吹萃香](./伊吹萃香.md)- [星熊勇仪](./星熊勇仪.md)
-
-
-
+- [弾幕横町COMPILATION Vol.1](./弾幕横町COMPILATION_Vol.1.md)该封面包含的角色：
+- [伊吹萃香](./伊吹萃香.md)
+- [星熊勇仪](./星熊勇仪.md)
 
 
 ---

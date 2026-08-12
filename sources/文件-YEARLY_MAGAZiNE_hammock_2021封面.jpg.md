@@ -1,6 +1,6 @@
 # 文件:YEARLY_MAGAZiNE_hammock_2021封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c4\ns6%3AYEARLY_MAGAZiNE_hammock_2021%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c4\ns6%3AYEARLY_MAGAZiNE_hammock_2021%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 繁茂区
 
@@ -10,11 +10,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [YEARLY MAGAZiNE hammock 2021](./YEARLY_MAGAZiNE_hammock_2021.md)  
-该封面包含的角色：- [红美铃](./红美铃.md)- [小恶魔](./小恶魔.md)- 十六夜咲夜 (未找到链接)- [骊驹早鬼](./骊驹早鬼.md)- [吉吊八千慧](./吉吊八千慧.md)
-
-
-
+- [YEARLY MAGAZiNE hammock 2021](./YEARLY_MAGAZiNE_hammock_2021.md)该封面包含的角色：
+- [红美铃](./红美铃.md)
+- [小恶魔](./小恶魔.md)
+- [十六夜咲夜](./十六夜咲夜.md)
+- [骊驹早鬼](./骊驹早鬼.md)
+- [吉吊八千慧](./吉吊八千慧.md)
 
 
 ---

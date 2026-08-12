@@ -1,6 +1,6 @@
 # 文件:cactus封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c8\ns6%3Acactus%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c8\ns6%3Acactus%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 赤茶単
 
@@ -10,16 +10,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [cactus](./cactus.md)  
-该封面包含的角色：- [小野塚小町](./小野塚小町.md)- [茨木华扇](./茨木华扇.md)
+- [cactus](./cactus.md)该封面包含的角色：
+- [小野塚小町](./小野塚小町.md)
+- [茨木华扇](./茨木华扇.md)
 
   
-[Pixiv artwork ID: 38928883](https://www.pixiv.net/artworks/38928883)
-  
-
-
-
-
+[Pixiv artwork ID: 38928883](https://www.pixiv.net/artworks/38928883)  
 
 ---
 

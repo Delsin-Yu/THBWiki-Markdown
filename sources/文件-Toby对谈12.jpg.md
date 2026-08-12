@@ -1,12 +1,8 @@
 # 文件:Toby对谈12.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f9\ns6%3AToby%E5%AF%B9%E8%B0%8812%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f9\ns6%3AToby%E5%AF%B9%E8%B0%8812%2Ejpg.html -->
 
 Toby对谈
-
-
-
-
 
 
 ---

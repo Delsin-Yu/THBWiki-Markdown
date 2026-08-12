@@ -1,6 +1,6 @@
 # 文件:THE_BEST_OF_EURO-B-RAVE封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6b\ns6%3ATHE_BEST_OF_EURO-B-RAVE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6b\ns6%3ATHE_BEST_OF_EURO-B-RAVE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Roar_Records | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ Roar_Records | 专辑封面 | 封面图片
   
 
 - [THE BEST OF EURO-B-RAVE](./THE_BEST_OF_EURO-B-RAVE.md)
-
-
-
 
 
 ---

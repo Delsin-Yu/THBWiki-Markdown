@@ -1,12 +1,8 @@
 # 文件:土著神「御射军神大人」（DS文花帖）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\66\ns6%3A%E5%9C%9F%E8%91%97%E7%A5%9E%E3%80%8C%E5%BE%A1%E5%B0%84%E5%86%9B%E7%A5%9E%E5%A4%A7%E4%BA%BA%E3%80%8D%EF%BC%88DS%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\66\ns6%3A%E5%9C%9F%E8%91%97%E7%A5%9E%E3%80%8C%E5%BE%A1%E5%B0%84%E5%86%9B%E7%A5%9E%E5%A4%A7%E4%BA%BA%E3%80%8D%EF%BC%88DS%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Ejpg.html -->
 
 东方文花帖DS | 敌机符卡 | 洩矢诹访子
-
-
-
-
 
 
 ---

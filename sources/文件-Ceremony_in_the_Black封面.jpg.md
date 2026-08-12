@@ -1,6 +1,6 @@
 # 文件:Ceremony_in_the_Black封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3f\ns6%3ACeremony_in_the_Black%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3f\ns6%3ACeremony_in_the_Black%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Unity-Gain | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@ Unity-Gain | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Ceremony in the Black](./Ceremony_in_the_Black.md)  
-该封面包含的角色：- [古明地觉](./古明地觉.md)
+- [Ceremony in the Black](./Ceremony_in_the_Black.md)该封面包含的角色：
+- [古明地觉](./古明地觉.md)
 
   
-源地址：[图片链接](http://kakeruichi.mydns.jp/cd/UTGN-0021/utgn-0021_jacket_850.jpg) [特设](http://kakeruichi.mydns.jp/cd/UTGN-0021/)
-  
-
-
-
-
+源地址：[图片链接](http://kakeruichi.mydns.jp/cd/UTGN-0021/utgn-0021_jacket_850.jpg) [特设](http://kakeruichi.mydns.jp/cd/UTGN-0021/)  
 
 ---
 

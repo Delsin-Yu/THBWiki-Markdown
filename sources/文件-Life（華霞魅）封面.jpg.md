@@ -1,6 +1,6 @@
 # 文件:Life（華霞魅）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bc\ns6%3ALife%EF%BC%88%E8%8F%AF%E9%9C%9E%E9%AD%85%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bc\ns6%3ALife%EF%BC%88%E8%8F%AF%E9%9C%9E%E9%AD%85%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 華霞魅
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Life（華霞魅）](./Life（華霞魅）.md)  
-该封面包含的角色：- [小野塚小町](./小野塚小町.md)
-
-
-
+- [Life（華霞魅）](./Life（華霞魅）.md)该封面包含的角色：
+- [小野塚小町](./小野塚小町.md)
 
 
 ---

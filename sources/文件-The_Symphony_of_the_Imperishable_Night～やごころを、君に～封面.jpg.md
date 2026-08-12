@@ -1,6 +1,6 @@
 # 文件:The_Symphony_of_the_Imperishable_Night～やごころを、君に～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2d\ns6%3AThe_Symphony_of_the_Imperishable_Night%EF%BD%9E%E3%82%84%E3%81%94%E3%81%93%E3%82%8D%E3%82%92%E3%80%81%E5%90%9B%E3%81%AB%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2d\ns6%3AThe_Symphony_of_the_Imperishable_Night%EF%BD%9E%E3%82%84%E3%81%94%E3%81%93%E3%82%8D%E3%82%92%E3%80%81%E5%90%9B%E3%81%AB%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 TATAMI_STUGIWO | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ TATAMI_STUGIWO | 专辑封面 | 封面图片
   
 
 - [The Symphony of the Imperishable Night～やごころを、君に～](./The_Symphony_of_the_Imperishable_Night～やごころを、君に～.md)
-
-
-
 
 
 ---

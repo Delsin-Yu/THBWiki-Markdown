@@ -1,6 +1,6 @@
 # 文件:Re：End_of_a_Dream_-ちょこふぁん編-封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\61\ns6%3ARe%EF%BC%9AEnd_of_a_Dream_-%E3%81%A1%E3%82%87%E3%81%93%E3%81%B5%E3%81%81%E3%82%93%E7%B7%A8-%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\61\ns6%3ARe%EF%BC%9AEnd_of_a_Dream_-%E3%81%A1%E3%82%87%E3%81%93%E3%81%B5%E3%81%81%E3%82%93%E7%B7%A8-%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Astral_Sky | ちょこふぁん | 专辑封面 | 封面图片 | 非可逆リズム
 
@@ -10,11 +10,9 @@ Astral_Sky | ちょこふぁん | 专辑封面 | 封面图片 | 非可逆リズ�
 使用了本文件作封面图片的作品：
   
 
-- [Re：End of a Dream -ちょこふぁん編-](./Re：End_of_a_Dream_-ちょこふぁん編-.md)  
-该封面包含的角色：- [封兽鵺](./封兽鵺.md)- [鬼人正邪](./鬼人正邪.md)
-
-
-
+- [Re：End of a Dream -ちょこふぁん編-](./Re：End_of_a_Dream_-ちょこふぁん編-.md)该封面包含的角色：
+- [封兽鵺](./封兽鵺.md)
+- [鬼人正邪](./鬼人正邪.md)
 
 
 ---

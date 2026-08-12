@@ -1,6 +1,6 @@
 # 文件:Three_Fairies_～リトルストーンハート～総集編封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b6\ns6%3AThree_Fairies_%EF%BD%9E%E3%83%AA%E3%83%88%E3%83%AB%E3%82%B9%E3%83%88%E3%83%BC%E3%83%B3%E3%83%8F%E3%83%BC%E3%83%88%EF%BD%9E%E7%B7%8F%E9%9B%86%E7%B7%A8%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b6\ns6%3AThree_Fairies_%EF%BD%9E%E3%83%AA%E3%83%88%E3%83%AB%E3%82%B9%E3%83%88%E3%83%BC%E3%83%B3%E3%83%8F%E3%83%BC%E3%83%88%EF%BD%9E%E7%B7%8F%E9%9B%86%E7%B7%A8%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 くらっしゅハウス | 同人志封面 | 封面图片
 
@@ -8,11 +8,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [Three Fairies ～リトルストーンハート～総集編](./Three_Fairies_～リトルストーンハート～総集編.md)  
-该封面包含的角色：- [古明地恋](./古明地恋.md)- [露娜切露德](./露娜切露德.md)- [桑尼米尔克](./桑尼米尔克.md)- [斯塔萨菲雅](./斯塔萨菲雅.md)- [秦心](./秦心.md)
-
-
-
+- [Three Fairies ～リトルストーンハート～総集編](./Three_Fairies_～リトルストーンハート～総集編.md)该封面包含的角色：
+- [古明地恋](./古明地恋.md)
+- [露娜切露德](./露娜切露德.md)
+- [桑尼米尔克](./桑尼米尔克.md)
+- [斯塔萨菲雅](./斯塔萨菲雅.md)
+- [秦心](./秦心.md)
 
 
 ---

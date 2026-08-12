@@ -1,6 +1,6 @@
 # 文件:Seren_time,_Comfit_time封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\05\ns6%3ASeren_time%2C_Comfit_time%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\05\ns6%3ASeren_time%2C_Comfit_time%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Unity-Gain | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Unity-Gain | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Seren time, Comfit time](./Seren_time,_Comfit_time.md)  
-该封面包含的角色：- [宇佐见莲子](./宇佐见莲子.md)
+- [Seren time, Comfit time](./Seren_time,_Comfit_time.md)该封面包含的角色：
+- [宇佐见莲子](./宇佐见莲子.md)
 
   
-源地址：[[1]](http://web.archive.org/web/20150408215938/http://kakeruichi.mydns.jp/cd/UTGN-0007/utgn-0007_jacket.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://web.archive.org/web/20150408215938/http://kakeruichi.mydns.jp/cd/UTGN-0007/utgn-0007_jacket.jpg)  
 
 ---
 

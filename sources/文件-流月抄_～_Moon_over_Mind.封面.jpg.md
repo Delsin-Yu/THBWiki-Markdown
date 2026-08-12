@@ -1,6 +1,6 @@
 # 文件:流月抄_～_Moon_over_Mind.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f5\ns6%3A%E6%B5%81%E6%9C%88%E6%8A%84_%EF%BD%9E_Moon_over_Mind%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f5\ns6%3A%E6%B5%81%E6%9C%88%E6%8A%84_%EF%BD%9E_Moon_over_Mind%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Crest | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ Crest | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [流月抄 ～ Moon over Mind.](./流月抄_～_Moon_over_Mind..md)  
-该封面包含的角色：- [八意永琳](./八意永琳.md)- [蓬莱山辉夜](./蓬莱山辉夜.md)
-
-
-
+- [流月抄 ～ Moon over Mind.](./流月抄_～_Moon_over_Mind..md)该封面包含的角色：
+- [八意永琳](./八意永琳.md)
+- [蓬莱山辉夜](./蓬莱山辉夜.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Bianca（干物屋）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a8\ns6%3ABianca%EF%BC%88%E5%B9%B2%E7%89%A9%E5%B1%8B%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a8\ns6%3ABianca%EF%BC%88%E5%B9%B2%E7%89%A9%E5%B1%8B%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 干物屋
 
@@ -10,15 +10,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [Bianca（干物屋）](./Bianca（干物屋）.md)  
-该封面包含的角色：- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)
+- [Bianca（干物屋）](./Bianca（干物屋）.md)该封面包含的角色：
+- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)
 
 : 源地址
 
 - [蜜瓜](https://melonbooks.akamaized.net/user_data/packages/resize_image.php?image=212001371780.jpg)
-
-
-
 
 
 ---

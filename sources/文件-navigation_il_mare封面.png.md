@@ -1,6 +1,6 @@
 # 文件:navigation_il_mare封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\18\ns6%3Anavigation_il_mare%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\18\ns6%3Anavigation_il_mare%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Forest306 | Foxtail-Grass_Studio | みかん箱 | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Forest306 | Foxtail-Grass_Studio | みかん箱 | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [navigation il mare](./navigation_il_mare.md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)
-
-
-
+- [navigation il mare](./navigation_il_mare.md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
 
 
 ---

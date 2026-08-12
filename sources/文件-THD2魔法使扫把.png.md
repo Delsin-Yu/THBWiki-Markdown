@@ -1,12 +1,8 @@
 # 文件:THD2魔法使扫把.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3b\ns6%3ATHD2%E9%AD%94%E6%B3%95%E4%BD%BF%E6%89%AB%E6%8A%8A%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3b\ns6%3ATHD2%E9%AD%94%E6%B3%95%E4%BD%BF%E6%89%AB%E6%8A%8A%2Epng.html -->
 
 AvalonStudioOfficial
-
-
-
-
 
 
 ---

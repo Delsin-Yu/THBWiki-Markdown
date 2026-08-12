@@ -1,12 +1,8 @@
 # 文件:signumii_banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\72\ns6%3Asignumii_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\72\ns6%3Asignumii_banner%2Ejpg.html -->
 
 signum／ii | 社团LOGO
-
-
-
-
 
 
 ---

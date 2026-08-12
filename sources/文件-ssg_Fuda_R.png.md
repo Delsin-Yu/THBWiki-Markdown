@@ -1,16 +1,12 @@
 # 文件:ssg_Fuda_R.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c3\ns6%3Assg_Fuda_R%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c3\ns6%3Assg_Fuda_R%2Epng.html -->
 
 秋霜玉
 
   
 《秋霜玉》弹幕红色札弹。
   
-
-
-
-
 
 ---
 

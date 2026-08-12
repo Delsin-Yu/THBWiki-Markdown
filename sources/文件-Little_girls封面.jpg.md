@@ -1,6 +1,6 @@
 # 文件:Little_girls封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1c\ns6%3ALittle_girls%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1c\ns6%3ALittle_girls%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Show_and_Tell | 同人志封面 | 封面图片
 
@@ -10,11 +10,10 @@ Show_and_Tell | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Little girls](./Little_girls.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)- [古明地恋](./古明地恋.md)- [封兽鵺](./封兽鵺.md)
-
-
-
+- [Little girls](./Little_girls.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [古明地恋](./古明地恋.md)
+- [封兽鵺](./封兽鵺.md)
 
 
 ---

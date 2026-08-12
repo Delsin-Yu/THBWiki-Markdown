@@ -1,6 +1,6 @@
 # 文件:pm.11時の魔法封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\51\ns6%3Apm%2E11%E6%99%82%E3%81%AE%E9%AD%94%E6%B3%95%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\51\ns6%3Apm%2E11%E6%99%82%E3%81%AE%E9%AD%94%E6%B3%95%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ももいろピアノ | 同人志封面 | 封面图片
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [pm.11時の魔法](./pm.11時の魔法.md)  
-该封面包含的角色：- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [pm.11時の魔法](./pm.11時の魔法.md)该封面包含的角色：
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

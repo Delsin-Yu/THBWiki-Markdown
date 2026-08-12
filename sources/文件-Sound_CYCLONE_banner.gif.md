@@ -1,12 +1,8 @@
 # 文件:Sound_CYCLONE_banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c7\ns6%3ASound_CYCLONE_banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c7\ns6%3ASound_CYCLONE_banner%2Egif.html -->
 
 Sound_CYCLONE | 社团LOGO
-
-
-
-
 
 
 ---

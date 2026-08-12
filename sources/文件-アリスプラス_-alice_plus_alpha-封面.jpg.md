@@ -1,6 +1,6 @@
 # 文件:アリスプラス_-alice_plus_alpha-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\80\ns6%3A%E3%82%A2%E3%83%AA%E3%82%B9%E3%83%97%E3%83%A9%E3%82%B9_-alice_plus_alpha-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\80\ns6%3A%E3%82%A2%E3%83%AA%E3%82%B9%E3%83%97%E3%83%A9%E3%82%B9_-alice_plus_alpha-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 dat_file_records | 专辑封面 | 封面图片 | 脱兎屋
 
@@ -8,16 +8,12 @@ dat_file_records | 专辑封面 | 封面图片 | 脱兎屋
 使用了本文件作封面图片的作品：
   
 
-- [アリスプラス -alice plus alpha-](./アリスプラス_-alice_plus_alpha-.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [アリスプラス -alice plus alpha-](./アリスプラス_-alice_plus_alpha-.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
 
   
-源地址：[[1]](http://static.tumblr.com/eef53137f59cd7d08baca20d9cdf861d/e3lazzy/PUTn3rc9x/tumblr_static_31eawz5z1jqcks4sosckoc0ss.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://static.tumblr.com/eef53137f59cd7d08baca20d9cdf861d/e3lazzy/PUTn3rc9x/tumblr_static_31eawz5z1jqcks4sosckoc0ss.jpg)  
 
 ---
 

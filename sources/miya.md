@@ -1,12 +1,8 @@
 # miya
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\02\ns0%3Amiya.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\02\ns0%3Amiya.html -->
 
 消歧义页面
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:The_last_hope封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1a\ns6%3AThe_last_hope%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1a\ns6%3AThe_last_hope%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 XL_Project | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ XL_Project | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [the last hope](./the_last_hope.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [the last hope](./the_last_hope.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

@@ -1,18 +1,13 @@
 # 文件:Astral_Four_Deallogo2.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\be\ns6%3AAstral_Four_Deallogo2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\be\ns6%3AAstral_Four_Deallogo2%2Epng.html -->
 
 Astral_Four_Deal | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[direct image link](http://astralfourdeal.web.fc2.com/img/header/logo.png), [source page](http://astralfourdeal.web.fc2.com/)
-  
-
-
-
-
+源地址：[direct image link](http://astralfourdeal.web.fc2.com/img/header/logo.png), [source page](http://astralfourdeal.web.fc2.com/)  
 
 ---
 

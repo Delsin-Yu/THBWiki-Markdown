@@ -1,16 +1,11 @@
 # 文件:七幻シュトラーセbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9e\ns6%3A%E4%B8%83%E5%B9%BB%E3%82%B7%E3%83%A5%E3%83%88%E3%83%A9%E3%83%BC%E3%82%BBbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9e\ns6%3A%E4%B8%83%E5%B9%BB%E3%82%B7%E3%83%A5%E3%83%88%E3%83%A9%E3%83%BC%E3%82%BBbanner%2Ejpg.html -->
 
 七幻シュトラーセ | 社团LOGO
 
   
-源地址：[[1]](http://www.rokugen.net/7/images/header/03_on.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://www.rokugen.net/7/images/header/03_on.jpg)  
 
 ---
 

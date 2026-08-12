@@ -1,6 +1,6 @@
 # 文件:未知区紗_～Detour_of_Reverie封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ad\ns6%3A%E6%9C%AA%E7%9F%A5%E5%8C%BA%E7%B4%97_%EF%BD%9EDetour_of_Reverie%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ad\ns6%3A%E6%9C%AA%E7%9F%A5%E5%8C%BA%E7%B4%97_%EF%BD%9EDetour_of_Reverie%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 作画法界 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [未知区紗 ～Detour of Reverie](./未知区紗_～Detour_of_Reverie.md)  
-该封面包含的角色：- [东风谷早苗](./东风谷早苗.md)
-
-
-
+- [未知区紗 ～Detour of Reverie](./未知区紗_～Detour_of_Reverie.md)该封面包含的角色：
+- [东风谷早苗](./东风谷早苗.md)
 
 
 ---

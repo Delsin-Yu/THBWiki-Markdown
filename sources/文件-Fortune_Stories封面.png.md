@@ -1,6 +1,6 @@
 # 文件:Fortune_Stories封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b1\ns6%3AFortune_Stories%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b1\ns6%3AFortune_Stories%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 twinkle＊twinkle | 专辑封面 | 封面图片
 
@@ -8,11 +8,18 @@ twinkle＊twinkle | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Fortune Stories](./Fortune_Stories.md)  
-该封面包含的角色：- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)- [八意永琳](./八意永琳.md)- [宫古芳香](./宫古芳香.md)- [露娜切露德](./露娜切露德.md)- [桑尼米尔克](./桑尼米尔克.md)- [斯塔萨菲雅](./斯塔萨菲雅.md)- [赤蛮奇](./赤蛮奇.md)- [今泉影狼](./今泉影狼.md)- [克劳恩皮丝](./克劳恩皮丝.md)- [依神女苑](./依神女苑.md)- [依神紫苑](./依神紫苑.md)
-
-
-
+- [Fortune Stories](./Fortune_Stories.md)该封面包含的角色：
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
+- [八意永琳](./八意永琳.md)
+- [宫古芳香](./宫古芳香.md)
+- [露娜切露德](./露娜切露德.md)
+- [桑尼米尔克](./桑尼米尔克.md)
+- [斯塔萨菲雅](./斯塔萨菲雅.md)
+- [赤蛮奇](./赤蛮奇.md)
+- [今泉影狼](./今泉影狼.md)
+- [克劳恩皮丝](./克劳恩皮丝.md)
+- [依神女苑](./依神女苑.md)
+- [依神紫苑](./依神紫苑.md)
 
 
 ---

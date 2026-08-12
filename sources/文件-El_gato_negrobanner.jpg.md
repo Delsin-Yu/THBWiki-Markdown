@@ -1,18 +1,13 @@
 # 文件:El_gato_negrobanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\15\ns6%3AEl_gato_negrobanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\15\ns6%3AEl_gato_negrobanner%2Ejpg.html -->
 
 El_gato_negro | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[direct image link](http://codeline.aikotoba.jp/CD/img/ud.jpg), [source page](http://codeline.aikotoba.jp/CD/ultimet_touhou.html)
-  
-
-
-
-
+源地址：[direct image link](http://codeline.aikotoba.jp/CD/img/ud.jpg), [source page](http://codeline.aikotoba.jp/CD/ultimet_touhou.html)  
 
 ---
 

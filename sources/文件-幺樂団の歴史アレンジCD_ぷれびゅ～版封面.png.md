@@ -1,6 +1,6 @@
 # 文件:幺樂団の歴史アレンジCD_ぷれびゅ～版封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8c\ns6%3A%E5%B9%BA%E6%A8%82%E5%9B%A3%E3%81%AE%E6%AD%B4%E5%8F%B2%E3%82%A2%E3%83%AC%E3%83%B3%E3%82%B8CD_%E3%81%B7%E3%82%8C%E3%81%B3%E3%82%85%EF%BD%9E%E7%89%88%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8c\ns6%3A%E5%B9%BA%E6%A8%82%E5%9B%A3%E3%81%AE%E6%AD%B4%E5%8F%B2%E3%82%A2%E3%83%AC%E3%83%B3%E3%82%B8CD_%E3%81%B7%E3%82%8C%E3%81%B3%E3%82%85%EF%BD%9E%E7%89%88%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 E.B.S._0／1 | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ E.B.S._0／1 | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [幺樂団の歴史アレンジCD ぷれびゅ～版](./幺樂団の歴史アレンジCD_ぷれびゅ～版.md)  
-该封面包含的角色：- [稗田阿求](./稗田阿求.md)
-
-
-
+- [幺樂団の歴史アレンジCD ぷれびゅ～版](./幺樂団の歴史アレンジCD_ぷれびゅ～版.md)该封面包含的角色：
+- [稗田阿求](./稗田阿求.md)
 
 
 ---

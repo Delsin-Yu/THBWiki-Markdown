@@ -1,6 +1,6 @@
 # 文件:楽園巡行～past_time_in_pseudo_paradise封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c1\ns6%3A%E6%A5%BD%E5%9C%92%E5%B7%A1%E8%A1%8C%EF%BD%9Epast_time_in_pseudo_paradise%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c1\ns6%3A%E6%A5%BD%E5%9C%92%E5%B7%A1%E8%A1%8C%EF%BD%9Epast_time_in_pseudo_paradise%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 最も憂鬱な僕
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [楽園巡行～past time in pseudo paradise](./楽園巡行～past_time_in_pseudo_paradise.md)  
-该封面包含的角色：- [蓬莱人形](./蓬莱人形.md)
-
-
-
+- [楽園巡行～past time in pseudo paradise](./楽園巡行～past_time_in_pseudo_paradise.md)该封面包含的角色：
+- [蓬莱人形](./蓬莱人形.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:First_Impression（鶫）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7e\ns6%3AFirst_Impression%EF%BC%88%E9%B6%AB%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7e\ns6%3AFirst_Impression%EF%BC%88%E9%B6%AB%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 鶫
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [First Impression（鶫）](./First_Impression（鶫）.md)  
-该封面包含的角色：- [丰聪耳神子](./丰聪耳神子.md)
-
-
-
+- [First Impression（鶫）](./First_Impression（鶫）.md)该封面包含的角色：
+- [丰聪耳神子](./丰聪耳神子.md)
 
 
 ---

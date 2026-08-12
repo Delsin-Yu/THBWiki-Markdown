@@ -1,6 +1,6 @@
 # 文件:TEC_BOX_Ex.2_～_"Triple_Time_Party!!"封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\98\ns6%3ATEC_BOX_Ex%2E2_%EF%BD%9E_%22Triple_Time_Party%21%21%22%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\98\ns6%3ATEC_BOX_Ex%2E2_%EF%BD%9E_%22Triple_Time_Party%21%21%22%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 SoundChaos | 专辑封面 | 封面图片
 
@@ -8,12 +8,11 @@ SoundChaos | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [TEC BOX Ex.2 ～ "Triple Time Party!!"](./TEC_BOX_Ex.2_～_-Triple_Time_Party!!-.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)源地址：[[1]](https://web.archive.org/web/20171027155658/http://soundchaos.symphonic-net.com/tecboxex2.html)
-
-
-
-
+- [TEC BOX Ex.2 ～ "Triple Time Party!!"](./TEC_BOX_Ex.2_～_-Triple_Time_Party!!-.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+源地址：[\[1\]](https://web.archive.org/web/20171027155658/http://soundchaos.symphonic-net.com/tecboxex2.html)
 
 ---
 

@@ -1,14 +1,11 @@
 # 文件:采掘「Mine_Blast」（虹龙洞）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d0\ns6%3A%E9%87%87%E6%8E%98%E3%80%8CMine_Blast%E3%80%8D%EF%BC%88%E8%99%B9%E9%BE%99%E6%B4%9E%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d0\ns6%3A%E9%87%87%E6%8E%98%E3%80%8CMine_Blast%E3%80%8D%EF%BC%88%E8%99%B9%E9%BE%99%E6%B4%9E%EF%BC%89%2Epng.html -->
 
 东方虹龙洞 | 姬虫百百世 | 敌机符卡
 
 
 ## 文件说明
-
-
-
 
 ---
 

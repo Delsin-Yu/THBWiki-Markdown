@@ -1,43 +1,33 @@
 # 樱花之恋塚_～_Flower_of_Japan
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\b2\ns0%3A%E6%A8%B1%E8%8A%B1%E4%B9%8B%E6%81%8B%E5%A1%9A_%EF%BD%9E_Flower_of_Japan.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\b2\ns0%3A%E6%A8%B1%E8%8A%B1%E4%B9%8B%E6%81%8B%E5%A1%9A_%EF%BD%9E_Flower_of_Japan.html -->
 
 由 ZUN 创作的官方曲目，原名 桜花之恋塚　～ Flower of Japan
 
 本页是关于东方Project  
- **原作音乐** 的词条
+**原作音乐**的词条
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 出现作品](#出现作品)
 - [3 音乐文件](#音乐文件)
-
   - [3.1 WAV版](#WAV版)
   - [3.2 MIDI版](#MIDI版)
   - [3.3 蓬莱人形](#蓬莱人形)
 
 
-
 - [4 说明文本](#说明文本)
-
   - [4.1 稀翁玉](#稀翁玉)
-
     - [4.1.1 Music Room](#Music_Room)
     - [4.1.2 创曲幻想](#创曲幻想)
 
 
 
 
-
-
 - [5 其他资料](#其他资料)
-
   - [5.1 乐理资讯](#乐理资讯)
   - [5.2 分析考据](#分析考据)
   - [5.3 二次同人数据](#二次同人数据)
-
-
-
 
 
 
@@ -81,16 +71,20 @@
 
 
 ## 说明文本
+
 ### 稀翁玉
+
 #### Music Room
-- Music Room (未找到链接)
+
+- [Music Room](./稀翁玉-Music.md#幽香（西方）幽香的主题曲)
 
 幽香的主题曲  
 和风。一个作品里要是没有这么一首东洋曲的话，果然会让人感到寂寞（笑）  
 对我来说是很少有的（哎呀说真的）明快而又愉悦的曲子。  
 怎么说呢，是时尚（吗？）樱花之恋塚　～ Flower of Japan
 #### 创曲幻想
-- 创曲幻想 (未找到链接)
+
+- [创曲幻想](./附带文档-稀翁玉-创曲幻想.md#创曲幕后评论-10)
 
 ８．樱花之恋塚　～ Flower of Japan  
 　　读作「おうかのこいづか」。纯和风，不，应该是准和风？  
@@ -98,18 +92,23 @@
 　　所以这首曲子较为珍贵。  
 　　其实，氛围轻快的曲子也非常稀有。倾向于New Age的一曲。
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
   
- **桜花之恋塚　～ Flower of Japan**  樱花之恋塚　～ Flower of Japan
+**桜花之恋塚 ～ Flower of Japan** 樱花之恋塚　～ Flower of Japan
   
 
-- 樱花
+- 樱花 
   - 神主在做曲时刻意突出东洋的感觉
   - [蓬莱人形](./蓬莱人形.md)C63版本的故事中提到了樱花
 
-- 塚
+
+- 塚 
   - [蓬莱人形](./蓬莱人形.md)C63的故事中提到有人在樱花树下长眠
+
+
 
 
 ### 二次同人数据
@@ -124,17 +123,6 @@
 <tr><td>Arrange</td><td>214</td></tr>
 <tr><td>Vocal率</td><td>39.55%</td></tr>
 </tbody></table>
-
-
-
-
-  
-  
-
-  
-
-
-
 
 
 ---

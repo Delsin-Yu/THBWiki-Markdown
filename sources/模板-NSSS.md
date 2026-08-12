@@ -1,16 +1,12 @@
 # 模板:NSSS
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\c\ce\ns10%3ANSSS.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\c\ce\ns10%3ANSSS.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

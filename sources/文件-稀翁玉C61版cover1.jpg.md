@@ -1,12 +1,8 @@
 # 文件:稀翁玉C61版cover1.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a8\ns6%3A%E7%A8%80%E7%BF%81%E7%8E%89C61%E7%89%88cover1%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a8\ns6%3A%E7%A8%80%E7%BF%81%E7%8E%89C61%E7%89%88cover1%2Ejpg.html -->
 
 稀翁玉
-
-
-
-
 
 
 ---

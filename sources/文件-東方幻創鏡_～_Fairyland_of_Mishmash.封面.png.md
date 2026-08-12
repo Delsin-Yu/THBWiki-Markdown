@@ -1,6 +1,6 @@
 # 文件:東方幻創鏡_～_Fairyland_of_Mishmash.封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\49\ns6%3A%E6%9D%B1%E6%96%B9%E5%B9%BB%E5%89%B5%E9%8F%A1_%EF%BD%9E_Fairyland_of_Mishmash%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\49\ns6%3A%E6%9D%B1%E6%96%B9%E5%B9%BB%E5%89%B5%E9%8F%A1_%EF%BD%9E_Fairyland_of_Mishmash%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 SHO | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ SHO | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方幻創鏡 ～ Fairyland of Mishmash.](./東方幻創鏡_～_Fairyland_of_Mishmash..md)  
-该封面包含的角色：- [天照神琴](./天照神琴.md)
-
-
-
+- [東方幻創鏡 ～ Fairyland of Mishmash.](./東方幻創鏡_～_Fairyland_of_Mishmash..md)该封面包含的角色：
+- [天照神琴](./天照神琴.md)
 
 
 ---

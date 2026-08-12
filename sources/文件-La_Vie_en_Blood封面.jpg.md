@@ -1,6 +1,6 @@
 # 文件:La_Vie_en_Blood封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4b\ns6%3ALa_Vie_en_Blood%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4b\ns6%3ALa_Vie_en_Blood%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 EXCESS_STANDARD | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ EXCESS_STANDARD | 专辑封面 | 封面图片
   
 
 - [La Vie en Blood](./La_Vie_en_Blood.md)
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:TOUHOU_ARRANGE_CD_"183"封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ec\ns6%3ATOUHOU_ARRANGE_CD_%22183%22%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ec\ns6%3ATOUHOU_ARRANGE_CD_%22183%22%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 ぬまうおハウス | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [TOUHOU ARRANGE CD "183"](./TOUHOU_ARRANGE_CD_-183-.md)  
-该封面包含的角色：- [露娜萨·普莉兹姆利巴](./露娜萨·普莉兹姆利巴.md)
-
-
-
+- [TOUHOU ARRANGE CD "183"](./TOUHOU_ARRANGE_CD_-183-.md)该封面包含的角色：
+- [露娜萨·普莉兹姆利巴](./露娜萨·普莉兹姆利巴.md)
 
 
 ---

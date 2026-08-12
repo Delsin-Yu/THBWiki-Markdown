@@ -1,11 +1,10 @@
 # 秋霜玉/攻略/Stage1
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\a\aa\ns0%3A%E7%A7%8B%E9%9C%9C%E7%8E%89%2F%E6%94%BB%E7%95%A5%2FStage1.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\a\aa\ns0%3A%E7%A7%8B%E9%9C%9C%E7%8E%89%2F%E6%94%BB%E7%95%A5%2FStage1.html -->
 
 待完成页面
 
 <center>
-
 <table>
 <tbody><tr>
 <td class="mbox-image"><div style="width: 52px;">
@@ -14,62 +13,41 @@
 </tr>
 </tbody></table>
 
-
 </center>
-
 ## 目录
 
 - [1 总述](#总述)
 - [2 前半道中](#前半道中)
-
-  - [2.1 (1)](#(1))
-
+  - [2.1 (1)](#(1%29)
     - [2.1.1 低Rank](#低Rank)
     - [2.1.2 高Rank](#高Rank)
 
 
 
 
-
-
 - [3 道中boss](#道中boss)
-
   - [3.1 1身](#1身)
-
     - [3.1.1 低Rank](#低Rank_2)
     - [3.1.2 高Rank](#高Rank_2)
 
 
-
   - [3.2 2身](#2身)
-
     - [3.2.1 低Rank](#低Rank_3)
     - [3.2.2 高Rank](#高Rank_3)
 
 
 
 
-
-
 - [4 后半道中](#后半道中)
-
-  - [4.1 ()](#())
-
+  - [4.1 ()](#(%29)
     - [4.1.1 低Rank](#低Rank_4)
     - [4.1.2 高Rank](#高Rank_4)
 
 
 
 
-
-
 - [5 关底boss](#关底boss)
-
   - [5.1 1身](#1身_2)
-
-
-
-
 
 
 
@@ -87,7 +65,7 @@
 ## 道中boss
 
 <table>
-<caption>boss:<a href="/index.php?title=%E7%A7%8B%E9%9C%9C%E7%8E%89/%E5%85%B6%E4%BB%96%E8%A7%92%E8%89%B2&amp;action=edit&amp;redlink=1" class="new" title="秋霜玉/其他角色（页面不存在）">一面道中</a>
+<caption>boss:<a class="new" title="秋霜玉/其他角色（页面不存在）">一面道中</a>
 </caption>
 <tbody><tr>
 <td align="center" colspan="4">Boss共有2身。
@@ -111,10 +89,8 @@
 <td>?
 </td></tr></tbody></table>
 
-
-[](./文件-ssg_1_MidBoss.png.md)  [](./文件-ssg_1_MidBoss.png.md)机体
-
-
+<img alt="" src="https://upload.thwiki.cc/thumb/c/c1/ssg_1_MidBoss.png/100px-ssg_1_MidBoss.png" decoding="async" loading="lazy" width="100" height="78" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/c/c1/ssg_1_MidBoss.png/150px-ssg_1_MidBoss.png 1.5x, https://upload.thwiki.cc/thumb/c/c1/ssg_1_MidBoss.png/200px-ssg_1_MidBoss.png 2x" data-file-width="720" data-file-height="560">
+ [放大](./文件-ssg_1_MidBoss.png.md)机体
 ### 1身
 
 #### 低Rank
@@ -168,27 +144,12 @@
 <td>?
 </td></tr></tbody></table>
 
-
-
-
-
-[](./文件-米莉亚（秋霜玉立绘）.png.md)
-
+<img alt="秋霜玉立绘" src="https://upload.thwiki.cc/9/93/%E7%B1%B3%E8%8E%89%E4%BA%9A%EF%BC%88%E7%A7%8B%E9%9C%9C%E7%8E%89%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="100" height="98" data-file-width="96" data-file-height="94">
 米莉亚
-
-
-[](./文件-ssg_1_Boss.png.md)
+<img alt="秋霜玉立绘" src="https://upload.thwiki.cc/thumb/0/07/ssg_1_Boss.png/116px-ssg_1_Boss.png" decoding="async" loading="lazy" width="116" height="98" srcset="https://upload.thwiki.cc/thumb/0/07/ssg_1_Boss.png/174px-ssg_1_Boss.png 1.5x, https://upload.thwiki.cc/thumb/0/07/ssg_1_Boss.png/232px-ssg_1_Boss.png 2x" data-file-width="720" data-file-height="610">
 机体
 
-
-
-
-
-
 ### 1身
-
-
-
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:Lively_Fillers封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\de\ns6%3ALively_Fillers%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\de\ns6%3ALively_Fillers%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 PhantomMist | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ PhantomMist | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Lively Fillers](./Lively_Fillers.md)  
-该封面包含的角色：- [米斯蒂娅·萝蕾拉](./米斯蒂娅·萝蕾拉.md)- [多多良小伞](./多多良小伞.md)
-
-
-
+- [Lively Fillers](./Lively_Fillers.md)该封面包含的角色：
+- [米斯蒂娅·萝蕾拉](./米斯蒂娅·萝蕾拉.md)
+- [多多良小伞](./多多良小伞.md)
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:SINNNKAIbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c0\ns6%3ASINNNKAIbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c0\ns6%3ASINNNKAIbanner%2Epng.html -->
 
 SINNNKAI | 社团LOGO
-
-
-
-
 
 
 ---

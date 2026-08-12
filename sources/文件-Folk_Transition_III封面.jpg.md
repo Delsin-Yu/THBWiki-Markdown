@@ -1,6 +1,6 @@
 # 文件:Folk_Transition_III封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2d\ns6%3AFolk_Transition_III%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2d\ns6%3AFolk_Transition_III%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Studio_Okakits | 同人志封面 | 封面图片
 
@@ -8,16 +8,11 @@ Studio_Okakits | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Folk Transition III](./Folk_Transition_III.md)  
-该封面包含的角色：- [圣白莲](./圣白莲.md)
+- [Folk Transition III](./Folk_Transition_III.md)该封面包含的角色：
+- [圣白莲](./圣白莲.md)
 
   
-源地址：[direct image link](https://66.media.tumblr.com/c8600d84845ace71d2fb66c52fb2c67c/tumblr_p8u3x5BnAF1r4zltoo1_640.jpg), [source post](https://k-ailisi.tumblr.com/post/174001427827)
-  
-
-
-
-
+源地址：[direct image link](https://66.media.tumblr.com/c8600d84845ace71d2fb66c52fb2c67c/tumblr_p8u3x5BnAF1r4zltoo1_640.jpg), [source post](https://k-ailisi.tumblr.com/post/174001427827)  
 
 ---
 

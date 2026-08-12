@@ -1,6 +1,6 @@
 # 文件:AR_3rd_impact封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\11\ns6%3AAR_3rd_impact%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\11\ns6%3AAR_3rd_impact%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 あらいぐまファクトリー | 专辑封面 | 封面图片
 
@@ -10,11 +10,15 @@
 使用了本文件作封面图片的作品：
   
 
-- [AR 3rd impact](./AR_3rd_impact.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)- [博丽灵梦](./博丽灵梦.md)- 十六夜咲夜 (未找到链接)- [梅蒂欣·梅兰可莉](./梅蒂欣·梅兰可莉.md)- [风见幽香](./风见幽香.md)- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)- [洩矢诹访子](./洩矢诹访子.md)
-
-
-
+- [AR 3rd impact](./AR_3rd_impact.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
+- [博丽灵梦](./博丽灵梦.md)
+- [十六夜咲夜](./十六夜咲夜.md)
+- [梅蒂欣·梅兰可莉](./梅蒂欣·梅兰可莉.md)
+- [风见幽香](./风见幽香.md)
+- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)
+- [洩矢诹访子](./洩矢诹访子.md)
 
 
 ---

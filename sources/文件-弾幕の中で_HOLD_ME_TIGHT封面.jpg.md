@@ -1,6 +1,6 @@
 # 文件:弾幕の中で_HOLD_ME_TIGHT封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\09\ns6%3A%E5%BC%BE%E5%B9%95%E3%81%AE%E4%B8%AD%E3%81%A7_HOLD_ME_TIGHT%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\09\ns6%3A%E5%BC%BE%E5%B9%95%E3%81%AE%E4%B8%AD%E3%81%A7_HOLD_ME_TIGHT%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 マッカチン企画 | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [弾幕の中で HOLD ME TIGHT](./弾幕の中で_HOLD_ME_TIGHT.md)  
-该封面包含的角色：- [姬海棠果](./姬海棠果.md)
-
-
-
+- [弾幕の中で HOLD ME TIGHT](./弾幕の中で_HOLD_ME_TIGHT.md)该封面包含的角色：
+- [姬海棠果](./姬海棠果.md)
 
 
 ---

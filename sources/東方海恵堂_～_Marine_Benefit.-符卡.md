@@ -1,14 +1,14 @@
 # 東方海恵堂_～_Marine_Benefit./符卡
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\e\e4\ns0%3A%E6%9D%B1%E6%96%B9%E6%B5%B7%E6%81%B5%E5%A0%82_%EF%BD%9E_Marine_Benefit%2E%2F%E7%AC%A6%E5%8D%A1.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\e\e4\ns0%3A%E6%9D%B1%E6%96%B9%E6%B5%B7%E6%81%B5%E5%A0%82_%EF%BD%9E_Marine_Benefit%2E%2F%E7%AC%A6%E5%8D%A1.html -->
 
 原色空間
 
   
 原版游戏没有符卡编号，请注意。wiki中的编号是为了方便整理加上的。
   
-
-: - [Stage 1 符卡](./東方海恵堂_～_Marine_Benefit.-符卡-Stage_1.md)
+: 
+- [Stage 1 符卡](./東方海恵堂_～_Marine_Benefit.-符卡-Stage_1.md)
 - [Stage 2 符卡](./東方海恵堂_～_Marine_Benefit.-符卡-Stage_2.md)
 - [Stage 3 符卡](./東方海恵堂_～_Marine_Benefit.-符卡-Stage_3.md)
 - [Stage 4 符卡](./東方海恵堂_～_Marine_Benefit.-符卡-Stage_4.md)
@@ -16,9 +16,6 @@
 - [Stage 6 符卡](./東方海恵堂_～_Marine_Benefit.-符卡-Stage_6.md)
 - [Extra关卡 符卡](./東方海恵堂_～_Marine_Benefit.-符卡-Extra.md)
 - [Omniverse关卡 符卡](./東方海恵堂_～_Marine_Benefit.-符卡-Omniverse.md)
-
-
-
 
 
 

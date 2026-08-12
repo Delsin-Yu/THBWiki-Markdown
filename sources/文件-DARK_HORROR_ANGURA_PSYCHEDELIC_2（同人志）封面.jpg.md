@@ -1,6 +1,6 @@
 # 文件:DARK_HORROR_ANGURA_PSYCHEDELIC_2（同人志）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7f\ns6%3ADARK_HORROR_ANGURA_PSYCHEDELIC_2%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7f\ns6%3ADARK_HORROR_ANGURA_PSYCHEDELIC_2%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 東条堂
 
@@ -10,16 +10,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [DARK HORROR ANGURA PSYCHEDELIC 2（同人志）](./DARK_HORROR_ANGURA_PSYCHEDELIC_2（同人志）.md)  
-该封面包含的角色：- [古明地觉](./古明地觉.md)- [古明地恋](./古明地恋.md)
+- [DARK HORROR ANGURA PSYCHEDELIC 2（同人志）](./DARK_HORROR_ANGURA_PSYCHEDELIC_2（同人志）.md)该封面包含的角色：
+- [古明地觉](./古明地觉.md)
+- [古明地恋](./古明地恋.md)
 
   
-源地址：[direct image link](https://pbs.twimg.com/media/Et8F-PQUcAIVmFe?format=jpg&amp;name=orig), [source tweet](https://twitter.com/jackbalan_/status/1359812185174593536)
-  
-
-
-
-
+源地址：[direct image link](https://pbs.twimg.com/media/Et8F-PQUcAIVmFe?format=jpg&name=orig), [source tweet](https://twitter.com/jackbalan_/status/1359812185174593536)  
 
 ---
 

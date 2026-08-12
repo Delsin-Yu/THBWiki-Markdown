@@ -1,6 +1,6 @@
 # 文件:2XXX年の幻想少女・2_修羅と修羅封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e6\ns6%3A2XXX%E5%B9%B4%E3%81%AE%E5%B9%BB%E6%83%B3%E5%B0%91%E5%A5%B3%E3%83%BB2_%E4%BF%AE%E7%BE%85%E3%81%A8%E4%BF%AE%E7%BE%85%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e6\ns6%3A2XXX%E5%B9%B4%E3%81%AE%E5%B9%BB%E6%83%B3%E5%B0%91%E5%A5%B3%E3%83%BB2_%E4%BF%AE%E7%BE%85%E3%81%A8%E4%BF%AE%E7%BE%85%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 La_Mort_Rouge | 同人志封面 | 封面图片
 
@@ -8,16 +8,13 @@ La_Mort_Rouge | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [2XXX年の幻想少女・2 修羅と修羅](./2XXX年の幻想少女・2_修羅と修羅.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [雾雨魔理沙](./雾雨魔理沙.md)- 原创角色 (未找到链接)
+- [2XXX年の幻想少女・2 修羅と修羅](./2XXX年の幻想少女・2_修羅と修羅.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
+- 原创角色 (未找到链接)
 
   
-源地址：[direct image link](https://melonbooks.akamaized.net/user_data/packages/resize_image.php?image=212001117165.jpg)
-  
-
-
-
-
+源地址：[direct image link](https://melonbooks.akamaized.net/user_data/packages/resize_image.php?image=212001117165.jpg)  
 
 ---
 

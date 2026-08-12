@@ -1,6 +1,6 @@
 # 文件:Elementary_Particle封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\36\ns6%3AElementary_Particle%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\36\ns6%3AElementary_Particle%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 No_Gimmick_No_Life | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ No_Gimmick_No_Life | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Elementary Particle](./Elementary_Particle.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
+- [Elementary Particle](./Elementary_Particle.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
   
-源地址：[[1]](http://static.tumblr.com/7083eac6219371066f8a0023501aaf6e/s0dxskf/a11nzlkuf/tumblr_static_2h0mzl30k0sggcc88w0k484kc.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://static.tumblr.com/7083eac6219371066f8a0023501aaf6e/s0dxskf/a11nzlkuf/tumblr_static_2h0mzl30k0sggcc88w0k484kc.jpg)  
 
 ---
 

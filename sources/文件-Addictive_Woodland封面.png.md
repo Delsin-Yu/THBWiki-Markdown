@@ -1,6 +1,6 @@
 # 文件:Addictive_Woodland封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ab\ns6%3AAddictive_Woodland%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ab\ns6%3AAddictive_Woodland%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 鍋インシュタイン
 
@@ -8,12 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [Addictive Woodland](./Addictive_Woodland.md)  
-该封面包含的角色：- [娜兹玲](./娜兹玲.md)源地址：[[1]](http://nabeinstein.com/rei8/img/jacket.png)
-
-
-
-
+- [Addictive Woodland](./Addictive_Woodland.md)该封面包含的角色：
+- [娜兹玲](./娜兹玲.md)
+源地址：[\[1\]](http://nabeinstein.com/rei8/img/jacket.png)
 
 ---
 

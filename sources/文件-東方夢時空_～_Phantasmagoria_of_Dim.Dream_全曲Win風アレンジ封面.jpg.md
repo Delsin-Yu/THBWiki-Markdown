@@ -1,6 +1,6 @@
 # 文件:東方夢時空_～_Phantasmagoria_of_Dim.Dream_全曲Win風アレンジ封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\96\ns6%3A%E6%9D%B1%E6%96%B9%E5%A4%A2%E6%99%82%E7%A9%BA_%EF%BD%9E_Phantasmagoria_of_Dim%2EDream_%E5%85%A8%E6%9B%B2Win%E9%A2%A8%E3%82%A2%E3%83%AC%E3%83%B3%E3%82%B8%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\96\ns6%3A%E6%9D%B1%E6%96%B9%E5%A4%A2%E6%99%82%E7%A9%BA_%EF%BD%9E_Phantasmagoria_of_Dim%2EDream_%E5%85%A8%E6%9B%B2Win%E9%A2%A8%E3%82%A2%E3%83%AC%E3%83%B3%E3%82%B8%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 FDesk | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ FDesk | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方夢時空 ～ Phantasmagoria of Dim.Dream 全曲Win風アレンジ](./東方夢時空_～_Phantasmagoria_of_Dim.Dream_全曲Win風アレンジ.md)  
-该封面包含的角色：- [冈崎梦美](./冈崎梦美.md)
-
-
-
+- [東方夢時空 ～ Phantasmagoria of Dim.Dream 全曲Win風アレンジ](./東方夢時空_～_Phantasmagoria_of_Dim.Dream_全曲Win風アレンジ.md)该封面包含的角色：
+- [冈崎梦美](./冈崎梦美.md)
 
 
 ---

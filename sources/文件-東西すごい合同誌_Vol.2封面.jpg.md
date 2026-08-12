@@ -1,6 +1,6 @@
 # 文件:東西すごい合同誌_Vol.2封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3e\ns6%3A%E6%9D%B1%E8%A5%BF%E3%81%99%E3%81%94%E3%81%84%E5%90%88%E5%90%8C%E8%AA%8C_Vol%2E2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3e\ns6%3A%E6%9D%B1%E8%A5%BF%E3%81%99%E3%81%94%E3%81%84%E5%90%88%E5%90%8C%E8%AA%8C_Vol%2E2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Sweetest_Cloud | 同人志封面 | 封面图片
 
@@ -10,16 +10,12 @@ Sweetest_Cloud | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東西すごい合同誌 Vol.2](./東西すごい合同誌_Vol.2.md)  
-该封面包含的角色：- [依神女苑](./依神女苑.md)- [依神紫苑](./依神紫苑.md)
+- [東西すごい合同誌 Vol.2](./東西すごい合同誌_Vol.2.md)该封面包含的角色：
+- [依神女苑](./依神女苑.md)
+- [依神紫苑](./依神紫苑.md)
 
   
-源地址：[direct image link (original size)](https://s2.booth.pm/e3345422-6949-4ca5-89de-323da7349e05/i/1454989/f393b372-7ea2-4a34-97a2-229fd7296474.jpg), [source page (circle Booth)](https://sweetest.booth.pm/items/1454989)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://s2.booth.pm/e3345422-6949-4ca5-89de-323da7349e05/i/1454989/f393b372-7ea2-4a34-97a2-229fd7296474.jpg), [source page (circle Booth)](https://sweetest.booth.pm/items/1454989)  
 
 ---
 

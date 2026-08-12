@@ -1,12 +1,8 @@
 # 文件:rythmiquebanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\90\ns6%3Arythmiquebanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\90\ns6%3Arythmiquebanner%2Epng.html -->
 
 rythmique | 社团LOGO
-
-
-
-
 
 
 ---

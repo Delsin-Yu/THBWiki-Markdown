@@ -1,16 +1,12 @@
 # 模板:MAZ东方
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\3\37\ns10%3AMAZ%E4%B8%9C%E6%96%B9.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\3\37\ns10%3AMAZ%E4%B8%9C%E6%96%B9.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

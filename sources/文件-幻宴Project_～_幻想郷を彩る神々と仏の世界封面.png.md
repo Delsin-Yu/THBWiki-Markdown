@@ -1,6 +1,6 @@
 # 文件:幻宴Project_～_幻想郷を彩る神々と仏の世界封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\56\ns6%3A%E5%B9%BB%E5%AE%B4Project_%EF%BD%9E_%E5%B9%BB%E6%83%B3%E9%83%B7%E3%82%92%E5%BD%A9%E3%82%8B%E7%A5%9E%E3%80%85%E3%81%A8%E4%BB%8F%E3%81%AE%E4%B8%96%E7%95%8C%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\56\ns6%3A%E5%B9%BB%E5%AE%B4Project_%EF%BD%9E_%E5%B9%BB%E6%83%B3%E9%83%B7%E3%82%92%E5%BD%A9%E3%82%8B%E7%A5%9E%E3%80%85%E3%81%A8%E4%BB%8F%E3%81%AE%E4%B8%96%E7%95%8C%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 針の音楽
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [幻宴Project ～ 幻想郷を彩る神々と仏の世界](./幻宴Project_～_幻想郷を彩る神々と仏の世界.md)  
-该封面包含的角色：- [圣白莲](./圣白莲.md)- [丰聪耳神子](./丰聪耳神子.md)
-
-
-
+- [幻宴Project ～ 幻想郷を彩る神々と仏の世界](./幻宴Project_～_幻想郷を彩る神々と仏の世界.md)该封面包含的角色：
+- [圣白莲](./圣白莲.md)
+- [丰聪耳神子](./丰聪耳神子.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:pastel_colors封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8c\ns6%3Apastel_colors%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8c\ns6%3Apastel_colors%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Undefined_Field | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Undefined_Field | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [pastel colors](./pastel_colors.md)  
-该封面包含的角色：- [莉莉霍瓦特](./莉莉霍瓦特.md)
-
-
-
+- [pastel colors](./pastel_colors.md)该封面包含的角色：
+- [莉莉霍瓦特](./莉莉霍瓦特.md)
 
 
 ---

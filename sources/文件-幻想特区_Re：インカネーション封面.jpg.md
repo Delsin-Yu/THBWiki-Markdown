@@ -1,6 +1,6 @@
 # 文件:幻想特区_Re：インカネーション封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\16\ns6%3A%E5%B9%BB%E6%83%B3%E7%89%B9%E5%8C%BA_Re%EF%BC%9A%E3%82%A4%E3%83%B3%E3%82%AB%E3%83%8D%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\16\ns6%3A%E5%B9%BB%E6%83%B3%E7%89%B9%E5%8C%BA_Re%EF%BC%9A%E3%82%A4%E3%83%B3%E3%82%AB%E3%83%8D%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Pizuya's_Cell | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ Pizuya's_Cell | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [幻想特区 Re：インカネーション](./幻想特区_Re：インカネーション.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [幻想特区 Re：インカネーション](./幻想特区_Re：インカネーション.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

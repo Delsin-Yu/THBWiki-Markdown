@@ -1,16 +1,12 @@
 # 文件:流星计划logo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a3\ns6%3A%E6%B5%81%E6%98%9F%E8%AE%A1%E5%88%92logo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a3\ns6%3A%E6%B5%81%E6%98%9F%E8%AE%A1%E5%88%92logo%2Epng.html -->
 
 流星计划 | 社团LOGO
 
   
 流星计划LOGO
   
-
-
-
-
 
 ---
 

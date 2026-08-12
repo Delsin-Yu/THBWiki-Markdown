@@ -1,6 +1,6 @@
 # 文件:Tempest_Fall_-DEMO-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\86\ns6%3ATempest_Fall_-DEMO-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\86\ns6%3ATempest_Fall_-DEMO-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Autumn_Aggression | 专辑封面 | 封面图片
 
@@ -11,12 +11,7 @@ Autumn_Aggression | 专辑封面 | 封面图片
 - [Tempest Fall -DEMO-](./Tempest_Fall_-DEMO-.md)
 
   
-源地址：[direct link](https://www.suruga-ya.jp/database/pics/game/186149728.jpg), [origin page](https://www.suruga-ya.jp/product/detail/186149728)
-  
-
-
-
-
+源地址：[direct link](https://www.suruga-ya.jp/database/pics/game/186149728.jpg), [origin page](https://www.suruga-ya.jp/product/detail/186149728)  
 
 ---
 

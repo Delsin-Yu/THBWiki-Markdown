@@ -1,6 +1,6 @@
 # 文件:Graphic×Portrait封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e6\ns6%3AGraphic%C3%97Portrait%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e6\ns6%3AGraphic%C3%97Portrait%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Axion_Channel | 同人志封面 | 封面图片
 
@@ -8,11 +8,8 @@ Axion_Channel | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Graphic×Portrait](./Graphic×Portrait.md)  
-该封面包含的角色：- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [Graphic×Portrait](./Graphic×Portrait.md)该封面包含的角色：
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

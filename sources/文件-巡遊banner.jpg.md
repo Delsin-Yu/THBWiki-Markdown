@@ -1,14 +1,11 @@
 # 文件:巡遊banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b0\ns6%3A%E5%B7%A1%E9%81%8Abanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b0\ns6%3A%E5%B7%A1%E9%81%8Abanner%2Ejpg.html -->
 
 巡遊 | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

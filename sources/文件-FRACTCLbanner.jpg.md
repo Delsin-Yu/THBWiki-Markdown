@@ -1,12 +1,8 @@
 # 文件:FRACTCLbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\70\ns6%3AFRACTCLbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\70\ns6%3AFRACTCLbanner%2Ejpg.html -->
 
 FRACTCL | 社团LOGO
-
-
-
-
 
 
 ---

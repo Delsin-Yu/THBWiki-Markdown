@@ -1,6 +1,6 @@
 # 文件:THE_WORLD_IS_NOT_ENOUGH_＜下＞封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\43\ns6%3ATHE_WORLD_IS_NOT_ENOUGH_%EF%BC%9C%E4%B8%8B%EF%BC%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\43\ns6%3ATHE_WORLD_IS_NOT_ENOUGH_%EF%BC%9C%E4%B8%8B%EF%BC%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 雨山電信社
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [THE WORLD IS NOT ENOUGH ＜下＞](./THE_WORLD_IS_NOT_ENOUGH_＜下＞.md)  
-该封面包含的角色：- [莉格露·奈特巴格](./莉格露·奈特巴格.md)
+- [THE WORLD IS NOT ENOUGH ＜下＞](./THE_WORLD_IS_NOT_ENOUGH_＜下＞.md)该封面包含的角色：
+- [莉格露·奈特巴格](./莉格露·奈特巴格.md)
 
   
-源地址：[direct link](https://stat.ameba.jp/user_images/20100211/11/ameyamatelegraph/4d/5b/j/o0648090610409662663.jpg), [source page](https://ameblo.jp/ameyamatelegraph/entry-10456065960.html)
-  
-
-
-
-
+源地址：[direct link](https://stat.ameba.jp/user_images/20100211/11/ameyamatelegraph/4d/5b/j/o0648090610409662663.jpg), [source page](https://ameblo.jp/ameyamatelegraph/entry-10456065960.html)  
 
 ---
 

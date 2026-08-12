@@ -1,12 +1,8 @@
 # 文件:SILENT_DIFFERENCEbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ab\ns6%3ASILENT_DIFFERENCEbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ab\ns6%3ASILENT_DIFFERENCEbanner%2Ejpg.html -->
 
 SILENT_DIFFERENCE | 社团LOGO
-
-
-
-
 
 
 ---

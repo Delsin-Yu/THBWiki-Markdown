@@ -1,14 +1,11 @@
 # 文件:The_Grimoire_of_Usami（高丽野阿吽2）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5d\ns6%3AThe_Grimoire_of_Usami%EF%BC%88%E9%AB%98%E4%B8%BD%E9%87%8E%E9%98%BF%E5%90%BD2%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5d\ns6%3AThe_Grimoire_of_Usami%EF%BC%88%E9%AB%98%E4%B8%BD%E9%87%8E%E9%98%BF%E5%90%BD2%EF%BC%89%2Ejpg.html -->
 
 宇佐见的魔法书 | 高丽野阿吽
 
 
 ## 摘要
-
-
-
 
 ---
 

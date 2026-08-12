@@ -1,12 +1,8 @@
 # 文件:魔操「Return_Inanimateness」（永夜抄）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d2\ns6%3A%E9%AD%94%E6%93%8D%E3%80%8CReturn_Inanimateness%E3%80%8D%EF%BC%88%E6%B0%B8%E5%A4%9C%E6%8A%84%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d2\ns6%3A%E9%AD%94%E6%93%8D%E3%80%8CReturn_Inanimateness%E3%80%8D%EF%BC%88%E6%B0%B8%E5%A4%9C%E6%8A%84%EF%BC%89%2Ejpg.html -->
 
 东方永夜抄 | 爱丽丝·玛格特洛依德 | 自机符卡
-
-
-
-
 
 
 ---

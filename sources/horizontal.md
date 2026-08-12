@@ -1,27 +1,25 @@
 # horizontal
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\e\e4\ns0%3Ahorizontal.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\e\e4\ns0%3Ahorizontal.html -->
 
 2017年5月7日 由 西明石俗物園 于 博丽神社例大祭14 发布的画集同人志，B5尺寸一共8页，登场人物有 伊吹萃香，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人志 (未找到链接)** 的词条
-
+**[二次创作同人志](./二次创作.md#同人志)**的词条
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-horizontal封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/0/0d/horizontal%E5%B0%81%E9%9D%A2.jpg/224px-horizontal%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="81" srcset="https://upload.thwiki.cc/thumb/0/0d/horizontal%E5%B0%81%E9%9D%A2.jpg/336px-horizontal%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/0/0d/horizontal%E5%B0%81%E9%9D%A2.jpg/448px-horizontal%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1200" data-file-height="434"></a><div class="cover-char">角色：<a href="./伊吹萃香.md" title="伊吹萃香">伊吹萃香</a></div></td>
 </tr><tr><td class="label">名称</td><td colspan="2"> horizontal </td></tr><tr><td class="label">制作方</td><td><a href="./西明石俗物園.md" title="西明石俗物園">西明石俗物園</a></td><td class="cover-artwork" rowspan="8" style="min-width:224px;"><a href="./文件-horizontal封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/0/0d/horizontal%E5%B0%81%E9%9D%A2.jpg/224px-horizontal%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="81" srcset="https://upload.thwiki.cc/thumb/0/0d/horizontal%E5%B0%81%E9%9D%A2.jpg/336px-horizontal%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/0/0d/horizontal%E5%B0%81%E9%9D%A2.jpg/448px-horizontal%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1200" data-file-height="434"></a><div class="cover-char">角色：<a href="./伊吹萃香.md" title="伊吹萃香">伊吹萃香</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2017-05-07&#160;（<a href="/展会作品列表?e=%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD%2314">第十四回 博麗神社例大祭</a>）</td></tr><tr><td class="label">类型</td><td>画集</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>B5</td></tr><tr><td class="label">页数</td><td>8P</td></tr><tr><td class="label">登场人物</td><td><a href="./伊吹萃香.md" title="伊吹萃香">伊吹萃香</a></td></tr><tr><td class="label">售价</td><td>会场售价：400日元</td></tr>
+</tr><tr><td class="label">首发日期</td><td>2017-05-07 （<a href="./展会作品列表.md#14">第十四回 博麗神社例大祭</a>）</td></tr><tr><td class="label">类型</td><td>画集</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>B5</td></tr><tr><td class="label">页数</td><td>8P</td></tr><tr><td class="label">登场人物</td><td><a href="./伊吹萃香.md" title="伊吹萃香">伊吹萃香</a></td></tr><tr><td class="label">售价</td><td>会场售价：400日元</td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://zokubutuen.net/post/160292238575/例大祭のおしらせ">https://zokubutuen.net/post/160292238575/例大祭のおしらせ</a><br><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/62545871">https://www.pixiv.net/artworks/62545871</a></td></tr></tbody></table>
 
 horizontal（同人志，西明石俗物園，2017） - 2017年5月7日 由 西明石俗物園 于 博丽神社例大祭14 发布的画集同人志，B5尺寸一共8页，登场人物有 伊吹萃香，分级为 一般向
-
 ## Staff
+
 - fu_kka (未找到链接)
 
 
 ## 评论
-
   
 [蜜瓜/社团评论](https://www.melonbooks.co.jp/detail/detail.php?product_id=370400)：  
 
@@ -31,16 +29,6 @@ horizontal（同人志，西明石俗物園，2017） - 2017年5月7日 由 西�
 
 ポスターとしても使えるピン留め用の穴を開けてますので読んだ後は飾ることも出来ます!
   
-
-
-  
-  
-
-  
-
-
-
-
 
 ---
 

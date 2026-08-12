@@ -1,54 +1,42 @@
 # 魔女们的舞会_～_Magus
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\9\92\ns0%3A%E9%AD%94%E5%A5%B3%E4%BB%AC%E7%9A%84%E8%88%9E%E4%BC%9A_%EF%BD%9E_Magus.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\9\92\ns0%3A%E9%AD%94%E5%A5%B3%E4%BB%AC%E7%9A%84%E8%88%9E%E4%BC%9A_%EF%BD%9E_Magus.html -->
 
 由 ZUN 创作的官方曲目，原名 魔女達の舞踏会　～ Magus
 
 本页是关于东方Project  
- **原作音乐** 的词条
+**原作音乐**的词条
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 出现作品](#出现作品)
 - [3 音乐文件](#音乐文件)
-
   - [3.1 秋霜玉](#秋霜玉)
   - [3.2 东方幻想的音乐](#东方幻想的音乐)
   - [3.3 幻想曲拔萃](#幻想曲拔萃)
 
 
-
 - [4 说明文本](#说明文本)
-
   - [4.1 秋霜玉](#秋霜玉_2)
-
     - [4.1.1 Music Room](#Music_Room)
     - [4.1.2 创曲幻想](#创曲幻想)
 
 
-
   - [4.2 东方幻想的音乐](#东方幻想的音乐_2)
-
     - [4.2.1 秋霜玉](#秋霜玉_3)
-
 
 
   - [4.3 东方萃梦想](#东方萃梦想)
 
 
-
 - [5 其他资料](#其他资料)
-
   - [5.1 乐理资讯](#乐理资讯)
   - [5.2 分析考据](#分析考据)
   - [5.3 二次同人数据](#二次同人数据)
 
 
-
 - [6 注释](#注释)
 - [7 参见](#参见)
-
-
 
 
 ## 基本信息
@@ -67,11 +55,11 @@
 
 
 ## 音乐文件
+
 ### 秋霜玉
   
 MP3由Roland SC-88Pro 实机录制。官方只发布MIDI而未发布MP3，故音轨长度以从游戏中提取的原MIDI文件为准。
   
-
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td><a href="./文件-sh01_17.mid.md" title="文件:sh01 17.mid">sh01_17.mid</a></td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-SE01_17.mp3.md" title="文件:SE01 17.mp3">SE01_17.mp3</a><br><audio src="https://upload.thwiki.cc/f/fc/SE01_17.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>MUSIC\DATA0016（MIDI）</td></tr><tr><td><b>音轨时长</b></td><td>5:26</td></tr></tbody></table>
 
@@ -80,7 +68,6 @@ MP3由Roland SC-88Pro 实机录制。官方只发布MIDI而未发布MP3，故音
   
 MP3由Roland SC-88Pro 实机录制。官方只发布MIDI而未发布MP3，故音轨长度以原MIDI文件为准。
   
-
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td><a href="./文件-ssg_17.mid.md" title="文件:ssg 17.mid">ssg_17.mid</a></td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-ssg_17.mp3.md" title="文件:ssg 17.mp3">ssg_17.mp3</a><br><audio src="https://upload.thwiki.cc/b/b9/ssg_17.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td><a rel="nofollow" class="external free" href="http://www16.big.or.jp/~zun/html/music_old.html">http://www16.big.or.jp/~zun/html/music_old.html</a></td></tr><tr><td><b>音轨时长</b></td><td>2:54</td></tr></tbody></table>
 
@@ -91,9 +78,12 @@ MP3由Roland SC-88Pro 实机录制。官方只发布MIDI而未发布MP3，故音
 
 
 ## 说明文本
+
 ### 秋霜玉
+
 #### Music Room
-- Music Room (未找到链接)
+
+- [Music Room](./秋霜玉-Music.md#EX面boss雾雨魔理沙的主题曲)
 
 Extra Boss１，雾雨魔理沙的主题曲  
   
@@ -105,15 +95,18 @@ Extra Boss１，雾雨魔理沙的主题曲
   
 虽然比起可爱，我更想让人感到智慧，但能感觉到吗？魔女们的舞会　～ Magus
 #### 创曲幻想
-- 创曲幻想 (未找到链接)
+
+- [创曲幻想](./附带文档-秋霜玉-创曲幻想.md#曲名解说-18)
 
 【 魔女们的舞会 ～ Magus 】Extra Boss１主题曲  
   
-Magus&#160;: 东方魔术师  
+Magus : 东方魔术师  
 魔法使的话，就是这种感觉。因为做出来的感觉和舞会的印象很配···
 ### 东方幻想的音乐
+
 #### 秋霜玉
-- 东方幻想的音乐 (未找到链接)
+
+- [东方幻想的音乐](./东方幻想的音乐-过去的曲子-秋霜玉.md#魔女们的舞会_～_Magus)
 
 +----------------------------------------------------------------------------+  
 |【 　 曲名　　】| 【 魔女们的舞会 】  
@@ -127,7 +120,7 @@ Magus&#160;: 东方魔术师
 |                | 这种时候，请不要更动压缩包内部文件。  
 |【　 著作权 　】| ＺＵＮ (太田顺也）  
 |【演奏上的注意】| 用sc-88Pro 的人在演奏时请不要按55,88Map。  
-|                                             &#126;&#126;&#126;&#126;~   
+|                                             ~~~~~   
 +-----------------------------------------------------------------------------+  
 感谢您下载本文件。  
   
@@ -152,7 +145,8 @@ Magus&#160;: 东方魔术师
 　东方幻想空间　「博丽神社」 [http://www16.big.or.jp/~zun/](http://www16.big.or.jp/~zun/)  
 　e-Mail                     zun@big.or.jp
 ### 东方萃梦想
-- Music Room (未找到链接)
+
+- [Music Room](./东方萃梦想-Music.md#雾雨魔理沙的夜晚主题曲)
 
 魔理沙的夜晚关卡曲。  
 又称重新做了一遍而在我这里没有留下原形的曲子之一。  
@@ -160,47 +154,50 @@ Magus&#160;: 东方魔术师
 结果，虽然想说后面的编辑变成了痛苦的事情，  
 啊不，写出舞台内部的辛苦真是不太光彩呢——虽然已经写了。
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
   
- **魔女達の舞踏会　～ Magus**  魔女们的舞会　～ Magus
+**魔女達の舞踏会 ～ Magus** 魔女们的舞会　～ Magus
   
 
 - <ruby lang="ja"><rb>魔女</rb><rp> (</rp><rt>まじょ</rt><rp>) </rp></ruby>
-
   - 魔理沙。
 
-- Magus
+
+- Magus 
   - 英语：祆教（即琐罗亚斯德教）等古波斯宗教的祭司；魔术师。
   - 基督教中，指《新约圣经·马太福音》记载的、在耶稣出生后前来朝拜的来自东方的三博士。
-  - 创曲幻想 (未找到链接)中，对“Magus”的解释就是「東方魔術師」（东方魔术师）。
+  - [创曲幻想](./附带文档-秋霜玉-创曲幻想.md#曲名解说-18)中，对“Magus”的解释就是「東方魔術師」（东方魔术师）。
   - “Magus”是为单数，可能是特指魔理沙；如果是对应「魔女達」（魔女们）的话更严谨来说应使用复数“Magi”。
 
 
-  
-  
 
- **魔女達の舞踏会**  魔女们的舞会
+  
+  
+**魔女達の舞踏会** 魔女们的舞会
   
 
 - <ruby lang="ja"><rb>魔女</rb><rp> (</rp><rt>まじょ</rt><rp>) </rp></ruby>
-
   - 魔理沙。
 
-- <ruby lang="ja"><rb>魔女達</rb><rp> (</rp><rt>まじょたち</rt><rp>) </rp></ruby>
-（魔女们）
+
+- <ruby lang="ja"><rb>魔女達</rb><rp> (</rp><rt>まじょたち</rt><rp>) </rp></ruby>（魔女们） 
   - 使用魔力的少女们。
   - 幻想乡的少女们。
 
-- <ruby lang="ja"><rb>舞踏会</rb><rp> (</rp><rt>ぶとうかい</rt><rp>) </rp></ruby>
-（舞会）
-  - 音同「<ruby lang="ja"><rb>武闘会</rb><rp> (</rp><rt>ぶとうかい</rt><rp>) </rp></ruby>
-」（比武大赛）。
+
+- <ruby lang="ja"><rb>舞踏会</rb><rp> (</rp><rt>ぶとうかい</rt><rp>) </rp></ruby>（舞会） 
+  - 音同「<ruby lang="ja"><rb>武闘会</rb><rp> (</rp><rt>ぶとうかい</rt><rp>) </rp></ruby>」（比武大赛）。 
     - 萃梦想是格斗游戏。
+
 
   - 萃梦想的异变内容是每三天就要开一次宴会。
 
+
 - 本曲改编自秋霜玉的，并且名字里去掉了“~ Magus”后缀。
+
 
 ### 二次同人数据
 
@@ -216,20 +213,10 @@ Magus&#160;: 东方魔术师
 </tbody></table>
 
 
-
-
-
 ## 参见
+
 - [雾雨魔理沙/分析考据](./雾雨魔理沙-分析考据.md)
 - 雾雨魔理沙（西方）/分析考据 (未找到链接)
-
-  
-  
-
-  
-
-
-
 
 
 ---

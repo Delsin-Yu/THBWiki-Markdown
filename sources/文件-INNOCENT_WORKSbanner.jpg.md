@@ -1,14 +1,11 @@
 # 文件:INNOCENT_WORKSbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\aa\ns6%3AINNOCENT_WORKSbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\aa\ns6%3AINNOCENT_WORKSbanner%2Ejpg.html -->
 
 INNOCENT_WORKS | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:エデンの蝶_e.p.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\66\ns6%3A%E3%82%A8%E3%83%87%E3%83%B3%E3%81%AE%E8%9D%B6_e%2Ep%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\66\ns6%3A%E3%82%A8%E3%83%87%E3%83%B3%E3%81%AE%E8%9D%B6_e%2Ep%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 味ノ素密売所 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [エデンの蝶 e.p.](./エデンの蝶_e.p..md)  
-该封面包含的角色：- [东风谷早苗](./东风谷早苗.md)
-
-
-
+- [エデンの蝶 e.p.](./エデンの蝶_e.p..md)该封面包含的角色：
+- [东风谷早苗](./东风谷早苗.md)
 
 
 ---

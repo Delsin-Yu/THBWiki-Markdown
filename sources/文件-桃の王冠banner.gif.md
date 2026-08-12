@@ -1,18 +1,13 @@
 # 文件:桃の王冠banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6d\ns6%3A%E6%A1%83%E3%81%AE%E7%8E%8B%E5%86%A0banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6d\ns6%3A%E6%A1%83%E3%81%AE%E7%8E%8B%E5%86%A0banner%2Egif.html -->
 
 桃の王冠 | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[direct image link](https://blog-imgs-50-origin.fc2.com/m/o/m/momonooukan/banner.gif), [source page](http://momonooukan.blog17.fc2.com/)
-  
-
-
-
-
+源地址：[direct image link](https://blog-imgs-50-origin.fc2.com/m/o/m/momonooukan/banner.gif), [source page](http://momonooukan.blog17.fc2.com/)  
 
 ---
 

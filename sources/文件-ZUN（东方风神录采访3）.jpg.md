@@ -1,12 +1,8 @@
 # 文件:ZUN（东方风神录采访3）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5e\ns6%3AZUN%EF%BC%88%E4%B8%9C%E6%96%B9%E9%A3%8E%E7%A5%9E%E5%BD%95%E9%87%87%E8%AE%BF3%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5e\ns6%3AZUN%EF%BC%88%E4%B8%9C%E6%96%B9%E9%A3%8E%E7%A5%9E%E5%BD%95%E9%87%87%E8%AE%BF3%EF%BC%89%2Ejpg.html -->
 
 ZUN | 东方风神录
-
-
-
-
 
 
 ---

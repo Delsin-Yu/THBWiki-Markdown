@@ -1,6 +1,6 @@
 # 文件:Scarlet_Rings封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5e\ns6%3AScarlet_Rings%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5e\ns6%3AScarlet_Rings%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Bliss_Rings | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Bliss_Rings | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Scarlet Rings](./Scarlet_Rings.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [Scarlet Rings](./Scarlet_Rings.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
   
-源地址：[[1]](http://blog-imgs-44.fc2.com/b/l/i/blissrings/jacket2.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://blog-imgs-44.fc2.com/b/l/i/blissrings/jacket2.jpg)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:LUNAEMBLEM_蒼の月兎2封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\28\ns6%3ALUNAEMBLEM_%E8%92%BC%E3%81%AE%E6%9C%88%E5%85%8E2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\28\ns6%3ALUNAEMBLEM_%E8%92%BC%E3%81%AE%E6%9C%88%E5%85%8E2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 紅賛歌
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [LUNAEMBLEM 蒼の月兎2](./LUNAEMBLEM_蒼の月兎2.md)  
-该封面包含的角色：- [清兰](./清兰.md)
-
-
-
+- [LUNAEMBLEM 蒼の月兎2](./LUNAEMBLEM_蒼の月兎2.md)该封面包含的角色：
+- [清兰](./清兰.md)
 
 
 ---

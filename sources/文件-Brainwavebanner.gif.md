@@ -1,18 +1,13 @@
 # 文件:Brainwavebanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0a\ns6%3ABrainwavebanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0a\ns6%3ABrainwavebanner%2Egif.html -->
 
 Brainwave | 社团LOGO
 
 
 ## 摘要
   
-源地址：[direct image link](https://web.archive.org/web/20170103165356im_/http://blog-imgs-15-origin.fc2.com/j/u/n/junkofc2/banner.gif), [source page](https://web.archive.org/web/20091228033232/http://junkofc2.blog58.fc2.com:80/blog-entry-7.html)
-  
-
-
-
-
+源地址：[direct image link](https://web.archive.org/web/20170103165356im_/http://blog-imgs-15-origin.fc2.com/j/u/n/junkofc2/banner.gif), [source page](https://web.archive.org/web/20091228033232/http://junkofc2.blog58.fc2.com:80/blog-entry-7.html)  
 
 ---
 

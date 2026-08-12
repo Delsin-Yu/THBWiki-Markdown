@@ -1,6 +1,6 @@
 # 文件:劇場版_姫リグル_-永夜の燐光-_COMPLETE_PACK封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\02\ns6%3A%E5%8A%87%E5%A0%B4%E7%89%88_%E5%A7%AB%E3%83%AA%E3%82%B0%E3%83%AB_-%E6%B0%B8%E5%A4%9C%E3%81%AE%E7%87%90%E5%85%89-_COMPLETE_PACK%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\02\ns6%3A%E5%8A%87%E5%A0%B4%E7%89%88_%E5%A7%AB%E3%83%AA%E3%82%B0%E3%83%AB_-%E6%B0%B8%E5%A4%9C%E3%81%AE%E7%87%90%E5%85%89-_COMPLETE_PACK%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 TUMENECO | ふすま喫茶 | ヘルメットが直せません | 同人志封面 | 四面楚歌 | 封面图片
 
@@ -8,11 +8,8 @@ TUMENECO | ふすま喫茶 | ヘルメットが直せません | 同人志封面
 使用了本文件作封面图片的作品：
   
 
-- [劇場版 姫リグル -永夜の燐光- COMPLETE PACK](./劇場版_姫リグル_-永夜の燐光-_COMPLETE_PACK.md)  
-该封面包含的角色：- [莉格露·奈特巴格](./莉格露·奈特巴格.md)
-
-
-
+- [劇場版 姫リグル -永夜の燐光- COMPLETE PACK](./劇場版_姫リグル_-永夜の燐光-_COMPLETE_PACK.md)该封面包含的角色：
+- [莉格露·奈特巴格](./莉格露·奈特巴格.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:狭間の追憶_vol._16封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fb\ns6%3A%E7%8B%AD%E9%96%93%E3%81%AE%E8%BF%BD%E6%86%B6_vol%2E_16%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fb\ns6%3A%E7%8B%AD%E9%96%93%E3%81%AE%E8%BF%BD%E6%86%B6_vol%2E_16%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 TPとDsの狭間 | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@ TPとDsの狭間 | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [狭間の追憶 vol. 16](./狭間の追憶_vol._16.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [狭間の追憶 vol. 16](./狭間の追憶_vol._16.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

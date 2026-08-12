@@ -1,12 +1,8 @@
 # 文件:TECH_Win_2002年11月号附带CD-ROM.jpeg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a7\ns6%3ATECH_Win_2002%E5%B9%B411%E6%9C%88%E5%8F%B7%E9%99%84%E5%B8%A6CD-ROM%2Ejpeg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a7\ns6%3ATECH_Win_2002%E5%B9%B411%E6%9C%88%E5%8F%B7%E9%99%84%E5%B8%A6CD-ROM%2Ejpeg.html -->
 
 东方红魔乡 | 官方游戏体验版光盘扫图
-
-
-
-
 
 
 ---

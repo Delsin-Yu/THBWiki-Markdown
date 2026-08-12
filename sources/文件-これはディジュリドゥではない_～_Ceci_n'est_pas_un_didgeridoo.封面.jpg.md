@@ -1,6 +1,6 @@
 # 文件:これはディジュリドゥではない_～_Ceci_n'est_pas_un_didgeridoo.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\97\ns6%3A%E3%81%93%E3%82%8C%E3%81%AF%E3%83%87%E3%82%A3%E3%82%B8%E3%83%A5%E3%83%AA%E3%83%89%E3%82%A5%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%84_%EF%BD%9E_Ceci_n%27est_pas_un_didgeridoo%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\97\ns6%3A%E3%81%93%E3%82%8C%E3%81%AF%E3%83%87%E3%82%A3%E3%82%B8%E3%83%A5%E3%83%AA%E3%83%89%E3%82%A5%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%84_%EF%BD%9E_Ceci_n%27est_pas_un_didgeridoo%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ξ | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [これはディジュリドゥではない ～ Ceci n'est pas un didgeridoo.](./これはディジュリドゥではない_～_Ceci_n'est_pas_un_didgeridoo..md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [これはディジュリドゥではない ～ Ceci n'est pas un didgeridoo.](./これはディジュリドゥではない_～_Ceci_n'est_pas_un_didgeridoo..md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

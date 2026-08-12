@@ -1,6 +1,6 @@
 # 文件:clarity_pastel封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a4\ns6%3Aclarity_pastel%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a4\ns6%3Aclarity_pastel%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Xenoglossy | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Xenoglossy | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [clarity pastel](./clarity_pastel.md)  
-该封面包含的角色：- [古明地觉](./古明地觉.md)
+- [clarity pastel](./clarity_pastel.md)该封面包含的角色：
+- [古明地觉](./古明地觉.md)
 
   
-源地址：[[1]](http://xenoglossy.hariko.com/img/clarityjk.bmp)
-  
-
-
-
-
+源地址：[\[1\]](http://xenoglossy.hariko.com/img/clarityjk.bmp)  
 
 ---
 

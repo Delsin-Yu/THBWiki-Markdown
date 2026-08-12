@@ -1,12 +1,8 @@
 # 文件:凤联薮雨BOSS（天影战记）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2c\ns6%3A%E5%87%A4%E8%81%94%E8%96%AE%E9%9B%A8BOSS%EF%BC%88%E5%A4%A9%E5%BD%B1%E6%88%98%E8%AE%B0%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2c\ns6%3A%E5%87%A4%E8%81%94%E8%96%AE%E9%9B%A8BOSS%EF%BC%88%E5%A4%A9%E5%BD%B1%E6%88%98%E8%AE%B0%EF%BC%89%2Epng.html -->
 
 トリック・ノスタルジー | 二次角色立绘 | 凤联薮雨 | 连缘天影战记
-
-
-
-
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:奇怪BUG-绀珠传.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bd\ns6%3A%E5%A5%87%E6%80%AABUG-%E7%BB%80%E7%8F%A0%E4%BC%A0%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bd\ns6%3A%E5%A5%87%E6%80%AABUG-%E7%BB%80%E7%8F%A0%E4%BC%A0%2Epng.html -->
 
 技术性图片
-
-
-
-
 
 
 ---

@@ -1,16 +1,11 @@
 # 文件:零雛ラボラトリーbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\54\ns6%3A%E9%9B%B6%E9%9B%9B%E3%83%A9%E3%83%9C%E3%83%A9%E3%83%88%E3%83%AA%E3%83%BCbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\54\ns6%3A%E9%9B%B6%E9%9B%9B%E3%83%A9%E3%83%9C%E3%83%A9%E3%83%88%E3%83%AA%E3%83%BCbanner%2Ejpg.html -->
 
 社团LOGO | 零雛ラボラトリー
 
   
-源地址：[[1]](http://www.geocities.jp/hinalab/bott/bana.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://www.geocities.jp/hinalab/bott/bana.jpg)  
 
 ---
 

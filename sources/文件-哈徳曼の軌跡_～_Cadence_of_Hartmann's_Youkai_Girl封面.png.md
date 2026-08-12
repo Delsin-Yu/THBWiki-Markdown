@@ -1,6 +1,6 @@
 # 文件:哈徳曼の軌跡_～_Cadence_of_Hartmann's_Youkai_Girl封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\30\ns6%3A%E5%93%88%E5%BE%B3%E6%9B%BC%E3%81%AE%E8%BB%8C%E8%B7%A1_%EF%BD%9E_Cadence_of_Hartmann%27s_Youkai_Girl%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\30\ns6%3A%E5%93%88%E5%BE%B3%E6%9B%BC%E3%81%AE%E8%BB%8C%E8%B7%A1_%EF%BD%9E_Cadence_of_Hartmann%27s_Youkai_Girl%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 ねどふる | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [哈徳曼の軌跡 ～ Cadence of Hartmann's Youkai Girl](./哈徳曼の軌跡_～_Cadence_of_Hartmann's_Youkai_Girl.md)  
-该封面包含的角色：- [古明地恋](./古明地恋.md)
-
-
-
+- [哈徳曼の軌跡 ～ Cadence of Hartmann's Youkai Girl](./哈徳曼の軌跡_～_Cadence_of_Hartmann's_Youkai_Girl.md)该封面包含的角色：
+- [古明地恋](./古明地恋.md)
 
 
 ---

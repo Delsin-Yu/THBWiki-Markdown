@@ -1,12 +1,8 @@
 # 文件:花映塚四季映姬Ex.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d7\ns6%3A%E8%8A%B1%E6%98%A0%E5%A1%9A%E5%9B%9B%E5%AD%A3%E6%98%A0%E5%A7%ACEx%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d7\ns6%3A%E8%8A%B1%E6%98%A0%E5%A1%9A%E5%9B%9B%E5%AD%A3%E6%98%A0%E5%A7%ACEx%2Epng.html -->
 
 东方花映塚 | 四季映姬·夜摩仙那度
-
-
-
-
 
 
 ---

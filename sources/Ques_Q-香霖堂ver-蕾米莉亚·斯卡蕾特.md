@@ -1,37 +1,21 @@
 # Ques_Q/香霖堂ver/蕾米莉亚·斯卡蕾特
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\29\ns0%3AQues_Q%2F%E9%A6%99%E9%9C%96%E5%A0%82ver%2F%E8%95%BE%E7%B1%B3%E8%8E%89%E4%BA%9A%C2%B7%E6%96%AF%E5%8D%A1%E8%95%BE%E7%89%B9.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\29\ns0%3AQues_Q%2F%E9%A6%99%E9%9C%96%E5%A0%82ver%2F%E8%95%BE%E7%B1%B3%E8%8E%89%E4%BA%9A%C2%B7%E6%96%AF%E5%8D%A1%E8%95%BE%E7%89%B9.html -->
 
 蕾米莉亚·斯卡蕾特PVCFigure手办模型
 
 本页是关于东方Project  
- **相关实体周边 (未找到链接)** 的词条
-
+**相关实体周边 (未找到链接)**的词条
 ## 模型信息
 
-<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 蕾米莉亚·斯卡蕾特 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>香霖堂ver</td></tr><tr><td class="label">角色</td><td><a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a></td></tr><tr><td class="label">原型师</td><td><a href="/index.php?title=i-con&amp;action=edit&amp;redlink=1" class="new" title="i-con（页面不存在）">i-con</a></td></tr><tr><td class="label">尺寸</td><td>16cm</td></tr><tr><td class="label">状态</td><td>已发售</td></tr><tr><td class="label">售价</td><td>12800日元</td></tr><tr><td class="label">首发日期</td><td>2019-10-1</td></tr><tr><td class="label">发售方</td><td><a href="/index.php?title=Ques_Q&amp;action=edit&amp;redlink=1" class="new" title="Ques Q（页面不存在）">Ques Q</a></td></tr></tbody></table>
+<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 蕾米莉亚·斯卡蕾特 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>香霖堂ver</td></tr><tr><td class="label">角色</td><td><a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a></td></tr><tr><td class="label">原型师</td><td><a class="new" title="i-con（页面不存在）">i-con</a></td></tr><tr><td class="label">尺寸</td><td>16cm</td></tr><tr><td class="label">状态</td><td>已发售</td></tr><tr><td class="label">售价</td><td>12800日元</td></tr><tr><td class="label">首发日期</td><td>2019-10-1</td></tr><tr><td class="label">发售方</td><td><a class="new" title="Ques Q（页面不存在）">Ques Q</a></td></tr></tbody></table>
 
 Ques Q/香霖堂ver/蕾米莉亚·斯卡蕾特（周边） - 蕾米莉亚·斯卡蕾特PVCFigure手办模型
-
 ## 参考图片
-
-
-
-[](./文件-Ques_Q香霖堂ver蕾米莉亚·斯卡蕾特-1.jpg.md)
-
-
-[](./文件-Ques_Q香霖堂ver蕾米莉亚·斯卡蕾特-2.jpg.md)
-
-
-[](./文件-Ques_Q香霖堂ver蕾米莉亚·斯卡蕾特-3.jpg.md)
-
+<img alt="Ques Q香霖堂ver蕾米莉亚·斯卡蕾特" src="https://upload.thwiki.cc/thumb/6/6f/Ques_Q%E9%A6%99%E9%9C%96%E5%A0%82ver%E8%95%BE%E7%B1%B3%E8%8E%89%E4%BA%9A%C2%B7%E6%96%AF%E5%8D%A1%E8%95%BE%E7%89%B9-1.jpg/160px-Ques_Q%E9%A6%99%E9%9C%96%E5%A0%82ver%E8%95%BE%E7%B1%B3%E8%8E%89%E4%BA%9A%C2%B7%E6%96%AF%E5%8D%A1%E8%95%BE%E7%89%B9-1.jpg" decoding="async" loading="lazy" width="160" height="329" srcset="https://upload.thwiki.cc/thumb/6/6f/Ques_Q%E9%A6%99%E9%9C%96%E5%A0%82ver%E8%95%BE%E7%B1%B3%E8%8E%89%E4%BA%9A%C2%B7%E6%96%AF%E5%8D%A1%E8%95%BE%E7%89%B9-1.jpg/240px-Ques_Q%E9%A6%99%E9%9C%96%E5%A0%82ver%E8%95%BE%E7%B1%B3%E8%8E%89%E4%BA%9A%C2%B7%E6%96%AF%E5%8D%A1%E8%95%BE%E7%89%B9-1.jpg 1.5x, https://upload.thwiki.cc/thumb/6/6f/Ques_Q%E9%A6%99%E9%9C%96%E5%A0%82ver%E8%95%BE%E7%B1%B3%E8%8E%89%E4%BA%9A%C2%B7%E6%96%AF%E5%8D%A1%E8%95%BE%E7%89%B9-1.jpg/320px-Ques_Q%E9%A6%99%E9%9C%96%E5%A0%82ver%E8%95%BE%E7%B1%B3%E8%8E%89%E4%BA%9A%C2%B7%E6%96%AF%E5%8D%A1%E8%95%BE%E7%89%B9-1.jpg 2x" data-file-width="1200" data-file-height="2467">
+<img alt="Ques Q香霖堂ver蕾米莉亚·斯卡蕾特" src="https://upload.thwiki.cc/thumb/3/35/Ques_Q%E9%A6%99%E9%9C%96%E5%A0%82ver%E8%95%BE%E7%B1%B3%E8%8E%89%E4%BA%9A%C2%B7%E6%96%AF%E5%8D%A1%E8%95%BE%E7%89%B9-2.jpg/160px-Ques_Q%E9%A6%99%E9%9C%96%E5%A0%82ver%E8%95%BE%E7%B1%B3%E8%8E%89%E4%BA%9A%C2%B7%E6%96%AF%E5%8D%A1%E8%95%BE%E7%89%B9-2.jpg" decoding="async" loading="lazy" width="160" height="189" srcset="https://upload.thwiki.cc/thumb/3/35/Ques_Q%E9%A6%99%E9%9C%96%E5%A0%82ver%E8%95%BE%E7%B1%B3%E8%8E%89%E4%BA%9A%C2%B7%E6%96%AF%E5%8D%A1%E8%95%BE%E7%89%B9-2.jpg/240px-Ques_Q%E9%A6%99%E9%9C%96%E5%A0%82ver%E8%95%BE%E7%B1%B3%E8%8E%89%E4%BA%9A%C2%B7%E6%96%AF%E5%8D%A1%E8%95%BE%E7%89%B9-2.jpg 1.5x, https://upload.thwiki.cc/thumb/3/35/Ques_Q%E9%A6%99%E9%9C%96%E5%A0%82ver%E8%95%BE%E7%B1%B3%E8%8E%89%E4%BA%9A%C2%B7%E6%96%AF%E5%8D%A1%E8%95%BE%E7%89%B9-2.jpg/320px-Ques_Q%E9%A6%99%E9%9C%96%E5%A0%82ver%E8%95%BE%E7%B1%B3%E8%8E%89%E4%BA%9A%C2%B7%E6%96%AF%E5%8D%A1%E8%95%BE%E7%89%B9-2.jpg 2x" data-file-width="560" data-file-height="660">
+<img alt="Ques Q香霖堂ver蕾米莉亚·斯卡蕾特" src="https://upload.thwiki.cc/thumb/f/fb/Ques_Q%E9%A6%99%E9%9C%96%E5%A0%82ver%E8%95%BE%E7%B1%B3%E8%8E%89%E4%BA%9A%C2%B7%E6%96%AF%E5%8D%A1%E8%95%BE%E7%89%B9-3.jpg/320px-Ques_Q%E9%A6%99%E9%9C%96%E5%A0%82ver%E8%95%BE%E7%B1%B3%E8%8E%89%E4%BA%9A%C2%B7%E6%96%AF%E5%8D%A1%E8%95%BE%E7%89%B9-3.jpg" decoding="async" loading="lazy" width="320" height="187" srcset="https://upload.thwiki.cc/thumb/f/fb/Ques_Q%E9%A6%99%E9%9C%96%E5%A0%82ver%E8%95%BE%E7%B1%B3%E8%8E%89%E4%BA%9A%C2%B7%E6%96%AF%E5%8D%A1%E8%95%BE%E7%89%B9-3.jpg/480px-Ques_Q%E9%A6%99%E9%9C%96%E5%A0%82ver%E8%95%BE%E7%B1%B3%E8%8E%89%E4%BA%9A%C2%B7%E6%96%AF%E5%8D%A1%E8%95%BE%E7%89%B9-3.jpg 1.5x, https://upload.thwiki.cc/thumb/f/fb/Ques_Q%E9%A6%99%E9%9C%96%E5%A0%82ver%E8%95%BE%E7%B1%B3%E8%8E%89%E4%BA%9A%C2%B7%E6%96%AF%E5%8D%A1%E8%95%BE%E7%89%B9-3.jpg/640px-Ques_Q%E9%A6%99%E9%9C%96%E5%A0%82ver%E8%95%BE%E7%B1%B3%E8%8E%89%E4%BA%9A%C2%B7%E6%96%AF%E5%8D%A1%E8%95%BE%E7%89%B9-3.jpg 2x" data-file-width="2058" data-file-height="1200">
 公式图
-
-
-
-
-
-
 
 ---
 

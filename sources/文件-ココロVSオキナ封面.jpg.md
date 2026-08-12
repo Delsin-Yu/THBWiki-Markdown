@@ -1,6 +1,6 @@
 # 文件:ココロVSオキナ封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\58\ns6%3A%E3%82%B3%E3%82%B3%E3%83%ADVS%E3%82%AA%E3%82%AD%E3%83%8A%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\58\ns6%3A%E3%82%B3%E3%82%B3%E3%83%ADVS%E3%82%AA%E3%82%AD%E3%83%8A%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 いんどの宮殿！ | 同人志封面 | 封面图片
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [ココロVSオキナ](./ココロVSオキナ.md)  
-该封面包含的角色：- [秦心](./秦心.md)- [摩多罗隐岐奈](./摩多罗隐岐奈.md)
-
-
-
+- [ココロVSオキナ](./ココロVSオキナ.md)该封面包含的角色：
+- [秦心](./秦心.md)
+- [摩多罗隐岐奈](./摩多罗隐岐奈.md)
 
 
 ---

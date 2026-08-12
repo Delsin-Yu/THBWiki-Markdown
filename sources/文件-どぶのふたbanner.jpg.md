@@ -1,14 +1,11 @@
 # 文件:どぶのふたbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1b\ns6%3A%E3%81%A9%E3%81%B6%E3%81%AE%E3%81%B5%E3%81%9Fbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1b\ns6%3A%E3%81%A9%E3%81%B6%E3%81%AE%E3%81%B5%E3%81%9Fbanner%2Ejpg.html -->
 
 どぶのふた | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:Sakata_Mountain封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\47\ns6%3ASakata_Mountain%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\47\ns6%3ASakata_Mountain%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Karob | 封面图片 | 软件封面
 
@@ -10,16 +10,11 @@ Karob | 封面图片 | 软件封面
 使用了本文件作封面图片的作品：
   
 
-- [Sakata Mountain](./Sakata_Mountain.md)  
-该封面包含的角色：- [坂田合欢](./坂田合欢.md)
+- [Sakata Mountain](./Sakata_Mountain.md)该封面包含的角色：
+- [坂田合欢](./坂田合欢.md)
 
   
-源地址：[direct image link](https://img.itch.zone/aW1hZ2UvMjc5NjYzLzEzODQ0ODEucG5n/315x250#c/FNIttj.png), [source page](https://karob.itch.io/)
-  
-
-
-
-
+源地址：[direct image link](https://img.itch.zone/aW1hZ2UvMjc5NjYzLzEzODQ0ODEucG5n/315x250#c/FNIttj.png), [source page](https://karob.itch.io/)  
 
 ---
 

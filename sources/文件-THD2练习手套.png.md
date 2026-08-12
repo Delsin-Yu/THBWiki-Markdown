@@ -1,12 +1,8 @@
 # 文件:THD2练习手套.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\28\ns6%3ATHD2%E7%BB%83%E4%B9%A0%E6%89%8B%E5%A5%97%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\28\ns6%3ATHD2%E7%BB%83%E4%B9%A0%E6%89%8B%E5%A5%97%2Epng.html -->
 
 AvalonStudioOfficial
-
-
-
-
 
 
 ---

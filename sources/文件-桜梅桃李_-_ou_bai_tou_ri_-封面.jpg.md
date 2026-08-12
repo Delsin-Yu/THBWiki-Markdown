@@ -1,6 +1,6 @@
 # 文件:桜梅桃李_-_ou_bai_tou_ri_-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f9\ns6%3A%E6%A1%9C%E6%A2%85%E6%A1%83%E6%9D%8E_-_ou_bai_tou_ri_-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f9\ns6%3A%E6%A1%9C%E6%A2%85%E6%A1%83%E6%9D%8E_-_ou_bai_tou_ri_-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Business_Windows | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@ Business_Windows | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [桜梅桃李 - ou bai tou ri -](./桜梅桃李_-_ou_bai_tou_ri_-.md)  
-该封面包含的角色：- [稗田阿求](./稗田阿求.md)
+- [桜梅桃李 - ou bai tou ri -](./桜梅桃李_-_ou_bai_tou_ri_-.md)该封面包含的角色：
+- [稗田阿求](./稗田阿求.md)
 
   
-源地址：[[1]](http://businesswindows.iza-yoi.net/o-bai.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://businesswindows.iza-yoi.net/o-bai.jpg)  
 
 ---
 

@@ -1,14 +1,11 @@
 # 文件:东方赞宝都LOGO.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cf\ns6%3A%E4%B8%9C%E6%96%B9%E8%B5%9E%E5%AE%9D%E9%83%BDLOGO%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cf\ns6%3A%E4%B8%9C%E6%96%B9%E8%B5%9E%E5%AE%9D%E9%83%BDLOGO%2Ejpg.html -->
 
 东方赞宝都 | 活动LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

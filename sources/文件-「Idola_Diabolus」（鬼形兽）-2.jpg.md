@@ -1,14 +1,11 @@
 # 文件:「Idola_Diabolus」（鬼形兽）-2.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\77\ns6%3A%E3%80%8CIdola_Diabolus%E3%80%8D%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%EF%BC%89-2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\77\ns6%3A%E3%80%8CIdola_Diabolus%E3%80%8D%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%EF%BC%89-2%2Ejpg.html -->
 
 东方鬼形兽 | 埴安神袿姬 | 敌机符卡
 
 
 ## 文件说明
-
-
-
 
 ---
 

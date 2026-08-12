@@ -1,6 +1,6 @@
 # 文件:Helius_Aggregation封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\48\ns6%3AHelius_Aggregation%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\48\ns6%3AHelius_Aggregation%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Amateras_Records | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Amateras_Records | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Helius Aggregation](./Helius_Aggregation.md)  
-该封面包含的角色：- [幽谷响子](./幽谷响子.md)
-
-
-
+- [Helius Aggregation](./Helius_Aggregation.md)该封面包含的角色：
+- [幽谷响子](./幽谷响子.md)
 
 
 ---

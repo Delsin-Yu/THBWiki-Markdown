@@ -1,12 +1,8 @@
 # 文件:Moon_Wortbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\82\ns6%3AMoon_Wortbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\82\ns6%3AMoon_Wortbanner%2Epng.html -->
 
 Moon_Wort | 社团LOGO
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:CROSS_LORDS_ep.02“When_You_Wish_Upon_a_Star”直前プレビュー版封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\16\ns6%3ACROSS_LORDS_ep%2E02%E2%80%9CWhen_You_Wish_Upon_a_Star%E2%80%9D%E7%9B%B4%E5%89%8D%E3%83%97%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E7%89%88%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\16\ns6%3ACROSS_LORDS_ep%2E02%E2%80%9CWhen_You_Wish_Upon_a_Star%E2%80%9D%E7%9B%B4%E5%89%8D%E3%83%97%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E7%89%88%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 AbyssDragon | 同人志封面 | 封面图片
 
@@ -10,16 +10,13 @@ AbyssDragon | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [CROSS LORDS ep.02“When You Wish Upon a Star”直前プレビュー版](./CROSS_LORDS_ep.02“When_You_Wish_Upon_a_Star”直前プレビュー版.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)- 博士 (神秘博士) (未找到链接)
+- [CROSS LORDS ep.02“When You Wish Upon a Star”直前プレビュー版](./CROSS_LORDS_ep.02“When_You_Wish_Upon_a_Star”直前プレビュー版.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
+- 博士 (神秘博士) (未找到链接)
 
   
-[Pixiv artwork ID: 101093095 (original size)](https://www.pixiv.net/artworks/101093095)
-  
-
-
-
-
+[Pixiv artwork ID: 101093095 (original size)](https://www.pixiv.net/artworks/101093095)  
 
 ---
 

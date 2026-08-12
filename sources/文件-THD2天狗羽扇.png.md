@@ -1,12 +1,8 @@
 # 文件:THD2天狗羽扇.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\74\ns6%3ATHD2%E5%A4%A9%E7%8B%97%E7%BE%BD%E6%89%87%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\74\ns6%3ATHD2%E5%A4%A9%E7%8B%97%E7%BE%BD%E6%89%87%2Epng.html -->
 
 AvalonStudioOfficial
-
-
-
-
 
 
 ---

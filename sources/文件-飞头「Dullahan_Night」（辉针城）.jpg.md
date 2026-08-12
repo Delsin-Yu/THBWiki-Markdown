@@ -1,12 +1,8 @@
 # 文件:飞头「Dullahan_Night」（辉针城）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\df\ns6%3A%E9%A3%9E%E5%A4%B4%E3%80%8CDullahan_Night%E3%80%8D%EF%BC%88%E8%BE%89%E9%92%88%E5%9F%8E%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\df\ns6%3A%E9%A3%9E%E5%A4%B4%E3%80%8CDullahan_Night%E3%80%8D%EF%BC%88%E8%BE%89%E9%92%88%E5%9F%8E%EF%BC%89%2Ejpg.html -->
 
 东方辉针城 | 敌机符卡 | 赤蛮奇
-
-
-
-
 
 
 ---

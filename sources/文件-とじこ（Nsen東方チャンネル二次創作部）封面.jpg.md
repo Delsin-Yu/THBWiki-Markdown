@@ -1,6 +1,6 @@
 # 文件:とじこ（Nsen東方チャンネル二次創作部）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\ba\ns6%3A%E3%81%A8%E3%81%98%E3%81%93%EF%BC%88Nsen%E6%9D%B1%E6%96%B9%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB%E4%BA%8C%E6%AC%A1%E5%89%B5%E4%BD%9C%E9%83%A8%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\ba\ns6%3A%E3%81%A8%E3%81%98%E3%81%93%EF%BC%88Nsen%E6%9D%B1%E6%96%B9%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB%E4%BA%8C%E6%AC%A1%E5%89%B5%E4%BD%9C%E9%83%A8%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Nsen東方チャンネル二次創作部 | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Nsen東方チャンネル二次創作部 | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [とじこ（Nsen東方チャンネル二次創作部）](./とじこ（Nsen東方チャンネル二次創作部）.md)  
-该封面包含的角色：- [苏我屠自古](./苏我屠自古.md)
-
-
-
+- [とじこ（Nsen東方チャンネル二次創作部）](./とじこ（Nsen東方チャンネル二次創作部）.md)该封面包含的角色：
+- [苏我屠自古](./苏我屠自古.md)
 
 
 ---

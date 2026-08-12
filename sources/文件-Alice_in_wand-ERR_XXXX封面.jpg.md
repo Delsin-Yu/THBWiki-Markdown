@@ -1,6 +1,6 @@
 # 文件:Alice_in_wand-ERR_XXXX封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0c\ns6%3AAlice_in_wand-ERR_XXXX%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0c\ns6%3AAlice_in_wand-ERR_XXXX%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Unity-Gain | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Unity-Gain | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Alice in wand-ERR XXXX](./Alice_in_wand-ERR_XXXX.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [Alice in wand-ERR XXXX](./Alice_in_wand-ERR_XXXX.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
 
   
-源地址：[[1]](http://kakeruichi.mydns.jp/cd/UTGN-0014/utgn-0014_jacket_850.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://kakeruichi.mydns.jp/cd/UTGN-0014/utgn-0014_jacket_850.jpg)  
 
 ---
 

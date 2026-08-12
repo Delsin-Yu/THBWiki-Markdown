@@ -1,6 +1,6 @@
 # 文件:Evil_eye_and_vapid_malt封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4a\ns6%3AEvil_eye_and_vapid_malt%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4a\ns6%3AEvil_eye_and_vapid_malt%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Silent_Ouroboros | 专辑封面 | 封面图片
 
@@ -8,12 +8,9 @@ Silent_Ouroboros | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Evil eye and vapid malt](./Evil_eye_and_vapid_malt.md)  
-该封面包含的角色：- [古明地觉](./古明地觉.md)源地址：[[1]](https://f4.bcbits.com/img/a0467133413_10.jpg)
-
-
-
-
+- [Evil eye and vapid malt](./Evil_eye_and_vapid_malt.md)该封面包含的角色：
+- [古明地觉](./古明地觉.md)
+源地址：[\[1\]](https://f4.bcbits.com/img/a0467133413_10.jpg)
 
 ---
 

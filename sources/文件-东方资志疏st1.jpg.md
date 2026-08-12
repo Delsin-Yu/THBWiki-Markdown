@@ -1,14 +1,11 @@
 # 文件:东方资志疏st1.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\12\ns6%3A%E4%B8%9C%E6%96%B9%E8%B5%84%E5%BF%97%E7%96%8Fst1%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\12\ns6%3A%E4%B8%9C%E6%96%B9%E8%B5%84%E5%BF%97%E7%96%8Fst1%2Ejpg.html -->
 
 沙包聚集地制作组
 
 
 ## 摘要
-
-
-
 
 ---
 

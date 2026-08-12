@@ -1,16 +1,11 @@
 # 文件:メトロポリタン39番街banner2.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f0\ns6%3A%E3%83%A1%E3%83%88%E3%83%AD%E3%83%9D%E3%83%AA%E3%82%BF%E3%83%B339%E7%95%AA%E8%A1%97banner2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f0\ns6%3A%E3%83%A1%E3%83%88%E3%83%AD%E3%83%9D%E3%83%AA%E3%82%BF%E3%83%B339%E7%95%AA%E8%A1%97banner2%2Ejpg.html -->
 
 メトロポリタン39番街 | 社团LOGO
 
   
-源地址：[[1]](http://file.nitoribass.blog.shinobi.jp/6366c202.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://file.nitoribass.blog.shinobi.jp/6366c202.jpg)  
 
 ---
 

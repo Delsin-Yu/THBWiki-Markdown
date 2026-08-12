@@ -1,14 +1,11 @@
 # 文件:SEA_SPARROWSbanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5b\ns6%3ASEA_SPARROWSbanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5b\ns6%3ASEA_SPARROWSbanner%2Egif.html -->
 
 SEA_SPARROWS | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

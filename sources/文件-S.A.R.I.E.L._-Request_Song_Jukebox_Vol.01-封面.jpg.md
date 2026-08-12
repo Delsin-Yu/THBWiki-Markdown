@@ -1,6 +1,6 @@
 # 文件:S.A.R.I.E.L._-Request_Song_Jukebox_Vol.01-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d2\ns6%3AS%2EA%2ER%2EI%2EE%2EL%2E_-Request_Song_Jukebox_Vol%2E01-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d2\ns6%3AS%2EA%2ER%2EI%2EE%2EL%2E_-Request_Song_Jukebox_Vol%2E01-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 暁Records
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [S.A.R.I.E.L. -Request Song Jukebox Vol.01-](./S.A.R.I.E.L._-Request_Song_Jukebox_Vol.01-.md)  
-该封面包含的角色：- [萨丽爱尔](./萨丽爱尔.md)- [博丽灵梦（旧作角色）](./博丽灵梦（旧作角色）.md)
-
-
-
+- [S.A.R.I.E.L. -Request Song Jukebox Vol.01-](./S.A.R.I.E.L._-Request_Song_Jukebox_Vol.01-.md)该封面包含的角色：
+- [萨丽爱尔](./萨丽爱尔.md)
+- [博丽灵梦（旧作角色）](./博丽灵梦（旧作角色）.md)
 
 
 ---

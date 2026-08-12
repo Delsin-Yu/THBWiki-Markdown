@@ -1,6 +1,6 @@
 # 文件:FORBIDDEN_FRUIT（奴は仮名）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\41\ns6%3AFORBIDDEN_FRUIT%EF%BC%88%E5%A5%B4%E3%81%AF%E4%BB%AE%E5%90%8D%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\41\ns6%3AFORBIDDEN_FRUIT%EF%BC%88%E5%A5%B4%E3%81%AF%E4%BB%AE%E5%90%8D%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 PURE | 同人志封面 | 奴は仮名 | 封面图片
 
@@ -10,11 +10,8 @@ PURE | 同人志封面 | 奴は仮名 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [FORBIDDEN FRUIT（奴は仮名）](./FORBIDDEN_FRUIT（奴は仮名）.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
-
-
-
+- [FORBIDDEN FRUIT（奴は仮名）](./FORBIDDEN_FRUIT（奴は仮名）.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
 
 ---

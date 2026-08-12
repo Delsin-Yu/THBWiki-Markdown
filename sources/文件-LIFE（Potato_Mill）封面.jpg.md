@@ -1,6 +1,6 @@
 # 文件:LIFE（Potato_Mill）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2a\ns6%3ALIFE%EF%BC%88Potato_Mill%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2a\ns6%3ALIFE%EF%BC%88Potato_Mill%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Potato_Mill | 同人志封面 | 封面图片
 
@@ -10,16 +10,18 @@ Potato_Mill | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [LIFE（Potato Mill）](./LIFE（Potato_Mill）.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [西行寺幽幽子](./西行寺幽幽子.md)- [八坂神奈子](./八坂神奈子.md)- [水桥帕露西](./水桥帕露西.md)- [寅丸星](./寅丸星.md)- [圣白莲](./圣白莲.md)- [雾雨魔理沙](./雾雨魔理沙.md)
+- [LIFE（Potato Mill）](./LIFE（Potato_Mill）.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [西行寺幽幽子](./西行寺幽幽子.md)
+- [八坂神奈子](./八坂神奈子.md)
+- [水桥帕露西](./水桥帕露西.md)
+- [寅丸星](./寅丸星.md)
+- [圣白莲](./圣白莲.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-源地址：[direct image link (max size)](https://64.media.tumblr.com/tumblr_m3xztbrMSF1qzyi4xo1_1280.png), [source page](https://k009comics.com/post/22987998902/mokoudraws-hey-guys-my-friend-miluda-and-co)
-  
-
-
-
-
+源地址：[direct image link (max size)](https://64.media.tumblr.com/tumblr_m3xztbrMSF1qzyi4xo1_1280.png), [source page](https://k009comics.com/post/22987998902/mokoudraws-hey-guys-my-friend-miluda-and-co)  
 
 ---
 

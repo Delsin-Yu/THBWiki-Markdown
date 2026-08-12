@@ -1,36 +1,26 @@
 # Mukuro_Mancer_～_空壳之梦
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\20\ns0%3AMukuro_Mancer_%EF%BD%9E_%E7%A9%BA%E5%A3%B3%E4%B9%8B%E6%A2%A6.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\20\ns0%3AMukuro_Mancer_%EF%BD%9E_%E7%A9%BA%E5%A3%B3%E4%B9%8B%E6%A2%A6.html -->
 
 JynX作曲 | Mukuro_Mancer_～_空壳之梦 | 引用了翻译表的页面 | 连缘Project | 连缘Project官方音乐
 
-本页是关于 **向[东方Project](./东方Project.md)  
-致敬、形式类似的作品** 的词条
-
+本页是关于**向[东方Project](./东方Project.md)致敬、形式类似的作品**  
+的词条
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 出现作品](#出现作品)
 - [3 音乐文件](#音乐文件)
-
   - [3.1 连缘灵烈传](#连缘灵烈传)
 
 
-
 - [4 说明文本](#说明文本)
-
   - [4.1 连缘灵烈传](#连缘灵烈传_2)
 
 
-
 - [5 其他资料](#其他资料)
-
   - [5.1 乐理资讯](#乐理资讯)
   - [5.2 分析考据](#分析考据)
-
-
-
-
 
 
 
@@ -59,14 +49,12 @@ JynX作曲 | Mukuro_Mancer_～_空壳之梦 | 引用了翻译表的页面 | 连�
 </td></tr></tbody></table>
 
 
-
 ## 出现作品
 
 <table>
 
 <tbody><tr><td>2014年10月2日（非展会）</td><td><b><a href="./连缘灵烈传～Reactivate_majestical_imperial.md" title="连缘灵烈传～Reactivate majestical imperial" unred="">连缘灵烈传</a></b></td><td>1面BOSS-<a href="./乞骸让让.md" title="乞骸让让">乞骸让让</a>主题曲</td><td style="padding-left:5px;">（Mukuro Mancer ～ 空壳之梦）</td><td style="padding-left:10px;">作曲：JynX</td></tr>
 </tbody></table>
-
 
 
 ## 音乐文件
@@ -90,11 +78,11 @@ JynX作曲 | Mukuro_Mancer_～_空壳之梦 | 引用了翻译表的页面 | 连�
 </td></tr></tbody></table>
 
 
-
 ## 说明文本
 
 ### 连缘灵烈传
-- Music Room (未找到链接)
+
+- [Music Room](./连缘灵烈传～Reactivate_majestical_imperial-Music.md#1面BOSS-乞骸让让主题曲)
 
 一面头目，让让的曲子。  
 不仅是这首曲子，这次的曲子都是以超高速度写出来的，  
@@ -106,15 +94,11 @@ JynX作曲 | Mukuro_Mancer_～_空壳之梦 | 引用了翻译表的页面 | 连�
 ・・・・有什么・・・・关联吗？  
   
 总之，让让或许其实是个超重要角色哦。
-
 ## 其他资料
 
 ### 乐理资讯
 
 ### 分析考据
-
-
-
 
 ---
 

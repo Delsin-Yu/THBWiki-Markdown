@@ -1,6 +1,6 @@
 # 文件:TOHOBEAT_FLASH_-eleventh_Beat-封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9e\ns6%3ATOHOBEAT_FLASH_-eleventh_Beat-%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9e\ns6%3ATOHOBEAT_FLASH_-eleventh_Beat-%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 GUNFIRE | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ GUNFIRE | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [TOHOBEAT FLASH -eleventh Beat-](./TOHOBEAT_FLASH_-eleventh_Beat-.md)  
-该封面包含的角色：- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [TOHOBEAT FLASH -eleventh Beat-](./TOHOBEAT_FLASH_-eleventh_Beat-.md)该封面包含的角色：
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

@@ -1,16 +1,12 @@
 # 文件:物部布都（深秘录怪Last_Word立绘）2.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1b\ns6%3A%E7%89%A9%E9%83%A8%E5%B8%83%E9%83%BD%EF%BC%88%E6%B7%B1%E7%A7%98%E5%BD%95%E6%80%AALast_Word%E7%AB%8B%E7%BB%98%EF%BC%892%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1b\ns6%3A%E7%89%A9%E9%83%A8%E5%B8%83%E9%83%BD%EF%BC%88%E6%B7%B1%E7%A7%98%E5%BD%95%E6%80%AALast_Word%E7%AB%8B%E7%BB%98%EF%BC%892%2Epng.html -->
 
 东方深秘录 | 官方游戏立绘 | 春河萌绘 | 物部布都
 
   
 物部布都（深秘录怪Last Word立绘）2
   
-
-
-
-
 
 ---
 

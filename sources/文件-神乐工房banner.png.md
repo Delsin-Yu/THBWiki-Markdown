@@ -1,12 +1,8 @@
 # 文件:神乐工房banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a6\ns6%3A%E7%A5%9E%E4%B9%90%E5%B7%A5%E6%88%BFbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a6\ns6%3A%E7%A5%9E%E4%B9%90%E5%B7%A5%E6%88%BFbanner%2Epng.html -->
 
 社团LOGO | 神乐工房
-
-
-
-
 
 
 ---

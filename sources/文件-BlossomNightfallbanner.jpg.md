@@ -1,12 +1,8 @@
 # 文件:BlossomNightfallbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\65\ns6%3ABlossomNightfallbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\65\ns6%3ABlossomNightfallbanner%2Ejpg.html -->
 
 BlossomNightfall | 社团LOGO
-
-
-
-
 
 
 ---

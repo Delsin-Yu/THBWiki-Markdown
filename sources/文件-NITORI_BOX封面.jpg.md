@@ -1,6 +1,6 @@
 # 文件:NITORI_BOX封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\55\ns6%3ANITORI_BOX%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\55\ns6%3ANITORI_BOX%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 BirdStrike | 封面图片 | 软件封面
 
@@ -10,16 +10,13 @@ BirdStrike | 封面图片 | 软件封面
 使用了本文件作封面图片的作品：
   
 
-- [NITORI BOX](./NITORI_BOX.md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)- [河城荷取](./河城荷取.md)- [雾雨魔理沙](./雾雨魔理沙.md)
+- [NITORI BOX](./NITORI_BOX.md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
+- [河城荷取](./河城荷取.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-源地址：[direct image link (original size)](https://s2.booth.pm/7643c3f3-f7ed-4d6e-b359-19f86b88d31e/i/2167803/57ece9f8-ecff-4d70-b3f5-4a89e3a2d317.jpg), [source page (Booth)](https://torisoup.booth.pm/items/2167803)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://s2.booth.pm/7643c3f3-f7ed-4d6e-b359-19f86b88d31e/i/2167803/57ece9f8-ecff-4d70-b3f5-4a89e3a2d317.jpg), [source page (Booth)](https://torisoup.booth.pm/items/2167803)  
 
 ---
 

@@ -1,14 +1,11 @@
 # 文件:The_Grimoire_of_Usami（古明地恋2）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e8\ns6%3AThe_Grimoire_of_Usami%EF%BC%88%E5%8F%A4%E6%98%8E%E5%9C%B0%E6%81%8B2%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e8\ns6%3AThe_Grimoire_of_Usami%EF%BC%88%E5%8F%A4%E6%98%8E%E5%9C%B0%E6%81%8B2%EF%BC%89%2Ejpg.html -->
 
 古明地恋 | 宇佐见的魔法书
 
 
 ## 摘要
-
-
-
 
 ---
 

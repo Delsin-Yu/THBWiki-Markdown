@@ -1,6 +1,6 @@
 # 文件:Fragments_of_KoishiSubterranean封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\39\ns6%3AFragments_of_KoishiSubterranean%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\39\ns6%3AFragments_of_KoishiSubterranean%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Ecriss | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Ecriss | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Fragments of KoishiSubterranean](./Fragments_of_KoishiSubterranean.md)  
-该封面包含的角色：- [古明地恋](./古明地恋.md)
-
-
-
+- [Fragments of KoishiSubterranean](./Fragments_of_KoishiSubterranean.md)该封面包含的角色：
+- [古明地恋](./古明地恋.md)
 
 
 ---

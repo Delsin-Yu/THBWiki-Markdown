@@ -1,14 +1,11 @@
 # 文件:PSYCHOSTEAKbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2b\ns6%3APSYCHOSTEAKbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2b\ns6%3APSYCHOSTEAKbanner%2Ejpg.html -->
 
 PSYCHOSTEAK | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

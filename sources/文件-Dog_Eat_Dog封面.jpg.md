@@ -1,6 +1,6 @@
 # 文件:Dog_Eat_Dog封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2b\ns6%3ADog_Eat_Dog%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2b\ns6%3ADog_Eat_Dog%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 暴音寺
 
@@ -8,12 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [Dog Eat Dog](./Dog_Eat_Dog.md)  
-该封面包含的角色：- [犬走椛](./犬走椛.md)源地址：[[1]](https://i1.sndcdn.com/artworks-000161497163-7vrg0i-t500x500.jpg), [source track](https://soundcloud.com/aframa/dog-eat-dog)
-
-
-
-
+- [Dog Eat Dog](./Dog_Eat_Dog.md)该封面包含的角色：
+- [犬走椛](./犬走椛.md)
+源地址：[\[1\]](https://i1.sndcdn.com/artworks-000161497163-7vrg0i-t500x500.jpg), [source track](https://soundcloud.com/aframa/dog-eat-dog)
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:FAR_EAST_OF_EAST_-XIV-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\38\ns6%3AFAR_EAST_OF_EAST_-XIV-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\38\ns6%3AFAR_EAST_OF_EAST_-XIV-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 TatshMusicCircle | 专辑封面 | 封面图片
 
@@ -8,11 +8,11 @@ TatshMusicCircle | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [FAR EAST OF EAST -XIV-](./FAR_EAST_OF_EAST_-XIV-.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)- [博丽灵梦](./博丽灵梦.md)- [射命丸文](./射命丸文.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [FAR EAST OF EAST -XIV-](./FAR_EAST_OF_EAST_-XIV-.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
+- [博丽灵梦](./博丽灵梦.md)
+- [射命丸文](./射命丸文.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

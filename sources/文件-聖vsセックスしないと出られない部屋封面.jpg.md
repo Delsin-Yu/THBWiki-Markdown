@@ -1,6 +1,6 @@
 # 文件:聖vsセックスしないと出られない部屋封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d5\ns6%3A%E8%81%96vs%E3%82%BB%E3%83%83%E3%82%AF%E3%82%B9%E3%81%97%E3%81%AA%E3%81%84%E3%81%A8%E5%87%BA%E3%82%89%E3%82%8C%E3%81%AA%E3%81%84%E9%83%A8%E5%B1%8B%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d5\ns6%3A%E8%81%96vs%E3%82%BB%E3%83%83%E3%82%AF%E3%82%B9%E3%81%97%E3%81%AA%E3%81%84%E3%81%A8%E5%87%BA%E3%82%89%E3%82%8C%E3%81%AA%E3%81%84%E9%83%A8%E5%B1%8B%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 牧草帝国
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [聖vsセックスしないと出られない部屋](./聖vsセックスしないと出られない部屋.md)  
-该封面包含的角色：- [云居一轮](./云居一轮.md)- [圣白莲](./圣白莲.md)
-
-
-
+- [聖vsセックスしないと出られない部屋](./聖vsセックスしないと出られない部屋.md)该封面包含的角色：
+- [云居一轮](./云居一轮.md)
+- [圣白莲](./圣白莲.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:a_Little_Little_New_Step封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c9\ns6%3Aa_Little_Little_New_Step%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c9\ns6%3Aa_Little_Little_New_Step%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Unity-Gain | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Unity-Gain | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [a Little Little New Step](./a_Little_Little_New_Step.md)  
-该封面包含的角色：- [娜兹玲](./娜兹玲.md)
-
-
-
+- [a Little Little New Step](./a_Little_Little_New_Step.md)该封面包含的角色：
+- [娜兹玲](./娜兹玲.md)
 
 
 ---

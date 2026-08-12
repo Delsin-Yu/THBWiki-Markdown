@@ -1,6 +1,6 @@
 # 文件:The_Salvation_Rabbit１封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a2\ns6%3AThe_Salvation_Rabbit%EF%BC%91%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a2\ns6%3AThe_Salvation_Rabbit%EF%BC%91%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 歯車ブルーズ
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [The Salvation Rabbit１](./The_Salvation_Rabbit１.md)  
-该封面包含的角色：- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
+- [The Salvation Rabbit１](./The_Salvation_Rabbit１.md)该封面包含的角色：
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
 
   
-[Pixiv artwork ID: 100850218](https://www.pixiv.net/artworks/100850218)
-  
-
-
-
-
+[Pixiv artwork ID: 100850218](https://www.pixiv.net/artworks/100850218)  
 
 ---
 

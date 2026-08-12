@@ -1,6 +1,6 @@
 # 文件:幻想郷雑録_-_An_Eastern_Mystery.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\11\ns6%3A%E5%B9%BB%E6%83%B3%E9%83%B7%E9%9B%91%E9%8C%B2_-_An_Eastern_Mystery%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\11\ns6%3A%E5%B9%BB%E6%83%B3%E9%83%B7%E9%9B%91%E9%8C%B2_-_An_Eastern_Mystery%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 AncientChronicle | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ AncientChronicle | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [幻想郷雑録 - An Eastern Mystery.](./幻想郷雑録_-_An_Eastern_Mystery..md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [幻想郷雑録 - An Eastern Mystery.](./幻想郷雑録_-_An_Eastern_Mystery..md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

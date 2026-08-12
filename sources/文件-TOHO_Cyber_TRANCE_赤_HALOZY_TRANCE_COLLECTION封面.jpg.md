@@ -1,6 +1,6 @@
 # 文件:TOHO_Cyber_TRANCE_赤_HALOZY_TRANCE_COLLECTION封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fa\ns6%3ATOHO_Cyber_TRANCE_%E8%B5%A4_HALOZY_TRANCE_COLLECTION%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fa\ns6%3ATOHO_Cyber_TRANCE_%E8%B5%A4_HALOZY_TRANCE_COLLECTION%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Halozy | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ Halozy | 专辑封面 | 封面图片
   
 
 - [TOHO Cyber TRANCE 赤 HALOZY TRANCE COLLECTION](./TOHO_Cyber_TRANCE_赤_HALOZY_TRANCE_COLLECTION.md)
-
-
-
 
 
 ---

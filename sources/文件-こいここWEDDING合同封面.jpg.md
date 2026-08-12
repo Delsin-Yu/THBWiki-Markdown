@@ -1,6 +1,6 @@
 # 文件:こいここWEDDING合同封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\63\ns6%3A%E3%81%93%E3%81%84%E3%81%93%E3%81%93WEDDING%E5%90%88%E5%90%8C%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\63\ns6%3A%E3%81%93%E3%81%84%E3%81%93%E3%81%93WEDDING%E5%90%88%E5%90%8C%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 鮭虎家
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [こいここWEDDING合同](./こいここWEDDING合同.md)  
-该封面包含的角色：- [古明地恋](./古明地恋.md)- [秦心](./秦心.md)
-
-
-
+- [こいここWEDDING合同](./こいここWEDDING合同.md)该封面包含的角色：
+- [古明地恋](./古明地恋.md)
+- [秦心](./秦心.md)
 
 
 ---

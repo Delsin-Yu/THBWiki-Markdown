@@ -1,18 +1,13 @@
 # 文件:Lotus_root_Orchestrabanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d5\ns6%3ALotus_root_Orchestrabanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d5\ns6%3ALotus_root_Orchestrabanner%2Epng.html -->
 
 Lotus_root_Orchestra | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[[1]](https://image.jimcdn.com/app/cms/image/transf/none/path/s6803258815bc14d8/image/if58ebf6cb1930595/version/1445182074/image.png)
-  
-
-
-
-
+源地址：[\[1\]](https://image.jimcdn.com/app/cms/image/transf/none/path/s6803258815bc14d8/image/if58ebf6cb1930595/version/1445182074/image.png)  
 
 ---
 

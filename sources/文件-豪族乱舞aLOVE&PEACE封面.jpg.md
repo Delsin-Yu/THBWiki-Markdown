@@ -1,6 +1,6 @@
 # 文件:豪族乱舞aLOVE&PEACE封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a4\ns6%3A%E8%B1%AA%E6%97%8F%E4%B9%B1%E8%88%9EaLOVE%26PEACE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a4\ns6%3A%E8%B1%AA%E6%97%8F%E4%B9%B1%E8%88%9EaLOVE%26PEACE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 サイチル | 同人志封面 | 封面图片
 
@@ -8,11 +8,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [豪族乱舞aLOVE&amp;PEACE](./豪族乱舞aLOVE&PEACE.md)  
-该封面包含的角色：- [宫古芳香](./宫古芳香.md)- [霍青娥](./霍青娥.md)- [苏我屠自古](./苏我屠自古.md)- [物部布都](./物部布都.md)- [丰聪耳神子](./丰聪耳神子.md)
-
-
-
+- [豪族乱舞aLOVE&PEACE](./豪族乱舞aLOVE&PEACE.md)该封面包含的角色：
+- [宫古芳香](./宫古芳香.md)
+- [霍青娥](./霍青娥.md)
+- [苏我屠自古](./苏我屠自古.md)
+- [物部布都](./物部布都.md)
+- [丰聪耳神子](./丰聪耳神子.md)
 
 
 ---

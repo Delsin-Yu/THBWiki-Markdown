@@ -1,6 +1,6 @@
 # 文件:Sweet_Memories封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1d\ns6%3ASweet_Memories%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1d\ns6%3ASweet_Memories%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Sleepless | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Sleepless | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Sweet Memories](./Sweet_Memories.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [Sweet Memories](./Sweet_Memories.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
   
-源地址：[[1]](https://static.wixstatic.com/media/7072af_5aebaf06ee794cd194edeac9a0f33952~mv2_d_1453_1453_s_2.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://static.wixstatic.com/media/7072af_5aebaf06ee794cd194edeac9a0f33952~mv2_d_1453_1453_s_2.jpg)  
 
 ---
 

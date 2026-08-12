@@ -1,6 +1,6 @@
 # 文件:東方LostWordにぬえちゃんが来た話封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\63\ns6%3A%E6%9D%B1%E6%96%B9LostWord%E3%81%AB%E3%81%AC%E3%81%88%E3%81%A1%E3%82%83%E3%82%93%E3%81%8C%E6%9D%A5%E3%81%9F%E8%A9%B1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\63\ns6%3A%E6%9D%B1%E6%96%B9LostWord%E3%81%AB%E3%81%AC%E3%81%88%E3%81%A1%E3%82%83%E3%82%93%E3%81%8C%E6%9D%A5%E3%81%9F%E8%A9%B1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 偽者の脳内 | 同人志封面 | 封面图片
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方LostWordにぬえちゃんが来た話](./東方LostWordにぬえちゃんが来た話.md)  
-该封面包含的角色：- [村纱水蜜](./村纱水蜜.md)- [封兽鵺](./封兽鵺.md)
-
-
-
+- [東方LostWordにぬえちゃんが来た話](./東方LostWordにぬえちゃんが来た話.md)该封面包含的角色：
+- [村纱水蜜](./村纱水蜜.md)
+- [封兽鵺](./封兽鵺.md)
 
 
 ---

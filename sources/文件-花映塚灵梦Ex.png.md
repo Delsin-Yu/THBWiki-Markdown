@@ -1,12 +1,8 @@
 # 文件:花映塚灵梦Ex.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2a\ns6%3A%E8%8A%B1%E6%98%A0%E5%A1%9A%E7%81%B5%E6%A2%A6Ex%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2a\ns6%3A%E8%8A%B1%E6%98%A0%E5%A1%9A%E7%81%B5%E6%A2%A6Ex%2Epng.html -->
 
 东方花映塚 | 博丽灵梦
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:désir封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5a\ns6%3Ad%C3%A9sir%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5a\ns6%3Ad%C3%A9sir%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 seventh_zest | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@ seventh_zest | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [désir](./désir.md)  
-该封面包含的角色：- [丰聪耳神子](./丰聪耳神子.md)
+- [désir](./désir.md)该封面包含的角色：
+- [丰聪耳神子](./丰聪耳神子.md)
 
   
-源地址：[direct image link](https://www.suruga-ya.jp/database/pics_light/game/zhore50135.jpg), [source page (suruga-ya ID: ZHORE50135)](https://www.suruga-ya.jp/product/detail/ZHORE50135)
-  
-
-
-
-
+源地址：[direct image link](https://www.suruga-ya.jp/database/pics_light/game/zhore50135.jpg), [source page (suruga-ya ID: ZHORE50135)](https://www.suruga-ya.jp/product/detail/ZHORE50135)  
 
 ---
 

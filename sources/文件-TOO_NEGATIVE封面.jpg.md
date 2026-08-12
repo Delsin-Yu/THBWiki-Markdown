@@ -1,6 +1,6 @@
 # 文件:TOO_NEGATIVE封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dd\ns6%3ATOO_NEGATIVE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dd\ns6%3ATOO_NEGATIVE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Cis-Trance | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Cis-Trance | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [TOO NEGATIVE](./TOO_NEGATIVE.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)
-
-
-
+- [TOO NEGATIVE](./TOO_NEGATIVE.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
 
 
 ---

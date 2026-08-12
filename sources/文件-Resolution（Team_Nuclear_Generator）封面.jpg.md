@@ -1,6 +1,6 @@
 # 文件:Resolution（Team_Nuclear_Generator）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a5\ns6%3AResolution%EF%BC%88Team_Nuclear_Generator%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a5\ns6%3AResolution%EF%BC%88Team_Nuclear_Generator%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Team_Nuclear_Generator | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Team_Nuclear_Generator | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Resolution（Team Nuclear Generator）](./Resolution（Team_Nuclear_Generator）.md)  
-该封面包含的角色：- [摩多罗隐岐奈](./摩多罗隐岐奈.md)
+- [Resolution（Team Nuclear Generator）](./Resolution（Team_Nuclear_Generator）.md)该封面包含的角色：
+- [摩多罗隐岐奈](./摩多罗隐岐奈.md)
 
   
-源地址：[[1]](https://i1.sndcdn.com/artworks-000582749816-bv0sqx-t500x500.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://i1.sndcdn.com/artworks-000582749816-bv0sqx-t500x500.jpg)  
 
 ---
 

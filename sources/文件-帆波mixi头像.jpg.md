@@ -1,12 +1,8 @@
 # 文件:帆波mixi头像.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fe\ns6%3A%E5%B8%86%E6%B3%A2mixi%E5%A4%B4%E5%83%8F%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fe\ns6%3A%E5%B8%86%E6%B3%A2mixi%E5%A4%B4%E5%83%8F%2Ejpg.html -->
 
 Mixi
-
-
-
-
 
 
 ---

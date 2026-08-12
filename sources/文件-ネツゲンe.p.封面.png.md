@@ -1,6 +1,6 @@
 # 文件:ネツゲンe.p.封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\96\ns6%3A%E3%83%8D%E3%83%84%E3%82%B2%E3%83%B3e%2Ep%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\96\ns6%3A%E3%83%8D%E3%83%84%E3%82%B2%E3%83%B3e%2Ep%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 アカフエテリア | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [ネツゲンe.p.](./ネツゲンe.p..md)  
-该封面包含的角色：- [露米娅](./露米娅.md)
+- [ネツゲンe.p.](./ネツゲンe.p..md)该封面包含的角色：
+- [露米娅](./露米娅.md)
 
   
-源地址：[direct image link (max size)](https://blog-imgs-53-origin.fc2.com/t/o/p/toppo46/20121228012121ec0.png), [source page](http://toppo46.blog.fc2.com/blog-entry-5.html)
-  
-
-
-
-
+源地址：[direct image link (max size)](https://blog-imgs-53-origin.fc2.com/t/o/p/toppo46/20121228012121ec0.png), [source page](http://toppo46.blog.fc2.com/blog-entry-5.html)  
 
 ---
 

@@ -1,12 +1,8 @@
 # 文件:绮色幻郷banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\43\ns6%3A%E7%BB%AE%E8%89%B2%E5%B9%BB%E9%83%B7banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\43\ns6%3A%E7%BB%AE%E8%89%B2%E5%B9%BB%E9%83%B7banner%2Ejpg.html -->
 
 社团LOGO | 绮色幻郷
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:幻想鏡らびリンス_～_Welcome_to_Lunatic_Festival!!封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2c\ns6%3A%E5%B9%BB%E6%83%B3%E9%8F%A1%E3%82%89%E3%81%B3%E3%83%AA%E3%83%B3%E3%82%B9_%EF%BD%9E_Welcome_to_Lunatic_Festival%21%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2c\ns6%3A%E5%B9%BB%E6%83%B3%E9%8F%A1%E3%82%89%E3%81%B3%E3%83%AA%E3%83%B3%E3%82%B9_%EF%BD%9E_Welcome_to_Lunatic_Festival%21%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 地元青年弾 | 封面图片 | 软件封面
 
@@ -8,11 +8,13 @@
 使用了本文件作封面图片的作品：
   
 
-- [幻想鏡らびリンス ～ Welcome to Lunatic Festival!!](./幻想鏡らびリンス_～_Welcome_to_Lunatic_Festival!!.md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)- [西行寺幽幽子](./西行寺幽幽子.md)- [米斯蒂娅·萝蕾拉](./米斯蒂娅·萝蕾拉.md)- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)- [伊吹萃香](./伊吹萃香.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [幻想鏡らびリンス ～ Welcome to Lunatic Festival!!](./幻想鏡らびリンス_～_Welcome_to_Lunatic_Festival!!.md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
+- [西行寺幽幽子](./西行寺幽幽子.md)
+- [米斯蒂娅·萝蕾拉](./米斯蒂娅·萝蕾拉.md)
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
+- [伊吹萃香](./伊吹萃香.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

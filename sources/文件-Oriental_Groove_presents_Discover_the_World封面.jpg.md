@@ -1,6 +1,6 @@
 # 文件:Oriental_Groove_presents_Discover_the_World封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e7\ns6%3AOriental_Groove_presents_Discover_the_World%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e7\ns6%3AOriental_Groove_presents_Discover_the_World%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Sound_crew-I'll- | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ Sound_crew-I'll- | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Oriental Groove presents Discover the World](./Oriental_Groove_presents_Discover_the_World.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [Oriental Groove presents Discover the World](./Oriental_Groove_presents_Discover_the_World.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

@@ -1,16 +1,11 @@
 # 文件:音の瓶詰banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\99\ns6%3A%E9%9F%B3%E3%81%AE%E7%93%B6%E8%A9%B0banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\99\ns6%3A%E9%9F%B3%E3%81%AE%E7%93%B6%E8%A9%B0banner%2Epng.html -->
 
 社团LOGO | 音の瓶詰
 
   
-源地址：[[1]](http://otonobindume.web.fc2.com/otobin-logo.png)
-  
-
-
-
-
+源地址：[\[1\]](http://otonobindume.web.fc2.com/otobin-logo.png)  
 
 ---
 

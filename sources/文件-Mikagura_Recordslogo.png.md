@@ -1,18 +1,13 @@
 # 文件:Mikagura_Recordslogo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\aa\ns6%3AMikagura_Recordslogo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\aa\ns6%3AMikagura_Recordslogo%2Epng.html -->
 
 Mikagura_Records | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[[1]](https://image.jimcdn.com/app/cms/image/transf/none/path/s3b38bdae01adfd9c/image/i582fd917610f8eaa/version/1571592827/image.png)
-  
-
-
-
-
+源地址：[\[1\]](https://image.jimcdn.com/app/cms/image/transf/none/path/s3b38bdae01adfd9c/image/i582fd917610f8eaa/version/1571592827/image.png)  
 
 ---
 

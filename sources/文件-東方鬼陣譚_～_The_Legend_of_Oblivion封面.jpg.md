@@ -1,6 +1,6 @@
 # 文件:東方鬼陣譚_～_The_Legend_of_Oblivion封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\96\ns6%3A%E6%9D%B1%E6%96%B9%E9%AC%BC%E9%99%A3%E8%AD%9A_%EF%BD%9E_The_Legend_of_Oblivion%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\96\ns6%3A%E6%9D%B1%E6%96%B9%E9%AC%BC%E9%99%A3%E8%AD%9A_%EF%BD%9E_The_Legend_of_Oblivion%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 白幡に棲む隠居者
 
@@ -11,9 +11,6 @@
   
 
 - [東方鬼陣譚 ～ The Legend of Oblivion](./東方鬼陣譚_～_The_Legend_of_Oblivion.md)
-
-
-
 
 
 ---

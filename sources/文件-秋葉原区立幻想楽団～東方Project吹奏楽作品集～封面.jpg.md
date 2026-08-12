@@ -1,6 +1,6 @@
 # 文件:秋葉原区立幻想楽団～東方Project吹奏楽作品集～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ed\ns6%3A%E7%A7%8B%E8%91%89%E5%8E%9F%E5%8C%BA%E7%AB%8B%E5%B9%BB%E6%83%B3%E6%A5%BD%E5%9B%A3%EF%BD%9E%E6%9D%B1%E6%96%B9Project%E5%90%B9%E5%A5%8F%E6%A5%BD%E4%BD%9C%E5%93%81%E9%9B%86%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ed\ns6%3A%E7%A7%8B%E8%91%89%E5%8E%9F%E5%8C%BA%E7%AB%8B%E5%B9%BB%E6%83%B3%E6%A5%BD%E5%9B%A3%EF%BD%9E%E6%9D%B1%E6%96%B9Project%E5%90%B9%E5%A5%8F%E6%A5%BD%E4%BD%9C%E5%93%81%E9%9B%86%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 秋葉原区立すいそうがく団！
 
@@ -9,9 +9,6 @@
   
 
 - [秋葉原区立幻想楽団～東方Project吹奏楽作品集～](./秋葉原区立幻想楽団～東方Project吹奏楽作品集～.md)
-
-
-
 
 
 ---

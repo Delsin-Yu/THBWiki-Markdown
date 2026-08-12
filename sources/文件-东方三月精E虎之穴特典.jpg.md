@@ -1,12 +1,8 @@
 # 文件:东方三月精E虎之穴特典.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\95\ns6%3A%E4%B8%9C%E6%96%B9%E4%B8%89%E6%9C%88%E7%B2%BEE%E8%99%8E%E4%B9%8B%E7%A9%B4%E7%89%B9%E5%85%B8%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\95\ns6%3A%E4%B8%9C%E6%96%B9%E4%B8%89%E6%9C%88%E7%B2%BEE%E8%99%8E%E4%B9%8B%E7%A9%B4%E7%89%B9%E5%85%B8%2Ejpg.html -->
 
 东方三月精_～_Eastern_and_Little_Nature_Deity. | 虎之穴特典
-
-
-
-
 
 
 ---

@@ -1,16 +1,12 @@
 # 文件:le04_BOSS_Para.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\da\ns6%3Ale04_BOSS_Para%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\da\ns6%3Ale04_BOSS_Para%2Emp3.html -->
 
 连缘Project官方音乐MP3
 
   
 连缘天影战记城线5面Boss-帕拉主题曲
   
-
-
-
-
 
 ---
 

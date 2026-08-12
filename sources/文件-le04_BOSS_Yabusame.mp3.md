@@ -1,16 +1,12 @@
 # 文件:le04_BOSS_Yabusame.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a1\ns6%3Ale04_BOSS_Yabusame%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a1\ns6%3Ale04_BOSS_Yabusame%2Emp3.html -->
 
 连缘Project官方音乐MP3
 
   
 连缘天影战记中立线6面Boss-凤联薮雨主题曲
   
-
-
-
-
 
 ---
 

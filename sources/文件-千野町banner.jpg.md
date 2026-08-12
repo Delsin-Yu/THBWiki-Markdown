@@ -1,12 +1,8 @@
 # 文件:千野町banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\eb\ns6%3A%E5%8D%83%E9%87%8E%E7%94%BAbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\eb\ns6%3A%E5%8D%83%E9%87%8E%E7%94%BAbanner%2Ejpg.html -->
 
 千野町 | 社团LOGO
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:従者のための紅魔協奏曲_II封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\86\ns6%3A%E5%BE%93%E8%80%85%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E7%B4%85%E9%AD%94%E5%8D%94%E5%A5%8F%E6%9B%B2_II%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\86\ns6%3A%E5%BE%93%E8%80%85%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E7%B4%85%E9%AD%94%E5%8D%94%E5%A5%8F%E6%9B%B2_II%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ヘ蝶々 | 同人志封面 | 封面图片
 
@@ -8,12 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [従者のための紅魔協奏曲 II](./従者のための紅魔協奏曲_II.md)  
-该封面包含的角色：- [红美铃](./红美铃.md)源地址：[[1]](http://www.f-butterfly.sakura.ne.jp/picture/2011/20110225meirin.jpg)
-
-
-
-
+- [従者のための紅魔協奏曲 II](./従者のための紅魔協奏曲_II.md)该封面包含的角色：
+- [红美铃](./红美铃.md)
+源地址：[\[1\]](http://www.f-butterfly.sakura.ne.jp/picture/2011/20110225meirin.jpg)
 
 ---
 

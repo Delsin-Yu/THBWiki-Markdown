@@ -1,6 +1,6 @@
 # 文件:東の方の独奏会-pour美鈴-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8c\ns6%3A%E6%9D%B1%E3%81%AE%E6%96%B9%E3%81%AE%E7%8B%AC%E5%A5%8F%E4%BC%9A-pour%E7%BE%8E%E9%88%B4-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8c\ns6%3A%E6%9D%B1%E3%81%AE%E6%96%B9%E3%81%AE%E7%8B%AC%E5%A5%8F%E4%BC%9A-pour%E7%BE%8E%E9%88%B4-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 弦夢屋
 
@@ -11,12 +11,7 @@
 - [東の方の独奏会-pour美鈴-](./東の方の独奏会-pour美鈴-.md)
 
   
-源地址：[direct image link](http://genmuya.sakura.ne.jp/img/ensokai.jpg), [source page](http://genmuya.sakura.ne.jp/music.html)
-  
-
-
-
-
+源地址：[direct image link](http://genmuya.sakura.ne.jp/img/ensokai.jpg), [source page](http://genmuya.sakura.ne.jp/music.html)  
 
 ---
 

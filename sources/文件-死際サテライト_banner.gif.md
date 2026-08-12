@@ -1,12 +1,8 @@
 # 文件:死際サテライト_banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5a\ns6%3A%E6%AD%BB%E9%9A%9B%E3%82%B5%E3%83%86%E3%83%A9%E3%82%A4%E3%83%88_banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5a\ns6%3A%E6%AD%BB%E9%9A%9B%E3%82%B5%E3%83%86%E3%83%A9%E3%82%A4%E3%83%88_banner%2Egif.html -->
 
 死際サテライト | 社团LOGO
-
-
-
-
 
 
 ---

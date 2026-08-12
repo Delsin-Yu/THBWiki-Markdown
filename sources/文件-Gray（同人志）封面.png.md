@@ -1,6 +1,6 @@
 # 文件:Gray（同人志）封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cd\ns6%3AGray%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cd\ns6%3AGray%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 同人志封面 | 名沢 | 封面图片
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Gray（同人志）](./Gray（同人志）.md)  
-该封面包含的角色：- [东风谷早苗](./东风谷早苗.md)
+- [Gray（同人志）](./Gray（同人志）.md)该封面包含的角色：
+- [东风谷早苗](./东风谷早苗.md)
 
   
-源地址：[direct image link (original size; cropped)](https://pbs.twimg.com/media/FuZjTI7aAAM2PPj?format=jpg&amp;name=orig), [source tweet](https://twitter.com/N_o_t_h_e_r/status/1650118803353907202)
-  
-
-
-
-
+源地址：[direct image link (original size; cropped)](https://pbs.twimg.com/media/FuZjTI7aAAM2PPj?format=jpg&name=orig), [source tweet](https://twitter.com/N_o_t_h_e_r/status/1650118803353907202)  
 
 ---
 

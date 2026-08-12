@@ -1,6 +1,6 @@
 # 文件:東方EX娘_～HARD_"EASY"～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\86\ns6%3A%E6%9D%B1%E6%96%B9EX%E5%A8%98_%EF%BD%9EHARD_%22EASY%22%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\86\ns6%3A%E6%9D%B1%E6%96%B9EX%E5%A8%98_%EF%BD%9EHARD_%22EASY%22%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 鈴南堂
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方EX娘 ～HARD "EASY"～](./東方EX娘_～HARD_-EASY-～.md)  
-该封面包含的角色：- [露米娅](./露米娅.md)
-
-
-
+- [東方EX娘 ～HARD "EASY"～](./東方EX娘_～HARD_-EASY-～.md)该封面包含的角色：
+- [露米娅](./露米娅.md)
 
 
 ---

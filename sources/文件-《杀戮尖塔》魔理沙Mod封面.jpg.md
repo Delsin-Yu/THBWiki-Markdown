@@ -1,6 +1,6 @@
 # 文件:《杀戮尖塔》魔理沙Mod封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b9\ns6%3A%E3%80%8A%E6%9D%80%E6%88%AE%E5%B0%96%E5%A1%94%E3%80%8B%E9%AD%94%E7%90%86%E6%B2%99Mod%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b9\ns6%3A%E3%80%8A%E6%9D%80%E6%88%AE%E5%B0%96%E5%A1%94%E3%80%8B%E9%AD%94%E7%90%86%E6%B2%99Mod%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Elf_honour | 封面图片 | 软件封面
 
@@ -10,11 +10,8 @@ Elf_honour | 封面图片 | 软件封面
 使用了本文件作封面图片的作品：
   
 
-- [《杀戮尖塔》魔理沙Mod](./《杀戮尖塔》魔理沙Mod.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [《杀戮尖塔》魔理沙Mod](./《杀戮尖塔》魔理沙Mod.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

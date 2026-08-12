@@ -1,14 +1,11 @@
 # 文件:毒苺畑banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e3\ns6%3A%E6%AF%92%E8%8B%BA%E7%95%91banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e3\ns6%3A%E6%AF%92%E8%8B%BA%E7%95%91banner%2Ejpg.html -->
 
 毒苺畑 | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

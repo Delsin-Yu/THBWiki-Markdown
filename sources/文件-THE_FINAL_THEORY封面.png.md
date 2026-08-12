@@ -1,6 +1,6 @@
 # 文件:THE_FINAL_THEORY封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\32\ns6%3ATHE_FINAL_THEORY%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\32\ns6%3ATHE_FINAL_THEORY%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Active_Sounds_Zone | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Active_Sounds_Zone | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [THE FINAL THEORY](./THE_FINAL_THEORY.md)  
-该封面包含的角色：- [艾丽](./艾丽.md)
+- [THE FINAL THEORY](./THE_FINAL_THEORY.md)该封面包含的角色：
+- [艾丽](./艾丽.md)
 
   
-源地址：[[1]](https://s.booth.pm/624078f7-8062-4ac4-9337-4cee1fb04c7c/i/302733/dbd8623e-1160-486b-a141-0d7d97c182c4.png)
-  
-
-
-
-
+源地址：[\[1\]](https://s.booth.pm/624078f7-8062-4ac4-9337-4cee1fb04c7c/i/302733/dbd8623e-1160-486b-a141-0d7d97c182c4.png)  
 
 ---
 

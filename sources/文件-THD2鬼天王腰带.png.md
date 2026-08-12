@@ -1,12 +1,8 @@
 # 文件:THD2鬼天王腰带.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b5\ns6%3ATHD2%E9%AC%BC%E5%A4%A9%E7%8E%8B%E8%85%B0%E5%B8%A6%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b5\ns6%3ATHD2%E9%AC%BC%E5%A4%A9%E7%8E%8B%E8%85%B0%E5%B8%A6%2Epng.html -->
 
 AvalonStudioOfficial
-
-
-
-
 
 
 ---

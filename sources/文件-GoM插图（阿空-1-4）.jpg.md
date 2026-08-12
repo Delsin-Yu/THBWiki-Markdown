@@ -1,12 +1,8 @@
 # 文件:GoM插图（阿空-1-4）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\92\ns6%3AGoM%E6%8F%92%E5%9B%BE%EF%BC%88%E9%98%BF%E7%A9%BA-1-4%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\92\ns6%3AGoM%E6%8F%92%E5%9B%BE%EF%BC%88%E9%98%BF%E7%A9%BA-1-4%EF%BC%89%2Ejpg.html -->
 
 灵乌路空 | 魔理沙的魔法书
-
-
-
-
 
 
 ---

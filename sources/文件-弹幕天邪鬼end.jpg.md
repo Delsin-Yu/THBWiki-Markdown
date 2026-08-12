@@ -1,12 +1,8 @@
 # 文件:弹幕天邪鬼end.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d2\ns6%3A%E5%BC%B9%E5%B9%95%E5%A4%A9%E9%82%AA%E9%AC%BCend%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d2\ns6%3A%E5%BC%B9%E5%B9%95%E5%A4%A9%E9%82%AA%E9%AC%BCend%2Ejpg.html -->
 
 弹幕天邪鬼结局图
-
-
-
-
 
 
 ---

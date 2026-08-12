@@ -1,6 +1,6 @@
 # 文件:FAKE_KILL封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\15\ns6%3AFAKE_KILL%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\15\ns6%3AFAKE_KILL%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 UNKNOWN_BEATS | 专辑封面 | 封面图片
 
@@ -10,16 +10,14 @@ UNKNOWN_BEATS | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [FAKE KILL](./FAKE_KILL.md)  
-该封面包含的角色：- [红美铃](./红美铃.md)- [藤原妹红](./藤原妹红.md)- [射命丸文](./射命丸文.md)- [键山雏](./键山雏.md)
+- [FAKE KILL](./FAKE_KILL.md)该封面包含的角色：
+- [红美铃](./红美铃.md)
+- [藤原妹红](./藤原妹红.md)
+- [射命丸文](./射命丸文.md)
+- [键山雏](./键山雏.md)
 
   
-源地址：[direct image link (original size)](https://pbs.twimg.com/media/GJXRHQYaUAAQZ1m?format=jpg&amp;name=orig), [source tweet](https://twitter.com/UNKNOWN__BEATS/status/1771551989173821719)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://pbs.twimg.com/media/GJXRHQYaUAAQZ1m?format=jpg&name=orig), [source tweet](https://twitter.com/UNKNOWN__BEATS/status/1771551989173821719)  
 
 ---
 

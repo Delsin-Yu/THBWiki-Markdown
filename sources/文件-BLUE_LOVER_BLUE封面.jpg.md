@@ -1,14 +1,11 @@
 # 文件:BLUE_LOVER_BLUE封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ad\ns6%3ABLUE_LOVER_BLUE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ad\ns6%3ABLUE_LOVER_BLUE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 蓮華座
 
 
 ## 摘要
-
-
-
 
 ---
 

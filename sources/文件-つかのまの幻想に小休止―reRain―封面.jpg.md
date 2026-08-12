@@ -1,6 +1,6 @@
 # 文件:つかのまの幻想に小休止―reRain―封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9f\ns6%3A%E3%81%A4%E3%81%8B%E3%81%AE%E3%81%BE%E3%81%AE%E5%B9%BB%E6%83%B3%E3%81%AB%E5%B0%8F%E4%BC%91%E6%AD%A2%E2%80%95reRain%E2%80%95%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9f\ns6%3A%E3%81%A4%E3%81%8B%E3%81%AE%E3%81%BE%E3%81%AE%E5%B9%BB%E6%83%B3%E3%81%AB%E5%B0%8F%E4%BC%91%E6%AD%A2%E2%80%95reRain%E2%80%95%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 イリンクス眩暈 | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [つかのまの幻想に小休止―reRain―](./つかのまの幻想に小休止―reRain―.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [つかのまの幻想に小休止―reRain―](./つかのまの幻想に小休止―reRain―.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
 
   
-[Pixiv artwork ID: 35714271 (original size)](https://www.pixiv.net/artworks/35714271)
-  
-
-
-
-
+[Pixiv artwork ID: 35714271 (original size)](https://www.pixiv.net/artworks/35714271)  
 
 ---
 

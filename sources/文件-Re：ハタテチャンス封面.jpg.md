@@ -1,6 +1,6 @@
 # 文件:Re：ハタテチャンス封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fa\ns6%3ARe%EF%BC%9A%E3%83%8F%E3%82%BF%E3%83%86%E3%83%81%E3%83%A3%E3%83%B3%E3%82%B9%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fa\ns6%3ARe%EF%BC%9A%E3%83%8F%E3%82%BF%E3%83%86%E3%83%81%E3%83%A3%E3%83%B3%E3%82%B9%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 日々徒然。
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Re：ハタテチャンス](./Re：ハタテチャンス.md)  
-该封面包含的角色：- [姬海棠果](./姬海棠果.md)
-
-
-
+- [Re：ハタテチャンス](./Re：ハタテチャンス.md)该封面包含的角色：
+- [姬海棠果](./姬海棠果.md)
 
 
 ---

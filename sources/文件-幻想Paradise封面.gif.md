@@ -1,6 +1,6 @@
 # 文件:幻想Paradise封面.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4e\ns6%3A%E5%B9%BB%E6%83%B3Paradise%E5%B0%81%E9%9D%A2%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4e\ns6%3A%E5%B9%BB%E6%83%B3Paradise%E5%B0%81%E9%9D%A2%2Egif.html -->
 
 あんぐる～ど | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [幻想Paradise](./幻想Paradise.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [幻想Paradise](./幻想Paradise.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

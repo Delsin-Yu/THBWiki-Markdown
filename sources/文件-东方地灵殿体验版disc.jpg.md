@@ -1,12 +1,8 @@
 # 文件:东方地灵殿体验版disc.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cb\ns6%3A%E4%B8%9C%E6%96%B9%E5%9C%B0%E7%81%B5%E6%AE%BF%E4%BD%93%E9%AA%8C%E7%89%88disc%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cb\ns6%3A%E4%B8%9C%E6%96%B9%E5%9C%B0%E7%81%B5%E6%AE%BF%E4%BD%93%E9%AA%8C%E7%89%88disc%2Ejpg.html -->
 
 东方地灵殿 | 官方游戏体验版光盘扫图
-
-
-
-
 
 
 ---

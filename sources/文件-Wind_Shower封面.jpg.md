@@ -1,6 +1,6 @@
 # 文件:Wind_Shower封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f2\ns6%3AWind_Shower%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f2\ns6%3AWind_Shower%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Sound_Barrage | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Sound_Barrage | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Wind Shower](./Wind_Shower.md)  
-该封面包含的角色：- [东风谷早苗](./东风谷早苗.md)
-
-
-
+- [Wind Shower](./Wind_Shower.md)该封面包含的角色：
+- [东风谷早苗](./东风谷早苗.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:東方の嵐～TOHO_TEMPEST封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\43\ns6%3A%E6%9D%B1%E6%96%B9%E3%81%AE%E5%B5%90%EF%BD%9ETOHO_TEMPEST%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\43\ns6%3A%E6%9D%B1%E6%96%B9%E3%81%AE%E5%B5%90%EF%BD%9ETOHO_TEMPEST%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Sonic_Hybrid_Orchestra | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ Sonic_Hybrid_Orchestra | 专辑封面 | 封面图片
   
 
 - [東方の嵐～TOHO TEMPEST](./東方の嵐～TOHO_TEMPEST.md)
-
-
-
 
 
 ---

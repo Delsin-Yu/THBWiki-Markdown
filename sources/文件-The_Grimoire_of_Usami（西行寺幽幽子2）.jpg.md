@@ -1,14 +1,11 @@
 # 文件:The_Grimoire_of_Usami（西行寺幽幽子2）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fb\ns6%3AThe_Grimoire_of_Usami%EF%BC%88%E8%A5%BF%E8%A1%8C%E5%AF%BA%E5%B9%BD%E5%B9%BD%E5%AD%902%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fb\ns6%3AThe_Grimoire_of_Usami%EF%BC%88%E8%A5%BF%E8%A1%8C%E5%AF%BA%E5%B9%BD%E5%B9%BD%E5%AD%902%EF%BC%89%2Ejpg.html -->
 
 宇佐见的魔法书 | 西行寺幽幽子
 
 
 ## 摘要
-
-
-
 
 ---
 

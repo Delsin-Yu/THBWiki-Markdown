@@ -1,6 +1,6 @@
 # 东方花逐夜_～_Touhoupachi_Blissful_Death/音乐
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\8\8f\ns0%3A%E4%B8%9C%E6%96%B9%E8%8A%B1%E9%80%90%E5%A4%9C_%EF%BD%9E_Touhoupachi_Blissful_Death%2F%E9%9F%B3%E4%B9%90.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\8\8f\ns0%3A%E4%B8%9C%E6%96%B9%E8%8A%B1%E9%80%90%E5%A4%9C_%EF%BD%9E_Touhoupachi_Blissful_Death%2F%E9%9F%B3%E4%B9%90.html -->
 
 正灌
 
@@ -55,10 +55,6 @@
   
 6面真BOSS-B：绊地狱 NO REMORSE
   
-
-
-
-
 
 ---
 

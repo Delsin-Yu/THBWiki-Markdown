@@ -1,6 +1,6 @@
 # 文件:山より大きな猪は出ぬ_～_Overcome_Fate封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b9\ns6%3A%E5%B1%B1%E3%82%88%E3%82%8A%E5%A4%A7%E3%81%8D%E3%81%AA%E7%8C%AA%E3%81%AF%E5%87%BA%E3%81%AC_%EF%BD%9E_Overcome_Fate%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b9\ns6%3A%E5%B1%B1%E3%82%88%E3%82%8A%E5%A4%A7%E3%81%8D%E3%81%AA%E7%8C%AA%E3%81%AF%E5%87%BA%E3%81%AC_%EF%BD%9E_Overcome_Fate%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 bivrache | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@ bivrache | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [山より大きな猪は出ぬ ～ Overcome Fate](./山より大きな猪は出ぬ_～_Overcome_Fate.md)  
-该封面包含的角色：- [娜兹玲](./娜兹玲.md)
-
-
-
+- [山より大きな猪は出ぬ ～ Overcome Fate](./山より大きな猪は出ぬ_～_Overcome_Fate.md)该封面包含的角色：
+- [娜兹玲](./娜兹玲.md)
 
 
 ---

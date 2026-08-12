@@ -1,12 +1,8 @@
 # 文件:MIRACLE_EUROSlogo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\14\ns6%3AMIRACLE_EUROSlogo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\14\ns6%3AMIRACLE_EUROSlogo%2Epng.html -->
 
 MIRACLE_EUROS | 社团LOGO
-
-
-
-
 
 
 ---

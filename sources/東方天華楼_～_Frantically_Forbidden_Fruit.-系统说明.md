@@ -1,11 +1,10 @@
 # 東方天華楼_～_Frantically_Forbidden_Fruit./系统说明
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\bb\ns0%3A%E6%9D%B1%E6%96%B9%E5%A4%A9%E8%8F%AF%E6%A5%BC_%EF%BD%9E_Frantically_Forbidden_Fruit%2E%2F%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\bb\ns0%3A%E6%9D%B1%E6%96%B9%E5%A4%A9%E8%8F%AF%E6%A5%BC_%EF%BD%9E_Frantically_Forbidden_Fruit%2E%2F%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E.html -->
 
 Gore | 待完成页面 | 待翻译页面
 
 <center>
-
 <table>
 <tbody><tr>
 <td class="mbox-image"><div style="width: 52px;">
@@ -14,10 +13,7 @@ Gore | 待完成页面 | 待翻译页面
 </tr>
 </tbody></table>
 
-
-</center>
-<center>
-
+</center><center>
 <table>
 <tbody><tr>
 <td class="mbox-image"><div style="width: 52px;">
@@ -26,37 +22,28 @@ Gore | 待完成页面 | 待翻译页面
 </tr>
 </tbody></table>
 
-
 </center>
-
 ## 目录
 
 - [1 基本操作](#基本操作)
 - [2 道具说明](#道具说明)
-
   - [2.1 火力道具](#火力道具)
   - [2.2 分数道具](#分数道具)
   - [2.3 果汁槽道具](#果汁槽道具)
   - [2.4 残机/符卡道具](#残机/符卡道具)
 
 
-
 - [3 游戏模式](#游戏模式)
 - [4 道具回收奖励](#道具回收奖励)
 - [5 异常状态](#异常状态)
-
   - [5.1 状态一览](#状态一览)
 
 
-
 - [6 果汁系统](#果汁系统)
-
   - [6.1 果汁一览](#果汁一览)
 
 
-
 - [7 机体特性](#机体特性)
-
   - [7.1 灵梦](#灵梦)
   - [7.2 魔理沙](#魔理沙)
   - [7.3 咲夜](#咲夜)
@@ -66,12 +53,8 @@ Gore | 待完成页面 | 待翻译页面
   - [7.7 铃仙](#铃仙)
 
 
-
 - [8 注释](#注释)
 - [9 词条导航](#词条导航)
-
-
-
 
 
 ## 基本操作
@@ -131,13 +114,11 @@ F点
 绿点
 : 消弹/击打道具，增加最大得点。在自机低速射击或者满Power射击时会出现。
 
-
 ### 果汁槽道具
 擦弹道具
 : 待在子弹旁边一段时间后会出现（参见绀珠传），增加5graze。颜色分别为红橙黄绿青蓝紫白八种，拾取会填充相应颜色的果汁槽，并且增加最大得点。
 水果道具
 : 通过收点结算、击破敌人或者章节结算时出现，分为苹果、橘子、香蕉、西瓜、蜜瓜、葡萄、桃子、杨桃八种。每种水果会增加不同值的残机/符卡槽，并且填充相应颜色的果汁槽。
-
 
 ### 残机/符卡道具
 残机道具
@@ -148,7 +129,6 @@ F点
 : 获得一个符卡。
 符卡碎片
 : 恢复等同于低费用的符卡消耗值的符卡槽。
-
 
 ## 游戏模式
   
@@ -167,7 +147,6 @@ F点
 传奇模式下，果汁系统被禁用，残机按照常规的残机系统进行计算。通过收集水果道具可以增加残机槽，当残机槽满的时候会奖励一残。不同的水果道具增加的残机槽也不同。
   
 
-
 ## 道具回收奖励
   
 处于回收线上时，将主动回收所有道具。此时，自机上方会出现数字和回收条。丢B会同样会自动回收道具。
@@ -179,7 +158,6 @@ F点
 水果道具是按顺序出现的。
   
 
-
 ## 异常状态
   
 有一部分的子弹击中自机后，会引起异常状态。状态图标会显示在自机附近并持续一段时间。
@@ -190,7 +168,6 @@ F点
   
 传奇模式下不仅会对自机造成伤害，而且还会减少残机槽。
   
-
 
 ### 状态一览
 毒
@@ -210,7 +187,6 @@ F点
 恢复
 : 一定时间内持续恢复体力。（只在桃子果汁饮用后才会出现这个状态。饮用新的果汁不会打断恢复状态。）
 
-
 ## 果汁系统
   
 仅在天华统一模式下才能使用。
@@ -227,7 +203,6 @@ F点
   
 果汁的味道由进度条下方的星状图决定。星状图较多的一项为当前果汁的味道，可以通过收取其他水果道具或者擦弹来改变星状图，从而改变果汁味道。
   
-
 
 ### 果汁一览
 苹果
@@ -255,7 +230,6 @@ F点
 : <ruby><rb>随机选择</rb><rp> (</rp><rt>Random Select</rt><rp>) </rp></ruby>
 。使用时随机变化为其他七种口味之一。
 
-
 ## 机体特性
 
 ### 灵梦
@@ -273,7 +247,6 @@ F点
 アミュレットの着弾に時間がかかり、敵を逃がしてしまう事も。</td></tr></tbody></table>
 
 
-
 ### 魔理沙
 
 <table><tbody><tr><td style="min-width:200px" colspan="2" align="center"><b>基本性能</b></td><td style="min-width:150px" colspan="2" align="center" lang="ja"><b>基本性能</b></td></tr><tr><td style="min-width:125px"><b>移动速度</b></td><td style="min-width:125px">5.00（像素/帧）</td><td style="min-width:100px" lang="ja">5.00[dot/frame]</td></tr><tr><td style="min-width:125px"><b>特技</b></td><td style="min-width:125px"></td><td style="min-width:100px" lang="ja">自動回収ラインが低い</td></tr>
@@ -287,7 +260,6 @@ F点
 </p><p>正面火力は絶大だが、横方向からの攻撃に弱く
 </p>
 画面制圧力はそれほど強くはない。敵の配置を事前に覚えておこう。</td></tr></tbody></table>
-
 
 
 ### 咲夜
@@ -305,7 +277,6 @@ F点
 また、大量の雑魚の殲滅作業はあまり得意ではない。</td></tr></tbody></table>
 
 
-
 ### 早苗
 
 <table><tbody><tr><td style="min-width:200px" colspan="2" align="center"><b>基本性能</b></td><td style="min-width:150px" colspan="2" align="center" lang="ja"><b>基本性能</b></td></tr><tr><td style="min-width:125px"><b>移动速度</b></td><td style="min-width:125px">4.75（像素/帧）</td><td style="min-width:100px" lang="ja">4.75[dot/frame]</td></tr><tr><td style="min-width:125px"><b>特技</b></td><td style="min-width:125px"></td><td style="min-width:100px" lang="ja">ジュースの効果時間が長い</td></tr>
@@ -321,25 +292,11 @@ F点
 スペルカードのコストが高めなのが難点だが、総合スペックは高め。</td></tr></tbody></table>
 
 
-
 ### 妖梦
 
 ### 幽香
 
 ### 铃仙
-
-
-## 词条导航
-  
-  
-
-<table><tbody><tr><td><table cellspacing="0" class="nowraplinks mw-collapsible mw-collapsed" style="width:100%;;;"><tbody><tr><th style=";" colspan="3" class="navbox-title"><div class="navbar"><div class="noprint plainlinksneverexpand" style="background-color:transparent; padding:0; font-weight:normal; font-size:80%; white-space:nowrap;"><a href="./東方天華楼_～_Frantically_Forbidden_Fruit.-导航.md" title="東方天華楼 ～ Frantically Forbidden Fruit./导航"><span style=";;border:none;" title="查看这个模板">查</span></a>&#160;<span style="font-size:80%;">•</span>&#160;<a href="/index.php?title=%E6%9D%B1%E6%96%B9%E5%A4%A9%E8%8F%AF%E6%A5%BC_%EF%BD%9E_Frantically_Forbidden_Fruit./%E5%AF%BC%E8%88%AA&amp;action=edit"><span style=";;border:none;" title="您可以编辑这个模板。请在储存变更之前先预览">编</span></a></div></div><span><a href="./東方天華楼_～_Frantically_Forbidden_Fruit..md" title="東方天華楼 ～ Frantically Forbidden Fruit.">东方天华楼</a></span></th></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">角色</td><td style=";;" class="navbox-list navbox-odd"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>自机</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a> &#8226; <a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a> &#8226; <a href="/%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C" title="十六夜咲夜">十六夜咲夜</a> &#8226; <a href="./魂魄妖梦.md" title="魂魄妖梦">魂魄妖梦</a> &#8226; <a href="./风见幽香.md" title="风见幽香">风见幽香</a> &#8226; <a href="./铃仙·优昙华院·因幡.md" title="铃仙·优昙华院·因幡">铃仙·优昙华院·因幡</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>BOSS</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./露米娅.md" title="露米娅">露米娅</a> &#8226; <a href="./河城荷取.md" title="河城荷取">河城荷取</a> &#8226; <a href="./射命丸文.md" title="射命丸文">射命丸文</a> &#8226; <a href="./茨木华扇.md" title="茨木华扇">茨木华扇</a> &#8226; <a href="./永江衣玖.md" title="永江衣玖">永江衣玖</a> &#8226; <a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a> &#8226; <a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a> &#8226; <a href="/%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C" title="十六夜咲夜">十六夜咲夜</a> &#8226; <a href="./东风谷早苗.md" title="东风谷早苗">东风谷早苗</a> &#8226; <a href="./魂魄妖梦.md" title="魂魄妖梦">魂魄妖梦</a> &#8226; <a href="./风见幽香.md" title="风见幽香">风见幽香</a> &#8226; <a href="./铃仙·优昙华院·因幡.md" title="铃仙·优昙华院·因幡">铃仙·优昙华院·因幡</a> &#8226; <a href="./铃瑚.md" title="铃瑚">铃瑚</a></div></td></tr></tbody></table><div></div></td><td class="navbox-image" style="" rowspan="9"><a href="./文件-東方天華楼_～_Frantically_Forbidden_Fruit.封面.jpg.md" class="image"><img alt="東方天華楼 ～ Frantically Forbidden Fruit.封面.jpg" src="https://upload.thwiki.cc/thumb/3/37/%E6%9D%B1%E6%96%B9%E5%A4%A9%E8%8F%AF%E6%A5%BC_%EF%BD%9E_Frantically_Forbidden_Fruit.%E5%B0%81%E9%9D%A2.jpg/160px-%E6%9D%B1%E6%96%B9%E5%A4%A9%E8%8F%AF%E6%A5%BC_%EF%BD%9E_Frantically_Forbidden_Fruit.%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="160" height="160" srcset="https://upload.thwiki.cc/thumb/3/37/%E6%9D%B1%E6%96%B9%E5%A4%A9%E8%8F%AF%E6%A5%BC_%EF%BD%9E_Frantically_Forbidden_Fruit.%E5%B0%81%E9%9D%A2.jpg/240px-%E6%9D%B1%E6%96%B9%E5%A4%A9%E8%8F%AF%E6%A5%BC_%EF%BD%9E_Frantically_Forbidden_Fruit.%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/3/37/%E6%9D%B1%E6%96%B9%E5%A4%A9%E8%8F%AF%E6%A5%BC_%EF%BD%9E_Frantically_Forbidden_Fruit.%E5%B0%81%E9%9D%A2.jpg/320px-%E6%9D%B1%E6%96%B9%E5%A4%A9%E8%8F%AF%E6%A5%BC_%EF%BD%9E_Frantically_Forbidden_Fruit.%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1024" data-file-height="1024"></a></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="./東方天華楼_～_Frantically_Forbidden_Fruit.-设定与剧情.md" title="東方天華楼 ～ Frantically Forbidden Fruit./设定与剧情">游戏设定与剧情</a></td><td style=";;" class="navbox-list navbox-even"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div><a href="/%E6%9D%B1%E6%96%B9%E5%A4%A9%E8%8F%AF%E6%A5%BC_%EF%BD%9E_Frantically_Forbidden_Fruit./%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85#故事背景" title="東方天華楼 ～ Frantically Forbidden Fruit./设定与剧情">故事背景</a></div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./東方天華楼_～_Frantically_Forbidden_Fruit.-设定与剧情-故事背景.md" title="東方天華楼 ～ Frantically Forbidden Fruit./设定与剧情/故事背景">故事背景</a> &#8226; <a href="/index.php?title=%E9%99%84%E5%B8%A6%E6%96%87%E6%A1%A3:%E6%9D%B1%E6%96%B9%E5%A4%A9%E8%8F%AF%E6%A5%BC_%EF%BD%9E_Frantically_Forbidden_Fruit./%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85&amp;action=edit&amp;redlink=1" class="new" title="附带文档:東方天華楼 ～ Frantically Forbidden Fruit./角色设定与剧情（页面不存在）">Ex故事背景</a> &#8226; <a href="/index.php?title=%E9%99%84%E5%B8%A6%E6%96%87%E6%A1%A3:%E6%9D%B1%E6%96%B9%E5%A4%A9%E8%8F%AF%E6%A5%BC_%EF%BD%9E_Frantically_Forbidden_Fruit./%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85&amp;action=edit&amp;redlink=1" class="new" title="附带文档:東方天華楼 ～ Frantically Forbidden Fruit./角色设定与剧情（页面不存在）" unred="">Hv故事背景</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>游戏对话&amp;结局</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="/index.php?title=%E6%9D%B1%E6%96%B9%E5%A4%A9%E8%8F%AF%E6%A5%BC_%EF%BD%9E_Frantically_Forbidden_Fruit./%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6&amp;action=edit&amp;redlink=1" class="new" title="東方天華楼 ～ Frantically Forbidden Fruit./设定与剧情/博丽灵梦（页面不存在）">博丽灵梦</a> &#8226; <a href="/index.php?title=%E6%9D%B1%E6%96%B9%E5%A4%A9%E8%8F%AF%E6%A5%BC_%EF%BD%9E_Frantically_Forbidden_Fruit./%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85/%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99&amp;action=edit&amp;redlink=1" class="new" title="東方天華楼 ～ Frantically Forbidden Fruit./设定与剧情/雾雨魔理沙（页面不存在）">雾雨魔理沙</a> &#8226; <a href="/index.php?title=%E6%9D%B1%E6%96%B9%E5%A4%A9%E8%8F%AF%E6%A5%BC_%EF%BD%9E_Frantically_Forbidden_Fruit./%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85/%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C&amp;action=edit&amp;redlink=1" class="new" title="東方天華楼 ～ Frantically Forbidden Fruit./设定与剧情/十六夜咲夜（页面不存在）">十六夜咲夜</a> &#8226; <a href="/index.php?title=%E6%9D%B1%E6%96%B9%E5%A4%A9%E8%8F%AF%E6%A5%BC_%EF%BD%9E_Frantically_Forbidden_Fruit./%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85/%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6&amp;action=edit&amp;redlink=1" class="new" title="東方天華楼 ～ Frantically Forbidden Fruit./设定与剧情/魂魄妖梦（页面不存在）">魂魄妖梦</a> &#8226; <a href="/index.php?title=%E6%9D%B1%E6%96%B9%E5%A4%A9%E8%8F%AF%E6%A5%BC_%EF%BD%9E_Frantically_Forbidden_Fruit./%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85/%E9%A3%8E%E8%A7%81%E5%B9%BD%E9%A6%99&amp;action=edit&amp;redlink=1" class="new" title="東方天華楼 ～ Frantically Forbidden Fruit./设定与剧情/风见幽香（页面不存在）">风见幽香</a> &#8226; <a href="/index.php?title=%E6%9D%B1%E6%96%B9%E5%A4%A9%E8%8F%AF%E6%A5%BC_%EF%BD%9E_Frantically_Forbidden_Fruit./%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85/%E9%93%83%E4%BB%99%C2%B7%E4%BC%98%E6%98%99%E5%8D%8E%E9%99%A2%C2%B7%E5%9B%A0%E5%B9%A1&amp;action=edit&amp;redlink=1" class="new" title="東方天華楼 ～ Frantically Forbidden Fruit./设定与剧情/铃仙·优昙华院·因幡（页面不存在）">铃仙·优昙华院·因幡</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>Ex游戏对话</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="/index.php?title=%E6%9D%B1%E6%96%B9%E5%A4%A9%E8%8F%AF%E6%A5%BC_%EF%BD%9E_Frantically_Forbidden_Fruit./%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6Ex&amp;action=edit&amp;redlink=1" class="new" title="東方天華楼 ～ Frantically Forbidden Fruit./设定与剧情/博丽灵梦Ex（页面不存在）">博丽灵梦</a> &#8226; <a href="/index.php?title=%E6%9D%B1%E6%96%B9%E5%A4%A9%E8%8F%AF%E6%A5%BC_%EF%BD%9E_Frantically_Forbidden_Fruit./%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85/%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99Ex&amp;action=edit&amp;redlink=1" class="new" title="東方天華楼 ～ Frantically Forbidden Fruit./设定与剧情/雾雨魔理沙Ex（页面不存在）">雾雨魔理沙</a> &#8226; <a href="/index.php?title=%E6%9D%B1%E6%96%B9%E5%A4%A9%E8%8F%AF%E6%A5%BC_%EF%BD%9E_Frantically_Forbidden_Fruit./%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85/%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9CEx&amp;action=edit&amp;redlink=1" class="new" title="東方天華楼 ～ Frantically Forbidden Fruit./设定与剧情/十六夜咲夜Ex（页面不存在）">十六夜咲夜</a> &#8226; <a href="/index.php?title=%E6%9D%B1%E6%96%B9%E5%A4%A9%E8%8F%AF%E6%A5%BC_%EF%BD%9E_Frantically_Forbidden_Fruit./%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85/%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6Ex&amp;action=edit&amp;redlink=1" class="new" title="東方天華楼 ～ Frantically Forbidden Fruit./设定与剧情/魂魄妖梦Ex（页面不存在）">魂魄妖梦</a> &#8226; <a href="/index.php?title=%E6%9D%B1%E6%96%B9%E5%A4%A9%E8%8F%AF%E6%A5%BC_%EF%BD%9E_Frantically_Forbidden_Fruit./%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85/%E9%A3%8E%E8%A7%81%E5%B9%BD%E9%A6%99Ex&amp;action=edit&amp;redlink=1" class="new" title="東方天華楼 ～ Frantically Forbidden Fruit./设定与剧情/风见幽香Ex（页面不存在）">风见幽香</a> &#8226; <a href="/index.php?title=%E6%9D%B1%E6%96%B9%E5%A4%A9%E8%8F%AF%E6%A5%BC_%EF%BD%9E_Frantically_Forbidden_Fruit./%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85/%E9%93%83%E4%BB%99%C2%B7%E4%BC%98%E6%98%99%E5%8D%8E%E9%99%A2%C2%B7%E5%9B%A0%E5%B9%A1Ex&amp;action=edit&amp;redlink=1" class="new" title="東方天華楼 ～ Frantically Forbidden Fruit./设定与剧情/铃仙·优昙华院·因幡Ex（页面不存在）">铃仙·优昙华院·因幡</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>Hv游戏对话</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="/index.php?title=%E6%9D%B1%E6%96%B9%E5%A4%A9%E8%8F%AF%E6%A5%BC_%EF%BD%9E_Frantically_Forbidden_Fruit./%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6Hv&amp;action=edit&amp;redlink=1" class="new" title="東方天華楼 ～ Frantically Forbidden Fruit./设定与剧情/博丽灵梦Hv（页面不存在）">博丽灵梦</a> &#8226; <a href="/index.php?title=%E6%9D%B1%E6%96%B9%E5%A4%A9%E8%8F%AF%E6%A5%BC_%EF%BD%9E_Frantically_Forbidden_Fruit./%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85/%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99Hv&amp;action=edit&amp;redlink=1" class="new" title="東方天華楼 ～ Frantically Forbidden Fruit./设定与剧情/雾雨魔理沙Hv（页面不存在）">雾雨魔理沙</a> &#8226; <a href="/index.php?title=%E6%9D%B1%E6%96%B9%E5%A4%A9%E8%8F%AF%E6%A5%BC_%EF%BD%9E_Frantically_Forbidden_Fruit./%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85/%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9CHv&amp;action=edit&amp;redlink=1" class="new" title="東方天華楼 ～ Frantically Forbidden Fruit./设定与剧情/十六夜咲夜Hv（页面不存在）">十六夜咲夜</a> &#8226; <a href="/index.php?title=%E6%9D%B1%E6%96%B9%E5%A4%A9%E8%8F%AF%E6%A5%BC_%EF%BD%9E_Frantically_Forbidden_Fruit./%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85/%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6Hv&amp;action=edit&amp;redlink=1" class="new" title="東方天華楼 ～ Frantically Forbidden Fruit./设定与剧情/魂魄妖梦Hv（页面不存在）">魂魄妖梦</a> &#8226; <a href="/index.php?title=%E6%9D%B1%E6%96%B9%E5%A4%A9%E8%8F%AF%E6%A5%BC_%EF%BD%9E_Frantically_Forbidden_Fruit./%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85/%E9%A3%8E%E8%A7%81%E5%B9%BD%E9%A6%99Hv&amp;action=edit&amp;redlink=1" class="new" title="東方天華楼 ～ Frantically Forbidden Fruit./设定与剧情/风见幽香Hv（页面不存在）">风见幽香</a> &#8226; <a href="/index.php?title=%E6%9D%B1%E6%96%B9%E5%A4%A9%E8%8F%AF%E6%A5%BC_%EF%BD%9E_Frantically_Forbidden_Fruit./%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85/%E9%93%83%E4%BB%99%C2%B7%E4%BC%98%E6%98%99%E5%8D%8E%E9%99%A2%C2%B7%E5%9B%A0%E5%B9%A1Hv&amp;action=edit&amp;redlink=1" class="new" title="東方天華楼 ～ Frantically Forbidden Fruit./设定与剧情/铃仙·优昙华院·因幡Hv（页面不存在）">铃仙·优昙华院·因幡</a></div></td></tr></tbody></table><div></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="./東方天華楼_～_Frantically_Forbidden_Fruit.-符卡.md" title="東方天華楼 ～ Frantically Forbidden Fruit./符卡">符卡</a></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./東方天華楼_～_Frantically_Forbidden_Fruit.-符卡-Stage_1.md" title="東方天華楼 ～ Frantically Forbidden Fruit./符卡/Stage 1">stage 1</a> &#8226; <a href="./東方天華楼_～_Frantically_Forbidden_Fruit.-符卡-Stage_2.md" title="東方天華楼 ～ Frantically Forbidden Fruit./符卡/Stage 2">stage 2</a> &#8226; <a href="./東方天華楼_～_Frantically_Forbidden_Fruit.-符卡-Stage_3.md" title="東方天華楼 ～ Frantically Forbidden Fruit./符卡/Stage 3">stage 3</a> &#8226; <a href="./東方天華楼_～_Frantically_Forbidden_Fruit.-符卡-Stage_4.md" title="東方天華楼 ～ Frantically Forbidden Fruit./符卡/Stage 4">stage 4</a> &#8226; <a href="/index.php?title=%E6%9D%B1%E6%96%B9%E5%A4%A9%E8%8F%AF%E6%A5%BC_%EF%BD%9E_Frantically_Forbidden_Fruit./%E7%AC%A6%E5%8D%A1/Stage_5&amp;action=edit&amp;redlink=1" class="new" title="東方天華楼 ～ Frantically Forbidden Fruit./符卡/Stage 5（页面不存在）">stage 5</a> &#8226; <a href="/index.php?title=%E6%9D%B1%E6%96%B9%E5%A4%A9%E8%8F%AF%E6%A5%BC_%EF%BD%9E_Frantically_Forbidden_Fruit./%E7%AC%A6%E5%8D%A1/Stage_6&amp;action=edit&amp;redlink=1" class="new" title="東方天華楼 ～ Frantically Forbidden Fruit./符卡/Stage 6（页面不存在）">stage 6</a> &#8226; <a href="/index.php?title=%E6%9D%B1%E6%96%B9%E5%A4%A9%E8%8F%AF%E6%A5%BC_%EF%BD%9E_Frantically_Forbidden_Fruit./%E7%AC%A6%E5%8D%A1/Extra&amp;action=edit&amp;redlink=1" class="new" title="東方天華楼 ～ Frantically Forbidden Fruit./符卡/Extra（页面不存在）">Extra</a> &#8226; <a href="/index.php?title=%E6%9D%B1%E6%96%B9%E5%A4%A9%E8%8F%AF%E6%A5%BC_%EF%BD%9E_Frantically_Forbidden_Fruit./%E7%AC%A6%E5%8D%A1/Harvest&amp;action=edit&amp;redlink=1" class="new" title="東方天華楼 ～ Frantically Forbidden Fruit./符卡/Harvest（页面不存在）">Harvest</a> &#8226; <a href="/index.php?title=%E6%9D%B1%E6%96%B9%E5%A4%A9%E8%8F%AF%E6%A5%BC_%EF%BD%9E_Frantically_Forbidden_Fruit./%E7%AC%A6%E5%8D%A1/Lastword&amp;action=edit&amp;redlink=1" class="new" title="東方天華楼 ～ Frantically Forbidden Fruit./符卡/Lastword（页面不存在）">Lastword</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">音乐</td><td style=";;" class="navbox-list navbox-even"><div><a href="./東方天華楼_～_Frantically_Forbidden_Fruit.-音乐.md" title="東方天華楼 ～ Frantically Forbidden Fruit./音乐">Music Room</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">其他</td><td style=";;" class="navbox-list navbox-odd"><div><a href="/index.php?title=%E6%9D%B1%E6%96%B9%E5%A4%A9%E8%8F%AF%E6%A5%BC_%EF%BD%9E_Frantically_Forbidden_Fruit./%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A&amp;action=edit&amp;redlink=1" class="new" title="東方天華楼 ～ Frantically Forbidden Fruit./角色设定（页面不存在）">角色设定</a> &#8226; <a href="/index.php?title=%E6%9D%B1%E6%96%B9%E5%A4%A9%E8%8F%AF%E6%A5%BC_%EF%BD%9E_Frantically_Forbidden_Fruit./%E6%9D%82%E9%A1%B9&amp;action=edit&amp;redlink=1" class="new" title="東方天華楼 ～ Frantically Forbidden Fruit./杂项（页面不存在）">其他信息</a> &#8226; <a class="mw-selflink selflink">系统说明</a> &#8226; <a href="/index.php?title=%E6%9D%B1%E6%96%B9%E5%A4%A9%E8%8F%AF%E6%A5%BC_%EF%BD%9E_Frantically_Forbidden_Fruit./%E5%88%86%E6%95%B0%E6%A6%9C&amp;action=edit&amp;redlink=1" class="new" title="東方天華楼 ～ Frantically Forbidden Fruit./分数榜（页面不存在）">分数榜</a> &#8226; <a href="/index.php?title=%E9%99%84%E5%B8%A6%E6%96%87%E6%A1%A3:%E6%9D%B1%E6%96%B9%E5%A4%A9%E8%8F%AF%E6%A5%BC_%EF%BD%9E_Frantically_Forbidden_Fruit./%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85&amp;action=edit&amp;redlink=1" class="new" title="附带文档:東方天華楼 ～ Frantically Forbidden Fruit./角色设定与剧情（页面不存在）" unred="">附带文档</a></div></td></tr></tbody></table></td></tr></tbody></table>
-
-
-
-
-
-
 
 ---
 

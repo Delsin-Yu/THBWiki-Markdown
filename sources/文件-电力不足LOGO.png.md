@@ -1,13 +1,11 @@
 # 文件:电力不足LOGO.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f3\ns6%3A%E7%94%B5%E5%8A%9B%E4%B8%8D%E8%B6%B3LOGO%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f3\ns6%3A%E7%94%B5%E5%8A%9B%E4%B8%8D%E8%B6%B3LOGO%2Epng.html -->
 
 电力不足 | 社团LOGO
 
+
 - 摘自群头像
-
-
-
 
 
 ---

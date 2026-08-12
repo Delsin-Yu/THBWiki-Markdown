@@ -1,6 +1,6 @@
 # Petit_Flare/游戏资料
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\8\89\ns0%3APetit_Flare%2F%E6%B8%B8%E6%88%8F%E8%B5%84%E6%96%99.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\8\89\ns0%3APetit_Flare%2F%E6%B8%B8%E6%88%8F%E8%B5%84%E6%96%99.html -->
 
 灵乌路空 | 符卡
 
@@ -29,7 +29,6 @@
 </td></tr></tbody></table>
 
 
-
 ## 东方地灵殿
 
 ### Hard
@@ -37,11 +36,6 @@
 <table>
 <tbody><tr><td style="min-width:200px" colspan="4" align="center"><b>爆符「Giga-Flare」</b></td></tr><tr><td style="min-width:100px" colspan="2" align="center"><b>符卡使用者</b></td><td style="min-width:250px" colspan="2" align="center"><a href="./灵乌路空.md" title="灵乌路空">灵乌路空</a></td></tr><tr><td style="min-width:100px" colspan="2" align="center"><b>符卡血量</b></td><td style="min-width:250px" colspan="2" align="center">2400</td></tr><tr><td style="min-width:100px" colspan="2" align="center"><b>符卡分数</b></td><td style="min-width:250px" colspan="2" align="center">8,000,000</td></tr><tr><td style="min-width:100px" colspan="2" align="center"><b>符卡时间</b></td><td style="min-width:250px" colspan="2" align="center">60s</td></tr><tr><td style="min-width:100px" colspan="2" align="center"><b>弹幕类型</b></td><td style="min-width:250px" colspan="2" align="center">1. 从上方版顶处会不断爆裂出核弹并往下落，下落过程中核弹会渐渐变小。<br>2. 在核弹爆裂的同时出现一圈扩展的白色圆弹圈，混合在耀眼的核弹中一起攻击自机。</td></tr><tr><td style="min-width:100px" colspan="2" align="center"><b>应对建议</b></td><td style="min-width:250px" colspan="2" align="center">较糟，请尽量炸。</td></tr>
 </tbody></table>
-
-
-
-
-
 
 
 ---

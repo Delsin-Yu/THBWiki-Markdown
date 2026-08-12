@@ -1,6 +1,6 @@
 # 文件:ENDLESS_ALICE_CRYSIS_～愛と毒薬～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\33\ns6%3AENDLESS_ALICE_CRYSIS_%EF%BD%9E%E6%84%9B%E3%81%A8%E6%AF%92%E8%96%AC%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\33\ns6%3AENDLESS_ALICE_CRYSIS_%EF%BD%9E%E6%84%9B%E3%81%A8%E6%AF%92%E8%96%AC%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 LION_HEART | 封面图片 | 软件封面
 
@@ -8,11 +8,8 @@ LION_HEART | 封面图片 | 软件封面
 使用了本文件作封面图片的作品：
   
 
-- [ENDLESS ALICE CRYSIS ～愛と毒薬～](./ENDLESS_ALICE_CRYSIS_～愛と毒薬～.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
-
-
-
+- [ENDLESS ALICE CRYSIS ～愛と毒薬～](./ENDLESS_ALICE_CRYSIS_～愛と毒薬～.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
 
 
 ---

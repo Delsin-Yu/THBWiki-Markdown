@@ -1,6 +1,6 @@
 # 文件:stargazer.封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\01\ns6%3Astargazer%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\01\ns6%3Astargazer%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Winter_Cannelle | 同人志封面 | 封面图片
 
@@ -10,16 +10,12 @@ Winter_Cannelle | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [stargazer.](./stargazer..md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [雾雨魔理沙](./雾雨魔理沙.md)
+- [stargazer.](./stargazer..md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-源地址：[direct image link (max size; cropped from original)](https://64.media.tumblr.com/8709bffc712980bb3d10096e52cd3483/tumblr_nap1x2JQ9L1qatby9o1_1280.jpg), [source page](https://furude.tumblr.com/post/95439415425/a-preview-of-my-touhou-project-doujinshi-marisa)
-  
-
-
-
-
+源地址：[direct image link (max size; cropped from original)](https://64.media.tumblr.com/8709bffc712980bb3d10096e52cd3483/tumblr_nap1x2JQ9L1qatby9o1_1280.jpg), [source page](https://furude.tumblr.com/post/95439415425/a-preview-of-my-touhou-project-doujinshi-marisa)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:Malchut封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8d\ns6%3AMalchut%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8d\ns6%3AMalchut%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 群雨アンブレイラ
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Malchut](./Malchut.md)  
-该封面包含的角色：- [大妖精](./大妖精.md)
+- [Malchut](./Malchut.md)该封面包含的角色：
+- [大妖精](./大妖精.md)
 
   
-源地址：[[1]](https://twitter.com/sylp_hide/status/946018479538237441)
-  
-
-
-
-
+源地址：[\[1\]](https://twitter.com/sylp_hide/status/946018479538237441)  
 
 ---
 

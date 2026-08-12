@@ -1,6 +1,6 @@
 # 文件:Pathetic_Girls封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c4\ns6%3APathetic_Girls%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c4\ns6%3APathetic_Girls%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Bitter_Quartz | mono_music | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ Bitter_Quartz | mono_music | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Pathetic Girls](./Pathetic_Girls.md)  
-该封面包含的角色：- [大妖精](./大妖精.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [Pathetic Girls](./Pathetic_Girls.md)该封面包含的角色：
+- [大妖精](./大妖精.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

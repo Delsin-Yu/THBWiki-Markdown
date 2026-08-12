@@ -1,6 +1,6 @@
 # 文件:あの日の夢のアリス_DAY_DREAM封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6f\ns6%3A%E3%81%82%E3%81%AE%E6%97%A5%E3%81%AE%E5%A4%A2%E3%81%AE%E3%82%A2%E3%83%AA%E3%82%B9_DAY_DREAM%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6f\ns6%3A%E3%81%82%E3%81%AE%E6%97%A5%E3%81%AE%E5%A4%A2%E3%81%AE%E3%82%A2%E3%83%AA%E3%82%B9_DAY_DREAM%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 森羅万象
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [あの日の夢のアリス DAY DREAM](./あの日の夢のアリス_DAY_DREAM.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
-
-
-
+- [あの日の夢のアリス DAY DREAM](./あの日の夢のアリス_DAY_DREAM.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
 
 
 ---

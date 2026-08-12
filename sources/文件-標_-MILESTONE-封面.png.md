@@ -1,6 +1,6 @@
 # 文件:標_-MILESTONE-封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a2\ns6%3A%E6%A8%99_-MILESTONE-%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a2\ns6%3A%E6%A8%99_-MILESTONE-%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 俺++(Includeore) | 封面图片
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [標 -MILESTONE-](./標_-MILESTONE-.md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)- [犬走椛](./犬走椛.md)
-
-
-
+- [標 -MILESTONE-](./標_-MILESTONE-.md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
+- [犬走椛](./犬走椛.md)
 
 
 ---

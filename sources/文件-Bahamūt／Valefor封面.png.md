@@ -1,6 +1,6 @@
 # 文件:Bahamūt／Valefor封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c6\ns6%3ABaham%C5%ABt%EF%BC%8FValefor%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c6\ns6%3ABaham%C5%ABt%EF%BC%8FValefor%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 dat_file_records | 专辑封面 | 封面图片 | 群雨アンブレイラ
 
@@ -8,16 +8,11 @@ dat_file_records | 专辑封面 | 封面图片 | 群雨アンブレイラ
 使用了本文件作封面图片的作品：
   
 
-- [Bahamūt／Valefor](./Bahamūt／Valefor.md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)
+- [Bahamūt／Valefor](./Bahamūt／Valefor.md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
 
   
-源地址：[[1]](https://pbs.twimg.com/media/CRRf4LYVAAEOUGd.png:large)
-  
-
-
-
-
+源地址：[\[1\]](https://pbs.twimg.com/media/CRRf4LYVAAEOUGd.png:large)  
 
 ---
 

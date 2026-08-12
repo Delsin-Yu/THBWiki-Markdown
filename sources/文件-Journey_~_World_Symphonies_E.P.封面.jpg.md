@@ -1,6 +1,6 @@
 # 文件:Journey_~_World_Symphonies_E.P.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\54\ns6%3AJourney_%7E_World_Symphonies_E%2EP%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\54\ns6%3AJourney_%7E_World_Symphonies_E%2EP%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Maiden's_Capriccio | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Maiden's_Capriccio | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Journey ~ World Symphonies E.P.](./Journey_~_World_Symphonies_E.P..md)  
-该封面包含的角色：- [圣白莲](./圣白莲.md)
+- [Journey ~ World Symphonies E.P.](./Journey_~_World_Symphonies_E.P..md)该封面包含的角色：
+- [圣白莲](./圣白莲.md)
 
   
-源地址：[[1]](https://kuroblood.bandcamp.com/album/journey-world-symphonies-e-p)
-  
-
-
-
-
+源地址：[\[1\]](https://kuroblood.bandcamp.com/album/journey-world-symphonies-e-p)  
 
 ---
 

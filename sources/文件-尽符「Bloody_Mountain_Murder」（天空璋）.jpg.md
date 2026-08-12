@@ -1,16 +1,12 @@
 # 文件:尽符「Bloody_Mountain_Murder」（天空璋）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\86\ns6%3A%E5%B0%BD%E7%AC%A6%E3%80%8CBloody_Mountain_Murder%E3%80%8D%EF%BC%88%E5%A4%A9%E7%A9%BA%E7%92%8B%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\86\ns6%3A%E5%B0%BD%E7%AC%A6%E3%80%8CBloody_Mountain_Murder%E3%80%8D%EF%BC%88%E5%A4%A9%E7%A9%BA%E7%92%8B%EF%BC%89%2Ejpg.html -->
 
 东方天空璋 | 坂田合欢 | 敌机符卡
 
   
 来自https://en.touhouwiki.net/images/8/88/Th16SC020.jpg
   
-
-
-
-
 
 ---
 

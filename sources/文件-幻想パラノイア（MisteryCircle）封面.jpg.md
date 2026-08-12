@@ -1,6 +1,6 @@
 # 文件:幻想パラノイア（MisteryCircle）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\92\ns6%3A%E5%B9%BB%E6%83%B3%E3%83%91%E3%83%A9%E3%83%8E%E3%82%A4%E3%82%A2%EF%BC%88MisteryCircle%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\92\ns6%3A%E5%B9%BB%E6%83%B3%E3%83%91%E3%83%A9%E3%83%8E%E3%82%A4%E3%82%A2%EF%BC%88MisteryCircle%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 MisteryCircle | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ MisteryCircle | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [幻想パラノイア（MisteryCircle）](./幻想パラノイア（MisteryCircle）.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [幻想パラノイア（MisteryCircle）](./幻想パラノイア（MisteryCircle）.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

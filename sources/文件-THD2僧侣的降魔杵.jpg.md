@@ -1,15 +1,13 @@
 # 文件:THD2僧侣的降魔杵.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f4\ns6%3ATHD2%E5%83%A7%E4%BE%A3%E7%9A%84%E9%99%8D%E9%AD%94%E6%9D%B5%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f4\ns6%3ATHD2%E5%83%A7%E4%BE%A3%E7%9A%84%E9%99%8D%E9%AD%94%E6%9D%B5%2Ejpg.html -->
 
 AvalonStudioOfficial | THD2
 
 
 ## 摘要
+
 - THD2僧侣的降魔杵
-
-
-
 
 
 ---

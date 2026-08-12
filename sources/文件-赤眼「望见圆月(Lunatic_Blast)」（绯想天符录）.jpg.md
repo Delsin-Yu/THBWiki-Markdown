@@ -1,14 +1,11 @@
 # 文件:赤眼「望见圆月(Lunatic_Blast)」（绯想天符录）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d9\ns6%3A%E8%B5%A4%E7%9C%BC%E3%80%8C%E6%9C%9B%E8%A7%81%E5%9C%86%E6%9C%88%28Lunatic_Blast%29%E3%80%8D%EF%BC%88%E7%BB%AF%E6%83%B3%E5%A4%A9%E7%AC%A6%E5%BD%95%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d9\ns6%3A%E8%B5%A4%E7%9C%BC%E3%80%8C%E6%9C%9B%E8%A7%81%E5%9C%86%E6%9C%88%28Lunatic_Blast%29%E3%80%8D%EF%BC%88%E7%BB%AF%E6%83%B3%E5%A4%A9%E7%AC%A6%E5%BD%95%EF%BC%89%2Ejpg.html -->
 
 绯想天符录 | 铃仙·优昙华院·因幡
 
 
 ## 摘要
-
-
-
 
 ---
 

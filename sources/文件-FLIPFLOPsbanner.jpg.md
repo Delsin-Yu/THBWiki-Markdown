@@ -1,12 +1,8 @@
 # 文件:FLIPFLOPsbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e2\ns6%3AFLIPFLOPsbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e2\ns6%3AFLIPFLOPsbanner%2Ejpg.html -->
 
 FLIPFLOPs | 社团LOGO
-
-
-
-
 
 
 ---

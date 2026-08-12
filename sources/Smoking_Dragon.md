@@ -1,43 +1,31 @@
 # Smoking_Dragon
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\3\31\ns0%3ASmoking_Dragon.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\3\31\ns0%3ASmoking_Dragon.html -->
 
 由 ZUN 创作的官方曲目，原名 スモーキングドラゴン
 
 本页是关于东方Project  
- **原作音乐** 的词条
-
+**原作音乐**的词条
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 出现作品](#出现作品)
 - [3 音乐文件](#音乐文件)
-
   - [3.1 东方虹龙洞](#东方虹龙洞)
   - [3.2 七夕坂梦幻能](#七夕坂梦幻能)
 
 
-
 - [4 说明文本](#说明文本)
-
   - [4.1 东方虹龙洞](#东方虹龙洞_2)
 
 
-
 - [5 其他资料](#其他资料)
-
   - [5.1 乐理资讯](#乐理资讯)
-
     - [5.1.1 使用乐器](#使用乐器)
-
 
 
   - [5.2 分析考据](#分析考据)
   - [5.3 二次同人数据](#二次同人数据)
-
-
-
-
 
 
 
@@ -47,7 +35,6 @@
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">スモーキングドラゴン</td></tr><tr><td><b>译名</b></td><td>Smoking Dragon</td></tr><tr><td><b>其他译名</b></td><td>吞云吐雾的龙</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 Smoking Dragon（曲目） - 由 ZUN 创作的官方曲目，原名 スモーキングドラゴン
-
 ## 出现作品
 
 <table>
@@ -55,7 +42,6 @@ Smoking Dragon（曲目） - 由 ZUN 创作的官方曲目，原名 スモーキ
 <tr><td>2021年5月4日（非展会）</td><td><b><a href="./东方虹龙洞.md" title="东方虹龙洞">东方虹龙洞</a>正式版</b></td><td>3面BOSS-<a href="./驹草山如.md" title="驹草山如">驹草山如</a>角色曲</td><td style="padding-left:5px;">スモーキングドラゴン（Smoking Dragon）</td><td style="padding-left:10px;">作曲：ZUN</td></tr>
 <tr><td>2024年5月3日（第二十一回 博丽神社例大祭）</td><td><b><a href="./七夕坂梦幻能.md" title="七夕坂梦幻能">七夕坂梦幻能</a></b></td><td>第4轨</td><td style="padding-left:5px;">スモーキングドラゴン（Smoking Dragon）</td><td style="padding-left:10px;">作曲：ZUN</td></tr>
 </tbody></table>
-
 
 
 ## 音乐文件
@@ -70,30 +56,29 @@ Smoking Dragon（曲目） - 由 ZUN 创作的官方曲目，原名 スモーキ
 </td></tr></tbody></table>
 
 
-
 ### 七夕坂梦幻能
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-hr12_04.mp3.md" title="文件:hr12 04.mp3">hr12_04.mp3</a><br><audio src="https://upload.thwiki.cc/c/c7/hr12_04.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track04.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>4:22</td></tr></tbody></table>
 
 
-
 ## 说明文本
 
 ### 东方虹龙洞
-- Music Room (未找到链接)
+
+- [Music Room](./东方虹龙洞-Music.md#3面BOSS驹草山如角色曲)
 
 　驹草 山如的主题曲。  
-　  
+   
 　因为她单手拿着烟斗的风貌，她被称为驹草太夫。  
 　我直率地创作了一首曲风非常独特的曲子。  
 　我本来的目标是更加有黑道的感觉，但这种道中BOSS的气场是怎么回事……  
 　不过她也只不过是个门卫，毋庸置疑只是个道中BOSS。
-
 ## 其他资料
 
 ### 乐理资讯
 
 #### 使用乐器
+
 - SD-90 Romantic Tp
 - Trilian Hardcore Finger
 - Groove Agent 5 Elementic
@@ -104,22 +89,26 @@ Smoking Dragon（曲目） - 由 ZUN 创作的官方曲目，原名 スモーキ
 
 ### 分析考据
   
- **スモーキングドラゴン**  Smoking Dragon
+**スモーキングドラゴン** Smoking Dragon
   
 
-- スモーキング（Smoking）
-  - 抽烟、冒烟。
+- スモーキング（Smoking） 
+  - 抽烟、冒烟。 
     - [驹草山如](./驹草山如.md)拥有“以烟草的烟操纵精神程度的能力”。
 
 
-- ドラゴン（Dragon）
-  - 龙。
+
+
+- ドラゴン（Dragon） 
+  - 龙。 
     - 一般指西方意义的“龙”，即形似蜥蜴、长有蝙蝠状翅膀的传说生物，但也被用来指代东方意义上形似长蛇的“龙”。
 
 
-- スモーキングドラゴン
+
+
+- スモーキングドラゴン 
   - Smoking Dragon。
-  - 山如所持有的烟管，为蜿蜒长龙的造型，喷吐着烟气。
+  - 山如所持有的烟管，为蜿蜒长龙的造型，喷吐着烟气。 
     - 与她的能力相关的卡牌Dragon Khsier（龙之烟管）。
     - 东方传说中的“龙”，被认为能吞云吐雾、行云布雨。
     - [东方虹龙洞](./东方虹龙洞.md)标题中的“龙”。
@@ -127,20 +116,24 @@ Smoking Dragon（曲目） - 由 ZUN 创作的官方曲目，原名 スモーキ
 
 
 
-<table><tbody><tr><td style="min-width:200px" colspan="2" align="center"><b>Dragon Khsier（龙之烟管）<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">1</a></sup></b></td><td style="min-width:150px" colspan="2" align="center" lang="ja"><b>ドラゴンキセル</b></td></tr><tr><td style="min-width:125px"><b>卡牌说明</b></td><td style="min-width:125px"></td><td style="min-width:100px" lang="ja"></td></tr></tbody></table>
 
 
-- [](./文件-Dragon_Khsier（虹龙洞卡牌）.png.md)Dragon Khsier（虹龙洞卡牌）
+<table><tbody><tr><td style="min-width:200px" colspan="2" align="center"><b>Dragon Khsier（龙之烟管）<span>[^cite_note-1]</span></b></td><td style="min-width:150px" colspan="2" align="center" lang="ja"><b>ドラゴンキセル</b></td></tr><tr><td style="min-width:125px"><b>卡牌说明</b></td><td style="min-width:125px"></td><td style="min-width:100px" lang="ja"></td></tr></tbody></table>
 
-- Music Room评价 (未找到链接)中提及，ZUN原本打算创作得“更加有黑道的感觉”。
+
+- <img alt="Dragon Khsier（虹龙洞卡牌）" src="https://upload.thwiki.cc/thumb/2/2d/Dragon_Khsier%EF%BC%88%E8%99%B9%E9%BE%99%E6%B4%9E%E5%8D%A1%E7%89%8C%EF%BC%89.png/160px-Dragon_Khsier%EF%BC%88%E8%99%B9%E9%BE%99%E6%B4%9E%E5%8D%A1%E7%89%8C%EF%BC%89.png" decoding="async" loading="lazy" width="160" height="200" srcset="https://upload.thwiki.cc/thumb/2/2d/Dragon_Khsier%EF%BC%88%E8%99%B9%E9%BE%99%E6%B4%9E%E5%8D%A1%E7%89%8C%EF%BC%89.png/240px-Dragon_Khsier%EF%BC%88%E8%99%B9%E9%BE%99%E6%B4%9E%E5%8D%A1%E7%89%8C%EF%BC%89.png 1.5x, https://upload.thwiki.cc/2/2d/Dragon_Khsier%EF%BC%88%E8%99%B9%E9%BE%99%E6%B4%9E%E5%8D%A1%E7%89%8C%EF%BC%89.png 2x" data-file-width="256" data-file-height="320"> Dragon Khsier（虹龙洞卡牌）
+
+
+- [Music Room评价](./东方虹龙洞-Music.md#3面BOSS驹草山如角色曲)中提及，ZUN原本打算创作得“更加有黑道的感觉”。 
   - 江户时期，主要经营赌场生意、以赌博为生的人形成名为“博徒”的黑社会团体，被认为是现在意义上日本黑帮的源头之一。[^cite_note-2]
     - 日本黑帮与其赌博业、色情业有紧密的联系，也是近现代相关题材作品经常描绘的内容。
 
 
 
 
-<table><tbody><tr class="tt-comment" id="MusicRoom-21" data-pos="&#91;&quot;MusicRoom&quot;,21&#93;"><td colspan="2" class="tt-ja" lang="ja"><div class="poem">　駒草 山如（こまくさ さんにょ）のテーマです。<br>　<br>　煙管片手のその出で立ちから駒草太夫と呼ばれている彼女です。<br>　ストレートに癖の強い曲を作りました。もっとヤクザっぽいのを<br>　目指したんですけどね、なんだろうこの中ボス感……。<br>　まあやってることは門番だし、紛うこと無き中ボスなんですが。</div></td><td colspan="2" class="tt-zh" lang="zh"><div class="poem">　驹草 山如的主题曲。<br>　<br>　因为她单手拿着烟斗的风貌，她被称为驹草太夫。<br>　我直率地创作了一首曲风非常独特的曲子。<br>　我本来的目标是更加有黑道的感觉，但这种道中BOSS的气场是怎么回事……<br>　不过她也只不过是个门卫，毋庸置疑只是个道中BOSS。</div></td></tr></tbody></table>
 
+
+<table><tbody><tr class="tt-comment" id="MusicRoom-21" data-pos="&#91;&quot;MusicRoom&quot;,21&#93;"><td colspan="2" class="tt-ja" lang="ja"><div class="poem">　駒草 山如（こまくさ さんにょ）のテーマです。<br>　<br>　煙管片手のその出で立ちから駒草太夫と呼ばれている彼女です。<br>　ストレートに癖の強い曲を作りました。もっとヤクザっぽいのを<br>　目指したんですけどね、なんだろうこの中ボス感……。<br>　まあやってることは門番だし、紛うこと無き中ボスなんですが。</div></td><td colspan="2" class="tt-zh" lang="zh"><div class="poem">　驹草 山如的主题曲。<br>　<br>　因为她单手拿着烟斗的风貌，她被称为驹草太夫。<br>　我直率地创作了一首曲风非常独特的曲子。<br>　我本来的目标是更加有黑道的感觉，但这种道中BOSS的气场是怎么回事……<br>　不过她也只不过是个门卫，毋庸置疑只是个道中BOSS。</div></td></tr></tbody></table>
 
 
 ### 二次同人数据
@@ -156,19 +149,8 @@ Smoking Dragon（曲目） - 由 ZUN 创作的官方曲目，原名 スモーキ
 <tr><td>Vocal率</td><td>20.87%</td></tr>
 </tbody></table>
 
-
-
-
-  
-  
-
-  
-
 [^cite_note-1]: 「キセル」（Khsier）源自柬埔寨语，传入日本后成为常用词，意为烟袋、烟管。
-
-
-
-
+[^cite_note-2]: （日文）日文维基百科：[暴力団](https://en.wikipedia.org/wiki/ja:暴力団)
 
 ---
 

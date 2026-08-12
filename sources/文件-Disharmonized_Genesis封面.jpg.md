@@ -1,6 +1,6 @@
 # 文件:Disharmonized_Genesis封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a6\ns6%3ADisharmonized_Genesis%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a6\ns6%3ADisharmonized_Genesis%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 CLOCKWORKS_TRACER | Further_Ahead_Of_Warp | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ CLOCKWORKS_TRACER | Further_Ahead_Of_Warp | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Disharmonized Genesis](./Disharmonized_Genesis.md)  
-该封面包含的角色：- [上白泽慧音](./上白泽慧音.md)- [藤原妹红](./藤原妹红.md)
-
-
-
+- [Disharmonized Genesis](./Disharmonized_Genesis.md)该封面包含的角色：
+- [上白泽慧音](./上白泽慧音.md)
+- [藤原妹红](./藤原妹红.md)
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:昼Planbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f8\ns6%3A%E6%98%BCPlanbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f8\ns6%3A%E6%98%BCPlanbanner%2Epng.html -->
 
 昼Plan | 社团LOGO
-
-
-
-
 
 
 ---

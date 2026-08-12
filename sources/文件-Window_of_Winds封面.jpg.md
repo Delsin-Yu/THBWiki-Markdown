@@ -1,6 +1,6 @@
 # 文件:Window_of_Winds封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\04\ns6%3AWindow_of_Winds%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\04\ns6%3AWindow_of_Winds%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Reason_Is_Nowhere | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Reason_Is_Nowhere | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Window of Winds](./Window_of_Winds.md)  
-该封面包含的角色：- [秋静叶](./秋静叶.md)
+- [Window of Winds](./Window_of_Winds.md)该封面包含的角色：
+- [秋静叶](./秋静叶.md)
 
   
-[Pixiv artwork ID: 39034572 (original size)](https://www.pixiv.net/artworks/39034572)
-  
-
-
-
-
+[Pixiv artwork ID: 39034572 (original size)](https://www.pixiv.net/artworks/39034572)  
 
 ---
 

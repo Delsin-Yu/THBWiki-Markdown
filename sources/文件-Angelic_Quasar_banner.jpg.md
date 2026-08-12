@@ -1,14 +1,11 @@
 # 文件:Angelic_Quasar_banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2b\ns6%3AAngelic_Quasar_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2b\ns6%3AAngelic_Quasar_banner%2Ejpg.html -->
 
 Angelic_Quasar | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

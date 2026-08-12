@@ -1,6 +1,6 @@
 # 文件:FAR_EAST_OF_EAST_-XII-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1f\ns6%3AFAR_EAST_OF_EAST_-XII-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1f\ns6%3AFAR_EAST_OF_EAST_-XII-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 TatshMusicCircle | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ TatshMusicCircle | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [FAR EAST OF EAST -XII-](./FAR_EAST_OF_EAST_-XII-.md)  
-该封面包含的角色：- [红美铃](./红美铃.md)
-
-
-
+- [FAR EAST OF EAST -XII-](./FAR_EAST_OF_EAST_-XII-.md)该封面包含的角色：
+- [红美铃](./红美铃.md)
 
 
 ---

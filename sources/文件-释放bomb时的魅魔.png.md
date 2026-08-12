@@ -1,12 +1,8 @@
 # 文件:释放bomb时的魅魔.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cf\ns6%3A%E9%87%8A%E6%94%BEbomb%E6%97%B6%E7%9A%84%E9%AD%85%E9%AD%94%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cf\ns6%3A%E9%87%8A%E6%94%BEbomb%E6%97%B6%E7%9A%84%E9%AD%85%E9%AD%94%2Epng.html -->
 
 东方怪绮谈 | 魅魔
-
-
-
-
 
 
 ---

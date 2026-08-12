@@ -1,14 +1,11 @@
 # 文件:凋叶棕_banner_old.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ab\ns6%3A%E5%87%8B%E5%8F%B6%E6%A3%95_banner_old%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ab\ns6%3A%E5%87%8B%E5%8F%B6%E6%A3%95_banner_old%2Egif.html -->
 
 凋叶棕 | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

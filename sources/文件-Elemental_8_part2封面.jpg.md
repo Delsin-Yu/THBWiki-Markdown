@@ -1,6 +1,6 @@
 # 文件:Elemental_8_part2封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b4\ns6%3AElemental_8_part2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b4\ns6%3AElemental_8_part2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 KEMONOMICHI | 同人志封面 | 封面图片
 
@@ -8,11 +8,8 @@ KEMONOMICHI | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Elemental 8 part2](./Elemental_8_part2.md)  
-该封面包含的角色：- [小恶魔](./小恶魔.md)
-
-
-
+- [Elemental 8 part2](./Elemental_8_part2.md)该封面包含的角色：
+- [小恶魔](./小恶魔.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Double_bind封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\80\ns6%3ADouble_bind%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\80\ns6%3ADouble_bind%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 JF_UNION | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ JF_UNION | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Double bind](./Double_bind.md)  
-该封面包含的角色：- [鬼人正邪](./鬼人正邪.md)
-
-
-
+- [Double bind](./Double_bind.md)该封面包含的角色：
+- [鬼人正邪](./鬼人正邪.md)
 
 
 ---

@@ -1,18 +1,13 @@
 # 文件:GENSOKYOxDEFECATORlogo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\be\ns6%3AGENSOKYOxDEFECATORlogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\be\ns6%3AGENSOKYOxDEFECATORlogo%2Ejpg.html -->
 
 GENSOKYOxDEFECATOR | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[VK Logo](https://sun9-9.userapi.com/c5822/g11397034/a_ee74e9f8.jpg)
-  
-
-
-
-
+源地址：[VK Logo](https://sun9-9.userapi.com/c5822/g11397034/a_ee74e9f8.jpg)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:Leonids：Go_ahead封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3c\ns6%3ALeonids%EF%BC%9AGo_ahead%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3c\ns6%3ALeonids%EF%BC%9AGo_ahead%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 全力お花畑 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Leonids：Go ahead](./Leonids：Go_ahead.md)  
-该封面包含的角色：- [米斯蒂娅·萝蕾拉](./米斯蒂娅·萝蕾拉.md)
-
-
-
+- [Leonids：Go ahead](./Leonids：Go_ahead.md)该封面包含的角色：
+- [米斯蒂娅·萝蕾拉](./米斯蒂娅·萝蕾拉.md)
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:THD2河童武装背包.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\74\ns6%3ATHD2%E6%B2%B3%E7%AB%A5%E6%AD%A6%E8%A3%85%E8%83%8C%E5%8C%85%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\74\ns6%3ATHD2%E6%B2%B3%E7%AB%A5%E6%AD%A6%E8%A3%85%E8%83%8C%E5%8C%85%2Epng.html -->
 
 东方DOTS玩家社群
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Touhou_Pianoforte_~_Scarlet_suite封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\13\ns6%3ATouhou_Pianoforte_%7E_Scarlet_suite%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\13\ns6%3ATouhou_Pianoforte_%7E_Scarlet_suite%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 IberaRecords | 专辑封面 | 封面图片
 
@@ -13,12 +13,7 @@ IberaRecords | 专辑封面 | 封面图片
 - [Touhou Pianoforte ~ Scarlet suite](./Touhou_Pianoforte_~_Scarlet_suite.md)
 
   
-源地址：[direct image link (10 size)](https://f4.bcbits.com/img/a2873082000_10.jpg), [from artist bandcamp](https://maideiru.bandcamp.com/album/touhou-pianoforte-scarlet-suite)
-  
-
-
-
-
+源地址：[direct image link (10 size)](https://f4.bcbits.com/img/a2873082000_10.jpg), [from artist bandcamp](https://maideiru.bandcamp.com/album/touhou-pianoforte-scarlet-suite)  
 
 ---
 

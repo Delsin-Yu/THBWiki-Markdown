@@ -1,12 +1,8 @@
 # 文件:猫符「Cat's_Walk」（地灵殿）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fa\ns6%3A%E7%8C%AB%E7%AC%A6%E3%80%8CCat%27s_Walk%E3%80%8D%EF%BC%88%E5%9C%B0%E7%81%B5%E6%AE%BF%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fa\ns6%3A%E7%8C%AB%E7%AC%A6%E3%80%8CCat%27s_Walk%E3%80%8D%EF%BC%88%E5%9C%B0%E7%81%B5%E6%AE%BF%EF%BC%89%2Ejpg.html -->
 
 东方地灵殿 | 敌机符卡 | 火焰猫燐
-
-
-
-
 
 
 ---

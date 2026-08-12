@@ -1,14 +1,11 @@
 # 文件:H2Obanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bc\ns6%3AH2Obanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bc\ns6%3AH2Obanner%2Ejpg.html -->
 
 H2O | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

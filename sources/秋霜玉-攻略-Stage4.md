@@ -1,11 +1,10 @@
 # 秋霜玉/攻略/Stage4
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\64\ns0%3A%E7%A7%8B%E9%9C%9C%E7%8E%89%2F%E6%94%BB%E7%95%A5%2FStage4.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\64\ns0%3A%E7%A7%8B%E9%9C%9C%E7%8E%89%2F%E6%94%BB%E7%95%A5%2FStage4.html -->
 
 待完成页面
 
 <center>
-
 <table>
 <tbody><tr>
 <td class="mbox-image"><div style="width: 52px;">
@@ -14,31 +13,20 @@
 </tr>
 </tbody></table>
 
-
 </center>
-
 ## 目录
 
 - [1 总述](#总述)
 - [2 道中](#道中)
-
-  - [2.1 (1)](#(1))
-
+  - [2.1 (1)](#(1%29)
     - [2.1.1 低Rank](#低Rank)
     - [2.1.2 高Rank](#高Rank)
 
 
 
 
-
-
 - [3 关底boss](#关底boss)
-
   - [3.1 1身](#1身)
-
-
-
-
 
 
 
@@ -92,27 +80,12 @@
 <td>?
 </td></tr></tbody></table>
 
-
-
-
-
-[](./文件-玛丽（秋霜玉立绘）.png.md)
-
+<img alt="秋霜玉立绘" src="https://upload.thwiki.cc/9/95/%E7%8E%9B%E4%B8%BD%EF%BC%88%E7%A7%8B%E9%9C%9C%E7%8E%89%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="100" height="100" data-file-width="96" data-file-height="96">
 玛丽
-
-
-[](./文件-ssg_4_Boss.png.md)
+<img alt="秋霜玉立绘" src="https://upload.thwiki.cc/thumb/2/28/ssg_4_Boss.png/185px-ssg_4_Boss.png" decoding="async" loading="lazy" width="185" height="100" srcset="https://upload.thwiki.cc/thumb/2/28/ssg_4_Boss.png/278px-ssg_4_Boss.png 1.5x, https://upload.thwiki.cc/thumb/2/28/ssg_4_Boss.png/370px-ssg_4_Boss.png 2x" data-file-width="1680" data-file-height="905">
 机体
 
-
-
-
-
-
 ### 1身
-
-
-
 
 ---
 

@@ -1,16 +1,12 @@
 # 模板:BBEX
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\f\f7\ns10%3ABBEX.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\f\f7\ns10%3ABBEX.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

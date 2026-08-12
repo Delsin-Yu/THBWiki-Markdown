@@ -1,6 +1,6 @@
 # 文件:IN_THE_NAME_OF_SCARLET_-precede-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f5\ns6%3AIN_THE_NAME_OF_SCARLET_-precede-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f5\ns6%3AIN_THE_NAME_OF_SCARLET_-precede-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Echoes_Construction | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ Echoes_Construction | 专辑封面 | 封面图片
   
 
 - [IN THE NAME OF SCARLET -precede-](./IN_THE_NAME_OF_SCARLET_-precede-.md)
-
-
-
 
 
 ---

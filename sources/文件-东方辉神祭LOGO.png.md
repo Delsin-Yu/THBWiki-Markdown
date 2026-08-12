@@ -1,14 +1,11 @@
 # 文件:东方辉神祭LOGO.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d6\ns6%3A%E4%B8%9C%E6%96%B9%E8%BE%89%E7%A5%9E%E7%A5%ADLOGO%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d6\ns6%3A%E4%B8%9C%E6%96%B9%E8%BE%89%E7%A5%9E%E7%A5%ADLOGO%2Epng.html -->
 
 东方辉神祭 | 活动LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

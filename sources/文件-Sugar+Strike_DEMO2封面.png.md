@@ -1,6 +1,6 @@
 # 文件:Sugar+Strike_DEMO2封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e4\ns6%3ASugar%2BStrike_DEMO2%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e4\ns6%3ASugar%2BStrike_DEMO2%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 文鸟Online。
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Sugar+Strike DEMO2](./Sugar+Strike_DEMO2.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)
-
-
-
+- [Sugar+Strike DEMO2](./Sugar+Strike_DEMO2.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
 
 
 ---

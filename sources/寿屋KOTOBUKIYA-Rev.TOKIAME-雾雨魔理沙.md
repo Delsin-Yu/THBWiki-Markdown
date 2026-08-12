@@ -1,37 +1,21 @@
 # 寿屋KOTOBUKIYA/Rev.TOKIAME/雾雨魔理沙
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\1\1c\ns0%3A%E5%AF%BF%E5%B1%8BKOTOBUKIYA%2FRev%2ETOKIAME%2F%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\1\1c\ns0%3A%E5%AF%BF%E5%B1%8BKOTOBUKIYA%2FRev%2ETOKIAME%2F%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99.html -->
 
 雾雨魔理沙PVCFigure手办模型
 
 本页是关于东方Project  
- **相关实体周边 (未找到链接)** 的词条
-
+**相关实体周边 (未找到链接)**的词条
 ## 模型信息
 
-<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 雾雨魔理沙 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>Rev.TOKIAME</td></tr><tr><td class="label">角色</td><td><a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a></td></tr><tr><td class="label">原型师</td><td><a href="/index.php?title=%E5%BE%A1%E5%9C%92_%E7%BF%81%E4%BA%BA&amp;action=edit&amp;redlink=1" class="new" title="御園 翁人（页面不存在）">御園 翁人</a></td></tr><tr><td class="label">原画师</td><td><a href="./TOKIAME.md" title="TOKIAME">TOKIAME</a></td></tr><tr><td class="label">比例</td><td>1/8</td></tr><tr><td class="label">尺寸</td><td>230mm</td></tr><tr><td class="label">状态</td><td>已发售</td></tr><tr><td class="label">售价</td><td>7500円</td></tr><tr><td class="label">首发日期</td><td>2009-12</td></tr><tr><td class="label">发售方</td><td><a href="/index.php?title=%E5%AF%BF%E5%B1%8BKOTOBUKIYA&amp;action=edit&amp;redlink=1" class="new" title="寿屋KOTOBUKIYA（页面不存在）">寿屋KOTOBUKIYA</a></td></tr><tr><td class="label">再版日期</td><td>2012-07</td></tr><tr><td class="label">备注</td><td>虎之穴、amiami、Hobby均含特点出售</td></tr></tbody></table>
+<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 雾雨魔理沙 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>Rev.TOKIAME</td></tr><tr><td class="label">角色</td><td><a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a></td></tr><tr><td class="label">原型师</td><td><a class="new" title="御園 翁人（页面不存在）">御園 翁人</a></td></tr><tr><td class="label">原画师</td><td><a href="./TOKIAME.md" title="TOKIAME">TOKIAME</a></td></tr><tr><td class="label">比例</td><td>1/8</td></tr><tr><td class="label">尺寸</td><td>230mm</td></tr><tr><td class="label">状态</td><td>已发售</td></tr><tr><td class="label">售价</td><td>7500円</td></tr><tr><td class="label">首发日期</td><td>2009-12</td></tr><tr><td class="label">发售方</td><td><a class="new" title="寿屋KOTOBUKIYA（页面不存在）">寿屋KOTOBUKIYA</a></td></tr><tr><td class="label">再版日期</td><td>2012-07</td></tr><tr><td class="label">备注</td><td>虎之穴、amiami、Hobby均含特点出售</td></tr></tbody></table>
 
 寿屋KOTOBUKIYA/Rev.TOKIAME/雾雨魔理沙（周边） - 雾雨魔理沙PVCFigure手办模型
-
 ## 参考图片
-
-
-
-[](./文件-寿屋KOTOBUKIYARev.TOKIAME雾雨魔理沙-1.jpg.md)
-
-
-[](./文件-寿屋KOTOBUKIYARev.TOKIAME雾雨魔理沙-2.jpg.md)
-
-
-[](./文件-寿屋KOTOBUKIYARev.TOKIAME雾雨魔理沙-3.jpg.md)
-
+<img alt="寿屋KOTOBUKIYARev.TOKIAME雾雨魔理沙" src="https://upload.thwiki.cc/thumb/0/05/%E5%AF%BF%E5%B1%8BKOTOBUKIYARev.TOKIAME%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99-1.jpg/160px-%E5%AF%BF%E5%B1%8BKOTOBUKIYARev.TOKIAME%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99-1.jpg" decoding="async" loading="lazy" width="160" height="241" srcset="https://upload.thwiki.cc/thumb/0/05/%E5%AF%BF%E5%B1%8BKOTOBUKIYARev.TOKIAME%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99-1.jpg/240px-%E5%AF%BF%E5%B1%8BKOTOBUKIYARev.TOKIAME%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99-1.jpg 1.5x, https://upload.thwiki.cc/thumb/0/05/%E5%AF%BF%E5%B1%8BKOTOBUKIYARev.TOKIAME%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99-1.jpg/320px-%E5%AF%BF%E5%B1%8BKOTOBUKIYARev.TOKIAME%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99-1.jpg 2x" data-file-width="532" data-file-height="800">
+<img alt="寿屋KOTOBUKIYARev.TOKIAME雾雨魔理沙" src="https://upload.thwiki.cc/thumb/7/74/%E5%AF%BF%E5%B1%8BKOTOBUKIYARev.TOKIAME%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99-2.jpg/160px-%E5%AF%BF%E5%B1%8BKOTOBUKIYARev.TOKIAME%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99-2.jpg" decoding="async" loading="lazy" width="160" height="241" srcset="https://upload.thwiki.cc/thumb/7/74/%E5%AF%BF%E5%B1%8BKOTOBUKIYARev.TOKIAME%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99-2.jpg/240px-%E5%AF%BF%E5%B1%8BKOTOBUKIYARev.TOKIAME%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99-2.jpg 1.5x, https://upload.thwiki.cc/thumb/7/74/%E5%AF%BF%E5%B1%8BKOTOBUKIYARev.TOKIAME%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99-2.jpg/320px-%E5%AF%BF%E5%B1%8BKOTOBUKIYARev.TOKIAME%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99-2.jpg 2x" data-file-width="532" data-file-height="800">
+<img alt="寿屋KOTOBUKIYARev.TOKIAME雾雨魔理沙" src="https://upload.thwiki.cc/thumb/0/0f/%E5%AF%BF%E5%B1%8BKOTOBUKIYARev.TOKIAME%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99-3.jpg/160px-%E5%AF%BF%E5%B1%8BKOTOBUKIYARev.TOKIAME%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99-3.jpg" decoding="async" loading="lazy" width="160" height="241" srcset="https://upload.thwiki.cc/thumb/0/0f/%E5%AF%BF%E5%B1%8BKOTOBUKIYARev.TOKIAME%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99-3.jpg/240px-%E5%AF%BF%E5%B1%8BKOTOBUKIYARev.TOKIAME%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99-3.jpg 1.5x, https://upload.thwiki.cc/thumb/0/0f/%E5%AF%BF%E5%B1%8BKOTOBUKIYARev.TOKIAME%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99-3.jpg/320px-%E5%AF%BF%E5%B1%8BKOTOBUKIYARev.TOKIAME%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99-3.jpg 2x" data-file-width="532" data-file-height="800">
 公式图
-
-
-
-
-
-
 
 ---
 

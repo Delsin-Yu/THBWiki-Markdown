@@ -1,6 +1,6 @@
 # 文件:想い風_～the_ties_between_dream_and_wind～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\70\ns6%3A%E6%83%B3%E3%81%84%E9%A2%A8_%EF%BD%9Ethe_ties_between_dream_and_wind%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\70\ns6%3A%E6%83%B3%E3%81%84%E9%A2%A8_%EF%BD%9Ethe_ties_between_dream_and_wind%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 アールグレイ | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [想い風 ～the ties between dream and wind～](./想い風_～the_ties_between_dream_and_wind～.md)  
-该封面包含的角色：- [东风谷早苗](./东风谷早苗.md)
-
-
-
+- [想い風 ～the ties between dream and wind～](./想い風_～the_ties_between_dream_and_wind～.md)该封面包含的角色：
+- [东风谷早苗](./东风谷早苗.md)
 
 
 ---

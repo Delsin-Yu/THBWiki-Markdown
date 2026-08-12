@@ -1,6 +1,6 @@
 # 文件:東方ssaw_-all_days-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fc\ns6%3A%E6%9D%B1%E6%96%B9ssaw_-all_days-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fc\ns6%3A%E6%9D%B1%E6%96%B9ssaw_-all_days-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 天然ジェミニ | 封面图片
 
@@ -8,11 +8,15 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方ssaw -all days-](./東方ssaw_-all_days-.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)- [博丽灵梦](./博丽灵梦.md)- [蕾蒂·霍瓦特洛克](./蕾蒂·霍瓦特洛克.md)- [西行寺幽幽子](./西行寺幽幽子.md)- [秋静叶](./秋静叶.md)- [秋穰子](./秋穰子.md)- [东风谷早苗](./东风谷早苗.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [東方ssaw -all days-](./東方ssaw_-all_days-.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
+- [博丽灵梦](./博丽灵梦.md)
+- [蕾蒂·霍瓦特洛克](./蕾蒂·霍瓦特洛克.md)
+- [西行寺幽幽子](./西行寺幽幽子.md)
+- [秋静叶](./秋静叶.md)
+- [秋穰子](./秋穰子.md)
+- [东风谷早苗](./东风谷早苗.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:Trick_banner_02.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\90\ns6%3ATrick_banner_02%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\90\ns6%3ATrick_banner_02%2Egif.html -->
 
 トリック・ノスタルジー | 社团LOGO
-
-
-
-
 
 
 ---

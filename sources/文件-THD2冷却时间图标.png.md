@@ -1,12 +1,8 @@
 # 文件:THD2冷却时间图标.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dc\ns6%3ATHD2%E5%86%B7%E5%8D%B4%E6%97%B6%E9%97%B4%E5%9B%BE%E6%A0%87%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dc\ns6%3ATHD2%E5%86%B7%E5%8D%B4%E6%97%B6%E9%97%B4%E5%9B%BE%E6%A0%87%2Epng.html -->
 
 THD2
-
-
-
-
 
 
 ---

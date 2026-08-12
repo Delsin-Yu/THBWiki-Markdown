@@ -1,16 +1,12 @@
 # 模板:Convention_Epitanime
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\6\6c\ns10%3AConvention_Epitanime.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\6\6c\ns10%3AConvention_Epitanime.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

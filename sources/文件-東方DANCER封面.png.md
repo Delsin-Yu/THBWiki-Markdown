@@ -1,6 +1,6 @@
 # 文件:東方DANCER封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9e\ns6%3A%E6%9D%B1%E6%96%B9DANCER%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9e\ns6%3A%E6%9D%B1%E6%96%B9DANCER%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Trancy | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Trancy | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方DANCER](./東方DANCER.md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)
-
-
-
+- [東方DANCER](./東方DANCER.md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
 
 
 ---

@@ -1,16 +1,11 @@
 # 文件:青葉製作所banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a2\ns6%3A%E9%9D%92%E8%91%89%E8%A3%BD%E4%BD%9C%E6%89%80banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a2\ns6%3A%E9%9D%92%E8%91%89%E8%A3%BD%E4%BD%9C%E6%89%80banner%2Egif.html -->
 
 企业LOGO | 青葉製作所
 
   
-源地址：[[1]](https://web.archive.org/web/20110212031839/http://www.aoba-ss.org/img/banner.gif)
-  
-
-
-
-
+源地址：[\[1\]](https://web.archive.org/web/20110212031839/http://www.aoba-ss.org/img/banner.gif)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 東方海恵堂～Marine_Benefit.／海恵堂異聞：Migration_to_the_conceptual_sea./其他文档
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\3\3d\ns0%3A%E6%9D%B1%E6%96%B9%E6%B5%B7%E6%81%B5%E5%A0%82%EF%BD%9EMarine_Benefit%2E%EF%BC%8F%E6%B5%B7%E6%81%B5%E5%A0%82%E7%95%B0%E8%81%9E%EF%BC%9AMigration_to_the_conceptual_sea%2E%2F%E5%85%B6%E4%BB%96%E6%96%87%E6%A1%A3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\3\3d\ns0%3A%E6%9D%B1%E6%96%B9%E6%B5%B7%E6%81%B5%E5%A0%82%EF%BD%9EMarine_Benefit%2E%EF%BC%8F%E6%B5%B7%E6%81%B5%E5%A0%82%E7%95%B0%E8%81%9E%EF%BC%9AMigration_to_the_conceptual_sea%2E%2F%E5%85%B6%E4%BB%96%E6%96%87%E6%A1%A3.html -->
 
 海神書房
 
@@ -12,15 +12,7 @@
 
 - ["缠"](./東方海恵堂～Marine_Benefit.／海恵堂異聞：Migration_to_the_conceptual_sea.-缠-.md)
 
-
-<font color="Red"> **剧透提示:  *以下内容包含详细故事情节，请自行决定是否继续阅读* ** </font>
-里缠的部分不收录在这里，而是被埋在海惠堂异闻的某处……
-
-
-
-
-
-
+<font color="Red">**剧透提示: *以下内容包含详细故事情节，请自行决定是否继续阅读***</font>里缠的部分不收录在这里，而是被埋在海惠堂异闻的某处……
 ---
 
 此文档由 [THBWiki-Markdown-Builder](https://github.com/Delsin-Yu/THBWiki-Markdown-Builder) 构建。

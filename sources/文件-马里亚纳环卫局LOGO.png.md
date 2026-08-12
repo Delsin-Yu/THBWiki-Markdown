@@ -1,12 +1,8 @@
 # 文件:马里亚纳环卫局LOGO.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3e\ns6%3A%E9%A9%AC%E9%87%8C%E4%BA%9A%E7%BA%B3%E7%8E%AF%E5%8D%AB%E5%B1%80LOGO%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3e\ns6%3A%E9%A9%AC%E9%87%8C%E4%BA%9A%E7%BA%B3%E7%8E%AF%E5%8D%AB%E5%B1%80LOGO%2Epng.html -->
 
 社团LOGO | 马里亚纳环卫局
-
-
-
-
 
 
 ---

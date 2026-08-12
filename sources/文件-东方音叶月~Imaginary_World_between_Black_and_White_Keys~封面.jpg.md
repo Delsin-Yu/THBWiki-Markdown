@@ -1,6 +1,6 @@
 # 文件:东方音叶月~Imaginary_World_between_Black_and_White_Keys~封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\87\ns6%3A%E4%B8%9C%E6%96%B9%E9%9F%B3%E5%8F%B6%E6%9C%88%7EImaginary_World_between_Black_and_White_Keys%7E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\87\ns6%3A%E4%B8%9C%E6%96%B9%E9%9F%B3%E5%8F%B6%E6%9C%88%7EImaginary_World_between_Black_and_White_Keys%7E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 隙间方程
 
@@ -8,12 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [东方音叶月~Imaginary World between Black and White Keys~](./东方音叶月~Imaginary_World_between_Black_and_White_Keys~.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)源地址：[[1]](http://i569.photobucket.com/albums/ss131/kujiusakuya/CD2.jpg)
-
-
-
-
+- [东方音叶月~Imaginary World between Black and White Keys~](./东方音叶月~Imaginary_World_between_Black_and_White_Keys~.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+源地址：[\[1\]](http://i569.photobucket.com/albums/ss131/kujiusakuya/CD2.jpg)
 
 ---
 

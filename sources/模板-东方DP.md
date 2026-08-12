@@ -1,16 +1,12 @@
 # 模板:东方DP
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\b\b9\ns10%3A%E4%B8%9C%E6%96%B9DP.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\b\b9\ns10%3A%E4%B8%9C%E6%96%B9DP.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

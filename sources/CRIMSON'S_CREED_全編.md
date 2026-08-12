@@ -1,30 +1,29 @@
 # CRIMSON'S_CREED_全編
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\4e\ns0%3ACRIMSON%27S_CREED_%E5%85%A8%E7%B7%A8.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\4e\ns0%3ACRIMSON%27S_CREED_%E5%85%A8%E7%B7%A8.html -->
 
 2020年4月10日 由 Fifiruu.FIF 于 博丽神社例大祭17 发布的漫画/总集同人志，A5尺寸一共476页，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人志 (未找到链接)** 的词条
-
+**[二次创作同人志](./二次创作.md#同人志)**的词条
 ## 作品信息
 
-<table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-CRIMSON'S_CREED_全編封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/9/91/CRIMSON%27S_CREED_%E5%85%A8%E7%B7%A8%E5%B0%81%E9%9D%A2.jpg/139px-CRIMSON%27S_CREED_%E5%85%A8%E7%B7%A8%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="139" height="196" srcset="https://upload.thwiki.cc/thumb/9/91/CRIMSON%27S_CREED_%E5%85%A8%E7%B7%A8%E5%B0%81%E9%9D%A2.jpg/208px-CRIMSON%27S_CREED_%E5%85%A8%E7%B7%A8%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/9/91/CRIMSON%27S_CREED_%E5%85%A8%E7%B7%A8%E5%B0%81%E9%9D%A2.jpg/278px-CRIMSON%27S_CREED_%E5%85%A8%E7%B7%A8%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="773" data-file-height="1091"></a><div class="cover-char">角色：<a href="/%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C" title="十六夜咲夜">十六夜咲夜</a>，<a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a>，<a href="./红美铃.md" title="红美铃">红美铃</a></div></td>
-</tr><tr><td class="label">名称</td><td colspan="2"> CRIMSON&#39;S CREED 全編 </td></tr><tr><td class="label">制作方</td><td><a href="./Fifiruu.FIF.md" title="Fifiruu.FIF">Fifiruu.FIF</a></td><td class="cover-artwork" rowspan="7" style="min-width:196px;"><a href="./文件-CRIMSON'S_CREED_全編封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/9/91/CRIMSON%27S_CREED_%E5%85%A8%E7%B7%A8%E5%B0%81%E9%9D%A2.jpg/139px-CRIMSON%27S_CREED_%E5%85%A8%E7%B7%A8%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="139" height="196" srcset="https://upload.thwiki.cc/thumb/9/91/CRIMSON%27S_CREED_%E5%85%A8%E7%B7%A8%E5%B0%81%E9%9D%A2.jpg/208px-CRIMSON%27S_CREED_%E5%85%A8%E7%B7%A8%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/9/91/CRIMSON%27S_CREED_%E5%85%A8%E7%B7%A8%E5%B0%81%E9%9D%A2.jpg/278px-CRIMSON%27S_CREED_%E5%85%A8%E7%B7%A8%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="773" data-file-height="1091"></a><div class="cover-char">角色：<a href="/%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C" title="十六夜咲夜">十六夜咲夜</a>，<a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a>，<a href="./红美铃.md" title="红美铃">红美铃</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2020-04-10&#160;（<a href="/展会作品列表?e=%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD%2317">第十七回 博麗神社例大祭</a>，非实际参与展会首发）</td></tr><tr><td class="label">类型</td><td>漫画，总集</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>A5</td></tr><tr><td class="label">页数</td><td>476P</td></tr><tr><td class="label">售价</td><td>会场售价：2500日元<br>通贩售价：2727日元</td></tr>
+<table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-CRIMSON'S_CREED_全編封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/9/91/CRIMSON%27S_CREED_%E5%85%A8%E7%B7%A8%E5%B0%81%E9%9D%A2.jpg/139px-CRIMSON%27S_CREED_%E5%85%A8%E7%B7%A8%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="139" height="196" srcset="https://upload.thwiki.cc/thumb/9/91/CRIMSON%27S_CREED_%E5%85%A8%E7%B7%A8%E5%B0%81%E9%9D%A2.jpg/208px-CRIMSON%27S_CREED_%E5%85%A8%E7%B7%A8%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/9/91/CRIMSON%27S_CREED_%E5%85%A8%E7%B7%A8%E5%B0%81%E9%9D%A2.jpg/278px-CRIMSON%27S_CREED_%E5%85%A8%E7%B7%A8%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="773" data-file-height="1091"></a><div class="cover-char">角色：<a href="./十六夜咲夜.md" title="十六夜咲夜">十六夜咲夜</a>，<a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a>，<a href="./红美铃.md" title="红美铃">红美铃</a></div></td>
+</tr><tr><td class="label">名称</td><td colspan="2"> CRIMSON'S CREED 全編 </td></tr><tr><td class="label">制作方</td><td><a href="./Fifiruu.FIF.md" title="Fifiruu.FIF">Fifiruu.FIF</a></td><td class="cover-artwork" rowspan="7" style="min-width:196px;"><a href="./文件-CRIMSON'S_CREED_全編封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/9/91/CRIMSON%27S_CREED_%E5%85%A8%E7%B7%A8%E5%B0%81%E9%9D%A2.jpg/139px-CRIMSON%27S_CREED_%E5%85%A8%E7%B7%A8%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="139" height="196" srcset="https://upload.thwiki.cc/thumb/9/91/CRIMSON%27S_CREED_%E5%85%A8%E7%B7%A8%E5%B0%81%E9%9D%A2.jpg/208px-CRIMSON%27S_CREED_%E5%85%A8%E7%B7%A8%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/9/91/CRIMSON%27S_CREED_%E5%85%A8%E7%B7%A8%E5%B0%81%E9%9D%A2.jpg/278px-CRIMSON%27S_CREED_%E5%85%A8%E7%B7%A8%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="773" data-file-height="1091"></a><div class="cover-char">角色：<a href="./十六夜咲夜.md" title="十六夜咲夜">十六夜咲夜</a>，<a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a>，<a href="./红美铃.md" title="红美铃">红美铃</a></div></td>
+</tr><tr><td class="label">首发日期</td><td>2020-04-10 （<a href="./展会作品列表.md#17">第十七回 博麗神社例大祭</a>，非实际参与展会首发）</td></tr><tr><td class="label">类型</td><td>漫画，总集</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>A5</td></tr><tr><td class="label">页数</td><td>476P</td></tr><tr><td class="label">售价</td><td>会场售价：2500日元<br>通贩售价：2727日元</td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/79313725">https://www.pixiv.net/artworks/79313725</a></td></tr></tbody></table>
 
 CRIMSON'S CREED 全編（同人志，Fifiruu.FIF，2020） - 2020年4月10日 由 Fifiruu.FIF 于 博丽神社例大祭17 发布的漫画/总集同人志，A5尺寸一共476页，分级为 一般向
-
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://ec.toranoana.jp/tora_r/ec/item/040030811212">虎穴</a>，<a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=631329">蜜瓜</a></td></tr></tbody></table>
 
 
-
 ## Staff
+
 - [Fifiruu](./Fifiruu.md)
 
 
 ## 收录作品
+
 - [CRIMSON'S CREED](./CRIMSON'S_CREED.md)
 - [CRIMSON'S CREED II](./CRIMSON'S_CREED_II.md)
 - [CRIMSON'S CREED III](./CRIMSON'S_CREED_III.md)
@@ -34,26 +33,18 @@ CRIMSON'S CREED 全編（同人志，Fifiruu.FIF，2020） - 2020年4月10日 �
 
 
 ## 评论
-
   
 西暦1510年東欧ワラキアの新首都ブクレシュティを訪れた旅人  
 
 紅美鈴は貴族の少女レミリアを救ったことから  
 
 連続誘拐殺人犯『吸血鬼』の退治を依頼される。  
-
   
 
 2014~2016年にFifiruu.FIF発行の  
 
 「CRIMSON'S CREED」1～4巻にEXTRAに加筆した総集編です。
   
-
-
-
-
-
-
 
 ---
 

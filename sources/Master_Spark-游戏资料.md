@@ -1,6 +1,6 @@
 # Master_Spark/游戏资料
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\2a\ns0%3AMaster_Spark%2F%E6%B8%B8%E6%88%8F%E8%B5%84%E6%96%99.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\2a\ns0%3AMaster_Spark%2F%E6%B8%B8%E6%88%8F%E8%B5%84%E6%96%99.html -->
 
 符卡 | 雾雨魔理沙
 
@@ -45,17 +45,14 @@
 </td></tr></tbody></table>
 
 
-
 ## 目录
 
 - [1 东方红魔乡](#东方红魔乡)
 - [2 东方妖妖梦](#东方妖妖梦)
 - [3 东方萃梦想](#东方萃梦想)
 - [4 东方永夜抄](#东方永夜抄)
-
   - [4.1 自机](#自机)
   - [4.2 敌机](#敌机)
-
 
 
 - [5 东方绯想天](#东方绯想天)
@@ -63,17 +60,12 @@
 - [7 东方辉针城](#东方辉针城)
 
 
-
-
-
 ## 东方红魔乡
-[](./文件-恋符「Master_Spark」（红魔乡）.png.md)  [](./文件-恋符「Master_Spark」（红魔乡）.png.md)恋符「Master Spark」（极限火花）
-
+<img alt="" src="https://upload.thwiki.cc/thumb/0/0d/%E6%81%8B%E7%AC%A6%E3%80%8CMaster_Spark%E3%80%8D%EF%BC%88%E7%BA%A2%E9%AD%94%E4%B9%A1%EF%BC%89.png/300px-%E6%81%8B%E7%AC%A6%E3%80%8CMaster_Spark%E3%80%8D%EF%BC%88%E7%BA%A2%E9%AD%94%E4%B9%A1%EF%BC%89.png" decoding="async" loading="lazy" width="300" height="341" class="thumbimage" srcset="https://upload.thwiki.cc/0/0d/%E6%81%8B%E7%AC%A6%E3%80%8CMaster_Spark%E3%80%8D%EF%BC%88%E7%BA%A2%E9%AD%94%E4%B9%A1%EF%BC%89.png 1.5x" data-file-width="384" data-file-height="436">
+ [放大](./文件-恋符「Master_Spark」（红魔乡）.png.md)恋符「Master Spark」（极限火花）
 <table>
 <tbody><tr><td style="min-width:200px" colspan="4" align="center"><b>恋符「Master Spark」</b></td></tr><tr><td style="min-width:100px" colspan="2" align="center"><b>符卡使用者</b></td><td style="min-width:250px" colspan="2" align="center"><a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a></td></tr><tr><td style="min-width:100px" colspan="2" align="center"><b>无敌时间</b></td><td style="min-width:250px" colspan="2" align="center">360f（6s）</td></tr><tr><td style="min-width:100px" colspan="2" align="center"><b>类型</b></td><td style="min-width:250px" colspan="2" align="center">高伤、清屏</td></tr><tr><td style="min-width:100px" colspan="2" align="center"><b>伤害</b></td><td style="min-width:250px" colspan="2" align="center">935</td></tr><tr><td style="min-width:100px" colspan="2" align="center"><b>其他特性</b></td><td style="min-width:250px" colspan="2" align="center">使用时无法射击（但已射出的激光可以继续保持）且移动速度降低。<br>可能击杀屏幕外的杂鱼并使其不掉落道具。</td></tr><tr><td style="min-width:100px" colspan="2" align="center"><b>补充说明</b></td><td style="min-width:250px" colspan="2" align="center">自机水平线以上全域均有判定，伤害与具体位置无关。<br>在自机激光恰好点亮时使用，总伤害约1150。</td></tr>
 </tbody></table>
-
-
 
 
 ## 东方妖妖梦
@@ -91,9 +83,6 @@
 ## 妖精大战争
 
 ## 东方辉针城
-
-
-
 
 ---
 

@@ -1,14 +1,11 @@
 # 文件:MiuMyubanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ee\ns6%3AMiuMyubanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ee\ns6%3AMiuMyubanner%2Egif.html -->
 
 MiuMyu | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

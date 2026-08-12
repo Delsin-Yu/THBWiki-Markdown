@@ -1,12 +1,8 @@
 # 文件:SWR_OST_uni.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9d\ns6%3ASWR_OST_uni%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9d\ns6%3ASWR_OST_uni%2Epng.html -->
 
 东方绯想天 | 全人类的天乐录 | 永江衣玖
-
-
-
-
 
 
 ---

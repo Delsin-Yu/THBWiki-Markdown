@@ -1,12 +1,8 @@
 # 文件:念力「Psychokinesis_APP」（深秘录）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\41\ns6%3A%E5%BF%B5%E5%8A%9B%E3%80%8CPsychokinesis_APP%E3%80%8D%EF%BC%88%E6%B7%B1%E7%A7%98%E5%BD%95%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\41\ns6%3A%E5%BF%B5%E5%8A%9B%E3%80%8CPsychokinesis_APP%E3%80%8D%EF%BC%88%E6%B7%B1%E7%A7%98%E5%BD%95%EF%BC%89%2Epng.html -->
 
 东方深秘录 | 宇佐见堇子 | 自机符卡
-
-
-
-
 
 
 ---

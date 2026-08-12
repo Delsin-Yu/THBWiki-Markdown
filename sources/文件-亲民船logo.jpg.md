@@ -1,12 +1,8 @@
 # 文件:亲民船logo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7a\ns6%3A%E4%BA%B2%E6%B0%91%E8%88%B9logo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7a\ns6%3A%E4%BA%B2%E6%B0%91%E8%88%B9logo%2Ejpg.html -->
 
 亲民船 | 社团LOGO
-
-
-
-
 
 
 ---

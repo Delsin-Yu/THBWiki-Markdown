@@ -1,6 +1,6 @@
 # 文件:SEX_ON_THE_FROZEN_BxxxH!!封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b5\ns6%3ASEX_ON_THE_FROZEN_BxxxH%21%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b5\ns6%3ASEX_ON_THE_FROZEN_BxxxH%21%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ごんばこんなか | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [SEX ON THE FROZEN BxxxH!!](./SEX_ON_THE_FROZEN_BxxxH!!.md)  
-该封面包含的角色：- [霍青娥](./霍青娥.md)
-
-
-
+- [SEX ON THE FROZEN BxxxH!!](./SEX_ON_THE_FROZEN_BxxxH!!.md)该封面包含的角色：
+- [霍青娥](./霍青娥.md)
 
 
 ---

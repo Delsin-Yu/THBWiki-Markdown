@@ -1,6 +1,6 @@
 # 文件:紺珠伝説SPECIAL封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c3\ns6%3A%E7%B4%BA%E7%8F%A0%E4%BC%9D%E8%AA%ACSPECIAL%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c3\ns6%3A%E7%B4%BA%E7%8F%A0%E4%BC%9D%E8%AA%ACSPECIAL%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 COOL&CREATE | チョー314 | 专辑封面 | 封面图片
 
@@ -8,16 +8,17 @@ COOL&CREATE | チョー314 | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [紺珠伝説SPECIAL](./紺珠伝説SPECIAL.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)- [东风谷早苗](./东风谷早苗.md)- [雾雨魔理沙](./雾雨魔理沙.md)- [纯狐](./纯狐.md)- [克劳恩皮丝](./克劳恩皮丝.md)- [赫卡提亚·拉碧斯拉祖利](./赫卡提亚·拉碧斯拉祖利.md)
+- [紺珠伝説SPECIAL](./紺珠伝説SPECIAL.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
+- [东风谷早苗](./东风谷早苗.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
+- [纯狐](./纯狐.md)
+- [克劳恩皮丝](./克劳恩皮丝.md)
+- [赫卡提亚·拉碧斯拉祖利](./赫卡提亚·拉碧斯拉祖利.md)
 
   
-源地址：[[1]](http://cool-create.cc/image/cczm01_j.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://cool-create.cc/image/cczm01_j.jpg)  
 
 ---
 

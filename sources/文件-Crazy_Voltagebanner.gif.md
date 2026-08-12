@@ -1,12 +1,8 @@
 # 文件:Crazy_Voltagebanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c4\ns6%3ACrazy_Voltagebanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c4\ns6%3ACrazy_Voltagebanner%2Egif.html -->
 
 Crazy_Voltage | 社团LOGO
-
-
-
-
 
 
 ---

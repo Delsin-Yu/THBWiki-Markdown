@@ -1,12 +1,8 @@
 # 文件:青蓝原子力发电所banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\37\ns6%3A%E9%9D%92%E8%93%9D%E5%8E%9F%E5%AD%90%E5%8A%9B%E5%8F%91%E7%94%B5%E6%89%80banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\37\ns6%3A%E9%9D%92%E8%93%9D%E5%8E%9F%E5%AD%90%E5%8A%9B%E5%8F%91%E7%94%B5%E6%89%80banner%2Ejpg.html -->
 
 社团LOGO | 青蓝原子力发电所
-
-
-
-
 
 
 ---

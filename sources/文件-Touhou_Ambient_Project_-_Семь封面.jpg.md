@@ -1,6 +1,6 @@
 # 文件:Touhou_Ambient_Project_-_Семь封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6e\ns6%3ATouhou_Ambient_Project_-_%D0%A1%D0%B5%D0%BC%D1%8C%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6e\ns6%3ATouhou_Ambient_Project_-_%D0%A1%D0%B5%D0%BC%D1%8C%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Stas_Gavrik | 专辑封面 | 封面图片
 
@@ -10,11 +10,9 @@ Stas_Gavrik | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Touhou Ambient Project - Семь](./Touhou_Ambient_Project_-_Семь.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)- [蕾蒂·霍瓦特洛克](./蕾蒂·霍瓦特洛克.md)
-
-
-
+- [Touhou Ambient Project - Семь](./Touhou_Ambient_Project_-_Семь.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
+- [蕾蒂·霍瓦特洛克](./蕾蒂·霍瓦特洛克.md)
 
 
 ---

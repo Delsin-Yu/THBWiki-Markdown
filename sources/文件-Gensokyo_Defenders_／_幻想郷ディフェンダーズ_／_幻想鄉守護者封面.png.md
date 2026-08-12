@@ -1,6 +1,6 @@
 # 文件:Gensokyo_Defenders_／_幻想郷ディフェンダーズ_／_幻想鄉守護者封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b1\ns6%3AGensokyo_Defenders_%EF%BC%8F_%E5%B9%BB%E6%83%B3%E9%83%B7%E3%83%87%E3%82%A3%E3%83%95%E3%82%A7%E3%83%B3%E3%83%80%E3%83%BC%E3%82%BA_%EF%BC%8F_%E5%B9%BB%E6%83%B3%E9%84%89%E5%AE%88%E8%AD%B7%E8%80%85%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b1\ns6%3AGensokyo_Defenders_%EF%BC%8F_%E5%B9%BB%E6%83%B3%E9%83%B7%E3%83%87%E3%82%A3%E3%83%95%E3%82%A7%E3%83%B3%E3%83%80%E3%83%BC%E3%82%BA_%EF%BC%8F_%E5%B9%BB%E6%83%B3%E9%84%89%E5%AE%88%E8%AD%B7%E8%80%85%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Neetpia | 封面图片 | 软件封面
 
@@ -8,11 +8,8 @@ Neetpia | 封面图片 | 软件封面
 使用了本文件作封面图片的作品：
   
 
-- [Gensokyo Defenders ／ 幻想郷ディフェンダーズ ／ 幻想鄉守護者](./Gensokyo_Defenders_／_幻想郷ディフェンダーズ_／_幻想鄉守護者.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)
-
-
-
+- [Gensokyo Defenders ／ 幻想郷ディフェンダーズ ／ 幻想鄉守護者](./Gensokyo_Defenders_／_幻想郷ディフェンダーズ_／_幻想鄉守護者.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
 
 
 ---

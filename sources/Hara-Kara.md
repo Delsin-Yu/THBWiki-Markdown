@@ -1,35 +1,29 @@
 # Hara-Kara
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\d\dd\ns0%3AHara-Kara.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\d\dd\ns0%3AHara-Kara.html -->
 
 Hara-Kara ，于 2001 年成立，主要制作 同人音乐 的日本同人社团，主催是 Frozen Voice，当前状态为 休止
 
-本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
-
+本页是关于**[同人社团](./二次创作.md#同人社团)**的词条
 ## 目录
 
 - [1 社团信息](#社团信息)
 - [2 成员名单](#成员名单)
 - [3 作品列表](#作品列表)
-
   - [3.1 同人专辑](#同人专辑)
-
 
 
 - [4 其他信息](#其他信息)
 
 
-
-
-
 ## 社团信息
-[](./文件-Hara-Karabanner.gif.md)  [](./文件-Hara-Karabanner.gif.md)banner
-
-<table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Hara-Kara </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2001-08-25</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=Frozen_Voice&amp;action=edit&amp;redlink=1" class="new" title="Frozen Voice（页面不存在）">Frozen Voice</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://fox.zero.ad.jp/~zam63535/hara-kara/">http://fox.zero.ad.jp/~zam63535/hara-kara/</a> <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span><small>（<a rel="nofollow" class="external text" href="https://web.archive.org/web/20070322135636/http://fox.zero.ad.jp/~zam63535/hara-kara/">缓存页面</a>）</small></td></tr></tbody></table>
+<img alt="" src="https://upload.thwiki.cc/3/3c/Hara-Karabanner.gif" decoding="async" loading="lazy" width="200" height="40" class="thumbimage" data-file-width="200" data-file-height="40">
+ [放大](./文件-Hara-Karabanner.gif.md)banner
+<table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Hara-Kara </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2001-08-25</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>主催</b></td><td> <a class="new" title="Frozen Voice（页面不存在）">Frozen Voice</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://fox.zero.ad.jp/~zam63535/hara-kara/">http://fox.zero.ad.jp/~zam63535/hara-kara/</a> <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span><small>（<a rel="nofollow" class="external text" href="https://web.archive.org/web/20070322135636/http://fox.zero.ad.jp/~zam63535/hara-kara/">缓存页面</a>）</small></td></tr></tbody></table>
 
 Hara-Kara（同人社团，同人音乐社团） - Hara-Kara ，于 2001 年成立，主要制作 同人音乐 的日本同人社团，主催是 Frozen Voice，当前状态为 休止
-
 ## 成员名单
+
 - Frozen Voice (未找到链接)
 - 130 (未找到链接)
 - Zerverius (未找到链接)
@@ -48,18 +42,10 @@ Hara-Kara（同人社团，同人音乐社团） - Hara-Kara ，于 2001 年成�
 ## 作品列表
 
 ### 同人专辑
-[](./Stardust_Reverie（同人专辑）.md)[Stardust Reverie](./Stardust_Reverie（同人专辑）.md)首发日期：2003-08-17 （Comic Market 64 (未找到链接)）PKHK-0002全长、​合作 （一般向）该作品是与 [PopKorn](./PopKorn.md) 合作创作的[](./prism_seal.md)[prism seal](./prism_seal.md)首发日期：2003-12-30 （Comic Market 65 (未找到链接)）PKHK-0003全长、​合作 （一般向）该作品是与 [PopKorn](./PopKorn.md) 合作创作的
-<table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
-
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
-</table>
-
-
+- **[Stardust Reverie](./Stardust_Reverie（同人专辑）.md)** — 首发日期：2003-08-17 （Comic Market 64）；PKHK-0002；全长、​合作 （一般向）；该作品是与 PopKorn 合作创作的
+- **[prism seal](./prism_seal.md)** — 首发日期：2003-12-30 （Comic Market 65）；PKHK-0003；全长、​合作 （一般向）；该作品是与 PopKorn 合作创作的
 
 ## 其他信息
-
-
-
 
 ---
 

@@ -1,16 +1,12 @@
 # 模板:POP_FANTASY
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\8\86\ns10%3APOP_FANTASY.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\8\86\ns10%3APOP_FANTASY.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

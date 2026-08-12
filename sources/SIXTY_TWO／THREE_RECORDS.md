@@ -1,35 +1,29 @@
 # SIXTY_TWO／THREE_RECORDS
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\d\df\ns0%3ASIXTY_TWO%EF%BC%8FTHREE_RECORDS.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\d\df\ns0%3ASIXTY_TWO%EF%BC%8FTHREE_RECORDS.html -->
 
 SIXTY TWO/THREE RECORDS ，主要制作 同人音乐 的日本同人社团，主催是 東行堺恵都
 
-本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
-
+本页是关于**[同人社团](./二次创作.md#同人社团)**的词条
 ## 目录
 
 - [1 社团信息](#社团信息)
 - [2 成员名单](#成员名单)
 - [3 作品列表](#作品列表)
-
   - [3.1 同人专辑](#同人专辑)
-
 
 
 - [4 其他信息](#其他信息)
 
 
-
-
-
 ## 社团信息
-[](./文件-SIXTY_TWO／THREE_RECORDSlogo.png.md)  [](./文件-SIXTY_TWO／THREE_RECORDSlogo.png.md)logo
-
-<table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> SIXTY TWO/THREE RECORDS </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>当前状态</b></td><td>未知</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=%E6%9D%B1%E8%A1%8C%E5%A0%BA%E6%81%B5%E9%83%BD&amp;action=edit&amp;redlink=1" class="new" title="東行堺恵都（页面不存在）">東行堺恵都</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://sixtytwothree.zouri.jp/">http://sixtytwothree.zouri.jp/</a> </td></tr></tbody></table>
+<img alt="" src="https://upload.thwiki.cc/thumb/b/b1/SIXTY_TWO%EF%BC%8FTHREE_RECORDSlogo.png/200px-SIXTY_TWO%EF%BC%8FTHREE_RECORDSlogo.png" decoding="async" loading="lazy" width="200" height="200" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/b/b1/SIXTY_TWO%EF%BC%8FTHREE_RECORDSlogo.png/300px-SIXTY_TWO%EF%BC%8FTHREE_RECORDSlogo.png 1.5x, https://upload.thwiki.cc/b/b1/SIXTY_TWO%EF%BC%8FTHREE_RECORDSlogo.png 2x" data-file-width="400" data-file-height="400">
+ [放大](./文件-SIXTY_TWO／THREE_RECORDSlogo.png.md)logo
+<table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> SIXTY TWO/THREE RECORDS </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>当前状态</b></td><td>未知</td></tr><tr><td><b>主催</b></td><td> <a class="new" title="東行堺恵都（页面不存在）">東行堺恵都</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://sixtytwothree.zouri.jp/">http://sixtytwothree.zouri.jp/</a> </td></tr></tbody></table>
 
 SIXTY TWO／THREE RECORDS（同人社团，同人音乐社团） - SIXTY TWO/THREE RECORDS ，主要制作 同人音乐 的日本同人社团，主催是 東行堺恵都
-
 ## 成员名单
+
 - 東行堺恵都 (未找到链接)
 - GELL (未找到链接) ([EASTARS](./EASTARS.md))
 - にと夫 (未找到链接) ([幻想遊牧民](./幻想遊牧民.md))
@@ -42,16 +36,9 @@ SIXTY TWO／THREE RECORDS（同人社团，同人音乐社团） - SIXTY TWO/THR
 ## 作品列表
 
 ### 同人专辑
-[](./ST／TR_SAMPLER_VOL.2.md)[ST/TR SAMPLER vol.2](./ST／TR_SAMPLER_VOL.2.md)首发日期：2013-10-13 （東方紅楼夢9 (未找到链接)）合作、​Live （一般向）
-<table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
-</table>
-
-
+- **[ST/TR SAMPLER vol.2](./ST／TR_SAMPLER_VOL.2.md)** — 首发日期：2013-10-13 （東方紅楼夢9）；合作、​Live （一般向）
 
 ## 其他信息
-
-
-
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:DEMO＃2（Aqua_Blend_Server）封面.webp
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\17\ns6%3ADEMO%EF%BC%832%EF%BC%88Aqua_Blend_Server%EF%BC%89%E5%B0%81%E9%9D%A2%2Ewebp.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\17\ns6%3ADEMO%EF%BC%832%EF%BC%88Aqua_Blend_Server%EF%BC%89%E5%B0%81%E9%9D%A2%2Ewebp.html -->
 
 Aqua_Blend_Server | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ Aqua_Blend_Server | 专辑封面 | 封面图片
   
 
 - [DEMO＃2（Aqua Blend Server）](./DEMO＃2（Aqua_Blend_Server）.md)
-
-
-
 
 
 ---

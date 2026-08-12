@@ -1,6 +1,6 @@
 # 文件:WiNGS_-_10th_anniversary_BEST_-封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ca\ns6%3AWiNGS_-_10th_anniversary_BEST_-%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ca\ns6%3AWiNGS_-_10th_anniversary_BEST_-%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 DiGiTAL_WiNG | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ DiGiTAL_WiNG | 专辑封面 | 封面图片
   
 
 - [WiNGS - 10th anniversary BEST -](./WiNGS_-_10th_anniversary_BEST_-.md)
-
-
-
 
 
 ---

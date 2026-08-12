@@ -1,6 +1,6 @@
 # 文件:東方吹奏樂団_第七回演奏会_生演奏CD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\19\ns6%3A%E6%9D%B1%E6%96%B9%E5%90%B9%E5%A5%8F%E6%A8%82%E5%9B%A3_%E7%AC%AC%E4%B8%83%E5%9B%9E%E6%BC%94%E5%A5%8F%E4%BC%9A_%E7%94%9F%E6%BC%94%E5%A5%8FCD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\19\ns6%3A%E6%9D%B1%E6%96%B9%E5%90%B9%E5%A5%8F%E6%A8%82%E5%9B%A3_%E7%AC%AC%E4%B8%83%E5%9B%9E%E6%BC%94%E5%A5%8F%E4%BC%9A_%E7%94%9F%E6%BC%94%E5%A5%8FCD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 東方吹奏樂団
 
@@ -11,9 +11,6 @@
   
 
 - [東方吹奏樂団 第七回演奏会 生演奏CD](./東方吹奏樂団_第七回演奏会_生演奏CD.md)
-
-
-
 
 
 ---

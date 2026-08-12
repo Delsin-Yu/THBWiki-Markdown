@@ -1,16 +1,11 @@
 # 文件:LTEDTXbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d3\ns6%3ALTEDTXbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d3\ns6%3ALTEDTXbanner%2Epng.html -->
 
 LTEDTX | 社团LOGO
 
   
-源地址：[[1]](https://ltedtx.files.wordpress.com/2018/12/cropped-lte_brtw_jkt_duckfaith-6.png)
-  
-
-
-
-
+源地址：[\[1\]](https://ltedtx.files.wordpress.com/2018/12/cropped-lte_brtw_jkt_duckfaith-6.png)  
 
 ---
 

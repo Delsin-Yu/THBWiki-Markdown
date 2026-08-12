@@ -1,6 +1,6 @@
 # 文件:東方L○UDPARK封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5f\ns6%3A%E6%9D%B1%E6%96%B9L%E2%97%8BUDPARK%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5f\ns6%3A%E6%9D%B1%E6%96%B9L%E2%97%8BUDPARK%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 FLANKER | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ FLANKER | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方L○UDPARK](./東方L○UDPARK.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)
+- [東方L○UDPARK](./東方L○UDPARK.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
 
   
-源地址:[http&#160;://flankerdoujin.web.fc2.com/t9/touhouraupao. jpg](http://flankerdoujin.web.fc2.com/t9/touhouraupao.jpg)
-  
-
-
-
-
+源地址:[http ://flankerdoujin.web.fc2.com/t9/touhouraupao. jpg](http://flankerdoujin.web.fc2.com/t9/touhouraupao.jpg)  
 
 ---
 

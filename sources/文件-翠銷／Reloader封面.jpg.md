@@ -1,6 +1,6 @@
 # 文件:翠銷／Reloader封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8c\ns6%3A%E7%BF%A0%E9%8A%B7%EF%BC%8FReloader%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8c\ns6%3A%E7%BF%A0%E9%8A%B7%EF%BC%8FReloader%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 茜音色タウン
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [翠銷／Reloader](./翠銷／Reloader.md)  
-该封面包含的角色：- [键山雏](./键山雏.md)
-
-
-
+- [翠銷／Reloader](./翠銷／Reloader.md)该封面包含的角色：
+- [键山雏](./键山雏.md)
 
 
 ---

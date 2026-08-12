@@ -1,6 +1,6 @@
 # 文件:CYBER_2HU_PS1_AMIGA_MUSIC封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\eb\ns6%3ACYBER_2HU_PS1_AMIGA_MUSIC%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\eb\ns6%3ACYBER_2HU_PS1_AMIGA_MUSIC%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 ARC＝SION＝CIRCLE | 专辑封面 | 封面图片
 
@@ -10,16 +10,12 @@ ARC＝SION＝CIRCLE | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [CYBER 2HU PS1 AMIGA MUSIC](./CYBER_2HU_PS1_AMIGA_MUSIC.md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)
+- [CYBER 2HU PS1 AMIGA MUSIC](./CYBER_2HU_PS1_AMIGA_MUSIC.md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
 
   
 included in download
   
-
-
-
-
 
 ---
 

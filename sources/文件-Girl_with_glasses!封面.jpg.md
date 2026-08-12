@@ -1,6 +1,6 @@
 # 文件:Girl_with_glasses!封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\be\ns6%3AGirl_with_glasses%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\be\ns6%3AGirl_with_glasses%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 flat | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@ flat | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Girl with glasses!](./Girl_with_glasses!.md)  
-该封面包含的角色：- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
+- [Girl with glasses!](./Girl_with_glasses!.md)该封面包含的角色：
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
 
   
-[Nico Seiga ID: 3307347 (original size)](https://seiga.nicovideo.jp/seiga/im3307347)
-  
-
-
-
-
+[Nico Seiga ID: 3307347 (original size)](https://seiga.nicovideo.jp/seiga/im3307347)  
 
 ---
 

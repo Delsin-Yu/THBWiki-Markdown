@@ -1,6 +1,6 @@
 # 文件:Firefly_Hops(On_Vocal)封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\22\ns6%3AFirefly_Hops%28On_Vocal%29%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\22\ns6%3AFirefly_Hops%28On_Vocal%29%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ゼッケン屋 | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Firefly Hops(On Vocal)](./Firefly_Hops(On_Vocal).md)  
-该封面包含的角色：- [莉格露·奈特巴格](./莉格露·奈特巴格.md)
-
-
-
+- [Firefly Hops(On Vocal)](./Firefly_Hops(On_Vocal%29.md)该封面包含的角色：
+- [莉格露·奈特巴格](./莉格露·奈特巴格.md)
 
 
 ---

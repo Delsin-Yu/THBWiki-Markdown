@@ -1,6 +1,6 @@
 # 文件:東方夢現境（仮）_Preview_Disc_2封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c1\ns6%3A%E6%9D%B1%E6%96%B9%E5%A4%A2%E7%8F%BE%E5%A2%83%EF%BC%88%E4%BB%AE%EF%BC%89_Preview_Disc_2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c1\ns6%3A%E6%9D%B1%E6%96%B9%E5%A4%A2%E7%8F%BE%E5%A2%83%EF%BC%88%E4%BB%AE%EF%BC%89_Preview_Disc_2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 文鸟Online。
 
@@ -9,9 +9,6 @@
   
 
 - [東方夢現境（仮） Preview Disc 2](./東方夢現境（仮）_Preview_Disc_2.md)
-
-
-
 
 
 ---

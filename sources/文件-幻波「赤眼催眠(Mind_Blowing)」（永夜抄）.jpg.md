@@ -1,12 +1,8 @@
 # 文件:幻波「赤眼催眠(Mind_Blowing)」（永夜抄）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\82\ns6%3A%E5%B9%BB%E6%B3%A2%E3%80%8C%E8%B5%A4%E7%9C%BC%E5%82%AC%E7%9C%A0%28Mind_Blowing%29%E3%80%8D%EF%BC%88%E6%B0%B8%E5%A4%9C%E6%8A%84%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\82\ns6%3A%E5%B9%BB%E6%B3%A2%E3%80%8C%E8%B5%A4%E7%9C%BC%E5%82%AC%E7%9C%A0%28Mind_Blowing%29%E3%80%8D%EF%BC%88%E6%B0%B8%E5%A4%9C%E6%8A%84%EF%BC%89%2Ejpg.html -->
 
 东方永夜抄 | 敌机符卡 | 铃仙·优昙华院·因幡
-
-
-
-
 
 
 ---

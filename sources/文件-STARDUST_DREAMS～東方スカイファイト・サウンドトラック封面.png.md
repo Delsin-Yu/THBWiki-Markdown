@@ -1,6 +1,6 @@
 # 文件:STARDUST_DREAMS～東方スカイファイト・サウンドトラック封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2b\ns6%3ASTARDUST_DREAMS%EF%BD%9E%E6%9D%B1%E6%96%B9%E3%82%B9%E3%82%AB%E3%82%A4%E3%83%95%E3%82%A1%E3%82%A4%E3%83%88%E3%83%BB%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2b\ns6%3ASTARDUST_DREAMS%EF%BD%9E%E6%9D%B1%E6%96%B9%E3%82%B9%E3%82%AB%E3%82%A4%E3%83%95%E3%82%A1%E3%82%A4%E3%83%88%E3%83%BB%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 領域ZERO
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [STARDUST DREAMS～東方スカイファイト・サウンドトラック](./STARDUST_DREAMS～東方スカイファイト・サウンドトラック.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [STARDUST DREAMS～東方スカイファイト・サウンドトラック](./STARDUST_DREAMS～東方スカイファイト・サウンドトラック.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

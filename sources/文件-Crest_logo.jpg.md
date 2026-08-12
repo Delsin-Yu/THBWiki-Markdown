@@ -1,12 +1,8 @@
 # 文件:Crest_logo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0d\ns6%3ACrest_logo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0d\ns6%3ACrest_logo%2Ejpg.html -->
 
 Crest | 社团LOGO
-
-
-
-
 
 
 ---

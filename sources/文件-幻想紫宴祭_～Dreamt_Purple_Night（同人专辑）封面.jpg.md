@@ -1,6 +1,6 @@
 # 文件:幻想紫宴祭_～Dreamt_Purple_Night（同人专辑）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1a\ns6%3A%E5%B9%BB%E6%83%B3%E7%B4%AB%E5%AE%B4%E7%A5%AD_%EF%BD%9EDreamt_Purple_Night%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1a\ns6%3A%E5%B9%BB%E6%83%B3%E7%B4%AB%E5%AE%B4%E7%A5%AD_%EF%BD%9EDreamt_Purple_Night%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 モーザン倶楽部 | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [幻想紫宴祭 ～Dreamt Purple Night（同人专辑）](./幻想紫宴祭_～Dreamt_Purple_Night（同人专辑）.md)  
-该封面包含的角色：- [八云紫](./八云紫.md)
+- [幻想紫宴祭 ～Dreamt Purple Night（同人专辑）](./幻想紫宴祭_～Dreamt_Purple_Night（同人专辑）.md)该封面包含的角色：
+- [八云紫](./八云紫.md)
 
   
-源地址：[[1]](https://web.archive.org/web/20110717071233im_/http://www.geocities.jp/pt_mozan/jake2.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://web.archive.org/web/20110717071233im_/http://www.geocities.jp/pt_mozan/jake2.jpg)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:「心風」イベント特典CD_枚数限定なんだからねっ！！封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\81\ns6%3A%E3%80%8C%E5%BF%83%E9%A2%A8%E3%80%8D%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E7%89%B9%E5%85%B8CD_%E6%9E%9A%E6%95%B0%E9%99%90%E5%AE%9A%E3%81%AA%E3%82%93%E3%81%A0%E3%81%8B%E3%82%89%E3%81%AD%E3%81%A3%EF%BC%81%EF%BC%81%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\81\ns6%3A%E3%80%8C%E5%BF%83%E9%A2%A8%E3%80%8D%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E7%89%B9%E5%85%B8CD_%E6%9E%9A%E6%95%B0%E9%99%90%E5%AE%9A%E3%81%AA%E3%82%93%E3%81%A0%E3%81%8B%E3%82%89%E3%81%AD%E3%81%A3%EF%BC%81%EF%BC%81%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Like_a_rabbit | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Like_a_rabbit | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [「心風」イベント特典CD 枚数限定なんだからねっ！！](./「心風」イベント特典CD_枚数限定なんだからねっ！！.md)  
-该封面包含的角色：- [西行寺幽幽子](./西行寺幽幽子.md)
-
-
-
+- [「心風」イベント特典CD 枚数限定なんだからねっ！！](./「心風」イベント特典CD_枚数限定なんだからねっ！！.md)该封面包含的角色：
+- [西行寺幽幽子](./西行寺幽幽子.md)
 
 
 ---

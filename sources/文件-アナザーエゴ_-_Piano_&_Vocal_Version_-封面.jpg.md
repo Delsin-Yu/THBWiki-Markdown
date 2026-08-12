@@ -1,6 +1,6 @@
 # 文件:アナザーエゴ_-_Piano_&_Vocal_Version_-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e1\ns6%3A%E3%82%A2%E3%83%8A%E3%82%B6%E3%83%BC%E3%82%A8%E3%82%B4_-_Piano_%26_Vocal_Version_-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e1\ns6%3A%E3%82%A2%E3%83%8A%E3%82%B6%E3%83%BC%E3%82%A8%E3%82%B4_-_Piano_%26_Vocal_Version_-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Liz_Triangle | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Liz_Triangle | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [アナザーエゴ - Piano &amp; Vocal Version -](./アナザーエゴ_-_Piano_&_Vocal_Version_-.md)  
-该封面包含的角色：- [古明地恋](./古明地恋.md)
-
-
-
+- [アナザーエゴ - Piano & Vocal Version -](./アナザーエゴ_-_Piano_&_Vocal_Version_-.md)该封面包含的角色：
+- [古明地恋](./古明地恋.md)
 
 
 ---

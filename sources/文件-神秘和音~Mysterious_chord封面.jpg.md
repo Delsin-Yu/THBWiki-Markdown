@@ -1,6 +1,6 @@
 # 文件:神秘和音~Mysterious_chord封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\db\ns6%3A%E7%A5%9E%E7%A7%98%E5%92%8C%E9%9F%B3%7EMysterious_chord%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\db\ns6%3A%E7%A5%9E%E7%A7%98%E5%92%8C%E9%9F%B3%7EMysterious_chord%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 流派未階堂
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [神秘和音~Mysterious chord](./神秘和音~Mysterious_chord.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
-
-
-
+- [神秘和音~Mysterious chord](./神秘和音~Mysterious_chord.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
 
 ---

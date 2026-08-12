@@ -1,16 +1,12 @@
 # 模板:NICO乐祭/届名
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\4\4f\ns10%3ANICO%E4%B9%90%E7%A5%AD%2F%E5%B1%8A%E5%90%8D.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\4\4f\ns10%3ANICO%E4%B9%90%E7%A5%AD%2F%E5%B1%8A%E5%90%8D.html -->
 
 活动届名模板
 
   
 东方NICO乐祭
   
-
-
-
-
 
 ---
 

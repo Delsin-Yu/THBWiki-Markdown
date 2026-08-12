@@ -1,6 +1,6 @@
 # 文件:TOUHOU_WIND_ORCHESTRA_第四回定期演奏会_体験版封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cf\ns6%3ATOUHOU_WIND_ORCHESTRA_%E7%AC%AC%E5%9B%9B%E5%9B%9E%E5%AE%9A%E6%9C%9F%E6%BC%94%E5%A5%8F%E4%BC%9A_%E4%BD%93%E9%A8%93%E7%89%88%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cf\ns6%3ATOUHOU_WIND_ORCHESTRA_%E7%AC%AC%E5%9B%9B%E5%9B%9E%E5%AE%9A%E6%9C%9F%E6%BC%94%E5%A5%8F%E4%BC%9A_%E4%BD%93%E9%A8%93%E7%89%88%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 東方吹奏樂団
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [TOUHOU WIND ORCHESTRA 第四回定期演奏会 体験版](./TOUHOU_WIND_ORCHESTRA_第四回定期演奏会_体験版.md)  
-该封面包含的角色：- [丰聪耳神子](./丰聪耳神子.md)
-
-
-
+- [TOUHOU WIND ORCHESTRA 第四回定期演奏会 体験版](./TOUHOU_WIND_ORCHESTRA_第四回定期演奏会_体験版.md)该封面包含的角色：
+- [丰聪耳神子](./丰聪耳神子.md)
 
 
 ---

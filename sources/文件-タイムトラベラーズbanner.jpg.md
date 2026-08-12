@@ -1,18 +1,13 @@
 # 文件:タイムトラベラーズbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\41\ns6%3A%E3%82%BF%E3%82%A4%E3%83%A0%E3%83%88%E3%83%A9%E3%83%99%E3%83%A9%E3%83%BC%E3%82%BAbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\41\ns6%3A%E3%82%BF%E3%82%A4%E3%83%A0%E3%83%88%E3%83%A9%E3%83%99%E3%83%A9%E3%83%BC%E3%82%BAbanner%2Ejpg.html -->
 
 タイムトラベラーズ | 社团LOGO
 
 
 ## 摘要
   
-源地址：[direct image link](http://mitukihiro.web.fc2.com/gazou/bana2.jpg), [source page](http://mitukihiro.web.fc2.com/)
-  
-
-
-
-
+源地址：[direct image link](http://mitukihiro.web.fc2.com/gazou/bana2.jpg), [source page](http://mitukihiro.web.fc2.com/)  
 
 ---
 

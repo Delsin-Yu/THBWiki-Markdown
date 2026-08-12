@@ -1,6 +1,6 @@
 # 文件:四季_-秋-_NIGHT_of_soul's封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\57\ns6%3A%E5%9B%9B%E5%AD%A3_-%E7%A7%8B-_NIGHT_of_soul%27s%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\57\ns6%3A%E5%9B%9B%E5%AD%A3_-%E7%A7%8B-_NIGHT_of_soul%27s%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 t=NODE | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ t=NODE | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [四季 -秋- NIGHT of soul's](./四季_-秋-_NIGHT_of_soul's.md)  
-该封面包含的角色：- [八意永琳](./八意永琳.md)
-
-
-
+- [四季 -秋- NIGHT of soul's](./四季_-秋-_NIGHT_of_soul's.md)该封面包含的角色：
+- [八意永琳](./八意永琳.md)
 
 
 ---

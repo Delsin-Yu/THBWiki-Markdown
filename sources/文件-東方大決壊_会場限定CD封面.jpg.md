@@ -1,6 +1,6 @@
 # 文件:東方大決壊_会場限定CD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dc\ns6%3A%E6%9D%B1%E6%96%B9%E5%A4%A7%E6%B1%BA%E5%A3%8A_%E4%BC%9A%E5%A0%B4%E9%99%90%E5%AE%9ACD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dc\ns6%3A%E6%9D%B1%E6%96%B9%E5%A4%A7%E6%B1%BA%E5%A3%8A_%E4%BC%9A%E5%A0%B4%E9%99%90%E5%AE%9ACD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 クラゲノボーン | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方大決壊 会場限定CD](./東方大決壊_会場限定CD.md)  
-该封面包含的角色：- [伊吹萃香](./伊吹萃香.md)
-
-
-
+- [東方大決壊 会場限定CD](./東方大決壊_会場限定CD.md)该封面包含的角色：
+- [伊吹萃香](./伊吹萃香.md)
 
 
 ---

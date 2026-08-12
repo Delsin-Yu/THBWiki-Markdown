@@ -1,12 +1,8 @@
 # 文件:ギロチン銀座banner2.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\59\ns6%3A%E3%82%AE%E3%83%AD%E3%83%81%E3%83%B3%E9%8A%80%E5%BA%A7banner2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\59\ns6%3A%E3%82%AE%E3%83%AD%E3%83%81%E3%83%B3%E9%8A%80%E5%BA%A7banner2%2Ejpg.html -->
 
 ギロチン銀座 | 社团LOGO
-
-
-
-
 
 
 ---

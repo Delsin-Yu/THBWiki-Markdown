@@ -1,6 +1,6 @@
 # 文件:RAVER'S_NEST_BEST_2014_TOHO_HYPER_RAVE_SPECIAL_INSTRUMENTAL_SIDE封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1b\ns6%3ARAVER%27S_NEST_BEST_2014_TOHO_HYPER_RAVE_SPECIAL_INSTRUMENTAL_SIDE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1b\ns6%3ARAVER%27S_NEST_BEST_2014_TOHO_HYPER_RAVE_SPECIAL_INSTRUMENTAL_SIDE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 DiGiTAL_WiNG | 专辑封面 | 封面图片
 
@@ -8,11 +8,10 @@ DiGiTAL_WiNG | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [RAVER'S NEST BEST 2014 TOHO HYPER RAVE SPECIAL INSTRUMENTAL SIDE](./RAVER'S_NEST_BEST_2014_TOHO_HYPER_RAVE_SPECIAL_INSTRUMENTAL_SIDE.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)- [博丽灵梦](./博丽灵梦.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [RAVER'S NEST BEST 2014 TOHO HYPER RAVE SPECIAL INSTRUMENTAL SIDE](./RAVER'S_NEST_BEST_2014_TOHO_HYPER_RAVE_SPECIAL_INSTRUMENTAL_SIDE.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
+- [博丽灵梦](./博丽灵梦.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

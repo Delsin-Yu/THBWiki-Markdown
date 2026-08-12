@@ -1,6 +1,6 @@
 # 文件:IOSYS_ALL_TIME_TOHO_BEST_COLLECTION封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\58\ns6%3AIOSYS_ALL_TIME_TOHO_BEST_COLLECTION%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\58\ns6%3AIOSYS_ALL_TIME_TOHO_BEST_COLLECTION%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 IOSYS | 专辑封面 | 封面图片
 
@@ -10,11 +10,10 @@ IOSYS | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [IOSYS ALL TIME TOHO BEST COLLECTION](./IOSYS_ALL_TIME_TOHO_BEST_COLLECTION.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)- [博丽灵梦](./博丽灵梦.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [IOSYS ALL TIME TOHO BEST COLLECTION](./IOSYS_ALL_TIME_TOHO_BEST_COLLECTION.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
+- [博丽灵梦](./博丽灵梦.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

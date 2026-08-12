@@ -1,6 +1,6 @@
 # 文件:Alice_in_wonderland（同人专辑）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c2\ns6%3AAlice_in_wonderland%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c2\ns6%3AAlice_in_wonderland%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 schwarzwald | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ schwarzwald | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Alice in wonderland（同人专辑）](./Alice_in_wonderland（同人专辑）.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [Alice in wonderland（同人专辑）](./Alice_in_wonderland（同人专辑）.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
 
   
-源地址：[[1]](http://www.toranoana.jp/mailorder/article/04/0010/21/67/040010216759.html)
-  
-
-
-
-
+源地址：[\[1\]](http://www.toranoana.jp/mailorder/article/04/0010/21/67/040010216759.html)  
 
 ---
 

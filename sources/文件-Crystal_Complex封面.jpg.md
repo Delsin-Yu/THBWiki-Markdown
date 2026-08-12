@@ -1,6 +1,6 @@
 # 文件:Crystal_Complex封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bf\ns6%3ACrystal_Complex%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bf\ns6%3ACrystal_Complex%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Aqua_Blend_Server | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Aqua_Blend_Server | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Crystal Complex](./Crystal_Complex.md)  
-该封面包含的角色：- [伊吹萃香](./伊吹萃香.md)
-
-
-
+- [Crystal Complex](./Crystal_Complex.md)该封面包含的角色：
+- [伊吹萃香](./伊吹萃香.md)
 
 
 ---

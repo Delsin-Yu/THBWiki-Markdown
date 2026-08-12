@@ -1,6 +1,6 @@
 # 文件:green_saturday封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\18\ns6%3Agreen_saturday%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\18\ns6%3Agreen_saturday%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 給食頭蛮
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [green saturday](./green_saturday.md)  
-该封面包含的角色：- [水桥帕露西](./水桥帕露西.md)
-
-
-
+- [green saturday](./green_saturday.md)该封面包含的角色：
+- [水桥帕露西](./水桥帕露西.md)
 
 
 ---

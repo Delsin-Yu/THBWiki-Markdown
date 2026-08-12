@@ -1,12 +1,8 @@
 # 文件:星符「Satellite_Illusion」2（心绮楼）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e6\ns6%3A%E6%98%9F%E7%AC%A6%E3%80%8CSatellite_Illusion%E3%80%8D2%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e6\ns6%3A%E6%98%9F%E7%AC%A6%E3%80%8CSatellite_Illusion%E3%80%8D2%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%EF%BC%89%2Epng.html -->
 
 东方心绮楼 | 自机符卡 | 雾雨魔理沙
-
-
-
-
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:花映塚米斯蒂娅Ex.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b0\ns6%3A%E8%8A%B1%E6%98%A0%E5%A1%9A%E7%B1%B3%E6%96%AF%E8%92%82%E5%A8%85Ex%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b0\ns6%3A%E8%8A%B1%E6%98%A0%E5%A1%9A%E7%B1%B3%E6%96%AF%E8%92%82%E5%A8%85Ex%2Epng.html -->
 
 东方花映塚 | 米斯蒂娅·萝蕾拉
-
-
-
-
 
 
 ---

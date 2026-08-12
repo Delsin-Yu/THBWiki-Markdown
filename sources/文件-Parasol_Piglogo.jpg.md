@@ -1,18 +1,13 @@
 # 文件:Parasol_Piglogo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\82\ns6%3AParasol_Piglogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\82\ns6%3AParasol_Piglogo%2Ejpg.html -->
 
 Parasol_Pig | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[[1]](https://booth.pximg.net/c/128x128/users/141438/icon_image/0558a3df-769b-4ac1-8d39-c08e852f7e82_base_resized.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://booth.pximg.net/c/128x128/users/141438/icon_image/0558a3df-769b-4ac1-8d39-c08e852f7e82_base_resized.jpg)  
 
 ---
 

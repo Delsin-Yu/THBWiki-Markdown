@@ -1,6 +1,6 @@
 # 文件:東方ノ森~Sonata_tra_le_foglie封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8b\ns6%3A%E6%9D%B1%E6%96%B9%E3%83%8E%E6%A3%AE%7ESonata_tra_le_foglie%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8b\ns6%3A%E6%9D%B1%E6%96%B9%E3%83%8E%E6%A3%AE%7ESonata_tra_le_foglie%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 疯帽子茶会
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方ノ森~Sonata tra le foglie](./東方ノ森~Sonata_tra_le_foglie.md)  
-该封面包含的角色：- [若鹭姬](./若鹭姬.md)
+- [東方ノ森~Sonata tra le foglie](./東方ノ森~Sonata_tra_le_foglie.md)该封面包含的角色：
+- [若鹭姬](./若鹭姬.md)
 
   
-源地址：[[1]](https://gd1.alicdn.com/bao/uploaded/i1/TB19RvnKVXXXXbSXVXXXXXXXXXX_!!0-item_pic.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://gd1.alicdn.com/bao/uploaded/i1/TB19RvnKVXXXXbSXVXXXXXXXXXX_!!0-item_pic.jpg)  
 
 ---
 

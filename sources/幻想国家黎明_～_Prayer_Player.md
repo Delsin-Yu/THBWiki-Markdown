@@ -1,30 +1,22 @@
 # 幻想国家黎明_～_Prayer_Player
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\2c\ns0%3A%E5%B9%BB%E6%83%B3%E5%9B%BD%E5%AE%B6%E9%BB%8E%E6%98%8E_%EF%BD%9E_Prayer_Player.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\2c\ns0%3A%E5%B9%BB%E6%83%B3%E5%9B%BD%E5%AE%B6%E9%BB%8E%E6%98%8E_%EF%BD%9E_Prayer_Player.html -->
 
 由 Wanwan 创作的东方风自作曲，原名 幻想国家黎明　～ Prayer Player
 
 本页是关于东方Project  
- **东方风自作曲** 的词条
-
+**东方风自作曲**的词条
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 出现作品](#出现作品)
 - [3 说明文本](#说明文本)
-
   - [3.1 东方桃源宫](#东方桃源宫)
 
 
-
 - [4 其他资料](#其他资料)
-
   - [4.1 乐理资讯](#乐理资讯)
   - [4.2 分析考据](#分析考据)
-
-
-
-
 
 
 
@@ -34,7 +26,6 @@
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">幻想国家黎明　～ Prayer Player</td></tr><tr><td><b>译名</b></td><td>幻想国家黎明 ～ Prayer Player</td></tr><tr><td><b>作曲</b></td><td><a href="./Wanwan.md" title="Wanwan">Wanwan</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 幻想国家黎明 ～ Prayer Player（曲目） - 由 Wanwan 创作的东方风自作曲，原名 幻想国家黎明　～ Prayer Player
-
 ## 出现作品
 
 <table>
@@ -42,15 +33,14 @@
 </tbody></table>
 
 
-
 ## 说明文本
 
 ### 东方桃源宫
-- Music Room (未找到链接)
+
+- [Music Room](./東方桃源宮_～_Riverbed_Soul_Saver.-音乐.md#6面boss-_邪马台与桃姬主题曲)
 
   
 邪马台与桃姬的主题曲。  
-
   
   
 虽然是最终BOSS的主题曲，不过并不怎么沉重，是相当欢乐的曲子。  
@@ -58,10 +48,9 @@
 像“金字塔能”这样不可思议的力量在世界各地有很多，  
 
 我中学的时候，对自己的存在感到非常地不可思议……  
-
   
 
-- 里音乐评论 (未找到链接)
+- [里音乐评论](./東方桃源宮_～_Riverbed_Soul_Saver.-Soundtrack_Readme.md#童祭版)
 
   
 邪马台与桃姬的主题曲。  
@@ -94,7 +83,6 @@
 顺便一提桃子我喜欢吃硬的。【ido】
   
 
-
 ## 其他资料
 
 ### 乐理资讯
@@ -103,10 +91,6 @@
   
 其实是真珠岛疮痍原曲
   
-
-
-
-
 
 ---
 

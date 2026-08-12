@@ -1,18 +1,13 @@
 # 文件:Stolen_Life封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\09\ns6%3AStolen_Life%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\09\ns6%3AStolen_Life%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Another_Place | 专辑封面 | 封面图片
 
 
 ## 摘要
   
-源地址：[direct image link (original size; cropped to cover)](https://pbs.twimg.com/media/F8cWy8sbIAAzDUJ?format=jpg&amp;name=orig), [source tweet](https://twitter.com/8tech5/status/1713363254809149931)
-  
-
-
-
-
+源地址：[direct image link (original size; cropped to cover)](https://pbs.twimg.com/media/F8cWy8sbIAAzDUJ?format=jpg&name=orig), [source tweet](https://twitter.com/8tech5/status/1713363254809149931)  
 
 ---
 

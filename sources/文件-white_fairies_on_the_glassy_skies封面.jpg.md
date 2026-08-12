@@ -1,6 +1,6 @@
 # 文件:white_fairies_on_the_glassy_skies封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\25\ns6%3Awhite_fairies_on_the_glassy_skies%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\25\ns6%3Awhite_fairies_on_the_glassy_skies%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Silent_Sphere | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ Silent_Sphere | 专辑封面 | 封面图片
   
 
 - [white fairies on the glassy skies](./white_fairies_on_the_glassy_skies.md)
-
-
-
 
 
 ---

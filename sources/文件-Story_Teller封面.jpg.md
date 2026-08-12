@@ -1,6 +1,6 @@
 # 文件:Story_Teller封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e5\ns6%3AStory_Teller%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e5\ns6%3AStory_Teller%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Magical☆Shrine_Maiden | 专辑封面 | 封面图片
 
@@ -13,12 +13,7 @@ Magical☆Shrine_Maiden | 专辑封面 | 封面图片
 - [Story Teller](./Story_Teller.md)
 
   
-源地址：[direct image link](https://sun9-58.userapi.com/c623729/v623729207/a5c8/yOb9v3ManJs.jpg?size=700x700&amp;quality=96&amp;sign=913ad624b4ec6ead56b33ef3cb867754&amp;c_uniq_tag=DxSYk0zjusVjF5zHDK5kkSs_zSyLj6YmrJzFh0X3Rzg&amp;type=album), [source page](https://vk.com/wall-71195928_1075)
-  
-
-
-
-
+源地址：[direct image link](https://sun9-58.userapi.com/c623729/v623729207/a5c8/yOb9v3ManJs.jpg?size=700x700&quality=96&sign=913ad624b4ec6ead56b33ef3cb867754&c_uniq_tag=DxSYk0zjusVjF5zHDK5kkSs_zSyLj6YmrJzFh0X3Rzg&type=album), [source page](https://vk.com/wall-71195928_1075)  
 
 ---
 

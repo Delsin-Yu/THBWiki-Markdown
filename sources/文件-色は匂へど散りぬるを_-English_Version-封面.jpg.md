@@ -1,6 +1,6 @@
 # 文件:色は匂へど散りぬるを_-English_Version-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\64\ns6%3A%E8%89%B2%E3%81%AF%E5%8C%82%E3%81%B8%E3%81%A9%E6%95%A3%E3%82%8A%E3%81%AC%E3%82%8B%E3%82%92_-English_Version-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\64\ns6%3A%E8%89%B2%E3%81%AF%E5%8C%82%E3%81%B8%E3%81%A9%E6%95%A3%E3%82%8A%E3%81%AC%E3%82%8B%E3%82%92_-English_Version-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 幽闭星光
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [色は匂へど散りぬるを -English Version-](./色は匂へど散りぬるを_-English_Version-.md)  
-该封面包含的角色：- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)
-
-
-
+- [色は匂へど散りぬるを -English Version-](./色は匂へど散りぬるを_-English_Version-.md)该封面包含的角色：
+- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)
 
 
 ---

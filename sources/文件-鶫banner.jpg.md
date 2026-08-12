@@ -1,12 +1,8 @@
 # 文件:鶫banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\21\ns6%3A%E9%B6%ABbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\21\ns6%3A%E9%B6%ABbanner%2Ejpg.html -->
 
 社团LOGO | 鶫
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:魔法少女部活動報告_四報_Spica封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e1\ns6%3A%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E9%83%A8%E6%B4%BB%E5%8B%95%E5%A0%B1%E5%91%8A_%E5%9B%9B%E5%A0%B1_Spica%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e1\ns6%3A%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E9%83%A8%E6%B4%BB%E5%8B%95%E5%A0%B1%E5%91%8A_%E5%9B%9B%E5%A0%B1_Spica%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 UC-Team_Sound | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ UC-Team_Sound | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [魔法少女部活動報告 四報 Spica](./魔法少女部活動報告_四報_Spica.md)  
-该封面包含的角色：- 原创角色 (未找到链接)
-
-
-
+- [魔法少女部活動報告 四報 Spica](./魔法少女部活動報告_四報_Spica.md)该封面包含的角色：
+- 原创角色 (未找到链接)
 
 
 ---

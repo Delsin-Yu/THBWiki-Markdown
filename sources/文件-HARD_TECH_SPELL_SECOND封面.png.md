@@ -1,6 +1,6 @@
 # 文件:HARD_TECH_SPELL_SECOND封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c4\ns6%3AHARD_TECH_SPELL_SECOND%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c4\ns6%3AHARD_TECH_SPELL_SECOND%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 荒御灵
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [HARD TECH SPELL SECOND](./HARD_TECH_SPELL_SECOND.md)  
-该封面包含的角色：- [圣白莲](./圣白莲.md)
-
-
-
+- [HARD TECH SPELL SECOND](./HARD_TECH_SPELL_SECOND.md)该封面包含的角色：
+- [圣白莲](./圣白莲.md)
 
 
 ---

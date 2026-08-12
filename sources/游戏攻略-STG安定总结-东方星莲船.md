@@ -1,6 +1,6 @@
 # 游戏攻略/STG安定总结/东方星莲船
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\7\7f\ns0%3A%E6%B8%B8%E6%88%8F%E6%94%BB%E7%95%A5%2FSTG%E5%AE%89%E5%AE%9A%E6%80%BB%E7%BB%93%2F%E4%B8%9C%E6%96%B9%E6%98%9F%E8%8E%B2%E8%88%B9.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\7\7f\ns0%3A%E6%B8%B8%E6%88%8F%E6%94%BB%E7%95%A5%2FSTG%E5%AE%89%E5%AE%9A%E6%80%BB%E7%BB%93%2F%E4%B8%9C%E6%96%B9%E6%98%9F%E8%8E%B2%E8%88%B9.html -->
 
 
 
@@ -27,10 +27,6 @@
 <p>2符击破后在boss正下方待机，在黄色激光内部躲避紫色激光，绕boss逆时针旋转，注意根据boss的移动调整旋转速度。<br>这张非符之后的符卡发动时boss会移动到屏幕中间，注意击破位置，不要在boss归位时被撞死。
 </p>
 </td></tr></tbody></table>
-
-
-
-
 
 
 ---

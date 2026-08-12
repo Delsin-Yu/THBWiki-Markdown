@@ -1,12 +1,8 @@
 # 文件:魂魄妖梦（神灵庙立绘）no.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\95\ns6%3A%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6%EF%BC%88%E7%A5%9E%E7%81%B5%E5%BA%99%E7%AB%8B%E7%BB%98%EF%BC%89no%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\95\ns6%3A%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6%EF%BC%88%E7%A5%9E%E7%81%B5%E5%BA%99%E7%AB%8B%E7%BB%98%EF%BC%89no%2Epng.html -->
 
 ZUN绘 | 东方神灵庙 | 官方游戏立绘 | 魂魄妖梦
-
-
-
-
 
 
 ---

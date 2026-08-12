@@ -1,6 +1,6 @@
 # 文件:泣かないで！はたてちゃん-Smile_Again-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3f\ns6%3A%E6%B3%A3%E3%81%8B%E3%81%AA%E3%81%84%E3%81%A7%EF%BC%81%E3%81%AF%E3%81%9F%E3%81%A6%E3%81%A1%E3%82%83%E3%82%93-Smile_Again-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3f\ns6%3A%E6%B3%A3%E3%81%8B%E3%81%AA%E3%81%84%E3%81%A7%EF%BC%81%E3%81%AF%E3%81%9F%E3%81%A6%E3%81%A1%E3%82%83%E3%82%93-Smile_Again-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 わんだふる☆鳥肉 | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [泣かないで！はたてちゃん-Smile Again-](./泣かないで！はたてちゃん-Smile_Again-.md)  
-该封面包含的角色：- [姬海棠果](./姬海棠果.md)
+- [泣かないで！はたてちゃん-Smile Again-](./泣かないで！はたてちゃん-Smile_Again-.md)该封面包含的角色：
+- [姬海棠果](./姬海棠果.md)
 
   
-[Pixiv artwork ID: 98174963](https://www.pixiv.net/artworks/98174963)
-  
-
-
-
-
+[Pixiv artwork ID: 98174963](https://www.pixiv.net/artworks/98174963)  
 
 ---
 

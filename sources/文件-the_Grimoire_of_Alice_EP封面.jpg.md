@@ -1,6 +1,6 @@
 # 文件:the_Grimoire_of_Alice_EP封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4f\ns6%3Athe_Grimoire_of_Alice_EP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4f\ns6%3Athe_Grimoire_of_Alice_EP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 PURE-POLLUTION | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ PURE-POLLUTION | 专辑封面 | 封面图片
   
 
 - [the Grimoire of Alice EP](./the_Grimoire_of_Alice_EP.md)
-
-
-
 
 
 ---

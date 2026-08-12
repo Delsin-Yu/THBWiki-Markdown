@@ -1,6 +1,6 @@
 # 文件:DHS_Mystery_EP封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8b\ns6%3ADHS_Mystery_EP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8b\ns6%3ADHS_Mystery_EP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 DHS | 专辑封面 | 封面图片
 
@@ -11,12 +11,7 @@ DHS | 专辑封面 | 封面图片
 - [DHS Mystery EP](./DHS_Mystery_EP.md)
 
   
-源地址: [[1]](http://static.tumblr.com/d55f219516ee0217a4206df4b0c5b83f/n79unme/G2Cmn17yi/tumblr_static____________________________.jpg)
-  
-
-
-
-
+源地址: [\[1\]](http://static.tumblr.com/d55f219516ee0217a4206df4b0c5b83f/n79unme/G2Cmn17yi/tumblr_static____________________________.jpg)  
 
 ---
 

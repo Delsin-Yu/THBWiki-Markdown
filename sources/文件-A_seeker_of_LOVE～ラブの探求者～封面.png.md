@@ -1,6 +1,6 @@
 # 文件:A_seeker_of_LOVE～ラブの探求者～封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4e\ns6%3AA_seeker_of_LOVE%EF%BD%9E%E3%83%A9%E3%83%96%E3%81%AE%E6%8E%A2%E6%B1%82%E8%80%85%EF%BD%9E%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4e\ns6%3AA_seeker_of_LOVE%EF%BD%9E%E3%83%A9%E3%83%96%E3%81%AE%E6%8E%A2%E6%B1%82%E8%80%85%EF%BD%9E%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 同人志封面 | 封面图片 | 紙そうび
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [A seeker of LOVE～ラブの探求者～](./A_seeker_of_LOVE～ラブの探求者～.md)  
-该封面包含的角色：- [古明地恋](./古明地恋.md)- [姬海棠果](./姬海棠果.md)
-
-
-
+- [A seeker of LOVE～ラブの探求者～](./A_seeker_of_LOVE～ラブの探求者～.md)该封面包含的角色：
+- [古明地恋](./古明地恋.md)
+- [姬海棠果](./姬海棠果.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Now_let_me_open_this_scar封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fc\ns6%3ANow_let_me_open_this_scar%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fc\ns6%3ANow_let_me_open_this_scar%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 扶養家族
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Now let me open this scar](./Now_let_me_open_this_scar.md)  
-该封面包含的角色：- [犬走椛](./犬走椛.md)
+- [Now let me open this scar](./Now_let_me_open_this_scar.md)该封面包含的角色：
+- [犬走椛](./犬走椛.md)
 
   
-源地址：[direct image link (original size)](https://pbs.twimg.com/media/CrHgviYVUAATteR?format=jpg&amp;name=orig), [source tweet](https://twitter.com/ameno_naka/status/770644164807536640)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://pbs.twimg.com/media/CrHgviYVUAATteR?format=jpg&name=orig), [source tweet](https://twitter.com/ameno_naka/status/770644164807536640)  
 
 ---
 

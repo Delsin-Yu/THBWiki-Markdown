@@ -1,12 +1,8 @@
 # 文件:蕾瓦伦斯·U'n-利萨基.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e9\ns6%3A%E8%95%BE%E7%93%A6%E4%BC%A6%E6%96%AF%C2%B7U%27n-%E5%88%A9%E8%90%A8%E5%9F%BA%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e9\ns6%3A%E8%95%BE%E7%93%A6%E4%BC%A6%E6%96%AF%C2%B7U%27n-%E5%88%A9%E8%90%A8%E5%9F%BA%2Epng.html -->
 
 Oligarchomp | 二次角色立绘 | 蕾瓦伦斯·U'n-利萨基
-
-
-
-
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:魚骨工造banner1.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7c\ns6%3A%E9%AD%9A%E9%AA%A8%E5%B7%A5%E9%80%A0banner1%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7c\ns6%3A%E9%AD%9A%E9%AA%A8%E5%B7%A5%E9%80%A0banner1%2Egif.html -->
 
 社团LOGO | 魚骨工造
-
-
-
-
 
 
 ---

@@ -1,59 +1,43 @@
 # Disastrous_Gemini
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\f1\ns0%3ADisastrous_Gemini.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\f1\ns0%3ADisastrous_Gemini.html -->
 
 由 ZUN 创作的官方曲目，原名 ディザストラスジェミニ
 
 本页是关于东方Project  
- **原作音乐** 的词条
-
+**原作音乐**的词条
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 出现作品](#出现作品)
 - [3 音乐文件](#音乐文件)
-
   - [3.1 秋霜玉](#秋霜玉)
-
     - [3.1.1 体验版](#体验版)
     - [3.1.2 正式版](#正式版)
-
 
 
   - [3.2 东方幻想的音乐](#东方幻想的音乐)
 
 
-
 - [4 说明文本](#说明文本)
-
   - [4.1 秋霜玉](#秋霜玉_2)
-
     - [4.1.1 Music Room](#Music_Room)
     - [4.1.2 创曲幻想](#创曲幻想)
 
 
-
   - [4.2 东方幻想的音乐](#东方幻想的音乐_2)
-
     - [4.2.1 秋霜玉](#秋霜玉_3)
 
 
 
 
-
-
 - [5 其他资料](#其他资料)
-
   - [5.1 乐理资讯](#乐理资讯)
   - [5.2 分析考据](#分析考据)
   - [5.3 二次同人数据](#二次同人数据)
 
 
-
 - [6 注释](#注释)
-
-
-
 
 
 ## 基本信息
@@ -61,15 +45,13 @@
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">ディザストラスジェミニ</td></tr><tr><td><b>译名</b></td><td>Disastrous Gemini</td></tr><tr><td><b>其他译名</b></td><td>灾难的双子座‎</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 Disastrous Gemini（曲目） - 由 ZUN 创作的官方曲目，原名 ディザストラスジェミニ
-
 ## 出现作品
 
 <table>
-<tbody><tr><td>2000年8月12日（Comic Market 58）</td><td><b><a href="./秋霜玉.md" title="秋霜玉">秋霜玉</a>体验版</b></td><td>2面boss<a href="./冥&舞.md" title="冥&amp;舞">冥&amp;舞</a>的主题曲</td><td style="padding-left:5px;">ディザストラスジェミニ（Disastrous Gemini）</td><td style="padding-left:10px;">作曲：ZUN</td></tr>
-<tr><td>2000年12月30日（Comic Market 59）</td><td><b><a href="./秋霜玉.md" title="秋霜玉">秋霜玉</a></b></td><td>2面boss<a href="./冥&舞.md" title="冥&amp;舞">冥&amp;舞</a>的主题曲</td><td style="padding-left:5px;">ディザストラスジェミニ（Disastrous Gemini）</td><td style="padding-left:10px;">作曲：ZUN</td></tr>
+<tbody><tr><td>2000年8月12日（Comic Market 58）</td><td><b><a href="./秋霜玉.md" title="秋霜玉">秋霜玉</a>体验版</b></td><td>2面boss<a href="./冥&舞.md" title="冥&amp;舞">冥&舞</a>的主题曲</td><td style="padding-left:5px;">ディザストラスジェミニ（Disastrous Gemini）</td><td style="padding-left:10px;">作曲：ZUN</td></tr>
+<tr><td>2000年12月30日（Comic Market 59）</td><td><b><a href="./秋霜玉.md" title="秋霜玉">秋霜玉</a></b></td><td>2面boss<a href="./冥&舞.md" title="冥&amp;舞">冥&舞</a>的主题曲</td><td style="padding-left:5px;">ディザストラスジェミニ（Disastrous Gemini）</td><td style="padding-left:10px;">作曲：ZUN</td></tr>
 <tr><td>2001年3月13日（非展会）</td><td><b><a href="./东方幻想的音乐.md" title="东方幻想的音乐">东方幻想的音乐</a></b></td><td>秋霜玉</td><td style="padding-left:5px;">ディザストラスジェミニ（Disastrous Gemini）</td><td style="padding-left:10px;">编曲：ZUN</td></tr>
 </tbody></table>
-
 
 
 ## 音乐文件
@@ -83,9 +65,7 @@ MP3由Roland SC-88Pro 实机录制。官方只发布MIDI而未发布MP3，故音
 和正式版有一定不同。
   
 
-
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td><a href="./文件-sh01p_04.mid.md" title="文件:sh01p 04.mid">sh01p_04.mid</a></td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-sh01p_04.mp3.md" title="文件:sh01p 04.mp3">sh01p_04.mp3</a><br><audio src="https://upload.thwiki.cc/b/b7/sh01p_04.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>MUSIC\DATA0003（MIDI）</td></tr><tr><td><b>音轨时长</b></td><td>4:00</td></tr></tbody></table>
-
 
 
 #### 正式版
@@ -93,9 +73,7 @@ MP3由Roland SC-88Pro 实机录制。官方只发布MIDI而未发布MP3，故音
 MP3由Roland SC-88Pro 实机录制。官方只发布MIDI而未发布MP3，故音轨长度以从游戏中提取的原MIDI文件为准。
   
 
-
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td><a href="./文件-sh01_05.mid.md" title="文件:sh01 05.mid">sh01_05.mid</a></td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-SE01_05.mp3.md" title="文件:SE01 05.mp3">SE01_05.mp3</a><br><audio src="https://upload.thwiki.cc/2/27/SE01_05.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>MUSIC\DATA0004（MIDI）</td></tr><tr><td><b>音轨时长</b></td><td>4:03</td></tr></tbody></table>
-
 
 
 ### 东方幻想的音乐
@@ -103,9 +81,7 @@ MP3由Roland SC-88Pro 实机录制。官方只发布MIDI而未发布MP3，故音
 MP3由Roland SC-88Pro 实机录制。官方只发布MIDI而未发布MP3，故音轨长度以原MIDI文件为准。
   
 
-
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td><a href="./文件-ssg_05.mid.md" title="文件:ssg 05.mid">ssg_05.mid</a></td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-ssg_05.mp3.md" title="文件:ssg 05.mp3">ssg_05.mp3</a><br><audio src="https://upload.thwiki.cc/5/52/ssg_05.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td><a rel="nofollow" class="external free" href="http://www16.big.or.jp/~zun/html/music_old.html">http://www16.big.or.jp/~zun/html/music_old.html</a></td></tr><tr><td><b>音轨时长</b></td><td>2:51</td></tr></tbody></table>
-
 
 
 ## 说明文本
@@ -113,7 +89,8 @@ MP3由Roland SC-88Pro 实机录制。官方只发布MIDI而未发布MP3，故音
 ### 秋霜玉
 
 #### Music Room
-- Music Room (未找到链接)
+
+- [Music Room](./秋霜玉-Music.md#2面boss冥&舞的主题曲)
 
 ２面Boss、冥＆舞的主题曲。  
   
@@ -123,20 +100,20 @@ MP3由Roland SC-88Pro 实机录制。官方只发布MIDI而未发布MP3，故音
 但从结果来说是All Right。  
   
 感觉这是首很有少女味的曲子，但结果实际上至今为止的曲子好像都是那样的（笑）Disastrous GeminiDisastrous Gemini
-
 #### 创曲幻想
-- 创曲幻想 (未找到链接)
+
+- [创曲幻想](./附带文档-秋霜玉-创曲幻想.md#曲名解说-6)
 
 【 Disastrous Gemini  】2面Boss主题曲  
   
-Disastrous Gemini&#160;: 灾难的双子  
+Disastrous Gemini : 灾难的双子  
 直率的曲名。但是，最初设定还不知道是不是双胞胎，  
 开始的时候，预定的是Disastrous Lolita这个名字(^^;
-
 ### 东方幻想的音乐
 
 #### 秋霜玉
-- 东方幻想的音乐 (未找到链接)
+
+- [东方幻想的音乐](./东方幻想的音乐-过去的曲子-秋霜玉.md#Disastrous_Gemini)
 
 +----------------------------------------------------------------------------+  
 |【 　 曲名　　】| 【 Disastrous Gemini 】  
@@ -150,7 +127,7 @@ Disastrous Gemini&#160;: 灾难的双子
 |                | 这种时候，请不要更动压缩包内部文件。  
 |【　 著作权 　】| ＺＵＮ (太田顺也）  
 |【演奏上的注意】| 用sc-88Pro 的人在演奏时请不要按88Map。  
-|                                          &#126;&#126;&#126;&#126;~   
+|                                          ~~~~~   
 +-----------------------------------------------------------------------------+  
 感谢您下载本文件。  
   
@@ -170,7 +147,6 @@ Disastrous Gemini&#160;: 灾难的双子
 曲子的感想、请求等，这边请  
 　东方幻想空间　「博丽神社」 [http://www16.big.or.jp/~zun/](http://www16.big.or.jp/~zun/)  
 　e-Mail                     zun@big.or.jp
-
 ## 其他资料
 
 ### 乐理资讯
@@ -189,18 +165,6 @@ Disastrous Gemini&#160;: 灾难的双子
 <tr><td>Arrange</td><td>23</td></tr>
 <tr><td>Vocal率</td><td>0%</td></tr>
 </tbody></table>
-
-
-
-
-
-  
-  
-
-  
-
-
-
 
 
 ---

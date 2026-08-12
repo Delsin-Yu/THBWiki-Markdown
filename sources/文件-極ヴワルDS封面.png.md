@@ -1,6 +1,6 @@
 # 文件:極ヴワルDS封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\62\ns6%3A%E6%A5%B5%E3%83%B4%E3%83%AF%E3%83%ABDS%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\62\ns6%3A%E6%A5%B5%E3%83%B4%E3%83%AF%E3%83%ABDS%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 トントカイモ | 封面图片 | 软件封面
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [極ヴワルDS](./極ヴワルDS.md)  
-该封面包含的角色：- [小恶魔](./小恶魔.md)
+- [極ヴワルDS](./極ヴワルDS.md)该封面包含的角色：
+- [小恶魔](./小恶魔.md)
 
   
-源地址：[direct image link](http://red.ribbon.to/~systemugigi/koa_cap/koakuma_title.png), [source page](http://red.ribbon.to/~systemugigi/#old)
-  
-
-
-
-
+源地址：[direct image link](http://red.ribbon.to/~systemugigi/koa_cap/koakuma_title.png), [source page](http://red.ribbon.to/~systemugigi/#old)  
 
 ---
 

@@ -1,14 +1,11 @@
 # 文件:死灵「Fairy_of_Dead」（兽王园）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bb\ns6%3A%E6%AD%BB%E7%81%B5%E3%80%8CFairy_of_Dead%E3%80%8D%EF%BC%88%E5%85%BD%E7%8E%8B%E5%9B%AD%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bb\ns6%3A%E6%AD%BB%E7%81%B5%E3%80%8CFairy_of_Dead%E3%80%8D%EF%BC%88%E5%85%BD%E7%8E%8B%E5%9B%AD%EF%BC%89%2Epng.html -->
 
 东方兽王园 | 火焰猫燐 | 自机符卡
 
 
 ## 摘要
-
-
-
 
 ---
 

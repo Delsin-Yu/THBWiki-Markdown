@@ -1,16 +1,11 @@
 # 文件:闻烟猫LOGO.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\93\ns6%3A%E9%97%BB%E7%83%9F%E7%8C%ABLOGO%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\93\ns6%3A%E9%97%BB%E7%83%9F%E7%8C%ABLOGO%2Epng.html -->
 
 社团LOGO | 闻烟猫
 
   
-源地址：[[1]](https://pbs.twimg.com/profile_images/1110523758970732545/XJ7Pdi4S_400x400.png)
-  
-
-
-
-
+源地址：[\[1\]](https://pbs.twimg.com/profile_images/1110523758970732545/XJ7Pdi4S_400x400.png)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:progressive_heroines封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9f\ns6%3Aprogressive_heroines%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9f\ns6%3Aprogressive_heroines%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 アベニュールーム | 专辑封面 | 封面图片
 
@@ -8,16 +8,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [progressive heroines](./progressive_heroines.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [雾雨魔理沙](./雾雨魔理沙.md)
+- [progressive heroines](./progressive_heroines.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-源地址：[[1]](http://static.tumblr.com/a2270aca74a501c0b3b20f6f4f1e9db7/or9bxjg/kK5muwrzo/tumblr_static_avrm-0003a.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://static.tumblr.com/a2270aca74a501c0b3b20f6f4f1e9db7/or9bxjg/kK5muwrzo/tumblr_static_avrm-0003a.jpg)  
 
 ---
 

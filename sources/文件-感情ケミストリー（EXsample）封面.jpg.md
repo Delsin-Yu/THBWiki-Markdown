@@ -1,6 +1,6 @@
 # 文件:感情ケミストリー（EXsample）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\50\ns6%3A%E6%84%9F%E6%83%85%E3%82%B1%E3%83%9F%E3%82%B9%E3%83%88%E3%83%AA%E3%83%BC%EF%BC%88EXsample%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\50\ns6%3A%E6%84%9F%E6%83%85%E3%82%B1%E3%83%9F%E3%82%B9%E3%83%88%E3%83%AA%E3%83%BC%EF%BC%88EXsample%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 幽闭星光
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [感情ケミストリー（EXsample）](./感情ケミストリー（EXsample）.md)  
-该封面包含的角色：- [圣白莲](./圣白莲.md)
-
-
-
+- [感情ケミストリー（EXsample）](./感情ケミストリー（EXsample）.md)该封面包含的角色：
+- [圣白莲](./圣白莲.md)
 
 
 ---

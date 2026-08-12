@@ -1,12 +1,8 @@
 # 文件:RED-SIGHTbanner1.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f5\ns6%3ARED-SIGHTbanner1%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f5\ns6%3ARED-SIGHTbanner1%2Egif.html -->
 
 RED-SIGHT | 社团LOGO
-
-
-
-
 
 
 ---

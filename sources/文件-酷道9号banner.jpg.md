@@ -1,14 +1,11 @@
 # 文件:酷道9号banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\14\ns6%3A%E9%85%B7%E9%81%939%E5%8F%B7banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\14\ns6%3A%E9%85%B7%E9%81%939%E5%8F%B7banner%2Ejpg.html -->
 
 社团LOGO | 酷道9号
 
 
 ## 摘要
-
-
-
 
 ---
 

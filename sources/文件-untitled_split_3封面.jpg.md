@@ -1,6 +1,6 @@
 # 文件:untitled_split_3封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e8\ns6%3Auntitled_split_3%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e8\ns6%3Auntitled_split_3%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Hyperdimension! | denshūto | the_distant_journey_to_you | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ Hyperdimension! | denshūto | the_distant_journey_to_you | 专辑封面 | 封面
   
 
 - [untitled split 3](./untitled_split_3.md)
-
-
-
 
 
 ---

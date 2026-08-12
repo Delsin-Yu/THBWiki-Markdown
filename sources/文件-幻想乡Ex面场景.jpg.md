@@ -1,12 +1,8 @@
 # 文件:幻想乡Ex面场景.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\42\ns6%3A%E5%B9%BB%E6%83%B3%E4%B9%A1Ex%E9%9D%A2%E5%9C%BA%E6%99%AF%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\42\ns6%3A%E5%B9%BB%E6%83%B3%E4%B9%A1Ex%E9%9D%A2%E5%9C%BA%E6%99%AF%2Ejpg.html -->
 
 东方幻想乡 | 游戏关卡标题
-
-
-
-
 
 
 ---

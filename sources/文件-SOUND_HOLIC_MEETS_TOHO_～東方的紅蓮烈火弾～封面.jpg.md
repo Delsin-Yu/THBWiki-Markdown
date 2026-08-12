@@ -1,6 +1,6 @@
 # 文件:SOUND_HOLIC_MEETS_TOHO_～東方的紅蓮烈火弾～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3b\ns6%3ASOUND_HOLIC_MEETS_TOHO_%EF%BD%9E%E6%9D%B1%E6%96%B9%E7%9A%84%E7%B4%85%E8%93%AE%E7%83%88%E7%81%AB%E5%BC%BE%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3b\ns6%3ASOUND_HOLIC_MEETS_TOHO_%EF%BD%9E%E6%9D%B1%E6%96%B9%E7%9A%84%E7%B4%85%E8%93%AE%E7%83%88%E7%81%AB%E5%BC%BE%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 SOUND_HOLIC | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ SOUND_HOLIC | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [SOUND HOLIC MEETS TOHO ～東方的紅蓮烈火弾～](./SOUND_HOLIC_MEETS_TOHO_～東方的紅蓮烈火弾～.md)  
-该封面包含的角色：- [小野塚小町](./小野塚小町.md)- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)
-
-
-
+- [SOUND HOLIC MEETS TOHO ～東方的紅蓮烈火弾～](./SOUND_HOLIC_MEETS_TOHO_～東方的紅蓮烈火弾～.md)该封面包含的角色：
+- [小野塚小町](./小野塚小町.md)
+- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)
 
 
 ---

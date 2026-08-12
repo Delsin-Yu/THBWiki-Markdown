@@ -1,18 +1,13 @@
 # 文件:Chroma_Soundslogo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0e\ns6%3AChroma_Soundslogo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0e\ns6%3AChroma_Soundslogo%2Epng.html -->
 
 Chroma_Sounds | 社团LOGO
 
 
 ## 摘要
   
-源地址：[direct image link](https://cdn.dizzylab.net/media/label_cover/Chroma_Sounds虹彩压缩后.png), [source page (circle Dizzylab logo)](https://www.dizzylab.net/l/Chroma_Sounds虹彩/)
-  
-
-
-
-
+源地址：[direct image link](https://cdn.dizzylab.net/media/label_cover/Chroma_Sounds虹彩压缩后.png), [source page (circle Dizzylab logo)](https://www.dizzylab.net/l/Chroma_Sounds虹彩/)  
 
 ---
 

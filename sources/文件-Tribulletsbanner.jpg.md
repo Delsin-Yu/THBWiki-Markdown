@@ -1,16 +1,11 @@
 # 文件:Tribulletsbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\54\ns6%3ATribulletsbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\54\ns6%3ATribulletsbanner%2Ejpg.html -->
 
 Tribullets | 社团LOGO
 
   
-源地址：[[1]](http://tribullets.info/images/banner.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://tribullets.info/images/banner.jpg)  
 
 ---
 

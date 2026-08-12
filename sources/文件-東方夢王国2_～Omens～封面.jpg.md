@@ -1,6 +1,6 @@
 # 文件:東方夢王国2_～Omens～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\83\ns6%3A%E6%9D%B1%E6%96%B9%E5%A4%A2%E7%8E%8B%E5%9B%BD2_%EF%BD%9EOmens%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\83\ns6%3A%E6%9D%B1%E6%96%B9%E5%A4%A2%E7%8E%8B%E5%9B%BD2_%EF%BD%9EOmens%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ほしくずモノクローム | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方夢王国2 ～Omens～](./東方夢王国2_～Omens～.md)  
-该封面包含的角色：- [西行寺幽幽子](./西行寺幽幽子.md)
-
-
-
+- [東方夢王国2 ～Omens～](./東方夢王国2_～Omens～.md)该封面包含的角色：
+- [西行寺幽幽子](./西行寺幽幽子.md)
 
 
 ---

@@ -1,14 +1,11 @@
 # 文件:Everfadesbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\71\ns6%3AEverfadesbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\71\ns6%3AEverfadesbanner%2Ejpg.html -->
 
 Everfades | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

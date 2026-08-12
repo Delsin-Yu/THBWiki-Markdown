@@ -1,6 +1,6 @@
 # 文件:Touhou_Fumo_Racing封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\58\ns6%3ATouhou_Fumo_Racing%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\58\ns6%3ATouhou_Fumo_Racing%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 HonkyHood | 封面图片 | 软件封面
 
@@ -10,16 +10,13 @@ HonkyHood | 封面图片 | 软件封面
 使用了本文件作封面图片的作品：
   
 
-- [Touhou Fumo Racing](./Touhou_Fumo_Racing.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)- [博丽灵梦](./博丽灵梦.md)- [雾雨魔理沙](./雾雨魔理沙.md)
+- [Touhou Fumo Racing](./Touhou_Fumo_Racing.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
+- [博丽灵梦](./博丽灵梦.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-源地址：[direct image link](https://img.itch.zone/aW1nLzg0MDU2MzcuanBn/315x250#c/qBv6gK.jpg), [source page](https://honkyhood11.itch.io/)
-  
-
-
-
-
+源地址：[direct image link](https://img.itch.zone/aW1nLzg0MDU2MzcuanBn/315x250#c/qBv6gK.jpg), [source page](https://honkyhood11.itch.io/)  
 
 ---
 

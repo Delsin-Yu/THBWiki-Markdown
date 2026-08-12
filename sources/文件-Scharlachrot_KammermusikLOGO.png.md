@@ -1,12 +1,8 @@
 # 文件:Scharlachrot_KammermusikLOGO.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\52\ns6%3AScharlachrot_KammermusikLOGO%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\52\ns6%3AScharlachrot_KammermusikLOGO%2Epng.html -->
 
 Scharlachrot_Kammermusik | 社团LOGO
-
-
-
-
 
 
 ---

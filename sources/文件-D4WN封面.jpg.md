@@ -1,6 +1,6 @@
 # 文件:D4WN封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ed\ns6%3AD4WN%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ed\ns6%3AD4WN%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Last_Dream | 专辑封面 | 封面图片
 
@@ -8,11 +8,11 @@ Last_Dream | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [D4WN](./D4WN.md)  
-该封面包含的角色：- [赤蛮奇](./赤蛮奇.md)- [鬼人正邪](./鬼人正邪.md)- [少名针妙丸](./少名针妙丸.md)- [堀川雷鼓](./堀川雷鼓.md)
-
-
-
+- [D4WN](./D4WN.md)该封面包含的角色：
+- [赤蛮奇](./赤蛮奇.md)
+- [鬼人正邪](./鬼人正邪.md)
+- [少名针妙丸](./少名针妙丸.md)
+- [堀川雷鼓](./堀川雷鼓.md)
 
 
 ---

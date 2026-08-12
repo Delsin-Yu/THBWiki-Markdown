@@ -1,6 +1,6 @@
 # 文件:東方MIRACLE_EUROBEAT_Vol.2封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9c\ns6%3A%E6%9D%B1%E6%96%B9MIRACLE_EUROBEAT_Vol%2E2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9c\ns6%3A%E6%9D%B1%E6%96%B9MIRACLE_EUROBEAT_Vol%2E2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 DTXFiles.nmk | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ DTXFiles.nmk | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方MIRACLE EUROBEAT Vol.2](./東方MIRACLE_EUROBEAT_Vol.2.md)  
-该封面包含的角色：- [莉格露·奈特巴格](./莉格露·奈特巴格.md)
-
-
-
+- [東方MIRACLE EUROBEAT Vol.2](./東方MIRACLE_EUROBEAT_Vol.2.md)该封面包含的角色：
+- [莉格露·奈特巴格](./莉格露·奈特巴格.md)
 
 
 ---

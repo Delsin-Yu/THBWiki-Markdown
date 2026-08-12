@@ -1,6 +1,6 @@
 # MineCraft幻想乡/工作人员表
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\4c\ns0%3AMineCraft%E5%B9%BB%E6%83%B3%E4%B9%A1%2F%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E8%A1%A8.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\4c\ns0%3AMineCraft%E5%B9%BB%E6%83%B3%E4%B9%A1%2F%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E8%A1%A8.html -->
 
 MineCraft幻想乡
 
@@ -16,7 +16,6 @@ MineCraft幻想乡
 ## 目录
 
 - [1 权限人员列表](#权限人员列表)
-
   - [1.1 名誉服主](#名誉服主)
   - [1.2 妖怪贤者](#妖怪贤者)
   - [1.3 大妖怪](#大妖怪)
@@ -27,9 +26,7 @@ MineCraft幻想乡
   - [1.8 古代妖怪](#古代妖怪)
 
 
-
 - [2 1.12.2工作人员](#1.12.2工作人员)
-
   - [2.1 建筑](#建筑)
   - [2.2 RPG](#RPG)
   - [2.3 时装](#时装)
@@ -41,15 +38,9 @@ MineCraft幻想乡
   - [2.9 技术](#技术)
 
 
-
 - [3 旧版本列表（过时）](#旧版本列表（过时）)
-
   - [3.1 管理协调人员](#管理协调人员)
   - [3.2 后勤工作人员](#后勤工作人员)
-
-
-
-
 
 
 
@@ -58,28 +49,25 @@ MineCraft幻想乡
 
 ### 名誉服主
   
-囧仙 (未找到链接)
-  
-
+囧仙 (未找到链接)  
 
 ### 妖怪贤者
   
 妖怪贤者即op同时具有的权限组，拥有服务器内的最高权限。
   
 
-
 <table>
 <tbody><tr>
 <th colspan="4">妖怪贤者列表（排名不分先后）
 </th></tr>
 <tr>
-<td><a href="/%E7%94%A8%E6%88%B7:NJK%E5%A8%9C%E5%8D%A1" title="用户:NJK娜卡"><img class="useravatar" src="https://avatar.thwiki.cc/thwikicc_wiki_466_m.png?r=1690785376">NJK娜卡（NJKnaka）</a><a class="achievtitle" title="注册5年">〈第九代学者〉</a></td>
+<td><a title="用户:NJK娜卡"><img class="useravatar" src="https://avatar.thwiki.cc/thwikicc_wiki_466_m.png?r=1690785376">NJK娜卡（NJKnaka）</a><a class="achievtitle" title="注册5年">〈第九代学者〉</a></td>
 <td>扎克（Zackary）</td>
 <td>mcmc321321</td>
-<td><a href="/%E7%94%A8%E6%88%B7:GayReimu" title="用户:GayReimu"><img class="useravatar" src="https://avatar.thwiki.cc/thwikicc_wiki_1789_m.jpg?r=1690736774">KawasakiReimu</a><a class="achievtitle" title="成为Down站管理员">〈幻想乡的记忆〉</a>
+<td><a title="用户:GayReimu"><img class="useravatar" src="https://avatar.thwiki.cc/thwikicc_wiki_1789_m.jpg?r=1690736774">KawasakiReimu</a><a class="achievtitle" title="成为Down站管理员">〈幻想乡的记忆〉</a>
 </td></tr>
 <tr>
-<td><a href="/%E7%94%A8%E6%88%B7:Mochizuki_mk19" title="用户:Mochizuki mk19"><img class="useravatar" src="https://avatar.thwiki.cc/default_m.jpg">德国boy（Mochizuki_Mk19）</a><a class="achievtitle" title="注册3年">〈识文解意的爱书人〉</a></td>
+<td><a title="用户:Mochizuki mk19"><img class="useravatar" src="https://avatar.thwiki.cc/default_m.jpg">德国boy（Mochizuki_Mk19）</a><a class="achievtitle" title="注册3年">〈识文解意的爱书人〉</a></td>
 <td>c020109703</td>
 <td>彩虹（RainbowSuika）</td>
 <td>UsamiKoishi
@@ -87,13 +75,13 @@ MineCraft幻想乡
 <tr>
 <td>垃圾（Laji_Garbage）</td>
 <td>龙杰（Joukann）</td>
-<td><a href="/%E7%94%A8%E6%88%B7:%E8%B6%85%E5%BC%A9%E7%BA%A7%E6%A0%B8%E8%83%BD%E4%B9%8C%E9%B8%A6" title="用户:超弩级核能乌鸦"><img class="useravatar" src="https://avatar.thwiki.cc/thwikicc_wiki_2787_m.png?r=1690785315">乌鸦（NicholasFRG）</a></td>
+<td><a title="用户:超弩级核能乌鸦"><img class="useravatar" src="https://avatar.thwiki.cc/thwikicc_wiki_2787_m.png?r=1690785315">乌鸦（NicholasFRG）</a></td>
 <td>baka_zat
 </td></tr>
 <tr>
 <td>LyricaPrismriver</td>
-<td><a href="/%E7%94%A8%E6%88%B7:SQwatermark" title="用户:SQwatermark"><img class="useravatar" src="https://avatar.thwiki.cc/thwikicc_wiki_29941_m.jpg?r=1690736869">用户:SQwatermark</a><a class="achievtitle" title="Δ的成就" src="https://static.thwiki.cc/template/moon.png">〈静谧的月之光〉</a></td>
-<td><a href="/%E7%94%A8%E6%88%B7:Drzzm32" title="用户:Drzzm32"><img class="useravatar" src="https://avatar.thwiki.cc/thwikicc_wiki_2928_m.jpg?r=1690736863">用户:Drzzm32</a></td>
+<td><a title="用户:SQwatermark"><img class="useravatar" src="https://avatar.thwiki.cc/thwikicc_wiki_29941_m.jpg?r=1690736869">用户:SQwatermark</a><a class="achievtitle" title="Δ的成就" src="https://static.thwiki.cc/template/moon.png">〈静谧的月之光〉</a></td>
+<td><a title="用户:Drzzm32"><img class="useravatar" src="https://avatar.thwiki.cc/thwikicc_wiki_2928_m.jpg?r=1690736863">用户:Drzzm32</a></td>
 <td>包子（EXhuashan）
 </td></tr>
 <tr>
@@ -104,13 +92,13 @@ MineCraft幻想乡
 </td></tr>
 <tr>
 <td>byf</td>
-<td><a href="/%E7%94%A8%E6%88%B7:%E5%BA%B6%E5%B9%B3-LGPHZDC" title="用户:庶平-LGPHZDC"><img class="useravatar" src="https://avatar.thwiki.cc/thwikicc_wiki_3582_m.jpg?r=1690736923">ZDC（KCY_SP_ZDC）</a><a class="achievtitle" title="注册4年">〈不动的大图书馆〉</a></td>
+<td><a title="用户:庶平-LGPHZDC"><img class="useravatar" src="https://avatar.thwiki.cc/thwikicc_wiki_3582_m.jpg?r=1690736923">ZDC（KCY_SP_ZDC）</a><a class="achievtitle" title="注册4年">〈不动的大图书馆〉</a></td>
 <td>Feather_aya</td>
 <td>小黑（Chloe_koopa）
 </td></tr>
 <tr>
 <td>蛋挞（dan_ta）</td>
-<td><a href="/%E7%94%A8%E6%88%B7:MasaneMiyaPA" title="用户:MasaneMiyaPA"><img class="useravatar" src="https://avatar.thwiki.cc/default_m.jpg">雅音（MasaneMiyaPA）</a><a class="achievtitle" title="周10编辑达成">〈七色的人偶使〉</a></td>
+<td><a title="用户:MasaneMiyaPA"><img class="useravatar" src="https://avatar.thwiki.cc/default_m.jpg">雅音（MasaneMiyaPA）</a><a class="achievtitle" title="周10编辑达成">〈七色的人偶使〉</a></td>
 <td>哈丁（ArchmageHardin）</td>
 <td>神夜（YakumoKamiya）
 </td></tr>
@@ -125,7 +113,7 @@ MineCraft幻想乡
 <tr>
 <td>NaivesSombra
 </td>
-<td><a href="/%E7%94%A8%E6%88%B7:---%E5%8C%97%E5%86%A5%E7%9F%A5%E7%BE%BD---" title="用户:---北冥知羽---"><img class="useravatar" src="https://avatar.thwiki.cc/thwikicc_wiki_35372_m.png?r=1690785342">北冥（BeiMingZhiYu）</a>
+<td><a title="用户:---北冥知羽---"><img class="useravatar" src="https://avatar.thwiki.cc/thwikicc_wiki_35372_m.png?r=1690785342">北冥（BeiMingZhiYu）</a>
 </td>
 <td>zake_arias
 </td>
@@ -142,12 +130,10 @@ MineCraft幻想乡
 </td></tr></tbody></table>
 
 
-
 ### 大妖怪
   
 仅次于妖怪贤者的权限组。拥有工业妖怪和读心妖怪的全部权限。
   
-
 
 <table>
 <tbody><tr>
@@ -162,12 +148,10 @@ MineCraft幻想乡
 </td></tr></tbody></table>
 
 
-
 ### 工业妖怪
   
 工业妖怪为成熟的建筑师拥有的权限组，拥有使用绝大部分WorldEdit指令的权限。
   
-
 
 <table>
 <tbody><tr>
@@ -193,12 +177,10 @@ MineCraft幻想乡
 </td></tr></tbody></table>
 
 
-
 ### 读心妖怪
   
 读心妖怪为RPG妖怪的基本权限组，但很少使用，因为编辑NPC脚本需要op权限。
   
-
 
 <table>
 <tbody><tr>
@@ -224,12 +206,10 @@ MineCraft幻想乡
 </td></tr></tbody></table>
 
 
-
 ### 妖怪
   
 妖怪是最基础的管理权限组。
   
-
 
 <table>
 <tbody><tr>
@@ -258,7 +238,7 @@ MineCraft幻想乡
 </td>
 <td>Hopeasd
 </td>
-<td><a href="/%E7%94%A8%E6%88%B7:DD" title="用户:DD"><img class="useravatar" src="https://avatar.thwiki.cc/thwikicc_wiki_2302_m.png?r=1690785302">用户:DD</a><a class="achievtitle" title="注册6年">〈阿加莎克里斯Q〉</a>
+<td><a title="用户:DD"><img class="useravatar" src="https://avatar.thwiki.cc/thwikicc_wiki_2302_m.png?r=1690785302">用户:DD</a><a class="achievtitle" title="注册6年">〈阿加莎克里斯Q〉</a>
 </td>
 <td><a href="./NJune六月.md" title="NJune六月">NJune六月（NFT社团）</a>
 </td></tr>
@@ -283,7 +263,7 @@ MineCraft幻想乡
 <tr>
 <td>虎兔（hammer354）
 </td>
-<td><a href="/%E7%94%A8%E6%88%B7:Luonl" title="用户:Luonl"><img class="useravatar" src="https://avatar.thwiki.cc/default_m.jpg">ShikiSuika</a><a class="achievtitle" title="THBWiki终于8岁了，2020年也请大家继续支持！（才不是维护补偿呢）" src="https://static.thwiki.cc/template/ani-eighth.png">〈第八年的THB裁判〉</a>
+<td><a title="用户:Luonl"><img class="useravatar" src="https://avatar.thwiki.cc/default_m.jpg">ShikiSuika</a><a class="achievtitle" title="THBWiki终于8岁了，2020年也请大家继续支持！（才不是维护补偿呢）" src="https://static.thwiki.cc/template/ani-eighth.png">〈第八年的THB裁判〉</a>
 </td>
 <td>MW
 </td>
@@ -305,7 +285,7 @@ MineCraft幻想乡
 </td>
 <td>soranoumi
 </td>
-<td><a href="/%E7%94%A8%E6%88%B7:%E5%B0%8F%E6%B2%B3%E7%AB%A5Nitori" title="用户:小河童Nitori"><img class="useravatar" src="https://avatar.thwiki.cc/default_m.jpg">Nitori</a>
+<td><a title="用户:小河童Nitori"><img class="useravatar" src="https://avatar.thwiki.cc/default_m.jpg">Nitori</a>
 </td></tr>
 <tr>
 <td>betairylia
@@ -318,12 +298,10 @@ MineCraft幻想乡
 </td></tr></tbody></table>
 
 
-
 ### 上古贤者
   
 在旧版本中作出巨大贡献，已经摸了的贤者
   
-
 
 <table>
 <tbody><tr>
@@ -385,12 +363,10 @@ MineCraft幻想乡
 </td></tr></tbody></table>
 
 
-
 ### 古代妖怪
   
 在旧版本中作出巨大贡献，已经摸了的妖怪
   
-
 
 <table>
 <tbody><tr>
@@ -524,7 +500,6 @@ MineCraft幻想乡
 </td></tr></tbody></table>
 
 
-
 ## 1.12.2工作人员
 
 ### 建筑
@@ -598,7 +573,6 @@ MineCraft幻想乡
 </td></tr></tbody></table>
 
 
-
 ### RPG
 
 <table>
@@ -658,7 +632,6 @@ MineCraft幻想乡
 </td></tr></tbody></table>
 
 
-
 ### 时装
 
 <table>
@@ -676,7 +649,6 @@ MineCraft幻想乡
 </td></tr></tbody></table>
 
 
-
 ### 地铁系统
 
 <table>
@@ -688,7 +660,6 @@ MineCraft幻想乡
 </td>
 <td>雅音（MasaneMiyaPA）
 </td></tr></tbody></table>
-
 
 
 ### 美工
@@ -726,7 +697,6 @@ MineCraft幻想乡
 </td></tr></tbody></table>
 
 
-
 ### 音乐
 
 <table>
@@ -738,7 +708,6 @@ MineCraft幻想乡
 </td>
 <td>NJune六月
 </td></tr></tbody></table>
-
 
 
 ### 活动
@@ -778,7 +747,6 @@ MineCraft幻想乡
 </td>
 <td>西瓜（ShikiSuika）（地图）
 </td></tr></tbody></table>
-
 
 
 ### 宣传
@@ -859,7 +827,6 @@ MineCraft幻想乡
 </td>
 <td>
 </td></tr></tbody></table>
-
 
 
 ### 技术
@@ -990,14 +957,13 @@ MineCraft幻想乡
 </td></tr></tbody></table>
 
 
-
 ## 旧版本列表（过时）
 
 ### 管理协调人员
 服主
-:  **「囧仙」** 囧仙（JoesSR）
+: **「囧仙」**囧仙（JoesSR）
 
-___
+---
 
 妖怪贤者
 : 大明神（Tsukuyomi_Shinku），yu，Forestood，长谷川文（Hasegawa_Aya），守矢幻想书谱（Moriya），三十银元（library）  
@@ -1005,16 +971,16 @@ NJK娜卡（NJKnaka），沙菲雅（Sapphire），hansi（WHEEEEEEEAT），卡�
 凛太（Raven_Rinta），十二云（pvc3001），Zackary，残音（zannekyomu），mcmc321321  
 KawasakiReimu，Edwardwyh，德国boy（Mochizuki_Mk19），RailGun，c020109703，saakuya，彩虹（RainbowSuika），九十九世界（TsukumoSekai），UsamiKoishi，SteinsGate，ic2cc，龙杰（Joukann），lunshao，超核乌鸦（NicholasFRG），baka_zat，LyricaPrismriver ，zjr08110，tgu_harehi，Cta_orekakkoii，SQwatermark，克洛伊（Chloe_koopa），Feather_aya，dan_ta，byf，ArchmageHardin，雅音（MasaneMiyaPA）,Drzzm32
 妖怪贤者 特殊组
-:  **「阿卡林」** 麦芽糖（Maltsugar）， **「香蕉神」** 十王审判（Judgemaid）， **「包子」** EXhuashan
+: **「阿卡林」**麦芽糖（Maltsugar），**「香蕉神」**十王审判（Judgemaid），**「包子」**EXhuashan
 
-___
+---
 
 大妖怪
 : Azusa_（A姐），InariKamisama，宫永（miyanage），WY_MLS，BeiMingZhiYu
 大妖怪 特殊组
-:  **「琪露诺」** Water_Magus（Cirno）， **「大变态」** wtt（WTT_Abnormal）， **「马桶神」** 白雪纹（bxw）,，
+: **「琪露诺」**Water_Magus（Cirno），**「大变态」**wtt（WTT_Abnormal），**「马桶神」**白雪纹（bxw）,，
 
-___
+---
 
 妖怪
 : Michikusakana，wq830，MouseNazrin，PH（PANDAKUN），reborness，导弹（Stingermissle）  
@@ -1026,14 +992,13 @@ takutakumi_，495fulan，sakura_skyfire，苦海（_Kuhai），smartkoishi，goo
 工业妖怪
 : CaCan，火叔（Fire），scl701，DF5_1895，呃神（ngt），1cm（1limi）ginger_444，  
 seabreeze，4357，色拉（licsl）,wsswms，Comer， sangxue, cjdjiake，AntonyAsa，Jack（TouhouJack），垃圾（Laji_Garbage），2204500，SFIsama，LocusAzzurro，Nona_Reeves，NaivesSombra，zake_arias
-
 读心妖怪
 : DINGdingcat，ABAEX，大鲶鱼(Sonic)  
 Black_neko(Lunaneko)，Baozou_Zac
 妖怪 特殊组
-:  **「GO山大魔王」** gogo13
+: **「GO山大魔王」**gogo13
 
-___
+---
 
 
 ### 后勤工作人员
@@ -1042,18 +1007,18 @@ ___
 光影包修改制作
 : 大妖（dayo），c020109703
 MOD材质制作
-: Forestood，A1181899594，囧仙（JoesSR）， *Xarantaur* ，yu，SQwatermark
+: Forestood，A1181899594，囧仙（JoesSR），*Xarantaur*，yu，SQwatermark
 皮肤制作
-: 沙菲雅（Sapphire）， *eyu* ,Hansard，紫音（DoremySweet）
+: 沙菲雅（Sapphire），*eyu*,Hansard，紫音（DoremySweet）
 BGM包整合
 : yu
 启动器制作
-:  *lxrmido* ，囧仙（JoesSR），H̶o̶p̶e̶A̶s̶d̶，Drzzm32
+: *lxrmido*，囧仙（JoesSR），H̶o̶p̶e̶A̶s̶d̶，Drzzm32
 MOD制作
-:  *幻梦之雪* ， *szszss* ， *HyperX* ， *雪狼（rainsillwood）* ， *Tarlafic* ，Forestood，囧仙（JoesSR），yu，mimg，H̶o̶p̶e̶A̶s̶d̶ ,SQwatermark，Drzzm32，TartaricAcid，Chloe_Coopa
+: *幻梦之雪*，*szszss*，*HyperX*，*雪狼（rainsillwood）*，*Tarlafic*，Forestood，囧仙（JoesSR），yu，mimg，H̶o̶p̶e̶A̶s̶d̶ ,SQwatermark，Drzzm32，TartaricAcid，Chloe_Coopa
 地图地形制作：SQwatermark
 地图升级工具
-:  *某位不愿透露姓名的爷爷* ，mimg，Drzzm32，Chloe_Coopa
+: *某位不愿透露姓名的爷爷*，mimg，Drzzm32，Chloe_Coopa
 客户端整合
 : 囧仙（JoesSR），c020109703，SQwatermark
 服务端整合
@@ -1063,10 +1028,6 @@ MOD制作
 幻凌星羽（Rin），_SunnyMilk，TVTGAME，白雪纹（bxw），FUNSHENGWUYU
 资料编辑
 : 暂无
-
-
-
-
 
 ---
 

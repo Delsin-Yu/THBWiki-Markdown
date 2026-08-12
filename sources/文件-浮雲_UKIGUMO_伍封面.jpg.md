@@ -1,6 +1,6 @@
 # 文件:浮雲_UKIGUMO_伍封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c0\ns6%3A%E6%B5%AE%E9%9B%B2_UKIGUMO_%E4%BC%8D%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c0\ns6%3A%E6%B5%AE%E9%9B%B2_UKIGUMO_%E4%BC%8D%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 INNOCENT_WORKS | 同人志封面 | 封面图片
 
@@ -10,11 +10,10 @@ INNOCENT_WORKS | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [浮雲 UKIGUMO 伍](./浮雲_UKIGUMO_伍.md)  
-该封面包含的角色：- [橙](./橙.md)- [八云蓝](./八云蓝.md)- [八云紫](./八云紫.md)
-
-
-
+- [浮雲 UKIGUMO 伍](./浮雲_UKIGUMO_伍.md)该封面包含的角色：
+- [橙](./橙.md)
+- [八云蓝](./八云蓝.md)
+- [八云紫](./八云紫.md)
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:陰陽_~_The_Positive_and_Negative.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4f\ns6%3A%E9%99%B0%E9%99%BD_%7E_The_Positive_and_Negative%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4f\ns6%3A%E9%99%B0%E9%99%BD_%7E_The_Positive_and_Negative%2Emp3.html -->
 
 The_Positive_and_Negative | 东方灵异传 | 原曲MP3
-
-
-
-
 
 
 ---

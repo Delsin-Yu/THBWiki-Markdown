@@ -1,6 +1,6 @@
 # 文件:GODAW封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\73\ns6%3AGODAW%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\73\ns6%3AGODAW%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 CTBR | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ CTBR | 专辑封面 | 封面图片
   
 
 - [GODAW](./GODAW.md)
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Crystal_Mind封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\22\ns6%3ACrystal_Mind%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\22\ns6%3ACrystal_Mind%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 2nd_Flush | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Crystal Mind](./Crystal_Mind.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)
-
-
-
+- [Crystal Mind](./Crystal_Mind.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
 
 
 ---

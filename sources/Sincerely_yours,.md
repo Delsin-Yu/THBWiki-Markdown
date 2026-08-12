@@ -1,13 +1,11 @@
 # Sincerely_yours,
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\67\ns0%3ASincerely_yours%2C.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\67\ns0%3ASincerely_yours%2C.html -->
 
 2015年12月30日 由 SNOWBLUE 于 Comic Market 89 发布的单曲同人专辑，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人专辑 (未找到链接)** 的词条
-<center>
-
+**[二次创作同人专辑](./二次创作.md#同人音乐)**的词条<center>
 <table>
 <tbody><tr>
 <td class="mbox-image"><div style="width: 52px;">
@@ -16,40 +14,28 @@
 </tr>
 </tbody></table>
 
-
 </center>
-
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Sincerely_yours,封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/3/39/Sincerely_yours%2C%E5%B0%81%E9%9D%A2.jpg/224px-Sincerely_yours%2C%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="224" srcset="https://upload.thwiki.cc/thumb/3/39/Sincerely_yours%2C%E5%B0%81%E9%9D%A2.jpg/336px-Sincerely_yours%2C%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/3/39/Sincerely_yours%2C%E5%B0%81%E9%9D%A2.jpg/448px-Sincerely_yours%2C%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="512" data-file-height="512"></a><div class="cover-char">角色：<a href="./铃仙·优昙华院·因幡.md" title="铃仙·优昙华院·因幡">铃仙·优昙华院·因幡</a></div></td>
 </tr><tr><td class="label">名称</td><td colspan="2"> Sincerely yours, </td></tr><tr><td class="label">制作方</td><td><a href="./SNOWBLUE.md" title="SNOWBLUE">SNOWBLUE</a></td><td class="cover-artwork" rowspan="8" style="min-width:224px;"><a href="./文件-Sincerely_yours,封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/3/39/Sincerely_yours%2C%E5%B0%81%E9%9D%A2.jpg/224px-Sincerely_yours%2C%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="224" srcset="https://upload.thwiki.cc/thumb/3/39/Sincerely_yours%2C%E5%B0%81%E9%9D%A2.jpg/336px-Sincerely_yours%2C%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/3/39/Sincerely_yours%2C%E5%B0%81%E9%9D%A2.jpg/448px-Sincerely_yours%2C%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="512" data-file-height="512"></a><div class="cover-char">角色：<a href="./铃仙·优昙华院·因幡.md" title="铃仙·优昙华院·因幡">铃仙·优昙华院·因幡</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2015-12-30&#160;（<a href="/展会作品列表?e=Comic+Market%2389">Comic Market 89</a>）</td></tr><tr><td class="label">类型</td><td>单曲</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>0</td></tr><tr><td class="label">总时长</td><td>00:00</td></tr><tr><td class="label">售价</td><td>会场售价：100日元</td></tr></tbody></table>
+</tr><tr><td class="label">首发日期</td><td>2015-12-30 （<a href="./展会作品列表.md#89">Comic Market 89</a>）</td></tr><tr><td class="label">类型</td><td>单曲</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>0</td></tr><tr><td class="label">总时长</td><td>00:00</td></tr><tr><td class="label">售价</td><td>会场售价：100日元</td></tr></tbody></table>
 
 Sincerely yours,（同人专辑，SNOWBLUE，2015） - 2015年12月30日 由 SNOWBLUE 于 Comic Market 89 发布的单曲同人专辑，分级为 一般向
-
 ## Staff
 Design
 : 设计师 （[网址 社团]）
 Illustration
 : 画师 （[网址 社团]）
 
-
 ## 试听
   
 暂不支援此类型
   
 
-
 ## 曲目列表
 
-<table></table>
-
-
-
 ## 评论
-
-
-
 
 ---
 

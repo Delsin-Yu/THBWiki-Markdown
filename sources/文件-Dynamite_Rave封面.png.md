@@ -1,6 +1,6 @@
 # 文件:Dynamite_Rave封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\43\ns6%3ADynamite_Rave%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\43\ns6%3ADynamite_Rave%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Tribullets | 专辑封面 | 封面图片
 
@@ -8,16 +8,12 @@ Tribullets | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Dynamite Rave](./Dynamite_Rave.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [雾雨魔理沙](./雾雨魔理沙.md)
+- [Dynamite Rave](./Dynamite_Rave.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-源地址：[[1]](http://tribullets.info/03_dynamite-rave/image/jacket.png)
-  
-
-
-
-
+源地址：[\[1\]](http://tribullets.info/03_dynamite-rave/image/jacket.png)  
 
 ---
 

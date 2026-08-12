@@ -1,14 +1,11 @@
 # 文件:GP1banner2.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c7\ns6%3AGP1banner2%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c7\ns6%3AGP1banner2%2Egif.html -->
 
 GP1 | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

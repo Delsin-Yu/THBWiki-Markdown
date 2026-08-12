@@ -1,6 +1,6 @@
 # 文件:東方煙劇舞（仮）Preview_Disc1封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6b\ns6%3A%E6%9D%B1%E6%96%B9%E7%85%99%E5%8A%87%E8%88%9E%EF%BC%88%E4%BB%AE%EF%BC%89Preview_Disc1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6b\ns6%3A%E6%9D%B1%E6%96%B9%E7%85%99%E5%8A%87%E8%88%9E%EF%BC%88%E4%BB%AE%EF%BC%89Preview_Disc1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 文鸟Online。
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方煙劇舞（仮）Preview Disc1](./東方煙劇舞（仮）Preview_Disc1.md)  
-该封面包含的角色：- [火焰猫燐](./火焰猫燐.md)
-
-
-
+- [東方煙劇舞（仮）Preview Disc1](./東方煙劇舞（仮）Preview_Disc1.md)该封面包含的角色：
+- [火焰猫燐](./火焰猫燐.md)
 
 
 ---

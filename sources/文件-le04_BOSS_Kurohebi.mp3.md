@@ -1,16 +1,12 @@
 # 文件:le04_BOSS_Kurohebi.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\45\ns6%3Ale04_BOSS_Kurohebi%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\45\ns6%3Ale04_BOSS_Kurohebi%2Emp3.html -->
 
 Made_in_Black_～_Double_Snake | 连缘Project官方音乐MP3 | 连缘天影战记
 
   
 连缘天影战记中立线1面Boss-乌蛇主题曲
   
-
-
-
-
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:綴_Vol.02封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c6\ns6%3A%E7%B6%B4_Vol%2E02%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c6\ns6%3A%E7%B6%B4_Vol%2E02%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 SWAY_WIND | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@ SWAY_WIND | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [綴 Vol.02](./綴_Vol.02.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [綴 Vol.02](./綴_Vol.02.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
 
   
-源地址：[doujinshi.org: B454180 (V4)](https://www.doujinshi.org/book/454180/TUDURI.-Vol.02/)
-  
-
-
-
-
+源地址：[doujinshi.org: B454180 (V4)](https://www.doujinshi.org/book/454180/TUDURI.-Vol.02/)  
 
 ---
 

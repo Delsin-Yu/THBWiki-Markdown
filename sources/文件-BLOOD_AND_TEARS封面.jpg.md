@@ -1,6 +1,6 @@
 # 文件:BLOOD_AND_TEARS封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\99\ns6%3ABLOOD_AND_TEARS%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\99\ns6%3ABLOOD_AND_TEARS%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 THOUSAND_LEAVES | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ THOUSAND_LEAVES | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [BLOOD AND TEARS](./BLOOD_AND_TEARS.md)  
-该封面包含的角色：- [八云紫](./八云紫.md)
+- [BLOOD AND TEARS](./BLOOD_AND_TEARS.md)该封面包含的角色：
+- [八云紫](./八云紫.md)
 
   
-源地址：[from Touhou Wiki](https://en.touhouwiki.net/images/7/73/TIBA014.jpg)
-  
-
-
-
-
+源地址：[from Touhou Wiki](https://en.touhouwiki.net/images/7/73/TIBA014.jpg)  
 
 ---
 

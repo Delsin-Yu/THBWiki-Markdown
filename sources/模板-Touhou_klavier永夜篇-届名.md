@@ -1,12 +1,8 @@
 # 模板:Touhou_klavier永夜篇/届名
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\6\6d\ns10%3ATouhou_klavier%E6%B0%B8%E5%A4%9C%E7%AF%87%2F%E5%B1%8A%E5%90%8D.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\6\6d\ns10%3ATouhou_klavier%E6%B0%B8%E5%A4%9C%E7%AF%87%2F%E5%B1%8A%E5%90%8D.html -->
 
 活动届名模板
-
-
-
-
 
 
 ---

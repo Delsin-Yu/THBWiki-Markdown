@@ -1,6 +1,6 @@
 # 文件:SOL封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\07\ns6%3ASOL%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\07\ns6%3ASOL%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 PROSCIUTTO | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ PROSCIUTTO | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [SOL](./SOL.md)  
-该封面包含的角色：- [灵乌路空](./灵乌路空.md)
-
-
-
+- [SOL](./SOL.md)该封面包含的角色：
+- [灵乌路空](./灵乌路空.md)
 
 
 ---

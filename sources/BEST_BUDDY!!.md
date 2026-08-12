@@ -1,23 +1,22 @@
 # BEST_BUDDY!!
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\d\d9\ns0%3ABEST_BUDDY%21%21.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\d\d9\ns0%3ABEST_BUDDY%21%21.html -->
 
 2016年10月16日 由 シロガネアプリコーゼ 于 博丽神社秋季例大祭3 发布的画集/合同志同人志，A4尺寸一共50页，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人志 (未找到链接)** 的词条
-
+**[二次创作同人志](./二次创作.md#同人志)**的词条
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-BEST_BUDDY!!封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/a/a9/BEST_BUDDY%21%21%E5%B0%81%E9%9D%A2.jpg/138px-BEST_BUDDY%21%21%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="138" height="196" srcset="https://upload.thwiki.cc/thumb/a/a9/BEST_BUDDY%21%21%E5%B0%81%E9%9D%A2.jpg/207px-BEST_BUDDY%21%21%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/a/a9/BEST_BUDDY%21%21%E5%B0%81%E9%9D%A2.jpg/275px-BEST_BUDDY%21%21%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="360" data-file-height="512"></a><div class="cover-char">角色：<a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰朵露·斯卡蕾特</a></div></td>
 </tr><tr><td class="label">名称</td><td colspan="2"> BEST BUDDY!! </td></tr><tr><td class="label">制作方</td><td><a href="./シロガネアプリコーゼ.md" title="シロガネアプリコーゼ">シロガネアプリコーゼ</a></td><td class="cover-artwork" rowspan="7" style="min-width:196px;"><a href="./文件-BEST_BUDDY!!封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/a/a9/BEST_BUDDY%21%21%E5%B0%81%E9%9D%A2.jpg/138px-BEST_BUDDY%21%21%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="138" height="196" srcset="https://upload.thwiki.cc/thumb/a/a9/BEST_BUDDY%21%21%E5%B0%81%E9%9D%A2.jpg/207px-BEST_BUDDY%21%21%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/a/a9/BEST_BUDDY%21%21%E5%B0%81%E9%9D%A2.jpg/275px-BEST_BUDDY%21%21%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="360" data-file-height="512"></a><div class="cover-char">角色：<a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰朵露·斯卡蕾特</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2016-10-16&#160;（<a href="/展会作品列表?e=%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E7%A7%8B%E5%AD%A3%E4%BE%8B%E5%A4%A7%E7%A5%AD%233">第三回 博麗神社秋季例大祭</a>）</td></tr><tr><td class="label">类型</td><td>画集，合同志</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>A4</td></tr><tr><td class="label">页数</td><td>50P</td></tr><tr><td class="label">售价</td><td>会场售价：1500日元</td></tr></tbody></table>
+</tr><tr><td class="label">首发日期</td><td>2016-10-16 （<a href="./展会作品列表.md#3">第三回 博麗神社秋季例大祭</a>）</td></tr><tr><td class="label">类型</td><td>画集，合同志</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>A4</td></tr><tr><td class="label">页数</td><td>50P</td></tr><tr><td class="label">售价</td><td>会场售价：1500日元</td></tr></tbody></table>
 
 BEST BUDDY!!（同人志，シロガネアプリコーゼ，2016） - 2016年10月16日 由 シロガネアプリコーゼ 于 博丽神社秋季例大祭3 发布的画集/合同志同人志，A4尺寸一共50页，分级为 一般向
-
 ## 预览
 
 ## Staff
+
 - 星屑あんず (未找到链接)
 - イシム (未找到链接)
 - 屑晶 (未找到链接)
@@ -59,9 +58,6 @@ BEST BUDDY!!（同人志，シロガネアプリコーゼ，2016） - 2016年10�
 
 
 ## 评论
-
-
-
 
 ---
 

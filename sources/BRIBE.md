@@ -1,25 +1,23 @@
 # BRIBE
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\64\ns0%3ABRIBE.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\64\ns0%3ABRIBE.html -->
 
 2020年9月26日 由 心病神社 于 幺乐团嘉年华！10 发布的合同志同人志，登场人物有 诅咒子、依莉斯、艾丽、小兔姬，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人志 (未找到链接)** 的词条
-
+**[二次创作同人志](./二次创作.md#同人志)**的词条
 ## 作品信息
 
-<table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-BRIBE封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/7/7c/BRIBE%E5%B0%81%E9%9D%A2.jpg/118px-BRIBE%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="118" height="168" srcset="https://upload.thwiki.cc/thumb/7/7c/BRIBE%E5%B0%81%E9%9D%A2.jpg/177px-BRIBE%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/7/7c/BRIBE%E5%B0%81%E9%9D%A2.jpg/236px-BRIBE%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="2509" data-file-height="3568"></a><div class="cover-char">角色：<a href="/index.php?title=%E8%AF%85%E5%92%92%E5%AD%90&amp;action=edit&amp;redlink=1" class="new" title="诅咒子（页面不存在）">诅咒子</a>，<a href="./依莉斯.md" title="依莉斯">依莉斯</a>，<a href="./艾丽.md" title="艾丽">艾丽</a>，<a href="./小兔姬.md" title="小兔姬">小兔姬</a></div></td>
-</tr><tr><td class="label">名称</td><td colspan="2"> BRIBE </td></tr><tr><td class="label">制作方</td><td><a href="./心病神社.md" title="心病神社">心病神社</a></td><td class="cover-artwork" rowspan="6" style="min-width:168px;"><a href="./文件-BRIBE封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/7/7c/BRIBE%E5%B0%81%E9%9D%A2.jpg/118px-BRIBE%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="118" height="168" srcset="https://upload.thwiki.cc/thumb/7/7c/BRIBE%E5%B0%81%E9%9D%A2.jpg/177px-BRIBE%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/7/7c/BRIBE%E5%B0%81%E9%9D%A2.jpg/236px-BRIBE%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="2509" data-file-height="3568"></a><div class="cover-char">角色：<a href="/index.php?title=%E8%AF%85%E5%92%92%E5%AD%90&amp;action=edit&amp;redlink=1" class="new" title="诅咒子（页面不存在）">诅咒子</a>，<a href="./依莉斯.md" title="依莉斯">依莉斯</a>，<a href="./艾丽.md" title="艾丽">艾丽</a>，<a href="./小兔姬.md" title="小兔姬">小兔姬</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2020-09-26&#160;（<a href="/展会作品列表?e=%E5%B9%BA%E4%B9%90%E5%9B%A2%E5%98%89%E5%B9%B4%E5%8D%8E%EF%BC%81%2310">幺樂団カァニバル！10</a>）</td></tr><tr><td class="label">类型</td><td>合同志</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">登场人物</td><td><a href="/index.php?title=%E8%AF%85%E5%92%92%E5%AD%90&amp;action=edit&amp;redlink=1" class="new" title="诅咒子（页面不存在）">诅咒子</a>，<a href="./依莉斯.md" title="依莉斯">依莉斯</a>，<a href="./艾丽.md" title="艾丽">艾丽</a>，<a href="./小兔姬.md" title="小兔姬">小兔姬</a></td></tr><tr><td class="label">售价</td><td>会场售价：1000日元</td></tr></tbody></table>
+<table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-BRIBE封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/7/7c/BRIBE%E5%B0%81%E9%9D%A2.jpg/118px-BRIBE%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="118" height="168" srcset="https://upload.thwiki.cc/thumb/7/7c/BRIBE%E5%B0%81%E9%9D%A2.jpg/177px-BRIBE%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/7/7c/BRIBE%E5%B0%81%E9%9D%A2.jpg/236px-BRIBE%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="2509" data-file-height="3568"></a><div class="cover-char">角色：<a class="new" title="诅咒子（页面不存在）">诅咒子</a>，<a href="./依莉斯.md" title="依莉斯">依莉斯</a>，<a href="./艾丽.md" title="艾丽">艾丽</a>，<a href="./小兔姬.md" title="小兔姬">小兔姬</a></div></td>
+</tr><tr><td class="label">名称</td><td colspan="2"> BRIBE </td></tr><tr><td class="label">制作方</td><td><a href="./心病神社.md" title="心病神社">心病神社</a></td><td class="cover-artwork" rowspan="6" style="min-width:168px;"><a href="./文件-BRIBE封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/7/7c/BRIBE%E5%B0%81%E9%9D%A2.jpg/118px-BRIBE%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="118" height="168" srcset="https://upload.thwiki.cc/thumb/7/7c/BRIBE%E5%B0%81%E9%9D%A2.jpg/177px-BRIBE%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/7/7c/BRIBE%E5%B0%81%E9%9D%A2.jpg/236px-BRIBE%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="2509" data-file-height="3568"></a><div class="cover-char">角色：<a class="new" title="诅咒子（页面不存在）">诅咒子</a>，<a href="./依莉斯.md" title="依莉斯">依莉斯</a>，<a href="./艾丽.md" title="艾丽">艾丽</a>，<a href="./小兔姬.md" title="小兔姬">小兔姬</a></div></td>
+</tr><tr><td class="label">首发日期</td><td>2020-09-26 （<a href="./展会作品列表.md#10">幺樂団カァニバル！10</a>）</td></tr><tr><td class="label">类型</td><td>合同志</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">登场人物</td><td><a class="new" title="诅咒子（页面不存在）">诅咒子</a>，<a href="./依莉斯.md" title="依莉斯">依莉斯</a>，<a href="./艾丽.md" title="艾丽">艾丽</a>，<a href="./小兔姬.md" title="小兔姬">小兔姬</a></td></tr><tr><td class="label">售价</td><td>会场售价：1000日元</td></tr></tbody></table>
 
 BRIBE（同人志，心病神社，2020） - 2020年9月26日 由 心病神社 于 幺乐团嘉年华！10 发布的合同志同人志，登场人物有 诅咒子、依莉斯、艾丽、小兔姬，分级为 一般向
-
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://murmeltire1218.booth.pm/items/2416871">Booth</a></td></tr></tbody></table>
 
 
-
 ## Staff
+
 - [カタケイ](./カタケイ.md)
 - ラズジャム (未找到链接)
 - ニゲラ道中 (未找到链接)
@@ -51,9 +49,6 @@ BRIBE（同人志，心病神社，2020） - 2020年9月26日 由 心病神社 �
 
 
 ## 评论
-
-
-
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:Approximation：花見酒封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\62\ns6%3AApproximation%EF%BC%9A%E8%8A%B1%E8%A6%8B%E9%85%92%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\62\ns6%3AApproximation%EF%BC%9A%E8%8A%B1%E8%A6%8B%E9%85%92%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Nostalgic_Crescent | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Nostalgic_Crescent | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Approximation：花見酒](./Approximation：花見酒.md)  
-该封面包含的角色：- [八云紫](./八云紫.md)
-
-
-
+- [Approximation：花見酒](./Approximation：花見酒.md)该封面包含的角色：
+- [八云紫](./八云紫.md)
 
 
 ---

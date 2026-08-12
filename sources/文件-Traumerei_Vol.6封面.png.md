@@ -1,6 +1,6 @@
 # 文件:Traumerei_Vol.6封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8c\ns6%3ATraumerei_Vol%2E6%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8c\ns6%3ATraumerei_Vol%2E6%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 同人志封面 | 封面图片 | 黒獅子帝
 
@@ -10,16 +10,14 @@
 使用了本文件作封面图片的作品：
   
 
-- [Traumerei Vol.6](./Traumerei_Vol.6.md)  
-该封面包含的角色：- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)- [八坂神奈子](./八坂神奈子.md)- [水桥帕露西](./水桥帕露西.md)- [稀神探女](./稀神探女.md)
+- [Traumerei Vol.6](./Traumerei_Vol.6.md)该封面包含的角色：
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
+- [八坂神奈子](./八坂神奈子.md)
+- [水桥帕露西](./水桥帕露西.md)
+- [稀神探女](./稀神探女.md)
 
   
-[Pixiv artwork ID: 56644488 (original size)](https://www.pixiv.net/artworks/56644488)
-  
-
-
-
-
+[Pixiv artwork ID: 56644488 (original size)](https://www.pixiv.net/artworks/56644488)  
 
 ---
 

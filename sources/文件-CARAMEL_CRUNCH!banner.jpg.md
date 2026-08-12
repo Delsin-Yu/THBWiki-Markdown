@@ -1,12 +1,8 @@
 # 文件:CARAMEL_CRUNCH!banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ce\ns6%3ACARAMEL_CRUNCH%21banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ce\ns6%3ACARAMEL_CRUNCH%21banner%2Ejpg.html -->
 
 CARAMEL_CRUNCH! | 社团LOGO
-
-
-
-
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:Aozorabanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\19\ns6%3AAozorabanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\19\ns6%3AAozorabanner%2Epng.html -->
 
 Aozora | 社团LOGO
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:under_cat＠feed_march封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d9\ns6%3Aunder_cat%EF%BC%A0feed_march%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d9\ns6%3Aunder_cat%EF%BC%A0feed_march%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 UNDER_CAT | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ UNDER_CAT | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [under cat＠feed march](./under_cat＠feed_march.md)  
-该封面包含的角色：- [伊吹萃香](./伊吹萃香.md)
-
-
-
+- [under cat＠feed march](./under_cat＠feed_march.md)该封面包含的角色：
+- [伊吹萃香](./伊吹萃香.md)
 
 
 ---

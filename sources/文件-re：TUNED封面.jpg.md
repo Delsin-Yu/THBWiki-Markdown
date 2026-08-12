@@ -1,6 +1,6 @@
 # 文件:re：TUNED封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\15\ns6%3Are%EF%BC%9ATUNED%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\15\ns6%3Are%EF%BC%9ATUNED%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 crafTUNER | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@ crafTUNER | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [re：TUNED](./re：TUNED.md)  
-该封面包含的角色：- 原创角色 (未找到链接)
+- [re：TUNED](./re：TUNED.md)该封面包含的角色：
+- 原创角色 (未找到链接)
 
   
-源地址：[direct image link (10 size)](https://f4.bcbits.com/img/a4179806583_10.jpg), [source page (artist Bandcamp)](https://craftuner.bandcamp.com/album/re-tuned)
-  
-
-
-
-
+源地址：[direct image link (10 size)](https://f4.bcbits.com/img/a4179806583_10.jpg), [source page (artist Bandcamp)](https://craftuner.bandcamp.com/album/re-tuned)  
 
 ---
 

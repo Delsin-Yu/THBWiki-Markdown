@@ -1,6 +1,6 @@
 # 文件:Dark,_Dark_Heart_／_Tenshi封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2d\ns6%3ADark%2C_Dark_Heart_%EF%BC%8F_Tenshi%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2d\ns6%3ADark%2C_Dark_Heart_%EF%BC%8F_Tenshi%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Pokasaha_Records | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ Pokasaha_Records | 专辑封面 | 封面图片
   
 
 - [Dark, Dark Heart ／ Tenshi](./Dark,_Dark_Heart_／_Tenshi.md)
-
-
-
 
 
 ---

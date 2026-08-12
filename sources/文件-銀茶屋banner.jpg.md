@@ -1,14 +1,11 @@
 # 文件:銀茶屋banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6b\ns6%3A%E9%8A%80%E8%8C%B6%E5%B1%8Bbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6b\ns6%3A%E9%8A%80%E8%8C%B6%E5%B1%8Bbanner%2Ejpg.html -->
 
 社团LOGO | 銀茶屋
 
 
 ## 摘要
-
-
-
 
 ---
 

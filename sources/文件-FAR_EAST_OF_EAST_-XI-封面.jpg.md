@@ -1,6 +1,6 @@
 # 文件:FAR_EAST_OF_EAST_-XI-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4b\ns6%3AFAR_EAST_OF_EAST_-XI-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4b\ns6%3AFAR_EAST_OF_EAST_-XI-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 TatshMusicCircle | 专辑封面 | 封面图片
 
@@ -8,16 +8,12 @@ TatshMusicCircle | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [FAR EAST OF EAST -XI-](./FAR_EAST_OF_EAST_-XI-.md)  
-该封面包含的角色：- [纯狐](./纯狐.md)- [稀神探女](./稀神探女.md)
+- [FAR EAST OF EAST -XI-](./FAR_EAST_OF_EAST_-XI-.md)该封面包含的角色：
+- [纯狐](./纯狐.md)
+- [稀神探女](./稀神探女.md)
 
   
-源地址：[[1]](http://img.yaplog.jp/img/18/pc/t/a/t/tatsh_blog/0/342_large.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://img.yaplog.jp/img/18/pc/t/a/t/tatsh_blog/0/342_large.jpg)  
 
 ---
 

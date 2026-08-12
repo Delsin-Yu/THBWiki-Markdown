@@ -1,6 +1,6 @@
 # 東方霊尋夢~Journey_for_the_Half-Spirit/系统
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\b8\ns0%3A%E6%9D%B1%E6%96%B9%E9%9C%8A%E5%B0%8B%E5%A4%A2%7EJourney_for_the_Half-Spirit%2F%E7%B3%BB%E7%BB%9F.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\b8\ns0%3A%E6%9D%B1%E6%96%B9%E9%9C%8A%E5%B0%8B%E5%A4%A2%7EJourney_for_the_Half-Spirit%2F%E7%B3%BB%E7%BB%9F.html -->
 
 菜酱
 
@@ -13,12 +13,9 @@
 - [4 关于一些关卡的特殊说明](#关于一些关卡的特殊说明)
 
 
-
-
-
 ## 系统说明
   
-[](./文件-东方灵寻梦系统.png.md)
+<img alt="东方灵寻梦系统.png" src="https://upload.thwiki.cc/7/74/%E4%B8%9C%E6%96%B9%E7%81%B5%E5%AF%BB%E6%A2%A6%E7%B3%BB%E7%BB%9F.png" decoding="async" loading="lazy" width="401" height="238" data-file-width="401" data-file-height="238">
   
 1. 自机位置（判定点）
   
@@ -35,7 +32,6 @@
 7. 帧率
   
 
-
 ## 关于游戏模式
   
 游戏模式为单关类型，通过上一关即可解锁下一关。每一关可以反复游玩。
@@ -48,11 +44,8 @@ Boss不具有体术判定。
   
 游戏会记录玩家这个关卡的通过率，即主菜单中的“梦境”。相当于正作里History的功能。
   
-单关死亡时，可以点击屏幕再次挑战。此时按住屏幕不动会看见作者的卖萌
-  
- ~~原定有EX，联机BossRush和Replay系统~~ 
-  
-
+单关死亡时，可以点击屏幕再次挑战。此时按住屏幕不动会看见作者的卖萌  
+ ~~原定有EX，联机BossRush和Replay系统~~   
 
 ## 关于自机
   
@@ -69,21 +62,15 @@ Boss不具有体术判定。
 自机不具有灵击或Bomb。
   
 
-
 ## 关于一些关卡的特殊说明
   
-二面，可以通过第二指点击屏幕切换黑/白背景。子弹在同色背景下无判定。怀疑作者的卖萌和此系统的原理相关
-  
+二面，可以通过第二指点击屏幕切换黑/白背景。子弹在同色背景下无判定。怀疑作者的卖萌和此系统的原理相关  
 四面，击破一个Boss会引起另一个Boss的狂暴。
   
 五面，非符中偶尔会出现子弹遇见自机后“往回缩”的情况，具体原因/出现情况不明。怀疑与6面早苗3符或者自机斩击范围相关。
   
 六面，早苗的二符具有向上的引力，三符具有使自机周围子弹减慢的遮罩。
   
-
-
-
-
 
 ---
 

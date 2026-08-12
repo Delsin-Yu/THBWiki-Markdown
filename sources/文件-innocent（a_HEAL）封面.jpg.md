@@ -1,6 +1,6 @@
 # 文件:innocent（a_HEAL）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d0\ns6%3Ainnocent%EF%BC%88a_HEAL%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d0\ns6%3Ainnocent%EF%BC%88a_HEAL%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 a_HEAL | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@ a_HEAL | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [innocent（a HEAL）](./innocent（a_HEAL）.md)  
-该封面包含的角色：- [八坂神奈子](./八坂神奈子.md)
-
-
-
+- [innocent（a HEAL）](./innocent（a_HEAL）.md)该封面包含的角色：
+- [八坂神奈子](./八坂神奈子.md)
 
 
 ---

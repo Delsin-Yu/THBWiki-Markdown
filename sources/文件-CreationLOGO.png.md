@@ -1,12 +1,8 @@
 # 文件:CreationLOGO.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d8\ns6%3ACreationLOGO%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d8\ns6%3ACreationLOGO%2Epng.html -->
 
 ComicCreation | SunshineCreation | 活动LOGO
-
-
-
-
 
 
 ---

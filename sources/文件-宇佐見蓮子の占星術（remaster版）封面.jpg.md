@@ -1,6 +1,6 @@
 # 文件:宇佐見蓮子の占星術（remaster版）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\83\ns6%3A%E5%AE%87%E4%BD%90%E8%A6%8B%E8%93%AE%E5%AD%90%E3%81%AE%E5%8D%A0%E6%98%9F%E8%A1%93%EF%BC%88remaster%E7%89%88%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\83\ns6%3A%E5%AE%87%E4%BD%90%E8%A6%8B%E8%93%AE%E5%AD%90%E3%81%AE%E5%8D%A0%E6%98%9F%E8%A1%93%EF%BC%88remaster%E7%89%88%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 LEASH | 专辑封面 | 封面图片
 
@@ -10,11 +10,9 @@ LEASH | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [宇佐見蓮子の占星術（remaster版）](./宇佐見蓮子の占星術（remaster版）.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [宇佐見蓮子の占星術（remaster版）](./宇佐見蓮子の占星術（remaster版）.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

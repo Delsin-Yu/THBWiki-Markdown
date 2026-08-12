@@ -1,6 +1,6 @@
 # 東方桃源宮_～_Riverbed_Soul_Saver./符卡
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\a\af\ns0%3A%E6%9D%B1%E6%96%B9%E6%A1%83%E6%BA%90%E5%AE%AE_%EF%BD%9E_Riverbed_Soul_Saver%2E%2F%E7%AC%A6%E5%8D%A1.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\a\af\ns0%3A%E6%9D%B1%E6%96%B9%E6%A1%83%E6%BA%90%E5%AE%AE_%EF%BD%9E_Riverbed_Soul_Saver%2E%2F%E7%AC%A6%E5%8D%A1.html -->
 
 東方邪星章製作チーム
 
@@ -9,8 +9,8 @@
 
 每一个条目包含相关截图、中日文、在哪一关出现以及注解。
   
-
-: - [Stage 1 符卡](./東方桃源宮_～_Riverbed_Soul_Saver.-符卡-Stage_1.md)
+: 
+- [Stage 1 符卡](./東方桃源宮_～_Riverbed_Soul_Saver.-符卡-Stage_1.md)
 - [Stage 2 符卡](./東方桃源宮_～_Riverbed_Soul_Saver.-符卡-Stage_2.md)
 - [Stage 3 符卡](./東方桃源宮_～_Riverbed_Soul_Saver.-符卡-Stage_3.md)
 - [Stage 4 符卡](./東方桃源宮_～_Riverbed_Soul_Saver.-符卡-Stage_4.md)
@@ -19,9 +19,6 @@
 - [Extra关卡 符卡](./東方桃源宮_～_Riverbed_Soul_Saver.-符卡-Extra.md)
 - [Phantasm关卡 符卡](./東方桃源宮_～_Riverbed_Soul_Saver.-符卡-Phantasm.md)
 - [Overdrive难度 符卡](./東方桃源宮_～_Riverbed_Soul_Saver.-符卡-Overdrive.md)
-
-
-
 
 
 

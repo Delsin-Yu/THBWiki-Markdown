@@ -1,6 +1,6 @@
 # 文件:ORIENT_vol.5_Imperishable_Night.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b8\ns6%3AORIENT_vol%2E5_Imperishable_Night%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b8\ns6%3AORIENT_vol%2E5_Imperishable_Night%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 まっとかん。 | 同人志封面 | 封面图片
 
@@ -10,11 +10,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [ORIENT vol.5 Imperishable Night.](./ORIENT_vol.5_Imperishable_Night..md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [魂魄妖梦](./魂魄妖梦.md)- [西行寺幽幽子](./西行寺幽幽子.md)
-
-
-
+- [ORIENT vol.5 Imperishable Night.](./ORIENT_vol.5_Imperishable_Night..md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [魂魄妖梦](./魂魄妖梦.md)
+- [西行寺幽幽子](./西行寺幽幽子.md)
 
 
 ---

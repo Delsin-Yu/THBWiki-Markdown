@@ -1,6 +1,6 @@
 # 文件:End_Over_End封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\17\ns6%3AEnd_Over_End%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\17\ns6%3AEnd_Over_End%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 脱ﾄ屋
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [End Over End](./End_Over_End.md)  
-该封面包含的角色：- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
+- [End Over End](./End_Over_End.md)该封面包含的角色：
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
 
   
-源地址：[[1]](http://ndatya.web.fc2.com/eoe/jacket.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://ndatya.web.fc2.com/eoe/jacket.jpg)  
 
 ---
 

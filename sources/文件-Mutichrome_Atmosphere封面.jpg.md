@@ -1,6 +1,6 @@
 # 文件:Mutichrome_Atmosphere封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9f\ns6%3AMutichrome_Atmosphere%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9f\ns6%3AMutichrome_Atmosphere%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 BamBoO₂ノVOICE | 专辑封面 | 封面图片
 
@@ -10,16 +10,13 @@ BamBoO₂ノVOICE | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Mutichrome Atmosphere](./Mutichrome_Atmosphere.md)  
-该封面包含的角色：- [橙](./橙.md)- [八云蓝](./八云蓝.md)- [八云紫](./八云紫.md)
+- [Mutichrome Atmosphere](./Mutichrome_Atmosphere.md)该封面包含的角色：
+- [橙](./橙.md)
+- [八云蓝](./八云蓝.md)
+- [八云紫](./八云紫.md)
 
   
-源地址：[dizzylab](https://cdn.dizzylab.net/media/cover/封面_rAYFvdi.jpg)
-  
-
-
-
-
+源地址：[dizzylab](https://cdn.dizzylab.net/media/cover/封面_rAYFvdi.jpg)  
 
 ---
 

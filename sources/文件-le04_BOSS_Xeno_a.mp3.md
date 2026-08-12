@@ -1,16 +1,12 @@
 # 文件:le04_BOSS_Xeno_a.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b7\ns6%3Ale04_BOSS_Xeno_a%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b7\ns6%3Ale04_BOSS_Xeno_a%2Emp3.html -->
 
 连缘Project官方音乐MP3
 
   
 连缘天影战记中立线EX面Boss-世乃亚主题曲
   
-
-
-
-
 
 ---
 

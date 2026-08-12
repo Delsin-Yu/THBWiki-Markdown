@@ -1,12 +1,8 @@
 # 文件:东方萃梦想博丽灵梦ED1.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\17\ns6%3A%E4%B8%9C%E6%96%B9%E8%90%83%E6%A2%A6%E6%83%B3%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6ED1%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\17\ns6%3A%E4%B8%9C%E6%96%B9%E8%90%83%E6%A2%A6%E6%83%B3%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6ED1%2Epng.html -->
 
 东方萃梦想结局图
-
-
-
-
 
 
 ---

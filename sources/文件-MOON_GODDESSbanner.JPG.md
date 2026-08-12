@@ -1,12 +1,8 @@
 # 文件:MOON_GODDESSbanner.JPG
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\14\ns6%3AMOON_GODDESSbanner%2EJPG.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\14\ns6%3AMOON_GODDESSbanner%2EJPG.html -->
 
 MOON_GODDESS | 社团LOGO
-
-
-
-
 
 
 ---

@@ -1,16 +1,12 @@
 # 文件:st_flan.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1c\ns6%3Ast_flan%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1c\ns6%3Ast_flan%2Ejpg.html -->
 
 东方口袋战争
 
   
 THPWC17
   
-
-
-
-
 
 ---
 

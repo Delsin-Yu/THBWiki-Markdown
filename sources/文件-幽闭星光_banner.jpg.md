@@ -1,12 +1,8 @@
 # 文件:幽闭星光_banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b3\ns6%3A%E5%B9%BD%E9%97%AD%E6%98%9F%E5%85%89_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b3\ns6%3A%E5%B9%BD%E9%97%AD%E6%98%9F%E5%85%89_banner%2Ejpg.html -->
 
 幽闭星光 | 社团LOGO
-
-
-
-
 
 
 ---

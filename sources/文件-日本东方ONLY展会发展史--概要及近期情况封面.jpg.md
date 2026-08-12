@@ -1,6 +1,6 @@
 # 文件:日本东方ONLY展会发展史--概要及近期情况封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\45\ns6%3A%E6%97%A5%E6%9C%AC%E4%B8%9C%E6%96%B9ONLY%E5%B1%95%E4%BC%9A%E5%8F%91%E5%B1%95%E5%8F%B2--%E6%A6%82%E8%A6%81%E5%8F%8A%E8%BF%91%E6%9C%9F%E6%83%85%E5%86%B5%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\45\ns6%3A%E6%97%A5%E6%9C%AC%E4%B8%9C%E6%96%B9ONLY%E5%B1%95%E4%BC%9A%E5%8F%91%E5%B1%95%E5%8F%B2--%E6%A6%82%E8%A6%81%E5%8F%8A%E8%BF%91%E6%9C%9F%E6%83%85%E5%86%B5%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 五花八門 | 同人志封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [日本东方ONLY展会发展史--概要及近期情况](./日本东方ONLY展会发展史--概要及近期情况.md)  
-该封面包含的角色：- [蓬莱人形](./蓬莱人形.md)
-
-
-
+- [日本东方ONLY展会发展史--概要及近期情况](./日本东方ONLY展会发展史--概要及近期情况.md)该封面包含的角色：
+- [蓬莱人形](./蓬莱人形.md)
 
 
 ---

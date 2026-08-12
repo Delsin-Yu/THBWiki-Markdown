@@ -1,6 +1,6 @@
 # 文件:Blade_of_Infinity封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\47\ns6%3ABlade_of_Infinity%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\47\ns6%3ABlade_of_Infinity%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Orpheus_of_Flame | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Orpheus_of_Flame | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Blade of Infinity](./Blade_of_Infinity.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [Blade of Infinity](./Blade_of_Infinity.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
   
-源地址：[[1]](https://static.wixstatic.com/media/241c62_efb2e3e1e6f141e48f40f3fc9bf08929~mv2.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://static.wixstatic.com/media/241c62_efb2e3e1e6f141e48f40f3fc9bf08929~mv2.jpg)  
 
 ---
 

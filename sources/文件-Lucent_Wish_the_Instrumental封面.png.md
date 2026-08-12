@@ -1,6 +1,6 @@
 # 文件:Lucent_Wish_the_Instrumental封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\74\ns6%3ALucent_Wish_the_Instrumental%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\74\ns6%3ALucent_Wish_the_Instrumental%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 EastNewSound | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ EastNewSound | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Lucent Wish the Instrumental](./Lucent_Wish_the_Instrumental.md)  
-该封面包含的角色：- [东风谷早苗](./东风谷早苗.md)- [八坂神奈子](./八坂神奈子.md)
-
-
-
+- [Lucent Wish the Instrumental](./Lucent_Wish_the_Instrumental.md)该封面包含的角色：
+- [东风谷早苗](./东风谷早苗.md)
+- [八坂神奈子](./八坂神奈子.md)
 
 
 ---

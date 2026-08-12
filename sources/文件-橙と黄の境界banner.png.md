@@ -1,14 +1,11 @@
 # 文件:橙と黄の境界banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d6\ns6%3A%E6%A9%99%E3%81%A8%E9%BB%84%E3%81%AE%E5%A2%83%E7%95%8Cbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d6\ns6%3A%E6%A9%99%E3%81%A8%E9%BB%84%E3%81%AE%E5%A2%83%E7%95%8Cbanner%2Epng.html -->
 
 橙と黄の境界 | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

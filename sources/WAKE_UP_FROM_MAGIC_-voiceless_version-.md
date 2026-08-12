@@ -1,12 +1,11 @@
 # WAKE_UP_FROM_MAGIC_-voiceless_version-
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\5\55\ns0%3AWAKE_UP_FROM_MAGIC_-voiceless_version-.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\5\55\ns0%3AWAKE_UP_FROM_MAGIC_-voiceless_version-.html -->
 
 2018年5月23日 由 岡垣正志＆フレンズ  发布的单曲同人专辑，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人专辑 (未找到链接)** 的词条
-
+**[二次创作同人专辑](./二次创作.md#同人音乐)**的词条
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-WAKE_UP_FROM_MAGIC_-voiceless_version-封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/7/7b/WAKE_UP_FROM_MAGIC_-voiceless_version-%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="224" data-file-width="200" data-file-height="200"></a></td>
@@ -15,30 +14,24 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://kapparecords.com/MasashiOkagakiAndFriends/M_OKAGAKI_KPCR-173.html">https://kapparecords.com/MasashiOkagakiAndFriends/M_OKAGAKI_KPCR-173.html</a></td></tr></tbody></table>
 
 WAKE UP FROM MAGIC -voiceless version-（同人专辑，岡垣正志＆フレンズ，2018） - 2018年5月23日 由 岡垣正志＆フレンズ  发布的单曲同人专辑，分级为 一般向
-
 ## Staff
   
- **Arrangement**   
+**Arrangement**  
 
-<table><tbody><tr><td><a href="/index.php?title=%E5%B2%A1%E5%9E%A3_%E2%80%9CJill%E2%80%9D_%E6%AD%A3%E5%BF%97&amp;action=edit&amp;redlink=1" class="new" title="岡垣 “Jill” 正志（页面不存在）">岡垣 “Jill” 正志</a></td><td></td><td>Tr.1</td></tr></tbody></table>
+<table><tbody><tr><td><a class="new" title="岡垣 “Jill” 正志（页面不存在）">岡垣 “Jill” 正志</a></td><td></td><td>Tr.1</td></tr></tbody></table>
 
   
- **Instrument**   
+**Instrument**  
 
-<table><tbody><tr><td><a href="/index.php?title=%E5%B2%A1%E5%9E%A3_%E2%80%9CJill%E2%80%9D_%E6%AD%A3%E5%BF%97&amp;action=edit&amp;redlink=1" class="new" title="岡垣 “Jill” 正志（页面不存在）">岡垣 “Jill” 正志</a></td><td></td><td>Tr.1</td></tr><tr><td><a href="/index.php?title=Hiromi_Suzuki&amp;action=edit&amp;redlink=1" class="new" title="Hiromi Suzuki（页面不存在）">Hiromi Suzuki</a></td><td></td><td>Tr.1</td></tr><tr><td><a href="/index.php?title=Toshiyuki_Sugimori&amp;action=edit&amp;redlink=1" class="new" title="Toshiyuki Sugimori（页面不存在）">Toshiyuki Sugimori</a></td><td></td><td>Tr.1</td></tr></tbody></table>
-
+<table><tbody><tr><td><a class="new" title="岡垣 “Jill” 正志（页面不存在）">岡垣 “Jill” 正志</a></td><td></td><td>Tr.1</td></tr><tr><td><a class="new" title="Hiromi Suzuki（页面不存在）">Hiromi Suzuki</a></td><td></td><td>Tr.1</td></tr><tr><td><a class="new" title="Toshiyuki Sugimori（页面不存在）">Toshiyuki Sugimori</a></td><td></td><td>Tr.1</td></tr></tbody></table>
 
 
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="WAKE_UP_FROM_MAGIC_-voiceless_version-" colspan="2" class="title">WAKE UP FROM MAGIC -voiceless version-<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=岡垣 “Jill” 正志&amp;ogmusic=魔法少女達の百年祭&amp;fromwiki=WAKE_UP_FROM_MAGIC_-voiceless_version-"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E5%B2%A1%E5%9E%A3_%E2%80%9CJill%E2%80%9D_%E6%AD%A3%E5%BF%97&amp;action=edit&amp;redlink=1" class="new" title="岡垣 “Jill” 正志（页面不存在）">岡垣 “Jill” 正志</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，岡垣 “Jill” 正志&amp;fromwiki=WAKE_UP_FROM_MAGIC_-voiceless_version-"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演奏</td><td class="text" colspan="2">Organ, Keyboard：岡垣 “Jill” 正志 <br>Guitar：Hiromi Suzuki <br>Bass：Toshiyuki Sugimori</td></tr><tr><td class="left"></td><td class="label">初发布</td><td class="text" colspan="2"><a href="/BEFORE_THE_DAWN_-SCARLET_FANTASIA_XIX-#4" title="BEFORE THE DAWN -SCARLET FANTASIA XIX-">Wake Up From Magic</a><div class="source"><a href="./BEFORE_THE_DAWN_-SCARLET_FANTASIA_XIX-.md" title="BEFORE THE DAWN -SCARLET FANTASIA XIX-">BEFORE THE DAWN -SCARLET FANTASIA XIX-</a></div></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=魔法少女達の百年祭&amp;fromwiki=WAKE_UP_FROM_MAGIC_-voiceless_version-"><span></span></a></span><div class="ogmusic"><a href="./魔法少女達の百年祭.md" class="mw-redirect" title="魔法少女達の百年祭">魔法少女達の百年祭</a></div><div class="source"><a href="./东方红魔乡_～_the_Embodiment_of_Scarlet_Devil..md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr></tbody></table>
-
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="WAKE_UP_FROM_MAGIC_-voiceless_version-" colspan="2" class="title">WAKE UP FROM MAGIC -voiceless version-</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="岡垣 “Jill” 正志（页面不存在）">岡垣 “Jill” 正志</a></td></tr><tr><td class="left"></td><td class="label">演奏</td><td class="text" colspan="2">Organ, Keyboard：岡垣 “Jill” 正志 <br>Guitar：Hiromi Suzuki <br>Bass：Toshiyuki Sugimori</td></tr><tr><td class="left"></td><td class="label">初发布</td><td class="text" colspan="2"><a href="./BEFORE_THE_DAWN_-SCARLET_FANTASIA_XIX-.md#4" title="BEFORE THE DAWN -SCARLET FANTASIA XIX-">Wake Up From Magic</a><div class="source"><a href="./BEFORE_THE_DAWN_-SCARLET_FANTASIA_XIX-.md" title="BEFORE THE DAWN -SCARLET FANTASIA XIX-">BEFORE THE DAWN -SCARLET FANTASIA XIX-</a></div></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./魔法少女们的百年祭.md" class="mw-redirect" title="魔法少女達の百年祭">魔法少女達の百年祭</a></div><div class="source"><a href="./东方红魔乡.md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr></tbody></table>
 
 
 ## 评论
-
-
-
 
 ---
 

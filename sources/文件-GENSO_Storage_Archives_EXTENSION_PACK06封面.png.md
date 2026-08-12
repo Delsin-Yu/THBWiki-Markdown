@@ -1,6 +1,6 @@
 # 文件:GENSO_Storage_Archives_EXTENSION_PACK06封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\86\ns6%3AGENSO_Storage_Archives_EXTENSION_PACK06%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\86\ns6%3AGENSO_Storage_Archives_EXTENSION_PACK06%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 幻想Storage
 
@@ -11,9 +11,6 @@
   
 
 - [GENSO Storage Archives EXTENSION PACK06](./GENSO_Storage_Archives_EXTENSION_PACK06.md)
-
-
-
 
 
 ---

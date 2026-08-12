@@ -1,6 +1,6 @@
 # 文件:東方染紅歌_～Fate_of_Blood～封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\51\ns6%3A%E6%9D%B1%E6%96%B9%E6%9F%93%E7%B4%85%E6%AD%8C_%EF%BD%9EFate_of_Blood%EF%BD%9E%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\51\ns6%3A%E6%9D%B1%E6%96%B9%E6%9F%93%E7%B4%85%E6%AD%8C_%EF%BD%9EFate_of_Blood%EF%BD%9E%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 いえろ～ぜぶら | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方染紅歌 ～Fate of Blood～](./東方染紅歌_～Fate_of_Blood～.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
-
-
-
+- [東方染紅歌 ～Fate of Blood～](./東方染紅歌_～Fate_of_Blood～.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
 
 ---

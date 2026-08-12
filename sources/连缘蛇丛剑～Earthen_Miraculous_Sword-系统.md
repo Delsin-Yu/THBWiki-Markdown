@@ -1,6 +1,6 @@
 # 连缘蛇丛剑～Earthen_Miraculous_Sword/系统
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\0c\ns0%3A%E8%BF%9E%E7%BC%98%E8%9B%87%E4%B8%9B%E5%89%91%EF%BD%9EEarthen_Miraculous_Sword%2F%E7%B3%BB%E7%BB%9F.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\0c\ns0%3A%E8%BF%9E%E7%BC%98%E8%9B%87%E4%B8%9B%E5%89%91%EF%BD%9EEarthen_Miraculous_Sword%2F%E7%B3%BB%E7%BB%9F.html -->
 
 トリック・ノスタルジー
 
@@ -8,34 +8,23 @@
 ## 目录
 
 - [1 基本操作](#基本操作)
-
   - [1.1 操作方法](#操作方法)
 
 
-
 - [2 特殊系统](#特殊系统)
-
   - [2.1 瞬雷](#瞬雷)
   - [2.2 云花槽](#云花槽)
 
 
-
 - [3 机体说明](#机体说明)
-
   - [3.1 凤联薮雨](#凤联薮雨)
   - [3.2 燕乐玄鸟](#燕乐玄鸟)
   - [3.3 鹀黑巫鸟](#鹀黑巫鸟)
   - [3.4 隐藏机体](#隐藏机体)
 
 
-
 - [4 使用策略](#使用策略)
-
   - [4.1 关于LSC的小提示](#关于LSC的小提示)
-
-
-
-
 
 
 
@@ -43,11 +32,12 @@
 ## 基本操作
 
 ### 操作方法
--  **方向键**  移动角色
--  **Z键**  射击/确认/继续对话
--  **X键**  使用Bomb/取消/跳过对话（注意，在高速模式下，发动的Bomb为「瞬雷 (未找到链接)」）
--  **Shift键**  进入低速模式
--  **Esc键**  游戏暂停/退出replay
+
+- **方向键** 移动角色
+- **Z键** 射击/确认/继续对话
+- **X键** 使用Bomb/取消/跳过对话（注意，在高速模式下，发动的Bomb为「[瞬雷](./连缘蛇丛剑～Earthen_Miraculous_Sword.md#游戏系统)」）
+- **Shift键** 进入低速模式
+- **Esc键** 游戏暂停/退出replay
 
 
 ## 特殊系统
@@ -63,10 +53,7 @@
 连缘的擦弹判定比较严格，所以瞬雷正常状况下并不是很好攒。瞬雷槽满就无法再增长，瞬雷至多只能存一个。除了国主雀巳，其余所有机体瞬雷释放完毕以后槽会被清空。  
 
 瞬雷主要作用是消弹（黑巫鸟是反射子弹）和提供无敌。国主雀巳的瞬雷是高速按住x（会快速消耗瞬雷槽）可以提供较长的无敌，其他机体在消弹/反射释放的时候也有二十帧的无敌帧。  
-
-蛇丛剑LSC p5有无缝弹幕，必须用无敌帧去躲，必须使用瞬雷（也就是理论上不可能NNN）。p5难度显著取决于瞬雷无敌帧数量，不是国主雀巳可能会打的相当痛苦。
-  
-
+蛇丛剑LSC p5有无缝弹幕，必须用无敌帧去躲，必须使用瞬雷（也就是理论上不可能NNN）。p5难度显著取决于瞬雷无敌帧数量，不是国主雀巳可能会打的相当痛苦。  
 
 ### 云花槽
   
@@ -76,15 +63,12 @@
   
 练习模式开场时云花槽是空的。练习6面NN+杂鱼全击破刚好是2红1白（满）结束，恰好开不出LSC，也就是说实际上LSC只能全关去见（迷唇的恶意.jpg）；
   
-有一个练习器替换掉原本的六面练习，从6面道中非开始而且直接把花瓣给满，站6道中非脚底安定击破就会打开LSC，但是背景和子弹贴图有bug而且LSC内没有禁雷，练习效果并不好
-  
+有一个练习器替换掉原本的六面练习，从6面道中非开始而且直接把花瓣给满，站6道中非脚底安定击破就会打开LSC，但是背景和子弹贴图有bug而且LSC内没有禁雷，练习效果并不好  
 持有三片以上花瓣出6面可以触发LSC，是一张长度超过200s的时符，出六面时原有残机全部没收变成分数，因此与前面打的没有关系（除了云花槽槽量的硬需求）。
   
 LSC开场时每个花瓣转化成一个残机，LSC全程禁雷，瞬雷依然不能决死；不疮痍即为收取，符牌分极高(E/N/H/U为4/5/6.03/7.03千万)；如果带着残机出LSC，剩余的残机还会转化成分数(同样是每个1千万)进一步提高总分。
   
-警告：LSC P5过去后必须持续保持避弹！如果在P6最后减速阶段BOSS爆炸时击破撞会导致LSC收取失败！将会只得到LSC符卡分的1/10，(在E-U难度)亏损3-6千万分。
-  
-
+警告：LSC P5过去后必须持续保持避弹！如果在P6最后减速阶段BOSS爆炸时击破撞会导致LSC收取失败！将会只得到LSC符卡分的1/10，(在E-U难度)亏损3-6千万分。  
 
 ## 机体说明
 
@@ -92,83 +76,76 @@ LSC开场时每个花瓣转化成一个残机，LSC全程禁雷，瞬雷依然�
 
 <table><tbody><tr><td><div class="center"><div class="floatnone"><a href="./文件-凤联薮雨（无现里）.png.md" class="image" title="天衣无缝的乐天派 凤联薮雨"><img alt="天衣无缝的乐天派 凤联薮雨" src="https://upload.thwiki.cc/thumb/6/60/%E5%87%A4%E8%81%94%E8%96%AE%E9%9B%A8%EF%BC%88%E6%97%A0%E7%8E%B0%E9%87%8C%EF%BC%89.png/20px-%E5%87%A4%E8%81%94%E8%96%AE%E9%9B%A8%EF%BC%88%E6%97%A0%E7%8E%B0%E9%87%8C%EF%BC%89.png" decoding="async" loading="lazy" width="20" height="40" srcset="https://upload.thwiki.cc/thumb/6/60/%E5%87%A4%E8%81%94%E8%96%AE%E9%9B%A8%EF%BC%88%E6%97%A0%E7%8E%B0%E9%87%8C%EF%BC%89.png/31px-%E5%87%A4%E8%81%94%E8%96%AE%E9%9B%A8%EF%BC%88%E6%97%A0%E7%8E%B0%E9%87%8C%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/6/60/%E5%87%A4%E8%81%94%E8%96%AE%E9%9B%A8%EF%BC%88%E6%97%A0%E7%8E%B0%E9%87%8C%EF%BC%89.png/41px-%E5%87%A4%E8%81%94%E8%96%AE%E9%9B%A8%EF%BC%88%E6%97%A0%E7%8E%B0%E9%87%8C%EF%BC%89.png 2x" data-file-width="250" data-file-height="485"></a></div></div></td> <td style="width:150px;padding:3px 9px 3px 7px;">天衣无缝的乐天派</td><td style="width:180px;padding:3px 9px 3px 7px;"> <a href="./凤联薮雨.md" title="凤联薮雨">凤联薮雨</a></td></tr></tbody></table>
 
-
   
- **攻击力**   
+**攻击力**  
 
 ★★★☆☆
   
   
- **移动速度**   
+**移动速度**  
 
 ★★★☆☆ 
   
   
- **BOMB**   
+**BOMB**  
 
 「次元剥离」
   
   
- **瞬雷**   
+**瞬雷**  
 
 「幽闭之穴」
   
-
 
 ### 燕乐玄鸟
 
 <table><tbody><tr><td><div class="center"><div class="floatnone"><a href="./文件-燕乐玄鸟（蛇丛剑）.png.md" class="image" title="酒囊饭袋的单彩 燕乐玄鸟"><img alt="酒囊饭袋的单彩 燕乐玄鸟" src="https://upload.thwiki.cc/thumb/4/4e/%E7%87%95%E4%B9%90%E7%8E%84%E9%B8%9F%EF%BC%88%E8%9B%87%E4%B8%9B%E5%89%91%EF%BC%89.png/19px-%E7%87%95%E4%B9%90%E7%8E%84%E9%B8%9F%EF%BC%88%E8%9B%87%E4%B8%9B%E5%89%91%EF%BC%89.png" decoding="async" loading="lazy" width="19" height="40" srcset="https://upload.thwiki.cc/thumb/4/4e/%E7%87%95%E4%B9%90%E7%8E%84%E9%B8%9F%EF%BC%88%E8%9B%87%E4%B8%9B%E5%89%91%EF%BC%89.png/29px-%E7%87%95%E4%B9%90%E7%8E%84%E9%B8%9F%EF%BC%88%E8%9B%87%E4%B8%9B%E5%89%91%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/4/4e/%E7%87%95%E4%B9%90%E7%8E%84%E9%B8%9F%EF%BC%88%E8%9B%87%E4%B8%9B%E5%89%91%EF%BC%89.png/39px-%E7%87%95%E4%B9%90%E7%8E%84%E9%B8%9F%EF%BC%88%E8%9B%87%E4%B8%9B%E5%89%91%EF%BC%89.png 2x" data-file-width="230" data-file-height="467"></a></div></div></td> <td style="width:150px;padding:3px 9px 3px 7px;">酒囊饭袋的单彩</td><td style="width:180px;padding:3px 9px 3px 7px;"> <a href="./燕乐玄鸟.md" title="燕乐玄鸟">燕乐玄鸟</a></td></tr></tbody></table>
 
-
   
- **攻击力**   
+**攻击力**  
 
 ★★★★☆
   
   
- **移动速度**   
+**移动速度**  
 
 ★★★★★
   
   
- **BOMB**   
+**BOMB**  
 
 「黑白炫光」
   
   
- **瞬雷**   
+**瞬雷**  
 
 「顶点激射」
   
-
 
 ### 鹀黑巫鸟
 
 <table><tbody><tr><td><div class="center"><div class="floatnone"><a href="./文件-鹀黑巫鸟（蛇丛剑）.png.md" class="image" title="暧昧模糊的考古学者 鹀黑巫鸟"><img alt="暧昧模糊的考古学者 鹀黑巫鸟" src="https://upload.thwiki.cc/thumb/0/05/%E9%B9%80%E9%BB%91%E5%B7%AB%E9%B8%9F%EF%BC%88%E8%9B%87%E4%B8%9B%E5%89%91%EF%BC%89.png/19px-%E9%B9%80%E9%BB%91%E5%B7%AB%E9%B8%9F%EF%BC%88%E8%9B%87%E4%B8%9B%E5%89%91%EF%BC%89.png" decoding="async" loading="lazy" width="19" height="40" srcset="https://upload.thwiki.cc/thumb/0/05/%E9%B9%80%E9%BB%91%E5%B7%AB%E9%B8%9F%EF%BC%88%E8%9B%87%E4%B8%9B%E5%89%91%EF%BC%89.png/28px-%E9%B9%80%E9%BB%91%E5%B7%AB%E9%B8%9F%EF%BC%88%E8%9B%87%E4%B8%9B%E5%89%91%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/0/05/%E9%B9%80%E9%BB%91%E5%B7%AB%E9%B8%9F%EF%BC%88%E8%9B%87%E4%B8%9B%E5%89%91%EF%BC%89.png/37px-%E9%B9%80%E9%BB%91%E5%B7%AB%E9%B8%9F%EF%BC%88%E8%9B%87%E4%B8%9B%E5%89%91%EF%BC%89.png 2x" data-file-width="200" data-file-height="425"></a></div></div></td> <td style="width:150px;padding:3px 9px 3px 7px;">暧昧模糊的考古学者</td><td style="width:180px;padding:3px 9px 3px 7px;"> <a href="./鹀黑巫鸟.md" title="鹀黑巫鸟">鹀黑巫鸟</a></td></tr></tbody></table>
 
-
   
- **攻击力**   
+**攻击力**  
 
 ★★★☆☆ 
   
   
- **移动速度**   
+**移动速度**  
 
 ★★★★☆ 
   
   
- **BOMB**   
+**BOMB**  
 
 ＲＮＡ「逆转录病毒」 
   
   
- **瞬雷**   
+**瞬雷**  
 
 「负与正」   
-
   
-
 
 ### 隐藏机体
 
@@ -195,28 +172,20 @@ LSC开场时每个花瓣转化成一个残机，LSC全程禁雷，瞬雷依然�
 </td></tr></tbody></table>
 
 
-
 ## 使用策略
   
 本篇（新版）推荐使用燕乐玄鸟，如果是旧版(1.00，残机/bomb/符卡名都有乱码）则只推荐黑巫鸟；尝试收取LSC（仅仅是为了收取而收取，主要是p5的问题）可以考虑新版国主雀巳。  
 
 特别提示：6面终符不吃B而且输出时间很少，还容易连续死，需要多加练习！（旧蛇不给输出时间必须练习，否则即便资源再多都没太大用；不过是个固定弹，不糟，多练可以稳的）；  
-
 (新版蛇丛剑的6面终符削弱了非常多，4波1循环完了以后左下回中的时候加入了一段相当长的等待时间，这段等待时间都足够玄鸟/黑巫鸟1轮打空血量了。旧版等待时间非常少，至多打掉1/4左右HP)  
 
 Extra关还是推荐使用薮雨（AEX则建议使用玄鸟或雀巳），玄鸟也比较好（包括AEX，AEX可以用天镜瞬雷不消耗资源刷2000万分赚两个残机，加上其高伤害，虽然终符B少会难受些，但仍是击破最快的机体）。  
-
   
   
 蛇丛剑作品整体风格十分地强硬，要求速攻和高火力，因此火力在机体选择的时候是最重要的因素（而且还要背板对点速破按点放雷）。而且全程要尽量保持满P。  
 
 蛇丛剑正式版分为旧版（1.00）和新版（1.10，1.20）：旧版的特点是：除了乱码外，玄鸟火力较低（因此不像新版那样能够随意杀穿），miss或者普通雷扣的云花槽更多（LSC想见都难）。
   
-  
-  
-
-  
-
 
 <table>
 
@@ -234,7 +203,6 @@ AEX天镜虽可以刷出来3000万分（用1残，比玄鸟多1千万分），�
 <br>
 </p>
 </td></tr></tbody></table>
-
 
 
 <table>
@@ -255,7 +223,6 @@ AEX天镜虽可以刷出来3000万分（用1残，比玄鸟多1千万分），�
 简而言之，玄鸟的主要用途是新版混关与避弹。 <br>
 </p>
 </td></tr></tbody></table>
-
 
 
 <table>
@@ -280,7 +247,6 @@ bomb从中间逐渐展开，造成伤害的是红边，所以放的时候要贴�
 </td></tr></tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
@@ -298,19 +264,11 @@ bomb从中间逐渐展开，造成伤害的是红边，所以放的时候要贴�
 </td></tr></tbody></table>
 
 
-
 ### 关于LSC的小提示
   
 LSC p5在上面说明过，是无缝的激光砍刀划过全屏，因此必须使用瞬雷躲避；激光砍的频率会随着时间推移逐渐升高直到p5结束；从下往上飞的成串小玉只要碰到的话，全机体均可几乎瞬间满槽  
-
 这里最大的难点在于瞬雷机制设下的陷阱。连缘和红妖永一样，自机无敌的时候不能擦弹（并不像天空璋），所以会出现miss后无敌时间擦不了弹也放不了瞬雷，之后自机无敌解除又被激光斩杀造成连环miss从而崩掉  
-
-所以说死了的时候要直接在板最右边挂机一两波，这样爬起来无敌时间过去之前激光就已经扫过去了，瞬雷槽蓄满可以去应付下面那一波。当然，尽量不要miss，所以优先的还是去掌握节奏和放瞬雷手感，这样不容易死
-  
-
-
-
-
+所以说死了的时候要直接在板最右边挂机一两波，这样爬起来无敌时间过去之前激光就已经扫过去了，瞬雷槽蓄满可以去应付下面那一波。当然，尽量不要miss，所以优先的还是去掌握节奏和放瞬雷手感，这样不容易死  
 
 ---
 

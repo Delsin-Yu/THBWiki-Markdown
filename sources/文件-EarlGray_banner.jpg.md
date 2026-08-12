@@ -1,12 +1,8 @@
 # 文件:EarlGray_banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\99\ns6%3AEarlGray_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\99\ns6%3AEarlGray_banner%2Ejpg.html -->
 
 アールグレイ | 社团LOGO
-
-
-
-
 
 
 ---

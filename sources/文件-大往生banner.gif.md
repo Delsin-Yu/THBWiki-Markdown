@@ -1,12 +1,8 @@
 # 文件:大往生banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\af\ns6%3A%E5%A4%A7%E5%BE%80%E7%94%9Fbanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\af\ns6%3A%E5%A4%A7%E5%BE%80%E7%94%9Fbanner%2Egif.html -->
 
 大往生 | 社团LOGO
-
-
-
-
 
 
 ---

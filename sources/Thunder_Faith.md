@@ -1,21 +1,17 @@
 # Thunder_Faith
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\2c\ns0%3AThunder_Faith.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\2c\ns0%3AThunder_Faith.html -->
 
 2011年12月26日 由 幽々燦々  发布的STG同人游戏，可在 Windows 系统上运行，游戏人数为 单人模式，，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人软件 (未找到链接)** 的词条
-
+**[二次创作同人软件](./二次创作.md#同人软件)**的词条
 ## 目录
 
 - [1 软件信息](#软件信息)
 - [2 Staff](#Staff)
 - [3 内容页面](#内容页面)
 - [4 评论](#评论)
-
-
-
 
 
 ## 软件信息
@@ -26,33 +22,25 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://yuyusansan.wpblog.jp/game/thunder/">http://yuyusansan.wpblog.jp/game/thunder/</a></td></tr></tbody></table>
 
 Thunder Faith（同人游戏，幽々燦々，2011） - 2011年12月26日 由 幽々燦々  发布的STG同人游戏，可在 Windows 系统上运行，游戏人数为 单人模式，，分级为 一般向
-  
-  
-
-  
-
-
 <table>
 <tbody><tr><th colspan="2">配置需求</th></tr>
 <tr><td style="width:120px;padding-left:7px;"><b>操作系统</b></td><td>Windows XP / Vista / 7</td></tr><tr><td style="width:120px;padding-left:7px;"><b>CPU</b></td><td>Pentium D　3.0GHz</td></tr>
 </tbody></table>
 
 
-
 ## Staff
+
 - ゆゆさん (未找到链接)
 
 
 ## 内容页面
+
 - 游戏设定与剧情 (未找到链接)
 - 攻略 (未找到链接)
 - 其他信息 (未找到链接)
 
 
 ## 评论
-
-
-
 
 ---
 

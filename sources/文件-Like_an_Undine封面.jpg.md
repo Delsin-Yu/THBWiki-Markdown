@@ -1,6 +1,6 @@
 # 文件:Like_an_Undine封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d1\ns6%3ALike_an_Undine%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d1\ns6%3ALike_an_Undine%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Aqua_Blend_Server | 专辑封面 | 封面图片
 
@@ -8,16 +8,13 @@ Aqua_Blend_Server | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Like an Undine](./Like_an_Undine.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)- [古明地恋](./古明地恋.md)
+- [Like an Undine](./Like_an_Undine.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [古明地恋](./古明地恋.md)
 
   
-源地址：[[1]](http://aquablendserver.mizusasi.net/images/2016_autumn/jacket_mini.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://aquablendserver.mizusasi.net/images/2016_autumn/jacket_mini.jpg)  
 
 ---
 

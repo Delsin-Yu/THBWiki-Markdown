@@ -1,12 +1,8 @@
 # 文件:波符「月面波纹(Luna_Wave)」2.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\25\ns6%3A%E6%B3%A2%E7%AC%A6%E3%80%8C%E6%9C%88%E9%9D%A2%E6%B3%A2%E7%BA%B9%28Luna_Wave%29%E3%80%8D2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\25\ns6%3A%E6%B3%A2%E7%AC%A6%E3%80%8C%E6%9C%88%E9%9D%A2%E6%B3%A2%E7%BA%B9%28Luna_Wave%29%E3%80%8D2%2Epng.html -->
 
 东方花映塚 | 铃仙·优昙华院·因幡
-
-
-
-
 
 
 ---

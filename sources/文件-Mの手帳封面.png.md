@@ -1,6 +1,6 @@
 # 文件:Mの手帳封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bd\ns6%3AM%E3%81%AE%E6%89%8B%E5%B8%B3%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bd\ns6%3AM%E3%81%AE%E6%89%8B%E5%B8%B3%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 すいはんじゃー | 同人志封面 | 封面图片
 
@@ -10,16 +10,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [Mの手帳](./Mの手帳.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
+- [Mの手帳](./Mの手帳.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
   
-源地址：[direct image link](http://suihanjar.web.fc2.com/89hyoushi.png), [source page](http://suihanjar.web.fc2.com/C89.html)
-  
-
-
-
-
+源地址：[direct image link](http://suihanjar.web.fc2.com/89hyoushi.png), [source page](http://suihanjar.web.fc2.com/C89.html)  
 
 ---
 

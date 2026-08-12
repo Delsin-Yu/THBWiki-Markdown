@@ -1,6 +1,6 @@
 # 文件:MY_LOST_SEASONS封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c6\ns6%3AMY_LOST_SEASONS%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c6\ns6%3AMY_LOST_SEASONS%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 RHR | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ RHR | 专辑封面 | 封面图片
   
 
 - [MY LOST SEASONS](./MY_LOST_SEASONS.md)
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:TOHO_VARIOUS_ARTISTS_2封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0c\ns6%3ATOHO_VARIOUS_ARTISTS_2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0c\ns6%3ATOHO_VARIOUS_ARTISTS_2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 MAD_MIND_MACHINE | 专辑封面 | 封面图片
 
@@ -8,11 +8,14 @@ MAD_MIND_MACHINE | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [TOHO VARIOUS ARTISTS 2](./TOHO_VARIOUS_ARTISTS_2.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [星熊勇仪](./星熊勇仪.md)- [古明地觉](./古明地觉.md)- [火焰猫燐](./火焰猫燐.md)- [灵乌路空](./灵乌路空.md)- [古明地恋](./古明地恋.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [TOHO VARIOUS ARTISTS 2](./TOHO_VARIOUS_ARTISTS_2.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [星熊勇仪](./星熊勇仪.md)
+- [古明地觉](./古明地觉.md)
+- [火焰猫燐](./火焰猫燐.md)
+- [灵乌路空](./灵乌路空.md)
+- [古明地恋](./古明地恋.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

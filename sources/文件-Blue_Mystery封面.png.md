@@ -1,6 +1,6 @@
 # 文件:Blue_Mystery封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a6\ns6%3ABlue_Mystery%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a6\ns6%3ABlue_Mystery%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 sun3_FielD | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ sun3_FielD | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Blue Mystery](./Blue_Mystery.md)  
-该封面包含的角色：- [霍青娥](./霍青娥.md)
-
-
-
+- [Blue Mystery](./Blue_Mystery.md)该封面包含的角色：
+- [霍青娥](./霍青娥.md)
 
 
 ---

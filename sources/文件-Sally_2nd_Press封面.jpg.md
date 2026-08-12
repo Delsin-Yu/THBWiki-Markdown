@@ -1,6 +1,6 @@
 # 文件:Sally_2nd_Press封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0c\ns6%3ASally_2nd_Press%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0c\ns6%3ASally_2nd_Press%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 サリー | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Sally 2nd Press](./Sally_2nd_Press.md)  
-该封面包含的角色：- [幽谷响子](./幽谷响子.md)
-
-
-
+- [Sally 2nd Press](./Sally_2nd_Press.md)该封面包含的角色：
+- [幽谷响子](./幽谷响子.md)
 
 
 ---

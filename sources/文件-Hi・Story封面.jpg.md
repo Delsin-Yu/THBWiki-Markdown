@@ -1,6 +1,6 @@
 # 文件:Hi・Story封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\94\ns6%3AHi%E3%83%BBStory%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\94\ns6%3AHi%E3%83%BBStory%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 蒼青藍碧
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Hi・Story](./Hi・Story.md)  
-该封面包含的角色：- [上白泽慧音](./上白泽慧音.md)
-
-
-
+- [Hi・Story](./Hi・Story.md)该封面包含的角色：
+- [上白泽慧音](./上白泽慧音.md)
 
 
 ---

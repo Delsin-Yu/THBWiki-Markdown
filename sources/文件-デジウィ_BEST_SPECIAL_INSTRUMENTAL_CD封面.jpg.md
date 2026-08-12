@@ -1,6 +1,6 @@
 # 文件:デジウィ_BEST_SPECIAL_INSTRUMENTAL_CD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\92\ns6%3A%E3%83%87%E3%82%B8%E3%82%A6%E3%82%A3_BEST_SPECIAL_INSTRUMENTAL_CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\92\ns6%3A%E3%83%87%E3%82%B8%E3%82%A6%E3%82%A3_BEST_SPECIAL_INSTRUMENTAL_CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 DiGiTAL_WiNG | 专辑封面 | 封面图片
 
@@ -8,11 +8,12 @@ DiGiTAL_WiNG | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [デジウィ BEST SPECIAL INSTRUMENTAL CD](./デジウィ_BEST_SPECIAL_INSTRUMENTAL_CD.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)- [博丽灵梦](./博丽灵梦.md)- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [魂魄妖梦](./魂魄妖梦.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [デジウィ BEST SPECIAL INSTRUMENTAL CD](./デジウィ_BEST_SPECIAL_INSTRUMENTAL_CD.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
+- [博丽灵梦](./博丽灵梦.md)
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [魂魄妖梦](./魂魄妖梦.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

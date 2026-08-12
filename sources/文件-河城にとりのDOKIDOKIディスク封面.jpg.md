@@ -1,6 +1,6 @@
 # 文件:河城にとりのDOKIDOKIディスク封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\25\ns6%3A%E6%B2%B3%E5%9F%8E%E3%81%AB%E3%81%A8%E3%82%8A%E3%81%AEDOKIDOKI%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\25\ns6%3A%E6%B2%B3%E5%9F%8E%E3%81%AB%E3%81%A8%E3%82%8A%E3%81%AEDOKIDOKI%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 アールグレイ | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [河城にとりのDOKIDOKIディスク](./河城にとりのDOKIDOKIディスク.md)  
-该封面包含的角色：- [河城荷取](./河城荷取.md)
-
-
-
+- [河城にとりのDOKIDOKIディスク](./河城にとりのDOKIDOKIディスク.md)该封面包含的角色：
+- [河城荷取](./河城荷取.md)
 
 
 ---

@@ -1,16 +1,12 @@
 # 文件:MCG-Tenkai-GEO2021.10.23.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a1\ns6%3AMCG-Tenkai-GEO2021%2E10%2E23%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a1\ns6%3AMCG-Tenkai-GEO2021%2E10%2E23%2Epng.html -->
 
 MineCraft幻想乡
 
   
 MC幻想乡天界地形图
   
-
-
-
-
 
 ---
 

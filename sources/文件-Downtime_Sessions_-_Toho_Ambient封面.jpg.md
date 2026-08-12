@@ -1,6 +1,6 @@
 # 文件:Downtime_Sessions_-_Toho_Ambient封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\ff\ns6%3ADowntime_Sessions_-_Toho_Ambient%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\ff\ns6%3ADowntime_Sessions_-_Toho_Ambient%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Moon-Tone | 专辑封面 | 封面图片
 
@@ -11,12 +11,7 @@ Moon-Tone | 专辑封面 | 封面图片
 - [Downtime Sessions - Toho Ambient](./Downtime_Sessions_-_Toho_Ambient.md)
 
   
-源地址：[[1]](https://f4.bcbits.com/img/a2011804258_10.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://f4.bcbits.com/img/a2011804258_10.jpg)  
 
 ---
 

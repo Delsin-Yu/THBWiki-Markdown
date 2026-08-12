@@ -1,16 +1,11 @@
 # 文件:安眠ガレキのばぁ～logo.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\55\ns6%3A%E5%AE%89%E7%9C%A0%E3%82%AC%E3%83%AC%E3%82%AD%E3%81%AE%E3%81%B0%E3%81%81%EF%BD%9Elogo%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\55\ns6%3A%E5%AE%89%E7%9C%A0%E3%82%AC%E3%83%AC%E3%82%AD%E3%81%AE%E3%81%B0%E3%81%81%EF%BD%9Elogo%2Egif.html -->
 
 安眠ガレキのばぁ～ | 社团LOGO
 
   
-源地址：[[1]](https://web.archive.org/web/20000824182240im_/http://www2s.biglobe.ne.jp/~amingb/rogo.gif)
-  
-
-
-
-
+源地址：[\[1\]](https://web.archive.org/web/20000824182240im_/http://www2s.biglobe.ne.jp/~amingb/rogo.gif)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:The_Grimoire_of_Luna_Child封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fc\ns6%3AThe_Grimoire_of_Luna_Child%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fc\ns6%3AThe_Grimoire_of_Luna_Child%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 MiragEden | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ MiragEden | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [The Grimoire of Luna Child](./The_Grimoire_of_Luna_Child.md)  
-该封面包含的角色：- [露娜萨·普莉兹姆利巴](./露娜萨·普莉兹姆利巴.md)
-
-
-
+- [The Grimoire of Luna Child](./The_Grimoire_of_Luna_Child.md)该封面包含的角色：
+- [露娜萨·普莉兹姆利巴](./露娜萨·普莉兹姆利巴.md)
 
 
 ---

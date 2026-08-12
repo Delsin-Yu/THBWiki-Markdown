@@ -1,16 +1,12 @@
 # 模板:东方初期Rotters
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\e\e4\ns10%3A%E4%B8%9C%E6%96%B9%E5%88%9D%E6%9C%9FRotters.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\e\e4\ns10%3A%E4%B8%9C%E6%96%B9%E5%88%9D%E6%9C%9FRotters.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

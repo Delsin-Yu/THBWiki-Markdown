@@ -1,6 +1,6 @@
 # 文件:Arcturus封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bd\ns6%3AArcturus%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bd\ns6%3AArcturus%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 玉桜楼
 
@@ -10,16 +10,14 @@
 使用了本文件作封面图片的作品：
   
 
-- [Arcturus](./Arcturus.md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)- [犬走椛](./犬走椛.md)- [姬海棠果](./姬海棠果.md)- [饭纲丸龙](./饭纲丸龙.md)
+- [Arcturus](./Arcturus.md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
+- [犬走椛](./犬走椛.md)
+- [姬海棠果](./姬海棠果.md)
+- [饭纲丸龙](./饭纲丸龙.md)
 
   
-[Pixiv artwork ID: 94319358 (image 4/6; original size)](https://www.pixiv.net/artworks/94319358)
-  
-
-
-
-
+[Pixiv artwork ID: 94319358 (image 4/6; original size)](https://www.pixiv.net/artworks/94319358)  
 
 ---
 

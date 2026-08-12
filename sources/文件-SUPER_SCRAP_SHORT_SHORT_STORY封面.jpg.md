@@ -1,6 +1,6 @@
 # 文件:SUPER_SCRAP_SHORT_SHORT_STORY封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4b\ns6%3ASUPER_SCRAP_SHORT_SHORT_STORY%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4b\ns6%3ASUPER_SCRAP_SHORT_SHORT_STORY%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 いなりの中 | 同人志封面 | 封面图片
 
@@ -10,16 +10,15 @@
 使用了本文件作封面图片的作品：
   
 
-- [SUPER SCRAP SHORT SHORT STORY](./SUPER_SCRAP_SHORT_SHORT_STORY.md)  
-该封面包含的角色：- [橙](./橙.md)- [八云蓝](./八云蓝.md)- [八云紫](./八云紫.md)- [物部布都](./物部布都.md)- 原创角色 (未找到链接)
+- [SUPER SCRAP SHORT SHORT STORY](./SUPER_SCRAP_SHORT_SHORT_STORY.md)该封面包含的角色：
+- [橙](./橙.md)
+- [八云蓝](./八云蓝.md)
+- [八云紫](./八云紫.md)
+- [物部布都](./物部布都.md)
+- 原创角色 (未找到链接)
 
   
-源地址：[announcement tweet (original image)](https://pbs.twimg.com/media/DLMM885UIAAMtPK?format=jpg&amp;name=orig)
-  
-
-
-
-
+源地址：[announcement tweet (original image)](https://pbs.twimg.com/media/DLMM885UIAAMtPK?format=jpg&name=orig)  
 
 ---
 

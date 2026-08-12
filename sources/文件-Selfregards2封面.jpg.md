@@ -1,6 +1,6 @@
 # 文件:Selfregards2封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e0\ns6%3ASelfregards2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e0\ns6%3ASelfregards2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 CODE_ZTS_LABEL | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ CODE_ZTS_LABEL | 专辑封面 | 封面图片
   
 
 - [Selfregards2](./Selfregards2.md)
-
-
-
 
 
 ---

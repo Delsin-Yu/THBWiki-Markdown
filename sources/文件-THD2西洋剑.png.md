@@ -1,12 +1,8 @@
 # 文件:THD2西洋剑.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\55\ns6%3ATHD2%E8%A5%BF%E6%B4%8B%E5%89%91%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\55\ns6%3ATHD2%E8%A5%BF%E6%B4%8B%E5%89%91%2Epng.html -->
 
 AvalonStudioOfficial
-
-
-
-
 
 
 ---

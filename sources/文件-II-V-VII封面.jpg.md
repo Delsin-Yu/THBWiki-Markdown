@@ -1,6 +1,6 @@
 # 文件:II-V-VII封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\33\ns6%3AII-V-VII%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\33\ns6%3AII-V-VII%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Aether | 专辑封面 | 埼玉最終兵器 | 封面图片
 
@@ -11,12 +11,7 @@ Aether | 专辑封面 | 埼玉最終兵器 | 封面图片
 - [II-V-VII](./II-V-VII.md)
 
   
-源地址：[[1]](http://www.lkjp.net/rei12/_src/sc529/257_300px.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://www.lkjp.net/rei12/_src/sc529/257_300px.jpg)  
 
 ---
 

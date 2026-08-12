@@ -1,14 +1,11 @@
 # 文件:The_Grimoire_of_Usami（物部布都2）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1e\ns6%3AThe_Grimoire_of_Usami%EF%BC%88%E7%89%A9%E9%83%A8%E5%B8%83%E9%83%BD2%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1e\ns6%3AThe_Grimoire_of_Usami%EF%BC%88%E7%89%A9%E9%83%A8%E5%B8%83%E9%83%BD2%EF%BC%89%2Ejpg.html -->
 
 宇佐见的魔法书 | 物部布都
 
 
 ## 摘要
-
-
-
 
 ---
 

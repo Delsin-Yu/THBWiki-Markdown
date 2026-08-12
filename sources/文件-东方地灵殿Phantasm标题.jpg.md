@@ -1,12 +1,8 @@
 # 文件:东方地灵殿Phantasm标题.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b4\ns6%3A%E4%B8%9C%E6%96%B9%E5%9C%B0%E7%81%B5%E6%AE%BFPhantasm%E6%A0%87%E9%A2%98%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b4\ns6%3A%E4%B8%9C%E6%96%B9%E5%9C%B0%E7%81%B5%E6%AE%BFPhantasm%E6%A0%87%E9%A2%98%2Ejpg.html -->
 
 东方地灵殿Ph | 河城见取
-
-
-
-
 
 
 ---

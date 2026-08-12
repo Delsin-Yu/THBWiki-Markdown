@@ -1,6 +1,6 @@
 # 文件:Presence_0_カゲロウ・エフェクト～第二波～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f6\ns6%3APresence_0_%E3%82%AB%E3%82%B2%E3%83%AD%E3%82%A6%E3%83%BB%E3%82%A8%E3%83%95%E3%82%A7%E3%82%AF%E3%83%88%EF%BD%9E%E7%AC%AC%E4%BA%8C%E6%B3%A2%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f6\ns6%3APresence_0_%E3%82%AB%E3%82%B2%E3%83%AD%E3%82%A6%E3%83%BB%E3%82%A8%E3%83%95%E3%82%A7%E3%82%AF%E3%83%88%EF%BD%9E%E7%AC%AC%E4%BA%8C%E6%B3%A2%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 カゲロウ・エフェクト | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Presence 0 カゲロウ・エフェクト～第二波～](./Presence_0_カゲロウ・エフェクト～第二波～.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [Presence 0 カゲロウ・エフェクト～第二波～](./Presence_0_カゲロウ・エフェクト～第二波～.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

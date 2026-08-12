@@ -1,6 +1,6 @@
 # 文件:Sadistic_Scarlet_Sister＜BR＞封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\32\ns6%3ASadistic_Scarlet_Sister%EF%BC%9CBR%EF%BC%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\32\ns6%3ASadistic_Scarlet_Sister%EF%BC%9CBR%EF%BC%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Stygian_Riverside | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Stygian_Riverside | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Sadistic Scarlet Sister＜BR＞](./Sadistic_Scarlet_Sister＜BR＞.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
-
-
-
+- [Sadistic Scarlet Sister＜BR＞](./Sadistic_Scarlet_Sister＜BR＞.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
 
 ---

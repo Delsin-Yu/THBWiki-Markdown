@@ -1,40 +1,36 @@
 # Disillusion
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\5\53\ns0%3ADisillusion.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\5\53\ns0%3ADisillusion.html -->
 
 2022年6月25日 由 东方LostWord  发布的单曲同人专辑，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人专辑 (未找到链接)** 的词条
-
+**[二次创作同人专辑](./二次创作.md#同人音乐)**的词条
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Disillusion封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/7/7e/Disillusion%E5%B0%81%E9%9D%A2.jpg/196px-Disillusion%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="196" height="196" srcset="https://upload.thwiki.cc/thumb/7/7e/Disillusion%E5%B0%81%E9%9D%A2.jpg/294px-Disillusion%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/7/7e/Disillusion%E5%B0%81%E9%9D%A2.jpg/392px-Disillusion%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="600" data-file-height="600"></a><div class="cover-char">角色：<a href="./魂魄妖梦.md" title="魂魄妖梦">魂魄妖梦</a></div></td>
-</tr><tr><td class="label">名称</td><td colspan="2"> Disillusion(feat.Faylan &#38; Alstroemeria Records) </td></tr><tr><td class="label">制作方</td><td><a href="./东方LostWord.md" title="东方LostWord">东方LostWord</a></td><td class="cover-artwork" rowspan="7" style="min-width:196px;"><a href="./文件-Disillusion封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/7/7e/Disillusion%E5%B0%81%E9%9D%A2.jpg/196px-Disillusion%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="196" height="196" srcset="https://upload.thwiki.cc/thumb/7/7e/Disillusion%E5%B0%81%E9%9D%A2.jpg/294px-Disillusion%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/7/7e/Disillusion%E5%B0%81%E9%9D%A2.jpg/392px-Disillusion%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="600" data-file-height="600"></a><div class="cover-char">角色：<a href="./魂魄妖梦.md" title="魂魄妖梦">魂魄妖梦</a></div></td>
+</tr><tr><td class="label">名称</td><td colspan="2"> Disillusion(feat.Faylan & Alstroemeria Records) </td></tr><tr><td class="label">制作方</td><td><a href="./东方LostWord.md" title="东方LostWord">东方LostWord</a></td><td class="cover-artwork" rowspan="7" style="min-width:196px;"><a href="./文件-Disillusion封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/7/7e/Disillusion%E5%B0%81%E9%9D%A2.jpg/196px-Disillusion%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="196" height="196" srcset="https://upload.thwiki.cc/thumb/7/7e/Disillusion%E5%B0%81%E9%9D%A2.jpg/294px-Disillusion%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/7/7e/Disillusion%E5%B0%81%E9%9D%A2.jpg/392px-Disillusion%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="600" data-file-height="600"></a><div class="cover-char">角色：<a href="./魂魄妖梦.md" title="魂魄妖梦">魂魄妖梦</a></div></td>
 </tr><tr><td class="label">首发日期</td><td>2022-06-25</td></tr><tr><td class="label">类型</td><td>单曲</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>1</td></tr><tr><td class="label">总时长</td><td>03:54</td></tr></tbody></table>
 
 Disillusion（同人专辑，东方LostWord，2022） - 2022年6月25日 由 东方LostWord  发布的单曲同人专辑，分级为 一般向
-
 ## Staff
   
- **Arrangement**   
+**Arrangement**  
 
 <table><tbody><tr><td><a href="./Masayoshi_Minoshima.md" title="Masayoshi Minoshima">Masayoshi Minoshima</a></td><td><a href="./Alstroemeria_Records.md" title="Alstroemeria Records">Alstroemeria Records</a></td><td>Tr.1</td></tr></tbody></table>
 
   
- **Vocal**   
+**Vocal**  
 
-<table><tbody><tr><td><a href="/index.php?title=Faylan&amp;action=edit&amp;redlink=1" class="new" title="Faylan（页面不存在）">Faylan</a></td><td></td><td>Tr.1</td></tr></tbody></table>
+<table><tbody><tr><td><a class="new" title="Faylan（页面不存在）">Faylan</a></td><td></td><td>Tr.1</td></tr></tbody></table>
 
   
- **Lyrics**   
+**Lyrics**  
 
 <table><tbody><tr><td><a href="./ayame.md" title="ayame">ayame</a></td><td><a href="./Alstroemeria_Records.md" title="Alstroemeria Records">Alstroemeria Records</a></td><td>Tr.1</td></tr></tbody></table>
 
-
 Illustration
 : 夢野ろて
-
 
 ## 试听
 
@@ -48,17 +44,12 @@ Illustration
 </td></tr></tbody></table>
 
 
-
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoRD"><b>01</b></td><td id="Disillusion" colspan="2" class="title"><a href="./歌词-Disillusion（Alstroemeria_Records）.md" title="歌词:Disillusion（Alstroemeria Records）">Disillusion</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Masayoshi Minoshima&amp;vocal=Faylan&amp;lyric=ayame&amp;ogmusic=東方妖々夢　～ Ancient Temple&amp;fromwiki=Disillusion"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:54</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Masayoshi_Minoshima.md" title="Masayoshi Minoshima">Masayoshi Minoshima</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Masayoshi Minoshima&amp;fromwiki=Disillusion"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="/index.php?title=Faylan&amp;action=edit&amp;redlink=1" class="new" title="Faylan（页面不存在）">Faylan</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=Faylan&amp;fromwiki=Disillusion"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="./ayame.md" title="ayame">ayame</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?lyric=ayame&amp;fromwiki=Disillusion"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=東方妖々夢　～ Ancient Temple&amp;fromwiki=Disillusion"><span></span></a></span><div class="ogmusic"><a href="./東方妖々夢_～_Ancient_Temple.md" class="mw-redirect" title="東方妖々夢 ～ Ancient Temple">東方妖々夢　～ Ancient Temple</a></div><div class="source"><a href="./东方妖妖梦_～_Perfect_Cherry_Blossom..md" class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr></tbody></table>
-
+<table><tbody><tr><td id="1" class="infoRD"><b>01</b></td><td id="Disillusion" colspan="2" class="title"><a href="./歌词-Disillusion（Alstroemeria_Records）.md" title="歌词:Disillusion（Alstroemeria Records）">Disillusion</a></td><td class="time">03:54</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Masayoshi_Minoshima.md" title="Masayoshi Minoshima">Masayoshi Minoshima</a></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a class="new" title="Faylan（页面不存在）">Faylan</a></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="./ayame.md" title="ayame">ayame</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./东方妖妖梦_～_Ancient_Temple.md" class="mw-redirect" title="東方妖々夢 ～ Ancient Temple">東方妖々夢　～ Ancient Temple</a></div><div class="source"><a href="./东方妖妖梦.md" class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr></tbody></table>
 
 
 ## 评论
-
-
-
 
 ---
 

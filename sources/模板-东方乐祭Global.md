@@ -1,16 +1,12 @@
 # 模板:东方乐祭Global
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\4\4b\ns10%3A%E4%B8%9C%E6%96%B9%E4%B9%90%E7%A5%ADGlobal.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\4\4b\ns10%3A%E4%B8%9C%E6%96%B9%E4%B9%90%E7%A5%ADGlobal.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

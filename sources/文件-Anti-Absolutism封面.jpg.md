@@ -1,6 +1,6 @@
 # 文件:Anti-Absolutism封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\85\ns6%3AAnti-Absolutism%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\85\ns6%3AAnti-Absolutism%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 赤黄色向日葵
 
@@ -10,11 +10,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [Anti-Absolutism](./Anti-Absolutism.md)  
-该封面包含的角色：- [露娜切露德](./露娜切露德.md)- [桑尼米尔克](./桑尼米尔克.md)- [斯塔萨菲雅](./斯塔萨菲雅.md)
-
-
-
+- [Anti-Absolutism](./Anti-Absolutism.md)该封面包含的角色：
+- [露娜切露德](./露娜切露德.md)
+- [桑尼米尔克](./桑尼米尔克.md)
+- [斯塔萨菲雅](./斯塔萨菲雅.md)
 
 
 ---

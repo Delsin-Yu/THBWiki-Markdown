@@ -1,45 +1,40 @@
 # ＃EAF4FC
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\3\38\ns0%3A%EF%BC%83EAF4FC.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\3\38\ns0%3A%EF%BC%83EAF4FC.html -->
 
 2021年3月21日 由 IbEthics 于 博丽神社例大祭18 发布的EP同人专辑，曲目主要风格是 Rock，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人专辑 (未找到链接)** 的词条
-
+**[二次创作同人专辑](./二次创作.md#同人音乐)**的词条
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-＃EAF4FC封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/7/76/%EF%BC%83EAF4FC%E5%B0%81%E9%9D%A2.jpg/276px-%EF%BC%83EAF4FC%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="276" height="280" srcset="https://upload.thwiki.cc/thumb/7/76/%EF%BC%83EAF4FC%E5%B0%81%E9%9D%A2.jpg/413px-%EF%BC%83EAF4FC%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/7/76/%EF%BC%83EAF4FC%E5%B0%81%E9%9D%A2.jpg/551px-%EF%BC%83EAF4FC%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="886" data-file-height="900"></a><div class="cover-char">角色：<a href="./八意永琳.md" title="八意永琳">八意永琳</a></div></td>
-</tr><tr><td class="label">名称</td><td colspan="2"> &#35;EAF4FC </td></tr><tr><td class="label">制作方</td><td><a href="./IbEthics.md" title="IbEthics">IbEthics</a></td><td class="cover-artwork" rowspan="10" style="min-width:280px;"><a href="./文件-＃EAF4FC封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/7/76/%EF%BC%83EAF4FC%E5%B0%81%E9%9D%A2.jpg/276px-%EF%BC%83EAF4FC%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="276" height="280" srcset="https://upload.thwiki.cc/thumb/7/76/%EF%BC%83EAF4FC%E5%B0%81%E9%9D%A2.jpg/413px-%EF%BC%83EAF4FC%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/7/76/%EF%BC%83EAF4FC%E5%B0%81%E9%9D%A2.jpg/551px-%EF%BC%83EAF4FC%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="886" data-file-height="900"></a><div class="cover-char">角色：<a href="./八意永琳.md" title="八意永琳">八意永琳</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2021-03-21&#160;（<a href="/展会作品列表?e=%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD%2318">第十八回 博麗神社例大祭</a>）</td></tr><tr><td class="label">类型</td><td>EP</td></tr><tr><td class="label">编号</td><td>lbE-0006</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>3</td></tr><tr><td class="label">总时长</td><td>00:00</td></tr><tr><td class="label">风格类型</td><td>Rock</td></tr><tr><td class="label">售价</td><td>会场售价：500日元<br>通贩售价：785日元</td></tr>
+</tr><tr><td class="label">名称</td><td colspan="2"> #EAF4FC </td></tr><tr><td class="label">制作方</td><td><a href="./IbEthics.md" title="IbEthics">IbEthics</a></td><td class="cover-artwork" rowspan="10" style="min-width:280px;"><a href="./文件-＃EAF4FC封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/7/76/%EF%BC%83EAF4FC%E5%B0%81%E9%9D%A2.jpg/276px-%EF%BC%83EAF4FC%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="276" height="280" srcset="https://upload.thwiki.cc/thumb/7/76/%EF%BC%83EAF4FC%E5%B0%81%E9%9D%A2.jpg/413px-%EF%BC%83EAF4FC%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/7/76/%EF%BC%83EAF4FC%E5%B0%81%E9%9D%A2.jpg/551px-%EF%BC%83EAF4FC%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="886" data-file-height="900"></a><div class="cover-char">角色：<a href="./八意永琳.md" title="八意永琳">八意永琳</a></div></td>
+</tr><tr><td class="label">首发日期</td><td>2021-03-21 （<a href="./展会作品列表.md#18">第十八回 博麗神社例大祭</a>）</td></tr><tr><td class="label">类型</td><td>EP</td></tr><tr><td class="label">编号</td><td>lbE-0006</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>3</td></tr><tr><td class="label">总时长</td><td>00:00</td></tr><tr><td class="label">风格类型</td><td>Rock</td></tr><tr><td class="label">售价</td><td>会场售价：500日元<br>通贩售价：785日元</td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.youtube.com/watch?v=UM4VUv7dcy0">https://www.youtube.com/watch?v=UM4VUv7dcy0</a></td></tr></tbody></table>
 
 ＃EAF4FC（同人专辑，IbEthics，2021） - 2021年3月21日 由 IbEthics 于 博丽神社例大祭18 发布的EP同人专辑，曲目主要风格是 Rock，分级为 一般向
-
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=830930">蜜瓜</a></td></tr></tbody></table>
-
 
 
 ## Staff
   
- **Arrangement**   
+**Arrangement**  
 
-<table><tbody><tr><td><a href="/index.php?title=%E3%81%8C%E3%82%80&amp;action=edit&amp;redlink=1" class="new" title="がむ（页面不存在）">がむ</a></td><td></td><td>Tr.1</td></tr><tr><td><a href="/index.php?title=%E3%81%A9%E3%82%8B%E3%81%B5%E3%81%83%E3%82%93&amp;action=edit&amp;redlink=1" class="new" title="どるふぃん（页面不存在）">どるふぃん</a></td><td></td><td>Tr.2/3</td></tr></tbody></table>
-
-  
- **Vocal**   
-
-<table><tbody><tr><td><a href="/index.php?title=%E3%81%8C%E3%82%80&amp;action=edit&amp;redlink=1" class="new" title="がむ（页面不存在）">がむ</a></td><td></td><td>Tr.1-3</td></tr></tbody></table>
+<table><tbody><tr><td><a class="new" title="がむ（页面不存在）">がむ</a></td><td></td><td>Tr.1</td></tr><tr><td><a class="new" title="どるふぃん（页面不存在）">どるふぃん</a></td><td></td><td>Tr.2/3</td></tr></tbody></table>
 
   
- **Lyrics**   
+**Vocal**  
 
-<table><tbody><tr><td><a href="/index.php?title=%E3%81%8C%E3%82%80&amp;action=edit&amp;redlink=1" class="new" title="がむ（页面不存在）">がむ</a></td><td></td><td>Tr.1-3</td></tr></tbody></table>
+<table><tbody><tr><td><a class="new" title="がむ（页面不存在）">がむ</a></td><td></td><td>Tr.1-3</td></tr></tbody></table>
 
+  
+**Lyrics**  
+
+<table><tbody><tr><td><a class="new" title="がむ（页面不存在）">がむ</a></td><td></td><td>Tr.1-3</td></tr></tbody></table>
 
 Illustration
 : 小見川なまり (未找到链接)
-
 
 ## 试听
 
@@ -52,25 +47,18 @@ Illustration
 <td><iframe width="560" height="315" src="//www.youtube-nocookie.com/embed/UM4VUv7dcy0?" frameborder="0" allowfullscreen=""></iframe>
 </td></tr></tbody></table>
 
-
   
 <iframe width="100%" height="180" src="https://ext.nicovideo.jp/thumb/sm38406009" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/watch/sm38406009">,</a></iframe>
-
   
-
 
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoRD"><b>01</b></td><td id="Regolith" colspan="2" class="title"><span class="new" title="（歌词页面不存在）"><a href="/index.php?title=%E6%AD%8C%E8%AF%8D:Regolith&amp;boilerplate=模板:页面模板/曲目歌词&amp;action=edit">Regolith</a></span><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=がむ&amp;vocal=がむ&amp;lyric=がむ&amp;ogmusic=千年幻想郷　～ History of the Moon&amp;fromwiki=＃EAF4FC"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E3%81%8C%E3%82%80&amp;action=edit&amp;redlink=1" class="new" title="がむ（页面不存在）">がむ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，がむ&amp;fromwiki=＃EAF4FC"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="/index.php?title=%E3%81%8C%E3%82%80&amp;action=edit&amp;redlink=1" class="new" title="がむ（页面不存在）">がむ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=がむ&amp;fromwiki=＃EAF4FC"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="/index.php?title=%E3%81%8C%E3%82%80&amp;action=edit&amp;redlink=1" class="new" title="がむ（页面不存在）">がむ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?lyric=がむ&amp;fromwiki=＃EAF4FC"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=千年幻想郷　～ History of the Moon&amp;fromwiki=＃EAF4FC"><span></span></a></span><div class="ogmusic"><a href="./千年幻想郷_～_History_of_the_Moon.md" class="mw-redirect" title="千年幻想郷 ～ History of the Moon">千年幻想郷　～ History of the Moon</a></div><div class="source"><a href="./东方永夜抄_～_Imperishable_Night..md" class="mw-redirect" title="东方永夜抄 ～ Imperishable Night.">东方永夜抄　～ Imperishable Night.</a></div></td></tr>
-<tr><td id="2" class="infoRD"><b>02</b></td><td id="Mindache" colspan="2" class="title"><span class="new" title="（歌词页面不存在）"><a href="/index.php?title=%E6%AD%8C%E8%AF%8D:Mindache&amp;boilerplate=模板:页面模板/曲目歌词&amp;action=edit">Mindache</a></span><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=どるふぃん&amp;vocal=がむ&amp;lyric=がむ&amp;ogmusic=デザイアドライブ，古きユアンシェン&amp;fromwiki=＃EAF4FC"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E3%81%A9%E3%82%8B%E3%81%B5%E3%81%83%E3%82%93&amp;action=edit&amp;redlink=1" class="new" title="どるふぃん（页面不存在）">どるふぃん</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，どるふぃん&amp;fromwiki=＃EAF4FC"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="/index.php?title=%E3%81%8C%E3%82%80&amp;action=edit&amp;redlink=1" class="new" title="がむ（页面不存在）">がむ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=がむ&amp;fromwiki=＃EAF4FC"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="/index.php?title=%E3%81%8C%E3%82%80&amp;action=edit&amp;redlink=1" class="new" title="がむ（页面不存在）">がむ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?lyric=がむ&amp;fromwiki=＃EAF4FC"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=デザイアドライブ，古きユアンシェン&amp;fromwiki=＃EAF4FC"><span></span></a></span><div class="ogmusic"><a href="./デザイアドライブ.md" class="mw-redirect" title="デザイアドライブ">デザイアドライブ</a></div><div class="ogmusic"><a href="./古きユアンシェン.md" class="mw-redirect" title="古きユアンシェン">古きユアンシェン</a></div><div class="source"><a href="./东方神灵庙_～_Ten_Desires..md" class="mw-redirect" title="东方神灵庙 ～ Ten Desires.">东方神灵庙　～ Ten Desires.</a></div></td></tr>
-<tr><td id="3" class="infoRD"><b>03</b></td><td id="朧気に紙一重" colspan="2" class="title"><span class="new" title="（歌词页面不存在）"><a href="/index.php?title=%E6%AD%8C%E8%AF%8D:%E6%9C%A7%E6%B0%97%E3%81%AB%E7%B4%99%E4%B8%80%E9%87%8D&amp;boilerplate=模板:页面模板/曲目歌词&amp;action=edit">朧気に紙一重</a></span><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=どるふぃん&amp;vocal=がむ&amp;lyric=がむ&amp;ogmusic=廃獄ララバイ，業火マントル&amp;fromwiki=＃EAF4FC"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E3%81%A9%E3%82%8B%E3%81%B5%E3%81%83%E3%82%93&amp;action=edit&amp;redlink=1" class="new" title="どるふぃん（页面不存在）">どるふぃん</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，どるふぃん&amp;fromwiki=＃EAF4FC"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="/index.php?title=%E3%81%8C%E3%82%80&amp;action=edit&amp;redlink=1" class="new" title="がむ（页面不存在）">がむ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=がむ&amp;fromwiki=＃EAF4FC"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="/index.php?title=%E3%81%8C%E3%82%80&amp;action=edit&amp;redlink=1" class="new" title="がむ（页面不存在）">がむ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?lyric=がむ&amp;fromwiki=＃EAF4FC"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=廃獄ララバイ，業火マントル&amp;fromwiki=＃EAF4FC"><span></span></a></span><div class="ogmusic"><a href="./廃獄ララバイ.md" class="mw-redirect" title="廃獄ララバイ">廃獄ララバイ</a></div><div class="ogmusic"><a href="./業火マントル.md" class="mw-redirect" title="業火マントル">業火マントル</a></div><div class="source"><a href="./东方地灵殿_～_Subterranean_Animism..md" class="mw-redirect" title="东方地灵殿 ～ Subterranean Animism.">东方地灵殿　～ Subterranean Animism.</a></div></td></tr></tbody></table>
-
+<table><tbody><tr><td id="1" class="infoRD"><b>01</b></td><td id="Regolith" colspan="2" class="title"><span class="new" title="（歌词页面不存在）"><a>Regolith</a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="がむ（页面不存在）">がむ</a></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a class="new" title="がむ（页面不存在）">がむ</a></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a class="new" title="がむ（页面不存在）">がむ</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./千年幻想乡_～_History_of_the_Moon.md" class="mw-redirect" title="千年幻想郷 ～ History of the Moon">千年幻想郷　～ History of the Moon</a></div><div class="source"><a href="./东方永夜抄.md" class="mw-redirect" title="东方永夜抄 ～ Imperishable Night.">东方永夜抄　～ Imperishable Night.</a></div></td></tr>
+<tr><td id="2" class="infoRD"><b>02</b></td><td id="Mindache" colspan="2" class="title"><span class="new" title="（歌词页面不存在）"><a>Mindache</a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="どるふぃん（页面不存在）">どるふぃん</a></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a class="new" title="がむ（页面不存在）">がむ</a></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a class="new" title="がむ（页面不存在）">がむ</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./Desire_Drive.md" class="mw-redirect" title="デザイアドライブ">デザイアドライブ</a></div><div class="ogmusic"><a href="./古老的元神.md" class="mw-redirect" title="古きユアンシェン">古きユアンシェン</a></div><div class="source"><a href="./东方神灵庙.md" class="mw-redirect" title="东方神灵庙 ～ Ten Desires.">东方神灵庙　～ Ten Desires.</a></div></td></tr>
+<tr><td id="3" class="infoRD"><b>03</b></td><td id="朧気に紙一重" colspan="2" class="title"><span class="new" title="（歌词页面不存在）"><a>朧気に紙一重</a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="どるふぃん（页面不存在）">どるふぃん</a></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a class="new" title="がむ（页面不存在）">がむ</a></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a class="new" title="がむ（页面不存在）">がむ</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./废狱摇篮曲.md" class="mw-redirect" title="廃獄ララバイ">廃獄ララバイ</a></div><div class="ogmusic"><a href="./业火地幔.md" class="mw-redirect" title="業火マントル">業火マントル</a></div><div class="source"><a href="./东方地灵殿.md" class="mw-redirect" title="东方地灵殿 ～ Subterranean Animism.">东方地灵殿　～ Subterranean Animism.</a></div></td></tr></tbody></table>
 
 
 ## 评论
-
-
-
 
 ---
 

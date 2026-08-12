@@ -1,6 +1,6 @@
 # 文件:バニー紅魔館VSアリス封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bf\ns6%3A%E3%83%90%E3%83%8B%E3%83%BC%E7%B4%85%E9%AD%94%E9%A4%A8VS%E3%82%A2%E3%83%AA%E3%82%B9%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bf\ns6%3A%E3%83%90%E3%83%8B%E3%83%BC%E7%B4%85%E9%AD%94%E9%A4%A8VS%E3%82%A2%E3%83%AA%E3%82%B9%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 同人志封面 | 封面图片 | 踏月
 
@@ -10,11 +10,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [バニー紅魔館VSアリス](./バニー紅魔館VSアリス.md)  
-该封面包含的角色：- [小恶魔](./小恶魔.md)- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
-
-
-
+- [バニー紅魔館VSアリス](./バニー紅魔館VSアリス.md)该封面包含的角色：
+- [小恶魔](./小恶魔.md)
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
 
 
 ---

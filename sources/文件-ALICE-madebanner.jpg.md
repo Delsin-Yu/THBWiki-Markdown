@@ -1,18 +1,13 @@
 # 文件:ALICE-madebanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fc\ns6%3AALICE-madebanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fc\ns6%3AALICE-madebanner%2Ejpg.html -->
 
 ALICE：made | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[[1]](http://alicemade.web.fc2.com/nightmar/ALICE.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://alicemade.web.fc2.com/nightmar/ALICE.jpg)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:東方短頭身vol.1＆2封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2c\ns6%3A%E6%9D%B1%E6%96%B9%E7%9F%AD%E9%A0%AD%E8%BA%ABvol%2E1%EF%BC%862%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2c\ns6%3A%E6%9D%B1%E6%96%B9%E7%9F%AD%E9%A0%AD%E8%BA%ABvol%2E1%EF%BC%862%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 同人志封面 | 封面图片 | 汁うどん
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方短頭身vol.1＆2](./東方短頭身vol.1＆2.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [東方短頭身vol.1＆2](./東方短頭身vol.1＆2.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

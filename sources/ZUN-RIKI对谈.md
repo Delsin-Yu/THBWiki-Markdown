@@ -1,22 +1,17 @@
 # ZUN/RIKI对谈
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\0b\ns0%3AZUN%2FRIKI%E5%AF%B9%E8%B0%88.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\0b\ns0%3AZUN%2FRIKI%E5%AF%B9%E8%B0%88.html -->
 
 ZUN
 
+
 - 该对谈刊载于2016年9月16日发售的Game Labo<small>（ゲームラボ）</small>2016年10月号
 - 翻译：京都人形
-
-  
-  
-
-  
 
 
 ## 目录
 
 - [1 内容](#内容)
-
   - [1.1 学习了红白机的MML！](#学习了红白机的MML！)
   - [1.2 PC-98不适合STG！？](#PC-98不适合STG！？)
   - [1.3 并不是想赢，只是不想输！](#并不是想赢，只是不想输！)
@@ -24,20 +19,11 @@ ZUN
 
 
 
-
-
-
-
 ## 内容
-<center><big> **<ruby><rb>ZUN</rb><rp> (</rp><rt>东方project</rt><rp>) </rp></ruby>
- × <ruby><rb>RIKI</rb><rp> (</rp><rt>闪亮星夜·8MP</rt><rp>) </rp></ruby>
-  
-对谈录  
-<big>神主挑战了红白机音乐！</big>** </big></center>
-  
+<center><big>**<ruby><rb>ZUN</rb><rp> (</rp><rt>东方project</rt><rp>) </rp></ruby> × <ruby><rb>RIKI</rb><rp> (</rp><rt>闪亮星夜·8MP</rt><rp>) </rp></ruby>对谈录<big>神主挑战了红白机音乐！</big>**  
+</big></center>  
 CM之后的8月15日，活动「闪亮星夜DX the GOLD」召开（协力：AKIBAPOP:DOJO）。在这个活动上，以「东方Project」知名的ZUN先生与RIKI先生进行了一场脱口秀，提及了各种各样核心的话题。在这里，就将两人的对话转换成文字呈献给大家！
   
-
 
 ### 学习了红白机的MML！
 RIKI（以下为R）
@@ -46,15 +32,11 @@ ZUN（以下为Z）
 : 我也还从没在真正的游戏机上听过。
 R
 : 在真正的新红白机（注：特指支持AV端子的机型）上听到的声音，感觉可是非常不错的！
-
   
- **（播放ZUN的新曲）**   
-
+**（播放ZUN的新曲）**  
 [8MPF_12.mp3](./文件-8MPF_12.mp3.md)  
 <audio src="https://upload.thwiki.cc/9/92/8MPF_12.mp3" loop="" controls="" preload="none"></audio>
-
   
-
 R
 : ZUN先生是自己写好了MML送给我的。您过去在PC-98上制作游戏的经验派上了用场吗？
 Z
@@ -124,7 +106,6 @@ R
 Z
 : 实际上，我想到像这样能用红白机作曲的时代有多厉害，我觉得很开心。也正因为有RIKI先生在，我才能做到这种事情。
 
-
 ### PC-98不适合STG！？
 R
 : 我与ZUN先生相遇的契机，是2014年名叫BitSummit的展会。我在那里展示『闪亮星夜DX』的开发版，然后ZUN先生来我那里玩了。
@@ -163,7 +144,6 @@ R
 Z
 : 质量很高的作品也有很多，能融入进去也很困难。从结果上来看选择PC-98感觉是正确的。
 
-
 ### 并不是想赢，只是不想输！
 R
 : 那么最后，就谈谈关于『NEXT』的音乐。如果乐曲有什么用意，请您解释一下。
@@ -187,10 +167,6 @@ Z
 : 其实就是我不想丢人现眼（笑）。要做的话就由我自己来做，只要能做出一些稍微能让自己满足的东西，就不算失败。今天在真正的游戏机上听过一遍，真的是完全按我制作的那样播放出来，我非常感动。
 R
 : 太好了~。ZUN先生，今天非常感谢。
-
-
-
-
 
 ---
 

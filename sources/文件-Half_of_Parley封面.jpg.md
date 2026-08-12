@@ -1,6 +1,6 @@
 # 文件:Half_of_Parley封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\03\ns6%3AHalf_of_Parley%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\03\ns6%3AHalf_of_Parley%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 MONOMIND | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ MONOMIND | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [half of Parley](./half_of_Parley.md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)- [西行寺幽幽子](./西行寺幽幽子.md)
-
-
-
+- [half of Parley](./half_of_Parley.md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
+- [西行寺幽幽子](./西行寺幽幽子.md)
 
 
 ---

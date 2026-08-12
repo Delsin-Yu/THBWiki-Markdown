@@ -1,12 +1,8 @@
 # 文件:风见幽香（dairi绘）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ed\ns6%3A%E9%A3%8E%E8%A7%81%E5%B9%BD%E9%A6%99%EF%BC%88dairi%E7%BB%98%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ed\ns6%3A%E9%A3%8E%E8%A7%81%E5%B9%BD%E9%A6%99%EF%BC%88dairi%E7%BB%98%EF%BC%89%2Epng.html -->
 
 NooblyPerson | 二次角色立绘 | 风见幽香（天陨梦）
-
-
-
-
 
 
 ---

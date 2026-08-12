@@ -1,14 +1,11 @@
 # 文件:The_Grimoire_of_Usami（莉莉霍瓦特1）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b5\ns6%3AThe_Grimoire_of_Usami%EF%BC%88%E8%8E%89%E8%8E%89%E9%9C%8D%E7%93%A6%E7%89%B91%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b5\ns6%3AThe_Grimoire_of_Usami%EF%BC%88%E8%8E%89%E8%8E%89%E9%9C%8D%E7%93%A6%E7%89%B91%EF%BC%89%2Ejpg.html -->
 
 宇佐见的魔法书 | 莉莉霍瓦特
 
 
 ## 摘要
-
-
-
 
 ---
 

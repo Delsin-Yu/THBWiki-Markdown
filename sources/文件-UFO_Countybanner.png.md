@@ -1,16 +1,12 @@
 # 文件:UFO_Countybanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\22\ns6%3AUFO_Countybanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\22\ns6%3AUFO_Countybanner%2Epng.html -->
 
 UFO_County | 社团LOGO
 
   
 社团LOGO
   
-
-
-
-
 
 ---
 

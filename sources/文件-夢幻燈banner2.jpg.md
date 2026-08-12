@@ -1,16 +1,11 @@
 # 文件:夢幻燈banner2.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\10\ns6%3A%E5%A4%A2%E5%B9%BB%E7%87%88banner2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\10\ns6%3A%E5%A4%A2%E5%B9%BB%E7%87%88banner2%2Ejpg.html -->
 
 夢幻燈 | 社团LOGO
 
   
-源地址：[[1]](http://mugentou.web.fc2.com/mugenbn2.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://mugentou.web.fc2.com/mugenbn2.jpg)  
 
 ---
 

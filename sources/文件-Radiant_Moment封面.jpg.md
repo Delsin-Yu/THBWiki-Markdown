@@ -1,6 +1,6 @@
 # 文件:Radiant_Moment封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\22\ns6%3ARadiant_Moment%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\22\ns6%3ARadiant_Moment%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 アベニュールーム | 专辑封面 | 封面图片
 
@@ -8,16 +8,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [Radiant Moment](./Radiant_Moment.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [Radiant Moment](./Radiant_Moment.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
   
-源地址：[[1]](http://static.tumblr.com/d7d474fc99494c7df295730f88863e02/or9bxjg/Ztfn9l29i/tumblr_static_dx2dn8hyfc8o400kcoksggcs8.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://static.tumblr.com/d7d474fc99494c7df295730f88863e02/or9bxjg/Ztfn9l29i/tumblr_static_dx2dn8hyfc8o400kcoksggcs8.jpg)  
 
 ---
 

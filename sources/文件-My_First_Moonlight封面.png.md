@@ -1,6 +1,6 @@
 # 文件:My_First_Moonlight封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\78\ns6%3AMy_First_Moonlight%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\78\ns6%3AMy_First_Moonlight%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 直射月光
 
@@ -9,9 +9,6 @@
   
 
 - [My First Moonlight](./My_First_Moonlight.md)
-
-
-
 
 
 ---

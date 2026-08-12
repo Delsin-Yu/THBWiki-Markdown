@@ -1,12 +1,8 @@
 # 文件:GoM插图（键山雏-2）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7d\ns6%3AGoM%E6%8F%92%E5%9B%BE%EF%BC%88%E9%94%AE%E5%B1%B1%E9%9B%8F-2%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7d\ns6%3AGoM%E6%8F%92%E5%9B%BE%EF%BC%88%E9%94%AE%E5%B1%B1%E9%9B%8F-2%EF%BC%89%2Ejpg.html -->
 
 键山雏 | 魔理沙的魔法书
-
-
-
-
 
 
 ---

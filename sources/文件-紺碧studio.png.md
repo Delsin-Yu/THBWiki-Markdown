@@ -1,12 +1,8 @@
 # 文件:紺碧studio.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\45\ns6%3A%E7%B4%BA%E7%A2%A7studio%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\45\ns6%3A%E7%B4%BA%E7%A2%A7studio%2Epng.html -->
 
 社团LOGO | 紺碧studio
-
-
-
-
 
 
 ---

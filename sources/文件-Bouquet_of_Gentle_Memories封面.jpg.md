@@ -1,6 +1,6 @@
 # 文件:Bouquet_of_Gentle_Memories封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d4\ns6%3ABouquet_of_Gentle_Memories%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d4\ns6%3ABouquet_of_Gentle_Memories%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 靄鋳屋本舗
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Bouquet of Gentle Memories](./Bouquet_of_Gentle_Memories.md)  
-该封面包含的角色：- [键山雏](./键山雏.md)
-
-
-
+- [Bouquet of Gentle Memories](./Bouquet_of_Gentle_Memories.md)该封面包含的角色：
+- [键山雏](./键山雏.md)
 
 
 ---

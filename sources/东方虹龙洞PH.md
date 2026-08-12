@@ -1,12 +1,11 @@
 # 东方虹龙洞PH
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\9\99\ns0%3A%E4%B8%9C%E6%96%B9%E8%99%B9%E9%BE%99%E6%B4%9EPH.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\9\99\ns0%3A%E4%B8%9C%E6%96%B9%E8%99%B9%E9%BE%99%E6%B4%9EPH.html -->
 
 2021年7月25日 由 4胖子  发布的STG同人游戏，可在 Windows 系统上运行，游戏人数为 单人模式，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人软件 (未找到链接)** 的词条
-
+**[二次创作同人软件](./二次创作.md#同人软件)**的词条
 ## 目录
 
 - [1 软件信息](#软件信息)
@@ -14,9 +13,6 @@
 - [3 内容页面](#内容页面)
 - [4 下载](#下载)
 - [5 评论](#评论)
-
-
-
 
 
 ## 软件信息
@@ -27,25 +23,18 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.bilibili.com/video/BV15M4y1N78S">https://www.bilibili.com/video/BV15M4y1N78S</a></td></tr></tbody></table>
 
 东方虹龙洞PH（同人游戏，4胖子，2021） - 2021年7月25日 由 4胖子  发布的STG同人游戏，可在 Windows 系统上运行，游戏人数为 单人模式，分级为 一般向
-  
-  
-
-  
-
-
 <table>
 <tbody><tr><th colspan="2">配置需求</th></tr>
 <tr><td style="width:120px;padding-left:7px;"><b>CPU</b></td><td>i5</td></tr><tr><td style="width:120px;padding-left:7px;"><b>内存</b></td><td>32G</td></tr><tr><td style="width:120px;padding-left:7px;"><b>显示卡</b></td><td>1060</td></tr><tr><td style="width:120px;padding-left:7px;"><b>硬盘需求</b></td><td>359MB</td></tr><tr><td style="width:120px;padding-left:7px;"><b>其他</b></td><td>稍微有点吃配置,目前测试的1060显卡32G内存不掉帧</td></tr>
 </tbody></table>
 
 
-
 ## Staff
 职位
 : 4胖子
 
-
 ## 内容页面
+
 - 游戏设定与剧情 (未找到链接)
 - 攻略 (未找到链接)
 - 使用说明 (未找到链接)
@@ -55,9 +44,7 @@
 ## 下载
   
 请注意：  
- **所有的二次同人软件的下载地址均为站外资源，本站并不保证其来源的合法性以及资源的有效性和安全性** 
-  
-
+**所有的二次同人软件的下载地址均为站外资源，本站并不保证其来源的合法性以及资源的有效性和安全性**  
 
 <table>
 
@@ -69,11 +56,7 @@
 </td></tr></tbody></table>
 
 
-
 ## 评论
-
-
-
 
 ---
 

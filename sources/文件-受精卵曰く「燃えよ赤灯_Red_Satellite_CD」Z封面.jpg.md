@@ -1,6 +1,6 @@
 # 文件:受精卵曰く「燃えよ赤灯_Red_Satellite_CD」Z封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\09\ns6%3A%E5%8F%97%E7%B2%BE%E5%8D%B5%E6%9B%B0%E3%81%8F%E3%80%8C%E7%87%83%E3%81%88%E3%82%88%E8%B5%A4%E7%81%AF_Red_Satellite_CD%E3%80%8DZ%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\09\ns6%3A%E5%8F%97%E7%B2%BE%E5%8D%B5%E6%9B%B0%E3%81%8F%E3%80%8C%E7%87%83%E3%81%88%E3%82%88%E8%B5%A4%E7%81%AF_Red_Satellite_CD%E3%80%8DZ%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 LEAP&LOOP | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ LEAP&LOOP | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [受精卵曰く「燃えよ赤灯 Red Satellite CD」Z](./受精卵曰く「燃えよ赤灯_Red_Satellite_CD」Z.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
-
-
-
+- [受精卵曰く「燃えよ赤灯 Red Satellite CD」Z](./受精卵曰く「燃えよ赤灯_Red_Satellite_CD」Z.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:お嬢様の週末OFF_Mode封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\16\ns6%3A%E3%81%8A%E5%AC%A2%E6%A7%98%E3%81%AE%E9%80%B1%E6%9C%ABOFF_Mode%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\16\ns6%3A%E3%81%8A%E5%AC%A2%E6%A7%98%E3%81%AE%E9%80%B1%E6%9C%ABOFF_Mode%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Cardenal | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@ Cardenal | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [お嬢様の週末OFF Mode](./お嬢様の週末OFF_Mode.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
-
-
-
+- [お嬢様の週末OFF Mode](./お嬢様の週末OFF_Mode.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
 
 ---

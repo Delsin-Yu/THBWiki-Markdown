@@ -1,12 +1,8 @@
 # 文件:上白泽慧音（祈华梦立绘）angry.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\52\ns6%3A%E4%B8%8A%E7%99%BD%E6%B3%BD%E6%85%A7%E9%9F%B3%EF%BC%88%E7%A5%88%E5%8D%8E%E6%A2%A6%E7%AB%8B%E7%BB%98%EF%BC%89angry%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\52\ns6%3A%E4%B8%8A%E7%99%BD%E6%B3%BD%E6%85%A7%E9%9F%B3%EF%BC%88%E7%A5%88%E5%8D%8E%E6%A2%A6%E7%AB%8B%E7%BB%98%EF%BC%89angry%2Epng.html -->
 
 OSY搞事组 | 上白泽慧音（祈华梦） | 东方祈华梦制作组 | 二次角色立绘
-
-
-
-
 
 
 ---

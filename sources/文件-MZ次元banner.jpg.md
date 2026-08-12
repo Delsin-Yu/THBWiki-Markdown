@@ -1,12 +1,8 @@
 # 文件:MZ次元banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\02\ns6%3AMZ%E6%AC%A1%E5%85%83banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\02\ns6%3AMZ%E6%AC%A1%E5%85%83banner%2Ejpg.html -->
 
 MZ次元 | 社团LOGO
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Evolution_RED封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\32\ns6%3AEvolution_RED%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\32\ns6%3AEvolution_RED%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ALiCE'S_EMOTiON | 专辑封面 | 封面图片
 
@@ -8,11 +8,10 @@ ALiCE'S_EMOTiON | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Evolution RED](./Evolution_RED.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)- [伊吹萃香](./伊吹萃香.md)- [键山雏](./键山雏.md)
-
-
-
+- [Evolution RED](./Evolution_RED.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [伊吹萃香](./伊吹萃香.md)
+- [键山雏](./键山雏.md)
 
 
 ---

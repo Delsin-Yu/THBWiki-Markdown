@@ -1,6 +1,6 @@
 # 文件:時色_World_Object封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\83\ns6%3A%E6%99%82%E8%89%B2_World_Object%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\83\ns6%3A%E6%99%82%E8%89%B2_World_Object%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 maximedia | 专辑封面 | 封面图片
 
@@ -8,12 +8,9 @@ maximedia | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [時色 World Object](./時色_World_Object.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)源地址：[[1]](http://maximediamain.wixsite.com/maximedia-two)
-
-
-
-
+- [時色 World Object](./時色_World_Object.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+源地址：[\[1\]](http://maximediamain.wixsite.com/maximedia-two)
 
 ---
 

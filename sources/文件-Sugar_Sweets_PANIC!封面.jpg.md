@@ -1,6 +1,6 @@
 # 文件:Sugar_Sweets_PANIC!封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d5\ns6%3ASugar_Sweets_PANIC%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d5\ns6%3ASugar_Sweets_PANIC%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 七輪大社 | 同人志封面 | 封面图片
 
@@ -8,11 +8,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [Sugar Sweets PANIC!](./Sugar_Sweets_PANIC!.md)  
-该封面包含的角色：- [古明地觉](./古明地觉.md)- [茨木华扇](./茨木华扇.md)- [稀神探女](./稀神探女.md)
-
-
-
+- [Sugar Sweets PANIC!](./Sugar_Sweets_PANIC!.md)该封面包含的角色：
+- [古明地觉](./古明地觉.md)
+- [茨木华扇](./茨木华扇.md)
+- [稀神探女](./稀神探女.md)
 
 
 ---

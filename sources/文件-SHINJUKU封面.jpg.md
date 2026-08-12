@@ -1,6 +1,6 @@
 # 文件:SHINJUKU封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e0\ns6%3ASHINJUKU%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e0\ns6%3ASHINJUKU%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Lama_Disk | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ Lama_Disk | 专辑封面 | 封面图片
   
 
 - [SHINJUKU](./SHINJUKU.md)
-
-
-
 
 
 ---

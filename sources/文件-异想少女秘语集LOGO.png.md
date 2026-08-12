@@ -1,12 +1,8 @@
 # 文件:异想少女秘语集LOGO.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fa\ns6%3A%E5%BC%82%E6%83%B3%E5%B0%91%E5%A5%B3%E7%A7%98%E8%AF%AD%E9%9B%86LOGO%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fa\ns6%3A%E5%BC%82%E6%83%B3%E5%B0%91%E5%A5%B3%E7%A7%98%E8%AF%AD%E9%9B%86LOGO%2Epng.html -->
 
 异想少女秘语集 | 社团LOGO
-
-
-
-
 
 
 ---

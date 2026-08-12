@@ -1,6 +1,6 @@
 # 文件:幻想人形_～_Dolls_in_Eastern_Paradise（2020）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f9\ns6%3A%E5%B9%BB%E6%83%B3%E4%BA%BA%E5%BD%A2_%EF%BD%9E_Dolls_in_Eastern_Paradise%EF%BC%882020%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f9\ns6%3A%E5%B9%BB%E6%83%B3%E4%BA%BA%E5%BD%A2_%EF%BD%9E_Dolls_in_Eastern_Paradise%EF%BC%882020%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 夢想夏月郷 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [幻想人形 ～ Dolls in Eastern Paradise（2020）](./幻想人形_～_Dolls_in_Eastern_Paradise（2020）.md)  
-该封面包含的角色：- [蓬莱人形](./蓬莱人形.md)
-
-
-
+- [幻想人形 ～ Dolls in Eastern Paradise（2020）](./幻想人形_～_Dolls_in_Eastern_Paradise（2020）.md)该封面包含的角色：
+- [蓬莱人形](./蓬莱人形.md)
 
 
 ---

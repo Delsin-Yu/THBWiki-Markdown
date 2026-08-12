@@ -1,6 +1,6 @@
 # 文件:Fatal_Scythe's_Awakening封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\68\ns6%3AFatal_Scythe%27s_Awakening%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\68\ns6%3AFatal_Scythe%27s_Awakening%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Kissing_the_Mirror | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Kissing_the_Mirror | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Fatal Scythe's Awakening](./Fatal_Scythe's_Awakening.md)  
-该封面包含的角色：- [小野塚小町](./小野塚小町.md)
-
-
-
+- [Fatal Scythe's Awakening](./Fatal_Scythe's_Awakening.md)该封面包含的角色：
+- [小野塚小町](./小野塚小町.md)
 
 
 ---

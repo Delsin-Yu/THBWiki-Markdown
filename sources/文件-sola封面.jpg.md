@@ -1,6 +1,6 @@
 # 文件:sola封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3e\ns6%3Asola%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3e\ns6%3Asola%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Optie | nmk | 封面图片 | 视频封面
 
@@ -9,9 +9,6 @@ Optie | nmk | 封面图片 | 视频封面
   
 
 - [sola](./sola.md)
-
-
-
 
 
 ---

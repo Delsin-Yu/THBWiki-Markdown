@@ -1,6 +1,6 @@
 # 文件:LIGNE_DE_FUITE逃逸线封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c3\ns6%3ALIGNE_DE_FUITE%E9%80%83%E9%80%B8%E7%BA%BF%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c3\ns6%3ALIGNE_DE_FUITE%E9%80%83%E9%80%B8%E7%BA%BF%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Sexy_Oldguys | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Sexy_Oldguys | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [LIGNE DE FUITE逃逸线](./LIGNE_DE_FUITE逃逸线.md)  
-该封面包含的角色：- 原创角色 (未找到链接)
-
-
-
+- [LIGNE DE FUITE逃逸线](./LIGNE_DE_FUITE逃逸线.md)该封面包含的角色：
+- 原创角色 (未找到链接)
 
 
 ---

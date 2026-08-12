@@ -1,6 +1,6 @@
 # 文件:プラネタリーレボリューションRemixEP封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d7\ns6%3A%E3%83%97%E3%83%A9%E3%83%8D%E3%82%BF%E3%83%AA%E3%83%BC%E3%83%AC%E3%83%9C%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3RemixEP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d7\ns6%3A%E3%83%97%E3%83%A9%E3%83%8D%E3%82%BF%E3%83%AA%E3%83%BC%E3%83%AC%E3%83%9C%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3RemixEP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ガネメ | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [プラネタリーレボリューションRemixEP](./プラネタリーレボリューションRemixEP.md)  
-该封面包含的角色：- [灵乌路空](./灵乌路空.md)
+- [プラネタリーレボリューションRemixEP](./プラネタリーレボリューションRemixEP.md)该封面包含的角色：
+- [灵乌路空](./灵乌路空.md)
 
   
-原网址：[https://www.suruga-ya.jp/product/detail/186150895](https://www.suruga-ya.jp/product/detail/186150895)
-  
-
-
-
-
+原网址：[https://www.suruga-ya.jp/product/detail/186150895](https://www.suruga-ya.jp/product/detail/186150895)  
 
 ---
 

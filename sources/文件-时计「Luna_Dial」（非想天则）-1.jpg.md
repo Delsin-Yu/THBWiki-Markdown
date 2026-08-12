@@ -1,12 +1,8 @@
 # 文件:时计「Luna_Dial」（非想天则）-1.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\35\ns6%3A%E6%97%B6%E8%AE%A1%E3%80%8CLuna_Dial%E3%80%8D%EF%BC%88%E9%9D%9E%E6%83%B3%E5%A4%A9%E5%88%99%EF%BC%89-1%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\35\ns6%3A%E6%97%B6%E8%AE%A1%E3%80%8CLuna_Dial%E3%80%8D%EF%BC%88%E9%9D%9E%E6%83%B3%E5%A4%A9%E5%88%99%EF%BC%89-1%2Ejpg.html -->
 
 东方非想天则 | 十六夜咲夜 | 自机符卡
-
-
-
-
 
 
 ---

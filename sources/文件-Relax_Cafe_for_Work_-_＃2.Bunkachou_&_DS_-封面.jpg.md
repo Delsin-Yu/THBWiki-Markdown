@@ -1,6 +1,6 @@
 # 文件:Relax_Cafe_for_Work_-_＃2.Bunkachou_&_DS_-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\39\ns6%3ARelax_Cafe_for_Work_-_%EF%BC%832%2EBunkachou_%26_DS_-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\39\ns6%3ARelax_Cafe_for_Work_-_%EF%BC%832%2EBunkachou_%26_DS_-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 DDBY | 专辑封面 | 封面图片
 
@@ -10,11 +10,9 @@ DDBY | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Relax Cafe for Work - ＃2.Bunkachou &amp; DS -](./Relax_Cafe_for_Work_-_＃2.Bunkachou_&_DS_-.md)  
-该封面包含的角色：- [莉格露·奈特巴格](./莉格露·奈特巴格.md)- [秋静叶](./秋静叶.md)
-
-
-
+- [Relax Cafe for Work - ＃2.Bunkachou & DS -](./Relax_Cafe_for_Work_-_＃2.Bunkachou_&_DS_-.md)该封面包含的角色：
+- [莉格露·奈特巴格](./莉格露·奈特巴格.md)
+- [秋静叶](./秋静叶.md)
 
 
 ---

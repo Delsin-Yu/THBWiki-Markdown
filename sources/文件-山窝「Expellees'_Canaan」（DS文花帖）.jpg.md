@@ -1,12 +1,8 @@
 # 文件:山窝「Expellees'_Canaan」（DS文花帖）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8d\ns6%3A%E5%B1%B1%E7%AA%9D%E3%80%8CExpellees%27_Canaan%E3%80%8D%EF%BC%88DS%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8d\ns6%3A%E5%B1%B1%E7%AA%9D%E3%80%8CExpellees%27_Canaan%E3%80%8D%EF%BC%88DS%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Ejpg.html -->
 
 东方文花帖DS | 敌机符卡 | 犬走椛
-
-
-
-
 
 
 ---

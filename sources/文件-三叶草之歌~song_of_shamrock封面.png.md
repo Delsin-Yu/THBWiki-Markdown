@@ -1,6 +1,6 @@
 # 文件:三叶草之歌~song_of_shamrock封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d1\ns6%3A%E4%B8%89%E5%8F%B6%E8%8D%89%E4%B9%8B%E6%AD%8C%7Esong_of_shamrock%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d1\ns6%3A%E4%B8%89%E5%8F%B6%E8%8D%89%E4%B9%8B%E6%AD%8C%7Esong_of_shamrock%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 幻想诗篇Xanadu_Canto
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [三叶草之歌~song of shamrock](./三叶草之歌~song_of_shamrock.md)  
-该封面包含的角色：- [犬走椛](./犬走椛.md)- [火焰猫燐](./火焰猫燐.md)
-
-
-
+- [三叶草之歌~song of shamrock](./三叶草之歌~song_of_shamrock.md)该封面包含的角色：
+- [犬走椛](./犬走椛.md)
+- [火焰猫燐](./火焰猫燐.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:kaiki-eb.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4a\ns6%3Akaiki-eb%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4a\ns6%3Akaiki-eb%2Emp3.html -->
 
 the_Grimoire_of_Alice | 东方怪绮谈
 
@@ -9,10 +9,6 @@ the_Grimoire_of_Alice | 东方怪绮谈
   
 由SC-88Pro (SC-55 mode)录制。
   
-
-
-
-
 
 ---
 

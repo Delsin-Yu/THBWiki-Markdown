@@ -1,20 +1,18 @@
 # Trioid_Töykeät
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\67\ns0%3ATrioid_T%C3%B6yke%C3%A4t.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\67\ns0%3ATrioid_T%C3%B6yke%C3%A4t.html -->
 
 JynX作曲 | Trioid_Töykeät | 连缘Project | 连缘Project官方音乐 | 需要完善的词条
 
-本页是关于 **向[东方Project](./东方Project.md)  
-致敬、形式类似的作品** 的词条
-
+本页是关于**向[东方Project](./东方Project.md)致敬、形式类似的作品**  
+的词条
 <table>
 <tbody><tr>
 <td class="mbox-image width"><div style="width: 52px;">
-  <a href="/%E6%96%87%E4%BB%B6:Books_Flat_Icon_Vector.svg" class="image"><img alt="Books Flat Icon Vector.svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Books_Flat_Icon_Vector.svg/langzh-60px-Books_Flat_Icon_Vector.svg.png" decoding="async" loading="lazy" width="60" height="50" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Books_Flat_Icon_Vector.svg/langzh-90px-Books_Flat_Icon_Vector.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Books_Flat_Icon_Vector.svg/langzh-120px-Books_Flat_Icon_Vector.svg.png 2x" data-file-width="691" data-file-height="577"></a></div></td>
-<td class="mbox-text" style=""><big>本词条的内容需要进行补充。</big><br><b>本页面需要对于 音乐文件 方面的内容进行补充</b>。<br>如果您对于相关内容较为了解，请您<a href="/index.php?title=Trioid_T%C3%B6yke%C3%A4t&amp;action=edit">补充本词条的内容</a></td>
+  <a class="image"><img alt="Books Flat Icon Vector.svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Books_Flat_Icon_Vector.svg/langzh-60px-Books_Flat_Icon_Vector.svg.png" decoding="async" loading="lazy" width="60" height="50" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Books_Flat_Icon_Vector.svg/langzh-90px-Books_Flat_Icon_Vector.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Books_Flat_Icon_Vector.svg/langzh-120px-Books_Flat_Icon_Vector.svg.png 2x" data-file-width="691" data-file-height="577"></a></div></td>
+<td class="mbox-text" style=""><big>本词条的内容需要进行补充。</big><br><b>本页面需要对于 音乐文件 方面的内容进行补充</b>。<br>如果您对于相关内容较为了解，请您<a>补充本词条的内容</a></td>
 </tr>
 </tbody></table>
-
 
 
 ## 目录
@@ -24,13 +22,8 @@ JynX作曲 | Trioid_Töykeät | 连缘Project | 连缘Project官方音乐 | 需�
 - [3 音乐文件](#音乐文件)
 - [4 说明文本](#说明文本)
 - [5 其他资料](#其他资料)
-
   - [5.1 乐理资讯](#乐理资讯)
   - [5.2 分析考据](#分析考据)
-
-
-
-
 
 
 
@@ -59,14 +52,12 @@ JynX作曲 | Trioid_Töykeät | 连缘Project | 连缘Project官方音乐 | 需�
 </td></tr></tbody></table>
 
 
-
 ## 出现作品
 
 <table>
 
 <tbody><tr><td>2023年6月2日（非展会）</td><td><b><a href="./连缘咖啡厅_～_BOOK_of_the_CAFE.md" title="连缘咖啡厅 ～ BOOK of the CAFE" unred="">连缘咖啡厅</a></b></td><td>咖啡厅场景主题曲</td><td style="padding-left:5px;">（Trioid Töykeät）</td><td style="padding-left:10px;">作曲：JynX</td></tr>
 </tbody></table>
-
 
 
 ## 音乐文件
@@ -78,9 +69,6 @@ JynX作曲 | Trioid_Töykeät | 连缘Project | 连缘Project官方音乐 | 需�
 ### 乐理资讯
 
 ### 分析考据
-
-
-
 
 ---
 

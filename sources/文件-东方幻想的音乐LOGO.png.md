@@ -1,12 +1,8 @@
 # 文件:东方幻想的音乐LOGO.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\47\ns6%3A%E4%B8%9C%E6%96%B9%E5%B9%BB%E6%83%B3%E7%9A%84%E9%9F%B3%E4%B9%90LOGO%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\47\ns6%3A%E4%B8%9C%E6%96%B9%E5%B9%BB%E6%83%B3%E7%9A%84%E9%9F%B3%E4%B9%90LOGO%2Epng.html -->
 
 东方幻想的音乐 | 幻乐团官网
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Lost_Memory封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8d\ns6%3ALost_Memory%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8d\ns6%3ALost_Memory%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 少女理論観測所
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Lost Memory](./Lost_Memory.md)  
-该封面包含的角色：- [天弓千亦](./天弓千亦.md)
-
-
-
+- [Lost Memory](./Lost_Memory.md)该封面包含的角色：
+- [天弓千亦](./天弓千亦.md)
 
 
 ---

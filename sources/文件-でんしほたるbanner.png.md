@@ -1,18 +1,13 @@
 # 文件:でんしほたるbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\29\ns6%3A%E3%81%A7%E3%82%93%E3%81%97%E3%81%BB%E3%81%9F%E3%82%8Bbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\29\ns6%3A%E3%81%A7%E3%82%93%E3%81%97%E3%81%BB%E3%81%9F%E3%82%8Bbanner%2Epng.html -->
 
 でんしほたる | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[[1]](https://web.archive.org/web/20131218193037im_/http://dhotaru.com/banner.png)
-  
-
-
-
-
+源地址：[\[1\]](https://web.archive.org/web/20131218193037im_/http://dhotaru.com/banner.png)  
 
 ---
 

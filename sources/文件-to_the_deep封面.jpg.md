@@ -1,6 +1,6 @@
 # 文件:to_the_deep封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\46\ns6%3Ato_the_deep%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\46\ns6%3Ato_the_deep%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Mundi_renovatio | 专辑封面 | 封面图片
 
@@ -8,16 +8,12 @@ Mundi_renovatio | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [to the deep](./to_the_deep.md)  
-该封面包含的角色：- [露娜萨·普莉兹姆利巴](./露娜萨·普莉兹姆利巴.md)- [梅露兰·普莉兹姆利巴](./梅露兰·普莉兹姆利巴.md)
+- [to the deep](./to_the_deep.md)该封面包含的角色：
+- [露娜萨·普莉兹姆利巴](./露娜萨·普莉兹姆利巴.md)
+- [梅露兰·普莉兹姆利巴](./梅露兰·普莉兹姆利巴.md)
 
   
-源地址：[[1]](http://mundirenovatio.com/image/discography/to_the_deep.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://mundirenovatio.com/image/discography/to_the_deep.jpg)  
 
 ---
 

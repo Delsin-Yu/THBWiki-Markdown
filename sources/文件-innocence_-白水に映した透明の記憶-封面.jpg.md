@@ -1,6 +1,6 @@
 # 文件:innocence_-白水に映した透明の記憶-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\02\ns6%3Ainnocence_-%E7%99%BD%E6%B0%B4%E3%81%AB%E6%98%A0%E3%81%97%E3%81%9F%E9%80%8F%E6%98%8E%E3%81%AE%E8%A8%98%E6%86%B6-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\02\ns6%3Ainnocence_-%E7%99%BD%E6%B0%B4%E3%81%AB%E6%98%A0%E3%81%97%E3%81%9F%E9%80%8F%E6%98%8E%E3%81%AE%E8%A8%98%E6%86%B6-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 君の美術館 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [innocence -白水に映した透明の記憶-](./innocence_-白水に映した透明の記憶-.md)  
-该封面包含的角色：- [洩矢诹访子](./洩矢诹访子.md)
-
-
-
+- [innocence -白水に映した透明の記憶-](./innocence_-白水に映した透明の記憶-.md)该封面包含的角色：
+- [洩矢诹访子](./洩矢诹访子.md)
 
 
 ---

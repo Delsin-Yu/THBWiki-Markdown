@@ -1,12 +1,8 @@
 # 文件:フミンバインbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5e\ns6%3A%E3%83%95%E3%83%9F%E3%83%B3%E3%83%90%E3%82%A4%E3%83%B3banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5e\ns6%3A%E3%83%95%E3%83%9F%E3%83%B3%E3%83%90%E3%82%A4%E3%83%B3banner%2Ejpg.html -->
 
 フミンバイン | 社团LOGO
-
-
-
-
 
 
 ---

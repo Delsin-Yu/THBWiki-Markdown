@@ -1,6 +1,6 @@
 # 文件:Fly_Marisa_Fly!封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\99\ns6%3AFly_Marisa_Fly%21%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\99\ns6%3AFly_Marisa_Fly%21%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 2D_Emotion | 封面图片 | 软件封面
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Fly Marisa Fly!](./Fly_Marisa_Fly!.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [Fly Marisa Fly!](./Fly_Marisa_Fly!.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

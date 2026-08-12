@@ -1,6 +1,6 @@
 # 文件:物凄いベスト_スペシャルインストCD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\68\ns6%3A%E7%89%A9%E5%87%84%E3%81%84%E3%83%99%E3%82%B9%E3%83%88_%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\68\ns6%3A%E7%89%A9%E5%87%84%E3%81%84%E3%83%99%E3%82%B9%E3%83%88_%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Halozy | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Halozy | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [物凄いベスト スペシャルインストCD](./物凄いベスト_スペシャルインストCD.md)  
-该封面包含的角色：- [上白泽慧音](./上白泽慧音.md)
-
-
-
+- [物凄いベスト スペシャルインストCD](./物凄いベスト_スペシャルインストCD.md)该封面包含的角色：
+- [上白泽慧音](./上白泽慧音.md)
 
 
 ---

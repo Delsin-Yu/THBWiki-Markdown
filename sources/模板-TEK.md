@@ -1,16 +1,12 @@
 # 模板:TEK
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\c\c5\ns10%3ATEK.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\c\c5\ns10%3ATEK.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

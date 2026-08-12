@@ -1,22 +1,20 @@
 # 东方外来韦编/2021_Spring!/数字特辑
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\f7\ns0%3A%E4%B8%9C%E6%96%B9%E5%A4%96%E6%9D%A5%E9%9F%A6%E7%BC%96%2F2021_Spring%21%2F%E6%95%B0%E5%AD%97%E7%89%B9%E8%BE%91.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\f7\ns0%3A%E4%B8%9C%E6%96%B9%E5%A4%96%E6%9D%A5%E9%9F%A6%E7%BC%96%2F2021_Spring%21%2F%E6%95%B0%E5%AD%97%E7%89%B9%E8%BE%91.html -->
 
 东方外来韦编 | 引用了翻译表的页面
 
-- 本词条为中文翻译版，如需要日文对照请参见 **[中日对照](./东方外来韦编-2021_Spring!-数字特辑-中日对照.md)** 
+
+- 本词条为中文翻译版，如需要日文对照请参见**[中日对照](./东方外来韦编-2021_Spring!-数字特辑-中日对照.md)**
 - 该内容于杂志中页数：002-023
 - 翻译：雪域冰龍
 
-<big><center>祝贺！东方Project25周年纪念特辑  
-由「数字」观察东方的发展轨迹</center></big>
-正如前日的发表会中公布的  
+<big><center>祝贺！东方Project25周年纪念特辑由「数字」观察东方的发展轨迹</center></big>正如前日的发表会中公布的  
 正在制作新作「虹龙洞」的消息一样，  
 从颁布第一作「灵异传」开始  
 东方Project已经经过了25年并仍旧在发布新作，  
 可以说是非常稀有的游戏了。  
 这次的特辑我们将从数字的层面对它的历史脉络进行呈现。
-
 ## 目录
 
 - [1 游戏作品](#游戏作品)
@@ -26,12 +24,8 @@
 - [5 注释](#注释)
 
 
-
-
-
 ## 游戏作品
 25年里发表的游戏作品：28+2　　本特集将从数字的层面观察东方Project的各种要素，不过在此之前我们首先要考虑另一件事。这件事也许从未被认真思考过，那就是，东方Project到底是什么。由于作品的世界过于宏大，并且同其他大作游戏一样，要进入东方的世界不是只有一个入口。有些人可能会说因为角色，有些人可能是因为音乐。另有部分人可能会说在Youtube视频里做各种解说的只有一个脑袋的「油库里」才是东方。在这层含义上，可能有人会感到游戏只是东方的一个组成部分了。　　当然事情完全不是这样的。游戏才是东方Project的根茎，正因为各种元素这些结在此基干上的果实使其成为了一个集合体，所以才容易从各种侧面而不是作为一个整体被传颂。程序、音乐、角色、故事，这些都是「专为游戏」而创作的。因为每一项单独拎出来都闪耀着光芒，所以被其魅惑的人只是不经意地就单独地去享受它们了。但是，例如为什么希望东方Project「能出游戏的音轨[^cite_note-1]」的这个常见的要求实现不了，可以想见是作者的美学不想让为游戏而制作的东西被挪用到其他地方。　　言归正传，我首先要讲的就是东方Project本身的游戏。接下来的内容将一边对作品集进行大致介绍，一边阐述笔者是基于何种规则在本特辑中进行统计的。关于早期旧作　　首先从「灵异传」到「怪绮谈」的早期的五个作品，是ZUN于东京电机大学在读时，为MS-DOS兼容机开发的。「灵异传」是在该大学每年11月举办学园祭「鸠山祭」的埼玉鸠山校区里发表的（※并且该大学不同校区会各自举办学园祭，东京千住校区是「旭祭」，千叶新城校区是「秋叶祭」。埼玉鸠山校区设有理工学部）。「灵异传」是在固定画面的画面下方操作灵梦（※旧名称[^cite_note-2]）左右移动，使用驱魔棒反弹和自机同等大小的球来消除画面上方方块的游戏，和现在的射击游戏风格有很大的不同。但是从下一作「封魔录」开始基本上就是和现在一样的纵版滚动射击游戏了。可以看到在很早的阶段就确立了现在的风格。另外，从「封魔录」开始就在Comic Market上发布完成版这点，也可以说和现在风格是一样的吧（※在表中Comic Market=C，数字是指第几次举办）。　　另外第3作「梦时空」突然就变成了对战型的射击游戏，ZUN可能摸索了比他自己所说的「因为喜欢这种类型的游戏所以想尝试一下」更多的内容。结果是从第4作开始在发展和继承第2作风格的道路上安定下来了。此外，虽然没有得到过详细确认，大学四年级的ZUN在接受股份公司Taito的入职考试时将旧作的其中一部作为自己的样片提交了。另外因为这次没能弄到旧作的实体版，所以表中仅刊载了标题画面。Windows版的开发与当下　　就业后的ZUN由于本职工作是公司的游戏程序员，所以一段时间内没有出新作。但也许是本职工作并无法满足而因此重新燃起了创作欲望，乘着个人电脑的势头开发、发表了Windows版的作品。这就是第6作的「红魔乡」。本作从「怪绮谈」算起历经了约3年半的蛰伏，据说算上本作ZUN事先已经决定好要做完后续的3部作品（指的并非内容而是开发行为本身）。「红魔乡」立刻引起了巨大的反响，「妖妖梦」的体验版也发布在了只展览东方Project的「only」同人志即卖会「博丽神社例大祭」上。之后一段时间，ZUN就持续着在春天举办的例大祭上发布体验版、在夏日Comic Market上发布完成版、在冬日Comic Market上发布音乐CD的循环。另外，ZUN接受到了当时作为格斗游戏二次创作社团小有名气的黄昏边境的邀请而开始了共同制作，也就成了现在大家看到的这样一个流程。在与黄昏边境共同制作的作品上，ZUN除了主要提供剧情，还对登场的新建符卡命名，并提供数首音乐。　　之后就没有什么特别要写在这里的事了，不过对表中的记载有一点需要进行说明。对于东方作品标题的写法，我被告知「写在一行里的话用『主标题+全角空格+波浪线+半角空格+副标题』是通行的规则。但写成两行的话并不需要「全角空格+波浪线+半角空格」。但是在出版物等商业流通中的不同的商品并不是全都通用的，有的用波浪线有的不用。不过之后的记载都会基于这个规则。
-
 <table>
 
 <tbody><tr>
@@ -111,7 +105,7 @@
 <tr>
 <td>东方星莲船　～ Undefined Fantastic Object.</td>
 <td>2009年8月（C75）</td>
-<td><div class="tt-zh tt-type-omake" lang="zh"><div class="poem">早苗第一次成为自机。各处都有对「侵略者游戏<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">3</a></sup>」的致敬。</div></div>
+<td><div class="tt-zh tt-type-omake" lang="zh"><div class="poem">早苗第一次成为自机。各处都有对「侵略者游戏<span>[^cite_note-3]</span>」的致敬。</div></div>
 </td></tr>
 <tr>
 <td>Double Spoiler　～ 东方文花帖</td>
@@ -167,7 +161,7 @@
 <tr>
 <td>东方萃梦想　～ Immaterial and Missing Power.</td>
 <td>2004年12月（C67）</td>
-<td><div class="tt-zh tt-type-omake" lang="zh"><div class="poem">和黄昏边境合作的第一作。弹幕格斗STG<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">4</a></sup>。</div></div>
+<td><div class="tt-zh tt-type-omake" lang="zh"><div class="poem">和黄昏边境合作的第一作。弹幕格斗STG<span>[^cite_note-4]</span>。</div></div>
 </td></tr>
 <tr>
 <td>东方绯想天　～ Scarlet Weather Rhapsody.</td>
@@ -194,7 +188,6 @@
 <td>2017年12月（C93）</td>
 <td><div class="tt-zh tt-type-omake" lang="zh"><div class="poem">合作的第六作。作品中的插画由「铃奈庵」的漫画负责人：春河萌执笔。</div></div>
 </td></tr></tbody></table>
-
 
 
 ## 角色
@@ -238,18 +231,17 @@
 ·巨大光球（※鵺的另一型态）  
 ·拿花妖精  
 ·拿玩具锤（？）的妖精
-
 <table>
 
 <tbody><tr>
 <th>作品</th>
-<th>名称<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">5</a></sup></th>
+<th>名称<span>[^cite_note-5]</span></th>
 <th>介绍
 </th></tr>
 <tr>
 <td rowspan="8">东方灵异传</td>
 <td>博丽灵梦</td>
-<td><div class="tt-zh tt-type-omake" lang="zh"><div class="poem">自机。旧汉字ver，现在是灵梦<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">6</a></sup>。</div></div>
+<td><div class="tt-zh tt-type-omake" lang="zh"><div class="poem">自机。旧汉字ver，现在是灵梦<span>[^cite_note-6]</span>。</div></div>
 </td></tr>
 <tr>
 <td>神玉</td>
@@ -290,7 +282,7 @@
 </td></tr>
 <tr>
 <td>里香</td>
-<td><div class="tt-zh tt-type-omake" lang="zh"><div class="poem">1面、Extra BOSS。坐在坦克上攻击。句尾是「来的<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">7</a></sup>」。</div></div>
+<td><div class="tt-zh tt-type-omake" lang="zh"><div class="poem">1面、Extra BOSS。坐在坦克上攻击。句尾是「来的<span>[^cite_note-7]</span>」。</div></div>
 </td></tr>
 <tr>
 <td>——</td>
@@ -343,11 +335,11 @@
 </td></tr>
 <tr>
 <td>留琴</td>
-<td><div class="tt-zh tt-type-omake" lang="zh"><div class="poem">灵梦END中登场。动力源不明的女仆。不是「玛某奇」<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">8</a></sup>。</div></div>
+<td><div class="tt-zh tt-type-omake" lang="zh"><div class="poem">灵梦END中登场。动力源不明的女仆。不是「玛某奇」<span>[^cite_note-8]</span>。</div></div>
 </td></tr>
 <tr>
 <td>咪咪号</td>
-<td><div class="tt-zh tt-type-omake" lang="zh"><div class="poem">魔理沙END中登场。说着「啾」的 ICBM<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">9</a></sup>。是二次创作的角色。</div></div>
+<td><div class="tt-zh tt-type-omake" lang="zh"><div class="poem">魔理沙END中登场。说着「啾」的 ICBM<span>[^cite_note-9]</span>。是二次创作的角色。</div></div>
 </td></tr>
 <tr>
 <td colspan="3"><div class="tt-zhh tt-type-omake" lang="zh"><div class="poem">余谈：这次尽量收集了图片，但是没有刊载涉及其他权益方的二次创作角色的图像。当然，即使这里没有刊载图像游戏中也是带着图像登场的。</div></div>
@@ -443,7 +435,7 @@
 <td><div class="tt-zh tt-type-omake" lang="zh"><div class="poem">名称未设定。Extra道中BOSS的卡牌兵。上面画着少女。</div></div>
 </td></tr>
 <tr>
-<td colspan="3"><div class="tt-zhh tt-type-omake" lang="zh"><div class="poem">余谈：「梦时空」的留琴这个名字是借用的二次创作，就造型来说完全是不同的人。还有如果给不知道旧作的人看「封魔录<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">10</a></sup>」的雪的话他可能会喊「魔理沙」。</div></div>
+<td colspan="3"><div class="tt-zhh tt-type-omake" lang="zh"><div class="poem">余谈：「梦时空」的留琴这个名字是借用的二次创作，就造型来说完全是不同的人。还有如果给不知道旧作的人看「封魔录<span>[^cite_note-10]</span>」的雪的话他可能会喊「魔理沙」。</div></div>
 </td></tr>
 <tr>
 <td rowspan="9">东方红魔乡</td>
@@ -615,7 +607,7 @@
 </td></tr>
 <tr>
 <td>洩矢诹访子</td>
-<td><div class="tt-zh tt-type-omake" lang="zh"><div class="poem">Extra BOSS。守矢神社的神灵<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">11</a></sup>。</div></div>
+<td><div class="tt-zh tt-type-omake" lang="zh"><div class="poem">Extra BOSS。守矢神社的神灵<span>[^cite_note-11]</span>。</div></div>
 </td></tr>
 <tr>
 <td rowspan="2">东方绯想天</td>
@@ -669,12 +661,12 @@
 <td><div class="tt-zh tt-type-omake" lang="zh"><div class="poem">2面BOSS。路过的付丧神。</div></div>
 </td></tr>
 <tr>
-<td>云居一轮&amp;云山</td>
+<td>云居一轮&云山</td>
 <td><div class="tt-zh tt-type-omake" lang="zh"><div class="poem">3面BOSS。入道和入道使的组合。</div></div>
 </td></tr>
 <tr>
 <td>村纱水蜜</td>
-<td><div class="tt-zh tt-type-omake" lang="zh"><div class="poem">4面BOSS。飞在天上的宝船「星辇船」<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">12</a></sup>的船长。</div></div>
+<td><div class="tt-zh tt-type-omake" lang="zh"><div class="poem">4面BOSS。飞在天上的宝船「星辇船」<span>[^cite_note-12]</span>的船长。</div></div>
 </td></tr>
 <tr>
 <td>寅丸星</td>
@@ -820,7 +812,7 @@
 </td></tr>
 <tr>
 <td>赫卡提亚·拉碧斯拉祖利</td>
-<td><div class="tt-zh tt-type-omake" lang="zh"><div class="poem">Extra BOSS。地狱的女神。是淳子<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">13</a></sup>的友人并帮助了她。</div></div>
+<td><div class="tt-zh tt-type-omake" lang="zh"><div class="poem">Extra BOSS。地狱的女神。是淳子<span>[^cite_note-13]</span>的友人并帮助了她。</div></div>
 </td></tr>
 <tr>
 <td rowspan="2">东方凭依华</td>
@@ -927,7 +919,6 @@
 </td></tr></tbody></table>
 
 
-
 ## 音乐
 25年里发表的音乐：549所谓怀旧风的音乐　　回顾一下可以发现上海爱丽丝幻乐团的游戏常被称作怀旧风的作品。「红魔乡」被叫作「21世纪的20世纪纵长型[^cite_note-14]弹幕射击游戏」，「风神录」是「怀旧又本土的弹幕射击原风景」等等。游戏中的音乐，也是一样的。那么，此处所说的怀旧风音乐到底是什么呢。在以前——游戏机本体还性能很低的时候，游戏机的内置音源能同时播出的声音其数量和种类都很少。比如说家用计算机能播出的声音只有3个单声道音和1种噪音（尽管逐渐有所增加）。到了超级家用计算机的时候一下子就可以使用8个双声道音了，而且音色也可以采用PCM也就是音频采样数据处理。到了ZUN就职于游戏公司的时候，市场上现行的PlayStation2等机器已经可以同时发出48音了。　　能发出众多的声音后，音乐在游戏中起到的作用也发生了变化。所谓3音，总得来说就是为了想办法复现音乐的主要3元素，即旋律、节拍、和声的东西。后来技术发展了，用 PCM使角色出声的机会也变多了，以「街头霸王2」（卡普空）的大流行等为契机突显声音的演出成为了主流。与之相比特别是以业务型游戏为中心时音乐被作为衬托使用的事情变多了。另外，伴随着家用游戏机的发展追求电影般的音乐、音效、环境音的结果，比起游戏业初期BGM的重要性逐渐退步了。想必您已经清楚了，东方的作品所被说的怀旧风，不过是在宣扬这一点——这是强烈地突显了在音乐的意义上也是怀旧的旋律且充斥在游戏中的游戏罢了。关于乐器的数法　　ZUN写下的乐曲的用途和数量主要是以下几种。·用于自制游戏的……261首  
 ·用于自制音乐CD的……210首  
@@ -951,12 +942,11 @@ I. 8BITMUSIC POWER FINAL……1首
 向家用计算机兼容软件提供。  
 J. INDIE Live Expo2……1首  
 为独立游戏创作的活动主题曲。
-
 <table>
 
 <tbody><tr>
 <th>名称</th>
-<th>曲数<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">15</a></sup></th>
+<th>曲数<span>[^cite_note-15]</span></th>
 <th>介绍
 </th></tr>
 <tr>
@@ -1067,7 +1057,7 @@ J. INDIE Live Expo2……1首
 <tr>
 <td>弹幕天邪鬼</td>
 <td>5曲</td>
-<td><div class="tt-zh tt-type-omake" lang="zh"><div class="poem">除了左边写的，还收录了「Reverse Ideology」「幻想净琉璃」「妖怪之山」<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">16</a></sup>。</div></div>
+<td><div class="tt-zh tt-type-omake" lang="zh"><div class="poem">除了左边写的，还收录了「Reverse Ideology」「幻想净琉璃」「妖怪之山」<span>[^cite_note-16]</span>。</div></div>
 </td></tr>
 <tr>
 <td>东方深秘录</td>
@@ -1097,7 +1087,7 @@ J. INDIE Live Expo2……1首
 <tr>
 <td>秘封噩梦日记</td>
 <td>7曲</td>
-<td><div class="tt-zh tt-type-omake" lang="zh"><div class="poem">除了左边写的，还收录了「被秘匿的四个季节」<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">17</a></sup>。</div></div>
+<td><div class="tt-zh tt-type-omake" lang="zh"><div class="poem">除了左边写的，还收录了「被秘匿的四个季节」<span>[^cite_note-17]</span>。</div></div>
 </td></tr>
 <tr>
 <td>东方鬼形兽</td>
@@ -1222,10 +1212,8 @@ J. INDIE Live Expo2……1首
 </td></tr></tbody></table>
 
 
-
 ## 出版物
 25年间写作的书籍、执笔原作的漫画等作品：19关于漫画作品　　ZUN第一次执笔、提供的漫画原作是「东方三月精　～ Easten and Little Nature Deity」，2005年3月开始在角川书店发售的杂志「Comp Ace」上连载。虽然「三月精」第一部只创作了一卷就更换了漫画负责人，但是成为了连载到四部、累计卷数全13册的数量最多的系列漫画作品。内容上以游戏中难以作为主角聚焦的杂鱼角色「妖精」为主角，描写了和以灵梦等为主的妖怪们的幻想乡生活。漫画作品中有特别多像这样的，既然要做游戏以外的作品就尽可能聚焦游戏中难以触及的部分的姿态，后来的作品也有相同的视角。另外，会有ZUN制作的游戏诸如以「三月精」为主题的游戏「妖精大战争」的话题混入，使得游戏与漫画作品产生了轻微的联系也逐渐成为了共通的姿态。　　下一部开始的漫画是「东方儚月抄　～ Silent Sinner in Blue」（Comic REX连载，一迅社）。「儚月抄」是以多角度看游戏「永夜抄」的后日谈故事「第二次月面战争」为目的的企划，是一个由ZUN担任原作的漫画、同样由ZUN执笔的小说、以及以第三视角看这些的四格漫画这样三个作品在三个杂志同时连载的企划。背后的想法似乎是，故事的敌方角色月之公主在游戏中实在是过强了难以作为BOSS，怎么才能让妖怪找到转机。　　「茨歌仙」，以其他的官方书籍中透露的居住在幻想乡的「仙人」华扇作为主角展开故事。作为单部作品是持续卷数持续最长的作品。另外，游戏作品中之后除了出场了同为仙人的其他角色（神子等），华扇也在「深秘录」中首次在游戏中登场。　　「铃奈庵」以在幻想乡中作为弱者存在的人类村落的居民：小铃为主角展开故事。相比较拥有超人般能力的神通力、魔法等的游戏的主角灵梦和魔理沙等人，本作主角的特点是仅具有一点小能力（可以阅读妖魔书的能力）的普通人。　　「智灵奇传」的内容是讲会读心的妖怪觉作为侦探搅入幻想乡发生的事件里，目前还是沿着过去的异变发展着故事。同时「醉蝶华」以在人类村庄的酒馆工作的座敷童子：美宵为主角，将ZUN很精通的「酒」作为主题进行了连载。二者都是正在进行中的作品，详情请追看连载。关于小说作品　　ZUN最早连载的小说是「东方香霖堂」。由旧货店店主：霖之助讲述故事，小说的内容将ZUN的独特性展露无遗因此得到了粉丝巨大的响应。起初是04年年初开始在美少女游戏志「Colorful PUREGIRL」上连载的，后来由于发行这个杂志的Byblos社倒闭而开始了流浪连载。最终在「电击萌王」上连载，并顺利发行了单行本。现在在本杂志上的连载，也是从这时开始的。　　另一个小说是「东方儚月抄　～ Cage in Lunatic Runagate.」，在名为「Chara★Mel」的季刊角色志上连载。内容是漫画版的幕后故事，是每次不同角色的单元剧。关于书籍　　ZUN执笔的除了小说以外的书籍作品现在有6作。第一作「文花帖」，主要内容是鸦天狗射命丸写的新闻「文文。新闻」，以及看了报纸的妖怪的反应。开场的漫画由ZUN担任原作，漫画由本杂志耳熟能详的叶庭担任。此外也有作品集和采访等种类丰富的内容。　　第二作「求闻史纪」是一本以照搬了为在幻想乡中生活的人类所写的书「幻想乡缘起」……为体裁的书。由拥有完全记忆能力的少女：稗田阿求的视点，描绘了游戏中出场的角色们的特点。　　第三作「The Grimoire of Marisa」刊载了大量的游戏内弹幕的照片，讲述的内容是，魔理沙将它们作为自己的弹幕的研究资料而进行的记录。还发行了续篇「The Grimoire of Usami」。　　第四作「求闻口授」是「求闻史纪」的续篇，全篇讲述了强大的妖怪们讨论今后方针的座谈会，并且收录了记录了前作以来新登场角色的故事的「幻想乡缘起」。　　第五作「文果真报」，以收录射命丸文制作但最后未发行就封印的照片周刊志的形式，作为「文花帖」的续篇出现的作品。比之前加入了更多的时事趣梗，以及很多发行当时成为话题的照片周刊志上的小道消息、还有将美国总统选举捧上顶点的「另一个真相」等和现在相通的部分。关于其他　　「紫香花」是「虎之穴」专卖的商品，套装里有合集漫画和改编音乐CD。ZUN提供了改编音乐和短篇小说。　　「外来韦编」不用说就是本杂志了，现在已经到第9册了，不过没有算进去。杂志名也是由ZUN命名的。　　论起命名的话，诸如「博丽神社例大祭」还有Web 媒体「东方我乐多丛志」等许多内容，说起来没有止境所以这里就不谈了。
-
 <table>
 
 <tbody><tr>
@@ -1349,13 +1337,23 @@ J. INDIE Live Expo2……1首
 <td colspan="3"><div class="tt-zhh tt-type-omake" lang="zh"><div class="poem">期待游戏以外的新作</div></div>
 </td></tr></tbody></table>
 
-
-
 [^cite_note-1]: 即OST
-
-
-
-
+[^cite_note-2]: 原文为“靈夢”
+[^cite_note-3]: 指《太空侵略者》
+[^cite_note-4]: 原文如此，下同
+[^cite_note-5]: 此处统一使用中文角色名进行整理
+[^cite_note-6]: 原文为“霊夢”
+[^cite_note-7]: 原文为“なのですぅ（na no de suu）”，此处采用Wiki上的翻译
+[^cite_note-8]: 原梗角色玛露奇（Multi）
+[^cite_note-9]: Intercontinental Ballistic Missile，洲际弹道导弹
+[^cite_note-10]: 原文如此，应为“怪绮谈”。
+[^cite_note-11]: 原文如此，《东方求闻口授》记录其种族为“八百万之神”。
+[^cite_note-12]: 原文如此，游戏中称为“圣辇船”。
+[^cite_note-13]: 原文如此，应为“纯狐”。
+[^cite_note-14]: 原文如此，《东方红魔乡》封面原文为“延长型”
+[^cite_note-15]: 如无特殊说明，此处游戏中的数目为首次出现的ZUN作曲数目
+[^cite_note-16]: 按照本表的收录标准，初出自《东方辉针城》的“秘境的人鱼”也不应该被计数。
+[^cite_note-17]: 按照本表的收录标准，初出自《东方绀珠传》的“永远的春梦”也不应该被计数。
 
 ---
 

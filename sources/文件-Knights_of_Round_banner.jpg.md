@@ -1,12 +1,8 @@
 # 文件:Knights_of_Round_banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\53\ns6%3AKnights_of_Round_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\53\ns6%3AKnights_of_Round_banner%2Ejpg.html -->
 
 Knights_of_Round | 社团LOGO
-
-
-
-
 
 
 ---

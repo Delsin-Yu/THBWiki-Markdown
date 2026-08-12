@@ -1,6 +1,6 @@
 # THBWiki:标志
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\0\06\ns4%3A%E6%A0%87%E5%BF%97.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\0\06\ns4%3A%E6%A0%87%E5%BF%97.html -->
 
 TBSGroup | THB系列站点
 
@@ -8,12 +8,10 @@ TBSGroup | THB系列站点
 此页面用于记录[THBWiki](./THBWiki-关于.md)当前及历史LOGO的资料。
   
 
-
 ## 目录
 
 - [1 当前LOGO](#当前LOGO)
 - [2 历史LOGO](#历史LOGO)
-
   - [2.1 第一代](#第一代)
   - [2.2 第二代](#第二代)
   - [2.3 第三代](#第三代)
@@ -21,16 +19,13 @@ TBSGroup | THB系列站点
 
 
 
-
-
-
-
 ## 当前LOGO
-[](./文件-Wiki.png.md)  [](./文件-Wiki.png.md)第四代LOGO（2018-）
-- 由  **阿时 (未找到链接)**  设计。
+<img alt="" src="https://upload.thwiki.cc/b/bc/Wiki.png" decoding="async" loading="lazy" width="135" height="160" class="thumbimage" data-file-width="135" data-file-height="160">
+ [放大](./文件-Wiki.png.md)第四代LOGO（2018-）
+- 由 **阿时 (未找到链接)** 设计。
 
   
-　　以和本维基具有同样记录下[幻想乡](./幻想乡.md)全貌愿景的角色——[稗田阿求](./稗田阿求.md)为出发点，选用了阿求的山茶花头饰作为标志的主要视觉元素。花朵中央的九截花芯是第九代学者稗田阿求的象征，代表本维基持有的力求内容准确、收录全面的学者精神。重重叠叠绽放的花瓣亦象征着[东方Project](./东方Project.md)从单一的原作逐渐衍生出无数杰出的同人作品。花瓣组成的纹饰也包含了东方具代表性的弹幕 (未找到链接)及结界 (未找到链接)元素。
+　　以和本维基具有同样记录下[幻想乡](./幻想乡.md)全貌愿景的角色——[稗田阿求](./稗田阿求.md)为出发点，选用了阿求的山茶花头饰作为标志的主要视觉元素。花朵中央的九截花芯是第九代学者稗田阿求的象征，代表本维基持有的力求内容准确、收录全面的学者精神。重重叠叠绽放的花瓣亦象征着[东方Project](./东方Project.md)从单一的原作逐渐衍生出无数杰出的同人作品。花瓣组成的纹饰也包含了东方具代表性的[弹幕](./游戏攻略-STG术语.md#弹幕)及结界 (未找到链接)元素。
   
   
 　　标志的配色为粉红加橙黄，加上标题的蓝色，三者都是本维基的主要配色方案。而蓝色标题也有代表维基内的有效链接的隐藏含义。
@@ -39,37 +34,28 @@ TBSGroup | THB系列站点
 　　标题字体选用了Baskerville这一古典、厚重但优雅的衬线英文字体，以求突出本维基所包括的东方人文、历史及世界观内容，并给维基增添一种权威感。同时，这款字体亦能给标识增加知识及文化氛围。
   
   
-　　另外亦首次制作了一套横幅（banner） (未找到链接)供外部网站选用。
+　　另外亦首次制作了一套[横幅（banner）](./THBWiki-关于.md#链接横幅)供外部网站选用。
   
-
-
 
 ## 历史LOGO
 
 ### 第一代
-[](./文件-THBWiki第一代Logo.png.md)  [](./文件-THBWiki第一代Logo.png.md)第一代LOGO（-2012）
-  
+<img alt="" src="https://upload.thwiki.cc/4/44/THBWiki%E7%AC%AC%E4%B8%80%E4%BB%A3Logo.png" decoding="async" loading="lazy" width="135" height="160" class="thumbimage" data-file-width="135" data-file-height="160">
+ [放大](./文件-THBWiki第一代Logo.png.md)第一代LOGO（-2012）  
 建站初期LOGO。
   
 
-
-
 ### 第二代
-[](./文件-THBWiki第二代Logo.png.md)  [](./文件-THBWiki第二代Logo.png.md)第二代LOGO（2012）
-
-
+<img alt="" src="https://upload.thwiki.cc/6/62/THBWiki%E7%AC%AC%E4%BA%8C%E4%BB%A3Logo.png" decoding="async" loading="lazy" width="135" height="160" class="thumbimage" data-file-width="135" data-file-height="160">
+ [放大](./文件-THBWiki第二代Logo.png.md)第二代LOGO（2012）
 ### 第三代
-[](./文件-THBWiki第三代Logo.png.md)  [](./文件-THBWiki第三代Logo.png.md)第三代LOGO（2013-2018）
-- 由  **[海猫络合物](http://weibo.com/lowlight)**  设计。
+<img alt="" src="https://upload.thwiki.cc/c/cb/THBWiki%E7%AC%AC%E4%B8%89%E4%BB%A3Logo.png" decoding="async" loading="lazy" width="135" height="160" class="thumbimage" data-file-width="135" data-file-height="160">
+ [放大](./文件-THBWiki第三代Logo.png.md)第三代LOGO（2013-2018）
+- 由 **[海猫络合物](http://weibo.com/lowlight)** 设计。
 
   
 　　仿照含有日本传统特色的纹样结合历史背景，在选择元素中提取镰仓家和足利家的构成作为主要元素。尝试用轻盈的排列和配色模仿传统和科技感结合的衬线体与细等线结合组成的logo方案。
   
-
-
-
-
-
 
 ---
 

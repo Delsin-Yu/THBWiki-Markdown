@@ -1,6 +1,6 @@
 # 文件:Miseria_Kills_Slaughterously封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c6\ns6%3AMiseria_Kills_Slaughterously%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c6\ns6%3AMiseria_Kills_Slaughterously%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Unlucky_Morpheus | 专辑封面 | 封面图片
 
@@ -11,12 +11,7 @@ Unlucky_Morpheus | 专辑封面 | 封面图片
 - [Miseria Kills Slaughterously](./Miseria_Kills_Slaughterously.md)
 
   
-源地址：[[1]](http://sound.jp/ankimo/Miseria_400_RGB.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://sound.jp/ankimo/Miseria_400_RGB.jpg)  
 
 ---
 

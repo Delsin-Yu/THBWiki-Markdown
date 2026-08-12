@@ -1,11 +1,10 @@
 # α_music
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\69\ns0%3A%CE%B1_music.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\69\ns0%3A%CE%B1_music.html -->
 
 α music ，于 2009 年成立，主要制作 同人音乐 的日本同人社团，主催是 tatu，当前状态为 活动
 
-本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
-
+本页是关于**[同人社团](./二次创作.md#同人社团)**的词条
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -14,48 +13,29 @@
 - [4 其他信息](#其他信息)
 
 
-
-
-
 ## 社团信息
-[](./文件-α_music_banner.jpg.md)  [](./文件-α_music_banner.jpg.md)Banner 1
-文件:α music banner2.gif (未找到链接)  Banner 2
-
-<table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> α music </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2009</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=tatu&amp;action=edit&amp;redlink=1" class="new" title="tatu（页面不存在）">tatu</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://www3.fctv.ne.jp/~ta-tu-4/">http://www3.fctv.ne.jp/~ta-tu-4/</a> （旧官网）<span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span><br><a rel="nofollow" class="external free" href="http://www19.atpages.jp/tatu4/">http://www19.atpages.jp/tatu4/</a> <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span><br><a rel="nofollow" class="external free" href="http://alpha-music.sub.jp/">http://alpha-music.sub.jp/</a></td></tr></tbody></table>
+<img alt="" src="https://upload.thwiki.cc/thumb/1/16/%CE%B1_music_banner.jpg/200px-%CE%B1_music_banner.jpg" decoding="async" loading="lazy" width="200" height="43" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/1/16/%CE%B1_music_banner.jpg/300px-%CE%B1_music_banner.jpg 1.5x, https://upload.thwiki.cc/1/16/%CE%B1_music_banner.jpg 2x" data-file-width="327" data-file-height="70">
+ [放大](./文件-α_music_banner.jpg.md)Banner 1文件:α music banner2.gif (未找到链接) Banner 2
+<table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> α music </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2009</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a class="new" title="tatu（页面不存在）">tatu</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://www3.fctv.ne.jp/~ta-tu-4/">http://www3.fctv.ne.jp/~ta-tu-4/</a> （旧官网）<span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span><br><a rel="nofollow" class="external free" href="http://www19.atpages.jp/tatu4/">http://www19.atpages.jp/tatu4/</a> <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span><br><a rel="nofollow" class="external free" href="http://alpha-music.sub.jp/">http://alpha-music.sub.jp/</a></td></tr></tbody></table>
 
 α music（同人社团，同人音乐社团） - α music ，于 2009 年成立，主要制作 同人音乐 的日本同人社团，主催是 tatu，当前状态为 活动
-
 ## 成员名单
+
 - tatu (未找到链接)
 
 
 ## 作品列表
-[](./東方弦奏曲.md)[東方弦奏曲](./東方弦奏曲.md)首发日期：2009-03-08 （第六回 博麗神社例大祭 (未找到链接)）amus-0001全长 （一般向）[](./東方風水華月.md)[東方風水華月](./東方風水華月.md)首发日期：2009-10-11 （東方紅楼夢5 (未找到链接)）amus-0002全长 （一般向）[](./Freudenfest.md)[Freudenfest](./Freudenfest.md)首发日期：2010-03-14 （第七回 博麗神社例大祭 (未找到链接)）amus-0003全长 （一般向）[](./Sternenhimmel.md)[Sternenhimmel](./Sternenhimmel.md)首发日期：2011-08-13 （Comic Market 80 (未找到链接)）amus-0004全长 （一般向）[](./祈-Gebet-.md)[祈-Gebet-](./祈-Gebet-.md)首发日期：2011-05-08 （第八回 博麗神社例大祭 (未找到链接)）amus-0005全长 （一般向）[](./久遠の音_～Ewigkeit～.md)[久遠の音 ～Ewigkeit～](./久遠の音_～Ewigkeit～.md)首发日期：2011-08-13 （Comic Market 80 (未找到链接)）amus-0006全长 （一般向）[](./紅き夢～Purpurnen_Traum～.md)[紅き夢～Purpurnen Traum～](./紅き夢～Purpurnen_Traum～.md)首发日期：2012-05-27 （第九回 博麗神社例大祭 (未找到链接)）amus-0007全长 （一般向）[](./REQUIEM.md)[REQUIEM](./REQUIEM.md)首发日期：2013-05-26 （第十回 博麗神社例大祭 (未找到链接)）AMUS-0008全长 （一般向）[](./Gefühl.md)[Gefühl](./Gefühl.md)首发日期：2013-10-13 （東方紅楼夢9 (未找到链接)）amus-0009全长 （一般向）
-<table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
-
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
-
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
-
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
-
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
-
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
-
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
-
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
-
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
-</table>
-
-
+- **[東方弦奏曲](./東方弦奏曲.md)** — 首发日期：2009-03-08 （第六回 博麗神社例大祭）；amus-0001；全长 （一般向）
+- **[東方風水華月](./東方風水華月.md)** — 首发日期：2009-10-11 （東方紅楼夢5）；amus-0002；全长 （一般向）
+- **[Freudenfest](./Freudenfest.md)** — 首发日期：2010-03-14 （第七回 博麗神社例大祭）；amus-0003；全长 （一般向）
+- **[Sternenhimmel](./Sternenhimmel.md)** — 首发日期：2011-08-13 （Comic Market 80）；amus-0004；全长 （一般向）
+- **[祈-Gebet-](./祈-Gebet-.md)** — 首发日期：2011-05-08 （第八回 博麗神社例大祭）；amus-0005；全长 （一般向）
+- **[久遠の音 ～Ewigkeit～](./久遠の音_～Ewigkeit～.md)** — 首发日期：2011-08-13 （Comic Market 80）；amus-0006；全长 （一般向）
+- **[紅き夢～Purpurnen Traum～](./紅き夢～Purpurnen_Traum～.md)** — 首发日期：2012-05-27 （第九回 博麗神社例大祭）；amus-0007；全长 （一般向）
+- **[REQUIEM](./REQUIEM.md)** — 首发日期：2013-05-26 （第十回 博麗神社例大祭）；AMUS-0008；全长 （一般向）
+- **[Gefühl](./Gefühl.md)** — 首发日期：2013-10-13 （東方紅楼夢9）；amus-0009；全长 （一般向）
 
 ## 其他信息
-
-
-
 
 ---
 

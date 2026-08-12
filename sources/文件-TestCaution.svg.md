@@ -1,16 +1,12 @@
 # 文件:TestCaution.svg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\17\ns6%3ATestCaution%2Esvg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\17\ns6%3ATestCaution%2Esvg.html -->
 
 帮助文档
 
   
 用于标记测试代码时的注意事项。
   
-
-
-
-
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:紅魔館図書館合同_Crescent_&_Wing封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\91\ns6%3A%E7%B4%85%E9%AD%94%E9%A4%A8%E5%9B%B3%E6%9B%B8%E9%A4%A8%E5%90%88%E5%90%8C_Crescent_%26_Wing%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\91\ns6%3A%E7%B4%85%E9%AD%94%E9%A4%A8%E5%9B%B3%E6%9B%B8%E9%A4%A8%E5%90%88%E5%90%8C_Crescent_%26_Wing%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Gallery_Culter | 同人志封面 | 封面图片
 
@@ -8,11 +8,9 @@ Gallery_Culter | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [紅魔館図書館合同 Crescent &amp; Wing](./紅魔館図書館合同_Crescent_&_Wing.md)  
-该封面包含的角色：- [小恶魔](./小恶魔.md)- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
-
-
-
+- [紅魔館図書館合同 Crescent & Wing](./紅魔館図書館合同_Crescent_&_Wing.md)该封面包含的角色：
+- [小恶魔](./小恶魔.md)
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
 
 
 ---

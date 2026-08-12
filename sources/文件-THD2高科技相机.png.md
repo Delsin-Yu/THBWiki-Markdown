@@ -1,12 +1,8 @@
 # 文件:THD2高科技相机.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ea\ns6%3ATHD2%E9%AB%98%E7%A7%91%E6%8A%80%E7%9B%B8%E6%9C%BA%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ea\ns6%3ATHD2%E9%AB%98%E7%A7%91%E6%8A%80%E7%9B%B8%E6%9C%BA%2Epng.html -->
 
 AvalonStudioOfficial
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:gdgd紅魔館s封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ad\ns6%3Agdgd%E7%B4%85%E9%AD%94%E9%A4%A8s%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ad\ns6%3Agdgd%E7%B4%85%E9%AD%94%E9%A4%A8s%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 黒猫館モンプチ
 
@@ -8,11 +8,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [gdgd紅魔館s](./gdgd紅魔館s.md)  
-该封面包含的角色：- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)- 十六夜咲夜 (未找到链接)- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
-
-
-
+- [gdgd紅魔館s](./gdgd紅魔館s.md)该封面包含的角色：
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
+- [十六夜咲夜](./十六夜咲夜.md)
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
 
 ---

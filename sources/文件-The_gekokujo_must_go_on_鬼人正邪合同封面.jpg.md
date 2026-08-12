@@ -1,6 +1,6 @@
 # 文件:The_gekokujo_must_go_on_鬼人正邪合同封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7a\ns6%3AThe_gekokujo_must_go_on_%E9%AC%BC%E4%BA%BA%E6%AD%A3%E9%82%AA%E5%90%88%E5%90%8C%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7a\ns6%3AThe_gekokujo_must_go_on_%E9%AC%BC%E4%BA%BA%E6%AD%A3%E9%82%AA%E5%90%88%E5%90%8C%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 R0x20 | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@ R0x20 | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [The gekokujo must go on 鬼人正邪合同](./The_gekokujo_must_go_on_鬼人正邪合同.md)  
-该封面包含的角色：- [鬼人正邪](./鬼人正邪.md)
-
-
-
+- [The gekokujo must go on 鬼人正邪合同](./The_gekokujo_must_go_on_鬼人正邪合同.md)该封面包含的角色：
+- [鬼人正邪](./鬼人正邪.md)
 
 
 ---

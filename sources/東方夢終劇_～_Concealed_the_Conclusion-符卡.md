@@ -1,6 +1,6 @@
 # 東方夢終劇_～_Concealed_the_Conclusion/符卡
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\e\ef\ns0%3A%E6%9D%B1%E6%96%B9%E5%A4%A2%E7%B5%82%E5%8A%87_%EF%BD%9E_Concealed_the_Conclusion%2F%E7%AC%A6%E5%8D%A1.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\e\ef\ns0%3A%E6%9D%B1%E6%96%B9%E5%A4%A2%E7%B5%82%E5%8A%87_%EF%BD%9E_Concealed_the_Conclusion%2F%E7%AC%A6%E5%8D%A1.html -->
 
 Danmaq
 
@@ -10,8 +10,8 @@ Danmaq
   
 每一个条目包含相关截图、中日文（必要的话会包含英文）、在哪一关出现以及一些由[danmaq](./Danmaq.md)所写的注解。
   
-
-: - [Stage 1A 符卡](./東方夢終劇_～_Concealed_the_Conclusion-符卡-Stage_1A.md)
+: 
+- [Stage 1A 符卡](./東方夢終劇_～_Concealed_the_Conclusion-符卡-Stage_1A.md)
 - [Stage 1B 符卡](./東方夢終劇_～_Concealed_the_Conclusion-符卡-Stage_1B.md)
 - [Stage 1C 符卡](./東方夢終劇_～_Concealed_the_Conclusion-符卡-Stage_1C.md)
 - [Stage 1D 符卡](./東方夢終劇_～_Concealed_the_Conclusion-符卡-Stage_1D.md)
@@ -33,16 +33,11 @@ Danmaq
 
 
   
- **备注：** 
-  
+**备注：**  
 
--  **Last Word** 与 **Another Last Word** 符卡均只能在符卡练习模式下尝试。其中LW需要解锁（具体参见内部介绍，或者将符卡练习中倒数第二个选项“是否和原作游戏进行数据同步”给off掉），ALW为故事模式下某些符卡的加强版（类似于神灵庙overdrive模式）。
+- **Last Word**与**Another Last Word**符卡均只能在符卡练习模式下尝试。其中LW需要解锁（具体参见内部介绍，或者将符卡练习中倒数第二个选项“是否和原作游戏进行数据同步”给off掉），ALW为故事模式下某些符卡的加强版（类似于神灵庙overdrive模式）。
 - 符卡练习模式中，除了4个魔理沙自机之外，也可以使用弹幕风默认自机（妖妖梦灵梦AB以及魔理沙AB）。大部分的日文版梦终剧只有游戏本体而没有符卡练习，中文版梦终剧的符卡练习版本为R1.00。
-- 符卡练习模式补丁2.01，添加了非符练习等。  
-注意上面的下载是本体，下面的是补丁。请按顺序将两个文件下载并放入到日文版弹幕风文件夹内：[http://www5d.biglobe.ne.jp/~end2001/danmaku/thC_SCC.html](http://www5d.biglobe.ne.jp/~end2001/danmaku/thC_SCC.html)
-
-
-
+- 符卡练习模式补丁2.01，添加了非符练习等。注意上面的下载是本体，下面的是补丁。请按顺序将两个文件下载并放入到日文版弹幕风文件夹内：[http://www5d.biglobe.ne.jp/~end2001/danmaku/thC_SCC.html](http://www5d.biglobe.ne.jp/~end2001/danmaku/thC_SCC.html)
 
 
 ---

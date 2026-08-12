@@ -1,6 +1,6 @@
 # 文件:時明かり_-TABLETALK_ROLE_PLAY_IN_TOHO_6-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\de\ns6%3A%E6%99%82%E6%98%8E%E3%81%8B%E3%82%8A_-TABLETALK_ROLE_PLAY_IN_TOHO_6-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\de\ns6%3A%E6%99%82%E6%98%8E%E3%81%8B%E3%82%8A_-TABLETALK_ROLE_PLAY_IN_TOHO_6-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 天秤亭 | 封面图片
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [時明かり -TABLETALK ROLE PLAY IN TOHO 6-](./時明かり_-TABLETALK_ROLE_PLAY_IN_TOHO_6-.md)  
-该封面包含的角色：- [藤原妹红](./藤原妹红.md)
+- [時明かり -TABLETALK ROLE PLAY IN TOHO 6-](./時明かり_-TABLETALK_ROLE_PLAY_IN_TOHO_6-.md)该封面包含的角色：
+- [藤原妹红](./藤原妹红.md)
 
   
-源地址：[[1]](http://10bintei.com/images/produce17_01.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://10bintei.com/images/produce17_01.jpg)  
 
 ---
 

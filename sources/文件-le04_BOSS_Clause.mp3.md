@@ -1,16 +1,12 @@
 # 文件:le04_BOSS_Clause.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fc\ns6%3Ale04_BOSS_Clause%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fc\ns6%3Ale04_BOSS_Clause%2Emp3.html -->
 
 连缘Project官方音乐MP3
 
   
 连缘天影战记中立线6面Boss-（前略）克劳斯（后略）主题曲
   
-
-
-
-
 
 ---
 

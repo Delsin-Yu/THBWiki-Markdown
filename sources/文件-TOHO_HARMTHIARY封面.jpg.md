@@ -1,6 +1,6 @@
 # 文件:TOHO_HARMTHIARY封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8b\ns6%3ATOHO_HARMTHIARY%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8b\ns6%3ATOHO_HARMTHIARY%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 白紙培地。
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [TOHO HARMTHIARY](./TOHO_HARMTHIARY.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
-
-
-
+- [TOHO HARMTHIARY](./TOHO_HARMTHIARY.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
 
 
 ---

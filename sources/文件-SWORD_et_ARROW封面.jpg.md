@@ -1,6 +1,6 @@
 # 文件:SWORD_et_ARROW封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c5\ns6%3ASWORD_et_ARROW%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c5\ns6%3ASWORD_et_ARROW%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 a_HEAL | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@ a_HEAL | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [SWORD et ARROW](./SWORD_et_ARROW.md)  
-该封面包含的角色：- [物部布都](./物部布都.md)
-
-
-
+- [SWORD et ARROW](./SWORD_et_ARROW.md)该封面包含的角色：
+- [物部布都](./物部布都.md)
 
 
 ---

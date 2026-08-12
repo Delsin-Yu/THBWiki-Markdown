@@ -1,6 +1,6 @@
 # 文件:+Voice封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\37\ns6%3A%2BVoice%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\37\ns6%3A%2BVoice%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@
   
 
 - [+Voice](./+Voice.md)
-
-
-
 
 
 ---

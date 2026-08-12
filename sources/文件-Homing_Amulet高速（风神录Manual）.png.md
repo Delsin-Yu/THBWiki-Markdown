@@ -1,12 +1,8 @@
 # 文件:Homing_Amulet高速（风神录Manual）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4b\ns6%3AHoming_Amulet%E9%AB%98%E9%80%9F%EF%BC%88%E9%A3%8E%E7%A5%9E%E5%BD%95Manual%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4b\ns6%3AHoming_Amulet%E9%AB%98%E9%80%9F%EF%BC%88%E9%A3%8E%E7%A5%9E%E5%BD%95Manual%EF%BC%89%2Epng.html -->
 
 Manual配图 | 东方风神录 | 博丽灵梦
-
-
-
-
 
 
 ---

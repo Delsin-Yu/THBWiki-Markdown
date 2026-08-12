@@ -1,12 +1,8 @@
 # 文件:「Brambly_Rose_Garden」（心绮楼3）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\93\ns6%3A%E3%80%8CBrambly_Rose_Garden%E3%80%8D%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC3%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\93\ns6%3A%E3%80%8CBrambly_Rose_Garden%E3%80%8D%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC3%EF%BC%89%2Ejpg.html -->
 
 东方心绮楼 | 古明地恋 | 自机符卡
-
-
-
-
 
 
 ---

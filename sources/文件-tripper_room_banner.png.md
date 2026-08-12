@@ -1,12 +1,8 @@
 # 文件:tripper_room_banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\70\ns6%3Atripper_room_banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\70\ns6%3Atripper_room_banner%2Epng.html -->
 
 tripper_room | 社团LOGO
-
-
-
-
 
 
 ---

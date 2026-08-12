@@ -1,12 +1,8 @@
 # 文件:趣味工房にんじんわいん_banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\07\ns6%3A%E8%B6%A3%E5%91%B3%E5%B7%A5%E6%88%BF%E3%81%AB%E3%82%93%E3%81%98%E3%82%93%E3%82%8F%E3%81%84%E3%82%93_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\07\ns6%3A%E8%B6%A3%E5%91%B3%E5%B7%A5%E6%88%BF%E3%81%AB%E3%82%93%E3%81%98%E3%82%93%E3%82%8F%E3%81%84%E3%82%93_banner%2Ejpg.html -->
 
 社团LOGO | 趣味工房にんじんわいん
-
-
-
-
 
 
 ---

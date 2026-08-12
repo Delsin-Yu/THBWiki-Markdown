@@ -1,6 +1,6 @@
 # 文件:Borderline（時間屋）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\49\ns6%3ABorderline%EF%BC%88%E6%99%82%E9%96%93%E5%B1%8B%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\49\ns6%3ABorderline%EF%BC%88%E6%99%82%E9%96%93%E5%B1%8B%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 時間屋
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [Borderline（時間屋）](./Borderline（時間屋）.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [Borderline（時間屋）](./Borderline（時間屋）.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

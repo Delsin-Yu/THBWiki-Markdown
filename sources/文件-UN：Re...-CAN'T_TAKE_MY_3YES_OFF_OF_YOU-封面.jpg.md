@@ -1,6 +1,6 @@
 # 文件:UN：Re...-CAN'T_TAKE_MY_3YES_OFF_OF_YOU-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e9\ns6%3AUN%EF%BC%9ARe%2E%2E%2E-CAN%27T_TAKE_MY_3YES_OFF_OF_YOU-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e9\ns6%3AUN%EF%BC%9ARe%2E%2E%2E-CAN%27T_TAKE_MY_3YES_OFF_OF_YOU-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ゆめかばん | 同人志封面 | 封面图片
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [UN：Re...-CAN'T TAKE MY 3YES OFF OF YOU-](./UN：Re...-CAN'T_TAKE_MY_3YES_OFF_OF_YOU-.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [UN：Re...-CAN'T TAKE MY 3YES OFF OF YOU-](./UN：Re...-CAN'T_TAKE_MY_3YES_OFF_OF_YOU-.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

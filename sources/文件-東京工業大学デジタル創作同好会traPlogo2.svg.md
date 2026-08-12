@@ -1,18 +1,13 @@
 # 文件:東京工業大学デジタル創作同好会traPlogo2.svg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2d\ns6%3A%E6%9D%B1%E4%BA%AC%E5%B7%A5%E6%A5%AD%E5%A4%A7%E5%AD%A6%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E5%89%B5%E4%BD%9C%E5%90%8C%E5%A5%BD%E4%BC%9AtraPlogo2%2Esvg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2d\ns6%3A%E6%9D%B1%E4%BA%AC%E5%B7%A5%E6%A5%AD%E5%A4%A7%E5%AD%A6%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E5%89%B5%E4%BD%9C%E5%90%8C%E5%A5%BD%E4%BC%9AtraPlogo2%2Esvg.html -->
 
 東京工業大学デジタル創作同好会traP | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[[1]](https://trap.jp/assets/logo/full_blue.svg)
-  
-
-
-
-
+源地址：[\[1\]](https://trap.jp/assets/logo/full_blue.svg)  
 
 ---
 

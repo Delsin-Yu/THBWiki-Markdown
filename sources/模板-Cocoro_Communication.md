@@ -1,16 +1,12 @@
 # 模板:Cocoro_Communication
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\1\11\ns10%3ACocoro_Communication.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\1\11\ns10%3ACocoro_Communication.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

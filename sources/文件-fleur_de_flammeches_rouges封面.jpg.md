@@ -1,6 +1,6 @@
 # 文件:fleur_de_flammeches_rouges封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e4\ns6%3Afleur_de_flammeches_rouges%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e4\ns6%3Afleur_de_flammeches_rouges%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Violet_Jupiter | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@ Violet_Jupiter | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [fleur de flammeches rouges](./fleur_de_flammeches_rouges.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
+- [fleur de flammeches rouges](./fleur_de_flammeches_rouges.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
   
-源地址：[direct image link](https://web.archive.org/web/20150205173956im_/http://paraffin0401.nobody.jp/img/doujin01.jpg), [source page](https://web.archive.org/web/20130609172643/http://paraffin0401.nobody.jp/)
-  
-
-
-
-
+源地址：[direct image link](https://web.archive.org/web/20150205173956im_/http://paraffin0401.nobody.jp/img/doujin01.jpg), [source page](https://web.archive.org/web/20130609172643/http://paraffin0401.nobody.jp/)  
 
 ---
 

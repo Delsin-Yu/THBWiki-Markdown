@@ -1,6 +1,6 @@
 # 文件:異聞アマノジャク_VS幽香封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\23\ns6%3A%E7%95%B0%E8%81%9E%E3%82%A2%E3%83%9E%E3%83%8E%E3%82%B8%E3%83%A3%E3%82%AF_VS%E5%B9%BD%E9%A6%99%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\23\ns6%3A%E7%95%B0%E8%81%9E%E3%82%A2%E3%83%9E%E3%83%8E%E3%82%B8%E3%83%A3%E3%82%AF_VS%E5%B9%BD%E9%A6%99%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 有機化合物
 
@@ -8,11 +8,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [異聞アマノジャク VS幽香](./異聞アマノジャク_VS幽香.md)  
-该封面包含的角色：- [风见幽香](./风见幽香.md)- [鬼人正邪](./鬼人正邪.md)- [少名针妙丸](./少名针妙丸.md)
-
-
-
+- [異聞アマノジャク VS幽香](./異聞アマノジャク_VS幽香.md)该封面包含的角色：
+- [风见幽香](./风见幽香.md)
+- [鬼人正邪](./鬼人正邪.md)
+- [少名针妙丸](./少名针妙丸.md)
 
 
 ---

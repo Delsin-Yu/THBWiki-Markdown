@@ -1,6 +1,6 @@
 # 文件:天狗循行2_～Circulation_trip_to_Tengu_vol.2～封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3d\ns6%3A%E5%A4%A9%E7%8B%97%E5%BE%AA%E8%A1%8C2_%EF%BD%9ECirculation_trip_to_Tengu_vol%2E2%EF%BD%9E%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3d\ns6%3A%E5%A4%A9%E7%8B%97%E5%BE%AA%E8%A1%8C2_%EF%BD%9ECirculation_trip_to_Tengu_vol%2E2%EF%BD%9E%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 同人志封面 | 封面图片 | 鴉天狗鉄道
 
@@ -11,9 +11,6 @@
   
 
 - [天狗循行2 ～Circulation trip to Tengu vol.2～](./天狗循行2_～Circulation_trip_to_Tengu_vol.2～.md)
-
-
-
 
 
 ---

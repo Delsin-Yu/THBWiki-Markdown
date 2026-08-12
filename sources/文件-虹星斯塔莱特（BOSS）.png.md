@@ -1,14 +1,11 @@
 # 文件:虹星斯塔莱特（BOSS）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d6\ns6%3A%E8%99%B9%E6%98%9F%E6%96%AF%E5%A1%94%E8%8E%B1%E7%89%B9%EF%BC%88BOSS%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d6\ns6%3A%E8%99%B9%E6%98%9F%E6%96%AF%E5%A1%94%E8%8E%B1%E7%89%B9%EF%BC%88BOSS%EF%BC%89%2Epng.html -->
 
 二次角色立绘 | 纷鸟境虹谈制作组 | 虹星斯塔莱特
 
 
 ## 摘要
-
-
-
 
 ---
 

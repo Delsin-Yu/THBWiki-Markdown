@@ -1,12 +1,8 @@
 # 文件:无现里EX面场景.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e3\ns6%3A%E6%97%A0%E7%8E%B0%E9%87%8CEX%E9%9D%A2%E5%9C%BA%E6%99%AF%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e3\ns6%3A%E6%97%A0%E7%8E%B0%E9%87%8CEX%E9%9D%A2%E5%9C%BA%E6%99%AF%2Epng.html -->
 
 トリック・ノスタルジー | 连缘无现里
-
-
-
-
 
 
 ---

@@ -1,11 +1,10 @@
 # Siam_Inter_Comics
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\5\52\ns0%3ASiam_Inter_Comics.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\5\52\ns0%3ASiam_Inter_Comics.html -->
 
 Siam Inter Comics，股份有限公司
 
 <center>
-
 <table>
 <tbody><tr>
 <td class="mbox-image"><div style="width: 52px;">
@@ -14,36 +13,27 @@ Siam Inter Comics，股份有限公司
 </tr>
 </tbody></table>
 
-
-</center>
-本页是关于东方Project  
- **相关公司会社** 的词条
-
+</center>本页是关于东方Project  
+**相关公司会社**的词条
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 与东方Project的关联](#与东方Project的关联)
-
   - [2.1 单行本与书籍](#单行本与书籍)
-
 
 
 - [3 其他说明](#其他说明)
 
 
-
-
-
 ## 基本信息
-[](./文件-Siam_Inter_ComicsLOGO.jpg.md)  Siam Inter ComicsLOGO
-  
-<big> **Siam Inter Comics** </big>（สยามอินเตอร์คอมิกส์）  
+<img alt="" src="https://upload.thwiki.cc/8/8d/Siam_Inter_ComicsLOGO.jpg" decoding="async" loading="lazy" width="172" height="134" class="thumbimage" data-file-width="172" data-file-height="134">
+ Siam Inter ComicsLOGO  
+<big>**Siam Inter Comics**</big>（สยามอินเตอร์คอมิกส์）  
 是泰国的一家出版社。
   
   
 主要经营漫画、小说等书籍的出版发行。其母公司为Siam Inter Multimedia Ltd.（บริษัท สยาม อินเตอร์ มัลติมีเดีย จำกัด）。
   
-
 
 <table>
 <tbody><tr>
@@ -53,12 +43,13 @@ Siam Inter Comics，股份有限公司
 <td style="width:140px"><b>正式名称</b></td><td style="min-width:300px">Siam Inter Comics</td></tr><tr><td><b>公司现状</b></td><td>持续营业中</td></tr><tr><td><b>公司种类</b></td><td>股份有限公司</td></tr><tr><td><b>官网地址</b></td><td><a rel="nofollow" class="external free" href="http://siamintercomics.com/">http://siamintercomics.com/</a></td></tr></tbody></table>
 
 Siam Inter Comics（公司会社） - Siam Inter Comics，股份有限公司
-
 ## 与东方Project的关联
+
 - Siam Inter Comics代理了少数的官方商业出版物。
 
 
 ### 单行本与书籍
+
 - [东方三月精 ～ Strange and Bright Nature Deity. 1](./东方三月精_～_Strange_and_Bright_Nature_Deity..md)（2010年11月10日出版的官方漫画单行本）
 - [东方三月精 ～ Strange and Bright Nature Deity. 2](./东方三月精_～_Strange_and_Bright_Nature_Deity..md)（2011年6月6日出版的官方漫画单行本）
 - [东方三月精 ～ Strange and Bright Nature Deity. 3](./东方三月精_～_Strange_and_Bright_Nature_Deity..md)（2011年9月7日出版的官方漫画单行本）
@@ -66,9 +57,6 @@ Siam Inter Comics（公司会社） - Siam Inter Comics，股份有限公司
 
 
 ## 其他说明
-
-
-
 
 ---
 

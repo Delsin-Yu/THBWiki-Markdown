@@ -1,6 +1,6 @@
 # 文件:TOHO_JAZZFUNK_SESSIONS_Vol.1封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0d\ns6%3ATOHO_JAZZFUNK_SESSIONS_Vol%2E1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0d\ns6%3ATOHO_JAZZFUNK_SESSIONS_Vol%2E1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Baguettes_Ensemble | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ Baguettes_Ensemble | 专辑封面 | 封面图片
   
 
 - [TOHO JAZZFUNK SESSIONS Vol.1](./TOHO_JAZZFUNK_SESSIONS_Vol.1.md)
-
-
-
 
 
 ---

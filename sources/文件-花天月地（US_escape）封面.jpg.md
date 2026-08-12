@@ -1,6 +1,6 @@
 # 文件:花天月地（US_escape）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\77\ns6%3A%E8%8A%B1%E5%A4%A9%E6%9C%88%E5%9C%B0%EF%BC%88US_escape%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\77\ns6%3A%E8%8A%B1%E5%A4%A9%E6%9C%88%E5%9C%B0%EF%BC%88US_escape%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 US_escape | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ US_escape | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [花天月地（US escape）](./花天月地（US_escape）.md)  
-该封面包含的角色：- [比那名居天子](./比那名居天子.md)- [伊吹萃香](./伊吹萃香.md)
-
-
-
+- [花天月地（US escape）](./花天月地（US_escape）.md)该封面包含的角色：
+- [比那名居天子](./比那名居天子.md)
+- [伊吹萃香](./伊吹萃香.md)
 
 
 ---

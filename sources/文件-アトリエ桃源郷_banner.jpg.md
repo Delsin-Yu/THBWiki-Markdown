@@ -1,14 +1,11 @@
 # 文件:アトリエ桃源郷_banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e4\ns6%3A%E3%82%A2%E3%83%88%E3%83%AA%E3%82%A8%E6%A1%83%E6%BA%90%E9%83%B7_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e4\ns6%3A%E3%82%A2%E3%83%88%E3%83%AA%E3%82%A8%E6%A1%83%E6%BA%90%E9%83%B7_banner%2Ejpg.html -->
 
 アトリエ桃源郷 | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

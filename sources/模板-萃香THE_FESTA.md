@@ -1,16 +1,12 @@
 # 模板:萃香THE_FESTA
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\c\c7\ns10%3A%E8%90%83%E9%A6%99THE_FESTA.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\c\c7\ns10%3A%E8%90%83%E9%A6%99THE_FESTA.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

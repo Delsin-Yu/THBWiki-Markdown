@@ -1,12 +1,8 @@
 # 文件:梦幻泡影banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\92\ns6%3A%E6%A2%A6%E5%B9%BB%E6%B3%A1%E5%BD%B1banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\92\ns6%3A%E6%A2%A6%E5%B9%BB%E6%B3%A1%E5%BD%B1banner%2Ejpg.html -->
 
 梦幻泡影 | 社团LOGO
-
-
-
-
 
 
 ---

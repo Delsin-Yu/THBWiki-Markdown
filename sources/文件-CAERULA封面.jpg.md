@@ -1,6 +1,6 @@
 # 文件:CAERULA封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\64\ns6%3ACAERULA%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\64\ns6%3ACAERULA%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Sequence_Club | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Sequence_Club | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [CAERULA](./CAERULA.md)  
-该封面包含的角色：- [洩矢诹访子](./洩矢诹访子.md)
+- [CAERULA](./CAERULA.md)该封面包含的角色：
+- [洩矢诹访子](./洩矢诹访子.md)
 
   
-源地址：[[1]](http://static.tumblr.com/56078cf55e877b62a6e3b669e7c0aa1c/zkgcgcf/lSbob11v9/tumblr_static_66ku7jjtp8w840kw8owo8kwok.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://static.tumblr.com/56078cf55e877b62a6e3b669e7c0aa1c/zkgcgcf/lSbob11v9/tumblr_static_66ku7jjtp8w840kw8owo8kwok.jpg)  
 
 ---
 

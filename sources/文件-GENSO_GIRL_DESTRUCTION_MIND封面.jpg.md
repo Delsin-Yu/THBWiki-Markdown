@@ -1,6 +1,6 @@
 # 文件:GENSO_GIRL_DESTRUCTION_MIND封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d8\ns6%3AGENSO_GIRL_DESTRUCTION_MIND%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d8\ns6%3AGENSO_GIRL_DESTRUCTION_MIND%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 幼女天満宮
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [GENSO GIRL DESTRUCTION MIND](./GENSO_GIRL_DESTRUCTION_MIND.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
-
-
-
+- [GENSO GIRL DESTRUCTION MIND](./GENSO_GIRL_DESTRUCTION_MIND.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
 
 ---

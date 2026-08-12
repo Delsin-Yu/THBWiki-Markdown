@@ -1,6 +1,6 @@
 # 文件:青い薔薇の願い事。‐_Blue_rose_complex‐封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7f\ns6%3A%E9%9D%92%E3%81%84%E8%96%94%E8%96%87%E3%81%AE%E9%A1%98%E3%81%84%E4%BA%8B%E3%80%82%E2%80%90_Blue_rose_complex%E2%80%90%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7f\ns6%3A%E9%9D%92%E3%81%84%E8%96%94%E8%96%87%E3%81%AE%E9%A1%98%E3%81%84%E4%BA%8B%E3%80%82%E2%80%90_Blue_rose_complex%E2%80%90%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 火豆式
 
@@ -10,15 +10,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [青い薔薇の願い事。‐ Blue rose complex‐](./青い薔薇の願い事。‐_Blue_rose_complex‐.md)  
-该封面包含的角色：- [古明地恋](./古明地恋.md)
+- [青い薔薇の願い事。‐ Blue rose complex‐](./青い薔薇の願い事。‐_Blue_rose_complex‐.md)该封面包含的角色：
+- [古明地恋](./古明地恋.md)
 
 : 源地址
 
 - [蜜瓜](https://melonbooks.akamaized.net/user_data/packages/resize_image.php?image=212001165213.jpg)
-
-
-
 
 
 ---

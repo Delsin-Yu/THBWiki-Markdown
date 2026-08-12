@@ -1,12 +1,8 @@
 # 文件:IZNA照片2.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\27\ns6%3AIZNA%E7%85%A7%E7%89%872%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\27\ns6%3AIZNA%E7%85%A7%E7%89%872%2Ejpg.html -->
 
 東方事変
-
-
-
-
 
 
 ---

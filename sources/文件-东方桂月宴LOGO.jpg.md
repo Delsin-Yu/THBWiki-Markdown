@@ -1,16 +1,12 @@
 # 文件:东方桂月宴LOGO.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7a\ns6%3A%E4%B8%9C%E6%96%B9%E6%A1%82%E6%9C%88%E5%AE%B4LOGO%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7a\ns6%3A%E4%B8%9C%E6%96%B9%E6%A1%82%E6%9C%88%E5%AE%B4LOGO%2Ejpg.html -->
 
 活动LOGO
 
   
 东方桂月宴logo
   
-
-
-
-
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:3RD_GENERATION（Active_Sounds_Zone）封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e9\ns6%3A3RD_GENERATION%EF%BC%88Active_Sounds_Zone%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e9\ns6%3A3RD_GENERATION%EF%BC%88Active_Sounds_Zone%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Active_Sounds_Zone | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ Active_Sounds_Zone | 专辑封面 | 封面图片
   
 
 - [3RD GENERATION（Active Sounds Zone）](./3RD_GENERATION（Active_Sounds_Zone）.md)
-
-
-
 
 
 ---

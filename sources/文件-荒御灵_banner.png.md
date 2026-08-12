@@ -1,12 +1,8 @@
 # 文件:荒御灵_banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\27\ns6%3A%E8%8D%92%E5%BE%A1%E7%81%B5_banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\27\ns6%3A%E8%8D%92%E5%BE%A1%E7%81%B5_banner%2Epng.html -->
 
 社团LOGO | 荒御灵
-
-
-
-
 
 
 ---

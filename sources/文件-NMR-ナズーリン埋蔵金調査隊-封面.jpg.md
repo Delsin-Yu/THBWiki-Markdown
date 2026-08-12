@@ -1,6 +1,6 @@
 # 文件:NMR-ナズーリン埋蔵金調査隊-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f8\ns6%3ANMR-%E3%83%8A%E3%82%BA%E3%83%BC%E3%83%AA%E3%83%B3%E5%9F%8B%E8%94%B5%E9%87%91%E8%AA%BF%E6%9F%BB%E9%9A%8A-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f8\ns6%3ANMR-%E3%83%8A%E3%82%BA%E3%83%BC%E3%83%AA%E3%83%B3%E5%9F%8B%E8%94%B5%E9%87%91%E8%AA%BF%E6%9F%BB%E9%9A%8A-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Y-Cubed | 封面图片 | 软件封面
 
@@ -8,11 +8,12 @@ Y-Cubed | 封面图片 | 软件封面
 使用了本文件作封面图片的作品：
   
 
-- [NMR-ナズーリン埋蔵金調査隊-](./NMR-ナズーリン埋蔵金調査隊-.md)  
-该封面包含的角色：- [娜兹玲](./娜兹玲.md)- [云居一轮](./云居一轮.md)- [村纱水蜜](./村纱水蜜.md)- [寅丸星](./寅丸星.md)- [圣白莲](./圣白莲.md)
-
-
-
+- [NMR-ナズーリン埋蔵金調査隊-](./NMR-ナズーリン埋蔵金調査隊-.md)该封面包含的角色：
+- [娜兹玲](./娜兹玲.md)
+- [云居一轮](./云居一轮.md)
+- [村纱水蜜](./村纱水蜜.md)
+- [寅丸星](./寅丸星.md)
+- [圣白莲](./圣白莲.md)
 
 
 ---

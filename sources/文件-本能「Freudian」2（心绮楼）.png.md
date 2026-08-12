@@ -1,14 +1,11 @@
 # 文件:本能「Freudian」2（心绮楼）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\27\ns6%3A%E6%9C%AC%E8%83%BD%E3%80%8CFreudian%E3%80%8D2%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\27\ns6%3A%E6%9C%AC%E8%83%BD%E3%80%8CFreudian%E3%80%8D2%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%EF%BC%89%2Epng.html -->
 
 东方心绮楼 | 古明地恋 | 敌机符卡
 
 
 ## 文件说明
-
-
-
 
 ---
 

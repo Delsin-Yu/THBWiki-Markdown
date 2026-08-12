@@ -1,6 +1,6 @@
 # 文件:東方文鳥録_Preview_Disc封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e1\ns6%3A%E6%9D%B1%E6%96%B9%E6%96%87%E9%B3%A5%E9%8C%B2_Preview_Disc%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e1\ns6%3A%E6%9D%B1%E6%96%B9%E6%96%87%E9%B3%A5%E9%8C%B2_Preview_Disc%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 文鸟Online。
 
@@ -9,9 +9,6 @@
   
 
 - [東方文鳥録 Preview Disc](./東方文鳥録_Preview_Disc.md)
-
-
-
 
 
 ---

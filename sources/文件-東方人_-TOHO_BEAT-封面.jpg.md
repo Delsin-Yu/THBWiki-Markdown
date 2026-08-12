@@ -1,6 +1,6 @@
 # 文件:東方人_-TOHO_BEAT-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\16\ns6%3A%E6%9D%B1%E6%96%B9%E4%BA%BA_-TOHO_BEAT-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\16\ns6%3A%E6%9D%B1%E6%96%B9%E4%BA%BA_-TOHO_BEAT-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 COOL&CREATE | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ COOL&CREATE | 专辑封面 | 封面图片
   
 
 - [東方人 -TOHO BEAT-](./東方人_-TOHO_BEAT-.md)
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:I-PAD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3c\ns6%3AI-PAD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3c\ns6%3AI-PAD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 DESTRUCTIVE_ANGEL | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ DESTRUCTIVE_ANGEL | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [I-PAD](./I-PAD.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)
-
-
-
+- [I-PAD](./I-PAD.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
 
 
 ---

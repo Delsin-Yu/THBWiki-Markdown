@@ -1,12 +1,8 @@
 # 文件:幻想乡峰会LOGO.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1a\ns6%3A%E5%B9%BB%E6%83%B3%E4%B9%A1%E5%B3%B0%E4%BC%9ALOGO%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1a\ns6%3A%E5%B9%BB%E6%83%B3%E4%B9%A1%E5%B3%B0%E4%BC%9ALOGO%2Epng.html -->
 
 幻想乡峰会 | 活动LOGO
-
-
-
-
 
 
 ---

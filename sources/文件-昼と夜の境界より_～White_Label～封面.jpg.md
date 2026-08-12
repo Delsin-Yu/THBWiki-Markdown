@@ -1,6 +1,6 @@
 # 文件:昼と夜の境界より_～White_Label～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4b\ns6%3A%E6%98%BC%E3%81%A8%E5%A4%9C%E3%81%AE%E5%A2%83%E7%95%8C%E3%82%88%E3%82%8A_%EF%BD%9EWhite_Label%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4b\ns6%3A%E6%98%BC%E3%81%A8%E5%A4%9C%E3%81%AE%E5%A2%83%E7%95%8C%E3%82%88%E3%82%8A_%EF%BD%9EWhite_Label%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Negative-Positive_Thinking | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Negative-Positive_Thinking | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [昼と夜の境界より ～White Label～](./昼と夜の境界より_～White_Label～.md)  
-该封面包含的角色：- [梅蒂欣·梅兰可莉](./梅蒂欣·梅兰可莉.md)
-
-
-
+- [昼と夜の境界より ～White Label～](./昼と夜の境界より_～White_Label～.md)该封面包含的角色：
+- [梅蒂欣·梅兰可莉](./梅蒂欣·梅兰可莉.md)
 
 
 ---

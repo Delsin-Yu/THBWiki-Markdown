@@ -1,53 +1,44 @@
 # AUTOSAKURA/春来到_明信片
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\3\3f\ns0%3AAUTOSAKURA%2F%E6%98%A5%E6%9D%A5%E5%88%B0_%E6%98%8E%E4%BF%A1%E7%89%87.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\3\3f\ns0%3AAUTOSAKURA%2F%E6%98%A5%E6%9D%A5%E5%88%B0_%E6%98%8E%E4%BF%A1%E7%89%87.html -->
 
 2021年1月1日 由 AUTOSAKURA 于 COMICUP27 发布的明信片周边，分级为 一般向
 
 本页是关于东方Project  
- **相关实体周边 (未找到链接)** 的词条
-
+**相关实体周边 (未找到链接)**的词条
 ## 目录
 
 - [1 周边信息](#周边信息)
 - [2 参考图](#参考图)
-
   - [2.1 预览图](#预览图)
-
 
 
 - [3 Staff](#Staff)
 - [4 评论](#评论)
 
 
-
-
-
 ## 周边信息
 
-<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 春来到 明信片 </td></tr><tr><td class="label">制作方</td><td><a href="./AUTOSAKURA.md" title="AUTOSAKURA">AUTOSAKURA</a></td></tr><tr><td class="label">首发日期</td><td>2021-01-01&#160;（<a href="/展会作品列表?e=COMICUP%2327">COMICUP27</a>）</td></tr><tr><td class="label">类型</td><td>明信片</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">材质</td><td>纸</td></tr><tr><td class="label">角色</td><td><a href="./东风谷早苗.md" title="东风谷早苗">东风谷早苗</a></td></tr><tr><td class="label">售价</td><td>免费</td></tr>
+<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 春来到 明信片 </td></tr><tr><td class="label">制作方</td><td><a href="./AUTOSAKURA.md" title="AUTOSAKURA">AUTOSAKURA</a></td></tr><tr><td class="label">首发日期</td><td>2021-01-01 （<a href="./展会作品列表.md#27">COMICUP27</a>）</td></tr><tr><td class="label">类型</td><td>明信片</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">材质</td><td>纸</td></tr><tr><td class="label">角色</td><td><a href="./东风谷早苗.md" title="东风谷早苗">东风谷早苗</a></td></tr><tr><td class="label">售价</td><td>免费</td></tr>
 <tr><td class="label">官网页面</td><td><a rel="nofollow" class="external free" href="https://weibo.com/6868180126/JzwcotbQe">https://weibo.com/6868180126/JzwcotbQe</a></td></tr></tbody></table>
 
 AUTOSAKURA/春来到 明信片（周边，AUTOSAKURA，2021） - 2021年1月1日 由 AUTOSAKURA 于 COMICUP27 发布的明信片周边，分级为 一般向
-
 ## 参考图
   
 周边宣传、售卖时使用的作为参考图的预览图或实物图的图片。
   
 
-
 ### 预览图
-- [](./文件-AUTOSAKURA／春来到_明信片预览图1.jpg.md)
+
+- <img alt="AUTOSAKURA／春来到 明信片预览图1.jpg" src="https://upload.thwiki.cc/thumb/f/f7/AUTOSAKURA%EF%BC%8F%E6%98%A5%E6%9D%A5%E5%88%B0_%E6%98%8E%E4%BF%A1%E7%89%87%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg/259px-AUTOSAKURA%EF%BC%8F%E6%98%A5%E6%9D%A5%E5%88%B0_%E6%98%8E%E4%BF%A1%E7%89%87%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg" decoding="async" loading="lazy" width="173" height="250" srcset="https://upload.thwiki.cc/thumb/f/f7/AUTOSAKURA%EF%BC%8F%E6%98%A5%E6%9D%A5%E5%88%B0_%E6%98%8E%E4%BF%A1%E7%89%87%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg/389px-AUTOSAKURA%EF%BC%8F%E6%98%A5%E6%9D%A5%E5%88%B0_%E6%98%8E%E4%BF%A1%E7%89%87%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg 1.5x, https://upload.thwiki.cc/thumb/f/f7/AUTOSAKURA%EF%BC%8F%E6%98%A5%E6%9D%A5%E5%88%B0_%E6%98%8E%E4%BF%A1%E7%89%87%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg/519px-AUTOSAKURA%EF%BC%8F%E6%98%A5%E6%9D%A5%E5%88%B0_%E6%98%8E%E4%BF%A1%E7%89%87%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg 2x" data-file-width="1328" data-file-height="1920"> 
 
 
 ## Staff
+
 - 下马坊梅花糕 (未找到链接)
 
 
 ## 评论
-
-
-
 
 ---
 

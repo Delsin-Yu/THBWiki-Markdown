@@ -1,12 +1,8 @@
 # 文件:GoM插图（幽幽子-5-4）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\35\ns6%3AGoM%E6%8F%92%E5%9B%BE%EF%BC%88%E5%B9%BD%E5%B9%BD%E5%AD%90-5-4%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\35\ns6%3AGoM%E6%8F%92%E5%9B%BE%EF%BC%88%E5%B9%BD%E5%B9%BD%E5%AD%90-5-4%EF%BC%89%2Ejpg.html -->
 
 西行寺幽幽子 | 魔理沙的魔法书
-
-
-
-
 
 
 ---

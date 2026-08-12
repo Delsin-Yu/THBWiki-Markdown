@@ -1,12 +1,8 @@
 # 文件:THBWiki-LOGO-少名针妙丸.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\35\ns6%3ATHBWiki-LOGO-%E5%B0%91%E5%90%8D%E9%92%88%E5%A6%99%E4%B8%B8%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\35\ns6%3ATHBWiki-LOGO-%E5%B0%91%E5%90%8D%E9%92%88%E5%A6%99%E4%B8%B8%2Epng.html -->
 
 THBWiki | Wiki词条分类用图
-
-
-
-
 
 
 ---

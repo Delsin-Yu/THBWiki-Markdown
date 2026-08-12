@@ -1,12 +1,8 @@
 # 文件:SunSetRaidersbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4b\ns6%3ASunSetRaidersbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4b\ns6%3ASunSetRaidersbanner%2Ejpg.html -->
 
 SunSetRaiders | 社团LOGO
-
-
-
-
 
 
 ---

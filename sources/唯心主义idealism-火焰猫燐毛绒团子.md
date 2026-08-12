@@ -1,55 +1,44 @@
 # 唯心主义idealism/火焰猫燐毛绒团子
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\4f\ns0%3A%E5%94%AF%E5%BF%83%E4%B8%BB%E4%B9%89idealism%2F%E7%81%AB%E7%84%B0%E7%8C%AB%E7%87%90%E6%AF%9B%E7%BB%92%E5%9B%A2%E5%AD%90.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\4f\ns0%3A%E5%94%AF%E5%BF%83%E4%B8%BB%E4%B9%89idealism%2F%E7%81%AB%E7%84%B0%E7%8C%AB%E7%87%90%E6%AF%9B%E7%BB%92%E5%9B%A2%E5%AD%90.html -->
 
 2020年10月1日 由 唯心主义idealism 于 魅知幻想博览会3 发布的布偶周边，分级为 一般向
 
 本页是关于东方Project  
- **相关实体周边 (未找到链接)** 的词条
-
+**相关实体周边 (未找到链接)**的词条
 ## 目录
 
 - [1 周边信息](#周边信息)
 - [2 Staff](#Staff)
 - [3 参考图](#参考图)
-
   - [3.1 预览图](#预览图)
-
 
 
 - [4 评论](#评论)
 
 
-
-
-
 ## 周边信息
 
-<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 火焰猫燐毛绒团子 </td></tr><tr><td class="label">制作方</td><td><a href="./唯心主义idealism.md" title="唯心主义idealism">唯心主义idealism</a></td></tr><tr><td class="label">首发日期</td><td>2020-10-01&#160;（<a href="/展会作品列表?e=%E9%AD%85%E7%9F%A5%E5%B9%BB%E6%83%B3%E5%8D%9A%E8%A7%88%E4%BC%9A%233">魅知幻想博览会 2020 北京场</a>）</td></tr><tr><td class="label">类型</td><td>布偶</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">角色</td><td><a href="./火焰猫燐.md" title="火焰猫燐">火焰猫燐</a></td></tr><tr><td class="label">售价</td><td>30人民币</td></tr></tbody></table>
+<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 火焰猫燐毛绒团子 </td></tr><tr><td class="label">制作方</td><td><a href="./唯心主义idealism.md" title="唯心主义idealism">唯心主义idealism</a></td></tr><tr><td class="label">首发日期</td><td>2020-10-01 （<a href="./展会作品列表.md#3">魅知幻想博览会 2020 北京场</a>）</td></tr><tr><td class="label">类型</td><td>布偶</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">角色</td><td><a href="./火焰猫燐.md" title="火焰猫燐">火焰猫燐</a></td></tr><tr><td class="label">售价</td><td>30人民币</td></tr></tbody></table>
 
 唯心主义idealism/火焰猫燐毛绒团子（周边，唯心主义idealism，2020） - 2020年10月1日 由 唯心主义idealism 于 魅知幻想博览会3 发布的布偶周边，分级为 一般向
-
 ## Staff
 画师
 : 莹喵
 策划
 : little_five
 
-
 ## 参考图
   
 周边宣传、售卖时使用的作为参考图的预览图或实物图的图片。
   
 
-
 ### 预览图
-- [](./文件-唯心主义idealism／火焰猫燐毛绒团子预览图1.png.md)
+
+- <img alt="唯心主义idealism／火焰猫燐毛绒团子预览图1.png" src="https://upload.thwiki.cc/thumb/6/64/%E5%94%AF%E5%BF%83%E4%B8%BB%E4%B9%89idealism%EF%BC%8F%E7%81%AB%E7%84%B0%E7%8C%AB%E7%87%90%E6%AF%9B%E7%BB%92%E5%9B%A2%E5%AD%90%E9%A2%84%E8%A7%88%E5%9B%BE1.png/375px-%E5%94%AF%E5%BF%83%E4%B8%BB%E4%B9%89idealism%EF%BC%8F%E7%81%AB%E7%84%B0%E7%8C%AB%E7%87%90%E6%AF%9B%E7%BB%92%E5%9B%A2%E5%AD%90%E9%A2%84%E8%A7%88%E5%9B%BE1.png" decoding="async" loading="lazy" width="250" height="250" srcset="https://upload.thwiki.cc/thumb/6/64/%E5%94%AF%E5%BF%83%E4%B8%BB%E4%B9%89idealism%EF%BC%8F%E7%81%AB%E7%84%B0%E7%8C%AB%E7%87%90%E6%AF%9B%E7%BB%92%E5%9B%A2%E5%AD%90%E9%A2%84%E8%A7%88%E5%9B%BE1.png/563px-%E5%94%AF%E5%BF%83%E4%B8%BB%E4%B9%89idealism%EF%BC%8F%E7%81%AB%E7%84%B0%E7%8C%AB%E7%87%90%E6%AF%9B%E7%BB%92%E5%9B%A2%E5%AD%90%E9%A2%84%E8%A7%88%E5%9B%BE1.png 1.5x, https://upload.thwiki.cc/thumb/6/64/%E5%94%AF%E5%BF%83%E4%B8%BB%E4%B9%89idealism%EF%BC%8F%E7%81%AB%E7%84%B0%E7%8C%AB%E7%87%90%E6%AF%9B%E7%BB%92%E5%9B%A2%E5%AD%90%E9%A2%84%E8%A7%88%E5%9B%BE1.png/750px-%E5%94%AF%E5%BF%83%E4%B8%BB%E4%B9%89idealism%EF%BC%8F%E7%81%AB%E7%84%B0%E7%8C%AB%E7%87%90%E6%AF%9B%E7%BB%92%E5%9B%A2%E5%AD%90%E9%A2%84%E8%A7%88%E5%9B%BE1.png 2x" data-file-width="1594" data-file-height="1594"> 
 
 
 ## 评论
-
-
-
 
 ---
 

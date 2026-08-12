@@ -1,12 +1,8 @@
 # 文件:se_power1.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b7\ns6%3Ase_power1%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b7\ns6%3Ase_power1%2Emp3.html -->
 
 游戏音效
-
-
-
-
 
 
 ---

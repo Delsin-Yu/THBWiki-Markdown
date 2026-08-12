@@ -1,12 +1,8 @@
 # 文件:THBWiki-LOGO-蕾米莉亚.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f5\ns6%3ATHBWiki-LOGO-%E8%95%BE%E7%B1%B3%E8%8E%89%E4%BA%9A%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f5\ns6%3ATHBWiki-LOGO-%E8%95%BE%E7%B1%B3%E8%8E%89%E4%BA%9A%2Epng.html -->
 
 THBWiki | Wiki词条分类用图
-
-
-
-
 
 
 ---

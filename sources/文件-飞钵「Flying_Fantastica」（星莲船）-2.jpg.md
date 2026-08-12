@@ -1,12 +1,8 @@
 # 文件:飞钵「Flying_Fantastica」（星莲船）-2.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7f\ns6%3A%E9%A3%9E%E9%92%B5%E3%80%8CFlying_Fantastica%E3%80%8D%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%EF%BC%89-2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7f\ns6%3A%E9%A3%9E%E9%92%B5%E3%80%8CFlying_Fantastica%E3%80%8D%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%EF%BC%89-2%2Ejpg.html -->
 
 东方星莲船 | 圣白莲 | 敌机符卡
-
-
-
-
 
 
 ---

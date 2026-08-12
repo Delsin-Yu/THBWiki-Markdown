@@ -1,6 +1,6 @@
 # 文件:東方蒼神縁起～The_Genius_of_Sappheiros封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\67\ns6%3A%E6%9D%B1%E6%96%B9%E8%92%BC%E7%A5%9E%E7%B8%81%E8%B5%B7%EF%BD%9EThe_Genius_of_Sappheiros%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\67\ns6%3A%E6%9D%B1%E6%96%B9%E8%92%BC%E7%A5%9E%E7%B8%81%E8%B5%B7%EF%BD%9EThe_Genius_of_Sappheiros%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 封面图片 | 莓坊主 | 软件封面
 
@@ -8,11 +8,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方蒼神縁起～The Genius of Sappheiros](./東方蒼神縁起～The_Genius_of_Sappheiros.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [东风谷早苗](./东风谷早苗.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [東方蒼神縁起～The Genius of Sappheiros](./東方蒼神縁起～The_Genius_of_Sappheiros.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [东风谷早苗](./东风谷早苗.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

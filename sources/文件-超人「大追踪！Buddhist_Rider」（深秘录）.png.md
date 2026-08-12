@@ -1,14 +1,11 @@
 # 文件:超人「大追踪！Buddhist_Rider」（深秘录）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dc\ns6%3A%E8%B6%85%E4%BA%BA%E3%80%8C%E5%A4%A7%E8%BF%BD%E8%B8%AA%EF%BC%81Buddhist_Rider%E3%80%8D%EF%BC%88%E6%B7%B1%E7%A7%98%E5%BD%95%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dc\ns6%3A%E8%B6%85%E4%BA%BA%E3%80%8C%E5%A4%A7%E8%BF%BD%E8%B8%AA%EF%BC%81Buddhist_Rider%E3%80%8D%EF%BC%88%E6%B7%B1%E7%A7%98%E5%BD%95%EF%BC%89%2Epng.html -->
 
 东方深秘录 | 圣白莲 | 敌机符卡
 
 
 ## 文件说明
-
-
-
 
 ---
 

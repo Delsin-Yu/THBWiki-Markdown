@@ -1,6 +1,6 @@
 # 文件:End_of_Tears封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ae\ns6%3AEnd_of_Tears%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ae\ns6%3AEnd_of_Tears%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Sound_I'z | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@ Sound_I'z | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [End of Tears](./End_of_Tears.md)  
-该封面包含的角色：- [键山雏](./键山雏.md)
+- [End of Tears](./End_of_Tears.md)该封面包含的角色：
+- [键山雏](./键山雏.md)
 
   
-源地址：[direct image link (original size)](https://stat.ameba.jp/user_images/20170502/22/sound-aiz/c8/69/j/o2000200013927656062.jpg), [source page](https://ameblo.jp/sound-aiz/entry-12271082591.html)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://stat.ameba.jp/user_images/20170502/22/sound-aiz/c8/69/j/o2000200013927656062.jpg), [source page](https://ameblo.jp/sound-aiz/entry-12271082591.html)  
 
 ---
 

@@ -1,18 +1,13 @@
 # 文件:世の漆黒logo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ef\ns6%3A%E4%B8%96%E3%81%AE%E6%BC%86%E9%BB%92logo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ef\ns6%3A%E4%B8%96%E3%81%AE%E6%BC%86%E9%BB%92logo%2Epng.html -->
 
 世の漆黒 | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[[1]](https://12-i.net/wp-content/uploads/hplogo_20150824.png)
-  
-
-
-
-
+源地址：[\[1\]](https://12-i.net/wp-content/uploads/hplogo_20150824.png)  
 
 ---
 

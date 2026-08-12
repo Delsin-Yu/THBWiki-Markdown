@@ -1,6 +1,6 @@
 # 文件:幻想追放_～_Paradius_enim_errat封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\40\ns6%3A%E5%B9%BB%E6%83%B3%E8%BF%BD%E6%94%BE_%EF%BD%9E_Paradius_enim_errat%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\40\ns6%3A%E5%B9%BB%E6%83%B3%E8%BF%BD%E6%94%BE_%EF%BD%9E_Paradius_enim_errat%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 最も憂鬱な僕
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [幻想追放 ～ Paradius enim errat](./幻想追放_～_Paradius_enim_errat.md)  
-该封面包含的角色：- 原创角色 (未找到链接)
-
-
-
+- [幻想追放 ～ Paradius enim errat](./幻想追放_～_Paradius_enim_errat.md)该封面包含的角色：
+- 原创角色 (未找到链接)
 
 
 ---

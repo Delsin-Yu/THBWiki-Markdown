@@ -1,12 +1,8 @@
 # 文件:纸符「结界中的ESP卡手里剑」（噩梦日记）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\47\ns6%3A%E7%BA%B8%E7%AC%A6%E3%80%8C%E7%BB%93%E7%95%8C%E4%B8%AD%E7%9A%84ESP%E5%8D%A1%E6%89%8B%E9%87%8C%E5%89%91%E3%80%8D%EF%BC%88%E5%99%A9%E6%A2%A6%E6%97%A5%E8%AE%B0%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\47\ns6%3A%E7%BA%B8%E7%AC%A6%E3%80%8C%E7%BB%93%E7%95%8C%E4%B8%AD%E7%9A%84ESP%E5%8D%A1%E6%89%8B%E9%87%8C%E5%89%91%E3%80%8D%EF%BC%88%E5%99%A9%E6%A2%A6%E6%97%A5%E8%AE%B0%EF%BC%89%2Epng.html -->
 
 八云紫 | 宇佐见堇子 | 敌机符卡 | 秘封噩梦日记
-
-
-
-
 
 
 ---

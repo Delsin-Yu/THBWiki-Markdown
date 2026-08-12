@@ -1,12 +1,8 @@
 # 文件:The_Grimoire_of_Marisa_waist.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\46\ns6%3AThe_Grimoire_of_Marisa_waist%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\46\ns6%3AThe_Grimoire_of_Marisa_waist%2Ejpg.html -->
 
 魔理沙的魔法书
-
-
-
-
 
 
 ---

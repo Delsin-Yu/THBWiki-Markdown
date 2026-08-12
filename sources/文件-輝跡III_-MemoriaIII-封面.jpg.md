@@ -1,6 +1,6 @@
 # 文件:輝跡III_-MemoriaIII-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\78\ns6%3A%E8%BC%9D%E8%B7%A1III_-MemoriaIII-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\78\ns6%3A%E8%BC%9D%E8%B7%A1III_-MemoriaIII-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 C-CLAYS | 专辑封面 | 封面图片
 
@@ -8,11 +8,18 @@ C-CLAYS | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [輝跡III -MemoriaIII-](./輝跡III_-MemoriaIII-.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)- 十六夜咲夜 (未找到链接)- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [魂魄妖梦](./魂魄妖梦.md)- [西行寺幽幽子](./西行寺幽幽子.md)- [蓬莱山辉夜](./蓬莱山辉夜.md)- [藤原妹红](./藤原妹红.md)- [火焰猫燐](./火焰猫燐.md)- [娜兹玲](./娜兹玲.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [輝跡III -MemoriaIII-](./輝跡III_-MemoriaIII-.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
+- [十六夜咲夜](./十六夜咲夜.md)
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [魂魄妖梦](./魂魄妖梦.md)
+- [西行寺幽幽子](./西行寺幽幽子.md)
+- [蓬莱山辉夜](./蓬莱山辉夜.md)
+- [藤原妹红](./藤原妹红.md)
+- [火焰猫燐](./火焰猫燐.md)
+- [娜兹玲](./娜兹玲.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

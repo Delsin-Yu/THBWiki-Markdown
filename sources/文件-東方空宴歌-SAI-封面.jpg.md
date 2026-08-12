@@ -1,6 +1,6 @@
 # 文件:東方空宴歌-SAI-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a4\ns6%3A%E6%9D%B1%E6%96%B9%E7%A9%BA%E5%AE%B4%E6%AD%8C-SAI-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a4\ns6%3A%E6%9D%B1%E6%96%B9%E7%A9%BA%E5%AE%B4%E6%AD%8C-SAI-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 領域ZERO
 
@@ -8,11 +8,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方空宴歌-SAI-](./東方空宴歌-SAI-.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [東方空宴歌-SAI-](./東方空宴歌-SAI-.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

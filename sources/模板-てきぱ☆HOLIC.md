@@ -1,16 +1,12 @@
 # 模板:てきぱ☆HOLIC
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\9\96\ns10%3A%E3%81%A6%E3%81%8D%E3%81%B1%E2%98%86HOLIC.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\9\96\ns10%3A%E3%81%A6%E3%81%8D%E3%81%B1%E2%98%86HOLIC.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

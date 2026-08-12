@@ -1,6 +1,6 @@
 # 文件:Touhou_Goa_Trance_Family_Vol.4封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\80\ns6%3ATouhou_Goa_Trance_Family_Vol%2E4%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\80\ns6%3ATouhou_Goa_Trance_Family_Vol%2E4%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Touhou_Goa_Trance_Family | 专辑封面 | 封面图片
 
@@ -10,16 +10,19 @@ Touhou_Goa_Trance_Family | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Touhou Goa Trance Family Vol.4](./Touhou_Goa_Trance_Family_Vol.4.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [莉格露·奈特巴格](./莉格露·奈特巴格.md)- [米斯蒂娅·萝蕾拉](./米斯蒂娅·萝蕾拉.md)- [上白泽慧音](./上白泽慧音.md)- [因幡帝](./因幡帝.md)- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)- [八意永琳](./八意永琳.md)- [蓬莱山辉夜](./蓬莱山辉夜.md)- [藤原妹红](./藤原妹红.md)
+- [Touhou Goa Trance Family Vol.4](./Touhou_Goa_Trance_Family_Vol.4.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [莉格露·奈特巴格](./莉格露·奈特巴格.md)
+- [米斯蒂娅·萝蕾拉](./米斯蒂娅·萝蕾拉.md)
+- [上白泽慧音](./上白泽慧音.md)
+- [因幡帝](./因幡帝.md)
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
+- [八意永琳](./八意永琳.md)
+- [蓬莱山辉夜](./蓬莱山辉夜.md)
+- [藤原妹红](./藤原妹红.md)
 
   
-源地址：[announcement tweet](https://pbs.twimg.com/media/EaU2YDvVAAEWgZu?format=jpg&amp;name=orig)
-  
-
-
-
-
+源地址：[announcement tweet](https://pbs.twimg.com/media/EaU2YDvVAAEWgZu?format=jpg&name=orig)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:COLLECTIONS封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\33\ns6%3ACOLLECTIONS%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\33\ns6%3ACOLLECTIONS%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 金魚オリジン
 
@@ -10,16 +10,18 @@
 使用了本文件作封面图片的作品：
   
 
-- [COLLECTIONS](./COLLECTIONS.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)- [西行寺幽幽子](./西行寺幽幽子.md)- [伊吹萃香](./伊吹萃香.md)- [古明地觉](./古明地觉.md)- [封兽鵺](./封兽鵺.md)- [雾雨魔理沙](./雾雨魔理沙.md)
+- [COLLECTIONS](./COLLECTIONS.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [西行寺幽幽子](./西行寺幽幽子.md)
+- [伊吹萃香](./伊吹萃香.md)
+- [古明地觉](./古明地觉.md)
+- [封兽鵺](./封兽鵺.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-[Pixiv artwork ID: 38912342](https://www.pixiv.net/artworks/38912342)
-  
-
-
-
-
+[Pixiv artwork ID: 38912342](https://www.pixiv.net/artworks/38912342)  
 
 ---
 

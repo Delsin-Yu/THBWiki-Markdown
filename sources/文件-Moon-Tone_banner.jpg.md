@@ -1,12 +1,8 @@
 # 文件:Moon-Tone_banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\88\ns6%3AMoon-Tone_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\88\ns6%3AMoon-Tone_banner%2Ejpg.html -->
 
 Moon-Tone | 社团LOGO
-
-
-
-
 
 
 ---

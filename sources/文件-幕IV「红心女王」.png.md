@@ -1,12 +1,8 @@
 # 文件:幕IV「红心女王」.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a8\ns6%3A%E5%B9%95IV%E3%80%8C%E7%BA%A2%E5%BF%83%E5%A5%B3%E7%8E%8B%E3%80%8D%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a8\ns6%3A%E5%B9%95IV%E3%80%8C%E7%BA%A2%E5%BF%83%E5%A5%B3%E7%8E%8B%E3%80%8D%2Epng.html -->
 
 东方幕华祭制作组 | 敌机符卡 | 爱丽丝·玛格特洛依德
-
-
-
-
 
 
 ---

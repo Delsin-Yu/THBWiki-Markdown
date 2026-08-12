@@ -1,16 +1,11 @@
 # 文件:THE二次元集権国家ズbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\55\ns6%3ATHE%E4%BA%8C%E6%AC%A1%E5%85%83%E9%9B%86%E6%A8%A9%E5%9B%BD%E5%AE%B6%E3%82%BAbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\55\ns6%3ATHE%E4%BA%8C%E6%AC%A1%E5%85%83%E9%9B%86%E6%A8%A9%E5%9B%BD%E5%AE%B6%E3%82%BAbanner%2Epng.html -->
 
 THE二次元集権国家ズ | 社团LOGO
 
   
-源地址：[[1]](https://web.archive.org/web/20160509070058im_/http://sessha.net/kokka/image/KOKKASbn.png)
-  
-
-
-
-
+源地址：[\[1\]](https://web.archive.org/web/20160509070058im_/http://sessha.net/kokka/image/KOKKASbn.png)  
 
 ---
 

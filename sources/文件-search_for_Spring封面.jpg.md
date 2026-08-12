@@ -1,6 +1,6 @@
 # 文件:search_for_Spring封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ed\ns6%3Asearch_for_Spring%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ed\ns6%3Asearch_for_Spring%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 凪の匣庭 | 封面图片
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [search for Spring](./search_for_Spring.md)  
-该封面包含的角色：- [娜兹玲](./娜兹玲.md)
+- [search for Spring](./search_for_Spring.md)该封面包含的角色：
+- [娜兹玲](./娜兹玲.md)
 
   
-源地址：[[1]](https://secure.static.tumblr.com/cd88843c9ebd86144daa387504cfbe8e/2uq2i5i/2DNoibkfu/tumblr_static_9i821bp26ps0wg8w4okgwcso8.png)
-  
-
-
-
-
+源地址：[\[1\]](https://secure.static.tumblr.com/cd88843c9ebd86144daa387504cfbe8e/2uq2i5i/2DNoibkfu/tumblr_static_9i821bp26ps0wg8w4okgwcso8.png)  
 
 ---
 

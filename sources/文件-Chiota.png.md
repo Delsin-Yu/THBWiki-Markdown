@@ -1,12 +1,8 @@
 # 文件:Chiota.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\74\ns6%3AChiota%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\74\ns6%3AChiota%2Epng.html -->
 
 东方幻想空间琪软公司
-
-
-
-
 
 
 ---

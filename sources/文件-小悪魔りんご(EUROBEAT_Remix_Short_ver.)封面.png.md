@@ -1,6 +1,6 @@
 # 文件:小悪魔りんご(EUROBEAT_Remix_Short_ver.)封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f1\ns6%3A%E5%B0%8F%E6%82%AA%E9%AD%94%E3%82%8A%E3%82%93%E3%81%94%28EUROBEAT_Remix_Short_ver%2E%29%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f1\ns6%3A%E5%B0%8F%E6%82%AA%E9%AD%94%E3%82%8A%E3%82%93%E3%81%94%28EUROBEAT_Remix_Short_ver%2E%29%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 幽闭星光
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [小悪魔りんご(EUROBEAT Remix Short ver.)](./小悪魔りんご(EUROBEAT_Remix_Short_ver.).md)  
-该封面包含的角色：- [西行寺幽幽子](./西行寺幽幽子.md)
-
-
-
+- [小悪魔りんご(EUROBEAT Remix Short ver.)](./小悪魔りんご(EUROBEAT_Remix_Short_ver.%29.md)该封面包含的角色：
+- [西行寺幽幽子](./西行寺幽幽子.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:East_Bound封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\af\ns6%3AEast_Bound%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\af\ns6%3AEast_Bound%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Dead_Fish_Chronicles | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@ Dead_Fish_Chronicles | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [East Bound](./East_Bound.md)  
-该封面包含的角色：- [小野塚小町](./小野塚小町.md)
+- [East Bound](./East_Bound.md)该封面包含的角色：
+- [小野塚小町](./小野塚小町.md)
 
   
-源地址：[[1]](https://64.media.tumblr.com/3470447c8fc6ec40e4d54ce3295b7478/tumblr_inline_pa7bsyGCuw1sc0sp0_500.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://64.media.tumblr.com/3470447c8fc6ec40e4d54ce3295b7478/tumblr_inline_pa7bsyGCuw1sc0sp0_500.jpg)  
 
 ---
 

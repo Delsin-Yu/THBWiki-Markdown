@@ -1,6 +1,6 @@
 # 文件:Camphor_Music_side_create_collection_＃4_Malignant”X”封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\db\ns6%3ACamphor_Music_side_create_collection_%EF%BC%834_Malignant%E2%80%9DX%E2%80%9D%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\db\ns6%3ACamphor_Music_side_create_collection_%EF%BC%834_Malignant%E2%80%9DX%E2%80%9D%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Camphor | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Camphor | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Camphor Music side create collection ＃4 Malignant”X”](./Camphor_Music_side_create_collection_＃4_Malignant”X”.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [Camphor Music side create collection ＃4 Malignant”X”](./Camphor_Music_side_create_collection_＃4_Malignant”X”.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

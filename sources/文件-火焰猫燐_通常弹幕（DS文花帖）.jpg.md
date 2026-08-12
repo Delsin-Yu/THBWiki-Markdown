@@ -1,12 +1,8 @@
 # 文件:火焰猫燐_通常弹幕（DS文花帖）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\47\ns6%3A%E7%81%AB%E7%84%B0%E7%8C%AB%E7%87%90_%E9%80%9A%E5%B8%B8%E5%BC%B9%E5%B9%95%EF%BC%88DS%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\47\ns6%3A%E7%81%AB%E7%84%B0%E7%8C%AB%E7%87%90_%E9%80%9A%E5%B8%B8%E5%BC%B9%E5%B9%95%EF%BC%88DS%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Ejpg.html -->
 
 东方文花帖DS | 火焰猫燐
-
-
-
-
 
 
 ---

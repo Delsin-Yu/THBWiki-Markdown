@@ -1,6 +1,6 @@
 # 文件:Rebirth（Silver_Forest）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\26\ns6%3ARebirth%EF%BC%88Silver_Forest%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\26\ns6%3ARebirth%EF%BC%88Silver_Forest%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Silver_Forest | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Silver_Forest | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Rebirth（Silver Forest）](./Rebirth（Silver_Forest）.md)  
-该封面包含的角色：- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
-
-
-
+- [Rebirth（Silver Forest）](./Rebirth（Silver_Forest）.md)该封面包含的角色：
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
 
 
 ---

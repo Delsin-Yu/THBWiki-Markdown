@@ -1,6 +1,6 @@
 # 文件:Triad_Core封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fa\ns6%3ATriad_Core%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fa\ns6%3ATriad_Core%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 100% | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Triad Core](./Triad_Core.md)  
-该封面包含的角色：- [灵乌路空](./灵乌路空.md)
+- [Triad Core](./Triad_Core.md)该封面包含的角色：
+- [灵乌路空](./灵乌路空.md)
 
   
-源地址：[[1]](https://hyakupa.bandcamp.com/track/cryptc)
-  
-
-
-
-
+源地址：[\[1\]](https://hyakupa.bandcamp.com/track/cryptc)  
 
 ---
 

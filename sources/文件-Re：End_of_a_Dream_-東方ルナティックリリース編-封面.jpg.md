@@ -1,6 +1,6 @@
 # 文件:Re：End_of_a_Dream_-東方ルナティックリリース編-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\63\ns6%3ARe%EF%BC%9AEnd_of_a_Dream_-%E6%9D%B1%E6%96%B9%E3%83%AB%E3%83%8A%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E7%B7%A8-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\63\ns6%3ARe%EF%BC%9AEnd_of_a_Dream_-%E6%9D%B1%E6%96%B9%E3%83%AB%E3%83%8A%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E7%B7%A8-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Astral_Sky | 专辑封面 | 封面图片 | 非可逆リズム
 
@@ -10,11 +10,8 @@ Astral_Sky | 专辑封面 | 封面图片 | 非可逆リズム
 使用了本文件作封面图片的作品：
   
 
-- [Re：End of a Dream -東方ルナティックリリース編-](./Re：End_of_a_Dream_-東方ルナティックリリース編-.md)  
-该封面包含的角色：- [爱塔妮缇拉尔瓦](./爱塔妮缇拉尔瓦.md)
-
-
-
+- [Re：End of a Dream -東方ルナティックリリース編-](./Re：End_of_a_Dream_-東方ルナティックリリース編-.md)该封面包含的角色：
+- [爱塔妮缇拉尔瓦](./爱塔妮缇拉尔瓦.md)
 
 
 ---

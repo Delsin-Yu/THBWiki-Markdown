@@ -1,16 +1,12 @@
 # 模板:Lunate_Garden
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\2\25\ns10%3ALunate_Garden.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\2\25\ns10%3ALunate_Garden.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

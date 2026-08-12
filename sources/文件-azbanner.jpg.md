@@ -1,12 +1,8 @@
 # 文件:azbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5a\ns6%3Aazbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5a\ns6%3Aazbanner%2Ejpg.html -->
 
 az
-
-
-
-
 
 
 ---

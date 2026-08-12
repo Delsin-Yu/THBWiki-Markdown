@@ -1,6 +1,6 @@
 # 文件:2013_RIG_DEMO封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\73\ns6%3A2013_RIG_DEMO%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\73\ns6%3A2013_RIG_DEMO%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 朝焼けにて群青
 
@@ -11,12 +11,7 @@
 - [2013 RIG DEMO](./2013_RIG_DEMO.md)
 
   
-源地址：[direct image link](https://image.jimcdn.com/app/cms/image/transf/none/path/s6b30ea94f567b776/image/i8a0c2cd08437572e/version/1376668517/image.png), [origin page](https://asayake-n-g.jimdo.com/works/)
-  
-
-
-
-
+源地址：[direct image link](https://image.jimcdn.com/app/cms/image/transf/none/path/s6b30ea94f567b776/image/i8a0c2cd08437572e/version/1376668517/image.png), [origin page](https://asayake-n-g.jimdo.com/works/)  
 
 ---
 

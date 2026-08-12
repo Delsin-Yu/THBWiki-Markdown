@@ -1,14 +1,11 @@
 # 文件:Clonesoldier's_Factorybanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b4\ns6%3AClonesoldier%27s_Factorybanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b4\ns6%3AClonesoldier%27s_Factorybanner%2Egif.html -->
 
 Clonesoldier's_Factory | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

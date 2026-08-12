@@ -1,12 +1,8 @@
 # 文件:Pocket_A_Dbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bf\ns6%3APocket_A_Dbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bf\ns6%3APocket_A_Dbanner%2Ejpg.html -->
 
 Pocket_AD | 社团LOGO
-
-
-
-
 
 
 ---

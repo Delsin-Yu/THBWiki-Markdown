@@ -1,18 +1,13 @@
 # 文件:Business_Windowslogo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\34\ns6%3ABusiness_Windowslogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\34\ns6%3ABusiness_Windowslogo%2Ejpg.html -->
 
 Business_Windows | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[[1]](http://businesswindows.iza-yoi.net/br.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://businesswindows.iza-yoi.net/br.jpg)  
 
 ---
 

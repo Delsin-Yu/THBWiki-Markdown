@@ -1,6 +1,6 @@
 # 文件:Comicmarket74_OmakeCD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fe\ns6%3AComicmarket74_OmakeCD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fe\ns6%3AComicmarket74_OmakeCD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 いえろ～ぜぶら | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [Comicmarket74 OmakeCD](./Comicmarket74_OmakeCD.md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)- [射命丸文](./射命丸文.md)
-
-
-
+- [Comicmarket74 OmakeCD](./Comicmarket74_OmakeCD.md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
+- [射命丸文](./射命丸文.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:秘密の人形庭園～Secret_Doll's_Garden～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ed\ns6%3A%E7%A7%98%E5%AF%86%E3%81%AE%E4%BA%BA%E5%BD%A2%E5%BA%AD%E5%9C%92%EF%BD%9ESecret_Doll%27s_Garden%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ed\ns6%3A%E7%A7%98%E5%AF%86%E3%81%AE%E4%BA%BA%E5%BD%A2%E5%BA%AD%E5%9C%92%EF%BD%9ESecret_Doll%27s_Garden%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 融解エメノイル
 
@@ -10,16 +10,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [秘密の人形庭園～Secret Doll's Garden～](./秘密の人形庭園～Secret_Doll's_Garden～.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [风见幽香](./风见幽香.md)
+- [秘密の人形庭園～Secret Doll's Garden～](./秘密の人形庭園～Secret_Doll's_Garden～.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [风见幽香](./风见幽香.md)
 
   
-源地址：[direct image link (original size)](https://pbs.twimg.com/media/Bmt2WrsCYAELZV6?format=jpg&amp;name=orig), [source tweet](https://twitter.com/OIL_kasin/status/462593518939041794)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://pbs.twimg.com/media/Bmt2WrsCYAELZV6?format=jpg&name=orig), [source tweet](https://twitter.com/OIL_kasin/status/462593518939041794)  
 
 ---
 

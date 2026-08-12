@@ -1,6 +1,6 @@
 # 文件:豚BEST3_大盛りチャレンジ封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f2\ns6%3A%E8%B1%9ABEST3_%E5%A4%A7%E7%9B%9B%E3%82%8A%E3%83%81%E3%83%A3%E3%83%AC%E3%83%B3%E3%82%B8%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f2\ns6%3A%E8%B1%9ABEST3_%E5%A4%A7%E7%9B%9B%E3%82%8A%E3%83%81%E3%83%A3%E3%83%AC%E3%83%B3%E3%82%B8%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 豚乙女
 
@@ -11,12 +11,7 @@
 - [豚BEST3 大盛りチャレンジ](./豚BEST3_大盛りチャレンジ.md)
 
   
-源地址：[[1]](https://pbs.twimg.com/media/C011nMzUcAAPTAM.jpg:large)
-  
-
-
-
-
+源地址：[\[1\]](https://pbs.twimg.com/media/C011nMzUcAAPTAM.jpg:large)  
 
 ---
 

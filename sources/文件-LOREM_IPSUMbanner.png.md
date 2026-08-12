@@ -1,12 +1,8 @@
 # 文件:LOREM_IPSUMbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\54\ns6%3ALOREM_IPSUMbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\54\ns6%3ALOREM_IPSUMbanner%2Epng.html -->
 
 LOREM_IPSUM | 社团LOGO
-
-
-
-
 
 
 ---

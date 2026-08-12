@@ -1,6 +1,6 @@
 # 文件:SYNC.ART'S_2008_Summer封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\05\ns6%3ASYNC%2EART%27S_2008_Summer%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\05\ns6%3ASYNC%2EART%27S_2008_Summer%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 SYNC.ART'S | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ SYNC.ART'S | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [SYNC.ART'S 2008 Summer](./SYNC.ART'S_2008_Summer.md)  
-该封面包含的角色：- [八云紫](./八云紫.md)
-
-
-
+- [SYNC.ART'S 2008 Summer](./SYNC.ART'S_2008_Summer.md)该封面包含的角色：
+- [八云紫](./八云紫.md)
 
 
 ---

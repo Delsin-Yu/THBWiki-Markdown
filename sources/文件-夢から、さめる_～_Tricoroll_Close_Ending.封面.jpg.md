@@ -1,6 +1,6 @@
 # 文件:夢から、さめる_～_Tricoroll_Close_Ending.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\25\ns6%3A%E5%A4%A2%E3%81%8B%E3%82%89%E3%80%81%E3%81%95%E3%82%81%E3%82%8B_%EF%BD%9E_Tricoroll_Close_Ending%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\25\ns6%3A%E5%A4%A2%E3%81%8B%E3%82%89%E3%80%81%E3%81%95%E3%82%81%E3%82%8B_%EF%BD%9E_Tricoroll_Close_Ending%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 DreamWish | 同人志封面 | 封面图片
 
@@ -10,16 +10,21 @@ DreamWish | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [夢から、さめる ～ Tricoroll Close Ending.](./夢から、さめる_～_Tricoroll_Close_Ending..md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)- 十六夜咲夜 (未找到链接)- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)- [风见幽香](./风见幽香.md)- [伊吹萃香](./伊吹萃香.md)- [东风谷早苗](./东风谷早苗.md)- [八坂神奈子](./八坂神奈子.md)- [洩矢诹访子](./洩矢诹访子.md)- [古明地恋](./古明地恋.md)- [雾雨魔理沙](./雾雨魔理沙.md)
+- [夢から、さめる ～ Tricoroll Close Ending.](./夢から、さめる_～_Tricoroll_Close_Ending..md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
+- [十六夜咲夜](./十六夜咲夜.md)
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [风见幽香](./风见幽香.md)
+- [伊吹萃香](./伊吹萃香.md)
+- [东风谷早苗](./东风谷早苗.md)
+- [八坂神奈子](./八坂神奈子.md)
+- [洩矢诹访子](./洩矢诹访子.md)
+- [古明地恋](./古明地恋.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-源地址：[direct image link](https://web.archive.org/web/20110807203411im_/http://www5c.biglobe.ne.jp/~D_Wish/contents/yumekara/hyousi.jpg), [source page](https://web.archive.org/web/20110807195113/http://www5c.biglobe.ne.jp/~D_Wish/contents/yumekara/)
-  
-
-
-
-
+源地址：[direct image link](https://web.archive.org/web/20110807203411im_/http://www5c.biglobe.ne.jp/~D_Wish/contents/yumekara/hyousi.jpg), [source page](https://web.archive.org/web/20110807195113/http://www5c.biglobe.ne.jp/~D_Wish/contents/yumekara/)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:TOUHOUFANBOOKオフレポ10月号封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cf\ns6%3ATOUHOUFANBOOK%E3%82%AA%E3%83%95%E3%83%AC%E3%83%9D10%E6%9C%88%E5%8F%B7%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cf\ns6%3ATOUHOUFANBOOK%E3%82%AA%E3%83%95%E3%83%AC%E3%83%9D10%E6%9C%88%E5%8F%B7%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 baba精米所 | 同人志封面 | 封面图片
 
@@ -10,11 +10,9 @@ baba精米所 | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [TOUHOUFANBOOKオフレポ10月号](./TOUHOUFANBOOKオフレポ10月号.md)  
-该封面包含的角色：- [本居小铃](./本居小铃.md)- [少名针妙丸](./少名针妙丸.md)
-
-
-
+- [TOUHOUFANBOOKオフレポ10月号](./TOUHOUFANBOOKオフレポ10月号.md)该封面包含的角色：
+- [本居小铃](./本居小铃.md)
+- [少名针妙丸](./少名针妙丸.md)
 
 
 ---

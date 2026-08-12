@@ -1,14 +1,11 @@
 # 文件:Aether_banner2.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c9\ns6%3AAether_banner2%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c9\ns6%3AAether_banner2%2Egif.html -->
 
 Aether | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

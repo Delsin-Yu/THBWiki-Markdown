@@ -1,6 +1,6 @@
 # 文件:The_Citrus'_Graphic_BEST封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3d\ns6%3AThe_Citrus%27_Graphic_BEST%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3d\ns6%3AThe_Citrus%27_Graphic_BEST%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 爽茶房
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [The Citrus' Graphic BEST](./The_Citrus'_Graphic_BEST.md)  
-该封面包含的角色：- [清兰](./清兰.md)- [铃瑚](./铃瑚.md)
-
-
-
+- [The Citrus' Graphic BEST](./The_Citrus'_Graphic_BEST.md)该封面包含的角色：
+- [清兰](./清兰.md)
+- [铃瑚](./铃瑚.md)
 
 
 ---

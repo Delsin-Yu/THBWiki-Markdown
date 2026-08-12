@@ -1,53 +1,26 @@
 # Epic-Works/旗袍ver/爱丽丝·玛格特洛依德
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\fd\ns0%3AEpic-Works%2F%E6%97%97%E8%A2%8Dver%2F%E7%88%B1%E4%B8%BD%E4%B8%9D%C2%B7%E7%8E%9B%E6%A0%BC%E7%89%B9%E6%B4%9B%E4%BE%9D%E5%BE%B7.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\fd\ns0%3AEpic-Works%2F%E6%97%97%E8%A2%8Dver%2F%E7%88%B1%E4%B8%BD%E4%B8%9D%C2%B7%E7%8E%9B%E6%A0%BC%E7%89%B9%E6%B4%9B%E4%BE%9D%E5%BE%B7.html -->
 
 爱丽丝·玛格特洛依德GarageKit手办模型
 
 本页是关于东方Project  
- **相关实体周边 (未找到链接)** 的词条
-
+**相关实体周边 (未找到链接)**的词条
 ## 模型信息
-[](./文件-Epic-Works／旗袍ver／爱丽丝·玛格特洛依德封面.png.md)  [](./文件-Epic-Works／旗袍ver／爱丽丝·玛格特洛依德封面.png.md)预览图
-
-<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 爱丽丝·玛格特洛依德 </td></tr><tr><td class="label">类别</td><td>GarageKit</td></tr><tr><td class="label">译名</td><td>东方Project 爱丽丝·玛格特洛依德</td></tr><tr><td class="label">系列</td><td>旗袍ver</td></tr><tr><td class="label">角色</td><td><a href="./爱丽丝·玛格特洛依德.md" title="爱丽丝·玛格特洛依德">爱丽丝·玛格特洛依德</a></td></tr><tr><td class="label">原画师</td><td><a href="/index.php?title=shelli&amp;action=edit&amp;redlink=1" class="new" title="shelli（页面不存在）">shelli</a></td></tr><tr><td class="label">比例</td><td>1/7</td></tr><tr><td class="label">状态</td><td>已发售</td></tr><tr><td class="label">售价</td><td>950人民币（红色版，蓝色版为960人民币）</td></tr><tr><td class="label">首发日期</td><td>2019-01</td></tr><tr><td class="label">出品方</td><td><a href="./Epic-Works.md" title="Epic-Works">Epic-Works</a></td></tr></tbody></table>
+<img alt="" src="https://upload.thwiki.cc/thumb/f/ff/Epic-Works%EF%BC%8F%E6%97%97%E8%A2%8Dver%EF%BC%8F%E7%88%B1%E4%B8%BD%E4%B8%9D%C2%B7%E7%8E%9B%E6%A0%BC%E7%89%B9%E6%B4%9B%E4%BE%9D%E5%BE%B7%E5%B0%81%E9%9D%A2.png/200px-Epic-Works%EF%BC%8F%E6%97%97%E8%A2%8Dver%EF%BC%8F%E7%88%B1%E4%B8%BD%E4%B8%9D%C2%B7%E7%8E%9B%E6%A0%BC%E7%89%B9%E6%B4%9B%E4%BE%9D%E5%BE%B7%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="200" height="207" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/f/ff/Epic-Works%EF%BC%8F%E6%97%97%E8%A2%8Dver%EF%BC%8F%E7%88%B1%E4%B8%BD%E4%B8%9D%C2%B7%E7%8E%9B%E6%A0%BC%E7%89%B9%E6%B4%9B%E4%BE%9D%E5%BE%B7%E5%B0%81%E9%9D%A2.png/300px-Epic-Works%EF%BC%8F%E6%97%97%E8%A2%8Dver%EF%BC%8F%E7%88%B1%E4%B8%BD%E4%B8%9D%C2%B7%E7%8E%9B%E6%A0%BC%E7%89%B9%E6%B4%9B%E4%BE%9D%E5%BE%B7%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/f/ff/Epic-Works%EF%BC%8F%E6%97%97%E8%A2%8Dver%EF%BC%8F%E7%88%B1%E4%B8%BD%E4%B8%9D%C2%B7%E7%8E%9B%E6%A0%BC%E7%89%B9%E6%B4%9B%E4%BE%9D%E5%BE%B7%E5%B0%81%E9%9D%A2.png/400px-Epic-Works%EF%BC%8F%E6%97%97%E8%A2%8Dver%EF%BC%8F%E7%88%B1%E4%B8%BD%E4%B8%9D%C2%B7%E7%8E%9B%E6%A0%BC%E7%89%B9%E6%B4%9B%E4%BE%9D%E5%BE%B7%E5%B0%81%E9%9D%A2.png 2x" data-file-width="1154" data-file-height="1194">
+ [放大](./文件-Epic-Works／旗袍ver／爱丽丝·玛格特洛依德封面.png.md)预览图
+<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 爱丽丝·玛格特洛依德 </td></tr><tr><td class="label">类别</td><td>GarageKit</td></tr><tr><td class="label">译名</td><td>东方Project 爱丽丝·玛格特洛依德</td></tr><tr><td class="label">系列</td><td>旗袍ver</td></tr><tr><td class="label">角色</td><td><a href="./爱丽丝·玛格特洛依德.md" title="爱丽丝·玛格特洛依德">爱丽丝·玛格特洛依德</a></td></tr><tr><td class="label">原画师</td><td><a class="new" title="shelli（页面不存在）">shelli</a></td></tr><tr><td class="label">比例</td><td>1/7</td></tr><tr><td class="label">状态</td><td>已发售</td></tr><tr><td class="label">售价</td><td>950人民币（红色版，蓝色版为960人民币）</td></tr><tr><td class="label">首发日期</td><td>2019-01</td></tr><tr><td class="label">出品方</td><td><a href="./Epic-Works.md" title="Epic-Works">Epic-Works</a></td></tr></tbody></table>
 
 Epic-Works/旗袍ver/爱丽丝·玛格特洛依德（周边，Epic-Works） - 爱丽丝·玛格特洛依德GarageKit手办模型
-
 ## 参考图片
-
-
-
-[](./文件-Epic-Works旗袍ver爱丽丝·玛格特洛依德-1.png.md)
-
-
-[](./文件-Epic-Works旗袍ver爱丽丝·玛格特洛依德-2.png.md)
-
-
-[](./文件-Epic-Works旗袍ver爱丽丝·玛格特洛依德-3.png.md)
-
+<img alt="Epic-Works旗袍ver爱丽丝·玛格特洛依德" src="https://upload.thwiki.cc/thumb/6/63/Epic-Works%E6%97%97%E8%A2%8Dver%E7%88%B1%E4%B8%BD%E4%B8%9D%C2%B7%E7%8E%9B%E6%A0%BC%E7%89%B9%E6%B4%9B%E4%BE%9D%E5%BE%B7-1.png/160px-Epic-Works%E6%97%97%E8%A2%8Dver%E7%88%B1%E4%B8%BD%E4%B8%9D%C2%B7%E7%8E%9B%E6%A0%BC%E7%89%B9%E6%B4%9B%E4%BE%9D%E5%BE%B7-1.png" decoding="async" loading="lazy" width="160" height="166" srcset="https://upload.thwiki.cc/thumb/6/63/Epic-Works%E6%97%97%E8%A2%8Dver%E7%88%B1%E4%B8%BD%E4%B8%9D%C2%B7%E7%8E%9B%E6%A0%BC%E7%89%B9%E6%B4%9B%E4%BE%9D%E5%BE%B7-1.png/240px-Epic-Works%E6%97%97%E8%A2%8Dver%E7%88%B1%E4%B8%BD%E4%B8%9D%C2%B7%E7%8E%9B%E6%A0%BC%E7%89%B9%E6%B4%9B%E4%BE%9D%E5%BE%B7-1.png 1.5x, https://upload.thwiki.cc/thumb/6/63/Epic-Works%E6%97%97%E8%A2%8Dver%E7%88%B1%E4%B8%BD%E4%B8%9D%C2%B7%E7%8E%9B%E6%A0%BC%E7%89%B9%E6%B4%9B%E4%BE%9D%E5%BE%B7-1.png/320px-Epic-Works%E6%97%97%E8%A2%8Dver%E7%88%B1%E4%B8%BD%E4%B8%9D%C2%B7%E7%8E%9B%E6%A0%BC%E7%89%B9%E6%B4%9B%E4%BE%9D%E5%BE%B7-1.png 2x" data-file-width="1154" data-file-height="1194">
+<img alt="Epic-Works旗袍ver爱丽丝·玛格特洛依德" src="https://upload.thwiki.cc/thumb/3/38/Epic-Works%E6%97%97%E8%A2%8Dver%E7%88%B1%E4%B8%BD%E4%B8%9D%C2%B7%E7%8E%9B%E6%A0%BC%E7%89%B9%E6%B4%9B%E4%BE%9D%E5%BE%B7-2.png/160px-Epic-Works%E6%97%97%E8%A2%8Dver%E7%88%B1%E4%B8%BD%E4%B8%9D%C2%B7%E7%8E%9B%E6%A0%BC%E7%89%B9%E6%B4%9B%E4%BE%9D%E5%BE%B7-2.png" decoding="async" loading="lazy" width="160" height="160" srcset="https://upload.thwiki.cc/thumb/3/38/Epic-Works%E6%97%97%E8%A2%8Dver%E7%88%B1%E4%B8%BD%E4%B8%9D%C2%B7%E7%8E%9B%E6%A0%BC%E7%89%B9%E6%B4%9B%E4%BE%9D%E5%BE%B7-2.png/240px-Epic-Works%E6%97%97%E8%A2%8Dver%E7%88%B1%E4%B8%BD%E4%B8%9D%C2%B7%E7%8E%9B%E6%A0%BC%E7%89%B9%E6%B4%9B%E4%BE%9D%E5%BE%B7-2.png 1.5x, https://upload.thwiki.cc/thumb/3/38/Epic-Works%E6%97%97%E8%A2%8Dver%E7%88%B1%E4%B8%BD%E4%B8%9D%C2%B7%E7%8E%9B%E6%A0%BC%E7%89%B9%E6%B4%9B%E4%BE%9D%E5%BE%B7-2.png/320px-Epic-Works%E6%97%97%E8%A2%8Dver%E7%88%B1%E4%B8%BD%E4%B8%9D%C2%B7%E7%8E%9B%E6%A0%BC%E7%89%B9%E6%B4%9B%E4%BE%9D%E5%BE%B7-2.png 2x" data-file-width="1174" data-file-height="1174">
+<img alt="Epic-Works旗袍ver爱丽丝·玛格特洛依德" src="https://upload.thwiki.cc/thumb/a/a5/Epic-Works%E6%97%97%E8%A2%8Dver%E7%88%B1%E4%B8%BD%E4%B8%9D%C2%B7%E7%8E%9B%E6%A0%BC%E7%89%B9%E6%B4%9B%E4%BE%9D%E5%BE%B7-3.png/160px-Epic-Works%E6%97%97%E8%A2%8Dver%E7%88%B1%E4%B8%BD%E4%B8%9D%C2%B7%E7%8E%9B%E6%A0%BC%E7%89%B9%E6%B4%9B%E4%BE%9D%E5%BE%B7-3.png" decoding="async" loading="lazy" width="160" height="160" srcset="https://upload.thwiki.cc/thumb/a/a5/Epic-Works%E6%97%97%E8%A2%8Dver%E7%88%B1%E4%B8%BD%E4%B8%9D%C2%B7%E7%8E%9B%E6%A0%BC%E7%89%B9%E6%B4%9B%E4%BE%9D%E5%BE%B7-3.png/240px-Epic-Works%E6%97%97%E8%A2%8Dver%E7%88%B1%E4%B8%BD%E4%B8%9D%C2%B7%E7%8E%9B%E6%A0%BC%E7%89%B9%E6%B4%9B%E4%BE%9D%E5%BE%B7-3.png 1.5x, https://upload.thwiki.cc/thumb/a/a5/Epic-Works%E6%97%97%E8%A2%8Dver%E7%88%B1%E4%B8%BD%E4%B8%9D%C2%B7%E7%8E%9B%E6%A0%BC%E7%89%B9%E6%B4%9B%E4%BE%9D%E5%BE%B7-3.png/320px-Epic-Works%E6%97%97%E8%A2%8Dver%E7%88%B1%E4%B8%BD%E4%B8%9D%C2%B7%E7%8E%9B%E6%A0%BC%E7%89%B9%E6%B4%9B%E4%BE%9D%E5%BE%B7-3.png 2x" data-file-width="918" data-file-height="918">
 公式图
-
-
-
-
-
-
-[](./文件-Epic-Works旗袍ver爱丽丝·玛格特洛依德-4.png.md)
-
-
-[](./文件-Epic-Works旗袍ver爱丽丝·玛格特洛依德-5.png.md)
-
-
-[](./文件-Epic-Works旗袍ver爱丽丝·玛格特洛依德-6.png.md)
-
+<img alt="Epic-Works旗袍ver爱丽丝·玛格特洛依德" src="https://upload.thwiki.cc/thumb/9/9a/Epic-Works%E6%97%97%E8%A2%8Dver%E7%88%B1%E4%B8%BD%E4%B8%9D%C2%B7%E7%8E%9B%E6%A0%BC%E7%89%B9%E6%B4%9B%E4%BE%9D%E5%BE%B7-4.png/160px-Epic-Works%E6%97%97%E8%A2%8Dver%E7%88%B1%E4%B8%BD%E4%B8%9D%C2%B7%E7%8E%9B%E6%A0%BC%E7%89%B9%E6%B4%9B%E4%BE%9D%E5%BE%B7-4.png" decoding="async" loading="lazy" width="160" height="213" srcset="https://upload.thwiki.cc/thumb/9/9a/Epic-Works%E6%97%97%E8%A2%8Dver%E7%88%B1%E4%B8%BD%E4%B8%9D%C2%B7%E7%8E%9B%E6%A0%BC%E7%89%B9%E6%B4%9B%E4%BE%9D%E5%BE%B7-4.png/240px-Epic-Works%E6%97%97%E8%A2%8Dver%E7%88%B1%E4%B8%BD%E4%B8%9D%C2%B7%E7%8E%9B%E6%A0%BC%E7%89%B9%E6%B4%9B%E4%BE%9D%E5%BE%B7-4.png 1.5x, https://upload.thwiki.cc/thumb/9/9a/Epic-Works%E6%97%97%E8%A2%8Dver%E7%88%B1%E4%B8%BD%E4%B8%9D%C2%B7%E7%8E%9B%E6%A0%BC%E7%89%B9%E6%B4%9B%E4%BE%9D%E5%BE%B7-4.png/320px-Epic-Works%E6%97%97%E8%A2%8Dver%E7%88%B1%E4%B8%BD%E4%B8%9D%C2%B7%E7%8E%9B%E6%A0%BC%E7%89%B9%E6%B4%9B%E4%BE%9D%E5%BE%B7-4.png 2x" data-file-width="1187" data-file-height="1583">
+<img alt="Epic-Works旗袍ver爱丽丝·玛格特洛依德" src="https://upload.thwiki.cc/thumb/6/67/Epic-Works%E6%97%97%E8%A2%8Dver%E7%88%B1%E4%B8%BD%E4%B8%9D%C2%B7%E7%8E%9B%E6%A0%BC%E7%89%B9%E6%B4%9B%E4%BE%9D%E5%BE%B7-5.png/160px-Epic-Works%E6%97%97%E8%A2%8Dver%E7%88%B1%E4%B8%BD%E4%B8%9D%C2%B7%E7%8E%9B%E6%A0%BC%E7%89%B9%E6%B4%9B%E4%BE%9D%E5%BE%B7-5.png" decoding="async" loading="lazy" width="160" height="213" srcset="https://upload.thwiki.cc/thumb/6/67/Epic-Works%E6%97%97%E8%A2%8Dver%E7%88%B1%E4%B8%BD%E4%B8%9D%C2%B7%E7%8E%9B%E6%A0%BC%E7%89%B9%E6%B4%9B%E4%BE%9D%E5%BE%B7-5.png/240px-Epic-Works%E6%97%97%E8%A2%8Dver%E7%88%B1%E4%B8%BD%E4%B8%9D%C2%B7%E7%8E%9B%E6%A0%BC%E7%89%B9%E6%B4%9B%E4%BE%9D%E5%BE%B7-5.png 1.5x, https://upload.thwiki.cc/thumb/6/67/Epic-Works%E6%97%97%E8%A2%8Dver%E7%88%B1%E4%B8%BD%E4%B8%9D%C2%B7%E7%8E%9B%E6%A0%BC%E7%89%B9%E6%B4%9B%E4%BE%9D%E5%BE%B7-5.png/320px-Epic-Works%E6%97%97%E8%A2%8Dver%E7%88%B1%E4%B8%BD%E4%B8%9D%C2%B7%E7%8E%9B%E6%A0%BC%E7%89%B9%E6%B4%9B%E4%BE%9D%E5%BE%B7-5.png 2x" data-file-width="1187" data-file-height="1583">
+<img alt="Epic-Works旗袍ver爱丽丝·玛格特洛依德" src="https://upload.thwiki.cc/thumb/c/ca/Epic-Works%E6%97%97%E8%A2%8Dver%E7%88%B1%E4%B8%BD%E4%B8%9D%C2%B7%E7%8E%9B%E6%A0%BC%E7%89%B9%E6%B4%9B%E4%BE%9D%E5%BE%B7-6.png/160px-Epic-Works%E6%97%97%E8%A2%8Dver%E7%88%B1%E4%B8%BD%E4%B8%9D%C2%B7%E7%8E%9B%E6%A0%BC%E7%89%B9%E6%B4%9B%E4%BE%9D%E5%BE%B7-6.png" decoding="async" loading="lazy" width="160" height="213" srcset="https://upload.thwiki.cc/thumb/c/ca/Epic-Works%E6%97%97%E8%A2%8Dver%E7%88%B1%E4%B8%BD%E4%B8%9D%C2%B7%E7%8E%9B%E6%A0%BC%E7%89%B9%E6%B4%9B%E4%BE%9D%E5%BE%B7-6.png/240px-Epic-Works%E6%97%97%E8%A2%8Dver%E7%88%B1%E4%B8%BD%E4%B8%9D%C2%B7%E7%8E%9B%E6%A0%BC%E7%89%B9%E6%B4%9B%E4%BE%9D%E5%BE%B7-6.png 1.5x, https://upload.thwiki.cc/thumb/c/ca/Epic-Works%E6%97%97%E8%A2%8Dver%E7%88%B1%E4%B8%BD%E4%B8%9D%C2%B7%E7%8E%9B%E6%A0%BC%E7%89%B9%E6%B4%9B%E4%BE%9D%E5%BE%B7-6.png/320px-Epic-Works%E6%97%97%E8%A2%8Dver%E7%88%B1%E4%B8%BD%E4%B8%9D%C2%B7%E7%8E%9B%E6%A0%BC%E7%89%B9%E6%B4%9B%E4%BE%9D%E5%BE%B7-6.png 2x" data-file-width="1200" data-file-height="1600">
 公式图
-
-
-
-
-
-
 
 ---
 

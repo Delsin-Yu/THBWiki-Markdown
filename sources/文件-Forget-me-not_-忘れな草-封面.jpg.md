@@ -1,6 +1,6 @@
 # 文件:Forget-me-not_-忘れな草-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\12\ns6%3AForget-me-not_-%E5%BF%98%E3%82%8C%E3%81%AA%E8%8D%89-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\12\ns6%3AForget-me-not_-%E5%BF%98%E3%82%8C%E3%81%AA%E8%8D%89-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 流派未确定
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Forget-me-not -忘れな草-](./Forget-me-not_-忘れな草-.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
-
-
-
+- [Forget-me-not -忘れな草-](./Forget-me-not_-忘れな草-.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
 
 ---

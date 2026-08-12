@@ -1,14 +1,11 @@
 # 文件:蛊毒「Cannibalistic_Insect」（虹龙洞）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\30\ns6%3A%E8%9B%8A%E6%AF%92%E3%80%8CCannibalistic_Insect%E3%80%8D%EF%BC%88%E8%99%B9%E9%BE%99%E6%B4%9E%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\30\ns6%3A%E8%9B%8A%E6%AF%92%E3%80%8CCannibalistic_Insect%E3%80%8D%EF%BC%88%E8%99%B9%E9%BE%99%E6%B4%9E%EF%BC%89%2Epng.html -->
 
 东方虹龙洞 | 姬虫百百世 | 敌机符卡
 
 
 ## 文件说明
-
-
-
 
 ---
 

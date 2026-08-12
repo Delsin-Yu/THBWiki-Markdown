@@ -1,6 +1,6 @@
 # 文件:当方伍駒狂『SHOW_TIME_WHO_MAY』～ショウタイフメイ～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\22\ns6%3A%E5%BD%93%E6%96%B9%E4%BC%8D%E9%A7%92%E7%8B%82%E3%80%8ESHOW_TIME_WHO_MAY%E3%80%8F%EF%BD%9E%E3%82%B7%E3%83%A7%E3%82%A6%E3%82%BF%E3%82%A4%E3%83%95%E3%83%A1%E3%82%A4%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\22\ns6%3A%E5%BD%93%E6%96%B9%E4%BC%8D%E9%A7%92%E7%8B%82%E3%80%8ESHOW_TIME_WHO_MAY%E3%80%8F%EF%BD%9E%E3%82%B7%E3%83%A7%E3%82%A6%E3%82%BF%E3%82%A4%E3%83%95%E3%83%A1%E3%82%A4%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 りとる・ずぅ | 同人志封面 | 封面图片
 
@@ -10,11 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [当方伍駒狂『SHOW TIME WHO MAY』～ショウタイフメイ～](./当方伍駒狂『SHOW_TIME_WHO_MAY』～ショウタイフメイ～.md)  
-该封面包含的角色：- [娜兹玲](./娜兹玲.md)- [封兽鵺](./封兽鵺.md)- [幽谷响子](./幽谷响子.md)- [宫古芳香](./宫古芳香.md)
-
-
-
+- [当方伍駒狂『SHOW TIME WHO MAY』～ショウタイフメイ～](./当方伍駒狂『SHOW_TIME_WHO_MAY』～ショウタイフメイ～.md)该封面包含的角色：
+- [娜兹玲](./娜兹玲.md)
+- [封兽鵺](./封兽鵺.md)
+- [幽谷响子](./幽谷响子.md)
+- [宫古芳香](./宫古芳香.md)
 
 
 ---

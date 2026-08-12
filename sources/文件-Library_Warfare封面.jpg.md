@@ -1,6 +1,6 @@
 # 文件:Library_Warfare封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2f\ns6%3ALibrary_Warfare%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2f\ns6%3ALibrary_Warfare%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Latterrasse | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@ Latterrasse | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Library Warfare](./Library_Warfare.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [Library Warfare](./Library_Warfare.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
 
   
-源地址：[direct image link (original uploaded image)](https://pbs.twimg.com/media/Dp6-cAEUcAEOcZ9?format=jpg&amp;name=orig), [source tweet](https://twitter.com/44shippo/status/1053498253025538048)
-  
-
-
-
-
+源地址：[direct image link (original uploaded image)](https://pbs.twimg.com/media/Dp6-cAEUcAEOcZ9?format=jpg&name=orig), [source tweet](https://twitter.com/44shippo/status/1053498253025538048)  
 
 ---
 

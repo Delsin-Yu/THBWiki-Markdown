@@ -1,12 +1,8 @@
 # 文件:绯色永恒LOGO.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\52\ns6%3A%E7%BB%AF%E8%89%B2%E6%B0%B8%E6%81%92LOGO%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\52\ns6%3A%E7%BB%AF%E8%89%B2%E6%B0%B8%E6%81%92LOGO%2Epng.html -->
 
 社团LOGO | 绯色永恒
-
-
-
-
 
 
 ---

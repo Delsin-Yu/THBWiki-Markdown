@@ -1,16 +1,11 @@
 # 文件:GothiCbanner2.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\43\ns6%3AGothiCbanner2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\43\ns6%3AGothiCbanner2%2Ejpg.html -->
 
 GothiC | 社团LOGO
 
   
-源地址：[[1]](http://img-cdn.jg.jugem.jp/0f5/1694214/20120904_2453119.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://img-cdn.jg.jugem.jp/0f5/1694214/20120904_2453119.jpg)  
 
 ---
 

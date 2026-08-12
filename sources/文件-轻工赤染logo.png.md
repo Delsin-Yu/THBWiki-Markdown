@@ -1,16 +1,12 @@
 # 文件:轻工赤染logo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\59\ns6%3A%E8%BD%BB%E5%B7%A5%E8%B5%A4%E6%9F%93logo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\59\ns6%3A%E8%BD%BB%E5%B7%A5%E8%B5%A4%E6%9F%93logo%2Epng.html -->
 
 社团LOGO | 轻工赤染
 
   
 赤染轻工banner
   
-
-
-
-
 
 ---
 

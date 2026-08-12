@@ -1,12 +1,8 @@
 # 文件:MJ（阴阳历）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\93\ns6%3AMJ%EF%BC%88%E9%98%B4%E9%98%B3%E5%8E%86%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\93\ns6%3AMJ%EF%BC%88%E9%98%B4%E9%98%B3%E5%8E%86%EF%BC%89%2Epng.html -->
 
 MJ | まりもmarimoチャンネル | 二次角色立绘
-
-
-
-
 
 
 ---

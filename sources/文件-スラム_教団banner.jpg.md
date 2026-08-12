@@ -1,18 +1,13 @@
 # 文件:スラム_教団banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4f\ns6%3A%E3%82%B9%E3%83%A9%E3%83%A0_%E6%95%99%E5%9B%A3banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4f\ns6%3A%E3%82%B9%E3%83%A9%E3%83%A0_%E6%95%99%E5%9B%A3banner%2Ejpg.html -->
 
 スラム_教団 | 社团LOGO
 
 
 ## 摘要
   
-源地址：[direct image link (max size)](https://2.bp.blogspot.com/-8d2Id5jzy8g/UHffB7DZEMI/AAAAAAAAABw/wenOlgkizEo/s0/74849_160463747410702_1873802535_n.jpg=s0?imgmax=0), [source page (circle blog header)](http://maximum-suramity.blogspot.com/)
-  
-
-
-
-
+源地址：[direct image link (max size)](https://2.bp.blogspot.com/-8d2Id5jzy8g/UHffB7DZEMI/AAAAAAAAABw/wenOlgkizEo/s0/74849_160463747410702_1873802535_n.jpg=s0?imgmax=0), [source page (circle blog header)](http://maximum-suramity.blogspot.com/)  
 
 ---
 

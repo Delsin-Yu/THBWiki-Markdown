@@ -1,14 +1,11 @@
 # 文件:どうかkappaと発音して下さい。_logo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\88\ns6%3A%E3%81%A9%E3%81%86%E3%81%8Bkappa%E3%81%A8%E7%99%BA%E9%9F%B3%E3%81%97%E3%81%A6%E4%B8%8B%E3%81%95%E3%81%84%E3%80%82_logo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\88\ns6%3A%E3%81%A9%E3%81%86%E3%81%8Bkappa%E3%81%A8%E7%99%BA%E9%9F%B3%E3%81%97%E3%81%A6%E4%B8%8B%E3%81%95%E3%81%84%E3%80%82_logo%2Ejpg.html -->
 
 どうかkappaと発音して下さい。 | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

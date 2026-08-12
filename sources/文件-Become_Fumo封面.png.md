@@ -1,6 +1,6 @@
 # 文件:Become_Fumo封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7a\ns6%3ABecome_Fumo%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7a\ns6%3ABecome_Fumo%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 scary08 | 封面图片 | 软件封面
 
@@ -10,11 +10,9 @@ scary08 | 封面图片 | 软件封面
 使用了本文件作封面图片的作品：
   
 
-- [Become Fumo](./Become_Fumo.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [火焰猫燐](./火焰猫燐.md)
-
-
-
+- [Become Fumo](./Become_Fumo.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [火焰猫燐](./火焰猫燐.md)
 
 
 ---

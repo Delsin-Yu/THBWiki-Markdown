@@ -1,18 +1,13 @@
 # 文件:Sick_Of_Naillogo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\68\ns6%3ASick_Of_Naillogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\68\ns6%3ASick_Of_Naillogo%2Ejpg.html -->
 
 Sick_Of_Nail | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[[1]](http://sickofnail.xxxxxxxx.jp/img/4.JPG)
-  
-
-
-
-
+源地址：[\[1\]](http://sickofnail.xxxxxxxx.jp/img/4.JPG)  
 
 ---
 

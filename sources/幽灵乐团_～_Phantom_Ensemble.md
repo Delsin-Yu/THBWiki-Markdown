@@ -1,45 +1,33 @@
 # 幽灵乐团_～_Phantom_Ensemble
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\3\36\ns0%3A%E5%B9%BD%E7%81%B5%E4%B9%90%E5%9B%A2_%EF%BD%9E_Phantom_Ensemble.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\3\36\ns0%3A%E5%B9%BD%E7%81%B5%E4%B9%90%E5%9B%A2_%EF%BD%9E_Phantom_Ensemble.html -->
 
 由 ZUN 创作的官方曲目，原名 幽霊楽団　～ Phantom Ensemble
 
 本页是关于东方Project  
- **原作音乐** 的词条
-
+**原作音乐**的词条
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 出现作品](#出现作品)
 - [3 音乐文件](#音乐文件)
-
   - [3.1 东方妖妖梦](#东方妖妖梦)
-
     - [3.1.1 WAV](#WAV)
     - [3.1.2 MIDI](#MIDI)
-
 
 
   - [3.2 东方花映塚](#东方花映塚)
 
 
-
 - [4 说明文本](#说明文本)
-
   - [4.1 东方妖妖梦](#东方妖妖梦_2)
   - [4.2 东方花映塚](#东方花映塚_2)
 
 
-
 - [5 其他资料](#其他资料)
-
   - [5.1 乐理资讯](#乐理资讯)
   - [5.2 分析考据](#分析考据)
   - [5.3 二次同人数据](#二次同人数据)
-
-
-
-
 
 
 
@@ -49,14 +37,12 @@
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">幽霊楽団　～ Phantom Ensemble</td></tr><tr><td><b>译名</b></td><td>幽灵乐团 ～ Phantom Ensemble</td></tr><tr><td><b>英文译名</b></td><td>Phantom Band ~ Phantom Ensemble</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 幽灵乐团 ～ Phantom Ensemble（曲目） - 由 ZUN 创作的官方曲目，原名 幽霊楽団　～ Phantom Ensemble
-
 ## 出现作品
 
 <table>
-<tbody><tr><td>2003年8月17日（Comic Market 64）</td><td><b><a href="./东方妖妖梦.md" title="东方妖妖梦">东方妖妖梦</a></b></td><td>4面BOSS<a href="./普莉兹姆利巴三姐妹.md" class="mw-redirect" title="普莉兹姆利巴三姐妹">普莉兹姆利巴三姐妹</a>的主题曲</td><td style="padding-left:5px;">幽霊楽団　～ Phantom Ensemble（幽灵乐团 ～ Phantom Ensemble）</td><td style="padding-left:10px;">作曲：ZUN</td></tr>
-<tr><td>2005年8月14日（Comic Market 68）</td><td><b><a href="./东方花映塚.md" title="东方花映塚">东方花映塚</a></b></td><td><a href="./普莉兹姆利巴三姐妹.md" class="mw-redirect" title="普莉兹姆利巴三姐妹">普莉兹姆利巴三姐妹</a>的主题曲</td><td style="padding-left:5px;">幽霊楽団　～ Phantom Ensemble（幽灵乐团 ～ Phantom Ensemble）</td><td style="padding-left:10px;">编曲：ZUN</td></tr>
+<tbody><tr><td>2003年8月17日（Comic Market 64）</td><td><b><a href="./东方妖妖梦.md" title="东方妖妖梦">东方妖妖梦</a></b></td><td>4面BOSS<a href="./骚灵三姐妹.md" class="mw-redirect" title="普莉兹姆利巴三姐妹">普莉兹姆利巴三姐妹</a>的主题曲</td><td style="padding-left:5px;">幽霊楽団　～ Phantom Ensemble（幽灵乐团 ～ Phantom Ensemble）</td><td style="padding-left:10px;">作曲：ZUN</td></tr>
+<tr><td>2005年8月14日（Comic Market 68）</td><td><b><a href="./东方花映塚.md" title="东方花映塚">东方花映塚</a></b></td><td><a href="./骚灵三姐妹.md" class="mw-redirect" title="普莉兹姆利巴三姐妹">普莉兹姆利巴三姐妹</a>的主题曲</td><td style="padding-left:5px;">幽霊楽団　～ Phantom Ensemble（幽灵乐团 ～ Phantom Ensemble）</td><td style="padding-left:10px;">编曲：ZUN</td></tr>
 </tbody></table>
-
 
 
 ## 音乐文件
@@ -68,7 +54,6 @@
 WAV版是游戏的原声带。
   
 
-
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td><a href="./文件-th07_09.mid.md" title="文件:th07 09.mid">th07_09.mid</a></td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th07_09.mp3.md" title="文件:th07 09.mp3">th07_09.mp3</a><br><audio src="https://upload.thwiki.cc/a/a2/th07_09.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>BGM\th07_09.wav</td></tr><tr><td><b>BGMForAll</b></td><td><div class="mw-collapsible mw-collapsed">
 <p><b>BGMForAll数据信息</b>
 </p>
@@ -77,15 +62,12 @@ WAV版是游戏的原声带。
 </td></tr></tbody></table>
 
 
-
 #### MIDI
   
 MIDI版由Roland Sound Canvas 88Pro实机录音得到。
   
 
-
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td><a href="./文件-th07_09.mid.md" title="文件:th07 09.mid">th07_09.mid</a></td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th07_09_SC88Pro.mp3.md" title="文件:th07 09 SC88Pro.mp3">th07_09_SC88Pro.mp3</a><br><audio src="https://upload.thwiki.cc/1/15/th07_09_SC88Pro.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>th07_09.mid</td></tr><tr><td><b>音轨时长</b></td><td>2:18</td></tr></tbody></table>
-
 
 
 ### 东方花映塚
@@ -98,16 +80,16 @@ MIDI版由Roland Sound Canvas 88Pro实机录音得到。
 </td></tr></tbody></table>
 
 
-
 ## 说明文本
 
 ### 东方妖妖梦
-- Music Room (未找到链接)
+
+- [Music Room](./东方妖妖梦-Music.md#4面BOSS虹川三姐妹角色曲)
 
 　普莉兹姆利巴三姐妹的主题曲。  
 　总之，我认为创作出了一首仿佛在明快欢乐地演奏般的曲子。  
 　这是喜欢祭典和热闹，大大咧咧的三姐妹趁着劲头进行的演奏。高潮是三人用小提琴，小号，键盘，按照自己的想法进行演奏。大杂烩。
-- 里音乐评论 (未找到链接)
+- [里音乐评论](./附带文档-东方妖妖梦-Omake.md#里音乐评论)
 
 ９．幽灵乐团　～ Phantom Ensemble  
     幽灵合奏。  
@@ -115,9 +97,9 @@ MIDI版由Roland Sound Canvas 88Pro实机录音得到。
     在外国，属于最无聊的灵之一呢。虽然可以不用手足自由地演奏乐器，但并不是特雷门琴。  
     而且，原本不用乐器也能演奏出声音，她们却使用乐器。  
     这种无意义的成分越多，才是越美妙的。而且幽灵本身就是毫无意义的。
-
 ### 东方花映塚
-- Music Room (未找到链接)
+
+- [Music Room](./东方花映塚-Music.md#普莉兹姆利巴三姐妹的主题曲)
 
 　普莉兹姆利巴三姐妹的主题曲。  
 　这首曲子是为了更能表现享受演奏的那种气氛而将原曲改编了下。  
@@ -125,32 +107,34 @@ MIDI版由Roland Sound Canvas 88Pro实机录音得到。
 　也想做一首凸显普莉兹姆利巴三姐妹各自乐器SOLO部分的曲子。  
 　想到露娜萨拉小提琴，梅露兰吹小号，莉莉卡弹着钢琴拉着手风琴，  
 那么贝斯和大鼓由谁来搞定呢？
-
 ## 其他资料
 
 ### 乐理资讯
 
 ### 分析考据
   
- **幽霊楽団　～ Phantom Ensemble**  幽灵乐团　～ Phantom Ensemble
+**幽霊楽団 ～ Phantom Ensemble** 幽灵乐团　～ Phantom Ensemble
   
 
-- <ruby lang="ja"><rb>幽霊</rb><rp> (</rp><rt>ゆうれい</rt><rp>) </rp></ruby>
-（幽灵）
+- <ruby lang="ja"><rb>幽霊</rb><rp> (</rp><rt>ゆうれい</rt><rp>) </rp></ruby>（幽灵） 
   - 普莉兹姆利巴三姐妹是骚灵。
   - 三个人受邀请去冥界开音乐会。
 
-- <ruby lang="ja"><rb>楽団</rb><rp> (</rp><rt>がくだん</rt><rp>) </rp></ruby>
-（乐团）
+
+- <ruby lang="ja"><rb>楽団</rb><rp> (</rp><rt>がくだん</rt><rp>) </rp></ruby>（乐团） 
   - 三姐妹组成了乐团。
 
-- Phantom
-  - 幽灵，幻影。
+
+- Phantom 
+  - 幽灵，幻影。 
     - 三姐妹是四妹[蕾拉·普莉兹姆利巴](./蕾拉·普莉兹姆利巴.md)创作出来的幻影。
 
 
-- Ensemble
+
+
+- Ensemble 
   - 集体；乐团，二人以上组成的音乐集体。
+
 
 
 
@@ -166,17 +150,6 @@ MIDI版由Roland Sound Canvas 88Pro实机录音得到。
 <tr><td>Arrange</td><td>1204</td></tr>
 <tr><td>Vocal率</td><td>33.7%</td></tr>
 </tbody></table>
-
-
-
-
-  
-  
-
-  
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Art_Collection_Vol.3封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c9\ns6%3AArt_Collection_Vol%2E3%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c9\ns6%3AArt_Collection_Vol%2E3%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 stump | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@ stump | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Art Collection Vol.3](./Art_Collection_Vol.3.md)  
-该封面包含的角色：- [秦心](./秦心.md)
+- [Art Collection Vol.3](./Art_Collection_Vol.3.md)该封面包含的角色：
+- [秦心](./秦心.md)
 
   
-[Pixiv artwork ID: 119492012](https://www.pixiv.net/artworks/119492012)
-  
-
-
-
-
+[Pixiv artwork ID: 119492012](https://www.pixiv.net/artworks/119492012)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:Overkill_Fury封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\38\ns6%3AOverkill_Fury%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\38\ns6%3AOverkill_Fury%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 EastNewSound | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ EastNewSound | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Overkill Fury](./Overkill_Fury.md)  
-该封面包含的角色：- [八坂神奈子](./八坂神奈子.md)
-
-
-
+- [Overkill Fury](./Overkill_Fury.md)该封面包含的角色：
+- [八坂神奈子](./八坂神奈子.md)
 
 
 ---

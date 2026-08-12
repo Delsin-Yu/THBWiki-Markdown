@@ -1,6 +1,6 @@
 # 文件:スーパーロボット大戦_TH_FanBook封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\29\ns6%3A%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%A4%A7%E6%88%A6_TH_FanBook%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\29\ns6%3A%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%A4%A7%E6%88%A6_TH_FanBook%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 White_Datura | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@ White_Datura | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [スーパーロボット大戦 TH FanBook](./スーパーロボット大戦_TH_FanBook.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
+- [スーパーロボット大戦 TH FanBook](./スーパーロボット大戦_TH_FanBook.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
   
-源地址：[[1]](https://blog-imgs-24-origin.fc2.com/e/l/o/elonsia/2009051414100658e.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://blog-imgs-24-origin.fc2.com/e/l/o/elonsia/2009051414100658e.jpg)  
 
 ---
 

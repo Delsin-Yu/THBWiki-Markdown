@@ -1,6 +1,6 @@
 # 文件:Alternative（Dust_Box_49）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0a\ns6%3AAlternative%EF%BC%88Dust_Box_49%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0a\ns6%3AAlternative%EF%BC%88Dust_Box_49%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Dust_Box_49 | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ Dust_Box_49 | 专辑封面 | 封面图片
   
 
 - [Alternative（Dust Box 49）](./Alternative（Dust_Box_49）.md)
-
-
-
 
 
 ---

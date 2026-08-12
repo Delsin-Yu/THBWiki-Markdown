@@ -1,6 +1,6 @@
 # 文件:TH08_EndOfMinimalEasternNight封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ed\ns6%3ATH08_EndOfMinimalEasternNight%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ed\ns6%3ATH08_EndOfMinimalEasternNight%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Active_Sounds_Zone | 专辑封面 | 封面图片
 
@@ -8,16 +8,12 @@ Active_Sounds_Zone | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [TH08 EndOfMinimalEasternNight](./TH08_EndOfMinimalEasternNight.md)  
-该封面包含的角色：- [八意永琳](./八意永琳.md)- [蓬莱山辉夜](./蓬莱山辉夜.md)
+- [TH08 EndOfMinimalEasternNight](./TH08_EndOfMinimalEasternNight.md)该封面包含的角色：
+- [八意永琳](./八意永琳.md)
+- [蓬莱山辉夜](./蓬莱山辉夜.md)
 
   
-源地址：[[1]](http://aszr.info/disco/img/separate/ASZM-0013.png)
-  
-
-
-
-
+源地址：[\[1\]](http://aszr.info/disco/img/separate/ASZM-0013.png)  
 
 ---
 

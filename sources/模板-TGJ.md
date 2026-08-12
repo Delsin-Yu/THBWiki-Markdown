@@ -1,16 +1,12 @@
 # 模板:TGJ
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\f\fa\ns10%3ATGJ.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\f\fa\ns10%3ATGJ.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

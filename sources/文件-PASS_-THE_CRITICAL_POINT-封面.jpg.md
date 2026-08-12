@@ -1,6 +1,6 @@
 # 文件:PASS_-THE_CRITICAL_POINT-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fd\ns6%3APASS_-THE_CRITICAL_POINT-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fd\ns6%3APASS_-THE_CRITICAL_POINT-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Alstroemeria_Records | Amateras_Records | 专辑封面 | 封面图片
 
@@ -8,11 +8,10 @@ Alstroemeria_Records | Amateras_Records | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [PASS -THE CRITICAL POINT-](./PASS_-THE_CRITICAL_POINT-.md)  
-该封面包含的角色：- [西行寺幽幽子](./西行寺幽幽子.md)- [犬走椛](./犬走椛.md)- [东风谷早苗](./东风谷早苗.md)
-
-
-
+- [PASS -THE CRITICAL POINT-](./PASS_-THE_CRITICAL_POINT-.md)该封面包含的角色：
+- [西行寺幽幽子](./西行寺幽幽子.md)
+- [犬走椛](./犬走椛.md)
+- [东风谷早苗](./东风谷早苗.md)
 
 
 ---

@@ -1,16 +1,12 @@
 # 模板:幻想CT
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\d\d1\ns10%3A%E5%B9%BB%E6%83%B3CT.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\d\d1\ns10%3A%E5%B9%BB%E6%83%B3CT.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

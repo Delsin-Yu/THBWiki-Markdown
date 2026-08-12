@@ -1,6 +1,6 @@
 # 文件:Exile_Doll封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0a\ns6%3AExile_Doll%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0a\ns6%3AExile_Doll%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 MatsuYani | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ MatsuYani | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Exile Doll](./Exile_Doll.md)  
-该封面包含的角色：- [键山雏](./键山雏.md)
+- [Exile Doll](./Exile_Doll.md)该封面包含的角色：
+- [键山雏](./键山雏.md)
 
   
-源地址：[[1]](http://chip.main.jp/sp/MatsuYani/EXDO/)
-  
-
-
-
-
+源地址：[\[1\]](http://chip.main.jp/sp/MatsuYani/EXDO/)  
 
 ---
 

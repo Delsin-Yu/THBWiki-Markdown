@@ -1,12 +1,8 @@
 # 文件:打不出去的牌几乎不存在！第1卷_Animate特典.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f8\ns6%3A%E6%89%93%E4%B8%8D%E5%87%BA%E5%8E%BB%E7%9A%84%E7%89%8C%E5%87%A0%E4%B9%8E%E4%B8%8D%E5%AD%98%E5%9C%A8%EF%BC%81%E7%AC%AC1%E5%8D%B7_Animate%E7%89%B9%E5%85%B8%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f8\ns6%3A%E6%89%93%E4%B8%8D%E5%87%BA%E5%8E%BB%E7%9A%84%E7%89%8C%E5%87%A0%E4%B9%8E%E4%B8%8D%E5%AD%98%E5%9C%A8%EF%BC%81%E7%AC%AC1%E5%8D%B7_Animate%E7%89%B9%E5%85%B8%2Ejpg.html -->
 
 Animate | 特典
-
-
-
-
 
 
 ---

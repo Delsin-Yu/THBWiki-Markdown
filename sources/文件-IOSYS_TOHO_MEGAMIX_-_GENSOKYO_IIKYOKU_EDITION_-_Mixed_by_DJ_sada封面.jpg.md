@@ -1,6 +1,6 @@
 # 文件:IOSYS_TOHO_MEGAMIX_-_GENSOKYO_IIKYOKU_EDITION_-_Mixed_by_DJ_sada封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f6\ns6%3AIOSYS_TOHO_MEGAMIX_-_GENSOKYO_IIKYOKU_EDITION_-_Mixed_by_DJ_sada%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f6\ns6%3AIOSYS_TOHO_MEGAMIX_-_GENSOKYO_IIKYOKU_EDITION_-_Mixed_by_DJ_sada%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 IOSYS | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ IOSYS | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [IOSYS TOHO MEGAMIX - GENSOKYO IIKYOKU EDITION - Mixed by DJ sada](./IOSYS_TOHO_MEGAMIX_-_GENSOKYO_IIKYOKU_EDITION_-_Mixed_by_DJ_sada.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [IOSYS TOHO MEGAMIX - GENSOKYO IIKYOKU EDITION - Mixed by DJ sada](./IOSYS_TOHO_MEGAMIX_-_GENSOKYO_IIKYOKU_EDITION_-_Mixed_by_DJ_sada.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

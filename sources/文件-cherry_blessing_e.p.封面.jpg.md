@@ -1,6 +1,6 @@
 # 文件:cherry_blessing_e.p.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\48\ns6%3Acherry_blessing_e%2Ep%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\48\ns6%3Acherry_blessing_e%2Ep%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Forest306 | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ Forest306 | 专辑封面 | 封面图片
   
 
 - [cherry blessing e.p.](./cherry_blessing_e.p..md)
-
-
-
 
 
 ---

@@ -1,16 +1,12 @@
 # 文件:魔术Boom_SorceryLOGO.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1a\ns6%3A%E9%AD%94%E6%9C%AFBoom_SorceryLOGO%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1a\ns6%3A%E9%AD%94%E6%9C%AFBoom_SorceryLOGO%2Ejpg.html -->
 
 社团LOGO | 魔术Boom_Sorcery
 
   
 魔術炸彈logo 可能没人看得出来这写的是魔术
   
-
-
-
-
 
 ---
 

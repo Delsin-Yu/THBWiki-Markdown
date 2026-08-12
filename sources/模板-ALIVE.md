@@ -1,16 +1,12 @@
 # 模板:ALIVE
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\c\cc\ns10%3AALIVE.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\c\cc\ns10%3AALIVE.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

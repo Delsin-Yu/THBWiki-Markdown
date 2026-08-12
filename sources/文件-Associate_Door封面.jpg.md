@@ -1,6 +1,6 @@
 # 文件:Associate_Door封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dc\ns6%3AAssociate_Door%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dc\ns6%3AAssociate_Door%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 AbsoЯute_Zero | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ AbsoЯute_Zero | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Associate Door](./Associate_Door.md)  
-该封面包含的角色：- [摩多罗隐岐奈](./摩多罗隐岐奈.md)
+- [Associate Door](./Associate_Door.md)该封面包含的角色：
+- [摩多罗隐岐奈](./摩多罗隐岐奈.md)
 
   
-源地址：[[1]](http://absorute-zero.net/associate_door/)
-  
-
-
-
-
+源地址：[\[1\]](http://absorute-zero.net/associate_door/)  
 
 ---
 

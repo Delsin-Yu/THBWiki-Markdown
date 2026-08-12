@@ -1,6 +1,6 @@
 # 文件:HAKUREI_RAVE_3.5封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\72\ns6%3AHAKUREI_RAVE_3%2E5%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\72\ns6%3AHAKUREI_RAVE_3%2E5%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 LiLA'c_Records | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ LiLA'c_Records | 专辑封面 | 封面图片
   
 
 - [HAKUREI RAVE 3.5](./HAKUREI_RAVE_3.5.md)
-
-
-
 
 
 ---

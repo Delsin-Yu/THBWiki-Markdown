@@ -1,6 +1,6 @@
 # 文件:APRICOT+TANTEN封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6b\ns6%3AAPRICOT%2BTANTEN%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6b\ns6%3AAPRICOT%2BTANTEN%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 SINNNKAI | アプリコタン | 封面图片 | 软件封面
 
@@ -10,16 +10,11 @@ SINNNKAI | アプリコタン | 封面图片 | 软件封面
 使用了本文件作封面图片的作品：
   
 
-- [APRICOT+TANTEN](./APRICOT+TANTEN.md)  
-该封面包含的角色：- [比那名居天子](./比那名居天子.md)
+- [APRICOT+TANTEN](./APRICOT+TANTEN.md)该封面包含的角色：
+- [比那名居天子](./比那名居天子.md)
 
   
-源地址：[direct image link (original size)](https://blog-imgs-56-origin.fc2.com/s/i/n/sinnnkai/20120924012723348.png), [source page](http://sinnnkai.blog.fc2.com/blog-entry-162.html)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://blog-imgs-56-origin.fc2.com/s/i/n/sinnnkai/20120924012723348.png), [source page](http://sinnnkai.blog.fc2.com/blog-entry-162.html)  
 
 ---
 

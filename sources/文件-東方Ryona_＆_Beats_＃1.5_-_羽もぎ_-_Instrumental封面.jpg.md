@@ -1,6 +1,6 @@
 # 文件:東方Ryona_＆_Beats_＃1.5_-_羽もぎ_-_Instrumental封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\72\ns6%3A%E6%9D%B1%E6%96%B9Ryona_%EF%BC%86_Beats_%EF%BC%831%2E5_-_%E7%BE%BD%E3%82%82%E3%81%8E_-_Instrumental%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\72\ns6%3A%E6%9D%B1%E6%96%B9Ryona_%EF%BC%86_Beats_%EF%BC%831%2E5_-_%E7%BE%BD%E3%82%82%E3%81%8E_-_Instrumental%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 yararebeats | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@ yararebeats | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方Ryona ＆ Beats ＃1.5 - 羽もぎ - Instrumental](./東方Ryona_＆_Beats_＃1.5_-_羽もぎ_-_Instrumental.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [東方Ryona ＆ Beats ＃1.5 - 羽もぎ - Instrumental](./東方Ryona_＆_Beats_＃1.5_-_羽もぎ_-_Instrumental.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
   
-源地址：[[1]](https://melonbooks.akamaized.net/user_data/packages/resize_image.php?image=213001029486.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://melonbooks.akamaized.net/user_data/packages/resize_image.php?image=213001029486.jpg)  
 
 ---
 

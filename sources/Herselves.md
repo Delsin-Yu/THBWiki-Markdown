@@ -1,53 +1,39 @@
 # Herselves
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\1\16\ns0%3AHerselves.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\1\16\ns0%3AHerselves.html -->
 
 由 ZUN 创作的官方曲目，原名 ハーセルヴズ
 
 本页是关于东方Project  
- **原作音乐** 的词条
-
+**原作音乐**的词条
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 出现作品](#出现作品)
 - [3 音乐文件](#音乐文件)
-
   - [3.1 秋霜玉](#秋霜玉)
   - [3.2 东方幻想的音乐](#东方幻想的音乐)
 
 
-
 - [4 说明文本](#说明文本)
-
   - [4.1 秋霜玉](#秋霜玉_2)
-
     - [4.1.1 Music Room](#Music_Room)
     - [4.1.2 创曲幻想](#创曲幻想)
 
 
-
   - [4.2 东方幻想的音乐](#东方幻想的音乐_2)
-
     - [4.2.1 秋霜玉](#秋霜玉_3)
 
 
 
 
-
-
 - [5 其他资料](#其他资料)
-
   - [5.1 乐理资讯](#乐理资讯)
   - [5.2 分析考据](#分析考据)
   - [5.3 二次同人数据](#二次同人数据)
 
 
-
 - [6 注释](#注释)
-
-
-
 
 
 ## 基本信息
@@ -55,14 +41,12 @@
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">ハーセルヴズ</td></tr><tr><td><b>译名</b></td><td>Herselves</td></tr><tr><td><b>其他译名</b></td><td>她们自己</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 Herselves（曲目） - 由 ZUN 创作的官方曲目，原名 ハーセルヴズ
-
 ## 出现作品
 
 <table>
 <tbody><tr><td>2000年12月30日（Comic Market 59）</td><td><b><a href="./秋霜玉.md" title="秋霜玉">秋霜玉</a></b></td><td>结局画面主题曲</td><td style="padding-left:5px;">ハーセルヴズ（Herselves）</td><td style="padding-left:10px;">作曲：ZUN</td></tr>
 <tr><td>2001年5月2日（非展会）</td><td><b><a href="./东方幻想的音乐.md" title="东方幻想的音乐">东方幻想的音乐</a></b></td><td>秋霜玉</td><td style="padding-left:5px;">ハーセルヴズ（Herselves）</td><td style="padding-left:10px;">编曲：ZUN</td></tr>
 </tbody></table>
-
 
 
 ## 音乐文件
@@ -72,9 +56,7 @@ Herselves（曲目） - 由 ZUN 创作的官方曲目，原名 ハーセルヴ�
 MP3由Roland SC-88Pro 实机录制。官方只发布MIDI而未发布MP3，故音轨长度以从游戏中提取的原MIDI文件为准。
   
 
-
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td><a href="./文件-sh01_19.mid.md" title="文件:sh01 19.mid">sh01_19.mid</a></td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-SE01_19.mp3.md" title="文件:SE01 19.mp3">SE01_19.mp3</a><br><audio src="https://upload.thwiki.cc/4/47/SE01_19.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>MUSIC\DATA0018（MIDI）</td></tr><tr><td><b>音轨时长</b></td><td>5:43</td></tr></tbody></table>
-
 
 
 ### 东方幻想的音乐
@@ -82,9 +64,7 @@ MP3由Roland SC-88Pro 实机录制。官方只发布MIDI而未发布MP3，故音
 MP3由Roland SC-88Pro 实机录制。官方只发布MIDI而未发布MP3，故音轨长度以原MIDI文件为准。
   
 
-
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td><a href="./文件-ssg_19.mid.md" title="文件:ssg 19.mid">ssg_19.mid</a></td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-ssg_19.mp3.md" title="文件:ssg 19.mp3">ssg_19.mp3</a><br><audio src="https://upload.thwiki.cc/2/2a/ssg_19.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td><a rel="nofollow" class="external free" href="http://www16.big.or.jp/~zun/html/music_old.html">http://www16.big.or.jp/~zun/html/music_old.html</a></td></tr><tr><td><b>音轨时长</b></td><td>2:35</td></tr></tbody></table>
-
 
 
 ## 说明文本
@@ -92,7 +72,8 @@ MP3由Roland SC-88Pro 实机录制。官方只发布MIDI而未发布MP3，故音
 ### 秋霜玉
 
 #### Music Room
-- Music Room (未找到链接)
+
+- [Music Room](./秋霜玉-Music.md#结尾画面主题曲)
 
 Ending主题曲。  
   
@@ -106,19 +87,19 @@ Ending主题曲。
 高潮像骑兵队（那也不对）  
 最终将钟表装置做成主题（真的）  
 虽然很辛苦，但却是首短曲呐～（^^;Herselves
-
 #### 创曲幻想
-- 创曲幻想 (未找到链接)
+
+- [创曲幻想](./附带文档-秋霜玉-创曲幻想.md#曲名解说-20)
 
 【 Herselves 】结尾主题曲  
   
-Herselves&#160;: 她们自己 ( 自己造的词 ）  
+Herselves : 她们自己 ( 自己造的词 ）  
 顺便一提这个单词不存在（笑），因为有两个VIVIT···
-
 ### 东方幻想的音乐
 
 #### 秋霜玉
-- 东方幻想的音乐 (未找到链接)
+
+- [东方幻想的音乐](./东方幻想的音乐-过去的曲子-秋霜玉.md#Herselves)
 
 +----------------------------------------------------------------------------+  
 |【 　 曲名　　】| 【 Herselves 】  
@@ -132,7 +113,7 @@ Herselves&#160;: 她们自己 ( 自己造的词 ）
 |                | 这种时候，请不要更动压缩包内部文件。  
 |【　 著作权 　】| ＺＵＮ (太田顺也）  
 |【演奏上的注意】| 用sc-88Pro 的人在演奏时请不要按88Map。  
-|                                          &#126;&#126;&#126;&#126;~   
+|                                          ~~~~~   
 +-----------------------------------------------------------------------------+  
 感谢您下载本文件。  
   
@@ -152,21 +133,22 @@ Herselves&#160;: 她们自己 ( 自己造的词 ）
 曲子的感想、请求等，这边请  
 　东方幻想空间　「博丽神社」 [http://www16.big.or.jp/~zun/](http://www16.big.or.jp/~zun/)  
 　e-Mail                     zun@big.or.jp
-
 ## 其他资料
 
 ### 乐理资讯
 
 ### 分析考据
   
- **ハーセルヴズ**   Herselves
+**ハーセルヴズ**  Herselves
   
 
-- ハーセルヴズ（Herselves）
-  - ‎自造词，herself（她自己）的复数型，表示「她们自己」
+- ハーセルヴズ（Herselves） 
+  - ‎自造词，herself（她自己）的复数型，表示「她们自己」 
     - 英语中第三人称复数的反身代词无论性别都是使用themselves
     - 两个VIVIT的名字和外貌都相同，看似同一人，却是不同的个体
     - 秋霜玉结局中，以女仆VIVIT的视角讲述自己和其他角色们在本次任务结束后的后续故事
+
+
 
 
 
@@ -184,20 +166,7 @@ Herselves&#160;: 她们自己 ( 自己造的词 ）
 <tr><td>Vocal率</td><td>12.9%</td></tr>
 </tbody></table>
 
-
-
-
-
 [^cite_note-1]: 应该是Ending主题曲。
-
-  
-  
-
-  
-
-
-
-
 
 ---
 

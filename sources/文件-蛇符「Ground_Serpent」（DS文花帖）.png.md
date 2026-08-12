@@ -1,12 +1,8 @@
 # 文件:蛇符「Ground_Serpent」（DS文花帖）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ac\ns6%3A%E8%9B%87%E7%AC%A6%E3%80%8CGround_Serpent%E3%80%8D%EF%BC%88DS%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ac\ns6%3A%E8%9B%87%E7%AC%A6%E3%80%8CGround_Serpent%E3%80%8D%EF%BC%88DS%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Epng.html -->
 
 东方文花帖DS | 八坂神奈子 | 敌机符卡
-
-
-
-
 
 
 ---

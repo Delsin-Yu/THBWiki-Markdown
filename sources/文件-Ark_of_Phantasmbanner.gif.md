@@ -1,14 +1,11 @@
 # 文件:Ark_of_Phantasmbanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5b\ns6%3AArk_of_Phantasmbanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5b\ns6%3AArk_of_Phantasmbanner%2Egif.html -->
 
 Ark_of_Phantasm | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

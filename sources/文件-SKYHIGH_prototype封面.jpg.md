@@ -1,6 +1,6 @@
 # 文件:SKYHIGH_prototype封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3a\ns6%3ASKYHIGH_prototype%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3a\ns6%3ASKYHIGH_prototype%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 SYNCTRON | 专辑封面 | 封面图片
 
@@ -15,10 +15,6 @@ SYNCTRON | 专辑封面 | 封面图片
   
 from TLMC scans
   
-
-
-
-
 
 ---
 

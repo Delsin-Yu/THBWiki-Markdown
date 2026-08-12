@@ -1,6 +1,6 @@
 # 文件:东方汉堡阁_～_Weight-Loser_Marisa封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1e\ns6%3A%E4%B8%9C%E6%96%B9%E6%B1%89%E5%A0%A1%E9%98%81_%EF%BD%9E_Weight-Loser_Marisa%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1e\ns6%3A%E4%B8%9C%E6%96%B9%E6%B1%89%E5%A0%A1%E9%98%81_%EF%BD%9E_Weight-Loser_Marisa%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 封面图片 | 幻想乡第三电子工业部 | 软件封面
 
@@ -11,9 +11,6 @@
   
 
 - [东方汉堡阁 ～ Weight-Loser Marisa](./东方汉堡阁_～_Weight-Loser_Marisa.md)
-
-
-
 
 
 ---

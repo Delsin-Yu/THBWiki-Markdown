@@ -1,6 +1,6 @@
 # 文件:Blooming_Story封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f6\ns6%3ABlooming_Story%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f6\ns6%3ABlooming_Story%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Moonlight_Magic | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Moonlight_Magic | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Blooming Story](./Blooming_Story.md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)
-
-
-
+- [Blooming Story](./Blooming_Story.md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:TEAM_AMULETbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\11\ns6%3ATEAM_AMULETbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\11\ns6%3ATEAM_AMULETbanner%2Ejpg.html -->
 
 TEAM_AMULET | 社团LOGO
-
-
-
-
 
 
 ---

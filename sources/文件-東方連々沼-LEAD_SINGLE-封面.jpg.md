@@ -1,6 +1,6 @@
 # 文件:東方連々沼-LEAD_SINGLE-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2e\ns6%3A%E6%9D%B1%E6%96%B9%E9%80%A3%E3%80%85%E6%B2%BC-LEAD_SINGLE-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2e\ns6%3A%E6%9D%B1%E6%96%B9%E9%80%A3%E3%80%85%E6%B2%BC-LEAD_SINGLE-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Abyss-Swamp | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Abyss-Swamp | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方連々沼-LEAD SINGLE-](./東方連々沼-LEAD_SINGLE-.md)  
-该封面包含的角色：- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
-
-
-
+- [東方連々沼-LEAD SINGLE-](./東方連々沼-LEAD_SINGLE-.md)该封面包含的角色：
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
 
 
 ---

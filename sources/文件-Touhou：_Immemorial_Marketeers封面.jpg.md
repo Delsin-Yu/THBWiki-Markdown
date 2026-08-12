@@ -1,6 +1,6 @@
 # 文件:Touhou：_Immemorial_Marketeers封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1a\ns6%3ATouhou%EF%BC%9A_Immemorial_Marketeers%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1a\ns6%3ATouhou%EF%BC%9A_Immemorial_Marketeers%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 YaboiMatoi | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ YaboiMatoi | 专辑封面 | 封面图片
   
 
 - [Touhou： Immemorial Marketeers](./Touhou：_Immemorial_Marketeers.md)
-
-
-
 
 
 ---

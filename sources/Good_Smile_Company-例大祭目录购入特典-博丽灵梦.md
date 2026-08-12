@@ -1,37 +1,21 @@
 # Good_Smile_Company/例大祭目录购入特典/博丽灵梦
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\0b\ns0%3AGood_Smile_Company%2F%E4%BE%8B%E5%A4%A7%E7%A5%AD%E7%9B%AE%E5%BD%95%E8%B4%AD%E5%85%A5%E7%89%B9%E5%85%B8%2F%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\0b\ns0%3AGood_Smile_Company%2F%E4%BE%8B%E5%A4%A7%E7%A5%AD%E7%9B%AE%E5%BD%95%E8%B4%AD%E5%85%A5%E7%89%B9%E5%85%B8%2F%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6.html -->
 
 博丽灵梦PVCFigure手办模型
 
 本页是关于东方Project  
- **相关实体周边 (未找到链接)** 的词条
-
+**相关实体周边 (未找到链接)**的词条
 ## 模型信息
 
-<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 博丽灵梦 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>例大祭目录购入特典</td></tr><tr><td class="label">角色</td><td><a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></td></tr><tr><td class="label">原型师</td><td><a href="/index.php?title=%E3%81%AD%E3%82%93%E3%81%A9%E3%82%8D%E3%82%93&amp;action=edit&amp;redlink=1" class="new" title="ねんどろん（页面不存在）">ねんどろん</a></td></tr><tr><td class="label">尺寸</td><td>65mm</td></tr><tr><td class="label">状态</td><td>已发售</td></tr><tr><td class="label">售价</td><td>1890日元</td></tr><tr><td class="label">首发日期</td><td>2010-02</td></tr><tr><td class="label">发售方</td><td><a href="./Good_Smile_Company.md" title="Good Smile Company">Good Smile Company</a></td></tr><tr><td class="label">备注</td><td>Gift网络商店贩售</td></tr></tbody></table>
+<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 博丽灵梦 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>例大祭目录购入特典</td></tr><tr><td class="label">角色</td><td><a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></td></tr><tr><td class="label">原型师</td><td><a class="new" title="ねんどろん（页面不存在）">ねんどろん</a></td></tr><tr><td class="label">尺寸</td><td>65mm</td></tr><tr><td class="label">状态</td><td>已发售</td></tr><tr><td class="label">售价</td><td>1890日元</td></tr><tr><td class="label">首发日期</td><td>2010-02</td></tr><tr><td class="label">发售方</td><td><a href="./Good_Smile_Company.md" title="Good Smile Company">Good Smile Company</a></td></tr><tr><td class="label">备注</td><td>Gift网络商店贩售</td></tr></tbody></table>
 
 Good Smile Company/例大祭目录购入特典/博丽灵梦（周边） - 博丽灵梦PVCFigure手办模型
-
 ## 参考图片
-
-
-
-[](./文件-Good_Smile_Company例大祭目录购入特典博丽灵梦-1.jpg.md)
-
-
-[](./文件-Good_Smile_Company例大祭目录购入特典博丽灵梦-2.jpg.md)
-
-
-[](./文件-Good_Smile_Company例大祭目录购入特典博丽灵梦-3.jpg.md)
-
+<img alt="Good Smile Company例大祭目录购入特典博丽灵梦" src="https://upload.thwiki.cc/thumb/d/d8/Good_Smile_Company%E4%BE%8B%E5%A4%A7%E7%A5%AD%E7%9B%AE%E5%BD%95%E8%B4%AD%E5%85%A5%E7%89%B9%E5%85%B8%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6-1.jpg/160px-Good_Smile_Company%E4%BE%8B%E5%A4%A7%E7%A5%AD%E7%9B%AE%E5%BD%95%E8%B4%AD%E5%85%A5%E7%89%B9%E5%85%B8%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6-1.jpg" decoding="async" loading="lazy" width="160" height="160" srcset="https://upload.thwiki.cc/thumb/d/d8/Good_Smile_Company%E4%BE%8B%E5%A4%A7%E7%A5%AD%E7%9B%AE%E5%BD%95%E8%B4%AD%E5%85%A5%E7%89%B9%E5%85%B8%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6-1.jpg/240px-Good_Smile_Company%E4%BE%8B%E5%A4%A7%E7%A5%AD%E7%9B%AE%E5%BD%95%E8%B4%AD%E5%85%A5%E7%89%B9%E5%85%B8%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6-1.jpg 1.5x, https://upload.thwiki.cc/thumb/d/d8/Good_Smile_Company%E4%BE%8B%E5%A4%A7%E7%A5%AD%E7%9B%AE%E5%BD%95%E8%B4%AD%E5%85%A5%E7%89%B9%E5%85%B8%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6-1.jpg/320px-Good_Smile_Company%E4%BE%8B%E5%A4%A7%E7%A5%AD%E7%9B%AE%E5%BD%95%E8%B4%AD%E5%85%A5%E7%89%B9%E5%85%B8%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6-1.jpg 2x" data-file-width="640" data-file-height="640">
+<img alt="Good Smile Company例大祭目录购入特典博丽灵梦" src="https://upload.thwiki.cc/thumb/4/48/Good_Smile_Company%E4%BE%8B%E5%A4%A7%E7%A5%AD%E7%9B%AE%E5%BD%95%E8%B4%AD%E5%85%A5%E7%89%B9%E5%85%B8%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6-2.jpg/160px-Good_Smile_Company%E4%BE%8B%E5%A4%A7%E7%A5%AD%E7%9B%AE%E5%BD%95%E8%B4%AD%E5%85%A5%E7%89%B9%E5%85%B8%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6-2.jpg" decoding="async" loading="lazy" width="160" height="160" srcset="https://upload.thwiki.cc/thumb/4/48/Good_Smile_Company%E4%BE%8B%E5%A4%A7%E7%A5%AD%E7%9B%AE%E5%BD%95%E8%B4%AD%E5%85%A5%E7%89%B9%E5%85%B8%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6-2.jpg/240px-Good_Smile_Company%E4%BE%8B%E5%A4%A7%E7%A5%AD%E7%9B%AE%E5%BD%95%E8%B4%AD%E5%85%A5%E7%89%B9%E5%85%B8%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6-2.jpg 1.5x, https://upload.thwiki.cc/thumb/4/48/Good_Smile_Company%E4%BE%8B%E5%A4%A7%E7%A5%AD%E7%9B%AE%E5%BD%95%E8%B4%AD%E5%85%A5%E7%89%B9%E5%85%B8%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6-2.jpg/320px-Good_Smile_Company%E4%BE%8B%E5%A4%A7%E7%A5%AD%E7%9B%AE%E5%BD%95%E8%B4%AD%E5%85%A5%E7%89%B9%E5%85%B8%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6-2.jpg 2x" data-file-width="640" data-file-height="640">
+<img alt="Good Smile Company例大祭目录购入特典博丽灵梦" src="https://upload.thwiki.cc/thumb/2/2c/Good_Smile_Company%E4%BE%8B%E5%A4%A7%E7%A5%AD%E7%9B%AE%E5%BD%95%E8%B4%AD%E5%85%A5%E7%89%B9%E5%85%B8%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6-3.jpg/160px-Good_Smile_Company%E4%BE%8B%E5%A4%A7%E7%A5%AD%E7%9B%AE%E5%BD%95%E8%B4%AD%E5%85%A5%E7%89%B9%E5%85%B8%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6-3.jpg" decoding="async" loading="lazy" width="160" height="160" srcset="https://upload.thwiki.cc/thumb/2/2c/Good_Smile_Company%E4%BE%8B%E5%A4%A7%E7%A5%AD%E7%9B%AE%E5%BD%95%E8%B4%AD%E5%85%A5%E7%89%B9%E5%85%B8%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6-3.jpg/240px-Good_Smile_Company%E4%BE%8B%E5%A4%A7%E7%A5%AD%E7%9B%AE%E5%BD%95%E8%B4%AD%E5%85%A5%E7%89%B9%E5%85%B8%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6-3.jpg 1.5x, https://upload.thwiki.cc/thumb/2/2c/Good_Smile_Company%E4%BE%8B%E5%A4%A7%E7%A5%AD%E7%9B%AE%E5%BD%95%E8%B4%AD%E5%85%A5%E7%89%B9%E5%85%B8%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6-3.jpg/320px-Good_Smile_Company%E4%BE%8B%E5%A4%A7%E7%A5%AD%E7%9B%AE%E5%BD%95%E8%B4%AD%E5%85%A5%E7%89%B9%E5%85%B8%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6-3.jpg 2x" data-file-width="640" data-file-height="640">
 公式图
-
-
-
-
-
-
 
 ---
 

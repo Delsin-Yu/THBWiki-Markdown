@@ -1,6 +1,6 @@
 # 文件:Meme_in_Wonderland.EP封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0a\ns6%3AMeme_in_Wonderland%2EEP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0a\ns6%3AMeme_in_Wonderland%2EEP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Meme_in_Wonderland. | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ Meme_in_Wonderland. | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Meme in Wonderland.EP](./Meme_in_Wonderland.EP.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)- [莉莉霍瓦特](./莉莉霍瓦特.md)
-
-
-
+- [Meme in Wonderland.EP](./Meme_in_Wonderland.EP.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
+- [莉莉霍瓦特](./莉莉霍瓦特.md)
 
 
 ---

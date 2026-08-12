@@ -1,16 +1,12 @@
 # 模板:BW
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\d\db\ns10%3ABW.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\d\db\ns10%3ABW.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

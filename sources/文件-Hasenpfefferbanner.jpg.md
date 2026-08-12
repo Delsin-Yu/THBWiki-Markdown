@@ -1,16 +1,11 @@
 # 文件:Hasenpfefferbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1f\ns6%3AHasenpfefferbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1f\ns6%3AHasenpfefferbanner%2Ejpg.html -->
 
 Hasenpfeffer | 社团LOGO
 
   
-源地址：[[1]](http://music.geocities.jp/hasenpfeffer_3/usagi.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://music.geocities.jp/hasenpfeffer_3/usagi.jpg)  
 
 ---
 

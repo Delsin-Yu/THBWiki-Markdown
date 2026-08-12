@@ -1,6 +1,6 @@
 # 文件:Flowering_Love_e.p.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1b\ns6%3AFlowering_Love_e%2Ep%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1b\ns6%3AFlowering_Love_e%2Ep%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 モノクロ殺人現場写真 | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Flowering Love e.p.](./Flowering_Love_e.p..md)  
-该封面包含的角色：- [风见幽香](./风见幽香.md)
-
-
-
+- [Flowering Love e.p.](./Flowering_Love_e.p..md)该封面包含的角色：
+- [风见幽香](./风见幽香.md)
 
 
 ---

@@ -1,16 +1,12 @@
 # 模板:PFTOHO
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\9\9f\ns10%3APFTOHO.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\9\9f\ns10%3APFTOHO.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

@@ -1,16 +1,12 @@
 # 模板:暴乱night
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\b\bb\ns10%3A%E6%9A%B4%E4%B9%B1night.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\b\bb\ns10%3A%E6%9A%B4%E4%B9%B1night.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

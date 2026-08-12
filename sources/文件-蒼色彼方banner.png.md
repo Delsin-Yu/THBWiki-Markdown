@@ -1,12 +1,8 @@
 # 文件:蒼色彼方banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\35\ns6%3A%E8%92%BC%E8%89%B2%E5%BD%BC%E6%96%B9banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\35\ns6%3A%E8%92%BC%E8%89%B2%E5%BD%BC%E6%96%B9banner%2Epng.html -->
 
 社团LOGO | 蒼色彼方
-
-
-
-
 
 
 ---

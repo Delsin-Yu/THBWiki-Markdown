@@ -1,6 +1,6 @@
 # 文件:幻想★あ·ら·もーど_IV封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\63\ns6%3A%E5%B9%BB%E6%83%B3%E2%98%85%E3%81%82%C2%B7%E3%82%89%C2%B7%E3%82%82%E3%83%BC%E3%81%A9_IV%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\63\ns6%3A%E5%B9%BB%E6%83%B3%E2%98%85%E3%81%82%C2%B7%E3%82%89%C2%B7%E3%82%82%E3%83%BC%E3%81%A9_IV%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 SOUND_HOLIC | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ SOUND_HOLIC | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [幻想★あ·ら·もーど IV](./幻想★あ·ら·もーど_IV.md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)- [古明地恋](./古明地恋.md)
-
-
-
+- [幻想★あ·ら·もーど IV](./幻想★あ·ら·もーど_IV.md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
+- [古明地恋](./古明地恋.md)
 
 
 ---

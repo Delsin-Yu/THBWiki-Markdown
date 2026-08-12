@@ -1,6 +1,6 @@
 # 文件:ｆｆｆ_~first_fantastic_festival~封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1a\ns6%3A%EF%BD%86%EF%BD%86%EF%BD%86_%7Efirst_fantastic_festival%7E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1a\ns6%3A%EF%BD%86%EF%BD%86%EF%BD%86_%7Efirst_fantastic_festival%7E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Rana_et_Tettra | 专辑封面 | 封面图片
 
@@ -8,11 +8,10 @@ Rana_et_Tettra | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [ｆｆｆ ~first fantastic festival~](./ｆｆｆ_~first_fantastic_festival~.md)  
-该封面包含的角色：- [露娜萨·普莉兹姆利巴](./露娜萨·普莉兹姆利巴.md)- [梅露兰·普莉兹姆利巴](./梅露兰·普莉兹姆利巴.md)- [莉莉卡·普莉兹姆利巴](./莉莉卡·普莉兹姆利巴.md)
-
-
-
+- [ｆｆｆ ~first fantastic festival~](./ｆｆｆ_~first_fantastic_festival~.md)该封面包含的角色：
+- [露娜萨·普莉兹姆利巴](./露娜萨·普莉兹姆利巴.md)
+- [梅露兰·普莉兹姆利巴](./梅露兰·普莉兹姆利巴.md)
+- [莉莉卡·普莉兹姆利巴](./莉莉卡·普莉兹姆利巴.md)
 
 
 ---

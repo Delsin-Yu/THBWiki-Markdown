@@ -1,12 +1,8 @@
 # 文件:奇术「Eternal_Meek」（绯想天）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a2\ns6%3A%E5%A5%87%E6%9C%AF%E3%80%8CEternal_Meek%E3%80%8D%EF%BC%88%E7%BB%AF%E6%83%B3%E5%A4%A9%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a2\ns6%3A%E5%A5%87%E6%9C%AF%E3%80%8CEternal_Meek%E3%80%8D%EF%BC%88%E7%BB%AF%E6%83%B3%E5%A4%A9%EF%BC%89%2Epng.html -->
 
 东方绯想天 | 十六夜咲夜 | 自机符卡
-
-
-
-
 
 
 ---

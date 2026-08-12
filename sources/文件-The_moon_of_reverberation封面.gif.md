@@ -1,6 +1,6 @@
 # 文件:The_moon_of_reverberation封面.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d9\ns6%3AThe_moon_of_reverberation%E5%B0%81%E9%9D%A2%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d9\ns6%3AThe_moon_of_reverberation%E5%B0%81%E9%9D%A2%2Egif.html -->
 
 KPDrecords | 专辑封面 | 封面图片
 
@@ -11,12 +11,8 @@ KPDrecords | 专辑封面 | 封面图片
 - [The moon of reverberation](./The_moon_of_reverberation.md)
 
   
-源地址：[[1]](http://file.kpdrecords.blog.shinobi.jp/1489aa1cgif) ([Image linked from here](http://kpdrecords.blog.shinobi.jp/日常/おわっ。))
+源地址：[\[1\]](http://file.kpdrecords.blog.shinobi.jp/1489aa1cgif) ([Image linked from here](http://kpdrecords.blog.shinobi.jp/日常/おわっ。))
   
-
-
-
-
 
 ---
 

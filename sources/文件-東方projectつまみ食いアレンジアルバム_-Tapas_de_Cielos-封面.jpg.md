@@ -1,6 +1,6 @@
 # 文件:東方projectつまみ食いアレンジアルバム_-Tapas_de_Cielos-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5a\ns6%3A%E6%9D%B1%E6%96%B9project%E3%81%A4%E3%81%BE%E3%81%BF%E9%A3%9F%E3%81%84%E3%82%A2%E3%83%AC%E3%83%B3%E3%82%B8%E3%82%A2%E3%83%AB%E3%83%90%E3%83%A0_-Tapas_de_Cielos-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5a\ns6%3A%E6%9D%B1%E6%96%B9project%E3%81%A4%E3%81%BE%E3%81%BF%E9%A3%9F%E3%81%84%E3%82%A2%E3%83%AC%E3%83%B3%E3%82%B8%E3%82%A2%E3%83%AB%E3%83%90%E3%83%A0_-Tapas_de_Cielos-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 うんちく商事 | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@
   
 
 - [東方projectつまみ食いアレンジアルバム -Tapas de Cielos-](./東方projectつまみ食いアレンジアルバム_-Tapas_de_Cielos-.md)
-
-
-
 
 
 ---

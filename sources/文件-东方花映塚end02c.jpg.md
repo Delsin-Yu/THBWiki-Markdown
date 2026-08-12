@@ -1,12 +1,8 @@
 # 文件:东方花映塚end02c.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\33\ns6%3A%E4%B8%9C%E6%96%B9%E8%8A%B1%E6%98%A0%E5%A1%9Aend02c%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\33\ns6%3A%E4%B8%9C%E6%96%B9%E8%8A%B1%E6%98%A0%E5%A1%9Aend02c%2Ejpg.html -->
 
 东方花映塚结局图
-
-
-
-
 
 
 ---

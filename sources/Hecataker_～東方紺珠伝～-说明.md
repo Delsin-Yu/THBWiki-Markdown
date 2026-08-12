@@ -1,6 +1,6 @@
 # Hecataker_～東方紺珠伝～/说明
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\e\ec\ns0%3AHecataker_%EF%BD%9E%E6%9D%B1%E6%96%B9%E7%B4%BA%E7%8F%A0%E4%BC%9D%EF%BD%9E%2F%E8%AF%B4%E6%98%8E.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\e\ec\ns0%3AHecataker_%EF%BD%9E%E6%9D%B1%E6%96%B9%E7%B4%BA%E7%8F%A0%E4%BC%9D%EF%BD%9E%2F%E8%AF%B4%E6%98%8E.html -->
 
 ルナティック少年院
 
@@ -14,7 +14,6 @@
 ・如需删除时删除整个文件夹即可
   
 
-
 ### 游戏进行的方式
   
 ・操作键盘移动少女并到达指定位置  
@@ -23,10 +22,6 @@
 
 ・可以跳过puzzles（右键单击或Esc）
   
-
-
-
-
 
 ---
 

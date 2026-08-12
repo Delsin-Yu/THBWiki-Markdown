@@ -1,14 +1,11 @@
 # 文件:東部開拓地banner2.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0c\ns6%3A%E6%9D%B1%E9%83%A8%E9%96%8B%E6%8B%93%E5%9C%B0banner2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0c\ns6%3A%E6%9D%B1%E9%83%A8%E9%96%8B%E6%8B%93%E5%9C%B0banner2%2Ejpg.html -->
 
 東部開拓地 | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

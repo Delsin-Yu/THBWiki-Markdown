@@ -1,6 +1,6 @@
 # 文件:MineCraft幻想乡-愚人节公告图片.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\19\ns6%3AMineCraft%E5%B9%BB%E6%83%B3%E4%B9%A1-%E6%84%9A%E4%BA%BA%E8%8A%82%E5%85%AC%E5%91%8A%E5%9B%BE%E7%89%87%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\19\ns6%3AMineCraft%E5%B9%BB%E6%83%B3%E4%B9%A1-%E6%84%9A%E4%BA%BA%E8%8A%82%E5%85%AC%E5%91%8A%E5%9B%BE%E7%89%87%2Ejpg.html -->
 
 MineCraft幻想乡
 
@@ -9,10 +9,6 @@ MineCraft幻想乡
   
 角色：萌澄果、豪德寺三花
   
-
-
-
-
 
 ---
 

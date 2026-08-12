@@ -1,6 +1,6 @@
 # 文件:Medicine_Melancholy_-Music_VIDEO-_buy_me!!!封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c7\ns6%3AMedicine_Melancholy_-Music_VIDEO-_buy_me%21%21%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c7\ns6%3AMedicine_Melancholy_-Music_VIDEO-_buy_me%21%21%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 BACK_foot | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@ BACK_foot | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Medicine Melancholy -Music VIDEO- buy me!!!](./Medicine_Melancholy_-Music_VIDEO-_buy_me!!!.md)  
-该封面包含的角色：- [梅蒂欣·梅兰可莉](./梅蒂欣·梅兰可莉.md)
+- [Medicine Melancholy -Music VIDEO- buy me!!!](./Medicine_Melancholy_-Music_VIDEO-_buy_me!!!.md)该封面包含的角色：
+- [梅蒂欣·梅兰可莉](./梅蒂欣·梅兰可莉.md)
 
   
-源地址：[direct image link (original size)](https://booth.pximg.net/a7d914ca-ed56-46a4-9d70-2bc7c9aa70a8/i/4544325/63f34fc7-dde7-4864-9dff-985abf6c65af.jpg), [source page (circle Booth)](https://dqnww.booth.pm/items/4544325)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://booth.pximg.net/a7d914ca-ed56-46a4-9d70-2bc7c9aa70a8/i/4544325/63f34fc7-dde7-4864-9dff-985abf6c65af.jpg), [source page (circle Booth)](https://dqnww.booth.pm/items/4544325)  
 
 ---
 

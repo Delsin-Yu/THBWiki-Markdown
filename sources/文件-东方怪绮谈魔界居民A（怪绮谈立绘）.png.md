@@ -1,12 +1,8 @@
 # 文件:东方怪绮谈魔界居民A（怪绮谈立绘）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\48\ns6%3A%E4%B8%9C%E6%96%B9%E6%80%AA%E7%BB%AE%E8%B0%88%E9%AD%94%E7%95%8C%E5%B1%85%E6%B0%91A%EF%BC%88%E6%80%AA%E7%BB%AE%E8%B0%88%E7%AB%8B%E7%BB%98%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\48\ns6%3A%E4%B8%9C%E6%96%B9%E6%80%AA%E7%BB%AE%E8%B0%88%E9%AD%94%E7%95%8C%E5%B1%85%E6%B0%91A%EF%BC%88%E6%80%AA%E7%BB%AE%E8%B0%88%E7%AB%8B%E7%BB%98%EF%BC%89%2Epng.html -->
 
 东方怪绮谈
-
-
-
-
 
 
 ---

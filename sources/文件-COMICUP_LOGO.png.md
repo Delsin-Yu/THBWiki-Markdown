@@ -1,12 +1,8 @@
 # 文件:COMICUP_LOGO.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\90\ns6%3ACOMICUP_LOGO%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\90\ns6%3ACOMICUP_LOGO%2Epng.html -->
 
 COMICUP | 活动LOGO
-
-
-
-
 
 
 ---

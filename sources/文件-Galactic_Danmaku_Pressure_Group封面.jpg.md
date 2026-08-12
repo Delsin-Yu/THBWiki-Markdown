@@ -1,6 +1,6 @@
 # 文件:Galactic_Danmaku_Pressure_Group封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c1\ns6%3AGalactic_Danmaku_Pressure_Group%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c1\ns6%3AGalactic_Danmaku_Pressure_Group%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 予報士`94 | 封面图片
 
@@ -13,12 +13,7 @@
 - [Galactic Danmaku Pressure Group](./Galactic_Danmaku_Pressure_Group.md)
 
   
-源地址：[direct image link (10 size)](https://f4.bcbits.com/img/a1097030349_10.jpg), [source page (artist Bandcamp)](https://torash.bandcamp.com/album/galactic-danmaku-pressure-group)
-  
-
-
-
-
+源地址：[direct image link (10 size)](https://f4.bcbits.com/img/a1097030349_10.jpg), [source page (artist Bandcamp)](https://torash.bandcamp.com/album/galactic-danmaku-pressure-group)  
 
 ---
 

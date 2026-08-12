@@ -1,6 +1,6 @@
 # 文件:空と大地を翔る巫女_～Starland_Harmonies～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5c\ns6%3A%E7%A9%BA%E3%81%A8%E5%A4%A7%E5%9C%B0%E3%82%92%E7%BF%94%E3%82%8B%E5%B7%AB%E5%A5%B3_%EF%BD%9EStarland_Harmonies%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5c\ns6%3A%E7%A9%BA%E3%81%A8%E5%A4%A7%E5%9C%B0%E3%82%92%E7%BF%94%E3%82%8B%E5%B7%AB%E5%A5%B3_%EF%BD%9EStarland_Harmonies%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 华绢花 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [空と大地を翔る巫女 ～Starland Harmonies～](./空と大地を翔る巫女_～Starland_Harmonies～.md)  
-该封面包含的角色：- [东风谷早苗](./东风谷早苗.md)
-
-
-
+- [空と大地を翔る巫女 ～Starland Harmonies～](./空と大地を翔る巫女_～Starland_Harmonies～.md)该封面包含的角色：
+- [东风谷早苗](./东风谷早苗.md)
 
 
 ---

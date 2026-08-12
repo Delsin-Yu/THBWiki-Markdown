@@ -1,12 +1,8 @@
 # 文件:THD2白玉楼的扇子.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\39\ns6%3ATHD2%E7%99%BD%E7%8E%89%E6%A5%BC%E7%9A%84%E6%89%87%E5%AD%90%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\39\ns6%3ATHD2%E7%99%BD%E7%8E%89%E6%A5%BC%E7%9A%84%E6%89%87%E5%AD%90%2Epng.html -->
 
 东方DOTS玩家社群
-
-
-
-
 
 
 ---

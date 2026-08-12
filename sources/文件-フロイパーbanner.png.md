@@ -1,12 +1,8 @@
 # 文件:フロイパーbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d2\ns6%3A%E3%83%95%E3%83%AD%E3%82%A4%E3%83%91%E3%83%BCbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d2\ns6%3A%E3%83%95%E3%83%AD%E3%82%A4%E3%83%91%E3%83%BCbanner%2Epng.html -->
 
 フロイパー | 社团LOGO
-
-
-
-
 
 
 ---

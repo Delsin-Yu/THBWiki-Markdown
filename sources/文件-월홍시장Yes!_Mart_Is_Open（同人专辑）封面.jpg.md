@@ -1,6 +1,6 @@
 # 文件:월홍시장Yes!_Mart_Is_Open（同人专辑）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\50\ns6%3A%EC%9B%94%ED%99%8D%EC%8B%9C%EC%9E%A5Yes%21_Mart_Is_Open%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\50\ns6%3A%EC%9B%94%ED%99%8D%EC%8B%9C%EC%9E%A5Yes%21_Mart_Is_Open%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 월홍시장Yes!_Mart_Is_Open
 
@@ -13,12 +13,7 @@
 - [월홍시장Yes! Mart Is Open（同人专辑）](./월홍시장Yes!_Mart_Is_Open（同人专辑）.md)
 
   
-源地址：[direct image link (10 size)](https://f4.bcbits.com/img/a1403448169_10.jpg), [source page (artist Bandcamp)](https://torash.bandcamp.com/album/yes-mart-is-open)
-  
-
-
-
-
+源地址：[direct image link (10 size)](https://f4.bcbits.com/img/a1403448169_10.jpg), [source page (artist Bandcamp)](https://torash.bandcamp.com/album/yes-mart-is-open)  
 
 ---
 

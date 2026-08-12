@@ -1,12 +1,8 @@
 # 文件:鹰符「Ill-Starred_Dive」（永夜抄）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\43\ns6%3A%E9%B9%B0%E7%AC%A6%E3%80%8CIll-Starred_Dive%E3%80%8D%EF%BC%88%E6%B0%B8%E5%A4%9C%E6%8A%84%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\43\ns6%3A%E9%B9%B0%E7%AC%A6%E3%80%8CIll-Starred_Dive%E3%80%8D%EF%BC%88%E6%B0%B8%E5%A4%9C%E6%8A%84%EF%BC%89%2Epng.html -->
 
 东方永夜抄 | 敌机符卡 | 米斯蒂娅·萝蕾拉
-
-
-
-
 
 
 ---

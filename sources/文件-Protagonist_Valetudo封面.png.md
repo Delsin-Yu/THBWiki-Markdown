@@ -1,6 +1,6 @@
 # 文件:Protagonist_Valetudo封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\56\ns6%3AProtagonist_Valetudo%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\56\ns6%3AProtagonist_Valetudo%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Eastern_Old_Fashion | カナタノート | 专辑封面 | 封面图片 | 着席無言
 
@@ -8,11 +8,11 @@ Eastern_Old_Fashion | カナタノート | 专辑封面 | 封面图片 | 着席�
 使用了本文件作封面图片的作品：
   
 
-- [Protagonist Valetudo](./Protagonist_Valetudo.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [魂魄妖梦](./魂魄妖梦.md)- [东风谷早苗](./东风谷早苗.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [Protagonist Valetudo](./Protagonist_Valetudo.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [魂魄妖梦](./魂魄妖梦.md)
+- [东风谷早苗](./东风谷早苗.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

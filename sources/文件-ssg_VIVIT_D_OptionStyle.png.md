@@ -1,16 +1,12 @@
 # 文件:ssg_VIVIT_D_OptionStyle.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e7\ns6%3Assg_VIVIT_D_OptionStyle%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e7\ns6%3Assg_VIVIT_D_OptionStyle%2Epng.html -->
 
 秋霜玉
 
   
 《秋霜玉》疑似取消的机体的子机。
   
-
-
-
-
 
 ---
 

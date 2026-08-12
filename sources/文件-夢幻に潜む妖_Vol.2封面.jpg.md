@@ -1,6 +1,6 @@
 # 文件:夢幻に潜む妖_Vol.2封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9e\ns6%3A%E5%A4%A2%E5%B9%BB%E3%81%AB%E6%BD%9C%E3%82%80%E5%A6%96_Vol%2E2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9e\ns6%3A%E5%A4%A2%E5%B9%BB%E3%81%AB%E6%BD%9C%E3%82%80%E5%A6%96_Vol%2E2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Extra_Turbo | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Extra_Turbo | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [夢幻に潜む妖 Vol.2](./夢幻に潜む妖_Vol.2.md)  
-该封面包含的角色：- [艾丽](./艾丽.md)
-
-
-
+- [夢幻に潜む妖 Vol.2](./夢幻に潜む妖_Vol.2.md)该封面包含的角色：
+- [艾丽](./艾丽.md)
 
 
 ---

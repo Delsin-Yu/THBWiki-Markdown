@@ -1,12 +1,8 @@
 # 文件:THBWiki临时捐款微信二维码.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\86\ns6%3ATHBWiki%E4%B8%B4%E6%97%B6%E6%8D%90%E6%AC%BE%E5%BE%AE%E4%BF%A1%E4%BA%8C%E7%BB%B4%E7%A0%81%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\86\ns6%3ATHBWiki%E4%B8%B4%E6%97%B6%E6%8D%90%E6%AC%BE%E5%BE%AE%E4%BF%A1%E4%BA%8C%E7%BB%B4%E7%A0%81%2Epng.html -->
 
 THBWiki
-
-
-
-
 
 
 ---

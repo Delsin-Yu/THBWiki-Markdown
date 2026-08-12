@@ -1,6 +1,6 @@
 # 文件:G.S.I.(完全版)封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d0\ns6%3AG%2ES%2EI%2E%28%E5%AE%8C%E5%85%A8%E7%89%88%29%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d0\ns6%3AG%2ES%2EI%2E%28%E5%AE%8C%E5%85%A8%E7%89%88%29%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 フレキシ | 同人志封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [G.S.I.(完全版)](./G.S.I.(完全版).md)  
-该封面包含的角色：- [村纱水蜜](./村纱水蜜.md)
-
-
-
+- [G.S.I.(完全版)](./G.S.I.(完全版%29.md)该封面包含的角色：
+- [村纱水蜜](./村纱水蜜.md)
 
 
 ---

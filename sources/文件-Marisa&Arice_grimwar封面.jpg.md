@@ -1,6 +1,6 @@
 # 文件:Marisa&Arice_grimwar封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\07\ns6%3AMarisa%26Arice_grimwar%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\07\ns6%3AMarisa%26Arice_grimwar%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 gomarusk | 同人志封面 | 封面图片
 
@@ -10,16 +10,12 @@ gomarusk | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Marisa&amp;Arice grimwar](./Marisa&Arice_grimwar.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [雾雨魔理沙](./雾雨魔理沙.md)
+- [Marisa&Arice grimwar](./Marisa&Arice_grimwar.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-源地址：[direct image link](https://www.suruga-ya.jp/database/pics_light/game/zhore170470.jpg), [suruga-ya ID: ZHORE170470](https://www.suruga-ya.jp/product/detail/ZHORE170470)
-  
-
-
-
-
+源地址：[direct image link](https://www.suruga-ya.jp/database/pics_light/game/zhore170470.jpg), [suruga-ya ID: ZHORE170470](https://www.suruga-ya.jp/product/detail/ZHORE170470)  
 
 ---
 

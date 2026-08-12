@@ -1,12 +1,8 @@
 # 文件:悪魔嬢レミリアX封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a3\ns6%3A%E6%82%AA%E9%AD%94%E5%AC%A2%E3%83%AC%E3%83%9F%E3%83%AA%E3%82%A2X%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a3\ns6%3A%E6%82%AA%E9%AD%94%E5%AC%A2%E3%83%AC%E3%83%9F%E3%83%AA%E3%82%A2X%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 garbanzo | 专辑封面 | 封面图片
-
-
-
-
 
 
 ---

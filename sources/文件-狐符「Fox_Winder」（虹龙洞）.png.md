@@ -1,14 +1,11 @@
 # 文件:狐符「Fox_Winder」（虹龙洞）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b0\ns6%3A%E7%8B%90%E7%AC%A6%E3%80%8CFox_Winder%E3%80%8D%EF%BC%88%E8%99%B9%E9%BE%99%E6%B4%9E%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b0\ns6%3A%E7%8B%90%E7%AC%A6%E3%80%8CFox_Winder%E3%80%8D%EF%BC%88%E8%99%B9%E9%BE%99%E6%B4%9E%EF%BC%89%2Epng.html -->
 
 东方虹龙洞 | 敌机符卡 | 菅牧典
 
 
 ## 文件说明
-
-
-
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:GIRL_und_PANZER_～せんしゃむすめとみるゆめ～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e1\ns6%3AGIRL_und_PANZER_%EF%BD%9E%E3%81%9B%E3%82%93%E3%81%97%E3%82%83%E3%82%80%E3%81%99%E3%82%81%E3%81%A8%E3%81%BF%E3%82%8B%E3%82%86%E3%82%81%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e1\ns6%3AGIRL_und_PANZER_%EF%BD%9E%E3%81%9B%E3%82%93%E3%81%97%E3%82%83%E3%82%80%E3%81%99%E3%82%81%E3%81%A8%E3%81%BF%E3%82%8B%E3%82%86%E3%82%81%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 東方隔離郷
 
@@ -9,9 +9,6 @@
   
 
 - [GIRL und PANZER ～せんしゃむすめとみるゆめ～](./GIRL_und_PANZER_～せんしゃむすめとみるゆめ～.md)
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Strange_Architecture封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c6\ns6%3AStrange_Architecture%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c6\ns6%3AStrange_Architecture%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Amplified_Sound | 专辑封面 | 封面图片
 
@@ -8,16 +8,12 @@ Amplified_Sound | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Strange Architecture](./Strange_Architecture.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
+- [Strange Architecture](./Strange_Architecture.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
   
-源地址：[[1]](https://static.wixstatic.com/media/a3448c_a8686d4968004e6f88430ae70877c95f~mv2_d_1667_1645_s_2.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://static.wixstatic.com/media/a3448c_a8686d4968004e6f88430ae70877c95f~mv2_d_1667_1645_s_2.jpg)  
 
 ---
 

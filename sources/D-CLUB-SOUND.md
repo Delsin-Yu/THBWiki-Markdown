@@ -1,52 +1,38 @@
 # D-CLUB-SOUND
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\8\81\ns0%3AD-CLUB-SOUND.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\8\81\ns0%3AD-CLUB-SOUND.html -->
 
 D-CLUB-SOUND ，主要制作 同人音乐 的日本同人社团，主催是 蒼ダイ，当前状态为 休止
 
-本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
-
+本页是关于**[同人社团](./二次创作.md#同人社团)**的词条
 ## 目录
 
 - [1 社团信息](#社团信息)
 - [2 成员名单](#成员名单)
 - [3 作品列表](#作品列表)
-
   - [3.1 同人专辑](#同人专辑)
-
 
 
 - [4 参展信息](#参展信息)
 
 
-
-
-
 ## 社团信息
 
-<table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> D-CLUB-SOUND </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=%E8%92%BC%E3%83%80%E3%82%A4&amp;action=edit&amp;redlink=1" class="new" title="蒼ダイ（页面不存在）">蒼ダイ</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://aoblog152.blog123.fc2.com/">http://aoblog152.blog123.fc2.com/</a> </td></tr></tbody></table>
+<table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> D-CLUB-SOUND </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>主催</b></td><td> <a class="new" title="蒼ダイ（页面不存在）">蒼ダイ</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://aoblog152.blog123.fc2.com/">http://aoblog152.blog123.fc2.com/</a> </td></tr></tbody></table>
 
 D-CLUB-SOUND（同人社团，同人音乐社团） - D-CLUB-SOUND ，主要制作 同人音乐 的日本同人社团，主催是 蒼ダイ，当前状态为 休止
-
 ## 成员名单
+
 - 蒼ダイ (未找到链接)
 
 : [Mixi ID: 4512496](http://mixi.jp/show_friend.pl?id=4512496), [Twitter: @aodai60](https://twitter.com/aodai60) （已经失效）
 
-
 ## 作品列表
 
 ### 同人专辑
-[](./Ｔ１００１－ｂｄ.md)[T1001-bd](./Ｔ１００１－ｂｄ.md)首发日期：2011-02-13 （東方北陸祭 第二弾 (未找到链接)）全长 （一般向）
-<table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
-</table>
-
-
+- **[T1001-bd](./Ｔ１００１－ｂｄ.md)** — 首发日期：2011-02-13 （東方北陸祭 第二弾）；全长 （一般向）
 
 ## 参展信息
-
-
-
 
 ---
 

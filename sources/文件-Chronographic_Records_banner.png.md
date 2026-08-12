@@ -1,16 +1,12 @@
 # 文件:Chronographic_Records_banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a2\ns6%3AChronographic_Records_banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a2\ns6%3AChronographic_Records_banner%2Epng.html -->
 
 Chronographic_Records | 社团LOGO
 
   
 Chronographic Records社团的banner
   
-
-
-
-
 
 ---
 

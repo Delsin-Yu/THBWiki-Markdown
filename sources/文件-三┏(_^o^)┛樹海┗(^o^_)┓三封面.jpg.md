@@ -1,6 +1,6 @@
 # 文件:三┏(_^o^)┛樹海┗(^o^_)┓三封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\72\ns6%3A%E4%B8%89%E2%94%8F%28_%5Eo%5E%29%E2%94%9B%E6%A8%B9%E6%B5%B7%E2%94%97%28%5Eo%5E_%29%E2%94%93%E4%B8%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\72\ns6%3A%E4%B8%89%E2%94%8F%28_%5Eo%5E%29%E2%94%9B%E6%A8%B9%E6%B5%B7%E2%94%97%28%5Eo%5E_%29%E2%94%93%E4%B8%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 As／Hi_Soundworks | 专辑封面 | 封面图片
 
@@ -8,16 +8,13 @@ As／Hi_Soundworks | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [三┏( ^o^)┛樹海┗(^o^ )┓三](./三┏(_^o^)┛樹海┗(^o^_)┓三.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [雾雨魔理沙](./雾雨魔理沙.md)- [克劳恩皮丝](./克劳恩皮丝.md)
+- [三┏( ^o^)┛樹海┗(^o^ )┓三](./三┏(_^o^%29┛樹海┗(^o^_%29┓三.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
+- [克劳恩皮丝](./克劳恩皮丝.md)
 
   
-源地址：[[1]](http://static.tumblr.com/c7bdf1d7ca33486cb2428a4ec7aa60ec/0ahxako/uKEnzeiov/tumblr_static_c08fs1xzchs0s0g8g8ocgw80w.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://static.tumblr.com/c7bdf1d7ca33486cb2428a4ec7aa60ec/0ahxako/uKEnzeiov/tumblr_static_c08fs1xzchs0s0g8g8ocgw80w.jpg)  
 
 ---
 

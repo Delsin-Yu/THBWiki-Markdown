@@ -1,14 +1,11 @@
 # 文件:The_Grimoire_of_Usami（坂田合欢1）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\82\ns6%3AThe_Grimoire_of_Usami%EF%BC%88%E5%9D%82%E7%94%B0%E5%90%88%E6%AC%A21%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\82\ns6%3AThe_Grimoire_of_Usami%EF%BC%88%E5%9D%82%E7%94%B0%E5%90%88%E6%AC%A21%EF%BC%89%2Ejpg.html -->
 
 坂田合欢 | 宇佐见的魔法书
 
 
 ## 摘要
-
-
-
 
 ---
 

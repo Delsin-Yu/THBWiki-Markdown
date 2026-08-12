@@ -1,12 +1,8 @@
 # 文件:PXPbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5b\ns6%3APXPbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5b\ns6%3APXPbanner%2Epng.html -->
 
 PXP | 社团LOGO
-
-
-
-
 
 
 ---

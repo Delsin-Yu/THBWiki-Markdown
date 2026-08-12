@@ -1,12 +1,8 @@
 # 文件:こん茶banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4d\ns6%3A%E3%81%93%E3%82%93%E8%8C%B6banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4d\ns6%3A%E3%81%93%E3%82%93%E8%8C%B6banner%2Ejpg.html -->
 
 こん茶 | 社团LOGO
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:耀_-Astronomy-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c5\ns6%3A%E8%80%80_-Astronomy-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c5\ns6%3A%E8%80%80_-Astronomy-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 IbEthics | Pastel_World | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ IbEthics | Pastel_World | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [耀 -Astronomy-](./耀_-Astronomy-.md)  
-该封面包含的角色：- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [耀 -Astronomy-](./耀_-Astronomy-.md)该封面包含的角色：
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

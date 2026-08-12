@@ -1,6 +1,6 @@
 # 文件:FAR_EAST_JOURNEYS封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d6\ns6%3AFAR_EAST_JOURNEYS%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d6\ns6%3AFAR_EAST_JOURNEYS%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 マッカチン企画 | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [FAR EAST JOURNEYS](./FAR_EAST_JOURNEYS.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
-
-
-
+- [FAR EAST JOURNEYS](./FAR_EAST_JOURNEYS.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
 
 
 ---

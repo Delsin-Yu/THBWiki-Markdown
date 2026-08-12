@@ -1,16 +1,12 @@
 # 模板:AN
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\f\fb\ns10%3AAN.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\f\fb\ns10%3AAN.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

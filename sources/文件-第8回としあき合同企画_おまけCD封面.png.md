@@ -1,6 +1,6 @@
 # 文件:第8回としあき合同企画_おまけCD封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\de\ns6%3A%E7%AC%AC8%E5%9B%9E%E3%81%A8%E3%81%97%E3%81%82%E3%81%8D%E5%90%88%E5%90%8C%E4%BC%81%E7%94%BB_%E3%81%8A%E3%81%BE%E3%81%91CD%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\de\ns6%3A%E7%AC%AC8%E5%9B%9E%E3%81%A8%E3%81%97%E3%81%82%E3%81%8D%E5%90%88%E5%90%8C%E4%BC%81%E7%94%BB_%E3%81%8A%E3%81%BE%E3%81%91CD%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 心輝楼
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [第8回としあき合同企画 おまけCD](./第8回としあき合同企画_おまけCD.md)  
-该封面包含的角色：- [依神女苑](./依神女苑.md)- [依神紫苑](./依神紫苑.md)
-
-
-
+- [第8回としあき合同企画 おまけCD](./第8回としあき合同企画_おまけCD.md)该封面包含的角色：
+- [依神女苑](./依神女苑.md)
+- [依神紫苑](./依神紫苑.md)
 
 
 ---

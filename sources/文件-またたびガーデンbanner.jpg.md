@@ -1,18 +1,13 @@
 # 文件:またたびガーデンbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\50\ns6%3A%E3%81%BE%E3%81%9F%E3%81%9F%E3%81%B3%E3%82%AC%E3%83%BC%E3%83%87%E3%83%B3banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\50\ns6%3A%E3%81%BE%E3%81%9F%E3%81%9F%E3%81%B3%E3%82%AC%E3%83%BC%E3%83%87%E3%83%B3banner%2Ejpg.html -->
 
 またたびガーデン | 社团LOGO
 
 
 ## 摘要
   
-源地址：[direct image link (original size)](https://image.jimcdn.com/app/cms/image/transf/none/path/s364d8b9d8f7ec696/image/ica4f5f0a3b795643/version/1408898712/image.jpg), [source page](https://mt-tb.jimdofree.com/)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://image.jimcdn.com/app/cms/image/transf/none/path/s364d8b9d8f7ec696/image/ica4f5f0a3b795643/version/1408898712/image.jpg), [source page](https://mt-tb.jimdofree.com/)  
 
 ---
 

@@ -1,14 +1,11 @@
 # 文件:豫母都日狭美（兽王园立绘）sp.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f3\ns6%3A%E8%B1%AB%E6%AF%8D%E9%83%BD%E6%97%A5%E7%8B%AD%E7%BE%8E%EF%BC%88%E5%85%BD%E7%8E%8B%E5%9B%AD%E7%AB%8B%E7%BB%98%EF%BC%89sp%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f3\ns6%3A%E8%B1%AB%E6%AF%8D%E9%83%BD%E6%97%A5%E7%8B%AD%E7%BE%8E%EF%BC%88%E5%85%BD%E7%8E%8B%E5%9B%AD%E7%AB%8B%E7%BB%98%EF%BC%89sp%2Epng.html -->
 
 ZUN绘 | 东方兽王园 | 官方游戏立绘 | 豫母都日狭美
 
 
 ## 摘要
-
-
-
 
 ---
 

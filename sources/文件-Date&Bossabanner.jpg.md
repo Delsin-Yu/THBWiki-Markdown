@@ -1,12 +1,8 @@
 # 文件:Date&Bossabanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9a\ns6%3ADate%26Bossabanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9a\ns6%3ADate%26Bossabanner%2Ejpg.html -->
 
 Date&Bossa | 社团LOGO
-
-
-
-
 
 
 ---

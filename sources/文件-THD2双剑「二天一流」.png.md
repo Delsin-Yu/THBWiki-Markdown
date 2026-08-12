@@ -1,12 +1,8 @@
 # 文件:THD2双剑「二天一流」.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\39\ns6%3ATHD2%E5%8F%8C%E5%89%91%E3%80%8C%E4%BA%8C%E5%A4%A9%E4%B8%80%E6%B5%81%E3%80%8D%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\39\ns6%3ATHD2%E5%8F%8C%E5%89%91%E3%80%8C%E4%BA%8C%E5%A4%A9%E4%B8%80%E6%B5%81%E3%80%8D%2Epng.html -->
 
 东方DOTS玩家社群
-
-
-
-
 
 
 ---

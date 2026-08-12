@@ -1,6 +1,6 @@
 # 文件:はるいろPetal封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dc\ns6%3A%E3%81%AF%E3%82%8B%E3%81%84%E3%82%8DPetal%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dc\ns6%3A%E3%81%AF%E3%82%8B%E3%81%84%E3%82%8DPetal%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Astronauts | 同人志封面 | 封面图片
 
@@ -10,16 +10,12 @@ Astronauts | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [はるいろPetal](./はるいろPetal.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [雾雨魔理沙](./雾雨魔理沙.md)
+- [はるいろPetal](./はるいろPetal.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-[Pixiv artwork ID: 88282296](https://www.pixiv.net/artworks/88282296)
-  
-
-
-
-
+[Pixiv artwork ID: 88282296](https://www.pixiv.net/artworks/88282296)  
 
 ---
 

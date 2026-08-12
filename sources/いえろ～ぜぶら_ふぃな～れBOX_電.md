@@ -1,12 +1,11 @@
 # いえろ～ぜぶら_ふぃな～れBOX_電
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\8\84\ns0%3A%E3%81%84%E3%81%88%E3%82%8D%EF%BD%9E%E3%81%9C%E3%81%B6%E3%82%89_%E3%81%B5%E3%81%83%E3%81%AA%EF%BD%9E%E3%82%8CBOX_%E9%9B%BB.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\8\84\ns0%3A%E3%81%84%E3%81%88%E3%82%8D%EF%BD%9E%E3%81%9C%E3%81%B6%E3%82%89_%E3%81%B5%E3%81%83%E3%81%AA%EF%BD%9E%E3%82%8CBOX_%E9%9B%BB.html -->
 
 2016年11月30日 由 いえろ～ぜぶら  发布的精选集同人专辑，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人专辑 (未找到链接)** 的词条
-
+**[二次创作同人专辑](./二次创作.md#同人音乐)**的词条
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-いえろ～ぜぶら_ふぃな～れBOX_電封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/a/a0/%E3%81%84%E3%81%88%E3%82%8D%EF%BD%9E%E3%81%9C%E3%81%B6%E3%82%89_%E3%81%B5%E3%81%83%E3%81%AA%EF%BD%9E%E3%82%8CBOX_%E9%9B%BB%E5%B0%81%E9%9D%A2.jpg/252px-%E3%81%84%E3%81%88%E3%82%8D%EF%BD%9E%E3%81%9C%E3%81%B6%E3%82%89_%E3%81%B5%E3%81%83%E3%81%AA%EF%BD%9E%E3%82%8CBOX_%E9%9B%BB%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="252" height="252" srcset="https://upload.thwiki.cc/thumb/a/a0/%E3%81%84%E3%81%88%E3%82%8D%EF%BD%9E%E3%81%9C%E3%81%B6%E3%82%89_%E3%81%B5%E3%81%83%E3%81%AA%EF%BD%9E%E3%82%8CBOX_%E9%9B%BB%E5%B0%81%E9%9D%A2.jpg/378px-%E3%81%84%E3%81%88%E3%82%8D%EF%BD%9E%E3%81%9C%E3%81%B6%E3%82%89_%E3%81%B5%E3%81%83%E3%81%AA%EF%BD%9E%E3%82%8CBOX_%E9%9B%BB%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/a/a0/%E3%81%84%E3%81%88%E3%82%8D%EF%BD%9E%E3%81%9C%E3%81%B6%E3%82%89_%E3%81%B5%E3%81%83%E3%81%AA%EF%BD%9E%E3%82%8CBOX_%E9%9B%BB%E5%B0%81%E9%9D%A2.jpg/504px-%E3%81%84%E3%81%88%E3%82%8D%EF%BD%9E%E3%81%9C%E3%81%B6%E3%82%89_%E3%81%B5%E3%81%83%E3%81%AA%EF%BD%9E%E3%82%8CBOX_%E9%9B%BB%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="900" data-file-height="900"></a><div class="cover-char">角色：<a href="./稗田阿求.md" title="稗田阿求">稗田阿求</a></div></td>
@@ -14,9 +13,7 @@
 </tr><tr><td class="label">首发日期</td><td>2016-11-30</td></tr><tr><td class="label">类型</td><td>精选集</td></tr><tr><td class="label">编号</td><td>YZFB-0003</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>0</td></tr><tr><td class="label">音轨数</td><td>0</td></tr><tr><td class="label">总时长</td><td>00:00</td></tr><tr><td class="label">售价</td><td>通贩售价：3200日元</td></tr></tbody></table>
 
 いえろ～ぜぶら ふぃな～れBOX 電（同人专辑，いえろ～ぜぶら，2016） - 2016年11月30日 由 いえろ～ぜぶら  发布的精选集同人专辑，分级为 一般向
-
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="http://www.akibaoo.com/c/item/2500020408063/">Akibaoo</a></td></tr></tbody></table>
-
 
 
 ## Staff
@@ -25,12 +22,10 @@ Design
 Illustration
 : 画师 （[网址 社团]）
 
-
 ## 试听
   
 暂不支援此类型
   
-
 
 ## 曲目列表
 
@@ -85,9 +80,6 @@ Illustration
 
 
 ## 评论
-
-
-
 
 ---
 

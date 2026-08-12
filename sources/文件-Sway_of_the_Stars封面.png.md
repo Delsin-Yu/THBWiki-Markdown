@@ -1,6 +1,6 @@
 # 文件:Sway_of_the_Stars封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b4\ns6%3ASway_of_the_Stars%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b4\ns6%3ASway_of_the_Stars%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Forest306 | ジャージと愉快な仲間たち | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Forest306 | ジャージと愉快な仲間たち | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Sway of the Stars](./Sway_of_the_Stars.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
-
-
-
+- [Sway of the Stars](./Sway_of_the_Stars.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
 
 ---

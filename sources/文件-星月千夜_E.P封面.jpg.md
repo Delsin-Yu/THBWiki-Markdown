@@ -1,6 +1,6 @@
 # 文件:星月千夜_E.P封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\07\ns6%3A%E6%98%9F%E6%9C%88%E5%8D%83%E5%A4%9C_E%2EP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\07\ns6%3A%E6%98%9F%E6%9C%88%E5%8D%83%E5%A4%9C_E%2EP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Lunatico_fEs | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ Lunatico_fEs | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [星月千夜 E.P](./星月千夜_E.P.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [星月千夜 E.P](./星月千夜_E.P.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

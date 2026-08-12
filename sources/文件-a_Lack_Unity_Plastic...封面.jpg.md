@@ -1,6 +1,6 @@
 # 文件:a_Lack_Unity_Plastic...封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ac\ns6%3Aa_Lack_Unity_Plastic%2E%2E%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ac\ns6%3Aa_Lack_Unity_Plastic%2E%2E%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Unity-Gain | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Unity-Gain | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [a Lack Unity Plastic...](./a_Lack_Unity_Plastic....md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [a Lack Unity Plastic...](./a_Lack_Unity_Plastic....md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
   
-源地址：[[1]](http://kakeruichi.mydns.jp/event/UTGN-0004/utgn-0004_jacket.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://kakeruichi.mydns.jp/event/UTGN-0004/utgn-0004_jacket.jpg)  
 
 ---
 

@@ -1,12 +1,8 @@
 # 文件:未完童話banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3f\ns6%3A%E6%9C%AA%E5%AE%8C%E7%AB%A5%E8%A9%B1banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3f\ns6%3A%E6%9C%AA%E5%AE%8C%E7%AB%A5%E8%A9%B1banner%2Ejpg.html -->
 
 未完童話 | 社团LOGO
-
-
-
-
 
 
 ---

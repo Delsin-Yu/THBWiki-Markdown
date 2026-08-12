@@ -1,43 +1,33 @@
 # 魔法阵_～_Magic_Square
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\23\ns0%3A%E9%AD%94%E6%B3%95%E9%98%B5_%EF%BD%9E_Magic_Square.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\23\ns0%3A%E9%AD%94%E6%B3%95%E9%98%B5_%EF%BD%9E_Magic_Square.html -->
 
 由 ZUN 创作的官方曲目，原名 魔法陣　～ Magic Square
 
 本页是关于东方Project  
- **原作音乐** 的词条
-
+**原作音乐**的词条
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 出现作品](#出现作品)
 - [3 音乐文件](#音乐文件)
-
   - [3.1 东方怪绮谈](#东方怪绮谈)
   - [3.2 东方幻想怀古曲](#东方幻想怀古曲)
   - [3.3 幺乐团的历史 vol.2](#幺乐团的历史_vol.2)
 
 
-
 - [4 说明文本](#说明文本)
-
   - [4.1 东方怪绮谈](#东方怪绮谈_2)
   - [4.2 东方幻想怀古曲](#东方幻想怀古曲_2)
 
 
-
 - [5 其他资料](#其他资料)
-
   - [5.1 乐理资讯](#乐理资讯)
   - [5.2 分析考据](#分析考据)
   - [5.3 二次同人数据](#二次同人数据)
 
 
-
 - [6 注释](#注释)
-
-
-
 
 
 ## 基本信息
@@ -45,15 +35,13 @@
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">魔法陣　～ Magic Square</td></tr><tr><td><b>译名</b></td><td>魔法阵 ～ Magic Square</td></tr><tr><td><b>英文译名</b></td><td>Magic Square</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 魔法阵 ～ Magic Square（曲目） - 由 ZUN 创作的官方曲目，原名 魔法陣　～ Magic Square
-
 ## 出现作品
 
 <table>
 <tbody><tr><td>1998年12月30日（Comic Market 55）</td><td><b><a href="./东方怪绮谈.md" title="东方怪绮谈">东方怪绮谈</a></b></td><td>1面BOSS<a href="./萨拉.md" title="萨拉">萨拉</a>的主题曲</td><td style="padding-left:5px;">魔法陣　～ Magic Square（魔法阵 ～ Magic Square）</td><td style="padding-left:10px;">作曲：ZUN</td></tr>
 <tr><td>2000年10月18日（非展会）</td><td><b><a href="./东方幻想怀古曲.md" title="东方幻想怀古曲">东方幻想怀古曲</a></b></td><td>东方怪绮谈</td><td style="padding-left:5px;">魔法陣　～ Magic Square（魔法阵 ～ Magic Square）</td><td style="padding-left:10px;">作曲：ZUN</td></tr>
-<tr><td>2006年12月31日（Comic Market 71）</td><td><b><a href="./幺乐团的历史_vol.2.md" class="mw-redirect" title="幺乐团的历史 vol.2">幺乐团的历史 vol.2</a></b></td><td>第3轨</td><td style="padding-left:5px;">魔法陣　～ Magic Square（魔法阵 ～ Magic Square）</td><td style="padding-left:10px;">编曲：ZUN</td></tr>
+<tr><td>2006年12月31日（Comic Market 71）</td><td><b><a href="./幺乐团的历史2.md" class="mw-redirect" title="幺乐团的历史 vol.2">幺乐团的历史 vol.2</a></b></td><td>第3轨</td><td style="padding-left:5px;">魔法陣　～ Magic Square（魔法阵 ～ Magic Square）</td><td style="padding-left:10px;">编曲：ZUN</td></tr>
 </tbody></table>
-
 
 
 ## 音乐文件
@@ -63,17 +51,13 @@
 YM2203(OPN)，FM26K音源版。
   
 
-
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th05_03_26.ogg.md" title="文件:th05 03 26.ogg">th05_03_26.ogg</a><br><audio src="https://upload.thwiki.cc/0/07/th05_03_26.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>ST00B.M</td></tr><tr><td><b>音轨时长</b></td><td>2:05.373</td></tr></tbody></table>
-
 
   
 YM2608(OPNA)，FM86音源版。
   
 
-
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th05_03_86.ogg.md" title="文件:th05 03 86.ogg">th05_03_86.ogg</a><br><audio src="https://upload.thwiki.cc/c/c8/th05_03_86.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>ST00B.M2</td></tr><tr><td><b>音轨时长</b></td><td>2:05.373</td></tr></tbody></table>
-
 
 
 ### 东方幻想怀古曲
@@ -81,17 +65,16 @@ YM2608(OPNA)，FM86音源版。
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-thgs05_03.ogg.md" title="文件:thgs05 03.ogg">thgs05_03.ogg</a><br><audio src="https://upload.thwiki.cc/5/50/thgs05_03.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>th5_03.M</td></tr><tr><td><b>音轨时长</b></td><td>2:05.373</td></tr></tbody></table>
 
 
-
 ### 幺乐团的历史 vol.2
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-ha02_03.mp3.md" title="文件:ha02 03.mp3">ha02_03.mp3</a><br><audio src="https://upload.thwiki.cc/c/c8/ha02_03.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track03.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>2:32</td></tr></tbody></table>
 
 
-
 ## 说明文本
 
 ### 东方怪绮谈
-- Music Room (未找到链接)
+
+- [Music Room](./东方怪绮谈-Music.md#1面BOSS萨拉角色曲)
 
 　　　　　　萨拉的主题曲  
 　这首音乐确立了本作BGM的整体印象。  
@@ -103,9 +86,9 @@ YM2608(OPNA)，FM86音源版。
 ＺＵＮ（太田）  
 怪绮谈的曲子  
 这个还差很多。
-
 ### 东方幻想怀古曲
-- th5_03pmd.txt (未找到链接)
+
+- [th5_03pmd.txt](./东方幻想怀古曲-东方怪绮谈.md#魔法阵_～_Magic_Square)
 
 +----------------------------------------------------------------------------+  
 |【 　 曲名　　】| 【 魔法阵　～ Magic Square 】（原版）  
@@ -139,20 +122,19 @@ YM2608(OPNA)，FM86音源版。
 曲子的感想、请求等，这边请  
 　东方幻想空间　「博丽神社」 [http://www16.big.or.jp/~zun/](http://www16.big.or.jp/~zun/)  
 　e-Mail　　　　　　　　　　 zun@big.or.jp
-
 ## 其他资料
 
 ### 乐理资讯
 
 ### 分析考据
   
- **魔法陣　～ Magic Square** 
-  
+**魔法陣 ～ Magic Square**  
 魔法阵 ～ Magic Square
   
 
-- 魔法阵
+- 魔法阵 
   - 萨拉守护的是魔界之门
+
 
 
 
@@ -168,18 +150,6 @@ YM2608(OPNA)，FM86音源版。
 <tr><td>Arrange</td><td>13</td></tr>
 <tr><td>Vocal率</td><td>31.58%</td></tr>
 </tbody></table>
-
-
-
-
-
-  
-  
-
-  
-
-
-
 
 
 ---

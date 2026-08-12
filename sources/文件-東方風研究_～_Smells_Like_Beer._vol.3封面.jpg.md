@@ -1,6 +1,6 @@
 # 文件:東方風研究_～_Smells_Like_Beer._vol.3封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\99\ns6%3A%E6%9D%B1%E6%96%B9%E9%A2%A8%E7%A0%94%E7%A9%B6_%EF%BD%9E_Smells_Like_Beer%2E_vol%2E3%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\99\ns6%3A%E6%9D%B1%E6%96%B9%E9%A2%A8%E7%A0%94%E7%A9%B6_%EF%BD%9E_Smells_Like_Beer%2E_vol%2E3%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 いちごパプリカ | 专辑封面 | 封面图片
 
@@ -10,11 +10,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方風研究 ～ Smells Like Beer. vol.3](./東方風研究_～_Smells_Like_Beer._vol.3.md)  
-该封面包含的角色：- [河城荷取](./河城荷取.md)- リレイ·ナハトファルタ一 (未找到链接)- 此濑榕花 (未找到链接)
-
-
-
+- [東方風研究 ～ Smells Like Beer. vol.3](./東方風研究_～_Smells_Like_Beer._vol.3.md)该封面包含的角色：
+- [河城荷取](./河城荷取.md)
+- リレイ·ナハトファルタ一 (未找到链接)
+- 此濑榕花 (未找到链接)
 
 
 ---

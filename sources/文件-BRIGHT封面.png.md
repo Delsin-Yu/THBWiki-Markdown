@@ -1,6 +1,6 @@
 # 文件:BRIGHT封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f8\ns6%3ABRIGHT%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f8\ns6%3ABRIGHT%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 全角入力 | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [BRIGHT](./BRIGHT.md)  
-该封面包含的角色：- [少名针妙丸](./少名针妙丸.md)
+- [BRIGHT](./BRIGHT.md)该封面包含的角色：
+- [少名针妙丸](./少名针妙丸.md)
 
   
-源地址：[Booth](https://booth.pximg.net/15cca44b-044a-4860-a26e-26db9ef543f7/i/5255559/bb8a3296-8adc-4b74-b059-838f755b1a0b.png)
-  
-
-
-
-
+源地址：[Booth](https://booth.pximg.net/15cca44b-044a-4860-a26e-26db9ef543f7/i/5255559/bb8a3296-8adc-4b74-b059-838f755b1a0b.png)  
 
 ---
 

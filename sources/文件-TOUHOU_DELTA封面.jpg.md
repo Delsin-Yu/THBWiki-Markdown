@@ -1,6 +1,6 @@
 # 文件:TOUHOU_DELTA封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f5\ns6%3ATOUHOU_DELTA%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f5\ns6%3ATOUHOU_DELTA%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Project_CASC | 专辑封面 | 封面图片
 
@@ -8,12 +8,9 @@ Project_CASC | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [TOUHOU DELTA](./TOUHOU_DELTA.md)  
-该封面包含的角色：- [八云紫](./八云紫.md)源地址：[[1]](https://static.wixstatic.com/media/526073_d4fd7b3485e941809dd3985df4f241c5~mv2_d_1984_1984_s_2.jpg)
-
-
-
-
+- [TOUHOU DELTA](./TOUHOU_DELTA.md)该封面包含的角色：
+- [八云紫](./八云紫.md)
+源地址：[\[1\]](https://static.wixstatic.com/media/526073_d4fd7b3485e941809dd3985df4f241c5~mv2_d_1984_1984_s_2.jpg)
 
 ---
 

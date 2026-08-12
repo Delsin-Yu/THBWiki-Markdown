@@ -1,6 +1,6 @@
 # 文件:Toho_Electro_Musix_vol.2封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\07\ns6%3AToho_Electro_Musix_vol%2E2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\07\ns6%3AToho_Electro_Musix_vol%2E2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Entrance_Floor | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ Entrance_Floor | 专辑封面 | 封面图片
   
 
 - [Toho Electro Musix vol.2](./Toho_Electro_Musix_vol.2.md)
-
-
-
 
 
 ---

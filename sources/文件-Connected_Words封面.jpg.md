@@ -1,6 +1,6 @@
 # 文件:Connected_Words封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\89\ns6%3AConnected_Words%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\89\ns6%3AConnected_Words%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 C9 | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ C9 | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Connected Words](./Connected_Words.md)  
-该封面包含的角色：- [圣白莲](./圣白莲.md)
-
-
-
+- [Connected Words](./Connected_Words.md)该封面包含的角色：
+- [圣白莲](./圣白莲.md)
 
 
 ---

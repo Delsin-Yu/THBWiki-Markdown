@@ -1,6 +1,6 @@
 # 文件:TH_WANT_YOU封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\24\ns6%3ATH_WANT_YOU%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\24\ns6%3ATH_WANT_YOU%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 异象聚合
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [TH WANT YOU](./TH_WANT_YOU.md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)- [姬海棠果](./姬海棠果.md)
-
-
-
+- [TH WANT YOU](./TH_WANT_YOU.md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
+- [姬海棠果](./姬海棠果.md)
 
 
 ---

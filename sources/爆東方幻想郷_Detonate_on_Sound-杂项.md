@@ -1,6 +1,6 @@
 # 爆東方幻想郷_Detonate_on_Sound/杂项
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\24\ns0%3A%E7%88%86%E6%9D%B1%E6%96%B9%E5%B9%BB%E6%83%B3%E9%83%B7_Detonate_on_Sound%2F%E6%9D%82%E9%A1%B9.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\24\ns0%3A%E7%88%86%E6%9D%B1%E6%96%B9%E5%B9%BB%E6%83%B3%E9%83%B7_Detonate_on_Sound%2F%E6%9D%82%E9%A1%B9.html -->
 
 @N-Factory
 
@@ -34,12 +34,7 @@
 2010年7月21日 发布补丁Ver1.24  
 
 2010年8月17日 发布补丁Ver1.25  
-
   
-
-
-
-
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:Hello_New_Lights封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d2\ns6%3AHello_New_Lights%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d2\ns6%3AHello_New_Lights%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 クロックタイムアナグラム | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Hello New Lights](./Hello_New_Lights.md)  
-该封面包含的角色：- [圣白莲](./圣白莲.md)
+- [Hello New Lights](./Hello_New_Lights.md)该封面包含的角色：
+- [圣白莲](./圣白莲.md)
 
   
-源地址：[[1]](https://pbs.twimg.com/media/EibuOAlVoAACxJD?format=jpg&amp;name=orig)
-  
-
-
-
-
+源地址：[\[1\]](https://pbs.twimg.com/media/EibuOAlVoAACxJD?format=jpg&name=orig)  
 
 ---
 

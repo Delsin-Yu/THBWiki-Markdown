@@ -1,12 +1,8 @@
 # 文件:C.H.S_banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d6\ns6%3AC%2EH%2ES_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d6\ns6%3AC%2EH%2ES_banner%2Ejpg.html -->
 
 C.H.S | 社团LOGO
-
-
-
-
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:「最接近天堂的赛钱」（天邪鬼GR）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\aa\ns6%3A%E3%80%8C%E6%9C%80%E6%8E%A5%E8%BF%91%E5%A4%A9%E5%A0%82%E7%9A%84%E8%B5%9B%E9%92%B1%E3%80%8D%EF%BC%88%E5%A4%A9%E9%82%AA%E9%AC%BCGR%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\aa\ns6%3A%E3%80%8C%E6%9C%80%E6%8E%A5%E8%BF%91%E5%A4%A9%E5%A0%82%E7%9A%84%E8%B5%9B%E9%92%B1%E3%80%8D%EF%BC%88%E5%A4%A9%E9%82%AA%E9%AC%BCGR%EF%BC%89%2Ejpg.html -->
 
 博丽灵梦 | 弹幕天邪鬼 | 敌机符卡
-
-
-
-
 
 
 ---

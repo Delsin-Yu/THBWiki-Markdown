@@ -1,14 +1,11 @@
 # 文件:协力技「Fairy_Overdrive」（大战争）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f0\ns6%3A%E5%8D%8F%E5%8A%9B%E6%8A%80%E3%80%8CFairy_Overdrive%E3%80%8D%EF%BC%88%E5%A4%A7%E6%88%98%E4%BA%89%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f0\ns6%3A%E5%8D%8F%E5%8A%9B%E6%8A%80%E3%80%8CFairy_Overdrive%E3%80%8D%EF%BC%88%E5%A4%A7%E6%88%98%E4%BA%89%EF%BC%89%2Epng.html -->
 
 妖精大战争 | 敌机符卡 | 斯塔萨菲雅 | 桑尼米尔克 | 露娜切露德
 
 
 ## 文件说明
-
-
-
 
 ---
 

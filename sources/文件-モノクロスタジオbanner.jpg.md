@@ -1,16 +1,11 @@
 # 文件:モノクロスタジオbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e1\ns6%3A%E3%83%A2%E3%83%8E%E3%82%AF%E3%83%AD%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AAbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e1\ns6%3A%E3%83%A2%E3%83%8E%E3%82%AF%E3%83%AD%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AAbanner%2Ejpg.html -->
 
 モノクロスタジオ | 社团LOGO
 
   
-源地址：[[1]](http://monostudio.xxxxxxxx.jp/banner.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://monostudio.xxxxxxxx.jp/banner.jpg)  
 
 ---
 

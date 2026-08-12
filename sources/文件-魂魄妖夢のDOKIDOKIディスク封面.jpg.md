@@ -1,6 +1,6 @@
 # 文件:魂魄妖夢のDOKIDOKIディスク封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5f\ns6%3A%E9%AD%82%E9%AD%84%E5%A6%96%E5%A4%A2%E3%81%AEDOKIDOKI%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5f\ns6%3A%E9%AD%82%E9%AD%84%E5%A6%96%E5%A4%A2%E3%81%AEDOKIDOKI%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 アールグレイ | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [魂魄妖夢のDOKIDOKIディスク](./魂魄妖夢のDOKIDOKIディスク.md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)
-
-
-
+- [魂魄妖夢のDOKIDOKIディスク](./魂魄妖夢のDOKIDOKIディスク.md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
 
 
 ---

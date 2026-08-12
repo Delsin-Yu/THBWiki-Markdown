@@ -1,6 +1,6 @@
 # 文件:ZUN在炫耀自己家东西的时候放的BGM封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2e\ns6%3AZUN%E5%9C%A8%E7%82%AB%E8%80%80%E8%87%AA%E5%B7%B1%E5%AE%B6%E4%B8%9C%E8%A5%BF%E7%9A%84%E6%97%B6%E5%80%99%E6%94%BE%E7%9A%84BGM%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2e\ns6%3AZUN%E5%9C%A8%E7%82%AB%E8%80%80%E8%87%AA%E5%B7%B1%E5%AE%B6%E4%B8%9C%E8%A5%BF%E7%9A%84%E6%97%B6%E5%80%99%E6%94%BE%E7%9A%84BGM%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Electric_Ginger | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Electric_Ginger | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [ZUN在炫耀自己家东西的时候放的BGM](./ZUN在炫耀自己家东西的时候放的BGM.md)  
-该封面包含的角色：- [ZUN](./ZUN.md)
-
-
-
+- [ZUN在炫耀自己家东西的时候放的BGM](./ZUN在炫耀自己家东西的时候放的BGM.md)该封面包含的角色：
+- [ZUN](./ZUN.md)
 
 
 ---

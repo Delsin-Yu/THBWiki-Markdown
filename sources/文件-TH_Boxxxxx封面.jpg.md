@@ -1,6 +1,6 @@
 # 文件:TH_Boxxxxx封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\57\ns6%3ATH_Boxxxxx%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\57\ns6%3ATH_Boxxxxx%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ClumsyRecord | 专辑封面 | 封面图片
 
@@ -10,11 +10,17 @@ ClumsyRecord | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [TH Boxxxxx](./TH_Boxxxxx.md)  
-该封面包含的角色：- [宇佐见莲子](./宇佐见莲子.md)- [琪露诺](./琪露诺.md)- [博丽灵梦](./博丽灵梦.md)- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [伊吹萃香](./伊吹萃香.md)- [东风谷早苗](./东风谷早苗.md)- [赫卡提亚·拉碧斯拉祖利](./赫卡提亚·拉碧斯拉祖利.md)- [高丽野阿吽](./高丽野阿吽.md)- [埴安神袿姬](./埴安神袿姬.md)
-
-
-
+- [TH Boxxxxx](./TH_Boxxxxx.md)该封面包含的角色：
+- [宇佐见莲子](./宇佐见莲子.md)
+- [琪露诺](./琪露诺.md)
+- [博丽灵梦](./博丽灵梦.md)
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [伊吹萃香](./伊吹萃香.md)
+- [东风谷早苗](./东风谷早苗.md)
+- [赫卡提亚·拉碧斯拉祖利](./赫卡提亚·拉碧斯拉祖利.md)
+- [高丽野阿吽](./高丽野阿吽.md)
+- [埴安神袿姬](./埴安神袿姬.md)
 
 
 ---

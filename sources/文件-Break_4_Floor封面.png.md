@@ -1,6 +1,6 @@
 # 文件:Break_4_Floor封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\24\ns6%3ABreak_4_Floor%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\24\ns6%3ABreak_4_Floor%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Innocence_Records | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Innocence_Records | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Break 4 Floor](./Break_4_Floor.md)  
-该封面包含的角色：- [蓬莱山辉夜](./蓬莱山辉夜.md)
-
-
-
+- [Break 4 Floor](./Break_4_Floor.md)该封面包含的角色：
+- [蓬莱山辉夜](./蓬莱山辉夜.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:水流輪廻_～_Aqua_tour封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\20\ns6%3A%E6%B0%B4%E6%B5%81%E8%BC%AA%E5%BB%BB_%EF%BD%9E_Aqua_tour%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\20\ns6%3A%E6%B0%B4%E6%B5%81%E8%BC%AA%E5%BB%BB_%EF%BD%9E_Aqua_tour%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 吊るし処 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [水流輪廻 ～ Aqua tour](./水流輪廻_～_Aqua_tour.md)  
-该封面包含的角色：- [八坂神奈子](./八坂神奈子.md)
-
-
-
+- [水流輪廻 ～ Aqua tour](./水流輪廻_～_Aqua_tour.md)该封面包含的角色：
+- [八坂神奈子](./八坂神奈子.md)
 
 
 ---

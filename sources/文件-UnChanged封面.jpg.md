@@ -1,6 +1,6 @@
 # 文件:UnChanged封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cf\ns6%3AUnChanged%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cf\ns6%3AUnChanged%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 EdelSounds | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ EdelSounds | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [UnChanged](./UnChanged.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [UnChanged](./UnChanged.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

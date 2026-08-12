@@ -1,6 +1,6 @@
 # 文件:GOODBYE_MRS.HUMBUCKER_E.P封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c7\ns6%3AGOODBYE_MRS%2EHUMBUCKER_E%2EP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c7\ns6%3AGOODBYE_MRS%2EHUMBUCKER_E%2EP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 THOUSAND_LEAVES | 专辑封面 | 封面图片
 
@@ -13,12 +13,7 @@ THOUSAND_LEAVES | 专辑封面 | 封面图片
 - [GOODBYE MRS.HUMBUCKER E.P](./GOODBYE_MRS.HUMBUCKER_E.P.md)
 
   
-源地址：[direct image link](https://en.touhouwiki.net/images/6/66/TIBA006half.jpg), [source page (en Touhou wiki)](https://en.touhouwiki.net/wiki/File:TIBA006half.jpg)
-  
-
-
-
-
+源地址：[direct image link](https://en.touhouwiki.net/images/6/66/TIBA006half.jpg), [source page (en Touhou wiki)](https://en.touhouwiki.net/wiki/File:TIBA006half.jpg)  
 
 ---
 

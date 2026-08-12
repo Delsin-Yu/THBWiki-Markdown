@@ -1,6 +1,6 @@
 # 文件:EUROBEAT_FESTIVAL_VOL.9封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b5\ns6%3AEUROBEAT_FESTIVAL_VOL%2E9%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b5\ns6%3AEUROBEAT_FESTIVAL_VOL%2E9%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 SuganoMusic | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ SuganoMusic | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [EUROBEAT FESTIVAL VOL.9](./EUROBEAT_FESTIVAL_VOL.9.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
-
-
-
+- [EUROBEAT FESTIVAL VOL.9](./EUROBEAT_FESTIVAL_VOL.9.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
 
 
 ---

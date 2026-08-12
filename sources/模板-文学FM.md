@@ -1,16 +1,12 @@
 # 模板:文学FM
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\6\69\ns10%3A%E6%96%87%E5%AD%A6FM.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\6\69\ns10%3A%E6%96%87%E5%AD%A6FM.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

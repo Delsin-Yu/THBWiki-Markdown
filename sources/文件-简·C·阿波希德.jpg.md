@@ -1,16 +1,12 @@
 # 文件:简·C·阿波希德.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7b\ns6%3A%E7%AE%80%C2%B7C%C2%B7%E9%98%BF%E6%B3%A2%E5%B8%8C%E5%BE%B7%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7b\ns6%3A%E7%AE%80%C2%B7C%C2%B7%E9%98%BF%E6%B3%A2%E5%B8%8C%E5%BE%B7%2Ejpg.html -->
 
 二次角色立绘 | 简·C·阿波希德 | 雛鳥クロニクル
 
   
 ，
   
-
-
-
-
 
 ---
 

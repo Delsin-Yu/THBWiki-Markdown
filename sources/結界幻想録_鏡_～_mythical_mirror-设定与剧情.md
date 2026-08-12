@@ -1,30 +1,31 @@
 # 結界幻想録_鏡_～_mythical_mirror/设定与剧情
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\c\c6\ns0%3A%E7%B5%90%E7%95%8C%E5%B9%BB%E6%83%B3%E9%8C%B2_%E9%8F%A1_%EF%BD%9E_mythical_mirror%2F%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\c\c6\ns0%3A%E7%B5%90%E7%95%8C%E5%B9%BB%E6%83%B3%E9%8C%B2_%E9%8F%A1_%EF%BD%9E_mythical_mirror%2F%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85.html -->
 
 DANGOYA | Danmaq
 
 
 ## 附带文档
+
 - readme (未找到链接)
 - 角色设定文档 (未找到链接)
 
 
 ## 故事背景
+
 - 故事背景 (未找到链接)
 
 
 ## 游戏对话
-- [河城荷取&amp;犬走椛 游戏对话/结局](./結界幻想録_鏡_～_mythical_mirror-设定与剧情-河城荷取&犬走椛.md)
-- 琪露诺&amp;洩矢诹访子 游戏对话/结局 (未找到链接)
-- 上白泽慧音&amp;藤原妹红 游戏对话/结局 (未找到链接)
 
-- 河城荷取&amp;犬走椛 Extra游戏对话 (未找到链接)
-- 琪露诺&amp;洩矢诹访子 Extra游戏对话 (未找到链接)
-- 上白泽慧音&amp;藤原妹红 Extra游戏对话 (未找到链接)
+- [河城荷取&犬走椛 游戏对话/结局](./結界幻想録_鏡_～_mythical_mirror-设定与剧情-河城荷取&犬走椛.md)
+- 琪露诺&洩矢诹访子 游戏对话/结局 (未找到链接)
+- 上白泽慧音&藤原妹红 游戏对话/结局 (未找到链接)
 
 
-
+- 河城荷取&犬走椛 Extra游戏对话 (未找到链接)
+- 琪露诺&洩矢诹访子 Extra游戏对话 (未找到链接)
+- 上白泽慧音&藤原妹红 Extra游戏对话 (未找到链接)
 
 
 ---

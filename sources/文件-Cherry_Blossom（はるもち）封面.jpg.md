@@ -1,6 +1,6 @@
 # 文件:Cherry_Blossom（はるもち）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\34\ns6%3ACherry_Blossom%EF%BC%88%E3%81%AF%E3%82%8B%E3%82%82%E3%81%A1%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\34\ns6%3ACherry_Blossom%EF%BC%88%E3%81%AF%E3%82%8B%E3%82%82%E3%81%A1%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 はるもち | 同人志封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Cherry Blossom（はるもち）](./Cherry_Blossom（はるもち）.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [Cherry Blossom（はるもち）](./Cherry_Blossom（はるもち）.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

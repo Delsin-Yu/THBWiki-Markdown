@@ -1,6 +1,6 @@
 # 文件:雨夜にLet's_dance!!封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\20\ns6%3A%E9%9B%A8%E5%A4%9C%E3%81%ABLet%27s_dance%21%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\20\ns6%3A%E9%9B%A8%E5%A4%9C%E3%81%ABLet%27s_dance%21%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 雨降りダウザー
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [雨夜にLet's dance!!](./雨夜にLet's_dance!!.md)  
-该封面包含的角色：- [娜兹玲](./娜兹玲.md)- [多多良小伞](./多多良小伞.md)
-
-
-
+- [雨夜にLet's dance!!](./雨夜にLet's_dance!!.md)该封面包含的角色：
+- [娜兹玲](./娜兹玲.md)
+- [多多良小伞](./多多良小伞.md)
 
 
 ---

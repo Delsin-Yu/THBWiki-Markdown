@@ -1,6 +1,6 @@
 # 文件:歪曲列島_～_History_of_Distortion封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\eb\ns6%3A%E6%AD%AA%E6%9B%B2%E5%88%97%E5%B3%B6_%EF%BD%9E_History_of_Distortion%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\eb\ns6%3A%E6%AD%AA%E6%9B%B2%E5%88%97%E5%B3%B6_%EF%BD%9E_History_of_Distortion%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 夢想吟遊詩人 | 封面图片
 
@@ -10,16 +10,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [歪曲列島 ～ History of Distortion](./歪曲列島_～_History_of_Distortion.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
+- [歪曲列島 ～ History of Distortion](./歪曲列島_～_History_of_Distortion.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
   
-源地址：[[1]](https://pbs.twimg.com/media/Ea8uXMyUYAI42kX?format=jpg&amp;name=orig)
-  
-
-
-
-
+源地址：[\[1\]](https://pbs.twimg.com/media/Ea8uXMyUYAI42kX?format=jpg&name=orig)  
 
 ---
 

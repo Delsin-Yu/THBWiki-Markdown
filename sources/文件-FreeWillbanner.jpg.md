@@ -1,14 +1,11 @@
 # 文件:FreeWillbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\37\ns6%3AFreeWillbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\37\ns6%3AFreeWillbanner%2Ejpg.html -->
 
 FreeWill | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:Essential_Blue_Rose封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\65\ns6%3AEssential_Blue_Rose%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\65\ns6%3AEssential_Blue_Rose%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ぬえかわチャンネル | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Essential Blue Rose](./Essential_Blue_Rose.md)  
-该封面包含的角色：- [古明地恋](./古明地恋.md)
-
-
-
+- [Essential Blue Rose](./Essential_Blue_Rose.md)该封面包含的角色：
+- [古明地恋](./古明地恋.md)
 
 
 ---

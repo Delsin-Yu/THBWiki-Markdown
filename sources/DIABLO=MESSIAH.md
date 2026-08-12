@@ -1,30 +1,27 @@
 # DIABLO=MESSIAH
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\f5\ns0%3ADIABLO%3DMESSIAH.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\f5\ns0%3ADIABLO%3DMESSIAH.html -->
 
 现实人物
 
 本页是关于东方Project  
- **二次同人创作者** 的词条
+**二次同人创作者**的词条
 ## 基本信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="label"><b>名称</b></td><td> DIABLO=MESSIAH </td></tr><tr><td class="label"><b>别名</b></td><td>maria♂polo<br>Karen Kosam<br>Simone Massaro<br>Massimiliano D'Avorio</td></tr><tr><td class="label"><b>所属社团</b></td><td><b>当前</b><div style="margin-left:2em;"><a href="./NJK_Record.md" title="NJK Record">NJK Record</a></div></td></tr><tr><td class="label"><b>职位</b></td><td>演唱，作词</td></tr><tr><td class="label"><b>性别</b></td><td>男</td></tr><tr><td class="label"><b>个人页面</b></td><td><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><b>Facebook</b></td><td><a rel="nofollow" class="external free" href="https://www.facebook.com/Diabl0.rne55iah/">https://www.facebook.com/Diabl0.rne55iah/</a></td></tr><tr><td><b>Youtube</b></td><td><a rel="nofollow" class="external free" href="https://www.youtube.com/channel/UCtA0u2HYPgGNhOo5V0hik9Q">https://www.youtube.com/channel/UCtA0u2HYPgGNhOo5V0hik9Q</a></td></tr></tbody></table></td></tr></tbody></table>
 
 DIABLO=MESSIAH（人物） - 现实人物
 ## 介绍
+
 ## 参与作品
+
 ### 同人音乐
   
-模板:人物曲目列表 (未找到链接)
-  
+模板:人物曲目列表 (未找到链接)  
 
 ## 人际关系
 人名
 : 关系
-
-
-
-
 
 ---
 

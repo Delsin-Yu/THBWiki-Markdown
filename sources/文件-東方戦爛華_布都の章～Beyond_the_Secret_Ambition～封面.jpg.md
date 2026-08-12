@@ -1,6 +1,6 @@
 # 文件:東方戦爛華_布都の章～Beyond_the_Secret_Ambition～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4e\ns6%3A%E6%9D%B1%E6%96%B9%E6%88%A6%E7%88%9B%E8%8F%AF_%E5%B8%83%E9%83%BD%E3%81%AE%E7%AB%A0%EF%BD%9EBeyond_the_Secret_Ambition%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4e\ns6%3A%E6%9D%B1%E6%96%B9%E6%88%A6%E7%88%9B%E8%8F%AF_%E5%B8%83%E9%83%BD%E3%81%AE%E7%AB%A0%EF%BD%9EBeyond_the_Secret_Ambition%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 TravelFrontier | 封面图片 | 软件封面
 
@@ -8,11 +8,12 @@ TravelFrontier | 封面图片 | 软件封面
 使用了本文件作封面图片的作品：
   
 
-- [東方戦爛華 布都の章～Beyond the Secret Ambition～](./東方戦爛華_布都の章～Beyond_the_Secret_Ambition～.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [宫古芳香](./宫古芳香.md)- [霍青娥](./霍青娥.md)- [苏我屠自古](./苏我屠自古.md)- [物部布都](./物部布都.md)
-
-
-
+- [東方戦爛華 布都の章～Beyond the Secret Ambition～](./東方戦爛華_布都の章～Beyond_the_Secret_Ambition～.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [宫古芳香](./宫古芳香.md)
+- [霍青娥](./霍青娥.md)
+- [苏我屠自古](./苏我屠自古.md)
+- [物部布都](./物部布都.md)
 
 
 ---

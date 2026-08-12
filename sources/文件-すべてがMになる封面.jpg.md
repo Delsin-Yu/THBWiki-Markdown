@@ -1,6 +1,6 @@
 # 文件:すべてがMになる封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8d\ns6%3A%E3%81%99%E3%81%B9%E3%81%A6%E3%81%8CM%E3%81%AB%E3%81%AA%E3%82%8B%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8d\ns6%3A%E3%81%99%E3%81%B9%E3%81%A6%E3%81%8CM%E3%81%AB%E3%81%AA%E3%82%8B%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 蒼空市場
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [すべてがMになる](./すべてがMになる.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [すべてがMになる](./すべてがMになる.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

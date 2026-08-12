@@ -1,14 +1,11 @@
 # 文件:リストカットガールbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\41\ns6%3A%E3%83%AA%E3%82%B9%E3%83%88%E3%82%AB%E3%83%83%E3%83%88%E3%82%AC%E3%83%BC%E3%83%ABbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\41\ns6%3A%E3%83%AA%E3%82%B9%E3%83%88%E3%82%AB%E3%83%83%E3%83%88%E3%82%AC%E3%83%BC%E3%83%ABbanner%2Epng.html -->
 
 リストカットガール | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

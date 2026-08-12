@@ -1,6 +1,6 @@
 # 文件:Symphonic_Caprice_"Evening_Primrose"_奇想交響詩_月見草封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\60\ns6%3ASymphonic_Caprice_%22Evening_Primrose%22_%E5%A5%87%E6%83%B3%E4%BA%A4%E9%9F%BF%E8%A9%A9_%E6%9C%88%E8%A6%8B%E8%8D%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\60\ns6%3ASymphonic_Caprice_%22Evening_Primrose%22_%E5%A5%87%E6%83%B3%E4%BA%A4%E9%9F%BF%E8%A9%A9_%E6%9C%88%E8%A6%8B%E8%8D%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 WAVE | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ WAVE | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Symphonic Caprice "Evening Primrose" 奇想交響詩 月見草](./Symphonic_Caprice_-Evening_Primrose-_奇想交響詩_月見草.md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)
-
-
-
+- [Symphonic Caprice "Evening Primrose" 奇想交響詩 月見草](./Symphonic_Caprice_-Evening_Primrose-_奇想交響詩_月見草.md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
 
 
 ---

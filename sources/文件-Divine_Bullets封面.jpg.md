@@ -1,6 +1,6 @@
 # 文件:Divine_Bullets封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3b\ns6%3ADivine_Bullets%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3b\ns6%3ADivine_Bullets%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Xnebula_Records | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Xnebula_Records | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Divine Bullets](./Divine_Bullets.md)  
-该封面包含的角色：- [东风谷早苗](./东风谷早苗.md)
+- [Divine Bullets](./Divine_Bullets.md)该封面包含的角色：
+- [东风谷早苗](./东风谷早苗.md)
 
   
-源地址：[[1]](http://static.tumblr.com/c87fa68e9787b8214858c848f18d54b5/xypy8ug/g9Dobr5iy/tumblr_static_8ntbogc3m6kocs84c844gk04o.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://static.tumblr.com/c87fa68e9787b8214858c848f18d54b5/xypy8ug/g9Dobr5iy/tumblr_static_8ntbogc3m6kocs84c844gk04o.jpg)  
 
 ---
 

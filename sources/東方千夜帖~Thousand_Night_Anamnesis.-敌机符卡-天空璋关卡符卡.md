@@ -1,6 +1,6 @@
 # 東方千夜帖~Thousand_Night_Anamnesis./敌机符卡/天空璋关卡符卡
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\b0\ns0%3A%E6%9D%B1%E6%96%B9%E5%8D%83%E5%A4%9C%E5%B8%96%7EThousand_Night_Anamnesis%2E%2F%E6%95%8C%E6%9C%BA%E7%AC%A6%E5%8D%A1%2F%E5%A4%A9%E7%A9%BA%E7%92%8B%E5%85%B3%E5%8D%A1%E7%AC%A6%E5%8D%A1.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\b0\ns0%3A%E6%9D%B1%E6%96%B9%E5%8D%83%E5%A4%9C%E5%B8%96%7EThousand_Night_Anamnesis%2E%2F%E6%95%8C%E6%9C%BA%E7%AC%A6%E5%8D%A1%2F%E5%A4%A9%E7%A9%BA%E7%92%8B%E5%85%B3%E5%8D%A1%E7%AC%A6%E5%8D%A1.html -->
 
 サラダ
 
@@ -8,18 +8,13 @@
 ## 目录
 
 - [1 天空璋](#天空璋)
-
   - [1.1 爱塔妮缇拉尔瓦](#爱塔妮缇拉尔瓦)
   - [1.2 坂田合欢](#坂田合欢)
   - [1.3 高丽野阿吽](#高丽野阿吽)
   - [1.4 矢田寺成美](#矢田寺成美)
-  - [1.5 丁礼田&amp;尓子田](#丁礼田&amp;尓子田)
+  - [1.5 丁礼田&尓子田](#丁礼田&尓子田)
   - [1.6 摩多罗隐岐奈](#摩多罗隐岐奈)
   - [1.7 摩多罗隐岐奈（真）](#摩多罗隐岐奈（真）)
-
-
-
-
 
 
 
@@ -54,7 +49,6 @@
 </td></tr></tbody></table>
 
 
-
 ### 坂田合欢
 
 <table>
@@ -81,7 +75,6 @@
 <td>把猎物关起来的山姥结界。逼迫猎物到特定地方。</td>
 <td>把猎物关起来的山姥结界。从某种意义上有秋天的味道
 </td></tr></tbody></table>
-
 
 
 ### 高丽野阿吽
@@ -119,7 +112,6 @@
 </td></tr></tbody></table>
 
 
-
 ### 矢田寺成美
 
 <table>
@@ -155,8 +147,7 @@
 </td></tr></tbody></table>
 
 
-
-### 丁礼田&amp;尓子田
+### 丁礼田&尓子田
 
 <table>
 <caption>符卡列表
@@ -198,7 +189,6 @@
 </td></tr></tbody></table>
 
 
-
 ### 摩多罗隐岐奈
 
 <table>
@@ -212,7 +202,7 @@
 <th>Lunatic难度里评论
 </th></tr>
 <tr>
-<td><b>裹<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">1</a></sup>夏「异常烈火之晚霞」</b></td>
+<td><b>裹<span>[^cite_note-1]</span>夏「异常烈火之晚霞」</b></td>
 <td>隐岐奈的四季弹幕--夏日。 光是看就很热。</td>
 <td>隐岐奈的四季弹幕--夏日。 一道道火焰般的子弹，如烈火般的攻击。</td>
 <td>隐岐奈的四季弹幕--夏日。 通常大小和巨型大小的两种阶段。</td>
@@ -226,7 +216,7 @@
 <td>隐岐奈的四季弹幕---秋。适合黄昏的符卡。 像枕草子一样。
 </td></tr>
 <tr>
-<td><b>裹春<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">2</a></sup>「异常花咲之云隐」</b></td>
+<td><b>裹春<span>[^cite_note-2]</span>「异常花咲之云隐」</b></td>
 <td>隐岐奈的四季弹幕---春。轻飘飘的感觉</td>
 <td>隐岐奈的四季弹幕---春。春天里的一串云彩的形象。</td>
 <td>隐岐奈的四季弹幕---春。连绵不断的吉春之云</td>
@@ -239,7 +229,6 @@
 <td>隐岐奈的四季弹幕---冬。真正雪乡的暴风雪就是这个样子。</td>
 <td>隐岐奈的四季弹幕---冬。我个人不喜欢冬天。
 </td></tr></tbody></table>
-
 
 
 ### 摩多罗隐岐奈（真）
@@ -283,12 +272,8 @@
 <td>怒放的异常四季。如果四季在现实生活中同时出现，那就麻烦了。
 </td></tr></tbody></table>
 
-
 [^cite_note-1]: 游戏中就存在的错别字，实际上所有的裹字都应是裏字才对
-
-
-
-
+[^cite_note-2]: 游戏中符卡前缀显示为裹夏，裹春是正确的。
 
 ---
 

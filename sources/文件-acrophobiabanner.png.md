@@ -1,16 +1,11 @@
 # 文件:acrophobiabanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6e\ns6%3Aacrophobiabanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6e\ns6%3Aacrophobiabanner%2Epng.html -->
 
 acrophobia | 社团LOGO
 
   
-源地址：[[1]](http://acrophobia.yaekumo.com/)
-  
-
-
-
-
+源地址：[\[1\]](http://acrophobia.yaekumo.com/)  
 
 ---
 

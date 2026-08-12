@@ -1,6 +1,6 @@
 # 文件:TRACE_OF_VINE封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\70\ns6%3ATRACE_OF_VINE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\70\ns6%3ATRACE_OF_VINE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Tinker_JunKtion | 专辑封面 | 封面图片
 
@@ -11,12 +11,7 @@ Tinker_JunKtion | 专辑封面 | 封面图片
 - [TRACE OF VINE](./TRACE_OF_VINE.md)
 
   
-源地址：[[1]](https://i1.sndcdn.com/artworks-000174844185-4m34tk-t500x500.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://i1.sndcdn.com/artworks-000174844185-4m34tk-t500x500.jpg)  
 
 ---
 

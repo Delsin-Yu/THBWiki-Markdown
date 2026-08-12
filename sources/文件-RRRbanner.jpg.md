@@ -1,12 +1,8 @@
 # 文件:RRRbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\74\ns6%3ARRRbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\74\ns6%3ARRRbanner%2Ejpg.html -->
 
 RRR | 社团LOGO
-
-
-
-
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:Foxtail-Grass_Studio_banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ca\ns6%3AFoxtail-Grass_Studio_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ca\ns6%3AFoxtail-Grass_Studio_banner%2Ejpg.html -->
 
 Foxtail-Grass_Studio | 社团LOGO
-
-
-
-
 
 
 ---

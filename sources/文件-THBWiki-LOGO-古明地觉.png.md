@@ -1,12 +1,8 @@
 # 文件:THBWiki-LOGO-古明地觉.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bf\ns6%3ATHBWiki-LOGO-%E5%8F%A4%E6%98%8E%E5%9C%B0%E8%A7%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bf\ns6%3ATHBWiki-LOGO-%E5%8F%A4%E6%98%8E%E5%9C%B0%E8%A7%89%2Epng.html -->
 
 THBWiki | Wiki词条分类用图
-
-
-
-
 
 
 ---

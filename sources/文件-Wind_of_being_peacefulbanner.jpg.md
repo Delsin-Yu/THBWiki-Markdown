@@ -1,18 +1,13 @@
 # 文件:Wind_of_being_peacefulbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ab\ns6%3AWind_of_being_peacefulbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ab\ns6%3AWind_of_being_peacefulbanner%2Ejpg.html -->
 
 Wind_of_being_peaceful | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[[1]](https://web.archive.org/web/20070313055409im_/http://wpor-ram.info/img/site_d/wpor.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://web.archive.org/web/20070313055409im_/http://wpor-ram.info/img/site_d/wpor.jpg)  
 
 ---
 

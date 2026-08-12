@@ -1,6 +1,6 @@
 # 文件:眾神眷戀的幻想鄉_~_Rebirth_of_Dream封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\67\ns6%3A%E7%9C%BE%E7%A5%9E%E7%9C%B7%E6%88%80%E7%9A%84%E5%B9%BB%E6%83%B3%E9%84%89_%7E_Rebirth_of_Dream%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\67\ns6%3A%E7%9C%BE%E7%A5%9E%E7%9C%B7%E6%88%80%E7%9A%84%E5%B9%BB%E6%83%B3%E9%84%89_%7E_Rebirth_of_Dream%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 aparo同人画师联盟 | 同人志封面 | 封面图片
 
@@ -11,9 +11,6 @@ aparo同人画师联盟 | 同人志封面 | 封面图片
   
 
 - [眾神眷戀的幻想鄉 ~ Rebirth of Dream](./眾神眷戀的幻想鄉_~_Rebirth_of_Dream.md)
-
-
-
 
 
 ---

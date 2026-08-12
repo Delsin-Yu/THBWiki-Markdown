@@ -1,16 +1,12 @@
 # 文件:ssg_4_Boss.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c1\ns6%3Assg_4_Boss%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c1\ns6%3Assg_4_Boss%2Epng.html -->
 
 秋霜玉
 
   
 秋霜玉4面Boss像素图。
   
-
-
-
-
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:東方オーケストラ_Symphonic_Quest_I_～冥界の剣と紅魔の妹君～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e0\ns6%3A%E6%9D%B1%E6%96%B9%E3%82%AA%E3%83%BC%E3%82%B1%E3%82%B9%E3%83%88%E3%83%A9_Symphonic_Quest_I_%EF%BD%9E%E5%86%A5%E7%95%8C%E3%81%AE%E5%89%A3%E3%81%A8%E7%B4%85%E9%AD%94%E3%81%AE%E5%A6%B9%E5%90%9B%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e0\ns6%3A%E6%9D%B1%E6%96%B9%E3%82%AA%E3%83%BC%E3%82%B1%E3%82%B9%E3%83%88%E3%83%A9_Symphonic_Quest_I_%EF%BD%9E%E5%86%A5%E7%95%8C%E3%81%AE%E5%89%A3%E3%81%A8%E7%B4%85%E9%AD%94%E3%81%AE%E5%A6%B9%E5%90%9B%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 趣味工房にんじんわいん
 
@@ -8,11 +8,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方オーケストラ Symphonic Quest I ～冥界の剣と紅魔の妹君～](./東方オーケストラ_Symphonic_Quest_I_～冥界の剣と紅魔の妹君～.md)  
-该封面包含的角色：- [橙](./橙.md)- [魂魄妖梦](./魂魄妖梦.md)- [西行寺幽幽子](./西行寺幽幽子.md)- [八云蓝](./八云蓝.md)- [八云紫](./八云紫.md)
-
-
-
+- [東方オーケストラ Symphonic Quest I ～冥界の剣と紅魔の妹君～](./東方オーケストラ_Symphonic_Quest_I_～冥界の剣と紅魔の妹君～.md)该封面包含的角色：
+- [橙](./橙.md)
+- [魂魄妖梦](./魂魄妖梦.md)
+- [西行寺幽幽子](./西行寺幽幽子.md)
+- [八云蓝](./八云蓝.md)
+- [八云紫](./八云紫.md)
 
 
 ---

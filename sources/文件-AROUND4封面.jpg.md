@@ -1,6 +1,6 @@
 # 文件:AROUND4封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b3\ns6%3AAROUND4%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b3\ns6%3AAROUND4%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Mentaiko_Lab | 同人志封面 | 封面图片
 
@@ -8,11 +8,8 @@ Mentaiko_Lab | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [AROUND4](./AROUND4.md)  
-该封面包含的角色：- [八云紫](./八云紫.md)
-
-
-
+- [AROUND4](./AROUND4.md)该封面包含的角色：
+- [八云紫](./八云紫.md)
 
 
 ---

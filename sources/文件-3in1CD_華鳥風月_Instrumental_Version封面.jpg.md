@@ -1,6 +1,6 @@
 # 文件:3in1CD_華鳥風月_Instrumental_Version封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\de\ns6%3A3in1CD_%E8%8F%AF%E9%B3%A5%E9%A2%A8%E6%9C%88_Instrumental_Version%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\de\ns6%3A3in1CD_%E8%8F%AF%E9%B3%A5%E9%A2%A8%E6%9C%88_Instrumental_Version%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 幽闭星光
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [3in1CD 華鳥風月 Instrumental Version](./3in1CD_華鳥風月_Instrumental_Version.md)  
-该封面包含的角色：- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)
-
-
-
+- [3in1CD 華鳥風月 Instrumental Version](./3in1CD_華鳥風月_Instrumental_Version.md)该封面包含的角色：
+- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)
 
 
 ---

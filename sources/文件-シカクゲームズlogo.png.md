@@ -1,18 +1,13 @@
 # 文件:シカクゲームズlogo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\53\ns6%3A%E3%82%B7%E3%82%AB%E3%82%AF%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%BAlogo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\53\ns6%3A%E3%82%B7%E3%82%AB%E3%82%AF%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%BAlogo%2Epng.html -->
 
 シカクゲームズ | 社团LOGO
 
 
 ## 摘要
   
-源地址：[direct image link (max size)](https://cdn.amebaowndme.com/madrid-prd/madrid-web/images/sites/293529/34d83f90baaec13d63b5d63b6f6be97c_3e177530502b4f6da4a48120ba411294.png), [source page (circle website)](https://sikakugames.amebaownd.com/)
-  
-
-
-
-
+源地址：[direct image link (max size)](https://cdn.amebaowndme.com/madrid-prd/madrid-web/images/sites/293529/34d83f90baaec13d63b5d63b6f6be97c_3e177530502b4f6da4a48120ba411294.png), [source page (circle website)](https://sikakugames.amebaownd.com/)  
 
 ---
 

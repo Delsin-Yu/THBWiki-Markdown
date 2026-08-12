@@ -1,14 +1,11 @@
 # 文件:幻想Narrato_Graph（大蛤蟆之池）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\54\ns6%3A%E5%B9%BB%E6%83%B3Narrato_Graph%EF%BC%88%E5%A4%A7%E8%9B%A4%E8%9F%86%E4%B9%8B%E6%B1%A0%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\54\ns6%3A%E5%B9%BB%E6%83%B3Narrato_Graph%EF%BC%88%E5%A4%A7%E8%9B%A4%E8%9F%86%E4%B9%8B%E6%B1%A0%EF%BC%89%2Ejpg.html -->
 
 幻想Narrato_Graph
 
 
 ## 摘要
-
-
-
 
 ---
 

@@ -1,12 +1,8 @@
 # 文件:仙酌绝唱的幻想曲会场限定特典CD碟面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8c\ns6%3A%E4%BB%99%E9%85%8C%E7%BB%9D%E5%94%B1%E7%9A%84%E5%B9%BB%E6%83%B3%E6%9B%B2%E4%BC%9A%E5%9C%BA%E9%99%90%E5%AE%9A%E7%89%B9%E5%85%B8CD%E7%A2%9F%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8c\ns6%3A%E4%BB%99%E9%85%8C%E7%BB%9D%E5%94%B1%E7%9A%84%E5%B9%BB%E6%83%B3%E6%9B%B2%E4%BC%9A%E5%9C%BA%E9%99%90%E5%AE%9A%E7%89%B9%E5%85%B8CD%E7%A2%9F%E9%9D%A2%2Ejpg.html -->
 
 仙酌绝唱的幻想曲 | 博丽神社歌谣祭
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:こちら秘封探偵事務所_Music_Collection_紅魔郷編封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\35\ns6%3A%E3%81%93%E3%81%A1%E3%82%89%E7%A7%98%E5%B0%81%E6%8E%A2%E5%81%B5%E4%BA%8B%E5%8B%99%E6%89%80_Music_Collection_%E7%B4%85%E9%AD%94%E9%83%B7%E7%B7%A8%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\35\ns6%3A%E3%81%93%E3%81%A1%E3%82%89%E7%A7%98%E5%B0%81%E6%8E%A2%E5%81%B5%E4%BA%8B%E5%8B%99%E6%89%80_Music_Collection_%E7%B4%85%E9%AD%94%E9%83%B7%E7%B7%A8%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 O-LIFE.JP | Rhythm_Five | Steel_Doll | 专辑封面 | 封面图片
 
@@ -8,16 +8,12 @@ O-LIFE.JP | Rhythm_Five | Steel_Doll | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [こちら秘封探偵事務所 Music Collection 紅魔郷編](./こちら秘封探偵事務所_Music_Collection_紅魔郷編.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
+- [こちら秘封探偵事務所 Music Collection 紅魔郷編](./こちら秘封探偵事務所_Music_Collection_紅魔郷編.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
   
-源地址：[[1]](http://longnovel.com/wp-content/uploads/2016/07/17f15e92a84cbe946bf3423adca105d2.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://longnovel.com/wp-content/uploads/2016/07/17f15e92a84cbe946bf3423adca105d2.jpg)  
 
 ---
 

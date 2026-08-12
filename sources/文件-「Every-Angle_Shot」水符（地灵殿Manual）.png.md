@@ -1,12 +1,8 @@
 # 文件:「Every-Angle_Shot」水符（地灵殿Manual）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f7\ns6%3A%E3%80%8CEvery-Angle_Shot%E3%80%8D%E6%B0%B4%E7%AC%A6%EF%BC%88%E5%9C%B0%E7%81%B5%E6%AE%BFManual%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f7\ns6%3A%E3%80%8CEvery-Angle_Shot%E3%80%8D%E6%B0%B4%E7%AC%A6%EF%BC%88%E5%9C%B0%E7%81%B5%E6%AE%BFManual%EF%BC%89%2Epng.html -->
 
 Manual配图 | 东方地灵殿 | 雾雨魔理沙
-
-
-
-
 
 
 ---

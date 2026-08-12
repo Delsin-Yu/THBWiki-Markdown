@@ -1,6 +1,6 @@
 # 文件:Destined_Ramification封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d1\ns6%3ADestined_Ramification%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d1\ns6%3ADestined_Ramification%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Prismriver_de_la_nuit | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Prismriver_de_la_nuit | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Destined Ramification](./Destined_Ramification.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
-
-
-
+- [Destined Ramification](./Destined_Ramification.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
 
 ---

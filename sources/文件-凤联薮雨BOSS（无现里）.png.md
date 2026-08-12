@@ -1,12 +1,8 @@
 # 文件:凤联薮雨BOSS（无现里）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a9\ns6%3A%E5%87%A4%E8%81%94%E8%96%AE%E9%9B%A8BOSS%EF%BC%88%E6%97%A0%E7%8E%B0%E9%87%8C%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a9\ns6%3A%E5%87%A4%E8%81%94%E8%96%AE%E9%9B%A8BOSS%EF%BC%88%E6%97%A0%E7%8E%B0%E9%87%8C%EF%BC%89%2Epng.html -->
 
 トリック・ノスタルジー | 二次角色立绘 | 凤联薮雨 | 连缘无现里
-
-
-
-
 
 
 ---

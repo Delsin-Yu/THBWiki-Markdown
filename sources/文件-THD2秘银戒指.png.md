@@ -1,12 +1,8 @@
 # 文件:THD2秘银戒指.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a3\ns6%3ATHD2%E7%A7%98%E9%93%B6%E6%88%92%E6%8C%87%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a3\ns6%3ATHD2%E7%A7%98%E9%93%B6%E6%88%92%E6%8C%87%2Epng.html -->
 
 AvalonStudioOfficial
-
-
-
-
 
 
 ---

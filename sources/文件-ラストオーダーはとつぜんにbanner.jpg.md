@@ -1,14 +1,11 @@
 # 文件:ラストオーダーはとつぜんにbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\da\ns6%3A%E3%83%A9%E3%82%B9%E3%83%88%E3%82%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%81%AF%E3%81%A8%E3%81%A4%E3%81%9C%E3%82%93%E3%81%ABbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\da\ns6%3A%E3%83%A9%E3%82%B9%E3%83%88%E3%82%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%81%AF%E3%81%A8%E3%81%A4%E3%81%9C%E3%82%93%E3%81%ABbanner%2Ejpg.html -->
 
 ラストオーダーはとつぜんに | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

@@ -1,18 +1,13 @@
 # 文件:KONTRASTlogo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f6\ns6%3AKONTRASTlogo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f6\ns6%3AKONTRASTlogo%2Epng.html -->
 
 KONTRAST | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[[1]](http://www.kontrast.asia/Images/Logo.png)
-  
-
-
-
-
+源地址：[\[1\]](http://www.kontrast.asia/Images/Logo.png)  
 
 ---
 

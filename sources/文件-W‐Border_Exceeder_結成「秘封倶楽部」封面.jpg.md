@@ -1,6 +1,6 @@
 # 文件:W‐Border_Exceeder_結成「秘封倶楽部」封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1d\ns6%3AW%E2%80%90Border_Exceeder_%E7%B5%90%E6%88%90%E3%80%8C%E7%A7%98%E5%B0%81%E5%80%B6%E6%A5%BD%E9%83%A8%E3%80%8D%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1d\ns6%3AW%E2%80%90Border_Exceeder_%E7%B5%90%E6%88%90%E3%80%8C%E7%A7%98%E5%B0%81%E5%80%B6%E6%A5%BD%E9%83%A8%E3%80%8D%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 アイネクライネ | 同人志封面 | 封面图片
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [W‐Border Exceeder 結成「秘封倶楽部」](./W‐Border_Exceeder_結成「秘封倶楽部」.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [W‐Border Exceeder 結成「秘封倶楽部」](./W‐Border_Exceeder_結成「秘封倶楽部」.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

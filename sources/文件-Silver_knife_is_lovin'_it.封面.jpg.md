@@ -1,6 +1,6 @@
 # 文件:Silver_knife_is_lovin'_it.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8c\ns6%3ASilver_knife_is_lovin%27_it%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8c\ns6%3ASilver_knife_is_lovin%27_it%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 すーぱーのヴぁ | 同人志封面 | 封面图片
 
@@ -10,16 +10,15 @@
 使用了本文件作封面图片的作品：
   
 
-- [Silver knife is lovin' it.](./Silver_knife_is_lovin'_it..md)  
-该封面包含的角色：- [红美铃](./红美铃.md)- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)- 十六夜咲夜 (未找到链接)- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [Silver knife is lovin' it.](./Silver_knife_is_lovin'_it..md)该封面包含的角色：
+- [红美铃](./红美铃.md)
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
+- [十六夜咲夜](./十六夜咲夜.md)
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
   
-源地址：[direct image link (original size)](https://blog-imgs-27-origin.fc2.com/m/o/n/monkytolk/hyousi.jpg), [source page](http://monkytolk.blog24.fc2.com/blog-entry-169.html)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://blog-imgs-27-origin.fc2.com/m/o/n/monkytolk/hyousi.jpg), [source page](http://monkytolk.blog24.fc2.com/blog-entry-169.html)  
 
 ---
 

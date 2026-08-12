@@ -1,12 +1,8 @@
 # 文件:东方幻想怀古曲LOGO.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\83\ns6%3A%E4%B8%9C%E6%96%B9%E5%B9%BB%E6%83%B3%E6%80%80%E5%8F%A4%E6%9B%B2LOGO%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\83\ns6%3A%E4%B8%9C%E6%96%B9%E5%B9%BB%E6%83%B3%E6%80%80%E5%8F%A4%E6%9B%B2LOGO%2Epng.html -->
 
 东方幻想怀古曲 | 幻乐团官网
-
-
-
-
 
 
 ---

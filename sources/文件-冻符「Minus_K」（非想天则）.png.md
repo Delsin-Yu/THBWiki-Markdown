@@ -1,12 +1,8 @@
 # 文件:冻符「Minus_K」（非想天则）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8f\ns6%3A%E5%86%BB%E7%AC%A6%E3%80%8CMinus_K%E3%80%8D%EF%BC%88%E9%9D%9E%E6%83%B3%E5%A4%A9%E5%88%99%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8f\ns6%3A%E5%86%BB%E7%AC%A6%E3%80%8CMinus_K%E3%80%8D%EF%BC%88%E9%9D%9E%E6%83%B3%E5%A4%A9%E5%88%99%EF%BC%89%2Epng.html -->
 
 东方非想天则 | 敌机符卡 | 琪露诺
-
-
-
-
 
 
 ---

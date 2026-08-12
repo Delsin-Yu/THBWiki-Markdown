@@ -1,12 +1,8 @@
 # 文件:THD2妖精之服.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cc\ns6%3ATHD2%E5%A6%96%E7%B2%BE%E4%B9%8B%E6%9C%8D%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cc\ns6%3ATHD2%E5%A6%96%E7%B2%BE%E4%B9%8B%E6%9C%8D%2Epng.html -->
 
 AvalonStudioOfficial
-
-
-
-
 
 
 ---

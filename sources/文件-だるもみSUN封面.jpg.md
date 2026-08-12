@@ -1,6 +1,6 @@
 # 文件:だるもみSUN封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c9\ns6%3A%E3%81%A0%E3%82%8B%E3%82%82%E3%81%BFSUN%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c9\ns6%3A%E3%81%A0%E3%82%8B%E3%82%82%E3%81%BFSUN%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 見切り発車
 
@@ -10,11 +10,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [だるもみSUN](./だるもみSUN.md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)- [犬走椛](./犬走椛.md)- [姬海棠果](./姬海棠果.md)
-
-
-
+- [だるもみSUN](./だるもみSUN.md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
+- [犬走椛](./犬走椛.md)
+- [姬海棠果](./姬海棠果.md)
 
 
 ---

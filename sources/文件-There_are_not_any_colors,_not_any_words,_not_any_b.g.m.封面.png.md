@@ -1,6 +1,6 @@
 # 文件:There_are_not_any_colors,_not_any_words,_not_any_b.g.m.封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e4\ns6%3AThere_are_not_any_colors%2C_not_any_words%2C_not_any_b%2Eg%2Em%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e4\ns6%3AThere_are_not_any_colors%2C_not_any_words%2C_not_any_b%2Eg%2Em%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 slic | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ slic | 专辑封面 | 封面图片
   
 
 - [There are not any colors, not any words, not any b.g.m.](./There_are_not_any_colors,_not_any_words,_not_any_b.g.m..md)
-
-
-
 
 
 ---

@@ -1,42 +1,39 @@
 # ego（Stella_Veritatis）
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\a\ac\ns0%3Aego%EF%BC%88Stella_Veritatis%EF%BC%89.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\a\ac\ns0%3Aego%EF%BC%88Stella_Veritatis%EF%BC%89.html -->
 
 2016年5月8日 由 Stella Veritatis 于 博丽神社例大祭13 发布的EP同人专辑，曲目主要风格是 Rock，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人专辑 (未找到链接)** 的词条
-
+**[二次创作同人专辑](./二次创作.md#同人音乐)**的词条
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-ego（Stella_Veritatis）封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/0/01/ego%EF%BC%88Stella_Veritatis%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/280px-ego%EF%BC%88Stella_Veritatis%EF%BC%89%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="280" height="280" srcset="https://upload.thwiki.cc/thumb/0/01/ego%EF%BC%88Stella_Veritatis%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/420px-ego%EF%BC%88Stella_Veritatis%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/0/01/ego%EF%BC%88Stella_Veritatis%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="500" data-file-height="500"></a><div class="cover-char">角色：<a href="./赤蛮奇.md" title="赤蛮奇">赤蛮奇</a></div></td>
 </tr><tr><td class="label">名称</td><td colspan="2"> ego </td></tr><tr><td class="label">制作方</td><td><a href="./Stella_Veritatis.md" title="Stella Veritatis">Stella Veritatis</a></td><td class="cover-artwork" rowspan="10" style="min-width:280px;"><a href="./文件-ego（Stella_Veritatis）封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/0/01/ego%EF%BC%88Stella_Veritatis%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/280px-ego%EF%BC%88Stella_Veritatis%EF%BC%89%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="280" height="280" srcset="https://upload.thwiki.cc/thumb/0/01/ego%EF%BC%88Stella_Veritatis%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/420px-ego%EF%BC%88Stella_Veritatis%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/0/01/ego%EF%BC%88Stella_Veritatis%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="500" data-file-height="500"></a><div class="cover-char">角色：<a href="./赤蛮奇.md" title="赤蛮奇">赤蛮奇</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2016-05-08&#160;（<a href="/展会作品列表?e=%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD%2313">第十三回 博麗神社例大祭</a>）</td></tr><tr><td class="label">类型</td><td>EP</td></tr><tr><td class="label">编号</td><td>SV-06</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>2</td></tr><tr><td class="label">总时长</td><td>00:00</td></tr><tr><td class="label">风格类型</td><td>Rock</td></tr><tr><td class="label">售价</td><td>会场售价：200日元</td></tr>
+</tr><tr><td class="label">首发日期</td><td>2016-05-08 （<a href="./展会作品列表.md#13">第十三回 博麗神社例大祭</a>）</td></tr><tr><td class="label">类型</td><td>EP</td></tr><tr><td class="label">编号</td><td>SV-06</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>2</td></tr><tr><td class="label">总时长</td><td>00:00</td></tr><tr><td class="label">风格类型</td><td>Rock</td></tr><tr><td class="label">售价</td><td>会场售价：200日元</td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://sound.jp/StellaVeritatis/tokusetu/ego/">http://sound.jp/StellaVeritatis/tokusetu/ego/</a></td></tr></tbody></table>
 
 ego（同人专辑，Stella Veritatis，2016） - 2016年5月8日 由 Stella Veritatis 于 博丽神社例大祭13 发布的EP同人专辑，曲目主要风格是 Rock，分级为 一般向
-
 ## Staff
   
- **Arrangement**   
+**Arrangement**  
 
-<table><tbody><tr><td><a href="/index.php?title=kaimu&amp;action=edit&amp;redlink=1" class="new" title="kaimu（页面不存在）">kaimu</a></td><td><a href="./Stella_Veritatis.md" title="Stella Veritatis">Stella Veritatis</a></td><td>Tr.1/2</td></tr><tr><td><a href="/index.php?title=NOY&amp;action=edit&amp;redlink=1" class="new" title="NOY（页面不存在）">NOY</a></td><td><a href="./Stella_Veritatis.md" title="Stella Veritatis">Stella Veritatis</a></td><td>Tr.1/2</td></tr></tbody></table>
-
-  
- **Vocal**   
-
-<table><tbody><tr><td><a href="/index.php?title=NOY&amp;action=edit&amp;redlink=1" class="new" title="NOY（页面不存在）">NOY</a></td><td><a href="./Stella_Veritatis.md" title="Stella Veritatis">Stella Veritatis</a></td><td>Tr.1/2</td></tr></tbody></table>
+<table><tbody><tr><td><a class="new" title="kaimu（页面不存在）">kaimu</a></td><td><a href="./Stella_Veritatis.md" title="Stella Veritatis">Stella Veritatis</a></td><td>Tr.1/2</td></tr><tr><td><a class="new" title="NOY（页面不存在）">NOY</a></td><td><a href="./Stella_Veritatis.md" title="Stella Veritatis">Stella Veritatis</a></td><td>Tr.1/2</td></tr></tbody></table>
 
   
- **Voice**   
+**Vocal**  
 
-<table><tbody><tr><td><a href="/index.php?title=kaimu&amp;action=edit&amp;redlink=1" class="new" title="kaimu（页面不存在）">kaimu</a></td><td><a href="./Stella_Veritatis.md" title="Stella Veritatis">Stella Veritatis</a></td><td>Tr.1/2</td></tr></tbody></table>
+<table><tbody><tr><td><a class="new" title="NOY（页面不存在）">NOY</a></td><td><a href="./Stella_Veritatis.md" title="Stella Veritatis">Stella Veritatis</a></td><td>Tr.1/2</td></tr></tbody></table>
 
   
- **Lyrics**   
+**Voice**  
 
-<table><tbody><tr><td><a href="/index.php?title=NOY&amp;action=edit&amp;redlink=1" class="new" title="NOY（页面不存在）">NOY</a></td><td><a href="./Stella_Veritatis.md" title="Stella Veritatis">Stella Veritatis</a></td><td>Tr.1/2</td></tr></tbody></table>
+<table><tbody><tr><td><a class="new" title="kaimu（页面不存在）">kaimu</a></td><td><a href="./Stella_Veritatis.md" title="Stella Veritatis">Stella Veritatis</a></td><td>Tr.1/2</td></tr></tbody></table>
 
+  
+**Lyrics**  
+
+<table><tbody><tr><td><a class="new" title="NOY（页面不存在）">NOY</a></td><td><a href="./Stella_Veritatis.md" title="Stella Veritatis">Stella Veritatis</a></td><td>Tr.1/2</td></tr></tbody></table>
 
 Mix
 : tomo1 (未找到链接) （[Cold Sleep Girlfriend](./Cold_Sleep_Girlfriend.md)）
@@ -47,25 +44,15 @@ Illustration
 Design
 : みかぜ (未找到链接)
 
-
 ## 试听
-  
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/262294678&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=false"></iframe>
-
-  
-
 
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoG"><b>01</b></td><td id="Outcage" colspan="2" class="title"><span class="new" title="（歌词页面不存在）"><a href="/index.php?title=%E6%AD%8C%E8%AF%8D:Outcage&amp;boilerplate=模板:页面模板/曲目歌词&amp;action=edit">Outcage</a></span><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=kaimu，NOY&amp;vocal=NOY&amp;dub=kaimu&amp;lyric=NOY&amp;ogmusic=いざ、倒れ逝くその時まで&amp;fromwiki=ego（Stella_Veritatis）"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=kaimu&amp;action=edit&amp;redlink=1" class="new" title="kaimu（页面不存在）">kaimu</a>，<a href="/index.php?title=NOY&amp;action=edit&amp;redlink=1" class="new" title="NOY（页面不存在）">NOY</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，kaimu，NOY&amp;fromwiki=ego（Stella_Veritatis）"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="/index.php?title=NOY&amp;action=edit&amp;redlink=1" class="new" title="NOY（页面不存在）">NOY</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=NOY&amp;fromwiki=ego（Stella_Veritatis）"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">配音</td><td class="text" colspan="2">Guitar（<a href="/index.php?title=kaimu&amp;action=edit&amp;redlink=1" class="new" title="kaimu（页面不存在）">kaimu</a>）<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?dub=kaimu&amp;fromwiki=ego（Stella_Veritatis）"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="/index.php?title=NOY&amp;action=edit&amp;redlink=1" class="new" title="NOY（页面不存在）">NOY</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?lyric=NOY&amp;fromwiki=ego（Stella_Veritatis）"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=いざ、倒れ逝くその時まで&amp;fromwiki=ego（Stella_Veritatis）"><span></span></a></span><div class="ogmusic"><a href="./いざ、倒れ逝くその時まで.md" class="mw-redirect" title="いざ、倒れ逝くその時まで">いざ、倒れ逝くその時まで</a></div><div class="source"><a href="./东方灵异传_～_Highly_Responsive_to_Prayers..md" class="mw-redirect" title="东方灵异传 ～ Highly Responsive to Prayers.">东方灵异传　～ Highly Responsive to Prayers.</a></div></td></tr>
-<tr><td id="2" class="infoG"><b>02</b></td><td id="SPIRAL" colspan="2" class="title"><span class="new" title="（歌词页面不存在）"><a href="/index.php?title=%E6%AD%8C%E8%AF%8D:SPIRAL&amp;boilerplate=模板:页面模板/曲目歌词&amp;action=edit">SPIRAL</a></span><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=kaimu，NOY&amp;vocal=NOY&amp;dub=kaimu&amp;lyric=NOY&amp;ogmusic=柳の下のデュラハン&amp;fromwiki=ego（Stella_Veritatis）"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=kaimu&amp;action=edit&amp;redlink=1" class="new" title="kaimu（页面不存在）">kaimu</a>，<a href="/index.php?title=NOY&amp;action=edit&amp;redlink=1" class="new" title="NOY（页面不存在）">NOY</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，kaimu，NOY&amp;fromwiki=ego（Stella_Veritatis）"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="/index.php?title=NOY&amp;action=edit&amp;redlink=1" class="new" title="NOY（页面不存在）">NOY</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=NOY&amp;fromwiki=ego（Stella_Veritatis）"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">配音</td><td class="text" colspan="2">Guitar（<a href="/index.php?title=kaimu&amp;action=edit&amp;redlink=1" class="new" title="kaimu（页面不存在）">kaimu</a>）<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?dub=kaimu&amp;fromwiki=ego（Stella_Veritatis）"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="/index.php?title=NOY&amp;action=edit&amp;redlink=1" class="new" title="NOY（页面不存在）">NOY</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?lyric=NOY&amp;fromwiki=ego（Stella_Veritatis）"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=柳の下のデュラハン&amp;fromwiki=ego（Stella_Veritatis）"><span></span></a></span><div class="ogmusic"><a href="./柳の下のデュラハン.md" class="mw-redirect" title="柳の下のデュラハン">柳の下のデュラハン</a></div><div class="source"><a href="./东方辉针城_～_Double_Dealing_Character..md" class="mw-redirect" title="东方辉针城 ～ Double Dealing Character.">东方辉针城　～ Double Dealing Character.</a></div></td></tr></tbody></table>
-
+<table><tbody><tr><td id="1" class="infoG"><b>01</b></td><td id="Outcage" colspan="2" class="title"><span class="new" title="（歌词页面不存在）"><a>Outcage</a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="kaimu（页面不存在）">kaimu</a>，<a class="new" title="NOY（页面不存在）">NOY</a></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a class="new" title="NOY（页面不存在）">NOY</a></td></tr><tr><td class="left"></td><td class="label">配音</td><td class="text" colspan="2">Guitar（<a class="new" title="kaimu（页面不存在）">kaimu</a>）</td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a class="new" title="NOY（页面不存在）">NOY</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./来吧，直到倒地死去的那一刻.md" class="mw-redirect" title="いざ、倒れ逝くその時まで">いざ、倒れ逝くその時まで</a></div><div class="source"><a href="./东方灵异传.md" class="mw-redirect" title="东方灵异传 ～ Highly Responsive to Prayers.">东方灵异传　～ Highly Responsive to Prayers.</a></div></td></tr>
+<tr><td id="2" class="infoG"><b>02</b></td><td id="SPIRAL" colspan="2" class="title"><span class="new" title="（歌词页面不存在）"><a>SPIRAL</a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="kaimu（页面不存在）">kaimu</a>，<a class="new" title="NOY（页面不存在）">NOY</a></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a class="new" title="NOY（页面不存在）">NOY</a></td></tr><tr><td class="left"></td><td class="label">配音</td><td class="text" colspan="2">Guitar（<a class="new" title="kaimu（页面不存在）">kaimu</a>）</td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a class="new" title="NOY（页面不存在）">NOY</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./柳树下的杜拉罕.md" class="mw-redirect" title="柳の下のデュラハン">柳の下のデュラハン</a></div><div class="source"><a href="./东方辉针城.md" class="mw-redirect" title="东方辉针城 ～ Double Dealing Character.">东方辉针城　～ Double Dealing Character.</a></div></td></tr></tbody></table>
 
 
 ## 评论
-
-
-
 
 ---
 

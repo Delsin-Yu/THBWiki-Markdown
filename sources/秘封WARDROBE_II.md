@@ -1,38 +1,35 @@
 # 秘封WARDROBE_II
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\f3\ns0%3A%E7%A7%98%E5%B0%81WARDROBE_II.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\f3\ns0%3A%E7%A7%98%E5%B0%81WARDROBE_II.html -->
 
 2024年6月1日 由 初霜文庫 于 梦之世纪 魅知之旅2 发布的绘本同人志，A5尺寸一共20页，登场人物有 宇佐见莲子、玛艾露贝莉·赫恩，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人志 (未找到链接)** 的词条
-
+**[二次创作同人志](./二次创作.md#同人志)**的词条
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-秘封WARDROBE_II封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/2/24/%E7%A7%98%E5%B0%81WARDROBE_II%E5%B0%81%E9%9D%A2.jpg/160px-%E7%A7%98%E5%B0%81WARDROBE_II%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="160" height="224" srcset="https://upload.thwiki.cc/thumb/2/24/%E7%A7%98%E5%B0%81WARDROBE_II%E5%B0%81%E9%9D%A2.jpg/239px-%E7%A7%98%E5%B0%81WARDROBE_II%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/2/24/%E7%A7%98%E5%B0%81WARDROBE_II%E5%B0%81%E9%9D%A2.jpg/319px-%E7%A7%98%E5%B0%81WARDROBE_II%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="730" data-file-height="1024"></a><div class="cover-char">角色：<a href="./宇佐见莲子.md" title="宇佐见莲子">宇佐见莲子</a></div></td>
 </tr><tr><td class="label">名称</td><td colspan="2"> 秘封WARDROBE II </td></tr><tr><td class="label">制作方</td><td><a href="./初霜文庫.md" title="初霜文庫">初霜文庫</a></td><td class="cover-artwork" rowspan="8" style="min-width:224px;"><a href="./文件-秘封WARDROBE_II封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/2/24/%E7%A7%98%E5%B0%81WARDROBE_II%E5%B0%81%E9%9D%A2.jpg/160px-%E7%A7%98%E5%B0%81WARDROBE_II%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="160" height="224" srcset="https://upload.thwiki.cc/thumb/2/24/%E7%A7%98%E5%B0%81WARDROBE_II%E5%B0%81%E9%9D%A2.jpg/239px-%E7%A7%98%E5%B0%81WARDROBE_II%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/2/24/%E7%A7%98%E5%B0%81WARDROBE_II%E5%B0%81%E9%9D%A2.jpg/319px-%E7%A7%98%E5%B0%81WARDROBE_II%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="730" data-file-height="1024"></a><div class="cover-char">角色：<a href="./宇佐见莲子.md" title="宇佐见莲子">宇佐见莲子</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2024-06-01&#160;（<a href="/展会作品列表?e=%E6%A2%A6%E4%B9%8B%E4%B8%96%E7%BA%AA+%E9%AD%85%E7%9F%A5%E4%B9%8B%E6%97%85%232">夢の世紀 魅知の旅 再訪</a>）</td></tr><tr><td class="label">类型</td><td>绘本</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>A5</td></tr><tr><td class="label">页数</td><td>20P</td></tr><tr><td class="label">登场人物</td><td><a href="./宇佐见莲子.md" title="宇佐见莲子">宇佐见莲子</a>，<a href="./玛艾露贝莉·赫恩.md" title="玛艾露贝莉·赫恩">玛艾露贝莉·赫恩</a></td></tr><tr><td class="label">售价</td><td>会场售价：700日元<br>通贩售价：800日元</td></tr>
+</tr><tr><td class="label">首发日期</td><td>2024-06-01 （<a href="./展会作品列表.md#2">夢の世紀 魅知の旅 再訪</a>）</td></tr><tr><td class="label">类型</td><td>绘本</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>A5</td></tr><tr><td class="label">页数</td><td>20P</td></tr><tr><td class="label">登场人物</td><td><a href="./宇佐见莲子.md" title="宇佐见莲子">宇佐见莲子</a>，<a href="./玛艾露贝莉·赫恩.md" title="玛艾露贝莉·赫恩">玛艾露贝莉·赫恩</a></td></tr><tr><td class="label">售价</td><td>会场售价：700日元<br>通贩售价：800日元</td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://x.com/FHFbooks82/status/1793975586182103290">https://x.com/FHFbooks82/status/1793975586182103290</a></td></tr></tbody></table>
 
 秘封WARDROBE II（同人志，初霜文庫，2024） - 2024年6月1日 由 初霜文庫 于 梦之世纪 魅知之旅2 发布的绘本同人志，A5尺寸一共20页，登场人物有 宇佐见莲子、玛艾露贝莉·赫恩，分级为 一般向
-
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://fhfbooks82.booth.pm/items/5725823">Booth</a></td></tr></tbody></table>
 
 
-
 ## 预览
-- [](./文件-秘封WARDROBE_II预览图1.jpg.md)- [](./文件-秘封WARDROBE_II预览图2.jpg.md)- [](./文件-秘封WARDROBE_II预览图3.jpg.md)- [](./文件-秘封WARDROBE_II预览图4.jpg.md)
+
+- <img alt="秘封WARDROBE II预览图1.jpg" src="https://upload.thwiki.cc/thumb/9/97/%E7%A7%98%E5%B0%81WARDROBE_II%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg/281px-%E7%A7%98%E5%B0%81WARDROBE_II%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg" decoding="async" loading="lazy" width="188" height="250" srcset="https://upload.thwiki.cc/thumb/9/97/%E7%A7%98%E5%B0%81WARDROBE_II%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg/422px-%E7%A7%98%E5%B0%81WARDROBE_II%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg 1.5x, https://upload.thwiki.cc/thumb/9/97/%E7%A7%98%E5%B0%81WARDROBE_II%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg/562px-%E7%A7%98%E5%B0%81WARDROBE_II%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg 2x" data-file-width="768" data-file-height="1024"> 
+- <img alt="秘封WARDROBE II预览图2.jpg" src="https://upload.thwiki.cc/thumb/5/57/%E7%A7%98%E5%B0%81WARDROBE_II%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg/267px-%E7%A7%98%E5%B0%81WARDROBE_II%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg" decoding="async" loading="lazy" width="178" height="250" srcset="https://upload.thwiki.cc/thumb/5/57/%E7%A7%98%E5%B0%81WARDROBE_II%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg/401px-%E7%A7%98%E5%B0%81WARDROBE_II%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg 1.5x, https://upload.thwiki.cc/thumb/5/57/%E7%A7%98%E5%B0%81WARDROBE_II%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg/535px-%E7%A7%98%E5%B0%81WARDROBE_II%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg 2x" data-file-width="730" data-file-height="1024"> 
+- <img alt="秘封WARDROBE II预览图3.jpg" src="https://upload.thwiki.cc/thumb/1/1d/%E7%A7%98%E5%B0%81WARDROBE_II%E9%A2%84%E8%A7%88%E5%9B%BE3.jpg/281px-%E7%A7%98%E5%B0%81WARDROBE_II%E9%A2%84%E8%A7%88%E5%9B%BE3.jpg" decoding="async" loading="lazy" width="188" height="250" srcset="https://upload.thwiki.cc/thumb/1/1d/%E7%A7%98%E5%B0%81WARDROBE_II%E9%A2%84%E8%A7%88%E5%9B%BE3.jpg/422px-%E7%A7%98%E5%B0%81WARDROBE_II%E9%A2%84%E8%A7%88%E5%9B%BE3.jpg 1.5x, https://upload.thwiki.cc/thumb/1/1d/%E7%A7%98%E5%B0%81WARDROBE_II%E9%A2%84%E8%A7%88%E5%9B%BE3.jpg/562px-%E7%A7%98%E5%B0%81WARDROBE_II%E9%A2%84%E8%A7%88%E5%9B%BE3.jpg 2x" data-file-width="768" data-file-height="1024"> 
+- <img alt="秘封WARDROBE II预览图4.jpg" src="https://upload.thwiki.cc/thumb/a/ad/%E7%A7%98%E5%B0%81WARDROBE_II%E9%A2%84%E8%A7%88%E5%9B%BE4.jpg/281px-%E7%A7%98%E5%B0%81WARDROBE_II%E9%A2%84%E8%A7%88%E5%9B%BE4.jpg" decoding="async" loading="lazy" width="188" height="250" srcset="https://upload.thwiki.cc/thumb/a/ad/%E7%A7%98%E5%B0%81WARDROBE_II%E9%A2%84%E8%A7%88%E5%9B%BE4.jpg/422px-%E7%A7%98%E5%B0%81WARDROBE_II%E9%A2%84%E8%A7%88%E5%9B%BE4.jpg 1.5x, https://upload.thwiki.cc/thumb/a/ad/%E7%A7%98%E5%B0%81WARDROBE_II%E9%A2%84%E8%A7%88%E5%9B%BE4.jpg/562px-%E7%A7%98%E5%B0%81WARDROBE_II%E9%A2%84%E8%A7%88%E5%9B%BE4.jpg 2x" data-file-width="768" data-file-height="1024"> 
 
 
 ## Staff
 Illustration
 : [初霜文庫](./初霜文庫.md)
 
-
 ## 评论
-
-
-
 
 ---
 

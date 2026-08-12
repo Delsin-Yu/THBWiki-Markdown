@@ -1,6 +1,6 @@
 # 文件:Stream_of_Life封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\37\ns6%3AStream_of_Life%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\37\ns6%3AStream_of_Life%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 あさつき堂 | 同人志封面 | 封面图片
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [Stream of Life](./Stream_of_Life.md)  
-该封面包含的角色：- [莉格露·奈特巴格](./莉格露·奈特巴格.md)- [上白泽慧音](./上白泽慧音.md)
-
-
-
+- [Stream of Life](./Stream_of_Life.md)该封面包含的角色：
+- [莉格露·奈特巴格](./莉格露·奈特巴格.md)
+- [上白泽慧音](./上白泽慧音.md)
 
 
 ---

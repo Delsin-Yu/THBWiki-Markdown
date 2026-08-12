@@ -1,6 +1,6 @@
 # 文件:Hidden_Waveform_in_Four_Channels封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f0\ns6%3AHidden_Waveform_in_Four_Channels%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f0\ns6%3AHidden_Waveform_in_Four_Channels%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Pigu | 专辑封面 | 封面图片
 
@@ -8,10 +8,7 @@ Pigu | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Hidden Waveform in Four Channels](./Hidden_Waveform_in_Four_Channels.md)源地址：[[1]](https://f4.bcbits.com/img/a1162014375_10.jpg)
-
-
-
+- [Hidden Waveform in Four Channels](./Hidden_Waveform_in_Four_Channels.md)源地址：[\[1\]](https://f4.bcbits.com/img/a1162014375_10.jpg)
 
 
 ---

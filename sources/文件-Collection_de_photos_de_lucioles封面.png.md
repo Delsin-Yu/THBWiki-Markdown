@@ -1,6 +1,6 @@
 # 文件:Collection_de_photos_de_lucioles封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b3\ns6%3ACollection_de_photos_de_lucioles%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b3\ns6%3ACollection_de_photos_de_lucioles%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 ALQUERMES | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@ ALQUERMES | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Collection de photos de lucioles](./Collection_de_photos_de_lucioles.md)  
-该封面包含的角色：- [莉格露·奈特巴格](./莉格露·奈特巴格.md)
+- [Collection de photos de lucioles](./Collection_de_photos_de_lucioles.md)该封面包含的角色：
+- [莉格露·奈特巴格](./莉格露·奈特巴格.md)
 
   
-源地址：[direct image link (original size)](https://s2.booth.pm/5ef1de49-97d7-4b30-8583-152ea4974aaa/i/1203818/6bff2774-d025-4dce-b868-9ec27b2b8270.png), [source page (circle Booth)](https://hdnlkwai.booth.pm/items/1203818)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://s2.booth.pm/5ef1de49-97d7-4b30-8583-152ea4974aaa/i/1203818/6bff2774-d025-4dce-b868-9ec27b2b8270.png), [source page (circle Booth)](https://hdnlkwai.booth.pm/items/1203818)  
 
 ---
 

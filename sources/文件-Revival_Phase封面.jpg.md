@@ -1,6 +1,6 @@
 # 文件:Revival_Phase封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3b\ns6%3ARevival_Phase%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3b\ns6%3ARevival_Phase%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Bullet_IX | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Bullet_IX | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Revival Phase](./Revival_Phase.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [Revival Phase](./Revival_Phase.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:童祭_～_for_Wedding合同企划壁纸1.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\41\ns6%3A%E7%AB%A5%E7%A5%AD_%EF%BD%9E_for_Wedding%E5%90%88%E5%90%8C%E4%BC%81%E5%88%92%E5%A3%81%E7%BA%B81%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\41\ns6%3A%E7%AB%A5%E7%A5%AD_%EF%BD%9E_for_Wedding%E5%90%88%E5%90%8C%E4%BC%81%E5%88%92%E5%A3%81%E7%BA%B81%2Epng.html -->
 
 童祭_～_for_Wedding
-
-
-
-
 
 
 ---

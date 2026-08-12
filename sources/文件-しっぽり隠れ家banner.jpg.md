@@ -1,12 +1,8 @@
 # 文件:しっぽり隠れ家banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e6\ns6%3A%E3%81%97%E3%81%A3%E3%81%BD%E3%82%8A%E9%9A%A0%E3%82%8C%E5%AE%B6banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e6\ns6%3A%E3%81%97%E3%81%A3%E3%81%BD%E3%82%8A%E9%9A%A0%E3%82%8C%E5%AE%B6banner%2Ejpg.html -->
 
 しっぽり隠れ家 | 社团LOGO
-
-
-
-
 
 
 ---

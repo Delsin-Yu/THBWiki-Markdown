@@ -1,6 +1,6 @@
 # 文件:the_TOHO_Creation_EP_~Mountain_of_Faith~封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9a\ns6%3Athe_TOHO_Creation_EP_%7EMountain_of_Faith%7E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9a\ns6%3Athe_TOHO_Creation_EP_%7EMountain_of_Faith%7E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ClumsyRecord | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ ClumsyRecord | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [the TOHO Creation EP ~Mountain of Faith~](./the_TOHO_Creation_EP_~Mountain_of_Faith~.md)  
-该封面包含的角色：- [键山雏](./键山雏.md)
-
-
-
+- [the TOHO Creation EP ~Mountain of Faith~](./the_TOHO_Creation_EP_~Mountain_of_Faith~.md)该封面包含的角色：
+- [键山雏](./键山雏.md)
 
 
 ---

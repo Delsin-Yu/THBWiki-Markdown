@@ -1,12 +1,8 @@
 # 文件:秘海潮汐logo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\73\ns6%3A%E7%A7%98%E6%B5%B7%E6%BD%AE%E6%B1%90logo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\73\ns6%3A%E7%A7%98%E6%B5%B7%E6%BD%AE%E6%B1%90logo%2Epng.html -->
 
 社团LOGO | 秘海潮汐
-
-
-
-
 
 
 ---

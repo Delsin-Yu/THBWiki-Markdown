@@ -1,31 +1,28 @@
 # Good_bye_memory_on_a_far_day
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\3\37\ns0%3AGood_bye_memory_on_a_far_day.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\3\37\ns0%3AGood_bye_memory_on_a_far_day.html -->
 
 2018年5月6日 由 Vampire＊Berry 于 博丽神社例大祭15 发布的漫画同人志，B5尺寸一共32页，登场人物有 尔子田里乃、丁礼田舞，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人志 (未找到链接)** 的词条
-
+**[二次创作同人志](./二次创作.md#同人志)**的词条
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Good_bye_memory_on_a_far_day封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/7/7f/Good_bye_memory_on_a_far_day%E5%B0%81%E9%9D%A2.jpg/156px-Good_bye_memory_on_a_far_day%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="156" height="224" srcset="https://upload.thwiki.cc/thumb/7/7f/Good_bye_memory_on_a_far_day%E5%B0%81%E9%9D%A2.jpg/234px-Good_bye_memory_on_a_far_day%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/7/7f/Good_bye_memory_on_a_far_day%E5%B0%81%E9%9D%A2.jpg/313px-Good_bye_memory_on_a_far_day%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="838" data-file-height="1200"></a><div class="cover-char">角色：<a href="./尔子田里乃.md" title="尔子田里乃">尔子田里乃</a>，<a href="./丁礼田舞.md" title="丁礼田舞">丁礼田舞</a></div></td>
 </tr><tr><td class="label">名称</td><td colspan="2"> Good bye memory on a far day </td></tr><tr><td class="label">制作方</td><td><a href="./Vampire＊Berry.md" title="Vampire＊Berry">Vampire＊Berry</a></td><td class="cover-artwork" rowspan="8" style="min-width:224px;"><a href="./文件-Good_bye_memory_on_a_far_day封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/7/7f/Good_bye_memory_on_a_far_day%E5%B0%81%E9%9D%A2.jpg/156px-Good_bye_memory_on_a_far_day%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="156" height="224" srcset="https://upload.thwiki.cc/thumb/7/7f/Good_bye_memory_on_a_far_day%E5%B0%81%E9%9D%A2.jpg/234px-Good_bye_memory_on_a_far_day%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/7/7f/Good_bye_memory_on_a_far_day%E5%B0%81%E9%9D%A2.jpg/313px-Good_bye_memory_on_a_far_day%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="838" data-file-height="1200"></a><div class="cover-char">角色：<a href="./尔子田里乃.md" title="尔子田里乃">尔子田里乃</a>，<a href="./丁礼田舞.md" title="丁礼田舞">丁礼田舞</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2018-05-06&#160;（<a href="/展会作品列表?e=%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD%2315">第十五回 博麗神社例大祭</a>）</td></tr><tr><td class="label">类型</td><td>漫画</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>B5</td></tr><tr><td class="label">页数</td><td>32P</td></tr><tr><td class="label">登场人物</td><td><a href="./尔子田里乃.md" title="尔子田里乃">尔子田里乃</a>，<a href="./丁礼田舞.md" title="丁礼田舞">丁礼田舞</a></td></tr><tr><td class="label">售价</td><td>会场售价：500日元<br>通贩售价：600日元</td></tr>
+</tr><tr><td class="label">首发日期</td><td>2018-05-06 （<a href="./展会作品列表.md#15">第十五回 博麗神社例大祭</a>）</td></tr><tr><td class="label">类型</td><td>漫画</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>B5</td></tr><tr><td class="label">页数</td><td>32P</td></tr><tr><td class="label">登场人物</td><td><a href="./尔子田里乃.md" title="尔子田里乃">尔子田里乃</a>，<a href="./丁礼田舞.md" title="丁礼田舞">丁礼田舞</a></td></tr><tr><td class="label">售价</td><td>会场售价：500日元<br>通贩售价：600日元</td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/68204695">https://www.pixiv.net/artworks/68204695</a></td></tr></tbody></table>
 
 Good bye memory on a far day（同人志，Vampire＊Berry，2018） - 2018年5月6日 由 Vampire＊Berry 于 博丽神社例大祭15 发布的漫画同人志，B5尺寸一共32页，登场人物有 尔子田里乃、丁礼田舞，分级为 一般向
-
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=357952">蜜瓜</a></td></tr></tbody></table>
 
 
-
 ## Staff
+
 - 扇城ひな (未找到链接)
 
 
 ## 评论
-
   
 二童子が隠岐奈の部下になる前の遠い昔のお話を描いたものです。  
 
@@ -33,14 +30,7 @@ Good bye memory on a far day（同人志，Vampire＊Berry，2018） - 2018年5�
 
 初めて舞と出会い、本当の友達になったが…?  
 
-純情なシリアスをイメージして執筆いたしました。
-  
-
-
-
-
-
-
+純情なシリアスをイメージして執筆いたしました。  
 
 ---
 

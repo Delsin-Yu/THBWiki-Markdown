@@ -1,6 +1,6 @@
 # 文件:STAR_ROAD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cf\ns6%3ASTAR_ROAD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cf\ns6%3ASTAR_ROAD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Zephill | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Zephill | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [STAR ROAD](./STAR_ROAD.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [STAR ROAD](./STAR_ROAD.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

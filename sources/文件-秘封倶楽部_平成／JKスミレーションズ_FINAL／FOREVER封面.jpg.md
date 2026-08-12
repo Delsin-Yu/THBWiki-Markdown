@@ -1,6 +1,6 @@
 # 文件:秘封倶楽部_平成／JKスミレーションズ_FINAL／FOREVER封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c5\ns6%3A%E7%A7%98%E5%B0%81%E5%80%B6%E6%A5%BD%E9%83%A8_%E5%B9%B3%E6%88%90%EF%BC%8FJK%E3%82%B9%E3%83%9F%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%BA_FINAL%EF%BC%8FFOREVER%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c5\ns6%3A%E7%A7%98%E5%B0%81%E5%80%B6%E6%A5%BD%E9%83%A8_%E5%B9%B3%E6%88%90%EF%BC%8FJK%E3%82%B9%E3%83%9F%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%BA_FINAL%EF%BC%8FFOREVER%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 スプリンタム | 同人志封面 | 封面图片
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [秘封倶楽部 平成／JKスミレーションズ FINAL／FOREVER](./秘封倶楽部_平成／JKスミレーションズ_FINAL／FOREVER.md)  
-该封面包含的角色：- [宇佐见堇子](./宇佐见堇子.md)
+- [秘封倶楽部 平成／JKスミレーションズ FINAL／FOREVER](./秘封倶楽部_平成／JKスミレーションズ_FINAL／FOREVER.md)该封面包含的角色：
+- [宇佐见堇子](./宇佐见堇子.md)
 
   
-[Pixiv ID: 74411054](https://www.pixiv.net/artworks/74411054)
-  
-
-
-
-
+[Pixiv ID: 74411054](https://www.pixiv.net/artworks/74411054)  
 
 ---
 

@@ -1,14 +1,11 @@
 # 文件:八云紫（永夜抄立绘_sp）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8a\ns6%3A%E5%85%AB%E4%BA%91%E7%B4%AB%EF%BC%88%E6%B0%B8%E5%A4%9C%E6%8A%84%E7%AB%8B%E7%BB%98_sp%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8a\ns6%3A%E5%85%AB%E4%BA%91%E7%B4%AB%EF%BC%88%E6%B0%B8%E5%A4%9C%E6%8A%84%E7%AB%8B%E7%BB%98_sp%EF%BC%89%2Epng.html -->
 
 ZUN绘 | 东方永夜抄 | 八云紫 | 官方游戏立绘
 
 
 ## 摘要
-
-
-
 
 ---
 

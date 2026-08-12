@@ -1,6 +1,6 @@
 # 文件:HANABI封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f5\ns6%3AHANABI%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f5\ns6%3AHANABI%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Sister's_Spread-i | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ Sister's_Spread-i | 专辑封面 | 封面图片
   
 
 - [HANABI](./HANABI.md)
-
-
-
 
 
 ---

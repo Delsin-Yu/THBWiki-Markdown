@@ -1,6 +1,6 @@
 # 文件:MANY_BILLIONS_AFTER封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3e\ns6%3AMANY_BILLIONS_AFTER%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3e\ns6%3AMANY_BILLIONS_AFTER%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Afternoon*Tea | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Afternoon*Tea | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [MANY BILLIONS AFTER](./MANY_BILLIONS_AFTER.md)  
-该封面包含的角色：- [藤原妹红](./藤原妹红.md)
-
-
-
+- [MANY BILLIONS AFTER](./MANY_BILLIONS_AFTER.md)该封面包含的角色：
+- [藤原妹红](./藤原妹红.md)
 
 
 ---

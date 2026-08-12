@@ -1,13 +1,11 @@
 # Bleeding_Envy
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\b4\ns0%3ABleeding_Envy.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\b4\ns0%3ABleeding_Envy.html -->
 
 2017年12月29日 由 Lphone 于 Comic Market 93 发布的EP同人专辑，曲目主要风格是 金属，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人专辑 (未找到链接)** 的词条
-<center>
-
+**[二次创作同人专辑](./二次创作.md#同人音乐)**的词条<center>
 <table>
 <tbody><tr>
 <td class="mbox-image"><div style="width: 52px;">
@@ -16,40 +14,31 @@
 </tr>
 </tbody></table>
 
-
 </center>
-
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><div class="cover-char">角色：<a href="./封兽鵺.md" title="封兽鵺">封兽鵺</a></div></td>
 </tr><tr><td class="label">名称</td><td colspan="2"> Bleeding Envy </td></tr><tr><td class="label">制作方</td><td><a href="./Lphone.md" title="Lphone">Lphone</a></td><td class="cover-artwork" rowspan="9" style="min-width:252px;"><div class="cover-char">角色：<a href="./封兽鵺.md" title="封兽鵺">封兽鵺</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2017-12-29&#160;（<a href="/展会作品列表?e=Comic+Market%2393">Comic Market 93</a>）</td></tr><tr><td class="label">类型</td><td>EP</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>2</td></tr><tr><td class="label">总时长</td><td>00:00</td></tr><tr><td class="label">风格类型</td><td>金属</td></tr><tr><td class="label">售价</td><td>会场售价：300日元</td></tr>
+</tr><tr><td class="label">首发日期</td><td>2017-12-29 （<a href="./展会作品列表.md#93">Comic Market 93</a>）</td></tr><tr><td class="label">类型</td><td>EP</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>2</td></tr><tr><td class="label">总时长</td><td>00:00</td></tr><tr><td class="label">风格类型</td><td>金属</td></tr><tr><td class="label">售价</td><td>会场售价：300日元</td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/yusuke1039pro/status/926019358979080193">https://twitter.com/yusuke1039pro/status/926019358979080193</a><br><a rel="nofollow" class="external free" href="https://twitter.com/yusuke1039pro/status/946399519024955392">https://twitter.com/yusuke1039pro/status/946399519024955392</a></td></tr></tbody></table>
 
 Bleeding Envy（同人专辑，Lphone，2017） - 2017年12月29日 由 Lphone 于 Comic Market 93 发布的EP同人专辑，曲目主要风格是 金属，分级为 一般向
-
 ## Staff
   
- **Arrangement**   
+**Arrangement**  
 
-<table><tbody><tr><td><a href="/index.php?title=%E3%83%9A%E3%82%B3%E3%82%B3&amp;action=edit&amp;redlink=1" class="new" title="ペココ（页面不存在）">ペココ</a></td><td><a href="./Lphone.md" title="Lphone">Lphone</a></td><td>Tr.1/2</td></tr></tbody></table>
-
+<table><tbody><tr><td><a class="new" title="ペココ（页面不存在）">ペココ</a></td><td><a href="./Lphone.md" title="Lphone">Lphone</a></td><td>Tr.1/2</td></tr></tbody></table>
 
 Illustration
 : [冥麿](https://meimaro-art.com/)
 
-
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Bleeding_Envy" colspan="2" class="title">Bleeding Envy<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=ペココ&amp;ogmusic=平安のエイリアン&amp;fromwiki=Bleeding_Envy"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E3%83%9A%E3%82%B3%E3%82%B3&amp;action=edit&amp;redlink=1" class="new" title="ペココ（页面不存在）">ペココ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，ペココ&amp;fromwiki=Bleeding_Envy"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=平安のエイリアン&amp;fromwiki=Bleeding_Envy"><span></span></a></span><div class="ogmusic"><a href="./平安のエイリアン.md" class="mw-redirect" title="平安のエイリアン">平安のエイリアン</a></div><div class="source"><a href="./东方星莲船_～_Undefined_Fantastic_Object..md" class="mw-redirect" title="东方星莲船 ～ Undefined Fantastic Object.">东方星莲船　～ Undefined Fantastic Object.</a></div></td></tr>
-<tr><td id="2" class="infoYD"><b>02</b></td><td id="Eternal_regret" colspan="2" class="title">Eternal regret<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=ペココ&amp;ogmusic=紅より儚い永遠&amp;fromwiki=Bleeding_Envy"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E3%83%9A%E3%82%B3%E3%82%B3&amp;action=edit&amp;redlink=1" class="new" title="ペココ（页面不存在）">ペココ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，ペココ&amp;fromwiki=Bleeding_Envy"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">初发布</td><td class="text" colspan="2"><a href="/Vengeance_to_the_humiliation#2" title="Vengeance to the humiliation">Eternal regret</a><div class="source"><a href="./Vengeance_to_the_humiliation.md" title="Vengeance to the humiliation">Vengeance to the humiliation</a></div></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=紅より儚い永遠&amp;fromwiki=Bleeding_Envy"><span></span></a></span><div class="ogmusic"><a href="./紅より儚い永遠.md" class="mw-redirect" title="紅より儚い永遠">紅より儚い永遠</a></div><div class="source"><a href="./东方红魔乡_～_the_Embodiment_of_Scarlet_Devil..md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr></tbody></table>
-
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Bleeding_Envy" colspan="2" class="title">Bleeding Envy</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="ペココ（页面不存在）">ペココ</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./平安时代的外星人.md" class="mw-redirect" title="平安のエイリアン">平安のエイリアン</a></div><div class="source"><a href="./东方星莲船.md" class="mw-redirect" title="东方星莲船 ～ Undefined Fantastic Object.">东方星莲船　～ Undefined Fantastic Object.</a></div></td></tr>
+<tr><td id="2" class="infoYD"><b>02</b></td><td id="Eternal_regret" colspan="2" class="title">Eternal regret</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="ペココ（页面不存在）">ペココ</a></td></tr><tr><td class="left"></td><td class="label">初发布</td><td class="text" colspan="2"><a href="./Vengeance_to_the_humiliation.md#2" title="Vengeance to the humiliation">Eternal regret</a><div class="source"><a href="./Vengeance_to_the_humiliation.md" title="Vengeance to the humiliation">Vengeance to the humiliation</a></div></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./比红色更虚无的永远.md" class="mw-redirect" title="紅より儚い永遠">紅より儚い永遠</a></div><div class="source"><a href="./东方红魔乡.md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr></tbody></table>
 
 
 ## 评论
-
-
-
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:Absolute_Blue_四面疏歌_～_追イ詰メラレタ賢シキ少女ハ封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\91\ns6%3AAbsolute_Blue_%E5%9B%9B%E9%9D%A2%E7%96%8F%E6%AD%8C_%EF%BD%9E_%E8%BF%BD%E3%82%A4%E8%A9%B0%E3%83%A1%E3%83%A9%E3%83%AC%E3%82%BF%E8%B3%A2%E3%82%B7%E3%82%AD%E5%B0%91%E5%A5%B3%E3%83%8F%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\91\ns6%3AAbsolute_Blue_%E5%9B%9B%E9%9D%A2%E7%96%8F%E6%AD%8C_%EF%BD%9E_%E8%BF%BD%E3%82%A4%E8%A9%B0%E3%83%A1%E3%83%A9%E3%83%AC%E3%82%BF%E8%B3%A2%E3%82%B7%E3%82%AD%E5%B0%91%E5%A5%B3%E3%83%8F%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Re：Volte | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Re：Volte | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Absolute Blue 四面疏歌 ～ 追イ詰メラレタ賢シキ少女ハ](./Absolute_Blue_四面疏歌_～_追イ詰メラレタ賢シキ少女ハ.md)  
-该封面包含的角色：- [稀神探女](./稀神探女.md)
-
-
-
+- [Absolute Blue 四面疏歌 ～ 追イ詰メラレタ賢シキ少女ハ](./Absolute_Blue_四面疏歌_～_追イ詰メラレタ賢シキ少女ハ.md)该封面包含的角色：
+- [稀神探女](./稀神探女.md)
 
 
 ---

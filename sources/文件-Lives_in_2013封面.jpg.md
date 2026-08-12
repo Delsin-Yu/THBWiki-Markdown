@@ -1,6 +1,6 @@
 # 文件:Lives_in_2013封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\83\ns6%3ALives_in_2013%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\83\ns6%3ALives_in_2013%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 SOS_-Sound_of_Swing- | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ SOS_-Sound_of_Swing- | 专辑封面 | 封面图片
   
 
 - [Lives in 2013](./Lives_in_2013.md)
-
-
-
 
 
 ---

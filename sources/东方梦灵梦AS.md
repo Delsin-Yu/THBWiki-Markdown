@@ -1,12 +1,11 @@
 # 东方梦灵梦AS
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\01\ns0%3A%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%81%B5%E6%A2%A6AS.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\01\ns0%3A%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%81%B5%E6%A2%A6AS.html -->
 
 2024年6月23日 由 弐維鏡像  发布的漫画同人志，B5尺寸一共28页，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人志 (未找到链接)** 的词条
-
+**[二次创作同人志](./二次创作.md#同人志)**的词条
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-东方梦灵梦AS封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/5/58/%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%81%B5%E6%A2%A6AS%E5%B0%81%E9%9D%A2.jpg/138px-%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%81%B5%E6%A2%A6AS%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="138" height="196" srcset="https://upload.thwiki.cc/thumb/5/58/%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%81%B5%E6%A2%A6AS%E5%B0%81%E9%9D%A2.jpg/208px-%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%81%B5%E6%A2%A6AS%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/5/58/%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%81%B5%E6%A2%A6AS%E5%B0%81%E9%9D%A2.jpg/277px-%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%81%B5%E6%A2%A6AS%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="500" data-file-height="707"></a><div class="cover-char">角色：<a href="./魂魄妖梦.md" title="魂魄妖梦">魂魄妖梦</a>，<a href="./西行寺幽幽子.md" title="西行寺幽幽子">西行寺幽幽子</a></div></td>
@@ -15,26 +14,16 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://doujin.bgm.tv/subject/17952">https://doujin.bgm.tv/subject/17952</a></td></tr></tbody></table>
 
 东方梦灵梦AS（同人志，弐維鏡像，2013） - 2024年6月22日 由 弐維鏡像  发布的漫画同人志，B5尺寸一共28页，分级为 一般向
-
 ## 预览
 
 ## Staff
 作者
 : Samail、两卡车、鳗鱼子
 
-
 ## 评论
   
 全28P的黑白漫画本，讲述的是梦灵梦之后发生的故事！
   
-  
-  
-
-  
-
-
-
-
 
 ---
 

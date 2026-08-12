@@ -1,16 +1,12 @@
 # 文件:papetsuto1.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b8\ns6%3Apapetsuto1%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b8\ns6%3Apapetsuto1%2Ejpg.html -->
 
 ぱぺっと
 
   
 ぱぺつと
   
-
-
-
-
 
 ---
 

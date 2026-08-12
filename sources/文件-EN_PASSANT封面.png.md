@@ -1,6 +1,6 @@
 # 文件:EN_PASSANT封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0d\ns6%3AEN_PASSANT%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0d\ns6%3AEN_PASSANT%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 マホトア豆腐店 | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [EN PASSANT](./EN_PASSANT.md)  
-该封面包含的角色：- [封兽鵺](./封兽鵺.md)
-
-
-
+- [EN PASSANT](./EN_PASSANT.md)该封面包含的角色：
+- [封兽鵺](./封兽鵺.md)
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:莓坊主banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\84\ns6%3A%E8%8E%93%E5%9D%8A%E4%B8%BBbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\84\ns6%3A%E8%8E%93%E5%9D%8A%E4%B8%BBbanner%2Epng.html -->
 
 社团LOGO | 莓坊主
-
-
-
-
 
 
 ---

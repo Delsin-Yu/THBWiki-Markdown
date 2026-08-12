@@ -1,6 +1,6 @@
 # 文件:to_Desire_2封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4a\ns6%3Ato_Desire_2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4a\ns6%3Ato_Desire_2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 StudioYKK | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ StudioYKK | 专辑封面 | 封面图片
   
 
 - [to Desire 2](./to_Desire_2.md)
-
-
-
 
 
 ---

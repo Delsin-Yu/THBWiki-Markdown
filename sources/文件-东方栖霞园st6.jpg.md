@@ -1,14 +1,11 @@
 # 文件:东方栖霞园st6.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\ff\ns6%3A%E4%B8%9C%E6%96%B9%E6%A0%96%E9%9C%9E%E5%9B%ADst6%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\ff\ns6%3A%E4%B8%9C%E6%96%B9%E6%A0%96%E9%9C%9E%E5%9B%ADst6%2Ejpg.html -->
 
 东方祈华梦制作组
 
 
 ## 文件说明
-
-
-
 
 ---
 

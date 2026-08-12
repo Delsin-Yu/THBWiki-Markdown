@@ -1,6 +1,6 @@
 # 文件:東方幻夜抄_-SIDE_A-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a2\ns6%3A%E6%9D%B1%E6%96%B9%E5%B9%BB%E5%A4%9C%E6%8A%84_-SIDE_A-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a2\ns6%3A%E6%9D%B1%E6%96%B9%E5%B9%BB%E5%A4%9C%E6%8A%84_-SIDE_A-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 流派未确定
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方幻夜抄 -SIDE A-](./東方幻夜抄_-SIDE_A-.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [東方幻夜抄 -SIDE A-](./東方幻夜抄_-SIDE_A-.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

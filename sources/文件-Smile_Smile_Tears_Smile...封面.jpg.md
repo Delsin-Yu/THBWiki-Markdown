@@ -1,6 +1,6 @@
 # 文件:Smile_Smile_Tears_Smile...封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c5\ns6%3ASmile_Smile_Tears_Smile%2E%2E%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c5\ns6%3ASmile_Smile_Tears_Smile%2E%2E%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 暴LADY
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Smile Smile Tears Smile...](./Smile_Smile_Tears_Smile....md)  
-该封面包含的角色：- [圣白莲](./圣白莲.md)
-
-
-
+- [Smile Smile Tears Smile...](./Smile_Smile_Tears_Smile....md)该封面包含的角色：
+- [圣白莲](./圣白莲.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:偶像に世界を委ねて_～_Idoratrize_World_Metal_Arrange封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\39\ns6%3A%E5%81%B6%E5%83%8F%E3%81%AB%E4%B8%96%E7%95%8C%E3%82%92%E5%A7%94%E3%81%AD%E3%81%A6_%EF%BD%9E_Idoratrize_World_Metal_Arrange%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\39\ns6%3A%E5%81%B6%E5%83%8F%E3%81%AB%E4%B8%96%E7%95%8C%E3%82%92%E5%A7%94%E3%81%AD%E3%81%A6_%EF%BD%9E_Idoratrize_World_Metal_Arrange%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 POLTANEST | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ POLTANEST | 专辑封面 | 封面图片
   
 
 - [偶像に世界を委ねて ～ Idoratrize World Metal Arrange](./偶像に世界を委ねて_～_Idoratrize_World_Metal_Arrange.md)
-
-
-
 
 
 ---

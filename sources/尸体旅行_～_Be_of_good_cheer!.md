@@ -1,39 +1,29 @@
 # 尸体旅行_～_Be_of_good_cheer!
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\8\82\ns0%3A%E5%B0%B8%E4%BD%93%E6%97%85%E8%A1%8C_%EF%BD%9E_Be_of_good_cheer%21.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\8\82\ns0%3A%E5%B0%B8%E4%BD%93%E6%97%85%E8%A1%8C_%EF%BD%9E_Be_of_good_cheer%21.html -->
 
 由 ZUN 创作的官方曲目，原名 死体旅行　～ Be of good cheer!
 
 本页是关于东方Project  
- **原作音乐** 的词条
-
+**原作音乐**的词条
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 出现作品](#出现作品)
 - [3 音乐文件](#音乐文件)
-
   - [3.1 东方地灵殿](#东方地灵殿)
   - [3.2 东方兽王园](#东方兽王园)
 
 
-
 - [4 说明文本](#说明文本)
-
   - [4.1 东方地灵殿](#东方地灵殿_2)
   - [4.2 东方兽王园](#东方兽王园_2)
 
 
-
 - [5 其他资料](#其他资料)
-
   - [5.1 乐理资讯](#乐理资讯)
   - [5.2 分析考据](#分析考据)
   - [5.3 二次同人数据](#二次同人数据)
-
-
-
-
 
 
 
@@ -43,14 +33,12 @@
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">死体旅行　～ Be of good cheer!</td></tr><tr><td><b>译名</b></td><td>尸体旅行 ～ Be of good cheer!</td></tr><tr><td><b>英文译名</b></td><td>Corpse Voyage ~ Be of good cheer!</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 尸体旅行 ～ Be of good cheer!（曲目） - 由 ZUN 创作的官方曲目，原名 死体旅行　～ Be of good cheer!
-
 ## 出现作品
 
 <table>
 <tbody><tr><td>2008年8月16日（Comic Market 74）</td><td><b><a href="./东方地灵殿.md" title="东方地灵殿">东方地灵殿</a>正式版</b></td><td>5面BOSS<a href="./火焰猫燐.md" title="火焰猫燐">火焰猫燐</a>的主题曲</td><td style="padding-left:5px;">死体旅行　～ Be of good cheer!（尸体旅行 ～ Be of good cheer!）</td><td style="padding-left:10px;">作曲：ZUN</td></tr>
 <tr><td>2023年8月13日（Comic Market 102）</td><td><b><a href="./东方兽王园.md" title="东方兽王园">东方兽王园</a>正式版</b></td><td><a href="./火焰猫燐.md" title="火焰猫燐">火焰猫燐</a>的主题曲</td><td style="padding-left:5px;">死体旅行　～ Be of good cheer!（尸体旅行 ～ Be of good cheer!）</td><td style="padding-left:10px;">编曲：ZUN</td></tr>
 </tbody></table>
-
 
 
 ## 音乐文件
@@ -65,7 +53,6 @@
 </td></tr></tbody></table>
 
 
-
 ### 东方兽王园
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th19_15.mp3.md" title="文件:th19 15.mp3">th19_15.mp3</a><br><audio src="https://upload.thwiki.cc/4/42/th19_15.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>BGM\th19_15.wav</td></tr><tr><td><b>BGMForAll</b></td><td><div class="mw-collapsible mw-collapsed">
@@ -76,44 +63,47 @@
 </td></tr></tbody></table>
 
 
-
 ## 说明文本
 
 ### 东方地灵殿
-- Music Room (未找到链接)
+
+- [Music Room](./东方地灵殿-Music.md#5面BOSS火焰猫燐角色曲)
 
 　阿燐的主题曲。  
-　  
+   
 　精神得让人生畏的猫的主题曲。  
 　四、五面都作得比较沉重，便试着一下子变得快活起来。  
 　阿燐推着的车是猫车。你问她在运什么？  
 　你一定会想要是不问的话就好了。
-
 ### 东方兽王园
-- Music Room (未找到链接)
+
+- [Music Room](./东方兽王园-Music.md#火焰猫燐角色曲)
 
 　火焰猫燐的主题曲。  
-　  
+   
 　重编自地灵殿曲目。
-
 ## 其他资料
 
 ### 乐理资讯
 
 ### 分析考据
   
- **死体旅行　～ Be of good cheer!**  尸体旅行　～ Be of good cheer!
+**死体旅行 ～ Be of good cheer!** 尸体旅行　～ Be of good cheer!
   
 
-- 死体旅行
-  - 阿燐有着带走尸体程度的能力。
+- 死体旅行 
+  - 阿燐有着带走尸体程度的能力。 
     - 中国湘西有“赶尸”的传说。
 
 
-- Be of good cheer
+
+
+- Be of good cheer 
   - 不要垂头丧气（劝告用语）;兴致勃勃;心情舒畅。
-  - 新约全书的一节。出自约翰的福音书16章33节，是耶稣基督被钉在十字架上之前对弟子说的最后的话的一部分。
+  - 新约全书的一节。出自约翰的福音书16章33节，是耶稣基督被钉在十字架上之前对弟子说的最后的话的一部分。 
     - 耶稣在三天后复活。
+
+
 
 
 
@@ -130,17 +120,6 @@
 <tr><td>Arrange</td><td>649</td></tr>
 <tr><td>Vocal率</td><td>38.95%</td></tr>
 </tbody></table>
-
-
-
-
-  
-  
-
-  
-
-
-
 
 
 ---

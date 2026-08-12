@@ -1,6 +1,6 @@
 # 文件:Red_fragments封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9b\ns6%3ARed_fragments%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9b\ns6%3ARed_fragments%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 ぱれっとぱれーど | 同人志封面 | 封面图片
 
@@ -10,16 +10,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [Red fragments](./Red_fragments.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [Red fragments](./Red_fragments.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
   
-源地址：[direct image link (max size; cropped from original)](https://paletteparade.up.seesaa.net/image/hyousi20.jpg), [source page](http://paletteparade.seesaa.net/article/198598589.html)
-  
-
-
-
-
+源地址：[direct image link (max size; cropped from original)](https://paletteparade.up.seesaa.net/image/hyousi20.jpg), [source page](http://paletteparade.seesaa.net/article/198598589.html)  
 
 ---
 

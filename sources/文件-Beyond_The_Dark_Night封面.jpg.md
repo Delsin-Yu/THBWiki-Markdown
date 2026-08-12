@@ -1,6 +1,6 @@
 # 文件:Beyond_The_Dark_Night封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7b\ns6%3ABeyond_The_Dark_Night%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7b\ns6%3ABeyond_The_Dark_Night%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Kan詰め | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Kan詰め | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Beyond The Dark Night](./Beyond_The_Dark_Night.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
-
-
-
+- [Beyond The Dark Night](./Beyond_The_Dark_Night.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Sugar,_Spice,_and_Everything_Nice._～十六夜咲夜の恋わずらい～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3c\ns6%3ASugar%2C_Spice%2C_and_Everything_Nice%2E_%EF%BD%9E%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C%E3%81%AE%E6%81%8B%E3%82%8F%E3%81%9A%E3%82%89%E3%81%84%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3c\ns6%3ASugar%2C_Spice%2C_and_Everything_Nice%2E_%EF%BD%9E%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C%E3%81%AE%E6%81%8B%E3%82%8F%E3%81%9A%E3%82%89%E3%81%84%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 米
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [Sugar, Spice, and Everything Nice. ～十六夜咲夜の恋わずらい～](./Sugar,_Spice,_and_Everything_Nice._～十六夜咲夜の恋わずらい～.md)  
-该封面包含的角色：- [红美铃](./红美铃.md)- 十六夜咲夜 (未找到链接)
-
-
-
+- [Sugar, Spice, and Everything Nice. ～十六夜咲夜の恋わずらい～](./Sugar,_Spice,_and_Everything_Nice._～十六夜咲夜の恋わずらい～.md)该封面包含的角色：
+- [红美铃](./红美铃.md)
+- [十六夜咲夜](./十六夜咲夜.md)
 
 
 ---

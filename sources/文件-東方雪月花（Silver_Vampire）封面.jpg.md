@@ -1,6 +1,6 @@
 # 文件:東方雪月花（Silver_Vampire）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\10\ns6%3A%E6%9D%B1%E6%96%B9%E9%9B%AA%E6%9C%88%E8%8A%B1%EF%BC%88Silver_Vampire%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\10\ns6%3A%E6%9D%B1%E6%96%B9%E9%9B%AA%E6%9C%88%E8%8A%B1%EF%BC%88Silver_Vampire%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Silver_Vampire | 专辑封面 | 封面图片
 
@@ -10,11 +10,9 @@ Silver_Vampire | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方雪月花（Silver Vampire）](./東方雪月花（Silver_Vampire）.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
-
-
-
+- [東方雪月花（Silver Vampire）](./東方雪月花（Silver_Vampire）.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
 
 ---

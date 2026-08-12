@@ -1,12 +1,8 @@
 # 文件:土金符「Emerald_Megalopolis」（非想天则）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\60\ns6%3A%E5%9C%9F%E9%87%91%E7%AC%A6%E3%80%8CEmerald_Megalopolis%E3%80%8D%EF%BC%88%E9%9D%9E%E6%83%B3%E5%A4%A9%E5%88%99%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\60\ns6%3A%E5%9C%9F%E9%87%91%E7%AC%A6%E3%80%8CEmerald_Megalopolis%E3%80%8D%EF%BC%88%E9%9D%9E%E6%83%B3%E5%A4%A9%E5%88%99%EF%BC%89%2Ejpg.html -->
 
 东方非想天则 | 帕秋莉·诺蕾姬 | 自机符卡
-
-
-
-
 
 
 ---

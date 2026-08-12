@@ -1,14 +1,11 @@
 # 文件:ひかげのそのbanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f8\ns6%3A%E3%81%B2%E3%81%8B%E3%81%92%E3%81%AE%E3%81%9D%E3%81%AEbanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f8\ns6%3A%E3%81%B2%E3%81%8B%E3%81%92%E3%81%AE%E3%81%9D%E3%81%AEbanner%2Egif.html -->
 
 ひかげのその | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

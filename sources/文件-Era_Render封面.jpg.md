@@ -1,6 +1,6 @@
 # 文件:Era_Render封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\29\ns6%3AEra_Render%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\29\ns6%3AEra_Render%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Frozen_Snow_Productions | 专辑封面 | 封面图片
 
@@ -8,10 +8,7 @@ Frozen_Snow_Productions | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Era Render](./Era_Render.md)源地址：[[1]](https://fspofficial.bandcamp.com/album/era-render)
-
-
-
+- [Era Render](./Era_Render.md)源地址：[\[1\]](https://fspofficial.bandcamp.com/album/era-render)
 
 
 ---

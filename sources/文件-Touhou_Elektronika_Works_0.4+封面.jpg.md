@@ -1,6 +1,6 @@
 # 文件:Touhou_Elektronika_Works_0.4+封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\67\ns6%3ATouhou_Elektronika_Works_0%2E4%2B%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\67\ns6%3ATouhou_Elektronika_Works_0%2E4%2B%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 AudioINN | 专辑封面 | 封面图片
 
@@ -8,12 +8,9 @@ AudioINN | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Touhou Elektronika Works 0.4+](./Touhou_Elektronika_Works_0.4+.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)源地址：[[1]](http://audioinn.web.fc2.com/works.html)
-
-
-
-
+- [Touhou Elektronika Works 0.4+](./Touhou_Elektronika_Works_0.4+.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+源地址：[\[1\]](http://audioinn.web.fc2.com/works.html)
 
 ---
 

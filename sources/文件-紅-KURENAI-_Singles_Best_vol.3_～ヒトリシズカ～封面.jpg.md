@@ -1,6 +1,6 @@
 # 文件:紅-KURENAI-_Singles_Best_vol.3_～ヒトリシズカ～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e9\ns6%3A%E7%B4%85-KURENAI-_Singles_Best_vol%2E3_%EF%BD%9E%E3%83%92%E3%83%88%E3%83%AA%E3%82%B7%E3%82%BA%E3%82%AB%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e9\ns6%3A%E7%B4%85-KURENAI-_Singles_Best_vol%2E3_%EF%BD%9E%E3%83%92%E3%83%88%E3%83%AA%E3%82%B7%E3%82%BA%E3%82%AB%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 幽闭星光
 
@@ -8,16 +8,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [紅-KURENAI- Singles Best vol.3 ～ヒトリシズカ～](./紅-KURENAI-_Singles_Best_vol.3_～ヒトリシズカ～.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [紅-KURENAI- Singles Best vol.3 ～ヒトリシズカ～](./紅-KURENAI-_Singles_Best_vol.3_～ヒトリシズカ～.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
   
-源地址：[[1]](http://yuuhei-satellite.sakura.ne.jp/wp/images/2016/07/KURENAIジャケ.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://yuuhei-satellite.sakura.ne.jp/wp/images/2016/07/KURENAIジャケ.jpg)  
 
 ---
 

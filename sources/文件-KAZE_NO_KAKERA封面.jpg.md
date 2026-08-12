@@ -1,6 +1,6 @@
 # 文件:KAZE_NO_KAKERA封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\81\ns6%3AKAZE_NO_KAKERA%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\81\ns6%3AKAZE_NO_KAKERA%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Cloister_Notes | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ Cloister_Notes | 专辑封面 | 封面图片
   
 
 - [KAZE NO KAKERA](./KAZE_NO_KAKERA.md)
-
-
-
 
 
 ---

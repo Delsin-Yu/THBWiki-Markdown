@@ -1,12 +1,8 @@
 # 文件:糖符「Von_Bon_Bon伯爵夫人」.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\62\ns6%3A%E7%B3%96%E7%AC%A6%E3%80%8CVon_Bon_Bon%E4%BC%AF%E7%88%B5%E5%A4%AB%E4%BA%BA%E3%80%8D%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\62\ns6%3A%E7%B3%96%E7%AC%A6%E3%80%8CVon_Bon_Bon%E4%BC%AF%E7%88%B5%E5%A4%AB%E4%BA%BA%E3%80%8D%2Epng.html -->
 
 东方幕华祭制作组 | 莉莉霍瓦特
-
-
-
-
 
 
 ---

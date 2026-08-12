@@ -1,14 +1,11 @@
 # 文件:Idoratrize_World封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\66\ns6%3AIdoratrize_World%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\66\ns6%3AIdoratrize_World%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 A-One | 专辑封面 | 封面图片
 
 
 ## 摘要
-
-
-
 
 ---
 

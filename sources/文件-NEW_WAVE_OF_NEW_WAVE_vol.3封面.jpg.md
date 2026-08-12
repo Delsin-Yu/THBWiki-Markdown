@@ -1,6 +1,6 @@
 # 文件:NEW_WAVE_OF_NEW_WAVE_vol.3封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\11\ns6%3ANEW_WAVE_OF_NEW_WAVE_vol%2E3%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\11\ns6%3ANEW_WAVE_OF_NEW_WAVE_vol%2E3%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 C.S.C→luv | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ C.S.C→luv | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [NEW WAVE OF NEW WAVE vol.3](./NEW_WAVE_OF_NEW_WAVE_vol.3.md)  
-该封面包含的角色：- [小野塚小町](./小野塚小町.md)
-
-
-
+- [NEW WAVE OF NEW WAVE vol.3](./NEW_WAVE_OF_NEW_WAVE_vol.3.md)该封面包含的角色：
+- [小野塚小町](./小野塚小町.md)
 
 
 ---

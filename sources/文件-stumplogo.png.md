@@ -1,18 +1,13 @@
 # 文件:stumplogo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\80\ns6%3Astumplogo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\80\ns6%3Astumplogo%2Epng.html -->
 
 stump | 社团LOGO
 
 
 ## 摘要
   
-源地址：[direct image link](https://stumphp.web.fc2.com/rogo.png), [source page](https://stumphp.web.fc2.com)
-  
-
-
-
-
+源地址：[direct image link](https://stumphp.web.fc2.com/rogo.png), [source page](https://stumphp.web.fc2.com)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:幻想遊園郷_-Fantastic_Park-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b3\ns6%3A%E5%B9%BB%E6%83%B3%E9%81%8A%E5%9C%92%E9%83%B7_-Fantastic_Park-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b3\ns6%3A%E5%B9%BB%E6%83%B3%E9%81%8A%E5%9C%92%E9%83%B7_-Fantastic_Park-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Arte_Refact | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Arte_Refact | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [幻想遊園郷 -Fantastic Park-](./幻想遊園郷_-Fantastic_Park-.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
-
-
-
+- [幻想遊園郷 -Fantastic Park-](./幻想遊園郷_-Fantastic_Park-.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
 
 ---

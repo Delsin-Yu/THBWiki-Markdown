@@ -1,6 +1,6 @@
 # 文件:Chanson_de_petite_cloche_～小鈴の唄～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\da\ns6%3AChanson_de_petite_cloche_%EF%BD%9E%E5%B0%8F%E9%88%B4%E3%81%AE%E5%94%84%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\da\ns6%3AChanson_de_petite_cloche_%EF%BD%9E%E5%B0%8F%E9%88%B4%E3%81%AE%E5%94%84%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 鈴奈幻想絵巻準備会
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Chanson de petite cloche ～小鈴の唄～](./Chanson_de_petite_cloche_～小鈴の唄～.md)  
-该封面包含的角色：- [本居小铃](./本居小铃.md)
-
-
-
+- [Chanson de petite cloche ～小鈴の唄～](./Chanson_de_petite_cloche_～小鈴の唄～.md)该封面包含的角色：
+- [本居小铃](./本居小铃.md)
 
 
 ---

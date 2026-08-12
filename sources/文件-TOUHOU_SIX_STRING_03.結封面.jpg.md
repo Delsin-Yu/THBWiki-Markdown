@@ -1,6 +1,6 @@
 # 文件:TOUHOU_SIX_STRING_03.結封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ce\ns6%3ATOUHOU_SIX_STRING_03%2E%E7%B5%90%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ce\ns6%3ATOUHOU_SIX_STRING_03%2E%E7%B5%90%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Aftergrow | はちみつれもん | 专辑封面 | 封面图片
 
@@ -8,16 +8,12 @@ Aftergrow | はちみつれもん | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [TOUHOU SIX STRING 03.結](./TOUHOU_SIX_STRING_03.結.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [雾雨魔理沙](./雾雨魔理沙.md)
+- [TOUHOU SIX STRING 03.結](./TOUHOU_SIX_STRING_03.結.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-源地址：[[1]](http://8lemo.com/products/tss03/img/tss03-jacket-min.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://8lemo.com/products/tss03/img/tss03-jacket-min.jpg)  
 
 ---
 

@@ -1,12 +1,8 @@
 # 文件:Trinity_Notebanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\14\ns6%3ATrinity_Notebanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\14\ns6%3ATrinity_Notebanner%2Epng.html -->
 
 Trinity_Note | 社团LOGO
-
-
-
-
 
 
 ---

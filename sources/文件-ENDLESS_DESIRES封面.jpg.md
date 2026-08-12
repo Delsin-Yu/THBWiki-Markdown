@@ -1,6 +1,6 @@
 # 文件:ENDLESS_DESIRES封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\67\ns6%3AENDLESS_DESIRES%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\67\ns6%3AENDLESS_DESIRES%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 TSUKUMO_RECORD | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ TSUKUMO_RECORD | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [ENDLESS DESIRES](./ENDLESS_DESIRES.md)  
-该封面包含的角色：- [霍青娥](./霍青娥.md)
-
-
-
+- [ENDLESS DESIRES](./ENDLESS_DESIRES.md)该封面包含的角色：
+- [霍青娥](./霍青娥.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:HOME～月と太陽が出会う場所～①封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\55\ns6%3AHOME%EF%BD%9E%E6%9C%88%E3%81%A8%E5%A4%AA%E9%99%BD%E3%81%8C%E5%87%BA%E4%BC%9A%E3%81%86%E5%A0%B4%E6%89%80%EF%BD%9E%E2%91%A0%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\55\ns6%3AHOME%EF%BD%9E%E6%9C%88%E3%81%A8%E5%A4%AA%E9%99%BD%E3%81%8C%E5%87%BA%E4%BC%9A%E3%81%86%E5%A0%B4%E6%89%80%EF%BD%9E%E2%91%A0%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ForestRest | 同人志封面 | 封面图片
 
@@ -8,11 +8,13 @@ ForestRest | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [HOME～月と太陽が出会う場所～①](./HOME～月と太陽が出会う場所～①.md)  
-该封面包含的角色：- [红美铃](./红美铃.md)- [博丽灵梦](./博丽灵梦.md)- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)- 十六夜咲夜 (未找到链接)- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [风见幽香](./风见幽香.md)
-
-
-
+- [HOME～月と太陽が出会う場所～①](./HOME～月と太陽が出会う場所～①.md)该封面包含的角色：
+- [红美铃](./红美铃.md)
+- [博丽灵梦](./博丽灵梦.md)
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
+- [十六夜咲夜](./十六夜咲夜.md)
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [风见幽香](./风见幽香.md)
 
 
 ---

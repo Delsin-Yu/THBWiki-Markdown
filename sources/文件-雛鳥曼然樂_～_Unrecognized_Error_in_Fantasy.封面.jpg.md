@@ -1,6 +1,6 @@
 # 文件:雛鳥曼然樂_～_Unrecognized_Error_in_Fantasy.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\71\ns6%3A%E9%9B%9B%E9%B3%A5%E6%9B%BC%E7%84%B6%E6%A8%82_%EF%BD%9E_Unrecognized_Error_in_Fantasy%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\71\ns6%3A%E9%9B%9B%E9%B3%A5%E6%9B%BC%E7%84%B6%E6%A8%82_%EF%BD%9E_Unrecognized_Error_in_Fantasy%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 雛鳥クロニクル
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [雛鳥曼然樂 ～ Unrecognized Error in Fantasy.](./雛鳥曼然樂_～_Unrecognized_Error_in_Fantasy..md)  
-该封面包含的角色：- [萩原樱](./萩原樱.md)
-
-
-
+- [雛鳥曼然樂 ～ Unrecognized Error in Fantasy.](./雛鳥曼然樂_～_Unrecognized_Error_in_Fantasy..md)该封面包含的角色：
+- [萩原樱](./萩原樱.md)
 
 
 ---

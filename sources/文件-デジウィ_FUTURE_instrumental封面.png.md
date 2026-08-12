@@ -1,6 +1,6 @@
 # 文件:デジウィ_FUTURE_instrumental封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f3\ns6%3A%E3%83%87%E3%82%B8%E3%82%A6%E3%82%A3_FUTURE_instrumental%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f3\ns6%3A%E3%83%87%E3%82%B8%E3%82%A6%E3%82%A3_FUTURE_instrumental%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 DiGiTAL_WiNG | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ DiGiTAL_WiNG | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [デジウィ FUTURE instrumental](./デジウィ_FUTURE_instrumental.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
-
-
-
+- [デジウィ FUTURE instrumental](./デジウィ_FUTURE_instrumental.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
 
 ---

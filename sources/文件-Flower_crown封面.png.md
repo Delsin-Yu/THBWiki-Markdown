@@ -1,6 +1,6 @@
 # 文件:Flower_crown封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c7\ns6%3AFlower_crown%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c7\ns6%3AFlower_crown%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 キヨナッツ | 同人志封面 | 封面图片
 
@@ -10,16 +10,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [Flower crown](./Flower_crown.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)- [古明地恋](./古明地恋.md)
+- [Flower crown](./Flower_crown.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [古明地恋](./古明地恋.md)
 
   
-源地址：[direct image link (original size; cropped)](https://pbs.twimg.com/media/FfWD5rWUYAAqMVS?format=jpg&amp;name=orig), [source tweet](https://twitter.com/stun_oyik/status/1582317102324555777)
-  
-
-
-
-
+源地址：[direct image link (original size; cropped)](https://pbs.twimg.com/media/FfWD5rWUYAAqMVS?format=jpg&name=orig), [source tweet](https://twitter.com/stun_oyik/status/1582317102324555777)  
 
 ---
 

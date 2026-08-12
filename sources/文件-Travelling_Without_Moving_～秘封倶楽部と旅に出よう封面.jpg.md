@@ -1,6 +1,6 @@
 # 文件:Travelling_Without_Moving_～秘封倶楽部と旅に出よう封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\05\ns6%3ATravelling_Without_Moving_%EF%BD%9E%E7%A7%98%E5%B0%81%E5%80%B6%E6%A5%BD%E9%83%A8%E3%81%A8%E6%97%85%E3%81%AB%E5%87%BA%E3%82%88%E3%81%86%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\05\ns6%3ATravelling_Without_Moving_%EF%BD%9E%E7%A7%98%E5%B0%81%E5%80%B6%E6%A5%BD%E9%83%A8%E3%81%A8%E6%97%85%E3%81%AB%E5%87%BA%E3%82%88%E3%81%86%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 EL_CASTILLO | 同人志封面 | 封面图片
 
@@ -10,16 +10,12 @@ EL_CASTILLO | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Travelling Without Moving ～秘封倶楽部と旅に出よう](./Travelling_Without_Moving_～秘封倶楽部と旅に出よう.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
+- [Travelling Without Moving ～秘封倶楽部と旅に出よう](./Travelling_Without_Moving_～秘封倶楽部と旅に出よう.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
   
-源地址：[direct image link (original size)](https://pbs.twimg.com/media/F9Cz1RsasAAy1UB?format=jpg&amp;name=orig), [source tweet](https://twitter.com/kukul_can/status/1716069248374853924)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://pbs.twimg.com/media/F9Cz1RsasAAy1UB?format=jpg&name=orig), [source tweet](https://twitter.com/kukul_can/status/1716069248374853924)  
 
 ---
 

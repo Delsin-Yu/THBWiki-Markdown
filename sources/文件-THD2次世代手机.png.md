@@ -1,12 +1,8 @@
 # 文件:THD2次世代手机.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3e\ns6%3ATHD2%E6%AC%A1%E4%B8%96%E4%BB%A3%E6%89%8B%E6%9C%BA%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3e\ns6%3ATHD2%E6%AC%A1%E4%B8%96%E4%BB%A3%E6%89%8B%E6%9C%BA%2Epng.html -->
 
 东方DOTS玩家社群
-
-
-
-
 
 
 ---

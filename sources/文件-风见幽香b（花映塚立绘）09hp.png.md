@@ -1,12 +1,8 @@
 # 文件:风见幽香b（花映塚立绘）09hp.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ac\ns6%3A%E9%A3%8E%E8%A7%81%E5%B9%BD%E9%A6%99b%EF%BC%88%E8%8A%B1%E6%98%A0%E5%A1%9A%E7%AB%8B%E7%BB%98%EF%BC%8909hp%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ac\ns6%3A%E9%A3%8E%E8%A7%81%E5%B9%BD%E9%A6%99b%EF%BC%88%E8%8A%B1%E6%98%A0%E5%A1%9A%E7%AB%8B%E7%BB%98%EF%BC%8909hp%2Epng.html -->
 
 ZUN绘 | 东方花映塚 | 官方游戏立绘 | 风见幽香
-
-
-
-
 
 
 ---

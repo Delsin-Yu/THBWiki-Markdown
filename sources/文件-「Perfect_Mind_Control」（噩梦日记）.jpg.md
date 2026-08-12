@@ -1,12 +1,8 @@
 # 文件:「Perfect_Mind_Control」（噩梦日记）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\ff\ns6%3A%E3%80%8CPerfect_Mind_Control%E3%80%8D%EF%BC%88%E5%99%A9%E6%A2%A6%E6%97%A5%E8%AE%B0%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\ff\ns6%3A%E3%80%8CPerfect_Mind_Control%E3%80%8D%EF%BC%88%E5%99%A9%E6%A2%A6%E6%97%A5%E8%AE%B0%EF%BC%89%2Ejpg.html -->
 
 古明地恋 | 古明地觉 | 敌机符卡 | 秘封噩梦日记
-
-
-
-
 
 
 ---

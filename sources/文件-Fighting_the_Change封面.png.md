@@ -1,6 +1,6 @@
 # 文件:Fighting_the_Change封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\80\ns6%3AFighting_the_Change%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\80\ns6%3AFighting_the_Change%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Crazy_Voltage | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Crazy_Voltage | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Fighting the Change](./Fighting_the_Change.md)  
-该封面包含的角色：- [二岩猯藏](./二岩猯藏.md)
-
-
-
+- [Fighting the Change](./Fighting_the_Change.md)该封面包含的角色：
+- [二岩猯藏](./二岩猯藏.md)
 
 
 ---

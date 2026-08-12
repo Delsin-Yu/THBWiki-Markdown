@@ -1,12 +1,8 @@
 # 文件:ORANGE★JAM_LOGO.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\59\ns6%3AORANGE%E2%98%85JAM_LOGO%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\59\ns6%3AORANGE%E2%98%85JAM_LOGO%2Epng.html -->
 
 ORANGE★JAM | 社团LOGO
-
-
-
-
 
 
 ---

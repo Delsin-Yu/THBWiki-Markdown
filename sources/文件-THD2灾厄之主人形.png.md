@@ -1,12 +1,8 @@
 # 文件:THD2灾厄之主人形.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\26\ns6%3ATHD2%E7%81%BE%E5%8E%84%E4%B9%8B%E4%B8%BB%E4%BA%BA%E5%BD%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\26\ns6%3ATHD2%E7%81%BE%E5%8E%84%E4%B9%8B%E4%B8%BB%E4%BA%BA%E5%BD%A2%2Epng.html -->
 
 AvalonStudioOfficial
-
-
-
-
 
 
 ---

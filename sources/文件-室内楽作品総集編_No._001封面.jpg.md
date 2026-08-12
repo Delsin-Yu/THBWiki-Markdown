@@ -1,6 +1,6 @@
 # 文件:室内楽作品総集編_No._001封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\90\ns6%3A%E5%AE%A4%E5%86%85%E6%A5%BD%E4%BD%9C%E5%93%81%E7%B7%8F%E9%9B%86%E7%B7%A8_No%2E_001%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\90\ns6%3A%E5%AE%A4%E5%86%85%E6%A5%BD%E4%BD%9C%E5%93%81%E7%B7%8F%E9%9B%86%E7%B7%A8_No%2E_001%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 街角麻婆豆
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [室内楽作品総集編 No. 001](./室内楽作品総集編_No._001.md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)
-
-
-
+- [室内楽作品総集編 No. 001](./室内楽作品総集編_No._001.md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:THBWiki-LOGO-河城荷取2.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\72\ns6%3ATHBWiki-LOGO-%E6%B2%B3%E5%9F%8E%E8%8D%B7%E5%8F%962%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\72\ns6%3ATHBWiki-LOGO-%E6%B2%B3%E5%9F%8E%E8%8D%B7%E5%8F%962%2Epng.html -->
 
 THBWiki | Wiki词条分类用图
-
-
-
-
 
 
 ---

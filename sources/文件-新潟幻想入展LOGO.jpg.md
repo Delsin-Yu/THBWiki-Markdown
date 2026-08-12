@@ -1,14 +1,11 @@
 # 文件:新潟幻想入展LOGO.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\19\ns6%3A%E6%96%B0%E6%BD%9F%E5%B9%BB%E6%83%B3%E5%85%A5%E5%B1%95LOGO%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\19\ns6%3A%E6%96%B0%E6%BD%9F%E5%B9%BB%E6%83%B3%E5%85%A5%E5%B1%95LOGO%2Ejpg.html -->
 
 全日本幻想入展 | 新潟幻想入展 | 活动LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

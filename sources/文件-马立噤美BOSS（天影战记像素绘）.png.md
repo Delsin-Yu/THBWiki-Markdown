@@ -1,14 +1,11 @@
 # 文件:马立噤美BOSS（天影战记像素绘）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\81\ns6%3A%E9%A9%AC%E7%AB%8B%E5%99%A4%E7%BE%8EBOSS%EF%BC%88%E5%A4%A9%E5%BD%B1%E6%88%98%E8%AE%B0%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\81\ns6%3A%E9%A9%AC%E7%AB%8B%E5%99%A4%E7%BE%8EBOSS%EF%BC%88%E5%A4%A9%E5%BD%B1%E6%88%98%E8%AE%B0%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89%2Epng.html -->
 
 トリック・ノスタルジー | 连缘天影战记 | 马立噤美
 
 
 ## 摘要
-
-
-
 
 ---
 

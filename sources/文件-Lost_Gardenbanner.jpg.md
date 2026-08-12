@@ -1,16 +1,11 @@
 # 文件:Lost_Gardenbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a1\ns6%3ALost_Gardenbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a1\ns6%3ALost_Gardenbanner%2Ejpg.html -->
 
 Lost_Garden | 社团LOGO
 
   
-源地址:[[1]](http://lost-garden.info/static-images/lg_banner.jpg)
-  
-
-
-
-
+源地址:[\[1\]](http://lost-garden.info/static-images/lg_banner.jpg)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:Gathered_Celestical封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0f\ns6%3AGathered_Celestical%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0f\ns6%3AGathered_Celestical%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 PhantomMist | 专辑封面 | 封面图片
 
@@ -8,11 +8,10 @@ PhantomMist | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Gathered Celestical](./Gathered_Celestical.md)  
-该封面包含的角色：- [永江衣玖](./永江衣玖.md)- [比那名居天子](./比那名居天子.md)- [伊吹萃香](./伊吹萃香.md)
-
-
-
+- [Gathered Celestical](./Gathered_Celestical.md)该封面包含的角色：
+- [永江衣玖](./永江衣玖.md)
+- [比那名居天子](./比那名居天子.md)
+- [伊吹萃香](./伊吹萃香.md)
 
 
 ---

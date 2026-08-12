@@ -1,6 +1,6 @@
 # 文件:Dirty_Sounds_Domination封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b3\ns6%3ADirty_Sounds_Domination%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b3\ns6%3ADirty_Sounds_Domination%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ジェリコの法則 | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@
   
 
 - [Dirty Sounds Domination](./Dirty_Sounds_Domination.md)
-
-
-
 
 
 ---

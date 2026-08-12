@@ -1,12 +1,8 @@
 # 文件:梦衍社banner1.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\94\ns6%3A%E6%A2%A6%E8%A1%8D%E7%A4%BEbanner1%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\94\ns6%3A%E6%A2%A6%E8%A1%8D%E7%A4%BEbanner1%2Epng.html -->
 
 梦衍社 | 社团LOGO
-
-
-
-
 
 
 ---

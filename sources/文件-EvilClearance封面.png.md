@@ -1,6 +1,6 @@
 # 文件:EvilClearance封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2a\ns6%3AEvilClearance%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2a\ns6%3AEvilClearance%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 失楽園フロマージュ | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [EvilClearance](./EvilClearance.md)  
-该封面包含的角色：- [八云紫](./八云紫.md)
-
-
-
+- [EvilClearance](./EvilClearance.md)该封面包含的角色：
+- [八云紫](./八云紫.md)
 
 
 ---

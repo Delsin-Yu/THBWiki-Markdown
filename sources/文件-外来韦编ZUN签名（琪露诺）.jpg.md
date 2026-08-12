@@ -1,12 +1,8 @@
 # 文件:外来韦编ZUN签名（琪露诺）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dd\ns6%3A%E5%A4%96%E6%9D%A5%E9%9F%A6%E7%BC%96ZUN%E7%AD%BE%E5%90%8D%EF%BC%88%E7%90%AA%E9%9C%B2%E8%AF%BA%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dd\ns6%3A%E5%A4%96%E6%9D%A5%E9%9F%A6%E7%BC%96ZUN%E7%AD%BE%E5%90%8D%EF%BC%88%E7%90%AA%E9%9C%B2%E8%AF%BA%EF%BC%89%2Ejpg.html -->
 
 京大演讲会
-
-
-
-
 
 
 ---

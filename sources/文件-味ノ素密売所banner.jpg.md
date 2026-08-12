@@ -1,18 +1,13 @@
 # 文件:味ノ素密売所banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\41\ns6%3A%E5%91%B3%E3%83%8E%E7%B4%A0%E5%AF%86%E5%A3%B2%E6%89%80banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\41\ns6%3A%E5%91%B3%E3%83%8E%E7%B4%A0%E5%AF%86%E5%A3%B2%E6%89%80banner%2Ejpg.html -->
 
 味ノ素密売所 | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[[1]](http://azimitsubaijo.web.fc2.com/links/banner.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://azimitsubaijo.web.fc2.com/links/banner.jpg)  
 
 ---
 

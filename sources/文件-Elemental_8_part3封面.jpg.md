@@ -1,6 +1,6 @@
 # 文件:Elemental_8_part3封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\78\ns6%3AElemental_8_part3%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\78\ns6%3AElemental_8_part3%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 KEMONOMICHI | 同人志封面 | 封面图片
 
@@ -8,11 +8,9 @@ KEMONOMICHI | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Elemental 8 part3](./Elemental_8_part3.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)- [红美铃](./红美铃.md)
-
-
-
+- [Elemental 8 part3](./Elemental_8_part3.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
+- [红美铃](./红美铃.md)
 
 
 ---

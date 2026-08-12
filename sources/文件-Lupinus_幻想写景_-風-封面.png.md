@@ -1,6 +1,6 @@
 # 文件:Lupinus_幻想写景_-風-封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c2\ns6%3ALupinus_%E5%B9%BB%E6%83%B3%E5%86%99%E6%99%AF_-%E9%A2%A8-%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c2\ns6%3ALupinus_%E5%B9%BB%E6%83%B3%E5%86%99%E6%99%AF_-%E9%A2%A8-%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Foxtail-Grass_Studio | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Foxtail-Grass_Studio | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Lupinus 幻想写景 -風-](./Lupinus_幻想写景_-風-.md)  
-该封面包含的角色：- [洩矢诹访子](./洩矢诹访子.md)
-
-
-
+- [Lupinus 幻想写景 -風-](./Lupinus_幻想写景_-風-.md)该封面包含的角色：
+- [洩矢诹访子](./洩矢诹访子.md)
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:The_Distant_Journey_To_You_banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1a\ns6%3AThe_Distant_Journey_To_You_banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1a\ns6%3AThe_Distant_Journey_To_You_banner%2Epng.html -->
 
 The_Distant_Journey_To_You | 社团LOGO
-
-
-
-
 
 
 ---

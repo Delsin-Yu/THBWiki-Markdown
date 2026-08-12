@@ -1,14 +1,11 @@
 # 文件:The_Through_Barragebanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\22\ns6%3AThe_Through_Barragebanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\22\ns6%3AThe_Through_Barragebanner%2Ejpg.html -->
 
 The_Through_Barrage | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

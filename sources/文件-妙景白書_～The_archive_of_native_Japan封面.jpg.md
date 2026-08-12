@@ -1,6 +1,6 @@
 # 文件:妙景白書_～The_archive_of_native_Japan封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\39\ns6%3A%E5%A6%99%E6%99%AF%E7%99%BD%E6%9B%B8_%EF%BD%9EThe_archive_of_native_Japan%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\39\ns6%3A%E5%A6%99%E6%99%AF%E7%99%BD%E6%9B%B8_%EF%BD%9EThe_archive_of_native_Japan%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 儚樂社 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [妙景白書 ～The archive of native Japan](./妙景白書_～The_archive_of_native_Japan.md)  
-该封面包含的角色：- [稗田阿求](./稗田阿求.md)
-
-
-
+- [妙景白書 ～The archive of native Japan](./妙景白書_～The_archive_of_native_Japan.md)该封面包含的角色：
+- [稗田阿求](./稗田阿求.md)
 
 
 ---

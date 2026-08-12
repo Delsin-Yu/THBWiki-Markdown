@@ -1,12 +1,8 @@
 # 文件:MOFUYA_banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\87\ns6%3AMOFUYA_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\87\ns6%3AMOFUYA_banner%2Ejpg.html -->
 
 MOFUYA | 社团LOGO
-
-
-
-
 
 
 ---

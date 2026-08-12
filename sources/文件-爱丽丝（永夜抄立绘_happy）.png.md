@@ -1,12 +1,8 @@
 # 文件:爱丽丝（永夜抄立绘_happy）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bc\ns6%3A%E7%88%B1%E4%B8%BD%E4%B8%9D%EF%BC%88%E6%B0%B8%E5%A4%9C%E6%8A%84%E7%AB%8B%E7%BB%98_happy%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bc\ns6%3A%E7%88%B1%E4%B8%BD%E4%B8%9D%EF%BC%88%E6%B0%B8%E5%A4%9C%E6%8A%84%E7%AB%8B%E7%BB%98_happy%EF%BC%89%2Epng.html -->
 
 ZUN绘 | 东方永夜抄 | 官方游戏立绘 | 爱丽丝·玛格特洛依德
-
-
-
-
 
 
 ---

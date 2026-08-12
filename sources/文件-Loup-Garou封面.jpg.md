@@ -1,6 +1,6 @@
 # 文件:Loup-Garou封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\63\ns6%3ALoup-Garou%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\63\ns6%3ALoup-Garou%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Paranoid_Android | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@ Paranoid_Android | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Loup-Garou](./Loup-Garou.md)  
-该封面包含的角色：- [今泉影狼](./今泉影狼.md)
+- [Loup-Garou](./Loup-Garou.md)该封面包含的角色：
+- [今泉影狼](./今泉影狼.md)
 
   
-源地址：[direct image link (original size)](https://blog-imgs-82-origin.fc2.com/p/a/7/pa77doll/kagerou1.jpg), [source page](http://pa77doll.blog.fc2.com/blog-entry-14.html)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://blog-imgs-82-origin.fc2.com/p/a/7/pa77doll/kagerou1.jpg), [source page](http://pa77doll.blog.fc2.com/blog-entry-14.html)  
 
 ---
 

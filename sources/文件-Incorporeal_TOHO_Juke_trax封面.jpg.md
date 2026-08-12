@@ -1,6 +1,6 @@
 # 文件:Incorporeal_TOHO_Juke_trax封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1e\ns6%3AIncorporeal_TOHO_Juke_trax%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1e\ns6%3AIncorporeal_TOHO_Juke_trax%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 デシマルツクモ | 专辑封面 | 封面图片
 
@@ -11,12 +11,7 @@
 - [Incorporeal TOHO Juke trax](./Incorporeal_TOHO_Juke_trax.md)
 
   
-源地址：[[1]](https://f4.bcbits.com/img/a1680530689_10.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://f4.bcbits.com/img/a1680530689_10.jpg)  
 
 ---
 

@@ -1,12 +1,8 @@
 # 文件:鬼神「Missing_Purple_Power」（萃梦想2）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\54\ns6%3A%E9%AC%BC%E7%A5%9E%E3%80%8CMissing_Purple_Power%E3%80%8D%EF%BC%88%E8%90%83%E6%A2%A6%E6%83%B32%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\54\ns6%3A%E9%AC%BC%E7%A5%9E%E3%80%8CMissing_Purple_Power%E3%80%8D%EF%BC%88%E8%90%83%E6%A2%A6%E6%83%B32%EF%BC%89%2Ejpg.html -->
 
 东方萃梦想 | 伊吹萃香 | 自机符卡
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:BLACK_ALBUM_7－星の書封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a2\ns6%3ABLACK_ALBUM_7%EF%BC%8D%E6%98%9F%E3%81%AE%E6%9B%B8%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a2\ns6%3ABLACK_ALBUM_7%EF%BC%8D%E6%98%9F%E3%81%AE%E6%9B%B8%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 NEKO_WORLDi | 同人志封面 | 封面图片
 
@@ -8,11 +8,8 @@ NEKO_WORLDi | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [BLACK ALBUM 7－星の書](./BLACK_ALBUM_7－星の書.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [BLACK ALBUM 7－星の書](./BLACK_ALBUM_7－星の書.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

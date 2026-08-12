@@ -1,6 +1,6 @@
 # 文件:SWINGIN_N_SPRINGIN封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\80\ns6%3ASWINGIN_N_SPRINGIN%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\80\ns6%3ASWINGIN_N_SPRINGIN%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 粒々アンサンブル
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [SWINGIN N SPRINGIN](./SWINGIN_N_SPRINGIN.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [SWINGIN N SPRINGIN](./SWINGIN_N_SPRINGIN.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

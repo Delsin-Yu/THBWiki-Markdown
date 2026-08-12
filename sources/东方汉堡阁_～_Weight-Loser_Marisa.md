@@ -1,32 +1,24 @@
 # 东方汉堡阁_～_Weight-Loser_Marisa
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\c\cc\ns0%3A%E4%B8%9C%E6%96%B9%E6%B1%89%E5%A0%A1%E9%98%81_%EF%BD%9E_Weight-Loser_Marisa.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\c\cc\ns0%3A%E4%B8%9C%E6%96%B9%E6%B1%89%E5%A0%A1%E9%98%81_%EF%BD%9E_Weight-Loser_Marisa.html -->
 
 2022年8月18日 由 幻想乡第三电子工业部  发布的STG同人游戏，可在 Windows 系统上运行，游戏人数为 单人，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人软件 (未找到链接)** 的词条
-
+**[二次创作同人软件](./二次创作.md#同人软件)**的词条
 ## 目录
 
 - [1 软件信息](#软件信息)
 - [2 作品介绍](#作品介绍)
 - [3 Staff](#Staff)
-
   - [3.1 角色](#角色)
-
     - [3.1.1 自机](#自机)
     - [3.1.2 敌机](#敌机)
 
 
 
 
-
-
 - [4 下载](#下载)
-
-
-
 
 
 ## 软件信息
@@ -37,23 +29,15 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.bilibili.com/video/BV1Ja411d7Gt/">https://www.bilibili.com/video/BV1Ja411d7Gt/</a></td></tr></tbody></table>
 
 东方汉堡阁 ～ Weight-Loser Marisa（同人游戏，幻想乡第三电子工业部，2022） - 2022年8月18日 由 幻想乡第三电子工业部  发布的STG同人游戏，可在 Windows 系统上运行，游戏人数为 单人，分级为 一般向
-  
-  
-
-  
-
-
 <table>
 <tbody><tr><th colspan="2">配置需求</th></tr>
 <tr><td style="width:120px;padding-left:7px;"><b>操作系统</b></td><td>Windows平台，别太上古的就行</td></tr><tr><td style="width:120px;padding-left:7px;"><b>CPU</b></td><td>一代i5以上</td></tr><tr><td style="width:120px;padding-left:7px;"><b>内存</b></td><td>2GB以上</td></tr><tr><td style="width:120px;padding-left:7px;"><b>显示卡</b></td><td>Geforce GT610以上</td></tr><tr><td style="width:120px;padding-left:7px;"><b>硬盘需求</b></td><td>200MB</td></tr><tr><td style="width:120px;padding-left:7px;"><b>其他</b></td><td>一颗立志减肥的心</td></tr>
 </tbody></table>
 
 
-
 ## 作品介绍
   
- *注：封面中将“Loser”写作“Losser”，但翻译仍为“败者”，属于错讹。* 
-  
+*注：封面中将“Loser”写作“Losser”，但翻译仍为“败者”，属于错讹。*  
   
 疯狂的星期四，热量炸弹高昂的史诗，为新作减肥的魔理沙，再一次踏上了这条凶险的路……
   
@@ -61,20 +45,17 @@
 （一号吉祥物主催特别评价：宣发已经尬到看不下去了www）
   
 
-
 ## Staff
 : 核心引擎：LuaSTG
 : 弹幕设计：Hana、辉针丸
 : 灵感提供者及其他制作者：[冰川寒焰](./冰川寒焰.md)、博丽芷柚
 : 部分素材：辉针丸、东方原作游戏
 
-
 ### 角色
 
 #### 自机
   
-<big> **雾雨魔理沙** </big>
-  
+<big>**雾雨魔理沙**</big>  
   
 在减肥路上苦苦挣扎的魔法使
   
@@ -94,11 +75,9 @@
 只是她不知道的是，这或许是一条不归路......
   
 
-
 #### 敌机
   
-<big> **道中：高雪仲** </big>
-  
+<big>**道中：高雪仲**</big>  
   
 雪糕刺客
   
@@ -118,8 +97,7 @@
 即便是魔炮的巨大喷流也难以烧毁这种妖怪呢
   
   
-<big> **BOSS：浮歌威武士** </big>
-  
+<big>**BOSS：浮歌威武士**</big>  
   
 烤炉之魂
   
@@ -148,13 +126,10 @@
 或许这也是魔理沙选择他的原因......?
   
 
-
 ## 下载
   
 请注意：  
- **所有的二次同人软件的下载地址均为站外资源，本站并不保证其来源的合法性以及资源的有效性和安全性** 
-  
-
+**所有的二次同人软件的下载地址均为站外资源，本站并不保证其来源的合法性以及资源的有效性和安全性**  
 
 <table>
 
@@ -164,15 +139,6 @@
 <tr>
 <td><a rel="nofollow" class="external text" href="https://pan.baidu.com/s/1bAt8Z_8_8_uOIsuzJus7Vw?pwd=YTWX">提取码：YTWX</a><br>
 </td></tr></tbody></table>
-
-
-  
-  
-
-  
-
-
-
 
 
 ---

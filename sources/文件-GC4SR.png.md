@@ -1,12 +1,8 @@
 # 文件:GC4SR.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\63\ns6%3AGC4SR%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\63\ns6%3AGC4SR%2Epng.html -->
 
 GROOVE_COASTER | 太东 | 游戏LOGO
-
-
-
-
 
 
 ---

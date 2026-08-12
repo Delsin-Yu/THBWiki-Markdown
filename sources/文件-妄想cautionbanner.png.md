@@ -1,18 +1,13 @@
 # 文件:妄想cautionbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\58\ns6%3A%E5%A6%84%E6%83%B3cautionbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\58\ns6%3A%E5%A6%84%E6%83%B3cautionbanner%2Epng.html -->
 
 妄想caution | 社团LOGO
 
 
 ## 摘要
   
-源地址：[direct image link](http://daiaru.com/assets/img/banner.png), [source page](http://daiaru.com/)
-  
-
-
-
-
+源地址：[direct image link](http://daiaru.com/assets/img/banner.png), [source page](http://daiaru.com/)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:憂染E.P.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\52\ns6%3A%E6%86%82%E6%9F%93E%2EP%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\52\ns6%3A%E6%86%82%E6%9F%93E%2EP%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 群青リボン
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [憂染E.P.](./憂染E.P..md)  
-该封面包含的角色：- [稗田阿求](./稗田阿求.md)
+- [憂染E.P.](./憂染E.P..md)该封面包含的角色：
+- [稗田阿求](./稗田阿求.md)
 
   
-源地址：[[1]](http://static.tumblr.com/149329497772bdaed7b36f3463045b5c/twykpvu/Bogn515nc/tumblr_static_9nr5fw6jdts0o8wowo8goswsk.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://static.tumblr.com/149329497772bdaed7b36f3463045b5c/twykpvu/Bogn515nc/tumblr_static_9nr5fw6jdts0o8wowo8goswsk.jpg)  
 
 ---
 

@@ -1,12 +1,11 @@
 # SUPER_INABA_WORLD_前編
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\d\d9\ns0%3ASUPER_INABA_WORLD_%E5%89%8D%E7%B7%A8.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\d\d9\ns0%3ASUPER_INABA_WORLD_%E5%89%8D%E7%B7%A8.html -->
 
 2010年3月24日 由 すい～と・らぴーぬ  发布的漫画同人志，一共20页，登场人物有 铃仙·优昙华院·因幡、键山雏，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人志 (未找到链接)** 的词条
-
+**[二次创作同人志](./二次创作.md#同人志)**的词条
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-SUPER_INABA_WORLD_前編封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/e/ed/SUPER_INABA_WORLD_%E5%89%8D%E7%B7%A8%E5%B0%81%E9%9D%A2.jpg/138px-SUPER_INABA_WORLD_%E5%89%8D%E7%B7%A8%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="138" height="196" srcset="https://upload.thwiki.cc/thumb/e/ed/SUPER_INABA_WORLD_%E5%89%8D%E7%B7%A8%E5%B0%81%E9%9D%A2.jpg/208px-SUPER_INABA_WORLD_%E5%89%8D%E7%B7%A8%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/e/ed/SUPER_INABA_WORLD_%E5%89%8D%E7%B7%A8%E5%B0%81%E9%9D%A2.jpg/277px-SUPER_INABA_WORLD_%E5%89%8D%E7%B7%A8%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="297" data-file-height="420"></a><div class="cover-char">角色：<a href="./铃仙·优昙华院·因幡.md" title="铃仙·优昙华院·因幡">铃仙·优昙华院·因幡</a></div></td>
@@ -14,9 +13,7 @@
 </tr><tr><td class="label">首发日期</td><td>2010-03-24</td></tr><tr><td class="label">类型</td><td>漫画</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">页数</td><td>20P</td></tr><tr><td class="label">登场人物</td><td><a href="./铃仙·优昙华院·因幡.md" title="铃仙·优昙华院·因幡">铃仙·优昙华院·因幡</a>，<a href="./键山雏.md" title="键山雏">键山雏</a></td></tr><tr><td class="label">售价</td><td>通贩售价：500日元</td></tr></tbody></table>
 
 SUPER INABA WORLD 前編（同人志，すい～と・らぴーぬ，2010） - 2010年3月24日 由 すい～と・らぴーぬ  发布的漫画同人志，一共20页，登场人物有 铃仙·优昙华院·因幡、键山雏，分级为 一般向
-
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="http://www.dlsite.com/home/work/=/product_id/RJ060318.html">DLsite</a></td></tr></tbody></table>
-
 
 
 ## Staff
@@ -24,11 +21,7 @@ SUPER INABA WORLD 前編（同人志，すい～と・らぴーぬ，2010） - 2
 白月らび
   
 
-
 ## 评论
-
-
-
 
 ---
 

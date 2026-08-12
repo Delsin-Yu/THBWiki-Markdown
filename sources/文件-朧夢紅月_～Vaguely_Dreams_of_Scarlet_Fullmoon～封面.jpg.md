@@ -1,6 +1,6 @@
 # 文件:朧夢紅月_～Vaguely_Dreams_of_Scarlet_Fullmoon～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\45\ns6%3A%E6%9C%A7%E5%A4%A2%E7%B4%85%E6%9C%88_%EF%BD%9EVaguely_Dreams_of_Scarlet_Fullmoon%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\45\ns6%3A%E6%9C%A7%E5%A4%A2%E7%B4%85%E6%9C%88_%EF%BD%9EVaguely_Dreams_of_Scarlet_Fullmoon%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 UI-70 | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ UI-70 | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [朧夢紅月 ～Vaguely Dreams of Scarlet Fullmoon～](./朧夢紅月_～Vaguely_Dreams_of_Scarlet_Fullmoon～.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
-
-
-
+- [朧夢紅月 ～Vaguely Dreams of Scarlet Fullmoon～](./朧夢紅月_～Vaguely_Dreams_of_Scarlet_Fullmoon～.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
 
 ---

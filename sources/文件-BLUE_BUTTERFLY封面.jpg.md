@@ -1,6 +1,6 @@
 # 文件:BLUE_BUTTERFLY封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\59\ns6%3ABLUE_BUTTERFLY%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\59\ns6%3ABLUE_BUTTERFLY%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Eternal_Melody | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Eternal_Melody | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [BLUE BUTTERFLY](./BLUE_BUTTERFLY.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [BLUE BUTTERFLY](./BLUE_BUTTERFLY.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
   
-源地址：[[1]](https://2.bp.blogspot.com/-jKQBESAsiRM/Vx2-S5rGPoI/AAAAAAAAAfs/IK2IOqCcyIIYk_gIX6OgOPfVj_KwRqqGwCLcB/s1600/EMCD-0007_jacket.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://2.bp.blogspot.com/-jKQBESAsiRM/Vx2-S5rGPoI/AAAAAAAAAfs/IK2IOqCcyIIYk_gIX6OgOPfVj_KwRqqGwCLcB/s1600/EMCD-0007_jacket.jpg)  
 
 ---
 

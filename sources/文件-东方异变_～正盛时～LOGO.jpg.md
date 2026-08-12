@@ -1,15 +1,12 @@
 # 文件:东方异变_～正盛时～LOGO.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\95\ns6%3A%E4%B8%9C%E6%96%B9%E5%BC%82%E5%8F%98_%EF%BD%9E%E6%AD%A3%E7%9B%9B%E6%97%B6%EF%BD%9ELOGO%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\95\ns6%3A%E4%B8%9C%E6%96%B9%E5%BC%82%E5%8F%98_%EF%BD%9E%E6%AD%A3%E7%9B%9B%E6%97%B6%EF%BD%9ELOGO%2Ejpg.html -->
 
 东方异变_～正盛时～ | 活动LOGO
 
+
 ```
-源地址：[[1]](http://zoo-st.com/homare/honegami/tohoihen/toho_baner_480.jpg)
-```
-
-
-
+源地址：[\[1\]](http://zoo-st.com/homare/honegami/tohoihen/toho_baner_480.jpg)```
 
 
 ---

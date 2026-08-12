@@ -1,12 +1,8 @@
 # 文件:有顶天（同人社团）banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\06\ns6%3A%E6%9C%89%E9%A1%B6%E5%A4%A9%EF%BC%88%E5%90%8C%E4%BA%BA%E7%A4%BE%E5%9B%A2%EF%BC%89banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\06\ns6%3A%E6%9C%89%E9%A1%B6%E5%A4%A9%EF%BC%88%E5%90%8C%E4%BA%BA%E7%A4%BE%E5%9B%A2%EF%BC%89banner%2Epng.html -->
 
 有顶天（同人社团） | 社团LOGO
-
-
-
-
 
 
 ---

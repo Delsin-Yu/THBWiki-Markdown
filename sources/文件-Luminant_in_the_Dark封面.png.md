@@ -1,6 +1,6 @@
 # 文件:Luminant_in_the_Dark封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\31\ns6%3ALuminant_in_the_Dark%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\31\ns6%3ALuminant_in_the_Dark%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 いちたすいちは | 同人志封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Luminant in the Dark](./Luminant_in_the_Dark.md)  
-该封面包含的角色：- [露米娅](./露米娅.md)
-
-
-
+- [Luminant in the Dark](./Luminant_in_the_Dark.md)该封面包含的角色：
+- [露米娅](./露米娅.md)
 
 
 ---

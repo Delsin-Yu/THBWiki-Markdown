@@ -1,6 +1,6 @@
 # 文件:ひんやりすずしい⑨／CIRNO封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\74\ns6%3A%E3%81%B2%E3%82%93%E3%82%84%E3%82%8A%E3%81%99%E3%81%9A%E3%81%97%E3%81%84%E2%91%A8%EF%BC%8FCIRNO%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\74\ns6%3A%E3%81%B2%E3%82%93%E3%82%84%E3%82%8A%E3%81%99%E3%81%9A%E3%81%97%E3%81%84%E2%91%A8%EF%BC%8FCIRNO%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 しらゆき音楽工房 | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [ひんやりすずしい⑨／CIRNO](./ひんやりすずしい⑨／CIRNO.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)
-
-
-
+- [ひんやりすずしい⑨／CIRNO](./ひんやりすずしい⑨／CIRNO.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
 
 
 ---

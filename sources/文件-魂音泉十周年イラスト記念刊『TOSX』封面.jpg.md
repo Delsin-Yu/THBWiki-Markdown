@@ -1,6 +1,6 @@
 # 文件:魂音泉十周年イラスト記念刊『TOSX』封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7c\ns6%3A%E9%AD%82%E9%9F%B3%E6%B3%89%E5%8D%81%E5%91%A8%E5%B9%B4%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E8%A8%98%E5%BF%B5%E5%88%8A%E3%80%8ETOSX%E3%80%8F%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7c\ns6%3A%E9%AD%82%E9%9F%B3%E6%B3%89%E5%8D%81%E5%91%A8%E5%B9%B4%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E8%A8%98%E5%BF%B5%E5%88%8A%E3%80%8ETOSX%E3%80%8F%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 魂音泉
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [魂音泉十周年イラスト記念刊『TOSX』](./魂音泉十周年イラスト記念刊『TOSX』.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)
-
-
-
+- [魂音泉十周年イラスト記念刊『TOSX』](./魂音泉十周年イラスト記念刊『TOSX』.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
 
 
 ---

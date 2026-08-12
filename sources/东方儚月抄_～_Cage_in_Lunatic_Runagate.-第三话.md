@@ -1,43 +1,33 @@
 # 东方儚月抄_～_Cage_in_Lunatic_Runagate./第三话
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\be\ns0%3A%E4%B8%9C%E6%96%B9%E5%84%9A%E6%9C%88%E6%8A%84_%EF%BD%9E_Cage_in_Lunatic_Runagate%2E%2F%E7%AC%AC%E4%B8%89%E8%AF%9D.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\be\ns0%3A%E4%B8%9C%E6%96%B9%E5%84%9A%E6%9C%88%E6%8A%84_%EF%BD%9E_Cage_in_Lunatic_Runagate%2E%2F%E7%AC%AC%E4%B8%89%E8%AF%9D.html -->
 
 东方儚月抄_～_Cage_in_Lunatic_Runagate.
 
 <center>
-
 <table>
 <tbody><tr>
-<td>&lt;
+<td><
 </td>
-<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./东方儚月抄_～_Cage_in_Lunatic_Runagate.-第二话.md" title="东方儚月抄 ～ Cage in Lunatic Runagate./第二话">第二话</a>&#160;
+<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./东方儚月抄_～_Cage_in_Lunatic_Runagate.-第二话.md" title="东方儚月抄 ～ Cage in Lunatic Runagate./第二话">第二话</a> 
 </td>
-<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="./东方儚月抄_～_Cage_in_Lunatic_Runagate..md" title="东方儚月抄 ～ Cage in Lunatic Runagate.">东方儚月抄 ～ Cage in Lunatic Runagate.</a>&#160;
+<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;"> <a href="./东方儚月抄_～_Cage_in_Lunatic_Runagate..md" title="东方儚月抄 ～ Cage in Lunatic Runagate.">东方儚月抄 ～ Cage in Lunatic Runagate.</a> 
 </td>
-<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left">&#160;<a href="./东方儚月抄_～_Cage_in_Lunatic_Runagate.-第四话.md" title="东方儚月抄 ～ Cage in Lunatic Runagate./第四话">第四话</a>
+<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left"> <a href="./东方儚月抄_～_Cage_in_Lunatic_Runagate.-第四话.md" title="东方儚月抄 ～ Cage in Lunatic Runagate./第四话">第四话</a>
 </td>
-<td>&gt;
+<td>>
 </td></tr></tbody></table>
 
   
 </center>
-- 本词条为中文翻译版，如需要日文对照请参见 **[中日对照](./东方儚月抄_～_Cage_in_Lunatic_Runagate.-第三话-中日对照.md)** 
+- 本词条为中文翻译版，如需要日文对照请参见**[中日对照](./东方儚月抄_～_Cage_in_Lunatic_Runagate.-第三话-中日对照.md)**
 - 本话连载时间：2007年12月25日，Chara☆Mel Vol.3
 - 本话于单行本中页数：52-73
 
-  
-  
-
-  
-
-[](./文件-儚月抄小说封面3.jpg.md)  [](./文件-儚月抄小说封面3.jpg.md)
-  
- **<big><big>第三话 净土龙宫城</big></big>**   
-
-<big>月面可是个好地方，还不赶快来看看？　月之都的历史与真相终于公之于世！！</big>
-  
-
-
+<img alt="儚月抄小说封面3.jpg" src="https://upload.thwiki.cc/thumb/7/7b/%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E5%B0%81%E9%9D%A23.jpg/200px-%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E5%B0%81%E9%9D%A23.jpg" decoding="async" loading="lazy" width="200" height="283" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/7/7b/%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E5%B0%81%E9%9D%A23.jpg/300px-%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E5%B0%81%E9%9D%A23.jpg 1.5x, https://upload.thwiki.cc/thumb/7/7b/%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E5%B0%81%E9%9D%A23.jpg/400px-%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E5%B0%81%E9%9D%A23.jpg 2x" data-file-width="1234" data-file-height="1749">
+ [放大](./文件-儚月抄小说封面3.jpg.md)  
+**<big><big>第三话 净土龙宫城</big></big>**  
+<big>月面可是个好地方，还不赶快来看看？ 月之都的历史与真相终于公之于世！！</big>  
   
 　　不含有任何杂质的月之风无声地使海面荡起波纹。除了风以外再没有其他搅乱水面的事物。眼前的海中没有任何生物栖息。  
 
@@ -98,11 +88,10 @@
 　　流言和月之都的治安相关。比如「有地上人要攻上来了」或者「月之都有反叛者」之类，虽然都是些毫无来由的话，但单纯而喜欢流言的月兔们却相信了。  
 
 　　不管是地上要来敌人也好还是有反叛者也好，最先受到怀疑的就是我们。由于我们的职务和能力的关系，即使在月之民中，我们和地上的距离也是最近的。特别是，我们是被半永久流放到地上的特级罪人八意大人养育的少数幸存者。现在，我们不再去寻找八意大人，受到怀疑也是无可奈何的。  
-
   
 
-　　「流言过了七十五天就应该会消失[^cite_note-1]……但这已经过了好些时日都没消失了，我想，我们差不多应该做点什么证明自己是清白的了吧。」[](./文件-儚月抄小说插图3-1.jpg.md)  [](./文件-儚月抄小说插图3-1.jpg.md)  
-
+　　「流言过了七十五天就应该会消失[^cite_note-1]……但这已经过了好些时日都没消失了，我想，我们差不多应该做点什么证明自己是清白的了吧。」<img alt="儚月抄小说插图3-1.jpg" src="https://upload.thwiki.cc/thumb/7/78/%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE3-1.jpg/200px-%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE3-1.jpg" decoding="async" loading="lazy" width="200" height="173" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/7/78/%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE3-1.jpg/300px-%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE3-1.jpg 1.5x, https://upload.thwiki.cc/thumb/7/78/%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE3-1.jpg/400px-%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE3-1.jpg 2x" data-file-width="1017" data-file-height="878">
+ [放大](./文件-儚月抄小说插图3-1.jpg.md)  
   
 　　「依姬就是爱瞎操心。兔子们只不过是喜欢夸张的流言而已吧？」  
 
@@ -187,17 +176,16 @@
 　　之所以说谎，是因为害怕地上人类对月之都产生兴趣，害怕当权者以月之都为目标。现在想想，那种判断是错的，这种错误在那之后，将由八意大人来改正。  
 
 　　浦岛子看到载歌载舞的兔子们的快乐生活，非常感动，赞叹海底竟然如此快活。  
-
   
 
-　　月之都的白昼能看到太阳和星星同时出现，他看到那样的天空感到很疑惑。“为什么海底的天空能看到这么多星星呢？”，于是我告诉他，那不是星星，而是跃动的鱼儿。他再次感叹这里居然是如此深的海底，连鱼儿都看起来像小不点。[](./文件-儚月抄小说插图3-2.jpg.md)  [](./文件-儚月抄小说插图3-2.jpg.md)  
-
+　　月之都的白昼能看到太阳和星星同时出现，他看到那样的天空感到很疑惑。“为什么海底的天空能看到这么多星星呢？”，于是我告诉他，那不是星星，而是跃动的鱼儿。他再次感叹这里居然是如此深的海底，连鱼儿都看起来像小不点。<img alt="儚月抄小说插图3-2.jpg" src="https://upload.thwiki.cc/thumb/8/8c/%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE3-2.jpg/200px-%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE3-2.jpg" decoding="async" loading="lazy" width="200" height="165" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/8/8c/%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE3-2.jpg/300px-%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE3-2.jpg 1.5x, https://upload.thwiki.cc/thumb/8/8c/%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE3-2.jpg/400px-%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE3-2.jpg 2x" data-file-width="1006" data-file-height="831">
+ [放大](./文件-儚月抄小说插图3-2.jpg.md)  
   
 　　就这样，浦岛子带着误解在月之都住了三年。地上人很少有在月之都待这么长时间的。所以，这件事我记得非常清楚，但对于依姬来说，这并不是什么重要的记忆。  
 
 　　「水江浦岛子？啊，确实有过那样的人，我记得，喜欢钓鱼的他也成了受人景仰的神明吧？」  
 
-&#160;&#160;&#160;&#160;&#160;三年后，他终于说想家了。一般人只需要几个小时就可能产生的感情放到他身上还真是花了不少时间啊。  
+     三年后，他终于说想家了。一般人只需要几个小时就可能产生的感情放到他身上还真是花了不少时间啊。  
 
 　　「是的，就是那个人。现在他已经是筒川大明神了哦。一介平庸的渔人也出人头地了呢。」  
 
@@ -241,9 +229,9 @@
 
 　　八意大人在隐居到地上之前，吩咐我把一个玉匣(注：豪华的饰品盒。)当作礼物交给水江浦岛子，并转告他「在地上的生活感到困难时，打开这个玉匣，但如果还想再到龙宫城来，就千万不要打开。」  
 
-&#160;&#160;&#160;&#160;那个玉匣里装了什么呢。现在八意大人已经不在这里了，所以，我无法确认，也无法再现里面的东西。  
+    那个玉匣里装了什么呢。现在八意大人已经不在这里了，所以，我无法确认，也无法再现里面的东西。  
 
-&#160;&#160;&#160;&#160;水江浦岛子似乎在回到地上不久就打开了玉匣，看来，他对无人记得自己的世界感到相当绝望吧。他哭喊着打开了玉匣，然而不幸并没有结束。打开了玉匣之后，他的肉体立刻丧失了青春，变成了连走路都难以办到的衰老之躯。那个玉匣里，装着能让肉体衰老的某种东西。  
+    水江浦岛子似乎在回到地上不久就打开了玉匣，看来，他对无人记得自己的世界感到相当绝望吧。他哭喊着打开了玉匣，然而不幸并没有结束。打开了玉匣之后，他的肉体立刻丧失了青春，变成了连走路都难以办到的衰老之躯。那个玉匣里，装着能让肉体衰老的某种东西。  
 
 　　不过，变成老人是一种幸运。熟悉三百年前的事情的老人，在村子里被当作活神仙对待。他所说的不可思议的故事是被人们相信为神明的世界发生的事，并成为了传说。当时的人类很少有活到他那个年纪的，而且因为不识字，因此，能说这种故事的老人受到了人们的尊敬。如果浦岛子保持着年轻时候的样貌的话，他说的故事一定会被人们当作胡说八道吧。  
 
@@ -274,11 +262,10 @@
 　　「那么，假如很快就有人类攻过来的话，那时候我们只要专心将他们赶回去就好。」  
 
 　　「姐姐……你说话的方式有些像八意大人啊。」  
-
   
 
-　　「因为我岁数比你大嘛。」[](./文件-儚月抄小说插图3-3.jpg.md)  [](./文件-儚月抄小说插图3-3.jpg.md)  
-
+　　「因为我岁数比你大嘛。」<img alt="儚月抄小说插图3-3.jpg" src="https://upload.thwiki.cc/thumb/f/f4/%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE3-3.jpg/200px-%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE3-3.jpg" decoding="async" loading="lazy" width="200" height="290" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/f/f4/%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE3-3.jpg/300px-%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE3-3.jpg 1.5x, https://upload.thwiki.cc/thumb/f/f4/%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE3-3.jpg/400px-%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE3-3.jpg 2x" data-file-width="1019" data-file-height="1480">
+ [放大](./文件-儚月抄小说插图3-3.jpg.md)  
   
 　　「什么嘛，我们活了这么长时间，没什么太大的差别了吧。」  
 
@@ -351,11 +338,10 @@
 　　乌鸦飞过晴朗海、越过雨海，飞向风暴洋。  
 
 　　「果然，那只乌鸦是出于某种目的而从地上飞到月之背面的。」  
-
   
 
-　　那就是说，那只乌鸦并非因事故而来到这里，而很可能是某人指派的杀手。[](./文件-儚月抄小说插图3-4.jpg.md)  [](./文件-儚月抄小说插图3-4.jpg.md)  
-
+　　那就是说，那只乌鸦并非因事故而来到这里，而很可能是某人指派的杀手。<img alt="儚月抄小说插图3-4.jpg" src="https://upload.thwiki.cc/thumb/3/3d/%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE3-4.jpg/200px-%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE3-4.jpg" decoding="async" loading="lazy" width="200" height="134" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/3/3d/%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE3-4.jpg/300px-%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE3-4.jpg 1.5x, https://upload.thwiki.cc/thumb/3/3d/%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE3-4.jpg/400px-%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE3-4.jpg 2x" data-file-width="1021" data-file-height="686">
+ [放大](./文件-儚月抄小说插图3-4.jpg.md)  
   
 　　月之都存在于月之背面，而且设了结界隐藏其形。就算人类打算进攻，只要无法破坏结界，就不可能进入月之都，要飞进结界内部，必须按照指定路线向都城进发，可这只乌鸦不知为何却沿着应该看不见的海之道前进着。简直就像式神一样精确。(注：外面世界的电脑也被称为式神)  
 
@@ -404,37 +390,26 @@
 　　「啊—啊，知道了知道了。我去调查就是了。」  
 
 　　我们都轻笑着。笑容中包含了几分紧张。   
-
   
-
- **第三话 净土龙宫城 / 完** 
-  
-
-
-
+**第三话 净土龙宫城 / 完**  
 [^cite_note-1]: 日本谚语“人の噂も七十五日”。
-
+[^cite_note-2]: 即浦岛太郎。
 <center>
-
 <table>
 <tbody><tr>
-<td>&lt;
+<td><
 </td>
-<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./东方儚月抄_～_Cage_in_Lunatic_Runagate.-第二话.md" title="东方儚月抄 ～ Cage in Lunatic Runagate./第二话">第二话</a>&#160;
+<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./东方儚月抄_～_Cage_in_Lunatic_Runagate.-第二话.md" title="东方儚月抄 ～ Cage in Lunatic Runagate./第二话">第二话</a> 
 </td>
-<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="./东方儚月抄_～_Cage_in_Lunatic_Runagate..md" title="东方儚月抄 ～ Cage in Lunatic Runagate.">东方儚月抄 ～ Cage in Lunatic Runagate.</a>&#160;
+<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;"> <a href="./东方儚月抄_～_Cage_in_Lunatic_Runagate..md" title="东方儚月抄 ～ Cage in Lunatic Runagate.">东方儚月抄 ～ Cage in Lunatic Runagate.</a> 
 </td>
-<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left">&#160;<a href="./东方儚月抄_～_Cage_in_Lunatic_Runagate.-第四话.md" title="东方儚月抄 ～ Cage in Lunatic Runagate./第四话">第四话</a>
+<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left"> <a href="./东方儚月抄_～_Cage_in_Lunatic_Runagate.-第四话.md" title="东方儚月抄 ～ Cage in Lunatic Runagate./第四话">第四话</a>
 </td>
-<td>&gt;
+<td>>
 </td></tr></tbody></table>
 
   
 </center>
-
-
-
-
 ---
 
 此文档由 [THBWiki-Markdown-Builder](https://github.com/Delsin-Yu/THBWiki-Markdown-Builder) 构建。

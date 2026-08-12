@@ -1,10 +1,11 @@
 # 东方栖霞园_~_Blue_devil_in_the_Belvedere./成就
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\8\8f\ns0%3A%E4%B8%9C%E6%96%B9%E6%A0%96%E9%9C%9E%E5%9B%AD_%7E_Blue_devil_in_the_Belvedere%2E%2F%E6%88%90%E5%B0%B1.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\8\8f\ns0%3A%E4%B8%9C%E6%96%B9%E6%A0%96%E9%9C%9E%E5%9B%AD_%7E_Blue_devil_in_the_Belvedere%2E%2F%E6%88%90%E5%B0%B1.html -->
 
 东方祈华梦制作组
 
-- 本词条内容为 **东方栖霞园** 的成就
+
+- 本词条内容为**东方栖霞园**的成就
 
 
 ## 目录
@@ -12,9 +13,6 @@
 - [1 成就](#成就)
 - [2 注释](#注释)
 - [3 词条导航](#词条导航)
-
-
-
 
 
 ## 成就
@@ -191,7 +189,7 @@
 </td></tr>
 <tr>
 <td>28</td>
-<td>冰封王座<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">1</a></sup></td>
+<td>冰封王座<span>[^cite_note-1]</span></td>
 <td>No Miss No Bomb通关第1关</td>
 <td>您竟然毫发无损地通过了第1关？！雾之湖上一定有您的王座！
 </td></tr>
@@ -263,19 +261,19 @@
 </td></tr>
 <tr>
 <td>40</td>
-<td>三女巫<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">2</a></sup></td>
+<td>三女巫<span>[^cite_note-2]</span></td>
 <td>成功双倍收取<a href="./伊莉菲亚·玛修.md" title="伊莉菲亚·玛修">玛修</a>的符卡「黑暗封印」/「梅贾的窃魂卷」</td>
 <td>可怜的麦克白，不义之财终将是烫手的山芋
 </td></tr>
 <tr>
 <td>41</td>
-<td>花开之日<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">3</a></sup></td>
+<td>花开之日<span>[^cite_note-3]</span></td>
 <td>成功双倍收取<a href="./莉莉布莱克.md" title="莉莉布莱克">莉莉布莱克</a>的符卡「异域的花海」</td>
 <td>魔界的春天，将会绽放与现世不同的花朵。
 </td></tr>
 <tr>
 <td>42</td>
-<td>海底的大教堂<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">4</a></sup></td>
+<td>海底的大教堂<span>[^cite_note-4]</span></td>
 <td>成功双倍收取<a href="./玛格丽特·勒夏.md" title="玛格丽特·勒夏">勒夏</a>的符卡「中世纪的魔女偶像」</td>
 <td>魔女啊，火啊
 </td></tr>
@@ -288,7 +286,7 @@
 <tr>
 <td>44</td>
 <td>恶魔灭绝者</td>
-<td>成功双倍收取<a href="./索妮亚·冯·奥尔斯佩.md" title="索妮亚·冯·奥尔斯佩">索尼娅</a><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">5</a></sup>的符卡「午夜的狩猎场」/「血肉的圣餐」/「鲜血盛宴」</td>
+<td>成功双倍收取<a href="./索妮亚·冯·奥尔斯佩.md" title="索妮亚·冯·奥尔斯佩">索尼娅</a><span>[^cite_note-5]</span>的符卡「午夜的狩猎场」/「血肉的圣餐」/「鲜血盛宴」</td>
 <td>你们一起上吧，我赶时间。
 </td></tr>
 <tr>
@@ -305,13 +303,13 @@
 </td></tr>
 <tr>
 <td>47</td>
-<td>染不了色了<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">6</a></sup></td>
+<td>染不了色了<span>[^cite_note-6]</span></td>
 <td>在不击破任何一只大型妖精的前提下，收取「拟态侘寂异变的动物灵」</td>
 <td>想尝试染色系统的效果吗？欢迎购买东方祈华梦！
 </td></tr>
 <tr>
 <td>48</td>
-<td>我的太阳<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">7</a></sup></td>
+<td>我的太阳<span>[^cite_note-7]</span></td>
 <td>围绕第3关的<a href="./阿尔特米娜·露妮.md" title="阿尔特米娜·露妮">露妮</a>旋转，表达你的爱意</td>
 <td>可爱吧？我猜你也喜欢小动物的守护神，对不对？
 </td></tr>
@@ -329,7 +327,7 @@
 </td></tr>
 <tr>
 <td>51</td>
-<td>符卡Collection<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">8</a></sup></td>
+<td>符卡Collection<span>[^cite_note-8]</span></td>
 <td>见识过全部符卡</td>
 <td>您已经见过了所有的符卡，您有足够的实力来获得它们吗？
 </td></tr>
@@ -347,7 +345,7 @@
 </td></tr>
 <tr>
 <td>54</td>
-<td>捕鸟达人<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">9</a></sup></td>
+<td>捕鸟达人<span>[^cite_note-9]</span></td>
 <td>在「克里特岛的动物灵」一次符卡挑战中，诱导猫捕获的鸟的数量超过800只</td>
 <td>究竟要多少只鸟的羽毛才能逃离克里特岛的迷宫呢？
 </td></tr>
@@ -365,13 +363,13 @@
 </td></tr>
 <tr>
 <td>57</td>
-<td>不死之身的舍身击<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">10</a></sup></td>
+<td>不死之身的舍身击<span>[^cite_note-10]</span></td>
 <td>一次游戏中，总擦弹数达到25000</td>
 <td>
 </td></tr>
 <tr>
 <td>58</td>
-<td>葛朗台<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">11</a></sup></td>
+<td>葛朗台<span>[^cite_note-11]</span></td>
 <td>一次游戏中，回收的蓝点总数达到5000</td>
 <td>
 </td></tr>
@@ -389,7 +387,7 @@
 </td></tr>
 <tr>
 <td>61</td>
-<td>劲舞<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">12</a></sup>猫咪</td>
+<td>劲舞<span>[^cite_note-12]</span>猫咪</td>
 <td>Extra模式连击数达到9900</td>
 <td>
 </td></tr>
@@ -407,7 +405,7 @@
 </td></tr>
 <tr>
 <td>64</td>
-<td>人类一败涂地<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">13</a></sup></td>
+<td>人类一败涂地<span>[^cite_note-13]</span></td>
 <td>总Miss次数达到100</td>
 <td>然而不会被困难击倒就是人类的特征！站起来！继续奋斗吧！
 </td></tr>
@@ -418,21 +416,19 @@
 <td>
 </td></tr></tbody></table>
 
-
-
 [^cite_note-1]: 捏他《魔兽争霸3：冰封王座》。
-
-
-## 词条导航
-  
-  
-
-<table><tbody><tr><td><table cellspacing="0" class="nowraplinks mw-collapsible mw-collapsed" style="width:100%;;;"><tbody><tr><th style=";" colspan="3" class="navbox-title"><div class="navbar"><div class="noprint plainlinksneverexpand" style="background-color:transparent; padding:0; font-weight:normal; font-size:80%; white-space:nowrap;"><a href="./东方栖霞园_~_Blue_devil_in_the_Belvedere.-导航.md" title="东方栖霞园 ~ Blue devil in the Belvedere./导航"><span style=";;border:none;" title="查看这个模板">查</span></a>&#160;<span style="font-size:80%;">•</span>&#160;<a href="/index.php?title=%E4%B8%9C%E6%96%B9%E6%A0%96%E9%9C%9E%E5%9B%AD_~_Blue_devil_in_the_Belvedere./%E5%AF%BC%E8%88%AA&amp;action=edit"><span style=";;border:none;" title="您可以编辑这个模板。请在储存变更之前先预览">编</span></a></div></div><span><a href="./东方栖霞园_~_Blue_devil_in_the_Belvedere..md" title="东方栖霞园 ~ Blue devil in the Belvedere.">东方栖霞园 ~ Blue devil in the Belvedere.</a></span></th></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="./东方栖霞园_~_Blue_devil_in_the_Belvedere.-体验版Omake.md" title="东方栖霞园 ~ Blue devil in the Belvedere./体验版Omake">角色</a></td><td style=";;" class="navbox-list navbox-odd"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>自机</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./东方栖霞园_~_Blue_devil_in_the_Belvedere.-体验版Omake.md" title="东方栖霞园 ~ Blue devil in the Belvedere./体验版Omake">博丽灵梦</a> &#8226; <a href="./东方栖霞园_~_Blue_devil_in_the_Belvedere.-体验版Omake.md" title="东方栖霞园 ~ Blue devil in the Belvedere./体验版Omake">雾雨魔理沙</a> &#8226; <a href="./东方栖霞园_~_Blue_devil_in_the_Belvedere.-体验版Omake.md" title="东方栖霞园 ~ Blue devil in the Belvedere./体验版Omake">十六夜咲夜</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>BOSS</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./东方栖霞园_~_Blue_devil_in_the_Belvedere.-体验版Omake.md" title="东方栖霞园 ~ Blue devil in the Belvedere./体验版Omake">琪露诺</a> &#8226; <a href="./东方栖霞园_~_Blue_devil_in_the_Belvedere.-体验版Omake.md" title="东方栖霞园 ~ Blue devil in the Belvedere./体验版Omake">蕾米莉亚·斯卡蕾特</a> &#8226; <a href="./莉莉霍瓦特.md" title="莉莉霍瓦特" unred="">莉莉怀特</a> &#8226; <a href="./阿尔特米娜·露妮.md" title="阿尔特米娜·露妮">阿尔特米娜·露妮</a> &#8226; <a href="./伊莉菲亚·玛修.md" title="伊莉菲亚·玛修">伊莉菲亚·玛修</a> &#8226; <a href="./莉莉布莱克.md" title="莉莉布莱克">莉莉布莱克</a> &#8226; <a href="./玛格丽特·勒夏.md" title="玛格丽特·勒夏">玛格丽特·勒夏</a> &#8226; <a href="./莱卡洛普娅·赫恩.md" title="莱卡洛普娅·赫恩">莱卡洛普娅·赫恩</a> &#8226; <a href="./索妮亚·冯·奥尔斯佩.md" title="索妮亚·冯·奥尔斯佩">索妮亚·冯·奥尔斯佩</a> &#8226; <a href="./可莱娜·古拉托尼.md" title="可莱娜·古拉托尼">可莱娜·古拉托尼</a></div></td></tr></tbody></table><div></div></td><td class="navbox-image" style="" rowspan="13"><a href="./文件-东方栖霞园_~_Blue_devil_in_the_Belvedere.封面.png.md" class="image"><img alt="东方栖霞园 ~ Blue devil in the Belvedere.封面.png" src="https://upload.thwiki.cc/thumb/e/ec/%E4%B8%9C%E6%96%B9%E6%A0%96%E9%9C%9E%E5%9B%AD_~_Blue_devil_in_the_Belvedere.%E5%B0%81%E9%9D%A2.png/160px-%E4%B8%9C%E6%96%B9%E6%A0%96%E9%9C%9E%E5%9B%AD_~_Blue_devil_in_the_Belvedere.%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="160" height="160" srcset="https://upload.thwiki.cc/thumb/e/ec/%E4%B8%9C%E6%96%B9%E6%A0%96%E9%9C%9E%E5%9B%AD_~_Blue_devil_in_the_Belvedere.%E5%B0%81%E9%9D%A2.png/240px-%E4%B8%9C%E6%96%B9%E6%A0%96%E9%9C%9E%E5%9B%AD_~_Blue_devil_in_the_Belvedere.%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/e/ec/%E4%B8%9C%E6%96%B9%E6%A0%96%E9%9C%9E%E5%9B%AD_~_Blue_devil_in_the_Belvedere.%E5%B0%81%E9%9D%A2.png/320px-%E4%B8%9C%E6%96%B9%E6%A0%96%E9%9C%9E%E5%9B%AD_~_Blue_devil_in_the_Belvedere.%E5%B0%81%E9%9D%A2.png 2x" data-file-width="2048" data-file-height="2048"></a></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="/index.php?title=%E4%B8%9C%E6%96%B9%E6%A0%96%E9%9C%9E%E5%9B%AD_~_Blue_devil_in_the_Belvedere./%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85&amp;action=edit&amp;redlink=1" class="new" title="东方栖霞园 ~ Blue devil in the Belvedere./设定与剧情（页面不存在）">剧情</a></td><td style=";;" class="navbox-list navbox-even"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>剧情文本</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./东方栖霞园_~_Blue_devil_in_the_Belvedere.-故事背景.md" title="东方栖霞园 ~ Blue devil in the Belvedere./故事背景">故事背景</a> &#8226; <a href="/index.php?title=%E4%B8%9C%E6%96%B9%E6%A0%96%E9%9C%9E%E5%9B%AD_~_Blue_devil_in_the_Belvedere./%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A&amp;action=edit&amp;redlink=1" class="new" title="东方栖霞园 ~ Blue devil in the Belvedere./角色设定（页面不存在）">Ex 故事背景</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>游戏对话&amp;结局</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./东方栖霞园_~_Blue_devil_in_the_Belvedere.-博丽灵梦.md" title="东方栖霞园 ~ Blue devil in the Belvedere./博丽灵梦">博丽灵梦</a> &#8226; <a href="./东方栖霞园_~_Blue_devil_in_the_Belvedere.-雾雨魔理沙.md" title="东方栖霞园 ~ Blue devil in the Belvedere./雾雨魔理沙">雾雨魔理沙</a> &#8226; <a href="./东方栖霞园_~_Blue_devil_in_the_Belvedere.-十六夜咲夜.md" title="东方栖霞园 ~ Blue devil in the Belvedere./十六夜咲夜">十六夜咲夜</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>EX游戏对话</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./东方栖霞园_~_Blue_devil_in_the_Belvedere.-博丽灵梦_ExStory.md" title="东方栖霞园 ~ Blue devil in the Belvedere./博丽灵梦 ExStory">博丽灵梦</a> &#8226; <a href="./东方栖霞园_~_Blue_devil_in_the_Belvedere.-雾雨魔理沙_ExStory.md" title="东方栖霞园 ~ Blue devil in the Belvedere./雾雨魔理沙 ExStory">雾雨魔理沙</a> &#8226; <a href="./东方栖霞园_~_Blue_devil_in_the_Belvedere.-十六夜咲夜_ExStory.md" title="东方栖霞园 ~ Blue devil in the Belvedere./十六夜咲夜 ExStory">十六夜咲夜</a></div></td></tr></tbody></table><div></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">场景</td><td style=";;" class="navbox-list navbox-odd"><div><a href="./雾之湖.md" title="雾之湖">雾之湖</a>·<a href="./红魔馆.md" title="红魔馆">红魔馆</a>前 &#8226; <a href="./魔法森林.md" title="魔法森林">森林的小径</a> &#8226; 异域的郊野 &#8226; 栖霞园 &#8226; 清泉宫 &#8226; 清泉宫·启示之厅 &#8226; <a href="./魔法森林.md" title="魔法森林">魔法森林</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">音乐</td><td style=";;" class="navbox-list navbox-even"><div><a href="./东方栖霞园_~_Blue_devil_in_the_Belvedere.-音乐.md" title="东方栖霞园 ~ Blue devil in the Belvedere./音乐">Music Room</a> &#8226; <a href="./奥尔斯佩女王舞会_~_Queen_of_Auersper's_Ball.md" title="奥尔斯佩女王舞会 ~ Queen of Auersper&#39;s Ball">Original Sound Track</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="/index.php?title=%E4%B8%9C%E6%96%B9%E6%A0%96%E9%9C%9E%E5%9B%AD_~_Blue_devil_in_the_Belvedere./%E9%99%84%E5%B8%A6%E6%96%87%E6%A1%A3&amp;action=edit&amp;redlink=1" class="new" title="东方栖霞园 ~ Blue devil in the Belvedere./附带文档（页面不存在）">附带文档</a></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./东方栖霞园_~_Blue_devil_in_the_Belvedere.-体验版Omake.md" title="东方栖霞园 ~ Blue devil in the Belvedere./体验版Omake">Omake</a> &#8226; <a href="/index.php?title=%E4%B8%9C%E6%96%B9%E6%A0%96%E9%9C%9E%E5%9B%AD_~_Blue_devil_in_the_Belvedere./Manual&amp;action=edit&amp;redlink=1" class="new" title="东方栖霞园 ~ Blue devil in the Belvedere./Manual（页面不存在）">Manual</a> &#8226; <a href="/index.php?title=%E4%B8%9C%E6%96%B9%E6%A0%96%E9%9C%9E%E5%9B%AD_~_Blue_devil_in_the_Belvedere./%E7%96%91%E9%9A%BE%E8%A7%A3%E7%AD%94&amp;action=edit&amp;redlink=1" class="new" title="东方栖霞园 ~ Blue devil in the Belvedere./疑难解答（页面不存在）">疑难解答</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="./东方栖霞园_~_Blue_devil_in_the_Belvedere.-系统.md" title="东方栖霞园 ~ Blue devil in the Belvedere./系统">系统</a></td><td style=";;" class="navbox-list navbox-even"><div><a href="./东方栖霞园_~_Blue_devil_in_the_Belvedere.-系统.md" title="东方栖霞园 ~ Blue devil in the Belvedere./系统">系统</a> &#8226; <a href="./东方栖霞园_~_Blue_devil_in_the_Belvedere.-其他.md" title="东方栖霞园 ~ Blue devil in the Belvedere./其他">其他相关资料</a> &#8226; <a class="mw-selflink selflink">成就</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="./东方栖霞园_~_Blue_devil_in_the_Belvedere.-符卡.md" title="东方栖霞园 ~ Blue devil in the Belvedere./符卡">符卡</a></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./东方栖霞园_~_Blue_devil_in_the_Belvedere.-符卡-Stage_1.md" title="东方栖霞园 ~ Blue devil in the Belvedere./符卡/Stage 1">Stage 1</a> &#8226; <a href="./东方栖霞园_~_Blue_devil_in_the_Belvedere.-符卡-Stage_2.md" title="东方栖霞园 ~ Blue devil in the Belvedere./符卡/Stage 2">Stage 2</a> &#8226; <a href="./东方栖霞园_~_Blue_devil_in_the_Belvedere.-符卡-Stage_3.md" title="东方栖霞园 ~ Blue devil in the Belvedere./符卡/Stage 3">Stage 3</a> &#8226; <a href="./东方栖霞园_~_Blue_devil_in_the_Belvedere.-符卡-Stage_4.md" title="东方栖霞园 ~ Blue devil in the Belvedere./符卡/Stage 4">Stage 4</a> &#8226; <a href="./东方栖霞园_~_Blue_devil_in_the_Belvedere.-符卡-Stage_5.md" title="东方栖霞园 ~ Blue devil in the Belvedere./符卡/Stage 5">Stage 5</a> &#8226; <a href="./东方栖霞园_~_Blue_devil_in_the_Belvedere.-符卡-Stage_6.md" title="东方栖霞园 ~ Blue devil in the Belvedere./符卡/Stage 6">Stage 6</a> &#8226; <a href="./东方栖霞园_~_Blue_devil_in_the_Belvedere.-符卡-Extra.md" title="东方栖霞园 ~ Blue devil in the Belvedere./符卡/Extra">Extra</a></div></td></tr></tbody></table></td></tr></tbody></table>
-
-
-
-
-
+[^cite_note-2]: 指莎士比亚创作的戏剧《麦克白》中的出场角色。三位女巫预言麦克白将成为苏格兰国王，煽动了麦克白的野心，导致了悲剧的发生。
+[^cite_note-3]: 或取自SCP-1000中提到的“花开之日（The Day of Flowers）”。
+[^cite_note-4]: 或取自德彪西创作的乐曲《沉没的教堂》（La Cathédrale Engloutie），以传说中沉入海底的伊苏古城教堂为创作灵感。
+[^cite_note-5]: 游戏中成就名原文如此，设定文档中为“索妮亚”。
+[^cite_note-6]: 指制作组的另外一款游戏：[东方祈华梦](./东方祈华梦_～_Elegant_Impermanence_of_Sakura..md)的染色系统
+[^cite_note-7]: 一首创作于1898年的那不勒斯（那波里）歌曲。一般被认为是表达忠贞不渝的爱意。
+[^cite_note-8]: 捏他游戏《舰队Collection》。
+[^cite_note-9]: 捏他《捕鱼达人》 ~~这个大家应该都懂（~~ 
+[^cite_note-10]: [藤原妹红](./藤原妹红.md)的符卡[惜命「不死之身的舍身击」](./不死之身的舍身击.md)。
+[^cite_note-11]: 巴尔扎克长篇小说《欧也妮·葛朗台》，书中欧也妮的父亲老葛朗台吝啬成性，“葛朗台”也成为了“吝啬鬼”的代指。
+[^cite_note-12]:  ~~捏他《劲舞团》~~ 
+[^cite_note-13]: 解谜游戏《人类一败涂地》。
 
 ---
 

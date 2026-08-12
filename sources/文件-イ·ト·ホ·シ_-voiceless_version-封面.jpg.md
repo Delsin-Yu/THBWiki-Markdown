@@ -1,6 +1,6 @@
 # 文件:イ·ト·ホ·シ_-voiceless_version-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bc\ns6%3A%E3%82%A4%C2%B7%E3%83%88%C2%B7%E3%83%9B%C2%B7%E3%82%B7_-voiceless_version-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bc\ns6%3A%E3%82%A4%C2%B7%E3%83%88%C2%B7%E3%83%9B%C2%B7%E3%82%B7_-voiceless_version-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Aphrodite | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ Aphrodite | 专辑封面 | 封面图片
   
 
 - [イ·ト·ホ·シ -voiceless version-](./イ·ト·ホ·シ_-voiceless_version-.md)
-
-
-
 
 
 ---

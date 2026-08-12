@@ -1,11 +1,11 @@
 # 东方夜雀食堂_-_Touhou_Mystia's_Izakaya/食物
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\1\13\ns0%3A%E4%B8%9C%E6%96%B9%E5%A4%9C%E9%9B%80%E9%A3%9F%E5%A0%82_-_Touhou_Mystia%27s_Izakaya%2F%E9%A3%9F%E7%89%A9.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\1\13\ns0%3A%E4%B8%9C%E6%96%B9%E5%A4%9C%E9%9B%80%E9%A3%9F%E5%A0%82_-_Touhou_Mystia%27s_Izakaya%2F%E9%A3%9F%E7%89%A9.html -->
 
 Re零同人社 | 二色幽紫蝶
 
-- 本页词条是对东方二次同人游戏《 **[东方夜雀食堂 - Touhou Mystia's Izakaya](./东方夜雀食堂_-_Touhou_Mystia's_Izakaya.md)** 》的补充攻略  
 
+- 本页词条是对东方二次同人游戏《**[东方夜雀食堂 - Touhou Mystia's Izakaya](./东方夜雀食堂_-_Touhou_Mystia's_Izakaya.md)**》的补充攻略
 
 
 ## 目录
@@ -15,9 +15,6 @@ Re零同人社 | 二色幽紫蝶
 - [3 食材](#食材)
 - [4 其他](#其他)
 - [5 注释](#注释)
-
-
-
 
 
 ## 食谱
@@ -252,7 +249,7 @@ Re零同人社 | 二色幽紫蝶
 <td></td>
 <td>4.8</td>
 <td>【商店】<br>三妖精商店</td>
-<td>以猩红恶魔<sup id="cite_ref-说明1_1-0" class="reference"><a href="#cite_note-说明1-1">1</a></sup>头上的帽子为原型制作的梦幻甜食，切开会有仿佛血液一般的甜美酱料流出，是「<a href="/index.php?title=%E4%B8%89%E5%A6%96%E7%B2%BE%E7%9A%84%E8%B9%A6%E8%B9%A6%E8%B7%B3%E8%B7%B3%E8%AE%A8%E4%BC%90%E5%A4%A7%E4%BD%9C%E6%88%98&amp;action=edit&amp;redlink=1" class="new" title="三妖精的蹦蹦跳跳讨伐大作战（页面不存在）">三妖精的蹦蹦跳跳讨伐大作战</a>」世界传来的珍贵料理。
+<td>以猩红恶魔<span>[^cite_note-说明1-1]</span>头上的帽子为原型制作的梦幻甜食，切开会有仿佛血液一般的甜美酱料流出，是「<a class="new" title="三妖精的蹦蹦跳跳讨伐大作战（页面不存在）">三妖精的蹦蹦跳跳讨伐大作战</a>」世界传来的珍贵料理。
 </td></tr>
 <tr>
 <td><center>无意识妖怪慕斯</center> <div class="center"><div class="floatnone"><a href="./文件-无意识妖怪慕斯（东方夜雀食堂）.png.md" class="image"><img alt="无意识妖怪慕斯（东方夜雀食堂）.png" src="https://upload.thwiki.cc/thumb/2/2a/%E6%97%A0%E6%84%8F%E8%AF%86%E5%A6%96%E6%80%AA%E6%85%95%E6%96%AF%EF%BC%88%E4%B8%9C%E6%96%B9%E5%A4%9C%E9%9B%80%E9%A3%9F%E5%A0%82%EF%BC%89.png/60px-%E6%97%A0%E6%84%8F%E8%AF%86%E5%A6%96%E6%80%AA%E6%85%95%E6%96%AF%EF%BC%88%E4%B8%9C%E6%96%B9%E5%A4%9C%E9%9B%80%E9%A3%9F%E5%A0%82%EF%BC%89.png" decoding="async" loading="lazy" width="60" height="60" srcset="https://upload.thwiki.cc/2/2a/%E6%97%A0%E6%84%8F%E8%AF%86%E5%A6%96%E6%80%AA%E6%85%95%E6%96%AF%EF%BC%88%E4%B8%9C%E6%96%B9%E5%A4%9C%E9%9B%80%E9%A3%9F%E5%A0%82%EF%BC%89.png 1.5x" data-file-width="86" data-file-height="86"></a></div></div></td>
@@ -263,7 +260,7 @@ Re零同人社 | 二色幽紫蝶
 <td></td>
 <td>4.8</td>
 <td>【商店】<br>三妖精商店</td>
-<td>以无意识妖怪<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">2</a></sup>的帽子为原型制作的深沉甜食，即使切开感受到的也是无尽的黑暗，但香醇程度令人流连忘返，是「<a href="/index.php?title=%E4%B8%89%E5%A6%96%E7%B2%BE%E7%9A%84%E8%B9%A6%E8%B9%A6%E8%B7%B3%E8%B7%B3%E8%AE%A8%E4%BC%90%E5%A4%A7%E4%BD%9C%E6%88%98&amp;action=edit&amp;redlink=1" class="new" title="三妖精的蹦蹦跳跳讨伐大作战（页面不存在）">三妖精的蹦蹦跳跳讨伐大作战</a>」世界传来的珍贵料理。
+<td>以无意识妖怪<span>[^cite_note-2]</span>的帽子为原型制作的深沉甜食，即使切开感受到的也是无尽的黑暗，但香醇程度令人流连忘返，是「<a class="new" title="三妖精的蹦蹦跳跳讨伐大作战（页面不存在）">三妖精的蹦蹦跳跳讨伐大作战</a>」世界传来的珍贵料理。
 </td></tr>
 <tr>
 <td><center>秘制小鱼干</center> <div class="center"><div class="floatnone"><a href="./文件-秘制小鱼干（东方夜雀食堂）.png.md" class="image"><img alt="秘制小鱼干（东方夜雀食堂）.png" src="https://upload.thwiki.cc/thumb/8/83/%E7%A7%98%E5%88%B6%E5%B0%8F%E9%B1%BC%E5%B9%B2%EF%BC%88%E4%B8%9C%E6%96%B9%E5%A4%9C%E9%9B%80%E9%A3%9F%E5%A0%82%EF%BC%89.png/60px-%E7%A7%98%E5%88%B6%E5%B0%8F%E9%B1%BC%E5%B9%B2%EF%BC%88%E4%B8%9C%E6%96%B9%E5%A4%9C%E9%9B%80%E9%A3%9F%E5%A0%82%EF%BC%89.png" decoding="async" loading="lazy" width="60" height="60" srcset="https://upload.thwiki.cc/8/83/%E7%A7%98%E5%88%B6%E5%B0%8F%E9%B1%BC%E5%B9%B2%EF%BC%88%E4%B8%9C%E6%96%B9%E5%A4%9C%E9%9B%80%E9%A3%9F%E5%A0%82%EF%BC%89.png 1.5x" data-file-width="86" data-file-height="86"></a></div></div></td>
@@ -670,7 +667,7 @@ Re零同人社 | 二色幽紫蝶
 <td></td>
 <td>7.2</td>
 <td>【羁绊】<br>露米娅3级</td>
-<td>黑不溜秋的怪异美食之首！香飘万里，让人回味无穷。因为打不过熊，没法直接用熊掌做<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">3</a></sup>，但是比真正的熊掌还要鲜美百倍。
+<td>黑不溜秋的怪异美食之首！香飘万里，让人回味无穷。因为打不过熊，没法直接用熊掌做<span>[^cite_note-3]</span>，但是比真正的熊掌还要鲜美百倍。
 </td></tr>
 <tr>
 <td><center>意式烩饭</center> <div class="center"><div class="floatnone"><a href="./文件-意式烩饭（东方夜雀食堂）.png.md" class="image"><img alt="意式烩饭（东方夜雀食堂）.png" src="https://upload.thwiki.cc/thumb/d/db/%E6%84%8F%E5%BC%8F%E7%83%A9%E9%A5%AD%EF%BC%88%E4%B8%9C%E6%96%B9%E5%A4%9C%E9%9B%80%E9%A3%9F%E5%A0%82%EF%BC%89.png/60px-%E6%84%8F%E5%BC%8F%E7%83%A9%E9%A5%AD%EF%BC%88%E4%B8%9C%E6%96%B9%E5%A4%9C%E9%9B%80%E9%A3%9F%E5%A0%82%EF%BC%89.png" decoding="async" loading="lazy" width="60" height="60" srcset="https://upload.thwiki.cc/d/db/%E6%84%8F%E5%BC%8F%E7%83%A9%E9%A5%AD%EF%BC%88%E4%B8%9C%E6%96%B9%E5%A4%9C%E9%9B%80%E9%A3%9F%E5%A0%82%EF%BC%89.png 1.5x" data-file-width="86" data-file-height="86"></a></div></div></td>
@@ -848,7 +845,6 @@ Re零同人社 | 二色幽紫蝶
 <td>【DLC1】【羁绊】早苗1级</td>
 <td>听说的为根据，面糊和各种各样的食材给使用且混合之后在铁板烧制而成的，又脆又香又丰富，万变和平价的特征为因被所有人喜欢涨了。
 </td></tr></tbody></table>
-
 
 
 ## 酒水
@@ -1064,7 +1060,7 @@ Re零同人社 | 二色幽紫蝶
 <td><center>玉露茶</center> <div class="center"><div class="floatnone"><a href="./文件-玉露茶（东方夜雀食堂）.png.md" class="image"><img alt="玉露茶（东方夜雀食堂）.png" src="https://upload.thwiki.cc/thumb/0/0e/%E7%8E%89%E9%9C%B2%E8%8C%B6%EF%BC%88%E4%B8%9C%E6%96%B9%E5%A4%9C%E9%9B%80%E9%A3%9F%E5%A0%82%EF%BC%89.png/60px-%E7%8E%89%E9%9C%B2%E8%8C%B6%EF%BC%88%E4%B8%9C%E6%96%B9%E5%A4%9C%E9%9B%80%E9%A3%9F%E5%A0%82%EF%BC%89.png" decoding="async" loading="lazy" width="60" height="60" srcset="https://upload.thwiki.cc/0/0e/%E7%8E%89%E9%9C%B2%E8%8C%B6%EF%BC%88%E4%B8%9C%E6%96%B9%E5%A4%9C%E9%9B%80%E9%A3%9F%E5%A0%82%EF%BC%89.png 1.5x" data-file-width="86" data-file-height="86"></a></div></div></td>
 <td>50</td>
 <td>无酒精、可加热、古典</td>
-<td>【其它】<sup id="cite_ref-说明4_4-0" class="reference"><a href="#cite_note-说明4-4">4</a></sup></td>
+<td>【其它】<span>[^cite_note-说明4-4]</span></td>
 <td>几乎是日本茶中最高级的茶叶，需要用较低的水温来冲泡，甘醇飘香，口感独特。</td>
 <td>22
 </td></tr>
@@ -1087,7 +1083,7 @@ Re零同人社 | 二色幽紫蝶
 <td><center>“大冰棍儿！”</center> <div class="center"><div class="floatnone"><a href="./文件-“大冰棍儿！”（东方夜雀食堂）.png.md" class="image"><img alt="“大冰棍儿！”（东方夜雀食堂）.png" src="https://upload.thwiki.cc/thumb/a/a7/%E2%80%9C%E5%A4%A7%E5%86%B0%E6%A3%8D%E5%84%BF%EF%BC%81%E2%80%9D%EF%BC%88%E4%B8%9C%E6%96%B9%E5%A4%9C%E9%9B%80%E9%A3%9F%E5%A0%82%EF%BC%89.png/60px-%E2%80%9C%E5%A4%A7%E5%86%B0%E6%A3%8D%E5%84%BF%EF%BC%81%E2%80%9D%EF%BC%88%E4%B8%9C%E6%96%B9%E5%A4%9C%E9%9B%80%E9%A3%9F%E5%A0%82%EF%BC%89.png" decoding="async" loading="lazy" width="60" height="60" srcset="https://upload.thwiki.cc/a/a7/%E2%80%9C%E5%A4%A7%E5%86%B0%E6%A3%8D%E5%84%BF%EF%BC%81%E2%80%9D%EF%BC%88%E4%B8%9C%E6%96%B9%E5%A4%9C%E9%9B%80%E9%A3%9F%E5%A0%82%EF%BC%89.png 1.5x" data-file-width="86" data-file-height="86"></a></div></div></td>
 <td>35</td>
 <td>无酒精、提神、现代、甘</td>
-<td>【联动】<sup id="cite_ref-说明5_5-0" class="reference"><a href="#cite_note-说明5-5">5</a></sup><br>【妖怪兽道】<br>购买</td>
+<td>【联动】<span>[^cite_note-说明5-5]</span><br>【妖怪兽道】<br>购买</td>
 <td>简单又富有重量感的大冰块，有梦幻的甜蜜和薄荷的调味，夏天解暑、让所有人满血复活神奇冰品！是「三妖精的蹦蹦跳跳讨伐大作」战世界传来的珍贵饮品。
 </td></tr>
 <tr>
@@ -1160,7 +1156,6 @@ Re零同人社 | 二色幽紫蝶
 <td>【道场】<br>购买</td>
 <td>道士们采用外界的技术，只提取第一道麦汁酿造的啤酒，因此没有一般啤酒的涩味，口感更纯更顺。
 </td></tr></tbody></table>
-
 
 
 ## 食材
@@ -1370,7 +1365,7 @@ Re零同人社 | 二色幽紫蝶
 <td>在树干上常常可以采集的昆虫外壳，较为常见
 </td></tr>
 <tr>
-<td><center>幻昙华<sup id="cite_ref-说明6_6-0" class="reference"><a href="#cite_note-说明6-6">6</a></sup></center> <div class="center"><div class="floatnone"><a href="./文件-幻昙华（东方夜雀食堂）.png.md" class="image"><img alt="幻昙华（东方夜雀食堂）.png" src="https://upload.thwiki.cc/thumb/2/29/%E5%B9%BB%E6%98%99%E5%8D%8E%EF%BC%88%E4%B8%9C%E6%96%B9%E5%A4%9C%E9%9B%80%E9%A3%9F%E5%A0%82%EF%BC%89.png/60px-%E5%B9%BB%E6%98%99%E5%8D%8E%EF%BC%88%E4%B8%9C%E6%96%B9%E5%A4%9C%E9%9B%80%E9%A3%9F%E5%A0%82%EF%BC%89.png" decoding="async" loading="lazy" width="60" height="60" srcset="https://upload.thwiki.cc/2/29/%E5%B9%BB%E6%98%99%E5%8D%8E%EF%BC%88%E4%B8%9C%E6%96%B9%E5%A4%9C%E9%9B%80%E9%A3%9F%E5%A0%82%EF%BC%89.png 1.5x" data-file-width="86" data-file-height="86"></a></div></div></td>
+<td><center>幻昙华<span>[^cite_note-说明6-6]</span></center> <div class="center"><div class="floatnone"><a href="./文件-幻昙华（东方夜雀食堂）.png.md" class="image"><img alt="幻昙华（东方夜雀食堂）.png" src="https://upload.thwiki.cc/thumb/2/29/%E5%B9%BB%E6%98%99%E5%8D%8E%EF%BC%88%E4%B8%9C%E6%96%B9%E5%A4%9C%E9%9B%80%E9%A3%9F%E5%A0%82%EF%BC%89.png/60px-%E5%B9%BB%E6%98%99%E5%8D%8E%EF%BC%88%E4%B8%9C%E6%96%B9%E5%A4%9C%E9%9B%80%E9%A3%9F%E5%A0%82%EF%BC%89.png" decoding="async" loading="lazy" width="60" height="60" srcset="https://upload.thwiki.cc/2/29/%E5%B9%BB%E6%98%99%E5%8D%8E%EF%BC%88%E4%B8%9C%E6%96%B9%E5%A4%9C%E9%9B%80%E9%A3%9F%E5%A0%82%EF%BC%89.png 1.5x" data-file-width="86" data-file-height="86"></a></div></div></td>
 <td>其他</td>
 <td>高级、传说、梦幻、不可思议</td>
 <td>幻昙花糕</td>
@@ -1525,7 +1520,6 @@ Re零同人社 | 二色幽紫蝶
 </td></tr></tbody></table>
 
 
-
 ## 其他
 
 <table>
@@ -1538,13 +1532,12 @@ Re零同人社 | 二色幽紫蝶
 <td>烹饪失误、散发着黑色气场的不明物质，不会有人想吃这种东西……吧？
 </td></tr></tbody></table>
 
-
-
 [^cite_note-说明1-1]: 指[蕾米莉亚·斯卡雷特](./蕾米莉亚·斯卡蕾特.md)
-
-
-
-
+[^cite_note-2]: 指[古明地恋](./古明地恋.md)
+[^cite_note-3]: 就算打得过熊也不要在现实中尝试。猎杀、收购和食用国家保护的野生动物都是犯罪行为，将受到法律的严厉制裁。
+[^cite_note-说明4-4]: 符卡、索取、交换等
+[^cite_note-说明5-5]: 三妖精的蹦蹦跳跳讨伐大作战
+[^cite_note-说明6-6]: “华”为“花”的古字，亦可通假
 
 ---
 

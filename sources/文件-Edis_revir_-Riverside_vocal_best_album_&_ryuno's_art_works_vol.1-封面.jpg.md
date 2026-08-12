@@ -1,6 +1,6 @@
 # 文件:Edis_revir_-Riverside_vocal_best_album_&_ryuno's_art_works_vol.1-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\71\ns6%3AEdis_revir_-Riverside_vocal_best_album_%26_ryuno%27s_art_works_vol%2E1-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\71\ns6%3AEdis_revir_-Riverside_vocal_best_album_%26_ryuno%27s_art_works_vol%2E1-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Riverside | 专辑封面 | 封面图片
 
@@ -8,11 +8,11 @@ Riverside | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Edis revir -Riverside vocal best album &amp; ryuno's art works vol.1-](./Edis_revir_-Riverside_vocal_best_album_&_ryuno's_art_works_vol.1-.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)- [露娜切露德](./露娜切露德.md)- [桑尼米尔克](./桑尼米尔克.md)- [斯塔萨菲雅](./斯塔萨菲雅.md)
-
-
-
+- [Edis revir -Riverside vocal best album & ryuno's art works vol.1-](./Edis_revir_-Riverside_vocal_best_album_&_ryuno's_art_works_vol.1-.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
+- [露娜切露德](./露娜切露德.md)
+- [桑尼米尔克](./桑尼米尔克.md)
+- [斯塔萨菲雅](./斯塔萨菲雅.md)
 
 
 ---

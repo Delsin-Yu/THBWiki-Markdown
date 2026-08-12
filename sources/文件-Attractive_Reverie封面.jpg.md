@@ -1,6 +1,6 @@
 # 文件:Attractive_Reverie封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b9\ns6%3AAttractive_Reverie%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b9\ns6%3AAttractive_Reverie%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Login_Records | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Login_Records | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Attractive Reverie](./Attractive_Reverie.md)  
-该封面包含的角色：- [八云紫](./八云紫.md)
+- [Attractive Reverie](./Attractive_Reverie.md)该封面包含的角色：
+- [八云紫](./八云紫.md)
 
   
-源地址：[[1]](http://static.tumblr.com/baf9ca65a5719194967f0fd4847b3e3f/ebwdd1y/p0Ins8m5r/tumblr_static_8m7n3xvnt2o8c08oow8g08ggc.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://static.tumblr.com/baf9ca65a5719194967f0fd4847b3e3f/ebwdd1y/p0Ins8m5r/tumblr_static_8m7n3xvnt2o8c08oow8g08ggc.jpg)  
 
 ---
 

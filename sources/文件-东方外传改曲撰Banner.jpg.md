@@ -1,12 +1,8 @@
 # 文件:东方外传改曲撰Banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b1\ns6%3A%E4%B8%9C%E6%96%B9%E5%A4%96%E4%BC%A0%E6%94%B9%E6%9B%B2%E6%92%B0Banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b1\ns6%3A%E4%B8%9C%E6%96%B9%E5%A4%96%E4%BC%A0%E6%94%B9%E6%9B%B2%E6%92%B0Banner%2Ejpg.html -->
 
 Y.GORO!!
-
-
-
-
 
 
 ---

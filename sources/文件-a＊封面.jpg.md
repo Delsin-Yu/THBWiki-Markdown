@@ -1,6 +1,6 @@
 # 文件:a＊封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\63\ns6%3Aa%EF%BC%8A%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\63\ns6%3Aa%EF%BC%8A%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ゆめいろごろも | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [a＊](./a＊.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [a＊](./a＊.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
 
   
-源地址：[direct image link](https://www.suruga-ya.jp/database/pics_light/game/zhore68974.jpg), [source page (suruga-ya ID: ZHORE68974)](https://www.suruga-ya.jp/product/detail/ZHORE68974)
-  
-
-
-
-
+源地址：[direct image link](https://www.suruga-ya.jp/database/pics_light/game/zhore68974.jpg), [source page (suruga-ya ID: ZHORE68974)](https://www.suruga-ya.jp/product/detail/ZHORE68974)  
 
 ---
 

@@ -1,12 +1,8 @@
 # 文件:少年ヴィヴィッドbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e6\ns6%3A%E5%B0%91%E5%B9%B4%E3%83%B4%E3%82%A3%E3%83%B4%E3%82%A3%E3%83%83%E3%83%89banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e6\ns6%3A%E5%B0%91%E5%B9%B4%E3%83%B4%E3%82%A3%E3%83%B4%E3%82%A3%E3%83%83%E3%83%89banner%2Ejpg.html -->
 
 少年ヴィヴィッド | 社团LOGO
-
-
-
-
 
 
 ---

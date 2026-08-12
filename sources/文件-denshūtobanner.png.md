@@ -1,16 +1,11 @@
 # 文件:denshūtobanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0b\ns6%3Adensh%C5%ABtobanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0b\ns6%3Adensh%C5%ABtobanner%2Epng.html -->
 
 denshūto | 社团LOGO
 
   
-源地址: [[1]](http://denshuto.me/img/banner.png)
-  
-
-
-
-
+源地址: [\[1\]](http://denshuto.me/img/banner.png)  
 
 ---
 

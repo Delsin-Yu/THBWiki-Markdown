@@ -1,6 +1,6 @@
 # 文件:紅美鈴の超DOKIDOKI告白ボイス封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0b\ns6%3A%E7%B4%85%E7%BE%8E%E9%88%B4%E3%81%AE%E8%B6%85DOKIDOKI%E5%91%8A%E7%99%BD%E3%83%9C%E3%82%A4%E3%82%B9%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0b\ns6%3A%E7%B4%85%E7%BE%8E%E9%88%B4%E3%81%AE%E8%B6%85DOKIDOKI%E5%91%8A%E7%99%BD%E3%83%9C%E3%82%A4%E3%82%B9%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 アールグレイ | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [紅美鈴の超DOKIDOKI告白ボイス](./紅美鈴の超DOKIDOKI告白ボイス.md)  
-该封面包含的角色：- [红美铃](./红美铃.md)
-
-
-
+- [紅美鈴の超DOKIDOKI告白ボイス](./紅美鈴の超DOKIDOKI告白ボイス.md)该封面包含的角色：
+- [红美铃](./红美铃.md)
 
 
 ---

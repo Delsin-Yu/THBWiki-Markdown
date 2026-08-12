@@ -1,12 +1,8 @@
 # 模板:东方乐祭Global/届名
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\a\a2\ns10%3A%E4%B8%9C%E6%96%B9%E4%B9%90%E7%A5%ADGlobal%2F%E5%B1%8A%E5%90%8D.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\a\a2\ns10%3A%E4%B8%9C%E6%96%B9%E4%B9%90%E7%A5%ADGlobal%2F%E5%B1%8A%E5%90%8D.html -->
 
 活动届名模板
-
-
-
-
 
 
 ---

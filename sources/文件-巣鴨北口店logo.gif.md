@@ -1,18 +1,13 @@
 # 文件:巣鴨北口店logo.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e7\ns6%3A%E5%B7%A3%E9%B4%A8%E5%8C%97%E5%8F%A3%E5%BA%97logo%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e7\ns6%3A%E5%B7%A3%E9%B4%A8%E5%8C%97%E5%8F%A3%E5%BA%97logo%2Egif.html -->
 
 巣鴨北口店 | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[[1]](http://sugamokitaguchi.xxxxxxxx.jp/logo2.gif)
-  
-
-
-
-
+源地址：[\[1\]](http://sugamokitaguchi.xxxxxxxx.jp/logo2.gif)  
 
 ---
 

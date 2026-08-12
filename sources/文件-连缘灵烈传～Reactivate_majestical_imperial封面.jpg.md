@@ -1,6 +1,6 @@
 # 文件:连缘灵烈传～Reactivate_majestical_imperial封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\47\ns6%3A%E8%BF%9E%E7%BC%98%E7%81%B5%E7%83%88%E4%BC%A0%EF%BD%9EReactivate_majestical_imperial%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\47\ns6%3A%E8%BF%9E%E7%BC%98%E7%81%B5%E7%83%88%E4%BC%A0%EF%BD%9EReactivate_majestical_imperial%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 トリック・ノスタルジー | 封面图片 | 软件封面 | 连缘灵烈传
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [连缘灵烈传～Reactivate majestical imperial](./连缘灵烈传～Reactivate_majestical_imperial.md)  
-该封面包含的角色：- [凤联薮雨](./凤联薮雨.md)- [燕乐玄鸟](./燕乐玄鸟.md)
-
-
-
+- [连缘灵烈传～Reactivate majestical imperial](./连缘灵烈传～Reactivate_majestical_imperial.md)该封面包含的角色：
+- [凤联薮雨](./凤联薮雨.md)
+- [燕乐玄鸟](./燕乐玄鸟.md)
 
 
 ---

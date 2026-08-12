@@ -1,16 +1,11 @@
 # 文件:シーリィコオトbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\86\ns6%3A%E3%82%B7%E3%83%BC%E3%83%AA%E3%82%A3%E3%82%B3%E3%82%AA%E3%83%88banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\86\ns6%3A%E3%82%B7%E3%83%BC%E3%83%AA%E3%82%A3%E3%82%B3%E3%82%AA%E3%83%88banner%2Epng.html -->
 
 シーリィコオト | 社团LOGO
 
   
-源地址：[[1]](http://seeliecooto.web.fc2.com/img/rogo.png)
-  
-
-
-
-
+源地址：[\[1\]](http://seeliecooto.web.fc2.com/img/rogo.png)  
 
 ---
 

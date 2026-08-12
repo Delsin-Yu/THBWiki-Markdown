@@ -1,6 +1,6 @@
 # 文件:RETROARING_RECORDS_EP.01封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\90\ns6%3ARETROARING_RECORDS_EP%2E01%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\90\ns6%3ARETROARING_RECORDS_EP%2E01%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 RETROARING_RECORDS | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ RETROARING_RECORDS | 专辑封面 | 封面图片
   
 
 - [RETROARING RECORDS EP.01](./RETROARING_RECORDS_EP.01.md)
-
-
-
 
 
 ---

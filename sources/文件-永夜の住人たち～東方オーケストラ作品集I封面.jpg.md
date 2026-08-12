@@ -1,6 +1,6 @@
 # 文件:永夜の住人たち～東方オーケストラ作品集I封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7c\ns6%3A%E6%B0%B8%E5%A4%9C%E3%81%AE%E4%BD%8F%E4%BA%BA%E3%81%9F%E3%81%A1%EF%BD%9E%E6%9D%B1%E6%96%B9%E3%82%AA%E3%83%BC%E3%82%B1%E3%82%B9%E3%83%88%E3%83%A9%E4%BD%9C%E5%93%81%E9%9B%86I%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7c\ns6%3A%E6%B0%B8%E5%A4%9C%E3%81%AE%E4%BD%8F%E4%BA%BA%E3%81%9F%E3%81%A1%EF%BD%9E%E6%9D%B1%E6%96%B9%E3%82%AA%E3%83%BC%E3%82%B1%E3%82%B9%E3%83%88%E3%83%A9%E4%BD%9C%E5%93%81%E9%9B%86I%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 氷結幻想
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [永夜の住人たち～東方オーケストラ作品集I](./永夜の住人たち～東方オーケストラ作品集I.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [永夜の住人たち～東方オーケストラ作品集I](./永夜の住人たち～東方オーケストラ作品集I.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

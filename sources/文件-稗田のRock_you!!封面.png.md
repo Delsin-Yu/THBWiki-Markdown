@@ -1,6 +1,6 @@
 # 文件:稗田のRock_you!!封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a8\ns6%3A%E7%A8%97%E7%94%B0%E3%81%AERock_you%21%21%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a8\ns6%3A%E7%A8%97%E7%94%B0%E3%81%AERock_you%21%21%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Public_Planet | 同人志封面 | 封面图片
 
@@ -10,11 +10,11 @@ Public_Planet | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [稗田のRock you!!](./稗田のRock_you!!.md)  
-该封面包含的角色：- [稗田阿求](./稗田阿求.md)- [九十九弁弁](./九十九弁弁.md)- [九十九八桥](./九十九八桥.md)- [堀川雷鼓](./堀川雷鼓.md)
-
-
-
+- [稗田のRock you!!](./稗田のRock_you!!.md)该封面包含的角色：
+- [稗田阿求](./稗田阿求.md)
+- [九十九弁弁](./九十九弁弁.md)
+- [九十九八桥](./九十九八桥.md)
+- [堀川雷鼓](./堀川雷鼓.md)
 
 
 ---

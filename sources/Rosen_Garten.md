@@ -1,13 +1,11 @@
 # Rosen_Garten
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\5\5a\ns0%3ARosen_Garten.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\5\5a\ns0%3ARosen_Garten.html -->
 
 2010年7月18日 由 Cat Styles 于 红之广场4 发布的EP同人专辑，曲目主要风格是 Jpop、Trance，内容以 东方红魔乡为题材，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人专辑 (未找到链接)** 的词条
-<center>
-
+**[二次创作同人专辑](./二次创作.md#同人音乐)**的词条<center>
 <table>
 <tbody><tr>
 <td class="mbox-image"><div style="width: 52px;">
@@ -16,48 +14,39 @@
 </tr>
 </tbody></table>
 
-
 </center>
-
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Rosen_Garten封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/c/cd/Rosen_Garten%E5%B0%81%E9%9D%A2.jpg/252px-Rosen_Garten%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="252" height="252" srcset="https://upload.thwiki.cc/thumb/c/cd/Rosen_Garten%E5%B0%81%E9%9D%A2.jpg/378px-Rosen_Garten%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/c/cd/Rosen_Garten%E5%B0%81%E9%9D%A2.jpg/504px-Rosen_Garten%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1405" data-file-height="1405"></a><div class="cover-char">角色：<a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a></div></td>
 </tr><tr><td class="label">名称</td><td colspan="2"> Rosen Garten </td></tr><tr><td class="label">制作方</td><td><a href="./Cat_Styles.md" title="Cat Styles">Cat Styles</a></td><td class="cover-artwork" rowspan="9" style="min-width:252px;"><a href="./文件-Rosen_Garten封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/c/cd/Rosen_Garten%E5%B0%81%E9%9D%A2.jpg/252px-Rosen_Garten%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="252" height="252" srcset="https://upload.thwiki.cc/thumb/c/cd/Rosen_Garten%E5%B0%81%E9%9D%A2.jpg/378px-Rosen_Garten%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/c/cd/Rosen_Garten%E5%B0%81%E9%9D%A2.jpg/504px-Rosen_Garten%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1405" data-file-height="1405"></a><div class="cover-char">角色：<a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2010-07-18&#160;（<a href="/展会作品列表?e=%E7%BA%A2%E4%B9%8B%E5%B9%BF%E5%9C%BA%234">紅のひろば4</a>）</td></tr><tr><td class="label">类型</td><td>EP</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>3</td></tr><tr><td class="label">总时长</td><td>13:10</td></tr><tr><td class="label">风格类型</td><td>Jpop，Trance</td></tr><tr><td class="label">特定选材</td><td>东方红魔乡</td></tr></tbody></table>
+</tr><tr><td class="label">首发日期</td><td>2010-07-18 （<a href="./展会作品列表.md#4">紅のひろば4</a>）</td></tr><tr><td class="label">类型</td><td>EP</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>3</td></tr><tr><td class="label">总时长</td><td>13:10</td></tr><tr><td class="label">风格类型</td><td>Jpop，Trance</td></tr><tr><td class="label">特定选材</td><td>东方红魔乡</td></tr></tbody></table>
 
 Rosen Garten（同人专辑，Cat Styles，2010） - 2010年7月18日 由 Cat Styles 于 红之广场4 发布的EP同人专辑，曲目主要风格是 Jpop、Trance，内容以 东方红魔乡为题材，分级为 一般向
-
 ## Staff
   
- **Arrangement**   
+**Arrangement**  
 
-<table><tbody><tr><td><a href="/index.php?title=%E7%99%BD%E7%8C%AB&amp;action=edit&amp;redlink=1" class="new" title="白猫（页面不存在）">白猫</a></td><td><a href="./Cat_Styles.md" title="Cat Styles">Cat Styles</a></td><td>Tr.1</td></tr><tr><td><a href="/index.php?title=d%EF%BC%89Tom&amp;action=edit&amp;redlink=1" class="new" title="d）Tom（页面不存在）">d）Tom</a></td><td></td><td>Tr.2/3</td></tr></tbody></table>
+<table><tbody><tr><td><a class="new" title="白猫（页面不存在）">白猫</a></td><td><a href="./Cat_Styles.md" title="Cat Styles">Cat Styles</a></td><td>Tr.1</td></tr><tr><td><a class="new" title="d）Tom（页面不存在）">d）Tom</a></td><td></td><td>Tr.2/3</td></tr></tbody></table>
 
   
- **Lyrics**   
+**Lyrics**  
 
-<table><tbody><tr><td><a href="/index.php?title=%E9%BB%92%E7%8C%AB&amp;action=edit&amp;redlink=1" class="new" title="黒猫（页面不存在）">黒猫</a></td><td><a href="./Cat_Styles.md" title="Cat Styles">Cat Styles</a></td><td>Tr.1-3</td></tr></tbody></table>
-
+<table><tbody><tr><td><a class="new" title="黒猫（页面不存在）">黒猫</a></td><td><a href="./Cat_Styles.md" title="Cat Styles">Cat Styles</a></td><td>Tr.1-3</td></tr></tbody></table>
 
 Vocal
-: ヒスイリカ （[CN2&amp;TEAR＊](./CN2&TEAR＊.md)）
+: ヒスイリカ （[CN2&TEAR＊](./CN2&TEAR＊.md)）
 : 黒猫 （[Cat Styles](./Cat_Styles.md)）
 Illustration
 : 黒猫 （[Cat Styles](./Cat_Styles.md)）
 
-
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Rosarot_Ewigkeit" colspan="2" class="title">Rosarot Ewigkeit<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=白猫&amp;lyric=黒猫&amp;ogmusic=紅より儚い永遠&amp;fromwiki=Rosen_Garten"><span title="搜索相似同人曲"></span></a></span></td><td class="time">06:52</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E7%99%BD%E7%8C%AB&amp;action=edit&amp;redlink=1" class="new" title="白猫（页面不存在）">白猫</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，白猫&amp;fromwiki=Rosen_Garten"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="/index.php?title=%E9%BB%92%E7%8C%AB&amp;action=edit&amp;redlink=1" class="new" title="黒猫（页面不存在）">黒猫</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?lyric=黒猫&amp;fromwiki=Rosen_Garten"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=紅より儚い永遠&amp;fromwiki=Rosen_Garten"><span></span></a></span><div class="ogmusic"><a href="./紅より儚い永遠.md" class="mw-redirect" title="紅より儚い永遠">紅より儚い永遠</a></div><div class="source"><a href="./东方红魔乡_～_the_Embodiment_of_Scarlet_Devil..md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr>
-<tr><td id="2" class="infoYD"><b>02</b></td><td id="Krone_Rose" colspan="2" class="title">Krone Rose<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=d）Tom&amp;lyric=黒猫&amp;ogmusic=亡き王女の為のセプテット，ツェペシュの幼き末裔，月時計　～ ルナ・ダイアル&amp;fromwiki=Rosen_Garten"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:32</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=d%EF%BC%89Tom&amp;action=edit&amp;redlink=1" class="new" title="d）Tom（页面不存在）">d）Tom</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，d）Tom&amp;fromwiki=Rosen_Garten"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="/index.php?title=%E9%BB%92%E7%8C%AB&amp;action=edit&amp;redlink=1" class="new" title="黒猫（页面不存在）">黒猫</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?lyric=黒猫&amp;fromwiki=Rosen_Garten"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=亡き王女の為のセプテット，ツェペシュの幼き末裔，月時計　～ ルナ・ダイアル&amp;fromwiki=Rosen_Garten"><span></span></a></span><div class="ogmusic"><a href="./亡き王女の為のセプテット.md" class="mw-redirect" title="亡き王女の為のセプテット">亡き王女の為のセプテット</a></div><div class="ogmusic"><a href="./ツェペシュの幼き末裔.md" class="mw-redirect" title="ツェペシュの幼き末裔">ツェペシュの幼き末裔</a></div><div class="ogmusic"><a href="./月時計_～_ルナ・ダイアル.md" class="mw-redirect" title="月時計 ～ ルナ・ダイアル">月時計　～ ルナ・ダイアル</a></div><div class="source"><a href="./东方红魔乡_～_the_Embodiment_of_Scarlet_Devil..md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr>
-<tr><td id="3" class="infoYD"><b>03</b></td><td id="Lied_einsamen_Madchen" colspan="2" class="title">Lied einsamen Madchen<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=d）Tom&amp;lyric=黒猫&amp;ogmusic=U.N.オーエンは彼女なのか？&amp;fromwiki=Rosen_Garten"><span title="搜索相似同人曲"></span></a></span></td><td class="time">02:46</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=d%EF%BC%89Tom&amp;action=edit&amp;redlink=1" class="new" title="d）Tom（页面不存在）">d）Tom</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，d）Tom&amp;fromwiki=Rosen_Garten"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="/index.php?title=%E9%BB%92%E7%8C%AB&amp;action=edit&amp;redlink=1" class="new" title="黒猫（页面不存在）">黒猫</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?lyric=黒猫&amp;fromwiki=Rosen_Garten"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=U.N.オーエンは彼女なのか？&amp;fromwiki=Rosen_Garten"><span></span></a></span><div class="ogmusic"><a href="./U.N.オーエンは彼女なのか？.md" class="mw-redirect" title="U.N.オーエンは彼女なのか？">U.N.オーエンは彼女なのか？</a></div><div class="source"><a href="./东方红魔乡_～_the_Embodiment_of_Scarlet_Devil..md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr></tbody></table>
-
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Rosarot_Ewigkeit" colspan="2" class="title">Rosarot Ewigkeit</td><td class="time">06:52</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="白猫（页面不存在）">白猫</a></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a class="new" title="黒猫（页面不存在）">黒猫</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./比红色更虚无的永远.md" class="mw-redirect" title="紅より儚い永遠">紅より儚い永遠</a></div><div class="source"><a href="./东方红魔乡.md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr>
+<tr><td id="2" class="infoYD"><b>02</b></td><td id="Krone_Rose" colspan="2" class="title">Krone Rose</td><td class="time">03:32</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="d）Tom（页面不存在）">d）Tom</a></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a class="new" title="黒猫（页面不存在）">黒猫</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./献给已逝公主的七重奏.md" class="mw-redirect" title="亡き王女の為のセプテット">亡き王女の為のセプテット</a></div><div class="ogmusic"><a href="./特佩斯的年幼末裔.md" class="mw-redirect" title="ツェペシュの幼き末裔">ツェペシュの幼き末裔</a></div><div class="ogmusic"><a href="./月时计_～_Luna_Dial.md" class="mw-redirect" title="月時計 ～ ルナ・ダイアル">月時計　～ ルナ・ダイアル</a></div><div class="source"><a href="./东方红魔乡.md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr>
+<tr><td id="3" class="infoYD"><b>03</b></td><td id="Lied_einsamen_Madchen" colspan="2" class="title">Lied einsamen Madchen</td><td class="time">02:46</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="d）Tom（页面不存在）">d）Tom</a></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a class="new" title="黒猫（页面不存在）">黒猫</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./U.N.OWEN就是她吗？.md" class="mw-redirect" title="U.N.オーエンは彼女なのか？">U.N.オーエンは彼女なのか？</a></div><div class="source"><a href="./东方红魔乡.md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr></tbody></table>
 
 
 ## 评论
-
-
-
 
 ---
 

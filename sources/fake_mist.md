@@ -1,52 +1,43 @@
 # fake_mist
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\a\a1\ns0%3Afake_mist.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\a\a1\ns0%3Afake_mist.html -->
 
 2014年5月11日 由 淡島朧茶店 于 博丽神社例大祭11 发布的EP同人专辑，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人专辑 (未找到链接)** 的词条
-
+**[二次创作同人专辑](./二次创作.md#同人音乐)**的词条
 ## 专辑信息
 
-<table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=fake_mist%E5%B0%81%E9%9D%A2.jpg" class="new" title="文件:fake mist封面.jpg">封面图片</a><div class="cover-char">角色：<a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰朵露·斯卡蕾特</a></div></td>
-</tr><tr><td class="label">名称</td><td colspan="2"> fake mist </td></tr><tr><td class="label">制作方</td><td><a href="./淡島朧茶店.md" title="淡島朧茶店">淡島朧茶店</a></td><td class="cover-artwork" rowspan="7" style="min-width:196px;"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=fake_mist%E5%B0%81%E9%9D%A2.jpg" class="new" title="文件:fake mist封面.jpg">封面图片</a><div class="cover-char">角色：<a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰朵露·斯卡蕾特</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2014-05-11&#160;（<a href="/展会作品列表?e=%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD%2311">第十一回 博麗神社例大祭</a>）</td></tr><tr><td class="label">类型</td><td>EP</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>4</td></tr><tr><td class="label">总时长</td><td>00:00</td></tr></tbody></table>
+<table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a class="new" title="文件:fake mist封面.jpg">封面图片</a><div class="cover-char">角色：<a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰朵露·斯卡蕾特</a></div></td>
+</tr><tr><td class="label">名称</td><td colspan="2"> fake mist </td></tr><tr><td class="label">制作方</td><td><a href="./淡島朧茶店.md" title="淡島朧茶店">淡島朧茶店</a></td><td class="cover-artwork" rowspan="7" style="min-width:196px;"><a class="new" title="文件:fake mist封面.jpg">封面图片</a><div class="cover-char">角色：<a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰朵露·斯卡蕾特</a></div></td>
+</tr><tr><td class="label">首发日期</td><td>2014-05-11 （<a href="./展会作品列表.md#11">第十一回 博麗神社例大祭</a>）</td></tr><tr><td class="label">类型</td><td>EP</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>4</td></tr><tr><td class="label">总时长</td><td>00:00</td></tr></tbody></table>
 
 fake mist（同人专辑，淡島朧茶店，2014） - 2014年5月11日 由 淡島朧茶店 于 博丽神社例大祭11 发布的EP同人专辑，分级为 一般向
-
 ## Staff
   
- **Arrangement**   
+**Arrangement**  
 
-<table><tbody><tr><td><a href="/index.php?title=%E6%B2%A2%E6%9D%91%E4%B8%80&amp;action=edit&amp;redlink=1" class="new" title="沢村一（页面不存在）">沢村一</a></td><td></td><td>Tr.1-4</td></tr></tbody></table>
-
+<table><tbody><tr><td><a class="new" title="沢村一（页面不存在）">沢村一</a></td><td></td><td>Tr.1-4</td></tr></tbody></table>
 
 Design
 : 设计师 （[网址 社团]）
 Illustration
 : 画师 （[网址 社团]）
 
-
 ## 试听
   
 暂不支援此类型
   
 
-
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="dive_into_the_rain" colspan="2" class="title">dive into the rain<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=沢村一&amp;ogmusic=亡き王女の為のセプテット&amp;fromwiki=fake_mist"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E6%B2%A2%E6%9D%91%E4%B8%80&amp;action=edit&amp;redlink=1" class="new" title="沢村一（页面不存在）">沢村一</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，沢村一&amp;fromwiki=fake_mist"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=亡き王女の為のセプテット&amp;fromwiki=fake_mist"><span></span></a></span><div class="ogmusic"><a href="./亡き王女の為のセプテット.md" class="mw-redirect" title="亡き王女の為のセプテット">亡き王女の為のセプテット</a></div><div class="source"><a href="./东方红魔乡_～_the_Embodiment_of_Scarlet_Devil..md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr>
-<tr><td id="2" class="infoYD"><b>02</b></td><td id="Dreaming_of_the_Merlin" colspan="2" class="title">Dreaming of the Merlin<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=沢村一&amp;ogmusic=魔術師メリー&amp;fromwiki=fake_mist"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E6%B2%A2%E6%9D%91%E4%B8%80&amp;action=edit&amp;redlink=1" class="new" title="沢村一（页面不存在）">沢村一</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，沢村一&amp;fromwiki=fake_mist"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">社团</td><td class="text" colspan="2"><a href="./さくらゆっけ.md" title="さくらゆっけ">さくらゆっけ</a></td></tr><tr><td class="left"></td><td class="label">初发布</td><td class="text" colspan="2"><a href="/%E5%99%A8%E6%A8%82%E7%A7%98%E5%B0%81%E5%80%B6%E6%A5%BD%E9%83%A8#4" title="器樂秘封倶楽部">Dreaming of the Merlin</a><div class="source"><a href="./器樂秘封倶楽部.md" title="器樂秘封倶楽部">器樂秘封倶楽部</a></div></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=魔術師メリー&amp;fromwiki=fake_mist"><span></span></a></span><div class="ogmusic"><a href="./魔術師メリー.md" class="mw-redirect" title="魔術師メリー">魔術師メリー</a></div><div class="source"><a href="./莲台野夜行_～_Ghostly_Field_Club..md" class="mw-redirect" title="莲台野夜行 ～ Ghostly Field Club.">莲台野夜行　～ Ghostly Field Club.</a></div></td></tr>
-<tr><td id="3" class="infoYD"><b>03</b></td><td id="ling_to_illusion" colspan="2" class="title">ling to illusion<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=沢村一&amp;ogmusic=ネクロファンタジア&amp;fromwiki=fake_mist"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E6%B2%A2%E6%9D%91%E4%B8%80&amp;action=edit&amp;redlink=1" class="new" title="沢村一（页面不存在）">沢村一</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，沢村一&amp;fromwiki=fake_mist"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=ネクロファンタジア&amp;fromwiki=fake_mist"><span></span></a></span><div class="ogmusic"><a href="./ネクロファンタジア.md" class="mw-redirect" title="ネクロファンタジア">ネクロファンタジア</a></div><div class="source"><a href="./东方妖妖梦_～_Perfect_Cherry_Blossom..md" class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr>
-<tr><td id="4" class="infoYD"><b>04</b></td><td id="Next_phantasm...(hiroshige_mix)" colspan="2" class="title">Next phantasm...(hiroshige mix)<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=沢村一&amp;ogmusic=ヒロシゲ36号　～ Neo Super-Express&amp;fromwiki=fake_mist"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E6%B2%A2%E6%9D%91%E4%B8%80&amp;action=edit&amp;redlink=1" class="new" title="沢村一（页面不存在）">沢村一</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，沢村一&amp;fromwiki=fake_mist"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=ヒロシゲ36号　～ Neo Super-Express&amp;fromwiki=fake_mist"><span></span></a></span><div class="ogmusic"><a href="./ヒロシゲ36号_～_Neo_Super-Express.md" class="mw-redirect" title="ヒロシゲ36号 ～ Neo Super-Express">ヒロシゲ36号　～ Neo Super-Express</a></div><div class="source"><a href="./卯酉东海道_～_Retrospective_53_minutes.md" class="mw-redirect" title="卯酉东海道 ～ Retrospective 53 minutes">卯酉东海道　～ Retrospective 53 minutes</a></div></td></tr></tbody></table>
-
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="dive_into_the_rain" colspan="2" class="title">dive into the rain</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="沢村一（页面不存在）">沢村一</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./献给已逝公主的七重奏.md" class="mw-redirect" title="亡き王女の為のセプテット">亡き王女の為のセプテット</a></div><div class="source"><a href="./东方红魔乡.md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr>
+<tr><td id="2" class="infoYD"><b>02</b></td><td id="Dreaming_of_the_Merlin" colspan="2" class="title">Dreaming of the Merlin</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="沢村一（页面不存在）">沢村一</a></td></tr><tr><td class="left"></td><td class="label">社团</td><td class="text" colspan="2"><a href="./さくらゆっけ.md" title="さくらゆっけ">さくらゆっけ</a></td></tr><tr><td class="left"></td><td class="label">初发布</td><td class="text" colspan="2"><a href="./器樂秘封倶楽部.md#4" title="器樂秘封倶楽部">Dreaming of the Merlin</a><div class="source"><a href="./器樂秘封倶楽部.md" title="器樂秘封倶楽部">器樂秘封倶楽部</a></div></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./魔术师梅莉.md" class="mw-redirect" title="魔術師メリー">魔術師メリー</a></div><div class="source"><a href="./莲台野夜行.md" class="mw-redirect" title="莲台野夜行 ～ Ghostly Field Club.">莲台野夜行　～ Ghostly Field Club.</a></div></td></tr>
+<tr><td id="3" class="infoYD"><b>03</b></td><td id="ling_to_illusion" colspan="2" class="title">ling to illusion</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="沢村一（页面不存在）">沢村一</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./Necro-Fantasia.md" class="mw-redirect" title="ネクロファンタジア">ネクロファンタジア</a></div><div class="source"><a href="./东方妖妖梦.md" class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr>
+<tr><td id="4" class="infoYD"><b>04</b></td><td id="Next_phantasm...(hiroshige_mix)" colspan="2" class="title">Next phantasm...(hiroshige mix)</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="沢村一（页面不存在）">沢村一</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./广重36号_～_Neo_Super-Express.md" class="mw-redirect" title="ヒロシゲ36号 ～ Neo Super-Express">ヒロシゲ36号　～ Neo Super-Express</a></div><div class="source"><a href="./卯酉东海道.md" class="mw-redirect" title="卯酉东海道 ～ Retrospective 53 minutes">卯酉东海道　～ Retrospective 53 minutes</a></div></td></tr></tbody></table>
 
 
 ## 评论
-
-
-
 
 ---
 

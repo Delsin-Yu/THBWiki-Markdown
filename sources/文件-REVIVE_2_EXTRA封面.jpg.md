@@ -1,6 +1,6 @@
 # 文件:REVIVE_2_EXTRA封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7a\ns6%3AREVIVE_2_EXTRA%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7a\ns6%3AREVIVE_2_EXTRA%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 LiLA'c_Records | signum／ii | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ LiLA'c_Records | signum／ii | 专辑封面 | 封面图片
   
 
 - [REVIVE 2 EXTRA](./REVIVE_2_EXTRA.md)
-
-
-
 
 
 ---

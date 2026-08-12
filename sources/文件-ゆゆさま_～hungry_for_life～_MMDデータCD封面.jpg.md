@@ -1,6 +1,6 @@
 # 文件:ゆゆさま_～hungry_for_life～_MMDデータCD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2b\ns6%3A%E3%82%86%E3%82%86%E3%81%95%E3%81%BE_%EF%BD%9Ehungry_for_life%EF%BD%9E_MMD%E3%83%87%E3%83%BC%E3%82%BFCD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2b\ns6%3A%E3%82%86%E3%82%86%E3%81%95%E3%81%BE_%EF%BD%9Ehungry_for_life%EF%BD%9E_MMD%E3%83%87%E3%83%BC%E3%82%BFCD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 スレイプニル | 专辑封面 | 封面图片
 
@@ -10,16 +10,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [ゆゆさま ～hungry for life～ MMDデータCD](./ゆゆさま_～hungry_for_life～_MMDデータCD.md)  
-该封面包含的角色：- [西行寺幽幽子](./西行寺幽幽子.md)
+- [ゆゆさま ～hungry for life～ MMDデータCD](./ゆゆさま_～hungry_for_life～_MMDデータCD.md)该封面包含的角色：
+- [西行寺幽幽子](./西行寺幽幽子.md)
 
   
 from TLMC scans
   
-
-
-
-
 
 ---
 

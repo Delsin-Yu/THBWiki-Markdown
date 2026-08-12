@@ -1,37 +1,21 @@
 # GRIFFON/露米娅
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\5\5d\ns0%3AGRIFFON%2F%E9%9C%B2%E7%B1%B3%E5%A8%85.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\5\5d\ns0%3AGRIFFON%2F%E9%9C%B2%E7%B1%B3%E5%A8%85.html -->
 
 露米娅PVCFigure手办模型
 
 本页是关于东方Project  
- **相关实体周边 (未找到链接)** 的词条
-
+**相关实体周边 (未找到链接)**的词条
 ## 模型信息
 
-<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 露米娅 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>无</td></tr><tr><td class="label">角色</td><td><a href="./露米娅.md" title="露米娅">露米娅</a></td></tr><tr><td class="label">原型师</td><td><a href="/index.php?title=%E3%81%8A%E3%81%8B%E3%81%AE%E3%81%A0%E3%81%84&amp;action=edit&amp;redlink=1" class="new" title="おかのだい（页面不存在）">おかのだい</a></td></tr><tr><td class="label">比例</td><td>1/8</td></tr><tr><td class="label">尺寸</td><td>175mm</td></tr><tr><td class="label">状态</td><td>已发售</td></tr><tr><td class="label">售价</td><td>7800日元</td></tr><tr><td class="label">首发日期</td><td>2013-07</td></tr><tr><td class="label">发售方</td><td><a href="/index.php?title=GRIFFON&amp;action=edit&amp;redlink=1" class="new" title="GRIFFON（页面不存在）">GRIFFON</a></td></tr><tr><td class="label">官网页面</td><td><a rel="nofollow" class="external free" href="http://www.griffon.co.jp/toho/">http://www.griffon.co.jp/toho/</a></td></tr></tbody></table>
+<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 露米娅 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>无</td></tr><tr><td class="label">角色</td><td><a href="./露米娅.md" title="露米娅">露米娅</a></td></tr><tr><td class="label">原型师</td><td><a class="new" title="おかのだい（页面不存在）">おかのだい</a></td></tr><tr><td class="label">比例</td><td>1/8</td></tr><tr><td class="label">尺寸</td><td>175mm</td></tr><tr><td class="label">状态</td><td>已发售</td></tr><tr><td class="label">售价</td><td>7800日元</td></tr><tr><td class="label">首发日期</td><td>2013-07</td></tr><tr><td class="label">发售方</td><td><a class="new" title="GRIFFON（页面不存在）">GRIFFON</a></td></tr><tr><td class="label">官网页面</td><td><a rel="nofollow" class="external free" href="http://www.griffon.co.jp/toho/">http://www.griffon.co.jp/toho/</a></td></tr></tbody></table>
 
 GRIFFON/露米娅（周边） - 露米娅PVCFigure手办模型
-
 ## 参考图片
-
-
-
-[](./文件-GRIFFON露米娅-1.jpg.md)
-
-
-[](./文件-GRIFFON露米娅-2.jpg.md)
-
-
-[](./文件-GRIFFON露米娅-3.jpg.md)
-
+<img alt="GRIFFON露米娅" src="https://upload.thwiki.cc/thumb/e/e8/GRIFFON%E9%9C%B2%E7%B1%B3%E5%A8%85-1.jpg/160px-GRIFFON%E9%9C%B2%E7%B1%B3%E5%A8%85-1.jpg" decoding="async" loading="lazy" width="160" height="240" srcset="https://upload.thwiki.cc/thumb/e/e8/GRIFFON%E9%9C%B2%E7%B1%B3%E5%A8%85-1.jpg/240px-GRIFFON%E9%9C%B2%E7%B1%B3%E5%A8%85-1.jpg 1.5x, https://upload.thwiki.cc/thumb/e/e8/GRIFFON%E9%9C%B2%E7%B1%B3%E5%A8%85-1.jpg/320px-GRIFFON%E9%9C%B2%E7%B1%B3%E5%A8%85-1.jpg 2x" data-file-width="433" data-file-height="650">
+<img alt="GRIFFON露米娅" src="https://upload.thwiki.cc/thumb/8/81/GRIFFON%E9%9C%B2%E7%B1%B3%E5%A8%85-2.jpg/160px-GRIFFON%E9%9C%B2%E7%B1%B3%E5%A8%85-2.jpg" decoding="async" loading="lazy" width="160" height="240" srcset="https://upload.thwiki.cc/thumb/8/81/GRIFFON%E9%9C%B2%E7%B1%B3%E5%A8%85-2.jpg/240px-GRIFFON%E9%9C%B2%E7%B1%B3%E5%A8%85-2.jpg 1.5x, https://upload.thwiki.cc/thumb/8/81/GRIFFON%E9%9C%B2%E7%B1%B3%E5%A8%85-2.jpg/320px-GRIFFON%E9%9C%B2%E7%B1%B3%E5%A8%85-2.jpg 2x" data-file-width="433" data-file-height="650">
+<img alt="GRIFFON露米娅" src="https://upload.thwiki.cc/thumb/b/b0/GRIFFON%E9%9C%B2%E7%B1%B3%E5%A8%85-3.jpg/360px-GRIFFON%E9%9C%B2%E7%B1%B3%E5%A8%85-3.jpg" decoding="async" loading="lazy" width="360" height="240" srcset="https://upload.thwiki.cc/thumb/b/b0/GRIFFON%E9%9C%B2%E7%B1%B3%E5%A8%85-3.jpg/540px-GRIFFON%E9%9C%B2%E7%B1%B3%E5%A8%85-3.jpg 1.5x, https://upload.thwiki.cc/b/b0/GRIFFON%E9%9C%B2%E7%B1%B3%E5%A8%85-3.jpg 2x" data-file-width="650" data-file-height="433">
 公式图
-
-
-
-
-
-
 
 ---
 

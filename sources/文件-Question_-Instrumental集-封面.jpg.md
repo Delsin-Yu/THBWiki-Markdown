@@ -1,6 +1,6 @@
 # 文件:Question_-Instrumental集-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\73\ns6%3AQuestion_-Instrumental%E9%9B%86-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\73\ns6%3AQuestion_-Instrumental%E9%9B%86-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 オランジュ停留所 | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Question -Instrumental集-](./Question_-Instrumental集-.md)  
-该封面包含的角色：- [宇佐见堇子](./宇佐见堇子.md)
+- [Question -Instrumental集-](./Question_-Instrumental集-.md)该封面包含的角色：
+- [宇佐见堇子](./宇佐见堇子.md)
 
   
-源地址：[direct image link (max size)](https://64.media.tumblr.com/80510d28722c0ec2bf4b05cad7a09540/205e5f7b4679d3c1-a8/s2048x3072/4396db2d4fa00937eca216146bb39de7ff1f16e2.png), [source page](https://orange-question1.tumblr.com/)
-  
-
-
-
-
+源地址：[direct image link (max size)](https://64.media.tumblr.com/80510d28722c0ec2bf4b05cad7a09540/205e5f7b4679d3c1-a8/s2048x3072/4396db2d4fa00937eca216146bb39de7ff1f16e2.png), [source page](https://orange-question1.tumblr.com/)  
 
 ---
 

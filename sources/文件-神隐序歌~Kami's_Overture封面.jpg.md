@@ -1,6 +1,6 @@
 # 文件:神隐序歌~Kami's_Overture封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7f\ns6%3A%E7%A5%9E%E9%9A%90%E5%BA%8F%E6%AD%8C%7EKami%27s_Overture%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7f\ns6%3A%E7%A5%9E%E9%9A%90%E5%BA%8F%E6%AD%8C%7EKami%27s_Overture%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 灵社幻声
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [神隐序歌~Kami's Overture](./神隐序歌~Kami's_Overture.md)  
-该封面包含的角色：- [橙](./橙.md)
-
-
-
+- [神隐序歌~Kami's Overture](./神隐序歌~Kami's_Overture.md)该封面包含的角色：
+- [橙](./橙.md)
 
 
 ---

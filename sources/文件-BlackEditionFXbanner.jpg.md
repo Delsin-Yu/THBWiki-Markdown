@@ -1,18 +1,13 @@
 # 文件:BlackEditionFXbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\93\ns6%3ABlackEditionFXbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\93\ns6%3ABlackEditionFXbanner%2Ejpg.html -->
 
 BlackEditionFX | 社团LOGO
 
 
 ## 摘要
   
-源地址：[direct image link (original size)](https://blog-imgs-47-origin.fc2.com/g/m/o/gmot1illust/SANY00033.jpg), [source page](http://gmot1illust.blog65.fc2.com/blog-entry-10.html)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://blog-imgs-47-origin.fc2.com/g/m/o/gmot1illust/SANY00033.jpg), [source page](http://gmot1illust.blog65.fc2.com/blog-entry-10.html)  
 
 ---
 

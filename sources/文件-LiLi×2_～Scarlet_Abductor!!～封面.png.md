@@ -1,6 +1,6 @@
 # 文件:LiLi×2_～Scarlet_Abductor!!～封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8a\ns6%3ALiLi%C3%972_%EF%BD%9EScarlet_Abductor%21%21%EF%BD%9E%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8a\ns6%3ALiLi%C3%972_%EF%BD%9EScarlet_Abductor%21%21%EF%BD%9E%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 同人志封面 | 夢見里 | 封面图片
 
@@ -10,11 +10,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [LiLi×2 ～Scarlet Abductor!!～](./LiLi×2_～Scarlet_Abductor!!～.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)- [莉莉霍瓦特](./莉莉霍瓦特.md)
-
-
-
+- [LiLi×2 ～Scarlet Abductor!!～](./LiLi×2_～Scarlet_Abductor!!～.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [莉莉霍瓦特](./莉莉霍瓦特.md)
 
 
 ---

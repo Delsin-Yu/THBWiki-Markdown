@@ -1,12 +1,8 @@
 # 文件:DEEPSTONESbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\91\ns6%3ADEEPSTONESbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\91\ns6%3ADEEPSTONESbanner%2Ejpg.html -->
 
 DEEPSTONES
-
-
-
-
 
 
 ---

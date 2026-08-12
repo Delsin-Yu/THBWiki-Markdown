@@ -1,14 +1,11 @@
 # 文件:东方别开生宴制作组logo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3a\ns6%3A%E4%B8%9C%E6%96%B9%E5%88%AB%E5%BC%80%E7%94%9F%E5%AE%B4%E5%88%B6%E4%BD%9C%E7%BB%84logo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3a\ns6%3A%E4%B8%9C%E6%96%B9%E5%88%AB%E5%BC%80%E7%94%9F%E5%AE%B4%E5%88%B6%E4%BD%9C%E7%BB%84logo%2Ejpg.html -->
 
 东方别开生宴制作组 | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

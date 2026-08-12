@@ -1,6 +1,6 @@
 # 文件:幻視のブロードウェイ_The_Ghostly_eyes_down_on_Broadway_プレビュー版＋α封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\ff\ns6%3A%E5%B9%BB%E8%A6%96%E3%81%AE%E3%83%96%E3%83%AD%E3%83%BC%E3%83%89%E3%82%A6%E3%82%A7%E3%82%A4_The_Ghostly_eyes_down_on_Broadway_%E3%83%97%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E7%89%88%EF%BC%8B%CE%B1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\ff\ns6%3A%E5%B9%BB%E8%A6%96%E3%81%AE%E3%83%96%E3%83%AD%E3%83%BC%E3%83%89%E3%82%A6%E3%82%A7%E3%82%A4_The_Ghostly_eyes_down_on_Broadway_%E3%83%97%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E7%89%88%EF%BC%8B%CE%B1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 AQUARIA_MUSICS | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@ AQUARIA_MUSICS | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [幻視のブロードウェイ The Ghostly eyes down on Broadway プレビュー版＋α](./幻視のブロードウェイ_The_Ghostly_eyes_down_on_Broadway_プレビュー版＋α.md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)
+- [幻視のブロードウェイ The Ghostly eyes down on Broadway プレビュー版＋α](./幻視のブロードウェイ_The_Ghostly_eyes_down_on_Broadway_プレビュー版＋α.md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
 
   
-源地址：[direct image link (max size)](https://i1.sndcdn.com/artworks-000096582098-g7a2mj-original.jpg), [source page (Soundcloud)](https://soundcloud.com/suidengetsu/c83_crossfade)
-  
-
-
-
-
+源地址：[direct image link (max size)](https://i1.sndcdn.com/artworks-000096582098-g7a2mj-original.jpg), [source page (Soundcloud)](https://soundcloud.com/suidengetsu/c83_crossfade)  
 
 ---
 

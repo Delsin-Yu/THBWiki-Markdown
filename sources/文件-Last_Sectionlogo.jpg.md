@@ -1,18 +1,13 @@
 # 文件:Last_Sectionlogo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0a\ns6%3ALast_Sectionlogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0a\ns6%3ALast_Sectionlogo%2Ejpg.html -->
 
 Last_Section | 社团LOGO
 
 
 ## 摘要
   
-源地址：[direct image link (original size)](https://pbs.twimg.com/profile_images/1551459797270011904/kjPmXFSl.jpg), [from circle Twitter avatar](https://twitter.com/Last_Section/photo)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://pbs.twimg.com/profile_images/1551459797270011904/kjPmXFSl.jpg), [from circle Twitter avatar](https://twitter.com/Last_Section/photo)  
 
 ---
 

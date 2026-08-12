@@ -1,16 +1,11 @@
 # 文件:Jill's_Projectbanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6e\ns6%3AJill%27s_Projectbanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6e\ns6%3AJill%27s_Projectbanner%2Egif.html -->
 
 Jill's_Project | 社团LOGO
 
   
-源地址：[[1]](http://kapparecords.verse.jp/JillsProject/images/JillsProjectLogo.gif)
-  
-
-
-
-
+源地址：[\[1\]](http://kapparecords.verse.jp/JillsProject/images/JillsProjectLogo.gif)  
 
 ---
 

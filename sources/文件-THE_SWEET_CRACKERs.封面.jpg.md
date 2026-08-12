@@ -1,6 +1,6 @@
 # 文件:THE_SWEET_CRACKERs.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fb\ns6%3ATHE_SWEET_CRACKERs%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fb\ns6%3ATHE_SWEET_CRACKERs%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 THE二次元集権国家ズ | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ THE二次元集権国家ズ | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [THE SWEET CRACKERs.](./THE_SWEET_CRACKERs..md)  
-该封面包含的角色：- [霍青娥](./霍青娥.md)
-
-
-
+- [THE SWEET CRACKERs.](./THE_SWEET_CRACKERs..md)该封面包含的角色：
+- [霍青娥](./霍青娥.md)
 
 
 ---

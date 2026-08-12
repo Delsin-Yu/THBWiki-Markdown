@@ -1,21 +1,16 @@
 # 文件:楼宴シャンデリアlogo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fc\ns6%3A%E6%A5%BC%E5%AE%B4%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%87%E3%83%AA%E3%82%A2logo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fc\ns6%3A%E6%A5%BC%E5%AE%B4%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%87%E3%83%AA%E3%82%A2logo%2Epng.html -->
 
 楼宴シャンデリア | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[direct image link (original uploaded image)](https://pbs.twimg.com/media/DgTYdkfV4AI0mbj?format=png&amp;name=orig), [source tweet](https://twitter.com/kurasaka_makina/status/1010171211509166086)
-  
+源地址：[direct image link (original uploaded image)](https://pbs.twimg.com/media/DgTYdkfV4AI0mbj?format=png&name=orig), [source tweet](https://twitter.com/kurasaka_makina/status/1010171211509166086)  
   
 Tweet says it's a temporary logo, but it is used in circle cuts and event announcements.
   
-
-
-
-
 
 ---
 

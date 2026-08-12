@@ -1,12 +1,8 @@
 # 文件:THD2迷你八卦炉.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a8\ns6%3ATHD2%E8%BF%B7%E4%BD%A0%E5%85%AB%E5%8D%A6%E7%82%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a8\ns6%3ATHD2%E8%BF%B7%E4%BD%A0%E5%85%AB%E5%8D%A6%E7%82%89%2Epng.html -->
 
 AvalonStudioOfficial
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Abaddon's_5th_Chord封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6e\ns6%3AAbaddon%27s_5th_Chord%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6e\ns6%3AAbaddon%27s_5th_Chord%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Diabolic_Phantasma | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Diabolic_Phantasma | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Abaddon's 5th Chord](./Abaddon's_5th_Chord.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [Abaddon's 5th Chord](./Abaddon's_5th_Chord.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
   
-源地址：[[1]](http://static.tumblr.com/a3b886c8e1555fce4f0541dc0c4d85c9/z2c0hn3/B29odqmwo/tumblr_static_bb5amnwpdwoo0k0c0ck8gogk8.png)
-  
-
-
-
-
+源地址：[\[1\]](http://static.tumblr.com/a3b886c8e1555fce4f0541dc0c4d85c9/z2c0hn3/B29odqmwo/tumblr_static_bb5amnwpdwoo0k0c0ck8gogk8.png)  
 
 ---
 

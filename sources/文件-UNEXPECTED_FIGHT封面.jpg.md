@@ -1,6 +1,6 @@
 # 文件:UNEXPECTED_FIGHT封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fb\ns6%3AUNEXPECTED_FIGHT%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fb\ns6%3AUNEXPECTED_FIGHT%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 FOX_RAVEL | KINZOK_ON | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ FOX_RAVEL | KINZOK_ON | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [UNEXPECTED FIGHT](./UNEXPECTED_FIGHT.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)- [大妖精](./大妖精.md)
-
-
-
+- [UNEXPECTED FIGHT](./UNEXPECTED_FIGHT.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
+- [大妖精](./大妖精.md)
 
 
 ---

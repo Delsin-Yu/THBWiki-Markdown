@@ -1,12 +1,8 @@
 # 文件:雾雨魔理沙（永夜抄Manual）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8c\ns6%3A%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%EF%BC%88%E6%B0%B8%E5%A4%9C%E6%8A%84Manual%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8c\ns6%3A%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%EF%BC%88%E6%B0%B8%E5%A4%9C%E6%8A%84Manual%EF%BC%89%2Ejpg.html -->
 
 Manual配图 | 东方永夜抄 | 雾雨魔理沙
-
-
-
-
 
 
 ---

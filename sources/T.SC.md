@@ -1,35 +1,29 @@
 # T.SC
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\3\31\ns0%3AT%2ESC.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\3\31\ns0%3AT%2ESC.html -->
 
 T.SC ，主要制作 同人音乐 的日本同人社团，主催是 y@yama，当前状态为 休止
 
-本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
-
+本页是关于**[同人社团](./二次创作.md#同人社团)**的词条
 ## 目录
 
 - [1 社团信息](#社团信息)
 - [2 成员名单](#成员名单)
 - [3 作品列表](#作品列表)
-
   - [3.1 同人专辑](#同人专辑)
-
 
 
 - [4 参展信息](#参展信息)
 
 
-
-
-
 ## 社团信息
-[](./文件-T.SClogo.png.md)  [](./文件-T.SClogo.png.md)logo
-
-<table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> T.SC </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=y@yama&amp;action=edit&amp;redlink=1" class="new" title="y@yama（页面不存在）">y@yama</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://t-soucha.com">http://t-soucha.com</a> <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span><small>（<a rel="nofollow" class="external text" href="https://web.archive.org/web/20150104182158/http://t-soucha.com/">缓存页面</a>）</small><br><a rel="nofollow" class="external free" href="http://t-soucha.hp.infoseek.co.jp">http://t-soucha.hp.infoseek.co.jp</a> （旧官网）<span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span><small>（无缓存页面）</small></td></tr></tbody></table>
+<img alt="" src="https://upload.thwiki.cc/thumb/d/d9/T.SClogo.png/200px-T.SClogo.png" decoding="async" loading="lazy" width="200" height="97" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/d/d9/T.SClogo.png/300px-T.SClogo.png 1.5x, https://upload.thwiki.cc/d/d9/T.SClogo.png 2x" data-file-width="400" data-file-height="193">
+ [放大](./文件-T.SClogo.png.md)logo
+<table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> T.SC </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>主催</b></td><td> <a class="new" title="y@yama（页面不存在）">y@yama</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://t-soucha.com">http://t-soucha.com</a> <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span><small>（<a rel="nofollow" class="external text" href="https://web.archive.org/web/20150104182158/http://t-soucha.com/">缓存页面</a>）</small><br><a rel="nofollow" class="external free" href="http://t-soucha.hp.infoseek.co.jp">http://t-soucha.hp.infoseek.co.jp</a> （旧官网）<span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span><small>（无缓存页面）</small></td></tr></tbody></table>
 
 T.SC（同人社团，同人音乐社团） - T.SC ，主要制作 同人音乐 的日本同人社团，主催是 y@yama，当前状态为 休止
-
 ## 成员名单
+
 - y@yama (未找到链接)
 
 : [个人Blog](http://tiajira.cocolog-nifty.com/), [Twitter: @y_TSC](https://twitter.com/y_TSC), [SoundCloud: y-yama-y-t-sc](https://soundcloud.com/y-yama-y-t-sc), [NicoNico](https://www.nicovideo.jp/user/513899)
@@ -40,18 +34,10 @@ T.SC（同人社团，同人音乐社团） - T.SC ，主要制作 同人音乐 
 ## 作品列表
 
 ### 同人专辑
-[](./茶_Vol.1.md)[茶 Vol.1](./茶_Vol.1.md)首发日期：2010-06-20 （とら祭り2010 (未找到链接)）TSC-001全长 （一般向）東方避想録 -Original SoundTrack- 封面图片 (未找到链接)[東方避想録 -Original SoundTrack-](./東方避想録_-Original_SoundTrack-.md)首发日期：未知 全长、​原声集 （一般向）
-<table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
-
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
-</table>
-
-
+- **[茶 Vol.1](./茶_Vol.1.md)** — 首发日期：2010-06-20 （とら祭り2010）；TSC-001；全长 （一般向）
+- **[東方避想録 -Original SoundTrack-](./東方避想録_-Original_SoundTrack-.md)** — 首发日期：未知；全长、​原声集 （一般向）
 
 ## 参展信息
-
-
-
 
 ---
 

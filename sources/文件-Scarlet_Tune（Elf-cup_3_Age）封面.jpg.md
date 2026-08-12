@@ -1,6 +1,6 @@
 # 文件:Scarlet_Tune（Elf-cup_3_Age）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\99\ns6%3AScarlet_Tune%EF%BC%88Elf-cup_3_Age%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\99\ns6%3AScarlet_Tune%EF%BC%88Elf-cup_3_Age%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Elf-cup_3_Age | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Elf-cup_3_Age | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Scarlet Tune（Elf-cup 3 Age）](./Scarlet_Tune（Elf-cup_3_Age）.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
-
-
-
+- [Scarlet Tune（Elf-cup 3 Age）](./Scarlet_Tune（Elf-cup_3_Age）.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
 
 ---

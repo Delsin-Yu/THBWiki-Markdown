@@ -1,12 +1,8 @@
 # 文件:緊急回避banner3.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\03\ns6%3A%E7%B7%8A%E6%80%A5%E5%9B%9E%E9%81%BFbanner3%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\03\ns6%3A%E7%B7%8A%E6%80%A5%E5%9B%9E%E9%81%BFbanner3%2Egif.html -->
 
 社团LOGO | 緊急回避
-
-
-
-
 
 
 ---

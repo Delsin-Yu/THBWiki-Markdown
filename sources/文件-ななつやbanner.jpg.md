@@ -1,12 +1,8 @@
 # 文件:ななつやbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\ff\ns6%3A%E3%81%AA%E3%81%AA%E3%81%A4%E3%82%84banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\ff\ns6%3A%E3%81%AA%E3%81%AA%E3%81%A4%E3%82%84banner%2Ejpg.html -->
 
 ななつや | 社团LOGO
-
-
-
-
 
 
 ---

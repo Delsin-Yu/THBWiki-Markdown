@@ -1,6 +1,6 @@
 # 文件:人形革命前夜_-Pure_Doll-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\83\ns6%3A%E4%BA%BA%E5%BD%A2%E9%9D%A9%E5%91%BD%E5%89%8D%E5%A4%9C_-Pure_Doll-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\83\ns6%3A%E4%BA%BA%E5%BD%A2%E9%9D%A9%E5%91%BD%E5%89%8D%E5%A4%9C_-Pure_Doll-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 河外星系居酒屋 | 过气废萌社团
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [人形革命前夜 -Pure Doll-](./人形革命前夜_-Pure_Doll-.md)  
-该封面包含的角色：- [梅蒂欣·梅兰可莉](./梅蒂欣·梅兰可莉.md)
-
-
-
+- [人形革命前夜 -Pure Doll-](./人形革命前夜_-Pure_Doll-.md)该封面包含的角色：
+- [梅蒂欣·梅兰可莉](./梅蒂欣·梅兰可莉.md)
 
 
 ---

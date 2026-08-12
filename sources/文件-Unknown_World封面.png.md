@@ -1,6 +1,6 @@
 # 文件:Unknown_World封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bb\ns6%3AUnknown_World%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bb\ns6%3AUnknown_World%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 MysteRhythm | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ MysteRhythm | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Unknown World](./Unknown_World.md)  
-该封面包含的角色：- [纯狐](./纯狐.md)
-
-
-
+- [Unknown World](./Unknown_World.md)该封面包含的角色：
+- [纯狐](./纯狐.md)
 
 
 ---

@@ -1,16 +1,12 @@
 # 模板:TTC
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\d\dd\ns10%3ATTC.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\d\dd\ns10%3ATTC.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

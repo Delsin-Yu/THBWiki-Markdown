@@ -1,12 +1,8 @@
 # 文件:Studio_Realistic_Scene_LOGO.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c3\ns6%3AStudio_Realistic_Scene_LOGO%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c3\ns6%3AStudio_Realistic_Scene_LOGO%2Ejpg.html -->
 
 Studio_Realistic_Scene | 社团LOGO
-
-
-
-
 
 
 ---

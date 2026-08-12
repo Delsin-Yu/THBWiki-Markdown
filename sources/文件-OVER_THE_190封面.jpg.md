@@ -1,6 +1,6 @@
 # 文件:OVER_THE_190封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fb\ns6%3AOVER_THE_190%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fb\ns6%3AOVER_THE_190%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 TORUS_QUARTET | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@ TORUS_QUARTET | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [OVER THE 190](./OVER_THE_190.md)  
-该封面包含的角色：- [键山雏](./键山雏.md)
+- [OVER THE 190](./OVER_THE_190.md)该封面包含的角色：
+- [键山雏](./键山雏.md)
 
   
-[Pixiv artwork ID: 54293628](https://www.pixiv.net/artworks/54293628)
-  
-
-
-
-
+[Pixiv artwork ID: 54293628](https://www.pixiv.net/artworks/54293628)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:The_Phantasmagoria_Opera封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\03\ns6%3AThe_Phantasmagoria_Opera%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\03\ns6%3AThe_Phantasmagoria_Opera%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Nu-naut | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ Nu-naut | 专辑封面 | 封面图片
   
 
 - [The Phantasmagoria Opera](./The_Phantasmagoria_Opera.md)
-
-
-
 
 
 ---

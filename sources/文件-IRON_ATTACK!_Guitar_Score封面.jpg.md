@@ -1,6 +1,6 @@
 # 文件:IRON_ATTACK!_Guitar_Score封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b5\ns6%3AIRON_ATTACK%21_Guitar_Score%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b5\ns6%3AIRON_ATTACK%21_Guitar_Score%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 IRON_ATTACK! | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@ IRON_ATTACK! | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [IRON ATTACK! Guitar Score](./IRON_ATTACK!_Guitar_Score.md)  
-该封面包含的角色：- [八云紫](./八云紫.md)
+- [IRON ATTACK! Guitar Score](./IRON_ATTACK!_Guitar_Score.md)该封面包含的角色：
+- [八云紫](./八云紫.md)
 
   
-源地址：[[1]](https://pbs.twimg.com/media/EeZzGJRU0AAF1NJ?format=jpg&amp;name=orig)
-  
-
-
-
-
+源地址：[\[1\]](https://pbs.twimg.com/media/EeZzGJRU0AAF1NJ?format=jpg&name=orig)  
 
 ---
 

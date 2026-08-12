@@ -1,12 +1,8 @@
 # 文件:MiddleIslandbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9d\ns6%3AMiddleIslandbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9d\ns6%3AMiddleIslandbanner%2Epng.html -->
 
 MiddleIsland | 社团LOGO
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:深弾奏結界_散華嬉遊曲_Flower_Divertimento封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2f\ns6%3A%E6%B7%B1%E5%BC%BE%E5%A5%8F%E7%B5%90%E7%95%8C_%E6%95%A3%E8%8F%AF%E5%AC%89%E9%81%8A%E6%9B%B2_Flower_Divertimento%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2f\ns6%3A%E6%B7%B1%E5%BC%BE%E5%A5%8F%E7%B5%90%E7%95%8C_%E6%95%A3%E8%8F%AF%E5%AC%89%E9%81%8A%E6%9B%B2_Flower_Divertimento%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 dBu_music | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ dBu_music | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [深弾奏結界 散華嬉遊曲 Flower Divertimento](./深弾奏結界_散華嬉遊曲_Flower_Divertimento.md)  
-该封面包含的角色：- [小野塚小町](./小野塚小町.md)- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)
-
-
-
+- [深弾奏結界 散華嬉遊曲 Flower Divertimento](./深弾奏結界_散華嬉遊曲_Flower_Divertimento.md)该封面包含的角色：
+- [小野塚小町](./小野塚小町.md)
+- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)
 
 
 ---

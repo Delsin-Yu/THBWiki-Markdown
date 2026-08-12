@@ -1,16 +1,12 @@
 # 模板:MC
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\9\9a\ns10%3AMC.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\9\9a\ns10%3AMC.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

@@ -1,12 +1,8 @@
 # 文件:夜符「Demon_King_Cradle」（萃梦想）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e7\ns6%3A%E5%A4%9C%E7%AC%A6%E3%80%8CDemon_King_Cradle%E3%80%8D%EF%BC%88%E8%90%83%E6%A2%A6%E6%83%B3%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e7\ns6%3A%E5%A4%9C%E7%AC%A6%E3%80%8CDemon_King_Cradle%E3%80%8D%EF%BC%88%E8%90%83%E6%A2%A6%E6%83%B3%EF%BC%89%2Ejpg.html -->
 
 东方萃梦想 | 自机符卡 | 蕾米莉亚·斯卡蕾特
-
-
-
-
 
 
 ---

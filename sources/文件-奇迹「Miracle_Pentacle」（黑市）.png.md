@@ -1,14 +1,11 @@
 # 文件:奇迹「Miracle_Pentacle」（黑市）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\02\ns6%3A%E5%A5%87%E8%BF%B9%E3%80%8CMiracle_Pentacle%E3%80%8D%EF%BC%88%E9%BB%91%E5%B8%82%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\02\ns6%3A%E5%A5%87%E8%BF%B9%E3%80%8CMiracle_Pentacle%E3%80%8D%EF%BC%88%E9%BB%91%E5%B8%82%EF%BC%89%2Epng.html -->
 
 东风谷早苗 | 弹幕狂们的黑市 | 敌机符卡
 
 
 ## 摘要
-
-
-
 
 ---
 

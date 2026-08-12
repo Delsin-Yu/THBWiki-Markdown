@@ -1,31 +1,23 @@
 # Submarine幻视幻觉
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\66\ns0%3ASubmarine%E5%B9%BB%E8%A7%86%E5%B9%BB%E8%A7%89.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\66\ns0%3ASubmarine%E5%B9%BB%E8%A7%86%E5%B9%BB%E8%A7%89.html -->
 
 由 黒羽 创作的东方风自作曲，原名 サブマリン幻視幻覚
 
 本页是关于东方Project  
- **东方风自作曲** 的词条
-
+**东方风自作曲**的词条
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 出现作品](#出现作品)
 - [3 音乐文件](#音乐文件)
 - [4 说明文本](#说明文本)
-
   - [4.1 东方海惠堂](#东方海惠堂)
 
 
-
 - [5 其他资料](#其他资料)
-
   - [5.1 乐理资讯](#乐理资讯)
   - [5.2 分析考据](#分析考据)
-
-
-
-
 
 
 
@@ -35,7 +27,6 @@
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">サブマリン幻視幻覚</td></tr><tr><td><b>译名</b></td><td>Submarine幻视幻觉</td></tr><tr><td><b>作曲</b></td><td><a href="./黑羽.md" title="黑羽" unred="">黒羽</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 Submarine幻视幻觉（曲目） - 由 黒羽 创作的东方风自作曲，原名 サブマリン幻視幻覚
-
 ## 出现作品
 
 <table>
@@ -44,17 +35,16 @@ Submarine幻视幻觉（曲目） - 由 黒羽 创作的东方风自作曲，原
 </tbody></table>
 
 
-
 ## 音乐文件
 
 ## 说明文本
 
 ### 东方海惠堂
-- Music Room (未找到链接)
+
+- [Music Room](./東方海恵堂_～_Marine_Benefit.-音乐.md#4面boss-_深堂香澄主题曲)
 
   
 深堂香澄的主题曲。  
-
   
 
 - 2011
@@ -65,15 +55,11 @@ Submarine Illusion
 ＊原本并非这个游戏曲子的一曲。为了使用，做了次重编，稍微接近了作品一点。留有一点科学的余韵，是因为原本的主题是基因。
   
 
-
 ## 其他资料
 
 ### 乐理资讯
 
 ### 分析考据
-
-
-
 
 ---
 

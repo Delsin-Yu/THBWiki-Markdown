@@ -1,41 +1,31 @@
 # 灵天_～_Spiritual_Heaven
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\7\70\ns0%3A%E7%81%B5%E5%A4%A9_%EF%BD%9E_Spiritual_Heaven.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\7\70\ns0%3A%E7%81%B5%E5%A4%A9_%EF%BD%9E_Spiritual_Heaven.html -->
 
 由 ZUN 创作的官方曲目，原名 霊天　～ Spiritual Heaven
 
 本页是关于东方Project  
- **原作音乐** 的词条
-
+**原作音乐**的词条
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 出现作品](#出现作品)
 - [3 音乐文件](#音乐文件)
-
   - [3.1 东方怪绮谈](#东方怪绮谈)
   - [3.2 幺乐团的历史 vol.2](#幺乐团的历史_vol.2)
 
 
-
 - [4 说明文本](#说明文本)
-
   - [4.1 东方怪绮谈](#东方怪绮谈_2)
 
 
-
 - [5 其他资料](#其他资料)
-
   - [5.1 乐理资讯](#乐理资讯)
   - [5.2 分析考据](#分析考据)
   - [5.3 二次同人数据](#二次同人数据)
 
 
-
 - [6 注释](#注释)
-
-
-
 
 
 ## 基本信息
@@ -43,14 +33,12 @@
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">霊天　～ Spiritual Heaven</td></tr><tr><td><b>译名</b></td><td>灵天 ～ Spiritual Heaven</td></tr><tr><td><b>英文译名</b></td><td>Spiritual Heaven</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 灵天 ～ Spiritual Heaven（曲目） - 由 ZUN 创作的官方曲目，原名 霊天　～ Spiritual Heaven
-
 ## 出现作品
 
 <table>
 <tbody><tr><td>1998年12月30日（Comic Market 55）</td><td><b><a href="./东方怪绮谈.md" title="东方怪绮谈">东方怪绮谈</a></b></td><td>2面BOSS<a href="./露易兹.md" title="露易兹">露易兹</a>的主题曲</td><td style="padding-left:5px;">霊天　～ Spiritual Heaven（灵天 ～ Spiritual Heaven）</td><td style="padding-left:10px;">作曲：ZUN</td></tr>
 <tr><td>2006年12月31日（Comic Market 71）</td><td><b><a href="./幺乐团的历史2.md" title="幺乐团的历史2" unred="">幺乐团的历史 vol.2</a></b></td><td>第5轨</td><td style="padding-left:5px;">霊天　～ Spiritual Heaven（灵天 ～ Spiritual Heaven）</td><td style="padding-left:10px;">编曲：ZUN</td></tr>
 </tbody></table>
-
 
 
 ## 音乐文件
@@ -60,17 +48,13 @@
 YM2203(OPN)，FM26K音源版。
   
 
-
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th05_05_26.ogg.md" title="文件:th05 05 26.ogg">th05_05_26.ogg</a><br><audio src="https://upload.thwiki.cc/9/94/th05_05_26.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>ST01B.M</td></tr><tr><td><b>音轨时长</b></td><td>1:33.619</td></tr></tbody></table>
-
 
   
 YM2608(OPNA)，FM86音源版。
   
 
-
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th05_05_86.ogg.md" title="文件:th05 05 86.ogg">th05_05_86.ogg</a><br><audio src="https://upload.thwiki.cc/7/7e/th05_05_86.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>ST01B.M2</td></tr><tr><td><b>音轨时长</b></td><td>1:33.619</td></tr></tbody></table>
-
 
 
 ### 幺乐团的历史 vol.2
@@ -78,11 +62,11 @@ YM2608(OPNA)，FM86音源版。
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-ha02_05.mp3.md" title="文件:ha02 05.mp3">ha02_05.mp3</a><br><audio src="https://upload.thwiki.cc/5/50/ha02_05.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track05.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>1:58</td></tr></tbody></table>
 
 
-
 ## 说明文本
 
 ### 东方怪绮谈
-- Music Room (未找到链接)
+
+- [Music Room](./东方怪绮谈-Music.md#2面BOSS露易兹角色曲)
 
 　　　　　露易兹的主题曲  
 　    是不知为何而存在的Boss的  
@@ -93,23 +77,23 @@ YM2608(OPNA)，FM86音源版。
 ＺＵＮ（太田）  
 怪绮谈的2面boss曲  
 这个也不错嘛
-
 ## 其他资料
 
 ### 乐理资讯
 
 ### 分析考据
   
- **霊天　～ Spiritual Heaven** 
-  
+**霊天 ～ Spiritual Heaven**  
 灵天 ～ Spiritual Heaven
   
 
-- 灵
+- 灵 
   - 灵梦？
 
-- 灵天
+
+- 灵天 
   - 魔界？
+
 
 
 
@@ -125,18 +109,6 @@ YM2608(OPNA)，FM86音源版。
 <tr><td>Arrange</td><td>17</td></tr>
 <tr><td>Vocal率</td><td>32%</td></tr>
 </tbody></table>
-
-
-
-
-
-  
-  
-
-  
-
-
-
 
 
 ---

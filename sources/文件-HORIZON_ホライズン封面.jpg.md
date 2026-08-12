@@ -1,6 +1,6 @@
 # 文件:HORIZON_ホライズン封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\94\ns6%3AHORIZON_%E3%83%9B%E3%83%A9%E3%82%A4%E3%82%BA%E3%83%B3%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\94\ns6%3AHORIZON_%E3%83%9B%E3%83%A9%E3%82%A4%E3%82%BA%E3%83%B3%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Nava_de_Alice | 封面图片 | 视频封面
 
@@ -10,11 +10,8 @@ Nava_de_Alice | 封面图片 | 视频封面
 使用了本文件作封面图片的作品：
   
 
-- [HORIZON ホライズン](./HORIZON_ホライズン.md)  
-该封面包含的角色：- [八云紫](./八云紫.md)
-
-
-
+- [HORIZON ホライズン](./HORIZON_ホライズン.md)该封面包含的角色：
+- [八云紫](./八云紫.md)
 
 
 ---

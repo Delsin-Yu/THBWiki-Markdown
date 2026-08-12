@@ -1,6 +1,6 @@
 # 文件:灵寄夜想～Mortal_Leader封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e8\ns6%3A%E7%81%B5%E5%AF%84%E5%A4%9C%E6%83%B3%EF%BD%9EMortal_Leader%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e8\ns6%3A%E7%81%B5%E5%AF%84%E5%A4%9C%E6%83%B3%EF%BD%9EMortal_Leader%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Iris（同人社团） | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Iris（同人社团） | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [灵寄夜想～Mortal Leader](./灵寄夜想～Mortal_Leader.md)  
-该封面包含的角色：- 柳泉部 (未找到链接)
-
-
-
+- [灵寄夜想～Mortal Leader](./灵寄夜想～Mortal_Leader.md)该封面包含的角色：
+- 柳泉部 (未找到链接)
 
 
 ---

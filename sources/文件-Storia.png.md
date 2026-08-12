@@ -1,16 +1,12 @@
 # 文件:Storia.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\83\ns6%3AStoria%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\83\ns6%3AStoria%2Epng.html -->
 
 曲奇
 
   
 「魔理沙和爱丽丝的曲奇Storia」游戏画面
   
-
-
-
-
 
 ---
 

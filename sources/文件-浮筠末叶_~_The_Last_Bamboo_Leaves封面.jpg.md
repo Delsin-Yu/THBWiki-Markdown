@@ -1,6 +1,6 @@
 # 文件:浮筠末叶_~_The_Last_Bamboo_Leaves封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d7\ns6%3A%E6%B5%AE%E7%AD%A0%E6%9C%AB%E5%8F%B6_%7E_The_Last_Bamboo_Leaves%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d7\ns6%3A%E6%B5%AE%E7%AD%A0%E6%9C%AB%E5%8F%B6_%7E_The_Last_Bamboo_Leaves%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 纽约花残月
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [浮筠末叶 ~ The Last Bamboo Leaves](./浮筠末叶_~_The_Last_Bamboo_Leaves.md)  
-该封面包含的角色：- [蓬莱山辉夜](./蓬莱山辉夜.md)
-
-
-
+- [浮筠末叶 ~ The Last Bamboo Leaves](./浮筠末叶_~_The_Last_Bamboo_Leaves.md)该封面包含的角色：
+- [蓬莱山辉夜](./蓬莱山辉夜.md)
 
 
 ---

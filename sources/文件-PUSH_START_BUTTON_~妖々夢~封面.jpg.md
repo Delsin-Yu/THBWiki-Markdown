@@ -1,6 +1,6 @@
 # 文件:PUSH_START_BUTTON_~妖々夢~封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ac\ns6%3APUSH_START_BUTTON_%7E%E5%A6%96%E3%80%85%E5%A4%A2%7E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ac\ns6%3APUSH_START_BUTTON_%7E%E5%A6%96%E3%80%85%E5%A4%A2%7E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ビートハムカツレコーズ | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [PUSH START BUTTON ~妖々夢~](./PUSH_START_BUTTON_~妖々夢~.md)  
-该封面包含的角色：- [西行寺幽幽子](./西行寺幽幽子.md)
+- [PUSH START BUTTON ~妖々夢~](./PUSH_START_BUTTON_~妖々夢~.md)该封面包含的角色：
+- [西行寺幽幽子](./西行寺幽幽子.md)
 
   
-源地址：[图片链接](https://cdn.suruga-ya.jp/database/pics_light/game/186158870.jpg) [骏河屋](https://www.suruga-ya.com/ja/product/186158870)
-  
-
-
-
-
+源地址：[图片链接](https://cdn.suruga-ya.jp/database/pics_light/game/186158870.jpg) [骏河屋](https://www.suruga-ya.com/ja/product/186158870)  
 
 ---
 

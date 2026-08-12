@@ -1,6 +1,6 @@
 # 文件:WANTED!_紅美鈴封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f3\ns6%3AWANTED%21_%E7%B4%85%E7%BE%8E%E9%88%B4%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f3\ns6%3AWANTED%21_%E7%B4%85%E7%BE%8E%E9%88%B4%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 葉庭の出店
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [WANTED! 紅美鈴](./WANTED!_紅美鈴.md)  
-该封面包含的角色：- [红美铃](./红美铃.md)
-
-
-
+- [WANTED! 紅美鈴](./WANTED!_紅美鈴.md)该封面包含的角色：
+- [红美铃](./红美铃.md)
 
 
 ---

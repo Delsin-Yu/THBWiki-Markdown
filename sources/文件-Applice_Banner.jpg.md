@@ -1,12 +1,8 @@
 # 文件:Applice_Banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\92\ns6%3AApplice_Banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\92\ns6%3AApplice_Banner%2Ejpg.html -->
 
 Applice | 社团LOGO
-
-
-
-
 
 
 ---

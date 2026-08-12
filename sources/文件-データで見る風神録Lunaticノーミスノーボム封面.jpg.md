@@ -1,6 +1,6 @@
 # 文件:データで見る風神録Lunaticノーミスノーボム封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\94\ns6%3A%E3%83%87%E3%83%BC%E3%82%BF%E3%81%A7%E8%A6%8B%E3%82%8B%E9%A2%A8%E7%A5%9E%E9%8C%B2Lunatic%E3%83%8E%E3%83%BC%E3%83%9F%E3%82%B9%E3%83%8E%E3%83%BC%E3%83%9C%E3%83%A0%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\94\ns6%3A%E3%83%87%E3%83%BC%E3%82%BF%E3%81%A7%E8%A6%8B%E3%82%8B%E9%A2%A8%E7%A5%9E%E9%8C%B2Lunatic%E3%83%8E%E3%83%BC%E3%83%9F%E3%82%B9%E3%83%8E%E3%83%BC%E3%83%9C%E3%83%A0%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 一言芳恩社 | 同人志封面 | 封面图片
 
@@ -8,12 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [データで見る風神録Lunaticノーミスノーボム](./データで見る風神録Lunaticノーミスノーボム.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)源地址：[[1]](https://pbs.twimg.com/media/DrfFYRaUcAAN8Xz.jpg)
-
-
-
-
+- [データで見る風神録Lunaticノーミスノーボム](./データで見る風神録Lunaticノーミスノーボム.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+源地址：[\[1\]](https://pbs.twimg.com/media/DrfFYRaUcAAN8Xz.jpg)
 
 ---
 

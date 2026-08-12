@@ -1,16 +1,11 @@
 # 文件:月見酒banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\09\ns6%3A%E6%9C%88%E8%A6%8B%E9%85%92banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\09\ns6%3A%E6%9C%88%E8%A6%8B%E9%85%92banner%2Epng.html -->
 
 月見酒 | 社团LOGO
 
   
-源地址：[[1]](https://web.archive.org/web/20110128163852im_/http://www.tsukimizake.com/images/tsukimizake-banner1.png)
-  
-
-
-
-
+源地址：[\[1\]](https://web.archive.org/web/20110128163852im_/http://www.tsukimizake.com/images/tsukimizake-banner1.png)  
 
 ---
 

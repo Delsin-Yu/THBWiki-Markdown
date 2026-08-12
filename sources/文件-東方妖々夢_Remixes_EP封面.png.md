@@ -1,6 +1,6 @@
 # 文件:東方妖々夢_Remixes_EP封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3d\ns6%3A%E6%9D%B1%E6%96%B9%E5%A6%96%E3%80%85%E5%A4%A2_Remixes_EP%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3d\ns6%3A%E6%9D%B1%E6%96%B9%E5%A6%96%E3%80%85%E5%A4%A2_Remixes_EP%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 colis | laughing_out_loud | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ colis | laughing_out_loud | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方妖々夢 Remixes EP](./東方妖々夢_Remixes_EP.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)
-
-
-
+- [東方妖々夢 Remixes EP](./東方妖々夢_Remixes_EP.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
 
 
 ---

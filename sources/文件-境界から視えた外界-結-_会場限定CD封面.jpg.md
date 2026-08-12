@@ -1,6 +1,6 @@
 # 文件:境界から視えた外界-結-_会場限定CD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\56\ns6%3A%E5%A2%83%E7%95%8C%E3%81%8B%E3%82%89%E8%A6%96%E3%81%88%E3%81%9F%E5%A4%96%E7%95%8C-%E7%B5%90-_%E4%BC%9A%E5%A0%B4%E9%99%90%E5%AE%9ACD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\56\ns6%3A%E5%A2%83%E7%95%8C%E3%81%8B%E3%82%89%E8%A6%96%E3%81%88%E3%81%9F%E5%A4%96%E7%95%8C-%E7%B5%90-_%E4%BC%9A%E5%A0%B4%E9%99%90%E5%AE%9ACD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Pizuya's_Cell | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ Pizuya's_Cell | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [境界から視えた外界-結- 会場限定CD](./境界から視えた外界-結-_会場限定CD.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [境界から視えた外界-結- 会場限定CD](./境界から視えた外界-結-_会場限定CD.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

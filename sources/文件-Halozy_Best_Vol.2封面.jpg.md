@@ -1,6 +1,6 @@
 # 文件:Halozy_Best_Vol.2封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2f\ns6%3AHalozy_Best_Vol%2E2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2f\ns6%3AHalozy_Best_Vol%2E2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Halozy | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Halozy | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Halozy Best Vol.2](./Halozy_Best_Vol.2.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
-
-
-
+- [Halozy Best Vol.2](./Halozy_Best_Vol.2.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
 
 ---

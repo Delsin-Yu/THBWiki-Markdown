@@ -1,6 +1,6 @@
 # 文件:小悪魔合同CD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2c\ns6%3A%E5%B0%8F%E6%82%AA%E9%AD%94%E5%90%88%E5%90%8CCD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2c\ns6%3A%E5%B0%8F%E6%82%AA%E9%AD%94%E5%90%88%E5%90%8CCD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Undefined_Field | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@ Undefined_Field | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [小悪魔合同CD](./小悪魔合同CD.md)  
-该封面包含的角色：- [小恶魔](./小恶魔.md)
+- [小悪魔合同CD](./小悪魔合同CD.md)该封面包含的角色：
+- [小恶魔](./小恶魔.md)
 
   
-源地址：[[1]](http://undefinedmusic.web.fc2.com/koa_CD/img/jacket_koa.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://undefinedmusic.web.fc2.com/koa_CD/img/jacket_koa.jpg)  
 
 ---
 

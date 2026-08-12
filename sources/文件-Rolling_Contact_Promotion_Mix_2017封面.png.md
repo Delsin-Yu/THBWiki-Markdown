@@ -1,6 +1,6 @@
 # 文件:Rolling_Contact_Promotion_Mix_2017封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ca\ns6%3ARolling_Contact_Promotion_Mix_2017%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ca\ns6%3ARolling_Contact_Promotion_Mix_2017%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Rolling_Contact | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ Rolling_Contact | 专辑封面 | 封面图片
   
 
 - [Rolling Contact Promotion Mix 2017](./Rolling_Contact_Promotion_Mix_2017.md)
-
-
-
 
 
 ---

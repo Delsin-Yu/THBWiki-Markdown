@@ -1,6 +1,6 @@
 # 文件:河童のにとりと夏休み_～waterimp_in_summervacation～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0f\ns6%3A%E6%B2%B3%E7%AB%A5%E3%81%AE%E3%81%AB%E3%81%A8%E3%82%8A%E3%81%A8%E5%A4%8F%E4%BC%91%E3%81%BF_%EF%BD%9Ewaterimp_in_summervacation%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0f\ns6%3A%E6%B2%B3%E7%AB%A5%E3%81%AE%E3%81%AB%E3%81%A8%E3%82%8A%E3%81%A8%E5%A4%8F%E4%BC%91%E3%81%BF_%EF%BD%9Ewaterimp_in_summervacation%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Golden_City_Factory | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Golden_City_Factory | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [河童のにとりと夏休み ～waterimp in summervacation～](./河童のにとりと夏休み_～waterimp_in_summervacation～.md)  
-该封面包含的角色：- [河城荷取](./河城荷取.md)
-
-
-
+- [河童のにとりと夏休み ～waterimp in summervacation～](./河童のにとりと夏休み_～waterimp_in_summervacation～.md)该封面包含的角色：
+- [河城荷取](./河城荷取.md)
 
 
 ---

@@ -1,16 +1,12 @@
 # 模板:恋色Magic
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\2\24\ns10%3A%E6%81%8B%E8%89%B2Magic.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\2\24\ns10%3A%E6%81%8B%E8%89%B2Magic.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

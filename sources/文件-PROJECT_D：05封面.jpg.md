@@ -1,6 +1,6 @@
 # 文件:PROJECT_D：05封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\32\ns6%3APROJECT_D%EF%BC%9A05%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\32\ns6%3APROJECT_D%EF%BC%9A05%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 suwawa_Records | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ suwawa_Records | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [PROJECT D：05](./PROJECT_D：05.md)  
-该封面包含的角色：- [键山雏](./键山雏.md)
-
-
-
+- [PROJECT D：05](./PROJECT_D：05.md)该封面包含的角色：
+- [键山雏](./键山雏.md)
 
 
 ---

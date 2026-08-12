@@ -1,13 +1,11 @@
 # Wings_of_Doom_～破滅の翼～
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\c\c1\ns0%3AWings_of_Doom_%EF%BD%9E%E7%A0%B4%E6%BB%85%E3%81%AE%E7%BF%BC%EF%BD%9E.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\c\c1\ns0%3AWings_of_Doom_%EF%BD%9E%E7%A0%B4%E6%BB%85%E3%81%AE%E7%BF%BC%EF%BD%9E.html -->
 
 2005年5月4日 由 Ruins on the Lotus Position 于 博丽神社例大祭2 发布的单曲同人专辑，曲目主要风格是 硬核，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人专辑 (未找到链接)** 的词条
-<center>
-
+**[二次创作同人专辑](./二次创作.md#同人音乐)**的词条<center>
 <table>
 <tbody><tr>
 <td class="mbox-image"><div style="width: 52px;">
@@ -16,40 +14,31 @@
 </tr>
 </tbody></table>
 
-
 </center>
-
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Wings_of_Doom_～破滅の翼～封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/2/22/Wings_of_Doom_%EF%BD%9E%E7%A0%B4%E6%BB%85%E3%81%AE%E7%BF%BC%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg/252px-Wings_of_Doom_%EF%BD%9E%E7%A0%B4%E6%BB%85%E3%81%AE%E7%BF%BC%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="252" height="250" srcset="https://upload.thwiki.cc/thumb/2/22/Wings_of_Doom_%EF%BD%9E%E7%A0%B4%E6%BB%85%E3%81%AE%E7%BF%BC%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg/378px-Wings_of_Doom_%EF%BD%9E%E7%A0%B4%E6%BB%85%E3%81%AE%E7%BF%BC%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/2/22/Wings_of_Doom_%EF%BD%9E%E7%A0%B4%E6%BB%85%E3%81%AE%E7%BF%BC%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg/504px-Wings_of_Doom_%EF%BD%9E%E7%A0%B4%E6%BB%85%E3%81%AE%E7%BF%BC%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="774" data-file-height="768"></a><div class="cover-char">角色：<a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰朵露·斯卡蕾特</a></div></td>
 </tr><tr><td class="label">名称</td><td colspan="2"> Wings of Doom ～破滅の翼～ </td></tr><tr><td class="label">制作方</td><td><a href="./Ruins_on_the_Lotus_Position.md" title="Ruins on the Lotus Position">Ruins on the Lotus Position</a></td><td class="cover-artwork" rowspan="9" style="min-width:252px;"><a href="./文件-Wings_of_Doom_～破滅の翼～封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/2/22/Wings_of_Doom_%EF%BD%9E%E7%A0%B4%E6%BB%85%E3%81%AE%E7%BF%BC%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg/252px-Wings_of_Doom_%EF%BD%9E%E7%A0%B4%E6%BB%85%E3%81%AE%E7%BF%BC%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="252" height="250" srcset="https://upload.thwiki.cc/thumb/2/22/Wings_of_Doom_%EF%BD%9E%E7%A0%B4%E6%BB%85%E3%81%AE%E7%BF%BC%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg/378px-Wings_of_Doom_%EF%BD%9E%E7%A0%B4%E6%BB%85%E3%81%AE%E7%BF%BC%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/2/22/Wings_of_Doom_%EF%BD%9E%E7%A0%B4%E6%BB%85%E3%81%AE%E7%BF%BC%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg/504px-Wings_of_Doom_%EF%BD%9E%E7%A0%B4%E6%BB%85%E3%81%AE%E7%BF%BC%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="774" data-file-height="768"></a><div class="cover-char">角色：<a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰朵露·斯卡蕾特</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2005-05-04&#160;（<a href="/展会作品列表?e=%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD%232">第二回 博麗神社例大祭</a>）</td></tr><tr><td class="label">类型</td><td>单曲</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>2</td></tr><tr><td class="label">总时长</td><td>07:24</td></tr><tr><td class="label">风格类型</td><td>硬核</td></tr><tr><td class="label">售价</td><td>会场售价：1日元（一个硬币；最多100日元）<br>通贩售价：免费（官网附带免费下载）</td></tr>
+</tr><tr><td class="label">首发日期</td><td>2005-05-04 （<a href="./展会作品列表.md#2">第二回 博麗神社例大祭</a>）</td></tr><tr><td class="label">类型</td><td>单曲</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>2</td></tr><tr><td class="label">总时长</td><td>07:24</td></tr><tr><td class="label">风格类型</td><td>硬核</td></tr><tr><td class="label">售价</td><td>会场售价：1日元（一个硬币；最多100日元）<br>通贩售价：免费（官网附带免费下载）</td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://rlp.rgr.jp/circle/arr/wod/wod.html">http://rlp.rgr.jp/circle/arr/wod/wod.html</a></td></tr></tbody></table>
 
 Wings of Doom ～破滅の翼～（同人专辑，Ruins on the Lotus Position，2005） - 2005年5月4日 由 Ruins on the Lotus Position 于 博丽神社例大祭2 发布的单曲同人专辑，曲目主要风格是 硬核，分级为 一般向
-
 ## Staff
   
- **Arrangement**   
+**Arrangement**  
 
-<table><tbody><tr><td><a href="/index.php?title=blur&amp;action=edit&amp;redlink=1" class="new" title="blur（页面不存在）">blur</a></td><td><a href="./Ruins_on_the_Lotus_Position.md" title="Ruins on the Lotus Position">Ruins on the Lotus Position</a></td><td>Tr.1/2</td></tr></tbody></table>
-
+<table><tbody><tr><td><a class="new" title="blur（页面不存在）">blur</a></td><td><a href="./Ruins_on_the_Lotus_Position.md" title="Ruins on the Lotus Position">Ruins on the Lotus Position</a></td><td>Tr.1/2</td></tr></tbody></table>
 
 Illustration
 : Katzeh （[FelisOvum](http://katzeh.fur.bz/)）
 
-
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Lunatic_Princess_～狂姫～" colspan="2" class="title">Lunatic Princess ～狂姫～<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=blur&amp;ogmusic=U.N.オーエンは彼女なのか？&amp;fromwiki=Wings_of_Doom_～破滅の翼～"><span title="搜索相似同人曲"></span></a></span></td><td class="time">01:20</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=blur&amp;action=edit&amp;redlink=1" class="new" title="blur（页面不存在）">blur</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，blur&amp;fromwiki=Wings_of_Doom_～破滅の翼～"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=U.N.オーエンは彼女なのか？&amp;fromwiki=Wings_of_Doom_～破滅の翼～"><span></span></a></span><div class="ogmusic"><a href="./U.N.オーエンは彼女なのか？.md" class="mw-redirect" title="U.N.オーエンは彼女なのか？">U.N.オーエンは彼女なのか？</a></div><div class="source"><a href="./东方红魔乡_～_the_Embodiment_of_Scarlet_Devil..md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr>
-<tr><td id="2" class="infoYD"><b>02</b></td><td id="Wings_of_Doom_～破滅の翼～" colspan="2" class="title">Wings of Doom ～破滅の翼～<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=blur&amp;ogmusic=U.N.オーエンは彼女なのか？&amp;fromwiki=Wings_of_Doom_～破滅の翼～"><span title="搜索相似同人曲"></span></a></span></td><td class="time">06:04</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=blur&amp;action=edit&amp;redlink=1" class="new" title="blur（页面不存在）">blur</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，blur&amp;fromwiki=Wings_of_Doom_～破滅の翼～"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=U.N.オーエンは彼女なのか？&amp;fromwiki=Wings_of_Doom_～破滅の翼～"><span></span></a></span><div class="ogmusic"><a href="./U.N.オーエンは彼女なのか？.md" class="mw-redirect" title="U.N.オーエンは彼女なのか？">U.N.オーエンは彼女なのか？</a></div><div class="source"><a href="./东方红魔乡_～_the_Embodiment_of_Scarlet_Devil..md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr></tbody></table>
-
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Lunatic_Princess_～狂姫～" colspan="2" class="title">Lunatic Princess ～狂姫～</td><td class="time">01:20</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="blur（页面不存在）">blur</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./U.N.OWEN就是她吗？.md" class="mw-redirect" title="U.N.オーエンは彼女なのか？">U.N.オーエンは彼女なのか？</a></div><div class="source"><a href="./东方红魔乡.md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr>
+<tr><td id="2" class="infoYD"><b>02</b></td><td id="Wings_of_Doom_～破滅の翼～" colspan="2" class="title">Wings of Doom ～破滅の翼～</td><td class="time">06:04</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="blur（页面不存在）">blur</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./U.N.OWEN就是她吗？.md" class="mw-redirect" title="U.N.オーエンは彼女なのか？">U.N.オーエンは彼女なのか？</a></div><div class="source"><a href="./东方红魔乡.md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr></tbody></table>
 
 
 ## 评论
-
-
-
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:EXTRA_BITTER_Ⅷ封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\24\ns6%3AEXTRA_BITTER_%E2%85%A7%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\24\ns6%3AEXTRA_BITTER_%E2%85%A7%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Silver_Forest | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ Silver_Forest | 专辑封面 | 封面图片
   
 
 - [EXTRA BITTER Ⅷ](./EXTRA_BITTER_Ⅷ.md)
-
-
-
 
 
 ---

@@ -1,16 +1,12 @@
 # 模板:web即卖会
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\1\1e\ns10%3Aweb%E5%8D%B3%E5%8D%96%E4%BC%9A.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\1\1e\ns10%3Aweb%E5%8D%B3%E5%8D%96%E4%BC%9A.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

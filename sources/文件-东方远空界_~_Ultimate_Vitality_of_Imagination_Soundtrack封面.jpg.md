@@ -1,6 +1,6 @@
 # 文件:东方远空界_~_Ultimate_Vitality_of_Imagination_Soundtrack封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8c\ns6%3A%E4%B8%9C%E6%96%B9%E8%BF%9C%E7%A9%BA%E7%95%8C_%7E_Ultimate_Vitality_of_Imagination_Soundtrack%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8c\ns6%3A%E4%B8%9C%E6%96%B9%E8%BF%9C%E7%A9%BA%E7%95%8C_%7E_Ultimate_Vitality_of_Imagination_Soundtrack%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 神心飘游堂
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [东方远空界 ~ Ultimate Vitality of Imagination Soundtrack](./东方远空界_~_Ultimate_Vitality_of_Imagination_Soundtrack.md)  
-该封面包含的角色：- [晶耀泛纱](./晶耀泛纱.md)- [梦行远游](./梦行远游.md)
-
-
-
+- [东方远空界 ~ Ultimate Vitality of Imagination Soundtrack](./东方远空界_~_Ultimate_Vitality_of_Imagination_Soundtrack.md)该封面包含的角色：
+- [晶耀泛纱](./晶耀泛纱.md)
+- [梦行远游](./梦行远游.md)
 
 
 ---

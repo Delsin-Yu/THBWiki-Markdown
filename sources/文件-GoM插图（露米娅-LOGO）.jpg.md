@@ -1,12 +1,8 @@
 # 文件:GoM插图（露米娅-LOGO）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2b\ns6%3AGoM%E6%8F%92%E5%9B%BE%EF%BC%88%E9%9C%B2%E7%B1%B3%E5%A8%85-LOGO%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2b\ns6%3AGoM%E6%8F%92%E5%9B%BE%EF%BC%88%E9%9C%B2%E7%B1%B3%E5%A8%85-LOGO%EF%BC%89%2Ejpg.html -->
 
 露米娅 | 魔理沙的魔法书
-
-
-
-
 
 
 ---

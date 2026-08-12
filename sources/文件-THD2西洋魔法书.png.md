@@ -1,12 +1,8 @@
 # 文件:THD2西洋魔法书.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fa\ns6%3ATHD2%E8%A5%BF%E6%B4%8B%E9%AD%94%E6%B3%95%E4%B9%A6%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fa\ns6%3ATHD2%E8%A5%BF%E6%B4%8B%E9%AD%94%E6%B3%95%E4%B9%A6%2Epng.html -->
 
 AvalonStudioOfficial
-
-
-
-
 
 
 ---

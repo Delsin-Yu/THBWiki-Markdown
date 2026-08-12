@@ -1,6 +1,6 @@
 # 文件:TOHO_GENRE_ASSORT封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ae\ns6%3ATOHO_GENRE_ASSORT%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ae\ns6%3ATOHO_GENRE_ASSORT%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Raccoon_Tail | 专辑封面 | 封面图片
 
@@ -10,11 +10,17 @@ Raccoon_Tail | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [TOHO GENRE ASSORT](./TOHO_GENRE_ASSORT.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)- [西行寺幽幽子](./西行寺幽幽子.md)- [梅蒂欣·梅兰可莉](./梅蒂欣·梅兰可莉.md)- [河城荷取](./河城荷取.md)- [古明地恋](./古明地恋.md)- [多多良小伞](./多多良小伞.md)- [云居一轮](./云居一轮.md)- [苏我屠自古](./苏我屠自古.md)- [丰聪耳神子](./丰聪耳神子.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [TOHO GENRE ASSORT](./TOHO_GENRE_ASSORT.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [西行寺幽幽子](./西行寺幽幽子.md)
+- [梅蒂欣·梅兰可莉](./梅蒂欣·梅兰可莉.md)
+- [河城荷取](./河城荷取.md)
+- [古明地恋](./古明地恋.md)
+- [多多良小伞](./多多良小伞.md)
+- [云居一轮](./云居一轮.md)
+- [苏我屠自古](./苏我屠自古.md)
+- [丰聪耳神子](./丰聪耳神子.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

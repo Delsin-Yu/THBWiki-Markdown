@@ -1,6 +1,6 @@
 # 文件:Rest_winds封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ee\ns6%3ARest_winds%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ee\ns6%3ARest_winds%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 CR-winds | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ CR-winds | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Rest winds](./Rest_winds.md)  
-该封面包含的角色：- [比那名居天子](./比那名居天子.md)
+- [Rest winds](./Rest_winds.md)该封面包含的角色：
+- [比那名居天子](./比那名居天子.md)
 
   
-源地址：[from crossfade (originally uploaded image)](https://i1.sndcdn.com/artworks-000504436422-s5mdmt-original.jpg)
-  
-
-
-
-
+源地址：[from crossfade (originally uploaded image)](https://i1.sndcdn.com/artworks-000504436422-s5mdmt-original.jpg)  
 
 ---
 

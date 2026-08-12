@@ -1,6 +1,6 @@
 # 文件:もりやマ!!～Moriya_Comical_story_in_Mountain～_2封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\93\ns6%3A%E3%82%82%E3%82%8A%E3%82%84%E3%83%9E%21%21%EF%BD%9EMoriya_Comical_story_in_Mountain%EF%BD%9E_2%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\93\ns6%3A%E3%82%82%E3%82%8A%E3%82%84%E3%83%9E%21%21%EF%BD%9EMoriya_Comical_story_in_Mountain%EF%BD%9E_2%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 同人志封面 | 封面图片 | 柚子桃ジャム
 
@@ -8,16 +8,13 @@
 使用了本文件作封面图片的作品：
   
 
-- [もりやマ!!～Moriya Comical story in Mountain～ 2](./もりやマ!!～Moriya_Comical_story_in_Mountain～_2.md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)- [河城荷取](./河城荷取.md)- [犬走椛](./犬走椛.md)
+- [もりやマ!!～Moriya Comical story in Mountain～ 2](./もりやマ!!～Moriya_Comical_story_in_Mountain～_2.md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
+- [河城荷取](./河城荷取.md)
+- [犬走椛](./犬走椛.md)
 
   
-源地址：[[1]](http://3.bp.blogspot.com/-8NMGqVjVkaE/URpU2T1KSLI/AAAAAAAAAjM/9Y8ToEL_EY4/s1600/00.png)
-  
-
-
-
-
+源地址：[\[1\]](http://3.bp.blogspot.com/-8NMGqVjVkaE/URpU2T1KSLI/AAAAAAAAAjM/9Y8ToEL_EY4/s1600/00.png)  
 
 ---
 

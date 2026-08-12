@@ -1,6 +1,6 @@
 # 文件:桃源Garden封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f5\ns6%3A%E6%A1%83%E6%BA%90Garden%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f5\ns6%3A%E6%A1%83%E6%BA%90Garden%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 VIGNETTE_HOUSE | 专辑封面 | 封面图片
 
@@ -8,12 +8,9 @@ VIGNETTE_HOUSE | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [桃源Garden](./桃源Garden.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)TLMC Scan (edited)
-
-
-
-
+- [桃源Garden](./桃源Garden.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+TLMC Scan (edited)
 
 ---
 

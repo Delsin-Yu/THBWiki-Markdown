@@ -1,12 +1,8 @@
 # 文件:Aleilebanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\26\ns6%3AAleilebanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\26\ns6%3AAleilebanner%2Epng.html -->
 
 Aleile | 社团LOGO
-
-
-
-
 
 
 ---

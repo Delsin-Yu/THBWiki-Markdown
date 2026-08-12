@@ -1,6 +1,6 @@
 # 文件:東方境断章_-_sky_sky_spirit_of_spell_-封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\37\ns6%3A%E6%9D%B1%E6%96%B9%E5%A2%83%E6%96%AD%E7%AB%A0_-_sky_sky_spirit_of_spell_-%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\37\ns6%3A%E6%9D%B1%E6%96%B9%E5%A2%83%E6%96%AD%E7%AB%A0_-_sky_sky_spirit_of_spell_-%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 EGOIST_NOTES | 封面图片 | 软件封面
 
@@ -10,16 +10,12 @@ EGOIST_NOTES | 封面图片 | 软件封面
 使用了本文件作封面图片的作品：
   
 
-- [東方境断章 - sky sky spirit of spell -](./東方境断章_-_sky_sky_spirit_of_spell_-.md)  
-该封面包含的角色：- [灵乌路空](./灵乌路空.md)
+- [東方境断章 - sky sky spirit of spell -](./東方境断章_-_sky_sky_spirit_of_spell_-.md)该封面包含的角色：
+- [灵乌路空](./灵乌路空.md)
 
   
 [[p:56757091|Pixiv artwork ID: 56757091 (original size; cropped)
   
-
-
-
-
 
 ---
 

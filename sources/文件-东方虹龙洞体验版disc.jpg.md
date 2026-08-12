@@ -1,18 +1,13 @@
 # 文件:东方虹龙洞体验版disc.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e8\ns6%3A%E4%B8%9C%E6%96%B9%E8%99%B9%E9%BE%99%E6%B4%9E%E4%BD%93%E9%AA%8C%E7%89%88disc%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e8\ns6%3A%E4%B8%9C%E6%96%B9%E8%99%B9%E9%BE%99%E6%B4%9E%E4%BD%93%E9%AA%8C%E7%89%88disc%2Ejpg.html -->
 
 东方虹龙洞 | 官方游戏体验版光盘扫图
 
   
 封面来源: 駿河屋 商品页面  
 
-URL: [https://www.suruga-ya.jp/product/detail/186079970](https://www.suruga-ya.jp/product/detail/186079970)
-  
-
-
-
-
+URL: [https://www.suruga-ya.jp/product/detail/186079970](https://www.suruga-ya.jp/product/detail/186079970)  
 
 ---
 

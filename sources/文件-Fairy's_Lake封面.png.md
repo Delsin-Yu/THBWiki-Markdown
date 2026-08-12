@@ -1,6 +1,6 @@
 # 文件:Fairy's_Lake封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\77\ns6%3AFairy%27s_Lake%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\77\ns6%3AFairy%27s_Lake%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 DREAMERS_GARDEN | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ DREAMERS_GARDEN | 专辑封面 | 封面图片
   
 
 - [Fairy's Lake](./Fairy's_Lake.md)
-
-
-
 
 
 ---

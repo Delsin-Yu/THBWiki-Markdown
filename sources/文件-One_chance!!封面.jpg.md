@@ -1,6 +1,6 @@
 # 文件:One_chance!!封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b2\ns6%3AOne_chance%21%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b2\ns6%3AOne_chance%21%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Mods_Crisis_∞ | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Mods_Crisis_∞ | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [One chance!!](./One_chance!!.md)  
-该封面包含的角色：- [封兽鵺](./封兽鵺.md)
-
-
-
+- [One chance!!](./One_chance!!.md)该封面包含的角色：
+- [封兽鵺](./封兽鵺.md)
 
 
 ---

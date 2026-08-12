@@ -1,6 +1,6 @@
 # 文件:thEIoS_09.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f0\ns6%3AthEIoS_09%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f0\ns6%3AthEIoS_09%2Emp3.html -->
 
 Imaginary_History | 东方祈华梦制作组
 
@@ -9,10 +9,6 @@ Imaginary_History | 东方祈华梦制作组
   
 祈华梦三面BOSS曲3
   
-
-
-
-
 
 ---
 

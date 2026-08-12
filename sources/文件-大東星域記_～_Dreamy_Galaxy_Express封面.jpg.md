@@ -1,6 +1,6 @@
 # 文件:大東星域記_～_Dreamy_Galaxy_Express封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\11\ns6%3A%E5%A4%A7%E6%9D%B1%E6%98%9F%E5%9F%9F%E8%A8%98_%EF%BD%9E_Dreamy_Galaxy_Express%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\11\ns6%3A%E5%A4%A7%E6%9D%B1%E6%98%9F%E5%9F%9F%E8%A8%98_%EF%BD%9E_Dreamy_Galaxy_Express%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 平成懐元堂
 
@@ -8,12 +8,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [大東星域記 ～ Dreamy Galaxy Express](./大東星域記_～_Dreamy_Galaxy_Express.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)源地址：[[1]](https://booth.pximg.net/c/620x620/a1bd643d-1653-4012-8d0f-59d096ff69e6/i/1059232/4b7055d9-7ed8-4575-bd14-b10d98f01a1a_base_resized.jpg)
-
-
-
-
+- [大東星域記 ～ Dreamy Galaxy Express](./大東星域記_～_Dreamy_Galaxy_Express.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
+源地址：[\[1\]](https://booth.pximg.net/c/620x620/a1bd643d-1653-4012-8d0f-59d096ff69e6/i/1059232/4b7055d9-7ed8-4575-bd14-b10d98f01a1a_base_resized.jpg)
 
 ---
 

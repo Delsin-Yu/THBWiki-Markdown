@@ -1,12 +1,8 @@
 # 文件:天使の羽banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\47\ns6%3A%E5%A4%A9%E4%BD%BF%E3%81%AE%E7%BE%BDbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\47\ns6%3A%E5%A4%A9%E4%BD%BF%E3%81%AE%E7%BE%BDbanner%2Epng.html -->
 
 天使の羽 | 社团LOGO
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:らぶれす_-Loveressive-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\95\ns6%3A%E3%82%89%E3%81%B6%E3%82%8C%E3%81%99_-Loveressive-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\95\ns6%3A%E3%82%89%E3%81%B6%E3%82%8C%E3%81%99_-Loveressive-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 SYNC.ART'S | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ SYNC.ART'S | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [らぶれす -Loveressive-](./らぶれす_-Loveressive-.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [らぶれす -Loveressive-](./らぶれす_-Loveressive-.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

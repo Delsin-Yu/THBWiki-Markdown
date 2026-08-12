@@ -1,6 +1,6 @@
 # 文件:Party_in_the_Sacred_Garden封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\29\ns6%3AParty_in_the_Sacred_Garden%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\29\ns6%3AParty_in_the_Sacred_Garden%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 CrimsonBoots | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ CrimsonBoots | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Party in the Sacred Garden](./Party_in_the_Sacred_Garden.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
-
-
-
+- [Party in the Sacred Garden](./Party_in_the_Sacred_Garden.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
 
 ---

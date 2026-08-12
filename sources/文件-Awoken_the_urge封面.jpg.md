@@ -1,6 +1,6 @@
 # 文件:Awoken_the_urge封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7f\ns6%3AAwoken_the_urge%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7f\ns6%3AAwoken_the_urge%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Hard_Crescendo | 专辑封面 | 封面图片
 
@@ -8,12 +8,9 @@ Hard_Crescendo | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Awoken the urge](./Awoken_the_urge.md)  
-该封面包含的角色：- [古明地恋](./古明地恋.md)源地址：[Pixiv Illustration ID: 30357521](https://www.pixiv.net/member_illust.php?mode=medium&amp;illust_id=30357521)
-
-
-
-
+- [Awoken the urge](./Awoken_the_urge.md)该封面包含的角色：
+- [古明地恋](./古明地恋.md)
+源地址：[Pixiv Illustration ID: 30357521](https://www.pixiv.net/member_illust.php?mode=medium&illust_id=30357521)
 
 ---
 

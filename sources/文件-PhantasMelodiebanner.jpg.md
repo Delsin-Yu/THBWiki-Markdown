@@ -1,16 +1,11 @@
 # 文件:PhantasMelodiebanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e5\ns6%3APhantasMelodiebanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e5\ns6%3APhantasMelodiebanner%2Ejpg.html -->
 
 PhantasMelodie | 社团LOGO
 
   
-源地址：[[1]](https://pbs.twimg.com/profile_images/495171192236429312/uftvZ90x.jpeg)
-  
-
-
-
-
+源地址：[\[1\]](https://pbs.twimg.com/profile_images/495171192236429312/uftvZ90x.jpeg)  
 
 ---
 

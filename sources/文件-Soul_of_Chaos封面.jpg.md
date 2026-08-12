@@ -1,6 +1,6 @@
 # 文件:Soul_of_Chaos封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b4\ns6%3ASoul_of_Chaos%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b4\ns6%3ASoul_of_Chaos%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Reset_All_Controllers | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Reset_All_Controllers | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Soul of Chaos](./Soul_of_Chaos.md)  
-该封面包含的角色：- [封兽鵺](./封兽鵺.md)
-
-
-
+- [Soul of Chaos](./Soul_of_Chaos.md)该封面包含的角色：
+- [封兽鵺](./封兽鵺.md)
 
 
 ---

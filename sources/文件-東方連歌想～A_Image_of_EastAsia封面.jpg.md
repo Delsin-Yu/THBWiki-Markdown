@@ -1,6 +1,6 @@
 # 文件:東方連歌想～A_Image_of_EastAsia封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\99\ns6%3A%E6%9D%B1%E6%96%B9%E9%80%A3%E6%AD%8C%E6%83%B3%EF%BD%9EA_Image_of_EastAsia%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\99\ns6%3A%E6%9D%B1%E6%96%B9%E9%80%A3%E6%AD%8C%E6%83%B3%EF%BD%9EA_Image_of_EastAsia%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 かも | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方連歌想～A Image of EastAsia](./東方連歌想～A_Image_of_EastAsia.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [東方連歌想～A Image of EastAsia](./東方連歌想～A_Image_of_EastAsia.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

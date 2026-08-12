@@ -1,6 +1,6 @@
 # 文件:My_WoЯ：ld封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d3\ns6%3AMy_Wo%D0%AF%EF%BC%9Ald%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d3\ns6%3AMy_Wo%D0%AF%EF%BC%9Ald%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 チキン少女。 | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@
   
 
 - [My WoЯ：ld](./My_WoЯ：ld.md)
-
-
-
 
 
 ---

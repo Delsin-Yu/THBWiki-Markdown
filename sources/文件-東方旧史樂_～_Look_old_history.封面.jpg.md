@@ -1,6 +1,6 @@
 # 文件:東方旧史樂_～_Look_old_history.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cf\ns6%3A%E6%9D%B1%E6%96%B9%E6%97%A7%E5%8F%B2%E6%A8%82_%EF%BD%9E_Look_old_history%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cf\ns6%3A%E6%9D%B1%E6%96%B9%E6%97%A7%E5%8F%B2%E6%A8%82_%EF%BD%9E_Look_old_history%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 XEoN×少女墓石倶楽部 | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ XEoN×少女墓石倶楽部 | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方旧史樂 ～ Look old history.](./東方旧史樂_～_Look_old_history..md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)
-
-
-
+- [東方旧史樂 ～ Look old history.](./東方旧史樂_～_Look_old_history..md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
 
 
 ---

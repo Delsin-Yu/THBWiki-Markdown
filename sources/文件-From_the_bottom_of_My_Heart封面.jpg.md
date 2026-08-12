@@ -1,6 +1,6 @@
 # 文件:From_the_bottom_of_My_Heart封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\86\ns6%3AFrom_the_bottom_of_My_Heart%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\86\ns6%3AFrom_the_bottom_of_My_Heart%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 なんか好き。 | 同人志封面 | 封面图片
 
@@ -10,11 +10,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [From the bottom of My Heart](./From_the_bottom_of_My_Heart.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [博丽灵梦](./博丽灵梦.md)- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [犬走椛](./犬走椛.md)
-
-
-
+- [From the bottom of My Heart](./From_the_bottom_of_My_Heart.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [博丽灵梦](./博丽灵梦.md)
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [犬走椛](./犬走椛.md)
 
 
 ---

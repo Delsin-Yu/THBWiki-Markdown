@@ -1,12 +1,11 @@
 # 东方百花宴～the_Flower_Shooter
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\61\ns0%3A%E4%B8%9C%E6%96%B9%E7%99%BE%E8%8A%B1%E5%AE%B4%EF%BD%9Ethe_Flower_Shooter.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\61\ns0%3A%E4%B8%9C%E6%96%B9%E7%99%BE%E8%8A%B1%E5%AE%B4%EF%BD%9Ethe_Flower_Shooter.html -->
 
 2014年4月20日 由 SlimeSmile  发布的STG同人游戏，可在 Windows 系统上运行，游戏人数为 单人模式，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人软件 (未找到链接)** 的词条
-
+**[二次创作同人软件](./二次创作.md#同人软件)**的词条
 ## 目录
 
 - [1 软件信息](#软件信息)
@@ -17,9 +16,6 @@
 - [6 下载](#下载)
 
 
-
-
-
 ## 软件信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-东方百花宴～the_Flower_Shooter封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/8/8d/%E4%B8%9C%E6%96%B9%E7%99%BE%E8%8A%B1%E5%AE%B4%EF%BD%9Ethe_Flower_Shooter%E5%B0%81%E9%9D%A2.jpg/224px-%E4%B8%9C%E6%96%B9%E7%99%BE%E8%8A%B1%E5%AE%B4%EF%BD%9Ethe_Flower_Shooter%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="168" srcset="https://upload.thwiki.cc/thumb/8/8d/%E4%B8%9C%E6%96%B9%E7%99%BE%E8%8A%B1%E5%AE%B4%EF%BD%9Ethe_Flower_Shooter%E5%B0%81%E9%9D%A2.jpg/336px-%E4%B8%9C%E6%96%B9%E7%99%BE%E8%8A%B1%E5%AE%B4%EF%BD%9Ethe_Flower_Shooter%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/8/8d/%E4%B8%9C%E6%96%B9%E7%99%BE%E8%8A%B1%E5%AE%B4%EF%BD%9Ethe_Flower_Shooter%E5%B0%81%E9%9D%A2.jpg/448px-%E4%B8%9C%E6%96%B9%E7%99%BE%E8%8A%B1%E5%AE%B4%EF%BD%9Ethe_Flower_Shooter%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="640" data-file-height="480"></a><div class="cover-char">角色：<a href="./芙蕾雅.md" title="芙蕾雅">芙蕾雅</a></div></td>
@@ -27,17 +23,10 @@
 </tr><tr><td class="label">首发日期</td><td>2014-04-20</td></tr><tr><td class="label">类型</td><td>游戏</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">游戏人数</td><td>单人模式</td></tr><tr><td class="label">游戏类型</td><td>STG</td></tr><tr><td class="label">运行平台</td><td>Windows</td></tr><tr><td class="label">语言</td><td>简体中文</td></tr><tr><td class="label">售价</td><td>免费</td></tr></tbody></table>
 
 东方百花宴～the Flower Shooter（同人游戏，SlimeSmile，2014） - 2014年4月20日 由 SlimeSmile  发布的STG同人游戏，可在 Windows 系统上运行，游戏人数为 单人模式，分级为 一般向
-  
-  
-
-  
-
-
 <table>
 <tbody><tr><th colspan="2">配置需求</th></tr>
 <tr><td style="width:120px;padding-left:7px;"><b>操作系统</b></td><td>WinXP、Vista、Win7、Win8</td></tr><tr><td style="width:120px;padding-left:7px;"><b>CPU</b></td><td>Intel 酷睿2以上</td></tr><tr><td style="width:120px;padding-left:7px;"><b>内存</b></td><td>512MB以上</td></tr><tr><td style="width:120px;padding-left:7px;"><b>显示卡</b></td><td>支持Direct Graphic的显卡（256MB显存）</td></tr><tr><td style="width:120px;padding-left:7px;"><b>其他</b></td><td>DirectX9.0c</td></tr>
 </tbody></table>
-
 
 
 ## Staff
@@ -49,7 +38,6 @@
 : o0北欧晨风0o
 特别感谢
 : 砂砾籽
-
 
 ## 游戏介绍
   
@@ -71,8 +59,8 @@
 若有其它问题，请先参考readme。
   
 
-
 ## 内容页面
+
 - [游戏设定与剧情](./东方百花宴～the_Flower_Shooter-设定与剧情.md)
 - [系统说明](./东方百花宴～the_Flower_Shooter-系统.md)
 - [角色设定](./东方百花宴～the_Flower_Shooter-角色设定.md)
@@ -86,9 +74,7 @@
 ## 下载
   
 请注意：  
- **所有的二次同人软件的下载地址均为站外资源，本站并不保证其来源的合法性以及资源的有效性和安全性** 
-  
-
+**所有的二次同人软件的下载地址均为站外资源，本站并不保证其来源的合法性以及资源的有效性和安全性**  
 
 <table>
 
@@ -100,15 +86,6 @@
 <p><a rel="nofollow" class="external text" href="http://pan.baidu.com/s/1sjoARJR">ver1.00b升级补丁（ver1.00可直接使用）</a>
 </p>
 </td></tr></tbody></table>
-
-
-  
-  
-
-  
-
-
-
 
 
 ---

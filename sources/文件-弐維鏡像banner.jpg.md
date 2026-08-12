@@ -1,12 +1,8 @@
 # 文件:弐維鏡像banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e1\ns6%3A%E5%BC%90%E7%B6%AD%E9%8F%A1%E5%83%8Fbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e1\ns6%3A%E5%BC%90%E7%B6%AD%E9%8F%A1%E5%83%8Fbanner%2Ejpg.html -->
 
 弐維鏡像 | 社团LOGO
-
-
-
-
 
 
 ---

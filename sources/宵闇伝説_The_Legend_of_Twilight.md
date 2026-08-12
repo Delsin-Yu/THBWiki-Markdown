@@ -1,12 +1,11 @@
 # 宵闇伝説_The_Legend_of_Twilight
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\4a\ns0%3A%E5%AE%B5%E9%97%87%E4%BC%9D%E8%AA%AC_The_Legend_of_Twilight.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\4a\ns0%3A%E5%AE%B5%E9%97%87%E4%BC%9D%E8%AA%AC_The_Legend_of_Twilight.html -->
 
 2012年8月11日 由 川獺アルカディア 于 Comic Market 82 发布的ACT同人游戏，可在 Windows 系统上运行，游戏人数为 1人，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人软件 (未找到链接)** 的词条
-
+**[二次创作同人软件](./二次创作.md#同人软件)**的词条
 ## 目录
 
 - [1 软件信息](#软件信息)
@@ -15,28 +14,18 @@
 - [4 评论](#评论)
 
 
-
-
-
 ## 软件信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-宵闇伝説_The_Legend_of_Twilight封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/3/3d/%E5%AE%B5%E9%97%87%E4%BC%9D%E8%AA%AC_The_Legend_of_Twilight%E5%B0%81%E9%9D%A2.png/224px-%E5%AE%B5%E9%97%87%E4%BC%9D%E8%AA%AC_The_Legend_of_Twilight%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="224" height="168" srcset="https://upload.thwiki.cc/thumb/3/3d/%E5%AE%B5%E9%97%87%E4%BC%9D%E8%AA%AC_The_Legend_of_Twilight%E5%B0%81%E9%9D%A2.png/336px-%E5%AE%B5%E9%97%87%E4%BC%9D%E8%AA%AC_The_Legend_of_Twilight%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/3/3d/%E5%AE%B5%E9%97%87%E4%BC%9D%E8%AA%AC_The_Legend_of_Twilight%E5%B0%81%E9%9D%A2.png/448px-%E5%AE%B5%E9%97%87%E4%BC%9D%E8%AA%AC_The_Legend_of_Twilight%E5%B0%81%E9%9D%A2.png 2x" data-file-width="640" data-file-height="480"></a></td>
 </tr><tr><td class="label">名称</td><td colspan="2"> 宵闇伝説 The Legend of Twilight </td></tr><tr><td class="label">译名</td><td colspan="2"> 黄昏传说  The Legend of Twilight </td></tr><tr><td class="label">制作方</td><td><a href="./川獺アルカディア.md" title="川獺アルカディア">川獺アルカディア</a></td><td class="cover-artwork" rowspan="8" style="min-width:224px;"><a href="./文件-宵闇伝説_The_Legend_of_Twilight封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/3/3d/%E5%AE%B5%E9%97%87%E4%BC%9D%E8%AA%AC_The_Legend_of_Twilight%E5%B0%81%E9%9D%A2.png/224px-%E5%AE%B5%E9%97%87%E4%BC%9D%E8%AA%AC_The_Legend_of_Twilight%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="224" height="168" srcset="https://upload.thwiki.cc/thumb/3/3d/%E5%AE%B5%E9%97%87%E4%BC%9D%E8%AA%AC_The_Legend_of_Twilight%E5%B0%81%E9%9D%A2.png/336px-%E5%AE%B5%E9%97%87%E4%BC%9D%E8%AA%AC_The_Legend_of_Twilight%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/3/3d/%E5%AE%B5%E9%97%87%E4%BC%9D%E8%AA%AC_The_Legend_of_Twilight%E5%B0%81%E9%9D%A2.png/448px-%E5%AE%B5%E9%97%87%E4%BC%9D%E8%AA%AC_The_Legend_of_Twilight%E5%B0%81%E9%9D%A2.png 2x" data-file-width="640" data-file-height="480"></a></td>
-</tr><tr><td class="label">首发日期</td><td>2012-08-11&#160;（<a href="/展会作品列表?e=Comic+Market%2382">Comic Market 82</a>）</td></tr><tr><td class="label">类型</td><td>游戏</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">游戏人数</td><td>1人</td></tr><tr><td class="label">游戏类型</td><td>ACT</td></tr><tr><td class="label">运行平台</td><td>Windows</td></tr><tr><td class="label">语言</td><td>日文</td></tr><tr><td class="label">售价</td><td>500日元</td></tr>
+</tr><tr><td class="label">首发日期</td><td>2012-08-11 （<a href="./展会作品列表.md#82">Comic Market 82</a>）</td></tr><tr><td class="label">类型</td><td>游戏</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">游戏人数</td><td>1人</td></tr><tr><td class="label">游戏类型</td><td>ACT</td></tr><tr><td class="label">运行平台</td><td>Windows</td></tr><tr><td class="label">语言</td><td>日文</td></tr><tr><td class="label">售价</td><td>500日元</td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://korcs.info/game/yoiden/">http://korcs.info/game/yoiden/</a></td></tr></tbody></table>
 
 宵闇伝説 The Legend of Twilight（同人游戏，川獺アルカディア，2012） - 2012年8月11日 由 川獺アルカディア 于 Comic Market 82 发布的ACT同人游戏，可在 Windows 系统上运行，游戏人数为 1人，分级为 一般向
-  
-  
-
-  
-
-
 <table>
 <tbody><tr><th colspan="2">配置需求</th></tr>
 <tr><td style="width:120px;padding-left:7px;"><b>操作系统</b></td><td>WindowsXP/Vista/7</td></tr><tr><td style="width:120px;padding-left:7px;"><b>CPU</b></td><td>Pentium 4　2.4GHz以上</td></tr><tr><td style="width:120px;padding-left:7px;"><b>内存</b></td><td>1GB以上</td></tr><tr><td style="width:120px;padding-left:7px;"><b>硬盘需求</b></td><td>100MB以上</td></tr><tr><td style="width:120px;padding-left:7px;"><b>其他</b></td><td>DirectX9.0以上</td></tr>
 </tbody></table>
-
 
 
 ## Staff
@@ -45,17 +34,14 @@
 BGM
 : SUR  tripper  wonder  久上祐樹
 
-
 ## 内容页面
+
 - 游戏设定与剧情 (未找到链接)
 - 攻略 (未找到链接)
 - 其他信息 (未找到链接)
 
 
 ## 评论
-
-
-
 
 ---
 

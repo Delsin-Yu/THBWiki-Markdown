@@ -1,6 +1,6 @@
 # 文件:3rd_demo_single封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7f\ns6%3A3rd_demo_single%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7f\ns6%3A3rd_demo_single%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 凪の匣庭 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [3rd demo single](./3rd_demo_single.md)  
-该封面包含的角色：- [藤原妹红](./藤原妹红.md)
-
-
-
+- [3rd demo single](./3rd_demo_single.md)该封面包含的角色：
+- [藤原妹红](./藤原妹红.md)
 
 
 ---

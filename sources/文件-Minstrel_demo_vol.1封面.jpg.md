@@ -1,6 +1,6 @@
 # 文件:Minstrel_demo_vol.1封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\eb\ns6%3AMinstrel_demo_vol%2E1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\eb\ns6%3AMinstrel_demo_vol%2E1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Minstrel | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Minstrel | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Minstrel demo vol.1](./Minstrel_demo_vol.1.md)  
-该封面包含的角色：- [八云紫](./八云紫.md)
-
-
-
+- [Minstrel demo vol.1](./Minstrel_demo_vol.1.md)该封面包含的角色：
+- [八云紫](./八云紫.md)
 
 
 ---

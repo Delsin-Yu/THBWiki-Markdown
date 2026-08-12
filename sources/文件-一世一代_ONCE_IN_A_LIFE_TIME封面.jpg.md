@@ -1,6 +1,6 @@
 # 文件:一世一代_ONCE_IN_A_LIFE_TIME封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\71\ns6%3A%E4%B8%80%E4%B8%96%E4%B8%80%E4%BB%A3_ONCE_IN_A_LIFE_TIME%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\71\ns6%3A%E4%B8%80%E4%B8%96%E4%B8%80%E4%BB%A3_ONCE_IN_A_LIFE_TIME%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 GP-KIDS | 同人志封面 | 封面图片
 
@@ -10,16 +10,13 @@ GP-KIDS | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [一世一代 ONCE IN A LIFE TIME](./一世一代_ONCE_IN_A_LIFE_TIME.md)  
-该封面包含的角色：- [东风谷早苗](./东风谷早苗.md)- [八坂神奈子](./八坂神奈子.md)- [洩矢诹访子](./洩矢诹访子.md)
+- [一世一代 ONCE IN A LIFE TIME](./一世一代_ONCE_IN_A_LIFE_TIME.md)该封面包含的角色：
+- [东风谷早苗](./东风谷早苗.md)
+- [八坂神奈子](./八坂神奈子.md)
+- [洩矢诹访子](./洩矢诹访子.md)
 
   
-[Pixiv artwork ID: 20828656](https://www.pixiv.net/artworks/20828656)
-  
-
-
-
-
+[Pixiv artwork ID: 20828656](https://www.pixiv.net/artworks/20828656)  
 
 ---
 

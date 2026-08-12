@@ -1,50 +1,40 @@
 # fumoism/FUMO捕捉包
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\e\eb\ns0%3Afumoism%2FFUMO%E6%8D%95%E6%8D%89%E5%8C%85.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\e\eb\ns0%3Afumoism%2FFUMO%E6%8D%95%E6%8D%89%E5%8C%85.html -->
 
 2022年7月17日 由 fumoism 于 FumoOnly1 发布的袋/文具周边，分级为 一般向
 
 本页是关于东方Project  
- **相关实体周边 (未找到链接)** 的词条
-
+**相关实体周边 (未找到链接)**的词条
 ## 目录
 
 - [1 周边信息](#周边信息)
 - [2 参考图](#参考图)
-
   - [2.1 预览图](#预览图)
-
 
 
 - [3 Staff](#Staff)
 - [4 评论](#评论)
 
 
-
-
-
 ## 周边信息
 
-<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> FUMO捕捉包 </td></tr><tr><td class="label">制作方</td><td><a href="./fumoism.md" title="fumoism">fumoism</a></td></tr><tr><td class="label">首发日期</td><td>2022-07-17&#160;（<a href="/展会作品列表?e=FumoOnly%231">FumoOnly-东方湖歌宴</a>）</td></tr><tr><td class="label">类型</td><td>袋，文具</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">角色</td><td><a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a><br><a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a><br><a href="./琪露诺.md" title="琪露诺">琪露诺</a><br><a href="./丰聪耳神子.md" title="丰聪耳神子">丰聪耳神子</a><br><a href="./四季映姬·夜摩仙那度.md" title="四季映姬·夜摩仙那度">四季映姬·夜摩仙那度</a></td></tr><tr><td class="label">售价</td><td>50人民币</td></tr></tbody></table>
+<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> FUMO捕捉包 </td></tr><tr><td class="label">制作方</td><td><a href="./fumoism.md" title="fumoism">fumoism</a></td></tr><tr><td class="label">首发日期</td><td>2022-07-17 （<a href="./展会作品列表.md#1">FumoOnly-东方湖歌宴</a>）</td></tr><tr><td class="label">类型</td><td>袋，文具</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">角色</td><td><a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a><br><a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a><br><a href="./琪露诺.md" title="琪露诺">琪露诺</a><br><a href="./丰聪耳神子.md" title="丰聪耳神子">丰聪耳神子</a><br><a href="./四季映姬·夜摩仙那度.md" title="四季映姬·夜摩仙那度">四季映姬·夜摩仙那度</a></td></tr><tr><td class="label">售价</td><td>50人民币</td></tr></tbody></table>
 
 fumoism/FUMO捕捉包（周边，fumoism，2022） - 2022年7月17日 由 fumoism 于 FumoOnly1 发布的袋/文具周边，分级为 一般向
-
 ## 参考图
   
 周边宣传、售卖时使用的作为参考图的预览图或实物图的图片。
   
 
-
 ### 预览图
-- [](./文件-fumoism／FUMO捕捉包预览图1.jpg.md)
+
+- <img alt="fumoism／FUMO捕捉包预览图1.jpg" src="https://upload.thwiki.cc/thumb/b/b2/fumoism%EF%BC%8FFUMO%E6%8D%95%E6%8D%89%E5%8C%85%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg/265px-fumoism%EF%BC%8FFUMO%E6%8D%95%E6%8D%89%E5%8C%85%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg" decoding="async" loading="lazy" width="177" height="250" srcset="https://upload.thwiki.cc/thumb/b/b2/fumoism%EF%BC%8FFUMO%E6%8D%95%E6%8D%89%E5%8C%85%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg/398px-fumoism%EF%BC%8FFUMO%E6%8D%95%E6%8D%89%E5%8C%85%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg 1.5x, https://upload.thwiki.cc/thumb/b/b2/fumoism%EF%BC%8FFUMO%E6%8D%95%E6%8D%89%E5%8C%85%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg/530px-fumoism%EF%BC%8FFUMO%E6%8D%95%E6%8D%89%E5%8C%85%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg 2x" data-file-width="3507" data-file-height="4960"> 
 
 
 ## Staff
 
 ## 评论
-
-
-
 
 ---
 

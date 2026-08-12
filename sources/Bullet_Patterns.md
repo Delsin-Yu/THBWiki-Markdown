@@ -1,13 +1,11 @@
 # Bullet_Patterns
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\f7\ns0%3ABullet_Patterns.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\f7\ns0%3ABullet_Patterns.html -->
 
 2021年11月2日 由 Panic Bomb  发布的全长同人专辑，曲目主要风格是 嘻哈，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人专辑 (未找到链接)** 的词条
-<center>
-
+**[二次创作同人专辑](./二次创作.md#同人音乐)**的词条<center>
 <table>
 <tbody><tr>
 <td class="mbox-image"><div style="width: 52px;">
@@ -16,9 +14,7 @@
 </tr>
 </tbody></table>
 
-
 </center>
-
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Bullet_Patterns封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/4/41/Bullet_Patterns%E5%B0%81%E9%9D%A2.jpg/252px-Bullet_Patterns%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="252" height="252" srcset="https://upload.thwiki.cc/thumb/4/41/Bullet_Patterns%E5%B0%81%E9%9D%A2.jpg/378px-Bullet_Patterns%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/4/41/Bullet_Patterns%E5%B0%81%E9%9D%A2.jpg/504px-Bullet_Patterns%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1200" data-file-height="1200"></a></td>
@@ -27,44 +23,37 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://panicbombing.bandcamp.com/album/bullet-patterns-2">https://panicbombing.bandcamp.com/album/bullet-patterns-2</a></td></tr></tbody></table>
 
 Bullet Patterns（同人专辑，Panic Bomb，2021） - 2021年11月2日 由 Panic Bomb  发布的全长同人专辑，曲目主要风格是 嘻哈，分级为 一般向
-
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://panicbombing.bandcamp.com/album/bullet-patterns-2">bandcamp</a></td></tr></tbody></table>
-
 
 
 ## Staff
   
- **Compose**   
+**Compose**  
 
 <table><tbody><tr><td><a href="./Panic_Bomb.md" title="Panic Bomb">Panic Bomb</a></td><td></td><td>Tr.1-3/5-11</td></tr></tbody></table>
 
   
- **Arrangement**   
+**Arrangement**  
 
 <table><tbody><tr><td><a href="./Panic_Bomb.md" title="Panic Bomb">Panic Bomb</a></td><td></td><td>Tr.4</td></tr></tbody></table>
 
 
-
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYL"><b>01</b></td><td id="Poison_Pen_Letter/Domino" colspan="2" class="title">Poison Pen Letter/Domino<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Panic Bomb&amp;fromwiki=Bullet_Patterns"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:24</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./Panic_Bomb.md" title="Panic Bomb">Panic Bomb</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Panic Bomb&amp;fromwiki=Bullet_Patterns"><span></span></a></span></td></tr>
-<tr><td id="2" class="infoYL"><b>02</b></td><td id="¿Que?" colspan="2" class="title">¿Que?<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Panic Bomb&amp;fromwiki=Bullet_Patterns"><span title="搜索相似同人曲"></span></a></span></td><td class="time">01:25</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./Panic_Bomb.md" title="Panic Bomb">Panic Bomb</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Panic Bomb&amp;fromwiki=Bullet_Patterns"><span></span></a></span></td></tr>
-<tr><td id="3" class="infoYL"><b>03</b></td><td id="Say_What_You_Want_to_Say" colspan="2" class="title">Say What You Want to Say<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Panic Bomb&amp;fromwiki=Bullet_Patterns"><span title="搜索相似同人曲"></span></a></span></td><td class="time">01:31</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./Panic_Bomb.md" title="Panic Bomb">Panic Bomb</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Panic Bomb&amp;fromwiki=Bullet_Patterns"><span></span></a></span></td></tr>
-<tr><td id="4" class="infoYD"><b>04</b></td><td id="Beneath_the_Cherry_Blossoms_(Bodies)" colspan="2" class="title">Beneath the Cherry Blossoms (Bodies)<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Panic Bomb&amp;ogmusic=幽雅に咲かせ、墨染の桜　～ Border of Life&amp;fromwiki=Bullet_Patterns"><span title="搜索相似同人曲"></span></a></span></td><td class="time">02:22</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Panic_Bomb.md" title="Panic Bomb">Panic Bomb</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Panic Bomb&amp;fromwiki=Bullet_Patterns"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=幽雅に咲かせ、墨染の桜　～ Border of Life&amp;fromwiki=Bullet_Patterns"><span></span></a></span><div class="ogmusic"><a href="./幽雅に咲かせ、墨染の桜_～_Border_of_Life.md" class="mw-redirect" title="幽雅に咲かせ、墨染の桜 ～ Border of Life">幽雅に咲かせ、墨染の桜　～ Border of Life</a></div><div class="source"><a href="./东方妖妖梦_～_Perfect_Cherry_Blossom..md" class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr>
-<tr><td id="5" class="infoYL"><b>05</b></td><td id="More_Mirrors" colspan="2" class="title">More Mirrors<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Panic Bomb&amp;fromwiki=Bullet_Patterns"><span title="搜索相似同人曲"></span></a></span></td><td class="time">01:52</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./Panic_Bomb.md" title="Panic Bomb">Panic Bomb</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Panic Bomb&amp;fromwiki=Bullet_Patterns"><span></span></a></span></td></tr>
-<tr><td id="6" class="infoYL"><b>06</b></td><td id="Night_Terror" colspan="2" class="title">Night Terror<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Panic Bomb&amp;fromwiki=Bullet_Patterns"><span title="搜索相似同人曲"></span></a></span></td><td class="time">01:04</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./Panic_Bomb.md" title="Panic Bomb">Panic Bomb</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Panic Bomb&amp;fromwiki=Bullet_Patterns"><span></span></a></span></td></tr>
-<tr><td id="7" class="infoYL"><b>07</b></td><td id="Dots_and_Dashes" colspan="2" class="title">Dots and Dashes<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Panic Bomb&amp;fromwiki=Bullet_Patterns"><span title="搜索相似同人曲"></span></a></span></td><td class="time">01:45</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./Panic_Bomb.md" title="Panic Bomb">Panic Bomb</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Panic Bomb&amp;fromwiki=Bullet_Patterns"><span></span></a></span></td></tr>
-<tr><td id="8" class="infoYL"><b>08</b></td><td id="Made_Like_This" colspan="2" class="title">Made Like This<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Panic Bomb&amp;fromwiki=Bullet_Patterns"><span title="搜索相似同人曲"></span></a></span></td><td class="time">02:03</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./Panic_Bomb.md" title="Panic Bomb">Panic Bomb</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Panic Bomb&amp;fromwiki=Bullet_Patterns"><span></span></a></span></td></tr>
-<tr><td id="9" class="infoYL"><b>09</b></td><td id="Nitetime" colspan="2" class="title">Nitetime<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Panic Bomb&amp;fromwiki=Bullet_Patterns"><span title="搜索相似同人曲"></span></a></span></td><td class="time">01:57</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./Panic_Bomb.md" title="Panic Bomb">Panic Bomb</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Panic Bomb&amp;fromwiki=Bullet_Patterns"><span></span></a></span></td></tr>
-<tr><td id="10" class="infoYL"><b>10</b></td><td id="Bitter_Taste" colspan="2" class="title">Bitter Taste<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Panic Bomb&amp;fromwiki=Bullet_Patterns"><span title="搜索相似同人曲"></span></a></span></td><td class="time">01:08</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./Panic_Bomb.md" title="Panic Bomb">Panic Bomb</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Panic Bomb&amp;fromwiki=Bullet_Patterns"><span></span></a></span></td></tr>
-<tr><td id="11" class="infoYL"><b>11</b></td><td id="Beneath_the_Cherry_Blossoms_(Bodies)_Pt._II" colspan="2" class="title">Beneath the Cherry Blossoms (Bodies) Pt. II<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Panic Bomb&amp;fromwiki=Bullet_Patterns"><span title="搜索相似同人曲"></span></a></span></td><td class="time">01:47</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./Panic_Bomb.md" title="Panic Bomb">Panic Bomb</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Panic Bomb&amp;fromwiki=Bullet_Patterns"><span></span></a></span></td></tr></tbody></table>
-
+<table><tbody><tr><td id="1" class="infoYL"><b>01</b></td><td id="Poison_Pen_Letter/Domino" colspan="2" class="title">Poison Pen Letter/Domino</td><td class="time">04:24</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./Panic_Bomb.md" title="Panic Bomb">Panic Bomb</a></td></tr>
+<tr><td id="2" class="infoYL"><b>02</b></td><td id="¿Que?" colspan="2" class="title">¿Que?</td><td class="time">01:25</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./Panic_Bomb.md" title="Panic Bomb">Panic Bomb</a></td></tr>
+<tr><td id="3" class="infoYL"><b>03</b></td><td id="Say_What_You_Want_to_Say" colspan="2" class="title">Say What You Want to Say</td><td class="time">01:31</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./Panic_Bomb.md" title="Panic Bomb">Panic Bomb</a></td></tr>
+<tr><td id="4" class="infoYD"><b>04</b></td><td id="Beneath_the_Cherry_Blossoms_(Bodies)" colspan="2" class="title">Beneath the Cherry Blossoms (Bodies)</td><td class="time">02:22</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Panic_Bomb.md" title="Panic Bomb">Panic Bomb</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./幽雅地绽放吧，墨染的樱花_～_Border_of_Life.md" class="mw-redirect" title="幽雅に咲かせ、墨染の桜 ～ Border of Life">幽雅に咲かせ、墨染の桜　～ Border of Life</a></div><div class="source"><a href="./东方妖妖梦.md" class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr>
+<tr><td id="5" class="infoYL"><b>05</b></td><td id="More_Mirrors" colspan="2" class="title">More Mirrors</td><td class="time">01:52</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./Panic_Bomb.md" title="Panic Bomb">Panic Bomb</a></td></tr>
+<tr><td id="6" class="infoYL"><b>06</b></td><td id="Night_Terror" colspan="2" class="title">Night Terror</td><td class="time">01:04</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./Panic_Bomb.md" title="Panic Bomb">Panic Bomb</a></td></tr>
+<tr><td id="7" class="infoYL"><b>07</b></td><td id="Dots_and_Dashes" colspan="2" class="title">Dots and Dashes</td><td class="time">01:45</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./Panic_Bomb.md" title="Panic Bomb">Panic Bomb</a></td></tr>
+<tr><td id="8" class="infoYL"><b>08</b></td><td id="Made_Like_This" colspan="2" class="title">Made Like This</td><td class="time">02:03</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./Panic_Bomb.md" title="Panic Bomb">Panic Bomb</a></td></tr>
+<tr><td id="9" class="infoYL"><b>09</b></td><td id="Nitetime" colspan="2" class="title">Nitetime</td><td class="time">01:57</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./Panic_Bomb.md" title="Panic Bomb">Panic Bomb</a></td></tr>
+<tr><td id="10" class="infoYL"><b>10</b></td><td id="Bitter_Taste" colspan="2" class="title">Bitter Taste</td><td class="time">01:08</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./Panic_Bomb.md" title="Panic Bomb">Panic Bomb</a></td></tr>
+<tr><td id="11" class="infoYL"><b>11</b></td><td id="Beneath_the_Cherry_Blossoms_(Bodies)_Pt._II" colspan="2" class="title">Beneath the Cherry Blossoms (Bodies) Pt. II</td><td class="time">01:47</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./Panic_Bomb.md" title="Panic Bomb">Panic Bomb</a></td></tr></tbody></table>
 
 
 ## 评论
-
-
-
 
 ---
 

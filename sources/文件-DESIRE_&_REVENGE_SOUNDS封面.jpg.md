@@ -1,6 +1,6 @@
 # 文件:DESIRE_&_REVENGE_SOUNDS封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e1\ns6%3ADESIRE_%26_REVENGE_SOUNDS%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e1\ns6%3ADESIRE_%26_REVENGE_SOUNDS%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ちょこふぁん | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [DESIRE &amp; REVENGE SOUNDS](./DESIRE_&_REVENGE_SOUNDS.md)  
-该封面包含的角色：- [霍青娥](./霍青娥.md)- [鬼人正邪](./鬼人正邪.md)
-
-
-
+- [DESIRE & REVENGE SOUNDS](./DESIRE_&_REVENGE_SOUNDS.md)该封面包含的角色：
+- [霍青娥](./霍青娥.md)
+- [鬼人正邪](./鬼人正邪.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Flowery封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\52\ns6%3AFlowery%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\52\ns6%3AFlowery%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 vita | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@ vita | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Flowery](./Flowery.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
+- [Flowery](./Flowery.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
   
-源地址：[direct image link](https://www.suruga-ya.jp/database/pics_light/game/zhore62553.jpg), [source page (suruga-ya ID: ZHORE62553)](https://www.suruga-ya.jp/product/detail/ZHORE62553)
-  
-
-
-
-
+源地址：[direct image link](https://www.suruga-ya.jp/database/pics_light/game/zhore62553.jpg), [source page (suruga-ya ID: ZHORE62553)](https://www.suruga-ya.jp/product/detail/ZHORE62553)  
 
 ---
 

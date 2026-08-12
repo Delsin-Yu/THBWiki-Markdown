@@ -1,12 +1,8 @@
 # 文件:GROUND-Zerobanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bb\ns6%3AGROUND-Zerobanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bb\ns6%3AGROUND-Zerobanner%2Epng.html -->
 
 GROUND-Zero | 社团LOGO
-
-
-
-
 
 
 ---

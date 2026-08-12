@@ -1,12 +1,8 @@
 # 文件:LUCIOLE＊CAFEbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\29\ns6%3ALUCIOLE%EF%BC%8ACAFEbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\29\ns6%3ALUCIOLE%EF%BC%8ACAFEbanner%2Epng.html -->
 
 LUCIOLE＊CAFE | 社团LOGO
-
-
-
-
 
 
 ---

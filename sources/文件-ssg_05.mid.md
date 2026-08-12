@@ -1,16 +1,12 @@
 # 文件:ssg_05.mid
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\15\ns6%3Assg_05%2Emid.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\15\ns6%3Assg_05%2Emid.html -->
 
 Disastrous_Gemini | 东方幻想的音乐 | 官方MIDI | 秋霜玉
 
   
 ディザストラスジェミニ 秋霜玉2面Boss，めい和まい的主题曲。 东方的幻想音乐版，与原秋霜玉版本有出入！
   
-
-
-
-
 
 ---
 

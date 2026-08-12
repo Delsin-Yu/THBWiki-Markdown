@@ -1,16 +1,11 @@
 # 文件:遊閑地banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e6\ns6%3A%E9%81%8A%E9%96%91%E5%9C%B0banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e6\ns6%3A%E9%81%8A%E9%96%91%E5%9C%B0banner%2Ejpg.html -->
 
 社团LOGO | 遊閑地
 
   
-源地址：[[1]](http://youkanchi.shikisokuzekuu.net/banner/a.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://youkanchi.shikisokuzekuu.net/banner/a.jpg)  
 
 ---
 

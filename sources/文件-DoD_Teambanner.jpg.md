@@ -1,18 +1,13 @@
 # 文件:DoD_Teambanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\25\ns6%3ADoD_Teambanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\25\ns6%3ADoD_Teambanner%2Ejpg.html -->
 
 DoD_Team | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[direct image link](https://web.archive.org/web/20111219073111im_/http://vocahou.ru/img/dod.jpg), [source page](https://web.archive.org/web/20120624071621/http://vocahou.ru/)
-  
-
-
-
-
+源地址：[direct image link](https://web.archive.org/web/20111219073111im_/http://vocahou.ru/img/dod.jpg), [source page](https://web.archive.org/web/20120624071621/http://vocahou.ru/)  
 
 ---
 

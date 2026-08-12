@@ -1,6 +1,6 @@
 # 文件:Sword_of_Ghost封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\66\ns6%3ASword_of_Ghost%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\66\ns6%3ASword_of_Ghost%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 S09M | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ S09M | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Sword of Ghost](./Sword_of_Ghost.md)  
-该封面包含的角色：- [蕾蒂·霍瓦特洛克](./蕾蒂·霍瓦特洛克.md)
-
-
-
+- [Sword of Ghost](./Sword_of_Ghost.md)该封面包含的角色：
+- [蕾蒂·霍瓦特洛克](./蕾蒂·霍瓦特洛克.md)
 
 
 ---

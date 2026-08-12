@@ -1,14 +1,11 @@
 # 文件:あかいろカチューシャbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7d\ns6%3A%E3%81%82%E3%81%8B%E3%81%84%E3%82%8D%E3%82%AB%E3%83%81%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A3banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7d\ns6%3A%E3%81%82%E3%81%8B%E3%81%84%E3%82%8D%E3%82%AB%E3%83%81%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A3banner%2Ejpg.html -->
 
 あかいろカチューシャ | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

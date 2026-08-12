@@ -1,6 +1,6 @@
 # 文件:Here_The_Light_Shines封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5a\ns6%3AHere_The_Light_Shines%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5a\ns6%3AHere_The_Light_Shines%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 9bFOX | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Here The Light Shines](./Here_The_Light_Shines.md)  
-该封面包含的角色：- [古明地恋](./古明地恋.md)
-
-
-
+- [Here The Light Shines](./Here_The_Light_Shines.md)该封面包含的角色：
+- [古明地恋](./古明地恋.md)
 
 
 ---

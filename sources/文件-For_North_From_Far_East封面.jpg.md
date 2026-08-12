@@ -1,6 +1,6 @@
 # 文件:For_North_From_Far_East封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\48\ns6%3AFor_North_From_Far_East%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\48\ns6%3AFor_North_From_Far_East%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 UtAGe | 专辑封面 | 封面图片
 
@@ -10,11 +10,10 @@ UtAGe | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [For North From Far East](./For_North_From_Far_East.md)  
-该封面包含的角色：- [东风谷早苗](./东风谷早苗.md)- [寅丸星](./寅丸星.md)- [圣白莲](./圣白莲.md)
-
-
-
+- [For North From Far East](./For_North_From_Far_East.md)该封面包含的角色：
+- [东风谷早苗](./东风谷早苗.md)
+- [寅丸星](./寅丸星.md)
+- [圣白莲](./圣白莲.md)
 
 
 ---

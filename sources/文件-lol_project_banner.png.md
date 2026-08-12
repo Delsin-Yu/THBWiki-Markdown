@@ -1,14 +1,11 @@
 # 文件:lol_project_banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ee\ns6%3Alol_project_banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ee\ns6%3Alol_project_banner%2Epng.html -->
 
 lol_project | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

@@ -1,16 +1,12 @@
 # 模板:TheOrigins
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\3\37\ns10%3ATheOrigins.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\3\37\ns10%3ATheOrigins.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

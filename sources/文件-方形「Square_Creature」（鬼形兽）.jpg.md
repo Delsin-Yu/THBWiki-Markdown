@@ -1,12 +1,8 @@
 # 文件:方形「Square_Creature」（鬼形兽）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\76\ns6%3A%E6%96%B9%E5%BD%A2%E3%80%8CSquare_Creature%E3%80%8D%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\76\ns6%3A%E6%96%B9%E5%BD%A2%E3%80%8CSquare_Creature%E3%80%8D%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%EF%BC%89%2Ejpg.html -->
 
 东方鬼形兽 | 埴安神袿姬 | 敌机符卡
-
-
-
-
 
 
 ---

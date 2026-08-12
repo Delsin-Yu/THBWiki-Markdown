@@ -1,6 +1,6 @@
 # 文件:Darkest_Nights_&_Brightest_Smiles封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9e\ns6%3ADarkest_Nights_%26_Brightest_Smiles%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9e\ns6%3ADarkest_Nights_%26_Brightest_Smiles%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Loli-Hunter_Music | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Loli-Hunter_Music | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Darkest Nights &amp; Brightest Smiles](./Darkest_Nights_&_Brightest_Smiles.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
-
-
-
+- [Darkest Nights & Brightest Smiles](./Darkest_Nights_&_Brightest_Smiles.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:吾輩はI'm_cat封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a5\ns6%3A%E5%90%BE%E8%BC%A9%E3%81%AFI%27m_cat%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a5\ns6%3A%E5%90%BE%E8%BC%A9%E3%81%AFI%27m_cat%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 まゆげストリーム | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [吾輩はI'm cat](./吾輩はI'm_cat.md)  
-该封面包含的角色：- [橙](./橙.md)
-
-
-
+- [吾輩はI'm cat](./吾輩はI'm_cat.md)该封面包含的角色：
+- [橙](./橙.md)
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:THD2鬼神镣铐.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a9\ns6%3ATHD2%E9%AC%BC%E7%A5%9E%E9%95%A3%E9%93%90%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a9\ns6%3ATHD2%E9%AC%BC%E7%A5%9E%E9%95%A3%E9%93%90%2Epng.html -->
 
 AvalonStudioOfficial
-
-
-
-
 
 
 ---

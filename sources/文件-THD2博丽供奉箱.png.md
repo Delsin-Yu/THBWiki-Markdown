@@ -1,12 +1,8 @@
 # 文件:THD2博丽供奉箱.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\68\ns6%3ATHD2%E5%8D%9A%E4%B8%BD%E4%BE%9B%E5%A5%89%E7%AE%B1%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\68\ns6%3ATHD2%E5%8D%9A%E4%B8%BD%E4%BE%9B%E5%A5%89%E7%AE%B1%2Epng.html -->
 
 THD2
-
-
-
-
 
 
 ---

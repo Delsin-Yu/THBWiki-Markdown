@@ -1,6 +1,6 @@
 # 文件:东方流汐阁_~_Lost_Kingdom_and_Unreal_Picture封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d8\ns6%3A%E4%B8%9C%E6%96%B9%E6%B5%81%E6%B1%90%E9%98%81_%7E_Lost_Kingdom_and_Unreal_Picture%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d8\ns6%3A%E4%B8%9C%E6%96%B9%E6%B5%81%E6%B1%90%E9%98%81_%7E_Lost_Kingdom_and_Unreal_Picture%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 FUN_webjectF | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ FUN_webjectF | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [东方流汐阁 ~ Lost Kingdom and Unreal Picture](./东方流汐阁_~_Lost_Kingdom_and_Unreal_Picture.md)  
-该封面包含的角色：- 原创角色 (未找到链接)
-
-
-
+- [东方流汐阁 ~ Lost Kingdom and Unreal Picture](./东方流汐阁_~_Lost_Kingdom_and_Unreal_Picture.md)该封面包含的角色：
+- 原创角色 (未找到链接)
 
 
 ---

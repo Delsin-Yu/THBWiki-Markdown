@@ -1,18 +1,13 @@
 # 文件:ウサギレジデンスlogo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c3\ns6%3A%E3%82%A6%E3%82%B5%E3%82%AE%E3%83%AC%E3%82%B8%E3%83%87%E3%83%B3%E3%82%B9logo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c3\ns6%3A%E3%82%A6%E3%82%B5%E3%82%AE%E3%83%AC%E3%82%B8%E3%83%87%E3%83%B3%E3%82%B9logo%2Ejpg.html -->
 
 ウサギレジデンス | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[from circle Twitter avatar](https://pbs.twimg.com/profile_images/1363449492247207938/7KWpQNoV.jpg)
-  
-
-
-
-
+源地址：[from circle Twitter avatar](https://pbs.twimg.com/profile_images/1363449492247207938/7KWpQNoV.jpg)  
 
 ---
 

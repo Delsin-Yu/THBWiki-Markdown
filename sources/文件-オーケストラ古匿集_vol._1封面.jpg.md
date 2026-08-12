@@ -1,6 +1,6 @@
 # 文件:オーケストラ古匿集_vol._1封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\10\ns6%3A%E3%82%AA%E3%83%BC%E3%82%B1%E3%82%B9%E3%83%88%E3%83%A9%E5%8F%A4%E5%8C%BF%E9%9B%86_vol%2E_1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\10\ns6%3A%E3%82%AA%E3%83%BC%E3%82%B1%E3%82%B9%E3%83%88%E3%83%A9%E5%8F%A4%E5%8C%BF%E9%9B%86_vol%2E_1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 外柿山 | 封面图片
 
@@ -10,11 +10,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [オーケストラ古匿集 vol. 1](./オーケストラ古匿集_vol._1.md)  
-该封面包含的角色：- [魅魔](./魅魔.md)- [博丽灵梦（旧作角色）](./博丽灵梦（旧作角色）.md)- [雾雨魔理沙（旧作角色）](./雾雨魔理沙（旧作角色）.md)
-
-
-
+- [オーケストラ古匿集 vol. 1](./オーケストラ古匿集_vol._1.md)该封面包含的角色：
+- [魅魔](./魅魔.md)
+- [博丽灵梦（旧作角色）](./博丽灵梦（旧作角色）.md)
+- [雾雨魔理沙（旧作角色）](./雾雨魔理沙（旧作角色）.md)
 
 
 ---

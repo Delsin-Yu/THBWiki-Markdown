@@ -1,6 +1,6 @@
 # 文件:NEW_HORI-ZUN：_English_Course_3封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b9\ns6%3ANEW_HORI-ZUN%EF%BC%9A_English_Course_3%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b9\ns6%3ANEW_HORI-ZUN%EF%BC%9A_English_Course_3%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ddiction | 同人志封面 | 封面图片
 
@@ -10,11 +10,9 @@ ddiction | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [NEW HORI-ZUN： English Course 3](./NEW_HORI-ZUN：_English_Course_3.md)  
-该封面包含的角色：- [火焰猫燐](./火焰猫燐.md)- [古明地恋](./古明地恋.md)
-
-
-
+- [NEW HORI-ZUN： English Course 3](./NEW_HORI-ZUN：_English_Course_3.md)该封面包含的角色：
+- [火焰猫燐](./火焰猫燐.md)
+- [古明地恋](./古明地恋.md)
 
 
 ---

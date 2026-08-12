@@ -1,12 +1,8 @@
 # 文件:萌少女領域banner2.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\60\ns6%3A%E8%90%8C%E5%B0%91%E5%A5%B3%E9%A0%98%E5%9F%9Fbanner2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\60\ns6%3A%E8%90%8C%E5%B0%91%E5%A5%B3%E9%A0%98%E5%9F%9Fbanner2%2Epng.html -->
 
 社团LOGO | 萌少女領域
-
-
-
-
 
 
 ---

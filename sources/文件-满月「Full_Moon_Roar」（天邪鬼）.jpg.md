@@ -1,12 +1,8 @@
 # 文件:满月「Full_Moon_Roar」（天邪鬼）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\04\ns6%3A%E6%BB%A1%E6%9C%88%E3%80%8CFull_Moon_Roar%E3%80%8D%EF%BC%88%E5%A4%A9%E9%82%AA%E9%AC%BC%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\04\ns6%3A%E6%BB%A1%E6%9C%88%E3%80%8CFull_Moon_Roar%E3%80%8D%EF%BC%88%E5%A4%A9%E9%82%AA%E9%AC%BC%EF%BC%89%2Ejpg.html -->
 
 今泉影狼 | 弹幕天邪鬼 | 敌机符卡
-
-
-
-
 
 
 ---

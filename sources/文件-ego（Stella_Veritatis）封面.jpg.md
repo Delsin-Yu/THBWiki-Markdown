@@ -1,6 +1,6 @@
 # 文件:ego（Stella_Veritatis）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dd\ns6%3Aego%EF%BC%88Stella_Veritatis%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dd\ns6%3Aego%EF%BC%88Stella_Veritatis%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Stella_Veritatis | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Stella_Veritatis | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [ego（Stella Veritatis）](./ego（Stella_Veritatis）.md)  
-该封面包含的角色：- [赤蛮奇](./赤蛮奇.md)
-
-
-
+- [ego（Stella Veritatis）](./ego（Stella_Veritatis）.md)该封面包含的角色：
+- [赤蛮奇](./赤蛮奇.md)
 
 
 ---

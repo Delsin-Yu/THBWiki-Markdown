@@ -1,12 +1,8 @@
 # 文件:ですのや☆banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4c\ns6%3A%E3%81%A7%E3%81%99%E3%81%AE%E3%82%84%E2%98%86banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4c\ns6%3A%E3%81%A7%E3%81%99%E3%81%AE%E3%82%84%E2%98%86banner%2Ejpg.html -->
 
 ですのや☆ | 社团LOGO
-
-
-
-
 
 
 ---

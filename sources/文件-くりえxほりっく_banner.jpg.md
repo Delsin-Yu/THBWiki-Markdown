@@ -1,12 +1,8 @@
 # 文件:くりえxほりっく_banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dd\ns6%3A%E3%81%8F%E3%82%8A%E3%81%88x%E3%81%BB%E3%82%8A%E3%81%A3%E3%81%8F_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dd\ns6%3A%E3%81%8F%E3%82%8A%E3%81%88x%E3%81%BB%E3%82%8A%E3%81%A3%E3%81%8F_banner%2Ejpg.html -->
 
 くりえxほりっく | 社团LOGO
-
-
-
-
 
 
 ---

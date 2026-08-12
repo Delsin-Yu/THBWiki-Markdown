@@ -1,12 +1,8 @@
 # 文件:哆来咪·苏伊特（凭依华Spell_Card立绘）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4b\ns6%3A%E5%93%86%E6%9D%A5%E5%92%AA%C2%B7%E8%8B%8F%E4%BC%8A%E7%89%B9%EF%BC%88%E5%87%AD%E4%BE%9D%E5%8D%8ESpell_Card%E7%AB%8B%E7%BB%98%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4b\ns6%3A%E5%93%86%E6%9D%A5%E5%92%AA%C2%B7%E8%8B%8F%E4%BC%8A%E7%89%B9%EF%BC%88%E5%87%AD%E4%BE%9D%E5%8D%8ESpell_Card%E7%AB%8B%E7%BB%98%EF%BC%89%2Epng.html -->
 
 东方凭依华 | 哆来咪·苏伊特 | 官方游戏立绘 | 春河萌绘
-
-
-
-
 
 
 ---

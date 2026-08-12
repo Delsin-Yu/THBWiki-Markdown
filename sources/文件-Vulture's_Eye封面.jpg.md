@@ -1,6 +1,6 @@
 # 文件:Vulture's_Eye封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e3\ns6%3AVulture%27s_Eye%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e3\ns6%3AVulture%27s_Eye%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 DualInsomiNa | 专辑封面 | 封面图片
 
@@ -13,12 +13,7 @@ DualInsomiNa | 专辑封面 | 封面图片
 - [Vulture's Eye](./Vulture's_Eye.md)
 
   
-源地址：[direct image link (original size)](http://p2.music.126.net/yPUkRp-7ywv-Li2mLDGIuA==/109951164080195579.jpg), [source page (网易云音乐)](https://music.163.com/#/album?id=79192932)
-  
-
-
-
-
+源地址：[direct image link (original size)](http://p2.music.126.net/yPUkRp-7ywv-Li2mLDGIuA==/109951164080195579.jpg), [source page (网易云音乐)](https://music.163.com/#/album?id=79192932)  
 
 ---
 

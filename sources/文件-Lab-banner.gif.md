@@ -1,12 +1,8 @@
 # 文件:Lab*banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\92\ns6%3ALab%2Abanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\92\ns6%3ALab%2Abanner%2Egif.html -->
 
 Lab＊ | 社团LOGO
-
-
-
-
 
 
 ---

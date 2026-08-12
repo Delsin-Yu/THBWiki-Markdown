@@ -1,12 +1,8 @@
 # 文件:长沙THOLOGO.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\52\ns6%3A%E9%95%BF%E6%B2%99THOLOGO%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\52\ns6%3A%E9%95%BF%E6%B2%99THOLOGO%2Epng.html -->
 
 东方烛夜凝 | 活动LOGO
-
-
-
-
 
 
 ---

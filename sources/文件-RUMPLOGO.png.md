@@ -1,12 +1,8 @@
 # 文件:RUMPLOGO.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\04\ns6%3ARUMPLOGO%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\04\ns6%3ARUMPLOGO%2Epng.html -->
 
 RUMP | 社团LOGO
-
-
-
-
 
 
 ---

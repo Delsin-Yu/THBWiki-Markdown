@@ -1,6 +1,6 @@
 # 文件:Twin_Twinkle_Flowers!!封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\96\ns6%3ATwin_Twinkle_Flowers%21%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\96\ns6%3ATwin_Twinkle_Flowers%21%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Undefined_Field | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Undefined_Field | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Twin Twinkle Flowers!!](./Twin_Twinkle_Flowers!!.md)  
-该封面包含的角色：- [莉莉霍瓦特](./莉莉霍瓦特.md)
-
-
-
+- [Twin Twinkle Flowers!!](./Twin_Twinkle_Flowers!!.md)该封面包含的角色：
+- [莉莉霍瓦特](./莉莉霍瓦特.md)
 
 
 ---

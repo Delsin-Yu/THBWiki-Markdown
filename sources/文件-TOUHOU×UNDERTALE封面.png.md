@@ -1,6 +1,6 @@
 # 文件:TOUHOU×UNDERTALE封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\12\ns6%3ATOUHOU%C3%97UNDERTALE%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\12\ns6%3ATOUHOU%C3%97UNDERTALE%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 同人志封面 | 封面图片 | 描楽酔
 
@@ -10,16 +10,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [TOUHOU×UNDERTALE](./TOUHOU×UNDERTALE.md)  
-该封面包含的角色：- [黑谷山女](./黑谷山女.md)- Temmie（Undertale） (未找到链接)
+- [TOUHOU×UNDERTALE](./TOUHOU×UNDERTALE.md)该封面包含的角色：
+- [黑谷山女](./黑谷山女.md)
+- Temmie（Undertale） (未找到链接)
 
   
-[Pixiv artwork ID: 58309127 (original size)](https://www.pixiv.net/artworks/58309127)
-  
-
-
-
-
+[Pixiv artwork ID: 58309127 (original size)](https://www.pixiv.net/artworks/58309127)  
 
 ---
 

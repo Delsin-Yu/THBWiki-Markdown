@@ -1,16 +1,12 @@
 # 模板:CJ
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\4\4a\ns10%3ACJ.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\4\4a\ns10%3ACJ.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

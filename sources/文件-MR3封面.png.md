@@ -1,6 +1,6 @@
 # 文件:MR3封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\49\ns6%3AMR3%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\49\ns6%3AMR3%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 梶迫小道具店
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [MR3](./MR3.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
+- [MR3](./MR3.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-源地址：[[1]](http://static.tumblr.com/05cd0403b40ae07f74a1f2e6b8172f7b/ceutwp6/jUunn4yao/tumblr_static_8w68tft93jsw8kk00wc84084g.png)
-  
-
-
-
-
+源地址：[\[1\]](http://static.tumblr.com/05cd0403b40ae07f74a1f2e6b8172f7b/ceutwp6/jUunn4yao/tumblr_static_8w68tft93jsw8kk00wc84084g.png)  
 
 ---
 

@@ -1,12 +1,8 @@
 # 文件:妖器「Dark_Spark」（辉针城）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\52\ns6%3A%E5%A6%96%E5%99%A8%E3%80%8CDark_Spark%E3%80%8D%EF%BC%88%E8%BE%89%E9%92%88%E5%9F%8E%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\52\ns6%3A%E5%A6%96%E5%99%A8%E3%80%8CDark_Spark%E3%80%8D%EF%BC%88%E8%BE%89%E9%92%88%E5%9F%8E%EF%BC%89%2Epng.html -->
 
 东方辉针城 | 自机符卡 | 雾雨魔理沙
-
-
-
-
 
 
 ---

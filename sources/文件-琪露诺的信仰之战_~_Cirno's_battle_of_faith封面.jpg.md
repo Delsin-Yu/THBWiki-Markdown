@@ -1,6 +1,6 @@
 # 文件:琪露诺的信仰之战_~_Cirno's_battle_of_faith封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f6\ns6%3A%E7%90%AA%E9%9C%B2%E8%AF%BA%E7%9A%84%E4%BF%A1%E4%BB%B0%E4%B9%8B%E6%88%98_%7E_Cirno%27s_battle_of_faith%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f6\ns6%3A%E7%90%AA%E9%9C%B2%E8%AF%BA%E7%9A%84%E4%BF%A1%E4%BB%B0%E4%B9%8B%E6%88%98_%7E_Cirno%27s_battle_of_faith%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 封面图片 | 樱游社 | 软件封面
 
@@ -10,11 +10,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [琪露诺的信仰之战 ~ Cirno's battle of faith](./琪露诺的信仰之战_~_Cirno's_battle_of_faith.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)- [圣白莲](./圣白莲.md)- [丰聪耳神子](./丰聪耳神子.md)
-
-
-
+- [琪露诺的信仰之战 ~ Cirno's battle of faith](./琪露诺的信仰之战_~_Cirno's_battle_of_faith.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
+- [圣白莲](./圣白莲.md)
+- [丰聪耳神子](./丰聪耳神子.md)
 
 
 ---

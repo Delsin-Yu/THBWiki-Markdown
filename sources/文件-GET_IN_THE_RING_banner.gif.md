@@ -1,12 +1,8 @@
 # 文件:GET_IN_THE_RING_banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5a\ns6%3AGET_IN_THE_RING_banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5a\ns6%3AGET_IN_THE_RING_banner%2Egif.html -->
 
 GET_IN_THE_RING | 社团LOGO
-
-
-
-
 
 
 ---

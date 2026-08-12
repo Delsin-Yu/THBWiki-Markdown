@@ -1,16 +1,11 @@
 # 文件:風鈴ぼるけいのbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4c\ns6%3A%E9%A2%A8%E9%88%B4%E3%81%BC%E3%82%8B%E3%81%91%E3%81%84%E3%81%AEbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4c\ns6%3A%E9%A2%A8%E9%88%B4%E3%81%BC%E3%82%8B%E3%81%91%E3%81%84%E3%81%AEbanner%2Epng.html -->
 
 社团LOGO | 風鈴ぼるけいの
 
   
-源地址：[[1]](http://r-volcano.jp/application/files/2314/5077/8074/a7303886ff1c30f32417f2012532d9d9.png)
-  
-
-
-
-
+源地址：[\[1\]](http://r-volcano.jp/application/files/2314/5077/8074/a7303886ff1c30f32417f2012532d9d9.png)  
 
 ---
 

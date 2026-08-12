@@ -1,6 +1,6 @@
 # 文件:人恋し秋の日の祭り-TABLETALK_ROLE_PLAY_in_TOHO_19-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\83\ns6%3A%E4%BA%BA%E6%81%8B%E3%81%97%E7%A7%8B%E3%81%AE%E6%97%A5%E3%81%AE%E7%A5%AD%E3%82%8A-TABLETALK_ROLE_PLAY_in_TOHO_19-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\83\ns6%3A%E4%BA%BA%E6%81%8B%E3%81%97%E7%A7%8B%E3%81%AE%E6%97%A5%E3%81%AE%E7%A5%AD%E3%82%8A-TABLETALK_ROLE_PLAY_in_TOHO_19-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 天秤亭 | 封面图片
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [人恋し秋の日の祭り-TABLETALK ROLE PLAY in TOHO 19-](./人恋し秋の日の祭り-TABLETALK_ROLE_PLAY_in_TOHO_19-.md)  
-该封面包含的角色：- [秋静叶](./秋静叶.md)- [秋穰子](./秋穰子.md)
-
-
-
+- [人恋し秋の日の祭り-TABLETALK ROLE PLAY in TOHO 19-](./人恋し秋の日の祭り-TABLETALK_ROLE_PLAY_in_TOHO_19-.md)该封面包含的角色：
+- [秋静叶](./秋静叶.md)
+- [秋穰子](./秋穰子.md)
 
 
 ---

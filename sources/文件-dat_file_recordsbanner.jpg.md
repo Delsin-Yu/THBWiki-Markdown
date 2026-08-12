@@ -1,16 +1,11 @@
 # 文件:dat_file_recordsbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ca\ns6%3Adat_file_recordsbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ca\ns6%3Adat_file_recordsbanner%2Ejpg.html -->
 
 dat_file_records | 社团LOGO
 
   
-源地址：[[1]](http://static.tumblr.com/23c893a3805381bd437f8379c6d3aa76/e3lazzy/qlcn4fi06/tumblr_static_an22jmbw5q0wgcg8owwgsw408.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://static.tumblr.com/23c893a3805381bd437f8379c6d3aa76/e3lazzy/qlcn4fi06/tumblr_static_an22jmbw5q0wgcg8owwgsw408.jpg)  
 
 ---
 

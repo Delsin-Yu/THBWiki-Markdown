@@ -1,6 +1,6 @@
 # 文件:RAINBOW_CORE封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\18\ns6%3ARAINBOW_CORE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\18\ns6%3ARAINBOW_CORE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ESQUARIA | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ ESQUARIA | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [RAINBOW CORE](./RAINBOW_CORE.md)  
-该封面包含的角色：- [天弓千亦](./天弓千亦.md)
-
-
-
+- [RAINBOW CORE](./RAINBOW_CORE.md)该封面包含的角色：
+- [天弓千亦](./天弓千亦.md)
 
 
 ---

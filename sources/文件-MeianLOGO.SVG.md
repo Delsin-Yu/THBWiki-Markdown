@@ -1,14 +1,11 @@
 # 文件:MeianLOGO.SVG
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5e\ns6%3AMeianLOGO%2ESVG.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5e\ns6%3AMeianLOGO%2ESVG.html -->
 
 Meian | 企业LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

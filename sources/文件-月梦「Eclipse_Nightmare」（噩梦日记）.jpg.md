@@ -1,12 +1,8 @@
 # 文件:月梦「Eclipse_Nightmare」（噩梦日记）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\90\ns6%3A%E6%9C%88%E6%A2%A6%E3%80%8CEclipse_Nightmare%E3%80%8D%EF%BC%88%E5%99%A9%E6%A2%A6%E6%97%A5%E8%AE%B0%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\90\ns6%3A%E6%9C%88%E6%A2%A6%E3%80%8CEclipse_Nightmare%E3%80%8D%EF%BC%88%E5%99%A9%E6%A2%A6%E6%97%A5%E8%AE%B0%EF%BC%89%2Ejpg.html -->
 
 克劳恩皮丝 | 敌机符卡 | 秘封噩梦日记
-
-
-
-
 
 
 ---

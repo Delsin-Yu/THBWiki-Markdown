@@ -1,11 +1,10 @@
 # 東方導命樹_～_Mystical_Power_Plant./其他
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\9\93\ns0%3A%E6%9D%B1%E6%96%B9%E5%B0%8E%E5%91%BD%E6%A8%B9_%EF%BD%9E_Mystical_Power_Plant%2E%2F%E5%85%B6%E4%BB%96.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\9\93\ns0%3A%E6%9D%B1%E6%96%B9%E5%B0%8E%E5%91%BD%E6%A8%B9_%EF%BD%9E_Mystical_Power_Plant%2E%2F%E5%85%B6%E4%BB%96.html -->
 
 待完成页面 | 東方邪星章製作チーム
 
 <center>
-
 <table>
 <tbody><tr>
 <td class="mbox-image"><div style="width: 52px;">
@@ -14,9 +13,7 @@
 </tr>
 </tbody></table>
 
-
 </center>
-
 ## 目录
 
 - [1 游戏内标题及说明文字](#游戏内标题及说明文字)
@@ -24,9 +21,6 @@
 - [3 ED和Staff](#ED和Staff)
 - [4 其他细节](#其他细节)
 - [5 注释](#注释)
-
-
-
 
 
 ## 游戏内标题及说明文字
@@ -45,7 +39,7 @@
 </td></tr>
 <tr>
 <td>EASY</td>
-<td><center><big>梅级</big><br>EASY MODE<br><small>令人自信的难度。<br>每日一梅，远离灾难。<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">1</a></sup></small></center></td>
+<td><center><big>梅级</big><br>EASY MODE<br><small>令人自信的难度。<br>每日一梅，远离灾难。<span>[^cite_note-1]</span></small></center></td>
 <td><center><big>梅級</big><br>EASY MODE<br><small>自信のつく難易度。<br>梅はその日の難逃れ。</small></center>
 </td></tr>
 <tr>
@@ -95,7 +89,6 @@
 </td></tr></tbody></table>
 
 
-
 ## 关卡名称
   
 下界 (QLIPHOTH):正立的卡巴拉代表的是平衡，倒立的卡巴拉（Qlippoth）代表的是极性。
@@ -116,19 +109,12 @@
 导命树深渊 (DAATH)：DAATH（知识）。
   
   
-均来自于[百度百科:卡巴拉生命之树](http://baike.baidu.com/view/336334.htm)
-  
-
+均来自于[百度百科:卡巴拉生命之树](http://baike.baidu.com/view/336334.htm)  
 
 ## ED和Staff
 
 ## 其他细节
-
 [^cite_note-1]: “梅はその日の難逃れ”为日本的一句俗语。
-
-
-
-
 
 ---
 

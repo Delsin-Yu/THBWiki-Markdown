@@ -1,6 +1,6 @@
 # 文件:東方音団録_～_Arrange_Circle_Database_ver.1.5封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\95\ns6%3A%E6%9D%B1%E6%96%B9%E9%9F%B3%E5%9B%A3%E9%8C%B2_%EF%BD%9E_Arrange_Circle_Database_ver%2E1%2E5%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\95\ns6%3A%E6%9D%B1%E6%96%B9%E9%9F%B3%E5%9B%A3%E9%8C%B2_%EF%BD%9E_Arrange_Circle_Database_ver%2E1%2E5%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 东方同人CDwiki | 封面图片 | 软件封面
 
@@ -10,16 +10,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方音団録 ～ Arrange Circle Database ver.1.5](./東方音団録_～_Arrange_Circle_Database_ver.1.5.md)  
-该封面包含的角色：- [火焰猫燐](./火焰猫燐.md)- [灵乌路空](./灵乌路空.md)
+- [東方音団録 ～ Arrange Circle Database ver.1.5](./東方音団録_～_Arrange_Circle_Database_ver.1.5.md)该封面包含的角色：
+- [火焰猫燐](./火焰猫燐.md)
+- [灵乌路空](./灵乌路空.md)
 
   
-源地址：[direct image link](http://blackash.net/MyContents/ondan_sp/omote2.jpg), [source page](https://w.atwiki.jp/toho/pages/727.html)
-  
-
-
-
-
+源地址：[direct image link](http://blackash.net/MyContents/ondan_sp/omote2.jpg), [source page](https://w.atwiki.jp/toho/pages/727.html)  
 
 ---
 

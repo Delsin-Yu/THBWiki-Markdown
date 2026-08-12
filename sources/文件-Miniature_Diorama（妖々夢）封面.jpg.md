@@ -1,6 +1,6 @@
 # 文件:Miniature_Diorama（妖々夢）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e2\ns6%3AMiniature_Diorama%EF%BC%88%E5%A6%96%E3%80%85%E5%A4%A2%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e2\ns6%3AMiniature_Diorama%EF%BC%88%E5%A6%96%E3%80%85%E5%A4%A2%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 なないろしっぽ団 | 同人志封面 | 封面图片
 
@@ -10,16 +10,13 @@
 使用了本文件作封面图片的作品：
   
 
-- [Miniature Diorama（妖々夢）](./Miniature_Diorama（妖々夢）.md)  
-该封面包含的角色：- [西行寺幽幽子](./西行寺幽幽子.md)- [八云紫](./八云紫.md)
+- [Miniature Diorama（妖々夢）](./Miniature_Diorama（妖々夢）.md)该封面包含的角色：
+- [西行寺幽幽子](./西行寺幽幽子.md)
+- [八云紫](./八云紫.md)
 
   
 源地址：[link_to_image direct image link], [link_to_page source page (suruga-ya ID: )]
   
-
-
-
-
 
 ---
 

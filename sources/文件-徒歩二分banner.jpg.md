@@ -1,14 +1,11 @@
 # 文件:徒歩二分banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\83\ns6%3A%E5%BE%92%E6%AD%A9%E4%BA%8C%E5%88%86banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\83\ns6%3A%E5%BE%92%E6%AD%A9%E4%BA%8C%E5%88%86banner%2Ejpg.html -->
 
 徒歩二分 | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

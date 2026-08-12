@@ -1,6 +1,6 @@
 # 文件:LOST_CHILD_feat._綾倉盟_-_ZYTOKINE_Remix封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5a\ns6%3ALOST_CHILD_feat%2E_%E7%B6%BE%E5%80%89%E7%9B%9F_-_ZYTOKINE_Remix%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5a\ns6%3ALOST_CHILD_feat%2E_%E7%B6%BE%E5%80%89%E7%9B%9F_-_ZYTOKINE_Remix%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 ZYTOKINE | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ ZYTOKINE | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [LOST CHILD feat. 綾倉盟 - ZYTOKINE Remix](./LOST_CHILD_feat._綾倉盟_-_ZYTOKINE_Remix.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [LOST CHILD feat. 綾倉盟 - ZYTOKINE Remix](./LOST_CHILD_feat._綾倉盟_-_ZYTOKINE_Remix.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

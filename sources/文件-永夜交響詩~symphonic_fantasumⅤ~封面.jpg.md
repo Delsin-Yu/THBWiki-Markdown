@@ -1,6 +1,6 @@
 # 文件:永夜交響詩~symphonic_fantasumⅤ~封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\61\ns6%3A%E6%B0%B8%E5%A4%9C%E4%BA%A4%E9%9F%BF%E8%A9%A9%7Esymphonic_fantasum%E2%85%A4%7E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\61\ns6%3A%E6%B0%B8%E5%A4%9C%E4%BA%A4%E9%9F%BF%E8%A9%A9%7Esymphonic_fantasum%E2%85%A4%7E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 おちゃつぼフィルハーモニック管幻楽団 | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [永夜交響詩~symphonic fantasumⅤ~](./永夜交響詩~symphonic_fantasumⅤ~.md)  
-该封面包含的角色：- [蓬莱山辉夜](./蓬莱山辉夜.md)- [藤原妹红](./藤原妹红.md)
-
-
-
+- [永夜交響詩~symphonic fantasumⅤ~](./永夜交響詩~symphonic_fantasumⅤ~.md)该封面包含的角色：
+- [蓬莱山辉夜](./蓬莱山辉夜.md)
+- [藤原妹红](./藤原妹红.md)
 
 
 ---

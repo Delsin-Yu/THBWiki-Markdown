@@ -1,12 +1,8 @@
 # 文件:poprication_banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f3\ns6%3Apoprication_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f3\ns6%3Apoprication_banner%2Ejpg.html -->
 
 poprication | 社团LOGO
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Autumn_at_Riverside封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d3\ns6%3AAutumn_at_Riverside%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d3\ns6%3AAutumn_at_Riverside%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Unity-Gain | 专辑封面 | 封面图片
 
@@ -11,12 +11,7 @@ Unity-Gain | 专辑封面 | 封面图片
 - [Autumn at Riverside](./Autumn_at_Riverside.md)
 
   
-源地址：[[1]](http://kakeruichi.mydns.jp/event/UTGN-0005/utgn-0005_cd_label_900px.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://kakeruichi.mydns.jp/event/UTGN-0005/utgn-0005_cd_label_900px.jpg)  
 
 ---
 

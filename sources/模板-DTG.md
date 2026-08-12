@@ -1,16 +1,12 @@
 # 模板:DTG
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\2\2a\ns10%3ADTG.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\2\2a\ns10%3ADTG.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

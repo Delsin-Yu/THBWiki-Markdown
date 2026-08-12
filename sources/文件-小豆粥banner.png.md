@@ -1,18 +1,13 @@
 # 文件:小豆粥banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\de\ns6%3A%E5%B0%8F%E8%B1%86%E7%B2%A5banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\de\ns6%3A%E5%B0%8F%E8%B1%86%E7%B2%A5banner%2Epng.html -->
 
 小豆粥 | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[[1]](https://blog-imgs-27.fc2.com/a/z/u/azukiosamitu/br.png)
-  
-
-
-
-
+源地址：[\[1\]](https://blog-imgs-27.fc2.com/a/z/u/azukiosamitu/br.png)  
 
 ---
 

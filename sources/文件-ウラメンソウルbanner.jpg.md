@@ -1,16 +1,11 @@
 # 文件:ウラメンソウルbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b6\ns6%3A%E3%82%A6%E3%83%A9%E3%83%A1%E3%83%B3%E3%82%BD%E3%82%A6%E3%83%ABbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b6\ns6%3A%E3%82%A6%E3%83%A9%E3%83%A1%E3%83%B3%E3%82%BD%E3%82%A6%E3%83%ABbanner%2Ejpg.html -->
 
 ウラメンソウル | 社团LOGO
 
   
-源地址：[[1]](http://livedoor.blogimg.jp/uramen_soul/imgs/3/3/33c5c3d9.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://livedoor.blogimg.jp/uramen_soul/imgs/3/3/33c5c3d9.jpg)  
 
 ---
 

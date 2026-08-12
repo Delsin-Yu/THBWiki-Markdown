@@ -1,6 +1,6 @@
 # 文件:iDolization封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\62\ns6%3AiDolization%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\62\ns6%3AiDolization%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ESQUARIA | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ ESQUARIA | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [iDolization](./iDolization.md)  
-该封面包含的角色：- [埴安神袿姬](./埴安神袿姬.md)- [杖刀偶磨弓](./杖刀偶磨弓.md)
-
-
-
+- [iDolization](./iDolization.md)该封面包含的角色：
+- [埴安神袿姬](./埴安神袿姬.md)
+- [杖刀偶磨弓](./杖刀偶磨弓.md)
 
 
 ---

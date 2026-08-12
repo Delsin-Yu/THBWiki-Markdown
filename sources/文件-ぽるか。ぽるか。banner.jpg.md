@@ -1,18 +1,13 @@
 # 文件:ぽるか。ぽるか。banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8e\ns6%3A%E3%81%BD%E3%82%8B%E3%81%8B%E3%80%82%E3%81%BD%E3%82%8B%E3%81%8B%E3%80%82banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8e\ns6%3A%E3%81%BD%E3%82%8B%E3%81%8B%E3%80%82%E3%81%BD%E3%82%8B%E3%81%8B%E3%80%82banner%2Ejpg.html -->
 
 ぽるか。ぽるか。 | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[direct image link (original uploaded image)](http://polkapolka.suppa.jp/img/banner/polka.jpg), [source page](http://polkapolka.suppa.jp/link.html)
-  
-
-
-
-
+源地址：[direct image link (original uploaded image)](http://polkapolka.suppa.jp/img/banner/polka.jpg), [source page](http://polkapolka.suppa.jp/link.html)  
 
 ---
 

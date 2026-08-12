@@ -1,12 +1,8 @@
 # 文件:永动之龛LOGO.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\79\ns6%3A%E6%B0%B8%E5%8A%A8%E4%B9%8B%E9%BE%9BLOGO%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\79\ns6%3A%E6%B0%B8%E5%8A%A8%E4%B9%8B%E9%BE%9BLOGO%2Epng.html -->
 
 永动之龛 | 社团LOGO
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:ポチ喰ひ_Petit_Winter（2021）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0c\ns6%3A%E3%83%9D%E3%83%81%E5%96%B0%E3%81%B2_Petit_Winter%EF%BC%882021%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0c\ns6%3A%E3%83%9D%E3%83%81%E5%96%B0%E3%81%B2_Petit_Winter%EF%BC%882021%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ポチとてぬぐひ | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [ポチ喰ひ Petit Winter（2021）](./ポチ喰ひ_Petit_Winter（2021）.md)  
-该封面包含的角色：- [八云蓝](./八云蓝.md)
-
-
-
+- [ポチ喰ひ Petit Winter（2021）](./ポチ喰ひ_Petit_Winter（2021）.md)该封面包含的角色：
+- [八云蓝](./八云蓝.md)
 
 
 ---

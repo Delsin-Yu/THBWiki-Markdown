@@ -1,16 +1,12 @@
 # 模板:TOHO_LIVE_PARTY
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\a\a3\ns10%3ATOHO_LIVE_PARTY.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\a\a3\ns10%3ATOHO_LIVE_PARTY.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

@@ -1,14 +1,11 @@
 # 文件:Sky_Bluebanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b1\ns6%3ASky_Bluebanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b1\ns6%3ASky_Bluebanner%2Egif.html -->
 
 Sky_Blue | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

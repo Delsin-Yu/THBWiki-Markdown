@@ -1,6 +1,6 @@
 # 文件:東方即興曲集_～Master_of_record～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e8\ns6%3A%E6%9D%B1%E6%96%B9%E5%8D%B3%E8%88%88%E6%9B%B2%E9%9B%86_%EF%BD%9EMaster_of_record%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e8\ns6%3A%E6%9D%B1%E6%96%B9%E5%8D%B3%E8%88%88%E6%9B%B2%E9%9B%86_%EF%BD%9EMaster_of_record%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Emotional_music | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Emotional_music | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方即興曲集 ～Master of record～](./東方即興曲集_～Master_of_record～.md)  
-该封面包含的角色：- [圣白莲](./圣白莲.md)
-
-
-
+- [東方即興曲集 ～Master of record～](./東方即興曲集_～Master_of_record～.md)该封面包含的角色：
+- [圣白莲](./圣白莲.md)
 
 
 ---

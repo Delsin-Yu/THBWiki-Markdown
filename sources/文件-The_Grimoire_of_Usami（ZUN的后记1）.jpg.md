@@ -1,14 +1,11 @@
 # 文件:The_Grimoire_of_Usami（ZUN的后记1）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\48\ns6%3AThe_Grimoire_of_Usami%EF%BC%88ZUN%E7%9A%84%E5%90%8E%E8%AE%B01%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\48\ns6%3AThe_Grimoire_of_Usami%EF%BC%88ZUN%E7%9A%84%E5%90%8E%E8%AE%B01%EF%BC%89%2Ejpg.html -->
 
 宇佐见的魔法书
 
 
 ## 摘要
-
-
-
 
 ---
 

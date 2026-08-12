@@ -1,6 +1,6 @@
 # 文件:Locus_of_water封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0b\ns6%3ALocus_of_water%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0b\ns6%3ALocus_of_water%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 家主はJanus | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Locus of water](./Locus_of_water.md)  
-该封面包含的角色：- [河城荷取](./河城荷取.md)
-
-
-
+- [Locus of water](./Locus_of_water.md)该封面包含的角色：
+- [河城荷取](./河城荷取.md)
 
 
 ---

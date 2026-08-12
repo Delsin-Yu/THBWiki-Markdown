@@ -1,6 +1,6 @@
 # 文件:TouhouVideo弹幕视频网LOGO.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9e\ns6%3ATouhouVideo%E5%BC%B9%E5%B9%95%E8%A7%86%E9%A2%91%E7%BD%91LOGO%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9e\ns6%3ATouhouVideo%E5%BC%B9%E5%B9%95%E8%A7%86%E9%A2%91%E7%BD%91LOGO%2Ejpg.html -->
 
 TouhouVideo弹幕视频网 | 网站LOGO
 
@@ -9,10 +9,6 @@ TouhouVideo弹幕视频网 | 网站LOGO
   
 源自https://s2.narvii.com/image/swddffdyd7me3koppi7sy5kra73u5z3h_hq.jpg。话说我为什么不去找烤夜雀直接要一个（
   
-
-
-
-
 
 ---
 

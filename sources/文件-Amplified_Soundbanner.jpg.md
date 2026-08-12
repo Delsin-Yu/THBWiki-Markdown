@@ -1,16 +1,11 @@
 # 文件:Amplified_Soundbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e2\ns6%3AAmplified_Soundbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e2\ns6%3AAmplified_Soundbanner%2Ejpg.html -->
 
 Amplified_Sound | 社团LOGO
 
   
-源地址：[[1]](https://amplifiedsound.bandcamp.com/)
-  
-
-
-
-
+源地址：[\[1\]](https://amplifiedsound.bandcamp.com/)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:ウェルカムトゥBack_Door!!封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5b\ns6%3A%E3%82%A6%E3%82%A7%E3%83%AB%E3%82%AB%E3%83%A0%E3%83%88%E3%82%A5Back_Door%21%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5b\ns6%3A%E3%82%A6%E3%82%A7%E3%83%AB%E3%82%AB%E3%83%A0%E3%83%88%E3%82%A5Back_Door%21%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 屑鉄おきば。
 
@@ -8,11 +8,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [ウェルカムトゥBack Door!!](./ウェルカムトゥBack_Door!!.md)  
-该封面包含的角色：- [摩多罗隐岐奈](./摩多罗隐岐奈.md)- [尔子田里乃](./尔子田里乃.md)- [丁礼田舞](./丁礼田舞.md)
-
-
-
+- [ウェルカムトゥBack Door!!](./ウェルカムトゥBack_Door!!.md)该封面包含的角色：
+- [摩多罗隐岐奈](./摩多罗隐岐奈.md)
+- [尔子田里乃](./尔子田里乃.md)
+- [丁礼田舞](./丁礼田舞.md)
 
 
 ---

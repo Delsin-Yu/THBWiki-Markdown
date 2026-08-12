@@ -1,6 +1,6 @@
 # 文件:6th_Anniversary封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d4\ns6%3A6th_Anniversary%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d4\ns6%3A6th_Anniversary%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 bunny_rhyTHm | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ bunny_rhyTHm | 专辑封面 | 封面图片
   
 
 - [6th Anniversary](./6th_Anniversary.md)
-
-
-
 
 
 ---

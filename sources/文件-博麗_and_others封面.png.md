@@ -1,6 +1,6 @@
 # 文件:博麗_and_others封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d7\ns6%3A%E5%8D%9A%E9%BA%97_and_others%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d7\ns6%3A%E5%8D%9A%E9%BA%97_and_others%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 同人志封面 | 封面图片 | 荒御灵
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [博麗 and others](./博麗_and_others.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [博麗 and others](./博麗_and_others.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

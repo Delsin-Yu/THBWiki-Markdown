@@ -1,12 +1,8 @@
 # 文件:始符「Ephemerality_137」（永夜抄）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0b\ns6%3A%E5%A7%8B%E7%AC%A6%E3%80%8CEphemerality_137%E3%80%8D%EF%BC%88%E6%B0%B8%E5%A4%9C%E6%8A%84%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0b\ns6%3A%E5%A7%8B%E7%AC%A6%E3%80%8CEphemerality_137%E3%80%8D%EF%BC%88%E6%B0%B8%E5%A4%9C%E6%8A%84%EF%BC%89%2Epng.html -->
 
 上白泽慧音 | 东方永夜抄 | 敌机符卡
-
-
-
-
 
 
 ---

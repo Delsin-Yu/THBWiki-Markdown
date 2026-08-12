@@ -1,12 +1,8 @@
 # 文件:雾雨魔理沙（谜缘塔）dp.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cc\ns6%3A%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%EF%BC%88%E8%B0%9C%E7%BC%98%E5%A1%94%EF%BC%89dp%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cc\ns6%3A%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%EF%BC%88%E8%B0%9C%E7%BC%98%E5%A1%94%EF%BC%89dp%2Epng.html -->
 
 二次角色立绘 | 阐幽赜书房 | 雾雨魔理沙（谜缘塔）
-
-
-
-
 
 
 ---

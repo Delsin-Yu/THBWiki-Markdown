@@ -1,6 +1,6 @@
 # 文件:Y本封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cb\ns6%3AY%E6%9C%AC%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cb\ns6%3AY%E6%9C%AC%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Foolish_Future | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@ Foolish_Future | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Y本](./Y本.md)  
-该封面包含的角色：- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
+- [Y本](./Y本.md)该封面包含的角色：
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
 
   
-源地址：[direct image link](https://www.suruga-ya.jp/database/pics_light/game/zhore3104.jpg), [source page (suruga-ya ID: ZHORE3104)](https://www.suruga-ya.jp/product/detail/ZHORE3104)
-  
-
-
-
-
+源地址：[direct image link](https://www.suruga-ya.jp/database/pics_light/game/zhore3104.jpg), [source page (suruga-ya ID: ZHORE3104)](https://www.suruga-ya.jp/product/detail/ZHORE3104)  
 
 ---
 

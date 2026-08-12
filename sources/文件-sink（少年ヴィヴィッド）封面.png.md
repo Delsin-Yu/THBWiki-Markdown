@@ -1,6 +1,6 @@
 # 文件:sink（少年ヴィヴィッド）封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\48\ns6%3Asink%EF%BC%88%E5%B0%91%E5%B9%B4%E3%83%B4%E3%82%A3%E3%83%B4%E3%82%A3%E3%83%83%E3%83%89%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\48\ns6%3Asink%EF%BC%88%E5%B0%91%E5%B9%B4%E3%83%B4%E3%82%A3%E3%83%B4%E3%82%A3%E3%83%83%E3%83%89%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 少年ヴィヴィッド
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [sink（少年ヴィヴィッド）](./sink（少年ヴィヴィッド）.md)  
-该封面包含的角色：- [村纱水蜜](./村纱水蜜.md)
-
-
-
+- [sink（少年ヴィヴィッド）](./sink（少年ヴィヴィッド）.md)该封面包含的角色：
+- [村纱水蜜](./村纱水蜜.md)
 
 
 ---

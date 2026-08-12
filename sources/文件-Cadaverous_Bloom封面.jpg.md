@@ -1,6 +1,6 @@
 # 文件:Cadaverous_Bloom封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bb\ns6%3ACadaverous_Bloom%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bb\ns6%3ACadaverous_Bloom%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 SMOKESTACK | 专辑封面 | 封面图片
 
@@ -11,12 +11,7 @@ SMOKESTACK | 专辑封面 | 封面图片
 - [Cadaverous Bloom](./Cadaverous_Bloom.md)
 
   
-源地址：[[1]](https://www.suruga-ya.jp/product/detail/186132227)
-  
-
-
-
-
+源地址：[\[1\]](https://www.suruga-ya.jp/product/detail/186132227)  
 
 ---
 

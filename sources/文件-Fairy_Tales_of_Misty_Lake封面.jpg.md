@@ -1,6 +1,6 @@
 # 文件:Fairy_Tales_of_Misty_Lake封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e1\ns6%3AFairy_Tales_of_Misty_Lake%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e1\ns6%3AFairy_Tales_of_Misty_Lake%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 冰精的冰屋 | 同人志封面 | 封面图片
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [Fairy Tales of Misty Lake](./Fairy_Tales_of_Misty_Lake.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)- [大妖精](./大妖精.md)
-
-
-
+- [Fairy Tales of Misty Lake](./Fairy_Tales_of_Misty_Lake.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
+- [大妖精](./大妖精.md)
 
 
 ---

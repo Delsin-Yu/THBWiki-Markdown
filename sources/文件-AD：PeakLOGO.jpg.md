@@ -1,14 +1,11 @@
 # 文件:AD：PeakLOGO.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3b\ns6%3AAD%EF%BC%9APeakLOGO%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3b\ns6%3AAD%EF%BC%9APeakLOGO%2Ejpg.html -->
 
 AD：Peak | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

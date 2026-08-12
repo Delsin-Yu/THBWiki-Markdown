@@ -1,6 +1,6 @@
 # 文件:HactraiseR_博ト麗ザー封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e5\ns6%3AHactraiseR_%E5%8D%9A%E3%83%88%E9%BA%97%E3%82%B6%E3%83%BC%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e5\ns6%3AHactraiseR_%E5%8D%9A%E3%83%88%E9%BA%97%E3%82%B6%E3%83%BC%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 苦笑邸
 
@@ -10,11 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [HactraiseR 博ト麗ザー](./HactraiseR_博ト麗ザー.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [八云紫](./八云紫.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [HactraiseR 博ト麗ザー](./HactraiseR_博ト麗ザー.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [八云紫](./八云紫.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

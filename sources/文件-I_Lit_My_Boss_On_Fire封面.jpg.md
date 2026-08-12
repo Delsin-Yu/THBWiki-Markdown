@@ -1,6 +1,6 @@
 # 文件:I_Lit_My_Boss_On_Fire封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\33\ns6%3AI_Lit_My_Boss_On_Fire%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\33\ns6%3AI_Lit_My_Boss_On_Fire%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 暴音寺
 
@@ -8,12 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [I Lit My Boss On Fire](./I_Lit_My_Boss_On_Fire.md)  
-该封面包含的角色：- [小野塚小町](./小野塚小町.md)源地址：[[1]](https://i1.sndcdn.com/artworks-000186732279-adaao0-t500x500.jpg), [track source](https://soundcloud.com/aframa/2016-i-lit-my-boss-on-fire)
-
-
-
-
+- [I Lit My Boss On Fire](./I_Lit_My_Boss_On_Fire.md)该封面包含的角色：
+- [小野塚小町](./小野塚小町.md)
+源地址：[\[1\]](https://i1.sndcdn.com/artworks-000186732279-adaao0-t500x500.jpg), [track source](https://soundcloud.com/aframa/2016-i-lit-my-boss-on-fire)
 
 ---
 

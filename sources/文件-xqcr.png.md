@@ -1,16 +1,12 @@
 # 文件:xqcr.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\01\ns6%3Axqcr%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\01\ns6%3Axqcr%2Epng.html -->
 
 二次角色立绘 | 信取Coro | 彣影杉
 
   
 信取Coro
   
-
-
-
-
 
 ---
 

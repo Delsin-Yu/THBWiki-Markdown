@@ -1,6 +1,6 @@
 # 文件:mystic_rhythm封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9a\ns6%3Amystic_rhythm%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9a\ns6%3Amystic_rhythm%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Extra_Turbo | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Extra_Turbo | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [mystic rhythm](./mystic_rhythm.md)  
-该封面包含的角色：- [封兽鵺](./封兽鵺.md)
-
-
-
+- [mystic rhythm](./mystic_rhythm.md)该封面包含的角色：
+- [封兽鵺](./封兽鵺.md)
 
 
 ---

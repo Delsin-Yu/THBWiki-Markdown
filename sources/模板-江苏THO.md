@@ -1,16 +1,12 @@
 # 模板:江苏THO
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\e\ee\ns10%3A%E6%B1%9F%E8%8B%8FTHO.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\e\ee\ns10%3A%E6%B1%9F%E8%8B%8FTHO.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

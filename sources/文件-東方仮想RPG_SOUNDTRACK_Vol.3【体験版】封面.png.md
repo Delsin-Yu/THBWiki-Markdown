@@ -1,6 +1,6 @@
 # 文件:東方仮想RPG_SOUNDTRACK_Vol.3【体験版】封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\48\ns6%3A%E6%9D%B1%E6%96%B9%E4%BB%AE%E6%83%B3RPG_SOUNDTRACK_Vol%2E3%E3%80%90%E4%BD%93%E9%A8%93%E7%89%88%E3%80%91%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\48\ns6%3A%E6%9D%B1%E6%96%B9%E4%BB%AE%E6%83%B3RPG_SOUNDTRACK_Vol%2E3%E3%80%90%E4%BD%93%E9%A8%93%E7%89%88%E3%80%91%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 うま | 专辑封面 | 吊るし処 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方仮想RPG SOUNDTRACK Vol.3【体験版】](./東方仮想RPG_SOUNDTRACK_Vol.3【体験版】.md)  
-该封面包含的角色：- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
-
-
-
+- [東方仮想RPG SOUNDTRACK Vol.3【体験版】](./東方仮想RPG_SOUNDTRACK_Vol.3【体験版】.md)该封面包含的角色：
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
 
 
 ---

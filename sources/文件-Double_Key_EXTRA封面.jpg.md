@@ -1,6 +1,6 @@
 # 文件:Double_Key_EXTRA封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5a\ns6%3ADouble_Key_EXTRA%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5a\ns6%3ADouble_Key_EXTRA%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ZYTOKINE | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ ZYTOKINE | 专辑封面 | 封面图片
   
 
 - [Double Key EXTRA](./Double_Key_EXTRA.md)
-
-
-
 
 
 ---

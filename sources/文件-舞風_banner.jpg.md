@@ -1,12 +1,8 @@
 # 文件:舞風_banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6d\ns6%3A%E8%88%9E%E9%A2%A8_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6d\ns6%3A%E8%88%9E%E9%A2%A8_banner%2Ejpg.html -->
 
 社团LOGO | 舞风
-
-
-
-
 
 
 ---

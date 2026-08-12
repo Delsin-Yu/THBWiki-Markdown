@@ -1,12 +1,8 @@
 # 文件:α_music_banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8c\ns6%3A%CE%B1_music_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8c\ns6%3A%CE%B1_music_banner%2Ejpg.html -->
 
 α_music | 社团LOGO
-
-
-
-
 
 
 ---

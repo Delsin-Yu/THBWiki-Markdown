@@ -1,12 +1,8 @@
 # 文件:求闻笔谭banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1a\ns6%3A%E6%B1%82%E9%97%BB%E7%AC%94%E8%B0%ADbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1a\ns6%3A%E6%B1%82%E9%97%BB%E7%AC%94%E8%B0%ADbanner%2Ejpg.html -->
 
 求闻笔谭
-
-
-
-
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:幻想の輪舞（PS4）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f2\ns6%3A%E5%B9%BB%E6%83%B3%E3%81%AE%E8%BC%AA%E8%88%9E%EF%BC%88PS4%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f2\ns6%3A%E5%B9%BB%E6%83%B3%E3%81%AE%E8%BC%AA%E8%88%9E%EF%BC%88PS4%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 封面图片 | 没有被使用的封面文件
-
-
-
-
 
 
 ---

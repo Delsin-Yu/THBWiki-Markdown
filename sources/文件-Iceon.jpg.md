@@ -1,16 +1,12 @@
 # 文件:Iceon.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1b\ns6%3AIceon%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1b\ns6%3AIceon%2Ejpg.html -->
 
 Frost_Fragment
 
   
 Iceon
   
-
-
-
-
 
 ---
 

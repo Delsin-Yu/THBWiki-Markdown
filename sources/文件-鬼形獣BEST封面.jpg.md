@@ -1,6 +1,6 @@
 # 文件:鬼形獣BEST封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5c\ns6%3A%E9%AC%BC%E5%BD%A2%E7%8D%A3BEST%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5c\ns6%3A%E9%AC%BC%E5%BD%A2%E7%8D%A3BEST%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 K2E†Cradle | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ K2E†Cradle | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [鬼形獣BEST](./鬼形獣BEST.md)  
-该封面包含的角色：- [饕餮尤魔](./饕餮尤魔.md)
-
-
-
+- [鬼形獣BEST](./鬼形獣BEST.md)该封面包含的角色：
+- [饕餮尤魔](./饕餮尤魔.md)
 
 
 ---

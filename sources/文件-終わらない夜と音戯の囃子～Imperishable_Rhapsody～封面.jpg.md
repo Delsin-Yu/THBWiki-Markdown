@@ -1,6 +1,6 @@
 # 文件:終わらない夜と音戯の囃子～Imperishable_Rhapsody～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\22\ns6%3A%E7%B5%82%E3%82%8F%E3%82%89%E3%81%AA%E3%81%84%E5%A4%9C%E3%81%A8%E9%9F%B3%E6%88%AF%E3%81%AE%E5%9B%83%E5%AD%90%EF%BD%9EImperishable_Rhapsody%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\22\ns6%3A%E7%B5%82%E3%82%8F%E3%82%89%E3%81%AA%E3%81%84%E5%A4%9C%E3%81%A8%E9%9F%B3%E6%88%AF%E3%81%AE%E5%9B%83%E5%AD%90%EF%BD%9EImperishable_Rhapsody%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Rhapsody_Faith | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Rhapsody_Faith | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [終わらない夜と音戯の囃子～Imperishable Rhapsody～](./終わらない夜と音戯の囃子～Imperishable_Rhapsody～.md)  
-该封面包含的角色：- [蓬莱山辉夜](./蓬莱山辉夜.md)
-
-
-
+- [終わらない夜と音戯の囃子～Imperishable Rhapsody～](./終わらない夜と音戯の囃子～Imperishable_Rhapsody～.md)该封面包含的角色：
+- [蓬莱山辉夜](./蓬莱山辉夜.md)
 
 
 ---

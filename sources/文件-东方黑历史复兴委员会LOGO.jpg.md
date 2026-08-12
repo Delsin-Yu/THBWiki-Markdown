@@ -1,14 +1,11 @@
 # 文件:东方黑历史复兴委员会LOGO.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2c\ns6%3A%E4%B8%9C%E6%96%B9%E9%BB%91%E5%8E%86%E5%8F%B2%E5%A4%8D%E5%85%B4%E5%A7%94%E5%91%98%E4%BC%9ALOGO%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2c\ns6%3A%E4%B8%9C%E6%96%B9%E9%BB%91%E5%8E%86%E5%8F%B2%E5%A4%8D%E5%85%B4%E5%A7%94%E5%91%98%E4%BC%9ALOGO%2Ejpg.html -->
 
 东方黑历史复兴委员会 | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

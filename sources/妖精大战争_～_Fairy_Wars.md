@@ -1,42 +1,32 @@
 # 妖精大战争_～_Fairy_Wars
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\e\e2\ns0%3A%E5%A6%96%E7%B2%BE%E5%A4%A7%E6%88%98%E4%BA%89_%EF%BD%9E_Fairy_Wars.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\e\e2\ns0%3A%E5%A6%96%E7%B2%BE%E5%A4%A7%E6%88%98%E4%BA%89_%EF%BD%9E_Fairy_Wars.html -->
 
 由 ZUN 创作的官方曲目，原名 妖精大戦争　～ Fairy Wars
 
 本页是关于东方Project  
- **原作音乐** 的词条
-
+**原作音乐**的词条
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 出现作品](#出现作品)
 - [3 音乐文件](#音乐文件)
-
   - [3.1 妖精大战争](#妖精大战争)
   - [3.2 东方三月精（第三季）附属CD2](#东方三月精（第三季）附属CD2)
 
 
-
 - [4 说明文本](#说明文本)
-
   - [4.1 妖精大战争](#妖精大战争_2)
   - [4.2 东方三月精 ～ Oriental Sacred Place.](#东方三月精_～_Oriental_Sacred_Place.)
 
 
-
 - [5 其他资料](#其他资料)
-
   - [5.1 乐理资讯](#乐理资讯)
   - [5.2 分析考据](#分析考据)
   - [5.3 二次同人数据](#二次同人数据)
 
 
-
 - [6 注释](#注释)
-
-
-
 
 
 ## 基本信息
@@ -44,14 +34,12 @@
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">妖精大戦争　～ Fairy Wars</td></tr><tr><td><b>译名</b></td><td>妖精大战争 ～ Fairy Wars</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 妖精大战争 ～ Fairy Wars（曲目） - 由 ZUN 创作的官方曲目，原名 妖精大戦争　～ Fairy Wars
-
 ## 出现作品
 
 <table>
 <tbody><tr><td>2010年8月14日（Comic Market 78）</td><td><b><a href="./妖精大战争.md" title="妖精大战争">妖精大战争</a></b></td><td>3面BOSS<a href="./光之三妖精.md" title="光之三妖精">光之三妖精</a>的主题曲</td><td style="padding-left:5px;">妖精大戦争　～ Fairy Wars（妖精大战争 ～ Fairy Wars）</td><td style="padding-left:10px;">作曲：ZUN</td></tr>
-<tr><td>2011年3月26日（非展会）</td><td><b><a href="./东方三月精O.md" class="mw-redirect" title="东方三月精O">东方三月精O</a>2</b></td><td>附属CD 第3轨</td><td style="padding-left:5px;">妖精大戦争　～ Fairy Wars（妖精大战争　～ Fairy Wars）</td><td style="padding-left:10px;">编曲：ZUN</td></tr>
+<tr><td>2011年3月26日（非展会）</td><td><b><a href="./东方三月精_～_Oriental_Sacred_Place..md" class="mw-redirect" title="东方三月精O">东方三月精O</a>2</b></td><td>附属CD 第3轨</td><td style="padding-left:5px;">妖精大戦争　～ Fairy Wars（妖精大战争　～ Fairy Wars）</td><td style="padding-left:10px;">编曲：ZUN</td></tr>
 </tbody></table>
-
 
 
 ## 音乐文件
@@ -66,17 +54,16 @@
 </td></tr></tbody></table>
 
 
-
 ### 东方三月精（第三季）附属CD2
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-OSP02_03.mp3.md" title="文件:OSP02 03.mp3">OSP02_03.mp3</a><br><audio src="https://upload.thwiki.cc/b/bb/OSP02_03.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track03.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>3:53</td></tr></tbody></table>
 
 
-
 ## 说明文本
 
 ### 妖精大战争
-- Music Room (未找到链接)
+
+- [Music Room](./妖精大战争-Music.md#3面BOSS角色曲)
 
 　三面ＢＯＳＳ的主题曲。  
 　虽说是终ＢＯＳＳ战，但因为马上就能到达，  
@@ -84,35 +71,34 @@
 　突然力道满满的话会令人疲劳吧，于是序盘缓慢愉快，  
 　终盘高速而又热血。  
 　音色是妖精风格但也相当热血哦。
-
 ### 东方三月精 ～ Oriental Sacred Place.
-- CD解说 (未找到链接)
+
+- [CD解说](./东方三月精_～_Oriental_Sacred_Place.-单行本2卷CD解说.md#3)
 
 虽然这个漫画中并没有什么战斗场景，但是妖精们确实是在每天争斗着，开朗地生活着的。  
 虽说不会做无谓的争斗是高等生物的证明啦，不过毕竟妖精也并不是什么高等的生物……。  
 嘛，不管怎么说，不是那种有着大战争的感觉的曲子啦。
-
 ## 其他资料
 
 ### 乐理资讯
 
 ### 分析考据
   
- **妖精大戦争　～ Fairy Wars**  妖精大战争　～ Fairy Wars
+**妖精大戦争 ～ Fairy Wars** 妖精大战争　～ Fairy Wars
   
 
-- 妖精
+- 妖精 
   - 三月精、琪露诺等在游戏中出现的妖精。
 
-- 大战争
+
+- 大战争 
   - 本作的主题。
 
 
+
+
 ```
-虽然这个漫画中并没有什么战斗场景，但是妖精们确实是在每天争斗着，开朗地生活着的。  
-虽说不会做无谓的争斗是高等生物的证明啦，不过毕竟妖精也并不是什么高等的生物……  
-嘛，不管怎么说，不是那种有着大战争的感觉的曲子啦。
-```
+虽然这个漫画中并没有什么战斗场景，但是妖精们确实是在每天争斗着，开朗地生活着的。虽说不会做无谓的争斗是高等生物的证明啦，不过毕竟妖精也并不是什么高等的生物……嘛，不管怎么说，不是那种有着大战争的感觉的曲子啦。 ```
 
 
 ### 二次同人数据
@@ -127,18 +113,6 @@
 <tr><td>Arrange</td><td>169</td></tr>
 <tr><td>Vocal率</td><td>31.3%</td></tr>
 </tbody></table>
-
-
-
-
-
-  
-  
-
-  
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Demo_CD_vol.4封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ec\ns6%3ADemo_CD_vol%2E4%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ec\ns6%3ADemo_CD_vol%2E4%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 HAPPY_I_SCREAM!! | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ HAPPY_I_SCREAM!! | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Demo CD vol.4](./Demo_CD_vol.4.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
-
-
-
+- [Demo CD vol.4](./Demo_CD_vol.4.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
 
 ---

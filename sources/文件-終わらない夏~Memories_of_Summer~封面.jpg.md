@@ -1,6 +1,6 @@
 # 文件:終わらない夏~Memories_of_Summer~封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\34\ns6%3A%E7%B5%82%E3%82%8F%E3%82%89%E3%81%AA%E3%81%84%E5%A4%8F%7EMemories_of_Summer%7E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\34\ns6%3A%E7%B5%82%E3%82%8F%E3%82%89%E3%81%AA%E3%81%84%E5%A4%8F%7EMemories_of_Summer%7E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Crest | bunny_rhyTHm | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Crest | bunny_rhyTHm | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [終わらない夏~Memories of Summer~](./終わらない夏~Memories_of_Summer~.md)  
-该封面包含的角色：- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)
-
-
-
+- [終わらない夏~Memories of Summer~](./終わらない夏~Memories_of_Summer~.md)该封面包含的角色：
+- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)
 
 
 ---

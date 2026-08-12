@@ -1,12 +1,8 @@
 # 文件:THBWiki-LOGO-背景舞者.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d4\ns6%3ATHBWiki-LOGO-%E8%83%8C%E6%99%AF%E8%88%9E%E8%80%85%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d4\ns6%3ATHBWiki-LOGO-%E8%83%8C%E6%99%AF%E8%88%9E%E8%80%85%2Epng.html -->
 
 THBWiki | Wiki词条分类用图
-
-
-
-
 
 
 ---

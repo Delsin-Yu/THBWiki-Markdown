@@ -1,14 +1,11 @@
 # 文件:大东方展设定稿Baba临摹画.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\01\ns6%3A%E5%A4%A7%E4%B8%9C%E6%96%B9%E5%B1%95%E8%AE%BE%E5%AE%9A%E7%A8%BFBaba%E4%B8%B4%E6%91%B9%E7%94%BB%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\01\ns6%3A%E5%A4%A7%E4%B8%9C%E6%96%B9%E5%B1%95%E8%AE%BE%E5%AE%9A%E7%A8%BFBaba%E4%B8%B4%E6%91%B9%E7%94%BB%2Ejpg.html -->
 
 大·东方Project展
 
 
 ## 摘要
-
-
-
 
 ---
 

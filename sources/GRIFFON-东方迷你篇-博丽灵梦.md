@@ -1,37 +1,21 @@
 # GRIFFON/东方迷你篇/博丽灵梦
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\4d\ns0%3AGRIFFON%2F%E4%B8%9C%E6%96%B9%E8%BF%B7%E4%BD%A0%E7%AF%87%2F%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\4d\ns0%3AGRIFFON%2F%E4%B8%9C%E6%96%B9%E8%BF%B7%E4%BD%A0%E7%AF%87%2F%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6.html -->
 
 博丽灵梦PVCFigure手办模型
 
 本页是关于东方Project  
- **相关实体周边 (未找到链接)** 的词条
-
+**相关实体周边 (未找到链接)**的词条
 ## 模型信息
 
-<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 博丽灵梦 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>东方迷你篇</td></tr><tr><td class="label">角色</td><td><a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></td></tr><tr><td class="label">原型师</td><td><a href="/index.php?title=Linda&amp;action=edit&amp;redlink=1" class="new" title="Linda（页面不存在）">Linda</a></td></tr><tr><td class="label">比例</td><td>1/10</td></tr><tr><td class="label">尺寸</td><td>140mm</td></tr><tr><td class="label">状态</td><td>未发售</td></tr><tr><td class="label">售价</td><td>5600日元</td></tr><tr><td class="label">发售方</td><td><a href="/index.php?title=GRIFFON&amp;action=edit&amp;redlink=1" class="new" title="GRIFFON（页面不存在）">GRIFFON</a></td></tr><tr><td class="label">备注</td><td><span style="color:red;">发售终止</span></td></tr></tbody></table>
+<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 博丽灵梦 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>东方迷你篇</td></tr><tr><td class="label">角色</td><td><a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></td></tr><tr><td class="label">原型师</td><td><a class="new" title="Linda（页面不存在）">Linda</a></td></tr><tr><td class="label">比例</td><td>1/10</td></tr><tr><td class="label">尺寸</td><td>140mm</td></tr><tr><td class="label">状态</td><td>未发售</td></tr><tr><td class="label">售价</td><td>5600日元</td></tr><tr><td class="label">发售方</td><td><a class="new" title="GRIFFON（页面不存在）">GRIFFON</a></td></tr><tr><td class="label">备注</td><td><span style="color:red;">发售终止</span></td></tr></tbody></table>
 
 GRIFFON/东方迷你篇/博丽灵梦（周边） - 博丽灵梦PVCFigure手办模型
-
 ## 参考图片
-
-
-
-[](./文件-GRIFFON东方迷你篇博丽灵梦-1.jpg.md)
-
-
-[](./文件-GRIFFON东方迷你篇博丽灵梦-2.jpg.md)
-
-
-[](./文件-GRIFFON东方迷你篇博丽灵梦-3.jpg.md)
-
+<img alt="GRIFFON东方迷你篇博丽灵梦" src="https://upload.thwiki.cc/thumb/2/21/GRIFFON%E4%B8%9C%E6%96%B9%E8%BF%B7%E4%BD%A0%E7%AF%87%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6-1.jpg/160px-GRIFFON%E4%B8%9C%E6%96%B9%E8%BF%B7%E4%BD%A0%E7%AF%87%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6-1.jpg" decoding="async" loading="lazy" width="160" height="240" srcset="https://upload.thwiki.cc/thumb/2/21/GRIFFON%E4%B8%9C%E6%96%B9%E8%BF%B7%E4%BD%A0%E7%AF%87%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6-1.jpg/240px-GRIFFON%E4%B8%9C%E6%96%B9%E8%BF%B7%E4%BD%A0%E7%AF%87%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6-1.jpg 1.5x, https://upload.thwiki.cc/thumb/2/21/GRIFFON%E4%B8%9C%E6%96%B9%E8%BF%B7%E4%BD%A0%E7%AF%87%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6-1.jpg/320px-GRIFFON%E4%B8%9C%E6%96%B9%E8%BF%B7%E4%BD%A0%E7%AF%87%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6-1.jpg 2x" data-file-width="533" data-file-height="800">
+<img alt="GRIFFON东方迷你篇博丽灵梦" src="https://upload.thwiki.cc/thumb/e/ee/GRIFFON%E4%B8%9C%E6%96%B9%E8%BF%B7%E4%BD%A0%E7%AF%87%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6-2.jpg/160px-GRIFFON%E4%B8%9C%E6%96%B9%E8%BF%B7%E4%BD%A0%E7%AF%87%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6-2.jpg" decoding="async" loading="lazy" width="160" height="240" srcset="https://upload.thwiki.cc/thumb/e/ee/GRIFFON%E4%B8%9C%E6%96%B9%E8%BF%B7%E4%BD%A0%E7%AF%87%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6-2.jpg/240px-GRIFFON%E4%B8%9C%E6%96%B9%E8%BF%B7%E4%BD%A0%E7%AF%87%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6-2.jpg 1.5x, https://upload.thwiki.cc/thumb/e/ee/GRIFFON%E4%B8%9C%E6%96%B9%E8%BF%B7%E4%BD%A0%E7%AF%87%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6-2.jpg/320px-GRIFFON%E4%B8%9C%E6%96%B9%E8%BF%B7%E4%BD%A0%E7%AF%87%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6-2.jpg 2x" data-file-width="533" data-file-height="800">
+<img alt="GRIFFON东方迷你篇博丽灵梦" src="https://upload.thwiki.cc/thumb/a/a7/GRIFFON%E4%B8%9C%E6%96%B9%E8%BF%B7%E4%BD%A0%E7%AF%87%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6-3.jpg/160px-GRIFFON%E4%B8%9C%E6%96%B9%E8%BF%B7%E4%BD%A0%E7%AF%87%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6-3.jpg" decoding="async" loading="lazy" width="160" height="240" srcset="https://upload.thwiki.cc/thumb/a/a7/GRIFFON%E4%B8%9C%E6%96%B9%E8%BF%B7%E4%BD%A0%E7%AF%87%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6-3.jpg/240px-GRIFFON%E4%B8%9C%E6%96%B9%E8%BF%B7%E4%BD%A0%E7%AF%87%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6-3.jpg 1.5x, https://upload.thwiki.cc/thumb/a/a7/GRIFFON%E4%B8%9C%E6%96%B9%E8%BF%B7%E4%BD%A0%E7%AF%87%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6-3.jpg/320px-GRIFFON%E4%B8%9C%E6%96%B9%E8%BF%B7%E4%BD%A0%E7%AF%87%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6-3.jpg 2x" data-file-width="533" data-file-height="800">
 公式图
-
-
-
-
-
-
 
 ---
 

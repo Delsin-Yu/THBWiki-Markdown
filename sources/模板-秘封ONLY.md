@@ -1,16 +1,12 @@
 # 模板:秘封ONLY
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\5\5e\ns10%3A%E7%A7%98%E5%B0%81ONLY.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\5\5e\ns10%3A%E7%A7%98%E5%B0%81ONLY.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

@@ -1,12 +1,8 @@
 # 文件:红符「Bloody_Magic_Square」（文花帖）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\79\ns6%3A%E7%BA%A2%E7%AC%A6%E3%80%8CBloody_Magic_Square%E3%80%8D%EF%BC%88%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\79\ns6%3A%E7%BA%A2%E7%AC%A6%E3%80%8CBloody_Magic_Square%E3%80%8D%EF%BC%88%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Ejpg.html -->
 
 东方文花帖 | 敌机符卡 | 蕾米莉亚·斯卡蕾特
-
-
-
-
 
 
 ---

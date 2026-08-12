@@ -1,16 +1,12 @@
 # 文件:L绿.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d8\ns6%3AL%E7%BB%BF%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d8\ns6%3AL%E7%BB%BF%2Ejpg.html -->
 
 二次角色立绘 | 绿
 
   
 作者:ビバ！！
   
-
-
-
-
 
 ---
 

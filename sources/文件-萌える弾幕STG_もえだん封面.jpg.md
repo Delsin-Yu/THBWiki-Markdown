@@ -1,6 +1,6 @@
 # 文件:萌える弾幕STG_もえだん封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f4\ns6%3A%E8%90%8C%E3%81%88%E3%82%8B%E5%BC%BE%E5%B9%95STG_%E3%82%82%E3%81%88%E3%81%A0%E3%82%93%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f4\ns6%3A%E8%90%8C%E3%81%88%E3%82%8B%E5%BC%BE%E5%B9%95STG_%E3%82%82%E3%81%88%E3%81%A0%E3%82%93%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 D.N.A.Softwares | 封面图片 | 软件封面
 
@@ -8,11 +8,8 @@ D.N.A.Softwares | 封面图片 | 软件封面
 使用了本文件作封面图片的作品：
   
 
-- [萌える弾幕STG もえだん](./萌える弾幕STG_もえだん.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
-
-
-
+- [萌える弾幕STG もえだん](./萌える弾幕STG_もえだん.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
 
 ---

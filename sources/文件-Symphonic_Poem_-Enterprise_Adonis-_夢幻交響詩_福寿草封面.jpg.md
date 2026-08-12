@@ -1,6 +1,6 @@
 # 文件:Symphonic_Poem_"Enterprise_Adonis"_夢幻交響詩_福寿草封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\42\ns6%3ASymphonic_Poem_%22Enterprise_Adonis%22_%E5%A4%A2%E5%B9%BB%E4%BA%A4%E9%9F%BF%E8%A9%A9_%E7%A6%8F%E5%AF%BF%E8%8D%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\42\ns6%3ASymphonic_Poem_%22Enterprise_Adonis%22_%E5%A4%A2%E5%B9%BB%E4%BA%A4%E9%9F%BF%E8%A9%A9_%E7%A6%8F%E5%AF%BF%E8%8D%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 WAVE | 专辑封面 | 封面图片
 
@@ -8,11 +8,10 @@ WAVE | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Symphonic Poem "Enterprise Adonis" 夢幻交響詩 福寿草](./Symphonic_Poem_-Enterprise_Adonis-_夢幻交響詩_福寿草.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [蓬莱山辉夜](./蓬莱山辉夜.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [Symphonic Poem "Enterprise Adonis" 夢幻交響詩 福寿草](./Symphonic_Poem_-Enterprise_Adonis-_夢幻交響詩_福寿草.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [蓬莱山辉夜](./蓬莱山辉夜.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:SpellTech5封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dd\ns6%3ASpellTech5%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dd\ns6%3ASpellTech5%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 荒御灵
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [SpellTech5](./SpellTech5.md)  
-该封面包含的角色：- [神绮](./神绮.md)
-
-
-
+- [SpellTech5](./SpellTech5.md)该封面包含的角色：
+- [神绮](./神绮.md)
 
 
 ---

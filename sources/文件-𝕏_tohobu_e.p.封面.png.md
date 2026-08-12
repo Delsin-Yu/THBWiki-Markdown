@@ -1,6 +1,6 @@
 # 文件:𝕏_tohobu_e.p.封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e5\ns6%3A%F0%9D%95%8F_tohobu_e%2Ep%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e5\ns6%3A%F0%9D%95%8F_tohobu_e%2Ep%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 ついったー東方部 | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@
   
 
 - [𝕏 tohobu e.p.](./𝕏_tohobu_e.p..md)
-
-
-
 
 
 ---

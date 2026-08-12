@@ -1,16 +1,12 @@
 # 文件:绯色不眠夜logo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\99\ns6%3A%E7%BB%AF%E8%89%B2%E4%B8%8D%E7%9C%A0%E5%A4%9Clogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\99\ns6%3A%E7%BB%AF%E8%89%B2%E4%B8%8D%E7%9C%A0%E5%A4%9Clogo%2Ejpg.html -->
 
 社团LOGO | 绯色不眠夜
 
   
 绯色不眠夜logo
   
-
-
-
-
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:Gungnir_and_LÆvateinn封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b5\ns6%3AGungnir_and_L%C3%86vateinn%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b5\ns6%3AGungnir_and_L%C3%86vateinn%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Missing_Retrospections | 专辑封面 | 封面图片
 
@@ -10,16 +10,12 @@ Missing_Retrospections | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Gungnir and LÆvateinn](./Gungnir_and_LÆvateinn.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [Gungnir and LÆvateinn](./Gungnir_and_LÆvateinn.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
   
-源地址：[[1]](https://f4.bcbits.com/img/a0014634271_10.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://f4.bcbits.com/img/a0014634271_10.jpg)  
 
 ---
 

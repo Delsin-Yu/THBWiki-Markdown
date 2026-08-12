@@ -1,16 +1,12 @@
 # 文件:雲杪煙緲logo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\04\ns6%3A%E9%9B%B2%E6%9D%AA%E7%85%99%E7%B7%B2logo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\04\ns6%3A%E9%9B%B2%E6%9D%AA%E7%85%99%E7%B7%B2logo%2Ejpg.html -->
 
 社团LOGO | 雲杪煙緲
 
   
 雲杪煙緲新logo
   
-
-
-
-
 
 ---
 

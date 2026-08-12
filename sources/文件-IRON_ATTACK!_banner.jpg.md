@@ -1,12 +1,8 @@
 # 文件:IRON_ATTACK!_banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c0\ns6%3AIRON_ATTACK%21_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c0\ns6%3AIRON_ATTACK%21_banner%2Ejpg.html -->
 
 IRON_ATTACK! | 社团LOGO
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Re：バラエティ封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\13\ns6%3ARe%EF%BC%9A%E3%83%90%E3%83%A9%E3%82%A8%E3%83%86%E3%82%A3%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\13\ns6%3ARe%EF%BC%9A%E3%83%90%E3%83%A9%E3%82%A8%E3%83%86%E3%82%A3%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 有機化合物
 
@@ -8,11 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Re：バラエティ](./Re：バラエティ.md)  
-该封面包含的角色：- [本居小铃](./本居小铃.md)- [雾雨魔理沙](./雾雨魔理沙.md)- [森近霖之助](./森近霖之助.md)- [稀神探女](./稀神探女.md)
-
-
-
+- [Re：バラエティ](./Re：バラエティ.md)该封面包含的角色：
+- [本居小铃](./本居小铃.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
+- [森近霖之助](./森近霖之助.md)
+- [稀神探女](./稀神探女.md)
 
 
 ---

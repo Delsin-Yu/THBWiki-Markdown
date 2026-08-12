@@ -1,6 +1,6 @@
 # 文件:Gensou_Rave_Linker封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7e\ns6%3AGensou_Rave_Linker%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7e\ns6%3AGensou_Rave_Linker%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 音召缶
 
@@ -10,16 +10,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [Gensou Rave Linker](./Gensou_Rave_Linker.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [Gensou Rave Linker](./Gensou_Rave_Linker.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
 
   
-源地址：[图片链接](https://pbs.twimg.com/media/EFoke9zUEAEOg11?format=jpg&amp;name=orig) [Twitter](https://twitter.com/muzikservant/status/1178294372892168205)
-  
-
-
-
-
+源地址：[图片链接](https://pbs.twimg.com/media/EFoke9zUEAEOg11?format=jpg&name=orig) [Twitter](https://twitter.com/muzikservant/status/1178294372892168205)  
 
 ---
 

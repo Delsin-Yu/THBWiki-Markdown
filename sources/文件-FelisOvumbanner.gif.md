@@ -1,12 +1,8 @@
 # 文件:FelisOvumbanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c2\ns6%3AFelisOvumbanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c2\ns6%3AFelisOvumbanner%2Egif.html -->
 
 FelisOvum | 社团LOGO
-
-
-
-
 
 
 ---

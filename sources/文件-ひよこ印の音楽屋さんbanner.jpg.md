@@ -1,18 +1,13 @@
 # 文件:ひよこ印の音楽屋さんbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8e\ns6%3A%E3%81%B2%E3%82%88%E3%81%93%E5%8D%B0%E3%81%AE%E9%9F%B3%E6%A5%BD%E5%B1%8B%E3%81%95%E3%82%93banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8e\ns6%3A%E3%81%B2%E3%82%88%E3%81%93%E5%8D%B0%E3%81%AE%E9%9F%B3%E6%A5%BD%E5%B1%8B%E3%81%95%E3%82%93banner%2Ejpg.html -->
 
 ひよこ印の音楽屋さん | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[direct image link](https://web.archive.org/web/20140822154229im_/http://www.cranberry-studio.com/hiyoko/bana/hiyokojirushi-bn.jpg), [source page](http://www.cranberry-studio.com/hiyoko/files/Link.html)
-  
-
-
-
-
+源地址：[direct image link](https://web.archive.org/web/20140822154229im_/http://www.cranberry-studio.com/hiyoko/bana/hiyokojirushi-bn.jpg), [source page](http://www.cranberry-studio.com/hiyoko/files/Link.html)  
 
 ---
 

@@ -1,14 +1,11 @@
 # 文件:極東天国banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2d\ns6%3A%E6%A5%B5%E6%9D%B1%E5%A4%A9%E5%9B%BDbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2d\ns6%3A%E6%A5%B5%E6%9D%B1%E5%A4%A9%E5%9B%BDbanner%2Ejpg.html -->
 
 極東天国 | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

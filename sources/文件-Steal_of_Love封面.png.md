@@ -1,6 +1,6 @@
 # 文件:Steal_of_Love封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ec\ns6%3ASteal_of_Love%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ec\ns6%3ASteal_of_Love%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 すいはんじゃー | 同人志封面 | 封面图片
 
@@ -10,16 +10,13 @@
 使用了本文件作封面图片的作品：
   
 
-- [Steal of Love](./Steal_of_Love.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)- [宇佐见堇子](./宇佐见堇子.md)
+- [Steal of Love](./Steal_of_Love.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
+- [宇佐见堇子](./宇佐见堇子.md)
 
   
-源地址：[direct image link](http://suihanjar.web.fc2.com/gazou.png), [source page](http://suihanjar.web.fc2.com/C91.html)
-  
-
-
-
-
+源地址：[direct image link](http://suihanjar.web.fc2.com/gazou.png), [source page](http://suihanjar.web.fc2.com/C91.html)  
 
 ---
 

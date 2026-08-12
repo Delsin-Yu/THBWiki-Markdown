@@ -1,6 +1,6 @@
 # 文件:TOHO_DANCE_NIGHT封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0c\ns6%3ATOHO_DANCE_NIGHT%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0c\ns6%3ATOHO_DANCE_NIGHT%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Lunatic_Gate | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Lunatic_Gate | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [TOHO DANCE NIGHT](./TOHO_DANCE_NIGHT.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
-
-
-
+- [TOHO DANCE NIGHT](./TOHO_DANCE_NIGHT.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
 
 
 ---

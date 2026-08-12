@@ -1,6 +1,6 @@
 # 文件:ユーロバカ一代_VOL.5封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d3\ns6%3A%E3%83%A6%E3%83%BC%E3%83%AD%E3%83%90%E3%82%AB%E4%B8%80%E4%BB%A3_VOL%2E5%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d3\ns6%3A%E3%83%A6%E3%83%BC%E3%83%AD%E3%83%90%E3%82%AB%E4%B8%80%E4%BB%A3_VOL%2E5%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Eurobeat_Union | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Eurobeat_Union | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [ユーロバカ一代 VOL.5](./ユーロバカ一代_VOL.5.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)
+- [ユーロバカ一代 VOL.5](./ユーロバカ一代_VOL.5.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
 
   
-源地址：[[1]](http://img.toranoana.jp/popup_img/04/0030/37/21/040030372137-1p.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://img.toranoana.jp/popup_img/04/0030/37/21/040030372137-1p.jpg)  
 
 ---
 

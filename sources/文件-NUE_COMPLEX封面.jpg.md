@@ -1,6 +1,6 @@
 # 文件:NUE_COMPLEX封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8d\ns6%3ANUE_COMPLEX%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8d\ns6%3ANUE_COMPLEX%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 モノカゲクラブ | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [NUE COMPLEX](./NUE_COMPLEX.md)  
-该封面包含的角色：- [封兽鵺](./封兽鵺.md)
+- [NUE COMPLEX](./NUE_COMPLEX.md)该封面包含的角色：
+- [封兽鵺](./封兽鵺.md)
 
   
-[Pixiv artwork ID: 68504409 (original size)](https://www.pixiv.net/artworks/68504409)
-  
-
-
-
-
+[Pixiv artwork ID: 68504409 (original size)](https://www.pixiv.net/artworks/68504409)  
 
 ---
 

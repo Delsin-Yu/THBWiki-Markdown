@@ -1,14 +1,11 @@
 # 文件:Private_Squarebanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d9\ns6%3APrivate_Squarebanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d9\ns6%3APrivate_Squarebanner%2Epng.html -->
 
 Private_Square | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

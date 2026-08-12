@@ -1,16 +1,11 @@
 # 文件:光と闇の協奏曲banner2.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d8\ns6%3A%E5%85%89%E3%81%A8%E9%97%87%E3%81%AE%E5%8D%94%E5%A5%8F%E6%9B%B2banner2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d8\ns6%3A%E5%85%89%E3%81%A8%E9%97%87%E3%81%AE%E5%8D%94%E5%A5%8F%E6%9B%B2banner2%2Ejpg.html -->
 
 光と闇の協奏曲 | 社团LOGO
 
   
-源地址：[[1]](http://tomoya1060moon.gozaru.jp/youmu-banner.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://tomoya1060moon.gozaru.jp/youmu-banner.jpg)  
 
 ---
 

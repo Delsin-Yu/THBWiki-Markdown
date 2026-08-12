@@ -1,6 +1,6 @@
 # 文件:Count_Zero（輝夜城レッド）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\65\ns6%3ACount_Zero%EF%BC%88%E8%BC%9D%E5%A4%9C%E5%9F%8E%E3%83%AC%E3%83%83%E3%83%89%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\65\ns6%3ACount_Zero%EF%BC%88%E8%BC%9D%E5%A4%9C%E5%9F%8E%E3%83%AC%E3%83%83%E3%83%89%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 輝夜城レッド
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Count Zero（輝夜城レッド）](./Count_Zero（輝夜城レッド）.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)
-
-
-
+- [Count Zero（輝夜城レッド）](./Count_Zero（輝夜城レッド）.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
 
 
 ---

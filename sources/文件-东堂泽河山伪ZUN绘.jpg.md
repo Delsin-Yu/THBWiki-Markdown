@@ -1,12 +1,8 @@
 # 文件:东堂泽河山伪ZUN绘.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\47\ns6%3A%E4%B8%9C%E5%A0%82%E6%B3%BD%E6%B2%B3%E5%B1%B1%E4%BC%AAZUN%E7%BB%98%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\47\ns6%3A%E4%B8%9C%E5%A0%82%E6%B3%BD%E6%B2%B3%E5%B1%B1%E4%BC%AAZUN%E7%BB%98%2Ejpg.html -->
 
 东堂泽河山 | 东方小学森 | 作者:月月
-
-
-
-
 
 
 ---

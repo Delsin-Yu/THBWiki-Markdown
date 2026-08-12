@@ -1,6 +1,6 @@
 # 文件:HANOWA_LOYALTY封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bd\ns6%3AHANOWA_LOYALTY%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bd\ns6%3AHANOWA_LOYALTY%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 YellowBack | 同人志封面 | 封面图片
 
@@ -8,11 +8,10 @@ YellowBack | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [HANOWA LOYALTY](./HANOWA_LOYALTY.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)- [埴安神袿姬](./埴安神袿姬.md)- [杖刀偶磨弓](./杖刀偶磨弓.md)
-
-
-
+- [HANOWA LOYALTY](./HANOWA_LOYALTY.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
+- [埴安神袿姬](./埴安神袿姬.md)
+- [杖刀偶磨弓](./杖刀偶磨弓.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Perish_This_Night_...Please封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\30\ns6%3APerish_This_Night_%2E%2E%2EPlease%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\30\ns6%3APerish_This_Night_%2E%2E%2EPlease%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Ragathol_Enterprises | 同人志封面 | 封面图片
 
@@ -10,16 +10,16 @@ Ragathol_Enterprises | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Perish This Night ...Please](./Perish_This_Night_...Please.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [八云蓝](./八云蓝.md)- [八云紫](./八云紫.md)- [雾雨魔理沙](./雾雨魔理沙.md)
+- [Perish This Night ...Please](./Perish_This_Night_...Please.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [八云蓝](./八云蓝.md)
+- [八云紫](./八云紫.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-[Pixiv artwork ID: 4837899 (original size)](https://www.pixiv.net/artworks/4837899)
-  
-
-
-
-
+[Pixiv artwork ID: 4837899 (original size)](https://www.pixiv.net/artworks/4837899)  
 
 ---
 

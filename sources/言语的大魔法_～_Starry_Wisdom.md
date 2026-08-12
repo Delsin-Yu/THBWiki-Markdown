@@ -1,29 +1,23 @@
 # 言语的大魔法_～_Starry_Wisdom
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\f2\ns0%3A%E8%A8%80%E8%AF%AD%E7%9A%84%E5%A4%A7%E9%AD%94%E6%B3%95_%EF%BD%9E_Starry_Wisdom.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\f2\ns0%3A%E8%A8%80%E8%AF%AD%E7%9A%84%E5%A4%A7%E9%AD%94%E6%B3%95_%EF%BD%9E_Starry_Wisdom.html -->
 
 由 Wanwan 创作的东方风自作曲，原名 言ノ葉ノ大魔法　～ Starry Wisdom
 
 本页是关于东方Project  
- **东方风自作曲** 的词条
+**东方风自作曲**的词条
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 出现作品](#出现作品)
 - [3 音乐文件](#音乐文件)
 - [4 说明文本](#说明文本)
-
   - [4.1 东方魔宝城](#东方魔宝城)
 
 
-
 - [5 其他资料](#其他资料)
-
   - [5.1 乐理资讯](#乐理资讯)
   - [5.2 分析考据](#分析考据)
-
-
-
 
 
 
@@ -42,9 +36,12 @@
 
 
 ## 音乐文件
+
 ## 说明文本
+
 ### 东方魔宝城
-- Music Room (未找到链接)
+
+- [Music Room](./東方魔宝城_～_Book_of_Star_Mythology.-音乐.md#6面boss-芙玛·米珊朵拉主题曲)
 
   
 芙玛·米珊朵拉的主题曲。  
@@ -57,11 +54,10 @@
   
 
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
-
-
-
 
 ---
 

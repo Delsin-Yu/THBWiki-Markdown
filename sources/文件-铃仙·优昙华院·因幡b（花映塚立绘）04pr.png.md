@@ -1,12 +1,8 @@
 # 文件:铃仙·优昙华院·因幡b（花映塚立绘）04pr.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8c\ns6%3A%E9%93%83%E4%BB%99%C2%B7%E4%BC%98%E6%98%99%E5%8D%8E%E9%99%A2%C2%B7%E5%9B%A0%E5%B9%A1b%EF%BC%88%E8%8A%B1%E6%98%A0%E5%A1%9A%E7%AB%8B%E7%BB%98%EF%BC%8904pr%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8c\ns6%3A%E9%93%83%E4%BB%99%C2%B7%E4%BC%98%E6%98%99%E5%8D%8E%E9%99%A2%C2%B7%E5%9B%A0%E5%B9%A1b%EF%BC%88%E8%8A%B1%E6%98%A0%E5%A1%9A%E7%AB%8B%E7%BB%98%EF%BC%8904pr%2Epng.html -->
 
 ZUN绘 | 东方花映塚 | 官方游戏立绘 | 铃仙·优昙华院·因幡
-
-
-
-
 
 
 ---

@@ -1,16 +1,12 @@
 # 模板:Knife0811
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\7\73\ns10%3AKnife0811.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\7\73\ns10%3AKnife0811.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

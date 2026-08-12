@@ -1,6 +1,6 @@
 # 文件:U.S.C._Yuka's_Flower_Shop_KAZAMI_FULL_METAL_JACKET_ver.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ad\ns6%3AU%2ES%2EC%2E_Yuka%27s_Flower_Shop_KAZAMI_FULL_METAL_JACKET_ver%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ad\ns6%3AU%2ES%2EC%2E_Yuka%27s_Flower_Shop_KAZAMI_FULL_METAL_JACKET_ver%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 CHAZENBEAT | 同人志封面 | 封面图片
 
@@ -9,11 +9,8 @@ Yuka's Flower Shop系列
 使用了本文件作封面图片的作品：
   
 
-- [U.S.C. Yuka's Flower Shop KAZAMI FULL METAL JACKET ver.](./U.S.C._Yuka's_Flower_Shop_KAZAMI_FULL_METAL_JACKET_ver..md)  
-该封面包含的角色：- [梦子](./梦子.md)
-
-
-
+- [U.S.C. Yuka's Flower Shop KAZAMI FULL METAL JACKET ver.](./U.S.C._Yuka's_Flower_Shop_KAZAMI_FULL_METAL_JACKET_ver..md)该封面包含的角色：
+- [梦子](./梦子.md)
 
 
 ---

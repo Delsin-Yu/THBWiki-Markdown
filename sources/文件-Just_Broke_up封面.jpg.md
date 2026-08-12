@@ -1,6 +1,6 @@
 # 文件:Just_Broke_up封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f4\ns6%3AJust_Broke_up%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f4\ns6%3AJust_Broke_up%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Plutinum_Crest | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Plutinum_Crest | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Just Broke up](./Just_Broke_up.md)  
-该封面包含的角色：- [寅丸星](./寅丸星.md)
-
-
-
+- [Just Broke up](./Just_Broke_up.md)该封面包含的角色：
+- [寅丸星](./寅丸星.md)
 
 
 ---

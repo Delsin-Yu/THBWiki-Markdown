@@ -1,30 +1,22 @@
 # 飞翔八十亿劫_～_Sinful_Rampage
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\06\ns0%3A%E9%A3%9E%E7%BF%94%E5%85%AB%E5%8D%81%E4%BA%BF%E5%8A%AB_%EF%BD%9E_Sinful_Rampage.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\06\ns0%3A%E9%A3%9E%E7%BF%94%E5%85%AB%E5%8D%81%E4%BA%BF%E5%8A%AB_%EF%BD%9E_Sinful_Rampage.html -->
 
 由 Wanwan 创作的东方风自作曲，原名 飛翔八十億劫　～ Sinful Rampage
 
 本页是关于东方Project  
- **东方风自作曲** 的词条
-
+**东方风自作曲**的词条
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 出现作品](#出现作品)
 - [3 说明文本](#说明文本)
-
   - [3.1 东方真珠岛](#东方真珠岛)
 
 
-
 - [4 其他资料](#其他资料)
-
   - [4.1 乐理资讯](#乐理资讯)
   - [4.2 分析考据](#分析考据)
-
-
-
-
 
 
 
@@ -34,7 +26,6 @@
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">飛翔八十億劫　～ Sinful Rampage</td></tr><tr><td><b>译名</b></td><td>飞翔八十亿劫 ～ Sinful Rampage</td></tr><tr><td><b>作曲</b></td><td><a href="./Wanwan.md" title="Wanwan">Wanwan</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 飞翔八十亿劫 ～ Sinful Rampage（曲目） - 由 Wanwan 创作的东方风自作曲，原名 飛翔八十億劫　～ Sinful Rampage
-
 ## 出现作品
 
 <table>
@@ -42,28 +33,25 @@
 </tbody></table>
 
 
-
 ## 说明文本
 
 ### 东方真珠岛
-- Music Room (未找到链接)
+
+- [Music Room](./東方真珠島_～_Hollow_Song_of_Birds.-Music.md#4面BOSS-德雀坊紫鸾主题曲)
 
 紫鸾上人（德雀坊紫鸾）的主题曲。  
   
 现在小鸟[^cite_note-1]是标配了，  
 不过以前主页、博客才是主流啊。  
 有时候就会踩中不回[^cite_note-2]或者接龙插楼[^cite_note-3]了。
-
 ## 其他资料
 
 ### 乐理资讯
 
 ### 分析考据
 [^cite_note-1]: 指推特。
-
-
-
-
+[^cite_note-2]: 日本早年使用揭示板形式的网站，通常都有访问人次计数的功能。如果有人访问数字刚好是某个吉利整数，或者发新串编号是吉利数字，就叫做「キリ番踏み」。而如果有人访问数字踩中某大整数，却没有发帖庆祝，就叫「キリ番踏み逃げ」，是很挨骂的。
+[^cite_note-3]: 在论坛上会举办接龙活动，叫做「バトン受け渡し」，忘记正在进行的接龙，插入别的事情，叫「バトン受け忘れ」。同样是很挨骂的。
 
 ---
 

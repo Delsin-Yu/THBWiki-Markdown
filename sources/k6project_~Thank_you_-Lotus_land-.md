@@ -1,13 +1,11 @@
 # k6project_~Thank_you_"Lotus_land"
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\b6\ns0%3Ak6project_%7EThank_you_%22Lotus_land%22.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\b6\ns0%3Ak6project_%7EThank_you_%22Lotus_land%22.html -->
 
 2010年10月11日 由 k2project 于 东方红楼梦6 发布的其他同人视频，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人视频 (未找到链接)** 的词条
-<center>
-
+**[二次创作同人视频](./二次创作.md#视频创作)**的词条<center>
 <table>
 <tbody><tr>
 <td class="mbox-image"><div style="width: 52px;">
@@ -16,18 +14,15 @@
 </tr>
 </tbody></table>
 
-
 </center>
-
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-k6project_~Thank_you_-Lotus_land-封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/9/90/k6project_~Thank_you_%22Lotus_land%22%E5%B0%81%E9%9D%A2.png/140px-k6project_~Thank_you_%22Lotus_land%22%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="140" height="140" srcset="https://upload.thwiki.cc/thumb/9/90/k6project_~Thank_you_%22Lotus_land%22%E5%B0%81%E9%9D%A2.png/210px-k6project_~Thank_you_%22Lotus_land%22%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/9/90/k6project_~Thank_you_%22Lotus_land%22%E5%B0%81%E9%9D%A2.png/280px-k6project_~Thank_you_%22Lotus_land%22%E5%B0%81%E9%9D%A2.png 2x" data-file-width="500" data-file-height="500"></a></td>
-</tr><tr><td class="label">名称</td><td colspan="2"> k6project ~Thank you &#34;Lotus land&#34; </td></tr><tr><td class="label">制作方</td><td><a href="/index.php?title=k2project&amp;action=edit&amp;redlink=1" class="new" title="k2project（页面不存在）">k2project</a></td><td class="cover-artwork" rowspan="5" style="min-width:140px;"><a href="./文件-k6project_~Thank_you_-Lotus_land-封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/9/90/k6project_~Thank_you_%22Lotus_land%22%E5%B0%81%E9%9D%A2.png/140px-k6project_~Thank_you_%22Lotus_land%22%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="140" height="140" srcset="https://upload.thwiki.cc/thumb/9/90/k6project_~Thank_you_%22Lotus_land%22%E5%B0%81%E9%9D%A2.png/210px-k6project_~Thank_you_%22Lotus_land%22%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/9/90/k6project_~Thank_you_%22Lotus_land%22%E5%B0%81%E9%9D%A2.png/280px-k6project_~Thank_you_%22Lotus_land%22%E5%B0%81%E9%9D%A2.png 2x" data-file-width="500" data-file-height="500"></a></td>
-</tr><tr><td class="label">首发日期</td><td>2010-10-11&#160;（<a href="/展会作品列表?e=%E4%B8%9C%E6%96%B9%E7%BA%A2%E6%A5%BC%E6%A2%A6%236">東方紅楼夢6</a>）</td></tr><tr><td class="label">类型</td><td>其他</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">售价</td><td>会场售价：100日元</td></tr>
+</tr><tr><td class="label">名称</td><td colspan="2"> k6project ~Thank you "Lotus land" </td></tr><tr><td class="label">制作方</td><td><a class="new" title="k2project（页面不存在）">k2project</a></td><td class="cover-artwork" rowspan="5" style="min-width:140px;"><a href="./文件-k6project_~Thank_you_-Lotus_land-封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/9/90/k6project_~Thank_you_%22Lotus_land%22%E5%B0%81%E9%9D%A2.png/140px-k6project_~Thank_you_%22Lotus_land%22%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="140" height="140" srcset="https://upload.thwiki.cc/thumb/9/90/k6project_~Thank_you_%22Lotus_land%22%E5%B0%81%E9%9D%A2.png/210px-k6project_~Thank_you_%22Lotus_land%22%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/9/90/k6project_~Thank_you_%22Lotus_land%22%E5%B0%81%E9%9D%A2.png/280px-k6project_~Thank_you_%22Lotus_land%22%E5%B0%81%E9%9D%A2.png 2x" data-file-width="500" data-file-height="500"></a></td>
+</tr><tr><td class="label">首发日期</td><td>2010-10-11 （<a href="./展会作品列表.md#6">東方紅楼夢6</a>）</td></tr><tr><td class="label">类型</td><td>其他</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">售价</td><td>会场售价：100日元</td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://byourou.web.fc2.com/k6project/#about">http://byourou.web.fc2.com/k6project/#about</a></td></tr></tbody></table>
 
 k6project ~Thank you "Lotus land"（同人视频，k2project，2010） - 2010年10月11日 由 k2project 于 东方红楼梦6 发布的其他同人视频，分级为 一般向
-
 ## Staff
 Planning
 : 猫狼 (未找到链接)
@@ -35,16 +30,12 @@ Planning
 : でっち (未找到链接)
 : Ottiki (未找到链接)
 
-
 ## Promo
   
 <iframe width="100%" height="180" src="https://ext.nicovideo.jp/thumb/sm12268175" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/watch/sm12268175">,</a></iframe>
-
   
 
-
 ## Contributors
-
 : 猫狼 (未找到链接) （k6project (未找到链接)）
 : でっち (未找到链接) （人工モノクローム (未找到链接)）
 : [13.c.Gilbert](./13.c.Gilbert.md) （[永久立体＜キュービックループ＞](./永久立体＜キュービックループ＞.md)）
@@ -55,7 +46,7 @@ Planning
 : 八白 (未找到链接) （人工モノクローム (未找到链接)）
 : Ottiki (未找到链接) （[SEA SPARROWS](./SEA_SPARROWS.md)）
 : takayuki@jp (未找到链接) （[SEA SPARROWS](./SEA_SPARROWS.md)）
-: [ArmaTek](./ArmaTek.md) （[電網公司](./電網公司.md)）
+: [ArmaTek](./Armatek.md) （[電網公司](./電網公司.md)）
 : PenguinDance (未找到链接) （[ペンギンブルー](./ペンギンブルー.md)）
 : 作者 (未找到链接) （[作者の戯事](./作者の戯事.md)）
 : しわすさん (未找到链接) （でぃわす (未找到链接)）
@@ -71,20 +62,20 @@ Planning
 : いっちー (未找到链接)
 : D4C (未找到链接) （でぃわす (未找到链接)）
 : 麦茶 (未找到链接)
-: *.yuki (未找到链接) （[Snow*Mark](./Snow-Mark.md)）
+: *.yuki (未找到链接) （[Snow*Mark](./Snow＊Mark.md)）
 : yu-ki (未找到链接)
-: [アキ](./アキ.md) （[Red Bullet Sequence](./Red_Bullet_Sequence.md)）
-: fratanity  (未找到链接) （[at the mercy of sounds](./at_the_mercy_of_sounds.md)）
+: [アキ](./猫森アキ.md) （[Red Bullet Sequence](./Red_Bullet_Sequence.md)）
+: fratanity (未找到链接) （[at the mercy of sounds](./at_the_mercy_of_sounds.md)）
 : [みりん屋](./みりん屋.md)
 : 更待くろみ (未找到链接) （[La Sonotasia](./La_Sonotasia.md)）
 : PIROPARU (未找到链接) （[グーシャンダグー](./グーシャンダグー.md)）
 : ちな (未找到链接)
 : 猫大繭香 (未找到链接)
-: ヒカミザ  (未找到链接) （モノクロモノクローム (未找到链接)）
+: ヒカミザ (未找到链接) （モノクロモノクローム (未找到链接)）
 : 不知火ツバサ (未找到链接) （LittleWing (未找到链接)）
 : 一膳 (未找到链接) （うんぬらむんぬら (未找到链接)）
 : しろみそ (未找到链接)
-: 好楽日和  (未找到链接) （[PROSCIUTTO](./PROSCIUTTO.md)）
+: 好楽日和 (未找到链接) （[PROSCIUTTO](./PROSCIUTTO.md)）
 : [平茸](./平茸.md) （[Aftergrow](./Aftergrow.md)）
 : キルロイ@罪袋 (未找到链接) （[恋色屋](./恋色屋.md)）
 : 夜猫 (未找到链接)
@@ -120,7 +111,7 @@ Planning
 : 生モノ (未找到链接)
 : あーく (未找到链接)
 : [三日月ネコ](./三日月ネコ.md)
-: 早乙女卯月  (未找到链接)
+: 早乙女卯月 (未找到链接)
 : Ilis (未找到链接) （Pebble (未找到链接)）
 : スギユウ (未找到链接) （しろくろうさ (未找到链接)）
 : 舞咲雅 (未找到链接)
@@ -172,16 +163,16 @@ Planning
 : きゃめろっと (未找到链接)
 : のむたろー (未找到链接)
 : [てら](./てら.md) （てらじまっX (未找到链接)）
-: Fifteen  (未找到链接) （[disfact](./disfact.md)）
+: Fifteen (未找到链接) （[disfact](./disfact.md)）
 : ちるだ (未找到链接) （feelings won't fade (未找到链接)）
 : 日野 (未找到链接)
 : tima (未找到链接)
 : Mr.ミルクキャラメル (未找到链接) （[柳瀬川](./柳瀬川.md)）
-: 臨人　矢同  (未找到链接)
+: 臨人　矢同 (未找到链接)
 : [けーさん](./けーさん.md) （けー散歩 (未找到链接)）
 : 鶴梅 (未找到链接)
 : すず虫 (未找到链接) （まるだし大行進 (未找到链接)）
-: 新宿壱の玄人  (未找到链接) （STW財団 (未找到链接)）
+: 新宿壱の玄人 (未找到链接) （STW財団 (未找到链接)）
 : [はきか](./はきか.md) （おじさんクレイモア (未找到链接)）
 : pun2 (未找到链接)
 : poko (未找到链接) （*mammypoko* (未找到链接)）
@@ -189,8 +180,8 @@ Planning
 : hassy (未找到链接) （12cm (未找到链接)）
 : [おいなり](./おいなり.md) （[天災族](./天災族.md)）
 : すきま (未找到链接) （CRIE (未找到链接)）
-: 武蔵野うどん  (未找到链接) （きぬかた (未找到链接)）
-: [天音](./天音.md) （[Rolling Contact](./Rolling_Contact.md)）
+: 武蔵野うどん (未找到链接) （きぬかた (未找到链接)）
+: [天音](./Amane_Oikawa.md) （[Rolling Contact](./Rolling_Contact.md)）
 : ターボ (未找到链接) （白沼洞窟 (未找到链接)）
 : ノア (未找到链接) （[LOST BLESS](./LOST_BLESS.md)）
 : AN (未找到链接) （[LOST BLESS](./LOST_BLESS.md)）
@@ -207,7 +198,7 @@ Planning
 : [耀 むー](./耀_むー.md) （[NoCturne](./NoCturne.md)）
 : エアシャカール (未找到链接) （[AIR WINDOW](./AIR_WINDOW.md)）
 : makoto (未找到链接) （[AIR WINDOW](./AIR_WINDOW.md)）
-: 冬酉  (未找到链接) （極彩ペンキハウス (未找到链接)）
+: 冬酉 (未找到链接) （極彩ペンキハウス (未找到链接)）
 : 129 (未找到链接) （くろぺも (未找到链接)）
 : 誤爆 (未找到链接) （きまぐれ散歩道 (未找到链接)）
 : ラボー (未找到链接)
@@ -226,14 +217,14 @@ Planning
 : まにゅ (未找到链接)
 : くい (未找到链接)
 : 餅月アド (未找到链接) （冥迷絵独 (未找到链接)）
-: 森野熊吉  (未找到链接)
-: 瑞希  (未找到链接)
+: 森野熊吉 (未找到链接)
+: 瑞希 (未找到链接)
 : 米浙　米 (未找到链接)
 : ちょっと (未找到链接)
 : ドブ川グループ (未找到链接)
 : 稲作 (未找到链接)
 : 如月 要 (未找到链接)
-: にた  (未找到链接)
+: にた (未找到链接)
 : AkiNA (未找到链接)
 : ぐるこ (未找到链接)
 : t2 (未找到链接)
@@ -243,14 +234,14 @@ Planning
 : なす (未找到链接)
 : うかみ (未找到链接)
 : みと (未找到链接) （すばらしき青空の会 (未找到链接)）
-: ふぃろぴと  (未找到链接)
+: ふぃろぴと (未找到链接)
 : [cYsmix](./cYsmix.md)
 : 荒海泰人 (未找到链接) （洋燈印 (未找到链接)）
 : ソラ(天乃ソラ) (未找到链接)
 : すぃ☆すぃ/ (未找到链接) （萃抄亭 (未找到链接)）
-: 上下右左（タカモトアキサ)  (未找到链接) （にゃー。とひだまり (未找到链接)）
-: 五檎  (未找到链接)
-: マロニー  (未找到链接)
+: 上下右左（タカモトアキサ) (未找到链接) （にゃー。とひだまり (未找到链接)）
+: 五檎 (未找到链接)
+: マロニー (未找到链接)
 : khaki (未找到链接)
 : ミスターＲ (未找到链接)
 : 睦眼 (未找到链接)
@@ -266,15 +257,15 @@ Planning
 : saari (未找到链接)
 : nekur@ (未找到链接)
 : ハzL (未找到链接) （うさぎ☆ロケット (未找到链接)）
-: うみかわ  (未找到链接) （銀色日記 (未找到链接)）
+: うみかわ (未找到链接) （銀色日記 (未找到链接)）
 : 雷汰 (未找到链接) （[遊星](./遊星.md)）
 : 因幡魔兎夜 (未找到链接)
 : かざきりばね (未找到链接)
 : 遼 (未找到链接)
-: あおとび  (未找到链接)
+: あおとび (未找到链接)
 : ロウ (未找到链接)
 : マシトノ (未找到链接)
-: グランドトライン  (未找到链接)
+: グランドトライン (未找到链接)
 : かめ (未找到链接)
 : 如月翔 (未找到链接)
 : 寺本ユーリ (未找到链接)
@@ -290,11 +281,11 @@ Planning
 : なば (未找到链接)
 : シネカ (未找到链接)
 : 沢谷とおる (未找到链接) （[兎想幻酒帳](./兎想幻酒帳.md)）
-: 鈴音ゆうじ (未找到链接) （おいもと (未找到链接)）
+: 鈴音ゆうじ (未找到链接) （[おいもと](./おいもと.md)）
 : グンジョウ (未找到链接) （てんぺすと。 (未找到链接)）
 : 柊タイガー (未找到链接) （peach valley (未找到链接)）
 : つくね (未找到链接)
-: 檻  (未找到链接)
+: 檻 (未找到链接)
 : [竜（人物）](./竜（人物）.md) （[つきのゆき](./つきのゆき.md)）
 : ユッチー (未找到链接) （PAINKILLER (未找到链接)）
 : sige (未找到链接) （Sapporo Hardcore Channel (未找到链接)）
@@ -317,7 +308,7 @@ Planning
 : tripper (未找到链接)
 : 唄 (未找到链接) （四匹の黒猫 (未找到链接)）
 : くずぎつね (未找到链接)
-: 神周黒姫  (未找到链接)
+: 神周黒姫 (未找到链接)
 : KAGE2 (未找到链接) （朝の月、夜の虹 (未找到链接)）
 : 真四角ボタン (未找到链接) （空のハニワ (未找到链接)）
 : ありす (未找到链接) （幻想鍋 (未找到链接)）
@@ -330,7 +321,7 @@ Planning
 : ろじうー (未找到链接)
 : 無月ゆう (未找到链接) （あめみず (未找到链接)）
 : らんどうあかね (未找到链接) （いぬもやさい (未找到链接)）
-: カルパ  (未找到链接) （もうおなかいっぱいです (未找到链接)）
+: カルパ (未找到链接) （もうおなかいっぱいです (未找到链接)）
 : ネコとカルパッチョ（合同サークル） (未找到链接)
 : [カギ](./カギ.md) （[迷走ポタージュ](./迷走ポタージュ.md)）
 : wonder (未找到链接) （[OrangeCoffee](./OrangeCoffee.md)）
@@ -341,7 +332,7 @@ Planning
 : 英戦 (未找到链接) （Forever and ever... (未找到链接)）
 : huji (未找到链接) （おとといのあれ (未找到链接)）
 : 深嶺ユミア (未找到链接)
-:  u＾з＾| (未找到链接) （なん・・・だと・・・ (未找到链接)）
+: u＾з＾| (未找到链接) （なん・・・だと・・・ (未找到链接)）
 : かずくん (未找到链接) （あめみず (未找到链接)）
 : [生パン](./生パン.md)
 : ルナティック瀟洒 (未找到链接)
@@ -352,13 +343,9 @@ Planning
 : 漆黒 (未找到链接)
 : 介； (未找到链接) （おれんじすふぃあ (未找到链接)）
 : 犬山あやとり (未找到链接)
-: 塙椙彪碼  (未找到链接) （Clear Colors (未找到链接)）
-
+: 塙椙彪碼 (未找到链接) （Clear Colors (未找到链接)）
 
 ## 评论
-
-
-
 
 ---
 

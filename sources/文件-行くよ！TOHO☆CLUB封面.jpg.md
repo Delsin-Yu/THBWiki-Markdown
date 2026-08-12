@@ -1,6 +1,6 @@
 # 文件:行くよ！TOHO☆CLUB封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6c\ns6%3A%E8%A1%8C%E3%81%8F%E3%82%88%EF%BC%81TOHO%E2%98%86CLUB%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6c\ns6%3A%E8%A1%8C%E3%81%8F%E3%82%88%EF%BC%81TOHO%E2%98%86CLUB%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Lapis_moss | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Lapis_moss | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [行くよ！TOHO☆CLUB](./行くよ！TOHO☆CLUB.md)  
-该封面包含的角色：- [洩矢诹访子](./洩矢诹访子.md)
+- [行くよ！TOHO☆CLUB](./行くよ！TOHO☆CLUB.md)该封面包含的角色：
+- [洩矢诹访子](./洩矢诹访子.md)
 
   
-源地址：[[1]](http://kobakyon.net/r11/LMCD-0011.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://kobakyon.net/r11/LMCD-0011.jpg)  
 
 ---
 

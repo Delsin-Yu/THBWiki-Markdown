@@ -1,12 +1,8 @@
 # 文件:Waiei_banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e2\ns6%3AWaiei_banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e2\ns6%3AWaiei_banner%2Egif.html -->
 
 Waiei | 社团LOGO
-
-
-
-
 
 
 ---

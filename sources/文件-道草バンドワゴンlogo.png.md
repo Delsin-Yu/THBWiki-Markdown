@@ -1,16 +1,11 @@
 # 文件:道草バンドワゴンlogo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f4\ns6%3A%E9%81%93%E8%8D%89%E3%83%90%E3%83%B3%E3%83%89%E3%83%AF%E3%82%B4%E3%83%B3logo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f4\ns6%3A%E9%81%93%E8%8D%89%E3%83%90%E3%83%B3%E3%83%89%E3%83%AF%E3%82%B4%E3%83%B3logo%2Epng.html -->
 
 社团LOGO | 道草バンドワゴン
 
   
-源地址：[[1]](http://bandwagon.blue/wp-content/uploads/2018/06/サークルロゴ（白）して.png)
-  
-
-
-
-
+源地址：[\[1\]](http://bandwagon.blue/wp-content/uploads/2018/06/サークルロゴ（白）して.png)  
 
 ---
 

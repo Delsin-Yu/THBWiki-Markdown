@@ -1,6 +1,6 @@
 # 文件:DELICATESSEN封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d4\ns6%3ADELICATESSEN%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d4\ns6%3ADELICATESSEN%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 有限会社三野
 
@@ -11,9 +11,6 @@
   
 
 - [DELICATESSEN](./DELICATESSEN.md)
-
-
-
 
 
 ---

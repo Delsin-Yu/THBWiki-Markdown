@@ -1,6 +1,6 @@
 # 文件:Hope_and_Despair_e.p.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b5\ns6%3AHope_and_Despair_e%2Ep%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b5\ns6%3AHope_and_Despair_e%2Ep%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Scrapyard | 专辑封面 | 封面图片
 
@@ -11,12 +11,7 @@ Scrapyard | 专辑封面 | 封面图片
 - [Hope and Despair e.p.](./Hope_and_Despair_e.p..md)
 
   
-源地址：[[1]](http://scrapyard12.web.fc2.com/page/img/jacket.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://scrapyard12.web.fc2.com/page/img/jacket.jpg)  
 
 ---
 

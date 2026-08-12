@@ -1,12 +1,8 @@
 # 文件:雨上がりの鉛筆banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ae\ns6%3A%E9%9B%A8%E4%B8%8A%E3%81%8C%E3%82%8A%E3%81%AE%E9%89%9B%E7%AD%86banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ae\ns6%3A%E9%9B%A8%E4%B8%8A%E3%81%8C%E3%82%8A%E3%81%AE%E9%89%9B%E7%AD%86banner%2Ejpg.html -->
 
 社团LOGO | 雨上がりの鉛筆
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:蝶舞幽華Outside_Story_I-Your_Dream,_My_Dream-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b3\ns6%3A%E8%9D%B6%E8%88%9E%E5%B9%BD%E8%8F%AFOutside_Story_I-Your_Dream%2C_My_Dream-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b3\ns6%3A%E8%9D%B6%E8%88%9E%E5%B9%BD%E8%8F%AFOutside_Story_I-Your_Dream%2C_My_Dream-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Twilight~日月之境~ | 同人志封面 | 封面图片
 
@@ -8,11 +8,8 @@ Twilight~日月之境~ | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [蝶舞幽華Outside Story I-Your Dream, My Dream-](./蝶舞幽華Outside_Story_I-Your_Dream,_My_Dream-.md)  
-该封面包含的角色：- [西行寺幽幽子](./西行寺幽幽子.md)
-
-
-
+- [蝶舞幽華Outside Story I-Your Dream, My Dream-](./蝶舞幽華Outside_Story_I-Your_Dream,_My_Dream-.md)该封面包含的角色：
+- [西行寺幽幽子](./西行寺幽幽子.md)
 
 
 ---

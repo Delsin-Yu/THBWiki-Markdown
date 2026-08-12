@@ -1,6 +1,6 @@
 # 文件:SANDZ_OF_TIMEZ封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\50\ns6%3ASANDZ_OF_TIMEZ%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\50\ns6%3ASANDZ_OF_TIMEZ%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 ZYTOKINE | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ ZYTOKINE | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [SANDZ OF TIMEZ](./SANDZ_OF_TIMEZ.md)  
-该封面包含的角色：- [鬼人正邪](./鬼人正邪.md)
-
-
-
+- [SANDZ OF TIMEZ](./SANDZ_OF_TIMEZ.md)该封面包含的角色：
+- [鬼人正邪](./鬼人正邪.md)
 
 
 ---

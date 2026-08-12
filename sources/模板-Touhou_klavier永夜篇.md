@@ -1,16 +1,12 @@
 # 模板:Touhou_klavier永夜篇
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\9\96\ns10%3ATouhou_klavier%E6%B0%B8%E5%A4%9C%E7%AF%87.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\9\96\ns10%3ATouhou_klavier%E6%B0%B8%E5%A4%9C%E7%AF%87.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

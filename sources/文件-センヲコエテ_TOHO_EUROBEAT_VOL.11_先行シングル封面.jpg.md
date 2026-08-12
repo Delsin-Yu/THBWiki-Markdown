@@ -1,6 +1,6 @@
 # 文件:センヲコエテ_TOHO_EUROBEAT_VOL.11_先行シングル封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f0\ns6%3A%E3%82%BB%E3%83%B3%E3%83%B2%E3%82%B3%E3%82%A8%E3%83%86_TOHO_EUROBEAT_VOL%2E11_%E5%85%88%E8%A1%8C%E3%82%B7%E3%83%B3%E3%82%B0%E3%83%AB%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f0\ns6%3A%E3%82%BB%E3%83%B3%E3%83%B2%E3%82%B3%E3%82%A8%E3%83%86_TOHO_EUROBEAT_VOL%2E11_%E5%85%88%E8%A1%8C%E3%82%B7%E3%83%B3%E3%82%B0%E3%83%AB%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 A-One | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ A-One | 专辑封面 | 封面图片
   
 
 - [センヲコエテ TOHO EUROBEAT VOL.11 先行シングル](./センヲコエテ_TOHO_EUROBEAT_VOL.11_先行シングル.md)
-
-
-
 
 
 ---

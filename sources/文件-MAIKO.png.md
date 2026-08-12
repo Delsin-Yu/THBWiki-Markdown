@@ -1,12 +1,8 @@
 # 文件:MAIKO.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1d\ns6%3AMAIKO%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1d\ns6%3AMAIKO%2Epng.html -->
 
 不破见舞子 | 二次角色立绘
-
-
-
-
 
 
 ---

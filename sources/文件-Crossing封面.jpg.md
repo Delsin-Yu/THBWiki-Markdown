@@ -1,6 +1,6 @@
 # 文件:Crossing封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\80\ns6%3ACrossing%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\80\ns6%3ACrossing%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 SJV-SC | 专辑封面 | 封面图片
 
@@ -10,11 +10,16 @@ SJV-SC | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Crossing](./Crossing.md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)- [秋静叶](./秋静叶.md)- [秋穰子](./秋穰子.md)- [键山雏](./键山雏.md)- [河城荷取](./河城荷取.md)- [犬走椛](./犬走椛.md)- [东风谷早苗](./东风谷早苗.md)- [八坂神奈子](./八坂神奈子.md)- [洩矢诹访子](./洩矢诹访子.md)
-
-
-
+- [Crossing](./Crossing.md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
+- [秋静叶](./秋静叶.md)
+- [秋穰子](./秋穰子.md)
+- [键山雏](./键山雏.md)
+- [河城荷取](./河城荷取.md)
+- [犬走椛](./犬走椛.md)
+- [东风谷早苗](./东风谷早苗.md)
+- [八坂神奈子](./八坂神奈子.md)
+- [洩矢诹访子](./洩矢诹访子.md)
 
 
 ---

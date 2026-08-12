@@ -1,6 +1,6 @@
 # 文件:負条理境界線_-MinusSide_BorderLine-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4f\ns6%3A%E8%B2%A0%E6%9D%A1%E7%90%86%E5%A2%83%E7%95%8C%E7%B7%9A_-MinusSide_BorderLine-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4f\ns6%3A%E8%B2%A0%E6%9D%A1%E7%90%86%E5%A2%83%E7%95%8C%E7%B7%9A_-MinusSide_BorderLine-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 幻界プロミネンス
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [負条理境界線 -MinusSide BorderLine-](./負条理境界線_-MinusSide_BorderLine-.md)  
-该封面包含的角色：- [八云紫](./八云紫.md)
-
-
-
+- [負条理境界線 -MinusSide BorderLine-](./負条理境界線_-MinusSide_BorderLine-.md)该封面包含的角色：
+- [八云紫](./八云紫.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:ゲンソウキョウパトリオティズム_Reload_GUNLOCK封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7a\ns6%3A%E3%82%B2%E3%83%B3%E3%82%BD%E3%82%A6%E3%82%AD%E3%83%A7%E3%82%A6%E3%83%91%E3%83%88%E3%83%AA%E3%82%AA%E3%83%86%E3%82%A3%E3%82%BA%E3%83%A0_Reload_GUNLOCK%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7a\ns6%3A%E3%82%B2%E3%83%B3%E3%82%BD%E3%82%A6%E3%82%AD%E3%83%A7%E3%82%A6%E3%83%91%E3%83%88%E3%83%AA%E3%82%AA%E3%83%86%E3%82%A3%E3%82%BA%E3%83%A0_Reload_GUNLOCK%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ああ言えばこう言う | ぷら爆屋 | もいすちゃー | アークポエミィ | 同人志封面 | 始まりは健全に。 | 封面图片 | 御風呂帝国の終焉
 
@@ -8,11 +8,13 @@
 使用了本文件作封面图片的作品：
   
 
-- [ゲンソウキョウパトリオティズム Reload GUNLOCK](./ゲンソウキョウパトリオティズム_Reload_GUNLOCK.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)- [博丽灵梦](./博丽灵梦.md)- [魂魄妖梦](./魂魄妖梦.md)- [洩矢诹访子](./洩矢诹访子.md)- [村纱水蜜](./村纱水蜜.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [ゲンソウキョウパトリオティズム Reload GUNLOCK](./ゲンソウキョウパトリオティズム_Reload_GUNLOCK.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
+- [博丽灵梦](./博丽灵梦.md)
+- [魂魄妖梦](./魂魄妖梦.md)
+- [洩矢诹访子](./洩矢诹访子.md)
+- [村纱水蜜](./村纱水蜜.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

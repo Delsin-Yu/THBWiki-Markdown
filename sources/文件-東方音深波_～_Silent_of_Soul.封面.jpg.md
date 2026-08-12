@@ -1,6 +1,6 @@
 # 文件:東方音深波_～_Silent_of_Soul.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e7\ns6%3A%E6%9D%B1%E6%96%B9%E9%9F%B3%E6%B7%B1%E6%B3%A2_%EF%BD%9E_Silent_of_Soul%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e7\ns6%3A%E6%9D%B1%E6%96%B9%E9%9F%B3%E6%B7%B1%E6%B3%A2_%EF%BD%9E_Silent_of_Soul%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 草木張月
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方音深波 ～ Silent of Soul.](./東方音深波_～_Silent_of_Soul..md)  
-该封面包含的角色：- 海濑头椎音 (未找到链接)
+- [東方音深波 ～ Silent of Soul.](./東方音深波_～_Silent_of_Soul..md)该封面包含的角色：
+- 海濑头椎音 (未找到链接)
 
   
-源地址：[direct image link (original size)](https://melonbooks.akamaized.net/upload/save_image/213001036900.jpg), [from Melonbooks](https://www.melonbooks.co.jp/detail/detail.php?product_id=1104843)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://melonbooks.akamaized.net/upload/save_image/213001036900.jpg), [from Melonbooks](https://www.melonbooks.co.jp/detail/detail.php?product_id=1104843)  
 
 ---
 

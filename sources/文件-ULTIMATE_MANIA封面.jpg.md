@@ -1,6 +1,6 @@
 # 文件:ULTIMATE_MANIA封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3e\ns6%3AULTIMATE_MANIA%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3e\ns6%3AULTIMATE_MANIA%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ESQUARIA | 专辑封面 | 封面图片
 
@@ -8,11 +8,10 @@ ESQUARIA | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [ULTIMATE MANIA](./ULTIMATE_MANIA.md)  
-该封面包含的角色：- [摩多罗隐岐奈](./摩多罗隐岐奈.md)- [尔子田里乃](./尔子田里乃.md)- [丁礼田舞](./丁礼田舞.md)
-
-
-
+- [ULTIMATE MANIA](./ULTIMATE_MANIA.md)该封面包含的角色：
+- [摩多罗隐岐奈](./摩多罗隐岐奈.md)
+- [尔子田里乃](./尔子田里乃.md)
+- [丁礼田舞](./丁礼田舞.md)
 
 
 ---

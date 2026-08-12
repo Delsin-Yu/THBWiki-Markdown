@@ -1,14 +1,13 @@
 # Ruw
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\a\a9\ns0%3ARuw.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\a\a9\ns0%3ARuw.html -->
 
 东方关联人物 | 公式关联人物 | 现实人物
 
 本页是关于  
- **[与ZUN有一定关联的现实人物](./东方关联人物列表.md)** 的词条
-[](./文件-pd采访2_9.jpg.md)  [](./文件-pd采访2_9.jpg.md)Ruw
+**[与ZUN有一定关联的现实人物](./东方关联人物列表.md)**的词条<img alt="" src="https://upload.thwiki.cc/thumb/3/34/pd%E9%87%87%E8%AE%BF2_9.jpg/300px-pd%E9%87%87%E8%AE%BF2_9.jpg" decoding="async" loading="lazy" width="300" height="200" class="thumbimage" srcset="https://upload.thwiki.cc/3/34/pd%E9%87%87%E8%AE%BF2_9.jpg 1.5x" data-file-width="400" data-file-height="266">
+ [放大](./文件-pd采访2_9.jpg.md)Ruw
 <table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td style="width:120px"><b>人物名</b></td><td style="min-width:300px">Ruw（小山田文雄）</td></tr><tr><td><b>日文名</b></td><td>ルー</td></tr><tr><td><b>性别</b></td><td>男</td></tr><tr><td><b>所属社团</b></td><td><a href="./D.N.A.Softwares.md" title="D.N.A.Softwares">D.N.A.Softwares</a></td></tr><tr><td><b>个人网页</b></td><td><a rel="nofollow" class="external text" href="https://twitter.com/Ruw">推特</a> <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到需要翻墙网页">（需要翻墙）</span></td></tr></tbody></table>
-
 
 
 ## 经历简介
@@ -17,10 +16,6 @@
 
 主要负责东方Project的版权处理。
   
-
-
-
-
 
 ---
 

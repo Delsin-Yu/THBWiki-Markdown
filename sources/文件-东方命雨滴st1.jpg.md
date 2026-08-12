@@ -1,12 +1,8 @@
 # 文件:东方命雨滴st1.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ab\ns6%3A%E4%B8%9C%E6%96%B9%E5%91%BD%E9%9B%A8%E6%BB%B4st1%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ab\ns6%3A%E4%B8%9C%E6%96%B9%E5%91%BD%E9%9B%A8%E6%BB%B4st1%2Ejpg.html -->
 
 Τeam_αlternative_Σnding
-
-
-
-
 
 
 ---

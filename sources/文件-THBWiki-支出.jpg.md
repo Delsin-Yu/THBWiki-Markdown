@@ -1,12 +1,8 @@
 # 文件:THBWiki-支出.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\57\ns6%3ATHBWiki-%E6%94%AF%E5%87%BA%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\57\ns6%3ATHBWiki-%E6%94%AF%E5%87%BA%2Ejpg.html -->
 
 THBWiki | Wiki页面装修用图
-
-
-
-
 
 
 ---

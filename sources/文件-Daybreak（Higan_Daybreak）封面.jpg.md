@@ -1,6 +1,6 @@
 # 文件:Daybreak（Higan_Daybreak）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5b\ns6%3ADaybreak%EF%BC%88Higan_Daybreak%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5b\ns6%3ADaybreak%EF%BC%88Higan_Daybreak%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Higan_Daybreak | 专辑封面 | 封面图片
 
@@ -8,12 +8,10 @@ Higan_Daybreak | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Daybreak（Higan Daybreak）](./Daybreak（Higan_Daybreak）.md)  
-该封面包含的角色：- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)源地址：[[1]](https://f4.bcbits.com/img/a3034361632_10.jpg)
-
-
-
-
+- [Daybreak（Higan Daybreak）](./Daybreak（Higan_Daybreak）.md)该封面包含的角色：
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
+- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)
+源地址：[\[1\]](https://f4.bcbits.com/img/a3034361632_10.jpg)
 
 ---
 

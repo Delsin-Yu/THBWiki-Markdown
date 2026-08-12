@@ -1,6 +1,6 @@
 # 文件:幻想万華鏡「華鳥風月」PV封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cd\ns6%3A%E5%B9%BB%E6%83%B3%E4%B8%87%E8%8F%AF%E9%8F%A1%E3%80%8C%E8%8F%AF%E9%B3%A5%E9%A2%A8%E6%9C%88%E3%80%8DPV%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cd\ns6%3A%E5%B9%BB%E6%83%B3%E4%B8%87%E8%8F%AF%E9%8F%A1%E3%80%8C%E8%8F%AF%E9%B3%A5%E9%A2%A8%E6%9C%88%E3%80%8DPV%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 封面图片 | 幽闭星光 | 満福神社 | 视频封面
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [幻想万華鏡「華鳥風月」PV](./幻想万華鏡「華鳥風月」PV.md)  
-该封面包含的角色：- [小野塚小町](./小野塚小町.md)- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)
-
-
-
+- [幻想万華鏡「華鳥風月」PV](./幻想万華鏡「華鳥風月」PV.md)该封面包含的角色：
+- [小野塚小町](./小野塚小町.md)
+- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)
 
 
 ---

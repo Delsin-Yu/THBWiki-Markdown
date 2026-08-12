@@ -1,6 +1,6 @@
 # 文件:TO_LIVE_TO_DIE封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\74\ns6%3ATO_LIVE_TO_DIE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\74\ns6%3ATO_LIVE_TO_DIE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Kissing_the_Mirror | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Kissing_the_Mirror | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [TO LIVE TO DIE](./TO_LIVE_TO_DIE.md)  
-该封面包含的角色：- [藤原妹红](./藤原妹红.md)
-
-
-
+- [TO LIVE TO DIE](./TO_LIVE_TO_DIE.md)该封面包含的角色：
+- [藤原妹红](./藤原妹红.md)
 
 
 ---

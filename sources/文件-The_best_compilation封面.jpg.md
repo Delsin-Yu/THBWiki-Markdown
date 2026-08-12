@@ -1,6 +1,6 @@
 # 文件:The_best_compilation封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b3\ns6%3AThe_best_compilation%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b3\ns6%3AThe_best_compilation%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 CTBR | 专辑封面 | 封面图片
 
@@ -8,11 +8,10 @@ CTBR | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [The best compilation](./The_best_compilation.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- 神奈备命 (未找到链接)- 美坂栞 (未找到链接)
-
-
-
+- [The best compilation](./The_best_compilation.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- 神奈备命 (未找到链接)
+- 美坂栞 (未找到链接)
 
 
 ---

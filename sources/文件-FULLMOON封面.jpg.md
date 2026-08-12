@@ -1,6 +1,6 @@
 # 文件:FULLMOON封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a1\ns6%3AFULLMOON%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a1\ns6%3AFULLMOON%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Reset_All_Controllers | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Reset_All_Controllers | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [FULLMOON](./FULLMOON.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [FULLMOON](./FULLMOON.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
   
-源地址：[[1]](https://twitter.com/adazakura_midi/status/728081368257695745)
-  
-
-
-
-
+源地址：[\[1\]](https://twitter.com/adazakura_midi/status/728081368257695745)  
 
 ---
 

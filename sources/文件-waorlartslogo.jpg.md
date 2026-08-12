@@ -1,14 +1,11 @@
 # 文件:waorlartslogo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6c\ns6%3Awaorlartslogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6c\ns6%3Awaorlartslogo%2Ejpg.html -->
 
 waorlarts | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:TOHO_EUROBEAT_VOL.9_UNDEFINED_FANTASTIC_OBJECT封面.jpeg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e0\ns6%3ATOHO_EUROBEAT_VOL%2E9_UNDEFINED_FANTASTIC_OBJECT%E5%B0%81%E9%9D%A2%2Ejpeg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e0\ns6%3ATOHO_EUROBEAT_VOL%2E9_UNDEFINED_FANTASTIC_OBJECT%E5%B0%81%E9%9D%A2%2Ejpeg.html -->
 
 A-One | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ A-One | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [TOHO EUROBEAT VOL.9 UNDEFINED FANTASTIC OBJECT](./TOHO_EUROBEAT_VOL.9_UNDEFINED_FANTASTIC_OBJECT.md)  
-该封面包含的角色：- [圣白莲](./圣白莲.md)
-
-
-
+- [TOHO EUROBEAT VOL.9 UNDEFINED FANTASTIC OBJECT](./TOHO_EUROBEAT_VOL.9_UNDEFINED_FANTASTIC_OBJECT.md)该封面包含的角色：
+- [圣白莲](./圣白莲.md)
 
 
 ---

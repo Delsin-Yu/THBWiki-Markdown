@@ -1,6 +1,6 @@
 # 文件:夢現紀行_-_Daydream_Traveler.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\47\ns6%3A%E5%A4%A2%E7%8F%BE%E7%B4%80%E8%A1%8C_-_Daydream_Traveler%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\47\ns6%3A%E5%A4%A2%E7%8F%BE%E7%B4%80%E8%A1%8C_-_Daydream_Traveler%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 AncientChronicle | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ AncientChronicle | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [夢現紀行 - Daydream Traveler.](./夢現紀行_-_Daydream_Traveler..md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
-
-
-
+- [夢現紀行 - Daydream Traveler.](./夢現紀行_-_Daydream_Traveler..md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
 
 
 ---

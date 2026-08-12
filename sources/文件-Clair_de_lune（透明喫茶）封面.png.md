@@ -1,6 +1,6 @@
 # 文件:Clair_de_lune（透明喫茶）封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d1\ns6%3AClair_de_lune%EF%BC%88%E9%80%8F%E6%98%8E%E5%96%AB%E8%8C%B6%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d1\ns6%3AClair_de_lune%EF%BC%88%E9%80%8F%E6%98%8E%E5%96%AB%E8%8C%B6%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 同人志封面 | 封面图片 | 透明喫茶
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Clair de lune（透明喫茶）](./Clair_de_lune（透明喫茶）.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)
+- [Clair de lune（透明喫茶）](./Clair_de_lune（透明喫茶）.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
 
   
-源地址：[direct image link (original size; cropped and rotated)](https://pbs.twimg.com/media/E6gOAmyUcAA7gZK?format=jpg&amp;name=orig), [source tweet](https://twitter.com/jan_husaren/status/1416397576459329539)
-  
-
-
-
-
+源地址：[direct image link (original size; cropped and rotated)](https://pbs.twimg.com/media/E6gOAmyUcAA7gZK?format=jpg&name=orig), [source tweet](https://twitter.com/jan_husaren/status/1416397576459329539)  
 
 ---
 

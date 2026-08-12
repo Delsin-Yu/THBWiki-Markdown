@@ -1,12 +1,8 @@
 # 文件:旧约酒馆cover3.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\61\ns6%3A%E6%97%A7%E7%BA%A6%E9%85%92%E9%A6%86cover3%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\61\ns6%3A%E6%97%A7%E7%BA%A6%E9%85%92%E9%A6%86cover3%2Epng.html -->
 
 官方CD光盘扫图 | 旧约酒馆
-
-
-
-
 
 
 ---

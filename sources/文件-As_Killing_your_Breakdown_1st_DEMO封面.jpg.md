@@ -1,6 +1,6 @@
 # 文件:As_Killing_your_Breakdown_1st_DEMO封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c5\ns6%3AAs_Killing_your_Breakdown_1st_DEMO%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c5\ns6%3AAs_Killing_your_Breakdown_1st_DEMO%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 As_Killing_your_Breakdown | 专辑封面 | 封面图片
 
@@ -11,12 +11,7 @@ As_Killing_your_Breakdown | 专辑封面 | 封面图片
 - [As Killing your Breakdown 1st DEMO](./As_Killing_your_Breakdown_1st_DEMO.md)
 
   
-源地址：[[1]](https://i1.sndcdn.com/artworks-000060768892-62jrm1-t500x500.jpg), [source track](https://soundcloud.com/as-killing-your-breakdown/as-killing-your-breakdown-1st)
-  
-
-
-
-
+源地址：[\[1\]](https://i1.sndcdn.com/artworks-000060768892-62jrm1-t500x500.jpg), [source track](https://soundcloud.com/as-killing-your-breakdown/as-killing-your-breakdown-1st)  
 
 ---
 

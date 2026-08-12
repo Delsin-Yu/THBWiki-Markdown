@@ -1,6 +1,6 @@
 # 文件:旧巷夜谈～Acataleptic_Akashic封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4a\ns6%3A%E6%97%A7%E5%B7%B7%E5%A4%9C%E8%B0%88%EF%BD%9EAcataleptic_Akashic%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4a\ns6%3A%E6%97%A7%E5%B7%B7%E5%A4%9C%E8%B0%88%EF%BD%9EAcataleptic_Akashic%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Iris（同人社团） | 专辑封面 | 封面图片 | 幻想跃迁实验室
 
@@ -8,11 +8,8 @@ Iris（同人社团） | 专辑封面 | 封面图片 | 幻想跃迁实验室
 使用了本文件作封面图片的作品：
   
 
-- [旧巷夜谈～Acataleptic Akashic](./旧巷夜谈～Acataleptic_Akashic.md)  
-该封面包含的角色：- 柳泉部 (未找到链接)
-
-
-
+- [旧巷夜谈～Acataleptic Akashic](./旧巷夜谈～Acataleptic_Akashic.md)该封面包含的角色：
+- 柳泉部 (未找到链接)
 
 
 ---

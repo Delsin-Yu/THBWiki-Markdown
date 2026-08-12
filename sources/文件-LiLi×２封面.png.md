@@ -1,6 +1,6 @@
 # 文件:LiLi×２封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c5\ns6%3ALiLi%C3%97%EF%BC%92%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c5\ns6%3ALiLi%C3%97%EF%BC%92%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 同人志封面 | 夢見里 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [LiLi×２](./LiLi×２.md)  
-该封面包含的角色：- [莉莉霍瓦特](./莉莉霍瓦特.md)
-
-
-
+- [LiLi×２](./LiLi×２.md)该封面包含的角色：
+- [莉莉霍瓦特](./莉莉霍瓦特.md)
 
 
 ---

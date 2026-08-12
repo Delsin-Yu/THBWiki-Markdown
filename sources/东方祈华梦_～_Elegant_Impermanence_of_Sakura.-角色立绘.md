@@ -1,10 +1,11 @@
 # 东方祈华梦_～_Elegant_Impermanence_of_Sakura./角色立绘
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\a\a9\ns0%3A%E4%B8%9C%E6%96%B9%E7%A5%88%E5%8D%8E%E6%A2%A6_%EF%BD%9E_Elegant_Impermanence_of_Sakura%2E%2F%E8%A7%92%E8%89%B2%E7%AB%8B%E7%BB%98.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\a\a9\ns0%3A%E4%B8%9C%E6%96%B9%E7%A5%88%E5%8D%8E%E6%A2%A6_%EF%BD%9E_Elegant_Impermanence_of_Sakura%2E%2F%E8%A7%92%E8%89%B2%E7%AB%8B%E7%BB%98.html -->
 
 东方祈华梦制作组
 
-- 本词条内容为同人游戏 **[东方祈华梦](./东方祈华梦_～_Elegant_Impermanence_of_Sakura..md)** 的所有角色立绘
+
+- 本词条内容为同人游戏**[东方祈华梦](./东方祈华梦_～_Elegant_Impermanence_of_Sakura..md)**的所有角色立绘
 
 
 <table>
@@ -64,7 +65,7 @@
 </td>
 <td><a href="./文件-虚城妃奏华（祈华梦立绘）normal.png.md" class="image"><img alt="虚城妃奏华（祈华梦立绘）normal.png" src="https://upload.thwiki.cc/thumb/6/64/%E8%99%9A%E5%9F%8E%E5%A6%83%E5%A5%8F%E5%8D%8E%EF%BC%88%E7%A5%88%E5%8D%8E%E6%A2%A6%E7%AB%8B%E7%BB%98%EF%BC%89normal.png/100px-%E8%99%9A%E5%9F%8E%E5%A6%83%E5%A5%8F%E5%8D%8E%EF%BC%88%E7%A5%88%E5%8D%8E%E6%A2%A6%E7%AB%8B%E7%BB%98%EF%BC%89normal.png" decoding="async" loading="lazy" width="100" height="92" srcset="https://upload.thwiki.cc/thumb/6/64/%E8%99%9A%E5%9F%8E%E5%A6%83%E5%A5%8F%E5%8D%8E%EF%BC%88%E7%A5%88%E5%8D%8E%E6%A2%A6%E7%AB%8B%E7%BB%98%EF%BC%89normal.png/150px-%E8%99%9A%E5%9F%8E%E5%A6%83%E5%A5%8F%E5%8D%8E%EF%BC%88%E7%A5%88%E5%8D%8E%E6%A2%A6%E7%AB%8B%E7%BB%98%EF%BC%89normal.png 1.5x, https://upload.thwiki.cc/thumb/6/64/%E8%99%9A%E5%9F%8E%E5%A6%83%E5%A5%8F%E5%8D%8E%EF%BC%88%E7%A5%88%E5%8D%8E%E6%A2%A6%E7%AB%8B%E7%BB%98%EF%BC%89normal.png/200px-%E8%99%9A%E5%9F%8E%E5%A6%83%E5%A5%8F%E5%8D%8E%EF%BC%88%E7%A5%88%E5%8D%8E%E6%A2%A6%E7%AB%8B%E7%BB%98%EF%BC%89normal.png 2x" data-file-width="2184" data-file-height="1999"></a>
 </td>
-<td><a href="./文件-莉莉霍瓦特（祈华梦立绘）normal.png.md" class="image" title="游戏中并未实际使用"><img alt="游戏中并未实际使用" src="https://upload.thwiki.cc/thumb/6/63/%E8%8E%89%E8%8E%89%E9%9C%8D%E7%93%A6%E7%89%B9%EF%BC%88%E7%A5%88%E5%8D%8E%E6%A2%A6%E7%AB%8B%E7%BB%98%EF%BC%89normal.png/100px-%E8%8E%89%E8%8E%89%E9%9C%8D%E7%93%A6%E7%89%B9%EF%BC%88%E7%A5%88%E5%8D%8E%E6%A2%A6%E7%AB%8B%E7%BB%98%EF%BC%89normal.png" decoding="async" loading="lazy" width="100" height="95" srcset="https://upload.thwiki.cc/thumb/6/63/%E8%8E%89%E8%8E%89%E9%9C%8D%E7%93%A6%E7%89%B9%EF%BC%88%E7%A5%88%E5%8D%8E%E6%A2%A6%E7%AB%8B%E7%BB%98%EF%BC%89normal.png/150px-%E8%8E%89%E8%8E%89%E9%9C%8D%E7%93%A6%E7%89%B9%EF%BC%88%E7%A5%88%E5%8D%8E%E6%A2%A6%E7%AB%8B%E7%BB%98%EF%BC%89normal.png 1.5x, https://upload.thwiki.cc/thumb/6/63/%E8%8E%89%E8%8E%89%E9%9C%8D%E7%93%A6%E7%89%B9%EF%BC%88%E7%A5%88%E5%8D%8E%E6%A2%A6%E7%AB%8B%E7%BB%98%EF%BC%89normal.png/200px-%E8%8E%89%E8%8E%89%E9%9C%8D%E7%93%A6%E7%89%B9%EF%BC%88%E7%A5%88%E5%8D%8E%E6%A2%A6%E7%AB%8B%E7%BB%98%EF%BC%89normal.png 2x" data-file-width="1941" data-file-height="1839"></a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">1</a></sup>
+<td><a href="./文件-莉莉霍瓦特（祈华梦立绘）normal.png.md" class="image" title="游戏中并未实际使用"><img alt="游戏中并未实际使用" src="https://upload.thwiki.cc/thumb/6/63/%E8%8E%89%E8%8E%89%E9%9C%8D%E7%93%A6%E7%89%B9%EF%BC%88%E7%A5%88%E5%8D%8E%E6%A2%A6%E7%AB%8B%E7%BB%98%EF%BC%89normal.png/100px-%E8%8E%89%E8%8E%89%E9%9C%8D%E7%93%A6%E7%89%B9%EF%BC%88%E7%A5%88%E5%8D%8E%E6%A2%A6%E7%AB%8B%E7%BB%98%EF%BC%89normal.png" decoding="async" loading="lazy" width="100" height="95" srcset="https://upload.thwiki.cc/thumb/6/63/%E8%8E%89%E8%8E%89%E9%9C%8D%E7%93%A6%E7%89%B9%EF%BC%88%E7%A5%88%E5%8D%8E%E6%A2%A6%E7%AB%8B%E7%BB%98%EF%BC%89normal.png/150px-%E8%8E%89%E8%8E%89%E9%9C%8D%E7%93%A6%E7%89%B9%EF%BC%88%E7%A5%88%E5%8D%8E%E6%A2%A6%E7%AB%8B%E7%BB%98%EF%BC%89normal.png 1.5x, https://upload.thwiki.cc/thumb/6/63/%E8%8E%89%E8%8E%89%E9%9C%8D%E7%93%A6%E7%89%B9%EF%BC%88%E7%A5%88%E5%8D%8E%E6%A2%A6%E7%AB%8B%E7%BB%98%EF%BC%89normal.png/200px-%E8%8E%89%E8%8E%89%E9%9C%8D%E7%93%A6%E7%89%B9%EF%BC%88%E7%A5%88%E5%8D%8E%E6%A2%A6%E7%AB%8B%E7%BB%98%EF%BC%89normal.png 2x" data-file-width="1941" data-file-height="1839"></a><span>[^cite_note-1]</span>
 </td>
 <td><a href="./文件-神宫寺祈（祈华梦立绘）normal.png.md" class="image"><img alt="神宫寺祈（祈华梦立绘）normal.png" src="https://upload.thwiki.cc/thumb/0/0e/%E7%A5%9E%E5%AE%AB%E5%AF%BA%E7%A5%88%EF%BC%88%E7%A5%88%E5%8D%8E%E6%A2%A6%E7%AB%8B%E7%BB%98%EF%BC%89normal.png/100px-%E7%A5%9E%E5%AE%AB%E5%AF%BA%E7%A5%88%EF%BC%88%E7%A5%88%E5%8D%8E%E6%A2%A6%E7%AB%8B%E7%BB%98%EF%BC%89normal.png" decoding="async" loading="lazy" width="100" height="141" srcset="https://upload.thwiki.cc/thumb/0/0e/%E7%A5%9E%E5%AE%AB%E5%AF%BA%E7%A5%88%EF%BC%88%E7%A5%88%E5%8D%8E%E6%A2%A6%E7%AB%8B%E7%BB%98%EF%BC%89normal.png/150px-%E7%A5%9E%E5%AE%AB%E5%AF%BA%E7%A5%88%EF%BC%88%E7%A5%88%E5%8D%8E%E6%A2%A6%E7%AB%8B%E7%BB%98%EF%BC%89normal.png 1.5x, https://upload.thwiki.cc/thumb/0/0e/%E7%A5%9E%E5%AE%AB%E5%AF%BA%E7%A5%88%EF%BC%88%E7%A5%88%E5%8D%8E%E6%A2%A6%E7%AB%8B%E7%BB%98%EF%BC%89normal.png/200px-%E7%A5%9E%E5%AE%AB%E5%AF%BA%E7%A5%88%EF%BC%88%E7%A5%88%E5%8D%8E%E6%A2%A6%E7%AB%8B%E7%BB%98%EF%BC%89normal.png 2x" data-file-width="2150" data-file-height="3035"></a>
 </td>
@@ -647,12 +648,7 @@
 <td>
 </td></tr></tbody></table>
 
-
 [^cite_note-1]: 游戏中并未实际使用到该素材
-
-
-
-
 
 ---
 

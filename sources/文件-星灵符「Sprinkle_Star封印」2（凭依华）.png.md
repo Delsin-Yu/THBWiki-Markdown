@@ -1,12 +1,8 @@
 # 文件:星灵符「Sprinkle_Star封印」2（凭依华）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\de\ns6%3A%E6%98%9F%E7%81%B5%E7%AC%A6%E3%80%8CSprinkle_Star%E5%B0%81%E5%8D%B0%E3%80%8D2%EF%BC%88%E5%87%AD%E4%BE%9D%E5%8D%8E%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\de\ns6%3A%E6%98%9F%E7%81%B5%E7%AC%A6%E3%80%8CSprinkle_Star%E5%B0%81%E5%8D%B0%E3%80%8D2%EF%BC%88%E5%87%AD%E4%BE%9D%E5%8D%8E%EF%BC%89%2Epng.html -->
 
 东方凭依华 | 博丽灵梦 | 敌机符卡 | 雾雨魔理沙
-
-
-
-
 
 
 ---

@@ -1,37 +1,27 @@
 # 能源黎明_～_Future_Dream...
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\f9\ns0%3A%E8%83%BD%E6%BA%90%E9%BB%8E%E6%98%8E_%EF%BD%9E_Future_Dream%2E%2E%2E.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\f9\ns0%3A%E8%83%BD%E6%BA%90%E9%BB%8E%E6%98%8E_%EF%BD%9E_Future_Dream%2E%2E%2E.html -->
 
 由 ZUN 创作的官方曲目，原名 エネルギー黎明　～ Future Dream...
 
 本页是关于东方Project  
- **原作音乐** 的词条
-
+**原作音乐**的词条
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 出现作品](#出现作品)
 - [3 音乐文件](#音乐文件)
-
   - [3.1 东方地灵殿](#东方地灵殿)
 
 
-
 - [4 说明文本](#说明文本)
-
   - [4.1 东方地灵殿](#东方地灵殿_2)
 
 
-
 - [5 其他资料](#其他资料)
-
   - [5.1 乐理资讯](#乐理资讯)
   - [5.2 分析考据](#分析考据)
   - [5.3 二次同人数据](#二次同人数据)
-
-
-
-
 
 
 
@@ -41,13 +31,11 @@
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">エネルギー黎明　～ Future Dream...</td></tr><tr><td><b>译名</b></td><td>能源黎明 ～ Future Dream...</td></tr><tr><td><b>英文译名</b></td><td>Energy Daybreak ~ Future Dream...</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 能源黎明 ～ Future Dream...（曲目） - 由 ZUN 创作的官方曲目，原名 エネルギー黎明　～ Future Dream...
-
 ## 出现作品
 
 <table>
 <tbody><tr><td>2008年8月16日（Comic Market 74）</td><td><b><a href="./东方地灵殿.md" title="东方地灵殿">东方地灵殿</a>正式版</b></td><td>Staff画面主题曲</td><td style="padding-left:5px;">エネルギー黎明　～ Future Dream...（能源黎明 ～ Future Dream...）</td><td style="padding-left:10px;">作曲：ZUN</td></tr>
 </tbody></table>
-
 
 
 ## 音乐文件
@@ -62,44 +50,49 @@
 </td></tr></tbody></table>
 
 
-
 ## 说明文本
 
 ### 东方地灵殿
-- Music Room (未找到链接)
+
+- [Music Room](./东方地灵殿-Music.md#Staff画面)
 
 　Staffroll的主题曲。  
-　  
+   
 　按往常的感觉做的曲子。一切如故。  
 　这样就结束啦—的感觉。  
 　虽然结束但曲名却是黎明。可不读作tamiaki哦。
-
 ## 其他资料
 
 ### 乐理资讯
 
 ### 分析考据
   
- **エネルギー黎明　～ Future Dream...**  能源黎明　～ Future Dream...
+**エネルギー黎明 ～ Future Dream...** 能源黎明　～ Future Dream...
   
 
-- エネルギー(energy)
-  - 能源。
+- エネルギー(energy) 
+  - 能源。 
     - 本作故事的起因就是神奈子希望能利用旧地狱制造核聚变解决能源问题。
 
 
-- 黎明
+
+
+- 黎明 
   - 与标题曲中的“起床”对应。
   - 能源带来的光和热。
   - 能源给文明带来的光明。
 
-- Future Dream
+
+- Future Dream 
   - 可控核聚变对于人类来说还是未来的技术。
   - 彻底解决能源问题对人类来说是一个美好的梦。
 
-- …
-  - 语意未尽，让人思索。
+
+- … 
+  - 语意未尽，让人思索。 
     - 可能表示后期会有新的作品——《[东方星莲船](./东方星莲船.md)》。
+
+
 
 
 
@@ -116,17 +109,6 @@
 <tr><td>Arrange</td><td>140</td></tr>
 <tr><td>Vocal率</td><td>34.58%</td></tr>
 </tbody></table>
-
-
-
-
-  
-  
-
-  
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # Widget:取用限制
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\a\af\ns274%3A%E5%8F%96%E7%94%A8%E9%99%90%E5%88%B6.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\a\af\ns274%3A%E5%8F%96%E7%94%A8%E9%99%90%E5%88%B6.html -->
 
 
 
@@ -11,17 +11,9 @@
 插入语法：{{#widget:取用限制|cond=您年满18岁}}
   
 
-
 ## 参数解释
--  **cond**  取用条件说明，（必需参数）
 
-  
-  
-
-  
-
-
-
+- **cond** 取用条件说明，（必需参数）
 
 
 ---

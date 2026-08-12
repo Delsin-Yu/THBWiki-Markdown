@@ -1,6 +1,6 @@
 # 文件:東方彗麗歌_～Orbit_of_Diffusion～封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bc\ns6%3A%E6%9D%B1%E6%96%B9%E5%BD%97%E9%BA%97%E6%AD%8C_%EF%BD%9EOrbit_of_Diffusion%EF%BD%9E%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bc\ns6%3A%E6%9D%B1%E6%96%B9%E5%BD%97%E9%BA%97%E6%AD%8C_%EF%BD%9EOrbit_of_Diffusion%EF%BD%9E%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 いえろ～ぜぶら | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方彗麗歌 ～Orbit of Diffusion～](./東方彗麗歌_～Orbit_of_Diffusion～.md)  
-该封面包含的角色：- [古明地觉](./古明地觉.md)
-
-
-
+- [東方彗麗歌 ～Orbit of Diffusion～](./東方彗麗歌_～Orbit_of_Diffusion～.md)该封面包含的角色：
+- [古明地觉](./古明地觉.md)
 
 
 ---

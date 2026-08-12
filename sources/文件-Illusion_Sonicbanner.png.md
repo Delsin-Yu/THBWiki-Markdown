@@ -1,16 +1,11 @@
 # 文件:Illusion_Sonicbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d2\ns6%3AIllusion_Sonicbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d2\ns6%3AIllusion_Sonicbanner%2Epng.html -->
 
 Illusion_Sonic | 社团LOGO
 
   
-源地址:[[1]](http://illusonic.web-bi.net/xe/files/attach/images/65/127/a840a09f80919e7afcfc860c3a2265d5.png)
-  
-
-
-
-
+源地址:[\[1\]](http://illusonic.web-bi.net/xe/files/attach/images/65/127/a840a09f80919e7afcfc860c3a2265d5.png)  
 
 ---
 

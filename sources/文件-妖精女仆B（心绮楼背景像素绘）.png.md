@@ -1,12 +1,8 @@
 # 文件:妖精女仆B（心绮楼背景像素绘）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0d\ns6%3A%E5%A6%96%E7%B2%BE%E5%A5%B3%E4%BB%86B%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0d\ns6%3A%E5%A6%96%E7%B2%BE%E5%A5%B3%E4%BB%86B%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89%2Epng.html -->
 
 东方心绮楼 | 官方游戏像素绘
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:TOHO_EUROBEAT_presents_THE_REVIVAL_MIX封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\ff\ns6%3ATOHO_EUROBEAT_presents_THE_REVIVAL_MIX%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\ff\ns6%3ATOHO_EUROBEAT_presents_THE_REVIVAL_MIX%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 A-One | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ A-One | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [TOHO EUROBEAT presents THE REVIVAL MIX](./TOHO_EUROBEAT_presents_THE_REVIVAL_MIX.md)  
-该封面包含的角色：- [伊吹萃香](./伊吹萃香.md)
-
-
-
+- [TOHO EUROBEAT presents THE REVIVAL MIX](./TOHO_EUROBEAT_presents_THE_REVIVAL_MIX.md)该封面包含的角色：
+- [伊吹萃香](./伊吹萃香.md)
 
 
 ---

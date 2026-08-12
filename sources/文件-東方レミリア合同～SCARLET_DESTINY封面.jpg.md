@@ -1,6 +1,6 @@
 # 文件:東方レミリア合同～SCARLET_DESTINY封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\91\ns6%3A%E6%9D%B1%E6%96%B9%E3%83%AC%E3%83%9F%E3%83%AA%E3%82%A2%E5%90%88%E5%90%8C%EF%BD%9ESCARLET_DESTINY%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\91\ns6%3A%E6%9D%B1%E6%96%B9%E3%83%AC%E3%83%9F%E3%83%AA%E3%82%A2%E5%90%88%E5%90%8C%EF%BD%9ESCARLET_DESTINY%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 CAPPUCCINO | 同人志封面 | 封面图片
 
@@ -11,9 +11,6 @@ CAPPUCCINO | 同人志封面 | 封面图片
   
 
 - [東方レミリア合同～SCARLET DESTINY](./東方レミリア合同～SCARLET_DESTINY.md)
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:H.J.Freaksの神妙旅楽団_Vol.2_操り人形の一人遊び封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d1\ns6%3AH%2EJ%2EFreaks%E3%81%AE%E7%A5%9E%E5%A6%99%E6%97%85%E6%A5%BD%E5%9B%A3_Vol%2E2_%E6%93%8D%E3%82%8A%E4%BA%BA%E5%BD%A2%E3%81%AE%E4%B8%80%E4%BA%BA%E9%81%8A%E3%81%B3%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d1\ns6%3AH%2EJ%2EFreaks%E3%81%AE%E7%A5%9E%E5%A6%99%E6%97%85%E6%A5%BD%E5%9B%A3_Vol%2E2_%E6%93%8D%E3%82%8A%E4%BA%BA%E5%BD%A2%E3%81%AE%E4%B8%80%E4%BA%BA%E9%81%8A%E3%81%B3%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 H.J.Freaks | 专辑封面 | 封面图片
 
@@ -8,16 +8,14 @@ H.J.Freaks | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [H.J.Freaksの神妙旅楽団 Vol.2 操り人形の一人遊び](./H.J.Freaksの神妙旅楽団_Vol.2_操り人形の一人遊び.md)  
-该封面包含的角色：- [露娜萨·普莉兹姆利巴](./露娜萨·普莉兹姆利巴.md)- [梅露兰·普莉兹姆利巴](./梅露兰·普莉兹姆利巴.md)- [莉莉卡·普莉兹姆利巴](./莉莉卡·普莉兹姆利巴.md)- [堀川雷鼓](./堀川雷鼓.md)
+- [H.J.Freaksの神妙旅楽団 Vol.2 操り人形の一人遊び](./H.J.Freaksの神妙旅楽団_Vol.2_操り人形の一人遊び.md)该封面包含的角色：
+- [露娜萨·普莉兹姆利巴](./露娜萨·普莉兹姆利巴.md)
+- [梅露兰·普莉兹姆利巴](./梅露兰·普莉兹姆利巴.md)
+- [莉莉卡·普莉兹姆利巴](./莉莉卡·普莉兹姆利巴.md)
+- [堀川雷鼓](./堀川雷鼓.md)
 
   
-源地址：[[1]](https://f4.bcbits.com/img/a2018563303_10.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://f4.bcbits.com/img/a2018563303_10.jpg)  
 
 ---
 

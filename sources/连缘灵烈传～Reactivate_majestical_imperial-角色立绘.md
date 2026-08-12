@@ -1,10 +1,11 @@
 # 连缘灵烈传～Reactivate_majestical_imperial/角色立绘
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\0e\ns0%3A%E8%BF%9E%E7%BC%98%E7%81%B5%E7%83%88%E4%BC%A0%EF%BD%9EReactivate_majestical_imperial%2F%E8%A7%92%E8%89%B2%E7%AB%8B%E7%BB%98.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\0e\ns0%3A%E8%BF%9E%E7%BC%98%E7%81%B5%E7%83%88%E4%BC%A0%EF%BD%9EReactivate_majestical_imperial%2F%E8%A7%92%E8%89%B2%E7%AB%8B%E7%BB%98.html -->
 
 トリック・ノスタルジー | 连缘灵烈传
 
--  **本词条内容为[连缘灵烈传～Reactivate majestical imperial](./连缘灵烈传～Reactivate_majestical_imperial.md)的所有角色立绘** 
+
+- **本词条内容为[连缘灵烈传～Reactivate majestical imperial](./连缘灵烈传～Reactivate_majestical_imperial.md)的所有角色立绘**
 
 
 <table>
@@ -117,10 +118,6 @@
     <td><a href="./文件-乞骸让让EX+α（灵烈传敌机像素绘）.png.md" class="image"><img alt="乞骸让让EX+α（灵烈传敌机像素绘）.png" src="https://upload.thwiki.cc/thumb/9/99/%E4%B9%9E%E9%AA%B8%E8%AE%A9%E8%AE%A9EX%2B%CE%B1%EF%BC%88%E7%81%B5%E7%83%88%E4%BC%A0%E6%95%8C%E6%9C%BA%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png/90px-%E4%B9%9E%E9%AA%B8%E8%AE%A9%E8%AE%A9EX%2B%CE%B1%EF%BC%88%E7%81%B5%E7%83%88%E4%BC%A0%E6%95%8C%E6%9C%BA%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="90" height="90" srcset="https://upload.thwiki.cc/9/99/%E4%B9%9E%E9%AA%B8%E8%AE%A9%E8%AE%A9EX%2B%CE%B1%EF%BC%88%E7%81%B5%E7%83%88%E4%BC%A0%E6%95%8C%E6%9C%BA%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png 1.5x" data-file-width="110" data-file-height="110"></a></td>
     <td><a href="./文件-乞骸让让EX+α（灵烈传）.png.md" class="image"><img alt="乞骸让让EX+α（灵烈传）.png" src="https://upload.thwiki.cc/thumb/b/b1/%E4%B9%9E%E9%AA%B8%E8%AE%A9%E8%AE%A9EX%2B%CE%B1%EF%BC%88%E7%81%B5%E7%83%88%E4%BC%A0%EF%BC%89.png/330px-%E4%B9%9E%E9%AA%B8%E8%AE%A9%E8%AE%A9EX%2B%CE%B1%EF%BC%88%E7%81%B5%E7%83%88%E4%BC%A0%EF%BC%89.png" decoding="async" loading="lazy" width="330" height="367" srcset="https://upload.thwiki.cc/b/b1/%E4%B9%9E%E9%AA%B8%E8%AE%A9%E8%AE%A9EX%2B%CE%B1%EF%BC%88%E7%81%B5%E7%83%88%E4%BC%A0%EF%BC%89.png 1.5x" data-file-width="480" data-file-height="534"></a></td>
   </tr></tbody></table>
-
-
-
-
 
 
 ---

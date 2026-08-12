@@ -1,6 +1,6 @@
 # 文件:幻想夜行Complete_Selection（同人专辑）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\78\ns6%3A%E5%B9%BB%E6%83%B3%E5%A4%9C%E8%A1%8CComplete_Selection%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\78\ns6%3A%E5%B9%BB%E6%83%B3%E5%A4%9C%E8%A1%8CComplete_Selection%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 RED_FOREST_METAL_ORCHESTRA | 专辑封面 | 封面图片 | 泥船遺跡
 
@@ -9,9 +9,6 @@ RED_FOREST_METAL_ORCHESTRA | 专辑封面 | 封面图片 | 泥船遺跡
   
 
 - [幻想夜行Complete Selection（同人专辑）](./幻想夜行Complete_Selection（同人专辑）.md)
-
-
-
 
 
 ---

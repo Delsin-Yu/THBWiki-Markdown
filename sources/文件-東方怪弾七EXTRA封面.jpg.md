@@ -1,6 +1,6 @@
 # 文件:東方怪弾七EXTRA封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4e\ns6%3A%E6%9D%B1%E6%96%B9%E6%80%AA%E5%BC%BE%E4%B8%83EXTRA%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4e\ns6%3A%E6%9D%B1%E6%96%B9%E6%80%AA%E5%BC%BE%E4%B8%83EXTRA%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 めるくまある | 同人志封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方怪弾七EXTRA](./東方怪弾七EXTRA.md)  
-该封面包含的角色：- [伊吹萃香](./伊吹萃香.md)
-
-
-
+- [東方怪弾七EXTRA](./東方怪弾七EXTRA.md)该封面包含的角色：
+- [伊吹萃香](./伊吹萃香.md)
 
 
 ---

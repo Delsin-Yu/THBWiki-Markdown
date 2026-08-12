@@ -1,6 +1,6 @@
 # 文件:Dancing_Maniax_Intentional_Improvisation封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\ff\ns6%3ADancing_Maniax_Intentional_Improvisation%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\ff\ns6%3ADancing_Maniax_Intentional_Improvisation%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 カオススカッシュ | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Dancing Maniax Intentional Improvisation](./Dancing_Maniax_Intentional_Improvisation.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)
+- [Dancing Maniax Intentional Improvisation](./Dancing_Maniax_Intentional_Improvisation.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
 
   
-[Pixiv artwork ID: 9238489 (original size)](https://www.pixiv.net/artworks/9238489)
-  
-
-
-
-
+[Pixiv artwork ID: 9238489 (original size)](https://www.pixiv.net/artworks/9238489)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:LOCKON封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\89\ns6%3ALOCKON%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\89\ns6%3ALOCKON%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ベルの巣 | 同人志封面 | 封面图片
 
@@ -8,16 +8,20 @@
 使用了本文件作封面图片的作品：
   
 
-- [LOCKON](./LOCKON.md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)- [犬走椛](./犬走椛.md)- [今泉影狼](./今泉影狼.md)- [戎璎花](./戎璎花.md)- [牛崎润美](./牛崎润美.md)- [庭渡久侘歌](./庭渡久侘歌.md)- [骊驹早鬼](./骊驹早鬼.md)- [埴安神袿姬](./埴安神袿姬.md)- [吉吊八千慧](./吉吊八千慧.md)- [杖刀偶磨弓](./杖刀偶磨弓.md)
+- [LOCKON](./LOCKON.md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
+- [犬走椛](./犬走椛.md)
+- [今泉影狼](./今泉影狼.md)
+- [戎璎花](./戎璎花.md)
+- [牛崎润美](./牛崎润美.md)
+- [庭渡久侘歌](./庭渡久侘歌.md)
+- [骊驹早鬼](./骊驹早鬼.md)
+- [埴安神袿姬](./埴安神袿姬.md)
+- [吉吊八千慧](./吉吊八千慧.md)
+- [杖刀偶磨弓](./杖刀偶磨弓.md)
 
   
-源地址：[[1]](https://pbs.twimg.com/media/EFTeFD5UUAARLkr.jpg:orig)
-  
-
-
-
-
+源地址：[\[1\]](https://pbs.twimg.com/media/EFTeFD5UUAARLkr.jpg:orig)  
 
 ---
 

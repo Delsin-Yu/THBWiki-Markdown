@@ -1,6 +1,6 @@
 # 文件:COOL_JAZZ_TOHO封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4c\ns6%3ACOOL_JAZZ_TOHO%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4c\ns6%3ACOOL_JAZZ_TOHO%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 SWING_HOLIC | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ SWING_HOLIC | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [COOL JAZZ TOHO](./COOL_JAZZ_TOHO.md)  
-该封面包含的角色：- [古明地恋](./古明地恋.md)
-
-
-
+- [COOL JAZZ TOHO](./COOL_JAZZ_TOHO.md)该封面包含的角色：
+- [古明地恋](./古明地恋.md)
 
 
 ---

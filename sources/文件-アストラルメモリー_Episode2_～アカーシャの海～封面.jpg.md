@@ -1,6 +1,6 @@
 # 文件:アストラルメモリー_Episode2_～アカーシャの海～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6f\ns6%3A%E3%82%A2%E3%82%B9%E3%83%88%E3%83%A9%E3%83%AB%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%BC_Episode2_%EF%BD%9E%E3%82%A2%E3%82%AB%E3%83%BC%E3%82%B7%E3%83%A3%E3%81%AE%E6%B5%B7%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6f\ns6%3A%E3%82%A2%E3%82%B9%E3%83%88%E3%83%A9%E3%83%AB%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%BC_Episode2_%EF%BD%9E%E3%82%A2%E3%82%AB%E3%83%BC%E3%82%B7%E3%83%A3%E3%81%AE%E6%B5%B7%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ビターショコラ抹茶ラテ | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [アストラルメモリー Episode2 ～アカーシャの海～](./アストラルメモリー_Episode2_～アカーシャの海～.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [アストラルメモリー Episode2 ～アカーシャの海～](./アストラルメモリー_Episode2_～アカーシャの海～.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
   
-源地址：[[1]](https://pbs.twimg.com/media/CvrEq9uWAAAFatT.jpg:large)
-  
-
-
-
-
+源地址：[\[1\]](https://pbs.twimg.com/media/CvrEq9uWAAAFatT.jpg:large)  
 
 ---
 

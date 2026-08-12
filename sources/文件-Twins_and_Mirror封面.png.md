@@ -1,6 +1,6 @@
 # 文件:Twins_and_Mirror封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bc\ns6%3ATwins_and_Mirror%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bc\ns6%3ATwins_and_Mirror%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 同人志封面 | 墨斯卡林之翼 | 封面图片
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [Twins and Mirror](./Twins_and_Mirror.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [博丽灵梦（旧作角色）](./博丽灵梦（旧作角色）.md)
-
-
-
+- [Twins and Mirror](./Twins_and_Mirror.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [博丽灵梦（旧作角色）](./博丽灵梦（旧作角色）.md)
 
 
 ---

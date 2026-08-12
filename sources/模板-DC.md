@@ -1,16 +1,12 @@
 # 模板:DC
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\f\f3\ns10%3ADC.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\f\f3\ns10%3ADC.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

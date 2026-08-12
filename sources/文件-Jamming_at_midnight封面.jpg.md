@@ -1,6 +1,6 @@
 # 文件:Jamming_at_midnight封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\57\ns6%3AJamming_at_midnight%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\57\ns6%3AJamming_at_midnight%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 J'_Camilo | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ J'_Camilo | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Jamming at midnight](./Jamming_at_midnight.md)  
-该封面包含的角色：- [蓬莱山辉夜](./蓬莱山辉夜.md)- [寅丸星](./寅丸星.md)
-
-
-
+- [Jamming at midnight](./Jamming_at_midnight.md)该封面包含的角色：
+- [蓬莱山辉夜](./蓬莱山辉夜.md)
+- [寅丸星](./寅丸星.md)
 
 
 ---

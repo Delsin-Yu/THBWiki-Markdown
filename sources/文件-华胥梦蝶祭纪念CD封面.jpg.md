@@ -1,6 +1,6 @@
 # 文件:华胥梦蝶祭纪念CD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6d\ns6%3A%E5%8D%8E%E8%83%A5%E6%A2%A6%E8%9D%B6%E7%A5%AD%E7%BA%AA%E5%BF%B5CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6d\ns6%3A%E5%8D%8E%E8%83%A5%E6%A2%A6%E8%9D%B6%E7%A5%AD%E7%BA%AA%E5%BF%B5CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 河北THO | 疯帽子茶会
 
@@ -8,11 +8,13 @@
 使用了本文件作封面图片的作品：
   
 
-- [华胥梦蝶祭纪念CD](./华胥梦蝶祭纪念CD.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [魂魄妖梦](./魂魄妖梦.md)- [西行寺幽幽子](./西行寺幽幽子.md)- [伊吹萃香](./伊吹萃香.md)- [东风谷早苗](./东风谷早苗.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [华胥梦蝶祭纪念CD](./华胥梦蝶祭纪念CD.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [魂魄妖梦](./魂魄妖梦.md)
+- [西行寺幽幽子](./西行寺幽幽子.md)
+- [伊吹萃香](./伊吹萃香.md)
+- [东风谷早苗](./东风谷早苗.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

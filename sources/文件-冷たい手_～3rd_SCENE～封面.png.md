@@ -1,6 +1,6 @@
 # 文件:冷たい手_～3rd_SCENE～封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6b\ns6%3A%E5%86%B7%E3%81%9F%E3%81%84%E6%89%8B_%EF%BD%9E3rd_SCENE%EF%BD%9E%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6b\ns6%3A%E5%86%B7%E3%81%9F%E3%81%84%E6%89%8B_%EF%BD%9E3rd_SCENE%EF%BD%9E%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 釣師
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [冷たい手 ～3rd SCENE～](./冷たい手_～3rd_SCENE～.md)  
-该封面包含的角色：- 原创角色 (未找到链接)
-
-
-
+- [冷たい手 ～3rd SCENE～](./冷たい手_～3rd_SCENE～.md)该封面包含的角色：
+- 原创角色 (未找到链接)
 
 
 ---

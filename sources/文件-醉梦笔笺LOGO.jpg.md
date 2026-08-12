@@ -1,16 +1,12 @@
 # 文件:醉梦笔笺LOGO.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\50\ns6%3A%E9%86%89%E6%A2%A6%E7%AC%94%E7%AC%BALOGO%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\50\ns6%3A%E9%86%89%E6%A2%A6%E7%AC%94%E7%AC%BALOGO%2Ejpg.html -->
 
 社团LOGO | 醉梦笔笺
 
   
 LOGO
   
-
-
-
-
 
 ---
 

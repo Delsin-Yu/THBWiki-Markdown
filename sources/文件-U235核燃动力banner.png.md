@@ -1,12 +1,8 @@
 # 文件:U235核燃动力banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b7\ns6%3AU235%E6%A0%B8%E7%87%83%E5%8A%A8%E5%8A%9Bbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b7\ns6%3AU235%E6%A0%B8%E7%87%83%E5%8A%A8%E5%8A%9Bbanner%2Epng.html -->
 
 U235核燃动力 | 社团LOGO
-
-
-
-
 
 
 ---

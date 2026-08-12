@@ -1,6 +1,6 @@
 # 文件:kiRa☆rhyTHm（先行版）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\31\ns6%3AkiRa%E2%98%86rhyTHm%EF%BC%88%E5%85%88%E8%A1%8C%E7%89%88%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\31\ns6%3AkiRa%E2%98%86rhyTHm%EF%BC%88%E5%85%88%E8%A1%8C%E7%89%88%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 bunny_rhyTHm | 专辑封面 | 封面图片
 
@@ -8,11 +8,10 @@ bunny_rhyTHm | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [kiRa☆rhyTHm（先行版）](./kiRa☆rhyTHm（先行版）.md)  
-该封面包含的角色：- [露娜切露德](./露娜切露德.md)- [桑尼米尔克](./桑尼米尔克.md)- [斯塔萨菲雅](./斯塔萨菲雅.md)
-
-
-
+- [kiRa☆rhyTHm（先行版）](./kiRa☆rhyTHm（先行版）.md)该封面包含的角色：
+- [露娜切露德](./露娜切露德.md)
+- [桑尼米尔克](./桑尼米尔克.md)
+- [斯塔萨菲雅](./斯塔萨菲雅.md)
 
 
 ---

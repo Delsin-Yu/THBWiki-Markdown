@@ -1,6 +1,6 @@
 # 文件:FIRE_OF_DHARMA封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\33\ns6%3AFIRE_OF_DHARMA%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\33\ns6%3AFIRE_OF_DHARMA%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Dowser_Craft | 专辑封面 | 封面图片
 
@@ -8,16 +8,12 @@ Dowser_Craft | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [FIRE OF DHARMA](./FIRE_OF_DHARMA.md)  
-该封面包含的角色：- [圣白莲](./圣白莲.md)
+- [FIRE OF DHARMA](./FIRE_OF_DHARMA.md)该封面包含的角色：
+- [圣白莲](./圣白莲.md)
 
   
-源地址：[[1]](https://static.wixstatic.com/media/df0197_b147a4a5aa3340f587d17f277585460b~mv2_d_4252_4252_s_4_2.jpg) （image is recompressed because it exceeded the size limit）
+源地址：[\[1\]](https://static.wixstatic.com/media/df0197_b147a4a5aa3340f587d17f277585460b~mv2_d_4252_4252_s_4_2.jpg) （image is recompressed because it exceeded the size limit）
   
-
-
-
-
 
 ---
 

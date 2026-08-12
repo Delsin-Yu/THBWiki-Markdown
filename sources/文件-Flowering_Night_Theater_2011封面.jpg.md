@@ -1,6 +1,6 @@
 # 文件:Flowering_Night_Theater_2011封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7b\ns6%3AFlowering_Night_Theater_2011%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7b\ns6%3AFlowering_Night_Theater_2011%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Touhou_MVP | 封面图片 | 视频封面
 
@@ -8,11 +8,8 @@ Touhou_MVP | 封面图片 | 视频封面
 使用了本文件作封面图片的作品：
   
 
-- [Flowering Night Theater 2011](./Flowering_Night_Theater_2011.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
-
-
-
+- [Flowering Night Theater 2011](./Flowering_Night_Theater_2011.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
 
 ---

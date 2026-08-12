@@ -1,6 +1,6 @@
 # 文件:实界LOGO.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\23\ns6%3A%E5%AE%9E%E7%95%8CLOGO%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\23\ns6%3A%E5%AE%9E%E7%95%8CLOGO%2Ejpg.html -->
 
 实界 | 社团LOGO
 
@@ -8,10 +8,6 @@
 “实界”社团LOGO
 由云绝万里制作
   
-
-
-
-
 
 ---
 

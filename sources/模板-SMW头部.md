@@ -1,16 +1,12 @@
 # 模板:SMW头部
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\4\4c\ns10%3ASMW%E5%A4%B4%E9%83%A8.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\4\4c\ns10%3ASMW%E5%A4%B4%E9%83%A8.html -->
 
 头部模板
 
 本页是Semantic MediaWiki的核心页面之一，用以定义此SMW属性。  
 编写时必须使用[模板:属性信息](./模板-属性信息.md)，具体用法可以参考[其他属性](./分类-常用属性.md)  
 ‎  
-
-
-
-
 
 ---
 

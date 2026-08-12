@@ -1,6 +1,6 @@
 # 文件:洩矢の旅～I_wanna_be_the_God封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\72\ns6%3A%E6%B4%A9%E7%9F%A2%E3%81%AE%E6%97%85%EF%BD%9EI_wanna_be_the_God%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\72\ns6%3A%E6%B4%A9%E7%9F%A2%E3%81%AE%E6%97%85%EF%BD%9EI_wanna_be_the_God%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 UTG_Software | 封面图片 | 软件封面
 
@@ -8,11 +8,8 @@ UTG_Software | 封面图片 | 软件封面
 使用了本文件作封面图片的作品：
   
 
-- [洩矢の旅～I wanna be the God](./洩矢の旅～I_wanna_be_the_God.md)  
-该封面包含的角色：- [洩矢诹访子](./洩矢诹访子.md)
-
-
-
+- [洩矢の旅～I wanna be the God](./洩矢の旅～I_wanna_be_the_God.md)该封面包含的角色：
+- [洩矢诹访子](./洩矢诹访子.md)
 
 
 ---

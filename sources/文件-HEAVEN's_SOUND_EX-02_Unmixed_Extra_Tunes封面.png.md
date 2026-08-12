@@ -1,6 +1,6 @@
 # 文件:HEAVEN's_SOUND_EX-02_Unmixed_Extra_Tunes封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d9\ns6%3AHEAVEN%27s_SOUND_EX-02_Unmixed_Extra_Tunes%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d9\ns6%3AHEAVEN%27s_SOUND_EX-02_Unmixed_Extra_Tunes%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Rolling_Contact | 专辑封面 | 封面图片
 
@@ -10,11 +10,9 @@ Rolling_Contact | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [HEAVEN's SOUND EX-02 Unmixed Extra Tunes](./HEAVEN's_SOUND_EX-02_Unmixed_Extra_Tunes.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [东风谷早苗](./东风谷早苗.md)
-
-
-
+- [HEAVEN's SOUND EX-02 Unmixed Extra Tunes](./HEAVEN's_SOUND_EX-02_Unmixed_Extra_Tunes.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [东风谷早苗](./东风谷早苗.md)
 
 
 ---

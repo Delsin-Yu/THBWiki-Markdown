@@ -1,6 +1,6 @@
 # 文件:Travel.Dreamers封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\99\ns6%3ATravel%2EDreamers%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\99\ns6%3ATravel%2EDreamers%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 stella旅楽団 | 专辑封面 | 封面图片
 
@@ -13,12 +13,7 @@ stella旅楽団 | 专辑封面 | 封面图片
 - [Travel.Dreamers](./Travel.Dreamers.md)
 
   
-源地址：[twitter (original uploaded image)](https://pbs.twimg.com/media/DcWHA-dVAAAar_c?format=jpg&amp;name=orig), [source tweet](https://twitter.com/bancha0820/status/992349596268445696)
-  
-
-
-
-
+源地址：[twitter (original uploaded image)](https://pbs.twimg.com/media/DcWHA-dVAAAar_c?format=jpg&name=orig), [source tweet](https://twitter.com/bancha0820/status/992349596268445696)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:Second_Fragment_preview_CD-2封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8b\ns6%3ASecond_Fragment_preview_CD-2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8b\ns6%3ASecond_Fragment_preview_CD-2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Second_Fragment | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@ Second_Fragment | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Second Fragment preview CD-2](./Second_Fragment_preview_CD-2.md)  
-该封面包含的角色：- [露米娅](./露米娅.md)
+- [Second Fragment preview CD-2](./Second_Fragment_preview_CD-2.md)该封面包含的角色：
+- [露米娅](./露米娅.md)
 
   
-源地址：[direct image link](https://secondfragment.com/img/works-Second Fragment preview CD-2.jpg), [source page](https://secondfragment.com/works.html)
-  
-
-
-
-
+源地址：[direct image link](https://secondfragment.com/img/works-Second%20Fragment%20preview%20CD-2.jpg), [source page](https://secondfragment.com/works.html)  
 
 ---
 

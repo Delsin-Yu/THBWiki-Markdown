@@ -1,16 +1,12 @@
 # 文件:le04_STAGE_08.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dd\ns6%3Ale04_STAGE_08%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dd\ns6%3Ale04_STAGE_08%2Emp3.html -->
 
 连缘Project官方音乐MP3 | 连缘天影战记 | 阳炎之城_～_Phantom_ROAD
 
   
 连缘天影战记蜻蛉乃城主题曲
   
-
-
-
-
 
 ---
 

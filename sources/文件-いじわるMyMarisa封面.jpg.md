@@ -1,6 +1,6 @@
 # 文件:いじわるMyMarisa封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\40\ns6%3A%E3%81%84%E3%81%98%E3%82%8F%E3%82%8BMyMarisa%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\40\ns6%3A%E3%81%84%E3%81%98%E3%82%8F%E3%82%8BMyMarisa%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Lab* | akaneiro | 同人志封面 | 封面图片
 
@@ -8,11 +8,10 @@ Lab* | akaneiro | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [いじわるMyMarisa](./いじわるMyMarisa.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
-
-
-
+- [いじわるMyMarisa](./いじわるMyMarisa.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
 
 
 ---

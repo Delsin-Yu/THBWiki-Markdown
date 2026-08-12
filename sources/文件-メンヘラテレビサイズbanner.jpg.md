@@ -1,16 +1,11 @@
 # 文件:メンヘラテレビサイズbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\71\ns6%3A%E3%83%A1%E3%83%B3%E3%83%98%E3%83%A9%E3%83%86%E3%83%AC%E3%83%93%E3%82%B5%E3%82%A4%E3%82%BAbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\71\ns6%3A%E3%83%A1%E3%83%B3%E3%83%98%E3%83%A9%E3%83%86%E3%83%AC%E3%83%93%E3%82%B5%E3%82%A4%E3%82%BAbanner%2Ejpg.html -->
 
 メンヘラテレビサイズ | 社团LOGO
 
   
-源地址：[[1]](https://mentvsizec93.tumblr.com/)
-  
-
-
-
-
+源地址：[\[1\]](https://mentvsizec93.tumblr.com/)  
 
 ---
 

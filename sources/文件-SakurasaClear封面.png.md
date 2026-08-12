@@ -1,6 +1,6 @@
 # 文件:SakurasaClear封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e7\ns6%3ASakurasaClear%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e7\ns6%3ASakurasaClear%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 夕焼けコンテナ。 | 封面图片
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [SakurasaClear](./SakurasaClear.md)  
-该封面包含的角色：- [风见幽香](./风见幽香.md)
+- [SakurasaClear](./SakurasaClear.md)该封面包含的角色：
+- [风见幽香](./风见幽香.md)
 
   
-源地址: [[1]](http://concon.yu-yake.com/sakurasaclear/img/yuka4.png)
-  
-
-
-
-
+源地址: [\[1\]](http://concon.yu-yake.com/sakurasaclear/img/yuka4.png)  
 
 ---
 

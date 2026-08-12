@@ -1,6 +1,6 @@
 # 文件:flowering_escape封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fa\ns6%3Aflowering_escape%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fa\ns6%3Aflowering_escape%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ゆめいろアリス | 同人志封面 | 封面图片
 
@@ -10,16 +10,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [flowering escape](./flowering_escape.md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)- [西行寺幽幽子](./西行寺幽幽子.md)
+- [flowering escape](./flowering_escape.md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
+- [西行寺幽幽子](./西行寺幽幽子.md)
 
   
-源地址：[direct image link](https://www.suruga-ya.jp/database/pics_light/game/zhore24594.jpg), [source page (suruga-ya ID: ZHORE24594)](https://www.suruga-ya.jp/product/detail/ZHORE24594)
-  
-
-
-
-
+源地址：[direct image link](https://www.suruga-ya.jp/database/pics_light/game/zhore24594.jpg), [source page (suruga-ya ID: ZHORE24594)](https://www.suruga-ya.jp/product/detail/ZHORE24594)  
 
 ---
 

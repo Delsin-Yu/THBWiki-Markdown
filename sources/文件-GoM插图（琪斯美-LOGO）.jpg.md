@@ -1,12 +1,8 @@
 # 文件:GoM插图（琪斯美-LOGO）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\80\ns6%3AGoM%E6%8F%92%E5%9B%BE%EF%BC%88%E7%90%AA%E6%96%AF%E7%BE%8E-LOGO%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\80\ns6%3AGoM%E6%8F%92%E5%9B%BE%EF%BC%88%E7%90%AA%E6%96%AF%E7%BE%8E-LOGO%EF%BC%89%2Ejpg.html -->
 
 琪斯美 | 魔理沙的魔法书
-
-
-
-
 
 
 ---

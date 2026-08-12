@@ -1,6 +1,6 @@
 # 文件:三面楚歌_Only_one_way_to_go封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1e\ns6%3A%E4%B8%89%E9%9D%A2%E6%A5%9A%E6%AD%8C_Only_one_way_to_go%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1e\ns6%3A%E4%B8%89%E9%9D%A2%E6%A5%9A%E6%AD%8C_Only_one_way_to_go%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 dBu_music | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ dBu_music | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [三面楚歌 Only one way to go](./三面楚歌_Only_one_way_to_go.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [三面楚歌 Only one way to go](./三面楚歌_Only_one_way_to_go.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
 
   
-源地址：[[1]](http://www.dobuusagi.com/dBu20th/images/photo0.png)
-  
-
-
-
-
+源地址：[\[1\]](http://www.dobuusagi.com/dBu20th/images/photo0.png)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:sick_girl_triangle封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0a\ns6%3Asick_girl_triangle%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0a\ns6%3Asick_girl_triangle%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Kurage_seek_room | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ Kurage_seek_room | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [sick girl triangle](./sick_girl_triangle.md)  
-该封面包含的角色：- [宫古芳香](./宫古芳香.md)- [高丽野阿吽](./高丽野阿吽.md)
-
-
-
+- [sick girl triangle](./sick_girl_triangle.md)该封面包含的角色：
+- [宫古芳香](./宫古芳香.md)
+- [高丽野阿吽](./高丽野阿吽.md)
 
 
 ---

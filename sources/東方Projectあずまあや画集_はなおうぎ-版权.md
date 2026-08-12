@@ -1,11 +1,10 @@
 # 東方Projectあずまあや画集_はなおうぎ/版权
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\5\5c\ns0%3A%E6%9D%B1%E6%96%B9Project%E3%81%82%E3%81%9A%E3%81%BE%E3%81%82%E3%82%84%E7%94%BB%E9%9B%86_%E3%81%AF%E3%81%AA%E3%81%8A%E3%81%86%E3%81%8E%2F%E7%89%88%E6%9D%83.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\5\5c\ns0%3A%E6%9D%B1%E6%96%B9Project%E3%81%82%E3%81%9A%E3%81%BE%E3%81%82%E3%82%84%E7%94%BB%E9%9B%86_%E3%81%AF%E3%81%AA%E3%81%8A%E3%81%86%E3%81%8E%2F%E7%89%88%E6%9D%83.html -->
 
 あずまあや | 待完成页面
 
 <center>
-
 <table>
 <tbody><tr>
 <td class="mbox-image"><div style="width: 52px;">
@@ -14,9 +13,7 @@
 </tr>
 </tbody></table>
 
-
 </center>
-
 ## Staff
 封面插绘
 : [あずまあや](./あずまあや.md)
@@ -50,10 +47,6 @@ AQUASTYLE
 : 株式会社讲谈社（讲谈社·一迅社）
 印刷·制作
 : 大日本印刷株式会社
-
-
-
-
 
 ---
 

@@ -1,18 +1,13 @@
 # 文件:くりすてlogo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5e\ns6%3A%E3%81%8F%E3%82%8A%E3%81%99%E3%81%A6logo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5e\ns6%3A%E3%81%8F%E3%82%8A%E3%81%99%E3%81%A6logo%2Ejpg.html -->
 
 くりすて | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[direct image link](https://web.archive.org/web/20101229190235im_/http://curisute.net/image/rogo.jpg), [source page](https://web.archive.org/web/20101229190133/http://curisute.net/)
-  
-
-
-
-
+源地址：[direct image link](https://web.archive.org/web/20101229190235im_/http://curisute.net/image/rogo.jpg), [source page](https://web.archive.org/web/20101229190133/http://curisute.net/)  
 
 ---
 

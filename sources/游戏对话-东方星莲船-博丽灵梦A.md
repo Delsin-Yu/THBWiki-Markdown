@@ -1,12 +1,13 @@
 # 游戏对话:东方星莲船/博丽灵梦A
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\c\cd\ns508%3A%E4%B8%9C%E6%96%B9%E6%98%9F%E8%8E%B2%E8%88%B9%2F%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6A.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\c\cd\ns508%3A%E4%B8%9C%E6%96%B9%E6%98%9F%E8%8E%B2%E8%88%B9%2F%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6A.html -->
 
 东方星莲船 | 使用了简单对话的页面 | 使用了简单游戏对话的页面 | 引用了翻译表的页面 | 游戏对话
 
-- 本词条内容为官方游戏TH12 **[东方星莲船](./东方星莲船.md)** 的游戏对话
+
+- 本词条内容为官方游戏TH12**[东方星莲船](./东方星莲船.md)**的游戏对话
 - 出于剧透性的考虑，请自主决定是否查看本词条的内容，本词条的内容会涉及游戏剧情的剧透
-- 如果发现翻译问题可进行改正， **若无权限，请在该词条讨论版 (未找到链接)提出意见** 
+- 如果发现翻译问题可进行改正，**若无权限，请在该词条讨论版 (未找到链接)提出意见**
 
 
 <table>
@@ -16,7 +17,6 @@
 <td class="mbox-text" style="">本词条为供玩家参考的<b>可视化对话</b><br>对话内容由<b>中日对照对话词条</b>获取<br><b>请勿在本词条内直接修改内容！</b><br>需要<b>查看中日对照</b>以及<b>修改翻译</b>请转至<b><a href="./游戏对话-东方星莲船-博丽灵梦A-中日对照.md" title="游戏对话:东方星莲船/博丽灵梦A/中日对照">此处</a></b></td>
 </tr>
 </tbody></table>
-
 
 
 ## 目录
@@ -33,179 +33,117 @@
 - [10 导航](#导航)
 
 
-
-
-
 ## Stage 1
-旁旁白
+旁旁白  
+<img alt="星莲船1面场景.jpg" src="https://upload.thwiki.cc/4/44/%E6%98%9F%E8%8E%B2%E8%88%B91%E9%9D%A2%E5%9C%BA%E6%99%AF.jpg" decoding="async" loading="lazy" width="200" height="420" data-file-width="199" data-file-height="418">
   
-[](./文件-星莲船1面场景.jpg.md)  
 
 星莲船1面场景
   
-
   
-
-旁
-  
+旁  
 春之港湾的舟影
   
-
-
-
   
 残雪之道
   
-
   
-
-
   
 BGM: 春之港湾
   
-
   
-
-
   
 道中前半
   
-
   
-
-
   
 [娜兹玲](./娜兹玲.md) 登场
   
-
   
-
-
   
 道中BOSS战
   
-
   
-
-
   
 [娜兹玲](./娜兹玲.md) 离场
   
-
   
-
-
   
 道中后半
   
-
   
-
-[](./博丽灵梦.md)博丽灵梦
-  
+<img alt="博丽灵梦（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="85" srcset="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="256" data-file-height="435">
+博丽灵梦  
 那个飞行物体，好快啊！  
   
 照这样墨迹下去没可能追上嘛！
   
-
-
-
   
 [娜兹玲](./娜兹玲.md) 登场
   
-
   
-
-[](./娜兹玲.md)？？？
-  
+<img alt="娜兹玲（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/4/42/%E5%A8%9C%E5%85%B9%E7%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E5%A8%9C%E5%85%B9%E7%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="81" srcset="https://upload.thwiki.cc/thumb/4/42/%E5%A8%9C%E5%85%B9%E7%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E5%A8%9C%E5%85%B9%E7%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/4/42/%E5%A8%9C%E5%85%B9%E7%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E5%A8%9C%E5%85%B9%E7%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="290" data-file-height="472">
+？？？  
 狭窄的狭窄的幻想乡里
   
-
-
-
   
 探宝的小小大将  
 [娜兹玲](./娜兹玲.md)  
 Nazrin
   
-
   
-
-[](./娜兹玲.md)娜兹玲
-  
+<img alt="娜兹玲（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/4/42/%E5%A8%9C%E5%85%B9%E7%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E5%A8%9C%E5%85%B9%E7%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="81" srcset="https://upload.thwiki.cc/thumb/4/42/%E5%A8%9C%E5%85%B9%E7%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E5%A8%9C%E5%85%B9%E7%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/4/42/%E5%A8%9C%E5%85%B9%E7%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E5%A8%9C%E5%85%B9%E7%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="290" data-file-height="472">
+娜兹玲  
 你那么着急要到哪去？
   
-
-
-[](./博丽灵梦.md)博丽灵梦
-  
+<img alt="博丽灵梦（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="85" srcset="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="256" data-file-height="435">
+博丽灵梦  
 挡路啊！  
 刚刚也是你吧，灰色的妖怪  
   
 我可没时间招呼  
 像你这种短命的小动物啊！
   
-
-
-
   
 BGM: 小小的贤将
   
-
   
-
-[](./娜兹玲.md)娜兹玲
-  
+<img alt="娜兹玲（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/4/42/%E5%A8%9C%E5%85%B9%E7%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E5%A8%9C%E5%85%B9%E7%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="81" srcset="https://upload.thwiki.cc/thumb/4/42/%E5%A8%9C%E5%85%B9%E7%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E5%A8%9C%E5%85%B9%E7%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/4/42/%E5%A8%9C%E5%85%B9%E7%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E5%A8%9C%E5%85%B9%E7%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="290" data-file-height="472">
+娜兹玲  
 是吗？真遗憾呢
   
-
-
-[](./博丽灵梦.md)博丽灵梦
-  
+<img alt="博丽灵梦（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="85" srcset="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="256" data-file-height="435">
+博丽灵梦  
 就现在被你浪费的这段时间里  
 宝船已经飞远了……
   
-
-
-[](./娜兹玲.md)娜兹玲
-  
+<img alt="娜兹玲（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/4/42/%E5%A8%9C%E5%85%B9%E7%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E5%A8%9C%E5%85%B9%E7%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="81" srcset="https://upload.thwiki.cc/thumb/4/42/%E5%A8%9C%E5%85%B9%E7%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E5%A8%9C%E5%85%B9%E7%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/4/42/%E5%A8%9C%E5%85%B9%E7%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E5%A8%9C%E5%85%B9%E7%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="290" data-file-height="472">
+娜兹玲  
 宝船？  
 你是指浮在空中的那个东西吗？  
   
 呵呵呵，还真是有够傻瓜的呢，你  
 以为那个是宝船吗？
   
-
-
-[](./博丽灵梦.md)博丽灵梦
-  
+<img alt="博丽灵梦（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="85" srcset="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="256" data-file-height="435">
+博丽灵梦  
 傻瓜就傻瓜了总之你赶快给我躲开！
   
-
-
-[](./娜兹玲.md)娜兹玲
-  
+<img alt="娜兹玲（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/4/42/%E5%A8%9C%E5%85%B9%E7%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E5%A8%9C%E5%85%B9%E7%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="81" srcset="https://upload.thwiki.cc/thumb/4/42/%E5%A8%9C%E5%85%B9%E7%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E5%A8%9C%E5%85%B9%E7%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/4/42/%E5%A8%9C%E5%85%B9%E7%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E5%A8%9C%E5%85%B9%E7%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="290" data-file-height="472">
+娜兹玲  
 要找宝物的话可不能两眼干瞪着天空哦  
 宝物都堆积在厨房家具的缝隙里
   
-
-
-
   
 关底BOSS战
   
-
   
-
-
   
 [娜兹玲](./娜兹玲.md) 被击败
   
-
   
-
-[](./博丽灵梦.md)博丽灵梦
-  
+<img alt="博丽灵梦（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="85" srcset="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="256" data-file-height="435">
+博丽灵梦  
 啊啊，消失在云层当中了  
   
 看来只能突破天际了呢  
@@ -213,144 +151,95 @@ BGM: 小小的贤将
 虽说云层当中都是妖怪让人不太想去……
   
 
-
-
 ## Stage 2
-旁旁白
+旁旁白  
+<img alt="星莲船2面场景.jpg" src="https://upload.thwiki.cc/b/b5/%E6%98%9F%E8%8E%B2%E8%88%B92%E9%9D%A2%E5%9C%BA%E6%99%AF.jpg" decoding="async" loading="lazy" width="200" height="420" data-file-width="199" data-file-height="418">
   
-[](./文件-星莲船2面场景.jpg.md)  
 
 星莲船2面场景
   
-
   
-
-旁
-  
+旁  
 潜藏于云中的独眼妖怪
   
-
-
-
   
 春之云
   
-
   
-
-
   
 BGM: 封闭的云中通路
   
-
   
-
-
   
 道中前半
   
-
   
-
-
   
 [多多良小伞](./多多良小伞.md) 登场
   
-
   
-
-
   
 道中BOSS战
   
-
   
-
-
   
 [多多良小伞](./多多良小伞.md) 离场
   
-
   
-
-
   
 道中后半
   
-
   
-
-
   
 [多多良小伞](./多多良小伞.md) 登场
   
-
   
-
-[](./多多良小伞.md)？？？
-  
+<img alt="多多良小伞（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/a/a0/%E5%A4%9A%E5%A4%9A%E8%89%AF%E5%B0%8F%E4%BC%9E%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E5%A4%9A%E5%A4%9A%E8%89%AF%E5%B0%8F%E4%BC%9E%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="76" srcset="https://upload.thwiki.cc/thumb/a/a0/%E5%A4%9A%E5%A4%9A%E8%89%AF%E5%B0%8F%E4%BC%9E%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E5%A4%9A%E5%A4%9A%E8%89%AF%E5%B0%8F%E4%BC%9E%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/a/a0/%E5%A4%9A%E5%A4%9A%E8%89%AF%E5%B0%8F%E4%BC%9E%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E5%A4%9A%E5%A4%9A%E8%89%AF%E5%B0%8F%E4%BC%9E%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="337" data-file-height="512">
+？？？  
 等一下啊～
   
-
-
-[](./博丽灵梦.md)博丽灵梦
-  
+<img alt="博丽灵梦（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="85" srcset="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="256" data-file-height="435">
+博丽灵梦  
 搞什么啊  
 就凭你一个普通的妖怪
   
-
-
-[](./多多良小伞.md)？？？
-  
+<img alt="多多良小伞（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/a/a0/%E5%A4%9A%E5%A4%9A%E8%89%AF%E5%B0%8F%E4%BC%9E%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E5%A4%9A%E5%A4%9A%E8%89%AF%E5%B0%8F%E4%BC%9E%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="76" srcset="https://upload.thwiki.cc/thumb/a/a0/%E5%A4%9A%E5%A4%9A%E8%89%AF%E5%B0%8F%E4%BC%9E%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E5%A4%9A%E5%A4%9A%E8%89%AF%E5%B0%8F%E4%BC%9E%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/a/a0/%E5%A4%9A%E5%A4%9A%E8%89%AF%E5%B0%8F%E4%BC%9E%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E5%A4%9A%E5%A4%9A%E8%89%AF%E5%B0%8F%E4%BC%9E%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="337" data-file-height="512">
+？？？  
 别搞那么无情不是更好吗  
 最近啊，闲死了呢～
   
-
-
-[](./博丽灵梦.md)博丽灵梦
-  
+<img alt="博丽灵梦（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="85" srcset="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="256" data-file-height="435">
+博丽灵梦  
 我在追眼前的那个宝船呢  
   
 可没时间去管你们这些  
 杂鱼妖怪
   
-
-
-
   
 愉快的遗忘之伞  
 [多多良小伞](./多多良小伞.md)  
 Tatara Kogasa
   
-
   
-
-
   
 BGM: 请注意万年备用伞
   
-
   
-
-[](./多多良小伞.md)多多良小伞
-  
+<img alt="多多良小伞（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/a/a0/%E5%A4%9A%E5%A4%9A%E8%89%AF%E5%B0%8F%E4%BC%9E%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E5%A4%9A%E5%A4%9A%E8%89%AF%E5%B0%8F%E4%BC%9E%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="76" srcset="https://upload.thwiki.cc/thumb/a/a0/%E5%A4%9A%E5%A4%9A%E8%89%AF%E5%B0%8F%E4%BC%9E%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E5%A4%9A%E5%A4%9A%E8%89%AF%E5%B0%8F%E4%BC%9E%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/a/a0/%E5%A4%9A%E5%A4%9A%E8%89%AF%E5%B0%8F%E4%BC%9E%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E5%A4%9A%E5%A4%9A%E8%89%AF%E5%B0%8F%E4%BC%9E%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="337" data-file-height="512">
+多多良小伞  
 要是追船的话  
 一边跟我玩一边不是也可以追吗
   
-
-
-[](./博丽灵梦.md)博丽灵梦
-  
+<img alt="博丽灵梦（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="85" srcset="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="256" data-file-height="435">
+博丽灵梦  
 哼。妖怪闲下来是好事啊  
 反正就只是为了被人降伏的存在  
   
 不过，数量太多了没法全部都降伏  
 所以你等到下次再说
   
-
-
-[](./多多良小伞.md)多多良小伞
-  
+<img alt="多多良小伞（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/a/a0/%E5%A4%9A%E5%A4%9A%E8%89%AF%E5%B0%8F%E4%BC%9E%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E5%A4%9A%E5%A4%9A%E8%89%AF%E5%B0%8F%E4%BC%9E%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="76" srcset="https://upload.thwiki.cc/thumb/a/a0/%E5%A4%9A%E5%A4%9A%E8%89%AF%E5%B0%8F%E4%BC%9E%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E5%A4%9A%E5%A4%9A%E8%89%AF%E5%B0%8F%E4%BC%9E%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/a/a0/%E5%A4%9A%E5%A4%9A%E8%89%AF%E5%B0%8F%E4%BC%9E%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E5%A4%9A%E5%A4%9A%E8%89%AF%E5%B0%8F%E4%BC%9E%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="337" data-file-height="512">
+多多良小伞  
 就是这样人类才没意思呢  
   
 为什么就不能勉强自己做出一些宽裕的模样呢？  
@@ -358,311 +247,210 @@ BGM: 请注意万年备用伞
   
 宝船啥的回头还会再发现的
   
-
-
-[](./博丽灵梦.md)博丽灵梦
-  
+<img alt="博丽灵梦（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="85" srcset="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="256" data-file-height="435">
+博丽灵梦  
 对于现在的我而言宽松啥的一点用都没  
 我不想余出任何时间来
   
-
-
-[](./多多良小伞.md)多多良小伞
-  
+<img alt="多多良小伞（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/a/a0/%E5%A4%9A%E5%A4%9A%E8%89%AF%E5%B0%8F%E4%BC%9E%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E5%A4%9A%E5%A4%9A%E8%89%AF%E5%B0%8F%E4%BC%9E%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="76" srcset="https://upload.thwiki.cc/thumb/a/a0/%E5%A4%9A%E5%A4%9A%E8%89%AF%E5%B0%8F%E4%BC%9E%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E5%A4%9A%E5%A4%9A%E8%89%AF%E5%B0%8F%E4%BC%9E%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/a/a0/%E5%A4%9A%E5%A4%9A%E8%89%AF%E5%B0%8F%E4%BC%9E%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E5%A4%9A%E5%A4%9A%E8%89%AF%E5%B0%8F%E4%BC%9E%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="337" data-file-height="512">
+多多良小伞  
 就是无用所以才美  
 预定好的人生那简直就是如恶梦一般的东西哦  
   
 道具也一样光有产生机能的部分那一点都不美  
 无用的部分才正是妖怪的……
   
-
-
-[](./博丽灵梦.md)博丽灵梦
-  
+<img alt="博丽灵梦（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="85" srcset="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="256" data-file-height="435">
+博丽灵梦  
 我可不想听<ruby><rb>付丧神</rb><rp> (</rp><rt>破道具</rt><rp>) </rp></ruby>
 说教啊！  
 一边打倒你一边去追就可以了是吗？
   
-
-
-
   
 关底BOSS战
   
-
   
-
-
   
 [多多良小伞](./多多良小伞.md) 被击败
   
-
   
-
-[](./博丽灵梦.md)博丽灵梦
-  
+<img alt="博丽灵梦（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="85" srcset="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="256" data-file-height="435">
+博丽灵梦  
 伞妖怪啥的赶快给我坠落多好
   
-
-
-[](./多多良小伞.md)多多良小伞
-  
+<img alt="多多良小伞（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/a/a0/%E5%A4%9A%E5%A4%9A%E8%89%AF%E5%B0%8F%E4%BC%9E%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E5%A4%9A%E5%A4%9A%E8%89%AF%E5%B0%8F%E4%BC%9E%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="76" srcset="https://upload.thwiki.cc/thumb/a/a0/%E5%A4%9A%E5%A4%9A%E8%89%AF%E5%B0%8F%E4%BC%9E%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E5%A4%9A%E5%A4%9A%E8%89%AF%E5%B0%8F%E4%BC%9E%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/a/a0/%E5%A4%9A%E5%A4%9A%E8%89%AF%E5%B0%8F%E4%BC%9E%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E5%A4%9A%E5%A4%9A%E8%89%AF%E5%B0%8F%E4%BC%9E%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="337" data-file-height="512">
+多多良小伞  
 啊啊，人类多么的无情啊
   
-
-
-[](./博丽灵梦.md)博丽灵梦
-  
+<img alt="博丽灵梦（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="85" srcset="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="256" data-file-height="435">
+博丽灵梦  
 还不是你自己找上门来想要被我打倒的吗  
 像你这种人家都怎么说来着？
   
-
-
-[](./多多良小伞.md)多多良小伞
-  
+<img alt="多多良小伞（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/a/a0/%E5%A4%9A%E5%A4%9A%E8%89%AF%E5%B0%8F%E4%BC%9E%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E5%A4%9A%E5%A4%9A%E8%89%AF%E5%B0%8F%E4%BC%9E%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="76" srcset="https://upload.thwiki.cc/thumb/a/a0/%E5%A4%9A%E5%A4%9A%E8%89%AF%E5%B0%8F%E4%BC%9E%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E5%A4%9A%E5%A4%9A%E8%89%AF%E5%B0%8F%E4%BC%9E%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/a/a0/%E5%A4%9A%E5%A4%9A%E8%89%AF%E5%B0%8F%E4%BC%9E%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E5%A4%9A%E5%A4%9A%E8%89%AF%E5%B0%8F%E4%BC%9E%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="337" data-file-height="512">
+多多良小伞  
 好像叫——Sadism (施虐癖)？
   
-
-
-[](./博丽灵梦.md)博丽灵梦
-  
+<img alt="博丽灵梦（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="85" srcset="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="256" data-file-height="435">
+博丽灵梦  
 虽然感觉这里应该吐槽不过无所谓了  
 正好也能看到船的位置了，辛苦你帮忙引路
   
 
-
-
 ## Stage 3
-旁旁白
+旁旁白  
+<img alt="星莲船3面场景.jpg" src="https://upload.thwiki.cc/8/8b/%E6%98%9F%E8%8E%B2%E8%88%B93%E9%9D%A2%E5%9C%BA%E6%99%AF.jpg" decoding="async" loading="lazy" width="200" height="420" data-file-width="199" data-file-height="418">
   
-[](./文件-星莲船3面场景.jpg.md)  
 
 星莲船3面场景
   
-
   
-
-旁
-  
+旁  
 高速的废墟与巨人
   
-
-
-
   
 高速浮游艇
   
-
   
-
-
   
 BGM: Sky Ruin
   
-
   
-
-
   
 道中前半
   
-
   
-
-
   
 [云居一轮](./云居一轮.md) 登场
   
-
   
-
-
   
 道中一非
   
-
   
-
-
   
 [云居一轮](./云居一轮.md) 停顿
   
-
   
-
-[](./云居一轮.md)？？？
-  
+<img alt="云居一轮&amp;云山（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/9/9e/%E4%BA%91%E5%B1%85%E4%B8%80%E8%BD%AE%26%E4%BA%91%E5%B1%B1%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E4%BA%91%E5%B1%85%E4%B8%80%E8%BD%AE%26%E4%BA%91%E5%B1%B1%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="79" srcset="https://upload.thwiki.cc/thumb/9/9e/%E4%BA%91%E5%B1%85%E4%B8%80%E8%BD%AE%26%E4%BA%91%E5%B1%B1%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E4%BA%91%E5%B1%85%E4%B8%80%E8%BD%AE%26%E4%BA%91%E5%B1%B1%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/9/9e/%E4%BA%91%E5%B1%85%E4%B8%80%E8%BD%AE%26%E4%BA%91%E5%B1%B1%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E4%BA%91%E5%B1%85%E4%B8%80%E8%BD%AE%26%E4%BA%91%E5%B1%B1%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="307" data-file-height="487">
+？？？  
 妖精啥的人类啥的一帮不三不四的  
 都聚集过来……目的是宝物库吗？
   
-
-
-[](./博丽灵梦.md)博丽灵梦
-  
+<img alt="博丽灵梦（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="85" srcset="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="256" data-file-height="435">
+博丽灵梦  
 宝物库？  
 这么说这艘船果然是……
   
-
-
-[](./云居一轮.md)？？？
-  
+<img alt="云居一轮&amp;云山（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/9/9e/%E4%BA%91%E5%B1%85%E4%B8%80%E8%BD%AE%26%E4%BA%91%E5%B1%B1%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E4%BA%91%E5%B1%85%E4%B8%80%E8%BD%AE%26%E4%BA%91%E5%B1%B1%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="79" srcset="https://upload.thwiki.cc/thumb/9/9e/%E4%BA%91%E5%B1%85%E4%B8%80%E8%BD%AE%26%E4%BA%91%E5%B1%B1%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E4%BA%91%E5%B1%85%E4%B8%80%E8%BD%AE%26%E4%BA%91%E5%B1%B1%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/9/9e/%E4%BA%91%E5%B1%85%E4%B8%80%E8%BD%AE%26%E4%BA%91%E5%B1%B1%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E4%BA%91%E5%B1%85%E4%B8%80%E8%BD%AE%26%E4%BA%91%E5%B1%B1%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="307" data-file-height="487">
+？？？  
 少跟我啰嗦！  
 对于贼人之流没必要同情
   
-
-
-
   
 道中一符
   
-
   
-
-
   
 [云居一轮](./云居一轮.md) 停顿
   
-
   
-
-[](./云居一轮.md)？？？
-  
+<img alt="云居一轮&amp;云山（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/9/9e/%E4%BA%91%E5%B1%85%E4%B8%80%E8%BD%AE%26%E4%BA%91%E5%B1%B1%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E4%BA%91%E5%B1%85%E4%B8%80%E8%BD%AE%26%E4%BA%91%E5%B1%B1%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="79" srcset="https://upload.thwiki.cc/thumb/9/9e/%E4%BA%91%E5%B1%85%E4%B8%80%E8%BD%AE%26%E4%BA%91%E5%B1%B1%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E4%BA%91%E5%B1%85%E4%B8%80%E8%BD%AE%26%E4%BA%91%E5%B1%B1%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/9/9e/%E4%BA%91%E5%B1%85%E4%B8%80%E8%BD%AE%26%E4%BA%91%E5%B1%B1%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E4%BA%91%E5%B1%85%E4%B8%80%E8%BD%AE%26%E4%BA%91%E5%B1%B1%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="307" data-file-height="487">
+？？？  
 哎呀哎呀，竟然有人类看到那双拳头还  
 不逃走的啊……
   
-
-
-[](./博丽灵梦.md)博丽灵梦
-  
+<img alt="博丽灵梦（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="85" srcset="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="256" data-file-height="435">
+博丽灵梦  
 果然这艘船是，宝船？  
 虽然外表看起来什么都没装的样子……
   
-
-
-
   
 [云居一轮](./云居一轮.md) 离场
   
-
   
-
-[](./博丽灵梦.md)博丽灵梦
-  
+<img alt="博丽灵梦（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="85" srcset="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="256" data-file-height="435">
+博丽灵梦  
 啊，逃走了
   
-
-
-
   
 道中后半
   
-
   
-
-
   
 [云居一轮](./云居一轮.md) 登场
   
-
   
-
-[](./云居一轮.md)？？？
-  
+<img alt="云居一轮&amp;云山（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/9/9e/%E4%BA%91%E5%B1%85%E4%B8%80%E8%BD%AE%26%E4%BA%91%E5%B1%B1%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E4%BA%91%E5%B1%85%E4%B8%80%E8%BD%AE%26%E4%BA%91%E5%B1%B1%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="79" srcset="https://upload.thwiki.cc/thumb/9/9e/%E4%BA%91%E5%B1%85%E4%B8%80%E8%BD%AE%26%E4%BA%91%E5%B1%B1%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E4%BA%91%E5%B1%85%E4%B8%80%E8%BD%AE%26%E4%BA%91%E5%B1%B1%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/9/9e/%E4%BA%91%E5%B1%85%E4%B8%80%E8%BD%AE%26%E4%BA%91%E5%B1%B1%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E4%BA%91%E5%B1%85%E4%B8%80%E8%BD%AE%26%E4%BA%91%E5%B1%B1%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="307" data-file-height="487">
+？？？  
 你究竟有什么目的啊  
 宝物？还是姐姐她的力量？
   
-
-
-[](./博丽灵梦.md)博丽灵梦
-  
+<img alt="博丽灵梦（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="85" srcset="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="256" data-file-height="435">
+博丽灵梦  
 目的就是宝物！
   
-
-
-[](./云居一轮.md)？？？
-  
+<img alt="云居一轮&amp;云山（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/9/9e/%E4%BA%91%E5%B1%85%E4%B8%80%E8%BD%AE%26%E4%BA%91%E5%B1%B1%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E4%BA%91%E5%B1%85%E4%B8%80%E8%BD%AE%26%E4%BA%91%E5%B1%B1%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="79" srcset="https://upload.thwiki.cc/thumb/9/9e/%E4%BA%91%E5%B1%85%E4%B8%80%E8%BD%AE%26%E4%BA%91%E5%B1%B1%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E4%BA%91%E5%B1%85%E4%B8%80%E8%BD%AE%26%E4%BA%91%E5%B1%B1%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/9/9e/%E4%BA%91%E5%B1%85%E4%B8%80%E8%BD%AE%26%E4%BA%91%E5%B1%B1%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E4%BA%91%E5%B1%85%E4%B8%80%E8%BD%AE%26%E4%BA%91%E5%B1%B1%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="307" data-file-height="487">
+？？？  
 哼  
 果然就是个贼人呢
   
-
-
-[](./博丽灵梦.md)博丽灵梦
-  
+<img alt="博丽灵梦（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="85" srcset="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="256" data-file-height="435">
+博丽灵梦  
 不过，这艘船也太煞风景了呢
   
-
-
-
   
 守护与被守护的大轮  
 [云居一轮](./云居一轮.md)和[云山](./云山.md)  
-Kumoi Ichirin &amp; Unzan
+Kumoi Ichirin & Unzan
   
-
   
-
-[](./云居一轮.md)云居一轮
-  
+<img alt="云居一轮&amp;云山（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/9/9e/%E4%BA%91%E5%B1%85%E4%B8%80%E8%BD%AE%26%E4%BA%91%E5%B1%B1%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E4%BA%91%E5%B1%85%E4%B8%80%E8%BD%AE%26%E4%BA%91%E5%B1%B1%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="79" srcset="https://upload.thwiki.cc/thumb/9/9e/%E4%BA%91%E5%B1%85%E4%B8%80%E8%BD%AE%26%E4%BA%91%E5%B1%B1%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E4%BA%91%E5%B1%85%E4%B8%80%E8%BD%AE%26%E4%BA%91%E5%B1%B1%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/9/9e/%E4%BA%91%E5%B1%85%E4%B8%80%E8%BD%AE%26%E4%BA%91%E5%B1%B1%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E4%BA%91%E5%B1%85%E4%B8%80%E8%BD%AE%26%E4%BA%91%E5%B1%B1%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="307" data-file-height="487">
+云居一轮  
 有条很遗憾的消息要告诉你，宝物已经没了哦
   
-
-
-[](./博丽灵梦.md)博丽灵梦
-  
+<img alt="博丽灵梦（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="85" srcset="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="256" data-file-height="435">
+博丽灵梦  
 你说什么？
   
-
-
-[](./云居一轮.md)云居一轮
-  
+<img alt="云居一轮&amp;云山（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/9/9e/%E4%BA%91%E5%B1%85%E4%B8%80%E8%BD%AE%26%E4%BA%91%E5%B1%B1%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E4%BA%91%E5%B1%85%E4%B8%80%E8%BD%AE%26%E4%BA%91%E5%B1%B1%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="79" srcset="https://upload.thwiki.cc/thumb/9/9e/%E4%BA%91%E5%B1%85%E4%B8%80%E8%BD%AE%26%E4%BA%91%E5%B1%B1%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E4%BA%91%E5%B1%85%E4%B8%80%E8%BD%AE%26%E4%BA%91%E5%B1%B1%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/9/9e/%E4%BA%91%E5%B1%85%E4%B8%80%E8%BD%AE%26%E4%BA%91%E5%B1%B1%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E4%BA%91%E5%B1%85%E4%B8%80%E8%BD%AE%26%E4%BA%91%E5%B1%B1%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="307" data-file-height="487">
+云居一轮  
 无数拥有在空中飞翔力量的宝物  
 能够让人类悔改的宝物……  
   
 在姐姐沉眠的这段时间里已经基本都丧失殆尽  
 散落到世界各处去了
   
-
-
-[](./博丽灵梦.md)博丽灵梦
-  
+<img alt="博丽灵梦（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="85" srcset="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="256" data-file-height="435">
+博丽灵梦  
 哎—  
 那金银财宝呢？
   
-
-
-[](./云居一轮.md)云居一轮
-  
+<img alt="云居一轮&amp;云山（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/9/9e/%E4%BA%91%E5%B1%85%E4%B8%80%E8%BD%AE%26%E4%BA%91%E5%B1%B1%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E4%BA%91%E5%B1%85%E4%B8%80%E8%BD%AE%26%E4%BA%91%E5%B1%B1%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="79" srcset="https://upload.thwiki.cc/thumb/9/9e/%E4%BA%91%E5%B1%85%E4%B8%80%E8%BD%AE%26%E4%BA%91%E5%B1%B1%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E4%BA%91%E5%B1%85%E4%B8%80%E8%BD%AE%26%E4%BA%91%E5%B1%B1%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/9/9e/%E4%BA%91%E5%B1%85%E4%B8%80%E8%BD%AE%26%E4%BA%91%E5%B1%B1%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E4%BA%91%E5%B1%85%E4%B8%80%E8%BD%AE%26%E4%BA%91%E5%B1%B1%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="307" data-file-height="487">
+云居一轮  
 金银财宝？  
 你想要那种东西吗？  
   
 从一开始就没有哦  
 那些能够换钱程度价值的东西
   
-
-
-[](./博丽灵梦.md)博丽灵梦
-  
+<img alt="博丽灵梦（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="85" srcset="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="256" data-file-height="435">
+博丽灵梦  
 悲剧啊
   
-
-
-[](./云居一轮.md)云居一轮
-  
+<img alt="云居一轮&amp;云山（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/9/9e/%E4%BA%91%E5%B1%85%E4%B8%80%E8%BD%AE%26%E4%BA%91%E5%B1%B1%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E4%BA%91%E5%B1%85%E4%B8%80%E8%BD%AE%26%E4%BA%91%E5%B1%B1%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="79" srcset="https://upload.thwiki.cc/thumb/9/9e/%E4%BA%91%E5%B1%85%E4%B8%80%E8%BD%AE%26%E4%BA%91%E5%B1%B1%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E4%BA%91%E5%B1%85%E4%B8%80%E8%BD%AE%26%E4%BA%91%E5%B1%B1%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/9/9e/%E4%BA%91%E5%B1%85%E4%B8%80%E8%BD%AE%26%E4%BA%91%E5%B1%B1%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E4%BA%91%E5%B1%85%E4%B8%80%E8%BD%AE%26%E4%BA%91%E5%B1%B1%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="307" data-file-height="487">
+云居一轮  
 ……咦？  
 你说什么，这个巫女她……？  
   
 云山他，说你在收集飞宝的碎片啊。真的吗？
   
-
-
-[](./博丽灵梦.md)博丽灵梦
-  
+<img alt="博丽灵梦（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="85" srcset="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="256" data-file-height="435">
+博丽灵梦  
 哪里收集了啊
   
-
-
-[](./云居一轮.md)云居一轮
-  
+<img alt="云居一轮&amp;云山（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/9/9e/%E4%BA%91%E5%B1%85%E4%B8%80%E8%BD%AE%26%E4%BA%91%E5%B1%B1%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E4%BA%91%E5%B1%85%E4%B8%80%E8%BD%AE%26%E4%BA%91%E5%B1%B1%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="79" srcset="https://upload.thwiki.cc/thumb/9/9e/%E4%BA%91%E5%B1%85%E4%B8%80%E8%BD%AE%26%E4%BA%91%E5%B1%B1%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E4%BA%91%E5%B1%85%E4%B8%80%E8%BD%AE%26%E4%BA%91%E5%B1%B1%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/9/9e/%E4%BA%91%E5%B1%85%E4%B8%80%E8%BD%AE%26%E4%BA%91%E5%B1%B1%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E4%BA%91%E5%B1%85%E4%B8%80%E8%BD%AE%26%E4%BA%91%E5%B1%B1%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="307" data-file-height="487">
+云居一轮  
 云山是不可能说谎的  
 你有收集吧  
   
@@ -672,68 +460,47 @@ Kumoi Ichirin &amp; Unzan
 你也希望姐姐她复活呢！  
 太感动了
   
-
-
-[](./博丽灵梦.md)博丽灵梦
-  
+<img alt="博丽灵梦（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="85" srcset="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="256" data-file-height="435">
+博丽灵梦  
 你说什么我完全听不懂啊！  
 我只是，以为宝船里有金银财宝！
   
-
-
-
   
 BGM: 守旧老爹与前卫少女
   
-
   
-
-[](./云居一轮.md)云居一轮
-  
+<img alt="云居一轮&amp;云山（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/9/9e/%E4%BA%91%E5%B1%85%E4%B8%80%E8%BD%AE%26%E4%BA%91%E5%B1%B1%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E4%BA%91%E5%B1%85%E4%B8%80%E8%BD%AE%26%E4%BA%91%E5%B1%B1%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="79" srcset="https://upload.thwiki.cc/thumb/9/9e/%E4%BA%91%E5%B1%85%E4%B8%80%E8%BD%AE%26%E4%BA%91%E5%B1%B1%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E4%BA%91%E5%B1%85%E4%B8%80%E8%BD%AE%26%E4%BA%91%E5%B1%B1%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/9/9e/%E4%BA%91%E5%B1%85%E4%B8%80%E8%BD%AE%26%E4%BA%91%E5%B1%B1%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E4%BA%91%E5%B1%85%E4%B8%80%E8%BD%AE%26%E4%BA%91%E5%B1%B1%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="307" data-file-height="487">
+云居一轮  
 没事没事  
 来吧，把收集到的宝物都交出来吧！
   
-
-
-
   
 关底BOSS战
   
-
   
-
-
   
 [云居一轮](./云居一轮.md) 被击败
   
-
   
-
-[](./云居一轮.md)云居一轮
-  
+<img alt="云居一轮&amp;云山（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/9/9e/%E4%BA%91%E5%B1%85%E4%B8%80%E8%BD%AE%26%E4%BA%91%E5%B1%B1%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E4%BA%91%E5%B1%85%E4%B8%80%E8%BD%AE%26%E4%BA%91%E5%B1%B1%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="79" srcset="https://upload.thwiki.cc/thumb/9/9e/%E4%BA%91%E5%B1%85%E4%B8%80%E8%BD%AE%26%E4%BA%91%E5%B1%B1%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E4%BA%91%E5%B1%85%E4%B8%80%E8%BD%AE%26%E4%BA%91%E5%B1%B1%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/9/9e/%E4%BA%91%E5%B1%85%E4%B8%80%E8%BD%AE%26%E4%BA%91%E5%B1%B1%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E4%BA%91%E5%B1%85%E4%B8%80%E8%BD%AE%26%E4%BA%91%E5%B1%B1%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="307" data-file-height="487">
+云居一轮  
 真是强大啊。云山他说您一定是  
 一位有名的人士
   
-
-
-[](./博丽灵梦.md)博丽灵梦
-  
+<img alt="博丽灵梦（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="85" srcset="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="256" data-file-height="435">
+博丽灵梦  
 是，是吗？  
 其实也没那么有名啦
   
-
-
-[](./云居一轮.md)云居一轮
-  
+<img alt="云居一轮&amp;云山（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/9/9e/%E4%BA%91%E5%B1%85%E4%B8%80%E8%BD%AE%26%E4%BA%91%E5%B1%B1%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E4%BA%91%E5%B1%85%E4%B8%80%E8%BD%AE%26%E4%BA%91%E5%B1%B1%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="79" srcset="https://upload.thwiki.cc/thumb/9/9e/%E4%BA%91%E5%B1%85%E4%B8%80%E8%BD%AE%26%E4%BA%91%E5%B1%B1%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E4%BA%91%E5%B1%85%E4%B8%80%E8%BD%AE%26%E4%BA%91%E5%B1%B1%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/9/9e/%E4%BA%91%E5%B1%85%E4%B8%80%E8%BD%AE%26%E4%BA%91%E5%B1%B1%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E4%BA%91%E5%B1%85%E4%B8%80%E8%BD%AE%26%E4%BA%91%E5%B1%B1%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="307" data-file-height="487">
+云居一轮  
 你所收集的浮游的碎片  
 是复活姐姐她必须的物品  
   
 好了，请拿着它们进到里面去吧
   
-
-
-[](./博丽灵梦.md)博丽灵梦
-  
+<img alt="博丽灵梦（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="85" srcset="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="256" data-file-height="435">
+博丽灵梦  
 不是没有宝物吗？  
 好让人泄气啊  
   
@@ -743,75 +510,47 @@ BGM: 守旧老爹与前卫少女
 虽然报酬看来是泡汤了
   
 
-
-
 ## Stage 4
-旁旁白
+旁旁白  
+<img alt="星莲船4面场景.jpg" src="https://upload.thwiki.cc/e/e2/%E6%98%9F%E8%8E%B2%E8%88%B94%E9%9D%A2%E5%9C%BA%E6%99%AF.jpg" decoding="async" loading="lazy" width="200" height="420" data-file-width="199" data-file-height="418">
   
-[](./文件-星莲船4面场景.jpg.md)  
 
 星莲船4面场景
   
-
   
-
-旁
-  
+旁  
 圣辇船和不吉利的船长
   
-
-
-
   
 圣辇船内部
   
-
   
-
-
   
 BGM: 幽灵客船的穿越时空之旅
   
-
   
-
-
   
 道中前半
   
-
   
-
-
   
 光球 登场
   
-
   
-
-
   
 道中BOSS战
   
-
   
-
-
   
 光球 离场
   
-
   
-
-
   
 道中后半
   
-
   
-
-[](./博丽灵梦.md)博丽灵梦
-  
+<img alt="博丽灵梦（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="85" srcset="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="256" data-file-height="435">
+博丽灵梦  
 嗯  
 好的，船内也什么都没有  
   
@@ -824,40 +563,28 @@ BGM: 幽灵客船的穿越时空之旅
 要不是宝船的话也就没啥价值了  
 就只是一个空箱子而已
   
-
-
-
   
 [村纱水蜜](./村纱水蜜.md) 登场
   
-
   
-
-
   
 BGM: Captain Murasa
   
-
   
-
-[](./村纱水蜜.md)？？？
-  
+<img alt="村纱水蜜（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/8/86/%E6%9D%91%E7%BA%B1%E6%B0%B4%E8%9C%9C%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E6%9D%91%E7%BA%B1%E6%B0%B4%E8%9C%9C%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="108" srcset="https://upload.thwiki.cc/thumb/8/86/%E6%9D%91%E7%BA%B1%E6%B0%B4%E8%9C%9C%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E6%9D%91%E7%BA%B1%E6%B0%B4%E8%9C%9C%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/8/86/%E6%9D%91%E7%BA%B1%E6%B0%B4%E8%9C%9C%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E6%9D%91%E7%BA%B1%E6%B0%B4%E8%9C%9C%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="213" data-file-height="459">
+？？？  
 有谁在那边吗？  
   
 人类……？  
 还是说你也是放弃做人类的人？
   
-
-
-[](./博丽灵梦.md)博丽灵梦
-  
+<img alt="博丽灵梦（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="85" srcset="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="256" data-file-height="435">
+博丽灵梦  
 唔，好像有看漏掉一个呢  
 这里竟然有妖怪！看我来降伏
   
-
-
-[](./村纱水蜜.md)？？？
-  
+<img alt="村纱水蜜（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/8/86/%E6%9D%91%E7%BA%B1%E6%B0%B4%E8%9C%9C%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E6%9D%91%E7%BA%B1%E6%B0%B4%E8%9C%9C%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="108" srcset="https://upload.thwiki.cc/thumb/8/86/%E6%9D%91%E7%BA%B1%E6%B0%B4%E8%9C%9C%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E6%9D%91%E7%BA%B1%E6%B0%B4%E8%9C%9C%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/8/86/%E6%9D%91%E7%BA%B1%E6%B0%B4%E8%9C%9C%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E6%9D%91%E7%BA%B1%E6%B0%B4%E8%9C%9C%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="213" data-file-height="459">
+？？？  
 这样啊，你是人类吧？  
   
 那么我劝你还是放下你手上的飞宝  
@@ -866,39 +593,28 @@ BGM: Captain Murasa
 这艘船很快就将到达目的地  
 到时候你可就回不来了
   
-
-
-[](./博丽灵梦.md)博丽灵梦
-  
+<img alt="博丽灵梦（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="85" srcset="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="256" data-file-height="435">
+博丽灵梦  
 目的地？  
 你究竟是……
   
-
-
-
   
 水难事故的念缚灵  
 [村纱船长](./村纱水蜜.md)  
 Captain Murasa Minamitu
   
-
   
-
-[](./村纱水蜜.md)村纱水蜜
-  
+<img alt="村纱水蜜（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/8/86/%E6%9D%91%E7%BA%B1%E6%B0%B4%E8%9C%9C%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E6%9D%91%E7%BA%B1%E6%B0%B4%E8%9C%9C%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="108" srcset="https://upload.thwiki.cc/thumb/8/86/%E6%9D%91%E7%BA%B1%E6%B0%B4%E8%9C%9C%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E6%9D%91%E7%BA%B1%E6%B0%B4%E8%9C%9C%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/8/86/%E6%9D%91%E7%BA%B1%E6%B0%B4%E8%9C%9C%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E6%9D%91%E7%BA%B1%E6%B0%B4%E8%9C%9C%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="213" data-file-height="459">
+村纱水蜜  
 忘记自我介绍了  
 我叫村纱，是这艘圣辇船的船长
   
-
-
-[](./博丽灵梦.md)博丽灵梦
-  
+<img alt="博丽灵梦（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="85" srcset="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="256" data-file-height="435">
+博丽灵梦  
 你是船长？
   
-
-
-[](./村纱水蜜.md)村纱水蜜
-  
+<img alt="村纱水蜜（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/8/86/%E6%9D%91%E7%BA%B1%E6%B0%B4%E8%9C%9C%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E6%9D%91%E7%BA%B1%E6%B0%B4%E8%9C%9C%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="108" srcset="https://upload.thwiki.cc/thumb/8/86/%E6%9D%91%E7%BA%B1%E6%B0%B4%E8%9C%9C%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E6%9D%91%E7%BA%B1%E6%B0%B4%E8%9C%9C%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/8/86/%E6%9D%91%E7%BA%B1%E6%B0%B4%E8%9C%9C%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E6%9D%91%E7%BA%B1%E6%B0%B4%E8%9C%9C%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="213" data-file-height="459">
+村纱水蜜  
 这艘船现在正向着圣被封印的  
 另一片天地前进中  
   
@@ -914,10 +630,8 @@ Captain Murasa Minamitu
 所以说呢，我们拒绝对这个世界还有迷恋的人上船  
 你是不是呢？
   
-
-
-[](./博丽灵梦.md)博丽灵梦
-  
+<img alt="博丽灵梦（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="85" srcset="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="256" data-file-height="435">
+博丽灵梦  
 虽然没听明白你说的什么  
   
 不过我就搞清楚了这不是宝船啊  
@@ -925,107 +639,75 @@ Captain Murasa Minamitu
 原来是一艘妖魔跋扈的魔船呢  
 这可不能放过不管
   
-
-
-[](./村纱水蜜.md)村纱水蜜
-  
+<img alt="村纱水蜜（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/8/86/%E6%9D%91%E7%BA%B1%E6%B0%B4%E8%9C%9C%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E6%9D%91%E7%BA%B1%E6%B0%B4%E8%9C%9C%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="108" srcset="https://upload.thwiki.cc/thumb/8/86/%E6%9D%91%E7%BA%B1%E6%B0%B4%E8%9C%9C%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E6%9D%91%E7%BA%B1%E6%B0%B4%E8%9C%9C%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/8/86/%E6%9D%91%E7%BA%B1%E6%B0%B4%E8%9C%9C%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E6%9D%91%E7%BA%B1%E6%B0%B4%E8%9C%9C%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="213" data-file-height="459">
+村纱水蜜  
 不能放过不管是什么意思？
   
-
-
-[](./博丽灵梦.md)博丽灵梦
-  
+<img alt="博丽灵梦（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="85" srcset="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="256" data-file-height="435">
+博丽灵梦  
 我现在要在这里打倒船长  
 把这艘船弄沉
   
-
-
-[](./村纱水蜜.md)村纱水蜜
-  
+<img alt="村纱水蜜（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/8/86/%E6%9D%91%E7%BA%B1%E6%B0%B4%E8%9C%9C%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E6%9D%91%E7%BA%B1%E6%B0%B4%E8%9C%9C%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="108" srcset="https://upload.thwiki.cc/thumb/8/86/%E6%9D%91%E7%BA%B1%E6%B0%B4%E8%9C%9C%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E6%9D%91%E7%BA%B1%E6%B0%B4%E8%9C%9C%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/8/86/%E6%9D%91%E7%BA%B1%E6%B0%B4%E8%9C%9C%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E6%9D%91%E7%BA%B1%E6%B0%B4%E8%9C%9C%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="213" data-file-height="459">
+村纱水蜜  
 我刚刚忘记说了，要去另一片天地的话  
 必须得要有一种宝物才可以  
   
 而你拿着的那些在天上飞的神秘物体  
 就是那个宝物的碎片
   
-
-
-[](./博丽灵梦.md)博丽灵梦
-  
+<img alt="博丽灵梦（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="85" srcset="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="256" data-file-height="435">
+博丽灵梦  
 那东西我啥时候有收集的来着？
   
-
-
-[](./村纱水蜜.md)村纱水蜜
-  
+<img alt="村纱水蜜（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/8/86/%E6%9D%91%E7%BA%B1%E6%B0%B4%E8%9C%9C%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E6%9D%91%E7%BA%B1%E6%B0%B4%E8%9C%9C%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="108" srcset="https://upload.thwiki.cc/thumb/8/86/%E6%9D%91%E7%BA%B1%E6%B0%B4%E8%9C%9C%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E6%9D%91%E7%BA%B1%E6%B0%B4%E8%9C%9C%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/8/86/%E6%9D%91%E7%BA%B1%E6%B0%B4%E8%9C%9C%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E6%9D%91%E7%BA%B1%E6%B0%B4%E8%9C%9C%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="213" data-file-height="459">
+村纱水蜜  
 所以我才以为你是不是来帮我们的  
 ……真遗憾呢  
   
 你所乘坐的船很可能将要沉没  
 就让那被诅咒的海水将你从船上冲走好了！
   
-
-
-
   
 关底BOSS战
   
-
   
-
-
   
 [村纱水蜜](./村纱水蜜.md) 被击败
   
-
   
-
-[](./村纱水蜜.md)村纱水蜜
-  
+<img alt="村纱水蜜（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/8/86/%E6%9D%91%E7%BA%B1%E6%B0%B4%E8%9C%9C%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E6%9D%91%E7%BA%B1%E6%B0%B4%E8%9C%9C%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="108" srcset="https://upload.thwiki.cc/thumb/8/86/%E6%9D%91%E7%BA%B1%E6%B0%B4%E8%9C%9C%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E6%9D%91%E7%BA%B1%E6%B0%B4%E8%9C%9C%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/8/86/%E6%9D%91%E7%BA%B1%E6%B0%B4%E8%9C%9C%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E6%9D%91%E7%BA%B1%E6%B0%B4%E8%9C%9C%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="213" data-file-height="459">
+村纱水蜜  
 这就是葬送了无数妖怪的力量吗
   
-
-
-[](./博丽灵梦.md)博丽灵梦
-  
+<img alt="博丽灵梦（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="85" srcset="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="256" data-file-height="435">
+博丽灵梦  
 没错！  
 所以不要再做坏事了啊！
   
-
-
-[](./村纱水蜜.md)村纱水蜜
-  
+<img alt="村纱水蜜（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/8/86/%E6%9D%91%E7%BA%B1%E6%B0%B4%E8%9C%9C%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E6%9D%91%E7%BA%B1%E6%B0%B4%E8%9C%9C%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="108" srcset="https://upload.thwiki.cc/thumb/8/86/%E6%9D%91%E7%BA%B1%E6%B0%B4%E8%9C%9C%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E6%9D%91%E7%BA%B1%E6%B0%B4%E8%9C%9C%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/8/86/%E6%9D%91%E7%BA%B1%E6%B0%B4%E8%9C%9C%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E6%9D%91%E7%BA%B1%E6%B0%B4%E8%9C%9C%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="213" data-file-height="459">
+村纱水蜜  
 不过我根本就没做任何坏事呢
   
-
-
-[](./博丽灵梦.md)博丽灵梦
-  
+<img alt="博丽灵梦（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="85" srcset="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="256" data-file-height="435">
+博丽灵梦  
 这个嘛，身为妖怪本身不就是坏事吗？
   
-
-
-[](./村纱水蜜.md)村纱水蜜
-  
+<img alt="村纱水蜜（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/8/86/%E6%9D%91%E7%BA%B1%E6%B0%B4%E8%9C%9C%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E6%9D%91%E7%BA%B1%E6%B0%B4%E8%9C%9C%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="108" srcset="https://upload.thwiki.cc/thumb/8/86/%E6%9D%91%E7%BA%B1%E6%B0%B4%E8%9C%9C%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E6%9D%91%E7%BA%B1%E6%B0%B4%E8%9C%9C%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/8/86/%E6%9D%91%E7%BA%B1%E6%B0%B4%E8%9C%9C%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E6%9D%91%E7%BA%B1%E6%B0%B4%E8%9C%9C%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="213" data-file-height="459">
+村纱水蜜  
 让我放弃做妖怪这不可能啊～
   
-
-
-[](./博丽灵梦.md)博丽灵梦
-  
+<img alt="博丽灵梦（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="85" srcset="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="256" data-file-height="435">
+博丽灵梦  
 不过啊，这艘船不会停下呢  
 分明船长什么都没做的呢
   
-
-
-[](./村纱水蜜.md)村纱水蜜
-  
+<img alt="村纱水蜜（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/8/86/%E6%9D%91%E7%BA%B1%E6%B0%B4%E8%9C%9C%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E6%9D%91%E7%BA%B1%E6%B0%B4%E8%9C%9C%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="108" srcset="https://upload.thwiki.cc/thumb/8/86/%E6%9D%91%E7%BA%B1%E6%B0%B4%E8%9C%9C%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E6%9D%91%E7%BA%B1%E6%B0%B4%E8%9C%9C%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/8/86/%E6%9D%91%E7%BA%B1%E6%B0%B4%E8%9C%9C%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E6%9D%91%E7%BA%B1%E6%B0%B4%E8%9C%9C%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="213" data-file-height="459">
+村纱水蜜  
 因为是自动操作的啊
   
-
-
-[](./博丽灵梦.md)博丽灵梦
-  
+<img alt="博丽灵梦（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="85" srcset="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="256" data-file-height="435">
+博丽灵梦  
 虽然知道不是宝船之后  
 对这个失去了兴趣  
   
@@ -1034,71 +716,48 @@ Captain Murasa Minamitu
 究竟开往何处必须调查一下
   
 
-
-
 ## Stage 5
-旁旁白
+旁旁白  
+<img alt="星莲船5面场景.jpg" src="https://upload.thwiki.cc/c/c6/%E6%98%9F%E8%8E%B2%E8%88%B95%E9%9D%A2%E5%9C%BA%E6%99%AF.jpg" decoding="async" loading="lazy" width="200" height="420" data-file-width="199" data-file-height="418">
   
-[](./文件-星莲船5面场景.jpg.md)  
 
 星莲船5面场景
   
-
   
-
-旁
-  
+旁  
 魔界的红黑色封印
   
-
-
-
   
 魔界（法界上空）
   
-
   
-
-
   
 BGM: 魔界地方都市秘境
   
-
   
-
-
   
 道中前半
   
-
   
-
-
   
 [娜兹玲](./娜兹玲.md) 登场
   
-
   
-
-[](./娜兹玲.md)娜兹玲
-  
+<img alt="娜兹玲（星莲船立绘）mno.png" src="https://upload.thwiki.cc/thumb/2/24/%E5%A8%9C%E5%85%B9%E7%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89mno.png/50px-%E5%A8%9C%E5%85%B9%E7%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89mno.png" decoding="async" loading="lazy" width="50" height="60" srcset="https://upload.thwiki.cc/thumb/2/24/%E5%A8%9C%E5%85%B9%E7%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89mno.png/75px-%E5%A8%9C%E5%85%B9%E7%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89mno.png 1.5x, https://upload.thwiki.cc/thumb/2/24/%E5%A8%9C%E5%85%B9%E7%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89mno.png/100px-%E5%A8%9C%E5%85%B9%E7%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89mno.png 2x" data-file-width="320" data-file-height="384">
+娜兹玲  
 哎呀？  
 你也到魔界来了吗？
   
-
-
-[](./博丽灵梦.md)博丽灵梦
-  
+<img alt="博丽灵梦（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="85" srcset="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="256" data-file-height="435">
+博丽灵梦  
 我们…在哪见过吗？  
 不过你刚刚说魔界？  
   
 那个呆子船长，原来船的目的地  
 是魔界吗？
   
-
-
-[](./娜兹玲.md)娜兹玲
-  
+<img alt="娜兹玲（星莲船立绘）mno.png" src="https://upload.thwiki.cc/thumb/2/24/%E5%A8%9C%E5%85%B9%E7%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89mno.png/50px-%E5%A8%9C%E5%85%B9%E7%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89mno.png" decoding="async" loading="lazy" width="50" height="60" srcset="https://upload.thwiki.cc/thumb/2/24/%E5%A8%9C%E5%85%B9%E7%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89mno.png/75px-%E5%A8%9C%E5%85%B9%E7%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89mno.png 1.5x, https://upload.thwiki.cc/thumb/2/24/%E5%A8%9C%E5%85%B9%E7%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89mno.png/100px-%E5%A8%9C%E5%85%B9%E7%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89mno.png 2x" data-file-width="320" data-file-height="384">
+娜兹玲  
 把在毫不知情的情况下发现宝物的你  
 带到魔界来了呢  
   
@@ -1110,31 +769,20 @@ BGM: 魔界地方都市秘境
 这个毘沙门天的宝塔的力量  
 在交给主人之前先在你身上试一试吧
   
-
-
-
   
 道中BOSS战
   
-
   
-
-
   
 [娜兹玲](./娜兹玲.md) 被击败
   
-
   
-
-
   
 道中后半
   
-
   
-
-[](./博丽灵梦.md)博丽灵梦
-  
+<img alt="博丽灵梦（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="85" srcset="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="256" data-file-height="435">
+博丽灵梦  
 这里就是魔界吗—  
   
 难怪会觉得这么难受啊  
@@ -1142,56 +790,40 @@ BGM: 魔界地方都市秘境
 那破船，竟然把人带到这种地方  
 还说什么解开封印啥的，总觉得不大对劲呢
   
-
-
-
   
 [寅丸星](./寅丸星.md) 登场
   
-
   
-
-[](./寅丸星.md)？？？
-  
+<img alt="寅丸星（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/3/3c/%E5%AF%85%E4%B8%B8%E6%98%9F%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E5%AF%85%E4%B8%B8%E6%98%9F%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="83" srcset="https://upload.thwiki.cc/thumb/3/3c/%E5%AF%85%E4%B8%B8%E6%98%9F%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E5%AF%85%E4%B8%B8%E6%98%9F%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/3/3c/%E5%AF%85%E4%B8%B8%E6%98%9F%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E5%AF%85%E4%B8%B8%E6%98%9F%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="307" data-file-height="512">
+？？？  
 恭候多时了！  
   
 你就是收集飞宝的人类呢  
 面相比想象中的要穷酸很多呢
   
-
-
-[](./博丽灵梦.md)博丽灵梦
-  
+<img alt="博丽灵梦（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="85" srcset="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="256" data-file-height="435">
+博丽灵梦  
 真没礼貌啊
   
-
-
-[](./寅丸星.md)？？？
-  
+<img alt="寅丸星（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/3/3c/%E5%AF%85%E4%B8%B8%E6%98%9F%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E5%AF%85%E4%B8%B8%E6%98%9F%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="83" srcset="https://upload.thwiki.cc/thumb/3/3c/%E5%AF%85%E4%B8%B8%E6%98%9F%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E5%AF%85%E4%B8%B8%E6%98%9F%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/3/3c/%E5%AF%85%E4%B8%B8%E6%98%9F%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E5%AF%85%E4%B8%B8%E6%98%9F%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="307" data-file-height="512">
+？？？  
 不好意思，失礼了  
   
 因为我本来以为能到达这里的，应该是  
 修行更深的人来着
   
-
-
-[](./博丽灵梦.md)博丽灵梦
-  
+<img alt="博丽灵梦（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="85" srcset="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="256" data-file-height="435">
+博丽灵梦  
 我自认为修行不浅来着啊
   
-
-
-
   
 毘沙门天的弟子  
 [寅丸星](./寅丸星.md)  
 Toramaru Syou
   
-
   
-
-[](./寅丸星.md)寅丸星
-  
+<img alt="寅丸星（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/3/3c/%E5%AF%85%E4%B8%B8%E6%98%9F%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E5%AF%85%E4%B8%B8%E6%98%9F%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="83" srcset="https://upload.thwiki.cc/thumb/3/3c/%E5%AF%85%E4%B8%B8%E6%98%9F%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E5%AF%85%E4%B8%B8%E6%98%9F%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/3/3c/%E5%AF%85%E4%B8%B8%E6%98%9F%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E5%AF%85%E4%B8%B8%E6%98%9F%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="307" data-file-height="512">
+寅丸星  
 我是毘沙门天的代理  
 集圣的信仰于一身的人  
   
@@ -1201,40 +833,30 @@ Toramaru Syou
 就能解开这里的封印  
 就可以报答圣的恩情了
   
-
-
-[](./博丽灵梦.md)博丽灵梦
-  
+<img alt="博丽灵梦（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="85" srcset="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="256" data-file-height="435">
+博丽灵梦  
 我所拥有的宝物，难不成是  
 说这个UFO玩具吗？
   
-
-
-[](./寅丸星.md)寅丸星
-  
+<img alt="寅丸星（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/3/3c/%E5%AF%85%E4%B8%B8%E6%98%9F%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E5%AF%85%E4%B8%B8%E6%98%9F%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="83" srcset="https://upload.thwiki.cc/thumb/3/3c/%E5%AF%85%E4%B8%B8%E6%98%9F%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E5%AF%85%E4%B8%B8%E6%98%9F%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/3/3c/%E5%AF%85%E4%B8%B8%E6%98%9F%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E5%AF%85%E4%B8%B8%E6%98%9F%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="307" data-file-height="512">
+寅丸星  
 UFO？  
 是啊也可以这么说吧  
   
 来吧，与我一同给这法界以光芒——
   
-
-
-[](./博丽灵梦.md)博丽灵梦
-  
+<img alt="博丽灵梦（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="85" srcset="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="256" data-file-height="435">
+博丽灵梦  
 去你的！  
   
 我只不过是追着宝船才来到这里而已
   
-
-
-[](./寅丸星.md)寅丸星
-  
+<img alt="寅丸星（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/3/3c/%E5%AF%85%E4%B8%B8%E6%98%9F%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E5%AF%85%E4%B8%B8%E6%98%9F%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="83" srcset="https://upload.thwiki.cc/thumb/3/3c/%E5%AF%85%E4%B8%B8%E6%98%9F%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E5%AF%85%E4%B8%B8%E6%98%9F%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/3/3c/%E5%AF%85%E4%B8%B8%E6%98%9F%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E5%AF%85%E4%B8%B8%E6%98%9F%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="307" data-file-height="512">
+寅丸星  
 宝船……吗？
   
-
-
-[](./博丽灵梦.md)博丽灵梦
-  
+<img alt="博丽灵梦（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="85" srcset="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="256" data-file-height="435">
+博丽灵梦  
 打开盖子一看结果发现只是个空船而已  
   
 还想着有什么东西乘在里面  
@@ -1242,49 +864,36 @@ UFO？
   
 我已经受够了！
   
-
-
-[](./寅丸星.md)寅丸星
-  
+<img alt="寅丸星（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/3/3c/%E5%AF%85%E4%B8%B8%E6%98%9F%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E5%AF%85%E4%B8%B8%E6%98%9F%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="83" srcset="https://upload.thwiki.cc/thumb/3/3c/%E5%AF%85%E4%B8%B8%E6%98%9F%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E5%AF%85%E4%B8%B8%E6%98%9F%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/3/3c/%E5%AF%85%E4%B8%B8%E6%98%9F%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E5%AF%85%E4%B8%B8%E6%98%9F%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="307" data-file-height="512">
+寅丸星  
 其实没什么好失望的  
   
 圣辇船也不能完全说就不是宝船
   
-
-
-[](./博丽灵梦.md)博丽灵梦
-  
+<img alt="博丽灵梦（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="85" srcset="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="256" data-file-height="435">
+博丽灵梦  
 咦？
   
-
-
-[](./寅丸星.md)寅丸星
-  
+<img alt="寅丸星（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/3/3c/%E5%AF%85%E4%B8%B8%E6%98%9F%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E5%AF%85%E4%B8%B8%E6%98%9F%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="83" srcset="https://upload.thwiki.cc/thumb/3/3c/%E5%AF%85%E4%B8%B8%E6%98%9F%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E5%AF%85%E4%B8%B8%E6%98%9F%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/3/3c/%E5%AF%85%E4%B8%B8%E6%98%9F%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E5%AF%85%E4%B8%B8%E6%98%9F%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="307" data-file-height="512">
+寅丸星  
 因为啊，宝船里可是有七福神乘坐在里面的哦  
   
 那当中的一个人，毘沙门天就在这里  
 很吉利的呢
   
-
-
-[](./博丽灵梦.md)博丽灵梦
-  
+<img alt="博丽灵梦（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="85" srcset="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="256" data-file-height="435">
+博丽灵梦  
 都无所谓了  
   
 事到如今就干脆打倒你，再打倒那个被封印的啥东  
 西把你们家都翻个底朝天！
   
-
-
-
   
 BGM: 虎纹的毘沙门天
   
-
   
-
-[](./寅丸星.md)寅丸星
-  
+<img alt="寅丸星（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/3/3c/%E5%AF%85%E4%B8%B8%E6%98%9F%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E5%AF%85%E4%B8%B8%E6%98%9F%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="83" srcset="https://upload.thwiki.cc/thumb/3/3c/%E5%AF%85%E4%B8%B8%E6%98%9F%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E5%AF%85%E4%B8%B8%E6%98%9F%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/3/3c/%E5%AF%85%E4%B8%B8%E6%98%9F%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E5%AF%85%E4%B8%B8%E6%98%9F%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="307" data-file-height="512">
+寅丸星  
 好吧  
 你要和我战斗的话我奉陪到底  
   
@@ -1295,140 +904,92 @@ BGM: 虎纹的毘沙门天
 这个毘沙门天的宝塔面前  
 你将会乖乖俯首称臣吧！
   
-
-
-
   
 关底BOSS战
   
-
   
-
-
   
 [寅丸星](./寅丸星.md) 被击败
   
-
   
-
-[](./寅丸星.md)寅丸星
-  
+<img alt="寅丸星（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/3/3c/%E5%AF%85%E4%B8%B8%E6%98%9F%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E5%AF%85%E4%B8%B8%E6%98%9F%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="83" srcset="https://upload.thwiki.cc/thumb/3/3c/%E5%AF%85%E4%B8%B8%E6%98%9F%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E5%AF%85%E4%B8%B8%E6%98%9F%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/3/3c/%E5%AF%85%E4%B8%B8%E6%98%9F%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E5%AF%85%E4%B8%B8%E6%98%9F%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="307" data-file-height="512">
+寅丸星  
 好厉害  
 不愧是能收集来飞宝的人啊
   
-
-
-[](./博丽灵梦.md)博丽灵梦
-  
+<img alt="博丽灵梦（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="85" srcset="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="256" data-file-height="435">
+博丽灵梦  
 这种程度的降妖除魔是小菜一碟啦
   
-
-
-[](./寅丸星.md)寅丸星
-  
+<img alt="寅丸星（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/3/3c/%E5%AF%85%E4%B8%B8%E6%98%9F%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E5%AF%85%E4%B8%B8%E6%98%9F%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="83" srcset="https://upload.thwiki.cc/thumb/3/3c/%E5%AF%85%E4%B8%B8%E6%98%9F%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E5%AF%85%E4%B8%B8%E6%98%9F%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/3/3c/%E5%AF%85%E4%B8%B8%E6%98%9F%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E5%AF%85%E4%B8%B8%E6%98%9F%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="307" data-file-height="512">
+寅丸星  
 然后呢，现在打倒我了  
 你想要做什么？
   
-
-
-[](./博丽灵梦.md)博丽灵梦
-  
+<img alt="博丽灵梦（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="85" srcset="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="256" data-file-height="435">
+博丽灵梦  
 拿好了！你不是要这个UFO玩具吗？  
 要解除封印的话  
   
 我要确认一下究竟封印了什么东西
   
-
-
-[](./寅丸星.md)寅丸星
-  
+<img alt="寅丸星（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/3/3c/%E5%AF%85%E4%B8%B8%E6%98%9F%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E5%AF%85%E4%B8%B8%E6%98%9F%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="83" srcset="https://upload.thwiki.cc/thumb/3/3c/%E5%AF%85%E4%B8%B8%E6%98%9F%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E5%AF%85%E4%B8%B8%E6%98%9F%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/3/3c/%E5%AF%85%E4%B8%B8%E6%98%9F%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E5%AF%85%E4%B8%B8%E6%98%9F%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="307" data-file-height="512">
+寅丸星  
 嗯，那么虽然绕了点弯子  
 就让我们赶快开始准备解除封印吧
   
-
-
-[](./博丽灵梦.md)博丽灵梦
-  
+<img alt="博丽灵梦（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="85" srcset="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="256" data-file-height="435">
+博丽灵梦  
 哼！看我把被封印的家伙也一起打倒  
 让事情圆满解决
   
-
-
-[](./寅丸星.md)寅丸星
-  
+<img alt="寅丸星（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/3/3c/%E5%AF%85%E4%B8%B8%E6%98%9F%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E5%AF%85%E4%B8%B8%E6%98%9F%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="83" srcset="https://upload.thwiki.cc/thumb/3/3c/%E5%AF%85%E4%B8%B8%E6%98%9F%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E5%AF%85%E4%B8%B8%E6%98%9F%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/3/3c/%E5%AF%85%E4%B8%B8%E6%98%9F%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E5%AF%85%E4%B8%B8%E6%98%9F%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="307" data-file-height="512">
+寅丸星  
 请别太欺负圣哦  
 毕竟刚解除封印
   
 
-
-
 ## Stage 6
-旁旁白
+旁旁白  
+<img alt="星莲船6面场景.jpg" src="https://upload.thwiki.cc/1/13/%E6%98%9F%E8%8E%B2%E8%88%B96%E9%9D%A2%E5%9C%BA%E6%99%AF.jpg" decoding="async" loading="lazy" width="200" height="420" data-file-width="199" data-file-height="418">
   
-[](./文件-星莲船6面场景.jpg.md)  
 
 星莲船6面场景
   
-
   
-
-旁
-  
+旁  
 消灭八苦的尼公
   
-
-
-
   
 法界
   
-
   
-
-
   
 BGM: 法界之火
   
-
   
-
-
   
 道中
   
-
   
-
-
   
 光球 登场
   
-
   
-
-
   
 道中BOSS战
   
-
   
-
-
   
 光球 离场
   
-
   
-
-
   
 背景转换
   
-
   
-
-[](./博丽灵梦.md)博丽灵梦
-  
+<img alt="博丽灵梦（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="85" srcset="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="256" data-file-height="435">
+博丽灵梦  
 好了，赶快出来吧！  
   
 我知道你  
@@ -1439,46 +1000,33 @@ BGM: 法界之火
 真是不可思议的地方呢  
 完全没有人的气息啊
   
-
-
-
   
 [圣白莲](./圣白莲.md) 登场
   
-
   
-
-[](./圣白莲.md)？？？
-  
+<img alt="圣白莲（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/7/74/%E5%9C%A3%E7%99%BD%E8%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E5%9C%A3%E7%99%BD%E8%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="71" srcset="https://upload.thwiki.cc/thumb/7/74/%E5%9C%A3%E7%99%BD%E8%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E5%9C%A3%E7%99%BD%E8%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/7/74/%E5%9C%A3%E7%99%BD%E8%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E5%9C%A3%E7%99%BD%E8%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="354" data-file-height="506">
+？？？  
 啊啊，法的世界里充满了光芒  
   
 是你将这个世界解放的吗？
   
-
-
-[](./博丽灵梦.md)博丽灵梦
-  
+<img alt="博丽灵梦（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="85" srcset="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="256" data-file-height="435">
+博丽灵梦  
 终于找到了啊  
 你就是妖怪的老大吧？
   
-
-
-[](./圣白莲.md)？？？
-  
+<img alt="圣白莲（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/7/74/%E5%9C%A3%E7%99%BD%E8%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E5%9C%A3%E7%99%BD%E8%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="71" srcset="https://upload.thwiki.cc/thumb/7/74/%E5%9C%A3%E7%99%BD%E8%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E5%9C%A3%E7%99%BD%E8%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/7/74/%E5%9C%A3%E7%99%BD%E8%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E5%9C%A3%E7%99%BD%E8%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="354" data-file-height="506">
+？？？  
 妖怪的？  
 老大？
   
-
-
-[](./博丽灵梦.md)博丽灵梦
-  
+<img alt="博丽灵梦（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="85" srcset="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="256" data-file-height="435">
+博丽灵梦  
 没错，妖怪们企图想要  
 让你复活来着哦
   
-
-
-[](./圣白莲.md)？？？
-  
+<img alt="圣白莲（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/7/74/%E5%9C%A3%E7%99%BD%E8%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E5%9C%A3%E7%99%BD%E8%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="71" srcset="https://upload.thwiki.cc/thumb/7/74/%E5%9C%A3%E7%99%BD%E8%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E5%9C%A3%E7%99%BD%E8%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/7/74/%E5%9C%A3%E7%99%BD%E8%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E5%9C%A3%E7%99%BD%E8%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="354" data-file-height="506">
+？？？  
 是这样吗……  
   
 分明我都已经一千多年没能再帮上她们  
@@ -1486,25 +1034,18 @@ BGM: 法界之火
   
 现在还有愿意追随我的妖怪存在呢
   
-
-
-[](./博丽灵梦.md)博丽灵梦
-  
+<img alt="博丽灵梦（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="85" srcset="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="256" data-file-height="435">
+博丽灵梦  
 那么，你是什么人呢
   
-
-
-
   
 被封印的大魔法使  
 [圣白莲](./圣白莲.md)  
 Hiziri Byakuren
   
-
   
-
-[](./圣白莲.md)圣白莲
-  
+<img alt="圣白莲（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/7/74/%E5%9C%A3%E7%99%BD%E8%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E5%9C%A3%E7%99%BD%E8%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="71" srcset="https://upload.thwiki.cc/thumb/7/74/%E5%9C%A3%E7%99%BD%E8%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E5%9C%A3%E7%99%BD%E8%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/7/74/%E5%9C%A3%E7%99%BD%E8%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E5%9C%A3%E7%99%BD%E8%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="354" data-file-height="506">
+圣白莲  
 我的名字叫白莲  
   
 是遥远的过去的一个僧侣  
@@ -1513,17 +1054,13 @@ Hiziri Byakuren
   
 是要来重新将我封印的吗？
   
-
-
-[](./博丽灵梦.md)博丽灵梦
-  
+<img alt="博丽灵梦（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="85" srcset="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="256" data-file-height="435">
+博丽灵梦  
 啊，嗯  
 就是那样的哦！
   
-
-
-[](./圣白莲.md)圣白莲
-  
+<img alt="圣白莲（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/7/74/%E5%9C%A3%E7%99%BD%E8%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E5%9C%A3%E7%99%BD%E8%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="71" srcset="https://upload.thwiki.cc/thumb/7/74/%E5%9C%A3%E7%99%BD%E8%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E5%9C%A3%E7%99%BD%E8%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/7/74/%E5%9C%A3%E7%99%BD%E8%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E5%9C%A3%E7%99%BD%E8%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="354" data-file-height="506">
+圣白莲  
 你也是，残害妖怪的人们中的一人呢  
   
 我有一天悟到了  
@@ -1532,185 +1069,123 @@ Hiziri Byakuren
 是作为妖怪将其排除呢，还是作为神佛将其供奉呢  
 那些，全都是人类自己决定的
   
-
-
-[](./博丽灵梦.md)博丽灵梦
-  
+<img alt="博丽灵梦（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="85" srcset="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="256" data-file-height="435">
+博丽灵梦  
 哎—  
 不过嘛，就算是神我也会降伏就是了—
   
-
-
-[](./圣白莲.md)圣白莲
-  
+<img alt="圣白莲（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/7/74/%E5%9C%A3%E7%99%BD%E8%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E5%9C%A3%E7%99%BD%E8%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="71" srcset="https://upload.thwiki.cc/thumb/7/74/%E5%9C%A3%E7%99%BD%E8%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E5%9C%A3%E7%99%BD%E8%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/7/74/%E5%9C%A3%E7%99%BD%E8%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E5%9C%A3%E7%99%BD%E8%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="354" data-file-height="506">
+圣白莲  
 啊啊，我的卷轴里开始充满法的光芒了  
   
 接下来，我必须要去报答  
 那些解放我的妖怪了
   
-
-
-[](./博丽灵梦.md)博丽灵梦
-  
+<img alt="博丽灵梦（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="85" srcset="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="256" data-file-height="435">
+博丽灵梦  
 唔唔，放着不管真的没问题吗？
   
-
-
-[](./圣白莲.md)圣白莲
-  
+<img alt="圣白莲（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/7/74/%E5%9C%A3%E7%99%BD%E8%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E5%9C%A3%E7%99%BD%E8%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="71" srcset="https://upload.thwiki.cc/thumb/7/74/%E5%9C%A3%E7%99%BD%E8%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E5%9C%A3%E7%99%BD%E8%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/7/74/%E5%9C%A3%E7%99%BD%E8%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E5%9C%A3%E7%99%BD%E8%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="354" data-file-height="506">
+圣白莲  
 你那种要排除一切妖怪的想法  
 我无法对此加以否定  
   
 但是，如果说要再将我封印的话——
   
-
-
-
   
 BGM: 感情的摩天楼　～ Cosmic Mind
   
-
   
-
-[](./圣白莲.md)圣白莲
-  
+<img alt="圣白莲（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/7/74/%E5%9C%A3%E7%99%BD%E8%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E5%9C%A3%E7%99%BD%E8%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="71" srcset="https://upload.thwiki.cc/thumb/7/74/%E5%9C%A3%E7%99%BD%E8%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E5%9C%A3%E7%99%BD%E8%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/7/74/%E5%9C%A3%E7%99%BD%E8%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E5%9C%A3%E7%99%BD%E8%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="354" data-file-height="506">
+圣白莲  
 我会尽全力抵抗
   
-
-
-[](./博丽灵梦.md)博丽灵梦
-  
+<img alt="博丽灵梦（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="85" srcset="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="256" data-file-height="435">
+博丽灵梦  
 这才有意思嘛！  
   
 我要打倒一切与妖怪为伍的家伙！
   
-
-
-[](./圣白莲.md)圣白莲
-  
+<img alt="圣白莲（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/7/74/%E5%9C%A3%E7%99%BD%E8%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E5%9C%A3%E7%99%BD%E8%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="71" srcset="https://upload.thwiki.cc/thumb/7/74/%E5%9C%A3%E7%99%BD%E8%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E5%9C%A3%E7%99%BD%E8%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/7/74/%E5%9C%A3%E7%99%BD%E8%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E5%9C%A3%E7%99%BD%E8%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="354" data-file-height="506">
+圣白莲  
 现在的人类还是和我当初在寺庙时没有任何变化  
   
 真是愚蠢而又自私自利啊！  
-来吧，南无三——！[^cite_note-1]
-  
-
-
-
+来吧，南无三——！[^cite_note-1]  
   
 关底BOSS战
   
-
   
-
-
   
 [圣白莲](./圣白莲.md) 被击败
   
-
   
-
-
   
 如果玩家有续关完成游戏
   
-
   
-
-
   
-[Ending　No. 07](#Ending_No._07)
+[Ending　No. 07](#Ending_No._07)  
   
-
-  
-
-
   
 如果玩家无续关完成游戏
   
-
   
-
-
   
-[Ending　No. 01](#Ending_No._01)
+[Ending　No. 01](#Ending_No._01)  
   
-
-  
-
 
 ## Ending No. 07
 
-- <font color="Red"> **剧透提示:  *以下内容包含详细故事情节，请自行决定是否继续阅读* ** </font>
-
+- <font color="Red">**剧透提示: *以下内容包含详细故事情节，请自行决定是否继续阅读***</font>
 
   
 BGM: 妖怪寺
   
-
   
-
-旁
-  
+旁  
 魔界的一角，法界。  
 被白莲捉住的灵梦，就这样困在魔界回不了现世，  
 而且四周全都是妖怪……。
   
-
-
-[](./博丽灵梦.md)博丽灵梦
-  
+<img alt="博丽灵梦（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="85" srcset="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="256" data-file-height="435">
+博丽灵梦  
 这些是什么妖怪啊，全都不是泛泛之辈呢。  
 再不回去重新准备一番的话，怎么打得赢它们啊！
   
-
-
-旁
-  
+旁  
 灵梦放弃降伏眼前的这些妖怪，  
 现在最优先的目标就是回到神社去。
   
-
-
-旁
-  
+旁  
 Ending　No.07　勇闯魔界之前要好好地回收道具  
 以不续关通关为目标吧！
   
-
-
-旁旁白
+旁旁白  
+<img alt="东方星莲船e00a.png" src="https://upload.thwiki.cc/thumb/3/3a/%E4%B8%9C%E6%96%B9%E6%98%9F%E8%8E%B2%E8%88%B9e00a.png/200px-%E4%B8%9C%E6%96%B9%E6%98%9F%E8%8E%B2%E8%88%B9e00a.png" decoding="async" loading="lazy" width="200" height="150" srcset="https://upload.thwiki.cc/thumb/3/3a/%E4%B8%9C%E6%96%B9%E6%98%9F%E8%8E%B2%E8%88%B9e00a.png/300px-%E4%B8%9C%E6%96%B9%E6%98%9F%E8%8E%B2%E8%88%B9e00a.png 1.5x, https://upload.thwiki.cc/thumb/3/3a/%E4%B8%9C%E6%96%B9%E6%98%9F%E8%8E%B2%E8%88%B9e00a.png/400px-%E4%B8%9C%E6%96%B9%E6%98%9F%E8%8E%B2%E8%88%B9e00a.png 2x" data-file-width="640" data-file-height="480">
+<img alt="东方星莲船e00b.png" src="https://upload.thwiki.cc/thumb/a/ab/%E4%B8%9C%E6%96%B9%E6%98%9F%E8%8E%B2%E8%88%B9e00b.png/200px-%E4%B8%9C%E6%96%B9%E6%98%9F%E8%8E%B2%E8%88%B9e00b.png" decoding="async" loading="lazy" width="200" height="150" srcset="https://upload.thwiki.cc/thumb/a/ab/%E4%B8%9C%E6%96%B9%E6%98%9F%E8%8E%B2%E8%88%B9e00b.png/300px-%E4%B8%9C%E6%96%B9%E6%98%9F%E8%8E%B2%E8%88%B9e00b.png 1.5x, https://upload.thwiki.cc/thumb/a/ab/%E4%B8%9C%E6%96%B9%E6%98%9F%E8%8E%B2%E8%88%B9e00b.png/400px-%E4%B8%9C%E6%96%B9%E6%98%9F%E8%8E%B2%E8%88%B9e00b.png 2x" data-file-width="640" data-file-height="480">
   
-[](./文件-东方星莲船e00a.png.md)[](./文件-东方星莲船e00b.png.md)  
 
 Ending No. 07 插图
   
-
   
-
-
 
 ## Ending No. 01
 
-- <font color="Red"> **剧透提示:  *以下内容包含详细故事情节，请自行决定是否继续阅读* ** </font>
-
+- <font color="Red">**剧透提示: *以下内容包含详细故事情节，请自行决定是否继续阅读***</font>
 
   
 BGM: 妖怪寺
   
-
   
-
-旁
-  
+旁  
 博丽神社。  
 坐落于幻想乡东境的神社。  
 院落的树阴底下还留有点点残雪。  
 很快就是樱满枝头的时候了。
   
-
-
-[](./博丽灵梦.md)博丽灵梦
-  
+<img alt="博丽灵梦（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="85" srcset="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="256" data-file-height="435">
+博丽灵梦  
 呆在魔界真是难受啊—。  
   
 结果船也不是什么宝船，只是一艘  
@@ -1718,128 +1193,90 @@ BGM: 妖怪寺
   
 真没意思。而且里面还是空的
   
-
-
-[](./雾雨魔理沙.md)雾雨魔理沙
-  
+<img alt="雾雨魔理沙（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/7/74/%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="100" srcset="https://upload.thwiki.cc/thumb/7/74/%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/7/74/%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="256" data-file-height="512">
+雾雨魔理沙  
 是这样啊……喂，等等，你去魔界了啊
   
-
-
-[](./博丽灵梦.md)博丽灵梦
-  
+<img alt="博丽灵梦（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="85" srcset="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="256" data-file-height="435">
+博丽灵梦  
 虽然说是魔界，其实是一个叫法界的魔界的农村
   
-
-
-[](./雾雨魔理沙.md)雾雨魔理沙
-  
+<img alt="雾雨魔理沙（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/7/74/%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="100" srcset="https://upload.thwiki.cc/thumb/7/74/%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/7/74/%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="256" data-file-height="512">
+雾雨魔理沙  
 话说回来，既然那艘船不是宝船的话  
 就没意思了。  
   
 最后那艘船怎么样了？
   
-
-
-[](./博丽灵梦.md)博丽灵梦
-  
+<img alt="博丽灵梦（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="85" srcset="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="256" data-file-height="435">
+博丽灵梦  
 我听说那艘船还在空中四处游荡  
 你有看见吗？
   
-
-
-[](./雾雨魔理沙.md)雾雨魔理沙
-  
+<img alt="雾雨魔理沙（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/7/74/%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="100" srcset="https://upload.thwiki.cc/thumb/7/74/%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/7/74/%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="256" data-file-height="512">
+雾雨魔理沙  
 没看到，最近我都在  
 春眠不觉晓
   
-
-
-[](./博丽灵梦.md)博丽灵梦
-  
+<img alt="博丽灵梦（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="85" srcset="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="256" data-file-height="435">
+博丽灵梦  
 下次看到的话，我还想再进去看看
   
-
-
-旁
-  
+旁  
 过了几天，灵梦发现了在空中飞的船，于是再度进入一探究竟。
   
-
-
-[](./博丽灵梦.md)博丽灵梦
-  
+<img alt="博丽灵梦（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="85" srcset="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="256" data-file-height="435">
+博丽灵梦  
 总算找到你们了。为什么你们还在天空乱逛啊？
   
-
-
-[](./圣白莲.md)圣白莲
-  
+<img alt="圣白莲（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/7/74/%E5%9C%A3%E7%99%BD%E8%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E5%9C%A3%E7%99%BD%E8%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="71" srcset="https://upload.thwiki.cc/thumb/7/74/%E5%9C%A3%E7%99%BD%E8%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E5%9C%A3%E7%99%BD%E8%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/7/74/%E5%9C%A3%E7%99%BD%E8%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E5%9C%A3%E7%99%BD%E8%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="354" data-file-height="506">
+圣白莲  
 因为还是显界比魔界舒服呀……。  
 再脱胎换骨一次，似乎也不坏呢
   
-
-
-[](./村纱水蜜.md)村纱水蜜
-  
+<img alt="村纱水蜜（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/8/86/%E6%9D%91%E7%BA%B1%E6%B0%B4%E8%9C%9C%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E6%9D%91%E7%BA%B1%E6%B0%B4%E8%9C%9C%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="108" srcset="https://upload.thwiki.cc/thumb/8/86/%E6%9D%91%E7%BA%B1%E6%B0%B4%E8%9C%9C%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E6%9D%91%E7%BA%B1%E6%B0%B4%E8%9C%9C%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/8/86/%E6%9D%91%E7%BA%B1%E6%B0%B4%E8%9C%9C%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E6%9D%91%E7%BA%B1%E6%B0%B4%E8%9C%9C%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="213" data-file-height="459">
+村纱水蜜  
 没错，既然圣这么说，我想将这艘船  
 作为幻想乡游览船，开始营业招揽生意
   
-
-
-[](./博丽灵梦.md)博丽灵梦
-  
+<img alt="博丽灵梦（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="85" srcset="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="256" data-file-height="435">
+博丽灵梦  
 游览船……。再说你们要住在哪里呀？
   
-
-
-[](./圣白莲.md)圣白莲
-  
+<img alt="圣白莲（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/7/74/%E5%9C%A3%E7%99%BD%E8%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E5%9C%A3%E7%99%BD%E8%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="71" srcset="https://upload.thwiki.cc/thumb/7/74/%E5%9C%A3%E7%99%BD%E8%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E5%9C%A3%E7%99%BD%E8%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/7/74/%E5%9C%A3%E7%99%BD%E8%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E5%9C%A3%E7%99%BD%E8%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="354" data-file-height="506">
+圣白莲  
 我从前居住的寺院已经不在了。  
 反正现在就随遇而安吧
   
-
-
-[](./村纱水蜜.md)村纱水蜜
-  
+<img alt="村纱水蜜（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/8/86/%E6%9D%91%E7%BA%B1%E6%B0%B4%E8%9C%9C%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E6%9D%91%E7%BA%B1%E6%B0%B4%E8%9C%9C%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="108" srcset="https://upload.thwiki.cc/thumb/8/86/%E6%9D%91%E7%BA%B1%E6%B0%B4%E8%9C%9C%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E6%9D%91%E7%BA%B1%E6%B0%B4%E8%9C%9C%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/8/86/%E6%9D%91%E7%BA%B1%E6%B0%B4%E8%9C%9C%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E6%9D%91%E7%BA%B1%E6%B0%B4%E8%9C%9C%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="213" data-file-height="459">
+村纱水蜜  
 我们这几个同伴，包括星和一轮，之前都和  
 这艘圣辇船一起被封印在地下很长一段时间  
   
 去年底，终于从封印中解放了。  
 不过现在还没找到定居场所，因此平常就住在船上
   
-
-
-[](./圣白莲.md)圣白莲
-  
+<img alt="圣白莲（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/7/74/%E5%9C%A3%E7%99%BD%E8%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E5%9C%A3%E7%99%BD%E8%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="71" srcset="https://upload.thwiki.cc/thumb/7/74/%E5%9C%A3%E7%99%BD%E8%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E5%9C%A3%E7%99%BD%E8%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/7/74/%E5%9C%A3%E7%99%BD%E8%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E5%9C%A3%E7%99%BD%E8%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="354" data-file-height="506">
+圣白莲  
 哎呀，原来是这样。  
 居无定所，漂泊四方也不错。  
 而且是真正的「漂」泊呢……
   
-
-
-[](./博丽灵梦.md)博丽灵梦
-  
+<img alt="博丽灵梦（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="85" srcset="https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/1/15/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="256" data-file-height="435">
+博丽灵梦  
 喂喂喂，拜托你们不要随便在空中漂泊着生活。  
 你们的船不论飞到哪里，都会让地上出现一片阴影吧？
   
-
-
-[](./圣白莲.md)圣白莲
-  
+<img alt="圣白莲（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/7/74/%E5%9C%A3%E7%99%BD%E8%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E5%9C%A3%E7%99%BD%E8%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="71" srcset="https://upload.thwiki.cc/thumb/7/74/%E5%9C%A3%E7%99%BD%E8%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E5%9C%A3%E7%99%BD%E8%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/7/74/%E5%9C%A3%E7%99%BD%E8%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E5%9C%A3%E7%99%BD%E8%8E%B2%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="354" data-file-height="506">
+圣白莲  
 也对，那么每游览三天，  
 就降落到地上休息一次吧
   
-
-
-[](./村纱水蜜.md)村纱水蜜
-  
+<img alt="村纱水蜜（星莲船立绘）.png" src="https://upload.thwiki.cc/thumb/8/86/%E6%9D%91%E7%BA%B1%E6%B0%B4%E8%9C%9C%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E6%9D%91%E7%BA%B1%E6%B0%B4%E8%9C%9C%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="108" srcset="https://upload.thwiki.cc/thumb/8/86/%E6%9D%91%E7%BA%B1%E6%B0%B4%E8%9C%9C%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E6%9D%91%E7%BA%B1%E6%B0%B4%E8%9C%9C%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/8/86/%E6%9D%91%E7%BA%B1%E6%B0%B4%E8%9C%9C%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E6%9D%91%E7%BA%B1%E6%B0%B4%E8%9C%9C%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="213" data-file-height="459">
+村纱水蜜  
 遵命！
   
-
-
-旁
-  
+旁  
 灵梦提议，将船的外观改装成宝船，  
 作为游览船招揽客人的办法。  
   
@@ -1866,43 +1303,22 @@ BGM: 妖怪寺
   
 白莲和她的妖怪同伴，应该不会再被封印了吧。
   
-
-
-旁
-  
+旁  
 Ending　No.01　搭乘游览宝船徜徉幻想乡之春  
 恭喜你达成通关！真是厉害！
   
-
-
-旁旁白
+旁旁白  
+<img alt="东方星莲船e06a.png" src="https://upload.thwiki.cc/thumb/3/39/%E4%B8%9C%E6%96%B9%E6%98%9F%E8%8E%B2%E8%88%B9e06a.png/200px-%E4%B8%9C%E6%96%B9%E6%98%9F%E8%8E%B2%E8%88%B9e06a.png" decoding="async" loading="lazy" width="200" height="150" srcset="https://upload.thwiki.cc/thumb/3/39/%E4%B8%9C%E6%96%B9%E6%98%9F%E8%8E%B2%E8%88%B9e06a.png/300px-%E4%B8%9C%E6%96%B9%E6%98%9F%E8%8E%B2%E8%88%B9e06a.png 1.5x, https://upload.thwiki.cc/thumb/3/39/%E4%B8%9C%E6%96%B9%E6%98%9F%E8%8E%B2%E8%88%B9e06a.png/400px-%E4%B8%9C%E6%96%B9%E6%98%9F%E8%8E%B2%E8%88%B9e06a.png 2x" data-file-width="640" data-file-height="480">
+<img alt="东方星莲船e06b.png" src="https://upload.thwiki.cc/thumb/a/ac/%E4%B8%9C%E6%96%B9%E6%98%9F%E8%8E%B2%E8%88%B9e06b.png/200px-%E4%B8%9C%E6%96%B9%E6%98%9F%E8%8E%B2%E8%88%B9e06b.png" decoding="async" loading="lazy" width="200" height="150" srcset="https://upload.thwiki.cc/thumb/a/ac/%E4%B8%9C%E6%96%B9%E6%98%9F%E8%8E%B2%E8%88%B9e06b.png/300px-%E4%B8%9C%E6%96%B9%E6%98%9F%E8%8E%B2%E8%88%B9e06b.png 1.5x, https://upload.thwiki.cc/thumb/a/ac/%E4%B8%9C%E6%96%B9%E6%98%9F%E8%8E%B2%E8%88%B9e06b.png/400px-%E4%B8%9C%E6%96%B9%E6%98%9F%E8%8E%B2%E8%88%B9e06b.png 2x" data-file-width="640" data-file-height="480">
   
-[](./文件-东方星莲船e06a.png.md)[](./文件-东方星莲船e06b.png.md)  
-
-[](./文件-东方星莲船e06c.png.md)[](./文件-东方星莲船e06d.png.md)  
+<img alt="东方星莲船e06c.png" src="https://upload.thwiki.cc/thumb/6/6c/%E4%B8%9C%E6%96%B9%E6%98%9F%E8%8E%B2%E8%88%B9e06c.png/200px-%E4%B8%9C%E6%96%B9%E6%98%9F%E8%8E%B2%E8%88%B9e06c.png" decoding="async" loading="lazy" width="200" height="150" srcset="https://upload.thwiki.cc/thumb/6/6c/%E4%B8%9C%E6%96%B9%E6%98%9F%E8%8E%B2%E8%88%B9e06c.png/300px-%E4%B8%9C%E6%96%B9%E6%98%9F%E8%8E%B2%E8%88%B9e06c.png 1.5x, https://upload.thwiki.cc/thumb/6/6c/%E4%B8%9C%E6%96%B9%E6%98%9F%E8%8E%B2%E8%88%B9e06c.png/400px-%E4%B8%9C%E6%96%B9%E6%98%9F%E8%8E%B2%E8%88%B9e06c.png 2x" data-file-width="640" data-file-height="480">
+<img alt="东方星莲船e06d.png" src="https://upload.thwiki.cc/thumb/3/32/%E4%B8%9C%E6%96%B9%E6%98%9F%E8%8E%B2%E8%88%B9e06d.png/200px-%E4%B8%9C%E6%96%B9%E6%98%9F%E8%8E%B2%E8%88%B9e06d.png" decoding="async" loading="lazy" width="200" height="150" srcset="https://upload.thwiki.cc/thumb/3/32/%E4%B8%9C%E6%96%B9%E6%98%9F%E8%8E%B2%E8%88%B9e06d.png/300px-%E4%B8%9C%E6%96%B9%E6%98%9F%E8%8E%B2%E8%88%B9e06d.png 1.5x, https://upload.thwiki.cc/thumb/3/32/%E4%B8%9C%E6%96%B9%E6%98%9F%E8%8E%B2%E8%88%B9e06d.png/400px-%E4%B8%9C%E6%96%B9%E6%98%9F%E8%8E%B2%E8%88%B9e06d.png 2x" data-file-width="640" data-file-height="480">
+  
 
 Ending No. 01 插图
   
-
   
-
-
-
 [^cite_note-1]: 南无三：南无在佛教里是“归命”，“归依”的意思，三指三宝，也就是佛、法、僧。这里连起来就是皈依佛门的意思。
-
-
-## 导航
-  
-  
-
-<table><tbody><tr><td><table cellspacing="0" class="nowraplinks mw-collapsible mw-collapsed" style="width:100%;;;"><tbody><tr><th style=";" colspan="3" class="navbox-title"><div class="navbar"><div class="noprint plainlinksneverexpand" style="background-color:transparent; padding:0; font-weight:normal; font-size:80%; white-space:nowrap;"><a href="./模板-东方星莲船导航.md" title="模板:东方星莲船导航"><span style=";;border:none;" title="查看这个模板">查</span></a>&#160;<span style="font-size:80%;">•</span>&#160;<a href="/index.php?title=%E6%A8%A1%E6%9D%BF:%E4%B8%9C%E6%96%B9%E6%98%9F%E8%8E%B2%E8%88%B9%E5%AF%BC%E8%88%AA&amp;action=edit"><span style=";;border:none;" title="您可以编辑这个模板。请在储存变更之前先预览">编</span></a></div></div><span><a href="./东方星莲船.md" title="东方星莲船">东方星莲船</a></span></th></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">角色</td><td style=";;" class="navbox-list navbox-odd"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>自机</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a> &#8226; <a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a> &#8226; <a href="./东风谷早苗.md" title="东风谷早苗">东风谷早苗</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>BOSS</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./娜兹玲.md" title="娜兹玲">娜兹玲</a> &#8226; <a href="./多多良小伞.md" title="多多良小伞">多多良小伞</a> &#8226; <a href="./云山.md" title="云山">云山</a> &#8226; <a href="./云居一轮.md" title="云居一轮">云居一轮</a> &#8226; <a href="./村纱水蜜.md" title="村纱水蜜">村纱水蜜</a> &#8226; <a href="./寅丸星.md" title="寅丸星">寅丸星</a> &#8226; <a href="./圣白莲.md" title="圣白莲">圣白莲</a> &#8226; <a href="./封兽鵺.md" title="封兽鵺">封兽鵺</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>其他角色</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./命莲.md" title="命莲">命莲</a></div></td></tr></tbody></table><div></div></td><td class="navbox-image" style="" rowspan="11"><a href="./文件-星莲船载入界面.jpg.md" class="image"><img alt="星莲船载入界面.jpg" src="https://upload.thwiki.cc/thumb/f/f1/%E6%98%9F%E8%8E%B2%E8%88%B9%E8%BD%BD%E5%85%A5%E7%95%8C%E9%9D%A2.jpg/160px-%E6%98%9F%E8%8E%B2%E8%88%B9%E8%BD%BD%E5%85%A5%E7%95%8C%E9%9D%A2.jpg" decoding="async" loading="lazy" width="160" height="120" srcset="https://upload.thwiki.cc/thumb/f/f1/%E6%98%9F%E8%8E%B2%E8%88%B9%E8%BD%BD%E5%85%A5%E7%95%8C%E9%9D%A2.jpg/240px-%E6%98%9F%E8%8E%B2%E8%88%B9%E8%BD%BD%E5%85%A5%E7%95%8C%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/f/f1/%E6%98%9F%E8%8E%B2%E8%88%B9%E8%BD%BD%E5%85%A5%E7%95%8C%E9%9D%A2.jpg/320px-%E6%98%9F%E8%8E%B2%E8%88%B9%E8%BD%BD%E5%85%A5%E7%95%8C%E9%9D%A2.jpg 2x" data-file-width="640" data-file-height="480"></a></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">剧情</td><td style=";;" class="navbox-list navbox-even"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>剧情文本</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="/%E9%99%84%E5%B8%A6%E6%96%87%E6%A1%A3:%E4%B8%9C%E6%96%B9%E6%98%9F%E8%8E%B2%E8%88%B9/Manual#故事背景" title="附带文档:东方星莲船/Manual" unred="">故事背景</a> &#8226; <a href="/%E9%99%84%E5%B8%A6%E6%96%87%E6%A1%A3:%E4%B8%9C%E6%96%B9%E6%98%9F%E8%8E%B2%E8%88%B9/%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A%26ExStory#Extra_Story" title="附带文档:东方星莲船/角色设定&amp;ExStory">Ex 故事背景</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>游戏对话&amp;结局</div></td><td style=";;" class="navbox-list navbox-even"><div><a class="mw-selflink selflink">博丽灵梦A</a> &#8226; <a href="./游戏对话-东方星莲船-雾雨魔理沙A.md" title="游戏对话:东方星莲船/雾雨魔理沙A">雾雨魔理沙A</a> &#8226; <a href="./游戏对话-东方星莲船-东风谷早苗A.md" title="游戏对话:东方星莲船/东风谷早苗A">东风谷早苗A</a><br>
-<a href="./游戏对话-东方星莲船-博丽灵梦B.md" title="游戏对话:东方星莲船/博丽灵梦B">博丽灵梦B</a> &#8226; <a href="./游戏对话-东方星莲船-雾雨魔理沙B.md" title="游戏对话:东方星莲船/雾雨魔理沙B">雾雨魔理沙B</a> &#8226; <a href="./游戏对话-东方星莲船-东风谷早苗B.md" title="游戏对话:东方星莲船/东风谷早苗B">东风谷早苗B</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>Ex游戏对话</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./游戏对话-东方星莲船-博丽灵梦A_ExStory.md" title="游戏对话:东方星莲船/博丽灵梦A ExStory">博丽灵梦A</a> &#8226; <a href="./游戏对话-东方星莲船-雾雨魔理沙A_ExStory.md" title="游戏对话:东方星莲船/雾雨魔理沙A ExStory">雾雨魔理沙A</a> &#8226; <a href="./游戏对话-东方星莲船-东风谷早苗A_ExStory.md" title="游戏对话:东方星莲船/东风谷早苗A ExStory">东风谷早苗A</a><br>
-<a href="./游戏对话-东方星莲船-博丽灵梦B_ExStory.md" title="游戏对话:东方星莲船/博丽灵梦B ExStory">博丽灵梦B</a> &#8226; <a href="./游戏对话-东方星莲船-雾雨魔理沙B_ExStory.md" title="游戏对话:东方星莲船/雾雨魔理沙B ExStory">雾雨魔理沙B</a> &#8226; <a href="./游戏对话-东方星莲船-东风谷早苗B_ExStory.md" title="游戏对话:东方星莲船/东风谷早苗B ExStory">东风谷早苗B</a></div></td></tr></tbody></table><div></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">场景</td><td style=";;" class="navbox-list navbox-odd"><div><a href="./残雪之道.md" title="残雪之道">残雪之道</a> &#8226; <a href="./春之云.md" title="春之云">春之云</a> &#8226; <a href="./圣辇船.md" title="圣辇船">圣辇船</a> &#8226; <a href="./魔界.md" title="魔界">魔界</a> &#8226; <a href="/%E9%AD%94%E7%95%8C#法界" title="魔界">法界</a> &#8226; <a href="./命莲寺.md" title="命莲寺">命莲寺</a> &#8226; <a href="./春之云.md" title="春之云">夜空</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">音乐</td><td style=";;" class="navbox-list navbox-even"><div><a href="./东方星莲船-Music.md" title="东方星莲船/Music">Music Room</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="/%E4%B8%9C%E6%96%B9%E6%98%9F%E8%8E%B2%E8%88%B9#附带文档" title="东方星莲船">附带文档</a></td><td style=";;" class="navbox-list navbox-odd"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>体验版</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./附带文档-东方星莲船体验版-Manual.md" title="附带文档:东方星莲船体验版/Manual">Manual</a> &#8226; <a href="./附带文档-东方星莲船体验版-Omake.md" title="附带文档:东方星莲船体验版/Omake">Omake</a> &#8226; <a href="./附带文档-东方星莲船体验版-Readme.md" title="附带文档:东方星莲船体验版/Readme">Readme</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>正式版</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./附带文档-东方星莲船-Manual.md" title="附带文档:东方星莲船/Manual">Manual</a> &#8226; <a href="./附带文档-东方星莲船-Omake.md" title="附带文档:东方星莲船/Omake">Omake</a> &#8226; <a href="./附带文档-东方星莲船-角色设定&ExStory.md" title="附带文档:东方星莲船/角色设定&amp;ExStory">角色设定&amp;ExStory</a> &#8226; <a href="./附带文档-东方星莲船-Readme.md" title="附带文档:东方星莲船/Readme">Readme</a> &#8226; <a href="./附带文档-东方星莲船-光盘说明书.md" title="附带文档:东方星莲船/光盘说明书">光盘说明书</a></div></td></tr></tbody></table><div></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="./东方星莲船.md" title="东方星莲船">符卡</a></td><td style=";;" class="navbox-list navbox-even"><div><a href="./东方星莲船-Stage_1.md" title="东方星莲船/Stage 1">Stage 1</a> &#8226; <a href="./东方星莲船-Stage_2.md" title="东方星莲船/Stage 2">Stage 2</a> &#8226; <a href="./东方星莲船-Stage_3.md" title="东方星莲船/Stage 3">Stage 3</a> &#8226; <a href="./东方星莲船-Stage_4.md" title="东方星莲船/Stage 4">Stage 4</a> &#8226; <a href="./东方星莲船-Stage_5.md" title="东方星莲船/Stage 5">Stage 5</a> &#8226; <a href="./东方星莲船-Stage_6.md" title="东方星莲船/Stage 6">Stage 6</a> &#8226; <a href="./东方星莲船-Extra.md" title="东方星莲船/Extra">Extra</a></div></td></tr></tbody></table></td></tr></tbody></table>
-
-
-
-
-
 
 ---
 

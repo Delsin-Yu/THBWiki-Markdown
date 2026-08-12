@@ -1,6 +1,6 @@
 # 文件:はじめまして。RippleTaleのrippleです。封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\78\ns6%3A%E3%81%AF%E3%81%98%E3%82%81%E3%81%BE%E3%81%97%E3%81%A6%E3%80%82RippleTale%E3%81%AEripple%E3%81%A7%E3%81%99%E3%80%82%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\78\ns6%3A%E3%81%AF%E3%81%98%E3%82%81%E3%81%BE%E3%81%97%E3%81%A6%E3%80%82RippleTale%E3%81%AEripple%E3%81%A7%E3%81%99%E3%80%82%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Ripple_Tale | 专辑封面 | 封面图片
 
@@ -8,10 +8,7 @@ Ripple_Tale | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [はじめまして。RippleTaleのrippleです。](./はじめまして。RippleTaleのrippleです。.md)源地址：[[1]](https://web.archive.org/web/20160612073249im_/http://rippletale.net/images/05_jacket.jpg)
-
-
-
+- [はじめまして。RippleTaleのrippleです。](./はじめまして。RippleTaleのrippleです。.md)源地址：[\[1\]](https://web.archive.org/web/20160612073249im_/http://rippletale.net/images/05_jacket.jpg)
 
 
 ---

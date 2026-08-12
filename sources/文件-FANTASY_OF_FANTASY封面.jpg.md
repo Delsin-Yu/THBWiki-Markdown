@@ -1,6 +1,6 @@
 # 文件:FANTASY_OF_FANTASY封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6c\ns6%3AFANTASY_OF_FANTASY%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6c\ns6%3AFANTASY_OF_FANTASY%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Dimension's_Gate | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Dimension's_Gate | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [FANTASY OF FANTASY](./FANTASY_OF_FANTASY.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
+- [FANTASY OF FANTASY](./FANTASY_OF_FANTASY.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
   
-源地址：[[1]](http://img.toranoana.jp/popup_img/04/0010/23/44/040010234449-1p.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://img.toranoana.jp/popup_img/04/0010/23/44/040010234449-1p.jpg)  
 
 ---
 

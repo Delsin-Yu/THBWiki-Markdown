@@ -1,6 +1,6 @@
 # 文件:RMS2_~東方の着せ替えほん~封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\37\ns6%3ARMS2_%7E%E6%9D%B1%E6%96%B9%E3%81%AE%E7%9D%80%E3%81%9B%E6%9B%BF%E3%81%88%E3%81%BB%E3%82%93%7E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\37\ns6%3ARMS2_%7E%E6%9D%B1%E6%96%B9%E3%81%AE%E7%9D%80%E3%81%9B%E6%9B%BF%E3%81%88%E3%81%BB%E3%82%93%7E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 DPSの奴隷達 | 同人志封面 | 封面图片
 
@@ -8,11 +8,10 @@ DPSの奴隷達 | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [RMS2 ~東方の着せ替えほん~](./RMS2_~東方の着せ替えほん~.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [橙](./橙.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [RMS2 ~東方の着せ替えほん~](./RMS2_~東方の着せ替えほん~.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [橙](./橙.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:PatientBarrage_Original_Soundtrack封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fc\ns6%3APatientBarrage_Original_Soundtrack%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fc\ns6%3APatientBarrage_Original_Soundtrack%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 DDRKirby(ISQ) | 专辑封面 | 封面图片
 
@@ -13,12 +13,7 @@ DDRKirby(ISQ) | 专辑封面 | 封面图片
 - [PatientBarrage Original Soundtrack](./PatientBarrage_Original_Soundtrack.md)
 
   
-源地址：[direct image link (10 size)](https://f4.bcbits.com/img/a2806032514_10.jpg), [source page (artist Bandcamp)](https://ddrkirbyisq.bandcamp.com/album/patientbarrage-original-soundtrack)
-  
-
-
-
-
+源地址：[direct image link (10 size)](https://f4.bcbits.com/img/a2806032514_10.jpg), [source page (artist Bandcamp)](https://ddrkirbyisq.bandcamp.com/album/patientbarrage-original-soundtrack)  
 
 ---
 

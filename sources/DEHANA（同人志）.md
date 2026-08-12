@@ -1,12 +1,11 @@
 # DEHANA（同人志）
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\2d\ns0%3ADEHANA%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\2d\ns0%3ADEHANA%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89.html -->
 
 2021年5月3日 由 DEHANA  发布的合同志/其他同人志，A4尺寸一共150页，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人志 (未找到链接)** 的词条
-
+**[二次创作同人志](./二次创作.md#同人志)**的词条
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-DEHANA（同人志）封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/c/cc/DEHANA%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2.png/138px-DEHANA%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="138" height="196" srcset="https://upload.thwiki.cc/thumb/c/cc/DEHANA%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2.png/208px-DEHANA%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/c/cc/DEHANA%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2.png/277px-DEHANA%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2.png 2x" data-file-width="2048" data-file-height="2896"></a><div class="cover-char">角色：<a href="./小野塚小町.md" title="小野塚小町">小野塚小町</a></div></td>
@@ -15,9 +14,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://dehanac99.tumblr.com/">https://dehanac99.tumblr.com/</a><br><a rel="nofollow" class="external free" href="https://dehana.hatenablog.com/entry/2021/04/24/214918">https://dehana.hatenablog.com/entry/2021/04/24/214918</a></td></tr><tr><td class="label">备注</td><td colspan="2"><a href="./东方花映塚.md" title="东方花映塚">东方花映塚</a>攻略本</td></tr></tbody></table>
 
 DEHANA（同人志，DEHANA，2021） - 2021年5月3日 由 DEHANA  发布的合同志/其他同人志，A4尺寸一共150页，分级为 一般向
-
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://dehana.booth.pm/items/2906695">Booth</a></td></tr></tbody></table>
-
 
 
 ## 预览
@@ -40,8 +37,7 @@ Participants
 : るろるぅ （[Twitter: @rurorulu](https://twitter.com/rurorulu)）
 : ろくしー （[Twitter: @loxeee](https://twitter.com/loxeee)）
 : Dagoth2hu （[Twitter: @DagothUrTH](https://twitter.com/DagothUrTH)）
-
-Cover Illustration &amp; Design
+Cover Illustration & Design
 : 逢坂カナメ （[Pixiv ID: 174640](https://www.pixiv.net/users/174640)）
 Special Thanks
 : Cyrus （[Twitter: @CyrusWVorazan](https://twitter.com/CyrusWVorazan)）
@@ -50,11 +46,7 @@ Special Thanks
 : Zil （[Twitter: @UndreamtBoss](https://twitter.com/UndreamtBoss)）
 : nin=scene （[Twitter: @ninscene](https://twitter.com/ninscene)）
 
-
 ## 评论
-
-
-
 
 ---
 

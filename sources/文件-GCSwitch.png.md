@@ -1,12 +1,8 @@
 # 文件:GCSwitch.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0b\ns6%3AGCSwitch%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0b\ns6%3AGCSwitch%2Epng.html -->
 
 GROOVE_COASTER | 太东 | 游戏LOGO
-
-
-
-
 
 
 ---

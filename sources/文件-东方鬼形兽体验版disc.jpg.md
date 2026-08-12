@@ -1,12 +1,8 @@
 # 文件:东方鬼形兽体验版disc.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\68\ns6%3A%E4%B8%9C%E6%96%B9%E9%AC%BC%E5%BD%A2%E5%85%BD%E4%BD%93%E9%AA%8C%E7%89%88disc%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\68\ns6%3A%E4%B8%9C%E6%96%B9%E9%AC%BC%E5%BD%A2%E5%85%BD%E4%BD%93%E9%AA%8C%E7%89%88disc%2Ejpg.html -->
 
 东方鬼形兽 | 官方游戏体验版光盘扫图
-
-
-
-
 
 
 ---

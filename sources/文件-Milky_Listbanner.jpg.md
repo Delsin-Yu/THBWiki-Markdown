@@ -1,16 +1,11 @@
 # 文件:Milky_Listbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\78\ns6%3AMilky_Listbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\78\ns6%3AMilky_Listbanner%2Ejpg.html -->
 
 Milky_List | 社团LOGO
 
   
-源地址：[[1]](https://static.wixstatic.com/media/c36f07_a9b174db5338447c9d970cf6c3a838ed.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://static.wixstatic.com/media/c36f07_a9b174db5338447c9d970cf6c3a838ed.jpg)  
 
 ---
 

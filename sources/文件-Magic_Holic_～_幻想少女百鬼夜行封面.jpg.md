@@ -1,6 +1,6 @@
 # 文件:Magic_Holic_～_幻想少女百鬼夜行封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\35\ns6%3AMagic_Holic_%EF%BD%9E_%E5%B9%BB%E6%83%B3%E5%B0%91%E5%A5%B3%E7%99%BE%E9%AC%BC%E5%A4%9C%E8%A1%8C%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\35\ns6%3AMagic_Holic_%EF%BD%9E_%E5%B9%BB%E6%83%B3%E5%B0%91%E5%A5%B3%E7%99%BE%E9%AC%BC%E5%A4%9C%E8%A1%8C%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 夢想夏月郷 | 封面图片
 
@@ -11,9 +11,6 @@
   
 
 - [Magic Holic ～ 幻想少女百鬼夜行](./Magic_Holic_～_幻想少女百鬼夜行.md)
-
-
-
 
 
 ---

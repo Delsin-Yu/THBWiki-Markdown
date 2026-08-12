@@ -1,6 +1,6 @@
 # 文件:OVER-CLOCK封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\78\ns6%3AOVER-CLOCK%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\78\ns6%3AOVER-CLOCK%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 dat_file_records | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ dat_file_records | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [OVER-CLOCK](./OVER-CLOCK.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [OVER-CLOCK](./OVER-CLOCK.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
   
-源地址：[[1]](http://static.tumblr.com/a4118bb0670319900b986e12869ccd09/e3lazzy/ZXzmv41wr/tumblr_static_overclock_r.png)
-  
-
-
-
-
+源地址：[\[1\]](http://static.tumblr.com/a4118bb0670319900b986e12869ccd09/e3lazzy/ZXzmv41wr/tumblr_static_overclock_r.png)  
 
 ---
 

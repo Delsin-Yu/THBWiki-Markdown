@@ -1,6 +1,6 @@
 # 文件:404_Not_Founds（同人专辑）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a0\ns6%3A404_Not_Founds%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a0\ns6%3A404_Not_Founds%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 404_Not_Founds | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@
   
 
 - [404 Not Founds（同人专辑）](./404_Not_Founds（同人专辑）.md)
-
-
-
 
 
 ---

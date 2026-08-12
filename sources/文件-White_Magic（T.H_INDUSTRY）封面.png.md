@@ -1,6 +1,6 @@
 # 文件:White_Magic（T.H_INDUSTRY）封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\96\ns6%3AWhite_Magic%EF%BC%88T%2EH_INDUSTRY%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\96\ns6%3AWhite_Magic%EF%BC%88T%2EH_INDUSTRY%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 T.H_INDUSTRY | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ T.H_INDUSTRY | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [White Magic（T.H INDUSTRY）](./White_Magic（T.H_INDUSTRY）.md)  
-该封面包含的角色：- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)
-
-
-
+- [White Magic（T.H INDUSTRY）](./White_Magic（T.H_INDUSTRY）.md)该封面包含的角色：
+- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)
 
 
 ---

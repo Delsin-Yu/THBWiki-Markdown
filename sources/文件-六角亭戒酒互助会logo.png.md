@@ -1,16 +1,12 @@
 # 文件:六角亭戒酒互助会logo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ce\ns6%3A%E5%85%AD%E8%A7%92%E4%BA%AD%E6%88%92%E9%85%92%E4%BA%92%E5%8A%A9%E4%BC%9Alogo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ce\ns6%3A%E5%85%AD%E8%A7%92%E4%BA%AD%E6%88%92%E9%85%92%E4%BA%92%E5%8A%A9%E4%BC%9Alogo%2Epng.html -->
 
 六角亭戒酒互助会 | 社团LOGO
 
   
 社团logo
   
-
-
-
-
 
 ---
 

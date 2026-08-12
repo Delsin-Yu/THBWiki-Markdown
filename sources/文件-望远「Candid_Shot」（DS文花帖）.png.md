@@ -1,12 +1,8 @@
 # 文件:望远「Candid_Shot」（DS文花帖）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c6\ns6%3A%E6%9C%9B%E8%BF%9C%E3%80%8CCandid_Shot%E3%80%8D%EF%BC%88DS%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c6\ns6%3A%E6%9C%9B%E8%BF%9C%E3%80%8CCandid_Shot%E3%80%8D%EF%BC%88DS%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Epng.html -->
 
 东方文花帖DS | 射命丸文 | 敌机符卡
-
-
-
-
 
 
 ---

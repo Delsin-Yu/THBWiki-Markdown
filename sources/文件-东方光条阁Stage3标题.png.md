@@ -1,14 +1,11 @@
 # 文件:东方光条阁Stage3标题.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\56\ns6%3A%E4%B8%9C%E6%96%B9%E5%85%89%E6%9D%A1%E9%98%81Stage3%E6%A0%87%E9%A2%98%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\56\ns6%3A%E4%B8%9C%E6%96%B9%E5%85%89%E6%9D%A1%E9%98%81Stage3%E6%A0%87%E9%A2%98%2Epng.html -->
 
 常春区役所
 
 
 ## 文件说明
-
-
-
 
 ---
 

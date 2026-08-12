@@ -1,6 +1,6 @@
 # 文件:TOHO_Groovy_Anthem_ver.Sunlight封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\ff\ns6%3ATOHO_Groovy_Anthem_ver%2ESunlight%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\ff\ns6%3ATOHO_Groovy_Anthem_ver%2ESunlight%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Groovy_Trancer | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ Groovy_Trancer | 专辑封面 | 封面图片
   
 
 - [TOHO Groovy Anthem ver.Sunlight](./TOHO_Groovy_Anthem_ver.Sunlight.md)
-
-
-
 
 
 ---

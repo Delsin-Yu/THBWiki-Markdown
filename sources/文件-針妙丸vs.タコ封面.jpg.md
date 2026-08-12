@@ -1,6 +1,6 @@
 # 文件:針妙丸vs.タコ封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2e\ns6%3A%E9%87%9D%E5%A6%99%E4%B8%B8vs%2E%E3%82%BF%E3%82%B3%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2e\ns6%3A%E9%87%9D%E5%A6%99%E4%B8%B8vs%2E%E3%82%BF%E3%82%B3%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 世捨人な漫画描き | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [針妙丸vs.タコ](./針妙丸vs.タコ.md)  
-该封面包含的角色：- [少名针妙丸](./少名针妙丸.md)
-
-
-
+- [針妙丸vs.タコ](./針妙丸vs.タコ.md)该封面包含的角色：
+- [少名针妙丸](./少名针妙丸.md)
 
 
 ---

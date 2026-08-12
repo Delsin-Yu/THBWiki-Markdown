@@ -1,36 +1,26 @@
 # 阳炎之城_～_Phantom_ROAD
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\45\ns0%3A%E9%98%B3%E7%82%8E%E4%B9%8B%E5%9F%8E_%EF%BD%9E_Phantom_ROAD.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\45\ns0%3A%E9%98%B3%E7%82%8E%E4%B9%8B%E5%9F%8E_%EF%BD%9E_Phantom_ROAD.html -->
 
 JynX作曲 | 引用了翻译表的页面 | 连缘Project | 连缘Project官方音乐 | 阳炎之城_～_Phantom_ROAD
 
-本页是关于 **向[东方Project](./东方Project.md)  
-致敬、形式类似的作品** 的词条
-
+本页是关于**向[东方Project](./东方Project.md)致敬、形式类似的作品**  
+的词条
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 出现作品](#出现作品)
 - [3 音乐文件](#音乐文件)
-
   - [3.1 连缘天影战记](#连缘天影战记)
 
 
-
 - [4 说明文本](#说明文本)
-
   - [4.1 连缘天影战记](#连缘天影战记_2)
 
 
-
 - [5 其他资料](#其他资料)
-
   - [5.1 乐理资讯](#乐理资讯)
   - [5.2 分析考据](#分析考据)
-
-
-
-
 
 
 
@@ -59,14 +49,12 @@ JynX作曲 | 引用了翻译表的页面 | 连缘Project | 连缘Project官方�
 </td></tr></tbody></table>
 
 
-
 ## 出现作品
 
 <table>
 
 <tbody><tr><td>2016年12月1日（非展会）</td><td><b><a href="./连缘天影战记～Brilliant_pagoda_or_haze_castle.md" title="连缘天影战记～Brilliant pagoda or haze castle" unred="">连缘天影战记</a></b></td><td>蜻蛉乃城主题曲</td><td style="padding-left:5px;">（阳炎之城 ～ Phantom ROAD）</td><td style="padding-left:10px;">作曲：JynX</td></tr>
 </tbody></table>
-
 
 
 ## 音乐文件
@@ -90,11 +78,11 @@ JynX作曲 | 引用了翻译表的页面 | 连缘Project | 连缘Project官方�
 </td></tr></tbody></table>
 
 
-
 ## 说明文本
 
 ### 连缘天影战记
-- Music Room (未找到链接)
+
+- [Music Room](./连缘天影战记～Brilliant_pagoda_or_haze_castle-Music.md#蜻蛉乃城主题曲)
 
 这是一首从蜻蛉乃城内流淌而出的曲子。  
   
@@ -105,17 +93,12 @@ JynX作曲 | 引用了翻译表的页面 | 连缘Project | 连缘Project官方�
 也许会「哦」地一下，注意到某个词语吧？[^cite_note-1]  
   
 在这里最大的敌人可能是背景呢
-
 ## 其他资料
 
 ### 乐理资讯
 
 ### 分析考据
 [^cite_note-1]: [链缘灵烈传](./连缘灵烈传～Reactivate_majestical_imperial.md)的staff曲目：蜉蝣の城 ～ Phantom_VISION。日语中“陽炎”、“蜻蛉”与“蜉蝣”都可读作カゲロウ。
-
-
-
-
 
 ---
 

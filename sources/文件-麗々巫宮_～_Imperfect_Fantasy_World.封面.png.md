@@ -1,6 +1,6 @@
 # 文件:麗々巫宮_～_Imperfect_Fantasy_World.封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7e\ns6%3A%E9%BA%97%E3%80%85%E5%B7%AB%E5%AE%AE_%EF%BD%9E_Imperfect_Fantasy_World%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7e\ns6%3A%E9%BA%97%E3%80%85%E5%B7%AB%E5%AE%AE_%EF%BD%9E_Imperfect_Fantasy_World%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 幻想グリモワール
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [麗々巫宮 ～ Imperfect Fantasy World.](./麗々巫宮_～_Imperfect_Fantasy_World..md)  
-该封面包含的角色：- [八云紫](./八云紫.md)
-
-
-
+- [麗々巫宮 ～ Imperfect Fantasy World.](./麗々巫宮_～_Imperfect_Fantasy_World..md)该封面包含的角色：
+- [八云紫](./八云紫.md)
 
 
 ---

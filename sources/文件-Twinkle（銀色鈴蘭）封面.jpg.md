@@ -1,6 +1,6 @@
 # 文件:Twinkle（銀色鈴蘭）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\87\ns6%3ATwinkle%EF%BC%88%E9%8A%80%E8%89%B2%E9%88%B4%E8%98%AD%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\87\ns6%3ATwinkle%EF%BC%88%E9%8A%80%E8%89%B2%E9%88%B4%E8%98%AD%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 銀色鈴蘭
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Twinkle（銀色鈴蘭）](./Twinkle（銀色鈴蘭）.md)  
-该封面包含的角色：- [古明地恋](./古明地恋.md)
+- [Twinkle（銀色鈴蘭）](./Twinkle（銀色鈴蘭）.md)该封面包含的角色：
+- [古明地恋](./古明地恋.md)
 
   
-源地址：[direct image link (original size)](https://pbs.twimg.com/media/EGhxjaPVUAAyQKD?format=jpg&amp;name=orig), [source tweet](https://twitter.com/majamari17/status/1182319766255460352)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://pbs.twimg.com/media/EGhxjaPVUAAyQKD?format=jpg&name=orig), [source tweet](https://twitter.com/majamari17/status/1182319766255460352)  
 
 ---
 

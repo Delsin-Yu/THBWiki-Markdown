@@ -1,12 +1,8 @@
 # 文件:THD2天界之桃.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0d\ns6%3ATHD2%E5%A4%A9%E7%95%8C%E4%B9%8B%E6%A1%83%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0d\ns6%3ATHD2%E5%A4%A9%E7%95%8C%E4%B9%8B%E6%A1%83%2Epng.html -->
 
 AvalonStudioOfficial
-
-
-
-
 
 
 ---

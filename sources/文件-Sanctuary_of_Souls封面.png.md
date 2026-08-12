@@ -1,6 +1,6 @@
 # 文件:Sanctuary_of_Souls封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b5\ns6%3ASanctuary_of_Souls%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b5\ns6%3ASanctuary_of_Souls%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 魔女狩り教団
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Sanctuary of Souls](./Sanctuary_of_Souls.md)  
-该封面包含的角色：- [小野塚小町](./小野塚小町.md)
-
-
-
+- [Sanctuary of Souls](./Sanctuary_of_Souls.md)该封面包含的角色：
+- [小野塚小町](./小野塚小町.md)
 
 
 ---

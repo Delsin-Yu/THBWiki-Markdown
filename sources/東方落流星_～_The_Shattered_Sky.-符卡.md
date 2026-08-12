@@ -1,6 +1,6 @@
 # 東方落流星_～_The_Shattered_Sky./符卡
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\b8\ns0%3A%E6%9D%B1%E6%96%B9%E8%90%BD%E6%B5%81%E6%98%9F_%EF%BD%9E_The_Shattered_Sky%2E%2F%E7%AC%A6%E5%8D%A1.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\b8\ns0%3A%E6%9D%B1%E6%96%B9%E8%90%BD%E6%B5%81%E6%98%9F_%EF%BD%9E_The_Shattered_Sky%2E%2F%E7%AC%A6%E5%8D%A1.html -->
 
 Dream_Compass
 
@@ -8,76 +8,54 @@ Dream_Compass
 本页面用于收录东方落流星中出现的符卡。
   
 
-
 ## 目录
 
 - [1 一面](#一面)
-
   - [1.1 琪露诺](#琪露诺)
   - [1.2 铃仙·优昙华院·因幡](#铃仙·优昙华院·因幡)
 
 
-
 - [2 二面](#二面)
-
   - [2.1 火月小百合](#火月小百合)
 
 
-
 - [3 三面](#三面)
-
   - [3.1 木灵](#木灵)
   - [3.2 八重咲杏](#八重咲杏)
 
 
-
 - [4 四面](#四面)
-
   - [4.1 暗水早](#暗水早)
   - [4.2 黑塚赤实](#黑塚赤实)
 
 
-
 - [5 五面](#五面)
-
   - [5.1 火月小百合](#火月小百合_2)
   - [5.2 龙子](#龙子)
 
 
-
 - [6 六面](#六面)
-
   - [6.1 僧正子](#僧正子)
 
 
-
 - [7 EX面](#EX面)
-
   - [7.1 火月小百合](#火月小百合_3)
   - [7.2 星蛇月子](#星蛇月子)
 
 
-
 - [8 PH面](#PH面)
-
   - [8.1 星蛇月子](#星蛇月子_2)
   - [8.2 魅魔](#魅魔)
 
 
-
 - [9 Heaven面](#Heaven面)
-
   - [9.1 八云紫](#八云紫)
   - [9.2 见神铃鹿](#见神铃鹿)
-
 
 
 - [10 Last Word](#Last_Word)
 - [11 注释](#注释)
 - [12 词条导航](#词条导航)
-
-
-
 
 
 ## 一面
@@ -87,7 +65,6 @@ Dream_Compass
 <table><tbody><tr><th><b>中文名</b></th><th><b>英文名</b></th><th><b>出现位置</b></th></tr><tr><td style="width:200px">冰符「Beautiful Snowflake Scattered Away」（散落的美丽雪花）</td><td style="width:200px">Ice Sign「Beautiful Snowflake Scattered Away」</td><td style="width:180px">Hard</td></tr>
 <tr><td style="width:200px">冰符「Deadly Snowflake Dance」（死亡雪花舞）</td><td style="width:200px">Ice Sign「Deadly Snowflake Dance」</td><td style="width:180px">Lunatic</td></tr>
 <tr><td style="width:200px">URA「Permafrost Blizzard」（永冻暴雪）</td><td style="width:200px">URA「Permafrost Blizzard」</td><td style="width:180px">URA</td></tr></tbody></table>
-
 
 
 ### 铃仙·优昙华院·因幡
@@ -110,7 +87,6 @@ Dream_Compass
 <tr><td style="width:200px">URA「Eientei Millennium Crossfire」</td><td style="width:200px">URA「Eientei Millennium Crossfire」</td><td style="width:180px">URA</td></tr>
 <tr><td style="width:200px">URA「Reflecting Mind Twist」</td><td style="width:200px">URA「Reflecting Mind Twist」</td><td style="width:180px">URA</td></tr>
 <tr><td style="width:200px">URA「Illusionary Mindgames」</td><td style="width:200px">URA「Illusionary Mindgames」</td><td style="width:180px">URA</td></tr></tbody></table>
-
 
 
 ## 二面
@@ -141,7 +117,6 @@ Dream_Compass
 <tr><td style="width:200px">URA「Withering Flower Spell」（残花诅咒）</td><td style="width:200px">URA「Withering Flower Spell」</td><td style="width:180px">URA</td></tr></tbody></table>
 
 
-
 ## 三面
 
 ### 木灵
@@ -151,7 +126,6 @@ Dream_Compass
 <tr><td style="width:200px">樱符「Blooming Beauty」（花开烂漫）</td><td style="width:200px">Cherry Sign「Blooming Beauty」</td><td style="width:180px">Hard</td></tr>
 <tr><td style="width:200px">「Deadly Blossom」（死樱）</td><td style="width:200px">「Deadly Blossom」</td><td style="width:180px">Lunatic</td></tr>
 <tr><td style="width:200px">URA「Rafflesia Leaf」（大王花花瓣）</td><td style="width:200px">URA「Rafflesia Leaf」</td><td style="width:180px">URA</td></tr></tbody></table>
-
 
 
 ### 八重咲杏
@@ -180,7 +154,6 @@ Dream_Compass
 <tr><td style="width:200px">URA「Sakura Hanami」（赏樱会）</td><td style="width:200px">URA「Sakura Hanami」</td><td style="width:180px">URA</td></tr></tbody></table>
 
 
-
 ## 四面
 
 ### 暗水早
@@ -192,10 +165,9 @@ Dream_Compass
 <tr><td style="width:200px">URA「Blasting Heart Dance of 12 Resignated Gods」（十二恶灵的碎心之舞）</td><td style="width:200px">URA「Blasting Heart Dance of 12 Resignated Gods」</td><td style="width:180px">URA</td></tr></tbody></table>
 
 
-
 ### 黑塚赤实
-- 红色名字的符卡为自机为博丽灵梦时的符卡，蓝色名字的符卡为自机为魔理沙时的符卡，绿色名字的符卡为自机为东风谷早苗时的符卡，其余为各机体通用。  
 
+- 红色名字的符卡为自机为博丽灵梦时的符卡，蓝色名字的符卡为自机为魔理沙时的符卡，绿色名字的符卡为自机为东风谷早苗时的符卡，其余为各机体通用。
 
 
 <table><tbody><tr><th><b>中文名</b></th><th><b>英文名</b></th><th><b>出现位置</b></th></tr><tr><td style="width:200px"><span style="color:red;">影符「Tic Tac Ball」</span><span style="color:red;">（滴答球）</span></td><td style="width:200px"><span style="color:red;">Shadow Sign「Tic Tac Ball」</span></td><td style="width:180px">Easy</td></tr>
@@ -252,7 +224,6 @@ Dream_Compass
 <tr><td style="width:200px">URA「Shadow Creeping Closer」（蠕行逼近的暗影）</td><td style="width:200px">URA「Shadow Creeping Closer」</td><td style="width:180px">URA</td></tr></tbody></table>
 
 
-
 ## 五面
 
 ### 火月小百合
@@ -262,7 +233,6 @@ Dream_Compass
 <tr><td style="width:200px">陨符「Asteroid Shower」（小行星雨）</td><td style="width:200px">Meteor Sign「Asteroid Shower」</td><td style="width:180px">Hard</td></tr>
 <tr><td style="width:200px">「Meteor Punch」（流星拳）</td><td style="width:200px">「Meteor Punch」</td><td style="width:180px">Lunatic</td></tr>
 <tr><td style="width:200px">URA「Falling Meteor Shadow Punch」（急坠流星暗影拳）</td><td style="width:200px">URA「Falling Meteor Shadow Punch」</td><td style="width:180px">URA</td></tr></tbody></table>
-
 
 
 ### 龙子
@@ -280,7 +250,7 @@ Dream_Compass
 <tr><td style="width:200px">希望「Friendly Fire」（友好之火）</td><td style="width:200px">Hope「Friendly Fire」</td><td style="width:180px">Easy</td></tr>
 <tr><td style="width:200px">信赖「Friendly Meteor」（友好流星）</td><td style="width:200px">Trust「Friendly Meteor」</td><td style="width:180px">Normal</td></tr>
 <tr><td style="width:200px">失信「Unfriendly Attack」（恶意攻击）</td><td style="width:200px">Lost Trust「Unfriendly Attack」</td><td style="width:180px">Hard</td></tr>
-<tr><td style="width:200px">绝望「Dragon Meteor」（龙流星）<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">1</a></sup></td><td style="width:200px">Lost Hope「Dragon Meteor」</td><td style="width:180px">Lunatic</td></tr>
+<tr><td style="width:200px">绝望「Dragon Meteor」（龙流星）<span>[^cite_note-1]</span></td><td style="width:200px">Lost Hope「Dragon Meteor」</td><td style="width:180px">Lunatic</td></tr>
 <tr><td style="width:200px">URA「Cage of the Raging Dragon」（恶龙之巢）</td><td style="width:200px">URA「Cage of the Raging Dragon」</td><td style="width:180px">URA</td></tr>
 <tr><td style="width:200px">「Fire Beast」（火兽）</td><td style="width:200px">「Fire Beast」</td><td style="width:180px">Easy</td></tr>
 <tr><td style="width:200px">「Dragon Beast」（龙兽）</td><td style="width:200px">「Dragon Beast」</td><td style="width:180px">Normal</td></tr>
@@ -288,7 +258,6 @@ Dream_Compass
 <tr><td style="width:200px">「Fuku Riu's Wrath」（福龙的怒火）</td><td style="width:200px">「Fuku Riu's Wrath」</td><td style="width:180px">Lunatic</td></tr>
 <tr><td style="width:200px">URA「Breathing Dragon of 10000 Years」（万年喷火龙）</td><td style="width:200px">URA「Breathing Dragon of 10000 Years」</td><td style="width:180px">URA</td></tr>
 <tr><td style="width:200px">URA「Meteor Rain Through Dark Sky」（暗夜流星雨）</td><td style="width:200px">URA「Meteor Rain Through Dark Sky」</td><td style="width:180px">URA</td></tr></tbody></table>
-
 
 
 ## 六面
@@ -301,7 +270,7 @@ Dream_Compass
 <tr><td style="width:200px">灾难「Fuji City Collapse」（富士城崩塌）</td><td style="width:200px">Disaster「Fuji City Collapse」</td><td style="width:180px">Lunatic</td></tr>
 <tr><td style="width:200px">URA「Nightmare Volcano's 10000 Eruptions」（噩梦火山的万丈喷发）</td><td style="width:200px">URA「Nightmare Volcano's 10000 Eruptions」</td><td style="width:180px">URA</td></tr>
 <tr><td style="width:200px">灾难「Washing Clean」（清洗）</td><td style="width:200px">Disaster「Washing Clean」</td><td style="width:180px">Easy</td></tr>
-<tr><td style="width:200px">灾难「The Great Flood」（大洪水）<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">2</a></sup></td><td style="width:200px">Disaster「The Great Flood」</td><td style="width:180px">Normal</td></tr>
+<tr><td style="width:200px">灾难「The Great Flood」（大洪水）<span>[^cite_note-2]</span></td><td style="width:200px">Disaster「The Great Flood」</td><td style="width:180px">Normal</td></tr>
 <tr><td style="width:200px">灾难「Namazu Water Splash」（巨鲶冲水）</td><td style="width:200px">Disaster「Namazu Water Splash」</td><td style="width:180px">Hard</td></tr>
 <tr><td style="width:200px">灾难「Namazu Water Festival」（巨鲶水节）</td><td style="width:200px">Disaster「Namazu Water Festival」</td><td style="width:180px">Lunatic</td></tr>
 <tr><td style="width:200px">URA「Helpless Fear in Water Hells Prison」（地狱水牢的绝望恐惧）</td><td style="width:200px">URA「Helpless Fear in Water Hells Prison」</td><td style="width:180px">URA</td></tr>
@@ -318,14 +287,13 @@ Dream_Compass
 <tr><td style="width:200px">灾难「Whirlwind」（旋风）</td><td style="width:200px">Disaster「Whirlwind」</td><td style="width:180px">Easy</td></tr>
 <tr><td style="width:200px">灾难「Cyclone Over Japan」（日本旋风）</td><td style="width:200px">Disaster「Cyclone Over Japan」</td><td style="width:180px">Normal</td></tr>
 <tr><td style="width:200px">灾难「Isewan Typhoon」（伊势飓风）</td><td style="width:200px">Disaster「Isewan Typhoon」</td><td style="width:180px">Hard</td></tr>
-<tr><td style="width:200px">灾难「Wrath of the Coringa Cyclone」（科林加飓风之怒）<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">3</a></sup></td><td style="width:200px">Disaster「Wrath of the Coringa Cyclone」</td><td style="width:180px">Lunatic</td></tr>
+<tr><td style="width:200px">灾难「Wrath of the Coringa Cyclone」（科林加飓风之怒）<span>[^cite_note-3]</span></td><td style="width:200px">Disaster「Wrath of the Coringa Cyclone」</td><td style="width:180px">Lunatic</td></tr>
 <tr><td style="width:200px">URA「Death Twister」（死亡旋风）</td><td style="width:200px">URA「Death Twister」</td><td style="width:180px">URA</td></tr>
 <tr><td style="width:200px">「God Whispering Armageddon」（神低语着末日）</td><td style="width:200px">「God Whispering Armageddon」</td><td style="width:180px">Easy/Normal</td></tr>
 <tr><td style="width:200px">「Shattered Sky」（碎裂的天穹）</td><td style="width:200px">「Shattered Sky」</td><td style="width:180px">Hard</td></tr>
 <tr><td style="width:200px">「Miracle Flight Through a Shattered Sky」（奇迹般飞过碎裂天穹）</td><td style="width:200px">「Miracle Flight Through a Shattered Sky」</td><td style="width:180px">Lunatic</td></tr>
 <tr><td style="width:200px">「Undefined Radiant Augmentation of Reality」（未确定现实强流星辐射）</td><td style="width:200px">「Undefined Radiant Augmentation of Reality」</td><td style="width:180px">URA</td></tr>
 <tr><td style="width:200px">「Flying Tengu God」（飞翔天狗之神）</td><td style="width:200px">「Flying Tengu God」</td><td style="width:180px">URA</td></tr></tbody></table>
-
 
 
 ## EX面
@@ -335,7 +303,6 @@ Dream_Compass
 <table><tbody><tr><th><b>中文名</b></th><th><b>英文名</b></th><th><b>出现位置</b></th></tr><tr><td style="width:200px">曲符「Flaming Whirl」（燃烧漩涡）</td><td style="width:200px">Twisting Sign「Flaming Whirl」</td><td style="width:180px">Extra</td></tr>
 <tr><td style="width:200px">火球「Meteor Maze」（流星迷宫）</td><td style="width:200px">Burning Fireball「Meteor Maze」</td><td style="width:180px">Extra</td></tr>
 <tr><td style="width:200px">日符「Burning Sunray Cage」（燃烧阳光笼）</td><td style="width:200px">Sun Sign「Burning Sunray Cage」</td><td style="width:180px">Extra</td></tr></tbody></table>
-
 
 
 ### 星蛇月子
@@ -352,7 +319,6 @@ Dream_Compass
 <tr><td style="width:200px">「Demented Universe」（错乱的宇宙）</td><td style="width:200px">「Demented Universe」</td><td style="width:180px">Extra</td></tr></tbody></table>
 
 
-
 ## PH面
 
 ### 星蛇月子
@@ -360,7 +326,6 @@ Dream_Compass
 <table><tbody><tr><th><b>中文名</b></th><th><b>英文名</b></th><th><b>出现位置</b></th></tr><tr><td style="width:200px">弯月「Seeing Stars」（观星）</td><td style="width:200px">Twisting Moon「Seeing Stars」</td><td style="width:180px">Phantom</td></tr>
 <tr><td style="width:200px">月迷宫「Slithering Madness」（游动的疯狂）</td><td style="width:200px">Moon Maze「Slithering Madness」</td><td style="width:180px">Phantom</td></tr>
 <tr><td style="width:200px">月符「Tsukiko Moonray Mysterium」（月子的月光谜团）</td><td style="width:200px">Moon Sign「Tsukiko Moonray Mysterium」</td><td style="width:180px">Phantom</td></tr></tbody></table>
-
 
 
 ### 魅魔
@@ -378,7 +343,6 @@ Dream_Compass
 <tr><td style="width:200px">「Shooting Star of the Darkness」（暗黑流星）</td><td style="width:200px">「Shooting Star of the Darkness」</td><td style="width:180px">Phantom</td></tr></tbody></table>
 
 
-
 ## Heaven面
 
 ### 八云紫
@@ -388,25 +352,23 @@ Dream_Compass
 <tr><td style="width:200px">境界线「Yokari's 5 Hidden Arcanums」（紫的五种奥秘）</td><td style="width:200px">Boundary「Yokari's 5 Hidden Arcanums」</td><td style="width:180px">Heaven</td></tr></tbody></table>
 
 
-
 ### 见神铃鹿
 
-<table><tbody><tr><th><b>中文名</b></th><th><b>英文名</b></th><th><b>出现位置</b></th></tr><tr><td style="width:200px">神语「Rain,Storm,Earth,Fire」（雨，风，地，火）<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">4</a></sup></td><td style="width:200px">God's Word「Rain,Storm,Earth,Fire」</td><td style="width:180px">Heaven</td></tr>
-<tr><td style="width:200px">神罚「Star of Rainbow」（虹之星）<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">5</a></sup></td><td style="width:200px">God's Punishment「Star of Rainbow」</td><td style="width:180px">Heaven</td></tr>
-<tr><td style="width:200px">天之花「Butterfly Resurrection」（蝶复生）<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">6</a></sup></td><td style="width:200px">Heaven's Blossom「Butterfly Resurrection」</td><td style="width:180px">Heaven</td></tr>
-<tr><td style="width:200px">神宝「God's Earth」（神之地）<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">7</a></sup></td><td style="width:200px">Divine Treasure「God's Earth」</td><td style="width:180px">Heaven</td></tr>
-<tr><td style="width:200px">天罚「Last Child on Earth」（最后的地上之子）<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">8</a></sup></td><td style="width:200px">Heaven's Guilt「Last Child on Earth」</td><td style="width:180px">Heaven</td></tr>
-<tr><td style="width:200px">神祭「Faith of the Shinto Shrine」（神社的信仰）<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">9</a></sup></td><td style="width:200px">Divine Festival「Faith of the Shinto Shrine」</td><td style="width:180px">Heaven</td></tr>
-<tr><td style="width:200px">天堂与地狱「Nuclear Fallout」（核泄漏）<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">10</a></sup></td><td style="width:200px">Heaven and Hell「Nuclear Fallout」</td><td style="width:180px">Heaven</td></tr>
-<tr><td style="width:200px">光魔「Cloudy Butterfly Omen」（云蝶的前兆）<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">11</a></sup></td><td style="width:200px">Bright Magic「Cloudy Butterfly Omen」</td><td style="width:180px">Heaven</td></tr>
-<tr><td style="width:200px">神光「Flashing Distant Laser Dance」（闪遥激光舞）<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">12</a></sup></td><td style="width:200px">Godly Light「Flashing Distant Laser Dance」</td><td style="width:180px">Heaven</td></tr>
-<tr><td style="width:200px">幻魔「Shining Bullet Needle」（闪耀飞弹针）<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">13</a></sup></td><td style="width:200px">Bewitched Magic「Shining Bullet Needle」</td><td style="width:180px">Heaven</td></tr>
-<tr><td style="width:200px">神震「Pure Fury」（纯粹的愤怒）<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">14</a></sup></td><td style="width:200px">God's Shiver「Pure Fury」</td><td style="width:180px">Heaven</td></tr>
-<tr><td style="width:200px">圣魂「Forbidden Barrier」（禁忌结界）<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">15</a></sup></td><td style="width:200px">Divine Spirit「Forbidden Barrier」</td><td style="width:180px">Heaven</td></tr>
-<tr><td style="width:200px">魔力「Staroust Lightray」（星辰光线）<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">16</a></sup></td><td style="width:200px">Magic Force「Staroust Lightray」</td><td style="width:180px">Heaven</td></tr>
-<tr><td style="width:200px">「Lunatic Land of Great Challenges」（巨大挑战的狂气大地）<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">17</a></sup></td><td style="width:200px">「Lunatic Land of Great Challenges」</td><td style="width:180px">Heaven</td></tr>
-<tr><td style="width:200px">「Homo Proponit Sed Deus Disponit」（谋事在人，成事上主）<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">18</a></sup></td><td style="width:200px">「Homo Proponit Sed Deus Disponit」</td><td style="width:180px">Heaven</td></tr></tbody></table>
-
+<table><tbody><tr><th><b>中文名</b></th><th><b>英文名</b></th><th><b>出现位置</b></th></tr><tr><td style="width:200px">神语「Rain,Storm,Earth,Fire」（雨，风，地，火）<span>[^cite_note-4]</span></td><td style="width:200px">God's Word「Rain,Storm,Earth,Fire」</td><td style="width:180px">Heaven</td></tr>
+<tr><td style="width:200px">神罚「Star of Rainbow」（虹之星）<span>[^cite_note-5]</span></td><td style="width:200px">God's Punishment「Star of Rainbow」</td><td style="width:180px">Heaven</td></tr>
+<tr><td style="width:200px">天之花「Butterfly Resurrection」（蝶复生）<span>[^cite_note-6]</span></td><td style="width:200px">Heaven's Blossom「Butterfly Resurrection」</td><td style="width:180px">Heaven</td></tr>
+<tr><td style="width:200px">神宝「God's Earth」（神之地）<span>[^cite_note-7]</span></td><td style="width:200px">Divine Treasure「God's Earth」</td><td style="width:180px">Heaven</td></tr>
+<tr><td style="width:200px">天罚「Last Child on Earth」（最后的地上之子）<span>[^cite_note-8]</span></td><td style="width:200px">Heaven's Guilt「Last Child on Earth」</td><td style="width:180px">Heaven</td></tr>
+<tr><td style="width:200px">神祭「Faith of the Shinto Shrine」（神社的信仰）<span>[^cite_note-9]</span></td><td style="width:200px">Divine Festival「Faith of the Shinto Shrine」</td><td style="width:180px">Heaven</td></tr>
+<tr><td style="width:200px">天堂与地狱「Nuclear Fallout」（核泄漏）<span>[^cite_note-10]</span></td><td style="width:200px">Heaven and Hell「Nuclear Fallout」</td><td style="width:180px">Heaven</td></tr>
+<tr><td style="width:200px">光魔「Cloudy Butterfly Omen」（云蝶的前兆）<span>[^cite_note-11]</span></td><td style="width:200px">Bright Magic「Cloudy Butterfly Omen」</td><td style="width:180px">Heaven</td></tr>
+<tr><td style="width:200px">神光「Flashing Distant Laser Dance」（闪遥激光舞）<span>[^cite_note-12]</span></td><td style="width:200px">Godly Light「Flashing Distant Laser Dance」</td><td style="width:180px">Heaven</td></tr>
+<tr><td style="width:200px">幻魔「Shining Bullet Needle」（闪耀飞弹针）<span>[^cite_note-13]</span></td><td style="width:200px">Bewitched Magic「Shining Bullet Needle」</td><td style="width:180px">Heaven</td></tr>
+<tr><td style="width:200px">神震「Pure Fury」（纯粹的愤怒）<span>[^cite_note-14]</span></td><td style="width:200px">God's Shiver「Pure Fury」</td><td style="width:180px">Heaven</td></tr>
+<tr><td style="width:200px">圣魂「Forbidden Barrier」（禁忌结界）<span>[^cite_note-15]</span></td><td style="width:200px">Divine Spirit「Forbidden Barrier」</td><td style="width:180px">Heaven</td></tr>
+<tr><td style="width:200px">魔力「Staroust Lightray」（星辰光线）<span>[^cite_note-16]</span></td><td style="width:200px">Magic Force「Staroust Lightray」</td><td style="width:180px">Heaven</td></tr>
+<tr><td style="width:200px">「Lunatic Land of Great Challenges」（巨大挑战的狂气大地）<span>[^cite_note-17]</span></td><td style="width:200px">「Lunatic Land of Great Challenges」</td><td style="width:180px">Heaven</td></tr>
+<tr><td style="width:200px">「Homo Proponit Sed Deus Disponit」（谋事在人，成事上主）<span>[^cite_note-18]</span></td><td style="width:200px">「Homo Proponit Sed Deus Disponit」</td><td style="width:180px">Heaven</td></tr></tbody></table>
 
 
 ## Last Word
@@ -425,23 +387,27 @@ Dream_Compass
 <tr><td style="width:200px">「Strange Moonray Phenomenon」（诡异月光幻象）</td><td style="width:200px">「Strange Moonray Phenomenon」</td><td style="width:180px">星蛇月子</td></tr>
 <tr><td style="width:200px">「Magical Star Night Spell」（魔法星夜咒）</td><td style="width:200px">「Magical Star Night Spell」</td><td style="width:180px">魅魔</td></tr>
 <tr><td style="width:200px">永久境界「Border of Wave and Death」（清醒与死亡的境界）</td><td style="width:200px">Eternal Border「Border of Wave and Death」</td><td style="width:180px">八云紫</td></tr>
-<tr><td style="width:200px">「Dream of 60 Trillion Nights and One Day」（六兆年零一夜之梦）<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">19</a></sup></td><td style="width:200px">「Dream of 60 Trillion Nights and One Day」</td><td style="width:180px">见神铃鹿</td></tr></tbody></table>
-
-
+<tr><td style="width:200px">「Dream of 60 Trillion Nights and One Day」（六兆年零一夜之梦）<span>[^cite_note-19]</span></td><td style="width:200px">「Dream of 60 Trillion Nights and One Day」</td><td style="width:180px">见神铃鹿</td></tr></tbody></table>
 
 [^cite_note-1]: 捏他游戏《口袋妖怪》龙系技能“流星群”（Draco Meteor）。
-
-
-## 词条导航
-  
-  
-
-<table><tbody><tr><td><table cellspacing="0" class="nowraplinks mw-collapsible mw-collapsed" style="width:100%;;;"><tbody><tr><th style=";" colspan="3" class="navbox-title"><div class="navbar"><div class="noprint plainlinksneverexpand" style="background-color:transparent; padding:0; font-weight:normal; font-size:80%; white-space:nowrap;"><a href="./東方落流星_～_The_Shattered_Sky.-导航.md" title="東方落流星 ～ The Shattered Sky./导航"><span style=";;border:none;" title="查看这个模板">查</span></a>&#160;<span style="font-size:80%;">•</span>&#160;<a href="/index.php?title=%E6%9D%B1%E6%96%B9%E8%90%BD%E6%B5%81%E6%98%9F_%EF%BD%9E_The_Shattered_Sky./%E5%AF%BC%E8%88%AA&amp;action=edit"><span style=";;border:none;" title="您可以编辑这个模板。请在储存变更之前先预览">编</span></a></div></div><span><a href="./東方落流星_～_The_Shattered_Sky..md" title="東方落流星 ～ The Shattered Sky." unred="">東方落流星 ～ The Shattered Sky</a></span></th></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="./東方落流星_～_The_Shattered_Sky.-角色设定.md" title="東方落流星 ～ The Shattered Sky./角色设定" unred="">角色</a></td><td style=";;" class="navbox-list navbox-odd"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>自机</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./東方落流星_～_The_Shattered_Sky.-角色设定.md" title="東方落流星 ～ The Shattered Sky./角色设定" unred="">博丽灵梦</a> &#8226; <a href="./東方落流星_～_The_Shattered_Sky.-角色设定.md" title="東方落流星 ～ The Shattered Sky./角色设定" unred="">雾雨魔理沙</a> &#8226; <a href="./東方落流星_～_The_Shattered_Sky.-角色设定.md" title="東方落流星 ～ The Shattered Sky./角色设定" unred="">东风谷早苗</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>BOSS</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./琪露诺.md" title="琪露诺">琪露诺</a> &#8226; <a href="./铃仙·优昙华院·因幡.md" title="铃仙·优昙华院·因幡">铃仙·优昙华院·因幡</a> &#8226; <a href="./火月小百合.md" title="火月小百合">火月小百合</a> &#8226; <a href="./八重咲杏.md" title="八重咲杏">木灵</a> &#8226; <a href="./八重咲杏.md" title="八重咲杏">八重咲杏</a> &#8226; <a href="./暗水早.md" title="暗水早">暗水早</a> &#8226; <a href="./黑冢赤实.md" title="黑冢赤实" unred="">黑塚赤实</a> &#8226; <a href="./龙子.md" title="龙子">龙子</a> &#8226; <a href="./僧正子.md" title="僧正子">僧正子</a> &#8226; <a href="./星蛇月子.md" title="星蛇月子">星蛇月子</a> &#8226; <a href="./魅魔.md" title="魅魔">魅魔</a> &#8226; <a href="./八云紫.md" title="八云紫">八云紫</a> &#8226; <a href="./见神铃鹿.md" title="见神铃鹿">见神铃鹿</a></div></td></tr></tbody></table><div></div></td><td class="navbox-image" style="" rowspan="13"><a href="./文件-東方落流星_～_The_Shattered_Sky.封面.jpg.md" class="image"><img alt="東方落流星 ～ The Shattered Sky.封面.jpg" src="https://upload.thwiki.cc/thumb/d/dd/%E6%9D%B1%E6%96%B9%E8%90%BD%E6%B5%81%E6%98%9F_%EF%BD%9E_The_Shattered_Sky.%E5%B0%81%E9%9D%A2.jpg/160px-%E6%9D%B1%E6%96%B9%E8%90%BD%E6%B5%81%E6%98%9F_%EF%BD%9E_The_Shattered_Sky.%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="160" height="160" srcset="https://upload.thwiki.cc/thumb/d/dd/%E6%9D%B1%E6%96%B9%E8%90%BD%E6%B5%81%E6%98%9F_%EF%BD%9E_The_Shattered_Sky.%E5%B0%81%E9%9D%A2.jpg/240px-%E6%9D%B1%E6%96%B9%E8%90%BD%E6%B5%81%E6%98%9F_%EF%BD%9E_The_Shattered_Sky.%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/d/dd/%E6%9D%B1%E6%96%B9%E8%90%BD%E6%B5%81%E6%98%9F_%EF%BD%9E_The_Shattered_Sky.%E5%B0%81%E9%9D%A2.jpg/320px-%E6%9D%B1%E6%96%B9%E8%90%BD%E6%B5%81%E6%98%9F_%EF%BD%9E_The_Shattered_Sky.%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="600" data-file-height="600"></a></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="./東方落流星_～_The_Shattered_Sky.-设定与剧情.md" title="東方落流星 ～ The Shattered Sky./设定与剧情" unred="">剧情</a></td><td style=";;" class="navbox-list navbox-even"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>剧情文本</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./東方落流星_～_The_Shattered_Sky.-设定与剧情.md" title="東方落流星 ～ The Shattered Sky./设定与剧情" unred="">故事背景</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>游戏对话&amp;结局</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./東方落流星_～_The_Shattered_Sky.-设定与剧情-博丽灵梦.md" title="東方落流星 ～ The Shattered Sky./设定与剧情/博丽灵梦" unred="">博丽灵梦</a> &#8226; <a href="./東方落流星_～_The_Shattered_Sky.-设定与剧情-雾雨魔理沙.md" title="東方落流星 ～ The Shattered Sky./设定与剧情/雾雨魔理沙" unred="">雾雨魔理沙</a> &#8226; <a href="./東方落流星_～_The_Shattered_Sky.-设定与剧情-东风谷早苗.md" title="東方落流星 ～ The Shattered Sky./设定与剧情/东风谷早苗" unred="">东风谷早苗</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>EX游戏对话</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./東方落流星_～_The_Shattered_Sky.-设定与剧情-博丽灵梦EX.md" title="東方落流星 ～ The Shattered Sky./设定与剧情/博丽灵梦EX" unred="">博丽灵梦</a> &#8226; <a href="./東方落流星_～_The_Shattered_Sky.-设定与剧情-雾雨魔理沙EX.md" title="東方落流星 ～ The Shattered Sky./设定与剧情/雾雨魔理沙EX" unred="">雾雨魔理沙</a> &#8226; <a href="./東方落流星_～_The_Shattered_Sky.-设定与剧情-东风谷早苗EX.md" title="東方落流星 ～ The Shattered Sky./设定与剧情/东风谷早苗EX" unred="">东风谷早苗</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>PH游戏对话</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./東方落流星_～_The_Shattered_Sky.-设定与剧情-博丽灵梦PH.md" title="東方落流星 ～ The Shattered Sky./设定与剧情/博丽灵梦PH" unred="">博丽灵梦</a> &#8226; <a href="./東方落流星_～_The_Shattered_Sky.-设定与剧情-雾雨魔理沙PH.md" title="東方落流星 ～ The Shattered Sky./设定与剧情/雾雨魔理沙PH" unred="">雾雨魔理沙</a> &#8226; <a href="./東方落流星_～_The_Shattered_Sky.-设定与剧情-东风谷早苗PH.md" title="東方落流星 ～ The Shattered Sky./设定与剧情/东风谷早苗PH" unred="">东风谷早苗</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>Heaven游戏对话</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./東方落流星_～_The_Shattered_Sky.-设定与剧情-博丽灵梦Heaven.md" title="東方落流星 ～ The Shattered Sky./设定与剧情/博丽灵梦Heaven" unred="">博丽灵梦</a> &#8226; <a href="./東方落流星_～_The_Shattered_Sky.-设定与剧情-雾雨魔理沙Heaven.md" title="東方落流星 ～ The Shattered Sky./设定与剧情/雾雨魔理沙Heaven" unred="">雾雨魔理沙</a> &#8226; <a href="./東方落流星_～_The_Shattered_Sky.-设定与剧情-东风谷早苗Heaven.md" title="東方落流星 ～ The Shattered Sky./设定与剧情/东风谷早苗Heaven" unred="">东风谷早苗</a></div></td></tr></tbody></table><div></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">场景</td><td style=";;" class="navbox-list navbox-odd"><div><a href="./博丽神社.md" title="博丽神社">博丽神社</a> &#8226; <a href="./迷途竹林.md" title="迷途竹林">迷路竹林</a> &#8226; <a href="./永远亭.md" title="永远亭">永远亭附近的花园</a> &#8226; <a href="./幻想乡上空.md" title="幻想乡上空">幻想乡上空</a> &#8226; 外太空 &#8226; 流星内部 &#8226; <a href="./獣道.md" title="獣道" unred="">通向人类村落的小路</a> &#8226; 异次元</div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">音乐</td><td style=";;" class="navbox-list navbox-even"><div><a href="./東方落流星_～_The_Shattered_Sky.-音乐.md" title="東方落流星 ～ The Shattered Sky./音乐" unred="">Music Room</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="./東方落流星_～_The_Shattered_Sky.-设定与剧情.md" title="東方落流星 ～ The Shattered Sky./设定与剧情" unred="">附带文档</a></td><td style=";;" class="navbox-list navbox-odd"><div><a href="/index.php?title=%E6%9D%B1%E6%96%B9%E8%90%BD%E6%B5%81%E6%98%9F_%EF%BD%9E_The_Shattered_Sky/%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85/readme&amp;action=edit&amp;redlink=1" class="new" title="東方落流星 ～ The Shattered Sky/设定与剧情/readme（页面不存在）">Readme</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="/index.php?title=%E6%9D%B1%E6%96%B9%E8%90%BD%E6%B5%81%E6%98%9F_%EF%BD%9E_The_Shattered_Sky/%E7%B3%BB%E7%BB%9F&amp;action=edit&amp;redlink=1" class="new" title="東方落流星 ～ The Shattered Sky/系统（页面不存在）">系统</a></td><td style=";;" class="navbox-list navbox-even"><div><a href="/index.php?title=%E6%9D%B1%E6%96%B9%E8%90%BD%E6%B5%81%E6%98%9F_%EF%BD%9E_The_Shattered_Sky/%E7%B3%BB%E7%BB%9F&amp;action=edit&amp;redlink=1" class="new" title="東方落流星 ～ The Shattered Sky/系统（页面不存在）">系统</a> &#8226; <a href="/index.php?title=%E6%9D%B1%E6%96%B9%E8%90%BD%E6%B5%81%E6%98%9F_%EF%BD%9E_The_Shattered_Sky/%E5%85%B6%E4%BB%96&amp;action=edit&amp;redlink=1" class="new" title="東方落流星 ～ The Shattered Sky/其他（页面不存在）">其他资料</a> &#8226; <a href="./東方落流星_～_The_Shattered_Sky.-符卡.md" title="東方落流星 ～ The Shattered Sky./符卡" unred="">符卡</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="/index.php?title=Team_Dreamcatcher&amp;action=edit&amp;redlink=1" class="new" title="Team Dreamcatcher（页面不存在）">团队作品</a></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./東方落流星_～_The_Shattered_Sky..md" title="東方落流星 ～ The Shattered Sky.">東方落流星 ～ The Shattered Sky.</a> &#8226; <a href="./東方催狐譚_～_Servants_of_Harvest_Wish..md" title="東方催狐譚 ～ Servants of Harvest Wish.">東方催狐譚 ～ Servants of Harvest Wish.</a></div></td></tr></tbody></table></td></tr></tbody></table>
-
-
-
-
-
+[^cite_note-2]: 指世界各地普遍出现的“洪水神话”，如《圣经》中毁灭世界的大洪水。
+[^cite_note-3]: 指1839年11月25日发生在印度港口城市科林加（Coringa）的飓风灾难，该城市被完全摧毁。
+[^cite_note-4]: 古代的一种观念，认为世界由四大基本元素“水风土火”构成。
+[^cite_note-5]: 捏他东方红魔乡蕾米莉亚·斯卡雷特使用的符卡[天罚「Star of David」](./Star_of_David.md)（大卫之星）。
+[^cite_note-6]: 捏他东方妖妖梦西行寺幽幽子使用的符卡[「反魂蝶」](./反魂蝶.md)。
+[^cite_note-7]: 捏他东方永夜抄蓬莱山辉夜使用的符卡“神宝”系列。
+[^cite_note-8]: 捏他东方花映冢四季映姬·亚玛萨那度。
+[^cite_note-9]: 捏他东方风神录八坂神奈子使用的符卡[「Mountain of Faith」](./Mountain_of_Faith.md)（信仰之山）。
+[^cite_note-10]: 捏他东方地灵殿灵乌路空使用的符卡[核热「Nuclear Fusion」](./Nuclear_Fusion.md)（核聚变）。
+[^cite_note-11]: 捏他东方星莲船圣白莲使用的三张符卡：[魔法「紫云之兆」](./紫云之兆.md)；[魔法「Magic Butterfly」](./魔界蝶之妖香.md)（魔法之蝶）；[光魔「魔法银河系」](./Star_Maelstrom.md)。
+[^cite_note-12]: 捏他东方神灵庙丰聪耳神子使用的符卡[眼光「十七条的光芒」](./十七条的光芒.md)。
+[^cite_note-13]: 捏他东方辉针城少名针妙丸使用的符卡[妖剑「辉针剑」](./辉针剑.md)。
+[^cite_note-14]: 捏他东方绀珠传纯狐的主题曲[Pure Furies　～ 心之所在](./Pure_Furies_～_心之所在.md)。
+[^cite_note-15]: 捏他博丽灵梦。
+[^cite_note-16]: 捏他雾雨魔理沙。
+[^cite_note-17]: 符卡样式捏他了红魔乡至绀珠传每一作ex与ph的时符，包括芙兰朵露的[秘弹「之后就一个人都没有了吗？」](./之后就一个人都没有了吗？.md)，八云蓝的[「狐狗狸先生的契约」](./狐狗狸先生的契约.md)，藤原妹红的[「Possessed by Phoenix」](./Possessed_by_Phoenix.md)，洩矢诹访子的[土著神「宝永四年的赤蛙」](./宝永四年的赤蛙.md)与[「诹访大战 ～ 土著神话 vs 中央神话」](./诹访大战_～_土著神话_vs_中央神话.md),古明地恋的[「被厌恶者的哲学」](./被厌恶者的哲学.md)，封兽鵺的[「平安京的恶梦」](./平安京的恶梦.md)，二岩猯藏的[「猯藏化弹幕十变化」](./猯藏化弹幕十变化.md)，堀川雷鼓的[「Blue Lady Show」](./Blue_Lady_Show.md)与赫卡提亚的[「Trinitarian Rhapsody」](./Trinitarian_Rhapsody.md)。
+[^cite_note-18]: 出自拉丁语基督教祈祷文，“Homo”和“Deus”分别是拉丁语中的“人”和“神”。
+[^cite_note-19]: 捏他《六兆年零一夜物语》。
 
 ---
 

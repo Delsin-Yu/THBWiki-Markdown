@@ -1,6 +1,6 @@
 # 文件:ReStart&面妖にユートピア封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2f\ns6%3AReStart%26%E9%9D%A2%E5%A6%96%E3%81%AB%E3%83%A6%E3%83%BC%E3%83%88%E3%83%94%E3%82%A2%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2f\ns6%3AReStart%26%E9%9D%A2%E5%A6%96%E3%81%AB%E3%83%A6%E3%83%BC%E3%83%88%E3%83%94%E3%82%A2%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 少女フラクタル | 幽闭星光
 
@@ -8,10 +8,7 @@
 使用了本文件作封面图片的作品：
   
 
-- [ReStart&amp;面妖にユートピア](./ReStart&面妖にユートピア.md)
-
-
-
+- [ReStart&面妖にユートピア](./ReStart&面妖にユートピア.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:最凶最悪姉妹re-collect!!封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b5\ns6%3A%E6%9C%80%E5%87%B6%E6%9C%80%E6%82%AA%E5%A7%89%E5%A6%B9re-collect%21%21%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b5\ns6%3A%E6%9C%80%E5%87%B6%E6%9C%80%E6%82%AA%E5%A7%89%E5%A6%B9re-collect%21%21%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 同人志封面 | 型K式 | 封面图片
 
@@ -10,11 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [最凶最悪姉妹re-collect!!](./最凶最悪姉妹re-collect!!.md)  
-该封面包含的角色：- [梦月](./梦月.md)- [幻月](./幻月.md)- [依神女苑](./依神女苑.md)- [依神紫苑](./依神紫苑.md)
-
-
-
+- [最凶最悪姉妹re-collect!!](./最凶最悪姉妹re-collect!!.md)该封面包含的角色：
+- [梦月](./梦月.md)
+- [幻月](./幻月.md)
+- [依神女苑](./依神女苑.md)
+- [依神紫苑](./依神紫苑.md)
 
 
 ---

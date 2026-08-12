@@ -1,6 +1,6 @@
 # 文件:Relax_Cafe_for_Work_-_＃3.Shinreibyou_-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2f\ns6%3ARelax_Cafe_for_Work_-_%EF%BC%833%2EShinreibyou_-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2f\ns6%3ARelax_Cafe_for_Work_-_%EF%BC%833%2EShinreibyou_-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 DDBY | 专辑封面 | 封面图片
 
@@ -10,11 +10,9 @@ DDBY | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Relax Cafe for Work - ＃3.Shinreibyou -](./Relax_Cafe_for_Work_-_＃3.Shinreibyou_-.md)  
-该封面包含的角色：- [苏我屠自古](./苏我屠自古.md)- [丰聪耳神子](./丰聪耳神子.md)
-
-
-
+- [Relax Cafe for Work - ＃3.Shinreibyou -](./Relax_Cafe_for_Work_-_＃3.Shinreibyou_-.md)该封面包含的角色：
+- [苏我屠自古](./苏我屠自古.md)
+- [丰聪耳神子](./丰聪耳神子.md)
 
 
 ---

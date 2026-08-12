@@ -1,12 +1,8 @@
 # 文件:あめいもbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\05\ns6%3A%E3%81%82%E3%82%81%E3%81%84%E3%82%82banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\05\ns6%3A%E3%81%82%E3%82%81%E3%81%84%E3%82%82banner%2Ejpg.html -->
 
 あめいも | 社团LOGO
-
-
-
-
 
 
 ---

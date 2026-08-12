@@ -1,16 +1,12 @@
 # 文件:東方元素印象logo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8a\ns6%3A%E6%9D%B1%E6%96%B9%E5%85%83%E7%B4%A0%E5%8D%B0%E8%B1%A1logo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8a\ns6%3A%E6%9D%B1%E6%96%B9%E5%85%83%E7%B4%A0%E5%8D%B0%E8%B1%A1logo%2Ejpg.html -->
 
 東方元素印象 | 社团LOGO
 
   
 東方元素印象社团logo
   
-
-
-
-
 
 ---
 

@@ -1,12 +1,8 @@
 # 文件:zun_-_夜の鳩山を飛ぶ.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fa\ns6%3Azun_-_%E5%A4%9C%E3%81%AE%E9%B3%A9%E5%B1%B1%E3%82%92%E9%A3%9B%E3%81%B6%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fa\ns6%3Azun_-_%E5%A4%9C%E3%81%AE%E9%B3%A9%E5%B1%B1%E3%82%92%E9%A3%9B%E3%81%B6%2Emp3.html -->
 
 原曲MP3 | 秋霜玉 | 飞翔在夜晚的鸠山
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:秘封サウンドスケープ集Ｉ_Phantasma_Color_of_Ghostly_Field封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b8\ns6%3A%E7%A7%98%E5%B0%81%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%82%B9%E3%82%B1%E3%83%BC%E3%83%97%E9%9B%86%EF%BC%A9_Phantasma_Color_of_Ghostly_Field%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b8\ns6%3A%E7%A7%98%E5%B0%81%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%82%B9%E3%82%B1%E3%83%BC%E3%83%97%E9%9B%86%EF%BC%A9_Phantasma_Color_of_Ghostly_Field%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ごんばこんなか | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [秘封サウンドスケープ集Ｉ Phantasma Color of Ghostly Field](./秘封サウンドスケープ集Ｉ_Phantasma_Color_of_Ghostly_Field.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [秘封サウンドスケープ集Ｉ Phantasma Color of Ghostly Field](./秘封サウンドスケープ集Ｉ_Phantasma_Color_of_Ghostly_Field.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 东方文花帖DS/其他
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\2e\ns0%3A%E4%B8%9C%E6%96%B9%E6%96%87%E8%8A%B1%E5%B8%96DS%2F%E5%85%B6%E4%BB%96.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\2e\ns0%3A%E4%B8%9C%E6%96%B9%E6%96%87%E8%8A%B1%E5%B8%96DS%2F%E5%85%B6%E4%BB%96.html -->
 
 东方文花帖DS
 
@@ -11,16 +11,11 @@
 - [2 游戏内滚动按键说明](#游戏内滚动按键说明)
 - [3 Game Over界面提示文字](#Game_Over界面提示文字)
 - [4 ED和Staff](#ED和Staff)
-
   - [4.1 姬海棠果机体解锁](#姬海棠果机体解锁)
   - [4.2 全场景通关](#全场景通关)
 
 
-
 - [5 其他细节](#其他细节)
-
-
-
 
 
 ## 游戏内标题及说明文字
@@ -84,7 +79,6 @@
 </td></tr></tbody></table>
 
 
-
 ## 游戏内滚动按键说明
 
 <table>
@@ -119,7 +113,6 @@
 <td><center>暂停键或[C]键 切换角色</center></td>
 <td><center>ポーズボタンor[C]キー キャラ切り替え</center>
 </td></tr></tbody></table>
-
 
 
 ## Game Over界面提示文字
@@ -276,15 +269,14 @@
 </td></tr></tbody></table>
 
 
-
 ## ED和Staff
 
 ### 姬海棠果机体解锁
 
-- <font color="Red"> **剧透提示:  *以下内容包含详细故事情节，请自行决定是否继续阅读* ** </font>
+- <font color="Red">**剧透提示: *以下内容包含详细故事情节，请自行决定是否继续阅读***</font>
 
-[](./文件-东方文花帖DS解锁姬海棠果机体画面.png.md)  [](./文件-东方文花帖DS解锁姬海棠果机体画面.png.md)解锁姬海棠果机体画面
-
+<img alt="" src="https://upload.thwiki.cc/thumb/5/51/%E4%B8%9C%E6%96%B9%E6%96%87%E8%8A%B1%E5%B8%96DS%E8%A7%A3%E9%94%81%E5%A7%AC%E6%B5%B7%E6%A3%A0%E6%9E%9C%E6%9C%BA%E4%BD%93%E7%94%BB%E9%9D%A2.png/300px-%E4%B8%9C%E6%96%B9%E6%96%87%E8%8A%B1%E5%B8%96DS%E8%A7%A3%E9%94%81%E5%A7%AC%E6%B5%B7%E6%A3%A0%E6%9E%9C%E6%9C%BA%E4%BD%93%E7%94%BB%E9%9D%A2.png" decoding="async" loading="lazy" width="300" height="225" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/5/51/%E4%B8%9C%E6%96%B9%E6%96%87%E8%8A%B1%E5%B8%96DS%E8%A7%A3%E9%94%81%E5%A7%AC%E6%B5%B7%E6%A3%A0%E6%9E%9C%E6%9C%BA%E4%BD%93%E7%94%BB%E9%9D%A2.png/450px-%E4%B8%9C%E6%96%B9%E6%96%87%E8%8A%B1%E5%B8%96DS%E8%A7%A3%E9%94%81%E5%A7%AC%E6%B5%B7%E6%A3%A0%E6%9E%9C%E6%9C%BA%E4%BD%93%E7%94%BB%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/5/51/%E4%B8%9C%E6%96%B9%E6%96%87%E8%8A%B1%E5%B8%96DS%E8%A7%A3%E9%94%81%E5%A7%AC%E6%B5%B7%E6%A3%A0%E6%9E%9C%E6%9C%BA%E4%BD%93%E7%94%BB%E9%9D%A2.png/600px-%E4%B8%9C%E6%96%B9%E6%96%87%E8%8A%B1%E5%B8%96DS%E8%A7%A3%E9%94%81%E5%A7%AC%E6%B5%B7%E6%A3%A0%E6%9E%9C%E6%9C%BA%E4%BD%93%E7%94%BB%E9%9D%A2.png 2x" data-file-width="640" data-file-height="480">
+ [放大](./文件-东方文花帖DS解锁姬海棠果机体画面.png.md)解锁姬海棠果机体画面
 <table>
 <tbody><tr> 
 <th> 中文 </th><th> 日文 </th></tr>
@@ -303,14 +295,12 @@
 </tbody></table>
 
 
-
-
 ### 全场景通关
 
-- <font color="Red"> **剧透提示:  *以下内容包含详细故事情节，请自行决定是否继续阅读* ** </font>
+- <font color="Red">**剧透提示: *以下内容包含详细故事情节，请自行决定是否继续阅读***</font>
 
-[](./文件-东方文花帖DS全机体通关画面.png.md)  [](./文件-东方文花帖DS全机体通关画面.png.md)全机体通关画面
-
+<img alt="" src="https://upload.thwiki.cc/thumb/4/4a/%E4%B8%9C%E6%96%B9%E6%96%87%E8%8A%B1%E5%B8%96DS%E5%85%A8%E6%9C%BA%E4%BD%93%E9%80%9A%E5%85%B3%E7%94%BB%E9%9D%A2.png/300px-%E4%B8%9C%E6%96%B9%E6%96%87%E8%8A%B1%E5%B8%96DS%E5%85%A8%E6%9C%BA%E4%BD%93%E9%80%9A%E5%85%B3%E7%94%BB%E9%9D%A2.png" decoding="async" loading="lazy" width="300" height="225" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/4/4a/%E4%B8%9C%E6%96%B9%E6%96%87%E8%8A%B1%E5%B8%96DS%E5%85%A8%E6%9C%BA%E4%BD%93%E9%80%9A%E5%85%B3%E7%94%BB%E9%9D%A2.png/450px-%E4%B8%9C%E6%96%B9%E6%96%87%E8%8A%B1%E5%B8%96DS%E5%85%A8%E6%9C%BA%E4%BD%93%E9%80%9A%E5%85%B3%E7%94%BB%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/4/4a/%E4%B8%9C%E6%96%B9%E6%96%87%E8%8A%B1%E5%B8%96DS%E5%85%A8%E6%9C%BA%E4%BD%93%E9%80%9A%E5%85%B3%E7%94%BB%E9%9D%A2.png/600px-%E4%B8%9C%E6%96%B9%E6%96%87%E8%8A%B1%E5%B8%96DS%E5%85%A8%E6%9C%BA%E4%BD%93%E9%80%9A%E5%85%B3%E7%94%BB%E9%9D%A2.png 2x" data-file-width="640" data-file-height="480">
+ [放大](./文件-东方文花帖DS全机体通关画面.png.md)全机体通关画面
 <table>
 <tbody><tr> 
 <th> 中文 </th><th> 日文 </th></tr>
@@ -329,12 +319,7 @@
 </tbody></table>
 
 
-
-
 ## 其他细节
-
-
-
 
 ---
 

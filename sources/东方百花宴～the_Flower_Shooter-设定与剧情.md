@@ -1,23 +1,23 @@
 # 东方百花宴～the_Flower_Shooter/设定与剧情
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\61\ns0%3A%E4%B8%9C%E6%96%B9%E7%99%BE%E8%8A%B1%E5%AE%B4%EF%BD%9Ethe_Flower_Shooter%2F%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\61\ns0%3A%E4%B8%9C%E6%96%B9%E7%99%BE%E8%8A%B1%E5%AE%B4%EF%BD%9Ethe_Flower_Shooter%2F%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85.html -->
 
 SlimeSmile
 
 
 ## 附带文档
+
 - [readme](./东方百花宴～the_Flower_Shooter-设定与剧情-readme.md)
 
 
 ## 故事背景
+
 - [故事背景](./东方百花宴～the_Flower_Shooter-设定与剧情-故事背景.md)
 
 
 ## 游戏对话
+
 - [射命丸文 游戏对话/结局](./东方百花宴～the_Flower_Shooter-设定与剧情-射命丸文.md)
-
-
-
 
 
 ---

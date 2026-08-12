@@ -1,14 +1,11 @@
 # 文件:ELECTRIC_REDbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fb\ns6%3AELECTRIC_REDbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fb\ns6%3AELECTRIC_REDbanner%2Ejpg.html -->
 
 ELECTRIC_RED | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

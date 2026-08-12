@@ -1,6 +1,6 @@
 # 文件:地獄DEごはん！封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7a\ns6%3A%E5%9C%B0%E7%8D%84DE%E3%81%94%E3%81%AF%E3%82%93%EF%BC%81%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7a\ns6%3A%E5%9C%B0%E7%8D%84DE%E3%81%94%E3%81%AF%E3%82%93%EF%BC%81%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 CRiMary | 同人志封面 | 封面图片
 
@@ -10,16 +10,13 @@ CRiMary | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [地獄DEごはん！](./地獄DEごはん！.md)  
-该封面包含的角色：- [依神女苑](./依神女苑.md)- [依神紫苑](./依神紫苑.md)- [饕餮尤魔](./饕餮尤魔.md)
+- [地獄DEごはん！](./地獄DEごはん！.md)该封面包含的角色：
+- [依神女苑](./依神女苑.md)
+- [依神紫苑](./依神紫苑.md)
+- [饕餮尤魔](./饕餮尤魔.md)
 
   
-源地址：[direct image link (original size)](https://pbs.twimg.com/media/FRrVaPQVkAAvvOb?format=jpg&amp;name=orig), [source tweet](https://twitter.com/hagiri/status/1520763923019878401)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://pbs.twimg.com/media/FRrVaPQVkAAvvOb?format=jpg&name=orig), [source tweet](https://twitter.com/hagiri/status/1520763923019878401)  
 
 ---
 

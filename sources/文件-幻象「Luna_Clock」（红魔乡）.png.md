@@ -1,12 +1,8 @@
 # 文件:幻象「Luna_Clock」（红魔乡）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\23\ns6%3A%E5%B9%BB%E8%B1%A1%E3%80%8CLuna_Clock%E3%80%8D%EF%BC%88%E7%BA%A2%E9%AD%94%E4%B9%A1%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\23\ns6%3A%E5%B9%BB%E8%B1%A1%E3%80%8CLuna_Clock%E3%80%8D%EF%BC%88%E7%BA%A2%E9%AD%94%E4%B9%A1%EF%BC%89%2Epng.html -->
 
 东方红魔乡 | 十六夜咲夜 | 敌机符卡
-
-
-
-
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:DPSの奴隷達banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f0\ns6%3ADPS%E3%81%AE%E5%A5%B4%E9%9A%B7%E9%81%94banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f0\ns6%3ADPS%E3%81%AE%E5%A5%B4%E9%9A%B7%E9%81%94banner%2Egif.html -->
 
 DPSの奴隷達 | 社团LOGO
-
-
-
-
 
 
 ---

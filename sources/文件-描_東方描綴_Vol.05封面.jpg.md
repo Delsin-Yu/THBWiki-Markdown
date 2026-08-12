@@ -1,6 +1,6 @@
 # 文件:描_東方描綴_Vol.05封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7e\ns6%3A%E6%8F%8F_%E6%9D%B1%E6%96%B9%E6%8F%8F%E7%B6%B4_Vol%2E05%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7e\ns6%3A%E6%8F%8F_%E6%9D%B1%E6%96%B9%E6%8F%8F%E7%B6%B4_Vol%2E05%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 SWAY_WIND | 同人志封面 | 封面图片
 
@@ -10,16 +10,15 @@ SWAY_WIND | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [描 東方描綴 Vol.05](./描_東方描綴_Vol.05.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)- [魂魄妖梦](./魂魄妖梦.md)- [蓬莱山辉夜](./蓬莱山辉夜.md)- [雾雨魔理沙](./雾雨魔理沙.md)
+- [描 東方描綴 Vol.05](./描_東方描綴_Vol.05.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
+- [魂魄妖梦](./魂魄妖梦.md)
+- [蓬莱山辉夜](./蓬莱山辉夜.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-源地址：[[1]](http://xel.skr.jp/tokiame/swaywp/wp-content/uploads/2011/12/C81_hyousi.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://xel.skr.jp/tokiame/swaywp/wp-content/uploads/2011/12/C81_hyousi.jpg)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:非統一宇宙探訪_～_the_23rd_Century_Maidens.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c1\ns6%3A%E9%9D%9E%E7%B5%B1%E4%B8%80%E5%AE%87%E5%AE%99%E6%8E%A2%E8%A8%AA_%EF%BD%9E_the_23rd_Century_Maidens%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c1\ns6%3A%E9%9D%9E%E7%B5%B1%E4%B8%80%E5%AE%87%E5%AE%99%E6%8E%A2%E8%A8%AA_%EF%BD%9E_the_23rd_Century_Maidens%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ここから先、34小節目。 | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [非統一宇宙探訪 ～ the 23rd Century Maidens.](./非統一宇宙探訪_～_the_23rd_Century_Maidens..md)  
-该封面包含的角色：- [冈崎梦美](./冈崎梦美.md)- [北白河千百合](./北白河千百合.md)
-
-
-
+- [非統一宇宙探訪 ～ the 23rd Century Maidens.](./非統一宇宙探訪_～_the_23rd_Century_Maidens..md)该封面包含的角色：
+- [冈崎梦美](./冈崎梦美.md)
+- [北白河千百合](./北白河千百合.md)
 
 
 ---

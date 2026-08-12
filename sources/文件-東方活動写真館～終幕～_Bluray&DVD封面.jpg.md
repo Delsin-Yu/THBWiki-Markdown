@@ -1,6 +1,6 @@
 # 文件:東方活動写真館～終幕～_Bluray&DVD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\71\ns6%3A%E6%9D%B1%E6%96%B9%E6%B4%BB%E5%8B%95%E5%86%99%E7%9C%9F%E9%A4%A8%EF%BD%9E%E7%B5%82%E5%B9%95%EF%BD%9E_Bluray%26DVD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\71\ns6%3A%E6%9D%B1%E6%96%B9%E6%B4%BB%E5%8B%95%E5%86%99%E7%9C%9F%E9%A4%A8%EF%BD%9E%E7%B5%82%E5%B9%95%EF%BD%9E_Bluray%26DVD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 封面图片 | 東方活動写真館 | 视频封面
 
@@ -8,11 +8,15 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方活動写真館～終幕～ Bluray&amp;DVD](./東方活動写真館～終幕～_Bluray&DVD.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- 十六夜咲夜 (未找到链接)- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [魂魄妖梦](./魂魄妖梦.md)- [八云紫](./八云紫.md)- [风见幽香](./风见幽香.md)- [犬走椛](./犬走椛.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [東方活動写真館～終幕～ Bluray&DVD](./東方活動写真館～終幕～_Bluray&DVD.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [十六夜咲夜](./十六夜咲夜.md)
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [魂魄妖梦](./魂魄妖梦.md)
+- [八云紫](./八云紫.md)
+- [风见幽香](./风见幽香.md)
+- [犬走椛](./犬走椛.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

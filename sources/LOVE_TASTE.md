@@ -1,21 +1,19 @@
 # LOVE_TASTE
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\2a\ns0%3ALOVE_TASTE.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\2a\ns0%3ALOVE_TASTE.html -->
 
 2023年5月7日 由 ふたばなみ缶 于 博丽神社例大祭20 发布的漫画/画集/合同志同人志，B5尺寸一共144页，登场人物有 键山雏，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人志 (未找到链接)** 的词条
-
+**[二次创作同人志](./二次创作.md#同人志)**的词条
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-LOVE_TASTE封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/7/7d/LOVE_TASTE%E5%B0%81%E9%9D%A2.jpg/157px-LOVE_TASTE%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="157" height="224" srcset="https://upload.thwiki.cc/thumb/7/7d/LOVE_TASTE%E5%B0%81%E9%9D%A2.jpg/236px-LOVE_TASTE%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/7/7d/LOVE_TASTE%E5%B0%81%E9%9D%A2.jpg/315px-LOVE_TASTE%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1440" data-file-height="2048"></a><div class="cover-char">角色：<a href="./键山雏.md" title="键山雏">键山雏</a></div></td>
 </tr><tr><td class="label">名称</td><td colspan="2"> LOVE TASTE </td></tr><tr><td class="label">制作方</td><td><a href="./ふたばなみ缶.md" title="ふたばなみ缶">ふたばなみ缶</a></td><td class="cover-artwork" rowspan="8" style="min-width:224px;"><a href="./文件-LOVE_TASTE封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/7/7d/LOVE_TASTE%E5%B0%81%E9%9D%A2.jpg/157px-LOVE_TASTE%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="157" height="224" srcset="https://upload.thwiki.cc/thumb/7/7d/LOVE_TASTE%E5%B0%81%E9%9D%A2.jpg/236px-LOVE_TASTE%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/7/7d/LOVE_TASTE%E5%B0%81%E9%9D%A2.jpg/315px-LOVE_TASTE%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1440" data-file-height="2048"></a><div class="cover-char">角色：<a href="./键山雏.md" title="键山雏">键山雏</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2023-05-07&#160;（<a href="/展会作品列表?e=%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD%2320">第二十回 博麗神社例大祭</a>）</td></tr><tr><td class="label">类型</td><td>漫画，画集，合同志</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>B5</td></tr><tr><td class="label">页数</td><td>144P</td></tr><tr><td class="label">登场人物</td><td><a href="./键山雏.md" title="键山雏">键山雏</a></td></tr><tr><td class="label">售价</td><td>会场售价：2000日元</td></tr>
+</tr><tr><td class="label">首发日期</td><td>2023-05-07 （<a href="./展会作品列表.md#20">第二十回 博麗神社例大祭</a>）</td></tr><tr><td class="label">类型</td><td>漫画，画集，合同志</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>B5</td></tr><tr><td class="label">页数</td><td>144P</td></tr><tr><td class="label">登场人物</td><td><a href="./键山雏.md" title="键山雏">键山雏</a></td></tr><tr><td class="label">售价</td><td>会场售价：2000日元</td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/myan3891/status/1653318394144526337">https://twitter.com/myan3891/status/1653318394144526337</a></td></tr><tr><td class="label">备注</td><td colspan="2"><a rel="nofollow" class="external text" href="https://twipla.jp/events/540049">募集页面</a></td></tr></tbody></table>
 
 LOVE TASTE（同人志，ふたばなみ缶，2023） - 2023年5月7日 由 ふたばなみ缶 于 博丽神社例大祭20 发布的漫画/画集/合同志同人志，B5尺寸一共144页，登场人物有 键山雏，分级为 一般向
-
 ## 预览
 
 ## Staff
@@ -45,7 +43,7 @@ LOVE TASTE（同人志，ふたばなみ缶，2023） - 2023年5月7日 由 ふ�
 : 陣之内旭 （[Twitter: @jinnnouti_akira](https://twitter.com/jinnnouti_akira) / [Xfolio: jinnnouti](https://xfolio.jp/portfolio/jinnnouti)）
 : すおる01 （[Twitter: @suolu01](https://twitter.com/suolu01) / [Pixiv ID: 70029101](https://www.pixiv.net/users/70029101)）
 : ライトアス （[ガノデルマ](./ガノデルマ.md)）
-: 月海玖珠 （a.k.a.  **るーくす** ; 夢峰地帯研究所 (未找到链接) / [Twitter: @Lab_MuhouChitai](https://twitter.com/Lab_MuhouChitai) / [Instagram: @yuuki_s_7245](http://instagram.com/yuuki_s_7245/)）
+: 月海玖珠 （a.k.a. **るーくす**; 夢峰地帯研究所 (未找到链接) / [Twitter: @Lab_MuhouChitai](https://twitter.com/Lab_MuhouChitai) / [Instagram: @yuuki_s_7245](http://instagram.com/yuuki_s_7245/)）
 : [ロンサム常時](./ロンサム常時.md)
 : 少年ほげほげ （未熟な果実 (未找到链接) / [Twitter: @shounen_f](https://twitter.com/shounen_f) / [Pixiv ID: 1564512](https://www.pixiv.net/users/1564512)）
 : 宮間怜一 （雑貨堂クラリエ (未找到链接) / [Twitter: @310339380](https://twitter.com/310339380) / [Pixiv ID: 17112456](https://www.pixiv.net/users/17112456)）
@@ -59,11 +57,7 @@ LOVE TASTE（同人志，ふたばなみ缶，2023） - 2023年5月7日 由 ふ�
 : ろくねん （[Twitter: @6nen](https://twitter.com/6nen)）
 : かなたん （[牧草帝国](./牧草帝国.md)）
 
-
 ## 评论
-
-
-
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:LI＜A＞BERATION封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e0\ns6%3ALI%EF%BC%9CA%EF%BC%9EBERATION%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e0\ns6%3ALI%EF%BC%9CA%EF%BC%9EBERATION%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 弐維鏡像
 
@@ -10,16 +10,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [LI＜A＞BERATION](./LI＜A＞BERATION.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [东风谷早苗](./东风谷早苗.md)
+- [LI＜A＞BERATION](./LI＜A＞BERATION.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [东风谷早苗](./东风谷早苗.md)
 
   
-源地址：[[1]](https://imgsrc.baidu.com/forum/pic/item/65e63b87e950352a930cba025243fbf2b2118b64.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://imgsrc.baidu.com/forum/pic/item/65e63b87e950352a930cba025243fbf2b2118b64.jpg)  
 
 ---
 

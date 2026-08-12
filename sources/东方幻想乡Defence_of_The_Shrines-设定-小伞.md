@@ -1,6 +1,6 @@
 # 东方幻想乡Defence_of_The_Shrines/设定/小伞
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\f6\ns0%3A%E4%B8%9C%E6%96%B9%E5%B9%BB%E6%83%B3%E4%B9%A1Defence_of_The_Shrines%2F%E8%AE%BE%E5%AE%9A%2F%E5%B0%8F%E4%BC%9E.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\f6\ns0%3A%E4%B8%9C%E6%96%B9%E5%B9%BB%E6%83%B3%E4%B9%A1Defence_of_The_Shrines%2F%E8%AE%BE%E5%AE%9A%2F%E5%B0%8F%E4%BC%9E.html -->
 
 东方DOTS制作组
 
@@ -11,27 +11,23 @@
 多多良小伞
   
   
-[](./文件-THD-Kogasa.jpg.md)
+<img alt="THD-Kogasa.jpg" src="https://upload.thwiki.cc/d/db/THD-Kogasa.jpg" decoding="async" loading="lazy" width="416" height="131" data-file-width="416" data-file-height="131">
   
   
-[](./文件-THD-Kogasae.jpg.md)
+<img alt="THD-Kogasae.jpg" src="https://upload.thwiki.cc/0/0e/THD-Kogasae.jpg" decoding="async" loading="lazy" width="445" height="78" data-file-width="445" data-file-height="78">
   
   
-[](./文件-THD-Kogasad.jpg.md)
+<img alt="THD-Kogasad.jpg" src="https://upload.thwiki.cc/c/ce/THD-Kogasad.jpg" decoding="async" loading="lazy" width="444" height="178" data-file-width="444" data-file-height="178">
   
   
-[](./文件-THD-Kogasaf.jpg.md)
+<img alt="THD-Kogasaf.jpg" src="https://upload.thwiki.cc/e/e6/THD-Kogasaf.jpg" decoding="async" loading="lazy" width="444" height="216" data-file-width="444" data-file-height="216">
   
   
-[](./文件-THD-Kogasar.jpg.md)
+<img alt="THD-Kogasar.jpg" src="https://upload.thwiki.cc/7/70/THD-Kogasar.jpg" decoding="async" loading="lazy" width="440" height="218" data-file-width="440" data-file-height="218">
   
   
-[](./文件-THD-Kogasaw.jpg.md)
+<img alt="THD-Kogasaw.jpg" src="https://upload.thwiki.cc/5/58/THD-Kogasaw.jpg" decoding="async" loading="lazy" width="450" height="247" data-file-width="450" data-file-height="247">
   
-
-
-
-
 
 ---
 

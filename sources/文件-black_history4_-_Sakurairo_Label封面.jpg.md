@@ -1,6 +1,6 @@
 # 文件:black_history4_-_Sakurairo_Label封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ca\ns6%3Ablack_history4_-_Sakurairo_Label%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ca\ns6%3Ablack_history4_-_Sakurairo_Label%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Saikoro_Club_Network | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Saikoro_Club_Network | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [black history4 - Sakurairo Label](./black_history4_-_Sakurairo_Label.md)  
-该封面包含的角色：- [西行寺幽幽子](./西行寺幽幽子.md)
-
-
-
+- [black history4 - Sakurairo Label](./black_history4_-_Sakurairo_Label.md)该封面包含的角色：
+- [西行寺幽幽子](./西行寺幽幽子.md)
 
 
 ---

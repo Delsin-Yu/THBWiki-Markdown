@@ -1,12 +1,8 @@
 # 文件:六鼓「Alternate_Sticking」（辉针城）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\03\ns6%3A%E5%85%AD%E9%BC%93%E3%80%8CAlternate_Sticking%E3%80%8D%EF%BC%88%E8%BE%89%E9%92%88%E5%9F%8E%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\03\ns6%3A%E5%85%AD%E9%BC%93%E3%80%8CAlternate_Sticking%E3%80%8D%EF%BC%88%E8%BE%89%E9%92%88%E5%9F%8E%EF%BC%89%2Ejpg.html -->
 
 东方辉针城 | 堀川雷鼓 | 敌机符卡
-
-
-
-
 
 
 ---

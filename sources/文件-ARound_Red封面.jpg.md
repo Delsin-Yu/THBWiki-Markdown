@@ -1,6 +1,6 @@
 # 文件:ARound_Red封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\59\ns6%3AARound_Red%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\59\ns6%3AARound_Red%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Go_A_Round | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Go_A_Round | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [ARound Red](./ARound_Red.md)  
-该封面包含的角色：- [灵乌路空](./灵乌路空.md)
-
-
-
+- [ARound Red](./ARound_Red.md)该封面包含的角色：
+- [灵乌路空](./灵乌路空.md)
 
 
 ---

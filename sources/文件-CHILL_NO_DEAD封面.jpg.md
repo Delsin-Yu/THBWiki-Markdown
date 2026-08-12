@@ -1,6 +1,6 @@
 # 文件:CHILL_NO_DEAD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\73\ns6%3ACHILL_NO_DEAD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\73\ns6%3ACHILL_NO_DEAD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Cafe_MounTAIN_ToNe | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ Cafe_MounTAIN_ToNe | 专辑封面 | 封面图片
   
 
 - [CHILL NO DEAD](./CHILL_NO_DEAD.md)
-
-
-
 
 
 ---

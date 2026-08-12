@@ -1,6 +1,6 @@
 # 文件:Joker封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\26\ns6%3AJoker%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\26\ns6%3AJoker%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ほりごたつ | 同人志封面 | 封面图片
 
@@ -10,19 +10,14 @@
 使用了本文件作封面图片的作品：
   
 
-- [Joker](./Joker.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [Joker](./Joker.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
   
-[Danbooru ID: 229180 (original size)](https://danbooru.donmai.us/posts/229180)
+[Danbooru ID: 229180 (original size)](https://danbooru.donmai.us/posts/229180)  
   
-  
-Suru for reference: [https://www.suruga-ya.jp/product/detail/ZHORE47780](https://www.suruga-ya.jp/product/detail/ZHORE47780)
-  
-
-
-
-
+Suru for reference: [https://www.suruga-ya.jp/product/detail/ZHORE47780](https://www.suruga-ya.jp/product/detail/ZHORE47780)  
 
 ---
 

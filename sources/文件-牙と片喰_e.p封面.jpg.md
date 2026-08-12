@@ -1,6 +1,6 @@
 # 文件:牙と片喰_e.p封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9a\ns6%3A%E7%89%99%E3%81%A8%E7%89%87%E5%96%B0_e%2Ep%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9a\ns6%3A%E7%89%99%E3%81%A8%E7%89%87%E5%96%B0_e%2Ep%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 天狗ノ舞 | 封面图片
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [牙と片喰 e.p](./牙と片喰_e.p.md)  
-该封面包含的角色：- [今泉影狼](./今泉影狼.md)
+- [牙と片喰 e.p](./牙と片喰_e.p.md)该封面包含的角色：
+- [今泉影狼](./今泉影狼.md)
 
   
-源地址：[[1]](http://natsume.ushimairi.com/C89jack01.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://natsume.ushimairi.com/C89jack01.jpg)  
 
 ---
 

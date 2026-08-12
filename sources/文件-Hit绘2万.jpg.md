@@ -1,12 +1,8 @@
 # 文件:Hit绘2万.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\af\ns6%3AHit%E7%BB%982%E4%B8%87%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\af\ns6%3AHit%E7%BB%982%E4%B8%87%2Ejpg.html -->
 
 Hit绘 | Top绘 | ZUN绘
-
-
-
-
 
 
 ---

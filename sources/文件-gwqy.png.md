@@ -1,16 +1,12 @@
 # 文件:gwqy.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7c\ns6%3Agwqy%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7c\ns6%3Agwqy%2Epng.html -->
 
 二次角色立绘 | 彣影杉 | 高悟千音
 
   
 高悟千音
   
-
-
-
-
 
 ---
 

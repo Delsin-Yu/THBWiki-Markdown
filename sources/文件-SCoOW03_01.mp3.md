@@ -1,14 +1,11 @@
 # 文件:SCoOW03_01.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\19\ns6%3ASCoOW03_01%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\19\ns6%3ASCoOW03_01%2Emp3.html -->
 
 东方外来韦编 | 原曲MP3 | 童祭_～_Innocent_Treasures
 
 
 ## 文件说明
-
-
-
 
 ---
 

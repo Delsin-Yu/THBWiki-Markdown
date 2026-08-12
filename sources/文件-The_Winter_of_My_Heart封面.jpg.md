@@ -1,6 +1,6 @@
 # 文件:The_Winter_of_My_Heart封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f9\ns6%3AThe_Winter_of_My_Heart%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f9\ns6%3AThe_Winter_of_My_Heart%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Akane | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Akane | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [The Winter of My Heart](./The_Winter_of_My_Heart.md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)
-
-
-
+- [The Winter of My Heart](./The_Winter_of_My_Heart.md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
 
 
 ---

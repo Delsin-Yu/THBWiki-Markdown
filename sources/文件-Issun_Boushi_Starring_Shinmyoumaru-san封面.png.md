@@ -1,6 +1,6 @@
 # 文件:Issun_Boushi_Starring_Shinmyoumaru-san封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\69\ns6%3AIssun_Boushi_Starring_Shinmyoumaru-san%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\69\ns6%3AIssun_Boushi_Starring_Shinmyoumaru-san%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Shpuld | 封面图片 | 软件封面
 
@@ -10,16 +10,11 @@ Shpuld | 封面图片 | 软件封面
 使用了本文件作封面图片的作品：
   
 
-- [Issun Boushi Starring Shinmyoumaru-san](./Issun_Boushi_Starring_Shinmyoumaru-san.md)  
-该封面包含的角色：- [少名针妙丸](./少名针妙丸.md)
+- [Issun Boushi Starring Shinmyoumaru-san](./Issun_Boushi_Starring_Shinmyoumaru-san.md)该封面包含的角色：
+- [少名针妙丸](./少名针妙丸.md)
 
   
-源地址：[direct image link](https://img.itch.zone/aW1nLzI5MzIwNTAucG5n/315x250#c/l9zLF+.png), [source page (Shpuld's itch.io)](https://shp.itch.io/)
-  
-
-
-
-
+源地址：[direct image link](https://img.itch.zone/aW1nLzI5MzIwNTAucG5n/315x250#c/l9zLF+.png), [source page (Shpuld's itch.io)](https://shp.itch.io/)  
 
 ---
 

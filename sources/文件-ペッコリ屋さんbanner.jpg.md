@@ -1,18 +1,13 @@
 # 文件:ペッコリ屋さんbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0b\ns6%3A%E3%83%9A%E3%83%83%E3%82%B3%E3%83%AA%E5%B1%8B%E3%81%95%E3%82%93banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0b\ns6%3A%E3%83%9A%E3%83%83%E3%82%B3%E3%83%AA%E5%B1%8B%E3%81%95%E3%82%93banner%2Ejpg.html -->
 
 ペッコリ屋さん | 社团LOGO
 
 
 ## 摘要
   
-源地址：[direct image link](http://pekkoriyasan.is-mine.net/banner/banner.jpg), [source page](http://pekkoriyasan.is-mine.net/about.html)
-  
-
-
-
-
+源地址：[direct image link](http://pekkoriyasan.is-mine.net/banner/banner.jpg), [source page](http://pekkoriyasan.is-mine.net/about.html)  
 
 ---
 

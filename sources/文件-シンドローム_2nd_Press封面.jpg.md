@@ -1,6 +1,6 @@
 # 文件:シンドローム_2nd_Press封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\42\ns6%3A%E3%82%B7%E3%83%B3%E3%83%89%E3%83%AD%E3%83%BC%E3%83%A0_2nd_Press%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\42\ns6%3A%E3%82%B7%E3%83%B3%E3%83%89%E3%83%AD%E3%83%BC%E3%83%A0_2nd_Press%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 サリー | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [シンドローム 2nd Press](./シンドローム_2nd_Press.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
-
-
-
+- [シンドローム 2nd Press](./シンドローム_2nd_Press.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
 
 ---

@@ -1,14 +1,11 @@
 # 文件:SuganoMusicbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\84\ns6%3ASuganoMusicbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\84\ns6%3ASuganoMusicbanner%2Ejpg.html -->
 
 SuganoMusic | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

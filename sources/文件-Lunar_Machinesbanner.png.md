@@ -1,14 +1,11 @@
 # 文件:Lunar_Machinesbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\13\ns6%3ALunar_Machinesbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\13\ns6%3ALunar_Machinesbanner%2Epng.html -->
 
 Lunar_Machines | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

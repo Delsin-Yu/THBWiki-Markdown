@@ -1,6 +1,6 @@
 # 文件:Rute66_～Six_Rocks～封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ed\ns6%3ARute66_%EF%BD%9ESix_Rocks%EF%BD%9E%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ed\ns6%3ARute66_%EF%BD%9ESix_Rocks%EF%BD%9E%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 AbsoЯute_Zero | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ AbsoЯute_Zero | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Rute66 ～Six Rocks～](./Rute66_～Six_Rocks～.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
-
-
-
+- [Rute66 ～Six Rocks～](./Rute66_～Six_Rocks～.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
 
 ---

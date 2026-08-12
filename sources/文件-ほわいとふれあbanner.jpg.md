@@ -1,12 +1,8 @@
 # 文件:ほわいとふれあbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4a\ns6%3A%E3%81%BB%E3%82%8F%E3%81%84%E3%81%A8%E3%81%B5%E3%82%8C%E3%81%82banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4a\ns6%3A%E3%81%BB%E3%82%8F%E3%81%84%E3%81%A8%E3%81%B5%E3%82%8C%E3%81%82banner%2Ejpg.html -->
 
 ほわいとふれあ | 社团LOGO
-
-
-
-
 
 
 ---

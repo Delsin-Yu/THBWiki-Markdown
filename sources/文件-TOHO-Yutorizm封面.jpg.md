@@ -1,6 +1,6 @@
 # 文件:TOHO-Yutorizm封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9b\ns6%3ATOHO-Yutorizm%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9b\ns6%3ATOHO-Yutorizm%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 the_Yutorizm | 专辑封面 | 封面图片
 
@@ -8,12 +8,13 @@ the_Yutorizm | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [TOHO-Yutorizm](./TOHO-Yutorizm.md)  
-该封面包含的角色：- [红美铃](./红美铃.md)- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)- 十六夜咲夜 (未找到链接)- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)源地址：[[1]](http://livedoor.blogimg.jp/yutorizm/imgs/4/4/446cc59a.jpg)
-
-
-
-
+- [TOHO-Yutorizm](./TOHO-Yutorizm.md)该封面包含的角色：
+- [红美铃](./红美铃.md)
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
+- [十六夜咲夜](./十六夜咲夜.md)
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+源地址：[\[1\]](http://livedoor.blogimg.jp/yutorizm/imgs/4/4/446cc59a.jpg)
 
 ---
 

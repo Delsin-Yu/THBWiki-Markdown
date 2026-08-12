@@ -1,12 +1,8 @@
 # 文件:犬走椛（TF立绘）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e9\ns6%3A%E7%8A%AC%E8%B5%B0%E6%A4%9B%EF%BC%88TF%E7%AB%8B%E7%BB%98%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e9\ns6%3A%E7%8A%AC%E8%B5%B0%E6%A4%9B%EF%BC%88TF%E7%AB%8B%E7%BB%98%EF%BC%89%2Epng.html -->
 
 二次角色立绘 | 東方邪星章製作チーム | 犬走椛（TF）
-
-
-
-
 
 
 ---

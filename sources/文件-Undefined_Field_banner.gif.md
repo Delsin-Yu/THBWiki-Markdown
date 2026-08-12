@@ -1,12 +1,8 @@
 # 文件:Undefined_Field_banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\42\ns6%3AUndefined_Field_banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\42\ns6%3AUndefined_Field_banner%2Egif.html -->
 
 Undefined_Field | 社团LOGO
-
-
-
-
 
 
 ---

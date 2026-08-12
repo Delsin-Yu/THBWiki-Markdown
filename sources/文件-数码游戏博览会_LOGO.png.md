@@ -1,14 +1,11 @@
 # 文件:数码游戏博览会_LOGO.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a0\ns6%3A%E6%95%B0%E7%A0%81%E6%B8%B8%E6%88%8F%E5%8D%9A%E8%A7%88%E4%BC%9A_LOGO%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a0\ns6%3A%E6%95%B0%E7%A0%81%E6%B8%B8%E6%88%8F%E5%8D%9A%E8%A7%88%E4%BC%9A_LOGO%2Epng.html -->
 
 数码游戏博览会
 
 
 ## 摘要
-
-
-
 
 ---
 

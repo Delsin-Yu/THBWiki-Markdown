@@ -1,6 +1,6 @@
 # 文件:東方風研究_～_Smells_Like_Beer._vol.2封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3c\ns6%3A%E6%9D%B1%E6%96%B9%E9%A2%A8%E7%A0%94%E7%A9%B6_%EF%BD%9E_Smells_Like_Beer%2E_vol%2E2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3c\ns6%3A%E6%9D%B1%E6%96%B9%E9%A2%A8%E7%A0%94%E7%A9%B6_%EF%BD%9E_Smells_Like_Beer%2E_vol%2E2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 いちごパプリカ | 专辑封面 | 封面图片
 
@@ -10,11 +10,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方風研究 ～ Smells Like Beer. vol.2](./東方風研究_～_Smells_Like_Beer._vol.2.md)  
-该封面包含的角色：- [骊驹早鬼](./骊驹早鬼.md)- [埴安神袿姬](./埴安神袿姬.md)- [吉吊八千慧](./吉吊八千慧.md)
-
-
-
+- [東方風研究 ～ Smells Like Beer. vol.2](./東方風研究_～_Smells_Like_Beer._vol.2.md)该封面包含的角色：
+- [骊驹早鬼](./骊驹早鬼.md)
+- [埴安神袿姬](./埴安神袿姬.md)
+- [吉吊八千慧](./吉吊八千慧.md)
 
 
 ---

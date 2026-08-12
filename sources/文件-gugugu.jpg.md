@@ -1,16 +1,12 @@
 # 文件:gugugu.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bb\ns6%3Agugugu%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bb\ns6%3Agugugu%2Ejpg.html -->
 
 局口街沙茶烤鴿店 | 社团LOGO
 
   
 店徽
   
-
-
-
-
 
 ---
 

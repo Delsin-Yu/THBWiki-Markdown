@@ -1,6 +1,6 @@
 # 文件:東方任天音3_輝-kirari-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7a\ns6%3A%E6%9D%B1%E6%96%B9%E4%BB%BB%E5%A4%A9%E9%9F%B33_%E8%BC%9D-kirari-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7a\ns6%3A%E6%9D%B1%E6%96%B9%E4%BB%BB%E5%A4%A9%E9%9F%B33_%E8%BC%9D-kirari-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 スタジオネネム | 专辑封面 | 封面图片
 
@@ -8,11 +8,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方任天音3 輝-kirari-](./東方任天音3_輝-kirari-.md)  
-该封面包含的角色：- [九十九弁弁](./九十九弁弁.md)- [九十九八桥](./九十九八桥.md)- [堀川雷鼓](./堀川雷鼓.md)
-
-
-
+- [東方任天音3 輝-kirari-](./東方任天音3_輝-kirari-.md)该封面包含的角色：
+- [九十九弁弁](./九十九弁弁.md)
+- [九十九八桥](./九十九八桥.md)
+- [堀川雷鼓](./堀川雷鼓.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:草の根_SOUL_LIKE_3：命蓮寺封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7f\ns6%3A%E8%8D%89%E3%81%AE%E6%A0%B9_SOUL_LIKE_3%EF%BC%9A%E5%91%BD%E8%93%AE%E5%AF%BA%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7f\ns6%3A%E8%8D%89%E3%81%AE%E6%A0%B9_SOUL_LIKE_3%EF%BC%9A%E5%91%BD%E8%93%AE%E5%AF%BA%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 カサガミサン | 同人志封面 | 封面图片
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [草の根 SOUL LIKE 3：命蓮寺](./草の根_SOUL_LIKE_3：命蓮寺.md)  
-该封面包含的角色：- [幽谷响子](./幽谷响子.md)- [今泉影狼](./今泉影狼.md)
-
-
-
+- [草の根 SOUL LIKE 3：命蓮寺](./草の根_SOUL_LIKE_3：命蓮寺.md)该封面包含的角色：
+- [幽谷响子](./幽谷响子.md)
+- [今泉影狼](./今泉影狼.md)
 
 
 ---

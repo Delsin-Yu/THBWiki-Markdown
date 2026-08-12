@@ -1,6 +1,6 @@
 # Little_Marisa's_Disaster_Journey/攻略
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\29\ns0%3ALittle_Marisa%27s_Disaster_Journey%2F%E6%94%BB%E7%95%A5.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\29\ns0%3ALittle_Marisa%27s_Disaster_Journey%2F%E6%94%BB%E7%95%A5.html -->
 
 Dark_Sky_Empire
 
@@ -16,18 +16,15 @@ Dark_Sky_Empire
 游戏的解谜环节考验的是玩家的语言理解力、对红魔乡一设知识的熟悉度、以及简单的数学计算能力。
   
 
-
 ## 秘籍
   
 虽然本游戏不存在暗道之类的快速通关方法，但实际上有一个能降低难度的秘籍：
   
   
- **如果魔理沙死亡，就能让所有的平台和陷阱恢复到默认位置。** 
-  
+**如果魔理沙死亡，就能让所有的平台和陷阱恢复到默认位置。**  
   
 这个秘籍适用于玩家需要等待很长的时间才能看到移动平台的情况。
   
-
 
 ## 存档系统
   
@@ -39,10 +36,6 @@ Dark_Sky_Empire
   
 临时存档：当玩家控制魔理沙碰到一种红色的蘑菇后，就可以存储临时进度。只要玩家没有离开这一关，就能让魔理沙无数次在死亡后从临时存档点复活（同时重置所有的陷阱）。不过，切换关卡或退出游戏将导致临时存档消失。
   
-
-
-
-
 
 ---
 

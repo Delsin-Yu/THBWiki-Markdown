@@ -1,12 +1,8 @@
 # 文件:RED_BIRDbanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6d\ns6%3ARED_BIRDbanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6d\ns6%3ARED_BIRDbanner%2Egif.html -->
 
 RED_BIRD | 社团LOGO
-
-
-
-
 
 
 ---

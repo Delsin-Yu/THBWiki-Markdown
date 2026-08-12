@@ -1,31 +1,23 @@
 # 大洋的风情_～_Fantastic_Sea
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\1\1a\ns0%3A%E5%A4%A7%E6%B4%8B%E7%9A%84%E9%A3%8E%E6%83%85_%EF%BD%9E_Fantastic_Sea.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\1\1a\ns0%3A%E5%A4%A7%E6%B4%8B%E7%9A%84%E9%A3%8E%E6%83%85_%EF%BD%9E_Fantastic_Sea.html -->
 
 由 黒羽 创作的东方风自作曲，原名 大洋の風情　～ Fantastic Sea
 
 本页是关于东方Project  
- **东方风自作曲** 的词条
-
+**东方风自作曲**的词条
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 出现作品](#出现作品)
 - [3 音乐文件](#音乐文件)
 - [4 说明文本](#说明文本)
-
   - [4.1 东方海惠堂](#东方海惠堂)
 
 
-
 - [5 其他资料](#其他资料)
-
   - [5.1 乐理资讯](#乐理资讯)
   - [5.2 分析考据](#分析考据)
-
-
-
-
 
 
 
@@ -35,7 +27,6 @@
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">大洋の風情　～ Fantastic Sea</td></tr><tr><td><b>译名</b></td><td>大洋的风情 ～ Fantastic Sea</td></tr><tr><td><b>作曲</b></td><td><a href="./黑羽.md" title="黑羽" unred="">黒羽</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 大洋的风情 ～ Fantastic Sea（曲目） - 由 黒羽 创作的东方风自作曲，原名 大洋の風情　～ Fantastic Sea
-
 ## 出现作品
 
 <table>
@@ -44,17 +35,16 @@
 </tbody></table>
 
 
-
 ## 音乐文件
 
 ## 说明文本
 
 ### 东方海惠堂
-- Music Room (未找到链接)
+
+- [Music Room](./東方海恵堂_～_Marine_Benefit.-音乐.md#1面道中主题曲)
 
   
 1面的主题曲。  
-
   
 
 - 2011
@@ -65,15 +55,11 @@ Grandeur of the Ocean ~ Fantastic Sea
 ＊原本并不是为本作品而写的曲子。稍微重编了一下，以让它更适合游戏。一开始的印象是轻飘飘地在空中散步这么一个感觉。
   
 
-
 ## 其他资料
 
 ### 乐理资讯
 
 ### 分析考据
-
-
-
 
 ---
 

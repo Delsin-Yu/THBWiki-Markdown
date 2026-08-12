@@ -1,12 +1,8 @@
 # 文件:うつらうららかbanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\94\ns6%3A%E3%81%86%E3%81%A4%E3%82%89%E3%81%86%E3%82%89%E3%82%89%E3%81%8Bbanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\94\ns6%3A%E3%81%86%E3%81%A4%E3%82%89%E3%81%86%E3%82%89%E3%82%89%E3%81%8Bbanner%2Egif.html -->
 
 うつらうららか | 社团LOGO
-
-
-
-
 
 
 ---

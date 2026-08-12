@@ -1,6 +1,6 @@
 # 文件:Revolutionize_Floor_-Amateras_Records_Remixes_Vol.5-_the_Instrumental封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7b\ns6%3ARevolutionize_Floor_-Amateras_Records_Remixes_Vol%2E5-_the_Instrumental%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7b\ns6%3ARevolutionize_Floor_-Amateras_Records_Remixes_Vol%2E5-_the_Instrumental%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Amateras_Records | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Amateras_Records | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Revolutionize Floor -Amateras Records Remixes Vol.5- the Instrumental](./Revolutionize_Floor_-Amateras_Records_Remixes_Vol.5-_the_Instrumental.md)  
-该封面包含的角色：- [古明地恋](./古明地恋.md)
-
-
-
+- [Revolutionize Floor -Amateras Records Remixes Vol.5- the Instrumental](./Revolutionize_Floor_-Amateras_Records_Remixes_Vol.5-_the_Instrumental.md)该封面包含的角色：
+- [古明地恋](./古明地恋.md)
 
 
 ---

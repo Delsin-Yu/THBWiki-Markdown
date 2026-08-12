@@ -1,16 +1,11 @@
 # 文件:NIZI-RINGObanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f6\ns6%3ANIZI-RINGObanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f6\ns6%3ANIZI-RINGObanner%2Epng.html -->
 
 NIZI-RINGO | 社团LOGO
 
   
-源地址：[[1]](http://nzrg.jp/img/nzrgbn1.png)
-  
-
-
-
-
+源地址：[\[1\]](http://nzrg.jp/img/nzrgbn1.png)  
 
 ---
 

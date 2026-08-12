@@ -1,6 +1,6 @@
 # 文件:TOHO_EURO_MISSION_03_-_SPECIALS_COLLECTION_-封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a6\ns6%3ATOHO_EURO_MISSION_03_-_SPECIALS_COLLECTION_-%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a6\ns6%3ATOHO_EURO_MISSION_03_-_SPECIALS_COLLECTION_-%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 高梨工房
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [TOHO EURO MISSION 03 - SPECIALS COLLECTION -](./TOHO_EURO_MISSION_03_-_SPECIALS_COLLECTION_-.md)  
-该封面包含的角色：- [东风谷早苗](./东风谷早苗.md)
-
-
-
+- [TOHO EURO MISSION 03 - SPECIALS COLLECTION -](./TOHO_EURO_MISSION_03_-_SPECIALS_COLLECTION_-.md)该封面包含的角色：
+- [东风谷早苗](./东风谷早苗.md)
 
 
 ---

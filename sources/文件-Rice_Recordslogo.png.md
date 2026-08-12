@@ -1,18 +1,13 @@
 # 文件:Rice_Recordslogo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b5\ns6%3ARice_Recordslogo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b5\ns6%3ARice_Recordslogo%2Epng.html -->
 
 Rice_Records | 社团LOGO
 
 
 ## 摘要
   
-源地址：[direct image link](https://web.archive.org/web/20150128025155/http://www.ricerecords.jp/), [source page](https://web.archive.org/web/20150114153123im_/http://www.ricerecords.jp/wp-content/themes/ricerecords/common/images/logo.png)
-  
-
-
-
-
+源地址：[direct image link](https://web.archive.org/web/20150128025155/http://www.ricerecords.jp/), [source page](https://web.archive.org/web/20150114153123im_/http://www.ricerecords.jp/wp-content/themes/ricerecords/common/images/logo.png)  
 
 ---
 

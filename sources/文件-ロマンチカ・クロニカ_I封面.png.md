@@ -1,6 +1,6 @@
 # 文件:ロマンチカ・クロニカ_I封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\60\ns6%3A%E3%83%AD%E3%83%9E%E3%83%B3%E3%83%81%E3%82%AB%E3%83%BB%E3%82%AF%E3%83%AD%E3%83%8B%E3%82%AB_I%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\60\ns6%3A%E3%83%AD%E3%83%9E%E3%83%B3%E3%83%81%E3%82%AB%E3%83%BB%E3%82%AF%E3%83%AD%E3%83%8B%E3%82%AB_I%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 ロマンチックメロウ | 同人志封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [ロマンチカ・クロニカ I](./ロマンチカ・クロニカ_I.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [ロマンチカ・クロニカ I](./ロマンチカ・クロニカ_I.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Touhou_Project_acoustic_arranged_instruments3封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7c\ns6%3ATouhou_Project_acoustic_arranged_instruments3%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7c\ns6%3ATouhou_Project_acoustic_arranged_instruments3%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 logical_emotion | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ logical_emotion | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Touhou Project acoustic arranged instruments3](./Touhou_Project_acoustic_arranged_instruments3.md)  
-该封面包含的角色：- [键山雏](./键山雏.md)
+- [Touhou Project acoustic arranged instruments3](./Touhou_Project_acoustic_arranged_instruments3.md)该封面包含的角色：
+- [键山雏](./键山雏.md)
 
   
-源地址：[[1]](http://img-cdn.jg.jugem.jp/69a/1963959/20161225_1916567.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://img-cdn.jg.jugem.jp/69a/1963959/20161225_1916567.jpg)  
 
 ---
 

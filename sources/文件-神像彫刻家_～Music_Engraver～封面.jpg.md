@@ -1,6 +1,6 @@
 # 文件:神像彫刻家_～Music_Engraver～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7d\ns6%3A%E7%A5%9E%E5%83%8F%E5%BD%AB%E5%88%BB%E5%AE%B6_%EF%BD%9EMusic_Engraver%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7d\ns6%3A%E7%A5%9E%E5%83%8F%E5%BD%AB%E5%88%BB%E5%AE%B6_%EF%BD%9EMusic_Engraver%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 神像彫刻家
 
@@ -11,9 +11,6 @@
   
 
 - [神像彫刻家 ～Music Engraver～](./神像彫刻家_～Music_Engraver～.md)
-
-
-
 
 
 ---

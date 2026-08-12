@@ -1,6 +1,6 @@
 # 文件:Immortal_Words_of_Savant_EP封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2c\ns6%3AImmortal_Words_of_Savant_EP%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2c\ns6%3AImmortal_Words_of_Savant_EP%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 荒御灵
 
@@ -13,12 +13,7 @@
 - [Immortal Words of Savant EP](./Immortal_Words_of_Savant_EP.md)
 
   
-源地址：[direct image link (original size)](https://i1.sndcdn.com/artworks-000095767331-1anbvf-original.png), [source page (Soundcloud)](https://soundcloud.com/kouki_izumi/immortal-words-of-savant-ep-demomix)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://i1.sndcdn.com/artworks-000095767331-1anbvf-original.png), [source page (Soundcloud)](https://soundcloud.com/kouki_izumi/immortal-words-of-savant-ep-demomix)  
 
 ---
 

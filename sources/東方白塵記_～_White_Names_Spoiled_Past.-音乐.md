@@ -1,13 +1,8 @@
 # 東方白塵記_～_White_Names_Spoiled_Past./音乐
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\8\8a\ns0%3A%E6%9D%B1%E6%96%B9%E7%99%BD%E5%A1%B5%E8%A8%98_%EF%BD%9E_White_Names_Spoiled_Past%2E%2F%E9%9F%B3%E4%B9%90.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\8\8a\ns0%3A%E6%9D%B1%E6%96%B9%E7%99%BD%E5%A1%B5%E8%A8%98_%EF%BD%9E_White_Names_Spoiled_Past%2E%2F%E9%9F%B3%E4%B9%90.html -->
 
 東方邪星章製作チーム
-
-  
-  
-
-  
 
 
 <table>
@@ -36,7 +31,6 @@
 </td></tr>
 
 </tbody></table>
-
 
 
 <table>
@@ -69,7 +63,6 @@
 </tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
@@ -83,7 +76,7 @@
 </td></tr>
 <tr valign="top">
 <td colspan="2" style="padding:1em; padding-left:2em;" lang="ja" width="50%">
-<p>原曲：<a href="./少女秘封倶楽部.md" class="mw-redirect" title="少女秘封倶楽部">少女秘封倶楽部</a><br>
+<p>原曲：<a href="./少女秘封俱乐部.md" class="mw-redirect" title="少女秘封倶楽部">少女秘封倶楽部</a><br>
 1面のテーマです。<br><br>
 原曲は非常に元気のいい曲なんで、元気にブラフに<br>
 かけられちゃって下さい＾＾
@@ -98,7 +91,6 @@
 </td></tr>
 
 </tbody></table>
-
 
 
 <table>
@@ -127,7 +119,6 @@
 </td></tr>
 
 </tbody></table>
-
 
 
 <table>
@@ -160,7 +151,6 @@
 </tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
@@ -191,13 +181,12 @@
 </tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
 <td style="background: #dde6ff;" align="center" width="15%"><h6><span id="3.E9.9D.A2.E9.81.93.E4.B8.AD.E4.B8.BB.E9.A2.98.E6.9B.B2"></span><span class="mw-headline" id="3面道中主题曲">3面道中主题曲</span></h6>
 </td>
-<td style="background: #FFFFCC;" align="center" width="35%">日本中の不思記を集めて<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">1</a></sup>
+<td style="background: #FFFFCC;" align="center" width="35%">日本中の不思記を集めて<span>[^cite_note-1]</span>
 </td>
 <td style="background: #FFFFCC;" align="center" width="40%"><i>收集日本各地的不可思忆</i>
 </td>
@@ -205,7 +194,7 @@
 </td></tr>
 <tr valign="top">
 <td colspan="2" style="padding:1em; padding-left:2em;" lang="ja" width="50%">
-<p>原曲：<a href="./日本中の不思議を集めて.md" class="mw-redirect" title="日本中の不思議を集めて">日本中の不思議を集めて</a><br>
+<p>原曲：<a href="./收集日本各地的不可思议.md" class="mw-redirect" title="日本中の不思議を集めて">日本中の不思議を集めて</a><br>
 3面のテーマです。<br><br>
 どう聞いてもエンディング曲である原曲を道中テーマに<br>
 してみました的なアレンジです。<br>
@@ -221,7 +210,6 @@
 </td></tr>
 
 </tbody></table>
-
 
 
 <table>
@@ -254,7 +242,6 @@
 </tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
@@ -285,7 +272,6 @@
 </tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
@@ -299,7 +285,7 @@
 </td></tr>
 <tr valign="top">
 <td colspan="2" style="padding:1em; padding-left:2em;" lang="ja" width="50%">
-<p>原曲：<a href="./日本中の不思議を集めて.md" class="mw-redirect" title="日本中の不思議を集めて">日本中の不思議を集めて</a><br>
+<p>原曲：<a href="./收集日本各地的不可思议.md" class="mw-redirect" title="日本中の不思議を集めて">日本中の不思議を集めて</a><br>
 スタッフロールのテーマです。<br><br>
 神様は墓場になんて居ない。<br>
 人々が何かに感謝を続ける限り、色々な不思議を起こして<br>
@@ -318,7 +304,6 @@
 </tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
@@ -332,7 +317,7 @@
 </td></tr>
 <tr valign="top">
 <td colspan="2" style="padding:1em; padding-left:2em;" lang="ja" width="50%">
-<p>原曲：<a href="./天鳥船神社.md" class="mw-redirect" title="天鳥船神社">天鳥船神社</a>、<a href="./天鳥船神社の結界.md" class="mw-redirect" title="天鳥船神社の結界">天鳥船神社の結界</a><br>
+<p>原曲：<a href="./天鸟船神社.md" class="mw-redirect" title="天鳥船神社">天鳥船神社</a>、<a href="./天鸟船神社的结界.md" class="mw-redirect" title="天鳥船神社の結界">天鳥船神社の結界</a><br>
 エクストラステージ道中テーマです。<br><br>
 鳥船遺跡より、大きな船の神様のテーマを引用しました。<br>
 最近は神様にもソーラーパネルが付く時代。ハイテクに<br>
@@ -349,7 +334,6 @@ EX面道中曲。<br><br>
 </td></tr>
 
 </tbody></table>
-
 
 
 <table>
@@ -375,12 +359,11 @@ EX面道中曲。<br><br>
 <p>比卖藤雷的主题曲。<br><br>
 EXBOSS主题曲2号。比卖藤雷的主题曲。<br>
 与美华形成对比，强有力的曲子。<br>
-角色名字很难念？想象力还不够啊！<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">2</a></sup>
+角色名字很难念？想象力还不够啊！<span>[^cite_note-2]</span>
 </p>
 </td></tr>
 
 </tbody></table>
-
 
 
 <table>
@@ -412,21 +395,8 @@ EXBOSS主题曲1号。萱野美华的主题曲。<br>
 
 </tbody></table>
 
-
-
 [^cite_note-1]: 「不思記」「不思議」音近。
-
-
-## 词条导航
-  
-  
-
-<table><tbody><tr><td><table cellspacing="0" class="nowraplinks mw-collapsible mw-collapsed" style="width:100%;;;"><tbody><tr><th style=";" colspan="3" class="navbox-title"><div class="navbar"><div class="noprint plainlinksneverexpand" style="background-color:transparent; padding:0; font-weight:normal; font-size:80%; white-space:nowrap;"><a href="./東方白塵記_～_White_Names_Spoiled_Past.-导航.md" title="東方白塵記 ～ White Names Spoiled Past./导航"><span style=";;border:none;" title="查看这个模板">查</span></a>&#160;<span style="font-size:80%;">•</span>&#160;<a href="/index.php?title=%E6%9D%B1%E6%96%B9%E7%99%BD%E5%A1%B5%E8%A8%98_%EF%BD%9E_White_Names_Spoiled_Past./%E5%AF%BC%E8%88%AA&amp;action=edit"><span style=";;border:none;" title="您可以编辑这个模板。请在储存变更之前先预览">编</span></a></div></div><span><a href="./东方白尘记.md" class="mw-redirect" title="东方白尘记">东方白尘记</a></span></th></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="./東方白塵記_～_White_names_spoiled_past.-角色设定.md" class="mw-redirect" title="東方白塵記 ～ White names spoiled past./角色设定">角色</a></td><td style=";;" class="navbox-list navbox-odd"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>自机</div></td><td style=";;" class="navbox-list navbox-odd"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div><a href="/%E6%9D%B1%E6%96%B9%E7%99%BD%E5%A1%B5%E8%A8%98_%EF%BD%9E_White_names_spoiled_past./%E7%B3%BB%E7%BB%9F#博丽灵梦&amp;正鹿山得敏" class="mw-redirect" title="東方白塵記 ～ White names spoiled past./系统">博丽灵梦&amp;正鹿山得敏</a></div></td><td style=";;" class="navbox-list navbox-odd"><div>博丽灵梦 &#8226; <a href="./正鹿山得敏.md" title="正鹿山得敏">正鹿山得敏</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div><a href="/%E6%9D%B1%E6%96%B9%E7%99%BD%E5%A1%B5%E8%A8%98_%EF%BD%9E_White_names_spoiled_past./%E7%B3%BB%E7%BB%9F#雾雨魔理沙&amp;白菊·萱野·L" class="mw-redirect" title="東方白塵記 ～ White names spoiled past./系统">雾雨魔理沙&amp;白菊·萱野·L</a></div></td><td style=";;" class="navbox-list navbox-even"><div>雾雨魔理沙 &#8226; <a href="./白菊·萱野·L.md" title="白菊·萱野·L">白菊·萱野·L</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div><a href="/%E6%9D%B1%E6%96%B9%E7%99%BD%E5%A1%B5%E8%A8%98_%EF%BD%9E_White_names_spoiled_past./%E7%B3%BB%E7%BB%9F#东风谷早苗&amp;忆尘皆故" class="mw-redirect" title="東方白塵記 ～ White names spoiled past./系统">东风谷早苗&amp;忆尘皆故</a></div></td><td style=";;" class="navbox-list navbox-odd"><div>东风谷早苗 &#8226; <a href="./忆尘皆故.md" title="忆尘皆故">忆尘皆故</a></div></td></tr></tbody></table><div></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>BOSS</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./几缟雪孃.md" class="mw-redirect" title="几缟雪孃">几缟雪孃</a> &#8226; <a href="./雨品龙高戒.md" title="雨品龙高戒">雨品龙高戒</a> &#8226; <a href="./雨品龙暗座.md" title="雨品龙暗座">雨品龙暗座</a> &#8226; <a href="./左城宫则纱.md" title="左城宫则纱">左城宫则纱</a> &#8226; <a href="./门冬羽日.md" title="门冬羽日">门冬羽日</a> &#8226; <a href="./鞍马乐.md" title="鞍马乐">鞍马乐</a> &#8226; <a href="./正鹿山得敏.md" title="正鹿山得敏">正鹿山得敏</a> &#8226; <a href="./白菊·萱野·L.md" title="白菊·萱野·L">白菊·萱野·L</a> &#8226; <a href="./忆尘皆故.md" title="忆尘皆故">忆尘皆故</a> &#8226; <a href="./宾卡瓦兹.md" title="宾卡瓦兹">宾卡瓦兹</a> &#8226; <a href="./艾尔芬敏特.md" title="艾尔芬敏特">艾尔芬敏特</a> &#8226; <a href="./萱野美华.md" title="萱野美华">萱野美华</a> &#8226; <a href="./天雄·萱野·芽出.md" title="天雄·萱野·芽出">天雄·萱野·芽出</a> &#8226; <a href="./比卖藤雷.md" title="比卖藤雷">比卖藤雷</a></div></td></tr></tbody></table><div></div></td><td class="navbox-image" style="" rowspan="15"><a href="./文件-東方白塵記_～_White_names_spoiled_past.封面.png.md" class="image"><img alt="東方白塵記 ～ White names spoiled past.封面.png" src="https://upload.thwiki.cc/thumb/f/f4/%E6%9D%B1%E6%96%B9%E7%99%BD%E5%A1%B5%E8%A8%98_%EF%BD%9E_White_names_spoiled_past.%E5%B0%81%E9%9D%A2.png/160px-%E6%9D%B1%E6%96%B9%E7%99%BD%E5%A1%B5%E8%A8%98_%EF%BD%9E_White_names_spoiled_past.%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="160" height="160" srcset="https://upload.thwiki.cc/thumb/f/f4/%E6%9D%B1%E6%96%B9%E7%99%BD%E5%A1%B5%E8%A8%98_%EF%BD%9E_White_names_spoiled_past.%E5%B0%81%E9%9D%A2.png/240px-%E6%9D%B1%E6%96%B9%E7%99%BD%E5%A1%B5%E8%A8%98_%EF%BD%9E_White_names_spoiled_past.%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/f/f4/%E6%9D%B1%E6%96%B9%E7%99%BD%E5%A1%B5%E8%A8%98_%EF%BD%9E_White_names_spoiled_past.%E5%B0%81%E9%9D%A2.png/320px-%E6%9D%B1%E6%96%B9%E7%99%BD%E5%A1%B5%E8%A8%98_%EF%BD%9E_White_names_spoiled_past.%E5%B0%81%E9%9D%A2.png 2x" data-file-width="512" data-file-height="512"></a></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="./東方白塵記_～_White_names_spoiled_past.-设定与剧情.md" class="mw-redirect" title="東方白塵記 ～ White names spoiled past./设定与剧情">剧情</a></td><td style=";;" class="navbox-list navbox-even"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>剧情文本</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./東方白塵記_～_White_names_spoiled_past.-设定与剧情-背景故事.md" class="mw-redirect" title="東方白塵記 ～ White names spoiled past./设定与剧情/背景故事">故事背景</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>一周目游戏对话&amp;结局</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="/%E6%9D%B1%E6%96%B9%E7%99%BD%E5%A1%B5%E8%A8%98_%EF%BD%9E_White_names_spoiled_past./%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%26%E6%AD%A3%E9%B9%BF%E5%B1%B1%E5%BE%97%E6%95%8F%E4%B8%80%E5%91%A8%E7%9B%AE" class="mw-redirect" title="東方白塵記 ～ White names spoiled past./设定与剧情/博丽灵梦&amp;正鹿山得敏一周目">博丽灵梦&amp;正鹿山得敏</a> &#8226; <a href="/%E6%9D%B1%E6%96%B9%E7%99%BD%E5%A1%B5%E8%A8%98_%EF%BD%9E_White_names_spoiled_past./%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85/%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%26%E7%99%BD%E8%8F%8A%C2%B7%E8%90%B1%E9%87%8E%C2%B7L%E4%B8%80%E5%91%A8%E7%9B%AE" class="mw-redirect" title="東方白塵記 ～ White names spoiled past./设定与剧情/雾雨魔理沙&amp;白菊·萱野·L一周目">雾雨魔理沙&amp;白菊·萱野·L</a> &#8226; <a href="/%E6%9D%B1%E6%96%B9%E7%99%BD%E5%A1%B5%E8%A8%98_%EF%BD%9E_White_names_spoiled_past./%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85/%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97%26%E5%BF%86%E5%B0%98%E7%9A%86%E6%95%85%E4%B8%80%E5%91%A8%E7%9B%AE" class="mw-redirect" title="東方白塵記 ～ White names spoiled past./设定与剧情/东风谷早苗&amp;忆尘皆故一周目">东风谷早苗&amp;忆尘皆故</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>二周目游戏对话&amp;结局</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="/%E6%9D%B1%E6%96%B9%E7%99%BD%E5%A1%B5%E8%A8%98_%EF%BD%9E_White_names_spoiled_past./%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%26%E6%AD%A3%E9%B9%BF%E5%B1%B1%E5%BE%97%E6%95%8F%E4%BA%8C%E5%91%A8%E7%9B%AE" class="mw-redirect" title="東方白塵記 ～ White names spoiled past./设定与剧情/博丽灵梦&amp;正鹿山得敏二周目">博丽灵梦&amp;正鹿山得敏</a> &#8226; <a href="/%E6%9D%B1%E6%96%B9%E7%99%BD%E5%A1%B5%E8%A8%98_%EF%BD%9E_White_names_spoiled_past./%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85/%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%26%E7%99%BD%E8%8F%8A%C2%B7%E8%90%B1%E9%87%8E%C2%B7L%E4%BA%8C%E5%91%A8%E7%9B%AE" class="mw-redirect" title="東方白塵記 ～ White names spoiled past./设定与剧情/雾雨魔理沙&amp;白菊·萱野·L二周目">雾雨魔理沙&amp;白菊·萱野·L</a> &#8226; <a href="/%E6%9D%B1%E6%96%B9%E7%99%BD%E5%A1%B5%E8%A8%98_%EF%BD%9E_White_names_spoiled_past./%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85/%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97%26%E5%BF%86%E5%B0%98%E7%9A%86%E6%95%85%E4%BA%8C%E5%91%A8%E7%9B%AE" class="mw-redirect" title="東方白塵記 ～ White names spoiled past./设定与剧情/东风谷早苗&amp;忆尘皆故二周目">东风谷早苗&amp;忆尘皆故</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>Ex谜题</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./東方白塵記_～_White_names_spoiled_past.-设定与剧情-Ex解锁.md" class="mw-redirect" title="東方白塵記 ～ White names spoiled past./设定与剧情/Ex解锁">Ex解锁</a> &#8226; <a href="/%E6%9D%B1%E6%96%B9%E7%99%BD%E5%A1%B5%E8%A8%98_%EF%BD%9E_White_names_spoiled_past./%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85#游戏对话" class="mw-redirect" title="東方白塵記 ～ White names spoiled past./设定与剧情">Ex解锁答案</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>Ex游戏对话</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./東方白塵記_～_White_names_spoiled_past.-设定与剧情-博丽灵梦&正鹿山得敏Ex.md" class="mw-redirect" title="東方白塵記 ～ White names spoiled past./设定与剧情/博丽灵梦&amp;正鹿山得敏Ex">博丽灵梦&amp;正鹿山得敏</a> &#8226; <a href="./東方白塵記_～_White_names_spoiled_past.-设定与剧情-雾雨魔理沙&白菊·萱野·LEx.md" class="mw-redirect" title="東方白塵記 ～ White names spoiled past./设定与剧情/雾雨魔理沙&amp;白菊·萱野·LEx">雾雨魔理沙&amp;白菊·萱野·L</a> &#8226; <a href="./東方白塵記_～_White_names_spoiled_past.-设定与剧情-东风谷早苗&忆尘皆故Ex.md" class="mw-redirect" title="東方白塵記 ～ White names spoiled past./设定与剧情/东风谷早苗&amp;忆尘皆故Ex">东风谷早苗&amp;忆尘皆故</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>解决篇</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="/%E6%9D%B1%E6%96%B9%E7%99%BD%E5%A1%B5%E8%A8%98_%EF%BD%9E_White_names_spoiled_past./%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85/%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%26%E7%99%BD%E8%8F%8A%C2%B7%E8%90%B1%E9%87%8E%C2%B7LEx#解决篇" class="mw-redirect" title="東方白塵記 ～ White names spoiled past./设定与剧情/雾雨魔理沙&amp;白菊·萱野·LEx">解决篇</a></div></td></tr></tbody></table><div></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">场景</td><td style=";;" class="navbox-list navbox-odd"><div><a href="./春之小径.md" title="春之小径">春之小径</a> &#8226; <a href="/index.php?title=%E5%A6%96%E6%80%AA%E5%B1%B1%E9%BA%93&amp;action=edit&amp;redlink=1" class="new" title="妖怪山麓（页面不存在）">妖怪山麓</a> &#8226; <a href="./无名之丘.md" title="无名之丘">无名之丘</a> &#8226; <a href="./天鸟船神社.md" title="天鸟船神社">天鸟船神社</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">音乐</td><td style=";;" class="navbox-list navbox-even"><div><a href="./東方白塵記_～_White_names_spoiled_past.-音乐.md" class="mw-redirect" title="東方白塵記 ～ White names spoiled past./音乐">Music Room</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="/%E6%9D%B1%E6%96%B9%E7%99%BD%E5%A1%B5%E8%A8%98_%EF%BD%9E_White_names_spoiled_past./%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85#附带文档" class="mw-redirect" title="東方白塵記 ～ White names spoiled past./设定与剧情">附带文档</a></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./東方白塵記_～_White_names_spoiled_past.-设定与剧情-作品介绍与使用条款.md" class="mw-redirect" title="東方白塵記 ～ White names spoiled past./设定与剧情/作品介绍与使用条款">作品介绍与使用条款</a> &#8226; <a href="./東方白塵記_～_White_names_spoiled_past.-设定与剧情-使用素材.md" class="mw-redirect" title="東方白塵記 ～ White names spoiled past./设定与剧情/使用素材">使用素材一览</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">系统</td><td style=";;" class="navbox-list navbox-even"><div><a href="./東方白塵記_～_White_names_spoiled_past.-系统.md" class="mw-redirect" title="東方白塵記 ～ White names spoiled past./系统">系统</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">符卡</td><td style=";;" class="navbox-list navbox-odd"><div><a href="/index.php?title=%E6%9D%B1%E6%96%B9%E7%99%BD%E5%A1%B5%E8%A8%98_%EF%BD%9E_White_names_spoiled_past./%E7%AC%A6%E5%8D%A1&amp;action=edit&amp;redlink=1" class="new" title="東方白塵記 ～ White names spoiled past./符卡（页面不存在）">符卡</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="./東方邪星章製作チーム.md" title="東方邪星章製作チーム">团队作品</a></td><td style=";;" class="navbox-list navbox-even"><div><a href="./東方偽神霊廟.md" title="東方偽神霊廟">東方偽神霊廟</a> &#8226; <a href="./東方邪星章_～_The_Last_Comer..md" title="東方邪星章 ～ The Last Comer.">東方邪星章 ～ The Last Comer.</a> &#8226; <a href="./東方導命樹_～_Mystical_Power_Plant..md" title="東方導命樹 ～ Mystical Power Plant.">東方導命樹 ～ Mystical Power Plant.</a> &#8226; <a href="./東方桃源宮_～_Riverbed_Soul_Saver..md" title="東方桃源宮 ～ Riverbed Soul Saver.">東方桃源宮 ～ Riverbed Soul Saver.</a> &#8226; <a href="./東方白塵記_～_White_names_spoiled_past..md" class="mw-redirect" title="東方白塵記 ～ White names spoiled past.">東方白塵記 ～ White names spoiled past.</a>（支援） &#8226; <a href="./東方魔宝城_～_Book_of_Star_Mythology..md" title="東方魔宝城 ～ Book of Star Mythology.">東方魔宝城 ～ Book of Star Mythology.</a>（支援） &#8226; <a href="./トライフォーカサー_～_Outside_the_Traditional_World..md" title="トライフォーカサー ～ Outside the Traditional World.">トライフォーカサー ～ Outside the Traditional World.</a> &#8226; <a href="./東方真珠島_～_Hollow_Song_of_Birds..md" title="東方真珠島 ～ Hollow Song of Birds.">東方真珠島 ～ Hollow Song of Birds.</a> &#8226; <a href="./東方鬼葬剣_～_Infinite_Blade_Pavilion..md" title="東方鬼葬剣 ～ Infinite Blade Pavilion.">東方鬼葬剣 ～ Infinite Blade Pavilion.</a> &#8226; <a href="./妖精小迷宮_～_Fairies_Odyssey..md" title="妖精小迷宮 ～ Fairies Odyssey.">妖精小迷宮 ～ Fairies Odyssey.</a></div></td></tr></tbody></table></td></tr></tbody></table>
-
-
-
-
-
+[^cite_note-2]: 《口袋妖怪红蓝宝石篇》中登场角色[曼珠](http://wiki.52poke.com/wiki/曼珠)的谜之发言。
 
 ---
 

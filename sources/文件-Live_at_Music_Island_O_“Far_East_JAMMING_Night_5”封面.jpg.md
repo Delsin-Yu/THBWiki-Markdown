@@ -1,6 +1,6 @@
 # 文件:Live_at_Music_Island_O_“Far_East_JAMMING_Night_5”封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3e\ns6%3ALive_at_Music_Island_O_%E2%80%9CFar_East_JAMMING_Night_5%E2%80%9D%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3e\ns6%3ALive_at_Music_Island_O_%E2%80%9CFar_East_JAMMING_Night_5%E2%80%9D%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ACCORD_ON_CODES | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ ACCORD_ON_CODES | 专辑封面 | 封面图片
   
 
 - [Live at Music Island O “Far East JAMMING Night 5”](./Live_at_Music_Island_O_“Far_East_JAMMING_Night_5”.md)
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Greentea_Holic封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fc\ns6%3AGreentea_Holic%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fc\ns6%3AGreentea_Holic%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 pietra_di_Luna | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@ pietra_di_Luna | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Greentea Holic](./Greentea_Holic.md)  
-该封面包含的角色：- [苏我屠自古](./苏我屠自古.md)
-
-
-
+- [Greentea Holic](./Greentea_Holic.md)该封面包含的角色：
+- [苏我屠自古](./苏我屠自古.md)
 
 
 ---

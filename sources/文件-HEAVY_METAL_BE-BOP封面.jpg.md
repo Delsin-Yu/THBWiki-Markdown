@@ -1,6 +1,6 @@
 # 文件:HEAVY_METAL_BE-BOP封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ac\ns6%3AHEAVY_METAL_BE-BOP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ac\ns6%3AHEAVY_METAL_BE-BOP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Unlucky_Morpheus | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ Unlucky_Morpheus | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [HEAVY METAL BE-BOP](./HEAVY_METAL_BE-BOP.md)  
-该封面包含的角色：- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)- 十六夜咲夜 (未找到链接)
-
-
-
+- [HEAVY METAL BE-BOP](./HEAVY_METAL_BE-BOP.md)该封面包含的角色：
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
+- [十六夜咲夜](./十六夜咲夜.md)
 
 
 ---

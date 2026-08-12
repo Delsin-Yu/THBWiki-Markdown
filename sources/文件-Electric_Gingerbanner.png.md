@@ -1,12 +1,8 @@
 # 文件:Electric_Gingerbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\17\ns6%3AElectric_Gingerbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\17\ns6%3AElectric_Gingerbanner%2Epng.html -->
 
 Electric_Ginger | 社团LOGO
-
-
-
-
 
 
 ---

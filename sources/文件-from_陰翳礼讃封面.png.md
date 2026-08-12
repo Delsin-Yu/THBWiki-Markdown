@@ -1,6 +1,6 @@
 # 文件:from_陰翳礼讃封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\59\ns6%3Afrom_%E9%99%B0%E7%BF%B3%E7%A4%BC%E8%AE%83%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\59\ns6%3Afrom_%E9%99%B0%E7%BF%B3%E7%A4%BC%E8%AE%83%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 明日ryBEATS
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [from 陰翳礼讃](./from_陰翳礼讃.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
+- [from 陰翳礼讃](./from_陰翳礼讃.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
   
-源地址：[direct image link (original size)](https://i1.sndcdn.com/artworks-000181865522-j29rpm-original.png), [source page (soundcloud)](https://soundcloud.com/ningen193/gvibqua56ua4)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://i1.sndcdn.com/artworks-000181865522-j29rpm-original.png), [source page (soundcloud)](https://soundcloud.com/ningen193/gvibqua56ua4)  
 
 ---
 

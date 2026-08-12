@@ -1,6 +1,6 @@
 # 文件:HIGH_SPEED_BEST_OF_RAVER'S_NEST_Vol.4封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bc\ns6%3AHIGH_SPEED_BEST_OF_RAVER%27S_NEST_Vol%2E4%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bc\ns6%3AHIGH_SPEED_BEST_OF_RAVER%27S_NEST_Vol%2E4%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 DiGiTAL_WiNG | 专辑封面 | 封面图片
 
@@ -10,11 +10,9 @@ DiGiTAL_WiNG | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [HIGH SPEED BEST OF RAVER'S NEST Vol.4](./HIGH_SPEED_BEST_OF_RAVER'S_NEST_Vol.4.md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)- [多多良小伞](./多多良小伞.md)
-
-
-
+- [HIGH SPEED BEST OF RAVER'S NEST Vol.4](./HIGH_SPEED_BEST_OF_RAVER'S_NEST_Vol.4.md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
+- [多多良小伞](./多多良小伞.md)
 
 
 ---

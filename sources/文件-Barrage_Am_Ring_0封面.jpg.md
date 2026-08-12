@@ -1,6 +1,6 @@
 # 文件:Barrage_Am_Ring_0封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\56\ns6%3ABarrage_Am_Ring_0%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\56\ns6%3ABarrage_Am_Ring_0%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Barrage_Am_Ring | 专辑封面 | 封面图片
 
@@ -8,16 +8,15 @@ Barrage_Am_Ring | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Barrage Am Ring 0](./Barrage_Am_Ring_0.md)  
-该封面包含的角色：- [红美铃](./红美铃.md)- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)- 十六夜咲夜 (未找到链接)- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [Barrage Am Ring 0](./Barrage_Am_Ring_0.md)该封面包含的角色：
+- [红美铃](./红美铃.md)
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
+- [十六夜咲夜](./十六夜咲夜.md)
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
   
-源地址：[direct image link](https://web.archive.org/web/20141023045033if_/http://barrage.am/ring/img/disk_jacket_large.jpg), [source page](https://web.archive.org/web/20100322212002/http://barrage.am/ring/disk.php)
-  
-
-
-
-
+源地址：[direct image link](https://web.archive.org/web/20141023045033if_/http://barrage.am/ring/img/disk_jacket_large.jpg), [source page](https://web.archive.org/web/20100322212002/http://barrage.am/ring/disk.php)  
 
 ---
 

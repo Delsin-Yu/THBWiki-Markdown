@@ -1,6 +1,6 @@
 # 文件:瞬還_SYUN-KAN封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4d\ns6%3A%E7%9E%AC%E9%82%84_SYUN-KAN%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4d\ns6%3A%E7%9E%AC%E9%82%84_SYUN-KAN%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 K2_SOUND | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ K2_SOUND | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [瞬還 SYUN-KAN](./瞬還_SYUN-KAN.md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)- [姬海棠果](./姬海棠果.md)
-
-
-
+- [瞬還 SYUN-KAN](./瞬還_SYUN-KAN.md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
+- [姬海棠果](./姬海棠果.md)
 
 
 ---

@@ -1,41 +1,31 @@
 # Lotus_Love
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\c\c3\ns0%3ALotus_Love.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\c\c3\ns0%3ALotus_Love.html -->
 
 由 ZUN 创作的官方曲目，原名 Lotus Love
 
 本页是关于东方Project  
- **原作音乐** 的词条
-
+**原作音乐**的词条
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 出现作品](#出现作品)
 - [3 音乐文件](#音乐文件)
-
   - [3.1 东方幻想乡](#东方幻想乡)
   - [3.2 东方怪绮谈](#东方怪绮谈)
   - [3.3 幺乐团的历史 vol.1](#幺乐团的历史_vol.1)
 
 
-
 - [4 说明文本](#说明文本)
-
   - [4.1 东方幻想乡体验版](#东方幻想乡体验版)
   - [4.2 东方幻想乡](#东方幻想乡_2)
   - [4.3 东方怪绮谈](#东方怪绮谈_2)
 
 
-
 - [5 其他资料](#其他资料)
-
   - [5.1 乐理资讯](#乐理资讯)
   - [5.2 分析考据](#分析考据)
   - [5.3 二次同人数据](#二次同人数据)
-
-
-
-
 
 
 
@@ -45,7 +35,6 @@
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">Lotus Love</td></tr><tr><td><b>译名</b></td><td>Lotus Love</td></tr><tr><td><b>其他译名</b></td><td>忘忧之爱<br>莲之爱</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 Lotus Love（曲目） - 由 ZUN 创作的官方曲目，原名 Lotus Love
-
 ## 出现作品
 
 <table>
@@ -55,7 +44,6 @@ Lotus Love（曲目） - 由 ZUN 创作的官方曲目，原名 Lotus Love
 </tbody></table>
 
 
-
 ## 音乐文件
 
 ### 东方幻想乡
@@ -63,17 +51,13 @@ Lotus Love（曲目） - 由 ZUN 创作的官方曲目，原名 Lotus Love
 YM2203(OPN)，FM26K音源版。
   
 
-
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th04_12_26.ogg.md" title="文件:th04 12 26.ogg">th04_12_26.ogg</a><br><audio src="https://upload.thwiki.cc/d/dd/th04_12_26.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>ST04.M26</td></tr><tr><td><b>音轨时长</b></td><td>1:52.930</td></tr></tbody></table>
-
 
   
 YM2608(OPNA)，FM86音源版。
   
 
-
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th04_12_86.ogg.md" title="文件:th04 12 86.ogg">th04_12_86.ogg</a><br><audio src="https://upload.thwiki.cc/2/24/th04_12_86.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>ST04.M86</td></tr><tr><td><b>音轨时长</b></td><td>1:52.930</td></tr></tbody></table>
-
 
 
 ### 东方怪绮谈
@@ -81,17 +65,13 @@ YM2608(OPNA)，FM86音源版。
 YM2203(OPN)，FM26K音源版。
   
 
-
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th05_G_12_26.ogg.md" title="文件:th05 G 12 26.ogg">th05_G_12_26.ogg</a><br><audio src="https://upload.thwiki.cc/a/a3/th05_G_12_26.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>G_ST04.M</td></tr><tr><td><b>音轨时长</b></td><td>1:52.930</td></tr></tbody></table>
-
 
   
 YM2608(OPNA)，FM86音源版。
   
 
-
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th05_G_12_86.ogg.md" title="文件:th05 G 12 86.ogg">th05_G_12_86.ogg</a><br><audio src="https://upload.thwiki.cc/d/da/th05_G_12_86.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>G_ST04.M2</td></tr><tr><td><b>音轨时长</b></td><td>1:52.930</td></tr></tbody></table>
-
 
 
 ### 幺乐团的历史 vol.1
@@ -99,19 +79,19 @@ YM2608(OPNA)，FM86音源版。
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-ha01a_12.mp3.md" title="文件:ha01a 12.mp3">ha01a_12.mp3</a><br><audio src="https://upload.thwiki.cc/3/37/ha01a_12.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track12.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>4:10</td></tr></tbody></table>
 
 
-
 ## 说明文本
 
 ### 东方幻想乡体验版
-- Music Room (未找到链接)
+
+- [Music Room](./东方幻想乡-Music.md#5面主题曲（体验版）)
 
 5面的主题曲  
 我打算把这关做得很短，所以我尽可能地将这首曲子做得简短。  
 我觉得这是一首很奇怪的曲子。  
 这样的曲调是和风的吗？
-
 ### 东方幻想乡
-- Music Room (未找到链接)
+
+- [Music Room](./东方幻想乡-Music.md#5面主题曲)
 
 　　　　　　　五面的主题曲  
 　一开始做出来的时候，感想是「这啥玩  
@@ -128,31 +108,31 @@ YM2608(OPNA)，FM86音源版。
 幻想乡的曲子。  
 Stage５的主题曲。  
 嗯~，这个还差很多。
-
 ### 东方怪绮谈
-- Music Room (未找到链接)
+
+- [Music Room](./东方怪绮谈-Music.md#东方幻想乡-53)
 
 ５面的主题曲Lotus Love  
 ＺＵＮ（太田）  
 幻想乡的曲子  
 这个还差很多。
-
 ## 其他资料
 
 ### 乐理资讯
 
 ### 分析考据
   
- **Lotus Love** 
-  
+**Lotus Love**  
 忘忧之爱
   
 
-- Lotus
-  - （古希腊神话中的）忘忧果，食后感到梦幻般的快乐轻松
+- Lotus 
+  - （古希腊神话中的）忘忧果，食后感到梦幻般的快乐轻松 
     - [幻想乡](./东方幻想乡.md)5面的场景位在梦幻馆中
 
+
   - 《东方幻想乡》的英文副标题为“Lotus Land Story”
+
 
 - Yellow Magic Orchestra的曲子《Lotus Love》（作詞・作曲：細野晴臣）
 
@@ -169,17 +149,6 @@ Stage５的主题曲。
 <tr><td>Arrange</td><td>57</td></tr>
 <tr><td>Vocal率</td><td>45.71%</td></tr>
 </tbody></table>
-
-
-
-
-  
-  
-
-  
-
-
-
 
 
 ---

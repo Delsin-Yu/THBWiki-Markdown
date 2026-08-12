@@ -1,6 +1,6 @@
 # 文件:花鳥風月_e.p.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e3\ns6%3A%E8%8A%B1%E9%B3%A5%E9%A2%A8%E6%9C%88_e%2Ep%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e3\ns6%3A%E8%8A%B1%E9%B3%A5%E9%A2%A8%E6%9C%88_e%2Ep%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Saga_Novel | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ Saga_Novel | 专辑封面 | 封面图片
   
 
 - [花鳥風月 e.p.](./花鳥風月_e.p..md)
-
-
-
 
 
 ---

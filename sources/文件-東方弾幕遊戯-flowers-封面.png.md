@@ -1,6 +1,6 @@
 # 文件:東方弾幕遊戯-flowers-封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\06\ns6%3A%E6%9D%B1%E6%96%B9%E5%BC%BE%E5%B9%95%E9%81%8A%E6%88%AF-flowers-%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\06\ns6%3A%E6%9D%B1%E6%96%B9%E5%BC%BE%E5%B9%95%E9%81%8A%E6%88%AF-flowers-%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 D-vent | FelisOvum | PSYCHOSTEAK | 同人志封面 | 封面图片
 
@@ -8,11 +8,8 @@ D-vent | FelisOvum | PSYCHOSTEAK | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方弾幕遊戯-flowers-](./東方弾幕遊戯-flowers-.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [東方弾幕遊戯-flowers-](./東方弾幕遊戯-flowers-.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

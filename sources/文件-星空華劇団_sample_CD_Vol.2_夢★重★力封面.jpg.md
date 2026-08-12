@@ -1,6 +1,6 @@
 # 文件:星空華劇団_sample_CD_Vol.2_夢★重★力封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dd\ns6%3A%E6%98%9F%E7%A9%BA%E8%8F%AF%E5%8A%87%E5%9B%A3_sample_CD_Vol%2E2_%E5%A4%A2%E2%98%85%E9%87%8D%E2%98%85%E5%8A%9B%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dd\ns6%3A%E6%98%9F%E7%A9%BA%E8%8F%AF%E5%8A%87%E5%9B%A3_sample_CD_Vol%2E2_%E5%A4%A2%E2%98%85%E9%87%8D%E2%98%85%E5%8A%9B%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 星空華劇団
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [星空華劇団 sample CD Vol.2 夢★重★力](./星空華劇団_sample_CD_Vol.2_夢★重★力.md)  
-该封面包含的角色：- [伊吹萃香](./伊吹萃香.md)
-
-
-
+- [星空華劇団 sample CD Vol.2 夢★重★力](./星空華劇団_sample_CD_Vol.2_夢★重★力.md)该封面包含的角色：
+- [伊吹萃香](./伊吹萃香.md)
 
 
 ---

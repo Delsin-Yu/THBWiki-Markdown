@@ -1,6 +1,6 @@
 # 文件:unlimited（Hungry_Tiger（同人社团））封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\be\ns6%3Aunlimited%EF%BC%88Hungry_Tiger%EF%BC%88%E5%90%8C%E4%BA%BA%E7%A4%BE%E5%9B%A2%EF%BC%89%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\be\ns6%3Aunlimited%EF%BC%88Hungry_Tiger%EF%BC%88%E5%90%8C%E4%BA%BA%E7%A4%BE%E5%9B%A2%EF%BC%89%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Hungry_Tiger（同人社团） | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ Hungry_Tiger（同人社团） | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [unlimited（Hungry Tiger（同人社团））](./unlimited（Hungry_Tiger（同人社团））.md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)- [伊吹萃香](./伊吹萃香.md)
-
-
-
+- [unlimited（Hungry Tiger（同人社团））](./unlimited（Hungry_Tiger（同人社团））.md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
+- [伊吹萃香](./伊吹萃香.md)
 
 
 ---

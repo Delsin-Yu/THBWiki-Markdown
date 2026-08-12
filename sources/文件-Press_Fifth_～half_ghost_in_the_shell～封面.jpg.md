@@ -1,6 +1,6 @@
 # 文件:Press_Fifth_～half_ghost_in_the_shell～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7f\ns6%3APress_Fifth_%EF%BD%9Ehalf_ghost_in_the_shell%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7f\ns6%3APress_Fifth_%EF%BD%9Ehalf_ghost_in_the_shell%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 寝ん猫飯店 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Press Fifth ～half ghost in the shell～](./Press_Fifth_～half_ghost_in_the_shell～.md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)
-
-
-
+- [Press Fifth ～half ghost in the shell～](./Press_Fifth_～half_ghost_in_the_shell～.md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
 
 
 ---

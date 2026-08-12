@@ -1,12 +1,8 @@
 # 文件:厄野「禊川的沉积」（DS文花帖）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\94\ns6%3A%E5%8E%84%E9%87%8E%E3%80%8C%E7%A6%8A%E5%B7%9D%E7%9A%84%E6%B2%89%E7%A7%AF%E3%80%8D%EF%BC%88DS%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\94\ns6%3A%E5%8E%84%E9%87%8E%E3%80%8C%E7%A6%8A%E5%B7%9D%E7%9A%84%E6%B2%89%E7%A7%AF%E3%80%8D%EF%BC%88DS%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Ejpg.html -->
 
 东方文花帖DS | 敌机符卡 | 键山雏
-
-
-
-
 
 
 ---

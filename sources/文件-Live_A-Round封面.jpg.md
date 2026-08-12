@@ -1,6 +1,6 @@
 # 文件:Live_A-Round封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c8\ns6%3ALive_A-Round%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c8\ns6%3ALive_A-Round%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Poplica＊ | Studio_“Syrup_Comfiture” | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Poplica＊ | Studio_“Syrup_Comfiture” | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Live A-Round](./Live_A-Round.md)  
-该封面包含的角色：- [小野塚小町](./小野塚小町.md)
-
-
-
+- [Live A-Round](./Live_A-Round.md)该封面包含的角色：
+- [小野塚小町](./小野塚小町.md)
 
 
 ---

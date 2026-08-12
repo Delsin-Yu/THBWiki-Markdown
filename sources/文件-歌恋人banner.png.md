@@ -1,12 +1,8 @@
 # 文件:歌恋人banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\03\ns6%3A%E6%AD%8C%E6%81%8B%E4%BA%BAbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\03\ns6%3A%E6%AD%8C%E6%81%8B%E4%BA%BAbanner%2Epng.html -->
 
 歌恋人 | 社团LOGO
-
-
-
-
 
 
 ---

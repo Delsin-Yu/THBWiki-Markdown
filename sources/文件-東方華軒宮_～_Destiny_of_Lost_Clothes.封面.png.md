@@ -1,6 +1,6 @@
 # 文件:東方華軒宮_～_Destiny_of_Lost_Clothes.封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4f\ns6%3A%E6%9D%B1%E6%96%B9%E8%8F%AF%E8%BB%92%E5%AE%AE_%EF%BD%9E_Destiny_of_Lost_Clothes%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4f\ns6%3A%E6%9D%B1%E6%96%B9%E8%8F%AF%E8%BB%92%E5%AE%AE_%EF%BD%9E_Destiny_of_Lost_Clothes%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Flying_Fish | 封面图片 | 软件封面
 
@@ -8,11 +8,8 @@ Flying_Fish | 封面图片 | 软件封面
 使用了本文件作封面图片的作品：
   
 
-- [東方華軒宮 ～ Destiny of Lost Clothes.](./東方華軒宮_～_Destiny_of_Lost_Clothes..md)  
-该封面包含的角色：- 原创角色 (未找到链接)
-
-
-
+- [東方華軒宮 ～ Destiny of Lost Clothes.](./東方華軒宮_～_Destiny_of_Lost_Clothes..md)该封面包含的角色：
+- 原创角色 (未找到链接)
 
 
 ---

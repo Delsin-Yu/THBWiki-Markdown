@@ -1,12 +1,8 @@
 # 文件:@N-Factory_banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\46\ns6%3A%40N-Factory_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\46\ns6%3A%40N-Factory_banner%2Ejpg.html -->
 
 @N-Factory | 社团LOGO
-
-
-
-
 
 
 ---

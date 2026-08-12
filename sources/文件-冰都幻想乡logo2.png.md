@@ -1,6 +1,6 @@
 # 文件:冰都幻想乡logo2.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\69\ns6%3A%E5%86%B0%E9%83%BD%E5%B9%BB%E6%83%B3%E4%B9%A1logo2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\69\ns6%3A%E5%86%B0%E9%83%BD%E5%B9%BB%E6%83%B3%E4%B9%A1logo2%2Epng.html -->
 
 冰都幻想乡 | 社团LOGO
 
@@ -9,10 +9,6 @@
   
 冰都幻想乡logo
   
-
-
-
-
 
 ---
 

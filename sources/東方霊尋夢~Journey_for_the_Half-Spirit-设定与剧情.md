@@ -1,19 +1,18 @@
 # 東方霊尋夢~Journey_for_the_Half-Spirit/设定与剧情
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\7\78\ns0%3A%E6%9D%B1%E6%96%B9%E9%9C%8A%E5%B0%8B%E5%A4%A2%7EJourney_for_the_Half-Spirit%2F%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\7\78\ns0%3A%E6%9D%B1%E6%96%B9%E9%9C%8A%E5%B0%8B%E5%A4%A2%7EJourney_for_the_Half-Spirit%2F%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85.html -->
 
 菜酱
 
 
 ## 故事背景
+
 - [故事背景](./東方霊尋夢~Journey_for_the_Half-Spirit-设定与剧情-故事背景.md)
 
 
 ## 游戏对话
+
 - [魂魄妖梦 游戏对话/结局](./東方霊尋夢~Journey_for_the_Half-Spirit-设定与剧情-魂魄妖梦.md)
-
-
-
 
 
 ---

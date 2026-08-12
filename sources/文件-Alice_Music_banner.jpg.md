@@ -1,12 +1,8 @@
 # 文件:Alice_Music_banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bb\ns6%3AAlice_Music_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bb\ns6%3AAlice_Music_banner%2Ejpg.html -->
 
 Alice_Music | 社团LOGO
-
-
-
-
 
 
 ---

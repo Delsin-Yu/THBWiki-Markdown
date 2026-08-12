@@ -1,12 +1,8 @@
 # 文件:玉造魅须丸（虹龙洞立绘）an.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d9\ns6%3A%E7%8E%89%E9%80%A0%E9%AD%85%E9%A1%BB%E4%B8%B8%EF%BC%88%E8%99%B9%E9%BE%99%E6%B4%9E%E7%AB%8B%E7%BB%98%EF%BC%89an%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d9\ns6%3A%E7%8E%89%E9%80%A0%E9%AD%85%E9%A1%BB%E4%B8%B8%EF%BC%88%E8%99%B9%E9%BE%99%E6%B4%9E%E7%AB%8B%E7%BB%98%EF%BC%89an%2Epng.html -->
 
 ZUN绘 | 东方虹龙洞 | 官方游戏立绘 | 玉造魅须丸
-
-
-
-
 
 
 ---

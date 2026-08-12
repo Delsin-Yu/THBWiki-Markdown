@@ -1,6 +1,6 @@
 # 文件:连缘无现里～Evanescent_Existence封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ac\ns6%3A%E8%BF%9E%E7%BC%98%E6%97%A0%E7%8E%B0%E9%87%8C%EF%BD%9EEvanescent_Existence%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ac\ns6%3A%E8%BF%9E%E7%BC%98%E6%97%A0%E7%8E%B0%E9%87%8C%EF%BD%9EEvanescent_Existence%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 トリック・ノスタルジー | 封面图片 | 软件封面 | 连缘无现里
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [连缘无现里～Evanescent Existence](./连缘无现里～Evanescent_Existence.md)  
-该封面包含的角色：- [凤联薮雨](./凤联薮雨.md)- [燕乐玄鸟](./燕乐玄鸟.md)
-
-
-
+- [连缘无现里～Evanescent Existence](./连缘无现里～Evanescent_Existence.md)该封面包含的角色：
+- [凤联薮雨](./凤联薮雨.md)
+- [燕乐玄鸟](./燕乐玄鸟.md)
 
 
 ---

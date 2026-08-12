@@ -1,6 +1,6 @@
 # 文件:RAINMAKER_(1)_なめとこ山の熊封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d3\ns6%3ARAINMAKER_%281%29_%E3%81%AA%E3%82%81%E3%81%A8%E3%81%93%E5%B1%B1%E3%81%AE%E7%86%8A%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d3\ns6%3ARAINMAKER_%281%29_%E3%81%AA%E3%82%81%E3%81%A8%E3%81%93%E5%B1%B1%E3%81%AE%E7%86%8A%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 雨山電信社
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [RAINMAKER (1) なめとこ山の熊](./RAINMAKER_(1)_なめとこ山の熊.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [RAINMAKER (1) なめとこ山の熊](./RAINMAKER_(1%29_なめとこ山の熊.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

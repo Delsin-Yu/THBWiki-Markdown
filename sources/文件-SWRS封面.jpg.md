@@ -1,6 +1,6 @@
 # 文件:SWRS封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cd\ns6%3ASWRS%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cd\ns6%3ASWRS%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Iemitsu. | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ Iemitsu. | 专辑封面 | 封面图片
   
 
 - [SWRS](./SWRS.md)
-
-
-
 
 
 ---

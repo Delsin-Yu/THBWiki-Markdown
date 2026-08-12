@@ -1,6 +1,6 @@
 # 文件:東方胡魔乙女_～_Eastern_Jillballad_Story封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a7\ns6%3A%E6%9D%B1%E6%96%B9%E8%83%A1%E9%AD%94%E4%B9%99%E5%A5%B3_%EF%BD%9E_Eastern_Jillballad_Story%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a7\ns6%3A%E6%9D%B1%E6%96%B9%E8%83%A1%E9%AD%94%E4%B9%99%E5%A5%B3_%EF%BD%9E_Eastern_Jillballad_Story%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ねどふる | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方胡魔乙女 ～ Eastern Jillballad Story](./東方胡魔乙女_～_Eastern_Jillballad_Story.md)  
-该封面包含的角色：- 原创角色 (未找到链接)
+- [東方胡魔乙女 ～ Eastern Jillballad Story](./東方胡魔乙女_～_Eastern_Jillballad_Story.md)该封面包含的角色：
+- 原创角色 (未找到链接)
 
   
-源地址：[[1]](https://s2.booth.pm/1bfbd4bb-0c5a-40e1-8edf-e115b9898c98/i/886894/a0e75841-65d3-45e3-a347-9f1e5ddc9e24.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://s2.booth.pm/1bfbd4bb-0c5a-40e1-8edf-e115b9898c98/i/886894/a0e75841-65d3-45e3-a347-9f1e5ddc9e24.jpg)  
 
 ---
 

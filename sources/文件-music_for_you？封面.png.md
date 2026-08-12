@@ -1,6 +1,6 @@
 # 文件:music_for_you？封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\89\ns6%3Amusic_for_you%EF%BC%9F%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\89\ns6%3Amusic_for_you%EF%BC%9F%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 4989 | モノクロスタジオ | 专辑封面 | 封面图片 | 少年ヴィヴィッド
 
@@ -8,10 +8,7 @@
 使用了本文件作封面图片的作品：
   
 
-- [music for you？](./music_for_you？.md)源地址：[[1]](http://4989mm.littlestar.jp/vividsickrome/001.png)
-
-
-
+- [music for you？](./music_for_you？.md)源地址：[\[1\]](http://4989mm.littlestar.jp/vividsickrome/001.png)
 
 
 ---

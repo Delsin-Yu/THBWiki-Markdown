@@ -1,30 +1,29 @@
 # HOME_COMICS_上
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\67\ns0%3AHOME_COMICS_%E4%B8%8A.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\67\ns0%3AHOME_COMICS_%E4%B8%8A.html -->
 
 2018年12月30日 由 ForestRest 于 Comic Market 95 发布的漫画/总集同人志，A5尺寸一共192页，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人志 (未找到链接)** 的词条
-
+**[二次创作同人志](./二次创作.md#同人志)**的词条
 ## 作品信息
 
-<table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-HOME_COMICS_上封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/2/2a/HOME_COMICS_%E4%B8%8A%E5%B0%81%E9%9D%A2.jpg/136px-HOME_COMICS_%E4%B8%8A%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="136" height="196" srcset="https://upload.thwiki.cc/thumb/2/2a/HOME_COMICS_%E4%B8%8A%E5%B0%81%E9%9D%A2.jpg/204px-HOME_COMICS_%E4%B8%8A%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/2/2a/HOME_COMICS_%E4%B8%8A%E5%B0%81%E9%9D%A2.jpg/272px-HOME_COMICS_%E4%B8%8A%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1751" data-file-height="2523"></a><div class="cover-char">角色：<a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a>，<a href="/%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C" title="十六夜咲夜">十六夜咲夜</a>，<a href="./红美铃.md" title="红美铃">红美铃</a>，<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a>，<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>，<a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰朵露·斯卡蕾特</a>，<a href="./小恶魔.md" title="小恶魔">小恶魔</a>，<a href="./帕秋莉·诺蕾姬.md" title="帕秋莉·诺蕾姬">帕秋莉·诺蕾姬</a></div></td>
-</tr><tr><td class="label">名称</td><td colspan="2"> HOME COMICS 上 </td></tr><tr><td class="label">制作方</td><td><a href="./ForestRest.md" title="ForestRest">ForestRest</a></td><td class="cover-artwork" rowspan="7" style="min-width:196px;"><a href="./文件-HOME_COMICS_上封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/2/2a/HOME_COMICS_%E4%B8%8A%E5%B0%81%E9%9D%A2.jpg/136px-HOME_COMICS_%E4%B8%8A%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="136" height="196" srcset="https://upload.thwiki.cc/thumb/2/2a/HOME_COMICS_%E4%B8%8A%E5%B0%81%E9%9D%A2.jpg/204px-HOME_COMICS_%E4%B8%8A%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/2/2a/HOME_COMICS_%E4%B8%8A%E5%B0%81%E9%9D%A2.jpg/272px-HOME_COMICS_%E4%B8%8A%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1751" data-file-height="2523"></a><div class="cover-char">角色：<a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a>，<a href="/%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C" title="十六夜咲夜">十六夜咲夜</a>，<a href="./红美铃.md" title="红美铃">红美铃</a>，<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a>，<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>，<a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰朵露·斯卡蕾特</a>，<a href="./小恶魔.md" title="小恶魔">小恶魔</a>，<a href="./帕秋莉·诺蕾姬.md" title="帕秋莉·诺蕾姬">帕秋莉·诺蕾姬</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2018-12-30&#160;（<a href="/展会作品列表?e=Comic+Market%2395">Comic Market 95</a>）</td></tr><tr><td class="label">类型</td><td>漫画，总集</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>A5</td></tr><tr><td class="label">页数</td><td>192P</td></tr><tr><td class="label">售价</td><td>会场售价：1000日元<br>通贩售价：1387日元</td></tr>
+<table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-HOME_COMICS_上封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/2/2a/HOME_COMICS_%E4%B8%8A%E5%B0%81%E9%9D%A2.jpg/136px-HOME_COMICS_%E4%B8%8A%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="136" height="196" srcset="https://upload.thwiki.cc/thumb/2/2a/HOME_COMICS_%E4%B8%8A%E5%B0%81%E9%9D%A2.jpg/204px-HOME_COMICS_%E4%B8%8A%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/2/2a/HOME_COMICS_%E4%B8%8A%E5%B0%81%E9%9D%A2.jpg/272px-HOME_COMICS_%E4%B8%8A%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1751" data-file-height="2523"></a><div class="cover-char">角色：<a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a>，<a href="./十六夜咲夜.md" title="十六夜咲夜">十六夜咲夜</a>，<a href="./红美铃.md" title="红美铃">红美铃</a>，<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a>，<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>，<a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰朵露·斯卡蕾特</a>，<a href="./小恶魔.md" title="小恶魔">小恶魔</a>，<a href="./帕秋莉·诺蕾姬.md" title="帕秋莉·诺蕾姬">帕秋莉·诺蕾姬</a></div></td>
+</tr><tr><td class="label">名称</td><td colspan="2"> HOME COMICS 上 </td></tr><tr><td class="label">制作方</td><td><a href="./ForestRest.md" title="ForestRest">ForestRest</a></td><td class="cover-artwork" rowspan="7" style="min-width:196px;"><a href="./文件-HOME_COMICS_上封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/2/2a/HOME_COMICS_%E4%B8%8A%E5%B0%81%E9%9D%A2.jpg/136px-HOME_COMICS_%E4%B8%8A%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="136" height="196" srcset="https://upload.thwiki.cc/thumb/2/2a/HOME_COMICS_%E4%B8%8A%E5%B0%81%E9%9D%A2.jpg/204px-HOME_COMICS_%E4%B8%8A%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/2/2a/HOME_COMICS_%E4%B8%8A%E5%B0%81%E9%9D%A2.jpg/272px-HOME_COMICS_%E4%B8%8A%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1751" data-file-height="2523"></a><div class="cover-char">角色：<a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a>，<a href="./十六夜咲夜.md" title="十六夜咲夜">十六夜咲夜</a>，<a href="./红美铃.md" title="红美铃">红美铃</a>，<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a>，<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>，<a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰朵露·斯卡蕾特</a>，<a href="./小恶魔.md" title="小恶魔">小恶魔</a>，<a href="./帕秋莉·诺蕾姬.md" title="帕秋莉·诺蕾姬">帕秋莉·诺蕾姬</a></div></td>
+</tr><tr><td class="label">首发日期</td><td>2018-12-30 （<a href="./展会作品列表.md#95">Comic Market 95</a>）</td></tr><tr><td class="label">类型</td><td>漫画，总集</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>A5</td></tr><tr><td class="label">页数</td><td>192P</td></tr><tr><td class="label">售价</td><td>会场售价：1000日元<br>通贩售价：1387日元</td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://morinohon.blog66.fc2.com/blog-entry-399.html">http://morinohon.blog66.fc2.com/blog-entry-399.html</a></td></tr></tbody></table>
 
 HOME COMICS 上（同人志，ForestRest，2018） - 2018年12月30日 由 ForestRest 于 Comic Market 95 发布的漫画/总集同人志，A5尺寸一共192页，分级为 一般向
-
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=450959">蜜瓜通常版</a>，<a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=450958">蜜瓜特典版</a></td></tr></tbody></table>
 
 
-
 ## Staff
+
 - [もりのほん](./もりのほん.md)
 
 
 ## 收录内容
+
 - [HOME～月と太陽が出会う場所～①](./HOME～月と太陽が出会う場所～①.md)
 - [HOME～月と太陽が出会う場所～②](./HOME～月と太陽が出会う場所～②.md)
 - [HOME～月と太陽が出会う場所～③](./HOME～月と太陽が出会う場所～③.md)
@@ -34,7 +33,6 @@ HOME COMICS 上（同人志，ForestRest，2018） - 2018年12月30日 由 Fores
 + 附赠漫画12P
   
 
-
 ## 评论
   
 紅魔館の主であり吸血鬼であるレミリア・スカーレットがついに太陽の光がない世界を見つけて、幻想郷からの引っ越しを企み騒動を巻き起こす『HOMEシリーズ』の①～④話をまとめた『単行本-上巻-』です。  
@@ -43,14 +41,6 @@ HOME COMICS 上（同人志，ForestRest，2018） - 2018年12月30日 由 Fores
 
 次巻の『中巻』はもうしばらく先になりそうですが、本コミックスの続編の単話『HOME-第5話-』はすでに発売中ですので、ぜひそちらもよろしくお願いします! 
   
-  
-  
-
-  
-
-
-
-
 
 ---
 

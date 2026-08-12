@@ -1,12 +1,8 @@
 # 文件:AdamKadmon_banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2d\ns6%3AAdamKadmon_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2d\ns6%3AAdamKadmon_banner%2Ejpg.html -->
 
 AdamKadmon | 社团LOGO
-
-
-
-
 
 
 ---

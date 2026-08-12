@@ -1,16 +1,12 @@
 # 文件:天狗突击队logo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\02\ns6%3A%E5%A4%A9%E7%8B%97%E7%AA%81%E5%87%BB%E9%98%9Flogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\02\ns6%3A%E5%A4%A9%E7%8B%97%E7%AA%81%E5%87%BB%E9%98%9Flogo%2Ejpg.html -->
 
 天狗突击队 | 社团LOGO
 
   
 同人社团
   
-
-
-
-
 
 ---
 

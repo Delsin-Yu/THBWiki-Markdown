@@ -1,6 +1,6 @@
 # 文件:Highly_Responsive_to_FM封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\66\ns6%3AHighly_Responsive_to_FM%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\66\ns6%3AHighly_Responsive_to_FM%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 +tek | 专辑封面 | 封面图片
 
@@ -8,12 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [Highly Responsive to FM](./Highly_Responsive_to_FM.md)  
-该封面包含的角色：- [博丽灵梦（旧作角色）](./博丽灵梦（旧作角色）.md)源地址：[[1]](https://plustek.bandcamp.com/album/highly-responsive-to-fm)
-
-
-
-
+- [Highly Responsive to FM](./Highly_Responsive_to_FM.md)该封面包含的角色：
+- [博丽灵梦（旧作角色）](./博丽灵梦（旧作角色）.md)
+源地址：[\[1\]](https://plustek.bandcamp.com/album/highly-responsive-to-fm)
 
 ---
 

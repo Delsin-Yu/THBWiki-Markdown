@@ -1,16 +1,12 @@
 # 文件:ZUN_Room_2013.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\41\ns6%3AZUN_Room_2013%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\41\ns6%3AZUN_Room_2013%2Ejpg.html -->
 
 ZUN
 
   
 ZUN画的2013年自己工作室示意图。来自"The Untold History of Japanese Game Developers Volume 1"一书。
   
-
-
-
-
 
 ---
 

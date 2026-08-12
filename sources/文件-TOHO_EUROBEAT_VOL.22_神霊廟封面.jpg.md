@@ -1,6 +1,6 @@
 # 文件:TOHO_EUROBEAT_VOL.22_神霊廟封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\96\ns6%3ATOHO_EUROBEAT_VOL%2E22_%E7%A5%9E%E9%9C%8A%E5%BB%9F%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\96\ns6%3ATOHO_EUROBEAT_VOL%2E22_%E7%A5%9E%E9%9C%8A%E5%BB%9F%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 A-One | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ A-One | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [TOHO EUROBEAT VOL.22 神霊廟](./TOHO_EUROBEAT_VOL.22_神霊廟.md)  
-该封面包含的角色：- [丰聪耳神子](./丰聪耳神子.md)
-
-
-
+- [TOHO EUROBEAT VOL.22 神霊廟](./TOHO_EUROBEAT_VOL.22_神霊廟.md)该封面包含的角色：
+- [丰聪耳神子](./丰聪耳神子.md)
 
 
 ---

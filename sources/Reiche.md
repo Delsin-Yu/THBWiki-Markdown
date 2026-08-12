@@ -1,73 +1,50 @@
 # Reiche
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\07\ns0%3AReiche.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\07\ns0%3AReiche.html -->
 
 Reiche ，主要制作 同人音乐 的日本同人社团，主催是 J･Weidinger，当前状态为 休止
 
-本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
-
+本页是关于**[同人社团](./二次创作.md#同人社团)**的词条
 ## 目录
 
 - [1 社团信息](#社团信息)
 - [2 成员名单](#成员名单)
 - [3 作品列表](#作品列表)
-
   - [3.1 同人专辑](#同人专辑)
-
 
 
 - [4 其他信息](#其他信息)
 
 
-
-
-
 ## 社团信息
-[](./文件-Reichebanner.jpg.md)  [](./文件-Reichebanner.jpg.md)banner
-
-<table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Reiche </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=J%EF%BD%A5Weidinger&amp;action=edit&amp;redlink=1" class="new" title="J･Weidinger（页面不存在）">J･Weidinger</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://reiche.seesaa.net/">http://reiche.seesaa.net/</a> </td></tr></tbody></table>
+<img alt="" src="https://upload.thwiki.cc/8/83/Reichebanner.jpg" decoding="async" loading="lazy" width="200" height="40" class="thumbimage" data-file-width="200" data-file-height="40">
+ [放大](./文件-Reichebanner.jpg.md)banner
+<table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Reiche </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>主催</b></td><td> <a class="new" title="J･Weidinger（页面不存在）">J･Weidinger</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://reiche.seesaa.net/">http://reiche.seesaa.net/</a> </td></tr></tbody></table>
 
 Reiche（同人社团，同人音乐社团） - Reiche ，主要制作 同人音乐 的日本同人社团，主催是 J･Weidinger，当前状态为 休止
-
 ## 成员名单
+
 - J･Weidinger (未找到链接)
 
 
 ## 作品列表
 
 ### 同人专辑
-[](./まりさの音楽時間.md)[まりさの音楽時間](./まりさの音楽時間.md)首发日期：2005-10-30 （恋色マジック1 (未找到链接)）EP （一般向）[](./幻想郷紀行.md)[幻想郷紀行](./幻想郷紀行.md)首发日期：2006-05-21 （第三回 博麗神社例大祭 (未找到链接)）全长 （一般向）[](./石笛.md)[石笛](./石笛.md)首发日期：2006-06-02 RMCD-2全长 （一般向）[](./イナバの音楽時間.md)[イナバの音楽時間](./イナバの音楽時間.md)首发日期：2006-07-02 （東方兎月祭 (未找到链接)）RMCD-005EP （一般向）[](./絵本組曲『少女と魔法』.md)[絵本組曲『少女と魔法』](./絵本組曲『少女と魔法』.md)首发日期：2006-12-31 （Comic Market 71 (未找到链接)）RMCD-008全长 （一般向）[](./フルートとリコーダーによる小品集.md)[フルートとリコーダーによる小品集](./フルートとリコーダーによる小品集.md)首发日期：2006-12-31 （Comic Market 71 (未找到链接)）合作 （一般向）该作品是与 [鋲の人](./鋲の人.md) 合作创作的[](./幻想郷レトロジカル.md)[幻想郷レトロジカル](./幻想郷レトロジカル.md)首发日期：2007-05-20 （第四回 博麗神社例大祭 (未找到链接)）RMCD-009全长 （一般向）[](./図書館ではお静かに.md)[図書館ではお静かに](./図書館ではお静かに.md)首发日期：2008-03-02 （大図書館の読書会1 (未找到链接)）RMCD-013全长 （一般向）[](./ポロポロポロロッカ_～河城にとりの実験工房.md)[ポロポロポロロッカ ～河城にとりの実験工房](./ポロポロポロロッカ_～河城にとりの実験工房.md)首发日期：2008-05-25 （第五回 博麗神社例大祭 (未找到链接)）RMCD-014全长 （一般向）[](./トラウマロジカル.md)[トラウマロジカル](./トラウマロジカル.md)首发日期：2009-03-08 （第六回 博麗神社例大祭 (未找到链接)）全长 （一般向）[](./トビクラマジカル.md)[トビクラマジカル](./トビクラマジカル.md)首发日期：2010-03-14 （第七回 博麗神社例大祭 (未找到链接)）RMCD-021全长 （一般向）
-<table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
-
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
-
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
-
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
-
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
-
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
-
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
-
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
-
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
-
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
-
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
-</table>
-
-
+- **[まりさの音楽時間](./まりさの音楽時間.md)** — 首发日期：2005-10-30 （恋色マジック1）；EP （一般向）
+- **[幻想郷紀行](./幻想郷紀行.md)** — 首发日期：2006-05-21 （第三回 博麗神社例大祭）；全长 （一般向）
+- **[石笛](./石笛.md)** — 首发日期：2006-06-02；RMCD-2；全长 （一般向）
+- **[イナバの音楽時間](./イナバの音楽時間.md)** — 首发日期：2006-07-02 （東方兎月祭）；RMCD-005；EP （一般向）
+- **[絵本組曲『少女と魔法』](./絵本組曲『少女と魔法』.md)** — 首发日期：2006-12-31 （Comic Market 71）；RMCD-008；全长 （一般向）
+- **[フルートとリコーダーによる小品集](./フルートとリコーダーによる小品集.md)** — 首发日期：2006-12-31 （Comic Market 71）；合作 （一般向）；该作品是与 鋲の人 合作创作的
+- **[幻想郷レトロジカル](./幻想郷レトロジカル.md)** — 首发日期：2007-05-20 （第四回 博麗神社例大祭）；RMCD-009；全长 （一般向）
+- **[図書館ではお静かに](./図書館ではお静かに.md)** — 首发日期：2008-03-02 （大図書館の読書会1）；RMCD-013；全长 （一般向）
+- **[ポロポロポロロッカ ～河城にとりの実験工房](./ポロポロポロロッカ_～河城にとりの実験工房.md)** — 首发日期：2008-05-25 （第五回 博麗神社例大祭）；RMCD-014；全长 （一般向）
+- **[トラウマロジカル](./トラウマロジカル.md)** — 首发日期：2009-03-08 （第六回 博麗神社例大祭）；全长 （一般向）
+- **[トビクラマジカル](./トビクラマジカル.md)** — 首发日期：2010-03-14 （第七回 博麗神社例大祭）；RMCD-021；全长 （一般向）
 
 ## 其他信息
+
 - 该社团主要活动领域为：艦これ､葉鍵､東方
-
-
-
-
 
 
 ---

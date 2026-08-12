@@ -1,6 +1,6 @@
 # 文件:新米閻魔VS.邪悪な旧作幽香ちゃん封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f1\ns6%3A%E6%96%B0%E7%B1%B3%E9%96%BB%E9%AD%94VS%2E%E9%82%AA%E6%82%AA%E3%81%AA%E6%97%A7%E4%BD%9C%E5%B9%BD%E9%A6%99%E3%81%A1%E3%82%83%E3%82%93%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f1\ns6%3A%E6%96%B0%E7%B1%B3%E9%96%BB%E9%AD%94VS%2E%E9%82%AA%E6%82%AA%E3%81%AA%E6%97%A7%E4%BD%9C%E5%B9%BD%E9%A6%99%E3%81%A1%E3%82%83%E3%82%93%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 草枕と
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [新米閻魔VS.邪悪な旧作幽香ちゃん](./新米閻魔VS.邪悪な旧作幽香ちゃん.md)  
-该封面包含的角色：- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)- [幽香](./幽香.md)
-
-
-
+- [新米閻魔VS.邪悪な旧作幽香ちゃん](./新米閻魔VS.邪悪な旧作幽香ちゃん.md)该封面包含的角色：
+- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)
+- [幽香](./幽香.md)
 
 
 ---

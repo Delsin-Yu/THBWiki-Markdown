@@ -1,6 +1,6 @@
 # 文件:Treason_Vibes封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a8\ns6%3ATreason_Vibes%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a8\ns6%3ATreason_Vibes%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 音召缶
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [Treason Vibes](./Treason_Vibes.md)  
-该封面包含的角色：- [赤蛮奇](./赤蛮奇.md)- [鬼人正邪](./鬼人正邪.md)
-
-
-
+- [Treason Vibes](./Treason_Vibes.md)该封面包含的角色：
+- [赤蛮奇](./赤蛮奇.md)
+- [鬼人正邪](./鬼人正邪.md)
 
 
 ---

@@ -1,18 +1,13 @@
 # 文件:Prismicalogo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\39\ns6%3APrismicalogo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\39\ns6%3APrismicalogo%2Epng.html -->
 
 Prismica | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[[1]](https://web.archive.org/web/20180628014524im_/https://prismi.ca/prismica.png)
-  
-
-
-
-
+源地址：[\[1\]](https://web.archive.org/web/20180628014524im_/https://prismi.ca/prismica.png)  
 
 ---
 

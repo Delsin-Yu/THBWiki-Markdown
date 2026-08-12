@@ -1,6 +1,6 @@
 # 文件:INNOCENT-ILLUST_BOOK-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b7\ns6%3AINNOCENT-ILLUST_BOOK-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b7\ns6%3AINNOCENT-ILLUST_BOOK-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 みずいろシャボン | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [INNOCENT-ILLUST BOOK-](./INNOCENT-ILLUST_BOOK-.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)
+- [INNOCENT-ILLUST BOOK-](./INNOCENT-ILLUST_BOOK-.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
 
   
-源地址：[direct image link (original size)](https://pbs.twimg.com/media/EjUiqrZVkAQeBK8?format=jpg&amp;name=orig), [source tweet](https://twitter.com/judgmentsp0414/status/1311994561229541376)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://pbs.twimg.com/media/EjUiqrZVkAQeBK8?format=jpg&name=orig), [source tweet](https://twitter.com/judgmentsp0414/status/1311994561229541376)  
 
 ---
 

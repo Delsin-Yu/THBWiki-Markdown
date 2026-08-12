@@ -1,6 +1,6 @@
 # 文件:Keep_Your_Faith封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e1\ns6%3AKeep_Your_Faith%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e1\ns6%3AKeep_Your_Faith%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 IRON_ATTACK! | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ IRON_ATTACK! | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Keep Your Faith](./Keep_Your_Faith.md)  
-该封面包含的角色：- [东风谷早苗](./东风谷早苗.md)
+- [Keep Your Faith](./Keep_Your_Faith.md)该封面包含的角色：
+- [东风谷早苗](./东风谷早苗.md)
 
   
-源地址：[[1]](https://pbs.twimg.com/media/C92XhsTUQAAnU5s.jpg:large)
-  
-
-
-
-
+源地址：[\[1\]](https://pbs.twimg.com/media/C92XhsTUQAAnU5s.jpg:large)  
 
 ---
 

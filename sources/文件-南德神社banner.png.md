@@ -1,12 +1,8 @@
 # 文件:南德神社banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d1\ns6%3A%E5%8D%97%E5%BE%B7%E7%A5%9E%E7%A4%BEbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d1\ns6%3A%E5%8D%97%E5%BE%B7%E7%A5%9E%E7%A4%BEbanner%2Epng.html -->
 
 南德神社 | 社团LOGO
-
-
-
-
 
 
 ---

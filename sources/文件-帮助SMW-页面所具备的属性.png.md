@@ -1,16 +1,12 @@
 # 文件:帮助SMW-页面所具备的属性.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a2\ns6%3A%E5%B8%AE%E5%8A%A9SMW-%E9%A1%B5%E9%9D%A2%E6%89%80%E5%85%B7%E5%A4%87%E7%9A%84%E5%B1%9E%E6%80%A7%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a2\ns6%3A%E5%B8%AE%E5%8A%A9SMW-%E9%A1%B5%E9%9D%A2%E6%89%80%E5%85%B7%E5%A4%87%E7%9A%84%E5%B1%9E%E6%80%A7%2Epng.html -->
 
 帮助文档
 
   
 用于[帮助:SMW](./帮助-SMW.md)页面的说明。
   
-
-
-
-
 
 ---
 

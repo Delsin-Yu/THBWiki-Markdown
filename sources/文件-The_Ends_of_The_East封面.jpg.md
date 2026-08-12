@@ -1,6 +1,6 @@
 # 文件:The_Ends_of_The_East封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e0\ns6%3AThe_Ends_of_The_East%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e0\ns6%3AThe_Ends_of_The_East%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Kissing_the_Mirror | LA_KIA | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Kissing_the_Mirror | LA_KIA | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [The Ends of The East](./The_Ends_of_The_East.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [The Ends of The East](./The_Ends_of_The_East.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

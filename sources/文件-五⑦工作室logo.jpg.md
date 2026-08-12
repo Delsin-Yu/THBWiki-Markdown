@@ -1,18 +1,13 @@
 # 文件:五⑦工作室logo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ca\ns6%3A%E4%BA%94%E2%91%A6%E5%B7%A5%E4%BD%9C%E5%AE%A4logo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ca\ns6%3A%E4%BA%94%E2%91%A6%E5%B7%A5%E4%BD%9C%E5%AE%A4logo%2Ejpg.html -->
 
 五⑦工作室 | 社团LOGO
 
 
 ## 摘要
   
-源地址：[direct image link](https://gss0.baidu.com/7Ls0a8Sm2Q5IlBGlnYG/sys/portraith/item/tb.1.cdca4a6a.bvpfHVIAvdpizqQm_sGShQ), [source page](https://tieba.baidu.com/home/main?id=tb.1.cdca4a6a.bvpfHVIAvdpizqQm_sGShQ)
-  
-
-
-
-
+源地址：[direct image link](https://gss0.baidu.com/7Ls0a8Sm2Q5IlBGlnYG/sys/portraith/item/tb.1.cdca4a6a.bvpfHVIAvdpizqQm_sGShQ), [source page](https://tieba.baidu.com/home/main?id=tb.1.cdca4a6a.bvpfHVIAvdpizqQm_sGShQ)  
 
 ---
 

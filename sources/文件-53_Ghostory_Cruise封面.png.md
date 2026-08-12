@@ -1,6 +1,6 @@
 # 文件:53_Ghostory_Cruise封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2f\ns6%3A53_Ghostory_Cruise%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2f\ns6%3A53_Ghostory_Cruise%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 梶迫小道具店
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [53 Ghostory Cruise](./53_Ghostory_Cruise.md)  
-该封面包含的角色：- [宇佐见莲子](./宇佐见莲子.md)
+- [53 Ghostory Cruise](./53_Ghostory_Cruise.md)该封面包含的角色：
+- [宇佐见莲子](./宇佐见莲子.md)
 
   
-源地址：[[1]](http://static.tumblr.com/b775d9bca4eef3d5ea2763c3501a3477/ceutwp6/aaJn8vw1f/tumblr_static_5gpauq325yo8sg88kkos8k8o4.png)
-  
-
-
-
-
+源地址：[\[1\]](http://static.tumblr.com/b775d9bca4eef3d5ea2763c3501a3477/ceutwp6/aaJn8vw1f/tumblr_static_5gpauq325yo8sg88kkos8k8o4.png)  
 
 ---
 

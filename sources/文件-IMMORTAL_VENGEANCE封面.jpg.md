@@ -1,6 +1,6 @@
 # 文件:IMMORTAL_VENGEANCE封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d9\ns6%3AIMMORTAL_VENGEANCE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d9\ns6%3AIMMORTAL_VENGEANCE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 THOUSAND_LEAVES | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ THOUSAND_LEAVES | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [IMMORTAL VENGEANCE](./IMMORTAL_VENGEANCE.md)  
-该封面包含的角色：- [藤原妹红](./藤原妹红.md)
-
-
-
+- [IMMORTAL VENGEANCE](./IMMORTAL_VENGEANCE.md)该封面包含的角色：
+- [藤原妹红](./藤原妹红.md)
 
 
 ---

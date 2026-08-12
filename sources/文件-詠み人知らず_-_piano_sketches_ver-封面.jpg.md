@@ -1,6 +1,6 @@
 # 文件:詠み人知らず_-_piano_sketches_ver-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\df\ns6%3A%E8%A9%A0%E3%81%BF%E4%BA%BA%E7%9F%A5%E3%82%89%E3%81%9A_-_piano_sketches_ver-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\df\ns6%3A%E8%A9%A0%E3%81%BF%E4%BA%BA%E7%9F%A5%E3%82%89%E3%81%9A_-_piano_sketches_ver-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ZYTOKINE | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ ZYTOKINE | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [詠み人知らず - piano sketches ver-](./詠み人知らず_-_piano_sketches_ver-.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
-
-
-
+- [詠み人知らず - piano sketches ver-](./詠み人知らず_-_piano_sketches_ver-.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
 
 
 ---

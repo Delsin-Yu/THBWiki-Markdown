@@ -1,6 +1,6 @@
 # 文件:objection封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5d\ns6%3Aobjection%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5d\ns6%3Aobjection%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Lunatic_mixture | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Lunatic_mixture | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [objection](./objection.md)  
-该封面包含的角色：- [上白泽慧音](./上白泽慧音.md)
+- [objection](./objection.md)该封面包含的角色：
+- [上白泽慧音](./上白泽慧音.md)
 
   
-源地址：[[1]](http://static.tumblr.com/5424b74611b538a0a0f37d9444bebb2f/g3cxsik/s5Xnzlrcp/tumblr_static_46h8t69ftqm8g84s4cgco0co8.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://static.tumblr.com/5424b74611b538a0a0f37d9444bebb2f/g3cxsik/s5Xnzlrcp/tumblr_static_46h8t69ftqm8g84s4cgco0co8.jpg)  
 
 ---
 

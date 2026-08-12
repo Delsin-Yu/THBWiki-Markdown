@@ -1,6 +1,6 @@
 # 文件:2hu封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\da\ns6%3A2hu%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\da\ns6%3A2hu%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 scarps | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ scarps | 专辑封面 | 封面图片
   
 
 - [2hu](./2hu.md)
-
-
-
 
 
 ---

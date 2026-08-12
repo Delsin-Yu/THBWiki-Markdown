@@ -1,6 +1,6 @@
 # 文件:dead_space_zombies封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c4\ns6%3Adead_space_zombies%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c4\ns6%3Adead_space_zombies%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 cakebox | モノクロ殺人現場写真 | 专辑封面 | 封面图片 | 暴LADY | 鉄腕トカゲ探知機
 
@@ -8,11 +8,8 @@ cakebox | モノクロ殺人現場写真 | 专辑封面 | 封面图片 | 暴LADY
 使用了本文件作封面图片的作品：
   
 
-- [dead space zombies](./dead_space_zombies.md)  
-该封面包含的角色：- [霍青娥](./霍青娥.md)
-
-
-
+- [dead space zombies](./dead_space_zombies.md)该封面包含的角色：
+- [霍青娥](./霍青娥.md)
 
 
 ---

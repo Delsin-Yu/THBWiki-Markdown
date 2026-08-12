@@ -1,6 +1,6 @@
 # 文件:喧喧囂囂寂滅譫妄_～_Catharsis_of_Delirium_～封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\51\ns6%3A%E5%96%A7%E5%96%A7%E5%9B%82%E5%9B%82%E5%AF%82%E6%BB%85%E8%AD%AB%E5%A6%84_%EF%BD%9E_Catharsis_of_Delirium_%EF%BD%9E%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\51\ns6%3A%E5%96%A7%E5%96%A7%E5%9B%82%E5%9B%82%E5%AF%82%E6%BB%85%E8%AD%AB%E5%A6%84_%EF%BD%9E_Catharsis_of_Delirium_%EF%BD%9E%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Sworn_To_The_Black | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Sworn_To_The_Black | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [喧喧囂囂寂滅譫妄 ～ Catharsis of Delirium ～](./喧喧囂囂寂滅譫妄_～_Catharsis_of_Delirium_～.md)  
-该封面包含的角色：- [古明地恋](./古明地恋.md)
-
-
-
+- [喧喧囂囂寂滅譫妄 ～ Catharsis of Delirium ～](./喧喧囂囂寂滅譫妄_～_Catharsis_of_Delirium_～.md)该封面包含的角色：
+- [古明地恋](./古明地恋.md)
 
 
 ---

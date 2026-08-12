@@ -1,6 +1,6 @@
 # 文件:東方輝針城合同誌_NEEDLE！！封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\01\ns6%3A%E6%9D%B1%E6%96%B9%E8%BC%9D%E9%87%9D%E5%9F%8E%E5%90%88%E5%90%8C%E8%AA%8C_NEEDLE%EF%BC%81%EF%BC%81%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\01\ns6%3A%E6%9D%B1%E6%96%B9%E8%BC%9D%E9%87%9D%E5%9F%8E%E5%90%88%E5%90%8C%E8%AA%8C_NEEDLE%EF%BC%81%EF%BC%81%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 めんつゆパレード | 同人志封面 | 封面图片
 
@@ -10,11 +10,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方輝針城合同誌 NEEDLE！！](./東方輝針城合同誌_NEEDLE！！.md)  
-该封面包含的角色：- [赤蛮奇](./赤蛮奇.md)- [今泉影狼](./今泉影狼.md)- [鬼人正邪](./鬼人正邪.md)
-
-
-
+- [東方輝針城合同誌 NEEDLE！！](./東方輝針城合同誌_NEEDLE！！.md)该封面包含的角色：
+- [赤蛮奇](./赤蛮奇.md)
+- [今泉影狼](./今泉影狼.md)
+- [鬼人正邪](./鬼人正邪.md)
 
 
 ---

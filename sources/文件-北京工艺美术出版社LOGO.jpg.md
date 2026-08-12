@@ -1,14 +1,11 @@
 # 文件:北京工艺美术出版社LOGO.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\80\ns6%3A%E5%8C%97%E4%BA%AC%E5%B7%A5%E8%89%BA%E7%BE%8E%E6%9C%AF%E5%87%BA%E7%89%88%E7%A4%BELOGO%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\80\ns6%3A%E5%8C%97%E4%BA%AC%E5%B7%A5%E8%89%BA%E7%BE%8E%E6%9C%AF%E5%87%BA%E7%89%88%E7%A4%BELOGO%2Ejpg.html -->
 
 企业LOGO | 北京工艺美术出版社
 
 
 ## 摘要
-
-
-
 
 ---
 

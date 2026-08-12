@@ -1,6 +1,6 @@
 # 文件:胡蝶夢眼_～_drip_the_drop_of_drug_for_trip_to_slip封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\17\ns6%3A%E8%83%A1%E8%9D%B6%E5%A4%A2%E7%9C%BC_%EF%BD%9E_drip_the_drop_of_drug_for_trip_to_slip%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\17\ns6%3A%E8%83%A1%E8%9D%B6%E5%A4%A2%E7%9C%BC_%EF%BD%9E_drip_the_drop_of_drug_for_trip_to_slip%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 荒御灵
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [胡蝶夢眼 ～ drip the drop of drug for trip to slip](./胡蝶夢眼_～_drip_the_drop_of_drug_for_trip_to_slip.md)  
-该封面包含的角色：- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
-
-
-
+- [胡蝶夢眼 ～ drip the drop of drug for trip to slip](./胡蝶夢眼_～_drip_the_drop_of_drug_for_trip_to_slip.md)该封面包含的角色：
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
 
 
 ---

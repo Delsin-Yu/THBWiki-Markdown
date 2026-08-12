@@ -1,12 +1,8 @@
 # 文件:GoM插图（魔理沙-5-1）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7e\ns6%3AGoM%E6%8F%92%E5%9B%BE%EF%BC%88%E9%AD%94%E7%90%86%E6%B2%99-5-1%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7e\ns6%3AGoM%E6%8F%92%E5%9B%BE%EF%BC%88%E9%AD%94%E7%90%86%E6%B2%99-5-1%EF%BC%89%2Ejpg.html -->
 
 雾雨魔理沙 | 魔理沙的魔法书
-
-
-
-
 
 
 ---

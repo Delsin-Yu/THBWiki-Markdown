@@ -1,6 +1,6 @@
 # 文件:Lunarium（Murder_Ground）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4e\ns6%3ALunarium%EF%BC%88Murder_Ground%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4e\ns6%3ALunarium%EF%BC%88Murder_Ground%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Murder_Ground | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Murder_Ground | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Lunarium（Murder Ground）](./Lunarium（Murder_Ground）.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [Lunarium（Murder Ground）](./Lunarium（Murder_Ground）.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

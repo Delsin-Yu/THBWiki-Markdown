@@ -1,6 +1,6 @@
 # 文件:風櫻_SECOND_PHANTASMA封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\60\ns6%3A%E9%A2%A8%E6%AB%BB_SECOND_PHANTASMA%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\60\ns6%3A%E9%A2%A8%E6%AB%BB_SECOND_PHANTASMA%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 IOSYS | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ IOSYS | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [風櫻 SECOND PHANTASMA](./風櫻_SECOND_PHANTASMA.md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)- [姬海棠果](./姬海棠果.md)
-
-
-
+- [風櫻 SECOND PHANTASMA](./風櫻_SECOND_PHANTASMA.md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
+- [姬海棠果](./姬海棠果.md)
 
 
 ---

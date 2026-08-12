@@ -1,12 +1,8 @@
 # 文件:多多良工作室logo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f6\ns6%3A%E5%A4%9A%E5%A4%9A%E8%89%AF%E5%B7%A5%E4%BD%9C%E5%AE%A4logo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f6\ns6%3A%E5%A4%9A%E5%A4%9A%E8%89%AF%E5%B7%A5%E4%BD%9C%E5%AE%A4logo%2Ejpg.html -->
 
 多多良工作室 | 社团LOGO
-
-
-
-
 
 
 ---

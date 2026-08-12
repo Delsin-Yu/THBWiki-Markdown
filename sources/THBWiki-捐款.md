@@ -1,6 +1,6 @@
 # THBWiki:捐款
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\6\66\ns4%3A%E6%8D%90%E6%AC%BE.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\6\66\ns4%3A%E6%8D%90%E6%AC%BE.html -->
 
 
 
@@ -10,33 +10,25 @@
 - [1 在捐款之前需要告知的事项](#在捐款之前需要告知的事项)
 - [2 为何我们需要捐款](#为何我们需要捐款)
 - [3 捐款方式](#捐款方式)
-
   - [3.1 支付宝](#支付宝)
   - [3.2 微信](#微信)
 
 
-
 - [4 其他说明](#其他说明)
-
-
-
 
 
 ## 在捐款之前需要告知的事项
   
 THBWiki及其复数服务每年都需要相当数量的服务器租金与域名费用。  
 
-在2022年之前，这笔费用 **绝大部分由名誉站长囧仙 (未找到链接)独力承担** ，详细支出情况可见[TBSGroup/支出情况](./TBSGroup-支出情况.md)。  
+在2022年之前，这笔费用**绝大部分由名誉站长囧仙 (未找到链接)独力承担**，详细支出情况可见[TBSGroup/支出情况](./TBSGroup-支出情况.md)。  
 
 目前，由7名THBWiki常驻编辑、管理与热心人士平摊租金费用。  
 
 当然，我们也在积极寻找能让Wiki自行周转资金的方法，如在首页出租轮播广告位、制作THB品牌的同人创作物等等。  
 
-但是很可惜，目前阶段想要依靠这些方法回收足够支付服务器费用的资金是 **不可能** 的。  
-
- **该页面提供的捐款渠道仅作THBWiki主站与附属功能的运营维护资金，如想为其他如喵玉殿、MC幻想乡等中文东方社群项目捐款，请使用对应组织·网站·项目提供的捐款渠道。** 
-  
-
+但是很可惜，目前阶段想要依靠这些方法回收足够支付服务器费用的资金是**不可能**的。  
+**该页面提供的捐款渠道仅作THBWiki主站与附属功能的运营维护资金，如想为其他如喵玉殿、MC幻想乡等中文东方社群项目捐款，请使用对应组织·网站·项目提供的捐款渠道。**  
 
 ## 为何我们需要捐款
   
@@ -45,25 +37,22 @@ THBWiki及其复数服务每年都需要相当数量的服务器租金与域名�
 长期来看，这样的运营方式是脆弱而不可持续的。  
 
 为此，我们也希望能得到大家的捐款支持，来减轻各位出资人的经济负担。如果可能的话，把富余的部分用于后备资金、提升Wiki的使用体验或拓展项目。  
-
- **但是，请大家一定保证在经济富余的前提下理性捐款。** 
-  
-
+**但是，请大家一定保证在经济富余的前提下理性捐款。**  
 
 ## 捐款方式
 
 ### 支付宝
-[](./文件-THBWiki临时捐款二维码.png.md)  [](./文件-THBWiki临时捐款二维码.png.md)转账二维码
-- 请确认收款账户为 **THBWiki** 。  
-
-- 如有署名和留言的需求，请在转账时 **添加备注** ，在备注中注明署名名义与留言。
+<img alt="" src="https://upload.thwiki.cc/thumb/8/82/THBWiki%E4%B8%B4%E6%97%B6%E6%8D%90%E6%AC%BE%E4%BA%8C%E7%BB%B4%E7%A0%81.png/250px-THBWiki%E4%B8%B4%E6%97%B6%E6%8D%90%E6%AC%BE%E4%BA%8C%E7%BB%B4%E7%A0%81.png" decoding="async" loading="lazy" width="250" height="249" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/8/82/THBWiki%E4%B8%B4%E6%97%B6%E6%8D%90%E6%AC%BE%E4%BA%8C%E7%BB%B4%E7%A0%81.png/375px-THBWiki%E4%B8%B4%E6%97%B6%E6%8D%90%E6%AC%BE%E4%BA%8C%E7%BB%B4%E7%A0%81.png 1.5x, https://upload.thwiki.cc/thumb/8/82/THBWiki%E4%B8%B4%E6%97%B6%E6%8D%90%E6%AC%BE%E4%BA%8C%E7%BB%B4%E7%A0%81.png/500px-THBWiki%E4%B8%B4%E6%97%B6%E6%8D%90%E6%AC%BE%E4%BA%8C%E7%BB%B4%E7%A0%81.png 2x" data-file-width="898" data-file-height="896">
+ [放大](./文件-THBWiki临时捐款二维码.png.md)转账二维码
+- 请确认收款账户为**THBWiki**。
+- 如有署名和留言的需求，请在转账时**添加备注**，在备注中注明署名名义与留言。
 
 
 ### 微信
-[](./文件-THBWiki临时捐款微信二维码.png.md)  [](./文件-THBWiki临时捐款微信二维码.png.md)转账二维码
-- 请确认收款账户为 **THBWiki** 。  
-
-- 如有署名和留言的需求，请在转账时 **添加备注** ，在备注中注明署名名义与留言。
+<img alt="" src="https://upload.thwiki.cc/thumb/f/f6/THBWiki%E4%B8%B4%E6%97%B6%E6%8D%90%E6%AC%BE%E5%BE%AE%E4%BF%A1%E4%BA%8C%E7%BB%B4%E7%A0%81.png/250px-THBWiki%E4%B8%B4%E6%97%B6%E6%8D%90%E6%AC%BE%E5%BE%AE%E4%BF%A1%E4%BA%8C%E7%BB%B4%E7%A0%81.png" decoding="async" loading="lazy" width="250" height="251" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/f/f6/THBWiki%E4%B8%B4%E6%97%B6%E6%8D%90%E6%AC%BE%E5%BE%AE%E4%BF%A1%E4%BA%8C%E7%BB%B4%E7%A0%81.png/375px-THBWiki%E4%B8%B4%E6%97%B6%E6%8D%90%E6%AC%BE%E5%BE%AE%E4%BF%A1%E4%BA%8C%E7%BB%B4%E7%A0%81.png 1.5x, https://upload.thwiki.cc/thumb/f/f6/THBWiki%E4%B8%B4%E6%97%B6%E6%8D%90%E6%AC%BE%E5%BE%AE%E4%BF%A1%E4%BA%8C%E7%BB%B4%E7%A0%81.png/500px-THBWiki%E4%B8%B4%E6%97%B6%E6%8D%90%E6%AC%BE%E5%BE%AE%E4%BF%A1%E4%BA%8C%E7%BB%B4%E7%A0%81.png 2x" data-file-width="908" data-file-height="913">
+ [放大](./文件-THBWiki临时捐款微信二维码.png.md)转账二维码
+- 请确认收款账户为**THBWiki**。
+- 如有署名和留言的需求，请在转账时**添加备注**，在备注中注明署名名义与留言。
 
 
 ## 其他说明
@@ -74,12 +63,8 @@ THBWiki及其复数服务每年都需要相当数量的服务器租金与域名�
 
 欢迎各位在备注等信息中署上想展示的名字与留言，我们也会一并记录。  
 
-虽然很感谢大家的支持与资助，但是请明确一点：THBWiki是公共项目，管理团队在其中能做的事情非常有限，无论您捐出多少，我们都可能无法回应您对Wiki的——尤其是在Wiki运营策略、方向性上的——期待。 **请仅出于自身意愿，理性捐款** 。
+虽然很感谢大家的支持与资助，但是请明确一点：THBWiki是公共项目，管理团队在其中能做的事情非常有限，无论您捐出多少，我们都可能无法回应您对Wiki的——尤其是在Wiki运营策略、方向性上的——期待。**请仅出于自身意愿，理性捐款**。
   
-
-
-
-
 
 ---
 

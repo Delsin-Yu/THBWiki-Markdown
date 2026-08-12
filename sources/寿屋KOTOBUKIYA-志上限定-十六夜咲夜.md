@@ -1,37 +1,21 @@
 # 寿屋KOTOBUKIYA/志上限定/十六夜咲夜
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\f1\ns0%3A%E5%AF%BF%E5%B1%8BKOTOBUKIYA%2F%E5%BF%97%E4%B8%8A%E9%99%90%E5%AE%9A%2F%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\f1\ns0%3A%E5%AF%BF%E5%B1%8BKOTOBUKIYA%2F%E5%BF%97%E4%B8%8A%E9%99%90%E5%AE%9A%2F%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C.html -->
 
 十六夜咲夜PVCFigure手办模型
 
 本页是关于东方Project  
- **相关实体周边 (未找到链接)** 的词条
-
+**相关实体周边 (未找到链接)**的词条
 ## 模型信息
 
-<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 十六夜咲夜 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>志上限定</td></tr><tr><td class="label">角色</td><td><a href="/%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C" title="十六夜咲夜">十六夜咲夜</a></td></tr><tr><td class="label">比例</td><td>1/8</td></tr><tr><td class="label">尺寸</td><td>220mm</td></tr><tr><td class="label">状态</td><td>已发售</td></tr><tr><td class="label">售价</td><td>6800円</td></tr><tr><td class="label">首发日期</td><td>2010-09</td></tr><tr><td class="label">发售方</td><td><a href="/index.php?title=%E5%AF%BF%E5%B1%8BKOTOBUKIYA&amp;action=edit&amp;redlink=1" class="new" title="寿屋KOTOBUKIYA（页面不存在）">寿屋KOTOBUKIYA</a></td></tr></tbody></table>
+<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 十六夜咲夜 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>志上限定</td></tr><tr><td class="label">角色</td><td><a href="./十六夜咲夜.md" title="十六夜咲夜">十六夜咲夜</a></td></tr><tr><td class="label">比例</td><td>1/8</td></tr><tr><td class="label">尺寸</td><td>220mm</td></tr><tr><td class="label">状态</td><td>已发售</td></tr><tr><td class="label">售价</td><td>6800円</td></tr><tr><td class="label">首发日期</td><td>2010-09</td></tr><tr><td class="label">发售方</td><td><a class="new" title="寿屋KOTOBUKIYA（页面不存在）">寿屋KOTOBUKIYA</a></td></tr></tbody></table>
 
 寿屋KOTOBUKIYA/志上限定/十六夜咲夜（周边） - 十六夜咲夜PVCFigure手办模型
-
 ## 参考图片
-
-
-
-[](./文件-寿屋KOTOBUKIYA志上限定十六夜咲夜-1.jpg.md)
-
-
-[](./文件-寿屋KOTOBUKIYA志上限定十六夜咲夜-2.jpg.md)
-
-
-[](./文件-寿屋KOTOBUKIYA志上限定十六夜咲夜-3.jpg.md)
-
+<img alt="寿屋KOTOBUKIYA志上限定十六夜咲夜" src="https://upload.thwiki.cc/thumb/9/90/%E5%AF%BF%E5%B1%8BKOTOBUKIYA%E5%BF%97%E4%B8%8A%E9%99%90%E5%AE%9A%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C-1.jpg/160px-%E5%AF%BF%E5%B1%8BKOTOBUKIYA%E5%BF%97%E4%B8%8A%E9%99%90%E5%AE%9A%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C-1.jpg" decoding="async" loading="lazy" width="160" height="349" srcset="https://upload.thwiki.cc/thumb/9/90/%E5%AF%BF%E5%B1%8BKOTOBUKIYA%E5%BF%97%E4%B8%8A%E9%99%90%E5%AE%9A%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C-1.jpg/240px-%E5%AF%BF%E5%B1%8BKOTOBUKIYA%E5%BF%97%E4%B8%8A%E9%99%90%E5%AE%9A%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C-1.jpg 1.5x, https://upload.thwiki.cc/thumb/9/90/%E5%AF%BF%E5%B1%8BKOTOBUKIYA%E5%BF%97%E4%B8%8A%E9%99%90%E5%AE%9A%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C-1.jpg/320px-%E5%AF%BF%E5%B1%8BKOTOBUKIYA%E5%BF%97%E4%B8%8A%E9%99%90%E5%AE%9A%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C-1.jpg 2x" data-file-width="376" data-file-height="819">
+<img alt="寿屋KOTOBUKIYA志上限定十六夜咲夜" src="https://upload.thwiki.cc/thumb/6/60/%E5%AF%BF%E5%B1%8BKOTOBUKIYA%E5%BF%97%E4%B8%8A%E9%99%90%E5%AE%9A%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C-2.jpg/160px-%E5%AF%BF%E5%B1%8BKOTOBUKIYA%E5%BF%97%E4%B8%8A%E9%99%90%E5%AE%9A%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C-2.jpg" decoding="async" loading="lazy" width="160" height="349" srcset="https://upload.thwiki.cc/thumb/6/60/%E5%AF%BF%E5%B1%8BKOTOBUKIYA%E5%BF%97%E4%B8%8A%E9%99%90%E5%AE%9A%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C-2.jpg/240px-%E5%AF%BF%E5%B1%8BKOTOBUKIYA%E5%BF%97%E4%B8%8A%E9%99%90%E5%AE%9A%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C-2.jpg 1.5x, https://upload.thwiki.cc/thumb/6/60/%E5%AF%BF%E5%B1%8BKOTOBUKIYA%E5%BF%97%E4%B8%8A%E9%99%90%E5%AE%9A%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C-2.jpg/320px-%E5%AF%BF%E5%B1%8BKOTOBUKIYA%E5%BF%97%E4%B8%8A%E9%99%90%E5%AE%9A%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C-2.jpg 2x" data-file-width="376" data-file-height="819">
+<img alt="寿屋KOTOBUKIYA志上限定十六夜咲夜" src="https://upload.thwiki.cc/thumb/7/75/%E5%AF%BF%E5%B1%8BKOTOBUKIYA%E5%BF%97%E4%B8%8A%E9%99%90%E5%AE%9A%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C-3.jpg/160px-%E5%AF%BF%E5%B1%8BKOTOBUKIYA%E5%BF%97%E4%B8%8A%E9%99%90%E5%AE%9A%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C-3.jpg" decoding="async" loading="lazy" width="160" height="349" srcset="https://upload.thwiki.cc/thumb/7/75/%E5%AF%BF%E5%B1%8BKOTOBUKIYA%E5%BF%97%E4%B8%8A%E9%99%90%E5%AE%9A%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C-3.jpg/240px-%E5%AF%BF%E5%B1%8BKOTOBUKIYA%E5%BF%97%E4%B8%8A%E9%99%90%E5%AE%9A%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C-3.jpg 1.5x, https://upload.thwiki.cc/thumb/7/75/%E5%AF%BF%E5%B1%8BKOTOBUKIYA%E5%BF%97%E4%B8%8A%E9%99%90%E5%AE%9A%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C-3.jpg/320px-%E5%AF%BF%E5%B1%8BKOTOBUKIYA%E5%BF%97%E4%B8%8A%E9%99%90%E5%AE%9A%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C-3.jpg 2x" data-file-width="376" data-file-height="819">
 公式图
-
-
-
-
-
-
 
 ---
 

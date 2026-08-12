@@ -1,6 +1,6 @@
 # 文件:komazing封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\21\ns6%3Akomazing%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\21\ns6%3Akomazing%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 いちたすいちは | 同人志封面 | 封面图片
 
@@ -10,16 +10,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [komazing](./komazing.md)  
-该封面包含的角色：- [古明地觉](./古明地觉.md)- [古明地恋](./古明地恋.md)
+- [komazing](./komazing.md)该封面包含的角色：
+- [古明地觉](./古明地觉.md)
+- [古明地恋](./古明地恋.md)
 
   
-[Pixiv artwork ID: 57214871 (original size)](https://www.pixiv.net/artworks/57214871)
-  
-
-
-
-
+[Pixiv artwork ID: 57214871 (original size)](https://www.pixiv.net/artworks/57214871)  
 
 ---
 

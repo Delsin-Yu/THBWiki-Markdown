@@ -1,16 +1,12 @@
 # 模板:东V喫茶
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\2\24\ns10%3A%E4%B8%9CV%E5%96%AB%E8%8C%B6.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\2\24\ns10%3A%E4%B8%9CV%E5%96%AB%E8%8C%B6.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

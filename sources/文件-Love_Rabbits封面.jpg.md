@@ -1,6 +1,6 @@
 # 文件:Love_Rabbits封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\13\ns6%3ALove_Rabbits%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\13\ns6%3ALove_Rabbits%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 AbsoЯute_Zero | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ AbsoЯute_Zero | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Love Rabbits](./Love_Rabbits.md)  
-该封面包含的角色：- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
-
-
-
+- [Love Rabbits](./Love_Rabbits.md)该封面包含的角色：
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
 
 
 ---

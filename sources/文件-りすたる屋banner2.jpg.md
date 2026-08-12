@@ -1,14 +1,11 @@
 # 文件:りすたる屋banner2.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3c\ns6%3A%E3%82%8A%E3%81%99%E3%81%9F%E3%82%8B%E5%B1%8Bbanner2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3c\ns6%3A%E3%82%8A%E3%81%99%E3%81%9F%E3%82%8B%E5%B1%8Bbanner2%2Ejpg.html -->
 
 りすたる屋 | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

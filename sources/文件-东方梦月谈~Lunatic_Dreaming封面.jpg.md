@@ -1,6 +1,6 @@
 # 文件:东方梦月谈~Lunatic_Dreaming封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b8\ns6%3A%E4%B8%9C%E6%96%B9%E6%A2%A6%E6%9C%88%E8%B0%88%7ELunatic_Dreaming%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b8\ns6%3A%E4%B8%9C%E6%96%B9%E6%A2%A6%E6%9C%88%E8%B0%88%7ELunatic_Dreaming%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 墨染燐桦 | 封面图片 | 灿华幻梦 | 软件封面
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [东方梦月谈~Lunatic Dreaming](./东方梦月谈~Lunatic_Dreaming.md)  
-该封面包含的角色：- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
-
-
-
+- [东方梦月谈~Lunatic Dreaming](./东方梦月谈~Lunatic_Dreaming.md)该封面包含的角色：
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
 
 
 ---

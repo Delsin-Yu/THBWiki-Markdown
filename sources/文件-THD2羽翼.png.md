@@ -1,12 +1,8 @@
 # 文件:THD2羽翼.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a3\ns6%3ATHD2%E7%BE%BD%E7%BF%BC%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a3\ns6%3ATHD2%E7%BE%BD%E7%BF%BC%2Epng.html -->
 
 THD2
-
-
-
-
 
 
 ---

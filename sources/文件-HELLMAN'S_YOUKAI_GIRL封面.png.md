@@ -1,6 +1,6 @@
 # 文件:HELLMAN'S_YOUKAI_GIRL封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\14\ns6%3AHELLMAN%27S_YOUKAI_GIRL%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\14\ns6%3AHELLMAN%27S_YOUKAI_GIRL%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Nocturnal_Aura | 专辑封面 | 封面图片
 
@@ -11,12 +11,7 @@ Nocturnal_Aura | 专辑封面 | 封面图片
 - [HELLMAN'S YOUKAI GIRL](./HELLMAN'S_YOUKAI_GIRL.md)
 
   
-源地址：[[1]](https://nocturnalaura.files.wordpress.com/2019/08/coverwuwuwuwuwuw.png)
-  
-
-
-
-
+源地址：[\[1\]](https://nocturnalaura.files.wordpress.com/2019/08/coverwuwuwuwuwuw.png)  
 
 ---
 

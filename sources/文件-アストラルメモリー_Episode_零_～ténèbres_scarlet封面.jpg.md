@@ -1,6 +1,6 @@
 # 文件:アストラルメモリー_Episode_零_～ténèbres_scarlet封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d0\ns6%3A%E3%82%A2%E3%82%B9%E3%83%88%E3%83%A9%E3%83%AB%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%BC_Episode_%E9%9B%B6_%EF%BD%9Et%C3%A9n%C3%A8bres_scarlet%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d0\ns6%3A%E3%82%A2%E3%82%B9%E3%83%88%E3%83%A9%E3%83%AB%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%BC_Episode_%E9%9B%B6_%EF%BD%9Et%C3%A9n%C3%A8bres_scarlet%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ビターショコラ抹茶ラテ | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [アストラルメモリー Episode 零 ～ténèbres scarlet](./アストラルメモリー_Episode_零_～ténèbres_scarlet.md)  
-该封面包含的角色：- [露米娅](./露米娅.md)
-
-
-
+- [アストラルメモリー Episode 零 ～ténèbres scarlet](./アストラルメモリー_Episode_零_～ténèbres_scarlet.md)该封面包含的角色：
+- [露米娅](./露米娅.md)
 
 
 ---

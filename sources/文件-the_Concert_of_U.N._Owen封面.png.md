@@ -1,6 +1,6 @@
 # 文件:the_Concert_of_U.N._Owen封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b3\ns6%3Athe_Concert_of_U%2EN%2E_Owen%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b3\ns6%3Athe_Concert_of_U%2EN%2E_Owen%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 鈴南堂
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [the Concert of U.N. Owen](./the_Concert_of_U.N._Owen.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
-
-
-
+- [the Concert of U.N. Owen](./the_Concert_of_U.N._Owen.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
 
 ---

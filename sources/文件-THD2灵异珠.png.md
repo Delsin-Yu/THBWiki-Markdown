@@ -1,16 +1,12 @@
 # 文件:THD2灵异珠.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0d\ns6%3ATHD2%E7%81%B5%E5%BC%82%E7%8F%A0%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0d\ns6%3ATHD2%E7%81%B5%E5%BC%82%E7%8F%A0%2Epng.html -->
 
 东方DOTS玩家社群
 
   
 THD2灵异珠
   
-
-
-
-
 
 ---
 

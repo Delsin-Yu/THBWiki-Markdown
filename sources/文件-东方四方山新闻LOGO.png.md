@@ -1,14 +1,11 @@
 # 文件:东方四方山新闻LOGO.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cc\ns6%3A%E4%B8%9C%E6%96%B9%E5%9B%9B%E6%96%B9%E5%B1%B1%E6%96%B0%E9%97%BBLOGO%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cc\ns6%3A%E4%B8%9C%E6%96%B9%E5%9B%9B%E6%96%B9%E5%B1%B1%E6%96%B0%E9%97%BBLOGO%2Epng.html -->
 
 东方四方山新闻
 
 
 ## 摘要
-
-
-
 
 ---
 

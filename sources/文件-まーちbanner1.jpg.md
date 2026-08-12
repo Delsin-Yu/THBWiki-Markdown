@@ -1,12 +1,8 @@
 # 文件:まーちbanner1.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\71\ns6%3A%E3%81%BE%E3%83%BC%E3%81%A1banner1%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\71\ns6%3A%E3%81%BE%E3%83%BC%E3%81%A1banner1%2Ejpg.html -->
 
 まーち | 社团LOGO
-
-
-
-
 
 
 ---

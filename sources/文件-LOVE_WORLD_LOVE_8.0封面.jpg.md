@@ -1,6 +1,6 @@
 # 文件:LOVE_WORLD_LOVE_8.0封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ef\ns6%3ALOVE_WORLD_LOVE_8%2E0%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ef\ns6%3ALOVE_WORLD_LOVE_8%2E0%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ましゅまろりむ | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [LOVE WORLD LOVE 8.0](./LOVE_WORLD_LOVE_8.0.md)  
-该封面包含的角色：- [稗田阿求](./稗田阿求.md)
-
-
-
+- [LOVE WORLD LOVE 8.0](./LOVE_WORLD_LOVE_8.0.md)该封面包含的角色：
+- [稗田阿求](./稗田阿求.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:東方_BATTLE_INSPIRATION封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\59\ns6%3A%E6%9D%B1%E6%96%B9_BATTLE_INSPIRATION%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\59\ns6%3A%E6%9D%B1%E6%96%B9_BATTLE_INSPIRATION%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 CC姫工 | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ CC姫工 | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方 BATTLE INSPIRATION](./東方_BATTLE_INSPIRATION.md)  
-该封面包含的角色：- [比那名居天子](./比那名居天子.md)
-
-
-
+- [東方 BATTLE INSPIRATION](./東方_BATTLE_INSPIRATION.md)该封面包含的角色：
+- [比那名居天子](./比那名居天子.md)
 
 
 ---

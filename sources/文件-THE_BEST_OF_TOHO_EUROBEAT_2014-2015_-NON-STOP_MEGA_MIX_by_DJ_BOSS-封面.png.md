@@ -1,6 +1,6 @@
 # 文件:THE_BEST_OF_TOHO_EUROBEAT_2014-2015_-NON-STOP_MEGA_MIX_by_DJ_BOSS-封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b9\ns6%3ATHE_BEST_OF_TOHO_EUROBEAT_2014-2015_-NON-STOP_MEGA_MIX_by_DJ_BOSS-%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b9\ns6%3ATHE_BEST_OF_TOHO_EUROBEAT_2014-2015_-NON-STOP_MEGA_MIX_by_DJ_BOSS-%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 A-One | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ A-One | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [THE BEST OF TOHO EUROBEAT 2014-2015 -NON-STOP MEGA MIX by DJ BOSS-](./THE_BEST_OF_TOHO_EUROBEAT_2014-2015_-NON-STOP_MEGA_MIX_by_DJ_BOSS-.md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)
-
-
-
+- [THE BEST OF TOHO EUROBEAT 2014-2015 -NON-STOP MEGA MIX by DJ BOSS-](./THE_BEST_OF_TOHO_EUROBEAT_2014-2015_-NON-STOP_MEGA_MIX_by_DJ_BOSS-.md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
 
 
 ---

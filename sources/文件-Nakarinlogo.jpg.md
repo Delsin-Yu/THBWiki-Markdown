@@ -1,12 +1,8 @@
 # 文件:Nakarinlogo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6d\ns6%3ANakarinlogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6d\ns6%3ANakarinlogo%2Ejpg.html -->
 
 Nakarin | 社团LOGO
-
-
-
-
 
 
 ---

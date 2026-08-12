@@ -1,6 +1,6 @@
 # 文件:The_Lost_Lamb封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fd\ns6%3AThe_Lost_Lamb%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fd\ns6%3AThe_Lost_Lamb%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Free-Logic | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Free-Logic | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [The Lost Lamb](./The_Lost_Lamb.md)  
-该封面包含的角色：- [露米娅](./露米娅.md)
-
-
-
+- [The Lost Lamb](./The_Lost_Lamb.md)该封面包含的角色：
+- [露米娅](./露米娅.md)
 
 
 ---

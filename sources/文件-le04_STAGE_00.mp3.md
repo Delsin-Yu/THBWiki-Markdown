@@ -1,16 +1,12 @@
 # 文件:le04_STAGE_00.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bd\ns6%3Ale04_STAGE_00%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bd\ns6%3Ale04_STAGE_00%2Emp3.html -->
 
 被掀开的枪火罩_～_Slow_Starter | 连缘Project官方音乐MP3 | 连缘天影战记
 
   
 连缘天影战记阐里神社参道(1到3面)主题曲
   
-
-
-
-
 
 ---
 

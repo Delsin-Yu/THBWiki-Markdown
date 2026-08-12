@@ -1,6 +1,6 @@
 # 文件:天衣無縫_みらくる★パーティー_ORIGINAL_SOUNDTRACK封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3f\ns6%3A%E5%A4%A9%E8%A1%A3%E7%84%A1%E7%B8%AB_%E3%81%BF%E3%82%89%E3%81%8F%E3%82%8B%E2%98%85%E3%83%91%E3%83%BC%E3%83%86%E3%82%A3%E3%83%BC_ORIGINAL_SOUNDTRACK%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3f\ns6%3A%E5%A4%A9%E8%A1%A3%E7%84%A1%E7%B8%AB_%E3%81%BF%E3%82%89%E3%81%8F%E3%82%8B%E2%98%85%E3%83%91%E3%83%BC%E3%83%86%E3%82%A3%E3%83%BC_ORIGINAL_SOUNDTRACK%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 AQUA_STYLE | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ AQUA_STYLE | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [天衣無縫 みらくる★パーティー ORIGINAL SOUNDTRACK](./天衣無縫_みらくる★パーティー_ORIGINAL_SOUNDTRACK.md)  
-该封面包含的角色：- [东风谷早苗](./东风谷早苗.md)
-
-
-
+- [天衣無縫 みらくる★パーティー ORIGINAL SOUNDTRACK](./天衣無縫_みらくる★パーティー_ORIGINAL_SOUNDTRACK.md)该封面包含的角色：
+- [东风谷早苗](./东风谷早苗.md)
 
 
 ---

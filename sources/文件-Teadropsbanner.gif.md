@@ -1,16 +1,11 @@
 # 文件:Teadropsbanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dd\ns6%3ATeadropsbanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dd\ns6%3ATeadropsbanner%2Egif.html -->
 
 Teadrops | 社团LOGO
 
   
-源地址：[[1]](https://web.archive.org/web/20161105092403im_/http://teadrops.jp/img/td_bn.gif)
-  
-
-
-
-
+源地址：[\[1\]](https://web.archive.org/web/20161105092403im_/http://teadrops.jp/img/td_bn.gif)  
 
 ---
 

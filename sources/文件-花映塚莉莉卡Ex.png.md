@@ -1,12 +1,8 @@
 # 文件:花映塚莉莉卡Ex.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b6\ns6%3A%E8%8A%B1%E6%98%A0%E5%A1%9A%E8%8E%89%E8%8E%89%E5%8D%A1Ex%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b6\ns6%3A%E8%8A%B1%E6%98%A0%E5%A1%9A%E8%8E%89%E8%8E%89%E5%8D%A1Ex%2Epng.html -->
 
 东方花映塚 | 莉莉卡·普莉兹姆利巴
-
-
-
-
 
 
 ---

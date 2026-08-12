@@ -1,6 +1,6 @@
 # 文件:花籠を照らす幻燈_-Petal_&_Shard-封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\67\ns6%3A%E8%8A%B1%E7%B1%A0%E3%82%92%E7%85%A7%E3%82%89%E3%81%99%E5%B9%BB%E7%87%88_-Petal_%26_Shard-%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\67\ns6%3A%E8%8A%B1%E7%B1%A0%E3%82%92%E7%85%A7%E3%82%89%E3%81%99%E5%B9%BB%E7%87%88_-Petal_%26_Shard-%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Pizuya's_Cell | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Pizuya's_Cell | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [花籠を照らす幻燈 -Petal &amp; Shard-](./花籠を照らす幻燈_-Petal_&_Shard-.md)  
-该封面包含的角色：- [风见幽香](./风见幽香.md)
-
-
-
+- [花籠を照らす幻燈 -Petal & Shard-](./花籠を照らす幻燈_-Petal_&_Shard-.md)该封面包含的角色：
+- [风见幽香](./风见幽香.md)
 
 
 ---

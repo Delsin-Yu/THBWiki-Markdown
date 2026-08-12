@@ -1,6 +1,6 @@
 # 文件:PROJECT_D_：_02封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\81\ns6%3APROJECT_D_%EF%BC%9A_02%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\81\ns6%3APROJECT_D_%EF%BC%9A_02%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 suwawa_Records | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ suwawa_Records | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [PROJECT D ： 02](./PROJECT_D_：_02.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
-
-
-
+- [PROJECT D ： 02](./PROJECT_D_：_02.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
 
 
 ---

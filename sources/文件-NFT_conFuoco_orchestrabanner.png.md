@@ -1,12 +1,8 @@
 # 文件:NFT_conFuoco_orchestrabanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a1\ns6%3ANFT_conFuoco_orchestrabanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a1\ns6%3ANFT_conFuoco_orchestrabanner%2Epng.html -->
 
 NFT_conFuoco_orchestra | 社团LOGO
-
-
-
-
 
 
 ---

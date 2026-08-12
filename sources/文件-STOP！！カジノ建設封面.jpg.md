@@ -1,6 +1,6 @@
 # 文件:STOP！！カジノ建設封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0a\ns6%3ASTOP%EF%BC%81%EF%BC%81%E3%82%AB%E3%82%B8%E3%83%8E%E5%BB%BA%E8%A8%AD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0a\ns6%3ASTOP%EF%BC%81%EF%BC%81%E3%82%AB%E3%82%B8%E3%83%8E%E5%BB%BA%E8%A8%AD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 紅魔仮名目録
 
@@ -10,11 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [STOP！！カジノ建設](./STOP！！カジノ建設.md)  
-该封面包含的角色：- [河城荷取](./河城荷取.md)- [鬼人正邪](./鬼人正邪.md)- [坂田合欢](./坂田合欢.md)- [豪德寺三花](./豪德寺三花.md)
-
-
-
+- [STOP！！カジノ建設](./STOP！！カジノ建設.md)该封面包含的角色：
+- [河城荷取](./河城荷取.md)
+- [鬼人正邪](./鬼人正邪.md)
+- [坂田合欢](./坂田合欢.md)
+- [豪德寺三花](./豪德寺三花.md)
 
 
 ---

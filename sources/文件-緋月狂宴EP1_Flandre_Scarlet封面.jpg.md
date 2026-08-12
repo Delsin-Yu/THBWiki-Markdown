@@ -1,6 +1,6 @@
 # 文件:緋月狂宴EP1_Flandre_Scarlet封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\18\ns6%3A%E7%B7%8B%E6%9C%88%E7%8B%82%E5%AE%B4EP1_Flandre_Scarlet%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\18\ns6%3A%E7%B7%8B%E6%9C%88%E7%8B%82%E5%AE%B4EP1_Flandre_Scarlet%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 カけラ＊羽 | 同人志封面 | 封面图片
 
@@ -10,16 +10,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [緋月狂宴EP1 Flandre Scarlet](./緋月狂宴EP1_Flandre_Scarlet.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [緋月狂宴EP1 Flandre Scarlet](./緋月狂宴EP1_Flandre_Scarlet.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
   
-源地址：[[1]](https://web.archive.org/web/20201122215938/http://x20285.web.fc2.com/ff18/cover.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://web.archive.org/web/20201122215938/http://x20285.web.fc2.com/ff18/cover.jpg)  
 
 ---
 

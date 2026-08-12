@@ -1,14 +1,11 @@
 # 文件:幻想北平联大logo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\66\ns6%3A%E5%B9%BB%E6%83%B3%E5%8C%97%E5%B9%B3%E8%81%94%E5%A4%A7logo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\66\ns6%3A%E5%B9%BB%E6%83%B3%E5%8C%97%E5%B9%B3%E8%81%94%E5%A4%A7logo%2Ejpg.html -->
 
 幻想北平联大 | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

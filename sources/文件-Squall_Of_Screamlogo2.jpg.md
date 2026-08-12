@@ -1,16 +1,11 @@
 # 文件:Squall_Of_Screamlogo2.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\34\ns6%3ASquall_Of_Screamlogo2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\34\ns6%3ASquall_Of_Screamlogo2%2Ejpg.html -->
 
 Squall_Of_Scream | 社团LOGO
 
   
-源地址：[direct image link](https://pbs.twimg.com/media/D88EDdbVsAANhG1.jpg:orig), [source tweet](https://twitter.com/SquallOfScream/status/1139137030930092032)
-  
-
-
-
-
+源地址：[direct image link](https://pbs.twimg.com/media/D88EDdbVsAANhG1.jpg:orig), [source tweet](https://twitter.com/SquallOfScream/status/1139137030930092032)  
 
 ---
 

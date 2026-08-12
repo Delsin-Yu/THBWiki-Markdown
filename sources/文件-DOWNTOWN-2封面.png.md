@@ -1,6 +1,6 @@
 # 文件:DOWNTOWN-2封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\37\ns6%3ADOWNTOWN-2%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\37\ns6%3ADOWNTOWN-2%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 茜音色タウン
 
@@ -13,12 +13,7 @@
 - [DOWNTOWN-2](./DOWNTOWN-2.md)
 
   
-源地址：[direct image link (max size)](https://s2.booth.pm/05960ca8-b9d1-433b-ab07-81f4e81550ca/i/3617201/326e15cf-7da5-43ac-a697-aa30b2a6d29c.png), [source page (circle Booth)](https://akaneirotown.booth.pm/items/3617201)
-  
-
-
-
-
+源地址：[direct image link (max size)](https://s2.booth.pm/05960ca8-b9d1-433b-ab07-81f4e81550ca/i/3617201/326e15cf-7da5-43ac-a697-aa30b2a6d29c.png), [source page (circle Booth)](https://akaneirotown.booth.pm/items/3617201)  
 
 ---
 

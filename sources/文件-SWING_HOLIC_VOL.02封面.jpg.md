@@ -1,6 +1,6 @@
 # 文件:SWING_HOLIC_VOL.02封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\43\ns6%3ASWING_HOLIC_VOL%2E02%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\43\ns6%3ASWING_HOLIC_VOL%2E02%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 SWING_HOLIC | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ SWING_HOLIC | 专辑封面 | 封面图片
   
 
 - [SWING HOLIC VOL.02](./SWING_HOLIC_VOL.02.md)
-
-
-
 
 
 ---

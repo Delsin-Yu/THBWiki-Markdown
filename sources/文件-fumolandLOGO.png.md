@@ -1,16 +1,12 @@
 # 文件:fumolandLOGO.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d6\ns6%3AfumolandLOGO%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d6\ns6%3AfumolandLOGO%2Epng.html -->
 
 Fumo²Land | 社团LOGO
 
   
 fumoland社团logo
   
-
-
-
-
 
 ---
 

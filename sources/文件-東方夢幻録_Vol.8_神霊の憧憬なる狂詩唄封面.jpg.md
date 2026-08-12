@@ -1,6 +1,6 @@
 # 文件:東方夢幻録_Vol.8_神霊の憧憬なる狂詩唄封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\70\ns6%3A%E6%9D%B1%E6%96%B9%E5%A4%A2%E5%B9%BB%E9%8C%B2_Vol%2E8_%E7%A5%9E%E9%9C%8A%E3%81%AE%E6%86%A7%E6%86%AC%E3%81%AA%E3%82%8B%E7%8B%82%E8%A9%A9%E5%94%84%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\70\ns6%3A%E6%9D%B1%E6%96%B9%E5%A4%A2%E5%B9%BB%E9%8C%B2_Vol%2E8_%E7%A5%9E%E9%9C%8A%E3%81%AE%E6%86%A7%E6%86%AC%E3%81%AA%E3%82%8B%E7%8B%82%E8%A9%A9%E5%94%84%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Re：Volte | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ Re：Volte | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方夢幻録 Vol.8 神霊の憧憬なる狂詩唄](./東方夢幻録_Vol.8_神霊の憧憬なる狂詩唄.md)  
-该封面包含的角色：- [物部布都](./物部布都.md)- [丰聪耳神子](./丰聪耳神子.md)
-
-
-
+- [東方夢幻録 Vol.8 神霊の憧憬なる狂詩唄](./東方夢幻録_Vol.8_神霊の憧憬なる狂詩唄.md)该封面包含的角色：
+- [物部布都](./物部布都.md)
+- [丰聪耳神子](./丰聪耳神子.md)
 
 
 ---

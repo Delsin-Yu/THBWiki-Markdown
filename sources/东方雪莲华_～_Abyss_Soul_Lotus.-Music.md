@@ -1,6 +1,6 @@
 # 东方雪莲华_～_Abyss_Soul_Lotus./Music
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\9\95\ns0%3A%E4%B8%9C%E6%96%B9%E9%9B%AA%E8%8E%B2%E5%8D%8E_%EF%BD%9E_Abyss_Soul_Lotus%2E%2FMusic.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\9\95\ns0%3A%E4%B8%9C%E6%96%B9%E9%9B%AA%E8%8E%B2%E5%8D%8E_%EF%BD%9E_Abyss_Soul_Lotus%2E%2FMusic.html -->
 
 雨夜枫雪制作组
 
@@ -26,7 +26,6 @@
 </td></tr></tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
@@ -47,7 +46,6 @@
 </td></tr></tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
@@ -65,7 +63,6 @@
 给一面Boss这种杂鱼曲就用上了电吉他Solo的话，待遇会不会有点太优厚了啊哈哈哈。
 </p>
 </td></tr></tbody></table>
-
 
 
 <table>
@@ -88,7 +85,6 @@
 </td></tr></tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
@@ -108,7 +104,6 @@
 </td></tr></tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
@@ -126,7 +121,6 @@
 顺便一提，高潮旋律的前两句和姜夔的《鬲溪梅令》可以完美契合，就像谱曲一样的契合度呢。
 </p>
 </td></tr></tbody></table>
-
 
 
 <table>
@@ -149,13 +143,12 @@
 </td></tr></tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
 <td style="background: #dde6ff;" align="center" width="15%"><h6><span id="4.E9.9D.A2.E4.B8.BB.E9.A2.98.E6.9B.B2"></span><span class="mw-headline" id="4面主题曲">4面主题曲</span></h6>
 </td>
-<td style="background: #FFFFCC;" align="center" width="55%"><a href="./少女所见的深渊风景.md" title="少女所见的深渊风景">少女所见的深渊风景</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">1</a></sup>
+<td style="background: #FFFFCC;" align="center" width="55%"><a href="./少女所见的深渊风景.md" title="少女所见的深渊风景">少女所见的深渊风景</a><span>[^cite_note-1]</span>
 </td>
 <td style="background: #dde6ff;" align="center" width="10%">♪ <i>11</i>
 </td></tr>
@@ -170,11 +163,10 @@
 </td></tr></tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
-<td style="background: #dde6ff;" align="center" width="15%"><h6><span id="4.E9.9D.A2Boss.E8.8D.BC.E9.9D.A1.E7.BB.93.E9.9F.B3.26.E5.A2.A8.E6.A8.B1.E5.88.9D.E6.9C.88.E4.B8.BB.E9.A2.98.E6.9B.B2"></span><span class="mw-headline" id="4面Boss荼靡结音&amp;墨樱初月主题曲">4面Boss<a href="./荼靡结音.md" title="荼靡结音">荼靡结音</a>&amp;<a href="./墨樱初月.md" title="墨樱初月">墨樱初月</a>主题曲</span></h6>
+<td style="background: #dde6ff;" align="center" width="15%"><h6><span id="4.E9.9D.A2Boss.E8.8D.BC.E9.9D.A1.E7.BB.93.E9.9F.B3.26.E5.A2.A8.E6.A8.B1.E5.88.9D.E6.9C.88.E4.B8.BB.E9.A2.98.E6.9B.B2"></span><span class="mw-headline" id="4面Boss荼靡结音&amp;墨樱初月主题曲">4面Boss<a href="./荼靡结音.md" title="荼靡结音">荼靡结音</a>&<a href="./墨樱初月.md" title="墨樱初月">墨樱初月</a>主题曲</span></h6>
 </td>
 <td style="background: #FFFFCC;" align="center" width="55%"><a href="./空漠的黑与白_～_Double_Sickle_of_Death.md" title="空漠的黑与白 ～ Double Sickle of Death">空漠的黑与白 ～ Double Sickle of Death</a>
 </td>
@@ -182,7 +174,7 @@
 </td></tr>
 <tr valign="top">
 <td colspan="3" style="padding:1em; padding-left:2em;" lang="zh" width="30%">
-<p>荼靡 结音 &amp; 墨樱 初月的主题曲。<br><br>
+<p>荼靡 结音 & 墨樱 初月的主题曲。<br><br>
 虽说是黑白无常，但是曲子却意外地十分活泼。<br>
 同时也加入了能够让曲子听起来更像后半程战斗的元素。<br>
 因为是双Boss所以做了左右声道切换，大概很爽。<br>
@@ -191,13 +183,12 @@
 </td></tr></tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
 <td style="background: #dde6ff;" align="center" width="15%"><h6><span id="5.E9.9D.A2.E4.B8.BB.E9.A2.98.E6.9B.B2"></span><span class="mw-headline" id="5面主题曲">5面主题曲</span></h6>
 </td>
-<td style="background: #FFFFCC;" align="center" width="55%"><a href="./沉没八万由旬的叹息.md" title="沉没八万由旬的叹息">沉没八万由旬的叹息</a><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">2</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">3</a></sup>
+<td style="background: #FFFFCC;" align="center" width="55%"><a href="./沉没八万由旬的叹息.md" title="沉没八万由旬的叹息">沉没八万由旬的叹息</a><span>[^cite_note-2]</span><span>[^cite_note-3]</span>
 </td>
 <td style="background: #dde6ff;" align="center" width="10%">♪ <i>11</i>
 </td></tr>
@@ -210,7 +201,6 @@
 怎样都好，总之大鼓重重地敲下去就好了。
 </p>
 </td></tr></tbody></table>
-
 
 
 <table>
@@ -228,10 +218,9 @@
 由迈克尔逊—莫雷实验证实了以太不存在，并由此引出了相对论。<br>
 （后记：学了光学之后想打死这俩家伙）<br>
 ——想继量子作曲法（误）之后尝试相对论作曲法。<br>
-失败了。果然爱因斯坦是伟人。<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">4</a></sup>
+失败了。果然爱因斯坦是伟人。<span>[^cite_note-4]</span>
 </p>
 </td></tr></tbody></table>
-
 
 
 <table>
@@ -254,7 +243,6 @@
 </td></tr></tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
@@ -273,7 +261,6 @@
 人总能在心灵深处发掘到很多东西。
 </p>
 </td></tr></tbody></table>
-
 
 
 <table>
@@ -296,7 +283,6 @@
 </td></tr></tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
@@ -315,7 +301,6 @@
 希望能作为一个华丽的收场。
 </p>
 </td></tr></tbody></table>
-
 
 
 <table>
@@ -338,7 +323,6 @@
 </td></tr></tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
@@ -359,13 +343,12 @@
 </td></tr></tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
 <td style="background: #dde6ff;" align="center" width="15%"><h6><span id="6.E9.9D.A2LSC.E4.B8.BB.E9.A2.98.E6.9B.B2"></span><span class="mw-headline" id="6面LSC主题曲">6面LSC主题曲</span></h6>
 </td>
-<td style="background: #FFFFCC;" align="center" width="55%"><a href="./绽放在世界终焉.md" title="绽放在世界终焉">绽放在世界终焉</a><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">5</a></sup>
+<td style="background: #FFFFCC;" align="center" width="55%"><a href="./绽放在世界终焉.md" title="绽放在世界终焉">绽放在世界终焉</a><span>[^cite_note-5]</span>
 </td>
 <td style="background: #dde6ff;" align="center" width="10%">♪ <i>11</i>
 </td></tr>
@@ -378,7 +361,6 @@
 铜管组在收尾时终于成为了主旋律乐器，可喜可贺（？）。
 </p>
 </td></tr></tbody></table>
-
 
 
 <table>
@@ -400,7 +382,6 @@
 </td></tr></tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
@@ -413,27 +394,18 @@
 <tr valign="top">
 <td colspan="3" style="padding:1em; padding-left:2em;" lang="zh" width="30%">
 <p>疮痍界面的主题曲。<br><br>
-开头使用了流浪者之歌Op. 20中大家耳熟能详的旋律。<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">6</a></sup><br>
+开头使用了流浪者之歌Op. 20中大家耳熟能详的旋律。<span>[^cite_note-6]</span><br>
 你看，雪莲华甚至连疮痍曲都是新的旋律，<br>
 如此不偷懒如此勤奋的11，大家快感动一下（？）
 </p>
 </td></tr></tbody></table>
 
-
-
 [^cite_note-1]: 捏他[东方风神录](./东方风神录.md)五面道中曲[少女曾见的日本原风景](./少女曾见的日本原风景.md)。
-
-
-## 词条导航
-  
-  
-
-<table><tbody><tr><td><table cellspacing="0" class="nowraplinks mw-collapsible mw-collapsed" style="width:100%;;;"><tbody><tr><th style=";" colspan="3" class="navbox-title"><div class="navbar"><div class="noprint plainlinksneverexpand" style="background-color:transparent; padding:0; font-weight:normal; font-size:80%; white-space:nowrap;"><a href="./东方雪莲华_～_Abyss_Soul_Lotus.-导航.md" title="东方雪莲华 ～ Abyss Soul Lotus./导航"><span style=";;border:none;" title="查看这个模板">查</span></a>&#160;<span style="font-size:80%;">•</span>&#160;<a href="/index.php?title=%E4%B8%9C%E6%96%B9%E9%9B%AA%E8%8E%B2%E5%8D%8E_%EF%BD%9E_Abyss_Soul_Lotus./%E5%AF%BC%E8%88%AA&amp;action=edit"><span style=";;border:none;" title="您可以编辑这个模板。请在储存变更之前先预览">编</span></a></div></div><span><a href="./东方雪莲华_～_Abyss_Soul_Lotus..md" title="东方雪莲华 ～ Abyss Soul Lotus.">东方雪莲华 ～ Abyss Soul Lotus.</a></span></th></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="./东方雪莲华_～_Abyss_Soul_Lotus.-角色设定.md" title="东方雪莲华 ～ Abyss Soul Lotus./角色设定">角色</a></td><td style=";;" class="navbox-list navbox-odd"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>自机</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./东方雪莲华_～_Abyss_Soul_Lotus.-角色设定.md" title="东方雪莲华 ～ Abyss Soul Lotus./角色设定">八云紫&amp;博丽灵梦</a> &#8226; <a href="./东方雪莲华_～_Abyss_Soul_Lotus.-角色设定.md" title="东方雪莲华 ～ Abyss Soul Lotus./角色设定">摩多罗隐岐奈&amp;雾雨魔理沙</a> &#8226; <a href="./东方雪莲华_～_Abyss_Soul_Lotus.-角色设定.md" title="东方雪莲华 ～ Abyss Soul Lotus./角色设定">丰聪耳神子&amp;圣白莲</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>BOSS</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./雪珂.md" title="雪珂">雪珂</a> &#8226; <a href="./暗华美夜香.md" title="暗华美夜香">暗华美夜香</a> &#8226; <a href="./莉帕斯·缇米蒂丝·白雪.md" title="莉帕斯·缇米蒂丝·白雪">莉帕斯·缇米蒂丝·白雪</a> &#8226; <a href="./墨樱初月.md" title="墨樱初月">墨樱初月</a> &#8226; <a href="./荼靡结音.md" title="荼靡结音">荼靡结音</a> &#8226; <a href="./万光绘照.md" title="万光绘照">万光绘照</a> &#8226; <a href="./妙严宫雪华.md" title="妙严宫雪华">妙严宫雪华</a> &#8226; <a href="./蚀神星罗.md" title="蚀神星罗">蚀神星罗</a></div></td></tr></tbody></table><div></div></td><td class="navbox-image" style="" rowspan="13"><a href="./文件-东方雪莲华_～_Abyss_Soul_Lotus.封面.jpg.md" class="image"><img alt="东方雪莲华 ～ Abyss Soul Lotus.封面.jpg" src="https://upload.thwiki.cc/thumb/f/f5/%E4%B8%9C%E6%96%B9%E9%9B%AA%E8%8E%B2%E5%8D%8E_%EF%BD%9E_Abyss_Soul_Lotus.%E5%B0%81%E9%9D%A2.jpg/160px-%E4%B8%9C%E6%96%B9%E9%9B%AA%E8%8E%B2%E5%8D%8E_%EF%BD%9E_Abyss_Soul_Lotus.%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="160" height="160" srcset="https://upload.thwiki.cc/thumb/f/f5/%E4%B8%9C%E6%96%B9%E9%9B%AA%E8%8E%B2%E5%8D%8E_%EF%BD%9E_Abyss_Soul_Lotus.%E5%B0%81%E9%9D%A2.jpg/240px-%E4%B8%9C%E6%96%B9%E9%9B%AA%E8%8E%B2%E5%8D%8E_%EF%BD%9E_Abyss_Soul_Lotus.%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/f/f5/%E4%B8%9C%E6%96%B9%E9%9B%AA%E8%8E%B2%E5%8D%8E_%EF%BD%9E_Abyss_Soul_Lotus.%E5%B0%81%E9%9D%A2.jpg/320px-%E4%B8%9C%E6%96%B9%E9%9B%AA%E8%8E%B2%E5%8D%8E_%EF%BD%9E_Abyss_Soul_Lotus.%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="745" data-file-height="747"></a></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="./东方雪莲华_～_Abyss_Soul_Lotus..md" title="东方雪莲华 ～ Abyss Soul Lotus.">剧情</a></td><td style=";;" class="navbox-list navbox-even"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>剧情文本</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./东方雪莲华_～_Abyss_Soul_Lotus.-故事背景.md" title="东方雪莲华 ～ Abyss Soul Lotus./故事背景">故事背景</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>游戏对话&amp;结局</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./东方雪莲华_～_Abyss_Soul_Lotus.-八云紫&博丽灵梦.md" title="东方雪莲华 ～ Abyss Soul Lotus./八云紫&amp;博丽灵梦">八云紫&amp;博丽灵梦</a> &#8226; <a href="./东方雪莲华_～_Abyss_Soul_Lotus.-摩多罗隐岐奈&雾雨魔理沙.md" title="东方雪莲华 ～ Abyss Soul Lotus./摩多罗隐岐奈&amp;雾雨魔理沙">摩多罗隐岐奈&amp;雾雨魔理沙</a> &#8226; <a href="./东方雪莲华_～_Abyss_Soul_Lotus.-丰聪耳神子&圣白莲.md" title="东方雪莲华 ～ Abyss Soul Lotus./丰聪耳神子&amp;圣白莲">丰聪耳神子&amp;圣白莲</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>Ex游戏对话</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./东方雪莲华_～_Abyss_Soul_Lotus.-八云紫&博丽灵梦_ExStory.md" title="东方雪莲华 ～ Abyss Soul Lotus./八云紫&amp;博丽灵梦 ExStory">八云紫&amp;博丽灵梦</a> &#8226; <a href="./东方雪莲华_～_Abyss_Soul_Lotus.-摩多罗隐岐奈&雾雨魔理沙_ExStory.md" title="东方雪莲华 ～ Abyss Soul Lotus./摩多罗隐岐奈&amp;雾雨魔理沙 ExStory">摩多罗隐岐奈&amp;雾雨魔理沙</a> &#8226; <a href="./东方雪莲华_～_Abyss_Soul_Lotus.-丰聪耳神子&圣白莲_ExStory.md" title="东方雪莲华 ～ Abyss Soul Lotus./丰聪耳神子&amp;圣白莲 ExStory">丰聪耳神子&amp;圣白莲</a></div></td></tr></tbody></table><div></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">场景</td><td style=";;" class="navbox-list navbox-odd"><div><a href="./雾之湖.md" title="雾之湖">冰封的雾之湖</a> &#8226; <a href="./中有之道.md" title="中有之道">悔恨之道</a> &#8226; 莲花雪原 &#8226; 八寒地狱入口 &#8226; 冥河 &#8226; 大莲华地狱 &#8226; 实与虚之境</div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">音乐</td><td style=";;" class="navbox-list navbox-even"><div><a class="mw-selflink selflink">Music Room</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="./东方雪莲华_～_Abyss_Soul_Lotus..md" title="东方雪莲华 ～ Abyss Soul Lotus.">附带文档</a></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./东方雪莲华_～_Abyss_Soul_Lotus.-游戏内Manual.md" title="东方雪莲华 ～ Abyss Soul Lotus./游戏内Manual">游戏内Manual</a> &#8226; <a href="./东方雪莲华_～_Abyss_Soul_Lotus.-角色设定.md" title="东方雪莲华 ～ Abyss Soul Lotus./角色设定">角色设定</a> &#8226; <a href="./东方雪莲华_～_Abyss_Soul_Lotus.-雪莲华求闻.md" title="东方雪莲华 ～ Abyss Soul Lotus./雪莲华求闻">雪莲华求闻</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">系统</td><td style=";;" class="navbox-list navbox-even"><div><a href="./东方雪莲华_～_Abyss_Soul_Lotus.-系统.md" title="东方雪莲华 ～ Abyss Soul Lotus./系统">机体特性与系统说明</a> &#8226; <a href="./东方雪莲华_～_Abyss_Soul_Lotus.-其他相关资料.md" title="东方雪莲华 ～ Abyss Soul Lotus./其他相关资料">其他相关资料</a> &#8226; <a href="./东方雪莲华_～_Abyss_Soul_Lotus.-成就.md" title="东方雪莲华 ～ Abyss Soul Lotus./成就">成就</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">符卡</td><td style=";;" class="navbox-list navbox-odd"><div><a href="./东方雪莲华_～_Abyss_Soul_Lotus.-Stage_1.md" title="东方雪莲华 ～ Abyss Soul Lotus./Stage 1">Stage 1</a> &#8226; <a href="./东方雪莲华_～_Abyss_Soul_Lotus.-Stage_2.md" title="东方雪莲华 ～ Abyss Soul Lotus./Stage 2">Stage 2</a> &#8226; <a href="./东方雪莲华_～_Abyss_Soul_Lotus.-Stage_3.md" title="东方雪莲华 ～ Abyss Soul Lotus./Stage 3">Stage 3</a> &#8226; <a href="./东方雪莲华_～_Abyss_Soul_Lotus.-Stage_4.md" title="东方雪莲华 ～ Abyss Soul Lotus./Stage 4">Stage 4</a> &#8226; <a href="./东方雪莲华_～_Abyss_Soul_Lotus.-Stage_5.md" title="东方雪莲华 ～ Abyss Soul Lotus./Stage 5">Stage 5</a> &#8226; <a href="./东方雪莲华_～_Abyss_Soul_Lotus.-Stage_6.md" title="东方雪莲华 ～ Abyss Soul Lotus./Stage 6">Stage 6</a> &#8226; <a href="./东方雪莲华_～_Abyss_Soul_Lotus.-Extra.md" title="东方雪莲华 ～ Abyss Soul Lotus./Extra">Extra</a></div></td></tr></tbody></table></td></tr></tbody></table>
-
-
-
-
-
+[^cite_note-2]: 「由旬」是古印度长度单位，1由旬的长度大致在7-15公里。[伊奘诺物质](./伊奘诺物质-附带故事.md)里还拿传说中地狱在地下4万由旬处打趣，这里将其翻倍为8万由旬，换算成现代单位约56万公里。
+[^cite_note-3]: 「叹息」指五面场景的冥河，设定中为古希腊神话中的冥河「科塞特斯」（Cocytus），意为悲叹之河、叹息之河。在但丁《神曲》中则设定地狱的最后一层为极寒的冰雪世界，下一层就到了净化罪孽的炼狱。
+[^cite_note-4]: 爱因斯坦提出「光量子假说」，成功解释光电效应，人们认识到光的波粒二象性，并抛弃了之前波动说中以太为光的媒介的假说。
+[^cite_note-5]: [东方夏夜祭](./东方夏夜祭_～_Shining_Shooting_Star..md)最终BOSS[梦璃夜天星](./梦璃夜天星.md)的FSC曲[闪耀在世界尽头](./闪耀在世界尽头.md)。
+[^cite_note-6]: 《流浪者之歌》是西班牙作曲家萨拉萨蒂创作的小提琴独奏曲，也译作《吉普赛之歌》。
 
 ---
 

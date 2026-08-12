@@ -1,6 +1,6 @@
 # 文件:catharsis（群雨アンブレイラ）封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4d\ns6%3Acatharsis%EF%BC%88%E7%BE%A4%E9%9B%A8%E3%82%A2%E3%83%B3%E3%83%96%E3%83%AC%E3%82%A4%E3%83%A9%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4d\ns6%3Acatharsis%EF%BC%88%E7%BE%A4%E9%9B%A8%E3%82%A2%E3%83%B3%E3%83%96%E3%83%AC%E3%82%A4%E3%83%A9%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 群雨アンブレイラ
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [catharsis（群雨アンブレイラ）](./catharsis（群雨アンブレイラ）.md)  
-该封面包含的角色：- [河城荷取](./河城荷取.md)
-
-
-
+- [catharsis（群雨アンブレイラ）](./catharsis（群雨アンブレイラ）.md)该封面包含的角色：
+- [河城荷取](./河城荷取.md)
 
 
 ---

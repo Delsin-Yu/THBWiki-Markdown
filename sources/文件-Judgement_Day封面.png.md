@@ -1,6 +1,6 @@
 # 文件:Judgement_Day封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8c\ns6%3AJudgement_Day%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8c\ns6%3AJudgement_Day%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Sound_I'z | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Sound_I'z | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Judgement Day](./Judgement_Day.md)  
-该封面包含的角色：- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)
-
-
-
+- [Judgement Day](./Judgement_Day.md)该封面包含的角色：
+- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)
 
 
 ---

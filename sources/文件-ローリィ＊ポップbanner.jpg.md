@@ -1,16 +1,11 @@
 # 文件:ローリィ＊ポップbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f8\ns6%3A%E3%83%AD%E3%83%BC%E3%83%AA%E3%82%A3%EF%BC%8A%E3%83%9D%E3%83%83%E3%83%97banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f8\ns6%3A%E3%83%AD%E3%83%BC%E3%83%AA%E3%82%A3%EF%BC%8A%E3%83%9D%E3%83%83%E3%83%97banner%2Ejpg.html -->
 
 ローリィ＊ポップ | 社团LOGO
 
   
-源地址：[[1]](https://static.wixstatic.com/media/c6a7ce_a74fe65104264439a7f49ebb5210b3dc.jpg/v1/fill/w_240,h_48,al_c,lg_1,q_80/c6a7ce_a74fe65104264439a7f49ebb5210b3dc.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://static.wixstatic.com/media/c6a7ce_a74fe65104264439a7f49ebb5210b3dc.jpg/v1/fill/w_240,h_48,al_c,lg_1,q_80/c6a7ce_a74fe65104264439a7f49ebb5210b3dc.jpg)  
 
 ---
 

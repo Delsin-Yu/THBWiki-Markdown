@@ -1,6 +1,6 @@
 # 文件:デジウィ_SPiRiT_INSTRUMENTAL封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8e\ns6%3A%E3%83%87%E3%82%B8%E3%82%A6%E3%82%A3_SPiRiT_INSTRUMENTAL%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8e\ns6%3A%E3%83%87%E3%82%B8%E3%82%A6%E3%82%A3_SPiRiT_INSTRUMENTAL%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 DiGiTAL_WiNG | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ DiGiTAL_WiNG | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [デジウィ SPiRiT INSTRUMENTAL](./デジウィ_SPiRiT_INSTRUMENTAL.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
-
-
-
+- [デジウィ SPiRiT INSTRUMENTAL](./デジウィ_SPiRiT_INSTRUMENTAL.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
 
 ---

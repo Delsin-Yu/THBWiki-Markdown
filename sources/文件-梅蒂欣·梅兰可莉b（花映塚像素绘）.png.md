@@ -1,12 +1,8 @@
 # 文件:梅蒂欣·梅兰可莉b（花映塚像素绘）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8e\ns6%3A%E6%A2%85%E8%92%82%E6%AC%A3%C2%B7%E6%A2%85%E5%85%B0%E5%8F%AF%E8%8E%89b%EF%BC%88%E8%8A%B1%E6%98%A0%E5%A1%9A%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8e\ns6%3A%E6%A2%85%E8%92%82%E6%AC%A3%C2%B7%E6%A2%85%E5%85%B0%E5%8F%AF%E8%8E%89b%EF%BC%88%E8%8A%B1%E6%98%A0%E5%A1%9A%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89%2Epng.html -->
 
 东方花映塚 | 官方游戏像素绘 | 梅蒂欣·梅兰可莉
-
-
-
-
 
 
 ---

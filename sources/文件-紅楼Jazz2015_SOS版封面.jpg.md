@@ -1,6 +1,6 @@
 # 文件:紅楼Jazz2015_SOS版封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\08\ns6%3A%E7%B4%85%E6%A5%BCJazz2015_SOS%E7%89%88%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\08\ns6%3A%E7%B4%85%E6%A5%BCJazz2015_SOS%E7%89%88%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 SOS_-Sound_of_Swing- | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ SOS_-Sound_of_Swing- | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [紅楼Jazz2015 SOS版](./紅楼Jazz2015_SOS版.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
-
-
-
+- [紅楼Jazz2015 SOS版](./紅楼Jazz2015_SOS版.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
 
 ---

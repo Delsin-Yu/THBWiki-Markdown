@@ -1,41 +1,31 @@
 # Starbow_Dream
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\46\ns0%3AStarbow_Dream.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\46\ns0%3AStarbow_Dream.html -->
 
 由 ZUN 创作的官方曲目，原名 スターボウドリーム
 
 本页是关于东方Project  
- **原作音乐** 的词条
-
+**原作音乐**的词条
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 出现作品](#出现作品)
 - [3 音乐文件](#音乐文件)
-
   - [3.1 东方怪绮谈](#东方怪绮谈)
   - [3.2 幺乐团的历史 vol.4](#幺乐团的历史_vol.4)
 
 
-
 - [4 说明文本](#说明文本)
-
   - [4.1 东方怪绮谈](#东方怪绮谈_2)
 
 
-
 - [5 其他资料](#其他资料)
-
   - [5.1 乐理资讯](#乐理资讯)
   - [5.2 分析考据](#分析考据)
   - [5.3 二次同人数据](#二次同人数据)
 
 
-
 - [6 注释](#注释)
-
-
-
 
 
 ## 基本信息
@@ -43,14 +33,12 @@
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">スターボウドリーム</td></tr><tr><td><b>译名</b></td><td>Starbow Dream</td></tr><tr><td><b>其他译名</b></td><td>星弧之梦</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 Starbow Dream（曲目） - 由 ZUN 创作的官方曲目，原名 スターボウドリーム
-
 ## 出现作品
 
 <table>
 <tbody><tr><td>1998年12月30日（Comic Market 55）</td><td><b><a href="./东方怪绮谈.md" title="东方怪绮谈">东方怪绮谈</a></b></td><td>Music Room 东方梦时空 未使用曲2</td><td style="padding-left:5px;">スターボウドリーム（Starbow Dream）</td><td style="padding-left:10px;">作曲：ZUN</td></tr>
 <tr><td>2007年12月31日（Comic Market 73）</td><td><b><a href="./幺乐团的历史4.md" title="幺乐团的历史4" unred="">幺乐团的历史 vol.4</a></b></td><td>第23轨</td><td style="padding-left:5px;">スターボウドリーム（Starbow Dream）</td><td style="padding-left:10px;">编曲：ZUN</td></tr>
 </tbody></table>
-
 
 
 ## 音乐文件
@@ -60,9 +48,7 @@ Starbow Dream（曲目） - 由 ZUN 创作的官方曲目，原名 スターボ�
 YM2608(OPNA)，FM86版。
   
 
-
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th05_Y_23.ogg.md" title="文件:th05 Y 23.ogg">th05_Y_23.ogg</a><br><audio src="https://upload.thwiki.cc/d/d6/th05_Y_23.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>Y_NG01.M</td></tr><tr><td><b>音轨时长</b></td><td>1:44.031</td></tr></tbody></table>
-
 
 
 ### 幺乐团的历史 vol.4
@@ -70,11 +56,11 @@ YM2608(OPNA)，FM86版。
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-ha04_23.mp3.md" title="文件:ha04 23.mp3">ha04_23.mp3</a><br><audio src="https://upload.thwiki.cc/f/f3/ha04_23.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track23.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>2:03</td></tr></tbody></table>
 
 
-
 ## 说明文本
 
 ### 东方怪绮谈
-- Music Room (未找到链接)
+
+- [Music Room](./东方怪绮谈-Music.md#东方梦时空-89)
 
 　　　东方梦时空  未使用曲其２  
   
@@ -87,28 +73,30 @@ YM2608(OPNA)，FM86版。
 ＺＵＮ（太田）  
 用于东方梦时空的曲子  
 宇宙就是这种感觉吗？
-
 ## 其他资料
 
 ### 乐理资讯
 
 ### 分析考据
   
- **スターボウドリーム**  Starbow Dream
+**スターボウドリーム** Starbow Dream
   
 星弧之梦
   
 
-- スターボウ（starbow）
+- スターボウ（starbow） 
   - 英语：星虹，星弧。
   - 是由star（星）+bow（弓、弧）或rainbow（彩虹）组成的词。
-  - 1972年弗雷德里克·波尔的科幻小说《星虹尽头的金子》（ *The Gold at the Starbow's End* ）[^cite_note-1]可能是最早使用该词的作品。
+  - 1972年弗雷德里克·波尔的科幻小说《星虹尽头的金子》（*The Gold at the Starbow's End*）[^cite_note-1]可能是最早使用该词的作品。 
     - 小说中的角色创造了「星虹」一词，来形容飞船相对于星星以亚光速运动时，因为多普勒效应和狭义相对论的效果，使船员观察到星星的光变得像彩虹一样的现象[^cite_note-2]。
+
 
   - ZUN认为本曲颇有宇宙的感觉。
 
-- ドリーム（dream）
+
+- ドリーム（dream） 
   - 英语：梦。
+
 
 
 
@@ -125,20 +113,8 @@ YM2608(OPNA)，FM86版。
 <tr><td>Vocal率</td><td>25.81%</td></tr>
 </tbody></table>
 
-
-
-
-
 [^cite_note-1]: 英文维基百科：[The Gold at the Starbow's End](https://en.wikipedia.org/wiki/en:The_Gold_at_the_Starbow's_End)
-
-  
-  
-
-  
-
-
-
-
+[^cite_note-2]: 日文维基百科：[虹#星虹](https://en.wikipedia.org/wiki/ja:虹#.E6.98.9F.E8.99.B9)
 
 ---
 

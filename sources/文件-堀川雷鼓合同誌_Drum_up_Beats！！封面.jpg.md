@@ -1,6 +1,6 @@
 # 文件:堀川雷鼓合同誌_Drum_up_Beats！！封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d3\ns6%3A%E5%A0%80%E5%B7%9D%E9%9B%B7%E9%BC%93%E5%90%88%E5%90%8C%E8%AA%8C_Drum_up_Beats%EF%BC%81%EF%BC%81%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d3\ns6%3A%E5%A0%80%E5%B7%9D%E9%9B%B7%E9%BC%93%E5%90%88%E5%90%8C%E8%AA%8C_Drum_up_Beats%EF%BC%81%EF%BC%81%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 八寺発電所 | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [堀川雷鼓合同誌 Drum up Beats！！](./堀川雷鼓合同誌_Drum_up_Beats！！.md)  
-该封面包含的角色：- [堀川雷鼓](./堀川雷鼓.md)
-
-
-
+- [堀川雷鼓合同誌 Drum up Beats！！](./堀川雷鼓合同誌_Drum_up_Beats！！.md)该封面包含的角色：
+- [堀川雷鼓](./堀川雷鼓.md)
 
 
 ---

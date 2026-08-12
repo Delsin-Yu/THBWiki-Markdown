@@ -1,6 +1,6 @@
 # 文件:Cross_stitch_-クロスステッチ-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5a\ns6%3ACross_stitch_-%E3%82%AF%E3%83%AD%E3%82%B9%E3%82%B9%E3%83%86%E3%83%83%E3%83%81-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5a\ns6%3ACross_stitch_-%E3%82%AF%E3%83%AD%E3%82%B9%E3%82%B9%E3%83%86%E3%83%83%E3%83%81-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Twilight_rouge | 同人志封面 | 封面图片 | 扉のむこうの幻想
 
@@ -10,11 +10,9 @@ Twilight_rouge | 同人志封面 | 封面图片 | 扉のむこうの幻想
 使用了本文件作封面图片的作品：
   
 
-- [Cross stitch -クロスステッチ-](./Cross_stitch_-クロスステッチ-.md)  
-该封面包含的角色：- [火焰猫燐](./火焰猫燐.md)- [灵乌路空](./灵乌路空.md)
-
-
-
+- [Cross stitch -クロスステッチ-](./Cross_stitch_-クロスステッチ-.md)该封面包含的角色：
+- [火焰猫燐](./火焰猫燐.md)
+- [灵乌路空](./灵乌路空.md)
 
 
 ---

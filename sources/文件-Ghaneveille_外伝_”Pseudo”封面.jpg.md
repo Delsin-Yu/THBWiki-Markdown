@@ -1,6 +1,6 @@
 # 文件:Ghaneveille_外伝_”Pseudo”封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\70\ns6%3AGhaneveille_%E5%A4%96%E4%BC%9D_%E2%80%9DPseudo%E2%80%9D%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\70\ns6%3AGhaneveille_%E5%A4%96%E4%BC%9D_%E2%80%9DPseudo%E2%80%9D%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 U京都怪奇倶楽部 | 同人志封面 | 封面图片
 
@@ -11,12 +11,7 @@ U京都怪奇倶楽部 | 同人志封面 | 封面图片
 - [Ghaneveille 外伝 ”Pseudo”](./Ghaneveille_外伝_”Pseudo”.md)
 
   
-源地址：[[1]](https://pbs.twimg.com/media/D5agyFXUIAALfcP.jpg:orig)
-  
-
-
-
-
+源地址：[\[1\]](https://pbs.twimg.com/media/D5agyFXUIAALfcP.jpg:orig)  
 
 ---
 

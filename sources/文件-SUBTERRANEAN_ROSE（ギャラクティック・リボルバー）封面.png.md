@@ -1,6 +1,6 @@
 # 文件:SUBTERRANEAN_ROSE（ギャラクティック・リボルバー）封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2e\ns6%3ASUBTERRANEAN_ROSE%EF%BC%88%E3%82%AE%E3%83%A3%E3%83%A9%E3%82%AF%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E3%83%BB%E3%83%AA%E3%83%9C%E3%83%AB%E3%83%90%E3%83%BC%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2e\ns6%3ASUBTERRANEAN_ROSE%EF%BC%88%E3%82%AE%E3%83%A3%E3%83%A9%E3%82%AF%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E3%83%BB%E3%83%AA%E3%83%9C%E3%83%AB%E3%83%90%E3%83%BC%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 ギャラクティック・リボルバー | 专辑封面 | 封面图片
 
@@ -10,15 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [SUBTERRANEAN ROSE（ギャラクティック・リボルバー）](./SUBTERRANEAN_ROSE（ギャラクティック・リボルバー）.md)  
-该封面包含的角色：- [古明地恋](./古明地恋.md)
+- [SUBTERRANEAN ROSE（ギャラクティック・リボルバー）](./SUBTERRANEAN_ROSE（ギャラクティック・リボルバー）.md)该封面包含的角色：
+- [古明地恋](./古明地恋.md)
 
 源地址
-: [[1]](https://booth.pximg.net/9a76b684-8fcd-427f-818d-11e00bdcfdcf/i/5376275/52b8ed45-9fa9-42d8-805b-d08df715b7f1.png)
-
-
-
-
+: [\[1\]](https://booth.pximg.net/9a76b684-8fcd-427f-818d-11e00bdcfdcf/i/5376275/52b8ed45-9fa9-42d8-805b-d08df715b7f1.png)
 
 ---
 

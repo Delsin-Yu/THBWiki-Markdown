@@ -1,6 +1,6 @@
 # 文件:天雲_-AMATSUKUMO-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8c\ns6%3A%E5%A4%A9%E9%9B%B2_-AMATSUKUMO-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8c\ns6%3A%E5%A4%A9%E9%9B%B2_-AMATSUKUMO-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 舞音KAGURA
 
@@ -8,16 +8,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [天雲 -AMATSUKUMO-](./天雲_-AMATSUKUMO-.md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)- [犬走椛](./犬走椛.md)
+- [天雲 -AMATSUKUMO-](./天雲_-AMATSUKUMO-.md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
+- [犬走椛](./犬走椛.md)
 
   
-源地址：[[1]](https://pbs.twimg.com/media/C5QomUvUkAEglWt.jpg:large)
-  
-
-
-
-
+源地址：[\[1\]](https://pbs.twimg.com/media/C5QomUvUkAEglWt.jpg:large)  
 
 ---
 

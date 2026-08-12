@@ -1,6 +1,6 @@
 # 文件:拘束人形_～the-Girl-Dollmaster-Magician封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\43\ns6%3A%E6%8B%98%E6%9D%9F%E4%BA%BA%E5%BD%A2_%EF%BD%9Ethe-Girl-Dollmaster-Magician%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\43\ns6%3A%E6%8B%98%E6%9D%9F%E4%BA%BA%E5%BD%A2_%EF%BD%9Ethe-Girl-Dollmaster-Magician%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 荒御灵
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [拘束人形 ～the-Girl-Dollmaster-Magician](./拘束人形_～the-Girl-Dollmaster-Magician.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
-
-
-
+- [拘束人形 ～the-Girl-Dollmaster-Magician](./拘束人形_～the-Girl-Dollmaster-Magician.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
 
 
 ---

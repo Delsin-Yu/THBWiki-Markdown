@@ -1,6 +1,6 @@
 # 文件:TOHO_ArrangeCD_Jackets_［Loom］封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fe\ns6%3ATOHO_ArrangeCD_Jackets_%EF%BC%BBLoom%EF%BC%BD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fe\ns6%3ATOHO_ArrangeCD_Jackets_%EF%BC%BBLoom%EF%BC%BD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 タラコスパ | 同人志封面 | 封面图片
 
@@ -10,16 +10,19 @@
 使用了本文件作封面图片的作品：
   
 
-- [TOHO ArrangeCD Jackets ［Loom］](./TOHO_ArrangeCD_Jackets_［Loom］.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [西行寺幽幽子](./西行寺幽幽子.md)- [八云紫](./八云紫.md)- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)- [八意永琳](./八意永琳.md)- [射命丸文](./射命丸文.md)- [东风谷早苗](./东风谷早苗.md)- [封兽鵺](./封兽鵺.md)
+- [TOHO ArrangeCD Jackets ［Loom］](./TOHO_ArrangeCD_Jackets_［Loom］.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [西行寺幽幽子](./西行寺幽幽子.md)
+- [八云紫](./八云紫.md)
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
+- [八意永琳](./八意永琳.md)
+- [射命丸文](./射命丸文.md)
+- [东风谷早苗](./东风谷早苗.md)
+- [封兽鵺](./封兽鵺.md)
 
   
-[Pixiv artwork ID: 29170969 (original size)](https://www.pixiv.net/artworks/29170969)
-  
-
-
-
-
+[Pixiv artwork ID: 29170969 (original size)](https://www.pixiv.net/artworks/29170969)  
 
 ---
 

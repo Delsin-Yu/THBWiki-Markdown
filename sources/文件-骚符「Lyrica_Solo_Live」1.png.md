@@ -1,12 +1,8 @@
 # 文件:骚符「Lyrica_Solo_Live」1.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cf\ns6%3A%E9%AA%9A%E7%AC%A6%E3%80%8CLyrica_Solo_Live%E3%80%8D1%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cf\ns6%3A%E9%AA%9A%E7%AC%A6%E3%80%8CLyrica_Solo_Live%E3%80%8D1%2Epng.html -->
 
 东方花映塚 | 莉莉卡·普莉兹姆利巴
-
-
-
-
 
 
 ---

@@ -1,12 +1,8 @@
 # 新約・東方幻想殺_～_Re.Phantasmagoria_of_Imagine_Breaker./系统/玩家角色介绍
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\1\10\ns0%3A%E6%96%B0%E7%B4%84%E3%83%BB%E6%9D%B1%E6%96%B9%E5%B9%BB%E6%83%B3%E6%AE%BA_%EF%BD%9E_Re%2EPhantasmagoria_of_Imagine_Breaker%2E%2F%E7%B3%BB%E7%BB%9F%2F%E7%8E%A9%E5%AE%B6%E8%A7%92%E8%89%B2%E4%BB%8B%E7%BB%8D.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\1\10\ns0%3A%E6%96%B0%E7%B4%84%E3%83%BB%E6%9D%B1%E6%96%B9%E5%B9%BB%E6%83%B3%E6%AE%BA_%EF%BD%9E_Re%2EPhantasmagoria_of_Imagine_Breaker%2E%2F%E7%B3%BB%E7%BB%9F%2F%E7%8E%A9%E5%AE%B6%E8%A7%92%E8%89%B2%E4%BB%8B%E7%BB%8D.html -->
 
 Gore
-
-
-
-
 
 
 ---

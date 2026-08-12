@@ -1,12 +1,8 @@
 # 文件:因幡帝汉化组LOGO.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\39\ns6%3A%E5%9B%A0%E5%B9%A1%E5%B8%9D%E6%B1%89%E5%8C%96%E7%BB%84LOGO%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\39\ns6%3A%E5%9B%A0%E5%B9%A1%E5%B8%9D%E6%B1%89%E5%8C%96%E7%BB%84LOGO%2Ejpg.html -->
 
 因幡帝汉化组 | 社团LOGO
-
-
-
-
 
 
 ---

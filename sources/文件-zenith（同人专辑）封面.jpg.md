@@ -1,6 +1,6 @@
 # 文件:zenith（同人专辑）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c0\ns6%3Azenith%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c0\ns6%3Azenith%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Compllege | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Compllege | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [zenith（同人专辑）](./zenith（同人专辑）.md)  
-该封面包含的角色：- 原创角色 (未找到链接)
-
-
-
+- [zenith（同人专辑）](./zenith（同人专辑）.md)该封面包含的角色：
+- 原创角色 (未找到链接)
 
 
 ---

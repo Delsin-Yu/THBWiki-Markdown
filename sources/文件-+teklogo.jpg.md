@@ -1,18 +1,13 @@
 # 文件:+teklogo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\89\ns6%3A%2Bteklogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\89\ns6%3A%2Bteklogo%2Ejpg.html -->
 
 +tek | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[[1]](https://f4.bcbits.com/img/0007805644_10.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://f4.bcbits.com/img/0007805644_10.jpg)  
 
 ---
 

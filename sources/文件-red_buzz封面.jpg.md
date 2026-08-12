@@ -1,6 +1,6 @@
 # 文件:red_buzz封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b8\ns6%3Ared_buzz%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b8\ns6%3Ared_buzz%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 acrophobia | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ acrophobia | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [red buzz](./red_buzz.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [red buzz](./red_buzz.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
   
-源地址：[[1]](http://acrophobia.yaekumo.com/simpleVC_img/upjake.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://acrophobia.yaekumo.com/simpleVC_img/upjake.jpg)  
 
 ---
 

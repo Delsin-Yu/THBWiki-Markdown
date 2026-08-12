@@ -1,14 +1,11 @@
 # 文件:プレイリーオイスターbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7c\ns6%3A%E3%83%97%E3%83%AC%E3%82%A4%E3%83%AA%E3%83%BC%E3%82%AA%E3%82%A4%E3%82%B9%E3%82%BF%E3%83%BCbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7c\ns6%3A%E3%83%97%E3%83%AC%E3%82%A4%E3%83%AA%E3%83%BC%E3%82%AA%E3%82%A4%E3%82%B9%E3%82%BF%E3%83%BCbanner%2Epng.html -->
 
 プレイリーオイスター | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

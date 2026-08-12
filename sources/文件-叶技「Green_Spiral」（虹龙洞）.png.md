@@ -1,14 +1,11 @@
 # 文件:叶技「Green_Spiral」（虹龙洞）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\53\ns6%3A%E5%8F%B6%E6%8A%80%E3%80%8CGreen_Spiral%E3%80%8D%EF%BC%88%E8%99%B9%E9%BE%99%E6%B4%9E%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\53\ns6%3A%E5%8F%B6%E6%8A%80%E3%80%8CGreen_Spiral%E3%80%8D%EF%BC%88%E8%99%B9%E9%BE%99%E6%B4%9E%EF%BC%89%2Epng.html -->
 
 东方虹龙洞 | 山城高岭 | 敌机符卡
 
 
 ## 文件说明
-
-
-
 
 ---
 

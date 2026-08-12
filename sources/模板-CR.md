@@ -1,16 +1,12 @@
 # 模板:CR
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\4\41\ns10%3ACR.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\4\41\ns10%3ACR.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

@@ -1,14 +1,11 @@
 # 文件:东方香霖堂waist.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9b\ns6%3A%E4%B8%9C%E6%96%B9%E9%A6%99%E9%9C%96%E5%A0%82waist%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9b\ns6%3A%E4%B8%9C%E6%96%B9%E9%A6%99%E9%9C%96%E5%A0%82waist%2Ejpg.html -->
 
 东方香霖堂
 
 
 ## 文件说明
-
-
-
 
 ---
 

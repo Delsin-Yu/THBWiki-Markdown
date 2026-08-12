@@ -1,6 +1,6 @@
 # 文件:東方天姫響～Truck_for_Lightness～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5c\ns6%3A%E6%9D%B1%E6%96%B9%E5%A4%A9%E5%A7%AB%E9%9F%BF%EF%BD%9ETruck_for_Lightness%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5c\ns6%3A%E6%9D%B1%E6%96%B9%E5%A4%A9%E5%A7%AB%E9%9F%BF%EF%BD%9ETruck_for_Lightness%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 R-note | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ R-note | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方天姫響 ～Truck for Lightness～](./東方天姫響_～Truck_for_Lightness～.md)  
-该封面包含的角色：- [伊吹萃香](./伊吹萃香.md)
-
-
-
+- [東方天姫響 ～Truck for Lightness～](./東方天姫響_～Truck_for_Lightness～.md)该封面包含的角色：
+- [伊吹萃香](./伊吹萃香.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:THD2诡计之雾.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c3\ns6%3ATHD2%E8%AF%A1%E8%AE%A1%E4%B9%8B%E9%9B%BE%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c3\ns6%3ATHD2%E8%AF%A1%E8%AE%A1%E4%B9%8B%E9%9B%BE%2Epng.html -->
 
 东方DOTS玩家社群
 
@@ -9,10 +9,6 @@
   
 来自DOTA2官网
   
-
-
-
-
 
 ---
 

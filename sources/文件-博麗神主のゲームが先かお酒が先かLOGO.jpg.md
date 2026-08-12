@@ -1,12 +1,8 @@
 # 文件:博麗神主のゲームが先かお酒が先かLOGO.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c4\ns6%3A%E5%8D%9A%E9%BA%97%E7%A5%9E%E4%B8%BB%E3%81%AE%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%8C%E5%85%88%E3%81%8B%E3%81%8A%E9%85%92%E3%81%8C%E5%85%88%E3%81%8BLOGO%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c4\ns6%3A%E5%8D%9A%E9%BA%97%E7%A5%9E%E4%B8%BB%E3%81%AE%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%8C%E5%85%88%E3%81%8B%E3%81%8A%E9%85%92%E3%81%8C%E5%85%88%E3%81%8BLOGO%2Ejpg.html -->
 
 博麗神主のゲームが先かお酒が先か
-
-
-
-
 
 
 ---

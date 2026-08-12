@@ -1,6 +1,6 @@
 # 文件:Land_of_Benevolence封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5b\ns6%3ALand_of_Benevolence%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5b\ns6%3ALand_of_Benevolence%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 釣師
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Land of Benevolence](./Land_of_Benevolence.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
+- [Land of Benevolence](./Land_of_Benevolence.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
   
-源地址：[[1]](http://www.tsurishi.info/tblog/wp-content/uploads/2016/05/56c6db1ffdcbb514900595aa3db6d166-768x767.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://www.tsurishi.info/tblog/wp-content/uploads/2016/05/56c6db1ffdcbb514900595aa3db6d166-768x767.jpg)  
 
 ---
 

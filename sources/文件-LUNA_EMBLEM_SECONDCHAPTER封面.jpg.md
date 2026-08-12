@@ -1,6 +1,6 @@
 # 文件:LUNA_EMBLEM_SECONDCHAPTER封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\41\ns6%3ALUNA_EMBLEM_SECONDCHAPTER%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\41\ns6%3ALUNA_EMBLEM_SECONDCHAPTER%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 紅賛歌
 
@@ -10,11 +10,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [LUNA EMBLEM SECONDCHAPTER](./LUNA_EMBLEM_SECONDCHAPTER.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [东风谷早苗](./东风谷早苗.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [LUNA EMBLEM SECONDCHAPTER](./LUNA_EMBLEM_SECONDCHAPTER.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [东风谷早苗](./东风谷早苗.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

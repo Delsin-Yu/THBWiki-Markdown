@@ -1,6 +1,6 @@
 # 文件:CREVICE（トマト組）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fb\ns6%3ACREVICE%EF%BC%88%E3%83%88%E3%83%9E%E3%83%88%E7%B5%84%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fb\ns6%3ACREVICE%EF%BC%88%E3%83%88%E3%83%9E%E3%83%88%E7%B5%84%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 トマト組 | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [CREVICE（トマト組）](./CREVICE（トマト組）.md)  
-该封面包含的角色：- [八云紫](./八云紫.md)
-
-
-
+- [CREVICE（トマト組）](./CREVICE（トマト組）.md)该封面包含的角色：
+- [八云紫](./八云紫.md)
 
 
 ---

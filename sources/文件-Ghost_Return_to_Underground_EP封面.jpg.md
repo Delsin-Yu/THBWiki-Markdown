@@ -1,6 +1,6 @@
 # 文件:Ghost_Return_to_Underground_EP封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c3\ns6%3AGhost_Return_to_Underground_EP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c3\ns6%3AGhost_Return_to_Underground_EP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 River_Mist | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ River_Mist | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Ghost Return to Underground EP](./Ghost_Return_to_Underground_EP.md)  
-该封面包含的角色：- [西行寺幽幽子](./西行寺幽幽子.md)
-
-
-
+- [Ghost Return to Underground EP](./Ghost_Return_to_Underground_EP.md)该封面包含的角色：
+- [西行寺幽幽子](./西行寺幽幽子.md)
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:村纱水蜜（星莲船立绘）dp.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\69\ns6%3A%E6%9D%91%E7%BA%B1%E6%B0%B4%E8%9C%9C%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89dp%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\69\ns6%3A%E6%9D%91%E7%BA%B1%E6%B0%B4%E8%9C%9C%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89dp%2Epng.html -->
 
 ZUN绘 | 东方星莲船 | 官方游戏立绘 | 村纱水蜜
-
-
-
-
 
 
 ---

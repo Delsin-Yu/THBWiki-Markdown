@@ -1,14 +1,11 @@
 # 文件:The_Grimoire_of_Usami（克劳恩皮丝2）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fd\ns6%3AThe_Grimoire_of_Usami%EF%BC%88%E5%85%8B%E5%8A%B3%E6%81%A9%E7%9A%AE%E4%B8%9D2%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fd\ns6%3AThe_Grimoire_of_Usami%EF%BC%88%E5%85%8B%E5%8A%B3%E6%81%A9%E7%9A%AE%E4%B8%9D2%EF%BC%89%2Ejpg.html -->
 
 克劳恩皮丝 | 宇佐见的魔法书
 
 
 ## 摘要
-
-
-
 
 ---
 

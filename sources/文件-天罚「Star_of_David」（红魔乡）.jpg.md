@@ -1,12 +1,8 @@
 # 文件:天罚「Star_of_David」（红魔乡）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\de\ns6%3A%E5%A4%A9%E7%BD%9A%E3%80%8CStar_of_David%E3%80%8D%EF%BC%88%E7%BA%A2%E9%AD%94%E4%B9%A1%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\de\ns6%3A%E5%A4%A9%E7%BD%9A%E3%80%8CStar_of_David%E3%80%8D%EF%BC%88%E7%BA%A2%E9%AD%94%E4%B9%A1%EF%BC%89%2Ejpg.html -->
 
 东方红魔乡 | 敌机符卡 | 蕾米莉亚·斯卡蕾特
-
-
-
-
 
 
 ---

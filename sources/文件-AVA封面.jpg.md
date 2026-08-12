@@ -1,6 +1,6 @@
 # 文件:AVA封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e8\ns6%3AAVA%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e8\ns6%3AAVA%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 カグラミクス | 同人志封面 | 封面图片
 
@@ -10,16 +10,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [AVA](./AVA.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- 异形 (未找到链接)
+- [AVA](./AVA.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- 异形 (未找到链接)
 
   
-源地址：[direct image link](http://kaguratsuna.sakura.ne.jp/sblo_files/kaguramix/image/100912l.jpg), [source page](http://kaguramix.sblo.jp/article/41800285.html)
-  
-
-
-
-
+源地址：[direct image link](http://kaguratsuna.sakura.ne.jp/sblo_files/kaguramix/image/100912l.jpg), [source page](http://kaguramix.sblo.jp/article/41800285.html)  
 
 ---
 

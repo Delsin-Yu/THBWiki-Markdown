@@ -1,12 +1,8 @@
 # 文件:Soundrefilbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3b\ns6%3ASoundrefilbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3b\ns6%3ASoundrefilbanner%2Epng.html -->
 
 Sound_Refil | 社团LOGO
-
-
-
-
 
 
 ---

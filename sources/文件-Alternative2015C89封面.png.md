@@ -1,6 +1,6 @@
 # 文件:Alternative2015C89封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\62\ns6%3AAlternative2015C89%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\62\ns6%3AAlternative2015C89%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 SYNC.ART'S | 专辑封面 | 封面图片
 
@@ -11,12 +11,7 @@ SYNC.ART'S | 专辑封面 | 封面图片
 - [Alternative2015C89](./Alternative2015C89.md)
 
   
-源地址：[[1]](http://syncarts.jp/wp2015/wp-content/uploads/2015/12/sacd-0014-jake800.png)
-  
-
-
-
-
+源地址：[\[1\]](http://syncarts.jp/wp2015/wp-content/uploads/2015/12/sacd-0014-jake800.png)  
 
 ---
 

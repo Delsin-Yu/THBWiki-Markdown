@@ -1,16 +1,12 @@
 # 模板:トウコレ！Petit！
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\e\ee\ns10%3A%E3%83%88%E3%82%A6%E3%82%B3%E3%83%AC%EF%BC%81Petit%EF%BC%81.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\e\ee\ns10%3A%E3%83%88%E3%82%A6%E3%82%B3%E3%83%AC%EF%BC%81Petit%EF%BC%81.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

@@ -1,11 +1,10 @@
 # PoriPori☆Club
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\1\1b\ns0%3APoriPori%E2%98%86Club.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\1\1b\ns0%3APoriPori%E2%98%86Club.html -->
 
 PoriPori☆Club | 使用了翻译表的页面 | 待完成页面
 
 <center>
-
 <table>
 <tbody><tr>
 <td class="mbox-image"><div style="width: 52px;">
@@ -14,14 +13,7 @@ PoriPori☆Club | 使用了翻译表的页面 | 待完成页面
 </tr>
 </tbody></table>
 
-
 </center>
-  
-  
-
-  
-
-
 ## 目录
 
 - [1 简介](#简介)
@@ -30,47 +22,26 @@ PoriPori☆Club | 使用了翻译表的页面 | 待完成页面
 - [4 注释](#注释)
 
 
-
-
-
 ## 简介
-
-
-
-[](./文件-PoriPori☆Club公式站Top1.png.md)
-
+<img alt="PoriPori☆Club公式站Top图（旧）" src="https://upload.thwiki.cc/thumb/e/eb/PoriPori%E2%98%86Club%E5%85%AC%E5%BC%8F%E7%AB%99Top1.png/220px-PoriPori%E2%98%86Club%E5%85%AC%E5%BC%8F%E7%AB%99Top1.png" decoding="async" loading="lazy" width="220" height="82" srcset="https://upload.thwiki.cc/thumb/e/eb/PoriPori%E2%98%86Club%E5%85%AC%E5%BC%8F%E7%AB%99Top1.png/330px-PoriPori%E2%98%86Club%E5%85%AC%E5%BC%8F%E7%AB%99Top1.png 1.5x, https://upload.thwiki.cc/thumb/e/eb/PoriPori%E2%98%86Club%E5%85%AC%E5%BC%8F%E7%AB%99Top1.png/440px-PoriPori%E2%98%86Club%E5%85%AC%E5%BC%8F%E7%AB%99Top1.png 2x" data-file-width="850" data-file-height="317">
 PoriPori☆Club公式站Top图（旧）
-
-
-[](./文件-PoriPori☆Club公式站Top2.png.md)
+<img alt="PoriPori☆Club公式站Top图（旧）" src="https://upload.thwiki.cc/thumb/0/09/PoriPori%E2%98%86Club%E5%85%AC%E5%BC%8F%E7%AB%99Top2.png/220px-PoriPori%E2%98%86Club%E5%85%AC%E5%BC%8F%E7%AB%99Top2.png" decoding="async" loading="lazy" width="220" height="88" srcset="https://upload.thwiki.cc/thumb/0/09/PoriPori%E2%98%86Club%E5%85%AC%E5%BC%8F%E7%AB%99Top2.png/330px-PoriPori%E2%98%86Club%E5%85%AC%E5%BC%8F%E7%AB%99Top2.png 1.5x, https://upload.thwiki.cc/thumb/0/09/PoriPori%E2%98%86Club%E5%85%AC%E5%BC%8F%E7%AB%99Top2.png/440px-PoriPori%E2%98%86Club%E5%85%AC%E5%BC%8F%E7%AB%99Top2.png 2x" data-file-width="850" data-file-height="340">
 PoriPori☆Club公式站Top图（旧）
-
-
-[](./文件-PoriPori☆Club公式站Top3.png.md)
+<img alt="PoriPori☆Club公式站Top图（旧）" src="https://upload.thwiki.cc/thumb/a/a5/PoriPori%E2%98%86Club%E5%85%AC%E5%BC%8F%E7%AB%99Top3.png/220px-PoriPori%E2%98%86Club%E5%85%AC%E5%BC%8F%E7%AB%99Top3.png" decoding="async" loading="lazy" width="220" height="88" srcset="https://upload.thwiki.cc/thumb/a/a5/PoriPori%E2%98%86Club%E5%85%AC%E5%BC%8F%E7%AB%99Top3.png/330px-PoriPori%E2%98%86Club%E5%85%AC%E5%BC%8F%E7%AB%99Top3.png 1.5x, https://upload.thwiki.cc/thumb/a/a5/PoriPori%E2%98%86Club%E5%85%AC%E5%BC%8F%E7%AB%99Top3.png/440px-PoriPori%E2%98%86Club%E5%85%AC%E5%BC%8F%E7%AB%99Top3.png 2x" data-file-width="850" data-file-height="340">
 PoriPori☆Club公式站Top图（旧）
-
-
-[](./文件-PoriPori☆Club公式站Top4.png.md)
+<img alt="PoriPori☆Club公式站Top图" src="https://upload.thwiki.cc/thumb/1/17/PoriPori%E2%98%86Club%E5%85%AC%E5%BC%8F%E7%AB%99Top4.png/220px-PoriPori%E2%98%86Club%E5%85%AC%E5%BC%8F%E7%AB%99Top4.png" decoding="async" loading="lazy" width="220" height="88" srcset="https://upload.thwiki.cc/thumb/1/17/PoriPori%E2%98%86Club%E5%85%AC%E5%BC%8F%E7%AB%99Top4.png/330px-PoriPori%E2%98%86Club%E5%85%AC%E5%BC%8F%E7%AB%99Top4.png 1.5x, https://upload.thwiki.cc/thumb/1/17/PoriPori%E2%98%86Club%E5%85%AC%E5%BC%8F%E7%AB%99Top4.png/440px-PoriPori%E2%98%86Club%E5%85%AC%E5%BC%8F%E7%AB%99Top4.png 2x" data-file-width="850" data-file-height="340">
 PoriPori☆Club公式站Top图
-
-
-
-
   
-<big>ポリポリ☆クラブ</big>， **PoriPori☆Club** 。  
+<big>ポリポリ☆クラブ</big>，**PoriPori☆Club**。  
 
-是独立游戏制作者 **木村祥朗** 组织的直播节目，内容上主要讨论以独立游戏为主的游戏相关话题，并且同时在niconico或ustream上直播（在niconico直播较多），期间有少数几次到Twitch上直播，在第56回后到YouTube上直播。  
+是独立游戏制作者**木村祥朗**组织的直播节目，内容上主要讨论以独立游戏为主的游戏相关话题，并且同时在niconico或ustream上直播（在niconico直播较多），期间有少数几次到Twitch上直播，在第56回后到YouTube上直播。  
 
 一般为一个月举办一次，ZUN作为常驻嘉宾[^cite_note-1]，不定期去参加，因此受部分东方众关注，但基本上内容很少谈及东方。
   
   
-ZUN「奔着我去看PoriPori的人看一次就会厌了」[&#91;从第二家开始的广播第45回&#93;](./2軒目から始まるラジオ.md)
-  
-
-
+ZUN「奔着我去看PoriPori的人看一次就会厌了」[\[从第二家开始的广播第45回\]](./2軒目から始まるラジオ.md)  
 
 <table><tbody><tr class="tt-header" id="简介-1" data-pos="&#91;&quot;\u7b80\u4ecb&quot;,1&#93;"><td colspan="2" id="公式站简介（初版）" class="tt-header" lang="zh"><div class="poem">公式站简介（初版）</div></td></tr><tr class="tt-content" id="简介-2" data-pos="&#91;&quot;\u7b80\u4ecb&quot;,2&#93;"><td class="tt-ja" lang="ja"><div class="poem">旅人でゲームデザイナーな酒飲め2人が　嬉し恥ずかし真剣トーク！</div></td><td class="tt-zh" lang="zh"><div class="poem">旅行者兼游戏设计师的两个酒鬼　开心的难为情的认真谈话节目！</div></td></tr><tr class="tt-header" id="简介-3" data-pos="&#91;&quot;\u7b80\u4ecb&quot;,3&#93;"><td colspan="2" id="公式站简介（二版）" class="tt-header" lang="zh"><div class="poem">公式站简介（二版）</div></td></tr><tr class="tt-content" id="简介-4" data-pos="&#91;&quot;\u7b80\u4ecb&quot;,4&#93;"><td class="tt-ja" lang="ja"><div class="poem">ゲーム業界の酒飲みたちが　嬉し恥ずかし真剣トーク！</div></td><td class="tt-zh" lang="zh"><div class="poem">游戏业界的酒鬼们的　开心的难为情的认真谈话节目！</div></td></tr><tr class="tt-header" id="简介-5" data-pos="&#91;&quot;\u7b80\u4ecb&quot;,5&#93;"><td colspan="2" id="公式站简介（三版）" class="tt-header" lang="zh"><div class="poem">公式站简介（三版）</div></td></tr><tr class="tt-content" id="简介-6" data-pos="&#91;&quot;\u7b80\u4ecb&quot;,6&#93;"><td class="tt-ja" lang="ja"><div class="poem">ゲーム業界の酒飲みたちが<br>ゲーム好きの皆様に送る<br>ゆるーいトーク番組！</div></td><td class="tt-zh" lang="zh"><div class="poem">游戏业界的酒鬼们的<br>送给所有游戏爱好者的<br>宽松的谈话节目！</div></td></tr></tbody></table>
-
 
 
 - ustream放送地址：[http://www.ustream.tv/channel/poriporitv](http://www.ustream.tv/channel/poriporitv)（已经失效）
@@ -79,8 +50,8 @@ ZUN「奔着我去看PoriPori的人看一次就会厌了」[&#91;从第二家开
 - PoriPori☆Club公式推特：[https://twitter.com/PORI_ANNA](https://twitter.com/PORI_ANNA)
 
 
-
 ## 往期时间表
+
 - 仅列出ZUN参与的回次
 
 
@@ -284,7 +255,6 @@ ZUN「奔着我去看PoriPori的人看一次就会厌了」[&#91;从第二家开
 </tbody></table>
 
 
-
 ## 内容整理
   
 部分PoriPori☆Club内容可以参考此页面。
@@ -292,17 +262,7 @@ ZUN「奔着我去看PoriPori的人看一次就会厌了」[&#91;从第二家开
 
 - [内容整理](./PoriPori☆Club-内容整理.md)
 
-
 [^cite_note-1]: [Polypoly☆Club介绍](http://poriporiclub.blogspot.com/p/blog-page.html)界面内原介绍为常驻嘉宾ZUN饮酒担当
-
-  
-  
-
-  
-
-
-
-
 
 ---
 

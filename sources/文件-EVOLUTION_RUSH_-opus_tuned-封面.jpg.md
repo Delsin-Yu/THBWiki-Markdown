@@ -1,6 +1,6 @@
 # 文件:EVOLUTION_RUSH_-opus_tuned-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\77\ns6%3AEVOLUTION_RUSH_-opus_tuned-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\77\ns6%3AEVOLUTION_RUSH_-opus_tuned-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 R-note | 专辑封面 | 封面图片
 
@@ -10,11 +10,9 @@ R-note | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [EVOLUTION RUSH -opus tuned-](./EVOLUTION_RUSH_-opus_tuned-.md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)- [西行寺幽幽子](./西行寺幽幽子.md)
-
-
-
+- [EVOLUTION RUSH -opus tuned-](./EVOLUTION_RUSH_-opus_tuned-.md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
+- [西行寺幽幽子](./西行寺幽幽子.md)
 
 
 ---

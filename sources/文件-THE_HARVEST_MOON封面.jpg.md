@@ -1,6 +1,6 @@
 # 文件:THE_HARVEST_MOON封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\35\ns6%3ATHE_HARVEST_MOON%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\35\ns6%3ATHE_HARVEST_MOON%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Class-9 | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ Class-9 | 专辑封面 | 封面图片
   
 
 - [THE HARVEST MOON](./THE_HARVEST_MOON.md)
-
-
-
 
 
 ---

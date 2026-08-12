@@ -1,6 +1,6 @@
 # 文件:ようせいびより_Dear_my_friends_3封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d2\ns6%3A%E3%82%88%E3%81%86%E3%81%9B%E3%81%84%E3%81%B3%E3%82%88%E3%82%8A_Dear_my_friends_3%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d2\ns6%3A%E3%82%88%E3%81%86%E3%81%9B%E3%81%84%E3%81%B3%E3%82%88%E3%82%8A_Dear_my_friends_3%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 永久機関
 
@@ -10,11 +10,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [ようせいびより Dear my friends 3](./ようせいびより_Dear_my_friends_3.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)- [大妖精](./大妖精.md)- [莉莉霍瓦特](./莉莉霍瓦特.md)
-
-
-
+- [ようせいびより Dear my friends 3](./ようせいびより_Dear_my_friends_3.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
+- [大妖精](./大妖精.md)
+- [莉莉霍瓦特](./莉莉霍瓦特.md)
 
 
 ---

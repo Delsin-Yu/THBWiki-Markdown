@@ -1,18 +1,13 @@
 # 文件:夢見がち弦楽団banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f0\ns6%3A%E5%A4%A2%E8%A6%8B%E3%81%8C%E3%81%A1%E5%BC%A6%E6%A5%BD%E5%9B%A3banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f0\ns6%3A%E5%A4%A2%E8%A6%8B%E3%81%8C%E3%81%A1%E5%BC%A6%E6%A5%BD%E5%9B%A3banner%2Epng.html -->
 
 夢見がち弦楽団 | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[[1]](https://cdn-ak.f.st-hatena.com/images/fotolife/y/yunnyyy/20130128/20130128002429.png)
-  
-
-
-
-
+源地址：[\[1\]](https://cdn-ak.f.st-hatena.com/images/fotolife/y/yunnyyy/20130128/20130128002429.png)  
 
 ---
 

@@ -1,12 +1,8 @@
 # 文件:THBWiki-LOGO-四季映姬.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\72\ns6%3ATHBWiki-LOGO-%E5%9B%9B%E5%AD%A3%E6%98%A0%E5%A7%AC%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\72\ns6%3ATHBWiki-LOGO-%E5%9B%9B%E5%AD%A3%E6%98%A0%E5%A7%AC%2Epng.html -->
 
 THBWiki | Wiki词条分类用图
-
-
-
-
 
 
 ---

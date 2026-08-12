@@ -1,6 +1,6 @@
 # 文件:Dear（Hinacafe.）封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9c\ns6%3ADear%EF%BC%88Hinacafe%2E%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9c\ns6%3ADear%EF%BC%88Hinacafe%2E%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Hinacafe. | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@ Hinacafe. | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Dear（Hinacafe.）](./Dear（Hinacafe.）.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
+- [Dear（Hinacafe.）](./Dear（Hinacafe.）.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
   
-[Pixiv artwork ID: 48763969 (original size)](https://www.pixiv.net/artworks/48763969)
-  
-
-
-
-
+[Pixiv artwork ID: 48763969 (original size)](https://www.pixiv.net/artworks/48763969)  
 
 ---
 

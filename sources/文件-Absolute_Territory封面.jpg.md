@@ -1,6 +1,6 @@
 # 文件:Absolute_Territory封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dd\ns6%3AAbsolute_Territory%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dd\ns6%3AAbsolute_Territory%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ふたつまみ | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Absolute Territory](./Absolute_Territory.md)  
-该封面包含的角色：- [封兽鵺](./封兽鵺.md)
-
-
-
+- [Absolute Territory](./Absolute_Territory.md)该封面包含的角色：
+- [封兽鵺](./封兽鵺.md)
 
 
 ---

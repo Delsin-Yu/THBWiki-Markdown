@@ -1,6 +1,6 @@
 # 文件:Youtubeにおける東方関連動画研究封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f9\ns6%3AYoutube%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E6%9D%B1%E6%96%B9%E9%96%A2%E9%80%A3%E5%8B%95%E7%94%BB%E7%A0%94%E7%A9%B6%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f9\ns6%3AYoutube%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E6%9D%B1%E6%96%B9%E9%96%A2%E9%80%A3%E5%8B%95%E7%94%BB%E7%A0%94%E7%A9%B6%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 日向の日々
 
@@ -10,11 +10,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [Youtubeにおける東方関連動画研究](./Youtubeにおける東方関連動画研究.md)  
-该封面包含的角色：- [橙](./橙.md)- [八云蓝](./八云蓝.md)- [八云紫](./八云紫.md)
-
-
-
+- [Youtubeにおける東方関連動画研究](./Youtubeにおける東方関連動画研究.md)该封面包含的角色：
+- [橙](./橙.md)
+- [八云蓝](./八云蓝.md)
+- [八云紫](./八云紫.md)
 
 
 ---

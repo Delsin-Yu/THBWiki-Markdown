@@ -1,6 +1,6 @@
 # 文件:Harusaki_no_Nantoyara封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ec\ns6%3AHarusaki_no_Nantoyara%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ec\ns6%3AHarusaki_no_Nantoyara%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 nakascene | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ nakascene | 专辑封面 | 封面图片
   
 
 - [Harusaki no Nantoyara](./Harusaki_no_Nantoyara.md)
-
-
-
 
 
 ---

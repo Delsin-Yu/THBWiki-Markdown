@@ -1,6 +1,6 @@
 # 东方幻想乡Defence_of_The_Shrines/设定/铃仙二号
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\7\7e\ns0%3A%E4%B8%9C%E6%96%B9%E5%B9%BB%E6%83%B3%E4%B9%A1Defence_of_The_Shrines%2F%E8%AE%BE%E5%AE%9A%2F%E9%93%83%E4%BB%99%E4%BA%8C%E5%8F%B7.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\7\7e\ns0%3A%E4%B8%9C%E6%96%B9%E5%B9%BB%E6%83%B3%E4%B9%A1Defence_of_The_Shrines%2F%E8%AE%BE%E5%AE%9A%2F%E9%93%83%E4%BB%99%E4%BA%8C%E5%8F%B7.html -->
 
 东方DOTS制作组
 
@@ -12,28 +12,23 @@ Reisen
   
   
   
-
-[](./文件-THD-Reisen_2.png.md)
+<img alt="THD-Reisen 2.png" src="https://upload.thwiki.cc/f/f2/THD-Reisen_2.png" decoding="async" loading="lazy" width="384" height="127" data-file-width="384" data-file-height="127">
   
   
-[](./文件-THD-Reisen_2e.png.md)
+<img alt="THD-Reisen 2e.png" src="https://upload.thwiki.cc/e/e0/THD-Reisen_2e.png" decoding="async" loading="lazy" width="449" height="79" data-file-width="449" data-file-height="79">
   
   
-[](./文件-THD-Reisen_2d.png.md)
+<img alt="THD-Reisen 2d.png" src="https://upload.thwiki.cc/6/6c/THD-Reisen_2d.png" decoding="async" loading="lazy" width="447" height="187" data-file-width="447" data-file-height="187">
   
   
-[](./文件-THD-Reisen_2f.png.md)
+<img alt="THD-Reisen 2f.png" src="https://upload.thwiki.cc/8/8b/THD-Reisen_2f.png" decoding="async" loading="lazy" width="449" height="164" data-file-width="449" data-file-height="164">
   
   
-[](./文件-THD-Reisen_2r.png.md)
+<img alt="THD-Reisen 2r.png" src="https://upload.thwiki.cc/b/bf/THD-Reisen_2r.png" decoding="async" loading="lazy" width="449" height="284" data-file-width="449" data-file-height="284">
   
   
-[](./文件-THD-Reisen_2w.png.md)
+<img alt="THD-Reisen 2w.png" src="https://upload.thwiki.cc/6/6b/THD-Reisen_2w.png" decoding="async" loading="lazy" width="449" height="157" data-file-width="449" data-file-height="157">
   
-
-
-
-
 
 ---
 

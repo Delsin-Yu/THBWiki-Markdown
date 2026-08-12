@@ -1,16 +1,12 @@
 # 模板:苏州THSP
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\0\04\ns10%3A%E8%8B%8F%E5%B7%9ETHSP.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\0\04\ns10%3A%E8%8B%8F%E5%B7%9ETHSP.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

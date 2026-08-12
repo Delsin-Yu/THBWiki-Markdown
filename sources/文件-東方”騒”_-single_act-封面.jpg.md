@@ -1,6 +1,6 @@
 # 文件:東方”騒”_-single_act-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4e\ns6%3A%E6%9D%B1%E6%96%B9%E2%80%9D%E9%A8%92%E2%80%9D_-single_act-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4e\ns6%3A%E6%9D%B1%E6%96%B9%E2%80%9D%E9%A8%92%E2%80%9D_-single_act-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 なんだこりゃーず | 专辑封面 | 封面图片
 
@@ -10,16 +10,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方”騒” -single act-](./東方”騒”_-single_act-.md)  
-该封面包含的角色：- [水桥帕露西](./水桥帕露西.md)
+- [東方”騒” -single act-](./東方”騒”_-single_act-.md)该封面包含的角色：
+- [水桥帕露西](./水桥帕露西.md)
 
   
 from TLMC scans
   
-
-
-
-
 
 ---
 

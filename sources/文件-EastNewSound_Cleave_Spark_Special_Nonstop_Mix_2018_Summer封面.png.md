@@ -1,6 +1,6 @@
 # 文件:EastNewSound_Cleave_Spark_Special_Nonstop_Mix_2018_Summer封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c0\ns6%3AEastNewSound_Cleave_Spark_Special_Nonstop_Mix_2018_Summer%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c0\ns6%3AEastNewSound_Cleave_Spark_Special_Nonstop_Mix_2018_Summer%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 EastNewSound | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ EastNewSound | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [EastNewSound Cleave Spark Special Nonstop Mix 2018 Summer](./EastNewSound_Cleave_Spark_Special_Nonstop_Mix_2018_Summer.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [EastNewSound Cleave Spark Special Nonstop Mix 2018 Summer](./EastNewSound_Cleave_Spark_Special_Nonstop_Mix_2018_Summer.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

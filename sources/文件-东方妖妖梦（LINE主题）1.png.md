@@ -1,12 +1,8 @@
 # 文件:东方妖妖梦（LINE主题）1.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\be\ns6%3A%E4%B8%9C%E6%96%B9%E5%A6%96%E5%A6%96%E6%A2%A6%EF%BC%88LINE%E4%B8%BB%E9%A2%98%EF%BC%891%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\be\ns6%3A%E4%B8%9C%E6%96%B9%E5%A6%96%E5%A6%96%E6%A2%A6%EF%BC%88LINE%E4%B8%BB%E9%A2%98%EF%BC%891%2Epng.html -->
 
 东方Project官方LINE主题
-
-
-
-
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:ながめ。banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f0\ns6%3A%E3%81%AA%E3%81%8C%E3%82%81%E3%80%82banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f0\ns6%3A%E3%81%AA%E3%81%8C%E3%82%81%E3%80%82banner%2Epng.html -->
 
 ながめ。
-
-
-
-
 
 
 ---

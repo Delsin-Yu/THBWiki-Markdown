@@ -1,6 +1,6 @@
 # 文件:Jaxalate_Rec.TOHOselection其之壱封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ad\ns6%3AJaxalate_Rec%2ETOHOselection%E5%85%B6%E4%B9%8B%E5%A3%B1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ad\ns6%3AJaxalate_Rec%2ETOHOselection%E5%85%B6%E4%B9%8B%E5%A3%B1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Jaxalate_Records | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Jaxalate_Records | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Jaxalate Rec.TOHOselection其之壱](./Jaxalate_Rec.TOHOselection其之壱.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)
-
-
-
+- [Jaxalate Rec.TOHOselection其之壱](./Jaxalate_Rec.TOHOselection其之壱.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
 
 
 ---

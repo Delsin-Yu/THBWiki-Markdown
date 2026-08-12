@@ -1,6 +1,6 @@
 # 文件:S.KsproutWind封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a0\ns6%3AS%2EKsproutWind%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a0\ns6%3AS%2EKsproutWind%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 S.K'／Sound | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ S.K'／Sound | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [S.KsproutWind](./S.KsproutWind.md)  
-该封面包含的角色：- [东风谷早苗](./东风谷早苗.md)
-
-
-
+- [S.KsproutWind](./S.KsproutWind.md)该封面包含的角色：
+- [东风谷早苗](./东风谷早苗.md)
 
 
 ---

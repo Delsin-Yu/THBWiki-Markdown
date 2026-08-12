@@ -1,6 +1,6 @@
 # 文件:Symphony_of_Scarlet封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\97\ns6%3ASymphony_of_Scarlet%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\97\ns6%3ASymphony_of_Scarlet%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 MICMNIS | 专辑封面 | 封面图片
 
@@ -8,16 +8,12 @@ MICMNIS | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Symphony of Scarlet](./Symphony_of_Scarlet.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [Symphony of Scarlet](./Symphony_of_Scarlet.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
   
-源地址：[[1]](http://static.tumblr.com/4529204e76c6205eee8d30928e2dc56d/28ddm1n/bw5mq8v9h/tumblr_static____________________________.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://static.tumblr.com/4529204e76c6205eee8d30928e2dc56d/28ddm1n/bw5mq8v9h/tumblr_static____________________________.jpg)  
 
 ---
 

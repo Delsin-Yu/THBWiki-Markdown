@@ -1,12 +1,8 @@
 # 文件:宵越幻想banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\73\ns6%3A%E5%AE%B5%E8%B6%8A%E5%B9%BB%E6%83%B3banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\73\ns6%3A%E5%AE%B5%E8%B6%8A%E5%B9%BB%E6%83%B3banner%2Egif.html -->
 
 宵越幻想 | 社团LOGO
-
-
-
-
 
 
 ---

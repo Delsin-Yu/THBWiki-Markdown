@@ -1,16 +1,12 @@
 # 文件:東方幻梦华章~TouhouCraft_LOGO.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cf\ns6%3A%E6%9D%B1%E6%96%B9%E5%B9%BB%E6%A2%A6%E5%8D%8E%E7%AB%A0%7ETouhouCraft_LOGO%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cf\ns6%3A%E6%9D%B1%E6%96%B9%E5%B9%BB%E6%A2%A6%E5%8D%8E%E7%AB%A0%7ETouhouCraft_LOGO%2Epng.html -->
 
 東方幻梦华章~TouhouCraft | 社团LOGO
 
   
 社团logo
   
-
-
-
-
 
 ---
 

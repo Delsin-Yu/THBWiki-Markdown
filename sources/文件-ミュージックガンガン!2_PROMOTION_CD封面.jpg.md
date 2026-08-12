@@ -1,6 +1,6 @@
 # 文件:ミュージックガンガン!2_PROMOTION_CD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c1\ns6%3A%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF%E3%82%AC%E3%83%B3%E3%82%AC%E3%83%B3%212_PROMOTION_CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c1\ns6%3A%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF%E3%82%AC%E3%83%B3%E3%82%AC%E3%83%B3%212_PROMOTION_CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 太东 | 封面图片
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [ミュージックガンガン!2 PROMOTION CD](./ミュージックガンガン!2_PROMOTION_CD.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- 原创角色 (未找到链接)
-
-
-
+- [ミュージックガンガン!2 PROMOTION CD](./ミュージックガンガン!2_PROMOTION_CD.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- 原创角色 (未找到链接)
 
 
 ---

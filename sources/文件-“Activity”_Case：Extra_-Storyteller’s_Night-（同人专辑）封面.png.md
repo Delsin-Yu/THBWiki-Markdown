@@ -1,6 +1,6 @@
 # 文件:“Activity”_Case：Extra_-Storyteller’s_Night-（同人专辑）封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4f\ns6%3A%E2%80%9CActivity%E2%80%9D_Case%EF%BC%9AExtra_-Storyteller%E2%80%99s_Night-%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4f\ns6%3A%E2%80%9CActivity%E2%80%9D_Case%EF%BC%9AExtra_-Storyteller%E2%80%99s_Night-%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 GET_IN_THE_RING | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ GET_IN_THE_RING | 专辑封面 | 封面图片
   
 
 - [“Activity” Case：Extra -Storyteller’s Night-（同人专辑）](./“Activity”_Case：Extra_-Storyteller’s_Night-（同人专辑）.md)
-
-
-
 
 
 ---

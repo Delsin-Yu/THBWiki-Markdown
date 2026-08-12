@@ -1,6 +1,6 @@
 # 文件:STORM_BRINGER_e.p.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ce\ns6%3ASTORM_BRINGER_e%2Ep%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ce\ns6%3ASTORM_BRINGER_e%2Ep%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Prismatica_Material_Records | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@ Prismatica_Material_Records | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [STORM BRINGER e.p.](./STORM_BRINGER_e.p..md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)
+- [STORM BRINGER e.p.](./STORM_BRINGER_e.p..md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
 
   
-源地址：[direct image link](https://livedoor.blogimg.jp/uk_makina/imgs/1/e/1ea1e987.jpg), [source page](http://blog.livedoor.jp/uk_makina/archives/852706.html)
-  
-
-
-
-
+源地址：[direct image link](https://livedoor.blogimg.jp/uk_makina/imgs/1/e/1ea1e987.jpg), [source page](http://blog.livedoor.jp/uk_makina/archives/852706.html)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:Vengeance_to_the_humiliation封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\81\ns6%3AVengeance_to_the_humiliation%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\81\ns6%3AVengeance_to_the_humiliation%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Lphone | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@ Lphone | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Vengeance to the humiliation](./Vengeance_to_the_humiliation.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [Vengeance to the humiliation](./Vengeance_to_the_humiliation.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
   
-源地址：[[1]](https://melonbooks.akamaized.net/user_data/packages/resize_image.php?image=213001021690.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://melonbooks.akamaized.net/user_data/packages/resize_image.php?image=213001021690.jpg)  
 
 ---
 

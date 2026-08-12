@@ -1,6 +1,6 @@
 # 文件:PHANTOM_FRAGMENTS封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b9\ns6%3APHANTOM_FRAGMENTS%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b9\ns6%3APHANTOM_FRAGMENTS%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 PhantomMist | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ PhantomMist | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [PHANTOM FRAGMENTS](./PHANTOM_FRAGMENTS.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [物部布都](./物部布都.md)
-
-
-
+- [PHANTOM FRAGMENTS](./PHANTOM_FRAGMENTS.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [物部布都](./物部布都.md)
 
 
 ---

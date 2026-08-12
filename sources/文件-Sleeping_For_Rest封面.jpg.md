@@ -1,6 +1,6 @@
 # 文件:Sleeping_For_Rest封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e5\ns6%3ASleeping_For_Rest%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e5\ns6%3ASleeping_For_Rest%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 PURE-POLLUTION | 专辑封面 | 封面图片
 
@@ -8,19 +8,14 @@ PURE-POLLUTION | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Sleeping For Rest](./Sleeping_For_Rest.md)  
-该封面包含的角色：- [圣白莲](./圣白莲.md)
+- [Sleeping For Rest](./Sleeping_For_Rest.md)该封面包含的角色：
+- [圣白莲](./圣白莲.md)
 
   
 From TLMC scans (resized)
   
   
-Textless version of cover can be seen at [Pixiv artwork ID 13398614](https://www.pixiv.net/artworks/13398614) or [the circle's website](http://www.snv.jp/album/)
-  
-
-
-
-
+Textless version of cover can be seen at [Pixiv artwork ID 13398614](https://www.pixiv.net/artworks/13398614) or [the circle's website](http://www.snv.jp/album/)  
 
 ---
 

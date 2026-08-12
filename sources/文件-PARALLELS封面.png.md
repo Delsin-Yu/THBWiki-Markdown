@@ -1,6 +1,6 @@
 # 文件:PARALLELS封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8f\ns6%3APARALLELS%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8f\ns6%3APARALLELS%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Blackscreen | 专辑封面 | 封面图片
 
@@ -8,12 +8,9 @@ Blackscreen | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [PARALLELS](./PARALLELS.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)源地址：[[1]](https://static.wixstatic.com/media/ea2254_7d31273d31a6477ca7dade4ec8cd272f~mv2_d_1758_1736_s_2.png)
-
-
-
-
+- [PARALLELS](./PARALLELS.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
+源地址：[\[1\]](https://static.wixstatic.com/media/ea2254_7d31273d31a6477ca7dade4ec8cd272f~mv2_d_1758_1736_s_2.png)
 
 ---
 

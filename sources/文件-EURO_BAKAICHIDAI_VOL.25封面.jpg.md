@@ -1,6 +1,6 @@
 # 文件:EURO_BAKAICHIDAI_VOL.25封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fd\ns6%3AEURO_BAKAICHIDAI_VOL%2E25%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fd\ns6%3AEURO_BAKAICHIDAI_VOL%2E25%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Eurobeat_Union | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Eurobeat_Union | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [EURO BAKAICHIDAI VOL.25](./EURO_BAKAICHIDAI_VOL.25.md)  
-该封面包含的角色：- [蓬莱山辉夜](./蓬莱山辉夜.md)
-
-
-
+- [EURO BAKAICHIDAI VOL.25](./EURO_BAKAICHIDAI_VOL.25.md)该封面包含的角色：
+- [蓬莱山辉夜](./蓬莱山辉夜.md)
 
 
 ---

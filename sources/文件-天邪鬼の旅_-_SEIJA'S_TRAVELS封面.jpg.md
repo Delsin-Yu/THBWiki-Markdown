@@ -1,6 +1,6 @@
 # 文件:天邪鬼の旅_-_SEIJA'S_TRAVELS封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\50\ns6%3A%E5%A4%A9%E9%82%AA%E9%AC%BC%E3%81%AE%E6%97%85_-_SEIJA%27S_TRAVELS%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\50\ns6%3A%E5%A4%A9%E9%82%AA%E9%AC%BC%E3%81%AE%E6%97%85_-_SEIJA%27S_TRAVELS%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 2over5 | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [天邪鬼の旅 - SEIJA'S TRAVELS](./天邪鬼の旅_-_SEIJA'S_TRAVELS.md)  
-该封面包含的角色：- [鬼人正邪](./鬼人正邪.md)
-
-
-
+- [天邪鬼の旅 - SEIJA'S TRAVELS](./天邪鬼の旅_-_SEIJA'S_TRAVELS.md)该封面包含的角色：
+- [鬼人正邪](./鬼人正邪.md)
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:GCforSteam.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ee\ns6%3AGCforSteam%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ee\ns6%3AGCforSteam%2Ejpg.html -->
 
 GROOVE_COASTER | 太东 | 游戏LOGO
-
-
-
-
 
 
 ---

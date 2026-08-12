@@ -1,18 +1,16 @@
 # Complete_Darkness
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\3\31\ns0%3AComplete_Darkness.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\3\31\ns0%3AComplete_Darkness.html -->
 
 由 ZUN 创作的官方曲目，原名 Complete Darkness
 
 本页是关于东方Project  
- **原作音乐** 的词条
-
+**原作音乐**的词条
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 出现作品](#出现作品)
 - [3 音乐文件](#音乐文件)
-
   - [3.1 东方封魔录](#东方封魔录)
   - [3.2 东方幻想乡](#东方幻想乡)
   - [3.3 东方怪绮谈](#东方怪绮谈)
@@ -21,28 +19,20 @@
   - [3.6 幺乐团的历史 vol.3](#幺乐团的历史_vol.3)
 
 
-
 - [4 说明文本](#说明文本)
-
   - [4.1 东方封魔录](#东方封魔录_2)
   - [4.2 东方怪绮谈](#东方怪绮谈_2)
   - [4.3 东方幻想怀古曲](#东方幻想怀古曲_2)
   - [4.4 东方幻想的音乐](#东方幻想的音乐_2)
 
 
-
 - [5 其他资料](#其他资料)
-
   - [5.1 乐理资讯](#乐理资讯)
   - [5.2 分析考据](#分析考据)
   - [5.3 二次同人数据](#二次同人数据)
 
 
-
 - [6 注释](#注释)
-
-
-
 
 
 ## 基本信息
@@ -50,7 +40,6 @@
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">Complete Darkness</td></tr><tr><td><b>译名</b></td><td>Complete Darkness</td></tr><tr><td><b>其他译名</b></td><td>全然黑暗</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 Complete Darkness（曲目） - 由 ZUN 创作的官方曲目，原名 Complete Darkness
-
 ## 出现作品
 
 <table>
@@ -63,7 +52,6 @@ Complete Darkness（曲目） - 由 ZUN 创作的官方曲目，原名 Complete 
 </tbody></table>
 
 
-
 ## 音乐文件
 
 ### 东方封魔录
@@ -71,17 +59,13 @@ Complete Darkness（曲目） - 由 ZUN 创作的官方曲目，原名 Complete 
 FM86版，由PMDPlay导出。
   
 
-
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th02_11_FM.ogg.md" title="文件:th02 11 FM.ogg">th02_11_FM.ogg</a><br><audio src="https://upload.thwiki.cc/1/1f/th02_11_FM.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>MIMA.M</td></tr><tr><td><b>音轨时长</b></td><td>1:53.650</td></tr></tbody></table>
-
 
   
 MIDI版，由Roland Sound Canvas 88Pro实机录音得到。
   
 
-
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td><a href="./文件-th02_11.MID.md" title="文件:th02 11.MID">th02_11.MID</a></td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th02_11_MIDI.mp3.md" title="文件:th02 11 MIDI.mp3">th02_11_MIDI.mp3</a><br><audio src="https://upload.thwiki.cc/2/26/th02_11_MIDI.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>MIMA.MMD</td></tr><tr><td><b>音轨时长</b></td><td>2:15</td></tr></tbody></table>
-
 
 
 ### 东方幻想乡
@@ -89,9 +73,7 @@ MIDI版，由Roland Sound Canvas 88Pro实机录音得到。
 YM2608(OPNA)，FM86版。
   
 
-
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th04_H_11.ogg.md" title="文件:th04 H 11.ogg">th04_H_11.ogg</a><br><audio src="https://upload.thwiki.cc/c/c6/th04_H_11.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>HUU5B_86.M</td></tr><tr><td><b>音轨时长</b></td><td>1:53.650</td></tr></tbody></table>
-
 
 
 ### 东方怪绮谈
@@ -99,9 +81,7 @@ YM2608(OPNA)，FM86版。
 YM2608(OPNA)，FM86版。
   
 
-
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th05_H_11.ogg.md" title="文件:th05 H 11.ogg">th05_H_11.ogg</a><br><audio src="https://upload.thwiki.cc/d/da/th05_H_11.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>H_ST04B.M</td></tr><tr><td><b>音轨时长</b></td><td>1:53.650</td></tr></tbody></table>
-
 
 
 ### 东方幻想怀古曲
@@ -109,11 +89,9 @@ YM2608(OPNA)，FM86版。
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-thgs02_11.ogg.md" title="文件:thgs02 11.ogg">thgs02_11.ogg</a><br><audio src="https://upload.thwiki.cc/b/b9/thgs02_11.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>th2_11.M</td></tr><tr><td><b>音轨时长</b></td><td>1:53.650</td></tr></tbody></table>
 
 
-
 ### 东方幻想的音乐
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td><a href="./文件-th2_11.mid.md" title="文件:th2 11.mid">th2_11.mid</a></td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th2_11.mp3.md" title="文件:th2 11.mp3">th2_11.mp3</a><br><audio src="https://upload.thwiki.cc/1/1c/th2_11.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>th2_11.mid</td></tr><tr><td><b>音轨时长</b></td><td>4:36</td></tr></tbody></table>
-
 
 
 ### 幺乐团的历史 vol.3
@@ -121,11 +99,11 @@ YM2608(OPNA)，FM86版。
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-ha03_11.mp3.md" title="文件:ha03 11.mp3">ha03_11.mp3</a><br><audio src="https://upload.thwiki.cc/d/db/ha03_11.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track11.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>4:17</td></tr></tbody></table>
 
 
-
 ## 说明文本
 
 ### 东方封魔录
-- Music Mode (未找到链接)
+
+- [Music Mode](./东方封魔录-Music.md#最终面BOSS魅魔主题曲)
 
 FM版魅魔的主题曲，  
 我觉得做最终BOSS曲的话应该都有一些约定俗成的限制吧？  
@@ -140,9 +118,9 @@ FM版魅魔的主题曲，
 魅魔的主题曲  
 　比创作boss更早的，就只有作曲  
 　不过好像很强所以刚刚好MIMA.MMDComplete Darkness                                        ＺＵＮ
-
 ### 东方怪绮谈
-- Music Room (未找到链接)
+
+- [Music Room](./东方怪绮谈-Music.md#最终面BOSS魅魔主题曲)
 
 　　魅魔的主题曲  
 　　　( Remix )   
@@ -150,9 +128,9 @@ FM版魅魔的主题曲，
 ＺＵＮ（太田）  
 比创作boss更早的，就只有作曲  
 不过好像很强所以刚刚好
-
 ### 东方幻想怀古曲
-- th2_11pmd.txt (未找到链接)
+
+- [th2_11pmd.txt](./东方幻想怀古曲-东方封魔录.md#Complete_Darkness)
 
 +----------------------------------------------------------------------------+  
 |【 　 曲名　　】| 【 Complete Darkness 】（原版）  
@@ -189,9 +167,9 @@ FM版魅魔的主题曲，
 曲子的感想、请求等，请这边  
 　东方幻想空间　「博丽神社」 [http://www16.big.or.jp/~zun/](http://www16.big.or.jp/~zun/)  
 　e-Mail                     zun@big.or.jp
-
 ### 东方幻想的音乐
-- th2_11.txt (未找到链接)
+
+- [th2_11.txt](./东方幻想的音乐-过去的曲子-东方封魔录.md#Complete_Darkness)
 
 +----------------------------------------------------------------------------+  
 |【 　 曲名　　】| 【 Complete Darkness 】  
@@ -205,7 +183,7 @@ FM版魅魔的主题曲，
 |【  可否转载  】| 基本自由。但是，请邮件联络。  
 |                | 这种时候，请不要更动压缩包内部文件。  
 |【演奏上的注意】| 用sc-88Pro 的人在演奏时请不要按55,88Map。  
-|                                             &#126;&#126;&#126;&#126;~   
+|                                             ~~~~~   
 +-----------------------------------------------------------------------------+  
 感谢下载本文件。  
   
@@ -231,20 +209,19 @@ FM版魅魔的主题曲，
 曲子的感想、请求等，这边请  
 　东方幻想空间　「博丽神社」 [http://www16.big.or.jp/~zun/](http://www16.big.or.jp/~zun/)  
 　e-Mail                     zun@big.or.jp
-
 ## 其他资料
 
 ### 乐理资讯
 
 ### 分析考据
   
- **Complete Darkness** 
-  
+**Complete Darkness**  
 完全黑暗
   
 
-- darkness
+- darkness 
   - 魅魔（最终boss）的主题曲
+
 
 
 
@@ -260,18 +237,6 @@ FM版魅魔的主题曲，
 <tr><td>Arrange</td><td>182</td></tr>
 <tr><td>Vocal率</td><td>20.87%</td></tr>
 </tbody></table>
-
-
-
-
-
-  
-  
-
-  
-
-
-
 
 
 ---

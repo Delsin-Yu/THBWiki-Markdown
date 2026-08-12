@@ -1,14 +1,11 @@
 # 文件:マスメノスbanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a0\ns6%3A%E3%83%9E%E3%82%B9%E3%83%A1%E3%83%8E%E3%82%B9banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a0\ns6%3A%E3%83%9E%E3%82%B9%E3%83%A1%E3%83%8E%E3%82%B9banner%2Egif.html -->
 
 マスメノス | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

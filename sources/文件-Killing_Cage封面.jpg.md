@@ -1,6 +1,6 @@
 # 文件:Killing_Cage封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ee\ns6%3AKilling_Cage%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ee\ns6%3AKilling_Cage%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 錯乱のオルフェ
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Killing Cage](./Killing_Cage.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)
+- [Killing Cage](./Killing_Cage.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
 
   
-源地址：[[1]](http://www.sakuran-no-orphe.com/images/DVDjacket.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://www.sakuran-no-orphe.com/images/DVDjacket.jpg)  
 
 ---
 

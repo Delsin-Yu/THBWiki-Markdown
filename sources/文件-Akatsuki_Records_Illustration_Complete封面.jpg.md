@@ -1,6 +1,6 @@
 # 文件:Akatsuki_Records_Illustration_Complete封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0d\ns6%3AAkatsuki_Records_Illustration_Complete%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0d\ns6%3AAkatsuki_Records_Illustration_Complete%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 原之 | 同人志封面 | 封面图片 | 暁Records
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Akatsuki Records Illustration Complete](./Akatsuki_Records_Illustration_Complete.md)  
-该封面包含的角色：- [古明地恋](./古明地恋.md)
-
-
-
+- [Akatsuki Records Illustration Complete](./Akatsuki_Records_Illustration_Complete.md)该封面包含的角色：
+- [古明地恋](./古明地恋.md)
 
 
 ---

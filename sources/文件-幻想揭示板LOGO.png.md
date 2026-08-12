@@ -1,12 +1,8 @@
 # 文件:幻想揭示板LOGO.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7c\ns6%3A%E5%B9%BB%E6%83%B3%E6%8F%AD%E7%A4%BA%E6%9D%BFLOGO%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7c\ns6%3A%E5%B9%BB%E6%83%B3%E6%8F%AD%E7%A4%BA%E6%9D%BFLOGO%2Epng.html -->
 
 幻乐团官网 | 幻想揭示板
-
-
-
-
 
 
 ---

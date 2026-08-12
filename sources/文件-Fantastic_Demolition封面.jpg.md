@@ -1,6 +1,6 @@
 # 文件:Fantastic_Demolition封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a3\ns6%3AFantastic_Demolition%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a3\ns6%3AFantastic_Demolition%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ジェリコの法則 | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Fantastic Demolition](./Fantastic_Demolition.md)  
-该封面包含的角色：- [哆来咪·苏伊特](./哆来咪·苏伊特.md)
+- [Fantastic Demolition](./Fantastic_Demolition.md)该封面包含的角色：
+- [哆来咪·苏伊特](./哆来咪·苏伊特.md)
 
   
-源地址：[[1]](https://cdn.melonbooks.co.jp/user_data/packages/resize_image.php?image=213001020808.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://cdn.melonbooks.co.jp/user_data/packages/resize_image.php?image=213001020808.jpg)  
 
 ---
 

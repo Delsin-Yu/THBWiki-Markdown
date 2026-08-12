@@ -1,16 +1,11 @@
 # 文件:かめかっぱlogo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e7\ns6%3A%E3%81%8B%E3%82%81%E3%81%8B%E3%81%A3%E3%81%B1logo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e7\ns6%3A%E3%81%8B%E3%82%81%E3%81%8B%E3%81%A3%E3%81%B1logo%2Epng.html -->
 
 かめかっぱ | 社团LOGO
 
   
-源地址：[[1]](https://static.wixstatic.com/media/80a286_918df236dcd54c3d91e6c27aa11e8d48~mv2.png)
-  
-
-
-
-
+源地址：[\[1\]](https://static.wixstatic.com/media/80a286_918df236dcd54c3d91e6c27aa11e8d48~mv2.png)  
 
 ---
 

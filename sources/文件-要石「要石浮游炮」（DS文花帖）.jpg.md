@@ -1,12 +1,8 @@
 # 文件:要石「要石浮游炮」（DS文花帖）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\de\ns6%3A%E8%A6%81%E7%9F%B3%E3%80%8C%E8%A6%81%E7%9F%B3%E6%B5%AE%E6%B8%B8%E7%82%AE%E3%80%8D%EF%BC%88DS%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\de\ns6%3A%E8%A6%81%E7%9F%B3%E3%80%8C%E8%A6%81%E7%9F%B3%E6%B5%AE%E6%B8%B8%E7%82%AE%E3%80%8D%EF%BC%88DS%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Ejpg.html -->
 
 东方文花帖DS | 敌机符卡 | 比那名居天子
-
-
-
-
 
 
 ---

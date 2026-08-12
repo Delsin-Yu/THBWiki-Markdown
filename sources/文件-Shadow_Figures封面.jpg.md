@@ -1,6 +1,6 @@
 # 文件:Shadow_Figures封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\77\ns6%3AShadow_Figures%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\77\ns6%3AShadow_Figures%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Releska | 专辑封面 | 封面图片
 
@@ -10,16 +10,12 @@ Releska | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Shadow Figures](./Shadow_Figures.md)  
-该封面包含的角色：- [菅牧典](./菅牧典.md)- [饭纲丸龙](./饭纲丸龙.md)
+- [Shadow Figures](./Shadow_Figures.md)该封面包含的角色：
+- [菅牧典](./菅牧典.md)
+- [饭纲丸龙](./饭纲丸龙.md)
 
   
-源地址：[图片链接](https://releska.files.wordpress.com/2021/12/rele-16.jpg) [官网](https://releska.com/2022/02/13/rele-16/)
-  
-
-
-
-
+源地址：[图片链接](https://releska.files.wordpress.com/2021/12/rele-16.jpg) [官网](https://releska.com/2022/02/13/rele-16/)  
 
 ---
 

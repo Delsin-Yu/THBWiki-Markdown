@@ -1,16 +1,12 @@
 # 模板:Shinraizm
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\c\cb\ns10%3AShinraizm.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\c\cb\ns10%3AShinraizm.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

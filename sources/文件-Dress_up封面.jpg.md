@@ -1,6 +1,6 @@
 # 文件:Dress_up封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\89\ns6%3ADress_up%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\89\ns6%3ADress_up%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 海中ステレオ
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Dress up](./Dress_up.md)  
-该封面包含的角色：- [键山雏](./键山雏.md)
+- [Dress up](./Dress_up.md)该封面包含的角色：
+- [键山雏](./键山雏.md)
 
   
-源地址：[direct image link (original size)](https://pbs.twimg.com/media/FY1b4meVQAEJaDA?format=jpg&amp;name=orig), [source tweet](https://twitter.com/kageharu/status/1552998928022327298)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://pbs.twimg.com/media/FY1b4meVQAEJaDA?format=jpg&name=orig), [source tweet](https://twitter.com/kageharu/status/1552998928022327298)  
 
 ---
 

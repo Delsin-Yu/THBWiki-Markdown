@@ -1,14 +1,11 @@
 # 文件:Liveliest_Windbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ec\ns6%3ALiveliest_Windbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ec\ns6%3ALiveliest_Windbanner%2Epng.html -->
 
 Liveliest_Wind | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

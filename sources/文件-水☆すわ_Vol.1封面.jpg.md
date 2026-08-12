@@ -1,6 +1,6 @@
 # 文件:水☆すわ_Vol.1封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bb\ns6%3A%E6%B0%B4%E2%98%86%E3%81%99%E3%82%8F_Vol%2E1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bb\ns6%3A%E6%B0%B4%E2%98%86%E3%81%99%E3%82%8F_Vol%2E1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 こぎつね | 同人志封面 | 封面图片 | 春色画報 | 水銀革命
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [水☆すわ Vol.1](./水☆すわ_Vol.1.md)  
-该封面包含的角色：- [比那名居天子](./比那名居天子.md)- [洩矢诹访子](./洩矢诹访子.md)
-
-
-
+- [水☆すわ Vol.1](./水☆すわ_Vol.1.md)该封面包含的角色：
+- [比那名居天子](./比那名居天子.md)
+- [洩矢诹访子](./洩矢诹访子.md)
 
 
 ---

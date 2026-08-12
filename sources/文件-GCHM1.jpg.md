@@ -1,16 +1,11 @@
 # 文件:GCHM1.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\af\ns6%3AGCHM1%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\af\ns6%3AGCHM1%2Ejpg.html -->
 
 GCHM
 
   
-[https://twitter.com/GCHM0927/status/1053893182482575361](https://twitter.com/GCHM0927/status/1053893182482575361)
-  
-
-
-
-
+[https://twitter.com/GCHM0927/status/1053893182482575361](https://twitter.com/GCHM0927/status/1053893182482575361)  
 
 ---
 

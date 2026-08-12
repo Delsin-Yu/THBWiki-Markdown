@@ -1,6 +1,6 @@
 # 文件:ONLY_20YEARS封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fd\ns6%3AONLY_20YEARS%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fd\ns6%3AONLY_20YEARS%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Kinetic_Stream | 专辑封面 | 封面图片
 
@@ -8,10 +8,7 @@ Kinetic_Stream | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [ONLY 20YEARS](./ONLY_20YEARS.md)源地址：[[1]](https://booth.pximg.net/f81198c6-24ad-41c5-a749-2efcdc85d9c8/i/672152/809b2e07-7b8a-438f-812e-2b97a55725a8_base_resized.jpg)
-
-
-
+- [ONLY 20YEARS](./ONLY_20YEARS.md)源地址：[\[1\]](https://booth.pximg.net/f81198c6-24ad-41c5-a749-2efcdc85d9c8/i/672152/809b2e07-7b8a-438f-812e-2b97a55725a8_base_resized.jpg)
 
 
 ---

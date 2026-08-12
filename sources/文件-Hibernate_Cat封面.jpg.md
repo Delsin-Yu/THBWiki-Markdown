@@ -1,6 +1,6 @@
 # 文件:Hibernate_Cat封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7c\ns6%3AHibernate_Cat%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7c\ns6%3AHibernate_Cat%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Orpheus | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Orpheus | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Hibernate Cat](./Hibernate_Cat.md)  
-该封面包含的角色：- [橙](./橙.md)
+- [Hibernate Cat](./Hibernate_Cat.md)该封面包含的角色：
+- [橙](./橙.md)
 
   
-源地址：[Pixiv illust ID 64348268](https://i.pximg.net/img-master/img/2017/08/11/05/47/11/64348268_p0_master1200.jpg)
-  
-
-
-
-
+源地址：[Pixiv illust ID 64348268](https://i.pximg.net/img-master/img/2017/08/11/05/47/11/64348268_p0_master1200.jpg)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:東方サイバーノート_vol.0.5封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\21\ns6%3A%E6%9D%B1%E6%96%B9%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E3%83%8E%E3%83%BC%E3%83%88_vol%2E0%2E5%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\21\ns6%3A%E6%9D%B1%E6%96%B9%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E3%83%8E%E3%83%BC%E3%83%88_vol%2E0%2E5%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Nu-naut | 专辑封面 | 封面图片
 
@@ -11,12 +11,7 @@ Nu-naut | 专辑封面 | 封面图片
 - [東方サイバーノート vol.0.5](./東方サイバーノート_vol.0.5.md)
 
   
-源地址:[[1]](https://s.booth.pm/6d43ca10-e9db-45ae-a662-4398a8fc9cd9/i/169296/e0db2e27-20dd-4d07-b01f-0efa363f8a79.png)
-  
-
-
-
-
+源地址:[\[1\]](https://s.booth.pm/6d43ca10-e9db-45ae-a662-4398a8fc9cd9/i/169296/e0db2e27-20dd-4d07-b01f-0efa363f8a79.png)  
 
 ---
 

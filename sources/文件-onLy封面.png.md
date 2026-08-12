@@ -1,6 +1,6 @@
 # 文件:onLy封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\84\ns6%3AonLy%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\84\ns6%3AonLy%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 ナトリニウム | 专辑封面 | 封面图片
 
@@ -8,16 +8,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [onLy](./onLy.md)  
-该封面包含的角色：- [水桥帕露西](./水桥帕露西.md)- [丰聪耳神子](./丰聪耳神子.md)
+- [onLy](./onLy.md)该封面包含的角色：
+- [水桥帕露西](./水桥帕露西.md)
+- [丰聪耳神子](./丰聪耳神子.md)
 
   
-源地址：[[1]](http://cdn-ak.f.st-hatena.com/images/fotolife/s/seascorpion/20140722/20140722144543.png)
-  
-
-
-
-
+源地址：[\[1\]](http://cdn-ak.f.st-hatena.com/images/fotolife/s/seascorpion/20140722/20140722144543.png)  
 
 ---
 

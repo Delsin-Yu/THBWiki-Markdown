@@ -1,6 +1,6 @@
 # 文件:Nostalgia封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\39\ns6%3ANostalgia%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\39\ns6%3ANostalgia%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 KONAMI | 封面图片 | 软件封面
 
@@ -11,9 +11,6 @@ KONAMI | 封面图片 | 软件封面
   
 
 - [Nostalgia](./Nostalgia.md)
-
-
-
 
 
 ---

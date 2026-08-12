@@ -1,14 +1,11 @@
 # 文件:ササラヤbanner2.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1f\ns6%3A%E3%82%B5%E3%82%B5%E3%83%A9%E3%83%A4banner2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1f\ns6%3A%E3%82%B5%E3%82%B5%E3%83%A9%E3%83%A4banner2%2Ejpg.html -->
 
 ササラヤ | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

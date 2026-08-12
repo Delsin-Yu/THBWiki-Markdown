@@ -1,14 +1,11 @@
 # 文件:VAGUEDGEbanner2.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\64\ns6%3AVAGUEDGEbanner2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\64\ns6%3AVAGUEDGEbanner2%2Epng.html -->
 
 VAGUEDGE | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

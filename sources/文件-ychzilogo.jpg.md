@@ -1,16 +1,11 @@
 # 文件:ychzilogo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e2\ns6%3Aychzilogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e2\ns6%3Aychzilogo%2Ejpg.html -->
 
 Ychzi | 社团LOGO
 
   
-源地址：[[1]](https://f4.bcbits.com/img/0013666092_10.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://f4.bcbits.com/img/0013666092_10.jpg)  
 
 ---
 

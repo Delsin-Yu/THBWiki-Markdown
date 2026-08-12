@@ -1,12 +1,8 @@
 # 文件:激戦魂_-Gekisen_Soul-banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b6\ns6%3A%E6%BF%80%E6%88%A6%E9%AD%82_-Gekisen_Soul-banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b6\ns6%3A%E6%BF%80%E6%88%A6%E9%AD%82_-Gekisen_Soul-banner%2Epng.html -->
 
 激戦魂_-Gekisen_Soul- | 社团LOGO
-
-
-
-
 
 
 ---

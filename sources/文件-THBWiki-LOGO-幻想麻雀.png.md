@@ -1,12 +1,8 @@
 # 文件:THBWiki-LOGO-幻想麻雀.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\66\ns6%3ATHBWiki-LOGO-%E5%B9%BB%E6%83%B3%E9%BA%BB%E9%9B%80%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\66\ns6%3ATHBWiki-LOGO-%E5%B9%BB%E6%83%B3%E9%BA%BB%E9%9B%80%2Epng.html -->
 
 THBWiki | Wiki词条分类用图
-
-
-
-
 
 
 ---

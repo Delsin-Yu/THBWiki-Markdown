@@ -1,12 +1,8 @@
 # 文件:THD2鸦天狗.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3e\ns6%3ATHD2%E9%B8%A6%E5%A4%A9%E7%8B%97%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3e\ns6%3ATHD2%E9%B8%A6%E5%A4%A9%E7%8B%97%2Epng.html -->
 
 THD2
-
-
-
-
 
 
 ---

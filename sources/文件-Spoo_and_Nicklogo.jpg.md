@@ -1,18 +1,13 @@
 # 文件:Spoo_and_Nicklogo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5a\ns6%3ASpoo_and_Nicklogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5a\ns6%3ASpoo_and_Nicklogo%2Ejpg.html -->
 
 Spoo_and_Nick | 社团LOGO
 
 
 ## 摘要
   
-源地址：[direct image link (max size)](https://pbs.twimg.com/profile_images/1100410582912532480/frj8OdhT.jpg), [from circle Twitter avatar](https://twitter.com/spoo_and_nick)
-  
-
-
-
-
+源地址：[direct image link (max size)](https://pbs.twimg.com/profile_images/1100410582912532480/frj8OdhT.jpg), [from circle Twitter avatar](https://twitter.com/spoo_and_nick)  
 
 ---
 

@@ -1,12 +1,8 @@
 # 文件:World_End_Symphoniabanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3d\ns6%3AWorld_End_Symphoniabanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3d\ns6%3AWorld_End_Symphoniabanner%2Ejpg.html -->
 
 World_End_Symphonia | 社团LOGO
-
-
-
-
 
 
 ---

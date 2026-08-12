@@ -1,6 +1,6 @@
 # 文件:最後に獲るのは_～_Last_Bloom封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bf\ns6%3A%E6%9C%80%E5%BE%8C%E3%81%AB%E7%8D%B2%E3%82%8B%E3%81%AE%E3%81%AF_%EF%BD%9E_Last_Bloom%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bf\ns6%3A%E6%9C%80%E5%BE%8C%E3%81%AB%E7%8D%B2%E3%82%8B%E3%81%AE%E3%81%AF_%EF%BD%9E_Last_Bloom%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 bivrache | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@ bivrache | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [最後に獲るのは ～ Last Bloom](./最後に獲るのは_～_Last_Bloom.md)  
-该封面包含的角色：- [秋穰子](./秋穰子.md)
-
-
-
+- [最後に獲るのは ～ Last Bloom](./最後に獲るのは_～_Last_Bloom.md)该封面包含的角色：
+- [秋穰子](./秋穰子.md)
 
 
 ---

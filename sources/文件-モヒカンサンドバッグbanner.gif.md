@@ -1,16 +1,11 @@
 # 文件:モヒカンサンドバッグbanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\25\ns6%3A%E3%83%A2%E3%83%92%E3%82%AB%E3%83%B3%E3%82%B5%E3%83%B3%E3%83%89%E3%83%90%E3%83%83%E3%82%B0banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\25\ns6%3A%E3%83%A2%E3%83%92%E3%82%AB%E3%83%B3%E3%82%B5%E3%83%B3%E3%83%89%E3%83%90%E3%83%83%E3%82%B0banner%2Egif.html -->
 
 モヒカンサンドバッグ | 社团LOGO
 
   
-源地址：[[1]](http://mohican.sakura.ne.jp/img/logo.gif)
-  
-
-
-
-
+源地址：[\[1\]](http://mohican.sakura.ne.jp/img/logo.gif)  
 
 ---
 

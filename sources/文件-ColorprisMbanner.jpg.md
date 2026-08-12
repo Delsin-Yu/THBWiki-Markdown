@@ -1,18 +1,13 @@
 # 文件:ColorprisMbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\80\ns6%3AColorprisMbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\80\ns6%3AColorprisMbanner%2Ejpg.html -->
 
 ColorprisM | 社团LOGO
 
 
 ## 摘要
   
-源地址：[direct image link](https://web.archive.org/web/20131207035618im_/http://www.webof.net/colorprism/bannerA.jpg), [source page](https://web.archive.org/web/20130226123809/http://webof.net/colorprism/Top03.html)
-  
-
-
-
-
+源地址：[direct image link](https://web.archive.org/web/20131207035618im_/http://www.webof.net/colorprism/bannerA.jpg), [source page](https://web.archive.org/web/20130226123809/http://webof.net/colorprism/Top03.html)  
 
 ---
 

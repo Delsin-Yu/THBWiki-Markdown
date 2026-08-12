@@ -1,12 +1,8 @@
 # 文件:Ruby_Mobius封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7b\ns6%3ARuby_Mobius%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7b\ns6%3ARuby_Mobius%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 封面图片 | 没有被使用的封面文件
-
-
-
-
 
 
 ---

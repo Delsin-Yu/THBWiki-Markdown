@@ -1,18 +1,13 @@
 # 文件:Prismatica_Material_Recordsbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d5\ns6%3APrismatica_Material_Recordsbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d5\ns6%3APrismatica_Material_Recordsbanner%2Ejpg.html -->
 
 Prismatica_Material_Records | 社团LOGO
 
 
 ## 摘要
   
-源地址：[direct image link](https://web.archive.org/web/20070726035441im_/http://t-miyabi.hp.infoseek.co.jp/banner5.jpg), [source page](https://web.archive.org/web/20070726035435fw_/http://t-miyabi.hp.infoseek.co.jp/link_cl.html)
-  
-
-
-
-
+源地址：[direct image link](https://web.archive.org/web/20070726035441im_/http://t-miyabi.hp.infoseek.co.jp/banner5.jpg), [source page](https://web.archive.org/web/20070726035435fw_/http://t-miyabi.hp.infoseek.co.jp/link_cl.html)  
 
 ---
 

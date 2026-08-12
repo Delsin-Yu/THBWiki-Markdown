@@ -1,6 +1,6 @@
 # 文件:Kill_Any_Night_Moon_Off封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ab\ns6%3AKill_Any_Night_Moon_Off%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ab\ns6%3AKill_Any_Night_Moon_Off%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ACCORD_ON_CODES | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ ACCORD_ON_CODES | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Kill Any Night Moon Off](./Kill_Any_Night_Moon_Off.md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)
-
-
-
+- [Kill Any Night Moon Off](./Kill_Any_Night_Moon_Off.md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
 
 
 ---

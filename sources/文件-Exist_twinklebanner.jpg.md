@@ -1,12 +1,8 @@
 # 文件:Exist_twinklebanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f9\ns6%3AExist_twinklebanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f9\ns6%3AExist_twinklebanner%2Ejpg.html -->
 
 Exist_twinkle | 社团LOGO
-
-
-
-
 
 
 ---

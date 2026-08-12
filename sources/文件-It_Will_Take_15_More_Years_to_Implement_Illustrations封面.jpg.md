@@ -1,6 +1,6 @@
 # 文件:It_Will_Take_15_More_Years_to_Implement_Illustrations封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\82\ns6%3AIt_Will_Take_15_More_Years_to_Implement_Illustrations%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\82\ns6%3AIt_Will_Take_15_More_Years_to_Implement_Illustrations%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Red_Bullet_Sequence | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Red_Bullet_Sequence | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [It Will Take 15 More Years to Implement Illustrations](./It_Will_Take_15_More_Years_to_Implement_Illustrations.md)  
-该封面包含的角色：- [莉莉霍瓦特](./莉莉霍瓦特.md)
+- [It Will Take 15 More Years to Implement Illustrations](./It_Will_Take_15_More_Years_to_Implement_Illustrations.md)该封面包含的角色：
+- [莉莉霍瓦特](./莉莉霍瓦特.md)
 
   
-源地址：[[1]](https://rbslily.tumblr.com/)
-  
-
-
-
-
+源地址：[\[1\]](https://rbslily.tumblr.com/)  
 
 ---
 

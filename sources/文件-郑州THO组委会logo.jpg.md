@@ -1,14 +1,11 @@
 # 文件:郑州THO组委会logo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\44\ns6%3A%E9%83%91%E5%B7%9ETHO%E7%BB%84%E5%A7%94%E4%BC%9Alogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\44\ns6%3A%E9%83%91%E5%B7%9ETHO%E7%BB%84%E5%A7%94%E4%BC%9Alogo%2Ejpg.html -->
 
 社团LOGO | 郑州THO组委会
 
 
 ## 摘要
-
-
-
 
 ---
 

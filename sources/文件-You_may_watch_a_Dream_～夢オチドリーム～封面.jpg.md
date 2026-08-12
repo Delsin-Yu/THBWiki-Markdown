@@ -1,6 +1,6 @@
 # 文件:You_may_watch_a_Dream_～夢オチドリーム～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\97\ns6%3AYou_may_watch_a_Dream_%EF%BD%9E%E5%A4%A2%E3%82%AA%E3%83%81%E3%83%89%E3%83%AA%E3%83%BC%E3%83%A0%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\97\ns6%3AYou_may_watch_a_Dream_%EF%BD%9E%E5%A4%A2%E3%82%AA%E3%83%81%E3%83%89%E3%83%AA%E3%83%BC%E3%83%A0%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 skyful | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@ skyful | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [You may watch a Dream ～夢オチドリーム～](./You_may_watch_a_Dream_～夢オチドリーム～.md)  
-该封面包含的角色：- [露米娅](./露米娅.md)
-
-
-
+- [You may watch a Dream ～夢オチドリーム～](./You_may_watch_a_Dream_～夢オチドリーム～.md)该封面包含的角色：
+- [露米娅](./露米娅.md)
 
 
 ---

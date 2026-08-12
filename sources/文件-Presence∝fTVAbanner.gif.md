@@ -1,16 +1,11 @@
 # 文件:Presence∝fTVAbanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3f\ns6%3APresence%E2%88%9DfTVAbanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3f\ns6%3APresence%E2%88%9DfTVAbanner%2Egif.html -->
 
 Presence∝fTVA | 社团LOGO
 
   
-源地址：[[1]](https://denko-laboratory.ddo.jp/pftva/presence_files/presence_banner.gif)
-  
-
-
-
-
+源地址：[\[1\]](https://denko-laboratory.ddo.jp/pftva/presence_files/presence_banner.gif)  
 
 ---
 

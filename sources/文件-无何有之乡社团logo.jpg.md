@@ -1,12 +1,8 @@
 # 文件:无何有之乡社团logo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5d\ns6%3A%E6%97%A0%E4%BD%95%E6%9C%89%E4%B9%8B%E4%B9%A1%E7%A4%BE%E5%9B%A2logo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5d\ns6%3A%E6%97%A0%E4%BD%95%E6%9C%89%E4%B9%8B%E4%B9%A1%E7%A4%BE%E5%9B%A2logo%2Ejpg.html -->
 
 無何有の鄉 | 社团LOGO
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Horizontal_Connections封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3b\ns6%3AHorizontal_Connections%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3b\ns6%3AHorizontal_Connections%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Alstroemeria_Records | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Alstroemeria_Records | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Horizontal Connections](./Horizontal_Connections.md)  
-该封面包含的角色：- [火焰猫燐](./火焰猫燐.md)
-
-
-
+- [Horizontal Connections](./Horizontal_Connections.md)该封面包含的角色：
+- [火焰猫燐](./火焰猫燐.md)
 
 
 ---

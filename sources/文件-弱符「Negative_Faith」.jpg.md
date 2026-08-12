@@ -1,12 +1,8 @@
 # 文件:弱符「Negative_Faith」.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2a\ns6%3A%E5%BC%B1%E7%AC%A6%E3%80%8CNegative_Faith%E3%80%8D%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2a\ns6%3A%E5%BC%B1%E7%AC%A6%E3%80%8CNegative_Faith%E3%80%8D%2Ejpg.html -->
 
 東方邪星章製作チーム
-
-
-
-
 
 
 ---

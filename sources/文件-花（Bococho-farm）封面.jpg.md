@@ -1,6 +1,6 @@
 # 文件:花（Bococho-farm）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\24\ns6%3A%E8%8A%B1%EF%BC%88Bococho-farm%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\24\ns6%3A%E8%8A%B1%EF%BC%88Bococho-farm%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Bococho-farm | 同人志封面 | 封面图片
 
@@ -8,11 +8,9 @@ Bococho-farm | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [花（Bococho-farm）](./花（Bococho-farm）.md)  
-该封面包含的角色：- [风见幽香](./风见幽香.md)- [森近霖之助](./森近霖之助.md)
-
-
-
+- [花（Bococho-farm）](./花（Bococho-farm）.md)该封面包含的角色：
+- [风见幽香](./风见幽香.md)
+- [森近霖之助](./森近霖之助.md)
 
 
 ---

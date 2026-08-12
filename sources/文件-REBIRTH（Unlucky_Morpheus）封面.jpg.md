@@ -1,6 +1,6 @@
 # 文件:REBIRTH（Unlucky_Morpheus）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4d\ns6%3AREBIRTH%EF%BC%88Unlucky_Morpheus%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4d\ns6%3AREBIRTH%EF%BC%88Unlucky_Morpheus%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Unlucky_Morpheus | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ Unlucky_Morpheus | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [REBIRTH（Unlucky Morpheus）](./REBIRTH（Unlucky_Morpheus）.md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)- [犬走椛](./犬走椛.md)
-
-
-
+- [REBIRTH（Unlucky Morpheus）](./REBIRTH（Unlucky_Morpheus）.md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
+- [犬走椛](./犬走椛.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:散-Chirasu-封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6a\ns6%3A%E6%95%A3-Chirasu-%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6a\ns6%3A%E6%95%A3-Chirasu-%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Mikagura_Records | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Mikagura_Records | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [散-Chirasu-](./散-Chirasu-.md)  
-该封面包含的角色：- [西行寺幽幽子](./西行寺幽幽子.md)
-
-
-
+- [散-Chirasu-](./散-Chirasu-.md)该封面包含的角色：
+- [西行寺幽幽子](./西行寺幽幽子.md)
 
 
 ---

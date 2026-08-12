@@ -1,6 +1,6 @@
 # 文件:C!封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\35\ns6%3AC%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\35\ns6%3AC%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ソエメオアルマ | 同人志封面 | 封面图片
 
@@ -10,16 +10,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [C!](./C!.md)  
-该封面包含的角色：- [娜兹玲](./娜兹玲.md)- [封兽鵺](./封兽鵺.md)
+- [C!](./C!.md)该封面包含的角色：
+- [娜兹玲](./娜兹玲.md)
+- [封兽鵺](./封兽鵺.md)
 
   
-[Pixiv artwork ID: 73658789](https://www.pixiv.net/artworks/73658789)
-  
-
-
-
-
+[Pixiv artwork ID: 73658789](https://www.pixiv.net/artworks/73658789)  
 
 ---
 

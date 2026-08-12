@@ -1,6 +1,6 @@
 # 文件:幽閉サテライト_EXTRA_REMIX_CD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8c\ns6%3A%E5%B9%BD%E9%96%89%E3%82%B5%E3%83%86%E3%83%A9%E3%82%A4%E3%83%88_EXTRA_REMIX_CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8c\ns6%3A%E5%B9%BD%E9%96%89%E3%82%B5%E3%83%86%E3%83%A9%E3%82%A4%E3%83%88_EXTRA_REMIX_CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 幽闭星光
 
@@ -8,16 +8,13 @@
 使用了本文件作封面图片的作品：
   
 
-- [幽閉サテライト EXTRA REMIX CD](./幽閉サテライト_EXTRA_REMIX_CD.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [东风谷早苗](./东风谷早苗.md)- [雾雨魔理沙](./雾雨魔理沙.md)
+- [幽閉サテライト EXTRA REMIX CD](./幽閉サテライト_EXTRA_REMIX_CD.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [东风谷早苗](./东风谷早苗.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-源地址：[[1]](http://yuuhei-satellite.sakura.ne.jp/wp/images/2015/12/手焼き.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://yuuhei-satellite.sakura.ne.jp/wp/images/2015/12/手焼き.jpg)  
 
 ---
 

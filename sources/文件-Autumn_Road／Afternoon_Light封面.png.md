@@ -1,6 +1,6 @@
 # 文件:Autumn_Road／Afternoon_Light封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8b\ns6%3AAutumn_Road%EF%BC%8FAfternoon_Light%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8b\ns6%3AAutumn_Road%EF%BC%8FAfternoon_Light%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 KARASHIC_RECORDS | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ KARASHIC_RECORDS | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Autumn Road／Afternoon Light](./Autumn_Road／Afternoon_Light.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [Autumn Road／Afternoon Light](./Autumn_Road／Afternoon_Light.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

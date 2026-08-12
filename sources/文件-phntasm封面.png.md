@@ -1,6 +1,6 @@
 # 文件:phntasm封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9f\ns6%3Aphntasm%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9f\ns6%3Aphntasm%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 CrerpSucre | ZINFANDEL | 同人志封面 | 封面图片
 
@@ -8,11 +8,9 @@ CrerpSucre | ZINFANDEL | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [phntasm](./phntasm.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
-
-
-
+- [phntasm](./phntasm.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
 
 ---

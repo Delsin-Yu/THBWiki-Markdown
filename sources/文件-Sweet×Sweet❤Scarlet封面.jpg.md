@@ -1,6 +1,6 @@
 # 文件:Sweet×Sweet❤Scarlet封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a6\ns6%3ASweet%C3%97Sweet%E2%9D%A4Scarlet%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a6\ns6%3ASweet%C3%97Sweet%E2%9D%A4Scarlet%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Class-9 | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Class-9 | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Sweet×Sweet❤Scarlet](./Sweet×Sweet❤Scarlet.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
-
-
-
+- [Sweet×Sweet❤Scarlet](./Sweet×Sweet❤Scarlet.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
 
 ---

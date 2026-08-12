@@ -1,6 +1,6 @@
 # 文件:LIMIT_BREAK～限定解除～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2a\ns6%3ALIMIT_BREAK%EF%BD%9E%E9%99%90%E5%AE%9A%E8%A7%A3%E9%99%A4%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2a\ns6%3ALIMIT_BREAK%EF%BD%9E%E9%99%90%E5%AE%9A%E8%A7%A3%E9%99%A4%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 SYNC.ART'S | 专辑封面 | 封面图片
 
@@ -8,11 +8,10 @@ SYNC.ART'S | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [LIMIT BREAK～限定解除～](./LIMIT_BREAK～限定解除～.md)  
-该封面包含的角色：- [露娜切露德](./露娜切露德.md)- [桑尼米尔克](./桑尼米尔克.md)- [斯塔萨菲雅](./斯塔萨菲雅.md)
-
-
-
+- [LIMIT BREAK～限定解除～](./LIMIT_BREAK～限定解除～.md)该封面包含的角色：
+- [露娜切露德](./露娜切露德.md)
+- [桑尼米尔克](./桑尼米尔克.md)
+- [斯塔萨菲雅](./斯塔萨菲雅.md)
 
 
 ---

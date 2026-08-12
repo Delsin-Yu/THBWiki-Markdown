@@ -1,6 +1,6 @@
 # 文件:幻想遊戯_Piano_Collection封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\df\ns6%3A%E5%B9%BB%E6%83%B3%E9%81%8A%E6%88%AF_Piano_Collection%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\df\ns6%3A%E5%B9%BB%E6%83%B3%E9%81%8A%E6%88%AF_Piano_Collection%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 まらしぃ | 专辑封面 | 封面图片
 
@@ -10,16 +10,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [幻想遊戯 Piano Collection](./幻想遊戯_Piano_Collection.md)  
-该封面包含的角色：- [犬走椛](./犬走椛.md)- [洩矢诹访子](./洩矢诹访子.md)
+- [幻想遊戯 Piano Collection](./幻想遊戯_Piano_Collection.md)该封面包含的角色：
+- [犬走椛](./犬走椛.md)
+- [洩矢诹访子](./洩矢诹访子.md)
 
   
-源地址：[图片链接](https://s2.booth.pm/e0066cef-fd3c-4970-bd34-27ac67b7d2d3/i/3354644/9613636e-312f-4e07-aa6b-442a353be2fa.jpg) [BOOTH](https://marasy8.booth.pm/items/3354644)
-  
-
-
-
-
+源地址：[图片链接](https://s2.booth.pm/e0066cef-fd3c-4970-bd34-27ac67b7d2d3/i/3354644/9613636e-312f-4e07-aa6b-442a353be2fa.jpg) [BOOTH](https://marasy8.booth.pm/items/3354644)  
 
 ---
 

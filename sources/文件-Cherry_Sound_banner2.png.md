@@ -1,14 +1,11 @@
 # 文件:Cherry_Sound_banner2.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\15\ns6%3ACherry_Sound_banner2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\15\ns6%3ACherry_Sound_banner2%2Epng.html -->
 
 Cherry_Sound | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

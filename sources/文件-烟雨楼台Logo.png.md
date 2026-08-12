@@ -1,16 +1,12 @@
 # 文件:烟雨楼台Logo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e7\ns6%3A%E7%83%9F%E9%9B%A8%E6%A5%BC%E5%8F%B0Logo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e7\ns6%3A%E7%83%9F%E9%9B%A8%E6%A5%BC%E5%8F%B0Logo%2Epng.html -->
 
 烟雨楼台 | 社团LOGO
 
   
 烟雨楼台社团logo
   
-
-
-
-
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:幻想音符集～F.Notes封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7c\ns6%3A%E5%B9%BB%E6%83%B3%E9%9F%B3%E7%AC%A6%E9%9B%86%EF%BD%9EF%2ENotes%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7c\ns6%3A%E5%B9%BB%E6%83%B3%E9%9F%B3%E7%AC%A6%E9%9B%86%EF%BD%9EF%2ENotes%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 NFT_conFuoco_orchestra | 同人志封面 | 封面图片
 
@@ -9,9 +9,6 @@ NFT_conFuoco_orchestra | 同人志封面 | 封面图片
   
 
 - [幻想音符集～F.Notes](./幻想音符集～F.Notes.md)
-
-
-
 
 
 ---

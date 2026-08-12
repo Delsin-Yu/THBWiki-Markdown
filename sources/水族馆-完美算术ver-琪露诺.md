@@ -1,38 +1,22 @@
 # 水族馆/完美算术ver/琪露诺
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\7\75\ns0%3A%E6%B0%B4%E6%97%8F%E9%A6%86%2F%E5%AE%8C%E7%BE%8E%E7%AE%97%E6%9C%AFver%2F%E7%90%AA%E9%9C%B2%E8%AF%BA.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\7\75\ns0%3A%E6%B0%B4%E6%97%8F%E9%A6%86%2F%E5%AE%8C%E7%BE%8E%E7%AE%97%E6%9C%AFver%2F%E7%90%AA%E9%9C%B2%E8%AF%BA.html -->
 
 琪露诺PVCFigure手办模型
 
 本页是关于东方Project  
- **相关实体周边 (未找到链接)** 的词条
-
+**相关实体周边 (未找到链接)**的词条
 ## 模型信息
 
-<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 琪露诺 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>完美算术ver</td></tr><tr><td class="label">角色</td><td><a href="./琪露诺.md" title="琪露诺">琪露诺</a></td></tr><tr><td class="label">原型师</td><td><a href="/index.php?title=%E3%81%A1%E3%81%8F%E3%81%9F%E3%81%8F%E3%82%89%E3%81%B3%E3%81%A3%E3%81%A8&amp;action=edit&amp;redlink=1" class="new" title="ちくたくらびっと（页面不存在）">ちくたくらびっと</a></td></tr><tr><td class="label">比例</td><td>1/8</td></tr><tr><td class="label">尺寸</td><td>150mm</td></tr><tr><td class="label">状态</td><td>已发售</td></tr><tr><td class="label">售价</td><td>7600日元</td></tr><tr><td class="label">首发日期</td><td>2012-05-11</td></tr><tr><td class="label">发售方</td><td><a href="/index.php?title=%E6%B0%B4%E6%97%8F%E9%A6%86&amp;action=edit&amp;redlink=1" class="new" title="水族馆（页面不存在）">水族馆</a></td></tr><tr><td class="label">官网页面</td><td><a rel="nofollow" class="external free" href="http://www.aq-marine.jp/cirno.html">http://www.aq-marine.jp/cirno.html</a></td></tr><tr><td class="label">备注</td><td>同人音楽サークルIOSYS(イオシス)の東方Projectアレンジ
+<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 琪露诺 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>完美算术ver</td></tr><tr><td class="label">角色</td><td><a href="./琪露诺.md" title="琪露诺">琪露诺</a></td></tr><tr><td class="label">原型师</td><td><a class="new" title="ちくたくらびっと（页面不存在）">ちくたくらびっと</a></td></tr><tr><td class="label">比例</td><td>1/8</td></tr><tr><td class="label">尺寸</td><td>150mm</td></tr><tr><td class="label">状态</td><td>已发售</td></tr><tr><td class="label">售价</td><td>7600日元</td></tr><tr><td class="label">首发日期</td><td>2012-05-11</td></tr><tr><td class="label">发售方</td><td><a class="new" title="水族馆（页面不存在）">水族馆</a></td></tr><tr><td class="label">官网页面</td><td><a rel="nofollow" class="external free" href="http://www.aq-marine.jp/cirno.html">http://www.aq-marine.jp/cirno.html</a></td></tr><tr><td class="label">备注</td><td>同人音楽サークルIOSYS(イオシス)の東方Projectアレンジ
 <br style="clear:both;">『チルノのパーフェクトさんすう教室』PV衣装を再現したチルノです。</td></tr></tbody></table>
 
 水族馆/完美算术ver/琪露诺（周边） - 琪露诺PVCFigure手办模型
-
 ## 参考图片
-
-
-
-[](./文件-水族馆完美算术ver琪露诺-1.jpg.md)
-
-
-[](./文件-水族馆完美算术ver琪露诺-2.jpg.md)
-
-
-[](./文件-水族馆完美算术ver琪露诺-3.jpg.md)
-
+<img alt="水族馆完美算术ver琪露诺" src="https://upload.thwiki.cc/thumb/f/fe/%E6%B0%B4%E6%97%8F%E9%A6%86%E5%AE%8C%E7%BE%8E%E7%AE%97%E6%9C%AFver%E7%90%AA%E9%9C%B2%E8%AF%BA-1.jpg/160px-%E6%B0%B4%E6%97%8F%E9%A6%86%E5%AE%8C%E7%BE%8E%E7%AE%97%E6%9C%AFver%E7%90%AA%E9%9C%B2%E8%AF%BA-1.jpg" decoding="async" loading="lazy" width="160" height="239" srcset="https://upload.thwiki.cc/thumb/f/fe/%E6%B0%B4%E6%97%8F%E9%A6%86%E5%AE%8C%E7%BE%8E%E7%AE%97%E6%9C%AFver%E7%90%AA%E9%9C%B2%E8%AF%BA-1.jpg/240px-%E6%B0%B4%E6%97%8F%E9%A6%86%E5%AE%8C%E7%BE%8E%E7%AE%97%E6%9C%AFver%E7%90%AA%E9%9C%B2%E8%AF%BA-1.jpg 1.5x, https://upload.thwiki.cc/thumb/f/fe/%E6%B0%B4%E6%97%8F%E9%A6%86%E5%AE%8C%E7%BE%8E%E7%AE%97%E6%9C%AFver%E7%90%AA%E9%9C%B2%E8%AF%BA-1.jpg/320px-%E6%B0%B4%E6%97%8F%E9%A6%86%E5%AE%8C%E7%BE%8E%E7%AE%97%E6%9C%AFver%E7%90%AA%E9%9C%B2%E8%AF%BA-1.jpg 2x" data-file-width="536" data-file-height="800">
+<img alt="水族馆完美算术ver琪露诺" src="https://upload.thwiki.cc/thumb/8/89/%E6%B0%B4%E6%97%8F%E9%A6%86%E5%AE%8C%E7%BE%8E%E7%AE%97%E6%9C%AFver%E7%90%AA%E9%9C%B2%E8%AF%BA-2.jpg/160px-%E6%B0%B4%E6%97%8F%E9%A6%86%E5%AE%8C%E7%BE%8E%E7%AE%97%E6%9C%AFver%E7%90%AA%E9%9C%B2%E8%AF%BA-2.jpg" decoding="async" loading="lazy" width="160" height="239" srcset="https://upload.thwiki.cc/thumb/8/89/%E6%B0%B4%E6%97%8F%E9%A6%86%E5%AE%8C%E7%BE%8E%E7%AE%97%E6%9C%AFver%E7%90%AA%E9%9C%B2%E8%AF%BA-2.jpg/240px-%E6%B0%B4%E6%97%8F%E9%A6%86%E5%AE%8C%E7%BE%8E%E7%AE%97%E6%9C%AFver%E7%90%AA%E9%9C%B2%E8%AF%BA-2.jpg 1.5x, https://upload.thwiki.cc/thumb/8/89/%E6%B0%B4%E6%97%8F%E9%A6%86%E5%AE%8C%E7%BE%8E%E7%AE%97%E6%9C%AFver%E7%90%AA%E9%9C%B2%E8%AF%BA-2.jpg/320px-%E6%B0%B4%E6%97%8F%E9%A6%86%E5%AE%8C%E7%BE%8E%E7%AE%97%E6%9C%AFver%E7%90%AA%E9%9C%B2%E8%AF%BA-2.jpg 2x" data-file-width="536" data-file-height="800">
+<img alt="水族馆完美算术ver琪露诺" src="https://upload.thwiki.cc/thumb/6/61/%E6%B0%B4%E6%97%8F%E9%A6%86%E5%AE%8C%E7%BE%8E%E7%AE%97%E6%9C%AFver%E7%90%AA%E9%9C%B2%E8%AF%BA-3.jpg/160px-%E6%B0%B4%E6%97%8F%E9%A6%86%E5%AE%8C%E7%BE%8E%E7%AE%97%E6%9C%AFver%E7%90%AA%E9%9C%B2%E8%AF%BA-3.jpg" decoding="async" loading="lazy" width="160" height="239" srcset="https://upload.thwiki.cc/thumb/6/61/%E6%B0%B4%E6%97%8F%E9%A6%86%E5%AE%8C%E7%BE%8E%E7%AE%97%E6%9C%AFver%E7%90%AA%E9%9C%B2%E8%AF%BA-3.jpg/240px-%E6%B0%B4%E6%97%8F%E9%A6%86%E5%AE%8C%E7%BE%8E%E7%AE%97%E6%9C%AFver%E7%90%AA%E9%9C%B2%E8%AF%BA-3.jpg 1.5x, https://upload.thwiki.cc/thumb/6/61/%E6%B0%B4%E6%97%8F%E9%A6%86%E5%AE%8C%E7%BE%8E%E7%AE%97%E6%9C%AFver%E7%90%AA%E9%9C%B2%E8%AF%BA-3.jpg/320px-%E6%B0%B4%E6%97%8F%E9%A6%86%E5%AE%8C%E7%BE%8E%E7%AE%97%E6%9C%AFver%E7%90%AA%E9%9C%B2%E8%AF%BA-3.jpg 2x" data-file-width="536" data-file-height="800">
 公式图
-
-
-
-
-
-
 
 ---
 

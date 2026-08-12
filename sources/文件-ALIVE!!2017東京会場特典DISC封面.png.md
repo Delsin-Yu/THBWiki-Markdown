@@ -1,6 +1,6 @@
 # 文件:ALIVE!!2017東京会場特典DISC封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ef\ns6%3AALIVE%21%212017%E6%9D%B1%E4%BA%AC%E4%BC%9A%E5%A0%B4%E7%89%B9%E5%85%B8DISC%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ef\ns6%3AALIVE%21%212017%E6%9D%B1%E4%BA%AC%E4%BC%9A%E5%A0%B4%E7%89%B9%E5%85%B8DISC%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 A-One | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ A-One | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [ALIVE!!2017東京会場特典DISC](./ALIVE!!2017東京会場特典DISC.md)  
-该封面包含的角色：- [坂田合欢](./坂田合欢.md)
-
-
-
+- [ALIVE!!2017東京会場特典DISC](./ALIVE!!2017東京会場特典DISC.md)该封面包含的角色：
+- [坂田合欢](./坂田合欢.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:ONEMAN_LIVE_POP_FANTASY_2016封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c3\ns6%3AONEMAN_LIVE_POP_FANTASY_2016%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c3\ns6%3AONEMAN_LIVE_POP_FANTASY_2016%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 R-note | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ R-note | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [ONEMAN LIVE POP FANTASY 2016](./ONEMAN_LIVE_POP_FANTASY_2016.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [ONEMAN LIVE POP FANTASY 2016](./ONEMAN_LIVE_POP_FANTASY_2016.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

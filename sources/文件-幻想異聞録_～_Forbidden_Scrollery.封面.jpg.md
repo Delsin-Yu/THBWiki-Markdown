@@ -1,6 +1,6 @@
 # 文件:幻想異聞録_～_Forbidden_Scrollery.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d8\ns6%3A%E5%B9%BB%E6%83%B3%E7%95%B0%E8%81%9E%E9%8C%B2_%EF%BD%9E_Forbidden_Scrollery%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d8\ns6%3A%E5%B9%BB%E6%83%B3%E7%95%B0%E8%81%9E%E9%8C%B2_%EF%BD%9E_Forbidden_Scrollery%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 満月堂
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [幻想異聞録 ～ Forbidden Scrollery.](./幻想異聞録_～_Forbidden_Scrollery..md)  
-该封面包含的角色：- [本居小铃](./本居小铃.md)- [宇佐见堇子](./宇佐见堇子.md)
-
-
-
+- [幻想異聞録 ～ Forbidden Scrollery.](./幻想異聞録_～_Forbidden_Scrollery..md)该封面包含的角色：
+- [本居小铃](./本居小铃.md)
+- [宇佐见堇子](./宇佐见堇子.md)
 
 
 ---

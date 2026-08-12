@@ -1,6 +1,6 @@
 # 文件:【Si：】封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\91\ns6%3A%E3%80%90Si%EF%BC%9A%E3%80%91%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\91\ns6%3A%E3%80%90Si%EF%BC%9A%E3%80%91%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 un_rosier | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@ un_rosier | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [【Si：】](./【Si：】.md)  
-该封面包含的角色：- [古明地恋](./古明地恋.md)
+- [【Si：】](./【Si：】.md)该封面包含的角色：
+- [古明地恋](./古明地恋.md)
 
   
-[Pixiv ID: 56466696 (original size)](https://www.pixiv.net/artworks/56466696)
-  
-
-
-
-
+[Pixiv ID: 56466696 (original size)](https://www.pixiv.net/artworks/56466696)  
 
 ---
 

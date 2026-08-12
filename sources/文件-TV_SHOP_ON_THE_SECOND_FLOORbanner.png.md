@@ -1,14 +1,11 @@
 # 文件:TV_SHOP_ON_THE_SECOND_FLOORbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\af\ns6%3ATV_SHOP_ON_THE_SECOND_FLOORbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\af\ns6%3ATV_SHOP_ON_THE_SECOND_FLOORbanner%2Epng.html -->
 
 TV_SHOP_ON_THE_SECOND_FLOOR | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

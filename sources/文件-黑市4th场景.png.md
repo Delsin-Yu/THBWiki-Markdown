@@ -1,14 +1,11 @@
 # 文件:黑市4th场景.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\72\ns6%3A%E9%BB%91%E5%B8%824th%E5%9C%BA%E6%99%AF%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\72\ns6%3A%E9%BB%91%E5%B8%824th%E5%9C%BA%E6%99%AF%2Epng.html -->
 
 弹幕狂们的黑市 | 游戏关卡标题
 
 
 ## 摘要
-
-
-
 
 ---
 

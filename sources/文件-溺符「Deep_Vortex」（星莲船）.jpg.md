@@ -1,12 +1,8 @@
 # 文件:溺符「Deep_Vortex」（星莲船）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f9\ns6%3A%E6%BA%BA%E7%AC%A6%E3%80%8CDeep_Vortex%E3%80%8D%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f9\ns6%3A%E6%BA%BA%E7%AC%A6%E3%80%8CDeep_Vortex%E3%80%8D%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%EF%BC%89%2Ejpg.html -->
 
 东方星莲船 | 敌机符卡 | 村纱水蜜
-
-
-
-
 
 
 ---

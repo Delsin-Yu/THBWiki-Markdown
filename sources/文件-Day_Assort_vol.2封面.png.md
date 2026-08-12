@@ -1,6 +1,6 @@
 # 文件:Day_Assort_vol.2封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c7\ns6%3ADay_Assort_vol%2E2%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c7\ns6%3ADay_Assort_vol%2E2%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 hoomy34 | 专辑封面 | 封面图片
 
@@ -8,11 +8,10 @@ hoomy34 | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Day Assort vol.2](./Day_Assort_vol.2.md)  
-该封面包含的角色：- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)- [丰聪耳神子](./丰聪耳神子.md)- [若鹭姬](./若鹭姬.md)
-
-
-
+- [Day Assort vol.2](./Day_Assort_vol.2.md)该封面包含的角色：
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
+- [丰聪耳神子](./丰聪耳神子.md)
+- [若鹭姬](./若鹭姬.md)
 
 
 ---

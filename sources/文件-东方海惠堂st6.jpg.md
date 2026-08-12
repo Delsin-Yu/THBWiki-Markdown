@@ -1,12 +1,8 @@
 # 文件:东方海惠堂st6.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\62\ns6%3A%E4%B8%9C%E6%96%B9%E6%B5%B7%E6%83%A0%E5%A0%82st6%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\62\ns6%3A%E4%B8%9C%E6%96%B9%E6%B5%B7%E6%83%A0%E5%A0%82st6%2Ejpg.html -->
 
 原色空間
-
-
-
-
 
 
 ---

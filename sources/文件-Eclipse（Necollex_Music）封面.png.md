@@ -1,6 +1,6 @@
 # 文件:Eclipse（Necollex_Music）封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7e\ns6%3AEclipse%EF%BC%88Necollex_Music%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7e\ns6%3AEclipse%EF%BC%88Necollex_Music%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Necollex_Music | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Necollex_Music | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Eclipse（Necollex Music）](./Eclipse（Necollex_Music）.md)  
-该封面包含的角色：- [封兽鵺](./封兽鵺.md)
-
-
-
+- [Eclipse（Necollex Music）](./Eclipse（Necollex_Music）.md)该封面包含的角色：
+- [封兽鵺](./封兽鵺.md)
 
 
 ---

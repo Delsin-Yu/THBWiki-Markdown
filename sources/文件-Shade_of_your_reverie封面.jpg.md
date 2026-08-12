@@ -1,6 +1,6 @@
 # 文件:Shade_of_your_reverie封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\df\ns6%3AShade_of_your_reverie%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\df\ns6%3AShade_of_your_reverie%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ACCORD_ON_CODES | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ ACCORD_ON_CODES | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Shade of your reverie](./Shade_of_your_reverie.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
-
-
-
+- [Shade of your reverie](./Shade_of_your_reverie.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Free_your_mind封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\22\ns6%3AFree_your_mind%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\22\ns6%3AFree_your_mind%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Five-Ace | 专辑封面 | 封面图片
 
@@ -10,16 +10,12 @@ Five-Ace | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Free your mind](./Free_your_mind.md)  
-该封面包含的角色：- [八云紫](./八云紫.md)- [射命丸文](./射命丸文.md)
+- [Free your mind](./Free_your_mind.md)该封面包含的角色：
+- [八云紫](./八云紫.md)
+- [射命丸文](./射命丸文.md)
 
   
-源地址：[direct image link (original size)](https://pbs.twimg.com/media/ChdHvYmUkAAhhg7?format=jpg&amp;name=orig), [source tweet](https://twitter.com/tsukimoto_aoi/status/727128745908150272)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://pbs.twimg.com/media/ChdHvYmUkAAhhg7?format=jpg&name=orig), [source tweet](https://twitter.com/tsukimoto_aoi/status/727128745908150272)  
 
 ---
 

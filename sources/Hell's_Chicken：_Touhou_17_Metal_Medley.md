@@ -1,39 +1,34 @@
 # Hell's_Chicken：_Touhou_17_Metal_Medley
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\6c\ns0%3AHell%27s_Chicken%EF%BC%9A_Touhou_17_Metal_Medley.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\6c\ns0%3AHell%27s_Chicken%EF%BC%9A_Touhou_17_Metal_Medley.html -->
 
 2019年6月22日 由 YaboiMatoi  发布的单曲同人专辑，曲目主要风格是 金属，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人专辑 (未找到链接)** 的词条
-
+**[二次创作同人专辑](./二次创作.md#同人音乐)**的词条
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Hell's_Chicken：_Touhou_17_Metal_Medley封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/4/4b/Hell%27s_Chicken%EF%BC%9A_Touhou_17_Metal_Medley%E5%B0%81%E9%9D%A2.jpg/252px-Hell%27s_Chicken%EF%BC%9A_Touhou_17_Metal_Medley%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="252" height="252" srcset="https://upload.thwiki.cc/thumb/4/4b/Hell%27s_Chicken%EF%BC%9A_Touhou_17_Metal_Medley%E5%B0%81%E9%9D%A2.jpg/378px-Hell%27s_Chicken%EF%BC%9A_Touhou_17_Metal_Medley%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/4/4b/Hell%27s_Chicken%EF%BC%9A_Touhou_17_Metal_Medley%E5%B0%81%E9%9D%A2.jpg/504px-Hell%27s_Chicken%EF%BC%9A_Touhou_17_Metal_Medley%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1200" data-file-height="1200"></a><div class="cover-char">角色：<a href="./庭渡久侘歌.md" title="庭渡久侘歌">庭渡久侘歌</a></div></td>
-</tr><tr><td class="label">名称</td><td colspan="2"> Hell&#39;s Chicken: Touhou 17 Metal Medley </td></tr><tr><td class="label">制作方</td><td><a href="./YaboiMatoi.md" title="YaboiMatoi">YaboiMatoi</a></td><td class="cover-artwork" rowspan="9" style="min-width:252px;"><a href="./文件-Hell's_Chicken：_Touhou_17_Metal_Medley封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/4/4b/Hell%27s_Chicken%EF%BC%9A_Touhou_17_Metal_Medley%E5%B0%81%E9%9D%A2.jpg/252px-Hell%27s_Chicken%EF%BC%9A_Touhou_17_Metal_Medley%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="252" height="252" srcset="https://upload.thwiki.cc/thumb/4/4b/Hell%27s_Chicken%EF%BC%9A_Touhou_17_Metal_Medley%E5%B0%81%E9%9D%A2.jpg/378px-Hell%27s_Chicken%EF%BC%9A_Touhou_17_Metal_Medley%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/4/4b/Hell%27s_Chicken%EF%BC%9A_Touhou_17_Metal_Medley%E5%B0%81%E9%9D%A2.jpg/504px-Hell%27s_Chicken%EF%BC%9A_Touhou_17_Metal_Medley%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1200" data-file-height="1200"></a><div class="cover-char">角色：<a href="./庭渡久侘歌.md" title="庭渡久侘歌">庭渡久侘歌</a></div></td>
+</tr><tr><td class="label">名称</td><td colspan="2"> Hell's Chicken: Touhou 17 Metal Medley </td></tr><tr><td class="label">制作方</td><td><a href="./YaboiMatoi.md" title="YaboiMatoi">YaboiMatoi</a></td><td class="cover-artwork" rowspan="9" style="min-width:252px;"><a href="./文件-Hell's_Chicken：_Touhou_17_Metal_Medley封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/4/4b/Hell%27s_Chicken%EF%BC%9A_Touhou_17_Metal_Medley%E5%B0%81%E9%9D%A2.jpg/252px-Hell%27s_Chicken%EF%BC%9A_Touhou_17_Metal_Medley%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="252" height="252" srcset="https://upload.thwiki.cc/thumb/4/4b/Hell%27s_Chicken%EF%BC%9A_Touhou_17_Metal_Medley%E5%B0%81%E9%9D%A2.jpg/378px-Hell%27s_Chicken%EF%BC%9A_Touhou_17_Metal_Medley%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/4/4b/Hell%27s_Chicken%EF%BC%9A_Touhou_17_Metal_Medley%E5%B0%81%E9%9D%A2.jpg/504px-Hell%27s_Chicken%EF%BC%9A_Touhou_17_Metal_Medley%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1200" data-file-height="1200"></a><div class="cover-char">角色：<a href="./庭渡久侘歌.md" title="庭渡久侘歌">庭渡久侘歌</a></div></td>
 </tr><tr><td class="label">首发日期</td><td>2019-06-22</td></tr><tr><td class="label">类型</td><td>单曲</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>1</td></tr><tr><td class="label">总时长</td><td>04:20</td></tr><tr><td class="label">风格类型</td><td>金属</td></tr><tr><td class="label">售价</td><td>通贩售价：1欧元</td></tr></tbody></table>
 
 Hell's Chicken： Touhou 17 Metal Medley（同人专辑，YaboiMatoi，2019） - 2019年6月22日 由 YaboiMatoi  发布的单曲同人专辑，曲目主要风格是 金属，分级为 一般向
-
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://yaboimatoi.bandcamp.com/track/hells-chicken-touhou-17-metal-medley">bandcamp</a></td></tr></tbody></table>
-
 
 
 ## Staff
   
- **Arrangement**   
+**Arrangement**  
 
 <table><tbody><tr><td><a href="./YaboiMatoi.md" title="YaboiMatoi">YaboiMatoi</a></td><td></td><td>Tr.1</td></tr></tbody></table>
 
   
- **Instrument**   
+**Instrument**  
 
 <table><tbody><tr><td><a href="./YaboiMatoi.md" title="YaboiMatoi">YaboiMatoi</a></td><td></td><td>Tr.1</td></tr></tbody></table>
 
-
 Artwork
 : altair（[Twitter: @mirakuruyellow](https://twitter.com/mirakuruyellow)（已经失效））
-
 
 ## 试听
 
@@ -46,10 +41,7 @@ Artwork
 <td><iframe width="560" height="315" src="//www.youtube-nocookie.com/embed/aSUS7pOYUF4?" frameborder="0" allowfullscreen=""></iframe>
 </td></tr></tbody></table>
 
-
   
-
-
   
 
 <table>
@@ -58,14 +50,9 @@ Artwork
 </table>
 
 
-
-
-
-
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Hell&#39;s_Chicken_-_Touhou_17_Medley:_Jelly_Stone_/_The_Stone_Baby_and_the_Submerged_Bovine_/_Seraphic_Chicken" colspan="2" class="title">Hell&#39;s Chicken - Touhou 17 Medley: Jelly Stone / The Stone Baby and the Submerged Bovine / Seraphic Chicken<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=YaboiMatoi&amp;ogmusic=ジェリーストーン，石の赤子と水中の牛，セラフィックチキン&amp;fromwiki=Hell's_Chicken：_Touhou_17_Metal_Medley"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:20</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./YaboiMatoi.md" title="YaboiMatoi">YaboiMatoi</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，YaboiMatoi&amp;fromwiki=Hell's_Chicken：_Touhou_17_Metal_Medley"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演奏</td><td class="text" colspan="2">guitar：<a href="./YaboiMatoi.md" title="YaboiMatoi">YaboiMatoi</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=ジェリーストーン，石の赤子と水中の牛，セラフィックチキン&amp;fromwiki=Hell's_Chicken：_Touhou_17_Metal_Medley"><span></span></a></span><div class="ogmusic"><a href="./ジェリーストーン.md" class="mw-redirect" title="ジェリーストーン">ジェリーストーン</a></div><div class="ogmusic"><a href="./石の赤子と水中の牛.md" class="mw-redirect" title="石の赤子と水中の牛">石の赤子と水中の牛</a></div><div class="ogmusic"><a href="./セラフィックチキン.md" class="mw-redirect" title="セラフィックチキン">セラフィックチキン</a></div><div class="source"><a href="./东方鬼形兽_～_Wily_Beast_and_Weakest_Creature..md" class="mw-redirect" title="东方鬼形兽 ～ Wily Beast and Weakest Creature.">东方鬼形兽　～ Wily Beast and Weakest Creature.</a></div></td></tr></tbody></table>
-
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Hell&#39;s_Chicken_-_Touhou_17_Medley:_Jelly_Stone_/_The_Stone_Baby_and_the_Submerged_Bovine_/_Seraphic_Chicken" colspan="2" class="title">Hell's Chicken - Touhou 17 Medley: Jelly Stone / The Stone Baby and the Submerged Bovine / Seraphic Chicken</td><td class="time">04:20</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./YaboiMatoi.md" title="YaboiMatoi">YaboiMatoi</a></td></tr><tr><td class="left"></td><td class="label">演奏</td><td class="text" colspan="2">guitar：<a href="./YaboiMatoi.md" title="YaboiMatoi">YaboiMatoi</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./Jelly_Stone.md" class="mw-redirect" title="ジェリーストーン">ジェリーストーン</a></div><div class="ogmusic"><a href="./石之婴儿与水中牛.md" class="mw-redirect" title="石の赤子と水中の牛">石の赤子と水中の牛</a></div><div class="ogmusic"><a href="./Seraphic_Chicken.md" class="mw-redirect" title="セラフィックチキン">セラフィックチキン</a></div><div class="source"><a href="./东方鬼形兽.md" class="mw-redirect" title="东方鬼形兽 ～ Wily Beast and Weakest Creature.">东方鬼形兽　～ Wily Beast and Weakest Creature.</a></div></td></tr></tbody></table>
 
 
 ## 评论
@@ -75,10 +62,6 @@ It's about time I gave Touhou 17 the attention it deserves. The themes from WBaW
   
 I'm super proud of the way it turned out. I hope you guys enjoy!
   
-
-
-
-
 
 ---
 

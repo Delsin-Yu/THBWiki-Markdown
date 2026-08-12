@@ -1,6 +1,6 @@
 # 文件:pre：pArAtion封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\12\ns6%3Apre%EF%BC%9ApArAtion%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\12\ns6%3Apre%EF%BC%9ApArAtion%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 PARANOIA_PARADOX | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ PARANOIA_PARADOX | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [pre：pArAtion](./pre：pArAtion.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [pre：pArAtion](./pre：pArAtion.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

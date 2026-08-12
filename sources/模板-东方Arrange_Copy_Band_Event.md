@@ -1,16 +1,12 @@
 # 模板:东方Arrange_Copy_Band_Event
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\c\c5\ns10%3A%E4%B8%9C%E6%96%B9Arrange_Copy_Band_Event.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\c\c5\ns10%3A%E4%B8%9C%E6%96%B9Arrange_Copy_Band_Event.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

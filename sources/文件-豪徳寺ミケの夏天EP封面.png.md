@@ -1,6 +1,6 @@
 # 文件:豪徳寺ミケの夏天EP封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\52\ns6%3A%E8%B1%AA%E5%BE%B3%E5%AF%BA%E3%83%9F%E3%82%B1%E3%81%AE%E5%A4%8F%E5%A4%A9EP%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\52\ns6%3A%E8%B1%AA%E5%BE%B3%E5%AF%BA%E3%83%9F%E3%82%B1%E3%81%AE%E5%A4%8F%E5%A4%A9EP%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Crest | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Crest | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [豪徳寺ミケの夏天EP](./豪徳寺ミケの夏天EP.md)  
-该封面包含的角色：- [豪德寺三花](./豪德寺三花.md)
-
-
-
+- [豪徳寺ミケの夏天EP](./豪徳寺ミケの夏天EP.md)该封面包含的角色：
+- [豪德寺三花](./豪德寺三花.md)
 
 
 ---

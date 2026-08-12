@@ -1,6 +1,6 @@
 # 文件:Beautiful_World（すとらいぷぱたーん）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b7\ns6%3ABeautiful_World%EF%BC%88%E3%81%99%E3%81%A8%E3%82%89%E3%81%84%E3%81%B7%E3%81%B1%E3%81%9F%E3%83%BC%E3%82%93%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b7\ns6%3ABeautiful_World%EF%BC%88%E3%81%99%E3%81%A8%E3%82%89%E3%81%84%E3%81%B7%E3%81%B1%E3%81%9F%E3%83%BC%E3%82%93%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 すとらいぷぱたーん | 同人志封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Beautiful World（すとらいぷぱたーん）](./Beautiful_World（すとらいぷぱたーん）.md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)
-
-
-
+- [Beautiful World（すとらいぷぱたーん）](./Beautiful_World（すとらいぷぱたーん）.md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
 
 
 ---

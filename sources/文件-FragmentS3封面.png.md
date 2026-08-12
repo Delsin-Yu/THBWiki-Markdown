@@ -1,6 +1,6 @@
 # 文件:FragmentS3封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\44\ns6%3AFragmentS3%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\44\ns6%3AFragmentS3%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Sound_Square | 专辑封面 | 封面图片
 
@@ -8,16 +8,12 @@ Sound_Square | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [FragmentS3](./FragmentS3.md)  
-该封面包含的角色：- [八意永琳](./八意永琳.md)- [蓬莱山辉夜](./蓬莱山辉夜.md)
+- [FragmentS3](./FragmentS3.md)该封面包含的角色：
+- [八意永琳](./八意永琳.md)
+- [蓬莱山辉夜](./蓬莱山辉夜.md)
 
   
-源地址：[[1]](http://blog-imgs-35.fc2.com/s/o/u/soundsquare/FragmentS3_Jacket_omote_500.png)
-  
-
-
-
-
+源地址：[\[1\]](http://blog-imgs-35.fc2.com/s/o/u/soundsquare/FragmentS3_Jacket_omote_500.png)  
 
 ---
 

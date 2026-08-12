@@ -1,12 +1,8 @@
 # 文件:靄鋳屋本舗banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f6\ns6%3A%E9%9D%84%E9%8B%B3%E5%B1%8B%E6%9C%AC%E8%88%97banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f6\ns6%3A%E9%9D%84%E9%8B%B3%E5%B1%8B%E6%9C%AC%E8%88%97banner%2Egif.html -->
 
 エースター群島 | 社团LOGO
-
-
-
-
 
 
 ---

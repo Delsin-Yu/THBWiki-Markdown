@@ -1,12 +1,8 @@
 # 文件:Komeiji_Records.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ae\ns6%3AKomeiji_Records%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ae\ns6%3AKomeiji_Records%2Epng.html -->
 
 Komeiji_Records | 社团LOGO
-
-
-
-
 
 
 ---

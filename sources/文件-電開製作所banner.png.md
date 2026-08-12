@@ -1,12 +1,8 @@
 # 文件:電開製作所banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\24\ns6%3A%E9%9B%BB%E9%96%8B%E8%A3%BD%E4%BD%9C%E6%89%80banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\24\ns6%3A%E9%9B%BB%E9%96%8B%E8%A3%BD%E4%BD%9C%E6%89%80banner%2Epng.html -->
 
 社团LOGO | 電開製作所
-
-
-
-
 
 
 ---

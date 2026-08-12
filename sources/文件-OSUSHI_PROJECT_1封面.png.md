@@ -1,6 +1,6 @@
 # 文件:OSUSHI_PROJECT_1封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\14\ns6%3AOSUSHI_PROJECT_1%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\14\ns6%3AOSUSHI_PROJECT_1%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 OSUSHI_PROJECT | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ OSUSHI_PROJECT | 专辑封面 | 封面图片
   
 
 - [OSUSHI PROJECT 1](./OSUSHI_PROJECT_1.md)
-
-
-
 
 
 ---

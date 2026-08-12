@@ -1,12 +1,8 @@
 # 文件:Re-Volte_banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6a\ns6%3ARe-Volte_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6a\ns6%3ARe-Volte_banner%2Ejpg.html -->
 
 Re：Volte | 社团LOGO
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:NO_NO_NO_feat._nachi_-_ZYTOKINE_Remix封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\64\ns6%3ANO_NO_NO_feat%2E_nachi_-_ZYTOKINE_Remix%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\64\ns6%3ANO_NO_NO_feat%2E_nachi_-_ZYTOKINE_Remix%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ZYTOKINE | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ ZYTOKINE | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [NO NO NO feat. nachi - ZYTOKINE Remix](./NO_NO_NO_feat._nachi_-_ZYTOKINE_Remix.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [NO NO NO feat. nachi - ZYTOKINE Remix](./NO_NO_NO_feat._nachi_-_ZYTOKINE_Remix.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

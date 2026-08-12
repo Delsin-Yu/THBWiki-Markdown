@@ -1,16 +1,12 @@
 # 模板:CDBJ
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\7\7e\ns10%3ACDBJ.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\7\7e\ns10%3ACDBJ.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

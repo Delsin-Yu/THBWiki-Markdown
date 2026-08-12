@@ -1,12 +1,8 @@
 # 文件:W超能力「Psychokinesis_Teleportation」4（凭依华）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3e\ns6%3AW%E8%B6%85%E8%83%BD%E5%8A%9B%E3%80%8CPsychokinesis_Teleportation%E3%80%8D4%EF%BC%88%E5%87%AD%E4%BE%9D%E5%8D%8E%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3e\ns6%3AW%E8%B6%85%E8%83%BD%E5%8A%9B%E3%80%8CPsychokinesis_Teleportation%E3%80%8D4%EF%BC%88%E5%87%AD%E4%BE%9D%E5%8D%8E%EF%BC%89%2Epng.html -->
 
 东方凭依华 | 宇佐见堇子 | 敌机符卡
-
-
-
-
 
 
 ---

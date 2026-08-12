@@ -1,6 +1,6 @@
 # 文件:Subterranean_Sun封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e7\ns6%3ASubterranean_Sun%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e7\ns6%3ASubterranean_Sun%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ELECTRIC_RED | 专辑封面 | 封面图片
 
@@ -8,16 +8,12 @@ ELECTRIC_RED | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Subterranean Sun](./Subterranean_Sun.md)  
-该封面包含的角色：- [灵乌路空](./灵乌路空.md)
+- [Subterranean Sun](./Subterranean_Sun.md)该封面包含的角色：
+- [灵乌路空](./灵乌路空.md)
 
   
 p站id=7861673
   
-
-
-
-
 
 ---
 

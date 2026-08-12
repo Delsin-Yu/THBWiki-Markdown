@@ -1,18 +1,13 @@
 # 文件:楽満団banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\75\ns6%3A%E6%A5%BD%E6%BA%80%E5%9B%A3banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\75\ns6%3A%E6%A5%BD%E6%BA%80%E5%9B%A3banner%2Egif.html -->
 
 楽満団 | 社团LOGO
 
 
 ## 文件说明
   
-[[1]](http://blog-imgs-47.fc2.com/j/o/y/joyfull720/2011052607332482d.gif)
-  
-
-
-
-
+[\[1\]](http://blog-imgs-47.fc2.com/j/o/y/joyfull720/2011052607332482d.gif)  
 
 ---
 

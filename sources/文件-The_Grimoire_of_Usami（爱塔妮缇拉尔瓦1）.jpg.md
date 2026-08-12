@@ -1,14 +1,11 @@
 # 文件:The_Grimoire_of_Usami（爱塔妮缇拉尔瓦1）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3c\ns6%3AThe_Grimoire_of_Usami%EF%BC%88%E7%88%B1%E5%A1%94%E5%A6%AE%E7%BC%87%E6%8B%89%E5%B0%94%E7%93%A61%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3c\ns6%3AThe_Grimoire_of_Usami%EF%BC%88%E7%88%B1%E5%A1%94%E5%A6%AE%E7%BC%87%E6%8B%89%E5%B0%94%E7%93%A61%EF%BC%89%2Ejpg.html -->
 
 宇佐见的魔法书 | 爱塔妮缇拉尔瓦
 
 
 ## 摘要
-
-
-
 
 ---
 

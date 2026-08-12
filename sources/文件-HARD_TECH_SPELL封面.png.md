@@ -1,6 +1,6 @@
 # 文件:HARD_TECH_SPELL封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\44\ns6%3AHARD_TECH_SPELL%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\44\ns6%3AHARD_TECH_SPELL%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 荒御灵
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [HARD TECH SPELL](./HARD_TECH_SPELL.md)  
-该封面包含的角色：- [风见幽香](./风见幽香.md)
-
-
-
+- [HARD TECH SPELL](./HARD_TECH_SPELL.md)该封面包含的角色：
+- [风见幽香](./风见幽香.md)
 
 
 ---

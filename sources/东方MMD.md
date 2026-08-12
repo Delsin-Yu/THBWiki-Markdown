@@ -1,12 +1,11 @@
 # 东方MMD
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\b8\ns0%3A%E4%B8%9C%E6%96%B9MMD.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\b8\ns0%3A%E4%B8%9C%E6%96%B9MMD.html -->
 
 概念
 
 本页是说明东方Project  
- **相关概念定义** 的词条
-
+**相关概念定义**的词条
 ## 目录
 
 - [1 简介](#简介)
@@ -16,14 +15,10 @@
 - [5 其他](#其他)
 
 
-
-
-
 ## 简介
   
-所谓 **东方MMD** ,是指采用了MMD东方模型，亦或是将东方关联乐曲使用在MMD上时所被加上的tag标签。
+所谓**东方MMD**,是指采用了MMD东方模型，亦或是将东方关联乐曲使用在MMD上时所被加上的tag标签。
   
-
 
 ## 叙述
   
@@ -41,12 +36,10 @@ MikuMikuDance，由Ver3.0开始采用用户制作的PMD数据，使得Miku以外
   
 另外，自从niconico动画(9)开始，「东方」成为板块tag，只要有「东方」和「MikuMikuDacne」tag的话，「东方MMD」tag便不需要的意见也有出现。
   
-
-
 [^cite_note-1]: 该视频链接已失效。
 
-
 ## 参考资料
+
 - [niconico大百科](https://dic.nicovideo.jp/a/東方mmd)
 
 
@@ -54,10 +47,6 @@ MikuMikuDance，由Ver3.0开始采用用户制作的PMD数据，使得Miku以外
   
 翻译：亚月
   
-
-
-
-
 
 ---
 

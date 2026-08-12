@@ -1,12 +1,8 @@
 # 文件:死神「Higan_Retour」1.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fa\ns6%3A%E6%AD%BB%E7%A5%9E%E3%80%8CHigan_Retour%E3%80%8D1%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fa\ns6%3A%E6%AD%BB%E7%A5%9E%E3%80%8CHigan_Retour%E3%80%8D1%2Epng.html -->
 
 东方花映塚 | 小野塚小町
-
-
-
-
 
 
 ---

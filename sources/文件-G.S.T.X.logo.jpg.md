@@ -1,16 +1,11 @@
 # 文件:G.S.T.X.logo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2f\ns6%3AG%2ES%2ET%2EX%2Elogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2f\ns6%3AG%2ES%2ET%2EX%2Elogo%2Ejpg.html -->
 
 G.S.T.X. | 社团LOGO
 
   
-源地址：[[1]](https://pbs.twimg.com/profile_images/1037985145989394432/xHCCXiB1_400x400.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://pbs.twimg.com/profile_images/1037985145989394432/xHCCXiB1_400x400.jpg)  
 
 ---
 

@@ -1,12 +1,8 @@
 # 文件:东方架空园st1.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dd\ns6%3A%E4%B8%9C%E6%96%B9%E6%9E%B6%E7%A9%BA%E5%9B%ADst1%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dd\ns6%3A%E4%B8%9C%E6%96%B9%E6%9E%B6%E7%A9%BA%E5%9B%ADst1%2Ejpg.html -->
 
 ほおずき
-
-
-
-
 
 
 ---

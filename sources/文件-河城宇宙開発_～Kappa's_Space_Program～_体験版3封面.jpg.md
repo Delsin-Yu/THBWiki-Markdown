@@ -1,6 +1,6 @@
 # 文件:河城宇宙開発_～Kappa's_Space_Program～_体験版3封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\69\ns6%3A%E6%B2%B3%E5%9F%8E%E5%AE%87%E5%AE%99%E9%96%8B%E7%99%BA_%EF%BD%9EKappa%27s_Space_Program%EF%BD%9E_%E4%BD%93%E9%A8%93%E7%89%883%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\69\ns6%3A%E6%B2%B3%E5%9F%8E%E5%AE%87%E5%AE%99%E9%96%8B%E7%99%BA_%EF%BD%9EKappa%27s_Space_Program%EF%BD%9E_%E4%BD%93%E9%A8%93%E7%89%883%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Under_the_Gun | 封面图片 | 软件封面
 
@@ -11,9 +11,6 @@ Under_the_Gun | 封面图片 | 软件封面
   
 
 - [河城宇宙開発 ～Kappa's Space Program～ 体験版3](./河城宇宙開発_～Kappa's_Space_Program～_体験版3.md)
-
-
-
 
 
 ---

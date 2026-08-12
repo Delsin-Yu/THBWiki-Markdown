@@ -1,12 +1,8 @@
 # 文件:幻想乐章LOGO.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\01\ns6%3A%E5%B9%BB%E6%83%B3%E4%B9%90%E7%AB%A0LOGO%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\01\ns6%3A%E5%B9%BB%E6%83%B3%E4%B9%90%E7%AB%A0LOGO%2Epng.html -->
 
 幻想乐章 | 社团LOGO
-
-
-
-
 
 
 ---

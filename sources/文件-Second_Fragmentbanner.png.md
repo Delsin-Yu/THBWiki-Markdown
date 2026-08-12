@@ -1,16 +1,11 @@
 # 文件:Second_Fragmentbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ad\ns6%3ASecond_Fragmentbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ad\ns6%3ASecond_Fragmentbanner%2Epng.html -->
 
 Second_Fragment | 社团LOGO
 
   
-源地址：[[1]](http://secondfragment.com/about.html)
-  
-
-
-
-
+源地址：[\[1\]](http://secondfragment.com/about.html)  
 
 ---
 

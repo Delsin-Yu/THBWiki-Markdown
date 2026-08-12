@@ -1,12 +1,8 @@
 # 文件:乞骸让让EX+α（灵烈传）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\75\ns6%3A%E4%B9%9E%E9%AA%B8%E8%AE%A9%E8%AE%A9EX%2B%CE%B1%EF%BC%88%E7%81%B5%E7%83%88%E4%BC%A0%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\75\ns6%3A%E4%B9%9E%E9%AA%B8%E8%AE%A9%E8%AE%A9EX%2B%CE%B1%EF%BC%88%E7%81%B5%E7%83%88%E4%BC%A0%EF%BC%89%2Epng.html -->
 
 トリック・ノスタルジー | 乞骸让让 | 二次角色立绘 | 连缘灵烈传
-
-
-
-
 
 
 ---

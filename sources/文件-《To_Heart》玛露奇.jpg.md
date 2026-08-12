@@ -1,12 +1,8 @@
 # 文件:《To_Heart》玛露奇.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\92\ns6%3A%E3%80%8ATo_Heart%E3%80%8B%E7%8E%9B%E9%9C%B2%E5%A5%87%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\92\ns6%3A%E3%80%8ATo_Heart%E3%80%8B%E7%8E%9B%E9%9C%B2%E5%A5%87%2Ejpg.html -->
 
 玛○奇
-
-
-
-
 
 
 ---

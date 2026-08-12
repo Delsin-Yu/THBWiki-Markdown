@@ -1,6 +1,6 @@
 # 文件:紅哀燈人形_～_Daydream_of_Dozen_Rose封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\49\ns6%3A%E7%B4%85%E5%93%80%E7%87%88%E4%BA%BA%E5%BD%A2_%EF%BD%9E_Daydream_of_Dozen_Rose%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\49\ns6%3A%E7%B4%85%E5%93%80%E7%87%88%E4%BA%BA%E5%BD%A2_%EF%BD%9E_Daydream_of_Dozen_Rose%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 夢想夏月郷 | 封面图片
 
@@ -11,9 +11,6 @@
   
 
 - [紅哀燈人形 ～ Daydream of Dozen Rose](./紅哀燈人形_～_Daydream_of_Dozen_Rose.md)
-
-
-
 
 
 ---

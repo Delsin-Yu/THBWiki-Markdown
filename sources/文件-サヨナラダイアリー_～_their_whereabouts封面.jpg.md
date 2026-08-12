@@ -1,6 +1,6 @@
 # 文件:サヨナラダイアリー_～_their_whereabouts封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5f\ns6%3A%E3%82%B5%E3%83%A8%E3%83%8A%E3%83%A9%E3%83%80%E3%82%A4%E3%82%A2%E3%83%AA%E3%83%BC_%EF%BD%9E_their_whereabouts%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5f\ns6%3A%E3%82%B5%E3%83%A8%E3%83%8A%E3%83%A9%E3%83%80%E3%82%A4%E3%82%A2%E3%83%AA%E3%83%BC_%EF%BD%9E_their_whereabouts%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 少女フラクタル
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [サヨナラダイアリー ～ their whereabouts](./サヨナラダイアリー_～_their_whereabouts.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [东风谷早苗](./东风谷早苗.md)
-
-
-
+- [サヨナラダイアリー ～ their whereabouts](./サヨナラダイアリー_～_their_whereabouts.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [东风谷早苗](./东风谷早苗.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:ViVid_attack封面.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d7\ns6%3AViVid_attack%E5%B0%81%E9%9D%A2%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d7\ns6%3AViVid_attack%E5%B0%81%E9%9D%A2%2Egif.html -->
 
 JunKY-jaM | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ JunKY-jaM | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [ViVid attack](./ViVid_attack.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [ViVid attack](./ViVid_attack.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

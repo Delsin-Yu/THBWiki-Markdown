@@ -1,12 +1,8 @@
 # 文件:Toby对谈54.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e6\ns6%3AToby%E5%AF%B9%E8%B0%8854%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e6\ns6%3AToby%E5%AF%B9%E8%B0%8854%2Ejpg.html -->
 
 Toby对谈 | ZUN
-
-
-
-
 
 
 ---

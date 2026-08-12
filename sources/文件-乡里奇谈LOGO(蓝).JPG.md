@@ -1,16 +1,12 @@
 # 文件:乡里奇谈LOGO(蓝).JPG
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cf\ns6%3A%E4%B9%A1%E9%87%8C%E5%A5%87%E8%B0%88LOGO%28%E8%93%9D%29%2EJPG.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cf\ns6%3A%E4%B9%A1%E9%87%8C%E5%A5%87%E8%B0%88LOGO%28%E8%93%9D%29%2EJPG.html -->
 
 乡里奇谈 | 活动LOGO
 
   
 东方同人文章创作赛事“乡里奇谈”专用LOGO（蓝色方案）
   
-
-
-
-
 
 ---
 

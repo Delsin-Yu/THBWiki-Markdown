@@ -1,14 +1,11 @@
 # 文件:はりたまごbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\eb\ns6%3A%E3%81%AF%E3%82%8A%E3%81%9F%E3%81%BE%E3%81%94banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\eb\ns6%3A%E3%81%AF%E3%82%8A%E3%81%9F%E3%81%BE%E3%81%94banner%2Epng.html -->
 
 はりたまご | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

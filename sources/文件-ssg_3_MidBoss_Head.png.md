@@ -1,16 +1,12 @@
 # 文件:ssg_3_MidBoss_Head.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\34\ns6%3Assg_3_MidBoss_Head%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\34\ns6%3Assg_3_MidBoss_Head%2Epng.html -->
 
 秋霜玉
 
   
 秋霜玉3面中Boss头部像素图。
   
-
-
-
-
 
 ---
 

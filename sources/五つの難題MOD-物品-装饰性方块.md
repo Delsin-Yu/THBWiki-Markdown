@@ -1,6 +1,6 @@
 # 五つの難題MOD/物品/装饰性方块
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\47\ns0%3A%E4%BA%94%E3%81%A4%E3%81%AE%E9%9B%A3%E9%A1%8CMOD%2F%E7%89%A9%E5%93%81%2F%E8%A3%85%E9%A5%B0%E6%80%A7%E6%96%B9%E5%9D%97.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\47\ns0%3A%E4%BA%94%E3%81%A4%E3%81%AE%E9%9B%A3%E9%A1%8CMOD%2F%E7%89%A9%E5%93%81%2F%E8%A3%85%E9%A5%B0%E6%80%A7%E6%96%B9%E5%9D%97.html -->
 
 くろあんこ | 五つの難題MOD
 
@@ -23,7 +23,6 @@
 会发出等级15的光</td></tr><tr><td style="width:120px;padding-left:7px;"><b>备注</b></td><td></td></tr></tbody></table>
 
 
-
 ## 激光工作台
 
 <table>
@@ -40,7 +39,6 @@
 </tr>
 </tbody></table></td></tr><tr><td style="width:120px;padding-left:7px;"><b>功能</b></td><td>通过激光、蓝点（得分道具）和红点（灵力提升道具）合成弹幕或升级弹幕，详见<a href="./五つの難題MOD-工作台说明.md" title="五つの難題MOD/工作台说明">模组工作台使用说明</a><br>
 会发出等级14的光</td></tr><tr><td style="width:120px;padding-left:7px;"><b>备注</b></td><td></td></tr></tbody></table>
-
 
 
 ## 小神灵
@@ -80,10 +78,6 @@
 <td>生物（未确定详细条件）</td><td>EntityLivingBase</td><td>橙</td>
 </tr>
 </tbody></table></td></tr></tbody></table>
-
-
-
-
 
 
 ---

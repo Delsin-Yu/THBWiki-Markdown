@@ -1,6 +1,6 @@
 # 文件:Get_Back_闘飛行封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\15\ns6%3AGet_Back_%E9%97%98%E9%A3%9B%E8%A1%8C%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\15\ns6%3AGet_Back_%E9%97%98%E9%A3%9B%E8%A1%8C%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ぎがらんち | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Get Back 闘飛行](./Get_Back_闘飛行.md)  
-该封面包含的角色：- [鬼人正邪](./鬼人正邪.md)
-
-
-
+- [Get Back 闘飛行](./Get_Back_闘飛行.md)该封面包含的角色：
+- [鬼人正邪](./鬼人正邪.md)
 
 
 ---

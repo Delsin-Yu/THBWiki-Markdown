@@ -1,6 +1,6 @@
 # 文件:Mysterious_Driver封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\90\ns6%3AMysterious_Driver%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\90\ns6%3AMysterious_Driver%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Sound_Square | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Sound_Square | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Mysterious Driver](./Mysterious_Driver.md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)
+- [Mysterious Driver](./Mysterious_Driver.md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
 
   
-源地址：[[1]](http://blog-imgs-36.fc2.com/s/o/u/soundsquare/Mysterious_Driver_Jacket_001.png)
-  
-
-
-
-
+源地址：[\[1\]](http://blog-imgs-36.fc2.com/s/o/u/soundsquare/Mysterious_Driver_Jacket_001.png)  
 
 ---
 

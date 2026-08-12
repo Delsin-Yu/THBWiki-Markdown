@@ -1,21 +1,17 @@
 # Subterranean_Detectives_Orin_and_Satori（同人游戏）
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\5\5e\ns0%3ASubterranean_Detectives_Orin_and_Satori%EF%BC%88%E5%90%8C%E4%BA%BA%E6%B8%B8%E6%88%8F%EF%BC%89.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\5\5e\ns0%3ASubterranean_Detectives_Orin_and_Satori%EF%BC%88%E5%90%8C%E4%BA%BA%E6%B8%B8%E6%88%8F%EF%BC%89.html -->
 
 2021年6月12日 由 MagpieTeahouse  发布的AVG/point and click adventure同人游戏，可在 Windows 系统上运行，游戏人数为 单人模式，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人软件 (未找到链接)** 的词条
-
+**[二次创作同人软件](./二次创作.md#同人软件)**的词条
 ## 目录
 
 - [1 软件信息](#软件信息)
 - [2 Staff](#Staff)
 - [3 内容页面](#内容页面)
 - [4 评论](#评论)
-
-
-
 
 
 ## 软件信息
@@ -26,14 +22,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/MagpieTeahouse/status/1403714352813940742">https://twitter.com/MagpieTeahouse/status/1403714352813940742</a><br><a rel="nofollow" class="external free" href="https://magpieteahouse.itch.io/subterranean-detectives-orin-and-satori">https://magpieteahouse.itch.io/subterranean-detectives-orin-and-satori</a></td></tr></tbody></table>
 
 Subterranean Detectives Orin and Satori（同人游戏，MagpieTeahouse，2021） - 2021年6月12日 由 MagpieTeahouse  发布的AVG/point and click adventure同人游戏，可在 Windows 系统上运行，游戏人数为 单人模式，分级为 一般向
-
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://magpieteahouse.itch.io/subterranean-detectives-orin-and-satori">其他平台</a></td></tr></tbody></table>
-
-
-  
-  
-
-  
 
 
 <table>
@@ -42,15 +31,14 @@ Subterranean Detectives Orin and Satori（同人游戏，MagpieTeahouse，2021�
 </tbody></table>
 
 
-
 ## Staff
 Development
 : Capellan （[MagpieTeahouse](./MagpieTeahouse.md)）
-Art &amp; Music
+Art & Music
 : barukowo （[MagpieTeahouse](./MagpieTeahouse.md)）
 
-
 ## 内容页面
+
 - 游戏设定与剧情 (未找到链接)
 - 攻略 (未找到链接)
 - 使用说明 (未找到链接)
@@ -59,9 +47,6 @@ Art &amp; Music
 
 
 ## 评论
-
-
-
 
 ---
 

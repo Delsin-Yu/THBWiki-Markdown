@@ -1,6 +1,6 @@
 # 文件:THE_BEST_OF_RECENT_WORKS封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\eb\ns6%3ATHE_BEST_OF_RECENT_WORKS%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\eb\ns6%3ATHE_BEST_OF_RECENT_WORKS%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 SOUND_HOLIC | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ SOUND_HOLIC | 专辑封面 | 封面图片
   
 
 - [THE BEST OF RECENT WORKS](./THE_BEST_OF_RECENT_WORKS.md)
-
-
-
 
 
 ---

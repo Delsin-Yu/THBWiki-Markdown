@@ -1,6 +1,6 @@
 # 文件:守矢幻燈録_～_Separation_of_Spirit.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\83\ns6%3A%E5%AE%88%E7%9F%A2%E5%B9%BB%E7%87%88%E9%8C%B2_%EF%BD%9E_Separation_of_Spirit%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\83\ns6%3A%E5%AE%88%E7%9F%A2%E5%B9%BB%E7%87%88%E9%8C%B2_%EF%BD%9E_Separation_of_Spirit%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 音の瓶詰
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [守矢幻燈録 ～ Separation of Spirit.](./守矢幻燈録_～_Separation_of_Spirit..md)  
-该封面包含的角色：- [东风谷早苗](./东风谷早苗.md)
+- [守矢幻燈録 ～ Separation of Spirit.](./守矢幻燈録_～_Separation_of_Spirit..md)该封面包含的角色：
+- [东风谷早苗](./东风谷早苗.md)
 
   
-源地址：[[1]](https://s.booth.pm/47da9dd6-48ed-43d0-aade-14b42483727b/i/101606/3941f7dd-49b4-410b-9d40-92c2a58fc682.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://s.booth.pm/47da9dd6-48ed-43d0-aade-14b42483727b/i/101606/3941f7dd-49b4-410b-9d40-92c2a58fc682.jpg)  
 
 ---
 

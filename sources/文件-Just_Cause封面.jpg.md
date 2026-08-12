@@ -1,6 +1,6 @@
 # 文件:Just_Cause封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b5\ns6%3AJust_Cause%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b5\ns6%3AJust_Cause%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 No_Gimmick_No_Life | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ No_Gimmick_No_Life | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Just Cause](./Just_Cause.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [Just Cause](./Just_Cause.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
   
-源地址：[[1]](http://static.tumblr.com/e63d822eee0d4738e57c95b8271411ab/s0dxskf/QE8o6jt08/tumblr_static_4750lf6ne76sog084cgkcoo0w.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://static.tumblr.com/e63d822eee0d4738e57c95b8271411ab/s0dxskf/QE8o6jt08/tumblr_static_4750lf6ne76sog084cgkcoo0w.jpg)  
 
 ---
 

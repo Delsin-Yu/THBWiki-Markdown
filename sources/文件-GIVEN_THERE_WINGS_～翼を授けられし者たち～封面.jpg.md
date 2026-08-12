@@ -1,6 +1,6 @@
 # 文件:GIVEN_THERE_WINGS_～翼を授けられし者たち～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d1\ns6%3AGIVEN_THERE_WINGS_%EF%BD%9E%E7%BF%BC%E3%82%92%E6%8E%88%E3%81%91%E3%82%89%E3%82%8C%E3%81%97%E8%80%85%E3%81%9F%E3%81%A1%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d1\ns6%3AGIVEN_THERE_WINGS_%EF%BD%9E%E7%BF%BC%E3%82%92%E6%8E%88%E3%81%91%E3%82%89%E3%82%8C%E3%81%97%E8%80%85%E3%81%9F%E3%81%A1%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 アインリート | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [GIVEN THERE WINGS ～翼を授けられし者たち～](./GIVEN_THERE_WINGS_～翼を授けられし者たち～.md)  
-该封面包含的角色：- [米斯蒂娅·萝蕾拉](./米斯蒂娅·萝蕾拉.md)- [射命丸文](./射命丸文.md)
-
-
-
+- [GIVEN THERE WINGS ～翼を授けられし者たち～](./GIVEN_THERE_WINGS_～翼を授けられし者たち～.md)该封面包含的角色：
+- [米斯蒂娅·萝蕾拉](./米斯蒂娅·萝蕾拉.md)
+- [射命丸文](./射命丸文.md)
 
 
 ---

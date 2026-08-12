@@ -1,12 +1,8 @@
 # 文件:东方儚月抄（四格）上卷通常版waist.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\98\ns6%3A%E4%B8%9C%E6%96%B9%E5%84%9A%E6%9C%88%E6%8A%84%EF%BC%88%E5%9B%9B%E6%A0%BC%EF%BC%89%E4%B8%8A%E5%8D%B7%E9%80%9A%E5%B8%B8%E7%89%88waist%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\98\ns6%3A%E4%B8%9C%E6%96%B9%E5%84%9A%E6%9C%88%E6%8A%84%EF%BC%88%E5%9B%9B%E6%A0%BC%EF%BC%89%E4%B8%8A%E5%8D%B7%E9%80%9A%E5%B8%B8%E7%89%88waist%2Ejpg.html -->
 
 东方儚月抄_～_月上的因幡和地上的因幡
-
-
-
-
 
 
 ---

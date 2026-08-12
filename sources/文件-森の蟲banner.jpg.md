@@ -1,12 +1,8 @@
 # 文件:森の蟲banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\19\ns6%3A%E6%A3%AE%E3%81%AE%E8%9F%B2banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\19\ns6%3A%E6%A3%AE%E3%81%AE%E8%9F%B2banner%2Ejpg.html -->
 
 森の蟲 | 社团LOGO
-
-
-
-
 
 
 ---

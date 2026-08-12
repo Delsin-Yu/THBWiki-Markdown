@@ -1,6 +1,6 @@
 # 文件:SCARLET_CAGE＊＊IN_A_DREAM...封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\58\ns6%3ASCARLET_CAGE%EF%BC%8A%EF%BC%8AIN_A_DREAM%2E%2E%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\58\ns6%3ASCARLET_CAGE%EF%BC%8A%EF%BC%8AIN_A_DREAM%2E%2E%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 CANDY＊CHAPUS | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@ CANDY＊CHAPUS | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [SCARLET CAGE＊＊IN A DREAM...](./SCARLET_CAGE＊＊IN_A_DREAM....md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
-
-
-
+- [SCARLET CAGE＊＊IN A DREAM...](./SCARLET_CAGE＊＊IN_A_DREAM....md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
 
 ---

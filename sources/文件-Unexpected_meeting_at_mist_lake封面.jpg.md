@@ -1,6 +1,6 @@
 # 文件:Unexpected_meeting_at_mist_lake封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c1\ns6%3AUnexpected_meeting_at_mist_lake%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c1\ns6%3AUnexpected_meeting_at_mist_lake%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 J'_Camilo | 专辑封面 | 封面图片
 
@@ -8,11 +8,11 @@ J'_Camilo | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Unexpected meeting at mist lake](./Unexpected_meeting_at_mist_lake.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)- [九十九弁弁](./九十九弁弁.md)- [九十九八桥](./九十九八桥.md)- [堀川雷鼓](./堀川雷鼓.md)
-
-
-
+- [Unexpected meeting at mist lake](./Unexpected_meeting_at_mist_lake.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
+- [九十九弁弁](./九十九弁弁.md)
+- [九十九八桥](./九十九八桥.md)
+- [堀川雷鼓](./堀川雷鼓.md)
 
 
 ---

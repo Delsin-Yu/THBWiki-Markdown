@@ -1,12 +1,8 @@
 # 文件:あんかけスパ_banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\34\ns6%3A%E3%81%82%E3%82%93%E3%81%8B%E3%81%91%E3%82%B9%E3%83%91_banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\34\ns6%3A%E3%81%82%E3%82%93%E3%81%8B%E3%81%91%E3%82%B9%E3%83%91_banner%2Epng.html -->
 
 あんかけスパ | 社团LOGO
-
-
-
-
 
 
 ---

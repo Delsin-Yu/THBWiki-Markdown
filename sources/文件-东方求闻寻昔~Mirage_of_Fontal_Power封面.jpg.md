@@ -1,6 +1,6 @@
 # 文件:东方求闻寻昔~Mirage_of_Fontal_Power封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a7\ns6%3A%E4%B8%9C%E6%96%B9%E6%B1%82%E9%97%BB%E5%AF%BB%E6%98%94%7EMirage_of_Fontal_Power%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a7\ns6%3A%E4%B8%9C%E6%96%B9%E6%B1%82%E9%97%BB%E5%AF%BB%E6%98%94%7EMirage_of_Fontal_Power%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 东方黑历史复兴委员会 | 同人志封面 | 封面图片 | 永动之龛
 
@@ -8,11 +8,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [东方求闻寻昔~Mirage of Fontal Power](./东方求闻寻昔~Mirage_of_Fontal_Power.md)  
-该封面包含的角色：- [魅魔](./魅魔.md)- [冈崎梦美](./冈崎梦美.md)- [博丽灵梦（旧作角色）](./博丽灵梦（旧作角色）.md)- [神绮](./神绮.md)- [幽香](./幽香.md)
-
-
-
+- [东方求闻寻昔~Mirage of Fontal Power](./东方求闻寻昔~Mirage_of_Fontal_Power.md)该封面包含的角色：
+- [魅魔](./魅魔.md)
+- [冈崎梦美](./冈崎梦美.md)
+- [博丽灵梦（旧作角色）](./博丽灵梦（旧作角色）.md)
+- [神绮](./神绮.md)
+- [幽香](./幽香.md)
 
 
 ---

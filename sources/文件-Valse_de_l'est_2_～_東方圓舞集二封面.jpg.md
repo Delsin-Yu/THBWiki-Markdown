@@ -1,6 +1,6 @@
 # 文件:Valse_de_l'est_2_～_東方圓舞集二封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\89\ns6%3AValse_de_l%27est_2_%EF%BD%9E_%E6%9D%B1%E6%96%B9%E5%9C%93%E8%88%9E%E9%9B%86%E4%BA%8C%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\89\ns6%3AValse_de_l%27est_2_%EF%BD%9E_%E6%9D%B1%E6%96%B9%E5%9C%93%E8%88%9E%E9%9B%86%E4%BA%8C%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ELField | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ ELField | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Valse de l'est 2 ～ 東方圓舞集二](./Valse_de_l'est_2_～_東方圓舞集二.md)  
-该封面包含的角色：- [比那名居天子](./比那名居天子.md)- [灵乌路空](./灵乌路空.md)
-
-
-
+- [Valse de l'est 2 ～ 東方圓舞集二](./Valse_de_l'est_2_～_東方圓舞集二.md)该封面包含的角色：
+- [比那名居天子](./比那名居天子.md)
+- [灵乌路空](./灵乌路空.md)
 
 
 ---

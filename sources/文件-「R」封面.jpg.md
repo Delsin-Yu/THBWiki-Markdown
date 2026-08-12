@@ -1,6 +1,6 @@
 # 文件:「R」封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\49\ns6%3A%E3%80%8CR%E3%80%8D%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\49\ns6%3A%E3%80%8CR%E3%80%8D%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Public_indecency_Ltd. | 专辑封面 | 封面图片
 
@@ -8,12 +8,9 @@ Public_indecency_Ltd. | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [「R」](./「R」.md)  
-该封面包含的角色：- [露米娅](./露米娅.md)源地址：[[1]](http://file.haheho.blog.shinobi.jp/77aacdfa.jpeg)
-
-
-
-
+- [「R」](./「R」.md)该封面包含的角色：
+- [露米娅](./露米娅.md)
+源地址：[\[1\]](http://file.haheho.blog.shinobi.jp/77aacdfa.jpeg)
 
 ---
 

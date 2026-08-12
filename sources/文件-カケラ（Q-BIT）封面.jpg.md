@@ -1,6 +1,6 @@
 # 文件:カケラ（Q-BIT）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6d\ns6%3A%E3%82%AB%E3%82%B1%E3%83%A9%EF%BC%88Q-BIT%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6d\ns6%3A%E3%82%AB%E3%82%B1%E3%83%A9%EF%BC%88Q-BIT%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Q-BIT | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Q-BIT | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [カケラ（Q-BIT）](./カケラ（Q-BIT）.md)  
-该封面包含的角色：- [八云紫](./八云紫.md)
-
-
-
+- [カケラ（Q-BIT）](./カケラ（Q-BIT）.md)该封面包含的角色：
+- [八云紫](./八云紫.md)
 
 
 ---

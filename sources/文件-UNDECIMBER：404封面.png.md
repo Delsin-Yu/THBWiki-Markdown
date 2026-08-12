@@ -1,6 +1,6 @@
 # 文件:UNDECIMBER：404封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\16\ns6%3AUNDECIMBER%EF%BC%9A404%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\16\ns6%3AUNDECIMBER%EF%BC%9A404%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 QUINTET | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ QUINTET | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [UNDECIMBER：404](./UNDECIMBER：404.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [UNDECIMBER：404](./UNDECIMBER：404.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
   
-源地址：[[1]](http://lostcollection.net/img/1K/lcd10.png)
-  
-
-
-
-
+源地址：[\[1\]](http://lostcollection.net/img/1K/lcd10.png)  
 
 ---
 

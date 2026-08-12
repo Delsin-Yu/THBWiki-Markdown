@@ -1,16 +1,12 @@
 # 文件:ssg_19.mid
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0e\ns6%3Assg_19%2Emid.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0e\ns6%3Assg_19%2Emid.html -->
 
 Herselves | 东方幻想的音乐 | 官方MIDI | 秋霜玉
 
   
 ハーセルヴズ 秋霜玉Ending曲。 东方的幻想音乐版，与原秋霜玉版本有出入！
   
-
-
-
-
 
 ---
 

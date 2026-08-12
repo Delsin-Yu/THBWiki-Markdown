@@ -1,6 +1,6 @@
 # 文件:Labyrinth_MIRACLE_杜の奇跡18記念DISC封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cb\ns6%3ALabyrinth_MIRACLE_%E6%9D%9C%E3%81%AE%E5%A5%87%E8%B7%A118%E8%A8%98%E5%BF%B5DISC%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cb\ns6%3ALabyrinth_MIRACLE_%E6%9D%9C%E3%81%AE%E5%A5%87%E8%B7%A118%E8%A8%98%E5%BF%B5DISC%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Golden_City_Factory | 专辑封面 | 封面图片
 
@@ -8,11 +8,10 @@ Golden_City_Factory | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Labyrinth MIRACLE 杜の奇跡18記念DISC](./Labyrinth_MIRACLE_杜の奇跡18記念DISC.md)  
-该封面包含的角色：- [露娜切露德](./露娜切露德.md)- [桑尼米尔克](./桑尼米尔克.md)- [斯塔萨菲雅](./斯塔萨菲雅.md)
-
-
-
+- [Labyrinth MIRACLE 杜の奇跡18記念DISC](./Labyrinth_MIRACLE_杜の奇跡18記念DISC.md)该封面包含的角色：
+- [露娜切露德](./露娜切露德.md)
+- [桑尼米尔克](./桑尼米尔克.md)
+- [斯塔萨菲雅](./斯塔萨菲雅.md)
 
 
 ---

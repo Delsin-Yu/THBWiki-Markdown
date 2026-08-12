@@ -1,6 +1,6 @@
 # 文件:Artifact_Princess封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\87\ns6%3AArtifact_Princess%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\87\ns6%3AArtifact_Princess%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 L-ZONE | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ L-ZONE | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Artifact Princess](./Artifact_Princess.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [Artifact Princess](./Artifact_Princess.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
 
   
-源地址：[[1]](http://img.toranoana.jp/popup_img/04/0030/36/18/040030361834-1p.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://img.toranoana.jp/popup_img/04/0030/36/18/040030361834-1p.jpg)  
 
 ---
 

@@ -1,14 +1,11 @@
 # 文件:公式站msg0.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1f\ns6%3A%E5%85%AC%E5%BC%8F%E7%AB%99msg0%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1f\ns6%3A%E5%85%AC%E5%BC%8F%E7%AB%99msg0%2Egif.html -->
 
 幻乐团官网
 
 
 ## 摘要
-
-
-
 
 ---
 

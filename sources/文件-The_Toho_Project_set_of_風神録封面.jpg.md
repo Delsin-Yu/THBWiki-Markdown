@@ -1,6 +1,6 @@
 # 文件:The_Toho_Project_set_of_風神録封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c7\ns6%3AThe_Toho_Project_set_of_%E9%A2%A8%E7%A5%9E%E9%8C%B2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c7\ns6%3AThe_Toho_Project_set_of_%E9%A2%A8%E7%A5%9E%E9%8C%B2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 自己崩壊性LOGiC
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [The Toho Project set of 風神録](./The_Toho_Project_set_of_風神録.md)  
-该封面包含的角色：- [东风谷早苗](./东风谷早苗.md)
+- [The Toho Project set of 風神録](./The_Toho_Project_set_of_風神録.md)该封面包含的角色：
+- [东风谷早苗](./东风谷早苗.md)
 
   
-源地址：[[1]](https://jicohoukaiseilogic.files.wordpress.com/2016/10/e9a2a8e7a59ee98cb21_1-e1476197576836.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://jicohoukaiseilogic.files.wordpress.com/2016/10/e9a2a8e7a59ee98cb21_1-e1476197576836.jpg)  
 
 ---
 

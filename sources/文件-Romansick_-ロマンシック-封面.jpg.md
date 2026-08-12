@@ -1,6 +1,6 @@
 # 文件:Romansick_-ロマンシック-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7f\ns6%3ARomansick_-%E3%83%AD%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%83%E3%82%AF-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7f\ns6%3ARomansick_-%E3%83%AD%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%83%E3%82%AF-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 魂音泉
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Romansick -ロマンシック-](./Romansick_-ロマンシック-.md)  
-该封面包含的角色：- [西行寺幽幽子](./西行寺幽幽子.md)
-
-
-
+- [Romansick -ロマンシック-](./Romansick_-ロマンシック-.md)该封面包含的角色：
+- [西行寺幽幽子](./西行寺幽幽子.md)
 
 
 ---

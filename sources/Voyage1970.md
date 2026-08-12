@@ -1,36 +1,28 @@
 # Voyage1970
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\bf\ns0%3AVoyage1970.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\bf\ns0%3AVoyage1970.html -->
 
 由 ZUN 创作的官方曲目，原名 ヴォヤージュ1970
 
 本页是关于东方Project  
- **原作音乐** 的词条
-
+**原作音乐**的词条
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 出现作品](#出现作品)
 - [3 音乐文件](#音乐文件)
-
   - [3.1 东方永夜抄](#东方永夜抄)
-
     - [3.1.1 WAV](#WAV)
     - [3.1.2 MIDI](#MIDI)
 
 
 
 
-
-
 - [4 说明文本](#说明文本)
-
   - [4.1 东方永夜抄](#东方永夜抄_2)
 
 
-
 - [5 其他资料](#其他资料)
-
   - [5.1 乐理资讯](#乐理资讯)
   - [5.2 分析考据](#分析考据)
   - [5.3 二次同人数据](#二次同人数据)
@@ -38,22 +30,16 @@
 
 
 
-
-
-
-
 ## 基本信息
 
-<table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">ヴォヤージュ1970</td></tr><tr><td><b>译名</b></td><td>Voyage1970</td></tr><tr><td><b>英文译名</b></td><td>Voyage 1970</td></tr><tr><td><b>其他译名</b></td><td>旅人1970</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>关联</td></tr><tr><td style="padding-left:15px"><b>相关曲</b></td><td><a href="./ヴォヤージュ1969.md" class="mw-redirect" title="ヴォヤージュ1969">ヴォヤージュ1969</a></td></tr><tr><td style="padding-left:15px"><b>　来源</b></td><td>东方永夜抄　～ Imperishable Night.</td></tr></tbody></table>
+<table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">ヴォヤージュ1970</td></tr><tr><td><b>译名</b></td><td>Voyage1970</td></tr><tr><td><b>英文译名</b></td><td>Voyage 1970</td></tr><tr><td><b>其他译名</b></td><td>旅人1970</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>关联</td></tr><tr><td style="padding-left:15px"><b>相关曲</b></td><td><a href="./Voyage1969.md" class="mw-redirect" title="ヴォヤージュ1969">ヴォヤージュ1969</a></td></tr><tr><td style="padding-left:15px"><b>　来源</b></td><td>东方永夜抄　～ Imperishable Night.</td></tr></tbody></table>
 
 Voyage1970（曲目） - 由 ZUN 创作的官方曲目，原名 ヴォヤージュ1970
-
 ## 出现作品
 
 <table>
 <tbody><tr><td>2004年8月15日（Comic Market 66）</td><td><b><a href="./东方永夜抄.md" title="东方永夜抄">东方永夜抄</a></b></td><td>Last Spell的主题曲</td><td style="padding-left:5px;">ヴォヤージュ1970（Voyage1970）</td><td style="padding-left:10px;">作曲：ZUN</td></tr>
 </tbody></table>
-
 
 
 ## 音乐文件
@@ -65,7 +51,6 @@ Voyage1970（曲目） - 由 ZUN 创作的官方曲目，原名 ヴォヤージ�
 WAV版是游戏的原声带。
   
 
-
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td><a href="./文件-th08_13b.mid.md" title="文件:th08 13b.mid">th08_13b.mid</a></td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th08_16.mp3.md" title="文件:th08 16.mp3">th08_16.mp3</a><br><audio src="https://upload.thwiki.cc/c/c6/th08_16.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>BGM\th08_16.wav</td></tr><tr><td><b>BGMForAll</b></td><td><div class="mw-collapsible mw-collapsed">
 <p><b>BGMForAll数据信息</b>
 </p>
@@ -74,50 +59,50 @@ WAV版是游戏的原声带。
 </td></tr></tbody></table>
 
 
-
 #### MIDI
   
 MIDI版由Roland Sound Canvas 88Pro实机录音得到。
   
 
-
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td><a href="./文件-th08_13b.mid.md" title="文件:th08 13b.mid">th08_13b.mid</a></td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th08_16_SC88Pro.mp3.md" title="文件:th08 16 SC88Pro.mp3">th08_16_SC88Pro.mp3</a><br><audio src="https://upload.thwiki.cc/1/15/th08_16_SC88Pro.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>th08_13b.mid</td></tr><tr><td><b>音轨时长</b></td><td>1:29</td></tr></tbody></table>
-
 
 
 ## 说明文本
 
 ### 东方永夜抄
-- Music Room (未找到链接)
+
+- [Music Room](./东方永夜抄-Music.md#Last_Spell_Card)
 
 　Last Spell的主题曲。  
 　只是煽动着焦躁感的曲子。这首音乐给人真正充满了焦躁的感受。  
 　不断重复着非常短的乐段使人本能地焦躁起来。  
 　就是那么不愿意让白天到来呢（笑）。  
 　话说回来，本应焦躁却从不知从何感到一丝怀念，真是不可思议。
-- 里音乐评论 (未找到链接)
+- [里音乐评论](./附带文档-东方永夜抄-Omake.md#里音乐评论)
 
 　16.Voyage1970  
 　　旅人。  
 　　但是人类在旅行。妖怪一直都是看家的，是人类旅行的纪念品。
-
 ## 其他资料
 
 ### 乐理资讯
 
 ### 分析考据
   
- **ヴォヤージュ1970**  Voyage1970
+**ヴォヤージュ1970** Voyage1970
   
 
-- ヴォヤージュ（voyage）
-  - 参见Voyage1969#分析考据 (未找到链接)。
+- ヴォヤージュ（voyage） 
+  - 参见[Voyage1969#分析考据](./Voyage1969.md#分析考据)。
 
-- 1970
-  - 阿波罗13号于1970年发射，但是在发射后发生爆炸，放弃登月。地球的科学家以及工程师们解决了无数的难题终于让宇航员成功返航。
+
+- 1970 
+  - 阿波罗13号于1970年发射，但是在发射后发生爆炸，放弃登月。地球的科学家以及工程师们解决了无数的难题终于让宇航员成功返航。 
     - 自机们解决辉夜的五难题，最终解决异变。
 
-  - 关于阿波罗13号可参见八意永琳的符卡[天咒「Apollo 13」](./天咒「Apollo_13」.md)的[分析考据](./Apollo_13-分析与考据.md)。
+
+  - 关于阿波罗13号可参见八意永琳的符卡[天咒「Apollo 13」](./Apollo_13.md)的[分析考据](./Apollo_13-分析与考据.md)。
+
 
 
 
@@ -133,17 +118,6 @@ MIDI版由Roland Sound Canvas 88Pro实机录音得到。
 <tr><td>Arrange</td><td>210</td></tr>
 <tr><td>Vocal率</td><td>11.76%</td></tr>
 </tbody></table>
-
-
-
-
-  
-  
-
-  
-
-
-
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:棒符「Busy_Rod」（星莲船）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b0\ns6%3A%E6%A3%92%E7%AC%A6%E3%80%8CBusy_Rod%E3%80%8D%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b0\ns6%3A%E6%A3%92%E7%AC%A6%E3%80%8CBusy_Rod%E3%80%8D%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%EF%BC%89%2Epng.html -->
 
 东方星莲船 | 娜兹玲 | 敌机符卡
-
-
-
-
 
 
 ---

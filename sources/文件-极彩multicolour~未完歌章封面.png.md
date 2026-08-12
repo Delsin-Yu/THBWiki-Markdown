@@ -1,6 +1,6 @@
 # 文件:极彩multicolour~未完歌章封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\39\ns6%3A%E6%9E%81%E5%BD%A9multicolour%7E%E6%9C%AA%E5%AE%8C%E6%AD%8C%E7%AB%A0%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\39\ns6%3A%E6%9E%81%E5%BD%A9multicolour%7E%E6%9C%AA%E5%AE%8C%E6%AD%8C%E7%AB%A0%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 The_495th_Complex | 封面图片 | 软件封面
 
@@ -10,11 +10,8 @@ The_495th_Complex | 封面图片 | 软件封面
 使用了本文件作封面图片的作品：
   
 
-- [极彩multicolour~未完歌章](./极彩multicolour~未完歌章.md)  
-该封面包含的角色：- [古明地恋](./古明地恋.md)
-
-
-
+- [极彩multicolour~未完歌章](./极彩multicolour~未完歌章.md)该封面包含的角色：
+- [古明地恋](./古明地恋.md)
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:妖怪破坏者低速（风神录Manual）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9d\ns6%3A%E5%A6%96%E6%80%AA%E7%A0%B4%E5%9D%8F%E8%80%85%E4%BD%8E%E9%80%9F%EF%BC%88%E9%A3%8E%E7%A5%9E%E5%BD%95Manual%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9d\ns6%3A%E5%A6%96%E6%80%AA%E7%A0%B4%E5%9D%8F%E8%80%85%E4%BD%8E%E9%80%9F%EF%BC%88%E9%A3%8E%E7%A5%9E%E5%BD%95Manual%EF%BC%89%2Epng.html -->
 
 Manual配图 | 东方风神录 | 博丽灵梦
-
-
-
-
 
 
 ---

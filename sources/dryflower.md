@@ -1,12 +1,11 @@
 # dryflower
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\9\9d\ns0%3Adryflower.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\9\9d\ns0%3Adryflower.html -->
 
 2010年12月30日 由 activity  发布的EP同人专辑，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人专辑 (未找到链接)** 的词条
-
+**[二次创作同人专辑](./二次创作.md#同人音乐)**的词条
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-dryflower封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/9/9f/dryflower%E5%B0%81%E9%9D%A2.jpg/224px-dryflower%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="183" srcset="https://upload.thwiki.cc/thumb/9/9f/dryflower%E5%B0%81%E9%9D%A2.jpg/336px-dryflower%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/9/9f/dryflower%E5%B0%81%E9%9D%A2.jpg/448px-dryflower%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="600" data-file-height="491"></a><div class="cover-char">角色：<a href="./风见幽香.md" title="风见幽香">风见幽香</a></div></td>
@@ -15,41 +14,34 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://activity.sakura.ne.jp/dryflower.htm">http://activity.sakura.ne.jp/dryflower.htm</a><br><span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span></td></tr></tbody></table>
 
 dryflower（同人专辑，activity，2010） - 2010年12月30日 由 activity  发布的EP同人专辑，分级为 一般向
-
 ## Staff
   
- **Arrangement**   
+**Arrangement**  
 
-<table><tbody><tr><td><a href="./野。.md" class="mw-redirect" title="野。">野。</a></td><td><a href="./activity.md" title="activity">activity</a></td><td>Tr.1-3</td></tr></tbody></table>
-
-  
- **Vocal**   
-
-<table><tbody><tr><td><a href="./野。.md" class="mw-redirect" title="野。">野。</a></td><td><a href="./activity.md" title="activity">activity</a></td><td>Tr.1-3</td></tr></tbody></table>
+<table><tbody><tr><td><a href="./軒下.md" class="mw-redirect" title="野。">野。</a></td><td><a href="./activity.md" title="activity">activity</a></td><td>Tr.1-3</td></tr></tbody></table>
 
   
- **Lyrics**   
+**Vocal**  
 
-<table><tbody><tr><td><a href="./野。.md" class="mw-redirect" title="野。">野。</a></td><td><a href="./activity.md" title="activity">activity</a></td><td>Tr.1-3</td></tr></tbody></table>
+<table><tbody><tr><td><a href="./軒下.md" class="mw-redirect" title="野。">野。</a></td><td><a href="./activity.md" title="activity">activity</a></td><td>Tr.1-3</td></tr></tbody></table>
 
+  
+**Lyrics**  
+
+<table><tbody><tr><td><a href="./軒下.md" class="mw-redirect" title="野。">野。</a></td><td><a href="./activity.md" title="activity">activity</a></td><td>Tr.1-3</td></tr></tbody></table>
 
 Illustration
 : [群雲ダイチ](./群雲ダイチ.md)（[catwalk](./catwalk.md)）
 : 七夕 (未找到链接)（[LSD](./LSD.md)）
 
-
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoRD"><b>01</b></td><td id="ドライフラワー" colspan="2" class="title"><a href="./歌词-ドライフラワー.md" title="歌词:ドライフラワー">ドライフラワー</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=野。&amp;vocal=野。&amp;lyric=野。&amp;ogmusic=フラワリングナイト&amp;fromwiki=dryflower"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:00</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./野。.md" class="mw-redirect" title="野。">野。</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，野。&amp;fromwiki=dryflower"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="./野。.md" class="mw-redirect" title="野。">野。</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=野。&amp;fromwiki=dryflower"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="./野。.md" class="mw-redirect" title="野。">野。</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?lyric=野。&amp;fromwiki=dryflower"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=フラワリングナイト&amp;fromwiki=dryflower"><span></span></a></span><div class="ogmusic"><a href="./フラワリングナイト.md" class="mw-redirect" title="フラワリングナイト">フラワリングナイト</a></div><div class="source"><a href="./东方花映塚_～_Phantasmagoria_of_Flower_View..md" class="mw-redirect" title="东方花映塚 ～ Phantasmagoria of Flower View.">东方花映塚　～ Phantasmagoria of Flower View.</a></div></td></tr>
-<tr><td id="2" class="infoRD"><b>02</b></td><td id="明日の夢が行き着く場所" colspan="2" class="title"><a href="./歌词-明日の夢が行き着く場所.md" title="歌词:明日の夢が行き着く場所">明日の夢が行き着く場所</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=野。&amp;vocal=野。&amp;lyric=野。&amp;ogmusic=彼岸帰航　～ Riverside View&amp;fromwiki=dryflower"><span title="搜索相似同人曲"></span></a></span></td><td class="time">05:30</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./野。.md" class="mw-redirect" title="野。">野。</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，野。&amp;fromwiki=dryflower"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="./野。.md" class="mw-redirect" title="野。">野。</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=野。&amp;fromwiki=dryflower"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="./野。.md" class="mw-redirect" title="野。">野。</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?lyric=野。&amp;fromwiki=dryflower"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=彼岸帰航　～ Riverside View&amp;fromwiki=dryflower"><span></span></a></span><div class="ogmusic"><a href="./彼岸帰航_～_Riverside_View.md" class="mw-redirect" title="彼岸帰航 ～ Riverside View">彼岸帰航　～ Riverside View</a></div><div class="source"><a href="./东方花映塚_～_Phantasmagoria_of_Flower_View..md" class="mw-redirect" title="东方花映塚 ～ Phantasmagoria of Flower View.">东方花映塚　～ Phantasmagoria of Flower View.</a></div></td></tr>
-<tr><td id="3" class="infoRD"><b>03</b></td><td id="密室と栞" colspan="2" class="title"><a href="./歌词-密室と栞.md" title="歌词:密室と栞">密室と栞</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=野。&amp;vocal=野。&amp;lyric=野。&amp;ogmusic=ラクトガール　～ 少女密室&amp;fromwiki=dryflower"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:12</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./野。.md" class="mw-redirect" title="野。">野。</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，野。&amp;fromwiki=dryflower"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="./野。.md" class="mw-redirect" title="野。">野。</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=野。&amp;fromwiki=dryflower"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="./野。.md" class="mw-redirect" title="野。">野。</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?lyric=野。&amp;fromwiki=dryflower"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=ラクトガール　～ 少女密室&amp;fromwiki=dryflower"><span></span></a></span><div class="ogmusic"><a href="./ラクトガール_～_少女密室.md" class="mw-redirect" title="ラクトガール ～ 少女密室">ラクトガール　～ 少女密室</a></div><div class="source"><a href="./东方红魔乡_～_the_Embodiment_of_Scarlet_Devil..md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr></tbody></table>
-
+<table><tbody><tr><td id="1" class="infoRD"><b>01</b></td><td id="ドライフラワー" colspan="2" class="title"><a href="./歌词-ドライフラワー.md" title="歌词:ドライフラワー">ドライフラワー</a></td><td class="time">04:00</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./軒下.md" class="mw-redirect" title="野。">野。</a></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="./軒下.md" class="mw-redirect" title="野。">野。</a></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="./軒下.md" class="mw-redirect" title="野。">野。</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./Flowering_Night.md" class="mw-redirect" title="フラワリングナイト">フラワリングナイト</a></div><div class="source"><a href="./东方花映塚.md" class="mw-redirect" title="东方花映塚 ～ Phantasmagoria of Flower View.">东方花映塚　～ Phantasmagoria of Flower View.</a></div></td></tr>
+<tr><td id="2" class="infoRD"><b>02</b></td><td id="明日の夢が行き着く場所" colspan="2" class="title"><a href="./歌词-明日の夢が行き着く場所.md" title="歌词:明日の夢が行き着く場所">明日の夢が行き着く場所</a></td><td class="time">05:30</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./軒下.md" class="mw-redirect" title="野。">野。</a></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="./軒下.md" class="mw-redirect" title="野。">野。</a></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="./軒下.md" class="mw-redirect" title="野。">野。</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./彼岸归航_～_Riverside_View.md" class="mw-redirect" title="彼岸帰航 ～ Riverside View">彼岸帰航　～ Riverside View</a></div><div class="source"><a href="./东方花映塚.md" class="mw-redirect" title="东方花映塚 ～ Phantasmagoria of Flower View.">东方花映塚　～ Phantasmagoria of Flower View.</a></div></td></tr>
+<tr><td id="3" class="infoRD"><b>03</b></td><td id="密室と栞" colspan="2" class="title"><a href="./歌词-密室と栞.md" title="歌词:密室と栞">密室と栞</a></td><td class="time">04:12</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./軒下.md" class="mw-redirect" title="野。">野。</a></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="./軒下.md" class="mw-redirect" title="野。">野。</a></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="./軒下.md" class="mw-redirect" title="野。">野。</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./Locked_Girl_～_少女密室.md" class="mw-redirect" title="ラクトガール ～ 少女密室">ラクトガール　～ 少女密室</a></div><div class="source"><a href="./东方红魔乡.md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr></tbody></table>
 
 
 ## 评论
-
-
-
 
 ---
 

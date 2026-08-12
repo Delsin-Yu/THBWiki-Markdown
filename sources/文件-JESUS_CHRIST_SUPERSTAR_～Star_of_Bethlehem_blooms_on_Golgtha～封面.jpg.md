@@ -1,6 +1,6 @@
 # 文件:JESUS_CHRIST_SUPERSTAR_～Star_of_Bethlehem_blooms_on_Golgtha～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f8\ns6%3AJESUS_CHRIST_SUPERSTAR_%EF%BD%9EStar_of_Bethlehem_blooms_on_Golgtha%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f8\ns6%3AJESUS_CHRIST_SUPERSTAR_%EF%BD%9EStar_of_Bethlehem_blooms_on_Golgtha%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 小豆粥
 
@@ -8,16 +8,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [JESUS CHRIST SUPERSTAR ～Star of Bethlehem blooms on Golgtha～](./JESUS_CHRIST_SUPERSTAR_～Star_of_Bethlehem_blooms_on_Golgtha～.md)  
-该封面包含的角色：- [八云蓝](./八云蓝.md)- [八云紫](./八云紫.md)
+- [JESUS CHRIST SUPERSTAR ～Star of Bethlehem blooms on Golgtha～](./JESUS_CHRIST_SUPERSTAR_～Star_of_Bethlehem_blooms_on_Golgtha～.md)该封面包含的角色：
+- [八云蓝](./八云蓝.md)
+- [八云紫](./八云紫.md)
 
   
-源地址：[[1]](https://blog-imgs-27.fc2.com/a/z/u/azukiosamitu/Jesuschristsuperstarhyoushi.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://blog-imgs-27.fc2.com/a/z/u/azukiosamitu/Jesuschristsuperstarhyoushi.jpg)  
 
 ---
 

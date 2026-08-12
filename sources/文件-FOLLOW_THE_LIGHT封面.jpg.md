@@ -1,6 +1,6 @@
 # 文件:FOLLOW_THE_LIGHT封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d8\ns6%3AFOLLOW_THE_LIGHT%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d8\ns6%3AFOLLOW_THE_LIGHT%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Eight-Million | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Eight-Million | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [FOLLOW THE LIGHT](./FOLLOW_THE_LIGHT.md)  
-该封面包含的角色：- [东风谷早苗](./东风谷早苗.md)
-
-
-
+- [FOLLOW THE LIGHT](./FOLLOW_THE_LIGHT.md)该封面包含的角色：
+- [东风谷早苗](./东风谷早苗.md)
 
 
 ---

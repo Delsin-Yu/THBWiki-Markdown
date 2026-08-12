@@ -1,16 +1,12 @@
 # 模板:COMIC_SDF
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\1\12\ns10%3ACOMIC_SDF.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\1\12\ns10%3ACOMIC_SDF.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

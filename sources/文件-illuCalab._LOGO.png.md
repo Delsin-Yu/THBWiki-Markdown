@@ -1,12 +1,8 @@
 # 文件:illuCalab._LOGO.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\37\ns6%3AilluCalab%2E_LOGO%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\37\ns6%3AilluCalab%2E_LOGO%2Epng.html -->
 
 illuCalab | 社团LOGO
-
-
-
-
 
 
 ---

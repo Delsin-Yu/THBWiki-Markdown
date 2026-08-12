@@ -1,33 +1,28 @@
 # Violet_Fraction
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\e\e6\ns0%3AViolet_Fraction.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\e\e6\ns0%3AViolet_Fraction.html -->
 
 2018年10月14日 由 TsuBaKi 于 博丽神社秋季例大祭5 发布的摄影集同人志，A4尺寸一共55页，登场人物有 铃仙·优昙华院·因幡，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人志 (未找到链接)** 的词条
-
+**[二次创作同人志](./二次创作.md#同人志)**的词条
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Violet_Fraction封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/a/a1/Violet_Fraction%E5%B0%81%E9%9D%A2.jpg/222px-Violet_Fraction%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="222" height="224" srcset="https://upload.thwiki.cc/thumb/a/a1/Violet_Fraction%E5%B0%81%E9%9D%A2.jpg/333px-Violet_Fraction%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/a/a1/Violet_Fraction%E5%B0%81%E9%9D%A2.jpg/444px-Violet_Fraction%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1190" data-file-height="1200"></a><div class="cover-char">角色：<a href="./铃仙·优昙华院·因幡.md" title="铃仙·优昙华院·因幡">铃仙·优昙华院·因幡</a></div></td>
 </tr><tr><td class="label">名称</td><td colspan="2"> Violet Fraction </td></tr><tr><td class="label">制作方</td><td><a href="./TsuBaKi.md" title="TsuBaKi">TsuBaKi</a></td><td class="cover-artwork" rowspan="8" style="min-width:224px;"><a href="./文件-Violet_Fraction封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/a/a1/Violet_Fraction%E5%B0%81%E9%9D%A2.jpg/222px-Violet_Fraction%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="222" height="224" srcset="https://upload.thwiki.cc/thumb/a/a1/Violet_Fraction%E5%B0%81%E9%9D%A2.jpg/333px-Violet_Fraction%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/a/a1/Violet_Fraction%E5%B0%81%E9%9D%A2.jpg/444px-Violet_Fraction%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1190" data-file-height="1200"></a><div class="cover-char">角色：<a href="./铃仙·优昙华院·因幡.md" title="铃仙·优昙华院·因幡">铃仙·优昙华院·因幡</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2018-10-14&#160;（<a href="/展会作品列表?e=%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E7%A7%8B%E5%AD%A3%E4%BE%8B%E5%A4%A7%E7%A5%AD%235">第五回 博麗神社秋季例大祭</a>）</td></tr><tr><td class="label">类型</td><td>摄影集</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>A4</td></tr><tr><td class="label">页数</td><td>55P</td></tr><tr><td class="label">登场人物</td><td><a href="./铃仙·优昙华院·因幡.md" title="铃仙·优昙华院·因幡">铃仙·优昙华院·因幡</a></td></tr><tr><td class="label">售价</td><td>1000日元</td></tr>
+</tr><tr><td class="label">首发日期</td><td>2018-10-14 （<a href="./展会作品列表.md#5">第五回 博麗神社秋季例大祭</a>）</td></tr><tr><td class="label">类型</td><td>摄影集</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>A4</td></tr><tr><td class="label">页数</td><td>55P</td></tr><tr><td class="label">登场人物</td><td><a href="./铃仙·优昙华院·因幡.md" title="铃仙·优昙华院·因幡">铃仙·优昙华院·因幡</a></td></tr><tr><td class="label">售价</td><td>1000日元</td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/hl_napoleon/status/1049288679217278977">https://twitter.com/hl_napoleon/status/1049288679217278977</a></td></tr></tbody></table>
 
 Violet Fraction（同人志，TsuBaKi，2018） - 2018年10月14日 由 TsuBaKi 于 博丽神社秋季例大祭5 发布的摄影集同人志，A4尺寸一共55页，登场人物有 铃仙·优昙华院·因幡，分级为 一般向
-
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://tsubakinapoleon.booth.pm/items/1059823">Booth</a></td></tr></tbody></table>
 
 
-
 ## Staff
+
 - [N-apoleon](./N-apoleon.md)
 
 
 ## 评论
-
-
-
 
 ---
 

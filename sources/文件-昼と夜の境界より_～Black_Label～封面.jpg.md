@@ -1,6 +1,6 @@
 # 文件:昼と夜の境界より_～Black_Label～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\78\ns6%3A%E6%98%BC%E3%81%A8%E5%A4%9C%E3%81%AE%E5%A2%83%E7%95%8C%E3%82%88%E3%82%8A_%EF%BD%9EBlack_Label%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\78\ns6%3A%E6%98%BC%E3%81%A8%E5%A4%9C%E3%81%AE%E5%A2%83%E7%95%8C%E3%82%88%E3%82%8A_%EF%BD%9EBlack_Label%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Negative-Positive_Thinking | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Negative-Positive_Thinking | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [昼と夜の境界より ～Black Label～](./昼と夜の境界より_～Black_Label～.md)  
-该封面包含的角色：- [八云紫](./八云紫.md)
-
-
-
+- [昼と夜の境界より ～Black Label～](./昼と夜の境界より_～Black_Label～.md)该封面包含的角色：
+- [八云紫](./八云紫.md)
 
 
 ---

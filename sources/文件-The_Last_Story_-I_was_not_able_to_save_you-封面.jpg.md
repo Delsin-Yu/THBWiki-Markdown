@@ -1,6 +1,6 @@
 # 文件:The_Last_Story_-I_was_not_able_to_save_you-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6b\ns6%3AThe_Last_Story_-I_was_not_able_to_save_you-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6b\ns6%3AThe_Last_Story_-I_was_not_able_to_save_you-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 BeζUMa_The_さうんど | 专辑封面 | 封面图片
 
@@ -10,16 +10,13 @@ BeζUMa_The_さうんど | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [The Last Story -I was not able to save you-](./The_Last_Story_-I_was_not_able_to_save_you-.md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)- [西行寺幽幽子](./西行寺幽幽子.md)- 原创角色 (未找到链接)
+- [The Last Story -I was not able to save you-](./The_Last_Story_-I_was_not_able_to_save_you-.md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
+- [西行寺幽幽子](./西行寺幽幽子.md)
+- 原创角色 (未找到链接)
 
   
-源地址：[direct image link](http://karitu.web.fc2.com/event_image/th/04_Reitai8/th_reitai8.jpg), [source page](http://karitu.web.fc2.com/page_event_th.html)
-  
-
-
-
-
+源地址：[direct image link](http://karitu.web.fc2.com/event_image/th/04_Reitai8/th_reitai8.jpg), [source page](http://karitu.web.fc2.com/page_event_th.html)  
 
 ---
 

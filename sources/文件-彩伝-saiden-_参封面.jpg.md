@@ -1,6 +1,6 @@
 # 文件:彩伝-saiden-_参封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0c\ns6%3A%E5%BD%A9%E4%BC%9D-saiden-_%E5%8F%82%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0c\ns6%3A%E5%BD%A9%E4%BC%9D-saiden-_%E5%8F%82%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 東方彩上智
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [彩伝-saiden- 参](./彩伝-saiden-_参.md)  
-该封面包含的角色：- [八坂神奈子](./八坂神奈子.md)
-
-
-
+- [彩伝-saiden- 参](./彩伝-saiden-_参.md)该封面包含的角色：
+- [八坂神奈子](./八坂神奈子.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:卡祖妖妖梦~kazoo_yo-yo-_dream封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4b\ns6%3A%E5%8D%A1%E7%A5%96%E5%A6%96%E5%A6%96%E6%A2%A6%7Ekazoo_yo-yo-_dream%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4b\ns6%3A%E5%8D%A1%E7%A5%96%E5%A6%96%E5%A6%96%E6%A2%A6%7Ekazoo_yo-yo-_dream%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 萌萌哒的韭菜盒子
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [卡祖妖妖梦~kazoo yo-yo- dream](./卡祖妖妖梦~kazoo_yo-yo-_dream.md)  
-该封面包含的角色：- [八云紫](./八云紫.md)
-
-
-
+- [卡祖妖妖梦~kazoo yo-yo- dream](./卡祖妖妖梦~kazoo_yo-yo-_dream.md)该封面包含的角色：
+- [八云紫](./八云紫.md)
 
 
 ---

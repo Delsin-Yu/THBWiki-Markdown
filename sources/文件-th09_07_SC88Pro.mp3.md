@@ -1,12 +1,8 @@
 # 文件:th09_07_SC88Pro.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a9\ns6%3Ath09_07_SC88Pro%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a9\ns6%3Ath09_07_SC88Pro%2Emp3.html -->
 
 东方花映塚 | 已经只能听见歌声了_～_Flower_Mix
-
-
-
-
 
 
 ---

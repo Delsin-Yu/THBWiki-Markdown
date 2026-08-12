@@ -1,16 +1,12 @@
 # 文件:liquid_lime-lightbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\50\ns6%3Aliquid_lime-lightbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\50\ns6%3Aliquid_lime-lightbanner%2Ejpg.html -->
 
 liquid_lime-light | 社团LOGO
 
   
-源地址：[[1]](http://liquidlimelight.web.fc2.com/banner.jpg) (rotated from original)
+源地址：[\[1\]](http://liquidlimelight.web.fc2.com/banner.jpg) (rotated from original)
   
-
-
-
-
 
 ---
 

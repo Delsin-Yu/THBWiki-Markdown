@@ -1,14 +1,11 @@
 # 文件:东方DungeonDive图标.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6e\ns6%3A%E4%B8%9C%E6%96%B9DungeonDive%E5%9B%BE%E6%A0%87%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6e\ns6%3A%E4%B8%9C%E6%96%B9DungeonDive%E5%9B%BE%E6%A0%87%2Epng.html -->
 
 东方DungeonDive | 授权商业二次创作手机游戏
 
 
 ## 摘要
-
-
-
 
 ---
 

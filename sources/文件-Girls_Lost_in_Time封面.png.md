@@ -1,6 +1,6 @@
 # 文件:Girls_Lost_in_Time封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dc\ns6%3AGirls_Lost_in_Time%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dc\ns6%3AGirls_Lost_in_Time%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Loli-Hunter_Music | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ Loli-Hunter_Music | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Girls Lost in Time](./Girls_Lost_in_Time.md)  
-该封面包含的角色：- [魅魔](./魅魔.md)- [雾雨魔理沙（旧作角色）](./雾雨魔理沙（旧作角色）.md)
-
-
-
+- [Girls Lost in Time](./Girls_Lost_in_Time.md)该封面包含的角色：
+- [魅魔](./魅魔.md)
+- [雾雨魔理沙（旧作角色）](./雾雨魔理沙（旧作角色）.md)
 
 
 ---

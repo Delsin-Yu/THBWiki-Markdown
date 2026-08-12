@@ -1,18 +1,13 @@
 # 文件:amyuccabanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5b\ns6%3Aamyuccabanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5b\ns6%3Aamyuccabanner%2Egif.html -->
 
 amyucca | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[direct image link](http://jam0v0.soragoto.net/banner.gif), [source page](http://jam0v0.soragoto.net/about.html)
-  
-
-
-
-
+源地址：[direct image link](http://jam0v0.soragoto.net/banner.gif), [source page](http://jam0v0.soragoto.net/about.html)  
 
 ---
 

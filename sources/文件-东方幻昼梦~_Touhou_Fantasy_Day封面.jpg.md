@@ -1,6 +1,6 @@
 # 文件:东方幻昼梦~_Touhou_Fantasy_Day封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a3\ns6%3A%E4%B8%9C%E6%96%B9%E5%B9%BB%E6%98%BC%E6%A2%A6%7E_Touhou_Fantasy_Day%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a3\ns6%3A%E4%B8%9C%E6%96%B9%E5%B9%BB%E6%98%BC%E6%A2%A6%7E_Touhou_Fantasy_Day%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Abudory | 封面图片 | 软件封面
 
@@ -10,11 +10,8 @@ Abudory | 封面图片 | 软件封面
 使用了本文件作封面图片的作品：
   
 
-- [东方幻昼梦~ Touhou Fantasy Day](./东方幻昼梦~_Touhou_Fantasy_Day.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [东方幻昼梦~ Touhou Fantasy Day](./东方幻昼梦~_Touhou_Fantasy_Day.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

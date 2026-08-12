@@ -1,14 +1,11 @@
 # 文件:弹符「Rabbit_Shooting」（兽王园）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c8\ns6%3A%E5%BC%B9%E7%AC%A6%E3%80%8CRabbit_Shooting%E3%80%8D%EF%BC%88%E5%85%BD%E7%8E%8B%E5%9B%AD%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c8\ns6%3A%E5%BC%B9%E7%AC%A6%E3%80%8CRabbit_Shooting%E3%80%8D%EF%BC%88%E5%85%BD%E7%8E%8B%E5%9B%AD%EF%BC%89%2Epng.html -->
 
 东方兽王园 | 清兰 | 自机符卡
 
 
 ## 摘要
-
-
-
 
 ---
 

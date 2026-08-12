@@ -1,16 +1,11 @@
 # 文件:MICMNISbanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\12\ns6%3AMICMNISbanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\12\ns6%3AMICMNISbanner%2Egif.html -->
 
 MICMNIS | 社团LOGO
 
   
-源地址：[[1]](http://micmnis.net/wp-content/uploads/2015/04/banner.gif)
-  
-
-
-
-
+源地址：[\[1\]](http://micmnis.net/wp-content/uploads/2015/04/banner.gif)  
 
 ---
 

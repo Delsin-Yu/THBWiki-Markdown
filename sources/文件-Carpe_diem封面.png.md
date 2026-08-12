@@ -1,6 +1,6 @@
 # 文件:Carpe_diem封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5e\ns6%3ACarpe_diem%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5e\ns6%3ACarpe_diem%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 歌恋人
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Carpe diem](./Carpe_diem.md)  
-该封面包含的角色：- [藤原妹红](./藤原妹红.md)
-
-
-
+- [Carpe diem](./Carpe_diem.md)该封面包含的角色：
+- [藤原妹红](./藤原妹红.md)
 
 
 ---

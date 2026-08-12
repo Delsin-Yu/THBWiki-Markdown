@@ -1,12 +1,8 @@
 # 文件:魔符「Artful_Sacrifice」（萃梦想）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1d\ns6%3A%E9%AD%94%E7%AC%A6%E3%80%8CArtful_Sacrifice%E3%80%8D%EF%BC%88%E8%90%83%E6%A2%A6%E6%83%B3%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1d\ns6%3A%E9%AD%94%E7%AC%A6%E3%80%8CArtful_Sacrifice%E3%80%8D%EF%BC%88%E8%90%83%E6%A2%A6%E6%83%B3%EF%BC%89%2Ejpg.html -->
 
 东方萃梦想 | 爱丽丝·玛格特洛依德 | 自机符卡
-
-
-
-
 
 
 ---

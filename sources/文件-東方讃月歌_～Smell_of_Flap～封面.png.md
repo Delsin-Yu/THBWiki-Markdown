@@ -1,6 +1,6 @@
 # 文件:東方讃月歌_～Smell_of_Flap～封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fb\ns6%3A%E6%9D%B1%E6%96%B9%E8%AE%83%E6%9C%88%E6%AD%8C_%EF%BD%9ESmell_of_Flap%EF%BD%9E%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fb\ns6%3A%E6%9D%B1%E6%96%B9%E8%AE%83%E6%9C%88%E6%AD%8C_%EF%BD%9ESmell_of_Flap%EF%BD%9E%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 いえろ～ぜぶら | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方讃月歌 ～Smell of Flap～](./東方讃月歌_～Smell_of_Flap～.md)  
-该封面包含的角色：- [橙](./橙.md)
-
-
-
+- [東方讃月歌 ～Smell of Flap～](./東方讃月歌_～Smell_of_Flap～.md)该封面包含的角色：
+- [橙](./橙.md)
 
 
 ---

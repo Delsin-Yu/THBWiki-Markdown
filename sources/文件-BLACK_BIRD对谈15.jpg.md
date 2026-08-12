@@ -1,12 +1,8 @@
 # 文件:BLACK_BIRD对谈15.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f7\ns6%3ABLACK_BIRD%E5%AF%B9%E8%B0%8815%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f7\ns6%3ABLACK_BIRD%E5%AF%B9%E8%B0%8815%2Ejpg.html -->
 
 BLACK_BIRD对谈 | ZUN | 木村祥朗
-
-
-
-
 
 
 ---

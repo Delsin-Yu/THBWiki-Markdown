@@ -1,14 +1,11 @@
 # 文件:海苔堂banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\39\ns6%3A%E6%B5%B7%E8%8B%94%E5%A0%82banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\39\ns6%3A%E6%B5%B7%E8%8B%94%E5%A0%82banner%2Ejpg.html -->
 
 海苔堂 | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

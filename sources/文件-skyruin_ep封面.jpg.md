@@ -1,6 +1,6 @@
 # 文件:skyruin_ep封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f1\ns6%3Askyruin_ep%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f1\ns6%3Askyruin_ep%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 last_little_while | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ last_little_while | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [skyruin ep](./skyruin_ep.md)  
-该封面包含的角色：- [云居一轮](./云居一轮.md)
+- [skyruin ep](./skyruin_ep.md)该封面包含的角色：
+- [云居一轮](./云居一轮.md)
 
   
-源地址：[[1]](https://secure.static.tumblr.com/5b44fc57ca4889243a2a4c61ccd361f2/rlsd5dr/3wfoiq43l/tumblr_static_4l0ztbqh9vy8gow8sskocoksg.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://secure.static.tumblr.com/5b44fc57ca4889243a2a4c61ccd361f2/rlsd5dr/3wfoiq43l/tumblr_static_4l0ztbqh9vy8gow8sskocoksg.jpg)  
 
 ---
 

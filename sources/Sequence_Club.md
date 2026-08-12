@@ -1,11 +1,10 @@
 # Sequence_Club
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\a\a0\ns0%3ASequence_Club.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\a\a0\ns0%3ASequence_Club.html -->
 
 Sequence Club ，于 2008 年成立，主要制作 同人音乐 的日本同人社团，主催是 Inami，当前状态为 活动
 
-本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
-
+本页是关于**[同人社团](./二次创作.md#同人社团)**的词条
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -14,54 +13,30 @@ Sequence Club ，于 2008 年成立，主要制作 同人音乐 的日本同人�
 - [4 其他信息](#其他信息)
 
 
-
-
-
 ## 社团信息
-文件:Sequence Clubbanner.jpg (未找到链接)  banner
-
-<table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Sequence Club </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2008</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=Inami&amp;action=edit&amp;redlink=1" class="new" title="Inami（页面不存在）">Inami</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://sequenceclub.dou-jin.com/">http://sequenceclub.dou-jin.com/</a> </td></tr></tbody></table>
+文件:Sequence Clubbanner.jpg (未找到链接) banner
+<table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Sequence Club </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2008</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a class="new" title="Inami（页面不存在）">Inami</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://sequenceclub.dou-jin.com/">http://sequenceclub.dou-jin.com/</a> </td></tr></tbody></table>
 
 Sequence Club（同人社团，同人音乐社团） - Sequence Club ，于 2008 年成立，主要制作 同人音乐 的日本同人社团，主催是 Inami，当前状态为 活动
-
 ## 成员名单
+
 - Inami (未找到链接)
 - mmpp (未找到链接)
 
 
 ## 作品列表
-[](./MIXTURE（同人专辑）.md)[MIXTURE](./MIXTURE（同人专辑）.md)首发日期：2009-03-08 （第六回 博麗神社例大祭 (未找到链接)）全长 （一般向）[](./Experience（Sequence_Club）.md)[Experience](./Experience（Sequence_Club）.md)首发日期：2010-03-14 （第七回 博麗神社例大祭 (未找到链接)）SCCD-0001全长 （一般向）[](./Reckless.md)[Reckless](./Reckless.md)首发日期：2010-08-14 （Comic Market 78 (未找到链接)）SCCD-0002全长 （一般向）[](./Out_Of_The_Blue.md)[Out Of The Blue](./Out_Of_The_Blue.md)首发日期：2010-12-30 （Comic Market 79 (未找到链接)）SCCD-0003全长 （一般向）[](./Experience_-Act.2-.md)[Experience -Act.2-](./Experience_-Act.2-.md)首发日期：2011-08-13 （Comic Market 80 (未找到链接)）SCCD-0004全长 （一般向）[](./Restructuring_Sequence.md)[Restructuring Sequence](./Restructuring_Sequence.md)首发日期：2011-09-11 （博麗神社例大祭SP2 (未找到链接)）SCCD-0005混音集 （一般向）[](./Star_maelstrom（同人专辑）.md)[Star maelstrom](./Star_maelstrom（同人专辑）.md)首发日期：2013-12-30 （Comic Market 85 (未找到链接)）SCCD-0007EP （一般向）[](./Experience_-Act.3.md)[Experience -Act.3](./Experience_-Act.3.md)首发日期：2015-12-30 （Comic Market 89 (未找到链接)）SCCD-0008全长 （一般向）Sleeping Forest 封面图片 (未找到链接)[Sleeping Forest](./Sleeping_Forest.md)首发日期：2016-05-08 （第十三回 博麗神社例大祭 (未找到链接)）SCCD-0009EP （一般向）[](./CAERULA.md)[CAERULA](./CAERULA.md)首发日期：2016-08-13 （Comic Market 90 (未找到链接)）SCCD-0010全长 （一般向）
-<table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
-
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
-
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
-
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
-
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
-
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
-
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
-
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
-
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
-
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
-</table>
-
-
+- **[MIXTURE](./MIXTURE（同人专辑）.md)** — 首发日期：2009-03-08 （第六回 博麗神社例大祭）；全长 （一般向）
+- **[Experience](./Experience（Sequence_Club）.md)** — 首发日期：2010-03-14 （第七回 博麗神社例大祭）；SCCD-0001；全长 （一般向）
+- **[Reckless](./Reckless.md)** — 首发日期：2010-08-14 （Comic Market 78）；SCCD-0002；全长 （一般向）
+- **[Out Of The Blue](./Out_Of_The_Blue.md)** — 首发日期：2010-12-30 （Comic Market 79）；SCCD-0003；全长 （一般向）
+- **[Experience -Act.2-](./Experience_-Act.2-.md)** — 首发日期：2011-08-13 （Comic Market 80）；SCCD-0004；全长 （一般向）
+- **[Restructuring Sequence](./Restructuring_Sequence.md)** — 首发日期：2011-09-11 （博麗神社例大祭SP2）；SCCD-0005；混音集 （一般向）
+- **[Star maelstrom](./Star_maelstrom（同人专辑）.md)** — 首发日期：2013-12-30 （Comic Market 85）；SCCD-0007；EP （一般向）
+- **[Experience -Act.3](./Experience_-Act.3.md)** — 首发日期：2015-12-30 （Comic Market 89）；SCCD-0008；全长 （一般向）
+- **[Sleeping Forest](./Sleeping_Forest.md)** — 首发日期：2016-05-08 （第十三回 博麗神社例大祭）；SCCD-0009；EP （一般向）
+- **[CAERULA](./CAERULA.md)** — 首发日期：2016-08-13 （Comic Market 90）；SCCD-0010；全长 （一般向）
 
 ## 其他信息
-  
-  
-
-
-
-
-
 
 ---
 

@@ -1,17 +1,12 @@
 # 文件:じゃねっと亭banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c4\ns6%3A%E3%81%98%E3%82%83%E3%81%AD%E3%81%A3%E3%81%A8%E4%BA%ADbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c4\ns6%3A%E3%81%98%E3%82%83%E3%81%AD%E3%81%A3%E3%81%A8%E4%BA%ADbanner%2Ejpg.html -->
 
 じゃねっと亭 | 社团LOGO
 
   
 <img src="http://janet.xxxxxxxx.jp/img/banner/janet_banner.jpg" alt="janet_banner.jpg">
-
   
-
-
-
-
 
 ---
 

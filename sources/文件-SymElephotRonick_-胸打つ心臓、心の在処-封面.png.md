@@ -1,6 +1,6 @@
 # 文件:SymElephotRonick_-胸打つ心臓、心の在処-封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1c\ns6%3ASymElephotRonick_-%E8%83%B8%E6%89%93%E3%81%A4%E5%BF%83%E8%87%93%E3%80%81%E5%BF%83%E3%81%AE%E5%9C%A8%E5%87%A6-%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1c\ns6%3ASymElephotRonick_-%E8%83%B8%E6%89%93%E3%81%A4%E5%BF%83%E8%87%93%E3%80%81%E5%BF%83%E3%81%AE%E5%9C%A8%E5%87%A6-%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 WKG_Tupper_Records | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ WKG_Tupper_Records | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [SymElephotRonick -胸打つ心臓、心の在処-](./SymElephotRonick_-胸打つ心臓、心の在処-.md)  
-该封面包含的角色：- [纯狐](./纯狐.md)
-
-
-
+- [SymElephotRonick -胸打つ心臓、心の在処-](./SymElephotRonick_-胸打つ心臓、心の在処-.md)该封面包含的角色：
+- [纯狐](./纯狐.md)
 
 
 ---

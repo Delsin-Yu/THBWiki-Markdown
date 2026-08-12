@@ -1,6 +1,6 @@
 # 文件:In_the_Court_of_the_Crimson_Queen封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cd\ns6%3AIn_the_Court_of_the_Crimson_Queen%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cd\ns6%3AIn_the_Court_of_the_Crimson_Queen%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 wujiu～うーじう～ | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ wujiu～うーじう～ | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [In the Court of the Crimson Queen](./In_the_Court_of_the_Crimson_Queen.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [In the Court of the Crimson Queen](./In_the_Court_of_the_Crimson_Queen.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
   
-源地址：[[1]](https://cdn.melonbooks.co.jp/user_data/packages/resize_image.php?image=213001016002.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://cdn.melonbooks.co.jp/user_data/packages/resize_image.php?image=213001016002.jpg)  
 
 ---
 

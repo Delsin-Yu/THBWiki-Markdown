@@ -1,14 +1,11 @@
 # 文件:最果て空間banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\61\ns6%3A%E6%9C%80%E6%9E%9C%E3%81%A6%E7%A9%BA%E9%96%93banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\61\ns6%3A%E6%9C%80%E6%9E%9C%E3%81%A6%E7%A9%BA%E9%96%93banner%2Ejpg.html -->
 
 最果て空間 | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

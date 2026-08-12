@@ -1,6 +1,6 @@
 # 文件:WEIRD_ADORABLE_WAVE封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2d\ns6%3AWEIRD_ADORABLE_WAVE%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2d\ns6%3AWEIRD_ADORABLE_WAVE%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 OG-G_Music_Works | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ OG-G_Music_Works | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [WEIRD ADORABLE WAVE](./WEIRD_ADORABLE_WAVE.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [WEIRD ADORABLE WAVE](./WEIRD_ADORABLE_WAVE.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

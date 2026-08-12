@@ -1,6 +1,6 @@
 # 文件:四面楚歌（Liveliest_Wind）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d4\ns6%3A%E5%9B%9B%E9%9D%A2%E6%A5%9A%E6%AD%8C%EF%BC%88Liveliest_Wind%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d4\ns6%3A%E5%9B%9B%E9%9D%A2%E6%A5%9A%E6%AD%8C%EF%BC%88Liveliest_Wind%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Liveliest_Wind | 专辑封面 | 封面图片
 
@@ -10,11 +10,11 @@ Liveliest_Wind | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [四面楚歌（Liveliest Wind）](./四面楚歌（Liveliest_Wind）.md)  
-该封面包含的角色：- [犬走椛](./犬走椛.md)- [稀神探女](./稀神探女.md)- [矢田寺成美](./矢田寺成美.md)- [吉吊八千慧](./吉吊八千慧.md)
-
-
-
+- [四面楚歌（Liveliest Wind）](./四面楚歌（Liveliest_Wind）.md)该封面包含的角色：
+- [犬走椛](./犬走椛.md)
+- [稀神探女](./稀神探女.md)
+- [矢田寺成美](./矢田寺成美.md)
+- [吉吊八千慧](./吉吊八千慧.md)
 
 
 ---

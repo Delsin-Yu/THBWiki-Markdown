@@ -1,14 +1,11 @@
 # 文件:意思は儚き雨の調べにbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\85\ns6%3A%E6%84%8F%E6%80%9D%E3%81%AF%E5%84%9A%E3%81%8D%E9%9B%A8%E3%81%AE%E8%AA%BF%E3%81%B9%E3%81%ABbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\85\ns6%3A%E6%84%8F%E6%80%9D%E3%81%AF%E5%84%9A%E3%81%8D%E9%9B%A8%E3%81%AE%E8%AA%BF%E3%81%B9%E3%81%ABbanner%2Ejpg.html -->
 
 意思は儚き雨の調べに | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

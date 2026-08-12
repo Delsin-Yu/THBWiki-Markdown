@@ -1,63 +1,48 @@
 # 結界幻想録_鏡_～_mythical_mirror/符卡/Stage_5
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\d\d5\ns0%3A%E7%B5%90%E7%95%8C%E5%B9%BB%E6%83%B3%E9%8C%B2_%E9%8F%A1_%EF%BD%9E_mythical_mirror%2F%E7%AC%A6%E5%8D%A1%2FStage_5.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\d\d5\ns0%3A%E7%B5%90%E7%95%8C%E5%B9%BB%E6%83%B3%E9%8C%B2_%E9%8F%A1_%EF%BD%9E_mythical_mirror%2F%E7%AC%A6%E5%8D%A1%2FStage_5.html -->
 
 DANGOYA | Danmaq | 含有受损文件链接的页面
 
 <center>
-
 <table>
 <tbody><tr>
-<td>&lt;
+<td><
 </td>
-<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./結界幻想録_鏡_～_mythical_mirror-符卡-Stage_4.md" title="結界幻想録 鏡 ～ mythical mirror/符卡/Stage 4">Stage 4</a>&#160;
+<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./結界幻想録_鏡_～_mythical_mirror-符卡-Stage_4.md" title="結界幻想録 鏡 ～ mythical mirror/符卡/Stage 4">Stage 4</a> 
 </td>
-<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="./結界幻想録_鏡_～_mythical_mirror-符卡.md" title="結界幻想録 鏡 ～ mythical mirror/符卡">符卡</a>&#160;
+<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;"> <a href="./結界幻想録_鏡_～_mythical_mirror-符卡.md" title="結界幻想録 鏡 ～ mythical mirror/符卡">符卡</a> 
 </td>
-<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left">&#160;<a href="./結界幻想録_鏡_～_mythical_mirror-符卡-Stage_6.md" title="結界幻想録 鏡 ～ mythical mirror/符卡/Stage 6">Stage 6</a>
+<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left"> <a href="./結界幻想録_鏡_～_mythical_mirror-符卡-Stage_6.md" title="結界幻想録 鏡 ～ mythical mirror/符卡/Stage 6">Stage 6</a>
 </td>
-<td>&gt;
+<td>>
 </td></tr></tbody></table>
 
   
 </center>
-  
-  
-
-  
+<table>
+<tbody><tr><td width="80">符卡编号</td><td width="400">501</td><td rowspan="4" width="120"><a class="new" title="文件:结界幻想录镜符卡501.jpg">文件:结界幻想录镜符卡501.jpg</a></td></tr>
+<tr><td>符卡原名</td><td>模倣「スサノヲノミコト」</td></tr><tr><td>符卡译名</td><td>模仿「Susanoo-wo-Mikoto」（建速须佐之男）</td></tr><tr><td>出现位置</td><td>Stage 5 - Easy/Normal/Hard/Lunatic（<a class="new" title="天草幻夜（页面不存在）">天草幻夜</a>）</td></tr></tbody></table>
 
 
 <table>
-<tbody><tr><td width="80">符卡编号</td><td width="400">501</td><td rowspan="4" width="120"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E7%BB%93%E7%95%8C%E5%B9%BB%E6%83%B3%E5%BD%95%E9%95%9C%E7%AC%A6%E5%8D%A1501.jpg" class="new" title="文件:结界幻想录镜符卡501.jpg">文件:结界幻想录镜符卡501.jpg</a></td></tr>
-<tr><td>符卡原名</td><td>模倣「スサノヲノミコト」</td></tr><tr><td>符卡译名</td><td>模仿「Susanoo-wo-Mikoto」（建速须佐之男）</td></tr><tr><td>出现位置</td><td>Stage 5 - Easy/Normal/Hard/Lunatic（<a href="/index.php?title=%E5%A4%A9%E8%8D%89%E5%B9%BB%E5%A4%9C&amp;action=edit&amp;redlink=1" class="new" title="天草幻夜（页面不存在）">天草幻夜</a>）</td></tr></tbody></table>
-
-
-
-<table>
-<tbody><tr><td width="80">符卡编号</td><td width="400">502</td><td rowspan="4" width="120"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E7%BB%93%E7%95%8C%E5%B9%BB%E6%83%B3%E5%BD%95%E9%95%9C%E7%AC%A6%E5%8D%A1502.jpg" class="new" title="文件:结界幻想录镜符卡502.jpg">文件:结界幻想录镜符卡502.jpg</a></td></tr>
-<tr><td>符卡原名</td><td>作成「即興業火剣乱舞」</td></tr><tr><td>符卡译名</td><td>作成「即兴业火剑乱舞」</td></tr><tr><td>出现位置</td><td>Stage 5 - Easy/Normal/Hard/Lunatic（<a href="/index.php?title=%E5%A4%A9%E8%8D%89%E5%B9%BB%E5%A4%9C&amp;action=edit&amp;redlink=1" class="new" title="天草幻夜（页面不存在）">天草幻夜</a>）</td></tr></tbody></table>
-
+<tbody><tr><td width="80">符卡编号</td><td width="400">502</td><td rowspan="4" width="120"><a class="new" title="文件:结界幻想录镜符卡502.jpg">文件:结界幻想录镜符卡502.jpg</a></td></tr>
+<tr><td>符卡原名</td><td>作成「即興業火剣乱舞」</td></tr><tr><td>符卡译名</td><td>作成「即兴业火剑乱舞」</td></tr><tr><td>出现位置</td><td>Stage 5 - Easy/Normal/Hard/Lunatic（<a class="new" title="天草幻夜（页面不存在）">天草幻夜</a>）</td></tr></tbody></table>
 
 
 <table>
-<tbody><tr><td width="80">符卡编号</td><td width="400">503</td><td rowspan="4" width="120"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E7%BB%93%E7%95%8C%E5%B9%BB%E6%83%B3%E5%BD%95%E9%95%9C%E7%AC%A6%E5%8D%A1503.jpg" class="new" title="文件:结界幻想录镜符卡503.jpg">文件:结界幻想录镜符卡503.jpg</a></td></tr>
-<tr><td>符卡原名</td><td>光鉄「見えぬほど早く、見えるほど遅く」</td></tr><tr><td>符卡译名</td><td>光铁「快者不见，慢者可视」</td></tr><tr><td>出现位置</td><td>Stage 5 - Easy/Normal/Hard/Lunatic（<a href="/index.php?title=%E5%A4%A9%E8%8D%89%E5%B9%BB%E5%A4%9C&amp;action=edit&amp;redlink=1" class="new" title="天草幻夜（页面不存在）">天草幻夜</a>）</td></tr></tbody></table>
-
-
-
-<table>
-<tbody><tr><td width="80">符卡编号</td><td width="400">504</td><td rowspan="4" width="120"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E7%BB%93%E7%95%8C%E5%B9%BB%E6%83%B3%E5%BD%95%E9%95%9C%E7%AC%A6%E5%8D%A1504.jpg" class="new" title="文件:结界幻想录镜符卡504.jpg">文件:结界幻想录镜符卡504.jpg</a></td></tr>
-<tr><td>符卡原名</td><td>速符「刹那の中の刹那」</td></tr><tr><td>符卡译名</td><td>速符「刹那中的刹那」</td></tr><tr><td>出现位置</td><td>Stage 5 - Easy/Normal/Hard/Lunatic（<a href="/index.php?title=%E5%A4%A9%E8%8D%89%E5%B9%BB%E5%A4%9C&amp;action=edit&amp;redlink=1" class="new" title="天草幻夜（页面不存在）">天草幻夜</a>）</td></tr></tbody></table>
-
+<tbody><tr><td width="80">符卡编号</td><td width="400">503</td><td rowspan="4" width="120"><a class="new" title="文件:结界幻想录镜符卡503.jpg">文件:结界幻想录镜符卡503.jpg</a></td></tr>
+<tr><td>符卡原名</td><td>光鉄「見えぬほど早く、見えるほど遅く」</td></tr><tr><td>符卡译名</td><td>光铁「快者不见，慢者可视」</td></tr><tr><td>出现位置</td><td>Stage 5 - Easy/Normal/Hard/Lunatic（<a class="new" title="天草幻夜（页面不存在）">天草幻夜</a>）</td></tr></tbody></table>
 
 
 <table>
-<tbody><tr><td width="80">符卡编号</td><td width="400">505</td><td rowspan="4" width="120"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E7%BB%93%E7%95%8C%E5%B9%BB%E6%83%B3%E5%BD%95%E9%95%9C%E7%AC%A6%E5%8D%A1505.jpg" class="new" title="文件:结界幻想录镜符卡505.jpg">文件:结界幻想录镜符卡505.jpg</a></td></tr>
-<tr><td>符卡原名</td><td>月鋼「優しい光と冷たい刃」</td></tr><tr><td>符卡译名</td><td>月钢「柔美之光冰冷之刃」</td></tr><tr><td>出现位置</td><td>Stage 5 - Easy/Normal/Hard/Lunatic（<a href="/index.php?title=%E5%A4%A9%E8%8D%89%E5%B9%BB%E5%A4%9C&amp;action=edit&amp;redlink=1" class="new" title="天草幻夜（页面不存在）">天草幻夜</a>）</td></tr></tbody></table>
+<tbody><tr><td width="80">符卡编号</td><td width="400">504</td><td rowspan="4" width="120"><a class="new" title="文件:结界幻想录镜符卡504.jpg">文件:结界幻想录镜符卡504.jpg</a></td></tr>
+<tr><td>符卡原名</td><td>速符「刹那の中の刹那」</td></tr><tr><td>符卡译名</td><td>速符「刹那中的刹那」</td></tr><tr><td>出现位置</td><td>Stage 5 - Easy/Normal/Hard/Lunatic（<a class="new" title="天草幻夜（页面不存在）">天草幻夜</a>）</td></tr></tbody></table>
 
 
-
-
+<table>
+<tbody><tr><td width="80">符卡编号</td><td width="400">505</td><td rowspan="4" width="120"><a class="new" title="文件:结界幻想录镜符卡505.jpg">文件:结界幻想录镜符卡505.jpg</a></td></tr>
+<tr><td>符卡原名</td><td>月鋼「優しい光と冷たい刃」</td></tr><tr><td>符卡译名</td><td>月钢「柔美之光冰冷之刃」</td></tr><tr><td>出现位置</td><td>Stage 5 - Easy/Normal/Hard/Lunatic（<a class="new" title="天草幻夜（页面不存在）">天草幻夜</a>）</td></tr></tbody></table>
 
 
 ---

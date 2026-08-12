@@ -1,6 +1,6 @@
 # 文件:SUPER_INABA_WORLD_後編封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a0\ns6%3ASUPER_INABA_WORLD_%E5%BE%8C%E7%B7%A8%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a0\ns6%3ASUPER_INABA_WORLD_%E5%BE%8C%E7%B7%A8%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 すい～と・らぴーぬ | 同人志封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [SUPER INABA WORLD 後編](./SUPER_INABA_WORLD_後編.md)  
-该封面包含的角色：- [圣白莲](./圣白莲.md)
-
-
-
+- [SUPER INABA WORLD 後編](./SUPER_INABA_WORLD_後編.md)该封面包含的角色：
+- [圣白莲](./圣白莲.md)
 
 
 ---

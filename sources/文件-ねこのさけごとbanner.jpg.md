@@ -1,12 +1,8 @@
 # 文件:ねこのさけごとbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\21\ns6%3A%E3%81%AD%E3%81%93%E3%81%AE%E3%81%95%E3%81%91%E3%81%94%E3%81%A8banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\21\ns6%3A%E3%81%AD%E3%81%93%E3%81%AE%E3%81%95%E3%81%91%E3%81%94%E3%81%A8banner%2Ejpg.html -->
 
 ねこのさけごと | 社团LOGO
-
-
-
-
 
 
 ---

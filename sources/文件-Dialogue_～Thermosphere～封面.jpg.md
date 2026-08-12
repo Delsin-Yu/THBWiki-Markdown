@@ -1,6 +1,6 @@
 # 文件:Dialogue_～Thermosphere～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\75\ns6%3ADialogue_%EF%BD%9EThermosphere%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\75\ns6%3ADialogue_%EF%BD%9EThermosphere%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 君の美術館 | 封面图片
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [dialogue ～Thermosphere～](./dialogue_～Thermosphere～.md)  
-该封面包含的角色：- [八云紫](./八云紫.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [dialogue ～Thermosphere～](./dialogue_～Thermosphere～.md)该封面包含的角色：
+- [八云紫](./八云紫.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

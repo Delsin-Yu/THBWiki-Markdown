@@ -1,6 +1,6 @@
 # 文件:Fantasía_de_Conciertos封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\11\ns6%3AFantas%C3%ADa_de_Conciertos%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\11\ns6%3AFantas%C3%ADa_de_Conciertos%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Applice | Music_Advance | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Applice | Music_Advance | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Fantasía de Conciertos](./Fantasía_de_Conciertos.md)  
-该封面包含的角色：- [古明地觉](./古明地觉.md)
-
-
-
+- [Fantasía de Conciertos](./Fantasía_de_Conciertos.md)该封面包含的角色：
+- [古明地觉](./古明地觉.md)
 
 
 ---

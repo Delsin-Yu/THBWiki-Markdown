@@ -1,6 +1,6 @@
 # 文件:A_PILE_OF_FLOWERS封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\58\ns6%3AA_PILE_OF_FLOWERS%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\58\ns6%3AA_PILE_OF_FLOWERS%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ごなきえ | 专辑封面 | 封面图片
 
@@ -10,16 +10,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [A PILE OF FLOWERS](./A_PILE_OF_FLOWERS.md)  
-该封面包含的角色：- [小野塚小町](./小野塚小町.md)- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)
+- [A PILE OF FLOWERS](./A_PILE_OF_FLOWERS.md)该封面包含的角色：
+- [小野塚小町](./小野塚小町.md)
+- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)
 
   
-源地址：[direct image link (original size)](https://i1.sndcdn.com/artworks-000133095200-w06ihy-original.jpg), [source page (Soundcloud)](https://soundcloud.com/gonakie/2015-m3-a-pile-of-flowers-crossfade-demo)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://i1.sndcdn.com/artworks-000133095200-w06ihy-original.jpg), [source page (Soundcloud)](https://soundcloud.com/gonakie/2015-m3-a-pile-of-flowers-crossfade-demo)  
 
 ---
 

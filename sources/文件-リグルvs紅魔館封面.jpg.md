@@ -1,6 +1,6 @@
 # 文件:リグルvs紅魔館封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b4\ns6%3A%E3%83%AA%E3%82%B0%E3%83%ABvs%E7%B4%85%E9%AD%94%E9%A4%A8%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b4\ns6%3A%E3%83%AA%E3%82%B0%E3%83%ABvs%E7%B4%85%E9%AD%94%E9%A4%A8%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 徒歩二分
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [リグルvs紅魔館](./リグルvs紅魔館.md)  
-该封面包含的角色：- [莉格露·奈特巴格](./莉格露·奈特巴格.md)
-
-
-
+- [リグルvs紅魔館](./リグルvs紅魔館.md)该封面包含的角色：
+- [莉格露·奈特巴格](./莉格露·奈特巴格.md)
 
 
 ---

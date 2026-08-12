@@ -1,6 +1,6 @@
 # 文件:SNS(サグメ様ネットだとスゲェ喋る!)封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f4\ns6%3ASNS%28%E3%82%B5%E3%82%B0%E3%83%A1%E6%A7%98%E3%83%8D%E3%83%83%E3%83%88%E3%81%A0%E3%81%A8%E3%82%B9%E3%82%B2%E3%82%A7%E5%96%8B%E3%82%8B%21%29%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f4\ns6%3ASNS%28%E3%82%B5%E3%82%B0%E3%83%A1%E6%A7%98%E3%83%8D%E3%83%83%E3%83%88%E3%81%A0%E3%81%A8%E3%82%B9%E3%82%B2%E3%82%A7%E5%96%8B%E3%82%8B%21%29%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 荒巻シェイカー
 
@@ -10,11 +10,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [SNS(サグメ様ネットだとスゲェ喋る!)](./SNS(サグメ様ネットだとスゲェ喋る!).md)  
-该封面包含的角色：- [清兰](./清兰.md)- [铃瑚](./铃瑚.md)- [稀神探女](./稀神探女.md)
-
-
-
+- [SNS(サグメ様ネットだとスゲェ喋る!)](./SNS(サグメ様ネットだとスゲェ喋る!%29.md)该封面包含的角色：
+- [清兰](./清兰.md)
+- [铃瑚](./铃瑚.md)
+- [稀神探女](./稀神探女.md)
 
 
 ---

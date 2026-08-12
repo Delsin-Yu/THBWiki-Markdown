@@ -1,12 +1,8 @@
 # 文件:MATILDAbanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\19\ns6%3AMATILDAbanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\19\ns6%3AMATILDAbanner%2Egif.html -->
 
 MATILDA | 社团LOGO
-
-
-
-
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:绯想境界LOGO.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8d\ns6%3A%E7%BB%AF%E6%83%B3%E5%A2%83%E7%95%8CLOGO%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8d\ns6%3A%E7%BB%AF%E6%83%B3%E5%A2%83%E7%95%8CLOGO%2Epng.html -->
 
 社团LOGO | 绯想境界
-
-
-
-
 
 
 ---

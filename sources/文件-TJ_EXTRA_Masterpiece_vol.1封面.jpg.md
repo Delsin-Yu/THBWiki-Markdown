@@ -1,6 +1,6 @@
 # 文件:TJ_EXTRA_Masterpiece_vol.1封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c0\ns6%3ATJ_EXTRA_Masterpiece_vol%2E1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c0\ns6%3ATJ_EXTRA_Masterpiece_vol%2E1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 gunter10_UNITED_Records | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ gunter10_UNITED_Records | 专辑封面 | 封面图片
   
 
 - [TJ EXTRA Masterpiece vol.1](./TJ_EXTRA_Masterpiece_vol.1.md)
-
-
-
 
 
 ---

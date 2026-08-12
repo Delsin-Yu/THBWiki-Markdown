@@ -1,12 +1,11 @@
 # Café
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\3\3e\ns0%3ACaf%C3%A9.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\3\3e\ns0%3ACaf%C3%A9.html -->
 
 2023年3月4日 由 FUN webjectF，Endless Sound 匯音社  发布的合作/EP同人专辑，曲目主要风格是 Trance、古典、其他电子，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人专辑 (未找到链接)** 的词条
-
+**[二次创作同人专辑](./二次创作.md#同人音乐)**的词条
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Café封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/d/d0/Caf%C3%A9%E5%B0%81%E9%9D%A2.jpg/280px-Caf%C3%A9%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="280" height="280" srcset="https://upload.thwiki.cc/thumb/d/d0/Caf%C3%A9%E5%B0%81%E9%9D%A2.jpg/420px-Caf%C3%A9%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/d/d0/Caf%C3%A9%E5%B0%81%E9%9D%A2.jpg/560px-Caf%C3%A9%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1417" data-file-height="1417"></a><div class="cover-char">角色：<a href="./多多良小伞.md" title="多多良小伞">多多良小伞</a></div></td>
@@ -15,28 +14,26 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.dizzylab.net/d/Disk14/">https://www.dizzylab.net/d/Disk14/</a></td></tr></tbody></table>
 
 Café（同人专辑，FUN webjectF，Endless Sound 匯音社，2023） - 2023年3月4日 由 FUN webjectF，Endless Sound 匯音社  发布的合作/EP同人专辑，曲目主要风格是 Trance、古典、其他电子，分级为 一般向
-
 ## Staff
   
- **Compose**   
+**Compose**  
 
-<table><tbody><tr><td><a href="./FangChen.md" title="FangChen">FangChen</a></td><td><a href="./FUN_webjectF.md" title="FUN webjectF">FUN webjectF</a></td><td>Tr.2-5</td></tr><tr><td><a href="/index.php?title=%E9%9B%B6%E5%AE%87_P&amp;action=edit&amp;redlink=1" class="new" title="零宇 P（页面不存在）">零宇 P</a></td><td></td><td>Tr.2/3</td></tr></tbody></table>
-
-  
- **Arrangement**   
-
-<table><tbody><tr><td><a href="./tinvan.md" title="tinvan">tinvan</a></td><td><a href="./Endless_Sound_匯音社.md" title="Endless Sound 匯音社">Endless Sound 匯音社</a></td><td>Tr.1/13</td></tr><tr><td><a href="./FangChen.md" title="FangChen">FangChen</a></td><td><a href="./FUN_webjectF.md" title="FUN webjectF">FUN webjectF</a></td><td>Tr.6-10/12</td></tr><tr><td><a href="/index.php?title=%E6%9D%B1%E9%87%9D%E5%89%A3%E4%BD%9A&amp;action=edit&amp;redlink=1" class="new" title="東針剣佚（页面不存在）">東針剣佚</a></td><td></td><td>Tr.11</td></tr></tbody></table>
+<table><tbody><tr><td><a href="./FangChen.md" title="FangChen">FangChen</a></td><td><a href="./FUN_webjectF.md" title="FUN webjectF">FUN webjectF</a></td><td>Tr.2-5</td></tr><tr><td><a class="new" title="零宇 P（页面不存在）">零宇 P</a></td><td></td><td>Tr.2/3</td></tr></tbody></table>
 
   
- **Vocal**   
+**Arrangement**  
+
+<table><tbody><tr><td><a href="./tinvan.md" title="tinvan">tinvan</a></td><td><a href="./Endless_Sound_匯音社.md" title="Endless Sound 匯音社">Endless Sound 匯音社</a></td><td>Tr.1/13</td></tr><tr><td><a href="./FangChen.md" title="FangChen">FangChen</a></td><td><a href="./FUN_webjectF.md" title="FUN webjectF">FUN webjectF</a></td><td>Tr.6-10/12</td></tr><tr><td><a class="new" title="東針剣佚（页面不存在）">東針剣佚</a></td><td></td><td>Tr.11</td></tr></tbody></table>
+
+  
+**Vocal**  
 
 <table><tbody><tr><td><a href="./Darkxixin.md" title="Darkxixin">Darkxixin</a></td><td><a href="./疯帽子茶会.md" title="疯帽子茶会">疯帽子茶会</a></td><td>Tr.2</td></tr><tr><td><a href="./FangChen.md" title="FangChen">FangChen</a></td><td><a href="./FUN_webjectF.md" title="FUN webjectF">FUN webjectF</a></td><td>Tr.4</td></tr></tbody></table>
 
   
- **Lyrics**   
+**Lyrics**  
 
-<table><tbody><tr><td><a href="/index.php?title=%E9%9B%B6%E5%AE%87_P&amp;action=edit&amp;redlink=1" class="new" title="零宇 P（页面不存在）">零宇 P</a></td><td></td><td>Tr.2</td></tr><tr><td><a href="./FangChen.md" title="FangChen">FangChen</a></td><td><a href="./FUN_webjectF.md" title="FUN webjectF">FUN webjectF</a></td><td>Tr.4</td></tr><tr><td><a href="/index.php?title=Lil_Daniel%EF%BC%84&amp;action=edit&amp;redlink=1" class="new" title="Lil Daniel＄（页面不存在）">Lil Daniel＄</a></td><td></td><td>Tr.4</td></tr></tbody></table>
-
+<table><tbody><tr><td><a class="new" title="零宇 P（页面不存在）">零宇 P</a></td><td></td><td>Tr.2</td></tr><tr><td><a href="./FangChen.md" title="FangChen">FangChen</a></td><td><a href="./FUN_webjectF.md" title="FUN webjectF">FUN webjectF</a></td><td>Tr.4</td></tr><tr><td><a class="new" title="Lil Daniel＄（页面不存在）">Lil Daniel＄</a></td><td></td><td>Tr.4</td></tr></tbody></table>
 
 Illustration
 : 子休
@@ -59,11 +56,8 @@ Mastering
 : 刈泽凉太liltay
 : tinvan
 
-
 ## 试听
   
-
-
   
 
 <table>
@@ -72,30 +66,24 @@ Mastering
 </table>
 
 
-
-
-
-
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Rain_Path" colspan="2" class="title">Rain Path<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=tinvan&amp;ogmusic=閉ざせし雲の通い路&amp;fromwiki=Café"><span title="搜索相似同人曲"></span></a></span></td><td class="time">01:57</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./tinvan.md" title="tinvan">tinvan</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，tinvan&amp;fromwiki=Café"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=閉ざせし雲の通い路&amp;fromwiki=Café"><span></span></a></span><div class="ogmusic"><a href="./閉ざせし雲の通い路.md" class="mw-redirect" title="閉ざせし雲の通い路">閉ざせし雲の通い路</a></div><div class="source"><a href="./东方星莲船_～_Undefined_Fantastic_Object..md" class="mw-redirect" title="东方星莲船 ～ Undefined Fantastic Object.">东方星莲船　～ Undefined Fantastic Object.</a></div></td></tr>
-<tr><td id="2" class="infoRL"><b>02</b></td><td id="向着星星嘶吼" colspan="2" class="title">向着星星嘶吼<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=零宇_P，Funchen&amp;vocal=Darkxixin&amp;lyric=零宇_P&amp;fromwiki=Café"><span title="搜索相似同人曲"></span></a></span></td><td class="time">02:00</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=%E9%9B%B6%E5%AE%87_P&amp;action=edit&amp;redlink=1" class="new" title="零宇 P（页面不存在）">零宇_P</a>，<a href="./Funchen.md" class="mw-redirect" title="Funchen">Funchen</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，零宇_P，Funchen&amp;fromwiki=Café"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="./Darkxixin.md" title="Darkxixin">Darkxixin</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=Darkxixin&amp;fromwiki=Café"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="/index.php?title=%E9%9B%B6%E5%AE%87_P&amp;action=edit&amp;redlink=1" class="new" title="零宇 P（页面不存在）">零宇_P</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?lyric=零宇_P&amp;fromwiki=Café"><span></span></a></span></td></tr>
-<tr><td id="3" class="infoYL"><b>03</b></td><td id="向着星星嘶吼.inst" colspan="2" class="title">向着星星嘶吼.inst<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=零宇_P，Funchen&amp;fromwiki=Café"><span title="搜索相似同人曲"></span></a></span></td><td class="time">02:00</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=%E9%9B%B6%E5%AE%87_P&amp;action=edit&amp;redlink=1" class="new" title="零宇 P（页面不存在）">零宇_P</a>，<a href="./Funchen.md" class="mw-redirect" title="Funchen">Funchen</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，零宇_P，Funchen&amp;fromwiki=Café"><span></span></a></span></td></tr>
-<tr><td id="4" class="infoRL"><b>04</b></td><td id="Be_there_with_you(2022_Remake)" colspan="2" class="title"><span class="new" title="（歌词页面不存在）"><a href="/index.php?title=%E6%AD%8C%E8%AF%8D:Be_there_with_you&amp;boilerplate=模板:页面模板/曲目歌词&amp;action=edit">Be there with you(2022 Remake)</a></span><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Funchen&amp;vocal=Funchen&amp;lyric=Lil Daniel＄，Funchen&amp;fromwiki=Café"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:03</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./Funchen.md" class="mw-redirect" title="Funchen">Funchen</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Funchen&amp;fromwiki=Café"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="./Funchen.md" class="mw-redirect" title="Funchen">Funchen</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=Funchen&amp;fromwiki=Café"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="/index.php?title=Lil_Daniel%EF%BC%84&amp;action=edit&amp;redlink=1" class="new" title="Lil Daniel＄（页面不存在）">Lil Daniel＄</a>，<a href="./Funchen.md" class="mw-redirect" title="Funchen">Funchen</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?lyric=Lil Daniel＄，Funchen&amp;fromwiki=Café"><span></span></a></span></td></tr>
-<tr><td id="5" class="infoYL"><b>05</b></td><td id="Be_there_with_you(2022_Remake).inst" colspan="2" class="title">Be there with you(2022 Remake).inst<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Funchen&amp;fromwiki=Café"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:03</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./Funchen.md" class="mw-redirect" title="Funchen">Funchen</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Funchen&amp;fromwiki=Café"><span></span></a></span></td></tr>
-<tr><td id="6" class="infoYD"><b>06</b></td><td id="Midnight_Café" colspan="2" class="title">Midnight Café<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Funchen&amp;ogmusic=上海紅茶館　～ Chinese Tea&amp;fromwiki=Café"><span title="搜索相似同人曲"></span></a></span></td><td class="time">05:42</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Funchen.md" class="mw-redirect" title="Funchen">Funchen</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Funchen&amp;fromwiki=Café"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=上海紅茶館　～ Chinese Tea&amp;fromwiki=Café"><span></span></a></span><div class="ogmusic"><a href="./上海紅茶館_～_Chinese_Tea.md" class="mw-redirect" title="上海紅茶館 ～ Chinese Tea">上海紅茶館　～ Chinese Tea</a></div><div class="source"><a href="./东方红魔乡_～_the_Embodiment_of_Scarlet_Devil..md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr>
-<tr><td id="7" class="infoYD"><b>07</b></td><td id="Midnight_Café(Original_Remix)" colspan="2" class="title">Midnight Café(Original Remix)<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Funchen&amp;ogmusic=上海紅茶館　～ Chinese Tea&amp;fromwiki=Café"><span title="搜索相似同人曲"></span></a></span></td><td class="time">05:42</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Funchen.md" class="mw-redirect" title="Funchen">Funchen</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Funchen&amp;fromwiki=Café"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=上海紅茶館　～ Chinese Tea&amp;fromwiki=Café"><span></span></a></span><div class="ogmusic"><a href="./上海紅茶館_～_Chinese_Tea.md" class="mw-redirect" title="上海紅茶館 ～ Chinese Tea">上海紅茶館　～ Chinese Tea</a></div><div class="source"><a href="./东方红魔乡_～_the_Embodiment_of_Scarlet_Devil..md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr>
-<tr><td id="8" class="infoYD"><b>08</b></td><td id="月に乗って踊る" colspan="2" class="title">月に乗って踊る<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Funchen&amp;ogmusic=向こう側の月&amp;fromwiki=Café"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:56</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Funchen.md" class="mw-redirect" title="Funchen">Funchen</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Funchen&amp;fromwiki=Café"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=向こう側の月&amp;fromwiki=Café"><span></span></a></span><div class="ogmusic"><a href="./向こう側の月.md" class="mw-redirect" title="向こう側の月">向こう側の月</a></div><div class="source"><a href="./大空魔术_～_Magical_Astronomy.md" class="mw-redirect" title="大空魔术 ～ Magical Astronomy">大空魔术　～ Magical Astronomy</a></div></td></tr>
-<tr><td id="9" class="infoYD"><b>09</b></td><td id="Somei-Yoshino" colspan="2" class="title">Somei-Yoshino<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Funchen&amp;ogmusic=幽雅に咲かせ、墨染の桜　～ Border of Life&amp;fromwiki=Café"><span title="搜索相似同人曲"></span></a></span></td><td class="time">05:46</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Funchen.md" class="mw-redirect" title="Funchen">Funchen</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Funchen&amp;fromwiki=Café"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=幽雅に咲かせ、墨染の桜　～ Border of Life&amp;fromwiki=Café"><span></span></a></span><div class="ogmusic"><a href="./幽雅に咲かせ、墨染の桜_～_Border_of_Life.md" class="mw-redirect" title="幽雅に咲かせ、墨染の桜 ～ Border of Life">幽雅に咲かせ、墨染の桜　～ Border of Life</a></div><div class="source"><a href="./东方妖妖梦_～_Perfect_Cherry_Blossom..md" class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr>
-<tr><td id="10" class="infoYD"><b>10</b></td><td id="City_Falling_Asleep" colspan="2" class="title">City Falling Asleep<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Funchen&amp;ogmusic=紅楼　～ Eastern Dream...&amp;fromwiki=Café"><span title="搜索相似同人曲"></span></a></span></td><td class="time">01:50</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Funchen.md" class="mw-redirect" title="Funchen">Funchen</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Funchen&amp;fromwiki=Café"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=紅楼　～ Eastern Dream...&amp;fromwiki=Café"><span></span></a></span><div class="ogmusic"><a href="./紅楼_～_Eastern_Dream....md" class="mw-redirect" title="紅楼 ～ Eastern Dream...">紅楼　～ Eastern Dream...</a></div><div class="source"><a href="./东方红魔乡_～_the_Embodiment_of_Scarlet_Devil..md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr>
-<tr><td id="11" class="infoYD"><b>11</b></td><td id="Sea_Rambler" colspan="2" class="title">Sea Rambler<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=東針剣佚&amp;ogmusic=紅楼　～ Eastern Dream...&amp;fromwiki=Café"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:41</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E6%9D%B1%E9%87%9D%E5%89%A3%E4%BD%9A&amp;action=edit&amp;redlink=1" class="new" title="東針剣佚（页面不存在）">東針剣佚</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，東針剣佚&amp;fromwiki=Café"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=紅楼　～ Eastern Dream...&amp;fromwiki=Café"><span></span></a></span><div class="ogmusic"><a href="./紅楼_～_Eastern_Dream....md" class="mw-redirect" title="紅楼 ～ Eastern Dream...">紅楼　～ Eastern Dream...</a></div><div class="source"><a href="./东方红魔乡_～_the_Embodiment_of_Scarlet_Devil..md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr>
-<tr><td id="12" class="infoYD"><b>12</b></td><td id="Dissipative_Love" colspan="2" class="title">Dissipative Love<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Funchen&amp;ogmusic=感情の摩天楼　～ Cosmic Mind&amp;fromwiki=Café"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:41</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Funchen.md" class="mw-redirect" title="Funchen">Funchen</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Funchen&amp;fromwiki=Café"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=感情の摩天楼　～ Cosmic Mind&amp;fromwiki=Café"><span></span></a></span><div class="ogmusic"><a href="./感情の摩天楼_～_Cosmic_Mind.md" class="mw-redirect" title="感情の摩天楼 ～ Cosmic Mind">感情の摩天楼　～ Cosmic Mind</a></div><div class="source"><a href="./东方星莲船_～_Undefined_Fantastic_Object..md" class="mw-redirect" title="东方星莲船 ～ Undefined Fantastic Object.">东方星莲船　～ Undefined Fantastic Object.</a></div></td></tr>
-<tr><td id="13" class="infoYD"><b>13</b></td><td id="Heter_Party" colspan="2" class="title">Heter Party<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=tinvan&amp;ogmusic=感情の摩天楼　～ Cosmic Mind&amp;fromwiki=Café"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:45</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./tinvan.md" title="tinvan">tinvan</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，tinvan&amp;fromwiki=Café"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=感情の摩天楼　～ Cosmic Mind&amp;fromwiki=Café"><span></span></a></span><div class="ogmusic"><a href="./感情の摩天楼_～_Cosmic_Mind.md" class="mw-redirect" title="感情の摩天楼 ～ Cosmic Mind">感情の摩天楼　～ Cosmic Mind</a></div><div class="source"><a href="./东方星莲船_～_Undefined_Fantastic_Object..md" class="mw-redirect" title="东方星莲船 ～ Undefined Fantastic Object.">东方星莲船　～ Undefined Fantastic Object.</a></div></td></tr></tbody></table>
-
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Rain_Path" colspan="2" class="title">Rain Path</td><td class="time">01:57</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./tinvan.md" title="tinvan">tinvan</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./封闭的云中通路.md" class="mw-redirect" title="閉ざせし雲の通い路">閉ざせし雲の通い路</a></div><div class="source"><a href="./东方星莲船.md" class="mw-redirect" title="东方星莲船 ～ Undefined Fantastic Object.">东方星莲船　～ Undefined Fantastic Object.</a></div></td></tr>
+<tr><td id="2" class="infoRL"><b>02</b></td><td id="向着星星嘶吼" colspan="2" class="title">向着星星嘶吼</td><td class="time">02:00</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a class="new" title="零宇 P（页面不存在）">零宇_P</a>，<a href="./FangChen.md" class="mw-redirect" title="Funchen">Funchen</a></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="./Darkxixin.md" title="Darkxixin">Darkxixin</a></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a class="new" title="零宇 P（页面不存在）">零宇_P</a></td></tr>
+<tr><td id="3" class="infoYL"><b>03</b></td><td id="向着星星嘶吼.inst" colspan="2" class="title">向着星星嘶吼.inst</td><td class="time">02:00</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a class="new" title="零宇 P（页面不存在）">零宇_P</a>，<a href="./FangChen.md" class="mw-redirect" title="Funchen">Funchen</a></td></tr>
+<tr><td id="4" class="infoRL"><b>04</b></td><td id="Be_there_with_you(2022_Remake)" colspan="2" class="title"><span class="new" title="（歌词页面不存在）"><a>Be there with you(2022 Remake)</a></span></td><td class="time">03:03</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./FangChen.md" class="mw-redirect" title="Funchen">Funchen</a></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="./FangChen.md" class="mw-redirect" title="Funchen">Funchen</a></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a class="new" title="Lil Daniel＄（页面不存在）">Lil Daniel＄</a>，<a href="./FangChen.md" class="mw-redirect" title="Funchen">Funchen</a></td></tr>
+<tr><td id="5" class="infoYL"><b>05</b></td><td id="Be_there_with_you(2022_Remake).inst" colspan="2" class="title">Be there with you(2022 Remake).inst</td><td class="time">03:03</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./FangChen.md" class="mw-redirect" title="Funchen">Funchen</a></td></tr>
+<tr><td id="6" class="infoYD"><b>06</b></td><td id="Midnight_Café" colspan="2" class="title">Midnight Café</td><td class="time">05:42</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./FangChen.md" class="mw-redirect" title="Funchen">Funchen</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./上海红茶馆_～_Chinese_Tea.md" class="mw-redirect" title="上海紅茶館 ～ Chinese Tea">上海紅茶館　～ Chinese Tea</a></div><div class="source"><a href="./东方红魔乡.md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr>
+<tr><td id="7" class="infoYD"><b>07</b></td><td id="Midnight_Café(Original_Remix)" colspan="2" class="title">Midnight Café(Original Remix)</td><td class="time">05:42</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./FangChen.md" class="mw-redirect" title="Funchen">Funchen</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./上海红茶馆_～_Chinese_Tea.md" class="mw-redirect" title="上海紅茶館 ～ Chinese Tea">上海紅茶館　～ Chinese Tea</a></div><div class="source"><a href="./东方红魔乡.md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr>
+<tr><td id="8" class="infoYD"><b>08</b></td><td id="月に乗って踊る" colspan="2" class="title">月に乗って踊る</td><td class="time">03:56</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./FangChen.md" class="mw-redirect" title="Funchen">Funchen</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./另一侧的月.md" class="mw-redirect" title="向こう側の月">向こう側の月</a></div><div class="source"><a href="./大空魔术.md" class="mw-redirect" title="大空魔术 ～ Magical Astronomy">大空魔术　～ Magical Astronomy</a></div></td></tr>
+<tr><td id="9" class="infoYD"><b>09</b></td><td id="Somei-Yoshino" colspan="2" class="title">Somei-Yoshino</td><td class="time">05:46</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./FangChen.md" class="mw-redirect" title="Funchen">Funchen</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./幽雅地绽放吧，墨染的樱花_～_Border_of_Life.md" class="mw-redirect" title="幽雅に咲かせ、墨染の桜 ～ Border of Life">幽雅に咲かせ、墨染の桜　～ Border of Life</a></div><div class="source"><a href="./东方妖妖梦.md" class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr>
+<tr><td id="10" class="infoYD"><b>10</b></td><td id="City_Falling_Asleep" colspan="2" class="title">City Falling Asleep</td><td class="time">01:50</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./FangChen.md" class="mw-redirect" title="Funchen">Funchen</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./红楼_～_Eastern_Dream....md" class="mw-redirect" title="紅楼 ～ Eastern Dream...">紅楼　～ Eastern Dream...</a></div><div class="source"><a href="./东方红魔乡.md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr>
+<tr><td id="11" class="infoYD"><b>11</b></td><td id="Sea_Rambler" colspan="2" class="title">Sea Rambler</td><td class="time">04:41</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="東針剣佚（页面不存在）">東針剣佚</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./红楼_～_Eastern_Dream....md" class="mw-redirect" title="紅楼 ～ Eastern Dream...">紅楼　～ Eastern Dream...</a></div><div class="source"><a href="./东方红魔乡.md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr>
+<tr><td id="12" class="infoYD"><b>12</b></td><td id="Dissipative_Love" colspan="2" class="title">Dissipative Love</td><td class="time">03:41</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./FangChen.md" class="mw-redirect" title="Funchen">Funchen</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./感情的摩天楼_～_Cosmic_Mind.md" class="mw-redirect" title="感情の摩天楼 ～ Cosmic Mind">感情の摩天楼　～ Cosmic Mind</a></div><div class="source"><a href="./东方星莲船.md" class="mw-redirect" title="东方星莲船 ～ Undefined Fantastic Object.">东方星莲船　～ Undefined Fantastic Object.</a></div></td></tr>
+<tr><td id="13" class="infoYD"><b>13</b></td><td id="Heter_Party" colspan="2" class="title">Heter Party</td><td class="time">03:45</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./tinvan.md" title="tinvan">tinvan</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./感情的摩天楼_～_Cosmic_Mind.md" class="mw-redirect" title="感情の摩天楼 ～ Cosmic Mind">感情の摩天楼　～ Cosmic Mind</a></div><div class="source"><a href="./东方星莲船.md" class="mw-redirect" title="东方星莲船 ～ Undefined Fantastic Object.">东方星莲船　～ Undefined Fantastic Object.</a></div></td></tr></tbody></table>
 
 
 ## 评论
-
   
 午夜仍是十分寂静  
 
@@ -104,7 +92,6 @@ Mastering
 来吧 趁此时无人约束  
 
 愈加深入地通晓悉数  
-
   
 
 静谧下所闪耀的小伞  
@@ -114,7 +101,6 @@ Mastering
 经受频繁笨拙的恐吓  
 
 混迹于降临的黑暗中  
-
   
 
 然深夜时光悄然逝去  
@@ -122,7 +108,6 @@ Mastering
 且无能试图驾驭现实  
 
 也无法继续享用思念  
-
   
 
 只愿够结束寄宿今日  
@@ -137,12 +122,6 @@ Mastering
 
 Touhou Soothing Music Heaven作为FUN_webjectF正作第六作融合了多位Staff的心血，与匯音社合作为大家带了风格迥异的13首氛围十足的东方同人歌曲！
   
-
-
-
-
-
-
 
 ---
 

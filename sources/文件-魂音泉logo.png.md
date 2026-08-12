@@ -1,12 +1,8 @@
 # 文件:魂音泉logo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0c\ns6%3A%E9%AD%82%E9%9F%B3%E6%B3%89logo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0c\ns6%3A%E9%AD%82%E9%9F%B3%E6%B3%89logo%2Epng.html -->
 
 社团LOGO | 魂音泉
-
-
-
-
 
 
 ---

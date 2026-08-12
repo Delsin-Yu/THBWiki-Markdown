@@ -1,16 +1,11 @@
 # 文件:ゆうかりんちゃんねる_banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\90\ns6%3A%E3%82%86%E3%81%86%E3%81%8B%E3%82%8A%E3%82%93%E3%81%A1%E3%82%83%E3%82%93%E3%81%AD%E3%82%8B_banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\90\ns6%3A%E3%82%86%E3%81%86%E3%81%8B%E3%82%8A%E3%82%93%E3%81%A1%E3%82%83%E3%82%93%E3%81%AD%E3%82%8B_banner%2Epng.html -->
 
 ゆうかりんちゃんねる | 社团LOGO
 
   
-源地址:[[1]](http://yuukach.futene.net/img/touhoubanana.png)
-  
-
-
-
-
+源地址:[\[1\]](http://yuukach.futene.net/img/touhoubanana.png)  
 
 ---
 

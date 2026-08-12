@@ -1,6 +1,6 @@
 # 文件:東方コピー本!!Lv.8封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\90\ns6%3A%E6%9D%B1%E6%96%B9%E3%82%B3%E3%83%94%E3%83%BC%E6%9C%AC%21%21Lv%2E8%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\90\ns6%3A%E6%9D%B1%E6%96%B9%E3%82%B3%E3%83%94%E3%83%BC%E6%9C%AC%21%21Lv%2E8%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 落ち葉
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方コピー本!!Lv.8](./東方コピー本!!Lv.8.md)  
-该封面包含的角色：- [圣白莲](./圣白莲.md)- [丰聪耳神子](./丰聪耳神子.md)
-
-
-
+- [東方コピー本!!Lv.8](./東方コピー本!!Lv.8.md)该封面包含的角色：
+- [圣白莲](./圣白莲.md)
+- [丰聪耳神子](./丰聪耳神子.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Synthetic_Shore封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f2\ns6%3ASynthetic_Shore%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f2\ns6%3ASynthetic_Shore%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 greenscarf | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ greenscarf | 专辑封面 | 封面图片
   
 
 - [Synthetic Shore](./Synthetic_Shore.md)
-
-
-
 
 
 ---

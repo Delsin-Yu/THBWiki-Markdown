@@ -1,6 +1,6 @@
 # 文件:CRESCENT（同人志）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\52\ns6%3ACRESCENT%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\52\ns6%3ACRESCENT%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 夢中界 | 封面图片
 
@@ -10,16 +10,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [CRESCENT（同人志）](./CRESCENT（同人志）.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
+- [CRESCENT（同人志）](./CRESCENT（同人志）.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
   
 源地址：[direct image link (original size)](https://blog-imgs-57-origin.fc2.com/h/a/n/hankouki17/201305191303100dc.jpg), [hankouki17.blog62.fc2.com/blog-entry-279.html source page]
   
-
-
-
-
 
 ---
 

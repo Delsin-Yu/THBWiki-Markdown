@@ -1,14 +1,11 @@
 # 文件:happy_flame_timebanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\af\ns6%3Ahappy_flame_timebanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\af\ns6%3Ahappy_flame_timebanner%2Egif.html -->
 
 happy_flame_time | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

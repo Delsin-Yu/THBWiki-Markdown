@@ -1,18 +1,13 @@
 # 文件:カグラミクスbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e3\ns6%3A%E3%82%AB%E3%82%B0%E3%83%A9%E3%83%9F%E3%82%AF%E3%82%B9banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e3\ns6%3A%E3%82%AB%E3%82%B0%E3%83%A9%E3%83%9F%E3%82%AF%E3%82%B9banner%2Ejpg.html -->
 
 カグラミクス | 社团LOGO
 
 
 ## 摘要
   
-源地址：[direct image link](http://kaguratsuna.sakura.ne.jp/sblo_files/kaguramix/image/kaguramixBLOGbunner01.jpg), [source page](http://kaguramix.sblo.jp/)
-  
-
-
-
-
+源地址：[direct image link](http://kaguratsuna.sakura.ne.jp/sblo_files/kaguramix/image/kaguramixBLOGbunner01.jpg), [source page](http://kaguramix.sblo.jp/)  
 
 ---
 

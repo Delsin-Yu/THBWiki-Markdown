@@ -1,6 +1,6 @@
 # 文件:Windwalker封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\de\ns6%3AWindwalker%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\de\ns6%3AWindwalker%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 AGENT_0 | nekka. | 专辑封面 | 封面图片
 
@@ -10,16 +10,18 @@ AGENT_0 | nekka. | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Windwalker](./Windwalker.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)- [键山雏](./键山雏.md)- [犬走椛](./犬走椛.md)- [灵乌路空](./灵乌路空.md)- [圣白莲](./圣白莲.md)- [堀川雷鼓](./堀川雷鼓.md)- [摩多罗隐岐奈](./摩多罗隐岐奈.md)
+- [Windwalker](./Windwalker.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)
+- [键山雏](./键山雏.md)
+- [犬走椛](./犬走椛.md)
+- [灵乌路空](./灵乌路空.md)
+- [圣白莲](./圣白莲.md)
+- [堀川雷鼓](./堀川雷鼓.md)
+- [摩多罗隐岐奈](./摩多罗隐岐奈.md)
 
   
-源地址：[direct image link (max size)](http://blog.cnobi.jp/v1/blog/user/fd1e811088495b0c59f57b40d9c7c265/1671728144), [source page](http://agent0bdm.blog.shinobi.jp/Entry/73/)
-  
-
-
-
-
+源地址：[direct image link (max size)](http://blog.cnobi.jp/v1/blog/user/fd1e811088495b0c59f57b40d9c7c265/1671728144), [source page](http://agent0bdm.blog.shinobi.jp/Entry/73/)  
 
 ---
 

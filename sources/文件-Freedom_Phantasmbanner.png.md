@@ -1,12 +1,8 @@
 # 文件:Freedom_Phantasmbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\48\ns6%3AFreedom_Phantasmbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\48\ns6%3AFreedom_Phantasmbanner%2Epng.html -->
 
 Freedom_Phantasm | 社团LOGO
-
-
-
-
 
 
 ---

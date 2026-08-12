@@ -1,6 +1,6 @@
 # 文件:電子祝祭_-Electro_Festival-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\95\ns6%3A%E9%9B%BB%E5%AD%90%E7%A5%9D%E7%A5%AD_-Electro_Festival-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\95\ns6%3A%E9%9B%BB%E5%AD%90%E7%A5%9D%E7%A5%AD_-Electro_Festival-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 MA☆SPARK!_RECORDS | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ MA☆SPARK!_RECORDS | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [電子祝祭 -Electro Festival-](./電子祝祭_-Electro_Festival-.md)  
-该封面包含的角色：- [因幡帝](./因幡帝.md)- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
-
-
-
+- [電子祝祭 -Electro Festival-](./電子祝祭_-Electro_Festival-.md)该封面包含的角色：
+- [因幡帝](./因幡帝.md)
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
 
 
 ---

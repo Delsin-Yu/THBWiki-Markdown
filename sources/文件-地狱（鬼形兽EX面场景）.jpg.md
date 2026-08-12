@@ -1,12 +1,8 @@
 # 文件:地狱（鬼形兽EX面场景）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\76\ns6%3A%E5%9C%B0%E7%8B%B1%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BDEX%E9%9D%A2%E5%9C%BA%E6%99%AF%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\76\ns6%3A%E5%9C%B0%E7%8B%B1%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BDEX%E9%9D%A2%E5%9C%BA%E6%99%AF%EF%BC%89%2Ejpg.html -->
 
 东方鬼形兽 | 地狱
-
-
-
-
 
 
 ---

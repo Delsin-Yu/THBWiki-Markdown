@@ -1,6 +1,6 @@
 # 文件:忙しい人のためのこうまきょうEXTRA封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3f\ns6%3A%E5%BF%99%E3%81%97%E3%81%84%E4%BA%BA%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E3%81%93%E3%81%86%E3%81%BE%E3%81%8D%E3%82%87%E3%81%86EXTRA%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3f\ns6%3A%E5%BF%99%E3%81%97%E3%81%84%E4%BA%BA%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E3%81%93%E3%81%86%E3%81%BE%E3%81%8D%E3%82%87%E3%81%86EXTRA%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 カスガソフト | 封面图片 | 软件封面
 
@@ -8,11 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [忙しい人のためのこうまきょうEXTRA](./忙しい人のためのこうまきょうEXTRA.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [忙しい人のためのこうまきょうEXTRA](./忙しい人のためのこうまきょうEXTRA.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

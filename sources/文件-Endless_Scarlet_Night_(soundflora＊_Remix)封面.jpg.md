@@ -1,6 +1,6 @@
 # 文件:Endless_Scarlet_Night_(soundflora＊_Remix)封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9b\ns6%3AEndless_Scarlet_Night_%28soundflora%EF%BC%8A_Remix%29%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9b\ns6%3AEndless_Scarlet_Night_%28soundflora%EF%BC%8A_Remix%29%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 追憶サーキット
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Endless Scarlet Night (soundflora＊ Remix)](./Endless_Scarlet_Night_(soundflora＊_Remix).md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [Endless Scarlet Night (soundflora＊ Remix)](./Endless_Scarlet_Night_(soundflora＊_Remix%29.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
   
-源地址：[[1]](https://f4.bcbits.com/img/a1535905222_10.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://f4.bcbits.com/img/a1535905222_10.jpg)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:愚天楼_-TOHO_PROJECT_FAN_BOOK②-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\72\ns6%3A%E6%84%9A%E5%A4%A9%E6%A5%BC_-TOHO_PROJECT_FAN_BOOK%E2%91%A1-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\72\ns6%3A%E6%84%9A%E5%A4%A9%E6%A5%BC_-TOHO_PROJECT_FAN_BOOK%E2%91%A1-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 オランジュ停留所 | 同人志封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [愚天楼 -TOHO PROJECT FAN BOOK②-](./愚天楼_-TOHO_PROJECT_FAN_BOOK②-.md)  
-该封面包含的角色：- [摩多罗隐岐奈](./摩多罗隐岐奈.md)
-
-
-
+- [愚天楼 -TOHO PROJECT FAN BOOK②-](./愚天楼_-TOHO_PROJECT_FAN_BOOK②-.md)该封面包含的角色：
+- [摩多罗隐岐奈](./摩多罗隐岐奈.md)
 
 
 ---

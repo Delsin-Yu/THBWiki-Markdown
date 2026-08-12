@@ -1,12 +1,8 @@
 # 文件:月符「Silent_Selene」（萃梦想）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\72\ns6%3A%E6%9C%88%E7%AC%A6%E3%80%8CSilent_Selene%E3%80%8D%EF%BC%88%E8%90%83%E6%A2%A6%E6%83%B3%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\72\ns6%3A%E6%9C%88%E7%AC%A6%E3%80%8CSilent_Selene%E3%80%8D%EF%BC%88%E8%90%83%E6%A2%A6%E6%83%B3%EF%BC%89%2Ejpg.html -->
 
 东方萃梦想 | 帕秋莉·诺蕾姬 | 自机符卡
-
-
-
-
 
 
 ---

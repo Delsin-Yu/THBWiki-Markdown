@@ -1,6 +1,6 @@
 # 东方小学森_～_Beloved_primary_school_textbook/符卡/自机
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\b4\ns0%3A%E4%B8%9C%E6%96%B9%E5%B0%8F%E5%AD%A6%E6%A3%AE_%EF%BD%9E_Beloved_primary_school_textbook%2F%E7%AC%A6%E5%8D%A1%2F%E8%87%AA%E6%9C%BA.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\b4\ns0%3A%E4%B8%9C%E6%96%B9%E5%B0%8F%E5%AD%A6%E6%A3%AE_%EF%BD%9E_Beloved_primary_school_textbook%2F%E7%AC%A6%E5%8D%A1%2F%E8%87%AA%E6%9C%BA.html -->
 
 尹棱DANE
 
@@ -33,7 +33,7 @@
 </td>
 <td>自机/Inside
 </td>
-<td><a href="/%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C" title="十六夜咲夜">十六夜咲夜</a>
+<td><a href="./十六夜咲夜.md" title="十六夜咲夜">十六夜咲夜</a>
 </td></tr>
 <tr>
 <td>空观剑「六根清净斩」
@@ -126,10 +126,6 @@
 </td>
 <td><a href="./竹野内圢.md" title="竹野内圢">竹野内圢</a>
 </td></tr></tbody></table>
-
-
-
-
 
 
 ---

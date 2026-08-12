@@ -1,16 +1,12 @@
 # 模板:CRUSH
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\b\b7\ns10%3ACRUSH.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\b\b7\ns10%3ACRUSH.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

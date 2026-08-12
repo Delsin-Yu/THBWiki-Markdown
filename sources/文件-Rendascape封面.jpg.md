@@ -1,6 +1,6 @@
 # 文件:Rendascape封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\02\ns6%3ARendascape%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\02\ns6%3ARendascape%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Citrus_and_Ocean_Colour | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Citrus_and_Ocean_Colour | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Rendascape](./Rendascape.md)  
-该封面包含的角色：- [犬走椛](./犬走椛.md)
-
-
-
+- [Rendascape](./Rendascape.md)该封面包含的角色：
+- [犬走椛](./犬走椛.md)
 
 
 ---

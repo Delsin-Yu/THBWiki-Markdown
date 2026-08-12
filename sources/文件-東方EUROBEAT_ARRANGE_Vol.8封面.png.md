@@ -1,6 +1,6 @@
 # 文件:東方EUROBEAT_ARRANGE_Vol.8封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\79\ns6%3A%E6%9D%B1%E6%96%B9EUROBEAT_ARRANGE_Vol%2E8%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\79\ns6%3A%E6%9D%B1%E6%96%B9EUROBEAT_ARRANGE_Vol%2E8%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 SuganoMusic | 专辑封面 | 封面图片
 
@@ -11,12 +11,7 @@ SuganoMusic | 专辑封面 | 封面图片
 - [東方EUROBEAT ARRANGE Vol.8](./東方EUROBEAT_ARRANGE_Vol.8.md)
 
   
-源地址：[[1]](http://suganomusic.com/wp/wp-content/uploads/2016/04/toho_eurobeat_arrange_8.png)
-  
-
-
-
-
+源地址：[\[1\]](http://suganomusic.com/wp/wp-content/uploads/2016/04/toho_eurobeat_arrange_8.png)  
 
 ---
 

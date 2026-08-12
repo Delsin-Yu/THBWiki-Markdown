@@ -1,6 +1,6 @@
 # 文件:TOHO_CHAOS_MIX_2封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c4\ns6%3ATOHO_CHAOS_MIX_2%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c4\ns6%3ATOHO_CHAOS_MIX_2%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 CHAOS_MIXER | 专辑封面 | 封面图片
 
@@ -8,12 +8,9 @@ CHAOS_MIXER | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [TOHO CHAOS MIX 2](./TOHO_CHAOS_MIX_2.md)  
-该封面包含的角色：- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)源地址：[[1]](https://web.archive.org/web/20140919210919/http://chaosmix.net/r8tokusetu/reitaisai8.html)
-
-
-
-
+- [TOHO CHAOS MIX 2](./TOHO_CHAOS_MIX_2.md)该封面包含的角色：
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
+源地址：[\[1\]](https://web.archive.org/web/20140919210919/http://chaosmix.net/r8tokusetu/reitaisai8.html)
 
 ---
 

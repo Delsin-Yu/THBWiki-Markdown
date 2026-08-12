@@ -1,12 +1,8 @@
 # 文件:THD2轻飘飘的布.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e1\ns6%3ATHD2%E8%BD%BB%E9%A3%98%E9%A3%98%E7%9A%84%E5%B8%83%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e1\ns6%3ATHD2%E8%BD%BB%E9%A3%98%E9%A3%98%E7%9A%84%E5%B8%83%2Epng.html -->
 
 东方DOTS玩家社群
-
-
-
-
 
 
 ---

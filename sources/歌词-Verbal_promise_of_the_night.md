@@ -1,26 +1,17 @@
 # 歌词:Verbal_promise_of_the_night
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\64\ns512%3AVerbal_promise_of_the_night.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\64\ns512%3AVerbal_promise_of_the_night.html -->
 
 Alstroemeria_Records | 使用了翻译表的页面 | 日文歌词 | 歌词 | 没有翻译的歌词
 
 
-<table><tbody><tr><th colspan="2">曲目信息</th></tr><tr><td colspan="2" style="padding-left: 1em;"><div class="floatright"><a href="./文件-RESONATE_DANCEHALL封面.jpg.md" class="image" title="RESONATE DANCEHALL"><img alt="RESONATE DANCEHALL" src="https://upload.thwiki.cc/thumb/0/06/RESONATE_DANCEHALL%E5%B0%81%E9%9D%A2.jpg/200px-RESONATE_DANCEHALL%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="200" height="200" srcset="https://upload.thwiki.cc/thumb/0/06/RESONATE_DANCEHALL%E5%B0%81%E9%9D%A2.jpg/300px-RESONATE_DANCEHALL%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/0/06/RESONATE_DANCEHALL%E5%B0%81%E9%9D%A2.jpg/400px-RESONATE_DANCEHALL%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="800" data-file-height="800"></a></div><b><a href="/RESONATE_DANCEHALL#4" title="RESONATE DANCEHALL">Verbal promise of the night</a></b> &#91;03:30&#93;<dl><dd><a href="./RESONATE_DANCEHALL.md" title="RESONATE DANCEHALL">RESONATE DANCEHALL</a> （2019-05-05）<br>社团：<a href="./Alstroemeria_Records.md" title="Alstroemeria Records">Alstroemeria Records</a><br>编曲：<a href="./Masayoshi_Minoshima.md" title="Masayoshi Minoshima">Masayoshi Minoshima</a><br>演唱：<a href="./美里.md" title="美里">美里</a><br>作词：<a href="./ayame.md" title="ayame">ayame</a><br>原曲：<a href="./夜雀の歌声_～_Night_Bird.md" class="mw-redirect" title="夜雀の歌声 ～ Night Bird">夜雀の歌声　～ Night Bird</a><br></dd></dl></td></tr></tbody></table>
+<table><tbody><tr><th colspan="2">曲目信息</th></tr><tr><td colspan="2" style="padding-left: 1em;"><div class="floatright"><a href="./文件-RESONATE_DANCEHALL封面.jpg.md" class="image" title="RESONATE DANCEHALL"><img alt="RESONATE DANCEHALL" src="https://upload.thwiki.cc/thumb/0/06/RESONATE_DANCEHALL%E5%B0%81%E9%9D%A2.jpg/200px-RESONATE_DANCEHALL%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="200" height="200" srcset="https://upload.thwiki.cc/thumb/0/06/RESONATE_DANCEHALL%E5%B0%81%E9%9D%A2.jpg/300px-RESONATE_DANCEHALL%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/0/06/RESONATE_DANCEHALL%E5%B0%81%E9%9D%A2.jpg/400px-RESONATE_DANCEHALL%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="800" data-file-height="800"></a></div><b><a href="./RESONATE_DANCEHALL.md#4" title="RESONATE DANCEHALL">Verbal promise of the night</a></b> [03:30]<dl><dd><a href="./RESONATE_DANCEHALL.md" title="RESONATE DANCEHALL">RESONATE DANCEHALL</a> （2019-05-05）<br>社团：<a href="./Alstroemeria_Records.md" title="Alstroemeria Records">Alstroemeria Records</a><br>编曲：<a href="./Masayoshi_Minoshima.md" title="Masayoshi Minoshima">Masayoshi Minoshima</a><br>演唱：<a href="./美里.md" title="美里">美里</a><br>作词：<a href="./ayame.md" title="ayame">ayame</a><br>原曲：<a href="./夜雀的歌声_～_Night_Bird.md" class="mw-redirect" title="夜雀の歌声 ～ Night Bird">夜雀の歌声　～ Night Bird</a><br></dd></dl></td></tr></tbody></table>
+
 
 - 歌词语言：日文
 
-  
-  
-
-  
-
 
 <table><tbody><tr class="tt-lyrics-header" id="=-1" data-pos="&#91;&quot;=&quot;,1&#93;"><td class="tt-lyrics" lang="zh"><div class="poem"></div></td><td class="tt-mainh" lang="zh"><div class="poem"></div></td><td class="tt-tranh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-main-ja" id="=-2" data-pos="&#91;&quot;=&quot;,2&#93;"><td class="tt-time" lang="zh"><div class="poem"></div></td><td class="tt-ja" lang="ja"><div class="poem">今だけ約束も忘れて手を取るの</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-main-ja" id="=-3" data-pos="&#91;&quot;=&quot;,3&#93;"><td class="tt-time" lang="zh"><div class="poem"></div></td><td class="tt-ja" lang="ja"><div class="poem">口に触る優しい音 月が照らす</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-main-ja" id="=-4" data-pos="&#91;&quot;=&quot;,4&#93;"><td class="tt-time" lang="zh"><div class="poem"></div></td><td class="tt-ja" lang="ja"><div class="poem">今夜は眠れない</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-lyrics-sep" id="=-5" data-pos="&#91;&quot;=&quot;,5&#93;"><td class="tt-sep" lang="zh"><div class="poem"></div></td><td class="tt-text" lang="zh"><div class="poem"></div></td><td class="tt-tran" lang="zh"><div class="poem"></div></td></tr><tr class="tt-main-ja" id="=-6" data-pos="&#91;&quot;=&quot;,6&#93;"><td class="tt-time" lang="zh"><div class="poem"></div></td><td class="tt-ja" lang="ja"><div class="poem">一度のとびきりの魔法で色づくの</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-main-ja" id="=-7" data-pos="&#91;&quot;=&quot;,7&#93;"><td class="tt-time" lang="zh"><div class="poem"></div></td><td class="tt-ja" lang="ja"><div class="poem">夜を描く秘密が好き この想いは</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-main-ja" id="=-8" data-pos="&#91;&quot;=&quot;,8&#93;"><td class="tt-time" lang="zh"><div class="poem"></div></td><td class="tt-ja" lang="ja"><div class="poem">貴方は知らない</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr></tbody></table>
-
-
-
-
-
 
 
 ---

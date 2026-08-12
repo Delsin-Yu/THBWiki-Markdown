@@ -1,16 +1,12 @@
 # 模板:QL
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\3\30\ns10%3AQL.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\3\30\ns10%3AQL.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

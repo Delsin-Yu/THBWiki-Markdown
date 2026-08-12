@@ -1,6 +1,6 @@
 # 遗落珊石海_~_Forgotten_Marine-vita_Conunity/后记
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\2d\ns0%3A%E9%81%97%E8%90%BD%E7%8F%8A%E7%9F%B3%E6%B5%B7_%7E_Forgotten_Marine-vita_Conunity%2F%E5%90%8E%E8%AE%B0.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\2d\ns0%3A%E9%81%97%E8%90%BD%E7%8F%8A%E7%9F%B3%E6%B5%B7_%7E_Forgotten_Marine-vita_Conunity%2F%E5%90%8E%E8%AE%B0.html -->
 
 梦现彼岸结界社
 
@@ -8,25 +8,20 @@
 ## 目录
 
 - [1 后记](#后记)
-
   - [1.1 11](#11)
   - [1.2 True Marina](#True_Marina)
   - [1.3 猫步桑](#猫步桑)
 
 
-
 - [2 注释](#注释)
 
 
-
-
-
 ## 后记
-- 本页面内容为同人音乐CD **遗落珊石海** 的附带文档（Booklet）。
+
+- 本页面内容为同人音乐CD**遗落珊石海**的附带文档（Booklet）。
 
 
 ### 11
-
   
 您好，我是作曲者11。  
 
@@ -45,22 +40,17 @@
 至少我觉得我是这样的，各位听众又意下如何呢？  
 
 我果然还是更喜欢蓝色啊，大海的颜色。  
-
   
 
 到此为止，希望大家都能够多多支持。  
 
 感谢您的欣赏。  
-
   
 
 2016年 11
   
 
-
-
 ### True Marina
-
   
 您好，感谢您能够购买CD，我是True Marina。  
 
@@ -73,16 +63,12 @@
 这对我来说是个开端，我会争取在保证质量的情况下，作出更多动听的曲子。  
 
 Marina[^cite_note-1]也是海蓝色呢，宝石般的通透感。  
-
   
 
 2016年 True Marina
   
 
-
-
 ### 猫步桑
-
   
 唔于是抱着试一试的态度来参与制作了Guest曲~  
 
@@ -97,20 +83,12 @@ Marina[^cite_note-1]也是海蓝色呢，宝石般的通透感。
 顺便，11聚聚真是太触啦！  
 
 NYEH HEH HEH HEH HEH HEH HEH！[^cite_note-2]  
-
   
 
 2016年 猫步桑
   
-
-
-
 [^cite_note-1]: 源于拉丁文，寓意为“大海”。
-
-
-
-
-
+[^cite_note-2]: 笑声的拟声词，可能neta《Undertale》中的曲子《Nyeh Heh Heh!》。
 
 ---
 

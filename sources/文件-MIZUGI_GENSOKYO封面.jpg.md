@@ -1,6 +1,6 @@
 # 文件:MIZUGI_GENSOKYO封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\07\ns6%3AMIZUGI_GENSOKYO%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\07\ns6%3AMIZUGI_GENSOKYO%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Rainbow_Vanilla | 同人志封面 | 封面图片
 
@@ -10,11 +10,23 @@ Rainbow_Vanilla | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [MIZUGI GENSOKYO](./MIZUGI_GENSOKYO.md)  
-该封面包含的角色：- [露米娅](./露米娅.md)- [琪露诺](./琪露诺.md)- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [魂魄妖梦](./魂魄妖梦.md)- [西行寺幽幽子](./西行寺幽幽子.md)- [射命丸文](./射命丸文.md)- [犬走椛](./犬走椛.md)- [东风谷早苗](./东风谷早苗.md)- [古明地觉](./古明地觉.md)- [古明地恋](./古明地恋.md)- [封兽鵺](./封兽鵺.md)- [雾雨魔理沙](./雾雨魔理沙.md)- [姬海棠果](./姬海棠果.md)- [秦心](./秦心.md)- [克劳恩皮丝](./克劳恩皮丝.md)
-
-
-
+- [MIZUGI GENSOKYO](./MIZUGI_GENSOKYO.md)该封面包含的角色：
+- [露米娅](./露米娅.md)
+- [琪露诺](./琪露诺.md)
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [魂魄妖梦](./魂魄妖梦.md)
+- [西行寺幽幽子](./西行寺幽幽子.md)
+- [射命丸文](./射命丸文.md)
+- [犬走椛](./犬走椛.md)
+- [东风谷早苗](./东风谷早苗.md)
+- [古明地觉](./古明地觉.md)
+- [古明地恋](./古明地恋.md)
+- [封兽鵺](./封兽鵺.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
+- [姬海棠果](./姬海棠果.md)
+- [秦心](./秦心.md)
+- [克劳恩皮丝](./克劳恩皮丝.md)
 
 
 ---

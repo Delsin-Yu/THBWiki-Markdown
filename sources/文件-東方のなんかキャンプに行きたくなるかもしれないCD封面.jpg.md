@@ -1,6 +1,6 @@
 # 文件:東方のなんかキャンプに行きたくなるかもしれないCD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\35\ns6%3A%E6%9D%B1%E6%96%B9%E3%81%AE%E3%81%AA%E3%82%93%E3%81%8B%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%97%E3%81%AB%E8%A1%8C%E3%81%8D%E3%81%9F%E3%81%8F%E3%81%AA%E3%82%8B%E3%81%8B%E3%82%82%E3%81%97%E3%82%8C%E3%81%AA%E3%81%84CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\35\ns6%3A%E6%9D%B1%E6%96%B9%E3%81%AE%E3%81%AA%E3%82%93%E3%81%8B%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%97%E3%81%AB%E8%A1%8C%E3%81%8D%E3%81%9F%E3%81%8F%E3%81%AA%E3%82%8B%E3%81%8B%E3%82%82%E3%81%97%E3%82%8C%E3%81%AA%E3%81%84CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 竹串confusion
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方のなんかキャンプに行きたくなるかもしれないCD](./東方のなんかキャンプに行きたくなるかもしれないCD.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [東方のなんかキャンプに行きたくなるかもしれないCD](./東方のなんかキャンプに行きたくなるかもしれないCD.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

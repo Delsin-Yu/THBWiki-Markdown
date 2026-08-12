@@ -1,6 +1,6 @@
 # 文件:Kaleidoscope封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\34\ns6%3AKaleidoscope%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\34\ns6%3AKaleidoscope%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 RG-BOX | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ RG-BOX | 专辑封面 | 封面图片
   
 
 - [Kaleidoscope](./Kaleidoscope.md)
-
-
-
 
 
 ---

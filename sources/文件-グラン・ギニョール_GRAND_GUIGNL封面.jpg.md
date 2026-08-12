@@ -1,6 +1,6 @@
 # 文件:グラン・ギニョール_GRAND_GUIGNL封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e0\ns6%3A%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%BB%E3%82%AE%E3%83%8B%E3%83%A7%E3%83%BC%E3%83%AB_GRAND_GUIGNL%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e0\ns6%3A%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%BB%E3%82%AE%E3%83%8B%E3%83%A7%E3%83%BC%E3%83%AB_GRAND_GUIGNL%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 劇団文七 | 同人志封面 | 封面图片
 
@@ -8,11 +8,14 @@
 使用了本文件作封面图片的作品：
   
 
-- [グラン・ギニョール GRAND GUIGNL](./グラン・ギニョール_GRAND_GUIGNL.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)- [西行寺幽幽子](./西行寺幽幽子.md)- [八云紫](./八云紫.md)- [上白泽慧音](./上白泽慧音.md)- [霍青娥](./霍青娥.md)- [物部布都](./物部布都.md)
-
-
-
+- [グラン・ギニョール GRAND GUIGNL](./グラン・ギニョール_GRAND_GUIGNL.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
+- [西行寺幽幽子](./西行寺幽幽子.md)
+- [八云紫](./八云紫.md)
+- [上白泽慧音](./上白泽慧音.md)
+- [霍青娥](./霍青娥.md)
+- [物部布都](./物部布都.md)
 
 
 ---

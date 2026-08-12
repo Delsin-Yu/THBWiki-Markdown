@@ -1,6 +1,6 @@
 # 文件:EXOTHERMA封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\61\ns6%3AEXOTHERMA%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\61\ns6%3AEXOTHERMA%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Alter_Synth | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Alter_Synth | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [EXOTHERMA](./EXOTHERMA.md)  
-该封面包含的角色：- [灵乌路空](./灵乌路空.md)
+- [EXOTHERMA](./EXOTHERMA.md)该封面包含的角色：
+- [灵乌路空](./灵乌路空.md)
 
   
-源地址：[[1]](https://altersynth.bandcamp.com/album/exotherma)
-  
-
-
-
-
+源地址：[\[1\]](https://altersynth.bandcamp.com/album/exotherma)  
 
 ---
 

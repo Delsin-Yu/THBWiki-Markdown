@@ -1,12 +1,8 @@
 # 文件:GoM插图（米斯蒂娅-1-2）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c9\ns6%3AGoM%E6%8F%92%E5%9B%BE%EF%BC%88%E7%B1%B3%E6%96%AF%E8%92%82%E5%A8%85-1-2%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c9\ns6%3AGoM%E6%8F%92%E5%9B%BE%EF%BC%88%E7%B1%B3%E6%96%AF%E8%92%82%E5%A8%85-1-2%EF%BC%89%2Ejpg.html -->
 
 米斯蒂娅·萝蕾拉 | 魔理沙的魔法书
-
-
-
-
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:米斯蒂娅·萝蕾拉b（花映塚立绘）07sw.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a5\ns6%3A%E7%B1%B3%E6%96%AF%E8%92%82%E5%A8%85%C2%B7%E8%90%9D%E8%95%BE%E6%8B%89b%EF%BC%88%E8%8A%B1%E6%98%A0%E5%A1%9A%E7%AB%8B%E7%BB%98%EF%BC%8907sw%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a5\ns6%3A%E7%B1%B3%E6%96%AF%E8%92%82%E5%A8%85%C2%B7%E8%90%9D%E8%95%BE%E6%8B%89b%EF%BC%88%E8%8A%B1%E6%98%A0%E5%A1%9A%E7%AB%8B%E7%BB%98%EF%BC%8907sw%2Epng.html -->
 
 ZUN绘 | 东方花映塚 | 官方游戏立绘 | 米斯蒂娅·萝蕾拉
-
-
-
-
 
 
 ---

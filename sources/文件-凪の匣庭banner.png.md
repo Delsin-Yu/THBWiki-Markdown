@@ -1,12 +1,8 @@
 # 文件:凪の匣庭banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1b\ns6%3A%E5%87%AA%E3%81%AE%E5%8C%A3%E5%BA%ADbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1b\ns6%3A%E5%87%AA%E3%81%AE%E5%8C%A3%E5%BA%ADbanner%2Epng.html -->
 
 凪の匣庭 | 社团LOGO
-
-
-
-
 
 
 ---

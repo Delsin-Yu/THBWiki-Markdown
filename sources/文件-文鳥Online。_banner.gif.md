@@ -1,12 +1,8 @@
 # 文件:文鳥Online。_banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\34\ns6%3A%E6%96%87%E9%B3%A5Online%E3%80%82_banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\34\ns6%3A%E6%96%87%E9%B3%A5Online%E3%80%82_banner%2Egif.html -->
 
 文鳥Online。 | 社团LOGO
-
-
-
-
 
 
 ---

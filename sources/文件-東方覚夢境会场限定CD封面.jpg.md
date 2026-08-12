@@ -1,6 +1,6 @@
 # 文件:東方覚夢境会场限定CD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ec\ns6%3A%E6%9D%B1%E6%96%B9%E8%A6%9A%E5%A4%A2%E5%A2%83%E4%BC%9A%E5%9C%BA%E9%99%90%E5%AE%9ACD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ec\ns6%3A%E6%9D%B1%E6%96%B9%E8%A6%9A%E5%A4%A2%E5%A2%83%E4%BC%9A%E5%9C%BA%E9%99%90%E5%AE%9ACD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Static_World | 专辑封面 | 封面图片 | 郑州THO组委会
 
@@ -8,11 +8,9 @@ Static_World | 专辑封面 | 封面图片 | 郑州THO组委会
 使用了本文件作封面图片的作品：
   
 
-- [東方覚夢境会场限定CD](./東方覚夢境会场限定CD.md)  
-该封面包含的角色：- [古明地觉](./古明地觉.md)- [古明地恋](./古明地恋.md)
-
-
-
+- [東方覚夢境会场限定CD](./東方覚夢境会场限定CD.md)该封面包含的角色：
+- [古明地觉](./古明地觉.md)
+- [古明地恋](./古明地恋.md)
 
 
 ---

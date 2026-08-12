@@ -1,6 +1,6 @@
 # 文件:T.T.E._SINGLE_01封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3e\ns6%3AT%2ET%2EE%2E_SINGLE_01%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3e\ns6%3AT%2ET%2EE%2E_SINGLE_01%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 粒々アンサンブル
 
@@ -11,9 +11,6 @@
   
 
 - [T.T.E. SINGLE 01](./T.T.E._SINGLE_01.md)
-
-
-
 
 
 ---

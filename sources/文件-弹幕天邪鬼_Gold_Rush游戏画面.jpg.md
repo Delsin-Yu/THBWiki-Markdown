@@ -1,12 +1,8 @@
 # 文件:弹幕天邪鬼_Gold_Rush游戏画面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\54\ns6%3A%E5%BC%B9%E5%B9%95%E5%A4%A9%E9%82%AA%E9%AC%BC_Gold_Rush%E6%B8%B8%E6%88%8F%E7%94%BB%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\54\ns6%3A%E5%BC%B9%E5%B9%95%E5%A4%A9%E9%82%AA%E9%AC%BC_Gold_Rush%E6%B8%B8%E6%88%8F%E7%94%BB%E9%9D%A2%2Ejpg.html -->
 
 弹幕天邪鬼
-
-
-
-
 
 
 ---

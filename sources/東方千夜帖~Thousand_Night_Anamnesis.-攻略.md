@@ -1,11 +1,10 @@
 # 東方千夜帖~Thousand_Night_Anamnesis./攻略
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\c\cf\ns0%3A%E6%9D%B1%E6%96%B9%E5%8D%83%E5%A4%9C%E5%B8%96%7EThousand_Night_Anamnesis%2E%2F%E6%94%BB%E7%95%A5.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\c\cf\ns0%3A%E6%9D%B1%E6%96%B9%E5%8D%83%E5%A4%9C%E5%B8%96%7EThousand_Night_Anamnesis%2E%2F%E6%94%BB%E7%95%A5.html -->
 
 サラダ | 待完成页面
 
 <center>
-
 <table>
 <tbody><tr>
 <td class="mbox-image"><div style="width: 52px;">
@@ -14,16 +13,16 @@
 </tr>
 </tbody></table>
 
-
 </center>
-
 ### 综述
+
 - 本游戏操作模式为触屏操作，在屏幕上滑动即可操纵自机避弹，不过不建议将手指放在自机上滑动，因为这样很容易遮住自机从而影响避弹。
-- 游戏难度有四种:
+- 游戏难度有四种: 
   - 彗星级（E）～虚幻消散的难度
   - 妖星级（N）～带来诡异的难度
   - 星云级（H）～难以掌控的难度
   - 银河级（L）～永无止境的难度
+
 
 - 使用任意机体通关某一难度的红～天关卡，即可开启该难度的EX关，通关EX后会开启PH关（EX和PH关的开启范围是某个达到要求的难度，开启后所有机体都可以玩这两关，不管之前是否是用这个机体达成通关要求）。在练习模式中可以练习在boss处见过一次以上的符卡（分机体，例如梦a在E见过一次或以上的露米娅一符，那么梦a就可以在E难度中练习这张符，梦b就不行，梦a在除了E难度以外的难度也不行），也可以练习在关卡处见过一次以上的boss（一个机体达成要求则全机体适用，不过和符卡练习一样不能跨难度），在某难度红～天通关后可以开启boss rush。在通关或者练习时可以选择是否射击。
 - bomb触发有三种形式：按钮（可调位置和透明度）双击屏幕，无bomb。在中弹后立即按bomb可触发决死（决死时间长），损失1bomb而不损失残机，但是如果经常决死会导致资源匮乏，因此不建议过多使用。
@@ -34,12 +33,7 @@
 
 ### 机体分析及火力
   
-[传送门](./東方千夜帖~Thousand_Night_Anamnesis.-机体性能.md)
-  
-
-
-
-
+[传送门](./東方千夜帖~Thousand_Night_Anamnesis.-机体性能.md)  
 
 ---
 

@@ -1,16 +1,12 @@
 # 模板:NTHC
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\8\86\ns10%3ANTHC.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\8\86\ns10%3ANTHC.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

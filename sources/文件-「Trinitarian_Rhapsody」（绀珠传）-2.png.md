@@ -1,12 +1,8 @@
 # 文件:「Trinitarian_Rhapsody」（绀珠传）-2.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a4\ns6%3A%E3%80%8CTrinitarian_Rhapsody%E3%80%8D%EF%BC%88%E7%BB%80%E7%8F%A0%E4%BC%A0%EF%BC%89-2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a4\ns6%3A%E3%80%8CTrinitarian_Rhapsody%E3%80%8D%EF%BC%88%E7%BB%80%E7%8F%A0%E4%BC%A0%EF%BC%89-2%2Epng.html -->
 
 东方绀珠传 | 敌机符卡 | 赫卡提亚·拉碧斯拉祖利
-
-
-
-
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:雾雨魔理沙（星莲船Manual）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b7\ns6%3A%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9Manual%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b7\ns6%3A%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9Manual%EF%BC%89%2Ejpg.html -->
 
 Manual配图 | 东方星莲船 | 雾雨魔理沙
-
-
-
-
 
 
 ---

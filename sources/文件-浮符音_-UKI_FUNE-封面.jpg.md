@@ -1,6 +1,6 @@
 # 文件:浮符音_-UKI_FUNE-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\92\ns6%3A%E6%B5%AE%E7%AC%A6%E9%9F%B3_-UKI_FUNE-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\92\ns6%3A%E6%B5%AE%E7%AC%A6%E9%9F%B3_-UKI_FUNE-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 K2_SOUND | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ K2_SOUND | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [浮符音 -UKI FUNE-](./浮符音_-UKI_FUNE-.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [浮符音 -UKI FUNE-](./浮符音_-UKI_FUNE-.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

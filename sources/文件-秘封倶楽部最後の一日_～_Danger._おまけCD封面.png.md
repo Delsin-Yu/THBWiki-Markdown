@@ -1,6 +1,6 @@
 # 文件:秘封倶楽部最後の一日_～_Danger._おまけCD封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\90\ns6%3A%E7%A7%98%E5%B0%81%E5%80%B6%E6%A5%BD%E9%83%A8%E6%9C%80%E5%BE%8C%E3%81%AE%E4%B8%80%E6%97%A5_%EF%BD%9E_Danger%2E_%E3%81%8A%E3%81%BE%E3%81%91CD%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\90\ns6%3A%E7%A7%98%E5%B0%81%E5%80%B6%E6%A5%BD%E9%83%A8%E6%9C%80%E5%BE%8C%E3%81%AE%E4%B8%80%E6%97%A5_%EF%BD%9E_Danger%2E_%E3%81%8A%E3%81%BE%E3%81%91CD%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 XEoN×少女墓石倶楽部 | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ XEoN×少女墓石倶楽部 | 专辑封面 | 封面图片
   
 
 - [秘封倶楽部最後の一日 ～ Danger. おまけCD](./秘封倶楽部最後の一日_～_Danger._おまけCD.md)
-
-
-
 
 
 ---

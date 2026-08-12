@@ -1,6 +1,6 @@
 # 文件:Autumn_Children封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0a\ns6%3AAutumn_Children%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0a\ns6%3AAutumn_Children%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 House_of_Sixten | 同人志封面 | 封面图片
 
@@ -10,16 +10,12 @@ House_of_Sixten | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Autumn Children](./Autumn_Children.md)  
-该封面包含的角色：- [露娜萨·普莉兹姆利巴](./露娜萨·普莉兹姆利巴.md)- [秋静叶](./秋静叶.md)
+- [Autumn Children](./Autumn_Children.md)该封面包含的角色：
+- [露娜萨·普莉兹姆利巴](./露娜萨·普莉兹姆利巴.md)
+- [秋静叶](./秋静叶.md)
 
   
-[Pixiv artwork ID: 32677922 (original size)](https://www.pixiv.net/artworks/32677922)
-  
-
-
-
-
+[Pixiv artwork ID: 32677922 (original size)](https://www.pixiv.net/artworks/32677922)  
 
 ---
 

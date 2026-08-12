@@ -1,6 +1,6 @@
 # 文件:BATTLE_OF_GENSOKYO封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8a\ns6%3ABATTLE_OF_GENSOKYO%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8a\ns6%3ABATTLE_OF_GENSOKYO%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Groovy_Trancer | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Groovy_Trancer | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [BATTLE OF GENSOKYO](./BATTLE_OF_GENSOKYO.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [BATTLE OF GENSOKYO](./BATTLE_OF_GENSOKYO.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

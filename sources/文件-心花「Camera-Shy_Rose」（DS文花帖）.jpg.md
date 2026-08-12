@@ -1,12 +1,8 @@
 # 文件:心花「Camera-Shy_Rose」（DS文花帖）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7b\ns6%3A%E5%BF%83%E8%8A%B1%E3%80%8CCamera-Shy_Rose%E3%80%8D%EF%BC%88DS%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7b\ns6%3A%E5%BF%83%E8%8A%B1%E3%80%8CCamera-Shy_Rose%E3%80%8D%EF%BC%88DS%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Ejpg.html -->
 
 东方文花帖DS | 古明地觉 | 敌机符卡
-
-
-
-
 
 
 ---

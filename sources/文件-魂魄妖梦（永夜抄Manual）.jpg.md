@@ -1,12 +1,8 @@
 # 文件:魂魄妖梦（永夜抄Manual）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\13\ns6%3A%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6%EF%BC%88%E6%B0%B8%E5%A4%9C%E6%8A%84Manual%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\13\ns6%3A%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6%EF%BC%88%E6%B0%B8%E5%A4%9C%E6%8A%84Manual%EF%BC%89%2Ejpg.html -->
 
 Manual配图 | 东方永夜抄 | 魂魄妖梦
-
-
-
-
 
 
 ---

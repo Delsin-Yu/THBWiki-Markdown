@@ -1,6 +1,6 @@
 # 文件:藍色の華_不可能な境界Rewrite_Ⅱ後篇_Preview封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4a\ns6%3A%E8%97%8D%E8%89%B2%E3%81%AE%E8%8F%AF_%E4%B8%8D%E5%8F%AF%E8%83%BD%E3%81%AA%E5%A2%83%E7%95%8CRewrite_%E2%85%A1%E5%BE%8C%E7%AF%87_Preview%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4a\ns6%3A%E8%97%8D%E8%89%B2%E3%81%AE%E8%8F%AF_%E4%B8%8D%E5%8F%AF%E8%83%BD%E3%81%AA%E5%A2%83%E7%95%8CRewrite_%E2%85%A1%E5%BE%8C%E7%AF%87_Preview%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 雅趣雅俗
 
@@ -11,9 +11,6 @@
   
 
 - [藍色の華 不可能な境界Rewrite Ⅱ後篇 Preview](./藍色の華_不可能な境界Rewrite_Ⅱ後篇_Preview.md)
-
-
-
 
 
 ---

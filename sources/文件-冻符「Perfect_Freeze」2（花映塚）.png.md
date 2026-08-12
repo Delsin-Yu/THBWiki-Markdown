@@ -1,12 +1,8 @@
 # 文件:冻符「Perfect_Freeze」2（花映塚）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\57\ns6%3A%E5%86%BB%E7%AC%A6%E3%80%8CPerfect_Freeze%E3%80%8D2%EF%BC%88%E8%8A%B1%E6%98%A0%E5%A1%9A%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\57\ns6%3A%E5%86%BB%E7%AC%A6%E3%80%8CPerfect_Freeze%E3%80%8D2%EF%BC%88%E8%8A%B1%E6%98%A0%E5%A1%9A%EF%BC%89%2Epng.html -->
 
 东方花映塚 | 琪露诺
-
-
-
-
 
 
 ---

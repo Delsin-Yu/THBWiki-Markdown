@@ -1,6 +1,6 @@
 # 文件:逆転東方オリジナルサウンドトラック_s350_Collection封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c4\ns6%3A%E9%80%86%E8%BB%A2%E6%9D%B1%E6%96%B9%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF_s350_Collection%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c4\ns6%3A%E9%80%86%E8%BB%A2%E6%9D%B1%E6%96%B9%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF_s350_Collection%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 GothiC | すいかやさん | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ GothiC | すいかやさん | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [逆転東方オリジナルサウンドトラック s350 Collection](./逆転東方オリジナルサウンドトラック_s350_Collection.md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)
+- [逆転東方オリジナルサウンドトラック s350 Collection](./逆転東方オリジナルサウンドトラック_s350_Collection.md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
 
   
-源地址：[from crossfade](https://i1.sndcdn.com/artworks-000028027980-52x0su-t500x500.jpg)
-  
-
-
-
-
+源地址：[from crossfade](https://i1.sndcdn.com/artworks-000028027980-52x0su-t500x500.jpg)  
 
 ---
 

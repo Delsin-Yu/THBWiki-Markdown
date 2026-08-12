@@ -1,6 +1,6 @@
 # 文件:幽閉サテライトワンマン2022_Special_CD「月の都へ」封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\89\ns6%3A%E5%B9%BD%E9%96%89%E3%82%B5%E3%83%86%E3%83%A9%E3%82%A4%E3%83%88%E3%83%AF%E3%83%B3%E3%83%9E%E3%83%B32022_Special_CD%E3%80%8C%E6%9C%88%E3%81%AE%E9%83%BD%E3%81%B8%E3%80%8D%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\89\ns6%3A%E5%B9%BD%E9%96%89%E3%82%B5%E3%83%86%E3%83%A9%E3%82%A4%E3%83%88%E3%83%AF%E3%83%B3%E3%83%9E%E3%83%B32022_Special_CD%E3%80%8C%E6%9C%88%E3%81%AE%E9%83%BD%E3%81%B8%E3%80%8D%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 幽闭星光
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [幽閉サテライトワンマン2022 Special CD「月の都へ」](./幽閉サテライトワンマン2022_Special_CD「月の都へ」.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [幽閉サテライトワンマン2022 Special CD「月の都へ」](./幽閉サテライトワンマン2022_Special_CD「月の都へ」.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

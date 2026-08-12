@@ -1,6 +1,6 @@
 # 文件:東方狂歌物語_おためしCD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f0\ns6%3A%E6%9D%B1%E6%96%B9%E7%8B%82%E6%AD%8C%E7%89%A9%E8%AA%9E_%E3%81%8A%E3%81%9F%E3%82%81%E3%81%97CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f0\ns6%3A%E6%9D%B1%E6%96%B9%E7%8B%82%E6%AD%8C%E7%89%A9%E8%AA%9E_%E3%81%8A%E3%81%9F%E3%82%81%E3%81%97CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 天然ジェミニ | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方狂歌物語 おためしCD](./東方狂歌物語_おためしCD.md)  
-该封面包含的角色：- [西行寺幽幽子](./西行寺幽幽子.md)
-
-
-
+- [東方狂歌物語 おためしCD](./東方狂歌物語_おためしCD.md)该封面包含的角色：
+- [西行寺幽幽子](./西行寺幽幽子.md)
 
 
 ---

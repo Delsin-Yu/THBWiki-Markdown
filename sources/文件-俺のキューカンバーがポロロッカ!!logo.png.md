@@ -1,16 +1,11 @@
 # 文件:俺のキューカンバーがポロロッカ!!logo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\73\ns6%3A%E4%BF%BA%E3%81%AE%E3%82%AD%E3%83%A5%E3%83%BC%E3%82%AB%E3%83%B3%E3%83%90%E3%83%BC%E3%81%8C%E3%83%9D%E3%83%AD%E3%83%AD%E3%83%83%E3%82%AB%21%21logo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\73\ns6%3A%E4%BF%BA%E3%81%AE%E3%82%AD%E3%83%A5%E3%83%BC%E3%82%AB%E3%83%B3%E3%83%90%E3%83%BC%E3%81%8C%E3%83%9D%E3%83%AD%E3%83%AD%E3%83%83%E3%82%AB%21%21logo%2Epng.html -->
 
 社团LOGO
 
   
-源地址：[[1]](http://pororocca.web.fc2.com/stamp_black.png)
-  
-
-
-
-
+源地址：[\[1\]](http://pororocca.web.fc2.com/stamp_black.png)  
 
 ---
 

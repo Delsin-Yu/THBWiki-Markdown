@@ -1,16 +1,11 @@
 # 文件:街八分logo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\76\ns6%3A%E8%A1%97%E5%85%AB%E5%88%86logo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\76\ns6%3A%E8%A1%97%E5%85%AB%E5%88%86logo%2Ejpg.html -->
 
 社团LOGO | 街八分
 
   
-源地址：[[1]](https://pbs.twimg.com/profile_images/967344245945204737/omk5d9yU_400x400.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://pbs.twimg.com/profile_images/967344245945204737/omk5d9yU_400x400.jpg)  
 
 ---
 

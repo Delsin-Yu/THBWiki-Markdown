@@ -1,18 +1,13 @@
 # 文件:POFbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3e\ns6%3APOFbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3e\ns6%3APOFbanner%2Ejpg.html -->
 
 POF | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[[1]](http://pof.xxxxxxxx.jp/img/banner.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://pof.xxxxxxxx.jp/img/banner.jpg)  
 
 ---
 

@@ -1,16 +1,12 @@
 # 模板:诹访洩矢KEROKERO祭
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\2\20\ns10%3A%E8%AF%B9%E8%AE%BF%E6%B4%A9%E7%9F%A2KEROKERO%E7%A5%AD.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\2\20\ns10%3A%E8%AF%B9%E8%AE%BF%E6%B4%A9%E7%9F%A2KEROKERO%E7%A5%AD.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

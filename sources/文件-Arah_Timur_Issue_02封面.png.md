@@ -1,6 +1,6 @@
 # 文件:Arah_Timur_Issue_02封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e8\ns6%3AArah_Timur_Issue_02%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e8\ns6%3AArah_Timur_Issue_02%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Dead_Fish_Chronicles | 同人志封面 | 封面图片
 
@@ -10,16 +10,18 @@ Dead_Fish_Chronicles | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Arah Timur Issue 02](./Arah_Timur_Issue_02.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)- [伊吹萃香](./伊吹萃香.md)- [洩矢诹访子](./洩矢诹访子.md)- [星熊勇仪](./星熊勇仪.md)- [娜兹玲](./娜兹玲.md)- [姬海棠果](./姬海棠果.md)
+- [Arah Timur Issue 02](./Arah_Timur_Issue_02.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
+- [伊吹萃香](./伊吹萃香.md)
+- [洩矢诹访子](./洩矢诹访子.md)
+- [星熊勇仪](./星熊勇仪.md)
+- [娜兹玲](./娜兹玲.md)
+- [姬海棠果](./姬海棠果.md)
 
   
 ripped from PDF version
   
-
-
-
-
 
 ---
 

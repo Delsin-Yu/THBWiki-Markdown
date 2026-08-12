@@ -1,6 +1,6 @@
 # 文件:東方繰人形2_アリスといっしょ_-Alice_to_Eternal-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3b\ns6%3A%E6%9D%B1%E6%96%B9%E7%B9%B0%E4%BA%BA%E5%BD%A22_%E3%82%A2%E3%83%AA%E3%82%B9%E3%81%A8%E3%81%84%E3%81%A3%E3%81%97%E3%82%87_-Alice_to_Eternal-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3b\ns6%3A%E6%9D%B1%E6%96%B9%E7%B9%B0%E4%BA%BA%E5%BD%A22_%E3%82%A2%E3%83%AA%E3%82%B9%E3%81%A8%E3%81%84%E3%81%A3%E3%81%97%E3%82%87_-Alice_to_Eternal-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Coolier | 封面图片 | 软件封面
 
@@ -10,16 +10,11 @@ Coolier | 封面图片 | 软件封面
 使用了本文件作封面图片的作品：
   
 
-- [東方繰人形2 アリスといっしょ -Alice to Eternal-](./東方繰人形2_アリスといっしょ_-Alice_to_Eternal-.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [東方繰人形2 アリスといっしょ -Alice to Eternal-](./東方繰人形2_アリスといっしょ_-Alice_to_Eternal-.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
 
   
-源地址：[direct image link](http://www5d.biglobe.ne.jp/~coolier2/image/kb2_tle.jpg), [source page](http://www5d.biglobe.ne.jp/~coolier2/kb2.html)
-  
-
-
-
-
+源地址：[direct image link](http://www5d.biglobe.ne.jp/~coolier2/image/kb2_tle.jpg), [source page](http://www5d.biglobe.ne.jp/~coolier2/kb2.html)  
 
 ---
 

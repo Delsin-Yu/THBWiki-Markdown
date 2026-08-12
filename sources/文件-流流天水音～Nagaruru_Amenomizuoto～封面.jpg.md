@@ -1,6 +1,6 @@
 # 文件:流流天水音～Nagaruru_Amenomizuoto～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2c\ns6%3A%E6%B5%81%E6%B5%81%E5%A4%A9%E6%B0%B4%E9%9F%B3%EF%BD%9ENagaruru_Amenomizuoto%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2c\ns6%3A%E6%B5%81%E6%B5%81%E5%A4%A9%E6%B0%B4%E9%9F%B3%EF%BD%9ENagaruru_Amenomizuoto%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 刻刻音樂館 | 封面图片
 
@@ -9,9 +9,6 @@
   
 
 - [流流天水音～Nagaruru Amenomizuoto～](./流流天水音～Nagaruru_Amenomizuoto～.md)
-
-
-
 
 
 ---

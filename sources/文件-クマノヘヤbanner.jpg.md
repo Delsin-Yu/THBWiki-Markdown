@@ -1,14 +1,11 @@
 # 文件:クマノヘヤbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2c\ns6%3A%E3%82%AF%E3%83%9E%E3%83%8E%E3%83%98%E3%83%A4banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2c\ns6%3A%E3%82%AF%E3%83%9E%E3%83%8E%E3%83%98%E3%83%A4banner%2Ejpg.html -->
 
 クマノヘヤ | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

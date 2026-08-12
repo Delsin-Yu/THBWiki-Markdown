@@ -1,18 +1,16 @@
 # Maple_Dream...
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\e\e8\ns0%3AMaple_Dream%2E%2E%2E.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\e\e8\ns0%3AMaple_Dream%2E%2E%2E.html -->
 
 由 ZUN 创作的官方曲目，原名 Maple Dream...
 
 本页是关于东方Project  
- **原作音乐** 的词条
-
+**原作音乐**的词条
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 出现作品](#出现作品)
 - [3 音乐文件](#音乐文件)
-
   - [3.1 东方梦时空](#东方梦时空)
   - [3.2 东方幻想乡](#东方幻想乡)
   - [3.3 东方怪绮谈](#东方怪绮谈)
@@ -20,28 +18,20 @@
   - [3.5 幺乐团的历史 vol.4](#幺乐团的历史_vol.4)
 
 
-
 - [4 说明文本](#说明文本)
-
   - [4.1 东方梦时空](#东方梦时空_2)
   - [4.2 东方怪绮谈](#东方怪绮谈_2)
   - [4.3 东方幻想怀古曲](#东方幻想怀古曲_2)
   - [4.4 东方Project人气投票](#东方Project人气投票)
 
 
-
 - [5 其他资料](#其他资料)
-
   - [5.1 乐理资讯](#乐理资讯)
   - [5.2 分析考据](#分析考据)
   - [5.3 二次同人数据](#二次同人数据)
 
 
-
 - [6 注释](#注释)
-
-
-
 
 
 ## 基本信息
@@ -49,7 +39,6 @@
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">Maple Dream...</td></tr><tr><td><b>译名</b></td><td>Maple Dream...</td></tr><tr><td><b>其他译名</b></td><td>枫之梦...</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 Maple Dream...（曲目） - 由 ZUN 创作的官方曲目，原名 Maple Dream...
-
 ## 出现作品
 
 <table>
@@ -61,7 +50,6 @@ Maple Dream...（曲目） - 由 ZUN 创作的官方曲目，原名 Maple Dream.
 </tbody></table>
 
 
-
 ## 音乐文件
 
 ### 东方梦时空
@@ -69,9 +57,7 @@ Maple Dream...（曲目） - 由 ZUN 创作的官方曲目，原名 Maple Dream.
 YM2608(OPNA)，FM86版。
   
 
-
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th03_18.ogg.md" title="文件:th03 18.ogg">th03_18.ogg</a><br><audio src="https://upload.thwiki.cc/2/26/th03_18.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>ED.M</td></tr><tr><td><b>音轨时长</b></td><td>3:04.968</td></tr></tbody></table>
-
 
 
 ### 东方幻想乡
@@ -79,9 +65,7 @@ YM2608(OPNA)，FM86版。
 YM2608(OPNA)，FM86版。
   
 
-
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th04_Y_18.ogg.md" title="文件:th04 Y 18.ogg">th04_Y_18.ogg</a><br><audio src="https://upload.thwiki.cc/d/d8/th04_Y_18.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>YUMEED86.M</td></tr><tr><td><b>音轨时长</b></td><td>3:04.968</td></tr></tbody></table>
-
 
 
 ### 东方怪绮谈
@@ -89,9 +73,7 @@ YM2608(OPNA)，FM86版。
 YM2608(OPNA)，FM86版。
   
 
-
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th05_Y_18.ogg.md" title="文件:th05 Y 18.ogg">th05_Y_18.ogg</a><br><audio src="https://upload.thwiki.cc/2/21/th05_Y_18.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>Y_ED.M</td></tr><tr><td><b>音轨时长</b></td><td>3:04.968</td></tr></tbody></table>
-
 
 
 ### 东方幻想怀古曲
@@ -99,17 +81,16 @@ YM2608(OPNA)，FM86版。
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-thgs03_18.ogg.md" title="文件:thgs03 18.ogg">thgs03_18.ogg</a><br><audio src="https://upload.thwiki.cc/1/17/thgs03_18.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>th3_18.M</td></tr><tr><td><b>音轨时长</b></td><td>3:04.968</td></tr></tbody></table>
 
 
-
 ### 幺乐团的历史 vol.4
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-ha04_19.mp3.md" title="文件:ha04 19.mp3">ha04_19.mp3</a><br><audio src="https://upload.thwiki.cc/c/c5/ha04_19.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track19.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>2:45</td></tr></tbody></table>
 
 
-
 ## 说明文本
 
 ### 东方梦时空
-- Music Room (未找到链接)
+
+- [Music Room](./东方梦时空-Music.md#Staff画面)
 
 　　　　　　制作人员名单主题曲  
 　　　总有一种，又跟游戏调子偏离了．．．  
@@ -123,9 +104,9 @@ YM2608(OPNA)，FM86版。
 ＺＵＮ（太田）  
 用于东方梦时空的曲子  
 Staff画面曲。可以有列表啊（笑）
-
 ### 东方怪绮谈
-- Music Room (未找到链接)
+
+- [Music Room](./东方怪绮谈-Music.md#东方梦时空-69)
 
 　　Staff画面  
 　　＊８６兼容音源专用Maple Dream  
@@ -133,9 +114,9 @@ Staff画面曲。可以有列表啊（笑）
 用于东方梦时空的曲子  
 Staff画面曲。  
 可以有列表啊（笑）
-
 ### 东方幻想怀古曲
-- th3_18pmd.txt (未找到链接)
+
+- [th3_18pmd.txt](./东方幻想怀古曲-东方梦时空.md#Maple_Dream...)
 
 +----------------------------------------------------------------------------+  
 |【 　 曲名　　】| 【 Maple Dream... 】（原版）  
@@ -172,38 +153,41 @@ Staff画面曲。
 曲子的感想、请求等，这边请  
 　东方幻想空间　「博丽神社」 [http://www16.big.or.jp/~zun/](http://www16.big.or.jp/~zun/)  
 　e-Mail                     zun@big.or.jp
-
 ### 东方Project人气投票
-- 日文东方人气投票记录 (未找到链接)
+
+- [日文东方人气投票记录](./ZUN-日文东方人气投票记录.md#音乐部分1（3票）-2)
 
 这个是让人觉得「啊啊，关闭游戏原来是这个意思」的曲子
-
 ## 其他资料
 
 ### 乐理资讯
 
 ### 分析考据
   
- **Maple Dream...** 
-  
+**Maple Dream...**  
 枫树之梦
   
 
-- Maple
-  - 枫树、槭树。无患子科枫属（ *Acer* ）植物的通称。广泛分布于北半球温带地区，大多为落叶乔木或灌木，许多种类在秋、冬季时全株树叶会转为红色。
-  - 在旧作中，名称带有maple的曲目通常和冰雪有所关联。
+- Maple 
+  - 枫树、槭树。无患子科枫属（*Acer*）植物的通称。广泛分布于北半球温带地区，大多为落叶乔木或灌木，许多种类在秋、冬季时全株树叶会转为红色。
+  - 在旧作中，名称带有maple的曲目通常和冰雪有所关联。 
     - ZUN是以雪下个不停为印象做出这首曲子的。
     - 名称同样带有maple的曲目还有[怪绮谈](./东方怪绮谈.md)4面的主题曲[Maple Wise](./Maple_Wise.md)
       - 怪绮谈4面的场景为[冰雪世界](./冰雪世界.md)
 
 
 
-- Dream
+
+
+
+- Dream 
   - 梦。梦时空中大量内容都包含梦字。
   - 从本作开始，所有的制作人员列表曲都是xx dream格式。
   - 是[永夜抄](./东方永夜抄.md)的“[Eternal Dream　～ 幽玄的槭树](./Eternal_Dream_～_幽玄的枫树.md)”的原曲。
-  - 据说梦见枫树象征家庭和谐？
+  - 据说梦见枫树象征家庭和谐？ 
     - 大家最后和好了？
+
+
 
 
 
@@ -220,18 +204,6 @@ Staff画面曲。
 <tr><td>Arrange</td><td>116</td></tr>
 <tr><td>Vocal率</td><td>18.88%</td></tr>
 </tbody></table>
-
-
-
-
-
-  
-  
-
-  
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:时魂方形文字Logo.jpeg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\60\ns6%3A%E6%97%B6%E9%AD%82%E6%96%B9%E5%BD%A2%E6%96%87%E5%AD%97Logo%2Ejpeg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\60\ns6%3A%E6%97%B6%E9%AD%82%E6%96%B9%E5%BD%A2%E6%96%87%E5%AD%97Logo%2Ejpeg.html -->
 
 时魂躁裂 | 社团LOGO
 
@@ -29,10 +29,6 @@
 
 指针与裂痕共同组成了一个逆十字，欲要反叛与诅咒。
   
-
-
-
-
 
 ---
 

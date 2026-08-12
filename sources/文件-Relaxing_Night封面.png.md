@@ -1,6 +1,6 @@
 # 文件:Relaxing_Night封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5d\ns6%3ARelaxing_Night%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5d\ns6%3ARelaxing_Night%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Mikagura_Records | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Mikagura_Records | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Relaxing Night](./Relaxing_Night.md)  
-该封面包含的角色：- [八云蓝](./八云蓝.md)
-
-
-
+- [Relaxing Night](./Relaxing_Night.md)该封面包含的角色：
+- [八云蓝](./八云蓝.md)
 
 
 ---

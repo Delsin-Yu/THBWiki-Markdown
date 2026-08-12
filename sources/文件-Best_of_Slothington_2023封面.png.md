@@ -1,6 +1,6 @@
 # 文件:Best_of_Slothington_2023封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a4\ns6%3ABest_of_Slothington_2023%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a4\ns6%3ABest_of_Slothington_2023%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 高梨工房
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Best of Slothington 2023](./Best_of_Slothington_2023.md)  
-该封面包含的角色：- 原创角色 (未找到链接)
-
-
-
+- [Best of Slothington 2023](./Best_of_Slothington_2023.md)该封面包含的角色：
+- 原创角色 (未找到链接)
 
 
 ---

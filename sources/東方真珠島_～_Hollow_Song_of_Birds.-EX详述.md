@@ -1,18 +1,16 @@
 # 東方真珠島_～_Hollow_Song_of_Birds./EX详述
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\3\38\ns0%3A%E6%9D%B1%E6%96%B9%E7%9C%9F%E7%8F%A0%E5%B3%B6_%EF%BD%9E_Hollow_Song_of_Birds%2E%2FEX%E8%AF%A6%E8%BF%B0.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\3\38\ns0%3A%E6%9D%B1%E6%96%B9%E7%9C%9F%E7%8F%A0%E5%B3%B6_%EF%BD%9E_Hollow_Song_of_Birds%2E%2FEX%E8%AF%A6%E8%BF%B0.html -->
 
 東方邪星章製作チーム
 
 
 ## 内容页面
+
 - 游戏设定与剧情 (未找到链接)
 - [攻略](./東方真珠島_～_Hollow_Song_of_Birds.-EX详述-攻略.md)
 - 使用说明 (未找到链接)
 - 其他信息 (未找到链接)
-
-
-
 
 
 ---

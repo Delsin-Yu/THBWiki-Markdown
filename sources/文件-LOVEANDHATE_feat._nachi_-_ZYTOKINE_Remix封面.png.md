@@ -1,6 +1,6 @@
 # 文件:LOVEANDHATE_feat._nachi_-_ZYTOKINE_Remix封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\71\ns6%3ALOVEANDHATE_feat%2E_nachi_-_ZYTOKINE_Remix%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\71\ns6%3ALOVEANDHATE_feat%2E_nachi_-_ZYTOKINE_Remix%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 ZYTOKINE | 专辑封面 | 封面图片
 
@@ -10,11 +10,9 @@ ZYTOKINE | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [LOVEANDHATE feat. nachi - ZYTOKINE Remix](./LOVEANDHATE_feat._nachi_-_ZYTOKINE_Remix.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [八云紫](./八云紫.md)
-
-
-
+- [LOVEANDHATE feat. nachi - ZYTOKINE Remix](./LOVEANDHATE_feat._nachi_-_ZYTOKINE_Remix.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [八云紫](./八云紫.md)
 
 
 ---

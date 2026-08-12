@@ -1,6 +1,6 @@
 # 東方千夜帖~Thousand_Night_Anamnesis./敌机符卡/星莲船关卡符卡
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\41\ns0%3A%E6%9D%B1%E6%96%B9%E5%8D%83%E5%A4%9C%E5%B8%96%7EThousand_Night_Anamnesis%2E%2F%E6%95%8C%E6%9C%BA%E7%AC%A6%E5%8D%A1%2F%E6%98%9F%E8%8E%B2%E8%88%B9%E5%85%B3%E5%8D%A1%E7%AC%A6%E5%8D%A1.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\41\ns0%3A%E6%9D%B1%E6%96%B9%E5%8D%83%E5%A4%9C%E5%B8%96%7EThousand_Night_Anamnesis%2E%2F%E6%95%8C%E6%9C%BA%E7%AC%A6%E5%8D%A1%2F%E6%98%9F%E8%8E%B2%E8%88%B9%E5%85%B3%E5%8D%A1%E7%AC%A6%E5%8D%A1.html -->
 
 サラダ
 
@@ -8,7 +8,6 @@
 ## 目录
 
 - [1 星莲船](#星莲船)
-
   - [1.1 娜兹玲](#娜兹玲)
   - [1.2 多多良小伞](#多多良小伞)
   - [1.3 云居一轮](#云居一轮)
@@ -16,10 +15,6 @@
   - [1.5 封兽鵺](#封兽鵺)
   - [1.6 寅丸星](#寅丸星)
   - [1.7 圣白莲](#圣白莲)
-
-
-
-
 
 
 
@@ -54,7 +49,6 @@
 </td></tr></tbody></table>
 
 
-
 ### 多多良小伞
 
 <table>
@@ -81,7 +75,6 @@
 <td>因雨而出现的彩虹。 非常上镜的符卡</td>
 <td>因雨而出现的彩虹。制作小伞的符卡漂亮是很重要的
 </td></tr></tbody></table>
-
 
 
 ### 云居一轮
@@ -119,7 +112,6 @@
 </td></tr></tbody></table>
 
 
-
 ### 村纱水蜜
 
 <table>
@@ -153,7 +145,6 @@
 <td>巨锚的波浪式攻击。 真正可怕的是水弹。</td>
 <td>巨锚的波浪式攻击。 "Gargantua "出自我最喜欢的作品中的一个人物的名字。
 </td></tr></tbody></table>
-
 
 
 ### 封兽鵺
@@ -198,7 +189,6 @@
 </td></tr></tbody></table>
 
 
-
 ### 寅丸星
 
 <table>
@@ -241,7 +231,6 @@
 </td></tr></tbody></table>
 
 
-
 ### 圣白莲
 
 <table>
@@ -282,10 +271,6 @@
 <td>以银河为主题的最终符卡。 石佛之路。 不要害怕去挑战它。</td>
 <td>以银河为主题的最终符卡。 我很喜欢这样的弹幕 非常值得去扭一扭的
 </td></tr></tbody></table>
-
-
-
-
 
 
 ---

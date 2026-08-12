@@ -1,12 +1,8 @@
 # 文件:十六夜咲夜b（花映塚自机像素绘）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\52\ns6%3A%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9Cb%EF%BC%88%E8%8A%B1%E6%98%A0%E5%A1%9A%E8%87%AA%E6%9C%BA%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\52\ns6%3A%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9Cb%EF%BC%88%E8%8A%B1%E6%98%A0%E5%A1%9A%E8%87%AA%E6%9C%BA%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89%2Epng.html -->
 
 STG自机像素绘 | 东方花映塚 | 十六夜咲夜 | 官方游戏像素绘
-
-
-
-
 
 
 ---

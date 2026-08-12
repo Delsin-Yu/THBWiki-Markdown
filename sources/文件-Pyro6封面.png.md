@@ -1,6 +1,6 @@
 # 文件:Pyro6封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e1\ns6%3APyro6%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e1\ns6%3APyro6%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Behind_You（同人社团） | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@ Behind_You（同人社团） | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Pyro6](./Pyro6.md)  
-该封面包含的角色：- [古明地恋](./古明地恋.md)
+- [Pyro6](./Pyro6.md)该封面包含的角色：
+- [古明地恋](./古明地恋.md)
 
   
-源地址：[direct image link (max size, converted from bmp)](https://static.tumblr.com/3c6160d84ff69a87f08e0ed4144aad53/jqbpjbu/WEymr8142/tumblr_static_bu_pyro6.bmp), [source page](https://pyrosicks.tumblr.com/)
-  
-
-
-
-
+源地址：[direct image link (max size, converted from bmp)](https://static.tumblr.com/3c6160d84ff69a87f08e0ed4144aad53/jqbpjbu/WEymr8142/tumblr_static_bu_pyro6.bmp), [source page](https://pyrosicks.tumblr.com/)  
 
 ---
 

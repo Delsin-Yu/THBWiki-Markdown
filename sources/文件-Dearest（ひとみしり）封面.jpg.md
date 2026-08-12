@@ -1,6 +1,6 @@
 # 文件:Dearest（ひとみしり）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b0\ns6%3ADearest%EF%BC%88%E3%81%B2%E3%81%A8%E3%81%BF%E3%81%97%E3%82%8A%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b0\ns6%3ADearest%EF%BC%88%E3%81%B2%E3%81%A8%E3%81%BF%E3%81%97%E3%82%8A%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ひとみしり | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Dearest（ひとみしり）](./Dearest（ひとみしり）.md)  
-该封面包含的角色：- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
-
-
-
+- [Dearest（ひとみしり）](./Dearest（ひとみしり）.md)该封面包含的角色：
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:Armelyricslogo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\83\ns6%3AArmelyricslogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\83\ns6%3AArmelyricslogo%2Ejpg.html -->
 
 Armelyrics | 社团LOGO
-
-
-
-
 
 
 ---

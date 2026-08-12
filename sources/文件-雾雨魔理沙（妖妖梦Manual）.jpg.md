@@ -1,12 +1,8 @@
 # 文件:雾雨魔理沙（妖妖梦Manual）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8d\ns6%3A%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%EF%BC%88%E5%A6%96%E5%A6%96%E6%A2%A6Manual%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8d\ns6%3A%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%EF%BC%88%E5%A6%96%E5%A6%96%E6%A2%A6Manual%EF%BC%89%2Ejpg.html -->
 
 Manual配图 | 东方妖妖梦 | 雾雨魔理沙
-
-
-
-
 
 
 ---

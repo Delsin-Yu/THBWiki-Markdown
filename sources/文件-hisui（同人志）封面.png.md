@@ -1,6 +1,6 @@
 # 文件:hisui（同人志）封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b8\ns6%3Ahisui%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b8\ns6%3Ahisui%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 同人志封面 | 封面图片 | 西明石俗物園
 
@@ -10,16 +10,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [hisui（同人志）](./hisui（同人志）.md)  
-该封面包含的角色：- [比那名居天子](./比那名居天子.md)- [伊吹萃香](./伊吹萃香.md)
+- [hisui（同人志）](./hisui（同人志）.md)该封面包含的角色：
+- [比那名居天子](./比那名居天子.md)
+- [伊吹萃香](./伊吹萃香.md)
 
   
-源地址：[direct image link (max size)](https://64.media.tumblr.com/65a6ac06872dfd46a035fb6d4b72a1e6/tumblr_inline_p8769euZuP1rfgwit_1280.png), [source page](https://zokubutuen.net/post/173572188465/例大祭出ますよ)
-  
-
-
-
-
+源地址：[direct image link (max size)](https://64.media.tumblr.com/65a6ac06872dfd46a035fb6d4b72a1e6/tumblr_inline_p8769euZuP1rfgwit_1280.png), [source page](https://zokubutuen.net/post/173572188465/例大祭出ますよ)  
 
 ---
 

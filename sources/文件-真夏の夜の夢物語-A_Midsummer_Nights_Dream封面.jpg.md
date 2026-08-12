@@ -1,6 +1,6 @@
 # 文件:真夏の夜の夢物語-A_Midsummer_Nights_Dream封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\35\ns6%3A%E7%9C%9F%E5%A4%8F%E3%81%AE%E5%A4%9C%E3%81%AE%E5%A4%A2%E7%89%A9%E8%AA%9E-A_Midsummer_Nights_Dream%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\35\ns6%3A%E7%9C%9F%E5%A4%8F%E3%81%AE%E5%A4%9C%E3%81%AE%E5%A4%A2%E7%89%A9%E8%AA%9E-A_Midsummer_Nights_Dream%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 UnLimited_Questions | 专辑封面 | 封面图片
 
@@ -8,11 +8,11 @@ UnLimited_Questions | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [真夏の夜の夢物語-A Midsummer Nights Dream](./真夏の夜の夢物語-A_Midsummer_Nights_Dream.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)- [露娜切露德](./露娜切露德.md)- [桑尼米尔克](./桑尼米尔克.md)- [斯塔萨菲雅](./斯塔萨菲雅.md)
-
-
-
+- [真夏の夜の夢物語-A Midsummer Nights Dream](./真夏の夜の夢物語-A_Midsummer_Nights_Dream.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
+- [露娜切露德](./露娜切露德.md)
+- [桑尼米尔克](./桑尼米尔克.md)
+- [斯塔萨菲雅](./斯塔萨菲雅.md)
 
 
 ---

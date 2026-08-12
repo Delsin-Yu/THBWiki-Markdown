@@ -1,12 +1,11 @@
 # TOHOTEK
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\1\1c\ns0%3ATOHOTEK.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\1\1c\ns0%3ATOHOTEK.html -->
 
 2010年6月22日 由 Bitter Quartz  发布的EP同人专辑，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人专辑 (未找到链接)** 的词条
-
+**[二次创作同人专辑](./二次创作.md#同人音乐)**的词条
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-TOHOTEK封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/c/ce/TOHOTEK%E5%B0%81%E9%9D%A2.png/196px-TOHOTEK%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="196" height="196" srcset="https://upload.thwiki.cc/c/ce/TOHOTEK%E5%B0%81%E9%9D%A2.png 1.5x" data-file-width="250" data-file-height="250"></a><div class="cover-char">角色：<a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰朵露·斯卡蕾特</a></div></td>
@@ -15,38 +14,29 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://www.tsf-drops.com/b003.html">http://www.tsf-drops.com/b003.html</a></td></tr></tbody></table>
 
 TOHOTEK（同人专辑，Bitter Quartz，2010） - 2010年6月22日 由 Bitter Quartz  发布的EP同人专辑，分级为 一般向
-
 ## Staff
   
- **Arrangement**   
+**Arrangement**  
 
-<table><tbody><tr><td><a href="/index.php?title=Noisefragments&amp;action=edit&amp;redlink=1" class="new" title="Noisefragments（页面不存在）">Noisefragments</a></td><td></td><td>Tr.1</td></tr><tr><td><a href="/index.php?title=Amethys&amp;action=edit&amp;redlink=1" class="new" title="Amethys（页面不存在）">Amethys</a></td><td></td><td>Tr.2</td></tr></tbody></table>
-
+<table><tbody><tr><td><a class="new" title="Noisefragments（页面不存在）">Noisefragments</a></td><td></td><td>Tr.1</td></tr><tr><td><a class="new" title="Amethys（页面不存在）">Amethys</a></td><td></td><td>Tr.2</td></tr></tbody></table>
 
 Design
 : 设计师 （[网址 社团]）
 Illustration
 : 画师 （[网址 社团]）
 
-
 ## 试听
   
 <iframe width="100%" height="180" src="https://ext.nicovideo.jp/thumb/smTOHOTEK" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/watch/smTOHOTEK">,</a></iframe>
-
   
-
 
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoO"><b>01</b></td><td id="TOHOTEK" colspan="2" class="title">TOHOTEK<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Noisefragments&amp;ogmusic=ネイティブフェイス，おてんば恋娘&amp;fromwiki=TOHOTEK"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">再编曲</td><td class="text" colspan="2"><a href="/index.php?title=Noisefragments&amp;action=edit&amp;redlink=1" class="new" title="Noisefragments（页面不存在）">Noisefragments</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Noisefragments&amp;fromwiki=TOHOTEK"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=ネイティブフェイス，おてんば恋娘&amp;fromwiki=TOHOTEK"><span></span></a></span><div class="ogmusic"><a href="./ネイティブフェイス.md" class="mw-redirect" title="ネイティブフェイス">ネイティブフェイス</a></div><div class="source"><a href="./东方风神录_～_Mountain_of_Faith..md" class="mw-redirect" title="东方风神录 ～ Mountain of Faith.">东方风神录　～ Mountain of Faith.</a></div><hr><div class="ogmusic"><a href="./おてんば恋娘.md" class="mw-redirect" title="おてんば恋娘">おてんば恋娘</a></div><div class="source"><a href="./东方红魔乡_～_the_Embodiment_of_Scarlet_Devil..md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr>
-<tr><td id="2" class="infoYD"><b>02</b></td><td id="TOHOTEK2" colspan="2" class="title">TOHOTEK2<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Amethys&amp;ogmusic=U.N.オーエンは彼女なのか？&amp;fromwiki=TOHOTEK"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=Amethys&amp;action=edit&amp;redlink=1" class="new" title="Amethys（页面不存在）">Amethys</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Amethys&amp;fromwiki=TOHOTEK"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=U.N.オーエンは彼女なのか？&amp;fromwiki=TOHOTEK"><span></span></a></span><div class="ogmusic"><a href="./U.N.オーエンは彼女なのか？.md" class="mw-redirect" title="U.N.オーエンは彼女なのか？">U.N.オーエンは彼女なのか？</a></div><div class="source"><a href="./东方红魔乡_～_the_Embodiment_of_Scarlet_Devil..md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr></tbody></table>
-
+<table><tbody><tr><td id="1" class="infoO"><b>01</b></td><td id="TOHOTEK" colspan="2" class="title">TOHOTEK</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">再编曲</td><td class="text" colspan="2"><a class="new" title="Noisefragments（页面不存在）">Noisefragments</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./Native_Faith.md" class="mw-redirect" title="ネイティブフェイス">ネイティブフェイス</a></div><div class="source"><a href="./东方风神录.md" class="mw-redirect" title="东方风神录 ～ Mountain of Faith.">东方风神录　～ Mountain of Faith.</a></div><hr><div class="ogmusic"><a href="./活泼的纯情小姑娘.md" class="mw-redirect" title="おてんば恋娘">おてんば恋娘</a></div><div class="source"><a href="./东方红魔乡.md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr>
+<tr><td id="2" class="infoYD"><b>02</b></td><td id="TOHOTEK2" colspan="2" class="title">TOHOTEK2</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="Amethys（页面不存在）">Amethys</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./U.N.OWEN就是她吗？.md" class="mw-redirect" title="U.N.オーエンは彼女なのか？">U.N.オーエンは彼女なのか？</a></div><div class="source"><a href="./东方红魔乡.md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr></tbody></table>
 
 
 ## 评论
-
-
-
 
 ---
 

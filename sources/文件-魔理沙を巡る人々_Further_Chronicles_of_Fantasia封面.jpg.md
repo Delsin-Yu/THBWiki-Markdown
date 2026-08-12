@@ -1,6 +1,6 @@
 # 文件:魔理沙を巡る人々_Further_Chronicles_of_Fantasia封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2e\ns6%3A%E9%AD%94%E7%90%86%E6%B2%99%E3%82%92%E5%B7%A1%E3%82%8B%E4%BA%BA%E3%80%85_Further_Chronicles_of_Fantasia%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2e\ns6%3A%E9%AD%94%E7%90%86%E6%B2%99%E3%82%92%E5%B7%A1%E3%82%8B%E4%BA%BA%E3%80%85_Further_Chronicles_of_Fantasia%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 UtAGe | 专辑封面 | 封面图片
 
@@ -10,11 +10,9 @@ UtAGe | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [魔理沙を巡る人々 Further Chronicles of Fantasia](./魔理沙を巡る人々_Further_Chronicles_of_Fantasia.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [魔理沙を巡る人々 Further Chronicles of Fantasia](./魔理沙を巡る人々_Further_Chronicles_of_Fantasia.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

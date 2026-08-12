@@ -1,6 +1,6 @@
 # 文件:k6project_~Thank_you_"Lotus_land"封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a9\ns6%3Ak6project_%7EThank_you_%22Lotus_land%22%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a9\ns6%3Ak6project_%7EThank_you_%22Lotus_land%22%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 k2project | 封面图片 | 视频封面
 
@@ -11,9 +11,6 @@ k2project | 封面图片 | 视频封面
   
 
 - [k6project ~Thank you "Lotus land"](./k6project_~Thank_you_-Lotus_land-.md)
-
-
-
 
 
 ---

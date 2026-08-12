@@ -1,6 +1,6 @@
 # 文件:纏詠_～Immovable_thought～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\44\ns6%3A%E7%BA%8F%E8%A9%A0_%EF%BD%9EImmovable_thought%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\44\ns6%3A%E7%BA%8F%E8%A9%A0_%EF%BD%9EImmovable_thought%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 STEP×STEP | 专辑封面 | 封面图片
 
@@ -10,11 +10,9 @@ STEP×STEP | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [纏詠 ～Immovable thought～](./纏詠_～Immovable_thought～.md)  
-该封面包含的角色：- [圣白莲](./圣白莲.md)- [封兽鵺](./封兽鵺.md)
-
-
-
+- [纏詠 ～Immovable thought～](./纏詠_～Immovable_thought～.md)该封面包含的角色：
+- [圣白莲](./圣白莲.md)
+- [封兽鵺](./封兽鵺.md)
 
 
 ---

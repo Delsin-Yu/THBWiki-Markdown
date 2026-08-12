@@ -1,6 +1,6 @@
 # 文件:黄昏萃奏樂_～_winding_purple_power封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ea\ns6%3A%E9%BB%84%E6%98%8F%E8%90%83%E5%A5%8F%E6%A8%82_%EF%BD%9E_winding_purple_power%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ea\ns6%3A%E9%BB%84%E6%98%8F%E8%90%83%E5%A5%8F%E6%A8%82_%EF%BD%9E_winding_purple_power%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 時雨月横丁
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [黄昏萃奏樂 ～ winding purple power](./黄昏萃奏樂_～_winding_purple_power.md)  
-该封面包含的角色：- [比那名居天子](./比那名居天子.md)- [伊吹萃香](./伊吹萃香.md)
-
-
-
+- [黄昏萃奏樂 ～ winding purple power](./黄昏萃奏樂_～_winding_purple_power.md)该封面包含的角色：
+- [比那名居天子](./比那名居天子.md)
+- [伊吹萃香](./伊吹萃香.md)
 
 
 ---

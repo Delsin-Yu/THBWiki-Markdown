@@ -1,6 +1,6 @@
 # 文件:Touhou_Steps封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\90\ns6%3ATouhou_Steps%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\90\ns6%3ATouhou_Steps%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Prismriver_de_la_nuit | 专辑封面 | 封面图片
 
@@ -8,11 +8,11 @@ Prismriver_de_la_nuit | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Touhou Steps](./Touhou_Steps.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)- [米斯蒂娅·萝蕾拉](./米斯蒂娅·萝蕾拉.md)- [洩矢诹访子](./洩矢诹访子.md)- [封兽鵺](./封兽鵺.md)
-
-
-
+- [Touhou Steps](./Touhou_Steps.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
+- [米斯蒂娅·萝蕾拉](./米斯蒂娅·萝蕾拉.md)
+- [洩矢诹访子](./洩矢诹访子.md)
+- [封兽鵺](./封兽鵺.md)
 
 
 ---

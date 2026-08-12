@@ -1,6 +1,6 @@
 # 文件:mosaic_effect封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\19\ns6%3Amosaic_effect%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\19\ns6%3Amosaic_effect%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 salt_sPot | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@ salt_sPot | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [mosaic effect](./mosaic_effect.md)  
-该封面包含的角色：- [封兽鵺](./封兽鵺.md)
+- [mosaic effect](./mosaic_effect.md)该封面包含的角色：
+- [封兽鵺](./封兽鵺.md)
 
   
-源地址：[direct image link](https://web.archive.org/web/20180613125506im_/http://shiodokoro.web.fc2.com/image/mosaiceffect.jpg), [source page (circle website)](https://web.archive.org/web/20180330075502/http://shiodokoro.web.fc2.com/#photo-info-main2)
-  
-
-
-
-
+源地址：[direct image link](https://web.archive.org/web/20180613125506im_/http://shiodokoro.web.fc2.com/image/mosaiceffect.jpg), [source page (circle website)](https://web.archive.org/web/20180330075502/http://shiodokoro.web.fc2.com/#photo-info-main2)  
 
 ---
 

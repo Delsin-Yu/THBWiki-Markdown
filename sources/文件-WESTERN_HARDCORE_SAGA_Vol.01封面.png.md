@@ -1,6 +1,6 @@
 # 文件:WESTERN_HARDCORE_SAGA_Vol.01封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9d\ns6%3AWESTERN_HARDCORE_SAGA_Vol%2E01%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9d\ns6%3AWESTERN_HARDCORE_SAGA_Vol%2E01%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Saga_Infinity | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Saga_Infinity | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [WESTERN HARDCORE SAGA Vol.01](./WESTERN_HARDCORE_SAGA_Vol.01.md)  
-该封面包含的角色：- [VIVIT](./VIVIT.md)
-
-
-
+- [WESTERN HARDCORE SAGA Vol.01](./WESTERN_HARDCORE_SAGA_Vol.01.md)该封面包含的角色：
+- [VIVIT](./VIVIT.md)
 
 
 ---

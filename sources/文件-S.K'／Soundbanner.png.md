@@ -1,14 +1,11 @@
 # 文件:S.K'／Soundbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a3\ns6%3AS%2EK%27%EF%BC%8FSoundbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a3\ns6%3AS%2EK%27%EF%BC%8FSoundbanner%2Epng.html -->
 
 S.K'／Sound | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

@@ -1,16 +1,11 @@
 # 文件:40musiclogo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b7\ns6%3A40musiclogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b7\ns6%3A40musiclogo%2Ejpg.html -->
 
 40music | 社团LOGO
 
   
-源地址：[[1]](https://f4.bcbits.com/img/0006472357_21.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://f4.bcbits.com/img/0006472357_21.jpg)  
 
 ---
 

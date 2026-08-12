@@ -1,18 +1,13 @@
 # 文件:ごなきえlogo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\65\ns6%3A%E3%81%94%E3%81%AA%E3%81%8D%E3%81%88logo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\65\ns6%3A%E3%81%94%E3%81%AA%E3%81%8D%E3%81%88logo%2Epng.html -->
 
 ごなきえ | 社团LOGO
 
 
 ## 摘要
   
-源地址：[direct image link](https://web.archive.org/web/20180426160532im_/http://gonakie.net/wp-content/uploads/2015/10/cropped-gonakietoumei-e14453001878662.png), [source page](https://web.archive.org/web/20181104033148/http://gonakie.net/)
-  
-
-
-
-
+源地址：[direct image link](https://web.archive.org/web/20180426160532im_/http://gonakie.net/wp-content/uploads/2015/10/cropped-gonakietoumei-e14453001878662.png), [source page](https://web.archive.org/web/20181104033148/http://gonakie.net/)  
 
 ---
 

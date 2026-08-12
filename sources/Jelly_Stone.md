@@ -1,37 +1,27 @@
 # Jelly_Stone
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\5\53\ns0%3AJelly_Stone.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\5\53\ns0%3AJelly_Stone.html -->
 
 由 ZUN 创作的官方曲目，原名 ジェリーストーン
 
 本页是关于东方Project  
- **原作音乐** 的词条
-
+**原作音乐**的词条
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 出现作品](#出现作品)
 - [3 音乐文件](#音乐文件)
-
   - [3.1 东方鬼形兽](#东方鬼形兽)
 
 
-
 - [4 说明文本](#说明文本)
-
   - [4.1 东方鬼形兽](#东方鬼形兽_2)
 
 
-
 - [5 其他资料](#其他资料)
-
   - [5.1 乐理资讯](#乐理资讯)
   - [5.2 分析考据](#分析考据)
   - [5.3 二次同人数据](#二次同人数据)
-
-
-
-
 
 
 
@@ -41,14 +31,12 @@
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">ジェリーストーン</td></tr><tr><td><b>译名</b></td><td>Jelly Stone</td></tr><tr><td><b>其他译名</b></td><td>水母石</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 Jelly Stone（曲目） - 由 ZUN 创作的官方曲目，原名 ジェリーストーン
-
 ## 出现作品
 
 <table>
 <tbody><tr><td>2019年5月5日（第十六回 博丽神社例大祭）</td><td><b><a href="./东方鬼形兽.md" title="东方鬼形兽">东方鬼形兽</a>体验版</b></td><td><a href="./戎璎花.md" title="戎璎花">戎璎花</a>角色曲</td><td style="padding-left:5px;">ジェリーストーン（Jelly Stone）</td><td style="padding-left:10px;">作曲：ZUN</td></tr>
 <tr><td>2019年8月12日（Comic Market 96）</td><td><b><a href="./东方鬼形兽.md" title="东方鬼形兽">东方鬼形兽</a>正式版</b></td><td><a href="./戎璎花.md" title="戎璎花">戎璎花</a>角色曲</td><td style="padding-left:5px;">ジェリーストーン（Jelly Stone）</td><td style="padding-left:10px;">作曲：ZUN</td></tr>
 </tbody></table>
-
 
 
 ## 音乐文件
@@ -63,38 +51,41 @@ Jelly Stone（曲目） - 由 ZUN 创作的官方曲目，原名 ジェリース
 </td></tr></tbody></table>
 
 
-
 ## 说明文本
 
 ### 东方鬼形兽
-- Music Room (未找到链接)
+
+- [Music Room](./东方鬼形兽-Music.md#1面BOSS戎璎花角色曲)
 
 　戎璎花的主题曲。  
-　  
+   
 　是非常擅长垒石头的水子的曲子。  
 　从黑暗的前奏开始，继而成为如小孩子一般轻快的旋律，  
 　是一首惹人怜爱的曲子。  
 　我也加入了水母一般的轻飘飘的感觉。
-
 ## 其他资料
 
 ### 乐理资讯
 
 ### 分析考据
   
- **ジェリーストーン**  Jelly Stone
+**ジェリーストーン** Jelly Stone
   
 
-- ジェリー（Jelly）
+- ジェリー（Jelly） 
   - 果冻状的东西。
-  - 水母的英文：Jellyfish。
+  - 水母的英文：Jellyfish。 
     - [戎璎花](./戎璎花.md)所在的一面，隐藏动物灵为水母。
 
 
-- ストーン（Stone）
-  - 石头。
+
+
+- ストーン（Stone） 
+  - 石头。 
     - [赛之河原](./赛之河原.md)上水子们垒起的石堆。
     - [戎璎花](./戎璎花.md)的能力为「擅长垒石头程度的能力」。
+
+
 
 
 
@@ -111,17 +102,6 @@ Jelly Stone（曲目） - 由 ZUN 创作的官方曲目，原名 ジェリース
 <tr><td>Arrange</td><td>101</td></tr>
 <tr><td>Vocal率</td><td>27.34%</td></tr>
 </tbody></table>
-
-
-
-
-  
-  
-
-  
-
-
-
 
 
 ---

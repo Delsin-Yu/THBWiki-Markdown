@@ -1,12 +1,8 @@
 # 文件:音切奏banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\25\ns6%3A%E9%9F%B3%E5%88%87%E5%A5%8Fbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\25\ns6%3A%E9%9F%B3%E5%88%87%E5%A5%8Fbanner%2Ejpg.html -->
 
 社团LOGO | 音切奏
-
-
-
-
 
 
 ---

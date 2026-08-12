@@ -1,18 +1,13 @@
 # 文件:Veiled_In_Obscuritylogo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\78\ns6%3AVeiled_In_Obscuritylogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\78\ns6%3AVeiled_In_Obscuritylogo%2Ejpg.html -->
 
 Veiled_In_Obscurity | 社团LOGO
 
 
 ## 摘要
   
-源地址：[direct image link (original size)](https://f4.bcbits.com/img/0032822175_0.jpg), [source page (artist Bandcamp logo)](https://veiledinobscurity.bandcamp.com/)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://f4.bcbits.com/img/0032822175_0.jpg), [source page (artist Bandcamp logo)](https://veiledinobscurity.bandcamp.com/)  
 
 ---
 

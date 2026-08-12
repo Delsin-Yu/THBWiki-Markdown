@@ -1,6 +1,6 @@
 # 文件:TRIPLE_"M"封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f4\ns6%3ATRIPLE_%22M%22%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f4\ns6%3ATRIPLE_%22M%22%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Unity-Gain | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Unity-Gain | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [TRIPLE "M"](./TRIPLE_-M-.md)  
-该封面包含的角色：- [犬走椛](./犬走椛.md)
+- [TRIPLE "M"](./TRIPLE_-M-.md)该封面包含的角色：
+- [犬走椛](./犬走椛.md)
 
   
-源地址：[[1]](http://kakeruichi.mydns.jp/event/UTGN-0002/utgn-0002_jacket.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://kakeruichi.mydns.jp/event/UTGN-0002/utgn-0002_jacket.jpg)  
 
 ---
 

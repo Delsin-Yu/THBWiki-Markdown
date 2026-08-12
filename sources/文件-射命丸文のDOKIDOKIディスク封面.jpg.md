@@ -1,6 +1,6 @@
 # 文件:射命丸文のDOKIDOKIディスク封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9e\ns6%3A%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87%E3%81%AEDOKIDOKI%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9e\ns6%3A%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87%E3%81%AEDOKIDOKI%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 アールグレイ | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [射命丸文のDOKIDOKIディスク](./射命丸文のDOKIDOKIディスク.md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)
-
-
-
+- [射命丸文のDOKIDOKIディスク](./射命丸文のDOKIDOKIディスク.md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
 
 
 ---

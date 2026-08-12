@@ -1,6 +1,6 @@
 # 文件:Mind_Reverser封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8b\ns6%3AMind_Reverser%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8b\ns6%3AMind_Reverser%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 SOUND_HOLIC | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ SOUND_HOLIC | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Mind Reverser](./Mind_Reverser.md)  
-该封面包含的角色：- [鬼人正邪](./鬼人正邪.md)
+- [Mind Reverser](./Mind_Reverser.md)该封面包含的角色：
+- [鬼人正邪](./鬼人正邪.md)
 
   
-源地址：[[1]](http://ec.akbh.jp/upload/save_image/pics/2100000072743.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://ec.akbh.jp/upload/save_image/pics/2100000072743.jpg)  
 
 ---
 

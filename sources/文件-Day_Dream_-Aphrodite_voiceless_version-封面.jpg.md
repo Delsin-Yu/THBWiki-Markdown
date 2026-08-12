@@ -1,6 +1,6 @@
 # 文件:Day_Dream_-Aphrodite_voiceless_version-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7c\ns6%3ADay_Dream_-Aphrodite_voiceless_version-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7c\ns6%3ADay_Dream_-Aphrodite_voiceless_version-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 岡垣正志＆フレンズ
 
@@ -11,9 +11,6 @@
   
 
 - [Day Dream -Aphrodite voiceless version-](./Day_Dream_-Aphrodite_voiceless_version-.md)
-
-
-
 
 
 ---

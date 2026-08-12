@@ -1,6 +1,6 @@
 # 文件:東方全ボスメドレー_虹ver._破封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\df\ns6%3A%E6%9D%B1%E6%96%B9%E5%85%A8%E3%83%9C%E3%82%B9%E3%83%A1%E3%83%89%E3%83%AC%E3%83%BC_%E8%99%B9ver%2E_%E7%A0%B4%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\df\ns6%3A%E6%9D%B1%E6%96%B9%E5%85%A8%E3%83%9C%E3%82%B9%E3%83%A1%E3%83%89%E3%83%AC%E3%83%BC_%E8%99%B9ver%2E_%E7%A0%B4%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 コケ溜まり | 专辑封面 | 封面图片
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方全ボスメドレー 虹ver. 破](./東方全ボスメドレー_虹ver._破.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [東方全ボスメドレー 虹ver. 破](./東方全ボスメドレー_虹ver._破.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:トリック・ノスタルジーbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\68\ns6%3A%E3%83%88%E3%83%AA%E3%83%83%E3%82%AF%E3%83%BB%E3%83%8E%E3%82%B9%E3%82%BF%E3%83%AB%E3%82%B8%E3%83%BCbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\68\ns6%3A%E3%83%88%E3%83%AA%E3%83%83%E3%82%AF%E3%83%BB%E3%83%8E%E3%82%B9%E3%82%BF%E3%83%AB%E3%82%B8%E3%83%BCbanner%2Ejpg.html -->
 
 トリック・ノスタルジー | 社团LOGO
-
-
-
-
 
 
 ---

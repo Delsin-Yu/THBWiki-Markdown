@@ -1,12 +1,8 @@
 # 文件:THD2铁锤.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e4\ns6%3ATHD2%E9%93%81%E9%94%A4%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e4\ns6%3ATHD2%E9%93%81%E9%94%A4%2Epng.html -->
 
 AvalonStudioOfficial
-
-
-
-
 
 
 ---

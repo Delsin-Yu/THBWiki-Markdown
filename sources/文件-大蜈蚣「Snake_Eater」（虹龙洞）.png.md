@@ -1,14 +1,11 @@
 # 文件:大蜈蚣「Snake_Eater」（虹龙洞）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f0\ns6%3A%E5%A4%A7%E8%9C%88%E8%9A%A3%E3%80%8CSnake_Eater%E3%80%8D%EF%BC%88%E8%99%B9%E9%BE%99%E6%B4%9E%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f0\ns6%3A%E5%A4%A7%E8%9C%88%E8%9A%A3%E3%80%8CSnake_Eater%E3%80%8D%EF%BC%88%E8%99%B9%E9%BE%99%E6%B4%9E%EF%BC%89%2Epng.html -->
 
 东方虹龙洞 | 姬虫百百世 | 敌机符卡
 
 
 ## 文件说明
-
-
-
 
 ---
 

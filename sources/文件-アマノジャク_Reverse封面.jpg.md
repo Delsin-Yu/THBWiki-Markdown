@@ -1,6 +1,6 @@
 # 文件:アマノジャク_Reverse封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\36\ns6%3A%E3%82%A2%E3%83%9E%E3%83%8E%E3%82%B8%E3%83%A3%E3%82%AF_Reverse%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\36\ns6%3A%E3%82%A2%E3%83%9E%E3%83%8E%E3%82%B8%E3%83%A3%E3%82%AF_Reverse%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Raichu | 封面图片 | 软件封面
 
@@ -8,11 +8,8 @@ Raichu | 封面图片 | 软件封面
 使用了本文件作封面图片的作品：
   
 
-- [アマノジャク Reverse](./アマノジャク_Reverse.md)  
-该封面包含的角色：- [鬼人正邪](./鬼人正邪.md)
-
-
-
+- [アマノジャク Reverse](./アマノジャク_Reverse.md)该封面包含的角色：
+- [鬼人正邪](./鬼人正邪.md)
 
 
 ---

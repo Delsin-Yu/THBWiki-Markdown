@@ -1,6 +1,6 @@
 # 文件:Break_Time（弦奏水琴乐章）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\93\ns6%3ABreak_Time%EF%BC%88%E5%BC%A6%E5%A5%8F%E6%B0%B4%E7%90%B4%E4%B9%90%E7%AB%A0%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\93\ns6%3ABreak_Time%EF%BC%88%E5%BC%A6%E5%A5%8F%E6%B0%B4%E7%90%B4%E4%B9%90%E7%AB%A0%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 弦奏水琴乐章
 
@@ -9,9 +9,6 @@
   
 
 - [Break Time（弦奏水琴乐章）](./Break_Time（弦奏水琴乐章）.md)
-
-
-
 
 
 ---

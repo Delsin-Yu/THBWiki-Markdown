@@ -1,6 +1,6 @@
 # 文件:東方の彼方_～far_east_distance～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\34\ns6%3A%E6%9D%B1%E6%96%B9%E3%81%AE%E5%BD%BC%E6%96%B9_%EF%BD%9Efar_east_distance%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\34\ns6%3A%E6%9D%B1%E6%96%B9%E3%81%AE%E5%BD%BC%E6%96%B9_%EF%BD%9Efar_east_distance%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 精霊召喚
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方の彼方 ～far east distance～](./東方の彼方_～far_east_distance～.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [東方の彼方 ～far east distance～](./東方の彼方_～far_east_distance～.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

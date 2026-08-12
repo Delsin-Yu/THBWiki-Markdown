@@ -1,12 +1,8 @@
 # 文件:武士的魂banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1a\ns6%3A%E6%AD%A6%E5%A3%AB%E7%9A%84%E9%AD%82banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1a\ns6%3A%E6%AD%A6%E5%A3%AB%E7%9A%84%E9%AD%82banner%2Ejpg.html -->
 
 武士的魂 | 社团LOGO
-
-
-
-
 
 
 ---

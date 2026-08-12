@@ -1,12 +1,8 @@
 # 文件:拳骨「天空铁锤落」（DS文花帖）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7e\ns6%3A%E6%8B%B3%E9%AA%A8%E3%80%8C%E5%A4%A9%E7%A9%BA%E9%93%81%E9%94%A4%E8%90%BD%E3%80%8D%EF%BC%88DS%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7e\ns6%3A%E6%8B%B3%E9%AA%A8%E3%80%8C%E5%A4%A9%E7%A9%BA%E9%93%81%E9%94%A4%E8%90%BD%E3%80%8D%EF%BC%88DS%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Ejpg.html -->
 
 东方文花帖DS | 云居一轮 | 云山 | 敌机符卡
-
-
-
-
 
 
 ---

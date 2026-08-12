@@ -1,6 +1,6 @@
 # 文件:Change_The_World（クロックタイムアナグラム）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c2\ns6%3AChange_The_World%EF%BC%88%E3%82%AF%E3%83%AD%E3%83%83%E3%82%AF%E3%82%BF%E3%82%A4%E3%83%A0%E3%82%A2%E3%83%8A%E3%82%B0%E3%83%A9%E3%83%A0%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c2\ns6%3AChange_The_World%EF%BC%88%E3%82%AF%E3%83%AD%E3%83%83%E3%82%AF%E3%82%BF%E3%82%A4%E3%83%A0%E3%82%A2%E3%83%8A%E3%82%B0%E3%83%A9%E3%83%A0%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 クロックタイムアナグラム | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Change The World（クロックタイムアナグラム）](./Change_The_World（クロックタイムアナグラム）.md)  
-该封面包含的角色：- [东风谷早苗](./东风谷早苗.md)
-
-
-
+- [Change The World（クロックタイムアナグラム）](./Change_The_World（クロックタイムアナグラム）.md)该封面包含的角色：
+- [东风谷早苗](./东风谷早苗.md)
 
 
 ---

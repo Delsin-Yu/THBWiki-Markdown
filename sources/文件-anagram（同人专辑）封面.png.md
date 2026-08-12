@@ -1,6 +1,6 @@
 # 文件:anagram（同人专辑）封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\31\ns6%3Aanagram%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\31\ns6%3Aanagram%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 刹那パラドックス | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [anagram（同人专辑）](./anagram（同人专辑）.md)  
-该封面包含的角色：- [寅丸星](./寅丸星.md)
-
-
-
+- [anagram（同人专辑）](./anagram（同人专辑）.md)该封面包含的角色：
+- [寅丸星](./寅丸星.md)
 
 
 ---

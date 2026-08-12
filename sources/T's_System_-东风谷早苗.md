@@ -1,37 +1,21 @@
 # T's_System_/东风谷早苗
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\1\1d\ns0%3AT%27s_System_%2F%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\1\1d\ns0%3AT%27s_System_%2F%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97.html -->
 
 东风谷早苗PVCFigure手办模型
 
 本页是关于东方Project  
- **相关实体周边 (未找到链接)** 的词条
-
+**相关实体周边 (未找到链接)**的词条
 ## 模型信息
 
-<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 东风谷早苗 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>无</td></tr><tr><td class="label">角色</td><td><a href="./东风谷早苗.md" title="东风谷早苗">东风谷早苗</a></td></tr><tr><td class="label">原型师</td><td><a href="/index.php?title=%E5%AE%AB%E5%B7%9D_%E6%AD%A6&amp;action=edit&amp;redlink=1" class="new" title="宫川 武（页面不存在）">宫川 武</a></td></tr><tr><td class="label">比例</td><td>1/6</td></tr><tr><td class="label">尺寸</td><td>230mm</td></tr><tr><td class="label">状态</td><td>已发售</td></tr><tr><td class="label">售价</td><td>8500日元</td></tr><tr><td class="label">首发日期</td><td>2010-08</td></tr><tr><td class="label">发售方</td><td><a href="/index.php?title=T%27s_System&amp;action=edit&amp;redlink=1" class="new" title="T&#39;s System（页面不存在）">T&#39;s System</a></td></tr></tbody></table>
+<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 东风谷早苗 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>无</td></tr><tr><td class="label">角色</td><td><a href="./东风谷早苗.md" title="东风谷早苗">东风谷早苗</a></td></tr><tr><td class="label">原型师</td><td><a class="new" title="宫川 武（页面不存在）">宫川 武</a></td></tr><tr><td class="label">比例</td><td>1/6</td></tr><tr><td class="label">尺寸</td><td>230mm</td></tr><tr><td class="label">状态</td><td>已发售</td></tr><tr><td class="label">售价</td><td>8500日元</td></tr><tr><td class="label">首发日期</td><td>2010-08</td></tr><tr><td class="label">发售方</td><td><a class="new" title="T&#39;s System（页面不存在）">T's System</a></td></tr></tbody></table>
 
 T's System /东风谷早苗（周边） - 东风谷早苗PVCFigure手办模型
-
 ## 参考图片
-
-
-
-[](./文件-T's_System_东风谷早苗-1.jpg.md)
-
-
-[](./文件-T's_System_东风谷早苗-2.jpg.md)
-
-
-[](./文件-T's_System_东风谷早苗-3.jpg.md)
-
+<img alt="T&#39;s System 东风谷早苗" src="https://upload.thwiki.cc/thumb/e/e3/T%27s_System_%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97-1.jpg/160px-T%27s_System_%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97-1.jpg" decoding="async" loading="lazy" width="160" height="241" srcset="https://upload.thwiki.cc/thumb/e/e3/T%27s_System_%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97-1.jpg/240px-T%27s_System_%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97-1.jpg 1.5x, https://upload.thwiki.cc/thumb/e/e3/T%27s_System_%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97-1.jpg/320px-T%27s_System_%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97-1.jpg 2x" data-file-width="532" data-file-height="800">
+<img alt="T&#39;s System 东风谷早苗" src="https://upload.thwiki.cc/thumb/4/4f/T%27s_System_%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97-2.jpg/160px-T%27s_System_%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97-2.jpg" decoding="async" loading="lazy" width="160" height="241" srcset="https://upload.thwiki.cc/thumb/4/4f/T%27s_System_%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97-2.jpg/240px-T%27s_System_%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97-2.jpg 1.5x, https://upload.thwiki.cc/thumb/4/4f/T%27s_System_%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97-2.jpg/320px-T%27s_System_%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97-2.jpg 2x" data-file-width="532" data-file-height="800">
+<img alt="T&#39;s System 东风谷早苗" src="https://upload.thwiki.cc/thumb/8/89/T%27s_System_%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97-3.jpg/160px-T%27s_System_%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97-3.jpg" decoding="async" loading="lazy" width="160" height="241" srcset="https://upload.thwiki.cc/thumb/8/89/T%27s_System_%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97-3.jpg/240px-T%27s_System_%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97-3.jpg 1.5x, https://upload.thwiki.cc/thumb/8/89/T%27s_System_%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97-3.jpg/320px-T%27s_System_%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97-3.jpg 2x" data-file-width="532" data-file-height="800">
 公式图
-
-
-
-
-
-
 
 ---
 

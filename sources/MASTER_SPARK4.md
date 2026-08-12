@@ -1,37 +1,28 @@
 # MASTER_SPARK4
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\3\31\ns0%3AMASTER_SPARK4.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\3\31\ns0%3AMASTER_SPARK4.html -->
 
 2009年8月15日 由 そらひま 于 Comic Market 76 发布的漫画同人志，一共48页，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人志 (未找到链接)** 的词条
-
+**[二次创作同人志](./二次创作.md#同人志)**的词条
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-MASTER_SPARK4封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/b/b1/MASTER_SPARK4%E5%B0%81%E9%9D%A2.jpg/120px-MASTER_SPARK4%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="120" height="168" srcset="https://upload.thwiki.cc/thumb/b/b1/MASTER_SPARK4%E5%B0%81%E9%9D%A2.jpg/180px-MASTER_SPARK4%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/b/b1/MASTER_SPARK4%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="229" data-file-height="320"></a><div class="cover-char">角色：<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a>，<a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰朵露·斯卡蕾特</a></div></td>
 </tr><tr><td class="label">名称</td><td colspan="2"> MASTER SPARK4 </td></tr><tr><td class="label">制作方</td><td><a href="./そらひま.md" title="そらひま">そらひま</a></td><td class="cover-artwork" rowspan="6" style="min-width:168px;"><a href="./文件-MASTER_SPARK4封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/b/b1/MASTER_SPARK4%E5%B0%81%E9%9D%A2.jpg/120px-MASTER_SPARK4%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="120" height="168" srcset="https://upload.thwiki.cc/thumb/b/b1/MASTER_SPARK4%E5%B0%81%E9%9D%A2.jpg/180px-MASTER_SPARK4%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/b/b1/MASTER_SPARK4%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="229" data-file-height="320"></a><div class="cover-char">角色：<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a>，<a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰朵露·斯卡蕾特</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2009-08-15&#160;（<a href="/展会作品列表?e=Comic+Market%2376">Comic Market 76</a>）</td></tr><tr><td class="label">类型</td><td>漫画</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">页数</td><td>48P</td></tr><tr><td class="label">售价</td><td>500日元</td></tr>
+</tr><tr><td class="label">首发日期</td><td>2009-08-15 （<a href="./展会作品列表.md#76">Comic Market 76</a>）</td></tr><tr><td class="label">类型</td><td>漫画</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">页数</td><td>48P</td></tr><tr><td class="label">售价</td><td>500日元</td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://azure.genin.jp/dojin/dojin.html">http://azure.genin.jp/dojin/dojin.html</a></td></tr></tbody></table>
 
 MASTER SPARK4（同人志，そらひま，2009） - 2009年8月15日 由 そらひま 于 Comic Market 76 发布的漫画同人志，一共48页，分级为 一般向
-
 ## Staff
+
 - 日向あずり (未找到链接)
 
 
 ## 评论
+
 ```
-※前作、MASTER　SPARK3の続きで完結編です、ご注意ください。 
-```
-
-  
-  
-
-  
-
-
-
+※前作、MASTER SPARK3の続きで完結編です、ご注意ください。 ```
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:WHITE&VIOLET_LIMBO封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9e\ns6%3AWHITE%26VIOLET_LIMBO%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9e\ns6%3AWHITE%26VIOLET_LIMBO%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ネコバタケ | 同人志封面 | 封面图片
 
@@ -10,16 +10,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [WHITE&amp;VIOLET LIMBO](./WHITE&VIOLET_LIMBO.md)  
-该封面包含的角色：- [圣白莲](./圣白莲.md)- [丰聪耳神子](./丰聪耳神子.md)
+- [WHITE&VIOLET LIMBO](./WHITE&VIOLET_LIMBO.md)该封面包含的角色：
+- [圣白莲](./圣白莲.md)
+- [丰聪耳神子](./丰聪耳神子.md)
 
   
-[Pixiv artwork ID: 93543467](https://www.pixiv.net/artworks/93543467)
-  
-
-
-
-
+[Pixiv artwork ID: 93543467](https://www.pixiv.net/artworks/93543467)  
 
 ---
 

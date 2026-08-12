@@ -1,6 +1,6 @@
 # 文件:Unkind_Storyteller封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8d\ns6%3AUnkind_Storyteller%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8d\ns6%3AUnkind_Storyteller%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 NARCOLEPSY_ORION | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ NARCOLEPSY_ORION | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Unkind Storyteller](./Unkind_Storyteller.md)  
-该封面包含的角色：- [哆来咪·苏伊特](./哆来咪·苏伊特.md)
-
-
-
+- [Unkind Storyteller](./Unkind_Storyteller.md)该封面包含的角色：
+- [哆来咪·苏伊特](./哆来咪·苏伊特.md)
 
 
 ---

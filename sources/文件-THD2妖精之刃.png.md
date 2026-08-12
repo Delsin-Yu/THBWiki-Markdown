@@ -1,12 +1,8 @@
 # 文件:THD2妖精之刃.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e0\ns6%3ATHD2%E5%A6%96%E7%B2%BE%E4%B9%8B%E5%88%83%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e0\ns6%3ATHD2%E5%A6%96%E7%B2%BE%E4%B9%8B%E5%88%83%2Epng.html -->
 
 AvalonStudioOfficial
-
-
-
-
 
 
 ---

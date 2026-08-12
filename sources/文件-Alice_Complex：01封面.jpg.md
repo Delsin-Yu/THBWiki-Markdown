@@ -1,6 +1,6 @@
 # 文件:Alice_Complex：01封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\61\ns6%3AAlice_Complex%EF%BC%9A01%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\61\ns6%3AAlice_Complex%EF%BC%9A01%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 天災族 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Alice Complex：01](./Alice_Complex：01.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
-
-
-
+- [Alice Complex：01](./Alice_Complex：01.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
 
 
 ---

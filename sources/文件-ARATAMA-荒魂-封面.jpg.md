@@ -1,6 +1,6 @@
 # 文件:ARATAMA-荒魂-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3f\ns6%3AARATAMA-%E8%8D%92%E9%AD%82-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3f\ns6%3AARATAMA-%E8%8D%92%E9%AD%82-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 GET_IN_THE_RING | 专辑封面 | 封面图片
 
@@ -8,11 +8,10 @@ GET_IN_THE_RING | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [ARATAMA-荒魂-](./ARATAMA-荒魂-.md)  
-该封面包含的角色：- [摩多罗隐岐奈](./摩多罗隐岐奈.md)- [尔子田里乃](./尔子田里乃.md)- [丁礼田舞](./丁礼田舞.md)
-
-
-
+- [ARATAMA-荒魂-](./ARATAMA-荒魂-.md)该封面包含的角色：
+- [摩多罗隐岐奈](./摩多罗隐岐奈.md)
+- [尔子田里乃](./尔子田里乃.md)
+- [丁礼田舞](./丁礼田舞.md)
 
 
 ---

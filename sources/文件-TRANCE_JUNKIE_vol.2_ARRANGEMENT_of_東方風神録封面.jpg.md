@@ -1,6 +1,6 @@
 # 文件:TRANCE_JUNKIE_vol.2_ARRANGEMENT_of_東方風神録封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e0\ns6%3ATRANCE_JUNKIE_vol%2E2_ARRANGEMENT_of_%E6%9D%B1%E6%96%B9%E9%A2%A8%E7%A5%9E%E9%8C%B2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e0\ns6%3ATRANCE_JUNKIE_vol%2E2_ARRANGEMENT_of_%E6%9D%B1%E6%96%B9%E9%A2%A8%E7%A5%9E%E9%8C%B2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 gunter10_UNITED_Records | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ gunter10_UNITED_Records | 专辑封面 | 封面图片
   
 
 - [TRANCE JUNKIE vol.2 ARRANGEMENT of 東方風神録](./TRANCE_JUNKIE_vol.2_ARRANGEMENT_of_東方風神録.md)
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:RISE_AGAIN封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\49\ns6%3ARISE_AGAIN%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\49\ns6%3ARISE_AGAIN%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 9bFOX | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [RISE AGAIN](./RISE_AGAIN.md)  
-该封面包含的角色：- [圣白莲](./圣白莲.md)
-
-
-
+- [RISE AGAIN](./RISE_AGAIN.md)该封面包含的角色：
+- [圣白莲](./圣白莲.md)
 
 
 ---

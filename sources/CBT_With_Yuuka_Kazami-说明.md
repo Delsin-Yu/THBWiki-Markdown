@@ -1,6 +1,6 @@
 # CBT_With_Yuuka_Kazami/说明
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\9\9a\ns0%3ACBT_With_Yuuka_Kazami%2F%E8%AF%B4%E6%98%8E.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\9\9a\ns0%3ACBT_With_Yuuka_Kazami%2F%E8%AF%B4%E6%98%8E.html -->
 
 Sigyaad_Team
 
@@ -9,9 +9,8 @@ Sigyaad_Team
   
 This is a unofficial derivative fangame of the Touhou Project. It complies with the official guidelines for derivative work.  
 
-这是[东方project](./东方Project.md)的一个同人游戏 (未找到链接)，它符合[东方Project使用规定案](./东方Project使用规定案.md)。
+这是[东方project](./东方Project.md)的一个[同人游戏](./二次创作.md#同人软件)，它符合[东方Project使用规定案](./东方Project使用规定案.md)。
   
-
 
 ### Features（特点）
   
@@ -31,10 +30,6 @@ Engaging Dialogue!
 
 可爱的画风！美丽的风景！生动的对话!轻松，休闲的视觉小说游戏！
   
-
-
-
-
 
 ---
 

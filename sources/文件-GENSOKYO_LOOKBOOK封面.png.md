@@ -1,6 +1,6 @@
 # 文件:GENSOKYO_LOOKBOOK封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c1\ns6%3AGENSOKYO_LOOKBOOK%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c1\ns6%3AGENSOKYO_LOOKBOOK%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 VENTOPLUS | 同人志封面 | 封面图片
 
@@ -8,11 +8,9 @@ VENTOPLUS | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [GENSOKYO LOOKBOOK](./GENSOKYO_LOOKBOOK.md)  
-该封面包含的角色：- [丰聪耳神子](./丰聪耳神子.md)- [宇佐见堇子](./宇佐见堇子.md)
-
-
-
+- [GENSOKYO LOOKBOOK](./GENSOKYO_LOOKBOOK.md)该封面包含的角色：
+- [丰聪耳神子](./丰聪耳神子.md)
+- [宇佐见堇子](./宇佐见堇子.md)
 
 
 ---

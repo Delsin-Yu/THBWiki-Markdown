@@ -1,6 +1,6 @@
 # 文件:Alter_Synthlogo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ac\ns6%3AAlter_Synthlogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ac\ns6%3AAlter_Synthlogo%2Ejpg.html -->
 
 Alter_Synth | 社团LOGO
 
@@ -9,10 +9,6 @@ Alter_Synth | 社团LOGO
   
 同人音乐社团Alter Synth的logo
   
-
-
-
-
 
 ---
 

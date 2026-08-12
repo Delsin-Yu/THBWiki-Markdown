@@ -1,6 +1,6 @@
 # 文件:连缘蛇丛剑～Earthen_Miraculous_Sword封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\47\ns6%3A%E8%BF%9E%E7%BC%98%E8%9B%87%E4%B8%9B%E5%89%91%EF%BD%9EEarthen_Miraculous_Sword%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\47\ns6%3A%E8%BF%9E%E7%BC%98%E8%9B%87%E4%B8%9B%E5%89%91%EF%BD%9EEarthen_Miraculous_Sword%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 トリック・ノスタルジー | 封面图片 | 软件封面 | 连缘蛇丛剑
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [连缘蛇丛剑～Earthen Miraculous Sword](./连缘蛇丛剑～Earthen_Miraculous_Sword.md)  
-该封面包含的角色：- [凤联薮雨](./凤联薮雨.md)- [燕乐玄鸟](./燕乐玄鸟.md)
-
-
-
+- [连缘蛇丛剑～Earthen Miraculous Sword](./连缘蛇丛剑～Earthen_Miraculous_Sword.md)该封面包含的角色：
+- [凤联薮雨](./凤联薮雨.md)
+- [燕乐玄鸟](./燕乐玄鸟.md)
 
 
 ---

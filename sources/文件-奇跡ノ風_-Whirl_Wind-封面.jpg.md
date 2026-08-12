@@ -1,6 +1,6 @@
 # 文件:奇跡ノ風_-Whirl_Wind-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\12\ns6%3A%E5%A5%87%E8%B7%A1%E3%83%8E%E9%A2%A8_-Whirl_Wind-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\12\ns6%3A%E5%A5%87%E8%B7%A1%E3%83%8E%E9%A2%A8_-Whirl_Wind-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Re：Volte | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Re：Volte | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [奇跡ノ風 -Whirl Wind-](./奇跡ノ風_-Whirl_Wind-.md)  
-该封面包含的角色：- [东风谷早苗](./东风谷早苗.md)
-
-
-
+- [奇跡ノ風 -Whirl Wind-](./奇跡ノ風_-Whirl_Wind-.md)该封面包含的角色：
+- [东风谷早苗](./东风谷早苗.md)
 
 
 ---

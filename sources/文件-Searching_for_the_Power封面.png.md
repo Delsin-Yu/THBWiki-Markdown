@@ -1,6 +1,6 @@
 # 文件:Searching_for_the_Power封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\84\ns6%3ASearching_for_the_Power%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\84\ns6%3ASearching_for_the_Power%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Crazy_Voltage | 专辑封面 | 封面图片
 
@@ -8,11 +8,10 @@ Crazy_Voltage | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Searching for the Power](./Searching_for_the_Power.md)  
-该封面包含的角色：- [露娜切露德](./露娜切露德.md)- [桑尼米尔克](./桑尼米尔克.md)- [斯塔萨菲雅](./斯塔萨菲雅.md)
-
-
-
+- [Searching for the Power](./Searching_for_the_Power.md)该封面包含的角色：
+- [露娜切露德](./露娜切露德.md)
+- [桑尼米尔克](./桑尼米尔克.md)
+- [斯塔萨菲雅](./斯塔萨菲雅.md)
 
 
 ---

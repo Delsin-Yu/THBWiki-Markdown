@@ -1,16 +1,12 @@
 # 模板:CS
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\0\0a\ns10%3ACS.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\0\0a\ns10%3ACS.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

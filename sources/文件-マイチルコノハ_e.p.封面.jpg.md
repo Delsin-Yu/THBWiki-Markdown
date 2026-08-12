@@ -1,6 +1,6 @@
 # 文件:マイチルコノハ_e.p.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\42\ns6%3A%E3%83%9E%E3%82%A4%E3%83%81%E3%83%AB%E3%82%B3%E3%83%8E%E3%83%8F_e%2Ep%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\42\ns6%3A%E3%83%9E%E3%82%A4%E3%83%81%E3%83%AB%E3%82%B3%E3%83%8E%E3%83%8F_e%2Ep%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 スタジオマグロフレーク | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [マイチルコノハ e.p.](./マイチルコノハ_e.p..md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)
-
-
-
+- [マイチルコノハ e.p.](./マイチルコノハ_e.p..md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
 
 
 ---

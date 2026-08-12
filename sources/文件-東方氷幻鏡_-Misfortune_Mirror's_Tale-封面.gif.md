@@ -1,6 +1,6 @@
 # 文件:東方氷幻鏡_-Misfortune_Mirror's_Tale-封面.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\02\ns6%3A%E6%9D%B1%E6%96%B9%E6%B0%B7%E5%B9%BB%E9%8F%A1_-Misfortune_Mirror%27s_Tale-%E5%B0%81%E9%9D%A2%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\02\ns6%3A%E6%9D%B1%E6%96%B9%E6%B0%B7%E5%B9%BB%E9%8F%A1_-Misfortune_Mirror%27s_Tale-%E5%B0%81%E9%9D%A2%2Egif.html -->
 
 L-Garden | 封面图片 | 软件封面
 
@@ -10,16 +10,11 @@ L-Garden | 封面图片 | 软件封面
 使用了本文件作封面图片的作品：
   
 
-- [東方氷幻鏡 -Misfortune Mirror's Tale-](./東方氷幻鏡_-Misfortune_Mirror's_Tale-.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
+- [東方氷幻鏡 -Misfortune Mirror's Tale-](./東方氷幻鏡_-Misfortune_Mirror's_Tale-.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
   
-源地址：[direct image link](https://web.archive.org/web/20100102110735im_/http://appget.com/im/pc/22774/c053363_1.gif), [source page](https://web.archive.org/web/20100211155508/http://appget.com/im/pc/apview_053363.htm)
-  
-
-
-
-
+源地址：[direct image link](https://web.archive.org/web/20100102110735im_/http://appget.com/im/pc/22774/c053363_1.gif), [source page](https://web.archive.org/web/20100211155508/http://appget.com/im/pc/apview_053363.htm)  
 
 ---
 

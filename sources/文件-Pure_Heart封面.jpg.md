@@ -1,6 +1,6 @@
 # 文件:Pure_Heart封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f0\ns6%3APure_Heart%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f0\ns6%3APure_Heart%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 FELT | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ FELT | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Pure Heart](./Pure_Heart.md)  
-该封面包含的角色：- [霍青娥](./霍青娥.md)
-
-
-
+- [Pure Heart](./Pure_Heart.md)该封面包含的角色：
+- [霍青娥](./霍青娥.md)
 
 
 ---

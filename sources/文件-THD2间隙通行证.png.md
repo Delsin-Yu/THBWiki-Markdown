@@ -1,12 +1,8 @@
 # 文件:THD2间隙通行证.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\73\ns6%3ATHD2%E9%97%B4%E9%9A%99%E9%80%9A%E8%A1%8C%E8%AF%81%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\73\ns6%3ATHD2%E9%97%B4%E9%9A%99%E9%80%9A%E8%A1%8C%E8%AF%81%2Epng.html -->
 
 AvalonStudioOfficial
-
-
-
-
 
 
 ---

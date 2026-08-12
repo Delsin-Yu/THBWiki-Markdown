@@ -1,6 +1,6 @@
 # 文件:東方イラストロジックvol.1封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\17\ns6%3A%E6%9D%B1%E6%96%B9%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%83%AD%E3%82%B8%E3%83%83%E3%82%AFvol%2E1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\17\ns6%3A%E6%9D%B1%E6%96%B9%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%83%AD%E3%82%B8%E3%83%83%E3%82%AFvol%2E1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 W-⑱ | 同人志封面 | 封面图片
 
@@ -10,11 +10,9 @@ W-⑱ | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方イラストロジックvol.1](./東方イラストロジックvol.1.md)  
-该封面包含的角色：- [村纱水蜜](./村纱水蜜.md)- [封兽鵺](./封兽鵺.md)
-
-
-
+- [東方イラストロジックvol.1](./東方イラストロジックvol.1.md)该封面包含的角色：
+- [村纱水蜜](./村纱水蜜.md)
+- [封兽鵺](./封兽鵺.md)
 
 
 ---

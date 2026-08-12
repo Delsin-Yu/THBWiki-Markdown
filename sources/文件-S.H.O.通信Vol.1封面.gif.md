@@ -1,6 +1,6 @@
 # 文件:S.H.O.通信Vol.1封面.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6f\ns6%3AS%2EH%2EO%2E%E9%80%9A%E4%BF%A1Vol%2E1%E5%B0%81%E9%9D%A2%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6f\ns6%3AS%2EH%2EO%2E%E9%80%9A%E4%BF%A1Vol%2E1%E5%B0%81%E9%9D%A2%2Egif.html -->
 
 Sonic_Hybrid_Orchestra | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ Sonic_Hybrid_Orchestra | 专辑封面 | 封面图片
   
 
 - [S.H.O.通信Vol.1](./S.H.O.通信Vol.1.md)
-
-
-
 
 
 ---

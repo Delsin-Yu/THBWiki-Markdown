@@ -1,15 +1,13 @@
 # 文件:THD2夜雀的翅膀.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1c\ns6%3ATHD2%E5%A4%9C%E9%9B%80%E7%9A%84%E7%BF%85%E8%86%80%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1c\ns6%3ATHD2%E5%A4%9C%E9%9B%80%E7%9A%84%E7%BF%85%E8%86%80%2Epng.html -->
 
 AvalonStudioOfficial | THD2
 
 
 ## 摘要
+
 - THD2夜雀的翅膀
-
-
-
 
 
 ---

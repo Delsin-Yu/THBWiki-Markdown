@@ -1,6 +1,6 @@
 # 文件:月は緑のチーズで出来ている_～_Made_of_Trump_Curd封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6f\ns6%3A%E6%9C%88%E3%81%AF%E7%B7%91%E3%81%AE%E3%83%81%E3%83%BC%E3%82%BA%E3%81%A7%E5%87%BA%E6%9D%A5%E3%81%A6%E3%81%84%E3%82%8B_%EF%BD%9E_Made_of_Trump_Curd%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6f\ns6%3A%E6%9C%88%E3%81%AF%E7%B7%91%E3%81%AE%E3%83%81%E3%83%BC%E3%82%BA%E3%81%A7%E5%87%BA%E6%9D%A5%E3%81%A6%E3%81%84%E3%82%8B_%EF%BD%9E_Made_of_Trump_Curd%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 bivrache | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@ bivrache | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [月は緑のチーズで出来ている ～ Made of Trump Curd](./月は緑のチーズで出来ている_～_Made_of_Trump_Curd.md)  
-该封面包含的角色：- [娜兹玲](./娜兹玲.md)
-
-
-
+- [月は緑のチーズで出来ている ～ Made of Trump Curd](./月は緑のチーズで出来ている_～_Made_of_Trump_Curd.md)该封面包含的角色：
+- [娜兹玲](./娜兹玲.md)
 
 
 ---

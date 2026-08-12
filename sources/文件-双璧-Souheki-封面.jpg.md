@@ -1,6 +1,6 @@
 # 文件:双璧-Souheki-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bb\ns6%3A%E5%8F%8C%E7%92%A7-Souheki-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bb\ns6%3A%E5%8F%8C%E7%92%A7-Souheki-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 粗茶る
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [双璧-Souheki-](./双璧-Souheki-.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [双璧-Souheki-](./双璧-Souheki-.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

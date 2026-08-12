@@ -1,6 +1,6 @@
 # 文件:東方夢景色～Toho_Dreamscape_vol.2封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5e\ns6%3A%E6%9D%B1%E6%96%B9%E5%A4%A2%E6%99%AF%E8%89%B2%EF%BD%9EToho_Dreamscape_vol%2E2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5e\ns6%3A%E6%9D%B1%E6%96%B9%E5%A4%A2%E6%99%AF%E8%89%B2%EF%BD%9EToho_Dreamscape_vol%2E2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Ridil | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Ridil | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方夢景色～Toho Dreamscape vol.2](./東方夢景色～Toho_Dreamscape_vol.2.md)  
-该封面包含的角色：- [灵乌路空](./灵乌路空.md)
+- [東方夢景色～Toho Dreamscape vol.2](./東方夢景色～Toho_Dreamscape_vol.2.md)该封面包含的角色：
+- [灵乌路空](./灵乌路空.md)
 
   
-源地址：[[1]](http://ridil.sakura.ne.jp/sblo_files/ridil/image/yume2oku.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://ridil.sakura.ne.jp/sblo_files/ridil/image/yume2oku.jpg)  
 
 ---
 

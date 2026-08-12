@@ -1,16 +1,12 @@
 # 模板:SFTNSF
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\f\fc\ns10%3ASFTNSF.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\f\fc\ns10%3ASFTNSF.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

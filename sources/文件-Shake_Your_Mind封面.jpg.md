@@ -1,6 +1,6 @@
 # 文件:Shake_Your_Mind封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\82\ns6%3AShake_Your_Mind%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\82\ns6%3AShake_Your_Mind%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Echoes_Construction | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Echoes_Construction | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Shake Your Mind](./Shake_Your_Mind.md)  
-该封面包含的角色：- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
+- [Shake Your Mind](./Shake_Your_Mind.md)该封面包含的角色：
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
 
   
-源地址：[[1]](http://static.tumblr.com/917154c596825bf82d80b06c5eb586f4/k8ubhjd/eKaoefbtv/tumblr_static_9vheg8jlig8o84go0cc4ooo44.png)
-  
-
-
-
-
+源地址：[\[1\]](http://static.tumblr.com/917154c596825bf82d80b06c5eb586f4/k8ubhjd/eKaoefbtv/tumblr_static_9vheg8jlig8o84go0cc4ooo44.png)  
 
 ---
 

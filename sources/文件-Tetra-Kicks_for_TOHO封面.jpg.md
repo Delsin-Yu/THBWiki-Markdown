@@ -1,6 +1,6 @@
 # 文件:Tetra-Kicks_for_TOHO封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e3\ns6%3ATetra-Kicks_for_TOHO%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e3\ns6%3ATetra-Kicks_for_TOHO%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 下町パイプライン | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@
   
 
 - [Tetra-Kicks for TOHO](./Tetra-Kicks_for_TOHO.md)
-
-
-
 
 
 ---

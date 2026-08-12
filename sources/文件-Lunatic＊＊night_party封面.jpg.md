@@ -1,6 +1,6 @@
 # 文件:Lunatic＊＊night_party封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ec\ns6%3ALunatic%EF%BC%8A%EF%BC%8Anight_party%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ec\ns6%3ALunatic%EF%BC%8A%EF%BC%8Anight_party%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Ankakeya_Records | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Ankakeya_Records | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Lunatic＊＊night party](./Lunatic＊＊night_party.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [Lunatic＊＊night party](./Lunatic＊＊night_party.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

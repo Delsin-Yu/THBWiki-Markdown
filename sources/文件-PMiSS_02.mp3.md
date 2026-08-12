@@ -1,12 +1,8 @@
 # 文件:PMiSS_02.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e8\ns6%3APMiSS_02%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e8\ns6%3APMiSS_02%2Emp3.html -->
 
 东方求闻史纪 | 原曲MP3 | 阿礼的孩子
-
-
-
-
 
 
 ---

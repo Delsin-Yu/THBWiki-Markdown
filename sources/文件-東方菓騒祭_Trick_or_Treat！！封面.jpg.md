@@ -1,6 +1,6 @@
 # 文件:東方菓騒祭_Trick_or_Treat！！封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3b\ns6%3A%E6%9D%B1%E6%96%B9%E8%8F%93%E9%A8%92%E7%A5%AD_Trick_or_Treat%EF%BC%81%EF%BC%81%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3b\ns6%3A%E6%9D%B1%E6%96%B9%E8%8F%93%E9%A8%92%E7%A5%AD_Trick_or_Treat%EF%BC%81%EF%BC%81%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ランダムランド | 同人志封面 | 封面图片
 
@@ -8,11 +8,13 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方菓騒祭 Trick or Treat！！](./東方菓騒祭_Trick_or_Treat！！.md)  
-该封面包含的角色：- [蕾蒂·霍瓦特洛克](./蕾蒂·霍瓦特洛克.md)- [橙](./橙.md)- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [魂魄妖梦](./魂魄妖梦.md)- [西行寺幽幽子](./西行寺幽幽子.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [東方菓騒祭 Trick or Treat！！](./東方菓騒祭_Trick_or_Treat！！.md)该封面包含的角色：
+- [蕾蒂·霍瓦特洛克](./蕾蒂·霍瓦特洛克.md)
+- [橙](./橙.md)
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [魂魄妖梦](./魂魄妖梦.md)
+- [西行寺幽幽子](./西行寺幽幽子.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

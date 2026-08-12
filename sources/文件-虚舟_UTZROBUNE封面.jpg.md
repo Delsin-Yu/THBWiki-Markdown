@@ -1,6 +1,6 @@
 # 文件:虚舟_UTZROBUNE封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ca\ns6%3A%E8%99%9A%E8%88%9F_UTZROBUNE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ca\ns6%3A%E8%99%9A%E8%88%9F_UTZROBUNE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 WAVEDRIVE | 专辑封面 | 封面图片
 
@@ -10,11 +10,12 @@ WAVEDRIVE | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [虚舟 UTZROBUNE](./虚舟_UTZROBUNE.md)  
-该封面包含的角色：- [云居一轮](./云居一轮.md)- [村纱水蜜](./村纱水蜜.md)- [寅丸星](./寅丸星.md)- [圣白莲](./圣白莲.md)- [封兽鵺](./封兽鵺.md)
-
-
-
+- [虚舟 UTZROBUNE](./虚舟_UTZROBUNE.md)该封面包含的角色：
+- [云居一轮](./云居一轮.md)
+- [村纱水蜜](./村纱水蜜.md)
+- [寅丸星](./寅丸星.md)
+- [圣白莲](./圣白莲.md)
+- [封兽鵺](./封兽鵺.md)
 
 
 ---

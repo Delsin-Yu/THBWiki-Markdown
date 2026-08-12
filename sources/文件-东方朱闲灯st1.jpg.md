@@ -1,12 +1,8 @@
 # 文件:东方朱闲灯st1.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3f\ns6%3A%E4%B8%9C%E6%96%B9%E6%9C%B1%E9%97%B2%E7%81%AFst1%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3f\ns6%3A%E4%B8%9C%E6%96%B9%E6%9C%B1%E9%97%B2%E7%81%AFst1%2Ejpg.html -->
 
 軒崎風林
-
-
-
-
 
 
 ---

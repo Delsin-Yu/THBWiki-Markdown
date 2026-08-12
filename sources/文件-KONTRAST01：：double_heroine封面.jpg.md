@@ -1,6 +1,6 @@
 # 文件:KONTRAST01：：double_heroine封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a6\ns6%3AKONTRAST01%EF%BC%9A%EF%BC%9Adouble_heroine%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a6\ns6%3AKONTRAST01%EF%BC%9A%EF%BC%9Adouble_heroine%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 KONTRAST | 专辑封面 | 封面图片
 
@@ -8,16 +8,12 @@ KONTRAST | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [KONTRAST01：：double heroine](./KONTRAST01：：double_heroine.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [雾雨魔理沙](./雾雨魔理沙.md)
+- [KONTRAST01：：double heroine](./KONTRAST01：：double_heroine.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-源地址：[[1]](http://www.kontrast.asia/Images/Artworks/Artwork_KONTRAST01_Jacket_Large.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://www.kontrast.asia/Images/Artworks/Artwork_KONTRAST01_Jacket_Large.jpg)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:daydream（Frontier_Records）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c1\ns6%3Adaydream%EF%BC%88Frontier_Records%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c1\ns6%3Adaydream%EF%BC%88Frontier_Records%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Frontier_Records | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ Frontier_Records | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [daydream（Frontier Records）](./daydream（Frontier_Records）.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [daydream（Frontier Records）](./daydream（Frontier_Records）.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

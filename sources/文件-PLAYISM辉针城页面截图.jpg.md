@@ -1,12 +1,8 @@
 # 文件:PLAYISM辉针城页面截图.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\57\ns6%3APLAYISM%E8%BE%89%E9%92%88%E5%9F%8E%E9%A1%B5%E9%9D%A2%E6%88%AA%E5%9B%BE%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\57\ns6%3APLAYISM%E8%BE%89%E9%92%88%E5%9F%8E%E9%A1%B5%E9%9D%A2%E6%88%AA%E5%9B%BE%2Ejpg.html -->
 
 PLAYISM | 东方辉针城
-
-
-
-
 
 
 ---

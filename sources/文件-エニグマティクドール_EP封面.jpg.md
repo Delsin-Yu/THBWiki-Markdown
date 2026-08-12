@@ -1,6 +1,6 @@
 # 文件:エニグマティクドール_EP封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\58\ns6%3A%E3%82%A8%E3%83%8B%E3%82%B0%E3%83%9E%E3%83%86%E3%82%A3%E3%82%AF%E3%83%89%E3%83%BC%E3%83%AB_EP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\58\ns6%3A%E3%82%A8%E3%83%8B%E3%82%B0%E3%83%9E%E3%83%86%E3%82%A3%E3%82%AF%E3%83%89%E3%83%BC%E3%83%AB_EP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 斧家
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [エニグマティクドール EP](./エニグマティクドール_EP.md)  
-该封面包含的角色：- [蓬莱人形](./蓬莱人形.md)
-
-
-
+- [エニグマティクドール EP](./エニグマティクドール_EP.md)该封面包含的角色：
+- [蓬莱人形](./蓬莱人形.md)
 
 
 ---

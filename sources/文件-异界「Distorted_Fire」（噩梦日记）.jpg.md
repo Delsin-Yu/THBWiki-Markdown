@@ -1,12 +1,8 @@
 # 文件:异界「Distorted_Fire」（噩梦日记）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\50\ns6%3A%E5%BC%82%E7%95%8C%E3%80%8CDistorted_Fire%E3%80%8D%EF%BC%88%E5%99%A9%E6%A2%A6%E6%97%A5%E8%AE%B0%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\50\ns6%3A%E5%BC%82%E7%95%8C%E3%80%8CDistorted_Fire%E3%80%8D%EF%BC%88%E5%99%A9%E6%A2%A6%E6%97%A5%E8%AE%B0%EF%BC%89%2Ejpg.html -->
 
 敌机符卡 | 秘封噩梦日记 | 赫卡提亚·拉碧斯拉祖利
-
-
-
-
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:Swing_Holic_banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fb\ns6%3ASwing_Holic_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fb\ns6%3ASwing_Holic_banner%2Ejpg.html -->
 
 SWING_HOLIC | 社团LOGO
-
-
-
-
 
 
 ---

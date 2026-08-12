@@ -1,12 +1,8 @@
 # 文件:命运「Miserable_Fate」（绯想天）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\93\ns6%3A%E5%91%BD%E8%BF%90%E3%80%8CMiserable_Fate%E3%80%8D%EF%BC%88%E7%BB%AF%E6%83%B3%E5%A4%A9%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\93\ns6%3A%E5%91%BD%E8%BF%90%E3%80%8CMiserable_Fate%E3%80%8D%EF%BC%88%E7%BB%AF%E6%83%B3%E5%A4%A9%EF%BC%89%2Ejpg.html -->
 
 东方绯想天 | 敌机符卡 | 蕾米莉亚·斯卡蕾特
-
-
-
-
 
 
 ---

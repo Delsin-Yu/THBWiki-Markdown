@@ -1,6 +1,6 @@
 # 东方资志疏_~_Immortal_Immanuel/Music
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\8\88\ns0%3A%E4%B8%9C%E6%96%B9%E8%B5%84%E5%BF%97%E7%96%8F_%7E_Immortal_Immanuel%2FMusic.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\8\88\ns0%3A%E4%B8%9C%E6%96%B9%E8%B5%84%E5%BF%97%E7%96%8F_%7E_Immortal_Immanuel%2FMusic.html -->
 
 沙包聚集地制作组
 
@@ -27,7 +27,6 @@
 </td></tr></tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
@@ -46,7 +45,6 @@
 ——小田原<br>
 </p>
 </td></tr></tbody></table>
-
 
 
 <table>
@@ -69,7 +67,6 @@
 </td></tr></tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
@@ -77,7 +74,7 @@
 </td>
 <td style="background: #FFFFCC;" align="center" width="55%">勿忘草于原野盛开
 </td>
-<td style="background: #dde6ff;" align="center" width="10%">♪ <i>ScarletXtal &amp; Arplane</i>
+<td style="background: #dde6ff;" align="center" width="10%">♪ <i>ScarletXtal & Arplane</i>
 </td></tr>
 <tr valign="top">
 <td colspan="3" style="padding:1em; padding-left:2em;" lang="zh" width="30%">
@@ -88,7 +85,6 @@
 ——ScarletXtal<br>
 </p>
 </td></tr></tbody></table>
-
 
 
 <table>
@@ -112,7 +108,6 @@
 </td></tr></tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
@@ -133,13 +128,12 @@
 </td></tr></tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
 <td style="background: #dde6ff;" align="center" width="15%"><h6><span id="3.E9.9D.A2boss-.E9.9B.BE.E7.AC.9B.E9.9C.9E.E4.B8.BB.E9.A2.98.E6.9B.B2"></span><span class="mw-headline" id="3面boss-雾笛霞主题曲">3面boss-<a href="./雾笛霞.md" title="雾笛霞">雾笛霞</a>主题曲</span></h6>
 </td>
-<td style="background: #FFFFCC;" align="center" width="55%">云海笙歌<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">1</a></sup>
+<td style="background: #FFFFCC;" align="center" width="55%">云海笙歌<span>[^cite_note-1]</span>
 </td>
 <td style="background: #dde6ff;" align="center" width="10%">♪ <i>琴南こどく</i>
 </td></tr>
@@ -152,7 +146,6 @@
 </td></tr></tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
@@ -163,19 +156,9 @@
 <td style="background: #dde6ff;" align="center" width="10%">♪ <i>Arplane</i>
 </td></tr></tbody></table>
 
-
-
 [^cite_note-1]: 苗族芒筒芦笙乐舞，国家级非物质文化遗产之一。苗族芒筒芦笙乐舞是一种独特的民族民间艺术，主要流传于贵州省丹寨县境内所有苗族村寨和邻近的雷山、榕江、三都县及都匀市的部分地区。
-
-
-## 词条导航
   
-东方资志疏 ~ Immortal Immanuel/导航 (未找到链接)
-  
-
-
-
-
+东方资志疏 ~ Immortal Immanuel/导航 (未找到链接)  
 
 ---
 

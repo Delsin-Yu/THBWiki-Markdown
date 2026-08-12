@@ -1,6 +1,6 @@
 # 文件:うらめCD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e8\ns6%3A%E3%81%86%E3%82%89%E3%82%81CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e8\ns6%3A%E3%81%86%E3%82%89%E3%82%81CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 まさかど☆くらいしすっ！ | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [うらめCD](./うらめCD.md)  
-该封面包含的角色：- [多多良小伞](./多多良小伞.md)
-
-
-
+- [うらめCD](./うらめCD.md)该封面包含的角色：
+- [多多良小伞](./多多良小伞.md)
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:Jerico's_Law.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bc\ns6%3AJerico%27s_Law%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bc\ns6%3AJerico%27s_Law%2Ejpg.html -->
 
 ジェリコの法則 | 社团LOGO
-
-
-
-
 
 
 ---

@@ -1,37 +1,34 @@
 # Inocent_Euro_Vol.9
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\20\ns0%3AInocent_Euro_Vol%2E9.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\20\ns0%3AInocent_Euro_Vol%2E9.html -->
 
 2023年12月31日 由 Inocent Melody 于 Comic Market 103 发布的单曲同人专辑，曲目主要风格是 Eurobeat，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人专辑 (未找到链接)** 的词条
-
+**[二次创作同人专辑](./二次创作.md#同人音乐)**的词条
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Inocent_Euro_Vol.9封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/a/a1/Inocent_Euro_Vol.9%E5%B0%81%E9%9D%A2.png/277px-Inocent_Euro_Vol.9%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="277" height="280" srcset="https://upload.thwiki.cc/thumb/a/a1/Inocent_Euro_Vol.9%E5%B0%81%E9%9D%A2.png/416px-Inocent_Euro_Vol.9%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/a/a1/Inocent_Euro_Vol.9%E5%B0%81%E9%9D%A2.png/554px-Inocent_Euro_Vol.9%E5%B0%81%E9%9D%A2.png 2x" data-file-width="567" data-file-height="573"></a><div class="cover-char">角色：<a href="./西行寺幽幽子.md" title="西行寺幽幽子">西行寺幽幽子</a></div></td>
 </tr><tr><td class="label">名称</td><td colspan="2"> Inocent Euro Vol.9 </td></tr><tr><td class="label">制作方</td><td><a href="./Inocent_Melody.md" title="Inocent Melody">Inocent Melody</a></td><td class="cover-artwork" rowspan="10" style="min-width:280px;"><a href="./文件-Inocent_Euro_Vol.9封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/a/a1/Inocent_Euro_Vol.9%E5%B0%81%E9%9D%A2.png/277px-Inocent_Euro_Vol.9%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="277" height="280" srcset="https://upload.thwiki.cc/thumb/a/a1/Inocent_Euro_Vol.9%E5%B0%81%E9%9D%A2.png/416px-Inocent_Euro_Vol.9%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/a/a1/Inocent_Euro_Vol.9%E5%B0%81%E9%9D%A2.png/554px-Inocent_Euro_Vol.9%E5%B0%81%E9%9D%A2.png 2x" data-file-width="567" data-file-height="573"></a><div class="cover-char">角色：<a href="./西行寺幽幽子.md" title="西行寺幽幽子">西行寺幽幽子</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2023-12-31&#160;（<a href="/展会作品列表?e=Comic+Market%23103">Comic Market 103</a>）</td></tr><tr><td class="label">类型</td><td>单曲</td></tr><tr><td class="label">编号</td><td>IMCD-12</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>3</td></tr><tr><td class="label">总时长</td><td>00:00</td></tr><tr><td class="label">风格类型</td><td>Eurobeat</td></tr><tr><td class="label">售价</td><td>会场售价：1000日元</td></tr>
+</tr><tr><td class="label">首发日期</td><td>2023-12-31 （<a href="./展会作品列表.md#103">Comic Market 103</a>）</td></tr><tr><td class="label">类型</td><td>单曲</td></tr><tr><td class="label">编号</td><td>IMCD-12</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>3</td></tr><tr><td class="label">总时长</td><td>00:00</td></tr><tr><td class="label">风格类型</td><td>Eurobeat</td></tr><tr><td class="label">售价</td><td>会场售价：1000日元</td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://inocentmelody.wixsite.com/inocentmelody/複製-inocent-euro-vol-8">https://inocentmelody.wixsite.com/inocentmelody/複製-inocent-euro-vol-8</a></td></tr></tbody></table>
 
 Inocent Euro Vol.9（同人专辑，Inocent Melody，2023） - 2023年12月31日 由 Inocent Melody 于 Comic Market 103 发布的单曲同人专辑，曲目主要风格是 Eurobeat，分级为 一般向
-
 ## Staff
   
- **Arrangement**   
+**Arrangement**  
 
-<table><tbody><tr><td><a href="/index.php?title=Shu&amp;action=edit&amp;redlink=1" class="new" title="Shu（页面不存在）">Shu</a></td><td><a href="./Inocent_Melody.md" title="Inocent Melody">Inocent Melody</a></td><td>Tr.1/3</td></tr><tr><td><a href="/index.php?title=ux&amp;action=edit&amp;redlink=1" class="new" title="ux（页面不存在）">ux</a></td><td></td><td>Tr.2</td></tr></tbody></table>
-
-  
- **Vocal**   
-
-<table><tbody><tr><td><a href="/index.php?title=%E5%88%9D%E9%9F%B3%E6%9C%AA%E6%9D%A5&amp;action=edit&amp;redlink=1" class="new" title="初音未来（页面不存在）">初音未来</a></td><td></td><td>Tr.1</td></tr></tbody></table>
+<table><tbody><tr><td><a class="new" title="Shu（页面不存在）">Shu</a></td><td><a href="./Inocent_Melody.md" title="Inocent Melody">Inocent Melody</a></td><td>Tr.1/3</td></tr><tr><td><a class="new" title="ux（页面不存在）">ux</a></td><td></td><td>Tr.2</td></tr></tbody></table>
 
   
- **Lyrics**   
+**Vocal**  
 
-<table><tbody><tr><td><a href="/index.php?title=Shu&amp;action=edit&amp;redlink=1" class="new" title="Shu（页面不存在）">Shu</a></td><td><a href="./Inocent_Melody.md" title="Inocent Melody">Inocent Melody</a></td><td>Tr.1</td></tr></tbody></table>
+<table><tbody><tr><td><a class="new" title="初音未来（页面不存在）">初音未来</a></td><td></td><td>Tr.1</td></tr></tbody></table>
 
+  
+**Lyrics**  
+
+<table><tbody><tr><td><a class="new" title="Shu（页面不存在）">Shu</a></td><td><a href="./Inocent_Melody.md" title="Inocent Melody">Inocent Melody</a></td><td>Tr.1</td></tr></tbody></table>
 
 Mastering
 : Shu (未找到链接)
@@ -40,19 +37,14 @@ Design
 Illustration
 : とまくま (未找到链接)
 
-
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoRD"><b>01</b></td><td id="Crazy_Fragility" colspan="2" class="title"><span class="new" title="（歌词页面不存在）"><a href="/index.php?title=%E6%AD%8C%E8%AF%8D:Crazy_Fragility&amp;boilerplate=模板:页面模板/曲目歌词&amp;action=edit">Crazy Fragility</a></span><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Shu&amp;vocal=初音未来&amp;lyric=Shu&amp;ogmusic=幽雅に咲かせ、墨染の桜　～ Border of Life&amp;fromwiki=Inocent_Euro_Vol.9"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=Shu&amp;action=edit&amp;redlink=1" class="new" title="Shu（页面不存在）">Shu</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Shu&amp;fromwiki=Inocent_Euro_Vol.9"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="/index.php?title=%E5%88%9D%E9%9F%B3%E6%9C%AA%E6%9D%A5&amp;action=edit&amp;redlink=1" class="new" title="初音未来（页面不存在）">初音未来</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=初音未来&amp;fromwiki=Inocent_Euro_Vol.9"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="/index.php?title=Shu&amp;action=edit&amp;redlink=1" class="new" title="Shu（页面不存在）">Shu</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?lyric=Shu&amp;fromwiki=Inocent_Euro_Vol.9"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=幽雅に咲かせ、墨染の桜　～ Border of Life&amp;fromwiki=Inocent_Euro_Vol.9"><span></span></a></span><div class="ogmusic"><a href="./幽雅に咲かせ、墨染の桜_～_Border_of_Life.md" class="mw-redirect" title="幽雅に咲かせ、墨染の桜 ～ Border of Life">幽雅に咲かせ、墨染の桜　～ Border of Life</a></div><div class="source"><a href="./东方妖妖梦_～_Perfect_Cherry_Blossom..md" class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr>
-<tr><td id="2" class="infoYD"><b>02</b></td><td id="Fantastical_fantasy" colspan="2" class="title">Fantastical fantasy<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=ux&amp;ogmusic=広有射怪鳥事　～ Till When?&amp;fromwiki=Inocent_Euro_Vol.9"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=ux&amp;action=edit&amp;redlink=1" class="new" title="ux（页面不存在）">ux</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，ux&amp;fromwiki=Inocent_Euro_Vol.9"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=広有射怪鳥事　～ Till When?&amp;fromwiki=Inocent_Euro_Vol.9"><span></span></a></span><div class="ogmusic"><a href="./広有射怪鳥事_～_Till_When-.md" class="mw-redirect" title="広有射怪鳥事 ～ Till When?">広有射怪鳥事　～ Till When?</a></div><div class="source"><a href="./东方妖妖梦_～_Perfect_Cherry_Blossom..md" class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr>
-<tr><td id="3" class="infoYD"><b>03</b></td><td id="Crazy_Fragility_(Instrumental)" colspan="2" class="title">Crazy Fragility (Instrumental)<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Shu&amp;ogmusic=幽雅に咲かせ、墨染の桜　～ Border of Life&amp;fromwiki=Inocent_Euro_Vol.9"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=Shu&amp;action=edit&amp;redlink=1" class="new" title="Shu（页面不存在）">Shu</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Shu&amp;fromwiki=Inocent_Euro_Vol.9"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">初发布</td><td class="text" colspan="2"><a href="/Inocent_Euro_Vol.9#1" title="Inocent Euro Vol.9">Crazy Fragility</a><div class="source"><a class="mw-selflink selflink">Inocent Euro Vol.9</a></div></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=幽雅に咲かせ、墨染の桜　～ Border of Life&amp;fromwiki=Inocent_Euro_Vol.9"><span></span></a></span><div class="ogmusic"><a href="./幽雅に咲かせ、墨染の桜_～_Border_of_Life.md" class="mw-redirect" title="幽雅に咲かせ、墨染の桜 ～ Border of Life">幽雅に咲かせ、墨染の桜　～ Border of Life</a></div><div class="source"><a href="./东方妖妖梦_～_Perfect_Cherry_Blossom..md" class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr></tbody></table>
-
+<table><tbody><tr><td id="1" class="infoRD"><b>01</b></td><td id="Crazy_Fragility" colspan="2" class="title"><span class="new" title="（歌词页面不存在）"><a>Crazy Fragility</a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="Shu（页面不存在）">Shu</a></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a class="new" title="初音未来（页面不存在）">初音未来</a></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a class="new" title="Shu（页面不存在）">Shu</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./幽雅地绽放吧，墨染的樱花_～_Border_of_Life.md" class="mw-redirect" title="幽雅に咲かせ、墨染の桜 ～ Border of Life">幽雅に咲かせ、墨染の桜　～ Border of Life</a></div><div class="source"><a href="./东方妖妖梦.md" class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr>
+<tr><td id="2" class="infoYD"><b>02</b></td><td id="Fantastical_fantasy" colspan="2" class="title">Fantastical fantasy</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="ux（页面不存在）">ux</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a class="mw-redirect" title="広有射怪鳥事 ～ Till When?">広有射怪鳥事　～ Till When?</a></div><div class="source"><a href="./东方妖妖梦.md" class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr>
+<tr><td id="3" class="infoYD"><b>03</b></td><td id="Crazy_Fragility_(Instrumental)" colspan="2" class="title">Crazy Fragility (Instrumental)</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="Shu（页面不存在）">Shu</a></td></tr><tr><td class="left"></td><td class="label">初发布</td><td class="text" colspan="2"><a href="./Inocent_Euro_Vol.9.md#1" title="Inocent Euro Vol.9">Crazy Fragility</a><div class="source"><a class="mw-selflink selflink">Inocent Euro Vol.9</a></div></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./幽雅地绽放吧，墨染的樱花_～_Border_of_Life.md" class="mw-redirect" title="幽雅に咲かせ、墨染の桜 ～ Border of Life">幽雅に咲かせ、墨染の桜　～ Border of Life</a></div><div class="source"><a href="./东方妖妖梦.md" class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr></tbody></table>
 
 
 ## 评论
-
-
-
 
 ---
 

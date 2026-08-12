@@ -1,6 +1,6 @@
 # 文件:Arah_Timur_Issue_1+2封面.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\01\ns6%3AArah_Timur_Issue_1%2B2%E5%B0%81%E9%9D%A2%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\01\ns6%3AArah_Timur_Issue_1%2B2%E5%B0%81%E9%9D%A2%2Egif.html -->
 
 Dead_Fish_Chronicles | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@ Dead_Fish_Chronicles | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Arah Timur Issue 1+2](./Arah_Timur_Issue_1+2.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)
+- [Arah Timur Issue 1+2](./Arah_Timur_Issue_1+2.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
 
   
-源地址：[direct image link](http://deadfishchronicles.com/product/atc1.gif), [source page](http://deadfishchronicles.com/books.html)
-  
-
-
-
-
+源地址：[direct image link](http://deadfishchronicles.com/product/atc1.gif), [source page](http://deadfishchronicles.com/books.html)  
 
 ---
 

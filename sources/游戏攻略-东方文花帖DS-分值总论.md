@@ -1,17 +1,15 @@
 # 游戏攻略/东方文花帖DS/分值总论
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\e\e9\ns0%3A%E6%B8%B8%E6%88%8F%E6%94%BB%E7%95%A5%2F%E4%B8%9C%E6%96%B9%E6%96%87%E8%8A%B1%E5%B8%96DS%2F%E5%88%86%E5%80%BC%E6%80%BB%E8%AE%BA.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\e\e9\ns0%3A%E6%B8%B8%E6%88%8F%E6%94%BB%E7%95%A5%2F%E4%B8%9C%E6%96%B9%E6%96%87%E8%8A%B1%E5%B8%96DS%2F%E5%88%86%E5%80%BC%E6%80%BB%E8%AE%BA.html -->
 
 游戏攻略 | 资料
 
 本页是整理东方Project  
- **相关资料** 的词条
+**相关资料**的词条
 ## 目录
 
 - [1 分值构成](#分值构成)
-
   - [1.1 基础部分](#基础部分)
-
     - [1.1.1 Base Point](#Base_Point)
     - [1.1.2 Clear Shot](#Clear_Shot)
     - [1.1.3 Color Bonus](#Color_Bonus)
@@ -22,9 +20,7 @@
     - [1.1.8 Solo Shot](#Solo_Shot)
 
 
-
   - [1.2 倍率部分](#倍率部分)
-
     - [1.2.1 Boss Shot](#Boss_Shot)
     - [1.2.2 Two Shot](#Two_Shot)
     - [1.2.3 Nice Shot](#Nice_Shot)
@@ -34,12 +30,8 @@
 
 
 
-
-
 - [2 刷分要点](#刷分要点)
-
   - [2.1 高分向](#高分向)
-
     - [2.1.1 基础分](#基础分)
     - [2.1.2 角度加成](#角度加成)
     - [2.1.3 自拍加成](#自拍加成)
@@ -48,29 +40,20 @@
     - [2.1.6 零头（基础部分的小小加成）](#零头（基础部分的小小加成）)
 
 
-
   - [2.2 低分向](#低分向)
-
     - [2.2.1 刷低分攻略1（适用于文文自机）](#刷低分攻略1（适用于文文自机）)
     - [2.2.2 刷低分攻略2（适用于果自机）](#刷低分攻略2（适用于果自机）)
 
 
 
 
-
-
 - [3 小捏他](#小捏他)
-
   - [3.1 关于环形弹幕](#关于环形弹幕)
   - [3.2 关于BOSS的出圈规律](#关于BOSS的出圈规律)
 
 
-
 - [4 原作信息](#原作信息)
 - [5 注释](#注释)
-
-
-
 
   
 所有的图片均可以点击查看大图。
@@ -84,67 +67,61 @@
   
 
 ### 基础部分
+
 #### Base Point
   
 基础分值，获取分数的基本手段，是将一张照片拍到的每个子弹的对应分值累加得到，下限为0、上不封顶。请努力去取得尽量高的Base Point吧+ +！
   
 
 #### Clear Shot
-[](./文件-文花帖DS分值总论-1.jpg.md)
+<img alt="文花帖DS分值总论-1.jpg" src="https://upload.thwiki.cc/thumb/6/62/%E6%96%87%E8%8A%B1%E5%B8%96DS%E5%88%86%E5%80%BC%E6%80%BB%E8%AE%BA-1.jpg/200px-%E6%96%87%E8%8A%B1%E5%B8%96DS%E5%88%86%E5%80%BC%E6%80%BB%E8%AE%BA-1.jpg" decoding="async" loading="lazy" width="200" height="201" srcset="https://upload.thwiki.cc/thumb/6/62/%E6%96%87%E8%8A%B1%E5%B8%96DS%E5%88%86%E5%80%BC%E6%80%BB%E8%AE%BA-1.jpg/300px-%E6%96%87%E8%8A%B1%E5%B8%96DS%E5%88%86%E5%80%BC%E6%80%BB%E8%AE%BA-1.jpg 1.5x, https://upload.thwiki.cc/6/62/%E6%96%87%E8%8A%B1%E5%B8%96DS%E5%88%86%E5%80%BC%E6%80%BB%E8%AE%BA-1.jpg 2x" data-file-width="321" data-file-height="323">
   
 清场加成，拍照时BOSS身周的一个特定区域内没有子弹时，可以获得600分的Clear Bonus。如果能在照片上看到完整的BOSS身影，那么这600分就基本拿到了。
   
 
-
 #### Color Bonus
-[](./文件-文花帖DS分值总论-2.jpg.md)
+<img alt="文花帖DS分值总论-2.jpg" src="https://upload.thwiki.cc/thumb/4/4b/%E6%96%87%E8%8A%B1%E5%B8%96DS%E5%88%86%E5%80%BC%E6%80%BB%E8%AE%BA-2.jpg/200px-%E6%96%87%E8%8A%B1%E5%B8%96DS%E5%88%86%E5%80%BC%E6%80%BB%E8%AE%BA-2.jpg" decoding="async" loading="lazy" width="200" height="200" srcset="https://upload.thwiki.cc/thumb/4/4b/%E6%96%87%E8%8A%B1%E5%B8%96DS%E5%88%86%E5%80%BC%E6%80%BB%E8%AE%BA-2.jpg/300px-%E6%96%87%E8%8A%B1%E5%B8%96DS%E5%88%86%E5%80%BC%E6%80%BB%E8%AE%BA-2.jpg 1.5x, https://upload.thwiki.cc/4/4b/%E6%96%87%E8%8A%B1%E5%B8%96DS%E5%88%86%E5%80%BC%E6%80%BB%E8%AE%BA-2.jpg 2x" data-file-width="322" data-file-height="322">
   
-颜色加成。在一张照片中，如果某种单色弹幕的总Base Point超过某个临界值[^cite_note-1]时，可以获得300分的该颜色加成（例如一张照片里有临界分以上的红色弹幕，那么就可以获得300分的 **Red Shot** ，其他颜色类似。在判定单色加成的时候，其他颜色的弹幕不产生影响）。  
+颜色加成。在一张照片中，如果某种单色弹幕的总Base Point超过某个临界值[^cite_note-1]时，可以获得300分的该颜色加成（例如一张照片里有临界分以上的红色弹幕，那么就可以获得300分的**Red Shot**，其他颜色类似。在判定单色加成的时候，其他颜色的弹幕不产生影响）。  
 
 奇怪的是，某些有色的发光弹幕（例如10面M子的红蓝发光气质弹和电鳗的蓝色电光等等）视为没有颜色。另外以下的非正常形状弹幕（包括各种心形弹、小伞的伞、船长的锚、云山伯伯的脸和拳头、娜兹玲的探宝器、高达的核弹、猫车的僵尸、小五的Trauma爆发、M子的要石、青蛙子的军神弹还有红白那个大得离谱的退魔札）也视为没有颜色。  
 
-当一张照片中出现（出现即可，不需要全部满足临界值）超过三种颜色的弹幕时，可以获得900分的' *Colorful Shot **，出现** 赤橙黄绿青蓝紫* 七色弹幕时，可以获得2100分的 **Rainbow Shot** ，这两个加成不相互冲突。
+当一张照片中出现（出现即可，不需要全部满足临界值）超过三种颜色的弹幕时，可以获得900分的'*Colorful Shot**，出现**赤橙黄绿青蓝紫*七色弹幕时，可以获得2100分的**Rainbow Shot**，这两个加成不相互冲突。
   
-
 
 #### Risk Bonus
-[](./文件-文花帖DS分值总论-3.jpg.md)
+<img alt="文花帖DS分值总论-3.jpg" src="https://upload.thwiki.cc/thumb/c/c9/%E6%96%87%E8%8A%B1%E5%B8%96DS%E5%88%86%E5%80%BC%E6%80%BB%E8%AE%BA-3.jpg/200px-%E6%96%87%E8%8A%B1%E5%B8%96DS%E5%88%86%E5%80%BC%E6%80%BB%E8%AE%BA-3.jpg" decoding="async" loading="lazy" width="200" height="201" srcset="https://upload.thwiki.cc/thumb/c/c9/%E6%96%87%E8%8A%B1%E5%B8%96DS%E5%88%86%E5%80%BC%E6%80%BB%E8%AE%BA-3.jpg/300px-%E6%96%87%E8%8A%B1%E5%B8%96DS%E5%88%86%E5%80%BC%E6%80%BB%E8%AE%BA-3.jpg 1.5x, https://upload.thwiki.cc/c/c9/%E6%96%87%E8%8A%B1%E5%B8%96DS%E5%88%86%E5%80%BC%E6%80%BB%E8%AE%BA-3.jpg 2x" data-file-width="320" data-file-height="321">
   
-风险加成。在 **拍照的瞬间** 处于擦弹状态时，可以获得Risk Bonus，下限160上限2000（分值一定是80的倍数）。擦弹越多Risk Bonus越高。（所以说文花帖擦弹也是很重要的）（图中用红点标示了判定点，因为低速下是不能拍照的）
+风险加成。在**拍照的瞬间**处于擦弹状态时，可以获得Risk Bonus，下限160上限2000（分值一定是80的倍数）。擦弹越多Risk Bonus越高。（所以说文花帖擦弹也是很重要的）（图中用红点标示了判定点，因为低速下是不能拍照的）
   
-
 
 #### Macro Bonus
-[](./文件-文花帖DS分值总论-4.jpg.md)
+<img alt="文花帖DS分值总论-4.jpg" src="https://upload.thwiki.cc/thumb/e/e6/%E6%96%87%E8%8A%B1%E5%B8%96DS%E5%88%86%E5%80%BC%E6%80%BB%E8%AE%BA-4.jpg/200px-%E6%96%87%E8%8A%B1%E5%B8%96DS%E5%88%86%E5%80%BC%E6%80%BB%E8%AE%BA-4.jpg" decoding="async" loading="lazy" width="200" height="200" srcset="https://upload.thwiki.cc/thumb/e/e6/%E6%96%87%E8%8A%B1%E5%B8%96DS%E5%88%86%E5%80%BC%E6%80%BB%E8%AE%BA-4.jpg/300px-%E6%96%87%E8%8A%B1%E5%B8%96DS%E5%88%86%E5%80%BC%E6%80%BB%E8%AE%BA-4.jpg 1.5x, https://upload.thwiki.cc/e/e6/%E6%96%87%E8%8A%B1%E5%B8%96DS%E5%88%86%E5%80%BC%E6%80%BB%E8%AE%BA-4.jpg 2x" data-file-width="322" data-file-height="322">
   
 近摄加成。拍照瞬间距离BOSS一定距离以内可以获得Macro Bonus，下限500上限1000，离BOSS越近奖分越高。  
 
 但是对有些撞击判定大到离谱的BOSS（比如恋恋的护罩和巨大化的萃香）是基本不可能得到1000的满加成的。
   
 
-
 #### Position Bonus
-[](./文件-文花帖DS分值总论-5.jpg.md)
+<img alt="文花帖DS分值总论-5.jpg" src="https://upload.thwiki.cc/thumb/9/94/%E6%96%87%E8%8A%B1%E5%B8%96DS%E5%88%86%E5%80%BC%E6%80%BB%E8%AE%BA-5.jpg/200px-%E6%96%87%E8%8A%B1%E5%B8%96DS%E5%88%86%E5%80%BC%E6%80%BB%E8%AE%BA-5.jpg" decoding="async" loading="lazy" width="200" height="200" srcset="https://upload.thwiki.cc/thumb/9/94/%E6%96%87%E8%8A%B1%E5%B8%96DS%E5%88%86%E5%80%BC%E6%80%BB%E8%AE%BA-5.jpg/300px-%E6%96%87%E8%8A%B1%E5%B8%96DS%E5%88%86%E5%80%BC%E6%80%BB%E8%AE%BA-5.jpg 1.5x, https://upload.thwiki.cc/9/94/%E6%96%87%E8%8A%B1%E5%B8%96DS%E5%88%86%E5%80%BC%E6%80%BB%E8%AE%BA-5.jpg 2x" data-file-width="322" data-file-height="322">
   
 相对位置加成。如图，黑点为BOSS的摄影判定点，绿点为自机的判定点，各方位均予以标示。  
 
 以拍照时自机判定点所在区域为判定标准。Front（フロント） Shot+100，Side（サイド） Shot+200，Back（バック） Shot+300。
   
 
-
 #### Cat Bonus
-[](./文件-文花帖DS分值总论-6.jpg.md)
+<img alt="文花帖DS分值总论-6.jpg" src="https://upload.thwiki.cc/thumb/7/7b/%E6%96%87%E8%8A%B1%E5%B8%96DS%E5%88%86%E5%80%BC%E6%80%BB%E8%AE%BA-6.jpg/200px-%E6%96%87%E8%8A%B1%E5%B8%96DS%E5%88%86%E5%80%BC%E6%80%BB%E8%AE%BA-6.jpg" decoding="async" loading="lazy" width="200" height="201" srcset="https://upload.thwiki.cc/thumb/7/7b/%E6%96%87%E8%8A%B1%E5%B8%96DS%E5%88%86%E5%80%BC%E6%80%BB%E8%AE%BA-6.jpg/300px-%E6%96%87%E8%8A%B1%E5%B8%96DS%E5%88%86%E5%80%BC%E6%80%BB%E8%AE%BA-6.jpg 1.5x, https://upload.thwiki.cc/7/7b/%E6%96%87%E8%8A%B1%E5%B8%96DS%E5%88%86%E5%80%BC%E6%80%BB%E8%AE%BA-6.jpg 2x" data-file-width="321" data-file-height="322">
   
 照片中出现猫的时候取得，固定分值666分。
   
 
-
 #### Solo Shot
-[](./文件-文花帖DS分值总论-7.jpg.md)
+<img alt="文花帖DS分值总论-7.jpg" src="https://upload.thwiki.cc/thumb/2/20/%E6%96%87%E8%8A%B1%E5%B8%96DS%E5%88%86%E5%80%BC%E6%80%BB%E8%AE%BA-7.jpg/200px-%E6%96%87%E8%8A%B1%E5%B8%96DS%E5%88%86%E5%80%BC%E6%80%BB%E8%AE%BA-7.jpg" decoding="async" loading="lazy" width="200" height="201" srcset="https://upload.thwiki.cc/thumb/2/20/%E6%96%87%E8%8A%B1%E5%B8%96DS%E5%88%86%E5%80%BC%E6%80%BB%E8%AE%BA-7.jpg/300px-%E6%96%87%E8%8A%B1%E5%B8%96DS%E5%88%86%E5%80%BC%E6%80%BB%E8%AE%BA-7.jpg 1.5x, https://upload.thwiki.cc/2/20/%E6%96%87%E8%8A%B1%E5%B8%96DS%E5%88%86%E5%80%BC%E6%80%BB%E8%AE%BA-7.jpg 2x" data-file-width="321" data-file-height="322">
   
 单拍加成，当照片内只有人物没有子弹时取得，固定分值100分。
   
-
 
 ### 倍率部分
   
@@ -152,51 +129,47 @@
   
 
 #### Boss Shot
-[](./文件-文花帖DS分值总论-8.jpg.md)
+<img alt="文花帖DS分值总论-8.jpg" src="https://upload.thwiki.cc/thumb/8/8c/%E6%96%87%E8%8A%B1%E5%B8%96DS%E5%88%86%E5%80%BC%E6%80%BB%E8%AE%BA-8.jpg/200px-%E6%96%87%E8%8A%B1%E5%B8%96DS%E5%88%86%E5%80%BC%E6%80%BB%E8%AE%BA-8.jpg" decoding="async" loading="lazy" width="200" height="201" srcset="https://upload.thwiki.cc/thumb/8/8c/%E6%96%87%E8%8A%B1%E5%B8%96DS%E5%88%86%E5%80%BC%E6%80%BB%E8%AE%BA-8.jpg/300px-%E6%96%87%E8%8A%B1%E5%B8%96DS%E5%88%86%E5%80%BC%E6%80%BB%E8%AE%BA-8.jpg 1.5x, https://upload.thwiki.cc/8/8c/%E6%96%87%E8%8A%B1%E5%B8%96DS%E5%88%86%E5%80%BC%E6%80%BB%E8%AE%BA-8.jpg 2x" data-file-width="320" data-file-height="322">
   
-BOSS位置倍率。每张成功的照片必有的倍率，下限1.20上限2.00，取决于 **照片中，BOSS离照片中心的距离** 。BOSS在照片正中心时为2.00，离中心越远倍率越低。
+BOSS位置倍率。每张成功的照片必有的倍率，下限1.20上限2.00，取决于**照片中，BOSS离照片中心的距离**。BOSS在照片正中心时为2.00，离中心越远倍率越低。
   
-
 
 #### Two Shot
-[](./文件-文花帖DS分值总论-9.jpg.md)
+<img alt="文花帖DS分值总论-9.jpg" src="https://upload.thwiki.cc/thumb/9/9c/%E6%96%87%E8%8A%B1%E5%B8%96DS%E5%88%86%E5%80%BC%E6%80%BB%E8%AE%BA-9.jpg/200px-%E6%96%87%E8%8A%B1%E5%B8%96DS%E5%88%86%E5%80%BC%E6%80%BB%E8%AE%BA-9.jpg" decoding="async" loading="lazy" width="200" height="200" srcset="https://upload.thwiki.cc/thumb/9/9c/%E6%96%87%E8%8A%B1%E5%B8%96DS%E5%88%86%E5%80%BC%E6%80%BB%E8%AE%BA-9.jpg/300px-%E6%96%87%E8%8A%B1%E5%B8%96DS%E5%88%86%E5%80%BC%E6%80%BB%E8%AE%BA-9.jpg 1.5x, https://upload.thwiki.cc/9/9c/%E6%96%87%E8%8A%B1%E5%B8%96DS%E5%88%86%E5%80%BC%E6%80%BB%E8%AE%BA-9.jpg 2x" data-file-width="322" data-file-height="322">
   
 自拍加成。照片中同时出现BOSS和自机时取得。倍率固定为1.50。
   
 
-
 #### Nice Shot
-[](./文件-文花帖DS分值总论-10.jpg.md)
+<img alt="文花帖DS分值总论-10.jpg" src="https://upload.thwiki.cc/thumb/6/65/%E6%96%87%E8%8A%B1%E5%B8%96DS%E5%88%86%E5%80%BC%E6%80%BB%E8%AE%BA-10.jpg/200px-%E6%96%87%E8%8A%B1%E5%B8%96DS%E5%88%86%E5%80%BC%E6%80%BB%E8%AE%BA-10.jpg" decoding="async" loading="lazy" width="200" height="200" srcset="https://upload.thwiki.cc/thumb/6/65/%E6%96%87%E8%8A%B1%E5%B8%96DS%E5%88%86%E5%80%BC%E6%80%BB%E8%AE%BA-10.jpg/300px-%E6%96%87%E8%8A%B1%E5%B8%96DS%E5%88%86%E5%80%BC%E6%80%BB%E8%AE%BA-10.jpg 1.5x, https://upload.thwiki.cc/6/65/%E6%96%87%E8%8A%B1%E5%B8%96DS%E5%88%86%E5%80%BC%E6%80%BB%E8%AE%BA-10.jpg 2x" data-file-width="322" data-file-height="322">
   
 时机加成。当BOSS身周出现迅速收缩的一红一蓝两个圈（或红色魔法阵）时，拍照可以获得时机倍率加成，下限1.20上限1.50。拍照时拍到的圈越大，倍率越高。（图中圈的颜色不一定看得很清楚）
   
 
-
 #### Angle Bonus
-[](./文件-文花帖DS分值总论-11.jpg.md)
-[](./文件-文花帖DS分值总论-12.jpg.md)
+<img alt="文花帖DS分值总论-11.jpg" src="https://upload.thwiki.cc/thumb/8/83/%E6%96%87%E8%8A%B1%E5%B8%96DS%E5%88%86%E5%80%BC%E6%80%BB%E8%AE%BA-11.jpg/200px-%E6%96%87%E8%8A%B1%E5%B8%96DS%E5%88%86%E5%80%BC%E6%80%BB%E8%AE%BA-11.jpg" decoding="async" loading="lazy" width="200" height="200" srcset="https://upload.thwiki.cc/thumb/8/83/%E6%96%87%E8%8A%B1%E5%B8%96DS%E5%88%86%E5%80%BC%E6%80%BB%E8%AE%BA-11.jpg/300px-%E6%96%87%E8%8A%B1%E5%B8%96DS%E5%88%86%E5%80%BC%E6%80%BB%E8%AE%BA-11.jpg 1.5x, https://upload.thwiki.cc/8/83/%E6%96%87%E8%8A%B1%E5%B8%96DS%E5%88%86%E5%80%BC%E6%80%BB%E8%AE%BA-11.jpg 2x" data-file-width="322" data-file-height="322">
+<img alt="文花帖DS分值总论-12.jpg" src="https://upload.thwiki.cc/thumb/6/66/%E6%96%87%E8%8A%B1%E5%B8%96DS%E5%88%86%E5%80%BC%E6%80%BB%E8%AE%BA-12.jpg/200px-%E6%96%87%E8%8A%B1%E5%B8%96DS%E5%88%86%E5%80%BC%E6%80%BB%E8%AE%BA-12.jpg" decoding="async" loading="lazy" width="200" height="200" srcset="https://upload.thwiki.cc/thumb/6/66/%E6%96%87%E8%8A%B1%E5%B8%96DS%E5%88%86%E5%80%BC%E6%80%BB%E8%AE%BA-12.jpg/300px-%E6%96%87%E8%8A%B1%E5%B8%96DS%E5%88%86%E5%80%BC%E6%80%BB%E8%AE%BA-12.jpg 1.5x, https://upload.thwiki.cc/6/66/%E6%96%87%E8%8A%B1%E5%B8%96DS%E5%88%86%E5%80%BC%E6%80%BB%E8%AE%BA-12.jpg 2x" data-file-width="321" data-file-height="321">
   
 角度加成。每张成功的照片必有的倍率，范围视自机不同而定，文文下限1.00上限1.30，海棠下限1.00上限1.70。  
 
-倍率取决于 **自机与BOSS连线和相框的夹角，连线与相框长边所夹锐角越大，倍率越高** 。当连线与相框长边垂直时倍率达上限，而连线与相框短边垂直时倍率达下限。[^cite_note-2]
-  
-
+倍率取决于**自机与BOSS连线和相框的夹角，连线与相框长边所夹锐角越大，倍率越高**。当连线与相框长边垂直时倍率达上限，而连线与相框短边垂直时倍率达下限。[^cite_note-2]  
 
 #### Self Shot
   
 失败自拍加成。照片中出现自机但不出现BOSS时取得，固定倍率1.20，照片视为拍摄失败（也就是说这个加成没有任何实际意义）。
   
 
-
 ## 刷分要点
+
 ### 高分向
+
 #### 基础分
   
 首先，基础分的多少很大程度地取决于操术。下面列举几种特殊情况：  
 
-有些场景基础分的多少是完全拼人品的，这就只能多刷然后自求多福了。例如7-5 天符「焦土曼荼罗」 (未找到链接)，以羽立为自机，人品好坏导致的基础分差异竟达30%以上（人品好的时候20000+，差的时候只有14000多）！乘上倍率相差的分值就有6000*1.65*1.5*1.7=25245之多！在一张照片只有十万不到的场景里这种程度的差距确实非常致命。也只能怪老天不开眼了……推了重来吧= =。  
+有些场景基础分的多少是完全拼人品的，这就只能多刷然后自求多福了。例如7-5 [天符「焦土曼荼罗」](./焦土曼荼罗.md)，以羽立为自机，人品好坏导致的基础分差异竟达30%以上（人品好的时候20000+，差的时候只有14000多）！乘上倍率相差的分值就有6000*1.65*1.5*1.7=25245之多！在一张照片只有十万不到的场景里这种程度的差距确实非常致命。也只能怪老天不开眼了……推了重来吧= =。  
 
-另外还有些场景，只要操术固定分值浮动就不会很大。这种场景想有大的突破就只能去寻求更先进的打法和走位了。（例如EX-9 妖怪降伏「妖力掠夺者」 (未找到链接)）  
+另外还有些场景，只要操术固定分值浮动就不会很大。这种场景想有大的突破就只能去寻求更先进的打法和走位了。（例如EX-9 [妖怪降伏「妖力掠夺者」](./妖力掠夺者.md)）  
 
 还有一种常见的情况：BOSS的每一波攻击都在屏幕上留下大量的固定弹幕或是慢速弹。这样就可以在屏幕上累积几次弹幕然后一举消掉获得更高的基础分。这种方法俗称“堆子弹”，但是子弹变多相应的穿弹风险也会加大，堆子弹的时候要注意分寸，否则就是引火上身了。
   
@@ -215,7 +188,6 @@ BOSS位置倍率。每张成功的照片必有的倍率，下限1.20上限2.00�
   
 基本上只要和BOSS保持稍近的距离（不要太近），按下快门就是2.00的Boss Shot。但是有些场景BOSS会用弹幕逼住自机不让近身，这时就需要稍微拉近镜头来增加Boss Shot的倍率。
   
-
 技巧1.关于相框及其拉近和拉远
 : ①由于文文的高速移动会导致相框的转动，风舞在此强力推荐此种拉近方法：先按下快门，等0.1-0.2秒再开始移动相框。否则，如果同时按下快门和方向键，方向键早0.1秒被按下的话就会导致相框的浮动而小幅度地影响Angle Bonus（幅度大概在0.03-0.05），如果分值基数很大的话也会有不小的损失。  
 ②羽立的低速固定横切相框离自机距离不近，如果就这么在松开低速键的瞬间按快门的话，血的事实告诉我们，那1.50的自拍你就别想拿了。推荐的方法是预先找到暂时的安定点果断松开低速键（要分不要命啊= =！），等到要拍照的时候相框应该也调整好了。不影响自拍加成。或者也可以回拉相框，但是这种方法不保证能100%拿到自拍加成就是了。  
@@ -225,7 +197,7 @@ BOSS位置倍率。每张成功的照片必有的倍率，下限1.20上限2.00�
   
 BOSS出圈消失得很快，如果看到出圈再按快门那你基本就已经错过这次出圈了。所以对于抓Nice Shot的工作，背版是必不可少的，另外推荐记忆每次出圈的时间，对抓时机很有帮助。  
 
-意外的是少数场景中BOSS出圈缩小得很慢。这种情况就基本不用担心抓不到Nice Shot了。具体列表如下：1-5 枯道「Lost Windrow」 (未找到链接)；7-5 天符「焦土曼荼罗」 (未找到链接)；EX-4 结界「狗仔队击退结界」 (未找到链接)；EX-7 梦符「梦想亚空穴」 (未找到链接)。
+意外的是少数场景中BOSS出圈缩小得很慢。这种情况就基本不用担心抓不到Nice Shot了。具体列表如下：1-5 [枯道「Lost Windrow」](./Lost_Windrow.md)；7-5 [天符「焦土曼荼罗」](./焦土曼荼罗.md)；EX-4 [结界「狗仔队击退结界」](./狗仔队击退结界.md)；EX-7 [梦符「梦想亚空穴」](./梦想亚空穴.md)。
   
 
 #### 零头（基础部分的小小加成）
@@ -243,14 +215,12 @@ BOSS出圈消失得很快，如果看到出圈再按快门那你基本就已经�
 : 果断无视，这是对阿燐的种族歧视~
 单拍加成
 : 这种垃圾加成会有人要么？
-
   
 于是来计算一下：可以控制的基本只有近摄、风险和位置，那么基础分最多能多出3200，乘上倍率（文文）2.00*1.50*1.50*1.30总共能差上18720分，而羽立的话则有24480分的差距。这些虽然本身不算多少，但是在顶尖的竞争中这两万分往往可以决定胜负（不信的话去看我的世界纪录相册，比原纪录也就高出那么两三万）。
   
-
 技巧2.关于分值与倍率的矛盾与取舍
-: ①基础分与时机加成：因为在Nice Shot圈变小的过程中BOSS仍然是有往外发弹的，所以推迟拍摄的话基础分会有提高，如何取舍就成了问题所在。假设弹幕流量均匀，可以列出二次函数模型来求解。但是谁也不会痴到费死劲去搜集数据再设计出个模型算出来，结果那个时间点自己都抓不精确。所以说这对矛盾还是多实战总结经验来解决吧。例如7-3 寅符「Hungry Tiger」 (未找到链接)就是等圈将消未消时拍照，而10-5 要石「要石浮游炮」 (未找到链接)大概Nice Shot=1.43时是最佳拍摄时机（这都是风舞经过多次重复试验研究出来的……）。另外，有些场景中BOSS出圈时，由于基础分太低不是最佳拍摄时机，要等BOSS大量发弹时再拍摄（1-6和7-5等场景）。  
-②Boss Shot和自拍加成：为了0.10-0.20的Boss Shot放弃自拍，这显然是不明智的。在其他条件相同的情况下Boss Shot和自拍加成乘起来一般都会超过2.00，所以在不改变其他条件的情况下牺牲自拍来抢Boss Shot会带来不必要的分数损失。但是有一个例外：8-2 熔解「Melting White」 (未找到链接)，牺牲自拍，望远拍摄时不仅能增加Boss Shot，拍到的核弹数目也是加倍。这样算来这个自拍牺牲得很值了。不过仅此一符。  
+: ①基础分与时机加成：因为在Nice Shot圈变小的过程中BOSS仍然是有往外发弹的，所以推迟拍摄的话基础分会有提高，如何取舍就成了问题所在。假设弹幕流量均匀，可以列出二次函数模型来求解。但是谁也不会痴到费死劲去搜集数据再设计出个模型算出来，结果那个时间点自己都抓不精确。所以说这对矛盾还是多实战总结经验来解决吧。例如7-3 [寅符「Hungry Tiger」](./Hungry_Tiger.md)就是等圈将消未消时拍照，而10-5 [要石「要石浮游炮」](./要石浮游炮.md)大概Nice Shot=1.43时是最佳拍摄时机（这都是风舞经过多次重复试验研究出来的……）。另外，有些场景中BOSS出圈时，由于基础分太低不是最佳拍摄时机，要等BOSS大量发弹时再拍摄（1-6和7-5等场景）。  
+②Boss Shot和自拍加成：为了0.10-0.20的Boss Shot放弃自拍，这显然是不明智的。在其他条件相同的情况下Boss Shot和自拍加成乘起来一般都会超过2.00，所以在不改变其他条件的情况下牺牲自拍来抢Boss Shot会带来不必要的分数损失。但是有一个例外：8-2 [熔解「Melting White」](./Melting_White.md)，牺牲自拍，望远拍摄时不仅能增加Boss Shot，拍到的核弹数目也是加倍。这样算来这个自拍牺牲得很值了。不过仅此一符。  
 ③近摄加成和Boss Shot：技术上允许的话，请运用回拉相框的技法将两项都保住。如果不能进行回拉相框的操作，则要视基础分多少来取舍。基础分较多的话牺牲近摄取倍率，较少则牺牲倍率取近摄。
 
 ### 低分向
@@ -276,25 +246,24 @@ BOSS出圈消失得很快，如果看到出圈再按快门那你基本就已经�
 : 纵向相框时一定会有1.50的自拍加成，横向相框时一定会有1.70的角度加成。另外纵向相框的Boss Shot比横向相框低很多，所以实战时应选用纵向相框进行拍摄，并且Boss Shot要尽量控制在1.20-1.30。
 
 ## 小捏他
+
 ### 关于环形弹幕
-[](./文件-文花帖DS分值总论-13.jpg.md)
-[](./文件-文花帖DS分值总论-14.jpg.md)
+<img alt="文花帖DS分值总论-13.jpg" src="https://upload.thwiki.cc/thumb/2/28/%E6%96%87%E8%8A%B1%E5%B8%96DS%E5%88%86%E5%80%BC%E6%80%BB%E8%AE%BA-13.jpg/200px-%E6%96%87%E8%8A%B1%E5%B8%96DS%E5%88%86%E5%80%BC%E6%80%BB%E8%AE%BA-13.jpg" decoding="async" loading="lazy" width="200" height="150" srcset="https://upload.thwiki.cc/thumb/2/28/%E6%96%87%E8%8A%B1%E5%B8%96DS%E5%88%86%E5%80%BC%E6%80%BB%E8%AE%BA-13.jpg/300px-%E6%96%87%E8%8A%B1%E5%B8%96DS%E5%88%86%E5%80%BC%E6%80%BB%E8%AE%BA-13.jpg 1.5x, https://upload.thwiki.cc/thumb/2/28/%E6%96%87%E8%8A%B1%E5%B8%96DS%E5%88%86%E5%80%BC%E6%80%BB%E8%AE%BA-13.jpg/400px-%E6%96%87%E8%8A%B1%E5%B8%96DS%E5%88%86%E5%80%BC%E6%80%BB%E8%AE%BA-13.jpg 2x" data-file-width="580" data-file-height="435">
+<img alt="文花帖DS分值总论-14.jpg" src="https://upload.thwiki.cc/thumb/7/7b/%E6%96%87%E8%8A%B1%E5%B8%96DS%E5%88%86%E5%80%BC%E6%80%BB%E8%AE%BA-14.jpg/200px-%E6%96%87%E8%8A%B1%E5%B8%96DS%E5%88%86%E5%80%BC%E6%80%BB%E8%AE%BA-14.jpg" decoding="async" loading="lazy" width="200" height="150" srcset="https://upload.thwiki.cc/thumb/7/7b/%E6%96%87%E8%8A%B1%E5%B8%96DS%E5%88%86%E5%80%BC%E6%80%BB%E8%AE%BA-14.jpg/300px-%E6%96%87%E8%8A%B1%E5%B8%96DS%E5%88%86%E5%80%BC%E6%80%BB%E8%AE%BA-14.jpg 1.5x, https://upload.thwiki.cc/thumb/7/7b/%E6%96%87%E8%8A%B1%E5%B8%96DS%E5%88%86%E5%80%BC%E6%80%BB%E8%AE%BA-14.jpg/400px-%E6%96%87%E8%8A%B1%E5%B8%96DS%E5%88%86%E5%80%BC%E6%80%BB%E8%AE%BA-14.jpg 2x" data-file-width="580" data-file-height="435">
   
 环形弹幕有两种发射方式，首先都是在距离BOSS一定距离处排好，然后第一种是直接扩散（上图），第二种是向内收缩并反向扩散（下图）。  
 
 对于第一种，如果BOSS撞击判定不大的情况下可以考虑中避。第二种环弹发出时有一个反向收缩，可以利用这段时间擦全一圈弹幕获得最高的风险加成。另外第二种环形弹幕刚发出时拍照消弹获得的基础分会有较大幅度的加成，高分党不要错过机会了。
   
 
-
 ### 关于BOSS的出圈规律
   
 大多数场景中BOSS都是在固定时机出圈的。但是有两种例外：第一种是全程不出圈，第二种是当自机离BOSS一定距离以内时出圈（这个“一定距离”等于BOSS周围红色魔法阵的最小半径）。
   
-
 全程不出圈的场景
-: 包括：9-7 回忆「朦胧记忆中的金阁寺」 (未找到链接)，9-8 「蔷薇地狱」 (未找到链接)，10-4 珠符「五爪龙之珠」 (未找到链接)，10-7 「全人类的绯想天」 (未找到链接)，11-3 蛇符「Ground Serpent」 (未找到链接)，11-4 姬川「Princess Jade Green」 (未找到链接)，EX-9 妖怪降伏「妖力掠夺者」 (未找到链接)。
+: 包括：9-7 [回忆「朦胧记忆中的金阁寺」](./金阁寺的整块天花板.md)，9-8 [「蔷薇地狱」](./Subterranean_Rose.md)，10-4 [珠符「五爪龙之珠」](./五爪龙之珠.md)，10-7 [「全人类的绯想天」](./全人类的绯想天.md)，11-3 [蛇符「Ground Serpent」](./Ground_Serpent.md)，11-4 [姬川「Princess Jade Green」](./厌川的翡翠.md)，EX-9 [妖怪降伏「妖力掠夺者」](./妖力掠夺者.md)。
 自机离BOSS一定距离以内时出圈的场景
-: 包括：3-4 细索「犍陀多绳索」 (未找到链接)，11-5 御柱「Meteoric Onbashira」 (未找到链接)，11-7 儚道「御神渡路口」 (未找到链接)，12-8 「自行星而来的弹幕X」 (未找到链接)，EX-2 星符「Oort Cloud」 (未找到链接)，EX-5 天仪「Orrery's Solar System」 (未找到链接)。
+: 包括：3-4 [细索「犍陀多绳索」](./犍陀多绳索.md)，11-5 [御柱「Meteoric Onbashira」](./Expanded_Onbashira.md)，11-7 [儚道「御神渡路口」](./神所踏足之御神渡.md)，12-8 [「自行星而来的弹幕X」](./自行星而来的弹幕X.md)，EX-2 [星符「Oort Cloud」](./Oort_Cloud.md)，EX-5 [天仪「Orrery's Solar System」](./Orrery's_Sun.md)。
 
 ## 原作信息
   
@@ -304,16 +273,9 @@ BOSS出圈消失得很快，如果看到出圈再按快门那你基本就已经�
 
 搬运时有删改。
   
-
-
 [^cite_note-1]: 经重复试验临界值大约是(Lv+2)*1000，不过也有一面红色弹3800多分而不出现Red Shot的例外，具体机理仍然不明，另外EX临界值为12000左右，SP为20000左右。
-
-  
-  
-
-
-
-
+[^cite_note-2]: 
+横镜时角度加成较高，竖镜时Two Shot较容易，实战中需要适当取舍。
 
 ---
 

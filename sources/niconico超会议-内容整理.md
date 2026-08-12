@@ -1,8 +1,9 @@
 # niconico超会议/内容整理
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\a\ab\ns0%3Aniconico%E8%B6%85%E4%BC%9A%E8%AE%AE%2F%E5%86%85%E5%AE%B9%E6%95%B4%E7%90%86.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\a\ab\ns0%3Aniconico%E8%B6%85%E4%BC%9A%E8%AE%AE%2F%E5%86%85%E5%AE%B9%E6%95%B4%E7%90%86.html -->
 
 ZUN | niconico超会议
+
 
 - 本文为部分niconico超会议的内容整理。
 - 本文为概括转述，并非完整记录。
@@ -21,76 +22,32 @@ ZUN | niconico超会议
 - [9 注释](#注释)
 
 
-
-
-
 ## 2012/04/27 niconico超会议2012 试饮会
   
 参加者除了ZUN以外还有[西村博之](./西村博之.md)，[Beat Mario](./ビートまりお.md)，是空 (未找到链接)[^cite_note-1]，[伴龙一郎](./伴龙一郎.md)[^cite_note-2]，网友感慨:“ZUN和nico走的是越来越近了”
   
   
-[](./文件-超会议试饮会.png.md)
+<img alt="超会议试饮会.png" src="https://upload.thwiki.cc/b/b7/%E8%B6%85%E4%BC%9A%E8%AE%AE%E8%AF%95%E9%A5%AE%E4%BC%9A.png" decoding="async" loading="lazy" width="459" height="287" data-file-width="459" data-file-height="287">
   
-  
-  
-
-  
-
 ZUN
 : 商业精神还是不要太强的好。
 伴
 : 挺有创作者的感觉么。
-
-  
-  
- 
-  
-
 ZUN
 : 未成年人不会要这么色的杯垫的w
-
   
-[](./文件-超蜜柑麦酒赠品杯垫.png.md)
+<img alt="超蜜柑麦酒赠品杯垫.png" src="https://upload.thwiki.cc/3/37/%E8%B6%85%E8%9C%9C%E6%9F%91%E9%BA%A6%E9%85%92%E8%B5%A0%E5%93%81%E6%9D%AF%E5%9E%AB.png" decoding="async" loading="lazy" width="200" height="224" data-file-width="200" data-file-height="224">
   
-  
-  
- 
-  
-
 ZUN（超会议有一个活动是贩卖badapple派）
 : 腐臭的意思吧？这曲子本来就是按腐烂的苹果来命名的。
-
-  
-  
-
-  
-
 ZUN
 : 非想天则是不能在街机玩的游戏。《东天骚》是黄昏想的大会名，我是后来才知道的。
-
-  
-  
-
-  
-
 Mario
 : 明后天聚会我母亲也会来。
-
-  
-  
-
-  
-
 伴
 : 在看这个的多半是东方众吧。
 ZUN
 : 伴桑你这个想法就太狭隘了！不是东方众的也在看哦，我倒是希望喜欢东方的人来comic1。
-
-  
-  
-
-  
-
 是空
 : 和Baird[^cite_note-3]交涉的时候博之喝得醉醺醺的，太糟糕了。
 伴
@@ -99,9 +56,8 @@ ZUN
 : 那是我崇拜的人啊。
 是空
 : 跟Mario桑第一次和ZUN桑见面感觉差不多呢。
-
   
-[](./文件-猫耳zun&猫耳西村.png.md)
+<img alt="猫耳zun&amp;猫耳西村.png" src="https://upload.thwiki.cc/5/52/%E7%8C%AB%E8%80%B3zun%26%E7%8C%AB%E8%80%B3%E8%A5%BF%E6%9D%91.png" decoding="async" loading="lazy" width="458" height="271" data-file-width="458" data-file-height="271">
   
   
   
@@ -114,108 +70,58 @@ ZUN
 西村博之惊呼：“ZUN桑原来有在工作啊！”并大声朗读。
   
   
-[](./文件-超会议试饮会_西村读口授.png.md)
+<img alt="超会议试饮会 西村读口授.png" src="https://upload.thwiki.cc/f/f1/%E8%B6%85%E4%BC%9A%E8%AE%AE%E8%AF%95%E9%A5%AE%E4%BC%9A_%E8%A5%BF%E6%9D%91%E8%AF%BB%E5%8F%A3%E6%8E%88.png" decoding="async" loading="lazy" width="459" height="306" data-file-width="459" data-file-height="306">
   
   
   
 
 ZUN回来，看着书感慨一句:“我还没这书诶。”
   
-  
-  
-
-  
-
 ZUN（对博之）
 : 这玩意儿不喜欢东方的人没有读的必要w
-
-  
-  
-
-  
-
 ZUN
 : 其实我并不怎么想卖这种东西w
-
-  
-  
-
-  
-
 Mario
 : 东方是不是稍微变一点比较好？
 ZUN
 : 应该变一点比较好吧，作品不变，结果变了。
-
-  
-  
-
-  
-
 Mario
 : 我们来说说结婚吧
 ZUN
 : 生活跟我想象的一样，两个人可以干各种各样的事。
-
-  
-  
-
-  
-
 Mario
 : 我想受女生欢迎。
 ZUN
 : 想靠音乐活动而受女生欢迎这个想法就是行不通的。也可以受男生欢迎啊，曲子要做得别人喜欢。很多搞音乐的没有意识到这一点。
-
   
   
 
 西村博之走了，字幕：“博之不在，这节目就好多了。”
   
-  
-  
-
-  
-
 Mario
 : 人生等于同人。
 ZUN
 : 的确如此。
-
 ZUN
 : 音乐是给人感性的，可以立刻表现想法。
-
-  
-  
-
-  
-
 ZUN
 : 就算到头来结果不好，过程才是最重要的。
-
-  
-  
-
-  
-
 ZUN
 : 要不是啤酒我也不会来这种活动了呢w这个放送是明天去不成的人来说“活该”的节目。
 
-
 ## 2012/04/28~29 niconico超会议2012
   
-[](./文件-超会议2012_1.png.md)
+<img alt="超会议2012 1.png" src="https://upload.thwiki.cc/9/93/%E8%B6%85%E4%BC%9A%E8%AE%AE2012_1.png" decoding="async" loading="lazy" width="600" height="448" data-file-width="600" data-file-height="448">
   
   
-[](./文件-超会议2012_2.png.md)
+<img alt="超会议2012 2.png" src="https://upload.thwiki.cc/8/88/%E8%B6%85%E4%BC%9A%E8%AE%AE2012_2.png" decoding="async" loading="lazy" width="600" height="448" data-file-width="600" data-file-height="448">
   
   
-[](./文件-超会议2012_3.png.md)
+<img alt="超会议2012 3.png" src="https://upload.thwiki.cc/8/81/%E8%B6%85%E4%BC%9A%E8%AE%AE2012_3.png" decoding="async" loading="lazy" width="600" height="448" data-file-width="600" data-file-height="448">
   
   
-[](./文件-超会议2012_4.png.md)
+<img alt="超会议2012 4.png" src="https://upload.thwiki.cc/a/a0/%E8%B6%85%E4%BC%9A%E8%AE%AE2012_4.png" decoding="async" loading="lazy" width="600" height="448" data-file-width="600" data-file-height="448">
   
-
 
 ## 2013/04/27~28 niconico超会议2
   
@@ -223,159 +129,91 @@ ZUN
 西村博之在地铁走错出口所以兜了点路所以迟到了。
   
   
-[](./文件-超会议2_1.png.md)
+<img alt="超会议2 1.png" src="https://upload.thwiki.cc/7/7f/%E8%B6%85%E4%BC%9A%E8%AE%AE2_1.png" decoding="async" loading="lazy" width="480" height="319" data-file-width="480" data-file-height="319">
   
-
 博之
 : 去了其他公司但是听说DWANGO桑[^cite_note-4]做啤酒所以来帮忙了。
-
-  
-  
-
-  
-
 ZUN
 : 上次以为只有不喝啤酒的人才回来但是有很多喜欢啤酒的人都来了。所以弄了个很有啤酒味的重量级4啤酒。
-
   
   
 
 评论超不夜城red。
   
-
 ZUN
 : 啤酒花很强，酒精度有7%也偏高，没放柑橘。直爽型的随处可见的啤酒。
 博之
 : 很刺激的口味，普通的居酒屋绝对喝不到的味道。
-
   
-[](./文件-超会议2_2.png.md)
+<img alt="超会议2 2.png" src="https://upload.thwiki.cc/a/a6/%E8%B6%85%E4%BC%9A%E8%AE%AE2_2.png" decoding="async" loading="lazy" width="480" height="319" data-file-width="480" data-file-height="319">
   
-  
-  
-
-  
-
 ZUN
 : 想像Microbrewery一样放地名进去[^cite_note-5]结果原来的名字叫“超幻想乡red”，但是生放送前又改成“不夜城red”了。
-
   
   
 
 西村博之的“超黑博之”来源是伴龙一郎随口说的，“那就叫黑博之吧” 西村博之笑着说“取这种名字我真的进监狱了怎么办”，但最终还是就将就的叫黑博之了。
   
-  
-  
-
-  
-
 ZUN
 : 为了让妻子也能玩东方的游戏所以追加了更简单的难易度。
-
   
-[](./文件-超会议2_3.png.md)
+<img alt="超会议2 3.png" src="https://upload.thwiki.cc/f/fa/%E8%B6%85%E4%BC%9A%E8%AE%AE2_3.png" decoding="async" loading="lazy" width="480" height="319" data-file-width="480" data-file-height="319">
   
-
 
 ## 2014/02/17 niconico超会议3 试饮会
   
-说到以西村博之命名的啤酒 **超白博之** 。
+说到以西村博之命名的啤酒**超白博之**。
   
-
 ZUN
 : 可以在博之背上画个天使的翅膀。
-
-  
-  
-
-  
-
 ZUN
 : 博丽神社都要有11回了，真是白痴一样。（夸奖的语气）
 主办方
 : ZUN先生说什么呢w
-
-  
-  
-
-  
-
 岸田梅尔
 : 虽然我没画过（东方的）画，但我一直有在玩游戏。
 ZUN
 : 谢谢你啊，玩那种屎游戏。
-
-  
-  
-
-  
-
 有人问ZUN
 : 你为什么那么钟情于灯笼裤？是你的癖好吧？
 ZUN
 : 因为我不想弄得太工口。因为我不会画别的。因为便于发挥。
-
-  
-  
-
-  
-
 伴龙一郎
 : 新作你真的在做了吗？
 ZUN
 : ……还乱七八糟的。我们不说这个了好不好。
-
-  
-  
-
-  
-
 ZUN
 : 大丈夫、ぎりぎり伸ばせます。
-
-  
-  
-
-  
-
 ZUN
 : 如果游戏没完成、都得赖超会议。
 
-
 ## 2014/04/26~27 niconico超会议3
   
-[](./文件-超会议3_1.png.md)
+<img alt="超会议3 1.png" src="https://upload.thwiki.cc/1/18/%E8%B6%85%E4%BC%9A%E8%AE%AE3_1.png" decoding="async" loading="lazy" width="444" height="334" data-file-width="444" data-file-height="334">
   
   
-[](./文件-超会议3_4.png.md)
+<img alt="超会议3 4.png" src="https://upload.thwiki.cc/b/bb/%E8%B6%85%E4%BC%9A%E8%AE%AE3_4.png" decoding="async" loading="lazy" width="444" height="334" data-file-width="444" data-file-height="334">
   
   
-[](./文件-超会议3_2.png.md)
+<img alt="超会议3 2.png" src="https://upload.thwiki.cc/2/27/%E8%B6%85%E4%BC%9A%E8%AE%AE3_2.png" decoding="async" loading="lazy" width="444" height="785" data-file-width="444" data-file-height="785">
   
   
-[](./文件-超会议3_3.png.md)
+<img alt="超会议3 3.png" src="https://upload.thwiki.cc/8/85/%E8%B6%85%E4%BC%9A%E8%AE%AE3_3.png" decoding="async" loading="lazy" width="444" height="590" data-file-width="444" data-file-height="590">
   
   
   
 
 中间的女性是Mario的母亲。
   
-  
-  
-
-  
-
 例大祭运营
 : 最近东方界是不是对新人更友好了？
 ZUN
 : 东方的世界变好了。不说是谁，那些麻烦的人都已经出去了。
 
-
 ## 2015/03/19 niconico超会议2015 试饮会
   
 关于TPP。
   
-
 ZUN
 : 比方说，进行了东方二次创作的人抱怨说被警察控告了，那么我可能就会去控告警察。
 博之
@@ -395,21 +233,19 @@ ZUN
 ZUN
 : 用送我东西来作为报偿吧。
 
-
 ## 2015/04/25~26 niconico超会议2015
 いすぃ
 : 键山雏有朋友吗？
 ZUN
 : 有（叫键山雏的）那种角色的吗？[^cite_note-6]
 
-
 ## 2016/04/29~30 niconico超会议2016
-
 [^cite_note-1]: AXIA公司员工，AXIA公司是生产周边产品的公司，也有东方相关产品，参加此次超会议。
-
-
-
-
+[^cite_note-2]: DWANGO公司,经营并开发niconico动画网站。
+[^cite_note-3]: 酿造ZUN Beer的作坊，Baird也是老板的名字。
+[^cite_note-4]: nico是DWANGO子公司NIWANGO的网站，西村博之原来是NIWANGO的董事长，在2月份辞职。
+[^cite_note-5]: 日文里microbrewery是“地ビール”，直译为地啤酒。
+[^cite_note-6]: 鉴于口授里有“关于她(键山雏)的忌讳之事有「即使看到了也当做没看到」「不跟她走同一条道」「说话时不主动展开话题」等等”这样的内容，这里ZUN可能是在玩梗。
 
 ---
 

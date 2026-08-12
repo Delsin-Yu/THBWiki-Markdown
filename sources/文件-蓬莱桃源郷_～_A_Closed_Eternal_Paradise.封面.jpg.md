@@ -1,6 +1,6 @@
 # 文件:蓬莱桃源郷_～_A_Closed_Eternal_Paradise.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3b\ns6%3A%E8%93%AC%E8%8E%B1%E6%A1%83%E6%BA%90%E9%83%B7_%EF%BD%9E_A_Closed_Eternal_Paradise%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3b\ns6%3A%E8%93%AC%E8%8E%B1%E6%A1%83%E6%BA%90%E9%83%B7_%EF%BD%9E_A_Closed_Eternal_Paradise%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 カタルシス少年戯樂団 | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [蓬莱桃源郷 ～ A Closed Eternal Paradise.](./蓬莱桃源郷_～_A_Closed_Eternal_Paradise..md)  
-该封面包含的角色：- 原创角色 (未找到链接)
-
-
-
+- [蓬莱桃源郷 ～ A Closed Eternal Paradise.](./蓬莱桃源郷_～_A_Closed_Eternal_Paradise..md)该封面包含的角色：
+- 原创角色 (未找到链接)
 
 
 ---

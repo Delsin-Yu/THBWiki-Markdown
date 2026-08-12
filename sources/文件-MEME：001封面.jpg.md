@@ -1,6 +1,6 @@
 # 文件:MEME：001封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\42\ns6%3AMEME%EF%BC%9A001%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\42\ns6%3AMEME%EF%BC%9A001%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 STUDIO"WICCA" | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ STUDIO"WICCA" | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [MEME：001](./MEME：001.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [MEME：001](./MEME：001.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

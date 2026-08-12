@@ -1,13 +1,8 @@
 # 弹幕天邪鬼/Gold_Rush/其他
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\64\ns0%3A%E5%BC%B9%E5%B9%95%E5%A4%A9%E9%82%AA%E9%AC%BC%2FGold_Rush%2F%E5%85%B6%E4%BB%96.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\64\ns0%3A%E5%BC%B9%E5%B9%95%E5%A4%A9%E9%82%AA%E9%AC%BC%2FGold_Rush%2F%E5%85%B6%E4%BB%96.html -->
 
 使用了翻译表的页面 | 弹幕天邪鬼
-
-  
-  
-
-  
 
 
 ## 目录
@@ -16,9 +11,6 @@
 - [2 场景标题](#场景标题)
 - [3 结算界面文字](#结算界面文字)
 - [4 注释](#注释)
-
-
-
 
 
 ## 游戏内音乐
@@ -36,11 +28,9 @@
 </td></tr></tbody></table>
 
 
-
 ## 场景标题
 
-<table><tbody><tr class="tt-content" id="场景标题-1" data-pos="&#91;&quot;\u573a\u666f\u6807\u9898&quot;,1&#93;"><td class="tt-ja" lang="ja"><div class="poem">シーンEX 異次元の金融緩和</div></td><td class="tt-zh" lang="zh"><div class="poem">场景ＥＸ 异次元的金融缓和<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">1</a></sup></div></td></tr><tr class="tt-content" id="场景标题-2" data-pos="&#91;&quot;\u573a\u666f\u6807\u9898&quot;,2&#93;"><td class="tt-ja" lang="ja"><div class="poem">守矢神社</div></td><td class="tt-zh" lang="zh"><div class="poem">守矢神社</div></td></tr></tbody></table>
-
+<table><tbody><tr class="tt-content" id="场景标题-1" data-pos="&#91;&quot;\u573a\u666f\u6807\u9898&quot;,1&#93;"><td class="tt-ja" lang="ja"><div class="poem">シーンEX 異次元の金融緩和</div></td><td class="tt-zh" lang="zh"><div class="poem">场景ＥＸ 异次元的金融缓和<span>[^cite_note-1]</span></div></td></tr><tr class="tt-content" id="场景标题-2" data-pos="&#91;&quot;\u573a\u666f\u6807\u9898&quot;,2&#93;"><td class="tt-ja" lang="ja"><div class="poem">守矢神社</div></td><td class="tt-zh" lang="zh"><div class="poem">守矢神社</div></td></tr></tbody></table>
 
 
 ## 结算界面文字
@@ -64,18 +54,7 @@
 <td>ただいまの順位
 </td></tr></tbody></table>
 
-
-
 [^cite_note-1]: [金融缓和](https://zh.wikipedia.org/wiki/量化宽松)日语指宽松的货币政策，具体表现为增发货币以纾缓市场的资金压力。
-
-  
-  
-
-  
-
-
-
-
 
 ---
 

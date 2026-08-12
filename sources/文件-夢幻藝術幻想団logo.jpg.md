@@ -1,18 +1,13 @@
 # 文件:夢幻藝術幻想団logo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e5\ns6%3A%E5%A4%A2%E5%B9%BB%E8%97%9D%E8%A1%93%E5%B9%BB%E6%83%B3%E5%9B%A3logo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e5\ns6%3A%E5%A4%A2%E5%B9%BB%E8%97%9D%E8%A1%93%E5%B9%BB%E6%83%B3%E5%9B%A3logo%2Ejpg.html -->
 
 夢幻藝術幻想団 | 社团LOGO
 
 
 ## 摘要
   
-源地址：[direct image link](https://blog-imgs-49-origin.fc2.com/m/u/g/mugenhome/20110729180127daa.jpg), [source page](http://mugenhome.blog.fc2.com/)
-  
-
-
-
-
+源地址：[direct image link](https://blog-imgs-49-origin.fc2.com/m/u/g/mugenhome/20110729180127daa.jpg), [source page](http://mugenhome.blog.fc2.com/)  
 
 ---
 

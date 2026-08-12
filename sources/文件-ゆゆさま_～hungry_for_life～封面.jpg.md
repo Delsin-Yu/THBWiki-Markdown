@@ -1,6 +1,6 @@
 # 文件:ゆゆさま_～hungry_for_life～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\17\ns6%3A%E3%82%86%E3%82%86%E3%81%95%E3%81%BE_%EF%BD%9Ehungry_for_life%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\17\ns6%3A%E3%82%86%E3%82%86%E3%81%95%E3%81%BE_%EF%BD%9Ehungry_for_life%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 スレイプニル | 专辑封面 | 封面图片
 
@@ -10,16 +10,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [ゆゆさま ～hungry for life～](./ゆゆさま_～hungry_for_life～.md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)- [西行寺幽幽子](./西行寺幽幽子.md)
+- [ゆゆさま ～hungry for life～](./ゆゆさま_～hungry_for_life～.md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
+- [西行寺幽幽子](./西行寺幽幽子.md)
 
   
-源地址：[suruga-ya](https://www.suruga-ya.jp/product/detail/186115836)
-  
-
-
-
-
+源地址：[suruga-ya](https://www.suruga-ya.jp/product/detail/186115836)  
 
 ---
 

@@ -1,16 +1,12 @@
 # 模板:LOD
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\3\3b\ns10%3ALOD.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\3\3b\ns10%3ALOD.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

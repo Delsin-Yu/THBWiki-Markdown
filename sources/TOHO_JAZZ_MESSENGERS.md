@@ -1,11 +1,10 @@
 # TOHO_JAZZ_MESSENGERS
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\8\81\ns0%3ATOHO_JAZZ_MESSENGERS.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\8\81\ns0%3ATOHO_JAZZ_MESSENGERS.html -->
 
 TOHO JAZZ MESSENGERS ，于 2010 年成立，主要制作 同人音乐 的日本同人社团，当前状态为 休止
 
-本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
-
+本页是关于**[同人社团](./二次创作.md#同人社团)**的词条
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -16,47 +15,35 @@ TOHO JAZZ MESSENGERS ，于 2010 年成立，主要制作 同人音乐 的日本
 - [6 其他信息](#其他信息)
 
 
-
-
-
 ## 社团信息
-[](./文件-TOHO_JAZZ_MESSENGERS_banner.jpg.md)  [](./文件-TOHO_JAZZ_MESSENGERS_banner.jpg.md)Banner
-
+<img alt="" src="https://upload.thwiki.cc/1/1c/TOHO_JAZZ_MESSENGERS_banner.jpg" decoding="async" loading="lazy" width="200" height="40" class="thumbimage" data-file-width="200" data-file-height="40">
+ [放大](./文件-TOHO_JAZZ_MESSENGERS_banner.jpg.md)Banner
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> TOHO JAZZ MESSENGERS </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2010</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://tjm.go-th.net/">http://tjm.go-th.net/</a> </td></tr></tbody></table>
 
 TOHO JAZZ MESSENGERS（同人社团，同人音乐社团） - TOHO JAZZ MESSENGERS ，于 2010 年成立，主要制作 同人音乐 的日本同人社团，当前状态为 休止
-
 ## 社团简介
   
 由多个东方同人社团组成的爵士社团。社团名neta爵士鼓手[Art Blakey](https://en.wikipedia.org/wiki/Art_Blakey)的组合[The Jazz Messengers](https://en.wikipedia.org/wiki/The_Jazz_Messengers)。
   
 
-
 ## 成员名单
+
 - [TLi-synth](./TLi-synth.md)
 - [flap+frog](./flap+frog.md)
 - [OrangeCoffee](./OrangeCoffee.md)
 - [トマト組](./トマト組.md)
-- [シュールレアチーズ](./シュールレアチーズ.md)
+- [シュールレアチーズ](./surreacheese.md)
 - [minimum electric design](./minimum_electric_design.md)
 - [Driving Kitchen](./Driving_Kitchen.md)
 
 
 ## 作品列表
-[](./girls_apartment.md)[girls apartment](./girls_apartment.md)首发日期：2010-08-14 （Comic Market 78 (未找到链接)）THJM-0010合作 （一般向）[](./girls_apartment_2.md)[girls apartment 2](./girls_apartment_2.md)首发日期：2011-08-13 （Comic Market 80 (未找到链接)）THJM-0020合作 （一般向）
-<table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
-
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
-</table>
-
-
+- **[girls apartment](./girls_apartment.md)** — 首发日期：2010-08-14 （Comic Market 78）；THJM-0010；合作 （一般向）
+- **[girls apartment 2](./girls_apartment_2.md)** — 首发日期：2011-08-13 （Comic Market 80）；THJM-0020；合作 （一般向）
 
 ## 参展信息
 
 ## 其他信息
-
-
-
 
 ---
 

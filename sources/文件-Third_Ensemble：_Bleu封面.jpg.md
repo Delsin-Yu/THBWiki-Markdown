@@ -1,6 +1,6 @@
 # 文件:Third_Ensemble：_Bleu封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ca\ns6%3AThird_Ensemble%EF%BC%9A_Bleu%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ca\ns6%3AThird_Ensemble%EF%BC%9A_Bleu%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Sound_Online | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ Sound_Online | 专辑封面 | 封面图片
   
 
 - [Third Ensemble： Bleu](./Third_Ensemble：_Bleu.md)
-
-
-
 
 
 ---

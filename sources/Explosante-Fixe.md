@@ -1,58 +1,44 @@
 # Explosante-Fixe
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\1\15\ns0%3AExplosante-Fixe.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\1\15\ns0%3AExplosante-Fixe.html -->
 
 Explosante-Fixe ，主要制作 同人志 的法国同人社团，主催是 Mi-eau，Niwakins，当前状态为 休止
 
-本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
-
+本页是关于**[同人社团](./二次创作.md#同人社团)**的词条
 ## 目录
 
 - [1 社团信息](#社团信息)
 - [2 成员名单](#成员名单)
 - [3 作品列表](#作品列表)
-
   - [3.1 同人志](#同人志)
-
 
 
 - [4 参展信息](#参展信息)
 
 
-
-
-
 ## 社团信息
-[](./文件-Explosante-Fixelogo.jpg.md)  [](./文件-Explosante-Fixelogo.jpg.md)logo (website)
-[](./文件-Explosante-Fixelogo2.png.md)  [](./文件-Explosante-Fixelogo2.png.md)logo (DeviantArt group)
-
-<table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Explosante-Fixe </td></tr><tr><td><b>主要作品类型</b></td><td>同人志</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=Mi-eau&amp;action=edit&amp;redlink=1" class="new" title="Mi-eau（页面不存在）">Mi-eau</a> <br> <a href="/index.php?title=Niwakins&amp;action=edit&amp;redlink=1" class="new" title="Niwakins（页面不存在）">Niwakins</a> </td></tr><tr><td><b>地区</b></td><td>法国</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://explosante.com/">http://explosante.com/</a> <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span><small>（<a rel="nofollow" class="external text" href="https://web.archive.org/web/20121214193224/http://explosante.com/">缓存页面</a>）</small><br><a rel="nofollow" class="external free" href="https://www.deviantart.com/explosante/">https://www.deviantart.com/explosante/</a></td></tr></tbody></table>
+<img alt="" src="https://upload.thwiki.cc/thumb/0/04/Explosante-Fixelogo.jpg/200px-Explosante-Fixelogo.jpg" decoding="async" loading="lazy" width="200" height="109" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/0/04/Explosante-Fixelogo.jpg/300px-Explosante-Fixelogo.jpg 1.5x, https://upload.thwiki.cc/thumb/0/04/Explosante-Fixelogo.jpg/400px-Explosante-Fixelogo.jpg 2x" data-file-width="550" data-file-height="300">
+ [放大](./文件-Explosante-Fixelogo.jpg.md)logo (website)<img alt="" src="https://upload.thwiki.cc/6/6b/Explosante-Fixelogo2.png" decoding="async" loading="lazy" width="100" height="50" class="thumbimage" data-file-width="100" data-file-height="50">
+ [放大](./文件-Explosante-Fixelogo2.png.md)logo (DeviantArt group)
+<table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Explosante-Fixe </td></tr><tr><td><b>主要作品类型</b></td><td>同人志</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>主催</b></td><td> <a class="new" title="Mi-eau（页面不存在）">Mi-eau</a> <br> <a class="new" title="Niwakins（页面不存在）">Niwakins</a> </td></tr><tr><td><b>地区</b></td><td>法国</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://explosante.com/">http://explosante.com/</a> <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span><small>（<a rel="nofollow" class="external text" href="https://web.archive.org/web/20121214193224/http://explosante.com/">缓存页面</a>）</small><br><a rel="nofollow" class="external free" href="https://www.deviantart.com/explosante/">https://www.deviantart.com/explosante/</a></td></tr></tbody></table>
 
 Explosante-Fixe（同人社团，同人志社团） - Explosante-Fixe ，主要制作 同人志 的法国同人社团，主催是 Mi-eau，Niwakins，当前状态为 休止
-
 ## 成员名单
-- Mi-eau (a.k.a.  **Mio** )&#160;: founder
+
+- Mi-eau (a.k.a. **Mio**) : founder
 
 : [DeviantArt: xxmioxx](https://www.deviantart.com/xxmioxx)
 
-- Niwakins (a.k.a.  **Niwa** ,  **strobolights** )&#160;: co-founder
+- Niwakins (a.k.a. **Niwa**, **strobolights**) : co-founder
 
 : [DeviantArt: strobolights](https://www.deviantart.com/strobolights)
-
 
 ## 作品列表
 
 ### 同人志
-Gensokyophonie 封面图片 (未找到链接)[Gensokyophonie](./Gensokyophonie.md)首发日期：2010-10-29 （Chibi Japan Expo 2010 (未找到链接)）画集、​漫画、​合同志 （一般向）
-<table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
-</table>
-
-
+- **[Gensokyophonie](./Gensokyophonie.md)** — 首发日期：2010-10-29 （Chibi Japan Expo 2010）；画集、​漫画、​合同志 （一般向）
 
 ## 参展信息
-
-
-
 
 ---
 

@@ -1,12 +1,11 @@
 # Shadow_Chevy
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\42\ns0%3AShadow_Chevy.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\42\ns0%3AShadow_Chevy.html -->
 
 现实人物
 
 本页是关于东方Project  
- **二次同人创作者** 的词条
-
+**二次同人创作者**的词条
 ## 基本信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="label"><b>名称</b></td><td> Shadow Chevy </td></tr><tr><td class="label"><b>所属社团</b></td><td><b>当前</b><div style="margin-left:2em;">无所属社团</div></td></tr><tr><td class="label"><b>职位</b></td><td>编曲</td></tr><tr><td class="label"><b>参与社团</b></td><td><a class="mw-selflink selflink">Shadow Chevy</a> （编曲）</td></tr><tr><td class="label"><b>个人页面</b></td><td><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><b>bandcamp</b></td><td><a rel="nofollow" class="external free" href="https://shadow-chevy.bandcamp.com/">https://shadow-chevy.bandcamp.com/</a></td></tr><tr><td><b>Twitter</b></td><td><a rel="nofollow" class="external free" href="https://twitter.com/Shadow_Chevy">https://twitter.com/Shadow_Chevy</a></td></tr><tr><td><b>Facebook</b></td><td><a rel="nofollow" class="external free" href="https://www.facebook.com/people/Shadow-Chevy/100090727745281/">https://www.facebook.com/people/Shadow-Chevy/100090727745281/</a></td></tr><tr><td><b>Pixiv</b></td><td><a rel="nofollow" class="external free" href="https://www.pixiv.net/users/60051818">https://www.pixiv.net/users/60051818</a></td></tr><tr><td><b>Youtube</b></td><td><a rel="nofollow" class="external free" href="https://www.youtube.com/@TheShadowChevy">https://www.youtube.com/@TheShadowChevy</a></td></tr></tbody></table></td></tr></tbody></table>
@@ -20,23 +19,15 @@ Shadow Chevy（人物） - 现实人物
 德国的音乐人。
   
 
-
 ## 作品列表
 
 ### 同人音乐
-Fumo Project 封面图片 (未找到链接)Fumo Project (未找到链接)首发日期：未知 - Thousand Onis OST 封面图片 (未找到链接)Thousand Onis OST (未找到链接)首发日期：未知 - Phantasmal Resurrection 封面图片 (未找到链接)Phantasmal Resurrection (未找到链接)首发日期：未知 - Immortality Paradox - Official OST 封面图片 (未找到链接)[Immortality Paradox - Official OST](./Immortality_Paradox_-_Official_OST.md)首发日期：2023-09-05 EP、​原声集 （一般向）
-<table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
-</table>
-
-
+- **Fumo Project** — 首发日期：未知；-
+- **Thousand Onis OST** — 首发日期：未知；-
+- **Phantasmal Resurrection** — 首发日期：未知；-
+- **[Immortality Paradox - Official OST](./Immortality_Paradox_-_Official_OST.md)** — 首发日期：2023-09-05；EP、​原声集 （一般向）
 
 ## 人际关系
-
-
-
 
 ---
 

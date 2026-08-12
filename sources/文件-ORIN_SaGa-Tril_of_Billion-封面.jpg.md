@@ -1,6 +1,6 @@
 # 文件:ORIN_SaGa-Tril_of_Billion-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fc\ns6%3AORIN_SaGa-Tril_of_Billion-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fc\ns6%3AORIN_SaGa-Tril_of_Billion-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ミーハーナルオト | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [ORIN SaGa-Tril of Billion-](./ORIN_SaGa-Tril_of_Billion-.md)  
-该封面包含的角色：- [火焰猫燐](./火焰猫燐.md)
-
-
-
+- [ORIN SaGa-Tril of Billion-](./ORIN_SaGa-Tril_of_Billion-.md)该封面包含的角色：
+- [火焰猫燐](./火焰猫燐.md)
 
 
 ---

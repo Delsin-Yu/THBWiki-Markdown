@@ -1,18 +1,13 @@
 # 文件:六五八乱奏LOGO.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\aa\ns6%3A%E5%85%AD%E4%BA%94%E5%85%AB%E4%B9%B1%E5%A5%8FLOGO%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\aa\ns6%3A%E5%85%AD%E4%BA%94%E5%85%AB%E4%B9%B1%E5%A5%8FLOGO%2Ejpg.html -->
 
 六五八乱奏 | 社团LOGO
 
 
 ## 文件说明
   
-[[1]](https://cdn.dizzylab.net/media/label_cover/658_logo透明.jpg)
-  
-
-
-
-
+[\[1\]](https://cdn.dizzylab.net/media/label_cover/658_logo透明.jpg)  
 
 ---
 

@@ -1,11 +1,10 @@
 # Hunter_Youkai_Friends
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\fb\ns0%3AHunter_Youkai_Friends.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\fb\ns0%3AHunter_Youkai_Friends.html -->
 
 Hunter Youkai Friends ，主要制作 其他 的墨西哥同人社团，当前状态为 休止
 
-本页是关于 **同人社团 (未找到链接)** 的词条
-
+本页是关于**[同人社团](./二次创作.md#同人社团)**的词条
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -15,21 +14,18 @@ Hunter Youkai Friends ，主要制作 其他 的墨西哥同人社团，当前�
 - [5 其他信息](#其他信息)
 
 
-
-
-
 ## 社团信息
-文件:Hunter Youkai Friendsbanner.jpg (未找到链接)  banner
-
+文件:Hunter Youkai Friendsbanner.jpg (未找到链接) banner
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Hunter Youkai Friends </td></tr><tr><td><b>主要作品类型</b></td><td>其他</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>地区</b></td><td>墨西哥</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="https://www.facebook.com/groups/HunterYoukaiFriends/">https://www.facebook.com/groups/HunterYoukaiFriends/</a> </td></tr></tbody></table>
 
 Hunter Youkai Friends（同人社团，其他社团） - Hunter Youkai Friends ，主要制作 其他 的墨西哥同人社团，当前状态为 休止
-
 ## 社团简介
+
 - 在墨西哥蒙特雷活动的社团，并且创建了目前为止墨西哥唯一一个东方展会系列[TouhouTech](./TouhouTech.md)。
 
 
 ## 成员名单
+
 - Ruben Ibarra (未找到链接)
 - Salvador Molay (未找到链接)
 - MaryMiku (未找到链接)
@@ -38,9 +34,6 @@ Hunter Youkai Friends（同人社团，其他社团） - Hunter Youkai Friends �
 ## 作品列表
 
 ## 其他信息
-
-
-
 
 ---
 

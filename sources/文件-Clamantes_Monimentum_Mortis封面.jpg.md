@@ -1,6 +1,6 @@
 # 文件:Clamantes_Monimentum_Mortis封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6f\ns6%3AClamantes_Monimentum_Mortis%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6f\ns6%3AClamantes_Monimentum_Mortis%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 VAGUEDGE | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ VAGUEDGE | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Clamantes Monimentum Mortis](./Clamantes_Monimentum_Mortis.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
-
-
-
+- [Clamantes Monimentum Mortis](./Clamantes_Monimentum_Mortis.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
 
 ---

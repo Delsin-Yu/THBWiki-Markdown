@@ -1,18 +1,13 @@
 # 文件:REVERIEbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bd\ns6%3AREVERIEbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bd\ns6%3AREVERIEbanner%2Ejpg.html -->
 
 REVERIE | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[direct image link](http://img-cdn.jg.jugem.jp/da2/1824378/20160401_1471359.jpg), [source page](http://reverieworks.jugem.jp/?pid=1)
-  
-
-
-
-
+源地址：[direct image link](http://img-cdn.jg.jugem.jp/da2/1824378/20160401_1471359.jpg), [source page](http://reverieworks.jugem.jp/?pid=1)  
 
 ---
 

@@ -1,11 +1,10 @@
 # 东方心绮楼/场景背景角色/GIF动图
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\2d\ns0%3A%E4%B8%9C%E6%96%B9%E5%BF%83%E7%BB%AE%E6%A5%BC%2F%E5%9C%BA%E6%99%AF%E8%83%8C%E6%99%AF%E8%A7%92%E8%89%B2%2FGIF%E5%8A%A8%E5%9B%BE.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\2d\ns0%3A%E4%B8%9C%E6%96%B9%E5%BF%83%E7%BB%AE%E6%A5%BC%2F%E5%9C%BA%E6%99%AF%E8%83%8C%E6%99%AF%E8%A7%92%E8%89%B2%2FGIF%E5%8A%A8%E5%9B%BE.html -->
 
 东方心绮楼 | 官方游戏像素绘 | 待完成页面
 
 <center>
-
 <table>
 <tbody><tr>
 <td class="mbox-image"><div style="width: 52px;">
@@ -14,10 +13,10 @@
 </tr>
 </tbody></table>
 
-
 </center>
-- 为方便社交分享，老旧设备查看等，本页面动态图使用 GIF 格式。
+- 为方便社交分享，老旧设备查看等，本页面动态图使用 GIF 格式。 
   - 为获得更好的观看效果以及方便提取逐帧图，推荐查看 APNG 格式的动态图。
+
 
 - 由于GIF格式不支持透明通道，图片边缘阴影、色彩等一些细节将会损失。
 - 拥有翅膀等特殊部件的角色留待以后更新像素绘：露娜切露德（翅膀）、桑尼米尔克（翅膀）、斯塔萨菲雅（翅膀）、琪露诺（翅膀）、妖梦（半灵）、梅露兰·普莉兹姆利巴（小号）、露娜萨·普莉兹姆利巴（小提琴）
@@ -26,42 +25,32 @@
 ## 目录
 
 - [1 博丽神社](#博丽神社)
-
   - [1.1 角色](#角色)
   - [1.2 妖精女仆](#妖精女仆)
 
 
-
 - [2 人类村落](#人类村落)
-
   - [2.1 角色](#角色_2)
   - [2.2 村民](#村民)
 
 
-
 - [3 云上的宝船](#云上的宝船)
 - [4 命莲寺](#命莲寺)
-
   - [4.1 角色](#角色_3)
   - [4.2 村民](#村民_2)
-
 
 
 - [5 梦殿大祀庙](#梦殿大祀庙)
 - [6 神灵庙](#神灵庙)
 - [7 玄武涧](#玄武涧)
-
   - [7.1 角色](#角色_4)
   - [7.2 河童](#河童)
 
 
-
 - [8 地灵殿](#地灵殿)
-
   - [8.1 角色](#角色_5)
   - [8.2 动物](#动物)
   - [8.3 其他](#其他)
-
 
 
 - [9 妖怪狸森林](#妖怪狸森林)
@@ -70,13 +59,9 @@
 - [12 注释](#注释)
 
 
-
-
-
 ## [博丽神社](./博丽神社.md)
-[](./文件-博丽神社（心绮楼场景）有人物.png.md)  [](./文件-博丽神社（心绮楼场景）有人物.png.md)博丽神社
-
-
+<img alt="" src="https://upload.thwiki.cc/thumb/9/9d/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E5%9C%BA%E6%99%AF%EF%BC%89%E6%9C%89%E4%BA%BA%E7%89%A9.png/800px-%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E5%9C%BA%E6%99%AF%EF%BC%89%E6%9C%89%E4%BA%BA%E7%89%A9.png" decoding="async" loading="lazy" width="800" height="450" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/9/9d/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E5%9C%BA%E6%99%AF%EF%BC%89%E6%9C%89%E4%BA%BA%E7%89%A9.png/1200px-%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E5%9C%BA%E6%99%AF%EF%BC%89%E6%9C%89%E4%BA%BA%E7%89%A9.png 1.5x, https://upload.thwiki.cc/9/9d/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E5%9C%BA%E6%99%AF%EF%BC%89%E6%9C%89%E4%BA%BA%E7%89%A9.png 2x" data-file-width="1280" data-file-height="720">
+ [放大](./文件-博丽神社（心绮楼场景）有人物.png.md)博丽神社
 ### 角色
 
 <table>
@@ -84,7 +69,7 @@
     <th>角色（9个）</th>
     <th><a href="./帕秋莉·诺蕾姬.md" title="帕秋莉·诺蕾姬">帕秋莉·诺蕾姬</a></th>
     <th><a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a></th>
-    <th><a href="/%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C" title="十六夜咲夜">十六夜咲夜</a></th>
+    <th><a href="./十六夜咲夜.md" title="十六夜咲夜">十六夜咲夜</a></th>
     <th><a href="./八云紫.md" title="八云紫">八云紫</a></th>
     <th><a href="./八云蓝.md" title="八云蓝">八云蓝</a></th>
     <th><a href="./橙.md" title="橙">橙</a></th>
@@ -119,7 +104,6 @@
 </tbody></table>
 
 
-
 ### 妖精女仆
 
 <table>
@@ -128,8 +112,8 @@
   </tr>
   <tr>
     <th rowspan="2">像素绘</th>
-    <th>妖精女仆A<sup id="cite_ref-yousei_1-0" class="reference"><a href="#cite_note-yousei-1">1</a></sup></th>
-    <th>妖精女仆B<sup id="cite_ref-yousei_1-1" class="reference"><a href="#cite_note-yousei-1">1</a></sup></th>
+    <th>妖精女仆A<span>[^cite_note-yousei-1]</span></th>
+    <th>妖精女仆B<span>[^cite_note-yousei-1]</span></th>
   </tr>
   <tr>
     <td><a href="./文件-妖精女仆A（心绮楼背景像素绘）.png.md" class="image"><img alt="妖精女仆A（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/7/75/%E5%A6%96%E7%B2%BE%E5%A5%B3%E4%BB%86A%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="75" height="88" data-file-width="75" data-file-height="88"></a></td>
@@ -138,11 +122,9 @@
 </tbody></table>
 
 
-
 ## [人类村落](./人类村落.md)
-[](./文件-人类村落（心绮楼场景）有人物.png.md)  [](./文件-人类村落（心绮楼场景）有人物.png.md)人类村落
-
-
+<img alt="" src="https://upload.thwiki.cc/thumb/b/ba/%E4%BA%BA%E7%B1%BB%E6%9D%91%E8%90%BD%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E5%9C%BA%E6%99%AF%EF%BC%89%E6%9C%89%E4%BA%BA%E7%89%A9.png/800px-%E4%BA%BA%E7%B1%BB%E6%9D%91%E8%90%BD%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E5%9C%BA%E6%99%AF%EF%BC%89%E6%9C%89%E4%BA%BA%E7%89%A9.png" decoding="async" loading="lazy" width="800" height="450" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/b/ba/%E4%BA%BA%E7%B1%BB%E6%9D%91%E8%90%BD%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E5%9C%BA%E6%99%AF%EF%BC%89%E6%9C%89%E4%BA%BA%E7%89%A9.png/1200px-%E4%BA%BA%E7%B1%BB%E6%9D%91%E8%90%BD%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E5%9C%BA%E6%99%AF%EF%BC%89%E6%9C%89%E4%BA%BA%E7%89%A9.png 1.5x, https://upload.thwiki.cc/b/ba/%E4%BA%BA%E7%B1%BB%E6%9D%91%E8%90%BD%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E5%9C%BA%E6%99%AF%EF%BC%89%E6%9C%89%E4%BA%BA%E7%89%A9.png 2x" data-file-width="1280" data-file-height="720">
+ [放大](./文件-人类村落（心绮楼场景）有人物.png.md)人类村落
 ### 角色
 
 <table>
@@ -150,7 +132,7 @@
     <th>角色（11个）</th>
     <th><a href="./本居小铃.md" title="本居小铃">本居小铃</a></th>
     <th><a href="./森近霖之助.md" title="森近霖之助">森近霖之助</a></th>
-    <th><a href="./因幡天为.md" class="mw-redirect" title="因幡天为">因幡天为</a></th>
+    <th><a href="./因幡帝.md" class="mw-redirect" title="因幡天为">因幡天为</a></th>
     <th><a href="./八意永琳.md" title="八意永琳">八意永琳</a></th>
     <th><a href="./蓬莱山辉夜.md" title="蓬莱山辉夜">蓬莱山辉夜</a></th>
     <th><a href="./铃仙·优昙华院·因幡.md" title="铃仙·优昙华院·因幡">铃仙·优昙华院·因幡</a></th>
@@ -189,7 +171,6 @@
     <td><a href="./文件-爱丽丝·玛格特洛依德（心绮楼背景像素绘）.gif.md" class="image"><img alt="爱丽丝·玛格特洛依德（心绮楼背景像素绘）.gif" src="https://upload.thwiki.cc/4/4b/%E7%88%B1%E4%B8%BD%E4%B8%9D%C2%B7%E7%8E%9B%E6%A0%BC%E7%89%B9%E6%B4%9B%E4%BE%9D%E5%BE%B7%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.gif" decoding="async" loading="lazy" width="65" height="107" data-file-width="65" data-file-height="107"></a></td>
   </tr>
 </tbody></table>
-
 
 
 ### 村民
@@ -236,11 +217,9 @@
 </tbody></table>
 
 
-
 ## [云上的宝船](./圣辇船.md)
-[](./文件-云上的宝船（心绮楼场景）有人物.png.md)  [](./文件-云上的宝船（心绮楼场景）有人物.png.md)圣辇船
-
-
+<img alt="" src="https://upload.thwiki.cc/thumb/7/77/%E4%BA%91%E4%B8%8A%E7%9A%84%E5%AE%9D%E8%88%B9%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E5%9C%BA%E6%99%AF%EF%BC%89%E6%9C%89%E4%BA%BA%E7%89%A9.png/800px-%E4%BA%91%E4%B8%8A%E7%9A%84%E5%AE%9D%E8%88%B9%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E5%9C%BA%E6%99%AF%EF%BC%89%E6%9C%89%E4%BA%BA%E7%89%A9.png" decoding="async" loading="lazy" width="800" height="450" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/7/77/%E4%BA%91%E4%B8%8A%E7%9A%84%E5%AE%9D%E8%88%B9%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E5%9C%BA%E6%99%AF%EF%BC%89%E6%9C%89%E4%BA%BA%E7%89%A9.png/1200px-%E4%BA%91%E4%B8%8A%E7%9A%84%E5%AE%9D%E8%88%B9%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E5%9C%BA%E6%99%AF%EF%BC%89%E6%9C%89%E4%BA%BA%E7%89%A9.png 1.5x, https://upload.thwiki.cc/7/77/%E4%BA%91%E4%B8%8A%E7%9A%84%E5%AE%9D%E8%88%B9%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E5%9C%BA%E6%99%AF%EF%BC%89%E6%9C%89%E4%BA%BA%E7%89%A9.png 2x" data-file-width="1280" data-file-height="720">
+ [放大](./文件-云上的宝船（心绮楼场景）有人物.png.md)圣辇船
 <table>
   <tbody><tr>
     <th>角色（9个）</th>
@@ -281,11 +260,9 @@
 </tbody></table>
 
 
-
 ## [命莲寺](./命莲寺.md)
-[](./文件-命莲寺（心绮楼场景）有人物.png.md)  [](./文件-命莲寺（心绮楼场景）有人物.png.md)命莲寺
-
-
+<img alt="" src="https://upload.thwiki.cc/thumb/b/b4/%E5%91%BD%E8%8E%B2%E5%AF%BA%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E5%9C%BA%E6%99%AF%EF%BC%89%E6%9C%89%E4%BA%BA%E7%89%A9.png/800px-%E5%91%BD%E8%8E%B2%E5%AF%BA%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E5%9C%BA%E6%99%AF%EF%BC%89%E6%9C%89%E4%BA%BA%E7%89%A9.png" decoding="async" loading="lazy" width="800" height="450" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/b/b4/%E5%91%BD%E8%8E%B2%E5%AF%BA%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E5%9C%BA%E6%99%AF%EF%BC%89%E6%9C%89%E4%BA%BA%E7%89%A9.png/1200px-%E5%91%BD%E8%8E%B2%E5%AF%BA%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E5%9C%BA%E6%99%AF%EF%BC%89%E6%9C%89%E4%BA%BA%E7%89%A9.png 1.5x, https://upload.thwiki.cc/b/b4/%E5%91%BD%E8%8E%B2%E5%AF%BA%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E5%9C%BA%E6%99%AF%EF%BC%89%E6%9C%89%E4%BA%BA%E7%89%A9.png 2x" data-file-width="1280" data-file-height="720">
+ [放大](./文件-命莲寺（心绮楼场景）有人物.png.md)命莲寺
 ### 角色
 
 <table>
@@ -316,7 +293,6 @@
 </tbody></table>
 
 
-
 ### 村民
 
 <table>
@@ -337,11 +313,9 @@
 </tbody></table>
 
 
-
 ## [梦殿大祀庙](./梦殿大祀庙（场景）.md)
-[](./文件-梦殿大祀庙（心绮楼场景）有人物.png.md)  [](./文件-梦殿大祀庙（心绮楼场景）有人物.png.md)梦殿大祀庙
-
-
+<img alt="" src="https://upload.thwiki.cc/thumb/1/11/%E6%A2%A6%E6%AE%BF%E5%A4%A7%E7%A5%80%E5%BA%99%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E5%9C%BA%E6%99%AF%EF%BC%89%E6%9C%89%E4%BA%BA%E7%89%A9.png/800px-%E6%A2%A6%E6%AE%BF%E5%A4%A7%E7%A5%80%E5%BA%99%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E5%9C%BA%E6%99%AF%EF%BC%89%E6%9C%89%E4%BA%BA%E7%89%A9.png" decoding="async" loading="lazy" width="800" height="450" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/1/11/%E6%A2%A6%E6%AE%BF%E5%A4%A7%E7%A5%80%E5%BA%99%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E5%9C%BA%E6%99%AF%EF%BC%89%E6%9C%89%E4%BA%BA%E7%89%A9.png/1200px-%E6%A2%A6%E6%AE%BF%E5%A4%A7%E7%A5%80%E5%BA%99%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E5%9C%BA%E6%99%AF%EF%BC%89%E6%9C%89%E4%BA%BA%E7%89%A9.png 1.5x, https://upload.thwiki.cc/1/11/%E6%A2%A6%E6%AE%BF%E5%A4%A7%E7%A5%80%E5%BA%99%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E5%9C%BA%E6%99%AF%EF%BC%89%E6%9C%89%E4%BA%BA%E7%89%A9.png 2x" data-file-width="1280" data-file-height="720">
+ [放大](./文件-梦殿大祀庙（心绮楼场景）有人物.png.md)梦殿大祀庙
 <table>
   <tbody><tr>
     <th>角色（11个）</th>
@@ -388,11 +362,9 @@
 </tbody></table>
 
 
-
 ## [神灵庙](./神灵庙（场景）.md)
-[](./文件-神灵庙（心绮楼场景）有人物.png.md)  [](./文件-神灵庙（心绮楼场景）有人物.png.md)神灵庙
-
-
+<img alt="" src="https://upload.thwiki.cc/thumb/7/75/%E7%A5%9E%E7%81%B5%E5%BA%99%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E5%9C%BA%E6%99%AF%EF%BC%89%E6%9C%89%E4%BA%BA%E7%89%A9.png/800px-%E7%A5%9E%E7%81%B5%E5%BA%99%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E5%9C%BA%E6%99%AF%EF%BC%89%E6%9C%89%E4%BA%BA%E7%89%A9.png" decoding="async" loading="lazy" width="800" height="450" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/7/75/%E7%A5%9E%E7%81%B5%E5%BA%99%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E5%9C%BA%E6%99%AF%EF%BC%89%E6%9C%89%E4%BA%BA%E7%89%A9.png/1200px-%E7%A5%9E%E7%81%B5%E5%BA%99%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E5%9C%BA%E6%99%AF%EF%BC%89%E6%9C%89%E4%BA%BA%E7%89%A9.png 1.5x, https://upload.thwiki.cc/7/75/%E7%A5%9E%E7%81%B5%E5%BA%99%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E5%9C%BA%E6%99%AF%EF%BC%89%E6%9C%89%E4%BA%BA%E7%89%A9.png 2x" data-file-width="1280" data-file-height="720">
+ [放大](./文件-神灵庙（心绮楼场景）有人物.png.md)神灵庙
 <table>
   <tbody><tr>
     <th>角色（10个）</th>
@@ -436,11 +408,9 @@
 </tbody></table>
 
 
-
 ## [玄武涧](./玄武涧.md)
-[](./文件-玄武涧（心绮楼场景）有人物.png.md)  [](./文件-玄武涧（心绮楼场景）有人物.png.md)玄武涧
-
-
+<img alt="" src="https://upload.thwiki.cc/thumb/9/95/%E7%8E%84%E6%AD%A6%E6%B6%A7%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E5%9C%BA%E6%99%AF%EF%BC%89%E6%9C%89%E4%BA%BA%E7%89%A9.png/800px-%E7%8E%84%E6%AD%A6%E6%B6%A7%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E5%9C%BA%E6%99%AF%EF%BC%89%E6%9C%89%E4%BA%BA%E7%89%A9.png" decoding="async" loading="lazy" width="800" height="450" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/9/95/%E7%8E%84%E6%AD%A6%E6%B6%A7%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E5%9C%BA%E6%99%AF%EF%BC%89%E6%9C%89%E4%BA%BA%E7%89%A9.png/1200px-%E7%8E%84%E6%AD%A6%E6%B6%A7%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E5%9C%BA%E6%99%AF%EF%BC%89%E6%9C%89%E4%BA%BA%E7%89%A9.png 1.5x, https://upload.thwiki.cc/9/95/%E7%8E%84%E6%AD%A6%E6%B6%A7%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E5%9C%BA%E6%99%AF%EF%BC%89%E6%9C%89%E4%BA%BA%E7%89%A9.png 2x" data-file-width="1280" data-file-height="720">
+ [放大](./文件-玄武涧（心绮楼场景）有人物.png.md)玄武涧
 ### 角色
 
 <table>
@@ -480,7 +450,6 @@
 </tbody></table>
 
 
-
 ### 河童
 
 <table>
@@ -505,11 +474,9 @@
 </tbody></table>
 
 
-
 ## [地灵殿](./地灵殿（场景）.md)
-[](./文件-地灵殿（心绮楼场景）有人物.png.md)  [](./文件-地灵殿（心绮楼场景）有人物.png.md)地灵殿
-
-
+<img alt="" src="https://upload.thwiki.cc/thumb/e/e9/%E5%9C%B0%E7%81%B5%E6%AE%BF%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E5%9C%BA%E6%99%AF%EF%BC%89%E6%9C%89%E4%BA%BA%E7%89%A9.png/800px-%E5%9C%B0%E7%81%B5%E6%AE%BF%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E5%9C%BA%E6%99%AF%EF%BC%89%E6%9C%89%E4%BA%BA%E7%89%A9.png" decoding="async" loading="lazy" width="800" height="450" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/e/e9/%E5%9C%B0%E7%81%B5%E6%AE%BF%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E5%9C%BA%E6%99%AF%EF%BC%89%E6%9C%89%E4%BA%BA%E7%89%A9.png/1200px-%E5%9C%B0%E7%81%B5%E6%AE%BF%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E5%9C%BA%E6%99%AF%EF%BC%89%E6%9C%89%E4%BA%BA%E7%89%A9.png 1.5x, https://upload.thwiki.cc/e/e9/%E5%9C%B0%E7%81%B5%E6%AE%BF%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E5%9C%BA%E6%99%AF%EF%BC%89%E6%9C%89%E4%BA%BA%E7%89%A9.png 2x" data-file-width="1280" data-file-height="720">
+ [放大](./文件-地灵殿（心绮楼场景）有人物.png.md)地灵殿
 ### 角色
 
 <table>
@@ -538,7 +505,6 @@
     <td><a href="./文件-火焰猫燐（心绮楼背景像素绘）.gif.md" class="image"><img alt="火焰猫燐（心绮楼背景像素绘）.gif" src="https://upload.thwiki.cc/e/e3/%E7%81%AB%E7%84%B0%E7%8C%AB%E7%87%90%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.gif" decoding="async" loading="lazy" width="100" height="123" data-file-width="100" data-file-height="123"></a></td>
   </tr>
 </tbody></table>
-
 
 
 ### 动物
@@ -589,7 +555,6 @@
 </tbody></table>
 
 
-
 ### 其他
 
 <table>
@@ -608,10 +573,9 @@
 </tbody></table>
 
 
-
 ## [妖怪狸森林](./妖怪狸森林.md)
-[](./文件-妖怪狸森林（心绮楼场景）有人物.png.md)  [](./文件-妖怪狸森林（心绮楼场景）有人物.png.md)妖怪狸森林
-
+<img alt="" src="https://upload.thwiki.cc/thumb/a/a1/%E5%A6%96%E6%80%AA%E7%8B%B8%E6%A3%AE%E6%9E%97%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E5%9C%BA%E6%99%AF%EF%BC%89%E6%9C%89%E4%BA%BA%E7%89%A9.png/800px-%E5%A6%96%E6%80%AA%E7%8B%B8%E6%A3%AE%E6%9E%97%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E5%9C%BA%E6%99%AF%EF%BC%89%E6%9C%89%E4%BA%BA%E7%89%A9.png" decoding="async" loading="lazy" width="800" height="450" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/a/a1/%E5%A6%96%E6%80%AA%E7%8B%B8%E6%A3%AE%E6%9E%97%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E5%9C%BA%E6%99%AF%EF%BC%89%E6%9C%89%E4%BA%BA%E7%89%A9.png/1200px-%E5%A6%96%E6%80%AA%E7%8B%B8%E6%A3%AE%E6%9E%97%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E5%9C%BA%E6%99%AF%EF%BC%89%E6%9C%89%E4%BA%BA%E7%89%A9.png 1.5x, https://upload.thwiki.cc/a/a1/%E5%A6%96%E6%80%AA%E7%8B%B8%E6%A3%AE%E6%9E%97%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E5%9C%BA%E6%99%AF%EF%BC%89%E6%9C%89%E4%BA%BA%E7%89%A9.png 2x" data-file-width="1280" data-file-height="720">
+ [放大](./文件-妖怪狸森林（心绮楼场景）有人物.png.md)妖怪狸森林
 - 出现的角色都是狸猫变化而成的。
 
 
@@ -650,7 +614,6 @@
     <td><a href="./文件-永江衣玖（心绮楼背景像素绘）.gif.md" class="image"><img alt="永江衣玖（心绮楼背景像素绘）.gif" src="https://upload.thwiki.cc/8/8c/%E6%B0%B8%E6%B1%9F%E8%A1%A3%E7%8E%96%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.gif" decoding="async" loading="lazy" width="117" height="165" data-file-width="117" data-file-height="165"></a></td>
   </tr>
 </tbody></table>
-
 
 
 <table>
@@ -702,10 +665,9 @@
 </tbody></table>
 
 
-
 ## [妖怪狸森林](./妖怪狸森林.md)（夜）
-[](./文件-妖怪狸森林（心绮楼场景）有人物_夜.png.md)  [](./文件-妖怪狸森林（心绮楼场景）有人物_夜.png.md)妖怪狸森林（夜）
-
+<img alt="" src="https://upload.thwiki.cc/thumb/4/4b/%E5%A6%96%E6%80%AA%E7%8B%B8%E6%A3%AE%E6%9E%97%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E5%9C%BA%E6%99%AF%EF%BC%89%E6%9C%89%E4%BA%BA%E7%89%A9_%E5%A4%9C.png/800px-%E5%A6%96%E6%80%AA%E7%8B%B8%E6%A3%AE%E6%9E%97%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E5%9C%BA%E6%99%AF%EF%BC%89%E6%9C%89%E4%BA%BA%E7%89%A9_%E5%A4%9C.png" decoding="async" loading="lazy" width="800" height="450" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/4/4b/%E5%A6%96%E6%80%AA%E7%8B%B8%E6%A3%AE%E6%9E%97%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E5%9C%BA%E6%99%AF%EF%BC%89%E6%9C%89%E4%BA%BA%E7%89%A9_%E5%A4%9C.png/1200px-%E5%A6%96%E6%80%AA%E7%8B%B8%E6%A3%AE%E6%9E%97%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E5%9C%BA%E6%99%AF%EF%BC%89%E6%9C%89%E4%BA%BA%E7%89%A9_%E5%A4%9C.png 1.5x, https://upload.thwiki.cc/4/4b/%E5%A6%96%E6%80%AA%E7%8B%B8%E6%A3%AE%E6%9E%97%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E5%9C%BA%E6%99%AF%EF%BC%89%E6%9C%89%E4%BA%BA%E7%89%A9_%E5%A4%9C.png 2x" data-file-width="1280" data-file-height="720">
+ [放大](./文件-妖怪狸森林（心绮楼场景）有人物_夜.png.md)妖怪狸森林（夜）
 - 这里出现的20只狸猫对应白天的妖怪狸森林的20个角色。
 
 
@@ -773,11 +735,9 @@
 </tbody></table>
 
 
-
 ## [人类村落](./人类村落.md)（夜）
-[](./文件-人类村落（心绮楼场景）有人物_夜.png.md)  [](./文件-人类村落（心绮楼场景）有人物_夜.png.md)人类村落（夜）
-
-
+<img alt="" src="https://upload.thwiki.cc/thumb/7/7a/%E4%BA%BA%E7%B1%BB%E6%9D%91%E8%90%BD%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E5%9C%BA%E6%99%AF%EF%BC%89%E6%9C%89%E4%BA%BA%E7%89%A9_%E5%A4%9C.png/800px-%E4%BA%BA%E7%B1%BB%E6%9D%91%E8%90%BD%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E5%9C%BA%E6%99%AF%EF%BC%89%E6%9C%89%E4%BA%BA%E7%89%A9_%E5%A4%9C.png" decoding="async" loading="lazy" width="800" height="450" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/7/7a/%E4%BA%BA%E7%B1%BB%E6%9D%91%E8%90%BD%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E5%9C%BA%E6%99%AF%EF%BC%89%E6%9C%89%E4%BA%BA%E7%89%A9_%E5%A4%9C.png/1200px-%E4%BA%BA%E7%B1%BB%E6%9D%91%E8%90%BD%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E5%9C%BA%E6%99%AF%EF%BC%89%E6%9C%89%E4%BA%BA%E7%89%A9_%E5%A4%9C.png 1.5x, https://upload.thwiki.cc/7/7a/%E4%BA%BA%E7%B1%BB%E6%9D%91%E8%90%BD%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E5%9C%BA%E6%99%AF%EF%BC%89%E6%9C%89%E4%BA%BA%E7%89%A9_%E5%A4%9C.png 2x" data-file-width="1280" data-file-height="720">
+ [放大](./文件-人类村落（心绮楼场景）有人物_夜.png.md)人类村落（夜）
 <table>
   <tbody><tr>
     <th colspan="5">村民（面具）（11人）</th>
@@ -819,13 +779,7 @@
   </tr>
 </tbody></table>
 
-
-
 [^cite_note-yousei-1]: 妖精女仆A/B：游戏数据包中，贴图的命名为youseiA(B)000X(编号).png（yousei为妖精的日语读音）
-
-
-
-
 
 ---
 

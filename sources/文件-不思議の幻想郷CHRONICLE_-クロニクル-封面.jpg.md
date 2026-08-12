@@ -1,6 +1,6 @@
 # 文件:不思議の幻想郷CHRONICLE_-クロニクル-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\06\ns6%3A%E4%B8%8D%E6%80%9D%E8%AD%B0%E3%81%AE%E5%B9%BB%E6%83%B3%E9%83%B7CHRONICLE_-%E3%82%AF%E3%83%AD%E3%83%8B%E3%82%AF%E3%83%AB-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\06\ns6%3A%E4%B8%8D%E6%80%9D%E8%AD%B0%E3%81%AE%E5%B9%BB%E6%83%B3%E9%83%B7CHRONICLE_-%E3%82%AF%E3%83%AD%E3%83%8B%E3%82%AF%E3%83%AB-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 AQUA_STYLE | 封面图片 | 软件封面
 
@@ -8,11 +8,13 @@ AQUA_STYLE | 封面图片 | 软件封面
 使用了本文件作封面图片的作品：
   
 
-- [不思議の幻想郷CHRONICLE -クロニクル-](./不思議の幻想郷CHRONICLE_-クロニクル-.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [橙](./橙.md)- [八云蓝](./八云蓝.md)- [八云紫](./八云紫.md)- [绵月依姬](./绵月依姬.md)- 原创角色 (未找到链接)
-
-
-
+- [不思議の幻想郷CHRONICLE -クロニクル-](./不思議の幻想郷CHRONICLE_-クロニクル-.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [橙](./橙.md)
+- [八云蓝](./八云蓝.md)
+- [八云紫](./八云紫.md)
+- [绵月依姬](./绵月依姬.md)
+- 原创角色 (未找到链接)
 
 
 ---

@@ -1,16 +1,12 @@
 # 模板:幻想乡JQL
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\c\c9\ns10%3A%E5%B9%BB%E6%83%B3%E4%B9%A1JQL.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\c\c9\ns10%3A%E5%B9%BB%E6%83%B3%E4%B9%A1JQL.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

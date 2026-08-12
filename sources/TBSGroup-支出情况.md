@@ -1,12 +1,8 @@
 # TBSGroup/支出情况
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\b2\ns0%3ATBSGroup%2F%E6%94%AF%E5%87%BA%E6%83%85%E5%86%B5.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\b2\ns0%3ATBSGroup%2F%E6%94%AF%E5%87%BA%E6%83%85%E5%86%B5.html -->
 
 TBSGroup
-
-
-
-
 
 
 ---

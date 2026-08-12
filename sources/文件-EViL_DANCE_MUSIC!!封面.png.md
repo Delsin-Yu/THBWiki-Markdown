@@ -1,6 +1,6 @@
 # 文件:EViL_DANCE_MUSIC!!封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bf\ns6%3AEViL_DANCE_MUSIC%21%21%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bf\ns6%3AEViL_DANCE_MUSIC%21%21%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Adust_Rain | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Adust_Rain | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [EViL DANCE MUSIC!!](./EViL_DANCE_MUSIC!!.md)  
-该封面包含的角色：- [克劳恩皮丝](./克劳恩皮丝.md)
+- [EViL DANCE MUSIC!!](./EViL_DANCE_MUSIC!!.md)该封面包含的角色：
+- [克劳恩皮丝](./克劳恩皮丝.md)
 
   
-源地址：[[1]](https://image.jimcdn.com/app/cms/image/transf/dimension=635x10000:format=png/path/s2b48f01cf0d87509/image/i678662383f716d67/version/1469371118/image.png)
-  
-
-
-
-
+源地址：[\[1\]](https://image.jimcdn.com/app/cms/image/transf/dimension=635x10000:format=png/path/s2b48f01cf0d87509/image/i678662383f716d67/version/1469371118/image.png)  
 
 ---
 

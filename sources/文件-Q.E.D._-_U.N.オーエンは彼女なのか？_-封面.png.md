@@ -1,6 +1,6 @@
 # 文件:Q.E.D._-_U.N.オーエンは彼女なのか？_-封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ea\ns6%3AQ%2EE%2ED%2E_-_U%2EN%2E%E3%82%AA%E3%83%BC%E3%82%A8%E3%83%B3%E3%81%AF%E5%BD%BC%E5%A5%B3%E3%81%AA%E3%81%AE%E3%81%8B%EF%BC%9F_-%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ea\ns6%3AQ%2EE%2ED%2E_-_U%2EN%2E%E3%82%AA%E3%83%BC%E3%82%A8%E3%83%B3%E3%81%AF%E5%BD%BC%E5%A5%B3%E3%81%AA%E3%81%AE%E3%81%8B%EF%BC%9F_-%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 mondorium | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ mondorium | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Q.E.D. - U.N.オーエンは彼女なのか？ -](./Q.E.D._-_U.N.オーエンは彼女なのか？_-.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
-
-
-
+- [Q.E.D. - U.N.オーエンは彼女なのか？ -](./Q.E.D._-_U.N.オーエンは彼女なのか？_-.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
 
 ---

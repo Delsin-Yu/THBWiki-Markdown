@@ -1,6 +1,6 @@
 # 文件:MOON_RIVER～永啼鳥・傍篇②～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b9\ns6%3AMOON_RIVER%EF%BD%9E%E6%B0%B8%E5%95%BC%E9%B3%A5%E3%83%BB%E5%82%8D%E7%AF%87%E2%91%A1%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b9\ns6%3AMOON_RIVER%EF%BD%9E%E6%B0%B8%E5%95%BC%E9%B3%A5%E3%83%BB%E5%82%8D%E7%AF%87%E2%91%A1%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 DELI-TRE | 同人志封面 | 封面图片
 
@@ -8,11 +8,9 @@ DELI-TRE | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [MOON RIVER～永啼鳥・傍篇②～](./MOON_RIVER～永啼鳥・傍篇②～.md)  
-该封面包含的角色：- [上白泽慧音](./上白泽慧音.md)- [藤原妹红](./藤原妹红.md)
-
-
-
+- [MOON RIVER～永啼鳥・傍篇②～](./MOON_RIVER～永啼鳥・傍篇②～.md)该封面包含的角色：
+- [上白泽慧音](./上白泽慧音.md)
+- [藤原妹红](./藤原妹红.md)
 
 
 ---

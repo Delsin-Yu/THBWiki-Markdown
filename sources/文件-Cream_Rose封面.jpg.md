@@ -1,6 +1,6 @@
 # 文件:Cream_Rose封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1c\ns6%3ACream_Rose%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1c\ns6%3ACream_Rose%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 常綠樹林
 
@@ -10,11 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Cream Rose](./Cream_Rose.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [永江衣玖](./永江衣玖.md)- [洩矢诹访子](./洩矢诹访子.md)- [物部布都](./物部布都.md)
-
-
-
+- [Cream Rose](./Cream_Rose.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [永江衣玖](./永江衣玖.md)
+- [洩矢诹访子](./洩矢诹访子.md)
+- [物部布都](./物部布都.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Eden's_concert封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\57\ns6%3AEden%27s_concert%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\57\ns6%3AEden%27s_concert%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 StarGazer_C+ | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ StarGazer_C+ | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Eden's concert](./Eden's_concert.md)  
-该封面包含的角色：- [古明地觉](./古明地觉.md)
-
-
-
+- [Eden's concert](./Eden's_concert.md)该封面包含的角色：
+- [古明地觉](./古明地觉.md)
 
 
 ---

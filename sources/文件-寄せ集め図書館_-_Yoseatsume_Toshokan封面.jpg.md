@@ -1,6 +1,6 @@
 # 文件:寄せ集め図書館_-_Yoseatsume_Toshokan封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a8\ns6%3A%E5%AF%84%E3%81%9B%E9%9B%86%E3%82%81%E5%9B%B3%E6%9B%B8%E9%A4%A8_-_Yoseatsume_Toshokan%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a8\ns6%3A%E5%AF%84%E3%81%9B%E9%9B%86%E3%82%81%E5%9B%B3%E6%9B%B8%E9%A4%A8_-_Yoseatsume_Toshokan%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 T：y | 专辑封面 | 封面图片
 
@@ -8,16 +8,12 @@ T：y | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [寄せ集め図書館 - Yoseatsume Toshokan](./寄せ集め図書館_-_Yoseatsume_Toshokan.md)  
-该封面包含的角色：- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
+- [寄せ集め図書館 - Yoseatsume Toshokan](./寄せ集め図書館_-_Yoseatsume_Toshokan.md)该封面包含的角色：
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
 
   
 源地址: TLMC扫描改编
   
-
-
-
-
 
 ---
 

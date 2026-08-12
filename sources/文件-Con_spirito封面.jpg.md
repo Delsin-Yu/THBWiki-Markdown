@@ -1,6 +1,6 @@
 # 文件:Con_spirito封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\af\ns6%3ACon_spirito%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\af\ns6%3ACon_spirito%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 T.Piacere | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ T.Piacere | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [con spirito](./con_spirito.md)  
-该封面包含的角色：- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
-
-
-
+- [con spirito](./con_spirito.md)该封面包含的角色：
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
 
 
 ---

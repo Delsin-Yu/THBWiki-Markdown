@@ -1,6 +1,6 @@
 # 文件:秘封倶楽部最後の一日_～_Danger.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\61\ns6%3A%E7%A7%98%E5%B0%81%E5%80%B6%E6%A5%BD%E9%83%A8%E6%9C%80%E5%BE%8C%E3%81%AE%E4%B8%80%E6%97%A5_%EF%BD%9E_Danger%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\61\ns6%3A%E7%A7%98%E5%B0%81%E5%80%B6%E6%A5%BD%E9%83%A8%E6%9C%80%E5%BE%8C%E3%81%AE%E4%B8%80%E6%97%A5_%EF%BD%9E_Danger%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 作者不明 | 同人志封面 | 封面图片
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [秘封倶楽部最後の一日 ～ Danger.](./秘封倶楽部最後の一日_～_Danger..md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [秘封倶楽部最後の一日 ～ Danger.](./秘封倶楽部最後の一日_～_Danger..md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

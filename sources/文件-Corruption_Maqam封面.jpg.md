@@ -1,6 +1,6 @@
 # 文件:Corruption_Maqam封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2d\ns6%3ACorruption_Maqam%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2d\ns6%3ACorruption_Maqam%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Metaluna | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Metaluna | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Corruption Maqam](./Corruption_Maqam.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
+- [Corruption Maqam](./Corruption_Maqam.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
   
-[Pixiv artwork ID: 7871816 (original size)](https://www.pixiv.net/artworks/7871816)
-  
-
-
-
-
+[Pixiv artwork ID: 7871816 (original size)](https://www.pixiv.net/artworks/7871816)  
 
 ---
 

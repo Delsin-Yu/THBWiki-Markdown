@@ -1,21 +1,17 @@
 # Doctor_Pachi_Episode_1
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\a\ac\ns0%3ADoctor_Pachi_Episode_1.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\a\ac\ns0%3ADoctor_Pachi_Episode_1.html -->
 
 2012年1月17日 由 DoD Team  发布的RPG同人游戏，游戏人数为 单人模式，分级为 R15
 
 本页是关于东方Project  
- **二次创作同人软件 (未找到链接)** 的词条
-
+**[二次创作同人软件](./二次创作.md#同人软件)**的词条
 ## 目录
 
 - [1 软件信息](#软件信息)
 - [2 Staff](#Staff)
 - [3 内容页面](#内容页面)
 - [4 评论](#评论)
-
-
-
 
 
 ## 软件信息
@@ -26,31 +22,22 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://dod.4otaku.org/p/196">http://dod.4otaku.org/p/196</a><br><span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span><small>（<a rel="nofollow" class="external text" href="https://web.archive.org/web/20160528175745/http://dod.4otaku.org/p/196">缓存页面</a>）</small></td></tr></tbody></table>
 
 Doctor Pachi Episode 1（同人游戏，DoD Team，2012） - 2012年1月17日 由 DoD Team  发布的RPG同人游戏，游戏人数为 单人模式，分级为 R15
-  
-  
-
-  
-
-
 <table>
 <tbody><tr><th colspan="2">配置需求</th></tr>
 <tr><td style="width:120px;padding-left:7px;"><b>硬盘需求</b></td><td>52MB</td></tr><tr><td style="width:120px;padding-left:7px;"><b>其他</b></td><td>RPG Maker XP RTP</td></tr>
 </tbody></table>
 
 
-
 ## Staff
 
 ## 内容页面
+
 - 游戏设定与剧情 (未找到链接)
 - 攻略 (未找到链接)
 - 其他信息 (未找到链接)
 
 
 ## 评论
-
-
-
 
 ---
 

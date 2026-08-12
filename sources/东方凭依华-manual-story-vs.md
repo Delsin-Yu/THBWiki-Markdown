@@ -1,34 +1,28 @@
 # 东方凭依华/manual/story-vs
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\25\ns0%3A%E4%B8%9C%E6%96%B9%E5%87%AD%E4%BE%9D%E5%8D%8E%2Fmanual%2Fstory-vs.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\25\ns0%3A%E4%B8%9C%E6%96%B9%E5%87%AD%E4%BE%9D%E5%8D%8E%2Fmanual%2Fstory-vs.html -->
 
 东方凭依华
+
 
 - 来自[黄昏边境官方网站](http://tasofro.net/touhou155/manual/story-vs.html)的ONLINE MANUAL故事对战画面页面。
 
 <center>
-
 <table>
 <tbody><tr>
-<td>&lt;
+<td><
 </td>
-<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./东方凭依华-manual-vs.md" title="东方凭依华/manual/vs">对战画面</a>&#160;
+<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./东方凭依华-manual-vs.md" title="东方凭依华/manual/vs">对战画面</a> 
 </td>
-<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="./东方凭依华-manual.md" title="东方凭依华/manual">Manual目录</a>&#160;
+<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;"> <a href="./东方凭依华-manual.md" title="东方凭依华/manual">Manual目录</a> 
 </td>
-<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left">&#160;<a href="./东方凭依华-manual-system.md" title="东方凭依华/manual/system">基本游戏系统</a>
+<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left"> <a href="./东方凭依华-manual-system.md" title="东方凭依华/manual/system">基本游戏系统</a>
 </td>
-<td>&gt;
+<td>>
 </td></tr></tbody></table>
 
   
-</center>
-[](./文件-东方凭依华OnlineManual_story-vs.jpg.md)
-  
-  
-
-  
-
+</center><img alt="东方凭依华OnlineManual story-vs.jpg" src="https://upload.thwiki.cc/thumb/4/4e/%E4%B8%9C%E6%96%B9%E5%87%AD%E4%BE%9D%E5%8D%8EOnlineManual_story-vs.jpg/600px-%E4%B8%9C%E6%96%B9%E5%87%AD%E4%BE%9D%E5%8D%8EOnlineManual_story-vs.jpg" decoding="async" loading="lazy" width="600" height="347" srcset="https://upload.thwiki.cc/4/4e/%E4%B8%9C%E6%96%B9%E5%87%AD%E4%BE%9D%E5%8D%8EOnlineManual_story-vs.jpg 1.5x" data-file-width="900" data-file-height="520">
 
 <table>
 
@@ -39,7 +33,6 @@
 </p>
 </td></tr></tbody></table>
 
-
   
 故事模式中对手会进行符卡宣言并且展开屏障  
 
@@ -49,10 +42,6 @@
 
 对手的主役与下仆会发动合作攻击，看穿这个间隙的时机进行反击是胜利的捷径
   
-
-
-
-
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:Grateful_Journey（えるれ～しょん）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ee\ns6%3AGrateful_Journey%EF%BC%88%E3%81%88%E3%82%8B%E3%82%8C%EF%BD%9E%E3%81%97%E3%82%87%E3%82%93%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ee\ns6%3AGrateful_Journey%EF%BC%88%E3%81%88%E3%82%8B%E3%82%8C%EF%BD%9E%E3%81%97%E3%82%87%E3%82%93%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 えるれ～しょん | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Grateful Journey（えるれ～しょん）](./Grateful_Journey（えるれ～しょん）.md)  
-该封面包含的角色：- [露易兹](./露易兹.md)
-
-
-
+- [Grateful Journey（えるれ～しょん）](./Grateful_Journey（えるれ～しょん）.md)该封面包含的角色：
+- [露易兹](./露易兹.md)
 
 
 ---

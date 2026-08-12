@@ -1,6 +1,6 @@
 # 文件:DOWN_DOWN_DOLL_-to_the_beginning_07-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\24\ns6%3ADOWN_DOWN_DOLL_-to_the_beginning_07-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\24\ns6%3ADOWN_DOWN_DOLL_-to_the_beginning_07-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 暁Records
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [DOWN DOWN DOLL -to the beginning 07-](./DOWN_DOWN_DOLL_-to_the_beginning_07-.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [DOWN DOWN DOLL -to the beginning 07-](./DOWN_DOWN_DOLL_-to_the_beginning_07-.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
 
   
-源地址：[[1]](http://ec.akbh.jp/upload/save_image/pics/2100000067237.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://ec.akbh.jp/upload/save_image/pics/2100000067237.jpg)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:First_Demo_Single封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\56\ns6%3AFirst_Demo_Single%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\56\ns6%3AFirst_Demo_Single%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Orbit／／Arclight | 专辑封面 | 封面图片
 
@@ -13,12 +13,7 @@ Orbit／／Arclight | 专辑封面 | 封面图片
 - [First Demo Single](./First_Demo_Single.md)
 
   
-源地址：[direct image link (original size)](https://pbs.twimg.com/media/FGPjKaAVQAA83Zy?format=jpg&amp;name=orig), [source tweet](https://twitter.com/OrbitArclight/status/1469267677718130688)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://pbs.twimg.com/media/FGPjKaAVQAA83Zy?format=jpg&name=orig), [source tweet](https://twitter.com/OrbitArclight/status/1469267677718130688)  
 
 ---
 

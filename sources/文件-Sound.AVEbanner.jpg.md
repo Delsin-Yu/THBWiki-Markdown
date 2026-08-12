@@ -1,14 +1,11 @@
 # 文件:Sound.AVEbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9f\ns6%3ASound%2EAVEbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9f\ns6%3ASound%2EAVEbanner%2Ejpg.html -->
 
 Sound.AVE | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

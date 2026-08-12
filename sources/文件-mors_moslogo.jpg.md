@@ -1,16 +1,11 @@
 # 文件:mors_moslogo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0c\ns6%3Amors_moslogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0c\ns6%3Amors_moslogo%2Ejpg.html -->
 
 mors_mos | 社团LOGO
 
   
-源地址：[[1]](https://booth.pximg.net/c/128x128/users/3774961/icon_image/644eb57b-4e0d-4ea7-9693-1b0592415c42_base_resized.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://booth.pximg.net/c/128x128/users/3774961/icon_image/644eb57b-4e0d-4ea7-9693-1b0592415c42_base_resized.jpg)  
 
 ---
 

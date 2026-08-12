@@ -1,6 +1,6 @@
 # 文件:Tradinational2封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ca\ns6%3ATradinational2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ca\ns6%3ATradinational2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 GOOD_LUC9 | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@ GOOD_LUC9 | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Tradinational2](./Tradinational2.md)  
-该封面包含的角色：- [鬼人正邪](./鬼人正邪.md)
+- [Tradinational2](./Tradinational2.md)该封面包含的角色：
+- [鬼人正邪](./鬼人正邪.md)
 
   
-源地址：[direct image link (original size)](https://pbs.twimg.com/media/F9wsCm5bMAAZ7W1?format=jpg&amp;name=orig), [source tweet](https://twitter.com/GSX250R_ANZIO/status/1719625321735999739)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://pbs.twimg.com/media/F9wsCm5bMAAZ7W1?format=jpg&name=orig), [source tweet](https://twitter.com/GSX250R_ANZIO/status/1719625321735999739)  
 
 ---
 

@@ -1,12 +1,8 @@
 # 文件:审判「Guilty_or_Not_Guilty」（文花帖）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\84\ns6%3A%E5%AE%A1%E5%88%A4%E3%80%8CGuilty_or_Not_Guilty%E3%80%8D%EF%BC%88%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\84\ns6%3A%E5%AE%A1%E5%88%A4%E3%80%8CGuilty_or_Not_Guilty%E3%80%8D%EF%BC%88%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Ejpg.html -->
 
 东方文花帖 | 四季映姬·夜摩仙那度 | 敌机符卡
-
-
-
-
 
 
 ---

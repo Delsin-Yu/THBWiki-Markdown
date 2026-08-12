@@ -1,12 +1,8 @@
 # 文件:乐谱「Score_Web」（天邪鬼）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cf\ns6%3A%E4%B9%90%E8%B0%B1%E3%80%8CScore_Web%E3%80%8D%EF%BC%88%E5%A4%A9%E9%82%AA%E9%AC%BC%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cf\ns6%3A%E4%B9%90%E8%B0%B1%E3%80%8CScore_Web%E3%80%8D%EF%BC%88%E5%A4%A9%E9%82%AA%E9%AC%BC%EF%BC%89%2Ejpg.html -->
 
 九十九弁弁 | 弹幕天邪鬼 | 敌机符卡
-
-
-
-
 
 
 ---

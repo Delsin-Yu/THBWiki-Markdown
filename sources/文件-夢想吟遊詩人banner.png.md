@@ -1,12 +1,8 @@
 # 文件:夢想吟遊詩人banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\64\ns6%3A%E5%A4%A2%E6%83%B3%E5%90%9F%E9%81%8A%E8%A9%A9%E4%BA%BAbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\64\ns6%3A%E5%A4%A2%E6%83%B3%E5%90%9F%E9%81%8A%E8%A9%A9%E4%BA%BAbanner%2Epng.html -->
 
 夢想吟遊詩人 | 社团LOGO
-
-
-
-
 
 
 ---

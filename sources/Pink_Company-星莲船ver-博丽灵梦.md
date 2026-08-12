@@ -1,37 +1,21 @@
 # Pink_Company/星莲船ver/博丽灵梦
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\7\72\ns0%3APink_Company%2F%E6%98%9F%E8%8E%B2%E8%88%B9ver%2F%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\7\72\ns0%3APink_Company%2F%E6%98%9F%E8%8E%B2%E8%88%B9ver%2F%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6.html -->
 
 博丽灵梦PVCFigure手办模型
 
 本页是关于东方Project  
- **相关实体周边 (未找到链接)** 的词条
-
+**相关实体周边 (未找到链接)**的词条
 ## 模型信息
 
-<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 博丽灵梦 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>星莲船ver</td></tr><tr><td class="label">角色</td><td><a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></td></tr><tr><td class="label">原型师</td><td><a href="/index.php?title=%E8%97%A4%E5%B4%8E_%E5%A3%AB%E6%9C%97&amp;action=edit&amp;redlink=1" class="new" title="藤崎 士朗（页面不存在）">藤崎 士朗</a></td></tr><tr><td class="label">尺寸</td><td>160mm</td></tr><tr><td class="label">状态</td><td>已发售</td></tr><tr><td class="label">售价</td><td>3142日元</td></tr><tr><td class="label">首发日期</td><td>2012-05-25</td></tr><tr><td class="label">发售方</td><td><a href="/index.php?title=Pink_Company&amp;action=edit&amp;redlink=1" class="new" title="Pink Company（页面不存在）">Pink Company</a></td></tr></tbody></table>
+<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 博丽灵梦 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>星莲船ver</td></tr><tr><td class="label">角色</td><td><a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></td></tr><tr><td class="label">原型师</td><td><a class="new" title="藤崎 士朗（页面不存在）">藤崎 士朗</a></td></tr><tr><td class="label">尺寸</td><td>160mm</td></tr><tr><td class="label">状态</td><td>已发售</td></tr><tr><td class="label">售价</td><td>3142日元</td></tr><tr><td class="label">首发日期</td><td>2012-05-25</td></tr><tr><td class="label">发售方</td><td><a class="new" title="Pink Company（页面不存在）">Pink Company</a></td></tr></tbody></table>
 
 Pink Company/星莲船ver/博丽灵梦（周边） - 博丽灵梦PVCFigure手办模型
-
 ## 参考图片
-
-
-
-[](./文件-Pink_Company星莲船ver博丽灵梦-1.jpg.md)
-
-
-[](./文件-Pink_Company星莲船ver博丽灵梦-2.jpg.md)
-
-
-[](./文件-Pink_Company星莲船ver博丽灵梦-3.jpg.md)
-
+<img alt="Pink Company星莲船ver博丽灵梦" src="https://upload.thwiki.cc/thumb/6/63/Pink_Company%E6%98%9F%E8%8E%B2%E8%88%B9ver%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6-1.jpg/358px-Pink_Company%E6%98%9F%E8%8E%B2%E8%88%B9ver%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6-1.jpg" decoding="async" loading="lazy" width="358" height="240" srcset="https://upload.thwiki.cc/thumb/6/63/Pink_Company%E6%98%9F%E8%8E%B2%E8%88%B9ver%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6-1.jpg/537px-Pink_Company%E6%98%9F%E8%8E%B2%E8%88%B9ver%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6-1.jpg 1.5x, https://upload.thwiki.cc/6/63/Pink_Company%E6%98%9F%E8%8E%B2%E8%88%B9ver%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6-1.jpg 2x" data-file-width="600" data-file-height="403">
+<img alt="Pink Company星莲船ver博丽灵梦" src="https://upload.thwiki.cc/thumb/0/06/Pink_Company%E6%98%9F%E8%8E%B2%E8%88%B9ver%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6-2.jpg/160px-Pink_Company%E6%98%9F%E8%8E%B2%E8%88%B9ver%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6-2.jpg" decoding="async" loading="lazy" width="160" height="241" srcset="https://upload.thwiki.cc/thumb/0/06/Pink_Company%E6%98%9F%E8%8E%B2%E8%88%B9ver%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6-2.jpg/240px-Pink_Company%E6%98%9F%E8%8E%B2%E8%88%B9ver%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6-2.jpg 1.5x, https://upload.thwiki.cc/thumb/0/06/Pink_Company%E6%98%9F%E8%8E%B2%E8%88%B9ver%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6-2.jpg/320px-Pink_Company%E6%98%9F%E8%8E%B2%E8%88%B9ver%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6-2.jpg 2x" data-file-width="477" data-file-height="717">
+<img alt="Pink Company星莲船ver博丽灵梦" src="https://upload.thwiki.cc/thumb/3/30/Pink_Company%E6%98%9F%E8%8E%B2%E8%88%B9ver%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6-3.jpg/160px-Pink_Company%E6%98%9F%E8%8E%B2%E8%88%B9ver%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6-3.jpg" decoding="async" loading="lazy" width="160" height="237" srcset="https://upload.thwiki.cc/thumb/3/30/Pink_Company%E6%98%9F%E8%8E%B2%E8%88%B9ver%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6-3.jpg/240px-Pink_Company%E6%98%9F%E8%8E%B2%E8%88%B9ver%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6-3.jpg 1.5x, https://upload.thwiki.cc/thumb/3/30/Pink_Company%E6%98%9F%E8%8E%B2%E8%88%B9ver%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6-3.jpg/320px-Pink_Company%E6%98%9F%E8%8E%B2%E8%88%B9ver%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6-3.jpg 2x" data-file-width="485" data-file-height="717">
 公式图
-
-
-
-
-
-
 
 ---
 

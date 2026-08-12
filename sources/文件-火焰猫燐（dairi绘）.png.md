@@ -1,12 +1,8 @@
 # 文件:火焰猫燐（dairi绘）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5c\ns6%3A%E7%81%AB%E7%84%B0%E7%8C%AB%E7%87%90%EF%BC%88dairi%E7%BB%98%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5c\ns6%3A%E7%81%AB%E7%84%B0%E7%8C%AB%E7%87%90%EF%BC%88dairi%E7%BB%98%EF%BC%89%2Epng.html -->
 
 NooblyPerson | 二次角色立绘 | 火焰猫燐（天陨梦）
-
-
-
-
 
 
 ---

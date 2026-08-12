@@ -1,6 +1,6 @@
 # 文件:Last_Lunar_Eclipse封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\06\ns6%3ALast_Lunar_Eclipse%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\06\ns6%3ALast_Lunar_Eclipse%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Our_Oath_Of_Office | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Our_Oath_Of_Office | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Last Lunar Eclipse](./Last_Lunar_Eclipse.md)  
-该封面包含的角色：- [圣白莲](./圣白莲.md)
-
-
-
+- [Last Lunar Eclipse](./Last_Lunar_Eclipse.md)该封面包含的角色：
+- [圣白莲](./圣白莲.md)
 
 
 ---

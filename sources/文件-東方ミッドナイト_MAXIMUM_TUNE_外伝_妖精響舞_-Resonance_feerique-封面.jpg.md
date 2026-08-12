@@ -1,6 +1,6 @@
 # 文件:東方ミッドナイト_MAXIMUM_TUNE_外伝_妖精響舞_-Resonance_feerique-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\25\ns6%3A%E6%9D%B1%E6%96%B9%E3%83%9F%E3%83%83%E3%83%89%E3%83%8A%E3%82%A4%E3%83%88_MAXIMUM_TUNE_%E5%A4%96%E4%BC%9D_%E5%A6%96%E7%B2%BE%E9%9F%BF%E8%88%9E_-Resonance_feerique-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\25\ns6%3A%E6%9D%B1%E6%96%B9%E3%83%9F%E3%83%83%E3%83%89%E3%83%8A%E3%82%A4%E3%83%88_MAXIMUM_TUNE_%E5%A4%96%E4%BC%9D_%E5%A6%96%E7%B2%BE%E9%9F%BF%E8%88%9E_-Resonance_feerique-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Golden_City_Factory | 专辑封面 | 封面图片
 
@@ -8,11 +8,10 @@ Golden_City_Factory | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方ミッドナイト MAXIMUM TUNE 外伝 妖精響舞 -Resonance feerique-](./東方ミッドナイト_MAXIMUM_TUNE_外伝_妖精響舞_-Resonance_feerique-.md)  
-该封面包含的角色：- [露娜切露德](./露娜切露德.md)- [桑尼米尔克](./桑尼米尔克.md)- [斯塔萨菲雅](./斯塔萨菲雅.md)
-
-
-
+- [東方ミッドナイト MAXIMUM TUNE 外伝 妖精響舞 -Resonance feerique-](./東方ミッドナイト_MAXIMUM_TUNE_外伝_妖精響舞_-Resonance_feerique-.md)该封面包含的角色：
+- [露娜切露德](./露娜切露德.md)
+- [桑尼米尔克](./桑尼米尔克.md)
+- [斯塔萨菲雅](./斯塔萨菲雅.md)
 
 
 ---

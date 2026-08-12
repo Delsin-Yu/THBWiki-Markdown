@@ -1,6 +1,6 @@
 # 文件:上海冷茶館HOT（視聴版）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\93\ns6%3A%E4%B8%8A%E6%B5%B7%E5%86%B7%E8%8C%B6%E9%A4%A8HOT%EF%BC%88%E8%A6%96%E8%81%B4%E7%89%88%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\93\ns6%3A%E4%B8%8A%E6%B5%B7%E5%86%B7%E8%8C%B6%E9%A4%A8HOT%EF%BC%88%E8%A6%96%E8%81%B4%E7%89%88%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 黒兎団
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [上海冷茶館HOT（視聴版）](./上海冷茶館HOT（視聴版）.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
+- [上海冷茶館HOT（視聴版）](./上海冷茶館HOT（視聴版）.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
   
-源地址：[direct image link](https://www.suruga-ya.jp/database/pics_light/game/186111735.jpg), [source page (suruga-ya ID: 186111735)](https://www.suruga-ya.jp/product/detail/186111735)
-  
-
-
-
-
+源地址：[direct image link](https://www.suruga-ya.jp/database/pics_light/game/186111735.jpg), [source page (suruga-ya ID: 186111735)](https://www.suruga-ya.jp/product/detail/186111735)  
 
 ---
 

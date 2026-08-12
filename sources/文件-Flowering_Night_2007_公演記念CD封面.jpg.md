@@ -1,6 +1,6 @@
 # 文件:Flowering_Night_2007_公演記念CD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c1\ns6%3AFlowering_Night_2007_%E5%85%AC%E6%BC%94%E8%A8%98%E5%BF%B5CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c1\ns6%3AFlowering_Night_2007_%E5%85%AC%E6%BC%94%E8%A8%98%E5%BF%B5CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Flowering_Night_実行委員会 | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Flowering_Night_実行委員会 | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Flowering Night 2007 公演記念CD](./Flowering_Night_2007_公演記念CD.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [Flowering Night 2007 公演記念CD](./Flowering_Night_2007_公演記念CD.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

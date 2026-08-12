@@ -1,6 +1,6 @@
 # 文件:King_for_Another_Day：_Jerry's_Encore封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f8\ns6%3AKing_for_Another_Day%EF%BC%9A_Jerry%27s_Encore%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f8\ns6%3AKing_for_Another_Day%EF%BC%9A_Jerry%27s_Encore%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 JerryStuff_-_Ro | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ JerryStuff_-_Ro | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [King for Another Day： Jerry's Encore](./King_for_Another_Day：_Jerry's_Encore.md)  
-该封面包含的角色：- 原创角色 (未找到链接)
-
-
-
+- [King for Another Day： Jerry's Encore](./King_for_Another_Day：_Jerry's_Encore.md)该封面包含的角色：
+- 原创角色 (未找到链接)
 
 
 ---

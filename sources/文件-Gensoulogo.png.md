@@ -1,16 +1,12 @@
 # 文件:Gensoulogo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9a\ns6%3AGensoulogo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9a\ns6%3AGensoulogo%2Epng.html -->
 
 此幻社 | 社团LOGO
 
   
 此幻社Logo
   
-
-
-
-
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:I_SEE_STARS_in_Urlandshaft封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3f\ns6%3AI_SEE_STARS_in_Urlandshaft%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3f\ns6%3AI_SEE_STARS_in_Urlandshaft%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ㊥ | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [I SEE STARS in Urlandshaft](./I_SEE_STARS_in_Urlandshaft.md)  
-该封面包含的角色：- [东风谷早苗](./东风谷早苗.md)
+- [I SEE STARS in Urlandshaft](./I_SEE_STARS_in_Urlandshaft.md)该封面包含的角色：
+- [东风谷早苗](./东风谷早苗.md)
 
   
-源地址：[direct image link (original size)](https://i1.sndcdn.com/artworks-000114926588-u6c59a-original.jpg), [source page (Soundcloud)](https://soundcloud.com/maru_naka/i-see-stars-in-urlandschaft)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://i1.sndcdn.com/artworks-000114926588-u6c59a-original.jpg), [source page (Soundcloud)](https://soundcloud.com/maru_naka/i-see-stars-in-urlandschaft)  
 
 ---
 

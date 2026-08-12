@@ -1,16 +1,12 @@
 # 模板:Freja东方project酒馆
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\0\02\ns10%3AFreja%E4%B8%9C%E6%96%B9project%E9%85%92%E9%A6%86.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\0\02\ns10%3AFreja%E4%B8%9C%E6%96%B9project%E9%85%92%E9%A6%86.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

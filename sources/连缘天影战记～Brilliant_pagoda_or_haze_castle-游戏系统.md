@@ -1,12 +1,11 @@
 # 连缘天影战记～Brilliant_pagoda_or_haze_castle/游戏系统
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\67\ns0%3A%E8%BF%9E%E7%BC%98%E5%A4%A9%E5%BD%B1%E6%88%98%E8%AE%B0%EF%BD%9EBrilliant_pagoda_or_haze_castle%2F%E6%B8%B8%E6%88%8F%E7%B3%BB%E7%BB%9F.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\67\ns0%3A%E8%BF%9E%E7%BC%98%E5%A4%A9%E5%BD%B1%E6%88%98%E8%AE%B0%EF%BD%9EBrilliant_pagoda_or_haze_castle%2F%E6%B8%B8%E6%88%8F%E7%B3%BB%E7%BB%9F.html -->
 
 トリック・ノスタルジー
 
-本页是关于 **向[东方Project](./东方Project.md)  
-致敬、形式类似的作品** 的词条
-
+本页是关于**向[东方Project](./东方Project.md)致敬、形式类似的作品**  
+的词条
 ## 目录
 
 - [1 副事件](#副事件)
@@ -15,9 +14,6 @@
 - [4 技能](#技能)
 - [5 成就](#成就)
 - [6 注释](#注释)
-
-
-
 
 
 ## 副事件
@@ -175,13 +171,12 @@
 <td>打倒杂兵会减少火力，打倒boss会掉落大量火力
 </td></tr></tbody></table>
 
-
   
 注：体验版中有“时间延迟”事件，正式版没有。
   
 
-
 ## 酒的获得
+
 - 击破杂鱼：E-N-H-U-EX-AEX→150-300-450-600-750-900
 - 符牌阶段：无论收不收都有一定的得分，获得的酒量为击破后得分÷(200/3)，通常弹幕阶段没有收益。
 - 关卡结算：每关结算分÷(200/3)
@@ -350,7 +345,6 @@
 <td>国主雀巳(monad1)</td>
 <td>提升其他人的升级效果
 </td></tr></tbody></table>
-
 
 
 ## 技能
@@ -718,12 +712,10 @@
 </td></tr></tbody></table>
 
 
-
 ## 成就
   
 在v1.20以前，解锁某些隐藏内容后标题界面会多一颗星星。在v1.20以后正式改为成就系统。
   
-
 
 <table>
 
@@ -828,7 +820,7 @@
 <td>以LV0的状态在故事模式通关不低于EASY的难度(不限路线)
 </td></tr>
 <tr>
-<td><span lang="ja">そんな装備で大丈夫か？</span><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">1</a></sup></td>
+<td><span lang="ja">そんな装備で大丈夫か？</span><span>[^cite_note-1]</span></td>
 <td>这样的装备没问题吗？</td>
 <td>以LV0的状态在故事模式通关不低于NORMAL的难度(不限路线)
 </td></tr>
@@ -883,13 +875,7 @@
 <td>取得其余所有成就
 </td></tr></tbody></table>
 
-
-
 [^cite_note-1]: 游戏《天使之王：梅塔特隆的飞升》宣传片中堕天使路西法的名台词。
-
-
-
-
 
 ---
 

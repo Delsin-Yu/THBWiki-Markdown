@@ -1,21 +1,17 @@
 # 与雾雨魔理沙一起偷重要的东西~Happy_Stealing_with_Kirisame_Marisa
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\42\ns0%3A%E4%B8%8E%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%E4%B8%80%E8%B5%B7%E5%81%B7%E9%87%8D%E8%A6%81%E7%9A%84%E4%B8%9C%E8%A5%BF%7EHappy_Stealing_with_Kirisame_Marisa.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\42\ns0%3A%E4%B8%8E%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%E4%B8%80%E8%B5%B7%E5%81%B7%E9%87%8D%E8%A6%81%E7%9A%84%E4%B8%9C%E8%A5%BF%7EHappy_Stealing_with_Kirisame_Marisa.html -->
 
 2018年6月29日 由 八雾游戏制作组  发布的AVG同人游戏，可在 Windows 系统上运行，游戏人数为 单人模式，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人软件 (未找到链接)** 的词条
-
+**[二次创作同人软件](./二次创作.md#同人软件)**的词条
 ## 目录
 
 - [1 软件信息](#软件信息)
 - [2 Staff](#Staff)
 - [3 内容页面](#内容页面)
 - [4 评论](#评论)
-
-
-
 
 
 ## 软件信息
@@ -25,14 +21,7 @@
 </tr><tr><td class="label">首发日期</td><td>2018-06-29</td></tr><tr><td class="label">类型</td><td>游戏</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">游戏人数</td><td>单人模式</td></tr><tr><td class="label">游戏类型</td><td>AVG</td></tr><tr><td class="label">运行平台</td><td>Windows</td></tr><tr><td class="label">语言</td><td>简体中文，英文</td></tr><tr><td class="label">售价</td><td>6人民币</td></tr></tbody></table>
 
 与雾雨魔理沙一起偷重要的东西~Happy Stealing with Kirisame Marisa（同人游戏，八雾游戏制作组，2018） - 2018年6月29日 由 八雾游戏制作组  发布的AVG同人游戏，可在 Windows 系统上运行，游戏人数为 单人模式，分级为 一般向
-
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://store.steampowered.com/app/880490">Steam</a></td></tr></tbody></table>
-
-
-  
-  
-
-  
 
 
 <table>
@@ -41,10 +30,10 @@
 </tbody></table>
 
 
-
 ## Staff
 
 ## 内容页面
+
 - 游戏设定与剧情 (未找到链接)
 - [攻略](./与雾雨魔理沙一起偷重要的东西~Happy_Stealing_with_Kirisame_Marisa-攻略.md)
 - 使用说明 (未找到链接)
@@ -52,9 +41,6 @@
 
 
 ## 评论
-
-
-
 
 ---
 

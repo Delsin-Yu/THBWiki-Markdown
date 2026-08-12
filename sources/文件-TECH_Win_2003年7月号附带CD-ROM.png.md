@@ -1,14 +1,11 @@
 # 文件:TECH_Win_2003年7月号附带CD-ROM.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3a\ns6%3ATECH_Win_2003%E5%B9%B47%E6%9C%88%E5%8F%B7%E9%99%84%E5%B8%A6CD-ROM%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3a\ns6%3ATECH_Win_2003%E5%B9%B47%E6%9C%88%E5%8F%B7%E9%99%84%E5%B8%A6CD-ROM%2Epng.html -->
 
 东方妖妖梦 | 官方游戏体验版光盘扫图
 
 
 ## 摘要
-
-
-
 
 ---
 

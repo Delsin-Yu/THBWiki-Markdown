@@ -1,6 +1,6 @@
 # 文件:Still_on_my_way封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c7\ns6%3AStill_on_my_way%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c7\ns6%3AStill_on_my_way%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 イノライ | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Still on my way](./Still_on_my_way.md)  
-该封面包含的角色：- [杖刀偶磨弓](./杖刀偶磨弓.md)
-
-
-
+- [Still on my way](./Still_on_my_way.md)该封面包含的角色：
+- [杖刀偶磨弓](./杖刀偶磨弓.md)
 
 
 ---

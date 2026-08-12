@@ -1,6 +1,6 @@
 # 文件:CRNO_House_scene_selects_Vol._01_-2017_Winter-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2f\ns6%3ACRNO_House_scene_selects_Vol%2E_01_-2017_Winter-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2f\ns6%3ACRNO_House_scene_selects_Vol%2E_01_-2017_Winter-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Chronographic_Records | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ Chronographic_Records | 专辑封面 | 封面图片
   
 
 - [CRNO House scene selects Vol. 01 -2017 Winter-](./CRNO_House_scene_selects_Vol._01_-2017_Winter-.md)
-
-
-
 
 
 ---

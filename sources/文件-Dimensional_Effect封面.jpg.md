@@ -1,6 +1,6 @@
 # 文件:Dimensional_Effect封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\85\ns6%3ADimensional_Effect%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\85\ns6%3ADimensional_Effect%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 AMONG_THE_GLOOM | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ AMONG_THE_GLOOM | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Dimensional Effect](./Dimensional_Effect.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [Dimensional Effect](./Dimensional_Effect.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
 
   
-源地址：[[1]](http://amongthegloom.wixsite.com/-atg?lightbox=dataItem-j8v23ty4)
-  
-
-
-
-
+源地址：[\[1\]](http://amongthegloom.wixsite.com/-atg?lightbox=dataItem-j8v23ty4)  
 
 ---
 

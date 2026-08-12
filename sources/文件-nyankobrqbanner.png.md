@@ -1,12 +1,8 @@
 # 文件:nyankobrqbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4c\ns6%3Anyankobrqbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4c\ns6%3Anyankobrqbanner%2Epng.html -->
 
 nyankobrq | 社团LOGO
-
-
-
-
 
 
 ---

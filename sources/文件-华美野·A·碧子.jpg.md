@@ -1,12 +1,8 @@
 # 文件:华美野·A·碧子.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ec\ns6%3A%E5%8D%8E%E7%BE%8E%E9%87%8E%C2%B7A%C2%B7%E7%A2%A7%E5%AD%90%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ec\ns6%3A%E5%8D%8E%E7%BE%8E%E9%87%8E%C2%B7A%C2%B7%E7%A2%A7%E5%AD%90%2Ejpg.html -->
 
 二次角色立绘 | 华美野·A·碧子 | 林檎ノスケ
-
-
-
-
 
 
 ---

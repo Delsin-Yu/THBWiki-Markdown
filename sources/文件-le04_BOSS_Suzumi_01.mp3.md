@@ -1,16 +1,12 @@
 # 文件:le04_BOSS_Suzumi_01.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\11\ns6%3Ale04_BOSS_Suzumi_01%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\11\ns6%3Ale04_BOSS_Suzumi_01%2Emp3.html -->
 
 连缘Project官方音乐MP3
 
   
 连缘天影战记6面Boss-国主雀巳（Hamee）主题曲
   
-
-
-
-
 
 ---
 

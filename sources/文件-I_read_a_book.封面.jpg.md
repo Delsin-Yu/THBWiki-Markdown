@@ -1,6 +1,6 @@
 # 文件:I_read_a_book.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ea\ns6%3AI_read_a_book%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ea\ns6%3AI_read_a_book%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Show_and_Tell | 同人志封面 | 封面图片
 
@@ -10,16 +10,12 @@ Show_and_Tell | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [I read a book.](./I_read_a_book..md)  
-该封面包含的角色：- [二岩猯藏](./二岩猯藏.md)- [本居小铃](./本居小铃.md)
+- [I read a book.](./I_read_a_book..md)该封面包含的角色：
+- [二岩猯藏](./二岩猯藏.md)
+- [本居小铃](./本居小铃.md)
 
   
-[Pixiv artwork ID: 43400279 (original size)](https://www.pixiv.net/artworks/43400279)
-  
-
-
-
-
+[Pixiv artwork ID: 43400279 (original size)](https://www.pixiv.net/artworks/43400279)  
 
 ---
 

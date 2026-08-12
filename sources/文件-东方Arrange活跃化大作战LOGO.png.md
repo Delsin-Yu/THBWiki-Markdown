@@ -1,12 +1,8 @@
 # 文件:东方Arrange活跃化大作战LOGO.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\42\ns6%3A%E4%B8%9C%E6%96%B9Arrange%E6%B4%BB%E8%B7%83%E5%8C%96%E5%A4%A7%E4%BD%9C%E6%88%98LOGO%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\42\ns6%3A%E4%B8%9C%E6%96%B9Arrange%E6%B4%BB%E8%B7%83%E5%8C%96%E5%A4%A7%E4%BD%9C%E6%88%98LOGO%2Epng.html -->
 
 东方Arrange活跃化大作战 | 活动LOGO
-
-
-
-
 
 
 ---

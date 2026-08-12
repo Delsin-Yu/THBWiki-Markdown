@@ -1,17 +1,12 @@
 # 文件:战场原妖精banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1d\ns6%3A%E6%88%98%E5%9C%BA%E5%8E%9F%E5%A6%96%E7%B2%BEbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1d\ns6%3A%E6%88%98%E5%9C%BA%E5%8E%9F%E5%A6%96%E7%B2%BEbanner%2Ejpg.html -->
 
 战场原妖精 | 社团LOGO
 
   
 LOGO制作：Tuno桐音 （[http://y.baidu.com/tunetung）](http://y.baidu.com/tunetung）)
-源地址：[http://y.baidu.com/gensonomirai](http://y.baidu.com/gensonomirai)
-  
-
-
-
-
+源地址：[http://y.baidu.com/gensonomirai](http://y.baidu.com/gensonomirai)  
 
 ---
 

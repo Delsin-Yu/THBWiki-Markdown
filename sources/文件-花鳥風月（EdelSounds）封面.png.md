@@ -1,6 +1,6 @@
 # 文件:花鳥風月（EdelSounds）封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6d\ns6%3A%E8%8A%B1%E9%B3%A5%E9%A2%A8%E6%9C%88%EF%BC%88EdelSounds%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6d\ns6%3A%E8%8A%B1%E9%B3%A5%E9%A2%A8%E6%9C%88%EF%BC%88EdelSounds%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 EdelSounds | 专辑封面 | 封面图片 | 月ノ鍵
 
@@ -10,11 +10,13 @@ EdelSounds | 专辑封面 | 封面图片 | 月ノ鍵
 使用了本文件作封面图片的作品：
   
 
-- [花鳥風月（EdelSounds）](./花鳥風月（EdelSounds）.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)- [橙](./橙.md)- [蓬莱山辉夜](./蓬莱山辉夜.md)- [藤原妹红](./藤原妹红.md)- [犬走椛](./犬走椛.md)
-
-
-
+- [花鳥風月（EdelSounds）](./花鳥風月（EdelSounds）.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [橙](./橙.md)
+- [蓬莱山辉夜](./蓬莱山辉夜.md)
+- [藤原妹红](./藤原妹红.md)
+- [犬走椛](./犬走椛.md)
 
 
 ---

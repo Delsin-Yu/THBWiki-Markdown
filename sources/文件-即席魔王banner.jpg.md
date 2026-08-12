@@ -1,14 +1,11 @@
 # 文件:即席魔王banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\93\ns6%3A%E5%8D%B3%E5%B8%AD%E9%AD%94%E7%8E%8Bbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\93\ns6%3A%E5%8D%B3%E5%B8%AD%E9%AD%94%E7%8E%8Bbanner%2Ejpg.html -->
 
 即席魔王 | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

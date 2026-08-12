@@ -1,6 +1,6 @@
 # 文件:東方ふゅーじょんdemo+４_&_幻視の夜～GhostlyEyes～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\94\ns6%3A%E6%9D%B1%E6%96%B9%E3%81%B5%E3%82%85%E3%83%BC%E3%81%98%E3%82%87%E3%82%93demo%2B%EF%BC%94_%26_%E5%B9%BB%E8%A6%96%E3%81%AE%E5%A4%9C%EF%BD%9EGhostlyEyes%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\94\ns6%3A%E6%9D%B1%E6%96%B9%E3%81%B5%E3%82%85%E3%83%BC%E3%81%98%E3%82%87%E3%82%93demo%2B%EF%BC%94_%26_%E5%B9%BB%E8%A6%96%E3%81%AE%E5%A4%9C%EF%BD%9EGhostlyEyes%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 UI-70 | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ UI-70 | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方ふゅーじょんdemo+４ &amp; 幻視の夜～GhostlyEyes～](./東方ふゅーじょんdemo+４_&_幻視の夜～GhostlyEyes～.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)
-
-
-
+- [東方ふゅーじょんdemo+４ & 幻視の夜～GhostlyEyes～](./東方ふゅーじょんdemo+４_&_幻視の夜～GhostlyEyes～.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
 
 
 ---

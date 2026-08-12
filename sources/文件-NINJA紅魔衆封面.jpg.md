@@ -1,6 +1,6 @@
 # 文件:NINJA紅魔衆封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\06\ns6%3ANINJA%E7%B4%85%E9%AD%94%E8%A1%86%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\06\ns6%3ANINJA%E7%B4%85%E9%AD%94%E8%A1%86%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 泥舟海運
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [NINJA紅魔衆](./NINJA紅魔衆.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
-
-
-
+- [NINJA紅魔衆](./NINJA紅魔衆.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Presence∝fTVA_SP00_『ピアノの狂気』封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\77\ns6%3APresence%E2%88%9DfTVA_SP00_%E3%80%8E%E3%83%94%E3%82%A2%E3%83%8E%E3%81%AE%E7%8B%82%E6%B0%97%E3%80%8F%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\77\ns6%3APresence%E2%88%9DfTVA_SP00_%E3%80%8E%E3%83%94%E3%82%A2%E3%83%8E%E3%81%AE%E7%8B%82%E6%B0%97%E3%80%8F%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Presence∝fTVA | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ Presence∝fTVA | 专辑封面 | 封面图片
   
 
 - [Presence∝fTVA SP00 『ピアノの狂気』](./Presence∝fTVA_SP00_『ピアノの狂気』.md)
-
-
-
 
 
 ---

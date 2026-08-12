@@ -1,6 +1,6 @@
 # 文件:Renegade_Buns_Promo封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e6\ns6%3ARenegade_Buns_Promo%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e6\ns6%3ARenegade_Buns_Promo%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Medicine_Faktory | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ Medicine_Faktory | 专辑封面 | 封面图片
   
 
 - [Renegade Buns Promo](./Renegade_Buns_Promo.md)
-
-
-
 
 
 ---

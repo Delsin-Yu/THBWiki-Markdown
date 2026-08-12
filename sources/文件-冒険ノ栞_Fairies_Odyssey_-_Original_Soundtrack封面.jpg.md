@@ -1,14 +1,11 @@
 # 文件:冒険ノ栞_Fairies_Odyssey_-_Original_Soundtrack封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0a\ns6%3A%E5%86%92%E9%99%BA%E3%83%8E%E6%A0%9E_Fairies_Odyssey_-_Original_Soundtrack%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0a\ns6%3A%E5%86%92%E9%99%BA%E3%83%8E%E6%A0%9E_Fairies_Odyssey_-_Original_Soundtrack%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 封面图片 | 没有被使用的封面文件
 
 
 ## 摘要
-
-
-
 
 ---
 

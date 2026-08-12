@@ -1,12 +1,8 @@
 # 文件:樱游社logo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\10\ns6%3A%E6%A8%B1%E6%B8%B8%E7%A4%BElogo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\10\ns6%3A%E6%A8%B1%E6%B8%B8%E7%A4%BElogo%2Epng.html -->
 
 樱游社 | 社团LOGO
-
-
-
-
 
 
 ---

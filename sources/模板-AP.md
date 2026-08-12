@@ -1,16 +1,12 @@
 # 模板:AP
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\0\0f\ns10%3AAP.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\0\0f\ns10%3AAP.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

@@ -1,18 +1,13 @@
 # 文件:东方智灵奇传_第2卷_COMIC_ZIN_特典.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f5\ns6%3A%E4%B8%9C%E6%96%B9%E6%99%BA%E7%81%B5%E5%A5%87%E4%BC%A0_%E7%AC%AC2%E5%8D%B7_COMIC_ZIN_%E7%89%B9%E5%85%B8%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f5\ns6%3A%E4%B8%9C%E6%96%B9%E6%99%BA%E7%81%B5%E5%A5%87%E4%BC%A0_%E7%AC%AC2%E5%8D%B7_COMIC_ZIN_%E7%89%B9%E5%85%B8%2Ejpg.html -->
 
 COMIC_ZIN | 东方智灵奇传 | 官方特典
 
 
 ## 文件说明
   
-[[1]](https://shop.comiczin.jp/upload/save_image/9784049136944 500t.jpg)
-  
-
-
-
-
+[\[1\]](https://shop.comiczin.jp/upload/save_image/9784049136944%20500t.jpg)  
 
 ---
 

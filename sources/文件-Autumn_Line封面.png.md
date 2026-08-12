@@ -1,6 +1,6 @@
 # 文件:Autumn_Line封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\87\ns6%3AAutumn_Line%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\87\ns6%3AAutumn_Line%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Languid_space | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Languid_space | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Autumn Line](./Autumn_Line.md)  
-该封面包含的角色：- [犬走椛](./犬走椛.md)
-
-
-
+- [Autumn Line](./Autumn_Line.md)该封面包含的角色：
+- [犬走椛](./犬走椛.md)
 
 
 ---

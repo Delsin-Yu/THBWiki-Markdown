@@ -1,12 +1,8 @@
 # 文件:Remember_memories.banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f0\ns6%3ARemember_memories%2Ebanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f0\ns6%3ARemember_memories%2Ebanner%2Ejpg.html -->
 
 Remember_memories. | 社团LOGO
-
-
-
-
 
 
 ---

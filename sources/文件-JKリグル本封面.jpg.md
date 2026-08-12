@@ -1,6 +1,6 @@
 # 文件:JKリグル本封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4b\ns6%3AJK%E3%83%AA%E3%82%B0%E3%83%AB%E6%9C%AC%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4b\ns6%3AJK%E3%83%AA%E3%82%B0%E3%83%AB%E6%9C%AC%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 控えめに言ってちやほやされたい
 
@@ -10,16 +10,13 @@
 使用了本文件作封面图片的作品：
   
 
-- [JKリグル本](./JKリグル本.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)- [大妖精](./大妖精.md)- [莉格露·奈特巴格](./莉格露·奈特巴格.md)
+- [JKリグル本](./JKリグル本.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
+- [大妖精](./大妖精.md)
+- [莉格露·奈特巴格](./莉格露·奈特巴格.md)
 
   
-[Pixiv artwork ID: 91933059](https://www.pixiv.net/artworks/91933059)
-  
-
-
-
-
+[Pixiv artwork ID: 91933059](https://www.pixiv.net/artworks/91933059)  
 
 ---
 

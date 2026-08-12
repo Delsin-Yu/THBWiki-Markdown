@@ -1,6 +1,6 @@
 # 东方资志疏_~_Immortal_Immanuel/其他
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\09\ns0%3A%E4%B8%9C%E6%96%B9%E8%B5%84%E5%BF%97%E7%96%8F_%7E_Immortal_Immanuel%2F%E5%85%B6%E4%BB%96.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\09\ns0%3A%E4%B8%9C%E6%96%B9%E8%B5%84%E5%BF%97%E7%96%8F_%7E_Immortal_Immanuel%2F%E5%85%B6%E4%BB%96.html -->
 
 沙包聚集地制作组
 
@@ -11,9 +11,6 @@
 - [2 关卡标题](#关卡标题)
 - [3 注释](#注释)
 - [4 词条导航](#词条导航)
-
-
-
 
 
 ## 难度标题及说明文字
@@ -79,7 +76,6 @@
 </tbody></table>
 
 
-
 ## 关卡标题
 
 <table>
@@ -117,17 +113,8 @@
 <td><center><big></big><br><br><small></small><br><small></small></center>
 </td></tr></tbody></table>
 
-
-
-
-## 词条导航
   
-东方资志疏 ~ Immortal Immanuel/导航 (未找到链接)
-  
-
-
-
-
+东方资志疏 ~ Immortal Immanuel/导航 (未找到链接)  
 
 ---
 

@@ -1,12 +1,8 @@
 # 文件:梦星琉璃-logo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\96\ns6%3A%E6%A2%A6%E6%98%9F%E7%90%89%E7%92%83-logo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\96\ns6%3A%E6%A2%A6%E6%98%9F%E7%90%89%E7%92%83-logo%2Ejpg.html -->
 
 夢星琉璃 | 社团LOGO
-
-
-
-
 
 
 ---

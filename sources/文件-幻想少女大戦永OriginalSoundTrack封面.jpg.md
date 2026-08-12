@@ -1,6 +1,6 @@
 # 文件:幻想少女大戦永OriginalSoundTrack封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\34\ns6%3A%E5%B9%BB%E6%83%B3%E5%B0%91%E5%A5%B3%E5%A4%A7%E6%88%A6%E6%B0%B8OriginalSoundTrack%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\34\ns6%3A%E5%B9%BB%E6%83%B3%E5%B0%91%E5%A5%B3%E5%A4%A7%E6%88%A6%E6%B0%B8OriginalSoundTrack%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 さんぼん堂 | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@
   
 
 - [幻想少女大戦永OriginalSoundTrack](./幻想少女大戦永OriginalSoundTrack.md)
-
-
-
 
 
 ---

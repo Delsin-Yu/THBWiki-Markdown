@@ -1,6 +1,6 @@
 # 文件:願い星の光は届かぬ_～Lost_Pendulum.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cc\ns6%3A%E9%A1%98%E3%81%84%E6%98%9F%E3%81%AE%E5%85%89%E3%81%AF%E5%B1%8A%E3%81%8B%E3%81%AC_%EF%BD%9ELost_Pendulum%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cc\ns6%3A%E9%A1%98%E3%81%84%E6%98%9F%E3%81%AE%E5%85%89%E3%81%AF%E5%B1%8A%E3%81%8B%E3%81%AC_%EF%BD%9ELost_Pendulum%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 こもりきり。 | 同人志封面 | 封面图片
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [願い星の光は届かぬ ～Lost Pendulum.](./願い星の光は届かぬ_～Lost_Pendulum..md)  
-该封面包含的角色：- [娜兹玲](./娜兹玲.md)- [寅丸星](./寅丸星.md)
-
-
-
+- [願い星の光は届かぬ ～Lost Pendulum.](./願い星の光は届かぬ_～Lost_Pendulum..md)该封面包含的角色：
+- [娜兹玲](./娜兹玲.md)
+- [寅丸星](./寅丸星.md)
 
 
 ---

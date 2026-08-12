@@ -1,16 +1,11 @@
 # 文件:秋空シンセシスbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\28\ns6%3A%E7%A7%8B%E7%A9%BA%E3%82%B7%E3%83%B3%E3%82%BB%E3%82%B7%E3%82%B9banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\28\ns6%3A%E7%A7%8B%E7%A9%BA%E3%82%B7%E3%83%B3%E3%82%BB%E3%82%B7%E3%82%B9banner%2Epng.html -->
 
 社团LOGO | 秋空シンセシス
 
   
-源地址：[[1]](http://akizora.net/images/link/banner.png)
-  
-
-
-
-
+源地址：[\[1\]](http://akizora.net/images/link/banner.png)  
 
 ---
 

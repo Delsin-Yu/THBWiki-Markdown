@@ -1,6 +1,6 @@
 # 文件:百鬼夜行（Sound_Refil）封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f9\ns6%3A%E7%99%BE%E9%AC%BC%E5%A4%9C%E8%A1%8C%EF%BC%88Sound_Refil%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f9\ns6%3A%E7%99%BE%E9%AC%BC%E5%A4%9C%E8%A1%8C%EF%BC%88Sound_Refil%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Sound_Refil | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Sound_Refil | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [百鬼夜行（Sound Refil）](./百鬼夜行（Sound_Refil）.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [百鬼夜行（Sound Refil）](./百鬼夜行（Sound_Refil）.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

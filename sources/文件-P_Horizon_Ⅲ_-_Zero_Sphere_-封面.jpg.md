@@ -1,6 +1,6 @@
 # 文件:P_Horizon_Ⅲ_-_Zero_Sphere_-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\50\ns6%3AP_Horizon_%E2%85%A2_-_Zero_Sphere_-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\50\ns6%3AP_Horizon_%E2%85%A2_-_Zero_Sphere_-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Cloister_Notes | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Cloister_Notes | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [P Horizon Ⅲ - Zero Sphere -](./P_Horizon_Ⅲ_-_Zero_Sphere_-.md)  
-该封面包含的角色：- [古明地恋](./古明地恋.md)
-
-
-
+- [P Horizon Ⅲ - Zero Sphere -](./P_Horizon_Ⅲ_-_Zero_Sphere_-.md)该封面包含的角色：
+- [古明地恋](./古明地恋.md)
 
 
 ---

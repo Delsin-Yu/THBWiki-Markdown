@@ -1,11 +1,12 @@
 # 东方Project人气投票/第11回
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\1\10\ns0%3A%E4%B8%9C%E6%96%B9Project%E4%BA%BA%E6%B0%94%E6%8A%95%E7%A5%A8%2F%E7%AC%AC11%E5%9B%9E.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\1\10\ns0%3A%E4%B8%9C%E6%96%B9Project%E4%BA%BA%E6%B0%94%E6%8A%95%E7%A5%A8%2F%E7%AC%AC11%E5%9B%9E.html -->
 
 东方Project人气投票
 
+
 - 本页面内容是东方Project第11回人气投票。
-- 原投票地址：[[1]](http://touhou.vote/v11/)
+- 原投票地址：[\[1\]](http://touhou.vote/v11/)
 
 
 ## 投票信息
@@ -19,31 +20,16 @@
 此外，本回投票加入了作品提名系统。
   
 
-
 ## 投票结果
-  
 <big>
-
-</big>  
-<big>- [角色部门](./东方Project人气投票-第11回-角色部门.md)
+- [角色部门](./东方Project人气投票-第11回-角色部门.md)
 - 音乐部门 (未找到链接)
 - 本次无官方作品部门
 - 组合部门 (未找到链接)
 - 作品提名（同人作部门） (未找到链接)
 - 调查问卷 (未找到链接)
-</big><big></big>  
-<big></big>  
 
-  
-
-  
-
-
-
-
-
-
-
+</big>
 ---
 
 此文档由 [THBWiki-Markdown-Builder](https://github.com/Delsin-Yu/THBWiki-Markdown-Builder) 构建。

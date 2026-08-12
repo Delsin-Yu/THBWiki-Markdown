@@ -1,12 +1,8 @@
 # 文件:长乐未央LOGO.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\25\ns6%3A%E9%95%BF%E4%B9%90%E6%9C%AA%E5%A4%AELOGO%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\25\ns6%3A%E9%95%BF%E4%B9%90%E6%9C%AA%E5%A4%AELOGO%2Ejpg.html -->
 
 活动LOGO | 长乐未央
-
-
-
-
 
 
 ---

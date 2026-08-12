@@ -1,6 +1,6 @@
 # 文件:おさないようじょ突発CD封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2c\ns6%3A%E3%81%8A%E3%81%95%E3%81%AA%E3%81%84%E3%82%88%E3%81%86%E3%81%98%E3%82%87%E7%AA%81%E7%99%BACD%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2c\ns6%3A%E3%81%8A%E3%81%95%E3%81%AA%E3%81%84%E3%82%88%E3%81%86%E3%81%98%E3%82%87%E7%AA%81%E7%99%BACD%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 おさないようじょ | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [おさないようじょ突発CD](./おさないようじょ突発CD.md)  
-该封面包含的角色：- [霍青娥](./霍青娥.md)
-
-
-
+- [おさないようじょ突発CD](./おさないようじょ突発CD.md)该封面包含的角色：
+- [霍青娥](./霍青娥.md)
 
 
 ---

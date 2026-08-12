@@ -1,6 +1,6 @@
 # 文件:Drizzle_Incident封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3d\ns6%3ADrizzle_Incident%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3d\ns6%3ADrizzle_Incident%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 MISTY_RAIN | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ MISTY_RAIN | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Drizzle Incident](./Drizzle_Incident.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [Drizzle Incident](./Drizzle_Incident.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

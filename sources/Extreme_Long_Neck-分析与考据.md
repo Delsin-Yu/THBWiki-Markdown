@@ -1,6 +1,6 @@
 # Extreme_Long_Neck/分析与考据
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\d\dc\ns0%3AExtreme_Long_Neck%2F%E5%88%86%E6%9E%90%E4%B8%8E%E8%80%83%E6%8D%AE.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\d\dc\ns0%3AExtreme_Long_Neck%2F%E5%88%86%E6%9E%90%E4%B8%8E%E8%80%83%E6%8D%AE.html -->
 
 符卡 | 赤蛮奇
 
@@ -13,16 +13,13 @@
 - [4 导航](#导航)
 
 
-
-
-
 ## 分析与考据
   
- **飛首「エクストリームロングネック」**  飞首「Extreme Long Neck」（极长的脖子）
+**飛首「エクストリームロングネック」** 飞首「Extreme Long Neck」（极长的脖子）
   
 
-- 辘轳首的其中一种可以把脖子伸得又长又细。参见赤蛮奇/分析考据#种族 (未找到链接)。
-- 弹幕天邪鬼中该符卡的场景标题 (未找到链接)提到「首長族」（长颈族）。
+- 辘轳首的其中一种可以把脖子伸得又长又细。参见[赤蛮奇/分析考据#种族](./赤蛮奇-分析考据.md#种族)。
+- 弹幕天邪鬼中[该符卡的场景标题](./弹幕天邪鬼-第二日.md#场景2)提到「首長族」（长颈族）。 
   - 指长颈族（Kayan Lahwi）[^cite_note-1]，是分布于缅泰边境的克耶族的分支，掸语称「巴东族」。
   - 族中的女人有从小在脖子上戴铜项圈的习俗。这最终会造成锁骨下沉，看起来像是脖子被拉长了。
 
@@ -30,18 +27,9 @@
 
 [^cite_note-1]: 中文维基百科：[长颈族](https://en.wikipedia.org/wiki/zh:长颈族)
 
-
 ## 参见
+
 - [赤蛮奇/分析考据](./赤蛮奇-分析考据.md)
-
-
-## 导航
-
-<table><tbody><tr><td><table cellspacing="0" class="nowraplinks mw-collapsible mw-collapsed" style="width:100%;;;"><tbody><tr><th style=";" colspan="3" class="navbox-title"><div class="navbar"><div class="noprint plainlinksneverexpand" style="background-color:transparent; padding:0; font-weight:normal; font-size:80%; white-space:nowrap;"><a href="./模板-赤蛮奇符卡导航.md" title="模板:赤蛮奇符卡导航"><span style=";;border:none;" title="查看这个模板">查</span></a>&#160;<span style="font-size:80%;">•</span>&#160;<a href="/index.php?title=%E6%A8%A1%E6%9D%BF:%E8%B5%A4%E8%9B%AE%E5%A5%87%E7%AC%A6%E5%8D%A1%E5%AF%BC%E8%88%AA&amp;action=edit"><span style=";;border:none;" title="您可以编辑这个模板。请在储存变更之前先预览">编</span></a></div></div><span><a href="./赤蛮奇.md" title="赤蛮奇">赤蛮奇</a>符卡</span></th></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">射击游戏</td><td style=";;" class="navbox-list navbox-odd"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div><a href="./东方辉针城.md" title="东方辉针城">东方辉针城</a></div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./Flying_Head.md" title="Flying Head" unred="">飞符「Flying Head」</a> &#8226; <a href="./Close-Eye_Shot.md" title="Close-Eye Shot" unred="">首符「Close-Eye Shot」</a> &#8226; <a href="./Close-Eye_Shot.md" title="Close-Eye Shot" unred="">首符「辘轳首飞来」</a> &#8226; <a href="./Multiplicative_Head.md" title="Multiplicative Head" unred="">飞头「Multiplicative Head」</a> &#8226; <a href="./Multiplicative_Head.md" title="Multiplicative Head" unred="">飞头「Seventh Head」</a> &#8226; <a href="./Multiplicative_Head.md" title="Multiplicative Head" unred="">飞头「Ninth Head」</a> &#8226; <a href="./Dullahan_Night.md" title="Dullahan Night" unred="">飞头「Dullahan Night」</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div><a href="./弹幕天邪鬼.md" title="弹幕天邪鬼">弹幕天邪鬼</a></div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./Extreme_Long_Neck.md" title="Extreme Long Neck" unred="">飞首「Extreme Long Neck」</a> &#8226; <a href="./Hell's_Ray.md" title="Hell&#39;s Ray" unred="">眼光「Hell's Ray」</a> &#8226; <a href="./Twin_Rokuro_Head.md" title="Twin Rokuro Head" unred="">飞首「Twin Rokuro Head」</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div><a href="./弹幕狂们的黑市.md" title="弹幕狂们的黑市">弹幕狂们的黑市</a></div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./Close-Eye_Shot.md" title="Close-Eye Shot" unred="">「轻快的人头生活」</a></div></td></tr></tbody></table><div></div></td><td class="navbox-image" style="" rowspan="3"><a href="./文件-赤蛮奇（Q版立绘）.png.md" class="image"><img alt="赤蛮奇（Q版立绘）.png" src="https://upload.thwiki.cc/thumb/2/26/%E8%B5%A4%E8%9B%AE%E5%A5%87%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png/160px-%E8%B5%A4%E8%9B%AE%E5%A5%87%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="160" height="160" srcset="https://upload.thwiki.cc/thumb/2/26/%E8%B5%A4%E8%9B%AE%E5%A5%87%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png/240px-%E8%B5%A4%E8%9B%AE%E5%A5%87%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/2/26/%E8%B5%A4%E8%9B%AE%E5%A5%87%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png/320px-%E8%B5%A4%E8%9B%AE%E5%A5%87%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="500" data-file-height="500"></a></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">出版物</td><td style=";;" class="navbox-list navbox-even"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div><a href="./东方文果真报.md" title="东方文果真报">东方文果真报</a></div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./Flying_Head.md" title="Flying Head" unred="">飞符「Flying Head」</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div><a href="./The_Grimoire_of_Usami.md" title="The Grimoire of Usami" unred="">宇佐见的魔法书</a></div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./Extreme_Long_Neck.md" title="Extreme Long Neck" unred="">飞首「Extreme Long Neck」</a></div></td></tr></tbody></table><div></div></td></tr></tbody></table></td></tr></tbody></table>
-
-
-
-
 
 
 ---

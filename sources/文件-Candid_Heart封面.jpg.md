@@ -1,6 +1,6 @@
 # 文件:Candid_Heart封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7d\ns6%3ACandid_Heart%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7d\ns6%3ACandid_Heart%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Kick-started_Speed | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@ Kick-started_Speed | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Candid Heart](./Candid_Heart.md)  
-该封面包含的角色：- [河城荷取](./河城荷取.md)
+- [Candid Heart](./Candid_Heart.md)该封面包含的角色：
+- [河城荷取](./河城荷取.md)
 
   
-源地址：[suruga-ya](https://www.suruga-ya.jp/product/detail/ZHORE109893)
-  
-
-
-
-
+源地址：[suruga-ya](https://www.suruga-ya.jp/product/detail/ZHORE109893)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 东方小学森_～_Beloved_primary_school_textbook/背景设定
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\5\50\ns0%3A%E4%B8%9C%E6%96%B9%E5%B0%8F%E5%AD%A6%E6%A3%AE_%EF%BD%9E_Beloved_primary_school_textbook%2F%E8%83%8C%E6%99%AF%E8%AE%BE%E5%AE%9A.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\5\50\ns0%3A%E4%B8%9C%E6%96%B9%E5%B0%8F%E5%AD%A6%E6%A3%AE_%EF%BD%9E_Beloved_primary_school_textbook%2F%E8%83%8C%E6%99%AF%E8%AE%BE%E5%AE%9A.html -->
 
 尹棱DANE
 
@@ -36,7 +36,6 @@
   
 来自幻想乡各地的人都去调查这股“来自小学课本”的灵压。
   
-
 
 ## Extra背景
   
@@ -81,10 +80,6 @@
   
 等待她们的是永恒。
   
-
-
-
-
 
 ---
 

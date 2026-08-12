@@ -1,16 +1,11 @@
 # 文件:Art_Book_Chipikabanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\49\ns6%3AArt_Book_Chipikabanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\49\ns6%3AArt_Book_Chipikabanner%2Ejpg.html -->
 
 Art_Book_Chipika | 社团LOGO
 
   
-源地址：[[1]](http://www.abchipika.jp/icon/abc_bannar.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://www.abchipika.jp/icon/abc_bannar.jpg)  
 
 ---
 

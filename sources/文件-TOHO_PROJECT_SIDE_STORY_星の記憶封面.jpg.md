@@ -1,6 +1,6 @@
 # 文件:TOHO_PROJECT_SIDE_STORY_星の記憶封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a0\ns6%3ATOHO_PROJECT_SIDE_STORY_%E6%98%9F%E3%81%AE%E8%A8%98%E6%86%B6%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a0\ns6%3ATOHO_PROJECT_SIDE_STORY_%E6%98%9F%E3%81%AE%E8%A8%98%E6%86%B6%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 SOUND_HOLIC | 封面图片 | 月見堂 | 视频封面
 
@@ -8,11 +8,10 @@ SOUND_HOLIC | 封面图片 | 月見堂 | 视频封面
 使用了本文件作封面图片的作品：
   
 
-- [TOHO PROJECT SIDE STORY 星の記憶](./TOHO_PROJECT_SIDE_STORY_星の記憶.md)  
-该封面包含的角色：- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)- [八意永琳](./八意永琳.md)- [蓬莱山辉夜](./蓬莱山辉夜.md)
-
-
-
+- [TOHO PROJECT SIDE STORY 星の記憶](./TOHO_PROJECT_SIDE_STORY_星の記憶.md)该封面包含的角色：
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
+- [八意永琳](./八意永琳.md)
+- [蓬莱山辉夜](./蓬莱山辉夜.md)
 
 
 ---

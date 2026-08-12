@@ -1,16 +1,12 @@
 # 文件:ssg_E10.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\02\ns6%3Assg_E10%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\02\ns6%3Assg_E10%2Epng.html -->
 
 秋霜玉
 
   
 秋霜玉敌机10像素图。
   
-
-
-
-
 
 ---
 

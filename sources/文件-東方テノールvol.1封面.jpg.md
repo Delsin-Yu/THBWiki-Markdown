@@ -1,6 +1,6 @@
 # 文件:東方テノールvol.1封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9f\ns6%3A%E6%9D%B1%E6%96%B9%E3%83%86%E3%83%8E%E3%83%BC%E3%83%ABvol%2E1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9f\ns6%3A%E6%9D%B1%E6%96%B9%E3%83%86%E3%83%8E%E3%83%BC%E3%83%ABvol%2E1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 劇情テノール | 封面图片
 
@@ -8,16 +8,14 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方テノールvol.1](./東方テノールvol.1.md)  
-该封面包含的角色：- [红美铃](./红美铃.md)- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [魂魄妖梦](./魂魄妖梦.md)- [水桥帕露西](./水桥帕露西.md)
+- [東方テノールvol.1](./東方テノールvol.1.md)该封面包含的角色：
+- [红美铃](./红美铃.md)
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [魂魄妖梦](./魂魄妖梦.md)
+- [水桥帕露西](./水桥帕露西.md)
 
   
-源地址：[[1]](https://web.archive.org/web/20160326012333im_/http://aka-on.com/mobile/tokusetsu/gekijo_vol1.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://web.archive.org/web/20160326012333im_/http://aka-on.com/mobile/tokusetsu/gekijo_vol1.jpg)  
 
 ---
 

@@ -1,14 +1,11 @@
 # 文件:Floresta_Prateadabanner2.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\00\ns6%3AFloresta_Prateadabanner2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\00\ns6%3AFloresta_Prateadabanner2%2Ejpg.html -->
 
 Floresta_Prateada | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

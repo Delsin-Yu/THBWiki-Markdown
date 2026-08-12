@@ -1,12 +1,8 @@
 # 文件:アンニュイ赤蛸banner2.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\77\ns6%3A%E3%82%A2%E3%83%B3%E3%83%8B%E3%83%A5%E3%82%A4%E8%B5%A4%E8%9B%B8banner2%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\77\ns6%3A%E3%82%A2%E3%83%B3%E3%83%8B%E3%83%A5%E3%82%A4%E8%B5%A4%E8%9B%B8banner2%2Egif.html -->
 
 アンニュイ赤蛸 | 社团LOGO
-
-
-
-
 
 
 ---

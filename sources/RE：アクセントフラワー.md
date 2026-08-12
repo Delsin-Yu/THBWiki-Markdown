@@ -1,12 +1,11 @@
 # RE：アクセントフラワー
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\1\13\ns0%3ARE%EF%BC%9A%E3%82%A2%E3%82%AF%E3%82%BB%E3%83%B3%E3%83%88%E3%83%95%E3%83%A9%E3%83%AF%E3%83%BC.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\1\13\ns0%3ARE%EF%BC%9A%E3%82%A2%E3%82%AF%E3%82%BB%E3%83%B3%E3%83%88%E3%83%95%E3%83%A9%E3%83%AF%E3%83%BC.html -->
 
 2022年1月16日 由 棒電気  发布的漫画同人志，B5尺寸一共28页，登场人物有 宇佐见莲子、玛艾露贝莉·赫恩、里香，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人志 (未找到链接)** 的词条
-
+**[二次创作同人志](./二次创作.md#同人志)**的词条
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-RE：アクセントフラワー封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/8/88/RE%EF%BC%9A%E3%82%A2%E3%82%AF%E3%82%BB%E3%83%B3%E3%83%88%E3%83%95%E3%83%A9%E3%83%AF%E3%83%BC%E5%B0%81%E9%9D%A2.jpg/169px-RE%EF%BC%9A%E3%82%A2%E3%82%AF%E3%82%BB%E3%83%B3%E3%83%88%E3%83%95%E3%83%A9%E3%83%AF%E3%83%BC%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="169" height="224" srcset="https://upload.thwiki.cc/thumb/8/88/RE%EF%BC%9A%E3%82%A2%E3%82%AF%E3%82%BB%E3%83%B3%E3%83%88%E3%83%95%E3%83%A9%E3%83%AF%E3%83%BC%E5%B0%81%E9%9D%A2.jpg/253px-RE%EF%BC%9A%E3%82%A2%E3%82%AF%E3%82%BB%E3%83%B3%E3%83%88%E3%83%95%E3%83%A9%E3%83%AF%E3%83%BC%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/8/88/RE%EF%BC%9A%E3%82%A2%E3%82%AF%E3%82%BB%E3%83%B3%E3%83%88%E3%83%95%E3%83%A9%E3%83%AF%E3%83%BC%E5%B0%81%E9%9D%A2.jpg/337px-RE%EF%BC%9A%E3%82%A2%E3%82%AF%E3%82%BB%E3%83%B3%E3%83%88%E3%83%95%E3%83%A9%E3%83%AF%E3%83%BC%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="678" data-file-height="900"></a><div class="cover-char">角色：<a href="./宇佐见莲子.md" title="宇佐见莲子">宇佐见莲子</a>，<a href="./玛艾露贝莉·赫恩.md" title="玛艾露贝莉·赫恩">玛艾露贝莉·赫恩</a>，<a href="./里香.md" title="里香">里香</a></div></td>
@@ -15,22 +14,24 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/95786162">https://www.pixiv.net/artworks/95786162</a></td></tr></tbody></table>
 
 RE：アクセントフラワー（同人志，棒電気，2022） - 2022年1月16日 由 棒電気  发布的漫画同人志，B5尺寸一共28页，登场人物有 宇佐见莲子、玛艾露贝莉·赫恩、里香，分级为 一般向
-
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=1192282">蜜瓜纸质书</a>，<a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=1198544">蜜瓜电子书</a></td></tr></tbody></table>
 
 
-
 ## 预览
-- [](./文件-RE：アクセントフラワー预览图1.jpg.md)- [](./文件-RE：アクセントフラワー预览图2.jpg.md)- [](./文件-RE：アクセントフラワー预览图3.jpg.md)- [](./文件-RE：アクセントフラワー预览图4.jpg.md)
+
+- <img alt="RE：アクセントフラワー预览图1.jpg" src="https://upload.thwiki.cc/thumb/c/c5/RE%EF%BC%9A%E3%82%A2%E3%82%AF%E3%82%BB%E3%83%B3%E3%83%88%E3%83%95%E3%83%A9%E3%83%AF%E3%83%BC%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg/268px-RE%EF%BC%9A%E3%82%A2%E3%82%AF%E3%82%BB%E3%83%B3%E3%83%88%E3%83%95%E3%83%A9%E3%83%AF%E3%83%BC%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg" decoding="async" loading="lazy" width="179" height="250" srcset="https://upload.thwiki.cc/thumb/c/c5/RE%EF%BC%9A%E3%82%A2%E3%82%AF%E3%82%BB%E3%83%B3%E3%83%88%E3%83%95%E3%83%A9%E3%83%AF%E3%83%BC%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg/402px-RE%EF%BC%9A%E3%82%A2%E3%82%AF%E3%82%BB%E3%83%B3%E3%83%88%E3%83%95%E3%83%A9%E3%83%AF%E3%83%BC%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg 1.5x, https://upload.thwiki.cc/thumb/c/c5/RE%EF%BC%9A%E3%82%A2%E3%82%AF%E3%82%BB%E3%83%B3%E3%83%88%E3%83%95%E3%83%A9%E3%83%AF%E3%83%BC%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg/536px-RE%EF%BC%9A%E3%82%A2%E3%82%AF%E3%82%BB%E3%83%B3%E3%83%88%E3%83%95%E3%83%A9%E3%83%AF%E3%83%BC%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg 2x" data-file-width="643" data-file-height="900"> 
+- <img alt="RE：アクセントフラワー预览图2.jpg" src="https://upload.thwiki.cc/thumb/f/f1/RE%EF%BC%9A%E3%82%A2%E3%82%AF%E3%82%BB%E3%83%B3%E3%83%88%E3%83%95%E3%83%A9%E3%83%AF%E3%83%BC%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg/268px-RE%EF%BC%9A%E3%82%A2%E3%82%AF%E3%82%BB%E3%83%B3%E3%83%88%E3%83%95%E3%83%A9%E3%83%AF%E3%83%BC%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg" decoding="async" loading="lazy" width="179" height="250" srcset="https://upload.thwiki.cc/thumb/f/f1/RE%EF%BC%9A%E3%82%A2%E3%82%AF%E3%82%BB%E3%83%B3%E3%83%88%E3%83%95%E3%83%A9%E3%83%AF%E3%83%BC%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg/402px-RE%EF%BC%9A%E3%82%A2%E3%82%AF%E3%82%BB%E3%83%B3%E3%83%88%E3%83%95%E3%83%A9%E3%83%AF%E3%83%BC%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg 1.5x, https://upload.thwiki.cc/thumb/f/f1/RE%EF%BC%9A%E3%82%A2%E3%82%AF%E3%82%BB%E3%83%B3%E3%83%88%E3%83%95%E3%83%A9%E3%83%AF%E3%83%BC%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg/536px-RE%EF%BC%9A%E3%82%A2%E3%82%AF%E3%82%BB%E3%83%B3%E3%83%88%E3%83%95%E3%83%A9%E3%83%AF%E3%83%BC%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg 2x" data-file-width="643" data-file-height="900"> 
+- <img alt="RE：アクセントフラワー预览图3.jpg" src="https://upload.thwiki.cc/thumb/d/d9/RE%EF%BC%9A%E3%82%A2%E3%82%AF%E3%82%BB%E3%83%B3%E3%83%88%E3%83%95%E3%83%A9%E3%83%AF%E3%83%BC%E9%A2%84%E8%A7%88%E5%9B%BE3.jpg/268px-RE%EF%BC%9A%E3%82%A2%E3%82%AF%E3%82%BB%E3%83%B3%E3%83%88%E3%83%95%E3%83%A9%E3%83%AF%E3%83%BC%E9%A2%84%E8%A7%88%E5%9B%BE3.jpg" decoding="async" loading="lazy" width="179" height="250" srcset="https://upload.thwiki.cc/thumb/d/d9/RE%EF%BC%9A%E3%82%A2%E3%82%AF%E3%82%BB%E3%83%B3%E3%83%88%E3%83%95%E3%83%A9%E3%83%AF%E3%83%BC%E9%A2%84%E8%A7%88%E5%9B%BE3.jpg/402px-RE%EF%BC%9A%E3%82%A2%E3%82%AF%E3%82%BB%E3%83%B3%E3%83%88%E3%83%95%E3%83%A9%E3%83%AF%E3%83%BC%E9%A2%84%E8%A7%88%E5%9B%BE3.jpg 1.5x, https://upload.thwiki.cc/thumb/d/d9/RE%EF%BC%9A%E3%82%A2%E3%82%AF%E3%82%BB%E3%83%B3%E3%83%88%E3%83%95%E3%83%A9%E3%83%AF%E3%83%BC%E9%A2%84%E8%A7%88%E5%9B%BE3.jpg/536px-RE%EF%BC%9A%E3%82%A2%E3%82%AF%E3%82%BB%E3%83%B3%E3%83%88%E3%83%95%E3%83%A9%E3%83%AF%E3%83%BC%E9%A2%84%E8%A7%88%E5%9B%BE3.jpg 2x" data-file-width="643" data-file-height="900"> 
+- <img alt="RE：アクセントフラワー预览图4.jpg" src="https://upload.thwiki.cc/thumb/e/ef/RE%EF%BC%9A%E3%82%A2%E3%82%AF%E3%82%BB%E3%83%B3%E3%83%88%E3%83%95%E3%83%A9%E3%83%AF%E3%83%BC%E9%A2%84%E8%A7%88%E5%9B%BE4.jpg/268px-RE%EF%BC%9A%E3%82%A2%E3%82%AF%E3%82%BB%E3%83%B3%E3%83%88%E3%83%95%E3%83%A9%E3%83%AF%E3%83%BC%E9%A2%84%E8%A7%88%E5%9B%BE4.jpg" decoding="async" loading="lazy" width="179" height="250" srcset="https://upload.thwiki.cc/thumb/e/ef/RE%EF%BC%9A%E3%82%A2%E3%82%AF%E3%82%BB%E3%83%B3%E3%83%88%E3%83%95%E3%83%A9%E3%83%AF%E3%83%BC%E9%A2%84%E8%A7%88%E5%9B%BE4.jpg/402px-RE%EF%BC%9A%E3%82%A2%E3%82%AF%E3%82%BB%E3%83%B3%E3%83%88%E3%83%95%E3%83%A9%E3%83%AF%E3%83%BC%E9%A2%84%E8%A7%88%E5%9B%BE4.jpg 1.5x, https://upload.thwiki.cc/thumb/e/ef/RE%EF%BC%9A%E3%82%A2%E3%82%AF%E3%82%BB%E3%83%B3%E3%83%88%E3%83%95%E3%83%A9%E3%83%AF%E3%83%BC%E9%A2%84%E8%A7%88%E5%9B%BE4.jpg/536px-RE%EF%BC%9A%E3%82%A2%E3%82%AF%E3%82%BB%E3%83%B3%E3%83%88%E3%83%95%E3%83%A9%E3%83%AF%E3%83%BC%E9%A2%84%E8%A7%88%E5%9B%BE4.jpg 2x" data-file-width="643" data-file-height="900"> 
 
 
 ## Staff
+
 - ロハタ (未找到链接)
 - 高橋しじみ (未找到链接)
 
 
 ## 评论
-
   
 蓮子とメリーの花や花言葉に関するお話  
 
@@ -39,10 +40,9 @@ RE：アクセントフラワー（同人志，棒電気，2022） - 2022年1月
 最新の技術でより人工的に創られた花言葉を禁じられた花だった。  
 
 メリーと蓮子は何を想うのか  
-
   
 
-___
+---
 
   
 关于莲子和梅莉的花与花语的故事  
@@ -53,12 +53,6 @@ ___
 
 梅莉和莲子又作何感想呢
   
-
-
-
-
-
-
 
 ---
 

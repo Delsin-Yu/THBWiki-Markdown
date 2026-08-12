@@ -1,12 +1,8 @@
 # 文件:C-CLAYS_banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9a\ns6%3AC-CLAYS_banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9a\ns6%3AC-CLAYS_banner%2Egif.html -->
 
 C-CLAYS | 社团LOGO
-
-
-
-
 
 
 ---

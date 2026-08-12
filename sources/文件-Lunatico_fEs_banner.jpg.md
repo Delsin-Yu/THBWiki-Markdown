@@ -1,12 +1,8 @@
 # 文件:Lunatico_fEs_banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b0\ns6%3ALunatico_fEs_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b0\ns6%3ALunatico_fEs_banner%2Ejpg.html -->
 
 Lunatico_fEs | 社团LOGO
-
-
-
-
 
 
 ---

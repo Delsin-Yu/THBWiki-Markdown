@@ -1,6 +1,6 @@
 # 文件:Ancient_Truth封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b7\ns6%3AAncient_Truth%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b7\ns6%3AAncient_Truth%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 PhantomMist | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ PhantomMist | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Ancient Truth](./Ancient_Truth.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)- [红美铃](./红美铃.md)
-
-
-
+- [Ancient Truth](./Ancient_Truth.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
+- [红美铃](./红美铃.md)
 
 
 ---

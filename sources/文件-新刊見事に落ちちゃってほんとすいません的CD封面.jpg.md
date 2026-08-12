@@ -1,6 +1,6 @@
 # 文件:新刊見事に落ちちゃってほんとすいません的CD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f1\ns6%3A%E6%96%B0%E5%88%8A%E8%A6%8B%E4%BA%8B%E3%81%AB%E8%90%BD%E3%81%A1%E3%81%A1%E3%82%83%E3%81%A3%E3%81%A6%E3%81%BB%E3%82%93%E3%81%A8%E3%81%99%E3%81%84%E3%81%BE%E3%81%9B%E3%82%93%E7%9A%84CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f1\ns6%3A%E6%96%B0%E5%88%8A%E8%A6%8B%E4%BA%8B%E3%81%AB%E8%90%BD%E3%81%A1%E3%81%A1%E3%82%83%E3%81%A3%E3%81%A6%E3%81%BB%E3%82%93%E3%81%A8%E3%81%99%E3%81%84%E3%81%BE%E3%81%9B%E3%82%93%E7%9A%84CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Siestail | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Siestail | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [新刊見事に落ちちゃってほんとすいません的CD](./新刊見事に落ちちゃってほんとすいません的CD.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [新刊見事に落ちちゃってほんとすいません的CD](./新刊見事に落ちちゃってほんとすいません的CD.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

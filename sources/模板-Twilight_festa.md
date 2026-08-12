@@ -1,16 +1,12 @@
 # 模板:Twilight_festa
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\8\80\ns10%3ATwilight_festa.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\8\80\ns10%3ATwilight_festa.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

@@ -1,17 +1,16 @@
 # 二色莲花蝶_～_Ancients
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\9\99\ns0%3A%E4%BA%8C%E8%89%B2%E8%8E%B2%E8%8A%B1%E8%9D%B6_%EF%BD%9E_Ancients.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\9\99\ns0%3A%E4%BA%8C%E8%89%B2%E8%8E%B2%E8%8A%B1%E8%9D%B6_%EF%BD%9E_Ancients.html -->
 
 由 ZUN 创作的官方曲目，原名 二色蓮花蝶　～ Ancients
 
 本页是关于东方Project  
- **原作音乐** 的词条
+**原作音乐**的词条
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 出现作品](#出现作品)
 - [3 音乐文件](#音乐文件)
-
   - [3.1 秋霜玉](#秋霜玉)
   - [3.2 东方幻想的音乐](#东方幻想的音乐)
   - [3.3 蓬莱人形](#蓬莱人形)
@@ -19,36 +18,25 @@
   - [3.5 深秘乐曲集](#深秘乐曲集)
 
 
-
 - [4 说明文本](#说明文本)
-
   - [4.1 秋霜玉](#秋霜玉_2)
-
     - [4.1.1 Music Room](#Music_Room)
     - [4.1.2 创曲幻想](#创曲幻想)
 
 
-
   - [4.2 东方幻想的音乐](#东方幻想的音乐_2)
-
     - [4.2.1 秋霜玉](#秋霜玉_3)
 
 
 
 
-
-
 - [5 其他资料](#其他资料)
-
   - [5.1 乐理资讯](#乐理资讯)
   - [5.2 分析考据](#分析考据)
   - [5.3 二次同人数据](#二次同人数据)
 
 
-
 - [6 注释](#注释)
-
-
 
 
 ## 基本信息
@@ -71,11 +59,11 @@
 
 
 ## 音乐文件
+
 ### 秋霜玉
   
 MP3由Roland SC-88Pro 实机录制。官方只发布MIDI而未发布MP3，故音轨长度以从游戏中提取的原MIDI文件为准。
   
-
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td><a href="./文件-sh01_18.mid.md" title="文件:sh01 18.mid">sh01_18.mid</a></td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-SE01_18.mp3.md" title="文件:SE01 18.mp3">SE01_18.mp3</a><br><audio src="https://upload.thwiki.cc/3/31/SE01_18.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>MUSIC\DATA0017（MIDI）</td></tr><tr><td><b>音轨时长</b></td><td>7:44</td></tr></tbody></table>
 
@@ -84,7 +72,6 @@ MP3由Roland SC-88Pro 实机录制。官方只发布MIDI而未发布MP3，故音
   
 MP3由Roland SC-88Pro 实机录制。官方只发布MIDI而未发布MP3，故音轨长度以原MIDI文件为准。
   
-
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td><a href="./文件-ssg_18.mid.md" title="文件:ssg 18.mid">ssg_18.mid</a></td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-ssg_18.mp3.md" title="文件:ssg 18.mp3">ssg_18.mp3</a><br><audio src="https://upload.thwiki.cc/a/ad/ssg_18.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td><a rel="nofollow" class="external free" href="http://www16.big.or.jp/~zun/html/music_old.html">http://www16.big.or.jp/~zun/html/music_old.html</a></td></tr><tr><td><b>音轨时长</b></td><td>4:31</td></tr></tbody></table>
 
@@ -105,9 +92,12 @@ MP3由Roland SC-88Pro 实机录制。官方只发布MIDI而未发布MP3，故音
 
 
 ## 说明文本
+
 ### 秋霜玉
+
 #### Music Room
-- Music Room (未找到链接)
+
+- [Music Room](./秋霜玉-Music.md#EX面boss博丽灵梦的主题曲)
 
 Extra Boss２，博丽灵梦的主题曲  
   
@@ -119,16 +109,19 @@ Extra Boss２，博丽灵梦的主题曲
 就巫女小姐而言，却是感觉不到智慧的曲子，  
 真是遗憾。但是，总之，我将其做得能帅气地避弹…二色莲花蝶  ～ Ancients
 #### 创曲幻想
-- 创曲幻想 (未找到链接)
+
+- [创曲幻想](./附带文档-秋霜玉-创曲幻想.md#曲名解说-19)
 
 【 二色莲花蝶 ～ Ancients 】Extra Boss１主题曲  
   
-Ancients&#160;: 老派人  
+Ancients : 老派人  
 顺便一提，写作「二色」，读作「ニイル」。读音是「ニイルレンカチョウ」。  
 初见，我想将其做成花札的役名一样，有和风感觉。此外，我也想将莲这个关键词放在什么地方。
 ### 东方幻想的音乐
+
 #### 秋霜玉
-- 东方幻想的音乐 (未找到链接)
+
+- [东方幻想的音乐](./东方幻想的音乐-过去的曲子-秋霜玉.md#二色莲花蝶_～_Ancients)
 
 +----------------------------------------------------------------------------+  
 |【 　 曲名　　】| 【 二色莲花蝶　～ Ancients 】  
@@ -142,7 +135,7 @@ Ancients&#160;: 老派人
 |                | 这种时候，请不要更动压缩包内部文件。  
 |【　 著作权 　】| ＺＵＮ (太田顺也）  
 |【演奏上的注意】| 用sc-88Pro 的人在演奏时请不要按55,88Map。  
-|                                             &#126;&#126;&#126;&#126;~   
+|                                             ~~~~~   
 +-----------------------------------------------------------------------------+  
 感谢您下载本文件。  
   
@@ -168,68 +161,79 @@ Ancients&#160;: 老派人
 　东方幻想空间　「博丽神社」 [http://www16.big.or.jp/~zun/](http://www16.big.or.jp/~zun/)  
 　e-Mail                     zun@big.or.jp
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
   
- **二色蓮花蝶　～ Ancients** 
+**二色蓮花蝶 ～ Ancients**
 二色莲花蝶　～ Ancients
   
   
- **二色蓮花蝶　～ Red and White** 
+**二色蓮花蝶 ～ Red and White**
 二色莲花蝶　～ Red and White
   
 
-- 二色
-  - 原曲初见于[秋霜玉](./秋霜玉.md)Extra关卡，[雾雨魔理沙](./雾雨魔理沙.md)和[博丽灵梦](./博丽灵梦.md)先后登场。
+- 二色 
+  - 原曲初见于[秋霜玉](./秋霜玉.md)Extra关卡，[雾雨魔理沙](./雾雨魔理沙.md)和[博丽灵梦](./博丽灵梦.md)先后登场。 
     - 可能意指红白的[博丽灵梦](./博丽灵梦.md)和黑白的[雾雨魔理沙](./雾雨魔理沙.md)？
 
-  - 红白（Red and White）
+
+  - 红白（Red and White） 
     - [博丽灵梦](./博丽灵梦.md)的巫女服。
     - [蓬莱人形](./蓬莱人形.md)c62版本提及巫女，c63版本提及神社。
 
 
-- [秋霜玉曲名解说](./附带文档-秋霜玉-创曲幻想.md)中提及的「<ruby lang="ja"><rb>ニイル</rb><rp> (</rp><rt>niiru</rt><rp>) </rp></ruby>
-」。中文可读作“二shai”
-  - 冲绳地区「二色」的读音，区别于标准读音的「<ruby lang="ja"><rb>にしょく</rb><rp> (</rp><rt>nishoku</rt><rp>) </rp></ruby>
-」
-  - ZUN喜欢的作家荒俣宏的作品《<ruby lang="ja"><rb>二色人</rb><rp> (</rp><rt>ニイルピト</rt><rp>) </rp></ruby>
-の夜》（1993）。
-  - 该作品中登场了一位名叫小夜的巫女。
-    - <ruby lang="ja"><rb>二色人</rb><rp> (</rp><rt>ニイルピト</rt><rp>) </rp></ruby>
-，即<ruby lang="ja"><rb>赤面黒面</rb><rp> (</rp><rt>アカマタ・クロマタ</rt><rp>) </rp></ruby>
-神，是在琉球八重山列岛的丰年祭中登场的来访神，被认为是凶恶恐怖却能够带来丰收的神明。
+
+
+- [秋霜玉曲名解说](./附带文档-秋霜玉-创曲幻想.md)中提及的「<ruby lang="ja"><rb>ニイル</rb><rp> (</rp><rt>niiru</rt><rp>) </rp></ruby>」。中文可读作“二shai” 
+  - 冲绳地区「二色」的读音，区别于标准读音的「<ruby lang="ja"><rb>にしょく</rb><rp> (</rp><rt>nishoku</rt><rp>) </rp></ruby>」
+  - ZUN喜欢的作家荒俣宏的作品《<ruby lang="ja"><rb>二色人</rb><rp> (</rp><rt>ニイルピト</rt><rp>) </rp></ruby>の夜》（1993）。
+  - 该作品中登场了一位名叫小夜的巫女。 
+    - <ruby lang="ja"><rb>二色人</rb><rp> (</rp><rt>ニイルピト</rt><rp>) </rp></ruby>，即<ruby lang="ja"><rb>赤面黒面</rb><rp> (</rp><rt>アカマタ・クロマタ</rt><rp>) </rp></ruby>神，是在琉球八重山列岛的丰年祭中登场的来访神，被认为是凶恶恐怖却能够带来丰收的神明。
     - 当地常世国信仰的「ニライカナイ」意为「海的另一边的理想乡」，而二色人被认为是自南方渡海而来，也就是来自理想国的常世人。
 
 
 
 
-<table><tbody><tr class="tt-content" id="曲名解说-19" data-pos="&#91;&quot;\u66f2\u540d\u89e3\u8bf4&quot;,19&#93;"><td class="tt-ja" lang="ja"><div class="poem">【 二色蓮花蝶　～ Ancients 】エキストラボス１テーマ<br><br>Ancients&#160;: 古風人<br>ちなみに、「二色」と書いて「ニイル」と読みます。「ニイルレンカチョウ」です。<br>ぱっとみ、花札の役みたいで和風っぽくしたかったから。あと、蓮というキーワード<br>をどっかに入れたかったし。</div></td><td class="tt-zh" lang="zh"><div class="poem">【 二色莲花蝶 ～ Ancients 】Extra Boss１主题曲<br><br>Ancients&#160;: 老派人<br>顺便一提，写作「二色」，读作「ニイル」。读音是「ニイルレンカチョウ」。<br>初见，我想将其做成花札的役名一样，有和风感觉。此外，我也想将莲这个关键词放在什么地方。<br></div></td></tr></tbody></table>
 
 
-- 莲花
+<table><tbody><tr class="tt-content" id="曲名解说-19" data-pos="&#91;&quot;\u66f2\u540d\u89e3\u8bf4&quot;,19&#93;"><td class="tt-ja" lang="ja"><div class="poem">【 二色蓮花蝶　～ Ancients 】エキストラボス１テーマ<br><br>Ancients : 古風人<br>ちなみに、「二色」と書いて「ニイル」と読みます。「ニイルレンカチョウ」です。<br>ぱっとみ、花札の役みたいで和風っぽくしたかったから。あと、蓮というキーワード<br>をどっかに入れたかったし。</div></td><td class="tt-zh" lang="zh"><div class="poem">【 二色莲花蝶 ～ Ancients 】Extra Boss１主题曲<br><br>Ancients : 老派人<br>顺便一提，写作「二色」，读作「ニイル」。读音是「ニイルレンカチョウ」。<br>初见，我想将其做成花札的役名一样，有和风感觉。此外，我也想将莲这个关键词放在什么地方。<br></div></td></tr></tbody></table>
+
+
+- 莲花 
   - 莲花以红色和白色为主色调。
-  - 出淤泥而不染？
+  - 出淤泥而不染？ 
     - [博丽灵梦](./博丽灵梦.md)是妖怪众多的[幻想乡](./幻想乡.md)中为数不多的强大的人类。
     - 意指[博丽灵梦](./博丽灵梦.md)心灵很纯洁？
     - 莲花在佛教中是极乐净土的象征，可能暗指幻想乡
     - [秋霜玉](./秋霜玉.md)Extra关卡的场景即盛开莲花的池塘。
 
 
-- 蝶
-  - [蓬莱人形](./蓬莱人形.md)c62版本的巫女的舞姿。
+
+
+- 蝶 
+  - [蓬莱人形](./蓬莱人形.md)c62版本的巫女的舞姿。 
     - [博丽灵梦](./博丽灵梦.md)在[妖妖梦](./东方妖妖梦.md)中被[西行寺幽幽子](./西行寺幽幽子.md)称作「红白的蝴蝶」。
 
 
-- 莲花蝶
+
+
+- 莲花蝶 
   - 秋霜玉ex的莲花池上，[博丽灵梦](./博丽灵梦.md)带了两根驱魔棒，[雾雨魔理沙](./雾雨魔理沙.md)有一对翅膀。
 
-- Ancients
-  - 意为古人、旧人、老派人。
+
+- Ancients 
+  - 意为古人、旧人、老派人。 
     - 意指在东方系列旧作中登场的[博丽灵梦](./博丽灵梦.md)和[雾雨魔理沙](./雾雨魔理沙.md)。
 
 
 
-- [](./文件-秋霜玉Extra关卡场景的莲花池.jpg.md)秋霜玉Extra关卡场景的莲花池
+
+
+
+- <img alt="秋霜玉Extra关卡场景的莲花池" src="https://upload.thwiki.cc/thumb/6/65/%E7%A7%8B%E9%9C%9C%E7%8E%89Extra%E5%85%B3%E5%8D%A1%E5%9C%BA%E6%99%AF%E7%9A%84%E8%8E%B2%E8%8A%B1%E6%B1%A0.jpg/200px-%E7%A7%8B%E9%9C%9C%E7%8E%89Extra%E5%85%B3%E5%8D%A1%E5%9C%BA%E6%99%AF%E7%9A%84%E8%8E%B2%E8%8A%B1%E6%B1%A0.jpg" decoding="async" loading="lazy" width="200" height="196" srcset="https://upload.thwiki.cc/thumb/6/65/%E7%A7%8B%E9%9C%9C%E7%8E%89Extra%E5%85%B3%E5%8D%A1%E5%9C%BA%E6%99%AF%E7%9A%84%E8%8E%B2%E8%8A%B1%E6%B1%A0.jpg/300px-%E7%A7%8B%E9%9C%9C%E7%8E%89Extra%E5%85%B3%E5%8D%A1%E5%9C%BA%E6%99%AF%E7%9A%84%E8%8E%B2%E8%8A%B1%E6%B1%A0.jpg 1.5x, https://upload.thwiki.cc/thumb/6/65/%E7%A7%8B%E9%9C%9C%E7%8E%89Extra%E5%85%B3%E5%8D%A1%E5%9C%BA%E6%99%AF%E7%9A%84%E8%8E%B2%E8%8A%B1%E6%B1%A0.jpg/400px-%E7%A7%8B%E9%9C%9C%E7%8E%89Extra%E5%85%B3%E5%8D%A1%E5%9C%BA%E6%99%AF%E7%9A%84%E8%8E%B2%E8%8A%B1%E6%B1%A0.jpg 2x" data-file-width="425" data-file-height="417"> 秋霜玉Extra关卡场景的莲花池
+
 
 ### 二次同人数据
 
@@ -243,18 +247,6 @@ Ancients&#160;: 老派人
 <tr><td>Arrange</td><td>543</td></tr>
 <tr><td>Vocal率</td><td>32.8%</td></tr>
 </tbody></table>
-
-
-
-
-
-  
-  
-
-  
-
-
-
 
 
 ---

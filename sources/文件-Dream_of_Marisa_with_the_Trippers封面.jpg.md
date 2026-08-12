@@ -1,6 +1,6 @@
 # 文件:Dream_of_Marisa_with_the_Trippers封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7f\ns6%3ADream_of_Marisa_with_the_Trippers%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7f\ns6%3ADream_of_Marisa_with_the_Trippers%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 wujiu～うーじう～ | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ wujiu～うーじう～ | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Dream of Marisa with the Trippers](./Dream_of_Marisa_with_the_Trippers.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
+- [Dream of Marisa with the Trippers](./Dream_of_Marisa_with_the_Trippers.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-源地址：[[1]](https://pbs.twimg.com/media/C0q8aPLUUAAgnXu.jpg:large)
-  
-
-
-
-
+源地址：[\[1\]](https://pbs.twimg.com/media/C0q8aPLUUAAgnXu.jpg:large)  
 
 ---
 

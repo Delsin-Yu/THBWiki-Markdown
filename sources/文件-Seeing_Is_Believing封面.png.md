@@ -1,6 +1,6 @@
 # 文件:Seeing_Is_Believing封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7d\ns6%3ASeeing_Is_Believing%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7d\ns6%3ASeeing_Is_Believing%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 龍胆
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Seeing Is Believing](./Seeing_Is_Believing.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)
-
-
-
+- [Seeing Is Believing](./Seeing_Is_Believing.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
 
 
 ---

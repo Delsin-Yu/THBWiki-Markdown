@@ -1,14 +1,11 @@
 # 文件:TTTbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\04\ns6%3ATTTbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\04\ns6%3ATTTbanner%2Ejpg.html -->
 
 TTT | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

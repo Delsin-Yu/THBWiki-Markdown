@@ -1,16 +1,12 @@
 # 文件:河童様の言う通り_～_One-way_Accelerator.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2d\ns6%3A%E6%B2%B3%E7%AB%A5%E6%A7%98%E3%81%AE%E8%A8%80%E3%81%86%E9%80%9A%E3%82%8A_%EF%BD%9E_One-way_Accelerator%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2d\ns6%3A%E6%B2%B3%E7%AB%A5%E6%A7%98%E3%81%AE%E8%A8%80%E3%81%86%E9%80%9A%E3%82%8A_%EF%BD%9E_One-way_Accelerator%2Emp3.html -->
 
 河童所说的单向通道_～_One-way_Accelerator
 
   
 翻译过来是“正如河童大人所说 ~ One-way Accelerator”，东方地灵殿PHBoss（钓鱼）河城见取主题曲。
   
-
-
-
-
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:"Activity"_Case：6.5_-Diagonal_Idol-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5a\ns6%3A%22Activity%22_Case%EF%BC%9A6%2E5_-Diagonal_Idol-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5a\ns6%3A%22Activity%22_Case%EF%BC%9A6%2E5_-Diagonal_Idol-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 GET_IN_THE_RING | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ GET_IN_THE_RING | 专辑封面 | 封面图片
   
 
 - ["Activity" Case：6.5 -Diagonal Idol-](./-Activity-_Case：6.5_-Diagonal_Idol-.md)
-
-
-
 
 
 ---

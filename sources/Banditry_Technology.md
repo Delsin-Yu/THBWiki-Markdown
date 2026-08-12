@@ -1,45 +1,33 @@
 # Banditry_Technology
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\d\da\ns0%3ABanditry_Technology.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\d\da\ns0%3ABanditry_Technology.html -->
 
 由 ZUN 创作的官方曲目，原名 バンデットリィテクノロジー
 
 本页是关于东方Project  
- **原作音乐** 的词条
-
+**原作音乐**的词条
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 出现作品](#出现作品)
 - [3 音乐文件](#音乐文件)
-
   - [3.1 东方虹龙洞](#东方虹龙洞)
 
 
-
 - [4 说明文本](#说明文本)
-
   - [4.1 东方虹龙洞](#东方虹龙洞_2)
 
 
-
 - [5 其他资料](#其他资料)
-
   - [5.1 乐理资讯](#乐理资讯)
-
     - [5.1.1 使用乐器](#使用乐器)
-
 
 
   - [5.2 分析考据](#分析考据)
   - [5.3 二次同人数据](#二次同人数据)
 
 
-
 - [6 注释](#注释)
-
-
-
 
 
 ## 基本信息
@@ -47,14 +35,12 @@
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">バンデットリィテクノロジー</td></tr><tr><td><b>译名</b></td><td>Banditry Technology</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 Banditry Technology（曲目） - 由 ZUN 创作的官方曲目，原名 バンデットリィテクノロジー
-
 ## 出现作品
 
 <table>
 <tbody><tr><td>2021年3月21日（第十八回 博丽神社例大祭）</td><td><b><a href="./东方虹龙洞.md" title="东方虹龙洞">东方虹龙洞</a>体验版</b></td><td>2面BOSS-<a href="./山城高岭.md" title="山城高岭">山城高岭</a>角色曲</td><td style="padding-left:5px;">バンデットリィテクノロジー（Banditry Technology）</td><td style="padding-left:10px;">作曲：ZUN</td></tr>
 <tr><td>2021年5月4日（非展会）</td><td><b><a href="./东方虹龙洞.md" title="东方虹龙洞">东方虹龙洞</a>正式版</b></td><td>2面BOSS-<a href="./山城高岭.md" title="山城高岭">山城高岭</a>角色曲</td><td style="padding-left:5px;">バンデットリィテクノロジー（Banditry Technology）</td><td style="padding-left:10px;">作曲：ZUN</td></tr>
 </tbody></table>
-
 
 
 ## 音乐文件
@@ -69,24 +55,24 @@ Banditry Technology（曲目） - 由 ZUN 创作的官方曲目，原名 バン�
 </td></tr></tbody></table>
 
 
-
 ## 说明文本
 
 ### 东方虹龙洞
-- Music Room (未找到链接)
+
+- [Music Room](./东方虹龙洞-Music.md#2面BOSS山城高岭角色曲)
 
 　山城 高岭的主题曲。  
-　  
+   
 　她是与河童相对的山中妖怪，山童。  
 　她似乎是头脑派妖怪（？），  
 　所以曲子也变成了边玩边战斗的感觉。  
 　曲子也有点怀念的感觉，非常有趣。
-
 ## 其他资料
 
 ### 乐理资讯
 
 #### 使用乐器
+
 - SD-90 Romantic Tp
 - SD-90 Early Ens
 - Trilian Hardcore Finger
@@ -99,28 +85,29 @@ Banditry Technology（曲目） - 由 ZUN 创作的官方曲目，原名 バン�
 
 ### 分析考据
   
- **バンデットリィテクノロジー**  Banditry Technology
+**バンデットリィテクノロジー** Banditry Technology
   
 
-- バンデットリィ（Banditry）
-  - 意为土匪、盗匪。
+- バンデットリィ（Banditry） 
+  - 意为土匪、盗匪。 
     - 日本有观点认为，山童、山男、山精等山中的妖怪，其源头为在山中迁徙的流浪民族。[^cite_note-1][^cite_note-2]
     - 他们在山中过着与世隔绝的生活，被「平地人」[^cite_note-3]视作盗匪、异民，遭到妖魔化，成为各种妖怪传说的源头。
     - 参考[犬走椛](./犬走椛.md)的符卡[山窝「Expellees' Canaan」](./Expellees'_Canaan-分析与考据.md)。
 
 
-- テクノロジー（Technology）
-  - 技术、工艺。
-    - 设定中[山童](./山童.md#山童)与河童掌握着先进的技术，山童尤其精于经济研究。
+
+
+- テクノロジー（Technology） 
+  - 技术、工艺。 
+    - 设定中[山童](./河童.md#山童)与河童掌握着先进的技术，山童尤其精于经济研究。
+
+
+
 
 
 
 ```
-她们是在森林中生活的专家，技术水准也很高。
-明明她们住在森林里，经济研究却很先进，构筑着复杂的金钱系统。
-
-                                    ——东方虹龙洞设定文档
-```
+她们是在森林中生活的专家，技术水准也很高。 明明她们住在森林里，经济研究却很先进，构筑着复杂的金钱系统。 ——东方虹龙洞设定文档 ```
 
 
 ### 二次同人数据
@@ -136,16 +123,9 @@ Banditry Technology（曲目） - 由 ZUN 创作的官方曲目，原名 バン�
 <tr><td>Vocal率</td><td>20.55%</td></tr>
 </tbody></table>
 
-
-
-
-
 [^cite_note-1]: 日文维基百科：[サンカ](https://en.wikipedia.org/wiki/ja:サンカ)
-
-
-
-
-
+[^cite_note-2]: 日文维基百科：[山男](https://en.wikipedia.org/wiki/ja:山男)
+[^cite_note-3]: 柳田国男提出的概念，指与山中住民相对，生活在平原以农耕为生的住民。
 
 ---
 

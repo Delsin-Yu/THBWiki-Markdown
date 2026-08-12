@@ -1,6 +1,6 @@
 # 文件:i'll_be_counting_on_you封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\91\ns6%3Ai%27ll_be_counting_on_you%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\91\ns6%3Ai%27ll_be_counting_on_you%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Pearls_Before_Swine | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Pearls_Before_Swine | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [i'll be counting on you](./i'll_be_counting_on_you.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [i'll be counting on you](./i'll_be_counting_on_you.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

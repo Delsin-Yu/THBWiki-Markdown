@@ -1,6 +1,6 @@
 # 文件:ESCAPE（ロケット燃料★21）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4a\ns6%3AESCAPE%EF%BC%88%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88%E7%87%83%E6%96%99%E2%98%8521%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4a\ns6%3AESCAPE%EF%BC%88%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88%E7%87%83%E6%96%99%E2%98%8521%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ロケット燃料★21 | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [ESCAPE（ロケット燃料★21）](./ESCAPE（ロケット燃料★21）.md)  
-该封面包含的角色：- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)
-
-
-
+- [ESCAPE（ロケット燃料★21）](./ESCAPE（ロケット燃料★21）.md)该封面包含的角色：
+- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)
 
 
 ---

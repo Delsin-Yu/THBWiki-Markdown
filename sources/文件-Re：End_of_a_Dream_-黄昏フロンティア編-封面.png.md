@@ -1,6 +1,6 @@
 # 文件:Re：End_of_a_Dream_-黄昏フロンティア編-封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5b\ns6%3ARe%EF%BC%9AEnd_of_a_Dream_-%E9%BB%84%E6%98%8F%E3%83%95%E3%83%AD%E3%83%B3%E3%83%86%E3%82%A3%E3%82%A2%E7%B7%A8-%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5b\ns6%3ARe%EF%BC%9AEnd_of_a_Dream_-%E9%BB%84%E6%98%8F%E3%83%95%E3%83%AD%E3%83%B3%E3%83%86%E3%82%A3%E3%82%A2%E7%B7%A8-%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Astral_Sky | 专辑封面 | 封面图片 | 非可逆リズム
 
@@ -8,11 +8,9 @@ Astral_Sky | 专辑封面 | 封面图片 | 非可逆リズム
 使用了本文件作封面图片的作品：
   
 
-- [Re：End of a Dream -黄昏フロンティア編-](./Re：End_of_a_Dream_-黄昏フロンティア編-.md)  
-该封面包含的角色：- [比那名居天子](./比那名居天子.md)- [伊吹萃香](./伊吹萃香.md)
-
-
-
+- [Re：End of a Dream -黄昏フロンティア編-](./Re：End_of_a_Dream_-黄昏フロンティア編-.md)该封面包含的角色：
+- [比那名居天子](./比那名居天子.md)
+- [伊吹萃香](./伊吹萃香.md)
 
 
 ---

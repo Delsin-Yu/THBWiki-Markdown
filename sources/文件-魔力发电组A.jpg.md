@@ -1,12 +1,8 @@
 # 文件:魔力发电组A.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f1\ns6%3A%E9%AD%94%E5%8A%9B%E5%8F%91%E7%94%B5%E7%BB%84A%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f1\ns6%3A%E9%AD%94%E5%8A%9B%E5%8F%91%E7%94%B5%E7%BB%84A%2Ejpg.html -->
 
 東方導命樹製作チーム
-
-
-
-
 
 
 ---

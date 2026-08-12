@@ -1,32 +1,26 @@
 # Ploof_of_the_Star
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\b5\ns0%3APloof_of_the_Star.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\b5\ns0%3APloof_of_the_Star.html -->
 
 2018年5月6日 由 カラスのおうち，愛欲MOCK 于 博丽神社例大祭15 发布的合同志/漫画同人志，A5尺寸一共116页，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人志 (未找到链接)** 的词条
-
+**[二次创作同人志](./二次创作.md#同人志)**的词条
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Ploof_of_the_Star封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/3/32/Ploof_of_the_Star%E5%B0%81%E9%9D%A2.jpg/137px-Ploof_of_the_Star%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="137" height="196" srcset="https://upload.thwiki.cc/thumb/3/32/Ploof_of_the_Star%E5%B0%81%E9%9D%A2.jpg/206px-Ploof_of_the_Star%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/3/32/Ploof_of_the_Star%E5%B0%81%E9%9D%A2.jpg/275px-Ploof_of_the_Star%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="359" data-file-height="512"></a><div class="cover-char">角色：<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a></div></td>
 </tr><tr><td class="label">名称</td><td colspan="2"> Ploof of the Star </td></tr><tr><td class="label">制作方</td><td><a href="./カラスのおうち.md" title="カラスのおうち">カラスのおうち</a><br><a href="./愛欲MOCK.md" title="愛欲MOCK">愛欲MOCK</a></td><td class="cover-artwork" rowspan="7" style="min-width:196px;"><a href="./文件-Ploof_of_the_Star封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/3/32/Ploof_of_the_Star%E5%B0%81%E9%9D%A2.jpg/137px-Ploof_of_the_Star%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="137" height="196" srcset="https://upload.thwiki.cc/thumb/3/32/Ploof_of_the_Star%E5%B0%81%E9%9D%A2.jpg/206px-Ploof_of_the_Star%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/3/32/Ploof_of_the_Star%E5%B0%81%E9%9D%A2.jpg/275px-Ploof_of_the_Star%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="359" data-file-height="512"></a><div class="cover-char">角色：<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2018-05-06&#160;（<a href="/展会作品列表?e=%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD%2315">第十五回 博麗神社例大祭</a>）</td></tr><tr><td class="label">类型</td><td>合同志，漫画</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>A5</td></tr><tr><td class="label">页数</td><td>116P</td></tr><tr><td class="label">售价</td><td>1000日元</td></tr>
+</tr><tr><td class="label">首发日期</td><td>2018-05-06 （<a href="./展会作品列表.md#15">第十五回 博麗神社例大祭</a>）</td></tr><tr><td class="label">类型</td><td>合同志，漫画</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>A5</td></tr><tr><td class="label">页数</td><td>116P</td></tr><tr><td class="label">售价</td><td>1000日元</td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://marisa-pudding.themedia.jp/">https://marisa-pudding.themedia.jp/</a></td></tr></tbody></table>
 
 Ploof of the Star（同人志，カラスのおうち，愛欲MOCK，2018） - 2018年5月6日 由 カラスのおうち，愛欲MOCK 于 博丽神社例大祭15 发布的合同志/漫画同人志，A5尺寸一共116页，分级为 一般向
-
 ## Staff
 主催
 : [高畠宗太](./高畠宗太.md)
 副主催
 : [もこきよ](./もこきよ.md)
 
-
 ## 评论
-
-
-
 
 ---
 

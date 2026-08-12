@@ -1,12 +1,8 @@
 # 文件:二岩猯藏（深秘录Spell_Card立绘）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8d\ns6%3A%E4%BA%8C%E5%B2%A9%E7%8C%AF%E8%97%8F%EF%BC%88%E6%B7%B1%E7%A7%98%E5%BD%95Spell_Card%E7%AB%8B%E7%BB%98%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8d\ns6%3A%E4%BA%8C%E5%B2%A9%E7%8C%AF%E8%97%8F%EF%BC%88%E6%B7%B1%E7%A7%98%E5%BD%95Spell_Card%E7%AB%8B%E7%BB%98%EF%BC%89%2Epng.html -->
 
 东方深秘录 | 二岩猯藏 | 官方游戏立绘 | 春河萌绘
-
-
-
-
 
 
 ---

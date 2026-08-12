@@ -1,16 +1,12 @@
 # 文件:THD2月面机动装置.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\55\ns6%3ATHD2%E6%9C%88%E9%9D%A2%E6%9C%BA%E5%8A%A8%E8%A3%85%E7%BD%AE%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\55\ns6%3ATHD2%E6%9C%88%E9%9D%A2%E6%9C%BA%E5%8A%A8%E8%A3%85%E7%BD%AE%2Epng.html -->
 
 东方DOTS玩家社群
 
   
 THD2月面机动装置
   
-
-
-
-
 
 ---
 

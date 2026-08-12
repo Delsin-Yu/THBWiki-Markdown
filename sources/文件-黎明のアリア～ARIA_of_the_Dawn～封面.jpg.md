@@ -1,6 +1,6 @@
 # 文件:黎明のアリア～ARIA_of_the_Dawn～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d2\ns6%3A%E9%BB%8E%E6%98%8E%E3%81%AE%E3%82%A2%E3%83%AA%E3%82%A2%EF%BD%9EARIA_of_the_Dawn%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d2\ns6%3A%E9%BB%8E%E6%98%8E%E3%81%AE%E3%82%A2%E3%83%AA%E3%82%A2%EF%BD%9EARIA_of_the_Dawn%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ALiCe_BoX | 专辑封面 | 封面图片
 
@@ -8,16 +8,12 @@ ALiCe_BoX | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [黎明のアリア～ARIA of the Dawn～](./黎明のアリア～ARIA_of_the_Dawn～.md)  
-该封面包含的角色：- [八云紫](./八云紫.md)- 原创角色 (未找到链接)
+- [黎明のアリア～ARIA of the Dawn～](./黎明のアリア～ARIA_of_the_Dawn～.md)该封面包含的角色：
+- [八云紫](./八云紫.md)
+- 原创角色 (未找到链接)
 
   
-源地址：[[1]](http://alicebox.jp/images/jacket_reitaisai.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://alicebox.jp/images/jacket_reitaisai.jpg)  
 
 ---
 

@@ -1,14 +1,11 @@
 # 文件:东方幻骚祭LOGO.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\94\ns6%3A%E4%B8%9C%E6%96%B9%E5%B9%BB%E9%AA%9A%E7%A5%ADLOGO%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\94\ns6%3A%E4%B8%9C%E6%96%B9%E5%B9%BB%E9%AA%9A%E7%A5%ADLOGO%2Ejpg.html -->
 
 东方幻骚祭 | 活动LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

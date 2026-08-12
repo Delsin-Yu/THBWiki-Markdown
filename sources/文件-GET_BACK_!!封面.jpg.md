@@ -1,6 +1,6 @@
 # 文件:GET_BACK_!!封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a7\ns6%3AGET_BACK_%21%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a7\ns6%3AGET_BACK_%21%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 月猫工房
 
@@ -10,10 +10,7 @@
 使用了本文件作封面图片的作品：
   
 
-- [GET BACK&#160;!!](./GET_BACK_!!.md)
-
-
-
+- [GET BACK !!](./GET_BACK_!!.md)
 
 
 ---

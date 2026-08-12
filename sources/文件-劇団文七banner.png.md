@@ -1,12 +1,8 @@
 # 文件:劇団文七banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\07\ns6%3A%E5%8A%87%E5%9B%A3%E6%96%87%E4%B8%83banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\07\ns6%3A%E5%8A%87%E5%9B%A3%E6%96%87%E4%B8%83banner%2Epng.html -->
 
 劇団文七 | 社团LOGO
-
-
-
-
 
 
 ---

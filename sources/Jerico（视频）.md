@@ -1,16 +1,12 @@
 # Jerico（视频）
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\f5\ns0%3AJerico%EF%BC%88%E8%A7%86%E9%A2%91%EF%BC%89.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\f5\ns0%3AJerico%EF%BC%88%E8%A7%86%E9%A2%91%EF%BC%89.html -->
 
 
 
   
 本页面用于收录Jerico的东方视频作品
   
-
-
-
-
 
 ---
 

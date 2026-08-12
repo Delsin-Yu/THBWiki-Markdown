@@ -1,14 +1,11 @@
 # 文件:EcN_-エロクナイ-banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\00\ns6%3AEcN_-%E3%82%A8%E3%83%AD%E3%82%AF%E3%83%8A%E3%82%A4-banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\00\ns6%3AEcN_-%E3%82%A8%E3%83%AD%E3%82%AF%E3%83%8A%E3%82%A4-banner%2Ejpg.html -->
 
 EcN_-エロクナイ- | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

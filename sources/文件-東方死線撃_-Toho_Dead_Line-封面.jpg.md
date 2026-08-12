@@ -1,6 +1,6 @@
 # 文件:東方死線撃_-Toho_Dead_Line-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7f\ns6%3A%E6%9D%B1%E6%96%B9%E6%AD%BB%E7%B7%9A%E6%92%83_-Toho_Dead_Line-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7f\ns6%3A%E6%9D%B1%E6%96%B9%E6%AD%BB%E7%B7%9A%E6%92%83_-Toho_Dead_Line-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ちびっこ娘々 | 封面图片 | 软件封面
 
@@ -13,12 +13,7 @@
 - [東方死線撃 -Toho Dead Line-](./東方死線撃_-Toho_Dead_Line-.md)
 
   
-源地址：[[1]](http://chibinyan.web.fc2.com/i/Nitori_ss06.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://chibinyan.web.fc2.com/i/Nitori_ss06.jpg)  
 
 ---
 

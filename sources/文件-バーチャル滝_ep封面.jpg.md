@@ -1,6 +1,6 @@
 # 文件:バーチャル滝_ep封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7a\ns6%3A%E3%83%90%E3%83%BC%E3%83%81%E3%83%A3%E3%83%AB%E6%BB%9D_ep%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7a\ns6%3A%E3%83%90%E3%83%BC%E3%83%81%E3%83%A3%E3%83%AB%E6%BB%9D_ep%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 予報士`94 | 封面图片
 
@@ -13,12 +13,7 @@
 - [バーチャル滝 ep](./バーチャル滝_ep.md)
 
   
-源地址：[direct image link (10 size)](https://f4.bcbits.com/img/a2493399452_10.jpg), [source page (artist Bandcamp)](https://torash.bandcamp.com/album/ep)
-  
-
-
-
-
+源地址：[direct image link (10 size)](https://f4.bcbits.com/img/a2493399452_10.jpg), [source page (artist Bandcamp)](https://torash.bandcamp.com/album/ep)  
 
 ---
 

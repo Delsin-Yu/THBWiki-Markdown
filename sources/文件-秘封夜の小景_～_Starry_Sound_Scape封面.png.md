@@ -1,6 +1,6 @@
 # 文件:秘封夜の小景_～_Starry_Sound_Scape封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d8\ns6%3A%E7%A7%98%E5%B0%81%E5%A4%9C%E3%81%AE%E5%B0%8F%E6%99%AF_%EF%BD%9E_Starry_Sound_Scape%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d8\ns6%3A%E7%A7%98%E5%B0%81%E5%A4%9C%E3%81%AE%E5%B0%8F%E6%99%AF_%EF%BD%9E_Starry_Sound_Scape%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 ごんばこんなか | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [秘封夜の小景 ～ Starry Sound Scape](./秘封夜の小景_～_Starry_Sound_Scape.md)  
-该封面包含的角色：- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [秘封夜の小景 ～ Starry Sound Scape](./秘封夜の小景_～_Starry_Sound_Scape.md)该封面包含的角色：
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

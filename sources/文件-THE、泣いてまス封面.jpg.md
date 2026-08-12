@@ -1,6 +1,6 @@
 # 文件:THE、泣いてまス封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e5\ns6%3ATHE%E3%80%81%E6%B3%A3%E3%81%84%E3%81%A6%E3%81%BE%E3%82%B9%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e5\ns6%3ATHE%E3%80%81%E6%B3%A3%E3%81%84%E3%81%A6%E3%81%BE%E3%82%B9%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 THE二次元集権国家ズ | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ THE二次元集権国家ズ | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [THE、泣いてまス](./THE、泣いてまス.md)  
-该封面包含的角色：- [多多良小伞](./多多良小伞.md)
-
-
-
+- [THE、泣いてまス](./THE、泣いてまス.md)该封面包含的角色：
+- [多多良小伞](./多多良小伞.md)
 
 
 ---

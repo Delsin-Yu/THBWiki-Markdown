@@ -1,45 +1,35 @@
 # Extra_Love
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\c\c9\ns0%3AExtra_Love.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\c\c9\ns0%3AExtra_Love.html -->
 
 由 ZUN 创作的官方曲目，原名 エキストララブ
 
 本页是关于东方Project  
- **原作音乐** 的词条
-
+**原作音乐**的词条
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 出现作品](#出现作品)
 - [3 音乐文件](#音乐文件)
-
   - [3.1 东方封魔录](#东方封魔录)
   - [3.2 东方怪绮谈](#东方怪绮谈)
   - [3.3 东方幻想怀古曲](#东方幻想怀古曲)
   - [3.4 幺乐团的历史 vol.3](#幺乐团的历史_vol.3)
 
 
-
 - [4 说明文本](#说明文本)
-
   - [4.1 东方封魔录](#东方封魔录_2)
   - [4.2 东方怪绮谈](#东方怪绮谈_2)
   - [4.3 东方幻想怀古曲](#东方幻想怀古曲_2)
 
 
-
 - [5 其他资料](#其他资料)
-
   - [5.1 乐理资讯](#乐理资讯)
   - [5.2 分析考据](#分析考据)
   - [5.3 二次同人数据](#二次同人数据)
 
 
-
 - [6 注释](#注释)
-
-
-
 
 
 ## 基本信息
@@ -47,7 +37,6 @@
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">エキストララブ</td></tr><tr><td><b>译名</b></td><td>Extra Love</td></tr><tr><td><b>其他译名</b></td><td>额外的喜爱</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>关联</td></tr><tr><td style="padding-left:15px"><b>相关曲</b></td><td><a href="./战车娘所做的梦.md" title="战车娘所做的梦" unred="">戦車むすめのみるゆめ</a></td></tr><tr><td style="padding-left:15px"><b>　来源</b></td><td>东方封魔录　～ the Story of Eastern Wonderland.</td></tr></tbody></table>
 
 Extra Love（曲目） - 由 ZUN 创作的官方曲目，原名 エキストララブ
-
 ## 出现作品
 
 <table>
@@ -58,7 +47,6 @@ Extra Love（曲目） - 由 ZUN 创作的官方曲目，原名 エキストラ�
 </tbody></table>
 
 
-
 ## 音乐文件
 
 ### 东方封魔录
@@ -66,17 +54,13 @@ Extra Love（曲目） - 由 ZUN 创作的官方曲目，原名 エキストラ�
 FM86版，由PMDPlay导出。
   
 
-
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th02_14_FM.ogg.md" title="文件:th02 14 FM.ogg">th02_14_FM.ogg</a><br><audio src="https://upload.thwiki.cc/c/cc/th02_14_FM.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>STAGE5.M</td></tr><tr><td><b>音轨时长</b></td><td>1:31.404</td></tr></tbody></table>
-
 
   
 MIDI版，由Roland Sound Canvas 88Pro实机录音得到。
   
 
-
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td><a href="./文件-th02_14.MID.md" title="文件:th02 14.MID">th02_14.MID</a></td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th02_14_MIDI.mp3.md" title="文件:th02 14 MIDI.mp3">th02_14_MIDI.mp3</a><br><audio src="https://upload.thwiki.cc/f/fd/th02_14_MIDI.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>STAGE5.MMD</td></tr><tr><td><b>音轨时长</b></td><td>1:36</td></tr></tbody></table>
-
 
 
 ### 东方怪绮谈
@@ -84,9 +68,7 @@ MIDI版，由Roland Sound Canvas 88Pro实机录音得到。
 YM2608(OPNA)，FM86版。
   
 
-
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th05_H_12.ogg.md" title="文件:th05 H 12.ogg">th05_H_12.ogg</a><br><audio src="https://upload.thwiki.cc/0/0f/th05_H_12.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>H_ST05.M</td></tr><tr><td><b>音轨时长</b></td><td>1:31.404</td></tr></tbody></table>
-
 
 
 ### 东方幻想怀古曲
@@ -94,17 +76,16 @@ YM2608(OPNA)，FM86版。
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-thgs02_12.ogg.md" title="文件:thgs02 12.ogg">thgs02_12.ogg</a><br><audio src="https://upload.thwiki.cc/0/02/thgs02_12.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>th2_12.m</td></tr><tr><td><b>音轨时长</b></td><td>1:31.404</td></tr></tbody></table>
 
 
-
 ### 幺乐团的历史 vol.3
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-ha03_12.mp3.md" title="文件:ha03 12.mp3">ha03_12.mp3</a><br><audio src="https://upload.thwiki.cc/2/2a/ha03_12.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track12.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>3:16</td></tr></tbody></table>
 
 
-
 ## 说明文本
 
 ### 东方封魔录
-- Music Mode (未找到链接)
+
+- [Music Mode](./东方封魔录-Music.md#Extra面主题曲)
 
 FM版ＥＸＴＲＡ　ＳＴＡＧＥ的主题曲。  
 这首曲子和接下来的那首，已经听过了吗？  
@@ -116,18 +97,18 @@ FM版ＥＸＴＲＡ　ＳＴＡＧＥ的主题曲。
 ＺＵＮ（太田）  
 EX面的主题曲  
 什么啊这是STAGE5.MMDExtra Love　　　　　　　　　　　　　　　　　　　　　　ＺＵＮ
-
 ### 东方怪绮谈
-- Music Room (未找到链接)
+
+- [Music Room](./东方怪绮谈-Music.md#Extra面主题曲)
 
 　　Extra关卡的主题曲  
 　　＊８６兼容音源专用Extra Love  
 ＺＵＮ（太田）  
 EX面的主题曲  
 什么啊这是
-
 ### 东方幻想怀古曲
-- th2_12pmd.txt (未找到链接)
+
+- [th2_12pmd.txt](./东方幻想怀古曲-东方封魔录.md#Extra_Love)
 
 +----------------------------------------------------------------------------+  
 |【 　 曲名　　】| 【 Extra Love 】（原版）  
@@ -162,22 +143,22 @@ EX面的主题曲
 曲子的感想、请求等，请这边  
 　东方幻想空间　「博丽神社」 [http://www16.big.or.jp/~zun/](http://www16.big.or.jp/~zun/)  
 　e-Mail                     zun@big.or.jp
-
 ## 其他资料
 
 ### 乐理资讯
 
 ### 分析考据
   
- **エキストララブ** 
-  
+**エキストララブ**  
 
-- エキストラ，extra
+- エキストラ，extra 
   - 本曲为extra关卡道中曲
 
-- ラブ，love
+
+- ラブ，love 
   - 玩家对于游戏的爱
   - ZUN对制作游戏额外关卡的爱
+
 
 
 
@@ -193,18 +174,6 @@ EX面的主题曲
 <tr><td>Arrange</td><td>25</td></tr>
 <tr><td>Vocal率</td><td>21.88%</td></tr>
 </tbody></table>
-
-
-
-
-
-  
-  
-
-  
-
-
-
 
 
 ---

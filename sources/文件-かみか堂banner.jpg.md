@@ -1,12 +1,8 @@
 # 文件:かみか堂banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d3\ns6%3A%E3%81%8B%E3%81%BF%E3%81%8B%E5%A0%82banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d3\ns6%3A%E3%81%8B%E3%81%BF%E3%81%8B%E5%A0%82banner%2Ejpg.html -->
 
 かみか堂 | 社团LOGO
-
-
-
-
 
 
 ---

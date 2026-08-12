@@ -1,13 +1,9 @@
 # 東方海恵堂_～_Marine_Benefit./音乐
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\d\d5\ns0%3A%E6%9D%B1%E6%96%B9%E6%B5%B7%E6%81%B5%E5%A0%82_%EF%BD%9E_Marine_Benefit%2E%2F%E9%9F%B3%E4%B9%90.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\d\d5\ns0%3A%E6%9D%B1%E6%96%B9%E6%B5%B7%E6%81%B5%E5%A0%82_%EF%BD%9E_Marine_Benefit%2E%2F%E9%9F%B3%E4%B9%90.html -->
 
 使用Tabber解析器标签的页面 | 原色空間
 
-  
-  
-
-  
 
 - 游戏中只有第一句话。
 - 音乐评论搬运自作曲者博客[^cite_note-1]。一言以蔽之即“里音乐评论”是也。是也。
@@ -41,13 +37,12 @@
 </tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
 <td style="background: #dde6ff;" align="center" width="15%"><h6><span id="1.E9.9D.A2.E9.81.93.E4.B8.AD.E4.B8.BB.E9.A2.98.E6.9B.B2"></span><span class="mw-headline" id="1面道中主题曲">1面道中主题曲</span></h6>
 </td>
-<td style="background: #FFFFCC;" align="center" width="35%">大洋の風情　～ Fantastic Sea<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">2</a></sup>
+<td style="background: #FFFFCC;" align="center" width="35%">大洋の風情　～ Fantastic Sea<span>[^cite_note-2]</span>
 </td>
 <td style="background: #FFFFCC;" align="center" width="40%"><i><a href="./大洋的风情_～_Fantastic_Sea.md" title="大洋的风情 ～ Fantastic Sea">大洋的风情　～ Fantastic Sea</a></i>
 </td>
@@ -70,13 +65,12 @@
 </tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
 <td style="background: #dde6ff;" align="center" width="15%"><h6><span id="1.E9.9D.A2boss-.E9.A1.BB.E4.BD.90.E4.B9.83.E6.A3.AE.E6.9C.A8.E5.8F.B6_.E4.B8.BB.E9.A2.98.E6.9B.B2"></span><span class="mw-headline" id="1面boss-须佐乃森木叶_主题曲">1面boss-<a href="./须佐乃森木叶.md" title="须佐乃森木叶">须佐乃森木叶</a> 主题曲</span></h6>
 </td>
-<td style="background: #FFFFCC;" align="center" width="35%">捕らぬ狸の壷算用<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">3</a></sup>
+<td style="background: #FFFFCC;" align="center" width="35%">捕らぬ狸の壷算用<span>[^cite_note-3]</span>
 </td>
 <td style="background: #FFFFCC;" align="center" width="40%"><i><a href="./未捕狸时便算壶.md" title="未捕狸时便算壶">未捕狸时便算壶</a></i>
 </td>
@@ -97,7 +91,6 @@
 </td></tr>
 
 </tbody></table>
-
 
 
 <table>
@@ -128,7 +121,6 @@
 </tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
@@ -157,7 +149,6 @@
 </tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
@@ -174,7 +165,7 @@
 <p>3面のテーマです。<br><br>
 </p>
 <div class="tabber"><header class="tabber__header"></header><section class="tabber__section"><article class="tabber__panel" data-title="2011"><i>Echo of a Sea Petrel ~ Natural Forecast</i><br>
-＊出典は確か星蓮船ですね。この曲に関しては、中ボスの"雨津ミヨ"の部分で音の雰囲気がきちっと変化できるようにいろいろと時間を調整した曲です。ゲームの更新に合わせて可能な限り途中の尺を調整したのはいい思い出です。</article><article class="tabber__panel" data-title="2009"><p>雨津ミヨの要素がタイトルに無い。そのかわり、曲そのものはミヨの曲と言ってもいいくらいの一曲。この当たり<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">4</a></sup>までは、目に知れている世界故にのんびり運転です。ここから先が厄介なだけで…</p></article></section></div>
+＊出典は確か星蓮船ですね。この曲に関しては、中ボスの"雨津ミヨ"の部分で音の雰囲気がきちっと変化できるようにいろいろと時間を調整した曲です。ゲームの更新に合わせて可能な限り途中の尺を調整したのはいい思い出です。</article><article class="tabber__panel" data-title="2009"><p>雨津ミヨの要素がタイトルに無い。そのかわり、曲そのものはミヨの曲と言ってもいいくらいの一曲。この当たり<span>[^cite_note-4]</span>までは、目に知れている世界故にのんびり運転です。ここから先が厄介なだけで…</p></article></section></div>
 </td>
 <td colspan="2" style="padding:1em; padding-left:2em;" lang="zh" width="50%">
 <p>3面的主题曲。<br><br>
@@ -184,7 +175,6 @@
 </td></tr>
 
 </tbody></table>
-
 
 
 <table>
@@ -215,7 +205,6 @@
 </tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
@@ -244,13 +233,12 @@
 </tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
 <td style="background: #dde6ff;" align="center" width="15%"><h6><span id="4.E9.9D.A2boss-_.E6.B7.B1.E5.A0.82.E9.A6.99.E6.BE.84.E4.B8.BB.E9.A2.98.E6.9B.B2"></span><span class="mw-headline" id="4面boss-_深堂香澄主题曲">4面boss- <a href="./深堂香澄.md" title="深堂香澄">深堂香澄</a>主题曲</span></h6>
 </td>
-<td style="background: #FFFFCC;" align="center" width="35%">サブマリン幻視幻覚<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">5</a></sup>
+<td style="background: #FFFFCC;" align="center" width="35%">サブマリン幻視幻覚<span>[^cite_note-5]</span>
 </td>
 <td style="background: #FFFFCC;" align="center" width="40%"><i><a href="./Submarine幻视幻觉.md" title="Submarine幻视幻觉">Submarine幻视幻觉</a></i>
 </td>
@@ -273,13 +261,12 @@
 </tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
 <td style="background: #dde6ff;" align="center" width="15%"><h6><span id="5.E9.9D.A2.E9.81.93.E4.B8.AD.E4.B8.BB.E9.A2.98.E6.9B.B2"></span><span class="mw-headline" id="5面道中主题曲">5面道中主题曲</span></h6>
 </td>
-<td style="background: #FFFFCC;" align="center" width="35%">二百海里は宴もたけなわ　～ Preyed Feast<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">6</a></sup>
+<td style="background: #FFFFCC;" align="center" width="35%">二百海里は宴もたけなわ　～ Preyed Feast<span>[^cite_note-6]</span>
 </td>
 <td style="background: #FFFFCC;" align="center" width="40%"><i><a href="./两百海里宴正酣_～_Preyed_Feast.md" title="两百海里宴正酣 ～ Preyed Feast">两百海里宴正酣　～ Preyed Feast</a></i>
 </td>
@@ -300,7 +287,6 @@
 </td></tr>
 
 </tbody></table>
-
 
 
 <table>
@@ -325,11 +311,10 @@
 <p>八百比惠的主题曲。<br><br>
 </p>
 <div class="tabber"><header class="tabber__header"></header><section class="tabber__section"><article class="tabber__panel" data-title="2011"><i>Could a Mermaid Dream of Being a Human?</i><br>
-＊一开始设定为标题曲来做的曲子。看到对话，「啊，没被欢迎啊。」这么个印象来作的曲。关于这首曲子，原捏他是我上传到「Nico Commons」<sup id="cite_ref-nico_7-0" class="reference"><a href="#cite_note-nico-7">7</a></sup>上的曲子。</article><article class="tabber__panel" data-title="2010"><p>＊用曲子时对方起初是想要用「三十三天的战乙女」<sup id="cite_ref-nico_7-1" class="reference"><a href="#cite_note-nico-7">7</a></sup>，所以我从一开始就总想着做一首替代品，最终变成了现在这首曲子的样子，好像有这么一段故事。嘛这首曲子就是这么来历复杂啦。</p></article></section></div>
+＊一开始设定为标题曲来做的曲子。看到对话，「啊，没被欢迎啊。」这么个印象来作的曲。关于这首曲子，原捏他是我上传到「Nico Commons」<span>[^cite_note-nico-7]</span>上的曲子。</article><article class="tabber__panel" data-title="2010"><p>＊用曲子时对方起初是想要用「三十三天的战乙女」<span>[^cite_note-nico-7]</span>，所以我从一开始就总想着做一首替代品，最终变成了现在这首曲子的样子，好像有这么一段故事。嘛这首曲子就是这么来历复杂啦。</p></article></section></div>
 </td></tr>
 
 </tbody></table>
-
 
 
 <table>
@@ -358,7 +343,6 @@
 </td></tr>
 
 </tbody></table>
-
 
 
 <table>
@@ -393,7 +377,6 @@
 </tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
@@ -422,7 +405,6 @@
 </tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
@@ -445,11 +427,10 @@
 <p>观福宫()70]-[!|v|￡的主题曲。<br><br>
 </p>
 <div class="tabber"><header class="tabber__header"></header><section class="tabber__section"><article class="tabber__panel" data-title="2014"><i>The Butterfly of Isaac the Traveler</i><br>
-＊说到时间机器，就是艾萨克<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">8</a></sup>了，因此取了这么个名字。这首曲子在所有曲子中也是最耗时的。原本是「薛定谔的空箱」这么一首比现在要短的曲子，稍微重制了一下就变成这样了。备选曲有五六种，不过都被毙了，嗯。</article><article class="tabber__panel" data-title="2011"><p>先说一句，你听到时想到的出典大概是没错的。对方说要我总之作一首有着其他Boss没有的不稳定感的曲子，因此我就这么写了。与其说是Boss，不如说是经常说的“玩耍”更接近一些，这首曲子应该是这样的吧。</p></article></section></div>
+＊说到时间机器，就是艾萨克<span>[^cite_note-8]</span>了，因此取了这么个名字。这首曲子在所有曲子中也是最耗时的。原本是「薛定谔的空箱」这么一首比现在要短的曲子，稍微重制了一下就变成这样了。备选曲有五六种，不过都被毙了，嗯。</article><article class="tabber__panel" data-title="2011"><p>先说一句，你听到时想到的出典大概是没错的。对方说要我总之作一首有着其他Boss没有的不稳定感的曲子，因此我就这么写了。与其说是Boss，不如说是经常说的“玩耍”更接近一些，这首曲子应该是这样的吧。</p></article></section></div>
 </td></tr>
 
 </tbody></table>
-
 
 
 <table>
@@ -480,7 +461,6 @@
 </tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
@@ -509,13 +489,12 @@
 </tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
 <td style="background: #dde6ff;" align="center" width="15%"><h6><span id=".E5.BE.97.E5.88.86.E7.94.BB.E9.9D.A2"></span><span class="mw-headline" id="得分画面">得分画面</span></h6>
 </td>
-<td style="background: #FFFFCC;" align="center" width="35%">海面-Umimo-<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">9</a></sup>
+<td style="background: #FFFFCC;" align="center" width="35%">海面-Umimo-<span>[^cite_note-9]</span>
 </td>
 <td style="background: #FFFFCC;" align="center" width="40%"><i><a href="./海面-Umimo-.md" title="海面-Umimo-">海面-Umimo-</a></i>
 </td>
@@ -532,7 +511,6 @@
 </td></tr>
 
 </tbody></table>
-
 
 
 <table>
@@ -559,11 +537,10 @@
 </tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
-<td style="background: #dde6ff;" align="center" width="15%"><h6><span id="Omniverse.E7.9A.84.E9.A2.84.E5.AE.9A.E4.B8.BB.E9.A2.98.E6.9B.B210"></span><span class="mw-headline" id="Omniverse的预定主题曲10">Omniverse的预定主题曲<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">10</a></sup></span></h6>
+<td style="background: #dde6ff;" align="center" width="15%"><h6><span id="Omniverse.E7.9A.84.E9.A2.84.E5.AE.9A.E4.B8.BB.E9.A2.98.E6.9B.B210"></span><span class="mw-headline" id="Omniverse的预定主题曲10">Omniverse的预定主题曲<span>[^cite_note-10]</span></span></h6>
 </td>
 <td style="background: #FFFFCC;" align="center" width="35%">忘られた海恵堂の花
 </td>
@@ -584,7 +561,6 @@
 </tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
@@ -592,7 +568,7 @@
 </td>
 <td style="background: #FFFFCC;" align="center" width="35%">忘られた海恵堂の花 (観福宮 ()70]-[!_v_￡ Ver.)
 </td>
-<td style="background: #FFFFCC;" align="center" width="40%"><i><a href="./被遗忘的海惠堂之花.md" title="被遗忘的海惠堂之花" unred="">被遗忘的海惠堂之花（观福宫Otohime Ver.）</a><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">11</a></sup></i>
+<td style="background: #FFFFCC;" align="center" width="40%"><i><a href="./被遗忘的海惠堂之花.md" title="被遗忘的海惠堂之花" unred="">被遗忘的海惠堂之花（观福宫Otohime Ver.）</a><span>[^cite_note-11]</span></i>
 </td>
 <td style="background: #dde6ff;" align="center" width="15%">♪ <i>黒羽</i>
 </td></tr>
@@ -608,21 +584,17 @@
 
 </tbody></table>
 
-
-
 [^cite_note-1]: [雅虎博客](http://blogs.yahoo.co.jp/crystalwings6)
-
-
-## 词条导航
-  
-  
-
-<table><tbody><tr><td><table cellspacing="0" class="nowraplinks mw-collapsible mw-collapsed" style="width:100%;;;"><tbody><tr><th style=";" colspan="2" class="navbox-title"><div class="navbar"><div class="noprint plainlinksneverexpand" style="background-color:transparent; padding:0; font-weight:normal; font-size:80%; white-space:nowrap;"><a href="./東方海恵堂_～_Marine_Benefit.-导航.md" title="東方海恵堂 ～ Marine Benefit./导航"><span style=";;border:none;" title="查看这个模板">查</span></a>&#160;<span style="font-size:80%;">•</span>&#160;<a href="/index.php?title=%E6%9D%B1%E6%96%B9%E6%B5%B7%E6%81%B5%E5%A0%82_%EF%BD%9E_Marine_Benefit./%E5%AF%BC%E8%88%AA&amp;action=edit"><span style=";;border:none;" title="您可以编辑这个模板。请在储存变更之前先预览">编</span></a></div></div><span><a href="./東方海恵堂_～_Marine_Benefit..md" title="東方海恵堂 ～ Marine Benefit." unred="">东方海惠堂</a></span></th></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="./東方海恵堂_～_Marine_Benefit.-角色.md" title="東方海恵堂 ～ Marine Benefit./角色">角色</a></td><td style=";;" class="navbox-list navbox-odd"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>自机</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./東方海恵堂_～_Marine_Benefit.-角色.md" title="東方海恵堂 ～ Marine Benefit./角色">博丽灵梦</a> &#8226; <a href="./東方海恵堂_～_Marine_Benefit.-角色.md" title="東方海恵堂 ～ Marine Benefit./角色">雾雨魔理沙</a> &#8226; <a href="./東方海恵堂_～_Marine_Benefit.-角色.md" title="東方海恵堂 ～ Marine Benefit./角色">东风谷早苗</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>BOSS</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./须佐乃森木叶.md" title="须佐乃森木叶">须佐乃森木叶</a> &#8226; <a href="./涡岛鸣子.md" title="涡岛鸣子">涡岛鸣子</a> &#8226; <a href="./雨津海遥.md" title="雨津海遥">雨津海遥</a> &#8226; <a href="./水无月燕.md" title="水无月燕">水无月燕</a> &#8226; <a href="./深堂香澄.md" title="深堂香澄">深堂香澄</a> &#8226; <a href="./八百比惠.md" title="八百比惠">八百比惠‎</a> &#8226; <a href="./八百比海琴.md" title="八百比海琴">八百比海琴</a> &#8226; <a href="./观福宫乙姬.md" title="观福宫乙姬">观福宫乙姬</a></div></td></tr></tbody></table><div></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="./東方海恵堂_～_Marine_Benefit.-设定与剧情.md" title="東方海恵堂 ～ Marine Benefit./设定与剧情">剧情</a></td><td style=";;" class="navbox-list navbox-even"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>剧情文本</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./東方海恵堂_～_Marine_Benefit.-设定与剧情-故事背景.md" title="東方海恵堂 ～ Marine Benefit./设定与剧情/故事背景">故事背景</a> &#8226; <a href="/index.php?title=%E6%9D%B1%E6%96%B9%E6%B5%B7%E6%81%B5%E5%A0%82_%EF%BD%9E_Marine_Benefit./%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85/%E8%AE%BE%E5%AE%9A%E6%96%87%E6%A1%A3&amp;action=edit&amp;redlink=1" class="new" title="東方海恵堂 ～ Marine Benefit./设定与剧情/设定文档（页面不存在）">Ex 故事背景</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>游戏对话&amp;结局</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./東方海恵堂_～_Marine_Benefit.-设定与剧情-博丽灵梦.md" title="東方海恵堂 ～ Marine Benefit./设定与剧情/博丽灵梦">博丽灵梦</a> &#8226; <a href="./東方海恵堂_～_Marine_Benefit.-设定与剧情-雾雨魔理沙.md" title="東方海恵堂 ～ Marine Benefit./设定与剧情/雾雨魔理沙">雾雨魔理沙</a> &#8226; <a href="./東方海恵堂_～_Marine_Benefit.-设定与剧情-东风谷早苗.md" title="東方海恵堂 ～ Marine Benefit./设定与剧情/东风谷早苗">东风谷早苗</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>Ex游戏对话</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./東方海恵堂_～_Marine_Benefit.-设定与剧情-博丽灵梦Extra.md" title="東方海恵堂 ～ Marine Benefit./设定与剧情/博丽灵梦Extra">博丽灵梦</a> &#8226; <a href="./東方海恵堂_～_Marine_Benefit.-设定与剧情-雾雨魔理沙Extra.md" title="東方海恵堂 ～ Marine Benefit./设定与剧情/雾雨魔理沙Extra">雾雨魔理沙</a> &#8226; <a href="./東方海恵堂_～_Marine_Benefit.-设定与剧情-东风谷早苗Extra.md" title="東方海恵堂 ～ Marine Benefit./设定与剧情/东风谷早苗Extra">东风谷早苗</a></div></td></tr></tbody></table><div></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">场景</td><td style=";;" class="navbox-list navbox-odd"><div>河畔树林 &#8226; 河口沙滩 &#8226; 海面 &#8226; 沉潜海流 &#8226; 海惠堂 &#8226; 黄泉</div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">音乐</td><td style=";;" class="navbox-list navbox-even"><div><a class="mw-selflink selflink">Music Room</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="/%E6%9D%B1%E6%96%B9%E6%B5%B7%E6%81%B5%E5%A0%82_%EF%BD%9E_Marine_Benefit./%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85#附带文档" title="東方海恵堂 ～ Marine Benefit./设定与剧情">附带文档</a></td><td style=";;" class="navbox-list navbox-odd"><div><a href="/index.php?title=%E6%9D%B1%E6%96%B9%E6%B5%B7%E6%81%B5%E5%A0%82_%EF%BD%9E_Marine_Benefit./%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85/%E8%AE%BE%E5%AE%9A%E6%96%87%E6%A1%A3&amp;action=edit&amp;redlink=1" class="new" title="東方海恵堂 ～ Marine Benefit./设定与剧情/设定文档（页面不存在）">设定文档</a> &#8226; <a href="/index.php?title=%E6%9D%B1%E6%96%B9%E6%B5%B7%E6%81%B5%E5%A0%82_%EF%BD%9E_Marine_Benefit./%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85/%E7%B4%A0%E6%9D%90%E7%9B%B8%E5%85%B3&amp;action=edit&amp;redlink=1" class="new" title="東方海恵堂 ～ Marine Benefit./设定与剧情/素材相关（页面不存在）">素材相关</a> &#8226; <a href="/index.php?title=%E6%9D%B1%E6%96%B9%E6%B5%B7%E6%81%B5%E5%A0%82_%EF%BD%9E_Marine_Benefit./%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85/readme&amp;action=edit&amp;redlink=1" class="new" title="東方海恵堂 ～ Marine Benefit./设定与剧情/readme（页面不存在）">readme</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">系统</td><td style=";;" class="navbox-list navbox-even"><div><a href="./東方海恵堂_～_Marine_Benefit.-系统说明.md" title="東方海恵堂 ～ Marine Benefit./系统说明">机体特性与系统说明</a> &#8226; <a href="./東方海恵堂_～_Marine_Benefit.-杂项.md" title="東方海恵堂 ～ Marine Benefit./杂项">其他</a></div></td></tr></tbody></table></td></tr></tbody></table>
-
-
-
-
-
+[^cite_note-2]: 经过一次重编。原名「渡海飛行　～ Sky voyage」。
+[^cite_note-3]: 经过一次重编。原曲「蒼天回遊録　～ Sky Ground Music」。
+[^cite_note-4]: 「辺り」写错成了同音的「当たり」。
+[^cite_note-5]: 经过一次重编。原曲「プライマリ・ジーン」（Primary Gene）。
+[^cite_note-6]: 游戏中作Prayed。根据黑羽的要求修改。
+[^cite_note-nico-7]: [最初版](http://commons.nicovideo.jp/material/nc12923) [加长版](http://commons.nicovideo.jp/material/nc13612) [本作使用版](http://commons.nicovideo.jp/material/nc25738)
+[^cite_note-8]: 著名科幻小说作家艾萨克·阿西莫夫（Isaac Asimov）
+[^cite_note-9]: 这首曲子没在游戏中的Music Room中出现，但确实是游戏中的曲子。
+[^cite_note-10]: 实际上游戏中没来得及使用，而是采用了对应Boss的曲子
+[^cite_note-11]: 因为wiki标题不接受方括号，所以把leet语改成了英文
 
 ---
 

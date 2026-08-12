@@ -1,6 +1,6 @@
 # 文件:kaiki-eb.mid
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\44\ns6%3Akaiki-eb%2Emid.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\44\ns6%3Akaiki-eb%2Emid.html -->
 
 the_Grimoire_of_Alice | 东方怪绮谈 | 官方MIDI
 
@@ -11,10 +11,6 @@ the Grimoire of Alice，一个神秘的版本。
 
 来自于[公式站](http://www16.big.or.jp/~zun/data/midi/contri/kaiki-eb.lzh)的奇怪版本。几乎可以说是藏在旮旯里。
   
-
-
-
-
 
 ---
 

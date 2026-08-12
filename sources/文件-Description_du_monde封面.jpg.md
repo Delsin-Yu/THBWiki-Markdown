@@ -1,6 +1,6 @@
 # 文件:Description_du_monde封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\22\ns6%3ADescription_du_monde%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\22\ns6%3ADescription_du_monde%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 FelesVlinder | schwarzwald | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ FelesVlinder | schwarzwald | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Description du monde](./Description_du_monde.md)  
-该封面包含的角色：- [古明地恋](./古明地恋.md)
-
-
-
+- [Description du monde](./Description_du_monde.md)该封面包含的角色：
+- [古明地恋](./古明地恋.md)
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:水桥帕露西（地灵殿立绘_niyaniya）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0f\ns6%3A%E6%B0%B4%E6%A1%A5%E5%B8%95%E9%9C%B2%E8%A5%BF%EF%BC%88%E5%9C%B0%E7%81%B5%E6%AE%BF%E7%AB%8B%E7%BB%98_niyaniya%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0f\ns6%3A%E6%B0%B4%E6%A1%A5%E5%B8%95%E9%9C%B2%E8%A5%BF%EF%BC%88%E5%9C%B0%E7%81%B5%E6%AE%BF%E7%AB%8B%E7%BB%98_niyaniya%EF%BC%89%2Epng.html -->
 
 ZUN绘 | 东方地灵殿 | 官方游戏立绘 | 水桥帕露西
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:MIRACLE_TO_MUSIC_TOHO封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bb\ns6%3AMIRACLE_TO_MUSIC_TOHO%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bb\ns6%3AMIRACLE_TO_MUSIC_TOHO%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 IOSYS | 专辑封面 | 封面图片
 
@@ -8,16 +8,12 @@ IOSYS | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [MIRACLE TO MUSIC TOHO](./MIRACLE_TO_MUSIC_TOHO.md)  
-该封面包含的角色：- [东风谷早苗](./东风谷早苗.md)- [茨木华扇](./茨木华扇.md)
+- [MIRACLE TO MUSIC TOHO](./MIRACLE_TO_MUSIC_TOHO.md)该封面包含的角色：
+- [东风谷早苗](./东风谷早苗.md)
+- [茨木华扇](./茨木华扇.md)
 
   
-源地址：[[1]](http://www.iosysos.com/cd/tohomtmt/images/IO-0303_jacket_600.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://www.iosysos.com/cd/tohomtmt/images/IO-0303_jacket_600.jpg)  
 
 ---
 

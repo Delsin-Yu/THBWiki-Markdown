@@ -1,6 +1,6 @@
 # 文件:东方ArcadiaRecord封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d1\ns6%3A%E4%B8%9C%E6%96%B9ArcadiaRecord%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d1\ns6%3A%E4%B8%9C%E6%96%B9ArcadiaRecord%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Aurea_Geräusch_Game_Studio | DAMO_NETWORK_LIMITED | KLabGames | 东方ArcadiaRecord | 封面图片 | 授权商业二次创作手机游戏 | 软件封面
 
@@ -10,11 +10,17 @@ Aurea_Geräusch_Game_Studio | DAMO_NETWORK_LIMITED | KLabGames | 东方ArcadiaRe
 使用了本文件作封面图片的作品：
   
 
-- [东方ArcadiaRecord](./东方ArcadiaRecord.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)- [博丽灵梦](./博丽灵梦.md)- [大妖精](./大妖精.md)- [橙](./橙.md)- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [八云蓝](./八云蓝.md)- [八云紫](./八云紫.md)- [因幡帝](./因幡帝.md)- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [东方ArcadiaRecord](./东方ArcadiaRecord.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
+- [博丽灵梦](./博丽灵梦.md)
+- [大妖精](./大妖精.md)
+- [橙](./橙.md)
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [八云蓝](./八云蓝.md)
+- [八云紫](./八云紫.md)
+- [因幡帝](./因幡帝.md)
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

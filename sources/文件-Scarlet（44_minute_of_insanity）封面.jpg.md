@@ -1,6 +1,6 @@
 # 文件:Scarlet（44_minute_of_insanity）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ef\ns6%3AScarlet%EF%BC%8844_minute_of_insanity%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ef\ns6%3AScarlet%EF%BC%8844_minute_of_insanity%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 44_minute_of_insanity | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Scarlet（44 minute of insanity）](./Scarlet（44_minute_of_insanity）.md)  
-该封面包含的角色：- [露米娅](./露米娅.md)
-
-
-
+- [Scarlet（44 minute of insanity）](./Scarlet（44_minute_of_insanity）.md)该封面包含的角色：
+- [露米娅](./露米娅.md)
 
 
 ---

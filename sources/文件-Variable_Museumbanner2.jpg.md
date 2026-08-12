@@ -1,14 +1,11 @@
 # 文件:Variable_Museumbanner2.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ea\ns6%3AVariable_Museumbanner2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ea\ns6%3AVariable_Museumbanner2%2Ejpg.html -->
 
 Variable_Museum | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

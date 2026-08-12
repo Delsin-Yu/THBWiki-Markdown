@@ -1,6 +1,6 @@
 # 文件:東方聖夜縁起_-Fantasic_Winter-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\21\ns6%3A%E6%9D%B1%E6%96%B9%E8%81%96%E5%A4%9C%E7%B8%81%E8%B5%B7_-Fantasic_Winter-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\21\ns6%3A%E6%9D%B1%E6%96%B9%E8%81%96%E5%A4%9C%E7%B8%81%E8%B5%B7_-Fantasic_Winter-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 明治大学東方Project研究機構
 
@@ -8,12 +8,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方聖夜縁起 -Fantasic Winter-](./東方聖夜縁起_-Fantasic_Winter-.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)源地址：[[1]](https://twitpic.com/bqcmtm)
-
-
-
-
+- [東方聖夜縁起 -Fantasic Winter-](./東方聖夜縁起_-Fantasic_Winter-.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+源地址：[\[1\]](https://twitpic.com/bqcmtm)
 
 ---
 

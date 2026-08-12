@@ -1,6 +1,6 @@
 # 文件:StoryDog_／_独白する緋々色金正八角柱封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\16\ns6%3AStoryDog_%EF%BC%8F_%E7%8B%AC%E7%99%BD%E3%81%99%E3%82%8B%E7%B7%8B%E3%80%85%E8%89%B2%E9%87%91%E6%AD%A3%E5%85%AB%E8%A7%92%E6%9F%B1%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\16\ns6%3AStoryDog_%EF%BC%8F_%E7%8B%AC%E7%99%BD%E3%81%99%E3%82%8B%E7%B7%8B%E3%80%85%E8%89%B2%E9%87%91%E6%AD%A3%E5%85%AB%E8%A7%92%E6%9F%B1%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Lu.Ma.S | すずだんご | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@ Lu.Ma.S | すずだんご | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [StoryDog ／ 独白する緋々色金正八角柱](./StoryDog_／_独白する緋々色金正八角柱.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [StoryDog ／ 独白する緋々色金正八角柱](./StoryDog_／_独白する緋々色金正八角柱.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

@@ -1,16 +1,12 @@
 # 模板:Tracon
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\e\e6\ns10%3ATracon.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\e\e6\ns10%3ATracon.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

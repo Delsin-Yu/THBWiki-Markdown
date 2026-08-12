@@ -1,16 +1,12 @@
 # 模板:ANOTHER_VISION
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\1\13\ns10%3AANOTHER_VISION.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\1\13\ns10%3AANOTHER_VISION.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

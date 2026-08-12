@@ -1,16 +1,11 @@
 # 文件:祭来堂banner2.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\14\ns6%3A%E7%A5%AD%E6%9D%A5%E5%A0%82banner2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\14\ns6%3A%E7%A5%AD%E6%9D%A5%E5%A0%82banner2%2Ejpg.html -->
 
 社团LOGO | 祭来堂
 
   
-源地址：[[1]](http://sairaido.web.fc2.com/img/banner01.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://sairaido.web.fc2.com/img/banner01.jpg)  
 
 ---
 

@@ -1,12 +1,8 @@
 # 文件:THD2红魔火箭4级.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cc\ns6%3ATHD2%E7%BA%A2%E9%AD%94%E7%81%AB%E7%AE%AD4%E7%BA%A7%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cc\ns6%3ATHD2%E7%BA%A2%E9%AD%94%E7%81%AB%E7%AE%AD4%E7%BA%A7%2Epng.html -->
 
 AvalonStudioOfficial
-
-
-
-
 
 
 ---

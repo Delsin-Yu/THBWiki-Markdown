@@ -1,6 +1,6 @@
 # 文件:CRIMSON'S_CREED_II封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dd\ns6%3ACRIMSON%27S_CREED_II%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dd\ns6%3ACRIMSON%27S_CREED_II%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Fifiruu.FIF | 同人志封面 | 封面图片
 
@@ -8,11 +8,8 @@ Fifiruu.FIF | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [CRIMSON'S CREED II](./CRIMSON'S_CREED_II.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)
-
-
-
+- [CRIMSON'S CREED II](./CRIMSON'S_CREED_II.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
 
 
 ---

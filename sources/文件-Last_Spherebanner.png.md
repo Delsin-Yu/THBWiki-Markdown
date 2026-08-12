@@ -1,14 +1,11 @@
 # 文件:Last_Spherebanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1e\ns6%3ALast_Spherebanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1e\ns6%3ALast_Spherebanner%2Epng.html -->
 
 Last_Sphere | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

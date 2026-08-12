@@ -1,16 +1,11 @@
 # 文件:SBFRlogo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c2\ns6%3ASBFRlogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c2\ns6%3ASBFRlogo%2Ejpg.html -->
 
 SBFR | 社团LOGO
 
   
-源地址：[[1]](https://booth.pximg.net/c/128x128/users/174216/icon_image/62f058d3-1c1d-4cac-b3a8-49cd1268c7cb_base_resized.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://booth.pximg.net/c/128x128/users/174216/icon_image/62f058d3-1c1d-4cac-b3a8-49cd1268c7cb_base_resized.jpg)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:なつのゆううつ~summer_broom_mesmerise~封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\49\ns6%3A%E3%81%AA%E3%81%A4%E3%81%AE%E3%82%86%E3%81%86%E3%81%86%E3%81%A4%7Esummer_broom_mesmerise%7E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\49\ns6%3A%E3%81%AA%E3%81%A4%E3%81%AE%E3%82%86%E3%81%86%E3%81%86%E3%81%A4%7Esummer_broom_mesmerise%7E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Jellyfish_Factory | 同人志封面 | 封面图片
 
@@ -8,11 +8,10 @@ Jellyfish_Factory | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [なつのゆううつ~summer broom mesmerise~](./なつのゆううつ~summer_broom_mesmerise~.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [なつのゆううつ~summer broom mesmerise~](./なつのゆううつ~summer_broom_mesmerise~.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

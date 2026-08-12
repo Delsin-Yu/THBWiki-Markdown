@@ -1,12 +1,8 @@
 # 文件:高久屋banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fd\ns6%3A%E9%AB%98%E4%B9%85%E5%B1%8Bbanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fd\ns6%3A%E9%AB%98%E4%B9%85%E5%B1%8Bbanner%2Egif.html -->
 
 社团LOGO | 高久屋
-
-
-
-
 
 
 ---

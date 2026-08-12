@@ -1,6 +1,6 @@
 # 文件:STRAIGHT_FOR_TWO封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2f\ns6%3ASTRAIGHT_FOR_TWO%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2f\ns6%3ASTRAIGHT_FOR_TWO%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 SNUG_SPACE | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ SNUG_SPACE | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [STRAIGHT FOR TWO](./STRAIGHT_FOR_TWO.md)  
-该封面包含的角色：- [红美铃](./红美铃.md)- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
-
-
-
+- [STRAIGHT FOR TWO](./STRAIGHT_FOR_TWO.md)该封面包含的角色：
+- [红美铃](./红美铃.md)
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
 
 
 ---

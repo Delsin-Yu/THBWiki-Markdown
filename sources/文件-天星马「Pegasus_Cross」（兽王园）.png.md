@@ -1,12 +1,8 @@
 # 文件:天星马「Pegasus_Cross」（兽王园）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4b\ns6%3A%E5%A4%A9%E6%98%9F%E9%A9%AC%E3%80%8CPegasus_Cross%E3%80%8D%EF%BC%88%E5%85%BD%E7%8E%8B%E5%9B%AD%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4b\ns6%3A%E5%A4%A9%E6%98%9F%E9%A9%AC%E3%80%8CPegasus_Cross%E3%80%8D%EF%BC%88%E5%85%BD%E7%8E%8B%E5%9B%AD%EF%BC%89%2Epng.html -->
 
 东方兽王园 | 自机符卡 | 骊驹早鬼
-
-
-
-
 
 
 ---

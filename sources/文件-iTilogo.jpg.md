@@ -1,18 +1,13 @@
 # 文件:iTilogo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b7\ns6%3AiTilogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b7\ns6%3AiTilogo%2Ejpg.html -->
 
 iTi | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[twitter avatar](https://pbs.twimg.com/profile_images/1237688349416030209/jbw8iR_b_400x400.jpg), [new logo announcement tweet](https://twitter.com/iti3_official/status/1237672109029183489)
-  
-
-
-
-
+源地址：[twitter avatar](https://pbs.twimg.com/profile_images/1237688349416030209/jbw8iR_b_400x400.jpg), [new logo announcement tweet](https://twitter.com/iti3_official/status/1237672109029183489)  
 
 ---
 

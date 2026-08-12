@@ -1,6 +1,6 @@
 # 文件:nostos_algos_hallucinate封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\af\ns6%3Anostos_algos_hallucinate%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\af\ns6%3Anostos_algos_hallucinate%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Xenoglossy | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Xenoglossy | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [nostos algos hallucinate](./nostos_algos_hallucinate.md)  
-该封面包含的角色：- [古明地觉](./古明地觉.md)
-
-
-
+- [nostos algos hallucinate](./nostos_algos_hallucinate.md)该封面包含的角色：
+- [古明地觉](./古明地觉.md)
 
 
 ---

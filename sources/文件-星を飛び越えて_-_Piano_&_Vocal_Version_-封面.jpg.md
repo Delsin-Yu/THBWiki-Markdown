@@ -1,6 +1,6 @@
 # 文件:星を飛び越えて_-_Piano_&_Vocal_Version_-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e2\ns6%3A%E6%98%9F%E3%82%92%E9%A3%9B%E3%81%B3%E8%B6%8A%E3%81%88%E3%81%A6_-_Piano_%26_Vocal_Version_-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e2\ns6%3A%E6%98%9F%E3%82%92%E9%A3%9B%E3%81%B3%E8%B6%8A%E3%81%88%E3%81%A6_-_Piano_%26_Vocal_Version_-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Liz_Triangle | 专辑封面 | 封面图片
 
@@ -10,16 +10,12 @@ Liz_Triangle | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [星を飛び越えて - Piano &amp; Vocal Version -](./星を飛び越えて_-_Piano_&_Vocal_Version_-.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
+- [星を飛び越えて - Piano & Vocal Version -](./星を飛び越えて_-_Piano_&_Vocal_Version_-.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
   
-源地址：[[1]](https://booth.pximg.net/aaff636a-db54-4b08-adf5-0d12403b7357/i/5073997/345f533b-ef21-401a-9b3c-660b3552e8c2_base_resized.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://booth.pximg.net/aaff636a-db54-4b08-adf5-0d12403b7357/i/5073997/345f533b-ef21-401a-9b3c-660b3552e8c2_base_resized.jpg)  
 
 ---
 

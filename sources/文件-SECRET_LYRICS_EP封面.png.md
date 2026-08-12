@@ -1,6 +1,6 @@
 # 文件:SECRET_LYRICS_EP封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1e\ns6%3ASECRET_LYRICS_EP%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1e\ns6%3ASECRET_LYRICS_EP%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Find_Your_Way | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ Find_Your_Way | 专辑封面 | 封面图片
   
 
 - [SECRET LYRICS EP](./SECRET_LYRICS_EP.md)
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:東方弦楽郷_Vol.2_夢想封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8a\ns6%3A%E6%9D%B1%E6%96%B9%E5%BC%A6%E6%A5%BD%E9%83%B7_Vol%2E2_%E5%A4%A2%E6%83%B3%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8a\ns6%3A%E6%9D%B1%E6%96%B9%E5%BC%A6%E6%A5%BD%E9%83%B7_Vol%2E2_%E5%A4%A2%E6%83%B3%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 東方弦楽郷
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方弦楽郷 Vol.2 夢想](./東方弦楽郷_Vol.2_夢想.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [東方弦楽郷 Vol.2 夢想](./東方弦楽郷_Vol.2_夢想.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

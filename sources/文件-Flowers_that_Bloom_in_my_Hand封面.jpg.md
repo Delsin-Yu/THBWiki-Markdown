@@ -1,6 +1,6 @@
 # 文件:Flowers_that_Bloom_in_my_Hand封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\92\ns6%3AFlowers_that_Bloom_in_my_Hand%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\92\ns6%3AFlowers_that_Bloom_in_my_Hand%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 梅の実画報
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [Flowers that Bloom in my Hand](./Flowers_that_Bloom_in_my_Hand.md)  
-该封面包含的角色：- [莉格露·奈特巴格](./莉格露·奈特巴格.md)- [风见幽香](./风见幽香.md)
-
-
-
+- [Flowers that Bloom in my Hand](./Flowers_that_Bloom_in_my_Hand.md)该封面包含的角色：
+- [莉格露·奈特巴格](./莉格露·奈特巴格.md)
+- [风见幽香](./风见幽香.md)
 
 
 ---

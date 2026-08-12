@@ -1,16 +1,12 @@
 # 文件:ssg_E7.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3a\ns6%3Assg_E7%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3a\ns6%3Assg_E7%2Epng.html -->
 
 秋霜玉
 
   
 秋霜玉敌机7像素图。
   
-
-
-
-
 
 ---
 

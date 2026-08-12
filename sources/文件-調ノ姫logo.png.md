@@ -1,18 +1,13 @@
 # 文件:調ノ姫logo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\59\ns6%3A%E8%AA%BF%E3%83%8E%E5%A7%ABlogo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\59\ns6%3A%E8%AA%BF%E3%83%8E%E5%A7%ABlogo%2Epng.html -->
 
 社团LOGO | 調ノ姫
 
 
 ## 摘要
   
-源地址：[direct image link](http://shirabenohime.web.fc2.com/img/logo.png), [source page](http://shirabenohime.web.fc2.com)
-  
-
-
-
-
+源地址：[direct image link](http://shirabenohime.web.fc2.com/img/logo.png), [source page](http://shirabenohime.web.fc2.com)  
 
 ---
 

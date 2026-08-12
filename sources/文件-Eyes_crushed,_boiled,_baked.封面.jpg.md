@@ -1,6 +1,6 @@
 # 文件:Eyes_crushed,_boiled,_baked.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3f\ns6%3AEyes_crushed%2C_boiled%2C_baked%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3f\ns6%3AEyes_crushed%2C_boiled%2C_baked%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Tengu_Corp | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Tengu_Corp | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Eyes crushed, boiled, baked.](./Eyes_crushed,_boiled,_baked..md)  
-该封面包含的角色：- [古明地恋](./古明地恋.md)
-
-
-
+- [Eyes crushed, boiled, baked.](./Eyes_crushed,_boiled,_baked..md)该封面包含的角色：
+- [古明地恋](./古明地恋.md)
 
 
 ---

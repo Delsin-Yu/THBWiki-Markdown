@@ -1,6 +1,6 @@
 # 文件:Lime_E.P.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a1\ns6%3ALime_E%2EP%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a1\ns6%3ALime_E%2EP%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ROUTE-ZERO | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ ROUTE-ZERO | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Lime E.P.](./Lime_E.P..md)  
-该封面包含的角色：- [东风谷早苗](./东风谷早苗.md)
-
-
-
+- [Lime E.P.](./Lime_E.P..md)该封面包含的角色：
+- [东风谷早苗](./东风谷早苗.md)
 
 
 ---

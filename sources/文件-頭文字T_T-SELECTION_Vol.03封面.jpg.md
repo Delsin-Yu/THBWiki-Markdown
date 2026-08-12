@@ -1,6 +1,6 @@
 # 文件:頭文字T_T-SELECTION_Vol.03封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e5\ns6%3A%E9%A0%AD%E6%96%87%E5%AD%97T_T-SELECTION_Vol%2E03%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e5\ns6%3A%E9%A0%AD%E6%96%87%E5%AD%97T_T-SELECTION_Vol%2E03%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Crazy_Beats | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Crazy_Beats | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [頭文字T T-SELECTION Vol.03](./頭文字T_T-SELECTION_Vol.03.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)
+- [頭文字T T-SELECTION Vol.03](./頭文字T_T-SELECTION_Vol.03.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
 
   
-源地址：[[1]](http://crazy-beats.jp/img/TVol03.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://crazy-beats.jp/img/TVol03.jpg)  
 
 ---
 

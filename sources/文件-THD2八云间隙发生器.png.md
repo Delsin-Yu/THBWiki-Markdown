@@ -1,12 +1,8 @@
 # 文件:THD2八云间隙发生器.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d2\ns6%3ATHD2%E5%85%AB%E4%BA%91%E9%97%B4%E9%9A%99%E5%8F%91%E7%94%9F%E5%99%A8%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d2\ns6%3ATHD2%E5%85%AB%E4%BA%91%E9%97%B4%E9%9A%99%E5%8F%91%E7%94%9F%E5%99%A8%2Epng.html -->
 
 THD2
-
-
-
-
 
 
 ---

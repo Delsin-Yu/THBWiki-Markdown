@@ -1,12 +1,8 @@
 # 文件:东方紫香花（CD）封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a1\ns6%3A%E4%B8%9C%E6%96%B9%E7%B4%AB%E9%A6%99%E8%8A%B1%EF%BC%88CD%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a1\ns6%3A%E4%B8%9C%E6%96%B9%E7%B4%AB%E9%A6%99%E8%8A%B1%EF%BC%88CD%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 东方紫香花 | 官方音乐CD封面
-
-
-
-
 
 
 ---

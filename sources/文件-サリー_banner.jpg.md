@@ -1,12 +1,8 @@
 # 文件:サリー_banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\89\ns6%3A%E3%82%B5%E3%83%AA%E3%83%BC_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\89\ns6%3A%E3%82%B5%E3%83%AA%E3%83%BC_banner%2Ejpg.html -->
 
 サリー | 社团LOGO
-
-
-
-
 
 
 ---

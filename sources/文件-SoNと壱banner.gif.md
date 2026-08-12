@@ -1,12 +1,8 @@
 # 文件:SoNと壱banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5e\ns6%3ASoN%E3%81%A8%E5%A3%B1banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5e\ns6%3ASoN%E3%81%A8%E5%A3%B1banner%2Egif.html -->
 
 SoNと壱 | 社团LOGO
-
-
-
-
 
 
 ---

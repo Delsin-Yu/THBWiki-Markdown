@@ -1,14 +1,11 @@
 # 文件:夢見里banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\77\ns6%3A%E5%A4%A2%E8%A6%8B%E9%87%8Cbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\77\ns6%3A%E5%A4%A2%E8%A6%8B%E9%87%8Cbanner%2Epng.html -->
 
 夢見里 | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

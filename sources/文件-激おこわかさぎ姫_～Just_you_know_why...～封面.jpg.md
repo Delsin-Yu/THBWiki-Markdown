@@ -1,6 +1,6 @@
 # 文件:激おこわかさぎ姫_～Just_you_know_why...～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\38\ns6%3A%E6%BF%80%E3%81%8A%E3%81%93%E3%82%8F%E3%81%8B%E3%81%95%E3%81%8E%E5%A7%AB_%EF%BD%9EJust_you_know_why%2E%2E%2E%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\38\ns6%3A%E6%BF%80%E3%81%8A%E3%81%93%E3%82%8F%E3%81%8B%E3%81%95%E3%81%8E%E5%A7%AB_%EF%BD%9EJust_you_know_why%2E%2E%2E%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 office-φ | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@ office-φ | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [激おこわかさぎ姫 ～Just you know why...～](./激おこわかさぎ姫_～Just_you_know_why...～.md)  
-该封面包含的角色：- [若鹭姬](./若鹭姬.md)
-
-
-
+- [激おこわかさぎ姫 ～Just you know why...～](./激おこわかさぎ姫_～Just_you_know_why...～.md)该封面包含的角色：
+- [若鹭姬](./若鹭姬.md)
 
 
 ---

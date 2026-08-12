@@ -1,12 +1,8 @@
 # 文件:我们仍未知道那天所看见的角色的语气。LOGO.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ec\ns6%3A%E6%88%91%E4%BB%AC%E4%BB%8D%E6%9C%AA%E7%9F%A5%E9%81%93%E9%82%A3%E5%A4%A9%E6%89%80%E7%9C%8B%E8%A7%81%E7%9A%84%E8%A7%92%E8%89%B2%E7%9A%84%E8%AF%AD%E6%B0%94%E3%80%82LOGO%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ec\ns6%3A%E6%88%91%E4%BB%AC%E4%BB%8D%E6%9C%AA%E7%9F%A5%E9%81%93%E9%82%A3%E5%A4%A9%E6%89%80%E7%9C%8B%E8%A7%81%E7%9A%84%E8%A7%92%E8%89%B2%E7%9A%84%E8%AF%AD%E6%B0%94%E3%80%82LOGO%2Egif.html -->
 
 我们仍未知道那天所看见的角色的语气。 | 活动LOGO
-
-
-
-
 
 
 ---

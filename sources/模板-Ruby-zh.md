@@ -1,10 +1,6 @@
 # 模板:Ruby-zh
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\5\59\ns10%3ARuby-zh.html -->
-
-
-
-
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\5\59\ns10%3ARuby-zh.html -->
 
 
 

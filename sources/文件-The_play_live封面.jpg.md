@@ -1,6 +1,6 @@
 # 文件:The_play_live封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\ff\ns6%3AThe_play_live%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\ff\ns6%3AThe_play_live%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Dystopia_Drug | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Dystopia_Drug | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [The play live](./The_play_live.md)  
-该封面包含的角色：- [圣白莲](./圣白莲.md)
+- [The play live](./The_play_live.md)该封面包含的角色：
+- [圣白莲](./圣白莲.md)
 
   
-源地址：[[1]](https://booth.pximg.net/c/620x620/90e49980-66ad-474f-85ee-61d8054f9950/i/362163/4f09fb23-13ff-422b-b65c-38941f0e75e7_base_resized.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://booth.pximg.net/c/620x620/90e49980-66ad-474f-85ee-61d8054f9950/i/362163/4f09fb23-13ff-422b-b65c-38941f0e75e7_base_resized.jpg)  
 
 ---
 

@@ -1,50 +1,40 @@
 # FumoOnly组委会/红美铃&咲夜_四季&小町徽章
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\0d\ns0%3AFumoOnly%E7%BB%84%E5%A7%94%E4%BC%9A%2F%E7%BA%A2%E7%BE%8E%E9%93%83%26%E5%92%B2%E5%A4%9C_%E5%9B%9B%E5%AD%A3%26%E5%B0%8F%E7%94%BA%E5%BE%BD%E7%AB%A0.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\0d\ns0%3AFumoOnly%E7%BB%84%E5%A7%94%E4%BC%9A%2F%E7%BA%A2%E7%BE%8E%E9%93%83%26%E5%92%B2%E5%A4%9C_%E5%9B%9B%E5%AD%A3%26%E5%B0%8F%E7%94%BA%E5%BE%BD%E7%AB%A0.html -->
 
 2023年5月2日 由 FumoOnly组委会 于 COMICUP29 发布的徽章周边，分级为 一般向
 
 本页是关于东方Project  
- **相关实体周边 (未找到链接)** 的词条
-
+**相关实体周边 (未找到链接)**的词条
 ## 目录
 
 - [1 周边信息](#周边信息)
 - [2 参考图](#参考图)
-
   - [2.1 预览图](#预览图)
-
 
 
 - [3 Staff](#Staff)
 - [4 评论](#评论)
 
 
-
-
-
 ## 周边信息
 
-<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 红美铃&#38;咲夜 四季&#38;小町徽章 </td></tr><tr><td class="label">制作方</td><td><a href="./FumoOnly组委会.md" title="FumoOnly组委会">FumoOnly组委会</a></td></tr><tr><td class="label">首发日期</td><td>2023-05-02&#160;（<a href="/展会作品列表?e=COMICUP%2329">COMICUP29</a>）</td></tr><tr><td class="label">类型</td><td>徽章</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">角色</td><td><a href="./红美铃.md" title="红美铃">红美铃</a><br><a href="/%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C" title="十六夜咲夜">十六夜咲夜</a><br><a href="./四季映姬·夜摩仙那度.md" title="四季映姬·夜摩仙那度">四季映姬·夜摩仙那度</a><br><a href="./小野塚小町.md" title="小野塚小町">小野塚小町</a></td></tr><tr><td class="label">售价</td><td>10人民币</td></tr></tbody></table>
+<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 红美铃&咲夜 四季&小町徽章 </td></tr><tr><td class="label">制作方</td><td><a href="./FumoOnly组委会.md" title="FumoOnly组委会">FumoOnly组委会</a></td></tr><tr><td class="label">首发日期</td><td>2023-05-02 （<a href="./展会作品列表.md#29">COMICUP29</a>）</td></tr><tr><td class="label">类型</td><td>徽章</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">角色</td><td><a href="./红美铃.md" title="红美铃">红美铃</a><br><a href="./十六夜咲夜.md" title="十六夜咲夜">十六夜咲夜</a><br><a href="./四季映姬·夜摩仙那度.md" title="四季映姬·夜摩仙那度">四季映姬·夜摩仙那度</a><br><a href="./小野塚小町.md" title="小野塚小町">小野塚小町</a></td></tr><tr><td class="label">售价</td><td>10人民币</td></tr></tbody></table>
 
-FumoOnly组委会/红美铃&amp;咲夜 四季&amp;小町徽章（周边，FumoOnly组委会，2023） - 2023年5月2日 由 FumoOnly组委会 于 COMICUP29 发布的徽章周边，分级为 一般向
-
+FumoOnly组委会/红美铃&咲夜 四季&小町徽章（周边，FumoOnly组委会，2023） - 2023年5月2日 由 FumoOnly组委会 于 COMICUP29 发布的徽章周边，分级为 一般向
 ## 参考图
   
 周边宣传、售卖时使用的作为参考图的预览图或实物图的图片。
   
 
-
 ### 预览图
-- [](./文件-FumoOnly组委会／红美铃&咲夜_四季&小町徽章预览图1.jpg.md)
+
+- <img alt="FumoOnly组委会／红美铃&amp;咲夜 四季&amp;小町徽章预览图1.jpg" src="https://upload.thwiki.cc/thumb/8/8c/FumoOnly%E7%BB%84%E5%A7%94%E4%BC%9A%EF%BC%8F%E7%BA%A2%E7%BE%8E%E9%93%83%26%E5%92%B2%E5%A4%9C_%E5%9B%9B%E5%AD%A3%26%E5%B0%8F%E7%94%BA%E5%BE%BD%E7%AB%A0%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg/259px-FumoOnly%E7%BB%84%E5%A7%94%E4%BC%9A%EF%BC%8F%E7%BA%A2%E7%BE%8E%E9%93%83%26%E5%92%B2%E5%A4%9C_%E5%9B%9B%E5%AD%A3%26%E5%B0%8F%E7%94%BA%E5%BE%BD%E7%AB%A0%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg" decoding="async" loading="lazy" width="173" height="250" srcset="https://upload.thwiki.cc/thumb/8/8c/FumoOnly%E7%BB%84%E5%A7%94%E4%BC%9A%EF%BC%8F%E7%BA%A2%E7%BE%8E%E9%93%83%26%E5%92%B2%E5%A4%9C_%E5%9B%9B%E5%AD%A3%26%E5%B0%8F%E7%94%BA%E5%BE%BD%E7%AB%A0%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg/389px-FumoOnly%E7%BB%84%E5%A7%94%E4%BC%9A%EF%BC%8F%E7%BA%A2%E7%BE%8E%E9%93%83%26%E5%92%B2%E5%A4%9C_%E5%9B%9B%E5%AD%A3%26%E5%B0%8F%E7%94%BA%E5%BE%BD%E7%AB%A0%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg 1.5x, https://upload.thwiki.cc/8/8c/FumoOnly%E7%BB%84%E5%A7%94%E4%BC%9A%EF%BC%8F%E7%BA%A2%E7%BE%8E%E9%93%83%26%E5%92%B2%E5%A4%9C_%E5%9B%9B%E5%AD%A3%26%E5%B0%8F%E7%94%BA%E5%BE%BD%E7%AB%A0%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg 2x" data-file-width="435" data-file-height="630"> 
 
 
 ## Staff
 
 ## 评论
-
-
-
 
 ---
 

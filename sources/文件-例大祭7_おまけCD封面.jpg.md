@@ -1,6 +1,6 @@
 # 文件:例大祭7_おまけCD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f6\ns6%3A%E4%BE%8B%E5%A4%A7%E7%A5%AD7_%E3%81%8A%E3%81%BE%E3%81%91CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f6\ns6%3A%E4%BE%8B%E5%A4%A7%E7%A5%AD7_%E3%81%8A%E3%81%BE%E3%81%91CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Human_Error | 专辑封面 | 封面图片
 
@@ -10,11 +10,9 @@ Human_Error | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [例大祭7 おまけCD](./例大祭7_おまけCD.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [魂魄妖梦](./魂魄妖梦.md)
-
-
-
+- [例大祭7 おまけCD](./例大祭7_おまけCD.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [魂魄妖梦](./魂魄妖梦.md)
 
 
 ---

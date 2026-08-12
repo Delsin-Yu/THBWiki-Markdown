@@ -1,6 +1,6 @@
 # 文件:NightWalker封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4d\ns6%3ANightWalker%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4d\ns6%3ANightWalker%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Colorful_Umbrella | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ Colorful_Umbrella | 专辑封面 | 封面图片
   
 
 - [NightWalker](./NightWalker.md)
-
-
-
 
 
 ---

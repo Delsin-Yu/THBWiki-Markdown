@@ -1,12 +1,8 @@
 # 文件:Murasato_banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2c\ns6%3AMurasato_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2c\ns6%3AMurasato_banner%2Ejpg.html -->
 
 村里翔太の音楽堂 | 社团LOGO
-
-
-
-
 
 
 ---

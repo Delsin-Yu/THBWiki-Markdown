@@ -1,12 +1,8 @@
 # 文件:「幻胧月睨（Lunatic_Red_Eyes）」（永夜抄）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6d\ns6%3A%E3%80%8C%E5%B9%BB%E8%83%A7%E6%9C%88%E7%9D%A8%EF%BC%88Lunatic_Red_Eyes%EF%BC%89%E3%80%8D%EF%BC%88%E6%B0%B8%E5%A4%9C%E6%8A%84%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6d\ns6%3A%E3%80%8C%E5%B9%BB%E8%83%A7%E6%9C%88%E7%9D%A8%EF%BC%88Lunatic_Red_Eyes%EF%BC%89%E3%80%8D%EF%BC%88%E6%B0%B8%E5%A4%9C%E6%8A%84%EF%BC%89%2Ejpg.html -->
 
 东方永夜抄 | 敌机符卡 | 铃仙·优昙华院·因幡
-
-
-
-
 
 
 ---

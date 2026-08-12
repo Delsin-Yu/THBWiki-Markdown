@@ -1,6 +1,6 @@
 # 文件:東方星蓮鍵_indefinite_imaginary_piano.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\49\ns6%3A%E6%9D%B1%E6%96%B9%E6%98%9F%E8%93%AE%E9%8D%B5_indefinite_imaginary_piano%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\49\ns6%3A%E6%9D%B1%E6%96%B9%E6%98%9F%E8%93%AE%E9%8D%B5_indefinite_imaginary_piano%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 XEoN×少女墓石倶楽部 | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ XEoN×少女墓石倶楽部 | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方星蓮鍵 indefinite imaginary piano.](./東方星蓮鍵_indefinite_imaginary_piano..md)  
-该封面包含的角色：- [封兽鵺](./封兽鵺.md)
-
-
-
+- [東方星蓮鍵 indefinite imaginary piano.](./東方星蓮鍵_indefinite_imaginary_piano..md)该封面包含的角色：
+- [封兽鵺](./封兽鵺.md)
 
 
 ---

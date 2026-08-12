@@ -1,18 +1,13 @@
 # 文件:MiRAETRAXlogo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\69\ns6%3AMiRAETRAXlogo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\69\ns6%3AMiRAETRAXlogo%2Epng.html -->
 
 MiRAETRAX | 社团LOGO
 
 
 ## 摘要
   
-源地址：[direct image link (original size)](https://f4.bcbits.com/img/0018838136_0.jpg), [source page (circle Bandcamp logo)](https://miraetrax.bandcamp.com/music)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://f4.bcbits.com/img/0018838136_0.jpg), [source page (circle Bandcamp logo)](https://miraetrax.bandcamp.com/music)  
 
 ---
 

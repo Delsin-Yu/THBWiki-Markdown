@@ -1,16 +1,12 @@
 # 模板:PP
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\a\ab\ns10%3APP.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\a\ab\ns10%3APP.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

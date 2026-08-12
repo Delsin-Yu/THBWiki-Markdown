@@ -1,6 +1,6 @@
 # 文件:ドキドキ_イマジナリーKo3封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a9\ns6%3A%E3%83%89%E3%82%AD%E3%83%89%E3%82%AD_%E3%82%A4%E3%83%9E%E3%82%B8%E3%83%8A%E3%83%AA%E3%83%BCKo3%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a9\ns6%3A%E3%83%89%E3%82%AD%E3%83%89%E3%82%AD_%E3%82%A4%E3%83%9E%E3%82%B8%E3%83%8A%E3%83%AA%E3%83%BCKo3%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 七輪大社 | 同人志封面 | 封面图片
 
@@ -10,11 +10,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [ドキドキ イマジナリーKo3](./ドキドキ_イマジナリーKo3.md)  
-该封面包含的角色：- [古明地恋](./古明地恋.md)- [多多良小伞](./多多良小伞.md)- [秦心](./秦心.md)
-
-
-
+- [ドキドキ イマジナリーKo3](./ドキドキ_イマジナリーKo3.md)该封面包含的角色：
+- [古明地恋](./古明地恋.md)
+- [多多良小伞](./多多良小伞.md)
+- [秦心](./秦心.md)
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:珠符「五爪龙之珠」（DS文花帖）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\98\ns6%3A%E7%8F%A0%E7%AC%A6%E3%80%8C%E4%BA%94%E7%88%AA%E9%BE%99%E4%B9%8B%E7%8F%A0%E3%80%8D%EF%BC%88DS%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\98\ns6%3A%E7%8F%A0%E7%AC%A6%E3%80%8C%E4%BA%94%E7%88%AA%E9%BE%99%E4%B9%8B%E7%8F%A0%E3%80%8D%EF%BC%88DS%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Ejpg.html -->
 
 东方文花帖DS | 敌机符卡 | 永江衣玖
-
-
-
-
 
 
 ---

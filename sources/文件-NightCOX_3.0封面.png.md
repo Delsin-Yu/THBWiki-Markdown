@@ -1,6 +1,6 @@
 # 文件:NightCOX_3.0封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4d\ns6%3ANightCOX_3%2E0%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4d\ns6%3ANightCOX_3%2E0%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 DFM | 专辑封面 | 封面图片
 
@@ -10,19 +10,14 @@ DFM | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [NightCOX 3.0](./NightCOX_3.0.md)  
-该封面包含的角色：- [洩矢诹访子](./洩矢诹访子.md)
+- [NightCOX 3.0](./NightCOX_3.0.md)该封面包含的角色：
+- [洩矢诹访子](./洩矢诹访子.md)
 
   
-源地址：[[1]](http://img-cdn.jg.jugem.jp/4f6/1407446/20111216_2103312.png)
-  
+源地址：[\[1\]](http://img-cdn.jg.jugem.jp/4f6/1407446/20111216_2103312.png)  
   
 note: don't use the soundcloud crossfade artwork because there isn't an original quality version available, which could mean it was enlarged by the website
   
-
-
-
-
 
 ---
 

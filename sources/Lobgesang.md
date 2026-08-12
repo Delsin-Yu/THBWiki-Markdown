@@ -1,11 +1,10 @@
 # Lobgesang
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\e\e9\ns0%3ALobgesang.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\e\e9\ns0%3ALobgesang.html -->
 
 Lobgesang ，于 2004 年成立，主要制作 同人音乐 的日本同人社团，主催是 Yuki，当前状态为 转入非东方
 
-本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
-
+本页是关于**[同人社团](./二次创作.md#同人社团)**的词条
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -15,51 +14,35 @@ Lobgesang ，于 2004 年成立，主要制作 同人音乐 的日本同人社�
 - [5 其他信息](#其他信息)
 
 
-
-
-
 ## 社团信息
-[](./文件-Lobgesangbanner.jpg.md)  [](./文件-Lobgesangbanner.jpg.md)banner
-
+<img alt="" src="https://upload.thwiki.cc/thumb/1/16/Lobgesangbanner.jpg/200px-Lobgesangbanner.jpg" decoding="async" loading="lazy" width="200" height="51" class="thumbimage" srcset="https://upload.thwiki.cc/1/16/Lobgesangbanner.jpg 1.5x" data-file-width="228" data-file-height="58">
+ [放大](./文件-Lobgesangbanner.jpg.md)banner
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Lobgesang </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2004</td></tr><tr><td><b>当前状态</b></td><td>转入非东方</td></tr><tr><td><b>主催</b></td><td> <a href="./雪.md" title="雪" unred="">Yuki</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://okayama.cool.ne.jp/ultimate4663/Lobgesang/">http://okayama.cool.ne.jp/ultimate4663/Lobgesang/</a> <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span><small>（<a rel="nofollow" class="external text" href="https://web.archive.org/web/20070718021101/http://okayama.cool.ne.jp:80/ultimate4663/Lobgesang/lobgesang-top/">缓存页面</a>）</small><br><a rel="nofollow" class="external free" href="http://lobgesang.net/main/discography.html">http://lobgesang.net/main/discography.html</a><br><a rel="nofollow" class="external free" href="https://yukiyiu.stores.jp/">https://yukiyiu.stores.jp/</a></td></tr></tbody></table>
 
 Lobgesang（同人社团，同人音乐社团） - Lobgesang ，于 2004 年成立，主要制作 同人音乐 的日本同人社团，主催是 Yuki，当前状态为 转入非东方
-
 ## 成员名单
+
 - [Yuki](./雪.md)
 
 : [Twitter: @yuki_yiu](https://twitter.com/yuki_yiu), [Youtube: yuki0yiu](https://www.youtube.com/@yuki0yiu)
 
-
 ## 作品列表
-[](./Strumming_春、幻想郷にてピアノをかき鳴らしてみれば.md)[Strumming 春、幻想郷にてピアノをかき鳴らしてみれば](./Strumming_春、幻想郷にてピアノをかき鳴らしてみれば.md)首发日期：2011-05-08 （第八回 博麗神社例大祭 (未找到链接)）全长 （一般向）该专辑分为3部分:
-: Sonata, op.1 奏鳴曲作品1 (Tr.1-4)
-: Waltz, op.2 輪舞曲作品2 (Tr.5-10)
-: Electronica, op.3 電子音響作品3 (Tr.11-12)
-[](./Ghost_Princess_EP.md)[Ghost Princess EP](./Ghost_Princess_EP.md)首发日期：2012-05-27 （第九回 博麗神社例大祭 (未找到链接)）EP （一般向）[](./GPLP.md)[GPLP](./GPLP.md)首发日期：2013-05-26 （第十回 博麗神社例大祭 (未找到链接)）全长、​精选集 （一般向）
-<table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
-
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
-
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
-</table>
-
-
+- **[Strumming 春、幻想郷にてピアノをかき鳴らしてみれば](./Strumming_春、幻想郷にてピアノをかき鳴らしてみれば.md)** — 首发日期：2011-05-08 （第八回 博麗神社例大祭）；全长 （一般向）；该专辑分为3部分:
+Sonata, op.1 奏鳴曲作品1 (Tr.1-4)
+Waltz, op.2 輪舞曲作品2 (Tr.5-10)
+Electronica, op.3 電子音響作品3 (Tr.11-12)
+- **[Ghost Princess EP](./Ghost_Princess_EP.md)** — 首发日期：2012-05-27 （第九回 博麗神社例大祭）；EP （一般向）
+- **[GPLP](./GPLP.md)** — 首发日期：2013-05-26 （第十回 博麗神社例大祭）；全长、​精选集 （一般向）
 
 ## 参展信息
 
-<table><tbody><tr><th class="活动页面">活动页面</th><th class="活动名称">活动名称</th><th class="日期">日期</th><th class="举办地点">举办地点</th><th class="摊位编号">摊位编号</th><th class="宣传页面">宣传页面</th><th class="备注">备注</th></tr><tr data-row-number="1" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD#10" title="博丽神社例大祭">博丽神社例大祭#10</a></span></td><td class="活动名称 smwtype_txt">第十回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2456438.5">2013-05-26</td><td class="举办地点 smwtype_txt">东京Big Sight 东123456展厅</td><td class="摊位编号 smwtype_txt">B31b</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="2" class="row-even"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD#9" title="博丽神社例大祭">博丽神社例大祭#9</a></span></td><td class="活动名称 smwtype_txt">第九回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2456074.5">2012-05-27</td><td class="举办地点 smwtype_txt">东京Big Sight 东123456展厅</td><td class="摊位编号 smwtype_txt">い-50b</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="3" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD#8" title="博丽神社例大祭">博丽神社例大祭#8</a></span></td><td class="活动名称 smwtype_txt">第八回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2455689.5">2011-05-08</td><td class="举办地点 smwtype_txt">东京Big Sight 东23456展厅</td><td class="摊位编号 smwtype_txt">に-01b</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr></tbody></table>
-
+<table><tbody><tr><th class="活动页面">活动页面</th><th class="活动名称">活动名称</th><th class="日期">日期</th><th class="举办地点">举办地点</th><th class="摊位编号">摊位编号</th><th class="宣传页面">宣传页面</th><th class="备注">备注</th></tr><tr data-row-number="1" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="./博丽神社例大祭.md#10" title="博丽神社例大祭">博丽神社例大祭#10</a></span></td><td class="活动名称 smwtype_txt">第十回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2456438.5">2013-05-26</td><td class="举办地点 smwtype_txt">东京Big Sight 东123456展厅</td><td class="摊位编号 smwtype_txt">B31b</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="2" class="row-even"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="./博丽神社例大祭.md#9" title="博丽神社例大祭">博丽神社例大祭#9</a></span></td><td class="活动名称 smwtype_txt">第九回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2456074.5">2012-05-27</td><td class="举办地点 smwtype_txt">东京Big Sight 东123456展厅</td><td class="摊位编号 smwtype_txt">い-50b</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="3" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="./博丽神社例大祭.md#8" title="博丽神社例大祭">博丽神社例大祭#8</a></span></td><td class="活动名称 smwtype_txt">第八回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2455689.5">2011-05-08</td><td class="举办地点 smwtype_txt">东京Big Sight 东23456展厅</td><td class="摊位编号 smwtype_txt">に-01b</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr></tbody></table>
 
 
 ## 其他信息
   
-Yuki也在[Re:Volte](./Re-Volte.md)的東方入眠抄系列作曲。
+Yuki也在[Re:Volte](./Re：Volte.md)的東方入眠抄系列作曲。
   
-
-
-
-
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:thEIoS_15.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\35\ns6%3AthEIoS_15%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\35\ns6%3AthEIoS_15%2Emp3.html -->
 
 一念的繁华 | 东方祈华梦制作组
 
@@ -9,10 +9,6 @@
   
 东方祈华梦6面道中曲
   
-
-
-
-
 
 ---
 

@@ -1,14 +1,11 @@
 # 文件:あらもーどbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8b\ns6%3A%E3%81%82%E3%82%89%E3%82%82%E3%83%BC%E3%81%A9banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8b\ns6%3A%E3%81%82%E3%82%89%E3%82%82%E3%83%BC%E3%81%A9banner%2Epng.html -->
 
 あらもーど | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

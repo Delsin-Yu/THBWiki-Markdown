@@ -1,6 +1,6 @@
 # 文件:DualInsomiNabanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d4\ns6%3ADualInsomiNabanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d4\ns6%3ADualInsomiNabanner%2Ejpg.html -->
 
 DualInsomiNa | 社团LOGO
 
@@ -9,10 +9,6 @@ DualInsomiNa | 社团LOGO
   
 社团logo
   
-
-
-
-
 
 ---
 

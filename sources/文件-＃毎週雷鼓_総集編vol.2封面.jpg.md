@@ -1,6 +1,6 @@
 # 文件:＃毎週雷鼓_総集編vol.2封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1c\ns6%3A%EF%BC%83%E6%AF%8E%E9%80%B1%E9%9B%B7%E9%BC%93_%E7%B7%8F%E9%9B%86%E7%B7%A8vol%2E2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1c\ns6%3A%EF%BC%83%E6%AF%8E%E9%80%B1%E9%9B%B7%E9%BC%93_%E7%B7%8F%E9%9B%86%E7%B7%A8vol%2E2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 八寺発電所 | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [＃毎週雷鼓 総集編vol.2](./＃毎週雷鼓_総集編vol.2.md)  
-该封面包含的角色：- [堀川雷鼓](./堀川雷鼓.md)
-
-
-
+- [＃毎週雷鼓 総集編vol.2](./＃毎週雷鼓_総集編vol.2.md)该封面包含的角色：
+- [堀川雷鼓](./堀川雷鼓.md)
 
 
 ---

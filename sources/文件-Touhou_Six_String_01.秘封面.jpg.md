@@ -1,6 +1,6 @@
 # 文件:Touhou_Six_String_01.秘封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5c\ns6%3ATouhou_Six_String_01%2E%E7%A7%98%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5c\ns6%3ATouhou_Six_String_01%2E%E7%A7%98%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Aftergrow | はちみつれもん | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ Aftergrow | はちみつれもん | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Touhou Six String 01.秘](./Touhou_Six_String_01.秘.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [Touhou Six String 01.秘](./Touhou_Six_String_01.秘.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

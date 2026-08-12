@@ -1,12 +1,8 @@
 # 文件:「冰眠古坟（Ice_Coffin）」.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\33\ns6%3A%E3%80%8C%E5%86%B0%E7%9C%A0%E5%8F%A4%E5%9D%9F%EF%BC%88Ice_Coffin%EF%BC%89%E3%80%8D%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\33\ns6%3A%E3%80%8C%E5%86%B0%E7%9C%A0%E5%8F%A4%E5%9D%9F%EF%BC%88Ice_Coffin%EF%BC%89%E3%80%8D%2Ejpg.html -->
 
 東方邪星章製作チーム
-
-
-
-
 
 
 ---

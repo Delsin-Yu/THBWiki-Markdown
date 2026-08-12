@@ -1,6 +1,6 @@
 # 文件:MADE_IN_CAKE封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\01\ns6%3AMADE_IN_CAKE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\01\ns6%3AMADE_IN_CAKE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 HOSENROCK | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@ HOSENROCK | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [MADE IN CAKE](./MADE_IN_CAKE.md)  
-该封面包含的角色：- [杖刀偶磨弓](./杖刀偶磨弓.md)
+- [MADE IN CAKE](./MADE_IN_CAKE.md)该封面包含的角色：
+- [杖刀偶磨弓](./杖刀偶磨弓.md)
 
   
-[Pixiv artwork ID: 84934197](https://www.pixiv.net/artworks/84934197)
-  
-
-
-
-
+[Pixiv artwork ID: 84934197](https://www.pixiv.net/artworks/84934197)  
 
 ---
 

@@ -1,12 +1,8 @@
 # 文件:トマト組_banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dc\ns6%3A%E3%83%88%E3%83%9E%E3%83%88%E7%B5%84_banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dc\ns6%3A%E3%83%88%E3%83%9E%E3%83%88%E7%B5%84_banner%2Epng.html -->
 
 トマト組 | 社团LOGO
-
-
-
-
 
 
 ---

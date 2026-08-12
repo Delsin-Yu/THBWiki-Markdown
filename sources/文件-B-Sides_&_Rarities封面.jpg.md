@@ -1,6 +1,6 @@
 # 文件:B-Sides_&_Rarities封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7f\ns6%3AB-Sides_%26_Rarities%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7f\ns6%3AB-Sides_%26_Rarities%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 暁Records
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [B-Sides &amp; Rarities](./B-Sides_&_Rarities.md)  
-该封面包含的角色：- [纯狐](./纯狐.md)
-
-
-
+- [B-Sides & Rarities](./B-Sides_&_Rarities.md)该封面包含的角色：
+- [纯狐](./纯狐.md)
 
 
 ---

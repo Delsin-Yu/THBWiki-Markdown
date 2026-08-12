@@ -1,6 +1,6 @@
 # 文件:init_-TOHOTRANCE_ARRANGE_WORKS-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e7\ns6%3Ainit_-TOHOTRANCE_ARRANGE_WORKS-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e7\ns6%3Ainit_-TOHOTRANCE_ARRANGE_WORKS-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 dat_file_records | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ dat_file_records | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [init -TOHOTRANCE ARRANGE WORKS-](./init_-TOHOTRANCE_ARRANGE_WORKS-.md)  
-该封面包含的角色：- [丰聪耳神子](./丰聪耳神子.md)
-
-
-
+- [init -TOHOTRANCE ARRANGE WORKS-](./init_-TOHOTRANCE_ARRANGE_WORKS-.md)该封面包含的角色：
+- [丰聪耳神子](./丰聪耳神子.md)
 
 
 ---

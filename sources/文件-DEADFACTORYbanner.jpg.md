@@ -1,18 +1,13 @@
 # 文件:DEADFACTORYbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\39\ns6%3ADEADFACTORYbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\39\ns6%3ADEADFACTORYbanner%2Ejpg.html -->
 
 DEADFACTORY | 社团LOGO
 
 
 ## 摘要
   
-源地址：[direct image link](http://blog.cnobi.jp/v1/blog/user/f3e323bdd9a2f8f5935fb39fb7bab57d/1210006462), [source page](http://deadfactory.blog.shinobi.jp/)
-  
-
-
-
-
+源地址：[direct image link](http://blog.cnobi.jp/v1/blog/user/f3e323bdd9a2f8f5935fb39fb7bab57d/1210006462), [source page](http://deadfactory.blog.shinobi.jp/)  
 
 ---
 

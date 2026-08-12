@@ -1,18 +1,13 @@
 # 文件:地雷少女症候群banner2.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9e\ns6%3A%E5%9C%B0%E9%9B%B7%E5%B0%91%E5%A5%B3%E7%97%87%E5%80%99%E7%BE%A4banner2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9e\ns6%3A%E5%9C%B0%E9%9B%B7%E5%B0%91%E5%A5%B3%E7%97%87%E5%80%99%E7%BE%A4banner2%2Ejpg.html -->
 
 地雷少女症候群 | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[[1]](http://blog.cnobi.jp/v1/blog/user/ab9e9af0d68f92637f54732ead0358a3/1332679478)
-  
-
-
-
-
+源地址：[\[1\]](http://blog.cnobi.jp/v1/blog/user/ab9e9af0d68f92637f54732ead0358a3/1332679478)  
 
 ---
 

@@ -1,12 +1,8 @@
 # 文件:cordelia_banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9c\ns6%3Acordelia_banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9c\ns6%3Acordelia_banner%2Egif.html -->
 
 cordelia | 社团LOGO
-
-
-
-
 
 
 ---

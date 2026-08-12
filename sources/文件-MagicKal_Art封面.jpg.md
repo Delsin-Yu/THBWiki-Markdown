@@ -1,6 +1,6 @@
 # 文件:MagicKal_Art封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cd\ns6%3AMagicKal_Art%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cd\ns6%3AMagicKal_Art%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 秘教機械
 
@@ -8,11 +8,16 @@
 使用了本文件作封面图片的作品：
   
 
-- [MagicKal Art](./MagicKal_Art.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)- [琪斯美](./琪斯美.md)- [西行寺幽幽子](./西行寺幽幽子.md)- [蓬莱山辉夜](./蓬莱山辉夜.md)- [黑谷山女](./黑谷山女.md)- [稗田阿求](./稗田阿求.md)- [胡桃](./胡桃.md)- [神绮](./神绮.md)
-
-
-
+- [MagicKal Art](./MagicKal_Art.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
+- [琪斯美](./琪斯美.md)
+- [西行寺幽幽子](./西行寺幽幽子.md)
+- [蓬莱山辉夜](./蓬莱山辉夜.md)
+- [黑谷山女](./黑谷山女.md)
+- [稗田阿求](./稗田阿求.md)
+- [胡桃](./胡桃.md)
+- [神绮](./神绮.md)
 
 
 ---

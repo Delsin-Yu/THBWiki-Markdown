@@ -1,6 +1,6 @@
 # 文件:A_New_World_Like_Home_DEMO封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\11\ns6%3AA_New_World_Like_Home_DEMO%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\11\ns6%3AA_New_World_Like_Home_DEMO%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 求める者
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [A New World Like Home DEMO](./A_New_World_Like_Home_DEMO.md)  
-该封面包含的角色：- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [A New World Like Home DEMO](./A_New_World_Like_Home_DEMO.md)该封面包含的角色：
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

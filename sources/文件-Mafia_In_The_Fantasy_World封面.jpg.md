@@ -1,6 +1,6 @@
 # 文件:Mafia_In_The_Fantasy_World封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5a\ns6%3AMafia_In_The_Fantasy_World%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5a\ns6%3AMafia_In_The_Fantasy_World%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 FLANKER | 专辑封面 | 封面图片
 
@@ -8,16 +8,14 @@ FLANKER | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Mafia In The Fantasy World](./Mafia_In_The_Fantasy_World.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [西行寺幽幽子](./西行寺幽幽子.md)- [八云紫](./八云紫.md)
+- [Mafia In The Fantasy World](./Mafia_In_The_Fantasy_World.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [西行寺幽幽子](./西行寺幽幽子.md)
+- [八云紫](./八云紫.md)
 
   
-源地址:[http&#160;://flankerdoujin.web.fc2.com/t5/mafia-hp. jpg](http://flankerdoujin.web.fc2.com/t5/mafia-hp.jpg)
-  
-
-
-
-
+源地址:[http ://flankerdoujin.web.fc2.com/t5/mafia-hp. jpg](http://flankerdoujin.web.fc2.com/t5/mafia-hp.jpg)  
 
 ---
 

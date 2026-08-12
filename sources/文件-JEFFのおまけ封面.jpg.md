@@ -1,6 +1,6 @@
 # 文件:JEFFのおまけ封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e3\ns6%3AJEFF%E3%81%AE%E3%81%8A%E3%81%BE%E3%81%91%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e3\ns6%3AJEFF%E3%81%AE%E3%81%8A%E3%81%BE%E3%81%91%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 JunKY-jaM | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ JunKY-jaM | 专辑封面 | 封面图片
   
 
 - [JEFFのおまけ](./JEFFのおまけ.md)
-
-
-
 
 
 ---

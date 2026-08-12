@@ -1,14 +1,11 @@
 # 文件:草枕とbanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4d\ns6%3A%E8%8D%89%E6%9E%95%E3%81%A8banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4d\ns6%3A%E8%8D%89%E6%9E%95%E3%81%A8banner%2Egif.html -->
 
 社团LOGO | 草枕と
 
 
 ## 摘要
-
-
-
 
 ---
 

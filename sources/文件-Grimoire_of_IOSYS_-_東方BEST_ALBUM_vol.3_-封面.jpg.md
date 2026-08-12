@@ -1,6 +1,6 @@
 # 文件:Grimoire_of_IOSYS_-_東方BEST_ALBUM_vol.3_-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e2\ns6%3AGrimoire_of_IOSYS_-_%E6%9D%B1%E6%96%B9BEST_ALBUM_vol%2E3_-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e2\ns6%3AGrimoire_of_IOSYS_-_%E6%9D%B1%E6%96%B9BEST_ALBUM_vol%2E3_-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 IOSYS | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ IOSYS | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Grimoire of IOSYS - 東方BEST ALBUM vol.3 -](./Grimoire_of_IOSYS_-_東方BEST_ALBUM_vol.3_-.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)
-
-
-
+- [Grimoire of IOSYS - 東方BEST ALBUM vol.3 -](./Grimoire_of_IOSYS_-_東方BEST_ALBUM_vol.3_-.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
 
 
 ---

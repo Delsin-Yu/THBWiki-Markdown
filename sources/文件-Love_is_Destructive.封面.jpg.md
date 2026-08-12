@@ -1,6 +1,6 @@
 # 文件:Love_is_Destructive.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fc\ns6%3ALove_is_Destructive%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fc\ns6%3ALove_is_Destructive%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 モノクロ殺人現場写真 | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Love is Destructive.](./Love_is_Destructive..md)  
-该封面包含的角色：- [古明地恋](./古明地恋.md)
+- [Love is Destructive.](./Love_is_Destructive..md)该封面包含的角色：
+- [古明地恋](./古明地恋.md)
 
   
-源地址：[[1]](http://monokurosatsujin.up.n.seesaa.net/monokurosatsujin/image/LiDjaket.jpg?d=a1)
-  
-
-
-
-
+源地址：[\[1\]](http://monokurosatsujin.up.n.seesaa.net/monokurosatsujin/image/LiDjaket.jpg?d=a1)  
 
 ---
 

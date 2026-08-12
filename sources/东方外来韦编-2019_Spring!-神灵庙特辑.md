@@ -1,10 +1,11 @@
 # 东方外来韦编/2019_Spring!/神灵庙特辑
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\5\56\ns0%3A%E4%B8%9C%E6%96%B9%E5%A4%96%E6%9D%A5%E9%9F%A6%E7%BC%96%2F2019_Spring%21%2F%E7%A5%9E%E7%81%B5%E5%BA%99%E7%89%B9%E8%BE%91.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\5\56\ns0%3A%E4%B8%9C%E6%96%B9%E5%A4%96%E6%9D%A5%E9%9F%A6%E7%BC%96%2F2019_Spring%21%2F%E7%A5%9E%E7%81%B5%E5%BA%99%E7%89%B9%E8%BE%91.html -->
 
 东方外来韦编 | 引用了翻译表的页面
 
-- 本词条为中文翻译版，如需要日文对照请参见 **[中日对照](./东方外来韦编-2019_Spring!-神灵庙特辑-中日对照.md)** 
+
+- 本词条为中文翻译版，如需要日文对照请参见**[中日对照](./东方外来韦编-2019_Spring!-神灵庙特辑-中日对照.md)**
 - 该内容于杂志中页数：010-013
 - 翻译：驴肉
 
@@ -16,27 +17,21 @@ Ten Desires.在樱花盛开的春天的幻想乡，
 对此感到可疑的各位动身开始了调查。  
 而等在神灵集聚之地的，  
 是从1400年长眠中苏醒的人们——。文/本泽 澈
-
 ## 目录
 
 - [1 游戏简介](#游戏简介)
-
   - [1.1 系统介绍](#系统介绍)
   - [1.2 练习模式](#练习模式)
 
 
-
 - [2 自机介绍](#自机介绍)
-
   - [2.1 博丽灵梦](#博丽灵梦)
   - [2.2 雾雨魔理沙](#雾雨魔理沙)
   - [2.3 东风谷早苗](#东风谷早苗)
   - [2.4 魂魄妖梦](#魂魄妖梦)
 
 
-
 - [3 关卡介绍](#关卡介绍)
-
   - [3.1 STAGE1](#STAGE1)
   - [3.2 STAGE2](#STAGE2)
   - [3.3 STAGE3](#STAGE3)
@@ -46,16 +41,11 @@ Ten Desires.在樱花盛开的春天的幻想乡，
   - [3.7 EXTRA模式](#EXTRA模式)
 
 
-
 - [4 注释](#注释)
-
-
-
 
 
 ## 游戏简介
 绽放于生与死的窗口间的光辉呼唤胜利！　　『东方神灵庙~Ten Desires.』，是颁布于2011年举办的ComiMarket80的东方系列的正作，作品编号是13。从编号10的「风神录」到前作「星莲船」的正作，全部都是以信仰和宗教为主题，而本作也继承了这一点。这次，本作的焦点，是中国的传统宗教道教，那些通过秘术获得不死之力的道士们作为敌人在本作登场。另外，本作将「佛教传来」这一日本史上有名的事件作为设定的基础，可以体验到“那些被认为曾经积极地在日本传播佛教的势力，实际上……”，这种不同于寻常的独特故事。。　　本作的剧情与前作「星莲船」之间的关联非常强，故事内容被定义为续篇。其中起到连接两部作品功能的，是前作中作为敌对势力的命莲寺，并且在作品中数次被提及和道教势力之间颇有因缘，在本作中——以身为领导者的白莲为首的核心成员即使没有登场——在本作中也有很强的存在感。但是不论如何，本作的基本构图还是「灵梦等人VS道教势力」，而不是命莲寺和道士们进行对峙的故事。两者之间的直接对决，则是在发布于本作下一年的东方系列外传「心绮楼」中的故事了。
-
 <table>
 
 <tbody><tr>
@@ -67,30 +57,23 @@ Ten Desires.在樱花盛开的春天的幻想乡，
 </td></tr></tbody></table>
 
 
-
 ### 系统介绍
-成为攻略要点的新系统「灵界TRANCE」　　本作的特色元素「灵界TRANCE」是指，被击中后就会进入TRANCE状态并进入灵界，在倒下前的数秒中，进入无敌并且将射击攻击超大幅强化的系统。发动这项能力需要消耗显示在左下角的「灵界槽」，当槽满时则可以任意进入灵界。灵界槽通过收集小神灵增加
-[](./文件-外来韦编7_神灵庙介绍_03.jpg.md)  [](./文件-外来韦编7_神灵庙介绍_03.jpg.md)在击倒敌人并收集它们掉落的「小神灵」时，灵界槽就会积攒。在本作中，补充符卡和剩余人数的道具都被集约在小神灵里。但是自机的射击威力和得分道具，还是以小神灵之外的形式登场。
-通过TRANCE进入灵界施展无双！
-[](./文件-外来韦编7_神灵庙介绍_04.jpg.md)  [](./文件-外来韦编7_神灵庙介绍_04.jpg.md)在灵界，自身会获得压倒性的力量而小圣灵[^cite_note-1]的效果也会强化。不论是对于闯过难关，还是为了获得更多点数，灵界TRANCE都有着很高的重要性。神灵出现的数量会随着你的战斗方式变化，所以让其尽可能多地出现并高效地积累灵界槽也是攻略的重点。
-小神灵的种类和效果颜　色　效果　　　　　　　　　　　　　　出现条件  
+成为攻略要点的新系统「灵界TRANCE」　　本作的特色元素「灵界TRANCE」是指，被击中后就会进入TRANCE状态并进入灵界，在倒下前的数秒中，进入无敌并且将射击攻击超大幅强化的系统。发动这项能力需要消耗显示在左下角的「灵界槽」，当槽满时则可以任意进入灵界。灵界槽通过收集小神灵增加<img alt="" src="https://upload.thwiki.cc/2/2f/%E5%A4%96%E6%9D%A5%E9%9F%A6%E7%BC%967_%E7%A5%9E%E7%81%B5%E5%BA%99%E4%BB%8B%E7%BB%8D_03.jpg" decoding="async" loading="lazy" width="186" height="139" class="thumbimage" data-file-width="186" data-file-height="139">
+ [放大](./文件-外来韦编7_神灵庙介绍_03.jpg.md)在击倒敌人并收集它们掉落的「小神灵」时，灵界槽就会积攒。在本作中，补充符卡和剩余人数的道具都被集约在小神灵里。但是自机的射击威力和得分道具，还是以小神灵之外的形式登场。通过TRANCE进入灵界施展无双！<img alt="" src="https://upload.thwiki.cc/2/2e/%E5%A4%96%E6%9D%A5%E9%9F%A6%E7%BC%967_%E7%A5%9E%E7%81%B5%E5%BA%99%E4%BB%8B%E7%BB%8D_04.jpg" decoding="async" loading="lazy" width="163" height="191" class="thumbimage" data-file-width="163" data-file-height="191">
+ [放大](./文件-外来韦编7_神灵庙介绍_04.jpg.md)在灵界，自身会获得压倒性的力量而小圣灵[^cite_note-1]的效果也会强化。不论是对于闯过难关，还是为了获得更多点数，灵界TRANCE都有着很高的重要性。神灵出现的数量会随着你的战斗方式变化，所以让其尽可能多地出现并高效地积累灵界槽也是攻略的重点。小神灵的种类和效果颜　色　效果　　　　　　　　　　　　　　出现条件  
 青神灵　可以增加得分道具的最大得分上限　将敌人快速击破、在BOSS附近对其造成伤害  
 紫神灵　可以增加剩余人数的碎片　　　　　击破持有它的特定敌人  
 绿神灵　可以增加符卡的碎片　　　　　　　击破持有它的特定敌人  
 白神灵　会算入得分，并大幅增加灵界槽　　当青神灵连续大量出现的时候会出现
-
 ### 练习模式
-充实的练习模式　　本作中准备了可以指定各个BOSS的特定符卡进行攻略的「符卡练习」模式，可以针对自己不擅长应对的部分进行练习。在本模式中还可以挑战高于本篇中最高难度的「OVERDRIVE」难度。
-[](./文件-外来韦编7_神灵庙介绍_05.jpg.md)  [](./文件-外来韦编7_神灵庙介绍_05.jpg.md)符卡练习模式是自「永夜抄」以后再次出现的。另外，本作也有以每一关为单位进行练习的通常练习模式。
-
+充实的练习模式　　本作中准备了可以指定各个BOSS的特定符卡进行攻略的「符卡练习」模式，可以针对自己不擅长应对的部分进行练习。在本模式中还可以挑战高于本篇中最高难度的「OVERDRIVE」难度。<img alt="" src="https://upload.thwiki.cc/9/93/%E5%A4%96%E6%9D%A5%E9%9F%A6%E7%BC%967_%E7%A5%9E%E7%81%B5%E5%BA%99%E4%BB%8B%E7%BB%8D_05.jpg" decoding="async" loading="lazy" width="167" height="125" class="thumbimage" data-file-width="167" data-file-height="125">
+ [放大](./文件-外来韦编7_神灵庙介绍_05.jpg.md)符卡练习模式是自「永夜抄」以后再次出现的。另外，本作也有以每一关为单位进行练习的通常练习模式。
 ## 自机介绍
-通过改变移动速度来切换射击模式　　本作可用的自机角色有四人。以往作品中在游戏开始时选择角色射击模式的选项，在本作中被取消。取而代之的是，本作中通过改变移动速度时，弹幕射击的特性会大大改变，可以随时随地在两种完全不同的弹幕间进行切换。
-[](./文件-外来韦编7_神灵庙介绍_06.jpg.md)  [](./文件-外来韦编7_神灵庙介绍_06.jpg.md)在高速移动时射击广域扩散型弹幕，在低速移动时射击火力集中型弹幕。在TRANCE模式下则会变为专属的强力弹幕，该弹幕不受移动速度影响。
-
+通过改变移动速度来切换射击模式　　本作可用的自机角色有四人。以往作品中在游戏开始时选择角色射击模式的选项，在本作中被取消。取而代之的是，本作中通过改变移动速度时，弹幕射击的特性会大大改变，可以随时随地在两种完全不同的弹幕间进行切换。<img alt="" src="https://upload.thwiki.cc/0/03/%E5%A4%96%E6%9D%A5%E9%9F%A6%E7%BC%967_%E7%A5%9E%E7%81%B5%E5%BA%99%E4%BB%8B%E7%BB%8D_06.jpg" decoding="async" loading="lazy" width="255" height="193" class="thumbimage" data-file-width="255" data-file-height="193">
+ [放大](./文件-外来韦编7_神灵庙介绍_06.jpg.md)在高速移动时射击广域扩散型弹幕，在低速移动时射击火力集中型弹幕。在TRANCE模式下则会变为专属的强力弹幕，该弹幕不受移动速度影响。
 ### 博丽灵梦
 五欲的巫女  
 博丽灵梦　　我们的老朋友博丽巫女。因为数量繁多的神灵，莫名其妙地出现而感到不安，所以开始了调查。抱着「总之遇到妖怪就干掉」的态度。
-
 <table>
 
 <tbody><tr>
@@ -108,11 +91,9 @@ Ten Desires.在樱花盛开的春天的幻想乡，
 </td></tr></tbody></table>
 
 
-
 ### 雾雨魔理沙
 强欲的魔法使  
 雾雨魔理沙　　大家很熟悉的魔法使。出于好奇心而追踪神灵，因为得知了大祀庙的存在，并认为里面藏有宝物而展开了「学术性质的遗迹考察」（自称）。
-
 <table>
 
 <tbody><tr>
@@ -130,11 +111,9 @@ Ten Desires.在樱花盛开的春天的幻想乡，
 </td></tr></tbody></table>
 
 
-
 ### 东风谷早苗
 我欲的巫女  
 东风谷早苗　　守矢神社的巫女，继「星莲船」之后再次作为自机登场。动机是认为神灵聚集的地方一定会有助于神社的兴盛。性格天然朴素。
-
 <table>
 
 <tbody><tr>
@@ -152,11 +131,9 @@ Ten Desires.在樱花盛开的春天的幻想乡，
 </td></tr></tbody></table>
 
 
-
 ### 魂魄妖梦
 死欲的半灵  
 魂魄妖梦　　人类与幽灵的混血。从「花映冢」开始担任整数作自机的位置。因为不希望发生和灵有关的骚动所以开始了调查。
-
 <table>
 
 <tbody><tr>
@@ -174,14 +151,11 @@ Ten Desires.在樱花盛开的春天的幻想乡，
 </td></tr></tbody></table>
 
 
-
 ## 关卡介绍
 与招引「欲望之结晶」——神灵们的古代圣人的战斗！
-
 ### STAGE1
 STAGE1  
 死亡之后，愈发愉悦　　为调查神灵骚动而出发的主人公，认为既然是灵的话去找那个对幽灵非常了解的人问一问吧，于是前往了幽幽子那里。幽幽子回答说，那些出没的是「神灵的孩子」，与幽灵完全无关。
-
 <table>
 
 <tbody><tr>
@@ -192,15 +166,12 @@ STAGE1
 <div class="center"><div class="thumb tnone"><div class="thumbinner" style="width:259px;"><a href="./文件-外来韦编7_神灵庙介绍_20.jpg.md" class="image"><img alt="" src="https://upload.thwiki.cc/8/8c/%E5%A4%96%E6%9D%A5%E9%9F%A6%E7%BC%967_%E7%A5%9E%E7%81%B5%E5%BA%99%E4%BB%8B%E7%BB%8D_20.jpg" decoding="async" loading="lazy" width="257" height="193" class="thumbimage" data-file-width="257" data-file-height="193"></a>  <div class="thumbcaption"><div class="magnify"><a href="./文件-外来韦编7_神灵庙介绍_20.jpg.md" class="internal" title="放大"></a></div><div class="tt-zh tt-type-omake" lang="zh"><div class="poem">幽幽子用她独特的口吻通告说，那些被称为神灵的孩子的是人类欲望的结晶，以及寺中的墓地十分可疑等重要情报。</div></div></div></div></div></div>
 </td></tr></tbody></table>
 
-
 心无彷徨的亡灵  
-西行寺幽幽子
-[](./文件-西行寺幽幽子（神灵庙立绘）.png.md)  [](./文件-西行寺幽幽子（神灵庙立绘）.png.md)「妖妖梦」中的最终BOSS，性格超然的亡灵。虽然之前作品中的角色再次登场的有很多，但是前最终BOSS作为一面登场的游戏还是很稀奇的。
-
+西行寺幽幽子<img alt="" src="https://upload.thwiki.cc/thumb/3/3b/%E8%A5%BF%E8%A1%8C%E5%AF%BA%E5%B9%BD%E5%B9%BD%E5%AD%90%EF%BC%88%E7%A5%9E%E7%81%B5%E5%BA%99%E7%AB%8B%E7%BB%98%EF%BC%89.png/150px-%E8%A5%BF%E8%A1%8C%E5%AF%BA%E5%B9%BD%E5%B9%BD%E5%AD%90%EF%BC%88%E7%A5%9E%E7%81%B5%E5%BA%99%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="150" height="304" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/3/3b/%E8%A5%BF%E8%A1%8C%E5%AF%BA%E5%B9%BD%E5%B9%BD%E5%AD%90%EF%BC%88%E7%A5%9E%E7%81%B5%E5%BA%99%E7%AB%8B%E7%BB%98%EF%BC%89.png/225px-%E8%A5%BF%E8%A1%8C%E5%AF%BA%E5%B9%BD%E5%B9%BD%E5%AD%90%EF%BC%88%E7%A5%9E%E7%81%B5%E5%BA%99%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/3/3b/%E8%A5%BF%E8%A1%8C%E5%AF%BA%E5%B9%BD%E5%B9%BD%E5%AD%90%EF%BC%88%E7%A5%9E%E7%81%B5%E5%BA%99%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="253" data-file-height="512">
+ [放大](./文件-西行寺幽幽子（神灵庙立绘）.png.md)「妖妖梦」中的最终BOSS，性格超然的亡灵。虽然之前作品中的角色再次登场的有很多，但是前最终BOSS作为一面登场的游戏还是很稀奇的。
 ### STAGE2
 STAGE2  
 门前的妖怪，念诵未习读的经文　　主人公听从了幽幽子的建议去往命莲寺。在其境内，皈依佛门的妖怪幽谷响子，正在做着她白天的工作。在击退了视主人公为入侵者并攻过来的她后，主人公们前往了墓地。
-
 <table>
 
 <tbody><tr>
@@ -211,15 +182,12 @@ STAGE2
 <div class="center"><div class="thumb tnone"><div class="thumbinner" style="width:168px;"><a href="./文件-外来韦编7_神灵庙介绍_22.jpg.md" class="image"><img alt="" src="https://upload.thwiki.cc/8/8e/%E5%A4%96%E6%9D%A5%E9%9F%A6%E7%BC%967_%E7%A5%9E%E7%81%B5%E5%BA%99%E4%BB%8B%E7%BB%8D_22.jpg" decoding="async" loading="lazy" width="166" height="194" class="thumbimage" data-file-width="166" data-file-height="194"></a>  <div class="thumbcaption"><div class="magnify"><a href="./文件-外来韦编7_神灵庙介绍_22.jpg.md" class="internal" title="放大"></a></div><div class="tt-zh tt-type-omake" lang="zh"><div class="poem">在响子的攻击中，弹幕不停地反射来反射去，让人觉得像回音一样。</div></div></div></div></div></div>
 </td></tr></tbody></table>
 
-
 诵经的山彦  
-幽谷响子
-[](./文件-幽谷响子（神灵庙立绘）.png.md)  [](./文件-幽谷响子（神灵庙立绘）.png.md)负责制造山彦现象的妖怪。仅仅是和来到寺庙的主人公进行了较量，和故事主线没有关系。被打败后马上一副蔫了的样子十分可爱。
-
+幽谷响子<img alt="" src="https://upload.thwiki.cc/thumb/7/7c/%E5%B9%BD%E8%B0%B7%E5%93%8D%E5%AD%90%EF%BC%88%E7%A5%9E%E7%81%B5%E5%BA%99%E7%AB%8B%E7%BB%98%EF%BC%89.png/150px-%E5%B9%BD%E8%B0%B7%E5%93%8D%E5%AD%90%EF%BC%88%E7%A5%9E%E7%81%B5%E5%BA%99%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="150" height="323" class="thumbimage" srcset="https://upload.thwiki.cc/7/7c/%E5%B9%BD%E8%B0%B7%E5%93%8D%E5%AD%90%EF%BC%88%E7%A5%9E%E7%81%B5%E5%BA%99%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x" data-file-width="218" data-file-height="470">
+ [放大](./文件-幽谷响子（神灵庙立绘）.png.md)负责制造山彦现象的妖怪。仅仅是和来到寺庙的主人公进行了较量，和故事主线没有关系。被打败后马上一副蔫了的样子十分可爱。
 ### STAGE3
 STAGE3  
 直线的乐园　　在墓地，主人公遭遇了唐伞妖怪小伞。小伞因为被她打不过的妖怪抢走了地盘，来找人求助。主人公顺便打倒了小伞向道路深处前进，在前方遇到了僵尸宫古芳香。虽然试着在击败她后听取情报，但完全没有办法交涉，所以在把她放走后她跑到了墓地的洞窟里。
-
 <table>
 
 <tbody><tr>
@@ -232,7 +200,6 @@ STAGE3
 <td>
 <div class="center"><div class="thumb tnone"><div class="thumbinner" style="width:168px;"><a href="./文件-外来韦编7_神灵庙介绍_25.jpg.md" class="image"><img alt="" src="https://upload.thwiki.cc/d/d8/%E5%A4%96%E6%9D%A5%E9%9F%A6%E7%BC%967_%E7%A5%9E%E7%81%B5%E5%BA%99%E4%BB%8B%E7%BB%8D_25.jpg" decoding="async" loading="lazy" width="166" height="194" class="thumbimage" data-file-width="166" data-file-height="194"></a>  <div class="thumbcaption"><div class="magnify"><a href="./文件-外来韦编7_神灵庙介绍_25.jpg.md" class="internal" title="放大"></a></div><div class="tt-zh tt-type-omake" lang="zh"><div class="poem">芳香主要使用飞刀型的弹幕。还有通过神灵恢复体力的能力，十分顽强。</div></div></div></div></div></div>
 </td></tr></tbody></table>
-
 
 
 <table>
@@ -248,11 +215,9 @@ STAGE3
 </td></tr></tbody></table>
 
 
-
 ### STAGE4
 STAGE4  
 加速的嗜欲　　在洞窟里出现了道教的建筑，梦殿大祀庙。守在入口处的霍青娥说，那些被主人公称为神灵的存在，不过是无法成为神灵的欲望的结晶，它们因为某位人物的苏醒而被吸引前来。
-
 <table>
 
 <tbody><tr>
@@ -263,15 +228,12 @@ STAGE4
 <div class="center"><div class="thumb tnone"><div class="thumbinner" style="width:259px;"><a href="./文件-外来韦编7_神灵庙介绍_27.jpg.md" class="image"><img alt="" src="https://upload.thwiki.cc/2/2f/%E5%A4%96%E6%9D%A5%E9%9F%A6%E7%BC%967_%E7%A5%9E%E7%81%B5%E5%BA%99%E4%BB%8B%E7%BB%8D_27.jpg" decoding="async" loading="lazy" width="257" height="192" class="thumbimage" data-file-width="257" data-file-height="192"></a>  <div class="thumbcaption"><div class="magnify"><a href="./文件-外来韦编7_神灵庙介绍_27.jpg.md" class="internal" title="放大"></a></div><div class="tt-zh tt-type-omake" lang="zh"><div class="poem">青娥说，庙的主人有着和欲望有关的能力，那些欲望的结晶，希望借她的力量成为真正的神灵所以擅自聚集到了这里。</div></div></div></div></div></div>
 </td></tr></tbody></table>
 
-
 穿墙的邪仙  
-霍青娥
-[](./文件-霍青娥（神灵庙立绘）.png.md)  [](./文件-霍青娥（神灵庙立绘）.png.md)在佛教开始传播的时代从大陆来到这里的邪仙。让当时的权力者丰聪耳神子理解了道教的魅力，并带她走上了修道之路。
-
+霍青娥<img alt="" src="https://upload.thwiki.cc/thumb/1/18/%E9%9C%8D%E9%9D%92%E5%A8%A5%EF%BC%88%E7%A5%9E%E7%81%B5%E5%BA%99%E7%AB%8B%E7%BB%98%EF%BC%89.png/240px-%E9%9C%8D%E9%9D%92%E5%A8%A5%EF%BC%88%E7%A5%9E%E7%81%B5%E5%BA%99%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="240" height="252" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/1/18/%E9%9C%8D%E9%9D%92%E5%A8%A5%EF%BC%88%E7%A5%9E%E7%81%B5%E5%BA%99%E7%AB%8B%E7%BB%98%EF%BC%89.png/360px-%E9%9C%8D%E9%9D%92%E5%A8%A5%EF%BC%88%E7%A5%9E%E7%81%B5%E5%BA%99%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/1/18/%E9%9C%8D%E9%9D%92%E5%A8%A5%EF%BC%88%E7%A5%9E%E7%81%B5%E5%BA%99%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="380" data-file-height="399">
+ [放大](./文件-霍青娥（神灵庙立绘）.png.md)在佛教开始传播的时代从大陆来到这里的邪仙。让当时的权力者丰聪耳神子理解了道教的魅力，并带她走上了修道之路。
 ### STAGE5
 STGAE5  
 匿迹隐形之人的血　　开始着手调查梦殿大祀庙的主人公，遭到了古代人的亡灵，苏我屠自古的攻击。在将她击退后，又出现了自称为物部布都的道士。她也是古代人，因为道教的秘术而成为了不死者，并与主君一起经历了长眠。一开始，刚刚从长眠中醒来的布都还没有把握清楚状况，但知道主人公不是自己人而开始了攻击。但是，当知道主君复活的消息时，单方面地停止了对话并离开了。
-
 <table>
 
 <tbody><tr>
@@ -284,7 +246,6 @@ STGAE5
 <td>
 <div class="center"><div class="thumb tnone"><div class="thumbinner" style="width:259px;"><a href="./文件-外来韦编7_神灵庙介绍_30.jpg.md" class="image"><img alt="" src="https://upload.thwiki.cc/f/f1/%E5%A4%96%E6%9D%A5%E9%9F%A6%E7%BC%967_%E7%A5%9E%E7%81%B5%E5%BA%99%E4%BB%8B%E7%BB%8D_30.jpg" decoding="async" loading="lazy" width="257" height="193" class="thumbimage" data-file-width="257" data-file-height="193"></a>  <div class="thumbcaption"><div class="magnify"><a href="./文件-外来韦编7_神灵庙介绍_30.jpg.md" class="internal" title="放大"></a></div><div class="tt-zh tt-type-omake" lang="zh"><div class="poem">布都错认为主人公是为了庆祝自己的复活而来所以出来迎接，特别喜欢先入为主，而且还有点糊涂。</div></div></div></div></div></div>
 </td></tr></tbody></table>
-
 
 
 <table>
@@ -300,11 +261,9 @@ STGAE5
 </td></tr></tbody></table>
 
 
-
 ### LAST STAGE
 LAST STAGE  
 以和为贵　　在大祀庙的深处出现了异空间。等在那里的，是庙的主人丰聪耳神子。曾被称为圣德王的她，虽然对世间自称是佛教信徒，但实际上为了不老不死而迷恋着道教。于是，一方面为了统治民众而支持佛教，另一方面又让布都加入自己一起秘密研究道教。期望着成为不死的超人，并且期待作为执政者复活而进入了长眠。虽然主人公并没有明确的理由要和她战斗，但事已至此已经不能空手而归所以对她宣战了。神子也期待着这场战斗，点燃了决战的导火索。
-
 <table>
 
 <tbody><tr>
@@ -318,15 +277,12 @@ LAST STAGE
 <div class="center"><div class="thumb tnone"><div class="thumbinner" style="width:260px;"><a href="./文件-外来韦编7_神灵庙介绍_33.jpg.md" class="image"><img alt="" src="https://upload.thwiki.cc/d/d5/%E5%A4%96%E6%9D%A5%E9%9F%A6%E7%BC%967_%E7%A5%9E%E7%81%B5%E5%BA%99%E4%BB%8B%E7%BB%8D_33.jpg" decoding="async" loading="lazy" width="258" height="193" class="thumbimage" data-file-width="258" data-file-height="193"></a>  <div class="thumbcaption"><div class="magnify"><a href="./文件-外来韦编7_神灵庙介绍_33.jpg.md" class="internal" title="放大"></a></div><div class="tt-zh tt-type-omake" lang="zh"><div class="poem">虽然是留下了许多传说的有名人，但是由于被说那些伟业都是编造的故事，进入了幻想乡。</div></div></div></div></div></div>
 </td></tr></tbody></table>
 
-
 圣德道士  
-丰聪耳神子
-[](./文件-丰聪耳神子（神灵庙立绘）.png.md)  [](./文件-丰聪耳神子（神灵庙立绘）.png.md)是能同时听清十个人说话的圣人，道教势力的领导者。拥有把握对方欲望的能力，可以通过欲望完全看透对方。
-
+丰聪耳神子<img alt="" src="https://upload.thwiki.cc/thumb/3/38/%E4%B8%B0%E8%81%AA%E8%80%B3%E7%A5%9E%E5%AD%90%EF%BC%88%E7%A5%9E%E7%81%B5%E5%BA%99%E7%AB%8B%E7%BB%98%EF%BC%89.png/150px-%E4%B8%B0%E8%81%AA%E8%80%B3%E7%A5%9E%E5%AD%90%EF%BC%88%E7%A5%9E%E7%81%B5%E5%BA%99%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="150" height="274" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/3/38/%E4%B8%B0%E8%81%AA%E8%80%B3%E7%A5%9E%E5%AD%90%EF%BC%88%E7%A5%9E%E7%81%B5%E5%BA%99%E7%AB%8B%E7%BB%98%EF%BC%89.png/225px-%E4%B8%B0%E8%81%AA%E8%80%B3%E7%A5%9E%E5%AD%90%EF%BC%88%E7%A5%9E%E7%81%B5%E5%BA%99%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/3/38/%E4%B8%B0%E8%81%AA%E8%80%B3%E7%A5%9E%E5%AD%90%EF%BC%88%E7%A5%9E%E7%81%B5%E5%BA%99%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="263" data-file-height="480">
+ [放大](./文件-丰聪耳神子（神灵庙立绘）.png.md)是能同时听清十个人说话的圣人，道教势力的领导者。拥有把握对方欲望的能力，可以通过欲望完全看透对方。
 ### EXTRA模式
 叙述本篇后日谈的EXTRA关卡  
 「点燃反击的狼烟吧！」　　命莲寺建立在大祀庙之上绝对不是偶然，白莲建立命莲寺就是为了封印道教势力。但是神子已经复活。危机感日益激化的寺内的妖怪们，为此找来了足以和神子对抗的大妖怪。主人公认为，这个妖怪是个将会带来各种问题的麻烦。所以为了防患于未然，前往了命莲寺。
-
 <table>
 
 <tbody><tr>
@@ -336,7 +292,6 @@ LAST STAGE
 <td>
 <div class="center"><div class="thumb tnone"><div class="thumbinner" style="width:168px;"><a href="./文件-外来韦编7_神灵庙介绍_35.jpg.md" class="image"><img alt="" src="https://upload.thwiki.cc/8/83/%E5%A4%96%E6%9D%A5%E9%9F%A6%E7%BC%967_%E7%A5%9E%E7%81%B5%E5%BA%99%E4%BB%8B%E7%BB%8D_35.jpg" decoding="async" loading="lazy" width="166" height="194" class="thumbimage" data-file-width="166" data-file-height="194"></a>  <div class="thumbcaption"><div class="magnify"><a href="./文件-外来韦编7_神灵庙介绍_35.jpg.md" class="internal" title="放大"></a></div><div class="tt-zh tt-type-omake" lang="zh"><div class="poem">主要使用了，将生物戏画化的形状的子弹。这个弹幕多彩而漂亮。</div></div></div></div></div></div>
 </td></tr></tbody></table>
-
 
 
 <table>
@@ -351,13 +306,7 @@ LAST STAGE
 <div class="thumb tleft"><div class="thumbinner" style="width:152px;"><a href="./文件-二岩猯藏（神灵庙立绘）.png.md" class="image"><img alt="" src="https://upload.thwiki.cc/thumb/e/e3/%E4%BA%8C%E5%B2%A9%E7%8C%AF%E8%97%8F%EF%BC%88%E7%A5%9E%E7%81%B5%E5%BA%99%E7%AB%8B%E7%BB%98%EF%BC%89.png/150px-%E4%BA%8C%E5%B2%A9%E7%8C%AF%E8%97%8F%EF%BC%88%E7%A5%9E%E7%81%B5%E5%BA%99%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="150" height="321" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/e/e3/%E4%BA%8C%E5%B2%A9%E7%8C%AF%E8%97%8F%EF%BC%88%E7%A5%9E%E7%81%B5%E5%BA%99%E7%AB%8B%E7%BB%98%EF%BC%89.png/225px-%E4%BA%8C%E5%B2%A9%E7%8C%AF%E8%97%8F%EF%BC%88%E7%A5%9E%E7%81%B5%E5%BA%99%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/e/e3/%E4%BA%8C%E5%B2%A9%E7%8C%AF%E8%97%8F%EF%BC%88%E7%A5%9E%E7%81%B5%E5%BA%99%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="239" data-file-height="512"></a>  <div class="thumbcaption"><div class="magnify"><a href="./文件-二岩猯藏（神灵庙立绘）.png.md" class="internal" title="放大"></a></div><div class="tt-zh tt-type-omake" lang="zh"><div class="poem">被鵺呼唤来到了这里的，血统纯正的狸猫妖怪。拥有让自身或是周围的事物「变形」的能力，能通过该力量施展出多姿多彩的弹幕。</div></div></div></div></div>
 </td></tr></tbody></table>
 
-
-
 [^cite_note-1]: 疑为误植，应为“小神灵”，下同。
-
-
-
-
 
 ---
 

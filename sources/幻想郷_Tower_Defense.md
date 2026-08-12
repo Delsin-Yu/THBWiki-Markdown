@@ -1,12 +1,11 @@
 # 幻想郷_Tower_Defense
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\03\ns0%3A%E5%B9%BB%E6%83%B3%E9%83%B7_Tower_Defense.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\03\ns0%3A%E5%B9%BB%E6%83%B3%E9%83%B7_Tower_Defense.html -->
 
 2008年11月2日 由 @N-Factory 于 东方红楼梦4 发布的PUZ同人游戏，可在 Windows 系统上运行，游戏人数为 单人模式，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人软件 (未找到链接)** 的词条
-
+**[二次创作同人软件](./二次创作.md#同人软件)**的词条
 ## 目录
 
 - [1 软件信息](#软件信息)
@@ -15,28 +14,18 @@
 - [4 评论](#评论)
 
 
-
-
-
 ## 软件信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-幻想郷_Tower_Defense封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/7/74/%E5%B9%BB%E6%83%B3%E9%83%B7_Tower_Defense%E5%B0%81%E9%9D%A2.jpg/224px-%E5%B9%BB%E6%83%B3%E9%83%B7_Tower_Defense%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="221" srcset="https://upload.thwiki.cc/thumb/7/74/%E5%B9%BB%E6%83%B3%E9%83%B7_Tower_Defense%E5%B0%81%E9%9D%A2.jpg/336px-%E5%B9%BB%E6%83%B3%E9%83%B7_Tower_Defense%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/7/74/%E5%B9%BB%E6%83%B3%E9%83%B7_Tower_Defense%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="400" data-file-height="395"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></div></td>
 </tr><tr><td class="label">名称</td><td colspan="2"> 幻想郷 Tower Defense </td></tr><tr><td class="label">译名</td><td colspan="2"> 幻想乡 Tower Defense </td></tr><tr><td class="label">制作方</td><td><a href="./@N-Factory.md" title="@N-Factory">@N-Factory</a></td><td class="cover-artwork" rowspan="8" style="min-width:224px;"><a href="./文件-幻想郷_Tower_Defense封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/7/74/%E5%B9%BB%E6%83%B3%E9%83%B7_Tower_Defense%E5%B0%81%E9%9D%A2.jpg/224px-%E5%B9%BB%E6%83%B3%E9%83%B7_Tower_Defense%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="221" srcset="https://upload.thwiki.cc/thumb/7/74/%E5%B9%BB%E6%83%B3%E9%83%B7_Tower_Defense%E5%B0%81%E9%9D%A2.jpg/336px-%E5%B9%BB%E6%83%B3%E9%83%B7_Tower_Defense%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/7/74/%E5%B9%BB%E6%83%B3%E9%83%B7_Tower_Defense%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="400" data-file-height="395"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2008-11-02&#160;（<a href="/展会作品列表?e=%E4%B8%9C%E6%96%B9%E7%BA%A2%E6%A5%BC%E6%A2%A6%234">東方紅楼夢4</a>）</td></tr><tr><td class="label">类型</td><td>游戏</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">游戏人数</td><td>单人模式</td></tr><tr><td class="label">游戏类型</td><td>PUZ</td></tr><tr><td class="label">运行平台</td><td>Windows</td></tr><tr><td class="label">语言</td><td>日文</td></tr><tr><td class="label">售价</td><td>700日元</td></tr>
+</tr><tr><td class="label">首发日期</td><td>2008-11-02 （<a href="./展会作品列表.md#4">東方紅楼夢4</a>）</td></tr><tr><td class="label">类型</td><td>游戏</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">游戏人数</td><td>单人模式</td></tr><tr><td class="label">游戏类型</td><td>PUZ</td></tr><tr><td class="label">运行平台</td><td>Windows</td></tr><tr><td class="label">语言</td><td>日文</td></tr><tr><td class="label">售价</td><td>700日元</td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://atn-factory.jp/gtd/#intro">http://atn-factory.jp/gtd/#intro</a></td></tr></tbody></table>
 
 幻想郷 Tower Defense（同人游戏，@N-Factory，2008） - 2008年11月2日 由 @N-Factory 于 东方红楼梦4 发布的PUZ同人游戏，可在 Windows 系统上运行，游戏人数为 单人模式，分级为 一般向
-  
-  
-
-  
-
-
 <table>
 <tbody><tr><th colspan="2">配置需求</th></tr>
 <tr><td style="width:120px;padding-left:7px;"><b>操作系统</b></td><td>Windows XP/Vista(32bit)</td></tr><tr><td style="width:120px;padding-left:7px;"><b>显示卡</b></td><td>支持DirectX 9.0c的显卡</td></tr><tr><td style="width:120px;padding-left:7px;"><b>其他</b></td><td>DirectX 9.0c以上 推荐使用键盘 不支持游戏手柄</td></tr>
 </tbody></table>
-
 
 
 ## Staff
@@ -47,17 +36,14 @@
 音乐
 : KGM
 
-
 ## 内容页面
+
 - 游戏设定与剧情 (未找到链接)
 - 攻略 (未找到链接)
 - [版本历史](./幻想郷_Tower_Defense-杂项.md)
 
 
 ## 评论
-
-
-
 
 ---
 

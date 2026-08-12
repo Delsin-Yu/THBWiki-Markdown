@@ -1,12 +1,8 @@
 # 文件:十誤一会banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8f\ns6%3A%E5%8D%81%E8%AA%A4%E4%B8%80%E4%BC%9Abanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8f\ns6%3A%E5%8D%81%E8%AA%A4%E4%B8%80%E4%BC%9Abanner%2Ejpg.html -->
 
 十誤一会 | 社团LOGO
-
-
-
-
 
 
 ---

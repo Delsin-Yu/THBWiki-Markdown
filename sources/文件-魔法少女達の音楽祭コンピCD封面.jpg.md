@@ -1,6 +1,6 @@
 # 文件:魔法少女達の音楽祭コンピCD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\09\ns6%3A%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E9%81%94%E3%81%AE%E9%9F%B3%E6%A5%BD%E7%A5%AD%E3%82%B3%E3%83%B3%E3%83%94CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\09\ns6%3A%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E9%81%94%E3%81%AE%E9%9F%B3%E6%A5%BD%E7%A5%AD%E3%82%B3%E3%83%B3%E3%83%94CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 少女理論観測所
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [魔法少女達の音楽祭コンピCD](./魔法少女達の音楽祭コンピCD.md)  
-该封面包含的角色：- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [魔法少女達の音楽祭コンピCD](./魔法少女達の音楽祭コンピCD.md)该封面包含的角色：
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:oriental_breeze_2封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0d\ns6%3Aoriental_breeze_2%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0d\ns6%3Aoriental_breeze_2%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Tsukuba_DTM_Lab. | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Tsukuba_DTM_Lab. | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [oriental breeze 2](./oriental_breeze_2.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
+- [oriental breeze 2](./oriental_breeze_2.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
   
-源地址：[[1]](https://static.tumblr.com/247497903246fc01a854b4846b9e7fae/xbmgxv4/x3npvm8bc/tumblr_static_acbc1t7mvkoc88s8wggo4owww.png)
-  
-
-
-
-
+源地址：[\[1\]](https://static.tumblr.com/247497903246fc01a854b4846b9e7fae/xbmgxv4/x3npvm8bc/tumblr_static_acbc1t7mvkoc88s8wggo4owww.png)  
 
 ---
 

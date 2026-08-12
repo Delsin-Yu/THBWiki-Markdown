@@ -1,12 +1,8 @@
 # 文件:ちどりあしbanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a0\ns6%3A%E3%81%A1%E3%81%A9%E3%82%8A%E3%81%82%E3%81%97banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a0\ns6%3A%E3%81%A1%E3%81%A9%E3%82%8A%E3%81%82%E3%81%97banner%2Egif.html -->
 
 ちどりあし | 社团LOGO
-
-
-
-
 
 
 ---

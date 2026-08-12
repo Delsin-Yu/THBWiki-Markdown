@@ -1,6 +1,6 @@
 # 文件:Knock_Knock_Knock封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8f\ns6%3AKnock_Knock_Knock%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8f\ns6%3AKnock_Knock_Knock%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 同人志封面 | 封面图片 | 軽挙妄想
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Knock Knock Knock](./Knock_Knock_Knock.md)  
-该封面包含的角色：- [封兽鵺](./封兽鵺.md)
-
-
-
+- [Knock Knock Knock](./Knock_Knock_Knock.md)该封面包含的角色：
+- [封兽鵺](./封兽鵺.md)
 
 
 ---

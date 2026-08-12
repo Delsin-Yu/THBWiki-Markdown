@@ -1,6 +1,6 @@
 # 文件:Deathscythe封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6c\ns6%3ADeathscythe%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6c\ns6%3ADeathscythe%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Suspicion_&_Fear | 专辑封面 | 封面图片
 
@@ -13,10 +13,6 @@ Suspicion_&_Fear | 专辑封面 | 封面图片
   
 来自专辑试听视频截图
   
-
-
-
-
 
 ---
 

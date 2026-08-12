@@ -1,6 +1,6 @@
 # 文件:東方少女惑星II封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6a\ns6%3A%E6%9D%B1%E6%96%B9%E5%B0%91%E5%A5%B3%E6%83%91%E6%98%9FII%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6a\ns6%3A%E6%9D%B1%E6%96%B9%E5%B0%91%E5%A5%B3%E6%83%91%E6%98%9FII%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 氣球魚屋
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方少女惑星II](./東方少女惑星II.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [東方少女惑星II](./東方少女惑星II.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
   
-源地址：[from artist Deviantart (original size)](https://www.deviantart.com/hecoheio/art/Remilia-Scarlet-281629098)
-  
-
-
-
-
+源地址：[from artist Deviantart (original size)](https://www.deviantart.com/hecoheio/art/Remilia-Scarlet-281629098)  
 
 ---
 

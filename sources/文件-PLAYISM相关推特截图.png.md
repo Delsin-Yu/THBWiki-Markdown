@@ -1,12 +1,8 @@
 # 文件:PLAYISM相关推特截图.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\71\ns6%3APLAYISM%E7%9B%B8%E5%85%B3%E6%8E%A8%E7%89%B9%E6%88%AA%E5%9B%BE%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\71\ns6%3APLAYISM%E7%9B%B8%E5%85%B3%E6%8E%A8%E7%89%B9%E6%88%AA%E5%9B%BE%2Epng.html -->
 
 ZUN | 推特翻译
-
-
-
-
 
 
 ---

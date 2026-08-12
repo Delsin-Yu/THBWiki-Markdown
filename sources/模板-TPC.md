@@ -1,16 +1,12 @@
 # 模板:TPC
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\3\35\ns10%3ATPC.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\3\35\ns10%3ATPC.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

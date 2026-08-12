@@ -1,18 +1,13 @@
 # 文件:SAVE+MINDbanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\27\ns6%3ASAVE%2BMINDbanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\27\ns6%3ASAVE%2BMINDbanner%2Egif.html -->
 
 SAVE+MIND | 社团LOGO
 
 
 ## 摘要
   
-源地址：[direct image link](https://web.archive.org/web/20070211010628im_/http://www13.plala.or.jp/savemind/image/bn.gif), [source page](https://web.archive.org/web/20070220161424/http://www13.plala.or.jp/savemind/about.htm)
-  
-
-
-
-
+源地址：[direct image link](https://web.archive.org/web/20070211010628im_/http://www13.plala.or.jp/savemind/image/bn.gif), [source page](https://web.archive.org/web/20070220161424/http://www13.plala.or.jp/savemind/about.htm)  
 
 ---
 

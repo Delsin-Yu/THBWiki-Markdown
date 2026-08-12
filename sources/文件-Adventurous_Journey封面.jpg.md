@@ -1,6 +1,6 @@
 # 文件:Adventurous_Journey封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f7\ns6%3AAdventurous_Journey%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f7\ns6%3AAdventurous_Journey%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Amateras_Records | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Amateras_Records | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Adventurous Journey](./Adventurous_Journey.md)  
-该封面包含的角色：- [村纱水蜜](./村纱水蜜.md)
-
-
-
+- [Adventurous Journey](./Adventurous_Journey.md)该封面包含的角色：
+- [村纱水蜜](./村纱水蜜.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:東方紅魔館_-EX-_前・前編封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\51\ns6%3A%E6%9D%B1%E6%96%B9%E7%B4%85%E9%AD%94%E9%A4%A8_-EX-_%E5%89%8D%E3%83%BB%E5%89%8D%E7%B7%A8%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\51\ns6%3A%E6%9D%B1%E6%96%B9%E7%B4%85%E9%AD%94%E9%A4%A8_-EX-_%E5%89%8D%E3%83%BB%E5%89%8D%E7%B7%A8%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 D-TYPE | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@ D-TYPE | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方紅魔館 -EX- 前・前編](./東方紅魔館_-EX-_前・前編.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [東方紅魔館 -EX- 前・前編](./東方紅魔館_-EX-_前・前編.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
   
-源地址：[Suruga-ya ](https://www.suruga-ya.jp/product/detail/ZHORE45735)
-  
-
-
-
-
+源地址：[Suruga-ya](https://www.suruga-ya.jp/product/detail/ZHORE45735)  
 
 ---
 

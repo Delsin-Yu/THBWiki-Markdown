@@ -1,13 +1,11 @@
 # Rumoured_Jealousy
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\c\cb\ns0%3ARumoured_Jealousy.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\c\cb\ns0%3ARumoured_Jealousy.html -->
 
 2024年6月23日 由 蓬莱Sugar 于 Animania 2010 发布的同人志，登场人物有 水桥帕露西、星熊勇仪，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人志 (未找到链接)** 的词条
-<center>
-
+**[二次创作同人志](./二次创作.md#同人志)**的词条<center>
 <table>
 <tbody><tr>
 <td class="mbox-image"><div style="width: 52px;">
@@ -16,27 +14,20 @@
 </tr>
 </tbody></table>
 
-
 </center>
-
 ## 作品信息
 
-<table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=Rumoured_Jealousy%E5%B0%81%E9%9D%A2.jpg" class="new" title="文件:Rumoured Jealousy封面.jpg">封面图片</a><div class="cover-char">角色：<a href="./水桥帕露西.md" title="水桥帕露西">水桥帕露西</a>，<a href="./星熊勇仪.md" title="星熊勇仪">星熊勇仪</a>，<a href="./琪斯美.md" title="琪斯美">琪斯美</a></div></td>
-</tr><tr><td class="label">名称</td><td colspan="2"> Rumoured Jealousy </td></tr><tr><td class="label">制作方</td><td><a href="./蓬莱Sugar.md" title="蓬莱Sugar">蓬莱Sugar</a></td><td class="cover-artwork" rowspan="4" style="min-width:112px;"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=Rumoured_Jealousy%E5%B0%81%E9%9D%A2.jpg" class="new" title="文件:Rumoured Jealousy封面.jpg">封面图片</a><div class="cover-char">角色：<a href="./水桥帕露西.md" title="水桥帕露西">水桥帕露西</a>，<a href="./星熊勇仪.md" title="星熊勇仪">星熊勇仪</a>，<a href="./琪斯美.md" title="琪斯美">琪斯美</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2010年&#160;（<a href="/展会作品列表?e=">Animania 2010</a>）</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">登场人物</td><td><a href="./水桥帕露西.md" title="水桥帕露西">水桥帕露西</a>，<a href="./星熊勇仪.md" title="星熊勇仪">星熊勇仪</a></td></tr>
+<table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a class="new" title="文件:Rumoured Jealousy封面.jpg">封面图片</a><div class="cover-char">角色：<a href="./水桥帕露西.md" title="水桥帕露西">水桥帕露西</a>，<a href="./星熊勇仪.md" title="星熊勇仪">星熊勇仪</a>，<a href="./琪斯美.md" title="琪斯美">琪斯美</a></div></td>
+</tr><tr><td class="label">名称</td><td colspan="2"> Rumoured Jealousy </td></tr><tr><td class="label">制作方</td><td><a href="./蓬莱Sugar.md" title="蓬莱Sugar">蓬莱Sugar</a></td><td class="cover-artwork" rowspan="4" style="min-width:112px;"><a class="new" title="文件:Rumoured Jealousy封面.jpg">封面图片</a><div class="cover-char">角色：<a href="./水桥帕露西.md" title="水桥帕露西">水桥帕露西</a>，<a href="./星熊勇仪.md" title="星熊勇仪">星熊勇仪</a>，<a href="./琪斯美.md" title="琪斯美">琪斯美</a></div></td>
+</tr><tr><td class="label">首发日期</td><td>2010年 （<a href="./展会作品列表.md">Animania 2010</a>）</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">登场人物</td><td><a href="./水桥帕露西.md" title="水桥帕露西">水桥帕露西</a>，<a href="./星熊勇仪.md" title="星熊勇仪">星熊勇仪</a></td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.deviantart.com/noirioko/art/Rumoured-Jealousy-175281874">https://www.deviantart.com/noirioko/art/Rumoured-Jealousy-175281874</a><br><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/12583957">https://www.pixiv.net/artworks/12583957</a></td></tr></tbody></table>
 
 Rumoured Jealousy（同人志，蓬莱Sugar，2010） - 2024年6月22日 由 蓬莱Sugar 于 Animania 2010 发布的同人志，登场人物有 水桥帕露西、星熊勇仪，分级为 一般向
-
 ## Staff
 封面
 : norioko （[蓬莱Sugar](./蓬莱Sugar.md)）
 
-
 ## 评论
-
-
-
 
 ---
 

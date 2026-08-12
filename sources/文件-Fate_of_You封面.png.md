@@ -1,6 +1,6 @@
 # 文件:Fate_of_You封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5e\ns6%3AFate_of_You%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5e\ns6%3AFate_of_You%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 ALIVE | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@ ALIVE | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Fate of You](./Fate_of_You.md)  
-该封面包含的角色：- [八云紫](./八云紫.md)
+- [Fate of You](./Fate_of_You.md)该封面包含的角色：
+- [八云紫](./八云紫.md)
 
   
-源地址：[direct image link (original size)](http://themetalpenguinz.xyz/wp-content/uploads/2020/04/ぴんぐ.png), [source page](http://themetalpenguinz.xyz/2020/04/02/【c91頒布】fate-of-you/)
-  
-
-
-
-
+源地址：[direct image link (original size)](http://themetalpenguinz.xyz/wp-content/uploads/2020/04/ぴんぐ.png), [source page](http://themetalpenguinz.xyz/2020/04/02/【c91頒布】fate-of-you/)  
 
 ---
 

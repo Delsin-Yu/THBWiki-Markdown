@@ -1,16 +1,12 @@
 # 模板:CWF
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\1\14\ns10%3ACWF.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\1\14\ns10%3ACWF.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

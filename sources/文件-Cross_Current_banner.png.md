@@ -1,18 +1,13 @@
 # 文件:Cross_Current_banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\05\ns6%3ACross_Current_banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\05\ns6%3ACross_Current_banner%2Epng.html -->
 
 Cross_Current | 社团LOGO
 
 
 ## 文件说明
   
-来源：[[1]](https://en.touhouwiki.net/wiki/Cross_Current)
-  
-
-
-
-
+来源：[\[1\]](https://en.touhouwiki.net/wiki/Cross_Current)  
 
 ---
 

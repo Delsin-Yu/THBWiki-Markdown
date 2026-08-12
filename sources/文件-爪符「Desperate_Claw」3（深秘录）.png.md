@@ -1,12 +1,8 @@
 # 文件:爪符「Desperate_Claw」3（深秘录）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ad\ns6%3A%E7%88%AA%E7%AC%A6%E3%80%8CDesperate_Claw%E3%80%8D3%EF%BC%88%E6%B7%B1%E7%A7%98%E5%BD%95%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ad\ns6%3A%E7%88%AA%E7%AC%A6%E3%80%8CDesperate_Claw%E3%80%8D3%EF%BC%88%E6%B7%B1%E7%A7%98%E5%BD%95%EF%BC%89%2Epng.html -->
 
 东方深秘录 | 敌机符卡 | 藤原妹红
-
-
-
-
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:CrossGear_banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\71\ns6%3ACrossGear_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\71\ns6%3ACrossGear_banner%2Ejpg.html -->
 
 CrossGear | 社团LOGO
-
-
-
-
 
 
 ---

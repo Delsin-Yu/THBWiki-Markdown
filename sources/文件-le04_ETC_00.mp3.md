@@ -1,16 +1,12 @@
 # 文件:le04_ETC_00.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\65\ns6%3Ale04_ETC_00%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\65\ns6%3Ale04_ETC_00%2Emp3.html -->
 
 连缘Project官方音乐MP3
 
   
 连缘天影战记标题画面主题曲
   
-
-
-
-
 
 ---
 

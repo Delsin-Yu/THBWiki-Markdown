@@ -1,6 +1,6 @@
 # 文件:東よりの疾風_～Eastern_blast～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\36\ns6%3A%E6%9D%B1%E3%82%88%E3%82%8A%E3%81%AE%E7%96%BE%E9%A2%A8_%EF%BD%9EEastern_blast%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\36\ns6%3A%E6%9D%B1%E3%82%88%E3%82%8A%E3%81%AE%E7%96%BE%E9%A2%A8_%EF%BD%9EEastern_blast%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Musicaloid | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Musicaloid | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東よりの疾風 ～Eastern blast～](./東よりの疾風_～Eastern_blast～.md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)
-
-
-
+- [東よりの疾風 ～Eastern blast～](./東よりの疾風_～Eastern_blast～.md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
 
 
 ---

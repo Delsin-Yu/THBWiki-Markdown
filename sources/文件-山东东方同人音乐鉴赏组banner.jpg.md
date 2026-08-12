@@ -1,12 +1,8 @@
 # 文件:山东东方同人音乐鉴赏组banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\24\ns6%3A%E5%B1%B1%E4%B8%9C%E4%B8%9C%E6%96%B9%E5%90%8C%E4%BA%BA%E9%9F%B3%E4%B9%90%E9%89%B4%E8%B5%8F%E7%BB%84banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\24\ns6%3A%E5%B1%B1%E4%B8%9C%E4%B8%9C%E6%96%B9%E5%90%8C%E4%BA%BA%E9%9F%B3%E4%B9%90%E9%89%B4%E8%B5%8F%E7%BB%84banner%2Ejpg.html -->
 
 山东东方同人音乐鉴赏组 | 社团LOGO
-
-
-
-
 
 
 ---

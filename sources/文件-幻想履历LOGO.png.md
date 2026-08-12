@@ -1,12 +1,8 @@
 # 文件:幻想履历LOGO.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bc\ns6%3A%E5%B9%BB%E6%83%B3%E5%B1%A5%E5%8E%86LOGO%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bc\ns6%3A%E5%B9%BB%E6%83%B3%E5%B1%A5%E5%8E%86LOGO%2Epng.html -->
 
 幻乐团官网 | 幻想履历
-
-
-
-
 
 
 ---

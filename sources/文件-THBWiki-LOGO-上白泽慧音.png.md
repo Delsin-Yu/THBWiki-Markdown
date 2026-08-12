@@ -1,12 +1,8 @@
 # 文件:THBWiki-LOGO-上白泽慧音.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e0\ns6%3ATHBWiki-LOGO-%E4%B8%8A%E7%99%BD%E6%B3%BD%E6%85%A7%E9%9F%B3%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e0\ns6%3ATHBWiki-LOGO-%E4%B8%8A%E7%99%BD%E6%B3%BD%E6%85%A7%E9%9F%B3%2Epng.html -->
 
 THBWiki | Wiki词条分类用图
-
-
-
-
 
 
 ---

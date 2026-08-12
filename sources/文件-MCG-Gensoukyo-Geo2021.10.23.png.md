@@ -1,16 +1,12 @@
 # 文件:MCG-Gensoukyo-Geo2021.10.23.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\36\ns6%3AMCG-Gensoukyo-Geo2021%2E10%2E23%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\36\ns6%3AMCG-Gensoukyo-Geo2021%2E10%2E23%2Epng.html -->
 
 MineCraft幻想乡
 
   
 MC幻想乡主世界地形图
   
-
-
-
-
 
 ---
 

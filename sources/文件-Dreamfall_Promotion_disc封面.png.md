@@ -1,6 +1,6 @@
 # 文件:Dreamfall_Promotion_disc封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a3\ns6%3ADreamfall_Promotion_disc%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a3\ns6%3ADreamfall_Promotion_disc%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 赤音羽
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Dreamfall Promotion disc](./Dreamfall_Promotion_disc.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [Dreamfall Promotion disc](./Dreamfall_Promotion_disc.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

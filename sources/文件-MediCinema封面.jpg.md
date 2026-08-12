@@ -1,6 +1,6 @@
 # 文件:MediCinema封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\17\ns6%3AMediCinema%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\17\ns6%3AMediCinema%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 BACK_foot | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@ BACK_foot | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [MediCinema](./MediCinema.md)  
-该封面包含的角色：- [梅蒂欣·梅兰可莉](./梅蒂欣·梅兰可莉.md)
+- [MediCinema](./MediCinema.md)该封面包含的角色：
+- [梅蒂欣·梅兰可莉](./梅蒂欣·梅兰可莉.md)
 
   
-[Pixiv artwork ID: 71486753 (original size)](https://www.pixiv.net/artworks/71486753)
-  
-
-
-
-
+[Pixiv artwork ID: 71486753 (original size)](https://www.pixiv.net/artworks/71486753)  
 
 ---
 

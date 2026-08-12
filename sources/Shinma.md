@@ -1,30 +1,23 @@
 # Shinma
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\40\ns0%3AShinma.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\40\ns0%3AShinma.html -->
 
 现实人物
 
 本页是关于东方Project  
- **二次同人创作者** 的词条
-
+**二次同人创作者**的词条
 ## 基本信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="label"><b>名称</b></td><td> Shinma </td></tr><tr><td class="label"><b>所属社团</b></td><td><b>当前</b><div style="margin-left:2em;">幽闭星光</div></td></tr><tr><td class="label"><b>职位</b></td><td>主唱</td></tr><tr><td class="label"><b>性别</b></td><td>女</td></tr></tbody></table>
 
 Shinma（人物） - 现实人物
-
 ## 介绍
 
 ## 参与作品
 
 ### 同人音乐
   
-模板:人物曲目列表 (未找到链接)
-  
-
-
-
-
+模板:人物曲目列表 (未找到链接)  
 
 ---
 

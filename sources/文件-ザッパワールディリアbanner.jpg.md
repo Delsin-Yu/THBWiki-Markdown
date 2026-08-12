@@ -1,14 +1,11 @@
 # 文件:ザッパワールディリアbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6c\ns6%3A%E3%82%B6%E3%83%83%E3%83%91%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%AA%E3%82%A2banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6c\ns6%3A%E3%82%B6%E3%83%83%E3%83%91%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%AA%E3%82%A2banner%2Ejpg.html -->
 
 ザッパワールディリア | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

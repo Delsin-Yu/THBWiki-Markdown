@@ -1,12 +1,8 @@
 # 文件:创符「Pain_Flow」（风神录）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2f\ns6%3A%E5%88%9B%E7%AC%A6%E3%80%8CPain_Flow%E3%80%8D%EF%BC%88%E9%A3%8E%E7%A5%9E%E5%BD%95%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2f\ns6%3A%E5%88%9B%E7%AC%A6%E3%80%8CPain_Flow%E3%80%8D%EF%BC%88%E9%A3%8E%E7%A5%9E%E5%BD%95%EF%BC%89%2Ejpg.html -->
 
 东方风神录 | 敌机符卡 | 键山雏
-
-
-
-
 
 
 ---

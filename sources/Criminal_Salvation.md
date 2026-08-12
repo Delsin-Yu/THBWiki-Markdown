@@ -1,11 +1,10 @@
 # Criminal_Salvation
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\7\73\ns0%3ACriminal_Salvation.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\7\73\ns0%3ACriminal_Salvation.html -->
 
 官方符卡
 
-本页是关于 **符卡 (未找到链接)（SpellCard）** 的词条Criminal Salvation（符卡） - 官方符卡
-
+本页是关于**[符卡](./游戏攻略-STG术语.md#符卡)（SpellCard）**的词条Criminal Salvation（符卡） - 官方符卡
 <table>
 
 <tbody><tr>
@@ -33,33 +32,26 @@
 ## 目录
 
 - [1 登场](#登场)
-
   - [1.1 东方天空璋](#东方天空璋)
   - [1.2 秘封噩梦日记](#秘封噩梦日记)
   - [1.3 弹幕狂们的黑市](#弹幕狂们的黑市)
 
 
-
 - [2 符卡说明](#符卡说明)
-
   - [2.1 秘封噩梦日记](#秘封噩梦日记_2)
   - [2.2 宇佐见的魔法书](#宇佐见的魔法书)
 
 
-
 - [3 其他内容](#其他内容)
-
   - [3.1 游戏资料](#游戏资料)
   - [3.2 分析考据](#分析考据)
-
 
 
 - [4 导航](#导航)
 
 
-
-
 ## 登场
+
 ### 东方天空璋
 
 <table>
@@ -73,13 +65,6 @@
 </td></tr></tbody></table>
 
 
-
-  
-  
-
-  
-
-
 <table>
 
 <tbody><tr>
@@ -89,7 +74,6 @@
 <p>4面BOSS<a href="./矢田寺成美.md" title="矢田寺成美">矢田寺成美</a>Hard/Lunatic难度符卡。
 </p>
 </td></tr></tbody></table>
-
 
 
 ### 秘封噩梦日记
@@ -105,7 +89,6 @@
 </td></tr></tbody></table>
 
 
-
 ### 弹幕狂们的黑市
 
 <table>
@@ -119,46 +102,30 @@
 </td></tr></tbody></table>
 
 
-
 ## 符卡说明
+
 ### 秘封噩梦日记
 
-<table><tbody><tr class="tt-content-header" id="里·星期日-10" data-pos="&#91;&quot;\u91cc\u00b7\u661f\u671f\u65e5&quot;,10&#93;"><td class="tt-jah" lang="ja"><div class="poem">夢地蔵「劫火の希望」</div></td><td class="tt-zhh" lang="zh"><div class="poem"><a href="/%E6%A2%A6%E5%9C%B0%E8%97%8F%E3%80%8C%E5%8A%AB%E7%81%AB%E7%9A%84%E5%B8%8C%E6%9C%9B%E3%80%8D" class="mw-redirect" title="梦地藏「劫火的希望」">梦地藏「劫火的希望」</a></div></td></tr><tr class="tt-content" id="里·星期日-11" data-pos="&#91;&quot;\u91cc\u00b7\u661f\u671f\u65e5&quot;,11&#93;"><td class="tt-ja" lang="ja"><div class="poem">予想に反して、お地蔵さん写真は<br>ありがたられたなー。感謝感謝。</div></td><td class="tt-zh" lang="zh"><div class="poem">真是出乎意料，地藏菩萨的照片<br>居然备受崇敬啊—。感谢感谢。</div></td></tr></tbody></table>
+<table><tbody><tr class="tt-content-header" id="里·星期日-10" data-pos="&#91;&quot;\u91cc\u00b7\u661f\u671f\u65e5&quot;,10&#93;"><td class="tt-jah" lang="ja"><div class="poem">夢地蔵「劫火の希望」</div></td><td class="tt-zhh" lang="zh"><div class="poem"><a href="./Criminal_Salvation.md" class="mw-redirect" title="梦地藏「劫火的希望」">梦地藏「劫火的希望」</a></div></td></tr><tr class="tt-content" id="里·星期日-11" data-pos="&#91;&quot;\u91cc\u00b7\u661f\u671f\u65e5&quot;,11&#93;"><td class="tt-ja" lang="ja"><div class="poem">予想に反して、お地蔵さん写真は<br>ありがたられたなー。感謝感謝。</div></td><td class="tt-zh" lang="zh"><div class="poem">真是出乎意料，地藏菩萨的照片<br>居然备受崇敬啊—。感谢感谢。</div></td></tr></tbody></table>
 
 
 ### 宇佐见的魔法书
 
-<table><tbody><tr class="tt-content-header" id="=-18" data-pos="&#91;&quot;=&quot;,18&#93;"><td class="tt-jah" lang="ja"><div class="poem">地蔵「業火救済」</div></td><td class="tt-zhh" lang="zh"><div class="poem"><a href="/%E5%9C%B0%E8%97%8F%E3%80%8C%E4%B8%9A%E7%81%AB%E6%95%91%E6%B5%8E%E3%80%8D" class="mw-redirect" title="地藏「业火救济」">地藏「业火救济」</a></div></td></tr><tr class="tt-content" id="=-19" data-pos="&#91;&quot;=&quot;,19&#93;"><td class="tt-ja" lang="ja"><div class="poem">使用者：矢田寺成美</div></td><td class="tt-zh" lang="zh"><div class="poem">使用者：<a href="./矢田寺成美.md" title="矢田寺成美">矢田寺成美</a></div></td></tr><tr class="tt-content-header" id="=-20" data-pos="&#91;&quot;=&quot;,20&#93;"><td class="tt-jah" lang="ja"><div class="poem">使用者より</div></td><td class="tt-zhh" lang="zh"><div class="poem">使用者自述</div></td></tr><tr class="tt-content" id="=-21" data-pos="&#91;&quot;=&quot;,21&#93;"><td class="tt-ja" lang="ja"><div class="poem">ふふふ、さっきの弾幕はこの弾幕のための布石よ。ペットの巨大弾は、地面に大量の生命弾をばらまいたわ。見た事もない、観客席から湧いてくる花火！　これまで驚かない奴はいない！</div></td><td class="tt-zh" lang="zh"><div class="poem">嘻嘻，刚才只是为引出这块玉所抛的砖而已，我的宠物巨大弹已经向地面撒出了大量的生命弹，前无古人，从观众席喷涌而出的烟花！没有不为之惊叹的人！</div></td></tr><tr class="tt-header" id="=-22" data-pos="&#91;&quot;=&quot;,22&#93;"><td colspan="2" id="博丽灵梦（0）" class="tt-header" lang="zh"><div class="poem">博丽灵梦（0）</div></td></tr><tr class="tt-content" id="=-23" data-pos="&#91;&quot;=&quot;,23&#93;"><td class="tt-ja" lang="ja"><div class="poem">こ、これは危なすぎる！</div></td><td class="tt-zh" lang="zh"><div class="poem">这、这也太危险了！</div></td></tr><tr class="tt-header" id="=-24" data-pos="&#91;&quot;=&quot;,24&#93;"><td colspan="2" id="雾雨魔理沙（3）" class="tt-header" lang="zh"><div class="poem">雾雨魔理沙（3）</div></td></tr><tr class="tt-content" id="=-25" data-pos="&#91;&quot;=&quot;,25&#93;"><td class="tt-ja" lang="ja"><div class="poem">なる程、観客席から火の弾か……って、危ないなぁ！</div></td><td class="tt-zh" lang="zh"><div class="poem">原来如此，从观众席中涌出的火弹吗……诶，危险！</div></td></tr><tr class="tt-header" id="=-26" data-pos="&#91;&quot;=&quot;,26&#93;"><td colspan="2" id="宇佐见堇子（9）" class="tt-header" lang="zh"><div class="poem">宇佐见堇子（9）</div></td></tr><tr class="tt-content" id="=-27" data-pos="&#91;&quot;=&quot;,27&#93;"><td class="tt-ja" lang="ja"><div class="poem">さっきのペットがばらまいてたのは、この火だねだったんですねぇ。審査員を騙すなんて、なかなかの策士です。</div></td><td class="tt-zh" lang="zh"><div class="poem">刚刚那个宠物撒出的东西，原来是火种啊，居然连评审员都欺骗，真是不错的想法。</div></td></tr><tr class="tt-header" id="=-28" data-pos="&#91;&quot;=&quot;,28&#93;"><td colspan="2" id="十六夜咲夜（5）" class="tt-header" lang="zh"><div class="poem">十六夜咲夜（5）</div></td></tr><tr class="tt-content" id="=-29" data-pos="&#91;&quot;=&quot;,29&#93;"><td class="tt-ja" lang="ja"><div class="poem">さっきのは偽物で、今度の弾幕の炎は本物のようですね。やってくれますねぇ。</div></td><td class="tt-zh" lang="zh"><div class="poem">刚刚的是假货，这次的火焰却是真家伙，还真敢做呀。</div></td></tr><tr class="tt-header" id="=-30" data-pos="&#91;&quot;=&quot;,30&#93;"><td colspan="2" id="东风谷早苗（5）" class="tt-header" lang="zh"><div class="poem">东风谷早苗（5）</div></td></tr><tr class="tt-content" id="=-31" data-pos="&#91;&quot;=&quot;,31&#93;"><td class="tt-ja" lang="ja"><div class="poem">よくよく考えたら……、地面から火の弾って意外でも何でもなく、実はオーソドックスな花火なんじゃあ……。</div></td><td class="tt-zh" lang="zh"><div class="poem">仔细想一想……从地面发射的火弹一点也不让人意外，不就是传统的烟花吗……</div></td></tr><tr class="tt-content-header" id="=-32" data-pos="&#91;&quot;=&quot;,32&#93;"><td class="tt-jah" lang="ja"><div class="poem">総合評価（4）</div></td><td class="tt-zhh" lang="zh"><div class="poem">综合评价（4）</div></td></tr><tr class="tt-content" id="=-33" data-pos="&#91;&quot;=&quot;,33&#93;"><td class="tt-ja" lang="ja"><div class="poem">地面からの突然の発火に、会場はパニック状態となった。彼女の目的である、驚かすことには成功したようだが、誰も花火を見ていなかった。彼女には花火大会の趣旨が伝わっていない様子である。</div></td><td class="tt-zh" lang="zh"><div class="poem">地面突然涌出火焰，导致会场都陷入了恐慌。虽然她吓人的目的达到了，却没人在意烟花了。可能是她并没有好好理解到烟花大会真正的有趣之处。</div></td></tr></tbody></table>
+<table><tbody><tr class="tt-content-header" id="=-18" data-pos="&#91;&quot;=&quot;,18&#93;"><td class="tt-jah" lang="ja"><div class="poem">地蔵「業火救済」</div></td><td class="tt-zhh" lang="zh"><div class="poem"><a href="./Criminal_Salvation.md" class="mw-redirect" title="地藏「业火救济」">地藏「业火救济」</a></div></td></tr><tr class="tt-content" id="=-19" data-pos="&#91;&quot;=&quot;,19&#93;"><td class="tt-ja" lang="ja"><div class="poem">使用者：矢田寺成美</div></td><td class="tt-zh" lang="zh"><div class="poem">使用者：<a href="./矢田寺成美.md" title="矢田寺成美">矢田寺成美</a></div></td></tr><tr class="tt-content-header" id="=-20" data-pos="&#91;&quot;=&quot;,20&#93;"><td class="tt-jah" lang="ja"><div class="poem">使用者より</div></td><td class="tt-zhh" lang="zh"><div class="poem">使用者自述</div></td></tr><tr class="tt-content" id="=-21" data-pos="&#91;&quot;=&quot;,21&#93;"><td class="tt-ja" lang="ja"><div class="poem">ふふふ、さっきの弾幕はこの弾幕のための布石よ。ペットの巨大弾は、地面に大量の生命弾をばらまいたわ。見た事もない、観客席から湧いてくる花火！　これまで驚かない奴はいない！</div></td><td class="tt-zh" lang="zh"><div class="poem">嘻嘻，刚才只是为引出这块玉所抛的砖而已，我的宠物巨大弹已经向地面撒出了大量的生命弹，前无古人，从观众席喷涌而出的烟花！没有不为之惊叹的人！</div></td></tr><tr class="tt-header" id="=-22" data-pos="&#91;&quot;=&quot;,22&#93;"><td colspan="2" id="博丽灵梦（0）" class="tt-header" lang="zh"><div class="poem">博丽灵梦（0）</div></td></tr><tr class="tt-content" id="=-23" data-pos="&#91;&quot;=&quot;,23&#93;"><td class="tt-ja" lang="ja"><div class="poem">こ、これは危なすぎる！</div></td><td class="tt-zh" lang="zh"><div class="poem">这、这也太危险了！</div></td></tr><tr class="tt-header" id="=-24" data-pos="&#91;&quot;=&quot;,24&#93;"><td colspan="2" id="雾雨魔理沙（3）" class="tt-header" lang="zh"><div class="poem">雾雨魔理沙（3）</div></td></tr><tr class="tt-content" id="=-25" data-pos="&#91;&quot;=&quot;,25&#93;"><td class="tt-ja" lang="ja"><div class="poem">なる程、観客席から火の弾か……って、危ないなぁ！</div></td><td class="tt-zh" lang="zh"><div class="poem">原来如此，从观众席中涌出的火弹吗……诶，危险！</div></td></tr><tr class="tt-header" id="=-26" data-pos="&#91;&quot;=&quot;,26&#93;"><td colspan="2" id="宇佐见堇子（9）" class="tt-header" lang="zh"><div class="poem">宇佐见堇子（9）</div></td></tr><tr class="tt-content" id="=-27" data-pos="&#91;&quot;=&quot;,27&#93;"><td class="tt-ja" lang="ja"><div class="poem">さっきのペットがばらまいてたのは、この火だねだったんですねぇ。審査員を騙すなんて、なかなかの策士です。</div></td><td class="tt-zh" lang="zh"><div class="poem">刚刚那个宠物撒出的东西，原来是火种啊，居然连评审员都欺骗，真是不错的想法。</div></td></tr><tr class="tt-header" id="=-28" data-pos="&#91;&quot;=&quot;,28&#93;"><td colspan="2" id="十六夜咲夜（5）" class="tt-header" lang="zh"><div class="poem">十六夜咲夜（5）</div></td></tr><tr class="tt-content" id="=-29" data-pos="&#91;&quot;=&quot;,29&#93;"><td class="tt-ja" lang="ja"><div class="poem">さっきのは偽物で、今度の弾幕の炎は本物のようですね。やってくれますねぇ。</div></td><td class="tt-zh" lang="zh"><div class="poem">刚刚的是假货，这次的火焰却是真家伙，还真敢做呀。</div></td></tr><tr class="tt-header" id="=-30" data-pos="&#91;&quot;=&quot;,30&#93;"><td colspan="2" id="东风谷早苗（5）" class="tt-header" lang="zh"><div class="poem">东风谷早苗（5）</div></td></tr><tr class="tt-content" id="=-31" data-pos="&#91;&quot;=&quot;,31&#93;"><td class="tt-ja" lang="ja"><div class="poem">よくよく考えたら……、地面から火の弾って意外でも何でもなく、実はオーソドックスな花火なんじゃあ……。</div></td><td class="tt-zh" lang="zh"><div class="poem">仔细想一想……从地面发射的火弹一点也不让人意外，不就是传统的烟花吗……</div></td></tr><tr class="tt-content-header" id="=-32" data-pos="&#91;&quot;=&quot;,32&#93;"><td class="tt-jah" lang="ja"><div class="poem">総合評価（4）</div></td><td class="tt-zhh" lang="zh"><div class="poem">综合评价（4）</div></td></tr><tr class="tt-content" id="=-33" data-pos="&#91;&quot;=&quot;,33&#93;"><td class="tt-ja" lang="ja"><div class="poem">地面からの突然の発火に、会場はパニック状態となった。彼女の目的である、驚かすことには成功したようだが、誰も花火を見ていなかった。彼女には花火大会の趣旨が伝わっていない様子である。</div></td><td class="tt-zh" lang="zh"><div class="poem">地面突然涌出火焰，导致会场都陷入了恐慌。虽然她吓人的目的达到了，却没人在意烟花了。可能是她并没有好好理解到烟花大会真正的有趣之处。</div></td></tr></tbody></table>
 
 
 ## 其他内容
+
 ### 游戏资料
-  
 <big>
-</big>  
-<big>- 游戏资料 (未找到链接)
-</big><big></big>  
-<big></big>
-  
+- 游戏资料 (未找到链接)
 
+</big>
 ### 分析考据
-  
 <big>
-</big>  
-<big>- [分析与考据](./Criminal_Salvation-分析与考据.md)
-</big><big></big>  
-<big></big>
-  
+- [分析与考据](./Criminal_Salvation-分析与考据.md)
 
-## 导航
-
-<table><tbody><tr><td><table cellspacing="0" class="nowraplinks mw-collapsible mw-collapsed" style="width:100%;;;"><tbody><tr><th style=";" colspan="3" class="navbox-title"><div class="navbar"><div class="noprint plainlinksneverexpand" style="background-color:transparent; padding:0; font-weight:normal; font-size:80%; white-space:nowrap;"><a href="./模板-矢田寺成美符卡导航.md" title="模板:矢田寺成美符卡导航"><span style=";;border:none;" title="查看这个模板">查</span></a>&#160;<span style="font-size:80%;">•</span>&#160;<a href="/index.php?title=%E6%A8%A1%E6%9D%BF:%E7%9F%A2%E7%94%B0%E5%AF%BA%E6%88%90%E7%BE%8E%E7%AC%A6%E5%8D%A1%E5%AF%BC%E8%88%AA&amp;action=edit"><span style=";;border:none;" title="您可以编辑这个模板。请在储存变更之前先预览">编</span></a></div></div><span><a href="./矢田寺成美.md" title="矢田寺成美">矢田寺成美</a>符卡</span></th></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">射击游戏</td><td style=";;" class="navbox-list navbox-odd"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div><a href="./东方天空璋.md" title="东方天空璋">东方天空璋</a></div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="/%E9%AD%94%E7%AC%A6%E3%80%8CInstant_Bodhi%E3%80%8D" class="mw-redirect" title="魔符「Instant Bodhi」">魔符「Instant Bodhi」</a> &#8226; <a href="/%E9%AD%94%E7%AC%A6%E3%80%8C%E5%8D%B3%E5%B8%AD%E8%8F%A9%E6%8F%90%E3%80%8D" class="mw-redirect" title="魔符「即席菩提」">魔符「即席菩提」</a> &#8226; <a href="/%E9%AD%94%E7%AC%A6%E3%80%8CBullet_Golem%E3%80%8D" class="mw-redirect" title="魔符「Bullet Golem」">魔符「Bullet Golem」</a> &#8226; <a href="/%E9%AD%94%E7%AC%A6%E3%80%8C%E4%BD%9C%E5%AE%A0%E7%89%A9%E7%9A%84%E5%B7%A8%E5%A4%A7%E5%BC%B9%E7%94%9F%E5%91%BD%E4%BD%93%E3%80%8D" class="mw-redirect" title="魔符「作宠物的巨大弹生命体」">魔符「作宠物的巨大弹生命体」</a> &#8226; <a href="/%E5%9C%B0%E8%97%8F%E3%80%8CCriminal_Salvation%E3%80%8D" class="mw-redirect" title="地藏「Criminal Salvation」">地藏「Criminal Salvation」</a> &#8226; <a href="/%E5%9C%B0%E8%97%8F%E3%80%8C%E4%B8%9A%E7%81%AB%E6%95%91%E6%B5%8E%E3%80%8D" class="mw-redirect" title="地藏「业火救济」">地藏「业火救济」</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div><a href="./秘封噩梦日记.md" title="秘封噩梦日记">秘封噩梦日记</a></div></td><td style=";;" class="navbox-list navbox-even"><div><a href="/%E9%AD%94%E7%AC%A6%E3%80%8C%E6%85%88%E7%88%B1%E7%9A%84%E5%9C%B0%E8%97%8F%E3%80%8D" class="mw-redirect" title="魔符「慈爱的地藏」">魔符「慈爱的地藏」</a> &#8226; <a href="/%E5%9C%B0%E8%97%8F%E3%80%8C%E8%8F%A9%E8%90%A8%E8%B7%B5%E8%B8%8F%E3%80%8D" class="mw-redirect" title="地藏「菩萨践踏」">地藏「菩萨践踏」</a> &#8226; <a href="/%E5%9C%B0%E8%97%8F%E3%80%8C%E7%94%9F%E6%9C%BA%E5%8B%83%E5%8B%83%E7%9A%84%E5%BC%B9%E5%B9%95%E9%AD%94%E5%83%8F%E3%80%8D" class="mw-redirect" title="地藏「生机勃勃的弹幕魔像」">地藏「生机勃勃的弹幕魔像」</a> &#8226; <a href="/%E6%A2%A6%E5%9C%B0%E8%97%8F%E3%80%8C%E5%8A%AB%E7%81%AB%E7%9A%84%E5%B8%8C%E6%9C%9B%E3%80%8D" class="mw-redirect" title="梦地藏「劫火的希望」">梦地藏「劫火的希望」</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div><a href="./弹幕狂们的黑市.md" title="弹幕狂们的黑市">弹幕狂们的黑市</a></div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="/%E3%80%8C56%E4%BA%BF7%E5%8D%83%E4%B8%87%E5%B9%B4%E7%9A%84%E4%BD%93%E5%8A%9B%E5%8A%B3%E5%8A%A8%E3%80%8D" class="mw-redirect" title="「56亿7千万年的体力劳动」">「56亿7千万年的体力劳动」</a></div></td></tr></tbody></table><div></div></td><td class="navbox-image" style="" rowspan="3"><a href="./文件-矢田寺成美（Q版立绘）.png.md" class="image"><img alt="矢田寺成美（Q版立绘）.png" src="https://upload.thwiki.cc/thumb/1/1f/%E7%9F%A2%E7%94%B0%E5%AF%BA%E6%88%90%E7%BE%8E%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png/160px-%E7%9F%A2%E7%94%B0%E5%AF%BA%E6%88%90%E7%BE%8E%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="160" height="160" srcset="https://upload.thwiki.cc/thumb/1/1f/%E7%9F%A2%E7%94%B0%E5%AF%BA%E6%88%90%E7%BE%8E%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png/240px-%E7%9F%A2%E7%94%B0%E5%AF%BA%E6%88%90%E7%BE%8E%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/1/1f/%E7%9F%A2%E7%94%B0%E5%AF%BA%E6%88%90%E7%BE%8E%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png/320px-%E7%9F%A2%E7%94%B0%E5%AF%BA%E6%88%90%E7%BE%8E%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="500" data-file-height="500"></a></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">出版物</td><td style=";;" class="navbox-list navbox-even"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div><a href="/%E5%AE%87%E4%BD%90%E8%A7%81%E7%9A%84%E9%AD%94%E6%B3%95%E4%B9%A6" class="mw-redirect" title="宇佐见的魔法书">宇佐见的魔法书</a></div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="/%E9%AD%94%E7%AC%A6%E3%80%8C%E4%BD%9C%E5%AE%A0%E7%89%A9%E7%9A%84%E5%B7%A8%E5%A4%A7%E5%BC%B9%E7%94%9F%E5%91%BD%E4%BD%93%E3%80%8D" class="mw-redirect" title="魔符「作宠物的巨大弹生命体」">魔符「作宠物的巨大弹生命体」</a> &#8226; <a href="/%E5%9C%B0%E8%97%8F%E3%80%8C%E4%B8%9A%E7%81%AB%E6%95%91%E6%B5%8E%E3%80%8D" class="mw-redirect" title="地藏「业火救济」">地藏「业火救济」</a></div></td></tr></tbody></table><div></div></td></tr></tbody></table></td></tr></tbody></table>
-
-
-
-
-
-
+</big>
 ---
 
 此文档由 [THBWiki-Markdown-Builder](https://github.com/Delsin-Yu/THBWiki-Markdown-Builder) 构建。

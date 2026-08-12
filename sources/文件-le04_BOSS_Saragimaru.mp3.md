@@ -1,16 +1,12 @@
 # 文件:le04_BOSS_Saragimaru.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\58\ns6%3Ale04_BOSS_Saragimaru%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\58\ns6%3Ale04_BOSS_Saragimaru%2Emp3.html -->
 
 张开的眼瞳_～_Mono_EYE | 连缘Project官方音乐MP3 | 连缘天影战记
 
   
 连缘天影战记中立线4面Boss-徒云蛇穴丸主题曲
   
-
-
-
-
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:マジカルハザードvol.1封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\18\ns6%3A%E3%83%9E%E3%82%B8%E3%82%AB%E3%83%AB%E3%83%8F%E3%82%B6%E3%83%BC%E3%83%89vol%2E1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\18\ns6%3A%E3%83%9E%E3%82%B8%E3%82%AB%E3%83%AB%E3%83%8F%E3%82%B6%E3%83%BC%E3%83%89vol%2E1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Magical_Hazard | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@ Magical_Hazard | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [マジカルハザードvol.1](./マジカルハザードvol.1.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
+- [マジカルハザードvol.1](./マジカルハザードvol.1.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-[Pixiv artwork ID: 8038866](https://www.pixiv.net/artworks/8038866)
-  
-
-
-
-
+[Pixiv artwork ID: 8038866](https://www.pixiv.net/artworks/8038866)  
 
 ---
 

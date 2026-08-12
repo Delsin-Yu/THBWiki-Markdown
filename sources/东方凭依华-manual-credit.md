@@ -1,20 +1,20 @@
 # 东方凭依华/manual/credit
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\2c\ns0%3A%E4%B8%9C%E6%96%B9%E5%87%AD%E4%BE%9D%E5%8D%8E%2Fmanual%2Fcredit.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\2c\ns0%3A%E4%B8%9C%E6%96%B9%E5%87%AD%E4%BE%9D%E5%8D%8E%2Fmanual%2Fcredit.html -->
 
 东方凭依华
+
 
 - 来自[黄昏边境官方网站](http://tasofro.net/touhou155/manual/credit.html)的ONLINE MANUAL的License页面。
 
 <center>
-
 <table>
 <tbody><tr>
-<td>&lt;
+<td><
 </td>
-<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./东方凭依华-manual.md" title="东方凭依华/manual">各个角色的技能表</a>&#160;
+<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./东方凭依华-manual.md" title="东方凭依华/manual">各个角色的技能表</a> 
 </td>
-<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="./东方凭依华-manual.md" title="东方凭依华/manual">Manual目录</a>&#160;
+<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;"> <a href="./东方凭依华-manual.md" title="东方凭依华/manual">Manual目录</a> 
 </td>
 <td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left">
 </td>
@@ -22,9 +22,7 @@
 </td></tr></tbody></table>
 
   
-</center>
-
-  
+</center>  
   
 
 关于本软件使用的开源组件，  
@@ -103,11 +101,6 @@ Except where otherwise noted in the source code （e.g. the files hash.c, list.c
 
 -----------------------------------------------------------------------------
   
-
-
-
-
-
 
 ---
 

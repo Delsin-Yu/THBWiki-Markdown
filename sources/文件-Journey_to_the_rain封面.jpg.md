@@ -1,6 +1,6 @@
 # 文件:Journey_to_the_rain封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0e\ns6%3AJourney_to_the_rain%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0e\ns6%3AJourney_to_the_rain%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ほかほか温もりお米ごはん | 同人志封面 | 封面图片
 
@@ -10,16 +10,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [Journey to the rain](./Journey_to_the_rain.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)- [纯狐](./纯狐.md)
+- [Journey to the rain](./Journey_to_the_rain.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [纯狐](./纯狐.md)
 
   
-源地址：[direct image link (original size)](https://pbs.twimg.com/media/F9gGRnFaIAAyOOl?format=jpg&amp;name=orig), [source tweet](https://twitter.com/ShiyoDuki/status/1718130163840593950)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://pbs.twimg.com/media/F9gGRnFaIAAyOOl?format=jpg&name=orig), [source tweet](https://twitter.com/ShiyoDuki/status/1718130163840593950)  
 
 ---
 

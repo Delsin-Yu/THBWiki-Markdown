@@ -1,6 +1,6 @@
 # 文件:東方華麗舞_-Brilliant_Dance_of_the_East-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\11\ns6%3A%E6%9D%B1%E6%96%B9%E8%8F%AF%E9%BA%97%E8%88%9E_-Brilliant_Dance_of_the_East-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\11\ns6%3A%E6%9D%B1%E6%96%B9%E8%8F%AF%E9%BA%97%E8%88%9E_-Brilliant_Dance_of_the_East-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 かも | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方華麗舞 -Brilliant Dance of the East-](./東方華麗舞_-Brilliant_Dance_of_the_East-.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
-
-
-
+- [東方華麗舞 -Brilliant Dance of the East-](./東方華麗舞_-Brilliant_Dance_of_the_East-.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
 
 ---

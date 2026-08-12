@@ -1,14 +1,11 @@
 # 文件:QLOCKS_banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0a\ns6%3AQLOCKS_banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0a\ns6%3AQLOCKS_banner%2Egif.html -->
 
 QLOCKS | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

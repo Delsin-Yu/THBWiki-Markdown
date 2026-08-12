@@ -1,6 +1,6 @@
 # 文件:TOHO_EUROBEAT_EX_～THE_LEGENDARY_BOUTS～_Instrumental封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\16\ns6%3ATOHO_EUROBEAT_EX_%EF%BD%9ETHE_LEGENDARY_BOUTS%EF%BD%9E_Instrumental%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\16\ns6%3ATOHO_EUROBEAT_EX_%EF%BD%9ETHE_LEGENDARY_BOUTS%EF%BD%9E_Instrumental%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 A-One | 专辑封面 | 封面图片
 
@@ -10,11 +10,9 @@ A-One | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [TOHO EUROBEAT EX ～THE LEGENDARY BOUTS～ Instrumental](./TOHO_EUROBEAT_EX_～THE_LEGENDARY_BOUTS～_Instrumental.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [东风谷早苗](./东风谷早苗.md)
-
-
-
+- [TOHO EUROBEAT EX ～THE LEGENDARY BOUTS～ Instrumental](./TOHO_EUROBEAT_EX_～THE_LEGENDARY_BOUTS～_Instrumental.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [东风谷早苗](./东风谷早苗.md)
 
 
 ---

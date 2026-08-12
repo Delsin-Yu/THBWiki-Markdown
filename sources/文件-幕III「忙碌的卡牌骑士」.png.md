@@ -1,12 +1,8 @@
 # 文件:幕III「忙碌的卡牌骑士」.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\92\ns6%3A%E5%B9%95III%E3%80%8C%E5%BF%99%E7%A2%8C%E7%9A%84%E5%8D%A1%E7%89%8C%E9%AA%91%E5%A3%AB%E3%80%8D%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\92\ns6%3A%E5%B9%95III%E3%80%8C%E5%BF%99%E7%A2%8C%E7%9A%84%E5%8D%A1%E7%89%8C%E9%AA%91%E5%A3%AB%E3%80%8D%2Epng.html -->
 
 东方幕华祭制作组 | 敌机符卡 | 爱丽丝·玛格特洛依德
-
-
-
-
 
 
 ---

@@ -1,16 +1,12 @@
 # 模板:上海CP
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\e\ef\ns10%3A%E4%B8%8A%E6%B5%B7CP.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\e\ef\ns10%3A%E4%B8%8A%E6%B5%B7CP.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

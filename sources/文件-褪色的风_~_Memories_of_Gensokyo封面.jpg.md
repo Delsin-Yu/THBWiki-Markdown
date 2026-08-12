@@ -1,6 +1,6 @@
 # 文件:褪色的风_~_Memories_of_Gensokyo封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d2\ns6%3A%E8%A4%AA%E8%89%B2%E7%9A%84%E9%A3%8E_%7E_Memories_of_Gensokyo%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d2\ns6%3A%E8%A4%AA%E8%89%B2%E7%9A%84%E9%A3%8E_%7E_Memories_of_Gensokyo%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Mount_Mysterious_Team | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Mount_Mysterious_Team | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [褪色的风 ~ Memories of Gensokyo](./褪色的风_~_Memories_of_Gensokyo.md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)
-
-
-
+- [褪色的风 ~ Memories of Gensokyo](./褪色的风_~_Memories_of_Gensokyo.md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
 
 
 ---

@@ -1,14 +1,11 @@
 # 文件:魔符「Blaze_Away」（心绮楼）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\65\ns6%3A%E9%AD%94%E7%AC%A6%E3%80%8CBlaze_Away%E3%80%8D%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\65\ns6%3A%E9%AD%94%E7%AC%A6%E3%80%8CBlaze_Away%E3%80%8D%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%EF%BC%89%2Epng.html -->
 
 东方心绮楼 | 敌机符卡 | 雾雨魔理沙
 
 
 ## 文件说明
-
-
-
 
 ---
 

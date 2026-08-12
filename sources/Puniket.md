@@ -1,27 +1,22 @@
 # Puniket
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\5\54\ns0%3APuniket.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\5\54\ns0%3APuniket.html -->
 
 ぷにケット 在 日本东京 举办的  全类型同人展会活动，目前共举办了3届
 
-本页是关于 **[同人展会](./同人展会.md#展会类活动)**   
-及 **[相关活动](./相关活动.md)** 的词条
-
+本页是关于**[同人展会](./活动.md#展会类活动)**  
+及**[相关活动](./活动.md)**的词条
 ## 概述
-文件:Puniket LOGO.jpg (未找到链接)  Puniket LOGO
+文件:Puniket LOGO.jpg (未找到链接) Puniket LOGO  
+<big>**Puniket**</big>（ぷにケット）。  
   
-<big> **Puniket** </big>（ぷにケット）。  
-  
-  
-  
-  
-日本 **东京** 的全类型 **同人[展会类活动](./展会类活动.md#展会类活动)** 。  
+日本**东京**的全类型**同人[展会类活动](./活动.md#展会类活动)**。  
   
 在东京举办。  
 直到目前为止，已经举办了3届（包含已决定将会举办）。  
 Puniket（活动，展会活动） - ぷにケット 在 日本东京 举办的  全类型同人展会活动，目前共举办了3届
-
 ## 历届信息
+
 - 点击届数可进入对应分类页面。
 - 请注意，摊位数统计可能不准确。
 - 举办日期以当地日期为准。
@@ -29,24 +24,10 @@ Puniket（活动，展会活动） - ぷにケット 在 日本东京 举办的 
 
 <table>
 <tbody><tr><th> </th><th>日期</th><th>地点</th><th>摊位数</th><th>全部摊位数</th><th>东方二次摊位占比</th></tr>
-<tr><td id="21"><b><a href="/展会作品列表?e=Puniket%2321">Puniket 21</a></b></td><td id="ev-1">2010年05月30日</td><td>东京都 大田区产业广场PiO<br><small><span style="color:grey;">東京都 大田区産業プラザPiO</span></small></td><td></td><td>-</td><td>-</td></tr>
-<tr><td id="22"><b><a href="/展会作品列表?e=Puniket%2322">Puniket 22</a></b></td><td id="ev-2">2010年10月24日</td><td>东京都 大田区产业广场PiO<br><small><span style="color:grey;">東京都 大田区産業プラザPiO</span></small></td><td></td><td>-</td><td>-</td></tr>
-<tr><td id="24"><b><a href="/展会作品列表?e=Puniket%2324">Puniket 24</a></b></td><td id="ev-3">2011年11月13日</td><td>东京都 大田区产业广场PiO<br><small><span style="color:grey;">東京都 大田区産業プラザPiO</span></small></td><td></td><td>-</td><td>-</td></tr>
+<tr><td id="21"><b><a href="./展会作品列表.md#21">Puniket 21</a></b></td><td id="ev-1">2010年05月30日</td><td>东京都 大田区产业广场PiO<br><small><span style="color:grey;">東京都 大田区産業プラザPiO</span></small></td><td></td><td>-</td><td>-</td></tr>
+<tr><td id="22"><b><a href="./展会作品列表.md#22">Puniket 22</a></b></td><td id="ev-2">2010年10月24日</td><td>东京都 大田区产业广场PiO<br><small><span style="color:grey;">東京都 大田区産業プラザPiO</span></small></td><td></td><td>-</td><td>-</td></tr>
+<tr><td id="24"><b><a href="./展会作品列表.md#24">Puniket 24</a></b></td><td id="ev-3">2011年11月13日</td><td>东京都 大田区产业广场PiO<br><small><span style="color:grey;">東京都 大田区産業プラザPiO</span></small></td><td></td><td>-</td><td>-</td></tr>
 </tbody></table>
-
-
-
-  
-  
-
-  
-
-  
-  
-
-
-
-
 
 
 ---

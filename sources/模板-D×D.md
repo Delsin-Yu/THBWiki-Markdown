@@ -1,16 +1,12 @@
 # 模板:D×D
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\d\d4\ns10%3AD%C3%97D.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\d\d4\ns10%3AD%C3%97D.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

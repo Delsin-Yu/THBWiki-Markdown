@@ -1,6 +1,6 @@
 # 文件:東方岩少女_ROCKGIRL_東方紅魔郷_Arrange_Sound_Track封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\47\ns6%3A%E6%9D%B1%E6%96%B9%E5%B2%A9%E5%B0%91%E5%A5%B3_ROCKGIRL_%E6%9D%B1%E6%96%B9%E7%B4%85%E9%AD%94%E9%83%B7_Arrange_Sound_Track%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\47\ns6%3A%E6%9D%B1%E6%96%B9%E5%B2%A9%E5%B0%91%E5%A5%B3_ROCKGIRL_%E6%9D%B1%E6%96%B9%E7%B4%85%E9%AD%94%E9%83%B7_Arrange_Sound_Track%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 趣味工房にんじんわいん
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方岩少女 ROCKGIRL 東方紅魔郷 Arrange Sound Track](./東方岩少女_ROCKGIRL_東方紅魔郷_Arrange_Sound_Track.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [東方岩少女 ROCKGIRL 東方紅魔郷 Arrange Sound Track](./東方岩少女_ROCKGIRL_東方紅魔郷_Arrange_Sound_Track.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

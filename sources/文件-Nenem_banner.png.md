@@ -1,12 +1,8 @@
 # 文件:Nenem_banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\48\ns6%3ANenem_banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\48\ns6%3ANenem_banner%2Epng.html -->
 
 スタジオネネム | 社团LOGO
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:GHOSTLY_HILLS_CLUB封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4d\ns6%3AGHOSTLY_HILLS_CLUB%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4d\ns6%3AGHOSTLY_HILLS_CLUB%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 フロッピーアルパカ | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [GHOSTLY HILLS CLUB](./GHOSTLY_HILLS_CLUB.md)  
-该封面包含的角色：- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [GHOSTLY HILLS CLUB](./GHOSTLY_HILLS_CLUB.md)该封面包含的角色：
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

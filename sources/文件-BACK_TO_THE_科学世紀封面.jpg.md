@@ -1,6 +1,6 @@
 # 文件:BACK_TO_THE_科学世紀封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3f\ns6%3ABACK_TO_THE_%E7%A7%91%E5%AD%A6%E4%B8%96%E7%B4%80%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3f\ns6%3ABACK_TO_THE_%E7%A7%91%E5%AD%A6%E4%B8%96%E7%B4%80%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ぜのさいど | 同人志封面 | 封面图片
 
@@ -8,12 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [BACK TO THE 科学世紀](./BACK_TO_THE_科学世紀.md)  
-该封面包含的角色：- [宇佐见莲子](./宇佐见莲子.md)- [八云紫](./八云紫.md)- [宇佐见堇子](./宇佐见堇子.md)源地址：[[1]](https://ecdnimg.toranoana.jp/ec/img/04/0030/65/60/040030656010-1p.jpg)
-
-
-
-
+- [BACK TO THE 科学世紀](./BACK_TO_THE_科学世紀.md)该封面包含的角色：
+- [宇佐见莲子](./宇佐见莲子.md)
+- [八云紫](./八云紫.md)
+- [宇佐见堇子](./宇佐见堇子.md)
+源地址：[\[1\]](https://ecdnimg.toranoana.jp/ec/img/04/0030/65/60/040030656010-1p.jpg)
 
 ---
 

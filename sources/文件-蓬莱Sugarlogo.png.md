@@ -1,18 +1,13 @@
 # 文件:蓬莱Sugarlogo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\96\ns6%3A%E8%93%AC%E8%8E%B1Sugarlogo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\96\ns6%3A%E8%93%AC%E8%8E%B1Sugarlogo%2Epng.html -->
 
 社团LOGO | 蓬莱Sugar
 
 
 ## 文件说明
   
-源地址：[direct image link](https://2.bp.blogspot.com/_YsxGFNv3_v4/TDtEXRRDoUI/AAAAAAAAAHg/VZYSNNdXEnU/S1600-R/hslogonv2.png), [source page](http://hourai-sugar.blogspot.com/)
-  
-
-
-
-
+源地址：[direct image link](https://2.bp.blogspot.com/_YsxGFNv3_v4/TDtEXRRDoUI/AAAAAAAAAHg/VZYSNNdXEnU/S1600-R/hslogonv2.png), [source page](http://hourai-sugar.blogspot.com/)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:東方グランディオーソ～東方混舞selection～封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\db\ns6%3A%E6%9D%B1%E6%96%B9%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BC%E3%82%BD%EF%BD%9E%E6%9D%B1%E6%96%B9%E6%B7%B7%E8%88%9Eselection%EF%BD%9E%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\db\ns6%3A%E6%9D%B1%E6%96%B9%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BC%E3%82%BD%EF%BD%9E%E6%9D%B1%E6%96%B9%E6%B7%B7%E8%88%9Eselection%EF%BD%9E%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 ふりぃだむ☆きゃっと | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@
   
 
 - [東方グランディオーソ～東方混舞selection～](./東方グランディオーソ～東方混舞selection～.md)
-
-
-
 
 
 ---

@@ -1,18 +1,13 @@
 # 文件:自由ノ宴logo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5a\ns6%3A%E8%87%AA%E7%94%B1%E3%83%8E%E5%AE%B4logo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5a\ns6%3A%E8%87%AA%E7%94%B1%E3%83%8E%E5%AE%B4logo%2Epng.html -->
 
 社团LOGO | 自由ノ宴
 
 
 ## 摘要
   
-源地址：[direct image link (original size)](https://pbs.twimg.com/profile_images/1139919039570907136/MCThLbJi.png), [from circle Twitter avatar](https://twitter.com/free_utage)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://pbs.twimg.com/profile_images/1139919039570907136/MCThLbJi.png), [from circle Twitter avatar](https://twitter.com/free_utage)  
 
 ---
 

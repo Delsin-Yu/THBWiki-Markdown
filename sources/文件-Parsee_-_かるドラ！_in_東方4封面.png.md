@@ -1,6 +1,6 @@
 # 文件:Parsee_-_かるドラ！_in_東方4封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d4\ns6%3AParsee_-_%E3%81%8B%E3%82%8B%E3%83%89%E3%83%A9%EF%BC%81_in_%E6%9D%B1%E6%96%B94%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d4\ns6%3AParsee_-_%E3%81%8B%E3%82%8B%E3%83%89%E3%83%A9%EF%BC%81_in_%E6%9D%B1%E6%96%B94%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 かるドラ！ | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Parsee - かるドラ！ in 東方4](./Parsee_-_かるドラ！_in_東方4.md)  
-该封面包含的角色：- [水桥帕露西](./水桥帕露西.md)
-
-
-
+- [Parsee - かるドラ！ in 東方4](./Parsee_-_かるドラ！_in_東方4.md)该封面包含的角色：
+- [水桥帕露西](./水桥帕露西.md)
 
 
 ---

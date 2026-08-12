@@ -1,6 +1,6 @@
 # 文件:Time_Has_Come封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ad\ns6%3ATime_Has_Come%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ad\ns6%3ATime_Has_Come%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ALISON航空 | 专辑封面 | 封面图片 | 暁Records
 
@@ -9,9 +9,6 @@ ALISON航空 | 专辑封面 | 封面图片 | 暁Records
   
 
 - [Time Has Come](./Time_Has_Come.md)
-
-
-
 
 
 ---

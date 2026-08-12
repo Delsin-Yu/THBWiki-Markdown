@@ -1,6 +1,6 @@
 # 文件:蓮弾奏結界_白夜小夜曲_Serenade_at_midnight_sun封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\34\ns6%3A%E8%93%AE%E5%BC%BE%E5%A5%8F%E7%B5%90%E7%95%8C_%E7%99%BD%E5%A4%9C%E5%B0%8F%E5%A4%9C%E6%9B%B2_Serenade_at_midnight_sun%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\34\ns6%3A%E8%93%AE%E5%BC%BE%E5%A5%8F%E7%B5%90%E7%95%8C_%E7%99%BD%E5%A4%9C%E5%B0%8F%E5%A4%9C%E6%9B%B2_Serenade_at_midnight_sun%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 dBu_music | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ dBu_music | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [蓮弾奏結界 白夜小夜曲 Serenade at midnight sun](./蓮弾奏結界_白夜小夜曲_Serenade_at_midnight_sun.md)  
-该封面包含的角色：- [村纱水蜜](./村纱水蜜.md)- [圣白莲](./圣白莲.md)
-
-
-
+- [蓮弾奏結界 白夜小夜曲 Serenade at midnight sun](./蓮弾奏結界_白夜小夜曲_Serenade_at_midnight_sun.md)该封面包含的角色：
+- [村纱水蜜](./村纱水蜜.md)
+- [圣白莲](./圣白莲.md)
 
 
 ---

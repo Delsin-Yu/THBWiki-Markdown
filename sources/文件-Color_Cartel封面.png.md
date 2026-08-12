@@ -1,6 +1,6 @@
 # 文件:Color_Cartel封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9d\ns6%3AColor_Cartel%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9d\ns6%3AColor_Cartel%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 同人志封面 | 封面图片 | 西明石俗物園
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Color Cartel](./Color_Cartel.md)  
-该封面包含的角色：- [伊吹萃香](./伊吹萃香.md)
+- [Color Cartel](./Color_Cartel.md)该封面包含的角色：
+- [伊吹萃香](./伊吹萃香.md)
 
   
-[Pixiv artwork ID: 52515299 (original size)](https://www.pixiv.net/artworks/52515299)
-  
-
-
-
-
+[Pixiv artwork ID: 52515299 (original size)](https://www.pixiv.net/artworks/52515299)  
 
 ---
 

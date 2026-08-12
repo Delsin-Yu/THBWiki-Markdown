@@ -1,12 +1,8 @@
 # 文件:欲灵「Score_Desire_Eater」（神灵庙）-1.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\39\ns6%3A%E6%AC%B2%E7%81%B5%E3%80%8CScore_Desire_Eater%E3%80%8D%EF%BC%88%E7%A5%9E%E7%81%B5%E5%BA%99%EF%BC%89-1%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\39\ns6%3A%E6%AC%B2%E7%81%B5%E3%80%8CScore_Desire_Eater%E3%80%8D%EF%BC%88%E7%A5%9E%E7%81%B5%E5%BA%99%EF%BC%89-1%2Epng.html -->
 
 东方神灵庙 | 宫古芳香 | 敌机符卡
-
-
-
-
 
 
 ---

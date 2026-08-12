@@ -1,16 +1,11 @@
 # 文件:Pays_féeriquebanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\88\ns6%3APays_f%C3%A9eriquebanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\88\ns6%3APays_f%C3%A9eriquebanner%2Epng.html -->
 
 Pays_féerique | 社团LOGO
 
   
-源地址: [[1]](http://fairycountry.iza-yoi.net/Pays_feerique_file/image/banner-40200_B.png)
-  
-
-
-
-
+源地址: [\[1\]](http://fairycountry.iza-yoi.net/Pays_feerique_file/image/banner-40200_B.png)  
 
 ---
 

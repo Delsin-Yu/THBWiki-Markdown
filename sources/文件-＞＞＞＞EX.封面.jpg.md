@@ -1,6 +1,6 @@
 # 文件:＞＞＞＞EX.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d1\ns6%3A%EF%BC%9E%EF%BC%9E%EF%BC%9E%EF%BC%9EEX%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d1\ns6%3A%EF%BC%9E%EF%BC%9E%EF%BC%9E%EF%BC%9EEX%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ZYTOKINE | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ ZYTOKINE | 专辑封面 | 封面图片
   
 
 - [＞＞＞＞EX.](./＞＞＞＞EX..md)
-
-
-
 
 
 ---

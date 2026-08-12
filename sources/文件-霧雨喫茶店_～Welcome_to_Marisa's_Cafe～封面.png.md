@@ -1,6 +1,6 @@
 # 文件:霧雨喫茶店_～Welcome_to_Marisa's_Cafe～封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5b\ns6%3A%E9%9C%A7%E9%9B%A8%E5%96%AB%E8%8C%B6%E5%BA%97_%EF%BD%9EWelcome_to_Marisa%27s_Cafe%EF%BD%9E%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5b\ns6%3A%E9%9C%A7%E9%9B%A8%E5%96%AB%E8%8C%B6%E5%BA%97_%EF%BD%9EWelcome_to_Marisa%27s_Cafe%EF%BD%9E%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Stardust.Memories | 专辑封面 | 封面图片
 
@@ -11,12 +11,7 @@ Stardust.Memories | 专辑封面 | 封面图片
 - [霧雨喫茶店 ～Welcome to Marisa's Cafe～](./霧雨喫茶店_～Welcome_to_Marisa's_Cafe～.md)
 
   
-源地址：[[1]](https://s.booth.pm/dec51598-0856-47bb-86b7-8f1444e45631/i/338623/74dd2fc3-bfc0-477f-89b7-a0aa0b658103.png)
-  
-
-
-
-
+源地址：[\[1\]](https://s.booth.pm/dec51598-0856-47bb-86b7-8f1444e45631/i/338623/74dd2fc3-bfc0-477f-89b7-a0aa0b658103.png)  
 
 ---
 

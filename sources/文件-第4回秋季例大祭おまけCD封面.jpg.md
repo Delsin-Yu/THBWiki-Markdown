@@ -1,6 +1,6 @@
 # 文件:第4回秋季例大祭おまけCD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\54\ns6%3A%E7%AC%AC4%E5%9B%9E%E7%A7%8B%E5%AD%A3%E4%BE%8B%E5%A4%A7%E7%A5%AD%E3%81%8A%E3%81%BE%E3%81%91CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\54\ns6%3A%E7%AC%AC4%E5%9B%9E%E7%A7%8B%E5%AD%A3%E4%BE%8B%E5%A4%A7%E7%A5%AD%E3%81%8A%E3%81%BE%E3%81%91CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 暁Records
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [第4回秋季例大祭おまけCD](./第4回秋季例大祭おまけCD.md)  
-该封面包含的角色：- [宫古芳香](./宫古芳香.md)- [霍青娥](./霍青娥.md)
-
-
-
+- [第4回秋季例大祭おまけCD](./第4回秋季例大祭おまけCD.md)该封面包含的角色：
+- [宫古芳香](./宫古芳香.md)
+- [霍青娥](./霍青娥.md)
 
 
 ---

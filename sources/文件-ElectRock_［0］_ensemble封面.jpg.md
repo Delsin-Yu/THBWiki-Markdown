@@ -1,6 +1,6 @@
 # 文件:ElectRock_［0］_ensemble封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a2\ns6%3AElectRock_%EF%BC%BB0%EF%BC%BD_ensemble%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a2\ns6%3AElectRock_%EF%BC%BB0%EF%BC%BD_ensemble%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ドアのぶ工場 | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [ElectRock ［0］ ensemble](./ElectRock_［0］_ensemble.md)  
-该封面包含的角色：- [莉莉卡·普莉兹姆利巴](./莉莉卡·普莉兹姆利巴.md)
-
-
-
+- [ElectRock ［0］ ensemble](./ElectRock_［0］_ensemble.md)该封面包含的角色：
+- [莉莉卡·普莉兹姆利巴](./莉莉卡·普莉兹姆利巴.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:"Flower_of_Life"_The_best_selection_2008-2011封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8d\ns6%3A%22Flower_of_Life%22_The_best_selection_2008-2011%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8d\ns6%3A%22Flower_of_Life%22_The_best_selection_2008-2011%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 発熱巫女～ず
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- ["Flower of Life" The best selection 2008-2011](./-Flower_of_Life-_The_best_selection_2008-2011.md)  
-该封面包含的角色：- [风见幽香](./风见幽香.md)
-
-
-
+- ["Flower of Life" The best selection 2008-2011](./-Flower_of_Life-_The_best_selection_2008-2011.md)该封面包含的角色：
+- [风见幽香](./风见幽香.md)
 
 
 ---

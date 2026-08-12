@@ -1,16 +1,11 @@
 # 文件:m：Alonelogo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ab\ns6%3Am%EF%BC%9AAlonelogo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ab\ns6%3Am%EF%BC%9AAlonelogo%2Epng.html -->
 
 m：Alone | 社团LOGO
 
   
-源地址：[[1]](https://res.cloudinary.com/hrscywv4p/image/upload/c_limit,h_900,w_1200/v1/211949/path5585_nwj06s.png)
-  
-
-
-
-
+源地址：[\[1\]](https://res.cloudinary.com/hrscywv4p/image/upload/c_limit,h_900,w_1200/v1/211949/path5585_nwj06s.png)  
 
 ---
 

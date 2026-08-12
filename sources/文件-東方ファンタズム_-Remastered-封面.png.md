@@ -1,6 +1,6 @@
 # 文件:東方ファンタズム_-Remastered-封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3e\ns6%3A%E6%9D%B1%E6%96%B9%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%BA%E3%83%A0_-Remastered-%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3e\ns6%3A%E6%9D%B1%E6%96%B9%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%BA%E3%83%A0_-Remastered-%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Trancy | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Trancy | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方ファンタズム -Remastered-](./東方ファンタズム_-Remastered-.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [東方ファンタズム -Remastered-](./東方ファンタズム_-Remastered-.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

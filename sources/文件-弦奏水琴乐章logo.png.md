@@ -1,12 +1,8 @@
 # 文件:弦奏水琴乐章logo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ce\ns6%3A%E5%BC%A6%E5%A5%8F%E6%B0%B4%E7%90%B4%E4%B9%90%E7%AB%A0logo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ce\ns6%3A%E5%BC%A6%E5%A5%8F%E6%B0%B4%E7%90%B4%E4%B9%90%E7%AB%A0logo%2Epng.html -->
 
 弦奏水琴乐章 | 社团LOGO
-
-
-
-
 
 
 ---

@@ -1,16 +1,12 @@
 # 模板:TOHOBLAST
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\1\17\ns10%3ATOHOBLAST.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\1\17\ns10%3ATOHOBLAST.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

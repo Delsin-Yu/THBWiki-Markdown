@@ -1,6 +1,6 @@
 # 文件:fanciful_promotion封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\92\ns6%3Afanciful_promotion%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\92\ns6%3Afanciful_promotion%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 一畳未満 | 封面图片 | 视频封面
 
@@ -10,11 +10,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [fanciful promotion](./fanciful_promotion.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [八云紫](./八云紫.md)- [物部布都](./物部布都.md)- [丰聪耳神子](./丰聪耳神子.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [fanciful promotion](./fanciful_promotion.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [八云紫](./八云紫.md)
+- [物部布都](./物部布都.md)
+- [丰聪耳神子](./丰聪耳神子.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

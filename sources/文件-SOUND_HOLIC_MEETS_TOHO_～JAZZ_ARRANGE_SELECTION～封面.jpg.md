@@ -1,6 +1,6 @@
 # 文件:SOUND_HOLIC_MEETS_TOHO_～JAZZ_ARRANGE_SELECTION～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cd\ns6%3ASOUND_HOLIC_MEETS_TOHO_%EF%BD%9EJAZZ_ARRANGE_SELECTION%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cd\ns6%3ASOUND_HOLIC_MEETS_TOHO_%EF%BD%9EJAZZ_ARRANGE_SELECTION%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 SOUND_HOLIC | 专辑封面 | 封面图片
 
@@ -8,11 +8,11 @@ SOUND_HOLIC | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [SOUND HOLIC MEETS TOHO ～JAZZ ARRANGE SELECTION～](./SOUND_HOLIC_MEETS_TOHO_～JAZZ_ARRANGE_SELECTION～.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- 十六夜咲夜 (未找到链接)- [魂魄妖梦](./魂魄妖梦.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [SOUND HOLIC MEETS TOHO ～JAZZ ARRANGE SELECTION～](./SOUND_HOLIC_MEETS_TOHO_～JAZZ_ARRANGE_SELECTION～.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [十六夜咲夜](./十六夜咲夜.md)
+- [魂魄妖梦](./魂魄妖梦.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:THD2光龙雷云钻.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5c\ns6%3ATHD2%E5%85%89%E9%BE%99%E9%9B%B7%E4%BA%91%E9%92%BB%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5c\ns6%3ATHD2%E5%85%89%E9%BE%99%E9%9B%B7%E4%BA%91%E9%92%BB%2Epng.html -->
 
 AvalonStudioOfficial
-
-
-
-
 
 
 ---

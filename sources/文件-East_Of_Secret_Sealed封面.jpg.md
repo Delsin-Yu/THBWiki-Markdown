@@ -1,6 +1,6 @@
 # 文件:East_Of_Secret_Sealed封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d3\ns6%3AEast_Of_Secret_Sealed%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d3\ns6%3AEast_Of_Secret_Sealed%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 XEoN×少女墓石倶楽部 | 专辑封面 | 封面图片
 
@@ -8,11 +8,11 @@ XEoN×少女墓石倶楽部 | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [East Of Secret Sealed](./East_Of_Secret_Sealed.md)  
-该封面包含的角色：- [古明地觉](./古明地觉.md)- [火焰猫燐](./火焰猫燐.md)- [灵乌路空](./灵乌路空.md)- [古明地恋](./古明地恋.md)
-
-
-
+- [East Of Secret Sealed](./East_Of_Secret_Sealed.md)该封面包含的角色：
+- [古明地觉](./古明地觉.md)
+- [火焰猫燐](./火焰猫燐.md)
+- [灵乌路空](./灵乌路空.md)
+- [古明地恋](./古明地恋.md)
 
 
 ---

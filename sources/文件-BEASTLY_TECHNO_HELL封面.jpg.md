@@ -1,6 +1,6 @@
 # 文件:BEASTLY_TECHNO_HELL封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cf\ns6%3ABEASTLY_TECHNO_HELL%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cf\ns6%3ABEASTLY_TECHNO_HELL%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 荒御灵
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [BEASTLY TECHNO HELL](./BEASTLY_TECHNO_HELL.md)  
-该封面包含的角色：- [骊驹早鬼](./骊驹早鬼.md)
-
-
-
+- [BEASTLY TECHNO HELL](./BEASTLY_TECHNO_HELL.md)该封面包含的角色：
+- [骊驹早鬼](./骊驹早鬼.md)
 
 
 ---

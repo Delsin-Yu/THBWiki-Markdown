@@ -1,12 +1,8 @@
 # 文件:GM之剑（吃土乡）武器.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\39\ns6%3AGM%E4%B9%8B%E5%89%91%EF%BC%88%E5%90%83%E5%9C%9F%E4%B9%A1%EF%BC%89%E6%AD%A6%E5%99%A8%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\39\ns6%3AGM%E4%B9%8B%E5%89%91%EF%BC%88%E5%90%83%E5%9C%9F%E4%B9%A1%EF%BC%89%E6%AD%A6%E5%99%A8%2Epng.html -->
 
 妖怪山地下实验室
-
-
-
-
 
 
 ---

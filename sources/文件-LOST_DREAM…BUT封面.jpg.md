@@ -1,6 +1,6 @@
 # 文件:LOST_DREAM…BUT封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e6\ns6%3ALOST_DREAM%E2%80%A6BUT%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e6\ns6%3ALOST_DREAM%E2%80%A6BUT%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 EXCESS_STANDARD | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ EXCESS_STANDARD | 专辑封面 | 封面图片
   
 
 - [LOST DREAM…BUT](./LOST_DREAM…BUT.md)
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:FAR_EAST_OF_EAST_-XV-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\42\ns6%3AFAR_EAST_OF_EAST_-XV-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\42\ns6%3AFAR_EAST_OF_EAST_-XV-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 TatshMusicCircle | 专辑封面 | 封面图片
 
@@ -8,11 +8,14 @@ TatshMusicCircle | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [FAR EAST OF EAST -XV-](./FAR_EAST_OF_EAST_-XV-.md)  
-该封面包含的角色：- [爱塔妮缇拉尔瓦](./爱塔妮缇拉尔瓦.md)- [坂田合欢](./坂田合欢.md)- [高丽野阿吽](./高丽野阿吽.md)- [摩多罗隐岐奈](./摩多罗隐岐奈.md)- [尔子田里乃](./尔子田里乃.md)- [丁礼田舞](./丁礼田舞.md)- [矢田寺成美](./矢田寺成美.md)
-
-
-
+- [FAR EAST OF EAST -XV-](./FAR_EAST_OF_EAST_-XV-.md)该封面包含的角色：
+- [爱塔妮缇拉尔瓦](./爱塔妮缇拉尔瓦.md)
+- [坂田合欢](./坂田合欢.md)
+- [高丽野阿吽](./高丽野阿吽.md)
+- [摩多罗隐岐奈](./摩多罗隐岐奈.md)
+- [尔子田里乃](./尔子田里乃.md)
+- [丁礼田舞](./丁礼田舞.md)
+- [矢田寺成美](./矢田寺成美.md)
 
 
 ---

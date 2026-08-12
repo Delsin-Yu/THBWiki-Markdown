@@ -1,6 +1,6 @@
 # 文件:Black_Beast_Society封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d3\ns6%3ABlack_Beast_Society%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d3\ns6%3ABlack_Beast_Society%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 斧家
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Black Beast Society](./Black_Beast_Society.md)  
-该封面包含的角色：- [骊驹早鬼](./骊驹早鬼.md)
-
-
-
+- [Black Beast Society](./Black_Beast_Society.md)该封面包含的角色：
+- [骊驹早鬼](./骊驹早鬼.md)
 
 
 ---

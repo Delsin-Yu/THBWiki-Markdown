@@ -1,16 +1,12 @@
 # 文件:le04_STAGE_01.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\24\ns6%3Ale04_STAGE_01%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\24\ns6%3Ale04_STAGE_01%2Emp3.html -->
 
 前进吧人之道，妖之道 | 连缘Project官方音乐MP3 | 连缘天影战记
 
   
 连缘天影战记战线之川主题曲
   
-
-
-
-
 
 ---
 

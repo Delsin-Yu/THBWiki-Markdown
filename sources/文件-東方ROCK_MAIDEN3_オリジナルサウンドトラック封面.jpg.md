@@ -1,6 +1,6 @@
 # 文件:東方ROCK_MAIDEN3_オリジナルサウンドトラック封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d9\ns6%3A%E6%9D%B1%E6%96%B9ROCK_MAIDEN3_%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d9\ns6%3A%E6%9D%B1%E6%96%B9ROCK_MAIDEN3_%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 かぷりこーん | 专辑封面 | 封面图片
 
@@ -8,16 +8,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方ROCK MAIDEN3 オリジナルサウンドトラック](./東方ROCK_MAIDEN3_オリジナルサウンドトラック.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [蓬莱山辉夜](./蓬莱山辉夜.md)
+- [東方ROCK MAIDEN3 オリジナルサウンドトラック](./東方ROCK_MAIDEN3_オリジナルサウンドトラック.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [蓬莱山辉夜](./蓬莱山辉夜.md)
 
   
-源地址：[[1]](https://cdn.melonbooks.co.jp/user_data/packages/resize_image.php?image=213001021180.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://cdn.melonbooks.co.jp/user_data/packages/resize_image.php?image=213001021180.jpg)  
 
 ---
 

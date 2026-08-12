@@ -1,6 +1,6 @@
 # 文件:EastNewSound_Alternative_Outside_2014_autumn封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\34\ns6%3AEastNewSound_Alternative_Outside_2014_autumn%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\34\ns6%3AEastNewSound_Alternative_Outside_2014_autumn%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 EastNewSound | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ EastNewSound | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [EastNewSound Alternative Outside 2014 autumn](./EastNewSound_Alternative_Outside_2014_autumn.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
-
-
-
+- [EastNewSound Alternative Outside 2014 autumn](./EastNewSound_Alternative_Outside_2014_autumn.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
 
 ---

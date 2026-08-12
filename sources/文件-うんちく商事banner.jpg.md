@@ -1,12 +1,8 @@
 # 文件:うんちく商事banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b4\ns6%3A%E3%81%86%E3%82%93%E3%81%A1%E3%81%8F%E5%95%86%E4%BA%8Bbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b4\ns6%3A%E3%81%86%E3%82%93%E3%81%A1%E3%81%8F%E5%95%86%E4%BA%8Bbanner%2Ejpg.html -->
 
 うんちく商事 | 社团LOGO
-
-
-
-
 
 
 ---

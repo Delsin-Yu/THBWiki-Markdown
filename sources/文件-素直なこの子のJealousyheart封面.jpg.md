@@ -1,6 +1,6 @@
 # 文件:素直なこの子のJealousyheart封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c2\ns6%3A%E7%B4%A0%E7%9B%B4%E3%81%AA%E3%81%93%E3%81%AE%E5%AD%90%E3%81%AEJealousyheart%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c2\ns6%3A%E7%B4%A0%E7%9B%B4%E3%81%AA%E3%81%93%E3%81%AE%E5%AD%90%E3%81%AEJealousyheart%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 空色気分
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [素直なこの子のJealousyheart](./素直なこの子のJealousyheart.md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)- [犬走椛](./犬走椛.md)
-
-
-
+- [素直なこの子のJealousyheart](./素直なこの子のJealousyheart.md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
+- [犬走椛](./犬走椛.md)
 
 
 ---

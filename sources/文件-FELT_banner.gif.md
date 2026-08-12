@@ -1,12 +1,8 @@
 # 文件:FELT_banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f2\ns6%3AFELT_banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f2\ns6%3AFELT_banner%2Egif.html -->
 
 FELT | 社团LOGO
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Hollowness_Ⅰ封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\10\ns6%3AHollowness_%E2%85%A0%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\10\ns6%3AHollowness_%E2%85%A0%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 夢中界 | 封面图片
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Hollowness Ⅰ](./Hollowness_Ⅰ.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [Hollowness Ⅰ](./Hollowness_Ⅰ.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
   
-源地址：[direct image link (original size)](https://blog-imgs-42-origin.fc2.com/h/a/n/hankouki17/hyousi_20110303154524.jpg), [source page](http://hankouki17.blog62.fc2.com/blog-entry-223.html)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://blog-imgs-42-origin.fc2.com/h/a/n/hankouki17/hyousi_20110303154524.jpg), [source page](http://hankouki17.blog62.fc2.com/blog-entry-223.html)  
 
 ---
 

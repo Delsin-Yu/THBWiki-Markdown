@@ -1,6 +1,6 @@
 # 东方DOTS-Touhou_Defence_of_The_Shrines2(THD2)/平台-DOTA2国服注册、安装
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\64\ns0%3A%E4%B8%9C%E6%96%B9DOTS-Touhou_Defence_of_The_Shrines2%28THD2%29%2F%E5%B9%B3%E5%8F%B0-DOTA2%E5%9B%BD%E6%9C%8D%E6%B3%A8%E5%86%8C%E3%80%81%E5%AE%89%E8%A3%85.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\64\ns0%3A%E4%B8%9C%E6%96%B9DOTS-Touhou_Defence_of_The_Shrines2%28THD2%29%2F%E5%B9%B3%E5%8F%B0-DOTA2%E5%9B%BD%E6%9C%8D%E6%B3%A8%E5%86%8C%E3%80%81%E5%AE%89%E8%A3%85.html -->
 
 AvalonStudioOfficial
 
@@ -10,18 +10,13 @@ AvalonStudioOfficial
 ②注册完美通行证（[注册链接](http://passport.wanmei.com/dota/phonereg.jsp)）注册之后请记住账号密码。（推荐使用邮箱注册）  
 
 ③打开DOTA2客户端，注册或登录steam账号：  
-
-[](./文件-THD2教程1.png.md)  
-
-④运行DOTA2，并关联完美账号  
-
-[](./文件-THD2教学2.jpg.md)  
-
+<img alt="THD2教程1.png" src="https://upload.thwiki.cc/thumb/3/3c/THD2%E6%95%99%E7%A8%8B1.png/500px-THD2%E6%95%99%E7%A8%8B1.png" decoding="async" loading="lazy" width="500" height="507" srcset="https://upload.thwiki.cc/3/3c/THD2%E6%95%99%E7%A8%8B1.png 1.5x" data-file-width="648" data-file-height="657">
   
 
-
-
-
+④运行DOTA2，并关联完美账号  
+<img alt="THD2教学2.jpg" src="https://upload.thwiki.cc/4/48/THD2%E6%95%99%E5%AD%A62.jpg" decoding="async" loading="lazy" width="464" height="394" data-file-width="464" data-file-height="394">
+  
+  
 
 ---
 

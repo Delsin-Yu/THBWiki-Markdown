@@ -1,12 +1,8 @@
 # 文件:GoM插图（衣玖-3）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c1\ns6%3AGoM%E6%8F%92%E5%9B%BE%EF%BC%88%E8%A1%A3%E7%8E%96-3%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c1\ns6%3AGoM%E6%8F%92%E5%9B%BE%EF%BC%88%E8%A1%A3%E7%8E%96-3%EF%BC%89%2Ejpg.html -->
 
 永江衣玖 | 魔理沙的魔法书
-
-
-
-
 
 
 ---

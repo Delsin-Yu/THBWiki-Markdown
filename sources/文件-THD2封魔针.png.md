@@ -1,12 +1,8 @@
 # 文件:THD2封魔针.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\41\ns6%3ATHD2%E5%B0%81%E9%AD%94%E9%92%88%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\41\ns6%3ATHD2%E5%B0%81%E9%AD%94%E9%92%88%2Epng.html -->
 
 AvalonStudioOfficial
-
-
-
-
 
 
 ---

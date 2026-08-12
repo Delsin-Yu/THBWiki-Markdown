@@ -1,6 +1,6 @@
 # 文件:龍色BEST!封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ed\ns6%3A%E9%BE%8D%E8%89%B2BEST%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ed\ns6%3A%E9%BE%8D%E8%89%B2BEST%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 こおりあめ | 同人志封面 | 封面图片
 
@@ -8,11 +8,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [龍色BEST!](./龍色BEST!.md)  
-该封面包含的角色：- [红美铃](./红美铃.md)- 十六夜咲夜 (未找到链接)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [龍色BEST!](./龍色BEST!.md)该封面包含的角色：
+- [红美铃](./红美铃.md)
+- [十六夜咲夜](./十六夜咲夜.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

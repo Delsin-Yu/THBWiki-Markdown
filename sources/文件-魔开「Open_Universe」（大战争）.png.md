@@ -1,14 +1,11 @@
 # 文件:魔开「Open_Universe」（大战争）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\58\ns6%3A%E9%AD%94%E5%BC%80%E3%80%8COpen_Universe%E3%80%8D%EF%BC%88%E5%A4%A7%E6%88%98%E4%BA%89%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\58\ns6%3A%E9%AD%94%E5%BC%80%E3%80%8COpen_Universe%E3%80%8D%EF%BC%88%E5%A4%A7%E6%88%98%E4%BA%89%EF%BC%89%2Epng.html -->
 
 妖精大战争 | 敌机符卡 | 雾雨魔理沙
 
 
 ## 文件说明
-
-
-
 
 ---
 

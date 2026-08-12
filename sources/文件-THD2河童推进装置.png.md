@@ -1,12 +1,8 @@
 # 文件:THD2河童推进装置.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\70\ns6%3ATHD2%E6%B2%B3%E7%AB%A5%E6%8E%A8%E8%BF%9B%E8%A3%85%E7%BD%AE%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\70\ns6%3ATHD2%E6%B2%B3%E7%AB%A5%E6%8E%A8%E8%BF%9B%E8%A3%85%E7%BD%AE%2Epng.html -->
 
 东方DOTS玩家社群
-
-
-
-
 
 
 ---

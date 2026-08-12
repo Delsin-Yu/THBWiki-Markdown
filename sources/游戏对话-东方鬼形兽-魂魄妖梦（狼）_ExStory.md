@@ -1,12 +1,13 @@
 # 游戏对话:东方鬼形兽/魂魄妖梦（狼）_ExStory
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\a\a7\ns508%3A%E4%B8%9C%E6%96%B9%E9%AC%BC%E5%BD%A2%E5%85%BD%2F%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6%EF%BC%88%E7%8B%BC%EF%BC%89_ExStory.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\a\a7\ns508%3A%E4%B8%9C%E6%96%B9%E9%AC%BC%E5%BD%A2%E5%85%BD%2F%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6%EF%BC%88%E7%8B%BC%EF%BC%89_ExStory.html -->
 
 东方鬼形兽 | 使用了简单对话的页面 | 使用了简单游戏对话的页面 | 引用了翻译表的页面 | 游戏对话
 
-- 本词条内容为官方游戏TH17 **[东方鬼形兽](./东方鬼形兽.md)** 的ExStory游戏对话
+
+- 本词条内容为官方游戏TH17**[东方鬼形兽](./东方鬼形兽.md)**的ExStory游戏对话
 - 出于剧透性的考虑，请自主决定是否查看本词条的内容，本词条的内容会涉及游戏剧情的剧透
-- 如果发现翻译问题可进行改正， **若无权限，请在该词条讨论版 (未找到链接)提出意见** 
+- 如果发现翻译问题可进行改正，**若无权限，请在该词条讨论版 (未找到链接)提出意见**
 
 
 <table>
@@ -18,47 +19,32 @@
 </tbody></table>
 
 
-
 ## Extra Stage
-旁旁白
+旁旁白  
+<img alt="鬼形兽ex面场景.png" src="https://upload.thwiki.cc/thumb/9/99/%E9%AC%BC%E5%BD%A2%E5%85%BDex%E9%9D%A2%E5%9C%BA%E6%99%AF.png/200px-%E9%AC%BC%E5%BD%A2%E5%85%BDex%E9%9D%A2%E5%9C%BA%E6%99%AF.png" decoding="async" loading="lazy" width="200" height="63" srcset="https://upload.thwiki.cc/thumb/9/99/%E9%AC%BC%E5%BD%A2%E5%85%BDex%E9%9D%A2%E5%9C%BA%E6%99%AF.png/300px-%E9%AC%BC%E5%BD%A2%E5%85%BDex%E9%9D%A2%E5%9C%BA%E6%99%AF.png 1.5x, https://upload.thwiki.cc/thumb/9/99/%E9%AC%BC%E5%BD%A2%E5%85%BDex%E9%9D%A2%E5%9C%BA%E6%99%AF.png/400px-%E9%AC%BC%E5%BD%A2%E5%85%BDex%E9%9D%A2%E5%9C%BA%E6%99%AF.png 2x" data-file-width="600" data-file-height="190">
   
-[](./文件-鬼形兽ex面场景.png.md)  
 鬼形兽EX面场景
   
-
   
-
-
   
 嗜血的地狱之风
 Beastly Storm
   
-
   
-
-
   
 地狱（畜生界暴风区域附近）
   
-
   
-
-
   
 BGM: 闪耀的弱肉强食法则
   
-
   
-
-
   
 [庭渡久侘歌](./庭渡久侘歌.md) 登场
   
-
   
-
-[](./庭渡久侘歌.md)庭渡久侘歌
-  
+<img alt="庭渡久侘歌（鬼形兽立绘）.png" src="https://upload.thwiki.cc/thumb/1/12/%E5%BA%AD%E6%B8%A1%E4%B9%85%E4%BE%98%E6%AD%8C%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E5%BA%AD%E6%B8%A1%E4%B9%85%E4%BE%98%E6%AD%8C%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="69" srcset="https://upload.thwiki.cc/thumb/1/12/%E5%BA%AD%E6%B8%A1%E4%B9%85%E4%BE%98%E6%AD%8C%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E5%BA%AD%E6%B8%A1%E4%B9%85%E4%BE%98%E6%AD%8C%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/1/12/%E5%BA%AD%E6%B8%A1%E4%B9%85%E4%BE%98%E6%AD%8C%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E5%BA%AD%E6%B8%A1%E4%B9%85%E4%BE%98%E6%AD%8C%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="400" data-file-height="551">
+庭渡久侘歌  
 前方由最强的动物灵占据着
   
   
@@ -68,43 +54,29 @@ BGM: 闪耀的弱肉强食法则
   
 你们赶快回去！
   
-
-
-
   
 [庭渡久侘歌](./庭渡久侘歌.md) 被击败
   
-
   
-
-[](./魂魄妖梦.md)魂魄妖梦
-  
+<img alt="魂魄妖梦（鬼形兽立绘）.png" src="https://upload.thwiki.cc/thumb/b/b8/%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="55" srcset="https://upload.thwiki.cc/thumb/b/b8/%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/b/b8/%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="1002" data-file-height="1109">
+魂魄妖梦  
 地狱的水滨迎击作战
 我第一次见识到
   
   
 这不是来了个相当不妙的家伙嘛……
   
-
-
-[](./魂魄妖梦.md)野狼灵魂魄妖梦
+<img alt="魂魄妖梦b（鬼形兽立绘）no.png" src="https://upload.thwiki.cc/thumb/0/07/%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6b%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89no.png/50px-%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6b%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89no.png" decoding="async" loading="lazy" width="50" height="50" srcset="https://upload.thwiki.cc/thumb/0/07/%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6b%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89no.png/75px-%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6b%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89no.png 1.5x, https://upload.thwiki.cc/thumb/0/07/%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6b%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89no.png/100px-%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6b%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89no.png 2x" data-file-width="700" data-file-height="700">
+野狼灵魂魄妖梦  
+*……*  
   
- *……* 
-  
-  
- *呵呵呵* 
-  
-
-
-
+*呵呵呵*  
   
 [骊驹早鬼](./骊驹早鬼.md) 登场
   
-
   
-
-[](./骊驹早鬼.md)？？？
-  
+<img alt="骊驹早鬼（鬼形兽立绘）.png" src="https://upload.thwiki.cc/thumb/c/c4/%E9%AA%8A%E9%A9%B9%E6%97%A9%E9%AC%BC%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E9%AA%8A%E9%A9%B9%E6%97%A9%E9%AC%BC%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="54" srcset="https://upload.thwiki.cc/thumb/c/c4/%E9%AA%8A%E9%A9%B9%E6%97%A9%E9%AC%BC%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E9%AA%8A%E9%A9%B9%E6%97%A9%E9%AC%BC%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/c/c4/%E9%AA%8A%E9%A9%B9%E6%97%A9%E9%AC%BC%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E9%AA%8A%E9%A9%B9%E6%97%A9%E9%AC%BC%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="474" data-file-height="512">
+？？？  
 啊哈哈！
 笑得我停不下来！
   
@@ -116,52 +88,37 @@ BGM: 闪耀的弱肉强食法则
 做的太好了！　假装被吉吊操纵
 真是没有白费功夫，野狼灵！
   
-
-
-[](./魂魄妖梦.md)野狼灵魂魄妖梦
-  
+<img alt="魂魄妖梦b（鬼形兽立绘）no.png" src="https://upload.thwiki.cc/thumb/0/07/%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6b%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89no.png/50px-%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6b%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89no.png" decoding="async" loading="lazy" width="50" height="50" srcset="https://upload.thwiki.cc/thumb/0/07/%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6b%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89no.png/75px-%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6b%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89no.png 1.5x, https://upload.thwiki.cc/thumb/0/07/%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6b%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89no.png/100px-%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6b%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89no.png 2x" data-file-width="700" data-file-height="700">
+野狼灵魂魄妖梦  
 ……骊驹大人好！
 您过奖了
   
-
-
-[](./魂魄妖梦.md)魂魄妖梦
-  
+<img alt="魂魄妖梦（鬼形兽立绘）.png" src="https://upload.thwiki.cc/thumb/b/b8/%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="55" srcset="https://upload.thwiki.cc/thumb/b/b8/%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/b/b8/%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="1002" data-file-height="1109">
+魂魄妖梦  
 你就是最强的动物灵吗……！
 你究竟是谁？
   
-
-
-[](./骊驹早鬼.md)？？？
-  
+<img alt="骊驹早鬼（鬼形兽立绘）.png" src="https://upload.thwiki.cc/thumb/c/c4/%E9%AA%8A%E9%A9%B9%E6%97%A9%E9%AC%BC%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E9%AA%8A%E9%A9%B9%E6%97%A9%E9%AC%BC%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="54" srcset="https://upload.thwiki.cc/thumb/c/c4/%E9%AA%8A%E9%A9%B9%E6%97%A9%E9%AC%BC%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E9%AA%8A%E9%A9%B9%E6%97%A9%E9%AC%BC%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/c/c4/%E9%AA%8A%E9%A9%B9%E6%97%A9%E9%AC%BC%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E9%AA%8A%E9%A9%B9%E6%97%A9%E9%AC%BC%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="474" data-file-height="512">
+？？？  
 ……这个人类不认识我啊
   
-
-
-
   
 劲牙组组长  
 [骊驹早鬼](./骊驹早鬼.md)  
 Kurokoma Saki
   
-
   
-
-[](./骊驹早鬼.md)骊驹早鬼
-  
+<img alt="骊驹早鬼（鬼形兽立绘）.png" src="https://upload.thwiki.cc/thumb/c/c4/%E9%AA%8A%E9%A9%B9%E6%97%A9%E9%AC%BC%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E9%AA%8A%E9%A9%B9%E6%97%A9%E9%AC%BC%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="54" srcset="https://upload.thwiki.cc/thumb/c/c4/%E9%AA%8A%E9%A9%B9%E6%97%A9%E9%AC%BC%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E9%AA%8A%E9%A9%B9%E6%97%A9%E9%AC%BC%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/c/c4/%E9%AA%8A%E9%A9%B9%E6%97%A9%E9%AC%BC%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E9%AA%8A%E9%A9%B9%E6%97%A9%E9%AC%BC%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="474" data-file-height="512">
+骊驹早鬼  
 你好，我是劲牙组组长
 骊驹 早鬼
   
-
-
-[](./魂魄妖梦.md)魂魄妖梦
-  
+<img alt="魂魄妖梦（鬼形兽立绘）.png" src="https://upload.thwiki.cc/thumb/b/b8/%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="55" srcset="https://upload.thwiki.cc/thumb/b/b8/%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/b/b8/%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="1002" data-file-height="1109">
+魂魄妖梦  
 劲牙组……？
   
-
-
-[](./魂魄妖梦.md)野狼灵魂魄妖梦
-  
+<img alt="魂魄妖梦b（鬼形兽立绘）no.png" src="https://upload.thwiki.cc/thumb/0/07/%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6b%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89no.png/50px-%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6b%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89no.png" decoding="async" loading="lazy" width="50" height="50" srcset="https://upload.thwiki.cc/thumb/0/07/%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6b%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89no.png/75px-%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6b%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89no.png 1.5x, https://upload.thwiki.cc/thumb/0/07/%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6b%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89no.png/100px-%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6b%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89no.png 2x" data-file-width="700" data-file-height="700">
+野狼灵魂魄妖梦  
 这位是我的老大
   
   
@@ -171,16 +128,12 @@ Kurokoma Saki
   
 是畜生界的最强组织
   
-
-
-[](./魂魄妖梦.md)魂魄妖梦
-  
+<img alt="魂魄妖梦（鬼形兽立绘）.png" src="https://upload.thwiki.cc/thumb/b/b8/%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="55" srcset="https://upload.thwiki.cc/thumb/b/b8/%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/b/b8/%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="1002" data-file-height="1109">
+魂魄妖梦  
 畜生界最强……！？
   
-
-
-[](./骊驹早鬼.md)骊驹早鬼
-  
+<img alt="骊驹早鬼（鬼形兽立绘）.png" src="https://upload.thwiki.cc/thumb/c/c4/%E9%AA%8A%E9%A9%B9%E6%97%A9%E9%AC%BC%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E9%AA%8A%E9%A9%B9%E6%97%A9%E9%AC%BC%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="54" srcset="https://upload.thwiki.cc/thumb/c/c4/%E9%AA%8A%E9%A9%B9%E6%97%A9%E9%AC%BC%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E9%AA%8A%E9%A9%B9%E6%97%A9%E9%AC%BC%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/c/c4/%E9%AA%8A%E9%A9%B9%E6%97%A9%E9%AC%BC%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E9%AA%8A%E9%A9%B9%E6%97%A9%E9%AC%BC%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="474" data-file-height="512">
+骊驹早鬼  
 为了打倒袿姬
 而暂时与吉吊缔结的合作关系已经结束了
   
@@ -200,10 +153,8 @@ Kurokoma Saki
 不，何止畜生界，地狱界和人间界也……？
 目标更加远大了呢
   
-
-
-[](./魂魄妖梦.md)魂魄妖梦
-  
+<img alt="魂魄妖梦（鬼形兽立绘）.png" src="https://upload.thwiki.cc/thumb/b/b8/%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="55" srcset="https://upload.thwiki.cc/thumb/b/b8/%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/b/b8/%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="1002" data-file-height="1109">
+魂魄妖梦  
 也就是说，因为我把那位神明打倒了
 才导致了你们这样的家伙出现了吗
   
@@ -215,33 +166,24 @@ Kurokoma Saki
 我有责任阻止你
 就算拼上我的性命！
   
-
-
-
   
 BGM: 圣德太子的天马　～ Dark Pegasus
   
-
   
-
-[](./骊驹早鬼.md)骊驹早鬼
-  
+<img alt="骊驹早鬼（鬼形兽立绘）.png" src="https://upload.thwiki.cc/thumb/c/c4/%E9%AA%8A%E9%A9%B9%E6%97%A9%E9%AC%BC%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E9%AA%8A%E9%A9%B9%E6%97%A9%E9%AC%BC%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="54" srcset="https://upload.thwiki.cc/thumb/c/c4/%E9%AA%8A%E9%A9%B9%E6%97%A9%E9%AC%BC%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E9%AA%8A%E9%A9%B9%E6%97%A9%E9%AC%BC%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/c/c4/%E9%AA%8A%E9%A9%B9%E6%97%A9%E9%AC%BC%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E9%AA%8A%E9%A9%B9%E6%97%A9%E9%AC%BC%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="474" data-file-height="512">
+骊驹早鬼  
 呵呵呵，真是爽快啊
   
   
 和吉吊那种另有隐情的家伙不同
 你颇有觉悟的身姿十分美妙
   
-
-
-[](./魂魄妖梦.md)野狼灵魂魄妖梦
-  
+<img alt="魂魄妖梦b（鬼形兽立绘）no.png" src="https://upload.thwiki.cc/thumb/0/07/%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6b%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89no.png/50px-%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6b%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89no.png" decoding="async" loading="lazy" width="50" height="50" srcset="https://upload.thwiki.cc/thumb/0/07/%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6b%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89no.png/75px-%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6b%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89no.png 1.5x, https://upload.thwiki.cc/thumb/0/07/%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6b%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89no.png/100px-%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6b%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89no.png 2x" data-file-width="700" data-file-height="700">
+野狼灵魂魄妖梦  
 ……
   
-
-
-[](./骊驹早鬼.md)骊驹早鬼
-  
+<img alt="骊驹早鬼（鬼形兽立绘）.png" src="https://upload.thwiki.cc/thumb/c/c4/%E9%AA%8A%E9%A9%B9%E6%97%A9%E9%AC%BC%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E9%AA%8A%E9%A9%B9%E6%97%A9%E9%AC%BC%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="54" srcset="https://upload.thwiki.cc/thumb/c/c4/%E9%AA%8A%E9%A9%B9%E6%97%A9%E9%AC%BC%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E9%AA%8A%E9%A9%B9%E6%97%A9%E9%AC%BC%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/c/c4/%E9%AA%8A%E9%A9%B9%E6%97%A9%E9%AC%BC%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E9%AA%8A%E9%A9%B9%E6%97%A9%E9%AC%BC%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="474" data-file-height="512">
+骊驹早鬼  
 你明白吧？　野狼灵啊
 你尽全力帮助人类来挑战我吧
   
@@ -254,17 +196,12 @@ BGM: 圣德太子的天马　～ Dark Pegasus
 
 领教一下挑落邪神的人类之力！
   
-
-
-
   
 [骊驹早鬼](./骊驹早鬼.md) 被击败
   
-
   
-
-[](./骊驹早鬼.md)骊驹早鬼
-  
+<img alt="骊驹早鬼（鬼形兽立绘）.png" src="https://upload.thwiki.cc/thumb/c/c4/%E9%AA%8A%E9%A9%B9%E6%97%A9%E9%AC%BC%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E9%AA%8A%E9%A9%B9%E6%97%A9%E9%AC%BC%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="54" srcset="https://upload.thwiki.cc/thumb/c/c4/%E9%AA%8A%E9%A9%B9%E6%97%A9%E9%AC%BC%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E9%AA%8A%E9%A9%B9%E6%97%A9%E9%AC%BC%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/c/c4/%E9%AA%8A%E9%A9%B9%E6%97%A9%E9%AC%BC%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E9%AA%8A%E9%A9%B9%E6%97%A9%E9%AC%BC%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="474" data-file-height="512">
+骊驹早鬼  
 哈……哈
   
   
@@ -274,30 +211,22 @@ BGM: 圣德太子的天马　～ Dark Pegasus
   
 太、太让我感动了！
   
-
-
-[](./魂魄妖梦.md)魂魄妖梦
-  
+<img alt="魂魄妖梦（鬼形兽立绘）.png" src="https://upload.thwiki.cc/thumb/b/b8/%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="55" srcset="https://upload.thwiki.cc/thumb/b/b8/%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/b/b8/%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="1002" data-file-height="1109">
+魂魄妖梦  
 我还能再战呢！
   
-
-
-[](./骊驹早鬼.md)骊驹早鬼
-  
+<img alt="骊驹早鬼（鬼形兽立绘）.png" src="https://upload.thwiki.cc/thumb/c/c4/%E9%AA%8A%E9%A9%B9%E6%97%A9%E9%AC%BC%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E9%AA%8A%E9%A9%B9%E6%97%A9%E9%AC%BC%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="54" srcset="https://upload.thwiki.cc/thumb/c/c4/%E9%AA%8A%E9%A9%B9%E6%97%A9%E9%AC%BC%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E9%AA%8A%E9%A9%B9%E6%97%A9%E9%AC%BC%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/c/c4/%E9%AA%8A%E9%A9%B9%E6%97%A9%E9%AC%BC%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E9%AA%8A%E9%A9%B9%E6%97%A9%E9%AC%BC%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="474" data-file-height="512">
+骊驹早鬼  
 别了，你还是算了吧
 再继续下去的话，你我就有一方要倒下了
   
-
-
-[](./魂魄妖梦.md)魂魄妖梦
-  
+<img alt="魂魄妖梦（鬼形兽立绘）.png" src="https://upload.thwiki.cc/thumb/b/b8/%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="55" srcset="https://upload.thwiki.cc/thumb/b/b8/%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/b/b8/%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="1002" data-file-height="1109">
+魂魄妖梦  
 哈……哈，那可真是帮大忙了
 我是快不行了
   
-
-
-[](./骊驹早鬼.md)骊驹早鬼
-  
+<img alt="骊驹早鬼（鬼形兽立绘）.png" src="https://upload.thwiki.cc/thumb/c/c4/%E9%AA%8A%E9%A9%B9%E6%97%A9%E9%AC%BC%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E9%AA%8A%E9%A9%B9%E6%97%A9%E9%AC%BC%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="54" srcset="https://upload.thwiki.cc/thumb/c/c4/%E9%AA%8A%E9%A9%B9%E6%97%A9%E9%AC%BC%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E9%AA%8A%E9%A9%B9%E6%97%A9%E9%AC%BC%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/c/c4/%E9%AA%8A%E9%A9%B9%E6%97%A9%E9%AC%BC%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E9%AA%8A%E9%A9%B9%E6%97%A9%E9%AC%BC%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="474" data-file-height="512">
+骊驹早鬼  
 你还真是个实诚的家伙
 我很中意你哦
   
@@ -305,16 +234,12 @@ BGM: 圣德太子的天马　～ Dark Pegasus
 说起来
 你不是地面上的人类吧？
   
-
-
-[](./魂魄妖梦.md)魂魄妖梦
-  
+<img alt="魂魄妖梦（鬼形兽立绘）.png" src="https://upload.thwiki.cc/thumb/b/b8/%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="55" srcset="https://upload.thwiki.cc/thumb/b/b8/%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/b/b8/%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="1002" data-file-height="1109">
+魂魄妖梦  
 嗯，我是冥界的居民
   
-
-
-[](./骊驹早鬼.md)骊驹早鬼
-  
+<img alt="骊驹早鬼（鬼形兽立绘）.png" src="https://upload.thwiki.cc/thumb/c/c4/%E9%AA%8A%E9%A9%B9%E6%97%A9%E9%AC%BC%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E9%AA%8A%E9%A9%B9%E6%97%A9%E9%AC%BC%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="54" srcset="https://upload.thwiki.cc/thumb/c/c4/%E9%AA%8A%E9%A9%B9%E6%97%A9%E9%AC%BC%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E9%AA%8A%E9%A9%B9%E6%97%A9%E9%AC%BC%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/c/c4/%E9%AA%8A%E9%A9%B9%E6%97%A9%E9%AC%BC%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E9%AA%8A%E9%A9%B9%E6%97%A9%E9%AC%BC%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="474" data-file-height="512">
+骊驹早鬼  
 原来如此，是冥界啊
   
   
@@ -325,59 +250,36 @@ BGM: 圣德太子的天马　～ Dark Pegasus
 好，我决定了！
 下次我来冥界走一趟吧
   
-
-
-[](./魂魄妖梦.md)魂魄妖梦
-  
+<img alt="魂魄妖梦（鬼形兽立绘）.png" src="https://upload.thwiki.cc/thumb/b/b8/%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="55" srcset="https://upload.thwiki.cc/thumb/b/b8/%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/b/b8/%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="1002" data-file-height="1109">
+魂魄妖梦  
 咦？
   
-
-
-[](./骊驹早鬼.md)骊驹早鬼
-  
+<img alt="骊驹早鬼（鬼形兽立绘）.png" src="https://upload.thwiki.cc/thumb/c/c4/%E9%AA%8A%E9%A9%B9%E6%97%A9%E9%AC%BC%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E9%AA%8A%E9%A9%B9%E6%97%A9%E9%AC%BC%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="54" srcset="https://upload.thwiki.cc/thumb/c/c4/%E9%AA%8A%E9%A9%B9%E6%97%A9%E9%AC%BC%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E9%AA%8A%E9%A9%B9%E6%97%A9%E9%AC%BC%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/c/c4/%E9%AA%8A%E9%A9%B9%E6%97%A9%E9%AC%BC%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E9%AA%8A%E9%A9%B9%E6%97%A9%E9%AC%BC%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="474" data-file-height="512">
+骊驹早鬼  
 如果能在冥界募集到新的伙伴的话
 我们劲牙组就会更加强力！
   
-
-
-[](./魂魄妖梦.md)魂魄妖梦
-  
+<img alt="魂魄妖梦（鬼形兽立绘）.png" src="https://upload.thwiki.cc/thumb/b/b8/%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="55" srcset="https://upload.thwiki.cc/thumb/b/b8/%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/b/b8/%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="1002" data-file-height="1109">
+魂魄妖梦  
 这、这种事
   
   
 你要这么做的话
 还会遭殃的！
   
-
-
-[](./骊驹早鬼.md)骊驹早鬼
-  
+<img alt="骊驹早鬼（鬼形兽立绘）.png" src="https://upload.thwiki.cc/thumb/c/c4/%E9%AA%8A%E9%A9%B9%E6%97%A9%E9%AC%BC%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E9%AA%8A%E9%A9%B9%E6%97%A9%E9%AC%BC%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="54" srcset="https://upload.thwiki.cc/thumb/c/c4/%E9%AA%8A%E9%A9%B9%E6%97%A9%E9%AC%BC%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E9%AA%8A%E9%A9%B9%E6%97%A9%E9%AC%BC%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/c/c4/%E9%AA%8A%E9%A9%B9%E6%97%A9%E9%AC%BC%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E9%AA%8A%E9%A9%B9%E6%97%A9%E9%AC%BC%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="474" data-file-height="512">
+骊驹早鬼  
 啊哈哈，那可是求之不得！
   
   
 那就等我稍事休息
 之后继续再战吧！
   
-
-
-[](./魂魄妖梦.md)魂魄妖梦
-  
+<img alt="魂魄妖梦（鬼形兽立绘）.png" src="https://upload.thwiki.cc/thumb/b/b8/%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png/50px-%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="55" srcset="https://upload.thwiki.cc/thumb/b/b8/%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png/75px-%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/b/b8/%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="1002" data-file-height="1109">
+魂魄妖梦  
 诶——
 总感觉是不是上了她的当了
   
-
-
-
-## 导航
-  
-  
-
-<table><tbody><tr><td><table cellspacing="0" class="nowraplinks mw-collapsible mw-collapsed" style="width:100%;;;"><tbody><tr><th style=";" colspan="3" class="navbox-title"><div class="navbar"><div class="noprint plainlinksneverexpand" style="background-color:transparent; padding:0; font-weight:normal; font-size:80%; white-space:nowrap;"><a href="./模板-东方鬼形兽导航.md" title="模板:东方鬼形兽导航"><span style=";;border:none;" title="查看这个模板">查</span></a>&#160;<span style="font-size:80%;">•</span>&#160;<a href="/index.php?title=%E6%A8%A1%E6%9D%BF:%E4%B8%9C%E6%96%B9%E9%AC%BC%E5%BD%A2%E5%85%BD%E5%AF%BC%E8%88%AA&amp;action=edit"><span style=";;border:none;" title="您可以编辑这个模板。请在储存变更之前先预览">编</span></a></div></div><span><a href="./东方鬼形兽.md" title="东方鬼形兽">东方鬼形兽</a></span></th></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">角色</td><td style=";;" class="navbox-list navbox-odd"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>自机</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a> &#8226; <a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a> &#8226; <a href="./魂魄妖梦.md" title="魂魄妖梦">魂魄妖梦</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>BOSS</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./戎璎花.md" title="戎璎花">戎璎花</a> &#8226; <a href="./牛崎润美.md" title="牛崎润美">牛崎润美</a> &#8226; <a href="./庭渡久侘歌.md" title="庭渡久侘歌">庭渡久侘歌</a> &#8226; <a href="./吉吊八千慧.md" title="吉吊八千慧">吉吊八千慧</a> &#8226; <a href="./杖刀偶磨弓.md" title="杖刀偶磨弓">杖刀偶磨弓</a> &#8226; <a href="./埴安神袿姬.md" title="埴安神袿姬">埴安神袿姬</a> &#8226; <a href="./骊驹早鬼.md" title="骊驹早鬼">骊驹早鬼</a></div></td></tr></tbody></table><div></div></td><td class="navbox-image" style="" rowspan="13"><a href="./文件-鬼形兽载入界面.png.md" class="image"><img alt="鬼形兽载入界面.png" src="https://upload.thwiki.cc/thumb/1/12/%E9%AC%BC%E5%BD%A2%E5%85%BD%E8%BD%BD%E5%85%A5%E7%95%8C%E9%9D%A2.png/160px-%E9%AC%BC%E5%BD%A2%E5%85%BD%E8%BD%BD%E5%85%A5%E7%95%8C%E9%9D%A2.png" decoding="async" loading="lazy" width="160" height="120" srcset="https://upload.thwiki.cc/thumb/1/12/%E9%AC%BC%E5%BD%A2%E5%85%BD%E8%BD%BD%E5%85%A5%E7%95%8C%E9%9D%A2.png/240px-%E9%AC%BC%E5%BD%A2%E5%85%BD%E8%BD%BD%E5%85%A5%E7%95%8C%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/1/12/%E9%AC%BC%E5%BD%A2%E5%85%BD%E8%BD%BD%E5%85%A5%E7%95%8C%E9%9D%A2.png/320px-%E9%AC%BC%E5%BD%A2%E5%85%BD%E8%BD%BD%E5%85%A5%E7%95%8C%E9%9D%A2.png 2x" data-file-width="1280" data-file-height="960"></a></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">剧情</td><td style=";;" class="navbox-list navbox-even"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>剧情文本</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="/%E9%99%84%E5%B8%A6%E6%96%87%E6%A1%A3:%E4%B8%9C%E6%96%B9%E9%AC%BC%E5%BD%A2%E5%85%BD/%E6%B8%B8%E6%88%8F%E5%86%85Manual#=-3" title="附带文档:东方鬼形兽/游戏内Manual" unred="">故事背景</a> &#8226; <a href="/%E9%99%84%E5%B8%A6%E6%96%87%E6%A1%A3:%E4%B8%9C%E6%96%B9%E9%AC%BC%E5%BD%A2%E5%85%BD/Omake#Extra_Story" title="附带文档:东方鬼形兽/Omake">EX 故事背景</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>游戏对话&amp;结局</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./游戏对话-东方鬼形兽-博丽灵梦（狼）.md" title="游戏对话:东方鬼形兽/博丽灵梦（狼）">博丽灵梦（狼）</a> &#8226; <a href="./游戏对话-东方鬼形兽-博丽灵梦（獭）.md" title="游戏对话:东方鬼形兽/博丽灵梦（獭）">博丽灵梦（獭）</a> &#8226; <a href="./游戏对话-东方鬼形兽-博丽灵梦（鹫）.md" title="游戏对话:东方鬼形兽/博丽灵梦（鹫）">博丽灵梦（鹫）</a> &#8226; <a href="./游戏对话-东方鬼形兽-雾雨魔理沙（狼）.md" title="游戏对话:东方鬼形兽/雾雨魔理沙（狼）">雾雨魔理沙（狼）</a> &#8226; <a href="./游戏对话-东方鬼形兽-雾雨魔理沙（獭）.md" title="游戏对话:东方鬼形兽/雾雨魔理沙（獭）">雾雨魔理沙（獭）</a> &#8226; <a href="./游戏对话-东方鬼形兽-雾雨魔理沙（鹫）.md" title="游戏对话:东方鬼形兽/雾雨魔理沙（鹫）">雾雨魔理沙（鹫）</a> &#8226; <a href="./游戏对话-东方鬼形兽-魂魄妖梦（狼）.md" title="游戏对话:东方鬼形兽/魂魄妖梦（狼）">魂魄妖梦（狼）</a> &#8226; <a href="./游戏对话-东方鬼形兽-魂魄妖梦（獭）.md" title="游戏对话:东方鬼形兽/魂魄妖梦（獭）">魂魄妖梦（獭）</a> &#8226; <a href="./游戏对话-东方鬼形兽-魂魄妖梦（鹫）.md" title="游戏对话:东方鬼形兽/魂魄妖梦（鹫）">魂魄妖梦（鹫）</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>Ex游戏对话</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./游戏对话-东方鬼形兽-博丽灵梦（狼）_ExStory.md" title="游戏对话:东方鬼形兽/博丽灵梦（狼） ExStory">博丽灵梦（狼）</a> &#8226; <a href="./游戏对话-东方鬼形兽-博丽灵梦（獭）_ExStory.md" title="游戏对话:东方鬼形兽/博丽灵梦（獭） ExStory">博丽灵梦（獭）</a> &#8226; <a href="./游戏对话-东方鬼形兽-博丽灵梦（鹫）_ExStory.md" title="游戏对话:东方鬼形兽/博丽灵梦（鹫） ExStory">博丽灵梦（鹫）</a> &#8226; <a href="./游戏对话-东方鬼形兽-雾雨魔理沙（狼）_ExStory.md" title="游戏对话:东方鬼形兽/雾雨魔理沙（狼） ExStory">雾雨魔理沙（狼）</a> &#8226; <a href="./游戏对话-东方鬼形兽-雾雨魔理沙（獭）_ExStory.md" title="游戏对话:东方鬼形兽/雾雨魔理沙（獭） ExStory">雾雨魔理沙（獭）</a> &#8226; <a href="./游戏对话-东方鬼形兽-雾雨魔理沙（鹫）_ExStory.md" title="游戏对话:东方鬼形兽/雾雨魔理沙（鹫） ExStory">雾雨魔理沙（鹫）</a> &#8226; <a class="mw-selflink selflink">魂魄妖梦（狼）</a> &#8226; <a href="./游戏对话-东方鬼形兽-魂魄妖梦（獭）_ExStory.md" title="游戏对话:东方鬼形兽/魂魄妖梦（獭） ExStory">魂魄妖梦（獭）</a> &#8226; <a href="./游戏对话-东方鬼形兽-魂魄妖梦（鹫）_ExStory.md" title="游戏对话:东方鬼形兽/魂魄妖梦（鹫） ExStory">魂魄妖梦（鹫）</a></div></td></tr></tbody></table><div></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">场景</td><td style=";;" class="navbox-list navbox-odd"><div><a href="./赛之河原.md" title="赛之河原">赛之河原</a> &#8226; <a href="./三途河.md" title="三途河">三途河</a> &#8226; <a href="./彼岸.md" title="彼岸">彼岸</a> &#8226; <a href="./地狱.md" title="地狱">地狱</a> &#8226; <a href="./畜生界.md" title="畜生界">畜生界</a> &#8226; <a href="/%E7%95%9C%E7%94%9F%E7%95%8C#灵长园" title="畜生界">灵长园 坟墓内部</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">音乐</td><td style=";;" class="navbox-list navbox-even"><div><a href="./东方鬼形兽-Music.md" title="东方鬼形兽/Music">Music Room</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="/%E4%B8%9C%E6%96%B9%E9%AC%BC%E5%BD%A2%E5%85%BD#附带文档" title="东方鬼形兽">附带文档</a></td><td style=";;" class="navbox-list navbox-odd"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>体验版</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./附带文档-东方鬼形兽体验版-Omake.md" title="附带文档:东方鬼形兽体验版/Omake">Omake</a> &#8226; <a href="./附带文档-东方鬼形兽体验版-Readme.md" title="附带文档:东方鬼形兽体验版/Readme">Readme</a> &#8226; <a href="./附带文档-东方鬼形兽体验版-游戏内Manual.md" title="附带文档:东方鬼形兽体验版/游戏内Manual">游戏内Manual</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>正式版</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./附带文档-东方鬼形兽-Omake.md" title="附带文档:东方鬼形兽/Omake">Omake</a> &#8226; <a href="./附带文档-东方鬼形兽-Readme.md" title="附带文档:东方鬼形兽/Readme">Readme</a> &#8226; <a href="./附带文档-东方鬼形兽-游戏内Manual.md" title="附带文档:东方鬼形兽/游戏内Manual">游戏内Manual</a> &#8226; <a href="./附带文档-东方鬼形兽-光盘说明书.md" title="附带文档:东方鬼形兽/光盘说明书">光盘说明书</a></div></td></tr></tbody></table><div></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="/%E7%AC%A6%E5%8D%A1%E5%88%97%E8%A1%A8#东方鬼形兽" title="符卡列表">符卡</a></td><td style=";;" class="navbox-list navbox-even"><div><a href="./东方鬼形兽-自机符卡.md" title="东方鬼形兽/自机符卡">自机符卡</a> &#8226; <a href="./东方鬼形兽-Stage_1.md" title="东方鬼形兽/Stage 1">Stage 1</a> &#8226; <a href="./东方鬼形兽-Stage_2.md" title="东方鬼形兽/Stage 2">Stage 2</a> &#8226; <a href="./东方鬼形兽-Stage_3.md" title="东方鬼形兽/Stage 3">Stage 3</a> &#8226; <a href="./东方鬼形兽-Stage_4.md" title="东方鬼形兽/Stage 4">Stage 4</a> &#8226; <a href="./东方鬼形兽-Stage_5.md" title="东方鬼形兽/Stage 5">Stage 5</a> &#8226; <a href="./东方鬼形兽-Stage_6.md" title="东方鬼形兽/Stage 6">Stage 6</a> &#8226; <a href="./东方鬼形兽-Extra.md" title="东方鬼形兽/Extra">Extra</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">其他</td><td style=";;" class="navbox-list navbox-odd"><div><a href="./东方鬼形兽-成就.md" title="东方鬼形兽/成就">成就系统</a> &#8226; <a href="./东方鬼形兽-动物灵.md" title="东方鬼形兽/动物灵">动物灵系统</a></div></td></tr></tbody></table></td></tr></tbody></table>
-
-
-
-
-
 
 ---
 

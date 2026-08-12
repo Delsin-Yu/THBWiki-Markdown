@@ -1,6 +1,6 @@
 # 文件:Lullby_to_Hades封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\63\ns6%3ALullby_to_Hades%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\63\ns6%3ALullby_to_Hades%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 JinX | 专辑封面 | 封面图片
 
@@ -8,16 +8,13 @@ JinX | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Lullby to Hades](./Lullby_to_Hades.md)  
-该封面包含的角色：- [西行寺幽幽子](./西行寺幽幽子.md)- [风见幽香](./风见幽香.md)- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)
+- [Lullby to Hades](./Lullby_to_Hades.md)该封面包含的角色：
+- [西行寺幽幽子](./西行寺幽幽子.md)
+- [风见幽香](./风见幽香.md)
+- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)
 
   
-源地址: [[1]](https://static.wixstatic.com/media/bf3f64_6008ff8705c24b90ba6c05d9996ab1d3.jpg/v1/fill/w_704,h_704,al_c,q_90,usm_0.66_1.00_0.01/bf3f64_6008ff8705c24b90ba6c05d9996ab1d3.jpg)
-  
-
-
-
-
+源地址: [\[1\]](https://static.wixstatic.com/media/bf3f64_6008ff8705c24b90ba6c05d9996ab1d3.jpg/v1/fill/w_704,h_704,al_c,q_90,usm_0.66_1.00_0.01/bf3f64_6008ff8705c24b90ba6c05d9996ab1d3.jpg)  
 
 ---
 

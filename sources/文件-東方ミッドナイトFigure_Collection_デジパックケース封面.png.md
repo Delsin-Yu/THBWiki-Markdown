@@ -1,6 +1,6 @@
 # 文件:東方ミッドナイトFigure_Collection_デジパックケース封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4a\ns6%3A%E6%9D%B1%E6%96%B9%E3%83%9F%E3%83%83%E3%83%89%E3%83%8A%E3%82%A4%E3%83%88Figure_Collection_%E3%83%87%E3%82%B8%E3%83%91%E3%83%83%E3%82%AF%E3%82%B1%E3%83%BC%E3%82%B9%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4a\ns6%3A%E6%9D%B1%E6%96%B9%E3%83%9F%E3%83%83%E3%83%89%E3%83%8A%E3%82%A4%E3%83%88Figure_Collection_%E3%83%87%E3%82%B8%E3%83%91%E3%83%83%E3%82%AF%E3%82%B1%E3%83%BC%E3%82%B9%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Golden_City_Factory | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Golden_City_Factory | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方ミッドナイトFigure Collection デジパックケース](./東方ミッドナイトFigure_Collection_デジパックケース.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [東方ミッドナイトFigure Collection デジパックケース](./東方ミッドナイトFigure_Collection_デジパックケース.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

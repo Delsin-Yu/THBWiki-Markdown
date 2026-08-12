@@ -1,6 +1,6 @@
 # 文件:CielArc×OMOCHI_SOUND_FACTORY_コラボCD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\05\ns6%3ACielArc%C3%97OMOCHI_SOUND_FACTORY_%E3%82%B3%E3%83%A9%E3%83%9CCD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\05\ns6%3ACielArc%C3%97OMOCHI_SOUND_FACTORY_%E3%82%B3%E3%83%A9%E3%83%9CCD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 CielArc | OMOCHI_SOUND_FACTORY | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ CielArc | OMOCHI_SOUND_FACTORY | 专辑封面 | 封面图片
   
 
 - [CielArc×OMOCHI SOUND FACTORY コラボCD](./CielArc×OMOCHI_SOUND_FACTORY_コラボCD.md)
-
-
-
 
 
 ---

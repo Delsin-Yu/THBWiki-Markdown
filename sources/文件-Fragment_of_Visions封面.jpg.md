@@ -1,6 +1,6 @@
 # 文件:Fragment_of_Visions封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\50\ns6%3AFragment_of_Visions%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\50\ns6%3AFragment_of_Visions%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Acute_Strings | 专辑封面 | 封面图片
 
@@ -8,16 +8,12 @@ Acute_Strings | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Fragment of Visions](./Fragment_of_Visions.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [圣白莲](./圣白莲.md)
+- [Fragment of Visions](./Fragment_of_Visions.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [圣白莲](./圣白莲.md)
 
   
-[Pixiv artwork ID: 20967652 (original size)](https://www.pixiv.net/artworks/20967652)
-  
-
-
-
-
+[Pixiv artwork ID: 20967652 (original size)](https://www.pixiv.net/artworks/20967652)  
 
 ---
 

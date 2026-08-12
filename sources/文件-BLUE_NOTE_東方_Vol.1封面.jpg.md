@@ -1,6 +1,6 @@
 # 文件:BLUE_NOTE_東方_Vol.1封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\36\ns6%3ABLUE_NOTE_%E6%9D%B1%E6%96%B9_Vol%2E1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\36\ns6%3ABLUE_NOTE_%E6%9D%B1%E6%96%B9_Vol%2E1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 東京アクティブNEETs
 
@@ -11,12 +11,7 @@
 - [BLUE NOTE 東方 Vol.1](./BLUE_NOTE_東方_Vol.1.md)
 
   
-源地址：[[1]](http://neets.tokyo/img/Jacket_L/BNT1_L.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://neets.tokyo/img/Jacket_L/BNT1_L.jpg)  
 
 ---
 

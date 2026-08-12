@@ -1,18 +1,13 @@
 # 文件:Skyline_Soundlogo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ae\ns6%3ASkyline_Soundlogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ae\ns6%3ASkyline_Soundlogo%2Ejpg.html -->
 
 Skyline_Sound | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[Weibo avatar (highest quality?)](https://tva2.sinaimg.cn/crop.0.0.512.512.1024/bf14ef4bjw8ex7fhx84sjj20e80e8754.jpg?KID=imgbed,tva&amp;Expires=1605842037&amp;ssig=Qc+CuUPDVw)
-  
-
-
-
-
+源地址：[Weibo avatar (highest quality?)](https://tva2.sinaimg.cn/crop.0.0.512.512.1024/bf14ef4bjw8ex7fhx84sjj20e80e8754.jpg?KID=imgbed,tva&Expires=1605842037&ssig=Qc+CuUPDVw)  
 
 ---
 

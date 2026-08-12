@@ -1,6 +1,6 @@
 # 文件:東方空宴歌-HAYATE-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\84\ns6%3A%E6%9D%B1%E6%96%B9%E7%A9%BA%E5%AE%B4%E6%AD%8C-HAYATE-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\84\ns6%3A%E6%9D%B1%E6%96%B9%E7%A9%BA%E5%AE%B4%E6%AD%8C-HAYATE-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 領域ZERO
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方空宴歌-HAYATE-](./東方空宴歌-HAYATE-.md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)- [东风谷早苗](./东风谷早苗.md)
-
-
-
+- [東方空宴歌-HAYATE-](./東方空宴歌-HAYATE-.md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
+- [东风谷早苗](./东风谷早苗.md)
 
 
 ---

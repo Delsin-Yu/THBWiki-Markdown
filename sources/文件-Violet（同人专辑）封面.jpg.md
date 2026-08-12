@@ -1,6 +1,6 @@
 # 文件:Violet（同人专辑）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\73\ns6%3AViolet%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\73\ns6%3AViolet%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 idoyklik | 专辑封面 | 封面图片
 
@@ -8,12 +8,9 @@ idoyklik | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Violet（同人专辑）](./Violet（同人专辑）.md)  
-该封面包含的角色：- [八云紫](./八云紫.md)源地址：[[1]](https://idoyklik.bandcamp.com/album/violet)
-
-
-
-
+- [Violet（同人专辑）](./Violet（同人专辑）.md)该封面包含的角色：
+- [八云紫](./八云紫.md)
+源地址：[\[1\]](https://idoyklik.bandcamp.com/album/violet)
 
 ---
 

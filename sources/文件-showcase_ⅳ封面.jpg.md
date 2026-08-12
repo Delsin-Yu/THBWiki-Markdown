@@ -1,6 +1,6 @@
 # 文件:showcase_ⅳ封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\34\ns6%3Ashowcase_%E2%85%B3%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\34\ns6%3Ashowcase_%E2%85%B3%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 少女理論観測所
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [showcase ⅳ](./showcase_ⅳ.md)  
-该封面包含的角色：- [霍青娥](./霍青娥.md)
-
-
-
+- [showcase ⅳ](./showcase_ⅳ.md)该封面包含的角色：
+- [霍青娥](./霍青娥.md)
 
 
 ---

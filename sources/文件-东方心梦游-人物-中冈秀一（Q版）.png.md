@@ -1,12 +1,8 @@
 # 文件:东方心梦游-人物-中冈秀一（Q版）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6e\ns6%3A%E4%B8%9C%E6%96%B9%E5%BF%83%E6%A2%A6%E6%B8%B8-%E4%BA%BA%E7%89%A9-%E4%B8%AD%E5%86%88%E7%A7%80%E4%B8%80%EF%BC%88Q%E7%89%88%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6e\ns6%3A%E4%B8%9C%E6%96%B9%E5%BF%83%E6%A2%A6%E6%B8%B8-%E4%BA%BA%E7%89%A9-%E4%B8%AD%E5%86%88%E7%A7%80%E4%B8%80%EF%BC%88Q%E7%89%88%EF%BC%89%2Epng.html -->
 
 中冈秀一 | 二次角色立绘 | 夢星琉璃
-
-
-
-
 
 
 ---

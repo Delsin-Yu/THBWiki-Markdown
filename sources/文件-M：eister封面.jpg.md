@@ -1,6 +1,6 @@
 # 文件:M：eister封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d2\ns6%3AM%EF%BC%9Aeister%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d2\ns6%3AM%EF%BC%9Aeister%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Evolution_Tunes | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@ Evolution_Tunes | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [M：eister](./M：eister.md)  
-该封面包含的角色：- [丰聪耳神子](./丰聪耳神子.md)
+- [M：eister](./M：eister.md)该封面包含的角色：
+- [丰聪耳神子](./丰聪耳神子.md)
 
   
-[Pixiv artwork ID: 65248076](https://www.pixiv.net/artworks/65248076)
-  
-
-
-
-
+[Pixiv artwork ID: 65248076](https://www.pixiv.net/artworks/65248076)  
 
 ---
 

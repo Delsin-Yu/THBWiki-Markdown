@@ -1,16 +1,12 @@
 # 模板:PA
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\b\b5\ns10%3APA.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\b\b5\ns10%3APA.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

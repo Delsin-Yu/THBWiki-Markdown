@@ -1,6 +1,6 @@
 # 文件:INSANITY封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dc\ns6%3AINSANITY%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dc\ns6%3AINSANITY%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 DiGTECNO_LABORATORY | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ DiGTECNO_LABORATORY | 专辑封面 | 封面图片
   
 
 - [INSANITY](./INSANITY.md)
-
-
-
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:魔女的茶话会社团logo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\58\ns6%3A%E9%AD%94%E5%A5%B3%E7%9A%84%E8%8C%B6%E8%AF%9D%E4%BC%9A%E7%A4%BE%E5%9B%A2logo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\58\ns6%3A%E9%AD%94%E5%A5%B3%E7%9A%84%E8%8C%B6%E8%AF%9D%E4%BC%9A%E7%A4%BE%E5%9B%A2logo%2Epng.html -->
 
 天邪鬼夜行 | 社团LOGO
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:少女作業中_～_Mountain_of_Faith.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\65\ns6%3A%E5%B0%91%E5%A5%B3%E4%BD%9C%E6%A5%AD%E4%B8%AD_%EF%BD%9E_Mountain_of_Faith%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\65\ns6%3A%E5%B0%91%E5%A5%B3%E4%BD%9C%E6%A5%AD%E4%B8%AD_%EF%BD%9E_Mountain_of_Faith%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 mondorium | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@ mondorium | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [少女作業中 ～ Mountain of Faith.](./少女作業中_～_Mountain_of_Faith..md)  
-该封面包含的角色：- [河城荷取](./河城荷取.md)
+- [少女作業中 ～ Mountain of Faith.](./少女作業中_～_Mountain_of_Faith..md)该封面包含的角色：
+- [河城荷取](./河城荷取.md)
 
   
-源地址：[[1]](https://f4.bcbits.com/img/a3810256684_10.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://f4.bcbits.com/img/a3810256684_10.jpg)  
 
 ---
 

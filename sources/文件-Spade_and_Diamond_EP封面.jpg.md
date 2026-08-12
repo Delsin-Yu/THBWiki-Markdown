@@ -1,6 +1,6 @@
 # 文件:Spade_and_Diamond_EP封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\24\ns6%3ASpade_and_Diamond_EP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\24\ns6%3ASpade_and_Diamond_EP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 OTAKU-ELITE_Recordings | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ OTAKU-ELITE_Recordings | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Spade and Diamond EP](./Spade_and_Diamond_EP.md)  
-该封面包含的角色：- [小野塚小町](./小野塚小町.md)- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)
-
-
-
+- [Spade and Diamond EP](./Spade_and_Diamond_EP.md)该封面包含的角色：
+- [小野塚小町](./小野塚小町.md)
+- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)
 
 
 ---

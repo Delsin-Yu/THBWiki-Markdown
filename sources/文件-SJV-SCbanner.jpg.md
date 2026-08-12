@@ -1,12 +1,8 @@
 # 文件:SJV-SCbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\33\ns6%3ASJV-SCbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\33\ns6%3ASJV-SCbanner%2Ejpg.html -->
 
 SJV-SC | 社团LOGO
-
-
-
-
 
 
 ---

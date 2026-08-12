@@ -1,14 +1,11 @@
 # 文件:The_Grimoire_of_Usami（幽谷响子1）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fb\ns6%3AThe_Grimoire_of_Usami%EF%BC%88%E5%B9%BD%E8%B0%B7%E5%93%8D%E5%AD%901%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fb\ns6%3AThe_Grimoire_of_Usami%EF%BC%88%E5%B9%BD%E8%B0%B7%E5%93%8D%E5%AD%901%EF%BC%89%2Ejpg.html -->
 
 宇佐见的魔法书 | 幽谷响子
 
 
 ## 摘要
-
-
-
 
 ---
 

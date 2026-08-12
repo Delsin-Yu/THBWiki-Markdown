@@ -1,6 +1,6 @@
 # 文件:聖蓮萃奏樂_～_respective_tales封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7e\ns6%3A%E8%81%96%E8%93%AE%E8%90%83%E5%A5%8F%E6%A8%82_%EF%BD%9E_respective_tales%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7e\ns6%3A%E8%81%96%E8%93%AE%E8%90%83%E5%A5%8F%E6%A8%82_%EF%BD%9E_respective_tales%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 時雨月横丁
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [聖蓮萃奏樂 ～ respective tales](./聖蓮萃奏樂_～_respective_tales.md)  
-该封面包含的角色：- [村纱水蜜](./村纱水蜜.md)- [圣白莲](./圣白莲.md)
-
-
-
+- [聖蓮萃奏樂 ～ respective tales](./聖蓮萃奏樂_～_respective_tales.md)该封面包含的角色：
+- [村纱水蜜](./村纱水蜜.md)
+- [圣白莲](./圣白莲.md)
 
 
 ---

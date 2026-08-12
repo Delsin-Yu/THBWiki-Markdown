@@ -1,21 +1,17 @@
 # Rumia_in_the_darkness
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\5\51\ns0%3ARumia_in_the_darkness.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\5\51\ns0%3ARumia_in_the_darkness.html -->
 
 2019年8月1日 由 Dark Sky Empire  发布的RPG同人游戏，可在 Windows 系统上运行，游戏人数为 单人模式，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人软件 (未找到链接)** 的词条
-
+**[二次创作同人软件](./二次创作.md#同人软件)**的词条
 ## 目录
 
 - [1 软件信息](#软件信息)
 - [2 Staff](#Staff)
 - [3 内容页面](#内容页面)
 - [4 评论](#评论)
-
-
-
 
 
 ## 软件信息
@@ -25,9 +21,7 @@
 </tr><tr><td class="label">首发日期</td><td>2019-08-01</td></tr><tr><td class="label">类型</td><td>游戏</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">游戏人数</td><td>单人模式</td></tr><tr><td class="label">游戏类型</td><td>RPG</td></tr><tr><td class="label">运行平台</td><td>Windows</td></tr><tr><td class="label">语言</td><td>简体中文，日文，英文</td></tr><tr><td class="label">售价</td><td>6人民币</td></tr></tbody></table>
 
 Rumia in the darkness（同人游戏，Dark Sky Empire，2019） - 2019年8月1日 由 Dark Sky Empire  发布的RPG同人游戏，可在 Windows 系统上运行，游戏人数为 单人模式，分级为 一般向
-
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://store.steampowered.com/app/1060240">Steam</a></td></tr></tbody></table>
-
 
 
 <table>
@@ -36,14 +30,13 @@ Rumia in the darkness（同人游戏，Dark Sky Empire，2019） - 2019年8月1�
 </tbody></table>
 
 
-
 ## Staff
   
 本游戏由“飞越无尽暗空”设计与开发，作为Steam开发者的名字是Dark Sky Empire。
   
 
-
 ## 内容页面
+
 - [游戏设定与剧情](./Rumia_in_the_darkness-设定与剧情.md)
 - [攻略](./Rumia_in_the_darkness-攻略.md)
 - [系统兼容](./Rumia_in_the_darkness-说明.md)
@@ -52,9 +45,6 @@ Rumia in the darkness（同人游戏，Dark Sky Empire，2019） - 2019年8月1�
 
 
 ## 评论
-
-
-
 
 ---
 

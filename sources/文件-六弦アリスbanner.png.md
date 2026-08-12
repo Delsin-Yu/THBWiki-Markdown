@@ -1,12 +1,8 @@
 # 文件:六弦アリスbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5e\ns6%3A%E5%85%AD%E5%BC%A6%E3%82%A2%E3%83%AA%E3%82%B9banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5e\ns6%3A%E5%85%AD%E5%BC%A6%E3%82%A2%E3%83%AA%E3%82%B9banner%2Epng.html -->
 
 六弦アリス | 社团LOGO
-
-
-
-
 
 
 ---

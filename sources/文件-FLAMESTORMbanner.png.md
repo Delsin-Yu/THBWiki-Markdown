@@ -1,14 +1,11 @@
 # 文件:FLAMESTORMbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\79\ns6%3AFLAMESTORMbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\79\ns6%3AFLAMESTORMbanner%2Epng.html -->
 
 FLAMESTORM | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

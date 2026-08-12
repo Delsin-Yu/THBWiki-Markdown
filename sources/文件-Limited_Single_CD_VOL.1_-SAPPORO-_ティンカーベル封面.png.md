@@ -1,6 +1,6 @@
 # 文件:Limited_Single_CD_VOL.1_-SAPPORO-_ティンカーベル封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4d\ns6%3ALimited_Single_CD_VOL%2E1_-SAPPORO-_%E3%83%86%E3%82%A3%E3%83%B3%E3%82%AB%E3%83%BC%E3%83%99%E3%83%AB%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4d\ns6%3ALimited_Single_CD_VOL%2E1_-SAPPORO-_%E3%83%86%E3%82%A3%E3%83%B3%E3%82%AB%E3%83%BC%E3%83%99%E3%83%AB%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 GET_IN_THE_RING | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ GET_IN_THE_RING | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Limited Single CD VOL.1 -SAPPORO- ティンカーベル](./Limited_Single_CD_VOL.1_-SAPPORO-_ティンカーベル.md)  
-该封面包含的角色：- [本居小铃](./本居小铃.md)
-
-
-
+- [Limited Single CD VOL.1 -SAPPORO- ティンカーベル](./Limited_Single_CD_VOL.1_-SAPPORO-_ティンカーベル.md)该封面包含的角色：
+- [本居小铃](./本居小铃.md)
 
 
 ---

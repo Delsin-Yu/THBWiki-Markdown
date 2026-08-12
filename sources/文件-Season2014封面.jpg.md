@@ -1,6 +1,6 @@
 # 文件:Season2014封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\83\ns6%3ASeason2014%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\83\ns6%3ASeason2014%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Ayu_Voltex_Record_Agency | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ Ayu_Voltex_Record_Agency | 专辑封面 | 封面图片
   
 
 - [Season2014](./Season2014.md)
-
-
-
 
 
 ---

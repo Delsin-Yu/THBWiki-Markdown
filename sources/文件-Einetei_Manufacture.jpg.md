@@ -1,16 +1,12 @@
 # 文件:Einetei_Manufacture.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f9\ns6%3AEinetei_Manufacture%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f9\ns6%3AEinetei_Manufacture%2Ejpg.html -->
 
 永远亭制作所 | 社团LOGO
 
   
 logo
   
-
-
-
-
 
 ---
 

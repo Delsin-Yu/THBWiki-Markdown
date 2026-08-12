@@ -1,6 +1,6 @@
 # 文件:Reflections_in_Monochrome封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3c\ns6%3AReflections_in_Monochrome%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3c\ns6%3AReflections_in_Monochrome%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Releska | 专辑封面 | 封面图片
 
@@ -8,16 +8,13 @@ Releska | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Reflections in Monochrome](./Reflections_in_Monochrome.md)  
-该封面包含的角色：- [火焰猫燐](./火焰猫燐.md)- [依神女苑](./依神女苑.md)- [依神紫苑](./依神紫苑.md)
+- [Reflections in Monochrome](./Reflections_in_Monochrome.md)该封面包含的角色：
+- [火焰猫燐](./火焰猫燐.md)
+- [依神女苑](./依神女苑.md)
+- [依神紫苑](./依神紫苑.md)
 
   
-源地址：[[1]](https://releska.com/2019/12/15/rele-12/)
-  
-
-
-
-
+源地址：[\[1\]](https://releska.com/2019/12/15/rele-12/)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:Dearg_scéal封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\00\ns6%3ADearg_sc%C3%A9al%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\00\ns6%3ADearg_sc%C3%A9al%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 α.ACE | 同人志封面 | 封面图片
 
@@ -10,11 +10,16 @@
 使用了本文件作封面图片的作品：
   
 
-- [Dearg scéal](./Dearg_scéal.md)  
-该封面包含的角色：- [露米娅](./露米娅.md)- [琪露诺](./琪露诺.md)- [红美铃](./红美铃.md)- [博丽灵梦](./博丽灵梦.md)- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)- 十六夜咲夜 (未找到链接)- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [Dearg scéal](./Dearg_scéal.md)该封面包含的角色：
+- [露米娅](./露米娅.md)
+- [琪露诺](./琪露诺.md)
+- [红美铃](./红美铃.md)
+- [博丽灵梦](./博丽灵梦.md)
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
+- [十六夜咲夜](./十六夜咲夜.md)
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

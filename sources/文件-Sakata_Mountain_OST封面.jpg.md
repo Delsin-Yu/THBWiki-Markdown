@@ -1,6 +1,6 @@
 # 文件:Sakata_Mountain_OST封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f9\ns6%3ASakata_Mountain_OST%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f9\ns6%3ASakata_Mountain_OST%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Karob | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Karob | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Sakata Mountain OST](./Sakata_Mountain_OST.md)  
-该封面包含的角色：- [坂田合欢](./坂田合欢.md)
-
-
-
+- [Sakata Mountain OST](./Sakata_Mountain_OST.md)该封面包含的角色：
+- [坂田合欢](./坂田合欢.md)
 
 
 ---

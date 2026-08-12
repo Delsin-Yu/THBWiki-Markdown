@@ -1,6 +1,6 @@
 # 文件:Dolci_casa封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c3\ns6%3ADolci_casa%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c3\ns6%3ADolci_casa%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 十六神数 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Dolci casa](./Dolci_casa.md)  
-该封面包含的角色：- [铃瑚](./铃瑚.md)
-
-
-
+- [Dolci casa](./Dolci_casa.md)该封面包含的角色：
+- [铃瑚](./铃瑚.md)
 
 
 ---

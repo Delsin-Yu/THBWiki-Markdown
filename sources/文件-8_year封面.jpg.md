@@ -1,6 +1,6 @@
 # 文件:8_year封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\07\ns6%3A8_year%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\07\ns6%3A8_year%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 大外刈り | 封面图片
 
@@ -10,16 +10,22 @@
 使用了本文件作封面图片的作品：
   
 
-- [8 year](./8_year.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [红美铃](./红美铃.md)- [博丽灵梦](./博丽灵梦.md)- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)- [射命丸文](./射命丸文.md)- [犬走椛](./犬走椛.md)- [洩矢诹访子](./洩矢诹访子.md)- [古明地觉](./古明地觉.md)- [娜兹玲](./娜兹玲.md)- [寅丸星](./寅丸星.md)- [雾雨魔理沙](./雾雨魔理沙.md)- [姬海棠果](./姬海棠果.md)
+- [8 year](./8_year.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [红美铃](./红美铃.md)
+- [博丽灵梦](./博丽灵梦.md)
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
+- [射命丸文](./射命丸文.md)
+- [犬走椛](./犬走椛.md)
+- [洩矢诹访子](./洩矢诹访子.md)
+- [古明地觉](./古明地觉.md)
+- [娜兹玲](./娜兹玲.md)
+- [寅丸星](./寅丸星.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
+- [姬海棠果](./姬海棠果.md)
 
   
-[Pixiv artwork ID: 50141025 (original size)](https://www.pixiv.net/artworks/50141025)
-  
-
-
-
-
+[Pixiv artwork ID: 50141025 (original size)](https://www.pixiv.net/artworks/50141025)  
 
 ---
 

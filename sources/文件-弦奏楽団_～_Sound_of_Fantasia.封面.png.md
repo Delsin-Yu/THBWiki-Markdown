@@ -1,6 +1,6 @@
 # 文件:弦奏楽団_～_Sound_of_Fantasia.封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f0\ns6%3A%E5%BC%A6%E5%A5%8F%E6%A5%BD%E5%9B%A3_%EF%BD%9E_Sound_of_Fantasia%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f0\ns6%3A%E5%BC%A6%E5%A5%8F%E6%A5%BD%E5%9B%A3_%EF%BD%9E_Sound_of_Fantasia%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 XG幻想樂団 | 专辑封面 | 封面图片
 
@@ -13,12 +13,7 @@ XG幻想樂団 | 专辑封面 | 封面图片
 - [弦奏楽団 ～ Sound of Fantasia.](./弦奏楽団_～_Sound_of_Fantasia..md)
 
   
-源地址：[direct image link (converted from bmp)](https://xggensougakudan.at-ninja.jp/images/SoF.bmp), [source page](https://xggensougakudan.at-ninja.jp/dojin.html)
-  
-
-
-
-
+源地址：[direct image link (converted from bmp)](https://xggensougakudan.at-ninja.jp/images/SoF.bmp), [source page](https://xggensougakudan.at-ninja.jp/dojin.html)  
 
 ---
 

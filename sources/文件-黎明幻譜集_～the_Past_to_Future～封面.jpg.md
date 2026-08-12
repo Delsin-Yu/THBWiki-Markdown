@@ -1,6 +1,6 @@
 # 文件:黎明幻譜集_～the_Past_to_Future～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fb\ns6%3A%E9%BB%8E%E6%98%8E%E5%B9%BB%E8%AD%9C%E9%9B%86_%EF%BD%9Ethe_Past_to_Future%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fb\ns6%3A%E9%BB%8E%E6%98%8E%E5%B9%BB%E8%AD%9C%E9%9B%86_%EF%BD%9Ethe_Past_to_Future%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 神像彫刻家
 
@@ -11,9 +11,6 @@
   
 
 - [黎明幻譜集 ～the Past to Future～](./黎明幻譜集_～the_Past_to_Future～.md)
-
-
-
 
 
 ---

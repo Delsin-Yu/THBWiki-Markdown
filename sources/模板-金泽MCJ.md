@@ -1,16 +1,12 @@
 # 模板:金泽MCJ
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\3\38\ns10%3A%E9%87%91%E6%B3%BDMCJ.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\3\38\ns10%3A%E9%87%91%E6%B3%BDMCJ.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

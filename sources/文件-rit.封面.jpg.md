@@ -1,6 +1,6 @@
 # 文件:rit.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\28\ns6%3Arit%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\28\ns6%3Arit%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 万里の少女 | 同人志封面 | 封面图片
 
@@ -10,16 +10,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [rit.](./rit..md)  
-该封面包含的角色：- [小野塚小町](./小野塚小町.md)- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)
+- [rit.](./rit..md)该封面包含的角色：
+- [小野塚小町](./小野塚小町.md)
+- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)
 
   
-[suruga-ya: ZHORE144908](https://www.suruga-ya.jp/product/detail/ZHORE144908)
-  
-
-
-
-
+[suruga-ya: ZHORE144908](https://www.suruga-ya.jp/product/detail/ZHORE144908)  
 
 ---
 

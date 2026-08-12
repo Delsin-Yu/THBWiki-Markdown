@@ -1,12 +1,8 @@
 # 文件:Carbonic_Acidbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ac\ns6%3ACarbonic_Acidbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ac\ns6%3ACarbonic_Acidbanner%2Ejpg.html -->
 
 Carbonic_Acid | 社团LOGO
-
-
-
-
 
 
 ---

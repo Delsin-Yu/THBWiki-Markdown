@@ -1,12 +1,8 @@
 # 文件:虚空旅行团banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d8\ns6%3A%E8%99%9A%E7%A9%BA%E6%97%85%E8%A1%8C%E5%9B%A2banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d8\ns6%3A%E8%99%9A%E7%A9%BA%E6%97%85%E8%A1%8C%E5%9B%A2banner%2Ejpg.html -->
 
 社团LOGO | 虚空旅行团
-
-
-
-
 
 
 ---

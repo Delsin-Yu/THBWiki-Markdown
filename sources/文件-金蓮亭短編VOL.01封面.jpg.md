@@ -1,6 +1,6 @@
 # 文件:金蓮亭短編VOL.01封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\23\ns6%3A%E9%87%91%E8%93%AE%E4%BA%AD%E7%9F%AD%E7%B7%A8VOL%2E01%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\23\ns6%3A%E9%87%91%E8%93%AE%E4%BA%AD%E7%9F%AD%E7%B7%A8VOL%2E01%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 金蓮亭
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [金蓮亭短編VOL.01](./金蓮亭短編VOL.01.md)  
-该封面包含的角色：- [稗田阿求](./稗田阿求.md)
-
-
-
+- [金蓮亭短編VOL.01](./金蓮亭短編VOL.01.md)该封面包含的角色：
+- [稗田阿求](./稗田阿求.md)
 
 
 ---

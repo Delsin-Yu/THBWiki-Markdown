@@ -1,16 +1,12 @@
 # 文件:fumo13.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4b\ns6%3Afumo13%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4b\ns6%3Afumo13%2Ejpg.html -->
 
 ふもふも
 
   
 美铃可爱捏
   
-
-
-
-
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:Touhou_Symphony_No.2_(koumakyou)_Op.2封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2e\ns6%3ATouhou_Symphony_No%2E2_%28koumakyou%29_Op%2E2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2e\ns6%3ATouhou_Symphony_No%2E2_%28koumakyou%29_Op%2E2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Soundcard_Symphony_Orchestra | 专辑封面 | 封面图片
 
@@ -8,10 +8,7 @@ Soundcard_Symphony_Orchestra | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Touhou Symphony No.2 (koumakyou) Op.2](./Touhou_Symphony_No.2_(koumakyou)_Op.2.md)
-
-
-
+- [Touhou Symphony No.2 (koumakyou) Op.2](./Touhou_Symphony_No.2_(koumakyou%29_Op.2.md)
 
 
 ---

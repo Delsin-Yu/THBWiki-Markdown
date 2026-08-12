@@ -1,18 +1,13 @@
 # 文件:UNKNOWN_BEATSlogo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\36\ns6%3AUNKNOWN_BEATSlogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\36\ns6%3AUNKNOWN_BEATSlogo%2Ejpg.html -->
 
 UNKNOWN_BEATS | 社团LOGO
 
 
 ## 摘要
   
-源地址：[direct image link (original size)](https://booth.pximg.net/users/13715982/icon_image/19a394af-2fb6-431e-8d51-3c9e5e678a9d.jpeg), [source page (circle Booth logo)](https://unknownbeats.booth.pm/)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://booth.pximg.net/users/13715982/icon_image/19a394af-2fb6-431e-8d51-3c9e5e678a9d.jpeg), [source page (circle Booth logo)](https://unknownbeats.booth.pm/)  
 
 ---
 

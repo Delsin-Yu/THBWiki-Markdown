@@ -1,16 +1,11 @@
 # 文件:18sbunnybanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2c\ns6%3A18sbunnybanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2c\ns6%3A18sbunnybanner%2Egif.html -->
 
 18sbunny | 社团LOGO
 
   
-源地址：[[1]](http://18sbunny.yukaty.com/banner.gif)
-  
-
-
-
-
+源地址：[\[1\]](http://18sbunny.yukaty.com/banner.gif)  
 
 ---
 

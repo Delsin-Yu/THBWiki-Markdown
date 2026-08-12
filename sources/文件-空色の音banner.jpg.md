@@ -1,18 +1,13 @@
 # 文件:空色の音banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dd\ns6%3A%E7%A9%BA%E8%89%B2%E3%81%AE%E9%9F%B3banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dd\ns6%3A%E7%A9%BA%E8%89%B2%E3%81%AE%E9%9F%B3banner%2Ejpg.html -->
 
 社团LOGO | 空色の音
 
 
 ## 摘要
   
-源地址：[direct image link](http://sky.karou.jp/banner/banner.jpg), [source page](http://sky.karou.jp/link.html)
-  
-
-
-
-
+源地址：[direct image link](http://sky.karou.jp/banner/banner.jpg), [source page](http://sky.karou.jp/link.html)  
 
 ---
 

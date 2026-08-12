@@ -1,6 +1,6 @@
 # 文件:Missing,Loving...and_Suffering_EP封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f7\ns6%3AMissing%2CLoving%2E%2E%2Eand_Suffering_EP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f7\ns6%3AMissing%2CLoving%2E%2E%2Eand_Suffering_EP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Foreground_Eclipse | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Foreground_Eclipse | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Missing,Loving...and Suffering EP](./Missing,Loving...and_Suffering_EP.md)  
-该封面包含的角色：- [古明地恋](./古明地恋.md)
-
-
-
+- [Missing,Loving...and Suffering EP](./Missing,Loving...and_Suffering_EP.md)该封面包含的角色：
+- [古明地恋](./古明地恋.md)
 
 
 ---

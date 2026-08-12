@@ -1,16 +1,11 @@
 # 文件:Stas_Gavrikbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\09\ns6%3AStas_Gavrikbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\09\ns6%3AStas_Gavrikbanner%2Epng.html -->
 
 Stas_Gavrik | 社团LOGO
 
   
-源地址：[[1]](https://f4.bcbits.com/img/0013575048_10.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://f4.bcbits.com/img/0013575048_10.jpg)  
 
 ---
 

@@ -1,18 +1,13 @@
 # 文件:Heterodyne.logo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3d\ns6%3AHeterodyne%2Elogo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3d\ns6%3AHeterodyne%2Elogo%2Epng.html -->
 
 Heterodyne. | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[direct image link](http://hetero.lagoco.com/assets/img/logo.png), [source page](http://hetero.lagoco.com/)
-  
-
-
-
-
+源地址：[direct image link](http://hetero.lagoco.com/assets/img/logo.png), [source page](http://hetero.lagoco.com/)  
 
 ---
 

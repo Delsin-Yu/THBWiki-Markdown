@@ -1,6 +1,6 @@
 # 文件:NOISIER_THAN_THAT封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e1\ns6%3ANOISIER_THAN_THAT%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e1\ns6%3ANOISIER_THAN_THAT%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 街角麻婆豆
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [NOISIER THAN THAT](./NOISIER_THAN_THAT.md)  
-该封面包含的角色：- [梅露兰·普莉兹姆利巴](./梅露兰·普莉兹姆利巴.md)
-
-
-
+- [NOISIER THAN THAT](./NOISIER_THAN_THAT.md)该封面包含的角色：
+- [梅露兰·普莉兹姆利巴](./梅露兰·普莉兹姆利巴.md)
 
 
 ---

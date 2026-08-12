@@ -1,6 +1,6 @@
 # 文件:Prismatic_Feathers封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\48\ns6%3APrismatic_Feathers%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\48\ns6%3APrismatic_Feathers%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 えふぇめらる | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Prismatic Feathers](./Prismatic_Feathers.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [Prismatic Feathers](./Prismatic_Feathers.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
   
-源地址：[Booth](https://s2.booth.pm/a3b57028-0931-4086-8c36-0f3607cd95ae/i/5391743/dabe6292-7e90-449a-b89f-c4654cd41a5b.png)
-  
-
-
-
-
+源地址：[Booth](https://s2.booth.pm/a3b57028-0931-4086-8c36-0f3607cd95ae/i/5391743/dabe6292-7e90-449a-b89f-c4654cd41a5b.png)  
 
 ---
 

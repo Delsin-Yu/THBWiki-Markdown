@@ -1,12 +1,8 @@
 # 文件:Alstroemeria_Records_banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4b\ns6%3AAlstroemeria_Records_banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4b\ns6%3AAlstroemeria_Records_banner%2Epng.html -->
 
 Alstroemeria_Records | 社团LOGO
-
-
-
-
 
 
 ---

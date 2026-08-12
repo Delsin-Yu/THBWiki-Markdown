@@ -1,6 +1,6 @@
 # 文件:I_Wanna_be_the_Shrine_Maiden_2封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c2\ns6%3AI_Wanna_be_the_Shrine_Maiden_2%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c2\ns6%3AI_Wanna_be_the_Shrine_Maiden_2%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 2D_Emotion | 封面图片 | 软件封面
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [I Wanna be the Shrine Maiden 2](./I_Wanna_be_the_Shrine_Maiden_2.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [I Wanna be the Shrine Maiden 2](./I_Wanna_be_the_Shrine_Maiden_2.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

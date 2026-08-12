@@ -1,6 +1,6 @@
 # 文件:ドリルフィールド_III封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\17\ns6%3A%E3%83%89%E3%83%AA%E3%83%AB%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89_III%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\17\ns6%3A%E3%83%89%E3%83%AA%E3%83%AB%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89_III%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Bococho-farm | 同人志封面 | 封面图片
 
@@ -8,11 +8,10 @@ Bococho-farm | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [ドリルフィールド III](./ドリルフィールド_III.md)  
-该封面包含的角色：- [古明地觉](./古明地觉.md)- [灵乌路空](./灵乌路空.md)- [圣白莲](./圣白莲.md)
-
-
-
+- [ドリルフィールド III](./ドリルフィールド_III.md)该封面包含的角色：
+- [古明地觉](./古明地觉.md)
+- [灵乌路空](./灵乌路空.md)
+- [圣白莲](./圣白莲.md)
 
 
 ---

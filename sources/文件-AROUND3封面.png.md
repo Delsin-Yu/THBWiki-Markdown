@@ -1,6 +1,6 @@
 # 文件:AROUND3封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\20\ns6%3AAROUND3%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\20\ns6%3AAROUND3%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Mentaiko_Lab | 同人志封面 | 封面图片
 
@@ -8,11 +8,8 @@ Mentaiko_Lab | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [AROUND3](./AROUND3.md)  
-该封面包含的角色：- [河城荷取](./河城荷取.md)
-
-
-
+- [AROUND3](./AROUND3.md)该封面包含的角色：
+- [河城荷取](./河城荷取.md)
 
 
 ---

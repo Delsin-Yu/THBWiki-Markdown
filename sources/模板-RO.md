@@ -1,16 +1,12 @@
 # 模板:RO
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\f\fb\ns10%3ARO.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\f\fb\ns10%3ARO.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

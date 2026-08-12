@@ -1,12 +1,8 @@
 # 文件:少女フラクタルbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\13\ns6%3A%E5%B0%91%E5%A5%B3%E3%83%95%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%ABbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\13\ns6%3A%E5%B0%91%E5%A5%B3%E3%83%95%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%ABbanner%2Ejpg.html -->
 
 少女フラクタル | 社团LOGO
-
-
-
-
 
 
 ---

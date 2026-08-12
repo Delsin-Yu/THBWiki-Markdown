@@ -1,6 +1,6 @@
 # 文件:Break_on_Through_to_the_Otherside封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f7\ns6%3ABreak_on_Through_to_the_Otherside%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f7\ns6%3ABreak_on_Through_to_the_Otherside%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Red_Bullet_Sequence | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Red_Bullet_Sequence | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Break on Through to the Otherside](./Break_on_Through_to_the_Otherside.md)  
-该封面包含的角色：- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
+- [Break on Through to the Otherside](./Break_on_Through_to_the_Otherside.md)该封面包含的角色：
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
 
   
-源地址：[[1]](https://rbsbottto.tumblr.com/)
-  
-
-
-
-
+源地址：[\[1\]](https://rbsbottto.tumblr.com/)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:神さびた古戦場_～_Suwa_Foughten_Field（同人专辑）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\50\ns6%3A%E7%A5%9E%E3%81%95%E3%81%B3%E3%81%9F%E5%8F%A4%E6%88%A6%E5%A0%B4_%EF%BD%9E_Suwa_Foughten_Field%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\50\ns6%3A%E7%A5%9E%E3%81%95%E3%81%B3%E3%81%9F%E5%8F%A4%E6%88%A6%E5%A0%B4_%EF%BD%9E_Suwa_Foughten_Field%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 UI-70 | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ UI-70 | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [神さびた古戦場 ～ Suwa Foughten Field（同人专辑）](./神さびた古戦場_～_Suwa_Foughten_Field（同人专辑）.md)  
-该封面包含的角色：- [八坂神奈子](./八坂神奈子.md)
-
-
-
+- [神さびた古戦場 ～ Suwa Foughten Field（同人专辑）](./神さびた古戦場_～_Suwa_Foughten_Field（同人专辑）.md)该封面包含的角色：
+- [八坂神奈子](./八坂神奈子.md)
 
 
 ---

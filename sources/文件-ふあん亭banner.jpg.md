@@ -1,12 +1,8 @@
 # 文件:ふあん亭banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fc\ns6%3A%E3%81%B5%E3%81%82%E3%82%93%E4%BA%ADbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fc\ns6%3A%E3%81%B5%E3%81%82%E3%82%93%E4%BA%ADbanner%2Ejpg.html -->
 
 ふあん亭 | 社团LOGO
-
-
-
-
 
 
 ---

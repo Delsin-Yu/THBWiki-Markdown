@@ -1,18 +1,16 @@
 # 灵战_～_Perdition_crisis
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\6b\ns0%3A%E7%81%B5%E6%88%98_%EF%BD%9E_Perdition_crisis.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\6b\ns0%3A%E7%81%B5%E6%88%98_%EF%BD%9E_Perdition_crisis.html -->
 
 由 ZUN 创作的官方曲目，原名 霊戦　～ Perdition crisis
 
 本页是关于东方Project  
- **原作音乐** 的词条
-
+**原作音乐**的词条
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 出现作品](#出现作品)
 - [3 音乐文件](#音乐文件)
-
   - [3.1 东方幻想乡](#东方幻想乡)
   - [3.2 东方怪绮谈](#东方怪绮谈)
   - [3.3 东方幻想的音乐](#东方幻想的音乐)
@@ -20,25 +18,17 @@
   - [3.5 幺乐团的历史 vol.1](#幺乐团的历史_vol.1)
 
 
-
 - [4 说明文本](#说明文本)
-
   - [4.1 东方幻想乡](#东方幻想乡_2)
   - [4.2 东方怪绮谈](#东方怪绮谈_2)
   - [4.3 东方幻想的音乐](#东方幻想的音乐_2)
   - [4.4 东方幻想怀古曲](#东方幻想怀古曲_2)
 
 
-
 - [5 其他资料](#其他资料)
-
   - [5.1 乐理资讯](#乐理资讯)
   - [5.2 分析考据](#分析考据)
   - [5.3 二次同人数据](#二次同人数据)
-
-
-
-
 
 
 
@@ -48,7 +38,6 @@
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">霊戦　～ Perdition crisis</td></tr><tr><td><b>译名</b></td><td>灵战 ～ Perdition crisis</td></tr><tr><td><b>英文译名</b></td><td>Spirit Battle ~ Perdition crisis</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 灵战 ～ Perdition crisis（曲目） - 由 ZUN 创作的官方曲目，原名 霊戦　～ Perdition crisis
-
 ## 出现作品
 
 <table>
@@ -60,7 +49,6 @@
 </tbody></table>
 
 
-
 ## 音乐文件
 
 ### 东方幻想乡
@@ -68,17 +56,13 @@
 YM2203(OPN)，FM26K音源版。
   
 
-
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th04_08_26.ogg.md" title="文件:th04 08 26.ogg">th04_08_26.ogg</a><br><audio src="https://upload.thwiki.cc/1/13/th04_08_26.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>ST02B.M26</td></tr><tr><td><b>音轨时长</b></td><td>1:37.939</td></tr></tbody></table>
-
 
   
 YM2608(OPNA)，FM86音源版。
   
 
-
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th04_08_86.ogg.md" title="文件:th04 08 86.ogg">th04_08_86.ogg</a><br><audio src="https://upload.thwiki.cc/a/af/th04_08_86.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>ST02B.M86</td></tr><tr><td><b>音轨时长</b></td><td>1:37.939</td></tr></tbody></table>
-
 
 
 ### 东方怪绮谈
@@ -86,17 +70,13 @@ YM2608(OPNA)，FM86音源版。
 YM2203(OPN)，FM26K音源版。
   
 
-
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th05_G_08_26.ogg.md" title="文件:th05 G 08 26.ogg">th05_G_08_26.ogg</a><br><audio src="https://upload.thwiki.cc/a/a8/th05_G_08_26.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>G_ST02B.M</td></tr><tr><td><b>音轨时长</b></td><td>1:37.939</td></tr></tbody></table>
-
 
   
 YM2608(OPNA)，FM86音源版。
   
 
-
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th05_G_08_86.ogg.md" title="文件:th05 G 08 86.ogg">th05_G_08_86.ogg</a><br><audio src="https://upload.thwiki.cc/3/3b/th05_G_08_86.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>G_ST02B.M2</td></tr><tr><td><b>音轨时长</b></td><td>1:37.939</td></tr></tbody></table>
-
 
 
 ### 东方幻想的音乐
@@ -104,11 +84,9 @@ YM2608(OPNA)，FM86音源版。
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td><a href="./文件-th4_08.mid.md" title="文件:th4 08.mid">th4_08.mid</a></td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th4_08.mp3.md" title="文件:th4 08.mp3">th4_08.mp3</a><br><audio src="https://upload.thwiki.cc/7/79/th4_08.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>th4_08.mid</td></tr><tr><td><b>音轨时长</b></td><td>3:46</td></tr></tbody></table>
 
 
-
 ### 东方幻想怀古曲
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-thgs04_08.ogg.md" title="文件:thgs04 08.ogg">thgs04_08.ogg</a><br><audio src="https://upload.thwiki.cc/b/b4/thgs04_08.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>th4_08.M</td></tr><tr><td><b>音轨时长</b></td><td>1:37.939</td></tr></tbody></table>
-
 
 
 ### 幺乐团的历史 vol.1
@@ -116,11 +94,11 @@ YM2608(OPNA)，FM86音源版。
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-ha01a_08.mp3.md" title="文件:ha01a 08.mp3">ha01a_08.mp3</a><br><audio src="https://upload.thwiki.cc/9/95/ha01a_08.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track08.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>3:50</td></tr></tbody></table>
 
 
-
 ## 说明文本
 
 ### 东方幻想乡
-- Music Room (未找到链接)
+
+- [Music Room](./东方幻想乡-Music.md#3面BOSS艾丽角色曲)
 
 　　　　　　艾丽的主题曲  
 　有一点点，中意呢。  
@@ -133,9 +111,9 @@ BOSS感觉的曲子呢（？）灵战　～ Perdition crisis  (26)
 ＺＵＮ（太田）  
 用于东方幻想乡的曲子。  
 大概３面boss
-
 ### 东方怪绮谈
-- Music Room (未找到链接)
+
+- [Music Room](./东方怪绮谈-Music.md#3面BOSS艾丽角色曲)
 
 艾丽的主题曲灵战　～ Perdition crisis  (26)  
 ＺＵＮ（太田）  
@@ -144,9 +122,9 @@ BOSS感觉的曲子呢（？）灵战　～ Perdition crisis  (26)
 ＺＵＮ（太田）  
 用于东方幻想乡的曲子。  
 大概3面boss
-
 ### 东方幻想的音乐
-- th4_08.txt (未找到链接)
+
+- [th4_08.txt](./东方幻想的音乐-过去的曲子-东方幻想乡.md#灵战_～_Perdition_crisis)
 
 +----------------------------------------------------------------------------+  
 |【 　 曲名　　】|【 灵战　～ Perdition Crisis 】ver 1.01  
@@ -161,7 +139,7 @@ BOSS感觉的曲子呢（？）灵战　～ Perdition crisis  (26)
 |                | 这种时候，请不要更动压缩包内部文件。  
 |【　 著作权 　】| ＺＵＮ (太田顺也）  
 |【演奏上的注意】| 用sc-88Pro 的人在演奏时请不要按55Map,88Map。  
-|                                                &#126;&#126;&#126;&#126;~   
+|                                                ~~~~~   
 +-----------------------------------------------------------------------------+  
   感谢下载本文件。  
   
@@ -178,9 +156,9 @@ BOSS感觉的曲子呢（？）灵战　～ Perdition crisis  (26)
   
   HP    [http://www16.big.or.jp/~zun/](http://www16.big.or.jp/~zun/)  
   Mail  zun@big.or.jp
-
 ### 东方幻想怀古曲
-- th4_08pmd.txt (未找到链接)
+
+- [th4_08pmd.txt](./东方幻想怀古曲-东方幻想乡.md#灵战_～_Perdition_crisis)
 
 +----------------------------------------------------------------------------+  
 |【 　 曲名　　】| 【 灵战　～ Perdition Crisis 】（原版）  
@@ -219,27 +197,28 @@ BOSS感觉的曲子呢（？）灵战　～ Perdition crisis  (26)
 曲子的感想、请求等，这边请  
 　东方幻想空间　「博丽神社」 [http://www16.big.or.jp/~zun/](http://www16.big.or.jp/~zun/)  
 　e-Mail                     zun@big.or.jp
-
 ## 其他资料
 
 ### 乐理资讯
 
 ### 分析考据
   
- **霊戦　～ Perdition crisis** 
-  
+**霊戦 ～ Perdition crisis**  
 灵战 ～ Perdition crisis
   
 
-- 灵战
+- 灵战 
   - 与灵梦的战斗？
 
-- Perdition，毁灭
+
+- Perdition，毁灭 
   - 艾丽是以死神为形象创作的
 
-- Perdition crisis，毁灭危机
+
+- Perdition crisis，毁灭危机 
   - 与冈崎梦美的“strawberry crisis”名字格式相同？
   - 冈崎梦美也有过（没成功）毁灭世界的举动
+
 
 
 
@@ -255,17 +234,6 @@ BOSS感觉的曲子呢（？）灵战　～ Perdition crisis  (26)
 <tr><td>Arrange</td><td>94</td></tr>
 <tr><td>Vocal率</td><td>13.76%</td></tr>
 </tbody></table>
-
-
-
-
-  
-  
-
-  
-
-
-
 
 
 ---

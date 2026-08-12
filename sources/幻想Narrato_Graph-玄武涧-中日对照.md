@@ -1,11 +1,10 @@
 # 幻想Narrato_Graph/玄武涧/中日对照
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\8\86\ns0%3A%E5%B9%BB%E6%83%B3Narrato_Graph%2F%E7%8E%84%E6%AD%A6%E6%B6%A7%2F%E4%B8%AD%E6%97%A5%E5%AF%B9%E7%85%A7.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\8\86\ns0%3A%E5%B9%BB%E6%83%B3Narrato_Graph%2F%E7%8E%84%E6%AD%A6%E6%B6%A7%2F%E4%B8%AD%E6%97%A5%E5%AF%B9%E7%85%A7.html -->
 
 使用了翻译表的页面 | 幻想Narrato_Graph | 待完成页面
 
 <center>
-
 <table>
 <tbody><tr>
 <td class="mbox-image"><div style="width: 52px;">
@@ -14,43 +13,17 @@
 </tr>
 </tbody></table>
 
-
 </center>
 - 本章节于书中页数：第255页
-
-  
-  
-
-  
-  
-  
-
-  
 
 
 <table><tbody><tr class="tt-content-header" id="=-1" data-pos="&#91;&quot;=&quot;,1&#93;"><td class="tt-jah" lang="ja"><div class="poem"><big><big>玄武の沢</big></big></div></td><td class="tt-zhh" lang="zh"><div class="poem"><big><big>玄武涧</big></big></div></td></tr><tr class="tt-content" id="=-2" data-pos="&#91;&quot;=&quot;,2&#93;"><td class="tt-ja" lang="ja"><div class="poem"><small>２ 妖怪の山エリア</small></div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-content" id="=-3" data-pos="&#91;&quot;=&quot;,3&#93;"><td class="tt-ja" lang="ja"><div class="poem">指定タグ：<big>《河童》</big></div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr></tbody></table>
 
 
-  
-  
-
-  
-
-
 <table><tbody><tr class="tt-content" id="=-5" data-pos="&#91;&quot;=&quot;,5&#93;"><td class="tt-ja" lang="ja"><div class="poem"><big><b>「崖は鉄壁、河は命。ここは最高のアジトだね。誰にも渡すもんか。」（河城にとり）</b></big></div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-content" id="=-6" data-pos="&#91;&quot;=&quot;,6&#93;"><td class="tt-ja" lang="ja"><div class="poem">　妖怪の山の麓にある深さ数十メートル以上ある絶壁の渓谷です。崖も底も殆どが六角柱の岩で構成され、その見た目が亀の甲羅に見えることからこの名前が付いています。その規則正しい柱状節理は、妖怪の山が火山であることを物語っています。<br>　玄武の沢には多くの河童が棲み着いています。河童は独自のテクノロジーを築いており、幻想郷全体の技術レベルを引き上げています。幸いなことに、河童は権力への欲は薄く、あくまでも好奇心で研究をしているだけで、幻想郷の表舞台で活躍することは少ないです。河童のアジト以外にも、玄武の沢は渓流釣りやラフティング等、幻想郷の屈指のアクティビティスポットでもあります。但し、人間にとっては危険な場所である事は変わりありません。</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr></tbody></table>
 
 
-
 <table><tbody><tr class="tt-content-header" id="=-8" data-pos="&#91;&quot;=&quot;,8&#93;"><td class="tt-jah" lang="ja"><div class="poem">アドバイス</div></td><td class="tt-zhh" lang="zh"><div class="poem">Advice</div></td></tr><tr class="tt-content" id="=-9" data-pos="&#91;&quot;=&quot;,9&#93;"><td class="tt-ja" lang="ja"><div class="poem">行為判定の目標値が３の探索イベントが存在せす、【手がかり】が配置された際などは若干苦労するスポットです。目標値4の行為判定を求められる「河童たちと話す」も、なんのメリットも得られない探索イベントなので、旨味のないスポットと言えるでしょう。《河童》のタグを持つ河城にとりがいれば、彼女に探索を任せてしまうのがオススメです。</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr></tbody></table>
-
-
-  
-  
-
-  
-
-
-
 
 
 ---

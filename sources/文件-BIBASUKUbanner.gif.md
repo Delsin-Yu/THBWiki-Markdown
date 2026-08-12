@@ -1,12 +1,8 @@
 # 文件:BIBASUKUbanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\58\ns6%3ABIBASUKUbanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\58\ns6%3ABIBASUKUbanner%2Egif.html -->
 
 BIBASUKU | 社团LOGO
-
-
-
-
 
 
 ---

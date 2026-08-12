@@ -1,37 +1,27 @@
 # Sky_Ruin
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\c\c5\ns0%3ASky_Ruin.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\c\c5\ns0%3ASky_Ruin.html -->
 
 由 ZUN 创作的官方曲目，原名 スカイルーイン
 
 本页是关于东方Project  
- **原作音乐** 的词条
-
+**原作音乐**的词条
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 出现作品](#出现作品)
 - [3 音乐文件](#音乐文件)
-
   - [3.1 东方星莲船](#东方星莲船)
 
 
-
 - [4 说明文本](#说明文本)
-
   - [4.1 东方星莲船](#东方星莲船_2)
 
 
-
 - [5 其他资料](#其他资料)
-
   - [5.1 乐理资讯](#乐理资讯)
   - [5.2 分析考据](#分析考据)
   - [5.3 二次同人数据](#二次同人数据)
-
-
-
-
 
 
 
@@ -41,14 +31,12 @@
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">スカイルーイン</td></tr><tr><td><b>译名</b></td><td>Sky Ruin</td></tr><tr><td><b>其他译名</b></td><td>天空遗迹</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 Sky Ruin（曲目） - 由 ZUN 创作的官方曲目，原名 スカイルーイン
-
 ## 出现作品
 
 <table>
 <tbody><tr><td>2009年3月8日（第六回 博丽神社例大祭）</td><td><b><a href="./东方星莲船.md" title="东方星莲船">东方星莲船</a>体验版</b></td><td>3面主题曲</td><td style="padding-left:5px;">スカイルーイン（Sky Ruin）</td><td style="padding-left:10px;">作曲：ZUN</td></tr>
 <tr><td>2009年8月15日（Comic Market 76）</td><td><b><a href="./东方星莲船.md" title="东方星莲船">东方星莲船</a></b></td><td>3面主题曲</td><td style="padding-left:5px;">スカイルーイン（Sky Ruin）</td><td style="padding-left:10px;">作曲：ZUN</td></tr>
 </tbody></table>
-
 
 
 ## 音乐文件
@@ -63,11 +51,11 @@ Sky Ruin（曲目） - 由 ZUN 创作的官方曲目，原名 スカイルーイ
 </td></tr></tbody></table>
 
 
-
 ## 说明文本
 
 ### 东方星莲船
-- Music Room (未找到链接)
+
+- [Music Room](./东方星莲船-Music.md#3面主题曲)
 
 　３面的主题曲。  
   
@@ -75,26 +63,30 @@ Sky Ruin（曲目） - 由 ZUN 创作的官方曲目，原名 スカイルーイ
 　说到漂浮在空中的，当然就是天空之城拉普达吧——本来是它  
    但人类已经做出来了[^cite_note-1] 。  
 　那么说到废墟……当然就是拉普
-
 ## 其他资料
 
 ### 乐理资讯
 
 ### 分析考据
   
- **スカイルーイン**  Sky Ruin
+**スカイルーイン** Sky Ruin
   
 
-- sky
-  - 天空。
+- sky 
+  - 天空。 
     - 《东方星莲船》三面的场景是在天空。宝船[圣辇船](./圣辇船.md)飞翔于空中。
 
 
-- ruin
-  - 废墟。
+
+
+- ruin 
+  - 废墟。 
     - 宝船已经变成了废墟。
-    - 《东方星莲船》Music Room和《全人类的天乐录 (未找到链接)》中提到了空间站。
+    - 《东方星莲船》Music Room和《[全人类的天乐录](./全人类的天乐录-光盘.md#ZUN)》中提到了空间站。 
       - 可能与《[鸟船遗迹](./鸟船遗迹.md)》中的已经被废弃的[卫星鸟船](./卫星鸟船.md)有关。
+
+
+
 
 
 
@@ -113,19 +105,7 @@ Sky Ruin（曲目） - 由 ZUN 创作的官方曲目，原名 スカイルーイ
 <tr><td>Vocal率</td><td>24.31%</td></tr>
 </tbody></table>
 
-
-
-
-  
-  
-
-  
-
-[^cite_note-1]: 指空间站，在全人类的天乐录 (未找到链接)中提到过
-
-
-
-
+[^cite_note-1]: 指空间站，在[全人类的天乐录](./全人类的天乐录-光盘.md#ZUN)中提到过
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:Instrumental_Collection_Vol._3封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\32\ns6%3AInstrumental_Collection_Vol%2E_3%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\32\ns6%3AInstrumental_Collection_Vol%2E_3%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Frozen_Starfall | 专辑封面 | 封面图片
 
@@ -8,16 +8,12 @@ Frozen_Starfall | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Instrumental Collection Vol. 3](./Instrumental_Collection_Vol._3.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [西行寺幽幽子](./西行寺幽幽子.md)
+- [Instrumental Collection Vol. 3](./Instrumental_Collection_Vol._3.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [西行寺幽幽子](./西行寺幽幽子.md)
 
   
-源地址：[[1]](https://f4.bcbits.com/img/a3268252037_10.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://f4.bcbits.com/img/a3268252037_10.jpg)  
 
 ---
 

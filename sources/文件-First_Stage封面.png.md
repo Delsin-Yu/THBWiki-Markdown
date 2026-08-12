@@ -1,6 +1,6 @@
 # 文件:First_Stage封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5b\ns6%3AFirst_Stage%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5b\ns6%3AFirst_Stage%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 スタジオルド | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@
   
 
 - [First Stage](./First_Stage.md)
-
-
-
 
 
 ---

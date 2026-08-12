@@ -1,12 +1,8 @@
 # 文件:魔法幻梦茶会LOGO.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\74\ns6%3A%E9%AD%94%E6%B3%95%E5%B9%BB%E6%A2%A6%E8%8C%B6%E4%BC%9ALOGO%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\74\ns6%3A%E9%AD%94%E6%B3%95%E5%B9%BB%E6%A2%A6%E8%8C%B6%E4%BC%9ALOGO%2Epng.html -->
 
 社团LOGO | 魔法幻梦茶会
-
-
-
-
 
 
 ---

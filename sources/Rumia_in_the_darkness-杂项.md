@@ -1,6 +1,6 @@
 # Rumia_in_the_darkness/杂项
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\d\d2\ns0%3ARumia_in_the_darkness%2F%E6%9D%82%E9%A1%B9.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\d\d2\ns0%3ARumia_in_the_darkness%2F%E6%9D%82%E9%A1%B9.html -->
 
 Dark_Sky_Empire
 
@@ -9,7 +9,6 @@ Dark_Sky_Empire
   
 本游戏使用Steam正版RPG引擎《RPG MAKER 2000 Value+》（1.62版）开发，没有用过任何第三方插件。
   
-
 
 ## 素材来源
   
@@ -24,10 +23,6 @@ Dark_Sky_Empire
   
 其它的东方无关NPC的头像和行走图都使用了RM默认素材。
   
-
-
-
-
 
 ---
 

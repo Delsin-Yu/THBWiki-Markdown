@@ -1,6 +1,6 @@
 # 文件:太虚の城塞_-_Single封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f4\ns6%3A%E5%A4%AA%E8%99%9A%E3%81%AE%E5%9F%8E%E5%A1%9E_-_Single%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f4\ns6%3A%E5%A4%AA%E8%99%9A%E3%81%AE%E5%9F%8E%E5%A1%9E_-_Single%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 RoundLoudness | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ RoundLoudness | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [太虚の城塞 - Single](./太虚の城塞_-_Single.md)  
-该封面包含的角色：- 原创角色 (未找到链接)
+- [太虚の城塞 - Single](./太虚の城塞_-_Single.md)该封面包含的角色：
+- 原创角色 (未找到链接)
 
   
-源地址：[[1]](https://booth.pximg.net/c/620x620/eddd623d-04e5-47ba-8daf-7344664bf840/i/953129/36c5668c-a221-40d5-abbd-b8d04d4a60b0_base_resized.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://booth.pximg.net/c/620x620/eddd623d-04e5-47ba-8daf-7344664bf840/i/953129/36c5668c-a221-40d5-abbd-b8d04d4a60b0_base_resized.jpg)  
 
 ---
 

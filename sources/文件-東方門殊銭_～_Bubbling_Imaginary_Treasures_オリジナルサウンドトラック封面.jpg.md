@@ -1,6 +1,6 @@
 # 文件:東方門殊銭_～_Bubbling_Imaginary_Treasures_オリジナルサウンドトラック封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cf\ns6%3A%E6%9D%B1%E6%96%B9%E9%96%80%E6%AE%8A%E9%8A%AD_%EF%BD%9E_Bubbling_Imaginary_Treasures_%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cf\ns6%3A%E6%9D%B1%E6%96%B9%E9%96%80%E6%AE%8A%E9%8A%AD_%EF%BD%9E_Bubbling_Imaginary_Treasures_%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 complications | 专辑封面 | 封面图片
 
@@ -10,16 +10,13 @@ complications | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方門殊銭 ～ Bubbling Imaginary Treasures オリジナルサウンドトラック](./東方門殊銭_～_Bubbling_Imaginary_Treasures_オリジナルサウンドトラック.md)  
-该封面包含的角色：- [文殊院善罪](./文殊院善罪.md)- [右门金阁](./右门金阁.md)- [左门银阁](./左门银阁.md)
+- [東方門殊銭 ～ Bubbling Imaginary Treasures オリジナルサウンドトラック](./東方門殊銭_～_Bubbling_Imaginary_Treasures_オリジナルサウンドトラック.md)该封面包含的角色：
+- [文殊院善罪](./文殊院善罪.md)
+- [右门金阁](./右门金阁.md)
+- [左门银阁](./左门银阁.md)
 
   
-源地址：[direct image link (10 size)](https://f4.bcbits.com/img/a0158315324_10.jpg), [from NED's bandcamp](https://016ne.bandcamp.com/album/bubbling-imaginary-treasures)
-  
-
-
-
-
+源地址：[direct image link (10 size)](https://f4.bcbits.com/img/a0158315324_10.jpg), [from NED's bandcamp](https://016ne.bandcamp.com/album/bubbling-imaginary-treasures)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:sync／rare封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\df\ns6%3Async%EF%BC%8Frare%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\df\ns6%3Async%EF%BC%8Frare%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ゆづき亭 | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [sync／rare](./sync／rare.md)  
-该封面包含的角色：- 原创角色 (未找到链接)
+- [sync／rare](./sync／rare.md)该封面包含的角色：
+- 原创角色 (未找到链接)
 
   
-源地址：[direct image link](https://1.bp.blogspot.com/_TOsqnIYjkb4/R0ku2AIBiTI/AAAAAAAAAP0/YSgkooLB-VQ/s1600/sync_jacket.jpg), [source page](https://www.sproutburn.net/2007/11/ydkt-discography.html)
-  
-
-
-
-
+源地址：[direct image link](https://1.bp.blogspot.com/_TOsqnIYjkb4/R0ku2AIBiTI/AAAAAAAAAP0/YSgkooLB-VQ/s1600/sync_jacket.jpg), [source page](https://www.sproutburn.net/2007/11/ydkt-discography.html)  
 
 ---
 

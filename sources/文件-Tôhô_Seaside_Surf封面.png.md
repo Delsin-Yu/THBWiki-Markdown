@@ -1,6 +1,6 @@
 # 文件:Tôhô_Seaside_Surf封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\56\ns6%3AT%C3%B4h%C3%B4_Seaside_Surf%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\56\ns6%3AT%C3%B4h%C3%B4_Seaside_Surf%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Tangentg | 专辑封面 | 封面图片
 
@@ -8,16 +8,12 @@ Tangentg | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Tôhô Seaside Surf](./Tôhô_Seaside_Surf.md)  
-该封面包含的角色：- [多多良小伞](./多多良小伞.md)
+- [Tôhô Seaside Surf](./Tôhô_Seaside_Surf.md)该封面包含的角色：
+- [多多良小伞](./多多良小伞.md)
 
   
 Included with download
   
-
-
-
-
 
 ---
 

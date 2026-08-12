@@ -1,17 +1,14 @@
 # 文件:ぶっとび屋banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c4\ns6%3A%E3%81%B6%E3%81%A3%E3%81%A8%E3%81%B3%E5%B1%8Bbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c4\ns6%3A%E3%81%B6%E3%81%A3%E3%81%A8%E3%81%B3%E5%B1%8Bbanner%2Ejpg.html -->
 
 ぶっとび屋 | 社团LOGO
 
 
 ## 摘要
+
 ```
-源地址：[蜜瓜](https://melonbooks.akamaized.net/user_data/packages/resize_image.php?image=12111344_5fd2f91b20a22.jpg)
-```
-
-
-
+源地址：[蜜瓜](https://melonbooks.akamaized.net/user_data/packages/resize_image.php?image=12111344_5fd2f91b20a22.jpg)```
 
 
 ---

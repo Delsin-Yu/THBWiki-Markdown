@@ -1,6 +1,6 @@
 # 文件:Songs_of_Eastern_Goddess封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\06\ns6%3ASongs_of_Eastern_Goddess%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\06\ns6%3ASongs_of_Eastern_Goddess%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 OMOCHI_SOUND_FACTORY | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ OMOCHI_SOUND_FACTORY | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Songs of Eastern Goddess](./Songs_of_Eastern_Goddess.md)  
-该封面包含的角色：- [爱塔妮缇拉尔瓦](./爱塔妮缇拉尔瓦.md)- [摩多罗隐岐奈](./摩多罗隐岐奈.md)
-
-
-
+- [Songs of Eastern Goddess](./Songs_of_Eastern_Goddess.md)该封面包含的角色：
+- [爱塔妮缇拉尔瓦](./爱塔妮缇拉尔瓦.md)
+- [摩多罗隐岐奈](./摩多罗隐岐奈.md)
 
 
 ---

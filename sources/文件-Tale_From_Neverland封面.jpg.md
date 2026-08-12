@@ -1,6 +1,6 @@
 # 文件:Tale_From_Neverland封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b7\ns6%3ATale_From_Neverland%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b7\ns6%3ATale_From_Neverland%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Undefined_Field | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Undefined_Field | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Tale From Neverland](./Tale_From_Neverland.md)  
-该封面包含的角色：- [莉莉霍瓦特](./莉莉霍瓦特.md)
-
-
-
+- [Tale From Neverland](./Tale_From_Neverland.md)该封面包含的角色：
+- [莉莉霍瓦特](./莉莉霍瓦特.md)
 
 
 ---

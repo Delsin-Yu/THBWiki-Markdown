@@ -1,14 +1,11 @@
 # 文件:降光「Triple_Light」（大战争）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\14\ns6%3A%E9%99%8D%E5%85%89%E3%80%8CTriple_Light%E3%80%8D%EF%BC%88%E5%A4%A7%E6%88%98%E4%BA%89%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\14\ns6%3A%E9%99%8D%E5%85%89%E3%80%8CTriple_Light%E3%80%8D%EF%BC%88%E5%A4%A7%E6%88%98%E4%BA%89%EF%BC%89%2Epng.html -->
 
 妖精大战争 | 敌机符卡 | 斯塔萨菲雅 | 桑尼米尔克 | 露娜切露德
 
 
 ## 文件说明
-
-
-
 
 ---
 

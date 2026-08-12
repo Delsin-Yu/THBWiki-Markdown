@@ -1,12 +1,8 @@
 # 文件:恋符「Master_Spark」（鬼形兽）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\82\ns6%3A%E6%81%8B%E7%AC%A6%E3%80%8CMaster_Spark%E3%80%8D%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\82\ns6%3A%E6%81%8B%E7%AC%A6%E3%80%8CMaster_Spark%E3%80%8D%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%EF%BC%89%2Epng.html -->
 
 东方鬼形兽 | 自机符卡 | 雾雨魔理沙
-
-
-
-
 
 
 ---

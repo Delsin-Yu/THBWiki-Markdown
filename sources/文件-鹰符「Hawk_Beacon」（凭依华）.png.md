@@ -1,12 +1,8 @@
 # 文件:鹰符「Hawk_Beacon」（凭依华）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\08\ns6%3A%E9%B9%B0%E7%AC%A6%E3%80%8CHawk_Beacon%E3%80%8D%EF%BC%88%E5%87%AD%E4%BE%9D%E5%8D%8E%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\08\ns6%3A%E9%B9%B0%E7%AC%A6%E3%80%8CHawk_Beacon%E3%80%8D%EF%BC%88%E5%87%AD%E4%BE%9D%E5%8D%8E%EF%BC%89%2Epng.html -->
 
 东方凭依华 | 自机符卡 | 茨木华扇
-
-
-
-
 
 
 ---

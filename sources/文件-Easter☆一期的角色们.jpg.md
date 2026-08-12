@@ -1,16 +1,12 @@
 # 文件:Easter☆一期的角色们.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\05\ns6%3AEaster%E2%98%86%E4%B8%80%E6%9C%9F%E7%9A%84%E8%A7%92%E8%89%B2%E4%BB%AC%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\05\ns6%3AEaster%E2%98%86%E4%B8%80%E6%9C%9F%E7%9A%84%E8%A7%92%E8%89%B2%E4%BB%AC%2Ejpg.html -->
 
 曲奇
 
   
 Easter☆一期的角色们
   
-
-
-
-
 
 ---
 

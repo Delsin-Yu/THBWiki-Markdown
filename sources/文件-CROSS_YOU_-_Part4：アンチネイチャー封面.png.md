@@ -1,6 +1,6 @@
 # 文件:CROSS_YOU_-_Part4：アンチネイチャー封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\19\ns6%3ACROSS_YOU_-_Part4%EF%BC%9A%E3%82%A2%E3%83%B3%E3%83%81%E3%83%8D%E3%82%A4%E3%83%81%E3%83%A3%E3%83%BC%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\19\ns6%3ACROSS_YOU_-_Part4%EF%BC%9A%E3%82%A2%E3%83%B3%E3%83%81%E3%83%8D%E3%82%A4%E3%83%81%E3%83%A3%E3%83%BC%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 空騒中継点
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [CROSS YOU - Part4：アンチネイチャー](./CROSS_YOU_-_Part4：アンチネイチャー.md)  
-该封面包含的角色：- [风见幽香](./风见幽香.md)
-
-
-
+- [CROSS YOU - Part4：アンチネイチャー](./CROSS_YOU_-_Part4：アンチネイチャー.md)该封面包含的角色：
+- [风见幽香](./风见幽香.md)
 
 
 ---

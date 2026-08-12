@@ -1,14 +1,11 @@
 # 文件:TaNaBaTabanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cf\ns6%3ATaNaBaTabanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cf\ns6%3ATaNaBaTabanner%2Ejpg.html -->
 
 TaNaBaTa | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

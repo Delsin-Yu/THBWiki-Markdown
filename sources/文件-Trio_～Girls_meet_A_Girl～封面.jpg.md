@@ -1,6 +1,6 @@
 # 文件:Trio_～Girls_meet_A_Girl～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\32\ns6%3ATrio_%EF%BD%9EGirls_meet_A_Girl%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\32\ns6%3ATrio_%EF%BD%9EGirls_meet_A_Girl%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 以呂波屋 | 封面图片
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Trio ～Girls meet A Girl～](./Trio_～Girls_meet_A_Girl～.md)  
-该封面包含的角色：- [稗田阿求](./稗田阿求.md)
+- [Trio ～Girls meet A Girl～](./Trio_～Girls_meet_A_Girl～.md)该封面包含的角色：
+- [稗田阿求](./稗田阿求.md)
 
   
-源地址：[[1]](https://s.booth.pm/fb279eae-b423-4963-867e-4743460a704e/i/207843/455c655b-5ebc-4cb7-9a87-4f5818e80149.png)
-  
-
-
-
-
+源地址：[\[1\]](https://s.booth.pm/fb279eae-b423-4963-867e-4743460a704e/i/207843/455c655b-5ebc-4cb7-9a87-4f5818e80149.png)  
 
 ---
 

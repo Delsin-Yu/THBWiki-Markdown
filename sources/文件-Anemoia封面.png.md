@@ -1,6 +1,6 @@
 # 文件:Anemoia封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6e\ns6%3AAnemoia%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6e\ns6%3AAnemoia%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 かぼ屋 | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Anemoia](./Anemoia.md)  
-该封面包含的角色：- [物部布都](./物部布都.md)
-
-
-
+- [Anemoia](./Anemoia.md)该封面包含的角色：
+- [物部布都](./物部布都.md)
 
 
 ---

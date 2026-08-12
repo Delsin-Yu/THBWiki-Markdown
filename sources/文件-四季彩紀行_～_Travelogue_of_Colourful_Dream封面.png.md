@@ -1,6 +1,6 @@
 # 文件:四季彩紀行_～_Travelogue_of_Colourful_Dream封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\08\ns6%3A%E5%9B%9B%E5%AD%A3%E5%BD%A9%E7%B4%80%E8%A1%8C_%EF%BD%9E_Travelogue_of_Colourful_Dream%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\08\ns6%3A%E5%9B%9B%E5%AD%A3%E5%BD%A9%E7%B4%80%E8%A1%8C_%EF%BD%9E_Travelogue_of_Colourful_Dream%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 凍幻舎 | 封面图片 | 平成懐元堂
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [四季彩紀行 ～ Travelogue of Colourful Dream](./四季彩紀行_～_Travelogue_of_Colourful_Dream.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [四季彩紀行 ～ Travelogue of Colourful Dream](./四季彩紀行_～_Travelogue_of_Colourful_Dream.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

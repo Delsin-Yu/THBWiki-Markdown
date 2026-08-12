@@ -1,6 +1,6 @@
 # 文件:SO_YOU_WANNA_BE_A_POROROCA封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ce\ns6%3ASO_YOU_WANNA_BE_A_POROROCA%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ce\ns6%3ASO_YOU_WANNA_BE_A_POROROCA%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 俺のキューカンバーがポロロッカ!! | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [SO YOU WANNA BE A POROROCA](./SO_YOU_WANNA_BE_A_POROROCA.md)  
-该封面包含的角色：- [洩矢诹访子](./洩矢诹访子.md)
-
-
-
+- [SO YOU WANNA BE A POROROCA](./SO_YOU_WANNA_BE_A_POROROCA.md)该封面包含的角色：
+- [洩矢诹访子](./洩矢诹访子.md)
 
 
 ---

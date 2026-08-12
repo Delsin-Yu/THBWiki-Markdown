@@ -1,16 +1,11 @@
 # 文件:east_breaks_in_thousandbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bb\ns6%3Aeast_breaks_in_thousandbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bb\ns6%3Aeast_breaks_in_thousandbanner%2Ejpg.html -->
 
 east_breaks_in_thousand | 社团LOGO
 
   
-源地址：[[1]](http://ebi1000.net/)
-  
-
-
-
-
+源地址：[\[1\]](http://ebi1000.net/)  
 
 ---
 

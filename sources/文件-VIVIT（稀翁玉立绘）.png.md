@@ -1,12 +1,8 @@
 # 文件:VIVIT（稀翁玉立绘）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1d\ns6%3AVIVIT%EF%BC%88%E7%A8%80%E7%BF%81%E7%8E%89%E7%AB%8B%E7%BB%98%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1d\ns6%3AVIVIT%EF%BC%88%E7%A8%80%E7%BF%81%E7%8E%89%E7%AB%8B%E7%BB%98%EF%BC%89%2Epng.html -->
 
 稀翁玉 | 西方Project | 西方角色立绘
-
-
-
-
 
 
 ---

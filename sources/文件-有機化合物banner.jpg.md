@@ -1,12 +1,8 @@
 # 文件:有機化合物banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f2\ns6%3A%E6%9C%89%E6%A9%9F%E5%8C%96%E5%90%88%E7%89%A9banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f2\ns6%3A%E6%9C%89%E6%A9%9F%E5%8C%96%E5%90%88%E7%89%A9banner%2Ejpg.html -->
 
 有機化合物 | 社团LOGO
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Camphor_Music_side_create_collection_＃3_Outpost封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cc\ns6%3ACamphor_Music_side_create_collection_%EF%BC%833_Outpost%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cc\ns6%3ACamphor_Music_side_create_collection_%EF%BC%833_Outpost%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Camphor | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ Camphor | 专辑封面 | 封面图片
   
 
 - [Camphor Music side create collection ＃3 Outpost](./Camphor_Music_side_create_collection_＃3_Outpost.md)
-
-
-
 
 
 ---

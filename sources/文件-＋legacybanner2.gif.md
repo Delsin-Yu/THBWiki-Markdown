@@ -1,14 +1,11 @@
 # 文件:＋legacybanner2.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\20\ns6%3A%EF%BC%8Blegacybanner2%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\20\ns6%3A%EF%BC%8Blegacybanner2%2Egif.html -->
 
 社团LOGO | ＋legacy
 
 
 ## 文件说明
-
-
-
 
 ---
 

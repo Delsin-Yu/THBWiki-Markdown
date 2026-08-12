@@ -1,6 +1,6 @@
 # 文件:幻想Dream_World封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8c\ns6%3A%E5%B9%BB%E6%83%B3Dream_World%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8c\ns6%3A%E5%B9%BB%E6%83%B3Dream_World%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 幻夢想之夜
 
@@ -10,16 +10,14 @@
 使用了本文件作封面图片的作品：
   
 
-- [幻想Dream World](./幻想Dream_World.md)  
-该封面包含的角色：- [西行寺幽幽子](./西行寺幽幽子.md)- [因幡帝](./因幡帝.md)- [藤原妹红](./藤原妹红.md)- [古明地恋](./古明地恋.md)
+- [幻想Dream World](./幻想Dream_World.md)该封面包含的角色：
+- [西行寺幽幽子](./西行寺幽幽子.md)
+- [因幡帝](./因幡帝.md)
+- [藤原妹红](./藤原妹红.md)
+- [古明地恋](./古明地恋.md)
 
   
-源地址：[direct image link](https://web.archive.org/web/20150707123753im_/http://pics23.yamedia.tw/33/userfile/t/ts01396924/blog/14e0bc9ff998c0.jpg), [source page](https://web.archive.org/web/20111208084711/http://blog.yam.com/ts01396924/article/39321609)
-  
-
-
-
-
+源地址：[direct image link](https://web.archive.org/web/20150707123753im_/http://pics23.yamedia.tw/33/userfile/t/ts01396924/blog/14e0bc9ff998c0.jpg), [source page](https://web.archive.org/web/20111208084711/http://blog.yam.com/ts01396924/article/39321609)  
 
 ---
 

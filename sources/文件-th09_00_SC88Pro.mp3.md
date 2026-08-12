@@ -1,12 +1,8 @@
 # 文件:th09_00_SC88Pro.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\92\ns6%3Ath09_00_SC88Pro%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\92\ns6%3Ath09_00_SC88Pro%2Emp3.html -->
 
 东方花映塚 | 花映塚_～_Higan_Retour
-
-
-
-
 
 
 ---

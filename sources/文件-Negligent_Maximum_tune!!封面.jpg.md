@@ -1,6 +1,6 @@
 # 文件:Negligent_Maximum_tune!!封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9e\ns6%3ANegligent_Maximum_tune%21%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9e\ns6%3ANegligent_Maximum_tune%21%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 FOX_RAVEL | KINZOK_ON | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ FOX_RAVEL | KINZOK_ON | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Negligent Maximum tune!!](./Negligent_Maximum_tune!!.md)  
-该封面包含的角色：- [上白泽慧音](./上白泽慧音.md)- [藤原妹红](./藤原妹红.md)
-
-
-
+- [Negligent Maximum tune!!](./Negligent_Maximum_tune!!.md)该封面包含的角色：
+- [上白泽慧音](./上白泽慧音.md)
+- [藤原妹红](./藤原妹红.md)
 
 
 ---

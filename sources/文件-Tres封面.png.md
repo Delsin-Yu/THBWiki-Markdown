@@ -1,6 +1,6 @@
 # 文件:Tres封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\35\ns6%3ATres%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\35\ns6%3ATres%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 おるたねーと | 专辑封面 | 封面图片
 
@@ -10,12 +10,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [Tres](./Tres.md)  
-该封面包含的角色：- [东风谷早苗](./东风谷早苗.md)- [洩矢诹访子](./洩矢诹访子.md) 来源：[blog](https://blog-imgs-35-origin.fc2.com/o/r/u/orutaneito/3maime.png)
-
-
-
-
+- [Tres](./Tres.md)该封面包含的角色：
+- [东风谷早苗](./东风谷早苗.md)
+- [洩矢诹访子](./洩矢诹访子.md)
+ 来源：[blog](https://blog-imgs-35-origin.fc2.com/o/r/u/orutaneito/3maime.png)
 
 ---
 

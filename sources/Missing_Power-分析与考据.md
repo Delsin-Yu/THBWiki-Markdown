@@ -1,6 +1,6 @@
 # Missing_Power/分析与考据
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\c\c2\ns0%3AMissing_Power%2F%E5%88%86%E6%9E%90%E4%B8%8E%E8%80%83%E6%8D%AE.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\c\c2\ns0%3AMissing_Power%2F%E5%88%86%E6%9E%90%E4%B8%8E%E8%80%83%E6%8D%AE.html -->
 
 伊吹萃香 | 引用了翻译表的页面 | 符卡
 
@@ -13,68 +13,49 @@
 - [4 导航](#导航)
 
 
-
-
-
 ## 分析考据
   
- **鬼符「ミッシングパワー」**  鬼符「Missing Power」
+**鬼符「ミッシングパワー」** 鬼符「Missing Power」
   
   
- **鬼神「ミッシングパープルパワー」**  鬼神「Missing Purple Power」
+**鬼神「ミッシングパープルパワー」** 鬼神「Missing Purple Power」
   
 
-- ミッシングパワー
-  - 英语：Missing Power，遗失的力量。
+- ミッシングパワー 
+  - 英语：Missing Power，遗失的力量。 
     - [东方萃梦想](./东方萃梦想.md)的副标题即「Immaterial and Missing Power」，也是游戏中7面场景的标题。
 
-  - 可能意指[幻想乡](./幻想乡.md)中已经不见[鬼](./鬼.md)的踪影，鬼的力量是不为人所知、失落的力量？
+
+  - 可能意指[幻想乡](./幻想乡.md)中已经不见[鬼](./鬼.md)的踪影，鬼的力量是不为人所知、失落的力量？ 
     - [东方萃梦想](./东方萃梦想.md)设定中提及了「已经失传的鬼之力量」。
-    - 游戏对话 (未找到链接)中[伊吹萃香](./伊吹萃香.md)也提及「被遗忘的[鬼](./鬼.md)」、「从[幻想乡](./幻想乡.md)中消失的鬼之力」。
+    - [游戏对话](./游戏对话-东方萃梦想-伊吹萃香.md#Immaterial_and_Missing_Power)中[伊吹萃香](./伊吹萃香.md)也提及「被遗忘的[鬼](./鬼.md)」、「从[幻想乡](./幻想乡.md)中消失的鬼之力」。
 
 
-- パープル
-  - 英语：Purple，紫色。
+
+
+- パープル 
+  - 英语：Purple，紫色。 
     - 紫色被视作高贵、权威之色，「Purple Power」可能有「高级的力量」、「高贵的力量」的意味。
 
 
 
+
+
+
 ```
-鬼因为人类反复进行的卑鄙的乱抓鬼计策，移居到了永远抛弃人类，
-而人类也永远去不了的地方，传说是这样的。
-已经看不到鬼的行踪了。
-……
-能力是可以操纵密和疏。
-不管是任何东西，都可以让它集结起来或是分散开来。
-如果集合人的想法的话，可以举行宴会这样的事情，
-也可以把自己分散成雾这样的状态。妖雾是非常微小的她。
-并不是创造新的力量，只是把在那里的东西集结分散而已罢了、
-可以集结起东西而创造别的物体。这算是接近很特殊的创造能力了。
-不愧是已经失传的鬼之力量，也可以这样说吧。
-```
+鬼因为人类反复进行的卑鄙的乱抓鬼计策，移居到了永远抛弃人类， 而人类也永远去不了的地方，传说是这样的。 已经看不到鬼的行踪了。 …… 能力是可以操纵密和疏。 不管是任何东西，都可以让它集结起来或是分散开来。 如果集合人的想法的话，可以举行宴会这样的事情， 也可以把自己分散成雾这样的状态。妖雾是非常微小的她。 并不是创造新的力量，只是把在那里的东西集结分散而已罢了、 可以集结起东西而创造别的物体。这算是接近很特殊的创造能力了。 不愧是已经失传的鬼之力量，也可以这样说吧。 ```
 
 
 <table><tbody><tr class="tt-content" id="Immaterial_and_Missing_Power-9" data-pos="&#91;&quot;Immaterial and Missing Power&quot;,9&#93;"><td id="博丽灵梦" class="tt-char" lang="zh"><div class="poem">博丽灵梦</div></td><td class="tt-ja" lang="ja"><div class="poem">宴会？<br>宴会と妖霧に何の関係があるの？</div></td><td class="tt-zh" lang="zh"><div class="poem">宴会？<br>宴会和妖雾有什么关系吗？</div></td></tr><tr class="tt-content" id="Immaterial_and_Missing_Power-10" data-pos="&#91;&quot;Immaterial and Missing Power&quot;,10&#93;"><td id="伊吹萃香" class="tt-char" lang="zh"><div class="poem">伊吹萃香</div></td><td class="tt-ja" lang="ja"><div class="poem">ほらね。幾ら鬼が幻想郷を見捨ててから長い時間が経ったとしても……</div></td><td class="tt-zh" lang="zh"><div class="poem">看吧。就算鬼抛弃幻想乡后经过了很久……</div></td></tr></tbody></table>
 
 
-
 <table><tbody><tr class="tt-content" id="Immaterial_and_Missing_Power-18" data-pos="&#91;&quot;Immaterial and Missing Power&quot;,18&#93;"><td id="伊吹萃香" class="tt-char" lang="zh"><div class="poem">伊吹萃香</div></td><td class="tt-ja" lang="ja"><div class="poem">私はあんた達の事をよく判ってるわ。<br>ずっと見てたもの。</div></td><td class="tt-zh" lang="zh"><div class="poem">你们的事我很清楚哦，<br>因为一直看着呢。</div></td></tr></tbody></table>
 
-
-[](./文件-萃梦想7面场景（萃香）.png.md)  [](./文件-萃梦想7面场景（萃香）.png.md)萃梦想7面场景（萃香）
-
-
+<img alt="" src="https://upload.thwiki.cc/thumb/7/7f/%E8%90%83%E6%A2%A6%E6%83%B37%E9%9D%A2%E5%9C%BA%E6%99%AF%EF%BC%88%E8%90%83%E9%A6%99%EF%BC%89.png/227px-%E8%90%83%E6%A2%A6%E6%83%B37%E9%9D%A2%E5%9C%BA%E6%99%AF%EF%BC%88%E8%90%83%E9%A6%99%EF%BC%89.png" decoding="async" loading="lazy" width="227" height="99" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/7/7f/%E8%90%83%E6%A2%A6%E6%83%B37%E9%9D%A2%E5%9C%BA%E6%99%AF%EF%BC%88%E8%90%83%E9%A6%99%EF%BC%89.png/341px-%E8%90%83%E6%A2%A6%E6%83%B37%E9%9D%A2%E5%9C%BA%E6%99%AF%EF%BC%88%E8%90%83%E9%A6%99%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/7/7f/%E8%90%83%E6%A2%A6%E6%83%B37%E9%9D%A2%E5%9C%BA%E6%99%AF%EF%BC%88%E8%90%83%E9%A6%99%EF%BC%89.png/454px-%E8%90%83%E6%A2%A6%E6%83%B37%E9%9D%A2%E5%9C%BA%E6%99%AF%EF%BC%88%E8%90%83%E9%A6%99%EF%BC%89.png 2x" data-file-width="550" data-file-height="239">
+ [放大](./文件-萃梦想7面场景（萃香）.png.md)萃梦想7面场景（萃香）
 ## 参见
+
 - [伊吹萃香/分析考据](./伊吹萃香-分析考据.md)
-
-
-## 导航
-
-<table><tbody><tr><td><table cellspacing="0" class="nowraplinks mw-collapsible mw-collapsed" style="width:100%;;;"><tbody><tr><th style=";" colspan="3" class="navbox-title"><div class="navbar"><div class="noprint plainlinksneverexpand" style="background-color:transparent; padding:0; font-weight:normal; font-size:80%; white-space:nowrap;"><a href="./模板-伊吹萃香符卡导航.md" title="模板:伊吹萃香符卡导航"><span style=";;border:none;" title="查看这个模板">查</span></a>&#160;<span style="font-size:80%;">•</span>&#160;<a href="/index.php?title=%E6%A8%A1%E6%9D%BF:%E4%BC%8A%E5%90%B9%E8%90%83%E9%A6%99%E7%AC%A6%E5%8D%A1%E5%AF%BC%E8%88%AA&amp;action=edit"><span style=";;border:none;" title="您可以编辑这个模板。请在储存变更之前先预览">编</span></a></div></div><span><a href="./伊吹萃香.md" title="伊吹萃香">伊吹萃香</a>符卡</span></th></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">射击游戏</td><td style=";;" class="navbox-list navbox-odd"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div><a href="./东方文花帖.md" title="东方文花帖">东方文花帖</a></div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./鬼气「蒙蒙迷雾」.md" class="mw-redirect" title="鬼气「蒙蒙迷雾」">鬼气「蒙蒙迷雾」</a> &#8226; <a href="./「百万鬼夜行」.md" class="mw-redirect" title="「百万鬼夜行」">「百万鬼夜行」</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div><a href="./东方地灵殿.md" title="东方地灵殿">东方地灵殿</a></div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./「萃灵花」.md" class="mw-redirect" title="「萃灵花」">「萃灵花」</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div><a href="./东方文花帖DS.md" title="东方文花帖DS">东方文花帖DS</a></div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./鬼符「豆粒大的针地狱」.md" class="mw-redirect" title="鬼符「豆粒大的针地狱」">鬼符「豆粒大的针地狱」</a> &#8226; <a href="./地狱「炼狱气息」.md" class="mw-redirect" title="地狱「炼狱气息」">地狱「炼狱气息」</a> &#8226; <a href="./鬼符「Missing_Power」.md" class="mw-redirect" title="鬼符「Missing Power」">鬼符「Missing Power」</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div><a href="./弹幕天邪鬼.md" title="弹幕天邪鬼">弹幕天邪鬼</a></div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./鬼群「Imp_swarm」.md" class="mw-redirect" title="鬼群「Imp swarm」">鬼群「Imp swarm」</a> &#8226; <a href="./鬼群「百鬼秃童」.md" class="mw-redirect" title="鬼群「百鬼秃童」">鬼群「百鬼秃童」</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div><a href="./秘封噩梦日记.md" title="秘封噩梦日记">秘封噩梦日记</a></div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./萃夜符「身命雾散」.md" class="mw-redirect" title="萃夜符「身命雾散」">萃夜符「身命雾散」</a> &#8226; <a href="./萃珠符「纯粹的五里雾中」.md" class="mw-redirect" title="萃珠符「纯粹的五里雾中」">萃珠符「纯粹的五里雾中」</a> &#8226; <a href="./萃珠符「Mist_Ray」.md" class="mw-redirect" title="萃珠符「Mist Ray」">萃珠符「Mist Ray」</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div><a href="./弹幕狂们的黑市.md" title="弹幕狂们的黑市">弹幕狂们的黑市</a></div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./密符「稠密的隐形鬼」.md" class="mw-redirect" title="密符「稠密的隐形鬼」">密符「稠密的隐形鬼」</a> &#8226; <a href="./「鬼火大将军」.md" class="mw-redirect" title="「鬼火大将军」">「鬼火大将军」</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div><a href="./东方兽王园.md" title="东方兽王园">东方兽王园</a></div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./鬼符「蒙蒙酒鬼」.md" class="mw-redirect" title="鬼符「蒙蒙酒鬼」">鬼符「蒙蒙酒鬼」</a> &#8226; <a href="./鬼符「疏音蒙蒙酒鬼」.md" class="mw-redirect" title="鬼符「疏音蒙蒙酒鬼」">鬼符「疏音蒙蒙酒鬼」</a> &#8226;  <a href="./「美丽的地狱弹幕夜行」.md" class="mw-redirect" title="「美丽的地狱弹幕夜行」">「美丽的地狱弹幕夜行」</a></div></td></tr></tbody></table><div></div></td><td class="navbox-image" style="" rowspan="7"><a href="./文件-伊吹萃香（Q版立绘）.png.md" class="image"><img alt="伊吹萃香（Q版立绘）.png" src="https://upload.thwiki.cc/thumb/d/da/%E4%BC%8A%E5%90%B9%E8%90%83%E9%A6%99%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png/160px-%E4%BC%8A%E5%90%B9%E8%90%83%E9%A6%99%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="160" height="160" srcset="https://upload.thwiki.cc/thumb/d/da/%E4%BC%8A%E5%90%B9%E8%90%83%E9%A6%99%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png/240px-%E4%BC%8A%E5%90%B9%E8%90%83%E9%A6%99%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/d/da/%E4%BC%8A%E5%90%B9%E8%90%83%E9%A6%99%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png/320px-%E4%BC%8A%E5%90%B9%E8%90%83%E9%A6%99%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="500" data-file-height="500"></a></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">格斗游戏</td><td style=";;" class="navbox-list navbox-even"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div><a href="./东方萃梦想.md" title="东方萃梦想">东方萃梦想</a></div></td><td style=";;" class="navbox-list navbox-odd"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>对战符卡</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./萃符「户隐山之投」.md" class="mw-redirect" title="萃符「户隐山之投」">萃符「户隐山之投」</a> &#8226; <a href="./醉神「鬼缚之术」.md" class="mw-redirect" title="醉神「鬼缚之术」">醉神「鬼缚之术」</a> &#8226; <a href="./鬼符「Missing_Power」.md" class="mw-redirect" title="鬼符「Missing Power」">鬼符「Missing Power」</a> &#8226; <a href="./萃鬼「天手力男之投」.md" class="mw-redirect" title="萃鬼「天手力男之投」">萃鬼「天手力男之投」</a> &#8226; <a href="./醉梦「施饿鬼缚之术」.md" class="mw-redirect" title="醉梦「施饿鬼缚之术」">醉梦「施饿鬼缚之术」</a> &#8226; <a href="./鬼神「Missing_Purple_Power」.md" class="mw-redirect" title="鬼神「Missing Purple Power」">鬼神「Missing Purple Power」</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>故事符卡</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./符之一「投掷的天岩户」.md" class="mw-redirect" title="符之一「投掷的天岩户」">符之一「投掷的天岩户」</a> &#8226; <a href="./符之二「坤轴的大鬼」.md" class="mw-redirect" title="符之二「坤轴的大鬼」">符之二「坤轴的大鬼」</a> &#8226; <a href="./符之三「追傩返黑洞」.md" class="mw-redirect" title="符之三「追傩返黑洞」">符之三「追傩返黑洞」</a> &#8226; <a href="./鬼火「超高密度磷祸术」.md" class="mw-redirect" title="鬼火「超高密度磷祸术」">鬼火「超高密度磷祸术」</a> &#8226; <a href="./疎符「六里雾中」.md" class="mw-redirect" title="疎符「六里雾中」">疎符「六里雾中」</a> &#8226; <a href="./「百万鬼夜行」.md" class="mw-redirect" title="「百万鬼夜行」">「百万鬼夜行」</a></div></td></tr></tbody></table><div></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div><a href="./东方绯想天.md" title="东方绯想天">东方绯想天</a></div></td><td style=";;" class="navbox-list navbox-even"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>对战符卡</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./萃符「户隐山之投」.md" class="mw-redirect" title="萃符「户隐山之投」">萃符「户隐山之投」</a> &#8226; <a href="./醉神「鬼缚之术」.md" class="mw-redirect" title="醉神「鬼缚之术」">醉神「鬼缚之术」</a> &#8226; <a href="./鬼符「Missing_Power」.md" class="mw-redirect" title="鬼符「Missing Power」">鬼符「Missing Power」</a> &#8226; <a href="./萃鬼「天手力男之投」.md" class="mw-redirect" title="萃鬼「天手力男之投」">萃鬼「天手力男之投」</a> &#8226; <a href="./醉梦「施饿鬼缚之术」.md" class="mw-redirect" title="醉梦「施饿鬼缚之术」">醉梦「施饿鬼缚之术」</a> &#8226; <a href="./鬼神「Missing_Purple_Power」.md" class="mw-redirect" title="鬼神「Missing Purple Power」">鬼神「Missing Purple Power」</a> &#8226; <a href="./雾符「云集雾散」.md" class="mw-redirect" title="雾符「云集雾散」">雾符「云集雾散」</a> &#8226; <a href="./鬼火「超高密度磷祸术」.md" class="mw-redirect" title="鬼火「超高密度磷祸术」">鬼火「超高密度磷祸术」</a> &#8226; <a href="./鬼符「大江山悉皆杀」.md" class="mw-redirect" title="鬼符「大江山悉皆杀」">鬼符「大江山悉皆杀」</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>故事符卡</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./吐息「小鬼的深呼吸」.md" class="mw-redirect" title="吐息「小鬼的深呼吸」">吐息「小鬼的深呼吸」</a> &#8226; <a href="./火弹「地灵活性弹」.md" class="mw-redirect" title="火弹「地灵活性弹」">火弹「地灵活性弹」</a> &#8226; <a href="./鬼神「Missing_Purple_Power」.md" class="mw-redirect" title="鬼神「Missing Purple Power」">鬼神「Missing Purple Power」</a> &#8226; <a href="./鬼气「蒙蒙迷雾」.md" class="mw-redirect" title="鬼气「蒙蒙迷雾」">鬼气「蒙蒙迷雾」</a> &#8226; <a href="./「百万同一鬼」.md" class="mw-redirect" title="「百万同一鬼」">「百万同一鬼」</a></div></td></tr></tbody></table><div></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div><a href="./东方非想天则.md" title="东方非想天则">东方非想天则</a></div></td><td style=";;" class="navbox-list navbox-odd"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>对战符卡</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./四天王奥义「三步坏废」.md" class="mw-redirect" title="四天王奥义「三步坏废」">四天王奥义「三步坏废」</a></div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">出版物</td><td style=";;" class="navbox-list navbox-odd"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div><a href="./魔理沙的魔法书.md" class="mw-redirect" title="魔理沙的魔法书">魔理沙的魔法书</a></div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./鬼神「Missing_Purple_Power」.md" class="mw-redirect" title="鬼神「Missing Purple Power」">鬼神「Missing Purple Power」</a> &#8226; <a href="./鬼符「大江山悉皆杀」.md" class="mw-redirect" title="鬼符「大江山悉皆杀」">鬼符「大江山悉皆杀」</a> &#8226; <a href="./鬼气「蒙蒙迷雾」.md" class="mw-redirect" title="鬼气「蒙蒙迷雾」">鬼气「蒙蒙迷雾」</a> &#8226; <a href="./「百万鬼夜行」.md" class="mw-redirect" title="「百万鬼夜行」">「百万鬼夜行」</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div><a href="./宇佐见的魔法书.md" class="mw-redirect" title="宇佐见的魔法书">宇佐见的魔法书</a></div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./鬼符「Missing_Power」.md" class="mw-redirect" title="鬼符「Missing Power」">鬼符「Missing Power」</a></div></td></tr></tbody></table><div></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">周边</td><td style=";;" class="navbox-list navbox-even"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div><a href="./绯想天符录_WEATHER_LIGHT.md" title="绯想天符录 WEATHER LIGHT">绯想天符录 WEATHER LIGHT</a></div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./鬼神「Missing_Purple_Power」.md" class="mw-redirect" title="鬼神「Missing Purple Power」">鬼神「Missing Purple Power」</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div><a href="./绯想天符录_非想天则20形态.md" title="绯想天符录 非想天则20形态">绯想天符录 非想天则20形态</a></div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./四天王奥义「三步坏废」.md" class="mw-redirect" title="四天王奥义「三步坏废」">四天王奥义「三步坏废」</a></div></td></tr></tbody></table><div></div></td></tr></tbody></table></td></tr></tbody></table>
-
-
-
-
 
 
 ---

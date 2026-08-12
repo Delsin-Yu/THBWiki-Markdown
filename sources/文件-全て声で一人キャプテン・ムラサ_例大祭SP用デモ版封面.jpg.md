@@ -1,6 +1,6 @@
 # 文件:全て声で一人キャプテン・ムラサ_例大祭SP用デモ版封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\14\ns6%3A%E5%85%A8%E3%81%A6%E5%A3%B0%E3%81%A7%E4%B8%80%E4%BA%BA%E3%82%AD%E3%83%A3%E3%83%97%E3%83%86%E3%83%B3%E3%83%BB%E3%83%A0%E3%83%A9%E3%82%B5_%E4%BE%8B%E5%A4%A7%E7%A5%ADSP%E7%94%A8%E3%83%87%E3%83%A2%E7%89%88%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\14\ns6%3A%E5%85%A8%E3%81%A6%E5%A3%B0%E3%81%A7%E4%B8%80%E4%BA%BA%E3%82%AD%E3%83%A3%E3%83%97%E3%83%86%E3%83%B3%E3%83%BB%E3%83%A0%E3%83%A9%E3%82%B5_%E4%BE%8B%E5%A4%A7%E7%A5%ADSP%E7%94%A8%E3%83%87%E3%83%A2%E7%89%88%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 クマノヘヤ | 专辑封面 | 封面图片
 
@@ -13,12 +13,7 @@
 - [全て声で一人キャプテン・ムラサ 例大祭SP用デモ版](./全て声で一人キャプテン・ムラサ_例大祭SP用デモ版.md)
 
   
-源地址：[direct image link](https://www.suruga-ya.jp/database/pics_light/game/186141300.jpg), [source page (suruga-ya ID: 186141300)](https://www.suruga-ya.jp/product/detail/186141300)
-  
-
-
-
-
+源地址：[direct image link](https://www.suruga-ya.jp/database/pics_light/game/186141300.jpg), [source page (suruga-ya ID: 186141300)](https://www.suruga-ya.jp/product/detail/186141300)  
 
 ---
 

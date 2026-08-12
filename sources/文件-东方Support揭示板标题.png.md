@@ -1,14 +1,11 @@
 # 文件:东方Support揭示板标题.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\82\ns6%3A%E4%B8%9C%E6%96%B9Support%E6%8F%AD%E7%A4%BA%E6%9D%BF%E6%A0%87%E9%A2%98%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\82\ns6%3A%E4%B8%9C%E6%96%B9Support%E6%8F%AD%E7%A4%BA%E6%9D%BF%E6%A0%87%E9%A2%98%2Epng.html -->
 
 东方揭示板 | 幻乐团官网
 
 
 ## 摘要
-
-
-
 
 ---
 

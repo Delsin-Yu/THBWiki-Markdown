@@ -1,16 +1,13 @@
 # 幻想Narrato_Graph
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\4c\ns0%3A%E5%B9%BB%E6%83%B3Narrato_Graph.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\4c\ns0%3A%E5%B9%BB%E6%83%B3Narrato_Graph.html -->
 
 包含多个头部的页面 | 幻想Narrato_Graph | 待完成页面 | 角川集团
 
-本页是关于与ZUN有一定关联的 (未找到链接)  
+本页是关于[与ZUN有一定关联的](./其他ZUN参与的作品.md#东方Project的二次创作)  
 含有[东方Project](./东方Project.md)相关内容的  
-商业作品的词条
-本页是关于  
-[东方Project](./东方Project.md)二次创作商业出版物的词条幻想Narrato Graph（商业书籍） - 
-<center>
-
+商业作品的词条本页是关于  
+[东方Project](./东方Project.md)二次创作商业出版物的词条幻想Narrato Graph（商业书籍） - <center>
 <table>
 <tbody><tr>
 <td class="mbox-image"><div style="width: 52px;">
@@ -19,14 +16,7 @@
 </tr>
 </tbody></table>
 
-
 </center>
-  
-  
-
-  
-
-
 ## 目录
 
 - [1 概述](#概述)
@@ -34,9 +24,6 @@
 - [3 目录](#目录)
 - [4 其他](#其他)
 - [5 外部链接](#外部链接)
-
-
-
 
 
 ## 概述
@@ -58,23 +45,22 @@
 <tr><td></td></tr>
 </tbody></table>
 </td></tr><tr><th colspan="4" class="titleH1">幻想Narrato Graph</th></tr>
-<tr><th scope="row" class="titleH2" width="60px">出版信息</th><td><a href="./角川集团.md" title="角川集团">角川集团</a></td><td>2023年9月20日</td><td>2500日元</td></tr><tr><th scope="row" class="titleH2"><b>Kindle</b></th><td><a href="http://www.amazon.co.jp/dp/B0CH9K1PS7" class="extiw" title="亚马逊:B0CH9K1PS7">KindleJP</a></td><td>2023年9月20日</td><td>2500日元</td></tr><tr><th scope="row" class="titleH2"><b>Bookwalker</b></th><td><a href="https://bookwalker.jp/de8a5dd333-e9e7-4943-a0b0-f8e98594ea93" class="extiw" title="bookwalker:de8a5dd333-e9e7-4943-a0b0-f8e98594ea93">BookwalkerJP</a></td><td>2023年9月20日</td><td>2500日元</td></tr><tr><th scope="row" class="titleH2"><b>ISBN</b></th><td colspan="3"><a href="http://thwiki.cc/Special:BookSources/9784040751009" class="extiw" title="isbn:9784040751009">9784040751009</a></td></tr></tbody></table>
-
+<tr><th scope="row" class="titleH2" width="60px">出版信息</th><td><a href="./角川集团.md" title="角川集团">角川集团</a></td><td>2023年9月20日</td><td>2500日元</td></tr><tr><th scope="row" class="titleH2"><b>Kindle</b></th><td><a href="http://www.amazon.co.jp/dp/B0CH9K1PS7" class="extiw" title="亚马逊:B0CH9K1PS7">KindleJP</a></td><td>2023年9月20日</td><td>2500日元</td></tr><tr><th scope="row" class="titleH2"><b>Bookwalker</b></th><td><a href="https://bookwalker.jp/de8a5dd333-e9e7-4943-a0b0-f8e98594ea93" class="extiw" title="bookwalker:de8a5dd333-e9e7-4943-a0b0-f8e98594ea93">BookwalkerJP</a></td><td>2023年9月20日</td><td>2500日元</td></tr><tr><th scope="row" class="titleH2"><b>ISBN</b></th><td colspan="3"><a class="extiw" title="isbn:9784040751009">9784040751009</a></td></tr></tbody></table>
 
   
-<big> **东方Project二次创作TRPG 幻想Narrato Graph** </big>，简称 **幻想NG** 或 **GNG** 。  
+<big>**东方Project二次创作TRPG 幻想Narrato Graph**</big>，简称**幻想NG**或**GNG**。  
 
-東方Project二次創作TRPG 幻想ナラトグラフ<small>（げんそうならとぐらふ， *Gensou Narrato Graph* ）</small>  
+東方Project二次創作TRPG 幻想ナラトグラフ<small>（げんそうならとぐらふ，*Gensou Narrato Graph*）</small>  
 
 由角川集团富士见书房出版，中西咏介／冒险企划局制作的东方二次创作TRPG，包含ZUN扮演博丽灵梦进行游玩的Replay、ZUN为30位官方角色写的每人两句新台词，以及ZUN为21个官方场景撰写的解说文本。ZUN还为本书撰写了一篇后记。  
 
 本书在宣传上定位为“东方Project二次创作TRPG”，但是由于ZUN参与其中，撰写了一些涉及设定的内容，故可以认为ZUN撰写的部分为一设资料，本书具有半官方性质。
   
 
-
 ## 相关信息
 
 ## 目录
+
 - 封面
 - 幻想乡地图
 - 宣传插画
@@ -91,14 +77,16 @@
   - 第102-105页：
   - 第106-110页：
 
-- 第111页：导言
+
+- 第111页：导言 
   - 第112-116页：
+
 
 - 第117页：角色之章 (未找到链接)
   - 第118-127页：角色
   - 第128-129页：[博丽灵梦](./博丽灵梦.md)
   - 第130-131页：[雾雨魔理沙](./雾雨魔理沙.md)
-  - 第132-133页：十六夜咲夜 (未找到链接)
+  - 第132-133页：[十六夜咲夜](./十六夜咲夜.md)
   - 第134-135页：[红美铃](./红美铃.md)
   - 第136-137页：[帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
   - 第138-139页：[蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
@@ -128,7 +116,8 @@
   - 第186-187页：[茨木华扇](./茨木华扇.md)
   - 第188-192页：个性技能
 
-- 第193页：规则之章
+
+- 第193页：规则之章 
   - 第194页：
   - 第195页：
   - 第196-199页：
@@ -140,7 +129,8 @@
   - 第234-235页：
   - 第236-238页：
 
-- 第239页：世界之章
+
+- 第239页：世界之章 
   - 第240-245页：[幻想乡](./幻想乡.md)
   - 第246-247页：幻想乡地图
   - 第248页：⚀⚀[人类村落](./幻想Narrato_Graph-人类村落.md)
@@ -165,7 +155,8 @@
   - 第267页：⚄⚅迷途竹林 (未找到链接)
   - 第268页：⚅⚅[博丽神社](./幻想Narrato_Graph-博丽神社.md)
 
-- 第269页：Game Master之章
+
+- 第269页：Game Master之章 
   - 第270-271页：
   - 第272-274页：
   - 第275-276页：
@@ -175,10 +166,12 @@
   - 第284-295页：
   - 第296-312页：
 
-- 第313页：Omake之章
+
+- 第313页：Omake之章 
   - 第314页：
   - 第315页：
   - 第316-317页：索引
+
 
 - 第318-319页：[后记](./幻想Narrato_Graph-后记.md)
 - Staff表
@@ -187,19 +180,17 @@
 
 
 ## 其他
+
 - 单行本设计 (未找到链接)
-- [关联下载](https://fujimi-trpg-online.jp/download/narratograph_dl.html)（日文）  
-可下载《幻想Narrato Graph》的配套内容供游玩时使用，包括玩家用文档页、在线用展示素材、配套BGM、勘误表等。
+- [关联下载](https://fujimi-trpg-online.jp/download/narratograph_dl.html)（日文）可下载《幻想Narrato Graph》的配套内容供游玩时使用，包括玩家用文档页、在线用展示素材、配套BGM、勘误表等。
 - [配套BGM](./幻想Narrato_Graph-BGM.md)
 
 
 ## 外部链接
+
 - [东方四方山新闻介绍](https://touhou-project.news/news/9654/)（日文）
 - [官方网站](https://fujimi-trpg-online.jp/game/narratograph.html)（日文）
 - [发售纪念PV](https://www.youtube.com/watch?v=-MraVVXhU9k)（需要翻墙）
-
-
-
 
 
 ---

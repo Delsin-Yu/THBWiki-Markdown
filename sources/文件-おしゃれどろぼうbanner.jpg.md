@@ -1,12 +1,8 @@
 # 文件:おしゃれどろぼうbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\01\ns6%3A%E3%81%8A%E3%81%97%E3%82%83%E3%82%8C%E3%81%A9%E3%82%8D%E3%81%BC%E3%81%86banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\01\ns6%3A%E3%81%8A%E3%81%97%E3%82%83%E3%82%8C%E3%81%A9%E3%82%8D%E3%81%BC%E3%81%86banner%2Ejpg.html -->
 
 おしゃれどろぼう | 社团LOGO
-
-
-
-
 
 
 ---

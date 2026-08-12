@@ -1,6 +1,6 @@
 # 文件:新入記者EX封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c2\ns6%3A%E6%96%B0%E5%85%A5%E8%A8%98%E8%80%85EX%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c2\ns6%3A%E6%96%B0%E5%85%A5%E8%A8%98%E8%80%85EX%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Arukaz-Wing | 同人志封面 | 封面图片
 
@@ -8,16 +8,11 @@ Arukaz-Wing | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [新入記者EX](./新入記者EX.md)  
-该封面包含的角色：- [姬海棠果](./姬海棠果.md)
+- [新入記者EX](./新入記者EX.md)该封面包含的角色：
+- [姬海棠果](./姬海棠果.md)
 
   
-源地址：[[1]](https://blog-imgs-31-origin.fc2.com/s/h/o/shokanallr/2010052515130397b.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://blog-imgs-31-origin.fc2.com/s/h/o/shokanallr/2010052515130397b.jpg)  
 
 ---
 

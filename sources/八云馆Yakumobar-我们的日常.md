@@ -1,50 +1,40 @@
 # 八云馆Yakumobar/我们的日常
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\a\a5\ns0%3A%E5%85%AB%E4%BA%91%E9%A6%86Yakumobar%2F%E6%88%91%E4%BB%AC%E7%9A%84%E6%97%A5%E5%B8%B8.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\a\a5\ns0%3A%E5%85%AB%E4%BA%91%E9%A6%86Yakumobar%2F%E6%88%91%E4%BB%AC%E7%9A%84%E6%97%A5%E5%B8%B8.html -->
 
 2023年3月4日 由 八云馆Yakumobar 于 白兔茶话会1 发布的色纸周边，分级为 一般向
 
 本页是关于东方Project  
- **相关实体周边 (未找到链接)** 的词条
-
+**相关实体周边 (未找到链接)**的词条
 ## 目录
 
 - [1 周边信息](#周边信息)
 - [2 参考图](#参考图)
-
   - [2.1 预览图](#预览图)
-
 
 
 - [3 Staff](#Staff)
 - [4 评论](#评论)
 
 
-
-
-
 ## 周边信息
 
-<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 我们的日常 </td></tr><tr><td class="label">制作方</td><td><a href="./八云馆Yakumobar.md" title="八云馆Yakumobar">八云馆Yakumobar</a></td></tr><tr><td class="label">首发日期</td><td>2023-03-04&#160;（<a href="/展会作品列表?e=%E7%99%BD%E5%85%94%E8%8C%B6%E8%AF%9D%E4%BC%9A%231">北京THP-帝都兔踊宴</a>）</td></tr><tr><td class="label">类型</td><td>色纸</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>210mmx128mm</td></tr><tr><td class="label">角色</td><td><a href="./八云紫.md" title="八云紫">八云紫</a><br><a href="./八云蓝.md" title="八云蓝">八云蓝</a><br><a href="./橙.md" title="橙">橙</a></td></tr><tr><td class="label">售价</td><td>20人民币</td></tr></tbody></table>
+<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 我们的日常 </td></tr><tr><td class="label">制作方</td><td><a href="./八云馆Yakumobar.md" title="八云馆Yakumobar">八云馆Yakumobar</a></td></tr><tr><td class="label">首发日期</td><td>2023-03-04 （<a href="./展会作品列表.md#1">北京THP-帝都兔踊宴</a>）</td></tr><tr><td class="label">类型</td><td>色纸</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>210mmx128mm</td></tr><tr><td class="label">角色</td><td><a href="./八云紫.md" title="八云紫">八云紫</a><br><a href="./八云蓝.md" title="八云蓝">八云蓝</a><br><a href="./橙.md" title="橙">橙</a></td></tr><tr><td class="label">售价</td><td>20人民币</td></tr></tbody></table>
 
 八云馆Yakumobar/我们的日常（周边，八云馆Yakumobar，2023） - 2023年3月4日 由 八云馆Yakumobar 于 白兔茶话会1 发布的色纸周边，分级为 一般向
-
 ## 参考图
   
 周边宣传、售卖时使用的作为参考图的预览图或实物图的图片。
   
 
-
 ### 预览图
-- [](./文件-八云馆Yakumobar／我们的日常预览图1.jpg.md)
+
+- <img alt="八云馆Yakumobar／我们的日常预览图1.jpg" src="https://upload.thwiki.cc/thumb/d/d4/%E5%85%AB%E4%BA%91%E9%A6%86Yakumobar%EF%BC%8F%E6%88%91%E4%BB%AC%E7%9A%84%E6%97%A5%E5%B8%B8%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg/598px-%E5%85%AB%E4%BA%91%E9%A6%86Yakumobar%EF%BC%8F%E6%88%91%E4%BB%AC%E7%9A%84%E6%97%A5%E5%B8%B8%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg" decoding="async" loading="lazy" width="399" height="250" srcset="https://upload.thwiki.cc/thumb/d/d4/%E5%85%AB%E4%BA%91%E9%A6%86Yakumobar%EF%BC%8F%E6%88%91%E4%BB%AC%E7%9A%84%E6%97%A5%E5%B8%B8%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg/897px-%E5%85%AB%E4%BA%91%E9%A6%86Yakumobar%EF%BC%8F%E6%88%91%E4%BB%AC%E7%9A%84%E6%97%A5%E5%B8%B8%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg 1.5x, https://upload.thwiki.cc/thumb/d/d4/%E5%85%AB%E4%BA%91%E9%A6%86Yakumobar%EF%BC%8F%E6%88%91%E4%BB%AC%E7%9A%84%E6%97%A5%E5%B8%B8%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg/1195px-%E5%85%AB%E4%BA%91%E9%A6%86Yakumobar%EF%BC%8F%E6%88%91%E4%BB%AC%E7%9A%84%E6%97%A5%E5%B8%B8%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg 2x" data-file-width="3386" data-file-height="2126"> 
 
 
 ## Staff
 
 ## 评论
-
-
-
 
 ---
 

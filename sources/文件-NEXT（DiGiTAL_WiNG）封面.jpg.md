@@ -1,6 +1,6 @@
 # 文件:NEXT（DiGiTAL_WiNG）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\66\ns6%3ANEXT%EF%BC%88DiGiTAL_WiNG%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\66\ns6%3ANEXT%EF%BC%88DiGiTAL_WiNG%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 DiGiTAL_WiNG | 专辑封面 | 封面图片
 
@@ -11,12 +11,7 @@ DiGiTAL_WiNG | 专辑封面 | 封面图片
 - [NEXT（DiGiTAL WiNG）](./NEXT（DiGiTAL_WiNG）.md)
 
   
-源地址：[[1]](http://digital-wing.net/201609-10)
-  
-
-
-
-
+源地址：[\[1\]](http://digital-wing.net/201609-10)  
 
 ---
 

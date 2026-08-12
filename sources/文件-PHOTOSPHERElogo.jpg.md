@@ -1,18 +1,13 @@
 # 文件:PHOTOSPHERElogo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\59\ns6%3APHOTOSPHERElogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\59\ns6%3APHOTOSPHERElogo%2Ejpg.html -->
 
 PHOTOSPHERE | 社团LOGO
 
 
 ## 摘要
   
-源地址：[direct image link](https://i1.sndcdn.com/avatars-000605567106-nhha7i-original.jpg), [source page (circle Soundcloud logo)](https://soundcloud.com/photospheresc)
-  
-
-
-
-
+源地址：[direct image link](https://i1.sndcdn.com/avatars-000605567106-nhha7i-original.jpg), [source page (circle Soundcloud logo)](https://soundcloud.com/photospheresc)  
 
 ---
 

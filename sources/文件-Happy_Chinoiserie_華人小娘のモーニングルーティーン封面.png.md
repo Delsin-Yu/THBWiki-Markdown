@@ -1,14 +1,11 @@
 # 文件:Happy_Chinoiserie_華人小娘のモーニングルーティーン封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\50\ns6%3AHappy_Chinoiserie_%E8%8F%AF%E4%BA%BA%E5%B0%8F%E5%A8%98%E3%81%AE%E3%83%A2%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%86%E3%82%A3%E3%83%BC%E3%83%B3%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\50\ns6%3AHappy_Chinoiserie_%E8%8F%AF%E4%BA%BA%E5%B0%8F%E5%A8%98%E3%81%AE%E3%83%A2%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%86%E3%82%A3%E3%83%BC%E3%83%B3%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 同人志封面 | 封面图片 | 豚乙女
 
 
 ## 摘要
-
-
-
 
 ---
 

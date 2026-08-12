@@ -1,6 +1,6 @@
 # 文件:coloration_3封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5d\ns6%3Acoloration_3%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5d\ns6%3Acoloration_3%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 五党屋 | 同人志封面 | 封面图片
 
@@ -10,16 +10,13 @@
 使用了本文件作封面图片的作品：
   
 
-- [coloration 3](./coloration_3.md)  
-该封面包含的角色：- [橙](./橙.md)- [八云蓝](./八云蓝.md)- [八云紫](./八云紫.md)
+- [coloration 3](./coloration_3.md)该封面包含的角色：
+- [橙](./橙.md)
+- [八云蓝](./八云蓝.md)
+- [八云紫](./八云紫.md)
 
   
-[Pixiv artwork ID: 71105499](https://www.pixiv.net/artworks/71105499)
-  
-
-
-
-
+[Pixiv artwork ID: 71105499](https://www.pixiv.net/artworks/71105499)  
 
 ---
 

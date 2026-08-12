@@ -1,6 +1,6 @@
 # 文件:Touhou_Eurobeat_Paradise_Selection_Vol._2封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2f\ns6%3ATouhou_Eurobeat_Paradise_Selection_Vol%2E_2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2f\ns6%3ATouhou_Eurobeat_Paradise_Selection_Vol%2E_2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Eurobeat★Paradise | 专辑封面 | 封面图片
 
@@ -10,16 +10,12 @@ Eurobeat★Paradise | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Touhou Eurobeat Paradise Selection Vol. 2](./Touhou_Eurobeat_Paradise_Selection_Vol._2.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)- [八云紫](./八云紫.md)
+- [Touhou Eurobeat Paradise Selection Vol. 2](./Touhou_Eurobeat_Paradise_Selection_Vol._2.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [八云紫](./八云紫.md)
 
   
-源地址：[direct image link (10 size)](https://f4.bcbits.com/img/a3072957018_10.jpg), [source page (artist Bandcamp)](https://eurobeatparadise.bandcamp.com/album/touhou-eurobeat-paradise-selection-vol-2)
-  
-
-
-
-
+源地址：[direct image link (10 size)](https://f4.bcbits.com/img/a3072957018_10.jpg), [source page (artist Bandcamp)](https://eurobeatparadise.bandcamp.com/album/touhou-eurobeat-paradise-selection-vol-2)  
 
 ---
 

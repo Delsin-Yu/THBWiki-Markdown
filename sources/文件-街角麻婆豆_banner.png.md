@@ -1,12 +1,8 @@
 # 文件:街角麻婆豆_banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\17\ns6%3A%E8%A1%97%E8%A7%92%E9%BA%BB%E5%A9%86%E8%B1%86_banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\17\ns6%3A%E8%A1%97%E8%A7%92%E9%BA%BB%E5%A9%86%E8%B1%86_banner%2Epng.html -->
 
 社团LOGO | 街角麻婆豆
-
-
-
-
 
 
 ---

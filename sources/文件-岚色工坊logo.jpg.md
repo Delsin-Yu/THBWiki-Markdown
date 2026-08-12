@@ -1,18 +1,13 @@
 # 文件:岚色工坊logo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e8\ns6%3A%E5%B2%9A%E8%89%B2%E5%B7%A5%E5%9D%8Alogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e8\ns6%3A%E5%B2%9A%E8%89%B2%E5%B7%A5%E5%9D%8Alogo%2Ejpg.html -->
 
 岚色工坊 | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[嵐色工坊](http://lain.bgm.tv/pic/club/icon/l/000/00/00/93.jpg)
-  
-
-
-
-
+源地址：[嵐色工坊](http://lain.bgm.tv/pic/club/icon/l/000/00/00/93.jpg)  
 
 ---
 

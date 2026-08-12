@@ -1,18 +1,13 @@
 # 文件:Whiskycat_Workbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dd\ns6%3AWhiskycat_Workbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dd\ns6%3AWhiskycat_Workbanner%2Ejpg.html -->
 
 Whiskycat_Work | 社团LOGO
 
 
 ## 摘要
   
-源地址：[direct image link](https://web.archive.org/web/20190203224247im_/http://www.geocities.jp/trick_or_steal/bana.jpg), [source page](https://web.archive.org/web/20190204135328/http://www.geocities.jp/trick_or_steal/link.html)
-  
-
-
-
-
+源地址：[direct image link](https://web.archive.org/web/20190203224247im_/http://www.geocities.jp/trick_or_steal/bana.jpg), [source page](https://web.archive.org/web/20190204135328/http://www.geocities.jp/trick_or_steal/link.html)  
 
 ---
 

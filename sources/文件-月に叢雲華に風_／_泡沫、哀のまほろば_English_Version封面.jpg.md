@@ -1,6 +1,6 @@
 # 文件:月に叢雲華に風_／_泡沫、哀のまほろば_English_Version封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e3\ns6%3A%E6%9C%88%E3%81%AB%E5%8F%A2%E9%9B%B2%E8%8F%AF%E3%81%AB%E9%A2%A8_%EF%BC%8F_%E6%B3%A1%E6%B2%AB%E3%80%81%E5%93%80%E3%81%AE%E3%81%BE%E3%81%BB%E3%82%8D%E3%81%B0_English_Version%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e3\ns6%3A%E6%9C%88%E3%81%AB%E5%8F%A2%E9%9B%B2%E8%8F%AF%E3%81%AB%E9%A2%A8_%EF%BC%8F_%E6%B3%A1%E6%B2%AB%E3%80%81%E5%93%80%E3%81%AE%E3%81%BE%E3%81%BB%E3%82%8D%E3%81%B0_English_Version%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 少女フラクタル
 
@@ -11,9 +11,6 @@
   
 
 - [月に叢雲華に風／泡沫、哀のまほろば English Version](./月に叢雲華に風／泡沫、哀のまほろば_English_Version.md)
-
-
-
 
 
 ---

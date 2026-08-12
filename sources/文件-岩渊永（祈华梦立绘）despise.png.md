@@ -1,12 +1,8 @@
 # 文件:岩渊永（祈华梦立绘）despise.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e9\ns6%3A%E5%B2%A9%E6%B8%8A%E6%B0%B8%EF%BC%88%E7%A5%88%E5%8D%8E%E6%A2%A6%E7%AB%8B%E7%BB%98%EF%BC%89despise%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e9\ns6%3A%E5%B2%A9%E6%B8%8A%E6%B0%B8%EF%BC%88%E7%A5%88%E5%8D%8E%E6%A2%A6%E7%AB%8B%E7%BB%98%EF%BC%89despise%2Epng.html -->
 
 OSY搞事组 | 东方祈华梦制作组 | 二次角色立绘 | 岩渊永
-
-
-
-
 
 
 ---

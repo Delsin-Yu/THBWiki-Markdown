@@ -1,6 +1,6 @@
 # 文件:純化の定理、百合の花_-TABLETALK_ROLE_PLAY_IN_TOHO_9-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fb\ns6%3A%E7%B4%94%E5%8C%96%E3%81%AE%E5%AE%9A%E7%90%86%E3%80%81%E7%99%BE%E5%90%88%E3%81%AE%E8%8A%B1_-TABLETALK_ROLE_PLAY_IN_TOHO_9-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fb\ns6%3A%E7%B4%94%E5%8C%96%E3%81%AE%E5%AE%9A%E7%90%86%E3%80%81%E7%99%BE%E5%90%88%E3%81%AE%E8%8A%B1_-TABLETALK_ROLE_PLAY_IN_TOHO_9-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 天秤亭 | 封面图片
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [純化の定理、百合の花 -TABLETALK ROLE PLAY IN TOHO 9-](./純化の定理、百合の花_-TABLETALK_ROLE_PLAY_IN_TOHO_9-.md)  
-该封面包含的角色：- [纯狐](./纯狐.md)
+- [純化の定理、百合の花 -TABLETALK ROLE PLAY IN TOHO 9-](./純化の定理、百合の花_-TABLETALK_ROLE_PLAY_IN_TOHO_9-.md)该封面包含的角色：
+- [纯狐](./纯狐.md)
 
   
-源地址：[[1]](http://10bintei.com/images/produce20_01.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://10bintei.com/images/produce20_01.jpg)  
 
 ---
 

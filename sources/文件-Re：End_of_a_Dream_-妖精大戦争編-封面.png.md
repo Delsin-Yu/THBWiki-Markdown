@@ -1,6 +1,6 @@
 # 文件:Re：End_of_a_Dream_-妖精大戦争編-封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\81\ns6%3ARe%EF%BC%9AEnd_of_a_Dream_-%E5%A6%96%E7%B2%BE%E5%A4%A7%E6%88%A6%E4%BA%89%E7%B7%A8-%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\81\ns6%3ARe%EF%BC%9AEnd_of_a_Dream_-%E5%A6%96%E7%B2%BE%E5%A4%A7%E6%88%A6%E4%BA%89%E7%B7%A8-%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Astral_Sky | 专辑封面 | 封面图片 | 非可逆リズム
 
@@ -10,11 +10,11 @@ Astral_Sky | 专辑封面 | 封面图片 | 非可逆リズム
 使用了本文件作封面图片的作品：
   
 
-- [Re：End of a Dream -妖精大戦争編-](./Re：End_of_a_Dream_-妖精大戦争編-.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)- [露娜切露德](./露娜切露德.md)- [桑尼米尔克](./桑尼米尔克.md)- [斯塔萨菲雅](./斯塔萨菲雅.md)
-
-
-
+- [Re：End of a Dream -妖精大戦争編-](./Re：End_of_a_Dream_-妖精大戦争編-.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
+- [露娜切露德](./露娜切露德.md)
+- [桑尼米尔克](./桑尼米尔克.md)
+- [斯塔萨菲雅](./斯塔萨菲雅.md)
 
 
 ---

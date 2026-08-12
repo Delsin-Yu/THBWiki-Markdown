@@ -1,14 +1,11 @@
 # 文件:かくれざとうbanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2a\ns6%3A%E3%81%8B%E3%81%8F%E3%82%8C%E3%81%96%E3%81%A8%E3%81%86banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2a\ns6%3A%E3%81%8B%E3%81%8F%E3%82%8C%E3%81%96%E3%81%A8%E3%81%86banner%2Egif.html -->
 
 かくれざとう | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

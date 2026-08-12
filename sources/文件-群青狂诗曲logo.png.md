@@ -1,16 +1,12 @@
 # 文件:群青狂诗曲logo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\da\ns6%3A%E7%BE%A4%E9%9D%92%E7%8B%82%E8%AF%97%E6%9B%B2logo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\da\ns6%3A%E7%BE%A4%E9%9D%92%E7%8B%82%E8%AF%97%E6%9B%B2logo%2Epng.html -->
 
 社团LOGO | 群青狂诗曲
 
   
 群青狂诗曲LOGO
   
-
-
-
-
 
 ---
 

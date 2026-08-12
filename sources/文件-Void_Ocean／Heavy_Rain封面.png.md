@@ -1,6 +1,6 @@
 # 文件:Void_Ocean／Heavy_Rain封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ec\ns6%3AVoid_Ocean%EF%BC%8FHeavy_Rain%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ec\ns6%3AVoid_Ocean%EF%BC%8FHeavy_Rain%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Nami_Haven | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Nami_Haven | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Void Ocean／Heavy Rain](./Void_Ocean／Heavy_Rain.md)  
-该封面包含的角色：- [九十九弁弁](./九十九弁弁.md)
-
-
-
+- [Void Ocean／Heavy Rain](./Void_Ocean／Heavy_Rain.md)该封面包含的角色：
+- [九十九弁弁](./九十九弁弁.md)
 
 
 ---

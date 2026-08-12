@@ -1,6 +1,6 @@
 # 文件:rosa_canina_remixes封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4c\ns6%3Arosa_canina_remixes%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4c\ns6%3Arosa_canina_remixes%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 flap+frog | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ flap+frog | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [rosa canina remixes](./rosa_canina_remixes.md)  
-该封面包含的角色：- [茨木华扇](./茨木华扇.md)
-
-
-
+- [rosa canina remixes](./rosa_canina_remixes.md)该封面包含的角色：
+- [茨木华扇](./茨木华扇.md)
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:浸水「船底的维纳斯」（DS文花帖）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f0\ns6%3A%E6%B5%B8%E6%B0%B4%E3%80%8C%E8%88%B9%E5%BA%95%E7%9A%84%E7%BB%B4%E7%BA%B3%E6%96%AF%E3%80%8D%EF%BC%88DS%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f0\ns6%3A%E6%B5%B8%E6%B0%B4%E3%80%8C%E8%88%B9%E5%BA%95%E7%9A%84%E7%BB%B4%E7%BA%B3%E6%96%AF%E3%80%8D%EF%BC%88DS%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Ejpg.html -->
 
 东方文花帖DS | 敌机符卡 | 村纱水蜜
-
-
-
-
 
 
 ---

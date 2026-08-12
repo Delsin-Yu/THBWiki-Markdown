@@ -1,16 +1,11 @@
 # 文件:死んだ細胞の塊banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\34\ns6%3A%E6%AD%BB%E3%82%93%E3%81%A0%E7%B4%B0%E8%83%9E%E3%81%AE%E5%A1%8Abanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\34\ns6%3A%E6%AD%BB%E3%82%93%E3%81%A0%E7%B4%B0%E8%83%9E%E3%81%AE%E5%A1%8Abanner%2Epng.html -->
 
 死んだ細胞の塊 | 社团LOGO
 
   
-源地址: [[1]](https://static.wixstatic.com/media/dfa635_d8721f6c6e6e44d8bbccd37a6d009182.png/v1/fill/w_388,h_388,al_c,usm_0.66_1.00_0.01/dfa635_d8721f6c6e6e44d8bbccd37a6d009182.png)
-  
-
-
-
-
+源地址: [\[1\]](https://static.wixstatic.com/media/dfa635_d8721f6c6e6e44d8bbccd37a6d009182.png/v1/fill/w_388,h_388,al_c,usm_0.66_1.00_0.01/dfa635_d8721f6c6e6e44d8bbccd37a6d009182.png)  
 
 ---
 

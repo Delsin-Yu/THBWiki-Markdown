@@ -1,16 +1,11 @@
 # 文件:Lobgesangbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ee\ns6%3ALobgesangbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ee\ns6%3ALobgesangbanner%2Ejpg.html -->
 
 Lobgesang | 社团LOGO
 
   
-源地址: [[1]](http://lobgesang.net/main/image/lobgesang.jpg)
-  
-
-
-
-
+源地址: [\[1\]](http://lobgesang.net/main/image/lobgesang.jpg)  
 
 ---
 

@@ -1,12 +1,8 @@
 # 文件:おそら区banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\82\ns6%3A%E3%81%8A%E3%81%9D%E3%82%89%E5%8C%BAbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\82\ns6%3A%E3%81%8A%E3%81%9D%E3%82%89%E5%8C%BAbanner%2Epng.html -->
 
 おそら区 | 社团LOGO
-
-
-
-
 
 
 ---

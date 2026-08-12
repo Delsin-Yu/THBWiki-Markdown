@@ -1,6 +1,6 @@
 # 文件:神風_-_Piano_&_Vocal_Version_-封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ee\ns6%3A%E7%A5%9E%E9%A2%A8_-_Piano_%26_Vocal_Version_-%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ee\ns6%3A%E7%A5%9E%E9%A2%A8_-_Piano_%26_Vocal_Version_-%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Liz_Triangle | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Liz_Triangle | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [神風 - Piano &amp; Vocal Version -](./神風_-_Piano_&_Vocal_Version_-.md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)
-
-
-
+- [神風 - Piano & Vocal Version -](./神風_-_Piano_&_Vocal_Version_-.md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
 
 
 ---

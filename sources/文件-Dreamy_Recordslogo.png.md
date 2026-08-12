@@ -1,18 +1,13 @@
 # 文件:Dreamy_Recordslogo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f0\ns6%3ADreamy_Recordslogo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f0\ns6%3ADreamy_Recordslogo%2Epng.html -->
 
 Dreamy_Records | 社团LOGO
 
 
 ## 摘要
   
-源地址：[direct image link](https://dreamy-records.net/wp-content/uploads/2024/05/透過.png), [source page](https://dreamy-records.net/about/)
-  
-
-
-
-
+源地址：[direct image link](https://dreamy-records.net/wp-content/uploads/2024/05/透過.png), [source page](https://dreamy-records.net/about/)  
 
 ---
 

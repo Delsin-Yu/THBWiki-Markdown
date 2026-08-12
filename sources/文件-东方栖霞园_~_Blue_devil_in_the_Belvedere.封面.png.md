@@ -1,6 +1,6 @@
 # 文件:东方栖霞园_~_Blue_devil_in_the_Belvedere.封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6c\ns6%3A%E4%B8%9C%E6%96%B9%E6%A0%96%E9%9C%9E%E5%9B%AD_%7E_Blue_devil_in_the_Belvedere%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6c\ns6%3A%E4%B8%9C%E6%96%B9%E6%A0%96%E9%9C%9E%E5%9B%AD_%7E_Blue_devil_in_the_Belvedere%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 东方祈华梦制作组 | 封面图片 | 软件封面
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [东方栖霞园 ~ Blue devil in the Belvedere.](./东方栖霞园_~_Blue_devil_in_the_Belvedere..md)  
-该封面包含的角色：- [索妮亚·冯·奥尔斯佩](./索妮亚·冯·奥尔斯佩.md)
-
-
-
+- [东方栖霞园 ~ Blue devil in the Belvedere.](./东方栖霞园_~_Blue_devil_in_the_Belvedere..md)该封面包含的角色：
+- [索妮亚·冯·奥尔斯佩](./索妮亚·冯·奥尔斯佩.md)
 
 
 ---

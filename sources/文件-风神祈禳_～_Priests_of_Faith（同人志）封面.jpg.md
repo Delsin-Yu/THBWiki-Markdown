@@ -1,6 +1,6 @@
 # 文件:风神祈禳_～_Priests_of_Faith（同人志）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ee\ns6%3A%E9%A3%8E%E7%A5%9E%E7%A5%88%E7%A6%B3_%EF%BD%9E_Priests_of_Faith%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ee\ns6%3A%E9%A3%8E%E7%A5%9E%E7%A5%88%E7%A6%B3_%EF%BD%9E_Priests_of_Faith%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ComicFishing | U235核燃动力 | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@ ComicFishing | U235核燃动力 | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [风神祈禳 ～ Priests of Faith（同人志）](./风神祈禳_～_Priests_of_Faith（同人志）.md)  
-该封面包含的角色：- [键山雏](./键山雏.md)
-
-
-
+- [风神祈禳 ～ Priests of Faith（同人志）](./风神祈禳_～_Priests_of_Faith（同人志）.md)该封面包含的角色：
+- [键山雏](./键山雏.md)
 
 
 ---

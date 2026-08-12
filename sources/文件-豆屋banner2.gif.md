@@ -1,14 +1,11 @@
 # 文件:豆屋banner2.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f0\ns6%3A%E8%B1%86%E5%B1%8Bbanner2%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f0\ns6%3A%E8%B1%86%E5%B1%8Bbanner2%2Egif.html -->
 
 社团LOGO | 豆屋
 
 
 ## 摘要
-
-
-
 
 ---
 

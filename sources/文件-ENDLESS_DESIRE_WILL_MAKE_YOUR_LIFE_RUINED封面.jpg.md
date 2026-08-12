@@ -1,6 +1,6 @@
 # 文件:ENDLESS_DESIRE_WILL_MAKE_YOUR_LIFE_RUINED封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e8\ns6%3AENDLESS_DESIRE_WILL_MAKE_YOUR_LIFE_RUINED%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e8\ns6%3AENDLESS_DESIRE_WILL_MAKE_YOUR_LIFE_RUINED%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 situation_report | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ situation_report | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [ENDLESS DESIRE WILL MAKE YOUR LIFE RUINED](./ENDLESS_DESIRE_WILL_MAKE_YOUR_LIFE_RUINED.md)  
-该封面包含的角色：- [丰聪耳神子](./丰聪耳神子.md)
-
-
-
+- [ENDLESS DESIRE WILL MAKE YOUR LIFE RUINED](./ENDLESS_DESIRE_WILL_MAKE_YOUR_LIFE_RUINED.md)该封面包含的角色：
+- [丰聪耳神子](./丰聪耳神子.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:東方求霖忍_～_Realizzando_Difficile_Decisione.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\66\ns6%3A%E6%9D%B1%E6%96%B9%E6%B1%82%E9%9C%96%E5%BF%8D_%EF%BD%9E_Realizzando_Difficile_Decisione%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\66\ns6%3A%E6%9D%B1%E6%96%B9%E6%B1%82%E9%9C%96%E5%BF%8D_%EF%BD%9E_Realizzando_Difficile_Decisione%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 封面图片 | 软件封面 | 遊色高楼
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方求霖忍 ～ Realizzando Difficile Decisione.](./東方求霖忍_～_Realizzando_Difficile_Decisione..md)  
-该封面包含的角色：- 污忍 (未找到链接)
-
-
-
+- [東方求霖忍 ～ Realizzando Difficile Decisione.](./東方求霖忍_～_Realizzando_Difficile_Decisione..md)该封面包含的角色：
+- 污忍 (未找到链接)
 
 
 ---

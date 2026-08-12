@@ -1,40 +1,30 @@
 # 蓬莱幻想_～_far_East
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\0a\ns0%3A%E8%93%AC%E8%8E%B1%E5%B9%BB%E6%83%B3_%EF%BD%9E_far_East.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\0a\ns0%3A%E8%93%AC%E8%8E%B1%E5%B9%BB%E6%83%B3_%EF%BD%9E_far_East.html -->
 
 由 ZUN 创作的官方曲目，原名 蓬莱幻想　～ far East
 
 本页是关于东方Project  
- **原作音乐** 的词条
-
+**原作音乐**的词条
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 出现作品](#出现作品)
 - [3 音乐文件](#音乐文件)
-
   - [3.1 东方幻想的音乐](#东方幻想的音乐)
 
 
-
 - [4 说明文本](#说明文本)
-
   - [4.1 东方幻想的音乐](#东方幻想的音乐_2)
 
 
-
 - [5 其他资料](#其他资料)
-
   - [5.1 乐理资讯](#乐理资讯)
   - [5.2 分析考据](#分析考据)
   - [5.3 二次同人数据](#二次同人数据)
 
 
-
 - [6 注释](#注释)
-
-
-
 
 
 ## 基本信息
@@ -42,14 +32,12 @@
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">蓬莱幻想　～ far East</td></tr><tr><td><b>译名</b></td><td>蓬莱幻想 ～ far East</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 蓬莱幻想 ～ far East（曲目） - 由 ZUN 创作的官方曲目，原名 蓬莱幻想　～ far East
-
 ## 出现作品
 
 <table>
 <tbody><tr><td>2000年12月30日（Comic Market 59）</td><td><b><a href="./秋霜玉.md" title="秋霜玉">秋霜玉</a></b></td><td>Extra面主题曲（未使用）</td><td style="padding-left:5px;">蓬莱幻想　～ far East（蓬莱幻想 ～ far East）</td><td style="padding-left:10px;">作曲：ZUN</td></tr>
 <tr><td>2001年01月14日（非展会）</td><td><b><a href="./东方幻想的音乐.md" title="东方幻想的音乐">东方幻想的音乐</a></b></td><td>ZUN's Strange Work第六曲</td><td style="padding-left:5px;">蓬莱幻想　～ far East（蓬莱幻想 ～ far East）</td><td style="padding-left:10px;">作曲：ZUN</td></tr>
 </tbody></table>
-
 
 
 ## 音乐文件
@@ -59,11 +47,11 @@
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td><a href="./文件-zun006.mid.md" title="文件:zun006.mid">zun006.mid</a></td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-zun_006.mp3.md" title="文件:zun 006.mp3">zun_006.mp3</a><br><audio src="https://upload.thwiki.cc/8/87/zun_006.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>zun006.mid</td></tr><tr><td><b>音轨时长</b></td><td>4:50</td></tr></tbody></table>
 
 
-
 ## 说明文本
 
 ### 东方幻想的音乐
-- zun006.txt (未找到链接)
+
+- [zun006.txt](./东方幻想的音乐-过去的曲子-其他的作品.md#蓬莱幻想_～_far_East)
 
 +----------------------------------------------------------------------------+  
 |【 　 曲名　　】| 【 蓬莱幻想　～ far East 】  
@@ -104,7 +92,6 @@
 曲子的感想、请求等，这边请  
 　东方幻想空间　「博丽神社」 http://www16.big.or.jp/~zun/  
 　e-Mail                     zun@big.or.jp
-
 ## 其他资料
 
 ### 乐理资讯
@@ -123,18 +110,6 @@
 <tr><td>Arrange</td><td>27</td></tr>
 <tr><td>Vocal率</td><td>6.9%</td></tr>
 </tbody></table>
-
-
-
-
-
-  
-  
-
-  
-
-
-
 
 
 ---

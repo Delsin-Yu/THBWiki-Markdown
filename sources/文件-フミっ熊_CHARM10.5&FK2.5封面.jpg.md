@@ -1,6 +1,6 @@
 # 文件:フミっ熊_CHARM10.5&FK2.5封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b5\ns6%3A%E3%83%95%E3%83%9F%E3%81%A3%E7%86%8A_CHARM10%2E5%26FK2%2E5%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b5\ns6%3A%E3%83%95%E3%83%9F%E3%81%A3%E7%86%8A_CHARM10%2E5%26FK2%2E5%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ネオサイクロン中指 | フミンバイン | 同人志封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [フミっ熊 CHARM10.5&amp;FK2.5](./フミっ熊_CHARM10.5&FK2.5.md)  
-该封面包含的角色：- [橙](./橙.md)
-
-
-
+- [フミっ熊 CHARM10.5&FK2.5](./フミっ熊_CHARM10.5&FK2.5.md)该封面包含的角色：
+- [橙](./橙.md)
 
 
 ---

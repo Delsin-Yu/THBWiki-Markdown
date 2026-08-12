@@ -1,6 +1,6 @@
 # 文件:Ulka_-前編-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\53\ns6%3AUlka_-%E5%89%8D%E7%B7%A8-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\53\ns6%3AUlka_-%E5%89%8D%E7%B7%A8-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 World_Maker | 同人志封面 | 封面图片
 
@@ -10,11 +10,11 @@ World_Maker | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Ulka -前編-](./Ulka_-前編-.md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)- [犬走椛](./犬走椛.md)- [姬海棠果](./姬海棠果.md)- [天狗](./天狗.md)
-
-
-
+- [Ulka -前編-](./Ulka_-前編-.md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
+- [犬走椛](./犬走椛.md)
+- [姬海棠果](./姬海棠果.md)
+- [天狗](./天狗.md)
 
 
 ---

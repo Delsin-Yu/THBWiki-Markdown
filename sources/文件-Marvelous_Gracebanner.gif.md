@@ -1,14 +1,11 @@
 # 文件:Marvelous_Gracebanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b5\ns6%3AMarvelous_Gracebanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b5\ns6%3AMarvelous_Gracebanner%2Egif.html -->
 
 Marvelous_Grace | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

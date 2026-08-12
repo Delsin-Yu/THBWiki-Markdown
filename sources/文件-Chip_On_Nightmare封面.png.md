@@ -1,6 +1,6 @@
 # 文件:Chip_On_Nightmare封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\14\ns6%3AChip_On_Nightmare%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\14\ns6%3AChip_On_Nightmare%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Xenoglossy | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Xenoglossy | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Chip On Nightmare](./Chip_On_Nightmare.md)  
-该封面包含的角色：- [古明地觉](./古明地觉.md)
-
-
-
+- [Chip On Nightmare](./Chip_On_Nightmare.md)该封面包含的角色：
+- [古明地觉](./古明地觉.md)
 
 
 ---

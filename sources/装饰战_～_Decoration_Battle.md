@@ -1,46 +1,34 @@
 # 装饰战_～_Decoration_Battle
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\4e\ns0%3A%E8%A3%85%E9%A5%B0%E6%88%98_%EF%BD%9E_Decoration_Battle.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\4e\ns0%3A%E8%A3%85%E9%A5%B0%E6%88%98_%EF%BD%9E_Decoration_Battle.html -->
 
 由 ZUN 创作的官方曲目，原名 装飾戦　～ Decoration Battle
 
 本页是关于东方Project  
- **原作音乐** 的词条
-
+**原作音乐**的词条
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 出现作品](#出现作品)
 - [3 音乐文件](#音乐文件)
-
   - [3.1 东方幻想乡](#东方幻想乡)
   - [3.2 东方怪绮谈](#东方怪绮谈)
   - [3.3 幺乐团的历史 vol.1](#幺乐团的历史_vol.1)
-
     - [3.3.1 DISC A](#DISC_A)
     - [3.3.2 DISC B](#DISC_B)
 
 
 
 
-
-
 - [4 说明文本](#说明文本)
-
   - [4.1 东方幻想乡](#东方幻想乡_2)
   - [4.2 东方怪绮谈](#东方怪绮谈_2)
 
 
-
 - [5 其他资料](#其他资料)
-
   - [5.1 乐理资讯](#乐理资讯)
   - [5.2 分析考据](#分析考据)
   - [5.3 二次同人数据](#二次同人数据)
-
-
-
-
 
 
 
@@ -50,7 +38,6 @@
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">装飾戦　～ Decoration Battle</td></tr><tr><td><b>译名</b></td><td>装饰战 ～ Decoration Battle</td></tr><tr><td><b>英文译名</b></td><td>Decoration Battle</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 装饰战 ～ Decoration Battle（曲目） - 由 ZUN 创作的官方曲目，原名 装飾戦　～ Decoration Battle
-
 ## 出现作品
 
 <table>
@@ -61,7 +48,6 @@
 </tbody></table>
 
 
-
 ## 音乐文件
 
 ### 东方幻想乡
@@ -69,17 +55,13 @@
 YM2203(OPN)，FM26K音源版。
   
 
-
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th04_04_26.ogg.md" title="文件:th04 04 26.ogg">th04_04_26.ogg</a><br><audio src="https://upload.thwiki.cc/7/72/th04_04_26.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>ST00B.M26</td></tr><tr><td><b>音轨时长</b></td><td>1:48.684</td></tr></tbody></table>
-
 
   
 YM2608(OPNA)，FM86音源版。
   
 
-
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th04_04_86.ogg.md" title="文件:th04 04 86.ogg">th04_04_86.ogg</a><br><audio src="https://upload.thwiki.cc/7/72/th04_04_86.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>ST00B.M86</td></tr><tr><td><b>音轨时长</b></td><td>1:48.684</td></tr></tbody></table>
-
 
 
 ### 东方怪绮谈
@@ -87,17 +69,13 @@ YM2608(OPNA)，FM86音源版。
 YM2203(OPN)，FM26K音源版。
   
 
-
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th05_G_04_26.ogg.md" title="文件:th05 G 04 26.ogg">th05_G_04_26.ogg</a><br><audio src="https://upload.thwiki.cc/d/da/th05_G_04_26.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>G_ST00B.M</td></tr><tr><td><b>音轨时长</b></td><td>1:48.684</td></tr></tbody></table>
-
 
   
 YM2608(OPNA)，FM86音源版。
   
 
-
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th05_G_04_86.ogg.md" title="文件:th05 G 04 86.ogg">th05_G_04_86.ogg</a><br><audio src="https://upload.thwiki.cc/3/3d/th05_G_04_86.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>G_ST00B.M2</td></tr><tr><td><b>音轨时长</b></td><td>1:48.684</td></tr></tbody></table>
-
 
 
 ### 幺乐团的历史 vol.1
@@ -107,17 +85,16 @@ YM2608(OPNA)，FM86音源版。
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-ha01a_04.mp3.md" title="文件:ha01a 04.mp3">ha01a_04.mp3</a><br><audio src="https://upload.thwiki.cc/2/28/ha01a_04.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track04.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>2:40</td></tr></tbody></table>
 
 
-
 #### DISC B
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-ha01b_14.mp3.md" title="文件:ha01b 14.mp3">ha01b_14.mp3</a><br><audio src="https://upload.thwiki.cc/2/2e/ha01b_14.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track14.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>2:20</td></tr></tbody></table>
 
 
-
 ## 说明文本
 
 ### 东方幻想乡
-- Music Room (未找到链接)
+
+- [Music Room](./东方幻想乡-Music.md#1面BOSS奥莲姬角色曲)
 
 　　　　　　一面BOSS的主题曲  
 　一面BOSS曲很难做啊。  
@@ -137,9 +114,9 @@ YM2608(OPNA)，FM86音源版。
 ＺＵＮ（太田）  
 用于东方幻想乡的曲子  
 用于boss曲子
-
 ### 东方怪绮谈
-- Music Room (未找到链接)
+
+- [Music Room](./东方怪绮谈-Music.md#1面BOSS奥莲姬角色曲)
 
 １面BOSS的主题曲Decoration Battle (26)  
 ＺＵＮ（太田）  
@@ -148,21 +125,21 @@ YM2608(OPNA)，FM86音源版。
 ＺＵＮ（太田）  
 用于东方幻想乡的曲子。  
 用于boss曲
-
 ## 其他资料
 
 ### 乐理资讯
 
 ### 分析考据
   
- **装飾戦　～ Decoration Battle** 
-  
+**装飾戦 ～ Decoration Battle**  
 装饰战 ～ Decoration Battle
   
 
-- 装饰战
-  - 装饰线（即中文语境下的分割线）？
+- 装饰战 
+  - 装饰线（即中文语境下的分割线）？ 
     - 分割线将非正式内容与正式内容区分开，此处是指奥莲姬对于灵梦算是“规格外”的战斗？
+
+
 
 
 
@@ -179,17 +156,6 @@ YM2608(OPNA)，FM86音源版。
 <tr><td>Arrange</td><td>25</td></tr>
 <tr><td>Vocal率</td><td>26.47%</td></tr>
 </tbody></table>
-
-
-
-
-  
-  
-
-  
-
-
-
 
 
 ---

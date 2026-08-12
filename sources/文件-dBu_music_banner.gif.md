@@ -1,12 +1,8 @@
 # 文件:dBu_music_banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\74\ns6%3AdBu_music_banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\74\ns6%3AdBu_music_banner%2Egif.html -->
 
 dBu_music | 社团LOGO
-
-
-
-
 
 
 ---

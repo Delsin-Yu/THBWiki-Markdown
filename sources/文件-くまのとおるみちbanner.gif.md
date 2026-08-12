@@ -1,12 +1,8 @@
 # 文件:くまのとおるみちbanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2d\ns6%3A%E3%81%8F%E3%81%BE%E3%81%AE%E3%81%A8%E3%81%8A%E3%82%8B%E3%81%BF%E3%81%A1banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2d\ns6%3A%E3%81%8F%E3%81%BE%E3%81%AE%E3%81%A8%E3%81%8A%E3%82%8B%E3%81%BF%E3%81%A1banner%2Egif.html -->
 
 くまのとおるみち | 社团LOGO
-
-
-
-
 
 
 ---

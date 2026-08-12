@@ -1,12 +1,8 @@
 # 文件:THD2迅捷扫把.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c0\ns6%3ATHD2%E8%BF%85%E6%8D%B7%E6%89%AB%E6%8A%8A%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c0\ns6%3ATHD2%E8%BF%85%E6%8D%B7%E6%89%AB%E6%8A%8A%2Epng.html -->
 
 AvalonStudioOfficial
-
-
-
-
 
 
 ---

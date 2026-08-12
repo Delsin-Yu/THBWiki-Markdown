@@ -1,6 +1,6 @@
 # 文件:サリー_Presents_プレイリスト②封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\01\ns6%3A%E3%82%B5%E3%83%AA%E3%83%BC_Presents_%E3%83%97%E3%83%AC%E3%82%A4%E3%83%AA%E3%82%B9%E3%83%88%E2%91%A1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\01\ns6%3A%E3%82%B5%E3%83%AA%E3%83%BC_Presents_%E3%83%97%E3%83%AC%E3%82%A4%E3%83%AA%E3%82%B9%E3%83%88%E2%91%A1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 サリー | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [サリー Presents プレイリスト②](./サリー_Presents_プレイリスト②.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [鬼人正邪](./鬼人正邪.md)
-
-
-
+- [サリー Presents プレイリスト②](./サリー_Presents_プレイリスト②.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [鬼人正邪](./鬼人正邪.md)
 
 
 ---

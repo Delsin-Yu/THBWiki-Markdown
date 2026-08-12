@@ -1,6 +1,6 @@
 # 文件:Sept_florum封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9a\ns6%3ASept_florum%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9a\ns6%3ASept_florum%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 梶迫小道具店
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Sept florum](./Sept_florum.md)  
-该封面包含的角色：- [宇佐见莲子](./宇佐见莲子.md)
+- [Sept florum](./Sept_florum.md)该封面包含的角色：
+- [宇佐见莲子](./宇佐见莲子.md)
 
   
-源地址：[[1]](http://static.tumblr.com/683044db323bf1fe277335563d2e5a02/ceutwp6/uM4nrr3j6/tumblr_static_7zj18h5m1u88kgw4k8088s0kc.png)
-  
-
-
-
-
+源地址：[\[1\]](http://static.tumblr.com/683044db323bf1fe277335563d2e5a02/ceutwp6/uM4nrr3j6/tumblr_static_7zj18h5m1u88kgw4k8088s0kc.png)  
 
 ---
 

@@ -1,16 +1,11 @@
 # 文件:フーリンキャットマークbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\50\ns6%3A%E3%83%95%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%AD%E3%83%A3%E3%83%83%E3%83%88%E3%83%9E%E3%83%BC%E3%82%AFbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\50\ns6%3A%E3%83%95%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%AD%E3%83%A3%E3%83%83%E3%83%88%E3%83%9E%E3%83%BC%E3%82%AFbanner%2Epng.html -->
 
 フーリンキャットマーク | 社团LOGO
 
   
-源地址：[[1]](https://static.wixstatic.com/media/d17791_d5320fb33c7347f18d5bd6a3d210e233~mv2.png/v1/fill/w_274,h_222,al_c,usm_0.66_1.00_0.01/d17791_d5320fb33c7347f18d5bd6a3d210e233~mv2.png)
-  
-
-
-
-
+源地址：[\[1\]](https://static.wixstatic.com/media/d17791_d5320fb33c7347f18d5bd6a3d210e233~mv2.png/v1/fill/w_274,h_222,al_c,usm_0.66_1.00_0.01/d17791_d5320fb33c7347f18d5bd6a3d210e233~mv2.png)  
 
 ---
 

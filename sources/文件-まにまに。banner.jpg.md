@@ -1,14 +1,11 @@
 # 文件:まにまに。banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9e\ns6%3A%E3%81%BE%E3%81%AB%E3%81%BE%E3%81%AB%E3%80%82banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9e\ns6%3A%E3%81%BE%E3%81%AB%E3%81%BE%E3%81%AB%E3%80%82banner%2Ejpg.html -->
 
 まにまに。 | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

@@ -1,18 +1,13 @@
 # 文件:暴LADYlogo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4d\ns6%3A%E6%9A%B4LADYlogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4d\ns6%3A%E6%9A%B4LADYlogo%2Ejpg.html -->
 
 暴LADY | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[twitter avatar](https://pbs.twimg.com/profile_images/911589610358169601/BbEW-8Om_400x400.jpg)
-  
-
-
-
-
+源地址：[twitter avatar](https://pbs.twimg.com/profile_images/911589610358169601/BbEW-8Om_400x400.jpg)  
 
 ---
 

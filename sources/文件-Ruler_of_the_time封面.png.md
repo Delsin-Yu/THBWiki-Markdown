@@ -1,6 +1,6 @@
 # 文件:Ruler_of_the_time封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\57\ns6%3ARuler_of_the_time%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\57\ns6%3ARuler_of_the_time%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 No_Gimmick_No_Life | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ No_Gimmick_No_Life | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Ruler of the time](./Ruler_of_the_time.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)
-
-
-
+- [Ruler of the time](./Ruler_of_the_time.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
 
 
 ---

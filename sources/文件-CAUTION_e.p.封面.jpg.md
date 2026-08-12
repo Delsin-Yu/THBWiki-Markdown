@@ -1,6 +1,6 @@
 # 文件:CAUTION_e.p.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fe\ns6%3ACAUTION_e%2Ep%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fe\ns6%3ACAUTION_e%2Ep%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 As／Hi_Soundworks | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ As／Hi_Soundworks | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [CAUTION e.p.](./CAUTION_e.p..md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)
+- [CAUTION e.p.](./CAUTION_e.p..md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
 
   
-源地址：[[1]](http://static.tumblr.com/08109e95fa8ed3ad853ae6457e3ac113/0ahxako/nwVngoyab/tumblr_static_6zhvgc2v6vgo8s0gkk80wg0wc.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://static.tumblr.com/08109e95fa8ed3ad853ae6457e3ac113/0ahxako/nwVngoyab/tumblr_static_6zhvgc2v6vgo8s0gkk80wg0wc.jpg)  
 
 ---
 

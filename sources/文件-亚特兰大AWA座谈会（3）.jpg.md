@@ -1,12 +1,8 @@
 # 文件:亚特兰大AWA座谈会（3）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\52\ns6%3A%E4%BA%9A%E7%89%B9%E5%85%B0%E5%A4%A7AWA%E5%BA%A7%E8%B0%88%E4%BC%9A%EF%BC%883%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\52\ns6%3A%E4%BA%9A%E7%89%B9%E5%85%B0%E5%A4%A7AWA%E5%BA%A7%E8%B0%88%E4%BC%9A%EF%BC%883%EF%BC%89%2Ejpg.html -->
 
 ZUN
-
-
-
-
 
 
 ---

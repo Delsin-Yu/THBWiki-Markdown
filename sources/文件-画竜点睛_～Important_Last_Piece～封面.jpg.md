@@ -1,6 +1,6 @@
 # 文件:画竜点睛_～Important_Last_Piece～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7c\ns6%3A%E7%94%BB%E7%AB%9C%E7%82%B9%E7%9D%9B_%EF%BD%9EImportant_Last_Piece%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7c\ns6%3A%E7%94%BB%E7%AB%9C%E7%82%B9%E7%9D%9B_%EF%BD%9EImportant_Last_Piece%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 神像彫刻家
 
@@ -11,9 +11,6 @@
   
 
 - [画竜点睛 ～Important Last Piece～](./画竜点睛_～Important_Last_Piece～.md)
-
-
-
 
 
 ---

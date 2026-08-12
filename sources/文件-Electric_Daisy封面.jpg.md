@@ -1,6 +1,6 @@
 # 文件:Electric_Daisy封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\42\ns6%3AElectric_Daisy%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\42\ns6%3AElectric_Daisy%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 マスカルポーネ | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Electric Daisy](./Electric_Daisy.md)  
-该封面包含的角色：- [灵乌路空](./灵乌路空.md)
+- [Electric Daisy](./Electric_Daisy.md)该封面包含的角色：
+- [灵乌路空](./灵乌路空.md)
 
   
-源地址：[[1]](https://www.pixiv.net/member_illust.php?mode=medium&amp;illust_id=43281196)
-  
-
-
-
-
+源地址：[\[1\]](https://www.pixiv.net/member_illust.php?mode=medium&illust_id=43281196)  
 
 ---
 

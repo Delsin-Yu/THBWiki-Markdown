@@ -1,6 +1,6 @@
 # 文件:HAPPY_RABBIT／Slack_Bind封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\51\ns6%3AHAPPY_RABBIT%EF%BC%8FSlack_Bind%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\51\ns6%3AHAPPY_RABBIT%EF%BC%8FSlack_Bind%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 マスカルポーネ | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [HAPPY RABBIT／Slack Bind](./HAPPY_RABBIT／Slack_Bind.md)  
-该封面包含的角色：- [因幡帝](./因幡帝.md)
+- [HAPPY RABBIT／Slack Bind](./HAPPY_RABBIT／Slack_Bind.md)该封面包含的角色：
+- [因幡帝](./因幡帝.md)
 
   
-源地址：[[1]](https://cdn.melonbooks.co.jp/user_data/packages/resize_image.php?image=213001014987.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://cdn.melonbooks.co.jp/user_data/packages/resize_image.php?image=213001014987.jpg)  
 
 ---
 

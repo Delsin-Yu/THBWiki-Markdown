@@ -1,6 +1,6 @@
 # 文件:Secret_Journey封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4c\ns6%3ASecret_Journey%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4c\ns6%3ASecret_Journey%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 DragonTree_MusicTroops | のんすとろ～る | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ DragonTree_MusicTroops | のんすとろ～る | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Secret Journey](./Secret_Journey.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
-
-
-
+- [Secret Journey](./Secret_Journey.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
 
 ---

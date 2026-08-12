@@ -1,12 +1,8 @@
 # 文件:视符「Nazrin_Pendulum」（星莲船）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\07\ns6%3A%E8%A7%86%E7%AC%A6%E3%80%8CNazrin_Pendulum%E3%80%8D%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\07\ns6%3A%E8%A7%86%E7%AC%A6%E3%80%8CNazrin_Pendulum%E3%80%8D%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%EF%BC%89%2Epng.html -->
 
 东方星莲船 | 娜兹玲 | 敌机符卡
-
-
-
-
 
 
 ---

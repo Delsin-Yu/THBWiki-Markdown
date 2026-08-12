@@ -1,12 +1,8 @@
 # 文件:THD2博丽神社护身符.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\51\ns6%3ATHD2%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E6%8A%A4%E8%BA%AB%E7%AC%A6%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\51\ns6%3ATHD2%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E6%8A%A4%E8%BA%AB%E7%AC%A6%2Epng.html -->
 
 THD2
-
-
-
-
 
 
 ---

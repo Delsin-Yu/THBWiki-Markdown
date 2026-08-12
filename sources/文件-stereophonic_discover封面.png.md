@@ -1,6 +1,6 @@
 # 文件:stereophonic_discover封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1a\ns6%3Astereophonic_discover%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1a\ns6%3Astereophonic_discover%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 flap+frog | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ flap+frog | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [stereophonic discover](./stereophonic_discover.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
-
-
-
+- [stereophonic discover](./stereophonic_discover.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
 
 
 ---

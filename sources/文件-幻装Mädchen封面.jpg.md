@@ -1,6 +1,6 @@
 # 文件:幻装Mädchen封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0a\ns6%3A%E5%B9%BB%E8%A3%85M%C3%A4dchen%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0a\ns6%3A%E5%B9%BB%E8%A3%85M%C3%A4dchen%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 メアリアンブルー | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [幻装Mädchen](./幻装Mädchen.md)  
-该封面包含的角色：- [雾雨魔理沙（旧作角色）](./雾雨魔理沙（旧作角色）.md)
-
-
-
+- [幻装Mädchen](./幻装Mädchen.md)该封面包含的角色：
+- [雾雨魔理沙（旧作角色）](./雾雨魔理沙（旧作角色）.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Fateful_blossoms封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\be\ns6%3AFateful_blossoms%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\be\ns6%3AFateful_blossoms%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 circle-rw | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ circle-rw | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Fateful blossoms](./Fateful_blossoms.md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)- [西行寺幽幽子](./西行寺幽幽子.md)
-
-
-
+- [Fateful blossoms](./Fateful_blossoms.md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
+- [西行寺幽幽子](./西行寺幽幽子.md)
 
 
 ---

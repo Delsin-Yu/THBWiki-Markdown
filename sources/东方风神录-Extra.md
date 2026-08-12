@@ -1,18 +1,17 @@
 # 东方风神录/Extra
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\3\3e\ns0%3A%E4%B8%9C%E6%96%B9%E9%A3%8E%E7%A5%9E%E5%BD%95%2FExtra.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\3\3e\ns0%3A%E4%B8%9C%E6%96%B9%E9%A3%8E%E7%A5%9E%E5%BD%95%2FExtra.html -->
 
 东方风神录
 
 <center>
-
 <table>
 <tbody><tr>
-<td>&lt;
+<td><
 </td>
-<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./东方风神录-Stage_6.md" title="东方风神录/Stage 6">Stage 6</a>&#160;
+<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./东方风神录-Stage_6.md" title="东方风神录/Stage 6">Stage 6</a> 
 </td>
-<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="./东方风神录.md" title="东方风神录">符卡</a>&#160;
+<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;"> <a href="./东方风神录.md" title="东方风神录">符卡</a> 
 </td>
 <td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left">
 </td>
@@ -21,103 +20,70 @@
 
   
 </center>
-- 本词条内容为官方游戏TH10 **东方风神录** 的敌机符卡
+- 本词条内容为官方游戏TH10**东方风神录**的敌机符卡
 
 
 ## 目录
 
 - [1 八坂神奈子](#八坂神奈子)
-
   - [1.1 神符「如水眼之美丽源泉」](#神符「如水眼之美丽源泉」)
-
     - [1.1.1 符卡信息](#符卡信息)
 
 
-
   - [1.2 神符「结于杉木之古缘」](#神符「结于杉木之古缘」)
-
     - [1.2.1 符卡信息](#符卡信息_2)
 
 
-
   - [1.3 神符「神所踏足之御神渡」](#神符「神所踏足之御神渡」)
-
     - [1.3.1 符卡信息](#符卡信息_3)
 
 
 
 
-
-
 - [2 洩矢诹访子](#洩矢诹访子)
-
   - [2.1 开宴「二拜二拍一拜」](#开宴「二拜二拍一拜」)
-
     - [2.1.1 符卡信息](#符卡信息_4)
 
 
-
   - [2.2 土著神「手长足长大人」](#土著神「手长足长大人」)
-
     - [2.2.1 符卡信息](#符卡信息_5)
 
 
-
   - [2.3 神具「洩矢的铁轮」](#神具「洩矢的铁轮」)
-
     - [2.3.1 符卡信息](#符卡信息_6)
 
 
-
   - [2.4 源符「厌川的翡翠」](#源符「厌川的翡翠」)
-
     - [2.4.1 符卡信息](#符卡信息_7)
 
 
-
   - [2.5 蛙狩「蛙以口鸣，方致蛇祸」](#蛙狩「蛙以口鸣，方致蛇祸」)
-
     - [2.5.1 符卡信息](#符卡信息_8)
 
 
-
   - [2.6 土著神「七石七木」](#土著神「七石七木」)
-
     - [2.6.1 符卡信息](#符卡信息_9)
 
 
-
   - [2.7 土著神「小小青蛙不输风雨」](#土著神「小小青蛙不输风雨」)
-
     - [2.7.1 符卡信息](#符卡信息_10)
 
 
-
   - [2.8 土著神「宝永四年的赤蛙」](#土著神「宝永四年的赤蛙」)
-
     - [2.8.1 符卡信息](#符卡信息_11)
 
 
-
   - [2.9 「诹访大战 ～ 土著神话 vs 中央神话」](#「诹访大战_～_土著神话_vs_中央神话」)
-
     - [2.9.1 符卡信息](#符卡信息_12)
 
 
-
   - [2.10 祟符「御社宫司大人」](#祟符「御社宫司大人」)
-
     - [2.10.1 符卡信息](#符卡信息_13)
 
 
 
 
-
-
 - [3 导航](#导航)
-
-
-
 
 
 ## 八坂神奈子
@@ -135,10 +101,9 @@
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zhh1" width="50%">
-<p><a href="./神符「如水眼之美丽源泉」.md" class="mw-redirect" title="神符「如水眼之美丽源泉」">神符「如水眼之美丽源泉」</a>
+<p><a href="./如水眼之美丽源泉.md" class="mw-redirect" title="神符「如水眼之美丽源泉」">神符「如水眼之美丽源泉」</a>
 </p>
 </th></tr></tbody></table>
-
 
 
 #### 符卡信息
@@ -154,8 +119,6 @@
 </td></tr></tbody></table>
 
 
-
-
 ### 神符「结于杉木之古缘」
 
 <table>
@@ -169,10 +132,9 @@
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zhh1" width="50%">
-<p><a href="./神符「结于杉木之古缘」.md" class="mw-redirect" title="神符「结于杉木之古缘」">神符「结于杉木之古缘」</a>
+<p><a href="./结于杉木之古缘.md" class="mw-redirect" title="神符「结于杉木之古缘」">神符「结于杉木之古缘」</a>
 </p>
 </th></tr></tbody></table>
-
 
 
 #### 符卡信息
@@ -188,8 +150,6 @@
 </td></tr></tbody></table>
 
 
-
-
 ### 神符「神所踏足之御神渡」
 
 <table>
@@ -203,10 +163,9 @@
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zhh1" width="50%">
-<p><a href="./神符「神所踏足之御神渡」.md" class="mw-redirect" title="神符「神所踏足之御神渡」">神符「神所踏足之御神渡」</a>
+<p><a href="./神所踏足之御神渡.md" class="mw-redirect" title="神符「神所踏足之御神渡」">神符「神所踏足之御神渡」</a>
 </p>
 </th></tr></tbody></table>
-
 
 
 #### 符卡信息
@@ -220,8 +179,6 @@
 <p>Extra面道中BOSS八坂神奈子Extra难度符卡。
 </p>
 </td></tr></tbody></table>
-
-
 
 
 ## 洩矢诹访子
@@ -239,10 +196,9 @@
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zhh1" width="50%">
-<p><a href="./开宴「二拜二拍一拜」.md" class="mw-redirect" title="开宴「二拜二拍一拜」">开宴「二拜二拍一拜」</a>
+<p><a href="./二拜二拍一拜.md" class="mw-redirect" title="开宴「二拜二拍一拜」">开宴「二拜二拍一拜」</a>
 </p>
 </th></tr></tbody></table>
-
 
 
 #### 符卡信息
@@ -258,8 +214,6 @@
 </td></tr></tbody></table>
 
 
-
-
 ### 土著神「手长足长大人」
 
 <table>
@@ -273,10 +227,9 @@
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zhh1" width="50%">
-<p><a href="./土著神「手长足长大人」.md" class="mw-redirect" title="土著神「手长足长大人」">土著神「手长足长大人」</a>
+<p><a href="./手长足长大人.md" class="mw-redirect" title="土著神「手长足长大人」">土著神「手长足长大人」</a>
 </p>
 </th></tr></tbody></table>
-
 
 
 #### 符卡信息
@@ -292,8 +245,6 @@
 </td></tr></tbody></table>
 
 
-
-
 ### 神具「洩矢的铁轮」
 
 <table>
@@ -307,10 +258,9 @@
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zhh1" width="50%">
-<p><a href="./神具「洩矢的铁轮」.md" class="mw-redirect" title="神具「洩矢的铁轮」">神具「洩矢的铁轮」</a>
+<p><a href="./洩矢的铁轮.md" class="mw-redirect" title="神具「洩矢的铁轮」">神具「洩矢的铁轮」</a>
 </p>
 </th></tr></tbody></table>
-
 
 
 #### 符卡信息
@@ -326,8 +276,6 @@
 </td></tr></tbody></table>
 
 
-
-
 ### 源符「厌川的翡翠」
 
 <table>
@@ -341,10 +289,9 @@
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zhh1" width="50%">
-<p><a href="./源符「厌川的翡翠」.md" class="mw-redirect" title="源符「厌川的翡翠」">源符「厌川的翡翠」</a>
+<p><a href="./厌川的翡翠.md" class="mw-redirect" title="源符「厌川的翡翠」">源符「厌川的翡翠」</a>
 </p>
 </th></tr></tbody></table>
-
 
 
 #### 符卡信息
@@ -360,8 +307,6 @@
 </td></tr></tbody></table>
 
 
-
-
 ### 蛙狩「蛙以口鸣，方致蛇祸」
 
 <table>
@@ -375,10 +320,9 @@
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zhh1" width="50%">
-<p><a href="./蛙狩「蛙以口鸣，方致蛇祸」.md" class="mw-redirect" title="蛙狩「蛙以口鸣，方致蛇祸」">蛙狩「蛙以口鸣，方致蛇祸」</a>
+<p><a href="./蛙以口鸣，方致蛇祸.md" class="mw-redirect" title="蛙狩「蛙以口鸣，方致蛇祸」">蛙狩「蛙以口鸣，方致蛇祸」</a>
 </p>
 </th></tr></tbody></table>
-
 
 
 #### 符卡信息
@@ -405,8 +349,6 @@
 </td></tr></tbody></table>
 
 
-
-
 ### 土著神「七石七木」
 
 <table>
@@ -420,10 +362,9 @@
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zhh1" width="50%">
-<p><a href="./土著神「七石七木」.md" class="mw-redirect" title="土著神「七石七木」">土著神「七石七木」</a>
+<p><a href="./七石七木.md" class="mw-redirect" title="土著神「七石七木」">土著神「七石七木」</a>
 </p>
 </th></tr></tbody></table>
-
 
 
 #### 符卡信息
@@ -439,8 +380,6 @@
 </td></tr></tbody></table>
 
 
-
-
 ### 土著神「小小青蛙不输风雨」
 
 <table>
@@ -454,10 +393,9 @@
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zhh1" width="50%">
-<p><a href="./土著神「小小青蛙不输风雨」.md" class="mw-redirect" title="土著神「小小青蛙不输风雨」">土著神「小小青蛙不输风雨」</a>
+<p><a href="./小小青蛙不输风雨.md" class="mw-redirect" title="土著神「小小青蛙不输风雨」">土著神「小小青蛙不输风雨」</a>
 </p>
 </th></tr></tbody></table>
-
 
 
 #### 符卡信息
@@ -473,8 +411,6 @@
 </td></tr></tbody></table>
 
 
-
-
 ### 土著神「宝永四年的赤蛙」
 
 <table>
@@ -488,10 +424,9 @@
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zhh1" width="50%">
-<p><a href="./土著神「宝永四年的赤蛙」.md" class="mw-redirect" title="土著神「宝永四年的赤蛙」">土著神「宝永四年的赤蛙」</a>
+<p><a href="./宝永四年的赤蛙.md" class="mw-redirect" title="土著神「宝永四年的赤蛙」">土著神「宝永四年的赤蛙」</a>
 </p>
 </th></tr></tbody></table>
-
 
 
 #### 符卡信息
@@ -507,8 +442,6 @@
 </td></tr></tbody></table>
 
 
-
-
 ### 「诹访大战 ～ 土著神话 vs 中央神话」
 
 <table>
@@ -522,10 +455,9 @@
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zhh1" width="50%">
-<p><a href="./「诹访大战_～_土著神话_vs_中央神话」.md" class="mw-redirect" title="「诹访大战 ～ 土著神话 vs 中央神话」">「诹访大战 ～ 土著神话 vs 中央神话」</a>
+<p><a href="./诹访大战_～_土著神话_vs_中央神话.md" class="mw-redirect" title="「诹访大战 ～ 土著神话 vs 中央神话」">「诹访大战 ～ 土著神话 vs 中央神话」</a>
 </p>
 </th></tr></tbody></table>
-
 
 
 #### 符卡信息
@@ -541,8 +473,6 @@
 </td></tr></tbody></table>
 
 
-
-
 ### 祟符「御社宫司大人」
 
 <table>
@@ -556,10 +486,9 @@
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zhh1" width="50%">
-<p><a href="./祟符「御社宫司大人」.md" class="mw-redirect" title="祟符「御社宫司大人」">祟符「御社宫司大人」</a>
+<p><a href="./御社宫司大人.md" class="mw-redirect" title="祟符「御社宫司大人」">祟符「御社宫司大人」</a>
 </p>
 </th></tr></tbody></table>
-
 
 
 #### 符卡信息
@@ -573,19 +502,6 @@
 <p>Extra面BOSS洩矢诹访子Extra难度符卡。
 </p>
 </td></tr></tbody></table>
-
-
-
-
-## 导航
-  
-  
-
-<table><tbody><tr><td><table cellspacing="0" class="nowraplinks mw-collapsible mw-collapsed" style="width:100%;;;"><tbody><tr><th style=";" colspan="3" class="navbox-title"><div class="navbar"><div class="noprint plainlinksneverexpand" style="background-color:transparent; padding:0; font-weight:normal; font-size:80%; white-space:nowrap;"><a href="./模板-东方风神录导航.md" title="模板:东方风神录导航"><span style=";;border:none;" title="查看这个模板">查</span></a>&#160;<span style="font-size:80%;">•</span>&#160;<a href="/index.php?title=%E6%A8%A1%E6%9D%BF:%E4%B8%9C%E6%96%B9%E9%A3%8E%E7%A5%9E%E5%BD%95%E5%AF%BC%E8%88%AA&amp;action=edit"><span style=";;border:none;" title="您可以编辑这个模板。请在储存变更之前先预览">编</span></a></div></div><span><a href="./东方风神录.md" title="东方风神录">东方风神录</a></span></th></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">角色</td><td style=";;" class="navbox-list navbox-odd"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>自机</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a> &#8226; <a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>BOSS</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./秋静叶.md" title="秋静叶">秋静叶</a> &#8226; <a href="./秋穰子.md" title="秋穰子">秋穰子</a> &#8226; <a href="./键山雏.md" title="键山雏">键山雏</a> &#8226; <a href="./河城荷取.md" title="河城荷取">河城荷取</a> &#8226; <a href="./犬走椛.md" title="犬走椛">犬走椛</a> &#8226; <a href="./射命丸文.md" title="射命丸文">射命丸文</a> &#8226; <a href="./东风谷早苗.md" title="东风谷早苗">东风谷早苗</a> &#8226; <a href="./八坂神奈子.md" title="八坂神奈子">八坂神奈子</a> &#8226; <a href="./洩矢诹访子.md" title="洩矢诹访子">洩矢诹访子</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>其他角色</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./大天狗.md#大天狗" class="mw-redirect" title="大天狗">大天狗</a> &#8226; <a href="./天魔.md#天魔" class="mw-redirect" title="天魔">天魔</a></div></td></tr></tbody></table><div></div></td><td class="navbox-image" style="" rowspan="11"><a href="./文件-风神录载入界面.jpg.md" class="image"><img alt="风神录载入界面.jpg" src="https://upload.thwiki.cc/thumb/7/7f/%E9%A3%8E%E7%A5%9E%E5%BD%95%E8%BD%BD%E5%85%A5%E7%95%8C%E9%9D%A2.jpg/160px-%E9%A3%8E%E7%A5%9E%E5%BD%95%E8%BD%BD%E5%85%A5%E7%95%8C%E9%9D%A2.jpg" decoding="async" loading="lazy" width="160" height="120" srcset="https://upload.thwiki.cc/thumb/7/7f/%E9%A3%8E%E7%A5%9E%E5%BD%95%E8%BD%BD%E5%85%A5%E7%95%8C%E9%9D%A2.jpg/240px-%E9%A3%8E%E7%A5%9E%E5%BD%95%E8%BD%BD%E5%85%A5%E7%95%8C%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/7/7f/%E9%A3%8E%E7%A5%9E%E5%BD%95%E8%BD%BD%E5%85%A5%E7%95%8C%E9%9D%A2.jpg/320px-%E9%A3%8E%E7%A5%9E%E5%BD%95%E8%BD%BD%E5%85%A5%E7%95%8C%E9%9D%A2.jpg 2x" data-file-width="640" data-file-height="480"></a></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">剧情</td><td style=";;" class="navbox-list navbox-even"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>剧情文本</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./游戏对话-东方风神录-故事背景.md#故事背景" class="mw-redirect" title="游戏对话:东方风神录/故事背景">故事背景</a> &#8226; <a href="/%E9%99%84%E5%B8%A6%E6%96%87%E6%A1%A3:%E4%B8%9C%E6%96%B9%E9%A3%8E%E7%A5%9E%E5%BD%95/%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A#Extra_Story" title="附带文档:东方风神录/角色设定">EX 故事背景</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>游戏对话&amp;结局</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./游戏对话-东方风神录-博丽灵梦.md" title="游戏对话:东方风神录/博丽灵梦">博丽灵梦</a> &#8226; <a href="./游戏对话-东方风神录-雾雨魔理沙.md" title="游戏对话:东方风神录/雾雨魔理沙">雾雨魔理沙</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>Ex游戏对话</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./游戏对话-东方风神录-博丽灵梦_ExStory.md" title="游戏对话:东方风神录/博丽灵梦 ExStory">博丽灵梦</a> &#8226; <a href="./游戏对话-东方风神录-雾雨魔理沙_ExStory.md" title="游戏对话:东方风神录/雾雨魔理沙 ExStory">雾雨魔理沙</a></div></td></tr></tbody></table><div></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">场景</td><td style=";;" class="navbox-list navbox-odd"><div><a href="/%E5%A6%96%E6%80%AA%E4%B9%8B%E5%B1%B1#山脚" title="妖怪之山">妖怪山山脚</a> &#8226; <a href="./妖怪的树海.md#妖怪的树海" class="mw-redirect" title="妖怪的树海">妖怪的树海</a> &#8226; <a href="./阻绝人迹的溪谷.md#阻绝人迹的溪谷" class="mw-redirect" title="阻绝人迹的溪谷">阻绝人迹的溪谷</a> &#8226; <a href="./九天瀑布.md" title="九天瀑布">九天瀑布</a> &#8226; <a href="./妖怪之山.md" title="妖怪之山">妖怪之山</a> &#8226; <a href="./守矢神社.md" title="守矢神社">守矢神社</a> &#8226; <a href="./风神之湖.md" title="风神之湖">风神之湖</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">音乐</td><td style=";;" class="navbox-list navbox-even"><div><a href="./东方风神录-Music.md" title="东方风神录/Music">Music Room</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="/%E4%B8%9C%E6%96%B9%E9%A3%8E%E7%A5%9E%E5%BD%95#附带文档" title="东方风神录">附带文档</a></td><td style=";;" class="navbox-list navbox-odd"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>体验版</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./附带文档-东方风神录体验版-Manual.md" title="附带文档:东方风神录体验版/Manual">Manual</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>正式版</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./附带文档-东方风神录-Manual.md" title="附带文档:东方风神录/Manual">Manual</a> &#8226; <a href="./附带文档-东方风神录-角色设定.md" title="附带文档:东方风神录/角色设定">角色设定</a> &#8226; <a href="./附带文档-东方风神录-Omake.md" title="附带文档:东方风神录/Omake">Omake</a>  &#8226; <a href="./附带文档-东方风神录-Readme.md" title="附带文档:东方风神录/Readme">Readme</a> &#8226; <a href="./附带文档-东方风神录-光盘说明书.md" title="附带文档:东方风神录/光盘说明书">光盘说明书</a></div></td></tr></tbody></table><div></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="/%E7%AC%A6%E5%8D%A1%E5%88%97%E8%A1%A8#东方风神录" title="符卡列表">符卡</a></td><td style=";;" class="navbox-list navbox-even"><div><a href="./东方风神录-Stage_1.md" title="东方风神录/Stage 1">Stage 1</a> &#8226; <a href="./东方风神录-Stage_2.md" title="东方风神录/Stage 2">Stage 2</a> &#8226; <a href="./东方风神录-Stage_3.md" title="东方风神录/Stage 3">Stage 3</a> &#8226; <a href="./东方风神录-Stage_4.md" title="东方风神录/Stage 4">Stage 4</a> &#8226; <a href="./东方风神录-Stage_5.md" title="东方风神录/Stage 5">Stage 5</a> &#8226; <a href="./东方风神录-Stage_6.md" title="东方风神录/Stage 6">Stage 6</a> &#8226; <a class="mw-selflink selflink">Extra</a></div></td></tr></tbody></table></td></tr></tbody></table>
-
-
-
-
 
 
 ---

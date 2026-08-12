@@ -1,12 +1,8 @@
 # 文件:蓬杀_INFUNT.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cb\ns6%3A%E8%93%AC%E6%9D%80_INFUNT%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cb\ns6%3A%E8%93%AC%E6%9D%80_INFUNT%2Epng.html -->
 
 donjuan
-
-
-
-
 
 
 ---

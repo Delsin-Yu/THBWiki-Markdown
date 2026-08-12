@@ -1,6 +1,6 @@
 # 文件:"Activity"_Case：Extra_-Storyteller's_Night-_Special_Disc封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6d\ns6%3A%22Activity%22_Case%EF%BC%9AExtra_-Storyteller%27s_Night-_Special_Disc%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6d\ns6%3A%22Activity%22_Case%EF%BC%9AExtra_-Storyteller%27s_Night-_Special_Disc%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 GET_IN_THE_RING | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ GET_IN_THE_RING | 专辑封面 | 封面图片
   
 
 - ["Activity" Case：Extra -Storyteller's Night- Special Disc](./-Activity-_Case：Extra_-Storyteller's_Night-_Special_Disc.md)
-
-
-
 
 
 ---

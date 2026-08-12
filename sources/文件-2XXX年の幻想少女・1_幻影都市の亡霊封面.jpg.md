@@ -1,6 +1,6 @@
 # 文件:2XXX年の幻想少女・1_幻影都市の亡霊封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\da\ns6%3A2XXX%E5%B9%B4%E3%81%AE%E5%B9%BB%E6%83%B3%E5%B0%91%E5%A5%B3%E3%83%BB1_%E5%B9%BB%E5%BD%B1%E9%83%BD%E5%B8%82%E3%81%AE%E4%BA%A1%E9%9C%8A%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\da\ns6%3A2XXX%E5%B9%B4%E3%81%AE%E5%B9%BB%E6%83%B3%E5%B0%91%E5%A5%B3%E3%83%BB1_%E5%B9%BB%E5%BD%B1%E9%83%BD%E5%B8%82%E3%81%AE%E4%BA%A1%E9%9C%8A%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 La_Mort_Rouge | 同人志封面 | 封面图片
 
@@ -8,16 +8,12 @@ La_Mort_Rouge | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [2XXX年の幻想少女・1 幻影都市の亡霊](./2XXX年の幻想少女・1_幻影都市の亡霊.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- 原创角色 (未找到链接)
+- [2XXX年の幻想少女・1 幻影都市の亡霊](./2XXX年の幻想少女・1_幻影都市の亡霊.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- 原创角色 (未找到链接)
 
   
-源地址：[direct image link](https://melonbooks.akamaized.net/user_data/packages/resize_image.php?image=212001112857.jpg), [source page](https://www.melonbooks.co.jp/detail/detail.php?product_id=214963)
-  
-
-
-
-
+源地址：[direct image link](https://melonbooks.akamaized.net/user_data/packages/resize_image.php?image=212001112857.jpg), [source page](https://www.melonbooks.co.jp/detail/detail.php?product_id=214963)  
 
 ---
 

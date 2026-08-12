@@ -1,12 +1,8 @@
 # 文件:凝华手工坊banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\85\ns6%3A%E5%87%9D%E5%8D%8E%E6%89%8B%E5%B7%A5%E5%9D%8Abanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\85\ns6%3A%E5%87%9D%E5%8D%8E%E6%89%8B%E5%B7%A5%E5%9D%8Abanner%2Ejpg.html -->
 
 凝华手工坊 | 社团LOGO
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:UNLIMITED（イノライ）封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\25\ns6%3AUNLIMITED%EF%BC%88%E3%82%A4%E3%83%8E%E3%83%A9%E3%82%A4%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\25\ns6%3AUNLIMITED%EF%BC%88%E3%82%A4%E3%83%8E%E3%83%A9%E3%82%A4%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 イノライ | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [UNLIMITED（イノライ）](./UNLIMITED（イノライ）.md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)
-
-
-
+- [UNLIMITED（イノライ）](./UNLIMITED（イノライ）.md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
 
 
 ---

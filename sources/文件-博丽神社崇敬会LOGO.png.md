@@ -1,12 +1,8 @@
 # 文件:博丽神社崇敬会LOGO.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c9\ns6%3A%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E5%B4%87%E6%95%AC%E4%BC%9ALOGO%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c9\ns6%3A%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E5%B4%87%E6%95%AC%E4%BC%9ALOGO%2Epng.html -->
 
 博丽神社崇敬会
-
-
-
-
 
 
 ---

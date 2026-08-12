@@ -1,6 +1,6 @@
 # 文件:北方铁路_EP封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8f\ns6%3A%E5%8C%97%E6%96%B9%E9%93%81%E8%B7%AF_EP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8f\ns6%3A%E5%8C%97%E6%96%B9%E9%93%81%E8%B7%AF_EP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 NCMR | Way_Home_with_Sunshower | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ NCMR | Way_Home_with_Sunshower | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [北方铁路 EP](./北方铁路_EP.md)  
-该封面包含的角色：- [宇佐见莲子](./宇佐见莲子.md)
+- [北方铁路 EP](./北方铁路_EP.md)该封面包含的角色：
+- [宇佐见莲子](./宇佐见莲子.md)
 
   
-源地址：[[1]](https://f4.bcbits.com/img/a2016413110_10.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://f4.bcbits.com/img/a2016413110_10.jpg)  
 
 ---
 

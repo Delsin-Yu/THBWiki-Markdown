@@ -1,14 +1,11 @@
 # 文件:幻想Narrato_Graph（间歇泉地下中心）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\58\ns6%3A%E5%B9%BB%E6%83%B3Narrato_Graph%EF%BC%88%E9%97%B4%E6%AD%87%E6%B3%89%E5%9C%B0%E4%B8%8B%E4%B8%AD%E5%BF%83%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\58\ns6%3A%E5%B9%BB%E6%83%B3Narrato_Graph%EF%BC%88%E9%97%B4%E6%AD%87%E6%B3%89%E5%9C%B0%E4%B8%8B%E4%B8%AD%E5%BF%83%EF%BC%89%2Ejpg.html -->
 
 幻想Narrato_Graph
 
 
 ## 摘要
-
-
-
 
 ---
 

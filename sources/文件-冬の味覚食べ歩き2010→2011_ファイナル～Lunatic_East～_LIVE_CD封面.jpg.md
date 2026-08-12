@@ -1,6 +1,6 @@
 # 文件:冬の味覚食べ歩き2010→2011_ファイナル～Lunatic_East～_LIVE_CD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1d\ns6%3A%E5%86%AC%E3%81%AE%E5%91%B3%E8%A6%9A%E9%A3%9F%E3%81%B9%E6%AD%A9%E3%81%8D2010%E2%86%922011_%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%EF%BD%9ELunatic_East%EF%BD%9E_LIVE_CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1d\ns6%3A%E5%86%AC%E3%81%AE%E5%91%B3%E8%A6%9A%E9%A3%9F%E3%81%B9%E6%AD%A9%E3%81%8D2010%E2%86%922011_%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%EF%BD%9ELunatic_East%EF%BD%9E_LIVE_CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Unlucky_Morpheus | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ Unlucky_Morpheus | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [冬の味覚食べ歩き2010→2011 ファイナル～Lunatic East～ LIVE CD](./冬の味覚食べ歩き2010→2011_ファイナル～Lunatic_East～_LIVE_CD.md)  
-该封面包含的角色：- [水桥帕露西](./水桥帕露西.md)- [星熊勇仪](./星熊勇仪.md)
-
-
-
+- [冬の味覚食べ歩き2010→2011 ファイナル～Lunatic East～ LIVE CD](./冬の味覚食べ歩き2010→2011_ファイナル～Lunatic_East～_LIVE_CD.md)该封面包含的角色：
+- [水桥帕露西](./水桥帕露西.md)
+- [星熊勇仪](./星熊勇仪.md)
 
 
 ---

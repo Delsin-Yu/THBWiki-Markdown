@@ -1,6 +1,6 @@
 # 文件:Gluttonic_Over_Flow封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ca\ns6%3AGluttonic_Over_Flow%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ca\ns6%3AGluttonic_Over_Flow%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 NERCO | 同人志封面 | 封面图片
 
@@ -10,16 +10,12 @@ NERCO | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Gluttonic Over Flow](./Gluttonic_Over_Flow.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [八云紫](./八云紫.md)
+- [Gluttonic Over Flow](./Gluttonic_Over_Flow.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [八云紫](./八云紫.md)
 
   
-[Pixiv ID: 43385706 (via Danbooru ID: 1694138)](https://danbooru.donmai.us/posts/1694138)
-  
-
-
-
-
+[Pixiv ID: 43385706 (via Danbooru ID: 1694138)](https://danbooru.donmai.us/posts/1694138)  
 
 ---
 

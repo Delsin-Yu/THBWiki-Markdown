@@ -1,6 +1,6 @@
 # 文件:LiLi×2_～In_the_Summer～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ef\ns6%3ALiLi%C3%972_%EF%BD%9EIn_the_Summer%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ef\ns6%3ALiLi%C3%972_%EF%BD%9EIn_the_Summer%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 夢見里 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [LiLi×2 ～In the Summer～](./LiLi×2_～In_the_Summer～.md)  
-该封面包含的角色：- [莉莉霍瓦特](./莉莉霍瓦特.md)
-
-
-
+- [LiLi×2 ～In the Summer～](./LiLi×2_～In_the_Summer～.md)该封面包含的角色：
+- [莉莉霍瓦特](./莉莉霍瓦特.md)
 
 
 ---

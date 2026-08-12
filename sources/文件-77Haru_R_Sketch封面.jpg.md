@@ -1,6 +1,6 @@
 # 文件:77Haru_R_Sketch封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\96\ns6%3A77Haru_R_Sketch%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\96\ns6%3A77Haru_R_Sketch%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 はるもち | 同人志封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [77Haru R Sketch](./77Haru_R_Sketch.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [77Haru R Sketch](./77Haru_R_Sketch.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

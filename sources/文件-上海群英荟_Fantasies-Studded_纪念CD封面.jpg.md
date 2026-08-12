@@ -1,6 +1,6 @@
 # 文件:上海群英荟_Fantasies-Studded_纪念CD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\29\ns6%3A%E4%B8%8A%E6%B5%B7%E7%BE%A4%E8%8B%B1%E8%8D%9F_Fantasies-Studded_%E7%BA%AA%E5%BF%B5CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\29\ns6%3A%E4%B8%8A%E6%B5%B7%E7%BE%A4%E8%8B%B1%E8%8D%9F_Fantasies-Studded_%E7%BA%AA%E5%BF%B5CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 上海群英荟组委会 | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [上海群英荟 Fantasies-Studded 纪念CD](./上海群英荟_Fantasies-Studded_纪念CD.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [上海群英荟 Fantasies-Studded 纪念CD](./上海群英荟_Fantasies-Studded_纪念CD.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

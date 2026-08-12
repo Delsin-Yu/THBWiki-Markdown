@@ -1,6 +1,6 @@
 # 文件:Heartcore_Forte封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f2\ns6%3AHeartcore_Forte%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f2\ns6%3AHeartcore_Forte%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Halozy | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Halozy | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Heartcore Forte](./Heartcore_Forte.md)  
-该封面包含的角色：- [多多良小伞](./多多良小伞.md)
-
-
-
+- [Heartcore Forte](./Heartcore_Forte.md)该封面包含的角色：
+- [多多良小伞](./多多良小伞.md)
 
 
 ---

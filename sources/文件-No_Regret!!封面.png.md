@@ -1,6 +1,6 @@
 # 文件:No_Regret!!封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\aa\ns6%3ANo_Regret%21%21%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\aa\ns6%3ANo_Regret%21%21%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 傾き屋 | 同人志封面 | 封面图片
 
@@ -10,19 +10,14 @@
 使用了本文件作封面图片的作品：
   
 
-- [No Regret!!](./No_Regret!!.md)  
-该封面包含的角色：- [宇佐见堇子](./宇佐见堇子.md)
+- [No Regret!!](./No_Regret!!.md)该封面包含的角色：
+- [宇佐见堇子](./宇佐见堇子.md)
 
   
-源地址：[direct image link (original size)](https://pbs.twimg.com/media/D5UvemRUcAAB7Fk?format=png&amp;name=orig), [source tweet](https://twitter.com/suikyoh/status/1122855947339096065)
-  
+源地址：[direct image link (original size)](https://pbs.twimg.com/media/D5UvemRUcAAB7Fk?format=png&name=orig), [source tweet](https://twitter.com/suikyoh/status/1122855947339096065)  
   
 Note: the cover on Melonbooks is bigger but the title doesn't have shading and is positioned slightly above where it is on the Twitter cover. According to the [copy on surugaya](https://www.suruga-ya.jp/product/detail/ZHORE213120), the Twitter cover is correct.
   
-
-
-
-
 
 ---
 

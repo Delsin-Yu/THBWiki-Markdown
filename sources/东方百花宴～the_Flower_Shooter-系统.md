@@ -1,6 +1,6 @@
 # 东方百花宴～the_Flower_Shooter/系统
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\64\ns0%3A%E4%B8%9C%E6%96%B9%E7%99%BE%E8%8A%B1%E5%AE%B4%EF%BD%9Ethe_Flower_Shooter%2F%E7%B3%BB%E7%BB%9F.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\64\ns0%3A%E4%B8%9C%E6%96%B9%E7%99%BE%E8%8A%B1%E5%AE%B4%EF%BD%9Ethe_Flower_Shooter%2F%E7%B3%BB%E7%BB%9F.html -->
 
 SlimeSmile
 
@@ -14,9 +14,6 @@ SlimeSmile
 - [5 分数](#分数)
 
 
-
-
-
 ## 游戏方式
   
 借原作的说法：  
@@ -26,101 +23,86 @@ SlimeSmile
 在每一关的最后设有一个BOSS,将她搞定就可以通关。  
 
 没错，只要不被打中就好了。  
-
   
 
-
 ## 操作方法
-- 上下左右（可设置）  
 
+- 上下左右（可设置）
 
   
 操纵自机方向
   
 
-- SHOT键（Z键）（可设置）  
-
+- SHOT键（Z键）（可设置）
 
   
 射击
   
 
-- SPELL键（X键）（可设置）  
-
+- SPELL键（X键）（可设置）
 
   
 发动符卡
   
 
-- SLOW键（Shift键）（可设置）  
-
+- SLOW键（Shift键）（可设置）
 
   
 进行低速移动
   
 
-- PAUSE键（ESC键）  
-
+- PAUSE键（ESC键）
 
   
 暂停
   
 
-- SKIP键（左Ctrl键）  
-
+- SKIP键（左Ctrl键）
 
   
 跳过对话
   
-
 其他操作
 
-- 快速RETRY  
-
+- 快速RETRY
 
   
 在暂停画面按R键
   
 
-- 切换全屏  
-
+- 切换全屏
 
   
 F8键
   
 
-- 播放录像时加速/减速  
-
+- 播放录像时加速/减速
 
   
 左Ctrl键/左Shift键
   
 
-
 ## 游戏界面
-- 残机数  
 
+- 残机数
 
   
 表示可以MISS的回数
   
 
-- 符卡  
-
+- 符卡
 
   
 表示可以发动的符卡次数
   
 
-- 灵力  
-
+- 灵力
 
   
 表示自机的攻击威力
   
 
-- 蓝点数  
-
+- 蓝点数
 
   
 表示自机获得的蓝点数  
@@ -128,8 +110,7 @@ F8键
 达到一定数量后奖励残机
   
 
-- 绿点数  
-
+- 绿点数
 
   
 表示自机获得的绿点数  
@@ -137,24 +118,21 @@ F8键
 达到一定数量后奖励符卡
   
 
-- Graze  
-
+- Graze
 
   
 表示擦过敌弹的次数
   
 
-
 ## 道具
-- 红点（P点）  
 
+- 红点（P点）
 
   
 可以提升灵力的道具（增加自机攻击威力）
   
 
-- 蓝点  
-
+- 蓝点
 
   
 得分道具  
@@ -164,8 +142,7 @@ F8键
 所需的数量每级递增
   
 
-- 绿点  
-
+- 绿点
 
   
 加分道具  
@@ -175,8 +152,7 @@ F8键
 所需的数量每级递增
   
 
-- 注意：  
-
+- 注意：
 
   
 自机在屏幕上方区域可自动回收红点和蓝点。  
@@ -187,7 +163,6 @@ F8键
 
 在自动回收道具时，蓝点数量记作2倍，与奖励残机相关。
   
-
 
 ## 分数
   
@@ -204,12 +179,7 @@ F8键
 绿点可通过消弹、擦弹及收取敌人的SpellCard获得  
 
 SpellCard Bonus与绿点数量相关  
-
   
-
-
-
-
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:FALL_OUT_GUYS封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\eb\ns6%3AFALL_OUT_GUYS%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\eb\ns6%3AFALL_OUT_GUYS%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Find_Your_Way | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@ Find_Your_Way | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [FALL OUT GUYS](./FALL_OUT_GUYS.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)
+- [FALL OUT GUYS](./FALL_OUT_GUYS.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
 
   
-源地址：[circle website](http://findyourway.kanyu.me/images/albumart/0022B.jpg)
-  
-
-
-
-
+源地址：[circle website](http://findyourway.kanyu.me/images/albumart/0022B.jpg)  
 
 ---
 

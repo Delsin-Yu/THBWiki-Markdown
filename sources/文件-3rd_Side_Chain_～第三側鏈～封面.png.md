@@ -1,6 +1,6 @@
 # 文件:3rd_Side_Chain_～第三側鏈～封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\76\ns6%3A3rd_Side_Chain_%EF%BD%9E%E7%AC%AC%E4%B8%89%E5%81%B4%E9%8F%88%EF%BD%9E%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\76\ns6%3A3rd_Side_Chain_%EF%BD%9E%E7%AC%AC%E4%B8%89%E5%81%B4%E9%8F%88%EF%BD%9E%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 AsparTateRecords | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ AsparTateRecords | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [3rd Side Chain ～第三側鏈～](./3rd_Side_Chain_～第三側鏈～.md)  
-该封面包含的角色：- [古明地觉](./古明地觉.md)
-
-
-
+- [3rd Side Chain ～第三側鏈～](./3rd_Side_Chain_～第三側鏈～.md)该封面包含的角色：
+- [古明地觉](./古明地觉.md)
 
 
 ---

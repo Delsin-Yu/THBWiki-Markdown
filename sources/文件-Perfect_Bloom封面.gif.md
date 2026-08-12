@@ -1,6 +1,6 @@
 # 文件:Perfect_Bloom封面.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1e\ns6%3APerfect_Bloom%E5%B0%81%E9%9D%A2%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1e\ns6%3APerfect_Bloom%E5%B0%81%E9%9D%A2%2Egif.html -->
 
 专辑封面 | 封面图片 | 錯乱のオルフェ
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Perfect Bloom](./Perfect_Bloom.md)  
-该封面包含的角色：- [西行寺幽幽子](./西行寺幽幽子.md)
+- [Perfect Bloom](./Perfect_Bloom.md)该封面包含的角色：
+- [西行寺幽幽子](./西行寺幽幽子.md)
 
   
-源地址：[[1]](http://www.sakuran-no-orphe.com/images/c85_single_jacket.gif)
-  
-
-
-
-
+源地址：[\[1\]](http://www.sakuran-no-orphe.com/images/c85_single_jacket.gif)  
 
 ---
 

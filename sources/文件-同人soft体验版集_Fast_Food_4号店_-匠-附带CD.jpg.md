@@ -1,14 +1,11 @@
 # 文件:同人soft体验版集_Fast_Food_4号店_-匠-附带CD.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2b\ns6%3A%E5%90%8C%E4%BA%BAsoft%E4%BD%93%E9%AA%8C%E7%89%88%E9%9B%86_Fast_Food_4%E5%8F%B7%E5%BA%97_-%E5%8C%A0-%E9%99%84%E5%B8%A6CD%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2b\ns6%3A%E5%90%8C%E4%BA%BAsoft%E4%BD%93%E9%AA%8C%E7%89%88%E9%9B%86_Fast_Food_4%E5%8F%B7%E5%BA%97_-%E5%8C%A0-%E9%99%84%E5%B8%A6CD%2Ejpg.html -->
 
 东方永夜抄
 
 
 ## 文件说明
-
-
-
 
 ---
 

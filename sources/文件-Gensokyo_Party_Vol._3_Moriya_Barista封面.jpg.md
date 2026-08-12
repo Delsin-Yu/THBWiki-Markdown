@@ -1,6 +1,6 @@
 # 文件:Gensokyo_Party_Vol._3_Moriya_Barista封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2b\ns6%3AGensokyo_Party_Vol%2E_3_Moriya_Barista%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2b\ns6%3AGensokyo_Party_Vol%2E_3_Moriya_Barista%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 KodamaSounds | 专辑封面 | 封面图片
 
@@ -10,16 +10,15 @@ KodamaSounds | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Gensokyo Party Vol. 3 Moriya Barista](./Gensokyo_Party_Vol._3_Moriya_Barista.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [东风谷早苗](./东风谷早苗.md)- [八坂神奈子](./八坂神奈子.md)- [洩矢诹访子](./洩矢诹访子.md)- [雾雨魔理沙](./雾雨魔理沙.md)
+- [Gensokyo Party Vol. 3 Moriya Barista](./Gensokyo_Party_Vol._3_Moriya_Barista.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [东风谷早苗](./东风谷早苗.md)
+- [八坂神奈子](./八坂神奈子.md)
+- [洩矢诹访子](./洩矢诹访子.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-源地址：[direct image link (10 size)](https://f4.bcbits.com/img/a2985423953_10.jpg), [source page (artist Bandcamp)](https://kodamasounds.bandcamp.com/album/gensokyo-party-vol-3-moriya-barista)
-  
-
-
-
-
+源地址：[direct image link (10 size)](https://f4.bcbits.com/img/a2985423953_10.jpg), [source page (artist Bandcamp)](https://kodamasounds.bandcamp.com/album/gensokyo-party-vol-3-moriya-barista)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:FAR_EAST_OF_EAST_VI封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\92\ns6%3AFAR_EAST_OF_EAST_VI%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\92\ns6%3AFAR_EAST_OF_EAST_VI%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 TatshMusicCircle | 专辑封面 | 封面图片
 
@@ -8,16 +8,16 @@ TatshMusicCircle | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [FAR EAST OF EAST VI](./FAR_EAST_OF_EAST_VI.md)  
-该封面包含的角色：- [宫古芳香](./宫古芳香.md)- [霍青娥](./霍青娥.md)- [苏我屠自古](./苏我屠自古.md)- [物部布都](./物部布都.md)- [丰聪耳神子](./丰聪耳神子.md)- [二岩猯藏](./二岩猯藏.md)
+- [FAR EAST OF EAST VI](./FAR_EAST_OF_EAST_VI.md)该封面包含的角色：
+- [宫古芳香](./宫古芳香.md)
+- [霍青娥](./霍青娥.md)
+- [苏我屠自古](./苏我屠自古.md)
+- [物部布都](./物部布都.md)
+- [丰聪耳神子](./丰聪耳神子.md)
+- [二岩猯藏](./二岩猯藏.md)
 
   
-源地址：[[1]](http://tmccd.web.fc2.com/images/feoe6.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://tmccd.web.fc2.com/images/feoe6.jpg)  
 
 ---
 

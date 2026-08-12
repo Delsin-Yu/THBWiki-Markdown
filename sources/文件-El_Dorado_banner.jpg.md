@@ -1,14 +1,11 @@
 # 文件:El_Dorado_banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e2\ns6%3AEl_Dorado_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e2\ns6%3AEl_Dorado_banner%2Ejpg.html -->
 
 El_Dorado | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

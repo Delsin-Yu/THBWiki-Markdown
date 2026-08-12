@@ -1,6 +1,6 @@
 # 文件:Subterranean_Sampler封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\55\ns6%3ASubterranean_Sampler%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\55\ns6%3ASubterranean_Sampler%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ダモ藤木低域ネットワーク | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [Subterranean Sampler](./Subterranean_Sampler.md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)- [东风谷早苗](./东风谷早苗.md)
-
-
-
+- [Subterranean Sampler](./Subterranean_Sampler.md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
+- [东风谷早苗](./东风谷早苗.md)
 
 
 ---

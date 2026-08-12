@@ -1,12 +1,8 @@
 # 文件:THD2诅咒木剑.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d0\ns6%3ATHD2%E8%AF%85%E5%92%92%E6%9C%A8%E5%89%91%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d0\ns6%3ATHD2%E8%AF%85%E5%92%92%E6%9C%A8%E5%89%91%2Epng.html -->
 
 东方DOTS玩家社群
-
-
-
-
 
 
 ---

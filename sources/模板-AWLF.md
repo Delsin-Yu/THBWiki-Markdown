@@ -1,16 +1,12 @@
 # 模板:AWLF
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\2\2b\ns10%3AAWLF.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\2\2b\ns10%3AAWLF.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

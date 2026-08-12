@@ -1,6 +1,6 @@
 # 文件:桜（Diavolo_Nebbia）封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\18\ns6%3A%E6%A1%9C%EF%BC%88Diavolo_Nebbia%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\18\ns6%3A%E6%A1%9C%EF%BC%88Diavolo_Nebbia%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Diavolo_Nebbia | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Diavolo_Nebbia | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [桜（Diavolo Nebbia）](./桜（Diavolo_Nebbia）.md)  
-该封面包含的角色：- [西行寺幽幽子](./西行寺幽幽子.md)
-
-
-
+- [桜（Diavolo Nebbia）](./桜（Diavolo_Nebbia）.md)该封面包含的角色：
+- [西行寺幽幽子](./西行寺幽幽子.md)
 
 
 ---

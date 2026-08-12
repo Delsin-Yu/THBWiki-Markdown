@@ -1,37 +1,21 @@
 # GRIFFON/西行寺幽幽子
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\7\78\ns0%3AGRIFFON%2F%E8%A5%BF%E8%A1%8C%E5%AF%BA%E5%B9%BD%E5%B9%BD%E5%AD%90.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\7\78\ns0%3AGRIFFON%2F%E8%A5%BF%E8%A1%8C%E5%AF%BA%E5%B9%BD%E5%B9%BD%E5%AD%90.html -->
 
 西行寺幽幽子PVCFigure手办模型
 
 本页是关于东方Project  
- **相关实体周边 (未找到链接)** 的词条
-
+**相关实体周边 (未找到链接)**的词条
 ## 模型信息
 
-<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 西行寺幽幽子 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>无</td></tr><tr><td class="label">角色</td><td><a href="./西行寺幽幽子.md" title="西行寺幽幽子">西行寺幽幽子</a></td></tr><tr><td class="label">原型师</td><td><a href="/index.php?title=I-con&amp;action=edit&amp;redlink=1" class="new" title="I-con（页面不存在）">I-con</a></td></tr><tr><td class="label">比例</td><td>1/8</td></tr><tr><td class="label">尺寸</td><td>190mm</td></tr><tr><td class="label">状态</td><td>已发售</td></tr><tr><td class="label">售价</td><td>7800日元</td></tr><tr><td class="label">首发日期</td><td>2009-11</td></tr><tr><td class="label">发售方</td><td><a href="/index.php?title=GRIFFON&amp;action=edit&amp;redlink=1" class="new" title="GRIFFON（页面不存在）">GRIFFON</a></td></tr><tr><td class="label">再版日期</td><td>2010-04</td></tr></tbody></table>
+<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 西行寺幽幽子 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>无</td></tr><tr><td class="label">角色</td><td><a href="./西行寺幽幽子.md" title="西行寺幽幽子">西行寺幽幽子</a></td></tr><tr><td class="label">原型师</td><td><a class="new" title="I-con（页面不存在）">I-con</a></td></tr><tr><td class="label">比例</td><td>1/8</td></tr><tr><td class="label">尺寸</td><td>190mm</td></tr><tr><td class="label">状态</td><td>已发售</td></tr><tr><td class="label">售价</td><td>7800日元</td></tr><tr><td class="label">首发日期</td><td>2009-11</td></tr><tr><td class="label">发售方</td><td><a class="new" title="GRIFFON（页面不存在）">GRIFFON</a></td></tr><tr><td class="label">再版日期</td><td>2010-04</td></tr></tbody></table>
 
 GRIFFON/西行寺幽幽子（周边） - 西行寺幽幽子PVCFigure手办模型
-
 ## 参考图片
-
-
-
-[](./文件-GRIFFON西行寺幽幽子-1.jpg.md)
-
-
-[](./文件-GRIFFON西行寺幽幽子-2.jpg.md)
-
-
-[](./文件-GRIFFON西行寺幽幽子-3.jpg.md)
-
+<img alt="GRIFFON西行寺幽幽子" src="https://upload.thwiki.cc/thumb/b/b2/GRIFFON%E8%A5%BF%E8%A1%8C%E5%AF%BA%E5%B9%BD%E5%B9%BD%E5%AD%90-1.jpg/160px-GRIFFON%E8%A5%BF%E8%A1%8C%E5%AF%BA%E5%B9%BD%E5%B9%BD%E5%AD%90-1.jpg" decoding="async" loading="lazy" width="160" height="200" srcset="https://upload.thwiki.cc/thumb/b/b2/GRIFFON%E8%A5%BF%E8%A1%8C%E5%AF%BA%E5%B9%BD%E5%B9%BD%E5%AD%90-1.jpg/240px-GRIFFON%E8%A5%BF%E8%A1%8C%E5%AF%BA%E5%B9%BD%E5%B9%BD%E5%AD%90-1.jpg 1.5x, https://upload.thwiki.cc/thumb/b/b2/GRIFFON%E8%A5%BF%E8%A1%8C%E5%AF%BA%E5%B9%BD%E5%B9%BD%E5%AD%90-1.jpg/320px-GRIFFON%E8%A5%BF%E8%A1%8C%E5%AF%BA%E5%B9%BD%E5%B9%BD%E5%AD%90-1.jpg 2x" data-file-width="600" data-file-height="749">
+<img alt="GRIFFON西行寺幽幽子" src="https://upload.thwiki.cc/thumb/7/76/GRIFFON%E8%A5%BF%E8%A1%8C%E5%AF%BA%E5%B9%BD%E5%B9%BD%E5%AD%90-2.jpg/160px-GRIFFON%E8%A5%BF%E8%A1%8C%E5%AF%BA%E5%B9%BD%E5%B9%BD%E5%AD%90-2.jpg" decoding="async" loading="lazy" width="160" height="200" srcset="https://upload.thwiki.cc/thumb/7/76/GRIFFON%E8%A5%BF%E8%A1%8C%E5%AF%BA%E5%B9%BD%E5%B9%BD%E5%AD%90-2.jpg/240px-GRIFFON%E8%A5%BF%E8%A1%8C%E5%AF%BA%E5%B9%BD%E5%B9%BD%E5%AD%90-2.jpg 1.5x, https://upload.thwiki.cc/thumb/7/76/GRIFFON%E8%A5%BF%E8%A1%8C%E5%AF%BA%E5%B9%BD%E5%B9%BD%E5%AD%90-2.jpg/320px-GRIFFON%E8%A5%BF%E8%A1%8C%E5%AF%BA%E5%B9%BD%E5%B9%BD%E5%AD%90-2.jpg 2x" data-file-width="600" data-file-height="749">
+<img alt="GRIFFON西行寺幽幽子" src="https://upload.thwiki.cc/thumb/9/98/GRIFFON%E8%A5%BF%E8%A1%8C%E5%AF%BA%E5%B9%BD%E5%B9%BD%E5%AD%90-3.jpg/160px-GRIFFON%E8%A5%BF%E8%A1%8C%E5%AF%BA%E5%B9%BD%E5%B9%BD%E5%AD%90-3.jpg" decoding="async" loading="lazy" width="160" height="200" srcset="https://upload.thwiki.cc/thumb/9/98/GRIFFON%E8%A5%BF%E8%A1%8C%E5%AF%BA%E5%B9%BD%E5%B9%BD%E5%AD%90-3.jpg/240px-GRIFFON%E8%A5%BF%E8%A1%8C%E5%AF%BA%E5%B9%BD%E5%B9%BD%E5%AD%90-3.jpg 1.5x, https://upload.thwiki.cc/thumb/9/98/GRIFFON%E8%A5%BF%E8%A1%8C%E5%AF%BA%E5%B9%BD%E5%B9%BD%E5%AD%90-3.jpg/320px-GRIFFON%E8%A5%BF%E8%A1%8C%E5%AF%BA%E5%B9%BD%E5%B9%BD%E5%AD%90-3.jpg 2x" data-file-width="600" data-file-height="749">
 公式图
-
-
-
-
-
-
 
 ---
 

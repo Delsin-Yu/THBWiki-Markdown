@@ -1,18 +1,13 @@
 # 文件:Le_Mort_Soleillogo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4f\ns6%3ALe_Mort_Soleillogo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4f\ns6%3ALe_Mort_Soleillogo%2Epng.html -->
 
 Le_Mort_Soleil | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[direct image link (max size)](https://f4.bcbits.com/img/0000924768_0.png), [source: circle Bandcamp header](https://lemortsoleil.bandcamp.com/)
-  
-
-
-
-
+源地址：[direct image link (max size)](https://f4.bcbits.com/img/0000924768_0.png), [source: circle Bandcamp header](https://lemortsoleil.bandcamp.com/)  
 
 ---
 

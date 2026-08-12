@@ -1,12 +1,8 @@
 # 文件:鸟符「Human_Cage」.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fb\ns6%3A%E9%B8%9F%E7%AC%A6%E3%80%8CHuman_Cage%E3%80%8D%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fb\ns6%3A%E9%B8%9F%E7%AC%A6%E3%80%8CHuman_Cage%E3%80%8D%2Epng.html -->
 
 东方花映塚 | 米斯蒂娅·萝蕾拉
-
-
-
-
 
 
 ---

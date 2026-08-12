@@ -1,14 +1,11 @@
 # 文件:八云紫（祈华梦立绘）despise镜像.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e1\ns6%3A%E5%85%AB%E4%BA%91%E7%B4%AB%EF%BC%88%E7%A5%88%E5%8D%8E%E6%A2%A6%E7%AB%8B%E7%BB%98%EF%BC%89despise%E9%95%9C%E5%83%8F%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e1\ns6%3A%E5%85%AB%E4%BA%91%E7%B4%AB%EF%BC%88%E7%A5%88%E5%8D%8E%E6%A2%A6%E7%AB%8B%E7%BB%98%EF%BC%89despise%E9%95%9C%E5%83%8F%2Epng.html -->
 
 东方祈华梦制作组 | 二次角色立绘 | 八云紫（祈华梦）
 
 
 ## 文件说明
-
-
-
 
 ---
 

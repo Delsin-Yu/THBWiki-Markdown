@@ -1,6 +1,6 @@
 # 文件:TOUHOU_SCARLET封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\85\ns6%3ATOUHOU_SCARLET%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\85\ns6%3ATOUHOU_SCARLET%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Project_CASC | 专辑封面 | 封面图片
 
@@ -8,12 +8,10 @@ Project_CASC | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [TOUHOU SCARLET](./TOUHOU_SCARLET.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)源地址：[[1]](https://static.wixstatic.com/media/526073_968f6c45e50745a981fcc52d25319bc2~mv2_d_1736_1736_s_2.jpg)
-
-
-
-
+- [TOUHOU SCARLET](./TOUHOU_SCARLET.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+源地址：[\[1\]](https://static.wixstatic.com/media/526073_968f6c45e50745a981fcc52d25319bc2~mv2_d_1736_1736_s_2.jpg)
 
 ---
 

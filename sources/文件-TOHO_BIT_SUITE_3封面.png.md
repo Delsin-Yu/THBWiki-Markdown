@@ -1,6 +1,6 @@
 # 文件:TOHO_BIT_SUITE_3封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\42\ns6%3ATOHO_BIT_SUITE_3%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\42\ns6%3ATOHO_BIT_SUITE_3%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 rodent_edge_scramble | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ rodent_edge_scramble | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [TOHO BIT SUITE 3](./TOHO_BIT_SUITE_3.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)
-
-
-
+- [TOHO BIT SUITE 3](./TOHO_BIT_SUITE_3.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
 
 
 ---

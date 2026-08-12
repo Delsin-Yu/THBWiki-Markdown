@@ -1,12 +1,8 @@
 # 文件:地狱「Striped_Abyss」（绀珠传）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\85\ns6%3A%E5%9C%B0%E7%8B%B1%E3%80%8CStriped_Abyss%E3%80%8D%EF%BC%88%E7%BB%80%E7%8F%A0%E4%BC%A0%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\85\ns6%3A%E5%9C%B0%E7%8B%B1%E3%80%8CStriped_Abyss%E3%80%8D%EF%BC%88%E7%BB%80%E7%8F%A0%E4%BC%A0%EF%BC%89%2Epng.html -->
 
 东方绀珠传 | 克劳恩皮丝 | 敌机符卡
-
-
-
-
 
 
 ---

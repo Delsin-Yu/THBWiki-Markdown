@@ -1,14 +1,11 @@
 # 文件:MyonMyon_banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2f\ns6%3AMyonMyon_banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2f\ns6%3AMyonMyon_banner%2Egif.html -->
 
 MyonMyon | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

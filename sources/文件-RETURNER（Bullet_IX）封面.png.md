@@ -1,6 +1,6 @@
 # 文件:RETURNER（Bullet_IX）封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4d\ns6%3ARETURNER%EF%BC%88Bullet_IX%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4d\ns6%3ARETURNER%EF%BC%88Bullet_IX%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Bullet_IX | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ Bullet_IX | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [RETURNER（Bullet IX）](./RETURNER（Bullet_IX）.md)  
-该封面包含的角色：- [小野塚小町](./小野塚小町.md)- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)
-
-
-
+- [RETURNER（Bullet IX）](./RETURNER（Bullet_IX）.md)该封面包含的角色：
+- [小野塚小町](./小野塚小町.md)
+- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)
 
 
 ---

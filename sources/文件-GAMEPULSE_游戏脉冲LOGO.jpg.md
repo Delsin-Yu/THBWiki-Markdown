@@ -1,12 +1,8 @@
 # 文件:GAMEPULSE_游戏脉冲LOGO.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\df\ns6%3AGAMEPULSE_%E6%B8%B8%E6%88%8F%E8%84%89%E5%86%B2LOGO%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\df\ns6%3AGAMEPULSE_%E6%B8%B8%E6%88%8F%E8%84%89%E5%86%B2LOGO%2Ejpg.html -->
 
 GAMEPULSE_游戏脉冲 | 社团LOGO
-
-
-
-
 
 
 ---

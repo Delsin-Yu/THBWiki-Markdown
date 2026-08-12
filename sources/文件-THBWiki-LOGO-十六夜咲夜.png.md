@@ -1,12 +1,8 @@
 # 文件:THBWiki-LOGO-十六夜咲夜.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\39\ns6%3ATHBWiki-LOGO-%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\39\ns6%3ATHBWiki-LOGO-%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C%2Epng.html -->
 
 THBWiki | Wiki词条分类用图
-
-
-
-
 
 
 ---

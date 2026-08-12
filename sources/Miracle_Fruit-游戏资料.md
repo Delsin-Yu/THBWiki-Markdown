@@ -1,6 +1,6 @@
 # Miracle_Fruit/游戏资料
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\9\99\ns0%3AMiracle_Fruit%2F%E6%B8%B8%E6%88%8F%E8%B5%84%E6%96%99.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\9\99\ns0%3AMiracle_Fruit%2F%E6%B8%B8%E6%88%8F%E8%B5%84%E6%96%99.html -->
 
 东风谷早苗 | 符卡
 
@@ -17,16 +17,11 @@
 </td></tr></tbody></table>
 
 
-
 ## 东方地灵殿
 
 <table>
 <tbody><tr><td style="min-width:200px" colspan="4" align="center"><b>奇迹「Miracle Fruit」（神秘果）（Extra）</b></td></tr><tr><td style="min-width:100px" colspan="2" align="center"><b>符卡使用者</b></td><td style="min-width:250px" colspan="2" align="center"><a href="./东风谷早苗.md" title="东风谷早苗">东风谷早苗</a></td></tr><tr><td style="min-width:100px" colspan="2" align="center"><b>符卡血量</b></td><td style="min-width:250px" colspan="2" align="center">2200</td></tr><tr><td style="min-width:100px" colspan="2" align="center"><b>符卡分数</b></td><td style="min-width:250px" colspan="2" align="center">11000000（Extra）</td></tr><tr><td style="min-width:100px" colspan="2" align="center"><b>符卡时间</b></td><td style="min-width:250px" colspan="2" align="center">60s</td></tr><tr><td style="min-width:100px" colspan="2" align="center"><b>弹幕类型</b></td><td style="min-width:250px" colspan="2" align="center">固定弹</td></tr><tr><td style="min-width:100px" colspan="2" align="center"><b>应对建议</b></td><td style="min-width:250px" colspan="2" align="center">往死里扭，这张符卡不难</td></tr><tr><td style="min-width:100px" colspan="2" align="center"><b>补充说明</b></td><td style="min-width:250px" colspan="2" align="center">暂无</td></tr>
 </tbody></table>
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Beyond_the_Dreams_(Demo_ver.)封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\be\ns6%3ABeyond_the_Dreams_%28Demo_ver%2E%29%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\be\ns6%3ABeyond_the_Dreams_%28Demo_ver%2E%29%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 弾幕組
 
@@ -10,10 +10,7 @@
 使用了本文件作封面图片的作品：
   
 
-- [Beyond the Dreams (Demo ver.)](./Beyond_the_Dreams_(Demo_ver.).md)
-
-
-
+- [Beyond the Dreams (Demo ver.)](./Beyond_the_Dreams_(Demo_ver.%29.md)
 
 
 ---

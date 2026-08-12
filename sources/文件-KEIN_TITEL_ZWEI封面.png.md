@@ -1,6 +1,6 @@
 # 文件:KEIN_TITEL_ZWEI封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\88\ns6%3AKEIN_TITEL_ZWEI%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\88\ns6%3AKEIN_TITEL_ZWEI%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 同人志封面 | 封面图片 | 銘菓百合まんじゅう
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [KEIN TITEL ZWEI](./KEIN_TITEL_ZWEI.md)  
-该封面包含的角色：- [封兽鵺](./封兽鵺.md)
-
-
-
+- [KEIN TITEL ZWEI](./KEIN_TITEL_ZWEI.md)该封面包含的角色：
+- [封兽鵺](./封兽鵺.md)
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:花映塚魔理沙Ex.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fe\ns6%3A%E8%8A%B1%E6%98%A0%E5%A1%9A%E9%AD%94%E7%90%86%E6%B2%99Ex%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fe\ns6%3A%E8%8A%B1%E6%98%A0%E5%A1%9A%E9%AD%94%E7%90%86%E6%B2%99Ex%2Epng.html -->
 
 东方花映塚 | 雾雨魔理沙
-
-
-
-
 
 
 ---

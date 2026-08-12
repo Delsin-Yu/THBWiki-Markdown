@@ -1,6 +1,6 @@
 # 文件:THE_HEAVEN'S_HOLE封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\19\ns6%3ATHE_HEAVEN%27S_HOLE%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\19\ns6%3ATHE_HEAVEN%27S_HOLE%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Reset_All_Controllers | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Reset_All_Controllers | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [THE HEAVEN'S HOLE](./THE_HEAVEN'S_HOLE.md)  
-该封面包含的角色：- [霍青娥](./霍青娥.md)
-
-
-
+- [THE HEAVEN'S HOLE](./THE_HEAVEN'S_HOLE.md)该封面包含的角色：
+- [霍青娥](./霍青娥.md)
 
 
 ---

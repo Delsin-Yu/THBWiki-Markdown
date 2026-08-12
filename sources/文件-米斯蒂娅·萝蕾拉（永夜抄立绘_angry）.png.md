@@ -1,12 +1,8 @@
 # 文件:米斯蒂娅·萝蕾拉（永夜抄立绘_angry）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\83\ns6%3A%E7%B1%B3%E6%96%AF%E8%92%82%E5%A8%85%C2%B7%E8%90%9D%E8%95%BE%E6%8B%89%EF%BC%88%E6%B0%B8%E5%A4%9C%E6%8A%84%E7%AB%8B%E7%BB%98_angry%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\83\ns6%3A%E7%B1%B3%E6%96%AF%E8%92%82%E5%A8%85%C2%B7%E8%90%9D%E8%95%BE%E6%8B%89%EF%BC%88%E6%B0%B8%E5%A4%9C%E6%8A%84%E7%AB%8B%E7%BB%98_angry%EF%BC%89%2Epng.html -->
 
 ZUN绘 | 东方永夜抄 | 官方游戏立绘 | 米斯蒂娅·萝蕾拉
-
-
-
-
 
 
 ---

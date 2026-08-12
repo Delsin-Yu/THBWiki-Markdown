@@ -1,48 +1,46 @@
 # Club_Music_Emotion
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\e\ec\ns0%3AClub_Music_Emotion.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\e\ec\ns0%3AClub_Music_Emotion.html -->
 
 Club Music Emotion ，主要制作 同人音乐 的日本同人社团，主催是 Quent，当前状态为 休止
 
-本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
-
+本页是关于**[同人社团](./二次创作.md#同人社团)**的词条
 ## 目录
 
 - [1 社团信息](#社团信息)
 - [2 成员名单](#成员名单)
 - [3 作品列表](#作品列表)
-
   - [3.1 同人专辑](#同人专辑)
-
 
 
 - [4 参展信息](#参展信息)
 - [5 其他信息](#其他信息)
 
 
-
-
-
 ## 社团信息
-[](./文件-Club_Music_Emotionbanner.png.md)  [](./文件-Club_Music_Emotionbanner.png.md)Banner 1
-[](./文件-Club_Music_Emotionbanner2.png.md)  [](./文件-Club_Music_Emotionbanner2.png.md)Banner 2
-
-<table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Club Music Emotion </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=Quent&amp;action=edit&amp;redlink=1" class="new" title="Quent（页面不存在）">Quent</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://cmusice.web.fc2.com/">http://cmusice.web.fc2.com/</a> </td></tr></tbody></table>
+<img alt="" src="https://upload.thwiki.cc/3/3f/Club_Music_Emotionbanner.png" decoding="async" loading="lazy" width="200" height="40" class="thumbimage" data-file-width="200" data-file-height="40">
+ [放大](./文件-Club_Music_Emotionbanner.png.md)Banner 1<img alt="" src="https://upload.thwiki.cc/4/4c/Club_Music_Emotionbanner2.png" decoding="async" loading="lazy" width="200" height="40" class="thumbimage" data-file-width="200" data-file-height="40">
+ [放大](./文件-Club_Music_Emotionbanner2.png.md)Banner 2
+<table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Club Music Emotion </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>主催</b></td><td> <a class="new" title="Quent（页面不存在）">Quent</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://cmusice.web.fc2.com/">http://cmusice.web.fc2.com/</a> </td></tr></tbody></table>
 
 Club Music Emotion（同人社团，同人音乐社团） - Club Music Emotion ，主要制作 同人音乐 的日本同人社团，主催是 Quent，当前状态为 休止
-
 ## 成员名单
+
 - Quent (未找到链接)
   - [Twitter：@Quent_FL](https://twitter.com/Quent_FL)，[SoundCloud](https://soundcloud.com/quent_fl)
+
 
 - Lu:Na:Clock (未找到链接)
   - [Twitter：@Lu_Na_Clock](https://twitter.com/Lu_Na_Clock)
 
+
 - おすきー (未找到链接)／Oskey (未找到链接)
   - [Twitter：@chrono_cat](https://twitter.com/chrono_cat)
 
+
 - つっきー (未找到链接)／tsukki (未找到链接)
   - [Twitter：@_tsukki_](https://twitter.com/_tsukki_)
+
 
 - [torikara](./トリカラ.md)
 
@@ -50,30 +48,18 @@ Club Music Emotion（同人社团，同人音乐社团） - Club Music Emotion �
 ## 作品列表
 
 ### 同人专辑
-[](./Club_Music_Emotion（同人专辑）.md)[Club Music Emotion](./Club_Music_Emotion（同人专辑）.md)首发日期：2012-04-30 （M3-2012春 (未找到链接)）CMECD-01全长 （一般向）[](./Chaos_run.md)[Chaos run](./Chaos_run.md)首发日期：2012-12-30 （Comic Market 83 (未找到链接)）全长 （一般向）[](./Fairy_Tales.md)[Fairy Tales](./Fairy_Tales.md)首发日期：2013-05-26 （第十回 博麗神社例大祭 (未找到链接)）全长 （一般向）该作品是与 [Milkclip](./Milkclip.md) 合作创作的[](./東方金髪娘.md)[東方金髪娘](./東方金髪娘.md)首发日期：2013-12-30 （Comic Market 85 (未找到链接)）全长 （一般向）[](./NICE_SHOT!.md)[NICE SHOT!](./NICE_SHOT!.md)首发日期：2014-12-29 （Comic Market 87 (未找到链接)）EP （一般向）
-<table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
-
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
-
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
-
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
-
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
-</table>
-
-
+- **[Club Music Emotion](./Club_Music_Emotion（同人专辑）.md)** — 首发日期：2012-04-30 （M3-2012春）；CMECD-01；全长 （一般向）
+- **[Chaos run](./Chaos_run.md)** — 首发日期：2012-12-30 （Comic Market 83）；全长 （一般向）
+- **[Fairy Tales](./Fairy_Tales.md)** — 首发日期：2013-05-26 （第十回 博麗神社例大祭）；全长 （一般向）；该作品是与 Milkclip 合作创作的
+- **[東方金髪娘](./東方金髪娘.md)** — 首发日期：2013-12-30 （Comic Market 85）；全长 （一般向）
+- **[NICE SHOT!](./NICE_SHOT!.md)** — 首发日期：2014-12-29 （Comic Market 87）；EP （一般向）
 
 ## 参展信息
 
-<table><tbody><tr><th class="活动页面">活动页面</th><th class="活动名称">活动名称</th><th class="日期">日期</th><th class="举办地点">举办地点</th><th class="摊位编号">摊位编号</th><th class="宣传页面">宣传页面</th><th class="备注">备注</th></tr><tr data-row-number="1" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD#10" title="博丽神社例大祭">博丽神社例大祭#10</a></span></td><td class="活动名称 smwtype_txt">第十回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2456438.5">2013-05-26</td><td class="举办地点 smwtype_txt">东京Big Sight 东123456展厅</td><td class="摊位编号 smwtype_txt">E40b</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr></tbody></table>
-
+<table><tbody><tr><th class="活动页面">活动页面</th><th class="活动名称">活动名称</th><th class="日期">日期</th><th class="举办地点">举办地点</th><th class="摊位编号">摊位编号</th><th class="宣传页面">宣传页面</th><th class="备注">备注</th></tr><tr data-row-number="1" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="./博丽神社例大祭.md#10" title="博丽神社例大祭">博丽神社例大祭#10</a></span></td><td class="活动名称 smwtype_txt">第十回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2456438.5">2013-05-26</td><td class="举办地点 smwtype_txt">东京Big Sight 东123456展厅</td><td class="摊位编号 smwtype_txt">E40b</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr></tbody></table>
 
 
 ## 其他信息
-
-
-
 
 ---
 

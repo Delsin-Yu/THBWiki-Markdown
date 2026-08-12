@@ -1,6 +1,6 @@
 # 文件:Trace｜phantasmagoria封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\35\ns6%3ATrace%EF%BD%9Cphantasmagoria%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\35\ns6%3ATrace%EF%BD%9Cphantasmagoria%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Alstroemeria_Records | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Alstroemeria_Records | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [trace｜phantasmagoria](./trace｜phantasmagoria.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
-
-
-
+- [trace｜phantasmagoria](./trace｜phantasmagoria.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
 
 ---

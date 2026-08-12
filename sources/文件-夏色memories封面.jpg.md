@@ -1,6 +1,6 @@
 # 文件:夏色memories封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\01\ns6%3A%E5%A4%8F%E8%89%B2memories%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\01\ns6%3A%E5%A4%8F%E8%89%B2memories%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 H2O | 同人志封面 | 封面图片
 
@@ -10,11 +10,9 @@ H2O | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [夏色memories](./夏色memories.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [夏色memories](./夏色memories.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:椿木の箱庭banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\26\ns6%3A%E6%A4%BF%E6%9C%A8%E3%81%AE%E7%AE%B1%E5%BA%ADbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\26\ns6%3A%E6%A4%BF%E6%9C%A8%E3%81%AE%E7%AE%B1%E5%BA%ADbanner%2Epng.html -->
 
 椿木の箱庭 | 社团LOGO
-
-
-
-
 
 
 ---

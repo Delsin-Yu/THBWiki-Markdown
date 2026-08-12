@@ -1,6 +1,6 @@
 # 文件:東方_with_SCHRANZ9封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3d\ns6%3A%E6%9D%B1%E6%96%B9_with_SCHRANZ9%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3d\ns6%3A%E6%9D%B1%E6%96%B9_with_SCHRANZ9%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ダシマキレコード | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方 with SCHRANZ9](./東方_with_SCHRANZ9.md)  
-该封面包含的角色：- [克劳恩皮丝](./克劳恩皮丝.md)
+- [東方 with SCHRANZ9](./東方_with_SCHRANZ9.md)该封面包含的角色：
+- [克劳恩皮丝](./克劳恩皮丝.md)
 
   
-源地址：[图片链接](https://f4.bcbits.com/img/a0679971553_0.jpg) [Bandcamp](https://tkgmusic2.bandcamp.com/album/with-schranz9)
-  
-
-
-
-
+源地址：[图片链接](https://f4.bcbits.com/img/a0679971553_0.jpg) [Bandcamp](https://tkgmusic2.bandcamp.com/album/with-schranz9)  
 
 ---
 

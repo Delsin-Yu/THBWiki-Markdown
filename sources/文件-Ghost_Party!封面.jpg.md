@@ -1,6 +1,6 @@
 # 文件:Ghost_Party!封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6d\ns6%3AGhost_Party%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6d\ns6%3AGhost_Party%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 MA☆SPARK!_RECORDS | 专辑封面 | 封面图片
 
@@ -8,11 +8,14 @@ MA☆SPARK!_RECORDS | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Ghost Party!](./Ghost_Party!.md)  
-该封面包含的角色：- [西行寺幽幽子](./西行寺幽幽子.md)- [多多良小伞](./多多良小伞.md)- [幽谷响子](./幽谷响子.md)- [宫古芳香](./宫古芳香.md)- [霍青娥](./霍青娥.md)- [苏我屠自古](./苏我屠自古.md)- [物部布都](./物部布都.md)
-
-
-
+- [Ghost Party!](./Ghost_Party!.md)该封面包含的角色：
+- [西行寺幽幽子](./西行寺幽幽子.md)
+- [多多良小伞](./多多良小伞.md)
+- [幽谷响子](./幽谷响子.md)
+- [宫古芳香](./宫古芳香.md)
+- [霍青娥](./霍青娥.md)
+- [苏我屠自古](./苏我屠自古.md)
+- [物部布都](./物部布都.md)
 
 
 ---

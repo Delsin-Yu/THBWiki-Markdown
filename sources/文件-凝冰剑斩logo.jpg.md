@@ -1,16 +1,11 @@
 # 文件:凝冰剑斩logo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\20\ns6%3A%E5%87%9D%E5%86%B0%E5%89%91%E6%96%A9logo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\20\ns6%3A%E5%87%9D%E5%86%B0%E5%89%91%E6%96%A9logo%2Ejpg.html -->
 
 凝冰剑斩 | 社团LOGO
 
   
-源地址：[[1]](https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/49/49da3292491277a2ccacdf2556f20c9082227c53_full.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/49/49da3292491277a2ccacdf2556f20c9082227c53_full.jpg)  
 
 ---
 

@@ -1,12 +1,8 @@
 # 文件:紅庵banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a1\ns6%3A%E7%B4%85%E5%BA%B5banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a1\ns6%3A%E7%B4%85%E5%BA%B5banner%2Ejpg.html -->
 
 社团LOGO | 紅庵
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Rural_Makai_City_Esoteria／Copper_Dragon封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1b\ns6%3ARural_Makai_City_Esoteria%EF%BC%8FCopper_Dragon%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1b\ns6%3ARural_Makai_City_Esoteria%EF%BC%8FCopper_Dragon%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 CROW'SCLAW | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ CROW'SCLAW | 专辑封面 | 封面图片
   
 
 - [Rural Makai City Esoteria／Copper Dragon](./Rural_Makai_City_Esoteria／Copper_Dragon.md)
-
-
-
 
 
 ---

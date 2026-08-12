@@ -1,6 +1,6 @@
 # 文件:Touhou_Mario：_Imperishable_Night封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\15\ns6%3ATouhou_Mario%EF%BC%9A_Imperishable_Night%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\15\ns6%3ATouhou_Mario%EF%BC%9A_Imperishable_Night%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Silver_Scarlet | Vitor_Vitela | 封面图片 | 软件封面
 
@@ -10,16 +10,11 @@ Silver_Scarlet | Vitor_Vitela | 封面图片 | 软件封面
 使用了本文件作封面图片的作品：
   
 
-- [Touhou Mario： Imperishable Night](./Touhou_Mario：_Imperishable_Night.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
+- [Touhou Mario： Imperishable Night](./Touhou_Mario：_Imperishable_Night.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
   
-源地址：[from SMWDB](http://smwdb.me/db/3/3d8ebb213c85f9c8760b9f8bef78b2ae190b50e5/)
-  
-
-
-
-
+源地址：[from SMWDB](http://smwdb.me/db/3/3d8ebb213c85f9c8760b9f8bef78b2ae190b50e5/)  
 
 ---
 

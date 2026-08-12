@@ -1,16 +1,11 @@
 # 文件:SMOKESTACKbanner2.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\44\ns6%3ASMOKESTACKbanner2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\44\ns6%3ASMOKESTACKbanner2%2Epng.html -->
 
 SMOKESTACK | 社团LOGO
 
   
-源地址：[[1]](https://web.archive.org/web/20191108000732/http://smokestack.blendmix.jp/images/banner_002.png)
-  
-
-
-
-
+源地址：[\[1\]](https://web.archive.org/web/20191108000732/http://smokestack.blendmix.jp/images/banner_002.png)  
 
 ---
 

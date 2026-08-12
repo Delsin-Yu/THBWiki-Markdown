@@ -1,12 +1,8 @@
 # 文件:光収容の倉庫banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b8\ns6%3A%E5%85%89%E5%8F%8E%E5%AE%B9%E3%81%AE%E5%80%89%E5%BA%ABbanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b8\ns6%3A%E5%85%89%E5%8F%8E%E5%AE%B9%E3%81%AE%E5%80%89%E5%BA%ABbanner%2Egif.html -->
 
 光収容の倉庫 | 社团LOGO
-
-
-
-
 
 
 ---

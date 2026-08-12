@@ -1,16 +1,11 @@
 # 文件:Thousand_Storiesbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cd\ns6%3AThousand_Storiesbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cd\ns6%3AThousand_Storiesbanner%2Ejpg.html -->
 
 Thousand_Stories | 社团LOGO
 
   
-源地址：[[1]](http://masamasaworld.nobody.jp/images/thbana.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://masamasaworld.nobody.jp/images/thbana.jpg)  
 
 ---
 

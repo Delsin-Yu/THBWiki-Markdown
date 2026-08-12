@@ -1,6 +1,6 @@
 # 文件:豚BEST4_やわらか10年本仕込封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a0\ns6%3A%E8%B1%9ABEST4_%E3%82%84%E3%82%8F%E3%82%89%E3%81%8B10%E5%B9%B4%E6%9C%AC%E4%BB%95%E8%BE%BC%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a0\ns6%3A%E8%B1%9ABEST4_%E3%82%84%E3%82%8F%E3%82%89%E3%81%8B10%E5%B9%B4%E6%9C%AC%E4%BB%95%E8%BE%BC%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 豚乙女
 
@@ -9,9 +9,6 @@
   
 
 - [豚BEST4 やわらか10年本仕込](./豚BEST4_やわらか10年本仕込.md)
-
-
-
 
 
 ---

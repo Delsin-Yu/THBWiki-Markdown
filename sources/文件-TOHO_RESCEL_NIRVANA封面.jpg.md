@@ -1,6 +1,6 @@
 # 文件:TOHO_RESCEL_NIRVANA封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\83\ns6%3ATOHO_RESCEL_NIRVANA%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\83\ns6%3ATOHO_RESCEL_NIRVANA%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 白紙培地。
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [TOHO RESCEL NIRVANA](./TOHO_RESCEL_NIRVANA.md)  
-该封面包含的角色：- [封兽鵺](./封兽鵺.md)
-
-
-
+- [TOHO RESCEL NIRVANA](./TOHO_RESCEL_NIRVANA.md)该封面包含的角色：
+- [封兽鵺](./封兽鵺.md)
 
 
 ---

@@ -1,16 +1,11 @@
 # 文件:あんころ箱banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\94\ns6%3A%E3%81%82%E3%82%93%E3%81%93%E3%82%8D%E7%AE%B1banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\94\ns6%3A%E3%81%82%E3%82%93%E3%81%93%E3%82%8D%E7%AE%B1banner%2Epng.html -->
 
 あんころ箱 | 社团LOGO
 
   
-源地址：[[1]](http://www.ankorobox.net/wp-content/uploads/M3news-bana.png)
-  
-
-
-
-
+源地址：[\[1\]](http://www.ankorobox.net/wp-content/uploads/M3news-bana.png)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:Phant0m封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\86\ns6%3APhant0m%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\86\ns6%3APhant0m%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Murder_Ground | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Murder_Ground | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Phant0m](./Phant0m.md)  
-该封面包含的角色：- [依神紫苑](./依神紫苑.md)
-
-
-
+- [Phant0m](./Phant0m.md)该封面包含的角色：
+- [依神紫苑](./依神紫苑.md)
 
 
 ---

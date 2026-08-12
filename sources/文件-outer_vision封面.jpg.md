@@ -1,6 +1,6 @@
 # 文件:outer_vision封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dd\ns6%3Aouter_vision%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dd\ns6%3Aouter_vision%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 モーザン倶楽部 | 同人志封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [outer vision](./outer_vision.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [outer vision](./outer_vision.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

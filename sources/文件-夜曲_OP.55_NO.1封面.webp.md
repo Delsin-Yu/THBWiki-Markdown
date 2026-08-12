@@ -1,6 +1,6 @@
 # 文件:夜曲_OP.55_NO.1封面.webp
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5c\ns6%3A%E5%A4%9C%E6%9B%B2_OP%2E55_NO%2E1%E5%B0%81%E9%9D%A2%2Ewebp.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5c\ns6%3A%E5%A4%9C%E6%9B%B2_OP%2E55_NO%2E1%E5%B0%81%E9%9D%A2%2Ewebp.html -->
 
 同人志封面 | 封面图片 | 梦幻泡影
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [夜曲 OP.55 NO.1](./夜曲_OP.55_NO.1.md)  
-该封面包含的角色：- [宫出口瑞灵](./宫出口瑞灵.md)
-
-
-
+- [夜曲 OP.55 NO.1](./夜曲_OP.55_NO.1.md)该封面包含的角色：
+- [宫出口瑞灵](./宫出口瑞灵.md)
 
 
 ---

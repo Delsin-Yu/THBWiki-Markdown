@@ -1,6 +1,6 @@
 # 文件:東方翠神廻廊_～_Faith_in_the_Goddess_of_Suwa.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\84\ns6%3A%E6%9D%B1%E6%96%B9%E7%BF%A0%E7%A5%9E%E5%BB%BB%E5%BB%8A_%EF%BD%9E_Faith_in_the_Goddess_of_Suwa%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\84\ns6%3A%E6%9D%B1%E6%96%B9%E7%BF%A0%E7%A5%9E%E5%BB%BB%E5%BB%8A_%EF%BD%9E_Faith_in_the_Goddess_of_Suwa%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 T.D | 封面图片 | 软件封面
 
@@ -8,11 +8,8 @@ T.D | 封面图片 | 软件封面
 使用了本文件作封面图片的作品：
   
 
-- [東方翠神廻廊 ～ Faith in the Goddess of Suwa.](./東方翠神廻廊_～_Faith_in_the_Goddess_of_Suwa..md)  
-该封面包含的角色：- [洩矢诹访子](./洩矢诹访子.md)
-
-
-
+- [東方翠神廻廊 ～ Faith in the Goddess of Suwa.](./東方翠神廻廊_～_Faith_in_the_Goddess_of_Suwa..md)该封面包含的角色：
+- [洩矢诹访子](./洩矢诹访子.md)
 
 
 ---

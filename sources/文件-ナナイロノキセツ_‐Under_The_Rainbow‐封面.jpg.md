@@ -1,6 +1,6 @@
 # 文件:ナナイロノキセツ_‐Under_The_Rainbow‐封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\83\ns6%3A%E3%83%8A%E3%83%8A%E3%82%A4%E3%83%AD%E3%83%8E%E3%82%AD%E3%82%BB%E3%83%84_%E2%80%90Under_The_Rainbow%E2%80%90%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\83\ns6%3A%E3%83%8A%E3%83%8A%E3%82%A4%E3%83%AD%E3%83%8E%E3%82%AD%E3%82%BB%E3%83%84_%E2%80%90Under_The_Rainbow%E2%80%90%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 TUMENECO | 专辑封面 | 封面图片
 
@@ -8,11 +8,17 @@ TUMENECO | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [ナナイロノキセツ ‐Under The Rainbow‐](./ナナイロノキセツ_‐Under_The_Rainbow‐.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)- [魂魄妖梦](./魂魄妖梦.md)- [西行寺幽幽子](./西行寺幽幽子.md)- [八云紫](./八云紫.md)- [蓬莱山辉夜](./蓬莱山辉夜.md)- [藤原妹红](./藤原妹红.md)- [风见幽香](./风见幽香.md)- [比那名居天子](./比那名居天子.md)- [古明地觉](./古明地觉.md)- [古明地恋](./古明地恋.md)
-
-
-
+- [ナナイロノキセツ ‐Under The Rainbow‐](./ナナイロノキセツ_‐Under_The_Rainbow‐.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
+- [魂魄妖梦](./魂魄妖梦.md)
+- [西行寺幽幽子](./西行寺幽幽子.md)
+- [八云紫](./八云紫.md)
+- [蓬莱山辉夜](./蓬莱山辉夜.md)
+- [藤原妹红](./藤原妹红.md)
+- [风见幽香](./风见幽香.md)
+- [比那名居天子](./比那名居天子.md)
+- [古明地觉](./古明地觉.md)
+- [古明地恋](./古明地恋.md)
 
 
 ---

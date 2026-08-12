@@ -1,12 +1,8 @@
 # 文件:箱屋彼方banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\94\ns6%3A%E7%AE%B1%E5%B1%8B%E5%BD%BC%E6%96%B9banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\94\ns6%3A%E7%AE%B1%E5%B1%8B%E5%BD%BC%E6%96%B9banner%2Ejpg.html -->
 
 社团LOGO | 箱屋彼方
-
-
-
-
 
 
 ---

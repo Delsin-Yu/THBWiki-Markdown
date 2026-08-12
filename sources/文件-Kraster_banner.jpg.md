@@ -1,12 +1,8 @@
 # 文件:Kraster_banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\58\ns6%3AKraster_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\58\ns6%3AKraster_banner%2Ejpg.html -->
 
 Kraster | 社团LOGO
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:螺旋衒操_～Dolls_of_Independence～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\29\ns6%3A%E8%9E%BA%E6%97%8B%E8%A1%92%E6%93%8D_%EF%BD%9EDolls_of_Independence%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\29\ns6%3A%E8%9E%BA%E6%97%8B%E8%A1%92%E6%93%8D_%EF%BD%9EDolls_of_Independence%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Crest | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Crest | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [螺旋衒操 ～Dolls of Independence～](./螺旋衒操_～Dolls_of_Independence～.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
-
-
-
+- [螺旋衒操 ～Dolls of Independence～](./螺旋衒操_～Dolls_of_Independence～.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
 
 
 ---

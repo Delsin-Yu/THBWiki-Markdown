@@ -1,12 +1,8 @@
 # 文件:無影ｘ少女banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\36\ns6%3A%E7%84%A1%E5%BD%B1%EF%BD%98%E5%B0%91%E5%A5%B3banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\36\ns6%3A%E7%84%A1%E5%BD%B1%EF%BD%98%E5%B0%91%E5%A5%B3banner%2Ejpg.html -->
 
 無影ｘ少女 | 社团LOGO
-
-
-
-
 
 
 ---

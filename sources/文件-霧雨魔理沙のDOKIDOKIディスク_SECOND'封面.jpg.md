@@ -1,6 +1,6 @@
 # 文件:霧雨魔理沙のDOKIDOKIディスク_SECOND'封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2f\ns6%3A%E9%9C%A7%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%E3%81%AEDOKIDOKI%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF_SECOND%27%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2f\ns6%3A%E9%9C%A7%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%E3%81%AEDOKIDOKI%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF_SECOND%27%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 アールグレイ | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [霧雨魔理沙のDOKIDOKIディスク SECOND'](./霧雨魔理沙のDOKIDOKIディスク_SECOND'.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [霧雨魔理沙のDOKIDOKIディスク SECOND'](./霧雨魔理沙のDOKIDOKIディスク_SECOND'.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

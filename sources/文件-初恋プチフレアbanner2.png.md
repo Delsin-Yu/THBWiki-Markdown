@@ -1,14 +1,11 @@
 # 文件:初恋プチフレアbanner2.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0d\ns6%3A%E5%88%9D%E6%81%8B%E3%83%97%E3%83%81%E3%83%95%E3%83%AC%E3%82%A2banner2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0d\ns6%3A%E5%88%9D%E6%81%8B%E3%83%97%E3%83%81%E3%83%95%E3%83%AC%E3%82%A2banner2%2Epng.html -->
 
 初恋プチフレア | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

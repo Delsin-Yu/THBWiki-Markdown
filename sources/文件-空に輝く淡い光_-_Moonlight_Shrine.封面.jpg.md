@@ -1,6 +1,6 @@
 # 文件:空に輝く淡い光_-_Moonlight_Shrine.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b6\ns6%3A%E7%A9%BA%E3%81%AB%E8%BC%9D%E3%81%8F%E6%B7%A1%E3%81%84%E5%85%89_-_Moonlight_Shrine%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b6\ns6%3A%E7%A9%BA%E3%81%AB%E8%BC%9D%E3%81%8F%E6%B7%A1%E3%81%84%E5%85%89_-_Moonlight_Shrine%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 AncientChronicle | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ AncientChronicle | 专辑封面 | 封面图片
   
 
 - [空に輝く淡い光 - Moonlight Shrine.](./空に輝く淡い光_-_Moonlight_Shrine..md)
-
-
-
 
 
 ---

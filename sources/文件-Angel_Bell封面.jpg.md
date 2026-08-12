@@ -1,6 +1,6 @@
 # 文件:Angel_Bell封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2e\ns6%3AAngel_Bell%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2e\ns6%3AAngel_Bell%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Static_World | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Static_World | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Angel Bell](./Angel_Bell.md)  
-该封面包含的角色：- [古明地恋](./古明地恋.md)
-
-
-
+- [Angel Bell](./Angel_Bell.md)该封面包含的角色：
+- [古明地恋](./古明地恋.md)
 
 
 ---

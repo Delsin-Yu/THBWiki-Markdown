@@ -1,12 +1,8 @@
 # 文件:8bit_canvasbanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\70\ns6%3A8bit_canvasbanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\70\ns6%3A8bit_canvasbanner%2Egif.html -->
 
 8bit_canvas | 社团LOGO
-
-
-
-
 
 
 ---

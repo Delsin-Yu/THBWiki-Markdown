@@ -1,42 +1,33 @@
 # Elex_Media_Komputindo
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\3\3a\ns0%3AElex_Media_Komputindo.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\3\3a\ns0%3AElex_Media_Komputindo.html -->
 
 PT Elex Media Komputindo，股份有限公司
 
 本页是关于东方Project  
- **相关公司会社** 的词条
-
+**相关公司会社**的词条
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 主要刊物](#主要刊物)
-
   - [2.1 杂志](#杂志)
 
 
-
 - [3 与东方Project的关联](#与东方Project的关联)
-
   - [3.1 单行本与书籍](#单行本与书籍)
-
 
 
 - [4 其他说明](#其他说明)
 
 
-
-
-
 ## 基本信息
-[](./文件-Elex_Media_KomputindoLOGO.jpg.md)  Elex Media KomputindoLOGO
-  
-<big> **PT Elex Media Komputindo** </big>是印度尼西亚的一家出版社。
+<img alt="" src="https://upload.thwiki.cc/4/4a/Elex_Media_KomputindoLOGO.jpg" decoding="async" loading="lazy" width="204" height="120" class="thumbimage" data-file-width="204" data-file-height="120">
+ Elex Media KomputindoLOGO  
+<big>**PT Elex Media Komputindo**</big>是印度尼西亚的一家出版社。
   
   
 主要经营漫画、小说等书籍的出版发行，另外也对日本、韩国和中国的漫画进行代理出版。其母公司是Kelompok Kompas Gramedia。
   
-
 
 <table>
 <tbody><tr>
@@ -46,10 +37,10 @@ PT Elex Media Komputindo，股份有限公司
 <td style="width:140px"><b>正式名称</b></td><td style="min-width:300px">PT Elex Media Komputindo</td></tr><tr><td><b>公司现状</b></td><td>持续营业中</td></tr><tr><td><b>公司种类</b></td><td>股份有限公司</td></tr><tr><td><b>成立日期</b></td><td>1985年1月25日</td></tr><tr><td><b>本社地址</b></td><td>雅加达首都特区Jl. Palmerah街道西29 - 37 Kompas Gramedia大楼</td></tr><tr><td><b>本社邮编</b></td><td>10270</td></tr><tr><td><b>官网地址</b></td><td><a rel="nofollow" class="external free" href="http://elexdigital.co.id/">http://elexdigital.co.id/</a></td></tr></tbody></table>
 
 Elex Media Komputindo（公司会社） - PT Elex Media Komputindo，股份有限公司
-
 ## 主要刊物
 
 ### 杂志
+
 - Hanalala
 - Shōnen Star
 - Shonen Magz
@@ -62,15 +53,13 @@ Elex Media Komputindo（公司会社） - PT Elex Media Komputindo，股份有�
 ## 与东方Project的关联
 
 ### 单行本与书籍
+
 - [东方儚月抄 ～ Silent Sinner in Blue. 上](./东方儚月抄_～_Silent_Sinner_in_Blue..md)（2014年4月16日出版的官方漫画单行本）
 - [东方儚月抄 ～ Silent Sinner in Blue. 中](./东方儚月抄_～_Silent_Sinner_in_Blue..md)（2014年4月16日出版的官方漫画单行本）
 - [东方儚月抄 ～ Silent Sinner in Blue. 底](./东方儚月抄_～_Silent_Sinner_in_Blue..md)（2014年5月21日出版的官方漫画单行本）
 
 
 ## 其他说明
-
-
-
 
 ---
 

@@ -1,12 +1,8 @@
 # 文件:恋符「Non-Directional_Laser」（妖妖梦）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\72\ns6%3A%E6%81%8B%E7%AC%A6%E3%80%8CNon-Directional_Laser%E3%80%8D%EF%BC%88%E5%A6%96%E5%A6%96%E6%A2%A6%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\72\ns6%3A%E6%81%8B%E7%AC%A6%E3%80%8CNon-Directional_Laser%E3%80%8D%EF%BC%88%E5%A6%96%E5%A6%96%E6%A2%A6%EF%BC%89%2Epng.html -->
 
 东方妖妖梦 | 自机符卡 | 雾雨魔理沙
-
-
-
-
 
 
 ---

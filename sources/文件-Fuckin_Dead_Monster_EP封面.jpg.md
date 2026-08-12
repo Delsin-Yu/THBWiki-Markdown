@@ -1,6 +1,6 @@
 # 文件:Fuckin_Dead_Monster_EP封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5a\ns6%3AFuckin_Dead_Monster_EP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5a\ns6%3AFuckin_Dead_Monster_EP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 River_Mist | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ River_Mist | 专辑封面 | 封面图片
   
 
 - [Fuckin Dead Monster EP](./Fuckin_Dead_Monster_EP.md)
-
-
-
 
 
 ---

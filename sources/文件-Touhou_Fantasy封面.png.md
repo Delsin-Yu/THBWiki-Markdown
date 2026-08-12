@@ -1,6 +1,6 @@
 # 文件:Touhou_Fantasy封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5f\ns6%3ATouhou_Fantasy%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5f\ns6%3ATouhou_Fantasy%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Xenomic | 封面图片 | 软件封面
 
@@ -8,11 +8,8 @@ Xenomic | 封面图片 | 软件封面
 使用了本文件作封面图片的作品：
   
 
-- [Touhou Fantasy](./Touhou_Fantasy.md)  
-该封面包含的角色：- [犬走椛](./犬走椛.md)
-
-
-
+- [Touhou Fantasy](./Touhou_Fantasy.md)该封面包含的角色：
+- [犬走椛](./犬走椛.md)
 
 
 ---

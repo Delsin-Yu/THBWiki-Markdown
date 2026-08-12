@@ -1,6 +1,6 @@
 # 文件:Trois_Bleu封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8b\ns6%3ATrois_Bleu%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8b\ns6%3ATrois_Bleu%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Sound_Online | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ Sound_Online | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Trois Bleu](./Trois_Bleu.md)  
-该封面包含的角色：- [东风谷早苗](./东风谷早苗.md)- [八坂神奈子](./八坂神奈子.md)
-
-
-
+- [Trois Bleu](./Trois_Bleu.md)该封面包含的角色：
+- [东风谷早苗](./东风谷早苗.md)
+- [八坂神奈子](./八坂神奈子.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Storm_Bringer（Alice_in_the_hole!）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\52\ns6%3AStorm_Bringer%EF%BC%88Alice_in_the_hole%21%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\52\ns6%3AStorm_Bringer%EF%BC%88Alice_in_the_hole%21%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Alice_in_the_hole! | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Alice_in_the_hole! | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Storm Bringer（Alice in the hole!）](./Storm_Bringer（Alice_in_the_hole!）.md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)
+- [Storm Bringer（Alice in the hole!）](./Storm_Bringer（Alice_in_the_hole!）.md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
 
   
-源地址：[[1]](http://aith.ninja-x.jp/Stormbringer.html)
-  
-
-
-
-
+源地址：[\[1\]](http://aith.ninja-x.jp/Stormbringer.html)  
 
 ---
 

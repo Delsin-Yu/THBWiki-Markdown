@@ -1,6 +1,6 @@
 # 文件:REVIVE～Toho_CrossOver～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f4\ns6%3AREVIVE%EF%BD%9EToho_CrossOver%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f4\ns6%3AREVIVE%EF%BD%9EToho_CrossOver%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ALiCe_BoX | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ ALiCe_BoX | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [REVIVE～Toho CrossOver～](./REVIVE～Toho_CrossOver～.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [圣白莲](./圣白莲.md)
-
-
-
+- [REVIVE～Toho CrossOver～](./REVIVE～Toho_CrossOver～.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [圣白莲](./圣白莲.md)
 
 
 ---

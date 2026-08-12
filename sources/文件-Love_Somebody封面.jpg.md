@@ -1,6 +1,6 @@
 # 文件:Love_Somebody封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2f\ns6%3ALove_Somebody%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2f\ns6%3ALove_Somebody%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 小豆粥
 
@@ -8,16 +8,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [Love Somebody](./Love_Somebody.md)  
-该封面包含的角色：- [河城荷取](./河城荷取.md)- [雾雨魔理沙](./雾雨魔理沙.md)
+- [Love Somebody](./Love_Somebody.md)该封面包含的角色：
+- [河城荷取](./河城荷取.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-源地址：[[1]](https://blog-imgs-47.fc2.com/a/z/u/azukiosamitu/lovesomebadyhyoushi01a_20100715223516.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://blog-imgs-47.fc2.com/a/z/u/azukiosamitu/lovesomebadyhyoushi01a_20100715223516.jpg)  
 
 ---
 

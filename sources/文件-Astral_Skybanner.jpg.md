@@ -1,16 +1,11 @@
 # 文件:Astral_Skybanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b1\ns6%3AAstral_Skybanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b1\ns6%3AAstral_Skybanner%2Ejpg.html -->
 
 Astral_Sky | 社团LOGO
 
   
-源地址：[[1]](http://38.media.tumblr.com/5220c869c5be23aa42c414323ebf0a22/tumblr_inline_n1uixgPSQ11sqbnbg.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://38.media.tumblr.com/5220c869c5be23aa42c414323ebf0a22/tumblr_inline_n1uixgPSQ11sqbnbg.jpg)  
 
 ---
 

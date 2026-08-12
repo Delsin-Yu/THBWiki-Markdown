@@ -1,6 +1,6 @@
 # 文件:YES'89封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\13\ns6%3AYES%2789%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\13\ns6%3AYES%2789%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Siestail | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Siestail | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [YES'89](./YES'89.md)  
-该封面包含的角色：- [键山雏](./键山雏.md)
-
-
-
+- [YES'89](./YES'89.md)该封面包含的角色：
+- [键山雏](./键山雏.md)
 
 
 ---

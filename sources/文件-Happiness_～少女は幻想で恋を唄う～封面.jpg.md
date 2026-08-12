@@ -1,6 +1,6 @@
 # 文件:Happiness_～少女は幻想で恋を唄う～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5d\ns6%3AHappiness_%EF%BD%9E%E5%B0%91%E5%A5%B3%E3%81%AF%E5%B9%BB%E6%83%B3%E3%81%A7%E6%81%8B%E3%82%92%E5%94%84%E3%81%86%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5d\ns6%3AHappiness_%EF%BD%9E%E5%B0%91%E5%A5%B3%E3%81%AF%E5%B9%BB%E6%83%B3%E3%81%A7%E6%81%8B%E3%82%92%E5%94%84%E3%81%86%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Frontier_Records | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ Frontier_Records | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Happiness ～少女は幻想で恋を唄う～](./Happiness_～少女は幻想で恋を唄う～.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [Happiness ～少女は幻想で恋を唄う～](./Happiness_～少女は幻想で恋を唄う～.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Touhou_Philharmoniker封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6e\ns6%3ATouhou_Philharmoniker%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6e\ns6%3ATouhou_Philharmoniker%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Lazy_Apple | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@ Lazy_Apple | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Touhou Philharmoniker](./Touhou_Philharmoniker.md)  
-该封面包含的角色：- [古明地觉](./古明地觉.md)
+- [Touhou Philharmoniker](./Touhou_Philharmoniker.md)该封面包含的角色：
+- [古明地觉](./古明地觉.md)
 
   
-源地址：[[1]](http://lain.bgm.tv/pic/dcover/l/ad/9f/13639_pr3iV.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://lain.bgm.tv/pic/dcover/l/ad/9f/13639_pr3iV.jpg)  
 
 ---
 

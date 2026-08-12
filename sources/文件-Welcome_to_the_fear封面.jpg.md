@@ -1,6 +1,6 @@
 # 文件:Welcome_to_the_fear封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f9\ns6%3AWelcome_to_the_fear%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f9\ns6%3AWelcome_to_the_fear%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Suspicion_&_Fear | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Suspicion_&_Fear | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Welcome to the fear](./Welcome_to_the_fear.md)  
-该封面包含的角色：- [灵乌路空](./灵乌路空.md)
+- [Welcome to the fear](./Welcome_to_the_fear.md)该封面包含的角色：
+- [灵乌路空](./灵乌路空.md)
 
   
-源地址：[[1]](http://blog-imgs-82-origin.fc2.com/s/u/s/suspicionandfaer/22201510jacket4P_1PJs.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://blog-imgs-82-origin.fc2.com/s/u/s/suspicionandfaer/22201510jacket4P_1PJs.jpg)  
 
 ---
 

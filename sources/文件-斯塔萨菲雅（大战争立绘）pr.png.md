@@ -1,12 +1,8 @@
 # 文件:斯塔萨菲雅（大战争立绘）pr.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f6\ns6%3A%E6%96%AF%E5%A1%94%E8%90%A8%E8%8F%B2%E9%9B%85%EF%BC%88%E5%A4%A7%E6%88%98%E4%BA%89%E7%AB%8B%E7%BB%98%EF%BC%89pr%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f6\ns6%3A%E6%96%AF%E5%A1%94%E8%90%A8%E8%8F%B2%E9%9B%85%EF%BC%88%E5%A4%A7%E6%88%98%E4%BA%89%E7%AB%8B%E7%BB%98%EF%BC%89pr%2Epng.html -->
 
 妖精大战争 | 官方游戏立绘 | 斯塔萨菲雅 | 比良坂真琴绘
-
-
-
-
 
 
 ---

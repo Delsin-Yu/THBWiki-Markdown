@@ -1,12 +1,8 @@
 # 文件:月眼「月兔远程催眠术(Tele-Mesmerism)」（永夜抄）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f8\ns6%3A%E6%9C%88%E7%9C%BC%E3%80%8C%E6%9C%88%E5%85%94%E8%BF%9C%E7%A8%8B%E5%82%AC%E7%9C%A0%E6%9C%AF%28Tele-Mesmerism%29%E3%80%8D%EF%BC%88%E6%B0%B8%E5%A4%9C%E6%8A%84%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f8\ns6%3A%E6%9C%88%E7%9C%BC%E3%80%8C%E6%9C%88%E5%85%94%E8%BF%9C%E7%A8%8B%E5%82%AC%E7%9C%A0%E6%9C%AF%28Tele-Mesmerism%29%E3%80%8D%EF%BC%88%E6%B0%B8%E5%A4%9C%E6%8A%84%EF%BC%89%2Ejpg.html -->
 
 东方永夜抄 | 敌机符卡 | 铃仙·优昙华院·因幡
-
-
-
-
 
 
 ---

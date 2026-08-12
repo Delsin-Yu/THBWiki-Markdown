@@ -1,6 +1,6 @@
 # 文件:BLACK_CLOAK_SKELETON封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b6\ns6%3ABLACK_CLOAK_SKELETON%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b6\ns6%3ABLACK_CLOAK_SKELETON%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 THOUSAND_LEAVES | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ THOUSAND_LEAVES | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [BLACK CLOAK SKELETON](./BLACK_CLOAK_SKELETON.md)  
-该封面包含的角色：- [琪斯美](./琪斯美.md)
-
-
-
+- [BLACK CLOAK SKELETON](./BLACK_CLOAK_SKELETON.md)该封面包含的角色：
+- [琪斯美](./琪斯美.md)
 
 
 ---

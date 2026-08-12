@@ -1,6 +1,6 @@
 # 文件:Stopped_Worlds_In_The_Finder封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\99\ns6%3AStopped_Worlds_In_The_Finder%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\99\ns6%3AStopped_Worlds_In_The_Finder%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Medicine_Faktory | 专辑封面 | 封面图片
 
@@ -8,10 +8,7 @@ Medicine_Faktory | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Stopped Worlds In The Finder](./Stopped_Worlds_In_The_Finder.md)源地址：[[1]](https://medicine-faktory.booth.pm/items/582962)
-
-
-
+- [Stopped Worlds In The Finder](./Stopped_Worlds_In_The_Finder.md)源地址：[\[1\]](https://medicine-faktory.booth.pm/items/582962)
 
 
 ---

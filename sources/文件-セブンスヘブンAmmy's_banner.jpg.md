@@ -1,12 +1,8 @@
 # 文件:セブンスヘブンAmmy's_banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\32\ns6%3A%E3%82%BB%E3%83%96%E3%83%B3%E3%82%B9%E3%83%98%E3%83%96%E3%83%B3Ammy%27s_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\32\ns6%3A%E3%82%BB%E3%83%96%E3%83%B3%E3%82%B9%E3%83%98%E3%83%96%E3%83%B3Ammy%27s_banner%2Ejpg.html -->
 
 セブンスヘブンAmmy's | 社团LOGO
-
-
-
-
 
 
 ---

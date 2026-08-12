@@ -1,6 +1,6 @@
 # 文件:春夏秋トウホウ_～Avenue_of_Spring封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6b\ns6%3A%E6%98%A5%E5%A4%8F%E7%A7%8B%E3%83%88%E3%82%A6%E3%83%9B%E3%82%A6_%EF%BD%9EAvenue_of_Spring%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6b\ns6%3A%E6%98%A5%E5%A4%8F%E7%A7%8B%E3%83%88%E3%82%A6%E3%83%9B%E3%82%A6_%EF%BD%9EAvenue_of_Spring%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 华绢花 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [春夏秋トウホウ ～Avenue of Spring](./春夏秋トウホウ_～Avenue_of_Spring.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [春夏秋トウホウ ～Avenue of Spring](./春夏秋トウホウ_～Avenue_of_Spring.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

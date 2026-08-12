@@ -1,16 +1,12 @@
 # 模板:下北Emotion
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\e\e3\ns10%3A%E4%B8%8B%E5%8C%97Emotion.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\e\e3\ns10%3A%E4%B8%8B%E5%8C%97Emotion.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

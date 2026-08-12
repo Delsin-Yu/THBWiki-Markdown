@@ -1,6 +1,6 @@
 # 文件:火焔舞踏会_-Masquerade_of_flame_cat-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\42\ns6%3A%E7%81%AB%E7%84%94%E8%88%9E%E8%B8%8F%E4%BC%9A_-Masquerade_of_flame_cat-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\42\ns6%3A%E7%81%AB%E7%84%94%E8%88%9E%E8%B8%8F%E4%BC%9A_-Masquerade_of_flame_cat-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 MIRACLE_EUROS | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ MIRACLE_EUROS | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [火焔舞踏会 -Masquerade of flame cat-](./火焔舞踏会_-Masquerade_of_flame_cat-.md)  
-该封面包含的角色：- [火焰猫燐](./火焰猫燐.md)
-
-
-
+- [火焔舞踏会 -Masquerade of flame cat-](./火焔舞踏会_-Masquerade_of_flame_cat-.md)该封面包含的角色：
+- [火焰猫燐](./火焰猫燐.md)
 
 
 ---

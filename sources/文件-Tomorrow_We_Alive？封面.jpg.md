@@ -1,6 +1,6 @@
 # 文件:Tomorrow_We_Alive？封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2b\ns6%3ATomorrow_We_Alive%EF%BC%9F%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2b\ns6%3ATomorrow_We_Alive%EF%BC%9F%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Freaks_Ground | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Freaks_Ground | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Tomorrow We Alive？](./Tomorrow_We_Alive？.md)  
-该封面包含的角色：- [赤蛮奇](./赤蛮奇.md)
+- [Tomorrow We Alive？](./Tomorrow_We_Alive？.md)该封面包含的角色：
+- [赤蛮奇](./赤蛮奇.md)
 
   
-源地址: [[1]](http://static.tumblr.com/75980c5470ae72649f0b40cbdaded920/uwvk4vm/wFwobf6np/tumblr_static_8svwaqj49rswcg8wgww08owcs.png)
-  
-
-
-
-
+源地址: [\[1\]](http://static.tumblr.com/75980c5470ae72649f0b40cbdaded920/uwvk4vm/wFwobf6np/tumblr_static_8svwaqj49rswcg8wgww08owcs.png)  
 
 ---
 

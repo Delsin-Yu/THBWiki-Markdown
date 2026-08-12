@@ -1,6 +1,6 @@
 # 文件:東方イケメン祭_特典CD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b3\ns6%3A%E6%9D%B1%E6%96%B9%E3%82%A4%E3%82%B1%E3%83%A1%E3%83%B3%E7%A5%AD_%E7%89%B9%E5%85%B8CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b3\ns6%3A%E6%9D%B1%E6%96%B9%E3%82%A4%E3%82%B1%E3%83%A1%E3%83%B3%E7%A5%AD_%E7%89%B9%E5%85%B8CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 虎之穴
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方イケメン祭 特典CD](./東方イケメン祭_特典CD.md)  
-该封面包含的角色：- [圣白莲](./圣白莲.md)
-
-
-
+- [東方イケメン祭 特典CD](./東方イケメン祭_特典CD.md)该封面包含的角色：
+- [圣白莲](./圣白莲.md)
 
 
 ---

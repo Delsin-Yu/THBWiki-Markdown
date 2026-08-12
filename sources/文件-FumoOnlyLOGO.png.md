@@ -1,12 +1,8 @@
 # 文件:FumoOnlyLOGO.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6e\ns6%3AFumoOnlyLOGO%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6e\ns6%3AFumoOnlyLOGO%2Epng.html -->
 
 FumoOnly | 活动LOGO
-
-
-
-
 
 
 ---

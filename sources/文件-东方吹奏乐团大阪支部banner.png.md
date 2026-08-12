@@ -1,12 +1,8 @@
 # 文件:东方吹奏乐团大阪支部banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\26\ns6%3A%E4%B8%9C%E6%96%B9%E5%90%B9%E5%A5%8F%E4%B9%90%E5%9B%A2%E5%A4%A7%E9%98%AA%E6%94%AF%E9%83%A8banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\26\ns6%3A%E4%B8%9C%E6%96%B9%E5%90%B9%E5%A5%8F%E4%B9%90%E5%9B%A2%E5%A4%A7%E9%98%AA%E6%94%AF%E9%83%A8banner%2Epng.html -->
 
 东方吹奏乐团大阪支部 | 社团LOGO
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Eyes_of_Another_Stranger封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f2\ns6%3AEyes_of_Another_Stranger%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f2\ns6%3AEyes_of_Another_Stranger%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Orpheus | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Orpheus | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Eyes of Another Stranger](./Eyes_of_Another_Stranger.md)  
-该封面包含的角色：- [古明地觉](./古明地觉.md)
+- [Eyes of Another Stranger](./Eyes_of_Another_Stranger.md)该封面包含的角色：
+- [古明地觉](./古明地觉.md)
 
   
-源地址：[Pixiv illust ID 47801888](https://i.pximg.net/img-master/img/2014/12/27/19/35/26/47801888_p0_master1200.jpg)
-  
-
-
-
-
+源地址：[Pixiv illust ID 47801888](https://i.pximg.net/img-master/img/2014/12/27/19/35/26/47801888_p0_master1200.jpg)  
 
 ---
 

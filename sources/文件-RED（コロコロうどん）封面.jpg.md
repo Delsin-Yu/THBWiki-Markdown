@@ -1,6 +1,6 @@
 # 文件:RED（コロコロうどん）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\20\ns6%3ARED%EF%BC%88%E3%82%B3%E3%83%AD%E3%82%B3%E3%83%AD%E3%81%86%E3%81%A9%E3%82%93%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\20\ns6%3ARED%EF%BC%88%E3%82%B3%E3%83%AD%E3%82%B3%E3%83%AD%E3%81%86%E3%81%A9%E3%82%93%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 コロコロうどん | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [RED（コロコロうどん）](./RED（コロコロうどん）.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [RED（コロコロうどん）](./RED（コロコロうどん）.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
   
-[Pixiv artwork ID: 13726750 (original size)](https://www.pixiv.net/artworks/13726750)
-  
-
-
-
-
+[Pixiv artwork ID: 13726750 (original size)](https://www.pixiv.net/artworks/13726750)  
 
 ---
 

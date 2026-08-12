@@ -1,6 +1,6 @@
 # 文件:cherry_blossom（寝袋ハンモック）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7b\ns6%3Acherry_blossom%EF%BC%88%E5%AF%9D%E8%A2%8B%E3%83%8F%E3%83%B3%E3%83%A2%E3%83%83%E3%82%AF%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7b\ns6%3Acherry_blossom%EF%BC%88%E5%AF%9D%E8%A2%8B%E3%83%8F%E3%83%B3%E3%83%A2%E3%83%83%E3%82%AF%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 寝袋ハンモック | 封面图片
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [cherry blossom（寝袋ハンモック）](./cherry_blossom（寝袋ハンモック）.md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)
+- [cherry blossom（寝袋ハンモック）](./cherry_blossom（寝袋ハンモック）.md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
 
   
-[Pixiv artwork ID: 68558005 (image 3/3)](https://www.pixiv.net/artworks/68558005)
-  
-
-
-
-
+[Pixiv artwork ID: 68558005 (image 3/3)](https://www.pixiv.net/artworks/68558005)  
 
 ---
 

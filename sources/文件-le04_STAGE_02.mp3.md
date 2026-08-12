@@ -1,16 +1,12 @@
 # 文件:le04_STAGE_02.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e2\ns6%3Ale04_STAGE_02%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e2\ns6%3Ale04_STAGE_02%2Emp3.html -->
 
 妖之病垂_～_Outbreak | 连缘Project官方音乐MP3 | 连缘天影战记
 
   
 连缘天影战记不迷之森主题曲
   
-
-
-
-
 
 ---
 

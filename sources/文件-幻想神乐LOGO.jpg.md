@@ -1,15 +1,12 @@
 # 文件:幻想神乐LOGO.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9c\ns6%3A%E5%B9%BB%E6%83%B3%E7%A5%9E%E4%B9%90LOGO%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9c\ns6%3A%E5%B9%BB%E6%83%B3%E7%A5%9E%E4%B9%90LOGO%2Ejpg.html -->
 
 幻想神乐 | 活动LOGO
 
+
 ```
-源地址：[[1]](http://gensou-kagura.com/images/rogo.jpg)
-```
-
-
-
+源地址：[\[1\]](http://gensou-kagura.com/images/rogo.jpg)```
 
 
 ---

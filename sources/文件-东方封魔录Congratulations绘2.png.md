@@ -1,14 +1,11 @@
 # 文件:东方封魔录Congratulations绘2.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\17\ns6%3A%E4%B8%9C%E6%96%B9%E5%B0%81%E9%AD%94%E5%BD%95Congratulations%E7%BB%982%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\17\ns6%3A%E4%B8%9C%E6%96%B9%E5%B0%81%E9%AD%94%E5%BD%95Congratulations%E7%BB%982%2Epng.html -->
 
 东方封魔录结局图
 
 
 ## 摘要
-
-
-
 
 ---
 

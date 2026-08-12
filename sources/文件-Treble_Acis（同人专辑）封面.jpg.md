@@ -1,6 +1,6 @@
 # 文件:Treble_Acis（同人专辑）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\87\ns6%3ATreble_Acis%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\87\ns6%3ATreble_Acis%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Treble_Acis | 专辑封面 | 封面图片
 
@@ -8,16 +8,12 @@ Treble_Acis | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Treble Acis（同人专辑）](./Treble_Acis（同人专辑）.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
+- [Treble Acis（同人专辑）](./Treble_Acis（同人专辑）.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
   
-源地址：[[1]](https://i1.sndcdn.com/artworks-000247288499-z0shht-original.jpg) ([source page](https://soundcloud.com/3jg275/sets/treble-acis-treble-acis))
+源地址：[\[1\]](https://i1.sndcdn.com/artworks-000247288499-z0shht-original.jpg) ([source page](https://soundcloud.com/3jg275/sets/treble-acis-treble-acis))
   
-
-
-
-
 
 ---
 

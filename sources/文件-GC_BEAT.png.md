@@ -1,12 +1,8 @@
 # 文件:GC_BEAT.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\da\ns6%3AGC_BEAT%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\da\ns6%3AGC_BEAT%2Epng.html -->
 
 GROOVE_COASTER | 太东
-
-
-
-
 
 
 ---

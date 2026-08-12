@@ -1,6 +1,6 @@
 # 文件:Toho_Jazz_Lounge_Vol.1封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b9\ns6%3AToho_Jazz_Lounge_Vol%2E1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b9\ns6%3AToho_Jazz_Lounge_Vol%2E1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Baguettes_Ensemble | 专辑封面 | 封面图片
 
@@ -11,12 +11,7 @@ Baguettes_Ensemble | 专辑封面 | 封面图片
 - [Toho Jazz Lounge Vol.1](./Toho_Jazz_Lounge_Vol.1.md)
 
   
-源地址：[[1]](https://ameblo.jp/ichi-session/entry-12320615325.html)
-  
-
-
-
-
+源地址：[\[1\]](https://ameblo.jp/ichi-session/entry-12320615325.html)  
 
 ---
 

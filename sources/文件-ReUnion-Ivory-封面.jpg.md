@@ -1,6 +1,6 @@
 # 文件:ReUnion-Ivory-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\98\ns6%3AReUnion-Ivory-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\98\ns6%3AReUnion-Ivory-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Sound_Refil | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Sound_Refil | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [ReUnion-Ivory-](./ReUnion-Ivory-.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [ReUnion-Ivory-](./ReUnion-Ivory-.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
 
   
-源地址：[[1]](http://static.tumblr.com/b25bacb204417a2fe6b4052266f4112f/t84gzyl/emgngk1me/tumblr_static_3wvprj3099c08k8ow4w44s0sw.png)
-  
-
-
-
-
+源地址：[\[1\]](http://static.tumblr.com/b25bacb204417a2fe6b4052266f4112f/t84gzyl/emgngk1me/tumblr_static_3wvprj3099c08k8ow4w44s0sw.png)  
 
 ---
 

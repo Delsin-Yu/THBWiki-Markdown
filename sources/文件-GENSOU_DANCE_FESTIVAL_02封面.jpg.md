@@ -1,6 +1,6 @@
 # 文件:GENSOU_DANCE_FESTIVAL_02封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a5\ns6%3AGENSOU_DANCE_FESTIVAL_02%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a5\ns6%3AGENSOU_DANCE_FESTIVAL_02%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Crazy_Beats | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Crazy_Beats | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [GENSOU DANCE FESTIVAL 02](./GENSOU_DANCE_FESTIVAL_02.md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)
-
-
-
+- [GENSOU DANCE FESTIVAL 02](./GENSOU_DANCE_FESTIVAL_02.md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
 
 
 ---

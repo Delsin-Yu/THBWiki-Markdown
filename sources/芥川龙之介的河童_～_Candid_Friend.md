@@ -1,44 +1,34 @@
 # 芥川龙之介的河童_～_Candid_Friend
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\47\ns0%3A%E8%8A%A5%E5%B7%9D%E9%BE%99%E4%B9%8B%E4%BB%8B%E7%9A%84%E6%B2%B3%E7%AB%A5_%EF%BD%9E_Candid_Friend.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\47\ns0%3A%E8%8A%A5%E5%B7%9D%E9%BE%99%E4%B9%8B%E4%BB%8B%E7%9A%84%E6%B2%B3%E7%AB%A5_%EF%BD%9E_Candid_Friend.html -->
 
 由 ZUN 创作的官方曲目，原名 芥川龍之介の河童　～ Candid Friend
 
 本页是关于东方Project  
- **原作音乐** 的词条
-
+**原作音乐**的词条
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 出现作品](#出现作品)
 - [3 音乐文件](#音乐文件)
-
   - [3.1 东方风神录](#东方风神录)
   - [3.2 暗黑能乐集心绮楼](#暗黑能乐集心绮楼)
   - [3.3 深秘乐曲集](#深秘乐曲集)
 
 
-
 - [4 说明文本](#说明文本)
-
   - [4.1 东方风神录](#东方风神录_2)
   - [4.2 东方心绮楼](#东方心绮楼)
   - [4.3 暗黑能乐集心绮楼](#暗黑能乐集心绮楼_2)
 
 
-
 - [5 其他资料](#其他资料)
-
   - [5.1 乐理资讯](#乐理资讯)
   - [5.2 分析考据](#分析考据)
   - [5.3 二次同人数据](#二次同人数据)
 
 
-
 - [6 注释](#注释)
-
-
-
 
 
 ## 基本信息
@@ -46,7 +36,6 @@
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">芥川龍之介の河童　～ Candid Friend</td></tr><tr><td><b>译名</b></td><td>芥川龙之介的河童 ～ Candid Friend</td></tr><tr><td><b>英文译名</b></td><td>Akutagawa Ryuunosuke's "Kappa" ~ Candid Friend</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 芥川龙之介的河童 ～ Candid Friend（曲目） - 由 ZUN 创作的官方曲目，原名 芥川龍之介の河童　～ Candid Friend
-
 ## 出现作品
 
 <table>
@@ -63,7 +52,6 @@
 </tbody></table>
 
 
-
 ## 音乐文件
 
 ### 东方风神录
@@ -76,19 +64,15 @@
 </td></tr></tbody></table>
 
 
-
 ### 暗黑能乐集心绮楼
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-TFM-006a_09.mp3.md" title="文件:TFM-006a 09.mp3">TFM-006a_09.mp3</a><br><audio src="https://upload.thwiki.cc/2/26/TFM-006a_09.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track09.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>4:01</td></tr></tbody></table>
 
-	
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-TFM-006b_10.mp3.md" title="文件:TFM-006b 10.mp3">TFM-006b_10.mp3</a><br><audio src="https://upload.thwiki.cc/5/5e/TFM-006b_10.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track10.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>0:22</td></tr></tbody></table>
 
 
-
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-TFM-006b_17.mp3.md" title="文件:TFM-006b 17.mp3">TFM-006b_17.mp3</a><br><audio src="https://upload.thwiki.cc/c/c3/TFM-006b_17.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track17.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>1:58</td></tr></tbody></table>
-
 
 
 ### 深秘乐曲集
@@ -96,11 +80,11 @@
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-TFM-007b_07.mp3.md" title="文件:TFM-007b 07.mp3">TFM-007b_07.mp3</a><br><audio src="https://upload.thwiki.cc/9/91/TFM-007b_07.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track07.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>4:39</td></tr></tbody></table>
 
 
-
 ## 说明文本
 
 ### 东方风神录
-- Music Room (未找到链接)
+
+- [Music Room](./东方风神录-Music.md#3面BOSS河城荷取角色曲)
 
 　河城荷取的主题曲。  
 　希望若是细心听这个曲子的话，就会让人产生百听不厌的感觉。  
@@ -108,43 +92,46 @@
 　我一开始就想好了要让这首曲子可以听很长时间。  
 　最初听到时产生的印象，会随着曲子的进行而徐徐产生变化。  
 　听到最后的话应该会颇为揪心吧？
-
 ### 东方心绮楼
-- Music Room (未找到链接)
+
+- [Music Room](./东方心绮楼-Music.md#河城荷取角色曲玄武之泽)
 
 
 ### 暗黑能乐集心绮楼
-- あきやまうに的文本 (未找到链接)
+
+- [あきやまうに的文本](./暗黑能乐集心绮楼-光盘.md#あきやまうに-6)
 
 人气爆发／为了让人知道进入了人气爆发状态，所以全员都是相似的编曲。时间也是固定20秒，所以拍速相同，小节数也相同。
-
 ## 其他资料
 
 ### 乐理资讯
 
 ### 分析考据
   
- **芥川龍之介の河童　～ Candid Friend**  芥川龙之介的河童　～ Candid Friend
+**芥川龍之介の河童 ～ Candid Friend** 芥川龙之介的河童　～ Candid Friend
   
 
-- <ruby lang="ja"><rb>芥川龍之介</rb><rp> (</rp><rt>あくたがわりゅうのすけ</rt><rp>) </rp></ruby>
-[^cite_note-1]
-  - 日本著名小说家，《河童》是他的代表性短篇小说。
+- <ruby lang="ja"><rb>芥川龍之介</rb><rp> (</rp><rt>あくたがわりゅうのすけ</rt><rp>) </rp></ruby>[^cite_note-1]
+  - 日本著名小说家，《河童》是他的代表性短篇小说。 
     - 内容是主人公精神病患者23号讲述自己3年前误入河童国经历的独白，表现了对当时日本社会、人类社会的讽刺。
     - 风神录三面先暗后明就是表现《河童》第一部分开头提及「我」因在山谷中遇到浓雾不明方向于是到了河童国。
 
 
+
+
 - <ruby lang="ja"><rb>河童</rb><rp> (</rp><rt>かっぱ</rt><rp>) </rp></ruby>
+  - 河城荷取的种族是河童。参见[河城荷取/分析考据#种族](./河城荷取-分析考据.md#种族)。
 
-  - 河城荷取的种族是河童。参见河城荷取/分析考据#种族 (未找到链接)。
 
-- Candid
+- Candid 
   - 坦诚的，坦率的，直率的，率直的。
   - 小说《河童》用反讽的手法，揭漏了人类社会存在的弊病。相对于虚伪的人类，河童是坦诚的。
 
-- Friend
+
+- Friend 
   - 朋友。
-  - 在东方的故事中，河童与人类的关系很好[&#91;求闻史纪&#93;](./东方求闻史纪-河童.md)。
+  - 在东方的故事中，河童与人类的关系很好[\[求闻史纪\]](./东方求闻史纪-河童.md)。
+
 
 
 
@@ -161,16 +148,7 @@
 <tr><td>Vocal率</td><td>35.18%</td></tr>
 </tbody></table>
 
-
-
-
-
 [^cite_note-1]: 中文维基百科：[芥川龙之介](https://en.wikipedia.org/wiki/zh:芥川龙之介)
-
-
-
-
-
 
 ---
 

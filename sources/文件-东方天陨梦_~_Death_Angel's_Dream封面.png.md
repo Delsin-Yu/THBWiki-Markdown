@@ -1,6 +1,6 @@
 # 文件:东方天陨梦_~_Death_Angel's_Dream封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\ff\ns6%3A%E4%B8%9C%E6%96%B9%E5%A4%A9%E9%99%A8%E6%A2%A6_%7E_Death_Angel%27s_Dream%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\ff\ns6%3A%E4%B8%9C%E6%96%B9%E5%A4%A9%E9%99%A8%E6%A2%A6_%7E_Death_Angel%27s_Dream%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 NooblyPerson | 封面图片 | 软件封面
 
@@ -10,11 +10,8 @@ NooblyPerson | 封面图片 | 软件封面
 使用了本文件作封面图片的作品：
   
 
-- [东方天陨梦 ~ Death Angel's Dream](./东方天陨梦_~_Death_Angel's_Dream.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [东方天陨梦 ~ Death Angel's Dream](./东方天陨梦_~_Death_Angel's_Dream.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

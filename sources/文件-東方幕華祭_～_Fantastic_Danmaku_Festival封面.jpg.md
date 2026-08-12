@@ -1,6 +1,6 @@
 # 文件:東方幕華祭_～_Fantastic_Danmaku_Festival封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b7\ns6%3A%E6%9D%B1%E6%96%B9%E5%B9%95%E8%8F%AF%E7%A5%AD_%EF%BD%9E_Fantastic_Danmaku_Festival%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b7\ns6%3A%E6%9D%B1%E6%96%B9%E5%B9%95%E8%8F%AF%E7%A5%AD_%EF%BD%9E_Fantastic_Danmaku_Festival%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 东方幕华祭制作组 | 封面图片 | 软件封面
 
@@ -8,11 +8,14 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方幕華祭 ～ Fantastic Danmaku Festival](./東方幕華祭_～_Fantastic_Danmaku_Festival.md)  
-该封面包含的角色：- [红美铃](./红美铃.md)- [博丽灵梦](./博丽灵梦.md)- [小恶魔](./小恶魔.md)- 十六夜咲夜 (未找到链接)- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)- [尼克斯](./尼克斯.md)
-
-
-
+- [東方幕華祭 ～ Fantastic Danmaku Festival](./東方幕華祭_～_Fantastic_Danmaku_Festival.md)该封面包含的角色：
+- [红美铃](./红美铃.md)
+- [博丽灵梦](./博丽灵梦.md)
+- [小恶魔](./小恶魔.md)
+- [十六夜咲夜](./十六夜咲夜.md)
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [尼克斯](./尼克斯.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:From_Past_to_Future_EP封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4a\ns6%3AFrom_Past_to_Future_EP%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4a\ns6%3AFrom_Past_to_Future_EP%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 scaredbyscarred | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ scaredbyscarred | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [From Past to Future EP](./From_Past_to_Future_EP.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [From Past to Future EP](./From_Past_to_Future_EP.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

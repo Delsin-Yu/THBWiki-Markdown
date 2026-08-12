@@ -1,6 +1,6 @@
 # 文件:gemini（氷笠家屋）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\18\ns6%3Agemini%EF%BC%88%E6%B0%B7%E7%AC%A0%E5%AE%B6%E5%B1%8B%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\18\ns6%3Agemini%EF%BC%88%E6%B0%B7%E7%AC%A0%E5%AE%B6%E5%B1%8B%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 氷笠家屋
 
@@ -8,16 +8,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [gemini（氷笠家屋）](./gemini（氷笠家屋）.md)  
-该封面包含的角色：- [九十九弁弁](./九十九弁弁.md)- [九十九八桥](./九十九八桥.md)
+- [gemini（氷笠家屋）](./gemini（氷笠家屋）.md)该封面包含的角色：
+- [九十九弁弁](./九十九弁弁.md)
+- [九十九八桥](./九十九八桥.md)
 
   
-源地址：[[1]](https://booth.pximg.net/af4641b6-083b-4c67-9c43-2f4518ad6e6b/i/1688035/d2cd2a7d-c195-4184-acff-4a3e9b62c648_base_resized.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://booth.pximg.net/af4641b6-083b-4c67-9c43-2f4518ad6e6b/i/1688035/d2cd2a7d-c195-4184-acff-4a3e9b62c648_base_resized.jpg)  
 
 ---
 

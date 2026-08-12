@@ -1,6 +1,6 @@
 # 文件:衰盛橘果譚_～_Citrus_Resuscitation.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4d\ns6%3A%E8%A1%B0%E7%9B%9B%E6%A9%98%E6%9E%9C%E8%AD%9A_%EF%BD%9E_Citrus_Resuscitation%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4d\ns6%3A%E8%A1%B0%E7%9B%9B%E6%A9%98%E6%9E%9C%E8%AD%9A_%EF%BD%9E_Citrus_Resuscitation%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 夢想吟遊詩人 | 封面图片
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [衰盛橘果譚 ～ Citrus Resuscitation.](./衰盛橘果譚_～_Citrus_Resuscitation..md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [衰盛橘果譚 ～ Citrus Resuscitation.](./衰盛橘果譚_～_Citrus_Resuscitation..md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

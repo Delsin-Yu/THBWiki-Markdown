@@ -1,6 +1,6 @@
 # 文件:I_LOVED_FROM_GREENWICH封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9c\ns6%3AI_LOVED_FROM_GREENWICH%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9c\ns6%3AI_LOVED_FROM_GREENWICH%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 8686m | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@
   
 
 - [I LOVED FROM GREENWICH](./I_LOVED_FROM_GREENWICH.md)
-
-
-
 
 
 ---

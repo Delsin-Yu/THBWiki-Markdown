@@ -1,6 +1,6 @@
 # 文件:Sister's（LiveLiqueur）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\97\ns6%3ASister%27s%EF%BC%88LiveLiqueur%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\97\ns6%3ASister%27s%EF%BC%88LiveLiqueur%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 LiveLiqueur | 专辑封面 | 封面图片
 
@@ -8,11 +8,13 @@ LiveLiqueur | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Sister's（LiveLiqueur）](./Sister's（LiveLiqueur）.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)- [秋静叶](./秋静叶.md)- [秋穰子](./秋穰子.md)- [古明地觉](./古明地觉.md)- [古明地恋](./古明地恋.md)
-
-
-
+- [Sister's（LiveLiqueur）](./Sister's（LiveLiqueur）.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [秋静叶](./秋静叶.md)
+- [秋穰子](./秋穰子.md)
+- [古明地觉](./古明地觉.md)
+- [古明地恋](./古明地恋.md)
 
 
 ---

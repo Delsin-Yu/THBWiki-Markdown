@@ -1,6 +1,6 @@
 # 文件:fragile（夕焼けコンテナ。）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cd\ns6%3Afragile%EF%BC%88%E5%A4%95%E7%84%BC%E3%81%91%E3%82%B3%E3%83%B3%E3%83%86%E3%83%8A%E3%80%82%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cd\ns6%3Afragile%EF%BC%88%E5%A4%95%E7%84%BC%E3%81%91%E3%82%B3%E3%83%B3%E3%83%86%E3%83%8A%E3%80%82%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 夕焼けコンテナ。 | 封面图片
 
@@ -11,9 +11,6 @@
   
 
 - [fragile（夕焼けコンテナ。）](./fragile（夕焼けコンテナ。）.md)
-
-
-
 
 
 ---

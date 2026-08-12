@@ -1,6 +1,6 @@
 # 文件:The_Legends_of_Usami_秘封倶楽部遠野見聞記録封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1b\ns6%3AThe_Legends_of_Usami_%E7%A7%98%E5%B0%81%E5%80%B6%E6%A5%BD%E9%83%A8%E9%81%A0%E9%87%8E%E8%A6%8B%E8%81%9E%E8%A8%98%E9%8C%B2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1b\ns6%3AThe_Legends_of_Usami_%E7%A7%98%E5%B0%81%E5%80%B6%E6%A5%BD%E9%83%A8%E9%81%A0%E9%87%8E%E8%A6%8B%E8%81%9E%E8%A8%98%E9%8C%B2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 わさび寒天ファクトリー | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [The Legends of Usami 秘封倶楽部遠野見聞記録](./The_Legends_of_Usami_秘封倶楽部遠野見聞記録.md)  
-该封面包含的角色：- [宇佐见堇子](./宇佐见堇子.md)
-
-
-
+- [The Legends of Usami 秘封倶楽部遠野見聞記録](./The_Legends_of_Usami_秘封倶楽部遠野見聞記録.md)该封面包含的角色：
+- [宇佐见堇子](./宇佐见堇子.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:T.Piacere_Instrumental_［Opus_zero］_2012_spring封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\72\ns6%3AT%2EPiacere_Instrumental_%EF%BC%BBOpus_zero%EF%BC%BD_2012_spring%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\72\ns6%3AT%2EPiacere_Instrumental_%EF%BC%BBOpus_zero%EF%BC%BD_2012_spring%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 T.Piacere | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ T.Piacere | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [T.Piacere Instrumental ［Opus zero］ 2012 spring](./T.Piacere_Instrumental_［Opus_zero］_2012_spring.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
-
-
-
+- [T.Piacere Instrumental ［Opus zero］ 2012 spring](./T.Piacere_Instrumental_［Opus_zero］_2012_spring.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
 
 ---

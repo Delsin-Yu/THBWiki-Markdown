@@ -1,6 +1,6 @@
 # 文件:LiLi×2_湯けむり温泉フェアリーズ!!封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d9\ns6%3ALiLi%C3%972_%E6%B9%AF%E3%81%91%E3%82%80%E3%82%8A%E6%B8%A9%E6%B3%89%E3%83%95%E3%82%A7%E3%82%A2%E3%83%AA%E3%83%BC%E3%82%BA%21%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d9\ns6%3ALiLi%C3%972_%E6%B9%AF%E3%81%91%E3%82%80%E3%82%8A%E6%B8%A9%E6%B3%89%E3%83%95%E3%82%A7%E3%82%A2%E3%83%AA%E3%83%BC%E3%82%BA%21%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 夢見里 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [LiLi×2 湯けむり温泉フェアリーズ!!](./LiLi×2_湯けむり温泉フェアリーズ!!.md)  
-该封面包含的角色：- [莉莉霍瓦特](./莉莉霍瓦特.md)
-
-
-
+- [LiLi×2 湯けむり温泉フェアリーズ!!](./LiLi×2_湯けむり温泉フェアリーズ!!.md)该封面包含的角色：
+- [莉莉霍瓦特](./莉莉霍瓦特.md)
 
 
 ---

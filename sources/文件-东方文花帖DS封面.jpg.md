@@ -1,12 +1,8 @@
 # 文件:东方文花帖DS封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c1\ns6%3A%E4%B8%9C%E6%96%B9%E6%96%87%E8%8A%B1%E5%B8%96DS%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c1\ns6%3A%E4%B8%9C%E6%96%B9%E6%96%87%E8%8A%B1%E5%B8%96DS%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 东方文花帖 | 正作游戏封面
-
-
-
-
 
 
 ---

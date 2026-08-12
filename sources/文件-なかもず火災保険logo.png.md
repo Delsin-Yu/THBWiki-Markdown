@@ -1,12 +1,8 @@
 # 文件:なかもず火災保険logo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\00\ns6%3A%E3%81%AA%E3%81%8B%E3%82%82%E3%81%9A%E7%81%AB%E7%81%BD%E4%BF%9D%E9%99%BAlogo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\00\ns6%3A%E3%81%AA%E3%81%8B%E3%82%82%E3%81%9A%E7%81%AB%E7%81%BD%E4%BF%9D%E9%99%BAlogo%2Epng.html -->
 
 なかもず火災保険 | 社团LOGO
-
-
-
-
 
 
 ---

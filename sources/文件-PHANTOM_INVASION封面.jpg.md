@@ -1,6 +1,6 @@
 # 文件:PHANTOM_INVASION封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\51\ns6%3APHANTOM_INVASION%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\51\ns6%3APHANTOM_INVASION%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 NATSUKI_RECORDS | 专辑封面 | 封面图片
 
@@ -10,16 +10,12 @@ NATSUKI_RECORDS | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [PHANTOM INVASION](./PHANTOM_INVASION.md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)- [西行寺幽幽子](./西行寺幽幽子.md)
+- [PHANTOM INVASION](./PHANTOM_INVASION.md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
+- [西行寺幽幽子](./西行寺幽幽子.md)
 
   
-源地址：[direct image link (max size)](https://i1.sndcdn.com/artworks-000056224637-qvckfd-original.jpg), [source page (archived artist soundcloud)](https://web.archive.org/web/20130917153103/http://soundcloud.com/paragunasatsuki)
-  
-
-
-
-
+源地址：[direct image link (max size)](https://i1.sndcdn.com/artworks-000056224637-qvckfd-original.jpg), [source page (archived artist soundcloud)](https://web.archive.org/web/20130917153103/http://soundcloud.com/paragunasatsuki)  
 
 ---
 

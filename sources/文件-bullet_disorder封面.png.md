@@ -1,6 +1,6 @@
 # 文件:bullet_disorder封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\10\ns6%3Abullet_disorder%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\10\ns6%3Abullet_disorder%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 ハイウェイオアシス | 同人志封面 | 封面图片
 
@@ -13,12 +13,7 @@
 - [bullet disorder](./bullet_disorder.md)
 
   
-源地址：[direct image link (original size)](https://64.media.tumblr.com/641bcee1493da266b8528dcbde7f3078/tumblr_mtmuhu0Ssf1snkiq0o1_1280.png), [source page](https://highwayoasis.tumblr.com/post/62151541513/bullet-disorder-syrup16g-東方-例大祭10で頒布-300)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://64.media.tumblr.com/641bcee1493da266b8528dcbde7f3078/tumblr_mtmuhu0Ssf1snkiq0o1_1280.png), [source page](https://highwayoasis.tumblr.com/post/62151541513/bullet-disorder-syrup16g-東方-例大祭10で頒布-300)  
 
 ---
 

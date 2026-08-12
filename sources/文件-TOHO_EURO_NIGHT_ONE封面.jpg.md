@@ -1,6 +1,6 @@
 # 文件:TOHO_EURO_NIGHT_ONE封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\97\ns6%3ATOHO_EURO_NIGHT_ONE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\97\ns6%3ATOHO_EURO_NIGHT_ONE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Crazy_Beats | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Crazy_Beats | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [TOHO EURO NIGHT ONE](./TOHO_EURO_NIGHT_ONE.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
+- [TOHO EURO NIGHT ONE](./TOHO_EURO_NIGHT_ONE.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
   
-源地址：[[1]](http://img.toranoana.jp/popup_img/04/0030/44/38/040030443878-1p.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://img.toranoana.jp/popup_img/04/0030/44/38/040030443878-1p.jpg)  
 
 ---
 

@@ -1,15 +1,12 @@
 # 文件:竹取物语LOGO.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3d\ns6%3A%E7%AB%B9%E5%8F%96%E7%89%A9%E8%AF%ADLOGO%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3d\ns6%3A%E7%AB%B9%E5%8F%96%E7%89%A9%E8%AF%ADLOGO%2Ejpg.html -->
 
 活动LOGO | 竹取物语
 
+
 ```
-源地址：[[1]](http://project-d.biz/eiyasho/images/kaguya_bn.jpg)
-```
-
-
-
+源地址：[\[1\]](http://project-d.biz/eiyasho/images/kaguya_bn.jpg)```
 
 
 ---

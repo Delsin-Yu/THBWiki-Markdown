@@ -1,12 +1,8 @@
 # 文件:宝石「Jewel_Rain」（兽王园）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\64\ns6%3A%E5%AE%9D%E7%9F%B3%E3%80%8CJewel_Rain%E3%80%8D%EF%BC%88%E5%85%BD%E7%8E%8B%E5%9B%AD%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\64\ns6%3A%E5%AE%9D%E7%9F%B3%E3%80%8CJewel_Rain%E3%80%8D%EF%BC%88%E5%85%BD%E7%8E%8B%E5%9B%AD%EF%BC%89%2Epng.html -->
 
 东方兽王园 | 娜兹玲 | 自机符卡
-
-
-
-
 
 
 ---

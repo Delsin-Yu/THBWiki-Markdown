@@ -1,16 +1,12 @@
 # 模板:弹幕神乐纪念LIVE
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\6\62\ns10%3A%E5%BC%B9%E5%B9%95%E7%A5%9E%E4%B9%90%E7%BA%AA%E5%BF%B5LIVE.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\6\62\ns10%3A%E5%BC%B9%E5%B9%95%E7%A5%9E%E4%B9%90%E7%BA%AA%E5%BF%B5LIVE.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

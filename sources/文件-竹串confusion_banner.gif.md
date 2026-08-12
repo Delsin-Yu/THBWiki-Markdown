@@ -1,14 +1,11 @@
 # 文件:竹串confusion_banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fb\ns6%3A%E7%AB%B9%E4%B8%B2confusion_banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fb\ns6%3A%E7%AB%B9%E4%B8%B2confusion_banner%2Egif.html -->
 
 社团LOGO | 竹串confusion
 
 
 ## 摘要
-
-
-
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:神々もROCKする幻想郷封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\55\ns6%3A%E7%A5%9E%E3%80%85%E3%82%82ROCK%E3%81%99%E3%82%8B%E5%B9%BB%E6%83%B3%E9%83%B7%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\55\ns6%3A%E7%A5%9E%E3%80%85%E3%82%82ROCK%E3%81%99%E3%82%8B%E5%B9%BB%E6%83%B3%E9%83%B7%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 パグラベタン | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [神々もROCKする幻想郷](./神々もROCKする幻想郷.md)  
-该封面包含的角色：- [八坂神奈子](./八坂神奈子.md)
-
-
-
+- [神々もROCKする幻想郷](./神々もROCKする幻想郷.md)该封面包含的角色：
+- [八坂神奈子](./八坂神奈子.md)
 
 
 ---

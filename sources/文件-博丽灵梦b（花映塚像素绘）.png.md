@@ -1,12 +1,8 @@
 # 文件:博丽灵梦b（花映塚像素绘）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ae\ns6%3A%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6b%EF%BC%88%E8%8A%B1%E6%98%A0%E5%A1%9A%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ae\ns6%3A%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6b%EF%BC%88%E8%8A%B1%E6%98%A0%E5%A1%9A%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89%2Epng.html -->
 
 东方花映塚 | 博丽灵梦 | 官方游戏像素绘
-
-
-
-
 
 
 ---

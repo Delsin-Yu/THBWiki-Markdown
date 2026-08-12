@@ -1,6 +1,6 @@
 # 文件:Rain_Chord封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b9\ns6%3ARain_Chord%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b9\ns6%3ARain_Chord%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 グロカルナスカライン | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Rain Chord](./Rain_Chord.md)  
-该封面包含的角色：- [多多良小伞](./多多良小伞.md)
-
-
-
+- [Rain Chord](./Rain_Chord.md)该封面包含的角色：
+- [多多良小伞](./多多良小伞.md)
 
 
 ---

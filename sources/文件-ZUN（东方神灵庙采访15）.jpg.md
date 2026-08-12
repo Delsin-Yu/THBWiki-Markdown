@@ -1,12 +1,8 @@
 # 文件:ZUN（东方神灵庙采访15）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\aa\ns6%3AZUN%EF%BC%88%E4%B8%9C%E6%96%B9%E7%A5%9E%E7%81%B5%E5%BA%99%E9%87%87%E8%AE%BF15%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\aa\ns6%3AZUN%EF%BC%88%E4%B8%9C%E6%96%B9%E7%A5%9E%E7%81%B5%E5%BA%99%E9%87%87%E8%AE%BF15%EF%BC%89%2Ejpg.html -->
 
 ZUN | 东方神灵庙
-
-
-
-
 
 
 ---

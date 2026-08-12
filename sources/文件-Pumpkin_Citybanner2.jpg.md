@@ -1,14 +1,11 @@
 # 文件:Pumpkin_Citybanner2.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e6\ns6%3APumpkin_Citybanner2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e6\ns6%3APumpkin_Citybanner2%2Ejpg.html -->
 
 Pumpkin_City | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

@@ -1,29 +1,28 @@
 # 东方凭依华/manual/music
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\9\9d\ns0%3A%E4%B8%9C%E6%96%B9%E5%87%AD%E4%BE%9D%E5%8D%8E%2Fmanual%2Fmusic.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\9\9d\ns0%3A%E4%B8%9C%E6%96%B9%E5%87%AD%E4%BE%9D%E5%8D%8E%2Fmanual%2Fmusic.html -->
 
 东方凭依华
+
 
 - 来自[黄昏边境官方网站](http://tasofro.net/touhou155/manual/music.html)的ONLINE MANUAL Music Room页面。
 
 <center>
-
 <table>
 <tbody><tr>
-<td>&lt;
+<td><
 </td>
-<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./东方凭依华-manual-practice.md" title="东方凭依华/manual/practice">Practice</a>&#160;
+<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./东方凭依华-manual-practice.md" title="东方凭依华/manual/practice">Practice</a> 
 </td>
-<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="./东方凭依华-manual.md" title="东方凭依华/manual">Manual目录</a>&#160;
+<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;"> <a href="./东方凭依华-manual.md" title="东方凭依华/manual">Manual目录</a> 
 </td>
-<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left">&#160;<a href="./东方凭依华-manual-config.md" title="东方凭依华/manual/config">Config</a>
+<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left"> <a href="./东方凭依华-manual-config.md" title="东方凭依华/manual/config">Config</a>
 </td>
-<td>&gt;
+<td>>
 </td></tr></tbody></table>
 
   
-</center>
-[](./文件-东方凭依华OnlineManual_music.jpg.md)
+</center><img alt="东方凭依华OnlineManual music.jpg" src="https://upload.thwiki.cc/thumb/9/9f/%E4%B8%9C%E6%96%B9%E5%87%AD%E4%BE%9D%E5%8D%8EOnlineManual_music.jpg/400px-%E4%B8%9C%E6%96%B9%E5%87%AD%E4%BE%9D%E5%8D%8EOnlineManual_music.jpg" decoding="async" loading="lazy" width="400" height="225" srcset="https://upload.thwiki.cc/thumb/9/9f/%E4%B8%9C%E6%96%B9%E5%87%AD%E4%BE%9D%E5%8D%8EOnlineManual_music.jpg/600px-%E4%B8%9C%E6%96%B9%E5%87%AD%E4%BE%9D%E5%8D%8EOnlineManual_music.jpg 1.5x, https://upload.thwiki.cc/9/9f/%E4%B8%9C%E6%96%B9%E5%87%AD%E4%BE%9D%E5%8D%8EOnlineManual_music.jpg 2x" data-file-width="720" data-file-height="405">
   
 可以自由欣赏游戏流程中的音乐  
 
@@ -31,7 +30,6 @@
 
 如果该背景音乐被播放了则会解除锁定，从而能自由欣赏。
   
-
 
 <table>
 
@@ -51,10 +49,6 @@
 <td>按键2</td>
 <td>返回标题
 </td></tr></tbody></table>
-
-
-
-
 
 
 ---

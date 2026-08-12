@@ -1,6 +1,6 @@
 # 文件:Nue_&_The_Cat封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4b\ns6%3ANue_%26_The_Cat%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4b\ns6%3ANue_%26_The_Cat%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 下水道生活 | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Nue &amp; The Cat](./Nue_&_The_Cat.md)  
-该封面包含的角色：- [封兽鵺](./封兽鵺.md)
-
-
-
+- [Nue & The Cat](./Nue_&_The_Cat.md)该封面包含的角色：
+- [封兽鵺](./封兽鵺.md)
 
 
 ---

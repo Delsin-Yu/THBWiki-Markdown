@@ -1,6 +1,6 @@
 # 文件:Splash_Beat!!!封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0d\ns6%3ASplash_Beat%21%21%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0d\ns6%3ASplash_Beat%21%21%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 みずいろシャボン | 专辑封面 | 封面图片
 
@@ -10,16 +10,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [Splash Beat!!!](./Splash_Beat!!!.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [Splash Beat!!!](./Splash_Beat!!!.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
   
-源地址：[direct image link (original size)](https://pbs.twimg.com/media/Cj7cdNhUoAARFd6?format=jpg&amp;name=orig), [source tweet](https://twitter.com/judgmentsp0414/status/738269813114429441)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://pbs.twimg.com/media/Cj7cdNhUoAARFd6?format=jpg&name=orig), [source tweet](https://twitter.com/judgmentsp0414/status/738269813114429441)  
 
 ---
 

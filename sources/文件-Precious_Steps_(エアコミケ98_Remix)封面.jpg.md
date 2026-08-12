@@ -1,6 +1,6 @@
 # 文件:Precious_Steps_(エアコミケ98_Remix)封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4b\ns6%3APrecious_Steps_%28%E3%82%A8%E3%82%A2%E3%82%B3%E3%83%9F%E3%82%B198_Remix%29%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4b\ns6%3APrecious_Steps_%28%E3%82%A8%E3%82%A2%E3%82%B3%E3%83%9F%E3%82%B198_Remix%29%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 A-One | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ A-One | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Precious Steps (エアコミケ98 Remix)](./Precious_Steps_(エアコミケ98_Remix).md)  
-该封面包含的角色：- [萨丽爱尔](./萨丽爱尔.md)
-
-
-
+- [Precious Steps (エアコミケ98 Remix)](./Precious_Steps_(エアコミケ98_Remix%29.md)该封面包含的角色：
+- [萨丽爱尔](./萨丽爱尔.md)
 
 
 ---

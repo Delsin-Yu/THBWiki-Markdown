@@ -1,18 +1,13 @@
 # 文件:サンショウユbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b8\ns6%3A%E3%82%B5%E3%83%B3%E3%82%B7%E3%83%A7%E3%82%A6%E3%83%A6banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b8\ns6%3A%E3%82%B5%E3%83%B3%E3%82%B7%E3%83%A7%E3%82%A6%E3%83%A6banner%2Ejpg.html -->
 
 サンショウユ | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[(original size) direct image link](https://blog-imgs-44-origin.fc2.com/s/a/n/sansyouyu/banner.jpg), [source page](http://sansyouyu.blog20.fc2.com/)
-  
-
-
-
-
+源地址：[(original size) direct image link](https://blog-imgs-44-origin.fc2.com/s/a/n/sansyouyu/banner.jpg), [source page](http://sansyouyu.blog20.fc2.com/)  
 
 ---
 

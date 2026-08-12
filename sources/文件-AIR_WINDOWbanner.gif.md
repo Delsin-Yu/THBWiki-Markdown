@@ -1,12 +1,8 @@
 # 文件:AIR_WINDOWbanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c0\ns6%3AAIR_WINDOWbanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c0\ns6%3AAIR_WINDOWbanner%2Egif.html -->
 
 AIR_WINDOW | 社团LOGO
-
-
-
-
 
 
 ---

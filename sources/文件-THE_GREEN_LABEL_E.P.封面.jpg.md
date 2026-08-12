@@ -1,6 +1,6 @@
 # 文件:THE_GREEN_LABEL_E.P.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\06\ns6%3ATHE_GREEN_LABEL_E%2EP%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\06\ns6%3ATHE_GREEN_LABEL_E%2EP%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Midicondria | 专辑封面 | 封面图片
 
@@ -10,16 +10,12 @@ Midicondria | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [THE GREEN LABEL E.P.](./THE_GREEN_LABEL_E.P..md)  
-该封面包含的角色：- [东风谷早苗](./东风谷早苗.md)
+- [THE GREEN LABEL E.P.](./THE_GREEN_LABEL_E.P..md)该封面包含的角色：
+- [东风谷早苗](./东风谷早苗.md)
 
   
 Image from TLMC scans (cropped)
   
-
-
-
-
 
 ---
 

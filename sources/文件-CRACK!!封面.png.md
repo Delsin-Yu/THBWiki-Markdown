@@ -1,6 +1,6 @@
 # 文件:CRACK!!封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\52\ns6%3ACRACK%21%21%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\52\ns6%3ACRACK%21%21%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 S／N_Ravens | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ S／N_Ravens | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [CRACK!!](./CRACK!!.md)  
-该封面包含的角色：- [比那名居天子](./比那名居天子.md)
-
-
-
+- [CRACK!!](./CRACK!!.md)该封面包含的角色：
+- [比那名居天子](./比那名居天子.md)
 
 
 ---

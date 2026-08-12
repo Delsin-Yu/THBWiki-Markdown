@@ -1,6 +1,6 @@
 # 文件:THE_SELECTED_WORKS_OF_TAMAONSEN_BEKKAN封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\32\ns6%3ATHE_SELECTED_WORKS_OF_TAMAONSEN_BEKKAN%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\32\ns6%3ATHE_SELECTED_WORKS_OF_TAMAONSEN_BEKKAN%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 魂音泉
 
@@ -8,16 +8,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [THE SELECTED WORKS OF TAMAONSEN BEKKAN](./THE_SELECTED_WORKS_OF_TAMAONSEN_BEKKAN.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)- 原创角色 (未找到链接)
+- [THE SELECTED WORKS OF TAMAONSEN BEKKAN](./THE_SELECTED_WORKS_OF_TAMAONSEN_BEKKAN.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
+- 原创角色 (未找到链接)
 
   
-源地址：[[1]](http://tamaonsen.com/contents/TOS029_JAK.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://tamaonsen.com/contents/TOS029_JAK.jpg)  
 
 ---
 

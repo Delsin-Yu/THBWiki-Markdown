@@ -1,6 +1,6 @@
 # 文件:ROYAL_ASSORTMENT封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\16\ns6%3AROYAL_ASSORTMENT%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\16\ns6%3AROYAL_ASSORTMENT%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 プレカレデウム | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [ROYAL ASSORTMENT](./ROYAL_ASSORTMENT.md)  
-该封面包含的角色：- [古明地恋](./古明地恋.md)
-
-
-
+- [ROYAL ASSORTMENT](./ROYAL_ASSORTMENT.md)该封面包含的角色：
+- [古明地恋](./古明地恋.md)
 
 
 ---

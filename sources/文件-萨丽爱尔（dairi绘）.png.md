@@ -1,12 +1,8 @@
 # 文件:萨丽爱尔（dairi绘）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\89\ns6%3A%E8%90%A8%E4%B8%BD%E7%88%B1%E5%B0%94%EF%BC%88dairi%E7%BB%98%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\89\ns6%3A%E8%90%A8%E4%B8%BD%E7%88%B1%E5%B0%94%EF%BC%88dairi%E7%BB%98%EF%BC%89%2Epng.html -->
 
 NooblyPerson | 二次角色立绘 | 萨丽爱尔（天陨梦）
-
-
-
-
 
 
 ---

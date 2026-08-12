@@ -1,6 +1,6 @@
 # 文件:Absolute_Red_起疵回生～淋シサ埋メル純粋ナ戯レ封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ab\ns6%3AAbsolute_Red_%E8%B5%B7%E7%96%B5%E5%9B%9E%E7%94%9F%EF%BD%9E%E6%B7%8B%E3%82%B7%E3%82%B5%E5%9F%8B%E3%83%A1%E3%83%AB%E7%B4%94%E7%B2%8B%E3%83%8A%E6%88%AF%E3%83%AC%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ab\ns6%3AAbsolute_Red_%E8%B5%B7%E7%96%B5%E5%9B%9E%E7%94%9F%EF%BD%9E%E6%B7%8B%E3%82%B7%E3%82%B5%E5%9F%8B%E3%83%A1%E3%83%AB%E7%B4%94%E7%B2%8B%E3%83%8A%E6%88%AF%E3%83%AC%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Re：Volte | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ Re：Volte | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Absolute Red 起疵回生～淋シサ埋メル純粋ナ戯レ](./Absolute_Red_起疵回生～淋シサ埋メル純粋ナ戯レ.md)  
-该封面包含的角色：- [纯狐](./纯狐.md)- [赫卡提亚·拉碧斯拉祖利](./赫卡提亚·拉碧斯拉祖利.md)
-
-
-
+- [Absolute Red 起疵回生～淋シサ埋メル純粋ナ戯レ](./Absolute_Red_起疵回生～淋シサ埋メル純粋ナ戯レ.md)该封面包含的角色：
+- [纯狐](./纯狐.md)
+- [赫卡提亚·拉碧斯拉祖利](./赫卡提亚·拉碧斯拉祖利.md)
 
 
 ---

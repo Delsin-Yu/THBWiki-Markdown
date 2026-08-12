@@ -1,12 +1,8 @@
 # 文件:No_Gimmick_No_Lifebanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6a\ns6%3ANo_Gimmick_No_Lifebanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6a\ns6%3ANo_Gimmick_No_Lifebanner%2Ejpg.html -->
 
 No_Gimmick_No_Life | 社团LOGO
-
-
-
-
 
 
 ---

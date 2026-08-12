@@ -1,6 +1,6 @@
 # 文件:TOHO_EUROBEAT_EX_～STAR_LINER～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c4\ns6%3ATOHO_EUROBEAT_EX_%EF%BD%9ESTAR_LINER%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c4\ns6%3ATOHO_EUROBEAT_EX_%EF%BD%9ESTAR_LINER%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 A-One | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ A-One | 专辑封面 | 封面图片
   
 
 - [TOHO EUROBEAT EX ～STAR LINER～](./TOHO_EUROBEAT_EX_～STAR_LINER～.md)
-
-
-
 
 
 ---

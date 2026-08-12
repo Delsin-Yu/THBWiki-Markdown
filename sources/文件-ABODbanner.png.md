@@ -1,18 +1,13 @@
 # 文件:ABODbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3b\ns6%3AABODbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3b\ns6%3AABODbanner%2Epng.html -->
 
 ABOD | 社团LOGO
 
 
 ## 摘要
   
-源地址：[direct image link](http://toshi2369.xxxxxxxx.jp/banner/banner.png), [source page](http://toshi2369.xxxxxxxx.jp/link.html)
-  
-
-
-
-
+源地址：[direct image link](http://toshi2369.xxxxxxxx.jp/banner/banner.png), [source page](http://toshi2369.xxxxxxxx.jp/link.html)  
 
 ---
 

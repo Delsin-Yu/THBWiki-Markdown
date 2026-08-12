@@ -1,12 +1,8 @@
 # 文件:云居一轮（星莲船立绘）sw.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\32\ns6%3A%E4%BA%91%E5%B1%85%E4%B8%80%E8%BD%AE%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89sw%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\32\ns6%3A%E4%BA%91%E5%B1%85%E4%B8%80%E8%BD%AE%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89sw%2Epng.html -->
 
 ZUN绘 | 东方星莲船 | 云居一轮 | 官方游戏立绘
-
-
-
-
 
 
 ---

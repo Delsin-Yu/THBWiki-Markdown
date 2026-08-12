@@ -1,12 +1,8 @@
 # 文件:かんたんのゆめbanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\47\ns6%3A%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93%E3%81%AE%E3%82%86%E3%82%81banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\47\ns6%3A%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93%E3%81%AE%E3%82%86%E3%82%81banner%2Egif.html -->
 
 かんたんのゆめ
-
-
-
-
 
 
 ---

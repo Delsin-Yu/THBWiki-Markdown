@@ -1,6 +1,6 @@
 # 文件:SANAE_STYLE封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9d\ns6%3ASANAE_STYLE%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9d\ns6%3ASANAE_STYLE%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Bullet_IX | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Bullet_IX | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [SANAE STYLE](./SANAE_STYLE.md)  
-该封面包含的角色：- [东风谷早苗](./东风谷早苗.md)
-
-
-
+- [SANAE STYLE](./SANAE_STYLE.md)该封面包含的角色：
+- [东风谷早苗](./东风谷早苗.md)
 
 
 ---

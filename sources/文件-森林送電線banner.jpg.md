@@ -1,18 +1,13 @@
 # 文件:森林送電線banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\04\ns6%3A%E6%A3%AE%E6%9E%97%E9%80%81%E9%9B%BB%E7%B7%9Abanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\04\ns6%3A%E6%A3%AE%E6%9E%97%E9%80%81%E9%9B%BB%E7%B7%9Abanner%2Ejpg.html -->
 
 森林送電線 | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[direct image link](http://blog-imgs-15-origin.fc2.com/k/o/k/kokenoiori/shinrinbanner.jpg), [source page](http://kokenoiori.blog40.fc2.com/)
-  
-
-
-
-
+源地址：[direct image link](http://blog-imgs-15-origin.fc2.com/k/o/k/kokenoiori/shinrinbanner.jpg), [source page](http://kokenoiori.blog40.fc2.com/)  
 
 ---
 

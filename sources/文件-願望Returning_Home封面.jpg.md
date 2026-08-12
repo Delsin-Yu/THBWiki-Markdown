@@ -1,6 +1,6 @@
 # 文件:願望Returning_Home封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b4\ns6%3A%E9%A1%98%E6%9C%9BReturning_Home%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b4\ns6%3A%E9%A1%98%E6%9C%9BReturning_Home%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 スパイラル小町 | 专辑封面 | 封面图片
 
@@ -8,16 +8,19 @@
 使用了本文件作封面图片的作品：
   
 
-- [願望Returning Home](./願望Returning_Home.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [西行寺幽幽子](./西行寺幽幽子.md)- [因幡帝](./因幡帝.md)- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)- [比那名居天子](./比那名居天子.md)- [东风谷早苗](./东风谷早苗.md)- [村纱水蜜](./村纱水蜜.md)- [寅丸星](./寅丸星.md)- [雾雨魔理沙](./雾雨魔理沙.md)
+- [願望Returning Home](./願望Returning_Home.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [西行寺幽幽子](./西行寺幽幽子.md)
+- [因幡帝](./因幡帝.md)
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
+- [比那名居天子](./比那名居天子.md)
+- [东风谷早苗](./东风谷早苗.md)
+- [村纱水蜜](./村纱水蜜.md)
+- [寅丸星](./寅丸星.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-源地址：[[1]](https://pbs.twimg.com/media/Cm7Zi8iVUAENmvH.jpg:large)
-  
-
-
-
-
+源地址：[\[1\]](https://pbs.twimg.com/media/Cm7Zi8iVUAENmvH.jpg:large)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:So,All_we_have_(not)_created_equal封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ac\ns6%3ASo%2CAll_we_have_%28not%29_created_equal%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ac\ns6%3ASo%2CAll_we_have_%28not%29_created_equal%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 回路-kairo- | 封面图片
 
@@ -8,11 +8,14 @@
 使用了本文件作封面图片的作品：
   
 
-- [So,All we have (not) created equal](./So,All_we_have_(not)_created_equal.md)  
-该封面包含的角色：- [娜兹玲](./娜兹玲.md)- [多多良小伞](./多多良小伞.md)- [云居一轮](./云居一轮.md)- [村纱水蜜](./村纱水蜜.md)- [寅丸星](./寅丸星.md)- [圣白莲](./圣白莲.md)- [封兽鵺](./封兽鵺.md)
-
-
-
+- [So,All we have (not) created equal](./So,All_we_have_(not%29_created_equal.md)该封面包含的角色：
+- [娜兹玲](./娜兹玲.md)
+- [多多良小伞](./多多良小伞.md)
+- [云居一轮](./云居一轮.md)
+- [村纱水蜜](./村纱水蜜.md)
+- [寅丸星](./寅丸星.md)
+- [圣白莲](./圣白莲.md)
+- [封兽鵺](./封兽鵺.md)
 
 
 ---

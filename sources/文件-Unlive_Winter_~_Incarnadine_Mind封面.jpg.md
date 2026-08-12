@@ -1,6 +1,6 @@
 # 文件:Unlive_Winter_~_Incarnadine_Mind封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\73\ns6%3AUnlive_Winter_%7E_Incarnadine_Mind%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\73\ns6%3AUnlive_Winter_%7E_Incarnadine_Mind%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 The_Oneiric_Orchestra_of_the_Unfindable_Palace | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ The_Oneiric_Orchestra_of_the_Unfindable_Palace | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Unlive Winter ~ Incarnadine Mind](./Unlive_Winter_~_Incarnadine_Mind.md)  
-该封面包含的角色：- [西行寺幽幽子](./西行寺幽幽子.md)
+- [Unlive Winter ~ Incarnadine Mind](./Unlive_Winter_~_Incarnadine_Mind.md)该封面包含的角色：
+- [西行寺幽幽子](./西行寺幽幽子.md)
 
   
-源地址：[[1]](https://theoneiricorchestraproject.bandcamp.com/album/unlive-winter-incarnadine-mind)
-  
-
-
-
-
+源地址：[\[1\]](https://theoneiricorchestraproject.bandcamp.com/album/unlive-winter-incarnadine-mind)  
 
 ---
 

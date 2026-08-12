@@ -1,14 +1,11 @@
 # 文件:Be_Used_banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bd\ns6%3ABe_Used_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bd\ns6%3ABe_Used_banner%2Ejpg.html -->
 
 Be_Used | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

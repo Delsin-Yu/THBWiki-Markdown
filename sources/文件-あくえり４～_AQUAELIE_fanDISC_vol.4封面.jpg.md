@@ -1,6 +1,6 @@
 # 文件:あくえり４～_AQUAELIE_fanDISC_vol.4封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7a\ns6%3A%E3%81%82%E3%81%8F%E3%81%88%E3%82%8A%EF%BC%94%EF%BD%9E_AQUAELIE_fanDISC_vol%2E4%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7a\ns6%3A%E3%81%82%E3%81%8F%E3%81%88%E3%82%8A%EF%BC%94%EF%BD%9E_AQUAELIE_fanDISC_vol%2E4%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 AQUAELIE | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ AQUAELIE | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [あくえり４～ AQUAELIE fanDISC vol.4](./あくえり４～_AQUAELIE_fanDISC_vol.4.md)  
-该封面包含的角色：- [因幡帝](./因幡帝.md)- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
-
-
-
+- [あくえり４～ AQUAELIE fanDISC vol.4](./あくえり４～_AQUAELIE_fanDISC_vol.4.md)该封面包含的角色：
+- [因幡帝](./因幡帝.md)
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
 
 
 ---

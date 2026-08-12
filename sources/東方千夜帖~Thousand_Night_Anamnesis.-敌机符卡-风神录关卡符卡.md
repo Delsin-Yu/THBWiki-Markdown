@@ -1,6 +1,6 @@
 # 東方千夜帖~Thousand_Night_Anamnesis./敌机符卡/风神录关卡符卡
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\b5\ns0%3A%E6%9D%B1%E6%96%B9%E5%8D%83%E5%A4%9C%E5%B8%96%7EThousand_Night_Anamnesis%2E%2F%E6%95%8C%E6%9C%BA%E7%AC%A6%E5%8D%A1%2F%E9%A3%8E%E7%A5%9E%E5%BD%95%E5%85%B3%E5%8D%A1%E7%AC%A6%E5%8D%A1.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\b5\ns0%3A%E6%9D%B1%E6%96%B9%E5%8D%83%E5%A4%9C%E5%B8%96%7EThousand_Night_Anamnesis%2E%2F%E6%95%8C%E6%9C%BA%E7%AC%A6%E5%8D%A1%2F%E9%A3%8E%E7%A5%9E%E5%BD%95%E5%85%B3%E5%8D%A1%E7%AC%A6%E5%8D%A1.html -->
 
 サラダ
 
@@ -8,7 +8,6 @@
 ## 目录
 
 - [1 风神录](#风神录)
-
   - [1.1 秋穰子](#秋穰子)
   - [1.2 键山雏](#键山雏)
   - [1.3 河城荷取](#河城荷取)
@@ -16,10 +15,6 @@
   - [1.5 东风谷早苗](#东风谷早苗)
   - [1.6 洩矢诹访子](#洩矢诹访子)
   - [1.7 八坂神奈子](#八坂神奈子)
-
-
-
-
 
 
 
@@ -54,7 +49,6 @@
 </td></tr></tbody></table>
 
 
-
 ### 键山雏
 
 <table>
@@ -81,7 +75,6 @@
 <td>随波逐流的键山雏。转来转去的同时也在吸收着厄运。</td>
 <td>随波逐流的键山雏。我希望雏祭也能成为国定假日。
 </td></tr></tbody></table>
-
 
 
 ### 河城荷取
@@ -119,7 +112,6 @@
 </td></tr></tbody></table>
 
 
-
 ### 射命丸文
 
 <table>
@@ -153,7 +145,6 @@
 <td>鸦天狗斩风用的秘扇。只要挥舞一次，她就永远不会停下。</td>
 <td>鸦天狗斩风用的秘扇。有预警线，还挺不错。
 </td></tr></tbody></table>
-
 
 
 ### 东风谷早苗
@@ -196,7 +187,6 @@
 <td>永恒的象征。第三条大蛇是白送的。</td>
 <td>永恒的象征。其实，这是假的永恒，因为它没有吃到尾巴。
 </td></tr></tbody></table>
-
 
 
 ### 洩矢诹访子
@@ -242,7 +232,6 @@
 </td></tr></tbody></table>
 
 
-
 ### 八坂神奈子
 
 <table>
@@ -283,10 +272,6 @@
 <td>神奈子的终符。灾难般的力量。一张推迟风〜星关卡更新的符卡。</td>
 <td>神奈子的终符。灾难般的力量。比不上「风神的神德」，作为弹幕完成度相当高。
 </td></tr></tbody></table>
-
-
-
-
 
 
 ---

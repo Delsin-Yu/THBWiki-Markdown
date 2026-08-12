@@ -1,6 +1,6 @@
 # 文件:SUTEKI_WARSⅢ封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\ff\ns6%3ASUTEKI_WARS%E2%85%A2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\ff\ns6%3ASUTEKI_WARS%E2%85%A2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 泥舟海運
 
@@ -8,11 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [SUTEKI WARSⅢ](./SUTEKI_WARSⅢ.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [蓬莱山辉夜](./蓬莱山辉夜.md)- [伊吹萃香](./伊吹萃香.md)- [东风谷早苗](./东风谷早苗.md)
-
-
-
+- [SUTEKI WARSⅢ](./SUTEKI_WARSⅢ.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [蓬莱山辉夜](./蓬莱山辉夜.md)
+- [伊吹萃香](./伊吹萃香.md)
+- [东风谷早苗](./东风谷早苗.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:路地裏選歌～Mystic_träumen封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a4\ns6%3A%E8%B7%AF%E5%9C%B0%E8%A3%8F%E9%81%B8%E6%AD%8C%EF%BD%9EMystic_tr%C3%A4umen%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a4\ns6%3A%E8%B7%AF%E5%9C%B0%E8%A3%8F%E9%81%B8%E6%AD%8C%EF%BD%9EMystic_tr%C3%A4umen%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 路地裏喫茶
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [路地裏選歌～Mystic träumen](./路地裏選歌～Mystic_träumen.md)  
-该封面包含的角色：- [西行寺幽幽子](./西行寺幽幽子.md)- [八云紫](./八云紫.md)
-
-
-
+- [路地裏選歌～Mystic träumen](./路地裏選歌～Mystic_träumen.md)该封面包含的角色：
+- [西行寺幽幽子](./西行寺幽幽子.md)
+- [八云紫](./八云紫.md)
 
 
 ---

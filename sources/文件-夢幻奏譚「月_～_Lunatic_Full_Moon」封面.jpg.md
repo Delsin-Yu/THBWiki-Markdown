@@ -1,6 +1,6 @@
 # 文件:夢幻奏譚「月_～_Lunatic_Full_Moon」封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\70\ns6%3A%E5%A4%A2%E5%B9%BB%E5%A5%8F%E8%AD%9A%E3%80%8C%E6%9C%88_%EF%BD%9E_Lunatic_Full_Moon%E3%80%8D%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\70\ns6%3A%E5%A4%A2%E5%B9%BB%E5%A5%8F%E8%AD%9A%E3%80%8C%E6%9C%88_%EF%BD%9E_Lunatic_Full_Moon%E3%80%8D%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 机上の空想理論
 
@@ -9,9 +9,6 @@
   
 
 - [夢幻奏譚「月 ～ Lunatic Full Moon」](./夢幻奏譚「月_～_Lunatic_Full_Moon」.md)
-
-
-
 
 
 ---

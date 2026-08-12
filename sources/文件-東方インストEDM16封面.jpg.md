@@ -1,6 +1,6 @@
 # 文件:東方インストEDM16封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\07\ns6%3A%E6%9D%B1%E6%96%B9%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88EDM16%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\07\ns6%3A%E6%9D%B1%E6%96%B9%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88EDM16%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 SPACELECTRO | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@ SPACELECTRO | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方インストEDM16](./東方インストEDM16.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
+- [東方インストEDM16](./東方インストEDM16.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-源地址：[图片链接](http://mikeyasuana.sakura.ne.jp/spacelectro_web/wp-content/uploads/2021/12/3H15Dcqv-3.jpg) [官网](http://spacelectro.com/)
-  
-
-
-
-
+源地址：[图片链接](http://mikeyasuana.sakura.ne.jp/spacelectro_web/wp-content/uploads/2021/12/3H15Dcqv-3.jpg) [官网](http://spacelectro.com/)  
 
 ---
 

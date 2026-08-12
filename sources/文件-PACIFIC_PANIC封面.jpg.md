@@ -1,6 +1,6 @@
 # 文件:PACIFIC_PANIC封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6c\ns6%3APACIFIC_PANIC%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6c\ns6%3APACIFIC_PANIC%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 GothiC | 同人志封面 | 封面图片
 
@@ -8,16 +8,11 @@ GothiC | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [PACIFIC PANIC](./PACIFIC_PANIC.md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)
+- [PACIFIC PANIC](./PACIFIC_PANIC.md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
 
   
-源地址：[[1]](http://img-cdn.jg.jugem.jp/0f5/1694214/20110628_1915254.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://img-cdn.jg.jugem.jp/0f5/1694214/20110628_1915254.jpg)  
 
 ---
 

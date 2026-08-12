@@ -1,16 +1,12 @@
 # 模板:HSF
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\0\0c\ns10%3AHSF.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\0\0c\ns10%3AHSF.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

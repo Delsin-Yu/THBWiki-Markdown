@@ -1,6 +1,6 @@
 # 文件:Like_an_adult!!封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\77\ns6%3ALike_an_adult%21%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\77\ns6%3ALike_an_adult%21%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Nameless_Sound | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ Nameless_Sound | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Like an adult!!](./Like_an_adult!!.md)  
-该封面包含的角色：- [灵乌路空](./灵乌路空.md)- [宇佐见堇子](./宇佐见堇子.md)
-
-
-
+- [Like an adult!!](./Like_an_adult!!.md)该封面包含的角色：
+- [灵乌路空](./灵乌路空.md)
+- [宇佐见堇子](./宇佐见堇子.md)
 
 
 ---

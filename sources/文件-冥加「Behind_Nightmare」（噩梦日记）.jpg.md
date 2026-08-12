@@ -1,12 +1,8 @@
 # 文件:冥加「Behind_Nightmare」（噩梦日记）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0b\ns6%3A%E5%86%A5%E5%8A%A0%E3%80%8CBehind_Nightmare%E3%80%8D%EF%BC%88%E5%99%A9%E6%A2%A6%E6%97%A5%E8%AE%B0%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0b\ns6%3A%E5%86%A5%E5%8A%A0%E3%80%8CBehind_Nightmare%E3%80%8D%EF%BC%88%E5%99%A9%E6%A2%A6%E6%97%A5%E8%AE%B0%EF%BC%89%2Ejpg.html -->
 
 尔子田里乃 | 敌机符卡 | 秘封噩梦日记
-
-
-
-
 
 
 ---

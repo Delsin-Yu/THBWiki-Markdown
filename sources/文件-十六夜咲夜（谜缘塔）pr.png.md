@@ -1,12 +1,8 @@
 # 文件:十六夜咲夜（谜缘塔）pr.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\af\ns6%3A%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C%EF%BC%88%E8%B0%9C%E7%BC%98%E5%A1%94%EF%BC%89pr%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\af\ns6%3A%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C%EF%BC%88%E8%B0%9C%E7%BC%98%E5%A1%94%EF%BC%89pr%2Epng.html -->
 
 二次角色立绘 | 十六夜咲夜（谜缘塔） | 阐幽赜书房
-
-
-
-
 
 
 ---

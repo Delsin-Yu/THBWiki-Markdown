@@ -1,16 +1,12 @@
 # 模板:THV求闻视祭
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\2\26\ns10%3ATHV%E6%B1%82%E9%97%BB%E8%A7%86%E7%A5%AD.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\2\26\ns10%3ATHV%E6%B1%82%E9%97%BB%E8%A7%86%E7%A5%AD.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

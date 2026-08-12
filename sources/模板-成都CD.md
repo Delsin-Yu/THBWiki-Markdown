@@ -1,16 +1,12 @@
 # 模板:成都CD
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\f\fe\ns10%3A%E6%88%90%E9%83%BDCD.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\f\fe\ns10%3A%E6%88%90%E9%83%BDCD.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

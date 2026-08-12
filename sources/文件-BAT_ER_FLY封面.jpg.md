@@ -1,6 +1,6 @@
 # 文件:BAT_ER_FLY封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f8\ns6%3ABAT_ER_FLY%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f8\ns6%3ABAT_ER_FLY%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Phantasm_Harmony | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ Phantasm_Harmony | 专辑封面 | 封面图片
   
 
 - [BAT ER FLY](./BAT_ER_FLY.md)
-
-
-
 
 
 ---

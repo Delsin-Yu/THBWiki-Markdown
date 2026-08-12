@@ -1,6 +1,6 @@
 # 文件:The_First_Inspiration_-DEMO-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\91\ns6%3AThe_First_Inspiration_-DEMO-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\91\ns6%3AThe_First_Inspiration_-DEMO-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 どうかkappaと発音して下さい。 | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [The First Inspiration -DEMO-](./The_First_Inspiration_-DEMO-.md)  
-该封面包含的角色：- [纯狐](./纯狐.md)
-
-
-
+- [The First Inspiration -DEMO-](./The_First_Inspiration_-DEMO-.md)该封面包含的角色：
+- [纯狐](./纯狐.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Magie封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\52\ns6%3AMagie%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\52\ns6%3AMagie%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Chronographic_Records | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Chronographic_Records | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Magie](./Magie.md)  
-该封面包含的角色：- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
-
-
-
+- [Magie](./Magie.md)该封面包含的角色：
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
 
 
 ---

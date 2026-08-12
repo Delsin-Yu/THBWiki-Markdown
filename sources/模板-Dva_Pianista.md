@@ -1,16 +1,12 @@
 # 模板:Dva_Pianista
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\4\4b\ns10%3ADva_Pianista.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\4\4b\ns10%3ADva_Pianista.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

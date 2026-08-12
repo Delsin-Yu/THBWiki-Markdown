@@ -1,6 +1,6 @@
 # 文件:宇宙の死を見た不老不死_特典CD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\42\ns6%3A%E5%AE%87%E5%AE%99%E3%81%AE%E6%AD%BB%E3%82%92%E8%A6%8B%E3%81%9F%E4%B8%8D%E8%80%81%E4%B8%8D%E6%AD%BB_%E7%89%B9%E5%85%B8CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\42\ns6%3A%E5%AE%87%E5%AE%99%E3%81%AE%E6%AD%BB%E3%82%92%E8%A6%8B%E3%81%9F%E4%B8%8D%E8%80%81%E4%B8%8D%E6%AD%BB_%E7%89%B9%E5%85%B8CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ALISON航空 | 专辑封面 | 封面图片 | 暁Records
 
@@ -10,11 +10,8 @@ ALISON航空 | 专辑封面 | 封面图片 | 暁Records
 使用了本文件作封面图片的作品：
   
 
-- [宇宙の死を見た不老不死 特典CD](./宇宙の死を見た不老不死_特典CD.md)  
-该封面包含的角色：- [藤原妹红](./藤原妹红.md)
-
-
-
+- [宇宙の死を見た不老不死 特典CD](./宇宙の死を見た不老不死_特典CD.md)该封面包含的角色：
+- [藤原妹红](./藤原妹红.md)
 
 
 ---

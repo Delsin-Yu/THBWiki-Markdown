@@ -1,6 +1,6 @@
 # 文件:E.C.O.E.S.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\71\ns6%3AE%2EC%2EO%2EE%2ES%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\71\ns6%3AE%2EC%2EO%2EE%2ES%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 SOUND_HOLIC | 封面图片 | 视频封面
 
@@ -8,11 +8,8 @@ SOUND_HOLIC | 封面图片 | 视频封面
 使用了本文件作封面图片的作品：
   
 
-- [E.C.O.E.S.](./E.C.O.E.S..md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)
-
-
-
+- [E.C.O.E.S.](./E.C.O.E.S..md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
 
 
 ---

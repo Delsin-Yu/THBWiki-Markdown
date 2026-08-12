@@ -1,6 +1,6 @@
 # 文件:sound_piece_＃1封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\df\ns6%3Asound_piece_%EF%BC%831%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\df\ns6%3Asound_piece_%EF%BC%831%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 BubbleRecords | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ BubbleRecords | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [sound piece ＃1](./sound_piece_＃1.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
+- [sound piece ＃1](./sound_piece_＃1.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-源地址：[direct image link](https://web.archive.org/web/20200615190841im_/http://bubblerecords-web.com/img/discography/09_b.jpg), [source page](https://web.archive.org/web/20211204192548/http://bubblerecords-web.com/discography.html)
-  
-
-
-
-
+源地址：[direct image link](https://web.archive.org/web/20200615190841im_/http://bubblerecords-web.com/img/discography/09_b.jpg), [source page](https://web.archive.org/web/20211204192548/http://bubblerecords-web.com/discography.html)  
 
 ---
 

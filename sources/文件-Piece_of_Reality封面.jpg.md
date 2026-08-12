@@ -1,6 +1,6 @@
 # 文件:Piece_of_Reality封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ab\ns6%3APiece_of_Reality%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ab\ns6%3APiece_of_Reality%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Sound_I'z | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Sound_I'z | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Piece of Reality](./Piece_of_Reality.md)  
-该封面包含的角色：- [八云紫](./八云紫.md)
-
-
-
+- [Piece of Reality](./Piece_of_Reality.md)该封面包含的角色：
+- [八云紫](./八云紫.md)
 
 
 ---

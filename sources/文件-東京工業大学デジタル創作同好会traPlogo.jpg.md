@@ -1,18 +1,13 @@
 # 文件:東京工業大学デジタル創作同好会traPlogo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d9\ns6%3A%E6%9D%B1%E4%BA%AC%E5%B7%A5%E6%A5%AD%E5%A4%A7%E5%AD%A6%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E5%89%B5%E4%BD%9C%E5%90%8C%E5%A5%BD%E4%BC%9AtraPlogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d9\ns6%3A%E6%9D%B1%E4%BA%AC%E5%B7%A5%E6%A5%AD%E5%A4%A7%E5%AD%A6%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E5%89%B5%E4%BD%9C%E5%90%8C%E5%A5%BD%E4%BC%9AtraPlogo%2Ejpg.html -->
 
 東京工業大学デジタル創作同好会traP | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[Twitter avatar](https://pbs.twimg.com/profile_images/988338320638799872/dmevamu8_400x400.jpg)
-  
-
-
-
-
+源地址：[Twitter avatar](https://pbs.twimg.com/profile_images/988338320638799872/dmevamu8_400x400.jpg)  
 
 ---
 

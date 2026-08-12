@@ -1,14 +1,11 @@
 # 文件:惰音ライフbanner2.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bd\ns6%3A%E6%83%B0%E9%9F%B3%E3%83%A9%E3%82%A4%E3%83%95banner2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bd\ns6%3A%E6%83%B0%E9%9F%B3%E3%83%A9%E3%82%A4%E3%83%95banner2%2Epng.html -->
 
 惰音ライフ | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

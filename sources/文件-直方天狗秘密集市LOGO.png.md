@@ -1,12 +1,8 @@
 # 文件:直方天狗秘密集市LOGO.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\31\ns6%3A%E7%9B%B4%E6%96%B9%E5%A4%A9%E7%8B%97%E7%A7%98%E5%AF%86%E9%9B%86%E5%B8%82LOGO%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\31\ns6%3A%E7%9B%B4%E6%96%B9%E5%A4%A9%E7%8B%97%E7%A7%98%E5%AF%86%E9%9B%86%E5%B8%82LOGO%2Epng.html -->
 
 活动LOGO | 直方天狗秘密集市
-
-
-
-
 
 
 ---

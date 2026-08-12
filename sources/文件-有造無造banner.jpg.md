@@ -1,12 +1,8 @@
 # 文件:有造無造banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a1\ns6%3A%E6%9C%89%E9%80%A0%E7%84%A1%E9%80%A0banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a1\ns6%3A%E6%9C%89%E9%80%A0%E7%84%A1%E9%80%A0banner%2Ejpg.html -->
 
 有造無造 | 社团LOGO
-
-
-
-
 
 
 ---

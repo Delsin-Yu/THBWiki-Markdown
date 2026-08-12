@@ -1,6 +1,6 @@
 # 文件:Flowering_Night_2009_-全人類ノ天樂祭-_ライブDVD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ed\ns6%3AFlowering_Night_2009_-%E5%85%A8%E4%BA%BA%E9%A1%9E%E3%83%8E%E5%A4%A9%E6%A8%82%E7%A5%AD-_%E3%83%A9%E3%82%A4%E3%83%96DVD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ed\ns6%3AFlowering_Night_2009_-%E5%85%A8%E4%BA%BA%E9%A1%9E%E3%83%8E%E5%A4%A9%E6%A8%82%E7%A5%AD-_%E3%83%A9%E3%82%A4%E3%83%96DVD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Flowering_Night_実行委員会 | dBu_music | 封面图片 | 视频封面
 
@@ -8,11 +8,8 @@ Flowering_Night_実行委員会 | dBu_music | 封面图片 | 视频封面
 使用了本文件作封面图片的作品：
   
 
-- [Flowering Night 2009 -全人類ノ天樂祭- ライブDVD](./Flowering_Night_2009_-全人類ノ天樂祭-_ライブDVD.md)  
-该封面包含的角色：- [风见幽香](./风见幽香.md)
-
-
-
+- [Flowering Night 2009 -全人類ノ天樂祭- ライブDVD](./Flowering_Night_2009_-全人類ノ天樂祭-_ライブDVD.md)该封面包含的角色：
+- [风见幽香](./风见幽香.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:IN_FREEZE封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b0\ns6%3AIN_FREEZE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b0\ns6%3AIN_FREEZE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Stygian_Riverside | 专辑封面 | 封面图片
 
@@ -13,12 +13,7 @@ Stygian_Riverside | 专辑封面 | 封面图片
 - [IN FREEZE](./IN_FREEZE.md)
 
   
-源地址：[[1]](https://web.archive.org/web/20151105053452if_/http://userdisk.webry.biglobe.ne.jp/010/859/85/N000/000/000/117946121672716319697.JPG)
-  
-
-
-
-
+源地址：[\[1\]](https://web.archive.org/web/20151105053452if_/http://userdisk.webry.biglobe.ne.jp/010/859/85/N000/000/000/117946121672716319697.JPG)  
 
 ---
 

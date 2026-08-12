@@ -1,12 +1,8 @@
 # 文件:あにす屋logo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7b\ns6%3A%E3%81%82%E3%81%AB%E3%81%99%E5%B1%8Blogo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7b\ns6%3A%E3%81%82%E3%81%AB%E3%81%99%E5%B1%8Blogo%2Epng.html -->
 
 あにす屋 | 社团LOGO
-
-
-
-
 
 
 ---

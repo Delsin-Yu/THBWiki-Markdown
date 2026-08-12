@@ -1,6 +1,6 @@
 # 文件:Sound_Domestic_Colony_-OTOMEKAN_COLLECTION_rev1封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cd\ns6%3ASound_Domestic_Colony_-OTOMEKAN_COLLECTION_rev1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cd\ns6%3ASound_Domestic_Colony_-OTOMEKAN_COLLECTION_rev1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 音召缶
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Sound Domestic Colony -OTOMEKAN COLLECTION rev1](./Sound_Domestic_Colony_-OTOMEKAN_COLLECTION_rev1.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [Sound Domestic Colony -OTOMEKAN COLLECTION rev1](./Sound_Domestic_Colony_-OTOMEKAN_COLLECTION_rev1.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

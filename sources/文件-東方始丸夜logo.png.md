@@ -1,16 +1,11 @@
 # 文件:東方始丸夜logo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\df\ns6%3A%E6%9D%B1%E6%96%B9%E5%A7%8B%E4%B8%B8%E5%A4%9Clogo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\df\ns6%3A%E6%9D%B1%E6%96%B9%E5%A7%8B%E4%B8%B8%E5%A4%9Clogo%2Epng.html -->
 
 東方始丸夜 | 社团LOGO
 
   
-源地址：[[1]](http://tohohajimaruyo.web.fc2.com/touhouhajimaruyo/discography_files/image_1.png)
-  
-
-
-
-
+源地址：[\[1\]](http://tohohajimaruyo.web.fc2.com/touhouhajimaruyo/discography_files/image_1.png)  
 
 ---
 

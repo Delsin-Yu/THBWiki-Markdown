@@ -1,6 +1,6 @@
 # 东方幻想乡Defence_of_The_Shrines/设定/椛
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\9\9e\ns0%3A%E4%B8%9C%E6%96%B9%E5%B9%BB%E6%83%B3%E4%B9%A1Defence_of_The_Shrines%2F%E8%AE%BE%E5%AE%9A%2F%E6%A4%9B.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\9\9e\ns0%3A%E4%B8%9C%E6%96%B9%E5%B9%BB%E6%83%B3%E4%B9%A1Defence_of_The_Shrines%2F%E8%AE%BE%E5%AE%9A%2F%E6%A4%9B.html -->
 
 东方DOTS制作组
 
@@ -11,27 +11,23 @@
 犬走椛
   
   
-[](./文件-THD-Momizi.jpg.md)
+<img alt="THD-Momizi.jpg" src="https://upload.thwiki.cc/4/40/THD-Momizi.jpg" decoding="async" loading="lazy" width="404" height="125" data-file-width="404" data-file-height="125">
   
   
-[](./文件-THD-Momizie.jpg.md)
+<img alt="THD-Momizie.jpg" src="https://upload.thwiki.cc/1/1c/THD-Momizie.jpg" decoding="async" loading="lazy" width="447" height="47" data-file-width="447" data-file-height="47">
   
   
-[](./文件-THD-Momizid.jpg.md)
+<img alt="THD-Momizid.jpg" src="https://upload.thwiki.cc/8/8f/THD-Momizid.jpg" decoding="async" loading="lazy" width="446" height="271" data-file-width="446" data-file-height="271">
   
   
-[](./文件-THD-Momizif.jpg.md)
+<img alt="THD-Momizif.jpg" src="https://upload.thwiki.cc/8/84/THD-Momizif.jpg" decoding="async" loading="lazy" width="447" height="174" data-file-width="447" data-file-height="174">
   
   
-[](./文件-THD-Momizir.jpg.md)
+<img alt="THD-Momizir.jpg" src="https://upload.thwiki.cc/8/82/THD-Momizir.jpg" decoding="async" loading="lazy" width="448" height="150" data-file-width="448" data-file-height="150">
   
   
-[](./文件-THD-Momiziw.jpg.md)
+<img alt="THD-Momiziw.jpg" src="https://upload.thwiki.cc/3/35/THD-Momiziw.jpg" decoding="async" loading="lazy" width="446" height="135" data-file-width="446" data-file-height="135">
   
-
-
-
-
 
 ---
 

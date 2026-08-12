@@ -1,12 +1,8 @@
 # 文件:冷体「Super_Ice_Kick」（非想天则）-1.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b9\ns6%3A%E5%86%B7%E4%BD%93%E3%80%8CSuper_Ice_Kick%E3%80%8D%EF%BC%88%E9%9D%9E%E6%83%B3%E5%A4%A9%E5%88%99%EF%BC%89-1%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b9\ns6%3A%E5%86%B7%E4%BD%93%E3%80%8CSuper_Ice_Kick%E3%80%8D%EF%BC%88%E9%9D%9E%E6%83%B3%E5%A4%A9%E5%88%99%EF%BC%89-1%2Ejpg.html -->
 
 东方非想天则 | 琪露诺 | 自机符卡
-
-
-
-
 
 
 ---

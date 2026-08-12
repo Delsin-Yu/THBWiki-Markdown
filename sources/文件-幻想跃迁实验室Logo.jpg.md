@@ -1,12 +1,8 @@
 # 文件:幻想跃迁实验室Logo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\72\ns6%3A%E5%B9%BB%E6%83%B3%E8%B7%83%E8%BF%81%E5%AE%9E%E9%AA%8C%E5%AE%A4Logo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\72\ns6%3A%E5%B9%BB%E6%83%B3%E8%B7%83%E8%BF%81%E5%AE%9E%E9%AA%8C%E5%AE%A4Logo%2Ejpg.html -->
 
 幻想跃迁实验室 | 社团LOGO
-
-
-
-
 
 
 ---

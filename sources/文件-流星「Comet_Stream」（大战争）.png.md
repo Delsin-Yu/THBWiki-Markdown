@@ -1,14 +1,11 @@
 # 文件:流星「Comet_Stream」（大战争）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\53\ns6%3A%E6%B5%81%E6%98%9F%E3%80%8CComet_Stream%E3%80%8D%EF%BC%88%E5%A4%A7%E6%88%98%E4%BA%89%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\53\ns6%3A%E6%B5%81%E6%98%9F%E3%80%8CComet_Stream%E3%80%8D%EF%BC%88%E5%A4%A7%E6%88%98%E4%BA%89%EF%BC%89%2Epng.html -->
 
 妖精大战争 | 敌机符卡 | 斯塔萨菲雅
 
 
 ## 文件说明
-
-
-
 
 ---
 

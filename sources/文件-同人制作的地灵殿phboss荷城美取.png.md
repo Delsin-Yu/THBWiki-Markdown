@@ -1,12 +1,8 @@
 # 文件:同人制作的地灵殿phboss荷城美取.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\da\ns6%3A%E5%90%8C%E4%BA%BA%E5%88%B6%E4%BD%9C%E7%9A%84%E5%9C%B0%E7%81%B5%E6%AE%BFphboss%E8%8D%B7%E5%9F%8E%E7%BE%8E%E5%8F%96%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\da\ns6%3A%E5%90%8C%E4%BA%BA%E5%88%B6%E4%BD%9C%E7%9A%84%E5%9C%B0%E7%81%B5%E6%AE%BFphboss%E8%8D%B7%E5%9F%8E%E7%BE%8E%E5%8F%96%2Epng.html -->
 
 河城见取
-
-
-
-
 
 
 ---

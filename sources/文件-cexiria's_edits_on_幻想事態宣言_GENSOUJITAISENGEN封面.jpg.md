@@ -1,6 +1,6 @@
 # 文件:cexiria's_edits_on_幻想事態宣言_GENSOUJITAISENGEN封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\56\ns6%3Acexiria%27s_edits_on_%E5%B9%BB%E6%83%B3%E4%BA%8B%E6%85%8B%E5%AE%A3%E8%A8%80_GENSOUJITAISENGEN%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\56\ns6%3Acexiria%27s_edits_on_%E5%B9%BB%E6%83%B3%E4%BA%8B%E6%85%8B%E5%AE%A3%E8%A8%80_GENSOUJITAISENGEN%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 CXR_Record | 专辑封面 | 封面图片
 
@@ -10,11 +10,11 @@ CXR_Record | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [cexiria's edits on 幻想事態宣言 GENSOUJITAISENGEN](./cexiria's_edits_on_幻想事態宣言_GENSOUJITAISENGEN.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)- [埴安神袿姬](./埴安神袿姬.md)- [吉吊八千慧](./吉吊八千慧.md)- [饕餮尤魔](./饕餮尤魔.md)
-
-
-
+- [cexiria's edits on 幻想事態宣言 GENSOUJITAISENGEN](./cexiria's_edits_on_幻想事態宣言_GENSOUJITAISENGEN.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
+- [埴安神袿姬](./埴安神袿姬.md)
+- [吉吊八千慧](./吉吊八千慧.md)
+- [饕餮尤魔](./饕餮尤魔.md)
 
 
 ---

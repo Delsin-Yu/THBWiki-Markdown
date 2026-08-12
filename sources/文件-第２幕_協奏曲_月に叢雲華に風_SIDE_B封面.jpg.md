@@ -1,6 +1,6 @@
 # 文件:第２幕_協奏曲_月に叢雲華に風_SIDE_B封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\49\ns6%3A%E7%AC%AC%EF%BC%92%E5%B9%95_%E5%8D%94%E5%A5%8F%E6%9B%B2_%E6%9C%88%E3%81%AB%E5%8F%A2%E9%9B%B2%E8%8F%AF%E3%81%AB%E9%A2%A8_SIDE_B%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\49\ns6%3A%E7%AC%AC%EF%BC%92%E5%B9%95_%E5%8D%94%E5%A5%8F%E6%9B%B2_%E6%9C%88%E3%81%AB%E5%8F%A2%E9%9B%B2%E8%8F%AF%E3%81%AB%E9%A2%A8_SIDE_B%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 交響アクティブNEETs | 封面图片 | 少女フラクタル | 幽閉少女ActiveNEETs | 幽闭星光
 
@@ -8,11 +8,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [第２幕 協奏曲 月に叢雲華に風 SIDE B](./第２幕_協奏曲_月に叢雲華に風_SIDE_B.md)  
-该封面包含的角色：- [比那名居天子](./比那名居天子.md)- [古明地恋](./古明地恋.md)- [艾丽](./艾丽.md)
-
-
-
+- [第２幕 協奏曲 月に叢雲華に風 SIDE B](./第２幕_協奏曲_月に叢雲華に風_SIDE_B.md)该封面包含的角色：
+- [比那名居天子](./比那名居天子.md)
+- [古明地恋](./古明地恋.md)
+- [艾丽](./艾丽.md)
 
 
 ---

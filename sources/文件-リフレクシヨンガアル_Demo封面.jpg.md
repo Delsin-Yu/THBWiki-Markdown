@@ -1,6 +1,6 @@
 # 文件:リフレクシヨンガアル_Demo封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\56\ns6%3A%E3%83%AA%E3%83%95%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A8%E3%83%B3%E3%82%AC%E3%82%A2%E3%83%AB_Demo%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\56\ns6%3A%E3%83%AA%E3%83%95%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A8%E3%83%B3%E3%82%AC%E3%82%A2%E3%83%AB_Demo%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 IbEthics | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ IbEthics | 专辑封面 | 封面图片
   
 
 - [リフレクシヨンガアル Demo](./リフレクシヨンガアル_Demo.md)
-
-
-
 
 
 ---

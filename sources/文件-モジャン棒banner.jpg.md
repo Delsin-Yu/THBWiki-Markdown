@@ -1,12 +1,8 @@
 # 文件:モジャン棒banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\10\ns6%3A%E3%83%A2%E3%82%B8%E3%83%A3%E3%83%B3%E6%A3%92banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\10\ns6%3A%E3%83%A2%E3%82%B8%E3%83%A3%E3%83%B3%E6%A3%92banner%2Ejpg.html -->
 
 モジャン棒 | 社团LOGO
-
-
-
-
 
 
 ---

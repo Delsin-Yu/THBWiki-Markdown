@@ -1,6 +1,6 @@
 # 文件:こいここDailyぷち封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\89\ns6%3A%E3%81%93%E3%81%84%E3%81%93%E3%81%93Daily%E3%81%B7%E3%81%A1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\89\ns6%3A%E3%81%93%E3%81%84%E3%81%93%E3%81%93Daily%E3%81%B7%E3%81%A1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ぬーとりあん | 同人志封面 | 封面图片
 
@@ -10,16 +10,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [こいここDailyぷち](./こいここDailyぷち.md)  
-该封面包含的角色：- [古明地恋](./古明地恋.md)- [秦心](./秦心.md)
+- [こいここDailyぷち](./こいここDailyぷち.md)该封面包含的角色：
+- [古明地恋](./古明地恋.md)
+- [秦心](./秦心.md)
 
   
-[Pixiv artwork ID: 74397530 (original size)](https://www.pixiv.net/artworks/74397530)
-  
-
-
-
-
+[Pixiv artwork ID: 74397530 (original size)](https://www.pixiv.net/artworks/74397530)  
 
 ---
 

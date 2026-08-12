@@ -1,6 +1,6 @@
 # 文件:C.C._-cosmological_constant-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ab\ns6%3AC%2EC%2E_-cosmological_constant-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ab\ns6%3AC%2EC%2E_-cosmological_constant-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Ruxia | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Ruxia | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [C.C. -cosmological constant-](./C.C._-cosmological_constant-.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [C.C. -cosmological constant-](./C.C._-cosmological_constant-.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
 
   
-源地址：[direct image link](https://web.archive.org/web/20130919103805im_/http://blog.midnightinsomnia.com/wp-content/uploads/2011/10/Album-Review-–-C80-Ruxia-C.C.-cosmological-constant-.jpg), [source page](https://web.archive.org/web/20130925085938/http://blog.midnightinsomnia.com/2011/10/22/album-review-c80-ruxia-c-c-cosmological-constant/)
-  
-
-
-
-
+源地址：[direct image link](https://web.archive.org/web/20130919103805im_/http://blog.midnightinsomnia.com/wp-content/uploads/2011/10/Album-Review-–-C80-Ruxia-C.C.-cosmological-constant-.jpg), [source page](https://web.archive.org/web/20130925085938/http://blog.midnightinsomnia.com/2011/10/22/album-review-c80-ruxia-c-c-cosmological-constant/)  
 
 ---
 

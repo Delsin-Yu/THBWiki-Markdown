@@ -1,16 +1,12 @@
 # 文件:境界36号LOGO.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\13\ns6%3A%E5%A2%83%E7%95%8C36%E5%8F%B7LOGO%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\13\ns6%3A%E5%A2%83%E7%95%8C36%E5%8F%B7LOGO%2Epng.html -->
 
 境界36号 | 社团LOGO
 
   
 境界36号社团logo
   
-
-
-
-
 
 ---
 

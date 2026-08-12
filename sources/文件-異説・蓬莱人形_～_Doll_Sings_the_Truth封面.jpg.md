@@ -1,6 +1,6 @@
 # 文件:異説・蓬莱人形_～_Doll_Sings_the_Truth封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4a\ns6%3A%E7%95%B0%E8%AA%AC%E3%83%BB%E8%93%AC%E8%8E%B1%E4%BA%BA%E5%BD%A2_%EF%BD%9E_Doll_Sings_the_Truth%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4a\ns6%3A%E7%95%B0%E8%AA%AC%E3%83%BB%E8%93%AC%E8%8E%B1%E4%BA%BA%E5%BD%A2_%EF%BD%9E_Doll_Sings_the_Truth%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 北方幻視林_～_Northern_Primeval_Forest | 封面图片
 
@@ -11,9 +11,6 @@
   
 
 - [異説・蓬莱人形 ～ Doll Sings the Truth](./異説・蓬莱人形_～_Doll_Sings_the_Truth.md)
-
-
-
 
 
 ---

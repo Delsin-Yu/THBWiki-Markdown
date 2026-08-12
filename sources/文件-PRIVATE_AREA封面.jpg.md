@@ -1,6 +1,6 @@
 # 文件:PRIVATE_AREA封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\04\ns6%3APRIVATE_AREA%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\04\ns6%3APRIVATE_AREA%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 鳩血
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [PRIVATE AREA](./PRIVATE_AREA.md)  
-该封面包含的角色：- [红美铃](./红美铃.md)- 十六夜咲夜 (未找到链接)
-
-
-
+- [PRIVATE AREA](./PRIVATE_AREA.md)该封面包含的角色：
+- [红美铃](./红美铃.md)
+- [十六夜咲夜](./十六夜咲夜.md)
 
 
 ---

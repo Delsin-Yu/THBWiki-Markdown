@@ -1,6 +1,6 @@
 # 文件:Swingin'_Scat_Street封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\64\ns6%3ASwingin%27_Scat_Street%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\64\ns6%3ASwingin%27_Scat_Street%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Unity-Gain | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Unity-Gain | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Swingin' Scat Street](./Swingin'_Scat_Street.md)  
-该封面包含的角色：- [火焰猫燐](./火焰猫燐.md)
+- [Swingin' Scat Street](./Swingin'_Scat_Street.md)该封面包含的角色：
+- [火焰猫燐](./火焰猫燐.md)
 
   
-源地址：[[1]](http://web.archive.org/web/20150408214415/http://kakeruichi.mydns.jp/cd/UTGN-0009/utgn-0009_jacket.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://web.archive.org/web/20150408214415/http://kakeruichi.mydns.jp/cd/UTGN-0009/utgn-0009_jacket.jpg)  
 
 ---
 

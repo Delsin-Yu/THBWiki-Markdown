@@ -1,6 +1,6 @@
 # 文件:東方架空園_～_Magician's_Aerial_Dream._（布都ルート）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c7\ns6%3A%E6%9D%B1%E6%96%B9%E6%9E%B6%E7%A9%BA%E5%9C%92_%EF%BD%9E_Magician%27s_Aerial_Dream%2E_%EF%BC%88%E5%B8%83%E9%83%BD%E3%83%AB%E3%83%BC%E3%83%88%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c7\ns6%3A%E6%9D%B1%E6%96%B9%E6%9E%B6%E7%A9%BA%E5%9C%92_%EF%BD%9E_Magician%27s_Aerial_Dream%2E_%EF%BC%88%E5%B8%83%E9%83%BD%E3%83%AB%E3%83%BC%E3%83%88%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 東方幕府
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方架空園 ～ Magician's Aerial Dream. （布都ルート）](./東方架空園_～_Magician's_Aerial_Dream._（布都ルート）.md)  
-该封面包含的角色：- [别蕾](./别蕾.md)
-
-
-
+- [東方架空園 ～ Magician's Aerial Dream. （布都ルート）](./東方架空園_～_Magician's_Aerial_Dream._（布都ルート）.md)该封面包含的角色：
+- [别蕾](./别蕾.md)
 
 
 ---

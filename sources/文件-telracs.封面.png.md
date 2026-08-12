@@ -1,6 +1,6 @@
 # 文件:telracs.封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a7\ns6%3Atelracs%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a7\ns6%3Atelracs%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 カラスのおうち | 同人志封面 | 封面图片
 
@@ -8,11 +8,13 @@
 使用了本文件作封面图片的作品：
   
 
-- [telracs.](./telracs..md)  
-该封面包含的角色：- [红美铃](./红美铃.md)- [小恶魔](./小恶魔.md)- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)- 十六夜咲夜 (未找到链接)- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
-
-
-
+- [telracs.](./telracs..md)该封面包含的角色：
+- [红美铃](./红美铃.md)
+- [小恶魔](./小恶魔.md)
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
+- [十六夜咲夜](./十六夜咲夜.md)
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
 
 ---

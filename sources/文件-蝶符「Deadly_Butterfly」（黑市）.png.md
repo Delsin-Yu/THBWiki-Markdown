@@ -1,14 +1,11 @@
 # 文件:蝶符「Deadly_Butterfly」（黑市）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f6\ns6%3A%E8%9D%B6%E7%AC%A6%E3%80%8CDeadly_Butterfly%E3%80%8D%EF%BC%88%E9%BB%91%E5%B8%82%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f6\ns6%3A%E8%9D%B6%E7%AC%A6%E3%80%8CDeadly_Butterfly%E3%80%8D%EF%BC%88%E9%BB%91%E5%B8%82%EF%BC%89%2Epng.html -->
 
 弹幕狂们的黑市 | 敌机符卡 | 爱塔妮缇拉尔瓦
 
 
 ## 摘要
-
-
-
 
 ---
 

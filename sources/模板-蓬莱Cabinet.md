@@ -1,16 +1,12 @@
 # 模板:蓬莱Cabinet
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\2\29\ns10%3A%E8%93%AC%E8%8E%B1Cabinet.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\2\29\ns10%3A%E8%93%AC%E8%8E%B1Cabinet.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

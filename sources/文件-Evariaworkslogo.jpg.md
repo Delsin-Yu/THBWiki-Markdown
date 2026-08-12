@@ -1,18 +1,13 @@
 # 文件:Evariaworkslogo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9a\ns6%3AEvariaworkslogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9a\ns6%3AEvariaworkslogo%2Ejpg.html -->
 
 Evariaworks | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[Twitter头像](https://pbs.twimg.com/profile_images/1464635493321084935/MyAEmCMI.jpg)
-  
-
-
-
-
+源地址：[Twitter头像](https://pbs.twimg.com/profile_images/1464635493321084935/MyAEmCMI.jpg)  
 
 ---
 

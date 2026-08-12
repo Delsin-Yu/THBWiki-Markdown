@@ -1,14 +1,11 @@
 # 文件:The_Grimoire_of_Usami（永江衣玖1）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c5\ns6%3AThe_Grimoire_of_Usami%EF%BC%88%E6%B0%B8%E6%B1%9F%E8%A1%A3%E7%8E%961%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c5\ns6%3AThe_Grimoire_of_Usami%EF%BC%88%E6%B0%B8%E6%B1%9F%E8%A1%A3%E7%8E%961%EF%BC%89%2Ejpg.html -->
 
 宇佐见的魔法书 | 永江衣玖
 
 
 ## 摘要
-
-
-
 
 ---
 

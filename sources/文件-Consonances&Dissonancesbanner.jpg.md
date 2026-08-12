@@ -1,12 +1,8 @@
 # 文件:Consonances&Dissonancesbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\03\ns6%3AConsonances%26Dissonancesbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\03\ns6%3AConsonances%26Dissonancesbanner%2Ejpg.html -->
 
 Consonances&Dissonances
-
-
-
-
 
 
 ---

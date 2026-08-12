@@ -1,6 +1,6 @@
 # 文件:I'm_behind_you_now封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8c\ns6%3AI%27m_behind_you_now%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8c\ns6%3AI%27m_behind_you_now%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Eastern_Scrapping_Machine_Orchestra | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Eastern_Scrapping_Machine_Orchestra | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [I'm behind you now](./I'm_behind_you_now.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
-
-
-
+- [I'm behind you now](./I'm_behind_you_now.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
 
 
 ---

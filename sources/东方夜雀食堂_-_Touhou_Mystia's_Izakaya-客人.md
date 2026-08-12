@@ -1,11 +1,11 @@
 # 东方夜雀食堂_-_Touhou_Mystia's_Izakaya/客人
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\8\81\ns0%3A%E4%B8%9C%E6%96%B9%E5%A4%9C%E9%9B%80%E9%A3%9F%E5%A0%82_-_Touhou_Mystia%27s_Izakaya%2F%E5%AE%A2%E4%BA%BA.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\8\81\ns0%3A%E4%B8%9C%E6%96%B9%E5%A4%9C%E9%9B%80%E9%A3%9F%E5%A0%82_-_Touhou_Mystia%27s_Izakaya%2F%E5%AE%A2%E4%BA%BA.html -->
 
 Re零同人社 | 二色幽紫蝶
 
-- 本页词条是对东方二次同人游戏《 **[东方夜雀食堂 - Touhou Mystia's Izakaya](./东方夜雀食堂_-_Touhou_Mystia's_Izakaya.md)** 》的补充攻略  
 
+- 本页词条是对东方二次同人游戏《**[东方夜雀食堂 - Touhou Mystia's Izakaya](./东方夜雀食堂_-_Touhou_Mystia's_Izakaya.md)**》的补充攻略
 
 
 ## 稀有顾客
@@ -14,11 +14,11 @@ Re零同人社 | 二色幽紫蝶
 <tbody><tr>
 <th>姓名</th>
 <th>出现地点</th>
-<th>&#160;&#160;持有金额/円&#160;&#160;&#160;</th>
+<th>  持有金额/円   </th>
 <th>喜好-料理</th>
 <th>喜好-酒水</th>
 <th>厌恶</th>
-<th>&#160;&#160;说明 &#160;&#160;
+<th>  说明   
 </th></tr>
 <tr>
 <td>莉格露</td>
@@ -383,7 +383,6 @@ Re零同人社 | 二色幽紫蝶
 </tbody></table>
 
 
-
 ## 普通顾客
 
 <table>
@@ -392,7 +391,7 @@ Re零同人社 | 二色幽紫蝶
 <th>出现地点</th>
 <th>喜好-料理</th>
 <th>喜好-酒水</th>
-<th>&#160;说明&#160; &#160;
+<th> 说明   
 </th></tr>
 <tr>
 <td>妖怪兔</td>
@@ -661,18 +660,17 @@ Re零同人社 | 二色幽紫蝶
 </tbody></table>
 
 
-
 ## 特殊顾客
 
 <table>
 <tbody><tr>
 <th>姓名</th>
 <th>出现地点</th>
-<th>&#160;&#160;持有金额/円&#160;&#160;&#160;</th>
+<th>  持有金额/円   </th>
 <th>喜好-料理</th>
 <th>喜好-酒水</th>
 <th>厌恶</th>
-<th>&#160;说明 &#160;&#160;
+<th> 说明   
 </th></tr>
 <tr>
 <td>森近霖之助</td>
@@ -710,10 +708,6 @@ Re零同人社 | 二色幽紫蝶
 <td>清淡、素、小巧</td>
 <td>
 </td></tr></tbody></table>
-
-
-
-
 
 
 ---

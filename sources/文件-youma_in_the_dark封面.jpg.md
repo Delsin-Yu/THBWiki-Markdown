@@ -1,6 +1,6 @@
 # 文件:youma_in_the_dark封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bd\ns6%3Ayouma_in_the_dark%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bd\ns6%3Ayouma_in_the_dark%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 誉天満宮
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [youma in the dark](./youma_in_the_dark.md)  
-该封面包含的角色：- [露米娅](./露米娅.md)- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
-
-
-
+- [youma in the dark](./youma_in_the_dark.md)该封面包含的角色：
+- [露米娅](./露米娅.md)
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
 
 ---

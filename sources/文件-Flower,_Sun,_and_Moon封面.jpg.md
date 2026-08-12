@@ -1,6 +1,6 @@
 # 文件:Flower,_Sun,_and_Moon封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c1\ns6%3AFlower%2C_Sun%2C_and_Moon%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c1\ns6%3AFlower%2C_Sun%2C_and_Moon%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Ruxia | 专辑封面 | 封面图片
 
@@ -8,12 +8,10 @@ Ruxia | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Flower, Sun, and Moon](./Flower,_Sun,_and_Moon.md)  
-该封面包含的角色：- [小恶魔](./小恶魔.md)- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)源地址：[[1]](https://web.archive.org/web/20160408113020im_/http://ruxia.seeds-9.com/img/jacket-rxcd-02.jpg)
-
-
-
-
+- [Flower, Sun, and Moon](./Flower,_Sun,_and_Moon.md)该封面包含的角色：
+- [小恶魔](./小恶魔.md)
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
+源地址：[\[1\]](https://web.archive.org/web/20160408113020im_/http://ruxia.seeds-9.com/img/jacket-rxcd-02.jpg)
 
 ---
 

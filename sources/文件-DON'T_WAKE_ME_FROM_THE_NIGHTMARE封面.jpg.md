@@ -1,6 +1,6 @@
 # 文件:DON'T_WAKE_ME_FROM_THE_NIGHTMARE封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\63\ns6%3ADON%27T_WAKE_ME_FROM_THE_NIGHTMARE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\63\ns6%3ADON%27T_WAKE_ME_FROM_THE_NIGHTMARE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 team.あまてる | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ team.あまてる | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [DON'T WAKE ME FROM THE NIGHTMARE](./DON'T_WAKE_ME_FROM_THE_NIGHTMARE.md)  
-该封面包含的角色：- [梅蒂欣·梅兰可莉](./梅蒂欣·梅兰可莉.md)
-
-
-
+- [DON'T WAKE ME FROM THE NIGHTMARE](./DON'T_WAKE_ME_FROM_THE_NIGHTMARE.md)该封面包含的角色：
+- [梅蒂欣·梅兰可莉](./梅蒂欣·梅兰可莉.md)
 
 
 ---

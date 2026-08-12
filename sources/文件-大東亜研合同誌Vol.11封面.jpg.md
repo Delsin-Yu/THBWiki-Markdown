@@ -1,6 +1,6 @@
 # 文件:大東亜研合同誌Vol.11封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f1\ns6%3A%E5%A4%A7%E6%9D%B1%E4%BA%9C%E7%A0%94%E5%90%88%E5%90%8C%E8%AA%8CVol%2E11%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f1\ns6%3A%E5%A4%A7%E6%9D%B1%E4%BA%9C%E7%A0%94%E5%90%88%E5%90%8C%E8%AA%8CVol%2E11%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 大東亜研 | 封面图片
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [大東亜研合同誌Vol.11](./大東亜研合同誌Vol.11.md)  
-该封面包含的角色：- [堀川雷鼓](./堀川雷鼓.md)
+- [大東亜研合同誌Vol.11](./大東亜研合同誌Vol.11.md)该封面包含的角色：
+- [堀川雷鼓](./堀川雷鼓.md)
 
   
-源地址：[[1]](https://pbs.twimg.com/media/D5ac21vV4AAP14G.jpg:orig), [source tweet](https://twitter.com/daitoaken/status/1123257628749000705)
-  
-
-
-
-
+源地址：[\[1\]](https://pbs.twimg.com/media/D5ac21vV4AAP14G.jpg:orig), [source tweet](https://twitter.com/daitoaken/status/1123257628749000705)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:夢想夏郷_-A_Summer_Day's_Dream-_3話DVD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cb\ns6%3A%E5%A4%A2%E6%83%B3%E5%A4%8F%E9%83%B7_-A_Summer_Day%27s_Dream-_3%E8%A9%B1DVD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cb\ns6%3A%E5%A4%A2%E6%83%B3%E5%A4%8F%E9%83%B7_-A_Summer_Day%27s_Dream-_3%E8%A9%B1DVD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 封面图片 | 舞风 | 视频封面
 
@@ -8,11 +8,15 @@
 使用了本文件作封面图片的作品：
   
 
-- [夢想夏郷 -A Summer Day's Dream- 3話DVD](./夢想夏郷_-A_Summer_Day's_Dream-_3話DVD.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)- 十六夜咲夜 (未找到链接)- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [射命丸文](./射命丸文.md)- [伊吹萃香](./伊吹萃香.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [夢想夏郷 -A Summer Day's Dream- 3話DVD](./夢想夏郷_-A_Summer_Day's_Dream-_3話DVD.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
+- [十六夜咲夜](./十六夜咲夜.md)
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [射命丸文](./射命丸文.md)
+- [伊吹萃香](./伊吹萃香.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

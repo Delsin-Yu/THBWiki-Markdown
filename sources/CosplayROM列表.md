@@ -1,22 +1,12 @@
 # CosplayROM列表
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\6c\ns0%3ACosplayROM%E5%88%97%E8%A1%A8.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\6c\ns0%3ACosplayROM%E5%88%97%E8%A1%A8.html -->
 
 东方Project相关的Cosplay类光碟列表。
 
-
 本页含有R18内容，可能包含  
- **色情** 、 **暴力** 、 **猎奇** 、 **角色崩坏** 等  
+**色情**、**暴力**、**猎奇**、**角色崩坏**等  
 会引起不适的内容，未必适合所有读者
-  
-
-  
-
-
-
-
-
-
 ---
 
 此文档由 [THBWiki-Markdown-Builder](https://github.com/Delsin-Yu/THBWiki-Markdown-Builder) 构建。

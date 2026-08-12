@@ -1,14 +1,11 @@
 # 文件:The_Grimoire_of_Usami（露娜切露德1）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c3\ns6%3AThe_Grimoire_of_Usami%EF%BC%88%E9%9C%B2%E5%A8%9C%E5%88%87%E9%9C%B2%E5%BE%B71%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c3\ns6%3AThe_Grimoire_of_Usami%EF%BC%88%E9%9C%B2%E5%A8%9C%E5%88%87%E9%9C%B2%E5%BE%B71%EF%BC%89%2Ejpg.html -->
 
 宇佐见的魔法书 | 露娜切露德
 
 
 ## 摘要
-
-
-
 
 ---
 

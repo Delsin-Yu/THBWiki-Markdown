@@ -1,6 +1,6 @@
 # 文件:U.N.オーエンは魔法少女ですか？封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\db\ns6%3AU%2EN%2E%E3%82%AA%E3%83%BC%E3%82%A8%E3%83%B3%E3%81%AF%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E3%81%A7%E3%81%99%E3%81%8B%EF%BC%9F%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\db\ns6%3AU%2EN%2E%E3%82%AA%E3%83%BC%E3%82%A8%E3%83%B3%E3%81%AF%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E3%81%A7%E3%81%99%E3%81%8B%EF%BC%9F%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 屑鉄おきば。
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [U.N.オーエンは魔法少女ですか？](./U.N.オーエンは魔法少女ですか？.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
-
-
-
+- [U.N.オーエンは魔法少女ですか？](./U.N.オーエンは魔法少女ですか？.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
 
 ---

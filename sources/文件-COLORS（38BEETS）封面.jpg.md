@@ -1,6 +1,6 @@
 # 文件:COLORS（38BEETS）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e7\ns6%3ACOLORS%EF%BC%8838BEETS%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e7\ns6%3ACOLORS%EF%BC%8838BEETS%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 38BEETS | 专辑封面 | 封面图片
 
@@ -8,11 +8,15 @@
 使用了本文件作封面图片的作品：
   
 
-- [COLORS（38BEETS）](./COLORS（38BEETS）.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [魂魄妖梦](./魂魄妖梦.md)- [上白泽慧音](./上白泽慧音.md)- [蓬莱山辉夜](./蓬莱山辉夜.md)- [藤原妹红](./藤原妹红.md)- [古明地觉](./古明地觉.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [COLORS（38BEETS）](./COLORS（38BEETS）.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [魂魄妖梦](./魂魄妖梦.md)
+- [上白泽慧音](./上白泽慧音.md)
+- [蓬莱山辉夜](./蓬莱山辉夜.md)
+- [藤原妹红](./藤原妹红.md)
+- [古明地觉](./古明地觉.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

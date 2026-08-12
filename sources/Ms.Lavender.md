@@ -1,30 +1,32 @@
 # Ms.Lavender
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\3\3e\ns0%3AMs%2ELavender.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\3\3e\ns0%3AMs%2ELavender.html -->
 
 2020年8月9日 由 おいものたいたん 于 东方名华祭14 发布的画集同人志，B5尺寸一共20页，登场人物有 宇佐见莲子、玛艾露贝莉·赫恩，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人志 (未找到链接)** 的词条
-
+**[二次创作同人志](./二次创作.md#同人志)**的词条
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Ms.Lavender封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/0/0e/Ms.Lavender%E5%B0%81%E9%9D%A2.png/159px-Ms.Lavender%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="159" height="224" srcset="https://upload.thwiki.cc/thumb/0/0e/Ms.Lavender%E5%B0%81%E9%9D%A2.png/239px-Ms.Lavender%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/0/0e/Ms.Lavender%E5%B0%81%E9%9D%A2.png/319px-Ms.Lavender%E5%B0%81%E9%9D%A2.png 2x" data-file-width="1586" data-file-height="2229"></a><div class="cover-char">角色：<a href="./宇佐见莲子.md" title="宇佐见莲子">宇佐见莲子</a>，<a href="./玛艾露贝莉·赫恩.md" title="玛艾露贝莉·赫恩">玛艾露贝莉·赫恩</a></div></td>
 </tr><tr><td class="label">名称</td><td colspan="2"> Ms.Lavender </td></tr><tr><td class="label">制作方</td><td><a href="./おいものたいたん.md" title="おいものたいたん">おいものたいたん</a></td><td class="cover-artwork" rowspan="8" style="min-width:224px;"><a href="./文件-Ms.Lavender封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/0/0e/Ms.Lavender%E5%B0%81%E9%9D%A2.png/159px-Ms.Lavender%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="159" height="224" srcset="https://upload.thwiki.cc/thumb/0/0e/Ms.Lavender%E5%B0%81%E9%9D%A2.png/239px-Ms.Lavender%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/0/0e/Ms.Lavender%E5%B0%81%E9%9D%A2.png/319px-Ms.Lavender%E5%B0%81%E9%9D%A2.png 2x" data-file-width="1586" data-file-height="2229"></a><div class="cover-char">角色：<a href="./宇佐见莲子.md" title="宇佐见莲子">宇佐见莲子</a>，<a href="./玛艾露贝莉·赫恩.md" title="玛艾露贝莉·赫恩">玛艾露贝莉·赫恩</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2020-08-09&#160;（<a href="/展会作品列表?e=%E4%B8%9C%E6%96%B9%E5%90%8D%E5%8D%8E%E7%A5%AD%2314">東方名華祭14</a>）</td></tr><tr><td class="label">类型</td><td>画集</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>B5</td></tr><tr><td class="label">页数</td><td>20P</td></tr><tr><td class="label">登场人物</td><td><a href="./宇佐见莲子.md" title="宇佐见莲子">宇佐见莲子</a>，<a href="./玛艾露贝莉·赫恩.md" title="玛艾露贝莉·赫恩">玛艾露贝莉·赫恩</a></td></tr><tr><td class="label">售价</td><td>会场售价：1000日元<br>通贩售价：1000日元</td></tr>
+</tr><tr><td class="label">首发日期</td><td>2020-08-09 （<a href="./展会作品列表.md#14">東方名華祭14</a>）</td></tr><tr><td class="label">类型</td><td>画集</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>B5</td></tr><tr><td class="label">页数</td><td>20P</td></tr><tr><td class="label">登场人物</td><td><a href="./宇佐见莲子.md" title="宇佐见莲子">宇佐见莲子</a>，<a href="./玛艾露贝莉·赫恩.md" title="玛艾露贝莉·赫恩">玛艾露贝莉·赫恩</a></td></tr><tr><td class="label">售价</td><td>会场售价：1000日元<br>通贩售价：1000日元</td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/83240437">https://www.pixiv.net/artworks/83240437</a><br><a rel="nofollow" class="external free" href="https://twitter.com/poteimo_/status/1289172450362585089">https://twitter.com/poteimo_/status/1289172450362585089</a></td></tr></tbody></table>
 
 Ms.Lavender（同人志，おいものたいたん，2020） - 2020年8月9日 由 おいものたいたん 于 东方名华祭14 发布的画集同人志，B5尺寸一共20页，登场人物有 宇佐见莲子、玛艾露贝莉·赫恩，分级为 一般向
-
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://oimonotaitan.booth.pm/items/2268252">Booth</a>，<a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=705397">蜜瓜</a></td></tr></tbody></table>
 
 
-
 ## 预览
-- [](./文件-Ms.Lavender预览图1.jpg.md)- [](./文件-Ms.Lavender预览图2.jpg.md)- [](./文件-Ms.Lavender预览图3.jpg.md)- [](./文件-Ms.Lavender预览图4.jpg.md)
+
+- <img alt="Ms.Lavender预览图1.jpg" src="https://upload.thwiki.cc/thumb/8/8c/Ms.Lavender%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg/265px-Ms.Lavender%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg" decoding="async" loading="lazy" width="177" height="250" srcset="https://upload.thwiki.cc/thumb/8/8c/Ms.Lavender%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg/399px-Ms.Lavender%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg 1.5x, https://upload.thwiki.cc/thumb/8/8c/Ms.Lavender%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg/531px-Ms.Lavender%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg 2x" data-file-width="1549" data-file-height="2187"> 
+- <img alt="Ms.Lavender预览图2.jpg" src="https://upload.thwiki.cc/thumb/3/38/Ms.Lavender%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg/266px-Ms.Lavender%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg" decoding="async" loading="lazy" width="178" height="250" srcset="https://upload.thwiki.cc/thumb/3/38/Ms.Lavender%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg/399px-Ms.Lavender%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg 1.5x, https://upload.thwiki.cc/thumb/3/38/Ms.Lavender%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg/532px-Ms.Lavender%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg 2x" data-file-width="1551" data-file-height="2187"> 
+- <img alt="Ms.Lavender预览图3.jpg" src="https://upload.thwiki.cc/thumb/1/16/Ms.Lavender%E9%A2%84%E8%A7%88%E5%9B%BE3.jpg/265px-Ms.Lavender%E9%A2%84%E8%A7%88%E5%9B%BE3.jpg" decoding="async" loading="lazy" width="177" height="250" srcset="https://upload.thwiki.cc/thumb/1/16/Ms.Lavender%E9%A2%84%E8%A7%88%E5%9B%BE3.jpg/398px-Ms.Lavender%E9%A2%84%E8%A7%88%E5%9B%BE3.jpg 1.5x, https://upload.thwiki.cc/thumb/1/16/Ms.Lavender%E9%A2%84%E8%A7%88%E5%9B%BE3.jpg/531px-Ms.Lavender%E9%A2%84%E8%A7%88%E5%9B%BE3.jpg 2x" data-file-width="725" data-file-height="1024"> 
+- <img alt="Ms.Lavender预览图4.jpg" src="https://upload.thwiki.cc/thumb/a/a3/Ms.Lavender%E9%A2%84%E8%A7%88%E5%9B%BE4.jpg/265px-Ms.Lavender%E9%A2%84%E8%A7%88%E5%9B%BE4.jpg" decoding="async" loading="lazy" width="177" height="250" srcset="https://upload.thwiki.cc/thumb/a/a3/Ms.Lavender%E9%A2%84%E8%A7%88%E5%9B%BE4.jpg/398px-Ms.Lavender%E9%A2%84%E8%A7%88%E5%9B%BE4.jpg 1.5x, https://upload.thwiki.cc/thumb/a/a3/Ms.Lavender%E9%A2%84%E8%A7%88%E5%9B%BE4.jpg/531px-Ms.Lavender%E9%A2%84%E8%A7%88%E5%9B%BE4.jpg 2x" data-file-width="725" data-file-height="1024"> 
 
 
 ## Staff
+
 - [poteimo](./poteimo.md)
 - 甘乃えに (未找到链接)
 - しちみ (未找到链接)
@@ -34,7 +36,6 @@ Ms.Lavender（同人志，おいものたいたん，2020） - 2020年8月9日 �
 
 
 ## 评论
-
   
 マエリベリー・ハーンは  
 
@@ -43,27 +44,17 @@ Ms.Lavender（同人志，おいものたいたん，2020） - 2020年8月9日 �
 毎日髪のセットも違って  
 
 そして毎日かわいいんだ  
-
   
 
 …という思いのもと、メリーちゃんをたっぷり描いた秘封本です。  
-
   
-
   
 
 春～夏コーデをメインに蓮子とメリー合わせて【31パターン】収録!  
-
   
 
 また、企画としてゲストコーディネーター様を5名お迎えし、そちらも描かせていただきました。
   
-
-
-
-
-
-
 
 ---
 

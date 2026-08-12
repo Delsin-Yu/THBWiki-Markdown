@@ -1,16 +1,11 @@
 # 文件:Petrolatum_boxbanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bb\ns6%3APetrolatum_boxbanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bb\ns6%3APetrolatum_boxbanner%2Egif.html -->
 
 Petrolatum_box | 社团LOGO
 
   
-源地址：[[1]](http://pds.exblog.jp/pds/1/201302/26/12/b0110412_22334095.gif)
-  
-
-
-
-
+源地址：[\[1\]](http://pds.exblog.jp/pds/1/201302/26/12/b0110412_22334095.gif)  
 
 ---
 

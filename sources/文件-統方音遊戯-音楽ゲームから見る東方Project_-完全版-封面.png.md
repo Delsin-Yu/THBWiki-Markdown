@@ -1,6 +1,6 @@
 # 文件:統方音遊戯-音楽ゲームから見る東方Project_-完全版-封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ef\ns6%3A%E7%B5%B1%E6%96%B9%E9%9F%B3%E9%81%8A%E6%88%AF-%E9%9F%B3%E6%A5%BD%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%8B%E3%82%89%E8%A6%8B%E3%82%8B%E6%9D%B1%E6%96%B9Project_-%E5%AE%8C%E5%85%A8%E7%89%88-%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ef\ns6%3A%E7%B5%B1%E6%96%B9%E9%9F%B3%E9%81%8A%E6%88%AF-%E9%9F%B3%E6%A5%BD%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%8B%E3%82%89%E8%A6%8B%E3%82%8B%E6%9D%B1%E6%96%B9Project_-%E5%AE%8C%E5%85%A8%E7%89%88-%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 同人志封面 | 封面图片 | 布団王国内務省
 
@@ -13,12 +13,7 @@
 - [統方音遊戯-音楽ゲームから見る東方Project -完全版-](./統方音遊戯-音楽ゲームから見る東方Project_-完全版-.md)
 
   
-源地址：[direct image link (original size)](https://booth.pximg.net/d459986d-cf67-417a-bbf2-43931c41cb5f/i/2045046/852a9be5-8c59-4386-afdc-afa8a2125b9b.png), [source page (circle Booth)](https://futonmaki.booth.pm/items/2045046)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://booth.pximg.net/d459986d-cf67-417a-bbf2-43931c41cb5f/i/2045046/852a9be5-8c59-4386-afdc-afa8a2125b9b.png), [source page (circle Booth)](https://futonmaki.booth.pm/items/2045046)  
 
 ---
 

@@ -1,14 +1,11 @@
 # 文件:Radical_Rhythmbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1e\ns6%3ARadical_Rhythmbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1e\ns6%3ARadical_Rhythmbanner%2Epng.html -->
 
 Radical_Rhythm | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

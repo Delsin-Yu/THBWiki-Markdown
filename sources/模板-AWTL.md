@@ -1,16 +1,12 @@
 # 模板:AWTL
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\3\39\ns10%3AAWTL.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\3\39\ns10%3AAWTL.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

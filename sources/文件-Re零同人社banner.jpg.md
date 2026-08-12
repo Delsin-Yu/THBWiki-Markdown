@@ -1,12 +1,8 @@
 # 文件:Re零同人社banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8f\ns6%3ARe%E9%9B%B6%E5%90%8C%E4%BA%BA%E7%A4%BEbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8f\ns6%3ARe%E9%9B%B6%E5%90%8C%E4%BA%BA%E7%A4%BEbanner%2Ejpg.html -->
 
 Re零同人社 | 社团LOGO
-
-
-
-
 
 
 ---

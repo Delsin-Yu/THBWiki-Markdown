@@ -1,6 +1,6 @@
 # 文件:Alternative_Version：_Perfect_Cherry_Blossom封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0f\ns6%3AAlternative_Version%EF%BC%9A_Perfect_Cherry_Blossom%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0f\ns6%3AAlternative_Version%EF%BC%9A_Perfect_Cherry_Blossom%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Paradise_of_Boundaries | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Paradise_of_Boundaries | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Alternative Version： Perfect Cherry Blossom](./Alternative_Version：_Perfect_Cherry_Blossom.md)  
-该封面包含的角色：- [八云紫](./八云紫.md)
-
-
-
+- [Alternative Version： Perfect Cherry Blossom](./Alternative_Version：_Perfect_Cherry_Blossom.md)该封面包含的角色：
+- [八云紫](./八云紫.md)
 
 
 ---

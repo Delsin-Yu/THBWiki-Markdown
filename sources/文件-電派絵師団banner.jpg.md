@@ -1,12 +1,8 @@
 # 文件:電派絵師団banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\23\ns6%3A%E9%9B%BB%E6%B4%BE%E7%B5%B5%E5%B8%AB%E5%9B%A3banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\23\ns6%3A%E9%9B%BB%E6%B4%BE%E7%B5%B5%E5%B8%AB%E5%9B%A3banner%2Ejpg.html -->
 
 社团LOGO | 電派絵師団
-
-
-
-
 
 
 ---

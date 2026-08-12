@@ -1,6 +1,6 @@
 # 文件:Exist_twinkle（同人志）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d6\ns6%3AExist_twinkle%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d6\ns6%3AExist_twinkle%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Exist_twinkle | 同人志封面 | 封面图片
 
@@ -10,11 +10,9 @@ Exist_twinkle | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Exist twinkle（同人志）](./Exist_twinkle（同人志）.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [Exist twinkle（同人志）](./Exist_twinkle（同人志）.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

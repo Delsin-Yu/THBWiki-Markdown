@@ -1,6 +1,6 @@
 # 文件:HARDCORE_EXCITE_KISS封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f2\ns6%3AHARDCORE_EXCITE_KISS%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f2\ns6%3AHARDCORE_EXCITE_KISS%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ROYALCAT | 同人志封面 | 封面图片
 
@@ -8,11 +8,9 @@ ROYALCAT | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [HARDCORE EXCITE KISS](./HARDCORE_EXCITE_KISS.md)  
-该封面包含的角色：- [小恶魔](./小恶魔.md)- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
-
-
-
+- [HARDCORE EXCITE KISS](./HARDCORE_EXCITE_KISS.md)该封面包含的角色：
+- [小恶魔](./小恶魔.md)
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
 
 
 ---

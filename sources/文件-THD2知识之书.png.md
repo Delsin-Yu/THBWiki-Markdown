@@ -1,12 +1,8 @@
 # 文件:THD2知识之书.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f6\ns6%3ATHD2%E7%9F%A5%E8%AF%86%E4%B9%8B%E4%B9%A6%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f6\ns6%3ATHD2%E7%9F%A5%E8%AF%86%E4%B9%8B%E4%B9%A6%2Epng.html -->
 
 AvalonStudioOfficial
-
-
-
-
 
 
 ---

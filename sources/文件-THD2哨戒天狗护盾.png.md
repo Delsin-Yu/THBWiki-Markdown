@@ -1,12 +1,8 @@
 # 文件:THD2哨戒天狗护盾.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\40\ns6%3ATHD2%E5%93%A8%E6%88%92%E5%A4%A9%E7%8B%97%E6%8A%A4%E7%9B%BE%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\40\ns6%3ATHD2%E5%93%A8%E6%88%92%E5%A4%A9%E7%8B%97%E6%8A%A4%E7%9B%BE%2Epng.html -->
 
 AvalonStudioOfficial
-
-
-
-
 
 
 ---

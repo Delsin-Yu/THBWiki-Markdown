@@ -1,6 +1,6 @@
 # 文件:Chicken_Flier_Paper_Cat封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4e\ns6%3AChicken_Flier_Paper_Cat%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4e\ns6%3AChicken_Flier_Paper_Cat%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Red_Bullet_Sequence | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Red_Bullet_Sequence | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Chicken Flier Paper Cat](./Chicken_Flier_Paper_Cat.md)  
-该封面包含的角色：- [橙](./橙.md)
-
-
-
+- [Chicken Flier Paper Cat](./Chicken_Flier_Paper_Cat.md)该封面包含的角色：
+- [橙](./橙.md)
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:琪露诺（大战争立绘）dp.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\50\ns6%3A%E7%90%AA%E9%9C%B2%E8%AF%BA%EF%BC%88%E5%A4%A7%E6%88%98%E4%BA%89%E7%AB%8B%E7%BB%98%EF%BC%89dp%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\50\ns6%3A%E7%90%AA%E9%9C%B2%E8%AF%BA%EF%BC%88%E5%A4%A7%E6%88%98%E4%BA%89%E7%AB%8B%E7%BB%98%EF%BC%89dp%2Epng.html -->
 
 妖精大战争 | 官方游戏立绘 | 比良坂真琴绘 | 琪露诺
-
-
-
-
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:PSN铜.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e8\ns6%3APSN%E9%93%9C%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e8\ns6%3APSN%E9%93%9C%2Epng.html -->
 
 PSN系统
-
-
-
-
 
 
 ---

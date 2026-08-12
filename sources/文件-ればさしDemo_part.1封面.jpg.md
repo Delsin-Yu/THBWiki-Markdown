@@ -1,6 +1,6 @@
 # 文件:ればさしDemo_part.1封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a3\ns6%3A%E3%82%8C%E3%81%B0%E3%81%95%E3%81%97Demo_part%2E1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a3\ns6%3A%E3%82%8C%E3%81%B0%E3%81%95%E3%81%97Demo_part%2E1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Rain_Binds_a_Sad_Seeker | 专辑封面 | 封面图片
 
@@ -13,10 +13,6 @@ Rain_Binds_a_Sad_Seeker | 专辑封面 | 封面图片
   
 From TLMC scans
   
-
-
-
-
 
 ---
 

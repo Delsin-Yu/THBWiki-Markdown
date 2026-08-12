@@ -1,6 +1,6 @@
 # 五つの難題MOD/物品/符卡
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\5\59\ns0%3A%E4%BA%94%E3%81%A4%E3%81%AE%E9%9B%A3%E9%A1%8CMOD%2F%E7%89%A9%E5%93%81%2F%E7%AC%A6%E5%8D%A1.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\5\59\ns0%3A%E4%BA%94%E3%81%A4%E3%81%AE%E9%9B%A3%E9%A1%8CMOD%2F%E7%89%A9%E5%93%81%2F%E7%AC%A6%E5%8D%A1.html -->
 
 くろあんこ | 五つの難題MOD
 
@@ -16,7 +16,7 @@
 - [7 冰符「Icicle Fall」（冰瀑）](#冰符「Icicle_Fall」（冰瀑）)
 - [8 冻符「Perfect Freeze」（完美冻结）](#冻符「Perfect_Freeze」（完美冻结）)
 - [9 女仆秘技「杀人玩偶」](#女仆秘技「杀人玩偶」)
-- [10 奇术「Eternal Meek」(永恒的温柔)](#奇术「Eternal_Meek」(永恒的温柔))
+- [10 奇术「Eternal Meek」(永恒的温柔)](#奇术「Eternal_Meek」(永恒的温柔%29)
 - [11 红符「Scarlet Shoot」（绯红之击）](#红符「Scarlet_Shoot」（绯红之击）)
 - [12 「Red Magic」（红魔法）](#「Red_Magic」（红魔法）)
 - [13 禁弹「Catadioptric」（折反射）](#禁弹「Catadioptric」（折反射）)
@@ -35,9 +35,6 @@
 - [26 土著神「小小青蛙不输风雨」](#土著神「小小青蛙不输风雨」)
 - [27 祟符「御社宫司大人」](#祟符「御社宫司大人」)
 - [28 「全人类的绯想天」](#「全人类的绯想天」)
-
-
-
 
 
 ## 灵符「梦想封印」
@@ -95,9 +92,6 @@
 ## 祟符「御社宫司大人」
 
 ## 「全人类的绯想天」
-
-
-
 
 ---
 

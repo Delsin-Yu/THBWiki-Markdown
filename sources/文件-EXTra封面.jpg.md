@@ -1,6 +1,6 @@
 # 文件:EXTra封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\af\ns6%3AEXTra%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\af\ns6%3AEXTra%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 RegaSound | 专辑封面 | 封面图片
 
@@ -8,19 +8,13 @@ RegaSound | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [EXTra](./EXTra.md)  
-该封面包含的角色：- [霍青娥](./霍青娥.md)
+- [EXTra](./EXTra.md)该封面包含的角色：
+- [霍青娥](./霍青娥.md)
 
   
-[Pixiv artwork ID: 24015302 (original size)](https://www.pixiv.net/artworks/24015302)
+[Pixiv artwork ID: 24015302 (original size)](https://www.pixiv.net/artworks/24015302)  
   
-  
-Title text styling matches the physical cover, see [(suruga-ya ID: 186133752)](https://www.suruga-ya.jp/product/detail/186133752)
-  
-
-
-
-
+Title text styling matches the physical cover, see [(suruga-ya ID: 186133752)](https://www.suruga-ya.jp/product/detail/186133752)  
 
 ---
 

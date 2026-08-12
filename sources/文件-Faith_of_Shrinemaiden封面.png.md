@@ -1,6 +1,6 @@
 # 文件:Faith_of_Shrinemaiden封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d9\ns6%3AFaith_of_Shrinemaiden%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d9\ns6%3AFaith_of_Shrinemaiden%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 XL_Project | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ XL_Project | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Faith of Shrinemaiden](./Faith_of_Shrinemaiden.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [Faith of Shrinemaiden](./Faith_of_Shrinemaiden.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

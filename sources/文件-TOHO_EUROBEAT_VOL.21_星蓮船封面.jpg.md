@@ -1,6 +1,6 @@
 # 文件:TOHO_EUROBEAT_VOL.21_星蓮船封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8d\ns6%3ATOHO_EUROBEAT_VOL%2E21_%E6%98%9F%E8%93%AE%E8%88%B9%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8d\ns6%3ATOHO_EUROBEAT_VOL%2E21_%E6%98%9F%E8%93%AE%E8%88%B9%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 A-One | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ A-One | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [TOHO EUROBEAT VOL.21 星蓮船](./TOHO_EUROBEAT_VOL.21_星蓮船.md)  
-该封面包含的角色：- [封兽鵺](./封兽鵺.md)
-
-
-
+- [TOHO EUROBEAT VOL.21 星蓮船](./TOHO_EUROBEAT_VOL.21_星蓮船.md)该封面包含的角色：
+- [封兽鵺](./封兽鵺.md)
 
 
 ---

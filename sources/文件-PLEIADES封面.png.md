@@ -1,6 +1,6 @@
 # 文件:PLEIADES封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ca\ns6%3APLEIADES%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ca\ns6%3APLEIADES%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 ZYTOKINE | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ ZYTOKINE | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [PLEIADES](./PLEIADES.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
+- [PLEIADES](./PLEIADES.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-源地址：[[1]](http://zytokine-web.com/CK-0044P_44_45P_PLDS/3/panel7/media/51.png)
-  
-
-
-
-
+源地址：[\[1\]](http://zytokine-web.com/CK-0044P_44_45P_PLDS/3/panel7/media/51.png)  
 
 ---
 

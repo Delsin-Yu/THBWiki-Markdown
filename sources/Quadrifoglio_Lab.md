@@ -1,35 +1,28 @@
 # Quadrifoglio_Lab
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\5\56\ns0%3AQuadrifoglio_Lab.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\5\56\ns0%3AQuadrifoglio_Lab.html -->
 
 Quadrifoglio Lab ，于 2019 年成立，主要制作 同人音乐，周边 的中国大陆同人社团，主催是 七海makoto，当前状态为 活动
 
-本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
-
+本页是关于**[同人社团](./二次创作.md#同人社团)**的词条
 ## 目录
 
 - [1 社团信息](#社团信息)
 - [2 成员名单](#成员名单)
 - [3 作品列表](#作品列表)
-
   - [3.1 同人专辑](#同人专辑)
-
 
 
 - [4 其他信息](#其他信息)
 
 
-
-
-
 ## 社团信息
-[](./文件-Quadrifoglio_Labbanner.jpg.md)  [](./文件-Quadrifoglio_Labbanner.jpg.md)图像logo
-[](./文件-Quadrifoglio_Lab文字banner.jpg.md)  [](./文件-Quadrifoglio_Lab文字banner.jpg.md)文字logo
-
-<table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Quadrifoglio Lab </td></tr><tr><td><b>中文名称</b></td><td>四叶工造</td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐，周边</td></tr><tr><td><b>成立时间</b></td><td>2019-12</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="/%E4%B8%83%E6%B5%B7makoto" class="mw-redirect" title="七海makoto">七海makoto</a> </td></tr><tr><td><b>地区</b></td><td>中国大陆</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="https://www.weibo.com/u/2643961603">https://www.weibo.com/u/2643961603</a> </td></tr></tbody></table>
+<img alt="" src="https://upload.thwiki.cc/thumb/2/2b/Quadrifoglio_Labbanner.jpg/300px-Quadrifoglio_Labbanner.jpg" decoding="async" loading="lazy" width="300" height="300" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/2/2b/Quadrifoglio_Labbanner.jpg/450px-Quadrifoglio_Labbanner.jpg 1.5x, https://upload.thwiki.cc/thumb/2/2b/Quadrifoglio_Labbanner.jpg/600px-Quadrifoglio_Labbanner.jpg 2x" data-file-width="5317" data-file-height="5317">
+ [放大](./文件-Quadrifoglio_Labbanner.jpg.md)图像logo<img alt="" src="https://upload.thwiki.cc/thumb/a/aa/Quadrifoglio_Lab%E6%96%87%E5%AD%97banner.jpg/300px-Quadrifoglio_Lab%E6%96%87%E5%AD%97banner.jpg" decoding="async" loading="lazy" width="300" height="83" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/a/aa/Quadrifoglio_Lab%E6%96%87%E5%AD%97banner.jpg/450px-Quadrifoglio_Lab%E6%96%87%E5%AD%97banner.jpg 1.5x, https://upload.thwiki.cc/thumb/a/aa/Quadrifoglio_Lab%E6%96%87%E5%AD%97banner.jpg/600px-Quadrifoglio_Lab%E6%96%87%E5%AD%97banner.jpg 2x" data-file-width="5669" data-file-height="1564">
+ [放大](./文件-Quadrifoglio_Lab文字banner.jpg.md)文字logo
+<table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Quadrifoglio Lab </td></tr><tr><td><b>中文名称</b></td><td>四叶工造</td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐，周边</td></tr><tr><td><b>成立时间</b></td><td>2019-12</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a class="mw-redirect" title="七海makoto">七海makoto</a> </td></tr><tr><td><b>地区</b></td><td>中国大陆</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="https://www.weibo.com/u/2643961603">https://www.weibo.com/u/2643961603</a> </td></tr></tbody></table>
 
 Quadrifoglio Lab（同人社团，同人音乐社团，周边社团） - Quadrifoglio Lab ，于 2019 年成立，主要制作 同人音乐，周边 的中国大陆同人社团，主催是 七海makoto，当前状态为 活动
-
 ## 成员名单
   
 核心成员
@@ -42,27 +35,13 @@ Quadrifoglio Lab（同人社团，同人音乐社团，周边社团） - Quadrif
 ## 作品列表
 
 ### 同人专辑
-[](./COSMOS（Quadrifoglio_Lab）.md)[COSMOS](./COSMOS（Quadrifoglio_Lab）.md)首发日期：2018-07-07 （第十四届中国国际动漫游戏博览会 (未找到链接)，第六届CCG MAX (未找到链接)）QUAD-001全长 （一般向）为前身社团[神乐工房](./神乐工房.md)的[COSMOS](./COSMOS（神乐工房）.md)重新发布版[](./幻想乡镜像.md)[幻想乡镜像](./幻想乡镜像.md)首发日期：2018-07-07 （第十四届中国国际动漫游戏博览会 (未找到链接)，第六届CCG MAX (未找到链接)）QUAD-002EP （一般向）为前身社团[神乐工房](./神乐工房.md)的[幻想乡镜像 Vol.1](./幻想乡镜像_Vol.1.md)重新发布版幻想首都高速湾岸線 MaximumBeats 封面图片 (未找到链接)幻想首都高速湾岸線 MaximumBeats (未找到链接)首发日期：未知 - 
-<table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
-
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
-
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458"></table>
-
-
+- **[COSMOS](./COSMOS（Quadrifoglio_Lab）.md)** — 首发日期：2018-07-07 （第十四届中国国际动漫游戏博览会，第六届CCG MAX）；QUAD-001；全长 （一般向）；为前身社团神乐工房的COSMOS重新发布版
+- **[幻想乡镜像](./幻想乡镜像.md)** — 首发日期：2018-07-07 （第十四届中国国际动漫游戏博览会，第六届CCG MAX）；QUAD-002；EP （一般向）；为前身社团神乐工房的幻想乡镜像 Vol.1重新发布版
+- **幻想首都高速湾岸線 MaximumBeats** — 首发日期：未知；-
 
 ## 其他信息
   
-社团前身[神乐工房](./神乐工房.md)
-  
-  
-  
-
-  
-
-
-
-
+社团前身[神乐工房](./神乐工房.md)  
 
 ---
 

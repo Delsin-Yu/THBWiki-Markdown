@@ -1,18 +1,13 @@
 # 文件:狐兔疋logo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a6\ns6%3A%E7%8B%90%E5%85%94%E7%96%8Blogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a6\ns6%3A%E7%8B%90%E5%85%94%E7%96%8Blogo%2Ejpg.html -->
 
 狐兔疋 | 社团LOGO
 
 
 ## 摘要
   
-源地址：[direct image link](https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/56/566257.jpg?1296624923), [source page (魅斗 Niconico avatar)](https://www.nicovideo.jp/user/566257)
-  
-
-
-
-
+源地址：[direct image link](https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/56/566257.jpg?1296624923), [source page (魅斗 Niconico avatar)](https://www.nicovideo.jp/user/566257)  
 
 ---
 

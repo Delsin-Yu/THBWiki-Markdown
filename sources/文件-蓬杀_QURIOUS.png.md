@@ -1,12 +1,8 @@
 # 文件:蓬杀_QURIOUS.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8c\ns6%3A%E8%93%AC%E6%9D%80_QURIOUS%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8c\ns6%3A%E8%93%AC%E6%9D%80_QURIOUS%2Epng.html -->
 
 donjuan
-
-
-
-
 
 
 ---

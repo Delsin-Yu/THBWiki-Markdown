@@ -1,12 +1,8 @@
 # 文件:风符「Wind_Master」（兽王园）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8c\ns6%3A%E9%A3%8E%E7%AC%A6%E3%80%8CWind_Master%E3%80%8D%EF%BC%88%E5%85%BD%E7%8E%8B%E5%9B%AD%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8c\ns6%3A%E9%A3%8E%E7%AC%A6%E3%80%8CWind_Master%E3%80%8D%EF%BC%88%E5%85%BD%E7%8E%8B%E5%9B%AD%EF%BC%89%2Epng.html -->
 
 东方兽王园 | 东风谷早苗 | 自机符卡
-
-
-
-
 
 
 ---

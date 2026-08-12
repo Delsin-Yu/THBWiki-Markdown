@@ -1,68 +1,21 @@
 # Epic-Works/旗袍ver/东风谷早苗
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\1\17\ns0%3AEpic-Works%2F%E6%97%97%E8%A2%8Dver%2F%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\1\17\ns0%3AEpic-Works%2F%E6%97%97%E8%A2%8Dver%2F%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97.html -->
 
 东风谷早苗GarageKit手办模型
 
 本页是关于东方Project  
- **相关实体周边 (未找到链接)** 的词条
-
+**相关实体周边 (未找到链接)**的词条
 ## 模型信息
-[](./文件-Epic-Works／旗袍ver／东风谷早苗封面.png.md)  [](./文件-Epic-Works／旗袍ver／东风谷早苗封面.png.md)预览图
-
-<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 东风谷早苗 </td></tr><tr><td class="label">类别</td><td>GarageKit</td></tr><tr><td class="label">译名</td><td>东方Project 东风谷早苗</td></tr><tr><td class="label">系列</td><td>旗袍ver</td></tr><tr><td class="label">角色</td><td><a href="./东风谷早苗.md" title="东风谷早苗">东风谷早苗</a></td></tr><tr><td class="label">原画师</td><td><a href="./monety.md" class="mw-redirect" title="monety">monety</a></td></tr><tr><td class="label">比例</td><td>1/7</td></tr><tr><td class="label">状态</td><td>已发售</td></tr><tr><td class="label">售价</td><td>999人民币</td></tr><tr><td class="label">首发日期</td><td>2018-11</td></tr><tr><td class="label">出品方</td><td><a href="./Epic-Works.md" title="Epic-Works">Epic-Works</a></td></tr><tr><td class="label">再版日期</td><td>2019-2</td></tr></tbody></table>
+<img alt="" src="https://upload.thwiki.cc/thumb/a/a0/Epic-Works%EF%BC%8F%E6%97%97%E8%A2%8Dver%EF%BC%8F%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97%E5%B0%81%E9%9D%A2.png/200px-Epic-Works%EF%BC%8F%E6%97%97%E8%A2%8Dver%EF%BC%8F%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="200" height="299" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/a/a0/Epic-Works%EF%BC%8F%E6%97%97%E8%A2%8Dver%EF%BC%8F%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97%E5%B0%81%E9%9D%A2.png/300px-Epic-Works%EF%BC%8F%E6%97%97%E8%A2%8Dver%EF%BC%8F%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/a/a0/Epic-Works%EF%BC%8F%E6%97%97%E8%A2%8Dver%EF%BC%8F%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97%E5%B0%81%E9%9D%A2.png/400px-Epic-Works%EF%BC%8F%E6%97%97%E8%A2%8Dver%EF%BC%8F%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97%E5%B0%81%E9%9D%A2.png 2x" data-file-width="558" data-file-height="834">
+ [放大](./文件-Epic-Works／旗袍ver／东风谷早苗封面.png.md)预览图
+<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 东风谷早苗 </td></tr><tr><td class="label">类别</td><td>GarageKit</td></tr><tr><td class="label">译名</td><td>东方Project 东风谷早苗</td></tr><tr><td class="label">系列</td><td>旗袍ver</td></tr><tr><td class="label">角色</td><td><a href="./东风谷早苗.md" title="东风谷早苗">东风谷早苗</a></td></tr><tr><td class="label">原画师</td><td><a href="./もねてぃ.md" class="mw-redirect" title="monety">monety</a></td></tr><tr><td class="label">比例</td><td>1/7</td></tr><tr><td class="label">状态</td><td>已发售</td></tr><tr><td class="label">售价</td><td>999人民币</td></tr><tr><td class="label">首发日期</td><td>2018-11</td></tr><tr><td class="label">出品方</td><td><a href="./Epic-Works.md" title="Epic-Works">Epic-Works</a></td></tr><tr><td class="label">再版日期</td><td>2019-2</td></tr></tbody></table>
 
 Epic-Works/旗袍ver/东风谷早苗（周边，Epic-Works） - 东风谷早苗GarageKit手办模型
-
 ## 参考图片
-
-
-
-文件:Epic-Works旗袍ver东风谷早苗-1.jpg (未找到链接)
-
-
-文件:Epic-Works旗袍ver东风谷早苗-2.jpg (未找到链接)
-
-
-文件:Epic-Works旗袍ver东风谷早苗-3.jpg (未找到链接)
-
-公式图
-
-
-
-
-
-
-文件:Epic-Works旗袍ver东风谷早苗-4.jpg (未找到链接)
-
-
-文件:Epic-Works旗袍ver东风谷早苗-5.jpg (未找到链接)
-
-
-文件:Epic-Works旗袍ver东风谷早苗-6.jpg (未找到链接)
-
-公式图
-
-
-
-
-
-
-文件:Epic-Works旗袍ver东风谷早苗-7.jpg (未找到链接)
-
-
-文件:Epic-Works旗袍ver东风谷早苗-8.jpg (未找到链接)
-
-
-文件:Epic-Works旗袍ver东风谷早苗-9.jpg (未找到链接)
-
-公式图
-
-
-
-
-
-
+文件:Epic-Works旗袍ver东风谷早苗-1.jpg (未找到链接)文件:Epic-Works旗袍ver东风谷早苗-2.jpg (未找到链接)文件:Epic-Works旗袍ver东风谷早苗-3.jpg (未找到链接)公式图
+文件:Epic-Works旗袍ver东风谷早苗-4.jpg (未找到链接)文件:Epic-Works旗袍ver东风谷早苗-5.jpg (未找到链接)文件:Epic-Works旗袍ver东风谷早苗-6.jpg (未找到链接)公式图
+文件:Epic-Works旗袍ver东风谷早苗-7.jpg (未找到链接)文件:Epic-Works旗袍ver东风谷早苗-8.jpg (未找到链接)文件:Epic-Works旗袍ver东风谷早苗-9.jpg (未找到链接)公式图
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:Symphony_No.2_-_From_the_world_of_Dharma封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\86\ns6%3ASymphony_No%2E2_-_From_the_world_of_Dharma%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\86\ns6%3ASymphony_No%2E2_-_From_the_world_of_Dharma%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Palais_der_Arien | 专辑封面 | 封面图片
 
@@ -10,16 +10,12 @@ Palais_der_Arien | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Symphony No.2 - From the world of Dharma](./Symphony_No.2_-_From_the_world_of_Dharma.md)  
-该封面包含的角色：- [圣白莲](./圣白莲.md)
+- [Symphony No.2 - From the world of Dharma](./Symphony_No.2_-_From_the_world_of_Dharma.md)该封面包含的角色：
+- [圣白莲](./圣白莲.md)
 
   
 cover included in download
   
-
-
-
-
 
 ---
 

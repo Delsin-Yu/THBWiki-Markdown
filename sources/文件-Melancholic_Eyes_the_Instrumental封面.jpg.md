@@ -1,6 +1,6 @@
 # 文件:Melancholic_Eyes_the_Instrumental封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f6\ns6%3AMelancholic_Eyes_the_Instrumental%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f6\ns6%3AMelancholic_Eyes_the_Instrumental%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 EastNewSound | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ EastNewSound | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Melancholic Eyes the Instrumental](./Melancholic_Eyes_the_Instrumental.md)  
-该封面包含的角色：- [古明地觉](./古明地觉.md)
-
-
-
+- [Melancholic Eyes the Instrumental](./Melancholic_Eyes_the_Instrumental.md)该封面包含的角色：
+- [古明地觉](./古明地觉.md)
 
 
 ---

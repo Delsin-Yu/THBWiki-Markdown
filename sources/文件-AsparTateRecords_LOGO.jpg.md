@@ -1,12 +1,8 @@
 # 文件:AsparTateRecords_LOGO.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ce\ns6%3AAsparTateRecords_LOGO%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ce\ns6%3AAsparTateRecords_LOGO%2Ejpg.html -->
 
 AsparTateRecords | 社团LOGO
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Subterranean_Sunn)))封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a7\ns6%3ASubterranean_Sunn%29%29%29%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a7\ns6%3ASubterranean_Sunn%29%29%29%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 GENSOKYOxDEFECATOR | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@ GENSOKYOxDEFECATOR | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Subterranean Sunn)))](./Subterranean_Sunn))).md)  
-该封面包含的角色：- [灵乌路空](./灵乌路空.md)
+- [Subterranean Sunn)))](./Subterranean_Sunn%29%29%29.md)该封面包含的角色：
+- [灵乌路空](./灵乌路空.md)
 
   
-源地址：[bandcamp cover](https://f4.bcbits.com/img/a3149305559_10.jpg)
-  
-
-
-
-
+源地址：[bandcamp cover](https://f4.bcbits.com/img/a3149305559_10.jpg)  
 
 ---
 

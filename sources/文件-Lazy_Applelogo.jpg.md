@@ -1,18 +1,13 @@
 # 文件:Lazy_Applelogo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b0\ns6%3ALazy_Applelogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b0\ns6%3ALazy_Applelogo%2Ejpg.html -->
 
 Lazy_Apple | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[[1]](http://lain.bgm.tv/pic/club/icon/l/000/00/04/423.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://lain.bgm.tv/pic/club/icon/l/000/00/04/423.jpg)  
 
 ---
 

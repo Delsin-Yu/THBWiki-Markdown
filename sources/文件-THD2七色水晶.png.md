@@ -1,12 +1,8 @@
 # 文件:THD2七色水晶.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c1\ns6%3ATHD2%E4%B8%83%E8%89%B2%E6%B0%B4%E6%99%B6%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c1\ns6%3ATHD2%E4%B8%83%E8%89%B2%E6%B0%B4%E6%99%B6%2Epng.html -->
 
 AvalonStudioOfficial
-
-
-
-
 
 
 ---

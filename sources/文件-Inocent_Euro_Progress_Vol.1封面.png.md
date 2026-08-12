@@ -1,6 +1,6 @@
 # 文件:Inocent_Euro_Progress_Vol.1封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\41\ns6%3AInocent_Euro_Progress_Vol%2E1%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\41\ns6%3AInocent_Euro_Progress_Vol%2E1%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Inocent_Melody | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ Inocent_Melody | 专辑封面 | 封面图片
   
 
 - [Inocent Euro Progress Vol.1](./Inocent_Euro_Progress_Vol.1.md)
-
-
-
 
 
 ---

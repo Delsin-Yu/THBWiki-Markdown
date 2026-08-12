@@ -1,6 +1,6 @@
 # 文件:Mystical_Chain_OST＋_"MYSTIC_RECORDS"封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8e\ns6%3AMystical_Chain_OST%EF%BC%8B_%22MYSTIC_RECORDS%22%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8e\ns6%3AMystical_Chain_OST%EF%BC%8B_%22MYSTIC_RECORDS%22%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 LION_HEART | 专辑封面 | 封面图片
 
@@ -10,16 +10,26 @@ LION_HEART | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Mystical Chain OST＋ "MYSTIC RECORDS"](./Mystical_Chain_OST＋_-MYSTIC_RECORDS-.md)  
-该封面包含的角色：- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [魂魄妖梦](./魂魄妖梦.md)- [西行寺幽幽子](./西行寺幽幽子.md)- [蓬莱山辉夜](./蓬莱山辉夜.md)- [藤原妹红](./藤原妹红.md)- [小野塚小町](./小野塚小町.md)- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)- [东风谷早苗](./东风谷早苗.md)- [八坂神奈子](./八坂神奈子.md)- [洩矢诹访子](./洩矢诹访子.md)- [雾雨魔理沙](./雾雨魔理沙.md)- [爱丽丝（旧作角色）](./爱丽丝（旧作角色）.md)- 原创角色 (未找到链接)
+- [Mystical Chain OST＋ "MYSTIC RECORDS"](./Mystical_Chain_OST＋_-MYSTIC_RECORDS-.md)该封面包含的角色：
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [魂魄妖梦](./魂魄妖梦.md)
+- [西行寺幽幽子](./西行寺幽幽子.md)
+- [蓬莱山辉夜](./蓬莱山辉夜.md)
+- [藤原妹红](./藤原妹红.md)
+- [小野塚小町](./小野塚小町.md)
+- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)
+- [东风谷早苗](./东风谷早苗.md)
+- [八坂神奈子](./八坂神奈子.md)
+- [洩矢诹访子](./洩矢诹访子.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
+- [爱丽丝（旧作角色）](./爱丽丝（旧作角色）.md)
+- 原创角色 (未找到链接)
 
   
-源地址：[[1]](http://shakna.jp/Mrec/mr_jk.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://shakna.jp/Mrec/mr_jk.jpg)  
 
 ---
 

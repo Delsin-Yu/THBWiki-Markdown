@@ -1,6 +1,6 @@
 # 文件:Show_me_your_Smile_!封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1b\ns6%3AShow_me_your_Smile_%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1b\ns6%3AShow_me_your_Smile_%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 -Sakimiya- | 同人志封面 | 封面图片
 
@@ -10,16 +10,15 @@
 使用了本文件作封面图片的作品：
   
 
-- [Show me your Smile&#160;!](./Show_me_your_Smile_!.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [东风谷早苗](./东风谷早苗.md)- [古明地恋](./古明地恋.md)- [秦心](./秦心.md)
+- [Show me your Smile !](./Show_me_your_Smile_!.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [东风谷早苗](./东风谷早苗.md)
+- [古明地恋](./古明地恋.md)
+- [秦心](./秦心.md)
 
   
 注：喵玉汉化版（即日文版）封面颜色较深，故上传两种版本并以原版为主以供考据
   
-
-
-
-
 
 ---
 

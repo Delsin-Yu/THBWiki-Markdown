@@ -1,6 +1,6 @@
 # 文件:the_3rd_anniv.TANPATSUTENCO封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4d\ns6%3Athe_3rd_anniv%2ETANPATSUTENCO%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4d\ns6%3Athe_3rd_anniv%2ETANPATSUTENCO%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 SINNNKAI | 同人志封面 | 封面图片
 
@@ -8,11 +8,9 @@ SINNNKAI | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [the 3rd anniv.TANPATSUTENCO](./the_3rd_anniv.TANPATSUTENCO.md)  
-该封面包含的角色：- [比那名居天子](./比那名居天子.md)- [大鲶鱼](./大鲶鱼.md)
-
-
-
+- [the 3rd anniv.TANPATSUTENCO](./the_3rd_anniv.TANPATSUTENCO.md)该封面包含的角色：
+- [比那名居天子](./比那名居天子.md)
+- [大鲶鱼](./大鲶鱼.md)
 
 
 ---

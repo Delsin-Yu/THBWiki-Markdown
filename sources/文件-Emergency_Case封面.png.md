@@ -1,6 +1,6 @@
 # 文件:Emergency_Case封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2c\ns6%3AEmergency_Case%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2c\ns6%3AEmergency_Case%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Medicine_Faktory | 专辑封面 | 封面图片
 
@@ -8,10 +8,7 @@ Medicine_Faktory | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Emergency Case](./Emergency_Case.md)}}源地址：[[1]](https://medicine-faktory.booth.pm/items/404322)
-
-
-
+- [Emergency Case](./Emergency_Case.md)}}源地址：[\[1\]](https://medicine-faktory.booth.pm/items/404322)
 
 
 ---

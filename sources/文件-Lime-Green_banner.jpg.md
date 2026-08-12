@@ -1,12 +1,8 @@
 # 文件:Lime-Green_banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\94\ns6%3ALime-Green_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\94\ns6%3ALime-Green_banner%2Ejpg.html -->
 
 Lime-Green | 社团LOGO
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:四季如歌社团logo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1a\ns6%3A%E5%9B%9B%E5%AD%A3%E5%A6%82%E6%AD%8C%E7%A4%BE%E5%9B%A2logo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1a\ns6%3A%E5%9B%9B%E5%AD%A3%E5%A6%82%E6%AD%8C%E7%A4%BE%E5%9B%A2logo%2Epng.html -->
 
 四季如歌室内乐团 | 社团LOGO
 
@@ -10,10 +10,6 @@
   
 外围的花圈，分别是樱花（右上）、向日葵（右下）、雏菊（左下）和梅花（左上），代表着四季盛开的花； 花环内为社团外文名：Orchestre de Chambre Cantabile Saisons，（法语：四季如歌室内乐团） 中间的图案包含了三种元素：钢琴、小提琴与四季映姬的帽子。
   
-
-
-
-
 
 ---
 

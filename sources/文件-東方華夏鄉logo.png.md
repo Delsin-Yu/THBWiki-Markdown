@@ -1,16 +1,12 @@
 # 文件:東方華夏鄉logo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e8\ns6%3A%E6%9D%B1%E6%96%B9%E8%8F%AF%E5%A4%8F%E9%84%89logo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e8\ns6%3A%E6%9D%B1%E6%96%B9%E8%8F%AF%E5%A4%8F%E9%84%89logo%2Epng.html -->
 
 東方華夏鄉 | 社团LOGO
 
   
 华夏乡logo
   
-
-
-
-
 
 ---
 

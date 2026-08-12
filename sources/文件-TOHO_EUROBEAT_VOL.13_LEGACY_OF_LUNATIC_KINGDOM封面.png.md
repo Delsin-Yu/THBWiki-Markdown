@@ -1,6 +1,6 @@
 # 文件:TOHO_EUROBEAT_VOL.13_LEGACY_OF_LUNATIC_KINGDOM封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f9\ns6%3ATOHO_EUROBEAT_VOL%2E13_LEGACY_OF_LUNATIC_KINGDOM%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f9\ns6%3ATOHO_EUROBEAT_VOL%2E13_LEGACY_OF_LUNATIC_KINGDOM%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 A-One | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ A-One | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [TOHO EUROBEAT VOL.13 LEGACY OF LUNATIC KINGDOM](./TOHO_EUROBEAT_VOL.13_LEGACY_OF_LUNATIC_KINGDOM.md)  
-该封面包含的角色：- [纯狐](./纯狐.md)
-
-
-
+- [TOHO EUROBEAT VOL.13 LEGACY OF LUNATIC KINGDOM](./TOHO_EUROBEAT_VOL.13_LEGACY_OF_LUNATIC_KINGDOM.md)该封面包含的角色：
+- [纯狐](./纯狐.md)
 
 
 ---

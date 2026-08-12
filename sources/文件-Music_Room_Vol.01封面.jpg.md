@@ -1,6 +1,6 @@
 # 文件:Music_Room_Vol.01封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ad\ns6%3AMusic_Room_Vol%2E01%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ad\ns6%3AMusic_Room_Vol%2E01%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 豚乙女
 
@@ -9,9 +9,6 @@
   
 
 - [Music Room Vol.01](./Music_Room_Vol.01.md)
-
-
-
 
 
 ---

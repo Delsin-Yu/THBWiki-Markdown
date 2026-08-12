@@ -1,6 +1,6 @@
 # 文件:春待ち~springwaiting~封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\90\ns6%3A%E6%98%A5%E5%BE%85%E3%81%A1%7Espringwaiting%7E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\90\ns6%3A%E6%98%A5%E5%BE%85%E3%81%A1%7Espringwaiting%7E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Jellyfish_Factory | 同人志封面 | 封面图片
 
@@ -8,11 +8,10 @@ Jellyfish_Factory | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [春待ち~springwaiting~](./春待ち~springwaiting~.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [春待ち~springwaiting~](./春待ち~springwaiting~.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

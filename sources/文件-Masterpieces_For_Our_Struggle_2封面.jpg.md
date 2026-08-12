@@ -1,6 +1,6 @@
 # 文件:Masterpieces_For_Our_Struggle_2封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3c\ns6%3AMasterpieces_For_Our_Struggle_2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3c\ns6%3AMasterpieces_For_Our_Struggle_2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Masterpieces_For_Our_Struggle | 专辑封面 | 封面图片
 
@@ -8,16 +8,12 @@ Masterpieces_For_Our_Struggle | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Masterpieces For Our Struggle 2](./Masterpieces_For_Our_Struggle_2.md)  
-该封面包含的角色：- [八坂神奈子](./八坂神奈子.md)- [洩矢诹访子](./洩矢诹访子.md)
+- [Masterpieces For Our Struggle 2](./Masterpieces_For_Our_Struggle_2.md)该封面包含的角色：
+- [八坂神奈子](./八坂神奈子.md)
+- [洩矢诹访子](./洩矢诹访子.md)
 
   
-源地址：[[1]](http://static.tumblr.com/1c9f1d453e6559e1058a22c31b9fadf9/ynvwmk1/wqLngc2eg/tumblr_static_dsw9p9u55uoggk8gog0080wks.png)
-  
-
-
-
-
+源地址：[\[1\]](http://static.tumblr.com/1c9f1d453e6559e1058a22c31b9fadf9/ynvwmk1/wqLngc2eg/tumblr_static_dsw9p9u55uoggk8gog0080wks.png)  
 
 ---
 

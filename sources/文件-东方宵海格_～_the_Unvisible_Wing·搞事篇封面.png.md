@@ -1,6 +1,6 @@
 # 文件:东方宵海格_～_the_Unvisible_Wing·搞事篇封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ee\ns6%3A%E4%B8%9C%E6%96%B9%E5%AE%B5%E6%B5%B7%E6%A0%BC_%EF%BD%9E_the_Unvisible_Wing%C2%B7%E6%90%9E%E4%BA%8B%E7%AF%87%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ee\ns6%3A%E4%B8%9C%E6%96%B9%E5%AE%B5%E6%B5%B7%E6%A0%BC_%EF%BD%9E_the_Unvisible_Wing%C2%B7%E6%90%9E%E4%BA%8B%E7%AF%87%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 OSY搞事组 | 封面图片 | 软件封面
 
@@ -8,11 +8,9 @@ OSY搞事组 | 封面图片 | 软件封面
 使用了本文件作封面图片的作品：
   
 
-- [东方宵海格 ～ the Unvisible Wing·搞事篇](./东方宵海格_～_the_Unvisible_Wing·搞事篇.md)  
-该封面包含的角色：- 长门 (未找到链接)- 陆奥 (未找到链接)
-
-
-
+- [东方宵海格 ～ the Unvisible Wing·搞事篇](./东方宵海格_～_the_Unvisible_Wing·搞事篇.md)该封面包含的角色：
+- 长门 (未找到链接)
+- 陆奥 (未找到链接)
 
 
 ---

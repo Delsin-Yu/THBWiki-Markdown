@@ -1,6 +1,6 @@
 # 文件:東方交響音楽選_-_toho_symphonic_selection_-_～_永遠亭組曲封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\02\ns6%3A%E6%9D%B1%E6%96%B9%E4%BA%A4%E9%9F%BF%E9%9F%B3%E6%A5%BD%E9%81%B8_-_toho_symphonic_selection_-_%EF%BD%9E_%E6%B0%B8%E9%81%A0%E4%BA%AD%E7%B5%84%E6%9B%B2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\02\ns6%3A%E6%9D%B1%E6%96%B9%E4%BA%A4%E9%9F%BF%E9%9F%B3%E6%A5%BD%E9%81%B8_-_toho_symphonic_selection_-_%EF%BD%9E_%E6%B0%B8%E9%81%A0%E4%BA%AD%E7%B5%84%E6%9B%B2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Tutti_Sound | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ Tutti_Sound | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方交響音楽選 - toho symphonic selection - ～ 永遠亭組曲](./東方交響音楽選_-_toho_symphonic_selection_-_～_永遠亭組曲.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [東方交響音楽選 - toho symphonic selection - ～ 永遠亭組曲](./東方交響音楽選_-_toho_symphonic_selection_-_～_永遠亭組曲.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

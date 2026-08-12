@@ -1,12 +1,8 @@
 # 文件:DNAS-MJST_29.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\24\ns6%3ADNAS-MJST_29%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\24\ns6%3ADNAS-MJST_29%2Emp3.html -->
 
 AN_ORDEAL_FROM_GOD | 原曲MP3 | 神魔讨绮传
-
-
-
-
 
 
 ---

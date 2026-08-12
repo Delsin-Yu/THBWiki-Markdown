@@ -1,6 +1,6 @@
 # 文件:The_Toho_Project_set_of_星蓮船_Side：Position_profonde封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\33\ns6%3AThe_Toho_Project_set_of_%E6%98%9F%E8%93%AE%E8%88%B9_Side%EF%BC%9APosition_profonde%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\33\ns6%3AThe_Toho_Project_set_of_%E6%98%9F%E8%93%AE%E8%88%B9_Side%EF%BC%9APosition_profonde%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 自己崩壊性LOGiC
 
@@ -11,12 +11,7 @@
 - [The Toho Project set of 星蓮船 Side：Position profonde](./The_Toho_Project_set_of_星蓮船_Side：Position_profonde.md)
 
   
-源地址：[[1]](https://jicohoukaiseilogic.files.wordpress.com/2016/12/e6989fe893aee888b9e3818ae38282e381a6.jpg?w=780&amp;h=780)
-  
-
-
-
-
+源地址：[\[1\]](https://jicohoukaiseilogic.files.wordpress.com/2016/12/e6989fe893aee888b9e3818ae38282e381a6.jpg?w=780&h=780)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:Psychological_Effect封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ef\ns6%3APsychological_Effect%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ef\ns6%3APsychological_Effect%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Eastern_Scrapping_Machine_Orchestra | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@ Eastern_Scrapping_Machine_Orchestra | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Psychological Effect](./Psychological_Effect.md)  
-该封面包含的角色：- [古明地觉](./古明地觉.md)
+- [Psychological Effect](./Psychological_Effect.md)该封面包含的角色：
+- [古明地觉](./古明地觉.md)
 
   
-源地址：[soundcloud crossfade (original quality)](https://i1.sndcdn.com/artworks-ymvW69DwyKjHhKlO-KR7XHw-original.jpg)
-  
-
-
-
-
+源地址：[soundcloud crossfade (original quality)](https://i1.sndcdn.com/artworks-ymvW69DwyKjHhKlO-KR7XHw-original.jpg)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:東方星騒録_～_Orient_Rock_Battle!!_～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\15\ns6%3A%E6%9D%B1%E6%96%B9%E6%98%9F%E9%A8%92%E9%8C%B2_%EF%BD%9E_Orient_Rock_Battle%21%21_%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\15\ns6%3A%E6%9D%B1%E6%96%B9%E6%98%9F%E9%A8%92%E9%8C%B2_%EF%BD%9E_Orient_Rock_Battle%21%21_%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Stardust.Memories | 专辑封面 | 封面图片
 
@@ -11,12 +11,7 @@ Stardust.Memories | 专辑封面 | 封面图片
 - [東方星騒録 ～ Orient Rock Battle!! ～](./東方星騒録_～_Orient_Rock_Battle!!_～.md)
 
   
-源地址：[[1]](http://stardustmemories.web.fc2.com/images/CDSAMPLE001.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://stardustmemories.web.fc2.com/images/CDSAMPLE001.jpg)  
 
 ---
 

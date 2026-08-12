@@ -1,34 +1,28 @@
 # TOHO_CLOCK
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\c\c1\ns0%3ATOHO_CLOCK.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\c\c1\ns0%3ATOHO_CLOCK.html -->
 
 TOHO CLOCK 在 日本 举办的  东方同人创作活动，目前共举办了10届
 
-本页是关于 **[同人展会](./同人展会.md#展会类活动)**   
-及 **[相关活动](./相关活动.md)** 的词条
-
+本页是关于**[同人展会](./活动.md#展会类活动)**  
+及**[相关活动](./活动.md)**的词条
 ## 概述
   
-<big> **TOHO CLOCK** </big>。  
+<big>**TOHO CLOCK**</big>。  
   
-  
-  
-  
-日本 **** 线上的东方Project Only **同人[创作类活动](./创作类活动.md#创作类活动)** 。  
+日本****线上的东方Project Only**同人[创作类活动](./活动.md#创作类活动)**。  
   
 在线上举办。  
   
   
 此活动在年间共举办了10届，之后未再举办。  
-TOHO CLOCK（活动，创作活动） - TOHO CLOCK 在 日本 举办的  东方同人创作活动，目前共举办了10届
-  
+TOHO CLOCK（活动，创作活动） - TOHO CLOCK 在 日本 举办的  东方同人创作活动，目前共举办了10届  
 “TOHO CLOCK”是2010年4月由一群东方同人漫画和同人音乐爱好者发起的合作计划，由smlifcatic氏牵头，参照网页时钟插件Uniqlock的运行模式，以每5秒钟切换一段5秒微视频，每1分钟换一首1分钟长度BGM的规格进行作品创作并在线上展示。   
 
 原合作计划已结束，目前国内P主c020109703与原项目负责人交涉并进行新一轮合作计划。公式站点[TOHOCLOCK](http://tohoclock.sinaapp.com)。  
 
 “TOHO MMD CLOCK”是みかん社長氏于2015年、2016年发起的MMD版本TOHO CLOCK合作跨年计划，声明与TOHO CLOCK计划及关系者没有直接关系。2018年同类企划由塩蛙氏发起，作为平成最后一年的跨年活动。
   
-
 
 <table>
 
@@ -140,20 +134,6 @@ TOHO CLOCK（活动，创作活动） - TOHO CLOCK 在 日本 举办的  东方�
 <td><a rel="nofollow" class="external text" href="https://www.nicovideo.jp/watch/sm34492959">niconico</a><a rel="nofollow" class="external text" href="https://www.bilibili.com/video/av41066677">bilibili</a></td>
 <td>
 </td></tr></tbody></table>
-
-
-
-  
-  
-
-  
-
-  
-  
-
-
-
-
 
 
 ---

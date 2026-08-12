@@ -1,12 +1,8 @@
 # 文件:秋霜玉disc1a.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8e\ns6%3A%E7%A7%8B%E9%9C%9C%E7%8E%89disc1a%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8e\ns6%3A%E7%A7%8B%E9%9C%9C%E7%8E%89disc1a%2Ejpg.html -->
 
 秋霜玉
-
-
-
-
 
 
 ---

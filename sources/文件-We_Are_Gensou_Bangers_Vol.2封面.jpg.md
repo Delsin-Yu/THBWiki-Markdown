@@ -1,6 +1,6 @@
 # 文件:We_Are_Gensou_Bangers_Vol.2封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\72\ns6%3AWe_Are_Gensou_Bangers_Vol%2E2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\72\ns6%3AWe_Are_Gensou_Bangers_Vol%2E2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Login_Records | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Login_Records | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [We Are Gensou Bangers Vol.2](./We_Are_Gensou_Bangers_Vol.2.md)  
-该封面包含的角色：- [八云紫](./八云紫.md)
+- [We Are Gensou Bangers Vol.2](./We_Are_Gensou_Bangers_Vol.2.md)该封面包含的角色：
+- [八云紫](./八云紫.md)
 
   
-源地址：[[1]](https://static.tumblr.com/a66cec4cef9910a38f033950d8ae60e8/ebwdd1y/U6Zppy6jg/tumblr_static_32om6qy2u5yc804s40ww4g0ww.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://static.tumblr.com/a66cec4cef9910a38f033950d8ae60e8/ebwdd1y/U6Zppy6jg/tumblr_static_32om6qy2u5yc804s40ww4g0ww.jpg)  
 
 ---
 

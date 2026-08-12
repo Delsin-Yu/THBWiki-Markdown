@@ -1,6 +1,6 @@
 # 文件:Love_And_Peace封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9a\ns6%3ALove_And_Peace%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9a\ns6%3ALove_And_Peace%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 すとらいぷぱたーん | 同人志封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Love And Peace](./Love_And_Peace.md)  
-该封面包含的角色：- [圣白莲](./圣白莲.md)
-
-
-
+- [Love And Peace](./Love_And_Peace.md)该封面包含的角色：
+- [圣白莲](./圣白莲.md)
 
 
 ---

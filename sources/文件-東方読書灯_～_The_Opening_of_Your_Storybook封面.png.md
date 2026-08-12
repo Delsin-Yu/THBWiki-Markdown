@@ -1,6 +1,6 @@
 # 文件:東方読書灯_～_The_Opening_of_Your_Storybook封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5f\ns6%3A%E6%9D%B1%E6%96%B9%E8%AA%AD%E6%9B%B8%E7%81%AF_%EF%BD%9E_The_Opening_of_Your_Storybook%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5f\ns6%3A%E6%9D%B1%E6%96%B9%E8%AA%AD%E6%9B%B8%E7%81%AF_%EF%BD%9E_The_Opening_of_Your_Storybook%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 しらゆき音楽工房 | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方読書灯 ～ The Opening of Your Storybook](./東方読書灯_～_The_Opening_of_Your_Storybook.md)  
-该封面包含的角色：- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
-
-
-
+- [東方読書灯 ～ The Opening of Your Storybook](./東方読書灯_～_The_Opening_of_Your_Storybook.md)该封面包含的角色：
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
 
 
 ---

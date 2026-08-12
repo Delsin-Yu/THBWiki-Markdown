@@ -1,6 +1,6 @@
 # 东方百花宴～the_Flower_Shooter/设定与剧情/故事背景
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\00\ns0%3A%E4%B8%9C%E6%96%B9%E7%99%BE%E8%8A%B1%E5%AE%B4%EF%BD%9Ethe_Flower_Shooter%2F%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85%2F%E6%95%85%E4%BA%8B%E8%83%8C%E6%99%AF.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\00\ns0%3A%E4%B8%9C%E6%96%B9%E7%99%BE%E8%8A%B1%E5%AE%B4%EF%BD%9Ethe_Flower_Shooter%2F%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85%2F%E6%95%85%E4%BA%8B%E8%83%8C%E6%99%AF.html -->
 
 SlimeSmile
 
@@ -18,12 +18,7 @@ SlimeSmile
 “比起花朵，果然还是大新闻更有吸引力啊。”  
 
 就这样，射命丸文踏上了追踪异变的旅程。  
-
   
-
-
-
-
 
 ---
 

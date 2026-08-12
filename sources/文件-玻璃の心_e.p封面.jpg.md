@@ -1,6 +1,6 @@
 # 文件:玻璃の心_e.p封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ad\ns6%3A%E7%8E%BB%E7%92%83%E3%81%AE%E5%BF%83_e%2Ep%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ad\ns6%3A%E7%8E%BB%E7%92%83%E3%81%AE%E5%BF%83_e%2Ep%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 天狗ノ舞 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [玻璃の心 e.p](./玻璃の心_e.p.md)  
-该封面包含的角色：- [少名针妙丸](./少名针妙丸.md)
-
-
-
+- [玻璃の心 e.p](./玻璃の心_e.p.md)该封面包含的角色：
+- [少名针妙丸](./少名针妙丸.md)
 
 
 ---

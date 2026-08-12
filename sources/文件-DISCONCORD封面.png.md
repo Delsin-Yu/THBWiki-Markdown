@@ -1,6 +1,6 @@
 # 文件:DISCONCORD封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\43\ns6%3ADISCONCORD%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\43\ns6%3ADISCONCORD%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 下町パイプライン | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [DISCONCORD](./DISCONCORD.md)  
-该封面包含的角色：- [键山雏](./键山雏.md)
-
-
-
+- [DISCONCORD](./DISCONCORD.md)该封面包含的角色：
+- [键山雏](./键山雏.md)
 
 
 ---

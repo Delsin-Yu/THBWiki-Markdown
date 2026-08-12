@@ -1,18 +1,13 @@
 # 文件:シスリラbanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b2\ns6%3A%E3%82%B7%E3%82%B9%E3%83%AA%E3%83%A9banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b2\ns6%3A%E3%82%B7%E3%82%B9%E3%83%AA%E3%83%A9banner%2Egif.html -->
 
 シスリラ | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[direct image link](https://web.archive.org/web/20110924180633im_/http://syslila.net/banner.gif), [source page](https://web.archive.org/web/20110924180629/http://syslila.net/about.html)
-  
-
-
-
-
+源地址：[direct image link](https://web.archive.org/web/20110924180633im_/http://syslila.net/banner.gif), [source page](https://web.archive.org/web/20110924180629/http://syslila.net/about.html)  
 
 ---
 

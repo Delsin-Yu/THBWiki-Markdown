@@ -1,6 +1,6 @@
 # 文件:TILL_THE_SKY_FALLS_DOWN封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c9\ns6%3ATILL_THE_SKY_FALLS_DOWN%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c9\ns6%3ATILL_THE_SKY_FALLS_DOWN%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 EnHANCE_HEART | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@ EnHANCE_HEART | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [TILL THE SKY FALLS DOWN](./TILL_THE_SKY_FALLS_DOWN.md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)
-
-
-
+- [TILL THE SKY FALLS DOWN](./TILL_THE_SKY_FALLS_DOWN.md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
 
 
 ---

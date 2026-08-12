@@ -1,12 +1,8 @@
 # 文件:st_sanae.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\be\ns6%3Ast_sanae%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\be\ns6%3Ast_sanae%2Ejpg.html -->
 
 未完童話
-
-
-
-
 
 
 ---

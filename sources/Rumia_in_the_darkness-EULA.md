@@ -1,15 +1,11 @@
 # Rumia_in_the_darkness/EULA
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\7\7d\ns0%3ARumia_in_the_darkness%2FEULA.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\7\7d\ns0%3ARumia_in_the_darkness%2FEULA.html -->
 
 Dark_Sky_Empire
 
   
 当您开始玩这个游戏时，就表示您已经同意遵守以下的所有条款。
-  
-  
-  
-
   
   
 一、版权
@@ -25,10 +21,6 @@ Dark_Sky_Empire
   
   
 本游戏使用的素材均为原创、或者是通过正当途径购买的素材。
-  
-  
-  
-
   
   
 二、授权
@@ -80,18 +72,10 @@ Dark_Sky_Empire
 7、将本游戏用于违法或违反道德的目的。
   
   
-  
-
-  
-  
 三、虚构
   
   
 本游戏中提到的任何人物、组织、地点、事件、历史都是虚构的。如有雷同，纯属巧合。
-  
-  
-  
-
   
   
 四、癫痫警告
@@ -101,10 +85,6 @@ Dark_Sky_Empire
   
   
 本游戏可能含有剧烈的闪光或闪烁图像。如果您或您的家族中的任何成员在接触到闪光时曾经发生过和癫痫相关的症状（包括视力模糊、眼睛或肌肉震颤、失去意识、迷失方向、以及任何无意识的行动或惊厥），那么请不要玩这个游戏。
-  
-  
-  
-
   
   
 五、免责声明
@@ -146,19 +126,11 @@ Dark_Sky_Empire
 此外，如果您因为忽视本协议的“癫痫警告”部分而导致癫痫或类似症状发作，那么“飞越无尽暗空”同样不负任何责任。
   
   
-  
-
-  
-  
 六、有限保证
   
   
 “飞越无尽暗空”向您提供的是游戏的“原件”，除此之外没有任何形式的其它担保。
   
-
-
-
-
 
 ---
 

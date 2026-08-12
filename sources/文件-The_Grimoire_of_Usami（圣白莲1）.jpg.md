@@ -1,14 +1,11 @@
 # 文件:The_Grimoire_of_Usami（圣白莲1）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1f\ns6%3AThe_Grimoire_of_Usami%EF%BC%88%E5%9C%A3%E7%99%BD%E8%8E%B21%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1f\ns6%3AThe_Grimoire_of_Usami%EF%BC%88%E5%9C%A3%E7%99%BD%E8%8E%B21%EF%BC%89%2Ejpg.html -->
 
 圣白莲 | 宇佐见的魔法书
 
 
 ## 摘要
-
-
-
 
 ---
 

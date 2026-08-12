@@ -1,6 +1,6 @@
 # 文件:Love_is_a_Battle封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c0\ns6%3ALove_is_a_Battle%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c0\ns6%3ALove_is_a_Battle%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 White_Elephant | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ White_Elephant | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Love is a Battle](./Love_is_a_Battle.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [Love is a Battle](./Love_is_a_Battle.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

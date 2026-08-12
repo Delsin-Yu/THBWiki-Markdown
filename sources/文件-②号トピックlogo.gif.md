@@ -1,18 +1,13 @@
 # 文件:②号トピックlogo.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4a\ns6%3A%E2%91%A1%E5%8F%B7%E3%83%88%E3%83%94%E3%83%83%E3%82%AFlogo%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4a\ns6%3A%E2%91%A1%E5%8F%B7%E3%83%88%E3%83%94%E3%83%83%E3%82%AFlogo%2Egif.html -->
 
 ②号トピック | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[direct image link](http://2gotopic.web.fc2.com/g/log.gif), [source page](http://2gotopic.web.fc2.com/)
-  
-
-
-
-
+源地址：[direct image link](http://2gotopic.web.fc2.com/g/log.gif), [source page](http://2gotopic.web.fc2.com/)  
 
 ---
 

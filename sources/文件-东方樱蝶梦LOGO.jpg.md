@@ -1,12 +1,8 @@
 # 文件:东方樱蝶梦LOGO.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c5\ns6%3A%E4%B8%9C%E6%96%B9%E6%A8%B1%E8%9D%B6%E6%A2%A6LOGO%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c5\ns6%3A%E4%B8%9C%E6%96%B9%E6%A8%B1%E8%9D%B6%E6%A2%A6LOGO%2Ejpg.html -->
 
 东方樱蝶梦 | 活动LOGO
-
-
-
-
 
 
 ---

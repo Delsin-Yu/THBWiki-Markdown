@@ -1,12 +1,8 @@
 # 文件:星光現象-Asterism-banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\34\ns6%3A%E6%98%9F%E5%85%89%E7%8F%BE%E8%B1%A1-Asterism-banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\34\ns6%3A%E6%98%9F%E5%85%89%E7%8F%BE%E8%B1%A1-Asterism-banner%2Ejpg.html -->
 
 星光現象-Asterism- | 社团LOGO
-
-
-
-
 
 
 ---

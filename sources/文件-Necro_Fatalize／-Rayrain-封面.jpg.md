@@ -1,6 +1,6 @@
 # 文件:Necro_Fatalize／-Rayrain-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9b\ns6%3ANecro_Fatalize%EF%BC%8F-Rayrain-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9b\ns6%3ANecro_Fatalize%EF%BC%8F-Rayrain-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 錯乱のオルフェ
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Necro Fatalize／-Rayrain-](./Necro_Fatalize／-Rayrain-.md)  
-该封面包含的角色：- [八云紫](./八云紫.md)
+- [Necro Fatalize／-Rayrain-](./Necro_Fatalize／-Rayrain-.md)该封面包含的角色：
+- [八云紫](./八云紫.md)
 
   
-源地址：[[1]](http://www.sakuran-no-orphe.com/images/jacket.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://www.sakuran-no-orphe.com/images/jacket.jpg)  
 
 ---
 

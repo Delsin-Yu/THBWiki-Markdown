@@ -1,6 +1,6 @@
 # 文件:switch_-_version_1_-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9b\ns6%3Aswitch_-_version_1_-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9b\ns6%3Aswitch_-_version_1_-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 悦楽舎
 
@@ -9,9 +9,6 @@
   
 
 - [switch - version 1 -](./switch_-_version_1_-.md)
-
-
-
 
 
 ---

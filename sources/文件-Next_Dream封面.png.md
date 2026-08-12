@@ -1,6 +1,6 @@
 # 文件:Next_Dream封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f7\ns6%3ANext_Dream%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f7\ns6%3ANext_Dream%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 eva_problems | 封面图片 | 软件封面
 
@@ -13,12 +13,7 @@ eva_problems | 封面图片 | 软件封面
 - [Next Dream](./Next_Dream.md)
 
   
-源地址：[direct image link](https://img.itch.zone/aW1nLzg1Mzc1MjkucG5n/315x250#cb/PnLt10.png), [source page](https://ohnoproblems.itch.io/)
-  
-
-
-
-
+源地址：[direct image link](https://img.itch.zone/aW1nLzg1Mzc1MjkucG5n/315x250#cb/PnLt10.png), [source page](https://ohnoproblems.itch.io/)  
 
 ---
 

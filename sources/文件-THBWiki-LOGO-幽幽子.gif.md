@@ -1,12 +1,8 @@
 # 文件:THBWiki-LOGO-幽幽子.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\44\ns6%3ATHBWiki-LOGO-%E5%B9%BD%E5%B9%BD%E5%AD%90%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\44\ns6%3ATHBWiki-LOGO-%E5%B9%BD%E5%B9%BD%E5%AD%90%2Egif.html -->
 
 THBWiki | Wiki词条分类用图
-
-
-
-
 
 
 ---

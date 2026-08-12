@@ -1,6 +1,6 @@
 # 文件:Dance_Around.封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1e\ns6%3ADance_Around%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1e\ns6%3ADance_Around%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Heartland_Moon | 专辑封面 | 封面图片
 
@@ -8,12 +8,10 @@ Heartland_Moon | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Dance Around.](./Dance_Around..md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)源地址：[[1]](http://heartland-moon.net/jacket/dance_around.png)
-
-
-
-
+- [Dance Around.](./Dance_Around..md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+源地址：[\[1\]](http://heartland-moon.net/jacket/dance_around.png)
 
 ---
 

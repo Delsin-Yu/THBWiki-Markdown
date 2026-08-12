@@ -1,6 +1,6 @@
 # 文件:Electric_Creation封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ad\ns6%3AElectric_Creation%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ad\ns6%3AElectric_Creation%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ジェリコの法則 | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Electric Creation](./Electric_Creation.md)  
-该封面包含的角色：- [杖刀偶磨弓](./杖刀偶磨弓.md)
-
-
-
+- [Electric Creation](./Electric_Creation.md)该封面包含的角色：
+- [杖刀偶磨弓](./杖刀偶磨弓.md)
 
 
 ---

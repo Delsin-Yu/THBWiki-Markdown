@@ -1,6 +1,6 @@
 # 文件:Amulet封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\33\ns6%3AAmulet%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\33\ns6%3AAmulet%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 RekraH | 同人志封面 | 封面图片
 
@@ -10,19 +10,14 @@ RekraH | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Amulet](./Amulet.md)  
-该封面包含的角色：- [键山雏](./键山雏.md)
+- [Amulet](./Amulet.md)该封面包含的角色：
+- [键山雏](./键山雏.md)
 
   
-源地址：[direct image link (original size; cropped)](https://pbs.twimg.com/media/Fu8jTY_aYAAil2U?format=jpg&amp;name=orig), [source tweet](https://twitter.com/chesscure/status/1652578410030600199)
-  
+源地址：[direct image link (original size; cropped)](https://pbs.twimg.com/media/Fu8jTY_aYAAil2U?format=jpg&name=orig), [source tweet](https://twitter.com/chesscure/status/1652578410030600199)  
   
 note: should be replaced by a higher quality image if possible because there's an image artifact on the top right that isn't supposed to be part of the cover
   
-
-
-
-
 
 ---
 

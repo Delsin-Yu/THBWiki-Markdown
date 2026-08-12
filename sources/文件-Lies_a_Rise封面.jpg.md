@@ -1,6 +1,6 @@
 # 文件:Lies_a_Rise封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d6\ns6%3ALies_a_Rise%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d6\ns6%3ALies_a_Rise%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 L-ZONE | 专辑封面 | 封面图片
 
@@ -8,16 +8,12 @@ L-ZONE | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Lies a Rise](./Lies_a_Rise.md)  
-该封面包含的角色：- [火焰猫燐](./火焰猫燐.md)- [古明地恋](./古明地恋.md)
+- [Lies a Rise](./Lies_a_Rise.md)该封面包含的角色：
+- [火焰猫燐](./火焰猫燐.md)
+- [古明地恋](./古明地恋.md)
 
   
-源地址：[[1]](http://img.toranoana.jp/popup_img/04/0030/52/92/040030529290-1p.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://img.toranoana.jp/popup_img/04/0030/52/92/040030529290-1p.jpg)  
 
 ---
 

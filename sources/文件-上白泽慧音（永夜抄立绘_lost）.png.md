@@ -1,12 +1,8 @@
 # 文件:上白泽慧音（永夜抄立绘_lost）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5e\ns6%3A%E4%B8%8A%E7%99%BD%E6%B3%BD%E6%85%A7%E9%9F%B3%EF%BC%88%E6%B0%B8%E5%A4%9C%E6%8A%84%E7%AB%8B%E7%BB%98_lost%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5e\ns6%3A%E4%B8%8A%E7%99%BD%E6%B3%BD%E6%85%A7%E9%9F%B3%EF%BC%88%E6%B0%B8%E5%A4%9C%E6%8A%84%E7%AB%8B%E7%BB%98_lost%EF%BC%89%2Epng.html -->
 
 ZUN绘 | 上白泽慧音 | 东方永夜抄 | 官方游戏立绘
-
-
-
-
 
 
 ---

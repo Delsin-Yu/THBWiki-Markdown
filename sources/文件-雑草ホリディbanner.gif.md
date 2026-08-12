@@ -1,18 +1,13 @@
 # 文件:雑草ホリディbanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d0\ns6%3A%E9%9B%91%E8%8D%89%E3%83%9B%E3%83%AA%E3%83%87%E3%82%A3banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d0\ns6%3A%E9%9B%91%E8%8D%89%E3%83%9B%E3%83%AA%E3%83%87%E3%82%A3banner%2Egif.html -->
 
 社团LOGO | 雑草ホリディ
 
 
 ## 摘要
   
-源地址：[direct image link](http://zassou.iza-yoi.net/image/banner.gif), [source page](http://zassou.iza-yoi.net/base1.html)
-  
-
-
-
-
+源地址：[direct image link](http://zassou.iza-yoi.net/image/banner.gif), [source page](http://zassou.iza-yoi.net/base1.html)  
 
 ---
 

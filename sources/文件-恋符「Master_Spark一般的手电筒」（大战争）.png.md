@@ -1,12 +1,8 @@
 # 文件:恋符「Master_Spark一般的手电筒」（大战争）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\57\ns6%3A%E6%81%8B%E7%AC%A6%E3%80%8CMaster_Spark%E4%B8%80%E8%88%AC%E7%9A%84%E6%89%8B%E7%94%B5%E7%AD%92%E3%80%8D%EF%BC%88%E5%A4%A7%E6%88%98%E4%BA%89%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\57\ns6%3A%E6%81%8B%E7%AC%A6%E3%80%8CMaster_Spark%E4%B8%80%E8%88%AC%E7%9A%84%E6%89%8B%E7%94%B5%E7%AD%92%E3%80%8D%EF%BC%88%E5%A4%A7%E6%88%98%E4%BA%89%EF%BC%89%2Epng.html -->
 
 妖精大战争 | 敌机符卡 | 雾雨魔理沙
-
-
-
-
 
 
 ---

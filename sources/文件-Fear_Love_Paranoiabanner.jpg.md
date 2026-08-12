@@ -1,12 +1,8 @@
 # 文件:Fear_Love_Paranoiabanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\aa\ns6%3AFear_Love_Paranoiabanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\aa\ns6%3AFear_Love_Paranoiabanner%2Ejpg.html -->
 
 Fear_Love_Paranoia | 社团LOGO
-
-
-
-
 
 
 ---

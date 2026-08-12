@@ -1,6 +1,6 @@
 # 文件:日はまた昇る_～_the_glow_of_the_sky_at_sunset.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f6\ns6%3A%E6%97%A5%E3%81%AF%E3%81%BE%E3%81%9F%E6%98%87%E3%82%8B_%EF%BD%9E_the_glow_of_the_sky_at_sunset%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f6\ns6%3A%E6%97%A5%E3%81%AF%E3%81%BE%E3%81%9F%E6%98%87%E3%82%8B_%EF%BD%9E_the_glow_of_the_sky_at_sunset%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Unprepared_Orchestra | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Unprepared_Orchestra | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [日はまた昇る ～ the glow of the sky at sunset.](./日はまた昇る_～_the_glow_of_the_sky_at_sunset..md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)
-
-
-
+- [日はまた昇る ～ the glow of the sky at sunset.](./日はまた昇る_～_the_glow_of_the_sky_at_sunset..md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
 
 
 ---

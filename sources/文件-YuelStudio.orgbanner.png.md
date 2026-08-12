@@ -1,14 +1,11 @@
 # 文件:YuelStudio.orgbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\47\ns6%3AYuelStudio%2Eorgbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\47\ns6%3AYuelStudio%2Eorgbanner%2Epng.html -->
 
 YuelStudio | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

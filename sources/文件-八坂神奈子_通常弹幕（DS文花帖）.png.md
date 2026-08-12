@@ -1,12 +1,8 @@
 # 文件:八坂神奈子_通常弹幕（DS文花帖）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c6\ns6%3A%E5%85%AB%E5%9D%82%E7%A5%9E%E5%A5%88%E5%AD%90_%E9%80%9A%E5%B8%B8%E5%BC%B9%E5%B9%95%EF%BC%88DS%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c6\ns6%3A%E5%85%AB%E5%9D%82%E7%A5%9E%E5%A5%88%E5%AD%90_%E9%80%9A%E5%B8%B8%E5%BC%B9%E5%B9%95%EF%BC%88DS%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Epng.html -->
 
 东方文花帖DS | 八坂神奈子
-
-
-
-
 
 
 ---

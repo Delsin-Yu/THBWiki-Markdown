@@ -1,12 +1,8 @@
 # 文件:THD2神奇蘑菇.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f3\ns6%3ATHD2%E7%A5%9E%E5%A5%87%E8%98%91%E8%8F%87%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f3\ns6%3ATHD2%E7%A5%9E%E5%A5%87%E8%98%91%E8%8F%87%2Epng.html -->
 
 东方DOTS玩家社群
-
-
-
-
 
 
 ---

@@ -1,14 +1,11 @@
 # 文件:The_Grimoire_of_Usami（射命丸文1）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\57\ns6%3AThe_Grimoire_of_Usami%EF%BC%88%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%871%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\57\ns6%3AThe_Grimoire_of_Usami%EF%BC%88%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%871%EF%BC%89%2Ejpg.html -->
 
 宇佐见的魔法书 | 射命丸文
 
 
 ## 摘要
-
-
-
 
 ---
 

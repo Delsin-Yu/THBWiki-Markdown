@@ -1,6 +1,6 @@
 # 文件:東方海泡城_～_Precious_Sphere.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cf\ns6%3A%E6%9D%B1%E6%96%B9%E6%B5%B7%E6%B3%A1%E5%9F%8E_%EF%BD%9E_Precious_Sphere%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cf\ns6%3A%E6%9D%B1%E6%96%B9%E6%B5%B7%E6%B3%A1%E5%9F%8E_%EF%BD%9E_Precious_Sphere%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 鹿子
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方海泡城 ～ Precious Sphere.](./東方海泡城_～_Precious_Sphere..md)  
-该封面包含的角色：- [泡守乙奈](./泡守乙奈.md)
-
-
-
+- [東方海泡城 ～ Precious Sphere.](./東方海泡城_～_Precious_Sphere..md)该封面包含的角色：
+- [泡守乙奈](./泡守乙奈.md)
 
 
 ---

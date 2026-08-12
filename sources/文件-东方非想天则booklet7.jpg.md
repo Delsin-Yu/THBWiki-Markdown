@@ -1,12 +1,8 @@
 # 文件:东方非想天则booklet7.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\71\ns6%3A%E4%B8%9C%E6%96%B9%E9%9D%9E%E6%83%B3%E5%A4%A9%E5%88%99booklet7%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\71\ns6%3A%E4%B8%9C%E6%96%B9%E9%9D%9E%E6%83%B3%E5%A4%A9%E5%88%99booklet7%2Ejpg.html -->
 
 东方非想天则 | 官方游戏光盘扫图
-
-
-
-
 
 
 ---

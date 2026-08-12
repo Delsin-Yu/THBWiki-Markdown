@@ -1,51 +1,42 @@
 # YOYOMU_PICTURE
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\5\54\ns0%3AYOYOMU_PICTURE.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\5\54\ns0%3AYOYOMU_PICTURE.html -->
 
 2011年5月8日 由 Ma-Hi-Te 于 博丽神社例大祭8 发布的EP同人专辑，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人专辑 (未找到链接)** 的词条
-
+**[二次创作同人专辑](./二次创作.md#同人音乐)**的词条
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-YOYOMU_PICTURE封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/4/4d/YOYOMU_PICTURE%E5%B0%81%E9%9D%A2.jpg/224px-YOYOMU_PICTURE%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="223" srcset="https://upload.thwiki.cc/thumb/4/4d/YOYOMU_PICTURE%E5%B0%81%E9%9D%A2.jpg/336px-YOYOMU_PICTURE%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/4/4d/YOYOMU_PICTURE%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="400" data-file-height="398"></a></td>
 </tr><tr><td class="label">名称</td><td colspan="2"> YOYOMU PICTURE </td></tr><tr><td class="label">制作方</td><td><a href="./Ma-Hi-Te.md" title="Ma-Hi-Te">Ma-Hi-Te</a></td><td class="cover-artwork" rowspan="8" style="min-width:224px;"><a href="./文件-YOYOMU_PICTURE封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/4/4d/YOYOMU_PICTURE%E5%B0%81%E9%9D%A2.jpg/224px-YOYOMU_PICTURE%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="223" srcset="https://upload.thwiki.cc/thumb/4/4d/YOYOMU_PICTURE%E5%B0%81%E9%9D%A2.jpg/336px-YOYOMU_PICTURE%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/4/4d/YOYOMU_PICTURE%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="400" data-file-height="398"></a></td>
-</tr><tr><td class="label">首发日期</td><td>2011-05-08&#160;（<a href="/展会作品列表?e=%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD%238">第八回 博麗神社例大祭</a>）</td></tr><tr><td class="label">类型</td><td>EP</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>4</td></tr><tr><td class="label">总时长</td><td>00:00</td></tr><tr><td class="label">售价</td><td>会场售价：200日元</td></tr>
+</tr><tr><td class="label">首发日期</td><td>2011-05-08 （<a href="./展会作品列表.md#8">第八回 博麗神社例大祭</a>）</td></tr><tr><td class="label">类型</td><td>EP</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>4</td></tr><tr><td class="label">总时长</td><td>00:00</td></tr><tr><td class="label">售价</td><td>会场售价：200日元</td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://blog.ma-hi-te.com/?eid=32">http://blog.ma-hi-te.com/?eid=32</a></td></tr></tbody></table>
 
 YOYOMU PICTURE（同人专辑，Ma-Hi-Te，2011） - 2011年5月8日 由 Ma-Hi-Te 于 博丽神社例大祭8 发布的EP同人专辑，分级为 一般向
-
 ## Staff
   
- **Arrangement**   
+**Arrangement**  
 
-<table><tbody><tr><td><a href="/index.php?title=hiiiima&amp;action=edit&amp;redlink=1" class="new" title="hiiiima（页面不存在）">hiiiima</a></td><td></td><td>Tr.1-4</td></tr></tbody></table>
-
+<table><tbody><tr><td><a class="new" title="hiiiima（页面不存在）">hiiiima</a></td><td></td><td>Tr.1-4</td></tr></tbody></table>
 
 Design
 : hiiiima
-
 
 ## 试听
   
 暂不支援此类型
   
 
-
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="YO-YO" colspan="2" class="title">YO-YO<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=hiiiima&amp;ogmusic=妖々夢　～ Snow or Cherry Petal&amp;fromwiki=YOYOMU_PICTURE"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=hiiiima&amp;action=edit&amp;redlink=1" class="new" title="hiiiima（页面不存在）">hiiiima</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，hiiiima，&amp;fromwiki=YOYOMU_PICTURE"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=妖々夢　～ Snow or Cherry Petal&amp;fromwiki=YOYOMU_PICTURE"><span></span></a></span><div class="ogmusic"><a href="./妖々夢_～_Snow_or_Cherry_Petal.md" class="mw-redirect" title="妖々夢 ～ Snow or Cherry Petal">妖々夢　～ Snow or Cherry Petal</a></div><div class="source"><a href="./东方妖妖梦_～_Perfect_Cherry_Blossom..md" class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr>
-<tr><td id="2" class="infoYD"><b>02</b></td><td id="TO-NO" colspan="2" class="title">TO-NO<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=hiiiima&amp;ogmusic=遠野幻想物語&amp;fromwiki=YOYOMU_PICTURE"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=hiiiima&amp;action=edit&amp;redlink=1" class="new" title="hiiiima（页面不存在）">hiiiima</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，hiiiima，&amp;fromwiki=YOYOMU_PICTURE"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=遠野幻想物語&amp;fromwiki=YOYOMU_PICTURE"><span></span></a></span><div class="ogmusic"><a href="./遠野幻想物語.md" class="mw-redirect" title="遠野幻想物語">遠野幻想物語</a></div><div class="source"><a href="./东方妖妖梦_～_Perfect_Cherry_Blossom..md" class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr>
-<tr><td id="3" class="infoYD"><b>03</b></td><td id="SO-RA" colspan="2" class="title">SO-RA<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=hiiiima&amp;ogmusic=天空の花の都&amp;fromwiki=YOYOMU_PICTURE"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=hiiiima&amp;action=edit&amp;redlink=1" class="new" title="hiiiima（页面不存在）">hiiiima</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，hiiiima，&amp;fromwiki=YOYOMU_PICTURE"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=天空の花の都&amp;fromwiki=YOYOMU_PICTURE"><span></span></a></span><div class="ogmusic"><a href="./天空の花の都.md" class="mw-redirect" title="天空の花の都">天空の花の都</a></div><div class="source"><a href="./东方妖妖梦_～_Perfect_Cherry_Blossom..md" class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr>
-<tr><td id="4" class="infoYD"><b>04</b></td><td id="YO-MU" colspan="2" class="title">YO-MU<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=hiiiima&amp;ogmusic=東方妖々夢　～ Ancient Temple&amp;fromwiki=YOYOMU_PICTURE"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=hiiiima&amp;action=edit&amp;redlink=1" class="new" title="hiiiima（页面不存在）">hiiiima</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，hiiiima，&amp;fromwiki=YOYOMU_PICTURE"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=東方妖々夢　～ Ancient Temple&amp;fromwiki=YOYOMU_PICTURE"><span></span></a></span><div class="ogmusic"><a href="./東方妖々夢_～_Ancient_Temple.md" class="mw-redirect" title="東方妖々夢 ～ Ancient Temple">東方妖々夢　～ Ancient Temple</a></div><div class="source"><a href="./东方妖妖梦_～_Perfect_Cherry_Blossom..md" class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr></tbody></table>
-
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="YO-YO" colspan="2" class="title">YO-YO</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="hiiiima（页面不存在）">hiiiima</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./妖妖梦_～_Snow_or_Cherry_Petal.md" class="mw-redirect" title="妖々夢 ～ Snow or Cherry Petal">妖々夢　～ Snow or Cherry Petal</a></div><div class="source"><a href="./东方妖妖梦.md" class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr>
+<tr><td id="2" class="infoYD"><b>02</b></td><td id="TO-NO" colspan="2" class="title">TO-NO</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="hiiiima（页面不存在）">hiiiima</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./远野幻想物语.md" class="mw-redirect" title="遠野幻想物語">遠野幻想物語</a></div><div class="source"><a href="./东方妖妖梦.md" class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr>
+<tr><td id="3" class="infoYD"><b>03</b></td><td id="SO-RA" colspan="2" class="title">SO-RA</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="hiiiima（页面不存在）">hiiiima</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./天空的花都.md" class="mw-redirect" title="天空の花の都">天空の花の都</a></div><div class="source"><a href="./东方妖妖梦.md" class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr>
+<tr><td id="4" class="infoYD"><b>04</b></td><td id="YO-MU" colspan="2" class="title">YO-MU</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="hiiiima（页面不存在）">hiiiima</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./东方妖妖梦_～_Ancient_Temple.md" class="mw-redirect" title="東方妖々夢 ～ Ancient Temple">東方妖々夢　～ Ancient Temple</a></div><div class="source"><a href="./东方妖妖梦.md" class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr></tbody></table>
 
 
 ## 评论
-
-
-
 
 ---
 

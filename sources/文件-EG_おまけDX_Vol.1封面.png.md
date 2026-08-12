@@ -1,6 +1,6 @@
 # 文件:EG_おまけDX_Vol.1封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\25\ns6%3AEG_%E3%81%8A%E3%81%BE%E3%81%91DX_Vol%2E1%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\25\ns6%3AEG_%E3%81%8A%E3%81%BE%E3%81%91DX_Vol%2E1%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 アールグレイ | 专辑封面 | 封面图片
 
@@ -8,11 +8,13 @@
 使用了本文件作封面图片的作品：
   
 
-- [EG おまけDX Vol.1](./EG_おまけDX_Vol.1.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)- [射命丸文](./射命丸文.md)- [河城荷取](./河城荷取.md)- [古明地觉](./古明地觉.md)- [古明地恋](./古明地恋.md)
-
-
-
+- [EG おまけDX Vol.1](./EG_おまけDX_Vol.1.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [射命丸文](./射命丸文.md)
+- [河城荷取](./河城荷取.md)
+- [古明地觉](./古明地觉.md)
+- [古明地恋](./古明地恋.md)
 
 
 ---

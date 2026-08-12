@@ -1,6 +1,6 @@
 # 文件:Ubiquitous_Blossom封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d9\ns6%3AUbiquitous_Blossom%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d9\ns6%3AUbiquitous_Blossom%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 星幽伽罗
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Ubiquitous Blossom](./Ubiquitous_Blossom.md)  
-该封面包含的角色：- [依神紫苑](./依神紫苑.md)
-
-
-
+- [Ubiquitous Blossom](./Ubiquitous_Blossom.md)该封面包含的角色：
+- [依神紫苑](./依神紫苑.md)
 
 
 ---

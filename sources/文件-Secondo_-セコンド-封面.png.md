@@ -1,6 +1,6 @@
 # 文件:Secondo_-セコンド-封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b7\ns6%3ASecondo_-%E3%82%BB%E3%82%B3%E3%83%B3%E3%83%89-%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b7\ns6%3ASecondo_-%E3%82%BB%E3%82%B3%E3%83%B3%E3%83%89-%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 K2_SOUND | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ K2_SOUND | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Secondo -セコンド-](./Secondo_-セコンド-.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [Secondo -セコンド-](./Secondo_-セコンド-.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

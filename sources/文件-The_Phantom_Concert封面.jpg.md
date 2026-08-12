@@ -1,6 +1,6 @@
 # 文件:The_Phantom_Concert封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fb\ns6%3AThe_Phantom_Concert%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fb\ns6%3AThe_Phantom_Concert%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 べるべるわーくす | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [The Phantom Concert](./The_Phantom_Concert.md)  
-该封面包含的角色：- [西行寺幽幽子](./西行寺幽幽子.md)
-
-
-
+- [The Phantom Concert](./The_Phantom_Concert.md)该封面包含的角色：
+- [西行寺幽幽子](./西行寺幽幽子.md)
 
 
 ---

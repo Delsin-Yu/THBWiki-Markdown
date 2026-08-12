@@ -1,6 +1,6 @@
 # 文件:Drawn_Drones_Drown_Drone封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\27\ns6%3ADrawn_Drones_Drown_Drone%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\27\ns6%3ADrawn_Drones_Drown_Drone%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 MA.S_ATTACK | 专辑封面 | 封面图片
 
@@ -8,12 +8,9 @@ MA.S_ATTACK | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Drawn Drones Drown Drone](./Drawn_Drones_Drown_Drone.md)  
-该封面包含的角色：- [河城荷取](./河城荷取.md)源地址：[[1]](https://web.archive.org/web/20110828091614/http://mas-attack.org/)
-
-
-
-
+- [Drawn Drones Drown Drone](./Drawn_Drones_Drown_Drone.md)该封面包含的角色：
+- [河城荷取](./河城荷取.md)
+源地址：[\[1\]](https://web.archive.org/web/20110828091614/http://mas-attack.org/)
 
 ---
 

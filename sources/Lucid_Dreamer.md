@@ -1,37 +1,27 @@
 # Lucid_Dreamer
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\4f\ns0%3ALucid_Dreamer.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\4f\ns0%3ALucid_Dreamer.html -->
 
 由 ZUN 创作的官方曲目，原名 ルーシッドドリーマー
 
 本页是关于东方Project  
- **原作音乐** 的词条
-
+**原作音乐**的词条
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 出现作品](#出现作品)
 - [3 音乐文件](#音乐文件)
-
   - [3.1 秘封噩梦日记](#秘封噩梦日记)
 
 
-
 - [4 说明文本](#说明文本)
-
   - [4.1 秘封噩梦日记](#秘封噩梦日记_2)
 
 
-
 - [5 其他资料](#其他资料)
-
   - [5.1 乐理资讯](#乐理资讯)
   - [5.2 分析考据](#分析考据)
   - [5.3 二次同人数据](#二次同人数据)
-
-
-
-
 
 
 
@@ -41,13 +31,11 @@
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">ルーシッドドリーマー</td></tr><tr><td><b>译名</b></td><td>Lucid Dreamer</td></tr><tr><td><b>其他译名</b></td><td>清醒的梦中人</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 Lucid Dreamer（曲目） - 由 ZUN 创作的官方曲目，原名 ルーシッドドリーマー
-
 ## 出现作品
 
 <table>
 <tbody><tr><td>2018年8月10日（Comic Market 94）</td><td><b><a href="./秘封噩梦日记.md" title="秘封噩梦日记">秘封噩梦日记</a></b></td><td>第一周的主题曲</td><td style="padding-left:5px;">ルーシッドドリーマー（Lucid Dreamer）</td><td style="padding-left:10px;">作曲：ZUN</td></tr>
 </tbody></table>
-
 
 
 ## 音乐文件
@@ -62,39 +50,41 @@ Lucid Dreamer（曲目） - 由 ZUN 创作的官方曲目，原名 ルーシッ�
 </td></tr></tbody></table>
 
 
-
 ## 说明文本
 
 ### 秘封噩梦日记
-- Music Room (未找到链接)
+
+- [Music Room](./秘封噩梦日记-Music.md#第一周的主题曲)
 
 　第一周的主题曲。  
-　  
+   
 　做过在空中翱翔的梦吗？  
 　我定期会做像飞一样在陡坡滑雪的梦。  
 　做这种梦的时候，基本上都是我状态非常好的时候。
-
 ## 其他资料
 
 ### 乐理资讯
 
 ### 分析考据
   
- **ルーシッドドリーマー**  Lucid Dreamer
+**ルーシッドドリーマー** Lucid Dreamer
   
 
-- ルーシッド（Lucid）
+- ルーシッド（Lucid） 
   - 清澈的，透明的。
   - 大脑清醒的。
   - 易于理解，清晰的。
   - 【诗歌】闪耀，明亮的。
 
-- Lucid dream
+
+- Lucid dream 
   - 清醒梦，指人进入睡眠后（因此并非白日梦）意识仍清醒的状态，其梦境多较真实，但知道自己是在做梦。他们能思考甚至自主改变梦的内容，醒后也多能回想其梦境。
 
-- Lucid Dreamer
+
+- Lucid Dreamer 
   - 指梦境世界的堇子？
   - 与第二周的主题曲 [Lunatic Dreamer](./Lunatic_Dreamer.md) 对应。
+
 
 
 
@@ -110,17 +100,6 @@ Lucid Dreamer（曲目） - 由 ZUN 创作的官方曲目，原名 ルーシッ�
 <tr><td>Arrange</td><td>20</td></tr>
 <tr><td>Vocal率</td><td>23.08%</td></tr>
 </tbody></table>
-
-
-
-
-  
-  
-
-  
-
-
-
 
 
 ---

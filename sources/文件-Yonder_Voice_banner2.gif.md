@@ -1,14 +1,11 @@
 # 文件:Yonder_Voice_banner2.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b4\ns6%3AYonder_Voice_banner2%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b4\ns6%3AYonder_Voice_banner2%2Egif.html -->
 
 Yonder_Voice | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

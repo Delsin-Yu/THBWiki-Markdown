@@ -1,14 +1,11 @@
 # 文件:NJK_Recordbanner2.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dc\ns6%3ANJK_Recordbanner2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dc\ns6%3ANJK_Recordbanner2%2Ejpg.html -->
 
 NJK_Record | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

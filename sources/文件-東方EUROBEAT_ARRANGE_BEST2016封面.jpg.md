@@ -1,6 +1,6 @@
 # 文件:東方EUROBEAT_ARRANGE_BEST2016封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\43\ns6%3A%E6%9D%B1%E6%96%B9EUROBEAT_ARRANGE_BEST2016%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\43\ns6%3A%E6%9D%B1%E6%96%B9EUROBEAT_ARRANGE_BEST2016%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 SuganoMusic | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ SuganoMusic | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方EUROBEAT ARRANGE BEST2016](./東方EUROBEAT_ARRANGE_BEST2016.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
+- [東方EUROBEAT ARRANGE BEST2016](./東方EUROBEAT_ARRANGE_BEST2016.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
   
-源地址：[[1]](https://pbs.twimg.com/media/CtGDGuxVYAEIrL_.jpg:large)
-  
-
-
-
-
+源地址：[\[1\]](https://pbs.twimg.com/media/CtGDGuxVYAEIrL_.jpg:large)  
 
 ---
 

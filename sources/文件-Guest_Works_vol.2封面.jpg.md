@@ -1,6 +1,6 @@
 # 文件:Guest_Works_vol.2封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\19\ns6%3AGuest_Works_vol%2E2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\19\ns6%3AGuest_Works_vol%2E2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Sound_Square | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ Sound_Square | 专辑封面 | 封面图片
   
 
 - [Guest Works vol.2](./Guest_Works_vol.2.md)
-
-
-
 
 
 ---

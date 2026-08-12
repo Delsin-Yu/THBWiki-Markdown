@@ -1,14 +1,11 @@
 # 文件:鬼神「Missing_Purple_Power」（绯想天符录）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\75\ns6%3A%E9%AC%BC%E7%A5%9E%E3%80%8CMissing_Purple_Power%E3%80%8D%EF%BC%88%E7%BB%AF%E6%83%B3%E5%A4%A9%E7%AC%A6%E5%BD%95%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\75\ns6%3A%E9%AC%BC%E7%A5%9E%E3%80%8CMissing_Purple_Power%E3%80%8D%EF%BC%88%E7%BB%AF%E6%83%B3%E5%A4%A9%E7%AC%A6%E5%BD%95%EF%BC%89%2Ejpg.html -->
 
 伊吹萃香 | 绯想天符录
 
 
 ## 摘要
-
-
-
 
 ---
 

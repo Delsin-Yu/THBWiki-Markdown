@@ -1,6 +1,6 @@
 # 文件:Phantom_Madchen_Doll_人の形が映せし幻封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\47\ns6%3APhantom_Madchen_Doll_%E4%BA%BA%E3%81%AE%E5%BD%A2%E3%81%8C%E6%98%A0%E3%81%9B%E3%81%97%E5%B9%BB%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\47\ns6%3APhantom_Madchen_Doll_%E4%BA%BA%E3%81%AE%E5%BD%A2%E3%81%8C%E6%98%A0%E3%81%9B%E3%81%97%E5%B9%BB%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 弦奏水琴乐章
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Phantom Madchen Doll 人の形が映せし幻](./Phantom_Madchen_Doll_人の形が映せし幻.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
-
-
-
+- [Phantom Madchen Doll 人の形が映せし幻](./Phantom_Madchen_Doll_人の形が映せし幻.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
 
 
 ---

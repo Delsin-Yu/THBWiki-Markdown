@@ -1,6 +1,6 @@
 # 文件:Welcome_to_Our_Hell封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\77\ns6%3AWelcome_to_Our_Hell%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\77\ns6%3AWelcome_to_Our_Hell%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 しおひがりrecords | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@
   
 
 - [Welcome to Our Hell](./Welcome_to_Our_Hell.md)
-
-
-
 
 
 ---

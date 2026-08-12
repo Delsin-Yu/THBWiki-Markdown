@@ -1,16 +1,12 @@
 # 文件:月華社logo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fd\ns6%3A%E6%9C%88%E8%8F%AF%E7%A4%BElogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fd\ns6%3A%E6%9C%88%E8%8F%AF%E7%A4%BElogo%2Ejpg.html -->
 
 月華社 | 社团LOGO
 
   
 月華社官方社团Logo
   
-
-
-
-
 
 ---
 

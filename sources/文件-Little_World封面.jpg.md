@@ -1,6 +1,6 @@
 # 文件:Little_World封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\29\ns6%3ALittle_World%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\29\ns6%3ALittle_World%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 けりぃのわんだぁらんどぅ | 专辑封面 | 封面图片
 
@@ -10,16 +10,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [Little World](./Little_World.md)  
-该封面包含的角色：- [娜兹玲](./娜兹玲.md)
+- [Little World](./Little_World.md)该封面包含的角色：
+- [娜兹玲](./娜兹玲.md)
 
   
 from TLMC scans
   
-
-
-
-
 
 ---
 

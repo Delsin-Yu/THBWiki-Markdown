@@ -1,6 +1,6 @@
 # 文件:PoroTecka封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5c\ns6%3APoroTecka%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5c\ns6%3APoroTecka%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Sound_Square | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Sound_Square | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [PoroTecka](./PoroTecka.md)  
-该封面包含的角色：- [河城荷取](./河城荷取.md)
+- [PoroTecka](./PoroTecka.md)该封面包含的角色：
+- [河城荷取](./河城荷取.md)
 
   
-源地址：[[1]](http://blog-imgs-35.fc2.com/s/o/u/soundsquare/PoroTecka_Jacket_500.png)
-  
-
-
-
-
+源地址：[\[1\]](http://blog-imgs-35.fc2.com/s/o/u/soundsquare/PoroTecka_Jacket_500.png)  
 
 ---
 

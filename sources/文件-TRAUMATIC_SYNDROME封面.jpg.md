@@ -1,6 +1,6 @@
 # 文件:TRAUMATIC_SYNDROME封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\46\ns6%3ATRAUMATIC_SYNDROME%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\46\ns6%3ATRAUMATIC_SYNDROME%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Adust_Rain | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Adust_Rain | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [TRAUMATIC SYNDROME](./TRAUMATIC_SYNDROME.md)  
-该封面包含的角色：- [古明地觉](./古明地觉.md)
+- [TRAUMATIC SYNDROME](./TRAUMATIC_SYNDROME.md)该封面包含的角色：
+- [古明地觉](./古明地觉.md)
 
   
-源地址：[direct image link (original size)](https://image.jimcdn.com/app/cms/image/transf/none/path/s2b48f01cf0d87509/image/i10db29783e67e21f/version/1429452925/image.jpg), [source page](https://adustrain.jimdofree.com/discography/)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://image.jimcdn.com/app/cms/image/transf/none/path/s2b48f01cf0d87509/image/i10db29783e67e21f/version/1429452925/image.jpg), [source page](https://adustrain.jimdofree.com/discography/)  
 
 ---
 

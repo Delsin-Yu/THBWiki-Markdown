@@ -1,6 +1,6 @@
 # 文件:Candy_Candy封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\de\ns6%3ACandy_Candy%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\de\ns6%3ACandy_Candy%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 せとらん | 同人志封面 | 封面图片
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [Candy Candy](./Candy_Candy.md)  
-该封面包含的角色：- [小恶魔](./小恶魔.md)- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
-
-
-
+- [Candy Candy](./Candy_Candy.md)该封面包含的角色：
+- [小恶魔](./小恶魔.md)
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
 
 
 ---

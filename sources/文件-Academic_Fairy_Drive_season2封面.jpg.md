@@ -1,6 +1,6 @@
 # 文件:Academic_Fairy_Drive_season2封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e3\ns6%3AAcademic_Fairy_Drive_season2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e3\ns6%3AAcademic_Fairy_Drive_season2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ACP9 | 专辑封面 | 封面图片
 
@@ -10,11 +10,9 @@ ACP9 | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Academic Fairy Drive season2](./Academic_Fairy_Drive_season2.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)- 原创角色 (未找到链接)
-
-
-
+- [Academic Fairy Drive season2](./Academic_Fairy_Drive_season2.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
+- 原创角色 (未找到链接)
 
 
 ---

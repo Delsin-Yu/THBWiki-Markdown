@@ -1,6 +1,6 @@
 # 文件:東方Hyper_Grooving_Jazz_Music_Vol.1封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\58\ns6%3A%E6%9D%B1%E6%96%B9Hyper_Grooving_Jazz_Music_Vol%2E1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\58\ns6%3A%E6%9D%B1%E6%96%B9Hyper_Grooving_Jazz_Music_Vol%2E1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 N!ESS | 专辑封面 | 封面图片 | 少女理論観測所
 
@@ -8,16 +8,14 @@ N!ESS | 专辑封面 | 封面图片 | 少女理論観測所
 使用了本文件作封面图片的作品：
   
 
-- [東方Hyper Grooving Jazz Music Vol.1](./東方Hyper_Grooving_Jazz_Music_Vol.1.md)  
-该封面包含的角色：- [键山雏](./键山雏.md)- [水桥帕露西](./水桥帕露西.md)- [火焰猫燐](./火焰猫燐.md)- [村纱水蜜](./村纱水蜜.md)
+- [東方Hyper Grooving Jazz Music Vol.1](./東方Hyper_Grooving_Jazz_Music_Vol.1.md)该封面包含的角色：
+- [键山雏](./键山雏.md)
+- [水桥帕露西](./水桥帕露西.md)
+- [火焰猫燐](./火焰猫燐.md)
+- [村纱水蜜](./村纱水蜜.md)
 
   
-源地址：[[1]](https://static.tumblr.com/f63a0862fa915e7374227f5a684bd95f/mlcopkp/07vpxx8hk/tumblr_static_a1nx8rg0hcoc4cckkcokg4c8c.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://static.tumblr.com/f63a0862fa915e7374227f5a684bd95f/mlcopkp/07vpxx8hk/tumblr_static_a1nx8rg0hcoc4cckkcokg4c8c.jpg)  
 
 ---
 

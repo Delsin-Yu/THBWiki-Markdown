@@ -1,6 +1,6 @@
 # 文件:東方天逆襲_～_Zenith_of_Antinomic_Monarch.封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ed\ns6%3A%E6%9D%B1%E6%96%B9%E5%A4%A9%E9%80%86%E8%A5%B2_%EF%BD%9E_Zenith_of_Antinomic_Monarch%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ed\ns6%3A%E6%9D%B1%E6%96%B9%E5%A4%A9%E9%80%86%E8%A5%B2_%EF%BD%9E_Zenith_of_Antinomic_Monarch%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Atelier_in_Wonderland | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Atelier_in_Wonderland | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方天逆襲 ～ Zenith of Antinomic Monarch.](./東方天逆襲_～_Zenith_of_Antinomic_Monarch..md)  
-该封面包含的角色：- [须佐天逆每](./须佐天逆每.md)
-
-
-
+- [東方天逆襲 ～ Zenith of Antinomic Monarch.](./東方天逆襲_～_Zenith_of_Antinomic_Monarch..md)该封面包含的角色：
+- [须佐天逆每](./须佐天逆每.md)
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:东方儚月抄_～_Cage_in_Lunatic_Runagate.（设定文档1）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b3\ns6%3A%E4%B8%9C%E6%96%B9%E5%84%9A%E6%9C%88%E6%8A%84_%EF%BD%9E_Cage_in_Lunatic_Runagate%2E%EF%BC%88%E8%AE%BE%E5%AE%9A%E6%96%87%E6%A1%A31%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b3\ns6%3A%E4%B8%9C%E6%96%B9%E5%84%9A%E6%9C%88%E6%8A%84_%EF%BD%9E_Cage_in_Lunatic_Runagate%2E%EF%BC%88%E8%AE%BE%E5%AE%9A%E6%96%87%E6%A1%A31%EF%BC%89%2Ejpg.html -->
 
 东方儚月抄_～_Cage_in_Lunatic_Runagate.
-
-
-
-
 
 
 ---

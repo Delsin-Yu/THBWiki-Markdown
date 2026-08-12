@@ -1,6 +1,6 @@
 # 文件:daisy_strategy封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5a\ns6%3Adaisy_strategy%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5a\ns6%3Adaisy_strategy%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 miskyworks | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ miskyworks | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [daisy strategy](./daisy_strategy.md)  
-该封面包含的角色：- [风见幽香](./风见幽香.md)
-
-
-
+- [daisy strategy](./daisy_strategy.md)该封面包含的角色：
+- [风见幽香](./风见幽香.md)
 
 
 ---

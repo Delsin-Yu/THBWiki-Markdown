@@ -1,6 +1,6 @@
 # 文件:HEART_BEAT_FORMULA封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\47\ns6%3AHEART_BEAT_FORMULA%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\47\ns6%3AHEART_BEAT_FORMULA%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Tribullets | 专辑封面 | 封面图片
 
@@ -8,16 +8,14 @@ Tribullets | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [HEART BEAT FORMULA](./HEART_BEAT_FORMULA.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)- [雾雨魔理沙](./雾雨魔理沙.md)
+- [HEART BEAT FORMULA](./HEART_BEAT_FORMULA.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-源地址：[[1]](http://tribullets.info/10_hbf/image/trbl-0010_jacket.png)
-  
-
-
-
-
+源地址：[\[1\]](http://tribullets.info/10_hbf/image/trbl-0010_jacket.png)  
 
 ---
 

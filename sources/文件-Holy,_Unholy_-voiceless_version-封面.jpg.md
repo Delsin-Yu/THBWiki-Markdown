@@ -1,6 +1,6 @@
 # 文件:Holy,_Unholy_-voiceless_version-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ce\ns6%3AHoly%2C_Unholy_-voiceless_version-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ce\ns6%3AHoly%2C_Unholy_-voiceless_version-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 岡垣正志＆フレンズ
 
@@ -11,9 +11,6 @@
   
 
 - [Holy, Unholy -voiceless version-](./Holy,_Unholy_-voiceless_version-.md)
-
-
-
 
 
 ---

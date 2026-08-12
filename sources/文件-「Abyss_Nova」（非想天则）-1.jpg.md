@@ -1,12 +1,8 @@
 # 文件:「Abyss_Nova」（非想天则）-1.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\32\ns6%3A%E3%80%8CAbyss_Nova%E3%80%8D%EF%BC%88%E9%9D%9E%E6%83%B3%E5%A4%A9%E5%88%99%EF%BC%89-1%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\32\ns6%3A%E3%80%8CAbyss_Nova%E3%80%8D%EF%BC%88%E9%9D%9E%E6%83%B3%E5%A4%A9%E5%88%99%EF%BC%89-1%2Ejpg.html -->
 
 东方非想天则 | 灵乌路空 | 自机符卡
-
-
-
-
 
 
 ---

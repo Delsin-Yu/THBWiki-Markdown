@@ -1,12 +1,8 @@
 # 文件:THD2木盾.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\43\ns6%3ATHD2%E6%9C%A8%E7%9B%BE%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\43\ns6%3ATHD2%E6%9C%A8%E7%9B%BE%2Epng.html -->
 
 AvalonStudioOfficial
-
-
-
-
 
 
 ---

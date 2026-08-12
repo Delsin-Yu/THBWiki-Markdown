@@ -1,12 +1,8 @@
 # 文件:くろがね堂banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\91\ns6%3A%E3%81%8F%E3%82%8D%E3%81%8C%E3%81%AD%E5%A0%82banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\91\ns6%3A%E3%81%8F%E3%82%8D%E3%81%8C%E3%81%AD%E5%A0%82banner%2Egif.html -->
 
 くろがね堂 | 社团LOGO
-
-
-
-
 
 
 ---

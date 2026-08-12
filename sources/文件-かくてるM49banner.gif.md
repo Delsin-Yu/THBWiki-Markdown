@@ -1,14 +1,11 @@
 # 文件:かくてるM49banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cb\ns6%3A%E3%81%8B%E3%81%8F%E3%81%A6%E3%82%8BM49banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cb\ns6%3A%E3%81%8B%E3%81%8F%E3%81%A6%E3%82%8BM49banner%2Egif.html -->
 
 かくてるM49 | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

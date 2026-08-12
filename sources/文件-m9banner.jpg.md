@@ -1,12 +1,8 @@
 # 文件:m9banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c1\ns6%3Am9banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c1\ns6%3Am9banner%2Ejpg.html -->
 
 m9 | 社团LOGO
-
-
-
-
 
 
 ---

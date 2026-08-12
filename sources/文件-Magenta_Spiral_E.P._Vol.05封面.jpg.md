@@ -1,6 +1,6 @@
 # 文件:Magenta_Spiral_E.P._Vol.05封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\93\ns6%3AMagenta_Spiral_E%2EP%2E_Vol%2E05%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\93\ns6%3AMagenta_Spiral_E%2EP%2E_Vol%2E05%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 MagentaSpiral | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ MagentaSpiral | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Magenta Spiral E.P. Vol.05](./Magenta_Spiral_E.P._Vol.05.md)  
-该封面包含的角色：- [少名针妙丸](./少名针妙丸.md)
+- [Magenta Spiral E.P. Vol.05](./Magenta_Spiral_E.P._Vol.05.md)该封面包含的角色：
+- [少名针妙丸](./少名针妙丸.md)
 
   
-源地址：[[1]](https://soundcloud.com/magentaspiral/magenta-spiral-ep05)
-  
-
-
-
-
+源地址：[\[1\]](https://soundcloud.com/magentaspiral/magenta-spiral-ep05)  
 
 ---
 

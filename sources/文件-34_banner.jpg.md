@@ -1,12 +1,8 @@
 # 文件:34_banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\81\ns6%3A34_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\81\ns6%3A34_banner%2Ejpg.html -->
 
 山紫水明 | 社团LOGO
-
-
-
-
 
 
 ---

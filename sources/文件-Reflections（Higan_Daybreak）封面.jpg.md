@@ -1,6 +1,6 @@
 # 文件:Reflections（Higan_Daybreak）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\62\ns6%3AReflections%EF%BC%88Higan_Daybreak%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\62\ns6%3AReflections%EF%BC%88Higan_Daybreak%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Higan_Daybreak | 专辑封面 | 封面图片
 
@@ -11,12 +11,7 @@ Higan_Daybreak | 专辑封面 | 封面图片
 - [Reflections（Higan Daybreak）](./Reflections（Higan_Daybreak）.md)
 
   
-源地址：[[1]](https://f4.bcbits.com/img/a3400905298_10.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://f4.bcbits.com/img/a3400905298_10.jpg)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:Caren封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f4\ns6%3ACaren%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f4\ns6%3ACaren%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Sound_-R- | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Sound_-R- | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Caren](./Caren.md)  
-该封面包含的角色：- 原创角色 (未找到链接)
-
-
-
+- [Caren](./Caren.md)该封面包含的角色：
+- 原创角色 (未找到链接)
 
 
 ---

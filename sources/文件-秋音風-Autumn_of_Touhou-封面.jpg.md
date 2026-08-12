@@ -1,6 +1,6 @@
 # 文件:秋音風-Autumn_of_Touhou-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f1\ns6%3A%E7%A7%8B%E9%9F%B3%E9%A2%A8-Autumn_of_Touhou-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f1\ns6%3A%E7%A7%8B%E9%9F%B3%E9%A2%A8-Autumn_of_Touhou-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Elemental_note | 专辑封面 | 封面图片
 
@@ -10,16 +10,12 @@ Elemental_note | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [秋音風-Autumn of Touhou-](./秋音風-Autumn_of_Touhou-.md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)
+- [秋音風-Autumn of Touhou-](./秋音風-Autumn_of_Touhou-.md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
 
   
 image from TLMC scans
   
-
-
-
-
 
 ---
 

@@ -1,12 +1,8 @@
 # 文件:骊驹早鬼（鬼形兽立绘）an.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\19\ns6%3A%E9%AA%8A%E9%A9%B9%E6%97%A9%E9%AC%BC%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89an%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\19\ns6%3A%E9%AA%8A%E9%A9%B9%E6%97%A9%E9%AC%BC%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%AB%8B%E7%BB%98%EF%BC%89an%2Epng.html -->
 
 ZUN绘 | 东方鬼形兽 | 官方游戏立绘 | 骊驹早鬼
-
-
-
-
 
 
 ---

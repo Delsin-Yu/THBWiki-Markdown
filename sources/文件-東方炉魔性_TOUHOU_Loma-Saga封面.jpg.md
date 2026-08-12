@@ -1,6 +1,6 @@
 # 文件:東方炉魔性_TOUHOU_Loma-Saga封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d4\ns6%3A%E6%9D%B1%E6%96%B9%E7%82%89%E9%AD%94%E6%80%A7_TOUHOU_Loma-Saga%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d4\ns6%3A%E6%9D%B1%E6%96%B9%E7%82%89%E9%AD%94%E6%80%A7_TOUHOU_Loma-Saga%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 趣味工房にんじんわいん
 
@@ -8,11 +8,15 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方炉魔性 TOUHOU Loma-Saga](./東方炉魔性_TOUHOU_Loma-Saga.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)- [橙](./橙.md)- [魂魄妖梦](./魂魄妖梦.md)- [河城荷取](./河城荷取.md)- [洩矢诹访子](./洩矢诹访子.md)- [古明地觉](./古明地觉.md)
-
-
-
+- [東方炉魔性 TOUHOU Loma-Saga](./東方炉魔性_TOUHOU_Loma-Saga.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [橙](./橙.md)
+- [魂魄妖梦](./魂魄妖梦.md)
+- [河城荷取](./河城荷取.md)
+- [洩矢诹访子](./洩矢诹访子.md)
+- [古明地觉](./古明地觉.md)
 
 
 ---

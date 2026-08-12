@@ -1,12 +1,8 @@
 # 文件:爱丽丝（Q版立绘）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a2\ns6%3A%E7%88%B1%E4%B8%BD%E4%B8%9D%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a2\ns6%3A%E7%88%B1%E4%B8%BD%E4%B8%9D%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89%2Epng.html -->
 
 Wiki角色列表用图
-
-
-
-
 
 
 ---

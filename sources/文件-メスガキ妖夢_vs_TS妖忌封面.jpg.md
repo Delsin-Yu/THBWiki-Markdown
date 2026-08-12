@@ -1,6 +1,6 @@
 # 文件:メスガキ妖夢_vs_TS妖忌封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6f\ns6%3A%E3%83%A1%E3%82%B9%E3%82%AC%E3%82%AD%E5%A6%96%E5%A4%A2_vs_TS%E5%A6%96%E5%BF%8C%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6f\ns6%3A%E3%83%A1%E3%82%B9%E3%82%AC%E3%82%AD%E5%A6%96%E5%A4%A2_vs_TS%E5%A6%96%E5%BF%8C%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 いんどの宮殿！ | 同人志封面 | 封面图片
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [メスガキ妖夢 vs TS妖忌](./メスガキ妖夢_vs_TS妖忌.md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)- [魂魄妖忌](./魂魄妖忌.md)
-
-
-
+- [メスガキ妖夢 vs TS妖忌](./メスガキ妖夢_vs_TS妖忌.md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
+- [魂魄妖忌](./魂魄妖忌.md)
 
 
 ---

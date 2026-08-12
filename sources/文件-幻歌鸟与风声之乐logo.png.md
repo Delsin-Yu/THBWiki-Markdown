@@ -1,6 +1,6 @@
 # 文件:幻歌鸟与风声之乐logo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\12\ns6%3A%E5%B9%BB%E6%AD%8C%E9%B8%9F%E4%B8%8E%E9%A3%8E%E5%A3%B0%E4%B9%8B%E4%B9%90logo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\12\ns6%3A%E5%B9%BB%E6%AD%8C%E9%B8%9F%E4%B8%8E%E9%A3%8E%E5%A3%B0%E4%B9%8B%E4%B9%90logo%2Epng.html -->
 
 幻歌鸟与风声之乐 | 社团LOGO
 
@@ -9,10 +9,6 @@
   
 社团幻歌鸟与风声之乐logo
   
-
-
-
-
 
 ---
 

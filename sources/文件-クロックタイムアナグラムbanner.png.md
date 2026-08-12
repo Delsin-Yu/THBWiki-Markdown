@@ -1,18 +1,13 @@
 # 文件:クロックタイムアナグラムbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\77\ns6%3A%E3%82%AF%E3%83%AD%E3%83%83%E3%82%AF%E3%82%BF%E3%82%A4%E3%83%A0%E3%82%A2%E3%83%8A%E3%82%B0%E3%83%A9%E3%83%A0banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\77\ns6%3A%E3%82%AF%E3%83%AD%E3%83%83%E3%82%AF%E3%82%BF%E3%82%A4%E3%83%A0%E3%82%A2%E3%83%8A%E3%82%B0%E3%83%A9%E3%83%A0banner%2Epng.html -->
 
 クロックタイムアナグラム | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[[1]](https://blog-imgs-45.fc2.com/l/i/q/liquidlimelight/cta_ban.png)
-  
-
-
-
-
+源地址：[\[1\]](https://blog-imgs-45.fc2.com/l/i/q/liquidlimelight/cta_ban.png)  
 
 ---
 

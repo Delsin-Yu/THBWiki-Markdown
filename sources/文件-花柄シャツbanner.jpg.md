@@ -1,12 +1,8 @@
 # 文件:花柄シャツbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\64\ns6%3A%E8%8A%B1%E6%9F%84%E3%82%B7%E3%83%A3%E3%83%84banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\64\ns6%3A%E8%8A%B1%E6%9F%84%E3%82%B7%E3%83%A3%E3%83%84banner%2Ejpg.html -->
 
 社团LOGO | 花柄シャツ
-
-
-
-
 
 
 ---

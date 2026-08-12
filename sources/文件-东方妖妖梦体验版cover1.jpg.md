@@ -1,12 +1,8 @@
 # 文件:东方妖妖梦体验版cover1.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\54\ns6%3A%E4%B8%9C%E6%96%B9%E5%A6%96%E5%A6%96%E6%A2%A6%E4%BD%93%E9%AA%8C%E7%89%88cover1%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\54\ns6%3A%E4%B8%9C%E6%96%B9%E5%A6%96%E5%A6%96%E6%A2%A6%E4%BD%93%E9%AA%8C%E7%89%88cover1%2Ejpg.html -->
 
 东方妖妖梦 | 官方游戏体验版光盘扫图
-
-
-
-
 
 
 ---

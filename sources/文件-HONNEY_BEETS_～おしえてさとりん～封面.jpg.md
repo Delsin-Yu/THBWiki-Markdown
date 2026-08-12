@@ -1,6 +1,6 @@
 # 文件:HONNEY_BEETS_～おしえてさとりん～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\71\ns6%3AHONNEY_BEETS_%EF%BD%9E%E3%81%8A%E3%81%97%E3%81%88%E3%81%A6%E3%81%95%E3%81%A8%E3%82%8A%E3%82%93%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\71\ns6%3AHONNEY_BEETS_%EF%BD%9E%E3%81%8A%E3%81%97%E3%81%88%E3%81%A6%E3%81%95%E3%81%A8%E3%82%8A%E3%82%93%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Q-BIT | たけのこ。 | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Q-BIT | たけのこ。 | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [HONNEY BEETS ～おしえてさとりん～](./HONNEY_BEETS_～おしえてさとりん～.md)  
-该封面包含的角色：- [古明地觉](./古明地觉.md)
-
-
-
+- [HONNEY BEETS ～おしえてさとりん～](./HONNEY_BEETS_～おしえてさとりん～.md)该封面包含的角色：
+- [古明地觉](./古明地觉.md)
 
 
 ---

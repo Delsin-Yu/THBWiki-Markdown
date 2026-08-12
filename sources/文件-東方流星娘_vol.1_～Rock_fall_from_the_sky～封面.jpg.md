@@ -1,6 +1,6 @@
 # 文件:東方流星娘_vol.1_～Rock_fall_from_the_sky～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\70\ns6%3A%E6%9D%B1%E6%96%B9%E6%B5%81%E6%98%9F%E5%A8%98_vol%2E1_%EF%BD%9ERock_fall_from_the_sky%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\70\ns6%3A%E6%9D%B1%E6%96%B9%E6%B5%81%E6%98%9F%E5%A8%98_vol%2E1_%EF%BD%9ERock_fall_from_the_sky%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 めておすたじお | 专辑封面 | 封面图片
 
@@ -8,11 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方流星娘 vol.1 ～Rock fall from the sky～](./東方流星娘_vol.1_～Rock_fall_from_the_sky～.md)  
-该封面包含的角色：- [河城荷取](./河城荷取.md)- [东风谷早苗](./东风谷早苗.md)- [灵乌路空](./灵乌路空.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [東方流星娘 vol.1 ～Rock fall from the sky～](./東方流星娘_vol.1_～Rock_fall_from_the_sky～.md)该封面包含的角色：
+- [河城荷取](./河城荷取.md)
+- [东风谷早苗](./东风谷早苗.md)
+- [灵乌路空](./灵乌路空.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

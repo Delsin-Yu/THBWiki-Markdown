@@ -1,6 +1,6 @@
 # 文件:Der_Rattenfänger_von_Hameln封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\25\ns6%3ADer_Rattenf%C3%A4nger_von_Hameln%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\25\ns6%3ADer_Rattenf%C3%A4nger_von_Hameln%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Grimoire_Technology | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Grimoire_Technology | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Der Rattenfänger von Hameln](./Der_Rattenfänger_von_Hameln.md)  
-该封面包含的角色：- 原创角色 (未找到链接)
-
-
-
+- [Der Rattenfänger von Hameln](./Der_Rattenfänger_von_Hameln.md)该封面包含的角色：
+- 原创角色 (未找到链接)
 
 
 ---

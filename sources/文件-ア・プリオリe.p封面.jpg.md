@@ -1,6 +1,6 @@
 # 文件:ア・プリオリe.p封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\37\ns6%3A%E3%82%A2%E3%83%BB%E3%83%97%E3%83%AA%E3%82%AA%E3%83%AAe%2Ep%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\37\ns6%3A%E3%82%A2%E3%83%BB%E3%83%97%E3%83%AA%E3%82%AA%E3%83%AAe%2Ep%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 アオイツキヲミテタ | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [ア・プリオリe.p](./ア・プリオリe.p.md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)
-
-
-
+- [ア・プリオリe.p](./ア・プリオリe.p.md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
 
 
 ---

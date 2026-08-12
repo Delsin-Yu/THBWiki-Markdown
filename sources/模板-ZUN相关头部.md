@@ -1,16 +1,12 @@
 # 模板:ZUN相关头部
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\6\6e\ns10%3AZUN%E7%9B%B8%E5%85%B3%E5%A4%B4%E9%83%A8.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\6\6e\ns10%3AZUN%E7%9B%B8%E5%85%B3%E5%A4%B4%E9%83%A8.html -->
 
 头部模板
 
 本页是关于  
- **[与ZUN有一定关联的非东方事物](./东方关联人物列表.md)** 的词条  
+**[与ZUN有一定关联的非东方事物](./东方关联人物列表.md)**的词条  
 ‎  
-
-
-
-
 
 ---
 

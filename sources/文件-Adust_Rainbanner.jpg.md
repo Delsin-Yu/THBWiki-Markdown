@@ -1,16 +1,11 @@
 # 文件:Adust_Rainbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2a\ns6%3AAdust_Rainbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2a\ns6%3AAdust_Rainbanner%2Ejpg.html -->
 
 Adust_Rain | 社团LOGO
 
   
-源地址：[[1]](https://image.jimcdn.com/app/cms/image/transf/none/path/s2b48f01cf0d87509/image/ibc18478989c2a92e/version/1430919662/image.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://image.jimcdn.com/app/cms/image/transf/none/path/s2b48f01cf0d87509/image/ibc18478989c2a92e/version/1430919662/image.jpg)  
 
 ---
 

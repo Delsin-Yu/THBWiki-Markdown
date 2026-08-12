@@ -1,6 +1,6 @@
 # 文件:Excavated_Anthems封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\91\ns6%3AExcavated_Anthems%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\91\ns6%3AExcavated_Anthems%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 EastNewSound | 专辑封面 | 封面图片
 
@@ -10,11 +10,11 @@ EastNewSound | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Excavated Anthems](./Excavated_Anthems.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [八坂神奈子](./八坂神奈子.md)- [圣白莲](./圣白莲.md)
-
-
-
+- [Excavated Anthems](./Excavated_Anthems.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [八坂神奈子](./八坂神奈子.md)
+- [圣白莲](./圣白莲.md)
 
 
 ---

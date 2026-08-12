@@ -1,14 +1,10 @@
 # 分类:TBSGroup
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\5\52\ns14%3ATBSGroup.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\5\52\ns14%3ATBSGroup.html -->
 
 
 
-: 此分类页面的主词条是 **[TBSGroup](./TBSGroup.md)** 。
-
-
-
-
+: 此分类页面的主词条是**[TBSGroup](./TBSGroup.md)**。
 
 ---
 

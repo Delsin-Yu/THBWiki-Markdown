@@ -1,6 +1,6 @@
 # 文件:幻想少女論_-Toho_Hardcore_compilation_&_illustration_books-封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\10\ns6%3A%E5%B9%BB%E6%83%B3%E5%B0%91%E5%A5%B3%E8%AB%96_-Toho_Hardcore_compilation_%26_illustration_books-%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\10\ns6%3A%E5%B9%BB%E6%83%B3%E5%B0%91%E5%A5%B3%E8%AB%96_-Toho_Hardcore_compilation_%26_illustration_books-%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 A.M.A | dat_file_records | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ A.M.A | dat_file_records | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [幻想少女論 -Toho Hardcore compilation &amp; illustration books-](./幻想少女論_-Toho_Hardcore_compilation_&_illustration_books-.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
+- [幻想少女論 -Toho Hardcore compilation & illustration books-](./幻想少女論_-Toho_Hardcore_compilation_&_illustration_books-.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
   
-源地址：[[1]](https://static.wixstatic.com/media/d48567_33c3892c5c8b4c6685119b5d7d76bcf4.png/v1/fill/w_474,h_470,al_c,usm_0.66_1.00_0.01/d48567_33c3892c5c8b4c6685119b5d7d76bcf4.png)
-  
-
-
-
-
+源地址：[\[1\]](https://static.wixstatic.com/media/d48567_33c3892c5c8b4c6685119b5d7d76bcf4.png/v1/fill/w_474,h_470,al_c,usm_0.66_1.00_0.01/d48567_33c3892c5c8b4c6685119b5d7d76bcf4.png)  
 
 ---
 

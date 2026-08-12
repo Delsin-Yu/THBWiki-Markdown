@@ -1,47 +1,41 @@
 # DesireDrive_～孤独な願い～
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\5\52\ns0%3ADesireDrive_%EF%BD%9E%E5%AD%A4%E7%8B%AC%E3%81%AA%E9%A1%98%E3%81%84%EF%BD%9E.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\5\52\ns0%3ADesireDrive_%EF%BD%9E%E5%AD%A4%E7%8B%AC%E3%81%AA%E9%A1%98%E3%81%84%EF%BD%9E.html -->
 
 2019年12月31日 由 L-ZONE 于 Comic Market 97 发布的单曲同人专辑，曲目主要风格是 Rock，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人专辑 (未找到链接)** 的词条
-
+**[二次创作同人专辑](./二次创作.md#同人音乐)**的词条
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-DesireDrive_～孤独な願い～封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/8/87/DesireDrive_%EF%BD%9E%E5%AD%A4%E7%8B%AC%E3%81%AA%E9%A1%98%E3%81%84%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg/252px-DesireDrive_%EF%BD%9E%E5%AD%A4%E7%8B%AC%E3%81%AA%E9%A1%98%E3%81%84%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="252" height="252" srcset="https://upload.thwiki.cc/thumb/8/87/DesireDrive_%EF%BD%9E%E5%AD%A4%E7%8B%AC%E3%81%AA%E9%A1%98%E3%81%84%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg/378px-DesireDrive_%EF%BD%9E%E5%AD%A4%E7%8B%AC%E3%81%AA%E9%A1%98%E3%81%84%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/8/87/DesireDrive_%EF%BD%9E%E5%AD%A4%E7%8B%AC%E3%81%AA%E9%A1%98%E3%81%84%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="483" data-file-height="483"></a><div class="cover-char">角色：<a href="./霍青娥.md" title="霍青娥">霍青娥</a></div></td>
 </tr><tr><td class="label">名称</td><td colspan="2"> DesireDrive ～孤独な願い～ </td></tr><tr><td class="label">制作方</td><td><a href="./L-ZONE.md" title="L-ZONE">L-ZONE</a></td><td class="cover-artwork" rowspan="9" style="min-width:252px;"><a href="./文件-DesireDrive_～孤独な願い～封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/8/87/DesireDrive_%EF%BD%9E%E5%AD%A4%E7%8B%AC%E3%81%AA%E9%A1%98%E3%81%84%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg/252px-DesireDrive_%EF%BD%9E%E5%AD%A4%E7%8B%AC%E3%81%AA%E9%A1%98%E3%81%84%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="252" height="252" srcset="https://upload.thwiki.cc/thumb/8/87/DesireDrive_%EF%BD%9E%E5%AD%A4%E7%8B%AC%E3%81%AA%E9%A1%98%E3%81%84%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg/378px-DesireDrive_%EF%BD%9E%E5%AD%A4%E7%8B%AC%E3%81%AA%E9%A1%98%E3%81%84%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/8/87/DesireDrive_%EF%BD%9E%E5%AD%A4%E7%8B%AC%E3%81%AA%E9%A1%98%E3%81%84%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="483" data-file-height="483"></a><div class="cover-char">角色：<a href="./霍青娥.md" title="霍青娥">霍青娥</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2019-12-31&#160;（<a href="/展会作品列表?e=Comic+Market%2397">Comic Market 97</a>）</td></tr><tr><td class="label">类型</td><td>单曲</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>4</td></tr><tr><td class="label">总时长</td><td>00:00</td></tr><tr><td class="label">风格类型</td><td>Rock</td></tr><tr><td class="label">售价</td><td>会场售价：500日元<br>通贩售价：799日元</td></tr>
+</tr><tr><td class="label">首发日期</td><td>2019-12-31 （<a href="./展会作品列表.md#97">Comic Market 97</a>）</td></tr><tr><td class="label">类型</td><td>单曲</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>4</td></tr><tr><td class="label">总时长</td><td>00:00</td></tr><tr><td class="label">风格类型</td><td>Rock</td></tr><tr><td class="label">售价</td><td>会场售价：500日元<br>通贩售价：799日元</td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/midori3x9/status/1210553296395464704">https://twitter.com/midori3x9/status/1210553296395464704</a></td></tr></tbody></table>
 
 DesireDrive ～孤独な願い～（同人专辑，L-ZONE，2019） - 2019年12月31日 由 L-ZONE 于 Comic Market 97 发布的单曲同人专辑，曲目主要风格是 Rock，分级为 一般向
-
 ## Staff
   
- **Arrangement**   
+**Arrangement**  
 
 <table><tbody><tr><td><a href="./翠.md" title="翠">翠</a></td><td><a href="./L-ZONE.md" title="L-ZONE">L-ZONE</a></td><td>Tr.1-4</td></tr></tbody></table>
 
   
- **Vocal**   
+**Vocal**  
 
 <table><tbody><tr><td><a href="./翠.md" title="翠">翠</a></td><td><a href="./L-ZONE.md" title="L-ZONE">L-ZONE</a></td><td>Tr.1/2</td></tr></tbody></table>
 
   
- **Lyrics**   
+**Lyrics**  
 
 <table><tbody><tr><td><a href="./翠.md" title="翠">翠</a></td><td><a href="./L-ZONE.md" title="L-ZONE">L-ZONE</a></td><td>Tr.1/2</td></tr></tbody></table>
-
 
 Illustration
 : crossKE (未找到链接)
 
-
 ## 试听
   
-[Twitter XFD](https://twitter.com/midori3x9/status/1210553296395464704)
-  
-
+[Twitter XFD](https://twitter.com/midori3x9/status/1210553296395464704)  
 
 <table>
 
@@ -53,20 +47,15 @@ Illustration
 </td></tr></tbody></table>
 
 
-
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoRD"><b>01</b></td><td id="DesireDrive_～孤独な願い～" colspan="2" class="title"><span class="new" title="（歌词页面不存在）"><a href="/index.php?title=%E6%AD%8C%E8%AF%8D:DesireDrive_%EF%BD%9E%E5%AD%A4%E7%8B%AC%E3%81%AA%E9%A1%98%E3%81%84%EF%BD%9E&amp;boilerplate=模板:页面模板/曲目歌词&amp;action=edit">DesireDrive ～孤独な願い～</a></span><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=翠&amp;vocal=翠&amp;lyric=翠&amp;ogmusic=デザイアドライブ&amp;fromwiki=DesireDrive_～孤独な願い～"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./翠.md" title="翠">翠</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，翠&amp;fromwiki=DesireDrive_～孤独な願い～"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="./翠.md" title="翠">翠</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=翠&amp;fromwiki=DesireDrive_～孤独な願い～"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="./翠.md" title="翠">翠</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?lyric=翠&amp;fromwiki=DesireDrive_～孤独な願い～"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=デザイアドライブ&amp;fromwiki=DesireDrive_～孤独な願い～"><span></span></a></span><div class="ogmusic"><a href="./デザイアドライブ.md" class="mw-redirect" title="デザイアドライブ">デザイアドライブ</a></div><div class="source"><a href="./东方神灵庙_～_Ten_Desires..md" class="mw-redirect" title="东方神灵庙 ～ Ten Desires.">东方神灵庙　～ Ten Desires.</a></div></td></tr>
-<tr><td id="2" class="infoRD"><b>02</b></td><td id="Confusion_～交差する想い～" colspan="2" class="title"><span class="new" title="（歌词页面不存在）"><a href="/index.php?title=%E6%AD%8C%E8%AF%8D:Confusion_%EF%BD%9E%E4%BA%A4%E5%B7%AE%E3%81%99%E3%82%8B%E6%83%B3%E3%81%84%EF%BD%9E&amp;boilerplate=模板:页面模板/曲目歌词&amp;action=edit">Confusion ～交差する想い～</a></span><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=翠&amp;vocal=翠&amp;lyric=翠&amp;ogmusic=ヴワル魔法図書館，ラクトガール　～ 少女密室&amp;fromwiki=DesireDrive_～孤独な願い～"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./翠.md" title="翠">翠</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，翠&amp;fromwiki=DesireDrive_～孤独な願い～"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="./翠.md" title="翠">翠</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=翠&amp;fromwiki=DesireDrive_～孤独な願い～"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="./翠.md" title="翠">翠</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?lyric=翠&amp;fromwiki=DesireDrive_～孤独な願い～"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=ヴワル魔法図書館，ラクトガール　～ 少女密室&amp;fromwiki=DesireDrive_～孤独な願い～"><span></span></a></span><div class="ogmusic"><a href="./ヴワル魔法図書館.md" class="mw-redirect" title="ヴワル魔法図書館">ヴワル魔法図書館</a></div><div class="ogmusic"><a href="./ラクトガール_～_少女密室.md" class="mw-redirect" title="ラクトガール ～ 少女密室">ラクトガール　～ 少女密室</a></div><div class="source"><a href="./东方红魔乡_～_the_Embodiment_of_Scarlet_Devil..md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr>
-<tr><td id="3" class="infoYD"><b>03</b></td><td id="DesireDrive_～孤独な願い～_OffVocal" colspan="2" class="title">DesireDrive ～孤独な願い～ OffVocal<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=翠&amp;ogmusic=デザイアドライブ&amp;fromwiki=DesireDrive_～孤独な願い～"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./翠.md" title="翠">翠</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，翠&amp;fromwiki=DesireDrive_～孤独な願い～"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=デザイアドライブ&amp;fromwiki=DesireDrive_～孤独な願い～"><span></span></a></span><div class="ogmusic"><a href="./デザイアドライブ.md" class="mw-redirect" title="デザイアドライブ">デザイアドライブ</a></div><div class="source"><a href="./东方神灵庙_～_Ten_Desires..md" class="mw-redirect" title="东方神灵庙 ～ Ten Desires.">东方神灵庙　～ Ten Desires.</a></div></td></tr>
-<tr><td id="4" class="infoYD"><b>04</b></td><td id="Confusion_～交差する想い～_OffVocal" colspan="2" class="title">Confusion ～交差する想い～ OffVocal<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=翠&amp;ogmusic=ヴワル魔法図書館，ラクトガール　～ 少女密室&amp;fromwiki=DesireDrive_～孤独な願い～"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./翠.md" title="翠">翠</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，翠&amp;fromwiki=DesireDrive_～孤独な願い～"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=ヴワル魔法図書館，ラクトガール　～ 少女密室&amp;fromwiki=DesireDrive_～孤独な願い～"><span></span></a></span><div class="ogmusic"><a href="./ヴワル魔法図書館.md" class="mw-redirect" title="ヴワル魔法図書館">ヴワル魔法図書館</a></div><div class="ogmusic"><a href="./ラクトガール_～_少女密室.md" class="mw-redirect" title="ラクトガール ～ 少女密室">ラクトガール　～ 少女密室</a></div><div class="source"><a href="./东方红魔乡_～_the_Embodiment_of_Scarlet_Devil..md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr></tbody></table>
-
+<table><tbody><tr><td id="1" class="infoRD"><b>01</b></td><td id="DesireDrive_～孤独な願い～" colspan="2" class="title"><span class="new" title="（歌词页面不存在）"><a>DesireDrive ～孤独な願い～</a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./翠.md" title="翠">翠</a></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="./翠.md" title="翠">翠</a></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="./翠.md" title="翠">翠</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./Desire_Drive.md" class="mw-redirect" title="デザイアドライブ">デザイアドライブ</a></div><div class="source"><a href="./东方神灵庙.md" class="mw-redirect" title="东方神灵庙 ～ Ten Desires.">东方神灵庙　～ Ten Desires.</a></div></td></tr>
+<tr><td id="2" class="infoRD"><b>02</b></td><td id="Confusion_～交差する想い～" colspan="2" class="title"><span class="new" title="（歌词页面不存在）"><a>Confusion ～交差する想い～</a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./翠.md" title="翠">翠</a></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="./翠.md" title="翠">翠</a></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="./翠.md" title="翠">翠</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./伏瓦鲁魔法图书馆.md" class="mw-redirect" title="ヴワル魔法図書館">ヴワル魔法図書館</a></div><div class="ogmusic"><a href="./Locked_Girl_～_少女密室.md" class="mw-redirect" title="ラクトガール ～ 少女密室">ラクトガール　～ 少女密室</a></div><div class="source"><a href="./东方红魔乡.md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr>
+<tr><td id="3" class="infoYD"><b>03</b></td><td id="DesireDrive_～孤独な願い～_OffVocal" colspan="2" class="title">DesireDrive ～孤独な願い～ OffVocal</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./翠.md" title="翠">翠</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./Desire_Drive.md" class="mw-redirect" title="デザイアドライブ">デザイアドライブ</a></div><div class="source"><a href="./东方神灵庙.md" class="mw-redirect" title="东方神灵庙 ～ Ten Desires.">东方神灵庙　～ Ten Desires.</a></div></td></tr>
+<tr><td id="4" class="infoYD"><b>04</b></td><td id="Confusion_～交差する想い～_OffVocal" colspan="2" class="title">Confusion ～交差する想い～ OffVocal</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./翠.md" title="翠">翠</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./伏瓦鲁魔法图书馆.md" class="mw-redirect" title="ヴワル魔法図書館">ヴワル魔法図書館</a></div><div class="ogmusic"><a href="./Locked_Girl_～_少女密室.md" class="mw-redirect" title="ラクトガール ～ 少女密室">ラクトガール　～ 少女密室</a></div><div class="source"><a href="./东方红魔乡.md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr></tbody></table>
 
 
 ## 评论
-
-
-
 
 ---
 

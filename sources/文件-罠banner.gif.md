@@ -1,18 +1,13 @@
 # 文件:罠banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a6\ns6%3A%E7%BD%A0banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a6\ns6%3A%E7%BD%A0banner%2Egif.html -->
 
 社团LOGO | 罠
 
 
 ## 文件说明
   
-源地址：[direct image link](https://web.archive.org/web/20120712134921im_/http://file.wana.blog.shinobi.jp/Img/1240855550/), [source page](https://web.archive.org/web/20120712134919/http://wana.blog.shinobi.jp/Category/1/)
-  
-
-
-
-
+源地址：[direct image link](https://web.archive.org/web/20120712134921im_/http://file.wana.blog.shinobi.jp/Img/1240855550/), [source page](https://web.archive.org/web/20120712134919/http://wana.blog.shinobi.jp/Category/1/)  
 
 ---
 

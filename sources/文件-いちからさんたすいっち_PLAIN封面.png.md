@@ -1,6 +1,6 @@
 # 文件:いちからさんたすいっち_PLAIN封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\34\ns6%3A%E3%81%84%E3%81%A1%E3%81%8B%E3%82%89%E3%81%95%E3%82%93%E3%81%9F%E3%81%99%E3%81%84%E3%81%A3%E3%81%A1_PLAIN%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\34\ns6%3A%E3%81%84%E3%81%A1%E3%81%8B%E3%82%89%E3%81%95%E3%82%93%E3%81%9F%E3%81%99%E3%81%84%E3%81%A3%E3%81%A1_PLAIN%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 なべぞこ | 同人志封面 | 封面图片
 
@@ -8,11 +8,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [いちからさんたすいっち PLAIN](./いちからさんたすいっち_PLAIN.md)  
-该封面包含的角色：- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [いちからさんたすいっち PLAIN](./いちからさんたすいっち_PLAIN.md)该封面包含的角色：
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

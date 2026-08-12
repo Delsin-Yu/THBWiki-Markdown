@@ -1,6 +1,6 @@
 # 文件:extratone_e.p.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e3\ns6%3Aextratone_e%2Ep%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e3\ns6%3Aextratone_e%2Ep%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 きりかぶ煮込み | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@
   
 
 - [extratone e.p.](./extratone_e.p..md)
-
-
-
 
 
 ---

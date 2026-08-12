@@ -1,12 +1,8 @@
 # 文件:绘墨文坊banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8a\ns6%3A%E7%BB%98%E5%A2%A8%E6%96%87%E5%9D%8Abanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8a\ns6%3A%E7%BB%98%E5%A2%A8%E6%96%87%E5%9D%8Abanner%2Ejpg.html -->
 
 社团LOGO | 绘墨文坊
-
-
-
-
 
 
 ---

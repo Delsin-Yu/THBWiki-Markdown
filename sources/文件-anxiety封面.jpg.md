@@ -1,6 +1,6 @@
 # 文件:anxiety封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7e\ns6%3Aanxiety%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7e\ns6%3Aanxiety%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 laughing_out_loud | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ laughing_out_loud | 专辑封面 | 封面图片
   
 
 - [anxiety](./anxiety.md)
-
-
-
 
 
 ---

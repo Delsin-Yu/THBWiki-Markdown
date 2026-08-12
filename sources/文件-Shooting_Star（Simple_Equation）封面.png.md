@@ -1,6 +1,6 @@
 # 文件:Shooting_Star（Simple_Equation）封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\97\ns6%3AShooting_Star%EF%BC%88Simple_Equation%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\97\ns6%3AShooting_Star%EF%BC%88Simple_Equation%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Simple_Equation | 专辑封面 | 封面图片
 
@@ -8,12 +8,9 @@ Simple_Equation | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Shooting Star（Simple Equation）](./Shooting_Star（Simple_Equation）.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)源地址：[[1]](https://i.imgur.com/4c15Y.png)
-
-
-
-
+- [Shooting Star（Simple Equation）](./Shooting_Star（Simple_Equation）.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
+源地址：[\[1\]](https://i.imgur.com/4c15Y.png)
 
 ---
 

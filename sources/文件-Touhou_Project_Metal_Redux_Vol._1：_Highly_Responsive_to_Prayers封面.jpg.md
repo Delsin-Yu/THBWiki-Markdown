@@ -1,6 +1,6 @@
 # 文件:Touhou_Project_Metal_Redux_Vol._1：_Highly_Responsive_to_Prayers封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\48\ns6%3ATouhou_Project_Metal_Redux_Vol%2E_1%EF%BC%9A_Highly_Responsive_to_Prayers%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\48\ns6%3ATouhou_Project_Metal_Redux_Vol%2E_1%EF%BC%9A_Highly_Responsive_to_Prayers%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Vats_of_Goo | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@ Vats_of_Goo | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Touhou Project Metal Redux Vol. 1： Highly Responsive to Prayers](./Touhou_Project_Metal_Redux_Vol._1：_Highly_Responsive_to_Prayers.md)  
-该封面包含的角色：- [博丽灵梦（旧作角色）](./博丽灵梦（旧作角色）.md)
+- [Touhou Project Metal Redux Vol. 1： Highly Responsive to Prayers](./Touhou_Project_Metal_Redux_Vol._1：_Highly_Responsive_to_Prayers.md)该封面包含的角色：
+- [博丽灵梦（旧作角色）](./博丽灵梦（旧作角色）.md)
 
   
-源地址：[direct image link (10 size)](https://f4.bcbits.com/img/a2464961260_10.jpg), [source page (artist Bandcamp)](https://vatsofgoo.bandcamp.com/album/touhou-project-metal-redux-vol-1-highly-responsive-to-prayers)
-  
-
-
-
-
+源地址：[direct image link (10 size)](https://f4.bcbits.com/img/a2464961260_10.jpg), [source page (artist Bandcamp)](https://vatsofgoo.bandcamp.com/album/touhou-project-metal-redux-vol-1-highly-responsive-to-prayers)  
 
 ---
 

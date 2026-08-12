@@ -1,18 +1,13 @@
 # 文件:Winter_Cannellelogo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9a\ns6%3AWinter_Cannellelogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9a\ns6%3AWinter_Cannellelogo%2Ejpg.html -->
 
 Winter_Cannelle | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[Facebook Logo](https://scontent.fyvr3-1.fna.fbcdn.net/v/t31.18172-8/10658930_732679620151557_8594028503043177579_o.jpg)
-  
-
-
-
-
+源地址：[Facebook Logo](https://scontent.fyvr3-1.fna.fbcdn.net/v/t31.18172-8/10658930_732679620151557_8594028503043177579_o.jpg)  
 
 ---
 

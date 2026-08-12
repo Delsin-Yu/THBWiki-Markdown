@@ -1,6 +1,6 @@
 # 文件:CRIMSON_LIGHTNING封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ab\ns6%3ACRIMSON_LIGHTNING%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ab\ns6%3ACRIMSON_LIGHTNING%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Arts＆Sounds：Utopia | 专辑封面 | 封面图片
 
@@ -11,12 +11,7 @@ Arts＆Sounds：Utopia | 专辑封面 | 封面图片
 - [CRIMSON LIGHTNING](./CRIMSON_LIGHTNING.md)
 
   
-源地址：[[1]](https://pbs.twimg.com/media/DpGtospU0AAxbJe.jpg:orig)
-  
-
-
-
-
+源地址：[\[1\]](https://pbs.twimg.com/media/DpGtospU0AAxbJe.jpg:orig)  
 
 ---
 

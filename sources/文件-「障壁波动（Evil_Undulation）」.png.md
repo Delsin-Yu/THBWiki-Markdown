@@ -1,16 +1,12 @@
 # 文件:「障壁波动（Evil_Undulation）」.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\60\ns6%3A%E3%80%8C%E9%9A%9C%E5%A3%81%E6%B3%A2%E5%8A%A8%EF%BC%88Evil_Undulation%EF%BC%89%E3%80%8D%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\60\ns6%3A%E3%80%8C%E9%9A%9C%E5%A3%81%E6%B3%A2%E5%8A%A8%EF%BC%88Evil_Undulation%EF%BC%89%E3%80%8D%2Epng.html -->
 
 东方绀珠传 | 自机符卡 | 铃仙·优昙华院·因幡
 
   
 东方绀珠传自机角色铃仙的Bomb
   
-
-
-
-
 
 ---
 

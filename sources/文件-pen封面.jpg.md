@@ -1,6 +1,6 @@
 # 文件:pen封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e6\ns6%3Apen%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e6\ns6%3Apen%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 大事なことは二回も言わない | 封面图片
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [pen](./pen.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)
+- [pen](./pen.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
 
   
-[Pixiv artwork ID: 39019501](https://www.pixiv.net/artworks/39019501)
-  
-
-
-
-
+[Pixiv artwork ID: 39019501](https://www.pixiv.net/artworks/39019501)  
 
 ---
 

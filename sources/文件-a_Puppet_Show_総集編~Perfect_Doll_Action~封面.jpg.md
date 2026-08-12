@@ -1,6 +1,6 @@
 # 文件:a_Puppet_Show_総集編~Perfect_Doll_Action~封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\78\ns6%3Aa_Puppet_Show_%E7%B7%8F%E9%9B%86%E7%B7%A8%7EPerfect_Doll_Action%7E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\78\ns6%3Aa_Puppet_Show_%E7%B7%8F%E9%9B%86%E7%B7%A8%7EPerfect_Doll_Action%7E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 しぐれえび | 同人志封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [a Puppet Show 総集編~Perfect Doll Action~](./a_Puppet_Show_総集編~Perfect_Doll_Action~.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
-
-
-
+- [a Puppet Show 総集編~Perfect Doll Action~](./a_Puppet_Show_総集編~Perfect_Doll_Action~.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
 
 
 ---

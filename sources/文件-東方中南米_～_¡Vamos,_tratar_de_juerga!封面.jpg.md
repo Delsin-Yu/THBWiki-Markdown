@@ -1,6 +1,6 @@
 # 文件:東方中南米_～_¡Vamos,_tratar_de_juerga!封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\13\ns6%3A%E6%9D%B1%E6%96%B9%E4%B8%AD%E5%8D%97%E7%B1%B3_%EF%BD%9E_%C2%A1Vamos%2C_tratar_de_juerga%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\13\ns6%3A%E6%9D%B1%E6%96%B9%E4%B8%AD%E5%8D%97%E7%B1%B3_%EF%BD%9E_%C2%A1Vamos%2C_tratar_de_juerga%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 しがべや | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方中南米 ～ ¡Vamos, tratar de juerga!](./東方中南米_～_¡Vamos,_tratar_de_juerga!.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)
+- [東方中南米 ～ ¡Vamos, tratar de juerga!](./東方中南米_～_¡Vamos,_tratar_de_juerga!.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
 
   
-源地址：[direct image link (from Toranoana, original size)](https://ecdnimg.toranoana.jp/ec/img/04/0030/33/64/040030336421-1p.jpg), [source page](https://ec.toranoana.jp/tora_r/ec/item/040030336421/)
-  
-
-
-
-
+源地址：[direct image link (from Toranoana, original size)](https://ecdnimg.toranoana.jp/ec/img/04/0030/33/64/040030336421-1p.jpg), [source page](https://ec.toranoana.jp/tora_r/ec/item/040030336421/)  
 
 ---
 

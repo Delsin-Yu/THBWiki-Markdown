@@ -1,12 +1,8 @@
 # 文件:芳年少女弹幕祭LOGO.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cd\ns6%3A%E8%8A%B3%E5%B9%B4%E5%B0%91%E5%A5%B3%E5%BC%B9%E5%B9%95%E7%A5%ADLOGO%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cd\ns6%3A%E8%8A%B3%E5%B9%B4%E5%B0%91%E5%A5%B3%E5%BC%B9%E5%B9%95%E7%A5%ADLOGO%2Epng.html -->
 
 活动LOGO | 芳年少女弹幕祭
-
-
-
-
 
 
 ---

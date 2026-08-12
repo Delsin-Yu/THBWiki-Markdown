@@ -1,6 +1,6 @@
 # 文件:地産地消インスト_vol.3封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\13\ns6%3A%E5%9C%B0%E7%94%A3%E5%9C%B0%E6%B6%88%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88_vol%2E3%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\13\ns6%3A%E5%9C%B0%E7%94%A3%E5%9C%B0%E6%B6%88%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88_vol%2E3%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 赤螢Clusters
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [地産地消インスト vol.3](./地産地消インスト_vol.3.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
-
-
-
+- [地産地消インスト vol.3](./地産地消インスト_vol.3.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
 
 
 ---

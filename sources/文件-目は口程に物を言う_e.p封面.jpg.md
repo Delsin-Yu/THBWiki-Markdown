@@ -1,6 +1,6 @@
 # 文件:目は口程に物を言う_e.p封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\33\ns6%3A%E7%9B%AE%E3%81%AF%E5%8F%A3%E7%A8%8B%E3%81%AB%E7%89%A9%E3%82%92%E8%A8%80%E3%81%86_e%2Ep%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\33\ns6%3A%E7%9B%AE%E3%81%AF%E5%8F%A3%E7%A8%8B%E3%81%AB%E7%89%A9%E3%82%92%E8%A8%80%E3%81%86_e%2Ep%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 深層記憶システム
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [目は口程に物を言う e.p](./目は口程に物を言う_e.p.md)  
-该封面包含的角色：- [古明地觉](./古明地觉.md)
-
-
-
+- [目は口程に物を言う e.p](./目は口程に物を言う_e.p.md)该封面包含的角色：
+- [古明地觉](./古明地觉.md)
 
 
 ---

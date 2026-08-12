@@ -1,14 +1,11 @@
 # 文件:日符「Royal_Flare」（绯想天符录）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ae\ns6%3A%E6%97%A5%E7%AC%A6%E3%80%8CRoyal_Flare%E3%80%8D%EF%BC%88%E7%BB%AF%E6%83%B3%E5%A4%A9%E7%AC%A6%E5%BD%95%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ae\ns6%3A%E6%97%A5%E7%AC%A6%E3%80%8CRoyal_Flare%E3%80%8D%EF%BC%88%E7%BB%AF%E6%83%B3%E5%A4%A9%E7%AC%A6%E5%BD%95%EF%BC%89%2Ejpg.html -->
 
 帕秋莉·诺蕾姬 | 绯想天符录
 
 
 ## 摘要
-
-
-
 
 ---
 

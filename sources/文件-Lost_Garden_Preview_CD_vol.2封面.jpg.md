@@ -1,6 +1,6 @@
 # 文件:Lost_Garden_Preview_CD_vol.2封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\96\ns6%3ALost_Garden_Preview_CD_vol%2E2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\96\ns6%3ALost_Garden_Preview_CD_vol%2E2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Lost_Garden | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ Lost_Garden | 专辑封面 | 封面图片
   
 
 - [Lost Garden Preview CD vol.2](./Lost_Garden_Preview_CD_vol.2.md)
-
-
-
 
 
 ---

@@ -1,16 +1,12 @@
 # 模板:Toho_Circle_archive
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\5\57\ns10%3AToho_Circle_archive.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\5\57\ns10%3AToho_Circle_archive.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

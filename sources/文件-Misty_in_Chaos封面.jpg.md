@@ -1,6 +1,6 @@
 # 文件:Misty_in_Chaos封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d1\ns6%3AMisty_in_Chaos%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d1\ns6%3AMisty_in_Chaos%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Art_of_Heart | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@ Art_of_Heart | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Misty in Chaos](./Misty_in_Chaos.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
+- [Misty in Chaos](./Misty_in_Chaos.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
   
-源地址：[[1]](https://gd3.alicdn.com/imgextra/i3/2860861198/O1CN011Km3BY1KijBZXRZBq_!!2860861198.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://gd3.alicdn.com/imgextra/i3/2860861198/O1CN011Km3BY1KijBZXRZBq_!!2860861198.jpg)  
 
 ---
 

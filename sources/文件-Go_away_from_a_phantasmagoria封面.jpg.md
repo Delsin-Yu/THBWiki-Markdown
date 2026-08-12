@@ -1,6 +1,6 @@
 # 文件:Go_away_from_a_phantasmagoria封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\db\ns6%3AGo_away_from_a_phantasmagoria%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\db\ns6%3AGo_away_from_a_phantasmagoria%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ナナシノ十字星団 | 同人志封面 | 封面图片
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [Go away from a phantasmagoria](./Go_away_from_a_phantasmagoria.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [Go away from a phantasmagoria](./Go_away_from_a_phantasmagoria.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

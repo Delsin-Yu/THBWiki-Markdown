@@ -1,6 +1,6 @@
 # 文件:東方縁側話Vol.0_東方小運動会1封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c1\ns6%3A%E6%9D%B1%E6%96%B9%E7%B8%81%E5%81%B4%E8%A9%B1Vol%2E0_%E6%9D%B1%E6%96%B9%E5%B0%8F%E9%81%8B%E5%8B%95%E4%BC%9A1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c1\ns6%3A%E6%9D%B1%E6%96%B9%E7%B8%81%E5%81%B4%E8%A9%B1Vol%2E0_%E6%9D%B1%E6%96%B9%E5%B0%8F%E9%81%8B%E5%8B%95%E4%BC%9A1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 縁側話製作委員会
 
@@ -10,11 +10,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方縁側話Vol.0 東方小運動会1](./東方縁側話Vol.0_東方小運動会1.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [魂魄妖梦](./魂魄妖梦.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [東方縁側話Vol.0 東方小運動会1](./東方縁側話Vol.0_東方小運動会1.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [魂魄妖梦](./魂魄妖梦.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

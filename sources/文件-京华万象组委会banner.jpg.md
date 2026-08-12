@@ -1,12 +1,8 @@
 # 文件:京华万象组委会banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2b\ns6%3A%E4%BA%AC%E5%8D%8E%E4%B8%87%E8%B1%A1%E7%BB%84%E5%A7%94%E4%BC%9Abanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2b\ns6%3A%E4%BA%AC%E5%8D%8E%E4%B8%87%E8%B1%A1%E7%BB%84%E5%A7%94%E4%BC%9Abanner%2Ejpg.html -->
 
 京华万象组委会 | 社团LOGO
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:HOMELESS_DANCE封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\85\ns6%3AHOMELESS_DANCE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\85\ns6%3AHOMELESS_DANCE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 囮懲封月 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [HOMELESS DANCE](./HOMELESS_DANCE.md)  
-该封面包含的角色：- [依神紫苑](./依神紫苑.md)
-
-
-
+- [HOMELESS DANCE](./HOMELESS_DANCE.md)该封面包含的角色：
+- [依神紫苑](./依神紫苑.md)
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:「地上跳弹(Lunatic_Echo)」（深秘录）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\be\ns6%3A%E3%80%8C%E5%9C%B0%E4%B8%8A%E8%B7%B3%E5%BC%B9%28Lunatic_Echo%29%E3%80%8D%EF%BC%88%E6%B7%B1%E7%A7%98%E5%BD%95%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\be\ns6%3A%E3%80%8C%E5%9C%B0%E4%B8%8A%E8%B7%B3%E5%BC%B9%28Lunatic_Echo%29%E3%80%8D%EF%BC%88%E6%B7%B1%E7%A7%98%E5%BD%95%EF%BC%89%2Ejpg.html -->
 
 东方深秘录 | 自机符卡 | 铃仙·优昙华院·因幡
-
-
-
-
 
 
 ---

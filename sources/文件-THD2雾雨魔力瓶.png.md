@@ -1,12 +1,8 @@
 # 文件:THD2雾雨魔力瓶.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\23\ns6%3ATHD2%E9%9B%BE%E9%9B%A8%E9%AD%94%E5%8A%9B%E7%93%B6%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\23\ns6%3ATHD2%E9%9B%BE%E9%9B%A8%E9%AD%94%E5%8A%9B%E7%93%B6%2Epng.html -->
 
 AvalonStudioOfficial
-
-
-
-
 
 
 ---

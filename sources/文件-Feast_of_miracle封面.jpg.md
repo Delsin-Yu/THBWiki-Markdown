@@ -1,6 +1,6 @@
 # 文件:Feast_of_miracle封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fe\ns6%3AFeast_of_miracle%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fe\ns6%3AFeast_of_miracle%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Our_Oath_Of_Office | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Our_Oath_Of_Office | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Feast of miracle](./Feast_of_miracle.md)  
-该封面包含的角色：- [东风谷早苗](./东风谷早苗.md)
-
-
-
+- [Feast of miracle](./Feast_of_miracle.md)该封面包含的角色：
+- [东风谷早苗](./东风谷早苗.md)
 
 
 ---

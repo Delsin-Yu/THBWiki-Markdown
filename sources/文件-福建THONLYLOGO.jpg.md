@@ -1,12 +1,8 @@
 # 文件:福建THONLYLOGO.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0a\ns6%3A%E7%A6%8F%E5%BB%BATHONLYLOGO%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0a\ns6%3A%E7%A6%8F%E5%BB%BATHONLYLOGO%2Ejpg.html -->
 
 活动LOGO | 白鹭风茗
-
-
-
-
 
 
 ---

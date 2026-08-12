@@ -1,12 +1,8 @@
 # 文件:夢のチョモラン王国banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\96\ns6%3A%E5%A4%A2%E3%81%AE%E3%83%81%E3%83%A7%E3%83%A2%E3%83%A9%E3%83%B3%E7%8E%8B%E5%9B%BDbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\96\ns6%3A%E5%A4%A2%E3%81%AE%E3%83%81%E3%83%A7%E3%83%A2%E3%83%A9%E3%83%B3%E7%8E%8B%E5%9B%BDbanner%2Ejpg.html -->
 
 夢のチョモラン王国 | 社团LOGO
-
-
-
-
 
 
 ---

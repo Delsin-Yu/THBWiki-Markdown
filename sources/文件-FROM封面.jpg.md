@@ -1,6 +1,6 @@
 # 文件:FROM封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\29\ns6%3AFROM%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\29\ns6%3AFROM%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 anagram | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ anagram | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [FROM](./FROM.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
+- [FROM](./FROM.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-源地址：[[1]](http://anagram.ehoh.net/img/works/from.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://anagram.ehoh.net/img/works/from.jpg)  
 
 ---
 

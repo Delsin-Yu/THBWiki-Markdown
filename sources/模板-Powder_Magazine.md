@@ -1,16 +1,12 @@
 # 模板:Powder_Magazine
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\5\55\ns10%3APowder_Magazine.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\5\55\ns10%3APowder_Magazine.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

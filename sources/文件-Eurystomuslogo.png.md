@@ -1,18 +1,13 @@
 # 文件:Eurystomuslogo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\63\ns6%3AEurystomuslogo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\63\ns6%3AEurystomuslogo%2Epng.html -->
 
 Eurystomus | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[direct image link](https://image.jimcdn.com/app/cms/image/transf/none/path/s0219467b8947dfdb/image/i673ca6324a7e8c5f/version/1491135095/image.png), [source page](https://eurystomus.jimdofree.com/)
-  
-
-
-
-
+源地址：[direct image link](https://image.jimcdn.com/app/cms/image/transf/none/path/s0219467b8947dfdb/image/i673ca6324a7e8c5f/version/1491135095/image.png), [source page](https://eurystomus.jimdofree.com/)  
 
 ---
 

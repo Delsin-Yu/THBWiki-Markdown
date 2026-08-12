@@ -1,12 +1,8 @@
 # 文件:符之一「Artful_Chanter」（萃梦想）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6e\ns6%3A%E7%AC%A6%E4%B9%8B%E4%B8%80%E3%80%8CArtful_Chanter%E3%80%8D%EF%BC%88%E8%90%83%E6%A2%A6%E6%83%B3%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6e\ns6%3A%E7%AC%A6%E4%B9%8B%E4%B8%80%E3%80%8CArtful_Chanter%E3%80%8D%EF%BC%88%E8%90%83%E6%A2%A6%E6%83%B3%EF%BC%89%2Ejpg.html -->
 
 东方萃梦想 | 敌机符卡 | 爱丽丝·玛格特洛依德
-
-
-
-
 
 
 ---

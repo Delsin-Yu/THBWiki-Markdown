@@ -1,6 +1,6 @@
 # 文件:The_Discovery_Of_A_New_Blast!!封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e6\ns6%3AThe_Discovery_Of_A_New_Blast%21%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e6\ns6%3AThe_Discovery_Of_A_New_Blast%21%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Adust_Rain | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Adust_Rain | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [The Discovery Of A New Blast!!](./The_Discovery_Of_A_New_Blast!!.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [The Discovery Of A New Blast!!](./The_Discovery_Of_A_New_Blast!!.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
   
-源地址：[direct image link (original size)](https://image.jimcdn.com/app/cms/image/transf/none/path/s2b48f01cf0d87509/image/id477ae85f6894a4c/version/1464185034/image.jpg), [source page](https://adustrain.jimdofree.com/discography/)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://image.jimcdn.com/app/cms/image/transf/none/path/s2b48f01cf0d87509/image/id477ae85f6894a4c/version/1464185034/image.jpg), [source page](https://adustrain.jimdofree.com/discography/)  
 
 ---
 

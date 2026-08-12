@@ -1,12 +1,8 @@
 # 文件:水符「Tail_Fin_Slap」（辉针城）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\40\ns6%3A%E6%B0%B4%E7%AC%A6%E3%80%8CTail_Fin_Slap%E3%80%8D%EF%BC%88%E8%BE%89%E9%92%88%E5%9F%8E%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\40\ns6%3A%E6%B0%B4%E7%AC%A6%E3%80%8CTail_Fin_Slap%E3%80%8D%EF%BC%88%E8%BE%89%E9%92%88%E5%9F%8E%EF%BC%89%2Epng.html -->
 
 东方辉针城 | 敌机符卡 | 若鹭姬
-
-
-
-
 
 
 ---

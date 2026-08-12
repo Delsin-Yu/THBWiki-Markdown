@@ -1,12 +1,8 @@
 # 文件:奇摄「天狗的Bug_Shutter」.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d3\ns6%3A%E5%A5%87%E6%91%84%E3%80%8C%E5%A4%A9%E7%8B%97%E7%9A%84Bug_Shutter%E3%80%8D%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d3\ns6%3A%E5%A5%87%E6%91%84%E3%80%8C%E5%A4%A9%E7%8B%97%E7%9A%84Bug_Shutter%E3%80%8D%2Ejpg.html -->
 
 東方邪星章製作チーム
-
-
-
-
 
 
 ---

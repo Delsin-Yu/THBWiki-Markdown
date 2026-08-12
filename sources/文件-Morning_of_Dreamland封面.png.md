@@ -1,6 +1,6 @@
 # 文件:Morning_of_Dreamland封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c8\ns6%3AMorning_of_Dreamland%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c8\ns6%3AMorning_of_Dreamland%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 荒御灵
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [Morning of Dreamland](./Morning_of_Dreamland.md)  
-该封面包含的角色：- [宇佐见堇子](./宇佐见堇子.md)- [爱塔妮缇拉尔瓦](./爱塔妮缇拉尔瓦.md)
-
-
-
+- [Morning of Dreamland](./Morning_of_Dreamland.md)该封面包含的角色：
+- [宇佐见堇子](./宇佐见堇子.md)
+- [爱塔妮缇拉尔瓦](./爱塔妮缇拉尔瓦.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Mandala_Retrowave_Remixes封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5c\ns6%3AMandala_Retrowave_Remixes%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5c\ns6%3AMandala_Retrowave_Remixes%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Violet_Delta | 专辑封面 | 封面图片
 
@@ -11,12 +11,7 @@ Violet_Delta | 专辑封面 | 封面图片
 - [Mandala Retrowave Remixes](./Mandala_Retrowave_Remixes.md)
 
   
-源地址：[[1]](https://violetdelta.bandcamp.com/album/mandala-retrowave-remixes)
-  
-
-
-
-
+源地址：[\[1\]](https://violetdelta.bandcamp.com/album/mandala-retrowave-remixes)  
 
 ---
 

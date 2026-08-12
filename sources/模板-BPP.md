@@ -1,16 +1,12 @@
 # 模板:BPP
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\7\7a\ns10%3ABPP.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\7\7a\ns10%3ABPP.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

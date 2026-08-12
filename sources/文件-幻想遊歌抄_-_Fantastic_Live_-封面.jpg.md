@@ -1,6 +1,6 @@
 # 文件:幻想遊歌抄_-_Fantastic_Live_-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ee\ns6%3A%E5%B9%BB%E6%83%B3%E9%81%8A%E6%AD%8C%E6%8A%84_-_Fantastic_Live_-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ee\ns6%3A%E5%B9%BB%E6%83%B3%E9%81%8A%E6%AD%8C%E6%8A%84_-_Fantastic_Live_-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Arte_Refact | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Arte_Refact | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [幻想遊歌抄 - Fantastic Live -](./幻想遊歌抄_-_Fantastic_Live_-.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [幻想遊歌抄 - Fantastic Live -](./幻想遊歌抄_-_Fantastic_Live_-.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

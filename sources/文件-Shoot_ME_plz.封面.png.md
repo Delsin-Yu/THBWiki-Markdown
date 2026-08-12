@@ -1,6 +1,6 @@
 # 文件:Shoot_ME_plz.封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\23\ns6%3AShoot_ME_plz%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\23\ns6%3AShoot_ME_plz%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Infrontia | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@ Infrontia | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Shoot ME plz.](./Shoot_ME_plz..md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)
-
-
-
+- [Shoot ME plz.](./Shoot_ME_plz..md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
 
 
 ---

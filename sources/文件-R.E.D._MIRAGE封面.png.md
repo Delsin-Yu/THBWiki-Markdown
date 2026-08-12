@@ -1,6 +1,6 @@
 # 文件:R.E.D._MIRAGE封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ab\ns6%3AR%2EE%2ED%2E_MIRAGE%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ab\ns6%3AR%2EE%2ED%2E_MIRAGE%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Reset_All_Controllers | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Reset_All_Controllers | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [R.E.D. MIRAGE](./R.E.D._MIRAGE.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
-
-
-
+- [R.E.D. MIRAGE](./R.E.D._MIRAGE.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
 
 ---

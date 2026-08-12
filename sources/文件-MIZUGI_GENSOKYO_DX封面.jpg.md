@@ -1,6 +1,6 @@
 # 文件:MIZUGI_GENSOKYO_DX封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d9\ns6%3AMIZUGI_GENSOKYO_DX%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d9\ns6%3AMIZUGI_GENSOKYO_DX%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Rainbow_Vanilla | 同人志封面 | 封面图片
 
@@ -8,11 +8,8 @@ Rainbow_Vanilla | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [MIZUGI GENSOKYO DX](./MIZUGI_GENSOKYO_DX.md)  
-该封面包含的角色：- [秦心](./秦心.md)
-
-
-
+- [MIZUGI GENSOKYO DX](./MIZUGI_GENSOKYO_DX.md)该封面包含的角色：
+- [秦心](./秦心.md)
 
 
 ---

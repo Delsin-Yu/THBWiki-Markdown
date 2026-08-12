@@ -1,17 +1,12 @@
 # MineCraft幻想乡/天界地图
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\46\ns0%3AMineCraft%E5%B9%BB%E6%83%B3%E4%B9%A1%2F%E5%A4%A9%E7%95%8C%E5%9C%B0%E5%9B%BE.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\46\ns0%3AMineCraft%E5%B9%BB%E6%83%B3%E4%B9%A1%2F%E5%A4%A9%E7%95%8C%E5%9C%B0%E5%9B%BE.html -->
 
 MineCraft幻想乡
 
   
- <big><big> **更新时间：2021年10月17日** 
-</big></big>  
-<big><big>[](./文件-MCG-Tenkai-Day2021.10.23.png.md)  [](./文件-MCG-Tenkai-Day2021.10.23.png.md)MC幻想乡天界白天地图</big></big><big><big>[](./文件-MCG-Tenkai-Night2021.10.23.png.md)  [](./文件-MCG-Tenkai-Night2021.10.23.png.md)MC幻想乡天界夜晚地图</big></big><big><big>[](./文件-MCG-Tenkai-GEO2021.10.23.png.md)  [](./文件-MCG-Tenkai-GEO2021.10.23.png.md)MC幻想乡天界地形图</big></big>
-
-
-
-
+ <big><big>**更新时间：2021年10月17日**</big></big>  
+<big><big><img alt="" src="https://upload.thwiki.cc/thumb/8/8a/MCG-Tenkai-Day2021.10.23.png/300px-MCG-Tenkai-Day2021.10.23.png" decoding="async" loading="lazy" width="300" height="300" class="thumbimage" srcset="https://upload.thwiki.cc/8/8a/MCG-Tenkai-Day2021.10.23.png 1.5x" data-file-width="396" data-file-height="396">  [放大](./文件-MCG-Tenkai-Day2021.10.23.png.md)MC幻想乡天界白天地图</big></big><big><big><img alt="" src="https://upload.thwiki.cc/thumb/5/51/MCG-Tenkai-Night2021.10.23.png/300px-MCG-Tenkai-Night2021.10.23.png" decoding="async" loading="lazy" width="300" height="300" class="thumbimage" srcset="https://upload.thwiki.cc/5/51/MCG-Tenkai-Night2021.10.23.png 1.5x" data-file-width="396" data-file-height="396">  [放大](./文件-MCG-Tenkai-Night2021.10.23.png.md)MC幻想乡天界夜晚地图</big></big><big><big><img alt="" src="https://upload.thwiki.cc/thumb/4/46/MCG-Tenkai-GEO2021.10.23.png/300px-MCG-Tenkai-GEO2021.10.23.png" decoding="async" loading="lazy" width="300" height="300" class="thumbimage" srcset="https://upload.thwiki.cc/4/46/MCG-Tenkai-GEO2021.10.23.png 1.5x" data-file-width="396" data-file-height="396">  [放大](./文件-MCG-Tenkai-GEO2021.10.23.png.md)MC幻想乡天界地形图</big></big>
 ---
 
 此文档由 [THBWiki-Markdown-Builder](https://github.com/Delsin-Yu/THBWiki-Markdown-Builder) 构建。

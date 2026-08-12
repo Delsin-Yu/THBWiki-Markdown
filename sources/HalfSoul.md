@@ -1,25 +1,23 @@
 # HalfSoul
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\25\ns0%3AHalfSoul.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\25\ns0%3AHalfSoul.html -->
 
 2017年12月29日 由 ねこのさけごと 于 Comic Market 93 发布的总集/漫画同人志，A5尺寸一共226页，登场人物有 博丽灵梦、雾雨魔理沙、魂魄妖梦、物部布都、爱丽丝·玛格特洛依德，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人志 (未找到链接)** 的词条
-
+**[二次创作同人志](./二次创作.md#同人志)**的词条
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-HalfSoul封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/3/35/HalfSoul%E5%B0%81%E9%9D%A2.jpg/158px-HalfSoul%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="158" height="224" srcset="https://upload.thwiki.cc/thumb/3/35/HalfSoul%E5%B0%81%E9%9D%A2.jpg/237px-HalfSoul%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/3/35/HalfSoul%E5%B0%81%E9%9D%A2.jpg/316px-HalfSoul%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="600" data-file-height="851"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>，<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a>，<a href="./魂魄妖梦.md" title="魂魄妖梦">魂魄妖梦</a>，<a href="./物部布都.md" title="物部布都">物部布都</a>，<a href="./爱丽丝·玛格特洛依德.md" title="爱丽丝·玛格特洛依德">爱丽丝·玛格特洛依德</a></div></td>
 </tr><tr><td class="label">名称</td><td colspan="2"> HalfSoul </td></tr><tr><td class="label">制作方</td><td><a href="./ねこのさけごと.md" title="ねこのさけごと">ねこのさけごと</a></td><td class="cover-artwork" rowspan="8" style="min-width:224px;"><a href="./文件-HalfSoul封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/3/35/HalfSoul%E5%B0%81%E9%9D%A2.jpg/158px-HalfSoul%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="158" height="224" srcset="https://upload.thwiki.cc/thumb/3/35/HalfSoul%E5%B0%81%E9%9D%A2.jpg/237px-HalfSoul%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/3/35/HalfSoul%E5%B0%81%E9%9D%A2.jpg/316px-HalfSoul%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="600" data-file-height="851"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>，<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a>，<a href="./魂魄妖梦.md" title="魂魄妖梦">魂魄妖梦</a>，<a href="./物部布都.md" title="物部布都">物部布都</a>，<a href="./爱丽丝·玛格特洛依德.md" title="爱丽丝·玛格特洛依德">爱丽丝·玛格特洛依德</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2017-12-29&#160;（<a href="/展会作品列表?e=Comic+Market%2393">Comic Market 93</a>）</td></tr><tr><td class="label">类型</td><td>总集，漫画</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>A5</td></tr><tr><td class="label">页数</td><td>226P</td></tr><tr><td class="label">登场人物</td><td><a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>，<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a>，<a href="./魂魄妖梦.md" title="魂魄妖梦">魂魄妖梦</a>，<a href="./物部布都.md" title="物部布都">物部布都</a>，<a href="./爱丽丝·玛格特洛依德.md" title="爱丽丝·玛格特洛依德">爱丽丝·玛格特洛依德</a></td></tr><tr><td class="label">售价</td><td>会场售价：1000日元<br>通贩售价：1296日元（含税）</td></tr></tbody></table>
+</tr><tr><td class="label">首发日期</td><td>2017-12-29 （<a href="./展会作品列表.md#93">Comic Market 93</a>）</td></tr><tr><td class="label">类型</td><td>总集，漫画</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>A5</td></tr><tr><td class="label">页数</td><td>226P</td></tr><tr><td class="label">登场人物</td><td><a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>，<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a>，<a href="./魂魄妖梦.md" title="魂魄妖梦">魂魄妖梦</a>，<a href="./物部布都.md" title="物部布都">物部布都</a>，<a href="./爱丽丝·玛格特洛依德.md" title="爱丽丝·玛格特洛依德">爱丽丝·玛格特洛依德</a></td></tr><tr><td class="label">售价</td><td>会场售价：1000日元<br>通贩售价：1296日元（含税）</td></tr></tbody></table>
 
 HalfSoul（同人志，ねこのさけごと，2017） - 2017年12月29日 由 ねこのさけごと 于 Comic Market 93 发布的总集/漫画同人志，A5尺寸一共226页，登场人物有 博丽灵梦、雾雨魔理沙、魂魄妖梦、物部布都、爱丽丝·玛格特洛依德，分级为 一般向
-
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=323310">蜜瓜</a>，<a rel="nofollow" class="external text" href="https://ec.toranoana.jp/tora_r/ec/item/040030597834">虎穴</a></td></tr></tbody></table>
 
 
-
 ## Staff
+
 - [さざなみみぉ](./さざなみみぉ.md)
 
 
@@ -29,19 +27,8 @@ HalfSoul（同人志，ねこのさけごと，2017） - 2017年12月29日 由 �
   
 
 ```
-蜜瓜： *さざなみみぉ先生が発行した東方同人誌をまとめた、大ボリュームの総集編が登場です!  
-何かと主人に甘い妖夢とちょっと天然な幽々子を中心に繰り広げる、ほのぼのコメディ♪  
-他にも様々な弾幕少女達が登場、爆笑ネタ満載で読み応えたっぷりの226ページを収録☆  
-幻想郷で巻き起こるドタバタ日常を詰め込んだ、ファン必見の1冊を是非ご堪能下さい。* 
+蜜瓜：*さざなみみぉ先生が発行した東方同人誌をまとめた、大ボリュームの総集編が登場です!何かと主人に甘い妖夢とちょっと天然な幽々子を中心に繰り広げる、ほのぼのコメディ♪他にも様々な弾幕少女達が登場、爆笑ネタ満載で読み応えたっぷりの226ページを収録☆幻想郷で巻き起こるドタバタ日常を詰め込んだ、ファン必見の1冊を是非ご堪能下さい。*  
 ```
-
-  
-  
-
-  
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:東方風麗響_～Trace_of_Permanence～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a3\ns6%3A%E6%9D%B1%E6%96%B9%E9%A2%A8%E9%BA%97%E9%9F%BF_%EF%BD%9ETrace_of_Permanence%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a3\ns6%3A%E6%9D%B1%E6%96%B9%E9%A2%A8%E9%BA%97%E9%9F%BF_%EF%BD%9ETrace_of_Permanence%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 R-note | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ R-note | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方風麗響 ～Trace of Permanence～](./東方風麗響_～Trace_of_Permanence～.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [東方風麗響 ～Trace of Permanence～](./東方風麗響_～Trace_of_Permanence～.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:The_Fabricated_Revolution封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\af\ns6%3AThe_Fabricated_Revolution%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\af\ns6%3AThe_Fabricated_Revolution%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Yumi_Sakata | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Yumi_Sakata | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [The Fabricated Revolution](./The_Fabricated_Revolution.md)  
-该封面包含的角色：- [少名针妙丸](./少名针妙丸.md)
-
-
-
+- [The Fabricated Revolution](./The_Fabricated_Revolution.md)该封面包含的角色：
+- [少名针妙丸](./少名针妙丸.md)
 
 
 ---

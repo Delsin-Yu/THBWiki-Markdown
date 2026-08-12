@@ -1,12 +1,8 @@
 # 文件:东方妖妖梦end05.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\97\ns6%3A%E4%B8%9C%E6%96%B9%E5%A6%96%E5%A6%96%E6%A2%A6end05%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\97\ns6%3A%E4%B8%9C%E6%96%B9%E5%A6%96%E5%A6%96%E6%A2%A6end05%2Ejpg.html -->
 
 东方妖妖梦结局图
-
-
-
-
 
 
 ---

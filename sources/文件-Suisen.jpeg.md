@@ -1,12 +1,8 @@
 # 文件:Suisen.jpeg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b2\ns6%3ASuisen%2Ejpeg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b2\ns6%3ASuisen%2Ejpeg.html -->
 
 Suisen | 二次角色立绘 | 水仙
-
-
-
-
 
 
 ---

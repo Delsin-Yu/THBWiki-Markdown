@@ -1,6 +1,6 @@
 # 文件:Holmgang_Ov_Gensokyo_［Remastered］封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\83\ns6%3AHolmgang_Ov_Gensokyo_%EF%BC%BBRemastered%EF%BC%BD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\83\ns6%3AHolmgang_Ov_Gensokyo_%EF%BC%BBRemastered%EF%BC%BD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Holmgang_Ov_Gensokyo | 专辑封面 | 封面图片
 
@@ -10,16 +10,13 @@ Holmgang_Ov_Gensokyo | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Holmgang Ov Gensokyo ［Remastered］](./Holmgang_Ov_Gensokyo_［Remastered］.md)  
-该封面包含的角色：- [永江衣玖](./永江衣玖.md)- [比那名居天子](./比那名居天子.md)- [伊吹萃香](./伊吹萃香.md)
+- [Holmgang Ov Gensokyo ［Remastered］](./Holmgang_Ov_Gensokyo_［Remastered］.md)该封面包含的角色：
+- [永江衣玖](./永江衣玖.md)
+- [比那名居天子](./比那名居天子.md)
+- [伊吹萃香](./伊吹萃香.md)
 
   
-源地址：[[1]](https://f4.bcbits.com/img/a2083756147_10.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://f4.bcbits.com/img/a2083756147_10.jpg)  
 
 ---
 

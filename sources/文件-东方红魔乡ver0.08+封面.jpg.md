@@ -1,14 +1,11 @@
 # 文件:东方红魔乡ver0.08+封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\63\ns6%3A%E4%B8%9C%E6%96%B9%E7%BA%A2%E9%AD%94%E4%B9%A1ver0%2E08%2B%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\63\ns6%3A%E4%B8%9C%E6%96%B9%E7%BA%A2%E9%AD%94%E4%B9%A1ver0%2E08%2B%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 东方红魔乡
 
 
 ## 摘要
-
-
-
 
 ---
 

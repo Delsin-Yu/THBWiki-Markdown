@@ -1,6 +1,6 @@
 # 文件:東方夢現境_～Fact_from_Fiction～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1e\ns6%3A%E6%9D%B1%E6%96%B9%E5%A4%A2%E7%8F%BE%E5%A2%83_%EF%BD%9EFact_from_Fiction%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1e\ns6%3A%E6%9D%B1%E6%96%B9%E5%A4%A2%E7%8F%BE%E5%A2%83_%EF%BD%9EFact_from_Fiction%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 文鸟Online。
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方夢現境 ～Fact from Fiction～](./東方夢現境_～Fact_from_Fiction～.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [八云紫](./八云紫.md)
-
-
-
+- [東方夢現境 ～Fact from Fiction～](./東方夢現境_～Fact_from_Fiction～.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [八云紫](./八云紫.md)
 
 
 ---

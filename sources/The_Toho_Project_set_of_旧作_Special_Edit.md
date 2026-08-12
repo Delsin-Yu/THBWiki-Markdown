@@ -1,13 +1,11 @@
 # The_Toho_Project_set_of_旧作_Special_Edit
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\09\ns0%3AThe_Toho_Project_set_of_%E6%97%A7%E4%BD%9C_Special_Edit.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\09\ns0%3AThe_Toho_Project_set_of_%E6%97%A7%E4%BD%9C_Special_Edit.html -->
 
 2024年6月22日 由 自己崩壊性LOGiC  发布的EP同人专辑，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人专辑 (未找到链接)** 的词条
-<center>
-
+**[二次创作同人专辑](./二次创作.md#同人音乐)**的词条<center>
 <table>
 <tbody><tr>
 <td class="mbox-image"><div style="width: 52px;">
@@ -16,9 +14,7 @@
 </tr>
 </tbody></table>
 
-
 </center>
-
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-The_Toho_Project_set_of_旧作_Special_Edit封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/1/1b/The_Toho_Project_set_of_%E6%97%A7%E4%BD%9C_Special_Edit%E5%B0%81%E9%9D%A2.jpg/252px-The_Toho_Project_set_of_%E6%97%A7%E4%BD%9C_Special_Edit%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="252" height="252" srcset="https://upload.thwiki.cc/thumb/1/1b/The_Toho_Project_set_of_%E6%97%A7%E4%BD%9C_Special_Edit%E5%B0%81%E9%9D%A2.jpg/378px-The_Toho_Project_set_of_%E6%97%A7%E4%BD%9C_Special_Edit%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/1/1b/The_Toho_Project_set_of_%E6%97%A7%E4%BD%9C_Special_Edit%E5%B0%81%E9%9D%A2.jpg/504px-The_Toho_Project_set_of_%E6%97%A7%E4%BD%9C_Special_Edit%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="780" data-file-height="780"></a></td>
@@ -27,24 +23,15 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://jicohoukaiseilogic.wordpress.com/jlth-0004/">https://jicohoukaiseilogic.wordpress.com/jlth-0004/</a></td></tr></tbody></table>
 
 The Toho Project set of 旧作 Special Edit（同人专辑，自己崩壊性LOGiC） - 2024年6月22日 由 自己崩壊性LOGiC  发布的EP同人专辑，分级为 一般向
-
 ## Staff
 Design
 : 设计师 （[网址 社团]）
 Illustration
 : 画师 （[网址 社团]）
 
-
 ## 曲目列表
 
-<table></table>
-
-
-
 ## 评论
-
-
-
 
 ---
 

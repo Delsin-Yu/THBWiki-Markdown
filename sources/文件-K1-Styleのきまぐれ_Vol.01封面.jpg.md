@@ -1,6 +1,6 @@
 # 文件:K1-Styleのきまぐれ_Vol.01封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\09\ns6%3AK1-Style%E3%81%AE%E3%81%8D%E3%81%BE%E3%81%90%E3%82%8C_Vol%2E01%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\09\ns6%3AK1-Style%E3%81%AE%E3%81%8D%E3%81%BE%E3%81%90%E3%82%8C_Vol%2E01%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 K1-Style | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ K1-Style | 专辑封面 | 封面图片
   
 
 - [K1-Styleのきまぐれ Vol.01](./K1-Styleのきまぐれ_Vol.01.md)
-
-
-
 
 
 ---

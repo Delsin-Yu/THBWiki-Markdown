@@ -1,40 +1,30 @@
 # Dream_Land
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\c\ce\ns0%3ADream_Land.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\c\ce\ns0%3ADream_Land.html -->
 
 由 ZUN 创作的官方曲目，原名 Dream Land
 
 本页是关于东方Project  
- **原作音乐** 的词条
-
+**原作音乐**的词条
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 出现作品](#出现作品)
 - [3 音乐文件](#音乐文件)
-
   - [3.1 东方幻想乡](#东方幻想乡)
   - [3.2 东方怪绮谈](#东方怪绮谈)
   - [3.3 幺乐团的历史 vol.1](#幺乐团的历史_vol.1)
 
 
-
 - [4 说明文本](#说明文本)
-
   - [4.1 东方幻想乡](#东方幻想乡_2)
   - [4.2 东方怪绮谈](#东方怪绮谈_2)
 
 
-
 - [5 其他资料](#其他资料)
-
   - [5.1 乐理资讯](#乐理资讯)
   - [5.2 分析考据](#分析考据)
   - [5.3 二次同人数据](#二次同人数据)
-
-
-
-
 
 
 
@@ -44,7 +34,6 @@
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">Dream Land</td></tr><tr><td><b>译名</b></td><td>Dream Land</td></tr><tr><td><b>其他译名</b></td><td>梦幻之地</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 Dream Land（曲目） - 由 ZUN 创作的官方曲目，原名 Dream Land
-
 ## 出现作品
 
 <table>
@@ -54,7 +43,6 @@ Dream Land（曲目） - 由 ZUN 创作的官方曲目，原名 Dream Land
 </tbody></table>
 
 
-
 ## 音乐文件
 
 ### 东方幻想乡
@@ -62,17 +50,13 @@ Dream Land（曲目） - 由 ZUN 创作的官方曲目，原名 Dream Land
 YM2203(OPN)，FM26K音源版。
   
 
-
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th04_14_26.ogg.md" title="文件:th04 14 26.ogg">th04_14_26.ogg</a><br><audio src="https://upload.thwiki.cc/7/7e/th04_14_26.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>ST05.M26</td></tr><tr><td><b>音轨时长</b></td><td>1:33.157</td></tr></tbody></table>
-
 
   
 YM2608(OPNA)，FM86音源版。
   
 
-
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th04_14_86.ogg.md" title="文件:th04 14 86.ogg">th04_14_86.ogg</a><br><audio src="https://upload.thwiki.cc/3/31/th04_14_86.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>ST05.M86</td></tr><tr><td><b>音轨时长</b></td><td>1:33.157</td></tr></tbody></table>
-
 
 
 ### 东方怪绮谈
@@ -80,17 +64,13 @@ YM2608(OPNA)，FM86音源版。
 YM2203(OPN)，FM26K音源版。
   
 
-
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th05_G_14_26.ogg.md" title="文件:th05 G 14 26.ogg">th05_G_14_26.ogg</a><br><audio src="https://upload.thwiki.cc/d/d8/th05_G_14_26.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>G_ST05.M</td></tr><tr><td><b>音轨时长</b></td><td>1:33.157</td></tr></tbody></table>
-
 
   
 YM2608(OPNA)，FM86音源版。
   
 
-
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th05_G_14_86.ogg.md" title="文件:th05 G 14 86.ogg">th05_G_14_86.ogg</a><br><audio src="https://upload.thwiki.cc/d/d5/th05_G_14_86.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>G_ST05.M2</td></tr><tr><td><b>音轨时长</b></td><td>1:33.157</td></tr></tbody></table>
-
 
 
 ### 幺乐团的历史 vol.1
@@ -98,11 +78,11 @@ YM2608(OPNA)，FM86音源版。
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-ha01a_14.mp3.md" title="文件:ha01a 14.mp3">ha01a_14.mp3</a><br><audio src="https://upload.thwiki.cc/b/bd/ha01a_14.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track14.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>3:20</td></tr></tbody></table>
 
 
-
 ## 说明文本
 
 ### 东方幻想乡
-- Music Room (未找到链接)
+
+- [Music Room](./东方幻想乡-Music.md#6面主题曲)
 
 　　　　　　最终面的主题曲  
 　这是，简短的曲子呢(^^;  
@@ -112,28 +92,27 @@ YM2608(OPNA)，FM86音源版。
 ＺＵＮ（太田）  
 幻想乡的曲子。  
 这个还差很多。
-
 ### 东方怪绮谈
-- Music Room (未找到链接)
+
+- [Music Room](./东方怪绮谈-Music.md#东方幻想乡-63)
 
 最终面的主题曲Dream Land  
 ＺＵＮ（太田）  
 幻想乡的曲子  
 这个还差很多。
-
 ## 其他资料
 
 ### 乐理资讯
 
 ### 分析考据
   
- **Dream Land** 
-  
+**Dream Land**  
 梦幻之地
   
 
-- Dream Land
+- Dream Land 
   - 梦幻世界与现实边界的“馆”
+
 
 
 
@@ -149,17 +128,6 @@ YM2608(OPNA)，FM86音源版。
 <tr><td>Arrange</td><td>55</td></tr>
 <tr><td>Vocal率</td><td>36.05%</td></tr>
 </tbody></table>
-
-
-
-
-  
-  
-
-  
-
-
-
 
 
 ---

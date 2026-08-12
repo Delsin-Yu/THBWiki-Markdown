@@ -1,6 +1,6 @@
 # 文件:LURE封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bf\ns6%3ALURE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bf\ns6%3ALURE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 梅之小町
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [LURE](./LURE.md)  
-该封面包含的角色：- [伊吹萃香](./伊吹萃香.md)
+- [LURE](./LURE.md)该封面包含的角色：
+- [伊吹萃香](./伊吹萃香.md)
 
   
-源地址：[direct image link (original size)](https://pbs.twimg.com/media/EjjkamzU8AIvo6v?format=jpg&amp;name=orig), [source tweet](https://twitter.com/UMEDAYO_sekaume/status/1313050442981691392)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://pbs.twimg.com/media/EjjkamzU8AIvo6v?format=jpg&name=orig), [source tweet](https://twitter.com/UMEDAYO_sekaume/status/1313050442981691392)  
 
 ---
 

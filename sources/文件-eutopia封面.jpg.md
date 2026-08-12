@@ -1,6 +1,6 @@
 # 文件:eutopia封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\80\ns6%3Aeutopia%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\80\ns6%3Aeutopia%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Tinker_JunKtion | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Tinker_JunKtion | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [eutopia](./eutopia.md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)
+- [eutopia](./eutopia.md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
 
   
-源地址：[[1]](https://s.booth.pm/c/f_620/30f9ac5f-40dc-4025-a64b-eaefb7e5b8c9/i/57335/f1ddfe06-bea8-4172-b753-25b6d570d69d.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://s.booth.pm/c/f_620/30f9ac5f-40dc-4025-a64b-eaefb7e5b8c9/i/57335/f1ddfe06-bea8-4172-b753-25b6d570d69d.jpg)  
 
 ---
 

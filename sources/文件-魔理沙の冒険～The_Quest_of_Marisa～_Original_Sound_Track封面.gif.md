@@ -1,6 +1,6 @@
 # 文件:魔理沙の冒険～The_Quest_of_Marisa～_Original_Sound_Track封面.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9a\ns6%3A%E9%AD%94%E7%90%86%E6%B2%99%E3%81%AE%E5%86%92%E9%99%BA%EF%BD%9EThe_Quest_of_Marisa%EF%BD%9E_Original_Sound_Track%E5%B0%81%E9%9D%A2%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9a\ns6%3A%E9%AD%94%E7%90%86%E6%B2%99%E3%81%AE%E5%86%92%E9%99%BA%EF%BD%9EThe_Quest_of_Marisa%EF%BD%9E_Original_Sound_Track%E5%B0%81%E9%9D%A2%2Egif.html -->
 
 BlueMica | 专辑封面 | 封面图片
 
@@ -8,16 +8,12 @@ BlueMica | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [魔理沙の冒険～The Quest of Marisa～ Original Sound Track](./魔理沙の冒険～The_Quest_of_Marisa～_Original_Sound_Track.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [雾雨魔理沙](./雾雨魔理沙.md)
+- [魔理沙の冒険～The Quest of Marisa～ Original Sound Track](./魔理沙の冒険～The_Quest_of_Marisa～_Original_Sound_Track.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-源地址：[[1]](http://www.blue-mica.com/image/touhou/jacketst.gif)
-  
-
-
-
-
+源地址：[\[1\]](http://www.blue-mica.com/image/touhou/jacketst.gif)  
 
 ---
 

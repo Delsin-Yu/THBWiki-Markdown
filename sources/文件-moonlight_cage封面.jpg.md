@@ -1,6 +1,6 @@
 # 文件:moonlight_cage封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f4\ns6%3Amoonlight_cage%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f4\ns6%3Amoonlight_cage%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 あかいろカチューシャ | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@
   
 
 - [moonlight cage](./moonlight_cage.md)
-
-
-
 
 
 ---

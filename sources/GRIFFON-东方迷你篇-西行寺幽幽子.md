@@ -1,37 +1,19 @@
 # GRIFFON/东方迷你篇/西行寺幽幽子
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\1\17\ns0%3AGRIFFON%2F%E4%B8%9C%E6%96%B9%E8%BF%B7%E4%BD%A0%E7%AF%87%2F%E8%A5%BF%E8%A1%8C%E5%AF%BA%E5%B9%BD%E5%B9%BD%E5%AD%90.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\1\17\ns0%3AGRIFFON%2F%E4%B8%9C%E6%96%B9%E8%BF%B7%E4%BD%A0%E7%AF%87%2F%E8%A5%BF%E8%A1%8C%E5%AF%BA%E5%B9%BD%E5%B9%BD%E5%AD%90.html -->
 
 西行寺幽幽子PVCFigure手办模型
 
 本页是关于东方Project  
- **相关实体周边 (未找到链接)** 的词条
-
+**相关实体周边 (未找到链接)**的词条
 ## 模型信息
 
-<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 西行寺幽幽子 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>东方迷你篇</td></tr><tr><td class="label">角色</td><td><a href="./西行寺幽幽子.md" title="西行寺幽幽子">西行寺幽幽子</a></td></tr><tr><td class="label">原型师</td><td><a href="/index.php?title=%E3%81%82%E3%81%8D%E3%82%84%E3%81%BE_%E3%81%82%E3%81%8D%E3%81%8A&amp;action=edit&amp;redlink=1" class="new" title="あきやま あきお（页面不存在）">あきやま あきお</a></td></tr><tr><td class="label">比例</td><td>1/10</td></tr><tr><td class="label">状态</td><td>未发售</td></tr><tr><td class="label">发售方</td><td><a href="/index.php?title=GRIFFON&amp;action=edit&amp;redlink=1" class="new" title="GRIFFON（页面不存在）">GRIFFON</a></td></tr><tr><td class="label">备注</td><td><span style="color:red;">发售终止</span></td></tr></tbody></table>
+<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 西行寺幽幽子 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>东方迷你篇</td></tr><tr><td class="label">角色</td><td><a href="./西行寺幽幽子.md" title="西行寺幽幽子">西行寺幽幽子</a></td></tr><tr><td class="label">原型师</td><td><a class="new" title="あきやま あきお（页面不存在）">あきやま あきお</a></td></tr><tr><td class="label">比例</td><td>1/10</td></tr><tr><td class="label">状态</td><td>未发售</td></tr><tr><td class="label">发售方</td><td><a class="new" title="GRIFFON（页面不存在）">GRIFFON</a></td></tr><tr><td class="label">备注</td><td><span style="color:red;">发售终止</span></td></tr></tbody></table>
 
 GRIFFON/东方迷你篇/西行寺幽幽子（周边） - 西行寺幽幽子PVCFigure手办模型
-
 ## 参考图片
-
-
-
-[](./文件-GRIFFON东方迷你篇西行寺幽幽子-1.jpg.md)
-
-
-文件:GRIFFON东方迷你篇西行寺幽幽子-2.jpg (未找到链接)
-
-
-文件:GRIFFON东方迷你篇西行寺幽幽子-3.jpg (未找到链接)
-
-公式图
-
-
-
-
-
-
+<img alt="GRIFFON东方迷你篇西行寺幽幽子" src="https://upload.thwiki.cc/thumb/4/4b/GRIFFON%E4%B8%9C%E6%96%B9%E8%BF%B7%E4%BD%A0%E7%AF%87%E8%A5%BF%E8%A1%8C%E5%AF%BA%E5%B9%BD%E5%B9%BD%E5%AD%90-1.jpg/160px-GRIFFON%E4%B8%9C%E6%96%B9%E8%BF%B7%E4%BD%A0%E7%AF%87%E8%A5%BF%E8%A1%8C%E5%AF%BA%E5%B9%BD%E5%B9%BD%E5%AD%90-1.jpg" decoding="async" loading="lazy" width="160" height="240" srcset="https://upload.thwiki.cc/thumb/4/4b/GRIFFON%E4%B8%9C%E6%96%B9%E8%BF%B7%E4%BD%A0%E7%AF%87%E8%A5%BF%E8%A1%8C%E5%AF%BA%E5%B9%BD%E5%B9%BD%E5%AD%90-1.jpg/240px-GRIFFON%E4%B8%9C%E6%96%B9%E8%BF%B7%E4%BD%A0%E7%AF%87%E8%A5%BF%E8%A1%8C%E5%AF%BA%E5%B9%BD%E5%B9%BD%E5%AD%90-1.jpg 1.5x, https://upload.thwiki.cc/4/4b/GRIFFON%E4%B8%9C%E6%96%B9%E8%BF%B7%E4%BD%A0%E7%AF%87%E8%A5%BF%E8%A1%8C%E5%AF%BA%E5%B9%BD%E5%B9%BD%E5%AD%90-1.jpg 2x" data-file-width="256" data-file-height="384">
+文件:GRIFFON东方迷你篇西行寺幽幽子-2.jpg (未找到链接)文件:GRIFFON东方迷你篇西行寺幽幽子-3.jpg (未找到链接)公式图
 
 ---
 

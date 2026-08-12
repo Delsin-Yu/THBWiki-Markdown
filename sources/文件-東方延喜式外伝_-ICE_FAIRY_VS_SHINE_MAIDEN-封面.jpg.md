@@ -1,6 +1,6 @@
 # 文件:東方延喜式外伝_-ICE_FAIRY_VS_SHINE_MAIDEN-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a5\ns6%3A%E6%9D%B1%E6%96%B9%E5%BB%B6%E5%96%9C%E5%BC%8F%E5%A4%96%E4%BC%9D_-ICE_FAIRY_VS_SHINE_MAIDEN-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a5\ns6%3A%E6%9D%B1%E6%96%B9%E5%BB%B6%E5%96%9C%E5%BC%8F%E5%A4%96%E4%BC%9D_-ICE_FAIRY_VS_SHINE_MAIDEN-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 CyberBotti | 封面图片 | 软件封面
 
@@ -10,11 +10,9 @@ CyberBotti | 封面图片 | 软件封面
 使用了本文件作封面图片的作品：
   
 
-- [東方延喜式外伝 -ICE FAIRY VS SHINE MAIDEN-](./東方延喜式外伝_-ICE_FAIRY_VS_SHINE_MAIDEN-.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [東方延喜式外伝 -ICE FAIRY VS SHINE MAIDEN-](./東方延喜式外伝_-ICE_FAIRY_VS_SHINE_MAIDEN-.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

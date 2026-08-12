@@ -1,16 +1,13 @@
 # 文件:线形「Linear_Creature」（鬼形兽）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\60\ns6%3A%E7%BA%BF%E5%BD%A2%E3%80%8CLinear_Creature%E3%80%8D%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\60\ns6%3A%E7%BA%BF%E5%BD%A2%E3%80%8CLinear_Creature%E3%80%8D%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%EF%BC%89%2Ejpg.html -->
 
 东方鬼形兽 | 埴安神袿姬 | 敌机符卡
 
 
-## 文件说明  
+## 文件说明
+  
 ，，  
-
-
-
-
 
 ---
 

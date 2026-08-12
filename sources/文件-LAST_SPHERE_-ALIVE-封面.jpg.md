@@ -1,6 +1,6 @@
 # 文件:LAST_SPHERE_-ALIVE-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5d\ns6%3ALAST_SPHERE_-ALIVE-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5d\ns6%3ALAST_SPHERE_-ALIVE-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Last_Sphere | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Last_Sphere | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [LAST SPHERE -ALIVE-](./LAST_SPHERE_-ALIVE-.md)  
-该封面包含的角色：- 初音未来 (未找到链接)
-
-
-
+- [LAST SPHERE -ALIVE-](./LAST_SPHERE_-ALIVE-.md)该封面包含的角色：
+- 初音未来 (未找到链接)
 
 
 ---

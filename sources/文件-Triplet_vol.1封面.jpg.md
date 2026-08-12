@@ -1,6 +1,6 @@
 # 文件:Triplet_vol.1封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\be\ns6%3ATriplet_vol%2E1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\be\ns6%3ATriplet_vol%2E1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 36MACHINE | Sound_Square | けみかるしとらすけーき！ | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Triplet vol.1](./Triplet_vol.1.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)
+- [Triplet vol.1](./Triplet_vol.1.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
 
   
-源地址：[[1]](http://blog-imgs-35.fc2.com/s/o/u/soundsquare/Triplet1_jacket_500x500.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://blog-imgs-35.fc2.com/s/o/u/soundsquare/Triplet1_jacket_500x500.jpg)  
 
 ---
 

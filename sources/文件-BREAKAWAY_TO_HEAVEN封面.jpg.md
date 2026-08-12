@@ -1,6 +1,6 @@
 # 文件:BREAKAWAY_TO_HEAVEN封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0c\ns6%3ABREAKAWAY_TO_HEAVEN%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0c\ns6%3ABREAKAWAY_TO_HEAVEN%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 UnLimited_Questions | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ UnLimited_Questions | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [BREAKAWAY TO HEAVEN](./BREAKAWAY_TO_HEAVEN.md)  
-该封面包含的角色：- [魅魔](./魅魔.md)
-
-
-
+- [BREAKAWAY TO HEAVEN](./BREAKAWAY_TO_HEAVEN.md)该封面包含的角色：
+- [魅魔](./魅魔.md)
 
 
 ---

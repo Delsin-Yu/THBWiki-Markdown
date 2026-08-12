@@ -1,61 +1,50 @@
 # DUNDUNBULBUL
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\2c\ns0%3ADUNDUNBULBUL.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\2c\ns0%3ADUNDUNBULBUL.html -->
 
 2015年10月25日 由 White Wonderful Records 于 M3-2015秋 发布的全长同人专辑，曲目主要风格是 Trance、其他电子，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人专辑 (未找到链接)** 的词条
-
+**[二次创作同人专辑](./二次创作.md#同人音乐)**的词条
 ## 专辑信息
 
-<table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=DUNDUNBULBUL%E5%B0%81%E9%9D%A2.jpg" class="new" title="文件:DUNDUNBULBUL封面.jpg">封面图片</a></td>
-</tr><tr><td class="label">名称</td><td colspan="2"> DUNDUNBULBUL </td></tr><tr><td class="label">制作方</td><td><a href="./White_Wonderful_Records.md" title="White Wonderful Records">White Wonderful Records</a></td><td class="cover-artwork" rowspan="8" style="min-width:224px;"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=DUNDUNBULBUL%E5%B0%81%E9%9D%A2.jpg" class="new" title="文件:DUNDUNBULBUL封面.jpg">封面图片</a></td>
-</tr><tr><td class="label">首发日期</td><td>2015-10-25&#160;（<a href="/展会作品列表?e=M3%2336">M3-2015秋</a>）</td></tr><tr><td class="label">类型</td><td>全长</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>5</td></tr><tr><td class="label">总时长</td><td>00:00</td></tr><tr><td class="label">风格类型</td><td>Trance，其他电子</td></tr></tbody></table>
+<table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a class="new" title="文件:DUNDUNBULBUL封面.jpg">封面图片</a></td>
+</tr><tr><td class="label">名称</td><td colspan="2"> DUNDUNBULBUL </td></tr><tr><td class="label">制作方</td><td><a href="./White_Wonderful_Records.md" title="White Wonderful Records">White Wonderful Records</a></td><td class="cover-artwork" rowspan="8" style="min-width:224px;"><a class="new" title="文件:DUNDUNBULBUL封面.jpg">封面图片</a></td>
+</tr><tr><td class="label">首发日期</td><td>2015-10-25 （<a href="./展会作品列表.md#36">M3-2015秋</a>）</td></tr><tr><td class="label">类型</td><td>全长</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>5</td></tr><tr><td class="label">总时长</td><td>00:00</td></tr><tr><td class="label">风格类型</td><td>Trance，其他电子</td></tr></tbody></table>
 
 DUNDUNBULBUL（同人专辑，White Wonderful Records，2015） - 2015年10月25日 由 White Wonderful Records 于 M3-2015秋 发布的全长同人专辑，曲目主要风格是 Trance、其他电子，分级为 一般向
-
 ## Staff
   
- **Compose**   
+**Compose**  
 
-<table><tbody><tr><td><a href="/index.php?title=SuperMassiveDog&amp;action=edit&amp;redlink=1" class="new" title="SuperMassiveDog（页面不存在）">SuperMassiveDog</a></td><td></td><td>Tr.1</td></tr></tbody></table>
+<table><tbody><tr><td><a class="new" title="SuperMassiveDog（页面不存在）">SuperMassiveDog</a></td><td></td><td>Tr.1</td></tr></tbody></table>
 
   
- **Arrangement**   
+**Arrangement**  
 
-<table><tbody><tr><td><a href="/index.php?title=vorbis&amp;action=edit&amp;redlink=1" class="new" title="vorbis（页面不存在）">vorbis</a></td><td></td><td>Tr.2</td></tr><tr><td><a href="/index.php?title=%E5%A5%B3%E5%85%90&amp;action=edit&amp;redlink=1" class="new" title="女児（页面不存在）">女児</a></td><td></td><td>Tr.3</td></tr><tr><td><a href="/index.php?title=@ndy%27s&amp;action=edit&amp;redlink=1" class="new" title="@ndy&#39;s（页面不存在）">@ndy's</a></td><td></td><td>Tr.4</td></tr><tr><td><a href="/index.php?title=SuperMassiveDog&amp;action=edit&amp;redlink=1" class="new" title="SuperMassiveDog（页面不存在）">SuperMassiveDog</a></td><td></td><td>Tr.5</td></tr></tbody></table>
-
+<table><tbody><tr><td><a class="new" title="vorbis（页面不存在）">vorbis</a></td><td></td><td>Tr.2</td></tr><tr><td><a class="new" title="女児（页面不存在）">女児</a></td><td></td><td>Tr.3</td></tr><tr><td><a class="new" title="@ndy&#39;s（页面不存在）">@ndy's</a></td><td></td><td>Tr.4</td></tr><tr><td><a class="new" title="SuperMassiveDog（页面不存在）">SuperMassiveDog</a></td><td></td><td>Tr.5</td></tr></tbody></table>
 
 Design
 : 设计师 （[网址 社团]）
 Illustration
 : 画师 （[网址 社团]）
 
-
 ## 试听
   
 <iframe width="100%" height="180" src="https://ext.nicovideo.jp/thumb/sm27407430" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/watch/sm27407430">,</a></iframe>
-
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/229083207&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=false"></iframe>
-
   
-
 
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYL"><b>01</b></td><td id="Fr33_Yung" colspan="2" class="title">Fr33 Yung<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=SuperMassiveDog&amp;fromwiki=DUNDUNBULBUL"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=SuperMassiveDog&amp;action=edit&amp;redlink=1" class="new" title="SuperMassiveDog（页面不存在）">SuperMassiveDog</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，SuperMassiveDog&amp;fromwiki=DUNDUNBULBUL"><span></span></a></span></td></tr>
-<tr><td id="2" class="infoYD"><b>02</b></td><td id="Starbucks" colspan="2" class="title">Starbucks<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=vorbis&amp;ogmusic=星の器　～ Casket of Star&amp;fromwiki=DUNDUNBULBUL"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=vorbis&amp;action=edit&amp;redlink=1" class="new" title="vorbis（页面不存在）">vorbis</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，vorbis&amp;fromwiki=DUNDUNBULBUL"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=星の器　～ Casket of Star&amp;fromwiki=DUNDUNBULBUL"><span></span></a></span><div class="ogmusic"><a href="./星の器_～_Casket_of_Star.md" class="mw-redirect" title="星の器 ～ Casket of Star">星の器　～ Casket of Star</a></div><div class="source"><a href="./东方幻想乡_～_Lotus_Land_Story..md" class="mw-redirect" title="东方幻想乡 ～ Lotus Land Story.">东方幻想乡　～ Lotus Land Story.</a></div></td></tr>
-<tr><td id="3" class="infoYD"><b>03</b></td><td id="Artificial_Diamond" colspan="2" class="title">Artificial Diamond<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=女児&amp;ogmusic=the Last Judgement&amp;fromwiki=DUNDUNBULBUL"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E5%A5%B3%E5%85%90&amp;action=edit&amp;redlink=1" class="new" title="女児（页面不存在）">女児</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，女児&amp;fromwiki=DUNDUNBULBUL"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=the Last Judgement&amp;fromwiki=DUNDUNBULBUL"><span></span></a></span><div class="ogmusic"><a href="./the_Last_Judgement.md" title="the Last Judgement">the Last Judgement</a></div><div class="source"><a href="./东方怪绮谈_～_Mystic_Square..md" class="mw-redirect" title="东方怪绮谈 ～ Mystic Square.">东方怪绮谈　～ Mystic Square.</a></div></td></tr>
-<tr><td id="4" class="infoYD"><b>04</b></td><td id="明日ハレの日、ケの昨日(@ndy&#39;s_Remix)" colspan="2" class="title">明日ハレの日、ケの昨日(@ndy&#39;s Remix)<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=@ndy's&amp;ogmusic=明日ハレの日、ケの昨日&amp;fromwiki=DUNDUNBULBUL"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=@ndy%27s&amp;action=edit&amp;redlink=1" class="new" title="@ndy&#39;s（页面不存在）">@ndy's</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，@ndy's&amp;fromwiki=DUNDUNBULBUL"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=明日ハレの日、ケの昨日&amp;fromwiki=DUNDUNBULBUL"><span></span></a></span><div class="ogmusic"><a href="./明日ハレの日、ケの昨日.md" class="mw-redirect" title="明日ハレの日、ケの昨日">明日ハレの日、ケの昨日</a></div><div class="source"><a href="./东方风神录_～_Mountain_of_Faith..md" class="mw-redirect" title="东方风神录 ～ Mountain of Faith.">东方风神录　～ Mountain of Faith.</a></div></td></tr>
-<tr><td id="5" class="infoYD"><b>05</b></td><td id="Wonderful_Gen-so-kyo" colspan="2" class="title">Wonderful Gen-so-kyo<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=SuperMassiveDog&amp;ogmusic=少女綺想曲　～ Capriccio，少女綺想曲　～ Dream Battle&amp;fromwiki=DUNDUNBULBUL"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=SuperMassiveDog&amp;action=edit&amp;redlink=1" class="new" title="SuperMassiveDog（页面不存在）">SuperMassiveDog</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，SuperMassiveDog&amp;fromwiki=DUNDUNBULBUL"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=少女綺想曲　～ Capriccio，少女綺想曲　～ Dream Battle&amp;fromwiki=DUNDUNBULBUL"><span></span></a></span><div class="ogmusic"><a href="./少女綺想曲_～_Capriccio.md" class="mw-redirect" title="少女綺想曲 ～ Capriccio">少女綺想曲　～ Capriccio</a></div><div class="source"><a href="./东方幻想乡_～_Lotus_Land_Story..md" class="mw-redirect" title="东方幻想乡 ～ Lotus Land Story.">东方幻想乡　～ Lotus Land Story.</a></div><hr><div class="ogmusic"><a href="./少女綺想曲_～_Dream_Battle.md" class="mw-redirect" title="少女綺想曲 ～ Dream Battle">少女綺想曲　～ Dream Battle</a></div><div class="source"><a href="./东方永夜抄_～_Imperishable_Night..md" class="mw-redirect" title="东方永夜抄 ～ Imperishable Night.">东方永夜抄　～ Imperishable Night.</a></div></td></tr></tbody></table>
-
+<table><tbody><tr><td id="1" class="infoYL"><b>01</b></td><td id="Fr33_Yung" colspan="2" class="title">Fr33 Yung</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a class="new" title="SuperMassiveDog（页面不存在）">SuperMassiveDog</a></td></tr>
+<tr><td id="2" class="infoYD"><b>02</b></td><td id="Starbucks" colspan="2" class="title">Starbucks</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="vorbis（页面不存在）">vorbis</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./星之器_～_Casket_of_Star.md" class="mw-redirect" title="星の器 ～ Casket of Star">星の器　～ Casket of Star</a></div><div class="source"><a href="./东方幻想乡.md" class="mw-redirect" title="东方幻想乡 ～ Lotus Land Story.">东方幻想乡　～ Lotus Land Story.</a></div></td></tr>
+<tr><td id="3" class="infoYD"><b>03</b></td><td id="Artificial_Diamond" colspan="2" class="title">Artificial Diamond</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="女児（页面不存在）">女児</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./the_Last_Judgement.md" title="the Last Judgement">the Last Judgement</a></div><div class="source"><a href="./东方怪绮谈.md" class="mw-redirect" title="东方怪绮谈 ～ Mystic Square.">东方怪绮谈　～ Mystic Square.</a></div></td></tr>
+<tr><td id="4" class="infoYD"><b>04</b></td><td id="明日ハレの日、ケの昨日(@ndy&#39;s_Remix)" colspan="2" class="title">明日ハレの日、ケの昨日(@ndy's Remix)</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="@ndy&#39;s（页面不存在）">@ndy's</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./明日之盛，昨日之俗.md" class="mw-redirect" title="明日ハレの日、ケの昨日">明日ハレの日、ケの昨日</a></div><div class="source"><a href="./东方风神录.md" class="mw-redirect" title="东方风神录 ～ Mountain of Faith.">东方风神录　～ Mountain of Faith.</a></div></td></tr>
+<tr><td id="5" class="infoYD"><b>05</b></td><td id="Wonderful_Gen-so-kyo" colspan="2" class="title">Wonderful Gen-so-kyo</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="SuperMassiveDog（页面不存在）">SuperMassiveDog</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./少女绮想曲_～_Capriccio.md" class="mw-redirect" title="少女綺想曲 ～ Capriccio">少女綺想曲　～ Capriccio</a></div><div class="source"><a href="./东方幻想乡.md" class="mw-redirect" title="东方幻想乡 ～ Lotus Land Story.">东方幻想乡　～ Lotus Land Story.</a></div><hr><div class="ogmusic"><a href="./少女绮想曲_～_Capriccio.md" class="mw-redirect" title="少女綺想曲 ～ Dream Battle">少女綺想曲　～ Dream Battle</a></div><div class="source"><a href="./东方永夜抄.md" class="mw-redirect" title="东方永夜抄 ～ Imperishable Night.">东方永夜抄　～ Imperishable Night.</a></div></td></tr></tbody></table>
 
 
 ## 评论
-
-
-
 
 ---
 

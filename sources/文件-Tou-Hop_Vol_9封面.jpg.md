@@ -1,6 +1,6 @@
 # 文件:Tou-Hop_Vol_9封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\57\ns6%3ATou-Hop_Vol_9%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\57\ns6%3ATou-Hop_Vol_9%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Moon-Tone | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ Moon-Tone | 专辑封面 | 封面图片
   
 
 - [Tou-Hop Vol 9](./Tou-Hop_Vol_9.md)
-
-
-
 
 
 ---

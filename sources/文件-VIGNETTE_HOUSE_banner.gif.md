@@ -1,12 +1,8 @@
 # 文件:VIGNETTE_HOUSE_banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\94\ns6%3AVIGNETTE_HOUSE_banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\94\ns6%3AVIGNETTE_HOUSE_banner%2Egif.html -->
 
 VIGNETTE_HOUSE | 社团LOGO
-
-
-
-
 
 
 ---

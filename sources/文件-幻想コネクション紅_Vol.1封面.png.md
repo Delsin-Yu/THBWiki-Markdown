@@ -1,6 +1,6 @@
 # 文件:幻想コネクション紅_Vol.1封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a6\ns6%3A%E5%B9%BB%E6%83%B3%E3%82%B3%E3%83%8D%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E7%B4%85_Vol%2E1%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a6\ns6%3A%E5%B9%BB%E6%83%B3%E3%82%B3%E3%83%8D%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E7%B4%85_Vol%2E1%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 甘夏
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [幻想コネクション紅 Vol.1](./幻想コネクション紅_Vol.1.md)  
-该封面包含的角色：- [露米娅](./露米娅.md)
-
-
-
+- [幻想コネクション紅 Vol.1](./幻想コネクション紅_Vol.1.md)该封面包含的角色：
+- [露米娅](./露米娅.md)
 
 
 ---

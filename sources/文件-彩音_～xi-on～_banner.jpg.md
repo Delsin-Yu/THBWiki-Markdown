@@ -1,12 +1,8 @@
 # 文件:彩音_～xi-on～_banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\88\ns6%3A%E5%BD%A9%E9%9F%B3_%EF%BD%9Exi-on%EF%BD%9E_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\88\ns6%3A%E5%BD%A9%E9%9F%B3_%EF%BD%9Exi-on%EF%BD%9E_banner%2Ejpg.html -->
 
 彩音_～xi-on～ | 社团LOGO
-
-
-
-
 
 
 ---

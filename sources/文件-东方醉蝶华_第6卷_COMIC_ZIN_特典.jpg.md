@@ -1,18 +1,13 @@
 # 文件:东方醉蝶华_第6卷_COMIC_ZIN_特典.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\73\ns6%3A%E4%B8%9C%E6%96%B9%E9%86%89%E8%9D%B6%E5%8D%8E_%E7%AC%AC6%E5%8D%B7_COMIC_ZIN_%E7%89%B9%E5%85%B8%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\73\ns6%3A%E4%B8%9C%E6%96%B9%E9%86%89%E8%9D%B6%E5%8D%8E_%E7%AC%AC6%E5%8D%B7_COMIC_ZIN_%E7%89%B9%E5%85%B8%2Ejpg.html -->
 
 COMIC_ZIN | 东方醉蝶华 | 官方特典
 
 
 ## 摘要
   
-源地址：[COMIC ZIN](https://shop.comiczin.jp/upload/save_image/9784041143506_s1.jpg)
-  
-
-
-
-
+源地址：[COMIC ZIN](https://shop.comiczin.jp/upload/save_image/9784041143506_s1.jpg)  
 
 ---
 

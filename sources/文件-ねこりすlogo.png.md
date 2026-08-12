@@ -1,16 +1,11 @@
 # 文件:ねこりすlogo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\65\ns6%3A%E3%81%AD%E3%81%93%E3%82%8A%E3%81%99logo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\65\ns6%3A%E3%81%AD%E3%81%93%E3%82%8A%E3%81%99logo%2Epng.html -->
 
 ねこりす | 社团LOGO
 
   
-源地址：[[1]](https://image.jimcdn.com/app/cms/image/transf/none/path/s6c3a1a6f84b29e7b/image/ie9cadaf5925ab12d/version/1546007005/image.png)
-  
-
-
-
-
+源地址：[\[1\]](https://image.jimcdn.com/app/cms/image/transf/none/path/s6c3a1a6f84b29e7b/image/ie9cadaf5925ab12d/version/1546007005/image.png)  
 
 ---
 

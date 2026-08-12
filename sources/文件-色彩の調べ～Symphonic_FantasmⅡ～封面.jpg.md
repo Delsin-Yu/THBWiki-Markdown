@@ -1,6 +1,6 @@
 # 文件:色彩の調べ～Symphonic_FantasmⅡ～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\aa\ns6%3A%E8%89%B2%E5%BD%A9%E3%81%AE%E8%AA%BF%E3%81%B9%EF%BD%9ESymphonic_Fantasm%E2%85%A1%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\aa\ns6%3A%E8%89%B2%E5%BD%A9%E3%81%AE%E8%AA%BF%E3%81%B9%EF%BD%9ESymphonic_Fantasm%E2%85%A1%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 幻楽工房
 
@@ -8,11 +8,14 @@
 使用了本文件作封面图片的作品：
   
 
-- [色彩の調べ～Symphonic FantasmⅡ～](./色彩の調べ～Symphonic_FantasmⅡ～.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)- [博丽灵梦](./博丽灵梦.md)- [橙](./橙.md)- [八云蓝](./八云蓝.md)- [八云紫](./八云紫.md)- [水桥帕露西](./水桥帕露西.md)- [寅丸星](./寅丸星.md)
-
-
-
+- [色彩の調べ～Symphonic FantasmⅡ～](./色彩の調べ～Symphonic_FantasmⅡ～.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
+- [博丽灵梦](./博丽灵梦.md)
+- [橙](./橙.md)
+- [八云蓝](./八云蓝.md)
+- [八云紫](./八云紫.md)
+- [水桥帕露西](./水桥帕露西.md)
+- [寅丸星](./寅丸星.md)
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:黒猫館モンプチbanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e3\ns6%3A%E9%BB%92%E7%8C%AB%E9%A4%A8%E3%83%A2%E3%83%B3%E3%83%97%E3%83%81banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e3\ns6%3A%E9%BB%92%E7%8C%AB%E9%A4%A8%E3%83%A2%E3%83%B3%E3%83%97%E3%83%81banner%2Egif.html -->
 
 社团LOGO | 黒猫館モンプチ
-
-
-
-
 
 
 ---

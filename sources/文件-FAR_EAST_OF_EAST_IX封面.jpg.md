@@ -1,6 +1,6 @@
 # 文件:FAR_EAST_OF_EAST_IX封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\97\ns6%3AFAR_EAST_OF_EAST_IX%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\97\ns6%3AFAR_EAST_OF_EAST_IX%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 TatshMusicCircle | 专辑封面 | 封面图片
 
@@ -8,16 +8,13 @@ TatshMusicCircle | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [FAR EAST OF EAST IX](./FAR_EAST_OF_EAST_IX.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- 十六夜咲夜 (未找到链接)- [雾雨魔理沙](./雾雨魔理沙.md)
+- [FAR EAST OF EAST IX](./FAR_EAST_OF_EAST_IX.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [十六夜咲夜](./十六夜咲夜.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-源地址：[[1]](http://tmccd.web.fc2.com/images/feoe9.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://tmccd.web.fc2.com/images/feoe9.jpg)  
 
 ---
 

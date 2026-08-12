@@ -1,6 +1,6 @@
 # 文件:Black_Desire封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\be\ns6%3ABlack_Desire%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\be\ns6%3ABlack_Desire%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Freaks_Ground | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ Freaks_Ground | 专辑封面 | 封面图片
   
 
 - [Black Desire](./Black_Desire.md)
-
-
-
 
 
 ---

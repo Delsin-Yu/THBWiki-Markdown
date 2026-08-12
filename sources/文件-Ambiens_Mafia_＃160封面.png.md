@@ -1,6 +1,6 @@
 # 文件:Ambiens_Mafia_＃160封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bc\ns6%3AAmbiens_Mafia_%EF%BC%83160%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bc\ns6%3AAmbiens_Mafia_%EF%BC%83160%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Tengu_Corp | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Tengu_Corp | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Ambiens Mafia ＃160](./Ambiens_Mafia_＃160.md)  
-该封面包含的角色：- [吉吊八千慧](./吉吊八千慧.md)
-
-
-
+- [Ambiens Mafia ＃160](./Ambiens_Mafia_＃160.md)该封面包含的角色：
+- [吉吊八千慧](./吉吊八千慧.md)
 
 
 ---

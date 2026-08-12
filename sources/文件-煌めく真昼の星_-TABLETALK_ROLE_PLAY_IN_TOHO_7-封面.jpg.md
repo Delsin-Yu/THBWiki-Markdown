@@ -1,6 +1,6 @@
 # 文件:煌めく真昼の星_-TABLETALK_ROLE_PLAY_IN_TOHO_7-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dc\ns6%3A%E7%85%8C%E3%82%81%E3%81%8F%E7%9C%9F%E6%98%BC%E3%81%AE%E6%98%9F_-TABLETALK_ROLE_PLAY_IN_TOHO_7-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dc\ns6%3A%E7%85%8C%E3%82%81%E3%81%8F%E7%9C%9F%E6%98%BC%E3%81%AE%E6%98%9F_-TABLETALK_ROLE_PLAY_IN_TOHO_7-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 天秤亭 | 封面图片
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [煌めく真昼の星 -TABLETALK ROLE PLAY IN TOHO 7-](./煌めく真昼の星_-TABLETALK_ROLE_PLAY_IN_TOHO_7-.md)  
-该封面包含的角色：- [丰聪耳神子](./丰聪耳神子.md)
+- [煌めく真昼の星 -TABLETALK ROLE PLAY IN TOHO 7-](./煌めく真昼の星_-TABLETALK_ROLE_PLAY_IN_TOHO_7-.md)该封面包含的角色：
+- [丰聪耳神子](./丰聪耳神子.md)
 
   
-源地址：[[1]](http://10bintei.com/images/produce18_01.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://10bintei.com/images/produce18_01.jpg)  
 
 ---
 

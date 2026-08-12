@@ -1,12 +1,8 @@
 # 文件:浊浪文工团banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\94\ns6%3A%E6%B5%8A%E6%B5%AA%E6%96%87%E5%B7%A5%E5%9B%A2banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\94\ns6%3A%E6%B5%8A%E6%B5%AA%E6%96%87%E5%B7%A5%E5%9B%A2banner%2Ejpg.html -->
 
 浊浪文工团 | 社团LOGO
-
-
-
-
 
 
 ---

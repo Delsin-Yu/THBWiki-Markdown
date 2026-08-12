@@ -1,14 +1,11 @@
 # 文件:灯火浮遊戦banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0c\ns6%3A%E7%81%AF%E7%81%AB%E6%B5%AE%E9%81%8A%E6%88%A6banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0c\ns6%3A%E7%81%AF%E7%81%AB%E6%B5%AE%E9%81%8A%E6%88%A6banner%2Ejpg.html -->
 
 灯火浮遊戦 | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:東方WhiBEST_-OVER_Edition-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\da\ns6%3A%E6%9D%B1%E6%96%B9WhiBEST_-OVER_Edition-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\da\ns6%3A%E6%9D%B1%E6%96%B9WhiBEST_-OVER_Edition-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 WhiTECHNO | 专辑封面 | 封面图片
 
@@ -8,11 +8,12 @@ WhiTECHNO | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方WhiBEST -OVER Edition-](./東方WhiBEST_-OVER_Edition-.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)- [博丽灵梦](./博丽灵梦.md)- [大妖精](./大妖精.md)- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)- [伊吹萃香](./伊吹萃香.md)
-
-
-
+- [東方WhiBEST -OVER Edition-](./東方WhiBEST_-OVER_Edition-.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
+- [博丽灵梦](./博丽灵梦.md)
+- [大妖精](./大妖精.md)
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [伊吹萃香](./伊吹萃香.md)
 
 
 ---

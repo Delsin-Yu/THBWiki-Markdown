@@ -1,81 +1,57 @@
 # SCARLET_FANTASIA_V
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\a\ab\ns0%3ASCARLET_FANTASIA_V.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\a\ab\ns0%3ASCARLET_FANTASIA_V.html -->
 
 2010年3月14日 由 岡垣正志＆フレンズ 于 博丽神社例大祭7 发布的合作/全长同人专辑，曲目主要风格是 金属，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人专辑 (未找到链接)** 的词条
-
+**[二次创作同人专辑](./二次创作.md#同人音乐)**的词条
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-SCARLET_FANTASIA_V封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/a/a2/SCARLET_FANTASIA_V%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="280" height="280" data-file-width="200" data-file-height="200"></a><div class="cover-char">角色：<a href="./古明地觉.md" title="古明地觉">古明地觉</a>，<a href="./古明地恋.md" title="古明地恋">古明地恋</a></div></td>
 </tr><tr><td class="label">名称</td><td colspan="2"> SCARLET FANTASIA V </td></tr><tr><td class="label">制作方</td><td><a href="./岡垣正志＆フレンズ.md" title="岡垣正志＆フレンズ">岡垣正志＆フレンズ</a></td><td class="cover-artwork" rowspan="10" style="min-width:280px;"><a href="./文件-SCARLET_FANTASIA_V封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/a/a2/SCARLET_FANTASIA_V%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="280" height="280" data-file-width="200" data-file-height="200"></a><div class="cover-char">角色：<a href="./古明地觉.md" title="古明地觉">古明地觉</a>，<a href="./古明地恋.md" title="古明地恋">古明地恋</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2010-03-14&#160;（<a href="/展会作品列表?e=%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD%237">第七回 博麗神社例大祭</a>）</td></tr><tr><td class="label">类型</td><td>合作，全长</td></tr><tr><td class="label">编号</td><td>KPCR-94N</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>4</td></tr><tr><td class="label">总时长</td><td>00:00</td></tr><tr><td class="label">风格类型</td><td>金属</td></tr><tr><td class="label">售价</td><td>会场售价：1000日元<br>通贩售价：1200日元含税</td></tr>
+</tr><tr><td class="label">首发日期</td><td>2010-03-14 （<a href="./展会作品列表.md#7">第七回 博麗神社例大祭</a>）</td></tr><tr><td class="label">类型</td><td>合作，全长</td></tr><tr><td class="label">编号</td><td>KPCR-94N</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>4</td></tr><tr><td class="label">总时长</td><td>00:00</td></tr><tr><td class="label">风格类型</td><td>金属</td></tr><tr><td class="label">售价</td><td>会场售价：1000日元<br>通贩售价：1200日元含税</td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://kapparecords.verse.jp/MasashiOkagakiAndFriends/M_OKAGAKI_KPCR-94N.html">http://kapparecords.verse.jp/MasashiOkagakiAndFriends/M_OKAGAKI_KPCR-94N.html</a></td></tr></tbody></table>
 
 SCARLET FANTASIA V（同人专辑，岡垣正志＆フレンズ，2010） - 2010年3月14日 由 岡垣正志＆フレンズ 于 博丽神社例大祭7 发布的合作/全长同人专辑，曲目主要风格是 金属，分级为 一般向
-
 ## Staff
   
- **Arrangement**   
+**Arrangement**  
 
-<table><tbody><tr><td><a href="/index.php?title=%E5%B2%A1%E5%9E%A3_%22Jill%22_%E6%AD%A3%E5%BF%97&amp;action=edit&amp;redlink=1" class="new" title="岡垣 &quot;Jill&quot; 正志（页面不存在）">岡垣 "Jill" 正志</a></td><td><a href="./岡垣正志＆フレンズ.md" title="岡垣正志＆フレンズ">岡垣正志＆フレンズ</a></td><td>Tr.1-4</td></tr></tbody></table>
-
-  
- **Vocal**   
-
-<table><tbody><tr><td><a href="/index.php?title=Youichi_Shigami&amp;action=edit&amp;redlink=1" class="new" title="Youichi Shigami（页面不存在）">Youichi Shigami</a></td><td><a href="./岡垣正志＆フレンズ.md" title="岡垣正志＆フレンズ">岡垣正志＆フレンズ</a></td><td>Tr.1</td></tr><tr><td><a href="/index.php?title=Mai_Araki&amp;action=edit&amp;redlink=1" class="new" title="Mai Araki（页面不存在）">Mai Araki</a></td><td><a href="./岡垣正志＆フレンズ.md" title="岡垣正志＆フレンズ">岡垣正志＆フレンズ</a></td><td>Tr.4</td></tr></tbody></table>
+<table><tbody><tr><td><a class="new" title="岡垣 &quot;Jill&quot; 正志（页面不存在）">岡垣 "Jill" 正志</a></td><td><a href="./岡垣正志＆フレンズ.md" title="岡垣正志＆フレンズ">岡垣正志＆フレンズ</a></td><td>Tr.1-4</td></tr></tbody></table>
 
   
- **Lyrics**   
+**Vocal**  
 
-<table><tbody><tr><td><a href="/index.php?title=Youichi_Shigami&amp;action=edit&amp;redlink=1" class="new" title="Youichi Shigami（页面不存在）">Youichi Shigami</a></td><td><a href="./岡垣正志＆フレンズ.md" title="岡垣正志＆フレンズ">岡垣正志＆フレンズ</a></td><td>Tr.1</td></tr><tr><td><a href="/index.php?title=Mai_Araki&amp;action=edit&amp;redlink=1" class="new" title="Mai Araki（页面不存在）">Mai Araki</a></td><td><a href="./岡垣正志＆フレンズ.md" title="岡垣正志＆フレンズ">岡垣正志＆フレンズ</a></td><td>Tr.4</td></tr></tbody></table>
+<table><tbody><tr><td><a class="new" title="Youichi Shigami（页面不存在）">Youichi Shigami</a></td><td><a href="./岡垣正志＆フレンズ.md" title="岡垣正志＆フレンズ">岡垣正志＆フレンズ</a></td><td>Tr.1</td></tr><tr><td><a class="new" title="Mai Araki（页面不存在）">Mai Araki</a></td><td><a href="./岡垣正志＆フレンズ.md" title="岡垣正志＆フレンズ">岡垣正志＆フレンズ</a></td><td>Tr.4</td></tr></tbody></table>
 
   
- **Instrument**   
+**Lyrics**  
 
-<table><tbody><tr><td><a href="/index.php?title=ANI-Katsu&amp;action=edit&amp;redlink=1" class="new" title="ANI-Katsu（页面不存在）">ANI-Katsu</a></td><td><a href="./岡垣正志＆フレンズ.md" title="岡垣正志＆フレンズ">岡垣正志＆フレンズ</a></td><td>Tr.1/3/4</td></tr><tr><td><a href="/index.php?title=Hiromi_Suzuki&amp;action=edit&amp;redlink=1" class="new" title="Hiromi Suzuki（页面不存在）">Hiromi Suzuki</a></td><td><a href="./岡垣正志＆フレンズ.md" title="岡垣正志＆フレンズ">岡垣正志＆フレンズ</a></td><td>Tr.1/4</td></tr><tr><td><a href="/index.php?title=Takeshi_Inoue&amp;action=edit&amp;redlink=1" class="new" title="Takeshi Inoue（页面不存在）">Takeshi Inoue</a></td><td><a href="./岡垣正志＆フレンズ.md" title="岡垣正志＆フレンズ">岡垣正志＆フレンズ</a></td><td>Tr.2</td></tr><tr><td><a href="/index.php?title=Hiromi_Suzuk&amp;action=edit&amp;redlink=1" class="new" title="Hiromi Suzuk（页面不存在）">Hiromi Suzuk</a></td><td></td><td>Tr.3</td></tr></tbody></table>
+<table><tbody><tr><td><a class="new" title="Youichi Shigami（页面不存在）">Youichi Shigami</a></td><td><a href="./岡垣正志＆フレンズ.md" title="岡垣正志＆フレンズ">岡垣正志＆フレンズ</a></td><td>Tr.1</td></tr><tr><td><a class="new" title="Mai Araki（页面不存在）">Mai Araki</a></td><td><a href="./岡垣正志＆フレンズ.md" title="岡垣正志＆フレンズ">岡垣正志＆フレンズ</a></td><td>Tr.4</td></tr></tbody></table>
 
+  
+**Instrument**  
+
+<table><tbody><tr><td><a class="new" title="ANI-Katsu（页面不存在）">ANI-Katsu</a></td><td><a href="./岡垣正志＆フレンズ.md" title="岡垣正志＆フレンズ">岡垣正志＆フレンズ</a></td><td>Tr.1/3/4</td></tr><tr><td><a class="new" title="Hiromi Suzuki（页面不存在）">Hiromi Suzuki</a></td><td><a href="./岡垣正志＆フレンズ.md" title="岡垣正志＆フレンズ">岡垣正志＆フレンズ</a></td><td>Tr.1/4</td></tr><tr><td><a class="new" title="Takeshi Inoue（页面不存在）">Takeshi Inoue</a></td><td><a href="./岡垣正志＆フレンズ.md" title="岡垣正志＆フレンズ">岡垣正志＆フレンズ</a></td><td>Tr.2</td></tr><tr><td><a class="new" title="Hiromi Suzuk（页面不存在）">Hiromi Suzuk</a></td><td></td><td>Tr.3</td></tr></tbody></table>
 
 Illustration
 : PROJECT.C.K.
 
-
 ## 试听
-  
-<audio src="http://kapparecords.verse.jp/crossfade/KPCR-94_Crossfade.mp3" loop="" controls="" preload="none"></audio>
-
-  
-
 
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoRD"><b>01</b></td><td id="Frenzy" colspan="2" class="title"><span class="new" title="（歌词页面不存在）"><a href="/index.php?title=%E6%AD%8C%E8%AF%8D:Frenzy&amp;boilerplate=模板:页面模板/曲目歌词&amp;action=edit">Frenzy</a></span><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=岡垣 &quot;Jill&quot; 正志&amp;vocal=Youichi Shigami&amp;lyric=Youichi Shigami&amp;ogmusic=月時計　～ ルナ・ダイアル&amp;fromwiki=SCARLET_FANTASIA_V"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E5%B2%A1%E5%9E%A3_%22Jill%22_%E6%AD%A3%E5%BF%97&amp;action=edit&amp;redlink=1" class="new" title="岡垣 &quot;Jill&quot; 正志（页面不存在）">岡垣 "Jill" 正志</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，岡垣 &quot;Jill&quot; 正志&amp;fromwiki=SCARLET_FANTASIA_V"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="/index.php?title=Youichi_Shigami&amp;action=edit&amp;redlink=1" class="new" title="Youichi Shigami（页面不存在）">Youichi Shigami</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=Youichi Shigami&amp;fromwiki=SCARLET_FANTASIA_V"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="/index.php?title=Youichi_Shigami&amp;action=edit&amp;redlink=1" class="new" title="Youichi Shigami（页面不存在）">Youichi Shigami</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?lyric=Youichi Shigami&amp;fromwiki=SCARLET_FANTASIA_V"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演奏</td><td class="text" colspan="2">Bass：ANI-Katsu <br>Guitar：Hiromi Suzuki</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=月時計　～ ルナ・ダイアル&amp;fromwiki=SCARLET_FANTASIA_V"><span></span></a></span><div class="ogmusic"><a href="./月時計_～_ルナ・ダイアル.md" class="mw-redirect" title="月時計 ～ ルナ・ダイアル">月時計　～ ルナ・ダイアル</a></div><div class="source"><a href="./东方红魔乡_～_the_Embodiment_of_Scarlet_Devil..md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr>
-<tr><td id="2" class="infoYD"><b>02</b></td><td id="Untitled-19TE" colspan="2" class="title">Untitled-19TE<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=岡垣 &quot;Jill&quot; 正志&amp;ogmusic=月見草&amp;fromwiki=SCARLET_FANTASIA_V"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E5%B2%A1%E5%9E%A3_%22Jill%22_%E6%AD%A3%E5%BF%97&amp;action=edit&amp;redlink=1" class="new" title="岡垣 &quot;Jill&quot; 正志（页面不存在）">岡垣 "Jill" 正志</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，岡垣 &quot;Jill&quot; 正志&amp;fromwiki=SCARLET_FANTASIA_V"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演奏</td><td class="text" colspan="2">Guitar：<a href="/index.php?title=Takeshi_Inoue&amp;action=edit&amp;redlink=1" class="new" title="Takeshi Inoue（页面不存在）">Takeshi Inoue</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=月見草&amp;fromwiki=SCARLET_FANTASIA_V"><span></span></a></span><div class="ogmusic"><a href="./月見草.md" class="mw-redirect" title="月見草">月見草</a></div><div class="source"><a href="./东方永夜抄_～_Imperishable_Night..md" class="mw-redirect" title="东方永夜抄 ～ Imperishable Night.">东方永夜抄　～ Imperishable Night.</a></div></td></tr>
-<tr><td id="3" class="infoYD"><b>03</b></td><td id="Untitled-13TC" colspan="2" class="title">Untitled-13TC<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=岡垣 &quot;Jill&quot; 正志&amp;ogmusic=霊知の太陽信仰　～ Nuclear Fusion&amp;fromwiki=SCARLET_FANTASIA_V"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E5%B2%A1%E5%9E%A3_%22Jill%22_%E6%AD%A3%E5%BF%97&amp;action=edit&amp;redlink=1" class="new" title="岡垣 &quot;Jill&quot; 正志（页面不存在）">岡垣 "Jill" 正志</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，岡垣 &quot;Jill&quot; 正志&amp;fromwiki=SCARLET_FANTASIA_V"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演奏</td><td class="text" colspan="2">Guitar：Hiromi Suzuk <br>Bass：ANI-Katsu</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=霊知の太陽信仰　～ Nuclear Fusion&amp;fromwiki=SCARLET_FANTASIA_V"><span></span></a></span><div class="ogmusic"><a href="./霊知の太陽信仰_～_Nuclear_Fusion.md" class="mw-redirect" title="霊知の太陽信仰 ～ Nuclear Fusion">霊知の太陽信仰　～ Nuclear Fusion</a></div><div class="source"><a href="./东方地灵殿_～_Subterranean_Animism..md" class="mw-redirect" title="东方地灵殿 ～ Subterranean Animism.">东方地灵殿　～ Subterranean Animism.</a></div></td></tr>
-<tr><td id="4" class="infoRD"><b>04</b></td><td id="紅蓮の炎" colspan="2" class="title"><span class="new" title="（歌词页面不存在）"><a href="/index.php?title=%E6%AD%8C%E8%AF%8D:%E7%B4%85%E8%93%AE%E3%81%AE%E7%82%8E&amp;boilerplate=模板:页面模板/曲目歌词&amp;action=edit">紅蓮の炎</a></span><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=岡垣 &quot;Jill&quot; 正志&amp;vocal=Mai Araki&amp;lyric=Mai Araki&amp;ogmusic=業火マントル&amp;fromwiki=SCARLET_FANTASIA_V"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E5%B2%A1%E5%9E%A3_%22Jill%22_%E6%AD%A3%E5%BF%97&amp;action=edit&amp;redlink=1" class="new" title="岡垣 &quot;Jill&quot; 正志（页面不存在）">岡垣 "Jill" 正志</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，岡垣 &quot;Jill&quot; 正志&amp;fromwiki=SCARLET_FANTASIA_V"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="/index.php?title=Mai_Araki&amp;action=edit&amp;redlink=1" class="new" title="Mai Araki（页面不存在）">Mai Araki</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=Mai Araki&amp;fromwiki=SCARLET_FANTASIA_V"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="/index.php?title=Mai_Araki&amp;action=edit&amp;redlink=1" class="new" title="Mai Araki（页面不存在）">Mai Araki</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?lyric=Mai Araki&amp;fromwiki=SCARLET_FANTASIA_V"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演奏</td><td class="text" colspan="2">Guitar：Hiromi Suzuki <br>Bass：ANI-Katsu</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=業火マントル&amp;fromwiki=SCARLET_FANTASIA_V"><span></span></a></span><div class="ogmusic"><a href="./業火マントル.md" class="mw-redirect" title="業火マントル">業火マントル</a></div><div class="source"><a href="./东方地灵殿_～_Subterranean_Animism..md" class="mw-redirect" title="东方地灵殿 ～ Subterranean Animism.">东方地灵殿　～ Subterranean Animism.</a></div></td></tr></tbody></table>
-
+<table><tbody><tr><td id="1" class="infoRD"><b>01</b></td><td id="Frenzy" colspan="2" class="title"><span class="new" title="（歌词页面不存在）"><a>Frenzy</a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="岡垣 &quot;Jill&quot; 正志（页面不存在）">岡垣 "Jill" 正志</a></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a class="new" title="Youichi Shigami（页面不存在）">Youichi Shigami</a></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a class="new" title="Youichi Shigami（页面不存在）">Youichi Shigami</a></td></tr><tr><td class="left"></td><td class="label">演奏</td><td class="text" colspan="2">Bass：ANI-Katsu <br>Guitar：Hiromi Suzuki</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./月时计_～_Luna_Dial.md" class="mw-redirect" title="月時計 ～ ルナ・ダイアル">月時計　～ ルナ・ダイアル</a></div><div class="source"><a href="./东方红魔乡.md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr>
+<tr><td id="2" class="infoYD"><b>02</b></td><td id="Untitled-19TE" colspan="2" class="title">Untitled-19TE</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="岡垣 &quot;Jill&quot; 正志（页面不存在）">岡垣 "Jill" 正志</a></td></tr><tr><td class="left"></td><td class="label">演奏</td><td class="text" colspan="2">Guitar：<a class="new" title="Takeshi Inoue（页面不存在）">Takeshi Inoue</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./月见草.md" class="mw-redirect" title="月見草">月見草</a></div><div class="source"><a href="./东方永夜抄.md" class="mw-redirect" title="东方永夜抄 ～ Imperishable Night.">东方永夜抄　～ Imperishable Night.</a></div></td></tr>
+<tr><td id="3" class="infoYD"><b>03</b></td><td id="Untitled-13TC" colspan="2" class="title">Untitled-13TC</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="岡垣 &quot;Jill&quot; 正志（页面不存在）">岡垣 "Jill" 正志</a></td></tr><tr><td class="left"></td><td class="label">演奏</td><td class="text" colspan="2">Guitar：Hiromi Suzuk <br>Bass：ANI-Katsu</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./灵知的太阳信仰_～_Nuclear_Fusion.md" class="mw-redirect" title="霊知の太陽信仰 ～ Nuclear Fusion">霊知の太陽信仰　～ Nuclear Fusion</a></div><div class="source"><a href="./东方地灵殿.md" class="mw-redirect" title="东方地灵殿 ～ Subterranean Animism.">东方地灵殿　～ Subterranean Animism.</a></div></td></tr>
+<tr><td id="4" class="infoRD"><b>04</b></td><td id="紅蓮の炎" colspan="2" class="title"><span class="new" title="（歌词页面不存在）"><a>紅蓮の炎</a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="岡垣 &quot;Jill&quot; 正志（页面不存在）">岡垣 "Jill" 正志</a></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a class="new" title="Mai Araki（页面不存在）">Mai Araki</a></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a class="new" title="Mai Araki（页面不存在）">Mai Araki</a></td></tr><tr><td class="left"></td><td class="label">演奏</td><td class="text" colspan="2">Guitar：Hiromi Suzuki <br>Bass：ANI-Katsu</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./业火地幔.md" class="mw-redirect" title="業火マントル">業火マントル</a></div><div class="source"><a href="./东方地灵殿.md" class="mw-redirect" title="东方地灵殿 ～ Subterranean Animism.">东方地灵殿　～ Subterranean Animism.</a></div></td></tr></tbody></table>
 
 
 ## 评论
+
 ```
-日本の様式美ハードロックバンドの先駆者的存在「テラローザ」を率い活躍。
-技巧派集団「ジルズ・プロジェクト」を率い
-ゲームメーカーのアレンジ作品や映画音楽を手掛けてきたキーボーディスト岡垣正志による
-東方プロジェクト様式美ハードロックアレンジ作品
-・・・
-よりハードに、よりドラマチックに展開される、幻想的、荘厳、至高の様式美ハードロックサウンドに、
-多彩な参加メンバーが異なる彩りを添え、期待を裏切らない作品に仕上がりました
-```
-
-  
-  
-
-  
-
-
-
+日本の様式美ハードロックバンドの先駆者的存在「テラローザ」を率い活躍。 技巧派集団「ジルズ・プロジェクト」を率い ゲームメーカーのアレンジ作品や映画音楽を手掛けてきたキーボーディスト岡垣正志による 東方プロジェクト様式美ハードロックアレンジ作品 ・・・ よりハードに、よりドラマチックに展開される、幻想的、荘厳、至高の様式美ハードロックサウンドに、 多彩な参加メンバーが異なる彩りを添え、期待を裏切らない作品に仕上がりました ```
 
 
 ---

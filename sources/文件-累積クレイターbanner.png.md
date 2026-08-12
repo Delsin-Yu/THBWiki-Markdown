@@ -1,18 +1,13 @@
 # 文件:累積クレイターbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\ba\ns6%3A%E7%B4%AF%E7%A9%8D%E3%82%AF%E3%83%AC%E3%82%A4%E3%82%BF%E3%83%BCbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\ba\ns6%3A%E7%B4%AF%E7%A9%8D%E3%82%AF%E3%83%AC%E3%82%A4%E3%82%BF%E3%83%BCbanner%2Epng.html -->
 
 社团LOGO | 累積クレイター
 
 
 ## 摘要
   
-源地址：[direct image link](https://web.archive.org/web/20190330043340im_/http://www.geocities.jp/re_ifi_er/b_rui_toho.png), [source page](https://web.archive.org/web/20190314054850/http://www.geocities.jp/re_ifi_er/)
-  
-
-
-
-
+源地址：[direct image link](https://web.archive.org/web/20190330043340im_/http://www.geocities.jp/re_ifi_er/b_rui_toho.png), [source page](https://web.archive.org/web/20190314054850/http://www.geocities.jp/re_ifi_er/)  
 
 ---
 

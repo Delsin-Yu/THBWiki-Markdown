@@ -1,16 +1,12 @@
 # 模板:地狱极乐Bombayer
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\2\25\ns10%3A%E5%9C%B0%E7%8B%B1%E6%9E%81%E4%B9%90Bombayer.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\2\25\ns10%3A%E5%9C%B0%E7%8B%B1%E6%9E%81%E4%B9%90Bombayer.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

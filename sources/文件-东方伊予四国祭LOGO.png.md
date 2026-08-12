@@ -1,12 +1,8 @@
 # 文件:东方伊予四国祭LOGO.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9b\ns6%3A%E4%B8%9C%E6%96%B9%E4%BC%8A%E4%BA%88%E5%9B%9B%E5%9B%BD%E7%A5%ADLOGO%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9b\ns6%3A%E4%B8%9C%E6%96%B9%E4%BC%8A%E4%BA%88%E5%9B%9B%E5%9B%BD%E7%A5%ADLOGO%2Epng.html -->
 
 东方伊予四国祭 | 活动LOGO
-
-
-
-
 
 
 ---

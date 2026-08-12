@@ -1,14 +1,11 @@
 # 文件:Usagisan-Books_banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\05\ns6%3AUsagisan-Books_banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\05\ns6%3AUsagisan-Books_banner%2Egif.html -->
 
 Usagisan-Books | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

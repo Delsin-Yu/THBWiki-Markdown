@@ -1,16 +1,12 @@
 # 模板:LAL
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\7\7d\ns10%3ALAL.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\7\7d\ns10%3ALAL.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

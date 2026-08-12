@@ -1,6 +1,6 @@
 # 文件:Comic_market_93_あ～るの～と_おまけCD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fc\ns6%3AComic_market_93_%E3%81%82%EF%BD%9E%E3%82%8B%E3%81%AE%EF%BD%9E%E3%81%A8_%E3%81%8A%E3%81%BE%E3%81%91CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fc\ns6%3AComic_market_93_%E3%81%82%EF%BD%9E%E3%82%8B%E3%81%AE%EF%BD%9E%E3%81%A8_%E3%81%8A%E3%81%BE%E3%81%91CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 R-note | 专辑封面 | 封面图片
 
@@ -10,11 +10,9 @@ R-note | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Comic market 93 あ～るの～と おまけCD](./Comic_market_93_あ～るの～と_おまけCD.md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)- [西行寺幽幽子](./西行寺幽幽子.md)
-
-
-
+- [Comic market 93 あ～るの～と おまけCD](./Comic_market_93_あ～るの～と_おまけCD.md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
+- [西行寺幽幽子](./西行寺幽幽子.md)
 
 
 ---

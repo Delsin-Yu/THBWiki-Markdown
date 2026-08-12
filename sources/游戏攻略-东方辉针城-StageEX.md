@@ -1,10 +1,6 @@
 # 游戏攻略/东方辉针城/StageEX
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\05\ns0%3A%E6%B8%B8%E6%88%8F%E6%94%BB%E7%95%A5%2F%E4%B8%9C%E6%96%B9%E8%BE%89%E9%92%88%E5%9F%8E%2FStageEX.html -->
-
-
-
-
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\05\ns0%3A%E6%B8%B8%E6%88%8F%E6%94%BB%E7%95%A5%2F%E4%B8%9C%E6%96%B9%E8%BE%89%E9%92%88%E5%9F%8E%2FStageEX.html -->
 
 
 

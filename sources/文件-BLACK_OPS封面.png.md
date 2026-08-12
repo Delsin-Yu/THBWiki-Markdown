@@ -1,6 +1,6 @@
 # 文件:BLACK_OPS封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6e\ns6%3ABLACK_OPS%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6e\ns6%3ABLACK_OPS%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 さくらんぼ☆しゅがぁ | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [BLACK OPS](./BLACK_OPS.md)  
-该封面包含的角色：- [露米娅](./露米娅.md)
+- [BLACK OPS](./BLACK_OPS.md)该封面包含的角色：
+- [露米娅](./露米娅.md)
 
   
-[Pixiv artwork ID: 14685339 (original size)](https://www.pixiv.net/artworks/14685339)
-  
-
-
-
-
+[Pixiv artwork ID: 14685339 (original size)](https://www.pixiv.net/artworks/14685339)  
 
 ---
 

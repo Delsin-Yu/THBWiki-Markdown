@@ -1,12 +1,8 @@
 # 文件:ハラペーニョチップスbanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\44\ns6%3A%E3%83%8F%E3%83%A9%E3%83%9A%E3%83%BC%E3%83%8B%E3%83%A7%E3%83%81%E3%83%83%E3%83%97%E3%82%B9banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\44\ns6%3A%E3%83%8F%E3%83%A9%E3%83%9A%E3%83%BC%E3%83%8B%E3%83%A7%E3%83%81%E3%83%83%E3%83%97%E3%82%B9banner%2Egif.html -->
 
 ハラペーニョチップス | 社团LOGO
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:豪族学園_IN_SUMMER封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5d\ns6%3A%E8%B1%AA%E6%97%8F%E5%AD%A6%E5%9C%92_IN_SUMMER%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5d\ns6%3A%E8%B1%AA%E6%97%8F%E5%AD%A6%E5%9C%92_IN_SUMMER%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 雨洩り宿
 
@@ -10,11 +10,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [豪族学園 IN SUMMER](./豪族学園_IN_SUMMER.md)  
-该封面包含的角色：- [苏我屠自古](./苏我屠自古.md)- [物部布都](./物部布都.md)- [丰聪耳神子](./丰聪耳神子.md)
-
-
-
+- [豪族学園 IN SUMMER](./豪族学園_IN_SUMMER.md)该封面包含的角色：
+- [苏我屠自古](./苏我屠自古.md)
+- [物部布都](./物部布都.md)
+- [丰聪耳神子](./丰聪耳神子.md)
 
 
 ---

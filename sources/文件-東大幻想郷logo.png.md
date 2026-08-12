@@ -1,14 +1,11 @@
 # 文件:東大幻想郷logo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\99\ns6%3A%E6%9D%B1%E5%A4%A7%E5%B9%BB%E6%83%B3%E9%83%B7logo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\99\ns6%3A%E6%9D%B1%E5%A4%A7%E5%B9%BB%E6%83%B3%E9%83%B7logo%2Epng.html -->
 
 東大幻想郷 | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

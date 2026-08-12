@@ -1,6 +1,6 @@
 # 文件:Drench_Vol._1封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4d\ns6%3ADrench_Vol%2E_1%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4d\ns6%3ADrench_Vol%2E_1%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Medicine_Faktory | 专辑封面 | 封面图片
 
@@ -8,10 +8,7 @@ Medicine_Faktory | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Drench Vol. 1](./Drench_Vol._1.md)源地址：[[1]](https://medicine-faktory.booth.pm/items/887799)
-
-
-
+- [Drench Vol. 1](./Drench_Vol._1.md)源地址：[\[1\]](https://medicine-faktory.booth.pm/items/887799)
 
 
 ---

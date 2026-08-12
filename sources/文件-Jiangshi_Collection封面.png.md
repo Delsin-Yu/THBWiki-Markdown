@@ -1,6 +1,6 @@
 # 文件:Jiangshi_Collection封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\26\ns6%3AJiangshi_Collection%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\26\ns6%3AJiangshi_Collection%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 HEPTAD | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@ HEPTAD | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Jiangshi Collection](./Jiangshi_Collection.md)  
-该封面包含的角色：- [宫古芳香](./宫古芳香.md)
+- [Jiangshi Collection](./Jiangshi_Collection.md)该封面包含的角色：
+- [宫古芳香](./宫古芳香.md)
 
   
-[Pixiv artwork ID: 53193324 (original size)](https://www.pixiv.net/artworks/53193324)
-  
-
-
-
-
+[Pixiv artwork ID: 53193324 (original size)](https://www.pixiv.net/artworks/53193324)  
 
 ---
 

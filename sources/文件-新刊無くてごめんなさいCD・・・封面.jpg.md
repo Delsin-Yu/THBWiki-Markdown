@@ -1,6 +1,6 @@
 # 文件:新刊無くてごめんなさいCD・・・封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\27\ns6%3A%E6%96%B0%E5%88%8A%E7%84%A1%E3%81%8F%E3%81%A6%E3%81%94%E3%82%81%E3%82%93%E3%81%AA%E3%81%95%E3%81%84CD%E3%83%BB%E3%83%BB%E3%83%BB%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\27\ns6%3A%E6%96%B0%E5%88%8A%E7%84%A1%E3%81%8F%E3%81%A6%E3%81%94%E3%82%81%E3%82%93%E3%81%AA%E3%81%95%E3%81%84CD%E3%83%BB%E3%83%BB%E3%83%BB%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 狐の工作室
 
@@ -11,9 +11,6 @@
   
 
 - [新刊無くてごめんなさいCD・・・](./新刊無くてごめんなさいCD・・・.md)
-
-
-
 
 
 ---

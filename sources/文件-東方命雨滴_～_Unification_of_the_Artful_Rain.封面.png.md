@@ -1,6 +1,6 @@
 # 文件:東方命雨滴_～_Unification_of_the_Artful_Rain.封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6f\ns6%3A%E6%9D%B1%E6%96%B9%E5%91%BD%E9%9B%A8%E6%BB%B4_%EF%BD%9E_Unification_of_the_Artful_Rain%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6f\ns6%3A%E6%9D%B1%E6%96%B9%E5%91%BD%E9%9B%A8%E6%BB%B4_%EF%BD%9E_Unification_of_the_Artful_Rain%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Τeam_αlternative_Σnding | 封面图片 | 软件封面
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方命雨滴 ～ Unification of the Artful Rain.](./東方命雨滴_～_Unification_of_the_Artful_Rain..md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [東方命雨滴 ～ Unification of the Artful Rain.](./東方命雨滴_～_Unification_of_the_Artful_Rain..md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

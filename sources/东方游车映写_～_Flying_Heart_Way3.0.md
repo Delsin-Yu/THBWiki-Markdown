@@ -1,35 +1,30 @@
 # 东方游车映写_～_Flying_Heart_Way3.0
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\02\ns0%3A%E4%B8%9C%E6%96%B9%E6%B8%B8%E8%BD%A6%E6%98%A0%E5%86%99_%EF%BD%9E_Flying_Heart_Way3%2E0.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\02\ns0%3A%E4%B8%9C%E6%96%B9%E6%B8%B8%E8%BD%A6%E6%98%A0%E5%86%99_%EF%BD%9E_Flying_Heart_Way3%2E0.html -->
 
 2023年10月2日 由 幻想乡键盘规划院 于 雾之异变4 发布的画集/合同志同人志，A4尺寸一共36页，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人志 (未找到链接)** 的词条
-
+**[二次创作同人志](./二次创作.md#同人志)**的词条
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-东方游车映写_～_Flying_Heart_Way3.0封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/7/7f/%E4%B8%9C%E6%96%B9%E6%B8%B8%E8%BD%A6%E6%98%A0%E5%86%99_%EF%BD%9E_Flying_Heart_Way3.0%E5%B0%81%E9%9D%A2.jpg/196px-%E4%B8%9C%E6%96%B9%E6%B8%B8%E8%BD%A6%E6%98%A0%E5%86%99_%EF%BD%9E_Flying_Heart_Way3.0%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="196" height="139" srcset="https://upload.thwiki.cc/thumb/7/7f/%E4%B8%9C%E6%96%B9%E6%B8%B8%E8%BD%A6%E6%98%A0%E5%86%99_%EF%BD%9E_Flying_Heart_Way3.0%E5%B0%81%E9%9D%A2.jpg/294px-%E4%B8%9C%E6%96%B9%E6%B8%B8%E8%BD%A6%E6%98%A0%E5%86%99_%EF%BD%9E_Flying_Heart_Way3.0%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/7/7f/%E4%B8%9C%E6%96%B9%E6%B8%B8%E8%BD%A6%E6%98%A0%E5%86%99_%EF%BD%9E_Flying_Heart_Way3.0%E5%B0%81%E9%9D%A2.jpg/392px-%E4%B8%9C%E6%96%B9%E6%B8%B8%E8%BD%A6%E6%98%A0%E5%86%99_%EF%BD%9E_Flying_Heart_Way3.0%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1431" data-file-height="1012"></a><div class="cover-char">角色：<a href="./西行寺幽幽子.md" title="西行寺幽幽子">西行寺幽幽子</a>，<a href="./魂魄妖梦.md" title="魂魄妖梦">魂魄妖梦</a></div></td>
 </tr><tr><td class="label">名称</td><td colspan="2"> 东方游车映写 ～ Flying Heart Way3.0 </td></tr><tr><td class="label">制作方</td><td><a href="./幻想乡键盘规划院.md" title="幻想乡键盘规划院">幻想乡键盘规划院</a></td><td class="cover-artwork" rowspan="7" style="min-width:196px;"><a href="./文件-东方游车映写_～_Flying_Heart_Way3.0封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/7/7f/%E4%B8%9C%E6%96%B9%E6%B8%B8%E8%BD%A6%E6%98%A0%E5%86%99_%EF%BD%9E_Flying_Heart_Way3.0%E5%B0%81%E9%9D%A2.jpg/196px-%E4%B8%9C%E6%96%B9%E6%B8%B8%E8%BD%A6%E6%98%A0%E5%86%99_%EF%BD%9E_Flying_Heart_Way3.0%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="196" height="139" srcset="https://upload.thwiki.cc/thumb/7/7f/%E4%B8%9C%E6%96%B9%E6%B8%B8%E8%BD%A6%E6%98%A0%E5%86%99_%EF%BD%9E_Flying_Heart_Way3.0%E5%B0%81%E9%9D%A2.jpg/294px-%E4%B8%9C%E6%96%B9%E6%B8%B8%E8%BD%A6%E6%98%A0%E5%86%99_%EF%BD%9E_Flying_Heart_Way3.0%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/7/7f/%E4%B8%9C%E6%96%B9%E6%B8%B8%E8%BD%A6%E6%98%A0%E5%86%99_%EF%BD%9E_Flying_Heart_Way3.0%E5%B0%81%E9%9D%A2.jpg/392px-%E4%B8%9C%E6%96%B9%E6%B8%B8%E8%BD%A6%E6%98%A0%E5%86%99_%EF%BD%9E_Flying_Heart_Way3.0%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1431" data-file-height="1012"></a><div class="cover-char">角色：<a href="./西行寺幽幽子.md" title="西行寺幽幽子">西行寺幽幽子</a>，<a href="./魂魄妖梦.md" title="魂魄妖梦">魂魄妖梦</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2023-10-02&#160;（<a href="/展会作品列表?e=%E9%9B%BE%E4%B9%8B%E5%BC%82%E5%8F%98%234">重庆THO·肆·丰饶异变</a>）</td></tr><tr><td class="label">类型</td><td>画集，合同志</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>A4</td></tr><tr><td class="label">页数</td><td>36P</td></tr><tr><td class="label">售价</td><td>会场售价：55人民币<br>通贩售价：57人民币</td></tr>
+</tr><tr><td class="label">首发日期</td><td>2023-10-02 （<a href="./展会作品列表.md#4">重庆THO·肆·丰饶异变</a>）</td></tr><tr><td class="label">类型</td><td>画集，合同志</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>A4</td></tr><tr><td class="label">页数</td><td>36P</td></tr><tr><td class="label">售价</td><td>会场售价：55人民币<br>通贩售价：57人民币</td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://space.bilibili.com/39188378">https://space.bilibili.com/39188378</a></td></tr><tr><td class="label">备注</td><td colspan="2">东方project×重庆轨道交通</td></tr></tbody></table>
 
 东方游车映写 ～ Flying Heart Way3.0（同人志，幻想乡键盘规划院，2023） - 2023年10月2日 由 幻想乡键盘规划院 于 雾之异变4 发布的画集/合同志同人志，A4尺寸一共36页，分级为 一般向
-
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://item.taobao.com/item.htm?id=637783480937">淘宝</a></td></tr></tbody></table>
 
 
-
 ## 预览
-- [](./文件-东方游车映写_～_Flying_Heart_Way3.0预览图1.jpg.md)
+
+- <img alt="东方游车映写 ～ Flying Heart Way3.0预览图1.jpg" src="https://upload.thwiki.cc/thumb/6/6a/%E4%B8%9C%E6%96%B9%E6%B8%B8%E8%BD%A6%E6%98%A0%E5%86%99_%EF%BD%9E_Flying_Heart_Way3.0%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg/667px-%E4%B8%9C%E6%96%B9%E6%B8%B8%E8%BD%A6%E6%98%A0%E5%86%99_%EF%BD%9E_Flying_Heart_Way3.0%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg" decoding="async" loading="lazy" width="445" height="250" srcset="https://upload.thwiki.cc/thumb/6/6a/%E4%B8%9C%E6%96%B9%E6%B8%B8%E8%BD%A6%E6%98%A0%E5%86%99_%EF%BD%9E_Flying_Heart_Way3.0%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg/1001px-%E4%B8%9C%E6%96%B9%E6%B8%B8%E8%BD%A6%E6%98%A0%E5%86%99_%EF%BD%9E_Flying_Heart_Way3.0%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg 1.5x, https://upload.thwiki.cc/thumb/6/6a/%E4%B8%9C%E6%96%B9%E6%B8%B8%E8%BD%A6%E6%98%A0%E5%86%99_%EF%BD%9E_Flying_Heart_Way3.0%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg/1334px-%E4%B8%9C%E6%96%B9%E6%B8%B8%E8%BD%A6%E6%98%A0%E5%86%99_%EF%BD%9E_Flying_Heart_Way3.0%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg 2x" data-file-width="3840" data-file-height="2160"> 
 
 
 ## Staff
 
 ## 评论
-
-
-
 
 ---
 

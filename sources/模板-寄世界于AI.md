@@ -1,16 +1,12 @@
 # 模板:寄世界于AI
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\8\8d\ns10%3A%E5%AF%84%E4%B8%96%E7%95%8C%E4%BA%8EAI.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\8\8d\ns10%3A%E5%AF%84%E4%B8%96%E7%95%8C%E4%BA%8EAI.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

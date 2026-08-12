@@ -1,12 +1,8 @@
 # 文件:KFCbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\08\ns6%3AKFCbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\08\ns6%3AKFCbanner%2Ejpg.html -->
 
 KFC | 社团LOGO
-
-
-
-
 
 
 ---

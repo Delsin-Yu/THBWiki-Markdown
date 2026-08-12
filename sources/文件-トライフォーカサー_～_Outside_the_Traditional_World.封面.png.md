@@ -1,6 +1,6 @@
 # 文件:トライフォーカサー_～_Outside_the_Traditional_World.封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\02\ns6%3A%E3%83%88%E3%83%A9%E3%82%A4%E3%83%95%E3%82%A9%E3%83%BC%E3%82%AB%E3%82%B5%E3%83%BC_%EF%BD%9E_Outside_the_Traditional_World%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\02\ns6%3A%E3%83%88%E3%83%A9%E3%82%A4%E3%83%95%E3%82%A9%E3%83%BC%E3%82%AB%E3%82%B5%E3%83%BC_%EF%BD%9E_Outside_the_Traditional_World%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 封面图片 | 東方邪星章製作チーム | 软件封面
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [トライフォーカサー ～ Outside the Traditional World.](./トライフォーカサー_～_Outside_the_Traditional_World..md)  
-该封面包含的角色：- [塔玛珂·桑坦捷](./塔玛珂·桑坦捷.md)
-
-
-
+- [トライフォーカサー ～ Outside the Traditional World.](./トライフォーカサー_～_Outside_the_Traditional_World..md)该封面包含的角色：
+- [塔玛珂·桑坦捷](./塔玛珂·桑坦捷.md)
 
 
 ---

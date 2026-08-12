@@ -1,6 +1,6 @@
 # 文件:Songs_of_a_Spring_Night封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\59\ns6%3ASongs_of_a_Spring_Night%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\59\ns6%3ASongs_of_a_Spring_Night%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Music_Pandora | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Music_Pandora | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Songs of a Spring Night](./Songs_of_a_Spring_Night.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [Songs of a Spring Night](./Songs_of_a_Spring_Night.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

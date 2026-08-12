@@ -1,6 +1,6 @@
 # 文件:Compilation_CD-BOOK_東方スチームパンク封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4b\ns6%3ACompilation_CD-BOOK_%E6%9D%B1%E6%96%B9%E3%82%B9%E3%83%81%E3%83%BC%E3%83%A0%E3%83%91%E3%83%B3%E3%82%AF%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4b\ns6%3ACompilation_CD-BOOK_%E6%9D%B1%E6%96%B9%E3%82%B9%E3%83%81%E3%83%BC%E3%83%A0%E3%83%91%E3%83%B3%E3%82%AF%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Melonbooks_Records | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Melonbooks_Records | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Compilation CD-BOOK 東方スチームパンク](./Compilation_CD-BOOK_東方スチームパンク.md)  
-该封面包含的角色：- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [Compilation CD-BOOK 東方スチームパンク](./Compilation_CD-BOOK_東方スチームパンク.md)该封面包含的角色：
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

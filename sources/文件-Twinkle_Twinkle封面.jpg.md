@@ -1,6 +1,6 @@
 # 文件:Twinkle_Twinkle封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f8\ns6%3ATwinkle_Twinkle%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f8\ns6%3ATwinkle_Twinkle%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 NeutraL | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ NeutraL | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Twinkle Twinkle](./Twinkle_Twinkle.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [Twinkle Twinkle](./Twinkle_Twinkle.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

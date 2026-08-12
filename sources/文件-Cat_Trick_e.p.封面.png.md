@@ -1,6 +1,6 @@
 # 文件:Cat_Trick_e.p.封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e4\ns6%3ACat_Trick_e%2Ep%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e4\ns6%3ACat_Trick_e%2Ep%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 少女理論観測所
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Cat Trick e.p.](./Cat_Trick_e.p..md)  
-该封面包含的角色：- [橙](./橙.md)
-
-
-
+- [Cat Trick e.p.](./Cat_Trick_e.p..md)该封面包含的角色：
+- [橙](./橙.md)
 
 
 ---

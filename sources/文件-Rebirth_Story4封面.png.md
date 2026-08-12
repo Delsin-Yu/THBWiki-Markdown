@@ -1,6 +1,6 @@
 # 文件:Rebirth_Story4封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0d\ns6%3ARebirth_Story4%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0d\ns6%3ARebirth_Story4%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 FELT | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ FELT | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Rebirth Story4](./Rebirth_Story4.md)  
-该封面包含的角色：- [梅蒂欣·梅兰可莉](./梅蒂欣·梅兰可莉.md)
-
-
-
+- [Rebirth Story4](./Rebirth_Story4.md)该封面包含的角色：
+- [梅蒂欣·梅兰可莉](./梅蒂欣·梅兰可莉.md)
 
 
 ---

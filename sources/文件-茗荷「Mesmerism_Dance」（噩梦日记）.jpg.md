@@ -1,12 +1,8 @@
 # 文件:茗荷「Mesmerism_Dance」（噩梦日记）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2a\ns6%3A%E8%8C%97%E8%8D%B7%E3%80%8CMesmerism_Dance%E3%80%8D%EF%BC%88%E5%99%A9%E6%A2%A6%E6%97%A5%E8%AE%B0%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2a\ns6%3A%E8%8C%97%E8%8D%B7%E3%80%8CMesmerism_Dance%E3%80%8D%EF%BC%88%E5%99%A9%E6%A2%A6%E6%97%A5%E8%AE%B0%EF%BC%89%2Ejpg.html -->
 
 尔子田里乃 | 敌机符卡 | 秘封噩梦日记
-
-
-
-
 
 
 ---

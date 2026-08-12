@@ -1,6 +1,6 @@
 # 文件:Limited_Single_CD_VOL.5_-Kokura-_リトルメリッサ封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b6\ns6%3ALimited_Single_CD_VOL%2E5_-Kokura-_%E3%83%AA%E3%83%88%E3%83%AB%E3%83%A1%E3%83%AA%E3%83%83%E3%82%B5%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b6\ns6%3ALimited_Single_CD_VOL%2E5_-Kokura-_%E3%83%AA%E3%83%88%E3%83%AB%E3%83%A1%E3%83%AA%E3%83%83%E3%82%B5%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 GET_IN_THE_RING | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ GET_IN_THE_RING | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Limited Single CD VOL.5 -Kokura- リトルメリッサ](./Limited_Single_CD_VOL.5_-Kokura-_リトルメリッサ.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [Limited Single CD VOL.5 -Kokura- リトルメリッサ](./Limited_Single_CD_VOL.5_-Kokura-_リトルメリッサ.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:ミラクル☆マリサMix!!封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fd\ns6%3A%E3%83%9F%E3%83%A9%E3%82%AF%E3%83%AB%E2%98%86%E3%83%9E%E3%83%AA%E3%82%B5Mix%21%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fd\ns6%3A%E3%83%9F%E3%83%A9%E3%82%AF%E3%83%AB%E2%98%86%E3%83%9E%E3%83%AA%E3%82%B5Mix%21%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 カスタムサイズ | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [ミラクル☆マリサMix!!](./ミラクル☆マリサMix!!.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [ミラクル☆マリサMix!!](./ミラクル☆マリサMix!!.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

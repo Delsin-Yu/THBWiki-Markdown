@@ -1,6 +1,6 @@
 # 文件:遠景Landscape封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\45\ns6%3A%E9%81%A0%E6%99%AFLandscape%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\45\ns6%3A%E9%81%A0%E6%99%AFLandscape%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Matthiola_Records | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Matthiola_Records | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [遠景Landscape](./遠景Landscape.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [遠景Landscape](./遠景Landscape.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

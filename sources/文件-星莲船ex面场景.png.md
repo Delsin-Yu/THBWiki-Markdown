@@ -1,12 +1,8 @@
 # 文件:星莲船ex面场景.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\66\ns6%3A%E6%98%9F%E8%8E%B2%E8%88%B9ex%E9%9D%A2%E5%9C%BA%E6%99%AF%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\66\ns6%3A%E6%98%9F%E8%8E%B2%E8%88%B9ex%E9%9D%A2%E5%9C%BA%E6%99%AF%2Epng.html -->
 
 东方星莲船 | 游戏关卡标题
-
-
-
-
 
 
 ---

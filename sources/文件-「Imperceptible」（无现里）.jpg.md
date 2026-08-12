@@ -1,14 +1,11 @@
 # 文件:「Imperceptible」（无现里）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\38\ns6%3A%E3%80%8CImperceptible%E3%80%8D%EF%BC%88%E6%97%A0%E7%8E%B0%E9%87%8C%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\38\ns6%3A%E3%80%8CImperceptible%E3%80%8D%EF%BC%88%E6%97%A0%E7%8E%B0%E9%87%8C%EF%BC%89%2Ejpg.html -->
 
 乌蛇 | 连缘Project官方符牌 | 连缘无现里
 
 
 ## 文件说明
-
-
-
 
 ---
 

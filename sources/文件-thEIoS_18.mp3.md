@@ -1,14 +1,11 @@
 # 文件:thEIoS_18.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\94\ns6%3AthEIoS_18%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\94\ns6%3AthEIoS_18%2Emp3.html -->
 
 东方祈华梦制作组 | 富士大人之侘_～我心匪石～
 
 
 ## 文件说明
-
-
-
 
 ---
 

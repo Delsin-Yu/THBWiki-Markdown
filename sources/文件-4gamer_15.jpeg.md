@@ -1,12 +1,8 @@
 # 文件:4gamer_15.jpeg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cb\ns6%3A4gamer_15%2Ejpeg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cb\ns6%3A4gamer_15%2Ejpeg.html -->
 
 东方妖妖梦 | 东方永夜抄 | 东方红魔乡 | 东方花映塚
-
-
-
-
 
 
 ---

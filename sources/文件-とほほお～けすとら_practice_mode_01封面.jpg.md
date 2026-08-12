@@ -1,6 +1,6 @@
 # 文件:とほほお～けすとら_practice_mode_01封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bb\ns6%3A%E3%81%A8%E3%81%BB%E3%81%BB%E3%81%8A%EF%BD%9E%E3%81%91%E3%81%99%E3%81%A8%E3%82%89_practice_mode_01%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bb\ns6%3A%E3%81%A8%E3%81%BB%E3%81%BB%E3%81%8A%EF%BD%9E%E3%81%91%E3%81%99%E3%81%A8%E3%82%89_practice_mode_01%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 とほほお～けすとら | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@
   
 
 - [とほほお～けすとら practice mode 01](./とほほお～けすとら_practice_mode_01.md)
-
-
-
 
 
 ---

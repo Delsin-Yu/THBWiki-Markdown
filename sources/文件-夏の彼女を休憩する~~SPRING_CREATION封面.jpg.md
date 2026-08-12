@@ -1,6 +1,6 @@
 # 文件:夏の彼女を休憩する~~SPRING_CREATION封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a8\ns6%3A%E5%A4%8F%E3%81%AE%E5%BD%BC%E5%A5%B3%E3%82%92%E4%BC%91%E6%86%A9%E3%81%99%E3%82%8B%7E%7ESPRING_CREATION%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a8\ns6%3A%E5%A4%8F%E3%81%AE%E5%BD%BC%E5%A5%B3%E3%82%92%E4%BC%91%E6%86%A9%E3%81%99%E3%82%8B%7E%7ESPRING_CREATION%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 绯春研究会
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [夏の彼女を休憩する~~SPRING CREATION](./夏の彼女を休憩する~~SPRING_CREATION.md)  
-该封面包含的角色：- [莉莉霍瓦特](./莉莉霍瓦特.md)
-
-
-
+- [夏の彼女を休憩する~~SPRING CREATION](./夏の彼女を休憩する~~SPRING_CREATION.md)该封面包含的角色：
+- [莉莉霍瓦特](./莉莉霍瓦特.md)
 
 
 ---

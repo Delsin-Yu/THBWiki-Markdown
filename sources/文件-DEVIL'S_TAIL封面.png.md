@@ -1,6 +1,6 @@
 # 文件:DEVIL'S_TAIL封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\58\ns6%3ADEVIL%27S_TAIL%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\58\ns6%3ADEVIL%27S_TAIL%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 ひきろく！ | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [DEVIL'S TAIL](./DEVIL'S_TAIL.md)  
-该封面包含的角色：- [红美铃](./红美铃.md)
-
-
-
+- [DEVIL'S TAIL](./DEVIL'S_TAIL.md)该封面包含的角色：
+- [红美铃](./红美铃.md)
 
 
 ---

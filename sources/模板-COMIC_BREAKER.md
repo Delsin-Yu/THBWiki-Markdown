@@ -1,16 +1,12 @@
 # 模板:COMIC_BREAKER
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\c\c6\ns10%3ACOMIC_BREAKER.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\c\c6\ns10%3ACOMIC_BREAKER.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

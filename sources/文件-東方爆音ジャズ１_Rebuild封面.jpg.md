@@ -1,6 +1,6 @@
 # 文件:東方爆音ジャズ１_Rebuild封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\87\ns6%3A%E6%9D%B1%E6%96%B9%E7%88%86%E9%9F%B3%E3%82%B8%E3%83%A3%E3%82%BA%EF%BC%91_Rebuild%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\87\ns6%3A%E6%9D%B1%E6%96%B9%E7%88%86%E9%9F%B3%E3%82%B8%E3%83%A3%E3%82%BA%EF%BC%91_Rebuild%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 東京アクティブNEETs
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方爆音ジャズ１ Rebuild](./東方爆音ジャズ１_Rebuild.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [東方爆音ジャズ１ Rebuild](./東方爆音ジャズ１_Rebuild.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

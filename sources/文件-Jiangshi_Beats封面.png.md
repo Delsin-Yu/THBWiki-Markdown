@@ -1,6 +1,6 @@
 # 文件:Jiangshi_Beats封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bb\ns6%3AJiangshi_Beats%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bb\ns6%3AJiangshi_Beats%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Moon-Tone | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@ Moon-Tone | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Jiangshi Beats](./Jiangshi_Beats.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
+- [Jiangshi Beats](./Jiangshi_Beats.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-源地址：[[1]](https://f4.bcbits.com/img/a1800985915_0.jpg) [Bandcamp](https://moon-tone.bandcamp.com/album/jiangshi-beats)
-  
-
-
-
-
+源地址：[\[1\]](https://f4.bcbits.com/img/a1800985915_0.jpg) [Bandcamp](https://moon-tone.bandcamp.com/album/jiangshi-beats)  
 
 ---
 

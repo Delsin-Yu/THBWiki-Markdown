@@ -1,18 +1,13 @@
 # 文件:奈落乙女banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c8\ns6%3A%E5%A5%88%E8%90%BD%E4%B9%99%E5%A5%B3banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c8\ns6%3A%E5%A5%88%E8%90%BD%E4%B9%99%E5%A5%B3banner%2Ejpg.html -->
 
 奈落乙女 | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[[1]](http://mtru.web.fc2.com/banner.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://mtru.web.fc2.com/banner.jpg)  
 
 ---
 

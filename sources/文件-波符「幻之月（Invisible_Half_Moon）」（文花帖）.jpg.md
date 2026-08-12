@@ -1,12 +1,8 @@
 # 文件:波符「幻之月（Invisible_Half_Moon）」（文花帖）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e1\ns6%3A%E6%B3%A2%E7%AC%A6%E3%80%8C%E5%B9%BB%E4%B9%8B%E6%9C%88%EF%BC%88Invisible_Half_Moon%EF%BC%89%E3%80%8D%EF%BC%88%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e1\ns6%3A%E6%B3%A2%E7%AC%A6%E3%80%8C%E5%B9%BB%E4%B9%8B%E6%9C%88%EF%BC%88Invisible_Half_Moon%EF%BC%89%E3%80%8D%EF%BC%88%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Ejpg.html -->
 
 东方文花帖 | 敌机符卡 | 铃仙·优昙华院·因幡
-
-
-
-
 
 
 ---

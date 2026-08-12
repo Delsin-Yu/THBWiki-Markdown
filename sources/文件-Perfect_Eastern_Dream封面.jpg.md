@@ -1,6 +1,6 @@
 # 文件:Perfect_Eastern_Dream封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9f\ns6%3APerfect_Eastern_Dream%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9f\ns6%3APerfect_Eastern_Dream%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 SAVE_THE_QUEEN | 专辑封面 | 封面图片
 
@@ -8,16 +8,13 @@ SAVE_THE_QUEEN | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Perfect Eastern Dream](./Perfect_Eastern_Dream.md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)- [西行寺幽幽子](./西行寺幽幽子.md)
+- [Perfect Eastern Dream](./Perfect_Eastern_Dream.md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
+- [西行寺幽幽子](./西行寺幽幽子.md)
 
   
 源地址: TLMC扫描改编
   
-
-
-
-
 
 ---
 

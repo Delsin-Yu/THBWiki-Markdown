@@ -1,6 +1,6 @@
 # 文件:お茶請けっとCD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8b\ns6%3A%E3%81%8A%E8%8C%B6%E8%AB%8B%E3%81%91%E3%81%A3%E3%81%A8CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8b\ns6%3A%E3%81%8A%E8%8C%B6%E8%AB%8B%E3%81%91%E3%81%A3%E3%81%A8CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Wally_bash | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Wally_bash | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [お茶請けっとCD](./お茶請けっとCD.md)  
-该封面包含的角色：- [八坂神奈子](./八坂神奈子.md)
-
-
-
+- [お茶請けっとCD](./お茶請けっとCD.md)该封面包含的角色：
+- [八坂神奈子](./八坂神奈子.md)
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:花映塚梅露兰Ex.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ef\ns6%3A%E8%8A%B1%E6%98%A0%E5%A1%9A%E6%A2%85%E9%9C%B2%E5%85%B0Ex%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ef\ns6%3A%E8%8A%B1%E6%98%A0%E5%A1%9A%E6%A2%85%E9%9C%B2%E5%85%B0Ex%2Epng.html -->
 
 东方花映塚 | 梅露兰·普莉兹姆利巴
-
-
-
-
 
 
 ---

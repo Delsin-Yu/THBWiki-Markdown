@@ -1,12 +1,8 @@
 # 文件:コイビトハクロイネコbanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\24\ns6%3A%E3%82%B3%E3%82%A4%E3%83%93%E3%83%88%E3%83%8F%E3%82%AF%E3%83%AD%E3%82%A4%E3%83%8D%E3%82%B3banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\24\ns6%3A%E3%82%B3%E3%82%A4%E3%83%93%E3%83%88%E3%83%8F%E3%82%AF%E3%83%AD%E3%82%A4%E3%83%8D%E3%82%B3banner%2Egif.html -->
 
 コイビトハクロイネコ | 社团LOGO
-
-
-
-
 
 
 ---

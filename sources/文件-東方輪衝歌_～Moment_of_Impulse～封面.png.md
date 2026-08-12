@@ -1,6 +1,6 @@
 # 文件:東方輪衝歌_～Moment_of_Impulse～封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ed\ns6%3A%E6%9D%B1%E6%96%B9%E8%BC%AA%E8%A1%9D%E6%AD%8C_%EF%BD%9EMoment_of_Impulse%EF%BD%9E%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ed\ns6%3A%E6%9D%B1%E6%96%B9%E8%BC%AA%E8%A1%9D%E6%AD%8C_%EF%BD%9EMoment_of_Impulse%EF%BD%9E%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 いえろ～ぜぶら | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方輪衝歌 ～Moment of Impulse～](./東方輪衝歌_～Moment_of_Impulse～.md)  
-该封面包含的角色：- [星熊勇仪](./星熊勇仪.md)
-
-
-
+- [東方輪衝歌 ～Moment of Impulse～](./東方輪衝歌_～Moment_of_Impulse～.md)该封面包含的角色：
+- [星熊勇仪](./星熊勇仪.md)
 
 
 ---

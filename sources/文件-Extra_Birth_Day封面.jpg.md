@@ -1,6 +1,6 @@
 # 文件:Extra_Birth_Day封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b2\ns6%3AExtra_Birth_Day%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b2\ns6%3AExtra_Birth_Day%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Show_and_Tell | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@ Show_and_Tell | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Extra Birth Day](./Extra_Birth_Day.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [Extra Birth Day](./Extra_Birth_Day.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
   
-[Pixiv artwork ID: 35590699 (original size)](https://www.pixiv.net/artworks/35590699)
-  
-
-
-
-
+[Pixiv artwork ID: 35590699 (original size)](https://www.pixiv.net/artworks/35590699)  
 
 ---
 

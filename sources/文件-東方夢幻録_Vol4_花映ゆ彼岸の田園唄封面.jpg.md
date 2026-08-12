@@ -1,6 +1,6 @@
 # 文件:東方夢幻録_Vol4_花映ゆ彼岸の田園唄封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7d\ns6%3A%E6%9D%B1%E6%96%B9%E5%A4%A2%E5%B9%BB%E9%8C%B2_Vol4_%E8%8A%B1%E6%98%A0%E3%82%86%E5%BD%BC%E5%B2%B8%E3%81%AE%E7%94%B0%E5%9C%92%E5%94%84%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7d\ns6%3A%E6%9D%B1%E6%96%B9%E5%A4%A2%E5%B9%BB%E9%8C%B2_Vol4_%E8%8A%B1%E6%98%A0%E3%82%86%E5%BD%BC%E5%B2%B8%E3%81%AE%E7%94%B0%E5%9C%92%E5%94%84%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Re：Volte | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Re：Volte | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方夢幻録 Vol4 花映ゆ彼岸の田園唄](./東方夢幻録_Vol4_花映ゆ彼岸の田園唄.md)  
-该封面包含的角色：- [梅蒂欣·梅兰可莉](./梅蒂欣·梅兰可莉.md)
-
-
-
+- [東方夢幻録 Vol4 花映ゆ彼岸の田園唄](./東方夢幻録_Vol4_花映ゆ彼岸の田園唄.md)该封面包含的角色：
+- [梅蒂欣·梅兰可莉](./梅蒂欣·梅兰可莉.md)
 
 
 ---

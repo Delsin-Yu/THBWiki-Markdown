@@ -1,6 +1,6 @@
 # 文件:Another_Sequence封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\aa\ns6%3AAnother_Sequence%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\aa\ns6%3AAnother_Sequence%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Murder_Ground | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Murder_Ground | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Another Sequence](./Another_Sequence.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)
-
-
-
+- [Another Sequence](./Another_Sequence.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
 
 
 ---

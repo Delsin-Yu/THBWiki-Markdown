@@ -1,6 +1,6 @@
 # 東方千夜帖~Thousand_Night_Anamnesis./敌机符卡/地灵殿关卡符卡
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\01\ns0%3A%E6%9D%B1%E6%96%B9%E5%8D%83%E5%A4%9C%E5%B8%96%7EThousand_Night_Anamnesis%2E%2F%E6%95%8C%E6%9C%BA%E7%AC%A6%E5%8D%A1%2F%E5%9C%B0%E7%81%B5%E6%AE%BF%E5%85%B3%E5%8D%A1%E7%AC%A6%E5%8D%A1.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\01\ns0%3A%E6%9D%B1%E6%96%B9%E5%8D%83%E5%A4%9C%E5%B8%96%7EThousand_Night_Anamnesis%2E%2F%E6%95%8C%E6%9C%BA%E7%AC%A6%E5%8D%A1%2F%E5%9C%B0%E7%81%B5%E6%AE%BF%E5%85%B3%E5%8D%A1%E7%AC%A6%E5%8D%A1.html -->
 
 サラダ
 
@@ -8,7 +8,6 @@
 ## 目录
 
 - [1 地灵殿](#地灵殿)
-
   - [1.1 黑谷山女](#黑谷山女)
   - [1.2 水桥帕露西](#水桥帕露西)
   - [1.3 星熊勇仪](#星熊勇仪)
@@ -16,10 +15,6 @@
   - [1.5 古明地恋](#古明地恋)
   - [1.6 火焰猫燐](#火焰猫燐)
   - [1.7 灵乌路空](#灵乌路空)
-
-
-
-
 
 
 
@@ -54,7 +49,6 @@
 </td></tr></tbody></table>
 
 
-
 ### 水桥帕露西
 
 <table>
@@ -81,7 +75,6 @@
 <td>怒放的嫉妒之花。 徒樱的别名是樱花</td>
 <td>怒放的嫉妒之。 能够如此嫉妒，也是一种天赋。
 </td></tr></tbody></table>
-
 
 
 ### 星熊勇仪
@@ -119,7 +112,6 @@
 </td></tr></tbody></table>
 
 
-
 ### 古明地觉
 
 <table>
@@ -153,7 +145,6 @@
 <td>体力恢复形符卡。 也可以在心脏子弹出现之前进行轰炸。</td>
 <td>体力恢复形符卡。 我其实是想用米弹组成一颗心，但失败了。
 </td></tr></tbody></table>
-
 
 
 ### 古明地恋
@@ -198,7 +189,6 @@
 </td></tr></tbody></table>
 
 
-
 ### 火焰猫燐
 
 <table>
@@ -241,7 +231,6 @@
 </td></tr></tbody></table>
 
 
-
 ### 灵乌路空
 
 <table>
@@ -282,10 +271,6 @@
 <td>地狱极乐熔毁的单一强化版。 一个最后的巨大太阳符卡。</td>
 <td>地狱极乐熔毁的单一强化版，为了让大家听到BGM的高潮部分，做了较长的耐久。
 </td></tr></tbody></table>
-
-
-
-
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:うきぐさ。banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\19\ns6%3A%E3%81%86%E3%81%8D%E3%81%90%E3%81%95%E3%80%82banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\19\ns6%3A%E3%81%86%E3%81%8D%E3%81%90%E3%81%95%E3%80%82banner%2Ejpg.html -->
 
 うきぐさ。 | 社团LOGO
-
-
-
-
 
 
 ---

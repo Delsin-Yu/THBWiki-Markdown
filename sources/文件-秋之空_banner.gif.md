@@ -1,12 +1,8 @@
 # 文件:秋之空_banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\06\ns6%3A%E7%A7%8B%E4%B9%8B%E7%A9%BA_banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\06\ns6%3A%E7%A7%8B%E4%B9%8B%E7%A9%BA_banner%2Egif.html -->
 
 社团LOGO | 秋之空
-
-
-
-
 
 
 ---

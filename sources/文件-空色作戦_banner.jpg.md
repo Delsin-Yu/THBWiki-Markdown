@@ -1,12 +1,8 @@
 # 文件:空色作戦_banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\57\ns6%3A%E7%A9%BA%E8%89%B2%E4%BD%9C%E6%88%A6_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\57\ns6%3A%E7%A9%BA%E8%89%B2%E4%BD%9C%E6%88%A6_banner%2Ejpg.html -->
 
 社团LOGO | 空色作戦
-
-
-
-
 
 
 ---

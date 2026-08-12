@@ -1,16 +1,12 @@
 # 文件:冰符「Cool_Sunflower」.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\75\ns6%3A%E5%86%B0%E7%AC%A6%E3%80%8CCool_Sunflower%E3%80%8D%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\75\ns6%3A%E5%86%B0%E7%AC%A6%E3%80%8CCool_Sunflower%E3%80%8D%2Epng.html -->
 
 东方天空璋 | 琪露诺 | 自机符卡
 
   
 东方天空璋琪露诺自机符卡
   
-
-
-
-
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:絢夢のワルツ~Valzer_da_sogno封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ae\ns6%3A%E7%B5%A2%E5%A4%A2%E3%81%AE%E3%83%AF%E3%83%AB%E3%83%84%7EValzer_da_sogno%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ae\ns6%3A%E7%B5%A2%E5%A4%A2%E3%81%AE%E3%83%AF%E3%83%AB%E3%83%84%7EValzer_da_sogno%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 疯帽子茶会
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [絢夢のワルツ~Valzer da sogno](./絢夢のワルツ~Valzer_da_sogno.md)  
-该封面包含的角色：- [黑谷山女](./黑谷山女.md)- 原创角色 (未找到链接)
-
-
-
+- [絢夢のワルツ~Valzer da sogno](./絢夢のワルツ~Valzer_da_sogno.md)该封面包含的角色：
+- [黑谷山女](./黑谷山女.md)
+- 原创角色 (未找到链接)
 
 
 ---

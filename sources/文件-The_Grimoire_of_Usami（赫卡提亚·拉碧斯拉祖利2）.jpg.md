@@ -1,14 +1,11 @@
 # 文件:The_Grimoire_of_Usami（赫卡提亚·拉碧斯拉祖利2）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\88\ns6%3AThe_Grimoire_of_Usami%EF%BC%88%E8%B5%AB%E5%8D%A1%E6%8F%90%E4%BA%9A%C2%B7%E6%8B%89%E7%A2%A7%E6%96%AF%E6%8B%89%E7%A5%96%E5%88%A92%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\88\ns6%3AThe_Grimoire_of_Usami%EF%BC%88%E8%B5%AB%E5%8D%A1%E6%8F%90%E4%BA%9A%C2%B7%E6%8B%89%E7%A2%A7%E6%96%AF%E6%8B%89%E7%A5%96%E5%88%A92%EF%BC%89%2Ejpg.html -->
 
 宇佐见的魔法书 | 赫卡提亚·拉碧斯拉祖利
 
 
 ## 摘要
-
-
-
 
 ---
 

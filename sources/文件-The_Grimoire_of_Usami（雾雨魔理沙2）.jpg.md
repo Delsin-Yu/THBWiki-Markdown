@@ -1,14 +1,11 @@
 # 文件:The_Grimoire_of_Usami（雾雨魔理沙2）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\00\ns6%3AThe_Grimoire_of_Usami%EF%BC%88%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%992%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\00\ns6%3AThe_Grimoire_of_Usami%EF%BC%88%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%992%EF%BC%89%2Ejpg.html -->
 
 宇佐见的魔法书 | 雾雨魔理沙
 
 
 ## 摘要
-
-
-
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:Mystic_Mountain封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\99\ns6%3AMystic_Mountain%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\99\ns6%3AMystic_Mountain%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Rebirth_Innocence | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ Rebirth_Innocence | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Mystic Mountain](./Mystic_Mountain.md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)- [犬走椛](./犬走椛.md)
-
-
-
+- [Mystic Mountain](./Mystic_Mountain.md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
+- [犬走椛](./犬走椛.md)
 
 
 ---

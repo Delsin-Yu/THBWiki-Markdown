@@ -1,12 +1,8 @@
 # 文件:Echoes_Construction_logo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c1\ns6%3AEchoes_Construction_logo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c1\ns6%3AEchoes_Construction_logo%2Ejpg.html -->
 
 Echoes_Construction | 社团LOGO
-
-
-
-
 
 
 ---

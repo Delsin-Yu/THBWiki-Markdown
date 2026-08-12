@@ -1,18 +1,13 @@
 # 文件:Ciorbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c1\ns6%3ACiorbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c1\ns6%3ACiorbanner%2Ejpg.html -->
 
 Cior | 社团LOGO
 
 
 ## 摘要
   
-源地址：[direct image link](https://web.archive.org/web/20211214114336im_/https://blog-imgs-24.fc2.com/c/i/o/cior/banner.jpg), [source page](https://web.archive.org/web/20220122225821/http://cior.blog61.fc2.com/)
-  
-
-
-
-
+源地址：[direct image link](https://web.archive.org/web/20211214114336im_/https://blog-imgs-24.fc2.com/c/i/o/cior/banner.jpg), [source page](https://web.archive.org/web/20220122225821/http://cior.blog61.fc2.com/)  
 
 ---
 

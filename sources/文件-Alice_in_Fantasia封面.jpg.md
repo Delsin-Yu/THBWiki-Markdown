@@ -1,6 +1,6 @@
 # 文件:Alice_in_Fantasia封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f6\ns6%3AAlice_in_Fantasia%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f6\ns6%3AAlice_in_Fantasia%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Half-phantom | 专辑封面 | 封面图片
 
@@ -8,10 +8,7 @@ Half-phantom | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Alice in Fantasia](./Alice_in_Fantasia.md)源地址：[[1]](https://f4.bcbits.com/img/a3673228198_10.jpg)
-
-
-
+- [Alice in Fantasia](./Alice_in_Fantasia.md)源地址：[\[1\]](https://f4.bcbits.com/img/a3673228198_10.jpg)
 
 
 ---

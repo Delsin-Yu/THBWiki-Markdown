@@ -1,33 +1,31 @@
 # 东方绀珠传/Stage_4
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\46\ns0%3A%E4%B8%9C%E6%96%B9%E7%BB%80%E7%8F%A0%E4%BC%A0%2FStage_4.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\46\ns0%3A%E4%B8%9C%E6%96%B9%E7%BB%80%E7%8F%A0%E4%BC%A0%2FStage_4.html -->
 
 东方绀珠传
 
 <center>
-
 <table>
 <tbody><tr>
-<td>&lt;
+<td><
 </td>
-<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./东方绀珠传-Stage_3.md" title="东方绀珠传/Stage 3">Stage 3</a>&#160;
+<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./东方绀珠传-Stage_3.md" title="东方绀珠传/Stage 3">Stage 3</a> 
 </td>
-<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="/%E7%AC%A6%E5%8D%A1%E5%88%97%E8%A1%A8#东方绀珠传" title="符卡列表">符卡</a>&#160;
+<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;"> <a href="./符卡列表.md#东方绀珠传" title="符卡列表">符卡</a> 
 </td>
-<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left">&#160;<a href="./东方绀珠传-Stage_5.md" title="东方绀珠传/Stage 5">Stage 5</a>
+<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left"> <a href="./东方绀珠传-Stage_5.md" title="东方绀珠传/Stage 5">Stage 5</a>
 </td>
-<td>&gt;
+<td>>
 </td></tr></tbody></table>
 
   
 </center>
-- 本词条内容为官方游戏TH15 **东方绀珠传** 的敌机符卡
+- 本词条内容为官方游戏TH15**东方绀珠传**的敌机符卡
 
 
 ## 目录
 
 - [1 稀神探女](#稀神探女)
-
   - [1.1 玉符「乌合之咒」](#玉符「乌合之咒」)
   - [1.2 符卡信息](#符卡信息)
   - [1.3 玉符「乌合的逆咒」](#玉符「乌合的逆咒」)
@@ -46,11 +44,7 @@
   - [1.16 符卡信息](#符卡信息_8)
 
 
-
 - [2 导航](#导航)
-
-
-
 
 
 ## 稀神探女
@@ -73,7 +67,6 @@
 </th></tr></tbody></table>
 
 
-
 ### 符卡信息
 
 <table>
@@ -85,8 +78,6 @@
 <p>4面BOSS稀神探女Easy / Normal难度符卡。
 </p>
 </td></tr></tbody></table>
-
-
 
 
 ### 玉符「乌合的逆咒」
@@ -107,7 +98,6 @@
 </th></tr></tbody></table>
 
 
-
 ### 符卡信息
 
 <table>
@@ -119,8 +109,6 @@
 <p>4面BOSS稀神探女Hard难度符卡。
 </p>
 </td></tr></tbody></table>
-
-
 
 
 ### 玉符「乌合的二重咒」
@@ -141,7 +129,6 @@
 </th></tr></tbody></table>
 
 
-
 ### 符卡信息
 
 <table>
@@ -153,8 +140,6 @@
 <p>4面BOSS稀神探女Lunatic难度符卡。
 </p>
 </td></tr></tbody></table>
-
-
 
 
 ### 玉符「秽身探知型水雷」
@@ -175,7 +160,6 @@
 </th></tr></tbody></table>
 
 
-
 ### 符卡信息
 
 <table>
@@ -189,9 +173,7 @@
 </td></tr></tbody></table>
 
 
-
-
-### 玉符「秽身探知型水雷　改」
+### 玉符「秽身探知型水雷 改」
 
 <table>
 
@@ -209,7 +191,6 @@
 </th></tr></tbody></table>
 
 
-
 ### 符卡信息
 
 <table>
@@ -221,8 +202,6 @@
 <p>4面BOSS稀神探女Hard / Lunatic难度符卡。
 </p>
 </td></tr></tbody></table>
-
-
 
 
 ### 玉符「众神的弹冠」
@@ -243,7 +222,6 @@
 </th></tr></tbody></table>
 
 
-
 ### 符卡信息
 
 <table>
@@ -255,8 +233,6 @@
 <p>4面BOSS稀神探女Easy / Normal难度符卡。
 </p>
 </td></tr></tbody></table>
-
-
 
 
 ### 玉符「众神的光辉弹冠」
@@ -277,7 +253,6 @@
 </th></tr></tbody></table>
 
 
-
 ### 符卡信息
 
 <table>
@@ -289,8 +264,6 @@
 <p>4面BOSS稀神探女Hard / Lunatic难度符卡。
 </p>
 </td></tr></tbody></table>
-
-
 
 
 ### 「孤翼的白鹭」
@@ -311,7 +284,6 @@
 </th></tr></tbody></table>
 
 
-
 ### 符卡信息
 
 <table>
@@ -323,19 +295,6 @@
 <p>4面BOSS稀神探女Easy / Normal / Hard / Lunatic难度符卡。
 </p>
 </td></tr></tbody></table>
-
-
-
-
-## 导航
-  
-  
-
-<table><tbody><tr><td><table cellspacing="0" class="nowraplinks mw-collapsible mw-collapsed" style="width:100%;;;"><tbody><tr><th style=";" colspan="3" class="navbox-title"><div class="navbar"><div class="noprint plainlinksneverexpand" style="background-color:transparent; padding:0; font-weight:normal; font-size:80%; white-space:nowrap;"><a href="./模板-东方绀珠传导航.md" title="模板:东方绀珠传导航"><span style=";;border:none;" title="查看这个模板">查</span></a>&#160;<span style="font-size:80%;">•</span>&#160;<a href="/index.php?title=%E6%A8%A1%E6%9D%BF:%E4%B8%9C%E6%96%B9%E7%BB%80%E7%8F%A0%E4%BC%A0%E5%AF%BC%E8%88%AA&amp;action=edit"><span style=";;border:none;" title="您可以编辑这个模板。请在储存变更之前先预览">编</span></a></div></div><span><a href="./东方绀珠传.md" title="东方绀珠传">东方绀珠传</a></span></th></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">角色</td><td style=";;" class="navbox-list navbox-odd"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>自机</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a> &#8226; <a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a> &#8226; <a href="./东风谷早苗.md" title="东风谷早苗">东风谷早苗</a> &#8226; <a href="./铃仙·优昙华院·因幡.md" title="铃仙·优昙华院·因幡">铃仙·优昙华院·因幡</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>BOSS</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./清兰.md" title="清兰">清兰</a> &#8226; <a href="./铃瑚.md" title="铃瑚">铃瑚</a> &#8226; <a href="./哆来咪·苏伊特.md" title="哆来咪·苏伊特">哆来咪·苏伊特</a> &#8226; <a href="./稀神探女.md" title="稀神探女">稀神探女</a> &#8226; <a href="./克劳恩皮丝.md" title="克劳恩皮丝">克劳恩皮丝</a> &#8226; <a href="./纯狐.md" title="纯狐">纯狐</a> &#8226; <a href="./赫卡提亚·拉碧斯拉祖利.md" title="赫卡提亚·拉碧斯拉祖利">赫卡提亚·拉碧斯拉祖利</a></div></td></tr></tbody></table><div></div></td><td class="navbox-image" style="" rowspan="11"><a href="./文件-绀珠传载入界面.png.md" class="image"><img alt="绀珠传载入界面.png" src="https://upload.thwiki.cc/thumb/2/2a/%E7%BB%80%E7%8F%A0%E4%BC%A0%E8%BD%BD%E5%85%A5%E7%95%8C%E9%9D%A2.png/160px-%E7%BB%80%E7%8F%A0%E4%BC%A0%E8%BD%BD%E5%85%A5%E7%95%8C%E9%9D%A2.png" decoding="async" loading="lazy" width="160" height="120" srcset="https://upload.thwiki.cc/thumb/2/2a/%E7%BB%80%E7%8F%A0%E4%BC%A0%E8%BD%BD%E5%85%A5%E7%95%8C%E9%9D%A2.png/240px-%E7%BB%80%E7%8F%A0%E4%BC%A0%E8%BD%BD%E5%85%A5%E7%95%8C%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/2/2a/%E7%BB%80%E7%8F%A0%E4%BC%A0%E8%BD%BD%E5%85%A5%E7%95%8C%E9%9D%A2.png/320px-%E7%BB%80%E7%8F%A0%E4%BC%A0%E8%BD%BD%E5%85%A5%E7%95%8C%E9%9D%A2.png 2x" data-file-width="1280" data-file-height="960"></a></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">剧情</td><td style=";;" class="navbox-list navbox-even"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>剧情文本</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./附带文档-东方绀珠传-游戏内Manual.md" title="附带文档:东方绀珠传/游戏内Manual" unred="">故事背景</a> &#8226; <a href="/%E9%99%84%E5%B8%A6%E6%96%87%E6%A1%A3:%E4%B8%9C%E6%96%B9%E7%BB%80%E7%8F%A0%E4%BC%A0/Omake#Extra_Story" title="附带文档:东方绀珠传/Omake">EX 故事背景</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>游戏对话&amp;结局</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./游戏对话-东方绀珠传-博丽灵梦.md" title="游戏对话:东方绀珠传/博丽灵梦">博丽灵梦</a> &#8226; <a href="./游戏对话-东方绀珠传-雾雨魔理沙.md" title="游戏对话:东方绀珠传/雾雨魔理沙">雾雨魔理沙</a> &#8226; <a href="./游戏对话-东方绀珠传-东风谷早苗.md" title="游戏对话:东方绀珠传/东风谷早苗">东风谷早苗</a> &#8226; <a href="./游戏对话-东方绀珠传-铃仙·优昙华院·因幡.md" title="游戏对话:东方绀珠传/铃仙·优昙华院·因幡">铃仙·优昙华院·因幡</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>Ex游戏对话</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./游戏对话-东方绀珠传-博丽灵梦_ExStory.md" title="游戏对话:东方绀珠传/博丽灵梦 ExStory">博丽灵梦</a> &#8226; <a href="./游戏对话-东方绀珠传-雾雨魔理沙_ExStory.md" title="游戏对话:东方绀珠传/雾雨魔理沙 ExStory">雾雨魔理沙</a> &#8226; <a href="./游戏对话-东方绀珠传-东风谷早苗_ExStory.md" title="游戏对话:东方绀珠传/东风谷早苗 ExStory">东风谷早苗</a> &#8226; <a href="./游戏对话-东方绀珠传-铃仙·优昙华院·因幡_ExStory.md" title="游戏对话:东方绀珠传/铃仙·优昙华院·因幡 ExStory">铃仙·优昙华院·因幡</a></div></td></tr></tbody></table><div></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">场景</td><td style=";;" class="navbox-list navbox-odd"><div><a href="./妖怪之山.md" title="妖怪之山">妖怪山麓</a> &#8226; <a href="./风神之湖.md" title="风神之湖">妖怪之山的湖</a> &#8226; <a href="./梦境世界.md" title="梦境世界">秘密的联络通道</a> &#8226; <a href="./月之都.md" title="月之都">月之都</a> &#8226; <a href="./静海.md" title="静海">静海</a> &#8226; <a href="./梦境世界.md" title="梦境世界">梦境世界</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">音乐</td><td style=";;" class="navbox-list navbox-even"><div><a href="./东方绀珠传-Music.md" title="东方绀珠传/Music">Music Room</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="/%E4%B8%9C%E6%96%B9%E7%BB%80%E7%8F%A0%E4%BC%A0#附带文档" title="东方绀珠传">附带文档</a></td><td style=";;" class="navbox-list navbox-odd"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>体验版</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./附带文档-东方绀珠传体验版-Omake.md" title="附带文档:东方绀珠传体验版/Omake">Omake</a> &#8226; <a href="./附带文档-东方绀珠传体验版-Readme.md" title="附带文档:东方绀珠传体验版/Readme">Readme</a> &#8226; <a href="./附带文档-东方绀珠传-游戏内Manual.md" title="附带文档:东方绀珠传/游戏内Manual" unred="">游戏内Manual</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>正式版</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./附带文档-东方绀珠传-Omake.md" title="附带文档:东方绀珠传/Omake">Omake</a> &#8226; <a href="./附带文档-东方绀珠传-Readme.md" title="附带文档:东方绀珠传/Readme">Readme</a> &#8226; <a href="./附带文档-东方绀珠传-游戏内Manual.md" title="附带文档:东方绀珠传/游戏内Manual">游戏内Manual</a> &#8226; <a href="./附带文档-东方绀珠传-光盘说明书.md" title="附带文档:东方绀珠传/光盘说明书">光盘说明书</a></div></td></tr></tbody></table><div></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="./东方绀珠传.md" title="东方绀珠传">符卡</a></td><td style=";;" class="navbox-list navbox-even"><div><a href="./东方绀珠传-Stage_1.md" title="东方绀珠传/Stage 1">Stage 1</a> &#8226; <a href="./东方绀珠传-Stage_2.md" title="东方绀珠传/Stage 2">Stage 2</a> &#8226; <a href="./东方绀珠传-Stage_3.md" title="东方绀珠传/Stage 3">Stage 3</a> &#8226; <a class="mw-selflink selflink">Stage 4</a> &#8226; <a href="./东方绀珠传-Stage_5.md" title="东方绀珠传/Stage 5">Stage 5</a> &#8226; <a href="./东方绀珠传-Stage_6.md" title="东方绀珠传/Stage 6">Stage 6</a> &#8226; <a href="./东方绀珠传-Extra.md" title="东方绀珠传/Extra">Extra</a></div></td></tr></tbody></table></td></tr></tbody></table>
-
-
-
-
 
 
 ---

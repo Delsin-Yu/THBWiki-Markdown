@@ -1,6 +1,6 @@
 # 文件:紅霧の演奏会～Piano_arrangement～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ac\ns6%3A%E7%B4%85%E9%9C%A7%E3%81%AE%E6%BC%94%E5%A5%8F%E4%BC%9A%EF%BD%9EPiano_arrangement%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ac\ns6%3A%E7%B4%85%E9%9C%A7%E3%81%AE%E6%BC%94%E5%A5%8F%E4%BC%9A%EF%BD%9EPiano_arrangement%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 いんぷれ。 | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [紅霧の演奏会～Piano arrangement～](./紅霧の演奏会～Piano_arrangement～.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
-
-
-
+- [紅霧の演奏会～Piano arrangement～](./紅霧の演奏会～Piano_arrangement～.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
 
 ---

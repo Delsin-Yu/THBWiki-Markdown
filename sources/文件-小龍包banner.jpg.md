@@ -1,12 +1,8 @@
 # 文件:小龍包banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\71\ns6%3A%E5%B0%8F%E9%BE%8D%E5%8C%85banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\71\ns6%3A%E5%B0%8F%E9%BE%8D%E5%8C%85banner%2Ejpg.html -->
 
 小龍包 | 社团LOGO
-
-
-
-
 
 
 ---

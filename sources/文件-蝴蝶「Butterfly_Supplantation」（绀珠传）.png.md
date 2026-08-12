@@ -1,12 +1,8 @@
 # 文件:蝴蝶「Butterfly_Supplantation」（绀珠传）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d8\ns6%3A%E8%9D%B4%E8%9D%B6%E3%80%8CButterfly_Supplantation%E3%80%8D%EF%BC%88%E7%BB%80%E7%8F%A0%E4%BC%A0%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d8\ns6%3A%E8%9D%B4%E8%9D%B6%E3%80%8CButterfly_Supplantation%E3%80%8D%EF%BC%88%E7%BB%80%E7%8F%A0%E4%BC%A0%EF%BC%89%2Epng.html -->
 
 东方绀珠传 | 哆来咪·苏伊特 | 敌机符卡
-
-
-
-
 
 
 ---

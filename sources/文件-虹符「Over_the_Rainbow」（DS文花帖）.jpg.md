@@ -1,12 +1,8 @@
 # 文件:虹符「Over_the_Rainbow」（DS文花帖）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b4\ns6%3A%E8%99%B9%E7%AC%A6%E3%80%8COver_the_Rainbow%E3%80%8D%EF%BC%88DS%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b4\ns6%3A%E8%99%B9%E7%AC%A6%E3%80%8COver_the_Rainbow%E3%80%8D%EF%BC%88DS%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Ejpg.html -->
 
 东方文花帖DS | 多多良小伞 | 敌机符卡
-
-
-
-
 
 
 ---

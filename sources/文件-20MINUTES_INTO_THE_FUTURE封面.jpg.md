@@ -1,6 +1,6 @@
 # 文件:20MINUTES_INTO_THE_FUTURE封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\70\ns6%3A20MINUTES_INTO_THE_FUTURE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\70\ns6%3A20MINUTES_INTO_THE_FUTURE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 AbyssDragon | 同人志封面 | 封面图片
 
@@ -10,16 +10,13 @@ AbyssDragon | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [20MINUTES INTO THE FUTURE](./20MINUTES_INTO_THE_FUTURE.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)- Max Headroom (未找到链接)
+- [20MINUTES INTO THE FUTURE](./20MINUTES_INTO_THE_FUTURE.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
+- Max Headroom (未找到链接)
 
   
-[Pixiv artwork ID: 98164695 (original size)](https://www.pixiv.net/artworks/98164695)
-  
-
-
-
-
+[Pixiv artwork ID: 98164695 (original size)](https://www.pixiv.net/artworks/98164695)  
 
 ---
 

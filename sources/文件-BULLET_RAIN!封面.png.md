@@ -1,6 +1,6 @@
 # 文件:BULLET_RAIN!封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6a\ns6%3ABULLET_RAIN%21%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6a\ns6%3ABULLET_RAIN%21%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 ウニマヨ厨房 | 同人志封面 | 封面图片
 
@@ -10,16 +10,16 @@
 使用了本文件作封面图片的作品：
   
 
-- [BULLET RAIN!](./BULLET_RAIN!.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [八云紫](./八云紫.md)- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)- [射命丸文](./射命丸文.md)- [雾雨魔理沙](./雾雨魔理沙.md)
+- [BULLET RAIN!](./BULLET_RAIN!.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [八云紫](./八云紫.md)
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
+- [射命丸文](./射命丸文.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-[Pixiv artwork ID: 27420833 (original size)](https://www.pixiv.net/artworks/27420833)
-  
-
-
-
-
+[Pixiv artwork ID: 27420833 (original size)](https://www.pixiv.net/artworks/27420833)  
 
 ---
 

@@ -1,12 +1,8 @@
 # 文件:THD2很值钱的礼物.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\62\ns6%3ATHD2%E5%BE%88%E5%80%BC%E9%92%B1%E7%9A%84%E7%A4%BC%E7%89%A9%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\62\ns6%3ATHD2%E5%BE%88%E5%80%BC%E9%92%B1%E7%9A%84%E7%A4%BC%E7%89%A9%2Epng.html -->
 
 THD2
-
-
-
-
 
 
 ---

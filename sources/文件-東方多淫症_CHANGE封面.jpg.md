@@ -1,6 +1,6 @@
 # 文件:東方多淫症_CHANGE封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fa\ns6%3A%E6%9D%B1%E6%96%B9%E5%A4%9A%E6%B7%AB%E7%97%87_CHANGE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fa\ns6%3A%E6%9D%B1%E6%96%B9%E5%A4%9A%E6%B7%AB%E7%97%87_CHANGE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ミツメ書房 | 同人志封面 | 封面图片
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方多淫症 CHANGE](./東方多淫症_CHANGE.md)  
-该封面包含的角色：- [鬼人正邪](./鬼人正邪.md)- [少名针妙丸](./少名针妙丸.md)
-
-
-
+- [東方多淫症 CHANGE](./東方多淫症_CHANGE.md)该封面包含的角色：
+- [鬼人正邪](./鬼人正邪.md)
+- [少名针妙丸](./少名针妙丸.md)
 
 
 ---

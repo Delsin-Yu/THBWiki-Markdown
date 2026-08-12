@@ -1,6 +1,6 @@
 # 文件:Rage×Raze×Rave封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\43\ns6%3ARage%C3%97Raze%C3%97Rave%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\43\ns6%3ARage%C3%97Raze%C3%97Rave%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Astral_Sky | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Astral_Sky | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Rage×Raze×Rave](./Rage×Raze×Rave.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
+- [Rage×Raze×Rave](./Rage×Raze×Rave.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-源地址：[[1]](http://static.tumblr.com/d02d11d0c79ef2059ca5ae7540a72194/eil6ehm/Bbwnndfvg/tumblr_static_aczae8pag0wgwooog48k04oos.png)
-  
-
-
-
-
+源地址：[\[1\]](http://static.tumblr.com/d02d11d0c79ef2059ca5ae7540a72194/eil6ehm/Bbwnndfvg/tumblr_static_aczae8pag0wgwooog48k04oos.png)  
 
 ---
 

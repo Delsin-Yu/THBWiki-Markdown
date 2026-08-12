@@ -1,12 +1,8 @@
 # 文件:赤眼「望见圆月（Lunatic_Blast）」（非想天则）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1e\ns6%3A%E8%B5%A4%E7%9C%BC%E3%80%8C%E6%9C%9B%E8%A7%81%E5%9C%86%E6%9C%88%EF%BC%88Lunatic_Blast%EF%BC%89%E3%80%8D%EF%BC%88%E9%9D%9E%E6%83%B3%E5%A4%A9%E5%88%99%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1e\ns6%3A%E8%B5%A4%E7%9C%BC%E3%80%8C%E6%9C%9B%E8%A7%81%E5%9C%86%E6%9C%88%EF%BC%88Lunatic_Blast%EF%BC%89%E3%80%8D%EF%BC%88%E9%9D%9E%E6%83%B3%E5%A4%A9%E5%88%99%EF%BC%89%2Ejpg.html -->
 
 东方非想天则 | 自机符卡 | 铃仙·优昙华院·因幡
-
-
-
-
 
 
 ---

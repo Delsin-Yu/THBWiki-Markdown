@@ -1,6 +1,6 @@
 # 文件:like_a_star封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2a\ns6%3Alike_a_star%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2a\ns6%3Alike_a_star%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 poprication | 同人志封面 | 封面图片
 
@@ -8,11 +8,9 @@ poprication | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [like a star](./like_a_star.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [like a star](./like_a_star.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

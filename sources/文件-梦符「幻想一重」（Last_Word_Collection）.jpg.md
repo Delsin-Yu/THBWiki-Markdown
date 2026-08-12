@@ -1,12 +1,8 @@
 # 文件:梦符「幻想一重」（Last_Word_Collection）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f2\ns6%3A%E6%A2%A6%E7%AC%A6%E3%80%8C%E5%B9%BB%E6%83%B3%E4%B8%80%E9%87%8D%E3%80%8D%EF%BC%88Last_Word_Collection%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f2\ns6%3A%E6%A2%A6%E7%AC%A6%E3%80%8C%E5%B9%BB%E6%83%B3%E4%B8%80%E9%87%8D%E3%80%8D%EF%BC%88Last_Word_Collection%EF%BC%89%2Ejpg.html -->
 
 东方Last_Word_Collection | 博丽灵梦
-
-
-
-
 
 
 ---

@@ -1,18 +1,13 @@
 # 文件:Surfacelogo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\70\ns6%3ASurfacelogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\70\ns6%3ASurfacelogo%2Ejpg.html -->
 
 Surface | 社团LOGO
 
 
 ## 摘要
   
-源地址：[direct image link](https://a.deviantart.net/avatars/s/u/surfacemsia.jpg?1), [source page](https://www.deviantart.com/surfacemsia)
-  
-
-
-
-
+源地址：[direct image link](https://a.deviantart.net/avatars/s/u/surfacemsia.jpg?1), [source page](https://www.deviantart.com/surfacemsia)  
 
 ---
 

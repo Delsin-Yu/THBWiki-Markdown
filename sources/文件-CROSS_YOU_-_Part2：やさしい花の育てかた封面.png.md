@@ -1,6 +1,6 @@
 # 文件:CROSS_YOU_-_Part2：やさしい花の育てかた封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\90\ns6%3ACROSS_YOU_-_Part2%EF%BC%9A%E3%82%84%E3%81%95%E3%81%97%E3%81%84%E8%8A%B1%E3%81%AE%E8%82%B2%E3%81%A6%E3%81%8B%E3%81%9F%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\90\ns6%3ACROSS_YOU_-_Part2%EF%BC%9A%E3%82%84%E3%81%95%E3%81%97%E3%81%84%E8%8A%B1%E3%81%AE%E8%82%B2%E3%81%A6%E3%81%8B%E3%81%9F%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 空騒中継点
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [CROSS YOU - Part2：やさしい花の育てかた](./CROSS_YOU_-_Part2：やさしい花の育てかた.md)  
-该封面包含的角色：- [风见幽香](./风见幽香.md)
-
-
-
+- [CROSS YOU - Part2：やさしい花の育てかた](./CROSS_YOU_-_Part2：やさしい花の育てかた.md)该封面包含的角色：
+- [风见幽香](./风见幽香.md)
 
 
 ---

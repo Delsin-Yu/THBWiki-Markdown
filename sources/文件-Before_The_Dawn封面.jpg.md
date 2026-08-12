@@ -1,6 +1,6 @@
 # 文件:Before_The_Dawn封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4e\ns6%3ABefore_The_Dawn%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4e\ns6%3ABefore_The_Dawn%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Strawhat_Works | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Strawhat_Works | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Before The Dawn](./Before_The_Dawn.md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)
-
-
-
+- [Before The Dawn](./Before_The_Dawn.md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
 
 
 ---

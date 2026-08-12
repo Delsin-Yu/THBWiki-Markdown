@@ -1,6 +1,6 @@
 # 文件:クラウンピースの狂輝的狂愛論E.P.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a3\ns6%3A%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%B3%E3%83%94%E3%83%BC%E3%82%B9%E3%81%AE%E7%8B%82%E8%BC%9D%E7%9A%84%E7%8B%82%E6%84%9B%E8%AB%96E%2EP%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a3\ns6%3A%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%B3%E3%83%94%E3%83%BC%E3%82%B9%E3%81%AE%E7%8B%82%E8%BC%9D%E7%9A%84%E7%8B%82%E6%84%9B%E8%AB%96E%2EP%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 もぱた。 | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [クラウンピースの狂輝的狂愛論E.P.](./クラウンピースの狂輝的狂愛論E.P..md)  
-该封面包含的角色：- [克劳恩皮丝](./克劳恩皮丝.md)
+- [クラウンピースの狂輝的狂愛論E.P.](./クラウンピースの狂輝的狂愛論E.P..md)该封面包含的角色：
+- [克劳恩皮丝](./克劳恩皮丝.md)
 
   
-[[1]](http://mopata-mtcd0009.tumblr.com/)
-  
-
-
-
-
+[\[1\]](http://mopata-mtcd0009.tumblr.com/)  
 
 ---
 

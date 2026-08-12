@@ -1,6 +1,6 @@
 # 文件:LIVE_at_"TOUHOU_FRIENDLY_FIRE"封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\51\ns6%3ALIVE_at_%22TOUHOU_FRIENDLY_FIRE%22%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\51\ns6%3ALIVE_at_%22TOUHOU_FRIENDLY_FIRE%22%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Petrolatum_box | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Petrolatum_box | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [LIVE at "TOUHOU FRIENDLY FIRE"](./LIVE_at_-TOUHOU_FRIENDLY_FIRE-.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [LIVE at "TOUHOU FRIENDLY FIRE"](./LIVE_at_-TOUHOU_FRIENDLY_FIRE-.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

@@ -1,18 +1,13 @@
 # 文件:植木屋banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\88\ns6%3A%E6%A4%8D%E6%9C%A8%E5%B1%8Bbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\88\ns6%3A%E6%A4%8D%E6%9C%A8%E5%B1%8Bbanner%2Ejpg.html -->
 
 植木屋 | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[[1]](http://uekiya.daa.jp/wp-content/uploads/2010/11/uekiya_ban.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://uekiya.daa.jp/wp-content/uploads/2010/11/uekiya_ban.jpg)  
 
 ---
 

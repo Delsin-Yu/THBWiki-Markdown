@@ -1,18 +1,13 @@
 # 文件:深夜放送logo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c2\ns6%3A%E6%B7%B1%E5%A4%9C%E6%94%BE%E9%80%81logo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c2\ns6%3A%E6%B7%B1%E5%A4%9C%E6%94%BE%E9%80%81logo%2Epng.html -->
 
 深夜放送 | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[direct image link (max size)](http://img-cdn.jg.jugem.jp/76e/2093695/20171101_2167860.png), [source page](http://shinyahousou.jugem.jp/)
-  
-
-
-
-
+源地址：[direct image link (max size)](http://img-cdn.jg.jugem.jp/76e/2093695/20171101_2167860.png), [source page](http://shinyahousou.jugem.jp/)  
 
 ---
 

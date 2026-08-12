@@ -1,6 +1,6 @@
 # 文件:うどラジCD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c3\ns6%3A%E3%81%86%E3%81%A9%E3%83%A9%E3%82%B8CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c3\ns6%3A%E3%81%86%E3%81%A9%E3%83%A9%E3%82%B8CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 だんだん組 | 专辑封面 | 封面图片
 
@@ -8,16 +8,14 @@
 使用了本文件作封面图片的作品：
   
 
-- [うどラジCD](./うどラジCD.md)  
-该封面包含的角色：- [因幡帝](./因幡帝.md)- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)- [八意永琳](./八意永琳.md)- [梅蒂欣·梅兰可莉](./梅蒂欣·梅兰可莉.md)
+- [うどラジCD](./うどラジCD.md)该封面包含的角色：
+- [因幡帝](./因幡帝.md)
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
+- [八意永琳](./八意永琳.md)
+- [梅蒂欣·梅兰可莉](./梅蒂欣·梅兰可莉.md)
 
   
-源地址：[[1]](http://www.toranoana.jp/mailorder/article/04/0030/12/82/040030128292.html)
-  
-
-
-
-
+源地址：[\[1\]](http://www.toranoana.jp/mailorder/article/04/0030/12/82/040030128292.html)  
 
 ---
 

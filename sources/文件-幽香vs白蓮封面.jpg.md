@@ -1,6 +1,6 @@
 # 文件:幽香vs白蓮封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3d\ns6%3A%E5%B9%BD%E9%A6%99vs%E7%99%BD%E8%93%AE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3d\ns6%3A%E5%B9%BD%E9%A6%99vs%E7%99%BD%E8%93%AE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 徒歩二分
 
@@ -8,11 +8,15 @@
 使用了本文件作封面图片的作品：
   
 
-- [幽香vs白蓮](./幽香vs白蓮.md)  
-该封面包含的角色：- [风见幽香](./风见幽香.md)- [东风谷早苗](./东风谷早苗.md)- [娜兹玲](./娜兹玲.md)- [云居一轮](./云居一轮.md)- [村纱水蜜](./村纱水蜜.md)- [寅丸星](./寅丸星.md)- [圣白莲](./圣白莲.md)- [云山](./云山.md)
-
-
-
+- [幽香vs白蓮](./幽香vs白蓮.md)该封面包含的角色：
+- [风见幽香](./风见幽香.md)
+- [东风谷早苗](./东风谷早苗.md)
+- [娜兹玲](./娜兹玲.md)
+- [云居一轮](./云居一轮.md)
+- [村纱水蜜](./村纱水蜜.md)
+- [寅丸星](./寅丸星.md)
+- [圣白莲](./圣白莲.md)
+- [云山](./云山.md)
 
 
 ---

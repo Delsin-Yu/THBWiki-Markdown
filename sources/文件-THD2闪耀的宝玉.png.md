@@ -1,12 +1,8 @@
 # 文件:THD2闪耀的宝玉.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d9\ns6%3ATHD2%E9%97%AA%E8%80%80%E7%9A%84%E5%AE%9D%E7%8E%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d9\ns6%3ATHD2%E9%97%AA%E8%80%80%E7%9A%84%E5%AE%9D%E7%8E%89%2Epng.html -->
 
 AvalonStudioOfficial
-
-
-
-
 
 
 ---

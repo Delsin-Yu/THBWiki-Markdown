@@ -1,12 +1,8 @@
 # 文件:秘封噩梦日记Congratulation1.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\af\ns6%3A%E7%A7%98%E5%B0%81%E5%99%A9%E6%A2%A6%E6%97%A5%E8%AE%B0Congratulation1%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\af\ns6%3A%E7%A7%98%E5%B0%81%E5%99%A9%E6%A2%A6%E6%97%A5%E8%AE%B0Congratulation1%2Epng.html -->
 
 秘封噩梦日记 | 秘封噩梦日记结局图
-
-
-
-
 
 
 ---

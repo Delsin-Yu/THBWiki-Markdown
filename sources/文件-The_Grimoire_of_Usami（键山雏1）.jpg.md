@@ -1,14 +1,11 @@
 # 文件:The_Grimoire_of_Usami（键山雏1）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\40\ns6%3AThe_Grimoire_of_Usami%EF%BC%88%E9%94%AE%E5%B1%B1%E9%9B%8F1%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\40\ns6%3AThe_Grimoire_of_Usami%EF%BC%88%E9%94%AE%E5%B1%B1%E9%9B%8F1%EF%BC%89%2Ejpg.html -->
 
 宇佐见的魔法书 | 键山雏
 
 
 ## 摘要
-
-
-
 
 ---
 

@@ -1,18 +1,13 @@
 # 文件:Metalunalogo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f5\ns6%3AMetalunalogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f5\ns6%3AMetalunalogo%2Ejpg.html -->
 
 Metaluna | 社团LOGO
 
 
 ## 摘要
   
-源地址：[direct image link (original size)](https://stat.ameba.jp/user_images/20091231/19/metalwasabi/d2/1a/j/o0740040210359787307.jpg), [source page](https://ameblo.jp/metalwasabi/entry-10423736930.html)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://stat.ameba.jp/user_images/20091231/19/metalwasabi/d2/1a/j/o0740040210359787307.jpg), [source page](https://ameblo.jp/metalwasabi/entry-10423736930.html)  
 
 ---
 

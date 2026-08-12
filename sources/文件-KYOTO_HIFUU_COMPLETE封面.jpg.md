@@ -1,6 +1,6 @@
 # 文件:KYOTO_HIFUU_COMPLETE封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\18\ns6%3AKYOTO_HIFUU_COMPLETE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\18\ns6%3AKYOTO_HIFUU_COMPLETE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Touhou_Goa_Trance_Family | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ Touhou_Goa_Trance_Family | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [KYOTO HIFUU COMPLETE](./KYOTO_HIFUU_COMPLETE.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [KYOTO HIFUU COMPLETE](./KYOTO_HIFUU_COMPLETE.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

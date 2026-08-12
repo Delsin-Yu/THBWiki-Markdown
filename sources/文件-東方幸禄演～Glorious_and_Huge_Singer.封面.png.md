@@ -1,6 +1,6 @@
 # 文件:東方幸禄演～Glorious_and_Huge_Singer.封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8f\ns6%3A%E6%9D%B1%E6%96%B9%E5%B9%B8%E7%A6%84%E6%BC%94%EF%BD%9EGlorious_and_Huge_Singer%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8f\ns6%3A%E6%9D%B1%E6%96%B9%E5%B9%B8%E7%A6%84%E6%BC%94%EF%BD%9EGlorious_and_Huge_Singer%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 封面图片 | 软件封面 | 遊色高楼
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方幸禄演～Glorious and Huge Singer.](./東方幸禄演～Glorious_and_Huge_Singer..md)  
-该封面包含的角色：- 小林幸子 (未找到链接)
-
-
-
+- [東方幸禄演～Glorious and Huge Singer.](./東方幸禄演～Glorious_and_Huge_Singer..md)该封面包含的角色：
+- 小林幸子 (未找到链接)
 
 
 ---

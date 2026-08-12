@@ -1,6 +1,6 @@
 # 文件:E.M.Sorceress封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\74\ns6%3AE%2EM%2ESorceress%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\74\ns6%3AE%2EM%2ESorceress%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 PhantomMist | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ PhantomMist | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [E.M.Sorceress](./E.M.Sorceress.md)  
-该封面包含的角色：- [茨木华扇](./茨木华扇.md)- [宇佐见堇子](./宇佐见堇子.md)
-
-
-
+- [E.M.Sorceress](./E.M.Sorceress.md)该封面包含的角色：
+- [茨木华扇](./茨木华扇.md)
+- [宇佐见堇子](./宇佐见堇子.md)
 
 
 ---

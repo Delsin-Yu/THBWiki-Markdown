@@ -1,6 +1,6 @@
 # 文件:Cloud_"9"Cool封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a8\ns6%3ACloud_%229%22Cool%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a8\ns6%3ACloud_%229%22Cool%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 黒板クリーナー
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Cloud "9"Cool](./Cloud_-9-Cool.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
+- [Cloud "9"Cool](./Cloud_-9-Cool.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-源地址: [[1]](http://sakuku39.tuzigiri.com/C9C/fig/jack.jpg)
-  
-
-
-
-
+源地址: [\[1\]](http://sakuku39.tuzigiri.com/C9C/fig/jack.jpg)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 东方DOTS-Touhou_Defence_of_The_Shrines2(THD2)/物品
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\a\ad\ns0%3A%E4%B8%9C%E6%96%B9DOTS-Touhou_Defence_of_The_Shrines2%28THD2%29%2F%E7%89%A9%E5%93%81.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\a\ad\ns0%3A%E4%B8%9C%E6%96%B9DOTS-Touhou_Defence_of_The_Shrines2%28THD2%29%2F%E7%89%A9%E5%93%81.html -->
 
 AvalonStudioOfficial
 
@@ -8,16 +8,13 @@ AvalonStudioOfficial
 ## 目录
 
 - [1 基础物品](#基础物品)
-
   - [1.1 消耗品](#消耗品)
   - [1.2 属性](#属性)
   - [1.3 军备](#军备)
   - [1.4 奥术](#奥术)
 
 
-
 - [2 升级物品](#升级物品)
-
   - [2.1 普通](#普通)
   - [2.2 辅助](#辅助)
   - [2.3 法器](#法器)
@@ -28,17 +25,12 @@ AvalonStudioOfficial
 
 
 
-
-
-
-
-##  **<big>基础物品</big>** 
+## **<big>基础物品</big>**
   
 直接购买就可以使用或者获得属性。
   
 
-
-###  **<big>消耗品</big>** 
+### **<big>消耗品</big>**
 
 <table>
 
@@ -56,7 +48,6 @@ AvalonStudioOfficial
 </td></tr></tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
@@ -67,15 +58,13 @@ AvalonStudioOfficial
 </td></tr></tbody></table>
 
 
-
 <table>
 <tbody><tr>
 <td><a href="./文件-THD2知识之书.png.md" class="image" title="知识之书"><img alt="知识之书" src="https://upload.thwiki.cc/b/bc/THD2%E7%9F%A5%E8%AF%86%E4%B9%8B%E4%B9%A6.png" decoding="async" loading="lazy" width="85" height="62" data-file-width="85" data-file-height="62"></a><b> <big>知识之书</big> <a href="./文件-THD2G.png.md" class="image" title="金钱"><img alt="金钱" src="https://upload.thwiki.cc/4/48/THD2G.png" decoding="async" loading="lazy" width="25" height="17" data-file-width="25" data-file-height="17"></a>150<br>使用:获得700+先前已被使用过的知识之书数*135经验。</b><br><small>补货时间：10分钟</small>
 </td></tr></tbody></table>
 
 
-
-### <big> **属性** </big>
+### <big>**属性**</big>
 
 <table>
 
@@ -94,7 +83,6 @@ AvalonStudioOfficial
 </tbody></table>
 
 
-
 <table>
 <tbody><tr>
 <td><a href="./文件-THD2冰精结晶.png.md" class="image" title="冰精结晶"><img alt="冰精结晶" src="https://upload.thwiki.cc/f/fb/THD2%E5%86%B0%E7%B2%BE%E7%BB%93%E6%99%B6.png" decoding="async" loading="lazy" width="88" height="64" data-file-width="88" data-file-height="64"></a><br><b> <big>冰精结晶</big><br><a href="./文件-THD2G.png.md" class="image" title="金钱"><img alt="金钱" src="https://upload.thwiki.cc/4/48/THD2G.png" decoding="async" loading="lazy" width="25" height="17" data-file-width="25" data-file-height="17"></a>2200<br>+9所有属性</b><br></td>
@@ -105,8 +93,7 @@ AvalonStudioOfficial
 </tbody></table>
 
 
-
-###  **<big>军备</big>** 
+### **<big>军备</big>**
 
 <table>
 
@@ -128,8 +115,7 @@ AvalonStudioOfficial
 </td></tr></tbody></table>
 
 
-
-### <big> **奥术** </big>
+### <big>**奥术**</big>
 
 <table>
 
@@ -151,7 +137,6 @@ AvalonStudioOfficial
 </td></tr></tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
@@ -170,14 +155,12 @@ AvalonStudioOfficial
 </td></tr></tbody></table>
 
 
-
-## <big> **升级物品** </big>
+## <big>**升级物品**</big>
   
 升级物品需要通过基础物品或再加上合成卷轴才获得。
   
 
-
-### <big> **普通** </big>
+### <big>**普通**</big>
 
 <table>
 
@@ -202,7 +185,6 @@ AvalonStudioOfficial
 </td></tr></tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
@@ -211,8 +193,7 @@ AvalonStudioOfficial
 </small></td></tr></tbody></table>
 
 
-
-### <big> **辅助** </big>
+### <big>**辅助**</big>
 
 <table>
 
@@ -239,8 +220,7 @@ AvalonStudioOfficial
 </td></tr></tbody></table>
 
 
-
-###  **<big>法器</big>** 
+### **<big>法器</big>**
 
 <table>
 
@@ -261,7 +241,6 @@ AvalonStudioOfficial
 <td><a href="./文件-THD2天界之桃.png.md" class="image" title="天界之桃"><img alt="天界之桃" src="https://upload.thwiki.cc/5/5c/THD2%E5%A4%A9%E7%95%8C%E4%B9%8B%E6%A1%83.png" decoding="async" loading="lazy" width="88" height="64" data-file-width="88" data-file-height="64"></a><b><big>天界之桃</big> <a href="./文件-THD2G.png.md" class="image" title="金钱"><img alt="金钱" src="https://upload.thwiki.cc/4/48/THD2G.png" decoding="async" loading="lazy" width="25" height="17" data-file-width="25" data-file-height="17"></a>2500<br><small>大地要石(1200)+新月头饰(185)+卷轴：天界之桃(1115)</small><br>被动：天人体质-特殊的体质导致被攻击后会兴奋，每受到200伤害，会增加攻击速度，最高叠加9层。</b><br>+20闪避<br>+5所有属性<br>持续时间：12<br>每层增加攻速：10<br><br><br><br><br><br></td>
 <td><a href="./文件-THD2月面之弓弦.png.md" class="image" title="月面之弓弦"><img alt="月面之弓弦" src="https://upload.thwiki.cc/d/d4/THD2%E6%9C%88%E9%9D%A2%E4%B9%8B%E5%BC%93%E5%BC%A6.png" decoding="async" loading="lazy" width="88" height="64" data-file-width="88" data-file-height="64"></a><b><big>月面之弓弦</big> <a href="./文件-THD2G.png.md" class="image" title="金钱"><img alt="金钱" src="https://upload.thwiki.cc/4/48/THD2G.png" decoding="async" loading="lazy" width="25" height="17" data-file-width="25" data-file-height="17"></a>4000<br><small>铁制短刀(400)+月之碎片(1500)+高阶魔法书(1000)+护士人偶(1100)</small><br>主动：向指定方向射出一箭，对被击中少女造成和自身智力挂钩的物理伤害。</b><br>+13攻击力<br>+16智力<br>+42攻击速度<br>箭最大距离：2000<br>箭半径：150<br>基础伤害：140<br>智力加成伤害系数：4<br><a href="./文件-THD2冷却时间图标.png.md" class="image" title="冷却时间（秒）"><img alt="冷却时间（秒）" src="https://upload.thwiki.cc/f/f8/THD2%E5%86%B7%E5%8D%B4%E6%97%B6%E9%97%B4%E5%9B%BE%E6%A0%87.png" decoding="async" loading="lazy" width="22" height="22" data-file-width="22" data-file-height="22"></a>20　　　 　　<a href="./文件-THD2法力消耗图标.png.md" class="image" title="法力消耗"><img alt="法力消耗" src="https://upload.thwiki.cc/d/d6/THD2%E6%B3%95%E5%8A%9B%E6%B6%88%E8%80%97%E5%9B%BE%E6%A0%87.png" decoding="async" loading="lazy" width="22" height="22" data-file-width="22" data-file-height="22"></a>120<br><br>
 </td></tr></tbody></table>
-
 
 
 <table>
@@ -286,8 +265,7 @@ AvalonStudioOfficial
 </td></tr></tbody></table>
 
 
-
-### <big> **武器** </big>
+### <big>**武器**</big>
 
 <table>
 
@@ -319,8 +297,7 @@ AvalonStudioOfficial
 </td></tr></tbody></table>
 
 
-
-###  **<big>防具</big>** 
+### **<big>防具</big>**
 
 <table>
 
@@ -363,8 +340,7 @@ AvalonStudioOfficial
 </td></tr></tbody></table>
 
 
-
-### <big> **圣物** </big>
+### <big>**圣物**</big>
 
 <table>
 <tbody><tr>
@@ -385,7 +361,6 @@ AvalonStudioOfficial
 </tbody></table>
 
 
-
 <table>
 <tbody><tr>
 <td><a href="./文件-THD2厄运护符.png.md" class="image" title="厄运护符"><img alt="厄运护符" src="https://upload.thwiki.cc/8/87/THD2%E5%8E%84%E8%BF%90%E6%8A%A4%E7%AC%A6.png" decoding="async" loading="lazy" width="88" height="64" data-file-width="88" data-file-height="64"></a><b><big>厄运护符</big> <a href="./文件-THD2G.png.md" class="image" title="金钱"><img alt="金钱" src="https://upload.thwiki.cc/4/48/THD2G.png" decoding="async" loading="lazy" width="25" height="17" data-file-width="25" data-file-height="17"></a>1725<br><small>伊奘诺物质(900)+无色水晶(375)+初级魔法书(450)</small><br>+9攻击速度<br>+9攻击力<br>+6智力<br>+40%魔法恢复 <br><br><br><br><br><br></b></td>
@@ -398,14 +373,6 @@ AvalonStudioOfficial
 </p>
 </td></tr>
 </tbody></table>
-
-
-
-<table><tbody><tr><td><table cellspacing="0" class="nowraplinks mw-collapsible uncollapsed" style="width:100%;;;"><tbody><tr><th style=";" colspan="2" class="navbox-title"><div class="navbar"><div class="noprint plainlinksneverexpand" style="background-color:transparent; padding:0; font-weight:normal; font-size:80%; white-space:nowrap;"><a href="/index.php?title=%E6%A8%A1%E6%9D%BF:%E4%B8%9C%E6%96%B9DOTS-Touhou_Defence_of_The_Shrines2(THD2)/%E7%89%A9%E5%93%81&amp;action=edit&amp;redlink=1" class="new" title="模板:东方DOTS-Touhou Defence of The Shrines2(THD2)/物品（页面不存在）"><span style=";;border:none;" title="查看这个模板">查</span></a>&#160;<span style="font-size:80%;">•</span>&#160;<a href="/index.php?title=%E6%A8%A1%E6%9D%BF:%E4%B8%9C%E6%96%B9DOTS-Touhou_Defence_of_The_Shrines2(THD2)/%E7%89%A9%E5%93%81&amp;action=edit"><span style=";;border:none;" title="您可以编辑这个模板。请在储存变更之前先预览">编</span></a></div></div><span>装备</span></th></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">消耗品</td><td style=";;" class="navbox-list navbox-odd"><div>好人卡 • 坏人卡 • 衰人卡 • 爱人卡 • 思兼生命药 • 雾雨魔力瓶 • 间隙通行证 • 鸦天狗 • 动物信使 • 飞行信使 • 侦查守卫 • 岗哨守卫 • 河童木工刃 • 西尔芙灵纹</div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><center>属性</center></td><td style=";;" class="navbox-list navbox-even"><div>四叶草 • 练习手套 • 妖精发带  • 灵符 • 新月头饰 • 鬼天王腰带 • 妖精之翼 • 初阶魔法书 • 冰精结晶 • 白狼天狗巨刃 • 妖精之刃 • 高阶魔法书 • 知识之书</div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><center>军备</center></td><td style=";;" class="navbox-list navbox-odd"><div>铁质短刀 • 西洋剑 • 铁锤 • 封魔针 • 太刀 • 魔术师银匕首 • 秘银戒指 • 妖精之服 • 恶魔洋装 • 魔女之裙 • 魔女披风 • 木盾</div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><center>奥术</center></td><td style=";;" class="navbox-list navbox-even"><div>星星挂坠 • 信仰挂坠 • 无色水晶 • 七色水晶 • 魔法使扫把 • 天狗护符 • 贤者之石 • 羽翼 • 艾哲红石 • 闪耀的宝玉 • 大地要石 • 伊奘诺物质</div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><center>普通</center></td><td style=";;" class="navbox-list navbox-odd"><div>红魔挂件 • 妖精护符 • 魔力灵符 • 御币 • 风祝御币 • 博丽御币 • 恶魔之翼 • 御守 • 格斗扫把 • 迅捷扫把 • 魔力扫把 • 炽热彗星 • 八云间隙发生器</div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><center>辅助</center></td><td style=";;" class="navbox-list navbox-even"><div>碎骨笛 • 巫女的狐狸面具 • 思兼生命智慧 • 元素秘法石 • 月耀秘石 • 血染的太阳伞 • 速融的核聚变棒 • 很值钱的礼物 • 博丽供奉箱 • 冰精跳跃装置 • 奇迹之星 • 香霖的礼服</div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><center>法器</center></td><td style=";;" class="navbox-list navbox-odd"><div>不明的秒计时 • 魔法使的帽子 • 光龙雷云钻 • 巴瓦鲁幽魂之书 • 土蜘蛛之丝 • 护士人偶 • 替身人偶 • 天界之桃 • 月面之弓弦 • 红魔火箭 • 油库里之杖 • 魔人经卷 • 迷你八卦炉 • 破魔净灵札</div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><center>武器</center></td><td style=";;" class="navbox-list navbox-even"><div>河童冲锋手枪 • 恶魔的乳牙 • 月兔粉碎之锤 • 纳税用阴阳玉 • 月之碎片 • 流雏人形 • 风神羽翼 • 死神渡河船桨 • 念缚灵的船钩 • 楼观剑 • 月兔幻觉兵器 • 天丛云剑 • 神枪冈格尼尔 • 月面之弩</div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><center>防具</center></td><td style=";;" class="navbox-list navbox-odd"><div>哨戒天狗护盾 • 亡灵送行提灯 • 火凤凰之翼 • 花毒的连衣裙 • 幽灵气球 • 七曜魔女斗篷 • 使魔斗篷 • 人魂之灯 • 博丽神社护身符 • 龙星 • 退魔御币 • 真澄之镜 • 十字架 • 灾厄之主人形</div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><center>圣物</center></td><td style=";;" class="navbox-list navbox-even"><div>冰精完美钻石 • 花之领主阳伞 • 死神之大镰刀 • 鬼神镣铐 • 半灵练习剑 • 白楼剑 • 伊吹瓢 • 天狗羽扇 • 西洋魔法书 • 厄运护符 • 高科技相机 • 真实割夺之刃</div></td></tr></tbody></table></td></tr></tbody></table>
-
-
-
-
 
 
 ---

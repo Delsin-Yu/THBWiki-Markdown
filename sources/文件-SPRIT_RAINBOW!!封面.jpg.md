@@ -1,6 +1,6 @@
 # 文件:SPRIT_RAINBOW!!封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\40\ns6%3ASPRIT_RAINBOW%21%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\40\ns6%3ASPRIT_RAINBOW%21%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 HIDDEN_TREASURE | ネガ⇄ポジ | 专辑封面 | 封面图片
 
@@ -10,11 +10,9 @@ HIDDEN_TREASURE | ネガ⇄ポジ | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [SPRIT RAINBOW!!](./SPRIT_RAINBOW!!.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)- [古明地恋](./古明地恋.md)
-
-
-
+- [SPRIT RAINBOW!!](./SPRIT_RAINBOW!!.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [古明地恋](./古明地恋.md)
 
 
 ---

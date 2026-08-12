@@ -1,12 +1,8 @@
 # 文件:東方魔晶精_~Fairies_of_Sorcery~菜单界面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\46\ns6%3A%E6%9D%B1%E6%96%B9%E9%AD%94%E6%99%B6%E7%B2%BE_%7EFairies_of_Sorcery%7E%E8%8F%9C%E5%8D%95%E7%95%8C%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\46\ns6%3A%E6%9D%B1%E6%96%B9%E9%AD%94%E6%99%B6%E7%B2%BE_%7EFairies_of_Sorcery%7E%E8%8F%9C%E5%8D%95%E7%95%8C%E9%9D%A2%2Ejpg.html -->
 
 Nono_443 | 同人游戏菜单界面
-
-
-
-
 
 
 ---

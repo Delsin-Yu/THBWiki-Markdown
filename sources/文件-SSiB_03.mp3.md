@@ -1,12 +1,8 @@
 # 文件:SSiB_03.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\72\ns6%3ASSiB_03%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\72\ns6%3ASSiB_03%2Emp3.html -->
 
 东方儚月抄_～_Silent_Sinner_in_Blue. | 原曲MP3 | 酒鬼的雷姆利亚_(Retro_Ver)
-
-
-
-
 
 
 ---

@@ -1,19 +1,17 @@
 # 結界幻想録_鏡_～_mythical_mirror/符卡
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\7\76\ns0%3A%E7%B5%90%E7%95%8C%E5%B9%BB%E6%83%B3%E9%8C%B2_%E9%8F%A1_%EF%BD%9E_mythical_mirror%2F%E7%AC%A6%E5%8D%A1.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\7\76\ns0%3A%E7%B5%90%E7%95%8C%E5%B9%BB%E6%83%B3%E9%8C%B2_%E9%8F%A1_%EF%BD%9E_mythical_mirror%2F%E7%AC%A6%E5%8D%A1.html -->
 
 DANGOYA | Danmaq
 
-: - [Stage 1 符卡](./結界幻想録_鏡_～_mythical_mirror-符卡-Stage_1.md)
+: 
+- [Stage 1 符卡](./結界幻想録_鏡_～_mythical_mirror-符卡-Stage_1.md)
 - [Stage 2 符卡](./結界幻想録_鏡_～_mythical_mirror-符卡-Stage_2.md)
 - [Stage 3 符卡](./結界幻想録_鏡_～_mythical_mirror-符卡-Stage_3.md)
 - [Stage 4 符卡](./結界幻想録_鏡_～_mythical_mirror-符卡-Stage_4.md)
 - [Stage 5 符卡](./結界幻想録_鏡_～_mythical_mirror-符卡-Stage_5.md)
 - [Stage 6 符卡](./結界幻想録_鏡_～_mythical_mirror-符卡-Stage_6.md)
 - [Extra关卡 符卡](./結界幻想録_鏡_～_mythical_mirror-符卡-Extra.md)
-
-
-
 
 
 

@@ -1,18 +1,13 @@
 # 文件:バールのようなものbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f8\ns6%3A%E3%83%90%E3%83%BC%E3%83%AB%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA%E3%82%82%E3%81%AEbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f8\ns6%3A%E3%83%90%E3%83%BC%E3%83%AB%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA%E3%82%82%E3%81%AEbanner%2Epng.html -->
 
 バールのようなもの | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[direct image link (max size)](https://stat.blogskin.ameba.jp/blogskin_images/20101112/03/fa/ff/g/o08700120crowbar20091289499559892.gif), [source page (header banner)](https://ameblo.jp/crowbar2009/)
-  
-
-
-
-
+源地址：[direct image link (max size)](https://stat.blogskin.ameba.jp/blogskin_images/20101112/03/fa/ff/g/o08700120crowbar20091289499559892.gif), [source page (header banner)](https://ameblo.jp/crowbar2009/)  
 
 ---
 

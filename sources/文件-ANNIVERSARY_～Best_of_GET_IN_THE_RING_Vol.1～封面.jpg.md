@@ -1,6 +1,6 @@
 # 文件:ANNIVERSARY_～Best_of_GET_IN_THE_RING_Vol.1～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\04\ns6%3AANNIVERSARY_%EF%BD%9EBest_of_GET_IN_THE_RING_Vol%2E1%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\04\ns6%3AANNIVERSARY_%EF%BD%9EBest_of_GET_IN_THE_RING_Vol%2E1%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 GET_IN_THE_RING | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ GET_IN_THE_RING | 专辑封面 | 封面图片
   
 
 - [ANNIVERSARY ～Best of GET IN THE RING Vol.1～](./ANNIVERSARY_～Best_of_GET_IN_THE_RING_Vol.1～.md)
-
-
-
 
 
 ---

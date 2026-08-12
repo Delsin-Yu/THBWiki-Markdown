@@ -1,6 +1,6 @@
 # 文件:Crimson_Flame封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e9\ns6%3ACrimson_Flame%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e9\ns6%3ACrimson_Flame%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 White_Elephant | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ White_Elephant | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Crimson Flame](./Crimson_Flame.md)  
-该封面包含的角色：- [藤原妹红](./藤原妹红.md)
-
-
-
+- [Crimson Flame](./Crimson_Flame.md)该封面包含的角色：
+- [藤原妹红](./藤原妹红.md)
 
 
 ---

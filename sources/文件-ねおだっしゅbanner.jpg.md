@@ -1,18 +1,13 @@
 # 文件:ねおだっしゅbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e8\ns6%3A%E3%81%AD%E3%81%8A%E3%81%A0%E3%81%A3%E3%81%97%E3%82%85banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e8\ns6%3A%E3%81%AD%E3%81%8A%E3%81%A0%E3%81%A3%E3%81%97%E3%82%85banner%2Ejpg.html -->
 
 ねおだっしゅ | 社团LOGO
 
 
 ## 摘要
   
-源地址：[direct image link](https://web.archive.org/web/20060614124524im_/http://www.h2.dion.ne.jp/~n-e-o/img/banner1.jpg), [source page](https://web.archive.org/web/20050929062512/http://www.h2.dion.ne.jp/~n-e-o/main.html)
-  
-
-
-
-
+源地址：[direct image link](https://web.archive.org/web/20060614124524im_/http://www.h2.dion.ne.jp/~n-e-o/img/banner1.jpg), [source page](https://web.archive.org/web/20050929062512/http://www.h2.dion.ne.jp/~n-e-o/main.html)  
 
 ---
 

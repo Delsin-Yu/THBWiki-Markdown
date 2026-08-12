@@ -1,6 +1,6 @@
 # 文件:夢現（RELI）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1e\ns6%3A%E5%A4%A2%E7%8F%BE%EF%BC%88RELI%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1e\ns6%3A%E5%A4%A2%E7%8F%BE%EF%BC%88RELI%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 RELI | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ RELI | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [夢現（RELI）](./夢現（RELI）.md)  
-该封面包含的角色：- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [夢現（RELI）](./夢現（RELI）.md)该封面包含的角色：
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

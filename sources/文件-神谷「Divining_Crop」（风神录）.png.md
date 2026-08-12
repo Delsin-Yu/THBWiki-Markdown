@@ -1,12 +1,8 @@
 # 文件:神谷「Divining_Crop」（风神录）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0a\ns6%3A%E7%A5%9E%E8%B0%B7%E3%80%8CDivining_Crop%E3%80%8D%EF%BC%88%E9%A3%8E%E7%A5%9E%E5%BD%95%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0a\ns6%3A%E7%A5%9E%E8%B0%B7%E3%80%8CDivining_Crop%E3%80%8D%EF%BC%88%E9%A3%8E%E7%A5%9E%E5%BD%95%EF%BC%89%2Epng.html -->
 
 东方风神录 | 八坂神奈子 | 敌机符卡
-
-
-
-
 
 
 ---

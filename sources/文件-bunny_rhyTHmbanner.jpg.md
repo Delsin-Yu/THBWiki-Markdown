@@ -1,12 +1,8 @@
 # 文件:bunny_rhyTHmbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7d\ns6%3Abunny_rhyTHmbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7d\ns6%3Abunny_rhyTHmbanner%2Ejpg.html -->
 
 bunny_rhyTHm | 社团LOGO
-
-
-
-
 
 
 ---

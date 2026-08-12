@@ -1,12 +1,8 @@
 # 文件:天弓千亦（虹龙洞立绘）no.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f7\ns6%3A%E5%A4%A9%E5%BC%93%E5%8D%83%E4%BA%A6%EF%BC%88%E8%99%B9%E9%BE%99%E6%B4%9E%E7%AB%8B%E7%BB%98%EF%BC%89no%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f7\ns6%3A%E5%A4%A9%E5%BC%93%E5%8D%83%E4%BA%A6%EF%BC%88%E8%99%B9%E9%BE%99%E6%B4%9E%E7%AB%8B%E7%BB%98%EF%BC%89no%2Epng.html -->
 
 ZUN绘 | 东方虹龙洞 | 天弓千亦 | 官方游戏立绘
-
-
-
-
 
 
 ---

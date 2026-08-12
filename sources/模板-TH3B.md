@@ -1,16 +1,12 @@
 # 模板:TH3B
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\3\37\ns10%3ATH3B.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\3\37\ns10%3ATH3B.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

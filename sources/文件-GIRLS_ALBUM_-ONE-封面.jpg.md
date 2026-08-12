@@ -1,6 +1,6 @@
 # 文件:GIRLS_ALBUM_-ONE-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\63\ns6%3AGIRLS_ALBUM_-ONE-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\63\ns6%3AGIRLS_ALBUM_-ONE-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 暁Records
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [GIRLS ALBUM -ONE-](./GIRLS_ALBUM_-ONE-.md)  
-该封面包含的角色：- [古明地恋](./古明地恋.md)
+- [GIRLS ALBUM -ONE-](./GIRLS_ALBUM_-ONE-.md)该封面包含的角色：
+- [古明地恋](./古明地恋.md)
 
   
-源地址：[[1]](http://ec.akbh.jp/upload/save_image/pics/2100000072828.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://ec.akbh.jp/upload/save_image/pics/2100000072828.jpg)  
 
 ---
 

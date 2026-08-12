@@ -1,6 +1,6 @@
 # 文件:Midnight_Carnival封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\eb\ns6%3AMidnight_Carnival%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\eb\ns6%3AMidnight_Carnival%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Dormitory_Studio | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Dormitory_Studio | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Midnight Carnival](./Midnight_Carnival.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [Midnight Carnival](./Midnight_Carnival.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

@@ -1,16 +1,12 @@
 # 文件:THBWiki第三代Logo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3b\ns6%3ATHBWiki%E7%AC%AC%E4%B8%89%E4%BB%A3Logo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3b\ns6%3ATHBWiki%E7%AC%AC%E4%B8%89%E4%BB%A3Logo%2Epng.html -->
 
 THBWiki
 
   
 THBWiki的第三代Logo，更现代化的设计
   
-
-
-
-
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:Gensou_Drag_EP.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c3\ns6%3AGensou_Drag_EP%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c3\ns6%3AGensou_Drag_EP%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Marmalade_butcher | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Marmalade_butcher | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Gensou Drag EP.](./Gensou_Drag_EP..md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
-
-
-
+- [Gensou Drag EP.](./Gensou_Drag_EP..md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
 
 ---

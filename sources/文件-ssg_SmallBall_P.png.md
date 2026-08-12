@@ -1,16 +1,12 @@
 # 文件:ssg_SmallBall_P.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b2\ns6%3Assg_SmallBall_P%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b2\ns6%3Assg_SmallBall_P%2Epng.html -->
 
 秋霜玉
 
   
 《秋霜玉》弹幕紫色小玉。
   
-
-
-
-
 
 ---
 

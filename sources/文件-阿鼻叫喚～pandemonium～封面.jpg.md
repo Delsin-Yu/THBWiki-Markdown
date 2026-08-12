@@ -1,6 +1,6 @@
 # 文件:阿鼻叫喚～pandemonium～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\39\ns6%3A%E9%98%BF%E9%BC%BB%E5%8F%AB%E5%96%9A%EF%BD%9Epandemonium%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\39\ns6%3A%E9%98%BF%E9%BC%BB%E5%8F%AB%E5%96%9A%EF%BD%9Epandemonium%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 The_Last_Battalion | 专辑封面 | 封面图片
 
@@ -8,16 +8,12 @@ The_Last_Battalion | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [阿鼻叫喚～pandemonium～](./阿鼻叫喚～pandemonium～.md)  
-该封面包含的角色：- [古明地恋](./古明地恋.md)
+- [阿鼻叫喚～pandemonium～](./阿鼻叫喚～pandemonium～.md)该封面包含的角色：
+- [古明地恋](./古明地恋.md)
 
   
 源地址:http:// thelastbattalion.web.fc2.com/img/abikyoukan400. jpg
   
-
-
-
-
 
 ---
 

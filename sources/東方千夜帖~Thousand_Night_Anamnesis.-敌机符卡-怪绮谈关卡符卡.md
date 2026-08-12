@@ -1,6 +1,6 @@
 # 東方千夜帖~Thousand_Night_Anamnesis./敌机符卡/怪绮谈关卡符卡
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\60\ns0%3A%E6%9D%B1%E6%96%B9%E5%8D%83%E5%A4%9C%E5%B8%96%7EThousand_Night_Anamnesis%2E%2F%E6%95%8C%E6%9C%BA%E7%AC%A6%E5%8D%A1%2F%E6%80%AA%E7%BB%AE%E8%B0%88%E5%85%B3%E5%8D%A1%E7%AC%A6%E5%8D%A1.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\60\ns0%3A%E6%9D%B1%E6%96%B9%E5%8D%83%E5%A4%9C%E5%B8%96%7EThousand_Night_Anamnesis%2E%2F%E6%95%8C%E6%9C%BA%E7%AC%A6%E5%8D%A1%2F%E6%80%AA%E7%BB%AE%E8%B0%88%E5%85%B3%E5%8D%A1%E7%AC%A6%E5%8D%A1.html -->
 
 サラダ
 
@@ -20,7 +20,7 @@
 <th>Lunatic难度里评论
 </th></tr>
 <tr>
-<td><b>诱惑「哈默尔恩的吹笛少女」</b><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">1</a></sup></td>
+<td><b>诱惑「哈默尔恩的吹笛少女」</b><span>[^cite_note-1]</span></td>
 <td>一场有趣的童话大作战开始了。不要被音符所迷惑哦。</td>
 <td>一场有趣的童话大作战开始了。很容易弄错，哈梅林就是这条街的名字。</td>
 <td>一场有趣的童话大作战开始了。总能从童话故事中获得教育。</td>
@@ -34,7 +34,7 @@
 <td>本来有一个和Boss一起关起来的计划，但因为没有意义，所以弃置了。
 </td></tr>
 <tr>
-<td><b>翻弄「北风和太阳」</b><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">2</a></sup></td>
+<td><b>翻弄「北风和太阳」</b><span>[^cite_note-2]</span></td>
 <td>考验和亲切。虽然这个太阳并不仁慈。</td>
 <td>考验和亲切。无论何事，组合都很重要。</td>
 <td>听说原著中讲的是太阳神和北风之神。那便是暴风与灼热，很难熬。</td>
@@ -76,7 +76,7 @@
 <td>毒苹果的弹幕。敢于逃避惩罚就好了。
 </td></tr>
 <tr>
-<td><b>幻惑「汉塞尔与格莱特」</b><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">3</a></sup></td>
+<td><b>幻惑「汉塞尔与格莱特」</b><span>[^cite_note-3]</span></td>
 <td>孩子的梦。我最想要实现的童话No.1。</td>
 <td>孩子的梦。不要错过重要的路标。</td>
 <td>孩子的梦。如果我中了彩票，就去做一个。</td>
@@ -90,13 +90,9 @@
 <td>最后是和爱丽丝自己的故事较量。能平全地到回到现实世界吗？
 </td></tr></tbody></table>
 
-
-
 [^cite_note-1]: 致敬格林童话《花衣魔笛手》 
-
-
-
-
+[^cite_note-2]: 致敬寓言故事《北风与太阳》
+[^cite_note-3]: 致敬格林童话《汉塞尔与格莱特》
 
 ---
 

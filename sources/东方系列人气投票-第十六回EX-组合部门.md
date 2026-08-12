@@ -1,27 +1,27 @@
 # 东方系列人气投票/第十六回EX/组合部门
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\fc\ns0%3A%E4%B8%9C%E6%96%B9%E7%B3%BB%E5%88%97%E4%BA%BA%E6%B0%94%E6%8A%95%E7%A5%A8%2F%E7%AC%AC%E5%8D%81%E5%85%AD%E5%9B%9EEX%2F%E7%BB%84%E5%90%88%E9%83%A8%E9%97%A8.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\fc\ns0%3A%E4%B8%9C%E6%96%B9%E7%B3%BB%E5%88%97%E4%BA%BA%E6%B0%94%E6%8A%95%E7%A5%A8%2F%E7%AC%AC%E5%8D%81%E5%85%AD%E5%9B%9EEX%2F%E7%BB%84%E5%90%88%E9%83%A8%E9%97%A8.html -->
 
 东方系列人气投票
 
 <center>
-
 <table>
 <tbody><tr>
-<td>&lt;
+<td><
 </td>
-<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./东方系列人气投票-第十三回-组合部门.md" title="东方系列人气投票/第十三回/组合部门">第十三回</a>&#160;
+<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./东方系列人气投票-第十三回-组合部门.md" title="东方系列人气投票/第十三回/组合部门">第十三回</a> 
 </td>
-<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="./东方系列人气投票.md" title="东方系列人气投票">东方系列人气投票</a>（组合部门）&#160;
+<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;"> <a href="./东方系列人气投票.md" title="东方系列人气投票">东方系列人气投票</a>（组合部门） 
 </td>
-<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left">&#160;<a href="./东方系列人气投票-第十八回EX-组合部门.md" title="东方系列人气投票/第十八回EX/组合部门">第十八回EX</a>
+<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left"> <a href="./东方系列人气投票-第十八回EX-组合部门.md" title="东方系列人气投票/第十八回EX/组合部门">第十八回EX</a>
 </td>
-<td>&gt;
+<td>>
 </td></tr></tbody></table>
 
   
 </center>
 - 本页面为东方人气投票组合(Best Partner)部分的票数排行简表，只收录票数大于10的组合。
+
 
 - 总票数为10849票。
 
@@ -34,7 +34,6 @@
 <tr>
 <td><span style="color:#FBB">▇▇</span>：本回投票新加入的组合
 </td></tr></tbody></table>
-
 
 
 <table>
@@ -1070,10 +1069,6 @@
 <td>11</td>
 <td>2
 </td></tr></tbody></table>
-
-
-
-
 
 
 ---

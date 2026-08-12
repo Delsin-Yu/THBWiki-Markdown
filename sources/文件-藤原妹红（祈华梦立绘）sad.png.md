@@ -1,12 +1,8 @@
 # 文件:藤原妹红（祈华梦立绘）sad.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0e\ns6%3A%E8%97%A4%E5%8E%9F%E5%A6%B9%E7%BA%A2%EF%BC%88%E7%A5%88%E5%8D%8E%E6%A2%A6%E7%AB%8B%E7%BB%98%EF%BC%89sad%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0e\ns6%3A%E8%97%A4%E5%8E%9F%E5%A6%B9%E7%BA%A2%EF%BC%88%E7%A5%88%E5%8D%8E%E6%A2%A6%E7%AB%8B%E7%BB%98%EF%BC%89sad%2Epng.html -->
 
 OSY搞事组 | 东方祈华梦制作组 | 二次角色立绘 | 藤原妹红（祈华梦）
-
-
-
-
 
 
 ---

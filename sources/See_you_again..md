@@ -1,29 +1,25 @@
 # See_you_again.
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\a\a0\ns0%3ASee_you_again%2E.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\a\a0\ns0%3ASee_you_again%2E.html -->
 
 2012年8月11日 由 Midnight Dessert 于 Comic Market 82 发布的漫画同人志，B5尺寸一共24页，登场人物有 东风谷早苗，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人志 (未找到链接)** 的词条
-
+**[二次创作同人志](./二次创作.md#同人志)**的词条
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-See_you_again.封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/5/5f/See_you_again.%E5%B0%81%E9%9D%A2.jpg/137px-See_you_again.%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="137" height="196" srcset="https://upload.thwiki.cc/thumb/5/5f/See_you_again.%E5%B0%81%E9%9D%A2.jpg/206px-See_you_again.%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/5/5f/See_you_again.%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="269" data-file-height="384"></a><div class="cover-char">角色：<a href="./东风谷早苗.md" title="东风谷早苗">东风谷早苗</a></div></td>
 </tr><tr><td class="label">名称</td><td colspan="2"> See you again. </td></tr><tr><td class="label">制作方</td><td><a href="./Midnight_Dessert.md" title="Midnight Dessert">Midnight Dessert</a></td><td class="cover-artwork" rowspan="7" style="min-width:196px;"><a href="./文件-See_you_again.封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/5/5f/See_you_again.%E5%B0%81%E9%9D%A2.jpg/137px-See_you_again.%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="137" height="196" srcset="https://upload.thwiki.cc/thumb/5/5f/See_you_again.%E5%B0%81%E9%9D%A2.jpg/206px-See_you_again.%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/5/5f/See_you_again.%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="269" data-file-height="384"></a><div class="cover-char">角色：<a href="./东风谷早苗.md" title="东风谷早苗">东风谷早苗</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2012-08-11&#160;（<a href="/展会作品列表?e=Comic+Market%2382">Comic Market 82</a>）</td></tr><tr><td class="label">类型</td><td>漫画</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>B5</td></tr><tr><td class="label">页数</td><td>24P</td></tr><tr><td class="label">登场人物</td><td><a href="./东风谷早苗.md" title="东风谷早苗">东风谷早苗</a></td></tr>
+</tr><tr><td class="label">首发日期</td><td>2012-08-11 （<a href="./展会作品列表.md#82">Comic Market 82</a>）</td></tr><tr><td class="label">类型</td><td>漫画</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>B5</td></tr><tr><td class="label">页数</td><td>24P</td></tr><tr><td class="label">登场人物</td><td><a href="./东风谷早苗.md" title="东风谷早苗">东风谷早苗</a></td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://kurudaz.exblog.jp/18762489/">https://kurudaz.exblog.jp/18762489/</a><br><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/29048768">https://www.pixiv.net/artworks/29048768</a></td></tr><tr><td class="label">备注</td><td colspan="2"><a href="./Fair_wind／So_long...md" title="Fair wind／So long.." unred="">Fair Wind/So long..</a>的后日谈</td></tr></tbody></table>
 
 See you again.（同人志，Midnight Dessert，2012） - 2012年8月11日 由 Midnight Dessert 于 Comic Market 82 发布的漫画同人志，B5尺寸一共24页，登场人物有 东风谷早苗，分级为 一般向
-
 ## Staff
+
 - kurudaz (未找到链接)
 
 
 ## 评论
-
-
-
 
 ---
 

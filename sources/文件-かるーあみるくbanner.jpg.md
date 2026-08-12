@@ -1,12 +1,8 @@
 # 文件:かるーあみるくbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\86\ns6%3A%E3%81%8B%E3%82%8B%E3%83%BC%E3%81%82%E3%81%BF%E3%82%8B%E3%81%8Fbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\86\ns6%3A%E3%81%8B%E3%82%8B%E3%83%BC%E3%81%82%E3%81%BF%E3%82%8B%E3%81%8Fbanner%2Ejpg.html -->
 
 かるーあみるく | 社团LOGO
-
-
-
-
 
 
 ---

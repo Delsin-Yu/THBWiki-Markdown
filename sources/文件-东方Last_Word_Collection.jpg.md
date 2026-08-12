@@ -1,12 +1,8 @@
 # 文件:东方Last_Word_Collection.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d5\ns6%3A%E4%B8%9C%E6%96%B9Last_Word_Collection%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d5\ns6%3A%E4%B8%9C%E6%96%B9Last_Word_Collection%2Ejpg.html -->
 
 东方Last_Word_Collection
-
-
-
-
 
 
 ---

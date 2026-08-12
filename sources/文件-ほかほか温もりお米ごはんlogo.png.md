@@ -1,18 +1,13 @@
 # 文件:ほかほか温もりお米ごはんlogo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7b\ns6%3A%E3%81%BB%E3%81%8B%E3%81%BB%E3%81%8B%E6%B8%A9%E3%82%82%E3%82%8A%E3%81%8A%E7%B1%B3%E3%81%94%E3%81%AF%E3%82%93logo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7b\ns6%3A%E3%81%BB%E3%81%8B%E3%81%BB%E3%81%8B%E6%B8%A9%E3%82%82%E3%82%8A%E3%81%8A%E7%B1%B3%E3%81%94%E3%81%AF%E3%82%93logo%2Epng.html -->
 
 ほかほか温もりお米ごはん | 社团LOGO
 
 
 ## 摘要
   
-源地址：[direct image link](https://xxichigo.web.fc2.com/hokanuku/img/logo2.png), [source page](https://xxichigo.web.fc2.com/hokanuku/)
-  
-
-
-
-
+源地址：[direct image link](https://xxichigo.web.fc2.com/hokanuku/img/logo2.png), [source page](https://xxichigo.web.fc2.com/hokanuku/)  
 
 ---
 

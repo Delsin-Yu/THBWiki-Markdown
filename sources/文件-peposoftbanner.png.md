@@ -1,18 +1,13 @@
 # 文件:peposoftbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\00\ns6%3Apeposoftbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\00\ns6%3Apeposoftbanner%2Epng.html -->
 
 peposoft | 社团LOGO
 
 
 ## 摘要
   
-源地址：[direct image link](http://www.peposoft.com/old/peposoft2010/IMAGE_/peposoft_image/peposoft_banner.png), [source page](http://www.peposoft.com/old/peposoft2010/link.html)
-  
-
-
-
-
+源地址：[direct image link](http://www.peposoft.com/old/peposoft2010/IMAGE_/peposoft_image/peposoft_banner.png), [source page](http://www.peposoft.com/old/peposoft2010/link.html)  
 
 ---
 

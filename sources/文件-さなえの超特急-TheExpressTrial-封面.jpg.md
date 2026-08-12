@@ -1,6 +1,6 @@
 # 文件:さなえの超特急-TheExpressTrial-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dc\ns6%3A%E3%81%95%E3%81%AA%E3%81%88%E3%81%AE%E8%B6%85%E7%89%B9%E6%80%A5-TheExpressTrial-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dc\ns6%3A%E3%81%95%E3%81%AA%E3%81%88%E3%81%AE%E8%B6%85%E7%89%B9%E6%80%A5-TheExpressTrial-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 AQUA_STYLE | 封面图片 | 软件封面
 
@@ -8,11 +8,12 @@ AQUA_STYLE | 封面图片 | 软件封面
 使用了本文件作封面图片的作品：
   
 
-- [さなえの超特急-TheExpressTrial-](./さなえの超特急-TheExpressTrial-.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)- [东风谷早苗](./东风谷早苗.md)- [多多良小伞](./多多良小伞.md)- [稗田阿求](./稗田阿求.md)- [森近霖之助](./森近霖之助.md)
-
-
-
+- [さなえの超特急-TheExpressTrial-](./さなえの超特急-TheExpressTrial-.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
+- [东风谷早苗](./东风谷早苗.md)
+- [多多良小伞](./多多良小伞.md)
+- [稗田阿求](./稗田阿求.md)
+- [森近霖之助](./森近霖之助.md)
 
 
 ---

@@ -1,16 +1,12 @@
 # Play,Doujin!/ZUN宣传片
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\bb\ns0%3APlay%2CDoujin%21%2FZUN%E5%AE%A3%E4%BC%A0%E7%89%87.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\bb\ns0%3APlay%2CDoujin%21%2FZUN%E5%AE%A3%E4%BC%A0%E7%89%87.html -->
 
 Play,Doujin! | ZUN
 
+
 - 本文是Play,Doujin!企划向海外发展的关于ZUN对亚洲PlayStation粉丝所说的话
 - 视频观看地址：[https://www.youtube.com/watch?v=h5qSfzoVBhU](https://www.youtube.com/watch?v=h5qSfzoVBhU) （需要翻墙）
-
-  
-  
-
-  
 
 ZUN
 : 亚洲的玩家，Hello，你好，안녕하세요.[^cite_note-1]
@@ -18,13 +14,8 @@ ZUN
 : 虽然对于东方计划[^cite_note-2]不知道大家有没有听过，里面充满了许多日本独特的文化，亚洲玩家能理解多少，或许有一些难度，但在日本是非常受欢迎的，只要大家能感受到一点点我就很高兴了。
 : 总之呢，希望大家能在PlayStation®上体验东方计划作品的乐趣。
 : 就请多多关照了！
-
-
 [^cite_note-1]: ZUN在此处使用了英语、汉语和韩语三种语言问候。
-
-
-
-
+[^cite_note-2]: Play,Doujin!企划的东方Project作品引进中文区时所采用的对**東方Project**的译名。
 
 ---
 

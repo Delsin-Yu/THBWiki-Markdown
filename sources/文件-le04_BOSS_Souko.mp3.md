@@ -1,16 +1,12 @@
 # 文件:le04_BOSS_Souko.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f5\ns6%3Ale04_BOSS_Souko%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f5\ns6%3Ale04_BOSS_Souko%2Emp3.html -->
 
 花儿啊，凋零吧_～_Consumed_with_JEALOUSY! | 连缘Project官方音乐MP3 | 连缘天影战记
 
   
 连缘天影战记城线1面Boss-银镜苍枯主题曲
   
-
-
-
-
 
 ---
 

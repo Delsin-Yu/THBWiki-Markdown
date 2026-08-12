@@ -1,16 +1,12 @@
 # 文件:ssg_TinyBall_G.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4e\ns6%3Assg_TinyBall_G%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4e\ns6%3Assg_TinyBall_G%2Epng.html -->
 
 秋霜玉
 
   
 《秋霜玉》弹幕绿色圆粒。
   
-
-
-
-
 
 ---
 

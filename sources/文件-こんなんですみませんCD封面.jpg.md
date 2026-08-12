@@ -1,6 +1,6 @@
 # 文件:こんなんですみませんCD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e6\ns6%3A%E3%81%93%E3%82%93%E3%81%AA%E3%82%93%E3%81%A7%E3%81%99%E3%81%BF%E3%81%BE%E3%81%9B%E3%82%93CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e6\ns6%3A%E3%81%93%E3%82%93%E3%81%AA%E3%82%93%E3%81%A7%E3%81%99%E3%81%BF%E3%81%BE%E3%81%9B%E3%82%93CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 C.S.C→luv | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ C.S.C→luv | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [こんなんですみませんCD](./こんなんですみませんCD.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [こんなんですみませんCD](./こんなんですみませんCD.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

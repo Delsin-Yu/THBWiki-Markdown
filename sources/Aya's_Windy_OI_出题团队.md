@@ -1,11 +1,10 @@
 # Aya's_Windy_OI_出题团队
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\c\cf\ns0%3AAya%27s_Windy_OI_%E5%87%BA%E9%A2%98%E5%9B%A2%E9%98%9F.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\c\cf\ns0%3AAya%27s_Windy_OI_%E5%87%BA%E9%A2%98%E5%9B%A2%E9%98%9F.html -->
 
 Aya's Windy OI 出题团队 ，于 2020 年成立，主要制作 其他 的中国大陆同人社团，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
-
+本页是关于**[同人社团](./二次创作.md#同人社团)**的词条
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -14,16 +13,11 @@ Aya's Windy OI 出题团队 ，于 2020 年成立，主要制作 其他 的中�
 - [4 参展信息](#参展信息)
 
 
-
-
-
 ## 社团信息
-文件:Aya's Windy OI 出题团队banner.jpg (未找到链接)  banner
-
-<table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Aya&#39;s Windy OI 出题团队 </td></tr><tr><td><b>主要作品类型</b></td><td>其他</td></tr><tr><td><b>成立时间</b></td><td>2020-03-26</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>地区</b></td><td>中国大陆</td></tr></tbody></table>
+文件:Aya's Windy OI 出题团队banner.jpg (未找到链接) banner
+<table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Aya's Windy OI 出题团队 </td></tr><tr><td><b>主要作品类型</b></td><td>其他</td></tr><tr><td><b>成立时间</b></td><td>2020-03-26</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>地区</b></td><td>中国大陆</td></tr></tbody></table>
 
 Aya's Windy OI 出题团队（同人社团，其他社团） - Aya's Windy OI 出题团队 ，于 2020 年成立，主要制作 其他 的中国大陆同人社团，当前状态为 活动
-
 ## 社团简介
   
 Aya's Windy OI 出题团队是一个于2020年3月26日成立的算法竞赛出题团队，主打以东方Project为首要背景元素的试题，致力为各位选手提供良好的比赛体验。
@@ -43,7 +37,6 @@ Aya's Windy OI 出题团队一共有如下四种类型的比赛：
   
 4. Windy W Round：模拟赛。
   
-
 
 ## 作品列表
 
@@ -171,11 +164,7 @@ Aya's Windy OI 出题团队一共有如下四种类型的比赛：
 </td></tr></tbody></table>
 
 
-
 ## 参展信息
-
-
-
 
 ---
 

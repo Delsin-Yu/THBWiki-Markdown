@@ -1,16 +1,11 @@
 # 文件:非可逆リズムbanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\34\ns6%3A%E9%9D%9E%E5%8F%AF%E9%80%86%E3%83%AA%E3%82%BA%E3%83%A0banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\34\ns6%3A%E9%9D%9E%E5%8F%AF%E9%80%86%E3%83%AA%E3%82%BA%E3%83%A0banner%2Egif.html -->
 
 社团LOGO | 非可逆リズム
 
   
-源地址：[[1]](http://sound.jp/nrr/img/b20040.gif)
-  
-
-
-
-
+源地址：[\[1\]](http://sound.jp/nrr/img/b20040.gif)  
 
 ---
 

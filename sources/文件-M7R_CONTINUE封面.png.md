@@ -1,6 +1,6 @@
 # 文件:M7R_CONTINUE封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a0\ns6%3AM7R_CONTINUE%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a0\ns6%3AM7R_CONTINUE%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 TeamInazuma | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@ TeamInazuma | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [M7R CONTINUE](./M7R_CONTINUE.md)  
-该封面包含的角色：- [露米娅](./露米娅.md)
-
-
-
+- [M7R CONTINUE](./M7R_CONTINUE.md)该封面包含的角色：
+- [露米娅](./露米娅.md)
 
 
 ---

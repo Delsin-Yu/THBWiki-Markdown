@@ -1,12 +1,8 @@
 # 文件:Tutti_Sound_banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e1\ns6%3ATutti_Sound_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e1\ns6%3ATutti_Sound_banner%2Ejpg.html -->
 
 Tutti_Sound | 社团LOGO
-
-
-
-
 
 
 ---

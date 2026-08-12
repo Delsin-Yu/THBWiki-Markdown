@@ -1,6 +1,6 @@
 # 文件:AltarNations封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\49\ns6%3AAltarNations%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\49\ns6%3AAltarNations%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Moon-Tone | 专辑封面 | 封面图片
 
@@ -11,12 +11,7 @@ Moon-Tone | 专辑封面 | 封面图片
 - [AltarNations](./AltarNations.md)
 
   
-源地址：[[1]](https://moon-tone.bandcamp.com/album/altarnations)
-  
-
-
-
-
+源地址：[\[1\]](https://moon-tone.bandcamp.com/album/altarnations)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:Shiny_sky封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5f\ns6%3AShiny_sky%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5f\ns6%3AShiny_sky%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ちょこふぁん | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Shiny sky](./Shiny_sky.md)  
-该封面包含的角色：- [庭渡久侘歌](./庭渡久侘歌.md)
+- [Shiny sky](./Shiny_sky.md)该封面包含的角色：
+- [庭渡久侘歌](./庭渡久侘歌.md)
 
   
-源地址：[direct image link](https://pbs.twimg.com/media/EVpLFb8UcAEuT1q?format=jpg&amp;name=orig), [source tweet](https://twitter.com/subachoco/status/1250394407951405056)
-  
-
-
-
-
+源地址：[direct image link](https://pbs.twimg.com/media/EVpLFb8UcAEuT1q?format=jpg&name=orig), [source tweet](https://twitter.com/subachoco/status/1250394407951405056)  
 
 ---
 

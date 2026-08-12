@@ -1,10 +1,11 @@
 # 附带文档:秋霜玉/Readme
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\d\de\ns506%3A%E7%A7%8B%E9%9C%9C%E7%8E%89%2FReadme.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\d\de\ns506%3A%E7%A7%8B%E9%9C%9C%E7%8E%89%2FReadme.html -->
 
 秋霜玉
 
-- 本词条内容为 **秋霜玉** 的附带文档之一
+
+- 本词条内容为**秋霜玉**的附带文档之一
 - 如果发现翻译问题可进行改正
 
 
@@ -16,7 +17,7 @@
 <div class="poem">
 <p>[ インストール方法 ]<br>
 ・CDから直接起動もできますが、スコアなどが保存されませんので､<br>
-&#160;&#160;なるべくHDにコピーして使用することをお勧めします<br>
+  なるべくHDにコピーして使用することをお勧めします<br>
 ・コピーした後に、(なるべく)読み取り専用属性を外してください<br>
 <br>
 <br>
@@ -28,8 +29,8 @@ Ver1000 フォルダ内に初期バージョンが入っています<br>
 <br>
 <br>
 感想や苦情(正常に動作しない、または何らかのバグ等)がありましたら、<br>
-&#160;&#160;ＡＭのサポート掲示板、     http://am-tdu.s10.xrea.com<br>
-&#160;&#160;もしくはメールにて         am-tdu@s10.xrea.com<br>
+  ＡＭのサポート掲示板、     http://am-tdu.s10.xrea.com<br>
+  もしくはメールにて         am-tdu@s10.xrea.com<br>
 まで報告をよろしくお願いいたします。
 </p>
 </div>
@@ -40,7 +41,7 @@ Ver1000 フォルダ内に初期バージョンが入っています<br>
 <div class="poem">
 <p>[ 安装方法 ]<br>
 ・虽然从CD也能直接启动，但由于不能保存得分等信息，<br>
-&#160;&#160;最好尽可能复制到硬盘里使用<br>
+  最好尽可能复制到硬盘里使用<br>
 ・复制后，请(尽可能)取消只读属性<br>
 <br>
 <br>
@@ -52,16 +53,12 @@ Ver1000 文件夹内有初始版本<br>
 <br>
 <br>
 如果有感想和意见(不能正常运行，又或是有什么Bug等)的话，<br>
-&#160;&#160;ＡＭ的Support揭示板、     http://am-tdu.s10.xrea.com<br>
-&#160;&#160;或者用邮件                 am-tdu@s10.xrea.com<br>
+  ＡＭ的Support揭示板、     http://am-tdu.s10.xrea.com<br>
+  或者用邮件                 am-tdu@s10.xrea.com<br>
 请联系上述地址进行报告，拜托了。
 </p>
 </div>
 </td></tr></tbody></table>
-
-
-
-
 
 
 ---

@@ -1,14 +1,11 @@
 # 文件:Rika.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9e\ns6%3ARika%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9e\ns6%3ARika%2Epng.html -->
 
 里香
 
 
 ## 摘要
-
-
-
 
 ---
 

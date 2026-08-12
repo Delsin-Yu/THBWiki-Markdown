@@ -1,6 +1,6 @@
 # Star_Maelstrom/分析与考据
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\9\93\ns0%3AStar_Maelstrom%2F%E5%88%86%E6%9E%90%E4%B8%8E%E8%80%83%E6%8D%AE.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\9\93\ns0%3AStar_Maelstrom%2F%E5%88%86%E6%9E%90%E4%B8%8E%E8%80%83%E6%8D%AE.html -->
 
 圣白莲 | 符卡
 
@@ -13,20 +13,18 @@
 - [4 导航](#导航)
 
 
-
-
-
 ## 分析考据
   
- **光魔「スターメイルシュトロム」**  光魔「Star Maelstrom」
+**光魔「スターメイルシュトロム」** 光魔「Star Maelstrom」
   
   
- **光魔「魔法銀河系」**  光魔「魔法银河系」
+**光魔「魔法銀河系」** 光魔「魔法银河系」
   
 
-- スター
-  - 英语：Star，星星。
+- スター 
+  - 英语：Star，星星。 
     - [圣白莲](./圣白莲.md)名字中的「聖」音读「せい」，和「星」同音。
+
 
   - 相传日本真言宗始祖弘法大师曾在室户岬御厨人窟中修习「虚空藏求闻持法」，修行时有「明星」飞入口中。[^cite_note-1]
     - 「虚空藏菩萨」（आकाशगर्भ，Akasagarbha）也被称作「明星天子」，以「明星」为其化身。[^cite_note-2]
@@ -34,59 +32,66 @@
     - 符卡中[圣白莲](./圣白莲.md)发射出自机狙的星星弹幕。
 
 
-- メイルシュトロム
-  - 英语：Maelstrom，大漩涡。
+
+
+- メイルシュトロム 
+  - 英语：Maelstrom，大漩涡。 
     - 「Maelstrom」原指位于挪威西部海域的传说中的大漩涡，引申为「混乱」。[^cite_note-3]
 
-  - [西方Project](./西方Project.md)中，登场于[秋霜玉](./秋霜玉.md)的双子角色[冥&amp;舞](./冥&舞.md)。
+
+  - [西方Project](./西方Project.md)中，登场于[秋霜玉](./秋霜玉.md)的双子角色[冥&舞](./冥&舞.md)。 
     - 在[稀翁玉](./稀翁玉.md)中显示其驾驶的双人战斗机体名称即「メイルシュトロム」（Maelstrom）。
 
 
 
-- [](./文件-稀翁玉角色界面（冥&舞）.png.md)稀翁玉角色界面（冥&amp;舞）
 
-- スターメイルシュトロム
+
+
+- <img alt="稀翁玉角色界面（冥&amp;舞）" src="https://upload.thwiki.cc/thumb/4/4e/%E7%A8%80%E7%BF%81%E7%8E%89%E8%A7%92%E8%89%B2%E7%95%8C%E9%9D%A2%EF%BC%88%E5%86%A5%26%E8%88%9E%EF%BC%89.png/129px-%E7%A8%80%E7%BF%81%E7%8E%89%E8%A7%92%E8%89%B2%E7%95%8C%E9%9D%A2%EF%BC%88%E5%86%A5%26%E8%88%9E%EF%BC%89.png" decoding="async" loading="lazy" width="129" height="200" srcset="https://upload.thwiki.cc/thumb/4/4e/%E7%A8%80%E7%BF%81%E7%8E%89%E8%A7%92%E8%89%B2%E7%95%8C%E9%9D%A2%EF%BC%88%E5%86%A5%26%E8%88%9E%EF%BC%89.png/193px-%E7%A8%80%E7%BF%81%E7%8E%89%E8%A7%92%E8%89%B2%E7%95%8C%E9%9D%A2%EF%BC%88%E5%86%A5%26%E8%88%9E%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/4/4e/%E7%A8%80%E7%BF%81%E7%8E%89%E8%A7%92%E8%89%B2%E7%95%8C%E9%9D%A2%EF%BC%88%E5%86%A5%26%E8%88%9E%EF%BC%89.png/258px-%E7%A8%80%E7%BF%81%E7%8E%89%E8%A7%92%E8%89%B2%E7%95%8C%E9%9D%A2%EF%BC%88%E5%86%A5%26%E8%88%9E%EF%BC%89.png 2x" data-file-width="395" data-file-height="612"> 稀翁玉角色界面（冥&舞）
+
+
+- スターメイルシュトロム 
   - 英语：Star Maelstrom，星之漩涡。
   - 可能取自「漩涡星系」（Spiral Galaxy），指呈现出漩涡状结构，有多个螺旋臂的星系。[^cite_note-4]
     - 「银河系」本身也属于「漩涡星系」，至少有四条明显的螺旋臂。
 
-  - 可能联系了爱伦·坡创作的短篇小说《大漩涡底余生记》（A Descent into the Maelström），为其经典名篇。
+
+  - 可能联系了爱伦·坡创作的短篇小说《大漩涡底余生记》（A Descent into the Maelström），为其经典名篇。 
     - 阿瑟·克拉克有一部致敬爱伦·坡的科幻小说《Maelstrom II》。
 
 
 
-- [](./文件-漩涡状的银河系.jpg.md)漩涡状的银河系
 
-- 符卡中画面布满扭曲的激光。
-  - 可能代表漩涡。
+
+
+- <img alt="漩涡状的银河系" src="https://upload.thwiki.cc/thumb/a/a2/%E6%BC%A9%E6%B6%A1%E7%8A%B6%E7%9A%84%E9%93%B6%E6%B2%B3%E7%B3%BB.jpg/200px-%E6%BC%A9%E6%B6%A1%E7%8A%B6%E7%9A%84%E9%93%B6%E6%B2%B3%E7%B3%BB.jpg" decoding="async" loading="lazy" width="200" height="199" srcset="https://upload.thwiki.cc/a/a2/%E6%BC%A9%E6%B6%A1%E7%8A%B6%E7%9A%84%E9%93%B6%E6%B2%B3%E7%B3%BB.jpg 1.5x" data-file-width="249" data-file-height="248"> 漩涡状的银河系
+
+
+- 符卡中画面布满扭曲的激光。 
+  - 可能代表漩涡。 
     - 弹幕样式可能联系了[神绮](./神绮.md)第五阶段扭曲的黄色追踪激光？
-    - 怪绮谈附带文档 (未找到链接)：
+    - [怪绮谈附带文档](./附带文档-东方怪绮谈-Omake.md#●６面)：
+
+
+
 
 
 
 ```
-○第五阶段　（有白翼 第２回）
-只要不移动得过大，就不会中白弹，可以无视之。
-诱导跟踪激光，进行大幅度避弹吧。
-```
+○第五阶段 （有白翼 第２回） 只要不移动得过大，就不会中白弹，可以无视之。 诱导跟踪激光，进行大幅度避弹吧。 ```
 
-- [](./文件-光魔「魔法银河系」（星莲船）.jpg.md)弹幕样式- [](./文件-神绮第五阶段弹幕.jpg.md)神绮弹幕
 
+- <img alt="弹幕样式" src="https://upload.thwiki.cc/thumb/3/37/%E5%85%89%E9%AD%94%E3%80%8C%E9%AD%94%E6%B3%95%E9%93%B6%E6%B2%B3%E7%B3%BB%E3%80%8D%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%EF%BC%89.jpg/171px-%E5%85%89%E9%AD%94%E3%80%8C%E9%AD%94%E6%B3%95%E9%93%B6%E6%B2%B3%E7%B3%BB%E3%80%8D%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%EF%BC%89.jpg" decoding="async" loading="lazy" width="171" height="200" srcset="https://upload.thwiki.cc/thumb/3/37/%E5%85%89%E9%AD%94%E3%80%8C%E9%AD%94%E6%B3%95%E9%93%B6%E6%B2%B3%E7%B3%BB%E3%80%8D%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%EF%BC%89.jpg/257px-%E5%85%89%E9%AD%94%E3%80%8C%E9%AD%94%E6%B3%95%E9%93%B6%E6%B2%B3%E7%B3%BB%E3%80%8D%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%EF%BC%89.jpg 1.5x, https://upload.thwiki.cc/thumb/3/37/%E5%85%89%E9%AD%94%E3%80%8C%E9%AD%94%E6%B3%95%E9%93%B6%E6%B2%B3%E7%B3%BB%E3%80%8D%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%EF%BC%89.jpg/343px-%E5%85%89%E9%AD%94%E3%80%8C%E9%AD%94%E6%B3%95%E9%93%B6%E6%B2%B3%E7%B3%BB%E3%80%8D%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%EF%BC%89.jpg 2x" data-file-width="384" data-file-height="448"> 弹幕样式
+- <img alt="神绮弹幕" src="https://upload.thwiki.cc/thumb/0/0e/%E7%A5%9E%E7%BB%AE%E7%AC%AC%E4%BA%94%E9%98%B6%E6%AE%B5%E5%BC%B9%E5%B9%95.jpg/200px-%E7%A5%9E%E7%BB%AE%E7%AC%AC%E4%BA%94%E9%98%B6%E6%AE%B5%E5%BC%B9%E5%B9%95.jpg" decoding="async" loading="lazy" width="200" height="193" srcset="https://upload.thwiki.cc/thumb/0/0e/%E7%A5%9E%E7%BB%AE%E7%AC%AC%E4%BA%94%E9%98%B6%E6%AE%B5%E5%BC%B9%E5%B9%95.jpg/300px-%E7%A5%9E%E7%BB%AE%E7%AC%AC%E4%BA%94%E9%98%B6%E6%AE%B5%E5%BC%B9%E5%B9%95.jpg 1.5x, https://upload.thwiki.cc/thumb/0/0e/%E7%A5%9E%E7%BB%AE%E7%AC%AC%E4%BA%94%E9%98%B6%E6%AE%B5%E5%BC%B9%E5%B9%95.jpg/400px-%E7%A5%9E%E7%BB%AE%E7%AC%AC%E4%BA%94%E9%98%B6%E6%AE%B5%E5%BC%B9%E5%B9%95.jpg 2x" data-file-width="444" data-file-height="428"> 神绮弹幕
 
 [^cite_note-1]: （日文）日文维基百科：[空海](https://en.wikipedia.org/wiki/ja:空海)
-
+[^cite_note-2]: （日文）日文维基百科：[虚空蔵](https://en.wikipedia.org/wiki/ja:虚空蔵)
+[^cite_note-3]: （英文）英文维基百科：[Maelstrom](https://en.wikipedia.org/wiki/en:Maelstrom)
+[^cite_note-4]: （英文）英文维基百科：[Spiral Galaxy](https://en.wikipedia.org/wiki/en:Spiral_Galaxy)
 
 ## 参见
+
 - [圣白莲/分析考据](./圣白莲-分析考据.md)
-
-
-## 导航
-
-<table><tbody><tr><td><table cellspacing="0" class="nowraplinks mw-collapsible mw-collapsed" style="width:100%;;;"><tbody><tr><th style=";" colspan="3" class="navbox-title"><div class="navbar"><div class="noprint plainlinksneverexpand" style="background-color:transparent; padding:0; font-weight:normal; font-size:80%; white-space:nowrap;"><a href="./模板-圣白莲符卡导航.md" title="模板:圣白莲符卡导航"><span style=";;border:none;" title="查看这个模板">查</span></a>&#160;<span style="font-size:80%;">•</span>&#160;<a href="/index.php?title=%E6%A8%A1%E6%9D%BF:%E5%9C%A3%E7%99%BD%E8%8E%B2%E7%AC%A6%E5%8D%A1%E5%AF%BC%E8%88%AA&amp;action=edit"><span style=";;border:none;" title="您可以编辑这个模板。请在储存变更之前先预览">编</span></a></div></div><span><a href="./圣白莲.md" title="圣白莲">圣白莲</a>符卡</span></th></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">射击游戏</td><td style=";;" class="navbox-list navbox-odd"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div><a href="./东方星莲船.md" title="东方星莲船">东方星莲船</a></div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./紫云之兆.md" title="紫云之兆" unred="">魔法「紫云之兆」</a> &#8226; <a href="./紫云之兆.md" title="紫云之兆" unred="">吉兆「紫色云路」</a> &#8226; <a href="./紫云之兆.md" title="紫云之兆" unred="">吉兆「极乐的紫色云路」</a> &#8226; <a href="./魔界蝶之妖香.md" title="魔界蝶之妖香" unred="">魔法「魔界蝶之妖香」</a> &#8226; <a href="./魔界蝶之妖香.md" title="魔界蝶之妖香" unred="">魔法「Magic Butterfly」</a> &#8226; <a href="./Star_Maelstrom.md" title="Star Maelstrom" unred="">光魔「Star Maelstrom」</a> &#8226; <a href="./Star_Maelstrom.md" title="Star Maelstrom" unred="">光魔「魔法银河系」</a> &#8226; <a href="./魔神复诵.md" title="魔神复诵" unred="">大魔法「魔神复诵」</a> &#8226; <a href="./圣尼公之大空卷轴.md" title="圣尼公之大空卷轴" unred="">「圣尼公之大空卷轴」</a> &#8226; <a href="./圣尼公之大空卷轴.md" title="圣尼公之大空卷轴" unred="">超人「圣白莲」</a> &#8226; <a href="./Flying_Fantastica.md" title="Flying Fantastica" unred="">飞钵「Flying Fantastica」</a> &#8226; <a href="./Flying_Fantastica.md" title="Flying Fantastica" unred="">飞钵「传说的飞空圆盘」</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div><a href="./东方文花帖DS.md" title="东方文花帖DS">东方文花帖DS</a></div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./游行圣.md" title="游行圣" unred="">「游行圣」</a> &#8226; <a href="./垂迹大日如来.md" title="垂迹大日如来" unred="">习合「垂迹大日如来」</a> &#8226; <a href="./Flying_Fantastica.md" title="Flying Fantastica" unred="">「星之剑护法」</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div><a href="./弹幕天邪鬼.md" title="弹幕天邪鬼">弹幕天邪鬼</a></div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./黑天的束缚.md" title="黑天的束缚" unred="">「黑天的束缚」</a> &#8226; <a href="./黑天的束缚.md" title="黑天的束缚" unred="">「梵天之瞳」</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div><a href="./秘封噩梦日记.md" title="秘封噩梦日记">秘封噩梦日记</a></div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./十七条的超人.md" title="十七条的超人" unred="">星神符「十七条的超人」</a> &#8226; <a href="./超人血刀.md" title="超人血刀" unred="">红星符「超人血刀」</a> &#8226; <a href="./超人大灾变行脚.md" title="超人大灾变行脚" unred="">红星符「超人大灾变行脚」</a></div></td></tr></tbody></table><div></div></td><td class="navbox-image" style="" rowspan="5"><a href="./文件-圣白莲（Q版立绘）.png.md" class="image"><img alt="圣白莲（Q版立绘）.png" src="https://upload.thwiki.cc/thumb/4/4d/%E5%9C%A3%E7%99%BD%E8%8E%B2%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png/160px-%E5%9C%A3%E7%99%BD%E8%8E%B2%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="160" height="160" srcset="https://upload.thwiki.cc/thumb/4/4d/%E5%9C%A3%E7%99%BD%E8%8E%B2%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png/240px-%E5%9C%A3%E7%99%BD%E8%8E%B2%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/4/4d/%E5%9C%A3%E7%99%BD%E8%8E%B2%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png/320px-%E5%9C%A3%E7%99%BD%E8%8E%B2%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="500" data-file-height="500"></a></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">格斗游戏</td><td style=";;" class="navbox-list navbox-even"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div><a href="./东方心绮楼.md" title="东方心绮楼">东方心绮楼</a></div></td><td style=";;" class="navbox-list navbox-odd"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>对战符卡</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./三千大千世界之主.md" title="三千大千世界之主" unred="">天符「三千大千世界之主」</a> &#8226; <a href="./大日如来的光辉.md" title="大日如来的光辉" unred="">天符「大日如来的光辉」</a> &#8226; <a href="./释迦牟尼的五行山.md" title="释迦牟尼的五行山" unred="">天符「释迦牟尼的五行山」</a> &#8226; <a href="./Angirasa_Veda.md" title="Angirasa Veda" unred="">「Angirasa Veda」</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>故事符卡</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./金刚手菩萨的咒文.md" title="金刚手菩萨的咒文" unred="">杵符「金刚手菩萨的咒文」</a> &#8226; <a href="./迦楼罗之翼.md" title="迦楼罗之翼" unred="">超人「迦楼罗之翼」</a></div></td></tr></tbody></table><div></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div><a href="./东方深秘录.md" title="东方深秘录">东方深秘录</a></div></td><td style=";;" class="navbox-list navbox-even"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>对战符卡</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./三千大千世界之主.md" title="三千大千世界之主" unred="">天符「三千大千世界之主」</a> &#8226; <a href="./大日如来的光辉.md" title="大日如来的光辉" unred="">天符「大日如来的光辉」</a> &#8226; <a href="./释迦牟尼的五行山.md" title="释迦牟尼的五行山" unred="">天符「释迦牟尼的五行山」</a> &#8226; <a href="./以100迈驰骋天际！.md" title="以100迈驰骋天际！" unred="">＊以100迈驰骋天际！＊</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>故事符卡</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./老妇人的冲刺.md" title="老妇人的冲刺" unred="">超音速「老妇人的冲刺」</a> &#8226; <a href="./高速路涡轮空中转向.md" title="高速路涡轮空中转向" unred="">＊高速路涡轮空中转向＊</a> &#8226; <a href="./涡轮老太婆走死走爱.md" title="涡轮老太婆走死走爱" unred="">＊涡轮老太婆走死走爱＊</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>Extra故事符卡</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./因陀罗的金刚杵.md" title="因陀罗的金刚杵" unred="">光符「因陀罗的金刚杵」</a> &#8226; <a href="./圣尼公之大空卷轴.md" title="圣尼公之大空卷轴" unred="">超人「圣白莲」</a> &#8226; <a href="./大追踪！Buddhist_Rider.md" title="大追踪！Buddhist Rider" unred="">超人「大追踪！Buddhist Rider」</a></div></td></tr></tbody></table><div></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div><a href="./东方凭依华.md" title="东方凭依华">东方凭依华</a></div></td><td style=";;" class="navbox-list navbox-odd"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>对战符卡</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./三千大千世界之主.md" title="三千大千世界之主" unred="">天符「三千大千世界之主」</a> &#8226; <a href="./大日如来的光辉.md" title="大日如来的光辉" unred="">天符「大日如来的光辉」</a> &#8226; <a href="./释迦牟尼的五行山.md" title="释迦牟尼的五行山" unred="">天符「释迦牟尼的五行山」</a> &#8226; <a href="./以100迈驰骋天际！.md" title="以100迈驰骋天际！" unred="">＊以100迈驰骋天际！＊</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>故事符卡</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./引导着你的王道的金刚杵射击.md" title="引导着你的王道的金刚杵射击" unred="">光击符「引导着你的王道的金刚杵射击」</a> &#8226; <a href="./韦驮天的怪云拳.md" title="韦驮天的怪云拳" unred="">击拳符「韦驮天的怪云拳」</a> &#8226; <a href="./韦驮天的王道威光.md" title="韦驮天的王道威光" unred="">击光符「韦驮天的王道威光」</a> &#8226; <a href="./迦楼罗的圣德斩.md" title="迦楼罗的圣德斩" unred="">蹴斩符「迦楼罗的圣德斩」</a> &#8226; <a href="./日出之国的僧侣和道士.md" title="日出之国的僧侣和道士" unred="">光仙符「日出之国的僧侣和道士」</a> &#8226; <a href="./因陀罗的金刚杵怪云拳.md" title="因陀罗的金刚杵怪云拳" unred="">光拳符「因陀罗的金刚杵怪云拳」</a> &#8226; <a href="./被韦驮天追逐的正梦.md" title="被韦驮天追逐的正梦" unred="">击符「被韦驮天追逐的正梦」</a></div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">出版物</td><td style=";;" class="navbox-list navbox-odd"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div><a href="./The_Grimoire_of_Usami.md" title="The Grimoire of Usami" unred="">宇佐见的魔法书</a></div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./Star_Maelstrom.md" title="Star Maelstrom" unred="">光魔「魔法银河系」</a> &#8226; <a href="./黑天的束缚.md" title="黑天的束缚" unred="">「梵天之瞳」</a> &#8226; <a href="./魔神复诵.md" title="魔神复诵" unred="">大魔法「魔神复诵」</a></div></td></tr></tbody></table><div></div></td></tr></tbody></table></td></tr></tbody></table>
-
-
-
-
 
 
 ---

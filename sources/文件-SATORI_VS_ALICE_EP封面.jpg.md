@@ -1,6 +1,6 @@
 # 文件:SATORI_VS_ALICE_EP封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b1\ns6%3ASATORI_VS_ALICE_EP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b1\ns6%3ASATORI_VS_ALICE_EP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 溝。
 
@@ -11,9 +11,6 @@
   
 
 - [SATORI VS ALICE EP](./SATORI_VS_ALICE_EP.md)
-
-
-
 
 
 ---

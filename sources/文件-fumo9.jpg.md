@@ -1,16 +1,12 @@
 # 文件:fumo9.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\77\ns6%3Afumo9%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\77\ns6%3Afumo9%2Ejpg.html -->
 
 ふもふも
 
   
 琪露诺
   
-
-
-
-
 
 ---
 

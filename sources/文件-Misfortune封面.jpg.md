@@ -1,6 +1,6 @@
 # 文件:Misfortune封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f4\ns6%3AMisfortune%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f4\ns6%3AMisfortune%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 エレクトリックデイ | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Misfortune](./Misfortune.md)  
-该封面包含的角色：- [键山雏](./键山雏.md)
-
-
-
+- [Misfortune](./Misfortune.md)该封面包含的角色：
+- [键山雏](./键山雏.md)
 
 
 ---

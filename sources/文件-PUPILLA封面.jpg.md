@@ -1,6 +1,6 @@
 # 文件:PUPILLA封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9c\ns6%3APUPILLA%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9c\ns6%3APUPILLA%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 寝袋ハンモック | 封面图片
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [PUPILLA](./PUPILLA.md)  
-该封面包含的角色：- [古明地恋](./古明地恋.md)
+- [PUPILLA](./PUPILLA.md)该封面包含的角色：
+- [古明地恋](./古明地恋.md)
 
   
-源地址：[[1]](https://pbs.twimg.com/media/Do42j4uU8AARRBB?format=jpg&amp;name=orig)
-  
-
-
-
-
+源地址：[\[1\]](https://pbs.twimg.com/media/Do42j4uU8AARRBB?format=jpg&name=orig)  
 
 ---
 

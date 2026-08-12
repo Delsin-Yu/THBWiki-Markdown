@@ -1,6 +1,6 @@
 # 文件:Farewell,_My_Girl封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0a\ns6%3AFarewell%2C_My_Girl%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0a\ns6%3AFarewell%2C_My_Girl%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Why_I_Killed_My_Girlfriend | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@ Why_I_Killed_My_Girlfriend | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Farewell, My Girl](./Farewell,_My_Girl.md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)
+- [Farewell, My Girl](./Farewell,_My_Girl.md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
 
   
-源地址：[[1]](https://f4.bcbits.com/img/a4177245047_10.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://f4.bcbits.com/img/a4177245047_10.jpg)  
 
 ---
 

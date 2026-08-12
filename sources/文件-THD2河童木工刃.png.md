@@ -1,12 +1,8 @@
 # 文件:THD2河童木工刃.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\78\ns6%3ATHD2%E6%B2%B3%E7%AB%A5%E6%9C%A8%E5%B7%A5%E5%88%83%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\78\ns6%3ATHD2%E6%B2%B3%E7%AB%A5%E6%9C%A8%E5%B7%A5%E5%88%83%2Epng.html -->
 
 AvalonStudioOfficial
-
-
-
-
 
 
 ---

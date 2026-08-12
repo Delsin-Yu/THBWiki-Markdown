@@ -1,6 +1,6 @@
 # 文件:YUMEx9封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\04\ns6%3AYUMEx9%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\04\ns6%3AYUMEx9%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 鶯壱里
 
@@ -10,11 +10,15 @@
 使用了本文件作封面图片的作品：
   
 
-- [YUMEx9](./YUMEx9.md)  
-该封面包含的角色：- [冈崎梦美](./冈崎梦美.md)- [博丽灵梦（旧作角色）](./博丽灵梦（旧作角色）.md)- [北白河千百合](./北白河千百合.md)- [雾雨魔理沙（旧作角色）](./雾雨魔理沙（旧作角色）.md)- [爱莲](./爱莲.md)- [小兔姬](./小兔姬.md)- [卡娜·安娜贝拉尔](./卡娜·安娜贝拉尔.md)- [朝仓理香子](./朝仓理香子.md)
-
-
-
+- [YUMEx9](./YUMEx9.md)该封面包含的角色：
+- [冈崎梦美](./冈崎梦美.md)
+- [博丽灵梦（旧作角色）](./博丽灵梦（旧作角色）.md)
+- [北白河千百合](./北白河千百合.md)
+- [雾雨魔理沙（旧作角色）](./雾雨魔理沙（旧作角色）.md)
+- [爱莲](./爱莲.md)
+- [小兔姬](./小兔姬.md)
+- [卡娜·安娜贝拉尔](./卡娜·安娜贝拉尔.md)
+- [朝仓理香子](./朝仓理香子.md)
 
 
 ---

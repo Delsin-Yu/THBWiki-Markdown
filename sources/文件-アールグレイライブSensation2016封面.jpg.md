@@ -1,6 +1,6 @@
 # 文件:アールグレイライブSensation2016封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ea\ns6%3A%E3%82%A2%E3%83%BC%E3%83%AB%E3%82%B0%E3%83%AC%E3%82%A4%E3%83%A9%E3%82%A4%E3%83%96Sensation2016%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ea\ns6%3A%E3%82%A2%E3%83%BC%E3%83%AB%E3%82%B0%E3%83%AC%E3%82%A4%E3%83%A9%E3%82%A4%E3%83%96Sensation2016%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 アールグレイ | 专辑封面 | 封面图片
 
@@ -8,16 +8,16 @@
 使用了本文件作封面图片的作品：
   
 
-- [アールグレイライブSensation2016](./アールグレイライブSensation2016.md)  
-该封面包含的角色：- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [古明地觉](./古明地觉.md)- [古明地恋](./古明地恋.md)- [雾雨魔理沙](./雾雨魔理沙.md)- [秦心](./秦心.md)
+- [アールグレイライブSensation2016](./アールグレイライブSensation2016.md)该封面包含的角色：
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [古明地觉](./古明地觉.md)
+- [古明地恋](./古明地恋.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
+- [秦心](./秦心.md)
 
   
-源地址：[[1]](http://livedoor.blogimg.jp/weekly_eg/imgs/6/8/68ddb057.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://livedoor.blogimg.jp/weekly_eg/imgs/6/8/68ddb057.jpg)  
 
 ---
 

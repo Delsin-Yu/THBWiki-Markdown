@@ -1,6 +1,6 @@
 # 文件:霧雨魔理沙合同誌_恋色白書～Magical_Sketch～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cd\ns6%3A%E9%9C%A7%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%E5%90%88%E5%90%8C%E8%AA%8C_%E6%81%8B%E8%89%B2%E7%99%BD%E6%9B%B8%EF%BD%9EMagical_Sketch%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cd\ns6%3A%E9%9C%A7%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%E5%90%88%E5%90%8C%E8%AA%8C_%E6%81%8B%E8%89%B2%E7%99%BD%E6%9B%B8%EF%BD%9EMagical_Sketch%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 蒼空市場
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [霧雨魔理沙合同誌 恋色白書～Magical Sketch～](./霧雨魔理沙合同誌_恋色白書～Magical_Sketch～.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [霧雨魔理沙合同誌 恋色白書～Magical Sketch～](./霧雨魔理沙合同誌_恋色白書～Magical_Sketch～.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

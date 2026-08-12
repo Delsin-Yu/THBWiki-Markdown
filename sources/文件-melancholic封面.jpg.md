@@ -1,6 +1,6 @@
 # 文件:melancholic封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0c\ns6%3Amelancholic%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0c\ns6%3Amelancholic%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 悪巫山戯
 
@@ -10,11 +10,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [melancholic](./melancholic.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)- [魂魄妖梦](./魂魄妖梦.md)- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)- [射命丸文](./射命丸文.md)- [姬海棠果](./姬海棠果.md)
-
-
-
+- [melancholic](./melancholic.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
+- [魂魄妖梦](./魂魄妖梦.md)
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
+- [射命丸文](./射命丸文.md)
+- [姬海棠果](./姬海棠果.md)
 
 
 ---

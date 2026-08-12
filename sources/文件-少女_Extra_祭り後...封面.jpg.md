@@ -1,6 +1,6 @@
 # 文件:少女_Extra_祭り後...封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\06\ns6%3A%E5%B0%91%E5%A5%B3_Extra_%E7%A5%AD%E3%82%8A%E5%BE%8C%2E%2E%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\06\ns6%3A%E5%B0%91%E5%A5%B3_Extra_%E7%A5%AD%E3%82%8A%E5%BE%8C%2E%2E%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ホットドックチャック | 同人志封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [少女 Extra 祭り後...](./少女_Extra_祭り後....md)  
-该封面包含的角色：- [八云紫](./八云紫.md)
-
-
-
+- [少女 Extra 祭り後...](./少女_Extra_祭り後....md)该封面包含的角色：
+- [八云紫](./八云紫.md)
 
 
 ---

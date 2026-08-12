@@ -1,16 +1,11 @@
 # 文件:Sound_Barragebanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\68\ns6%3ASound_Barragebanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\68\ns6%3ASound_Barragebanner%2Egif.html -->
 
 Sound_Barrage | 社团LOGO
 
   
-源地址：[[1]](http://lansbmp.org/sound-barrage/img/Soundbarrage_banner.gif)
-  
-
-
-
-
+源地址：[\[1\]](http://lansbmp.org/sound-barrage/img/Soundbarrage_banner.gif)  
 
 ---
 

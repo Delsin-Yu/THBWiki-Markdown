@@ -1,6 +1,6 @@
 # 文件:旧約契記_-Old_Idolament-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c4\ns6%3A%E6%97%A7%E7%B4%84%E5%A5%91%E8%A8%98_-Old_Idolament-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c4\ns6%3A%E6%97%A7%E7%B4%84%E5%A5%91%E8%A8%98_-Old_Idolament-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 蛍光流速
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [旧約契記 -Old Idolament-](./旧約契記_-Old_Idolament-.md)  
-该封面包含的角色：- [埴安神袿姬](./埴安神袿姬.md)
-
-
-
+- [旧約契記 -Old Idolament-](./旧約契記_-Old_Idolament-.md)该封面包含的角色：
+- [埴安神袿姬](./埴安神袿姬.md)
 
 
 ---

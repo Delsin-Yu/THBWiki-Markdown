@@ -1,12 +1,8 @@
 # 文件:大江戸宅急便_banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\70\ns6%3A%E5%A4%A7%E6%B1%9F%E6%88%B8%E5%AE%85%E6%80%A5%E4%BE%BF_banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\70\ns6%3A%E5%A4%A7%E6%B1%9F%E6%88%B8%E5%AE%85%E6%80%A5%E4%BE%BF_banner%2Egif.html -->
 
 大江戸宅急便 | 社团LOGO
-
-
-
-
 
 
 ---

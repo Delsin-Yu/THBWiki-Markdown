@@ -1,48 +1,31 @@
 # 东方儚月抄_～_Cage_in_Lunatic_Runagate./连载杂志特典
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\e\ed\ns0%3A%E4%B8%9C%E6%96%B9%E5%84%9A%E6%9C%88%E6%8A%84_%EF%BD%9E_Cage_in_Lunatic_Runagate%2E%2F%E8%BF%9E%E8%BD%BD%E6%9D%82%E5%BF%97%E7%89%B9%E5%85%B8.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\e\ed\ns0%3A%E4%B8%9C%E6%96%B9%E5%84%9A%E6%9C%88%E6%8A%84_%EF%BD%9E_Cage_in_Lunatic_Runagate%2E%2F%E8%BF%9E%E8%BD%BD%E6%9D%82%E5%BF%97%E7%89%B9%E5%85%B8.html -->
 
 东方儚月抄_～_Cage_in_Lunatic_Runagate. | 官方特典 | 杂志连载特典
 
 
 ## 杂志读者赠品
-- 东方儚月抄 ～ Cage in Lunatic Runagate.连载杂志 **Chara☆Mel** 特典
 
+- 东方儚月抄 ～ Cage in Lunatic Runagate.连载杂志**Chara☆Mel**特典
 
-
-
-[](./文件-Chara☆Mel_Vol.1读者赠品彩纸1.jpg.md)
-
+<img alt="Vol.1读者赠品彩纸1" src="https://upload.thwiki.cc/thumb/6/69/Chara%E2%98%86Mel_Vol.1%E8%AF%BB%E8%80%85%E8%B5%A0%E5%93%81%E5%BD%A9%E7%BA%B81.jpg/162px-Chara%E2%98%86Mel_Vol.1%E8%AF%BB%E8%80%85%E8%B5%A0%E5%93%81%E5%BD%A9%E7%BA%B81.jpg" decoding="async" loading="lazy" width="162" height="149" srcset="https://upload.thwiki.cc/thumb/6/69/Chara%E2%98%86Mel_Vol.1%E8%AF%BB%E8%80%85%E8%B5%A0%E5%93%81%E5%BD%A9%E7%BA%B81.jpg/243px-Chara%E2%98%86Mel_Vol.1%E8%AF%BB%E8%80%85%E8%B5%A0%E5%93%81%E5%BD%A9%E7%BA%B81.jpg 1.5x, https://upload.thwiki.cc/thumb/6/69/Chara%E2%98%86Mel_Vol.1%E8%AF%BB%E8%80%85%E8%B5%A0%E5%93%81%E5%BD%A9%E7%BA%B81.jpg/324px-Chara%E2%98%86Mel_Vol.1%E8%AF%BB%E8%80%85%E8%B5%A0%E5%93%81%E5%BD%A9%E7%BA%B81.jpg 2x" data-file-width="384" data-file-height="353">
 Vol.1读者赠品彩纸1
-
-
-[](./文件-Chara☆Mel_Vol.1读者赠品彩纸2.jpg.md)
+<img alt="Vol.1读者赠品彩纸2" src="https://upload.thwiki.cc/thumb/d/d2/Chara%E2%98%86Mel_Vol.1%E8%AF%BB%E8%80%85%E8%B5%A0%E5%93%81%E5%BD%A9%E7%BA%B82.jpg/299px-Chara%E2%98%86Mel_Vol.1%E8%AF%BB%E8%80%85%E8%B5%A0%E5%93%81%E5%BD%A9%E7%BA%B82.jpg" decoding="async" loading="lazy" width="299" height="150" srcset="https://upload.thwiki.cc/thumb/d/d2/Chara%E2%98%86Mel_Vol.1%E8%AF%BB%E8%80%85%E8%B5%A0%E5%93%81%E5%BD%A9%E7%BA%B82.jpg/449px-Chara%E2%98%86Mel_Vol.1%E8%AF%BB%E8%80%85%E8%B5%A0%E5%93%81%E5%BD%A9%E7%BA%B82.jpg 1.5x, https://upload.thwiki.cc/d/d2/Chara%E2%98%86Mel_Vol.1%E8%AF%BB%E8%80%85%E8%B5%A0%E5%93%81%E5%BD%A9%E7%BA%B82.jpg 2x" data-file-width="500" data-file-height="251">
 Vol.1读者赠品彩纸2
-
-
-[](./文件-Chara☆Mel_Vol.5读者赠品彩纸.jpg.md)
+<img alt="Vol.5读者赠品彩纸" src="https://upload.thwiki.cc/thumb/f/fb/Chara%E2%98%86Mel_Vol.5%E8%AF%BB%E8%80%85%E8%B5%A0%E5%93%81%E5%BD%A9%E7%BA%B8.jpg/252px-Chara%E2%98%86Mel_Vol.5%E8%AF%BB%E8%80%85%E8%B5%A0%E5%93%81%E5%BD%A9%E7%BA%B8.jpg" decoding="async" loading="lazy" width="252" height="150" srcset="https://upload.thwiki.cc/thumb/f/fb/Chara%E2%98%86Mel_Vol.5%E8%AF%BB%E8%80%85%E8%B5%A0%E5%93%81%E5%BD%A9%E7%BA%B8.jpg/378px-Chara%E2%98%86Mel_Vol.5%E8%AF%BB%E8%80%85%E8%B5%A0%E5%93%81%E5%BD%A9%E7%BA%B8.jpg 1.5x, https://upload.thwiki.cc/f/fb/Chara%E2%98%86Mel_Vol.5%E8%AF%BB%E8%80%85%E8%B5%A0%E5%93%81%E5%BD%A9%E7%BA%B8.jpg 2x" data-file-width="500" data-file-height="297">
 Vol.5读者赠品彩纸
-
-
-
-
-
   
-<big> **Chara☆Mel Vol.1读者赠品彩纸** </big>  
+<big>**Chara☆Mel Vol.1读者赠品彩纸**</big>  
 
 Vol.1（2007年6月25日）赠品彩纸，ZUN绘制的[灵梦](./博丽灵梦.md)和[时雨（TOKIAME）](./TOKIAME.md)绘制的[辉夜](./蓬莱山辉夜.md)和[永琳](./八意永琳.md)。
   
   
   
-
-<big> **Chara☆Mel Vol.5读者赠品彩纸** </big>  
+<big>**Chara☆Mel Vol.5读者赠品彩纸**</big>  
 
 Vol.1（2008年6月25日）赠品彩纸，[时雨（TOKIAME）](./TOKIAME.md)绘制的[丰姬](./绵月丰姬.md)和[妹红](./藤原妹红.md)。
   
-
-
-
-
 
 ---
 

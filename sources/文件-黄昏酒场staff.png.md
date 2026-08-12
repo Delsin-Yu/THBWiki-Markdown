@@ -1,12 +1,8 @@
 # 文件:黄昏酒场staff.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ae\ns6%3A%E9%BB%84%E6%98%8F%E9%85%92%E5%9C%BAstaff%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ae\ns6%3A%E9%BB%84%E6%98%8F%E9%85%92%E5%9C%BAstaff%2Epng.html -->
 
 黄昏酒场
-
-
-
-
 
 
 ---

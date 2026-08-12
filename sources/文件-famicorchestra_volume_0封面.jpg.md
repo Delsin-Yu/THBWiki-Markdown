@@ -1,6 +1,6 @@
 # 文件:famicorchestra_volume_0封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1c\ns6%3Afamicorchestra_volume_0%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1c\ns6%3Afamicorchestra_volume_0%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 時遊戯画
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [famicorchestra volume 0](./famicorchestra_volume_0.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [famicorchestra volume 0](./famicorchestra_volume_0.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

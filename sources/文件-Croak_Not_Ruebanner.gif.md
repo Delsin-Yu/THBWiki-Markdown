@@ -1,14 +1,11 @@
 # 文件:Croak_Not_Ruebanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\39\ns6%3ACroak_Not_Ruebanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\39\ns6%3ACroak_Not_Ruebanner%2Egif.html -->
 
 Croak_Not_Rue | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

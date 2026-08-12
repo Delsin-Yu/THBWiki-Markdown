@@ -1,12 +1,8 @@
 # 文件:光击「Shoot_the_Moon」（永夜抄）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7f\ns6%3A%E5%85%89%E5%87%BB%E3%80%8CShoot_the_Moon%E3%80%8D%EF%BC%88%E6%B0%B8%E5%A4%9C%E6%8A%84%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7f\ns6%3A%E5%85%89%E5%87%BB%E3%80%8CShoot_the_Moon%E3%80%8D%EF%BC%88%E6%B0%B8%E5%A4%9C%E6%8A%84%EF%BC%89%2Epng.html -->
 
 东方永夜抄 | 敌机符卡 | 雾雨魔理沙
-
-
-
-
 
 
 ---

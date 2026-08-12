@@ -1,18 +1,13 @@
 # 文件:Snow*Markbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d4\ns6%3ASnow%2AMarkbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d4\ns6%3ASnow%2AMarkbanner%2Ejpg.html -->
 
 Snow＊Mark | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[[1]](https://web.archive.org/web/20130702014756im_/http://notes.soragoto.net/css/image/snowmark.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://web.archive.org/web/20130702014756im_/http://notes.soragoto.net/css/image/snowmark.jpg)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:Daydream_In_the_Dead_of_Night封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\50\ns6%3ADaydream_In_the_Dead_of_Night%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\50\ns6%3ADaydream_In_the_Dead_of_Night%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Diabolic_Phantasma | 专辑封面 | 封面图片
 
@@ -8,16 +8,12 @@ Diabolic_Phantasma | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Daydream In the Dead of Night](./Daydream_In_the_Dead_of_Night.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [Daydream In the Dead of Night](./Daydream_In_the_Dead_of_Night.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
   
-源地址：[[1]](http://static.tumblr.com/d01941b5abde7bdd635d394cdcf7449d/z2c0hn3/KkCnw32u2/tumblr_static_2ru5byvqrcu84k0o4cgg4go4g.png)
-  
-
-
-
-
+源地址：[\[1\]](http://static.tumblr.com/d01941b5abde7bdd635d394cdcf7449d/z2c0hn3/KkCnw32u2/tumblr_static_2ru5byvqrcu84k0o4cgg4go4g.png)  
 
 ---
 

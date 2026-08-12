@@ -1,12 +1,8 @@
 # 文件:星月中枢站_StarryNightCentrebanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cd\ns6%3A%E6%98%9F%E6%9C%88%E4%B8%AD%E6%9E%A2%E7%AB%99_StarryNightCentrebanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cd\ns6%3A%E6%98%9F%E6%9C%88%E4%B8%AD%E6%9E%A2%E7%AB%99_StarryNightCentrebanner%2Ejpg.html -->
 
 星月中枢站_StarryNightCentre | 社团LOGO
-
-
-
-
 
 
 ---

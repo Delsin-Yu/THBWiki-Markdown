@@ -1,6 +1,6 @@
 # 文件:Illusion_Sonic（同人专辑）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d8\ns6%3AIllusion_Sonic%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d8\ns6%3AIllusion_Sonic%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Illusion_Sonic | 专辑封面 | 封面图片
 
@@ -8,16 +8,12 @@ Illusion_Sonic | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Illusion Sonic（同人专辑）](./Illusion_Sonic（同人专辑）.md)  
-该封面包含的角色：- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)- 十六夜咲夜 (未找到链接)
+- [Illusion Sonic（同人专辑）](./Illusion_Sonic（同人专辑）.md)该封面包含的角色：
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
+- [十六夜咲夜](./十六夜咲夜.md)
 
   
-源地址:[[1]](http://illusonic.web-bi.net/xe/files/attach/images/107/121/4c9f5dfab08f23b5b12b170feaf11103.jpg)
-  
-
-
-
-
+源地址:[\[1\]](http://illusonic.web-bi.net/xe/files/attach/images/107/121/4c9f5dfab08f23b5b12b170feaf11103.jpg)  
 
 ---
 

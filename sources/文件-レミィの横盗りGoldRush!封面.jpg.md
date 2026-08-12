@@ -1,6 +1,6 @@
 # 文件:レミィの横盗りGoldRush!封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ab\ns6%3A%E3%83%AC%E3%83%9F%E3%82%A3%E3%81%AE%E6%A8%AA%E7%9B%97%E3%82%8AGoldRush%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ab\ns6%3A%E3%83%AC%E3%83%9F%E3%82%A3%E3%81%AE%E6%A8%AA%E7%9B%97%E3%82%8AGoldRush%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 乃屋 | 同人志封面 | 封面图片
 
@@ -8,11 +8,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [レミィの横盗りGoldRush!](./レミィの横盗りGoldRush!.md)  
-该封面包含的角色：- [红美铃](./红美铃.md)- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
-
-
-
+- [レミィの横盗りGoldRush!](./レミィの横盗りGoldRush!.md)该封面包含的角色：
+- [红美铃](./红美铃.md)
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
 
 ---

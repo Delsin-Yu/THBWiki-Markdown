@@ -1,12 +1,8 @@
 # 文件:干瓢「Binding_Gourd」.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\88\ns6%3A%E5%B9%B2%E7%93%A2%E3%80%8CBinding_Gourd%E3%80%8D%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\88\ns6%3A%E5%B9%B2%E7%93%A2%E3%80%8CBinding_Gourd%E3%80%8D%2Ejpg.html -->
 
 東方邪星章製作チーム
-
-
-
-
 
 
 ---

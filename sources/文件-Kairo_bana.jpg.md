@@ -1,12 +1,8 @@
 # 文件:Kairo_bana.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\73\ns6%3AKairo_bana%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\73\ns6%3AKairo_bana%2Ejpg.html -->
 
 回路-kairo- | 社团LOGO
-
-
-
-
 
 
 ---

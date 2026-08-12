@@ -1,6 +1,6 @@
 # 文件:千紫万紅（Music_Mix_Organization）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\80\ns6%3A%E5%8D%83%E7%B4%AB%E4%B8%87%E7%B4%85%EF%BC%88Music_Mix_Organization%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\80\ns6%3A%E5%8D%83%E7%B4%AB%E4%B8%87%E7%B4%85%EF%BC%88Music_Mix_Organization%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Music_Mix_Organization | 专辑封面 | 封面图片
 
@@ -8,12 +8,10 @@ Music_Mix_Organization | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [千紫万紅（Music Mix Organization）](./千紫万紅（Music_Mix_Organization）.md)  
-该封面包含的角色：- [西行寺幽幽子](./西行寺幽幽子.md)- [八云紫](./八云紫.md)源地址：[[1]](https://ecdnimg.toranoana.jp/ec/img/04/0030/04/85/040030048548-1p.jpg)
-
-
-
-
+- [千紫万紅（Music Mix Organization）](./千紫万紅（Music_Mix_Organization）.md)该封面包含的角色：
+- [西行寺幽幽子](./西行寺幽幽子.md)
+- [八云紫](./八云紫.md)
+源地址：[\[1\]](https://ecdnimg.toranoana.jp/ec/img/04/0030/04/85/040030048548-1p.jpg)
 
 ---
 

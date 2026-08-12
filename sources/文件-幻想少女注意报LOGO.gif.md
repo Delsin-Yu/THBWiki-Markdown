@@ -1,14 +1,11 @@
 # 文件:幻想少女注意报LOGO.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ab\ns6%3A%E5%B9%BB%E6%83%B3%E5%B0%91%E5%A5%B3%E6%B3%A8%E6%84%8F%E6%8A%A5LOGO%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ab\ns6%3A%E5%B9%BB%E6%83%B3%E5%B0%91%E5%A5%B3%E6%B3%A8%E6%84%8F%E6%8A%A5LOGO%2Egif.html -->
 
 幻想少女注意报
 
 
 ## 文件说明
-
-
-
 
 ---
 

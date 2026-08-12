@@ -1,6 +1,6 @@
 # 文件:Fragile_Sacrifice封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1a\ns6%3AFragile_Sacrifice%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1a\ns6%3AFragile_Sacrifice%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 雪風ルーフ
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Fragile Sacrifice](./Fragile_Sacrifice.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [Fragile Sacrifice](./Fragile_Sacrifice.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
   
-源地址：[[1]](https://static.wixstatic.com/media/dd1bdf_9a3d672ad3e4453093b17e91fa5f561d.jpg/v1/fill/w_1429,h_1422,al_c,q_85/dd1bdf_9a3d672ad3e4453093b17e91fa5f561d.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://static.wixstatic.com/media/dd1bdf_9a3d672ad3e4453093b17e91fa5f561d.jpg/v1/fill/w_1429,h_1422,al_c,q_85/dd1bdf_9a3d672ad3e4453093b17e91fa5f561d.jpg)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:NEW_GENERATiON封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dc\ns6%3ANEW_GENERATiON%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dc\ns6%3ANEW_GENERATiON%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 DiGiTAL_WiNG | 专辑封面 | 封面图片
 
@@ -11,12 +11,7 @@ DiGiTAL_WiNG | 专辑封面 | 封面图片
 - [NEW GENERATiON](./NEW_GENERATiON.md)
 
   
-源地址：[[1]](http://digital-wing.net/201710)
-  
-
-
-
-
+源地址：[\[1\]](http://digital-wing.net/201710)  
 
 ---
 

@@ -1,12 +1,8 @@
 # 文件:Neetpia_banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c3\ns6%3ANeetpia_banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c3\ns6%3ANeetpia_banner%2Epng.html -->
 
 Neetpia | 社团LOGO
-
-
-
-
 
 
 ---

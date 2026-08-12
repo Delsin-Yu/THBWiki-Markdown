@@ -1,6 +1,6 @@
 # 文件:Other_place_Single_CD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6b\ns6%3AOther_place_Single_CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6b\ns6%3AOther_place_Single_CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 LiLA'c_Records | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ LiLA'c_Records | 专辑封面 | 封面图片
   
 
 - [Other place Single CD](./Other_place_Single_CD.md)
-
-
-
 
 
 ---

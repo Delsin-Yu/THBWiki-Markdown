@@ -1,6 +1,6 @@
 # 文件:Darksphere封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0e\ns6%3ADarksphere%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0e\ns6%3ADarksphere%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 みずあめ屋 | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Darksphere](./Darksphere.md)  
-该封面包含的角色：- [封兽鵺](./封兽鵺.md)
+- [Darksphere](./Darksphere.md)该封面包含的角色：
+- [封兽鵺](./封兽鵺.md)
 
   
-源地址：[[1]](http://blog-imgs-42.fc2.com/m/i/z/mizuameya1/reitaisai8js.png)
-  
-
-
-
-
+源地址：[\[1\]](http://blog-imgs-42.fc2.com/m/i/z/mizuameya1/reitaisai8js.png)  
 
 ---
 

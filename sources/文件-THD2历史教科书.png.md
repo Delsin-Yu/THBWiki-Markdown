@@ -1,12 +1,8 @@
 # 文件:THD2历史教科书.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c2\ns6%3ATHD2%E5%8E%86%E5%8F%B2%E6%95%99%E7%A7%91%E4%B9%A6%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c2\ns6%3ATHD2%E5%8E%86%E5%8F%B2%E6%95%99%E7%A7%91%E4%B9%A6%2Epng.html -->
 
 东方DOTS玩家社群
-
-
-
-
 
 
 ---

@@ -1,38 +1,36 @@
 # Battle_Maniac
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\c\c6\ns0%3ABattle_Maniac.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\c\c6\ns0%3ABattle_Maniac.html -->
 
 2016年10月9日 由 まろんスナイパー 于 东方红楼梦12 发布的画集同人志，B5尺寸一共20页，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人志 (未找到链接)** 的词条
-
+**[二次创作同人志](./二次创作.md#同人志)**的词条
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Battle_Maniac封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/0/09/Battle_Maniac%E5%B0%81%E9%9D%A2.png/138px-Battle_Maniac%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="138" height="196" srcset="https://upload.thwiki.cc/thumb/0/09/Battle_Maniac%E5%B0%81%E9%9D%A2.png/207px-Battle_Maniac%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/0/09/Battle_Maniac%E5%B0%81%E9%9D%A2.png/276px-Battle_Maniac%E5%B0%81%E9%9D%A2.png 2x" data-file-width="700" data-file-height="995"></a><div class="cover-char">角色：<a href="./封兽鵺.md" title="封兽鵺">封兽鵺</a></div></td>
 </tr><tr><td class="label">名称</td><td colspan="2"> Battle Maniac </td></tr><tr><td class="label">制作方</td><td><a href="./まろんスナイパー.md" title="まろんスナイパー">まろんスナイパー</a></td><td class="cover-artwork" rowspan="7" style="min-width:196px;"><a href="./文件-Battle_Maniac封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/0/09/Battle_Maniac%E5%B0%81%E9%9D%A2.png/138px-Battle_Maniac%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="138" height="196" srcset="https://upload.thwiki.cc/thumb/0/09/Battle_Maniac%E5%B0%81%E9%9D%A2.png/207px-Battle_Maniac%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/0/09/Battle_Maniac%E5%B0%81%E9%9D%A2.png/276px-Battle_Maniac%E5%B0%81%E9%9D%A2.png 2x" data-file-width="700" data-file-height="995"></a><div class="cover-char">角色：<a href="./封兽鵺.md" title="封兽鵺">封兽鵺</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2016-10-09&#160;（<a href="/展会作品列表?e=%E4%B8%9C%E6%96%B9%E7%BA%A2%E6%A5%BC%E6%A2%A6%2312">東方紅楼夢12</a>）</td></tr><tr><td class="label">类型</td><td>画集</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>B5</td></tr><tr><td class="label">页数</td><td>20P</td></tr><tr><td class="label">售价</td><td>通贩售价：700日元</td></tr>
+</tr><tr><td class="label">首发日期</td><td>2016-10-09 （<a href="./展会作品列表.md#12">東方紅楼夢12</a>）</td></tr><tr><td class="label">类型</td><td>画集</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>B5</td></tr><tr><td class="label">页数</td><td>20P</td></tr><tr><td class="label">售价</td><td>通贩售价：700日元</td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/59271164">https://www.pixiv.net/artworks/59271164</a></td></tr></tbody></table>
 
 Battle Maniac（同人志，まろんスナイパー，2016） - 2016年10月9日 由 まろんスナイパー 于 东方红楼梦12 发布的画集同人志，B5尺寸一共20页，分级为 一般向
-
 ## 预览
-- [](./文件-Battle_Maniac预览图1.jpg.md)
+
+- <img alt="Battle Maniac预览图1.jpg" src="https://upload.thwiki.cc/thumb/8/82/Battle_Maniac%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg/268px-Battle_Maniac%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg" decoding="async" loading="lazy" width="179" height="250" srcset="https://upload.thwiki.cc/thumb/8/82/Battle_Maniac%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg/402px-Battle_Maniac%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg 1.5x, https://upload.thwiki.cc/thumb/8/82/Battle_Maniac%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg/536px-Battle_Maniac%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg 2x" data-file-width="800" data-file-height="1119"> 
 
 
 ## Staff
+
 - 菊月 (未找到链接)
 
 
 ## 评论
-
   
 「戦闘・弾幕」をテーマにした東方イラスト集です。  
 
 幻想郷の少女たちの戦闘前、戦闘中などのさまざまなシーンをお楽しみください。  
 
 おまけの画像メイキングつきです!  
-
   
 
 ◆収録キャラ  
@@ -60,10 +58,9 @@ Battle Maniac（同人志，まろんスナイパー，2016） - 2016年10月9�
 魂魄妖夢  
 
 レミリア・スカーレット  
-
   
 
-___
+---
 
   
 以「战斗·弹幕」为主题的东方画集。  
@@ -72,12 +69,6 @@ ___
 
 顺带附赠画图过程哦！
   
-
-
-
-
-
-
 
 ---
 

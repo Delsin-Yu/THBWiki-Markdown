@@ -1,6 +1,6 @@
 # 文件:もりやマ!!～Moriya_Comical_story_in_Mountain～_1封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\64\ns6%3A%E3%82%82%E3%82%8A%E3%82%84%E3%83%9E%21%21%EF%BD%9EMoriya_Comical_story_in_Mountain%EF%BD%9E_1%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\64\ns6%3A%E3%82%82%E3%82%8A%E3%82%84%E3%83%9E%21%21%EF%BD%9EMoriya_Comical_story_in_Mountain%EF%BD%9E_1%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 同人志封面 | 封面图片 | 柚子桃ジャム
 
@@ -8,16 +8,13 @@
 使用了本文件作封面图片的作品：
   
 
-- [もりやマ!!～Moriya Comical story in Mountain～ 1](./もりやマ!!～Moriya_Comical_story_in_Mountain～_1.md)  
-该封面包含的角色：- [东风谷早苗](./东风谷早苗.md)- [八坂神奈子](./八坂神奈子.md)- [洩矢诹访子](./洩矢诹访子.md)
+- [もりやマ!!～Moriya Comical story in Mountain～ 1](./もりやマ!!～Moriya_Comical_story_in_Mountain～_1.md)该封面包含的角色：
+- [东风谷早苗](./东风谷早苗.md)
+- [八坂神奈子](./八坂神奈子.md)
+- [洩矢诹访子](./洩矢诹访子.md)
 
   
-源地址：[[1]](http://3.bp.blogspot.com/-IfpKNeBjRlk/URpU67XWh7I/AAAAAAAAAjo/MePbtZ-Ca3M/s1600/00.png)
-  
-
-
-
-
+源地址：[\[1\]](http://3.bp.blogspot.com/-IfpKNeBjRlk/URpU67XWh7I/AAAAAAAAAjo/MePbtZ-Ca3M/s1600/00.png)  
 
 ---
 

@@ -1,16 +1,12 @@
 # 文件:Lonelymonsterlogo22.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a3\ns6%3ALonelymonsterlogo22%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a3\ns6%3ALonelymonsterlogo22%2Ejpg.html -->
 
 Lonely_Monster | 社团LOGO
 
   
 Lonelymonster于22Q4更新的LOGO，主要变动为字体与背景。
   
-
-
-
-
 
 ---
 

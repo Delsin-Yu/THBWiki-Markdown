@@ -1,6 +1,6 @@
 # 文件:Change_the_world（紺碧studio）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c3\ns6%3AChange_the_world%EF%BC%88%E7%B4%BA%E7%A2%A7studio%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c3\ns6%3AChange_the_world%EF%BC%88%E7%B4%BA%E7%A2%A7studio%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 紺碧studio
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [Change the world（紺碧studio）](./Change_the_world（紺碧studio）.md)  
-该封面包含的角色：- [鬼人正邪](./鬼人正邪.md)- [少名针妙丸](./少名针妙丸.md)
-
-
-
+- [Change the world（紺碧studio）](./Change_the_world（紺碧studio）.md)该封面包含的角色：
+- [鬼人正邪](./鬼人正邪.md)
+- [少名针妙丸](./少名针妙丸.md)
 
 
 ---

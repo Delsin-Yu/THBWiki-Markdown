@@ -1,6 +1,6 @@
 # 文件:大御柱_YO-KAI_Jam封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b4\ns6%3A%E5%A4%A7%E5%BE%A1%E6%9F%B1_YO-KAI_Jam%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b4\ns6%3A%E5%A4%A7%E5%BE%A1%E6%9F%B1_YO-KAI_Jam%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Electric_Ginger | 专辑封面 | 封面图片
 
@@ -10,11 +10,9 @@ Electric_Ginger | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [大御柱 YO-KAI Jam](./大御柱_YO-KAI_Jam.md)  
-该封面包含的角色：- [八坂神奈子](./八坂神奈子.md)- [洩矢诹访子](./洩矢诹访子.md)
-
-
-
+- [大御柱 YO-KAI Jam](./大御柱_YO-KAI_Jam.md)该封面包含的角色：
+- [八坂神奈子](./八坂神奈子.md)
+- [洩矢诹访子](./洩矢诹访子.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:東方ASSOCIATION封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1f\ns6%3A%E6%9D%B1%E6%96%B9ASSOCIATION%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1f\ns6%3A%E6%9D%B1%E6%96%B9ASSOCIATION%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 いえろ～ぜぶら | 专辑封面 | 封面图片 | 電開製作所
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方ASSOCIATION](./東方ASSOCIATION.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [東方ASSOCIATION](./東方ASSOCIATION.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:結界戦線ビジュアルブック_-Slapstick_Gallery-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\36\ns6%3A%E7%B5%90%E7%95%8C%E6%88%A6%E7%B7%9A%E3%83%93%E3%82%B8%E3%83%A5%E3%82%A2%E3%83%AB%E3%83%96%E3%83%83%E3%82%AF_-Slapstick_Gallery-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\36\ns6%3A%E7%B5%90%E7%95%8C%E6%88%A6%E7%B7%9A%E3%83%93%E3%82%B8%E3%83%A5%E3%82%A2%E3%83%AB%E3%83%96%E3%83%83%E3%82%AF_-Slapstick_Gallery-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 白上さん家
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [結界戦線ビジュアルブック-Slapstick Gallery-](./結界戦線ビジュアルブック-Slapstick_Gallery-.md)  
-该封面包含的角色：- [宇佐见莲子](./宇佐见莲子.md)
+- [結界戦線ビジュアルブック-Slapstick Gallery-](./結界戦線ビジュアルブック-Slapstick_Gallery-.md)该封面包含的角色：
+- [宇佐见莲子](./宇佐见莲子.md)
 
   
-源地址：[[1]](http://hf-kekkai.com/img/ss02.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://hf-kekkai.com/img/ss02.jpg)  
 
 ---
 

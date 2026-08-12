@@ -1,6 +1,6 @@
 # 文件:Disastrous_Dragon封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\28\ns6%3ADisastrous_Dragon%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\28\ns6%3ADisastrous_Dragon%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 同人志封面 | 封面图片 | 星之实验室_~_the_laboratory_of_stars~
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [Disastrous Dragon](./Disastrous_Dragon.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [八云紫](./八云紫.md)
-
-
-
+- [Disastrous Dragon](./Disastrous_Dragon.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [八云紫](./八云紫.md)
 
 
 ---

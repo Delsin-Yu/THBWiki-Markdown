@@ -1,12 +1,8 @@
 # 文件:AppGet采访插图4.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3d\ns6%3AAppGet%E9%87%87%E8%AE%BF%E6%8F%92%E5%9B%BE4%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3d\ns6%3AAppGet%E9%87%87%E8%AE%BF%E6%8F%92%E5%9B%BE4%2Ejpg.html -->
 
 AppGet | ZUN
-
-
-
-
 
 
 ---

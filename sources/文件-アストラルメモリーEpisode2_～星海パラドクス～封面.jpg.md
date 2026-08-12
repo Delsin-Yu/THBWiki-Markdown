@@ -1,6 +1,6 @@
 # 文件:アストラルメモリーEpisode2_～星海パラドクス～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0d\ns6%3A%E3%82%A2%E3%82%B9%E3%83%88%E3%83%A9%E3%83%AB%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%BCEpisode2_%EF%BD%9E%E6%98%9F%E6%B5%B7%E3%83%91%E3%83%A9%E3%83%89%E3%82%AF%E3%82%B9%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0d\ns6%3A%E3%82%A2%E3%82%B9%E3%83%88%E3%83%A9%E3%83%AB%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%BCEpisode2_%EF%BD%9E%E6%98%9F%E6%B5%B7%E3%83%91%E3%83%A9%E3%83%89%E3%82%AF%E3%82%B9%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ビターショコラ抹茶ラテ | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [アストラルメモリーEpisode2 ～星海パラドクス～](./アストラルメモリーEpisode2_～星海パラドクス～.md)  
-该封面包含的角色：- [洩矢诹访子](./洩矢诹访子.md)
-
-
-
+- [アストラルメモリーEpisode2 ～星海パラドクス～](./アストラルメモリーEpisode2_～星海パラドクス～.md)该封面包含的角色：
+- [洩矢诹访子](./洩矢诹访子.md)
 
 
 ---

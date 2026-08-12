@@ -1,16 +1,12 @@
 # 模板:ChocoRai_Fes
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\8\8f\ns10%3AChocoRai_Fes.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\8\8f\ns10%3AChocoRai_Fes.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

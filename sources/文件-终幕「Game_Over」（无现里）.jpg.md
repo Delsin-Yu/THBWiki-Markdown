@@ -1,14 +1,11 @@
 # 文件:终幕「Game_Over」（无现里）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4e\ns6%3A%E7%BB%88%E5%B9%95%E3%80%8CGame_Over%E3%80%8D%EF%BC%88%E6%97%A0%E7%8E%B0%E9%87%8C%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4e\ns6%3A%E7%BB%88%E5%B9%95%E3%80%8CGame_Over%E3%80%8D%EF%BC%88%E6%97%A0%E7%8E%B0%E9%87%8C%EF%BC%89%2Ejpg.html -->
 
 燕乐玄鸟 | 连缘Project官方符牌 | 连缘无现里
 
 
 ## 文件说明
-
-
-
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:比那名居天子のDOKIDOKIディスク封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bd\ns6%3A%E6%AF%94%E9%82%A3%E5%90%8D%E5%B1%85%E5%A4%A9%E5%AD%90%E3%81%AEDOKIDOKI%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bd\ns6%3A%E6%AF%94%E9%82%A3%E5%90%8D%E5%B1%85%E5%A4%A9%E5%AD%90%E3%81%AEDOKIDOKI%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 アールグレイ | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [比那名居天子のDOKIDOKIディスク](./比那名居天子のDOKIDOKIディスク.md)  
-该封面包含的角色：- [比那名居天子](./比那名居天子.md)
-
-
-
+- [比那名居天子のDOKIDOKIディスク](./比那名居天子のDOKIDOKIディスク.md)该封面包含的角色：
+- [比那名居天子](./比那名居天子.md)
 
 
 ---

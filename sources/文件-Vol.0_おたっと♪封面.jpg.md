@@ -1,6 +1,6 @@
 # 文件:Vol.0_おたっと♪封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ae\ns6%3AVol%2E0_%E3%81%8A%E3%81%9F%E3%81%A3%E3%81%A8%E2%99%AA%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ae\ns6%3AVol%2E0_%E3%81%8A%E3%81%9F%E3%81%A3%E3%81%A8%E2%99%AA%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 おたクインテット | 专辑封面 | 封面图片
 
@@ -8,16 +8,16 @@
 使用了本文件作封面图片的作品：
   
 
-- [Vol.0 おたっと♪](./Vol.0_おたっと♪.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [橙](./橙.md)- [西行寺幽幽子](./西行寺幽幽子.md)- [因幡帝](./因幡帝.md)- [雾雨魔理沙](./雾雨魔理沙.md)
+- [Vol.0 おたっと♪](./Vol.0_おたっと♪.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [橙](./橙.md)
+- [西行寺幽幽子](./西行寺幽幽子.md)
+- [因幡帝](./因幡帝.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-源地址：[[1]](http://otaquintet.net/images/j.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://otaquintet.net/images/j.jpg)  
 
 ---
 

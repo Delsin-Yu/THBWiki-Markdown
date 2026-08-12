@@ -1,14 +1,11 @@
 # 文件:心輝楼banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f5\ns6%3A%E5%BF%83%E8%BC%9D%E6%A5%BCbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f5\ns6%3A%E5%BF%83%E8%BC%9D%E6%A5%BCbanner%2Ejpg.html -->
 
 心輝楼 | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

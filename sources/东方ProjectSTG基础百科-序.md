@@ -1,28 +1,26 @@
 # 东方ProjectSTG基础百科/序
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\07\ns0%3A%E4%B8%9C%E6%96%B9ProjectSTG%E5%9F%BA%E7%A1%80%E7%99%BE%E7%A7%91%2F%E5%BA%8F.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\07\ns0%3A%E4%B8%9C%E6%96%B9ProjectSTG%E5%9F%BA%E7%A1%80%E7%99%BE%E7%A7%91%2F%E5%BA%8F.html -->
 
 东方projectSTG基础百科
 
 <center>
-
 <table>
 <tbody><tr>
-<td>&lt;
+<td><
 </td>
-<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./东方ProjectSTG基础百科-再版编者的话.md" title="东方ProjectSTG基础百科/再版编者的话">再版编者的话</a>&#160;
+<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./东方ProjectSTG基础百科-再版编者的话.md" title="东方ProjectSTG基础百科/再版编者的话">再版编者的话</a> 
 </td>
-<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="./东方ProjectSTG基础百科.md" title="东方ProjectSTG基础百科" unred="">东方projectSTG基础百科</a>&#160;
+<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;"> <a href="./东方ProjectSTG基础百科.md" title="东方ProjectSTG基础百科" unred="">东方projectSTG基础百科</a> 
 </td>
-<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left">&#160;<a href="./东方ProjectSTG基础百科-第一章.md" title="东方ProjectSTG基础百科/第一章">第一章</a>
+<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left"> <a href="./东方ProjectSTG基础百科-第一章.md" title="东方ProjectSTG基础百科/第一章">第一章</a>
 </td>
-<td>&gt;
+<td>>
 </td></tr></tbody></table>
 
   
-</center>
-  
- **<big><big>序 写在新手上路之前</big></big>**   
+</center>  
+**<big><big>序 写在新手上路之前</big></big>**  
 
 各位玩家好，欢迎来到东方STG的世界。
   
@@ -44,28 +42,22 @@
   
 —— 一个无名的STG玩家
   
-
 <center>
-
 <table>
 <tbody><tr>
-<td>&lt;
+<td><
 </td>
-<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./东方ProjectSTG基础百科-再版编者的话.md" title="东方ProjectSTG基础百科/再版编者的话">再版编者的话</a>&#160;
+<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./东方ProjectSTG基础百科-再版编者的话.md" title="东方ProjectSTG基础百科/再版编者的话">再版编者的话</a> 
 </td>
-<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="./东方ProjectSTG基础百科.md" title="东方ProjectSTG基础百科" unred="">东方projectSTG基础百科</a>&#160;
+<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;"> <a href="./东方ProjectSTG基础百科.md" title="东方ProjectSTG基础百科" unred="">东方projectSTG基础百科</a> 
 </td>
-<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left">&#160;<a href="./东方ProjectSTG基础百科-第一章.md" title="东方ProjectSTG基础百科/第一章">第一章</a>
+<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left"> <a href="./东方ProjectSTG基础百科-第一章.md" title="东方ProjectSTG基础百科/第一章">第一章</a>
 </td>
-<td>&gt;
+<td>>
 </td></tr></tbody></table>
 
   
 </center>
-
-
-
-
 ---
 
 此文档由 [THBWiki-Markdown-Builder](https://github.com/Delsin-Yu/THBWiki-Markdown-Builder) 构建。

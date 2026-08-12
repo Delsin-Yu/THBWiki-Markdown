@@ -1,14 +1,11 @@
 # 文件:華霞魅banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\56\ns6%3A%E8%8F%AF%E9%9C%9E%E9%AD%85banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\56\ns6%3A%E8%8F%AF%E9%9C%9E%E9%AD%85banner%2Ejpg.html -->
 
 社团LOGO | 華霞魅
 
 
 ## 摘要
-
-
-
 
 ---
 

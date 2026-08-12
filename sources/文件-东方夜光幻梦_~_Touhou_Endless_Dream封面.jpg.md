@@ -1,6 +1,6 @@
 # 文件:东方夜光幻梦_~_Touhou_Endless_Dream封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d7\ns6%3A%E4%B8%9C%E6%96%B9%E5%A4%9C%E5%85%89%E5%B9%BB%E6%A2%A6_%7E_Touhou_Endless_Dream%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d7\ns6%3A%E4%B8%9C%E6%96%B9%E5%A4%9C%E5%85%89%E5%B9%BB%E6%A2%A6_%7E_Touhou_Endless_Dream%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 MyACG_Studio | 封面图片 | 软件封面
 
@@ -10,11 +10,12 @@ MyACG_Studio | 封面图片 | 软件封面
 使用了本文件作封面图片的作品：
   
 
-- [东方夜光幻梦 ~ Touhou Endless Dream](./东方夜光幻梦_~_Touhou_Endless_Dream.md)  
-该封面包含的角色：- [露米娅](./露米娅.md)- [博丽灵梦](./博丽灵梦.md)- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)- [东风谷早苗](./东风谷早苗.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [东方夜光幻梦 ~ Touhou Endless Dream](./东方夜光幻梦_~_Touhou_Endless_Dream.md)该封面包含的角色：
+- [露米娅](./露米娅.md)
+- [博丽灵梦](./博丽灵梦.md)
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
+- [东风谷早苗](./东风谷早苗.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

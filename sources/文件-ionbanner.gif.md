@@ -1,18 +1,13 @@
 # 文件:ionbanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\67\ns6%3Aionbanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\67\ns6%3Aionbanner%2Egif.html -->
 
 ion | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[[1]](https://web.archive.org/web/20070207215446im_/http://www.geocities.jp/medesuinsuika/banana_ion01.gif)
-  
-
-
-
-
+源地址：[\[1\]](https://web.archive.org/web/20070207215446im_/http://www.geocities.jp/medesuinsuika/banana_ion01.gif)  
 
 ---
 

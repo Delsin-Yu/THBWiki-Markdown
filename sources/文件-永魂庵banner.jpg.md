@@ -1,14 +1,11 @@
 # 文件:永魂庵banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\27\ns6%3A%E6%B0%B8%E9%AD%82%E5%BA%B5banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\27\ns6%3A%E6%B0%B8%E9%AD%82%E5%BA%B5banner%2Ejpg.html -->
 
 永魂庵 | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

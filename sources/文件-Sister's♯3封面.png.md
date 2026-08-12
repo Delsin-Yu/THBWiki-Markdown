@@ -1,6 +1,6 @@
 # 文件:Sister's♯3封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\00\ns6%3ASister%27s%E2%99%AF3%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\00\ns6%3ASister%27s%E2%99%AF3%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 ガネメ | 专辑封面 | 封面图片
 
@@ -8,16 +8,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [Sister's♯3](./Sister's♯3.md)  
-该封面包含的角色：- [秋静叶](./秋静叶.md)- [秋穰子](./秋穰子.md)
+- [Sister's♯3](./Sister's♯3.md)该封面包含的角色：
+- [秋静叶](./秋静叶.md)
+- [秋穰子](./秋穰子.md)
 
   
-源地址：[[1]](http://static.tumblr.com/711eb1cecf861459d886febf99944b41/lircoia/RHaoe5slo/tumblr_static_5x2acsb67qscc0444okw8gwks.png)
-  
-
-
-
-
+源地址：[\[1\]](http://static.tumblr.com/711eb1cecf861459d886febf99944b41/lircoia/RHaoe5slo/tumblr_static_5x2acsb67qscc0444okw8gwks.png)  
 
 ---
 

@@ -1,6 +1,6 @@
 # Takkoman_-Kouzatsu_World-/设定与剧情
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\7\71\ns0%3ATakkoman_-Kouzatsu_World-%2F%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\7\71\ns0%3ATakkoman_-Kouzatsu_World-%2F%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85.html -->
 
 illuCalab.
 
@@ -14,7 +14,6 @@ illuCalab.
 由某人带来巨大灾难，将这两个原本不相容的世界结连。
 在崩坏的世界中，一个少女醒来了。 名字蛸灵是也。
   
-
 
 ## 游戏系统
   
@@ -30,10 +29,6 @@ illuCalab.
 积累到一定的魔力值，就可以使用强大的必杀技！
 活用各种动作来赚取更高的分数吧！
   
-
-
-
-
 
 ---
 

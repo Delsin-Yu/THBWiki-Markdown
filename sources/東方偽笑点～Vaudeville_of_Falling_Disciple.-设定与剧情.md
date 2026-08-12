@@ -1,24 +1,24 @@
 # 東方偽笑点～Vaudeville_of_Falling_Disciple./设定与剧情
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\9\9b\ns0%3A%E6%9D%B1%E6%96%B9%E5%81%BD%E7%AC%91%E7%82%B9%EF%BD%9EVaudeville_of_Falling_Disciple%2E%2F%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\9\9b\ns0%3A%E6%9D%B1%E6%96%B9%E5%81%BD%E7%AC%91%E7%82%B9%EF%BD%9EVaudeville_of_Falling_Disciple%2E%2F%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85.html -->
 
 笑点大喜利歌丸团
 
 
 ## 附带文档
+
 - readme (未找到链接)
 
 
 ## 故事背景
+
 - 故事背景 (未找到链接)
 
 
 ## 游戏对话
+
 - [圣白莲 游戏对话/结局](./東方偽笑点～Vaudeville_of_Falling_Disciple.-设定与剧情-圣白莲.md)
 - 物部布都 游戏对话/结局 (未找到链接)
-
-
-
 
 
 ---

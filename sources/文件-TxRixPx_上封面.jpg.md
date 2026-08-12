@@ -1,6 +1,6 @@
 # 文件:TxRixPx_上封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ce\ns6%3ATxRixPx_%E4%B8%8A%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ce\ns6%3ATxRixPx_%E4%B8%8A%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Parallel_Station | 同人志封面 | 封面图片
 
@@ -10,11 +10,9 @@ Parallel_Station | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [TxRixPx 上](./TxRixPx_上.md)  
-该封面包含的角色：- [宇佐见莲子](./宇佐见莲子.md)- [八云紫](./八云紫.md)
-
-
-
+- [TxRixPx 上](./TxRixPx_上.md)该封面包含的角色：
+- [宇佐见莲子](./宇佐见莲子.md)
+- [八云紫](./八云紫.md)
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:Soundcard_Symphony_Orchestrabanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5d\ns6%3ASoundcard_Symphony_Orchestrabanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5d\ns6%3ASoundcard_Symphony_Orchestrabanner%2Ejpg.html -->
 
 Soundcard_Symphony_Orchestra | 社团LOGO
-
-
-
-
 
 
 ---

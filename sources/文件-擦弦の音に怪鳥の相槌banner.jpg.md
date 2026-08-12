@@ -1,14 +1,11 @@
 # 文件:擦弦の音に怪鳥の相槌banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\44\ns6%3A%E6%93%A6%E5%BC%A6%E3%81%AE%E9%9F%B3%E3%81%AB%E6%80%AA%E9%B3%A5%E3%81%AE%E7%9B%B8%E6%A7%8Cbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\44\ns6%3A%E6%93%A6%E5%BC%A6%E3%81%AE%E9%9F%B3%E3%81%AB%E6%80%AA%E9%B3%A5%E3%81%AE%E7%9B%B8%E6%A7%8Cbanner%2Ejpg.html -->
 
 擦弦の音に怪鳥の相槌 | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

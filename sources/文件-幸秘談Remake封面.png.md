@@ -1,6 +1,6 @@
 # 文件:幸秘談Remake封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a7\ns6%3A%E5%B9%B8%E7%A7%98%E8%AB%87Remake%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a7\ns6%3A%E5%B9%B8%E7%A7%98%E8%AB%87Remake%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 同人志封面 | 封面图片 | 砂亭
 
@@ -10,16 +10,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [幸秘談Remake](./幸秘談Remake.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
+- [幸秘談Remake](./幸秘談Remake.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
   
-[Pixiv artwork ID: 98051304 (original size)](https://www.pixiv.net/artworks/98051304)
-  
-
-
-
-
+[Pixiv artwork ID: 98051304 (original size)](https://www.pixiv.net/artworks/98051304)  
 
 ---
 

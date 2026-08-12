@@ -1,6 +1,6 @@
 # 文件:Toho_Her_Album_-_フランドール's「BREAK_MY_LABYRINTH」封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a6\ns6%3AToho_Her_Album_-_%E3%83%95%E3%83%A9%E3%83%B3%E3%83%89%E3%83%BC%E3%83%AB%27s%E3%80%8CBREAK_MY_LABYRINTH%E3%80%8D%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a6\ns6%3AToho_Her_Album_-_%E3%83%95%E3%83%A9%E3%83%B3%E3%83%89%E3%83%BC%E3%83%AB%27s%E3%80%8CBREAK_MY_LABYRINTH%E3%80%8D%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 吊るし処 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Toho Her Album - フランドール's「BREAK MY LABYRINTH」](./Toho_Her_Album_-_フランドール's「BREAK_MY_LABYRINTH」.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
-
-
-
+- [Toho Her Album - フランドール's「BREAK MY LABYRINTH」](./Toho_Her_Album_-_フランドール's「BREAK_MY_LABYRINTH」.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:The_Seal_-秘封倶楽部ウイスキー合同誌-封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8f\ns6%3AThe_Seal_-%E7%A7%98%E5%B0%81%E5%80%B6%E6%A5%BD%E9%83%A8%E3%82%A6%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%BC%E5%90%88%E5%90%8C%E8%AA%8C-%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8f\ns6%3AThe_Seal_-%E7%A7%98%E5%B0%81%E5%80%B6%E6%A5%BD%E9%83%A8%E3%82%A6%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%BC%E5%90%88%E5%90%8C%E8%AA%8C-%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 ジャージと愉快な仲間たち | 同人志封面 | 封面图片
 
@@ -9,9 +9,6 @@
   
 
 - [The Seal -秘封倶楽部ウイスキー合同誌-](./The_Seal_-秘封倶楽部ウイスキー合同誌-.md)
-
-
-
 
 
 ---

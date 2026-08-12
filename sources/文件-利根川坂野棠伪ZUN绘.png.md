@@ -1,12 +1,8 @@
 # 文件:利根川坂野棠伪ZUN绘.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d4\ns6%3A%E5%88%A9%E6%A0%B9%E5%B7%9D%E5%9D%82%E9%87%8E%E6%A3%A0%E4%BC%AAZUN%E7%BB%98%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d4\ns6%3A%E5%88%A9%E6%A0%B9%E5%B7%9D%E5%9D%82%E9%87%8E%E6%A3%A0%E4%BC%AAZUN%E7%BB%98%2Epng.html -->
 
 二次角色立绘 | 利根川坂野棠 | 尹棱DANE
-
-
-
-
 
 
 ---

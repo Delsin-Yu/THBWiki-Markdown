@@ -1,13 +1,11 @@
 # Triple_magic_三重魔法（同人专辑）
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\43\ns0%3ATriple_magic_%E4%B8%89%E9%87%8D%E9%AD%94%E6%B3%95%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\43\ns0%3ATriple_magic_%E4%B8%89%E9%87%8D%E9%AD%94%E6%B3%95%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89.html -->
 
 2011年4月24日 由 白梗组 于 Rainbow Gala7 发布的同人专辑，内容以 魔法组合为题材，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人专辑 (未找到链接)** 的词条
-<center>
-
+**[二次创作同人专辑](./二次创作.md#同人音乐)**的词条<center>
 <table>
 <tbody><tr>
 <td class="mbox-image"><div style="width: 52px;">
@@ -16,33 +14,22 @@
 </tr>
 </tbody></table>
 
-
 </center>
-
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Triple_magic_三重魔法（同人专辑）封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/3/3c/Triple_magic_%E4%B8%89%E9%87%8D%E9%AD%94%E6%B3%95%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/224px-Triple_magic_%E4%B8%89%E9%87%8D%E9%AD%94%E6%B3%95%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="224" srcset="https://upload.thwiki.cc/3/3c/Triple_magic_%E4%B8%89%E9%87%8D%E9%AD%94%E6%B3%95%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 1.5x" data-file-width="300" data-file-height="300"></a><div class="cover-char">角色：<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a>，<a href="./爱丽丝·玛格特洛依德.md" title="爱丽丝·玛格特洛依德">爱丽丝·玛格特洛依德</a>，<a href="./帕秋莉·诺蕾姬.md" title="帕秋莉·诺蕾姬">帕秋莉·诺蕾姬</a></div></td>
 </tr><tr><td class="label">名称</td><td colspan="2"> Triple magic </td></tr><tr><td class="label">译名</td><td colspan="2"> 三重魔法 </td></tr><tr><td class="label">制作方</td><td><a href="./白梗组.md" title="白梗组">白梗组</a></td><td class="cover-artwork" rowspan="8" style="min-width:224px;"><a href="./文件-Triple_magic_三重魔法（同人专辑）封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/3/3c/Triple_magic_%E4%B8%89%E9%87%8D%E9%AD%94%E6%B3%95%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/224px-Triple_magic_%E4%B8%89%E9%87%8D%E9%AD%94%E6%B3%95%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="224" srcset="https://upload.thwiki.cc/3/3c/Triple_magic_%E4%B8%89%E9%87%8D%E9%AD%94%E6%B3%95%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 1.5x" data-file-width="300" data-file-height="300"></a><div class="cover-char">角色：<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a>，<a href="./爱丽丝·玛格特洛依德.md" title="爱丽丝·玛格特洛依德">爱丽丝·玛格特洛依德</a>，<a href="./帕秋莉·诺蕾姬.md" title="帕秋莉·诺蕾姬">帕秋莉·诺蕾姬</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2011-04-24&#160;（<a href="/展会作品列表?e=Rainbow+Gala%237">Rainbow Gala7</a>）</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>0</td></tr><tr><td class="label">总时长</td><td>00:00</td></tr><tr><td class="label">特定选材</td><td>魔法组合</td></tr><tr><td class="label">售价</td><td>会场售价：40人民币（CD+同人志）</td></tr>
+</tr><tr><td class="label">首发日期</td><td>2011-04-24 （<a href="./展会作品列表.md#7">Rainbow Gala7</a>）</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>0</td></tr><tr><td class="label">总时长</td><td>00:00</td></tr><tr><td class="label">特定选材</td><td>魔法组合</td></tr><tr><td class="label">售价</td><td>会场售价：40人民币（CD+同人志）</td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://blog.sina.com.cn/s/blog_721753bb0100p47y.html">http://blog.sina.com.cn/s/blog_721753bb0100p47y.html</a><br><a rel="nofollow" class="external free" href="https://tieba.baidu.com/p/1046285915">https://tieba.baidu.com/p/1046285915</a></td></tr><tr><td class="label">备注</td><td colspan="2"><a href="./Triple_magic_三重魔法（同人志）.md" title="Triple magic 三重魔法（同人志）">音乐曲绘本</a></td></tr></tbody></table>
 
 Triple magic 三重魔法（同人专辑，白梗组，2011） - 2011年4月24日 由 白梗组 于 Rainbow Gala7 发布的同人专辑，内容以 魔法组合为题材，分级为 一般向
-
 ## Staff
 Arrangement
 : Deadeve
 
-
 ## 曲目列表
 
-<table></table>
-
-
-
 ## 评论
-
-
-
 
 ---
 

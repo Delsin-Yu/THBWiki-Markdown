@@ -1,6 +1,6 @@
 # 文件:anemone（ガクブチック）封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\36\ns6%3Aanemone%EF%BC%88%E3%82%AC%E3%82%AF%E3%83%96%E3%83%81%E3%83%83%E3%82%AF%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\36\ns6%3Aanemone%EF%BC%88%E3%82%AC%E3%82%AF%E3%83%96%E3%83%81%E3%83%83%E3%82%AF%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 ガクブチック | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [anemone（ガクブチック）](./anemone（ガクブチック）.md)  
-该封面包含的角色：- [东风谷早苗](./东风谷早苗.md)
+- [anemone（ガクブチック）](./anemone（ガクブチック）.md)该封面包含的角色：
+- [东风谷早苗](./东风谷早苗.md)
 
   
-源地址：[[1]](http://static.tumblr.com/cfebd82b35f9aa1b930f4c9a0cb17b2a/ipu8vhd/Y6Wnnxg5y/tumblr_static_3a8niigs43mscgoscww4so4o8.png)
-  
-
-
-
-
+源地址：[\[1\]](http://static.tumblr.com/cfebd82b35f9aa1b930f4c9a0cb17b2a/ipu8vhd/Y6Wnnxg5y/tumblr_static_3a8niigs43mscgoscww4so4o8.png)  
 
 ---
 

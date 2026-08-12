@@ -1,6 +1,6 @@
 # 文件:Underwater_girl_少女達の水中浮遊封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cd\ns6%3AUnderwater_girl_%E5%B0%91%E5%A5%B3%E9%81%94%E3%81%AE%E6%B0%B4%E4%B8%AD%E6%B5%AE%E9%81%8A%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cd\ns6%3AUnderwater_girl_%E5%B0%91%E5%A5%B3%E9%81%94%E3%81%AE%E6%B0%B4%E4%B8%AD%E6%B5%AE%E9%81%8A%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 カラフルマカロン | 同人志封面 | 封面图片
 
@@ -10,8 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Underwater girl 少女達の水中浮遊](./Underwater_girl_少女達の水中浮遊.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [Underwater girl 少女達の水中浮遊](./Underwater_girl_少女達の水中浮遊.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
 : 源地址
 
@@ -20,9 +20,6 @@
 : 封面原图
 
 - [Twitter](https://twitter.com/i/web/status/1053098996967723008)
-
-
-
 
 
 ---

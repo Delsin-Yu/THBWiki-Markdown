@@ -1,6 +1,6 @@
 # 文件:東方SOS_vol.1_Sign_of_Stars封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e6\ns6%3A%E6%9D%B1%E6%96%B9SOS_vol%2E1_Sign_of_Stars%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e6\ns6%3A%E6%9D%B1%E6%96%B9SOS_vol%2E1_Sign_of_Stars%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 少女フラクタル | 幽闭星光 | 魂音泉
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方SOS vol.1 Sign of Stars](./東方SOS_vol.1_Sign_of_Stars.md)  
-该封面包含的角色：- 原创角色 (未找到链接)
-
-
-
+- [東方SOS vol.1 Sign of Stars](./東方SOS_vol.1_Sign_of_Stars.md)该封面包含的角色：
+- 原创角色 (未找到链接)
 
 
 ---

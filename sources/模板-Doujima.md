@@ -1,16 +1,12 @@
 # 模板:Doujima
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\d\d2\ns10%3ADoujima.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\d\d2\ns10%3ADoujima.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

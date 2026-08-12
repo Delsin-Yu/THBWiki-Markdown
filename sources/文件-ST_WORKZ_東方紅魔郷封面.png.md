@@ -1,6 +1,6 @@
 # 文件:ST_WORKZ_東方紅魔郷封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0b\ns6%3AST_WORKZ_%E6%9D%B1%E6%96%B9%E7%B4%85%E9%AD%94%E9%83%B7%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0b\ns6%3AST_WORKZ_%E6%9D%B1%E6%96%B9%E7%B4%85%E9%AD%94%E9%83%B7%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 ビートハムカツレコーズ | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [ST WORKZ 東方紅魔郷](./ST_WORKZ_東方紅魔郷.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [ST WORKZ 東方紅魔郷](./ST_WORKZ_東方紅魔郷.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

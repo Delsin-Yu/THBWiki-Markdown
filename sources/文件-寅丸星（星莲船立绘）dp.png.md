@@ -1,12 +1,8 @@
 # 文件:寅丸星（星莲船立绘）dp.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bc\ns6%3A%E5%AF%85%E4%B8%B8%E6%98%9F%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89dp%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bc\ns6%3A%E5%AF%85%E4%B8%B8%E6%98%9F%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%E7%AB%8B%E7%BB%98%EF%BC%89dp%2Epng.html -->
 
 ZUN绘 | 东方星莲船 | 官方游戏立绘 | 寅丸星
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:マテリアル瀬戸八ZZ封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\eb\ns6%3A%E3%83%9E%E3%83%86%E3%83%AA%E3%82%A2%E3%83%AB%E7%80%AC%E6%88%B8%E5%85%ABZZ%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\eb\ns6%3A%E3%83%9E%E3%83%86%E3%83%AA%E3%82%A2%E3%83%AB%E7%80%AC%E6%88%B8%E5%85%ABZZ%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 濑户八十八夜
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [マテリアル瀬戸八ZZ](./マテリアル瀬戸八ZZ.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [マテリアル瀬戸八ZZ](./マテリアル瀬戸八ZZ.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

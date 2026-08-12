@@ -1,6 +1,6 @@
 # 文件:M.C.I！封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a1\ns6%3AM%2EC%2EI%EF%BC%81%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a1\ns6%3AM%2EC%2EI%EF%BC%81%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 DOLCE_LATTE | 同人志封面 | 封面图片
 
@@ -10,11 +10,17 @@ DOLCE_LATTE | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [M.C.I！](./M.C.I！.md)  
-该封面包含的角色：- [橙](./橙.md)- [八云蓝](./八云蓝.md)- [米斯蒂娅·萝蕾拉](./米斯蒂娅·萝蕾拉.md)- [上白泽慧音](./上白泽慧音.md)- [因幡帝](./因幡帝.md)- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)- [犬走椛](./犬走椛.md)- [火焰猫燐](./火焰猫燐.md)- [娜兹玲](./娜兹玲.md)- [今泉影狼](./今泉影狼.md)
-
-
-
+- [M.C.I！](./M.C.I！.md)该封面包含的角色：
+- [橙](./橙.md)
+- [八云蓝](./八云蓝.md)
+- [米斯蒂娅·萝蕾拉](./米斯蒂娅·萝蕾拉.md)
+- [上白泽慧音](./上白泽慧音.md)
+- [因幡帝](./因幡帝.md)
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
+- [犬走椛](./犬走椛.md)
+- [火焰猫燐](./火焰猫燐.md)
+- [娜兹玲](./娜兹玲.md)
+- [今泉影狼](./今泉影狼.md)
 
 
 ---

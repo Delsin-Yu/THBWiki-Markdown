@@ -1,6 +1,6 @@
 # 文件:Deranged_Frolic封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f8\ns6%3ADeranged_Frolic%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f8\ns6%3ADeranged_Frolic%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Matutinum_Miserabilis | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ Matutinum_Miserabilis | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Deranged Frolic](./Deranged_Frolic.md)  
-该封面包含的角色：- [尔子田里乃](./尔子田里乃.md)- [丁礼田舞](./丁礼田舞.md)
-
-
-
+- [Deranged Frolic](./Deranged_Frolic.md)该封面包含的角色：
+- [尔子田里乃](./尔子田里乃.md)
+- [丁礼田舞](./丁礼田舞.md)
 
 
 ---

@@ -1,16 +1,11 @@
 # 文件:チョー314banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6c\ns6%3A%E3%83%81%E3%83%A7%E3%83%BC314banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6c\ns6%3A%E3%83%81%E3%83%A7%E3%83%BC314banner%2Epng.html -->
 
 チョー314 | 社团LOGO
 
   
-源地址：[[1]](http://mathirky.com/cd/zmcd01/cho314w.png)
-  
-
-
-
-
+源地址：[\[1\]](http://mathirky.com/cd/zmcd01/cho314w.png)  
 
 ---
 

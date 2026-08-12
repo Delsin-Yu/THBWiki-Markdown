@@ -1,6 +1,6 @@
 # 文件:The_Toho_Project_set_of_旧作_Special_Edit封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\65\ns6%3AThe_Toho_Project_set_of_%E6%97%A7%E4%BD%9C_Special_Edit%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\65\ns6%3AThe_Toho_Project_set_of_%E6%97%A7%E4%BD%9C_Special_Edit%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 自己崩壊性LOGiC
 
@@ -11,12 +11,7 @@
 - [The Toho Project set of 旧作 Special Edit](./The_Toho_Project_set_of_旧作_Special_Edit.md)
 
   
-源地址：[[1]](https://jicohoukaiseilogic.files.wordpress.com/2015/12/jacket.jpg?w=780&amp;h=780)
-  
-
-
-
-
+源地址：[\[1\]](https://jicohoukaiseilogic.files.wordpress.com/2015/12/jacket.jpg?w=780&h=780)  
 
 ---
 

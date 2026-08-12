@@ -1,14 +1,11 @@
 # 文件:幻想Narrato_Graph（玄武涧）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8d\ns6%3A%E5%B9%BB%E6%83%B3Narrato_Graph%EF%BC%88%E7%8E%84%E6%AD%A6%E6%B6%A7%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8d\ns6%3A%E5%B9%BB%E6%83%B3Narrato_Graph%EF%BC%88%E7%8E%84%E6%AD%A6%E6%B6%A7%EF%BC%89%2Ejpg.html -->
 
 幻想Narrato_Graph
 
 
 ## 摘要
-
-
-
 
 ---
 

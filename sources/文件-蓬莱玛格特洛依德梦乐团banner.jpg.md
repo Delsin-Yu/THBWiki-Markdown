@@ -1,12 +1,8 @@
 # 文件:蓬莱玛格特洛依德梦乐团banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ae\ns6%3A%E8%93%AC%E8%8E%B1%E7%8E%9B%E6%A0%BC%E7%89%B9%E6%B4%9B%E4%BE%9D%E5%BE%B7%E6%A2%A6%E4%B9%90%E5%9B%A2banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ae\ns6%3A%E8%93%AC%E8%8E%B1%E7%8E%9B%E6%A0%BC%E7%89%B9%E6%B4%9B%E4%BE%9D%E5%BE%B7%E6%A2%A6%E4%B9%90%E5%9B%A2banner%2Ejpg.html -->
 
 社团LOGO | 蓬莱玛格特洛依德梦乐团
-
-
-
-
 
 
 ---

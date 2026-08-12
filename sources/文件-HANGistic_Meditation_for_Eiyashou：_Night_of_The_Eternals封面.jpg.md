@@ -1,6 +1,6 @@
 # 文件:HANGistic_Meditation_for_Eiyashou：_Night_of_The_Eternals封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\df\ns6%3AHANGistic_Meditation_for_Eiyashou%EF%BC%9A_Night_of_The_Eternals%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\df\ns6%3AHANGistic_Meditation_for_Eiyashou%EF%BC%9A_Night_of_The_Eternals%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Erica-Angelina_Kanarska-Sabat | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ Erica-Angelina_Kanarska-Sabat | 专辑封面 | 封面图片
   
 
 - [HANGistic Meditation for Eiyashou： Night of The Eternals](./HANGistic_Meditation_for_Eiyashou：_Night_of_The_Eternals.md)
-
-
-
 
 
 ---

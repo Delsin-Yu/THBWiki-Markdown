@@ -1,12 +1,8 @@
 # 文件:味玉定食_banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a1\ns6%3A%E5%91%B3%E7%8E%89%E5%AE%9A%E9%A3%9F_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a1\ns6%3A%E5%91%B3%E7%8E%89%E5%AE%9A%E9%A3%9F_banner%2Ejpg.html -->
 
 味玉定食 | 社团LOGO
-
-
-
-
 
 
 ---

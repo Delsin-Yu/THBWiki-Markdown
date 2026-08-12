@@ -1,14 +1,11 @@
 # 文件:光物「Brilliant_Shimesaba」（黄昏酒场）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\13\ns6%3A%E5%85%89%E7%89%A9%E3%80%8CBrilliant_Shimesaba%E3%80%8D%EF%BC%88%E9%BB%84%E6%98%8F%E9%85%92%E5%9C%BA%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\13\ns6%3A%E5%85%89%E7%89%A9%E3%80%8CBrilliant_Shimesaba%E3%80%8D%EF%BC%88%E9%BB%84%E6%98%8F%E9%85%92%E5%9C%BA%EF%BC%89%2Epng.html -->
 
 敌机符卡 | 甘粕·巴里·天治 | 黄昏酒场
 
 
 ## 文件说明
-
-
-
 
 ---
 

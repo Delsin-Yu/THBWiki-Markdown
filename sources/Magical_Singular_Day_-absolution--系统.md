@@ -1,13 +1,11 @@
 # Magical_Singular_Day_-absolution-/系统
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\67\ns0%3AMagical_Singular_Day_-absolution-%2F%E7%B3%BB%E7%BB%9F.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\67\ns0%3AMagical_Singular_Day_-absolution-%2F%E7%B3%BB%E7%BB%9F.html -->
 
 リデラ
 
   
-[我忘了搬运了……](https://tieba.baidu.com/p/3074232101)
-  
-
+[我忘了搬运了……](https://tieba.baidu.com/p/3074232101)  
 
 ## 目录
 
@@ -17,20 +15,16 @@
 - [4 画面要素](#画面要素)
 - [5 机体说明](#机体说明)
 - [6 关卡内容](#关卡内容)
-
   - [6.1 道中](#道中)
   - [6.2 boss战](#boss战)
 
 
-
 - [7 资源奖励](#资源奖励)
 - [8 Burst系统](#Burst系统)
-
   - [8.1 Burst Cancel和Burst Recharge](#Burst_Cancel和Burst_Recharge)
   - [8.2 Burst Rank](#Burst_Rank)
   - [8.3 击返弹](#击返弹)
   - [8.4 Rush槽和Rush Burst](#Rush槽和Rush_Burst)
-
 
 
 - [9 通关结算](#通关结算)
@@ -38,29 +32,22 @@
 - [11 注释](#注释)
 
 
-
-
-
 ## 脚本选择
-[](./文件-Magical_Singular_Day_-absolution-系统说明1.jpg.md)
+<img alt="Magical Singular Day -absolution-系统说明1.jpg" src="https://upload.thwiki.cc/thumb/b/b0/Magical_Singular_Day_-absolution-%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E1.jpg/200px-Magical_Singular_Day_-absolution-%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E1.jpg" decoding="async" loading="lazy" width="200" height="27" srcset="https://upload.thwiki.cc/thumb/b/b0/Magical_Singular_Day_-absolution-%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E1.jpg/300px-Magical_Singular_Day_-absolution-%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E1.jpg 1.5x, https://upload.thwiki.cc/thumb/b/b0/Magical_Singular_Day_-absolution-%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E1.jpg/400px-Magical_Singular_Day_-absolution-%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E1.jpg 2x" data-file-width="474" data-file-height="64">
   
 ① 白符【初期化】：通过这个脚本可以将所有游戏记录清空。  
 
 ② Freemode：该模式下可以选择弹幕风脚本内的所有机体来进行游戏。有单独的游戏系统。[^cite_note-1]  
-
   
-
-[](./文件-Magical_Singular_Day_-absolution-系统说明2.jpg.md)
+<img alt="Magical Singular Day -absolution-系统说明2.jpg" src="https://upload.thwiki.cc/thumb/0/0e/Magical_Singular_Day_-absolution-%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E2.jpg/200px-Magical_Singular_Day_-absolution-%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E2.jpg" decoding="async" loading="lazy" width="200" height="72" srcset="https://upload.thwiki.cc/thumb/0/0e/Magical_Singular_Day_-absolution-%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E2.jpg/300px-Magical_Singular_Day_-absolution-%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E2.jpg 1.5x, https://upload.thwiki.cc/thumb/0/0e/Magical_Singular_Day_-absolution-%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E2.jpg/400px-Magical_Singular_Day_-absolution-%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E2.jpg 2x" data-file-width="550" data-file-height="199">
   
 ③ 正常的游戏，该模式下有三个限定的机体可以选择。进入的是正常的游戏流程。一般来说ALL也指用该脚本完成游戏。用Freemode则对应机体要说明一下。  
 
 进入脚本③之后，将会看到图2，第一个高亮状态下的是进行游戏，进入之后可以选择机体（后介绍），之后即可开始游戏。下方一排是该脚本对应的Replay，选择则可以观看Replay。
   
 
-
-
 ## 菜单界面
-[](./文件-Magical_Singular_Day_-absolution-系统说明3.jpg.md)
+<img alt="Magical Singular Day -absolution-系统说明3.jpg" src="https://upload.thwiki.cc/thumb/a/a1/Magical_Singular_Day_-absolution-%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E3.jpg/200px-Magical_Singular_Day_-absolution-%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E3.jpg" decoding="async" loading="lazy" width="200" height="188" srcset="https://upload.thwiki.cc/thumb/a/a1/Magical_Singular_Day_-absolution-%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E3.jpg/300px-Magical_Singular_Day_-absolution-%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E3.jpg 1.5x, https://upload.thwiki.cc/a/a1/Magical_Singular_Day_-absolution-%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E3.jpg 2x" data-file-width="337" data-file-height="317">
   
 ① Game Start：进入后选择难度后开始。  
 
@@ -73,10 +60,7 @@
 ⑤ Light Config：可以设置游戏的视觉效果。  
 
 ⑥ Quit：退出  
-
   
-
-
 
 ## 基本操作
   
@@ -97,10 +81,9 @@ Bomb/取消：X
 暂停选单：Esc
   
 
-
 ## 画面要素
-[](./文件-Magical_Singular_Day_-absolution-系统说明4.jpg.md)
-[](./文件-Magical_Singular_Day_-absolution-系统说明5.jpg.md)
+<img alt="Magical Singular Day -absolution-系统说明4.jpg" src="https://upload.thwiki.cc/thumb/7/75/Magical_Singular_Day_-absolution-%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E4.jpg/200px-Magical_Singular_Day_-absolution-%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E4.jpg" decoding="async" loading="lazy" width="200" height="149" srcset="https://upload.thwiki.cc/thumb/7/75/Magical_Singular_Day_-absolution-%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E4.jpg/300px-Magical_Singular_Day_-absolution-%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E4.jpg 1.5x, https://upload.thwiki.cc/thumb/7/75/Magical_Singular_Day_-absolution-%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E4.jpg/400px-Magical_Singular_Day_-absolution-%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E4.jpg 2x" data-file-width="548" data-file-height="409">
+<img alt="Magical Singular Day -absolution-系统说明5.jpg" src="https://upload.thwiki.cc/thumb/a/a8/Magical_Singular_Day_-absolution-%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E5.jpg/200px-Magical_Singular_Day_-absolution-%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E5.jpg" decoding="async" loading="lazy" width="200" height="234" srcset="https://upload.thwiki.cc/thumb/a/a8/Magical_Singular_Day_-absolution-%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E5.jpg/300px-Magical_Singular_Day_-absolution-%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E5.jpg 1.5x, https://upload.thwiki.cc/a/a8/Magical_Singular_Day_-absolution-%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E5.jpg 2x" data-file-width="386" data-file-height="452">
   
 ① 当前难度  
 
@@ -133,8 +116,6 @@ Bomb/取消：X
 ⑮ 魔法碎片（Magic Fragment）
   
 
-
-
 ## 机体说明
 
 ## 关卡内容
@@ -158,12 +139,7 @@ Bomb/取消：X
 ## 通关结算
 
 ## 其他
-
 [^cite_note-1]: 待补充
-
-
-
-
 
 ---
 

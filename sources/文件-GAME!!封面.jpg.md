@@ -1,6 +1,6 @@
 # 文件:GAME!!封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\74\ns6%3AGAME%21%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\74\ns6%3AGAME%21%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Like_a_rabbit | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ Like_a_rabbit | 专辑封面 | 封面图片
   
 
 - [GAME!!](./GAME!!.md)
-
-
-
 
 
 ---

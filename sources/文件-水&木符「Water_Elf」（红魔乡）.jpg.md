@@ -1,12 +1,8 @@
 # 文件:水&木符「Water_Elf」（红魔乡）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e8\ns6%3A%E6%B0%B4%26%E6%9C%A8%E7%AC%A6%E3%80%8CWater_Elf%E3%80%8D%EF%BC%88%E7%BA%A2%E9%AD%94%E4%B9%A1%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e8\ns6%3A%E6%B0%B4%26%E6%9C%A8%E7%AC%A6%E3%80%8CWater_Elf%E3%80%8D%EF%BC%88%E7%BA%A2%E9%AD%94%E4%B9%A1%EF%BC%89%2Ejpg.html -->
 
 东方红魔乡 | 帕秋莉·诺蕾姬 | 敌机符卡
-
-
-
-
 
 
 ---

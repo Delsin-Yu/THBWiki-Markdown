@@ -1,14 +1,11 @@
 # 文件:狐梦想屋banner2.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7c\ns6%3A%E7%8B%90%E6%A2%A6%E6%83%B3%E5%B1%8Bbanner2%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7c\ns6%3A%E7%8B%90%E6%A2%A6%E6%83%B3%E5%B1%8Bbanner2%2Egif.html -->
 
 狐梦想屋 | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

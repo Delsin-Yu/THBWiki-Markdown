@@ -1,6 +1,6 @@
 # 文件:The_answer_is_9封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ad\ns6%3AThe_answer_is_9%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ad\ns6%3AThe_answer_is_9%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ノーストリリア | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [The answer is 9](./The_answer_is_9.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)
+- [The answer is 9](./The_answer_is_9.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
 
   
-源地址：[[1]](https://soundcloud.com/nofuture_nolife1025/51a-1stdemo-cd-the-answer-is)
-  
-
-
-
-
+源地址：[\[1\]](https://soundcloud.com/nofuture_nolife1025/51a-1stdemo-cd-the-answer-is)  
 
 ---
 

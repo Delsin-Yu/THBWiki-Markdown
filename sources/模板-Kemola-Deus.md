@@ -1,16 +1,12 @@
 # 模板:Kemola-Deus
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\4\44\ns10%3AKemola-Deus.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\4\44\ns10%3AKemola-Deus.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

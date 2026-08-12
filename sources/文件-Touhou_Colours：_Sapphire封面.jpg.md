@@ -1,6 +1,6 @@
 # 文件:Touhou_Colours：_Sapphire封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\65\ns6%3ATouhou_Colours%EF%BC%9A_Sapphire%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\65\ns6%3ATouhou_Colours%EF%BC%9A_Sapphire%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Chroma_Sounds | 专辑封面 | 封面图片
 
@@ -13,12 +13,7 @@ Chroma_Sounds | 专辑封面 | 封面图片
 - [Touhou Colours： Sapphire](./Touhou_Colours：_Sapphire.md)
 
   
-源地址：[direct image link](https://cdn.dizzylab.net/media/cover/THCL01.jpg), [source page (Dizzylab)](https://www.dizzylab.net/d/THCL01)
-  
-
-
-
-
+源地址：[direct image link](https://cdn.dizzylab.net/media/cover/THCL01.jpg), [source page (Dizzylab)](https://www.dizzylab.net/d/THCL01)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:デジフラ_CARNIVAL封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7f\ns6%3A%E3%83%87%E3%82%B8%E3%83%95%E3%83%A9_CARNIVAL%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7f\ns6%3A%E3%83%87%E3%82%B8%E3%83%95%E3%83%A9_CARNIVAL%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 DiGiTAL_WiNG | THE_OTHER_FLOWER | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ DiGiTAL_WiNG | THE_OTHER_FLOWER | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [デジフラ CARNIVAL](./デジフラ_CARNIVAL.md)  
-该封面包含的角色：- 原创角色 (未找到链接)
-
-
-
+- [デジフラ CARNIVAL](./デジフラ_CARNIVAL.md)该封面包含的角色：
+- 原创角色 (未找到链接)
 
 
 ---

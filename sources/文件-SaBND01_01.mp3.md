@@ -1,12 +1,8 @@
 # 文件:SaBND01_01.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7d\ns6%3ASaBND01_01%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7d\ns6%3ASaBND01_01%2Emp3.html -->
 
 东方三月精_～_Strange_and_Bright_Nature_Deity. | 原曲MP3 | 桑尼米尔克的红雾异变
-
-
-
-
 
 
 ---

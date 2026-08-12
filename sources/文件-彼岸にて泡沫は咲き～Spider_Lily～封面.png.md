@@ -1,6 +1,6 @@
 # 文件:彼岸にて泡沫は咲き～Spider_Lily～封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fc\ns6%3A%E5%BD%BC%E5%B2%B8%E3%81%AB%E3%81%A6%E6%B3%A1%E6%B2%AB%E3%81%AF%E5%92%B2%E3%81%8D%EF%BD%9ESpider_Lily%EF%BD%9E%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fc\ns6%3A%E5%BD%BC%E5%B2%B8%E3%81%AB%E3%81%A6%E6%B3%A1%E6%B2%AB%E3%81%AF%E5%92%B2%E3%81%8D%EF%BD%9ESpider_Lily%EF%BD%9E%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Squall_Of_Scream | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ Squall_Of_Scream | 专辑封面 | 封面图片
   
 
 - [彼岸にて泡沫は咲き～Spider Lily～](./彼岸にて泡沫は咲き～Spider_Lily～.md)
-
-
-
 
 
 ---

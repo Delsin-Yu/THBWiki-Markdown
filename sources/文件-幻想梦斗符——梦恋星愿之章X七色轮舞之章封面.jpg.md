@@ -1,6 +1,6 @@
 # 文件:幻想梦斗符——梦恋星愿之章X七色轮舞之章封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\92\ns6%3A%E5%B9%BB%E6%83%B3%E6%A2%A6%E6%96%97%E7%AC%A6%E2%80%94%E2%80%94%E6%A2%A6%E6%81%8B%E6%98%9F%E6%84%BF%E4%B9%8B%E7%AB%A0X%E4%B8%83%E8%89%B2%E8%BD%AE%E8%88%9E%E4%B9%8B%E7%AB%A0%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\92\ns6%3A%E5%B9%BB%E6%83%B3%E6%A2%A6%E6%96%97%E7%AC%A6%E2%80%94%E2%80%94%E6%A2%A6%E6%81%8B%E6%98%9F%E6%84%BF%E4%B9%8B%E7%AB%A0X%E4%B8%83%E8%89%B2%E8%BD%AE%E8%88%9E%E4%B9%8B%E7%AB%A0%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 丝风（ProjectZephyr） | 封面图片 | 软件封面
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [幻想梦斗符——梦恋星愿之章X七色轮舞之章](./幻想梦斗符——梦恋星愿之章X七色轮舞之章.md)  
-该封面包含的角色：- [东风谷早苗](./东风谷早苗.md)
-
-
-
+- [幻想梦斗符——梦恋星愿之章X七色轮舞之章](./幻想梦斗符——梦恋星愿之章X七色轮舞之章.md)该封面包含的角色：
+- [东风谷早苗](./东风谷早苗.md)
 
 
 ---

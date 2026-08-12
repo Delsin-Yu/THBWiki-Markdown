@@ -1,6 +1,6 @@
 # 文件:EUROBEAT_FESTIVAL_VOL.19封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ef\ns6%3AEUROBEAT_FESTIVAL_VOL%2E19%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ef\ns6%3AEUROBEAT_FESTIVAL_VOL%2E19%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 SuganoMusic | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ SuganoMusic | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [EUROBEAT FESTIVAL VOL.19](./EUROBEAT_FESTIVAL_VOL.19.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [EUROBEAT FESTIVAL VOL.19](./EUROBEAT_FESTIVAL_VOL.19.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

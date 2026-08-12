@@ -1,12 +1,8 @@
 # 文件:se_boon00.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\17\ns6%3Ase_boon00%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\17\ns6%3Ase_boon00%2Emp3.html -->
 
 游戏音效
-
-
-
-
 
 
 ---

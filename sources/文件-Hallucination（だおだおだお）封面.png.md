@@ -1,6 +1,6 @@
 # 文件:Hallucination（だおだおだお）封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9f\ns6%3AHallucination%EF%BC%88%E3%81%A0%E3%81%8A%E3%81%A0%E3%81%8A%E3%81%A0%E3%81%8A%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9f\ns6%3AHallucination%EF%BC%88%E3%81%A0%E3%81%8A%E3%81%A0%E3%81%8A%E3%81%A0%E3%81%8A%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 だおだおだお | 同人志封面 | 封面图片
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [Hallucination（だおだおだお）](./Hallucination（だおだおだお）.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
-
-
-
+- [Hallucination（だおだおだお）](./Hallucination（だおだおだお）.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
 
 ---

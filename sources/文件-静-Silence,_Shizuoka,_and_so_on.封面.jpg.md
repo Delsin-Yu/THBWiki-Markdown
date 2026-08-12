@@ -1,6 +1,6 @@
 # 文件:静-Silence,_Shizuoka,_and_so_on.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\32\ns6%3A%E9%9D%99-Silence%2C_Shizuoka%2C_and_so_on%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\32\ns6%3A%E9%9D%99-Silence%2C_Shizuoka%2C_and_so_on%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ふーせんがくだん | 同人志封面 | 封面图片
 
@@ -10,16 +10,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [静-Silence, Shizuoka, and so on.](./静-Silence,_Shizuoka,_and_so_on..md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
+- [静-Silence, Shizuoka, and so on.](./静-Silence,_Shizuoka,_and_so_on..md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
   
-源地址：[direct image link (original uploaded image)](https://pbs.twimg.com/media/Ew5TW2bUYAIAPgV?format=jpg&amp;name=orig), [source tweet](https://twitter.com/puwawagawa/status/1373126591119650816)
-  
-
-
-
-
+源地址：[direct image link (original uploaded image)](https://pbs.twimg.com/media/Ew5TW2bUYAIAPgV?format=jpg&name=orig), [source tweet](https://twitter.com/puwawagawa/status/1373126591119650816)  
 
 ---
 

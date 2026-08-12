@@ -1,12 +1,8 @@
 # 文件:特殊装甲隊banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b3\ns6%3A%E7%89%B9%E6%AE%8A%E8%A3%85%E7%94%B2%E9%9A%8Abanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b3\ns6%3A%E7%89%B9%E6%AE%8A%E8%A3%85%E7%94%B2%E9%9A%8Abanner%2Ejpg.html -->
 
 特殊装甲隊 | 社团LOGO
-
-
-
-
 
 
 ---

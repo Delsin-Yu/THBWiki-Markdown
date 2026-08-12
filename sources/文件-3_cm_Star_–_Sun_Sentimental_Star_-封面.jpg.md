@@ -1,6 +1,6 @@
 # 文件:3_cm_Star_–_Sun_Sentimental_Star_-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2c\ns6%3A3_cm_Star_%E2%80%93_Sun_Sentimental_Star_-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2c\ns6%3A3_cm_Star_%E2%80%93_Sun_Sentimental_Star_-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 18sbunny | 同人志封面 | 封面图片
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [3 cm Star – Sun Sentimental Star -](./3_cm_Star_–_Sun_Sentimental_Star_-.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
+- [3 cm Star – Sun Sentimental Star -](./3_cm_Star_–_Sun_Sentimental_Star_-.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-[Pixiv Artwork ID: 37668153](https://i.pximg.net/img-master/img/2013/08/09/05/19/08/37668153_p0_master1200.jpg)
-  
-
-
-
-
+[Pixiv Artwork ID: 37668153](https://i.pximg.net/img-master/img/2013/08/09/05/19/08/37668153_p0_master1200.jpg)  
 
 ---
 

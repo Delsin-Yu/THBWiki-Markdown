@@ -1,14 +1,11 @@
 # 文件:てんてん堂banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\50\ns6%3A%E3%81%A6%E3%82%93%E3%81%A6%E3%82%93%E5%A0%82banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\50\ns6%3A%E3%81%A6%E3%82%93%E3%81%A6%E3%82%93%E5%A0%82banner%2Egif.html -->
 
 てんてん堂 | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

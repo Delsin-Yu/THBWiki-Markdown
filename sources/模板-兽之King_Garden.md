@@ -1,16 +1,12 @@
 # 模板:兽之King_Garden
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\1\1d\ns10%3A%E5%85%BD%E4%B9%8BKing_Garden.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\1\1d\ns10%3A%E5%85%BD%E4%B9%8BKing_Garden.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

@@ -1,12 +1,8 @@
 # 文件:次元怪兽LOGO3.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c5\ns6%3A%E6%AC%A1%E5%85%83%E6%80%AA%E5%85%BDLOGO3%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c5\ns6%3A%E6%AC%A1%E5%85%83%E6%80%AA%E5%85%BDLOGO3%2Ejpg.html -->
 
 次元怪兽 | 社团LOGO
-
-
-
-
 
 
 ---

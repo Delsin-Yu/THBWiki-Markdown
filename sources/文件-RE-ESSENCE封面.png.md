@@ -1,6 +1,6 @@
 # 文件:RE-ESSENCE封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6b\ns6%3ARE-ESSENCE%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6b\ns6%3ARE-ESSENCE%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Sound_Online | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ Sound_Online | 专辑封面 | 封面图片
   
 
 - [RE-ESSENCE](./RE-ESSENCE.md)
-
-
-
 
 
 ---

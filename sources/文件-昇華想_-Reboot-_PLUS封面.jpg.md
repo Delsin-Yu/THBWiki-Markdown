@@ -1,6 +1,6 @@
 # 文件:昇華想_"Reboot"_PLUS封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\eb\ns6%3A%E6%98%87%E8%8F%AF%E6%83%B3_%22Reboot%22_PLUS%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\eb\ns6%3A%E6%98%87%E8%8F%AF%E6%83%B3_%22Reboot%22_PLUS%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 CODE-49 | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ CODE-49 | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [昇華想 "Reboot" PLUS](./昇華想_-Reboot-_PLUS.md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)
+- [昇華想 "Reboot" PLUS](./昇華想_-Reboot-_PLUS.md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
 
   
-源地址：[[1]](http://lv4.gozaru.jp/imgre2/jacket01.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://lv4.gozaru.jp/imgre2/jacket01.jpg)  
 
 ---
 

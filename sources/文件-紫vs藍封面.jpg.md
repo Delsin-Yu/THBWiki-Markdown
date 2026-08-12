@@ -1,6 +1,6 @@
 # 文件:紫vs藍封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\39\ns6%3A%E7%B4%ABvs%E8%97%8D%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\39\ns6%3A%E7%B4%ABvs%E8%97%8D%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 徒歩二分
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [紫vs藍](./紫vs藍.md)  
-该封面包含的角色：- [八云蓝](./八云蓝.md)- [八云紫](./八云紫.md)
-
-
-
+- [紫vs藍](./紫vs藍.md)该封面包含的角色：
+- [八云蓝](./八云蓝.md)
+- [八云紫](./八云紫.md)
 
 
 ---

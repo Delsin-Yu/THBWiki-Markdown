@@ -1,6 +1,6 @@
 # 文件:たのしいぬえちゃん合同誌_さんかくUFO封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a8\ns6%3A%E3%81%9F%E3%81%AE%E3%81%97%E3%81%84%E3%81%AC%E3%81%88%E3%81%A1%E3%82%83%E3%82%93%E5%90%88%E5%90%8C%E8%AA%8C_%E3%81%95%E3%82%93%E3%81%8B%E3%81%8FUFO%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a8\ns6%3A%E3%81%9F%E3%81%AE%E3%81%97%E3%81%84%E3%81%AC%E3%81%88%E3%81%A1%E3%82%83%E3%82%93%E5%90%88%E5%90%8C%E8%AA%8C_%E3%81%95%E3%82%93%E3%81%8B%E3%81%8FUFO%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 あさつき堂 | ふすま喫茶 | オムチキン | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [たのしいぬえちゃん合同誌 さんかくUFO](./たのしいぬえちゃん合同誌_さんかくUFO.md)  
-该封面包含的角色：- [封兽鵺](./封兽鵺.md)
-
-
-
+- [たのしいぬえちゃん合同誌 さんかくUFO](./たのしいぬえちゃん合同誌_さんかくUFO.md)该封面包含的角色：
+- [封兽鵺](./封兽鵺.md)
 
 
 ---

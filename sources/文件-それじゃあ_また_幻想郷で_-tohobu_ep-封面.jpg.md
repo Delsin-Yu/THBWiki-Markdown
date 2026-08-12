@@ -1,6 +1,6 @@
 # 文件:それじゃあ_また_幻想郷で_-tohobu_ep-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\49\ns6%3A%E3%81%9D%E3%82%8C%E3%81%98%E3%82%83%E3%81%82_%E3%81%BE%E3%81%9F_%E5%B9%BB%E6%83%B3%E9%83%B7%E3%81%A7_-tohobu_ep-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\49\ns6%3A%E3%81%9D%E3%82%8C%E3%81%98%E3%82%83%E3%81%82_%E3%81%BE%E3%81%9F_%E5%B9%BB%E6%83%B3%E9%83%B7%E3%81%A7_-tohobu_ep-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ついったー東方部 | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [それじゃあ また 幻想郷で -tohobu ep-](./それじゃあ_また_幻想郷で_-tohobu_ep-.md)  
-该封面包含的角色：- [红美铃](./红美铃.md)- 十六夜咲夜 (未找到链接)
-
-
-
+- [それじゃあ また 幻想郷で -tohobu ep-](./それじゃあ_また_幻想郷で_-tohobu_ep-.md)该封面包含的角色：
+- [红美铃](./红美铃.md)
+- [十六夜咲夜](./十六夜咲夜.md)
 
 
 ---

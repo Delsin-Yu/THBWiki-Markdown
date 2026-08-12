@@ -1,6 +1,6 @@
 # 文件:IF東方_～XX年後の幻想郷～_5封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\03\ns6%3AIF%E6%9D%B1%E6%96%B9_%EF%BD%9EXX%E5%B9%B4%E5%BE%8C%E3%81%AE%E5%B9%BB%E6%83%B3%E9%83%B7%EF%BD%9E_5%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\03\ns6%3AIF%E6%9D%B1%E6%96%B9_%EF%BD%9EXX%E5%B9%B4%E5%BE%8C%E3%81%AE%E5%B9%BB%E6%83%B3%E9%83%B7%EF%BD%9E_5%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 同人志封面 | 封面图片 | 柚子桃ジャム
 
@@ -8,16 +8,13 @@
 使用了本文件作封面图片的作品：
   
 
-- [IF東方 ～XX年後の幻想郷～ 5](./IF東方_～XX年後の幻想郷～_5.md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)- [本居小铃](./本居小铃.md)- 原创角色 (未找到链接)
+- [IF東方 ～XX年後の幻想郷～ 5](./IF東方_～XX年後の幻想郷～_5.md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
+- [本居小铃](./本居小铃.md)
+- 原创角色 (未找到链接)
 
   
-源地址：[[1]](http://1.bp.blogspot.com/-QPzFsw745cY/UmU4oGURR3I/AAAAAAAAA_g/yBfDatTp-zU/s1600/%E8%83%8C%E5%B9%851.5mm%E8%A1%A8%E7%B4%99txt%E7%B5%90%E5%90%88.png)
-  
-
-
-
-
+源地址：[\[1\]](http://1.bp.blogspot.com/-QPzFsw745cY/UmU4oGURR3I/AAAAAAAAA_g/yBfDatTp-zU/s1600/%E8%83%8C%E5%B9%851.5mm%E8%A1%A8%E7%B4%99txt%E7%B5%90%E5%90%88.png)  
 
 ---
 

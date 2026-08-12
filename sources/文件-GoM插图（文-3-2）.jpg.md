@@ -1,12 +1,8 @@
 # 文件:GoM插图（文-3-2）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\09\ns6%3AGoM%E6%8F%92%E5%9B%BE%EF%BC%88%E6%96%87-3-2%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\09\ns6%3AGoM%E6%8F%92%E5%9B%BE%EF%BC%88%E6%96%87-3-2%EF%BC%89%2Ejpg.html -->
 
 射命丸文 | 魔理沙的魔法书
-
-
-
-
 
 
 ---

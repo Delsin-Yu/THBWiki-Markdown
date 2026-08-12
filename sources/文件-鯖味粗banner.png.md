@@ -1,14 +1,11 @@
 # 文件:鯖味粗banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\77\ns6%3A%E9%AF%96%E5%91%B3%E7%B2%97banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\77\ns6%3A%E9%AF%96%E5%91%B3%E7%B2%97banner%2Epng.html -->
 
 社团LOGO | 鯖味粗
 
 
 ## 摘要
-
-
-
 
 ---
 

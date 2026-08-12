@@ -1,6 +1,6 @@
 # 文件:completion!封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1e\ns6%3Acompletion%21%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1e\ns6%3Acompletion%21%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 蒼青藍碧
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [completion!](./completion!.md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)
-
-
-
+- [completion!](./completion!.md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
 
 
 ---

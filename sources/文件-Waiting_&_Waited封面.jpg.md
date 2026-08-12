@@ -1,6 +1,6 @@
 # 文件:Waiting_&_Waited封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dc\ns6%3AWaiting_%26_Waited%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dc\ns6%3AWaiting_%26_Waited%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Twilight~日月之境~ | 同人志封面 | 封面图片
 
@@ -8,11 +8,8 @@ Twilight~日月之境~ | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Waiting &amp; Waited](./Waiting_&_Waited.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
-
-
-
+- [Waiting & Waited](./Waiting_&_Waited.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
 
 
 ---

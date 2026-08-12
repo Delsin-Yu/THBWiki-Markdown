@@ -1,12 +1,8 @@
 # 文件:th09_02_SC88Pro.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\28\ns6%3Ath09_02_SC88Pro%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\28\ns6%3Ath09_02_SC88Pro%2Emp3.html -->
 
 Flowering_Night | 东方花映塚
-
-
-
-
 
 
 ---

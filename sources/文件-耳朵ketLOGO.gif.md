@@ -1,14 +1,11 @@
 # 文件:耳朵ketLOGO.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\19\ns6%3A%E8%80%B3%E6%9C%B5ketLOGO%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\19\ns6%3A%E8%80%B3%E6%9C%B5ketLOGO%2Egif.html -->
 
 活动LOGO | 耳朵ket
 
 
 ## 摘要
-
-
-
 
 ---
 

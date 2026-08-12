@@ -1,6 +1,6 @@
 # 文件:Andromeda封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7b\ns6%3AAndromeda%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7b\ns6%3AAndromeda%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 たんしょくごろも | 同人志封面 | 封面图片
 
@@ -10,16 +10,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [Andromeda](./Andromeda.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
+- [Andromeda](./Andromeda.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
   
-源地址：[direct image link](https://www.suruga-ya.jp/database/pics_light/game/zhore39816.jpg), [source page (suruga-ya ID: ZHORE39816)](https://www.suruga-ya.jp/product/detail/ZHORE39816)
-  
-
-
-
-
+源地址：[direct image link](https://www.suruga-ya.jp/database/pics_light/game/zhore39816.jpg), [source page (suruga-ya ID: ZHORE39816)](https://www.suruga-ya.jp/product/detail/ZHORE39816)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:朝花暮留香_~_Departure,_Fragrant_Conformist.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\86\ns6%3A%E6%9C%9D%E8%8A%B1%E6%9A%AE%E7%95%99%E9%A6%99_%7E_Departure%2C_Fragrant_Conformist%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\86\ns6%3A%E6%9C%9D%E8%8A%B1%E6%9A%AE%E7%95%99%E9%A6%99_%7E_Departure%2C_Fragrant_Conformist%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 梦现彼岸结界社
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [朝花暮留香 ~ Departure, Fragrant Conformist.](./朝花暮留香_~_Departure,_Fragrant_Conformist..md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [朝花暮留香 ~ Departure, Fragrant Conformist.](./朝花暮留香_~_Departure,_Fragrant_Conformist..md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

@@ -1,14 +1,11 @@
 # 文件:朝仓理香子B（梦时空立绘）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\85\ns6%3A%E6%9C%9D%E4%BB%93%E7%90%86%E9%A6%99%E5%AD%90B%EF%BC%88%E6%A2%A6%E6%97%B6%E7%A9%BA%E7%AB%8B%E7%BB%98%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\85\ns6%3A%E6%9C%9D%E4%BB%93%E7%90%86%E9%A6%99%E5%AD%90B%EF%BC%88%E6%A2%A6%E6%97%B6%E7%A9%BA%E7%AB%8B%E7%BB%98%EF%BC%89%2Ejpg.html -->
 
 ZUN绘 | 东方梦时空 | 官方游戏立绘 | 朝仓理香子
 
 
 ## 摘要
-
-
-
 
 ---
 

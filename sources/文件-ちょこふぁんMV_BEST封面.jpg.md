@@ -1,6 +1,6 @@
 # 文件:ちょこふぁんMV_BEST封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d8\ns6%3A%E3%81%A1%E3%82%87%E3%81%93%E3%81%B5%E3%81%81%E3%82%93MV_BEST%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d8\ns6%3A%E3%81%A1%E3%82%87%E3%81%93%E3%81%B5%E3%81%81%E3%82%93MV_BEST%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ちょこふぁん | 专辑封面 | 封面图片
 
@@ -10,11 +10,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [ちょこふぁんMV BEST](./ちょこふぁんMV_BEST.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)- [古明地恋](./古明地恋.md)- [豪德寺三花](./豪德寺三花.md)
-
-
-
+- [ちょこふぁんMV BEST](./ちょこふぁんMV_BEST.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [古明地恋](./古明地恋.md)
+- [豪德寺三花](./豪德寺三花.md)
 
 
 ---

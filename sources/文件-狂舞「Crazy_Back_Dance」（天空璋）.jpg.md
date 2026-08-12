@@ -1,12 +1,8 @@
 # 文件:狂舞「Crazy_Back_Dance」（天空璋）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\43\ns6%3A%E7%8B%82%E8%88%9E%E3%80%8CCrazy_Back_Dance%E3%80%8D%EF%BC%88%E5%A4%A9%E7%A9%BA%E7%92%8B%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\43\ns6%3A%E7%8B%82%E8%88%9E%E3%80%8CCrazy_Back_Dance%E3%80%8D%EF%BC%88%E5%A4%A9%E7%A9%BA%E7%92%8B%EF%BC%89%2Ejpg.html -->
 
 丁礼田舞 | 东方天空璋 | 尔子田里乃 | 敌机符卡
-
-
-
-
 
 
 ---

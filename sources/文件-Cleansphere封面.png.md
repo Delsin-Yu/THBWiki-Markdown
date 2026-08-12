@@ -1,6 +1,6 @@
 # 文件:Cleansphere封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2f\ns6%3ACleansphere%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2f\ns6%3ACleansphere%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 みずあめ屋 | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Cleansphere](./Cleansphere.md)  
-该封面包含的角色：- [蓬莱山辉夜](./蓬莱山辉夜.md)
+- [Cleansphere](./Cleansphere.md)该封面包含的角色：
+- [蓬莱山辉夜](./蓬莱山辉夜.md)
 
   
-源地址：[[1]](http://blog-imgs-42.fc2.com/m/i/z/mizuameya1/huyu-jyake-sss2b.png)
-  
-
-
-
-
+源地址：[\[1\]](http://blog-imgs-42.fc2.com/m/i/z/mizuameya1/huyu-jyake-sss2b.png)  
 
 ---
 

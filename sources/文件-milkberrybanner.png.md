@@ -1,18 +1,13 @@
 # 文件:milkberrybanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3c\ns6%3Amilkberrybanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3c\ns6%3Amilkberrybanner%2Epng.html -->
 
 milkberry | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[direct image link](http://milkberry.com/img/mbbnr.png), [source page](http://milkberry.com/info/)
-  
-
-
-
-
+源地址：[direct image link](http://milkberry.com/img/mbbnr.png), [source page](http://milkberry.com/info/)  
 
 ---
 

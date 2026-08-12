@@ -1,6 +1,6 @@
 # 文件:Absolute_Zero：_Perfect_9封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ec\ns6%3AAbsolute_Zero%EF%BC%9A_Perfect_9%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ec\ns6%3AAbsolute_Zero%EF%BC%9A_Perfect_9%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Violet_Delta | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Violet_Delta | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Absolute Zero： Perfect 9](./Absolute_Zero：_Perfect_9.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)
+- [Absolute Zero： Perfect 9](./Absolute_Zero：_Perfect_9.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
 
   
-源地址：[[1]](https://f4.bcbits.com/img/a3069772459_10.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://f4.bcbits.com/img/a3069772459_10.jpg)  
 
 ---
 

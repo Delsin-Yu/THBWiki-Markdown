@@ -1,12 +1,8 @@
 # 文件:樱华院静（祈华梦立绘）niyaniya.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\83\ns6%3A%E6%A8%B1%E5%8D%8E%E9%99%A2%E9%9D%99%EF%BC%88%E7%A5%88%E5%8D%8E%E6%A2%A6%E7%AB%8B%E7%BB%98%EF%BC%89niyaniya%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\83\ns6%3A%E6%A8%B1%E5%8D%8E%E9%99%A2%E9%9D%99%EF%BC%88%E7%A5%88%E5%8D%8E%E6%A2%A6%E7%AB%8B%E7%BB%98%EF%BC%89niyaniya%2Epng.html -->
 
 OSY搞事组 | 东方祈华梦制作组 | 二次角色立绘 | 樱华院静
-
-
-
-
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:恶灵「Misfortune's_Wheel」（风神录）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\70\ns6%3A%E6%81%B6%E7%81%B5%E3%80%8CMisfortune%27s_Wheel%E3%80%8D%EF%BC%88%E9%A3%8E%E7%A5%9E%E5%BD%95%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\70\ns6%3A%E6%81%B6%E7%81%B5%E3%80%8CMisfortune%27s_Wheel%E3%80%8D%EF%BC%88%E9%A3%8E%E7%A5%9E%E5%BD%95%EF%BC%89%2Ejpg.html -->
 
 东方风神录 | 敌机符卡 | 键山雏
-
-
-
-
 
 
 ---

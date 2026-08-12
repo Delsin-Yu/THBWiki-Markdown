@@ -1,6 +1,6 @@
 # 文件:Demon's_Youmu封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\64\ns6%3ADemon%27s_Youmu%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\64\ns6%3ADemon%27s_Youmu%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 雑草ホリディ
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Demon's Youmu](./Demon's_Youmu.md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)
+- [Demon's Youmu](./Demon's_Youmu.md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
 
   
-[Danbooru ID: 1419009 (original size)](https://danbooru.donmai.us/posts/1419009)
-  
-
-
-
-
+[Danbooru ID: 1419009 (original size)](https://danbooru.donmai.us/posts/1419009)  
 
 ---
 

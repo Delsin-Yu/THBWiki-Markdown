@@ -1,18 +1,13 @@
 # 文件:夜貓館咖啡屋banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c8\ns6%3A%E5%A4%9C%E8%B2%93%E9%A4%A8%E5%92%96%E5%95%A1%E5%B1%8Bbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c8\ns6%3A%E5%A4%9C%E8%B2%93%E9%A4%A8%E5%92%96%E5%95%A1%E5%B1%8Bbanner%2Ejpg.html -->
 
 夜貓館咖啡屋 | 社团LOGO
 
 
 ## 摘要
   
-源地址：[direct image link](https://web.archive.org/web/20111212020545im_/http://yamyoukan.net/YMKlogo.jpg), [source page](https://web.archive.org/web/20080604030627/http://www.chinesenewear.com/wolfenstein/blog/about/)
-  
-
-
-
-
+源地址：[direct image link](https://web.archive.org/web/20111212020545im_/http://yamyoukan.net/YMKlogo.jpg), [source page](https://web.archive.org/web/20080604030627/http://www.chinesenewear.com/wolfenstein/blog/about/)  
 
 ---
 

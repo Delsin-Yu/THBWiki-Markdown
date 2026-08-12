@@ -1,6 +1,6 @@
 # 文件:Snow_Rabbit_Express封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\44\ns6%3ASnow_Rabbit_Express%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\44\ns6%3ASnow_Rabbit_Express%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 TRiANCE_CODE | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ TRiANCE_CODE | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Snow Rabbit Express](./Snow_Rabbit_Express.md)  
-该封面包含的角色：- [因幡帝](./因幡帝.md)
-
-
-
+- [Snow Rabbit Express](./Snow_Rabbit_Express.md)该封面包含的角色：
+- [因幡帝](./因幡帝.md)
 
 
 ---

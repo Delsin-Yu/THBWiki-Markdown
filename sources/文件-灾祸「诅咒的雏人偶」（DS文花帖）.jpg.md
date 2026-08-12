@@ -1,12 +1,8 @@
 # 文件:灾祸「诅咒的雏人偶」（DS文花帖）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4d\ns6%3A%E7%81%BE%E7%A5%B8%E3%80%8C%E8%AF%85%E5%92%92%E7%9A%84%E9%9B%8F%E4%BA%BA%E5%81%B6%E3%80%8D%EF%BC%88DS%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4d\ns6%3A%E7%81%BE%E7%A5%B8%E3%80%8C%E8%AF%85%E5%92%92%E7%9A%84%E9%9B%8F%E4%BA%BA%E5%81%B6%E3%80%8D%EF%BC%88DS%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Ejpg.html -->
 
 东方文花帖DS | 敌机符卡 | 键山雏
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:CHANGE_THE_WORLD（DOLCE_LATTE）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bd\ns6%3ACHANGE_THE_WORLD%EF%BC%88DOLCE_LATTE%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bd\ns6%3ACHANGE_THE_WORLD%EF%BC%88DOLCE_LATTE%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 DOLCE_LATTE | 同人志封面 | 封面图片
 
@@ -10,11 +10,9 @@ DOLCE_LATTE | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [CHANGE THE WORLD（DOLCE LATTE）](./CHANGE_THE_WORLD（DOLCE_LATTE）.md)  
-该封面包含的角色：- [本居小铃](./本居小铃.md)- [稗田阿求](./稗田阿求.md)
-
-
-
+- [CHANGE THE WORLD（DOLCE LATTE）](./CHANGE_THE_WORLD（DOLCE_LATTE）.md)该封面包含的角色：
+- [本居小铃](./本居小铃.md)
+- [稗田阿求](./稗田阿求.md)
 
 
 ---

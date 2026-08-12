@@ -1,16 +1,12 @@
 # 文件:ssg_VIVIT_A_Main.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f1\ns6%3Assg_VIVIT_A_Main%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f1\ns6%3Assg_VIVIT_A_Main%2Epng.html -->
 
 秋霜玉
 
   
 《秋霜玉》机体Wide Shoot的主炮弹幕。
   
-
-
-
-
 
 ---
 

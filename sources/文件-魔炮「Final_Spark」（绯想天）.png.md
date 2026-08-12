@@ -1,12 +1,8 @@
 # 文件:魔炮「Final_Spark」（绯想天）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\ba\ns6%3A%E9%AD%94%E7%82%AE%E3%80%8CFinal_Spark%E3%80%8D%EF%BC%88%E7%BB%AF%E6%83%B3%E5%A4%A9%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\ba\ns6%3A%E9%AD%94%E7%82%AE%E3%80%8CFinal_Spark%E3%80%8D%EF%BC%88%E7%BB%AF%E6%83%B3%E5%A4%A9%EF%BC%89%2Epng.html -->
 
 东方绯想天 | 自机符卡 | 雾雨魔理沙
-
-
-
-
 
 
 ---

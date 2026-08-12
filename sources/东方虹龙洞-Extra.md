@@ -1,18 +1,17 @@
 # 东方虹龙洞/Extra
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\3\37\ns0%3A%E4%B8%9C%E6%96%B9%E8%99%B9%E9%BE%99%E6%B4%9E%2FExtra.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\3\37\ns0%3A%E4%B8%9C%E6%96%B9%E8%99%B9%E9%BE%99%E6%B4%9E%2FExtra.html -->
 
 东方虹龙洞
 
 <center>
-
 <table>
 <tbody><tr>
-<td>&lt;
+<td><
 </td>
-<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./东方虹龙洞-Stage_6.md" title="东方虹龙洞/Stage 6">Stage 6</a>&#160;
+<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./东方虹龙洞-Stage_6.md" title="东方虹龙洞/Stage 6">Stage 6</a> 
 </td>
-<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="/%E7%AC%A6%E5%8D%A1%E5%88%97%E8%A1%A8#东方虹龙洞" title="符卡列表">符卡</a>&#160;
+<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;"> <a href="./符卡列表.md#东方虹龙洞" title="符卡列表">符卡</a> 
 </td>
 <td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left">
 </td>
@@ -21,103 +20,70 @@
 
   
 </center>
-- 本词条内容为官方游戏TH18 **东方虹龙洞** 的敌机符卡
+- 本词条内容为官方游戏TH18**东方虹龙洞**的敌机符卡
 
 
 ## 目录
 
 - [1 菅牧典](#菅牧典)
-
   - [1.1 狐符「Fox Winder」](#狐符「Fox_Winder」)
-
     - [1.1.1 符卡信息](#符卡信息)
 
 
-
   - [1.2 管狐「Cylinder Fox」](#管狐「Cylinder_Fox」)
-
     - [1.2.1 符卡信息](#符卡信息_2)
 
 
-
   - [1.3 星狐「天狐龙星之舞」](#星狐「天狐龙星之舞」)
-
     - [1.3.1 符卡信息](#符卡信息_3)
 
 
 
 
-
-
 - [2 姬虫百百世](#姬虫百百世)
-
   - [2.1 蛊毒「Cannibalistic Insect」](#蛊毒「Cannibalistic_Insect」)
-
     - [2.1.1 符卡信息](#符卡信息_4)
 
 
-
   - [2.2 蛊毒「Cave Swarmer」](#蛊毒「Cave_Swarmer」)
-
     - [2.2.1 符卡信息](#符卡信息_5)
 
 
-
   - [2.3 蛊毒「Sky Pendra」](#蛊毒「Sky_Pendra」)
-
     - [2.3.1 符卡信息](#符卡信息_6)
 
 
-
   - [2.4 采掘「不断累积的矿山废石」](#采掘「不断累积的矿山废石」)
-
     - [2.4.1 符卡信息](#符卡信息_7)
 
 
-
   - [2.5 采掘「Mine Blast」](#采掘「Mine_Blast」)
-
     - [2.5.1 符卡信息](#符卡信息_8)
 
 
-
   - [2.6 采掘「妖怪们的盾构法」](#采掘「妖怪们的盾构法」)
-
     - [2.6.1 符卡信息](#符卡信息_9)
 
 
-
   - [2.7 大蜈蚣「Snake Eater」](#大蜈蚣「Snake_Eater」)
-
     - [2.7.1 符卡信息](#符卡信息_10)
 
 
-
   - [2.8 大蜈蚣「Dragon Eater」](#大蜈蚣「Dragon_Eater」)
-
     - [2.8.1 符卡信息](#符卡信息_11)
 
 
-
   - [2.9 「蛊毒的美食家」](#「蛊毒的美食家」)
-
     - [2.9.1 符卡信息](#符卡信息_12)
 
 
-
   - [2.10 「虫姬殿下的闪耀忙乱的日常」](#「虫姬殿下的闪耀忙乱的日常」)
-
     - [2.10.1 符卡信息](#符卡信息_13)
 
 
 
 
-
-
 - [3 导航](#导航)
-
-
-
 
 
 ## 菅牧典
@@ -140,7 +106,6 @@
 </th></tr></tbody></table>
 
 
-
 #### 符卡信息
 
 <table>
@@ -152,8 +117,6 @@
 <p>Extra面中BOSS<a href="./菅牧典.md" title="菅牧典">菅牧典</a>Extra难度符卡。
 </p>
 </td></tr></tbody></table>
-
-
 
 
 ### 管狐「Cylinder Fox」
@@ -174,7 +137,6 @@
 </th></tr></tbody></table>
 
 
-
 #### 符卡信息
 
 <table>
@@ -186,8 +148,6 @@
 <p>Extra面中BOSS<a href="./菅牧典.md" title="菅牧典">菅牧典</a>Extra难度符卡。
 </p>
 </td></tr></tbody></table>
-
-
 
 
 ### 星狐「天狐龙星之舞」
@@ -208,7 +168,6 @@
 </th></tr></tbody></table>
 
 
-
 #### 符卡信息
 
 <table>
@@ -220,8 +179,6 @@
 <p>Extra面中BOSS<a href="./菅牧典.md" title="菅牧典">菅牧典</a>Extra难度符卡。
 </p>
 </td></tr></tbody></table>
-
-
 
 
 ## 姬虫百百世
@@ -244,7 +201,6 @@
 </th></tr></tbody></table>
 
 
-
 #### 符卡信息
 
 <table>
@@ -256,8 +212,6 @@
 <p>Extra面BOSS<a href="./姬虫百百世.md" title="姬虫百百世">姬虫百百世</a>Extra难度符卡。
 </p>
 </td></tr></tbody></table>
-
-
 
 
 ### 蛊毒「Cave Swarmer」
@@ -278,7 +232,6 @@
 </th></tr></tbody></table>
 
 
-
 #### 符卡信息
 
 <table>
@@ -290,8 +243,6 @@
 <p>Extra面BOSS<a href="./姬虫百百世.md" title="姬虫百百世">姬虫百百世</a>Extra难度符卡。
 </p>
 </td></tr></tbody></table>
-
-
 
 
 ### 蛊毒「Sky Pendra」
@@ -312,7 +263,6 @@
 </th></tr></tbody></table>
 
 
-
 #### 符卡信息
 
 <table>
@@ -324,8 +274,6 @@
 <p>Extra面BOSS<a href="./姬虫百百世.md" title="姬虫百百世">姬虫百百世</a>Extra难度符卡。
 </p>
 </td></tr></tbody></table>
-
-
 
 
 ### 采掘「不断累积的矿山废石」
@@ -346,7 +294,6 @@
 </th></tr></tbody></table>
 
 
-
 #### 符卡信息
 
 <table>
@@ -358,8 +305,6 @@
 <p>Extra面BOSS<a href="./姬虫百百世.md" title="姬虫百百世">姬虫百百世</a>Extra难度符卡。
 </p>
 </td></tr></tbody></table>
-
-
 
 
 ### 采掘「Mine Blast」
@@ -380,7 +325,6 @@
 </th></tr></tbody></table>
 
 
-
 #### 符卡信息
 
 <table>
@@ -392,8 +336,6 @@
 <p>Extra面BOSS<a href="./姬虫百百世.md" title="姬虫百百世">姬虫百百世</a>Extra难度符卡。
 </p>
 </td></tr></tbody></table>
-
-
 
 
 ### 采掘「妖怪们的盾构法」
@@ -414,7 +356,6 @@
 </th></tr></tbody></table>
 
 
-
 #### 符卡信息
 
 <table>
@@ -426,8 +367,6 @@
 <p>Extra面BOSS<a href="./姬虫百百世.md" title="姬虫百百世">姬虫百百世</a>Extra难度符卡。
 </p>
 </td></tr></tbody></table>
-
-
 
 
 ### 大蜈蚣「Snake Eater」
@@ -448,7 +387,6 @@
 </th></tr></tbody></table>
 
 
-
 #### 符卡信息
 
 <table>
@@ -460,8 +398,6 @@
 <p>Extra面BOSS<a href="./姬虫百百世.md" title="姬虫百百世">姬虫百百世</a>Extra难度符卡。
 </p>
 </td></tr></tbody></table>
-
-
 
 
 ### 大蜈蚣「Dragon Eater」
@@ -482,7 +418,6 @@
 </th></tr></tbody></table>
 
 
-
 #### 符卡信息
 
 <table>
@@ -494,8 +429,6 @@
 <p>Extra面BOSS<a href="./姬虫百百世.md" title="姬虫百百世">姬虫百百世</a>Extra难度符卡。
 </p>
 </td></tr></tbody></table>
-
-
 
 
 ### 「蛊毒的美食家」
@@ -516,7 +449,6 @@
 </th></tr></tbody></table>
 
 
-
 #### 符卡信息
 
 <table>
@@ -528,8 +460,6 @@
 <p>Extra面BOSS<a href="./姬虫百百世.md" title="姬虫百百世">姬虫百百世</a>Extra难度符卡。
 </p>
 </td></tr></tbody></table>
-
-
 
 
 ### 「虫姬殿下的闪耀忙乱的日常」
@@ -548,7 +478,6 @@
 <p><a href="./虫姬殿下的闪耀忙乱的日常.md" title="虫姬殿下的闪耀忙乱的日常" unred="">「虫姬殿下的闪耀忙乱的日常」</a>
 </p>
 </th></tr></tbody></table>
-
 
 
 #### 符卡信息
@@ -582,19 +511,6 @@
 <p>Extra面BOSS<a href="./姬虫百百世.md" title="姬虫百百世">姬虫百百世</a>Extra难度符卡。
 </p>
 </td></tr></tbody></table>
-
-
-
-
-## 导航
-  
-  
-
-<table><tbody><tr><td><table cellspacing="0" class="nowraplinks mw-collapsible mw-collapsed" style="width:100%;;;"><tbody><tr><th style=";" colspan="3" class="navbox-title"><div class="navbar"><div class="noprint plainlinksneverexpand" style="background-color:transparent; padding:0; font-weight:normal; font-size:80%; white-space:nowrap;"><a href="./模板-东方虹龙洞导航.md" title="模板:东方虹龙洞导航"><span style=";;border:none;" title="查看这个模板">查</span></a>&#160;<span style="font-size:80%;">•</span>&#160;<a href="/index.php?title=%E6%A8%A1%E6%9D%BF:%E4%B8%9C%E6%96%B9%E8%99%B9%E9%BE%99%E6%B4%9E%E5%AF%BC%E8%88%AA&amp;action=edit"><span style=";;border:none;" title="您可以编辑这个模板。请在储存变更之前先预览">编</span></a></div></div><span><a href="./东方虹龙洞.md" title="东方虹龙洞">东方虹龙洞</a></span></th></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">角色</td><td style=";;" class="navbox-list navbox-odd"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>自机</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a> &#8226; <a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a> &#8226; <a href="/%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C" title="十六夜咲夜">十六夜咲夜</a> &#8226; <a href="./东风谷早苗.md" title="东风谷早苗">东风谷早苗</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>BOSS</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./豪德寺三花.md" title="豪德寺三花">豪德寺三花</a> &#8226; <a href="./山城高岭.md" title="山城高岭">山城高岭</a> &#8226; <a href="./驹草山如.md" title="驹草山如">驹草山如</a> &#8226; <a href="./玉造魅须丸.md" title="玉造魅须丸">玉造魅须丸</a> &#8226; <a href="./菅牧典.md" title="菅牧典">菅牧典</a> &#8226; <a href="./饭纲丸龙.md" title="饭纲丸龙">饭纲丸龙</a> &#8226; <a href="./天弓千亦.md" title="天弓千亦">天弓千亦</a> &#8226; <a href="./姬虫百百世.md" title="姬虫百百世">姬虫百百世</a></div></td></tr></tbody></table><div></div></td><td class="navbox-image" style="" rowspan="13"><a href="./文件-虹龙洞载入界面.png.md" class="image"><img alt="虹龙洞载入界面.png" src="https://upload.thwiki.cc/thumb/8/84/%E8%99%B9%E9%BE%99%E6%B4%9E%E8%BD%BD%E5%85%A5%E7%95%8C%E9%9D%A2.png/160px-%E8%99%B9%E9%BE%99%E6%B4%9E%E8%BD%BD%E5%85%A5%E7%95%8C%E9%9D%A2.png" decoding="async" loading="lazy" width="160" height="120" srcset="https://upload.thwiki.cc/thumb/8/84/%E8%99%B9%E9%BE%99%E6%B4%9E%E8%BD%BD%E5%85%A5%E7%95%8C%E9%9D%A2.png/240px-%E8%99%B9%E9%BE%99%E6%B4%9E%E8%BD%BD%E5%85%A5%E7%95%8C%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/8/84/%E8%99%B9%E9%BE%99%E6%B4%9E%E8%BD%BD%E5%85%A5%E7%95%8C%E9%9D%A2.png/320px-%E8%99%B9%E9%BE%99%E6%B4%9E%E8%BD%BD%E5%85%A5%E7%95%8C%E9%9D%A2.png 2x" data-file-width="1280" data-file-height="960"></a></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">剧情</td><td style=";;" class="navbox-list navbox-even"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>剧情文本</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="/%E9%99%84%E5%B8%A6%E6%96%87%E6%A1%A3:%E4%B8%9C%E6%96%B9%E8%99%B9%E9%BE%99%E6%B4%9E/%E6%B8%B8%E6%88%8F%E5%86%85Manual#=-3" title="附带文档:东方虹龙洞/游戏内Manual" unred="">故事背景</a> &#8226; <a href="/%E9%99%84%E5%B8%A6%E6%96%87%E6%A1%A3:%E4%B8%9C%E6%96%B9%E8%99%B9%E9%BE%99%E6%B4%9E/Omake#Extra_Story" title="附带文档:东方虹龙洞/Omake">EX 故事背景</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>游戏对话&amp;结局</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./游戏对话-东方虹龙洞-博丽灵梦.md" title="游戏对话:东方虹龙洞/博丽灵梦">博丽灵梦</a> &#8226; <a href="./游戏对话-东方虹龙洞-雾雨魔理沙.md" title="游戏对话:东方虹龙洞/雾雨魔理沙">雾雨魔理沙</a> &#8226; <a href="./游戏对话-东方虹龙洞-十六夜咲夜.md" title="游戏对话:东方虹龙洞/十六夜咲夜">十六夜咲夜</a> &#8226; <a href="./游戏对话-东方虹龙洞-东风谷早苗.md" title="游戏对话:东方虹龙洞/东风谷早苗">东风谷早苗</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>Ex游戏对话</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./游戏对话-东方虹龙洞-博丽灵梦_ExStory.md" title="游戏对话:东方虹龙洞/博丽灵梦 ExStory">博丽灵梦</a> &#8226; <a href="./游戏对话-东方虹龙洞-雾雨魔理沙_ExStory.md" title="游戏对话:东方虹龙洞/雾雨魔理沙 ExStory">雾雨魔理沙</a> &#8226; <a href="./游戏对话-东方虹龙洞-十六夜咲夜_ExStory.md" title="游戏对话:东方虹龙洞/十六夜咲夜 ExStory">十六夜咲夜</a> &#8226; <a href="./游戏对话-东方虹龙洞-东风谷早苗_ExStory.md" title="游戏对话:东方虹龙洞/东风谷早苗 ExStory">东风谷早苗</a></div></td></tr></tbody></table><div></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">场景</td><td style=";;" class="navbox-list navbox-odd"><div><a href="./妖怪之山.md" title="妖怪之山">妖怪之山山麓</a> &#8226; <a href="./秘天崖.md" title="秘天崖">秘天崖</a> &#8226; <a href="./伪天棚.md" title="伪天棚">伪天棚</a> &#8226; <a href="./虹龙洞（场景）.md" title="虹龙洞（场景）">虹龙洞</a> &#8226; <a href="./妖怪之山.md" title="妖怪之山">妖怪之山山顶</a> &#8226; <a href="/%E5%B9%BB%E6%83%B3%E4%B9%A1%E4%B8%8A%E7%A9%BA#月虹市场" title="幻想乡上空">月虹市场</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">音乐</td><td style=";;" class="navbox-list navbox-even"><div><a href="./东方虹龙洞-Music.md" title="东方虹龙洞/Music">Music Room</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="/%E4%B8%9C%E6%96%B9%E8%99%B9%E9%BE%99%E6%B4%9E#附带文档" title="东方虹龙洞">附带文档</a></td><td style=";;" class="navbox-list navbox-odd"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>体验版</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./附带文档-东方虹龙洞体验版-Omake.md" title="附带文档:东方虹龙洞体验版/Omake">Omake</a> &#8226; <a href="./附带文档-东方虹龙洞体验版-Readme.md" title="附带文档:东方虹龙洞体验版/Readme">Readme</a> &#8226; <a href="./附带文档-东方虹龙洞体验版-游戏内Manual.md" title="附带文档:东方虹龙洞体验版/游戏内Manual">游戏内Manual</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>正式版</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./附带文档-东方虹龙洞-Omake.md" title="附带文档:东方虹龙洞/Omake">Omake</a> &#8226; <a href="./附带文档-东方虹龙洞-Readme.md" title="附带文档:东方虹龙洞/Readme">Readme</a> &#8226; <a href="./附带文档-东方虹龙洞-游戏内Manual.md" title="附带文档:东方虹龙洞/游戏内Manual">游戏内Manual</a> &#8226; <a href="./附带文档-东方虹龙洞-光盘说明书.md" title="附带文档:东方虹龙洞/光盘说明书">光盘说明书</a></div></td></tr></tbody></table><div></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="/%E7%AC%A6%E5%8D%A1%E5%88%97%E8%A1%A8#东方虹龙洞" title="符卡列表">符卡</a></td><td style=";;" class="navbox-list navbox-even"><div><a href="./东方虹龙洞-自机符卡.md" title="东方虹龙洞/自机符卡">自机符卡</a> &#8226; <a href="./东方虹龙洞-Stage_1.md" title="东方虹龙洞/Stage 1">Stage 1</a> &#8226; <a href="./东方虹龙洞-Stage_2.md" title="东方虹龙洞/Stage 2">Stage 2</a> &#8226; <a href="./东方虹龙洞-Stage_3.md" title="东方虹龙洞/Stage 3">Stage 3</a> &#8226; <a href="./东方虹龙洞-Stage_4.md" title="东方虹龙洞/Stage 4">Stage 4</a> &#8226; <a href="./东方虹龙洞-Stage_5.md" title="东方虹龙洞/Stage 5">Stage 5</a> &#8226; <a href="./东方虹龙洞-Stage_6.md" title="东方虹龙洞/Stage 6">Stage 6</a> &#8226; <a class="mw-selflink selflink">Extra</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">其他</td><td style=";;" class="navbox-list navbox-odd"><div><a href="./东方虹龙洞-卡牌系统.md" title="东方虹龙洞/卡牌系统" unred="">卡牌说明</a> &#8226; <a href="./东方虹龙洞-成就.md" title="东方虹龙洞/成就">成就系统</a></div></td></tr></tbody></table></td></tr></tbody></table>
-
-
-
-
 
 
 ---

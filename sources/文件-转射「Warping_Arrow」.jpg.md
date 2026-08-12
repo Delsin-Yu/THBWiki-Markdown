@@ -1,12 +1,8 @@
 # 文件:转射「Warping_Arrow」.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6a\ns6%3A%E8%BD%AC%E5%B0%84%E3%80%8CWarping_Arrow%E3%80%8D%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6a\ns6%3A%E8%BD%AC%E5%B0%84%E3%80%8CWarping_Arrow%E3%80%8D%2Ejpg.html -->
 
 東方邪星章製作チーム
-
-
-
-
 
 
 ---

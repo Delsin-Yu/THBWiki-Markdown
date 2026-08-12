@@ -1,21 +1,17 @@
 # 社稷终于幻想_~_A_Finality_with_Sheji
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\1\1e\ns0%3A%E7%A4%BE%E7%A8%B7%E7%BB%88%E4%BA%8E%E5%B9%BB%E6%83%B3_%7E_A_Finality_with_Sheji.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\1\1e\ns0%3A%E7%A4%BE%E7%A8%B7%E7%BB%88%E4%BA%8E%E5%B9%BB%E6%83%B3_%7E_A_Finality_with_Sheji.html -->
 
 2019年1月1日 由 八雾游戏制作组  发布的SLG同人游戏，可在 Windows 系统上运行，游戏人数为 单人模式，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人软件 (未找到链接)** 的词条
-
+**[二次创作同人软件](./二次创作.md#同人软件)**的词条
 ## 目录
 
 - [1 软件信息](#软件信息)
 - [2 Staff](#Staff)
 - [3 内容页面](#内容页面)
 - [4 评论](#评论)
-
-
-
 
 
 ## 软件信息
@@ -25,19 +21,13 @@
 </tr><tr><td class="label">首发日期</td><td>2019-01-01</td></tr><tr><td class="label">类型</td><td>游戏</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">游戏人数</td><td>单人模式</td></tr><tr><td class="label">游戏类型</td><td>SLG</td></tr><tr><td class="label">运行平台</td><td>Windows</td></tr><tr><td class="label">语言</td><td>简体中文</td></tr><tr><td class="label">售价</td><td>22人民币</td></tr></tbody></table>
 
 社稷终于幻想 ~ A Finality with Sheji（同人游戏，八雾游戏制作组，2019） - 2019年1月1日 由 八雾游戏制作组  发布的SLG同人游戏，可在 Windows 系统上运行，游戏人数为 单人模式，分级为 一般向
-  
-  
-
-  
-
-
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://store.steampowered.com/app/992750">Steam</a></td></tr></tbody></table>
-
 
 
 ## Staff
 
 ## 内容页面
+
 - 游戏设定与剧情 (未找到链接)
 - 攻略 (未找到链接)
 - 使用说明 (未找到链接)
@@ -45,9 +35,6 @@
 
 
 ## 评论
-
-
-
 
 ---
 

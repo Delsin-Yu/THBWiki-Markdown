@@ -1,18 +1,13 @@
 # 文件:Cradle（同人社团）banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2c\ns6%3ACradle%EF%BC%88%E5%90%8C%E4%BA%BA%E7%A4%BE%E5%9B%A2%EF%BC%89banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2c\ns6%3ACradle%EF%BC%88%E5%90%8C%E4%BA%BA%E7%A4%BE%E5%9B%A2%EF%BC%89banner%2Ejpg.html -->
 
 Cradle（同人社团） | 社团LOGO
 
 
 ## 摘要
   
-源地址：[direct image link](http://cradle.cc/img/banner.jpg), [source page](http://cradle.cc/link.html)
-  
-
-
-
-
+源地址：[direct image link](http://cradle.cc/img/banner.jpg), [source page](http://cradle.cc/link.html)  
 
 ---
 

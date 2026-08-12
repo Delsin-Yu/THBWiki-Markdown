@@ -1,12 +1,8 @@
 # 文件:THD2破魔净灵札.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\08\ns6%3ATHD2%E7%A0%B4%E9%AD%94%E5%87%80%E7%81%B5%E6%9C%AD%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\08\ns6%3ATHD2%E7%A0%B4%E9%AD%94%E5%87%80%E7%81%B5%E6%9C%AD%2Epng.html -->
 
 AvalonStudioOfficial
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Locked_Girl_~_The_Girl's_Secret_Piano封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\11\ns6%3ALocked_Girl_%7E_The_Girl%27s_Secret_Piano%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\11\ns6%3ALocked_Girl_%7E_The_Girl%27s_Secret_Piano%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Misfortune_Productions | 专辑封面 | 封面图片
 
@@ -11,12 +11,7 @@ Misfortune_Productions | 专辑封面 | 封面图片
 - [Locked Girl ~ The Girl's Secret Piano](./Locked_Girl_~_The_Girl's_Secret_Piano.md)
 
   
-源地址：[[1]](https://f4.bcbits.com/img/a0757987691_10.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://f4.bcbits.com/img/a0757987691_10.jpg)  
 
 ---
 

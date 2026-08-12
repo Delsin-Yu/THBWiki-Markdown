@@ -1,12 +1,8 @@
 # 文件:Tanabata-b2.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e9\ns6%3ATanabata-b2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e9\ns6%3ATanabata-b2%2Ejpg.html -->
 
 TaNaBaTa | 社团LOGO
-
-
-
-
 
 
 ---

@@ -1,14 +1,11 @@
 # 文件:SCoOW03_03.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bc\ns6%3ASCoOW03_03%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bc\ns6%3ASCoOW03_03%2Emp3.html -->
 
 东方外来韦编 | 原曲MP3 | 酒鬼的雷姆利亚
 
 
 ## 文件说明
-
-
-
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:QQQのコピー本(C76)封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9a\ns6%3AQQQ%E3%81%AE%E3%82%B3%E3%83%94%E3%83%BC%E6%9C%AC%28C76%29%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9a\ns6%3AQQQ%E3%81%AE%E3%82%B3%E3%83%94%E3%83%BC%E6%9C%AC%28C76%29%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 QQQ | 同人志封面 | 封面图片
 
@@ -8,11 +8,8 @@ QQQ | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [QQQのコピー本(C76)](./QQQのコピー本(C76).md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [QQQのコピー本(C76)](./QQQのコピー本(C76%29.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

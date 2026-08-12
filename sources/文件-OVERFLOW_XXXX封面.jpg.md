@@ -1,6 +1,6 @@
 # 文件:OVERFLOW_XXXX封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ab\ns6%3AOVERFLOW_XXXX%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ab\ns6%3AOVERFLOW_XXXX%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ZYTOKINE | 专辑封面 | 封面图片
 
@@ -8,11 +8,14 @@ ZYTOKINE | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [OVERFLOW XXXX](./OVERFLOW_XXXX.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)- [博丽灵梦](./博丽灵梦.md)- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)- [伊吹萃香](./伊吹萃香.md)- [秦心](./秦心.md)- [鬼人正邪](./鬼人正邪.md)
-
-
-
+- [OVERFLOW XXXX](./OVERFLOW_XXXX.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
+- [博丽灵梦](./博丽灵梦.md)
+- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)
+- [伊吹萃香](./伊吹萃香.md)
+- [秦心](./秦心.md)
+- [鬼人正邪](./鬼人正邪.md)
 
 
 ---

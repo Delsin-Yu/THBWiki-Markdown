@@ -1,12 +1,8 @@
 # 文件:THD2大地要石.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\28\ns6%3ATHD2%E5%A4%A7%E5%9C%B0%E8%A6%81%E7%9F%B3%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\28\ns6%3ATHD2%E5%A4%A7%E5%9C%B0%E8%A6%81%E7%9F%B3%2Epng.html -->
 
 AvalonStudioOfficial
-
-
-
-
 
 
 ---

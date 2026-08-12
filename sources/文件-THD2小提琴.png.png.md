@@ -1,16 +1,12 @@
 # 文件:THD2小提琴.png.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b2\ns6%3ATHD2%E5%B0%8F%E6%8F%90%E7%90%B4%2Epng%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b2\ns6%3ATHD2%E5%B0%8F%E6%8F%90%E7%90%B4%2Epng%2Epng.html -->
 
 东方DOTS玩家社群
 
   
 THD2小提琴.png
   
-
-
-
-
 
 ---
 

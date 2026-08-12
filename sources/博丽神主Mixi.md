@@ -1,6 +1,6 @@
 # 博丽神主Mixi
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\b9\ns0%3A%E5%8D%9A%E4%B8%BD%E7%A5%9E%E4%B8%BBMixi.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\b9\ns0%3A%E5%8D%9A%E4%B8%BD%E7%A5%9E%E4%B8%BBMixi.html -->
 
 ZUN | mixi
 
@@ -13,9 +13,6 @@ ZUN | mixi
 - [4 注释](#注释)
 
 
-
-
-
 ## mixi简介
   
 mixi是由日本mixi股份有限公司所运营的社交网络服务，创立于2004年3月3日。  
@@ -25,7 +22,6 @@ mixi的名称源于“mix（交流）”与“i（人）的组合自造词”，
 但大多数服务内容必须登录帐号，无法以匿名方式发布内容或查看他人信息。
   
 
-
 ## 关于ZUN的mixi
   
 ZUN曾以mixi日记作为[太田顺也](./ZUN.md)个人名义的非公开日记站点。  
@@ -34,11 +30,10 @@ ZUN曾以mixi日记作为[太田顺也](./ZUN.md)个人名义的非公开日记�
 
 因2005年10月4日建立“[博丽幻想书谱](./博丽幻想书谱.md)”删除了所有日记。同期[东方书谱](./东方书谱.md)也宣告休止。
   
-
- (未找到链接)  mixi头像（现在）
- (未找到链接)  mixi头像（曾用）
- (未找到链接)  mixi头像（曾用）
-
+<img alt="" src="https://upload.thwiki.cc/4/46/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E4%B8%BB_mixi%E5%A4%B4%E5%83%8F.jpg" decoding="async" loading="lazy" width="180" height="180" class="thumbimage" data-file-width="180" data-file-height="180">
+ mixi头像（现在）<img alt="" src="https://upload.thwiki.cc/2/23/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E4%B8%BB_mixi%E5%A4%B4%E5%83%8F2.jpg" decoding="async" loading="lazy" width="180" height="180" class="thumbimage" data-file-width="180" data-file-height="180">
+ mixi头像（曾用）<img alt="" src="https://upload.thwiki.cc/9/9b/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E4%B8%BB_mixi%E5%A4%B4%E5%83%8F3.jpg" decoding="async" loading="lazy" width="180" height="180" class="thumbimage" data-file-width="180" data-file-height="180">
+ mixi头像（曾用）
 <table>
 <caption>简介
 </caption>
@@ -107,7 +102,6 @@ ZUN曾以mixi日记作为[太田顺也](./ZUN.md)个人名义的非公开日记�
 </td></tr></tbody></table>
 
 
-
 ## mixi好友对ZUN的介绍语
 
 <table>
@@ -120,19 +114,19 @@ ZUN曾以mixi日记作为[太田顺也](./ZUN.md)个人名义的非公开日记�
 </p>
 </td></tr>
 <tr>
-<th><ul class="gallery mw-gallery-packed"><li class="gallerybox" style="width: 120.66666666667px"><div style="width: 120.66666666667px"><div class="thumb" style="width: 118.66666666667px;"><div style="margin:0px auto;"><a href="./文件-たんたんmix头像.jpg.md" class="image" title="たんたん1"><img alt="たんたん1" src="https://upload.thwiki.cc/0/02/%E3%81%9F%E3%82%93%E3%81%9F%E3%82%93mix%E5%A4%B4%E5%83%8F.jpg" decoding="async" loading="lazy" width="119" height="120" data-file-width="75" data-file-height="76"></a></div></div><div class="gallerytext">たんたん<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">1</a></sup></div></div></li></ul>
+<th><ul class="gallery mw-gallery-packed"><li class="gallerybox" style="width: 120.66666666667px"><div style="width: 120.66666666667px"><div class="thumb" style="width: 118.66666666667px;"><div style="margin:0px auto;"><a href="./文件-たんたんmix头像.jpg.md" class="image" title="たんたん1"><img alt="たんたん1" src="https://upload.thwiki.cc/0/02/%E3%81%9F%E3%82%93%E3%81%9F%E3%82%93mix%E5%A4%B4%E5%83%8F.jpg" decoding="async" loading="lazy" width="119" height="120" data-file-width="75" data-file-height="76"></a></div></div><div class="gallerytext">たんたん<span>[^cite_note-1]</span></div></div></li></ul>
 </th>
 <td>关系：公司的前辈
 <p>总是陪我一起去喝酒的前辈。 以前只是在星期五，现在周中也会去喝了。因为他说的话都很有趣，总是会和他一样的节奏喝酒然后醉倒，察觉的时候已经到了开到3点的名叫『形形色色』的酒馆。哎呀真是不可思议。今后也与美味的酒一同活下去吧！
 </p>
 </td></tr>
 <tr>
-<th><ul class="gallery mw-gallery-packed"><li class="gallerybox" style="width: 101.33333333333px"><div style="width: 101.33333333333px"><div class="thumb" style="width: 99.333333333333px;"><div style="margin:0px auto;"><a href="./文件-まつばらmixi头像.jpg.md" class="image" title="まつばら2"><img alt="まつばら2" src="https://upload.thwiki.cc/b/b0/%E3%81%BE%E3%81%A4%E3%81%B0%E3%82%89mixi%E5%A4%B4%E5%83%8F.jpg" decoding="async" loading="lazy" width="100" height="120" data-file-width="63" data-file-height="76"></a></div></div><div class="gallerytext">まつばら<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">2</a></sup></div></div></li></ul>
+<th><ul class="gallery mw-gallery-packed"><li class="gallerybox" style="width: 101.33333333333px"><div style="width: 101.33333333333px"><div class="thumb" style="width: 99.333333333333px;"><div style="margin:0px auto;"><a href="./文件-まつばらmixi头像.jpg.md" class="image" title="まつばら2"><img alt="まつばら2" src="https://upload.thwiki.cc/b/b0/%E3%81%BE%E3%81%A4%E3%81%B0%E3%82%89mixi%E5%A4%B4%E5%83%8F.jpg" decoding="async" loading="lazy" width="100" height="120" data-file-width="63" data-file-height="76"></a></div></div><div class="gallerytext">まつばら<span>[^cite_note-2]</span></div></div></li></ul>
 </th>
 <td>在酒会上，总是先会喝啤酒。喝完才过来。众所周知，是博丽神社的神主先生。
 </td></tr>
 <tr>
-<th><ul class="gallery mw-gallery-packed"><li class="gallerybox" style="width: 219.33333333333px"><div style="width: 219.33333333333px"><div class="thumb" style="width: 217.33333333333px;"><div style="margin:0px auto;"><a href="./文件-きーさんmixi头像.jpg.md" class="image" title="きーさん3"><img alt="きーさん3" src="https://upload.thwiki.cc/a/ae/%E3%81%8D%E3%83%BC%E3%81%95%E3%82%93mixi%E5%A4%B4%E5%83%8F.jpg" decoding="async" loading="lazy" width="218" height="120" data-file-width="76" data-file-height="42"></a></div></div><div class="gallerytext">きーさん<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">3</a></sup></div></div></li></ul>
+<th><ul class="gallery mw-gallery-packed"><li class="gallerybox" style="width: 219.33333333333px"><div style="width: 219.33333333333px"><div class="thumb" style="width: 217.33333333333px;"><div style="margin:0px auto;"><a href="./文件-きーさんmixi头像.jpg.md" class="image" title="きーさん3"><img alt="きーさん3" src="https://upload.thwiki.cc/a/ae/%E3%81%8D%E3%83%BC%E3%81%95%E3%82%93mixi%E5%A4%B4%E5%83%8F.jpg" decoding="async" loading="lazy" width="218" height="120" data-file-width="76" data-file-height="42"></a></div></div><div class="gallerytext">きーさん<span>[^cite_note-3]</span></div></div></li></ul>
 </th>
 <td>关系：神主？
 <p>据说是个神主先生。公司的前辈。总的来说，是个「怪」人。温和的怪人。另外啤酒有些喝太多了哦？
@@ -146,7 +140,7 @@ ZUN曾以mixi日记作为[太田顺也](./ZUN.md)个人名义的非公开日记�
 </p>
 </td></tr>
 <tr>
-<th><ul class="gallery mw-gallery-packed"><li class="gallerybox" style="width: 149.33333333333px"><div style="width: 149.33333333333px"><div class="thumb" style="width: 147.33333333333px;"><div style="margin:0px auto;"><a href="./文件-弘世mixi头像.jpg.md" class="image" title="弘世4"><img alt="弘世4" src="https://upload.thwiki.cc/f/f0/%E5%BC%98%E4%B8%96mixi%E5%A4%B4%E5%83%8F.jpg" decoding="async" loading="lazy" width="148" height="120" data-file-width="76" data-file-height="62"></a></div></div><div class="gallerytext">弘世<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">4</a></sup></div></div></li></ul>
+<th><ul class="gallery mw-gallery-packed"><li class="gallerybox" style="width: 149.33333333333px"><div style="width: 149.33333333333px"><div class="thumb" style="width: 147.33333333333px;"><div style="margin:0px auto;"><a href="./文件-弘世mixi头像.jpg.md" class="image" title="弘世4"><img alt="弘世4" src="https://upload.thwiki.cc/f/f0/%E5%BC%98%E4%B8%96mixi%E5%A4%B4%E5%83%8F.jpg" decoding="async" loading="lazy" width="148" height="120" data-file-width="76" data-file-height="62"></a></div></div><div class="gallerytext">弘世<span>[^cite_note-4]</span></div></div></li></ul>
 </th>
 <td>游戏作家。他的作品经常被我以创作的题材上进行取材。与本人最经常在酒会上见面。
 </td></tr>
@@ -177,7 +171,7 @@ ZUN曾以mixi日记作为[太田顺也](./ZUN.md)个人名义的非公开日记�
 </p>
 </td></tr>
 <tr>
-<th><ul class="gallery mw-gallery-packed"><li class="gallerybox" style="width: 80.666666666667px"><div style="width: 80.666666666667px"><div class="thumb" style="width: 78.666666666667px;"><div style="margin:0px auto;"><a href="./文件-龍道mixi头像.jpg.md" class="image" title="龍道5"><img alt="龍道5" src="https://upload.thwiki.cc/6/66/%E9%BE%8D%E9%81%93mixi%E5%A4%B4%E5%83%8F.jpg" decoding="async" loading="lazy" width="79" height="120" data-file-width="50" data-file-height="76"></a></div></div><div class="gallerytext">龍道<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">5</a></sup></div></div></li></ul>
+<th><ul class="gallery mw-gallery-packed"><li class="gallerybox" style="width: 80.666666666667px"><div style="width: 80.666666666667px"><div class="thumb" style="width: 78.666666666667px;"><div style="margin:0px auto;"><a href="./文件-龍道mixi头像.jpg.md" class="image" title="龍道5"><img alt="龍道5" src="https://upload.thwiki.cc/6/66/%E9%BE%8D%E9%81%93mixi%E5%A4%B4%E5%83%8F.jpg" decoding="async" loading="lazy" width="79" height="120" data-file-width="50" data-file-height="76"></a></div></div><div class="gallerytext">龍道<span>[^cite_note-5]</span></div></div></li></ul>
 </th>
 <td>关系：尊敬的人
 <p>东方Project系列的生父。全部都由一人完成的技术只能说是叹为观止。而且，作为一个堂堂正正的社会人士，能一边做着公司的工作又能一边制作东方，至今也难以置信。正由于这位我的一部分人生被改写了w
@@ -203,28 +197,28 @@ ZUN曾以mixi日记作为[太田顺也](./ZUN.md)个人名义的非公开日记�
 <td>关系：神主 非常喜欢啤酒的神主大人
 </td></tr>
 <tr>
-<th><ul class="gallery mw-gallery-packed"><li class="gallerybox" style="width: 130.66666666667px"><div style="width: 130.66666666667px"><div class="thumb" style="width: 128.66666666667px;"><div style="margin:0px auto;"><a href="./文件-TBN＠mixi头像.jpg.md" class="image" title="TBN＠6"><img alt="TBN＠6" src="https://upload.thwiki.cc/c/ca/TBN%EF%BC%A0mixi%E5%A4%B4%E5%83%8F.jpg" decoding="async" loading="lazy" width="129" height="120" data-file-width="76" data-file-height="71"></a></div></div><div class="gallerytext">TBN＠<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">6</a></sup></div></div></li></ul>
+<th><ul class="gallery mw-gallery-packed"><li class="gallerybox" style="width: 130.66666666667px"><div style="width: 130.66666666667px"><div class="thumb" style="width: 128.66666666667px;"><div style="margin:0px auto;"><a href="./文件-TBN＠mixi头像.jpg.md" class="image" title="TBN＠6"><img alt="TBN＠6" src="https://upload.thwiki.cc/c/ca/TBN%EF%BC%A0mixi%E5%A4%B4%E5%83%8F.jpg" decoding="async" loading="lazy" width="129" height="120" data-file-width="76" data-file-height="71"></a></div></div><div class="gallerytext">TBN＠<span>[^cite_note-6]</span></div></div></li></ul>
 </th>
 <td>关系：神主
 <p>神社的神主大人 比较受欢迎的人，也是个非常好的人。喜欢啤酒。今后也一起愉快地喝酒吧！
 </p>
 </td></tr>
 <tr>
-<th><ul class="gallery mw-gallery-packed"><li class="gallerybox" style="width: 122px"><div style="width: 122px"><div class="thumb" style="width: 120px;"><div style="margin:0px auto;"><a href="./文件-(R)半壊LUFTmixi头像.jpg.md" class="image" title="(R)半壊LUFT7"><img alt="(R)半壊LUFT7" src="https://upload.thwiki.cc/f/f7/%28R%29%E5%8D%8A%E5%A3%8ALUFTmixi%E5%A4%B4%E5%83%8F.jpg" decoding="async" loading="lazy" width="120" height="120" data-file-width="76" data-file-height="76"></a></div></div><div class="gallerytext">(R)半壊LUFT<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">7</a></sup></div></div></li></ul>
+<th><ul class="gallery mw-gallery-packed"><li class="gallerybox" style="width: 122px"><div style="width: 122px"><div class="thumb" style="width: 120px;"><div style="margin:0px auto;"><a href="./文件-(R)半壊LUFTmixi头像.jpg.md" class="image" title="(R)半壊LUFT7"><img alt="(R)半壊LUFT7" src="https://upload.thwiki.cc/f/f7/%28R%29%E5%8D%8A%E5%A3%8ALUFTmixi%E5%A4%B4%E5%83%8F.jpg" decoding="async" loading="lazy" width="120" height="120" data-file-width="76" data-file-height="76"></a></div></div><div class="gallerytext">(R)半壊LUFT<span>[^cite_note-7]</span></div></div></li></ul>
 </th>
 <td>关系：神主和妖怪（？）
 <p>奇怪的饮料同好会。每次展会的时候我都会送一些饮料。我们的神主大人最喜欢啤酒了。有机会一起喝酒吧(´ω`)
 </p>
 </td></tr>
 <tr>
-<th><ul class="gallery mw-gallery-packed"><li class="gallerybox" style="width: 122px"><div style="width: 122px"><div class="thumb" style="width: 120px;"><div style="margin:0px auto;"><a href="./文件-ルーmixi头像.jpg.md" class="image" title="ルー8"><img alt="ルー8" src="https://upload.thwiki.cc/6/63/%E3%83%AB%E3%83%BCmixi%E5%A4%B4%E5%83%8F.jpg" decoding="async" loading="lazy" width="120" height="120" data-file-width="76" data-file-height="76"></a></div></div><div class="gallerytext">ルー<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">8</a></sup></div></div></li></ul>
+<th><ul class="gallery mw-gallery-packed"><li class="gallerybox" style="width: 122px"><div style="width: 122px"><div class="thumb" style="width: 120px;"><div style="margin:0px auto;"><a href="./文件-ルーmixi头像.jpg.md" class="image" title="ルー8"><img alt="ルー8" src="https://upload.thwiki.cc/6/63/%E3%83%AB%E3%83%BCmixi%E5%A4%B4%E5%83%8F.jpg" decoding="async" loading="lazy" width="120" height="120" data-file-width="76" data-file-height="76"></a></div></div><div class="gallerytext">ルー<span>[^cite_note-8]</span></div></div></li></ul>
 </th>
 <td>关系：神主
 <p>幻想乡之主。也就是神主。从最初到最后都是啤酒，真是美妙的交际！
 </p>
 </td></tr>
 <tr>
-<th><ul class="gallery mw-gallery-packed"><li class="gallerybox" style="width: 162px"><div style="width: 162px"><div class="thumb" style="width: 160px;"><div style="margin:0px auto;"><a href="./文件-羊羹mixi头像.jpg.md" class="image" title="羊羹9"><img alt="羊羹9" src="https://upload.thwiki.cc/a/ab/%E7%BE%8A%E7%BE%B9mixi%E5%A4%B4%E5%83%8F.jpg" decoding="async" loading="lazy" width="160" height="120" data-file-width="76" data-file-height="57"></a></div></div><div class="gallerytext">羊羹<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">9</a></sup></div></div></li></ul>
+<th><ul class="gallery mw-gallery-packed"><li class="gallerybox" style="width: 162px"><div style="width: 162px"><div class="thumb" style="width: 160px;"><div style="margin:0px auto;"><a href="./文件-羊羹mixi头像.jpg.md" class="image" title="羊羹9"><img alt="羊羹9" src="https://upload.thwiki.cc/a/ab/%E7%BE%8A%E7%BE%B9mixi%E5%A4%B4%E5%83%8F.jpg" decoding="async" loading="lazy" width="160" height="120" data-file-width="76" data-file-height="57"></a></div></div><div class="gallerytext">羊羹<span>[^cite_note-9]</span></div></div></li></ul>
 </th>
 <td>关系：神主
 <p>位于间隙和间隙的间隙的神主。今天大概也在祈祷中。
@@ -232,13 +226,15 @@ ZUN曾以mixi日记作为[太田顺也](./ZUN.md)个人名义的非公开日记�
 </td></tr>
 </tbody></table>
 
-
-
 [^cite_note-1]: 丹泽悠一，曾与ZUN同隶属游戏公司“太东（Taito）”，2010年后入职“史克威尔艾尼克斯（SQUARE ENIX）”
-
-
-
-
+[^cite_note-2]: 又称Type-Nothing 京王松原，曾参与过“东方幻想麻将”系列的制作。社团“吞兵卫会”成员。
+[^cite_note-3]: 即ZUN的妻子Ki-san，曾与ZUN同隶属游戏公司“太东（Taito）”。
+[^cite_note-4]: 同人音乐社团“Altneuland（アルトノイラント）”，曾从ZUN处得到关于八意永琳和蓬莱山辉夜的年龄的[描述](./ZUN-月人关联答复.md)。
+[^cite_note-5]: 即展会活动“博丽神社例大祭”的创始人与前负责人，铃木龙道
+[^cite_note-6]: 社团“吞兵卫会”成员。
+[^cite_note-7]: 隶属同人音乐社团“苍天之雪（蒼天の雪）”
+[^cite_note-8]: 即Ruw，隶属社团“D.N.A.Softwares”，同时也是社团“吞兵卫会”的主催及“株式会社香霖堂”的董事
+[^cite_note-9]: 隶属社团“D.N.A.Softwares”，同时也是社团“吞兵卫会”成员。
 
 ---
 

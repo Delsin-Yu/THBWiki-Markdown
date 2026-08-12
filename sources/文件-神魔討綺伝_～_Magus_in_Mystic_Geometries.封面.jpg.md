@@ -1,6 +1,6 @@
 # 文件:神魔討綺伝_～_Magus_in_Mystic_Geometries.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1f\ns6%3A%E7%A5%9E%E9%AD%94%E8%A8%8E%E7%B6%BA%E4%BC%9D_%EF%BD%9E_Magus_in_Mystic_Geometries%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1f\ns6%3A%E7%A5%9E%E9%AD%94%E8%A8%8E%E7%B6%BA%E4%BC%9D_%EF%BD%9E_Magus_in_Mystic_Geometries%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 D.N.A.Softwares | 封面图片 | 软件封面
 
@@ -8,11 +8,8 @@ D.N.A.Softwares | 封面图片 | 软件封面
 使用了本文件作封面图片的作品：
   
 
-- [神魔討綺伝 ～ Magus in Mystic Geometries.](./神魔討綺伝_～_Magus_in_Mystic_Geometries..md)  
-该封面包含的角色：- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
-
-
-
+- [神魔討綺伝 ～ Magus in Mystic Geometries.](./神魔討綺伝_～_Magus_in_Mystic_Geometries..md)该封面包含的角色：
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
 
 
 ---

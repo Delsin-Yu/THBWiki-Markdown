@@ -1,6 +1,6 @@
 # 文件:Natural_Gensokyo_Marriage封面.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\41\ns6%3ANatural_Gensokyo_Marriage%E5%B0%81%E9%9D%A2%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\41\ns6%3ANatural_Gensokyo_Marriage%E5%B0%81%E9%9D%A2%2Egif.html -->
 
 DOLCE_LATTE | 同人志封面 | 封面图片
 
@@ -10,11 +10,9 @@ DOLCE_LATTE | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Natural Gensokyo Marriage](./Natural_Gensokyo_Marriage.md)  
-该封面包含的角色：- [上白泽慧音](./上白泽慧音.md)- [藤原妹红](./藤原妹红.md)
-
-
-
+- [Natural Gensokyo Marriage](./Natural_Gensokyo_Marriage.md)该封面包含的角色：
+- [上白泽慧音](./上白泽慧音.md)
+- [藤原妹红](./藤原妹红.md)
 
 
 ---

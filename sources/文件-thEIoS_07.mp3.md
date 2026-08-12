@@ -1,14 +1,11 @@
 # 文件:thEIoS_07.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d2\ns6%3AthEIoS_07%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d2\ns6%3AthEIoS_07%2Emp3.html -->
 
 东方祈华梦制作组 | 彼岸之云_结界之梦
 
 
 ## 文件说明
-
-
-
 
 ---
 

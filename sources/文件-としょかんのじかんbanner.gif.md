@@ -1,12 +1,8 @@
 # 文件:としょかんのじかんbanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bf\ns6%3A%E3%81%A8%E3%81%97%E3%82%87%E3%81%8B%E3%82%93%E3%81%AE%E3%81%98%E3%81%8B%E3%82%93banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bf\ns6%3A%E3%81%A8%E3%81%97%E3%82%87%E3%81%8B%E3%82%93%E3%81%AE%E3%81%98%E3%81%8B%E3%82%93banner%2Egif.html -->
 
 としょかんのじかん | 社团LOGO
-
-
-
-
 
 
 ---

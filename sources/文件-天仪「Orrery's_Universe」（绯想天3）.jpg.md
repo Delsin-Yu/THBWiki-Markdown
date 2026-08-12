@@ -1,12 +1,8 @@
 # 文件:天仪「Orrery's_Universe」（绯想天3）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\66\ns6%3A%E5%A4%A9%E4%BB%AA%E3%80%8COrrery%27s_Universe%E3%80%8D%EF%BC%88%E7%BB%AF%E6%83%B3%E5%A4%A93%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\66\ns6%3A%E5%A4%A9%E4%BB%AA%E3%80%8COrrery%27s_Universe%E3%80%8D%EF%BC%88%E7%BB%AF%E6%83%B3%E5%A4%A93%EF%BC%89%2Ejpg.html -->
 
 东方绯想天 | 敌机符卡 | 雾雨魔理沙
-
-
-
-
 
 
 ---

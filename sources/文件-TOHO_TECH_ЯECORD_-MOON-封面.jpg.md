@@ -1,6 +1,6 @@
 # 文件:TOHO_TECH_ЯECORD_-MOON-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4a\ns6%3ATOHO_TECH_%D0%AFECORD_-MOON-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4a\ns6%3ATOHO_TECH_%D0%AFECORD_-MOON-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 空上ハウス
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [TOHO TECH ЯECORD -MOON-](./TOHO_TECH_ЯECORD_-MOON-.md)  
-该封面包含的角色：- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)- [蓬莱山辉夜](./蓬莱山辉夜.md)
-
-
-
+- [TOHO TECH ЯECORD -MOON-](./TOHO_TECH_ЯECORD_-MOON-.md)该封面包含的角色：
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
+- [蓬莱山辉夜](./蓬莱山辉夜.md)
 
 
 ---

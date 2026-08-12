@@ -1,6 +1,6 @@
 # 文件:Ex：SignumCrucis封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c3\ns6%3AEx%EF%BC%9ASignumCrucis%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c3\ns6%3AEx%EF%BC%9ASignumCrucis%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 QUINTET | 专辑封面 | 封面图片
 
@@ -8,16 +8,12 @@ QUINTET | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Ex：SignumCrucis](./Ex：SignumCrucis.md)  
-该封面包含的角色：- [八云紫](./八云紫.md)- [伊吹萃香](./伊吹萃香.md)
+- [Ex：SignumCrucis](./Ex：SignumCrucis.md)该封面包含的角色：
+- [八云紫](./八云紫.md)
+- [伊吹萃香](./伊吹萃香.md)
 
   
-源地址：[[1]](http://lostcollection.net/img/1K/qmcd-0007.png)
-  
-
-
-
-
+源地址：[\[1\]](http://lostcollection.net/img/1K/qmcd-0007.png)  
 
 ---
 

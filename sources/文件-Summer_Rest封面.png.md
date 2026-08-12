@@ -1,6 +1,6 @@
 # 文件:Summer_Rest封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0c\ns6%3ASummer_Rest%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0c\ns6%3ASummer_Rest%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Languid_space | 专辑封面 | 封面图片
 
@@ -8,11 +8,10 @@ Languid_space | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Summer Rest](./Summer_Rest.md)  
-该封面包含的角色：- [露娜切露德](./露娜切露德.md)- [桑尼米尔克](./桑尼米尔克.md)- [斯塔萨菲雅](./斯塔萨菲雅.md)
-
-
-
+- [Summer Rest](./Summer_Rest.md)该封面包含的角色：
+- [露娜切露德](./露娜切露德.md)
+- [桑尼米尔克](./桑尼米尔克.md)
+- [斯塔萨菲雅](./斯塔萨菲雅.md)
 
 
 ---

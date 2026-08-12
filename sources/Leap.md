@@ -1,12 +1,11 @@
 # Leap
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\c\c9\ns0%3ALeap.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\c\c9\ns0%3ALeap.html -->
 
 2020年11月5日 由 ＊ Works  发布的单曲同人专辑，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人专辑 (未找到链接)** 的词条
-
+**[二次创作同人专辑](./二次创作.md#同人音乐)**的词条
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Leap封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/b/b4/Leap%E5%B0%81%E9%9D%A2.jpg/224px-Leap%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="224" srcset="https://upload.thwiki.cc/thumb/b/b4/Leap%E5%B0%81%E9%9D%A2.jpg/336px-Leap%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/b/b4/Leap%E5%B0%81%E9%9D%A2.jpg/448px-Leap%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1200" data-file-height="1200"></a></td>
@@ -15,36 +14,24 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://asteriskworks.bandcamp.com/album/leap">https://asteriskworks.bandcamp.com/album/leap</a></td></tr></tbody></table>
 
 Leap（同人专辑，＊ Works，2020） - 2020年11月5日 由 ＊ Works  发布的单曲同人专辑，分级为 一般向
-
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://asteriskworks.bandcamp.com/album/leap">bandcamp</a></td></tr></tbody></table>
-
 
 
 ## Staff
   
- **Arrangement**   
+**Arrangement**  
 
-<table><tbody><tr><td><a href="/index.php?title=Hollowness&amp;action=edit&amp;redlink=1" class="new" title="Hollowness（页面不存在）">Hollowness</a></td><td></td><td>Tr.1</td></tr></tbody></table>
-
+<table><tbody><tr><td><a class="new" title="Hollowness（页面不存在）">Hollowness</a></td><td></td><td>Tr.1</td></tr></tbody></table>
 
 
 ## 试听
-  
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/923663212&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=false"></iframe>
-
-  
-
 
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Leap" colspan="2" class="title">Leap<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Hollowness&amp;ogmusic=狂気の瞳　～ Invisible Full Moon&amp;fromwiki=Leap"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=Hollowness&amp;action=edit&amp;redlink=1" class="new" title="Hollowness（页面不存在）">Hollowness</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Hollowness&amp;fromwiki=Leap"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=狂気の瞳　～ Invisible Full Moon&amp;fromwiki=Leap"><span></span></a></span><div class="ogmusic"><a href="./狂気の瞳_～_Invisible_Full_Moon.md" class="mw-redirect" title="狂気の瞳 ～ Invisible Full Moon">狂気の瞳　～ Invisible Full Moon</a></div><div class="source"><a href="./东方永夜抄_～_Imperishable_Night..md" class="mw-redirect" title="东方永夜抄 ～ Imperishable Night.">东方永夜抄　～ Imperishable Night.</a></div></td></tr></tbody></table>
-
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Leap" colspan="2" class="title">Leap</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="Hollowness（页面不存在）">Hollowness</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./狂气之瞳_～_Invisible_Full_Moon.md" class="mw-redirect" title="狂気の瞳 ～ Invisible Full Moon">狂気の瞳　～ Invisible Full Moon</a></div><div class="source"><a href="./东方永夜抄.md" class="mw-redirect" title="东方永夜抄 ～ Imperishable Night.">东方永夜抄　～ Imperishable Night.</a></div></td></tr></tbody></table>
 
 
 ## 评论
-
-
-
 
 ---
 

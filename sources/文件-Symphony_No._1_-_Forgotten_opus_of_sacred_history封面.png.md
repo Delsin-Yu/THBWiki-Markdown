@@ -1,6 +1,6 @@
 # 文件:Symphony_No._1_-_Forgotten_opus_of_sacred_history封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\71\ns6%3ASymphony_No%2E_1_-_Forgotten_opus_of_sacred_history%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\71\ns6%3ASymphony_No%2E_1_-_Forgotten_opus_of_sacred_history%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Palais_der_Arien | 专辑封面 | 封面图片
 
@@ -10,16 +10,12 @@ Palais_der_Arien | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Symphony No. 1 - Forgotten opus of sacred history](./Symphony_No._1_-_Forgotten_opus_of_sacred_history.md)  
-该封面包含的角色：- [卡娜·安娜贝拉尔](./卡娜·安娜贝拉尔.md)
+- [Symphony No. 1 - Forgotten opus of sacred history](./Symphony_No._1_-_Forgotten_opus_of_sacred_history.md)该封面包含的角色：
+- [卡娜·安娜贝拉尔](./卡娜·安娜贝拉尔.md)
 
   
 cover is included in album download
   
-
-
-
-
 
 ---
 

@@ -1,12 +1,8 @@
 # 文件:Kamiro'slogo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6b\ns6%3AKamiro%27slogo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6b\ns6%3AKamiro%27slogo%2Epng.html -->
 
 Kamiro's_Comic_Market | 社团LOGO
-
-
-
-
 
 
 ---

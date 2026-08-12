@@ -1,6 +1,6 @@
 # 文件:主角组的trust_me(七夕快乐！）封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3f\ns6%3A%E4%B8%BB%E8%A7%92%E7%BB%84%E7%9A%84trust_me%28%E4%B8%83%E5%A4%95%E5%BF%AB%E4%B9%90%EF%BC%81%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3f\ns6%3A%E4%B8%BB%E8%A7%92%E7%BB%84%E7%9A%84trust_me%28%E4%B8%83%E5%A4%95%E5%BF%AB%E4%B9%90%EF%BC%81%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 封面图片 | 恋色绮想花火会 | 视频封面
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [主角组的trust me(七夕快乐！）](./主角组的trust_me(七夕快乐！）.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [主角组的trust me(七夕快乐！）](./主角组的trust_me(七夕快乐！）.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

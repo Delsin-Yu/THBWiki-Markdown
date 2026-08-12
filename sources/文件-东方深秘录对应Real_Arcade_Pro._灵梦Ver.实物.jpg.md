@@ -1,12 +1,8 @@
 # 文件:东方深秘录对应Real_Arcade_Pro._灵梦Ver.实物.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\30\ns6%3A%E4%B8%9C%E6%96%B9%E6%B7%B1%E7%A7%98%E5%BD%95%E5%AF%B9%E5%BA%94Real_Arcade_Pro%2E_%E7%81%B5%E6%A2%A6Ver%2E%E5%AE%9E%E7%89%A9%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\30\ns6%3A%E4%B8%9C%E6%96%B9%E6%B7%B1%E7%A7%98%E5%BD%95%E5%AF%B9%E5%BA%94Real_Arcade_Pro%2E_%E7%81%B5%E6%A2%A6Ver%2E%E5%AE%9E%E7%89%A9%2Ejpg.html -->
 
 东方深秘录 | 博丽灵梦
-
-
-
-
 
 
 ---

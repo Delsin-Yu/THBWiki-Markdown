@@ -1,6 +1,6 @@
 # 文件:東方夢幻録_Vol.6_地の霊飛翔せし鎮魂歌封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b2\ns6%3A%E6%9D%B1%E6%96%B9%E5%A4%A2%E5%B9%BB%E9%8C%B2_Vol%2E6_%E5%9C%B0%E3%81%AE%E9%9C%8A%E9%A3%9B%E7%BF%94%E3%81%9B%E3%81%97%E9%8E%AE%E9%AD%82%E6%AD%8C%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b2\ns6%3A%E6%9D%B1%E6%96%B9%E5%A4%A2%E5%B9%BB%E9%8C%B2_Vol%2E6_%E5%9C%B0%E3%81%AE%E9%9C%8A%E9%A3%9B%E7%BF%94%E3%81%9B%E3%81%97%E9%8E%AE%E9%AD%82%E6%AD%8C%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Re：Volte | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ Re：Volte | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方夢幻録 Vol.6 地の霊飛翔せし鎮魂歌](./東方夢幻録_Vol.6_地の霊飛翔せし鎮魂歌.md)  
-该封面包含的角色：- [古明地觉](./古明地觉.md)- [古明地恋](./古明地恋.md)
-
-
-
+- [東方夢幻録 Vol.6 地の霊飛翔せし鎮魂歌](./東方夢幻録_Vol.6_地の霊飛翔せし鎮魂歌.md)该封面包含的角色：
+- [古明地觉](./古明地觉.md)
+- [古明地恋](./古明地恋.md)
 
 
 ---

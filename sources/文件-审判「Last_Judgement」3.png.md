@@ -1,12 +1,8 @@
 # 文件:审判「Last_Judgement」3.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3f\ns6%3A%E5%AE%A1%E5%88%A4%E3%80%8CLast_Judgement%E3%80%8D3%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3f\ns6%3A%E5%AE%A1%E5%88%A4%E3%80%8CLast_Judgement%E3%80%8D3%2Epng.html -->
 
 东方花映塚 | 四季映姬·夜摩仙那度
-
-
-
-
 
 
 ---

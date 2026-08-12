@@ -1,12 +1,8 @@
 # 文件:THD2厄运护符.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\82\ns6%3ATHD2%E5%8E%84%E8%BF%90%E6%8A%A4%E7%AC%A6%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\82\ns6%3ATHD2%E5%8E%84%E8%BF%90%E6%8A%A4%E7%AC%A6%2Epng.html -->
 
 AvalonStudioOfficial
-
-
-
-
 
 
 ---

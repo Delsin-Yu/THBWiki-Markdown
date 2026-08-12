@@ -1,12 +1,11 @@
 # Inoch_EP
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\4e\ns0%3AInoch_EP.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\4e\ns0%3AInoch_EP.html -->
 
 2022年9月27日 由 月華社  发布的EP同人专辑，曲目主要风格是 House、Trance、其他，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人专辑 (未找到链接)** 的词条
-
+**[二次创作同人专辑](./二次创作.md#同人音乐)**的词条
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Inoch_EP封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/b/b8/Inoch_EP%E5%B0%81%E9%9D%A2.jpg/280px-Inoch_EP%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="280" height="280" srcset="https://upload.thwiki.cc/thumb/b/b8/Inoch_EP%E5%B0%81%E9%9D%A2.jpg/420px-Inoch_EP%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/b/b8/Inoch_EP%E5%B0%81%E9%9D%A2.jpg/560px-Inoch_EP%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1000" data-file-height="1000"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></div></td>
@@ -15,33 +14,27 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.dizzylab.net/d/GKCD-002/">https://www.dizzylab.net/d/GKCD-002/</a><br><a rel="nofollow" class="external free" href="https://gekkasound.booth.pm/items/4517555">https://gekkasound.booth.pm/items/4517555</a></td></tr></tbody></table>
 
 Inoch EP（同人专辑，月華社，2022） - 2022年9月27日 由 月華社  发布的EP同人专辑，曲目主要风格是 House、Trance、其他，分级为 一般向
-
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.dizzylab.net/d/GKCD-002">dizzylab</a>，<a rel="nofollow" class="external text" href="https://gekkasound.booth.pm/items/4517555">Booth</a>，<a rel="nofollow" class="external text" href="https://item.taobao.com/item.htm?id=694420773523">淘宝</a></td></tr></tbody></table>
-
 
 
 ## Staff
   
- **Compose**   
+**Compose**  
 
 <table><tbody><tr><td><a href="./Khrisma.md" title="Khrisma">Khrisma</a></td><td></td><td>Tr.5</td></tr></tbody></table>
 
   
- **Arrangement**   
+**Arrangement**  
 
 <table><tbody><tr><td><a href="./Khrisma.md" title="Khrisma">Khrisma</a></td><td></td><td>Tr.1-4/6</td></tr></tbody></table>
-
 
 封面背景
 : Khrisma（取景于京都市）
 封面绘画
 : 金森めい
 
-
 ## 试听
   
-
-
   
 
 <table>
@@ -50,23 +43,17 @@ Inoch EP（同人专辑，月華社，2022） - 2022年9月27日 由 月華社  
 </table>
 
 
-
-
-
-
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Imitation_of_Reminder" colspan="2" class="title">Imitation of Reminder<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Khrisma&amp;ogmusic=少女綺想曲　～ Capriccio&amp;fromwiki=Inoch_EP"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:42</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Khrisma.md" title="Khrisma">Khrisma</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Khrisma&amp;fromwiki=Inoch_EP"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=少女綺想曲　～ Capriccio&amp;fromwiki=Inoch_EP"><span></span></a></span><div class="ogmusic"><a href="./少女綺想曲_～_Capriccio.md" class="mw-redirect" title="少女綺想曲 ～ Capriccio">少女綺想曲　～ Capriccio</a></div><div class="source"><a href="./东方幻想乡_～_Lotus_Land_Story..md" class="mw-redirect" title="东方幻想乡 ～ Lotus Land Story.">东方幻想乡　～ Lotus Land Story.</a></div></td></tr><tr><td class="left"></td><td class="label">曲风</td><td class="text" colspan="2">嘻哈（Jazz-Hiphop）</td></tr>
-<tr><td id="2" class="infoYD"><b>02</b></td><td id="Sink_in_Metropolitan_Lights" colspan="2" class="title">Sink in Metropolitan Lights<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Khrisma&amp;ogmusic=夜雀の歌声　～ Night Bird&amp;fromwiki=Inoch_EP"><span title="搜索相似同人曲"></span></a></span></td><td class="time">06:58</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Khrisma.md" title="Khrisma">Khrisma</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Khrisma&amp;fromwiki=Inoch_EP"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=夜雀の歌声　～ Night Bird&amp;fromwiki=Inoch_EP"><span></span></a></span><div class="ogmusic"><a href="./夜雀の歌声_～_Night_Bird.md" class="mw-redirect" title="夜雀の歌声 ～ Night Bird">夜雀の歌声　～ Night Bird</a></div><div class="source"><a href="./东方永夜抄_～_Imperishable_Night..md" class="mw-redirect" title="东方永夜抄 ～ Imperishable Night.">东方永夜抄　～ Imperishable Night.</a></div></td></tr><tr><td class="left"></td><td class="label">曲风</td><td class="text" colspan="2">House（Deep House）</td></tr>
-<tr><td id="3" class="infoYD"><b>03</b></td><td id="Lockdown" colspan="2" class="title">Lockdown<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Khrisma&amp;ogmusic=ティアオイエツォン(withered leaf)&amp;fromwiki=Inoch_EP"><span title="搜索相似同人曲"></span></a></span></td><td class="time">07:12</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Khrisma.md" title="Khrisma">Khrisma</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Khrisma&amp;fromwiki=Inoch_EP"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=ティアオイエツォン(withered leaf)&amp;fromwiki=Inoch_EP"><span></span></a></span><div class="ogmusic"><a href="./ティアオイエツォン(withered_leaf).md" class="mw-redirect" title="ティアオイエツォン(withered leaf)">ティアオイエツォン(withered leaf)</a></div><div class="source"><a href="./东方妖妖梦_～_Perfect_Cherry_Blossom..md" class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr><tr><td class="left"></td><td class="label">曲风</td><td class="text" colspan="2">Trance</td></tr>
-<tr><td id="4" class="infoYD"><b>04</b></td><td id="Sleepless_Starlight" colspan="2" class="title">Sleepless Starlight<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Khrisma&amp;ogmusic=東の国の眠らない夜&amp;fromwiki=Inoch_EP"><span title="搜索相似同人曲"></span></a></span></td><td class="time">05:01</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Khrisma.md" title="Khrisma">Khrisma</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Khrisma&amp;fromwiki=Inoch_EP"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=東の国の眠らない夜&amp;fromwiki=Inoch_EP"><span></span></a></span><div class="ogmusic"><a href="./東の国の眠らない夜.md" class="mw-redirect" title="東の国の眠らない夜">東の国の眠らない夜</a></div><div class="source"><a href="./东方文花帖_～_Shoot_the_Bullet..md" class="mw-redirect" title="东方文花帖 ～ Shoot the Bullet.">东方文花帖　～ Shoot the Bullet.</a></div></td></tr><tr><td class="left"></td><td class="label">曲风</td><td class="text" colspan="2">Dance（Future Bass）</td></tr>
-<tr><td id="5" class="infoYL"><b>05</b></td><td id="Grayed_Sky" colspan="2" class="title">Grayed Sky<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Khrisma&amp;fromwiki=Inoch_EP"><span title="搜索相似同人曲"></span></a></span></td><td class="time">05:24</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./Khrisma.md" title="Khrisma">Khrisma</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Khrisma&amp;fromwiki=Inoch_EP"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">曲风</td><td class="text" colspan="2">Dance（Neurofunk）</td></tr>
-<tr><td id="6" class="infoYD"><b>06</b></td><td id="生きて。" colspan="2" class="title">生きて。<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Khrisma&amp;ogmusic=桜花之恋塚　～ Flower of Japan&amp;fromwiki=Inoch_EP"><span title="搜索相似同人曲"></span></a></span></td><td class="time">05:58</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Khrisma.md" title="Khrisma">Khrisma</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Khrisma&amp;fromwiki=Inoch_EP"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=桜花之恋塚　～ Flower of Japan&amp;fromwiki=Inoch_EP"><span></span></a></span><div class="ogmusic"><a href="./桜花之恋塚_～_Flower_of_Japan.md" class="mw-redirect" title="桜花之恋塚 ～ Flower of Japan">桜花之恋塚　～ Flower of Japan</a></div><div class="source"><a href="./稀翁玉.md" title="稀翁玉">稀翁玉</a></div></td></tr><tr><td class="left"></td><td class="label">曲风</td><td class="text" colspan="2">古典，其他电子（Piano/Electronic）</td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">Bonus Track</td></tr></tbody></table>
-
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Imitation_of_Reminder" colspan="2" class="title">Imitation of Reminder</td><td class="time">04:42</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Khrisma.md" title="Khrisma">Khrisma</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./少女绮想曲_～_Capriccio.md" class="mw-redirect" title="少女綺想曲 ～ Capriccio">少女綺想曲　～ Capriccio</a></div><div class="source"><a href="./东方幻想乡.md" class="mw-redirect" title="东方幻想乡 ～ Lotus Land Story.">东方幻想乡　～ Lotus Land Story.</a></div></td></tr><tr><td class="left"></td><td class="label">曲风</td><td class="text" colspan="2">嘻哈（Jazz-Hiphop）</td></tr>
+<tr><td id="2" class="infoYD"><b>02</b></td><td id="Sink_in_Metropolitan_Lights" colspan="2" class="title">Sink in Metropolitan Lights</td><td class="time">06:58</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Khrisma.md" title="Khrisma">Khrisma</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./夜雀的歌声_～_Night_Bird.md" class="mw-redirect" title="夜雀の歌声 ～ Night Bird">夜雀の歌声　～ Night Bird</a></div><div class="source"><a href="./东方永夜抄.md" class="mw-redirect" title="东方永夜抄 ～ Imperishable Night.">东方永夜抄　～ Imperishable Night.</a></div></td></tr><tr><td class="left"></td><td class="label">曲风</td><td class="text" colspan="2">House（Deep House）</td></tr>
+<tr><td id="3" class="infoYD"><b>03</b></td><td id="Lockdown" colspan="2" class="title">Lockdown</td><td class="time">07:12</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Khrisma.md" title="Khrisma">Khrisma</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./凋叶棕（withered_leaf）.md" class="mw-redirect" title="ティアオイエツォン(withered leaf)">ティアオイエツォン(withered leaf)</a></div><div class="source"><a href="./东方妖妖梦.md" class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr><tr><td class="left"></td><td class="label">曲风</td><td class="text" colspan="2">Trance</td></tr>
+<tr><td id="4" class="infoYD"><b>04</b></td><td id="Sleepless_Starlight" colspan="2" class="title">Sleepless Starlight</td><td class="time">05:01</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Khrisma.md" title="Khrisma">Khrisma</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./东之国的不眠夜.md" class="mw-redirect" title="東の国の眠らない夜">東の国の眠らない夜</a></div><div class="source"><a href="./东方文花帖.md" class="mw-redirect" title="东方文花帖 ～ Shoot the Bullet.">东方文花帖　～ Shoot the Bullet.</a></div></td></tr><tr><td class="left"></td><td class="label">曲风</td><td class="text" colspan="2">Dance（Future Bass）</td></tr>
+<tr><td id="5" class="infoYL"><b>05</b></td><td id="Grayed_Sky" colspan="2" class="title">Grayed Sky</td><td class="time">05:24</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./Khrisma.md" title="Khrisma">Khrisma</a></td></tr><tr><td class="left"></td><td class="label">曲风</td><td class="text" colspan="2">Dance（Neurofunk）</td></tr>
+<tr><td id="6" class="infoYD"><b>06</b></td><td id="生きて。" colspan="2" class="title">生きて。</td><td class="time">05:58</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Khrisma.md" title="Khrisma">Khrisma</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./樱花之恋塚_～_Flower_of_Japan.md" class="mw-redirect" title="桜花之恋塚 ～ Flower of Japan">桜花之恋塚　～ Flower of Japan</a></div><div class="source"><a href="./稀翁玉.md" title="稀翁玉">稀翁玉</a></div></td></tr><tr><td class="left"></td><td class="label">曲风</td><td class="text" colspan="2">古典，其他电子（Piano/Electronic）</td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">Bonus Track</td></tr></tbody></table>
 
 
 ## 评论
-
   
 大家好，这里是月華社，一个来自重庆/西安的东方同人音乐社团。这张专辑取名为「Inoch EP」，是由日语“生命”的罗马音为基础得来。生命，存在于漫天的不眠星光之下，存在于华灯初上城市的烟火气里，存在于每个顽强活着的人的内心中。谢谢听完试听的你。  
 
@@ -78,12 +65,6 @@ Inoch EP（同人专辑，月華社，2022） - 2022年9月27日 由 月華社  
 
 *本专辑的Bonus Track（及其Piano Solo版本，钢琴谱）已在dizzylab开放免费下载，欢迎关注。
   
-
-
-
-
-
-
 
 ---
 

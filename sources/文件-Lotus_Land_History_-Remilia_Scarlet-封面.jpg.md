@@ -1,6 +1,6 @@
 # 文件:Lotus_Land_History_-Remilia_Scarlet-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0a\ns6%3ALotus_Land_History_-Remilia_Scarlet-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0a\ns6%3ALotus_Land_History_-Remilia_Scarlet-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 趣味工房にんじんわいん
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Lotus Land History -Remilia Scarlet-](./Lotus_Land_History_-Remilia_Scarlet-.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [Lotus Land History -Remilia Scarlet-](./Lotus_Land_History_-Remilia_Scarlet-.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
   
-源地址：[[1]](http://www.toranoana.jp/mailorder/article/04/0030/55/91/040030559174.html)
-  
-
-
-
-
+源地址：[\[1\]](http://www.toranoana.jp/mailorder/article/04/0030/55/91/040030559174.html)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:e＊封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4b\ns6%3Ae%EF%BC%8A%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4b\ns6%3Ae%EF%BC%8A%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ゆめいろごろも | 同人志封面 | 封面图片
 
@@ -10,16 +10,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [e＊](./e＊.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [e＊](./e＊.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
   
-源地址：[direct image link (rotated)](https://www.suruga-ya.jp/database/pics_light/game/zhore6634.jpg), [source page (suruga-ya ID: ZHORE6634)](https://www.suruga-ya.jp/product/detail/ZHORE6634)
-  
-
-
-
-
+源地址：[direct image link (rotated)](https://www.suruga-ya.jp/database/pics_light/game/zhore6634.jpg), [source page (suruga-ya ID: ZHORE6634)](https://www.suruga-ya.jp/product/detail/ZHORE6634)  
 
 ---
 

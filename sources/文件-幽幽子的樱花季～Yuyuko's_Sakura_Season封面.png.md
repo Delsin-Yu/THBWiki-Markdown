@@ -1,6 +1,6 @@
 # 文件:幽幽子的樱花季～Yuyuko's_Sakura_Season封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f0\ns6%3A%E5%B9%BD%E5%B9%BD%E5%AD%90%E7%9A%84%E6%A8%B1%E8%8A%B1%E5%AD%A3%EF%BD%9EYuyuko%27s_Sakura_Season%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f0\ns6%3A%E5%B9%BD%E5%B9%BD%E5%AD%90%E7%9A%84%E6%A8%B1%E8%8A%B1%E5%AD%A3%EF%BD%9EYuyuko%27s_Sakura_Season%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 六月社 | 封面图片
 
@@ -11,9 +11,6 @@
   
 
 - [幽幽子的樱花季～Yuyuko's Sakura Season](./幽幽子的樱花季～Yuyuko's_Sakura_Season.md)
-
-
-
 
 
 ---

@@ -1,16 +1,12 @@
 # 模板:TFIP
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\7\71\ns10%3ATFIP.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\7\71\ns10%3ATFIP.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

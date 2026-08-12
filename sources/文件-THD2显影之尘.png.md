@@ -1,6 +1,6 @@
 # 文件:THD2显影之尘.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2e\ns6%3ATHD2%E6%98%BE%E5%BD%B1%E4%B9%8B%E5%B0%98%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2e\ns6%3ATHD2%E6%98%BE%E5%BD%B1%E4%B9%8B%E5%B0%98%2Epng.html -->
 
 东方DOTS玩家社群
 
@@ -9,10 +9,6 @@
   
 来自DOTA2官网
   
-
-
-
-
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:Angel_Halo封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f1\ns6%3AAngel_Halo%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f1\ns6%3AAngel_Halo%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Cloister_Notes | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ Cloister_Notes | 专辑封面 | 封面图片
   
 
 - [Angel Halo](./Angel_Halo.md)
-
-
-
 
 
 ---

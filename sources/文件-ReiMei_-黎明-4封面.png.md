@@ -1,6 +1,6 @@
 # 文件:ReiMei_-黎明-4封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a5\ns6%3AReiMei_-%E9%BB%8E%E6%98%8E-4%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a5\ns6%3AReiMei_-%E9%BB%8E%E6%98%8E-4%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 PHOENIX_Project | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ PHOENIX_Project | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [ReiMei -黎明-4](./ReiMei_-黎明-4.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [ReiMei -黎明-4](./ReiMei_-黎明-4.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:雪工房_C84_無料配布CD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7c\ns6%3A%E9%9B%AA%E5%B7%A5%E6%88%BF_C84_%E7%84%A1%E6%96%99%E9%85%8D%E5%B8%83CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7c\ns6%3A%E9%9B%AA%E5%B7%A5%E6%88%BF_C84_%E7%84%A1%E6%96%99%E9%85%8D%E5%B8%83CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 雪工房
 
@@ -9,9 +9,6 @@
   
 
 - [雪工房 C84 無料配布CD](./雪工房_C84_無料配布CD.md)
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Rondo_side：B_REFLECTION封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9e\ns6%3ARondo_side%EF%BC%9AB_REFLECTION%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9e\ns6%3ARondo_side%EF%BC%9AB_REFLECTION%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 GP-KIDS | 同人志封面 | 封面图片
 
@@ -10,16 +10,12 @@ GP-KIDS | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Rondo side：B REFLECTION](./Rondo_side：B_REFLECTION.md)  
-该封面包含的角色：- [火焰猫燐](./火焰猫燐.md)- [灵乌路空](./灵乌路空.md)
+- [Rondo side：B REFLECTION](./Rondo_side：B_REFLECTION.md)该封面包含的角色：
+- [火焰猫燐](./火焰猫燐.md)
+- [灵乌路空](./灵乌路空.md)
 
   
-[Pixiv artwork ID: 45027392](https://www.pixiv.net/artworks/45027392)
-  
-
-
-
-
+[Pixiv artwork ID: 45027392](https://www.pixiv.net/artworks/45027392)  
 
 ---
 

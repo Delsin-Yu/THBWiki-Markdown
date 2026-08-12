@@ -1,16 +1,12 @@
 # 文件:fumo10.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\85\ns6%3Afumo10%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\85\ns6%3Afumo10%2Ejpg.html -->
 
 ふもふも
 
   
 洩矢诹访子
   
-
-
-
-
 
 ---
 

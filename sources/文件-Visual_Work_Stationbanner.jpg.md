@@ -1,18 +1,13 @@
 # 文件:Visual_Work_Stationbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\27\ns6%3AVisual_Work_Stationbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\27\ns6%3AVisual_Work_Stationbanner%2Ejpg.html -->
 
 Visual_Work_Station | 社团LOGO
 
 
 ## 摘要
   
-源地址：[direct image link](http://visualworkstation.net/image/banner1.jpg), [source page](http://visualworkstation.net)
-  
-
-
-
-
+源地址：[direct image link](http://visualworkstation.net/image/banner1.jpg), [source page](http://visualworkstation.net)  
 
 ---
 

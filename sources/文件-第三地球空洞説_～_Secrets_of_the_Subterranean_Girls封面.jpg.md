@@ -1,6 +1,6 @@
 # 文件:第三地球空洞説_～_Secrets_of_the_Subterranean_Girls封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ec\ns6%3A%E7%AC%AC%E4%B8%89%E5%9C%B0%E7%90%83%E7%A9%BA%E6%B4%9E%E8%AA%AC_%EF%BD%9E_Secrets_of_the_Subterranean_Girls%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ec\ns6%3A%E7%AC%AC%E4%B8%89%E5%9C%B0%E7%90%83%E7%A9%BA%E6%B4%9E%E8%AA%AC_%EF%BD%9E_Secrets_of_the_Subterranean_Girls%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 刻刻音樂館 | 封面图片
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [第三地球空洞説 ～ Secrets of the Subterranean Girls](./第三地球空洞説_～_Secrets_of_the_Subterranean_Girls.md)  
-该封面包含的角色：- [古明地觉](./古明地觉.md)- [灵乌路空](./灵乌路空.md)
-
-
-
+- [第三地球空洞説 ～ Secrets of the Subterranean Girls](./第三地球空洞説_～_Secrets_of_the_Subterranean_Girls.md)该封面包含的角色：
+- [古明地觉](./古明地觉.md)
+- [灵乌路空](./灵乌路空.md)
 
 
 ---

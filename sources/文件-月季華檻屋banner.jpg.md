@@ -1,18 +1,13 @@
 # 文件:月季華檻屋banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\72\ns6%3A%E6%9C%88%E5%AD%A3%E8%8F%AF%E6%AA%BB%E5%B1%8Bbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\72\ns6%3A%E6%9C%88%E5%AD%A3%E8%8F%AF%E6%AA%BB%E5%B1%8Bbanner%2Ejpg.html -->
 
 月季華檻屋 | 社团LOGO
 
 
 ## 摘要
   
-源地址：[direct image link](https://farm5.static.flickr.com/4036/4589175508_beb5a9aab8_o.jpg), [source page](http://w198997.blogspot.com/)
-  
-
-
-
-
+源地址：[direct image link](https://farm5.static.flickr.com/4036/4589175508_beb5a9aab8_o.jpg), [source page](http://w198997.blogspot.com/)  
 
 ---
 

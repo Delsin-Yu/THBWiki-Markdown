@@ -1,37 +1,21 @@
 # Phat/Pixtone隐藏角色/米斯蒂娅·萝蕾拉
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\c\c1\ns0%3APhat%2FPixtone%E9%9A%90%E8%97%8F%E8%A7%92%E8%89%B2%2F%E7%B1%B3%E6%96%AF%E8%92%82%E5%A8%85%C2%B7%E8%90%9D%E8%95%BE%E6%8B%89.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\c\c1\ns0%3APhat%2FPixtone%E9%9A%90%E8%97%8F%E8%A7%92%E8%89%B2%2F%E7%B1%B3%E6%96%AF%E8%92%82%E5%A8%85%C2%B7%E8%90%9D%E8%95%BE%E6%8B%89.html -->
 
 米斯蒂娅·萝蕾拉PVCFigure手办模型
 
 本页是关于东方Project  
- **相关实体周边 (未找到链接)** 的词条
-
+**相关实体周边 (未找到链接)**的词条
 ## 模型信息
 
-<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 米斯蒂娅·萝蕾拉 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>Pixtone隐藏角色</td></tr><tr><td class="label">角色</td><td><a href="./米斯蒂娅·萝蕾拉.md" title="米斯蒂娅·萝蕾拉">米斯蒂娅·萝蕾拉</a></td></tr><tr><td class="label">尺寸</td><td>40mm</td></tr><tr><td class="label">状态</td><td>已发售</td></tr><tr><td class="label">售价</td><td>476円</td></tr><tr><td class="label">首发日期</td><td>2011-10-21</td></tr><tr><td class="label">发售方</td><td><a href="/index.php?title=Phat&amp;action=edit&amp;redlink=1" class="new" title="Phat（页面不存在）">Phat</a></td></tr><tr><td class="label">官网页面</td><td><a rel="nofollow" class="external free" href="http://phatcompany.jp/">http://phatcompany.jp/</a></td></tr><tr><td class="label">备注</td><td>此为Pixtone系列的隐藏角色</td></tr></tbody></table>
+<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 米斯蒂娅·萝蕾拉 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>Pixtone隐藏角色</td></tr><tr><td class="label">角色</td><td><a href="./米斯蒂娅·萝蕾拉.md" title="米斯蒂娅·萝蕾拉">米斯蒂娅·萝蕾拉</a></td></tr><tr><td class="label">尺寸</td><td>40mm</td></tr><tr><td class="label">状态</td><td>已发售</td></tr><tr><td class="label">售价</td><td>476円</td></tr><tr><td class="label">首发日期</td><td>2011-10-21</td></tr><tr><td class="label">发售方</td><td><a class="new" title="Phat（页面不存在）">Phat</a></td></tr><tr><td class="label">官网页面</td><td><a rel="nofollow" class="external free" href="http://phatcompany.jp/">http://phatcompany.jp/</a></td></tr><tr><td class="label">备注</td><td>此为Pixtone系列的隐藏角色</td></tr></tbody></table>
 
 Phat/Pixtone隐藏角色/米斯蒂娅·萝蕾拉（周边） - 米斯蒂娅·萝蕾拉PVCFigure手办模型
-
 ## 参考图片
-
-
-
-[](./文件-PhatPixtone伊吹萃香-1.jpg.md)
-
-
-[](./文件-PhatPixtone伊吹萃香-2.jpg.md)
-
-
-[](./文件-PhatPixtone隐藏角色米斯蒂娅·萝蕾拉-3.jpg.md)
-
+<img alt="PhatPixtone隐藏角色米斯蒂娅·萝蕾拉" src="https://upload.thwiki.cc/thumb/1/17/PhatPixtone%E4%BC%8A%E5%90%B9%E8%90%83%E9%A6%99-1.jpg/237px-PhatPixtone%E4%BC%8A%E5%90%B9%E8%90%83%E9%A6%99-1.jpg" decoding="async" loading="lazy" width="237" height="135" srcset="https://upload.thwiki.cc/thumb/1/17/PhatPixtone%E4%BC%8A%E5%90%B9%E8%90%83%E9%A6%99-1.jpg/356px-PhatPixtone%E4%BC%8A%E5%90%B9%E8%90%83%E9%A6%99-1.jpg 1.5x, https://upload.thwiki.cc/thumb/1/17/PhatPixtone%E4%BC%8A%E5%90%B9%E8%90%83%E9%A6%99-1.jpg/474px-PhatPixtone%E4%BC%8A%E5%90%B9%E8%90%83%E9%A6%99-1.jpg 2x" data-file-width="580" data-file-height="331">
+<img alt="PhatPixtone隐藏角色米斯蒂娅·萝蕾拉" src="https://upload.thwiki.cc/thumb/3/3a/PhatPixtone%E4%BC%8A%E5%90%B9%E8%90%83%E9%A6%99-2.jpg/160px-PhatPixtone%E4%BC%8A%E5%90%B9%E8%90%83%E9%A6%99-2.jpg" decoding="async" loading="lazy" width="160" height="136" srcset="https://upload.thwiki.cc/thumb/3/3a/PhatPixtone%E4%BC%8A%E5%90%B9%E8%90%83%E9%A6%99-2.jpg/240px-PhatPixtone%E4%BC%8A%E5%90%B9%E8%90%83%E9%A6%99-2.jpg 1.5x, https://upload.thwiki.cc/thumb/3/3a/PhatPixtone%E4%BC%8A%E5%90%B9%E8%90%83%E9%A6%99-2.jpg/320px-PhatPixtone%E4%BC%8A%E5%90%B9%E8%90%83%E9%A6%99-2.jpg 2x" data-file-width="500" data-file-height="424">
+<img alt="PhatPixtone隐藏角色米斯蒂娅·萝蕾拉" src="https://upload.thwiki.cc/thumb/f/fe/PhatPixtone%E9%9A%90%E8%97%8F%E8%A7%92%E8%89%B2%E7%B1%B3%E6%96%AF%E8%92%82%E5%A8%85%C2%B7%E8%90%9D%E8%95%BE%E6%8B%89-3.jpg/105px-PhatPixtone%E9%9A%90%E8%97%8F%E8%A7%92%E8%89%B2%E7%B1%B3%E6%96%AF%E8%92%82%E5%A8%85%C2%B7%E8%90%9D%E8%95%BE%E6%8B%89-3.jpg" decoding="async" loading="lazy" width="105" height="137" srcset="https://upload.thwiki.cc/thumb/f/fe/PhatPixtone%E9%9A%90%E8%97%8F%E8%A7%92%E8%89%B2%E7%B1%B3%E6%96%AF%E8%92%82%E5%A8%85%C2%B7%E8%90%9D%E8%95%BE%E6%8B%89-3.jpg/158px-PhatPixtone%E9%9A%90%E8%97%8F%E8%A7%92%E8%89%B2%E7%B1%B3%E6%96%AF%E8%92%82%E5%A8%85%C2%B7%E8%90%9D%E8%95%BE%E6%8B%89-3.jpg 1.5x, https://upload.thwiki.cc/thumb/f/fe/PhatPixtone%E9%9A%90%E8%97%8F%E8%A7%92%E8%89%B2%E7%B1%B3%E6%96%AF%E8%92%82%E5%A8%85%C2%B7%E8%90%9D%E8%95%BE%E6%8B%89-3.jpg/210px-PhatPixtone%E9%9A%90%E8%97%8F%E8%A7%92%E8%89%B2%E7%B1%B3%E6%96%AF%E8%92%82%E5%A8%85%C2%B7%E8%90%9D%E8%95%BE%E6%8B%89-3.jpg 2x" data-file-width="256" data-file-height="333">
 公式图
-
-
-
-
-
-
 
 ---
 

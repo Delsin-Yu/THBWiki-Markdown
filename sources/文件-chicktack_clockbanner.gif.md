@@ -1,14 +1,11 @@
 # 文件:chicktack_clockbanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b3\ns6%3Achicktack_clockbanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b3\ns6%3Achicktack_clockbanner%2Egif.html -->
 
 chicktack_clock | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

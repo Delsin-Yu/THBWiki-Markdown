@@ -1,12 +1,8 @@
 # 文件:宿星「Bethlehem_Simulator」.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\67\ns6%3A%E5%AE%BF%E6%98%9F%E3%80%8CBethlehem_Simulator%E3%80%8D%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\67\ns6%3A%E5%AE%BF%E6%98%9F%E3%80%8CBethlehem_Simulator%E3%80%8D%2Ejpg.html -->
 
 東方邪星章製作チーム
-
-
-
-
 
 
 ---

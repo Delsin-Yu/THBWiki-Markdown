@@ -1,16 +1,12 @@
 # 模板:CP
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\e\e7\ns10%3ACP.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\e\e7\ns10%3ACP.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

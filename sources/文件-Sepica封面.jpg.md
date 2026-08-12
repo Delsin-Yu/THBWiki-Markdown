@@ -1,6 +1,6 @@
 # 文件:Sepica封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fa\ns6%3ASepica%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fa\ns6%3ASepica%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 みっちぇる | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Sepica](./Sepica.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [Sepica](./Sepica.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
   
-源地址：[direct image link](https://www.suruga-ya.jp/database/pics_light/game/zhore27145.jpg), [source page (suruga-ya ID: ZHORE27145)](https://www.suruga-ya.jp/product/detail/ZHORE27145)
-  
-
-
-
-
+源地址：[direct image link](https://www.suruga-ya.jp/database/pics_light/game/zhore27145.jpg), [source page (suruga-ya ID: ZHORE27145)](https://www.suruga-ya.jp/product/detail/ZHORE27145)  
 
 ---
 

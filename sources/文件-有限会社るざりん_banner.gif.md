@@ -1,14 +1,11 @@
 # 文件:有限会社るざりん_banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1c\ns6%3A%E6%9C%89%E9%99%90%E4%BC%9A%E7%A4%BE%E3%82%8B%E3%81%96%E3%82%8A%E3%82%93_banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1c\ns6%3A%E6%9C%89%E9%99%90%E4%BC%9A%E7%A4%BE%E3%82%8B%E3%81%96%E3%82%8A%E3%82%93_banner%2Egif.html -->
 
 有限会社るざりん | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

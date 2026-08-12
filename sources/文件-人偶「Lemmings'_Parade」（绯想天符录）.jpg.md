@@ -1,14 +1,11 @@
 # 文件:人偶「Lemmings'_Parade」（绯想天符录）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\60\ns6%3A%E4%BA%BA%E5%81%B6%E3%80%8CLemmings%27_Parade%E3%80%8D%EF%BC%88%E7%BB%AF%E6%83%B3%E5%A4%A9%E7%AC%A6%E5%BD%95%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\60\ns6%3A%E4%BA%BA%E5%81%B6%E3%80%8CLemmings%27_Parade%E3%80%8D%EF%BC%88%E7%BB%AF%E6%83%B3%E5%A4%A9%E7%AC%A6%E5%BD%95%EF%BC%89%2Ejpg.html -->
 
 爱丽丝·玛格特洛依德 | 绯想天符录
 
 
 ## 摘要
-
-
-
 
 ---
 

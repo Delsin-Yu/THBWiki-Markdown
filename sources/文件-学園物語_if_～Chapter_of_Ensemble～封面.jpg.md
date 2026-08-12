@@ -1,6 +1,6 @@
 # 文件:学園物語_if_～Chapter_of_Ensemble～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e1\ns6%3A%E5%AD%A6%E5%9C%92%E7%89%A9%E8%AA%9E_if_%EF%BD%9EChapter_of_Ensemble%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e1\ns6%3A%E5%AD%A6%E5%9C%92%E7%89%A9%E8%AA%9E_if_%EF%BD%9EChapter_of_Ensemble%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 华绢花 | 同人志封面 | 封面图片 | 青深壊虚
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [学園物語 if ～Chapter of Ensemble～](./学園物語_if_～Chapter_of_Ensemble～.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
+- [学園物語 if ～Chapter of Ensemble～](./学園物語_if_～Chapter_of_Ensemble～.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
   
-源地址：[[1]](https://web.archive.org/web/20120331204011if_/http://www.e-kenken.com/circle/images/cm_book1-1.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://web.archive.org/web/20120331204011if_/http://www.e-kenken.com/circle/images/cm_book1-1.jpg)  
 
 ---
 

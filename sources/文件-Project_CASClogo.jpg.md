@@ -1,16 +1,11 @@
 # 文件:Project_CASClogo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\68\ns6%3AProject_CASClogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\68\ns6%3AProject_CASClogo%2Ejpg.html -->
 
 Project_CASC | 社团LOGO
 
   
-源地址：[[1]](https://booth.pximg.net/c/128x128/users/1732828/icon_image/3890198f-6c33-41c5-b293-4bd00bc2f3bc_base_resized.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://booth.pximg.net/c/128x128/users/1732828/icon_image/3890198f-6c33-41c5-b293-4bd00bc2f3bc_base_resized.jpg)  
 
 ---
 

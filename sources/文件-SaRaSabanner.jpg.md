@@ -1,14 +1,11 @@
 # 文件:SaRaSabanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\09\ns6%3ASaRaSabanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\09\ns6%3ASaRaSabanner%2Ejpg.html -->
 
 SaRaSa | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

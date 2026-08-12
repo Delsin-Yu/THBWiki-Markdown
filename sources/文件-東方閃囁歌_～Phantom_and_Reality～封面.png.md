@@ -1,6 +1,6 @@
 # 文件:東方閃囁歌_～Phantom_and_Reality～封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\90\ns6%3A%E6%9D%B1%E6%96%B9%E9%96%83%E5%9B%81%E6%AD%8C_%EF%BD%9EPhantom_and_Reality%EF%BD%9E%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\90\ns6%3A%E6%9D%B1%E6%96%B9%E9%96%83%E5%9B%81%E6%AD%8C_%EF%BD%9EPhantom_and_Reality%EF%BD%9E%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 いえろ～ぜぶら | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方閃囁歌 ～Phantom and Reality～](./東方閃囁歌_～Phantom_and_Reality～.md)  
-该封面包含的角色：- [橙](./橙.md)
-
-
-
+- [東方閃囁歌 ～Phantom and Reality～](./東方閃囁歌_～Phantom_and_Reality～.md)该封面包含的角色：
+- [橙](./橙.md)
 
 
 ---

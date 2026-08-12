@@ -1,12 +1,8 @@
 # 文件:「顶门紫针」高速（地灵殿Manual）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9f\ns6%3A%E3%80%8C%E9%A1%B6%E9%97%A8%E7%B4%AB%E9%92%88%E3%80%8D%E9%AB%98%E9%80%9F%EF%BC%88%E5%9C%B0%E7%81%B5%E6%AE%BFManual%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9f\ns6%3A%E3%80%8C%E9%A1%B6%E9%97%A8%E7%B4%AB%E9%92%88%E3%80%8D%E9%AB%98%E9%80%9F%EF%BC%88%E5%9C%B0%E7%81%B5%E6%AE%BFManual%EF%BC%89%2Epng.html -->
 
 Manual配图 | 东方地灵殿 | 博丽灵梦
-
-
-
-
 
 
 ---

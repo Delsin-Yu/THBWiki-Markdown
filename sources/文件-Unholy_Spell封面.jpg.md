@@ -1,6 +1,6 @@
 # 文件:Unholy_Spell封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3f\ns6%3AUnholy_Spell%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3f\ns6%3AUnholy_Spell%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Sketch_The_Fantasy | 专辑封面 | 封面图片
 
@@ -8,12 +8,10 @@ Sketch_The_Fantasy | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Unholy Spell](./Unholy_Spell.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [雾雨魔理沙](./雾雨魔理沙.md)源地址：[[1]](https://web.archive.org/web/20140324011402im_/http://sketchthefantasy.com/images/jacket/unholyspell.jpg)
-
-
-
-
+- [Unholy Spell](./Unholy_Spell.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
+源地址：[\[1\]](https://web.archive.org/web/20140324011402im_/http://sketchthefantasy.com/images/jacket/unholyspell.jpg)
 
 ---
 

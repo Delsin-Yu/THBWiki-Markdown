@@ -1,12 +1,8 @@
 # 文件:はちみつくまさんbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a7\ns6%3A%E3%81%AF%E3%81%A1%E3%81%BF%E3%81%A4%E3%81%8F%E3%81%BE%E3%81%95%E3%82%93banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a7\ns6%3A%E3%81%AF%E3%81%A1%E3%81%BF%E3%81%A4%E3%81%8F%E3%81%BE%E3%81%95%E3%82%93banner%2Epng.html -->
 
 はちみつくまさん | 社团LOGO
-
-
-
-
 
 
 ---

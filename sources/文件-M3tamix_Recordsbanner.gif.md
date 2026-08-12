@@ -1,12 +1,8 @@
 # 文件:M3tamix_Recordsbanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c4\ns6%3AM3tamix_Recordsbanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c4\ns6%3AM3tamix_Recordsbanner%2Egif.html -->
 
 M3tamix_Records | 社团LOGO
-
-
-
-
 
 
 ---

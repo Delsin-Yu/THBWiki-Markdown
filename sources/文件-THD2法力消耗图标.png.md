@@ -1,12 +1,8 @@
 # 文件:THD2法力消耗图标.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dc\ns6%3ATHD2%E6%B3%95%E5%8A%9B%E6%B6%88%E8%80%97%E5%9B%BE%E6%A0%87%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dc\ns6%3ATHD2%E6%B3%95%E5%8A%9B%E6%B6%88%E8%80%97%E5%9B%BE%E6%A0%87%2Epng.html -->
 
 THD2
-
-
-
-
 
 
 ---

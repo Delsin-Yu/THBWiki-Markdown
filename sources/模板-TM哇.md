@@ -1,16 +1,12 @@
 # 模板:TM哇
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\1\1a\ns10%3ATM%E5%93%87.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\1\1a\ns10%3ATM%E5%93%87.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

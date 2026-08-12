@@ -1,14 +1,11 @@
 # 文件:The_Grimoire_of_Usami（火焰猫燐1）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\88\ns6%3AThe_Grimoire_of_Usami%EF%BC%88%E7%81%AB%E7%84%B0%E7%8C%AB%E7%87%901%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\88\ns6%3AThe_Grimoire_of_Usami%EF%BC%88%E7%81%AB%E7%84%B0%E7%8C%AB%E7%87%901%EF%BC%89%2Ejpg.html -->
 
 宇佐见的魔法书 | 火焰猫燐
 
 
 ## 摘要
-
-
-
 
 ---
 

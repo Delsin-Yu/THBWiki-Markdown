@@ -1,6 +1,6 @@
 # 东方幻想乡Defence_of_The_Shrines/设定/黑白
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\3\31\ns0%3A%E4%B8%9C%E6%96%B9%E5%B9%BB%E6%83%B3%E4%B9%A1Defence_of_The_Shrines%2F%E8%AE%BE%E5%AE%9A%2F%E9%BB%91%E7%99%BD.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\3\31\ns0%3A%E4%B8%9C%E6%96%B9%E5%B9%BB%E6%83%B3%E4%B9%A1Defence_of_The_Shrines%2F%E8%AE%BE%E5%AE%9A%2F%E9%BB%91%E7%99%BD.html -->
 
 东方DOTS制作组
 
@@ -11,24 +11,20 @@
 雾雨魔理沙
   
   
-[](./文件-THD-Marisae.jpg.md)
+<img alt="THD-Marisae.jpg" src="https://upload.thwiki.cc/e/e0/THD-Marisae.jpg" decoding="async" loading="lazy" width="445" height="53" data-file-width="445" data-file-height="53">
   
   
-[](./文件-THD-Marisad.jpg.md)
+<img alt="THD-Marisad.jpg" src="https://upload.thwiki.cc/a/ab/THD-Marisad.jpg" decoding="async" loading="lazy" width="447" height="162" data-file-width="447" data-file-height="162">
   
   
-[](./文件-THD-Marisaf.jpg.md)
+<img alt="THD-Marisaf.jpg" src="https://upload.thwiki.cc/3/3b/THD-Marisaf.jpg" decoding="async" loading="lazy" width="447" height="188" data-file-width="447" data-file-height="188">
   
   
-[](./文件-THD-Marisar.jpg.md)
+<img alt="THD-Marisar.jpg" src="https://upload.thwiki.cc/2/28/THD-Marisar.jpg" decoding="async" loading="lazy" width="448" height="178" data-file-width="448" data-file-height="178">
   
   
-[](./文件-THD-Marisaw.jpg.md)
+<img alt="THD-Marisaw.jpg" src="https://upload.thwiki.cc/6/66/THD-Marisaw.jpg" decoding="async" loading="lazy" width="449" height="190" data-file-width="449" data-file-height="190">
   
-
-
-
-
 
 ---
 

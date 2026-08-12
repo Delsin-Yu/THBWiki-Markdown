@@ -1,12 +1,8 @@
 # 文件:不知火米兰（谜缘塔）lol.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\24\ns6%3A%E4%B8%8D%E7%9F%A5%E7%81%AB%E7%B1%B3%E5%85%B0%EF%BC%88%E8%B0%9C%E7%BC%98%E5%A1%94%EF%BC%89lol%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\24\ns6%3A%E4%B8%8D%E7%9F%A5%E7%81%AB%E7%B1%B3%E5%85%B0%EF%BC%88%E8%B0%9C%E7%BC%98%E5%A1%94%EF%BC%89lol%2Epng.html -->
 
 不知火米兰 | 二次角色立绘 | 阐幽赜书房
-
-
-
-
 
 
 ---

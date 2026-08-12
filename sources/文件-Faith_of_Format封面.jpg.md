@@ -1,6 +1,6 @@
 # 文件:Faith_of_Format封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\48\ns6%3AFaith_of_Format%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\48\ns6%3AFaith_of_Format%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Dust_Box_49 | N-tone | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ Dust_Box_49 | N-tone | 专辑封面 | 封面图片
   
 
 - [Faith of Format](./Faith_of_Format.md)
-
-
-
 
 
 ---

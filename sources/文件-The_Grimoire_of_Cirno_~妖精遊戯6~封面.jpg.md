@@ -1,6 +1,6 @@
 # 文件:The_Grimoire_of_Cirno_~妖精遊戯6~封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1b\ns6%3AThe_Grimoire_of_Cirno_%7E%E5%A6%96%E7%B2%BE%E9%81%8A%E6%88%AF6%7E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1b\ns6%3AThe_Grimoire_of_Cirno_%7E%E5%A6%96%E7%B2%BE%E9%81%8A%E6%88%AF6%7E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ビッグアイランド | 同人志封面 | 封面图片
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [The Grimoire of Cirno ~妖精遊戯6~](./The_Grimoire_of_Cirno_~妖精遊戯6~.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
-
-
-
+- [The Grimoire of Cirno ~妖精遊戯6~](./The_Grimoire_of_Cirno_~妖精遊戯6~.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
 
 
 ---

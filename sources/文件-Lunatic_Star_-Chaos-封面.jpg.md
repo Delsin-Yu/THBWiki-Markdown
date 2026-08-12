@@ -1,6 +1,6 @@
 # 文件:Lunatic_Star_"Chaos"封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1f\ns6%3ALunatic_Star_%22Chaos%22%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1f\ns6%3ALunatic_Star_%22Chaos%22%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Crimson_Moon | Pays_féerique | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Crimson_Moon | Pays_féerique | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Lunatic Star "Chaos"](./Lunatic_Star_-Chaos-.md)  
-该封面包含的角色：- [米斯蒂娅·萝蕾拉](./米斯蒂娅·萝蕾拉.md)
+- [Lunatic Star "Chaos"](./Lunatic_Star_-Chaos-.md)该封面包含的角色：
+- [米斯蒂娅·萝蕾拉](./米斯蒂娅·萝蕾拉.md)
 
   
-源地址: [[1]](http://crimsonmoon.rejec.net/lib/disc_jacket/lunatic_star_chaos.jpg) （已经失效）
-  
-
-
-
-
+源地址: [\[1\]](http://crimsonmoon.rejec.net/lib/disc_jacket/lunatic_star_chaos.jpg) （已经失效）  
 
 ---
 

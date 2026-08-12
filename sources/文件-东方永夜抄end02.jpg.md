@@ -1,12 +1,8 @@
 # 文件:东方永夜抄end02.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1f\ns6%3A%E4%B8%9C%E6%96%B9%E6%B0%B8%E5%A4%9C%E6%8A%84end02%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1f\ns6%3A%E4%B8%9C%E6%96%B9%E6%B0%B8%E5%A4%9C%E6%8A%84end02%2Ejpg.html -->
 
 东方永夜抄结局图
-
-
-
-
 
 
 ---

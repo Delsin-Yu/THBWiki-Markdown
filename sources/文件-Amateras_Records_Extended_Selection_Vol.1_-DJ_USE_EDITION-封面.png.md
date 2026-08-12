@@ -1,6 +1,6 @@
 # 文件:Amateras_Records_Extended_Selection_Vol.1_-DJ_USE_EDITION-封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\13\ns6%3AAmateras_Records_Extended_Selection_Vol%2E1_-DJ_USE_EDITION-%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\13\ns6%3AAmateras_Records_Extended_Selection_Vol%2E1_-DJ_USE_EDITION-%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Amateras_Records | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Amateras_Records | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Amateras Records Extended Selection Vol.1 -DJ USE EDITION-](./Amateras_Records_Extended_Selection_Vol.1_-DJ_USE_EDITION-.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [Amateras Records Extended Selection Vol.1 -DJ USE EDITION-](./Amateras_Records_Extended_Selection_Vol.1_-DJ_USE_EDITION-.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

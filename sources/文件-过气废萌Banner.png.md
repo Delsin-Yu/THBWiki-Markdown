@@ -1,12 +1,8 @@
 # 文件:过气废萌Banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\97\ns6%3A%E8%BF%87%E6%B0%94%E5%BA%9F%E8%90%8CBanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\97\ns6%3A%E8%BF%87%E6%B0%94%E5%BA%9F%E8%90%8CBanner%2Epng.html -->
 
 社团LOGO | 过气废萌社团
-
-
-
-
 
 
 ---

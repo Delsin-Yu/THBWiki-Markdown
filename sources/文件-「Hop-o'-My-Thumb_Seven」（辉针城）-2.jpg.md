@@ -1,12 +1,8 @@
 # 文件:「Hop-o'-My-Thumb_Seven」（辉针城）-2.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\57\ns6%3A%E3%80%8CHop-o%27-My-Thumb_Seven%E3%80%8D%EF%BC%88%E8%BE%89%E9%92%88%E5%9F%8E%EF%BC%89-2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\57\ns6%3A%E3%80%8CHop-o%27-My-Thumb_Seven%E3%80%8D%EF%BC%88%E8%BE%89%E9%92%88%E5%9F%8E%EF%BC%89-2%2Ejpg.html -->
 
 东方辉针城 | 少名针妙丸 | 敌机符卡
-
-
-
-
 
 
 ---

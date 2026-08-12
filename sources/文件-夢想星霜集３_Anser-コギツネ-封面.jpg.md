@@ -1,6 +1,6 @@
 # 文件:夢想星霜集３_Anser-コギツネ-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a1\ns6%3A%E5%A4%A2%E6%83%B3%E6%98%9F%E9%9C%9C%E9%9B%86%EF%BC%93_Anser-%E3%82%B3%E3%82%AE%E3%83%84%E3%83%8D-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a1\ns6%3A%E5%A4%A2%E6%83%B3%E6%98%9F%E9%9C%9C%E9%9B%86%EF%BC%93_Anser-%E3%82%B3%E3%82%AE%E3%83%84%E3%83%8D-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Re：Volte | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Re：Volte | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [夢想星霜集３ Anser-コギツネ-](./夢想星霜集３_Anser-コギツネ-.md)  
-该封面包含的角色：- [八云蓝](./八云蓝.md)
-
-
-
+- [夢想星霜集３ Anser-コギツネ-](./夢想星霜集３_Anser-コギツネ-.md)该封面包含的角色：
+- [八云蓝](./八云蓝.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Touhou_Mecha封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\30\ns6%3ATouhou_Mecha%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\30\ns6%3ATouhou_Mecha%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Dai-Sukima_Dan | 封面图片 | 软件封面
 
@@ -9,9 +9,6 @@ Dai-Sukima_Dan | 封面图片 | 软件封面
   
 
 - [Touhou Mecha](./Touhou_Mecha.md)
-
-
-
 
 
 ---

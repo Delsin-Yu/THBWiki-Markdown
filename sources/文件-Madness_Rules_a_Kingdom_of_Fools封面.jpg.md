@@ -1,6 +1,6 @@
 # 文件:Madness_Rules_a_Kingdom_of_Fools封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9e\ns6%3AMadness_Rules_a_Kingdom_of_Fools%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9e\ns6%3AMadness_Rules_a_Kingdom_of_Fools%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 NVRMLTICE | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@ NVRMLTICE | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Madness Rules a Kingdom of Fools](./Madness_Rules_a_Kingdom_of_Fools.md)  
-该封面包含的角色：- [克劳恩皮丝](./克劳恩皮丝.md)
+- [Madness Rules a Kingdom of Fools](./Madness_Rules_a_Kingdom_of_Fools.md)该封面包含的角色：
+- [克劳恩皮丝](./克劳恩皮丝.md)
 
   
-源地址：[direct image link (10 size)](https://f4.bcbits.com/img/a0077403572_10.jpg), [source page (artist Bandcamp)](https://nvrmltice.bandcamp.com/track/madness-rules-a-kingdom-of-fools)
-  
-
-
-
-
+源地址：[direct image link (10 size)](https://f4.bcbits.com/img/a0077403572_10.jpg), [source page (artist Bandcamp)](https://nvrmltice.bandcamp.com/track/madness-rules-a-kingdom-of-fools)  
 
 ---
 

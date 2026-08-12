@@ -1,14 +1,11 @@
 # 文件:168banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e7\ns6%3A168banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e7\ns6%3A168banner%2Egif.html -->
 
 168 | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

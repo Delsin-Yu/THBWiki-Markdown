@@ -1,6 +1,6 @@
 # 文件:Qの模倣子封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\55\ns6%3AQ%E3%81%AE%E6%A8%A1%E5%80%A3%E5%AD%90%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\55\ns6%3AQ%E3%81%AE%E6%A8%A1%E5%80%A3%E5%AD%90%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 リレバ | 同人志封面 | 封面图片
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [Qの模倣子](./Qの模倣子.md)  
-该封面包含的角色：- [本居小铃](./本居小铃.md)- [稗田阿求](./稗田阿求.md)
-
-
-
+- [Qの模倣子](./Qの模倣子.md)该封面包含的角色：
+- [本居小铃](./本居小铃.md)
+- [稗田阿求](./稗田阿求.md)
 
 
 ---

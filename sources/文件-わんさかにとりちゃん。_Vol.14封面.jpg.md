@@ -1,6 +1,6 @@
 # 文件:わんさかにとりちゃん。_Vol.14封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3a\ns6%3A%E3%82%8F%E3%82%93%E3%81%95%E3%81%8B%E3%81%AB%E3%81%A8%E3%82%8A%E3%81%A1%E3%82%83%E3%82%93%E3%80%82_Vol%2E14%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3a\ns6%3A%E3%82%8F%E3%82%93%E3%81%95%E3%81%8B%E3%81%AB%E3%81%A8%E3%82%8A%E3%81%A1%E3%82%83%E3%82%93%E3%80%82_Vol%2E14%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 マルチタスク | 同人志封面 | 封面图片
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [わんさかにとりちゃん。 Vol.14](./わんさかにとりちゃん。_Vol.14.md)  
-该封面包含的角色：- [河城荷取](./河城荷取.md)- [河童](./河童.md)
-
-
-
+- [わんさかにとりちゃん。 Vol.14](./わんさかにとりちゃん。_Vol.14.md)该封面包含的角色：
+- [河城荷取](./河城荷取.md)
+- [河童](./河童.md)
 
 
 ---

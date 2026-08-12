@@ -1,6 +1,6 @@
 # 文件:Scarlet_crisis封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\25\ns6%3AScarlet_crisis%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\25\ns6%3AScarlet_crisis%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Lunatic_mixture | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Lunatic_mixture | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Scarlet crisis](./Scarlet_crisis.md)  
-该封面包含的角色：- [冈崎梦美](./冈崎梦美.md)
+- [Scarlet crisis](./Scarlet_crisis.md)该封面包含的角色：
+- [冈崎梦美](./冈崎梦美.md)
 
   
-源地址：[[1]](http://67.media.tumblr.com/f576eee04dbee6ddbb98d0aac41acc77/tumblr_inline_nnbkahLG5A1spcdsb_1280.png)
-  
-
-
-
-
+源地址：[\[1\]](http://67.media.tumblr.com/f576eee04dbee6ddbb98d0aac41acc77/tumblr_inline_nnbkahLG5A1spcdsb_1280.png)  
 
 ---
 

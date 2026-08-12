@@ -1,6 +1,6 @@
 # 東方蒔夢原_～_Champaign_of_Unfinished_Dreams./ExStory
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\7\7a\ns0%3A%E6%9D%B1%E6%96%B9%E8%92%94%E5%A4%A2%E5%8E%9F_%EF%BD%9E_Champaign_of_Unfinished_Dreams%2E%2FExStory.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\7\7a\ns0%3A%E6%9D%B1%E6%96%B9%E8%92%94%E5%A4%A2%E5%8E%9F_%EF%BD%9E_Champaign_of_Unfinished_Dreams%2E%2FExStory.html -->
 
 Consonances&Dissonances | 明ノ宮_飛鳥
 
@@ -18,7 +18,6 @@ Consonances&Dissonances | 明ノ宮_飛鳥
 纱依：是我。深夜打扰十分抱歉，但是有些紧急的事……  
 
 灵梦：哈？这么晚了有什么事？  
-
   
 
 纱依：……事情就是这样。那个人自称是小乃真正的主人，要把她带走。  
@@ -32,13 +31,10 @@ Consonances&Dissonances | 明ノ宮_飛鳥
 纱依：一定是这样，所以，就算是为了结界考虑，可否请您帮忙呢？  
 
 灵梦：真是的，我的“梦”又由谁来负责啊——我香甜的美梦……  
-
   
 
 就这样，灵梦虽然不情愿，却还是再一次动身前往那片原野……  
-
   
-
 
 ## EXTRA 故事背景（魔理沙线）
   
@@ -61,7 +57,6 @@ Consonances&Dissonances | 明ノ宮_飛鳥
 我感觉到了内心的躁动……玩弄梦想的幕后黑手依然存在着。  
 
 我已经做好了战斗的准备啦。愚弄弱小者的梦想的家伙，不可原谅！  
-
   
   
   
@@ -77,15 +72,12 @@ Consonances&Dissonances | 明ノ宮_飛鳥
 谢礼……有了……！  
 
 勇者魔理沙打倒大魔王的英勇身姿，好好地把它记作传说，做成游戏吧！  
-
   
   
   
 
 就这样，魔理沙虽然有点贪心，但还是抱着斗志，再一次踏上了去往莳梦原的路。  
-
   
-
 
 ## EXTRA 故事背景（清姬线）
   
@@ -96,7 +88,6 @@ Consonances&Dissonances | 明ノ宮_飛鳥
 虽然看似一切都已结束，可对于清姬来说，真正在意的事情依然悬而未决。  
 
 清姬：“‘那家伙’不会让她就此消失的。不然，一直以来的功夫岂不是白费了？”  
-
   
   
   
@@ -116,18 +107,12 @@ Consonances&Dissonances | 明ノ宮_飛鳥
 被深沉暗夜笼罩的莳梦原，已然快要消失殆尽——但，构成它的力量并未消散，而是回归了某处——原本的拥有者身边。  
 
 那么，隐藏在暗中的神秘阴阳师究竟是敌是友呢。  
-
   
   
   
 
 清姬饶有兴味地吹出一口烟，再次向着黑暗的原野进发。  
-
   
-
-
-
-
 
 ---
 

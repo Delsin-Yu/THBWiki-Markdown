@@ -1,16 +1,12 @@
 # 模板:酉京都Demonstration
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\a\a0\ns10%3A%E9%85%89%E4%BA%AC%E9%83%BDDemonstration.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\a\a0\ns10%3A%E9%85%89%E4%BA%AC%E9%83%BDDemonstration.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

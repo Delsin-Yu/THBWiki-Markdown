@@ -1,14 +1,12 @@
 # 游戏攻略/东方文花帖DS/其他
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\b6\ns0%3A%E6%B8%B8%E6%88%8F%E6%94%BB%E7%95%A5%2F%E4%B8%9C%E6%96%B9%E6%96%87%E8%8A%B1%E5%B8%96DS%2F%E5%85%B6%E4%BB%96.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\b6\ns0%3A%E6%B8%B8%E6%88%8F%E6%94%BB%E7%95%A5%2F%E4%B8%9C%E6%96%B9%E6%96%87%E8%8A%B1%E5%B8%96DS%2F%E5%85%B6%E4%BB%96.html -->
+
 
 
 
 - rep可能出现自机贴图错误的情况（但rep中的其他情况正常，也可以影响demo play）
 - 由于未知原因，12-6有可能炸rep，此时可以尝试在rep内重新播放或重启游戏
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:東方岩少女_ROCKGIRL_V_-こいしの罠！？封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bc\ns6%3A%E6%9D%B1%E6%96%B9%E5%B2%A9%E5%B0%91%E5%A5%B3_ROCKGIRL_V_-%E3%81%93%E3%81%84%E3%81%97%E3%81%AE%E7%BD%A0%EF%BC%81%EF%BC%9F%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bc\ns6%3A%E6%9D%B1%E6%96%B9%E5%B2%A9%E5%B0%91%E5%A5%B3_ROCKGIRL_V_-%E3%81%93%E3%81%84%E3%81%97%E3%81%AE%E7%BD%A0%EF%BC%81%EF%BC%9F%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 趣味工房にんじんわいん
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方岩少女 ROCKGIRL V -こいしの罠！？](./東方岩少女_ROCKGIRL_V_-こいしの罠！？.md)  
-该封面包含的角色：- [古明地觉](./古明地觉.md)
-
-
-
+- [東方岩少女 ROCKGIRL V -こいしの罠！？](./東方岩少女_ROCKGIRL_V_-こいしの罠！？.md)该封面包含的角色：
+- [古明地觉](./古明地觉.md)
 
 
 ---

@@ -1,12 +1,11 @@
 # Another_Dream_Issue_1
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\1\18\ns0%3AAnother_Dream_Issue_1.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\1\18\ns0%3AAnother_Dream_Issue_1.html -->
 
 2007年9月1日 由 Another Dream  发布的合同志/漫画同人志，一共64页，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人志 (未找到链接)** 的词条
-
+**[二次创作同人志](./二次创作.md#同人志)**的词条
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Another_Dream_Issue_1封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/3/35/Another_Dream_Issue_1%E5%B0%81%E9%9D%A2.jpg/126px-Another_Dream_Issue_1%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="126" height="168" srcset="https://upload.thwiki.cc/thumb/3/35/Another_Dream_Issue_1%E5%B0%81%E9%9D%A2.jpg/189px-Another_Dream_Issue_1%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/3/35/Another_Dream_Issue_1%E5%B0%81%E9%9D%A2.jpg/252px-Another_Dream_Issue_1%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="600" data-file-height="800"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></div></td>
@@ -15,7 +14,6 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://anotherdream.gensokyo.org/releases/issue-1-sept-2007-release/">http://anotherdream.gensokyo.org/releases/issue-1-sept-2007-release/</a><br><span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span></td></tr></tbody></table>
 
 Another Dream Issue 1（同人志，Another Dream，2007） - 2007年9月1日 由 Another Dream  发布的合同志/漫画同人志，一共64页，分级为 一般向
-
 ## Staff
 
 ### Issue Work
@@ -26,36 +24,31 @@ Proofreader
 : Arcana
 : Reinhart
 
-
 ### Articles
   
- **Perversions of an Eastern Wonderland** 
-  
+**Perversions of an Eastern Wonderland**  
 
-- Artwork &amp; Dialogue：Wong (as 黄宇峰)
+- Artwork & Dialogue：Wong (as 黄宇峰)
 
   
- **Bubunmaru Special: The Crux** 
-  
+**Bubunmaru Special: The Crux**  
 
 - Artwork：MidnightSun
 
   
- **Gensokyo Gear – Memory – zero Act**  (crossover with Guilty Gear)
+**Gensokyo Gear – Memory – zero Act** (crossover with Guilty Gear)
   
 
-- Artwork &amp; Story：Wong (as 黄宇峰)
-- Guilty Gear Character Design&#160;: Daisuke Ishiwatari
+- Artwork & Story：Wong (as 黄宇峰)
+- Guilty Gear Character Design : Daisuke Ishiwatari
 
 
 ### Special Thanks
+
 - ZUN, Gaku Gaku Touhou Branch, Arcana, Reinhart
 
 
 ## 评论
-
-
-
 
 ---
 

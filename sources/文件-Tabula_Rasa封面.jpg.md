@@ -1,6 +1,6 @@
 # 文件:Tabula_Rasa封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\62\ns6%3ATabula_Rasa%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\62\ns6%3ATabula_Rasa%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Karasu | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Karasu | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Tabula Rasa](./Tabula_Rasa.md)  
-该封面包含的角色：- [摩多罗隐岐奈](./摩多罗隐岐奈.md)
+- [Tabula Rasa](./Tabula_Rasa.md)该封面包含的角色：
+- [摩多罗隐岐奈](./摩多罗隐岐奈.md)
 
   
-源地址：[[1]](https://karasu44.bandcamp.com/album/c93-tabula-rasa)
-  
-
-
-
-
+源地址：[\[1\]](https://karasu44.bandcamp.com/album/c93-tabula-rasa)  
 
 ---
 

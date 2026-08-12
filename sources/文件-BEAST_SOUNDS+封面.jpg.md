@@ -1,6 +1,6 @@
 # 文件:BEAST_SOUNDS+封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9a\ns6%3ABEAST_SOUNDS%2B%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9a\ns6%3ABEAST_SOUNDS%2B%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ちょこふぁん | 专辑封面 | 封面图片
 
@@ -10,11 +10,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [BEAST SOUNDS+](./BEAST_SOUNDS+.md)  
-该封面包含的角色：- [孙美天](./孙美天.md)- [日白残无](./日白残无.md)- [豫母都日狭美](./豫母都日狭美.md)- [三头慧之子](./三头慧之子.md)- [天火人血枪](./天火人血枪.md)
-
-
-
+- [BEAST SOUNDS+](./BEAST_SOUNDS+.md)该封面包含的角色：
+- [孙美天](./孙美天.md)
+- [日白残无](./日白残无.md)
+- [豫母都日狭美](./豫母都日狭美.md)
+- [三头慧之子](./三头慧之子.md)
+- [天火人血枪](./天火人血枪.md)
 
 
 ---

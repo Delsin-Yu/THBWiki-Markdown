@@ -1,6 +1,6 @@
 # 文件:Hungry_Monsterz封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bf\ns6%3AHungry_Monsterz%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bf\ns6%3AHungry_Monsterz%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Blackscreen | 专辑封面 | 封面图片
 
@@ -8,10 +8,7 @@ Blackscreen | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Hungry Monsterz](./Hungry_Monsterz.md)源地址：[[1]](https://static.wixstatic.com/media/ea2254_5f199f2f0c8b4cdeb7357be24828d69c~mv2_d_2953_2953_s_4_2.png)
-
-
-
+- [Hungry Monsterz](./Hungry_Monsterz.md)源地址：[\[1\]](https://static.wixstatic.com/media/ea2254_5f199f2f0c8b4cdeb7357be24828d69c~mv2_d_2953_2953_s_4_2.png)
 
 
 ---

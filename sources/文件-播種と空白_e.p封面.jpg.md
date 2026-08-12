@@ -1,6 +1,6 @@
 # 文件:播種と空白_e.p封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1d\ns6%3A%E6%92%AD%E7%A8%AE%E3%81%A8%E7%A9%BA%E7%99%BD_e%2Ep%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1d\ns6%3A%E6%92%AD%E7%A8%AE%E3%81%A8%E7%A9%BA%E7%99%BD_e%2Ep%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 天狗ノ舞 | 封面图片
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [播種と空白 e.p](./播種と空白_e.p.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
+- [播種と空白 e.p](./播種と空白_e.p.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
   
-源地址：[[1]](http://natsume.ushimairi.com/rei13jack.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://natsume.ushimairi.com/rei13jack.jpg)  
 
 ---
 

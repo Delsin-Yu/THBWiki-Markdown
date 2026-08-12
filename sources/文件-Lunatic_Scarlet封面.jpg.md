@@ -1,6 +1,6 @@
 # 文件:Lunatic_Scarlet封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\00\ns6%3ALunatic_Scarlet%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\00\ns6%3ALunatic_Scarlet%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 A-One | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ A-One | 专辑封面 | 封面图片
   
 
 - [Lunatic Scarlet](./Lunatic_Scarlet.md)
-
-
-
 
 
 ---

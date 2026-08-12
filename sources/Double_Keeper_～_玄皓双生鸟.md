@@ -1,36 +1,26 @@
 # Double_Keeper_～_玄皓双生鸟
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\03\ns0%3ADouble_Keeper_%EF%BD%9E_%E7%8E%84%E7%9A%93%E5%8F%8C%E7%94%9F%E9%B8%9F.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\03\ns0%3ADouble_Keeper_%EF%BD%9E_%E7%8E%84%E7%9A%93%E5%8F%8C%E7%94%9F%E9%B8%9F.html -->
 
 Double_Keeper_～_玄皓双生鸟 | JynX作曲 | 引用了翻译表的页面 | 连缘Project | 连缘Project官方音乐
 
-本页是关于 **向[东方Project](./东方Project.md)  
-致敬、形式类似的作品** 的词条
-
+本页是关于**向[东方Project](./东方Project.md)致敬、形式类似的作品**  
+的词条
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 出现作品](#出现作品)
 - [3 音乐文件](#音乐文件)
-
   - [3.1 连缘灵烈传](#连缘灵烈传)
 
 
-
 - [4 说明文本](#说明文本)
-
   - [4.1 连缘灵烈传](#连缘灵烈传_2)
 
 
-
 - [5 其他资料](#其他资料)
-
   - [5.1 乐理资讯](#乐理资讯)
   - [5.2 分析考据](#分析考据)
-
-
-
-
 
 
 
@@ -67,14 +57,12 @@ Double_Keeper_～_玄皓双生鸟 | JynX作曲 | 引用了翻译表的页面 | �
 </td></tr></tbody></table>
 
 
-
 ## 出现作品
 
 <table>
 
-<tbody><tr><td>2014年10月2日（非展会）</td><td><b><a href="./连缘灵烈传～Reactivate_majestical_imperial.md" title="连缘灵烈传～Reactivate majestical imperial" unred="">连缘灵烈传</a></b></td><td>4面BOSS-<a href="./凤联薮雨.md" title="凤联薮雨">凤联薮雨</a>&amp;<a href="./燕乐玄鸟.md" title="燕乐玄鸟">燕乐玄鸟</a>主题曲</td><td style="padding-left:5px;">（Double Keeper ～ 玄皓双生鸟）</td><td style="padding-left:10px;">作曲：JynX</td></tr>
+<tbody><tr><td>2014年10月2日（非展会）</td><td><b><a href="./连缘灵烈传～Reactivate_majestical_imperial.md" title="连缘灵烈传～Reactivate majestical imperial" unred="">连缘灵烈传</a></b></td><td>4面BOSS-<a href="./凤联薮雨.md" title="凤联薮雨">凤联薮雨</a>&<a href="./燕乐玄鸟.md" title="燕乐玄鸟">燕乐玄鸟</a>主题曲</td><td style="padding-left:5px;">（Double Keeper ～ 玄皓双生鸟）</td><td style="padding-left:10px;">作曲：JynX</td></tr>
 </tbody></table>
-
 
 
 ## 音乐文件
@@ -98,11 +86,11 @@ Double_Keeper_～_玄皓双生鸟 | JynX作曲 | 引用了翻译表的页面 | �
 </td></tr></tbody></table>
 
 
-
 ## 说明文本
 
 ### 连缘灵烈传
-- Music Room (未找到链接)
+
+- [Music Room](./连缘灵烈传～Reactivate_majestical_imperial-Music.md#4面BOSS-凤联薮雨&燕乐玄鸟主题曲)
 
 四面头目，薮雨和玄鸟的曲子。  
 这首曲子也有两段曲调。  
@@ -117,15 +105,11 @@ Double_Keeper_～_玄皓双生鸟 | JynX作曲 | 引用了翻译表的页面 | �
   
 不过有好多严苛的弹幕呢。  
 毕竟是双打对战，没办法吧？
-
 ## 其他资料
 
 ### 乐理资讯
 
 ### 分析考据
-
-
-
 
 ---
 

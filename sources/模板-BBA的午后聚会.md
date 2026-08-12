@@ -1,16 +1,12 @@
 # 模板:BBA的午后聚会
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\6\65\ns10%3ABBA%E7%9A%84%E5%8D%88%E5%90%8E%E8%81%9A%E4%BC%9A.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\6\65\ns10%3ABBA%E7%9A%84%E5%8D%88%E5%90%8E%E8%81%9A%E4%BC%9A.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

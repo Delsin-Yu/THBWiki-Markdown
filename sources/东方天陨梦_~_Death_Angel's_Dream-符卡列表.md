@@ -1,6 +1,6 @@
 # 东方天陨梦_~_Death_Angel's_Dream/符卡列表
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\f8\ns0%3A%E4%B8%9C%E6%96%B9%E5%A4%A9%E9%99%A8%E6%A2%A6_%7E_Death_Angel%27s_Dream%2F%E7%AC%A6%E5%8D%A1%E5%88%97%E8%A1%A8.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\f8\ns0%3A%E4%B8%9C%E6%96%B9%E5%A4%A9%E9%99%A8%E6%A2%A6_%7E_Death_Angel%27s_Dream%2F%E7%AC%A6%E5%8D%A1%E5%88%97%E8%A1%A8.html -->
 
 NooblyPerson
 
@@ -647,10 +647,6 @@ NooblyPerson
 <td>EX12</td>
 <td>深渊【永恒的那落迦】
 </td></tr></tbody></table>
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:TO_THE_NEXT_TOHO封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2a\ns6%3ATO_THE_NEXT_TOHO%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2a\ns6%3ATO_THE_NEXT_TOHO%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 DiGiTAL_WiNG | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ DiGiTAL_WiNG | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [TO THE NEXT TOHO](./TO_THE_NEXT_TOHO.md)  
-该封面包含的角色：- [玉造魅须丸](./玉造魅须丸.md)
-
-
-
+- [TO THE NEXT TOHO](./TO_THE_NEXT_TOHO.md)该封面包含的角色：
+- [玉造魅须丸](./玉造魅须丸.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Festival_Celebrating_Summer_Resonance_(official_soundtrack)封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\eb\ns6%3AFestival_Celebrating_Summer_Resonance_%28official_soundtrack%29%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\eb\ns6%3AFestival_Celebrating_Summer_Resonance_%28official_soundtrack%29%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Lowlands_Blossom | 专辑封面 | 封面图片
 
@@ -10,15 +10,10 @@ Lowlands_Blossom | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Festival Celebrating Summer Resonance (official soundtrack)](./Festival_Celebrating_Summer_Resonance_(official_soundtrack).md)
+- [Festival Celebrating Summer Resonance (official soundtrack)](./Festival_Celebrating_Summer_Resonance_(official_soundtrack%29.md)
 
   
-源地址：[图片链接](https://f4.bcbits.com/img/a3636966597_0.jpg) [Bandcamp](https://lowlandsblossom.bandcamp.com/album/festival-celebrating-summer-resonance-official-soundtrack)
-  
-
-
-
-
+源地址：[图片链接](https://f4.bcbits.com/img/a3636966597_0.jpg) [Bandcamp](https://lowlandsblossom.bandcamp.com/album/festival-celebrating-summer-resonance-official-soundtrack)  
 
 ---
 

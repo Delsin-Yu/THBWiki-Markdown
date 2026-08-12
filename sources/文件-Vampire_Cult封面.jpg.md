@@ -1,6 +1,6 @@
 # 文件:Vampire_Cult封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\60\ns6%3AVampire_Cult%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\60\ns6%3AVampire_Cult%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 AGENT_0 | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ AGENT_0 | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Vampire Cult](./Vampire_Cult.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [Vampire Cult](./Vampire_Cult.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
   
-源地址：[[1]](http://id12.fm-p.jp/data/418/agent0photo/pri/25.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://id12.fm-p.jp/data/418/agent0photo/pri/25.jpg)  
 
 ---
 

@@ -1,14 +1,11 @@
 # 文件:夢防衛少女隊banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9a\ns6%3A%E5%A4%A2%E9%98%B2%E8%A1%9B%E5%B0%91%E5%A5%B3%E9%9A%8Abanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9a\ns6%3A%E5%A4%A2%E9%98%B2%E8%A1%9B%E5%B0%91%E5%A5%B3%E9%9A%8Abanner%2Egif.html -->
 
 夢防衛少女隊 | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

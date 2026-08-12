@@ -1,6 +1,6 @@
 # 文件:Eunomia_-_Alstroemeria_Records_15years.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e4\ns6%3AEunomia_-_Alstroemeria_Records_15years%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e4\ns6%3AEunomia_-_Alstroemeria_Records_15years%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Alstroemeria_Records | 专辑封面 | 封面图片
 
@@ -8,11 +8,19 @@ Alstroemeria_Records | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Eunomia - Alstroemeria Records 15years.](./Eunomia_-_Alstroemeria_Records_15years..md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)- [魂魄妖梦](./魂魄妖梦.md)- [西行寺幽幽子](./西行寺幽幽子.md)- [八云蓝](./八云蓝.md)- [上白泽慧音](./上白泽慧音.md)- [封兽鵺](./封兽鵺.md)- [雾雨魔理沙](./雾雨魔理沙.md)- [稗田阿求](./稗田阿求.md)- [秦心](./秦心.md)
-
-
-
+- [Eunomia - Alstroemeria Records 15years.](./Eunomia_-_Alstroemeria_Records_15years..md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [魂魄妖梦](./魂魄妖梦.md)
+- [西行寺幽幽子](./西行寺幽幽子.md)
+- [八云蓝](./八云蓝.md)
+- [上白泽慧音](./上白泽慧音.md)
+- [封兽鵺](./封兽鵺.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
+- [稗田阿求](./稗田阿求.md)
+- [秦心](./秦心.md)
 
 
 ---

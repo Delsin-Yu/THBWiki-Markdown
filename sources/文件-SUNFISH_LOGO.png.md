@@ -1,12 +1,8 @@
 # 文件:SUNFISH_LOGO.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dd\ns6%3ASUNFISH_LOGO%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dd\ns6%3ASUNFISH_LOGO%2Epng.html -->
 
 SUNFISH | 企业LOGO
-
-
-
-
 
 
 ---

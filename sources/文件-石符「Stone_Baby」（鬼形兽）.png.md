@@ -1,14 +1,11 @@
 # 文件:石符「Stone_Baby」（鬼形兽）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5f\ns6%3A%E7%9F%B3%E7%AC%A6%E3%80%8CStone_Baby%E3%80%8D%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5f\ns6%3A%E7%9F%B3%E7%AC%A6%E3%80%8CStone_Baby%E3%80%8D%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%EF%BC%89%2Epng.html -->
 
 东方鬼形兽 | 敌机符卡 | 牛崎润美
 
 
 ## 文件说明
-
-
-
 
 ---
 

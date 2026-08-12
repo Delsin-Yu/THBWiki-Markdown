@@ -1,6 +1,6 @@
 # 文件:吸血姫騎士SCARLET封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3d\ns6%3A%E5%90%B8%E8%A1%80%E5%A7%AB%E9%A8%8E%E5%A3%ABSCARLET%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3d\ns6%3A%E5%90%B8%E8%A1%80%E5%A7%AB%E9%A8%8E%E5%A3%ABSCARLET%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Gallery_Culter | 同人志封面 | 封面图片
 
@@ -8,11 +8,8 @@ Gallery_Culter | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [吸血姫騎士SCARLET](./吸血姫騎士SCARLET.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
-
-
-
+- [吸血姫騎士SCARLET](./吸血姫騎士SCARLET.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
 
 ---

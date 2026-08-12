@@ -1,18 +1,13 @@
 # 文件:巫女さん作法logo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\76\ns6%3A%E5%B7%AB%E5%A5%B3%E3%81%95%E3%82%93%E4%BD%9C%E6%B3%95logo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\76\ns6%3A%E5%B7%AB%E5%A5%B3%E3%81%95%E3%82%93%E4%BD%9C%E6%B3%95logo%2Epng.html -->
 
 巫女さん作法 | 社团LOGO
 
 
 ## 摘要
   
-源地址：[direct image link](https://miko3saho.com/wp-content/themes/miko3/img/logo.png), [source page](https://miko3saho.com/)
-  
-
-
-
-
+源地址：[direct image link](https://miko3saho.com/wp-content/themes/miko3/img/logo.png), [source page](https://miko3saho.com/)  
 
 ---
 

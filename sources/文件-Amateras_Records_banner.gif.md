@@ -1,12 +1,8 @@
 # 文件:Amateras_Records_banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c2\ns6%3AAmateras_Records_banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c2\ns6%3AAmateras_Records_banner%2Egif.html -->
 
 Amateras_Records | 社团LOGO
-
-
-
-
 
 
 ---

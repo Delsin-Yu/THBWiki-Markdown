@@ -1,6 +1,6 @@
 # 文件:新纪神假说_~_Incertain_Tempestuous_Revelation封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b0\ns6%3A%E6%96%B0%E7%BA%AA%E7%A5%9E%E5%81%87%E8%AF%B4_%7E_Incertain_Tempestuous_Revelation%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b0\ns6%3A%E6%96%B0%E7%BA%AA%E7%A5%9E%E5%81%87%E8%AF%B4_%7E_Incertain_Tempestuous_Revelation%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 梦现彼岸结界社
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [新纪神假说 ~ Incertain Tempestuous Revelation](./新纪神假说_~_Incertain_Tempestuous_Revelation.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [新纪神假说 ~ Incertain Tempestuous Revelation](./新纪神假说_~_Incertain_Tempestuous_Revelation.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

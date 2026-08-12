@@ -1,6 +1,6 @@
 # 文件:I_love_you,_but_I've_chosen_madness.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f6\ns6%3AI_love_you%2C_but_I%27ve_chosen_madness%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f6\ns6%3AI_love_you%2C_but_I%27ve_chosen_madness%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Marre_Nectarris | 三齢 | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ Marre_Nectarris | 三齢 | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [I love you, but I've chosen madness.](./I_love_you,_but_I've_chosen_madness..md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)- [古明地觉](./古明地觉.md)
-
-
-
+- [I love you, but I've chosen madness.](./I_love_you,_but_I've_chosen_madness..md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [古明地觉](./古明地觉.md)
 
 
 ---

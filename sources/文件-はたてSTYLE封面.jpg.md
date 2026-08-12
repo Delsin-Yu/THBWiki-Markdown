@@ -1,6 +1,6 @@
 # 文件:はたてSTYLE封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c9\ns6%3A%E3%81%AF%E3%81%9F%E3%81%A6STYLE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c9\ns6%3A%E3%81%AF%E3%81%9F%E3%81%A6STYLE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 猫乃塚
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [はたてSTYLE](./はたてSTYLE.md)  
-该封面包含的角色：- [姬海棠果](./姬海棠果.md)
-
-
-
+- [はたてSTYLE](./はたてSTYLE.md)该封面包含的角色：
+- [姬海棠果](./姬海棠果.md)
 
 
 ---

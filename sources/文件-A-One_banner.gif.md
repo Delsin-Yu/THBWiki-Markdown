@@ -1,12 +1,8 @@
 # 文件:A-One_banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\38\ns6%3AA-One_banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\38\ns6%3AA-One_banner%2Egif.html -->
 
 A-One | 社团LOGO
-
-
-
-
 
 
 ---

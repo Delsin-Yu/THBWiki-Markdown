@@ -1,12 +1,8 @@
 # 文件:东方龙隐谈st1.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\51\ns6%3A%E4%B8%9C%E6%96%B9%E9%BE%99%E9%9A%90%E8%B0%88st1%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\51\ns6%3A%E4%B8%9C%E6%96%B9%E9%BE%99%E9%9A%90%E8%B0%88st1%2Ejpg.html -->
 
 东方龙隐谈 | 龙皇社
-
-
-
-
 
 
 ---

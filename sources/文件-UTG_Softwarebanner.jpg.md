@@ -1,12 +1,8 @@
 # 文件:UTG_Softwarebanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\57\ns6%3AUTG_Softwarebanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\57\ns6%3AUTG_Softwarebanner%2Ejpg.html -->
 
 UTG_Software | 社团LOGO
-
-
-
-
 
 
 ---

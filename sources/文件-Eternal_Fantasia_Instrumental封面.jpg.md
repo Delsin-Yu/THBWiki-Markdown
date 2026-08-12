@@ -1,6 +1,6 @@
 # 文件:Eternal_Fantasia_Instrumental封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ef\ns6%3AEternal_Fantasia_Instrumental%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ef\ns6%3AEternal_Fantasia_Instrumental%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 DiGiTAL_WiNG | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ DiGiTAL_WiNG | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Eternal Fantasia Instrumental](./Eternal_Fantasia_Instrumental.md)  
-该封面包含的角色：- [八云紫](./八云紫.md)
-
-
-
+- [Eternal Fantasia Instrumental](./Eternal_Fantasia_Instrumental.md)该封面包含的角色：
+- [八云紫](./八云紫.md)
 
 
 ---

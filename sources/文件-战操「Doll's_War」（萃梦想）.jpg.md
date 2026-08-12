@@ -1,12 +1,8 @@
 # 文件:战操「Doll's_War」（萃梦想）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4a\ns6%3A%E6%88%98%E6%93%8D%E3%80%8CDoll%27s_War%E3%80%8D%EF%BC%88%E8%90%83%E6%A2%A6%E6%83%B3%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4a\ns6%3A%E6%88%98%E6%93%8D%E3%80%8CDoll%27s_War%E3%80%8D%EF%BC%88%E8%90%83%E6%A2%A6%E6%83%B3%EF%BC%89%2Ejpg.html -->
 
 东方萃梦想 | 爱丽丝·玛格特洛依德 | 自机符卡
-
-
-
-
 
 
 ---

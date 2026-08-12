@@ -1,18 +1,13 @@
 # 文件:FOSSIL_ANTIQUEbanner2.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1f\ns6%3AFOSSIL_ANTIQUEbanner2%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1f\ns6%3AFOSSIL_ANTIQUEbanner2%2Egif.html -->
 
 FOSSIL_ANTIQUE | 社团LOGO
 
 
 ## 摘要
   
-源地址：[direct image link](https://web.archive.org/web/20061130000935im_/http://fossil-antique.com/facom.gif), [source page](https://web.archive.org/web/20090703170543/http://www.fossil-antique.com/blog/)
-  
-
-
-
-
+源地址：[direct image link](https://web.archive.org/web/20061130000935im_/http://fossil-antique.com/facom.gif), [source page](https://web.archive.org/web/20090703170543/http://www.fossil-antique.com/blog/)  
 
 ---
 

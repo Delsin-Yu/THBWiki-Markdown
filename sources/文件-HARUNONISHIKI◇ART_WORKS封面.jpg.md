@@ -1,6 +1,6 @@
 # 文件:HARUNONISHIKI◇ART_WORKS封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\99\ns6%3AHARUNONISHIKI%E2%97%87ART_WORKS%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\99\ns6%3AHARUNONISHIKI%E2%97%87ART_WORKS%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 春乃二式
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [HARUNONISHIKI◇ART WORKS](./HARUNONISHIKI◇ART_WORKS.md)  
-该封面包含的角色：- [莉莉霍瓦特](./莉莉霍瓦特.md)
-
-
-
+- [HARUNONISHIKI◇ART WORKS](./HARUNONISHIKI◇ART_WORKS.md)该封面包含的角色：
+- [莉莉霍瓦特](./莉莉霍瓦特.md)
 
 
 ---

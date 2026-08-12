@@ -1,16 +1,11 @@
 # 文件:Dimension's_Gatebanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\88\ns6%3ADimension%27s_Gatebanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\88\ns6%3ADimension%27s_Gatebanner%2Ejpg.html -->
 
 Dimension's_Gate | 社团LOGO
 
   
-源地址：[[1]](http://dg.rimshoot.com/images/dglogo2.jpg?crc=4051208261)
-  
-
-
-
-
+源地址：[\[1\]](http://dg.rimshoot.com/images/dglogo2.jpg?crc=4051208261)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:Яe：biЯth封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\10\ns6%3A%D0%AFe%EF%BC%9Abi%D0%AFth%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\10\ns6%3A%D0%AFe%EF%BC%9Abi%D0%AFth%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 KARASHIC_RECORDS | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ KARASHIC_RECORDS | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Яe：biЯth](./Яe：biЯth.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [Яe：biЯth](./Яe：biЯth.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

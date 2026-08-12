@@ -1,6 +1,6 @@
 # 文件:lofi_hip_hop_arrangement_to_relax／study_to封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dd\ns6%3Alofi_hip_hop_arrangement_to_relax%EF%BC%8Fstudy_to%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dd\ns6%3Alofi_hip_hop_arrangement_to_relax%EF%BC%8Fstudy_to%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Find_Your_Way | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ Find_Your_Way | 专辑封面 | 封面图片
   
 
 - [lofi hip hop arrangement to relax／study to](./lofi_hip_hop_arrangement_to_relax／study_to.md)
-
-
-
 
 
 ---

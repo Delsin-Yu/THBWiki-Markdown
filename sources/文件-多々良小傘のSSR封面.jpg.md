@@ -1,6 +1,6 @@
 # 文件:多々良小傘のSSR封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b5\ns6%3A%E5%A4%9A%E3%80%85%E8%89%AF%E5%B0%8F%E5%82%98%E3%81%AESSR%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b5\ns6%3A%E5%A4%9A%E3%80%85%E8%89%AF%E5%B0%8F%E5%82%98%E3%81%AESSR%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 アールグレイ | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [多々良小傘のSSR](./多々良小傘のSSR.md)  
-该封面包含的角色：- [多多良小伞](./多多良小伞.md)
-
-
-
+- [多々良小傘のSSR](./多々良小傘のSSR.md)该封面包含的角色：
+- [多多良小伞](./多多良小伞.md)
 
 
 ---

@@ -1,16 +1,11 @@
 # 文件:スタジオマグロフレークbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ce\ns6%3A%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%E3%83%9E%E3%82%B0%E3%83%AD%E3%83%95%E3%83%AC%E3%83%BC%E3%82%AFbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ce\ns6%3A%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%E3%83%9E%E3%82%B0%E3%83%AD%E3%83%95%E3%83%AC%E3%83%BC%E3%82%AFbanner%2Epng.html -->
 
 スタジオマグロフレーク | 社团LOGO
 
   
-源地址：[[1]](http://blog-imgs-42.fc2.com/m/a/g/maguroflake/SMF_bn.png)
-  
-
-
-
-
+源地址：[\[1\]](http://blog-imgs-42.fc2.com/m/a/g/maguroflake/SMF_bn.png)  
 
 ---
 

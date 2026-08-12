@@ -1,6 +1,6 @@
 # 文件:BATTLEFIELD_GIRLS封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f6\ns6%3ABATTLEFIELD_GIRLS%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f6\ns6%3ABATTLEFIELD_GIRLS%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 あずまあや | 同人志封面 | 封面图片
 
@@ -8,11 +8,20 @@
 使用了本文件作封面图片的作品：
   
 
-- [BATTLEFIELD GIRLS](./BATTLEFIELD_GIRLS.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [藤原妹红](./藤原妹红.md)- [河城荷取](./河城荷取.md)- [古明地恋](./古明地恋.md)- [云居一轮](./云居一轮.md)- [圣白莲](./圣白莲.md)- [物部布都](./物部布都.md)- [丰聪耳神子](./丰聪耳神子.md)- [二岩猯藏](./二岩猯藏.md)- [雾雨魔理沙](./雾雨魔理沙.md)- [秦心](./秦心.md)- [少名针妙丸](./少名针妙丸.md)- [宇佐见堇子](./宇佐见堇子.md)
-
-
-
+- [BATTLEFIELD GIRLS](./BATTLEFIELD_GIRLS.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [藤原妹红](./藤原妹红.md)
+- [河城荷取](./河城荷取.md)
+- [古明地恋](./古明地恋.md)
+- [云居一轮](./云居一轮.md)
+- [圣白莲](./圣白莲.md)
+- [物部布都](./物部布都.md)
+- [丰聪耳神子](./丰聪耳神子.md)
+- [二岩猯藏](./二岩猯藏.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
+- [秦心](./秦心.md)
+- [少名针妙丸](./少名针妙丸.md)
+- [宇佐见堇子](./宇佐见堇子.md)
 
 
 ---

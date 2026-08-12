@@ -1,6 +1,6 @@
 # 文件:東方風研究_～_Smells_Like_Beer._vol.4封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\93\ns6%3A%E6%9D%B1%E6%96%B9%E9%A2%A8%E7%A0%94%E7%A9%B6_%EF%BD%9E_Smells_Like_Beer%2E_vol%2E4%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\93\ns6%3A%E6%9D%B1%E6%96%B9%E9%A2%A8%E7%A0%94%E7%A9%B6_%EF%BD%9E_Smells_Like_Beer%2E_vol%2E4%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 いちごパプリカ | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@
   
 
 - [東方風研究 ～ Smells Like Beer. vol.4](./東方風研究_～_Smells_Like_Beer._vol.4.md)
-
-
-
 
 
 ---

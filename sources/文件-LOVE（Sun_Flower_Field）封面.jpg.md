@@ -1,6 +1,6 @@
 # 文件:LOVE（Sun_Flower_Field）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\56\ns6%3ALOVE%EF%BC%88Sun_Flower_Field%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\56\ns6%3ALOVE%EF%BC%88Sun_Flower_Field%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Sun_Flower_Field | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Sun_Flower_Field | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [LOVE（Sun Flower Field）](./LOVE（Sun_Flower_Field）.md)  
-该封面包含的角色：- [风见幽香](./风见幽香.md)
-
-
-
+- [LOVE（Sun Flower Field）](./LOVE（Sun_Flower_Field）.md)该封面包含的角色：
+- [风见幽香](./风见幽香.md)
 
 
 ---

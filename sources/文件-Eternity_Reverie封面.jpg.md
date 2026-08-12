@@ -1,6 +1,6 @@
 # 文件:Eternity_Reverie封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\12\ns6%3AEternity_Reverie%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\12\ns6%3AEternity_Reverie%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Under_Reverse | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Under_Reverse | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Eternity Reverie](./Eternity_Reverie.md)  
-该封面包含的角色：- [爱塔妮缇拉尔瓦](./爱塔妮缇拉尔瓦.md)
-
-
-
+- [Eternity Reverie](./Eternity_Reverie.md)该封面包含的角色：
+- [爱塔妮缇拉尔瓦](./爱塔妮缇拉尔瓦.md)
 
 
 ---

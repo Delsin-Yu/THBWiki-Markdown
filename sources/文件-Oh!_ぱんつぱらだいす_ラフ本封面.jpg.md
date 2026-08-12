@@ -1,6 +1,6 @@
 # 文件:Oh!_ぱんつぱらだいす_ラフ本封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2d\ns6%3AOh%21_%E3%81%B1%E3%82%93%E3%81%A4%E3%81%B1%E3%82%89%E3%81%A0%E3%81%84%E3%81%99_%E3%83%A9%E3%83%95%E6%9C%AC%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2d\ns6%3AOh%21_%E3%81%B1%E3%82%93%E3%81%A4%E3%81%B1%E3%82%89%E3%81%A0%E3%81%84%E3%81%99_%E3%83%A9%E3%83%95%E6%9C%AC%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 七色御伽草子 | 同人志封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Oh! ぱんつぱらだいす ラフ本](./Oh!_ぱんつぱらだいす_ラフ本.md)  
-该封面包含的角色：- [东风谷早苗](./东风谷早苗.md)
-
-
-
+- [Oh! ぱんつぱらだいす ラフ本](./Oh!_ぱんつぱらだいす_ラフ本.md)该封面包含的角色：
+- [东风谷早苗](./东风谷早苗.md)
 
 
 ---

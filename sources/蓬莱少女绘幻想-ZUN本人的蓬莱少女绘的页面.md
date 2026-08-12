@@ -1,10 +1,11 @@
 # 蓬莱少女绘幻想/ZUN本人的蓬莱少女绘的页面
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\d\d5\ns0%3A%E8%93%AC%E8%8E%B1%E5%B0%91%E5%A5%B3%E7%BB%98%E5%B9%BB%E6%83%B3%2FZUN%E6%9C%AC%E4%BA%BA%E7%9A%84%E8%93%AC%E8%8E%B1%E5%B0%91%E5%A5%B3%E7%BB%98%E7%9A%84%E9%A1%B5%E9%9D%A2.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\d\d5\ns0%3A%E8%93%AC%E8%8E%B1%E5%B0%91%E5%A5%B3%E7%BB%98%E5%B9%BB%E6%83%B3%2FZUN%E6%9C%AC%E4%BA%BA%E7%9A%84%E8%93%AC%E8%8E%B1%E5%B0%91%E5%A5%B3%E7%BB%98%E7%9A%84%E9%A1%B5%E9%9D%A2.html -->
 
 ZUN | 蓬莱少女绘幻想
 
-- 本页面内容是[蓬莱少女绘幻想](./蓬莱少女绘幻想.md)中的 **ZUN本人的蓬莱少女绘的页面** 。
+
+- 本页面内容是[蓬莱少女绘幻想](./蓬莱少女绘幻想.md)中的**ZUN本人的蓬莱少女绘的页面**。
 - 翻译：用户:京都人形 (未找到链接)
 
 
@@ -332,7 +333,7 @@ ZUN | 蓬莱少女绘幻想
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zh3tdh1" width="40%">
-<p>【 ２１世纪贺年 】<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">1</a></sup><sup id="cite_ref-del_2-0" class="reference"><a href="#cite_note-del-2">2</a></sup><sup id="cite_ref-lost_3-0" class="reference"><a href="#cite_note-lost-3">3</a></sup>
+<p>【 ２１世纪贺年 】<span>[^cite_note-1]</span><span>[^cite_note-del-2]</span><span>[^cite_note-lost-3]</span>
 </p>
 </th>
 <th width="20%" rowspan="2">
@@ -372,7 +373,7 @@ ZUN | 蓬莱少女绘幻想
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zh3tdh1" width="40%">
-<p>【 莲花的魔法使 】<sup id="cite_ref-del_2-1" class="reference"><a href="#cite_note-del-2">2</a></sup><sup id="cite_ref-lost_3-1" class="reference"><a href="#cite_note-lost-3">3</a></sup>
+<p>【 莲花的魔法使 】<span>[^cite_note-del-2]</span><span>[^cite_note-lost-3]</span>
 </p>
 </th>
 <th width="20%" rowspan="2">
@@ -412,7 +413,7 @@ ZUN | 蓬莱少女绘幻想
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zh3tdh1" width="40%">
-<p>【 Lotus Dream 】<sup id="cite_ref-del_2-2" class="reference"><a href="#cite_note-del-2">2</a></sup>
+<p>【 Lotus Dream 】<span>[^cite_note-del-2]</span>
 </p>
 </th>
 <th width="20%" rowspan="2">
@@ -456,7 +457,7 @@ ZUN | 蓬莱少女绘幻想
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zh3tdh1" width="40%">
-<p>【 博丽灵梦的假日 】<sup id="cite_ref-del_2-3" class="reference"><a href="#cite_note-del-2">2</a></sup>
+<p>【 博丽灵梦的假日 】<span>[^cite_note-del-2]</span>
 </p>
 </th>
 <th width="20%" rowspan="2">
@@ -487,13 +488,9 @@ ZUN | 蓬莱少女绘幻想
 <td colspan="4">
 </td></tr></tbody></table>
 
-
-
 [^cite_note-1]: ZUN标记为2000年1月1日的绘图，但是编号却是003。如果这个标记时间是正确的话，这张图就是最早的。不过根据标题21世纪的贺图，内容为纪念秋霜玉完售（秋霜玉正式版发售于2000/12/30的C59，很有可能是CM结束后所画），且编号在2000/12/12的002的后面，因此这个时间ZUN打错了的可能性极大，极有可能是2001/01/01绘制的。
-
-
-
-
+[^cite_note-del-2]: 该图片已于2001年时，被ZUN从网页上删除。
+[^cite_note-lost-3]: 该图片完整版已丢失。
 
 ---
 

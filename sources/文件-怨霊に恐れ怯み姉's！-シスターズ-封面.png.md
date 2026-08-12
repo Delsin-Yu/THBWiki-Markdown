@@ -1,6 +1,6 @@
 # 文件:怨霊に恐れ怯み姉's！-シスターズ-封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a3\ns6%3A%E6%80%A8%E9%9C%8A%E3%81%AB%E6%81%90%E3%82%8C%E6%80%AF%E3%81%BF%E5%A7%89%27s%EF%BC%81-%E3%82%B7%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA-%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a3\ns6%3A%E6%80%A8%E9%9C%8A%E3%81%AB%E6%81%90%E3%82%8C%E6%80%AF%E3%81%BF%E5%A7%89%27s%EF%BC%81-%E3%82%B7%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA-%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 はりけーんおしるこ | 同人志封面 | 封面图片
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [怨霊に恐れ怯み姉's！-シスターズ-](./怨霊に恐れ怯み姉's！-シスターズ-.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [古明地觉](./古明地觉.md)
-
-
-
+- [怨霊に恐れ怯み姉's！-シスターズ-](./怨霊に恐れ怯み姉's！-シスターズ-.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [古明地觉](./古明地觉.md)
 
 
 ---

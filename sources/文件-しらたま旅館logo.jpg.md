@@ -1,18 +1,13 @@
 # 文件:しらたま旅館logo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e6\ns6%3A%E3%81%97%E3%82%89%E3%81%9F%E3%81%BE%E6%97%85%E9%A4%A8logo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e6\ns6%3A%E3%81%97%E3%82%89%E3%81%9F%E3%81%BE%E6%97%85%E9%A4%A8logo%2Ejpg.html -->
 
 しらたま旅館 | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[youtube channel logo](https://yt3.ggpht.com/a/AATXAJwwgoxBgcihS1Hnn32UucEYRMgM0rVpWyLgCoHECQ=s176-c-k-c0x00ffffff-no-rj)
-  
-
-
-
-
+源地址：[youtube channel logo](https://yt3.ggpht.com/a/AATXAJwwgoxBgcihS1Hnn32UucEYRMgM0rVpWyLgCoHECQ=s176-c-k-c0x00ffffff-no-rj)  
 
 ---
 

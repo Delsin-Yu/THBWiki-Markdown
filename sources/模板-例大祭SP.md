@@ -1,16 +1,12 @@
 # 模板:例大祭SP
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\3\3a\ns10%3A%E4%BE%8B%E5%A4%A7%E7%A5%ADSP.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\3\3a\ns10%3A%E4%BE%8B%E5%A4%A7%E7%A5%ADSP.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

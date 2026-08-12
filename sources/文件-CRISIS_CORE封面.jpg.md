@@ -1,6 +1,6 @@
 # 文件:CRISIS_CORE封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cf\ns6%3ACRISIS_CORE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cf\ns6%3ACRISIS_CORE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Mods_Crisis_∞ | 专辑封面 | 封面图片
 
@@ -8,16 +8,17 @@ Mods_Crisis_∞ | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [CRISIS CORE](./CRISIS_CORE.md)  
-该封面包含的角色：- [西行寺幽幽子](./西行寺幽幽子.md)- [八云紫](./八云紫.md)- [上白泽慧音](./上白泽慧音.md)- [洩矢诹访子](./洩矢诹访子.md)- [圣白莲](./圣白莲.md)- [雾雨魔理沙](./雾雨魔理沙.md)- [露娜切露德](./露娜切露德.md)
+- [CRISIS CORE](./CRISIS_CORE.md)该封面包含的角色：
+- [西行寺幽幽子](./西行寺幽幽子.md)
+- [八云紫](./八云紫.md)
+- [上白泽慧音](./上白泽慧音.md)
+- [洩矢诹访子](./洩矢诹访子.md)
+- [圣白莲](./圣白莲.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
+- [露娜切露德](./露娜切露德.md)
 
   
-源地址：[[1]](https://static.wixstatic.com/media/20d468_556b8edf0d164f1f88cf0f979d9aeb32.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://static.wixstatic.com/media/20d468_556b8edf0d164f1f88cf0f979d9aeb32.jpg)  
 
 ---
 

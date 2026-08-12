@@ -1,6 +1,6 @@
 # 文件:All_Black_Must_Die_EP封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ca\ns6%3AAll_Black_Must_Die_EP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ca\ns6%3AAll_Black_Must_Die_EP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 River_Mist | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ River_Mist | 专辑封面 | 封面图片
   
 
 - [All Black Must Die EP](./All_Black_Must_Die_EP.md)
-
-
-
 
 
 ---

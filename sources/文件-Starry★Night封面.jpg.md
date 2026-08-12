@@ -1,6 +1,6 @@
 # 文件:Starry★Night封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\66\ns6%3AStarry%E2%98%85Night%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\66\ns6%3AStarry%E2%98%85Night%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Collateral_Damage_Studios | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@ Collateral_Damage_Studios | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Starry★Night](./Starry★Night.md)  
-该封面包含的角色：- 黑岩射手 (未找到链接)
+- [Starry★Night](./Starry★Night.md)该封面包含的角色：
+- 黑岩射手 (未找到链接)
 
   
-源地址：[direct image link](https://web.archive.org/web/20140421022034im_/http://img.doujinpress.com/2013/03/23-0/102051/1_220.jpg), [source page](https://web.archive.org/web/20130409002726/http://www.doujinpress.com/products/dp-doujinshi~0/)
-  
-
-
-
-
+源地址：[direct image link](https://web.archive.org/web/20140421022034im_/http://img.doujinpress.com/2013/03/23-0/102051/1_220.jpg), [source page](https://web.archive.org/web/20130409002726/http://www.doujinpress.com/products/dp-doujinshi~0/)  
 
 ---
 

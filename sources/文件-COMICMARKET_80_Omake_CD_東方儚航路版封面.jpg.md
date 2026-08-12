@@ -1,6 +1,6 @@
 # 文件:COMICMARKET_80_Omake_CD_東方儚航路版封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\48\ns6%3ACOMICMARKET_80_Omake_CD_%E6%9D%B1%E6%96%B9%E5%84%9A%E8%88%AA%E8%B7%AF%E7%89%88%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\48\ns6%3ACOMICMARKET_80_Omake_CD_%E6%9D%B1%E6%96%B9%E5%84%9A%E8%88%AA%E8%B7%AF%E7%89%88%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 いえろ～ぜぶら | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [COMICMARKET 80 Omake CD 東方儚航路版](./COMICMARKET_80_Omake_CD_東方儚航路版.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [COMICMARKET 80 Omake CD 東方儚航路版](./COMICMARKET_80_Omake_CD_東方儚航路版.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

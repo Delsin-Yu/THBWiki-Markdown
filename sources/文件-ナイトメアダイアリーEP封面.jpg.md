@@ -1,6 +1,6 @@
 # 文件:ナイトメアダイアリーEP封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\63\ns6%3A%E3%83%8A%E3%82%A4%E3%83%88%E3%83%A1%E3%82%A2%E3%83%80%E3%82%A4%E3%82%A2%E3%83%AA%E3%83%BCEP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\63\ns6%3A%E3%83%8A%E3%82%A4%E3%83%88%E3%83%A1%E3%82%A2%E3%83%80%E3%82%A4%E3%82%A2%E3%83%AA%E3%83%BCEP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 斧家
 
@@ -8,12 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [ナイトメアダイアリーEP](./ナイトメアダイアリーEP.md)  
-该封面包含的角色：- [宇佐见堇子](./宇佐见堇子.md)源地址：[[1]](https://i1.sndcdn.com/artworks-000421980822-elyn0d-t500x500.jpg)
-
-
-
-
+- [ナイトメアダイアリーEP](./ナイトメアダイアリーEP.md)该封面包含的角色：
+- [宇佐见堇子](./宇佐见堇子.md)
+源地址：[\[1\]](https://i1.sndcdn.com/artworks-000421980822-elyn0d-t500x500.jpg)
 
 ---
 

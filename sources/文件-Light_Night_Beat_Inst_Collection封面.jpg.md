@@ -1,6 +1,6 @@
 # 文件:Light_Night_Beat_Inst_Collection封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\54\ns6%3ALight_Night_Beat_Inst_Collection%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\54\ns6%3ALight_Night_Beat_Inst_Collection%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 はちみつれもん | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Light Night Beat Inst Collection](./Light_Night_Beat_Inst_Collection.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
-
-
-
+- [Light Night Beat Inst Collection](./Light_Night_Beat_Inst_Collection.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:IZAYOIすくらんぶる封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2f\ns6%3AIZAYOI%E3%81%99%E3%81%8F%E3%82%89%E3%82%93%E3%81%B6%E3%82%8B%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2f\ns6%3AIZAYOI%E3%81%99%E3%81%8F%E3%82%89%E3%82%93%E3%81%B6%E3%82%8B%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 StrangeChameleon | 同人志封面 | 封面图片
 
@@ -8,11 +8,9 @@ StrangeChameleon | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [IZAYOIすくらんぶる](./IZAYOIすくらんぶる.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [IZAYOIすくらんぶる](./IZAYOIすくらんぶる.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

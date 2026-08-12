@@ -1,6 +1,6 @@
 # 文件:わくわく手焼きCD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9e\ns6%3A%E3%82%8F%E3%81%8F%E3%82%8F%E3%81%8F%E6%89%8B%E7%84%BC%E3%81%8DCD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9e\ns6%3A%E3%82%8F%E3%81%8F%E3%82%8F%E3%81%8F%E6%89%8B%E7%84%BC%E3%81%8DCD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Sound_Refil | 专辑封面 | 封面图片
 
@@ -10,11 +10,9 @@ Sound_Refil | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [わくわく手焼きCD](./わくわく手焼きCD.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [魅魔](./魅魔.md)
-
-
-
+- [わくわく手焼きCD](./わくわく手焼きCD.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [魅魔](./魅魔.md)
 
 
 ---

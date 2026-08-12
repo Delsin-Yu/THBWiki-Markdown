@@ -1,6 +1,6 @@
 # 文件:寒波にON!封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\54\ns6%3A%E5%AF%92%E6%B3%A2%E3%81%ABON%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\54\ns6%3A%E5%AF%92%E6%B3%A2%E3%81%ABON%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 APERTO | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@ APERTO | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [寒波にON!](./寒波にON!.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)
+- [寒波にON!](./寒波にON!.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
 
   
-[Pixiv artwork ID: 17146015 (original size)](https://www.pixiv.net/artworks/17146015)
-  
-
-
-
-
+[Pixiv artwork ID: 17146015 (original size)](https://www.pixiv.net/artworks/17146015)  
 
 ---
 

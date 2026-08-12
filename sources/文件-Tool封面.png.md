@@ -1,6 +1,6 @@
 # 文件:Tool封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e8\ns6%3ATool%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e8\ns6%3ATool%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 XL_Project | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ XL_Project | 专辑封面 | 封面图片
   
 
 - [Tool](./Tool.md)
-
-
-
 
 
 ---

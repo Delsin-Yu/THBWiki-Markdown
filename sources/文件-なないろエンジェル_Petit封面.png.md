@@ -1,6 +1,6 @@
 # 文件:なないろエンジェル_Petit封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\af\ns6%3A%E3%81%AA%E3%81%AA%E3%81%84%E3%82%8D%E3%82%A8%E3%83%B3%E3%82%B8%E3%82%A7%E3%83%AB_Petit%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\af\ns6%3A%E3%81%AA%E3%81%AA%E3%81%84%E3%82%8D%E3%82%A8%E3%83%B3%E3%82%B8%E3%82%A7%E3%83%AB_Petit%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Lapis_moss | 专辑封面 | 封面图片
 
@@ -10,11 +10,10 @@ Lapis_moss | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [なないろエンジェル Petit](./なないろエンジェル_Petit.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)- [古明地觉](./古明地觉.md)
-
-
-
+- [なないろエンジェル Petit](./なないろエンジェル_Petit.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [古明地觉](./古明地觉.md)
 
 
 ---

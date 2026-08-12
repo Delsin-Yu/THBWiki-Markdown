@@ -1,6 +1,6 @@
 # 文件:秘封活动记录_～_The_Sealed_Esoteric_History._-祝-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d3\ns6%3A%E7%A7%98%E5%B0%81%E6%B4%BB%E5%8A%A8%E8%AE%B0%E5%BD%95_%EF%BD%9E_The_Sealed_Esoteric_History%2E_-%E7%A5%9D-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d3\ns6%3A%E7%A7%98%E5%B0%81%E6%B4%BB%E5%8A%A8%E8%AE%B0%E5%BD%95_%EF%BD%9E_The_Sealed_Esoteric_History%2E_-%E7%A5%9D-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 京都幻想剧团 | 封面图片 | 视频封面
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [秘封活动记录 ～ The Sealed Esoteric History. -祝-](./秘封活动记录_～_The_Sealed_Esoteric_History._-祝-.md)  
-该封面包含的角色：- [东风谷早苗](./东风谷早苗.md)
-
-
-
+- [秘封活动记录 ～ The Sealed Esoteric History. -祝-](./秘封活动记录_～_The_Sealed_Esoteric_History._-祝-.md)该封面包含的角色：
+- [东风谷早苗](./东风谷早苗.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 東方夢終劇_～_Concealed_the_Conclusion/系统
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\fa\ns0%3A%E6%9D%B1%E6%96%B9%E5%A4%A2%E7%B5%82%E5%8A%87_%EF%BD%9E_Concealed_the_Conclusion%2F%E7%B3%BB%E7%BB%9F.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\fa\ns0%3A%E6%9D%B1%E6%96%B9%E5%A4%A2%E7%B5%82%E5%8A%87_%EF%BD%9E_Concealed_the_Conclusion%2F%E7%B3%BB%E7%BB%9F.html -->
 
 Danmaq
 
@@ -11,10 +11,8 @@ Danmaq
 - [2 画面要素](#画面要素)
 - [3 机体特性](#机体特性)
 - [4 博丽点系统](#博丽点系统)
-
   - [4.1 博丽点](#博丽点)
   - [4.2 博丽槽](#博丽槽)
-
 
 
 - [5 使魔](#使魔)
@@ -22,12 +20,7 @@ Danmaq
 - [7 Last Spell Card](#Last_Spell_Card)
 - [8 无敌时间标识](#无敌时间标识)
 - [9 分数系统](#分数系统)
-
   - [9.1 结算](#结算)
-
-
-
-
 
 
 
@@ -80,7 +73,7 @@ F12：直接退出弹幕风
 
 
 ## 画面要素
-[](./文件-东方梦终剧系统说明1.jpg.md)
+<img alt="东方梦终剧系统说明1.jpg" src="https://upload.thwiki.cc/thumb/b/b4/%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%BB%88%E5%89%A7%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E1.jpg/300px-%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%BB%88%E5%89%A7%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E1.jpg" decoding="async" loading="lazy" width="300" height="226" srcset="https://upload.thwiki.cc/thumb/b/b4/%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%BB%88%E5%89%A7%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E1.jpg/450px-%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%BB%88%E5%89%A7%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E1.jpg 1.5x, https://upload.thwiki.cc/b/b4/%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%BB%88%E5%89%A7%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E1.jpg 2x" data-file-width="575" data-file-height="433">
   
 ①：博丽点（H）计数/power/关卡名/难度，下方魔法阵为“使魔系统”
   
@@ -109,15 +102,12 @@ F12：直接退出弹幕风
 ⑨：游戏实时帧数
   
 
-
-
 ## 机体特性
   
- **雾雨魔理沙A** （星符）：ホーミングタイプ（诱导型）
+**雾雨魔理沙A**（星符）：ホーミングタイプ（诱导型）
   
-
-[](./文件-梦终剧机体说明1.jpg.md)  [](./文件-梦终剧机体说明1.jpg.md)
-  
+<img alt="梦终剧机体说明1.jpg" src="https://upload.thwiki.cc/thumb/7/72/%E6%A2%A6%E7%BB%88%E5%89%A7%E6%9C%BA%E4%BD%93%E8%AF%B4%E6%98%8E1.jpg/150px-%E6%A2%A6%E7%BB%88%E5%89%A7%E6%9C%BA%E4%BD%93%E8%AF%B4%E6%98%8E1.jpg" decoding="async" loading="lazy" width="150" height="130" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/7/72/%E6%A2%A6%E7%BB%88%E5%89%A7%E6%9C%BA%E4%BD%93%E8%AF%B4%E6%98%8E1.jpg/225px-%E6%A2%A6%E7%BB%88%E5%89%A7%E6%9C%BA%E4%BD%93%E8%AF%B4%E6%98%8E1.jpg 1.5x, https://upload.thwiki.cc/thumb/7/72/%E6%A2%A6%E7%BB%88%E5%89%A7%E6%9C%BA%E4%BD%93%E8%AF%B4%E6%98%8E1.jpg/300px-%E6%A2%A6%E7%BB%88%E5%89%A7%E6%9C%BA%E4%BD%93%E8%AF%B4%E6%98%8E1.jpg 2x" data-file-width="306" data-file-height="266">
+ [放大](./文件-梦终剧机体说明1.jpg.md)  
 高速/低速射击：Homing Missile
   
   
@@ -134,19 +124,10 @@ F12：直接退出弹幕风
 - 副枪子弹速度偏慢，需要一定的背板。
 
   
+**雾雨魔理沙B**（光符）：広範囲攻撃タイプ（广范围攻击型）
   
-
-  
-  
-  
-
-  
-  
- **雾雨魔理沙B** （光符）：広範囲攻撃タイプ（广范围攻击型）
-  
-
-[](./文件-梦终剧机体说明2.jpg.md)  [](./文件-梦终剧机体说明2.jpg.md)
-  
+<img alt="梦终剧机体说明2.jpg" src="https://upload.thwiki.cc/thumb/a/ab/%E6%A2%A6%E7%BB%88%E5%89%A7%E6%9C%BA%E4%BD%93%E8%AF%B4%E6%98%8E2.jpg/150px-%E6%A2%A6%E7%BB%88%E5%89%A7%E6%9C%BA%E4%BD%93%E8%AF%B4%E6%98%8E2.jpg" decoding="async" loading="lazy" width="150" height="109" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/a/ab/%E6%A2%A6%E7%BB%88%E5%89%A7%E6%9C%BA%E4%BD%93%E8%AF%B4%E6%98%8E2.jpg/225px-%E6%A2%A6%E7%BB%88%E5%89%A7%E6%9C%BA%E4%BD%93%E8%AF%B4%E6%98%8E2.jpg 1.5x, https://upload.thwiki.cc/thumb/a/ab/%E6%A2%A6%E7%BB%88%E5%89%A7%E6%9C%BA%E4%BD%93%E8%AF%B4%E6%98%8E2.jpg/300px-%E6%A2%A6%E7%BB%88%E5%89%A7%E6%9C%BA%E4%BD%93%E8%AF%B4%E6%98%8E2.jpg 2x" data-file-width="503" data-file-height="366">
+ [放大](./文件-梦终剧机体说明2.jpg.md)  
 高速射击：超范围Magic Missile（火力方向可在上下调节，低速下会固定）
   
   
@@ -164,12 +145,10 @@ F12：直接退出弹幕风
 
   
   
-
- **雾雨魔理沙C** （魔符）：狭指向強力タイプ（狭指向强力型）
+**雾雨魔理沙C**（魔符）：狭指向強力タイプ（狭指向强力型）
   
-
-[](./文件-梦终剧机体说明3.jpg.md)  [](./文件-梦终剧机体说明3.jpg.md)
-  
+<img alt="梦终剧机体说明3.jpg" src="https://upload.thwiki.cc/thumb/d/de/%E6%A2%A6%E7%BB%88%E5%89%A7%E6%9C%BA%E4%BD%93%E8%AF%B4%E6%98%8E3.jpg/150px-%E6%A2%A6%E7%BB%88%E5%89%A7%E6%9C%BA%E4%BD%93%E8%AF%B4%E6%98%8E3.jpg" decoding="async" loading="lazy" width="150" height="92" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/d/de/%E6%A2%A6%E7%BB%88%E5%89%A7%E6%9C%BA%E4%BD%93%E8%AF%B4%E6%98%8E3.jpg/225px-%E6%A2%A6%E7%BB%88%E5%89%A7%E6%9C%BA%E4%BD%93%E8%AF%B4%E6%98%8E3.jpg 1.5x, https://upload.thwiki.cc/thumb/d/de/%E6%A2%A6%E7%BB%88%E5%89%A7%E6%9C%BA%E4%BD%93%E8%AF%B4%E6%98%8E3.jpg/300px-%E6%A2%A6%E7%BB%88%E5%89%A7%E6%9C%BA%E4%BD%93%E8%AF%B4%E6%98%8E3.jpg 2x" data-file-width="399" data-file-height="244">
+ [放大](./文件-梦终剧机体说明3.jpg.md)  
 高速射击：Magic Missile
   
   
@@ -190,12 +169,10 @@ F12：直接退出弹幕风
 
   
   
-
- **雾雨魔理沙D** （恋符）：貫通タイプ（贯通型）
+**雾雨魔理沙D**（恋符）：貫通タイプ（贯通型）
   
-
-[](./文件-梦终剧机体说明4.jpg.md)  [](./文件-梦终剧机体说明4.jpg.md)
-  
+<img alt="梦终剧机体说明4.jpg" src="https://upload.thwiki.cc/thumb/3/3b/%E6%A2%A6%E7%BB%88%E5%89%A7%E6%9C%BA%E4%BD%93%E8%AF%B4%E6%98%8E4.jpg/150px-%E6%A2%A6%E7%BB%88%E5%89%A7%E6%9C%BA%E4%BD%93%E8%AF%B4%E6%98%8E4.jpg" decoding="async" loading="lazy" width="150" height="103" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/3/3b/%E6%A2%A6%E7%BB%88%E5%89%A7%E6%9C%BA%E4%BD%93%E8%AF%B4%E6%98%8E4.jpg/225px-%E6%A2%A6%E7%BB%88%E5%89%A7%E6%9C%BA%E4%BD%93%E8%AF%B4%E6%98%8E4.jpg 1.5x, https://upload.thwiki.cc/3/3b/%E6%A2%A6%E7%BB%88%E5%89%A7%E6%9C%BA%E4%BD%93%E8%AF%B4%E6%98%8E4.jpg 2x" data-file-width="287" data-file-height="197">
+ [放大](./文件-梦终剧机体说明4.jpg.md)  
 高速射击：Stream laser
   
   
@@ -217,13 +194,13 @@ F12：直接退出弹幕风
 ## 博丽点系统
 
 ### 博丽点
+
 - 相当于永夜抄的夜点以及妖妖梦的樱点，收集（所有博丽点会自动回收）即可充能博丽槽以及开启LSC等，并影响最终boss战的时间限制。
 - 最终boss战限制时间：初始限制时间为2000f（33.3s），按照左下博丽点的数量来增加限制时间。
 
   
 当然在boss战过程中，时间是不停流逝的，此时收集博丽点也会相应增加限制时间，具体如下表。
   
-
 
 <table>
 
@@ -260,6 +237,7 @@ F12：直接退出弹幕风
 
 
 ### 博丽槽
+
 - 未满时按照充能量略微延长被弹bomb允许时间，射击、擦弹以及收集博丽点均可以充能。难度越高，充满博丽槽需要的点数越多，extra难度所需量目测和normal相近。
 - 充能满时自机有魔法阵光效（如系统说明图，类似永夜抄逢魔光效），此时擦弹获得博丽点数量增加，被弹bomb允许时间大幅度延长，并可以使用阴阳玉（C键）。
 - 主动bomb会消耗相当于最大值20%的博丽槽，若不足则进入短时间的冷却。
@@ -268,7 +246,7 @@ F12：直接退出弹幕风
 
 
 ## 使魔
-[](./文件-东方梦终剧系统说明2.jpg.md)
+<img alt="东方梦终剧系统说明2.jpg" src="https://upload.thwiki.cc/thumb/9/91/%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%BB%88%E5%89%A7%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E2.jpg/150px-%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%BB%88%E5%89%A7%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E2.jpg" decoding="async" loading="lazy" width="150" height="143" srcset="https://upload.thwiki.cc/thumb/9/91/%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%BB%88%E5%89%A7%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E2.jpg/225px-%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%BB%88%E5%89%A7%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E2.jpg 1.5x, https://upload.thwiki.cc/9/91/%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%BB%88%E5%89%A7%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E2.jpg 2x" data-file-width="286" data-file-height="273">
   
 与永夜抄类似，高速时可见，可以攻击，有碰撞判定。低速时不可见，子弹无法攻击使魔，没有碰撞判定。
   
@@ -276,14 +254,12 @@ F12：直接退出弹幕风
 本体击破时会消去所有使魔周围一定范围内的子弹，使魔被击破时也会触发消弹（这点与永夜抄不同）。
   
 
-
-
 ## 阴阳玉
   
-[](./文件-东方梦终剧系统说明3.jpg.md)
+<img alt="东方梦终剧系统说明3.jpg" src="https://upload.thwiki.cc/thumb/1/13/%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%BB%88%E5%89%A7%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E3.jpg/200px-%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%BB%88%E5%89%A7%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E3.jpg" decoding="async" loading="lazy" width="200" height="95" srcset="https://upload.thwiki.cc/thumb/1/13/%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%BB%88%E5%89%A7%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E3.jpg/300px-%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%BB%88%E5%89%A7%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E3.jpg 1.5x, https://upload.thwiki.cc/thumb/1/13/%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%BB%88%E5%89%A7%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E3.jpg/400px-%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%BB%88%E5%89%A7%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E3.jpg 2x" data-file-width="772" data-file-height="365">
   
 
-- 博丽槽满时按C键，会向自机当前移动方向发射阴阳玉并清空博丽槽。再按一次C键或者阴阳玉碰撞版边/敌人则会爆炸，将爆风范围内 **大部分** 子弹转换为博丽点回收。
+- 博丽槽满时按C键，会向自机当前移动方向发射阴阳玉并清空博丽槽。再按一次C键或者阴阳玉碰撞版边/敌人则会爆炸，将爆风范围内**大部分**子弹转换为博丽点回收。
 - 子弹较多时使用可以达到非常好的刷分以及消弹效果，但是注意阴阳玉并不会消去所有在范围内的弹幕，小心漏网之鱼。
 - 每条被消去的激光只有1个博丽点回收。
 - 消耗已获得的博丽点计数的1%。
@@ -301,7 +277,8 @@ F12：直接退出弹幕风
 
 ## 无敌时间标识
   
-[](./文件-东方梦终剧系统说明4.jpg.md)
+<img alt="东方梦终剧系统说明4.jpg" src="https://upload.thwiki.cc/b/b6/%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%BB%88%E5%89%A7%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E4.jpg" decoding="async" loading="lazy" width="110" height="96" data-file-width="110" data-file-height="96">
+
 与妖妖梦类似，miss/bomb时会有红色缩小的圈来表示无敌时间。
   
 
@@ -318,10 +295,9 @@ F12：直接退出弹幕风
 符卡分
 : 初始值为（500000+ H点数目*1000)*3，随时间降低。战斗中并不会增加。
 
-
 ### 结算
-- 每一面完成时，基础结算分数为：  
 
+- 每一面完成时，基础结算分数为：
 
   
 Stage   x 10,000,000 (当前关卡面数（1-6）,Ex和Ph的stage系数为10)  
@@ -331,24 +307,17 @@ Point   x     50,000 (当前关卡中获得的蓝点数。此项最小分值为2
 Graze   x        500 (当前关卡中擦弹数。此项最小分值为20)  
 
 Hakurei x      2,500 (当前关卡中的博丽点增长量，如果关卡结束时博丽点小于开始时，则只有100分。)  
+*注意，博丽点是否增长以曾经获得的最高值来计算，例如你3/4/5/6面结束时，博丽点为3000/2000/2800/4000，那么4、5面的博丽点结算分只有100，6面博丽点结算分为1000x2500=2500000）*  
 
- *注意，博丽点是否增长以曾经获得的最高值来计算，例如你3/4/5/6面结束时，博丽点为3000/2000/2800/4000，那么4、5面的博丽点结算分只有100，6面博丽点结算分为1000x2500=2500000）* 
-  
-
-- 通关时，6面额外结算分数为：  
-
+- 通关时，6面额外结算分数为：
 
   
 Player x 1,000,000 (剩余残机数，当前使用自机也算在内)  
 
 Bomb   x    50,000 (剩余bomb数)  
-
   
 
 - 上述两个分数乘以难度系数（E/N/H/L/EX/PH分别为0.5/1.0/1.2/1.5/2.0/2.0），再乘以残机惩罚系数（3残及以下为1，4/5/6/7残起飞惩罚系数为0.6/0.3/0.2/0.1）即为最终结算分数。
-
-
-
 
 
 ---

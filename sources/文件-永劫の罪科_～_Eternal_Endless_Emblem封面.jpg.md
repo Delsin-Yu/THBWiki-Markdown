@@ -1,6 +1,6 @@
 # 文件:永劫の罪科_～_Eternal_Endless_Emblem封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b1\ns6%3A%E6%B0%B8%E5%8A%AB%E3%81%AE%E7%BD%AA%E7%A7%91_%EF%BD%9E_Eternal_Endless_Emblem%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b1\ns6%3A%E6%B0%B8%E5%8A%AB%E3%81%AE%E7%BD%AA%E7%A7%91_%EF%BD%9E_Eternal_Endless_Emblem%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Like_a_rabbit | 专辑封面 | 封面图片
 
@@ -8,11 +8,10 @@ Like_a_rabbit | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [永劫の罪科 ～ Eternal Endless Emblem](./永劫の罪科_～_Eternal_Endless_Emblem.md)  
-该封面包含的角色：- [上白泽慧音](./上白泽慧音.md)- [蓬莱山辉夜](./蓬莱山辉夜.md)- [藤原妹红](./藤原妹红.md)
-
-
-
+- [永劫の罪科 ～ Eternal Endless Emblem](./永劫の罪科_～_Eternal_Endless_Emblem.md)该封面包含的角色：
+- [上白泽慧音](./上白泽慧音.md)
+- [蓬莱山辉夜](./蓬莱山辉夜.md)
+- [藤原妹红](./藤原妹红.md)
 
 
 ---

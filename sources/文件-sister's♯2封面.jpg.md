@@ -1,6 +1,6 @@
 # 文件:sister's♯2封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f6\ns6%3Asister%27s%E2%99%AF2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f6\ns6%3Asister%27s%E2%99%AF2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ガネメ | 专辑封面 | 封面图片
 
@@ -8,16 +8,13 @@
 使用了本文件作封面图片的作品：
   
 
-- [sister's♯2](./sister's♯2.md)  
-该封面包含的角色：- [露娜萨·普莉兹姆利巴](./露娜萨·普莉兹姆利巴.md)- [梅露兰·普莉兹姆利巴](./梅露兰·普莉兹姆利巴.md)- [莉莉卡·普莉兹姆利巴](./莉莉卡·普莉兹姆利巴.md)
+- [sister's♯2](./sister's♯2.md)该封面包含的角色：
+- [露娜萨·普莉兹姆利巴](./露娜萨·普莉兹姆利巴.md)
+- [梅露兰·普莉兹姆利巴](./梅露兰·普莉兹姆利巴.md)
+- [莉莉卡·普莉兹姆利巴](./莉莉卡·普莉兹姆利巴.md)
 
   
-源地址：[[1]](http://static.tumblr.com/fb66fd065d84f2013c8db129a599512c/lircoia/dvAo4wlay/tumblr_static_oxsoz2q23w0ow00000swoo80.png)
-  
-
-
-
-
+源地址：[\[1\]](http://static.tumblr.com/fb66fd065d84f2013c8db129a599512c/lircoia/dvAo4wlay/tumblr_static_oxsoz2q23w0ow00000swoo80.png)  
 
 ---
 

@@ -1,12 +1,8 @@
 # 文件:TLM_02.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c6\ns6%3ATLM_02%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c6\ns6%3ATLM_02%2Emp3.html -->
 
 Magical_and_Hopeless | Torte_Le_Magic | 原曲MP3
-
-
-
-
 
 
 ---

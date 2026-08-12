@@ -1,12 +1,8 @@
 # 文件:さくSaku亭banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c9\ns6%3A%E3%81%95%E3%81%8FSaku%E4%BA%ADbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c9\ns6%3A%E3%81%95%E3%81%8FSaku%E4%BA%ADbanner%2Ejpg.html -->
 
 さくSaku亭 | 社团LOGO
-
-
-
-
 
 
 ---

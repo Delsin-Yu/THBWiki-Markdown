@@ -1,6 +1,6 @@
 # 文件:For_the_Change封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0a\ns6%3AFor_the_Change%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0a\ns6%3AFor_the_Change%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Digitalic_Party | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Digitalic_Party | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [For the Change](./For_the_Change.md)  
-该封面包含的角色：- [封兽鵺](./封兽鵺.md)
+- [For the Change](./For_the_Change.md)该封面包含的角色：
+- [封兽鵺](./封兽鵺.md)
 
   
-源地址：[[1]](http://digitalic-party.net/image/event/C80/c80_jacket.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://digitalic-party.net/image/event/C80/c80_jacket.jpg)  
 
 ---
 

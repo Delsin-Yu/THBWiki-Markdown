@@ -1,12 +1,8 @@
 # 文件:幽谷响子（神灵庙立绘）lo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e0\ns6%3A%E5%B9%BD%E8%B0%B7%E5%93%8D%E5%AD%90%EF%BC%88%E7%A5%9E%E7%81%B5%E5%BA%99%E7%AB%8B%E7%BB%98%EF%BC%89lo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e0\ns6%3A%E5%B9%BD%E8%B0%B7%E5%93%8D%E5%AD%90%EF%BC%88%E7%A5%9E%E7%81%B5%E5%BA%99%E7%AB%8B%E7%BB%98%EF%BC%89lo%2Epng.html -->
 
 ZUN绘 | 东方神灵庙 | 官方游戏立绘 | 幽谷响子
-
-
-
-
 
 
 ---

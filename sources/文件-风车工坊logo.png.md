@@ -1,16 +1,12 @@
 # 文件:风车工坊logo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e0\ns6%3A%E9%A3%8E%E8%BD%A6%E5%B7%A5%E5%9D%8Alogo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e0\ns6%3A%E9%A3%8E%E8%BD%A6%E5%B7%A5%E5%9D%8Alogo%2Epng.html -->
 
 社团LOGO | 风车工坊
 
   
 社团主Logo
   
-
-
-
-
 
 ---
 

@@ -1,16 +1,11 @@
 # 文件:NFTO乐团.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\02\ns6%3ANFTO%E4%B9%90%E5%9B%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\02\ns6%3ANFTO%E4%B9%90%E5%9B%A2%2Ejpg.html -->
 
 NFT_conFuoco_orchestra | 社团LOGO
 
   
-分类：社团LOGO (未找到链接)
-  
-
-
-
-
+分类：社团LOGO (未找到链接)  
 
 ---
 

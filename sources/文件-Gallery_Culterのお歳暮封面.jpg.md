@@ -1,6 +1,6 @@
 # 文件:Gallery_Culterのお歳暮封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\10\ns6%3AGallery_Culter%E3%81%AE%E3%81%8A%E6%AD%B3%E6%9A%AE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\10\ns6%3AGallery_Culter%E3%81%AE%E3%81%8A%E6%AD%B3%E6%9A%AE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Gallery_Culter | 同人志封面 | 封面图片
 
@@ -8,11 +8,13 @@ Gallery_Culter | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Gallery Culterのお歳暮](./Gallery_Culterのお歳暮.md)  
-该封面包含的角色：- [小恶魔](./小恶魔.md)- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [魂魄妖梦](./魂魄妖梦.md)- [西行寺幽幽子](./西行寺幽幽子.md)- [风见幽香](./风见幽香.md)
-
-
-
+- [Gallery Culterのお歳暮](./Gallery_Culterのお歳暮.md)该封面包含的角色：
+- [小恶魔](./小恶魔.md)
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [魂魄妖梦](./魂魄妖梦.md)
+- [西行寺幽幽子](./西行寺幽幽子.md)
+- [风见幽香](./风见幽香.md)
 
 
 ---

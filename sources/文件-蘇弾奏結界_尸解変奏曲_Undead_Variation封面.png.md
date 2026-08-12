@@ -1,6 +1,6 @@
 # 文件:蘇弾奏結界_尸解変奏曲_Undead_Variation封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a3\ns6%3A%E8%98%87%E5%BC%BE%E5%A5%8F%E7%B5%90%E7%95%8C_%E5%B0%B8%E8%A7%A3%E5%A4%89%E5%A5%8F%E6%9B%B2_Undead_Variation%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a3\ns6%3A%E8%98%87%E5%BC%BE%E5%A5%8F%E7%B5%90%E7%95%8C_%E5%B0%B8%E8%A7%A3%E5%A4%89%E5%A5%8F%E6%9B%B2_Undead_Variation%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 dBu_music | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ dBu_music | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [蘇弾奏結界 尸解変奏曲 Undead Variation](./蘇弾奏結界_尸解変奏曲_Undead_Variation.md)  
-该封面包含的角色：- [物部布都](./物部布都.md)- [丰聪耳神子](./丰聪耳神子.md)
-
-
-
+- [蘇弾奏結界 尸解変奏曲 Undead Variation](./蘇弾奏結界_尸解変奏曲_Undead_Variation.md)该封面包含的角色：
+- [物部布都](./物部布都.md)
+- [丰聪耳神子](./丰聪耳神子.md)
 
 
 ---

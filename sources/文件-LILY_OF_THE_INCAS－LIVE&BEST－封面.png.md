@@ -1,6 +1,6 @@
 # 文件:LILY_OF_THE_INCAS－LIVE&BEST－封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d2\ns6%3ALILY_OF_THE_INCAS%EF%BC%8DLIVE%26BEST%EF%BC%8D%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d2\ns6%3ALILY_OF_THE_INCAS%EF%BC%8DLIVE%26BEST%EF%BC%8D%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Alstroemeria_Records | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Alstroemeria_Records | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [LILY OF THE INCAS－LIVE&amp;BEST－](./LILY_OF_THE_INCAS－LIVE&BEST－.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [LILY OF THE INCAS－LIVE&BEST－](./LILY_OF_THE_INCAS－LIVE&BEST－.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

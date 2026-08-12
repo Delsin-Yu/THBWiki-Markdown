@@ -1,14 +1,11 @@
 # 文件:岸田教团banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c7\ns6%3A%E5%B2%B8%E7%94%B0%E6%95%99%E5%9B%A2banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c7\ns6%3A%E5%B2%B8%E7%94%B0%E6%95%99%E5%9B%A2banner%2Ejpg.html -->
 
 岸田教团 | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

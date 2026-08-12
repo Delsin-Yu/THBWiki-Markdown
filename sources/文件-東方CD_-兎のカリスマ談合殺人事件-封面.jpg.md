@@ -1,6 +1,6 @@
 # 文件:東方CD_-兎のカリスマ談合殺人事件-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a0\ns6%3A%E6%9D%B1%E6%96%B9CD_-%E5%85%8E%E3%81%AE%E3%82%AB%E3%83%AA%E3%82%B9%E3%83%9E%E8%AB%87%E5%90%88%E6%AE%BA%E4%BA%BA%E4%BA%8B%E4%BB%B6-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a0\ns6%3A%E6%9D%B1%E6%96%B9CD_-%E5%85%8E%E3%81%AE%E3%82%AB%E3%83%AA%E3%82%B9%E3%83%9E%E8%AB%87%E5%90%88%E6%AE%BA%E4%BA%BA%E4%BA%8B%E4%BB%B6-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 アトリエYUMEnoZUKA | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方CD -兎のカリスマ談合殺人事件-](./東方CD_-兎のカリスマ談合殺人事件-.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
+- [東方CD -兎のカリスマ談合殺人事件-](./東方CD_-兎のカリスマ談合殺人事件-.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-源地址：[[1]](http://img.toranoana.jp/popup_img/04/0030/45/91/040030459152-1p.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://img.toranoana.jp/popup_img/04/0030/45/91/040030459152-1p.jpg)  
 
 ---
 

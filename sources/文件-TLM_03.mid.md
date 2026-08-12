@@ -1,6 +1,6 @@
 # 文件:TLM_03.mid
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d2\ns6%3ATLM_03%2Emid.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d2\ns6%3ATLM_03%2Emid.html -->
 
 Sacred_Battle | Torte_Le_Magic | 东方幻想的音乐 | 官方MIDI
 
@@ -9,10 +9,6 @@ Sacred Battle トルテ ル マジック1面Bossコアントロー的主题曲�
 
 备注：游戏版本和东方幻想的音乐版本一样，未作修改。（听力分辨）
   
-
-
-
-
 
 ---
 

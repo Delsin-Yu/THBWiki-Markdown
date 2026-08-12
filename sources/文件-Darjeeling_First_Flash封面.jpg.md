@@ -1,6 +1,6 @@
 # 文件:Darjeeling_First_Flash封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\ba\ns6%3ADarjeeling_First_Flash%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\ba\ns6%3ADarjeeling_First_Flash%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Afternoon*Tea | 专辑封面 | 封面图片
 
@@ -10,11 +10,9 @@ Afternoon*Tea | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Darjeeling First Flash](./Darjeeling_First_Flash.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
-
-
-
+- [Darjeeling First Flash](./Darjeeling_First_Flash.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
 
 ---

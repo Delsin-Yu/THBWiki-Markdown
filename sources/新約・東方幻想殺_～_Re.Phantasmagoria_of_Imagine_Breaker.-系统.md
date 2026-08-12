@@ -1,8 +1,9 @@
 # 新約・東方幻想殺_～_Re.Phantasmagoria_of_Imagine_Breaker./系统
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\6e\ns0%3A%E6%96%B0%E7%B4%84%E3%83%BB%E6%9D%B1%E6%96%B9%E5%B9%BB%E6%83%B3%E6%AE%BA_%EF%BD%9E_Re%2EPhantasmagoria_of_Imagine_Breaker%2E%2F%E7%B3%BB%E7%BB%9F.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\6e\ns0%3A%E6%96%B0%E7%B4%84%E3%83%BB%E6%9D%B1%E6%96%B9%E5%B9%BB%E6%83%B3%E6%AE%BA_%EF%BD%9E_Re%2EPhantasmagoria_of_Imagine_Breaker%2E%2F%E7%B3%BB%E7%BB%9F.html -->
 
 Gore
+
 
 - 概要 (未找到链接)
 - 背景故事 (未找到链接)
@@ -13,9 +14,6 @@ Gore
 - 道具 (未找到链接)
 - 系统 小技巧 (未找到链接)
 - ＦＡＱ (未找到链接)
-
-
-
 
 
 ---

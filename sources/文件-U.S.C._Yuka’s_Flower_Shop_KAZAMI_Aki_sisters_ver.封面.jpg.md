@@ -1,6 +1,6 @@
 # 文件:U.S.C._Yuka’s_Flower_Shop_KAZAMI_Aki_sisters_ver.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1a\ns6%3AU%2ES%2EC%2E_Yuka%E2%80%99s_Flower_Shop_KAZAMI_Aki_sisters_ver%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1a\ns6%3AU%2ES%2EC%2E_Yuka%E2%80%99s_Flower_Shop_KAZAMI_Aki_sisters_ver%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ZAZENBEAT | シャこ | 同人志封面 | 封面图片
 
@@ -10,11 +10,9 @@ ZAZENBEAT | シャこ | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [U.S.C. Yuka’s Flower Shop KAZAMI Aki sisters ver.](./U.S.C._Yuka’s_Flower_Shop_KAZAMI_Aki_sisters_ver..md)  
-该封面包含的角色：- [秋静叶](./秋静叶.md)- [秋穰子](./秋穰子.md)
-
-
-
+- [U.S.C. Yuka’s Flower Shop KAZAMI Aki sisters ver.](./U.S.C._Yuka’s_Flower_Shop_KAZAMI_Aki_sisters_ver..md)该封面包含的角色：
+- [秋静叶](./秋静叶.md)
+- [秋穰子](./秋穰子.md)
 
 
 ---

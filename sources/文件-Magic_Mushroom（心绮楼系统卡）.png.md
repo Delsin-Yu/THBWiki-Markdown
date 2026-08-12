@@ -1,14 +1,11 @@
 # 文件:Magic_Mushroom（心绮楼系统卡）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4d\ns6%3AMagic_Mushroom%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E7%B3%BB%E7%BB%9F%E5%8D%A1%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4d\ns6%3AMagic_Mushroom%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E7%B3%BB%E7%BB%9F%E5%8D%A1%EF%BC%89%2Epng.html -->
 
 东方心绮楼
 
 
 ## 摘要
-
-
-
 
 ---
 

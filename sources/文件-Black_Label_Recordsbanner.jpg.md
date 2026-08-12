@@ -1,12 +1,8 @@
 # 文件:Black_Label_Recordsbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6e\ns6%3ABlack_Label_Recordsbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6e\ns6%3ABlack_Label_Recordsbanner%2Ejpg.html -->
 
 Black_Label_Records | 社团LOGO
-
-
-
-
 
 
 ---

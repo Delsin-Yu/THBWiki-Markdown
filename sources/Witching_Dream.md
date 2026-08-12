@@ -1,18 +1,16 @@
 # Witching_Dream
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\e\ea\ns0%3AWitching_Dream.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\e\ea\ns0%3AWitching_Dream.html -->
 
 由 ZUN 创作的官方曲目，原名 Witching Dream
 
 本页是关于东方Project  
- **原作音乐** 的词条
-
+**原作音乐**的词条
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 出现作品](#出现作品)
 - [3 音乐文件](#音乐文件)
-
   - [3.1 东方幻想乡](#东方幻想乡)
   - [3.2 东方怪绮谈](#东方怪绮谈)
   - [3.3 东方幻想的音乐](#东方幻想的音乐)
@@ -20,25 +18,17 @@
   - [3.5 幺乐团的历史 vol.1](#幺乐团的历史_vol.1)
 
 
-
 - [4 说明文本](#说明文本)
-
   - [4.1 东方幻想乡](#东方幻想乡_2)
   - [4.2 东方怪绮谈](#东方怪绮谈_2)
   - [4.3 东方幻想的音乐](#东方幻想的音乐_2)
   - [4.4 东方幻想怀古曲](#东方幻想怀古曲_2)
 
 
-
 - [5 其他资料](#其他资料)
-
   - [5.1 乐理资讯](#乐理资讯)
   - [5.2 分析考据](#分析考据)
   - [5.3 二次同人数据](#二次同人数据)
-
-
-
-
 
 
 
@@ -48,7 +38,6 @@
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">Witching Dream</td></tr><tr><td><b>译名</b></td><td>Witching Dream</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 Witching Dream（曲目） - 由 ZUN 创作的官方曲目，原名 Witching Dream
-
 ## 出现作品
 
 <table>
@@ -60,7 +49,6 @@ Witching Dream（曲目） - 由 ZUN 创作的官方曲目，原名 Witching Dre
 </tbody></table>
 
 
-
 ## 音乐文件
 
 ### 东方幻想乡
@@ -68,17 +56,13 @@ Witching Dream（曲目） - 由 ZUN 创作的官方曲目，原名 Witching Dre
 YM2203(OPN)，FM26K音源版。
   
 
-
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th04_02_26.ogg.md" title="文件:th04 02 26.ogg">th04_02_26.ogg</a><br><audio src="https://upload.thwiki.cc/1/13/th04_02_26.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>ST00.M26</td></tr><tr><td><b>音轨时长</b></td><td>1:54.721</td></tr></tbody></table>
-
 
   
 YM2608(OPNA)，FM86音源版。
   
 
-
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th04_02_86.ogg.md" title="文件:th04 02 86.ogg">th04_02_86.ogg</a><br><audio src="https://upload.thwiki.cc/a/af/th04_02_86.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>ST00.M86</td></tr><tr><td><b>音轨时长</b></td><td>1:54.721</td></tr></tbody></table>
-
 
 
 ### 东方怪绮谈
@@ -86,17 +70,13 @@ YM2608(OPNA)，FM86音源版。
 YM2203(OPN)，FM26K音源版。
   
 
-
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th05_G_02_26.ogg.md" title="文件:th05 G 02 26.ogg">th05_G_02_26.ogg</a><br><audio src="https://upload.thwiki.cc/2/23/th05_G_02_26.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>G_ST00.M</td></tr><tr><td><b>音轨时长</b></td><td>1:54.721</td></tr></tbody></table>
-
 
   
 YM2608(OPNA)，FM86音源版。
   
 
-
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th05_G_02_86.ogg.md" title="文件:th05 G 02 86.ogg">th05_G_02_86.ogg</a><br><audio src="https://upload.thwiki.cc/7/70/th05_G_02_86.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>G_ST00.M2</td></tr><tr><td><b>音轨时长</b></td><td>1:54.721</td></tr></tbody></table>
-
 
 
 ### 东方幻想的音乐
@@ -104,11 +84,9 @@ YM2608(OPNA)，FM86音源版。
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td><a href="./文件-th4_02.mid.md" title="文件:th4 02.mid">th4_02.mid</a></td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th4_02.mp3.md" title="文件:th4 02.mp3">th4_02.mp3</a><br><audio src="https://upload.thwiki.cc/2/2f/th4_02.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>th4_02.mid</td></tr><tr><td><b>音轨时长</b></td><td>3:19</td></tr></tbody></table>
 
 
-
 ### 东方幻想怀古曲
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-thgs04_02.ogg.md" title="文件:thgs04 02.ogg">thgs04_02.ogg</a><br><audio src="https://upload.thwiki.cc/0/00/thgs04_02.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>th4_02.M</td></tr><tr><td><b>音轨时长</b></td><td>1:54.721</td></tr></tbody></table>
-
 
 
 ### 幺乐团的历史 vol.1
@@ -116,11 +94,11 @@ YM2608(OPNA)，FM86音源版。
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-ha01a_02.mp3.md" title="文件:ha01a 02.mp3">ha01a_02.mp3</a><br><audio src="https://upload.thwiki.cc/4/44/ha01a_02.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track02.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>2:40</td></tr></tbody></table>
 
 
-
 ## 说明文本
 
 ### 东方幻想乡
-- Music Room (未找到链接)
+
+- [Music Room](./东方幻想乡-Music.md#博丽灵梦（旧作角色）博丽灵梦路线1面主题曲)
 
 　　　　　　灵梦的一面主题曲  
 　嗯，做成了一首感觉蛮不错的曲子呢。  
@@ -132,17 +110,17 @@ YM2608(OPNA)，FM86音源版。
 ＺＵＮ（太田）  
 幻想乡的曲子。  
 谜
-
 ### 东方怪绮谈
-- Music Room (未找到链接)
+
+- [Music Room](./东方怪绮谈-Music.md#博丽灵梦（旧作角色）博丽灵梦路线1面主题曲)
 
 灵梦１面的主题曲Witching Dream  
 ＺＵＮ（太田）  
 幻想乡的曲子。  
 谜
-
 ### 东方幻想的音乐
-- th4_02.txt (未找到链接)
+
+- [th4_02.txt](./东方幻想的音乐-过去的曲子-东方幻想乡.md#Witching_Dream)
 
 +----------------------------------------------------------------------------+  
 |【 　 曲名　　】|【 Witching Dream 】  
@@ -157,7 +135,7 @@ YM2608(OPNA)，FM86音源版。
 |                | 这种时候，请不要更动压缩包内部文件。  
 |【　 著作权 　】| ＺＵＮ (太田顺也）  
 |【演奏上的注意】| 用sc-88Pro 的人在演奏时请不要按55Map,88Map。  
-|                                                &#126;&#126;&#126;&#126;~   
+|                                                ~~~~~   
 +-----------------------------------------------------------------------------+  
   感谢下载本文件。  
   
@@ -179,9 +157,9 @@ YM2608(OPNA)，FM86音源版。
 　新作、感想这边请☆  
   东方幻想空间　「博丽神社」    [http://www16.big.or.jp/~zun/](http://www16.big.or.jp/~zun/)  
   Mail  zun@big.or.jp
-
 ### 东方幻想怀古曲
-- th4_02pmd.txt (未找到链接)
+
+- [th4_02pmd.txt](./东方幻想怀古曲-东方幻想乡.md#Witching_Dream)
 
 +----------------------------------------------------------------------------+  
 |【 　 曲名　　】| 【 Witching Dream 】（原版）  
@@ -217,29 +195,32 @@ YM2608(OPNA)，FM86音源版。
 曲子的感想、请求等，这边请  
 　东方幻想空间　「博丽神社」 [http://www16.big.or.jp/~zun/](http://www16.big.or.jp/~zun/)  
 　e-Mail                     zun@big.or.jp
-
 ## 其他资料
 
 ### 乐理资讯
 
 ### 分析考据
   
- **Witching Dream** 
-  
+**Witching Dream**  
 有灵之梦
   
 
-- witching
-  - 巫术的，有魔力的
-    - 灵梦使用魔法
+- witching 
+  - 巫术的，有魔力的 
+    - 灵梦使用魔法 
       - 本曲中包含了神主对灵梦的印象
+
+
 
 
   - 有魅力的
 
-- dream，梦
-  - 灵梦
+
+- dream，梦 
+  - 灵梦 
     - “灵梦”本义就是指能实现好结果的梦，也叫正梦
+
+
 
 
 
@@ -256,17 +237,6 @@ YM2608(OPNA)，FM86音源版。
 <tr><td>Arrange</td><td>87</td></tr>
 <tr><td>Vocal率</td><td>20.91%</td></tr>
 </tbody></table>
-
-
-
-
-  
-  
-
-  
-
-
-
 
 
 ---

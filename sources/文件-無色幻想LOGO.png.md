@@ -1,14 +1,11 @@
 # 文件:無色幻想LOGO.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\14\ns6%3A%E7%84%A1%E8%89%B2%E5%B9%BB%E6%83%B3LOGO%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\14\ns6%3A%E7%84%A1%E8%89%B2%E5%B9%BB%E6%83%B3LOGO%2Epng.html -->
 
 無色幻想 | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

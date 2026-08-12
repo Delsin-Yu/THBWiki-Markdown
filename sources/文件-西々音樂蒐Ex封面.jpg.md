@@ -1,6 +1,6 @@
 # 文件:西々音樂蒐Ex封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\33\ns6%3A%E8%A5%BF%E3%80%85%E9%9F%B3%E6%A8%82%E8%92%90Ex%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\33\ns6%3A%E8%A5%BF%E3%80%85%E9%9F%B3%E6%A8%82%E8%92%90Ex%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 夢想夏月郷 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [西々音樂蒐Ex](./西々音樂蒐Ex.md)  
-该封面包含的角色：- [VIVIT](./VIVIT.md)
-
-
-
+- [西々音樂蒐Ex](./西々音樂蒐Ex.md)该封面包含的角色：
+- [VIVIT](./VIVIT.md)
 
 
 ---

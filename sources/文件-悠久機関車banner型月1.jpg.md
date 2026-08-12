@@ -1,14 +1,11 @@
 # 文件:悠久機関車banner型月1.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e5\ns6%3A%E6%82%A0%E4%B9%85%E6%A9%9F%E9%96%A2%E8%BB%8Abanner%E5%9E%8B%E6%9C%881%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e5\ns6%3A%E6%82%A0%E4%B9%85%E6%A9%9F%E9%96%A2%E8%BB%8Abanner%E5%9E%8B%E6%9C%881%2Ejpg.html -->
 
 悠久機関車 | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

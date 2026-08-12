@@ -1,6 +1,6 @@
 # 文件:Autumn_Again!!_-天高く穣子ゆる秋-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\75\ns6%3AAutumn_Again%21%21_-%E5%A4%A9%E9%AB%98%E3%81%8F%E7%A9%A3%E5%AD%90%E3%82%86%E3%82%8B%E7%A7%8B-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\75\ns6%3AAutumn_Again%21%21_-%E5%A4%A9%E9%AB%98%E3%81%8F%E7%A9%A3%E5%AD%90%E3%82%86%E3%82%8B%E7%A7%8B-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 街角麻婆豆
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [Autumn Again!! -天高く穣子ゆる秋-](./Autumn_Again!!_-天高く穣子ゆる秋-.md)  
-该封面包含的角色：- [秋静叶](./秋静叶.md)- [秋穰子](./秋穰子.md)
-
-
-
+- [Autumn Again!! -天高く穣子ゆる秋-](./Autumn_Again!!_-天高く穣子ゆる秋-.md)该封面包含的角色：
+- [秋静叶](./秋静叶.md)
+- [秋穰子](./秋穰子.md)
 
 
 ---

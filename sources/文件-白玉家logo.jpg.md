@@ -1,14 +1,11 @@
 # 文件:白玉家logo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b1\ns6%3A%E7%99%BD%E7%8E%89%E5%AE%B6logo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b1\ns6%3A%E7%99%BD%E7%8E%89%E5%AE%B6logo%2Ejpg.html -->
 
 白玉家 | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

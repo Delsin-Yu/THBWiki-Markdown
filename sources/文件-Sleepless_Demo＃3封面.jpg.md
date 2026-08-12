@@ -1,6 +1,6 @@
 # 文件:Sleepless_Demo＃3封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\af\ns6%3ASleepless_Demo%EF%BC%833%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\af\ns6%3ASleepless_Demo%EF%BC%833%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Sleepless | 专辑封面 | 封面图片
 
@@ -13,12 +13,7 @@ Sleepless | 专辑封面 | 封面图片
 - [Sleepless Demo＃3](./Sleepless_Demo＃3.md)
 
   
-源地址：[direct image link (original size)](https://i1.sndcdn.com/artworks-000278019836-rpinnu-original.jpg), [source page (Soundcloud)](https://soundcloud.com/sctspl/sleepless-demo3-crossfade)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://i1.sndcdn.com/artworks-000278019836-rpinnu-original.jpg), [source page (Soundcloud)](https://soundcloud.com/sctspl/sleepless-demo3-crossfade)  
 
 ---
 

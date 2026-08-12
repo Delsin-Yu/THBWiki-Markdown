@@ -1,6 +1,6 @@
 # 文件:ANOTHER-アナザー-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a4\ns6%3AANOTHER-%E3%82%A2%E3%83%8A%E3%82%B6%E3%83%BC-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a4\ns6%3AANOTHER-%E3%82%A2%E3%83%8A%E3%82%B6%E3%83%BC-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 サークル青藍号 | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [ANOTHER-アナザー-](./ANOTHER-アナザー-.md)  
-该封面包含的角色：- [伊吹萃香](./伊吹萃香.md)
+- [ANOTHER-アナザー-](./ANOTHER-アナザー-.md)该封面包含的角色：
+- [伊吹萃香](./伊吹萃香.md)
 
   
-[Pixiv artwork ID: 84847292 (image 4/5; original size)](https://www.pixiv.net/artworks/84847292)
-  
-
-
-
-
+[Pixiv artwork ID: 84847292 (image 4/5; original size)](https://www.pixiv.net/artworks/84847292)  
 
 ---
 

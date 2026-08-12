@@ -1,14 +1,11 @@
 # 文件:The_Grimoire_of_Usami（灵梦&紫1）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\35\ns6%3AThe_Grimoire_of_Usami%EF%BC%88%E7%81%B5%E6%A2%A6%26%E7%B4%AB1%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\35\ns6%3AThe_Grimoire_of_Usami%EF%BC%88%E7%81%B5%E6%A2%A6%26%E7%B4%AB1%EF%BC%89%2Ejpg.html -->
 
 八云紫 | 博丽灵梦 | 宇佐见的魔法书
 
 
 ## 摘要
-
-
-
 
 ---
 

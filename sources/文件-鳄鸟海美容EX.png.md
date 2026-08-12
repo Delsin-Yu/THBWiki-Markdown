@@ -1,14 +1,11 @@
 # 文件:鳄鸟海美容EX.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ac\ns6%3A%E9%B3%84%E9%B8%9F%E6%B5%B7%E7%BE%8E%E5%AE%B9EX%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ac\ns6%3A%E9%B3%84%E9%B8%9F%E6%B5%B7%E7%BE%8E%E5%AE%B9EX%2Epng.html -->
 
 Team_Magnitude_Manipulators | 二次角色立绘 | 鳄鸟海美容
 
 
 ## 文件说明
-
-
-
 
 ---
 

@@ -1,14 +1,11 @@
 # 文件:大東亜研_logo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f8\ns6%3A%E5%A4%A7%E6%9D%B1%E4%BA%9C%E7%A0%94_logo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f8\ns6%3A%E5%A4%A7%E6%9D%B1%E4%BA%9C%E7%A0%94_logo%2Epng.html -->
 
 大東亜研 | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

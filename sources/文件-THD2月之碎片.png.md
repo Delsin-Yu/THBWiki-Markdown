@@ -1,12 +1,8 @@
 # 文件:THD2月之碎片.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c4\ns6%3ATHD2%E6%9C%88%E4%B9%8B%E7%A2%8E%E7%89%87%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c4\ns6%3ATHD2%E6%9C%88%E4%B9%8B%E7%A2%8E%E7%89%87%2Epng.html -->
 
 THD2
-
-
-
-
 
 
 ---

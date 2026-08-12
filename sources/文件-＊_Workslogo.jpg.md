@@ -1,16 +1,11 @@
 # 文件:＊_Workslogo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e3\ns6%3A%EF%BC%8A_Workslogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e3\ns6%3A%EF%BC%8A_Workslogo%2Ejpg.html -->
 
 社团LOGO | ＊_Works
 
   
-源地址：[[1]](https://66.media.tumblr.com/avatar_d0642b3665fa_128.pnj)
-  
-
-
-
-
+源地址：[\[1\]](https://66.media.tumblr.com/avatar_d0642b3665fa_128.pnj)  
 
 ---
 

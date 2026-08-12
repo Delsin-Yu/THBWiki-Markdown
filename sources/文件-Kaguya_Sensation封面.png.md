@@ -1,6 +1,6 @@
 # 文件:Kaguya_Sensation封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\47\ns6%3AKaguya_Sensation%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\47\ns6%3AKaguya_Sensation%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 ガネメ | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Kaguya Sensation](./Kaguya_Sensation.md)  
-该封面包含的角色：- [蓬莱山辉夜](./蓬莱山辉夜.md)
+- [Kaguya Sensation](./Kaguya_Sensation.md)该封面包含的角色：
+- [蓬莱山辉夜](./蓬莱山辉夜.md)
 
   
-源地址：[[1]](http://static.tumblr.com/effb575a97940ce9c10550025cb10291/lircoia/xmendyh4w/tumblr_static_4nn61cnbaykgs8ksccws0g48w.png)
-  
-
-
-
-
+源地址：[\[1\]](http://static.tumblr.com/effb575a97940ce9c10550025cb10291/lircoia/xmendyh4w/tumblr_static_4nn61cnbaykgs8ksccws0g48w.png)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:Cradle_-_東方幻樂祀典封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\73\ns6%3ACradle_-_%E6%9D%B1%E6%96%B9%E5%B9%BB%E6%A8%82%E7%A5%80%E5%85%B8%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\73\ns6%3ACradle_-_%E6%9D%B1%E6%96%B9%E5%B9%BB%E6%A8%82%E7%A5%80%E5%85%B8%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 sound_sepher | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ sound_sepher | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Cradle - 東方幻樂祀典](./Cradle_-_東方幻樂祀典.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [Cradle - 東方幻樂祀典](./Cradle_-_東方幻樂祀典.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

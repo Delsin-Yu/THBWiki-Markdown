@@ -1,6 +1,6 @@
 # 文件:10th_anniversary_inst_side_B封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\33\ns6%3A10th_anniversary_inst_side_B%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\33\ns6%3A10th_anniversary_inst_side_B%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 DiGiTAL_WiNG | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ DiGiTAL_WiNG | 专辑封面 | 封面图片
   
 
 - [10th anniversary inst side B](./10th_anniversary_inst_side_B.md)
-
-
-
 
 
 ---

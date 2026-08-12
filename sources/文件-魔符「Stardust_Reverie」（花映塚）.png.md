@@ -1,12 +1,8 @@
 # 文件:魔符「Stardust_Reverie」（花映塚）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4c\ns6%3A%E9%AD%94%E7%AC%A6%E3%80%8CStardust_Reverie%E3%80%8D%EF%BC%88%E8%8A%B1%E6%98%A0%E5%A1%9A%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4c\ns6%3A%E9%AD%94%E7%AC%A6%E3%80%8CStardust_Reverie%E3%80%8D%EF%BC%88%E8%8A%B1%E6%98%A0%E5%A1%9A%EF%BC%89%2Epng.html -->
 
 东方花映塚 | 雾雨魔理沙
-
-
-
-
 
 
 ---

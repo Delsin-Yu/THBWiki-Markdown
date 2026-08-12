@@ -1,6 +1,6 @@
 # 文件:10／TENSHI封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c1\ns6%3A10%EF%BC%8FTENSHI%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c1\ns6%3A10%EF%BC%8FTENSHI%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Komeiji_Records | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Komeiji_Records | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [10／TENSHI](./10／TENSHI.md)  
-该封面包含的角色：- [比那名居天子](./比那名居天子.md)
+- [10／TENSHI](./10／TENSHI.md)该封面包含的角色：
+- [比那名居天子](./比那名居天子.md)
 
   
-源地址：[[1]](https://wilddakpaks.bandcamp.com/album/10-tenshi)
-  
-
-
-
-
+源地址：[\[1\]](https://wilddakpaks.bandcamp.com/album/10-tenshi)  
 
 ---
 

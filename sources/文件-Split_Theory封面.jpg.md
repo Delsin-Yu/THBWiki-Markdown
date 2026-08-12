@@ -1,6 +1,6 @@
 # 文件:Split_Theory封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9f\ns6%3ASplit_Theory%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9f\ns6%3ASplit_Theory%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 EastNewSound | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ EastNewSound | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Split Theory](./Split_Theory.md)  
-该封面包含的角色：- [灵乌路空](./灵乌路空.md)
-
-
-
+- [Split Theory](./Split_Theory.md)该封面包含的角色：
+- [灵乌路空](./灵乌路空.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Twists_of_Fate封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b4\ns6%3ATwists_of_Fate%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b4\ns6%3ATwists_of_Fate%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Moon-Tone | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ Moon-Tone | 专辑封面 | 封面图片
   
 
 - [Twists of Fate](./Twists_of_Fate.md)
-
-
-
 
 
 ---

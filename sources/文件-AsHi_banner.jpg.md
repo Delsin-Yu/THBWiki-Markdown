@@ -1,12 +1,8 @@
 # 文件:AsHi_banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ef\ns6%3AAsHi_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ef\ns6%3AAsHi_banner%2Ejpg.html -->
 
 As／Hi | 社团LOGO
-
-
-
-
 
 
 ---

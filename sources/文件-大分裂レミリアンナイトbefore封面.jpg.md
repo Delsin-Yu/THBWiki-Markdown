@@ -1,6 +1,6 @@
 # 文件:大分裂レミリアンナイトbefore封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d2\ns6%3A%E5%A4%A7%E5%88%86%E8%A3%82%E3%83%AC%E3%83%9F%E3%83%AA%E3%82%A2%E3%83%B3%E3%83%8A%E3%82%A4%E3%83%88before%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d2\ns6%3A%E5%A4%A7%E5%88%86%E8%A3%82%E3%83%AC%E3%83%9F%E3%83%AA%E3%82%A2%E3%83%B3%E3%83%8A%E3%82%A4%E3%83%88before%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ババソイヤー | 同人志封面 | 封面图片
 
@@ -10,11 +10,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [大分裂レミリアンナイトbefore](./大分裂レミリアンナイトbefore.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- 十六夜咲夜 (未找到链接)- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [大分裂レミリアンナイトbefore](./大分裂レミリアンナイトbefore.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [十六夜咲夜](./十六夜咲夜.md)
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

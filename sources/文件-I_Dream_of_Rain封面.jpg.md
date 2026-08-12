@@ -1,6 +1,6 @@
 # 文件:I_Dream_of_Rain封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0f\ns6%3AI_Dream_of_Rain%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0f\ns6%3AI_Dream_of_Rain%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Komeiji_Records | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Komeiji_Records | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [I Dream of Rain](./I_Dream_of_Rain.md)  
-该封面包含的角色：- [多多良小伞](./多多良小伞.md)
+- [I Dream of Rain](./I_Dream_of_Rain.md)该封面包含的角色：
+- [多多良小伞](./多多良小伞.md)
 
   
-源地址：[[1]](https://wilddakpaks.bandcamp.com/album/i-dream-of-rain)
-  
-
-
-
-
+源地址：[\[1\]](https://wilddakpaks.bandcamp.com/album/i-dream-of-rain)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:Daughter_of_Vayu封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ef\ns6%3ADaughter_of_Vayu%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ef\ns6%3ADaughter_of_Vayu%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 榛ノ木書室
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Daughter of Vayu](./Daughter_of_Vayu.md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)
-
-
-
+- [Daughter of Vayu](./Daughter_of_Vayu.md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
 
 
 ---

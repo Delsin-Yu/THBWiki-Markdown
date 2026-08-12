@@ -1,6 +1,6 @@
 # 文件:槐南相声广播金牌节目展演_VOL.1封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\17\ns6%3A%E6%A7%90%E5%8D%97%E7%9B%B8%E5%A3%B0%E5%B9%BF%E6%92%AD%E9%87%91%E7%89%8C%E8%8A%82%E7%9B%AE%E5%B1%95%E6%BC%94_VOL%2E1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\17\ns6%3A%E6%A7%90%E5%8D%97%E7%9B%B8%E5%A3%B0%E5%B9%BF%E6%92%AD%E9%87%91%E7%89%8C%E8%8A%82%E7%9B%AE%E5%B1%95%E6%BC%94_VOL%2E1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 槐南茶馆
 
@@ -10,11 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [槐南相声广播金牌节目展演 VOL.1](./槐南相声广播金牌节目展演_VOL.1.md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)- [伊吹萃香](./伊吹萃香.md)- [若鹭姬](./若鹭姬.md)- [奥野田美宵](./奥野田美宵.md)
-
-
-
+- [槐南相声广播金牌节目展演 VOL.1](./槐南相声广播金牌节目展演_VOL.1.md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
+- [伊吹萃香](./伊吹萃香.md)
+- [若鹭姬](./若鹭姬.md)
+- [奥野田美宵](./奥野田美宵.md)
 
 
 ---

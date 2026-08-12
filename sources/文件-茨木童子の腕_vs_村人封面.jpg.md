@@ -1,6 +1,6 @@
 # 文件:茨木童子の腕_vs_村人封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f3\ns6%3A%E8%8C%A8%E6%9C%A8%E7%AB%A5%E5%AD%90%E3%81%AE%E8%85%95_vs_%E6%9D%91%E4%BA%BA%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f3\ns6%3A%E8%8C%A8%E6%9C%A8%E7%AB%A5%E5%AD%90%E3%81%AE%E8%85%95_vs_%E6%9D%91%E4%BA%BA%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 いんどの宮殿！ | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [茨木童子の腕 vs 村人](./茨木童子の腕_vs_村人.md)  
-该封面包含的角色：- [茨木华扇](./茨木华扇.md)
-
-
-
+- [茨木童子の腕 vs 村人](./茨木童子の腕_vs_村人.md)该封面包含的角色：
+- [茨木华扇](./茨木华扇.md)
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:Enforcelogo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ea\ns6%3AEnforcelogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ea\ns6%3AEnforcelogo%2Ejpg.html -->
 
 Enforce
-
-
-
-
 
 
 ---

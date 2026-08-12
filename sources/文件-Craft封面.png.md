@@ -1,6 +1,6 @@
 # 文件:Craft封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6a\ns6%3ACraft%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6a\ns6%3ACraft%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 salt_sPot | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@ salt_sPot | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Craft](./Craft.md)  
-该封面包含的角色：- [琪斯美](./琪斯美.md)
+- [Craft](./Craft.md)该封面包含的角色：
+- [琪斯美](./琪斯美.md)
 
   
-源地址：[direct image link (max size)](https://static.tumblr.com/62f756f818facd7290ebc9cfa2d0da1c/jqbpjbu/BCZn1dzf6/tumblr_static_0000000000000002.png), [source page (album tumblr)](https://s20020.tumblr.com/)
-  
-
-
-
-
+源地址：[direct image link (max size)](https://static.tumblr.com/62f756f818facd7290ebc9cfa2d0da1c/jqbpjbu/BCZn1dzf6/tumblr_static_0000000000000002.png), [source page (album tumblr)](https://s20020.tumblr.com/)  
 
 ---
 

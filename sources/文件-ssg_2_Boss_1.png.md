@@ -1,16 +1,12 @@
 # 文件:ssg_2_Boss_1.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\66\ns6%3Assg_2_Boss_1%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\66\ns6%3Assg_2_Boss_1%2Epng.html -->
 
 秋霜玉
 
   
 秋霜玉2面Boss1像素图。
   
-
-
-
-
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:东方游车映写_～_Nacht_Des_Blossom封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5f\ns6%3A%E4%B8%9C%E6%96%B9%E6%B8%B8%E8%BD%A6%E6%98%A0%E5%86%99_%EF%BD%9E_Nacht_Des_Blossom%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5f\ns6%3A%E4%B8%9C%E6%96%B9%E6%B8%B8%E8%BD%A6%E6%98%A0%E5%86%99_%EF%BD%9E_Nacht_Des_Blossom%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 同人志封面 | 封面图片 | 幻想乡键盘规划院
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [东方游车映写 ～ Nacht Des Blossom](./东方游车映写_～_Nacht_Des_Blossom.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [东方游车映写 ～ Nacht Des Blossom](./东方游车映写_～_Nacht_Des_Blossom.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

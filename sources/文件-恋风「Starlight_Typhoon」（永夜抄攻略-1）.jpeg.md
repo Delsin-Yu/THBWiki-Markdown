@@ -1,12 +1,8 @@
 # 文件:恋风「Starlight_Typhoon」（永夜抄攻略-1）.jpeg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6f\ns6%3A%E6%81%8B%E9%A3%8E%E3%80%8CStarlight_Typhoon%E3%80%8D%EF%BC%88%E6%B0%B8%E5%A4%9C%E6%8A%84%E6%94%BB%E7%95%A5-1%EF%BC%89%2Ejpeg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6f\ns6%3A%E6%81%8B%E9%A3%8E%E3%80%8CStarlight_Typhoon%E3%80%8D%EF%BC%88%E6%B0%B8%E5%A4%9C%E6%8A%84%E6%94%BB%E7%95%A5-1%EF%BC%89%2Ejpeg.html -->
 
 游戏攻略
-
-
-
-
 
 
 ---

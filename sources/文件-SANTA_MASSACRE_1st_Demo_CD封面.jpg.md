@@ -1,6 +1,6 @@
 # 文件:SANTA_MASSACRE_1st_Demo_CD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c9\ns6%3ASANTA_MASSACRE_1st_Demo_CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c9\ns6%3ASANTA_MASSACRE_1st_Demo_CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 SANTA_MASSACRE | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ SANTA_MASSACRE | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [SANTA MASSACRE 1st Demo CD](./SANTA_MASSACRE_1st_Demo_CD.md)  
-该封面包含的角色：- [封兽鵺](./封兽鵺.md)
-
-
-
+- [SANTA MASSACRE 1st Demo CD](./SANTA_MASSACRE_1st_Demo_CD.md)该封面包含的角色：
+- [封兽鵺](./封兽鵺.md)
 
 
 ---

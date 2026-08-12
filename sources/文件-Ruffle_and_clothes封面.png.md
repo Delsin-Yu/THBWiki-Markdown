@@ -1,6 +1,6 @@
 # 文件:Ruffle_and_clothes封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\27\ns6%3ARuffle_and_clothes%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\27\ns6%3ARuffle_and_clothes%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 CHOCOLATE_CUBE | COCCO | 同人志封面 | 封面图片
 
@@ -10,11 +10,9 @@ CHOCOLATE_CUBE | COCCO | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Ruffle and clothes](./Ruffle_and_clothes.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
-
-
-
+- [Ruffle and clothes](./Ruffle_and_clothes.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
 
 ---

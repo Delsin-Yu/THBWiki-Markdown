@@ -1,16 +1,12 @@
 # 文件:铃集无名之丘Mayumi_ED01.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9e\ns6%3A%E9%93%83%E9%9B%86%E6%97%A0%E5%90%8D%E4%B9%8B%E4%B8%98Mayumi_ED01%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9e\ns6%3A%E9%93%83%E9%9B%86%E6%97%A0%E5%90%8D%E4%B9%8B%E4%B8%98Mayumi_ED01%2Epng.html -->
 
 幸归铃园
 
   
 铃集无名之丘Mayumi ED01
   
-
-
-
-
 
 ---
 

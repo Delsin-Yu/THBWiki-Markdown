@@ -1,16 +1,12 @@
 # 文件:东方冰魇华BOSS_artia.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\db\ns6%3A%E4%B8%9C%E6%96%B9%E5%86%B0%E9%AD%87%E5%8D%8EBOSS_artia%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\db\ns6%3A%E4%B8%9C%E6%96%B9%E5%86%B0%E9%AD%87%E5%8D%8EBOSS_artia%2Epng.html -->
 
 二次角色立绘 | 地上污秽之土 | 阿媂娅
 
   
 东方冰魇华BOSS之一
   
-
-
-
-
 
 ---
 

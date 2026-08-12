@@ -1,12 +1,8 @@
 # 文件:东方projectSTG基础百科图1-4-1.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\71\ns6%3A%E4%B8%9C%E6%96%B9projectSTG%E5%9F%BA%E7%A1%80%E7%99%BE%E7%A7%91%E5%9B%BE1-4-1%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\71\ns6%3A%E4%B8%9C%E6%96%B9projectSTG%E5%9F%BA%E7%A1%80%E7%99%BE%E7%A7%91%E5%9B%BE1-4-1%2Ejpg.html -->
 
 东方projectSTG基础百科
-
-
-
-
 
 
 ---

@@ -1,14 +1,11 @@
 # 文件:博丽灵梦（怪绮谈立绘）B.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f5\ns6%3A%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%80%AA%E7%BB%AE%E8%B0%88%E7%AB%8B%E7%BB%98%EF%BC%89B%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f5\ns6%3A%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%80%AA%E7%BB%AE%E8%B0%88%E7%AB%8B%E7%BB%98%EF%BC%89B%2Epng.html -->
 
 ZUN绘 | 东方怪绮谈 | 博丽灵梦（旧作角色） | 官方游戏立绘
 
 
 ## 文件说明
-
-
-
 
 ---
 

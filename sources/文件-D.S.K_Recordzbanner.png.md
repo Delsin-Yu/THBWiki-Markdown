@@ -1,16 +1,11 @@
 # 文件:D.S.K_Recordzbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4a\ns6%3AD%2ES%2EK_Recordzbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4a\ns6%3AD%2ES%2EK_Recordzbanner%2Epng.html -->
 
 D.S.K_Recordz | 社团LOGO
 
   
-源地址：[[1]](http://dskr.web.fc2.com/link/dsk_bn2.png)
-  
-
-
-
-
+源地址：[\[1\]](http://dskr.web.fc2.com/link/dsk_bn2.png)  
 
 ---
 

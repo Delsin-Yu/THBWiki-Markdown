@@ -1,16 +1,12 @@
 # 模板:CF
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\5\59\ns10%3ACF.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\5\59\ns10%3ACF.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:鈴集無名の丘_～_Little_Doll_Queen.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0d\ns6%3A%E9%88%B4%E9%9B%86%E7%84%A1%E5%90%8D%E3%81%AE%E4%B8%98_%EF%BD%9E_Little_Doll_Queen%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0d\ns6%3A%E9%88%B4%E9%9B%86%E7%84%A1%E5%90%8D%E3%81%AE%E4%B8%98_%EF%BD%9E_Little_Doll_Queen%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 封面图片 | 幸归铃园 | 软件封面
 
@@ -10,11 +10,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [鈴集無名の丘 ～ Little Doll Queen.](./鈴集無名の丘_～_Little_Doll_Queen..md)  
-该封面包含的角色：- [忧芙翠丝·拉帕其尼](./忧芙翠丝·拉帕其尼.md)- [荷苗忧芽](./荷苗忧芽.md)- [朵拉弩丝](./朵拉弩丝.md)
-
-
-
+- [鈴集無名の丘 ～ Little Doll Queen.](./鈴集無名の丘_～_Little_Doll_Queen..md)该封面包含的角色：
+- [忧芙翠丝·拉帕其尼](./忧芙翠丝·拉帕其尼.md)
+- [荷苗忧芽](./荷苗忧芽.md)
+- [朵拉弩丝](./朵拉弩丝.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Imaginary_Life封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d8\ns6%3AImaginary_Life%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d8\ns6%3AImaginary_Life%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Cold_Sleep_Girlfriend | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ Cold_Sleep_Girlfriend | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Imaginary Life](./Imaginary_Life.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [Imaginary Life](./Imaginary_Life.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Twiligt_Chronicle_～I_Am_Sister封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ef\ns6%3ATwiligt_Chronicle_%EF%BD%9EI_Am_Sister%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ef\ns6%3ATwiligt_Chronicle_%EF%BD%9EI_Am_Sister%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Golden_City_Factory | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Golden_City_Factory | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Twiligt Chronicle ～I Am Sister](./Twiligt_Chronicle_～I_Am_Sister.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
-
-
-
+- [Twiligt Chronicle ～I Am Sister](./Twiligt_Chronicle_～I_Am_Sister.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
 
 ---

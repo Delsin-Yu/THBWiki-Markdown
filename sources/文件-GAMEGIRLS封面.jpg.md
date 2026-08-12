@@ -1,6 +1,6 @@
 # 文件:GAMEGIRLS封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d5\ns6%3AGAMEGIRLS%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d5\ns6%3AGAMEGIRLS%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Over_The_Coffee | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ Over_The_Coffee | 专辑封面 | 封面图片
   
 
 - [GAMEGIRLS](./GAMEGIRLS.md)
-
-
-
 
 
 ---

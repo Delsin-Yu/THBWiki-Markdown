@@ -1,6 +1,6 @@
 # 文件:東方鋼魔狂_～Danmaku_Metal_Gensoukyou～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7b\ns6%3A%E6%9D%B1%E6%96%B9%E9%8B%BC%E9%AD%94%E7%8B%82_%EF%BD%9EDanmaku_Metal_Gensoukyou%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7b\ns6%3A%E6%9D%B1%E6%96%B9%E9%8B%BC%E9%AD%94%E7%8B%82_%EF%BD%9EDanmaku_Metal_Gensoukyou%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 はちみつくまさん | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方鋼魔狂 ～Danmaku Metal Gensoukyou～](./東方鋼魔狂_～Danmaku_Metal_Gensoukyou～.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
-
-
-
+- [東方鋼魔狂 ～Danmaku Metal Gensoukyou～](./東方鋼魔狂_～Danmaku_Metal_Gensoukyou～.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
 
 ---

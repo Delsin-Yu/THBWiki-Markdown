@@ -1,6 +1,6 @@
 # 文件:CIRCLE_OF_FAITH_-AGGRESSIVE_ELEMENTS_II-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bc\ns6%3ACIRCLE_OF_FAITH_-AGGRESSIVE_ELEMENTS_II-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bc\ns6%3ACIRCLE_OF_FAITH_-AGGRESSIVE_ELEMENTS_II-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 AGGRESSIVE_BEAT_CIRCLE | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ AGGRESSIVE_BEAT_CIRCLE | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [CIRCLE OF FAITH -AGGRESSIVE ELEMENTS II-](./CIRCLE_OF_FAITH_-AGGRESSIVE_ELEMENTS_II-.md)  
-该封面包含的角色：- [洩矢诹访子](./洩矢诹访子.md)
-
-
-
+- [CIRCLE OF FAITH -AGGRESSIVE ELEMENTS II-](./CIRCLE_OF_FAITH_-AGGRESSIVE_ELEMENTS_II-.md)该封面包含的角色：
+- [洩矢诹访子](./洩矢诹访子.md)
 
 
 ---

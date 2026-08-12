@@ -1,12 +1,8 @@
 # 文件:se_piyo.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\35\ns6%3Ase_piyo%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\35\ns6%3Ase_piyo%2Emp3.html -->
 
 游戏音效
-
-
-
-
 
 
 ---

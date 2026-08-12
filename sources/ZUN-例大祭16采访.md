@@ -1,53 +1,39 @@
 # ZUN/例大祭16采访
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\48\ns0%3AZUN%2F%E4%BE%8B%E5%A4%A7%E7%A5%AD16%E9%87%87%E8%AE%BF.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\48\ns0%3AZUN%2F%E4%BE%8B%E5%A4%A7%E7%A5%AD16%E9%87%87%E8%AE%BF.html -->
 
 ZUN | 采访
+
 
 - 本文为2019年5月5日举办的第十六回 博丽神社例大祭，下午对ZUN的简短采访。
 - 采访：东方同人游戏鉴赏组，腾讯篝火营地媒体
 
   
-<big><big> **「辞去平成、迎来令和的东方」——第16回博丽神社例大祭采访** </big></big>
-  
+<big><big>**「辞去平成、迎来令和的东方」——第16回博丽神社例大祭采访**</big></big>  
   
 
 　　2019年5月5日的博丽神社例大祭，是迎来令和元年的第一届例大祭。  
 
 　　新时代的到来，东方Project将会迎接什么样的改变呢？  
 
-　　经由 **PLAYISM (未找到链接)** 的安排， **东方同人游戏鉴赏组** 与 **腾讯篝火营地媒体** 一同对东方Project原作者ZUN进行了一次简短的采访。
+　　经由**[PLAYISM](./Active_Gaming_Media.md#PLAYISM)**的安排，**东方同人游戏鉴赏组**与**腾讯篝火营地媒体**一同对东方Project原作者ZUN进行了一次简短的采访。
   
-  
-  
-
-  
-
 
 ## 目录
 
 - [1 采访内容](#采访内容)
-
   - [1.1 腾讯篝火营地部分](#腾讯篝火营地部分)
   - [1.2 东方游戏鉴赏组部分](#东方游戏鉴赏组部分)
-
 
 
 - [2 注释](#注释)
 
 
-
-
-
 ## 采访内容
 
 ### 腾讯篝火营地部分
-- 录音&amp;翻译&amp;整理：篝火营地
 
-  
-  
-
-  
+- 录音&翻译&整理：篝火营地
 
 篝火营地
 : ZUN怎么看同人游戏与独立游戏的异同？ZUN先生心中“同人游戏”的定义是什么？
@@ -61,12 +47,6 @@ ZUN
 : 那么非二次创作的原创同人游戏与独立游戏有何不同呢？
 ZUN
 : 几乎没有不同。硬要说的话可能是受发行环境影响而区分吧，比如发售正好赶上[Comic Market](./Comic_Market.md)，在Comic Market上销售就称作是同人游戏了。现在是个人开发者也会受到发行商关注的时代，因此独立游戏也有比以往更大的空间。但总体上来说原创的同人游戏和独立游戏还是没有太大差别的。
-
-  
-  
-
-  
-
 篝火营地
 : 在[TAITO](./太东.md)任职的经历是否对ZUN先生创作东方系列产生了影响？
 ZUN
@@ -90,13 +70,7 @@ ZUN
 篝火营地
 : ZUN先生有觉得“如果在这个平台上玩东方系列游戏应该会很有意思吧”的平台吗？
 ZUN
-: 如果有的话大概是已经进了幻想乡的平台吧（笑）。什么会比较有趣呢……比如[FC](https://zh.wikipedia.org/wiki/红白机)之类的（笑）？或者现在去登陆[PS1](https://zh.wikipedia.org/wiki/PlayStation_(游戏机))或是[Game Gear](https://zh.wikipedia.org/wiki/Game_Gear)？如果真要做的话还是想要带着玩心去做。
-
-  
-  
-
-  
-
+: 如果有的话大概是已经进了幻想乡的平台吧（笑）。什么会比较有趣呢……比如[FC](https://zh.wikipedia.org/wiki/红白机)之类的（笑）？或者现在去登陆[PS1](https://zh.wikipedia.org/wiki/PlayStation_(游戏机%29)或是[Game Gear](https://zh.wikipedia.org/wiki/Game_Gear)？如果真要做的话还是想要带着玩心去做。
 篝火营地
 : 如今的时代与开始东方系列创作的90年代末相比，ZUN先生感受到的最大的不同是什么？
 ZUN
@@ -106,16 +80,9 @@ ZUN
 ZUN
 : 我自己是没有改变的，只是周围的环境变了。可能因为周围都在变化我却没变，结果给人感觉就好像是我变得不一样了。
 
-
 ### 东方游戏鉴赏组部分
-- 录音：残机  
-翻译：白神  
-整理：囧仙
 
-  
-  
-
-  
+- 录音：残机翻译：白神整理：囧仙
 
 白神
 : 今天请到了东游鉴来对您进行采访，他们是一群玩遍了所有东方游戏的鉴赏家。
@@ -123,12 +90,6 @@ ZUN
 : 玩遍了吗？
 东游鉴
 : 那么，我们从这样一个视角，给您提一些问题。
-
-  
-  
-
-  
-
 东游鉴
 : 您从以前开始，做游戏是以您自己能通关作为Lunatic的标准，现在也是这样吗？
 ZUN
@@ -157,12 +118,6 @@ ZUN
 : 是这样的。
 ZUN
 : 这么做也是有极限的。
-
-  
-  
-
-  
-
 东游鉴
 : 这是粉丝期待的一个问题。您在2014年的[数码游戏博览会](./数码游戏博览会.md)上携带[弹幕天邪鬼Gold Rush](./弹幕天邪鬼-Gold_Rush.md)参加，您有没有兴趣将它作为[弹幕天邪鬼](./弹幕天邪鬼.md)的DLC在Steam上发布？
 ZUN
@@ -181,22 +136,10 @@ ZUN
 : 其实它的BUG也很多，当时没有公开发布的计划，所以现在发出来大家能不能玩的开心呢？
 东游鉴
 : 包括Debug在内也拜托您了。
-
-  
-  
-
-  
-
 东游鉴
 : 在Steam上有很多很多的东方同人游戏发布，在中国的反响也很大。这些游戏，您有玩过吗？
 ZUN
 : 上Steam的这些游戏吧，应该是都没玩过的。以前的二次同人游戏，我玩过其中一些。但是最近实在是太忙，发布的二次同人游戏又太多，大概都是没玩过的。
-
-  
-  
-
-  
-
 东游鉴
 : 了解了。那么，有个关于规约的问题。东方大炮弹发布了，东方应该也进入了手游元年。那么您之后有没有发布关于手游规约的计划。
 ZUN
@@ -219,12 +162,6 @@ ZUN
 : 我也是为了这个才上的直播。
 东游鉴
 : 原来如此。
-
-  
-  
-
-  
-
 东游鉴
 : 那么回到关于您个人的提问上。您和[黄昏边境](./黄昏边境.md)有合作关系，黄昏边境也在多个平台上发布过作品，也做过很多类型的作品，比如[收集荷取](./収集荷取_Shoot_Shoot_にとり.md)。那您有没有兴趣也在其他平台上发布（弹幕射击作品）呢？
 ZUN
@@ -237,12 +174,6 @@ ZUN
 : 所以您希望有个能理解您意图的合作方。
 ZUN
 : 倒也不是。我最希望的还是能全程参与。所以为此也要有时间去做才行。
-
-  
-  
-
-  
-
 东游鉴
 : 时代进入了令和年代，我想您当之无愧是平成年代的STG代表制作人。那么平成的STG有着怎样的过去，或者令和的STG会有怎样的未来呢。请问您有何见解呢。
 ZUN
@@ -251,12 +182,6 @@ ZUN
 : 所以到头来您还是想要继续干下去。
 ZUN
 : 总之我肯定不是令和的领军人物了，我想作为平成的老一代坚持下去。
-
-  
-  
-
-  
-
 东游鉴
 : 关于最新作，最新作的一面BOSS[璎花](./戎璎花.md)，在文档中您给出的读音是“youka”，在游戏中您给出的读音是“eika”。那么请问哪个是对的呢？
 ZUN
@@ -265,24 +190,12 @@ ZUN
 : 所以那我们就等正式版了。
 ZUN
 : 那拜托了。抱歉，这样的错误我还真没注意到。
-
-  
-  
-
-  
-
 东游鉴
 : 早上囧仙给您送了《“上海爱丽丝幻乐团上海访问”邀请签名册》，请问您有什么感想，以及有没有计划呢。
 ZUN
 : 那我当然是想去了。现在这个时期我没法去呢主要还是因为孩子太小，所以不太容易。我当然是准备将来去上海的。在近期就会去也说不定。我还是很想去的。
 东游鉴
 : 如果能去的话就太好了。
-
-  
-  
-
-  
-
 东游鉴
 : 那么能不能请您给东游鉴和Playism分别来个签名呢？
 ZUN
@@ -305,31 +218,14 @@ ZUN
 : 啊，不小心写错了。
 东游鉴
 : 感谢ZUN先生的签名。那么采访就到此结束了，让我们一起来照张相吧。
-
-
-
-
-[](./文件-例大祭16采访1.jpg.md)
-
+<img alt="合影留念" src="https://upload.thwiki.cc/thumb/6/6c/%E4%BE%8B%E5%A4%A7%E7%A5%AD16%E9%87%87%E8%AE%BF1.jpg/450px-%E4%BE%8B%E5%A4%A7%E7%A5%AD16%E9%87%87%E8%AE%BF1.jpg" decoding="async" loading="lazy" width="450" height="338" srcset="https://upload.thwiki.cc/thumb/6/6c/%E4%BE%8B%E5%A4%A7%E7%A5%AD16%E9%87%87%E8%AE%BF1.jpg/675px-%E4%BE%8B%E5%A4%A7%E7%A5%AD16%E9%87%87%E8%AE%BF1.jpg 1.5x, https://upload.thwiki.cc/thumb/6/6c/%E4%BE%8B%E5%A4%A7%E7%A5%AD16%E9%87%87%E8%AE%BF1.jpg/900px-%E4%BE%8B%E5%A4%A7%E7%A5%AD16%E9%87%87%E8%AE%BF1.jpg 2x" data-file-width="1440" data-file-height="1080">
 合影留念
-
-
-[](./文件-例大祭16采访2.jpg.md)
+<img alt="ZUN签字" src="https://upload.thwiki.cc/thumb/2/2a/%E4%BE%8B%E5%A4%A7%E7%A5%AD16%E9%87%87%E8%AE%BF2.jpg/232px-%E4%BE%8B%E5%A4%A7%E7%A5%AD16%E9%87%87%E8%AE%BF2.jpg" decoding="async" loading="lazy" width="232" height="338" srcset="https://upload.thwiki.cc/thumb/2/2a/%E4%BE%8B%E5%A4%A7%E7%A5%AD16%E9%87%87%E8%AE%BF2.jpg/348px-%E4%BE%8B%E5%A4%A7%E7%A5%AD16%E9%87%87%E8%AE%BF2.jpg 1.5x, https://upload.thwiki.cc/thumb/2/2a/%E4%BE%8B%E5%A4%A7%E7%A5%AD16%E9%87%87%E8%AE%BF2.jpg/464px-%E4%BE%8B%E5%A4%A7%E7%A5%AD16%E9%87%87%E8%AE%BF2.jpg 2x" data-file-width="567" data-file-height="827">
 ZUN签字
-
-
-[](./文件-例大祭16采访3.jpg.md)
+<img alt="ZUN签字" src="https://upload.thwiki.cc/thumb/4/43/%E4%BE%8B%E5%A4%A7%E7%A5%AD16%E9%87%87%E8%AE%BF3.jpg/248px-%E4%BE%8B%E5%A4%A7%E7%A5%AD16%E9%87%87%E8%AE%BF3.jpg" decoding="async" loading="lazy" width="248" height="338" srcset="https://upload.thwiki.cc/thumb/4/43/%E4%BE%8B%E5%A4%A7%E7%A5%AD16%E9%87%87%E8%AE%BF3.jpg/372px-%E4%BE%8B%E5%A4%A7%E7%A5%AD16%E9%87%87%E8%AE%BF3.jpg 1.5x, https://upload.thwiki.cc/thumb/4/43/%E4%BE%8B%E5%A4%A7%E7%A5%AD16%E9%87%87%E8%AE%BF3.jpg/496px-%E4%BE%8B%E5%A4%A7%E7%A5%AD16%E9%87%87%E8%AE%BF3.jpg 2x" data-file-width="567" data-file-height="772">
 ZUN签字
-
-
-
-
-
 [^cite_note-1]: 指弹幕射击作品
-
-
-
-
+[^cite_note-2]: 日语中的游字写作“遊”。
 
 ---
 

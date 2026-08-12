@@ -1,6 +1,6 @@
 # 文件:世界の選択_-Freedom_Paradise-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bf\ns6%3A%E4%B8%96%E7%95%8C%E3%81%AE%E9%81%B8%E6%8A%9E_-Freedom_Paradise-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bf\ns6%3A%E4%B8%96%E7%95%8C%E3%81%AE%E9%81%B8%E6%8A%9E_-Freedom_Paradise-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 暁Records
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [世界の選択 -Freedom Paradise-](./世界の選択_-Freedom_Paradise-.md)  
-该封面包含的角色：- [少名针妙丸](./少名针妙丸.md)
-
-
-
+- [世界の選択 -Freedom Paradise-](./世界の選択_-Freedom_Paradise-.md)该封面包含的角色：
+- [少名针妙丸](./少名针妙丸.md)
 
 
 ---

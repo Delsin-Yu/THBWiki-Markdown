@@ -1,8 +1,9 @@
 # ZUN/北大演讲会
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\b1\ns0%3AZUN%2F%E5%8C%97%E5%A4%A7%E6%BC%94%E8%AE%B2%E4%BC%9A.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\b1\ns0%3AZUN%2F%E5%8C%97%E5%A4%A7%E6%BC%94%E8%AE%B2%E4%BC%9A.html -->
 
 ZUN | 演讲会
+
 
 - 本文为2018年5月20日ZUN作为讲师出席[「第七届北京大学动漫文化高端讲座 博丽神主ZUN 」](./日本动漫文化高端讲座.md)活动的文字记录。
 - 当天上午采访[北京大学采访](./ZUN-北京大学采访.md)。
@@ -17,69 +18,48 @@ ZUN | 演讲会
 ## 目录
 
 - [1 开场](#开场)
-
   - [1.1 播放开场视频](#播放开场视频)
 
 
-
 - [2 致辞](#致辞)
-
   - [2.1 北京大学副校长王博教授致辞](#北京大学副校长王博教授致辞)
   - [2.2 日本驻华大使馆代理大使四方敬之致辞](#日本驻华大使馆代理大使四方敬之致辞)
   - [2.3 明治大学校长土屋惠一郎致辞](#明治大学校长土屋惠一郎致辞)
   - [2.4 北大外国语学院团委书记李淑静致辞](#北大外国语学院团委书记李淑静致辞)
 
 
-
 - [3 演讲前预热](#演讲前预热)
-
   - [3.1 高校社团音乐演出](#高校社团音乐演出)
   - [3.2 藤本由香里教授介绍东方Project](#藤本由香里教授介绍东方Project)
 
 
-
 - [4 演讲会](#演讲会)
-
   - [4.1 对谈部分](#对谈部分)
   - [4.2 问答部分](#问答部分)
   - [4.3 结束献花](#结束献花)
 
 
-
 - [5 注释](#注释)
-
-
-
 
 
 ## 开场
   
- *开场，领导入场。* 
+*开场，领导入场。*  
   
+*ZUN入场。（观众鼓掌）*  
   
- *ZUN入场。（观众鼓掌）* 
-  
-  
- *主持人开场白。* 
-  
-
+*主持人开场白。*  
 
 ### 播放开场视频
   
- *（在大屏幕上播放开场视频）* 
-
-  
+*（在大屏幕上播放开场视频）*  
 
 <table>
-<tr><th style="text-align: center;"><a class="bilibili-title external text" href="//www.bilibili.com/video/av23757253?p=1" target="_blank" rel="nofollow" style="margin: 0 0.4em 0 0.2em;"></a><input type="button" class="bilibili-toggle" value="显示视频" style="float: right;"></th></tr>
+<tr><th style="text-align: center;"><a class="bilibili-title external text" href="https://www.bilibili.com/video/av23757253?p=1" target="_blank" rel="nofollow" style="margin: 0 0.4em 0 0.2em;"></a><input type="button" class="bilibili-toggle" value="显示视频" style="float: right;"></th></tr>
 <tr class="bilibili-video" style="display: none;"><td>
 <iframe src="//player.bilibili.com/player.html?aid=23757253&page=1&autoplay=0" height="421" width="600" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" sandbox="allow-scripts allow-same-origin"></iframe>
 </td></tr>
 </table>
-
-
-
-
 
 
 ## 致辞
@@ -87,9 +67,8 @@ ZUN | 演讲会
 ### 北京大学副校长王博教授致辞
 王博
 : 尊敬的土屋校长、尊敬的日本专家“ZUNさん”、淑静书记还有金勋主任，各位老师和同学，皆さん、こんにちは！[^cite_note-1]
-
-[](./文件-北大演讲会1.jpg.md)  [](./文件-北大演讲会1.jpg.md)北京大学副校长王博教授致辞
-王博
+<img alt="" src="https://upload.thwiki.cc/thumb/3/3c/%E5%8C%97%E5%A4%A7%E6%BC%94%E8%AE%B2%E4%BC%9A1.jpg/300px-%E5%8C%97%E5%A4%A7%E6%BC%94%E8%AE%B2%E4%BC%9A1.jpg" decoding="async" loading="lazy" width="300" height="200" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/3/3c/%E5%8C%97%E5%A4%A7%E6%BC%94%E8%AE%B2%E4%BC%9A1.jpg/450px-%E5%8C%97%E5%A4%A7%E6%BC%94%E8%AE%B2%E4%BC%9A1.jpg 1.5x, https://upload.thwiki.cc/thumb/3/3c/%E5%8C%97%E5%A4%A7%E6%BC%94%E8%AE%B2%E4%BC%9A1.jpg/600px-%E5%8C%97%E5%A4%A7%E6%BC%94%E8%AE%B2%E4%BC%9A1.jpg 2x" data-file-width="1269" data-file-height="847">
+ [放大](./文件-北大演讲会1.jpg.md)北京大学副校长王博教授致辞王博
 : 我在高考的时候考的是日语，高中的时候学过一年半，大学又学了一年。可惜后来不说，已经忘记了。我现在觉得会说日语还是蛮重要的。
 王博
 : 各位知道，我们的学校和日本明治大学有着比较长的交往历史。曾经有一位非常著名的乒乓球运动员儿玉[^cite_note-2]先生，他和庄则栋——中国人都知道，因为他拿了第一个世界冠军——比过赛，儿玉先生访问过北京大学，从那开始我们两个学校之间，在学科交流——特别是体育和动漫方面——有非常深入的接触。儿玉先生长期在明治大学执教，他的学生中间有一位中国观众非常熟悉的人：福原爱，她讲一口东北话，与中国乒乓球界结下了深厚的友谊。
@@ -99,9 +78,8 @@ ZUN | 演讲会
 : 刚才我们也看到了我们学校的动漫社团元火动漫社做的那个小视频，据我所知（该社团）有数百名的学生参加，有本科生，也有研究生大一点的，但不知道有没有像我这样岁数的。不过我知道一个比我大的同事，他是漫画的爱好者——他是吴志攀前常务副校长。吴校长每天画画，我不知道他画的那个算不算漫画，但是真的很有漫画的味道。
 王博
 : 他现在正在日本访问，他特地打电话给我，要我代表学校欢迎明治大学校长和访问团一行。而且事实上，我刚才念的这些文字，包括下面还有一点点，是我读过文字里最高兴的，是吴老师亲自写的。
-
-[](./文件-北大演讲会2.jpg.md)  [](./文件-北大演讲会2.jpg.md)元火动漫社荣誉顾问吴志攀前常务副校长日课小画
-王博
+<img alt="" src="https://upload.thwiki.cc/thumb/b/b7/%E5%8C%97%E5%A4%A7%E6%BC%94%E8%AE%B2%E4%BC%9A2.jpg/300px-%E5%8C%97%E5%A4%A7%E6%BC%94%E8%AE%B2%E4%BC%9A2.jpg" decoding="async" loading="lazy" width="300" height="421" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/b/b7/%E5%8C%97%E5%A4%A7%E6%BC%94%E8%AE%B2%E4%BC%9A2.jpg/450px-%E5%8C%97%E5%A4%A7%E6%BC%94%E8%AE%B2%E4%BC%9A2.jpg 1.5x, https://upload.thwiki.cc/thumb/b/b7/%E5%8C%97%E5%A4%A7%E6%BC%94%E8%AE%B2%E4%BC%9A2.jpg/600px-%E5%8C%97%E5%A4%A7%E6%BC%94%E8%AE%B2%E4%BC%9A2.jpg 2x" data-file-width="1080" data-file-height="1514">
+ [放大](./文件-北大演讲会2.jpg.md)元火动漫社荣誉顾问吴志攀前常务副校长日课小画王博
 : 我们知道中国漫画如果从陈洪绶先生画的水浒开始的话也有几百年的历史了，他应该算是中国漫画的先驱者。“漫画”这个词应该是丰子恺先生从日语翻译过来的，就是从“マンガ”。
 王博
 : 我小的时候几乎看不到漫画，但是我们可以看小人书。不知道在座年轻的朋友们你们有没有看过小人书？它其实是连环画，题材丰富多样，既有中国传统小说《水浒》、《三国》、《封神演义》，也有批判地主、批判资本家的。我记得《三国演义》的话当时有六十多本，读完需要很长的时间，但非常好携带，开本也非常像日本的文库本图书。
@@ -112,13 +90,11 @@ ZUN | 演讲会
 王博
 : 感谢为这次活动提供帮助的所有单位和同事，感谢外国语学院和日语系的老师们，也感谢明治大学校长土屋先生专程来学校参加这次讲座。我还特别感谢长得像动漫人物的我的翻译。谢谢大家！
 
-
 ### 日本驻华大使馆代理大使四方敬之致辞
 四方敬之
 : 尊敬的北京大学王博副校长、尊敬的明治大学土屋惠一郎校长、尊敬的ZUN先生、莅临会场的各位嘉宾、前来参加活动的朋友们：
-
-[](./文件-北大演讲会3.jpg.md)  [](./文件-北大演讲会3.jpg.md)日本驻华大使馆代理大使四方敬之致辞
-四方敬之
+<img alt="" src="https://upload.thwiki.cc/thumb/b/b9/%E5%8C%97%E5%A4%A7%E6%BC%94%E8%AE%B2%E4%BC%9A3.jpg/300px-%E5%8C%97%E5%A4%A7%E6%BC%94%E8%AE%B2%E4%BC%9A3.jpg" decoding="async" loading="lazy" width="300" height="200" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/b/b9/%E5%8C%97%E5%A4%A7%E6%BC%94%E8%AE%B2%E4%BC%9A3.jpg/450px-%E5%8C%97%E5%A4%A7%E6%BC%94%E8%AE%B2%E4%BC%9A3.jpg 1.5x, https://upload.thwiki.cc/thumb/b/b9/%E5%8C%97%E5%A4%A7%E6%BC%94%E8%AE%B2%E4%BC%9A3.jpg/600px-%E5%8C%97%E5%A4%A7%E6%BC%94%E8%AE%B2%E4%BC%9A3.jpg 2x" data-file-width="1269" data-file-height="847">
+ [放大](./文件-北大演讲会3.jpg.md)日本驻华大使馆代理大使四方敬之致辞四方敬之
 : 从踏进这个会场的时候，我就感受到了极强的热情。刚刚王博副校长也提到了大家掌声之热烈，我想这就是ZUN先生已经发挥出的魅力吧。
 四方敬之
 : 今天，第七届“北京大学日本动漫文化高端讲座”隆重举行，我从内心感到由衷的高兴。在此，我谨代表日本国驻华大使馆献上致辞。
@@ -135,13 +111,11 @@ ZUN | 演讲会
 四方敬之
 : 以上就是我的致辞。
 
-
 ### 明治大学校长土屋惠一郎致辞
 土屋惠一郎
 : 你好（中文）。（观众鼓掌）
-
-[](./文件-北大演讲会4.jpg.md)  [](./文件-北大演讲会4.jpg.md)明治大学校长土屋惠一郎致辞
-土屋惠一郎
+<img alt="" src="https://upload.thwiki.cc/thumb/6/63/%E5%8C%97%E5%A4%A7%E6%BC%94%E8%AE%B2%E4%BC%9A4.jpg/300px-%E5%8C%97%E5%A4%A7%E6%BC%94%E8%AE%B2%E4%BC%9A4.jpg" decoding="async" loading="lazy" width="300" height="200" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/6/63/%E5%8C%97%E5%A4%A7%E6%BC%94%E8%AE%B2%E4%BC%9A4.jpg/450px-%E5%8C%97%E5%A4%A7%E6%BC%94%E8%AE%B2%E4%BC%9A4.jpg 1.5x, https://upload.thwiki.cc/thumb/6/63/%E5%8C%97%E5%A4%A7%E6%BC%94%E8%AE%B2%E4%BC%9A4.jpg/600px-%E5%8C%97%E5%A4%A7%E6%BC%94%E8%AE%B2%E4%BC%9A4.jpg 2x" data-file-width="1269" data-file-height="847">
+ [放大](./文件-北大演讲会4.jpg.md)明治大学校长土屋惠一郎致辞土屋惠一郎
 : 今天在会场上能够迎来我们博丽神社的神主ZUN先生以及迎来本次第七届日本动漫文化高端讲座，我感到非常高兴。我觉得今天的会场可能就像是北京大学专属的[博丽神社例大祭](./博丽神社例大祭.md)。（观众鼓掌）
 土屋惠一郎
 : 事实上在明治大学我们还没有机会举办例大祭，所以从这一角度来说，北京大学能够先于明治大学迎来我们的神主，举办这样的盛典，我们明治大学非常羡慕。
@@ -149,7 +123,6 @@ ZUN | 演讲会
 : 回想起来，第一届讲座邀请到了《美少女战士》的监督几原邦彦先生。我记得那时候，北京大学的女孩子们还穿着美少女战士cosplay服装登场了，当时我和北京大学的领导们也是非常地吃惊。讲座还曾邀请到高达的创作者富野由悠季先生。而听说今年11月富野先生又将访问北大，也希望各位同学能够期待。这次我们邀请到的ZUN先生和以往的嘉宾相比，不管是《美少女战士》也好或者高达也好，和这些多少已经成为传说、成为历史的作品的创作者不同的是，ZUN先生现在正处于创作期，他仍在继续创造神话。我也觉得在座的各位以后可能可以和ZUN先生一起创作这些神话。
 土屋惠一郎
 : 在此，我再一次感谢北京大学和明治大学的合作，我们非常荣幸能成为本次例大祭的主办方。也衷心地希望今后我能见证各位一起创造这个神话的过程。再次感谢北京大学王博副校长，感谢四方公使、ZUN先生，希望能和大家一起度过愉快的一天。
-
 
 ### 北大外国语学院团委书记李淑静致辞
 李淑静
@@ -163,46 +136,37 @@ ZUN | 演讲会
 李淑静
 : 谢谢大家。
 
-
 ## 演讲前预热
 
 ### 高校社团音乐演出
 主持人
 : 接下来我们先播放一段由清华大学（观众笑）学生社团和北京大学元火动漫社联合制作的根据ZUN先生的作品编曲的一段交响乐。
 
-  
-
-  
-
 <table>
-<tr><th style="text-align: center;"><a class="bilibili-title external text" href="//www.bilibili.com/video/av23713235?p=1" target="_blank" rel="nofollow" style="margin: 0 0.4em 0 0.2em;"></a><input type="button" class="bilibili-toggle" value="显示视频" style="float: right;"></th></tr>
+<tr><th style="text-align: center;"><a class="bilibili-title external text" href="https://www.bilibili.com/video/av23713235?p=1" target="_blank" rel="nofollow" style="margin: 0 0.4em 0 0.2em;"></a><input type="button" class="bilibili-toggle" value="显示视频" style="float: right;"></th></tr>
 <tr class="bilibili-video" style="display: none;"><td>
 <iframe src="//player.bilibili.com/player.html?aid=23713235&page=1&autoplay=0" height="421" width="600" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" sandbox="allow-scripts allow-same-origin"></iframe>
 </td></tr>
 </table>
-
-
- 
 
 主持人
 : 谢谢两校的学生社团，特别感谢我们隔壁的清华大学（观众笑）次世代学生动漫社。
 主持人
 : 那么到这里我们的开幕式就结束了。
 
-
 ### 藤本由香里教授介绍东方Project
--  *明治大学国际日本学部藤本由香里教授介绍：“同人”游戏「[东方Project](./东方Project.md)」和[Comic Market](./Comic_Market.md)* 
 
-[](./文件-北大演讲会5.jpg.md)  [](./文件-北大演讲会5.jpg.md)藤本老师介绍
-藤本由香里
+- *明治大学国际日本学部藤本由香里教授介绍：“同人”游戏「[东方Project](./东方Project.md)」和[Comic Market](./Comic_Market.md)*
+
+<img alt="" src="https://upload.thwiki.cc/thumb/d/d8/%E5%8C%97%E5%A4%A7%E6%BC%94%E8%AE%B2%E4%BC%9A5.jpg/300px-%E5%8C%97%E5%A4%A7%E6%BC%94%E8%AE%B2%E4%BC%9A5.jpg" decoding="async" loading="lazy" width="300" height="200" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/d/d8/%E5%8C%97%E5%A4%A7%E6%BC%94%E8%AE%B2%E4%BC%9A5.jpg/450px-%E5%8C%97%E5%A4%A7%E6%BC%94%E8%AE%B2%E4%BC%9A5.jpg 1.5x, https://upload.thwiki.cc/thumb/d/d8/%E5%8C%97%E5%A4%A7%E6%BC%94%E8%AE%B2%E4%BC%9A5.jpg/600px-%E5%8C%97%E5%A4%A7%E6%BC%94%E8%AE%B2%E4%BC%9A5.jpg 2x" data-file-width="1270" data-file-height="848">
+ [放大](./文件-北大演讲会5.jpg.md)藤本老师介绍藤本由香里
 : 你好（中文）。我是明治大学的[八云紫](./八云紫.md)（yakumo yukari），不对，藤本由香里(fujimoto yukari)。（观众鼓掌）
 藤本由香里
 : 今天，在北京大学和明治大学主办的高端文化讲座上，我们有幸邀请到了「东方Project」的神主、综合创意家ZUN先生来担任讲师。同时，演讲的对谈评论方和「东方Project」的解说，则拜托了明治大学野生科学研究所的中川大地老师。首先，请允许我简单介绍二位讲师，以及“同人”究竟是什么。
 藤本由香里
 : 中川大地老师是游戏研究者，在明治大学野生科学研究所担任研究员。2016年出版了《现代游戏全史：从文明的游戏史观来看》这部杰作。今年1月，在明治大学野生科学研究所主办召开的《面向游戏研究的新时代》公开研讨会上担任了主持和统筹负责人。今天，首先请中川老师为我们介绍一些基础知识，包括「东方Project」到底是一款什么样的游戏，以及它是如何发展的，之后会请中川老师担任ZUN先生演讲的对谈评论方。
-
-[](./文件-北大演讲会6.jpg.md)  [](./文件-北大演讲会6.jpg.md)图片出处：電ファミニコゲーマー访谈 摄影：佐々木秀二
-藤本由香里
+<img alt="" src="https://upload.thwiki.cc/thumb/6/6c/%E5%8C%97%E5%A4%A7%E6%BC%94%E8%AE%B2%E4%BC%9A6.jpg/300px-%E5%8C%97%E5%A4%A7%E6%BC%94%E8%AE%B2%E4%BC%9A6.jpg" decoding="async" loading="lazy" width="300" height="200" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/6/6c/%E5%8C%97%E5%A4%A7%E6%BC%94%E8%AE%B2%E4%BC%9A6.jpg/450px-%E5%8C%97%E5%A4%A7%E6%BC%94%E8%AE%B2%E4%BC%9A6.jpg 1.5x, https://upload.thwiki.cc/thumb/6/6c/%E5%8C%97%E5%A4%A7%E6%BC%94%E8%AE%B2%E4%BC%9A6.jpg/600px-%E5%8C%97%E5%A4%A7%E6%BC%94%E8%AE%B2%E4%BC%9A6.jpg 2x" data-file-width="1298" data-file-height="866">
+ [放大](./文件-北大演讲会6.jpg.md)图片出处：電ファミニコゲーマー访谈 摄影：佐々木秀二藤本由香里
 : ZUN先生，相信不用我介绍大家都知道，他是可以称为日本非商业自主创作同人游戏中最热门作品「东方Project」的创作者。「东方Project」，基本上指以“上海爱丽丝幻乐团”这个社团为名义发表的同人游戏，同时也包括从中派生出的音乐CD、书籍等各种著作。此外，ZUN先生不仅担任了游戏的全部编程，而且游戏音乐的作曲、角色、世界观、故事、插图全都都是由他一人创作的。并且，这种创作持续了22年之久。仅是如此就已经令人惊叹了。另外，东方Project的相关商业出版书籍的原稿，也全部都是由ZUN先生自己写就。
 藤本由香里
 : 不仅如此，ZUN先生还公开表示，只要满足“二次创作使用指南”这一规则，“允许任何人以非商业的目的使用「东方Project」中出现的角色、世界观，来创作属于自己的‘二次创作’作品。”
@@ -210,27 +174,22 @@ ZUN | 演讲会
 : 这里，“同人”就是指以非商业、自主创作的方式制作，并且在专门的集市“同人志即卖会”上发布的作品。如果是书本的形式就叫做“同人志”，游戏的形式就叫做“同人游戏”。
 藤本由香里
 : 日本有许多的同人志即卖会，其中规模最大的要属需使用日本最大的活动会场东京国际展示场全体、每年夏冬2次、每次3天的「Comic Market」。从1975年开始举办的Comiket规模不断扩大，发展至今每次都有超过55万人入场。在展会上展出同人志或同人游戏的主体叫做“社团”，每次参加的社团大约有3万2千个。实际上，有远超过这个数字的社团报名参加，因此每次都能听到“选上了！”“落选了……”这样的悲喜交加的声音。「东方Project」的社团名就是「[上海爱丽丝幻乐团](./上海爱丽丝幻乐团.md)」。选这个名字的理由，据说是希望能同时展现东洋的和西洋的、二者相互交融的印象。
-
-[](./文件-北大演讲会7.png.md)  [](./文件-北大演讲会7.png.md)
-藤本由香里
+<img alt="北大演讲会7.png" src="https://upload.thwiki.cc/thumb/d/d4/%E5%8C%97%E5%A4%A7%E6%BC%94%E8%AE%B2%E4%BC%9A7.png/300px-%E5%8C%97%E5%A4%A7%E6%BC%94%E8%AE%B2%E4%BC%9A7.png" decoding="async" loading="lazy" width="300" height="169" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/d/d4/%E5%8C%97%E5%A4%A7%E6%BC%94%E8%AE%B2%E4%BC%9A7.png/450px-%E5%8C%97%E5%A4%A7%E6%BC%94%E8%AE%B2%E4%BC%9A7.png 1.5x, https://upload.thwiki.cc/thumb/d/d4/%E5%8C%97%E5%A4%A7%E6%BC%94%E8%AE%B2%E4%BC%9A7.png/600px-%E5%8C%97%E5%A4%A7%E6%BC%94%E8%AE%B2%E4%BC%9A7.png 2x" data-file-width="1280" data-file-height="720">
+ [放大](./文件-北大演讲会7.png.md)藤本由香里
 : 虽然说是3天一共有55万人参加，不过从每天清晨开始会场前就排起了长队，人数令人震惊。
-
-[](./文件-北大演讲会8.png.md)  [](./文件-北大演讲会8.png.md)
-藤本由香里
+<img alt="北大演讲会8.png" src="https://upload.thwiki.cc/thumb/f/fc/%E5%8C%97%E5%A4%A7%E6%BC%94%E8%AE%B2%E4%BC%9A8.png/300px-%E5%8C%97%E5%A4%A7%E6%BC%94%E8%AE%B2%E4%BC%9A8.png" decoding="async" loading="lazy" width="300" height="136" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/f/fc/%E5%8C%97%E5%A4%A7%E6%BC%94%E8%AE%B2%E4%BC%9A8.png/450px-%E5%8C%97%E5%A4%A7%E6%BC%94%E8%AE%B2%E4%BC%9A8.png 1.5x, https://upload.thwiki.cc/thumb/f/fc/%E5%8C%97%E5%A4%A7%E6%BC%94%E8%AE%B2%E4%BC%9A8.png/600px-%E5%8C%97%E5%A4%A7%E6%BC%94%E8%AE%B2%E4%BC%9A8.png 2x" data-file-width="1200" data-file-height="543">
+ [放大](./文件-北大演讲会8.png.md)藤本由香里
 : 这就是会场里面的样子。这还是比较空的状态。人多的时候可以多到动都动不了。每个社团都会有一个自己的小桌子，他们就在上面展示发表自己的作品。
 藤本由香里
 : 「东方Project」最开始是ZUN先生大学时代为了在大学祭上发表而制作的游戏，不过从1997年的夏天开始就开始在Comiket上发布了。这之后，ZUN先生因为进入商业游戏公司工作创作稍微停滞了一段时间，从2002年起，开始在Windows平台上发表作品。之后，在游戏本身的人气不断增高的同时，随着2006年niconico动画——在中国的话就是bilibili动画这样的可以在互联网上发表同人作品的动画媒体建成，「东方Project」的人气进一步得到了增强。“二次创作使用指南”发表之后，使用东方游戏中出现的角色、世界观进行二次创作的同人志、同人音乐、动画等开始获得了极高的人气。比如在Comiket二次创作的分类数量中，从2008年冬（C75）到2014年春（C86），「东方Project」始终是独占鳌头的第一。社团参加数在2012年春达到了最高的2694个，这一记录到现在仍未被打破。
-
-[](./文件-北大演讲会9.png.md)  [](./文件-北大演讲会9.png.md)
-藤本由香里
+<img alt="北大演讲会9.png" src="https://upload.thwiki.cc/thumb/b/b4/%E5%8C%97%E5%A4%A7%E6%BC%94%E8%AE%B2%E4%BC%9A9.png/300px-%E5%8C%97%E5%A4%A7%E6%BC%94%E8%AE%B2%E4%BC%9A9.png" decoding="async" loading="lazy" width="300" height="250" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/b/b4/%E5%8C%97%E5%A4%A7%E6%BC%94%E8%AE%B2%E4%BC%9A9.png/450px-%E5%8C%97%E5%A4%A7%E6%BC%94%E8%AE%B2%E4%BC%9A9.png 1.5x, https://upload.thwiki.cc/thumb/b/b4/%E5%8C%97%E5%A4%A7%E6%BC%94%E8%AE%B2%E4%BC%9A9.png/600px-%E5%8C%97%E5%A4%A7%E6%BC%94%E8%AE%B2%E4%BC%9A9.png 2x" data-file-width="1344" data-file-height="1120">
+ [放大](./文件-北大演讲会9.png.md)藤本由香里
 : 这张图展示了从2008年冬CM到2011年冬CM的统计结果，可以看到「东方Project」一直是第一。因为Comic Market举办的空间和天数都有限制，因此不管人气有多高的分类，都很少有过千的社团。但东方却保持了5年都超过2000个社团参加的盛状，这真是令人惊异。东方的人气遍及全球，我曾经在阿根廷买到过东方的同人志，是一位年轻的男孩子画的。
 藤本由香里
 : 因为人气过高，所以2004年开始，「东方Project」专属的同人志即卖会开始举办了，这就是「博丽神社例大祭」——因为游戏中一个最重要的角色就是[博丽神社](./博丽神社.md)的[巫女](./博丽灵梦.md)。神社的祭典当然就是“例大祭”了。ZUN先生也就被称为“神主”。
-
-[](./文件-北大演讲会10.png.md)  [](./文件-北大演讲会10.png.md)
-藤本由香里
+<img alt="北大演讲会10.png" src="https://upload.thwiki.cc/thumb/c/c2/%E5%8C%97%E5%A4%A7%E6%BC%94%E8%AE%B2%E4%BC%9A10.png/300px-%E5%8C%97%E5%A4%A7%E6%BC%94%E8%AE%B2%E4%BC%9A10.png" decoding="async" loading="lazy" width="300" height="188" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/c/c2/%E5%8C%97%E5%A4%A7%E6%BC%94%E8%AE%B2%E4%BC%9A10.png/450px-%E5%8C%97%E5%A4%A7%E6%BC%94%E8%AE%B2%E4%BC%9A10.png 1.5x, https://upload.thwiki.cc/thumb/c/c2/%E5%8C%97%E5%A4%A7%E6%BC%94%E8%AE%B2%E4%BC%9A10.png/600px-%E5%8C%97%E5%A4%A7%E6%BC%94%E8%AE%B2%E4%BC%9A10.png 2x" data-file-width="1920" data-file-height="1200">
+ [放大](./文件-北大演讲会10.png.md)藤本由香里
 : 好了，那么让大家久等了。让我们赶快请中川老师和ZUN先生登台吧！
-
 
 ## 演讲会
 
@@ -251,11 +210,8 @@ ZUN
 : 首先想和大家汇报一下，这个是今天主办方元火社团送给ZUN先生的礼物同人志，在此我想和ZUN先生一起对大家表示感谢。
 ZUN
 : 谢谢。（观众鼓掌）
-
   
- *（ZUN展示「幻想梦绘簿」）* 
-  
-
+*（ZUN展示「幻想梦绘簿」）*  
 中川大地
 : 像这样，大家一起来创作和东方Project相关的同人志，以及刚才播放的那些演奏作品，正如ZUN先生神主的称号一样，大家都在他的神社里面一起热闹，东方也成为了所有人的文化。我觉得这就是东方Project的魅力，今天也想围绕这个展开话题。
 中川大地
@@ -267,7 +223,7 @@ ZUN
 中川大地
 : 前言说的很多了，接下来我们将一起回顾整个东方系列的历史，针对每个时期的作品向ZUN先生进行提问。
 中川大地
-: 首先我们想谈一谈，从1996年开始——也就是大家一般称作旧作 (未找到链接)的——最初在东京电机大学的[学园祭](./鸠山祭.md)上展出的一共五部作品。那么想请ZUN先生告诉我们，当时是为什么想要创作这样的同人作品，以及为什么要在学园祭上发表，请简单回顾一下那段历史。（观众鼓掌笑）
+: 首先我们想谈一谈，从1996年开始——也就是大家一般称作[旧作](./官方游戏.md#旧作)的——最初在东京电机大学的[学园祭](./鸠山祭.md)上展出的一共五部作品。那么想请ZUN先生告诉我们，当时是为什么想要创作这样的同人作品，以及为什么要在学园祭上发表，请简单回顾一下那段历史。（观众鼓掌笑）
 ZUN
 : （笑）最开始我上大学之前就非常喜欢游戏，我除了玩游戏也没干过别的什么，后来就想着自己也做游戏，如果找工作的话，就想找一份游戏公司的工作。
 ZUN
@@ -284,11 +240,8 @@ ZUN
 : 我最开始并不认为弹幕射击是最适合我音乐的游戏类型，我只是单纯地很喜欢射击类，做出来以后，我发现射击和我的音乐很配合，所以就有了现在的作品。
 中川大地
 : 我们刚刚提到了弹幕射击游戏这个词，在座的各位可能都很了解，但是为了给一些不了解的相关人士进行普及，我们放一段小视频。
-
   
- *（播放英版红魔乡视频片段）* 
-  
-
+*（播放英版红魔乡视频片段）*  
 中川大地
 : 大家可以看到，总之弹幕游戏就是画面中会有很多子弹的类型。啊，有的时候也会把子弹消掉。那么随着关卡进行，会出现敌人角色并展开战斗。
 中川大地
@@ -425,11 +378,8 @@ ZUN
 : 但是我每次看nico的时候，也会感受到大家创作和交流的乐趣。比如有些核心的粉丝批评某个视频做的不好（对设定有意见）。他们在争执的这种现象之中，也产生了很多一直到今天的粉丝。包括形成现在东方圈的那些创作者，也面临着各种未知性，总是在这里那里就会被带节奏。那我连同这些热闹的社区一起看，就会觉得很好玩。（观众笑）
 中川大地
 : 接下来展示的内容，大家可能也非常了解，是关于二次创作到底是什么，因为有一些人不知道，所以我们也准备了一个视频。
-
   
- *（算数教室，观众跟着唱）* 
-  
-
+*（算数教室，观众跟着唱）*  
 中川大地
 : 这个角色叫做[琪露诺](./琪露诺.md)，是ZUN先生作品里的一个角色，也是公认智商比较捉急的。应该说在ZUN先生的作品里只有非常少的设定，粉丝们通过自己的想象，增加了非常多的内容，创作了这个二次创作作品。
 中川大地
@@ -440,29 +390,20 @@ ZUN
 : 但是评论被称为弹幕，还是非常欣慰的，因为这样弹幕这个词虽然意义发生变化但是流传了下来。
 中川大地
 : 当时通过niconico动画，有很多人没有玩游戏就知道了东方Project，粉丝也越来越多。但是现在可能更多人是通过niconico的二次创作和视频来了解到东方Project，而不是通过原作游戏，所以我想做一个现场小调查，在座的各位有多少是了解东方Project但是没有玩过游戏的。
-
   
- *（少量人举手）* 
-  
-
+*（少量人举手）*  
 中川大地
 : 不多啊（笑）那有多少人认真玩过ZUN先生的游戏。
 ZUN
 : 我不会生气的，大家诚实举手就好。（观众笑）
-
   
- *（几乎全体举手）* 
-  
-
+*（几乎全体举手）*  
 中川大地
 : 好厉害啊。我现在有点不清楚是因为在座的各位是东方Project的精英爱好者还是整个中国的平均值都是如此啊。（观众鼓掌笑）
 ZUN
 : 那事实情况是没玩过原作的人很多。我猜今天到场的人，最开始接触东方Project也几乎没有人是通过游戏，所以我想再做一次调查，最开始通过原作游戏接触东方Project的请举手。
-
   
- *（大约1/3举手）* 
-  
-
+*（大约1/3举手）*  
 中川大地
 : 很多啊，比日本多啊。
 ZUN
@@ -486,7 +427,7 @@ ZUN
 中川大地
 : 那在我的理解中，之后的[辉针城](./东方辉针城.md)等作品也都是按着您当时的这一结论来展开的。也就是在这个时期，我们知道，东方系列逐渐地开始走出日本，开始为更多的海外粉丝所接受和了解，我相信可能在座的各位很多都是在那个时期了解到东方系列的作品的。
 中川大地
-: 游戏史上来说的话在那个时期，整个世界范围内也出现了独立游戏，比如说Minecraft开始盛行的时期，所以说，大致是形成了日本同人游戏vs世界独立游戏的潮流，我们看到当时东方系列很多作品也开始登陆了一些网络游戏售卖平台，比如说辉针城登陆Playism (未找到链接)这样的独立游戏平台，或者[天空璋](./东方天空璋.md)登陆Steam这个最大的游戏平台，关于这些，您当时的看法是怎样的？
+: 游戏史上来说的话在那个时期，整个世界范围内也出现了独立游戏，比如说Minecraft开始盛行的时期，所以说，大致是形成了日本同人游戏vs世界独立游戏的潮流，我们看到当时东方系列很多作品也开始登陆了一些网络游戏售卖平台，比如说辉针城登陆[Playism](./Active_Gaming_Media.md#PLAYISM)这样的独立游戏平台，或者[天空璋](./东方天空璋.md)登陆Steam这个最大的游戏平台，关于这些，您当时的看法是怎样的？
 ZUN
 : 确实如你所说，那个时期海外的粉丝越来愈多，所以我也开始学着在CM上和大家说谢谢（中文）。
 ZUN
@@ -511,11 +452,8 @@ ZUN
 : 我很有兴趣，有没有人能替我做呢？（观众鼓掌笑）
 中川大地
 : 今天原作者已经在这里表达了愿望，那可能今后也会有闻风而来的开发者们，来提出东方的电子竞技游戏的企划。如果这个能实现，那幻想乡的“弹幕对决”也会以这样的形式更加走近现实世界，我个人也非常期待。希望东方的人气也能越来越高。
-
   
- *（PPT翻页中）* 
-  
-
+*（PPT翻页中）*  
 中川大地
 : 大家可以看到这张幻灯片，是在台湾举办的[博丽神社歌谣祭](./博丽神社歌谣祭.md)，在座的各位有没有兴趣在北京也办一个这样的活动？（观众鼓掌）
 中川大地
@@ -532,7 +470,6 @@ ZUN
 : 其实我从小就一直在玩游戏没怎么看过动画，所以我要做动画的话可能得从零开始学习。可能最后做出来的动画作品是非常谜的。
 藤本由香里
 : 您刚刚说的动画化我们会期待的。那么时间差不多了，访谈的环节到此为止，下面是问答的环节，我们事先收集了大家想问的问题，这里有几个想问ZUN先生。
-
 
 ### 问答部分
 Q1
@@ -596,38 +533,30 @@ ZUN
 藤本由香里
 : 在东方描述角色的能力时候，经常用到“……程度的能力”，留有很多自由的空间，我认为这种处理方式很高明。我觉得这是东方的特点。东方的世界和今天的现实世界一直联系在一起，这样东方的大世界就完成了，我希望今后也会继续发展下去。
 
-
 ### 结束献花
 藤本由香里
 : 那么最后，让我们向ZUN献上属于北京大学的例大祭的热烈的掌声。
-
   
- *（观众鼓掌，学生代表献花）* 
-  
-
+*（观众鼓掌，学生代表献花）*  
 ZUN
 : 好大啊这束花。谢谢（中文）。
 主持人
 : 刚才给ZUN先生的鲜花是学生代表选出的，代表东方系列中出现的主人公的颜色的花。
 ZUN
 : 虽然看不太出来（笑）。
-
-
-[](./文件-北大演讲会11.jpg.md)[](./文件-北大演讲会11.jpg.md)结束合照
-
+<img alt="" src="https://upload.thwiki.cc/thumb/d/d0/%E5%8C%97%E5%A4%A7%E6%BC%94%E8%AE%B2%E4%BC%9A11.jpg/800px-%E5%8C%97%E5%A4%A7%E6%BC%94%E8%AE%B2%E4%BC%9A11.jpg" decoding="async" loading="lazy" width="800" height="468" srcset="https://upload.thwiki.cc/thumb/d/d0/%E5%8C%97%E5%A4%A7%E6%BC%94%E8%AE%B2%E4%BC%9A11.jpg/1200px-%E5%8C%97%E5%A4%A7%E6%BC%94%E8%AE%B2%E4%BC%9A11.jpg 1.5x, https://upload.thwiki.cc/thumb/d/d0/%E5%8C%97%E5%A4%A7%E6%BC%94%E8%AE%B2%E4%BC%9A11.jpg/1600px-%E5%8C%97%E5%A4%A7%E6%BC%94%E8%AE%B2%E4%BC%9A11.jpg 2x" data-file-width="2560" data-file-height="1499">
+<img alt="" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Magnify-clip.png" decoding="async" loading="lazy" width="15" height="11" data-file-width="15" data-file-height="11">
+结束合照  
+*ZUN手持鲜花退场*  
   
- *ZUN手持鲜花退场* 
-  
-  
- *（整个演讲会到此结束，观众退场）* 
-  
-
-
+*（整个演讲会到此结束，观众退场）*  
 [^cite_note-1]: 诸位下午好！
-
-
-
-
+[^cite_note-2]: 不确定，最接近的一位。
+[^cite_note-3]: 射击游戏以1978年太空侵略者为起始，是游戏历史上相当早期诞生的游戏类型
+[^cite_note-4]: 指脱离作者设想而发展。
+[^cite_note-5]: 梦幻创世纪·东方鲜心街
+[^cite_note-6]: 后设小说（英：Metafiction；日：メタ），又称元小说、超小说，是一种小说类型，透过自我意识的觉醒，刻意凸显书中虚构的错觉。
+[^cite_note-7]: 情欲，在这里用了原义。
 
 ---
 

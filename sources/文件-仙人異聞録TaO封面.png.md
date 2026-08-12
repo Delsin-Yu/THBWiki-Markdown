@@ -1,6 +1,6 @@
 # 文件:仙人異聞録TaO封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8f\ns6%3A%E4%BB%99%E4%BA%BA%E7%95%B0%E8%81%9E%E9%8C%B2TaO%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8f\ns6%3A%E4%BB%99%E4%BA%BA%E7%95%B0%E8%81%9E%E9%8C%B2TaO%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 同人志封面 | 封面图片 | 柚子桃ジャム
 
@@ -8,16 +8,14 @@
 使用了本文件作封面图片的作品：
   
 
-- [仙人異聞録TaO](./仙人異聞録TaO.md)  
-该封面包含的角色：- [苏我屠自古](./苏我屠自古.md)- [物部布都](./物部布都.md)- [丰聪耳神子](./丰聪耳神子.md)- [茨木华扇](./茨木华扇.md)
+- [仙人異聞録TaO](./仙人異聞録TaO.md)该封面包含的角色：
+- [苏我屠自古](./苏我屠自古.md)
+- [物部布都](./物部布都.md)
+- [丰聪耳神子](./丰聪耳神子.md)
+- [茨木华扇](./茨木华扇.md)
 
   
-源地址：[[1]](http://4.bp.blogspot.com/-uYoXuvvmTno/URkMRmMvJbI/AAAAAAAAAdU/_C9ajLRYxkc/s1600/00.png)
-  
-
-
-
-
+源地址：[\[1\]](http://4.bp.blogspot.com/-uYoXuvvmTno/URkMRmMvJbI/AAAAAAAAAdU/_C9ajLRYxkc/s1600/00.png)  
 
 ---
 

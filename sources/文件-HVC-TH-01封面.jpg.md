@@ -1,6 +1,6 @@
 # 文件:HVC-TH-01封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9b\ns6%3AHVC-TH-01%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9b\ns6%3AHVC-TH-01%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Re.baro' | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ Re.baro' | 专辑封面 | 封面图片
   
 
 - [HVC-TH-01](./HVC-TH-01.md)
-
-
-
 
 
 ---

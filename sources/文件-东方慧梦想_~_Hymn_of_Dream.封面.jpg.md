@@ -1,6 +1,6 @@
 # 文件:东方慧梦想_~_Hymn_of_Dream.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d1\ns6%3A%E4%B8%9C%E6%96%B9%E6%85%A7%E6%A2%A6%E6%83%B3_%7E_Hymn_of_Dream%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d1\ns6%3A%E4%B8%9C%E6%96%B9%E6%85%A7%E6%A2%A6%E6%83%B3_%7E_Hymn_of_Dream%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Dr.Rin_sINg | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ Dr.Rin_sINg | 专辑封面 | 封面图片
   
 
 - [东方慧梦想 ~ Hymn of Dream.](./东方慧梦想_~_Hymn_of_Dream..md)来源：专辑下载附带
-
-
-
 
 
 ---

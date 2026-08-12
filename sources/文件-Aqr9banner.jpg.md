@@ -1,18 +1,13 @@
 # 文件:Aqr9banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b7\ns6%3AAqr9banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b7\ns6%3AAqr9banner%2Ejpg.html -->
 
 Aqr9 | 社团LOGO
 
 
 ## 摘要
   
-源地址：[direct image link](https://web.archive.org/web/20150628155054im_/http://pontium.dip.jp/~unyun/images/mybanner.jpg), [source page](https://web.archive.org/web/20150711085022/http://pontium.dip.jp:80/~unyun/)
-  
-
-
-
-
+源地址：[direct image link](https://web.archive.org/web/20150628155054im_/http://pontium.dip.jp/~unyun/images/mybanner.jpg), [source page](https://web.archive.org/web/20150711085022/http://pontium.dip.jp:80/~unyun/)  
 
 ---
 

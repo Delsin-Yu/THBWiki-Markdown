@@ -1,16 +1,12 @@
 # 文件:鸽屋谷logo新.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\93\ns6%3A%E9%B8%BD%E5%B1%8B%E8%B0%B7logo%E6%96%B0%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\93\ns6%3A%E9%B8%BD%E5%B1%8B%E8%B0%B7logo%E6%96%B0%2Epng.html -->
 
 社团LOGO | 鸽屋谷
 
   
 鸽屋谷logo（新）
   
-
-
-
-
 
 ---
 

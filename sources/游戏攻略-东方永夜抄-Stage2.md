@@ -1,20 +1,19 @@
 # 游戏攻略/东方永夜抄/Stage2
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\1\13\ns0%3A%E6%B8%B8%E6%88%8F%E6%94%BB%E7%95%A5%2F%E4%B8%9C%E6%96%B9%E6%B0%B8%E5%A4%9C%E6%8A%84%2FStage2.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\1\13\ns0%3A%E6%B8%B8%E6%88%8F%E6%94%BB%E7%95%A5%2F%E4%B8%9C%E6%96%B9%E6%B0%B8%E5%A4%9C%E6%8A%84%2FStage2.html -->
 
 
 
-- 在二面，正常情况下p应该已经有100左右，抓紧时间吃p点，在小碎骨出来之前满p。道中尽量不biu或B。  
 
+- 在二面，正常情况下p应该已经有100左右，抓紧时间吃p点，在小碎骨出来之前满p。道中尽量不biu或B。
 - 一样的，尽量保持在人逢魔的状态。频繁切换人妖会导致人妖率趋近0%。
+
 
 - Boss战低难度小碎骨的夜盲硬扭，高难度需要一点点背板。
 
+
 - 补充一下，（并不在通关过程内）想打通小碎骨的LastWord，背板是一个很好的选择。
 - 个人认为在低难度下一二面多练习应该可以不消耗残机和B的情况下过，为后面的关卡节约资源，也尽量都打出甲的评级。 ~~谁知道后面会不会失误，防患于未然嘛（~~ 
-
-
-
 
 
 ---

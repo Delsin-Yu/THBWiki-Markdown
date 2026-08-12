@@ -1,18 +1,13 @@
 # 文件:斬banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4f\ns6%3A%E6%96%ACbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4f\ns6%3A%E6%96%ACbanner%2Ejpg.html -->
 
 斬 | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[[1]](http://www.zerverius.com/zann/img_other/zann_bn_200_40.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://www.zerverius.com/zann/img_other/zann_bn_200_40.jpg)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:HOME（電派絵師団）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c5\ns6%3AHOME%EF%BC%88%E9%9B%BB%E6%B4%BE%E7%B5%B5%E5%B8%AB%E5%9B%A3%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c5\ns6%3AHOME%EF%BC%88%E9%9B%BB%E6%B4%BE%E7%B5%B5%E5%B8%AB%E5%9B%A3%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 電派絵師団
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [HOME（電派絵師団）](./HOME（電派絵師団）.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)
-
-
-
+- [HOME（電派絵師団）](./HOME（電派絵師団）.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
 
 
 ---

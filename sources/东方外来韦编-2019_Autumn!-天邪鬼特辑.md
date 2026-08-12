@@ -1,10 +1,11 @@
 # 东方外来韦编/2019_Autumn!/天邪鬼特辑
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\d\dd\ns0%3A%E4%B8%9C%E6%96%B9%E5%A4%96%E6%9D%A5%E9%9F%A6%E7%BC%96%2F2019_Autumn%21%2F%E5%A4%A9%E9%82%AA%E9%AC%BC%E7%89%B9%E8%BE%91.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\d\dd\ns0%3A%E4%B8%9C%E6%96%B9%E5%A4%96%E6%9D%A5%E9%9F%A6%E7%BC%96%2F2019_Autumn%21%2F%E5%A4%A9%E9%82%AA%E9%AC%BC%E7%89%B9%E8%BE%91.html -->
 
 东方外来韦编 | 引用了翻译表的页面
 
-- 本词条为中文翻译版，如需要日文对照请参见 **[中日对照](./东方外来韦编-2019_Autumn!-天邪鬼特辑-中日对照.md)** 
+
+- 本词条为中文翻译版，如需要日文对照请参见**[中日对照](./东方外来韦编-2019_Autumn!-天邪鬼特辑-中日对照.md)**
 - 该内容于杂志中页数：016-017
 - 翻译：Meisaki
 
@@ -16,7 +17,6 @@ Impossible Spell Card.由逆城一派发起的下克上计划最终还是以失�
 因为无需对通缉犯讲规则，  
 幻想乡也露出了操纵弹幕猛攻的无情一面。  
 但正邪，还藏了一手作为底牌的道具！文/本泽 澈
-
 ## 目录
 
 - [1 游戏简介](#游戏简介)
@@ -26,18 +26,12 @@ Impossible Spell Card.由逆城一派发起的下克上计划最终还是以失�
 - [5 成就系统](#成就系统)
 
 
-
-
-
 ## 游戏简介
 沦为通缉犯的叛逆者的大逃亡　　『弹幕天邪鬼』，是被冠以14.3系列数字的外传作品。于2014年举办的，博丽神社例大祭11上发售。　　内容上虽然是「辉针城」的直接续作，但由于是外传性质，不论是故事还是系统都和整数作品有着明显差别。首先引人瞩目的一点，主人公并非是解决异变的，反而是前作中作为黑幕的鬼人正邪。玩家要操作被通缉的她，击败追击过来挡在面前的幻想乡各类人物。没有与杂鱼的战斗，只靠BOSS战构成便是本作最大的不同。收取一枚符卡，或者说，将只有一种弹幕的BOSS战逐个击破，其实是与同是外传作品的『东方文花帖』和『Double Spoiler』更为类似。　　然后，「犯规道具」的存在便是本作的最大特征。追兵们因为「对反叛者无需手下留情」而放出了以击中为目的的异常猛烈的弹幕，相对的正邪在战斗能力上不仅没有符卡，通常射击也很平庸，只得心有不甘。而为了颠覆这个逆境，大放光彩的便是正邪暗中收集的，拥有无敌化等犯规效果的各种道具。共有九种类，如何灵活使用便是攻略难关的关键。
-
 ## 角色介绍
 逆袭的天邪鬼  
-鬼人正邪
-[](./文件-鬼人正邪（天邪鬼立绘）.png.md)  [](./文件-鬼人正邪（天邪鬼立绘）.png.md)「辉针城」的下克上计划失败后，独自逃走。偷偷收集因万宝槌影响而获得力量的道具并谋划着卷土重来，但不知从哪泄露了计划，作为反叛者被整个幻想乡所通缉。
-等待着的是75种符卡
-
+鬼人正邪<img alt="" src="https://upload.thwiki.cc/thumb/f/f2/%E9%AC%BC%E4%BA%BA%E6%AD%A3%E9%82%AA%EF%BC%88%E5%A4%A9%E9%82%AA%E9%AC%BC%E7%AB%8B%E7%BB%98%EF%BC%89.png/300px-%E9%AC%BC%E4%BA%BA%E6%AD%A3%E9%82%AA%EF%BC%88%E5%A4%A9%E9%82%AA%E9%AC%BC%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="300" height="241" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/f/f2/%E9%AC%BC%E4%BA%BA%E6%AD%A3%E9%82%AA%EF%BC%88%E5%A4%A9%E9%82%AA%E9%AC%BC%E7%AB%8B%E7%BB%98%EF%BC%89.png/450px-%E9%AC%BC%E4%BA%BA%E6%AD%A3%E9%82%AA%EF%BC%88%E5%A4%A9%E9%82%AA%E9%AC%BC%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/f/f2/%E9%AC%BC%E4%BA%BA%E6%AD%A3%E9%82%AA%EF%BC%88%E5%A4%A9%E9%82%AA%E9%AC%BC%E7%AB%8B%E7%BB%98%EF%BC%89.png/600px-%E9%AC%BC%E4%BA%BA%E6%AD%A3%E9%82%AA%EF%BC%88%E5%A4%A9%E9%82%AA%E9%AC%BC%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="1195" data-file-height="960">
+ [放大](./文件-鬼人正邪（天邪鬼立绘）.png.md)「辉针城」的下克上计划失败后，独自逃走。偷偷收集因万宝槌影响而获得力量的道具并谋划着卷土重来，但不知从哪泄露了计划，作为反叛者被整个幻想乡所通缉。等待着的是75种符卡
 <table>
 
 <tbody><tr>
@@ -48,9 +42,7 @@ Impossible Spell Card.由逆城一派发起的下克上计划最终还是以失�
 <div class="thumb tleft"><div class="thumbinner" style="width:302px;"><a href="./文件-外来韦编8_天邪鬼介绍_02.jpg.md" class="image"><img alt="" src="https://upload.thwiki.cc/thumb/f/fe/%E5%A4%96%E6%9D%A5%E9%9F%A6%E7%BC%968_%E5%A4%A9%E9%82%AA%E9%AC%BC%E4%BB%8B%E7%BB%8D_02.jpg/300px-%E5%A4%96%E6%9D%A5%E9%9F%A6%E7%BC%968_%E5%A4%A9%E9%82%AA%E9%AC%BC%E4%BB%8B%E7%BB%8D_02.jpg" decoding="async" loading="lazy" width="300" height="224" class="thumbimage" srcset="https://upload.thwiki.cc/f/fe/%E5%A4%96%E6%9D%A5%E9%9F%A6%E7%BC%968_%E5%A4%A9%E9%82%AA%E9%AC%BC%E4%BB%8B%E7%BB%8D_02.jpg 1.5x" data-file-width="405" data-file-height="303"></a>  <div class="thumbcaption"><div class="magnify"><a href="./文件-外来韦编8_天邪鬼介绍_02.jpg.md" class="internal" title="放大"></a></div><div class="tt-zh tt-type-omake" lang="zh"><div class="poem">被幻想乡全员认作敌人，陷入与众多强者开战的境地。虽然偶尔也会有人上来搭话，但大部分时候都是废话少说直接开战。</div></div></div></div></div>
 </td></tr></tbody></table>
 
-
 活用犯规道具是胜利的关键
-
 <table>
 
 <tbody><tr>
@@ -62,11 +54,9 @@ Impossible Spell Card.由逆城一派发起的下克上计划最终还是以失�
 </td></tr></tbody></table>
 
 
-
 ## 道具系统
-拥有作弊级力量的九种道具　　战斗中使用的道具在关卡开始前选择装备。最开始只能装备一个，在第六天后会追加一个副槽。道具的效果会根据装备的槽发生变化。基本上，主槽是主动性道具，副槽则是被动性道具。另外，道具也具有养成要素，可以通过提升等级来获得更高的性能。
-[](./文件-外来韦编8_天邪鬼介绍_05.jpg.md)  [](./文件-外来韦编8_天邪鬼介绍_05.jpg.md)各个道具的经验值，通过放在主槽中，攻略未通过的关卡来提升。
-
+拥有作弊级力量的九种道具　　战斗中使用的道具在关卡开始前选择装备。最开始只能装备一个，在第六天后会追加一个副槽。道具的效果会根据装备的槽发生变化。基本上，主槽是主动性道具，副槽则是被动性道具。另外，道具也具有养成要素，可以通过提升等级来获得更高的性能。<img alt="" src="https://upload.thwiki.cc/thumb/0/05/%E5%A4%96%E6%9D%A5%E9%9F%A6%E7%BC%968_%E5%A4%A9%E9%82%AA%E9%AC%BC%E4%BB%8B%E7%BB%8D_05.jpg/300px-%E5%A4%96%E6%9D%A5%E9%9F%A6%E7%BC%968_%E5%A4%A9%E9%82%AA%E9%AC%BC%E4%BB%8B%E7%BB%8D_05.jpg" decoding="async" loading="lazy" width="300" height="225" class="thumbimage" srcset="https://upload.thwiki.cc/0/05/%E5%A4%96%E6%9D%A5%E9%9F%A6%E7%BC%968_%E5%A4%A9%E9%82%AA%E9%AC%BC%E4%BB%8B%E7%BB%8D_05.jpg 1.5x" data-file-width="388" data-file-height="291">
+ [放大](./文件-外来韦编8_天邪鬼介绍_05.jpg.md)各个道具的经验值，通过放在主槽中，攻略未通过的关卡来提升。
 <table>
 
 <tbody><tr>
@@ -88,7 +78,6 @@ Impossible Spell Card.由逆城一派发起的下克上计划最终还是以失�
 </p>
 <div class="thumb tleft"><div class="thumbinner" style="width:155px;"><a href="./文件-外来韦编8_天邪鬼介绍_08.jpg.md" class="image"><img alt="" src="https://upload.thwiki.cc/7/7a/%E5%A4%96%E6%9D%A5%E9%9F%A6%E7%BC%968_%E5%A4%A9%E9%82%AA%E9%AC%BC%E4%BB%8B%E7%BB%8D_08.jpg" decoding="async" loading="lazy" width="153" height="153" class="thumbimage" data-file-width="153" data-file-height="153"></a>  <div class="thumbcaption"><div class="magnify"><a href="./文件-外来韦编8_天邪鬼介绍_08.jpg.md" class="internal" title="放大"></a></div><div class="tt-zh tt-type-omake" lang="zh"><div class="poem">可以通过画面边缘传送到反向的另一端，或者躲藏在画面外。装备在副槽时，可以使用三次画面边缘传送。</div></div></div></div></div>
 </td></tr></tbody></table>
-
 
 
 <table>
@@ -114,7 +103,6 @@ Impossible Spell Card.由逆城一派发起的下克上计划最终还是以失�
 </td></tr></tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
@@ -138,10 +126,8 @@ Impossible Spell Card.由逆城一派发起的下克上计划最终还是以失�
 </td></tr></tbody></table>
 
 
-
 ## 关卡对手
 历代角色作为追击者登场　　关卡以十日的天数为划分，随着日期变化追击过来的敌人也会变化。令人瞩目的是，追击前来的角色的豪华程度。从众多作品中精选出来的角色，也可同以往都是自机的灵梦和魔理沙战斗。
-
 <table>
 
 <tbody><tr>
@@ -156,10 +142,12 @@ Impossible Spell Card.由逆城一派发起的下克上计划最终还是以失�
 </td></tr></tbody></table>
 
 
-- [](./文件-外来韦编8_天邪鬼介绍_18.jpg.md)- [](./文件-外来韦编8_天邪鬼介绍_19.jpg.md)
+- <img alt="外来韦编8 天邪鬼介绍 18.jpg" src="https://upload.thwiki.cc/thumb/c/c4/%E5%A4%96%E6%9D%A5%E9%9F%A6%E7%BC%968_%E5%A4%A9%E9%82%AA%E9%AC%BC%E4%BB%8B%E7%BB%8D_18.jpg/120px-%E5%A4%96%E6%9D%A5%E9%9F%A6%E7%BC%968_%E5%A4%A9%E9%82%AA%E9%AC%BC%E4%BB%8B%E7%BB%8D_18.jpg" decoding="async" loading="lazy" width="120" height="139" srcset="https://upload.thwiki.cc/thumb/c/c4/%E5%A4%96%E6%9D%A5%E9%9F%A6%E7%BC%968_%E5%A4%A9%E9%82%AA%E9%AC%BC%E4%BB%8B%E7%BB%8D_18.jpg/180px-%E5%A4%96%E6%9D%A5%E9%9F%A6%E7%BC%968_%E5%A4%A9%E9%82%AA%E9%AC%BC%E4%BB%8B%E7%BB%8D_18.jpg 1.5x, https://upload.thwiki.cc/thumb/c/c4/%E5%A4%96%E6%9D%A5%E9%9F%A6%E7%BC%968_%E5%A4%A9%E9%82%AA%E9%AC%BC%E4%BB%8B%E7%BB%8D_18.jpg/240px-%E5%A4%96%E6%9D%A5%E9%9F%A6%E7%BC%968_%E5%A4%A9%E9%82%AA%E9%AC%BC%E4%BB%8B%E7%BB%8D_18.jpg 2x" data-file-width="285" data-file-height="331"> 
+- <img alt="外来韦编8 天邪鬼介绍 19.jpg" src="https://upload.thwiki.cc/thumb/8/8a/%E5%A4%96%E6%9D%A5%E9%9F%A6%E7%BC%968_%E5%A4%A9%E9%82%AA%E9%AC%BC%E4%BB%8B%E7%BB%8D_19.jpg/120px-%E5%A4%96%E6%9D%A5%E9%9F%A6%E7%BC%968_%E5%A4%A9%E9%82%AA%E9%AC%BC%E4%BB%8B%E7%BB%8D_19.jpg" decoding="async" loading="lazy" width="120" height="139" srcset="https://upload.thwiki.cc/thumb/8/8a/%E5%A4%96%E6%9D%A5%E9%9F%A6%E7%BC%968_%E5%A4%A9%E9%82%AA%E9%AC%BC%E4%BB%8B%E7%BB%8D_19.jpg/180px-%E5%A4%96%E6%9D%A5%E9%9F%A6%E7%BC%968_%E5%A4%A9%E9%82%AA%E9%AC%BC%E4%BB%8B%E7%BB%8D_19.jpg 1.5x, https://upload.thwiki.cc/thumb/8/8a/%E5%A4%96%E6%9D%A5%E9%9F%A6%E7%BC%968_%E5%A4%A9%E9%82%AA%E9%AC%BC%E4%BB%8B%E7%BB%8D_19.jpg/240px-%E5%A4%96%E6%9D%A5%E9%9F%A6%E7%BC%968_%E5%A4%A9%E9%82%AA%E9%AC%BC%E4%BB%8B%E7%BB%8D_19.jpg 2x" data-file-width="285" data-file-height="331"> 
 
 从第七日到第八日，灵梦咲夜等，作为自机具有强大印象的角色大部分都会出现。右侧是早苗，左侧是魔理沙的攻击。
-- [](./文件-外来韦编8_天邪鬼介绍_20.jpg.md)- [](./文件-外来韦编8_天邪鬼介绍_21.jpg.md)
+- <img alt="外来韦编8 天邪鬼介绍 20.jpg" src="https://upload.thwiki.cc/thumb/6/6c/%E5%A4%96%E6%9D%A5%E9%9F%A6%E7%BC%968_%E5%A4%A9%E9%82%AA%E9%AC%BC%E4%BB%8B%E7%BB%8D_20.jpg/120px-%E5%A4%96%E6%9D%A5%E9%9F%A6%E7%BC%968_%E5%A4%A9%E9%82%AA%E9%AC%BC%E4%BB%8B%E7%BB%8D_20.jpg" decoding="async" loading="lazy" width="120" height="139" srcset="https://upload.thwiki.cc/thumb/6/6c/%E5%A4%96%E6%9D%A5%E9%9F%A6%E7%BC%968_%E5%A4%A9%E9%82%AA%E9%AC%BC%E4%BB%8B%E7%BB%8D_20.jpg/180px-%E5%A4%96%E6%9D%A5%E9%9F%A6%E7%BC%968_%E5%A4%A9%E9%82%AA%E9%AC%BC%E4%BB%8B%E7%BB%8D_20.jpg 1.5x, https://upload.thwiki.cc/thumb/6/6c/%E5%A4%96%E6%9D%A5%E9%9F%A6%E7%BC%968_%E5%A4%A9%E9%82%AA%E9%AC%BC%E4%BB%8B%E7%BB%8D_20.jpg/240px-%E5%A4%96%E6%9D%A5%E9%9F%A6%E7%BC%968_%E5%A4%A9%E9%82%AA%E9%AC%BC%E4%BB%8B%E7%BB%8D_20.jpg 2x" data-file-width="285" data-file-height="331"> 
+- <img alt="外来韦编8 天邪鬼介绍 21.jpg" src="https://upload.thwiki.cc/thumb/e/ea/%E5%A4%96%E6%9D%A5%E9%9F%A6%E7%BC%968_%E5%A4%A9%E9%82%AA%E9%AC%BC%E4%BB%8B%E7%BB%8D_21.jpg/120px-%E5%A4%96%E6%9D%A5%E9%9F%A6%E7%BC%968_%E5%A4%A9%E9%82%AA%E9%AC%BC%E4%BB%8B%E7%BB%8D_21.jpg" decoding="async" loading="lazy" width="120" height="139" srcset="https://upload.thwiki.cc/thumb/e/ea/%E5%A4%96%E6%9D%A5%E9%9F%A6%E7%BC%968_%E5%A4%A9%E9%82%AA%E9%AC%BC%E4%BB%8B%E7%BB%8D_21.jpg/180px-%E5%A4%96%E6%9D%A5%E9%9F%A6%E7%BC%968_%E5%A4%A9%E9%82%AA%E9%AC%BC%E4%BB%8B%E7%BB%8D_21.jpg 1.5x, https://upload.thwiki.cc/thumb/e/ea/%E5%A4%96%E6%9D%A5%E9%9F%A6%E7%BC%968_%E5%A4%A9%E9%82%AA%E9%AC%BC%E4%BB%8B%E7%BB%8D_21.jpg/240px-%E5%A4%96%E6%9D%A5%E9%9F%A6%E7%BC%968_%E5%A4%A9%E9%82%AA%E9%AC%BC%E4%BB%8B%E7%BB%8D_21.jpg 2x" data-file-width="285" data-file-height="331"> 
 
 第九日和最终日的敌人，便是作为一大势力首领的神子（右）、白莲、蕾米莉亚、作为天人的天子等大人物。最终关卡挡在面前的便是紫（左）。日期数　关卡数　出现的追敌  
 第一日　　 6　　九十九八桥　若鹭姬　琪露诺  
@@ -172,14 +160,9 @@ Impossible Spell Card.由逆城一派发起的下克上计划最终还是以失�
 第八日　　 7　　少名针妙丸　博丽灵梦　二岩猯藏  
 第九日　　 8　　八坂神奈子　洩矢诹访子　物部布都　伊吹萃香  
 最终日　　10　　圣白莲　丰聪耳神子　比那名居天子　蕾米莉亚·斯卡蕾特　八云紫
-
 ## 成就系统
-成绩收集系统「绰号」　　本作中全新加入「绰号」系统。基本上，达成特定条件便可获得绰号，也就是所谓的成就系统。只是纯粹的收集要素，没有任何性能上的影响。
-[](./文件-外来韦编8_天邪鬼介绍_22.jpg.md)  [](./文件-外来韦编8_天邪鬼介绍_22.jpg.md)绰号的数量很多。获得条件上来说，基本上都与道具使用和游戏时间有关。
-
-
-
-
+成绩收集系统「绰号」　　本作中全新加入「绰号」系统。基本上，达成特定条件便可获得绰号，也就是所谓的成就系统。只是纯粹的收集要素，没有任何性能上的影响。<img alt="" src="https://upload.thwiki.cc/b/bf/%E5%A4%96%E6%9D%A5%E9%9F%A6%E7%BC%968_%E5%A4%A9%E9%82%AA%E9%AC%BC%E4%BB%8B%E7%BB%8D_22.jpg" decoding="async" loading="lazy" width="260" height="195" class="thumbimage" data-file-width="260" data-file-height="195">
+ [放大](./文件-外来韦编8_天邪鬼介绍_22.jpg.md)绰号的数量很多。获得条件上来说，基本上都与道具使用和游戏时间有关。
 ---
 
 此文档由 [THBWiki-Markdown-Builder](https://github.com/Delsin-Yu/THBWiki-Markdown-Builder) 构建。

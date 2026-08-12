@@ -1,29 +1,23 @@
 # Gratitudeこめいじ
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\6e\ns0%3AGratitude%E3%81%93%E3%82%81%E3%81%84%E3%81%98.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\6e\ns0%3AGratitude%E3%81%93%E3%82%81%E3%81%84%E3%81%98.html -->
 
 2019年6月9日 由 七輪大社 于 古明地情结6 发布的漫画同人志，B5尺寸一共24页，登场人物有 古明地觉、古明地恋、灵乌路空、火焰猫燐，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人志 (未找到链接)** 的词条
-
+**[二次创作同人志](./二次创作.md#同人志)**的词条
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Gratitudeこめいじ封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/9/96/Gratitude%E3%81%93%E3%82%81%E3%81%84%E3%81%98%E5%B0%81%E9%9D%A2.jpg/161px-Gratitude%E3%81%93%E3%82%81%E3%81%84%E3%81%98%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="161" height="224" srcset="https://upload.thwiki.cc/thumb/9/96/Gratitude%E3%81%93%E3%82%81%E3%81%84%E3%81%98%E5%B0%81%E9%9D%A2.jpg/242px-Gratitude%E3%81%93%E3%82%81%E3%81%84%E3%81%98%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/9/96/Gratitude%E3%81%93%E3%82%81%E3%81%84%E3%81%98%E5%B0%81%E9%9D%A2.jpg/322px-Gratitude%E3%81%93%E3%82%81%E3%81%84%E3%81%98%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="559" data-file-height="777"></a><div class="cover-char">角色：<a href="./古明地觉.md" title="古明地觉">古明地觉</a>，<a href="./古明地恋.md" title="古明地恋">古明地恋</a>，<a href="./灵乌路空.md" title="灵乌路空">灵乌路空</a>，<a href="./火焰猫燐.md" title="火焰猫燐">火焰猫燐</a></div></td>
 </tr><tr><td class="label">名称</td><td colspan="2"> Gratitudeこめいじ </td></tr><tr><td class="label">制作方</td><td><a href="./七輪大社.md" title="七輪大社">七輪大社</a></td><td class="cover-artwork" rowspan="8" style="min-width:224px;"><a href="./文件-Gratitudeこめいじ封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/9/96/Gratitude%E3%81%93%E3%82%81%E3%81%84%E3%81%98%E5%B0%81%E9%9D%A2.jpg/161px-Gratitude%E3%81%93%E3%82%81%E3%81%84%E3%81%98%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="161" height="224" srcset="https://upload.thwiki.cc/thumb/9/96/Gratitude%E3%81%93%E3%82%81%E3%81%84%E3%81%98%E5%B0%81%E9%9D%A2.jpg/242px-Gratitude%E3%81%93%E3%82%81%E3%81%84%E3%81%98%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/9/96/Gratitude%E3%81%93%E3%82%81%E3%81%84%E3%81%98%E5%B0%81%E9%9D%A2.jpg/322px-Gratitude%E3%81%93%E3%82%81%E3%81%84%E3%81%98%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="559" data-file-height="777"></a><div class="cover-char">角色：<a href="./古明地觉.md" title="古明地觉">古明地觉</a>，<a href="./古明地恋.md" title="古明地恋">古明地恋</a>，<a href="./灵乌路空.md" title="灵乌路空">灵乌路空</a>，<a href="./火焰猫燐.md" title="火焰猫燐">火焰猫燐</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2019-06-09&#160;（<a href="/展会作品列表?e=%E5%8F%A4%E6%98%8E%E5%9C%B0%E6%83%85%E7%BB%93%236">古明地こんぷれっくす むっつめ。</a>）</td></tr><tr><td class="label">类型</td><td>漫画</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>B5</td></tr><tr><td class="label">页数</td><td>24P</td></tr><tr><td class="label">登场人物</td><td><a href="./古明地觉.md" title="古明地觉">古明地觉</a>，<a href="./古明地恋.md" title="古明地恋">古明地恋</a>，<a href="./灵乌路空.md" title="灵乌路空">灵乌路空</a>，<a href="./火焰猫燐.md" title="火焰猫燐">火焰猫燐</a></td></tr><tr><td class="label">售价</td><td>会场售价：300日元</td></tr>
+</tr><tr><td class="label">首发日期</td><td>2019-06-09 （<a href="./展会作品列表.md#6">古明地こんぷれっくす むっつめ。</a>）</td></tr><tr><td class="label">类型</td><td>漫画</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>B5</td></tr><tr><td class="label">页数</td><td>24P</td></tr><tr><td class="label">登场人物</td><td><a href="./古明地觉.md" title="古明地觉">古明地觉</a>，<a href="./古明地恋.md" title="古明地恋">古明地恋</a>，<a href="./灵乌路空.md" title="灵乌路空">灵乌路空</a>，<a href="./火焰猫燐.md" title="火焰猫燐">火焰猫燐</a></td></tr><tr><td class="label">售价</td><td>会场售价：300日元</td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/75091488">https://www.pixiv.net/artworks/75091488</a></td></tr></tbody></table>
 
 Gratitudeこめいじ（同人志，七輪大社，2019） - 2019年6月9日 由 七輪大社 于 古明地情结6 发布的漫画同人志，B5尺寸一共24页，登场人物有 古明地觉、古明地恋、灵乌路空、火焰猫燐，分级为 一般向
-
 ## Staff
 : Y2 (未找到链接)
 
-
 ## 评论
-
-
-
 
 ---
 

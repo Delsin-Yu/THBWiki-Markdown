@@ -1,6 +1,6 @@
 # 文件:pneumothorax封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\06\ns6%3Apneumothorax%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\06\ns6%3Apneumothorax%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 マスカルポーネ | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [pneumothorax](./pneumothorax.md)  
-该封面包含的角色：- [小野塚小町](./小野塚小町.md)
+- [pneumothorax](./pneumothorax.md)该封面包含的角色：
+- [小野塚小町](./小野塚小町.md)
 
   
-源地址：[[1]](http://mascarpone.penne.jp/images/cd04.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://mascarpone.penne.jp/images/cd04.jpg)  
 
 ---
 

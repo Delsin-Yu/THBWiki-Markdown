@@ -1,6 +1,6 @@
 # 文件:とほほお～けすとら_-STAGE_3-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\47\ns6%3A%E3%81%A8%E3%81%BB%E3%81%BB%E3%81%8A%EF%BD%9E%E3%81%91%E3%81%99%E3%81%A8%E3%82%89_-STAGE_3-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\47\ns6%3A%E3%81%A8%E3%81%BB%E3%81%BB%E3%81%8A%EF%BD%9E%E3%81%91%E3%81%99%E3%81%A8%E3%82%89_-STAGE_3-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 とほほお～けすとら | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [とほほお～けすとら -STAGE 3-](./とほほお～けすとら_-STAGE_3-.md)  
-该封面包含的角色：- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
-
-
-
+- [とほほお～けすとら -STAGE 3-](./とほほお～けすとら_-STAGE_3-.md)该封面包含的角色：
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
 
 
 ---

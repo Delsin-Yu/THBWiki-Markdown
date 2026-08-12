@@ -1,12 +1,8 @@
 # 文件:硫酸ポリオミノbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\21\ns6%3A%E7%A1%AB%E9%85%B8%E3%83%9D%E3%83%AA%E3%82%AA%E3%83%9F%E3%83%8Ebanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\21\ns6%3A%E7%A1%AB%E9%85%B8%E3%83%9D%E3%83%AA%E3%82%AA%E3%83%9F%E3%83%8Ebanner%2Epng.html -->
 
 硫酸ポリオミノ | 社团LOGO
-
-
-
-
 
 
 ---

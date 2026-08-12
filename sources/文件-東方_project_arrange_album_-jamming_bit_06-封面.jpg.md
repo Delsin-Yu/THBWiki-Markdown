@@ -1,6 +1,6 @@
 # 文件:東方_project_arrange_album_"jamming_bit_06"封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0b\ns6%3A%E6%9D%B1%E6%96%B9_project_arrange_album_%22jamming_bit_06%22%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0b\ns6%3A%E6%9D%B1%E6%96%B9_project_arrange_album_%22jamming_bit_06%22%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 jamming_bit | 专辑封面 | 封面图片
 
@@ -15,10 +15,6 @@ jamming_bit | 专辑封面 | 封面图片
   
 from TLMC scans (cropped)
   
-
-
-
-
 
 ---
 

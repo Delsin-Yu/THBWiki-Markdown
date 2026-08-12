@@ -1,6 +1,6 @@
 # 文件:Dream_of_Arcadia封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a0\ns6%3ADream_of_Arcadia%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a0\ns6%3ADream_of_Arcadia%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Lowlands_Blossom | 专辑封面 | 封面图片
 
@@ -10,11 +10,9 @@ Lowlands_Blossom | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Dream of Arcadia](./Dream_of_Arcadia.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [Dream of Arcadia](./Dream_of_Arcadia.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:恋のまほうは魔理沙におまかせ！2_Kissing_the_Mirror_体験盤封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\12\ns6%3A%E6%81%8B%E3%81%AE%E3%81%BE%E3%81%BB%E3%81%86%E3%81%AF%E9%AD%94%E7%90%86%E6%B2%99%E3%81%AB%E3%81%8A%E3%81%BE%E3%81%8B%E3%81%9B%EF%BC%812_Kissing_the_Mirror_%E4%BD%93%E9%A8%93%E7%9B%A4%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\12\ns6%3A%E6%81%8B%E3%81%AE%E3%81%BE%E3%81%BB%E3%81%86%E3%81%AF%E9%AD%94%E7%90%86%E6%B2%99%E3%81%AB%E3%81%8A%E3%81%BE%E3%81%8B%E3%81%9B%EF%BC%812_Kissing_the_Mirror_%E4%BD%93%E9%A8%93%E7%9B%A4%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Kissing_the_Mirror | 专辑封面 | 封面图片
 
@@ -8,11 +8,10 @@ Kissing_the_Mirror | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [恋のまほうは魔理沙におまかせ！2 Kissing the Mirror 体験盤](./恋のまほうは魔理沙におまかせ！2_Kissing_the_Mirror_体験盤.md)  
-该封面包含的角色：- [因幡帝](./因幡帝.md)- [小野塚小町](./小野塚小町.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [恋のまほうは魔理沙におまかせ！2 Kissing the Mirror 体験盤](./恋のまほうは魔理沙におまかせ！2_Kissing_the_Mirror_体験盤.md)该封面包含的角色：
+- [因幡帝](./因幡帝.md)
+- [小野塚小町](./小野塚小町.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

@@ -1,12 +1,11 @@
 # 8BIT_MUSIC_POWER_FINAL
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\3\34\ns0%3A8BIT_MUSIC_POWER_FINAL.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\3\34\ns0%3A8BIT_MUSIC_POWER_FINAL.html -->
 
 官方专辑
 
 本页是关于  
-与ZUN有一定关联的非东方作品 (未找到链接)的词条
-
+[与ZUN有一定关联的非东方作品](./其他ZUN参与的作品.md#非东方/西方的作品)的词条
 ## 目录
 
 - [1 概述](#概述)
@@ -15,42 +14,34 @@
 - [4 外部链接](#外部链接)
 
 
-
-
-
 ## 概述
-[](./文件-8BIT_MUSIC_POWER_FINAL封面.jpg.md)  [](./文件-8BIT_MUSIC_POWER_FINAL封面.jpg.md)8BIT MUSIC POWER FINAL
-  
-<big> **8BIT MUSIC POWER FINAL** </big>
+<img alt="" src="https://upload.thwiki.cc/thumb/c/c8/8BIT_MUSIC_POWER_FINAL%E5%B0%81%E9%9D%A2.jpg/300px-8BIT_MUSIC_POWER_FINAL%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="300" height="190" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/c/c8/8BIT_MUSIC_POWER_FINAL%E5%B0%81%E9%9D%A2.jpg/450px-8BIT_MUSIC_POWER_FINAL%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/c/c8/8BIT_MUSIC_POWER_FINAL%E5%B0%81%E9%9D%A2.jpg/600px-8BIT_MUSIC_POWER_FINAL%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1343" data-file-height="852">
+ [放大](./文件-8BIT_MUSIC_POWER_FINAL封面.jpg.md)8BIT MUSIC POWER FINAL  
+<big>**8BIT MUSIC POWER FINAL**</big>
 8BIT MUSIC POWER FINAL  
 
-本作是由 **[RIKI](#RIKI)** 制作的FC音乐集卡带，播放平台为Family Computer或Family Computer兼容机。  
+本作是由**[RIKI](#RIKI)**制作的FC音乐集卡带，播放平台为Family Computer或Family Computer兼容机。  
 
 ZUN为本作品提供了一首曲子。
   
 
-
 <table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td style="width:120px"><b>制作方</b></td><td style="width:300px">RIKI</td></tr><tr><td><b>发行日期</b></td><td>2017年04月06日 </td></tr><tr><td><b>音轨数</b></td><td>18</td></tr><tr><td><b>总时长</b></td><td>52:02</td></tr><tr><td><b>售价</b></td><td>4204日元（无特典）</td></tr></tbody></table>
 
-8BIT MUSIC POWER FINAL（官方专辑） - 官方专辑
-[](./文件-8BIT_MUSIC_POWER_FINAL-_RIKI_collection_-封面.jpg.md)  [](./文件-8BIT_MUSIC_POWER_FINAL-_RIKI_collection_-封面.jpg.md)8BIT MUSIC POWER FINAL- RIKI collection -
-  
-<big> **8BIT MUSIC POWER FINAL- RIKI collection -** </big>
+8BIT MUSIC POWER FINAL（官方专辑） - 官方专辑<img alt="" src="https://upload.thwiki.cc/thumb/1/19/8BIT_MUSIC_POWER_FINAL-_RIKI_collection_-%E5%B0%81%E9%9D%A2.jpg/300px-8BIT_MUSIC_POWER_FINAL-_RIKI_collection_-%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="300" height="300" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/1/19/8BIT_MUSIC_POWER_FINAL-_RIKI_collection_-%E5%B0%81%E9%9D%A2.jpg/450px-8BIT_MUSIC_POWER_FINAL-_RIKI_collection_-%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/1/19/8BIT_MUSIC_POWER_FINAL-_RIKI_collection_-%E5%B0%81%E9%9D%A2.jpg/600px-8BIT_MUSIC_POWER_FINAL-_RIKI_collection_-%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="2000" data-file-height="2000">
+ [放大](./文件-8BIT_MUSIC_POWER_FINAL-_RIKI_collection_-封面.jpg.md)8BIT MUSIC POWER FINAL- RIKI collection -  
+<big>**8BIT MUSIC POWER FINAL- RIKI collection -**</big>
 8BIT MUSIC POWER FINAL- RIKI collection -  
 
 8BIT MUSIC POWER FINAL的CD版本。
   
 
-
 <table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td style="width:120px"><b>制作方</b></td><td style="width:300px">RIKI</td></tr><tr><td><b>发行日期</b></td><td>2017年10月25日 </td></tr><tr><td><b>音轨数</b></td><td>18</td></tr><tr><td><b>总时长</b></td><td>53:23</td></tr><tr><td><b>编号</b></td><td>COCX-40163</td></tr><tr><td><b>售价</b></td><td>2778日元</td></tr></tbody></table>
 
 8BIT MUSIC POWER FINAL（官方专辑） - 官方专辑
-
 ## RIKI
   
 RIKI，是一位插画家、漫画家，也是音乐光盘制作者。作有原创游戏「闪亮星夜DX」与音乐作品「8BIT MUSIC POWER」系列。
   
-
 
 ## 曲目
 
@@ -74,14 +65,10 @@ RIKI，是一位插画家、漫画家，也是音乐光盘制作者。作有原�
 <tr><td class="infoYL"><b>18</b></td><td colspan="2" class="title">Red-White Planet</td><td class="time">2:53</td></tr><tr><td class="left"></td><td colspan="3" class="bigtext">Red-White Planet</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2">hally</td></tr></tbody></table>
 
 
-
 ## 外部链接
+
 - [官方网站](http://riki2riki.com/html/0_sample_8mpf.html)（（已经失效））
 - [官方网站2](http://riki2riki.com/html/8mpf.html)（（已经失效））
-
-
-
-
 
 
 ---

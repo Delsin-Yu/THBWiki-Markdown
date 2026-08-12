@@ -1,6 +1,6 @@
 # 文件:Symphonic_Rhapsody_"Peony"_交響狂詩篇_冬牡丹封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ad\ns6%3ASymphonic_Rhapsody_%22Peony%22_%E4%BA%A4%E9%9F%BF%E7%8B%82%E8%A9%A9%E7%AF%87_%E5%86%AC%E7%89%A1%E4%B8%B9%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ad\ns6%3ASymphonic_Rhapsody_%22Peony%22_%E4%BA%A4%E9%9F%BF%E7%8B%82%E8%A9%A9%E7%AF%87_%E5%86%AC%E7%89%A1%E4%B8%B9%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 WAVE | 专辑封面 | 封面图片
 
@@ -8,11 +8,10 @@ WAVE | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Symphonic Rhapsody "Peony" 交響狂詩篇 冬牡丹](./Symphonic_Rhapsody_-Peony-_交響狂詩篇_冬牡丹.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [蓬莱山辉夜](./蓬莱山辉夜.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [Symphonic Rhapsody "Peony" 交響狂詩篇 冬牡丹](./Symphonic_Rhapsody_-Peony-_交響狂詩篇_冬牡丹.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [蓬莱山辉夜](./蓬莱山辉夜.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

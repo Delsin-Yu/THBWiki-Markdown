@@ -1,6 +1,6 @@
 # 文件:Acid_Volcano_Raising封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6b\ns6%3AAcid_Volcano_Raising%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6b\ns6%3AAcid_Volcano_Raising%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 AlphaVersion_Records | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ AlphaVersion_Records | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Acid Volcano Raising](./Acid_Volcano_Raising.md)  
-该封面包含的角色：- [藤原妹红](./藤原妹红.md)
-
-
-
+- [Acid Volcano Raising](./Acid_Volcano_Raising.md)该封面包含的角色：
+- [藤原妹红](./藤原妹红.md)
 
 
 ---

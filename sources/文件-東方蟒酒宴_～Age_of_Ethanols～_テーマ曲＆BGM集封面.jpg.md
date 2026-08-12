@@ -1,6 +1,6 @@
 # 文件:東方蟒酒宴_～Age_of_Ethanols～_テーマ曲＆BGM集封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8a\ns6%3A%E6%9D%B1%E6%96%B9%E8%9F%92%E9%85%92%E5%AE%B4_%EF%BD%9EAge_of_Ethanols%EF%BD%9E_%E3%83%86%E3%83%BC%E3%83%9E%E6%9B%B2%EF%BC%86BGM%E9%9B%86%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8a\ns6%3A%E6%9D%B1%E6%96%B9%E8%9F%92%E9%85%92%E5%AE%B4_%EF%BD%9EAge_of_Ethanols%EF%BD%9E_%E3%83%86%E3%83%BC%E3%83%9E%E6%9B%B2%EF%BC%86BGM%E9%9B%86%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Neetpia | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Neetpia | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方蟒酒宴 ～Age of Ethanols～ テーマ曲＆BGM集](./東方蟒酒宴_～Age_of_Ethanols～_テーマ曲＆BGM集.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
-
-
-
+- [東方蟒酒宴 ～Age of Ethanols～ テーマ曲＆BGM集](./東方蟒酒宴_～Age_of_Ethanols～_テーマ曲＆BGM集.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:Foreground_Eclipse_banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\99\ns6%3AForeground_Eclipse_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\99\ns6%3AForeground_Eclipse_banner%2Ejpg.html -->
 
 Foreground_Eclipse | 社团LOGO
-
-
-
-
 
 
 ---

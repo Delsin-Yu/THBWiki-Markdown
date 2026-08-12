@@ -1,16 +1,12 @@
 # 文件:ssg_02.mid
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3b\ns6%3Assg_02%2Emid.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3b\ns6%3Assg_02%2Emid.html -->
 
 False_Strawberry | 东方幻想的音乐 | 官方MIDI | 秋霜玉
 
   
 フォルスストロベリー 秋霜玉1面道中主题曲。 东方的幻想音乐版，与原秋霜玉版本有出入！
   
-
-
-
-
 
 ---
 

@@ -1,12 +1,8 @@
 # 文件:夜符「Bombard_Night」（绯想天2）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\21\ns6%3A%E5%A4%9C%E7%AC%A6%E3%80%8CBombard_Night%E3%80%8D%EF%BC%88%E7%BB%AF%E6%83%B3%E5%A4%A92%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\21\ns6%3A%E5%A4%9C%E7%AC%A6%E3%80%8CBombard_Night%E3%80%8D%EF%BC%88%E7%BB%AF%E6%83%B3%E5%A4%A92%EF%BC%89%2Ejpg.html -->
 
 东方绯想天 | 敌机符卡 | 蕾米莉亚·斯卡蕾特
-
-
-
-
 
 
 ---

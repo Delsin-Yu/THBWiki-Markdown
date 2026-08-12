@@ -1,6 +1,6 @@
 # 文件:東方神鏡世界_～_Reflection_of_This_Fact.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\03\ns6%3A%E6%9D%B1%E6%96%B9%E7%A5%9E%E9%8F%A1%E4%B8%96%E7%95%8C_%EF%BD%9E_Reflection_of_This_Fact%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\03\ns6%3A%E6%9D%B1%E6%96%B9%E7%A5%9E%E9%8F%A1%E4%B8%96%E7%95%8C_%EF%BD%9E_Reflection_of_This_Fact%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 disfact | 封面图片 | 软件封面
 
@@ -10,11 +10,8 @@ disfact | 封面图片 | 软件封面
 使用了本文件作封面图片的作品：
   
 
-- [東方神鏡世界 ～ Reflection of This Fact.](./東方神鏡世界_～_Reflection_of_This_Fact..md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)
-
-
-
+- [東方神鏡世界 ～ Reflection of This Fact.](./東方神鏡世界_～_Reflection_of_This_Fact..md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
 
 
 ---

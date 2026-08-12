@@ -1,12 +1,8 @@
 # 文件:Namapann_banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6b\ns6%3ANamapann_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6b\ns6%3ANamapann_banner%2Ejpg.html -->
 
 生パン庫 | 社团LOGO
-
-
-
-
 
 
 ---

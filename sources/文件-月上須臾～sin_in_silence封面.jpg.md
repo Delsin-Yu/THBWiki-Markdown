@@ -1,6 +1,6 @@
 # 文件:月上須臾～sin_in_silence封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a4\ns6%3A%E6%9C%88%E4%B8%8A%E9%A0%88%E8%87%BE%EF%BD%9Esin_in_silence%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a4\ns6%3A%E6%9C%88%E4%B8%8A%E9%A0%88%E8%87%BE%EF%BD%9Esin_in_silence%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 U235核燃动力 | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@ U235核燃动力 | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [月上須臾～sin in silence](./月上須臾～sin_in_silence.md)  
-该封面包含的角色：- [蓬莱山辉夜](./蓬莱山辉夜.md)
-
-
-
+- [月上須臾～sin in silence](./月上須臾～sin_in_silence.md)该封面包含的角色：
+- [蓬莱山辉夜](./蓬莱山辉夜.md)
 
 
 ---

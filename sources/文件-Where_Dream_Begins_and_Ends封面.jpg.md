@@ -1,6 +1,6 @@
 # 文件:Where_Dream_Begins_and_Ends封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\eb\ns6%3AWhere_Dream_Begins_and_Ends%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\eb\ns6%3AWhere_Dream_Begins_and_Ends%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Way_Home_with_Sunshower | 专辑封面 | 封面图片
 
@@ -13,12 +13,7 @@ Way_Home_with_Sunshower | 专辑封面 | 封面图片
 - [Where Dream Begins and Ends](./Where_Dream_Begins_and_Ends.md)
 
   
-源地址：[[1]](https://pic.xiami.net/images/album/img42/2099988142/21002036061442733410.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://pic.xiami.net/images/album/img42/2099988142/21002036061442733410.jpg)  
 
 ---
 

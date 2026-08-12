@@ -1,35 +1,27 @@
 # Missing_Retrospections
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\d\d3\ns0%3AMissing_Retrospections.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\d\d3\ns0%3AMissing_Retrospections.html -->
 
 Missing Retrospections ，于 2020 年成立，主要制作 同人音乐 的波兰同人社团，主催是 Wolfie，当前状态为 活动
 
-本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
-
+本页是关于**[同人社团](./二次创作.md#同人社团)**的词条
 ## 目录
 
 - [1 社团信息](#社团信息)
 - [2 成员名单](#成员名单)
 - [3 作品列表](#作品列表)
-
   - [3.1 同人专辑](#同人专辑)
-
 
 
 - [4 其他信息](#其他信息)
 
 
-
-
-
 ## 社团信息
-文件:Missing Retrospectionslogo.png (未找到链接)  logo
-[](./文件-Missing_Retrospectionslogo2.jpg.md)  [](./文件-Missing_Retrospectionslogo2.jpg.md)logo
+文件:Missing Retrospectionslogo.png (未找到链接) logo<img alt="" src="https://upload.thwiki.cc/thumb/5/57/Missing_Retrospectionslogo2.jpg/200px-Missing_Retrospectionslogo2.jpg" decoding="async" loading="lazy" width="200" height="199" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/5/57/Missing_Retrospectionslogo2.jpg/300px-Missing_Retrospectionslogo2.jpg 1.5x, https://upload.thwiki.cc/thumb/5/57/Missing_Retrospectionslogo2.jpg/400px-Missing_Retrospectionslogo2.jpg 2x" data-file-width="800" data-file-height="797">
+ [放大](./文件-Missing_Retrospectionslogo2.jpg.md)logo
+<table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Missing Retrospections </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2020</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a class="new" title="Wolfie（页面不存在）">Wolfie</a> </td></tr><tr><td><b>地区</b></td><td>波兰</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="https://www.youtube.com/channel/UCml-niZ5ap2ZMa2d2sNMlog">https://www.youtube.com/channel/UCml-niZ5ap2ZMa2d2sNMlog</a> <br><a rel="nofollow" class="external free" href="https://soundcloud.com/user-365557085">https://soundcloud.com/user-365557085</a><br><a rel="nofollow" class="external free" href="https://ko-fi.com/missingretrospections">https://ko-fi.com/missingretrospections</a><br><a rel="nofollow" class="external free" href="https://www.facebook.com/Missing-Retrospections-766128890427828">https://www.facebook.com/Missing-Retrospections-766128890427828</a></td></tr></tbody></table>
 
-<table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Missing Retrospections </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2020</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=Wolfie&amp;action=edit&amp;redlink=1" class="new" title="Wolfie（页面不存在）">Wolfie</a> </td></tr><tr><td><b>地区</b></td><td>波兰</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="https://www.youtube.com/channel/UCml-niZ5ap2ZMa2d2sNMlog">https://www.youtube.com/channel/UCml-niZ5ap2ZMa2d2sNMlog</a> <br><a rel="nofollow" class="external free" href="https://soundcloud.com/user-365557085">https://soundcloud.com/user-365557085</a><br><a rel="nofollow" class="external free" href="https://ko-fi.com/missingretrospections">https://ko-fi.com/missingretrospections</a><br><a rel="nofollow" class="external free" href="https://www.facebook.com/Missing-Retrospections-766128890427828">https://www.facebook.com/Missing-Retrospections-766128890427828</a></td></tr></tbody></table>
-
-Missing Retrospections（同人社团，同人音乐社团） - Missing Retrospections ，于 2020 年成立，主要制作 同人音乐 的波兰同人社团，主催是 Wolfie，当前状态为 活动
-  
+Missing Retrospections（同人社团，同人音乐社团） - Missing Retrospections ，于 2020 年成立，主要制作 同人音乐 的波兰同人社团，主催是 Wolfie，当前状态为 活动  
 其他官网链接：
   
 
@@ -40,22 +32,16 @@ Missing Retrospections（同人社团，同人音乐社团） - Missing Retrospe
 
 
 ## 成员名单
+
 - Wolfie (未找到链接)
 
 
 ## 作品列表
 
 ### 同人专辑
-[](./Gungnir_and_LÆvateinn.md)[Gungnir and LÆvateinn](./Gungnir_and_LÆvateinn.md)首发日期：2020-07-28 全长 （一般向）
-<table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
-</table>
-
-
+- **[Gungnir and LÆvateinn](./Gungnir_and_LÆvateinn.md)** — 首发日期：2020-07-28；全长 （一般向）
 
 ## 其他信息
-
-
-
 
 ---
 

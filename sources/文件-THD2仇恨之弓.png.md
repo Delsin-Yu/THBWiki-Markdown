@@ -1,12 +1,8 @@
 # 文件:THD2仇恨之弓.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3b\ns6%3ATHD2%E4%BB%87%E6%81%A8%E4%B9%8B%E5%BC%93%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3b\ns6%3ATHD2%E4%BB%87%E6%81%A8%E4%B9%8B%E5%BC%93%2Epng.html -->
 
 东方DOTS玩家社群
-
-
-
-
 
 
 ---

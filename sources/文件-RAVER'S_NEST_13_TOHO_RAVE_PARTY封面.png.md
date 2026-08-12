@@ -1,6 +1,6 @@
 # 文件:RAVER'S_NEST_13_TOHO_RAVE_PARTY封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2a\ns6%3ARAVER%27S_NEST_13_TOHO_RAVE_PARTY%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2a\ns6%3ARAVER%27S_NEST_13_TOHO_RAVE_PARTY%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 DiGiTAL_WiNG | 专辑封面 | 封面图片
 
@@ -10,15 +10,11 @@ DiGiTAL_WiNG | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [RAVER'S NEST 13 TOHO RAVE PARTY](./RAVER'S_NEST_13_TOHO_RAVE_PARTY.md)  
-该封面包含的角色：- [洩矢诹访子](./洩矢诹访子.md)
+- [RAVER'S NEST 13 TOHO RAVE PARTY](./RAVER'S_NEST_13_TOHO_RAVE_PARTY.md)该封面包含的角色：
+- [洩矢诹访子](./洩矢诹访子.md)
 
 源地址
-: [[1]](https://digital-wing.net/wordpress/wp-content/uploads/2023/12/DWCD-0071_Jacket.png)
-
-
-
-
+: [\[1\]](https://digital-wing.net/wordpress/wp-content/uploads/2023/12/DWCD-0071_Jacket.png)
 
 ---
 

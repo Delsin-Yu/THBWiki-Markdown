@@ -1,18 +1,13 @@
 # 文件:灯花サク御伽ノ殿logo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f6\ns6%3A%E7%81%AF%E8%8A%B1%E3%82%B5%E3%82%AF%E5%BE%A1%E4%BC%BD%E3%83%8E%E6%AE%BFlogo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f6\ns6%3A%E7%81%AF%E8%8A%B1%E3%82%B5%E3%82%AF%E5%BE%A1%E4%BC%BD%E3%83%8E%E6%AE%BFlogo%2Epng.html -->
 
 灯花サク御伽ノ殿 | 社团LOGO
 
 
 ## 摘要
   
-源地址：[direct image link (original size)](https://booth.pximg.net/users/6611294/icon_image/20b814e8-573c-4810-bbac-2af2aadfbdc2.png), [source page (circle Booth avatar)](https://tokagoten.booth.pm/)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://booth.pximg.net/users/6611294/icon_image/20b814e8-573c-4810-bbac-2af2aadfbdc2.png), [source page (circle Booth avatar)](https://tokagoten.booth.pm/)  
 
 ---
 

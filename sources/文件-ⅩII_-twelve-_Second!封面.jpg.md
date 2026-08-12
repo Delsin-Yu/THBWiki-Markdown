@@ -1,6 +1,6 @@
 # 文件:ⅩII_-twelve-_Second!封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b0\ns6%3A%E2%85%A9II_-twelve-_Second%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b0\ns6%3A%E2%85%A9II_-twelve-_Second%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Cardenal | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@ Cardenal | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [ⅩII -twelve- Second!](./ⅩII_-twelve-_Second!.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
-
-
-
+- [ⅩII -twelve- Second!](./ⅩII_-twelve-_Second!.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
 
 ---

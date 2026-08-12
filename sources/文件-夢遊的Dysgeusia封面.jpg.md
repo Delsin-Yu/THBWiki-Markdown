@@ -1,6 +1,6 @@
 # 文件:夢遊的Dysgeusia封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\00\ns6%3A%E5%A4%A2%E9%81%8A%E7%9A%84Dysgeusia%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\00\ns6%3A%E5%A4%A2%E9%81%8A%E7%9A%84Dysgeusia%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ぱんだ草原 | 同人志封面 | 封面图片
 
@@ -10,11 +10,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [夢遊的Dysgeusia](./夢遊的Dysgeusia.md)  
-该封面包含的角色：- [古明地觉](./古明地觉.md)- [哆来咪·苏伊特](./哆来咪·苏伊特.md)- [稀神探女](./稀神探女.md)
-
-
-
+- [夢遊的Dysgeusia](./夢遊的Dysgeusia.md)该封面包含的角色：
+- [古明地觉](./古明地觉.md)
+- [哆来咪·苏伊特](./哆来咪·苏伊特.md)
+- [稀神探女](./稀神探女.md)
 
 
 ---

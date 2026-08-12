@@ -1,6 +1,6 @@
 # 文件:Rhythmiculture封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9f\ns6%3ARhythmiculture%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9f\ns6%3ARhythmiculture%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 MNKsound | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ MNKsound | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Rhythmiculture](./Rhythmiculture.md)  
-该封面包含的角色：- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
+- [Rhythmiculture](./Rhythmiculture.md)该封面包含的角色：
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
 
   
-源地址：[[1]](http://mnksound.com/special/mnka0002/mnka0002.png)
-  
-
-
-
-
+源地址：[\[1\]](http://mnksound.com/special/mnka0002/mnka0002.png)  
 
 ---
 

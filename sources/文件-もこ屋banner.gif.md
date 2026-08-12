@@ -1,12 +1,8 @@
 # 文件:もこ屋banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\81\ns6%3A%E3%82%82%E3%81%93%E5%B1%8Bbanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\81\ns6%3A%E3%82%82%E3%81%93%E5%B1%8Bbanner%2Egif.html -->
 
 もこ屋 | 社团LOGO
-
-
-
-
 
 
 ---

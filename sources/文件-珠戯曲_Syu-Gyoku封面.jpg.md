@@ -1,6 +1,6 @@
 # 文件:珠戯曲_Syu-Gyoku封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\34\ns6%3A%E7%8F%A0%E6%88%AF%E6%9B%B2_Syu-Gyoku%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\34\ns6%3A%E7%8F%A0%E6%88%AF%E6%9B%B2_Syu-Gyoku%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 K2_SOUND | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ K2_SOUND | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [珠戯曲 Syu-Gyoku](./珠戯曲_Syu-Gyoku.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)- [少名针妙丸](./少名针妙丸.md)
-
-
-
+- [珠戯曲 Syu-Gyoku](./珠戯曲_Syu-Gyoku.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
+- [少名针妙丸](./少名针妙丸.md)
 
 
 ---

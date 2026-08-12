@@ -1,6 +1,6 @@
 # 文件:SKYSCRAPER（LAVO）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8d\ns6%3ASKYSCRAPER%EF%BC%88LAVO%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8d\ns6%3ASKYSCRAPER%EF%BC%88LAVO%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 LAVO | 专辑封面 | 封面图片
 
@@ -10,19 +10,14 @@ LAVO | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [SKYSCRAPER（LAVO）](./SKYSCRAPER（LAVO）.md)  
-该封面包含的角色：- [圣白莲](./圣白莲.md)
+- [SKYSCRAPER（LAVO）](./SKYSCRAPER（LAVO）.md)该封面包含的角色：
+- [圣白莲](./圣白莲.md)
 
   
 from TLMC scans
   
   
-textless version can be found at [Pixiv artwork ID: 9187338](https://www.pixiv.net/artworks/9187338)
-  
-
-
-
-
+textless version can be found at [Pixiv artwork ID: 9187338](https://www.pixiv.net/artworks/9187338)  
 
 ---
 

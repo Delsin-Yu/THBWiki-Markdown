@@ -1,12 +1,8 @@
 # 文件:大飴屋logo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b1\ns6%3A%E5%A4%A7%E9%A3%B4%E5%B1%8Blogo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b1\ns6%3A%E5%A4%A7%E9%A3%B4%E5%B1%8Blogo%2Epng.html -->
 
 大飴屋 | 社团LOGO
-
-
-
-
 
 
 ---

@@ -1,14 +1,11 @@
 # 文件:TATAMI_STUGIWObanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f6\ns6%3ATATAMI_STUGIWObanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f6\ns6%3ATATAMI_STUGIWObanner%2Ejpg.html -->
 
 TATAMI_STUGIWO | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

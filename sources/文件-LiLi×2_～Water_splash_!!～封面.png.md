@@ -1,6 +1,6 @@
 # 文件:LiLi×2_～Water_splash_!!～封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0d\ns6%3ALiLi%C3%972_%EF%BD%9EWater_splash_%21%21%EF%BD%9E%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0d\ns6%3ALiLi%C3%972_%EF%BD%9EWater_splash_%21%21%EF%BD%9E%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 同人志封面 | 夢見里 | 封面图片
 
@@ -10,11 +10,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [LiLi×2 ～Water splash&#160;!!～](./LiLi×2_～Water_splash_!!～.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)- [大妖精](./大妖精.md)- [莉莉霍瓦特](./莉莉霍瓦特.md)
-
-
-
+- [LiLi×2 ～Water splash !!～](./LiLi×2_～Water_splash_!!～.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
+- [大妖精](./大妖精.md)
+- [莉莉霍瓦特](./莉莉霍瓦特.md)
 
 
 ---

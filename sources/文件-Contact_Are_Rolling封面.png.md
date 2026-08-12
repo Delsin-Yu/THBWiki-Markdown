@@ -1,6 +1,6 @@
 # 文件:Contact_Are_Rolling封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\80\ns6%3AContact_Are_Rolling%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\80\ns6%3AContact_Are_Rolling%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Rolling_Contact | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ Rolling_Contact | 专辑封面 | 封面图片
   
 
 - [Contact Are Rolling](./Contact_Are_Rolling.md)
-
-
-
 
 
 ---

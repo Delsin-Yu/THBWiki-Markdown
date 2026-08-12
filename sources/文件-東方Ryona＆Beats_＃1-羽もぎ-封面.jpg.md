@@ -1,6 +1,6 @@
 # 文件:東方Ryona＆Beats_＃1-羽もぎ-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\72\ns6%3A%E6%9D%B1%E6%96%B9Ryona%EF%BC%86Beats_%EF%BC%831-%E7%BE%BD%E3%82%82%E3%81%8E-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\72\ns6%3A%E6%9D%B1%E6%96%B9Ryona%EF%BC%86Beats_%EF%BC%831-%E7%BE%BD%E3%82%82%E3%81%8E-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 yararebeats | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@ yararebeats | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方Ryona＆Beats ＃1-羽もぎ-](./東方Ryona＆Beats_＃1-羽もぎ-.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [東方Ryona＆Beats ＃1-羽もぎ-](./東方Ryona＆Beats_＃1-羽もぎ-.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
   
-源地址：[蜜瓜 (original size)](https://melonbooks.akamaized.net/upload/save_image/213001027886.jpg)
-  
-
-
-
-
+源地址：[蜜瓜 (original size)](https://melonbooks.akamaized.net/upload/save_image/213001027886.jpg)  
 
 ---
 

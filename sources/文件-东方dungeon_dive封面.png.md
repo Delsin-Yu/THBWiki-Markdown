@@ -1,6 +1,6 @@
 # 文件:东方dungeon_dive封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f6\ns6%3A%E4%B8%9C%E6%96%B9dungeon_dive%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f6\ns6%3A%E4%B8%9C%E6%96%B9dungeon_dive%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 SEVEN_VOLT | STAR_FACTORY | 东方Dungeon_Dive | 封面图片 | 授权商业二次创作手机游戏 | 软件封面
 
@@ -10,11 +10,9 @@ SEVEN_VOLT | STAR_FACTORY | 东方Dungeon_Dive | 封面图片 | 授权商业二�
 使用了本文件作封面图片的作品：
   
 
-- [东方Dungeon Dive](./东方Dungeon_Dive.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [东方Dungeon Dive](./东方Dungeon_Dive.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

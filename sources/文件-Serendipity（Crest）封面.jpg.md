@@ -1,6 +1,6 @@
 # 文件:Serendipity（Crest）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0c\ns6%3ASerendipity%EF%BC%88Crest%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0c\ns6%3ASerendipity%EF%BC%88Crest%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Crest | 专辑封面 | 封面图片
 
@@ -8,11 +8,15 @@ Crest | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Serendipity（Crest）](./Serendipity（Crest）.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)- [红美铃](./红美铃.md)- [博丽灵梦](./博丽灵梦.md)- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)- 十六夜咲夜 (未找到链接)- [八云紫](./八云紫.md)- [伊吹萃香](./伊吹萃香.md)- 原创角色 (未找到链接)
-
-
-
+- [Serendipity（Crest）](./Serendipity（Crest）.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
+- [红美铃](./红美铃.md)
+- [博丽灵梦](./博丽灵梦.md)
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
+- [十六夜咲夜](./十六夜咲夜.md)
+- [八云紫](./八云紫.md)
+- [伊吹萃香](./伊吹萃香.md)
+- 原创角色 (未找到链接)
 
 
 ---

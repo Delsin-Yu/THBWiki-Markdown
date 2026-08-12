@@ -1,6 +1,6 @@
 # 文件:絶弾奏結界_兎角宴舞曲_courante_impromptu封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d1\ns6%3A%E7%B5%B6%E5%BC%BE%E5%A5%8F%E7%B5%90%E7%95%8C_%E5%85%8E%E8%A7%92%E5%AE%B4%E8%88%9E%E6%9B%B2_courante_impromptu%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d1\ns6%3A%E7%B5%B6%E5%BC%BE%E5%A5%8F%E7%B5%90%E7%95%8C_%E5%85%8E%E8%A7%92%E5%AE%B4%E8%88%9E%E6%9B%B2_courante_impromptu%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 dBu_music | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ dBu_music | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [絶弾奏結界 兎角宴舞曲 courante impromptu](./絶弾奏結界_兎角宴舞曲_courante_impromptu.md)  
-该封面包含的角色：- [因幡帝](./因幡帝.md)- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
-
-
-
+- [絶弾奏結界 兎角宴舞曲 courante impromptu](./絶弾奏結界_兎角宴舞曲_courante_impromptu.md)该封面包含的角色：
+- [因幡帝](./因幡帝.md)
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
 
 
 ---

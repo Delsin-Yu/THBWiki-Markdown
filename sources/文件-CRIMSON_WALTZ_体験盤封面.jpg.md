@@ -1,6 +1,6 @@
 # 文件:CRIMSON_WALTZ_体験盤封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ee\ns6%3ACRIMSON_WALTZ_%E4%BD%93%E9%A8%93%E7%9B%A4%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ee\ns6%3ACRIMSON_WALTZ_%E4%BD%93%E9%A8%93%E7%9B%A4%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Undefined_Field | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ Undefined_Field | 专辑封面 | 封面图片
   
 
 - [CRIMSON WALTZ 体験盤](./CRIMSON_WALTZ_体験盤.md)
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:NESSUN_DORMA～誰も寝てはならぬ～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4a\ns6%3ANESSUN_DORMA%EF%BD%9E%E8%AA%B0%E3%82%82%E5%AF%9D%E3%81%A6%E3%81%AF%E3%81%AA%E3%82%89%E3%81%AC%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4a\ns6%3ANESSUN_DORMA%EF%BD%9E%E8%AA%B0%E3%82%82%E5%AF%9D%E3%81%A6%E3%81%AF%E3%81%AA%E3%82%89%E3%81%AC%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 小豆粥
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [NESSUN DORMA～誰も寝てはならぬ～](./NESSUN_DORMA～誰も寝てはならぬ～.md)  
-该封面包含的角色：- [八云紫](./八云紫.md)
+- [NESSUN DORMA～誰も寝てはならぬ～](./NESSUN_DORMA～誰も寝てはならぬ～.md)该封面包含的角色：
+- [八云紫](./八云紫.md)
 
   
-源地址：[[1]](https://blog-imgs-31.fc2.com/a/z/u/azukiosamitu/daremonetewanaranuhyoushi01.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://blog-imgs-31.fc2.com/a/z/u/azukiosamitu/daremonetewanaranuhyoushi01.jpg)  
 
 ---
 

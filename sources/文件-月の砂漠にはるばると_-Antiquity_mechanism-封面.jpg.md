@@ -1,6 +1,6 @@
 # 文件:月の砂漠にはるばると_-Antiquity_mechanism-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a4\ns6%3A%E6%9C%88%E3%81%AE%E7%A0%82%E6%BC%A0%E3%81%AB%E3%81%AF%E3%82%8B%E3%81%B0%E3%82%8B%E3%81%A8_-Antiquity_mechanism-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a4\ns6%3A%E6%9C%88%E3%81%AE%E7%A0%82%E6%BC%A0%E3%81%AB%E3%81%AF%E3%82%8B%E3%81%B0%E3%82%8B%E3%81%A8_-Antiquity_mechanism-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 折葉坂三番地
 
@@ -11,9 +11,6 @@
   
 
 - [月の砂漠にはるばると -Antiquity mechanism-](./月の砂漠にはるばると_-Antiquity_mechanism-.md)
-
-
-
 
 
 ---

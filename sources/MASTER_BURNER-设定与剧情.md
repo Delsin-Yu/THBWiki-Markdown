@@ -1,6 +1,6 @@
 # MASTER_BURNER/设定与剧情
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\5\51\ns0%3AMASTER_BURNER%2F%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\5\51\ns0%3AMASTER_BURNER%2F%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85.html -->
 
 D.N.A.Softwares
 
@@ -11,10 +11,6 @@ D.N.A.Softwares
 
 但在本游戏中[魔理沙](./雾雨魔理沙.md)是主人公。 在游戏中，使用用[魔理沙](./雾雨魔理沙.md)的“vulcan”和可锁定的圣诞树攻击[妖精](./妖精.md)和其他敌人，每隔几个阶段你就会遇到一个BOSS。
   
-
-
-
-
 
 ---
 

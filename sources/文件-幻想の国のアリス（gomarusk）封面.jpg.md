@@ -1,6 +1,6 @@
 # 文件:幻想の国のアリス（gomarusk）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\69\ns6%3A%E5%B9%BB%E6%83%B3%E3%81%AE%E5%9B%BD%E3%81%AE%E3%82%A2%E3%83%AA%E3%82%B9%EF%BC%88gomarusk%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\69\ns6%3A%E5%B9%BB%E6%83%B3%E3%81%AE%E5%9B%BD%E3%81%AE%E3%82%A2%E3%83%AA%E3%82%B9%EF%BC%88gomarusk%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 gomarusk | 同人志封面 | 封面图片
 
@@ -10,16 +10,13 @@ gomarusk | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [幻想の国のアリス（gomarusk）](./幻想の国のアリス（gomarusk）.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [娜兹玲](./娜兹玲.md)- [雾雨魔理沙](./雾雨魔理沙.md)
+- [幻想の国のアリス（gomarusk）](./幻想の国のアリス（gomarusk）.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [娜兹玲](./娜兹玲.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-源地址：[direct image link (max size)](https://melonbooks.akamaized.net/upload/save_image/212001094082.jpg), [source page (Melonbooks ID: 150468)](https://www.melonbooks.co.jp/detail/detail.php?product_id=150468)
-  
-
-
-
-
+源地址：[direct image link (max size)](https://melonbooks.akamaized.net/upload/save_image/212001094082.jpg), [source page (Melonbooks ID: 150468)](https://www.melonbooks.co.jp/detail/detail.php?product_id=150468)  
 
 ---
 

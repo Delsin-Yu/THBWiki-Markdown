@@ -1,12 +1,8 @@
 # 文件:Axion_Channellogo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\06\ns6%3AAxion_Channellogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\06\ns6%3AAxion_Channellogo%2Ejpg.html -->
 
 Axion_Channel | 社团LOGO
-
-
-
-
 
 
 ---

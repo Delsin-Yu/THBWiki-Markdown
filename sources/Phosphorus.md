@@ -1,12 +1,11 @@
 # Phosphorus
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\d\df\ns0%3APhosphorus.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\d\df\ns0%3APhosphorus.html -->
 
 2018年8月8日 由 Ghoulio  发布的EP同人专辑，曲目主要风格是 Rock、其他电子，内容以 火焰猫燐为题材，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人专辑 (未找到链接)** 的词条
-
+**[二次创作同人专辑](./二次创作.md#同人音乐)**的词条
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Phosphorus封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/2/24/Phosphorus%E5%B0%81%E9%9D%A2.jpg/280px-Phosphorus%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="280" height="280" srcset="https://upload.thwiki.cc/thumb/2/24/Phosphorus%E5%B0%81%E9%9D%A2.jpg/420px-Phosphorus%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/2/24/Phosphorus%E5%B0%81%E9%9D%A2.jpg/560px-Phosphorus%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1200" data-file-height="1200"></a></td>
@@ -15,31 +14,24 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://ghouliberto.bandcamp.com/album/phosphorus">https://ghouliberto.bandcamp.com/album/phosphorus</a></td></tr></tbody></table>
 
 Phosphorus（同人专辑，Ghoulio，2018） - 2018年8月8日 由 Ghoulio  发布的EP同人专辑，曲目主要风格是 Rock、其他电子，内容以 火焰猫燐为题材，分级为 一般向
-
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://ghouliberto.bandcamp.com/album/phosphorus">bandcamp</a></td></tr></tbody></table>
-
 
 
 ## Staff
   
- **Arrangement**   
+**Arrangement**  
 
-<table><tbody><tr><td><a href="./Ghoulio.md" title="Ghoulio">Ghoulio</a></td><td><a href="./Ghoulio_Deficiente.md" class="mw-redirect" title="Ghoulio Deficiente">Ghoulio Deficiente</a></td><td>Tr.1-3</td></tr></tbody></table>
-
+<table><tbody><tr><td><a href="./Ghoulio.md" title="Ghoulio">Ghoulio</a></td><td><a href="./Ghoulio.md" class="mw-redirect" title="Ghoulio Deficiente">Ghoulio Deficiente</a></td><td>Tr.1-3</td></tr></tbody></table>
 
 
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Death_Valley" colspan="2" class="title">Death Valley<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Ghoulio&amp;ogmusic=廃獄ララバイ&amp;fromwiki=Phosphorus"><span title="搜索相似同人曲"></span></a></span></td><td class="time">05:27</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Ghoulio.md" title="Ghoulio">Ghoulio</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Ghoulio，&amp;fromwiki=Phosphorus"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=廃獄ララバイ&amp;fromwiki=Phosphorus"><span></span></a></span><div class="ogmusic"><a href="./廃獄ララバイ.md" class="mw-redirect" title="廃獄ララバイ">廃獄ララバイ</a></div><div class="source"><a href="./东方地灵殿_～_Subterranean_Animism..md" class="mw-redirect" title="东方地灵殿 ～ Subterranean Animism.">东方地灵殿　～ Subterranean Animism.</a></div></td></tr>
-<tr><td id="2" class="infoO"><b>02</b></td><td id="Phosphorus" colspan="2" class="title">Phosphorus<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Ghoulio&amp;ogmusic=死体旅行　～ Be of good cheer!&amp;fromwiki=Phosphorus"><span title="搜索相似同人曲"></span></a></span></td><td class="time">06:20</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Ghoulio.md" title="Ghoulio">Ghoulio</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Ghoulio&amp;fromwiki=Phosphorus"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">初发布</td><td class="text" colspan="2"><a href="/Solar_Deity#3" title="Solar Deity">Phosphorus</a><div class="source"><a href="./Solar_Deity.md" title="Solar Deity">Solar Deity</a></div></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=死体旅行　～ Be of good cheer!&amp;fromwiki=Phosphorus"><span></span></a></span><div class="ogmusic"><a href="./死体旅行_～_Be_of_good_cheer!.md" class="mw-redirect" title="死体旅行 ～ Be of good cheer!">死体旅行　～ Be of good cheer!</a></div><div class="source"><a href="./东方地灵殿_～_Subterranean_Animism..md" class="mw-redirect" title="东方地灵殿 ～ Subterranean Animism.">东方地灵殿　～ Subterranean Animism.</a></div></td></tr>
-<tr><td id="3" class="infoYD"><b>03</b></td><td id="Phosphoric_Acid" colspan="2" class="title">Phosphoric Acid<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Ghoulio&amp;ogmusic=死体旅行　～ Be of good cheer!&amp;fromwiki=Phosphorus"><span title="搜索相似同人曲"></span></a></span></td><td class="time">06:20</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Ghoulio.md" title="Ghoulio">Ghoulio</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Ghoulio，&amp;fromwiki=Phosphorus"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=死体旅行　～ Be of good cheer!&amp;fromwiki=Phosphorus"><span></span></a></span><div class="ogmusic"><a href="./死体旅行_～_Be_of_good_cheer!.md" class="mw-redirect" title="死体旅行 ～ Be of good cheer!">死体旅行　～ Be of good cheer!</a></div><div class="source"><a href="./东方地灵殿_～_Subterranean_Animism..md" class="mw-redirect" title="东方地灵殿 ～ Subterranean Animism.">东方地灵殿　～ Subterranean Animism.</a></div></td></tr></tbody></table>
-
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Death_Valley" colspan="2" class="title">Death Valley</td><td class="time">05:27</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Ghoulio.md" title="Ghoulio">Ghoulio</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./废狱摇篮曲.md" class="mw-redirect" title="廃獄ララバイ">廃獄ララバイ</a></div><div class="source"><a href="./东方地灵殿.md" class="mw-redirect" title="东方地灵殿 ～ Subterranean Animism.">东方地灵殿　～ Subterranean Animism.</a></div></td></tr>
+<tr><td id="2" class="infoO"><b>02</b></td><td id="Phosphorus" colspan="2" class="title">Phosphorus</td><td class="time">06:20</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Ghoulio.md" title="Ghoulio">Ghoulio</a></td></tr><tr><td class="left"></td><td class="label">初发布</td><td class="text" colspan="2"><a href="./Solar_Deity.md#3" title="Solar Deity">Phosphorus</a><div class="source"><a href="./Solar_Deity.md" title="Solar Deity">Solar Deity</a></div></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./尸体旅行_～_Be_of_good_cheer!.md" class="mw-redirect" title="死体旅行 ～ Be of good cheer!">死体旅行　～ Be of good cheer!</a></div><div class="source"><a href="./东方地灵殿.md" class="mw-redirect" title="东方地灵殿 ～ Subterranean Animism.">东方地灵殿　～ Subterranean Animism.</a></div></td></tr>
+<tr><td id="3" class="infoYD"><b>03</b></td><td id="Phosphoric_Acid" colspan="2" class="title">Phosphoric Acid</td><td class="time">06:20</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Ghoulio.md" title="Ghoulio">Ghoulio</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./尸体旅行_～_Be_of_good_cheer!.md" class="mw-redirect" title="死体旅行 ～ Be of good cheer!">死体旅行　～ Be of good cheer!</a></div><div class="source"><a href="./东方地灵殿.md" class="mw-redirect" title="东方地灵殿 ～ Subterranean Animism.">东方地灵殿　～ Subterranean Animism.</a></div></td></tr></tbody></table>
 
 
 ## 评论
-
-
-
 
 ---
 

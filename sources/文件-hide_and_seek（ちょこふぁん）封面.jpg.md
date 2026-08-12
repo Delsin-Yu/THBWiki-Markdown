@@ -1,6 +1,6 @@
 # 文件:hide_and_seek（ちょこふぁん）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4f\ns6%3Ahide_and_seek%EF%BC%88%E3%81%A1%E3%82%87%E3%81%93%E3%81%B5%E3%81%81%E3%82%93%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4f\ns6%3Ahide_and_seek%EF%BC%88%E3%81%A1%E3%82%87%E3%81%93%E3%81%B5%E3%81%81%E3%82%93%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ちょこふぁん | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [hide and seek（ちょこふぁん）](./hide_and_seek（ちょこふぁん）.md)  
-该封面包含的角色：- [依神女苑](./依神女苑.md)- [依神紫苑](./依神紫苑.md)
-
-
-
+- [hide and seek（ちょこふぁん）](./hide_and_seek（ちょこふぁん）.md)该封面包含的角色：
+- [依神女苑](./依神女苑.md)
+- [依神紫苑](./依神紫苑.md)
 
 
 ---

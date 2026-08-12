@@ -1,12 +1,8 @@
 # 文件:WAVE_banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f2\ns6%3AWAVE_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f2\ns6%3AWAVE_banner%2Ejpg.html -->
 
 WAVE | 社团LOGO
-
-
-
-
 
 
 ---

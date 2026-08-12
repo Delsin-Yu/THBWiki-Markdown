@@ -1,6 +1,6 @@
 # 文件:Re：Imagination_instrumental_side_Amateras_Records_Exclusive_Disc_2012_Winter封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b4\ns6%3ARe%EF%BC%9AImagination_instrumental_side_Amateras_Records_Exclusive_Disc_2012_Winter%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b4\ns6%3ARe%EF%BC%9AImagination_instrumental_side_Amateras_Records_Exclusive_Disc_2012_Winter%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Amateras_Records | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Amateras_Records | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Re：Imagination instrumental side Amateras Records Exclusive Disc 2012 Winter](./Re：Imagination_instrumental_side_Amateras_Records_Exclusive_Disc_2012_Winter.md)  
-该封面包含的角色：- [圣白莲](./圣白莲.md)
-
-
-
+- [Re：Imagination instrumental side Amateras Records Exclusive Disc 2012 Winter](./Re：Imagination_instrumental_side_Amateras_Records_Exclusive_Disc_2012_Winter.md)该封面包含的角色：
+- [圣白莲](./圣白莲.md)
 
 
 ---

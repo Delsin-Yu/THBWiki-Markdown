@@ -1,11 +1,10 @@
 # 东方外来韦编/壱/东方Project年表
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\4f\ns0%3A%E4%B8%9C%E6%96%B9%E5%A4%96%E6%9D%A5%E9%9F%A6%E7%BC%96%2F%E5%A3%B1%2F%E4%B8%9C%E6%96%B9Project%E5%B9%B4%E8%A1%A8.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\4f\ns0%3A%E4%B8%9C%E6%96%B9%E5%A4%96%E6%9D%A5%E9%9F%A6%E7%BC%96%2F%E5%A3%B1%2F%E4%B8%9C%E6%96%B9Project%E5%B9%B4%E8%A1%A8.html -->
 
 东方外来韦编 | 待完成页面
 
 <center>
-
 <table>
 <tbody><tr>
 <td class="mbox-image"><div style="width: 52px;">
@@ -14,20 +13,14 @@
 </tr>
 </tbody></table>
 
-
 </center>
 - 该内容于杂志中页数：56-59
 
   
-<big> **东方Project年表** </big>  
-
- **2015年是『东方花映塚』颁布10周年。10年前かと驚く人、この10年に思いを馳せる人。**   
-
- **時間は歴史であり、歴史は自分を映す。ここでは、東方Project各作品の発表や頒布時期を中心に、**   
-
- **『東方霊異伝』発表からの20年の年表を揭載。東方Projectの歴史から、自身の半生を追体験してほしい。** 
-  
-
+<big>**东方Project年表**</big>  
+**2015年是『东方花映塚』颁布10周年。10年前かと驚く人、この10年に思いを馳せる人。**  
+**時間は歴史であり、歴史は自分を映す。ここでは、東方Project各作品の発表や頒布時期を中心に、**  
+**『東方霊異伝』発表からの20年の年表を揭載。東方Projectの歴史から、自身の半生を追体験してほしい。**  
 
 <table>
 
@@ -165,7 +158,7 @@
 <td><span style="color:red;">DOS/V POWER REPORT9月号（Impress）附带CD-ROM中收录了『红魔乡』体验版Ver.0.08+</span></td>
 <td></td>
 <td></td>
-<td>帕秋莉·诺蕾姬／十六夜咲夜／蕾米莉亚·斯卡蕾特／芙兰朵露·斯卡蕾特<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">1</a></sup>
+<td>帕秋莉·诺蕾姬／十六夜咲夜／蕾米莉亚·斯卡蕾特／芙兰朵露·斯卡蕾特<span>[^cite_note-1]</span>
 </td></tr>
 <tr>
 <td rowspan="2">8</td>
@@ -645,7 +638,7 @@
 <td></td>
 <td></td>
 <td></td>
-<td>琪斯美／黑谷山女／水桥帕露西／古明地觉<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">2</a></sup>
+<td>琪斯美／黑谷山女／水桥帕露西／古明地觉<span>[^cite_note-2]</span>
 </td></tr>
 <tr>
 <td>「东方绯想天」颁布</td>
@@ -698,7 +691,7 @@
 <td></td>
 <td></td>
 <td></td>
-<td>娜兹玲／多多良小伞／云居一轮&amp;云山
+<td>娜兹玲／多多良小伞／云居一轮&云山
 </td></tr>
 <tr>
 <td>7</td>
@@ -807,7 +800,7 @@
 <td>5</td>
 <td></td>
 <td></td>
-<td>NHK「MAG・NET ～漫画・动画・游戏的现场～」第5回的东方专集<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">3</a></sup></td>
+<td>NHK「MAG・NET ～漫画・动画・游戏的现场～」第5回的东方专集<span>[^cite_note-3]</span></td>
 <td></td>
 <td></td>
 <td>
@@ -1274,7 +1267,7 @@
 <td></td>
 <td></td>
 <td></td>
-<td>宇佐美堇子<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">4</a></sup>
+<td>宇佐美堇子<span>[^cite_note-4]</span>
 </td></tr>
 <tr>
 <td>8</td>
@@ -1292,16 +1285,14 @@
 <td></td>
 <td></td>
 <td></td>
-<td>稀神探女／克劳恩皮丝／纯狐／赫卡提亚·拉碧斯拉祖利<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">5</a></sup>
+<td>稀神探女／克劳恩皮丝／纯狐／赫卡提亚·拉碧斯拉祖利<span>[^cite_note-5]</span>
 </td></tr></tbody></table>
 
-
-
 [^cite_note-1]: 原文位置如此
-
-
-
-
+[^cite_note-2]: 原文位置如此
+[^cite_note-3]: 原文没标明红色
+[^cite_note-4]: 原文如此，原文位置如此
+[^cite_note-5]: 原文位置如此
 
 ---
 

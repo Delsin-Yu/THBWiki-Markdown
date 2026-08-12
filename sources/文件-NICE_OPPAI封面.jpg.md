@@ -1,6 +1,6 @@
 # 文件:NICE_OPPAI封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\92\ns6%3ANICE_OPPAI%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\92\ns6%3ANICE_OPPAI%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 dat_file_records | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ dat_file_records | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [NICE OPPAI](./NICE_OPPAI.md)  
-该封面包含的角色：- [茨木华扇](./茨木华扇.md)
+- [NICE OPPAI](./NICE_OPPAI.md)该封面包含的角色：
+- [茨木华扇](./茨木华扇.md)
 
   
-源地址：[[1]](http://cdn-ak.f.st-hatena.com/images/fotolife/k/kusakage46/20120929/20120929000044_original.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://cdn-ak.f.st-hatena.com/images/fotolife/k/kusakage46/20120929/20120929000044_original.jpg)  
 
 ---
 

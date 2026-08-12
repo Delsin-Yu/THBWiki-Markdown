@@ -1,6 +1,6 @@
 # 文件:SUPER_MUSIC_SELECTIONS_Vol.01封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ab\ns6%3ASUPER_MUSIC_SELECTIONS_Vol%2E01%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ab\ns6%3ASUPER_MUSIC_SELECTIONS_Vol%2E01%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Crazy_Beats | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Crazy_Beats | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [SUPER MUSIC SELECTIONS Vol.01](./SUPER_MUSIC_SELECTIONS_Vol.01.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [SUPER MUSIC SELECTIONS Vol.01](./SUPER_MUSIC_SELECTIONS_Vol.01.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:THBWiki-LOGO-琪露诺.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d3\ns6%3ATHBWiki-LOGO-%E7%90%AA%E9%9C%B2%E8%AF%BA%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d3\ns6%3ATHBWiki-LOGO-%E7%90%AA%E9%9C%B2%E8%AF%BA%2Epng.html -->
 
 THBWiki | Wiki词条分类用图
-
-
-
-
 
 
 ---

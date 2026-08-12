@@ -1,6 +1,6 @@
 # 文件:Fairy_Tale_-フェアリー・テイル-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\12\ns6%3AFairy_Tale_-%E3%83%95%E3%82%A7%E3%82%A2%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%86%E3%82%A4%E3%83%AB-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\12\ns6%3AFairy_Tale_-%E3%83%95%E3%82%A7%E3%82%A2%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%86%E3%82%A4%E3%83%AB-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 彩音_～xi-on～
 
@@ -8,11 +8,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [Fairy Tale -フェアリー・テイル-](./Fairy_Tale_-フェアリー・テイル-.md)  
-该封面包含的角色：- [露娜切露德](./露娜切露德.md)- [桑尼米尔克](./桑尼米尔克.md)- [斯塔萨菲雅](./斯塔萨菲雅.md)
-
-
-
+- [Fairy Tale -フェアリー・テイル-](./Fairy_Tale_-フェアリー・テイル-.md)该封面包含的角色：
+- [露娜切露德](./露娜切露德.md)
+- [桑尼米尔克](./桑尼米尔克.md)
+- [斯塔萨菲雅](./斯塔萨菲雅.md)
 
 
 ---

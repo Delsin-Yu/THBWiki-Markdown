@@ -1,6 +1,6 @@
 # 文件:Cosmic_Border封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7e\ns6%3ACosmic_Border%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7e\ns6%3ACosmic_Border%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Destination_Manufacture_Records | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Destination_Manufacture_Records | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Cosmic Border](./Cosmic_Border.md)  
-该封面包含的角色：- [西行寺幽幽子](./西行寺幽幽子.md)
-
-
-
+- [Cosmic Border](./Cosmic_Border.md)该封面包含的角色：
+- [西行寺幽幽子](./西行寺幽幽子.md)
 
 
 ---

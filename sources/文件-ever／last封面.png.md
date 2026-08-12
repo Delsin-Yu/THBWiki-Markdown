@@ -1,6 +1,6 @@
 # 文件:ever／last封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2d\ns6%3Aever%EF%BC%8Flast%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2d\ns6%3Aever%EF%BC%8Flast%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 MatsuYani | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ MatsuYani | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [ever／last](./ever／last.md)  
-该封面包含的角色：- [藤原妹红](./藤原妹红.md)
-
-
-
+- [ever／last](./ever／last.md)该封面包含的角色：
+- [藤原妹红](./藤原妹红.md)
 
 
 ---

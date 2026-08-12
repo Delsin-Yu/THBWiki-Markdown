@@ -1,76 +1,50 @@
 # R／K_Project
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\9\96\ns0%3AR%EF%BC%8FK_Project.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\9\96\ns0%3AR%EF%BC%8FK_Project.html -->
 
 R/K Project ，于 2010 年成立，主要制作 同人音乐 的日本同人社团，主催是 Raiki，Keeth，当前状态为 休止
 
-本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
-
+本页是关于**[同人社团](./二次创作.md#同人社团)**的词条
 ## 目录
 
 - [1 社团信息](#社团信息)
 - [2 成员名单](#成员名单)
 - [3 作品列表](#作品列表)
-
   - [3.1 同人专辑](#同人专辑)
-
 
 
 - [4 参展信息](#参展信息)
 
 
-
-
-
 ## 社团信息
-[](./文件-R／K_Projectbanner.png.md)  [](./文件-R／K_Projectbanner.png.md)banner
-
-<table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> R/K Project </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2010</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=Raiki&amp;action=edit&amp;redlink=1" class="new" title="Raiki（页面不存在）">Raiki</a> <br> <a href="/index.php?title=Keeth&amp;action=edit&amp;redlink=1" class="new" title="Keeth（页面不存在）">Keeth</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://r44kproject.web.fc2.com/">http://r44kproject.web.fc2.com/</a> <br><a rel="nofollow" class="external free" href="https://soundcloud.com/rkproject">https://soundcloud.com/rkproject</a></td></tr></tbody></table>
+<img alt="" src="https://upload.thwiki.cc/b/b7/R%EF%BC%8FK_Projectbanner.png" decoding="async" loading="lazy" width="200" height="40" class="thumbimage" data-file-width="200" data-file-height="40">
+ [放大](./文件-R／K_Projectbanner.png.md)banner
+<table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> R/K Project </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2010</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>主催</b></td><td> <a class="new" title="Raiki（页面不存在）">Raiki</a> <br> <a class="new" title="Keeth（页面不存在）">Keeth</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://r44kproject.web.fc2.com/">http://r44kproject.web.fc2.com/</a> <br><a rel="nofollow" class="external free" href="https://soundcloud.com/rkproject">https://soundcloud.com/rkproject</a></td></tr></tbody></table>
 
 R／K Project（同人社团，同人音乐社团） - R/K Project ，于 2010 年成立，主要制作 同人音乐 的日本同人社团，主催是 Raiki，Keeth，当前状态为 休止
-
 ## 成员名单
-- Raiki (未找到链接)&#160;: Vocals, Guitar, Web
-- Keeth (未找到链接)&#160;: Vocals, Bass
-- hiroshi (未找到链接)&#160;: Drums, Mixing
-- ゆかち (未找到链接)&#160;: Vocals
+
+- Raiki (未找到链接) : Vocals, Guitar, Web
+- Keeth (未找到链接) : Vocals, Bass
+- hiroshi (未找到链接) : Drums, Mixing
+- ゆかち (未找到链接) : Vocals
 
 
 ## 作品列表
 
 ### 同人专辑
-[](./Invisible_Order.md)[Invisible Order](./Invisible_Order.md)首发日期：2011-05-08 （第八回 博麗神社例大祭 (未找到链接)）PKPR-001EP （一般向）[](./Eight_Of_Standard.md)[Eight Of Standard](./Eight_Of_Standard.md)首发日期：2011-12-30 （Comic Market 81 (未找到链接)）RKPR-002EP （一般向）[](./Excursion_to_the_East.md)[Excursion to the East](./Excursion_to_the_East.md)首发日期：2012-05-27 （第九回 博麗神社例大祭 (未找到链接)）RKPR-003EP （一般向）[](./Re：vival.md)[Re：vival](./Re：vival.md)首发日期：2013-01-27 （遊音ファンタジウム2 (未找到链接)）EP、​精选集 （一般向）[](./Crimson_Septet.md)[Crimson Septet](./Crimson_Septet.md)首发日期：2013-08-12 （Comic Market 84 (未找到链接)）RKPR-004全长 （一般向）[](./Eternal_Prayer（R／K_Project）.md)[Eternal Prayer](./Eternal_Prayer（R／K_Project）.md)首发日期：2014-05-11 （第十一回 博麗神社例大祭 (未找到链接)）RKPR-005全长 （一般向）[](./Time_Line.md)[Time Line](./Time_Line.md)首发日期：2014-08-16 （Comic Market 86 (未找到链接)）RKPR-006EP （一般向）[](./Shining_Shooters.md)[Shining Shooters](./Shining_Shooters.md)首发日期：2016-05-08 （第十三回 博麗神社例大祭 (未找到链接)）EP （一般向）
-<table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
-
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
-
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
-
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
-
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
-
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
-
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
-
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
-</table>
-
-
+- **[Invisible Order](./Invisible_Order.md)** — 首发日期：2011-05-08 （第八回 博麗神社例大祭）；PKPR-001；EP （一般向）
+- **[Eight Of Standard](./Eight_Of_Standard.md)** — 首发日期：2011-12-30 （Comic Market 81）；RKPR-002；EP （一般向）
+- **[Excursion to the East](./Excursion_to_the_East.md)** — 首发日期：2012-05-27 （第九回 博麗神社例大祭）；RKPR-003；EP （一般向）
+- **[Re：vival](./Re：vival.md)** — 首发日期：2013-01-27 （遊音ファンタジウム2）；EP、​精选集 （一般向）
+- **[Crimson Septet](./Crimson_Septet.md)** — 首发日期：2013-08-12 （Comic Market 84）；RKPR-004；全长 （一般向）
+- **[Eternal Prayer](./Eternal_Prayer（R／K_Project）.md)** — 首发日期：2014-05-11 （第十一回 博麗神社例大祭）；RKPR-005；全长 （一般向）
+- **[Time Line](./Time_Line.md)** — 首发日期：2014-08-16 （Comic Market 86）；RKPR-006；EP （一般向）
+- **[Shining Shooters](./Shining_Shooters.md)** — 首发日期：2016-05-08 （第十三回 博麗神社例大祭）；EP （一般向）
 
 ## 参展信息
 
-<table><tbody><tr><th class="活动页面">活动页面</th><th class="活动名称">活动名称</th><th class="日期">日期</th><th class="举办地点">举办地点</th><th class="摊位编号">摊位编号</th><th class="宣传页面">宣传页面</th><th class="备注">备注</th></tr><tr data-row-number="1" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD#13" title="博丽神社例大祭">博丽神社例大祭#13</a></span></td><td class="活动名称 smwtype_txt">第十三回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2457516.5">2016-05-08</td><td class="举办地点 smwtype_txt">东京Big Sight 东123456展厅</td><td class="摊位编号 smwtype_txt">M10a</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="2" class="row-even"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD#11" title="博丽神社例大祭">博丽神社例大祭#11</a></span></td><td class="活动名称 smwtype_txt">第十一回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2456788.5">2014-05-11</td><td class="举办地点 smwtype_txt">东京Big Sight 东123456展厅</td><td class="摊位编号 smwtype_txt">え26b</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="3" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD#10" title="博丽神社例大祭">博丽神社例大祭#10</a></span></td><td class="活动名称 smwtype_txt">第十回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2456438.5">2013-05-26</td><td class="举办地点 smwtype_txt">东京Big Sight 东123456展厅</td><td class="摊位编号 smwtype_txt">C38b</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr></tbody></table>
-
-
-  
-  
-
-  
-
-
-
+<table><tbody><tr><th class="活动页面">活动页面</th><th class="活动名称">活动名称</th><th class="日期">日期</th><th class="举办地点">举办地点</th><th class="摊位编号">摊位编号</th><th class="宣传页面">宣传页面</th><th class="备注">备注</th></tr><tr data-row-number="1" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="./博丽神社例大祭.md#13" title="博丽神社例大祭">博丽神社例大祭#13</a></span></td><td class="活动名称 smwtype_txt">第十三回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2457516.5">2016-05-08</td><td class="举办地点 smwtype_txt">东京Big Sight 东123456展厅</td><td class="摊位编号 smwtype_txt">M10a</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="2" class="row-even"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="./博丽神社例大祭.md#11" title="博丽神社例大祭">博丽神社例大祭#11</a></span></td><td class="活动名称 smwtype_txt">第十一回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2456788.5">2014-05-11</td><td class="举办地点 smwtype_txt">东京Big Sight 东123456展厅</td><td class="摊位编号 smwtype_txt">え26b</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="3" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="./博丽神社例大祭.md#10" title="博丽神社例大祭">博丽神社例大祭#10</a></span></td><td class="活动名称 smwtype_txt">第十回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2456438.5">2013-05-26</td><td class="举办地点 smwtype_txt">东京Big Sight 东123456展厅</td><td class="摊位编号 smwtype_txt">C38b</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr></tbody></table>
 
 
 ---

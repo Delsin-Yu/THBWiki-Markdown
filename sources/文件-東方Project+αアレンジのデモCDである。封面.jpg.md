@@ -1,6 +1,6 @@
 # 文件:東方Project+αアレンジのデモCDである。封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e2\ns6%3A%E6%9D%B1%E6%96%B9Project%2B%CE%B1%E3%82%A2%E3%83%AC%E3%83%B3%E3%82%B8%E3%81%AE%E3%83%87%E3%83%A2CD%E3%81%A7%E3%81%82%E3%82%8B%E3%80%82%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e2\ns6%3A%E6%9D%B1%E6%96%B9Project%2B%CE%B1%E3%82%A2%E3%83%AC%E3%83%B3%E3%82%B8%E3%81%AE%E3%83%87%E3%83%A2CD%E3%81%A7%E3%81%82%E3%82%8B%E3%80%82%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ShibayanRecords | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ ShibayanRecords | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方Project+αアレンジのデモCDである。](./東方Project+αアレンジのデモCDである。.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)- [橙](./橙.md)
-
-
-
+- [東方Project+αアレンジのデモCDである。](./東方Project+αアレンジのデモCDである。.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [橙](./橙.md)
 
 
 ---

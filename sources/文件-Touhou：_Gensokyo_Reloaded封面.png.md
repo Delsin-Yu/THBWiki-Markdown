@@ -1,6 +1,6 @@
 # 文件:Touhou：_Gensokyo_Reloaded封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b3\ns6%3ATouhou%EF%BC%9A_Gensokyo_Reloaded%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b3\ns6%3ATouhou%EF%BC%9A_Gensokyo_Reloaded%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 GR_Dev_Team | 封面图片 | 软件封面
 
@@ -10,16 +10,12 @@ GR_Dev_Team | 封面图片 | 软件封面
 使用了本文件作封面图片的作品：
   
 
-- [Touhou： Gensokyo Reloaded](./Touhou：_Gensokyo_Reloaded.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
+- [Touhou： Gensokyo Reloaded](./Touhou：_Gensokyo_Reloaded.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
   
 源地址：[game logo from the Touhou RP Series Fandom Wiki](https://thrp.fandom.com/wiki/Touhou:_Gensokyo_Reloaded), converted from svg
   
-
-
-
-
 
 ---
 

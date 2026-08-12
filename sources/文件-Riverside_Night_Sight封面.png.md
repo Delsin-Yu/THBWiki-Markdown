@@ -1,6 +1,6 @@
 # 文件:Riverside_Night_Sight封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\af\ns6%3ARiverside_Night_Sight%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\af\ns6%3ARiverside_Night_Sight%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Yabai_Ongaku_Records | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@ Yabai_Ongaku_Records | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Riverside Night Sight](./Riverside_Night_Sight.md)  
-该封面包含的角色：- [河城荷取](./河城荷取.md)
+- [Riverside Night Sight](./Riverside_Night_Sight.md)该封面包含的角色：
+- [河城荷取](./河城荷取.md)
 
   
-[Pixiv artwork ID: 64484367 (original size)](https://www.pixiv.net/artworks/64484367)
-  
-
-
-
-
+[Pixiv artwork ID: 64484367 (original size)](https://www.pixiv.net/artworks/64484367)  
 
 ---
 

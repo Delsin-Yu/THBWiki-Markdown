@@ -1,12 +1,11 @@
 # Hecataker_～東方紺珠伝～
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\a\a9\ns0%3AHecataker_%EF%BD%9E%E6%9D%B1%E6%96%B9%E7%B4%BA%E7%8F%A0%E4%BC%9D%EF%BD%9E.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\a\a9\ns0%3AHecataker_%EF%BD%9E%E6%9D%B1%E6%96%B9%E7%B4%BA%E7%8F%A0%E4%BC%9D%EF%BD%9E.html -->
 
 2021年7月21日 由 ルナティック少年院  发布的PUZ同人游戏，可在 Windows 系统上运行，游戏人数为 单人模式，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人软件 (未找到链接)** 的词条
-
+**[二次创作同人软件](./二次创作.md#同人软件)**的词条
 ## 目录
 
 - [1 软件信息](#软件信息)
@@ -14,9 +13,6 @@
 - [3 内容页面](#内容页面)
 - [4 评论](#评论)
 - [5 下载](#下载)
-
-
-
 
 
 ## 软件信息
@@ -27,9 +23,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/warugaki9841/status/1418181440961880068">https://twitter.com/warugaki9841/status/1418181440961880068</a></td></tr><tr><td class="label">备注</td><td colspan="2"><a href="https://zh.wikipedia.org/wiki/Helltaker" class="extiw" title="wzh:Helltaker">Helltaker</a> × 東方project</td></tr></tbody></table>
 
 Hecataker ～東方紺珠伝～（同人游戏，ルナティック少年院，2021） - 2021年7月21日 由 ルナティック少年院  发布的PUZ同人游戏，可在 Windows 系统上运行，游戏人数为 单人模式，分级为 一般向
-
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://shounennin.booth.pm/items/3140251">BoothDL版</a></td></tr></tbody></table>
-
 
 
 <table>
@@ -38,24 +32,21 @@ Hecataker ～東方紺珠伝～（同人游戏，ルナティック少年院，2
 </tbody></table>
 
 
-
 ## Staff
 程序、绘画
 : 悪餓鬼
 BGM
 : Mittsies様
 
-
 ## 内容页面
+
 - [使用说明](./Hecataker_～東方紺珠伝～-说明.md)
 - [其他信息](./Hecataker_～東方紺珠伝～-杂项.md)
 
 
 ## 评论
-
   
 Helltakerが好き過ぎたので自分でも作ってみました。  
-
   
 
 本作は「Helltaker」×「東方project」の二次創作です。原作者様とは一切関係ありません。  
@@ -63,14 +54,10 @@ Helltakerが好き過ぎたので自分でも作ってみました。
 This is a Fan Fiction of "Helltaker" x "Touhou Project".It has nothing to do with the original author.
   
 
-
-
 ## 下载
   
 请注意：  
- **所有的二次同人软件的下载地址均为站外资源，本站并不保证其来源的合法性以及资源的有效性和安全性** 
-  
-
+**所有的二次同人软件的下载地址均为站外资源，本站并不保证其来源的合法性以及资源的有效性和安全性**  
 
 <table>
 
@@ -80,11 +67,6 @@ This is a Fan Fiction of "Helltaker" x "Touhou Project".It has nothing to do wit
 <tr>
 <td><a rel="nofollow" class="external text" href="https://www.bilibili.com/video/BV1Xy4y1j7DP">东游鉴汉化组汉化</a>
 </td></tr></tbody></table>
-
-
-
-
-
 
 
 ---

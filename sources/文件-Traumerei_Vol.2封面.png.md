@@ -1,6 +1,6 @@
 # 文件:Traumerei_Vol.2封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d3\ns6%3ATraumerei_Vol%2E2%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d3\ns6%3ATraumerei_Vol%2E2%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 同人志封面 | 封面图片 | 黒獅子帝
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Traumerei Vol.2](./Traumerei_Vol.2.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
+- [Traumerei Vol.2](./Traumerei_Vol.2.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-[Pixiv artwork ID: 43234701 (original size)](https://www.pixiv.net/artworks/43234701)
-  
-
-
-
-
+[Pixiv artwork ID: 43234701 (original size)](https://www.pixiv.net/artworks/43234701)  
 
 ---
 

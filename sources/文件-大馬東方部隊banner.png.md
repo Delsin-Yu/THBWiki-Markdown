@@ -1,12 +1,8 @@
 # 文件:大馬東方部隊banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\03\ns6%3A%E5%A4%A7%E9%A6%AC%E6%9D%B1%E6%96%B9%E9%83%A8%E9%9A%8Abanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\03\ns6%3A%E5%A4%A7%E9%A6%AC%E6%9D%B1%E6%96%B9%E9%83%A8%E9%9A%8Abanner%2Epng.html -->
 
 大馬東方部隊 | 社团LOGO
-
-
-
-
 
 
 ---

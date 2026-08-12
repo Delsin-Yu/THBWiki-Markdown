@@ -1,16 +1,12 @@
 # 文件:THD2奇美拉三叉戟.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\25\ns6%3ATHD2%E5%A5%87%E7%BE%8E%E6%8B%89%E4%B8%89%E5%8F%89%E6%88%9F%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\25\ns6%3ATHD2%E5%A5%87%E7%BE%8E%E6%8B%89%E4%B8%89%E5%8F%89%E6%88%9F%2Ejpg.html -->
 
 东方DOTS玩家社群
 
   
 THD2奇美拉三叉戟
   
-
-
-
-
 
 ---
 

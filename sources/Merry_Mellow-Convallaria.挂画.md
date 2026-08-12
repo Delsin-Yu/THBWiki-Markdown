@@ -1,38 +1,30 @@
 # Merry_Mellow/Convallaria.挂画
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\3\33\ns0%3AMerry_Mellow%2FConvallaria%2E%E6%8C%82%E7%94%BB.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\3\33\ns0%3AMerry_Mellow%2FConvallaria%2E%E6%8C%82%E7%94%BB.html -->
 
 2022年8月20日 由 Merry Mellow 于 COMICUP2022SP 发布的挂画周边，分级为 一般向
 
 本页是关于东方Project  
- **相关实体周边 (未找到链接)** 的词条
-
+**相关实体周边 (未找到链接)**的词条
 ## 目录
 
 - [1 周边信息](#周边信息)
 - [2 参考图](#参考图)
-
   - [2.1 预览图](#预览图)
   - [2.2 实物图](#实物图)
-
 
 
 - [3 Staff](#Staff)
 - [4 评论](#评论)
 
 
-
-
-
 ## 周边信息
 
-<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> Convallaria.挂画 </td></tr><tr><td class="label">制作方</td><td><a href="./Merry_Mellow.md" title="Merry Mellow">Merry Mellow</a></td></tr><tr><td class="label">首发日期</td><td>2022-08-20&#160;（<a href="/展会作品列表?e=COMICUP%232022SP">COMICUP2022SP</a>）</td></tr><tr><td class="label">类型</td><td>挂画</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>B2</td></tr><tr><td class="label">材质</td><td>绸缎</td></tr><tr><td class="label">角色</td><td><a href="./梅蒂欣·梅兰可莉.md" title="梅蒂欣·梅兰可莉">梅蒂欣·梅兰可莉</a></td></tr><tr><td class="label">售价</td><td>会场售价：80人民币<br>通贩售价：80人民币</td></tr>
+<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> Convallaria.挂画 </td></tr><tr><td class="label">制作方</td><td><a href="./Merry_Mellow.md" title="Merry Mellow">Merry Mellow</a></td></tr><tr><td class="label">首发日期</td><td>2022-08-20 （<a href="./展会作品列表.md#2022SP">COMICUP2022SP</a>）</td></tr><tr><td class="label">类型</td><td>挂画</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>B2</td></tr><tr><td class="label">材质</td><td>绸缎</td></tr><tr><td class="label">角色</td><td><a href="./梅蒂欣·梅兰可莉.md" title="梅蒂欣·梅兰可莉">梅蒂欣·梅兰可莉</a></td></tr><tr><td class="label">售价</td><td>会场售价：80人民币<br>通贩售价：80人民币</td></tr>
 <tr><td class="label">官网页面</td><td><a rel="nofollow" class="external free" href="https://t.bilibili.com/696072104013987909">https://t.bilibili.com/696072104013987909</a><br><a rel="nofollow" class="external free" href="https://t.bilibili.com/693823838946852867">https://t.bilibili.com/693823838946852867</a></td></tr></tbody></table>
 
 Merry Mellow/Convallaria.挂画（周边，Merry Mellow，2022） - 2022年8月20日 由 Merry Mellow 于 COMICUP2022SP 发布的挂画周边，分级为 一般向
-
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://item.taobao.com/item.htm?id=683202247627">淘宝（已下架）</a></td></tr></tbody></table>
-
 
 
 ## 参考图
@@ -40,21 +32,19 @@ Merry Mellow/Convallaria.挂画（周边，Merry Mellow，2022） - 2022年8月2
 周边宣传、售卖时使用的作为参考图的预览图或实物图的图片。
   
 
-
 ### 预览图
-- [](./文件-Merry_Mellow／Convallaria.挂画预览图1.png.md)
+
+- <img alt="Merry Mellow／Convallaria.挂画预览图1.png" src="https://upload.thwiki.cc/thumb/5/54/Merry_Mellow%EF%BC%8FConvallaria.%E6%8C%82%E7%94%BB%E9%A2%84%E8%A7%88%E5%9B%BE1.png/271px-Merry_Mellow%EF%BC%8FConvallaria.%E6%8C%82%E7%94%BB%E9%A2%84%E8%A7%88%E5%9B%BE1.png" decoding="async" loading="lazy" width="181" height="250" srcset="https://upload.thwiki.cc/5/54/Merry_Mellow%EF%BC%8FConvallaria.%E6%8C%82%E7%94%BB%E9%A2%84%E8%A7%88%E5%9B%BE1.png 1.5x" data-file-width="369" data-file-height="511"> 
 
 
 ### 实物图
 
 ## Staff
+
 - [金森めい](./金森めい.md)
 
 
 ## 评论
-
-
-
 
 ---
 

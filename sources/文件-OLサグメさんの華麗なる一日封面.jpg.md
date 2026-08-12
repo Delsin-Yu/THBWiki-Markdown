@@ -1,6 +1,6 @@
 # 文件:OLサグメさんの華麗なる一日封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ae\ns6%3AOL%E3%82%B5%E3%82%B0%E3%83%A1%E3%81%95%E3%82%93%E3%81%AE%E8%8F%AF%E9%BA%97%E3%81%AA%E3%82%8B%E4%B8%80%E6%97%A5%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ae\ns6%3AOL%E3%82%B5%E3%82%B0%E3%83%A1%E3%81%95%E3%82%93%E3%81%AE%E8%8F%AF%E9%BA%97%E3%81%AA%E3%82%8B%E4%B8%80%E6%97%A5%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 シュガレット | 同人志封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [OLサグメさんの華麗なる一日](./OLサグメさんの華麗なる一日.md)  
-该封面包含的角色：- [稀神探女](./稀神探女.md)
-
-
-
+- [OLサグメさんの華麗なる一日](./OLサグメさんの華麗なる一日.md)该封面包含的角色：
+- [稀神探女](./稀神探女.md)
 
 
 ---

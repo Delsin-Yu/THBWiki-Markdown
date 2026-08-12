@@ -1,6 +1,6 @@
 # 文件:Purple_and_Cherry_Ghost封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\48\ns6%3APurple_and_Cherry_Ghost%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\48\ns6%3APurple_and_Cherry_Ghost%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 星屑コンテナ
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Purple and Cherry Ghost](./Purple_and_Cherry_Ghost.md)  
-该封面包含的角色：- [八云紫](./八云紫.md)
-
-
-
+- [Purple and Cherry Ghost](./Purple_and_Cherry_Ghost.md)该封面包含的角色：
+- [八云紫](./八云紫.md)
 
 
 ---

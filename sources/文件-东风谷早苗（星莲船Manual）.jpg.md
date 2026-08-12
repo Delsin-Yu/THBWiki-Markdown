@@ -1,12 +1,8 @@
 # 文件:东风谷早苗（星莲船Manual）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\76\ns6%3A%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9Manual%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\76\ns6%3A%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9Manual%EF%BC%89%2Ejpg.html -->
 
 Manual配图 | 东方星莲船 | 东风谷早苗
-
-
-
-
 
 
 ---

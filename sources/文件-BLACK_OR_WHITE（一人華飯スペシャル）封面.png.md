@@ -1,6 +1,6 @@
 # 文件:BLACK_OR_WHITE（一人華飯スペシャル）封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\64\ns6%3ABLACK_OR_WHITE%EF%BC%88%E4%B8%80%E4%BA%BA%E8%8F%AF%E9%A3%AF%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\64\ns6%3ABLACK_OR_WHITE%EF%BC%88%E4%B8%80%E4%BA%BA%E8%8F%AF%E9%A3%AF%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 一人華飯スペシャル | 专辑封面 | 封面图片
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [BLACK OR WHITE（一人華飯スペシャル）](./BLACK_OR_WHITE（一人華飯スペシャル）.md)  
-该封面包含的角色：- [雪](./雪.md)- [舞](./舞.md)
-
-
-
+- [BLACK OR WHITE（一人華飯スペシャル）](./BLACK_OR_WHITE（一人華飯スペシャル）.md)该封面包含的角色：
+- [雪](./雪.md)
+- [舞](./舞.md)
 
 
 ---

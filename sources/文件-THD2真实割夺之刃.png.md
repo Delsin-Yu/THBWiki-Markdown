@@ -1,12 +1,8 @@
 # 文件:THD2真实割夺之刃.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a7\ns6%3ATHD2%E7%9C%9F%E5%AE%9E%E5%89%B2%E5%A4%BA%E4%B9%8B%E5%88%83%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a7\ns6%3ATHD2%E7%9C%9F%E5%AE%9E%E5%89%B2%E5%A4%BA%E4%B9%8B%E5%88%83%2Epng.html -->
 
 THD2
-
-
-
-
 
 
 ---

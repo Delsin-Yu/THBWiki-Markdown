@@ -1,14 +1,11 @@
 # 文件:カスタムサイズbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dc\ns6%3A%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%A0%E3%82%B5%E3%82%A4%E3%82%BAbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dc\ns6%3A%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%A0%E3%82%B5%E3%82%A4%E3%82%BAbanner%2Ejpg.html -->
 
 カスタムサイズ | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

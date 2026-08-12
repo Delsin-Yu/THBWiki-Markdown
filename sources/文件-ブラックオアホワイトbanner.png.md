@@ -1,18 +1,13 @@
 # 文件:ブラックオアホワイトbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\42\ns6%3A%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%82%AA%E3%82%A2%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\42\ns6%3A%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%82%AA%E3%82%A2%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88banner%2Epng.html -->
 
 ブラックオアホワイト | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[direct image link](http://u-ki.halfmoon.jp/img/banner_white.png), [source page](http://u-ki.halfmoon.jp/about.html)
-  
-
-
-
-
+源地址：[direct image link](http://u-ki.halfmoon.jp/img/banner_white.png), [source page](http://u-ki.halfmoon.jp/about.html)  
 
 ---
 

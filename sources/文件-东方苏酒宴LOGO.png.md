@@ -1,12 +1,8 @@
 # 文件:东方苏酒宴LOGO.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\13\ns6%3A%E4%B8%9C%E6%96%B9%E8%8B%8F%E9%85%92%E5%AE%B4LOGO%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\13\ns6%3A%E4%B8%9C%E6%96%B9%E8%8B%8F%E9%85%92%E5%AE%B4LOGO%2Epng.html -->
 
 东方苏酒宴 | 活动LOGO
-
-
-
-
 
 
 ---

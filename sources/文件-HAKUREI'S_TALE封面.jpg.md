@@ -1,6 +1,6 @@
 # 文件:HAKUREI'S_TALE封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f8\ns6%3AHAKUREI%27S_TALE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f8\ns6%3AHAKUREI%27S_TALE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 NATSUKI_RECORDS | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@ NATSUKI_RECORDS | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [HAKUREI'S TALE](./HAKUREI'S_TALE.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
+- [HAKUREI'S TALE](./HAKUREI'S_TALE.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
   
-源地址：[direct image link (original size)](https://i1.sndcdn.com/artworks-000052518751-u21e3y-original.jpg), [source page (archived artist soundcloud)](https://web.archive.org/web/20130917153103/http://soundcloud.com/paragunasatsuki)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://i1.sndcdn.com/artworks-000052518751-u21e3y-original.jpg), [source page (archived artist soundcloud)](https://web.archive.org/web/20130917153103/http://soundcloud.com/paragunasatsuki)  
 
 ---
 

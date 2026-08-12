@@ -1,12 +1,8 @@
 # 文件:冷猫_banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\38\ns6%3A%E5%86%B7%E7%8C%AB_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\38\ns6%3A%E5%86%B7%E7%8C%AB_banner%2Ejpg.html -->
 
 TUMENECO | 社团LOGO
-
-
-
-
 
 
 ---

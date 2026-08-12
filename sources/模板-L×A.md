@@ -1,16 +1,12 @@
 # 模板:L×A
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\f\f1\ns10%3AL%C3%97A.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\f\f1\ns10%3AL%C3%97A.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

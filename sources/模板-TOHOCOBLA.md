@@ -1,16 +1,12 @@
 # 模板:TOHOCOBLA
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\f\f5\ns10%3ATOHOCOBLA.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\f\f5\ns10%3ATOHOCOBLA.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

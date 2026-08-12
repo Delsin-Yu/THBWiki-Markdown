@@ -1,6 +1,6 @@
 # 文件:永遠花-The_Eternal_of_Touhou-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4b\ns6%3A%E6%B0%B8%E9%81%A0%E8%8A%B1-The_Eternal_of_Touhou-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4b\ns6%3A%E6%B0%B8%E9%81%A0%E8%8A%B1-The_Eternal_of_Touhou-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Elemental_note | 专辑封面 | 封面图片
 
@@ -10,16 +10,12 @@ Elemental_note | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [永遠花-The Eternal of Touhou-](./永遠花-The_Eternal_of_Touhou-.md)  
-该封面包含的角色：- [蓬莱山辉夜](./蓬莱山辉夜.md)
+- [永遠花-The Eternal of Touhou-](./永遠花-The_Eternal_of_Touhou-.md)该封面包含的角色：
+- [蓬莱山辉夜](./蓬莱山辉夜.md)
 
   
 image from TLMC scans (cropped)
   
-
-
-
-
 
 ---
 

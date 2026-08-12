@@ -1,6 +1,6 @@
 # 文件:post!封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\42\ns6%3Apost%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\42\ns6%3Apost%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 35.8℃ | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [post!](./post!.md)  
-该封面包含的角色：- [宇佐见莲子](./宇佐见莲子.md)
+- [post!](./post!.md)该封面包含的角色：
+- [宇佐见莲子](./宇佐见莲子.md)
 
   
-源地址：[direct image link (original size)](https://booth.pximg.net/d07ea1fb-d8bf-430c-abcf-88b107fa0818/i/4233570/ac4d83ad-91de-4b96-bbe2-e6979e92fd45.jpeg), [source page (circle Booth)](https://whenmk.booth.pm/items/4233570)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://booth.pximg.net/d07ea1fb-d8bf-430c-abcf-88b107fa0818/i/4233570/ac4d83ad-91de-4b96-bbe2-e6979e92fd45.jpeg), [source page (circle Booth)](https://whenmk.booth.pm/items/4233570)  
 
 ---
 

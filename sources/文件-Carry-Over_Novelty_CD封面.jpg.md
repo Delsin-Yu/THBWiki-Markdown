@@ -1,6 +1,6 @@
 # 文件:Carry-Over_Novelty_CD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8c\ns6%3ACarry-Over_Novelty_CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8c\ns6%3ACarry-Over_Novelty_CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 亜紅紫 | 封面图片
 
@@ -9,9 +9,6 @@
   
 
 - [Carry-Over Novelty CD](./Carry-Over_Novelty_CD.md)
-
-
-
 
 
 ---

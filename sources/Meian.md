@@ -1,23 +1,18 @@
 # Meian
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\d\d1\ns0%3AMeian.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\d\d1\ns0%3AMeian.html -->
 
 Meian Éditions，有限责任公司
 
 本页是关于东方Project  
- **相关公司会社** 的词条
-
+**相关公司会社**的词条
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 与东方Project的关联](#与东方Project的关联)
-
   - [2.1 单行本与书籍](#单行本与书籍)
-
     - [2.1.1 东方铃奈庵](#东方铃奈庵)
     - [2.1.2 东方醉蝶华](#东方醉蝶华)
-
-
 
 
 
@@ -25,19 +20,15 @@ Meian Éditions，有限责任公司
 - [3 其他说明](#其他说明)
 
 
-
-
-
 ## 基本信息
-[](./文件-MeianLOGO.SVG.md)  [](./文件-MeianLOGO.SVG.md)Meian LOGO
-  
-<big> **Meian** </big>  
+<img alt="" src="https://upload.thwiki.cc/thumb/0/06/MeianLOGO.SVG/150px-MeianLOGO.SVG.png" decoding="async" loading="lazy" width="150" height="187" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/0/06/MeianLOGO.SVG/225px-MeianLOGO.SVG.png 1.5x, https://upload.thwiki.cc/thumb/0/06/MeianLOGO.SVG/300px-MeianLOGO.SVG.png 2x" data-file-width="512" data-file-height="638">
+ [放大](./文件-MeianLOGO.SVG.md)Meian LOGO  
+<big>**Meian**</big>  
 是法国的一家出版社，是[IDP Home Video](https://fr.wikipedia.org/wiki/IDP_Home_Video)的子公司。
   
   
 专门经营日本漫画和韩国漫画的出版，面向法国发行。引进并翻译日本及韩国作品是其业务之一。
   
-
 
 <table>
 <tbody><tr>
@@ -47,14 +38,15 @@ Meian Éditions，有限责任公司
 <td style="width:140px"><b>正式名称</b></td><td style="min-width:300px">Meian Éditions</td></tr><tr><td><b>公司现状</b></td><td>持续营业中</td></tr><tr><td><b>公司种类</b></td><td>有限责任公司</td></tr><tr><td><b>成立日期</b></td><td>2017年</td></tr><tr><td><b>官网地址</b></td><td><a rel="nofollow" class="external free" href="https://www.meian-editions.fr/">https://www.meian-editions.fr/</a></td></tr></tbody></table>
 
 Meian（公司会社） - Meian Éditions，有限责任公司
-
 ## 与东方Project的关联
+
 - Meian代理了少量官方商业出版物。
 
 
 ### 单行本与书籍
 
 #### 东方铃奈庵
+
 - [东方铃奈庵 ～ Forbidden Scrollery. 1](./东方铃奈庵.md)（2022年1月12日出版的官方漫画单行本）
 - [东方铃奈庵 ～ Forbidden Scrollery. 2](./东方铃奈庵.md)（2022年1月12日出版的官方漫画单行本）
 - [东方铃奈庵 ～ Forbidden Scrollery. 3](./东方铃奈庵.md)（2022年3月30日出版的官方漫画单行本）
@@ -65,6 +57,7 @@ Meian（公司会社） - Meian Éditions，有限责任公司
 
 
 #### 东方醉蝶华
+
 - [东方醉蝶华 ~ 食莲人们的醉与醒 1](./东方醉蝶华.md)（2023年3月24日出版的官方漫画单行本）
 - [东方醉蝶华 ~ 食莲人们的醉与醒 2](./东方醉蝶华.md)（2023年4月14日出版的官方漫画单行本）
 - [东方醉蝶华 ~ 食莲人们的醉与醒 3](./东方醉蝶华.md)（2023年8月24日出版的官方漫画单行本）
@@ -72,9 +65,6 @@ Meian（公司会社） - Meian Éditions，有限责任公司
 
 
 ## 其他说明
-
-
-
 
 ---
 

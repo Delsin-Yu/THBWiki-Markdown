@@ -1,6 +1,6 @@
 # 文件:Dearest（BON_VOYAGE）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\32\ns6%3ADearest%EF%BC%88BON_VOYAGE%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\32\ns6%3ADearest%EF%BC%88BON_VOYAGE%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 BON_VOYAGE | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@ BON_VOYAGE | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Dearest（BON VOYAGE）](./Dearest（BON_VOYAGE）.md)  
-该封面包含的角色：- [东风谷早苗](./东风谷早苗.md)
-
-
-
+- [Dearest（BON VOYAGE）](./Dearest（BON_VOYAGE）.md)该封面包含的角色：
+- [东风谷早苗](./东风谷早苗.md)
 
 
 ---

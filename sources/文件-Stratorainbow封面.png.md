@@ -1,6 +1,6 @@
 # 文件:Stratorainbow封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b8\ns6%3AStratorainbow%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b8\ns6%3AStratorainbow%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 RG-BOX | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ RG-BOX | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Stratorainbow](./Stratorainbow.md)  
-该封面包含的角色：- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)- [比那名居天子](./比那名居天子.md)
-
-
-
+- [Stratorainbow](./Stratorainbow.md)该封面包含的角色：
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
+- [比那名居天子](./比那名居天子.md)
 
 
 ---

@@ -1,14 +1,11 @@
 # 文件:狱炎「Magmatic_Fall」（刚欲异闻）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0c\ns6%3A%E7%8B%B1%E7%82%8E%E3%80%8CMagmatic_Fall%E3%80%8D%EF%BC%88%E5%88%9A%E6%AC%B2%E5%BC%82%E9%97%BB%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0c\ns6%3A%E7%8B%B1%E7%82%8E%E3%80%8CMagmatic_Fall%E3%80%8D%EF%BC%88%E5%88%9A%E6%AC%B2%E5%BC%82%E9%97%BB%EF%BC%89%2Epng.html -->
 
 东方刚欲异闻 | 敌机符卡 | 灵乌路空
 
 
 ## 文件说明
-
-
-
 
 ---
 

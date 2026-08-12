@@ -1,6 +1,6 @@
 # 文件:聯袂のサーチライト_-Band_Arrange_Versions-封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\47\ns6%3A%E8%81%AF%E8%A2%82%E3%81%AE%E3%82%B5%E3%83%BC%E3%83%81%E3%83%A9%E3%82%A4%E3%83%88_-Band_Arrange_Versions-%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\47\ns6%3A%E8%81%AF%E8%A2%82%E3%81%AE%E3%82%B5%E3%83%BC%E3%83%81%E3%83%A9%E3%82%A4%E3%83%88_-Band_Arrange_Versions-%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 少女フラクタル
 
@@ -11,9 +11,6 @@
   
 
 - [聯袂のサーチライト -Band Arrange Versions-](./聯袂のサーチライト_-Band_Arrange_Versions-.md)
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:EScape!!_東方夢景色コミックス_vol.1封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5d\ns6%3AEScape%21%21_%E6%9D%B1%E6%96%B9%E5%A4%A2%E6%99%AF%E8%89%B2%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9_vol%2E1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5d\ns6%3AEScape%21%21_%E6%9D%B1%E6%96%B9%E5%A4%A2%E6%99%AF%E8%89%B2%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9_vol%2E1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Ridil | 同人志封面 | 封面图片
 
@@ -8,16 +8,20 @@ Ridil | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [EScape!! 東方夢景色コミックス vol.1](./EScape!!_東方夢景色コミックス_vol.1.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [上白泽慧音](./上白泽慧音.md)- [东风谷早苗](./东风谷早苗.md)- [火焰猫燐](./火焰猫燐.md)- [娜兹玲](./娜兹玲.md)- [村纱水蜜](./村纱水蜜.md)- [赤蛮奇](./赤蛮奇.md)- [蕾拉·普莉兹姆利巴](./蕾拉·普莉兹姆利巴.md)
+- [EScape!! 東方夢景色コミックス vol.1](./EScape!!_東方夢景色コミックス_vol.1.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [上白泽慧音](./上白泽慧音.md)
+- [东风谷早苗](./东风谷早苗.md)
+- [火焰猫燐](./火焰猫燐.md)
+- [娜兹玲](./娜兹玲.md)
+- [村纱水蜜](./村纱水蜜.md)
+- [赤蛮奇](./赤蛮奇.md)
+- [蕾拉·普莉兹姆利巴](./蕾拉·普莉兹姆利巴.md)
 
   
-源地址：[[1]](http://ridil.sakura.ne.jp/sblo_files/ridil/image/E381BEE38293E3818C.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://ridil.sakura.ne.jp/sblo_files/ridil/image/E381BEE38293E3818C.jpg)  
 
 ---
 

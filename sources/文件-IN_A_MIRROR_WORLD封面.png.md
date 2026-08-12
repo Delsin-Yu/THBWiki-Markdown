@@ -1,6 +1,6 @@
 # 文件:IN_A_MIRROR_WORLD封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3a\ns6%3AIN_A_MIRROR_WORLD%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3a\ns6%3AIN_A_MIRROR_WORLD%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 nattaigyo_records | 专辑封面 | 封面图片
 
@@ -10,11 +10,9 @@ nattaigyo_records | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [IN A MIRROR WORLD](./IN_A_MIRROR_WORLD.md)  
-该封面包含的角色：- [赤蛮奇](./赤蛮奇.md)- [鬼人正邪](./鬼人正邪.md)
-
-
-
+- [IN A MIRROR WORLD](./IN_A_MIRROR_WORLD.md)该封面包含的角色：
+- [赤蛮奇](./赤蛮奇.md)
+- [鬼人正邪](./鬼人正邪.md)
 
 
 ---

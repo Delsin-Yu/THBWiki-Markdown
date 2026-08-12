@@ -1,6 +1,6 @@
 # 文件:TOHO_SAND_BOX封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\29\ns6%3ATOHO_SAND_BOX%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\29\ns6%3ATOHO_SAND_BOX%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 RG-BOX | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ RG-BOX | 专辑封面 | 封面图片
   
 
 - [TOHO SAND BOX](./TOHO_SAND_BOX.md)
-
-
-
 
 
 ---

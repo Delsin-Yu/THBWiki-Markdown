@@ -1,12 +1,8 @@
 # 文件:蓬莱忆梦社团logo.jpeg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\17\ns6%3A%E8%93%AC%E8%8E%B1%E5%BF%86%E6%A2%A6%E7%A4%BE%E5%9B%A2logo%2Ejpeg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\17\ns6%3A%E8%93%AC%E8%8E%B1%E5%BF%86%E6%A2%A6%E7%A4%BE%E5%9B%A2logo%2Ejpeg.html -->
 
 社团LOGO | 蓬莱忆梦
-
-
-
-
 
 
 ---

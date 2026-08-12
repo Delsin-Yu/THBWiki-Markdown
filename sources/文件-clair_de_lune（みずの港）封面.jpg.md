@@ -1,6 +1,6 @@
 # 文件:clair_de_lune（みずの港）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\27\ns6%3Aclair_de_lune%EF%BC%88%E3%81%BF%E3%81%9A%E3%81%AE%E6%B8%AF%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\27\ns6%3Aclair_de_lune%EF%BC%88%E3%81%BF%E3%81%9A%E3%81%AE%E6%B8%AF%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 みずの港 | 同人志封面 | 封面图片
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [clair de lune（みずの港）](./clair_de_lune（みずの港）.md)  
-该封面包含的角色：- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)- [射命丸文](./射命丸文.md)
-
-
-
+- [clair de lune（みずの港）](./clair_de_lune（みずの港）.md)该封面包含的角色：
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
+- [射命丸文](./射命丸文.md)
 
 
 ---

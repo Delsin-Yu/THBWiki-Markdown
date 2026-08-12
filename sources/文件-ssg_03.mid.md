@@ -1,16 +1,12 @@
 # 文件:ssg_03.mid
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b3\ns6%3Assg_03%2Emid.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b3\ns6%3Assg_03%2Emid.html -->
 
 Primrose_Shiver | 东方幻想的音乐 | 官方MIDI | 秋霜玉
 
   
 プリムローズシヴァ 秋霜玉1面Boss，ミリア的主题曲。 东方的幻想音乐版，与原秋霜玉版本有出入！
   
-
-
-
-
 
 ---
 

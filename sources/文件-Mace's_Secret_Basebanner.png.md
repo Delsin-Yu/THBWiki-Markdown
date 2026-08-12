@@ -1,12 +1,8 @@
 # 文件:Mace's_Secret_Basebanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fa\ns6%3AMace%27s_Secret_Basebanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fa\ns6%3AMace%27s_Secret_Basebanner%2Epng.html -->
 
 Mace's_Secret_Base | 社团LOGO
-
-
-
-
 
 
 ---

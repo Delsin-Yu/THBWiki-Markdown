@@ -1,18 +1,13 @@
 # 文件:茜音色タウンlogo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\63\ns6%3A%E8%8C%9C%E9%9F%B3%E8%89%B2%E3%82%BF%E3%82%A6%E3%83%B3logo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\63\ns6%3A%E8%8C%9C%E9%9F%B3%E8%89%B2%E3%82%BF%E3%82%A6%E3%83%B3logo%2Epng.html -->
 
 社团LOGO | 茜音色タウン
 
 
 ## 文件说明
   
-源地址：[direct image link](https://static.wixstatic.com/media/390e42_94f32bcab96443c9995f57d3b0146bce~mv2.png), [source page](https://www.akaneirotown.com/)
-  
-
-
-
-
+源地址：[direct image link](https://static.wixstatic.com/media/390e42_94f32bcab96443c9995f57d3b0146bce~mv2.png), [source page](https://www.akaneirotown.com/)  
 
 ---
 

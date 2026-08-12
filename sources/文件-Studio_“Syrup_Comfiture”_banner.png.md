@@ -1,12 +1,8 @@
 # 文件:Studio_“Syrup_Comfiture”_banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9f\ns6%3AStudio_%E2%80%9CSyrup_Comfiture%E2%80%9D_banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9f\ns6%3AStudio_%E2%80%9CSyrup_Comfiture%E2%80%9D_banner%2Epng.html -->
 
 Poplica＊ | Syrufit | 社团LOGO
-
-
-
-
 
 
 ---

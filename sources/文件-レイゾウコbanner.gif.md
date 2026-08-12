@@ -1,14 +1,11 @@
 # 文件:レイゾウコbanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b6\ns6%3A%E3%83%AC%E3%82%A4%E3%82%BE%E3%82%A6%E3%82%B3banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b6\ns6%3A%E3%83%AC%E3%82%A4%E3%82%BE%E3%82%A6%E3%82%B3banner%2Egif.html -->
 
 レイゾウコ | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

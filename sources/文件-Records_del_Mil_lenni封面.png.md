@@ -1,6 +1,6 @@
 # 文件:Records_del_Mil_lenni封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fa\ns6%3ARecords_del_Mil_lenni%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fa\ns6%3ARecords_del_Mil_lenni%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 梶迫小道具店
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Records del Mil lenni](./Records_del_Mil_lenni.md)  
-该封面包含的角色：- [上白泽慧音](./上白泽慧音.md)
-
-
-
+- [Records del Mil lenni](./Records_del_Mil_lenni.md)该封面包含的角色：
+- [上白泽慧音](./上白泽慧音.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:New_WORLD_order封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\26\ns6%3ANew_WORLD_order%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\26\ns6%3ANew_WORLD_order%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 monoralGrey | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ monoralGrey | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [New WORLD order](./New_WORLD_order.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)
+- [New WORLD order](./New_WORLD_order.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
 
   
-源地址：[[1]](https://secure.static.tumblr.com/e022078aa146350050ce8b3a052030d2/ojovqrz/hR3oiczmi/tumblr_static_895hujp8nbgoc0ks08gogc00c.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://secure.static.tumblr.com/e022078aa146350050ce8b3a052030d2/ojovqrz/hR3oiczmi/tumblr_static_895hujp8nbgoc0ks08gogc00c.jpg)  
 
 ---
 

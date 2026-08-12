@@ -1,16 +1,11 @@
 # 文件:前転受け身友の会banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f5\ns6%3A%E5%89%8D%E8%BB%A2%E5%8F%97%E3%81%91%E8%BA%AB%E5%8F%8B%E3%81%AE%E4%BC%9Abanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f5\ns6%3A%E5%89%8D%E8%BB%A2%E5%8F%97%E3%81%91%E8%BA%AB%E5%8F%8B%E3%81%AE%E4%BC%9Abanner%2Egif.html -->
 
 前転受け身友の会 | 社团LOGO
 
   
-源地址：[[1]](http://www.zentomo.net/zentomo.gif)
-  
-
-
-
-
+源地址：[\[1\]](http://www.zentomo.net/zentomo.gif)  
 
 ---
 

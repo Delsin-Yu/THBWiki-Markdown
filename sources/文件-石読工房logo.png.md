@@ -1,18 +1,13 @@
 # 文件:石読工房logo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ac\ns6%3A%E7%9F%B3%E8%AA%AD%E5%B7%A5%E6%88%BFlogo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ac\ns6%3A%E7%9F%B3%E8%AA%AD%E5%B7%A5%E6%88%BFlogo%2Epng.html -->
 
 石読工房 | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[direct image link](http://ishiyomi.main.jp/wp/wp-content/uploads/logoai.png), [source page](http://ishiyomi.main.jp/)
-  
-
-
-
-
+源地址：[direct image link](http://ishiyomi.main.jp/wp/wp-content/uploads/logoai.png), [source page](http://ishiyomi.main.jp/)  
 
 ---
 

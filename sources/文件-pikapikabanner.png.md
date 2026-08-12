@@ -1,16 +1,11 @@
 # 文件:pikapikabanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\51\ns6%3Apikapikabanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\51\ns6%3Apikapikabanner%2Epng.html -->
 
 pikapika | 社团LOGO
 
   
-源地址：[[1]](http://chip.main.jp/pikapika/pikapika_bn.png)
-  
-
-
-
-
+源地址：[\[1\]](http://chip.main.jp/pikapika/pikapika_bn.png)  
 
 ---
 

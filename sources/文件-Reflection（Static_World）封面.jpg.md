@@ -1,6 +1,6 @@
 # 文件:Reflection（Static_World）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e4\ns6%3AReflection%EF%BC%88Static_World%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e4\ns6%3AReflection%EF%BC%88Static_World%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Static_World | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ Static_World | 专辑封面 | 封面图片
   
 
 - [Reflection（Static World）](./Reflection（Static_World）.md)
-
-
-
 
 
 ---

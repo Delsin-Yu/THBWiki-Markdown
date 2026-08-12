@@ -1,12 +1,8 @@
 # 文件:东方萃梦想爱丽丝ED2.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6a\ns6%3A%E4%B8%9C%E6%96%B9%E8%90%83%E6%A2%A6%E6%83%B3%E7%88%B1%E4%B8%BD%E4%B8%9DED2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6a\ns6%3A%E4%B8%9C%E6%96%B9%E8%90%83%E6%A2%A6%E6%83%B3%E7%88%B1%E4%B8%BD%E4%B8%9DED2%2Epng.html -->
 
 东方萃梦想结局图
-
-
-
-
 
 
 ---

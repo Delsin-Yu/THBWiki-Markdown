@@ -1,6 +1,6 @@
 # 文件:空想少女_-Close_your_heart_to_every_love_but_mine-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0e\ns6%3A%E7%A9%BA%E6%83%B3%E5%B0%91%E5%A5%B3_-Close_your_heart_to_every_love_but_mine-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0e\ns6%3A%E7%A9%BA%E6%83%B3%E5%B0%91%E5%A5%B3_-Close_your_heart_to_every_love_but_mine-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 JOKER-type_R | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@ JOKER-type_R | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [空想少女 -Close your heart to every love but mine-](./空想少女_-Close_your_heart_to_every_love_but_mine-.md)  
-该封面包含的角色：- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
+- [空想少女 -Close your heart to every love but mine-](./空想少女_-Close_your_heart_to_every_love_but_mine-.md)该封面包含的角色：
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
 
   
-源地址：[direct image link](http://jokertype09.web.fc2.com/top-001.jpg), [source page](http://jokertype09.web.fc2.com/)
-  
-
-
-
-
+源地址：[direct image link](http://jokertype09.web.fc2.com/top-001.jpg), [source page](http://jokertype09.web.fc2.com/)  
 
 ---
 

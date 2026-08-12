@@ -1,12 +1,8 @@
 # 文件:博丽灵梦（心绮楼Spell_Card立绘）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ac\ns6%3A%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BCSpell_Card%E7%AB%8B%E7%BB%98%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ac\ns6%3A%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BCSpell_Card%E7%AB%8B%E7%BB%98%EF%BC%89%2Epng.html -->
 
 Alphes绘 | 东方心绮楼 | 博丽灵梦 | 官方游戏立绘
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Heroic_Thunder_Girl封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\37\ns6%3AHeroic_Thunder_Girl%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\37\ns6%3AHeroic_Thunder_Girl%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 カカオ加工場 | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Heroic Thunder Girl](./Heroic_Thunder_Girl.md)  
-该封面包含的角色：- [苏我屠自古](./苏我屠自古.md)
-
-
-
+- [Heroic Thunder Girl](./Heroic_Thunder_Girl.md)该封面包含的角色：
+- [苏我屠自古](./苏我屠自古.md)
 
 
 ---

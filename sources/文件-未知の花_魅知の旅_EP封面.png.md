@@ -1,6 +1,6 @@
 # 文件:未知の花_魅知の旅_EP封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\da\ns6%3A%E6%9C%AA%E7%9F%A5%E3%81%AE%E8%8A%B1_%E9%AD%85%E7%9F%A5%E3%81%AE%E6%97%85_EP%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\da\ns6%3A%E6%9C%AA%E7%9F%A5%E3%81%AE%E8%8A%B1_%E9%AD%85%E7%9F%A5%E3%81%AE%E6%97%85_EP%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 クロネコラウンジ | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@
   
 
 - [未知の花 魅知の旅 EP](./未知の花_魅知の旅_EP.md)
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:3in1CD_月輪に巡らされた記憶封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\67\ns6%3A3in1CD_%E6%9C%88%E8%BC%AA%E3%81%AB%E5%B7%A1%E3%82%89%E3%81%95%E3%82%8C%E3%81%9F%E8%A8%98%E6%86%B6%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\67\ns6%3A3in1CD_%E6%9C%88%E8%BC%AA%E3%81%AB%E5%B7%A1%E3%82%89%E3%81%95%E3%82%8C%E3%81%9F%E8%A8%98%E6%86%B6%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 幽闭星光
 
@@ -10,11 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [3in1CD 月輪に巡らされた記憶](./3in1CD_月輪に巡らされた記憶.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [八云紫](./八云紫.md)- [比那名居天子](./比那名居天子.md)
-
-
-
+- [3in1CD 月輪に巡らされた記憶](./3in1CD_月輪に巡らされた記憶.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [八云紫](./八云紫.md)
+- [比那名居天子](./比那名居天子.md)
 
 
 ---

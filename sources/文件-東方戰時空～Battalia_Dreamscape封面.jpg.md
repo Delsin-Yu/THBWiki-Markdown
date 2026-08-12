@@ -1,6 +1,6 @@
 # 文件:東方戰時空～Battalia_Dreamscape封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cc\ns6%3A%E6%9D%B1%E6%96%B9%E6%88%B0%E6%99%82%E7%A9%BA%EF%BD%9EBattalia_Dreamscape%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cc\ns6%3A%E6%9D%B1%E6%96%B9%E6%88%B0%E6%99%82%E7%A9%BA%EF%BD%9EBattalia_Dreamscape%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 White_Datura | 封面图片 | 软件封面
 
@@ -11,9 +11,6 @@ White_Datura | 封面图片 | 软件封面
   
 
 - [東方戰時空～Battalia Dreamscape](./東方戰時空～Battalia_Dreamscape.md)
-
-
-
 
 
 ---

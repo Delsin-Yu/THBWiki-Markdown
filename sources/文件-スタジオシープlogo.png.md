@@ -1,18 +1,13 @@
 # 文件:スタジオシープlogo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c5\ns6%3A%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%E3%82%B7%E3%83%BC%E3%83%97logo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c5\ns6%3A%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%E3%82%B7%E3%83%BC%E3%83%97logo%2Epng.html -->
 
 スタジオシープ | 社团LOGO
 
 
 ## 摘要
   
-源地址：[direct image link](https://s2.booth.pm/f38468a7-2873-4574-bd19-0276d317b378/9d5e70e7-661c-419d-bc6f-4e12c613a5b0.png), [source page (circle Booth)](https://neruzou.booth.pm/)
-  
-
-
-
-
+源地址：[direct image link](https://s2.booth.pm/f38468a7-2873-4574-bd19-0276d317b378/9d5e70e7-661c-419d-bc6f-4e12c613a5b0.png), [source page (circle Booth)](https://neruzou.booth.pm/)  
 
 ---
 

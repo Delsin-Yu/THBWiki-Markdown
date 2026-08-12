@@ -1,12 +1,8 @@
 # 文件:THBWiki-LOGO-哆来咪.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\55\ns6%3ATHBWiki-LOGO-%E5%93%86%E6%9D%A5%E5%92%AA%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\55\ns6%3ATHBWiki-LOGO-%E5%93%86%E6%9D%A5%E5%92%AA%2Epng.html -->
 
 THBWiki | Wiki词条分类用图
-
-
-
-
 
 
 ---

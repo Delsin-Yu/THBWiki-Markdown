@@ -1,6 +1,6 @@
 # 文件:早苗讨魔传X封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\96\ns6%3A%E6%97%A9%E8%8B%97%E8%AE%A8%E9%AD%94%E4%BC%A0X%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\96\ns6%3A%E6%97%A9%E8%8B%97%E8%AE%A8%E9%AD%94%E4%BC%A0X%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Touhou_neko_mini | 封面图片 | 软件封面
 
@@ -10,11 +10,8 @@ Touhou_neko_mini | 封面图片 | 软件封面
 使用了本文件作封面图片的作品：
   
 
-- [早苗讨魔传X](./早苗讨魔传X.md)  
-该封面包含的角色：- [东风谷早苗](./东风谷早苗.md)
-
-
-
+- [早苗讨魔传X](./早苗讨魔传X.md)该封面包含的角色：
+- [东风谷早苗](./东风谷早苗.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Lovely_Faith_-to_the_beginning_02-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\94\ns6%3ALovely_Faith_-to_the_beginning_02-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\94\ns6%3ALovely_Faith_-to_the_beginning_02-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 暁Records
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Lovely Faith -to the beginning 02-](./Lovely_Faith_-to_the_beginning_02-.md)  
-该封面包含的角色：- [洩矢诹访子](./洩矢诹访子.md)
-
-
-
+- [Lovely Faith -to the beginning 02-](./Lovely_Faith_-to_the_beginning_02-.md)该封面包含的角色：
+- [洩矢诹访子](./洩矢诹访子.md)
 
 
 ---

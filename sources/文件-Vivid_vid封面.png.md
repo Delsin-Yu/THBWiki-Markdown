@@ -1,6 +1,6 @@
 # 文件:Vivid_vid封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4b\ns6%3AVivid_vid%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4b\ns6%3AVivid_vid%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Waff | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Waff | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Vivid vid](./Vivid_vid.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
+- [Vivid vid](./Vivid_vid.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-源地址：[[1]](https://static.tumblr.com/0adb5047b0b02f7f69aaf260332852b3/tnereqa/rRRpo3r1z/tumblr_static_cws292w137s4o40gsk04k0ccg.png)
-  
-
-
-
-
+源地址：[\[1\]](https://static.tumblr.com/0adb5047b0b02f7f69aaf260332852b3/tnereqa/rRRpo3r1z/tumblr_static_cws292w137s4o40gsk04k0ccg.png)  
 
 ---
 

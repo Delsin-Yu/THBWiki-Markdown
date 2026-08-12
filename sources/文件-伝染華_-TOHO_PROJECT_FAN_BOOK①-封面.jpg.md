@@ -1,6 +1,6 @@
 # 文件:伝染華_-TOHO_PROJECT_FAN_BOOK①-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\57\ns6%3A%E4%BC%9D%E6%9F%93%E8%8F%AF_-TOHO_PROJECT_FAN_BOOK%E2%91%A0-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\57\ns6%3A%E4%BC%9D%E6%9F%93%E8%8F%AF_-TOHO_PROJECT_FAN_BOOK%E2%91%A0-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 オランジュ停留所 | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [伝染華 -TOHO PROJECT FAN BOOK①-](./伝染華_-TOHO_PROJECT_FAN_BOOK①-.md)  
-该封面包含的角色：- [赫卡提亚·拉碧斯拉祖利](./赫卡提亚·拉碧斯拉祖利.md)
-
-
-
+- [伝染華 -TOHO PROJECT FAN BOOK①-](./伝染華_-TOHO_PROJECT_FAN_BOOK①-.md)该封面包含的角色：
+- [赫卡提亚·拉碧斯拉祖利](./赫卡提亚·拉碧斯拉祖利.md)
 
 
 ---

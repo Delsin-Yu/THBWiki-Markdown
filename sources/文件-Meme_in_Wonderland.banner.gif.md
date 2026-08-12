@@ -1,14 +1,11 @@
 # 文件:Meme_in_Wonderland.banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\87\ns6%3AMeme_in_Wonderland%2Ebanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\87\ns6%3AMeme_in_Wonderland%2Ebanner%2Egif.html -->
 
 Meme_in_Wonderland. | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

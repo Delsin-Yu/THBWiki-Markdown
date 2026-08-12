@@ -1,6 +1,6 @@
 # 文件:Reactionary_Wave_-Amateras_Records_Remixes_Vol.3-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\17\ns6%3AReactionary_Wave_-Amateras_Records_Remixes_Vol%2E3-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\17\ns6%3AReactionary_Wave_-Amateras_Records_Remixes_Vol%2E3-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Amateras_Records | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Amateras_Records | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Reactionary Wave -Amateras Records Remixes Vol.3-](./Reactionary_Wave_-Amateras_Records_Remixes_Vol.3-.md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)
-
-
-
+- [Reactionary Wave -Amateras Records Remixes Vol.3-](./Reactionary_Wave_-Amateras_Records_Remixes_Vol.3-.md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
 
 
 ---

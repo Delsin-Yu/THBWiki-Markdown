@@ -1,6 +1,6 @@
 # 文件:⑨（UFO_County）封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bb\ns6%3A%E2%91%A8%EF%BC%88UFO_County%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bb\ns6%3A%E2%91%A8%EF%BC%88UFO_County%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 UFO_County | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ UFO_County | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [⑨（UFO County）](./⑨（UFO_County）.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)
-
-
-
+- [⑨（UFO County）](./⑨（UFO_County）.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
 
 
 ---

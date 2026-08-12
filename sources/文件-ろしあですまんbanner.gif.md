@@ -1,12 +1,8 @@
 # 文件:ろしあですまんbanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\23\ns6%3A%E3%82%8D%E3%81%97%E3%81%82%E3%81%A7%E3%81%99%E3%81%BE%E3%82%93banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\23\ns6%3A%E3%82%8D%E3%81%97%E3%81%82%E3%81%A7%E3%81%99%E3%81%BE%E3%82%93banner%2Egif.html -->
 
 ろしあですまん | 社团LOGO
-
-
-
-
 
 
 ---

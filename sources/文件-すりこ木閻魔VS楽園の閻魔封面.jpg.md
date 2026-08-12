@@ -1,6 +1,6 @@
 # 文件:すりこ木閻魔VS楽園の閻魔封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\99\ns6%3A%E3%81%99%E3%82%8A%E3%81%93%E6%9C%A8%E9%96%BB%E9%AD%94VS%E6%A5%BD%E5%9C%92%E3%81%AE%E9%96%BB%E9%AD%94%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\99\ns6%3A%E3%81%99%E3%82%8A%E3%81%93%E6%9C%A8%E9%96%BB%E9%AD%94VS%E6%A5%BD%E5%9C%92%E3%81%AE%E9%96%BB%E9%AD%94%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ホットドックチャック | 同人志封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [すりこ木閻魔VS楽園の閻魔](./すりこ木閻魔VS楽園の閻魔.md)  
-该封面包含的角色：- [小野塚小町](./小野塚小町.md)
-
-
-
+- [すりこ木閻魔VS楽園の閻魔](./すりこ木閻魔VS楽園の閻魔.md)该封面包含的角色：
+- [小野塚小町](./小野塚小町.md)
 
 
 ---

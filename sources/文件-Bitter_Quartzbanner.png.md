@@ -1,12 +1,8 @@
 # 文件:Bitter_Quartzbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\08\ns6%3ABitter_Quartzbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\08\ns6%3ABitter_Quartzbanner%2Epng.html -->
 
 Bitter_Quartz | 社团LOGO
-
-
-
-
 
 
 ---

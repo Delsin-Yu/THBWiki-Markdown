@@ -1,43 +1,37 @@
 # 模板:Image_label
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\b\b6\ns10%3AImage_label.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\b\b6\ns10%3AImage_label.html -->
 
 格式模板
 
 
 ## 用法
+
 ```
-{{Image label|x= |y= |scale= |text= |color=}}
-```
+{{Image label|x= |y= |scale= |text= |color=}} ```
 
   
 x表示字符中心到左边距离，y表示字符中心到上边距离，x和y的单位为像素 (未找到链接)，scale为放大率（可省略不填），text表示文字，color表示文字色彩（可省略不填）。
   
 
-
 <table>
 <tbody><tr>
-<td><pre>&lt;div style="position: relative;"&gt;
+<td><pre><div style="position: relative;">
 [[File:Example-zh.jpg]]
 {{Image label|x=0|y=0|text=●}}
 {{Image label|x=1|y=1|scale=100|text=★}}
 {{Image label|x=1|y=1|scale=50|text=Hello}}
-&lt;/div&gt;
+</div>
 </pre>
 </td>
 <td><div style="position: relative;">
-<p><a href="/%E6%96%87%E4%BB%B6:Example-zh.jpg" class="image"><img alt="Example-zh.jpg" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/Example-zh.jpg" decoding="async" loading="lazy" width="200" height="177" data-file-width="200" data-file-height="177"></a>
+<p><a class="image"><img alt="Example-zh.jpg" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/Example-zh.jpg" decoding="async" loading="lazy" width="200" height="177" data-file-width="200" data-file-height="177"></a>
 </p>
 <div style="position: absolute; left:-6px; top: -8px; color: &#123;&#123;&#123;color:&#125;&#125;&#125;">●</div>
 <div style="position: absolute; left:94px; top: 92px; color: &#123;&#123;&#123;color:&#125;&#125;&#125;">★</div>
 <div style="position: absolute; left:44px; top: 42px; color: &#123;&#123;&#123;color:&#125;&#125;&#125;">Hello</div>
 </div>
 </td></tr></tbody></table>
-
-
-
-
-
 
 
 ---

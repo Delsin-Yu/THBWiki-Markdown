@@ -1,6 +1,6 @@
 # 文件:初のダンス_-_Tanz_des_Ersten封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\10\ns6%3A%E5%88%9D%E3%81%AE%E3%83%80%E3%83%B3%E3%82%B9_-_Tanz_des_Ersten%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\10\ns6%3A%E5%88%9D%E3%81%AE%E3%83%80%E3%83%B3%E3%82%B9_-_Tanz_des_Ersten%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Grimoire_Technology | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ Grimoire_Technology | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [初のダンス - Tanz des Ersten](./初のダンス_-_Tanz_des_Ersten.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [八云紫](./八云紫.md)
-
-
-
+- [初のダンス - Tanz des Ersten](./初のダンス_-_Tanz_des_Ersten.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [八云紫](./八云紫.md)
 
 
 ---

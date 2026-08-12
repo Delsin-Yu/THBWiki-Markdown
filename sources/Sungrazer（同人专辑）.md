@@ -1,31 +1,27 @@
 # Sungrazer（同人专辑）
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\23\ns0%3ASungrazer%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\23\ns0%3ASungrazer%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89.html -->
 
 2023年12月31日 由 denshūto 于 Comic Market 103 发布的全长/重制同人专辑，曲目主要风格是 Rock、金属，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人专辑 (未找到链接)** 的词条
-
+**[二次创作同人专辑](./二次创作.md#同人音乐)**的词条
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Sungrazer（同人专辑）封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/7/7e/Sungrazer%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/252px-Sungrazer%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="252" height="252" srcset="https://upload.thwiki.cc/thumb/7/7e/Sungrazer%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/378px-Sungrazer%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/7/7e/Sungrazer%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/504px-Sungrazer%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1200" data-file-height="1200"></a></td>
 </tr><tr><td class="label">名称</td><td colspan="2"> Sungrazer </td></tr><tr><td class="label">制作方</td><td><a href="./denshūto.md" title="denshūto">denshūto</a></td><td class="cover-artwork" rowspan="9" style="min-width:252px;"><a href="./文件-Sungrazer（同人专辑）封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/7/7e/Sungrazer%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/252px-Sungrazer%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="252" height="252" srcset="https://upload.thwiki.cc/thumb/7/7e/Sungrazer%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/378px-Sungrazer%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/7/7e/Sungrazer%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/504px-Sungrazer%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1200" data-file-height="1200"></a></td>
-</tr><tr><td class="label">首发日期</td><td>2023-12-31&#160;（<a href="/展会作品列表?e=Comic+Market%23103">Comic Market 103</a>，非实际参与展会首发）</td></tr><tr><td class="label">类型</td><td>全长，重制（<a href="./サングレイザー.md" title="サングレイザー">サングレイザー</a>的重制版）</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>4</td></tr><tr><td class="label">总时长</td><td>28:38</td></tr><tr><td class="label">风格类型</td><td>Rock，金属</td></tr><tr><td class="label">售价</td><td>免费（Bandcamp下载，自定价格）</td></tr>
+</tr><tr><td class="label">首发日期</td><td>2023-12-31 （<a href="./展会作品列表.md#103">Comic Market 103</a>，非实际参与展会首发）</td></tr><tr><td class="label">类型</td><td>全长，重制（<a href="./サングレイザー.md" title="サングレイザー">サングレイザー</a>的重制版）</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>4</td></tr><tr><td class="label">总时长</td><td>28:38</td></tr><tr><td class="label">风格类型</td><td>Rock，金属</td></tr><tr><td class="label">售价</td><td>免费（Bandcamp下载，自定价格）</td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/denshuto/status/1741614134163382665">https://twitter.com/denshuto/status/1741614134163382665</a></td></tr></tbody></table>
 
 Sungrazer（同人专辑，denshūto，2023） - 2023年12月31日 由 denshūto 于 Comic Market 103 发布的全长/重制同人专辑，曲目主要风格是 Rock、金属，分级为 一般向
-
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://denshuto.bandcamp.com/album/sungrazer-2">bandcamp</a></td></tr></tbody></table>
-
 
 
 ## Staff
   
- **Arrangement**   
+**Arrangement**  
 
-<table><tbody><tr><td><a href="/index.php?title=dj&amp;action=edit&amp;redlink=1" class="new" title="dj（页面不存在）">dj</a></td><td><a href="./denshūto.md" title="denshūto">denshūto</a></td><td>Tr.1-4</td></tr></tbody></table>
-
+<table><tbody><tr><td><a class="new" title="dj（页面不存在）">dj</a></td><td><a href="./denshūto.md" title="denshūto">denshūto</a></td><td>Tr.1-4</td></tr></tbody></table>
 
 Mixing/Mastering
 : [Veto](./Veto.md) ([Find Your Way](./Find_Your_Way.md))
@@ -34,13 +30,7 @@ Production
 Album Art
 : Antsy ([Twitter](https://twitter.com/antsy_af))
 
-
 ## 试听
-  
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1704360399&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=false"></iframe>
-
-  
-
 
 <table>
 
@@ -52,14 +42,12 @@ Album Art
 </td></tr></tbody></table>
 
 
-
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoO"><b>01</b></td><td id="Land_of_Illusions" colspan="2" class="title">Land of Illusions<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=dj&amp;ogmusic=妖々夢　～ Snow or Cherry Petal&amp;fromwiki=Sungrazer（同人专辑）"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:36</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=dj&amp;action=edit&amp;redlink=1" class="new" title="dj（页面不存在）">dj</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，dj&amp;fromwiki=Sungrazer（同人专辑）"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">初发布</td><td class="text" colspan="2"><a href="/%E3%82%B5%E3%83%B3%E3%82%B0%E3%83%AC%E3%82%A4%E3%82%B6%E3%83%BC#1" title="サングレイザー">Land of Illusions</a><div class="source"><a href="./サングレイザー.md" title="サングレイザー">サングレイザー</a></div></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=妖々夢　～ Snow or Cherry Petal&amp;fromwiki=Sungrazer（同人专辑）"><span></span></a></span><div class="ogmusic"><a href="./妖々夢_～_Snow_or_Cherry_Petal.md" class="mw-redirect" title="妖々夢 ～ Snow or Cherry Petal">妖々夢　～ Snow or Cherry Petal</a></div><div class="source"><a href="./东方妖妖梦_～_Perfect_Cherry_Blossom..md" class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr>
-<tr><td id="2" class="infoO"><b>02</b></td><td id="Koi死" colspan="2" class="title">Koi死<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=dj&amp;ogmusic=ラストリモート&amp;fromwiki=Sungrazer（同人专辑）"><span title="搜索相似同人曲"></span></a></span></td><td class="time">07:20</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=dj&amp;action=edit&amp;redlink=1" class="new" title="dj（页面不存在）">dj</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，dj&amp;fromwiki=Sungrazer（同人专辑）"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">初发布</td><td class="text" colspan="2"><a href="/%E3%82%B5%E3%83%B3%E3%82%B0%E3%83%AC%E3%82%A4%E3%82%B6%E3%83%BC#2" title="サングレイザー">Koi死</a><div class="source"><a href="./サングレイザー.md" title="サングレイザー">サングレイザー</a></div></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=ラストリモート&amp;fromwiki=Sungrazer（同人专辑）"><span></span></a></span><div class="ogmusic"><a href="./ラストリモート.md" class="mw-redirect" title="ラストリモート">ラストリモート</a></div><div class="source"><a href="./东方地灵殿_～_Subterranean_Animism..md" class="mw-redirect" title="东方地灵殿 ～ Subterranean Animism.">东方地灵殿　～ Subterranean Animism.</a></div></td></tr>
-<tr><td id="3" class="infoO"><b>03</b></td><td id="L​æ​vateinn" colspan="2" class="title">L​æ​vateinn<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=dj&amp;ogmusic=U.N.オーエンは彼女なのか？&amp;fromwiki=Sungrazer（同人专辑）"><span title="搜索相似同人曲"></span></a></span></td><td class="time">07:56</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=dj&amp;action=edit&amp;redlink=1" class="new" title="dj（页面不存在）">dj</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，dj&amp;fromwiki=Sungrazer（同人专辑）"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">初发布</td><td class="text" colspan="2"><a href="/%E3%82%B5%E3%83%B3%E3%82%B0%E3%83%AC%E3%82%A4%E3%82%B6%E3%83%BC#3" title="サングレイザー">Lævateinn</a><div class="source"><a href="./サングレイザー.md" title="サングレイザー">サングレイザー</a></div></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=U.N.オーエンは彼女なのか？&amp;fromwiki=Sungrazer（同人专辑）"><span></span></a></span><div class="ogmusic"><a href="./U.N.オーエンは彼女なのか？.md" class="mw-redirect" title="U.N.オーエンは彼女なのか？">U.N.オーエンは彼女なのか？</a></div><div class="source"><a href="./东方红魔乡_～_the_Embodiment_of_Scarlet_Devil..md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr>
-<tr><td id="4" class="infoO"><b>04</b></td><td id="流​星​宇​宙" colspan="2" class="title">流​星​宇​宙<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=dj&amp;ogmusic=禁断の魔法　～ Forbidden Magic&amp;fromwiki=Sungrazer（同人专辑）"><span title="搜索相似同人曲"></span></a></span></td><td class="time">09:46</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=dj&amp;action=edit&amp;redlink=1" class="new" title="dj（页面不存在）">dj</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，dj&amp;fromwiki=Sungrazer（同人专辑）"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">初发布</td><td class="text" colspan="2"><a href="/%E3%82%B5%E3%83%B3%E3%82%B0%E3%83%AC%E3%82%A4%E3%82%B6%E3%83%BC#4" title="サングレイザー">流星宇宙</a><div class="source"><a href="./サングレイザー.md" title="サングレイザー">サングレイザー</a></div></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=禁断の魔法　～ Forbidden Magic&amp;fromwiki=Sungrazer（同人专辑）"><span></span></a></span><div class="ogmusic"><a href="./禁断の魔法_～_Forbidden_Magic.md" class="mw-redirect" title="禁断の魔法 ～ Forbidden Magic">禁断の魔法　～ Forbidden Magic</a></div><div class="source"><a href="./东方怪绮谈_～_Mystic_Square..md" class="mw-redirect" title="东方怪绮谈 ～ Mystic Square.">东方怪绮谈　～ Mystic Square.</a></div></td></tr></tbody></table>
-
+<table><tbody><tr><td id="1" class="infoO"><b>01</b></td><td id="Land_of_Illusions" colspan="2" class="title">Land of Illusions</td><td class="time">03:36</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="dj（页面不存在）">dj</a></td></tr><tr><td class="left"></td><td class="label">初发布</td><td class="text" colspan="2"><a href="./サングレイザー.md#1" title="サングレイザー">Land of Illusions</a><div class="source"><a href="./サングレイザー.md" title="サングレイザー">サングレイザー</a></div></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./妖妖梦_～_Snow_or_Cherry_Petal.md" class="mw-redirect" title="妖々夢 ～ Snow or Cherry Petal">妖々夢　～ Snow or Cherry Petal</a></div><div class="source"><a href="./东方妖妖梦.md" class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr>
+<tr><td id="2" class="infoO"><b>02</b></td><td id="Koi死" colspan="2" class="title">Koi死</td><td class="time">07:20</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="dj（页面不存在）">dj</a></td></tr><tr><td class="left"></td><td class="label">初发布</td><td class="text" colspan="2"><a href="./サングレイザー.md#2" title="サングレイザー">Koi死</a><div class="source"><a href="./サングレイザー.md" title="サングレイザー">サングレイザー</a></div></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./Last_Remote.md" class="mw-redirect" title="ラストリモート">ラストリモート</a></div><div class="source"><a href="./东方地灵殿.md" class="mw-redirect" title="东方地灵殿 ～ Subterranean Animism.">东方地灵殿　～ Subterranean Animism.</a></div></td></tr>
+<tr><td id="3" class="infoO"><b>03</b></td><td id="L​æ​vateinn" colspan="2" class="title">L​æ​vateinn</td><td class="time">07:56</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="dj（页面不存在）">dj</a></td></tr><tr><td class="left"></td><td class="label">初发布</td><td class="text" colspan="2"><a href="./サングレイザー.md#3" title="サングレイザー">Lævateinn</a><div class="source"><a href="./サングレイザー.md" title="サングレイザー">サングレイザー</a></div></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./U.N.OWEN就是她吗？.md" class="mw-redirect" title="U.N.オーエンは彼女なのか？">U.N.オーエンは彼女なのか？</a></div><div class="source"><a href="./东方红魔乡.md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr>
+<tr><td id="4" class="infoO"><b>04</b></td><td id="流​星​宇​宙" colspan="2" class="title">流​星​宇​宙</td><td class="time">09:46</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="dj（页面不存在）">dj</a></td></tr><tr><td class="left"></td><td class="label">初发布</td><td class="text" colspan="2"><a href="./サングレイザー.md#4" title="サングレイザー">流星宇宙</a><div class="source"><a href="./サングレイザー.md" title="サングレイザー">サングレイザー</a></div></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./禁忌的魔法_～_Forbidden_Magic.md" class="mw-redirect" title="禁断の魔法 ～ Forbidden Magic">禁断の魔法　～ Forbidden Magic</a></div><div class="source"><a href="./东方怪绮谈.md" class="mw-redirect" title="东方怪绮谈 ～ Mystic Square.">东方怪绮谈　～ Mystic Square.</a></div></td></tr></tbody></table>
 
 
 ## 评论
@@ -69,14 +57,6 @@ Thank you for 10 years of irreplaceable memories. This is a re-imagining of the 
   
 XFD
   
-  
-  
-
-  
-
-
-
-
 
 ---
 

@@ -1,12 +1,8 @@
 # 文件:Tinker_JunKtionbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b2\ns6%3ATinker_JunKtionbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b2\ns6%3ATinker_JunKtionbanner%2Ejpg.html -->
 
 Tinker_JunKtion | 社团LOGO
-
-
-
-
 
 
 ---

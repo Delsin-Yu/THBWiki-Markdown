@@ -1,22 +1,17 @@
 # SYO
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\8\8b\ns0%3ASYO.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\8\8b\ns0%3ASYO.html -->
 
 现实人物
 
 本页是关于东方Project  
- **二次同人创作者** 的词条
-
+**二次同人创作者**的词条
 ## 基本信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="label"><b>名称</b></td><td> SYO </td></tr><tr><td class="label"><b>所属社团</b></td><td><b>当前</b><div style="margin-left:2em;"><a href="./SOUND_HOLIC.md" title="SOUND HOLIC">SOUND HOLIC</a>
 <a href="./SWING_HOLIC.md" title="SWING HOLIC">SWING HOLIC</a></div></td></tr><tr><td class="label"><b>职位</b></td><td>演唱</td></tr><tr><td class="label"><b>参与社团</b></td><td><a href="./CYTOKINE.md" title="CYTOKINE">CYTOKINE</a> （演唱）<br><a href="./SOUND_HOLIC.md" title="SOUND HOLIC">SOUND HOLIC</a> （演唱）<br><a href="./SWING_HOLIC.md" title="SWING HOLIC">SWING HOLIC</a> （演唱）<br><a href="./ZYTOKINE.md" title="ZYTOKINE">ZYTOKINE</a> （演唱）</td></tr><tr><td class="label"><b>性别</b></td><td>女</td></tr></tbody></table>
 
 SYO（人物） - 现实人物
-
-
-
-
 ---
 
 此文档由 [THBWiki-Markdown-Builder](https://github.com/Delsin-Yu/THBWiki-Markdown-Builder) 构建。

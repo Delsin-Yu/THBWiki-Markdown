@@ -1,6 +1,6 @@
 # 文件:命名決闘のススメ_Vol._2封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a0\ns6%3A%E5%91%BD%E5%90%8D%E6%B1%BA%E9%97%98%E3%81%AE%E3%82%B9%E3%82%B9%E3%83%A1_Vol%2E_2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a0\ns6%3A%E5%91%BD%E5%90%8D%E6%B1%BA%E9%97%98%E3%81%AE%E3%82%B9%E3%82%B9%E3%83%A1_Vol%2E_2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Flypaper | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@ Flypaper | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [命名決闘のススメ Vol. 2](./命名決闘のススメ_Vol._2.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
+- [命名決闘のススメ Vol. 2](./命名決闘のススメ_Vol._2.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
   
-源地址：[direct image link](https://ogikaze.up.seesaa.net/image/sp2_1.jpg), [source page](http://ogikaze.seesaa.net/article/142688446.html)
-  
-
-
-
-
+源地址：[direct image link](https://ogikaze.up.seesaa.net/image/sp2_1.jpg), [source page](http://ogikaze.seesaa.net/article/142688446.html)  
 
 ---
 

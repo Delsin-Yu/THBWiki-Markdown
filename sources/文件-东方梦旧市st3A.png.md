@@ -1,12 +1,8 @@
 # 文件:东方梦旧市st3A.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b0\ns6%3A%E4%B8%9C%E6%96%B9%E6%A2%A6%E6%97%A7%E5%B8%82st3A%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b0\ns6%3A%E4%B8%9C%E6%96%B9%E6%A2%A6%E6%97%A7%E5%B8%82st3A%2Epng.html -->
 
 Τeam_αlternative_Σnding
-
-
-
-
 
 
 ---

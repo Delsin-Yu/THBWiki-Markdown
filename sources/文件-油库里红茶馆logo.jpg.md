@@ -1,12 +1,8 @@
 # 文件:油库里红茶馆logo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c3\ns6%3A%E6%B2%B9%E5%BA%93%E9%87%8C%E7%BA%A2%E8%8C%B6%E9%A6%86logo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c3\ns6%3A%E6%B2%B9%E5%BA%93%E9%87%8C%E7%BA%A2%E8%8C%B6%E9%A6%86logo%2Ejpg.html -->
 
 油库里红茶馆 | 社团LOGO
-
-
-
-
 
 
 ---

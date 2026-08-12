@@ -1,12 +1,8 @@
 # 文件:花吉屋logo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\55\ns6%3A%E8%8A%B1%E5%90%89%E5%B1%8Blogo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\55\ns6%3A%E8%8A%B1%E5%90%89%E5%B1%8Blogo%2Epng.html -->
 
 社团LOGO | 花吉屋
-
-
-
-
 
 
 ---

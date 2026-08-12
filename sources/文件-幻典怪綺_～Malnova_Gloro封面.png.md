@@ -1,6 +1,6 @@
 # 文件:幻典怪綺_～Malnova_Gloro封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\06\ns6%3A%E5%B9%BB%E5%85%B8%E6%80%AA%E7%B6%BA_%EF%BD%9EMalnova_Gloro%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\06\ns6%3A%E5%B9%BB%E5%85%B8%E6%80%AA%E7%B6%BA_%EF%BD%9EMalnova_Gloro%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 作画法界 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [幻典怪綺 ～Malnova Gloro](./幻典怪綺_～Malnova_Gloro.md)  
-该封面包含的角色：- [冈崎梦美](./冈崎梦美.md)
-
-
-
+- [幻典怪綺 ～Malnova Gloro](./幻典怪綺_～Malnova_Gloro.md)该封面包含的角色：
+- [冈崎梦美](./冈崎梦美.md)
 
 
 ---

@@ -1,16 +1,12 @@
 # 文件:白梦琳家LOGO.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9f\ns6%3A%E7%99%BD%E6%A2%A6%E7%90%B3%E5%AE%B6LOGO%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9f\ns6%3A%E7%99%BD%E6%A2%A6%E7%90%B3%E5%AE%B6LOGO%2Ejpg.html -->
 
 白梦琳家 | 社团LOGO
 
   
 社团徽章
   
-
-
-
-
 
 ---
 

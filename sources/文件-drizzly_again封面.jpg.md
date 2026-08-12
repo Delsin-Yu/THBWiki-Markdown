@@ -1,6 +1,6 @@
 # 文件:drizzly_again封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9d\ns6%3Adrizzly_again%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9d\ns6%3Adrizzly_again%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 COOL&CREATE | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ COOL&CREATE | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [drizzly again](./drizzly_again.md)  
-该封面包含的角色：- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
-
-
-
+- [drizzly again](./drizzly_again.md)该封面包含的角色：
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
 
 
 ---

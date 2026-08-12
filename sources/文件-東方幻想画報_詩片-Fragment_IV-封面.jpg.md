@@ -1,6 +1,6 @@
 # 文件:東方幻想画報_詩片-Fragment_IV-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f4\ns6%3A%E6%9D%B1%E6%96%B9%E5%B9%BB%E6%83%B3%E7%94%BB%E5%A0%B1_%E8%A9%A9%E7%89%87-Fragment_IV-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f4\ns6%3A%E6%9D%B1%E6%96%B9%E5%B9%BB%E6%83%B3%E7%94%BB%E5%A0%B1_%E8%A9%A9%E7%89%87-Fragment_IV-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 虎之穴
 
@@ -8,11 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方幻想画報 詩片-Fragment IV-](./東方幻想画報_詩片-Fragment_IV-.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [雾雨魔理沙](./雾雨魔理沙.md)- [森近霖之助](./森近霖之助.md)- [无名的读书妖怪](./无名的读书妖怪.md)
-
-
-
+- [東方幻想画報 詩片-Fragment IV-](./東方幻想画報_詩片-Fragment_IV-.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
+- [森近霖之助](./森近霖之助.md)
+- [无名的读书妖怪](./无名的读书妖怪.md)
 
 
 ---

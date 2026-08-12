@@ -1,12 +1,8 @@
 # 文件:アールグレイlogo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\34\ns6%3A%E3%82%A2%E3%83%BC%E3%83%AB%E3%82%B0%E3%83%AC%E3%82%A4logo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\34\ns6%3A%E3%82%A2%E3%83%BC%E3%83%AB%E3%82%B0%E3%83%AC%E3%82%A4logo%2Epng.html -->
 
 アールグレイ | 社团LOGO
-
-
-
-
 
 
 ---

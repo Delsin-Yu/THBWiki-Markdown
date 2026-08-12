@@ -1,6 +1,6 @@
 # 文件:RecordSIGMA_TOHO_Re：cord封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\58\ns6%3ARecordSIGMA_TOHO_Re%EF%BC%9Acord%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\58\ns6%3ARecordSIGMA_TOHO_Re%EF%BC%9Acord%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Record_SIGMA | 专辑封面 | 封面图片
 
@@ -10,11 +10,10 @@ Record_SIGMA | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [RecordSIGMA TOHO Re：cord](./RecordSIGMA_TOHO_Re：cord.md)  
-该封面包含的角色：- [古明地觉](./古明地觉.md)- [古明地恋](./古明地恋.md)- [秦心](./秦心.md)
-
-
-
+- [RecordSIGMA TOHO Re：cord](./RecordSIGMA_TOHO_Re：cord.md)该封面包含的角色：
+- [古明地觉](./古明地觉.md)
+- [古明地恋](./古明地恋.md)
+- [秦心](./秦心.md)
 
 
 ---

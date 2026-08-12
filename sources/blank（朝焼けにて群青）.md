@@ -1,54 +1,46 @@
 # blank（朝焼けにて群青）
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\9\96\ns0%3Ablank%EF%BC%88%E6%9C%9D%E7%84%BC%E3%81%91%E3%81%AB%E3%81%A6%E7%BE%A4%E9%9D%92%EF%BC%89.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\9\96\ns0%3Ablank%EF%BC%88%E6%9C%9D%E7%84%BC%E3%81%91%E3%81%AB%E3%81%A6%E7%BE%A4%E9%9D%92%EF%BC%89.html -->
 
 2011年5月8日 由 朝焼けにて群青 于 博丽神社例大祭8 发布的单曲同人专辑，曲目主要风格是 Rock，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人专辑 (未找到链接)** 的词条
-
+**[二次创作同人专辑](./二次创作.md#同人音乐)**的词条
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-blank（朝焼けにて群青）封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/d/df/blank%EF%BC%88%E6%9C%9D%E7%84%BC%E3%81%91%E3%81%AB%E3%81%A6%E7%BE%A4%E9%9D%92%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/250px-blank%EF%BC%88%E6%9C%9D%E7%84%BC%E3%81%91%E3%81%AB%E3%81%A6%E7%BE%A4%E9%9D%92%EF%BC%89%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="250" height="252" srcset="https://upload.thwiki.cc/thumb/d/df/blank%EF%BC%88%E6%9C%9D%E7%84%BC%E3%81%91%E3%81%AB%E3%81%A6%E7%BE%A4%E9%9D%92%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/374px-blank%EF%BC%88%E6%9C%9D%E7%84%BC%E3%81%91%E3%81%AB%E3%81%A6%E7%BE%A4%E9%9D%92%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/d/df/blank%EF%BC%88%E6%9C%9D%E7%84%BC%E3%81%91%E3%81%AB%E3%81%A6%E7%BE%A4%E9%9D%92%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/499px-blank%EF%BC%88%E6%9C%9D%E7%84%BC%E3%81%91%E3%81%AB%E3%81%A6%E7%BE%A4%E9%9D%92%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="633" data-file-height="639"></a><div class="cover-char">角色：<a href="./古明地恋.md" title="古明地恋">古明地恋</a></div></td>
 </tr><tr><td class="label">名称</td><td colspan="2"> blank </td></tr><tr><td class="label">制作方</td><td><a href="./朝焼けにて群青.md" title="朝焼けにて群青">朝焼けにて群青</a></td><td class="cover-artwork" rowspan="9" style="min-width:252px;"><a href="./文件-blank（朝焼けにて群青）封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/d/df/blank%EF%BC%88%E6%9C%9D%E7%84%BC%E3%81%91%E3%81%AB%E3%81%A6%E7%BE%A4%E9%9D%92%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/250px-blank%EF%BC%88%E6%9C%9D%E7%84%BC%E3%81%91%E3%81%AB%E3%81%A6%E7%BE%A4%E9%9D%92%EF%BC%89%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="250" height="252" srcset="https://upload.thwiki.cc/thumb/d/df/blank%EF%BC%88%E6%9C%9D%E7%84%BC%E3%81%91%E3%81%AB%E3%81%A6%E7%BE%A4%E9%9D%92%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/374px-blank%EF%BC%88%E6%9C%9D%E7%84%BC%E3%81%91%E3%81%AB%E3%81%A6%E7%BE%A4%E9%9D%92%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/d/df/blank%EF%BC%88%E6%9C%9D%E7%84%BC%E3%81%91%E3%81%AB%E3%81%A6%E7%BE%A4%E9%9D%92%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/499px-blank%EF%BC%88%E6%9C%9D%E7%84%BC%E3%81%91%E3%81%AB%E3%81%A6%E7%BE%A4%E9%9D%92%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="633" data-file-height="639"></a><div class="cover-char">角色：<a href="./古明地恋.md" title="古明地恋">古明地恋</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2011-05-08&#160;（<a href="/展会作品列表?e=%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD%238">第八回 博麗神社例大祭</a>）</td></tr><tr><td class="label">类型</td><td>单曲</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>3</td></tr><tr><td class="label">总时长</td><td>00:00</td></tr><tr><td class="label">风格类型</td><td>Rock</td></tr><tr><td class="label">售价</td><td>会场售价：100日元</td></tr>
+</tr><tr><td class="label">首发日期</td><td>2011-05-08 （<a href="./展会作品列表.md#8">第八回 博麗神社例大祭</a>）</td></tr><tr><td class="label">类型</td><td>单曲</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>3</td></tr><tr><td class="label">总时长</td><td>00:00</td></tr><tr><td class="label">风格类型</td><td>Rock</td></tr><tr><td class="label">售价</td><td>会场售价：100日元</td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://asayake.xxxxxxxx.jp/blank.html">http://asayake.xxxxxxxx.jp/blank.html</a></td></tr></tbody></table>
 
 blank（同人专辑，朝焼けにて群青，2011） - 2011年5月8日 由 朝焼けにて群青 于 博丽神社例大祭8 发布的单曲同人专辑，曲目主要风格是 Rock，分级为 一般向
-
 ## Staff
   
- **Arrangement**   
+**Arrangement**  
 
-<table><tbody><tr><td><a href="/index.php?title=%E3%81%82%E3%81%BE%E3%81%8F%E3%81%95&amp;action=edit&amp;redlink=1" class="new" title="あまくさ（页面不存在）">あまくさ</a></td><td></td><td>Tr.1/2</td></tr></tbody></table>
-
-  
- **Vocal**   
-
-<table><tbody><tr><td><a href="/index.php?title=%E3%81%82%E3%81%BE%E3%81%8F%E3%81%95&amp;action=edit&amp;redlink=1" class="new" title="あまくさ（页面不存在）">あまくさ</a></td><td></td><td>Tr.1/2</td></tr></tbody></table>
+<table><tbody><tr><td><a class="new" title="あまくさ（页面不存在）">あまくさ</a></td><td></td><td>Tr.1/2</td></tr></tbody></table>
 
   
- **Lyrics**   
+**Vocal**  
 
-<table><tbody><tr><td><a href="/index.php?title=%E3%81%82%E3%81%BE%E3%81%8F%E3%81%95&amp;action=edit&amp;redlink=1" class="new" title="あまくさ（页面不存在）">あまくさ</a></td><td></td><td>Tr.1/2</td></tr></tbody></table>
+<table><tbody><tr><td><a class="new" title="あまくさ（页面不存在）">あまくさ</a></td><td></td><td>Tr.1/2</td></tr></tbody></table>
 
+  
+**Lyrics**  
+
+<table><tbody><tr><td><a class="new" title="あまくさ（页面不存在）">あまくさ</a></td><td></td><td>Tr.1/2</td></tr></tbody></table>
 
 Illustration
 : あまくさ
 
-
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoRD"><b>01</b></td><td id="blank" colspan="2" class="title"><span class="new" title="（歌词页面不存在）"><a href="/index.php?title=%E6%AD%8C%E8%AF%8D:blank&amp;boilerplate=模板:页面模板/曲目歌词&amp;action=edit">blank</a></span><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=あまくさ&amp;vocal=あまくさ&amp;lyric=あまくさ&amp;ogmusic=ハルトマンの妖怪少女&amp;fromwiki=blank（朝焼けにて群青）"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E3%81%82%E3%81%BE%E3%81%8F%E3%81%95&amp;action=edit&amp;redlink=1" class="new" title="あまくさ（页面不存在）">あまくさ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，あまくさ&amp;fromwiki=blank（朝焼けにて群青）"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="/index.php?title=%E3%81%82%E3%81%BE%E3%81%8F%E3%81%95&amp;action=edit&amp;redlink=1" class="new" title="あまくさ（页面不存在）">あまくさ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=あまくさ&amp;fromwiki=blank（朝焼けにて群青）"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="/index.php?title=%E3%81%82%E3%81%BE%E3%81%8F%E3%81%95&amp;action=edit&amp;redlink=1" class="new" title="あまくさ（页面不存在）">あまくさ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?lyric=あまくさ&amp;fromwiki=blank（朝焼けにて群青）"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=ハルトマンの妖怪少女&amp;fromwiki=blank（朝焼けにて群青）"><span></span></a></span><div class="ogmusic"><a href="./ハルトマンの妖怪少女.md" class="mw-redirect" title="ハルトマンの妖怪少女">ハルトマンの妖怪少女</a></div><div class="source"><a href="./东方地灵殿_～_Subterranean_Animism..md" class="mw-redirect" title="东方地灵殿 ～ Subterranean Animism.">东方地灵殿　～ Subterranean Animism.</a></div></td></tr>
-<tr><td id="2" class="infoRD"><b>02</b></td><td id="レミリア" colspan="2" class="title"><span class="new" title="（歌词页面不存在）"><a href="/index.php?title=%E6%AD%8C%E8%AF%8D:%E3%83%AC%E3%83%9F%E3%83%AA%E3%82%A2&amp;boilerplate=模板:页面模板/曲目歌词&amp;action=edit">レミリア</a></span><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=あまくさ&amp;vocal=あまくさ&amp;lyric=あまくさ&amp;ogmusic=亡き王女の為のセプテット&amp;fromwiki=blank（朝焼けにて群青）"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E3%81%82%E3%81%BE%E3%81%8F%E3%81%95&amp;action=edit&amp;redlink=1" class="new" title="あまくさ（页面不存在）">あまくさ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，あまくさ&amp;fromwiki=blank（朝焼けにて群青）"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="/index.php?title=%E3%81%82%E3%81%BE%E3%81%8F%E3%81%95&amp;action=edit&amp;redlink=1" class="new" title="あまくさ（页面不存在）">あまくさ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=あまくさ&amp;fromwiki=blank（朝焼けにて群青）"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="/index.php?title=%E3%81%82%E3%81%BE%E3%81%8F%E3%81%95&amp;action=edit&amp;redlink=1" class="new" title="あまくさ（页面不存在）">あまくさ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?lyric=あまくさ&amp;fromwiki=blank（朝焼けにて群青）"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=亡き王女の為のセプテット&amp;fromwiki=blank（朝焼けにて群青）"><span></span></a></span><div class="ogmusic"><a href="./亡き王女の為のセプテット.md" class="mw-redirect" title="亡き王女の為のセプテット">亡き王女の為のセプテット</a></div><div class="source"><a href="./东方红魔乡_～_the_Embodiment_of_Scarlet_Devil..md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr>
-<tr><td id="3" class="info"><b>03</b></td><td id="BonusTrack" colspan="2" class="title">BonusTrack<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?&amp;fromwiki=blank（朝焼けにて群青）"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr></tbody></table>
-
+<table><tbody><tr><td id="1" class="infoRD"><b>01</b></td><td id="blank" colspan="2" class="title"><span class="new" title="（歌词页面不存在）"><a>blank</a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="あまくさ（页面不存在）">あまくさ</a></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a class="new" title="あまくさ（页面不存在）">あまくさ</a></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a class="new" title="あまくさ（页面不存在）">あまくさ</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./哈德曼的妖怪少女.md" class="mw-redirect" title="ハルトマンの妖怪少女">ハルトマンの妖怪少女</a></div><div class="source"><a href="./东方地灵殿.md" class="mw-redirect" title="东方地灵殿 ～ Subterranean Animism.">东方地灵殿　～ Subterranean Animism.</a></div></td></tr>
+<tr><td id="2" class="infoRD"><b>02</b></td><td id="レミリア" colspan="2" class="title"><span class="new" title="（歌词页面不存在）"><a>レミリア</a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="あまくさ（页面不存在）">あまくさ</a></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a class="new" title="あまくさ（页面不存在）">あまくさ</a></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a class="new" title="あまくさ（页面不存在）">あまくさ</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./献给已逝公主的七重奏.md" class="mw-redirect" title="亡き王女の為のセプテット">亡き王女の為のセプテット</a></div><div class="source"><a href="./东方红魔乡.md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr>
+<tr><td id="3" class="info"><b>03</b></td><td id="BonusTrack" colspan="2" class="title">BonusTrack</td><td class="time">-</td></tr></tbody></table>
 
 
 ## 评论
-
-
-
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:Little_Umbrella封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\66\ns6%3ALittle_Umbrella%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\66\ns6%3ALittle_Umbrella%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Suiren_：MusicStorage | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Suiren_：MusicStorage | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Little Umbrella](./Little_Umbrella.md)  
-该封面包含的角色：- [多多良小伞](./多多良小伞.md)
-
-
-
+- [Little Umbrella](./Little_Umbrella.md)该封面包含的角色：
+- [多多良小伞](./多多良小伞.md)
 
 
 ---

@@ -1,16 +1,11 @@
 # 文件:overTunerbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\79\ns6%3AoverTunerbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\79\ns6%3AoverTunerbanner%2Epng.html -->
 
 overTuner | 社团LOGO
 
   
-源地址：[[1]](http://web.archive.org/web/20131219154452im_/http://overtunergig.net/img/banner.png)
-  
-
-
-
-
+源地址：[\[1\]](http://web.archive.org/web/20131219154452im_/http://overtunergig.net/img/banner.png)  
 
 ---
 

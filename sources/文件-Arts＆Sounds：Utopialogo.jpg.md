@@ -1,16 +1,11 @@
 # 文件:Arts＆Sounds：Utopialogo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\29\ns6%3AArts%EF%BC%86Sounds%EF%BC%9AUtopialogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\29\ns6%3AArts%EF%BC%86Sounds%EF%BC%9AUtopialogo%2Ejpg.html -->
 
 Arts＆Sounds：Utopia | 社团LOGO
 
   
-源地址：[[1]](https://c.fantia.jp/uploads/fanclub/icon_image/13686/thumb_0b170975-9bf2-4bb4-b0b9-9ebf1e105848.png)
-  
-
-
-
-
+源地址：[\[1\]](https://c.fantia.jp/uploads/fanclub/icon_image/13686/thumb_0b170975-9bf2-4bb4-b0b9-9ebf1e105848.png)  
 
 ---
 

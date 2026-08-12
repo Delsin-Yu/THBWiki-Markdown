@@ -1,6 +1,6 @@
 # 文件:A：Wake封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fe\ns6%3AA%EF%BC%9AWake%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fe\ns6%3AA%EF%BC%9AWake%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Starlight_Syndrome | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@ Starlight_Syndrome | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [A：Wake](./A：Wake.md)  
-该封面包含的角色：- 原创角色 (未找到链接)
+- [A：Wake](./A：Wake.md)该封面包含的角色：
+- 原创角色 (未找到链接)
 
   
-源地址：[direct image link (original size)](https://pbs.twimg.com/media/C-wSarRXgAAlCo1?format=jpg&amp;name=orig), [source tweet](https://twitter.com/ogiharu334/status/859082444548341761)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://pbs.twimg.com/media/C-wSarRXgAAlCo1?format=jpg&name=orig), [source tweet](https://twitter.com/ogiharu334/status/859082444548341761)  
 
 ---
 

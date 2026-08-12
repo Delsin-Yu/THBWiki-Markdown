@@ -1,6 +1,6 @@
 # 文件:理想郷-Demo-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0a\ns6%3A%E7%90%86%E6%83%B3%E9%83%B7-Demo-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0a\ns6%3A%E7%90%86%E6%83%B3%E9%83%B7-Demo-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 非現実境界
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [理想郷-Demo-](./理想郷-Demo-.md)  
-该封面包含的角色：- [村纱水蜜](./村纱水蜜.md)
-
-
-
+- [理想郷-Demo-](./理想郷-Demo-.md)该封面包含的角色：
+- [村纱水蜜](./村纱水蜜.md)
 
 
 ---

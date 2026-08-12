@@ -1,12 +1,8 @@
 # 文件:红符「Scarlet_Meister」（红魔乡）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8b\ns6%3A%E7%BA%A2%E7%AC%A6%E3%80%8CScarlet_Meister%E3%80%8D%EF%BC%88%E7%BA%A2%E9%AD%94%E4%B9%A1%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8b\ns6%3A%E7%BA%A2%E7%AC%A6%E3%80%8CScarlet_Meister%E3%80%8D%EF%BC%88%E7%BA%A2%E9%AD%94%E4%B9%A1%EF%BC%89%2Ejpg.html -->
 
 东方红魔乡 | 敌机符卡 | 蕾米莉亚·斯卡蕾特
-
-
-
-
 
 
 ---

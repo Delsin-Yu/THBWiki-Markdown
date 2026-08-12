@@ -1,12 +1,8 @@
 # 文件:pre-blossombanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\16\ns6%3Apre-blossombanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\16\ns6%3Apre-blossombanner%2Epng.html -->
 
 pre-blossom | 社团LOGO
-
-
-
-
 
 
 ---

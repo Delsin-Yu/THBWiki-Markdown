@@ -1,6 +1,6 @@
 # 文件:Bullet_Blitz_～天孫降臨～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\af\ns6%3ABullet_Blitz_%EF%BD%9E%E5%A4%A9%E5%AD%AB%E9%99%8D%E8%87%A8%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\af\ns6%3ABullet_Blitz_%EF%BD%9E%E5%A4%A9%E5%AD%AB%E9%99%8D%E8%87%A8%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 IRON_ATTACK! | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ IRON_ATTACK! | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Bullet Blitz ～天孫降臨～](./Bullet_Blitz_～天孫降臨～.md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)
+- [Bullet Blitz ～天孫降臨～](./Bullet_Blitz_～天孫降臨～.md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
 
   
-源地址：[[1]](https://static.wixstatic.com/media/a3c246_0c8971d959b84cfc9bc3fdbeb8b27670.jpg/v1/fill/w_490,h_460,al_c,q_80,usm_0.66_1.00_0.01/a3c246_0c8971d959b84cfc9bc3fdbeb8b27670.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://static.wixstatic.com/media/a3c246_0c8971d959b84cfc9bc3fdbeb8b27670.jpg/v1/fill/w_490,h_460,al_c,q_80,usm_0.66_1.00_0.01/a3c246_0c8971d959b84cfc9bc3fdbeb8b27670.jpg)  
 
 ---
 

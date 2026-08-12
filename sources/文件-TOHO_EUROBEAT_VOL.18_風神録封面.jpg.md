@@ -1,6 +1,6 @@
 # 文件:TOHO_EUROBEAT_VOL.18_風神録封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1f\ns6%3ATOHO_EUROBEAT_VOL%2E18_%E9%A2%A8%E7%A5%9E%E9%8C%B2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1f\ns6%3ATOHO_EUROBEAT_VOL%2E18_%E9%A2%A8%E7%A5%9E%E9%8C%B2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 A-One | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ A-One | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [TOHO EUROBEAT VOL.18 風神録](./TOHO_EUROBEAT_VOL.18_風神録.md)  
-该封面包含的角色：- [八坂神奈子](./八坂神奈子.md)
-
-
-
+- [TOHO EUROBEAT VOL.18 風神録](./TOHO_EUROBEAT_VOL.18_風神録.md)该封面包含的角色：
+- [八坂神奈子](./八坂神奈子.md)
 
 
 ---

@@ -1,14 +1,11 @@
 # 文件:thEIoS_05.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3b\ns6%3AthEIoS_05%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3b\ns6%3AthEIoS_05%2Emp3.html -->
 
 东方祈华梦制作组 | 失色的镜像世界
 
 
 ## 文件说明
-
-
-
 
 ---
 

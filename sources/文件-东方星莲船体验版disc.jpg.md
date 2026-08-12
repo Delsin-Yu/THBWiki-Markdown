@@ -1,16 +1,12 @@
 # 文件:东方星莲船体验版disc.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\04\ns6%3A%E4%B8%9C%E6%96%B9%E6%98%9F%E8%8E%B2%E8%88%B9%E4%BD%93%E9%AA%8C%E7%89%88disc%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\04\ns6%3A%E4%B8%9C%E6%96%B9%E6%98%9F%E8%8E%B2%E8%88%B9%E4%BD%93%E9%AA%8C%E7%89%88disc%2Ejpg.html -->
 
 东方星莲船 | 官方游戏体验版光盘扫图
 
   
 此图片来自于网络并经过处理
   
-
-
-
-
 
 ---
 

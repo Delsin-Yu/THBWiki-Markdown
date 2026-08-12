@@ -1,18 +1,13 @@
 # 文件:うんまきbanner2.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ef\ns6%3A%E3%81%86%E3%82%93%E3%81%BE%E3%81%8Dbanner2%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ef\ns6%3A%E3%81%86%E3%82%93%E3%81%BE%E3%81%8Dbanner2%2Egif.html -->
 
 うんまき | 社团LOGO
 
 
 ## 摘要
   
-源地址：[direct image link](http://unmaki.web.fc2.com/banner.gif), [source page](http://unmaki.web.fc2.com/m.html)
-  
-
-
-
-
+源地址：[direct image link](http://unmaki.web.fc2.com/banner.gif), [source page](http://unmaki.web.fc2.com/m.html)  
 
 ---
 

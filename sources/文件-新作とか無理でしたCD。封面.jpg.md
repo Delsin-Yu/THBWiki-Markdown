@@ -1,6 +1,6 @@
 # 文件:新作とか無理でしたCD。封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d6\ns6%3A%E6%96%B0%E4%BD%9C%E3%81%A8%E3%81%8B%E7%84%A1%E7%90%86%E3%81%A7%E3%81%97%E3%81%9FCD%E3%80%82%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d6\ns6%3A%E6%96%B0%E4%BD%9C%E3%81%A8%E3%81%8B%E7%84%A1%E7%90%86%E3%81%A7%E3%81%97%E3%81%9FCD%E3%80%82%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Siestail | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Siestail | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [新作とか無理でしたCD。](./新作とか無理でしたCD。.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [新作とか無理でしたCD。](./新作とか無理でしたCD。.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

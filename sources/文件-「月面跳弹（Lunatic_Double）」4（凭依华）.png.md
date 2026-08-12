@@ -1,12 +1,8 @@
 # 文件:「月面跳弹（Lunatic_Double）」4（凭依华）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d4\ns6%3A%E3%80%8C%E6%9C%88%E9%9D%A2%E8%B7%B3%E5%BC%B9%EF%BC%88Lunatic_Double%EF%BC%89%E3%80%8D4%EF%BC%88%E5%87%AD%E4%BE%9D%E5%8D%8E%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d4\ns6%3A%E3%80%8C%E6%9C%88%E9%9D%A2%E8%B7%B3%E5%BC%B9%EF%BC%88Lunatic_Double%EF%BC%89%E3%80%8D4%EF%BC%88%E5%87%AD%E4%BE%9D%E5%8D%8E%EF%BC%89%2Epng.html -->
 
 东方凭依华 | 自机符卡 | 铃仙·优昙华院·因幡
-
-
-
-
 
 
 ---

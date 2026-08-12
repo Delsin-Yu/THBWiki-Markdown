@@ -1,16 +1,8 @@
 # 模板:THD2英雄
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\5\5d\ns10%3ATHD2%E8%8B%B1%E9%9B%84.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\5\5d\ns10%3ATHD2%E8%8B%B1%E9%9B%84.html -->
 
 AvalonStudioOfficial | 信息模板
-
-  
-  
-
-  
-
-
-
 
 
 ---

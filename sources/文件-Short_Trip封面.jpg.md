@@ -1,6 +1,6 @@
 # 文件:Short_Trip封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\46\ns6%3AShort_Trip%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\46\ns6%3AShort_Trip%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Team_Nuclear_Generator | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Team_Nuclear_Generator | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Short Trip](./Short_Trip.md)  
-该封面包含的角色：- [八云紫](./八云紫.md)
-
-
-
+- [Short Trip](./Short_Trip.md)该封面包含的角色：
+- [八云紫](./八云紫.md)
 
 
 ---

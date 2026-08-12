@@ -1,6 +1,6 @@
 # 文件:Barrage_Am_Ring_1_B／side封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f0\ns6%3ABarrage_Am_Ring_1_B%EF%BC%8Fside%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f0\ns6%3ABarrage_Am_Ring_1_B%EF%BC%8Fside%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Barrage_Am_Ring | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ Barrage_Am_Ring | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Barrage Am Ring 1 B／side](./Barrage_Am_Ring_1_B／side.md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)- [西行寺幽幽子](./西行寺幽幽子.md)
-
-
-
+- [Barrage Am Ring 1 B／side](./Barrage_Am_Ring_1_B／side.md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
+- [西行寺幽幽子](./西行寺幽幽子.md)
 
 
 ---

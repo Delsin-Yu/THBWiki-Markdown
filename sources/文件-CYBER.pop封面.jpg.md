@@ -1,6 +1,6 @@
 # 文件:CYBER.pop封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d6\ns6%3ACYBER%2Epop%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d6\ns6%3ACYBER%2Epop%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Diavolo_Nebbia | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Diavolo_Nebbia | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [CYBER.pop](./CYBER.pop.md)  
-该封面包含的角色：- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [CYBER.pop](./CYBER.pop.md)该封面包含的角色：
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

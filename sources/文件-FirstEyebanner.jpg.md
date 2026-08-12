@@ -1,18 +1,13 @@
 # 文件:FirstEyebanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\16\ns6%3AFirstEyebanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\16\ns6%3AFirstEyebanner%2Ejpg.html -->
 
 First_Eye | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[direct image link](https://wox.cc/user/bt_t45/o/bannar.jpg), [source page](https://firsteye.web.wox.cc/)
-  
-
-
-
-
+源地址：[direct image link](https://wox.cc/user/bt_t45/o/bannar.jpg), [source page](https://firsteye.web.wox.cc/)  
 
 ---
 

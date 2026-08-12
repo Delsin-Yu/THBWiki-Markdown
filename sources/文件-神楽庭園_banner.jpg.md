@@ -1,12 +1,8 @@
 # 文件:神楽庭園_banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1f\ns6%3A%E7%A5%9E%E6%A5%BD%E5%BA%AD%E5%9C%92_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1f\ns6%3A%E7%A5%9E%E6%A5%BD%E5%BA%AD%E5%9C%92_banner%2Ejpg.html -->
 
 社团LOGO | 神楽庭園
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:XXXXX_EX_Stage_R-21封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\52\ns6%3AXXXXX_EX_Stage_R-21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\52\ns6%3AXXXXX_EX_Stage_R-21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 モヒカンサンドバッグ | 专辑封面 | 封面图片 | 幽幻屋
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [XXXXX EX Stage R-21](./XXXXX_EX_Stage_R-21.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)- [封兽鵺](./封兽鵺.md)
-
-
-
+- [XXXXX EX Stage R-21](./XXXXX_EX_Stage_R-21.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [封兽鵺](./封兽鵺.md)
 
 
 ---

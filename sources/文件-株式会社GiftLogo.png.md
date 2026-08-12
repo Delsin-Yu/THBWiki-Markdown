@@ -1,14 +1,11 @@
 # 文件:株式会社GiftLogo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1b\ns6%3A%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BEGiftLogo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1b\ns6%3A%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BEGiftLogo%2Epng.html -->
 
 Gift | 企业LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:東風洩祀_～_Lotus_from_orient封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\78\ns6%3A%E6%9D%B1%E9%A2%A8%E6%B4%A9%E7%A5%80_%EF%BD%9E_Lotus_from_orient%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\78\ns6%3A%E6%9D%B1%E9%A2%A8%E6%B4%A9%E7%A5%80_%EF%BD%9E_Lotus_from_orient%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 NoCturne | 专辑封面 | 封面图片
 
@@ -10,11 +10,9 @@ NoCturne | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東風洩祀 ～ Lotus from orient](./東風洩祀_～_Lotus_from_orient.md)  
-该封面包含的角色：- [东风谷早苗](./东风谷早苗.md)- [洩矢诹访子](./洩矢诹访子.md)
-
-
-
+- [東風洩祀 ～ Lotus from orient](./東風洩祀_～_Lotus_from_orient.md)该封面包含的角色：
+- [东风谷早苗](./东风谷早苗.md)
+- [洩矢诹访子](./洩矢诹访子.md)
 
 
 ---

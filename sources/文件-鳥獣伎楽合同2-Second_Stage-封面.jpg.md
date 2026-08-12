@@ -1,6 +1,6 @@
 # 文件:鳥獣伎楽合同2-Second_Stage-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f4\ns6%3A%E9%B3%A5%E7%8D%A3%E4%BC%8E%E6%A5%BD%E5%90%88%E5%90%8C2-Second_Stage-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f4\ns6%3A%E9%B3%A5%E7%8D%A3%E4%BC%8E%E6%A5%BD%E5%90%88%E5%90%8C2-Second_Stage-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 宵月夜 | 封面图片
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [鳥獣伎楽合同2-Second Stage-](./鳥獣伎楽合同2-Second_Stage-.md)  
-该封面包含的角色：- [米斯蒂娅·萝蕾拉](./米斯蒂娅·萝蕾拉.md)- [幽谷响子](./幽谷响子.md)
-
-
-
+- [鳥獣伎楽合同2-Second Stage-](./鳥獣伎楽合同2-Second_Stage-.md)该封面包含的角色：
+- [米斯蒂娅·萝蕾拉](./米斯蒂娅·萝蕾拉.md)
+- [幽谷响子](./幽谷响子.md)
 
 
 ---

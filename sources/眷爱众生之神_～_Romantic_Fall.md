@@ -1,37 +1,27 @@
 # 眷爱众生之神_～_Romantic_Fall
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\1\1a\ns0%3A%E7%9C%B7%E7%88%B1%E4%BC%97%E7%94%9F%E4%B9%8B%E7%A5%9E_%EF%BD%9E_Romantic_Fall.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\1\1a\ns0%3A%E7%9C%B7%E7%88%B1%E4%BC%97%E7%94%9F%E4%B9%8B%E7%A5%9E_%EF%BD%9E_Romantic_Fall.html -->
 
 由 ZUN 创作的官方曲目，原名 人恋し神様　～ Romantic Fall
 
 本页是关于东方Project  
- **原作音乐** 的词条
-
+**原作音乐**的词条
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 出现作品](#出现作品)
 - [3 音乐文件](#音乐文件)
-
   - [3.1 东方风神录](#东方风神录)
 
 
-
 - [4 说明文本](#说明文本)
-
   - [4.1 东方风神录](#东方风神录_2)
 
 
-
 - [5 其他资料](#其他资料)
-
   - [5.1 乐理资讯](#乐理资讯)
   - [5.2 分析考据](#分析考据)
   - [5.3 二次同人数据](#二次同人数据)
-
-
-
-
 
 
 
@@ -41,14 +31,12 @@
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">人恋し神様　～ Romantic Fall</td></tr><tr><td><b>译名</b></td><td>眷爱众生之神 ～ Romantic Fall</td></tr><tr><td><b>英文译名</b></td><td>A God That Misses People ~ Romantic Fall</td></tr><tr><td><b>其他译名</b></td><td>喜爱人类的神明　～ Romantic Fall<br>眷恋众人之神　～ Romantic Fall</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 眷爱众生之神 ～ Romantic Fall（曲目） - 由 ZUN 创作的官方曲目，原名 人恋し神様　～ Romantic Fall
-
 ## 出现作品
 
 <table>
 <tbody><tr><td>2007年5月20日（第四回 博丽神社例大祭）</td><td><b><a href="./东方风神录.md" title="东方风神录">东方风神录</a>体验版</b></td><td>1面主题曲</td><td style="padding-left:5px;">人恋し神様　～ Romantic Fall（眷爱众生之神 ～ Romantic Fall）</td><td style="padding-left:10px;">作曲：ZUN</td></tr>
 <tr><td>2007年8月17日（Comic Market 72）</td><td><b><a href="./东方风神录.md" title="东方风神录">东方风神录</a>正式版</b></td><td>1面主题曲</td><td style="padding-left:5px;">人恋し神様　～ Romantic Fall（眷爱众生之神 ～ Romantic Fall）</td><td style="padding-left:10px;">作曲：ZUN</td></tr>
 </tbody></table>
-
 
 
 ## 音乐文件
@@ -63,11 +51,11 @@
 </td></tr></tbody></table>
 
 
-
 ## 说明文本
 
 ### 东方风神录
-- Music Room (未找到链接)
+
+- [Music Room](./东方风神录-Music.md#1面主题曲)
 
 　第一面的主题曲。  
 　这种节拍很久没使用了呢。  
@@ -75,26 +63,28 @@
 　还是毫无紧张感的曲调也好……  
 　这真是至今为止在东方中数一数二有第一面感觉的曲子了，  
 　大家觉得怎么样呢？
-
 ## 其他资料
 
 ### 乐理资讯
 
 ### 分析考据
   
- **人恋し神様　～ Romantic Fall**  眷爱众生之神　～ Romantic Fall
+**人恋し神様 ～ Romantic Fall** 眷爱众生之神　～ Romantic Fall
   
 
-- 人恋し
+- 人恋し 
   - 秋姐妹对人类有好感。
   - 神爱世人？
 
-- 神様
+
+- 神様 
   - 秋姐妹为秋之神。
 
-- Romantic Fall
+
+- Romantic Fall 
   - 浪漫之秋。
   - 秋姐妹。
+
 
 
 
@@ -110,17 +100,6 @@
 <tr><td>Arrange</td><td>494</td></tr>
 <tr><td>Vocal率</td><td>24.81%</td></tr>
 </tbody></table>
-
-
-
-
-  
-  
-
-  
-
-
-
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:摩多罗隐岐奈（dairi绘）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\03\ns6%3A%E6%91%A9%E5%A4%9A%E7%BD%97%E9%9A%90%E5%B2%90%E5%A5%88%EF%BC%88dairi%E7%BB%98%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\03\ns6%3A%E6%91%A9%E5%A4%9A%E7%BD%97%E9%9A%90%E5%B2%90%E5%A5%88%EF%BC%88dairi%E7%BB%98%EF%BC%89%2Epng.html -->
 
 NooblyPerson | 二次角色立绘 | 摩多罗隐岐奈（天陨梦）
-
-
-
-
 
 
 ---

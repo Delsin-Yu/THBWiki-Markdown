@@ -1,6 +1,6 @@
 # 文件:BLIND_BLUE封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ee\ns6%3ABLIND_BLUE%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ee\ns6%3ABLIND_BLUE%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Applice | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Applice | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [BLIND BLUE](./BLIND_BLUE.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [BLIND BLUE](./BLIND_BLUE.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
 
   
-源地址：[[1]](http://applice.com/works/aplc0015/img/pc/gallery/aplc-0015_jacket.png)
-  
-
-
-
-
+源地址：[\[1\]](http://applice.com/works/aplc0015/img/pc/gallery/aplc-0015_jacket.png)  
 
 ---
 

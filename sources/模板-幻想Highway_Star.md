@@ -1,16 +1,12 @@
 # 模板:幻想Highway_Star
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\2\21\ns10%3A%E5%B9%BB%E6%83%B3Highway_Star.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\2\21\ns10%3A%E5%B9%BB%E6%83%B3Highway_Star.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

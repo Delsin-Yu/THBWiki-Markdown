@@ -1,16 +1,12 @@
 # 文件:spsglwt.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\47\ns6%3Aspsglwt%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\47\ns6%3Aspsglwt%2Epng.html -->
 
 二次角色立绘 | 彣影杉 | 斯佩思·格拉维提
 
   
 斯佩思·格拉维提
   
-
-
-
-
 
 ---
 

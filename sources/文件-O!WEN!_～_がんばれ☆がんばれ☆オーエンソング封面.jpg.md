@@ -1,6 +1,6 @@
 # 文件:O!WEN!_～_がんばれ☆がんばれ☆オーエンソング封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\de\ns6%3AO%21WEN%21_%EF%BD%9E_%E3%81%8C%E3%82%93%E3%81%B0%E3%82%8C%E2%98%86%E3%81%8C%E3%82%93%E3%81%B0%E3%82%8C%E2%98%86%E3%82%AA%E3%83%BC%E3%82%A8%E3%83%B3%E3%82%BD%E3%83%B3%E3%82%B0%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\de\ns6%3AO%21WEN%21_%EF%BD%9E_%E3%81%8C%E3%82%93%E3%81%B0%E3%82%8C%E2%98%86%E3%81%8C%E3%82%93%E3%81%B0%E3%82%8C%E2%98%86%E3%82%AA%E3%83%BC%E3%82%A8%E3%83%B3%E3%82%BD%E3%83%B3%E3%82%B0%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 COOL&CREATE | DiGiTAL_WiNG | 专辑封面 | 封面图片 | 森羅万象
 
@@ -10,11 +10,8 @@ COOL&CREATE | DiGiTAL_WiNG | 专辑封面 | 封面图片 | 森羅万象
 使用了本文件作封面图片的作品：
   
 
-- [O!WEN! ～ がんばれ☆がんばれ☆オーエンソング](./O!WEN!_～_がんばれ☆がんばれ☆オーエンソング.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
-
-
-
+- [O!WEN! ～ がんばれ☆がんばれ☆オーエンソング](./O!WEN!_～_がんばれ☆がんばれ☆オーエンソング.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
 
 ---

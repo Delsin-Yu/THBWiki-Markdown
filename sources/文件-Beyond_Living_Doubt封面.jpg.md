@@ -1,6 +1,6 @@
 # 文件:Beyond_Living_Doubt封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7d\ns6%3ABeyond_Living_Doubt%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7d\ns6%3ABeyond_Living_Doubt%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 HIDDEN_TREASURE | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ HIDDEN_TREASURE | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Beyond Living Doubt](./Beyond_Living_Doubt.md)  
-该封面包含的角色：- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)
-
-
-
+- [Beyond Living Doubt](./Beyond_Living_Doubt.md)该封面包含的角色：
+- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)
 
 
 ---

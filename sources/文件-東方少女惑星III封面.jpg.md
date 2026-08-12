@@ -1,6 +1,6 @@
 # 文件:東方少女惑星III封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\ff\ns6%3A%E6%9D%B1%E6%96%B9%E5%B0%91%E5%A5%B3%E6%83%91%E6%98%9FIII%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\ff\ns6%3A%E6%9D%B1%E6%96%B9%E5%B0%91%E5%A5%B3%E6%83%91%E6%98%9FIII%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 氣球魚屋
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方少女惑星III](./東方少女惑星III.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [東方少女惑星III](./東方少女惑星III.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
   
-源地址：[from artist Deviantart (original size)](https://www.deviantart.com/hecoheio/art/Flandre-Scarlet-281628864)
-  
-
-
-
-
+源地址：[from artist Deviantart (original size)](https://www.deviantart.com/hecoheio/art/Flandre-Scarlet-281628864)  
 
 ---
 

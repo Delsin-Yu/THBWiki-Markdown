@@ -1,6 +1,6 @@
 # 文件:Have_a_Good_Nightmare封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\84\ns6%3AHave_a_Good_Nightmare%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\84\ns6%3AHave_a_Good_Nightmare%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 as_Qool_as_Qucumber | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ as_Qool_as_Qucumber | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Have a Good Nightmare](./Have_a_Good_Nightmare.md)  
-该封面包含的角色：- [米斯蒂娅·萝蕾拉](./米斯蒂娅·萝蕾拉.md)- [斯塔萨菲雅](./斯塔萨菲雅.md)
-
-
-
+- [Have a Good Nightmare](./Have_a_Good_Nightmare.md)该封面包含的角色：
+- [米斯蒂娅·萝蕾拉](./米斯蒂娅·萝蕾拉.md)
+- [斯塔萨菲雅](./斯塔萨菲雅.md)
 
 
 ---

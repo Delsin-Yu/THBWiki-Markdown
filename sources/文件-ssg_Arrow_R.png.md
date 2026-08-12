@@ -1,16 +1,12 @@
 # 文件:ssg_Arrow_R.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e3\ns6%3Assg_Arrow_R%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e3\ns6%3Assg_Arrow_R%2Epng.html -->
 
 秋霜玉
 
   
 《秋霜玉》弹幕红色矢弹。
   
-
-
-
-
 
 ---
 

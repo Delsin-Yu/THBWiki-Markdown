@@ -1,14 +1,11 @@
 # 文件:FahrenHeitbanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ae\ns6%3AFahrenHeitbanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ae\ns6%3AFahrenHeitbanner%2Egif.html -->
 
 FahrenHeit | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

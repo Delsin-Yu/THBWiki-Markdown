@@ -1,16 +1,12 @@
 # 文件:MCG-Truemoon-Night2021.10.17.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\55\ns6%3AMCG-Truemoon-Night2021%2E10%2E17%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\55\ns6%3AMCG-Truemoon-Night2021%2E10%2E17%2Epng.html -->
 
 MineCraft幻想乡
 
   
 MC幻想乡里月夜晚地图
   
-
-
-
-
 
 ---
 

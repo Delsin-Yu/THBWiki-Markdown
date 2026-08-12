@@ -1,6 +1,6 @@
 # 文件:The_Lounge_Map_2_-_afternoon_tea_set封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\34\ns6%3AThe_Lounge_Map_2_-_afternoon_tea_set%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\34\ns6%3AThe_Lounge_Map_2_-_afternoon_tea_set%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 OrangeCoffee | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ OrangeCoffee | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [The Lounge Map 2 - afternoon tea set](./The_Lounge_Map_2_-_afternoon_tea_set.md)  
-该封面包含的角色：- [云居一轮](./云居一轮.md)
-
-
-
+- [The Lounge Map 2 - afternoon tea set](./The_Lounge_Map_2_-_afternoon_tea_set.md)该封面包含的角色：
+- [云居一轮](./云居一轮.md)
 
 
 ---

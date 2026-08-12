@@ -1,37 +1,27 @@
 # Nightmare_Diary
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\3\38\ns0%3ANightmare_Diary.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\3\38\ns0%3ANightmare_Diary.html -->
 
 由 ZUN 创作的官方曲目，原名 ナイトメアダイアリー
 
 本页是关于东方Project  
- **原作音乐** 的词条
-
+**原作音乐**的词条
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 出现作品](#出现作品)
 - [3 音乐文件](#音乐文件)
-
   - [3.1 秘封噩梦日记](#秘封噩梦日记)
 
 
-
 - [4 说明文本](#说明文本)
-
   - [4.1 秘封噩梦日记](#秘封噩梦日记_2)
 
 
-
 - [5 其他资料](#其他资料)
-
   - [5.1 乐理资讯](#乐理资讯)
   - [5.2 分析考据](#分析考据)
   - [5.3 二次同人数据](#二次同人数据)
-
-
-
-
 
 
 
@@ -41,13 +31,11 @@
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">ナイトメアダイアリー</td></tr><tr><td><b>译名</b></td><td>Nightmare Diary</td></tr><tr><td><b>其他译名</b></td><td>噩梦日记<br>梦魇日志</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 Nightmare Diary（曲目） - 由 ZUN 创作的官方曲目，原名 ナイトメアダイアリー
-
 ## 出现作品
 
 <table>
 <tbody><tr><td>2018年8月10日（Comic Market 94）</td><td><b><a href="./秘封噩梦日记.md" title="秘封噩梦日记">秘封噩梦日记</a></b></td><td>第三周的主题曲</td><td style="padding-left:5px;">ナイトメアダイアリー（Nightmare Diary）</td><td style="padding-left:10px;">作曲：ZUN</td></tr>
 </tbody></table>
-
 
 
 ## 音乐文件
@@ -62,11 +50,11 @@ Nightmare Diary（曲目） - 由 ZUN 创作的官方曲目，原名 ナイト�
 </td></tr></tbody></table>
 
 
-
 ## 说明文本
 
 ### 秘封噩梦日记
-- Music Room (未找到链接)
+
+- [Music Room](./秘封噩梦日记-Music.md#第三周的主题曲)
 
 　第三周的主题曲。  
   
@@ -74,14 +62,13 @@ Nightmare Diary（曲目） - 由 ZUN 创作的官方曲目，原名 ナイト�
 　放着不管就会永远持续下去的最终阶段的感觉。  
 　做恐怖的梦，只有我会觉得最为舒服吗？  
 　我总是妄想着恐怖的事情入睡，却偶尔才能做到恐怖的梦。
-
 ## 其他资料
 
 ### 乐理资讯
 
 ### 分析考据
   
- **ナイトメアダイアリー**  Nightmare Diary
+**ナイトメアダイアリー** Nightmare Diary
   
 
 - 见 [噩梦日记](./噩梦日记.md)。
@@ -99,17 +86,6 @@ Nightmare Diary（曲目） - 由 ZUN 创作的官方曲目，原名 ナイト�
 <tr><td>Arrange</td><td>69</td></tr>
 <tr><td>Vocal率</td><td>26.6%</td></tr>
 </tbody></table>
-
-
-
-
-  
-  
-
-  
-
-
-
 
 
 ---

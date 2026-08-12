@@ -1,6 +1,6 @@
 # 文件:Silent_Box封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1d\ns6%3ASilent_Box%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1d\ns6%3ASilent_Box%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 味玉定食 | 封面图片
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Silent Box](./Silent_Box.md)  
-该封面包含的角色：- [古明地恋](./古明地恋.md)
+- [Silent Box](./Silent_Box.md)该封面包含的角色：
+- [古明地恋](./古明地恋.md)
 
   
-源地址：[[1]](http://ajitamateisyoku.web.fc2.com/img/silent/silentbox_B.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://ajitamateisyoku.web.fc2.com/img/silent/silentbox_B.jpg)  
 
 ---
 

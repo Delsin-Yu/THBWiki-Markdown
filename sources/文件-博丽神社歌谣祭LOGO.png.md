@@ -1,12 +1,8 @@
 # 文件:博丽神社歌谣祭LOGO.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fa\ns6%3A%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E6%AD%8C%E8%B0%A3%E7%A5%ADLOGO%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fa\ns6%3A%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E6%AD%8C%E8%B0%A3%E7%A5%ADLOGO%2Epng.html -->
 
 博丽神社例大祭 | 博丽神社歌谣祭 | 活动LOGO
-
-
-
-
 
 
 ---

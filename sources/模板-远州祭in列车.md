@@ -1,16 +1,12 @@
 # 模板:远州祭in列车
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\1\1a\ns10%3A%E8%BF%9C%E5%B7%9E%E7%A5%ADin%E5%88%97%E8%BD%A6.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\1\1a\ns10%3A%E8%BF%9C%E5%B7%9E%E7%A5%ADin%E5%88%97%E8%BD%A6.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

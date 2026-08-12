@@ -1,6 +1,6 @@
 # 文件:SEED（Amateras_Records）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d5\ns6%3ASEED%EF%BC%88Amateras_Records%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d5\ns6%3ASEED%EF%BC%88Amateras_Records%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Alstroemeria_Records | Amateras_Records | 专辑封面 | 封面图片
 
@@ -8,11 +8,11 @@ Alstroemeria_Records | Amateras_Records | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [SEED（Amateras Records）](./SEED（Amateras_Records）.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [古明地恋](./古明地恋.md)- [霍青娥](./霍青娥.md)- [稗田阿求](./稗田阿求.md)
-
-
-
+- [SEED（Amateras Records）](./SEED（Amateras_Records）.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [古明地恋](./古明地恋.md)
+- [霍青娥](./霍青娥.md)
+- [稗田阿求](./稗田阿求.md)
 
 
 ---

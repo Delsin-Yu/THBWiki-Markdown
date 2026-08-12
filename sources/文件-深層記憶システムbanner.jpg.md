@@ -1,16 +1,11 @@
 # 文件:深層記憶システムbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\35\ns6%3A%E6%B7%B1%E5%B1%A4%E8%A8%98%E6%86%B6%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\35\ns6%3A%E6%B7%B1%E5%B1%A4%E8%A8%98%E6%86%B6%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0banner%2Ejpg.html -->
 
 深層記憶システム | 社团LOGO
 
   
-源地址：[[1]](http://sound2subliminal2system.web.fc2.com/about.html)
-  
-
-
-
-
+源地址：[\[1\]](http://sound2subliminal2system.web.fc2.com/about.html)  
 
 ---
 

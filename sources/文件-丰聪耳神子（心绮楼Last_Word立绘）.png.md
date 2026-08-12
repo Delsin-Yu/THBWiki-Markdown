@@ -1,12 +1,8 @@
 # 文件:丰聪耳神子（心绮楼Last_Word立绘）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e5\ns6%3A%E4%B8%B0%E8%81%AA%E8%80%B3%E7%A5%9E%E5%AD%90%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BCLast_Word%E7%AB%8B%E7%BB%98%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e5\ns6%3A%E4%B8%B0%E8%81%AA%E8%80%B3%E7%A5%9E%E5%AD%90%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BCLast_Word%E7%AB%8B%E7%BB%98%EF%BC%89%2Epng.html -->
 
 Alphes绘 | 东方心绮楼 | 丰聪耳神子 | 官方游戏立绘
-
-
-
-
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:M-stylebanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\35\ns6%3AM-stylebanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\35\ns6%3AM-stylebanner%2Ejpg.html -->
 
 M-style | 社团LOGO
-
-
-
-
 
 
 ---

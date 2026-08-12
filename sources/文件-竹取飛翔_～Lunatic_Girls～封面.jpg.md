@@ -1,6 +1,6 @@
 # 文件:竹取飛翔_～Lunatic_Girls～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c9\ns6%3A%E7%AB%B9%E5%8F%96%E9%A3%9B%E7%BF%94_%EF%BD%9ELunatic_Girls%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c9\ns6%3A%E7%AB%B9%E5%8F%96%E9%A3%9B%E7%BF%94_%EF%BD%9ELunatic_Girls%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 VISIONNERZ | 同人志封面 | 封面图片
 
@@ -8,11 +8,11 @@ VISIONNERZ | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [竹取飛翔 ～Lunatic Girls～](./竹取飛翔_～Lunatic_Girls～.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- 十六夜咲夜 (未找到链接)- [魂魄妖梦](./魂魄妖梦.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [竹取飛翔 ～Lunatic Girls～](./竹取飛翔_～Lunatic_Girls～.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [十六夜咲夜](./十六夜咲夜.md)
+- [魂魄妖梦](./魂魄妖梦.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

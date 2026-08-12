@@ -1,6 +1,6 @@
 # 文件:九番のサックス奏者_Touhou_Jazz_Master封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8f\ns6%3A%E4%B9%9D%E7%95%AA%E3%81%AE%E3%82%B5%E3%83%83%E3%82%AF%E3%82%B9%E5%A5%8F%E8%80%85_Touhou_Jazz_Master%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8f\ns6%3A%E4%B9%9D%E7%95%AA%E3%81%AE%E3%82%B5%E3%83%83%E3%82%AF%E3%82%B9%E5%A5%8F%E8%80%85_Touhou_Jazz_Master%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 FUN_webjectF | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ FUN_webjectF | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [九番のサックス奏者 Touhou Jazz Master](./九番のサックス奏者_Touhou_Jazz_Master.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)
-
-
-
+- [九番のサックス奏者 Touhou Jazz Master](./九番のサックス奏者_Touhou_Jazz_Master.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
 
 
 ---

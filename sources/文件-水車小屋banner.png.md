@@ -1,14 +1,11 @@
 # 文件:水車小屋banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bf\ns6%3A%E6%B0%B4%E8%BB%8A%E5%B0%8F%E5%B1%8Bbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bf\ns6%3A%E6%B0%B4%E8%BB%8A%E5%B0%8F%E5%B1%8Bbanner%2Epng.html -->
 
 水車小屋 | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

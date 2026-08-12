@@ -1,12 +1,8 @@
 # 文件:蓬莱山辉夜（永夜抄立绘_normal）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c5\ns6%3A%E8%93%AC%E8%8E%B1%E5%B1%B1%E8%BE%89%E5%A4%9C%EF%BC%88%E6%B0%B8%E5%A4%9C%E6%8A%84%E7%AB%8B%E7%BB%98_normal%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c5\ns6%3A%E8%93%AC%E8%8E%B1%E5%B1%B1%E8%BE%89%E5%A4%9C%EF%BC%88%E6%B0%B8%E5%A4%9C%E6%8A%84%E7%AB%8B%E7%BB%98_normal%EF%BC%89%2Epng.html -->
 
 ZUN绘 | 东方永夜抄 | 官方游戏立绘 | 蓬莱山辉夜
-
-
-
-
 
 
 ---

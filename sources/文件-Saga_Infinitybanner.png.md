@@ -1,16 +1,11 @@
 # 文件:Saga_Infinitybanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b4\ns6%3ASaga_Infinitybanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b4\ns6%3ASaga_Infinitybanner%2Epng.html -->
 
 Saga_Infinity | 社团LOGO
 
   
-源地址: [[1]](http://f4.bcbits.com/img/0006088875_100.png)
-  
-
-
-
-
+源地址: [\[1\]](http://f4.bcbits.com/img/0006088875_100.png)  
 
 ---
 

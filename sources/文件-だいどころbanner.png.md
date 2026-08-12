@@ -1,16 +1,11 @@
 # 文件:だいどころbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\27\ns6%3A%E3%81%A0%E3%81%84%E3%81%A9%E3%81%93%E3%82%8Dbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\27\ns6%3A%E3%81%A0%E3%81%84%E3%81%A9%E3%81%93%E3%82%8Dbanner%2Epng.html -->
 
 だいどころ | 社团LOGO
 
   
-源地址:[[1]](http://maru9.org/b/banner.png)
-  
-
-
-
-
+源地址:[\[1\]](http://maru9.org/b/banner.png)  
 
 ---
 

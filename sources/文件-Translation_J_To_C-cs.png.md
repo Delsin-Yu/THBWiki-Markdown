@@ -1,12 +1,8 @@
 # 文件:Translation_J_To_C-cs.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\77\ns6%3ATranslation_J_To_C-cs%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\77\ns6%3ATranslation_J_To_C-cs%2Epng.html -->
 
 翻译箭头图片
-
-
-
-
 
 
 ---

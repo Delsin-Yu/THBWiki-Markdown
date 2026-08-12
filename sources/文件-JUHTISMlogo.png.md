@@ -1,12 +1,8 @@
 # 文件:JUHTISMlogo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e3\ns6%3AJUHTISMlogo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e3\ns6%3AJUHTISMlogo%2Epng.html -->
 
 JUHTISM | 社团LOGO
-
-
-
-
 
 
 ---

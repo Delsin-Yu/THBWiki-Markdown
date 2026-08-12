@@ -1,6 +1,6 @@
 # 文件:Cry_For_Hope封面.jpeg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9e\ns6%3ACry_For_Hope%E5%B0%81%E9%9D%A2%2Ejpeg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9e\ns6%3ACry_For_Hope%E5%B0%81%E9%9D%A2%2Ejpeg.html -->
 
 Border_Of_Nightmares | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Border_Of_Nightmares | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Cry For Hope](./Cry_For_Hope.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)
-
-
-
+- [Cry For Hope](./Cry_For_Hope.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
 
 
 ---

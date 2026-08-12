@@ -1,14 +1,11 @@
 # 文件:全日本幻想入展LOGO.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0e\ns6%3A%E5%85%A8%E6%97%A5%E6%9C%AC%E5%B9%BB%E6%83%B3%E5%85%A5%E5%B1%95LOGO%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0e\ns6%3A%E5%85%A8%E6%97%A5%E6%9C%AC%E5%B9%BB%E6%83%B3%E5%85%A5%E5%B1%95LOGO%2Epng.html -->
 
 全日本幻想入展 | 活动LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

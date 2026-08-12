@@ -1,6 +1,6 @@
 # 文件:Secret（やまぶ企画）封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c4\ns6%3ASecret%EF%BC%88%E3%82%84%E3%81%BE%E3%81%B6%E4%BC%81%E7%94%BB%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c4\ns6%3ASecret%EF%BC%88%E3%82%84%E3%81%BE%E3%81%B6%E4%BC%81%E7%94%BB%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 やまぶ企画 | 同人志封面 | 封面图片
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [Secret（やまぶ企画）](./Secret（やまぶ企画）.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [Secret（やまぶ企画）](./Secret（やまぶ企画）.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

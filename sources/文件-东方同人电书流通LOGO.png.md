@@ -1,12 +1,8 @@
 # 文件:东方同人电书流通LOGO.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\99\ns6%3A%E4%B8%9C%E6%96%B9%E5%90%8C%E4%BA%BA%E7%94%B5%E4%B9%A6%E6%B5%81%E9%80%9ALOGO%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\99\ns6%3A%E4%B8%9C%E6%96%B9%E5%90%8C%E4%BA%BA%E7%94%B5%E4%B9%A6%E6%B5%81%E9%80%9ALOGO%2Epng.html -->
 
 东方电书流通
-
-
-
-
 
 
 ---

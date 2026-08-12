@@ -1,12 +1,8 @@
 # 文件:射命丸文（TF立绘）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\04\ns6%3A%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87%EF%BC%88TF%E7%AB%8B%E7%BB%98%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\04\ns6%3A%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87%EF%BC%88TF%E7%AB%8B%E7%BB%98%EF%BC%89%2Epng.html -->
 
 二次角色立绘 | 射命丸文（TF） | 東方邪星章製作チーム
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Foreground_Eclipse_Demo_CD_Vol.05封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b2\ns6%3AForeground_Eclipse_Demo_CD_Vol%2E05%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b2\ns6%3AForeground_Eclipse_Demo_CD_Vol%2E05%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Foreground_Eclipse | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Foreground_Eclipse | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Foreground Eclipse Demo CD Vol.05](./Foreground_Eclipse_Demo_CD_Vol.05.md)  
-该封面包含的角色：- [蓬莱山辉夜](./蓬莱山辉夜.md)
-
-
-
+- [Foreground Eclipse Demo CD Vol.05](./Foreground_Eclipse_Demo_CD_Vol.05.md)该封面包含的角色：
+- [蓬莱山辉夜](./蓬莱山辉夜.md)
 
 
 ---

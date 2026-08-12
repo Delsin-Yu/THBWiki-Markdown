@@ -1,35 +1,29 @@
 # Moon_Wort
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\9\92\ns0%3AMoon_Wort.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\9\92\ns0%3AMoon_Wort.html -->
 
 Moon Wort ，主要制作 同人志 的日本同人社团，主催是 草月野々乃，当前状态为 活动
 
-本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
-
+本页是关于**[同人社团](./二次创作.md#同人社团)**的词条
 ## 目录
 
 - [1 社团信息](#社团信息)
 - [2 成员名单](#成员名单)
 - [3 作品列表](#作品列表)
-
   - [3.1 同人志](#同人志)
-
 
 
 - [4 其他信息](#其他信息)
 
 
-
-
-
 ## 社团信息
-[](./文件-Moon_Wortbanner.png.md)  [](./文件-Moon_Wortbanner.png.md)banner
-
+<img alt="" src="https://upload.thwiki.cc/thumb/6/60/Moon_Wortbanner.png/200px-Moon_Wortbanner.png" decoding="async" loading="lazy" width="200" height="84" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/6/60/Moon_Wortbanner.png/300px-Moon_Wortbanner.png 1.5x, https://upload.thwiki.cc/thumb/6/60/Moon_Wortbanner.png/400px-Moon_Wortbanner.png 2x" data-file-width="948" data-file-height="400">
+ [放大](./文件-Moon_Wortbanner.png.md)banner
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Moon Wort </td></tr><tr><td><b>主要作品类型</b></td><td>同人志</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="./草月野々乃.md" title="草月野々乃">草月野々乃</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://gextukoukusa.blog.fc2.com/">http://gextukoukusa.blog.fc2.com/</a> <br><a rel="nofollow" class="external free" href="https://www.pixiv.net/member.php?id=868399">https://www.pixiv.net/member.php?id=868399</a><br><a rel="nofollow" class="external free" href="https://twitter.com/gextukoukusa">https://twitter.com/gextukoukusa</a></td></tr></tbody></table>
 
 Moon Wort（同人社团，同人志社团） - Moon Wort ，主要制作 同人志 的日本同人社团，主催是 草月野々乃，当前状态为 活动
-
 ## 成员名单
+
 - [草月野々乃](./草月野々乃.md)
 
 
@@ -37,15 +31,7 @@ Moon Wort（同人社团，同人志社团） - Moon Wort ，主要制作 同人
 
 ### 同人志
 
-<table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
-</table>
-
-
-
 ## 其他信息
-
-
-
 
 ---
 

@@ -1,14 +1,11 @@
 # 文件:ねじやのひとbanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\68\ns6%3A%E3%81%AD%E3%81%98%E3%82%84%E3%81%AE%E3%81%B2%E3%81%A8banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\68\ns6%3A%E3%81%AD%E3%81%98%E3%82%84%E3%81%AE%E3%81%B2%E3%81%A8banner%2Egif.html -->
 
 ねじやのひと | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

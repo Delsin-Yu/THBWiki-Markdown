@@ -1,6 +1,6 @@
 # 文件:禍羅苦裡箱_～Les_Mauvais_Esprits_Rampant封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b5\ns6%3A%E7%A6%8D%E7%BE%85%E8%8B%A6%E8%A3%A1%E7%AE%B1_%EF%BD%9ELes_Mauvais_Esprits_Rampant%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b5\ns6%3A%E7%A6%8D%E7%BE%85%E8%8B%A6%E8%A3%A1%E7%AE%B1_%EF%BD%9ELes_Mauvais_Esprits_Rampant%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 作画法界 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [禍羅苦裡箱 ～Les Mauvais Esprits Rampant](./禍羅苦裡箱_～Les_Mauvais_Esprits_Rampant.md)  
-该封面包含的角色：- [古明地恋](./古明地恋.md)
-
-
-
+- [禍羅苦裡箱 ～Les Mauvais Esprits Rampant](./禍羅苦裡箱_～Les_Mauvais_Esprits_Rampant.md)该封面包含的角色：
+- [古明地恋](./古明地恋.md)
 
 
 ---

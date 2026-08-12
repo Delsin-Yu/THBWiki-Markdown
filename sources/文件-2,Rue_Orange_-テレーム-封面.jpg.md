@@ -1,6 +1,6 @@
 # 文件:2,Rue_Orange_-テレーム-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ee\ns6%3A2%2CRue_Orange_-%E3%83%86%E3%83%AC%E3%83%BC%E3%83%A0-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ee\ns6%3A2%2CRue_Orange_-%E3%83%86%E3%83%AC%E3%83%BC%E3%83%A0-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 オランジュ停留所 | 专辑封面 | 封面图片
 
@@ -10,12 +10,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [2,Rue Orange -テレーム-](./2,Rue_Orange_-テレーム-.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)[[1]](https://64.media.tumblr.com/3e3a751bc0e3353483b10802818453df/0d763f120faec27e-9f/s2048x3072/5266e1479d3e2c9574a7612122751ce44b64ca2e.png)
-
-
-
-
+- [2,Rue Orange -テレーム-](./2,Rue_Orange_-テレーム-.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
+[\[1\]](https://64.media.tumblr.com/3e3a751bc0e3353483b10802818453df/0d763f120faec27e-9f/s2048x3072/5266e1479d3e2c9574a7612122751ce44b64ca2e.png)
 
 ---
 

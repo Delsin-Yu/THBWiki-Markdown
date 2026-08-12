@@ -1,6 +1,6 @@
 # 文件:Stardust_Seeker_20XX封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a0\ns6%3AStardust_Seeker_20XX%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a0\ns6%3AStardust_Seeker_20XX%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 AbsoЯute_Zero | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ AbsoЯute_Zero | 专辑封面 | 封面图片
   
 
 - [Stardust Seeker 20XX](./Stardust_Seeker_20XX.md)
-
-
-
 
 
 ---

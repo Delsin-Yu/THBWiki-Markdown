@@ -1,12 +1,8 @@
 # 文件:冬符「Northern_Winner」（文花帖）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\83\ns6%3A%E5%86%AC%E7%AC%A6%E3%80%8CNorthern_Winner%E3%80%8D%EF%BC%88%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\83\ns6%3A%E5%86%AC%E7%AC%A6%E3%80%8CNorthern_Winner%E3%80%8D%EF%BC%88%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Ejpg.html -->
 
 东方文花帖 | 敌机符卡 | 蕾蒂·霍瓦特洛克
-
-
-
-
 
 
 ---

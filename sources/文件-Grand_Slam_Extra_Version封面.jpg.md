@@ -1,6 +1,6 @@
 # 文件:Grand_Slam_Extra_Version封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e0\ns6%3AGrand_Slam_Extra_Version%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e0\ns6%3AGrand_Slam_Extra_Version%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Halozy | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ Halozy | 专辑封面 | 封面图片
   
 
 - [Grand Slam Extra Version](./Grand_Slam_Extra_Version.md)
-
-
-
 
 
 ---

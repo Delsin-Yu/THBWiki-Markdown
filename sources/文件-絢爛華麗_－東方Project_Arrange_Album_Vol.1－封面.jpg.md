@@ -1,6 +1,6 @@
 # 文件:絢爛華麗_－東方Project_Arrange_Album_Vol.1－封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\02\ns6%3A%E7%B5%A2%E7%88%9B%E8%8F%AF%E9%BA%97_%EF%BC%8D%E6%9D%B1%E6%96%B9Project_Arrange_Album_Vol%2E1%EF%BC%8D%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\02\ns6%3A%E7%B5%A2%E7%88%9B%E8%8F%AF%E9%BA%97_%EF%BC%8D%E6%9D%B1%E6%96%B9Project_Arrange_Album_Vol%2E1%EF%BC%8D%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 SYNC.ART'S | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ SYNC.ART'S | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [絢爛華麗 －東方Project Arrange Album Vol.1－](./絢爛華麗_－東方Project_Arrange_Album_Vol.1－.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [絢爛華麗 －東方Project Arrange Album Vol.1－](./絢爛華麗_－東方Project_Arrange_Album_Vol.1－.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

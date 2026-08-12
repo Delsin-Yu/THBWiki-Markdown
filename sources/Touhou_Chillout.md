@@ -1,12 +1,11 @@
 # Touhou_Chillout
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\8\81\ns0%3ATouhou_Chillout.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\8\81\ns0%3ATouhou_Chillout.html -->
 
 2020年5月22日 由 Grape Jam  发布的EP同人专辑，曲目主要风格是 其他电子、爵士，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人专辑 (未找到链接)** 的词条
-
+**[二次创作同人专辑](./二次创作.md#同人音乐)**的词条
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Touhou_Chillout封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/5/5c/Touhou_Chillout%E5%B0%81%E9%9D%A2.jpg/252px-Touhou_Chillout%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="252" height="252" srcset="https://upload.thwiki.cc/thumb/5/5c/Touhou_Chillout%E5%B0%81%E9%9D%A2.jpg/378px-Touhou_Chillout%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/5/5c/Touhou_Chillout%E5%B0%81%E9%9D%A2.jpg/504px-Touhou_Chillout%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1200" data-file-height="1200"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></div></td>
@@ -15,43 +14,30 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.facebook.com/grapejammusic/photos/a.143706607301171/143691840635981/">https://www.facebook.com/grapejammusic/photos/a.143706607301171/143691840635981/</a></td></tr></tbody></table>
 
 Touhou Chillout（同人专辑，Grape Jam，2020） - 2020年5月22日 由 Grape Jam  发布的EP同人专辑，曲目主要风格是 其他电子、爵士，分级为 一般向
-
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://grapejam2003.bandcamp.com/album/touhou-chillout">bandcamp</a></td></tr></tbody></table>
-
 
 
 ## Staff
   
- **Arrangement**   
+**Arrangement**  
 
 <table><tbody><tr><td><a href="./Grape_Jam.md" title="Grape Jam">Grape Jam</a></td><td></td><td>Tr.1-5</td></tr></tbody></table>
-
 
 Album Art
 : Ivy
 
-
 ## 试听
-  
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/825841099&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=false"></iframe>
-
-  
-
 
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Apparitions_Stalk_The_Night" colspan="2" class="title">Apparitions Stalk The Night<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Grape Jam&amp;ogmusic=妖魔夜行&amp;fromwiki=Touhou_Chillout"><span title="搜索相似同人曲"></span></a></span></td><td class="time">02:35</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Grape_Jam.md" title="Grape Jam">Grape Jam</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Grape Jam&amp;fromwiki=Touhou_Chillout"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=妖魔夜行&amp;fromwiki=Touhou_Chillout"><span></span></a></span><div class="ogmusic"><a href="./妖魔夜行.md" title="妖魔夜行">妖魔夜行</a></div><div class="source"><a href="./东方红魔乡_～_the_Embodiment_of_Scarlet_Devil..md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr>
-<tr><td id="2" class="infoYD"><b>02</b></td><td id="Cirno_Out" colspan="2" class="title">Cirno Out<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Grape Jam&amp;ogmusic=おてんば恋娘&amp;fromwiki=Touhou_Chillout"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:55</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Grape_Jam.md" title="Grape Jam">Grape Jam</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Grape Jam&amp;fromwiki=Touhou_Chillout"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=おてんば恋娘&amp;fromwiki=Touhou_Chillout"><span></span></a></span><div class="ogmusic"><a href="./おてんば恋娘.md" class="mw-redirect" title="おてんば恋娘">おてんば恋娘</a></div><div class="source"><a href="./东方红魔乡_～_the_Embodiment_of_Scarlet_Devil..md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr>
-<tr><td id="3" class="infoYD"><b>03</b></td><td id="Doll_Judgement" colspan="2" class="title">Doll Judgement<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Grape Jam&amp;ogmusic=人形裁判　～ 人の形弄びし少女&amp;fromwiki=Touhou_Chillout"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:05</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Grape_Jam.md" title="Grape Jam">Grape Jam</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Grape Jam&amp;fromwiki=Touhou_Chillout"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=人形裁判　～ 人の形弄びし少女&amp;fromwiki=Touhou_Chillout"><span></span></a></span><div class="ogmusic"><a href="./人形裁判_～_人の形弄びし少女.md" class="mw-redirect" title="人形裁判 ～ 人の形弄びし少女">人形裁判　～ 人の形弄びし少女</a></div><div class="source"><a href="./东方妖妖梦_～_Perfect_Cherry_Blossom..md" class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr>
-<tr><td id="4" class="infoYD"><b>04</b></td><td id="Tohno_Legend" colspan="2" class="title">Tohno Legend<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Grape Jam&amp;ogmusic=遠野幻想物語&amp;fromwiki=Touhou_Chillout"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:16</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Grape_Jam.md" title="Grape Jam">Grape Jam</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Grape Jam&amp;fromwiki=Touhou_Chillout"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=遠野幻想物語&amp;fromwiki=Touhou_Chillout"><span></span></a></span><div class="ogmusic"><a href="./遠野幻想物語.md" class="mw-redirect" title="遠野幻想物語">遠野幻想物語</a></div><div class="source"><a href="./东方妖妖梦_～_Perfect_Cherry_Blossom..md" class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr>
-<tr><td id="5" class="infoYD"><b>05</b></td><td id="Old_Cassette" colspan="2" class="title">Old Cassette<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Grape Jam&amp;ogmusic=東方妖々夢　～ Ancient Temple&amp;fromwiki=Touhou_Chillout"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:15</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Grape_Jam.md" title="Grape Jam">Grape Jam</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Grape Jam&amp;fromwiki=Touhou_Chillout"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=東方妖々夢　～ Ancient Temple&amp;fromwiki=Touhou_Chillout"><span></span></a></span><div class="ogmusic"><a href="./東方妖々夢_～_Ancient_Temple.md" class="mw-redirect" title="東方妖々夢 ～ Ancient Temple">東方妖々夢　～ Ancient Temple</a></div><div class="source"><a href="./东方妖妖梦_～_Perfect_Cherry_Blossom..md" class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr></tbody></table>
-
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Apparitions_Stalk_The_Night" colspan="2" class="title">Apparitions Stalk The Night</td><td class="time">02:35</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Grape_Jam.md" title="Grape Jam">Grape Jam</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./妖魔夜行.md" title="妖魔夜行">妖魔夜行</a></div><div class="source"><a href="./东方红魔乡.md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr>
+<tr><td id="2" class="infoYD"><b>02</b></td><td id="Cirno_Out" colspan="2" class="title">Cirno Out</td><td class="time">04:55</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Grape_Jam.md" title="Grape Jam">Grape Jam</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./活泼的纯情小姑娘.md" class="mw-redirect" title="おてんば恋娘">おてんば恋娘</a></div><div class="source"><a href="./东方红魔乡.md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr>
+<tr><td id="3" class="infoYD"><b>03</b></td><td id="Doll_Judgement" colspan="2" class="title">Doll Judgement</td><td class="time">04:05</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Grape_Jam.md" title="Grape Jam">Grape Jam</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./人偶裁判_～_玩弄人形的少女.md" class="mw-redirect" title="人形裁判 ～ 人の形弄びし少女">人形裁判　～ 人の形弄びし少女</a></div><div class="source"><a href="./东方妖妖梦.md" class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr>
+<tr><td id="4" class="infoYD"><b>04</b></td><td id="Tohno_Legend" colspan="2" class="title">Tohno Legend</td><td class="time">04:16</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Grape_Jam.md" title="Grape Jam">Grape Jam</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./远野幻想物语.md" class="mw-redirect" title="遠野幻想物語">遠野幻想物語</a></div><div class="source"><a href="./东方妖妖梦.md" class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr>
+<tr><td id="5" class="infoYD"><b>05</b></td><td id="Old_Cassette" colspan="2" class="title">Old Cassette</td><td class="time">04:15</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Grape_Jam.md" title="Grape Jam">Grape Jam</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./东方妖妖梦_～_Ancient_Temple.md" class="mw-redirect" title="東方妖々夢 ～ Ancient Temple">東方妖々夢　～ Ancient Temple</a></div><div class="source"><a href="./东方妖妖梦.md" class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr></tbody></table>
 
 
 ## 评论
-
-
-
 
 ---
 

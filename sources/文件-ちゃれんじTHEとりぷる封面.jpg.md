@@ -1,6 +1,6 @@
 # 文件:ちゃれんじTHEとりぷる封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8b\ns6%3A%E3%81%A1%E3%82%83%E3%82%8C%E3%82%93%E3%81%98THE%E3%81%A8%E3%82%8A%E3%81%B7%E3%82%8B%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8b\ns6%3A%E3%81%A1%E3%82%83%E3%82%8C%E3%82%93%E3%81%98THE%E3%81%A8%E3%82%8A%E3%81%B7%E3%82%8B%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Siestail | 专辑封面 | 封面图片
 
@@ -8,11 +8,10 @@ Siestail | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [ちゃれんじTHEとりぷる](./ちゃれんじTHEとりぷる.md)  
-该封面包含的角色：- [露娜切露德](./露娜切露德.md)- [桑尼米尔克](./桑尼米尔克.md)- [斯塔萨菲雅](./斯塔萨菲雅.md)
-
-
-
+- [ちゃれんじTHEとりぷる](./ちゃれんじTHEとりぷる.md)该封面包含的角色：
+- [露娜切露德](./露娜切露德.md)
+- [桑尼米尔克](./桑尼米尔克.md)
+- [斯塔萨菲雅](./斯塔萨菲雅.md)
 
 
 ---

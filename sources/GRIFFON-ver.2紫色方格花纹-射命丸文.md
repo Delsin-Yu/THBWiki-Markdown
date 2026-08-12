@@ -1,37 +1,20 @@
 # GRIFFON/ver.2紫色方格花纹/射命丸文
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\6d\ns0%3AGRIFFON%2Fver%2E2%E7%B4%AB%E8%89%B2%E6%96%B9%E6%A0%BC%E8%8A%B1%E7%BA%B9%2F%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\6d\ns0%3AGRIFFON%2Fver%2E2%E7%B4%AB%E8%89%B2%E6%96%B9%E6%A0%BC%E8%8A%B1%E7%BA%B9%2F%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87.html -->
 
 射命丸文PVCFigure手办模型
 
 本页是关于东方Project  
- **相关实体周边 (未找到链接)** 的词条
-
+**相关实体周边 (未找到链接)**的词条
 ## 模型信息
 
-<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 射命丸文 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>ver.2紫色方格花纹</td></tr><tr><td class="label">角色</td><td><a href="./射命丸文.md" title="射命丸文">射命丸文</a></td></tr><tr><td class="label">原型师</td><td><a href="/index.php?title=I-con&amp;action=edit&amp;redlink=1" class="new" title="I-con（页面不存在）">I-con</a></td></tr><tr><td class="label">比例</td><td>1/8</td></tr><tr><td class="label">尺寸</td><td>180mm</td></tr><tr><td class="label">状态</td><td>已发售</td></tr><tr><td class="label">展会限定</td><td>红之广场8，第一回 博丽神社秋季例大祭，Wonder Festival-2015冬</td></tr><tr><td class="label">售价</td><td>7000日元</td></tr><tr><td class="label">首发日期</td><td>2012-09-09</td></tr><tr><td class="label">发售方</td><td><a href="/index.php?title=GRIFFON&amp;action=edit&amp;redlink=1" class="new" title="GRIFFON（页面不存在）">GRIFFON</a></td></tr><tr><td class="label">再版日期</td><td>2014-11-24，2015-02-08</td></tr><tr><td class="label">官网页面</td><td><a rel="nofollow" class="external free" href="http://www.griffon.co.jp/toho/">http://www.griffon.co.jp/toho/</a></td></tr><tr><td class="label">备注</td><td>限定30体</td></tr></tbody></table>
+<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 射命丸文 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>ver.2紫色方格花纹</td></tr><tr><td class="label">角色</td><td><a href="./射命丸文.md" title="射命丸文">射命丸文</a></td></tr><tr><td class="label">原型师</td><td><a class="new" title="I-con（页面不存在）">I-con</a></td></tr><tr><td class="label">比例</td><td>1/8</td></tr><tr><td class="label">尺寸</td><td>180mm</td></tr><tr><td class="label">状态</td><td>已发售</td></tr><tr><td class="label">展会限定</td><td>红之广场8，第一回 博丽神社秋季例大祭，Wonder Festival-2015冬</td></tr><tr><td class="label">售价</td><td>7000日元</td></tr><tr><td class="label">首发日期</td><td>2012-09-09</td></tr><tr><td class="label">发售方</td><td><a class="new" title="GRIFFON（页面不存在）">GRIFFON</a></td></tr><tr><td class="label">再版日期</td><td>2014-11-24，2015-02-08</td></tr><tr><td class="label">官网页面</td><td><a rel="nofollow" class="external free" href="http://www.griffon.co.jp/toho/">http://www.griffon.co.jp/toho/</a></td></tr><tr><td class="label">备注</td><td>限定30体</td></tr></tbody></table>
 
 GRIFFON/ver.2紫色方格花纹/射命丸文（周边） - 射命丸文PVCFigure手办模型
-
 ## 参考图片
-
-
-
-[](./文件-GRIFFONver.2紫色方格花纹射命丸文-1.jpg.md)
-
-
-[](./文件-GRIFFONver.2紫色方格花纹射命丸文-2.jpg.md)
-
-
-文件:GRIFFONver.2紫色方格花纹射命丸文-3.jpg (未找到链接)
-
-公式图
-
-
-
-
-
-
+<img alt="GRIFFONver.2紫色方格花纹射命丸文" src="https://upload.thwiki.cc/thumb/1/17/GRIFFONver.2%E7%B4%AB%E8%89%B2%E6%96%B9%E6%A0%BC%E8%8A%B1%E7%BA%B9%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87-1.jpg/160px-GRIFFONver.2%E7%B4%AB%E8%89%B2%E6%96%B9%E6%A0%BC%E8%8A%B1%E7%BA%B9%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87-1.jpg" decoding="async" loading="lazy" width="160" height="211" srcset="https://upload.thwiki.cc/thumb/1/17/GRIFFONver.2%E7%B4%AB%E8%89%B2%E6%96%B9%E6%A0%BC%E8%8A%B1%E7%BA%B9%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87-1.jpg/240px-GRIFFONver.2%E7%B4%AB%E8%89%B2%E6%96%B9%E6%A0%BC%E8%8A%B1%E7%BA%B9%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87-1.jpg 1.5x, https://upload.thwiki.cc/thumb/1/17/GRIFFONver.2%E7%B4%AB%E8%89%B2%E6%96%B9%E6%A0%BC%E8%8A%B1%E7%BA%B9%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87-1.jpg/320px-GRIFFONver.2%E7%B4%AB%E8%89%B2%E6%96%B9%E6%A0%BC%E8%8A%B1%E7%BA%B9%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87-1.jpg 2x" data-file-width="479" data-file-height="633">
+<img alt="GRIFFONver.2紫色方格花纹射命丸文" src="https://upload.thwiki.cc/thumb/8/81/GRIFFONver.2%E7%B4%AB%E8%89%B2%E6%96%B9%E6%A0%BC%E8%8A%B1%E7%BA%B9%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87-2.jpg/160px-GRIFFONver.2%E7%B4%AB%E8%89%B2%E6%96%B9%E6%A0%BC%E8%8A%B1%E7%BA%B9%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87-2.jpg" decoding="async" loading="lazy" width="160" height="211" srcset="https://upload.thwiki.cc/thumb/8/81/GRIFFONver.2%E7%B4%AB%E8%89%B2%E6%96%B9%E6%A0%BC%E8%8A%B1%E7%BA%B9%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87-2.jpg/240px-GRIFFONver.2%E7%B4%AB%E8%89%B2%E6%96%B9%E6%A0%BC%E8%8A%B1%E7%BA%B9%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87-2.jpg 1.5x, https://upload.thwiki.cc/thumb/8/81/GRIFFONver.2%E7%B4%AB%E8%89%B2%E6%96%B9%E6%A0%BC%E8%8A%B1%E7%BA%B9%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87-2.jpg/320px-GRIFFONver.2%E7%B4%AB%E8%89%B2%E6%96%B9%E6%A0%BC%E8%8A%B1%E7%BA%B9%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87-2.jpg 2x" data-file-width="479" data-file-height="633">
+文件:GRIFFONver.2紫色方格花纹射命丸文-3.jpg (未找到链接)公式图
 
 ---
 

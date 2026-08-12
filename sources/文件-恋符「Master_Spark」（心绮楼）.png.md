@@ -1,12 +1,8 @@
 # 文件:恋符「Master_Spark」（心绮楼）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6b\ns6%3A%E6%81%8B%E7%AC%A6%E3%80%8CMaster_Spark%E3%80%8D%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6b\ns6%3A%E6%81%8B%E7%AC%A6%E3%80%8CMaster_Spark%E3%80%8D%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%EF%BC%89%2Epng.html -->
 
 东方心绮楼 | 自机符卡 | 雾雨魔理沙
-
-
-
-
 
 
 ---

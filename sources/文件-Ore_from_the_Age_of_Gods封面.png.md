@@ -1,6 +1,6 @@
 # 文件:Ore_from_the_Age_of_Gods封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c5\ns6%3AOre_from_the_Age_of_Gods%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c5\ns6%3AOre_from_the_Age_of_Gods%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Iced＿Lemon | Quariumarts | ThatOneUnkownPebble | lapspider45 | 封面图片 | 软件封面
 
@@ -10,16 +10,11 @@ Iced＿Lemon | Quariumarts | ThatOneUnkownPebble | lapspider45 | 封面图片 | 
 使用了本文件作封面图片的作品：
   
 
-- [Ore from the Age of Gods](./Ore_from_the_Age_of_Gods.md)  
-该封面包含的角色：- [姬虫百百世](./姬虫百百世.md)
+- [Ore from the Age of Gods](./Ore_from_the_Age_of_Gods.md)该封面包含的角色：
+- [姬虫百百世](./姬虫百百世.md)
 
   
-源地址：[direct image link](https://img.itch.zone/aW1nLzc1NDM3MDYucG5n/original/xKY/mv.png), [source page](https://iced-lemon.itch.io/ore-from-gods)
-  
-
-
-
-
+源地址：[direct image link](https://img.itch.zone/aW1nLzc1NDM3MDYucG5n/original/xKY/mv.png), [source page](https://iced-lemon.itch.io/ore-from-gods)  
 
 ---
 

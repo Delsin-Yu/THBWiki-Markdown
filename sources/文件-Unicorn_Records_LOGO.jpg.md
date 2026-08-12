@@ -1,12 +1,8 @@
 # 文件:Unicorn_Records_LOGO.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\41\ns6%3AUnicorn_Records_LOGO%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\41\ns6%3AUnicorn_Records_LOGO%2Ejpg.html -->
 
 Unicorn_Records | 社团LOGO
-
-
-
-
 
 
 ---

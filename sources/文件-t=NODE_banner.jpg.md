@@ -1,12 +1,8 @@
 # 文件:t=NODE_banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\74\ns6%3At%3DNODE_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\74\ns6%3At%3DNODE_banner%2Ejpg.html -->
 
 t=NODE | 社团LOGO
-
-
-
-
 
 
 ---

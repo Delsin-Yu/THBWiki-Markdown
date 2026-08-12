@@ -1,6 +1,6 @@
 # 文件:花嵐～kwaran封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d0\ns6%3A%E8%8A%B1%E5%B5%90%EF%BD%9Ekwaran%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d0\ns6%3A%E8%8A%B1%E5%B5%90%EF%BD%9Ekwaran%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 DELI-TRE | YAYUYO | 同人志封面 | 封面图片
 
@@ -8,12 +8,9 @@ DELI-TRE | YAYUYO | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [花嵐～kwaran](./花嵐～kwaran.md)  
-该封面包含的角色：- [风见幽香](./风见幽香.md)源地址：[[1]](http://www016.upp.so-net.ne.jp/delitre/kwaran/img/hyoushi-sam.jpg)
-
-
-
-
+- [花嵐～kwaran](./花嵐～kwaran.md)该封面包含的角色：
+- [风见幽香](./风见幽香.md)
+源地址：[\[1\]](http://www016.upp.so-net.ne.jp/delitre/kwaran/img/hyoushi-sam.jpg)
 
 ---
 

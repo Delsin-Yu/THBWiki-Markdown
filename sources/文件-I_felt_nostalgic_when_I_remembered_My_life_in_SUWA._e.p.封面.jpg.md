@@ -1,6 +1,6 @@
 # 文件:I_felt_nostalgic_when_I_remembered_My_life_in_SUWA._e.p.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4a\ns6%3AI_felt_nostalgic_when_I_remembered_My_life_in_SUWA%2E_e%2Ep%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4a\ns6%3AI_felt_nostalgic_when_I_remembered_My_life_in_SUWA%2E_e%2Ep%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 asami | 专辑封面 | 封面图片
 
@@ -8,10 +8,7 @@ asami | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [I felt nostalgic when I remembered My life in SUWA. e.p.](./I_felt_nostalgic_when_I_remembered_My_life_in_SUWA._e.p..md)源地址：[[1]](http://mylifeinsuwaep.web.fc2.com/securedownload.jpeg)
-
-
-
+- [I felt nostalgic when I remembered My life in SUWA. e.p.](./I_felt_nostalgic_when_I_remembered_My_life_in_SUWA._e.p..md)源地址：[\[1\]](http://mylifeinsuwaep.web.fc2.com/securedownload.jpeg)
 
 
 ---

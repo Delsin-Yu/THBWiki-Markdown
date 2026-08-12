@@ -1,6 +1,6 @@
 # 文件:kosmos⇔khaos封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a0\ns6%3Akosmos%E2%87%94khaos%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a0\ns6%3Akosmos%E2%87%94khaos%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 きりかぶ煮込み | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@
   
 
 - [kosmos⇔khaos](./kosmos⇔khaos.md)
-
-
-
 
 
 ---

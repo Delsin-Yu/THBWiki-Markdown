@@ -1,6 +1,6 @@
 # 文件:会宴祭_-GalaFestaCarnival-封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b1\ns6%3A%E4%BC%9A%E5%AE%B4%E7%A5%AD_-GalaFestaCarnival-%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b1\ns6%3A%E4%BC%9A%E5%AE%B4%E7%A5%AD_-GalaFestaCarnival-%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 洛水幻奏座
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [会宴祭 -GalaFestaCarnival-](./会宴祭_-GalaFestaCarnival-.md)  
-该封面包含的角色：- [莉格露·奈特巴格](./莉格露·奈特巴格.md)
-
-
-
+- [会宴祭 -GalaFestaCarnival-](./会宴祭_-GalaFestaCarnival-.md)该封面包含的角色：
+- [莉格露·奈特巴格](./莉格露·奈特巴格.md)
 
 
 ---

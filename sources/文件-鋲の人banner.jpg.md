@@ -1,14 +1,11 @@
 # 文件:鋲の人banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\67\ns6%3A%E9%8B%B2%E3%81%AE%E4%BA%BAbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\67\ns6%3A%E9%8B%B2%E3%81%AE%E4%BA%BAbanner%2Ejpg.html -->
 
 社团LOGO | 鋲の人
 
 
 ## 文件说明
-
-
-
 
 ---
 

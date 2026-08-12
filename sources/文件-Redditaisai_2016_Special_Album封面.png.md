@@ -1,6 +1,6 @@
 # 文件:Redditaisai_2016_Special_Album封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\81\ns6%3ARedditaisai_2016_Special_Album%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\81\ns6%3ARedditaisai_2016_Special_Album%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Frozen_Starfall | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Frozen_Starfall | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Redditaisai 2016 Special Album](./Redditaisai_2016_Special_Album.md)  
-该封面包含的角色：- [秋穰子](./秋穰子.md)
-
-
-
+- [Redditaisai 2016 Special Album](./Redditaisai_2016_Special_Album.md)该封面包含的角色：
+- [秋穰子](./秋穰子.md)
 
 
 ---

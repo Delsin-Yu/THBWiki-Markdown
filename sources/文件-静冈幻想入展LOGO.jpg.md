@@ -1,14 +1,11 @@
 # 文件:静冈幻想入展LOGO.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\97\ns6%3A%E9%9D%99%E5%86%88%E5%B9%BB%E6%83%B3%E5%85%A5%E5%B1%95LOGO%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\97\ns6%3A%E9%9D%99%E5%86%88%E5%B9%BB%E6%83%B3%E5%85%A5%E5%B1%95LOGO%2Ejpg.html -->
 
 全日本幻想入展 | 活动LOGO | 静冈幻想入展
 
 
 ## 文件说明
-
-
-
 
 ---
 

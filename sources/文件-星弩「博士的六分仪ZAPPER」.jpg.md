@@ -1,12 +1,8 @@
 # 文件:星弩「博士的六分仪ZAPPER」.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0d\ns6%3A%E6%98%9F%E5%BC%A9%E3%80%8C%E5%8D%9A%E5%A3%AB%E7%9A%84%E5%85%AD%E5%88%86%E4%BB%AAZAPPER%E3%80%8D%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0d\ns6%3A%E6%98%9F%E5%BC%A9%E3%80%8C%E5%8D%9A%E5%A3%AB%E7%9A%84%E5%85%AD%E5%88%86%E4%BB%AAZAPPER%E3%80%8D%2Ejpg.html -->
 
 東方邪星章製作チーム
-
-
-
-
 
 
 ---

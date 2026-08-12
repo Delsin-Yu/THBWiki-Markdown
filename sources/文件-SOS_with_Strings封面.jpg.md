@@ -1,6 +1,6 @@
 # 文件:SOS_with_Strings封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0a\ns6%3ASOS_with_Strings%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0a\ns6%3ASOS_with_Strings%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 SOS_-Sound_of_Swing- | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ SOS_-Sound_of_Swing- | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [SOS with Strings](./SOS_with_Strings.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [SOS with Strings](./SOS_with_Strings.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
 
   
-源地址：[[1]](http://doujindou.com/img/I/4/e/8/4e8e9b0fe6c343a2aabf404e39208981/l_top.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://doujindou.com/img/I/4/e/8/4e8e9b0fe6c343a2aabf404e39208981/l_top.jpg)  
 
 ---
 

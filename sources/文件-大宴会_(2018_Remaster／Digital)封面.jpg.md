@@ -1,6 +1,6 @@
 # 文件:大宴会_(2018_Remaster／Digital)封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0b\ns6%3A%E5%A4%A7%E5%AE%B4%E4%BC%9A_%282018_Remaster%EF%BC%8FDigital%29%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0b\ns6%3A%E5%A4%A7%E5%AE%B4%E4%BC%9A_%282018_Remaster%EF%BC%8FDigital%29%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 梶迫小道具店
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [大宴会 (2018 Remaster／Digital)](./大宴会_(2018_Remaster／Digital).md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [大宴会 (2018 Remaster／Digital)](./大宴会_(2018_Remaster／Digital%29.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

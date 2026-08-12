@@ -1,6 +1,6 @@
 # 文件:东方寓梦粹_Prototype_01.5_雏梦本封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\31\ns6%3A%E4%B8%9C%E6%96%B9%E5%AF%93%E6%A2%A6%E7%B2%B9_Prototype_01%2E5_%E9%9B%8F%E6%A2%A6%E6%9C%AC%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\31\ns6%3A%E4%B8%9C%E6%96%B9%E5%AF%93%E6%A2%A6%E7%B2%B9_Prototype_01%2E5_%E9%9B%8F%E6%A2%A6%E6%9C%AC%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 东方寓梦粹 | 同人志封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [东方寓梦粹 Prototype 01.5 雏梦本](./东方寓梦粹_Prototype_01.5_雏梦本.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
-
-
-
+- [东方寓梦粹 Prototype 01.5 雏梦本](./东方寓梦粹_Prototype_01.5_雏梦本.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
 
 ---

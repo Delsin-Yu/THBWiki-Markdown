@@ -1,6 +1,6 @@
 # 東方蒔夢原_～_Champaign_of_Unfinished_Dreams./故事背景
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\7\71\ns0%3A%E6%9D%B1%E6%96%B9%E8%92%94%E5%A4%A2%E5%8E%9F_%EF%BD%9E_Champaign_of_Unfinished_Dreams%2E%2F%E6%95%85%E4%BA%8B%E8%83%8C%E6%99%AF.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\7\71\ns0%3A%E6%9D%B1%E6%96%B9%E8%92%94%E5%A4%A2%E5%8E%9F_%EF%BD%9E_Champaign_of_Unfinished_Dreams%2E%2F%E6%95%85%E4%BA%8B%E8%83%8C%E6%99%AF.html -->
 
 Consonances&Dissonances | 明ノ宮_飛鳥
 
@@ -72,12 +72,7 @@ Consonances&Dissonances | 明ノ宮_飛鳥
 ——远处，流光溢彩的原野上。  
 
 “她”缓缓张开双眼，伸出双手，准备拥抱这个崭新的世界……  
-
   
-
-
-
-
 
 ---
 

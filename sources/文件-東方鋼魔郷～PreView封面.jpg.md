@@ -1,6 +1,6 @@
 # 文件:東方鋼魔郷～PreView封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3d\ns6%3A%E6%9D%B1%E6%96%B9%E9%8B%BC%E9%AD%94%E9%83%B7%EF%BD%9EPreView%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3d\ns6%3A%E6%9D%B1%E6%96%B9%E9%8B%BC%E9%AD%94%E9%83%B7%EF%BD%9EPreView%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 戯音楽団
 
@@ -11,9 +11,6 @@
   
 
 - [東方鋼魔郷～PreView](./東方鋼魔郷～PreView.md)
-
-
-
 
 
 ---

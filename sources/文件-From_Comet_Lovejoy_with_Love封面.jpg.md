@@ -1,6 +1,6 @@
 # 文件:From_Comet_Lovejoy_with_Love封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4d\ns6%3AFrom_Comet_Lovejoy_with_Love%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4d\ns6%3AFrom_Comet_Lovejoy_with_Love%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 玉桜楼
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [From Comet Lovejoy with Love](./From_Comet_Lovejoy_with_Love.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
+- [From Comet Lovejoy with Love](./From_Comet_Lovejoy_with_Love.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
   
-源地址：[direct image link (original size)](https://pbs.twimg.com/media/FclaSPMagAE5obM?format=jpg&amp;name=orig), [source tweet](https://twitter.com/gyokuourou4414/status/1569885220790489090)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://pbs.twimg.com/media/FclaSPMagAE5obM?format=jpg&name=orig), [source tweet](https://twitter.com/gyokuourou4414/status/1569885220790489090)  
 
 ---
 

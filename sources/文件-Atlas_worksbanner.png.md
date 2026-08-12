@@ -1,14 +1,11 @@
 # 文件:Atlas_worksbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\34\ns6%3AAtlas_worksbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\34\ns6%3AAtlas_worksbanner%2Epng.html -->
 
 Atlas_works | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

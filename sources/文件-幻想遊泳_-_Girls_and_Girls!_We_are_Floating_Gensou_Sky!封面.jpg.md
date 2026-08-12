@@ -1,6 +1,6 @@
 # 文件:幻想遊泳_-_Girls_and_Girls!_We_are_Floating_Gensou_Sky!封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\34\ns6%3A%E5%B9%BB%E6%83%B3%E9%81%8A%E6%B3%B3_-_Girls_and_Girls%21_We_are_Floating_Gensou_Sky%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\34\ns6%3A%E5%B9%BB%E6%83%B3%E9%81%8A%E6%B3%B3_-_Girls_and_Girls%21_We_are_Floating_Gensou_Sky%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Red_Bullet_Sequence | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Red_Bullet_Sequence | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [幻想遊泳 - Girls and Girls! We are Floating Gensou Sky!](./幻想遊泳_-_Girls_and_Girls!_We_are_Floating_Gensou_Sky!.md)  
-该封面包含的角色：- [八意永琳](./八意永琳.md)
+- [幻想遊泳 - Girls and Girls! We are Floating Gensou Sky!](./幻想遊泳_-_Girls_and_Girls!_We_are_Floating_Gensou_Sky!.md)该封面包含的角色：
+- [八意永琳](./八意永琳.md)
 
   
-源地址：[[1]](https://rbs.booth.pm/items/689343)
-  
-
-
-
-
+源地址：[\[1\]](https://rbs.booth.pm/items/689343)  
 
 ---
 

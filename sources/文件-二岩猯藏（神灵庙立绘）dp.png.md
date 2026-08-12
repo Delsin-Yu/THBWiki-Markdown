@@ -1,12 +1,8 @@
 # 文件:二岩猯藏（神灵庙立绘）dp.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\32\ns6%3A%E4%BA%8C%E5%B2%A9%E7%8C%AF%E8%97%8F%EF%BC%88%E7%A5%9E%E7%81%B5%E5%BA%99%E7%AB%8B%E7%BB%98%EF%BC%89dp%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\32\ns6%3A%E4%BA%8C%E5%B2%A9%E7%8C%AF%E8%97%8F%EF%BC%88%E7%A5%9E%E7%81%B5%E5%BA%99%E7%AB%8B%E7%BB%98%EF%BC%89dp%2Epng.html -->
 
 ZUN绘 | 东方神灵庙 | 二岩猯藏 | 官方游戏立绘
-
-
-
-
 
 
 ---

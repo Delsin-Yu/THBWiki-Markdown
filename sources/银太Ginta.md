@@ -1,11 +1,11 @@
 # 银太Ginta
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\e\e0\ns0%3A%E9%93%B6%E5%A4%AAGinta.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\e\e0\ns0%3A%E9%93%B6%E5%A4%AAGinta.html -->
 
 现实人物
 
 本页是关于东方Project  
- **二次同人创作者** 的词条
+**二次同人创作者**的词条
 ## 基本信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="label"><b>名称</b></td><td> 银太Ginta </td></tr><tr><td class="label"><b>别名</b></td><td><s>莉莉银</s></td></tr><tr><td class="label"><b>所属社团</b></td><td><b>当前</b><div style="margin-left:2em;"><a href="./唐伞的刀匠屋.md" title="唐伞的刀匠屋">唐伞的刀匠屋</a></div></td></tr><tr><td class="label"><b>职位</b></td><td>主催</td></tr><tr><td class="label"><b>性别</b></td><td>男</td></tr><tr><td class="label"><b>个人页面</b></td><td><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><b>bilibili</b></td><td><a rel="nofollow" class="external free" href="https://space.bilibili.com/664564">https://space.bilibili.com/664564</a></td></tr></tbody></table></td></tr></tbody></table>
@@ -21,10 +21,8 @@
   
 
 ## 参与作品
+
 ## 人际关系
-
-
-
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:Right_Noveler封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b8\ns6%3ARight_Noveler%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b8\ns6%3ARight_Noveler%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 六四蜘蛛 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Right Noveler](./Right_Noveler.md)  
-该封面包含的角色：- [稗田阿求](./稗田阿求.md)
-
-
-
+- [Right Noveler](./Right_Noveler.md)该封面包含的角色：
+- [稗田阿求](./稗田阿求.md)
 
 
 ---

@@ -1,12 +1,11 @@
 # Leviathan
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\3\36\ns0%3ALeviathan.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\3\36\ns0%3ALeviathan.html -->
 
 连缘Project官方符牌 | 鹀蒿雀
 
-本页是关于 **向[东方Project](./东方Project.md)  
-致敬、形式类似的作品** 的词条
-
+本页是关于**向[东方Project](./东方Project.md)致敬、形式类似的作品**  
+的词条
 <table>
 
 <tbody><tr>
@@ -17,7 +16,6 @@
 <td>「Leviathan」</td>
 <td>「リヴァイアサン」
 </td></tr></tbody></table>
-
 
 
 ## 登场
@@ -33,12 +31,6 @@
 <p>2面BOSS鹀蒿雀Easy / Normal / Hard / Unreal难度符牌。
 </p>
 </td></tr></tbody></table>
-
-
-
-
-
-
 
 
 ---

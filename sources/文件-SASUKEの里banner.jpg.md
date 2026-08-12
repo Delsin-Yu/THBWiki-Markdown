@@ -1,12 +1,8 @@
 # 文件:SASUKEの里banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5d\ns6%3ASASUKE%E3%81%AE%E9%87%8Cbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5d\ns6%3ASASUKE%E3%81%AE%E9%87%8Cbanner%2Ejpg.html -->
 
 SASUKEの里 | 社团LOGO
-
-
-
-
 
 
 ---

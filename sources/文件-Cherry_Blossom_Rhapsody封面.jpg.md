@@ -1,6 +1,6 @@
 # 文件:Cherry_Blossom_Rhapsody封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e3\ns6%3ACherry_Blossom_Rhapsody%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e3\ns6%3ACherry_Blossom_Rhapsody%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 日本東方大学
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Cherry Blossom Rhapsody](./Cherry_Blossom_Rhapsody.md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)
+- [Cherry Blossom Rhapsody](./Cherry_Blossom_Rhapsody.md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
 
   
-源地址：[direct image link](https://static.wixstatic.com/media/1bd1ba_61e5bc58b33646228433a97dbbde9f91~mv2.jpg)
-  
-
-
-
-
+源地址：[direct image link](https://static.wixstatic.com/media/1bd1ba_61e5bc58b33646228433a97dbbde9f91~mv2.jpg)  
 
 ---
 

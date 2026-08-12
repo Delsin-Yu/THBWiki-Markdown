@@ -1,16 +1,12 @@
 # 模板:流丽祭彩LIVE
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\4\4b\ns10%3A%E6%B5%81%E4%B8%BD%E7%A5%AD%E5%BD%A9LIVE.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\4\4b\ns10%3A%E6%B5%81%E4%B8%BD%E7%A5%AD%E5%BD%A9LIVE.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

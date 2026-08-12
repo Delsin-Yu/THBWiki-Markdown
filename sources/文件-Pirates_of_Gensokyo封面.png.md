@@ -1,6 +1,6 @@
 # 文件:Pirates_of_Gensokyo封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\01\ns6%3APirates_of_Gensokyo%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\01\ns6%3APirates_of_Gensokyo%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 ApricotWTF | DemonChuckle | 封面图片 | 软件封面
 
@@ -10,16 +10,14 @@ ApricotWTF | DemonChuckle | 封面图片 | 软件封面
 使用了本文件作封面图片的作品：
   
 
-- [Pirates of Gensokyo](./Pirates_of_Gensokyo.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [东风谷早苗](./东风谷早苗.md)- [古明地觉](./古明地觉.md)- [雾雨魔理沙](./雾雨魔理沙.md)
+- [Pirates of Gensokyo](./Pirates_of_Gensokyo.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [东风谷早苗](./东风谷早苗.md)
+- [古明地觉](./古明地觉.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-源地址：[direct image link (original size)](https://img.itch.zone/aW1nLzIyMjI0OTkucG5n/original/xucPCi.png), [source page](https://apricotwtf.itch.io/pirates-of-gensokyo)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://img.itch.zone/aW1nLzIyMjI0OTkucG5n/original/xucPCi.png), [source page](https://apricotwtf.itch.io/pirates-of-gensokyo)  
 
 ---
 

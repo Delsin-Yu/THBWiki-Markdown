@@ -1,6 +1,6 @@
 # 文件:RIDE_ON_SOUND_WAVE封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\de\ns6%3ARIDE_ON_SOUND_WAVE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\de\ns6%3ARIDE_ON_SOUND_WAVE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 方舟さくら丸
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [RIDE ON SOUND WAVE](./RIDE_ON_SOUND_WAVE.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [RIDE ON SOUND WAVE](./RIDE_ON_SOUND_WAVE.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

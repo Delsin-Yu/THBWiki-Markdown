@@ -1,6 +1,6 @@
 # 文件:THE_NEWEST_SFC_SOUNDTRACK～幻想郷編～封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d6\ns6%3ATHE_NEWEST_SFC_SOUNDTRACK%EF%BD%9E%E5%B9%BB%E6%83%B3%E9%83%B7%E7%B7%A8%EF%BD%9E%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d6\ns6%3ATHE_NEWEST_SFC_SOUNDTRACK%EF%BD%9E%E5%B9%BB%E6%83%B3%E9%83%B7%E7%B7%A8%EF%BD%9E%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 PPSE部 | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ PPSE部 | 专辑封面 | 封面图片
   
 
 - [THE NEWEST SFC SOUNDTRACK～幻想郷編～](./THE_NEWEST_SFC_SOUNDTRACK～幻想郷編～.md)
-
-
-
 
 
 ---

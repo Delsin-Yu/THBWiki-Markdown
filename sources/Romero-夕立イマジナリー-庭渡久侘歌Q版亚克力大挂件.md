@@ -1,37 +1,29 @@
 # Romero/夕立イマジナリー/庭渡久侘歌Q版亚克力大挂件
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\7\78\ns0%3ARomero%2F%E5%A4%95%E7%AB%8B%E3%82%A4%E3%83%9E%E3%82%B8%E3%83%8A%E3%83%AA%E3%83%BC%2F%E5%BA%AD%E6%B8%A1%E4%B9%85%E4%BE%98%E6%AD%8CQ%E7%89%88%E4%BA%9A%E5%85%8B%E5%8A%9B%E5%A4%A7%E6%8C%82%E4%BB%B6.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\7\78\ns0%3ARomero%2F%E5%A4%95%E7%AB%8B%E3%82%A4%E3%83%9E%E3%82%B8%E3%83%8A%E3%83%AA%E3%83%BC%2F%E5%BA%AD%E6%B8%A1%E4%B9%85%E4%BE%98%E6%AD%8CQ%E7%89%88%E4%BA%9A%E5%85%8B%E5%8A%9B%E5%A4%A7%E6%8C%82%E4%BB%B6.html -->
 
 2020年7月25日 由 Romero 于 魅知幻想博览会1 发布的挂件周边，分级为 一般向
 
 本页是关于东方Project  
- **相关实体周边 (未找到链接)** 的词条
-
+**相关实体周边 (未找到链接)**的词条
 ## 目录
 
 - [1 周边信息](#周边信息)
 - [2 参考图](#参考图)
-
   - [2.1 预览图](#预览图)
   - [2.2 实物图](#实物图)
-
 
 
 - [3 Staff](#Staff)
 - [4 评论](#评论)
 
 
-
-
-
 ## 周边信息
 
-<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 庭渡久侘歌Q版亚克力大挂件 </td></tr><tr><td class="label">系列</td><td> 夕立イマジナリー </td></tr><tr><td class="label">制作方</td><td><a href="./Romero.md" title="Romero">Romero</a></td></tr><tr><td class="label">首发日期</td><td>2020-07-25&#160;（<a href="/展会作品列表?e=%E9%AD%85%E7%9F%A5%E5%B9%BB%E6%83%B3%E5%8D%9A%E8%A7%88%E4%BC%9A%231">魅知幻想博览会 2020 上海场</a>）</td></tr><tr><td class="label">类型</td><td>挂件</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>长边8cm</td></tr><tr><td class="label">材质</td><td>亚克力＋玫瑰金星型扣</td></tr><tr><td class="label">角色</td><td><a href="./庭渡久侘歌.md" title="庭渡久侘歌">庭渡久侘歌</a></td></tr><tr><td class="label">售价</td><td>28人民币</td></tr></tbody></table>
+<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 庭渡久侘歌Q版亚克力大挂件 </td></tr><tr><td class="label">系列</td><td> 夕立イマジナリー </td></tr><tr><td class="label">制作方</td><td><a href="./Romero.md" title="Romero">Romero</a></td></tr><tr><td class="label">首发日期</td><td>2020-07-25 （<a href="./展会作品列表.md#1">魅知幻想博览会 2020 上海场</a>）</td></tr><tr><td class="label">类型</td><td>挂件</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>长边8cm</td></tr><tr><td class="label">材质</td><td>亚克力＋玫瑰金星型扣</td></tr><tr><td class="label">角色</td><td><a href="./庭渡久侘歌.md" title="庭渡久侘歌">庭渡久侘歌</a></td></tr><tr><td class="label">售价</td><td>28人民币</td></tr></tbody></table>
 
 Romero/夕立イマジナリー/庭渡久侘歌Q版亚克力大挂件（周边，Romero，2020） - 2020年7月25日 由 Romero 于 魅知幻想博览会1 发布的挂件周边，分级为 一般向
-
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://item.taobao.com/item.htm?id=616768695502">淘宝</a></td></tr></tbody></table>
-
 
 
 ## 参考图
@@ -39,24 +31,21 @@ Romero/夕立イマジナリー/庭渡久侘歌Q版亚克力大挂件（周边�
 周边宣传、售卖时使用的作为参考图的预览图或实物图的图片。
   
 
-
 ### 预览图
-- [](./文件-Romero／夕立イマジナリー／庭渡久侘歌Q版亚克力大挂件预览图1.jpg.md)
+
+- <img alt="Romero／夕立イマジナリー／庭渡久侘歌Q版亚克力大挂件预览图1.jpg" src="https://upload.thwiki.cc/thumb/e/e8/Romero%EF%BC%8F%E5%A4%95%E7%AB%8B%E3%82%A4%E3%83%9E%E3%82%B8%E3%83%8A%E3%83%AA%E3%83%BC%EF%BC%8F%E5%BA%AD%E6%B8%A1%E4%B9%85%E4%BE%98%E6%AD%8CQ%E7%89%88%E4%BA%9A%E5%85%8B%E5%8A%9B%E5%A4%A7%E6%8C%82%E4%BB%B6%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg/375px-Romero%EF%BC%8F%E5%A4%95%E7%AB%8B%E3%82%A4%E3%83%9E%E3%82%B8%E3%83%8A%E3%83%AA%E3%83%BC%EF%BC%8F%E5%BA%AD%E6%B8%A1%E4%B9%85%E4%BE%98%E6%AD%8CQ%E7%89%88%E4%BA%9A%E5%85%8B%E5%8A%9B%E5%A4%A7%E6%8C%82%E4%BB%B6%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg" decoding="async" loading="lazy" width="250" height="250" srcset="https://upload.thwiki.cc/thumb/e/e8/Romero%EF%BC%8F%E5%A4%95%E7%AB%8B%E3%82%A4%E3%83%9E%E3%82%B8%E3%83%8A%E3%83%AA%E3%83%BC%EF%BC%8F%E5%BA%AD%E6%B8%A1%E4%B9%85%E4%BE%98%E6%AD%8CQ%E7%89%88%E4%BA%9A%E5%85%8B%E5%8A%9B%E5%A4%A7%E6%8C%82%E4%BB%B6%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg/563px-Romero%EF%BC%8F%E5%A4%95%E7%AB%8B%E3%82%A4%E3%83%9E%E3%82%B8%E3%83%8A%E3%83%AA%E3%83%BC%EF%BC%8F%E5%BA%AD%E6%B8%A1%E4%B9%85%E4%BE%98%E6%AD%8CQ%E7%89%88%E4%BA%9A%E5%85%8B%E5%8A%9B%E5%A4%A7%E6%8C%82%E4%BB%B6%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg 1.5x, https://upload.thwiki.cc/thumb/e/e8/Romero%EF%BC%8F%E5%A4%95%E7%AB%8B%E3%82%A4%E3%83%9E%E3%82%B8%E3%83%8A%E3%83%AA%E3%83%BC%EF%BC%8F%E5%BA%AD%E6%B8%A1%E4%B9%85%E4%BE%98%E6%AD%8CQ%E7%89%88%E4%BA%9A%E5%85%8B%E5%8A%9B%E5%A4%A7%E6%8C%82%E4%BB%B6%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg/750px-Romero%EF%BC%8F%E5%A4%95%E7%AB%8B%E3%82%A4%E3%83%9E%E3%82%B8%E3%83%8A%E3%83%AA%E3%83%BC%EF%BC%8F%E5%BA%AD%E6%B8%A1%E4%B9%85%E4%BE%98%E6%AD%8CQ%E7%89%88%E4%BA%9A%E5%85%8B%E5%8A%9B%E5%A4%A7%E6%8C%82%E4%BB%B6%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg 2x" data-file-width="2006" data-file-height="2006"> 
 
 
 ### 实物图
-- [](./文件-Romero／夕立イマジナリー／庭渡久侘歌Q版亚克力大挂件实物图1.jpg.md)
+
+- <img alt="Romero／夕立イマジナリー／庭渡久侘歌Q版亚克力大挂件实物图1.jpg" src="https://upload.thwiki.cc/thumb/2/2e/Romero%EF%BC%8F%E5%A4%95%E7%AB%8B%E3%82%A4%E3%83%9E%E3%82%B8%E3%83%8A%E3%83%AA%E3%83%BC%EF%BC%8F%E5%BA%AD%E6%B8%A1%E4%B9%85%E4%BE%98%E6%AD%8CQ%E7%89%88%E4%BA%9A%E5%85%8B%E5%8A%9B%E5%A4%A7%E6%8C%82%E4%BB%B6%E5%AE%9E%E7%89%A9%E5%9B%BE1.jpg/302px-Romero%EF%BC%8F%E5%A4%95%E7%AB%8B%E3%82%A4%E3%83%9E%E3%82%B8%E3%83%8A%E3%83%AA%E3%83%BC%EF%BC%8F%E5%BA%AD%E6%B8%A1%E4%B9%85%E4%BE%98%E6%AD%8CQ%E7%89%88%E4%BA%9A%E5%85%8B%E5%8A%9B%E5%A4%A7%E6%8C%82%E4%BB%B6%E5%AE%9E%E7%89%A9%E5%9B%BE1.jpg" decoding="async" loading="lazy" width="202" height="250" srcset="https://upload.thwiki.cc/thumb/2/2e/Romero%EF%BC%8F%E5%A4%95%E7%AB%8B%E3%82%A4%E3%83%9E%E3%82%B8%E3%83%8A%E3%83%AA%E3%83%BC%EF%BC%8F%E5%BA%AD%E6%B8%A1%E4%B9%85%E4%BE%98%E6%AD%8CQ%E7%89%88%E4%BA%9A%E5%85%8B%E5%8A%9B%E5%A4%A7%E6%8C%82%E4%BB%B6%E5%AE%9E%E7%89%A9%E5%9B%BE1.jpg/454px-Romero%EF%BC%8F%E5%A4%95%E7%AB%8B%E3%82%A4%E3%83%9E%E3%82%B8%E3%83%8A%E3%83%AA%E3%83%BC%EF%BC%8F%E5%BA%AD%E6%B8%A1%E4%B9%85%E4%BE%98%E6%AD%8CQ%E7%89%88%E4%BA%9A%E5%85%8B%E5%8A%9B%E5%A4%A7%E6%8C%82%E4%BB%B6%E5%AE%9E%E7%89%A9%E5%9B%BE1.jpg 1.5x, https://upload.thwiki.cc/thumb/2/2e/Romero%EF%BC%8F%E5%A4%95%E7%AB%8B%E3%82%A4%E3%83%9E%E3%82%B8%E3%83%8A%E3%83%AA%E3%83%BC%EF%BC%8F%E5%BA%AD%E6%B8%A1%E4%B9%85%E4%BE%98%E6%AD%8CQ%E7%89%88%E4%BA%9A%E5%85%8B%E5%8A%9B%E5%A4%A7%E6%8C%82%E4%BB%B6%E5%AE%9E%E7%89%A9%E5%9B%BE1.jpg/605px-Romero%EF%BC%8F%E5%A4%95%E7%AB%8B%E3%82%A4%E3%83%9E%E3%82%B8%E3%83%8A%E3%83%AA%E3%83%BC%EF%BC%8F%E5%BA%AD%E6%B8%A1%E4%B9%85%E4%BE%98%E6%AD%8CQ%E7%89%88%E4%BA%9A%E5%85%8B%E5%8A%9B%E5%A4%A7%E6%8C%82%E4%BB%B6%E5%AE%9E%E7%89%A9%E5%9B%BE1.jpg 2x" data-file-width="620" data-file-height="769"> 
 
 
 ## Staff
 绘师
 : 颓废红 （[过气废萌社团](./过气废萌社团.md)）
 
-
 ## 评论
-
-
-
 
 ---
 

@@ -1,14 +1,11 @@
 # 文件:XOTICbanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a2\ns6%3AXOTICbanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a2\ns6%3AXOTICbanner%2Egif.html -->
 
 XOTIC | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

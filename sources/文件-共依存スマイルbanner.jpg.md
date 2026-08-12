@@ -1,12 +1,8 @@
 # 文件:共依存スマイルbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\02\ns6%3A%E5%85%B1%E4%BE%9D%E5%AD%98%E3%82%B9%E3%83%9E%E3%82%A4%E3%83%ABbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\02\ns6%3A%E5%85%B1%E4%BE%9D%E5%AD%98%E3%82%B9%E3%83%9E%E3%82%A4%E3%83%ABbanner%2Ejpg.html -->
 
 共依存スマイル | 社团LOGO
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:マリアリ_DROPS!封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\56\ns6%3A%E3%83%9E%E3%83%AA%E3%82%A2%E3%83%AA_DROPS%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\56\ns6%3A%E3%83%9E%E3%83%AA%E3%82%A2%E3%83%AA_DROPS%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 狐の嫁入り
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [マリアリ DROPS!](./マリアリ_DROPS!.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [マリアリ DROPS!](./マリアリ_DROPS!.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:恆萃工坊banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\68\ns6%3A%E6%81%86%E8%90%83%E5%B7%A5%E5%9D%8Abanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\68\ns6%3A%E6%81%86%E8%90%83%E5%B7%A5%E5%9D%8Abanner%2Epng.html -->
 
 恆萃工坊 | 社团LOGO
-
-
-
-
 
 
 ---

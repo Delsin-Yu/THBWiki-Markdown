@@ -1,6 +1,6 @@
 # 文件:硯音_Frequency_Scroll封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\50\ns6%3A%E7%A1%AF%E9%9F%B3_Frequency_Scroll%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\50\ns6%3A%E7%A1%AF%E9%9F%B3_Frequency_Scroll%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 荒御灵
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [硯音 Frequency Scroll](./硯音_Frequency_Scroll.md)  
-该封面包含的角色：- [本居小铃](./本居小铃.md)
+- [硯音 Frequency Scroll](./硯音_Frequency_Scroll.md)该封面包含的角色：
+- [本居小铃](./本居小铃.md)
 
   
-源地址：[[1]](http://arami.rdy.jp/jacketofsuzurine.png)
-  
-
-
-
-
+源地址：[\[1\]](http://arami.rdy.jp/jacketofsuzurine.png)  
 
 ---
 

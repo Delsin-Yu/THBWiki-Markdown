@@ -1,6 +1,6 @@
 # 文件:NoTRick,_NoTRack封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9b\ns6%3ANoTRick%2C_NoTRack%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9b\ns6%3ANoTRick%2C_NoTRack%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Polyphonic_Bug_Choir | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@ Polyphonic_Bug_Choir | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [NoTRick, NoTRack](./NoTRick,_NoTRack.md)  
-该封面包含的角色：- [河城荷取](./河城荷取.md)
+- [NoTRick, NoTRack](./NoTRick,_NoTRack.md)该封面包含的角色：
+- [河城荷取](./河城荷取.md)
 
   
-源地址：[direct image link](http://blog.cnobi.jp/v1/blog/user/e8c350dc4e6ed25bdff6d7ed8cdc951e/1325000062), [source page](http://polybugchoir.blog.shinobi.jp/cd/notrick- notrack)
-  
-
-
-
-
+源地址：[direct image link](http://blog.cnobi.jp/v1/blog/user/e8c350dc4e6ed25bdff6d7ed8cdc951e/1325000062), [source page](http://polybugchoir.blog.shinobi.jp/cd/notrick-%20notrack)  
 
 ---
 

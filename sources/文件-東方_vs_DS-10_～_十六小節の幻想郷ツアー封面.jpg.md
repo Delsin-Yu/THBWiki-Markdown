@@ -1,6 +1,6 @@
 # 文件:東方_vs_DS-10_～_十六小節の幻想郷ツアー封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a6\ns6%3A%E6%9D%B1%E6%96%B9_vs_DS-10_%EF%BD%9E_%E5%8D%81%E5%85%AD%E5%B0%8F%E7%AF%80%E3%81%AE%E5%B9%BB%E6%83%B3%E9%83%B7%E3%83%84%E3%82%A2%E3%83%BC%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a6\ns6%3A%E6%9D%B1%E6%96%B9_vs_DS-10_%EF%BD%9E_%E5%8D%81%E5%85%AD%E5%B0%8F%E7%AF%80%E3%81%AE%E5%B9%BB%E6%83%B3%E9%83%B7%E3%83%84%E3%82%A2%E3%83%BC%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Pocket_AD | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Pocket_AD | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方 vs DS-10 ～ 十六小節の幻想郷ツアー](./東方_vs_DS-10_～_十六小節の幻想郷ツアー.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [東方 vs DS-10 ～ 十六小節の幻想郷ツアー](./東方_vs_DS-10_～_十六小節の幻想郷ツアー.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

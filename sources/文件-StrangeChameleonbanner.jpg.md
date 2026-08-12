@@ -1,12 +1,8 @@
 # 文件:StrangeChameleonbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c9\ns6%3AStrangeChameleonbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c9\ns6%3AStrangeChameleonbanner%2Ejpg.html -->
 
 StrangeChameleon | 社团LOGO
-
-
-
-
 
 
 ---

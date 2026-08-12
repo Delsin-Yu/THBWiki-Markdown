@@ -1,6 +1,6 @@
 # 文件:New_Beginning封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\03\ns6%3ANew_Beginning%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\03\ns6%3ANew_Beginning%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 DHS | 专辑封面 | 封面图片
 
@@ -11,12 +11,7 @@ DHS | 专辑封面 | 封面图片
 - [New Beginning](./New_Beginning.md)
 
   
-源地址：[direct image link (original size)](https://f4.bcbits.com/img/a1288108976_0.jpg), [source page (circle Bandcamp)](https://dhsmusic3.bandcamp.com/album/new-begininng)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://f4.bcbits.com/img/a1288108976_0.jpg), [source page (circle Bandcamp)](https://dhsmusic3.bandcamp.com/album/new-begininng)  
 
 ---
 

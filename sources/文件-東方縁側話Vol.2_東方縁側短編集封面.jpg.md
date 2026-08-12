@@ -1,6 +1,6 @@
 # 文件:東方縁側話Vol.2_東方縁側短編集封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\24\ns6%3A%E6%9D%B1%E6%96%B9%E7%B8%81%E5%81%B4%E8%A9%B1Vol%2E2_%E6%9D%B1%E6%96%B9%E7%B8%81%E5%81%B4%E7%9F%AD%E7%B7%A8%E9%9B%86%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\24\ns6%3A%E6%9D%B1%E6%96%B9%E7%B8%81%E5%81%B4%E8%A9%B1Vol%2E2_%E6%9D%B1%E6%96%B9%E7%B8%81%E5%81%B4%E7%9F%AD%E7%B7%A8%E9%9B%86%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 縁側話製作委員会
 
@@ -10,11 +10,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方縁側話Vol.2 東方縁側短編集](./東方縁側話Vol.2_東方縁側短編集.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [橙](./橙.md)- [射命丸文](./射命丸文.md)- [伊吹萃香](./伊吹萃香.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [東方縁側話Vol.2 東方縁側短編集](./東方縁側話Vol.2_東方縁側短編集.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [橙](./橙.md)
+- [射命丸文](./射命丸文.md)
+- [伊吹萃香](./伊吹萃香.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

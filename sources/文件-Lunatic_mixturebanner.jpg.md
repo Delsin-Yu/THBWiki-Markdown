@@ -1,16 +1,11 @@
 # 文件:Lunatic_mixturebanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f2\ns6%3ALunatic_mixturebanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f2\ns6%3ALunatic_mixturebanner%2Ejpg.html -->
 
 Lunatic_mixture | 社团LOGO
 
   
-源地址：[[1]](http://static.tumblr.com/47aebfe1a467087b7a0d5034259f39f5/ap6v1yb/Pvlmv0orj/tumblr_static________________.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://static.tumblr.com/47aebfe1a467087b7a0d5034259f39f5/ap6v1yb/Pvlmv0orj/tumblr_static________________.jpg)  
 
 ---
 

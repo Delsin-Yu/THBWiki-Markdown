@@ -1,6 +1,6 @@
 # 文件:The_Free_Faller封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d9\ns6%3AThe_Free_Faller%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d9\ns6%3AThe_Free_Faller%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ゼッケン屋 | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [The Free Faller](./The_Free_Faller.md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)
-
-
-
+- [The Free Faller](./The_Free_Faller.md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Re：Starting_Over封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0b\ns6%3ARe%EF%BC%9AStarting_Over%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0b\ns6%3ARe%EF%BC%9AStarting_Over%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 overTuner | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ overTuner | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Re：Starting Over](./Re：Starting_Over.md)  
-该封面包含的角色：- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [Re：Starting Over](./Re：Starting_Over.md)该封面包含的角色：
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

@@ -1,11 +1,10 @@
 # 東方Projectあずまあや画集_はなおうぎ/其他
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\d\d2\ns0%3A%E6%9D%B1%E6%96%B9Project%E3%81%82%E3%81%9A%E3%81%BE%E3%81%82%E3%82%84%E7%94%BB%E9%9B%86_%E3%81%AF%E3%81%AA%E3%81%8A%E3%81%86%E3%81%8E%2F%E5%85%B6%E4%BB%96.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\d\d2\ns0%3A%E6%9D%B1%E6%96%B9Project%E3%81%82%E3%81%9A%E3%81%BE%E3%81%82%E3%82%84%E7%94%BB%E9%9B%86_%E3%81%AF%E3%81%AA%E3%81%8A%E3%81%86%E3%81%8E%2F%E5%85%B6%E4%BB%96.html -->
 
 あずまあや | 使用了翻译表的页面 | 含有受损文件链接的页面 | 待完成页面
 
 <center>
-
 <table>
 <tbody><tr>
 <td class="mbox-image"><div style="width: 52px;">
@@ -14,72 +13,25 @@
 </tr>
 </tbody></table>
 
-
 </center>
-
 ## 封面设计
+
 - 护封
 
-
-
-
-前勒口 (未找到链接)
-
-前勒口
-
-
-封面 (未找到链接)
-封面
-
-
-书脊 (未找到链接)
-书脊
-
-
-封底 (未找到链接)
-封底
-
-
-后勒口 (未找到链接)
-后勒口
-
-
-
-
-文件:東方Projectあずまあや画集 はなおうぎwaist.jpg (未找到链接)  腰封（每次印刷有所不同）
-
-
+前勒口 (未找到链接)前勒口
+封面 (未找到链接)封面
+书脊 (未找到链接)书脊
+封底 (未找到链接)封底
+后勒口 (未找到链接)后勒口
+文件:東方Projectあずまあや画集 はなおうぎwaist.jpg (未找到链接) 腰封（每次印刷有所不同）
 <table><tbody><tr class="tt-header" id="封面设计-1" data-pos="&#91;&quot;\u5c01\u9762\u8bbe\u8ba1&quot;,1&#93;"><td colspan="2" id="腰封" class="tt-header" lang="zh"><div class="poem">腰封</div></td></tr><tr class="tt-content" id="封面设计-2" data-pos="&#91;&quot;\u5c01\u9762\u8bbe\u8ba1&quot;,2&#93;"><td class="tt-ja" lang="ja"><div class="poem"></div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr></tbody></table>
 
 
 - 内面
 
-
-
-
-内封面 (未找到链接)
-
-内封面
-
-
-内书脊 (未找到链接)
-内书脊
-
-
-内封底 (未找到链接)
-内封底
-
-
-
-
-  
-  
-
-  
-
-
-
-
+内封面 (未找到链接)内封面
+内书脊 (未找到链接)内书脊
+内封底 (未找到链接)内封底
 
 ---
 

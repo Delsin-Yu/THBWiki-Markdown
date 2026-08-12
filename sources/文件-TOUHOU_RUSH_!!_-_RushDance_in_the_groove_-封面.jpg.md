@@ -1,6 +1,6 @@
 # 文件:TOUHOU_RUSH_!!_-_RushDance_in_the_groove_-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0c\ns6%3ATOUHOU_RUSH_%21%21_-_RushDance_in_the_groove_-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0c\ns6%3ATOUHOU_RUSH_%21%21_-_RushDance_in_the_groove_-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 SBFR | 专辑封面 | 封面图片
 
@@ -8,16 +8,12 @@ SBFR | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [TOUHOU RUSH&#160;!! - RushDance in the groove -](./TOUHOU_RUSH_!!_-_RushDance_in_the_groove_-.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)- [射命丸文](./射命丸文.md)
+- [TOUHOU RUSH !! - RushDance in the groove -](./TOUHOU_RUSH_!!_-_RushDance_in_the_groove_-.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
+- [射命丸文](./射命丸文.md)
 
   
-源地址：[[1]](http://sbfr.info/discography/img/cover_full/sseb0016.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://sbfr.info/discography/img/cover_full/sseb0016.jpg)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:結界_SIDE_EMOTION封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e4\ns6%3A%E7%B5%90%E7%95%8C_SIDE_EMOTION%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e4\ns6%3A%E7%B5%90%E7%95%8C_SIDE_EMOTION%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Midnight_Dessert | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@ Midnight_Dessert | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [結界 SIDE EMOTION](./結界_SIDE_EMOTION.md)  
-该封面包含的角色：- [八云紫](./八云紫.md)
-
-
-
+- [結界 SIDE EMOTION](./結界_SIDE_EMOTION.md)该封面包含的角色：
+- [八云紫](./八云紫.md)
 
 
 ---

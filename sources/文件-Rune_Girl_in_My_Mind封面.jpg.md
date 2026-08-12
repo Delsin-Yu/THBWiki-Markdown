@@ -1,6 +1,6 @@
 # 文件:Rune_Girl_in_My_Mind封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\90\ns6%3ARune_Girl_in_My_Mind%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\90\ns6%3ARune_Girl_in_My_Mind%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 La_Sonotasia | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ La_Sonotasia | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Rune Girl in My Mind](./Rune_Girl_in_My_Mind.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [Rune Girl in My Mind](./Rune_Girl_in_My_Mind.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

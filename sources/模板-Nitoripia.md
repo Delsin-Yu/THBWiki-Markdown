@@ -1,16 +1,12 @@
 # 模板:Nitoripia
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\8\83\ns10%3ANitoripia.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\8\83\ns10%3ANitoripia.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

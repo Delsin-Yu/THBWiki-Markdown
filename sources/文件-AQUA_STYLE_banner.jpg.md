@@ -1,12 +1,8 @@
 # 文件:AQUA_STYLE_banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\91\ns6%3AAQUA_STYLE_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\91\ns6%3AAQUA_STYLE_banner%2Ejpg.html -->
 
 AQUA_STYLE | 社团LOGO
-
-
-
-
 
 
 ---

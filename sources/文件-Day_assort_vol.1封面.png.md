@@ -1,6 +1,6 @@
 # 文件:Day_assort_vol.1封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f6\ns6%3ADay_assort_vol%2E1%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f6\ns6%3ADay_assort_vol%2E1%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 hoomy34 | 专辑封面 | 封面图片
 
@@ -8,11 +8,10 @@ hoomy34 | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Day assort vol.1](./Day_assort_vol.1.md)  
-该封面包含的角色：- [小野塚小町](./小野塚小町.md)- [娜兹玲](./娜兹玲.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [Day assort vol.1](./Day_assort_vol.1.md)该封面包含的角色：
+- [小野塚小町](./小野塚小町.md)
+- [娜兹玲](./娜兹玲.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

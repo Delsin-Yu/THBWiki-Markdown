@@ -1,6 +1,6 @@
 # 文件:東風吹かば（Unprepared_Orchestra）封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bf\ns6%3A%E6%9D%B1%E9%A2%A8%E5%90%B9%E3%81%8B%E3%81%B0%EF%BC%88Unprepared_Orchestra%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bf\ns6%3A%E6%9D%B1%E9%A2%A8%E5%90%B9%E3%81%8B%E3%81%B0%EF%BC%88Unprepared_Orchestra%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Unprepared_Orchestra | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Unprepared_Orchestra | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東風吹かば（Unprepared Orchestra）](./東風吹かば（Unprepared_Orchestra）.md)  
-该封面包含的角色：- [东风谷早苗](./东风谷早苗.md)
-
-
-
+- [東風吹かば（Unprepared Orchestra）](./東風吹かば（Unprepared_Orchestra）.md)该封面包含的角色：
+- [东风谷早苗](./东风谷早苗.md)
 
 
 ---

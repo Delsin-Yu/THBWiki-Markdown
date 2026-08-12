@@ -1,14 +1,11 @@
 # 文件:ForZando_RecordsLOGO.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0d\ns6%3AForZando_RecordsLOGO%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0d\ns6%3AForZando_RecordsLOGO%2Epng.html -->
 
 ForZando_Records | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

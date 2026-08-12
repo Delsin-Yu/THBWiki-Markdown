@@ -1,6 +1,6 @@
 # 文件:秘封連作：解答編「Q.E.D」封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dc\ns6%3A%E7%A7%98%E5%B0%81%E9%80%A3%E4%BD%9C%EF%BC%9A%E8%A7%A3%E7%AD%94%E7%B7%A8%E3%80%8CQ%2EE%2ED%E3%80%8D%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dc\ns6%3A%E7%A7%98%E5%B0%81%E9%80%A3%E4%BD%9C%EF%BC%9A%E8%A7%A3%E7%AD%94%E7%B7%A8%E3%80%8CQ%2EE%2ED%E3%80%8D%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 歌恋人
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [秘封連作：解答編「Q.E.D」](./秘封連作：解答編「Q.E.D」.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [秘封連作：解答編「Q.E.D」](./秘封連作：解答編「Q.E.D」.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

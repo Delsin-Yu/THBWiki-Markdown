@@ -1,18 +1,13 @@
 # 文件:半零ランスロットlogo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2d\ns6%3A%E5%8D%8A%E9%9B%B6%E3%83%A9%E3%83%B3%E3%82%B9%E3%83%AD%E3%83%83%E3%83%88logo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2d\ns6%3A%E5%8D%8A%E9%9B%B6%E3%83%A9%E3%83%B3%E3%82%B9%E3%83%AD%E3%83%83%E3%83%88logo%2Epng.html -->
 
 半零ランスロット | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[direct image link (original size)](https://blog-imgs-45-origin.fc2.com/h/a/n/hanreilancelot/logo_white_convert_20100819110031.png), [from circle blog background](http://hanreilancelot.blog109.fc2.com/)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://blog-imgs-45-origin.fc2.com/h/a/n/hanreilancelot/logo_white_convert_20100819110031.png), [from circle blog background](http://hanreilancelot.blog109.fc2.com/)  
 
 ---
 

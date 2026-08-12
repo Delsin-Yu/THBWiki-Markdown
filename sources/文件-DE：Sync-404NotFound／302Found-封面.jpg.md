@@ -1,6 +1,6 @@
 # 文件:DE：Sync-404NotFound／302Found-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\94\ns6%3ADE%EF%BC%9ASync-404NotFound%EF%BC%8F302Found-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\94\ns6%3ADE%EF%BC%9ASync-404NotFound%EF%BC%8F302Found-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 dat_file_records | 专辑封面 | 封面图片 | 脱兎屋
 
@@ -8,16 +8,12 @@ dat_file_records | 专辑封面 | 封面图片 | 脱兎屋
 使用了本文件作封面图片的作品：
   
 
-- [DE：Sync-404NotFound／302Found-](./DE：Sync-404NotFound／302Found-.md)  
-该封面包含的角色：- [古明地觉](./古明地觉.md)- [古明地恋](./古明地恋.md)
+- [DE：Sync-404NotFound／302Found-](./DE：Sync-404NotFound／302Found-.md)该封面包含的角色：
+- [古明地觉](./古明地觉.md)
+- [古明地恋](./古明地恋.md)
 
   
-源地址：[[1]](http://static.tumblr.com/371f493c2f061199d954b4de31eda8de/e3lazzy/czxnc7hbf/tumblr_static_9yaoiw7iimo8kcoocs0cg00gk.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://static.tumblr.com/371f493c2f061199d954b4de31eda8de/e3lazzy/czxnc7hbf/tumblr_static_9yaoiw7iimo8kcoocs0cg00gk.jpg)  
 
 ---
 

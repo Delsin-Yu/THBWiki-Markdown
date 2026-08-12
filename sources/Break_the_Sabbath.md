@@ -1,40 +1,30 @@
 # Break_the_Sabbath
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\24\ns0%3ABreak_the_Sabbath.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\24\ns0%3ABreak_the_Sabbath.html -->
 
 由 ZUN 创作的官方曲目，原名 Break the Sabbath
 
 本页是关于东方Project  
- **原作音乐** 的词条
-
+**原作音乐**的词条
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 出现作品](#出现作品)
 - [3 音乐文件](#音乐文件)
-
   - [3.1 东方幻想乡](#东方幻想乡)
   - [3.2 东方怪绮谈](#东方怪绮谈)
   - [3.3 幺乐团的历史 vol.1](#幺乐团的历史_vol.1)
 
 
-
 - [4 说明文本](#说明文本)
-
   - [4.1 东方幻想乡](#东方幻想乡_2)
   - [4.2 东方怪绮谈](#东方怪绮谈_2)
 
 
-
 - [5 其他资料](#其他资料)
-
   - [5.1 乐理资讯](#乐理资讯)
   - [5.2 分析考据](#分析考据)
   - [5.3 二次同人数据](#二次同人数据)
-
-
-
-
 
 
 
@@ -44,7 +34,6 @@
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">Break the Sabbath</td></tr><tr><td><b>译名</b></td><td>Break the Sabbath</td></tr><tr><td><b>其他译名</b></td><td>打破安息日</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 Break the Sabbath（曲目） - 由 ZUN 创作的官方曲目，原名 Break the Sabbath
-
 ## 出现作品
 
 <table>
@@ -54,7 +43,6 @@ Break the Sabbath（曲目） - 由 ZUN 创作的官方曲目，原名 Break the
 </tbody></table>
 
 
-
 ## 音乐文件
 
 ### 东方幻想乡
@@ -62,17 +50,13 @@ Break the Sabbath（曲目） - 由 ZUN 创作的官方曲目，原名 Break the
 YM2203(OPN)，FM26K音源版。
   
 
-
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th04_05_26.ogg.md" title="文件:th04 05 26.ogg">th04_05_26.ogg</a><br><audio src="https://upload.thwiki.cc/a/a0/th04_05_26.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>ST01.M26</td></tr><tr><td><b>音轨时长</b></td><td>1:58.985</td></tr></tbody></table>
-
 
   
 YM2608(OPNA)，FM86音源版。
   
 
-
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th04_05_86.ogg.md" title="文件:th04 05 86.ogg">th04_05_86.ogg</a><br><audio src="https://upload.thwiki.cc/8/88/th04_05_86.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>ST01.M86</td></tr><tr><td><b>音轨时长</b></td><td>1:58.985</td></tr></tbody></table>
-
 
 
 ### 东方怪绮谈
@@ -80,17 +64,13 @@ YM2608(OPNA)，FM86音源版。
 YM2203(OPN)，FM26K音源版。
   
 
-
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th05_G_05_26.ogg.md" title="文件:th05 G 05 26.ogg">th05_G_05_26.ogg</a><br><audio src="https://upload.thwiki.cc/8/89/th05_G_05_26.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>G_ST01.M</td></tr><tr><td><b>音轨时长</b></td><td>1:58.985</td></tr></tbody></table>
-
 
   
 YM2608(OPNA)，FM86音源版。
   
 
-
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th05_G_05_86.ogg.md" title="文件:th05 G 05 86.ogg">th05_G_05_86.ogg</a><br><audio src="https://upload.thwiki.cc/f/f9/th05_G_05_86.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>G_ST01.M2</td></tr><tr><td><b>音轨时长</b></td><td>1:58.985</td></tr></tbody></table>
-
 
 
 ### 幺乐团的历史 vol.1
@@ -98,11 +78,11 @@ YM2608(OPNA)，FM86音源版。
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-ha01a_05.mp3.md" title="文件:ha01a 05.mp3">ha01a_05.mp3</a><br><audio src="https://upload.thwiki.cc/0/09/ha01a_05.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track05.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>2:48</td></tr></tbody></table>
 
 
-
 ## 说明文本
 
 ### 东方幻想乡
-- Music Room (未找到链接)
+
+- [Music Room](./东方幻想乡-Music.md#2面主题曲)
 
 　　　　　　二面的主题曲  
 　这首曲子，和前作曲子类型蛮像的呢。  
@@ -112,35 +92,34 @@ YM2608(OPNA)，FM86音源版。
 ＺＵＮ（太田）  
 用于东方幻想乡的曲子  
 大概２面
-
 ### 东方怪绮谈
-- Music Room (未找到链接)
+
+- [Music Room](./东方怪绮谈-Music.md#东方幻想乡-21)
 
 ２面的主题曲Break the Sabbath  
 ＺＵＮ（太田）  
 用于东方幻想乡的曲子。  
 大概2面
-
 ## 其他资料
 
 ### 乐理资讯
 
 ### 分析考据
   
- **Break the Sabbath** 
-  
+**Break the Sabbath**  
 打破休息日
   
 
-- Sabbath，安息日
-  - 从犹太教《摩西五经》中可以看到， 安息日首先是与上帝创世相关，上帝耶和华六天里完成了创世的工作，  
-第7天是休息的日子；其次安息日体现了平等的观念，因为这一天没有主人和仆人之分；  
-再次安息日与“神圣”的观念联系在一起，它作为节日，是以色列人与上帝订立的约定，是神圣不可更改的。
+- Sabbath，安息日 
+  - 从犹太教《摩西五经》中可以看到， 安息日首先是与上帝创世相关，上帝耶和华六天里完成了创世的工作，第7天是休息的日子；其次安息日体现了平等的观念，因为这一天没有主人和仆人之分；再次安息日与“神圣”的观念联系在一起，它作为节日，是以色列人与上帝订立的约定，是神圣不可更改的。 
     - 故事背景中灵梦过着悠闲的生活
 
 
-- Break the Sabbath
+
+
+- Break the Sabbath 
   - 恶灵们打破了灵梦的休息
+
 
 
 
@@ -156,17 +135,6 @@ YM2608(OPNA)，FM86音源版。
 <tr><td>Arrange</td><td>25</td></tr>
 <tr><td>Vocal率</td><td>13.79%</td></tr>
 </tbody></table>
-
-
-
-
-  
-  
-
-  
-
-
-
 
 
 ---

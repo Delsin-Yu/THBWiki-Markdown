@@ -1,13 +1,11 @@
 # 东方各正作需DX_DLL文件
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\9\90\ns0%3A%E4%B8%9C%E6%96%B9%E5%90%84%E6%AD%A3%E4%BD%9C%E9%9C%80DX_DLL%E6%96%87%E4%BB%B6.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\9\90\ns0%3A%E4%B8%9C%E6%96%B9%E5%90%84%E6%AD%A3%E4%BD%9C%E9%9C%80DX_DLL%E6%96%87%E4%BB%B6.html -->
 
 待完成页面 | 资料
 
 本页是整理东方Project  
- **相关资料** 的词条
-<center>
-
+**相关资料**的词条<center>
 <table>
 <tbody><tr>
 <td class="mbox-image"><div style="width: 52px;">
@@ -16,26 +14,20 @@
 </tr>
 </tbody></table>
 
-
-</center>
-  
+</center>  
 未安装Dx9c的情况下会遇到如图所示的错误提示而无法启动游戏。  
-
-[](./文件-丢失DLL.jpg.md)
+<img alt="丢失DLL.jpg" src="https://upload.thwiki.cc/5/5f/%E4%B8%A2%E5%A4%B1DLL.jpg" decoding="async" loading="lazy" width="486" height="155" data-file-width="486" data-file-height="155">
   
 
 ```
-无法启动此程序，因为计算机中丢失 d3dx9_XX.dll。尝试重新安装该程序以解决此问题。
-```
+无法启动此程序，因为计算机中丢失 d3dx9_XX.dll。尝试重新安装该程序以解决此问题。 ```
 
   
 其中DLL名称中的数字可能因作品不同而不同，其解决方案均为安装Dx9c或复制正确位数的对应DLL到游戏目录下。  
-
   
   
 本页面提供该问题解决方案。
   
-
 
 ## DirectX官方在线更新程序
   
@@ -46,24 +38,19 @@
 下载后联网安装即可。
   
 
-
 ## DirectX9.0c完整离线包
   
 DirectX9.0c完整离线安装包，可以解决所有新作的DLL缺失问题。如果需要携带到不能连接网络的环境中，或者网速过慢，不希望反复下载，可以使用该离线安装包  
 
 最新版下载：[https://www.microsoft.com/zh-cn/download/details.aspx?id=8109](https://www.microsoft.com/zh-cn/download/details.aspx?id=8109)  
-
   
 
 ```
-下载之后先解压缩，解压缩得到的单个可执行文件不是安装程序，需要再次解压缩。运行这个程序，让你选择路径，实际上是解压缩路径。
-最终解压得到一百多个压缩包文件和一个可执行文件。
-打开解压到的位置，并找到这个可执行文件，该文件才是安装程序，运行它，不需要选择安装路径，安装完毕。```
+下载之后先解压缩，解压缩得到的单个可执行文件不是安装程序，需要再次解压缩。运行这个程序，让你选择路径，实际上是解压缩路径。 最终解压得到一百多个压缩包文件和一个可执行文件。 打开解压到的位置，并找到这个可执行文件，该文件才是安装程序，运行它，不需要选择安装路径，安装完毕。```
 
   
 如果觉得完整包太大，下载不方便的话（大约100MB）。下面提供单独文件下载。
   
-
 
 ## 各作所需DLL单独文件下载
   
@@ -72,9 +59,7 @@ DirectX9.0c完整离线安装包，可以解决所有新作的DLL缺失问题。
   
 
 ```
-如果不知道自己是多少位的系统，Win7用户请右键 **计算机** ，选择属性，系统类型项目中会写明系统位数。
-XP用户如果没有特殊情况均为32位系统，Win11不支持32位，均为64位系统。
-```
+如果不知道自己是多少位的系统，Win7用户请右键**计算机**，选择属性，系统类型项目中会写明系统位数。 XP用户如果没有特殊情况均为32位系统，Win11不支持32位，均为64位系统。 ```
 
 
 <table>
@@ -90,7 +75,7 @@ XP用户如果没有特殊情况均为32位系统，Win11不支持32位，均为
 <tr>
 <td>th06</td>
 <td>东方红魔乡</td>
-<td rowspan="6">d3dx9_27.dll<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">1</a></sup></td>
+<td rowspan="6">d3dx9_27.dll<span>[^cite_note-1]</span></td>
 <td rowspan="6"><a rel="nofollow" class="external text" href="http://down.touhou8.com/dll/d3dx9_27/x86/d3dx9_27.dll">下载地址</a></td>
 <td rowspan="6"><a rel="nofollow" class="external text" href="http://down.touhou8.com/dll/d3dx9_27/x64/d3dx9_27.dll">下载地址</a>
 </td></tr>
@@ -117,7 +102,7 @@ XP用户如果没有特殊情况均为32位系统，Win11不支持32位，均为
 <tr>
 <td>th10</td>
 <td>东方风神录</td>
-<td>d3dx9_31.dll<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">2</a></sup></td>
+<td>d3dx9_31.dll<span>[^cite_note-2]</span></td>
 <td><a rel="nofollow" class="external text" href="http://down.touhou8.com/dll/d3dx9_31/x86/d3dx9_31.dll">下载地址</a></td>
 <td><a rel="nofollow" class="external text" href="http://down.touhou8.com/dll/d3dx9_31/x64/d3dx9_31.dll">下载地址</a>
 </td></tr>
@@ -188,7 +173,7 @@ XP用户如果没有特殊情况均为32位系统，Win11不支持32位，均为
 <td>th15.5</td>
 <td>东方凭依华</td>
 <td rowspan="1">d3dx11_43.dll</td>
-<td rowspan="1"><a rel="nofollow" class="external text" href="https://download.zip.dll-files.com/8e0bb968ff41d80e5f2c747c04db79ae/d3dx11_43.zip?token=SGjOlI6Ntqqn4KqMAuwasQ&amp;expires=1663645887">下载地址</a></td>
+<td rowspan="1"><a rel="nofollow" class="external text" href="https://download.zip.dll-files.com/8e0bb968ff41d80e5f2c747c04db79ae/d3dx11_43.zip?token=SGjOlI6Ntqqn4KqMAuwasQ&expires=1663645887">下载地址</a></td>
 <td rowspan="1">下载地址
 </td></tr>
 <tr>
@@ -207,14 +192,8 @@ XP用户如果没有特殊情况均为32位系统，Win11不支持32位，均为
 <td>东方虹龙洞
 </td></tr></tbody></table>
 
-
-
 [^cite_note-1]: 这几作可能很少有人会提示缺少Dll，因为这几个版本需要的是DirectX 8.0或老版D9，XP以上版本系统都集成了。不提供DirectX 8.0的下载地址。 
-
-
-
-
-
+[^cite_note-2]: 从本作开始用到新DX9的DLL。当然，如果电脑里安装了D3D9完整版就不会提示缺少。
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:Silicon_Dial封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\91\ns6%3ASilicon_Dial%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\91\ns6%3ASilicon_Dial%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Craving_DFC | 专辑封面 | 封面图片
 
@@ -8,12 +8,9 @@ Craving_DFC | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Silicon Dial](./Silicon_Dial.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)源地址：[[1]](https://f4.bcbits.com/img/a1073374597_10.jpg)
-
-
-
-
+- [Silicon Dial](./Silicon_Dial.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
+源地址：[\[1\]](https://f4.bcbits.com/img/a1073374597_10.jpg)
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:In_the_Memory_of_Hakugyokurou封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\03\ns6%3AIn_the_Memory_of_Hakugyokurou%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\03\ns6%3AIn_the_Memory_of_Hakugyokurou%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Stygian_Riverside | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Stygian_Riverside | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [In the Memory of Hakugyokurou](./In_the_Memory_of_Hakugyokurou.md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)
-
-
-
+- [In the Memory of Hakugyokurou](./In_the_Memory_of_Hakugyokurou.md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
 
 
 ---

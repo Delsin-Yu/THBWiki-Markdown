@@ -1,6 +1,6 @@
 # 文件:SPLATTER_FAITH_～わんぱくサウンドトラック～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0f\ns6%3ASPLATTER_FAITH_%EF%BD%9E%E3%82%8F%E3%82%93%E3%81%B1%E3%81%8F%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0f\ns6%3ASPLATTER_FAITH_%EF%BD%9E%E3%82%8F%E3%82%93%E3%81%B1%E3%81%8F%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ミツメ書房 | 专辑封面 | 封面图片
 
@@ -10,16 +10,17 @@
 使用了本文件作封面图片的作品：
   
 
-- [SPLATTER FAITH ～わんぱくサウンドトラック～](./SPLATTER_FAITH_～わんぱくサウンドトラック～.md)  
-该封面包含的角色：- [橙](./橙.md)- [上白泽慧音](./上白泽慧音.md)- [东风谷早苗](./东风谷早苗.md)- [八坂神奈子](./八坂神奈子.md)- [洩矢诹访子](./洩矢诹访子.md)- [圣白莲](./圣白莲.md)- [封兽鵺](./封兽鵺.md)
+- [SPLATTER FAITH ～わんぱくサウンドトラック～](./SPLATTER_FAITH_～わんぱくサウンドトラック～.md)该封面包含的角色：
+- [橙](./橙.md)
+- [上白泽慧音](./上白泽慧音.md)
+- [东风谷早苗](./东风谷早苗.md)
+- [八坂神奈子](./八坂神奈子.md)
+- [洩矢诹访子](./洩矢诹访子.md)
+- [圣白莲](./圣白莲.md)
+- [封兽鵺](./封兽鵺.md)
 
   
-[Pixiv artwork ID: 11973150](https://www.pixiv.net/artworks/11973150)
-  
-
-
-
-
+[Pixiv artwork ID: 11973150](https://www.pixiv.net/artworks/11973150)  
 
 ---
 

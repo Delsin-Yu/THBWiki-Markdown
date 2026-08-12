@@ -1,6 +1,6 @@
 # 文件:東方LIVEBOX_NEXT_DiGiTAL_WiNG_THE_DIGEST_2017_DVD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7e\ns6%3A%E6%9D%B1%E6%96%B9LIVEBOX_NEXT_DiGiTAL_WiNG_THE_DIGEST_2017_DVD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7e\ns6%3A%E6%9D%B1%E6%96%B9LIVEBOX_NEXT_DiGiTAL_WiNG_THE_DIGEST_2017_DVD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 DiGiTAL_WiNG | 封面图片 | 视频封面
 
@@ -8,11 +8,11 @@ DiGiTAL_WiNG | 封面图片 | 视频封面
 使用了本文件作封面图片的作品：
   
 
-- [東方LIVEBOX NEXT DiGiTAL WiNG THE DIGEST 2017 DVD](./東方LIVEBOX_NEXT_DiGiTAL_WiNG_THE_DIGEST_2017_DVD.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- 十六夜咲夜 (未找到链接)- [东风谷早苗](./东风谷早苗.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [東方LIVEBOX NEXT DiGiTAL WiNG THE DIGEST 2017 DVD](./東方LIVEBOX_NEXT_DiGiTAL_WiNG_THE_DIGEST_2017_DVD.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [十六夜咲夜](./十六夜咲夜.md)
+- [东风谷早苗](./东风谷早苗.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

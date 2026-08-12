@@ -1,6 +1,6 @@
 # 文件:DREAMBREAK封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4d\ns6%3ADREAMBREAK%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4d\ns6%3ADREAMBREAK%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Dreamy_Records | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Dreamy_Records | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [DREAMBREAK](./DREAMBREAK.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
-
-
-
+- [DREAMBREAK](./DREAMBREAK.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
 
 ---

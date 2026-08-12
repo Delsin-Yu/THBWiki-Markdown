@@ -1,6 +1,6 @@
 # 文件:東方鬼葬剣_～_Infinite_Blade_Pavilion.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\95\ns6%3A%E6%9D%B1%E6%96%B9%E9%AC%BC%E8%91%AC%E5%89%A3_%EF%BD%9E_Infinite_Blade_Pavilion%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\95\ns6%3A%E6%9D%B1%E6%96%B9%E9%AC%BC%E8%91%AC%E5%89%A3_%EF%BD%9E_Infinite_Blade_Pavilion%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 封面图片 | 東方邪星章製作チーム | 软件封面
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方鬼葬剣 ～ Infinite Blade Pavilion.](./東方鬼葬剣_～_Infinite_Blade_Pavilion..md)  
-该封面包含的角色：- [八苏神秋雨](./八苏神秋雨.md)
-
-
-
+- [東方鬼葬剣 ～ Infinite Blade Pavilion.](./東方鬼葬剣_～_Infinite_Blade_Pavilion..md)该封面包含的角色：
+- [八苏神秋雨](./八苏神秋雨.md)
 
 
 ---

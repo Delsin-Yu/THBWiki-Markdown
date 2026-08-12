@@ -1,12 +1,8 @@
 # 文件:秋穰子（风神录立绘）1no.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\11\ns6%3A%E7%A7%8B%E7%A9%B0%E5%AD%90%EF%BC%88%E9%A3%8E%E7%A5%9E%E5%BD%95%E7%AB%8B%E7%BB%98%EF%BC%891no%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\11\ns6%3A%E7%A7%8B%E7%A9%B0%E5%AD%90%EF%BC%88%E9%A3%8E%E7%A5%9E%E5%BD%95%E7%AB%8B%E7%BB%98%EF%BC%891no%2Epng.html -->
 
 ZUN绘 | 东方风神录 | 官方游戏立绘 | 秋穰子
-
-
-
-
 
 
 ---

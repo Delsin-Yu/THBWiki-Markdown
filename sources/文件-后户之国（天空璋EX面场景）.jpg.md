@@ -1,12 +1,8 @@
 # 文件:后户之国（天空璋EX面场景）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\81\ns6%3A%E5%90%8E%E6%88%B7%E4%B9%8B%E5%9B%BD%EF%BC%88%E5%A4%A9%E7%A9%BA%E7%92%8BEX%E9%9D%A2%E5%9C%BA%E6%99%AF%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\81\ns6%3A%E5%90%8E%E6%88%B7%E4%B9%8B%E5%9B%BD%EF%BC%88%E5%A4%A9%E7%A9%BA%E7%92%8BEX%E9%9D%A2%E5%9C%BA%E6%99%AF%EF%BC%89%2Ejpg.html -->
 
 东方天空璋 | 后户之国
-
-
-
-
 
 
 ---

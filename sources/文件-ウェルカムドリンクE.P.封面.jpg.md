@@ -1,6 +1,6 @@
 # 文件:ウェルカムドリンクE.P.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\67\ns6%3A%E3%82%A6%E3%82%A7%E3%83%AB%E3%82%AB%E3%83%A0%E3%83%89%E3%83%AA%E3%83%B3%E3%82%AFE%2EP%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\67\ns6%3A%E3%82%A6%E3%82%A7%E3%83%AB%E3%82%AB%E3%83%A0%E3%83%89%E3%83%AA%E3%83%B3%E3%82%AFE%2EP%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 五壁坂 | 封面图片
 
@@ -10,11 +10,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [ウェルカムドリンクE.P.](./ウェルカムドリンクE.P..md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [莉格露·奈特巴格](./莉格露·奈特巴格.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [ウェルカムドリンクE.P.](./ウェルカムドリンクE.P..md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [莉格露·奈特巴格](./莉格露·奈特巴格.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

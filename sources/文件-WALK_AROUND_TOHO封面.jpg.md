@@ -1,6 +1,6 @@
 # 文件:WALK_AROUND_TOHO封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a2\ns6%3AWALK_AROUND_TOHO%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a2\ns6%3AWALK_AROUND_TOHO%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 17番地の音楽室 | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [WALK AROUND TOHO](./WALK_AROUND_TOHO.md)  
-该封面包含的角色：- [古明地恋](./古明地恋.md)
+- [WALK AROUND TOHO](./WALK_AROUND_TOHO.md)该封面包含的角色：
+- [古明地恋](./古明地恋.md)
 
   
-源地址：[[1]](https://s.booth.pm/6469fa38-68bf-4808-a80e-40640aab5bfa/i/374165/315cb16c-c63f-4928-8200-81702fd2b569.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://s.booth.pm/6469fa38-68bf-4808-a80e-40640aab5bfa/i/374165/315cb16c-c63f-4928-8200-81702fd2b569.jpg)  
 
 ---
 

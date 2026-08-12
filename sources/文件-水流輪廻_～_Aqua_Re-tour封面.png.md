@@ -1,6 +1,6 @@
 # 文件:水流輪廻_～_Aqua_Re-tour封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ee\ns6%3A%E6%B0%B4%E6%B5%81%E8%BC%AA%E5%BB%BB_%EF%BD%9E_Aqua_Re-tour%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ee\ns6%3A%E6%B0%B4%E6%B5%81%E8%BC%AA%E5%BB%BB_%EF%BD%9E_Aqua_Re-tour%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 吊るし処 | 封面图片
 
@@ -10,11 +10,18 @@
 使用了本文件作封面图片的作品：
   
 
-- [水流輪廻 ～ Aqua Re-tour](./水流輪廻_～_Aqua_Re-tour.md)  
-该封面包含的角色：- [风见幽香](./风见幽香.md)- [小野塚小町](./小野塚小町.md)- [永江衣玖](./永江衣玖.md)- [河城荷取](./河城荷取.md)- [犬走椛](./犬走椛.md)- [八坂神奈子](./八坂神奈子.md)- [洩矢诹访子](./洩矢诹访子.md)- [村纱水蜜](./村纱水蜜.md)- [若鹭姬](./若鹭姬.md)- [纯狐](./纯狐.md)- [爱塔妮缇拉尔瓦](./爱塔妮缇拉尔瓦.md)
-
-
-
+- [水流輪廻 ～ Aqua Re-tour](./水流輪廻_～_Aqua_Re-tour.md)该封面包含的角色：
+- [风见幽香](./风见幽香.md)
+- [小野塚小町](./小野塚小町.md)
+- [永江衣玖](./永江衣玖.md)
+- [河城荷取](./河城荷取.md)
+- [犬走椛](./犬走椛.md)
+- [八坂神奈子](./八坂神奈子.md)
+- [洩矢诹访子](./洩矢诹访子.md)
+- [村纱水蜜](./村纱水蜜.md)
+- [若鹭姬](./若鹭姬.md)
+- [纯狐](./纯狐.md)
+- [爱塔妮缇拉尔瓦](./爱塔妮缇拉尔瓦.md)
 
 
 ---

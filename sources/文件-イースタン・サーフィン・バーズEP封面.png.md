@@ -1,6 +1,6 @@
 # 文件:イースタン・サーフィン・バーズEP封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\18\ns6%3A%E3%82%A4%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%BB%E3%82%B5%E3%83%BC%E3%83%95%E3%82%A3%E3%83%B3%E3%83%BB%E3%83%90%E3%83%BC%E3%82%BAEP%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\18\ns6%3A%E3%82%A4%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%BB%E3%82%B5%E3%83%BC%E3%83%95%E3%82%A3%E3%83%B3%E3%83%BB%E3%83%90%E3%83%BC%E3%82%BAEP%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 さくらゆっけ | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [イースタン・サーフィン・バーズEP](./イースタン・サーフィン・バーズEP.md)  
-该封面包含的角色：- [米斯蒂娅·萝蕾拉](./米斯蒂娅·萝蕾拉.md)
-
-
-
+- [イースタン・サーフィン・バーズEP](./イースタン・サーフィン・バーズEP.md)该封面包含的角色：
+- [米斯蒂娅·萝蕾拉](./米斯蒂娅·萝蕾拉.md)
 
 
 ---

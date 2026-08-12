@@ -1,12 +1,8 @@
 # 文件:东方STATION_LOGO.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bf\ns6%3A%E4%B8%9C%E6%96%B9STATION_LOGO%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bf\ns6%3A%E4%B8%9C%E6%96%B9STATION_LOGO%2Ejpg.html -->
 
 东方STATION
-
-
-
-
 
 
 ---

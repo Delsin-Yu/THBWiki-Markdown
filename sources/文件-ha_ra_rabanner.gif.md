@@ -1,12 +1,8 @@
 # 文件:ha_ra_rabanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\70\ns6%3Aha_ra_rabanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\70\ns6%3Aha_ra_rabanner%2Egif.html -->
 
 ha_ra_ra | 社团LOGO
-
-
-
-
 
 
 ---

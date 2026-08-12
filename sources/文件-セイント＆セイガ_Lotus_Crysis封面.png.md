@@ -1,6 +1,6 @@
 # 文件:セイント＆セイガ_Lotus_Crysis封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8c\ns6%3A%E3%82%BB%E3%82%A4%E3%83%B3%E3%83%88%EF%BC%86%E3%82%BB%E3%82%A4%E3%82%AC_Lotus_Crysis%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8c\ns6%3A%E3%82%BB%E3%82%A4%E3%83%B3%E3%83%88%EF%BC%86%E3%82%BB%E3%82%A4%E3%82%AC_Lotus_Crysis%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 さやかた紅茶館 | 同人志封面 | 封面图片
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [セイント＆セイガ Lotus Crysis](./セイント＆セイガ_Lotus_Crysis.md)  
-该封面包含的角色：- [圣白莲](./圣白莲.md)- [丰聪耳神子](./丰聪耳神子.md)
-
-
-
+- [セイント＆セイガ Lotus Crysis](./セイント＆セイガ_Lotus_Crysis.md)该封面包含的角色：
+- [圣白莲](./圣白莲.md)
+- [丰聪耳神子](./丰聪耳神子.md)
 
 
 ---

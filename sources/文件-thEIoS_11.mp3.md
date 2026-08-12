@@ -1,6 +1,6 @@
 # 文件:thEIoS_11.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7d\ns6%3AthEIoS_11%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7d\ns6%3AthEIoS_11%2Emp3.html -->
 
 Mystery_is_Your_Mirage | 东方祈华梦制作组
 
@@ -9,10 +9,6 @@ Mystery_is_Your_Mirage | 东方祈华梦制作组
   
 祈华梦四面BOSS曲
   
-
-
-
-
 
 ---
 

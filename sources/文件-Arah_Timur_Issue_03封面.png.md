@@ -1,6 +1,6 @@
 # 文件:Arah_Timur_Issue_03封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7d\ns6%3AArah_Timur_Issue_03%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7d\ns6%3AArah_Timur_Issue_03%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Dead_Fish_Chronicles | 同人志封面 | 封面图片
 
@@ -10,16 +10,13 @@ Dead_Fish_Chronicles | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Arah Timur Issue 03](./Arah_Timur_Issue_03.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [雾雨魔理沙](./雾雨魔理沙.md)
+- [Arah Timur Issue 03](./Arah_Timur_Issue_03.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
 ripped from PDF version
   
-
-
-
-
 
 ---
 

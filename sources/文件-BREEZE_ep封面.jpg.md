@@ -1,6 +1,6 @@
 # 文件:BREEZE_ep封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5d\ns6%3ABREEZE_ep%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5d\ns6%3ABREEZE_ep%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ごんばこんなか | 专辑封面 | 封面图片
 
@@ -10,16 +10,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [BREEZE ep](./BREEZE_ep.md)  
-该封面包含的角色：- [本居小铃](./本居小铃.md)- [稗田阿求](./稗田阿求.md)
+- [BREEZE ep](./BREEZE_ep.md)该封面包含的角色：
+- [本居小铃](./本居小铃.md)
+- [稗田阿求](./稗田阿求.md)
 
   
-源地址：[direct image link (original size)](https://i1.sndcdn.com/artworks-ClupnyKURqBo7Scg-nJ3Wxg-original.jpg), [source page (Soundcloud)](https://soundcloud.com/youth_oh/breeze-ep_xfd)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://i1.sndcdn.com/artworks-ClupnyKURqBo7Scg-nJ3Wxg-original.jpg), [source page (Soundcloud)](https://soundcloud.com/youth_oh/breeze-ep_xfd)  
 
 ---
 

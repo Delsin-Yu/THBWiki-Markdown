@@ -1,6 +1,6 @@
 # 文件:sink（突撃椅子人間）封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\ff\ns6%3Asink%EF%BC%88%E7%AA%81%E6%92%83%E6%A4%85%E5%AD%90%E4%BA%BA%E9%96%93%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\ff\ns6%3Asink%EF%BC%88%E7%AA%81%E6%92%83%E6%A4%85%E5%AD%90%E4%BA%BA%E9%96%93%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 突撃椅子人間
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [sink（突撃椅子人間）](./sink（突撃椅子人間）.md)  
-该封面包含的角色：- [村纱水蜜](./村纱水蜜.md)
-
-
-
+- [sink（突撃椅子人間）](./sink（突撃椅子人間）.md)该封面包含的角色：
+- [村纱水蜜](./村纱水蜜.md)
 
 
 ---

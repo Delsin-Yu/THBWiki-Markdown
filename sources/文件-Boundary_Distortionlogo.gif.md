@@ -1,12 +1,8 @@
 # 文件:Boundary_Distortionlogo.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\35\ns6%3ABoundary_Distortionlogo%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\35\ns6%3ABoundary_Distortionlogo%2Egif.html -->
 
 Boundary_Distortion | 社团LOGO
-
-
-
-
 
 
 ---

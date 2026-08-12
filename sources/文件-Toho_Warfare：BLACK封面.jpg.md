@@ -1,6 +1,6 @@
 # 文件:Toho_Warfare：BLACK封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ad\ns6%3AToho_Warfare%EF%BC%9ABLACK%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ad\ns6%3AToho_Warfare%EF%BC%9ABLACK%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ユウノウミ | 专辑封面 | 封面图片
 
@@ -8,16 +8,14 @@
 使用了本文件作封面图片的作品：
   
 
-- [Toho Warfare：BLACK](./Toho_Warfare：BLACK.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [风见幽香](./风见幽香.md)- [古明地觉](./古明地觉.md)- [雾雨魔理沙](./雾雨魔理沙.md)
+- [Toho Warfare：BLACK](./Toho_Warfare：BLACK.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [风见幽香](./风见幽香.md)
+- [古明地觉](./古明地觉.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-源地址：[[1]](http://younoumi.com/wp/wp-content/uploads/2013/09/BLACK_jacket_600px.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://younoumi.com/wp/wp-content/uploads/2013/09/BLACK_jacket_600px.jpg)  
 
 ---
 

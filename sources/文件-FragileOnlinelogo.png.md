@@ -1,12 +1,8 @@
 # 文件:FragileOnlinelogo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1c\ns6%3AFragileOnlinelogo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1c\ns6%3AFragileOnlinelogo%2Epng.html -->
 
 FragileOnline | 社团LOGO
-
-
-
-
 
 
 ---

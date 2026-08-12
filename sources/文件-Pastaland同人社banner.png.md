@@ -1,12 +1,8 @@
 # 文件:Pastaland同人社banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\06\ns6%3APastaland%E5%90%8C%E4%BA%BA%E7%A4%BEbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\06\ns6%3APastaland%E5%90%8C%E4%BA%BA%E7%A4%BEbanner%2Epng.html -->
 
 Pastaland同人社 | 社团LOGO
-
-
-
-
 
 
 ---

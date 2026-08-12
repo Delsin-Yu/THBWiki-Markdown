@@ -1,6 +1,6 @@
 # 文件:A_Witch_of_Nightmares封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\51\ns6%3AA_Witch_of_Nightmares%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\51\ns6%3AA_Witch_of_Nightmares%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 scaredbyscarred | 专辑封面 | 封面图片
 
@@ -8,12 +8,9 @@ scaredbyscarred | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [A Witch of Nightmares](./A_Witch_of_Nightmares.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)源地址：[[1]](http://scarhand.net/wp-content/uploads/2018/07/fornt用イラスト.jpg)
-
-
-
-
+- [A Witch of Nightmares](./A_Witch_of_Nightmares.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
+源地址：[\[1\]](http://scarhand.net/wp-content/uploads/2018/07/fornt用イラスト.jpg)
 
 ---
 

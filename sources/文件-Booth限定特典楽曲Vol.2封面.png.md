@@ -1,6 +1,6 @@
 # 文件:Booth限定特典楽曲Vol.2封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5f\ns6%3ABooth%E9%99%90%E5%AE%9A%E7%89%B9%E5%85%B8%E6%A5%BD%E6%9B%B2Vol%2E2%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5f\ns6%3ABooth%E9%99%90%E5%AE%9A%E7%89%B9%E5%85%B8%E6%A5%BD%E6%9B%B2Vol%2E2%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 茜音色タウン
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [Booth限定特典楽曲Vol.2](./Booth限定特典楽曲Vol.2.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [Booth限定特典楽曲Vol.2](./Booth限定特典楽曲Vol.2.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

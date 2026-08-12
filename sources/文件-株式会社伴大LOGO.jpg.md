@@ -1,12 +1,8 @@
 # 文件:株式会社伴大LOGO.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\04\ns6%3A%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E4%BC%B4%E5%A4%A7LOGO%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\04\ns6%3A%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E4%BC%B4%E5%A4%A7LOGO%2Ejpg.html -->
 
 企业LOGO
-
-
-
-
 
 
 ---

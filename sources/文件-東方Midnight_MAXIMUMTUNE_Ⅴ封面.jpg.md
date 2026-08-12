@@ -1,6 +1,6 @@
 # 文件:東方Midnight_MAXIMUMTUNE_Ⅴ封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3e\ns6%3A%E6%9D%B1%E6%96%B9Midnight_MAXIMUMTUNE_%E2%85%A4%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3e\ns6%3A%E6%9D%B1%E6%96%B9Midnight_MAXIMUMTUNE_%E2%85%A4%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Golden_City_Factory | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ Golden_City_Factory | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方Midnight MAXIMUMTUNE Ⅴ](./東方Midnight_MAXIMUMTUNE_Ⅴ.md)  
-该封面包含的角色：- [火焰猫燐](./火焰猫燐.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [東方Midnight MAXIMUMTUNE Ⅴ](./東方Midnight_MAXIMUMTUNE_Ⅴ.md)该封面包含的角色：
+- [火焰猫燐](./火焰猫燐.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

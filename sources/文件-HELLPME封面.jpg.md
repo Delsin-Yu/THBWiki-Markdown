@@ -1,6 +1,6 @@
 # 文件:HELLPME封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\82\ns6%3AHELLPME%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\82\ns6%3AHELLPME%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ハイウェイオアシス | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [HELLPME](./HELLPME.md)  
-该封面包含的角色：- [灵乌路空](./灵乌路空.md)
+- [HELLPME](./HELLPME.md)该封面包含的角色：
+- [灵乌路空](./灵乌路空.md)
 
   
-源地址：[direct image link](https://64.media.tumblr.com/0b05ee316b6f73eeeca060eb29c8d97e/tumblr_ouakw41oxJ1snkiq0o1_1280.png), [source page](https://highwayoasis.tumblr.com/post/163888504462/c92新刊hellpme-東方-syrup16g-1ページ漫画本です)
-  
-
-
-
-
+源地址：[direct image link](https://64.media.tumblr.com/0b05ee316b6f73eeeca060eb29c8d97e/tumblr_ouakw41oxJ1snkiq0o1_1280.png), [source page](https://highwayoasis.tumblr.com/post/163888504462/c92新刊hellpme-東方-syrup16g-1ページ漫画本です)  
 
 ---
 

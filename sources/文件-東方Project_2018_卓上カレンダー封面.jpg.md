@@ -1,6 +1,6 @@
 # 文件:東方Project_2018_卓上カレンダー封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\20\ns6%3A%E6%9D%B1%E6%96%B9Project_2018_%E5%8D%93%E4%B8%8A%E3%82%AB%E3%83%AC%E3%83%B3%E3%83%80%E3%83%BC%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\20\ns6%3A%E6%9D%B1%E6%96%B9Project_2018_%E5%8D%93%E4%B8%8A%E3%82%AB%E3%83%AC%E3%83%B3%E3%83%80%E3%83%BC%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ice*berry | 同人志封面 | 封面图片
 
@@ -8,11 +8,8 @@ ice*berry | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方Project 2018 卓上カレンダー](./東方Project_2018_卓上カレンダー.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [東方Project 2018 卓上カレンダー](./東方Project_2018_卓上カレンダー.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

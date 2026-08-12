@@ -1,12 +1,8 @@
 # 文件:THBWiki-LOGO-稗田阿求.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f1\ns6%3ATHBWiki-LOGO-%E7%A8%97%E7%94%B0%E9%98%BF%E6%B1%82%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f1\ns6%3ATHBWiki-LOGO-%E7%A8%97%E7%94%B0%E9%98%BF%E6%B1%82%2Epng.html -->
 
 THBWiki | Wiki词条分类用图
-
-
-
-
 
 
 ---

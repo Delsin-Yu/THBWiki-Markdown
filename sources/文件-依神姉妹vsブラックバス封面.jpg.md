@@ -1,6 +1,6 @@
 # 文件:依神姉妹vsブラックバス封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ca\ns6%3A%E4%BE%9D%E7%A5%9E%E5%A7%89%E5%A6%B9vs%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%83%90%E3%82%B9%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ca\ns6%3A%E4%BE%9D%E7%A5%9E%E5%A7%89%E5%A6%B9vs%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%83%90%E3%82%B9%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ほたるかまぼこ | 同人志封面 | 封面图片
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [依神姉妹vsブラックバス](./依神姉妹vsブラックバス.md)  
-该封面包含的角色：- [依神女苑](./依神女苑.md)- [依神紫苑](./依神紫苑.md)
-
-
-
+- [依神姉妹vsブラックバス](./依神姉妹vsブラックバス.md)该封面包含的角色：
+- [依神女苑](./依神女苑.md)
+- [依神紫苑](./依神紫苑.md)
 
 
 ---

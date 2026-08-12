@@ -1,6 +1,6 @@
 # 文件:Starscraper_(2022_T.V._Twilight_Dark_Night_Mix)封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\17\ns6%3AStarscraper_%282022_T%2EV%2E_Twilight_Dark_Night_Mix%29%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\17\ns6%3AStarscraper_%282022_T%2EV%2E_Twilight_Dark_Night_Mix%29%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 発熱巫女～ず
 
@@ -10,10 +10,7 @@
 使用了本文件作封面图片的作品：
   
 
-- [Starscraper (2022 T.V. Twilight Dark Night Mix)](./Starscraper_(2022_T.V._Twilight_Dark_Night_Mix).md)
-
-
-
+- [Starscraper (2022 T.V. Twilight Dark Night Mix)](./Starscraper_(2022_T.V._Twilight_Dark_Night_Mix%29.md)
 
 
 ---

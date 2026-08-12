@@ -1,16 +1,12 @@
 # 文件:灵烈传神社组Bad_Ending.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\26\ns6%3A%E7%81%B5%E7%83%88%E4%BC%A0%E7%A5%9E%E7%A4%BE%E7%BB%84Bad_Ending%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\26\ns6%3A%E7%81%B5%E7%83%88%E4%BC%A0%E7%A5%9E%E7%A4%BE%E7%BB%84Bad_Ending%2Epng.html -->
 
 トリック・ノスタルジー
 
   
 灵烈传Bad Ending插图
   
-
-
-
-
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:Freely_TRiANCE_02_-Out_Works-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f2\ns6%3AFreely_TRiANCE_02_-Out_Works-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f2\ns6%3AFreely_TRiANCE_02_-Out_Works-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 TRiANCE_CODE | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ TRiANCE_CODE | 专辑封面 | 封面图片
   
 
 - [Freely TRiANCE 02 -Out Works-](./Freely_TRiANCE_02_-Out_Works-.md)
-
-
-
 
 
 ---

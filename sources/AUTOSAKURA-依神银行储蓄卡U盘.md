@@ -1,26 +1,20 @@
 # AUTOSAKURA/依神银行储蓄卡U盘
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\3\33\ns0%3AAUTOSAKURA%2F%E4%BE%9D%E7%A5%9E%E9%93%B6%E8%A1%8C%E5%82%A8%E8%93%84%E5%8D%A1U%E7%9B%98.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\3\33\ns0%3AAUTOSAKURA%2F%E4%BE%9D%E7%A5%9E%E9%93%B6%E8%A1%8C%E5%82%A8%E8%93%84%E5%8D%A1U%E7%9B%98.html -->
 
 2024年6月23日 由 AUTOSAKURA  发布的电子产品周边，分级为 一般向
 
 本页是关于东方Project  
- **相关实体周边 (未找到链接)** 的词条
-
+**相关实体周边 (未找到链接)**的词条
 ## 目录
 
 - [1 周边信息](#周边信息)
 - [2 参考图](#参考图)
-
   - [2.1 预览图](#预览图)
-
 
 
 - [3 Staff](#Staff)
 - [4 评论](#评论)
-
-
-
 
 
 ## 周边信息
@@ -29,25 +23,23 @@
 <tr><td class="label">官网页面</td><td><a rel="nofollow" class="external free" href="https://weibo.com/6868180126/J0vwo0G2H">https://weibo.com/6868180126/J0vwo0G2H</a></td></tr><tr><td class="label">备注</td><td>autosakura一周年纪念企划银行卡恶搞卡片式U盘</td></tr></tbody></table>
 
 AUTOSAKURA/依神银行储蓄卡U盘（周边，AUTOSAKURA） - 2024年6月22日 由 AUTOSAKURA  发布的电子产品周边，分级为 一般向
-
 ## 参考图
   
 周边宣传、售卖时使用的作为参考图的预览图或实物图的图片。
   
 
-
 ### 预览图
-- [](./文件-AUTOSAKURA／依神银行储蓄卡U盘预览图1.png.md)- [](./文件-AUTOSAKURA／依神银行储蓄卡U盘预览图2.png.md)
+
+- <img alt="AUTOSAKURA／依神银行储蓄卡U盘预览图1.png" src="https://upload.thwiki.cc/thumb/3/32/AUTOSAKURA%EF%BC%8F%E4%BE%9D%E7%A5%9E%E9%93%B6%E8%A1%8C%E5%82%A8%E8%93%84%E5%8D%A1U%E7%9B%98%E9%A2%84%E8%A7%88%E5%9B%BE1.png/590px-AUTOSAKURA%EF%BC%8F%E4%BE%9D%E7%A5%9E%E9%93%B6%E8%A1%8C%E5%82%A8%E8%93%84%E5%8D%A1U%E7%9B%98%E9%A2%84%E8%A7%88%E5%9B%BE1.png" decoding="async" loading="lazy" width="394" height="250" srcset="https://upload.thwiki.cc/thumb/3/32/AUTOSAKURA%EF%BC%8F%E4%BE%9D%E7%A5%9E%E9%93%B6%E8%A1%8C%E5%82%A8%E8%93%84%E5%8D%A1U%E7%9B%98%E9%A2%84%E8%A7%88%E5%9B%BE1.png/885px-AUTOSAKURA%EF%BC%8F%E4%BE%9D%E7%A5%9E%E9%93%B6%E8%A1%8C%E5%82%A8%E8%93%84%E5%8D%A1U%E7%9B%98%E9%A2%84%E8%A7%88%E5%9B%BE1.png 1.5x, https://upload.thwiki.cc/thumb/3/32/AUTOSAKURA%EF%BC%8F%E4%BE%9D%E7%A5%9E%E9%93%B6%E8%A1%8C%E5%82%A8%E8%93%84%E5%8D%A1U%E7%9B%98%E9%A2%84%E8%A7%88%E5%9B%BE1.png/1179px-AUTOSAKURA%EF%BC%8F%E4%BE%9D%E7%A5%9E%E9%93%B6%E8%A1%8C%E5%82%A8%E8%93%84%E5%8D%A1U%E7%9B%98%E9%A2%84%E8%A7%88%E5%9B%BE1.png 2x" data-file-width="2452" data-file-height="1560"> 
+- <img alt="AUTOSAKURA／依神银行储蓄卡U盘预览图2.png" src="https://upload.thwiki.cc/thumb/7/74/AUTOSAKURA%EF%BC%8F%E4%BE%9D%E7%A5%9E%E9%93%B6%E8%A1%8C%E5%82%A8%E8%93%84%E5%8D%A1U%E7%9B%98%E9%A2%84%E8%A7%88%E5%9B%BE2.png/590px-AUTOSAKURA%EF%BC%8F%E4%BE%9D%E7%A5%9E%E9%93%B6%E8%A1%8C%E5%82%A8%E8%93%84%E5%8D%A1U%E7%9B%98%E9%A2%84%E8%A7%88%E5%9B%BE2.png" decoding="async" loading="lazy" width="394" height="250" srcset="https://upload.thwiki.cc/thumb/7/74/AUTOSAKURA%EF%BC%8F%E4%BE%9D%E7%A5%9E%E9%93%B6%E8%A1%8C%E5%82%A8%E8%93%84%E5%8D%A1U%E7%9B%98%E9%A2%84%E8%A7%88%E5%9B%BE2.png/885px-AUTOSAKURA%EF%BC%8F%E4%BE%9D%E7%A5%9E%E9%93%B6%E8%A1%8C%E5%82%A8%E8%93%84%E5%8D%A1U%E7%9B%98%E9%A2%84%E8%A7%88%E5%9B%BE2.png 1.5x, https://upload.thwiki.cc/thumb/7/74/AUTOSAKURA%EF%BC%8F%E4%BE%9D%E7%A5%9E%E9%93%B6%E8%A1%8C%E5%82%A8%E8%93%84%E5%8D%A1U%E7%9B%98%E9%A2%84%E8%A7%88%E5%9B%BE2.png/1179px-AUTOSAKURA%EF%BC%8F%E4%BE%9D%E7%A5%9E%E9%93%B6%E8%A1%8C%E5%82%A8%E8%93%84%E5%8D%A1U%E7%9B%98%E9%A2%84%E8%A7%88%E5%9B%BE2.png 2x" data-file-width="2452" data-file-height="1560"> 
 
 
 ## Staff
+
 - 下马坊梅花糕 (未找到链接)
 
 
 ## 评论
-
-
-
 
 ---
 

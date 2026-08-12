@@ -1,6 +1,6 @@
 # 文件:Rhythm封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\46\ns6%3ARhythm%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\46\ns6%3ARhythm%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Lyrica's_Acoustic_Callow_Keynote | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Lyrica's_Acoustic_Callow_Keynote | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Rhythm](./Rhythm.md)  
-该封面包含的角色：- [莉莉卡·普莉兹姆利巴](./莉莉卡·普莉兹姆利巴.md)
+- [Rhythm](./Rhythm.md)该封面包含的角色：
+- [莉莉卡·普莉兹姆利巴](./莉莉卡·普莉兹姆利巴.md)
 
   
-源地址：[direct image link](http://lack.iza-yoi.net/g_7.jpg), [source page](http://lack.iza-yoi.net/rhythmtokusetu.html)
-  
-
-
-
-
+源地址：[direct image link](http://lack.iza-yoi.net/g_7.jpg), [source page](http://lack.iza-yoi.net/rhythmtokusetu.html)  
 
 ---
 

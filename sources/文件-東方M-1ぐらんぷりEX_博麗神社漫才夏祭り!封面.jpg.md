@@ -1,6 +1,6 @@
 # 文件:東方M-1ぐらんぷりEX_博麗神社漫才夏祭り!封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\53\ns6%3A%E6%9D%B1%E6%96%B9M-1%E3%81%90%E3%82%89%E3%82%93%E3%81%B7%E3%82%8AEX_%E5%8D%9A%E9%BA%97%E7%A5%9E%E7%A4%BE%E6%BC%AB%E6%89%8D%E5%A4%8F%E7%A5%AD%E3%82%8A%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\53\ns6%3A%E6%9D%B1%E6%96%B9M-1%E3%81%90%E3%82%89%E3%82%93%E3%81%B7%E3%82%8AEX_%E5%8D%9A%E9%BA%97%E7%A5%9E%E7%A4%BE%E6%BC%AB%E6%89%8D%E5%A4%8F%E7%A5%AD%E3%82%8A%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 R-note | 封面图片 | 视频封面
 
@@ -8,11 +8,13 @@ R-note | 封面图片 | 视频封面
 使用了本文件作封面图片的作品：
   
 
-- [東方M-1ぐらんぷりEX 博麗神社漫才夏祭り!](./東方M-1ぐらんぷりEX_博麗神社漫才夏祭り!.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [橙](./橙.md)- [八云蓝](./八云蓝.md)- [伊吹萃香](./伊吹萃香.md)- [键山雏](./键山雏.md)- [河城荷取](./河城荷取.md)
-
-
-
+- [東方M-1ぐらんぷりEX 博麗神社漫才夏祭り!](./東方M-1ぐらんぷりEX_博麗神社漫才夏祭り!.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [橙](./橙.md)
+- [八云蓝](./八云蓝.md)
+- [伊吹萃香](./伊吹萃香.md)
+- [键山雏](./键山雏.md)
+- [河城荷取](./河城荷取.md)
 
 
 ---

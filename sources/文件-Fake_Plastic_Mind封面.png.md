@@ -1,6 +1,6 @@
 # 文件:Fake_Plastic_Mind封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b3\ns6%3AFake_Plastic_Mind%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b3\ns6%3AFake_Plastic_Mind%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 onionclub | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ onionclub | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Fake Plastic Mind](./Fake_Plastic_Mind.md)  
-该封面包含的角色：- [爱丽丝（旧作角色）](./爱丽丝（旧作角色）.md)
-
-
-
+- [Fake Plastic Mind](./Fake_Plastic_Mind.md)该封面包含的角色：
+- [爱丽丝（旧作角色）](./爱丽丝（旧作角色）.md)
 
 
 ---

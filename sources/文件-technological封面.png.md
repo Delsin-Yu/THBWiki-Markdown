@@ -1,6 +1,6 @@
 # 文件:technological封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\54\ns6%3Atechnological%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\54\ns6%3Atechnological%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 FALSE&TRUES | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ FALSE&TRUES | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [technological](./technological.md)  
-该封面包含的角色：- [古明地恋](./古明地恋.md)
-
-
-
+- [technological](./technological.md)该封面包含的角色：
+- [古明地恋](./古明地恋.md)
 
 
 ---

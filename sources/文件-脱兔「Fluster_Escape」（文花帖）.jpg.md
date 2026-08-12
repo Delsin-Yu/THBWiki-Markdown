@@ -1,12 +1,8 @@
 # 文件:脱兔「Fluster_Escape」（文花帖）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a2\ns6%3A%E8%84%B1%E5%85%94%E3%80%8CFluster_Escape%E3%80%8D%EF%BC%88%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a2\ns6%3A%E8%84%B1%E5%85%94%E3%80%8CFluster_Escape%E3%80%8D%EF%BC%88%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Ejpg.html -->
 
 东方文花帖 | 因幡帝 | 敌机符卡
-
-
-
-
 
 
 ---

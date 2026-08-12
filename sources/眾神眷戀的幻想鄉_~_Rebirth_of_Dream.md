@@ -1,21 +1,19 @@
 # 眾神眷戀的幻想鄉_~_Rebirth_of_Dream
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\b2\ns0%3A%E7%9C%BE%E7%A5%9E%E7%9C%B7%E6%88%80%E7%9A%84%E5%B9%BB%E6%83%B3%E9%84%89_%7E_Rebirth_of_Dream.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\b2\ns0%3A%E7%9C%BE%E7%A5%9E%E7%9C%B7%E6%88%80%E7%9A%84%E5%B9%BB%E6%83%B3%E9%84%89_%7E_Rebirth_of_Dream.html -->
 
 2011年7月24日 由 aparo同人画师联盟 于 上海THONLY4 发布的画集/设定集同人志，A4尺寸一共140页，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人志 (未找到链接)** 的词条
-
+**[二次创作同人志](./二次创作.md#同人志)**的词条
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-眾神眷戀的幻想鄉_~_Rebirth_of_Dream封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/a/a1/%E7%9C%BE%E7%A5%9E%E7%9C%B7%E6%88%80%E7%9A%84%E5%B9%BB%E6%83%B3%E9%84%89_~_Rebirth_of_Dream%E5%B0%81%E9%9D%A2.jpg/196px-%E7%9C%BE%E7%A5%9E%E7%9C%B7%E6%88%80%E7%9A%84%E5%B9%BB%E6%83%B3%E9%84%89_~_Rebirth_of_Dream%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="196" height="109" srcset="https://upload.thwiki.cc/thumb/a/a1/%E7%9C%BE%E7%A5%9E%E7%9C%B7%E6%88%80%E7%9A%84%E5%B9%BB%E6%83%B3%E9%84%89_~_Rebirth_of_Dream%E5%B0%81%E9%9D%A2.jpg/294px-%E7%9C%BE%E7%A5%9E%E7%9C%B7%E6%88%80%E7%9A%84%E5%B9%BB%E6%83%B3%E9%84%89_~_Rebirth_of_Dream%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/a/a1/%E7%9C%BE%E7%A5%9E%E7%9C%B7%E6%88%80%E7%9A%84%E5%B9%BB%E6%83%B3%E9%84%89_~_Rebirth_of_Dream%E5%B0%81%E9%9D%A2.jpg/392px-%E7%9C%BE%E7%A5%9E%E7%9C%B7%E6%88%80%E7%9A%84%E5%B9%BB%E6%83%B3%E9%84%89_~_Rebirth_of_Dream%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="900" data-file-height="500"></a></td>
 </tr><tr><td class="label">名称</td><td colspan="2"> 眾神眷戀的幻想鄉 ~ Rebirth of Dream </td></tr><tr><td class="label">制作方</td><td><a href="./aparo同人画师联盟.md" title="aparo同人画师联盟">aparo同人画师联盟</a></td><td class="cover-artwork" rowspan="7" style="min-width:196px;"><a href="./文件-眾神眷戀的幻想鄉_~_Rebirth_of_Dream封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/a/a1/%E7%9C%BE%E7%A5%9E%E7%9C%B7%E6%88%80%E7%9A%84%E5%B9%BB%E6%83%B3%E9%84%89_~_Rebirth_of_Dream%E5%B0%81%E9%9D%A2.jpg/196px-%E7%9C%BE%E7%A5%9E%E7%9C%B7%E6%88%80%E7%9A%84%E5%B9%BB%E6%83%B3%E9%84%89_~_Rebirth_of_Dream%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="196" height="109" srcset="https://upload.thwiki.cc/thumb/a/a1/%E7%9C%BE%E7%A5%9E%E7%9C%B7%E6%88%80%E7%9A%84%E5%B9%BB%E6%83%B3%E9%84%89_~_Rebirth_of_Dream%E5%B0%81%E9%9D%A2.jpg/294px-%E7%9C%BE%E7%A5%9E%E7%9C%B7%E6%88%80%E7%9A%84%E5%B9%BB%E6%83%B3%E9%84%89_~_Rebirth_of_Dream%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/a/a1/%E7%9C%BE%E7%A5%9E%E7%9C%B7%E6%88%80%E7%9A%84%E5%B9%BB%E6%83%B3%E9%84%89_~_Rebirth_of_Dream%E5%B0%81%E9%9D%A2.jpg/392px-%E7%9C%BE%E7%A5%9E%E7%9C%B7%E6%88%80%E7%9A%84%E5%B9%BB%E6%83%B3%E9%84%89_~_Rebirth_of_Dream%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="900" data-file-height="500"></a></td>
-</tr><tr><td class="label">首发日期</td><td>2011-07-24&#160;（<a href="/展会作品列表?e=%E4%B8%8A%E6%B5%B7THONLY%234">第四届上海THONLY 東方四季唄～少女の幻想と無限の風景～</a>）</td></tr><tr><td class="label">类型</td><td>画集，设定集</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>A4</td></tr><tr><td class="label">页数</td><td>140P</td></tr><tr><td class="label">售价</td><td>90人民币</td></tr>
+</tr><tr><td class="label">首发日期</td><td>2011-07-24 （<a href="./展会作品列表.md#4">第四届上海THONLY 東方四季唄～少女の幻想と無限の風景～</a>）</td></tr><tr><td class="label">类型</td><td>画集，设定集</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>A4</td></tr><tr><td class="label">页数</td><td>140P</td></tr><tr><td class="label">售价</td><td>90人民币</td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://doujin.bgm.tv/subject/2706">http://doujin.bgm.tv/subject/2706</a></td></tr><tr><td class="label">备注</td><td colspan="2">作品包含当时的全部东方人物</td></tr></tbody></table>
 
 眾神眷戀的幻想鄉 ~ Rebirth of Dream（同人志，aparo同人画师联盟，2011） - 2011年7月24日 由 aparo同人画师联盟 于 上海THONLY4 发布的画集/设定集同人志，A4尺寸一共140页，分级为 一般向
-
 ## Staff
 主催
 
@@ -155,7 +153,10 @@
 
 
 ## 预览
-- [](./文件-眾神眷戀的幻想鄉_~_Rebirth_of_Dream预览图1.jpg.md)- [](./文件-眾神眷戀的幻想鄉_~_Rebirth_of_Dream预览图2.jpg.md)- [](./文件-眾神眷戀的幻想鄉_~_Rebirth_of_Dream预览图3.jpg.md)
+
+- <img alt="眾神眷戀的幻想鄉 ~ Rebirth of Dream预览图1.jpg" src="https://upload.thwiki.cc/thumb/8/88/%E7%9C%BE%E7%A5%9E%E7%9C%B7%E6%88%80%E7%9A%84%E5%B9%BB%E6%83%B3%E9%84%89_~_Rebirth_of_Dream%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg/564px-%E7%9C%BE%E7%A5%9E%E7%9C%B7%E6%88%80%E7%9A%84%E5%B9%BB%E6%83%B3%E9%84%89_~_Rebirth_of_Dream%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg" decoding="async" loading="lazy" width="376" height="250" srcset="https://upload.thwiki.cc/8/88/%E7%9C%BE%E7%A5%9E%E7%9C%B7%E6%88%80%E7%9A%84%E5%B9%BB%E6%83%B3%E9%84%89_~_Rebirth_of_Dream%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg 1.5x" data-file-width="625" data-file-height="416"> 
+- <img alt="眾神眷戀的幻想鄉 ~ Rebirth of Dream预览图2.jpg" src="https://upload.thwiki.cc/thumb/d/d6/%E7%9C%BE%E7%A5%9E%E7%9C%B7%E6%88%80%E7%9A%84%E5%B9%BB%E6%83%B3%E9%84%89_~_Rebirth_of_Dream%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg/556px-%E7%9C%BE%E7%A5%9E%E7%9C%B7%E6%88%80%E7%9A%84%E5%B9%BB%E6%83%B3%E9%84%89_~_Rebirth_of_Dream%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg" decoding="async" loading="lazy" width="371" height="250" srcset="https://upload.thwiki.cc/d/d6/%E7%9C%BE%E7%A5%9E%E7%9C%B7%E6%88%80%E7%9A%84%E5%B9%BB%E6%83%B3%E9%84%89_~_Rebirth_of_Dream%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg 1.5x" data-file-width="625" data-file-height="422"> 
+- <img alt="眾神眷戀的幻想鄉 ~ Rebirth of Dream预览图3.jpg" src="https://upload.thwiki.cc/thumb/2/20/%E7%9C%BE%E7%A5%9E%E7%9C%B7%E6%88%80%E7%9A%84%E5%B9%BB%E6%83%B3%E9%84%89_~_Rebirth_of_Dream%E9%A2%84%E8%A7%88%E5%9B%BE3.jpg/556px-%E7%9C%BE%E7%A5%9E%E7%9C%B7%E6%88%80%E7%9A%84%E5%B9%BB%E6%83%B3%E9%84%89_~_Rebirth_of_Dream%E9%A2%84%E8%A7%88%E5%9B%BE3.jpg" decoding="async" loading="lazy" width="371" height="250" srcset="https://upload.thwiki.cc/2/20/%E7%9C%BE%E7%A5%9E%E7%9C%B7%E6%88%80%E7%9A%84%E5%B9%BB%E6%83%B3%E9%84%89_~_Rebirth_of_Dream%E9%A2%84%E8%A7%88%E5%9B%BE3.jpg 1.5x" data-file-width="625" data-file-height="422"> 
 
 
 ## 评论
@@ -166,18 +167,8 @@
 东方幻梦重生之里
   
   
-这是一本包含东方所有人物的插画本，包括所有黑历史人物。收录107个人物[^cite_note-1]
-  
-  
-  
-
-  
-
+这是一本包含东方所有人物的插画本，包括所有黑历史人物。收录107个人物[^cite_note-1]  
 [^cite_note-1]: [http://doujin.bgm.tv/subject/2706](http://doujin.bgm.tv/subject/2706)
-
-
-
-
 
 ---
 

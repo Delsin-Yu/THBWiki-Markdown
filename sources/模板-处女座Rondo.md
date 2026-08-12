@@ -1,16 +1,12 @@
 # 模板:处女座Rondo
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\d\db\ns10%3A%E5%A4%84%E5%A5%B3%E5%BA%A7Rondo.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\d\db\ns10%3A%E5%A4%84%E5%A5%B3%E5%BA%A7Rondo.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

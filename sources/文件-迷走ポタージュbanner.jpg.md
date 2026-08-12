@@ -1,12 +1,8 @@
 # 文件:迷走ポタージュbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\28\ns6%3A%E8%BF%B7%E8%B5%B0%E3%83%9D%E3%82%BF%E3%83%BC%E3%82%B8%E3%83%A5banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\28\ns6%3A%E8%BF%B7%E8%B5%B0%E3%83%9D%E3%82%BF%E3%83%BC%E3%82%B8%E3%83%A5banner%2Ejpg.html -->
 
 社团LOGO | 迷走ポタージュ
-
-
-
-
 
 
 ---

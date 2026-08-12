@@ -1,6 +1,6 @@
 # 文件:Mysteries_of_Eastern_Creatures_Demo封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6e\ns6%3AMysteries_of_Eastern_Creatures_Demo%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6e\ns6%3AMysteries_of_Eastern_Creatures_Demo%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Ghoulio | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ Ghoulio | 专辑封面 | 封面图片
   
 
 - [Mysteries of Eastern Creatures Demo](./Mysteries_of_Eastern_Creatures_Demo.md)
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:First_Contact封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\67\ns6%3AFirst_Contact%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\67\ns6%3AFirst_Contact%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 A-GEAR | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ A-GEAR | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [First Contact](./First_Contact.md)  
-该封面包含的角色：- [娜兹玲](./娜兹玲.md)
+- [First Contact](./First_Contact.md)该封面包含的角色：
+- [娜兹玲](./娜兹玲.md)
 
   
-源地址：[[1]](http://bmimg.nicovideo.jp/image/ch2573347/16251/7cafdb5cbdc0fa486e783920e97c5c3f56b02e38.png)
-  
-
-
-
-
+源地址：[\[1\]](http://bmimg.nicovideo.jp/image/ch2573347/16251/7cafdb5cbdc0fa486e783920e97c5c3f56b02e38.png)  
 
 ---
 

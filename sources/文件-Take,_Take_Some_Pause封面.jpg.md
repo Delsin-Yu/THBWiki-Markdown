@@ -1,6 +1,6 @@
 # 文件:Take,_Take_Some_Pause封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c4\ns6%3ATake%2C_Take_Some_Pause%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c4\ns6%3ATake%2C_Take_Some_Pause%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 小さな大図書館
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [Take, Take Some Pause](./Take,_Take_Some_Pause.md)  
-该封面包含的角色：- [红美铃](./红美铃.md)- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
-
-
-
+- [Take, Take Some Pause](./Take,_Take_Some_Pause.md)该封面包含的角色：
+- [红美铃](./红美铃.md)
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
 
 
 ---

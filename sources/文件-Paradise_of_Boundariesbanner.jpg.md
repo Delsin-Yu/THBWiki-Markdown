@@ -1,14 +1,11 @@
 # 文件:Paradise_of_Boundariesbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\df\ns6%3AParadise_of_Boundariesbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\df\ns6%3AParadise_of_Boundariesbanner%2Ejpg.html -->
 
 Paradise_of_Boundaries | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

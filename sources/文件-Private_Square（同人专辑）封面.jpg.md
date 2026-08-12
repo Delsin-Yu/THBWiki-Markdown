@@ -1,6 +1,6 @@
 # 文件:Private_Square（同人专辑）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6e\ns6%3APrivate_Square%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6e\ns6%3APrivate_Square%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ゆづき亭 | 专辑封面 | 封面图片
 
@@ -13,12 +13,7 @@
 - [Private Square（同人专辑）](./Private_Square（同人专辑）.md)
 
   
-源地址：[direct image link](https://2.bp.blogspot.com/_TOsqnIYjkb4/R0i6BgIBiQI/AAAAAAAAAPc/hrE4IUPRnsY/s1600/RJ024451_img_main.jpg), [source page](https://www.sproutburn.net/2007/11/ydkt-discography.html)
-  
-
-
-
-
+源地址：[direct image link](https://2.bp.blogspot.com/_TOsqnIYjkb4/R0i6BgIBiQI/AAAAAAAAAPc/hrE4IUPRnsY/s1600/RJ024451_img_main.jpg), [source page](https://www.sproutburn.net/2007/11/ydkt-discography.html)  
 
 ---
 

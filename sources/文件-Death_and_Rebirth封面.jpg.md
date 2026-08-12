@@ -1,6 +1,6 @@
 # 文件:Death_and_Rebirth封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b3\ns6%3ADeath_and_Rebirth%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b3\ns6%3ADeath_and_Rebirth%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 IRON_ATTACK! | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ IRON_ATTACK! | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Death and Rebirth](./Death_and_Rebirth.md)  
-该封面包含的角色：- [魅魔](./魅魔.md)
+- [Death and Rebirth](./Death_and_Rebirth.md)该封面包含的角色：
+- [魅魔](./魅魔.md)
 
   
-源地址：[[1]](http://sound.jp/ironchino/death.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://sound.jp/ironchino/death.jpg)  
 
 ---
 

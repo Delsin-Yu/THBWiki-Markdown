@@ -1,18 +1,13 @@
 # 文件:Touhou_VN_Fanbaselogo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f8\ns6%3ATouhou_VN_Fanbaselogo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f8\ns6%3ATouhou_VN_Fanbaselogo%2Epng.html -->
 
 Touhou_VN_Fanbase
 
 
 ## 摘要
   
-源地址：[direct image link](https://static.tumblr.com/c59c352dc67d39a7ee5c994719b51817/v6fukhq/nR4n8l4mt/tumblr_static_105rrtr0sflwk8sg084s0k48c.png), [source page](https://touhouvnfanbase.tumblr.com/)
-  
-
-
-
-
+源地址：[direct image link](https://static.tumblr.com/c59c352dc67d39a7ee5c994719b51817/v6fukhq/nR4n8l4mt/tumblr_static_105rrtr0sflwk8sg084s0k48c.png), [source page](https://touhouvnfanbase.tumblr.com/)  
 
 ---
 

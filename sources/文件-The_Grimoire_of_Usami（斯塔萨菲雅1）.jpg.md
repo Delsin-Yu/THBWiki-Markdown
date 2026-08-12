@@ -1,14 +1,11 @@
 # 文件:The_Grimoire_of_Usami（斯塔萨菲雅1）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5b\ns6%3AThe_Grimoire_of_Usami%EF%BC%88%E6%96%AF%E5%A1%94%E8%90%A8%E8%8F%B2%E9%9B%851%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5b\ns6%3AThe_Grimoire_of_Usami%EF%BC%88%E6%96%AF%E5%A1%94%E8%90%A8%E8%8F%B2%E9%9B%851%EF%BC%89%2Ejpg.html -->
 
 宇佐见的魔法书 | 斯塔萨菲雅
 
 
 ## 摘要
-
-
-
 
 ---
 

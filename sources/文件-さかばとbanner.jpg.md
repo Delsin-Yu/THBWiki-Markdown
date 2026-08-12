@@ -1,12 +1,8 @@
 # 文件:さかばとbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\62\ns6%3A%E3%81%95%E3%81%8B%E3%81%B0%E3%81%A8banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\62\ns6%3A%E3%81%95%E3%81%8B%E3%81%B0%E3%81%A8banner%2Ejpg.html -->
 
 さかばと | 社团LOGO
-
-
-
-
 
 
 ---

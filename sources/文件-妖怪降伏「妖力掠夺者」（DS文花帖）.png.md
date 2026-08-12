@@ -1,12 +1,8 @@
 # 文件:妖怪降伏「妖力掠夺者」（DS文花帖）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d4\ns6%3A%E5%A6%96%E6%80%AA%E9%99%8D%E4%BC%8F%E3%80%8C%E5%A6%96%E5%8A%9B%E6%8E%A0%E5%A4%BA%E8%80%85%E3%80%8D%EF%BC%88DS%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d4\ns6%3A%E5%A6%96%E6%80%AA%E9%99%8D%E4%BC%8F%E3%80%8C%E5%A6%96%E5%8A%9B%E6%8E%A0%E5%A4%BA%E8%80%85%E3%80%8D%EF%BC%88DS%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Epng.html -->
 
 东方文花帖DS | 东风谷早苗 | 敌机符卡
-
-
-
-
 
 
 ---

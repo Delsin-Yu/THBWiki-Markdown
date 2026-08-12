@@ -1,6 +1,6 @@
 # 文件:TETSUYA封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7e\ns6%3ATETSUYA%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7e\ns6%3ATETSUYA%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 VA | 同人志封面 | 封面图片
 
@@ -8,16 +8,11 @@ VA | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [TETSUYA](./TETSUYA.md)  
-该封面包含的角色：- 原创角色 (未找到链接)
+- [TETSUYA](./TETSUYA.md)该封面包含的角色：
+- 原创角色 (未找到链接)
 
   
-源地址：[[1]](https://booth.pximg.net/c/620x620/dc5fd4a1-f0dd-46d4-a6cc-a73ec49808ce/i/1363886/73d643a8-5635-4f3c-b2d9-adf4ffe13fe4_base_resized.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://booth.pximg.net/c/620x620/dc5fd4a1-f0dd-46d4-a6cc-a73ec49808ce/i/1363886/73d643a8-5635-4f3c-b2d9-adf4ffe13fe4_base_resized.jpg)  
 
 ---
 

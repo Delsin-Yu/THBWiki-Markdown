@@ -1,14 +1,11 @@
 # 文件:潮汐流通社logo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\31\ns6%3A%E6%BD%AE%E6%B1%90%E6%B5%81%E9%80%9A%E7%A4%BElogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\31\ns6%3A%E6%BD%AE%E6%B1%90%E6%B5%81%E9%80%9A%E7%A4%BElogo%2Ejpg.html -->
 
 潮汐流通社 | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

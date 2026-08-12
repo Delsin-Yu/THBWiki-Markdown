@@ -1,17 +1,12 @@
 # 文件:エトセトラbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7e\ns6%3A%E3%82%A8%E3%83%88%E3%82%BB%E3%83%88%E3%83%A9banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7e\ns6%3A%E3%82%A8%E3%83%88%E3%82%BB%E3%83%88%E3%83%A9banner%2Epng.html -->
 
 エトセトラ | 社团LOGO
 
   
 源地址：[<img src="https://blog-imgs-44-origin.fc2.com/e/t/c/etc000/201004071934387d9.png" alt="201004071934387d9.png">
-
   
-
-
-
-
 
 ---
 

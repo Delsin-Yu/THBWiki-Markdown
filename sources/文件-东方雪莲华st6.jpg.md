@@ -1,14 +1,11 @@
 # 文件:东方雪莲华st6.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1b\ns6%3A%E4%B8%9C%E6%96%B9%E9%9B%AA%E8%8E%B2%E5%8D%8Est6%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1b\ns6%3A%E4%B8%9C%E6%96%B9%E9%9B%AA%E8%8E%B2%E5%8D%8Est6%2Ejpg.html -->
 
 雨夜枫雪制作组
 
 
 ## 摘要
-
-
-
 
 ---
 

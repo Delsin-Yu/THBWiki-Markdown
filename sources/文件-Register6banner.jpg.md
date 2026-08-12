@@ -1,12 +1,8 @@
 # 文件:Register6banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2c\ns6%3ARegister6banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2c\ns6%3ARegister6banner%2Ejpg.html -->
 
 Register6 | 社团LOGO
-
-
-
-
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:みょふ～会banner2.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\47\ns6%3A%E3%81%BF%E3%82%87%E3%81%B5%EF%BD%9E%E4%BC%9Abanner2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\47\ns6%3A%E3%81%BF%E3%82%87%E3%81%B5%EF%BD%9E%E4%BC%9Abanner2%2Ejpg.html -->
 
 みょふ～会 | 社团LOGO
-
-
-
-
 
 
 ---

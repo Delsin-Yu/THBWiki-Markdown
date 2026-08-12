@@ -1,6 +1,6 @@
 # 文件:TOHO_EUROCORE_Vol.3封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\50\ns6%3ATOHO_EUROCORE_Vol%2E3%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\50\ns6%3ATOHO_EUROCORE_Vol%2E3%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Dドライブ | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Dドライブ | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [TOHO EUROCORE Vol.3](./TOHO_EUROCORE_Vol.3.md)  
-该封面包含的角色：- [古明地恋](./古明地恋.md)
-
-
-
+- [TOHO EUROCORE Vol.3](./TOHO_EUROCORE_Vol.3.md)该封面包含的角色：
+- [古明地恋](./古明地恋.md)
 
 
 ---

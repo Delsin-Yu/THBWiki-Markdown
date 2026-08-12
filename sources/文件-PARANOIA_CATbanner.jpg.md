@@ -1,14 +1,11 @@
 # 文件:PARANOIA_CATbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cb\ns6%3APARANOIA_CATbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cb\ns6%3APARANOIA_CATbanner%2Ejpg.html -->
 
 PARANOIA_CAT | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

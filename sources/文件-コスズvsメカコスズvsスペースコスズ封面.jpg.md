@@ -1,6 +1,6 @@
 # 文件:コスズvsメカコスズvsスペースコスズ封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b6\ns6%3A%E3%82%B3%E3%82%B9%E3%82%BAvs%E3%83%A1%E3%82%AB%E3%82%B3%E3%82%B9%E3%82%BAvs%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%82%B3%E3%82%B9%E3%82%BA%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b6\ns6%3A%E3%82%B3%E3%82%B9%E3%82%BAvs%E3%83%A1%E3%82%AB%E3%82%B3%E3%82%B9%E3%82%BAvs%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%82%B3%E3%82%B9%E3%82%BA%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 なかもず火災保険 | 同人志封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [コスズvsメカコスズvsスペースコスズ](./コスズvsメカコスズvsスペースコスズ.md)  
-该封面包含的角色：- [本居小铃](./本居小铃.md)
-
-
-
+- [コスズvsメカコスズvsスペースコスズ](./コスズvsメカコスズvsスペースコスズ.md)该封面包含的角色：
+- [本居小铃](./本居小铃.md)
 
 
 ---

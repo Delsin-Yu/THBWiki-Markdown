@@ -1,6 +1,6 @@
 # 文件:Q’ｚ_LIVE-GYM封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\54\ns6%3AQ%E2%80%99%EF%BD%9A_LIVE-GYM%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\54\ns6%3AQ%E2%80%99%EF%BD%9A_LIVE-GYM%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 カサガミサン | 同人志封面 | 封面图片
 
@@ -8,11 +8,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [Q’ｚ LIVE-GYM](./Q’ｚ_LIVE-GYM.md)  
-该封面包含的角色：- [九十九弁弁](./九十九弁弁.md)- [九十九八桥](./九十九八桥.md)- [堀川雷鼓](./堀川雷鼓.md)
-
-
-
+- [Q’ｚ LIVE-GYM](./Q’ｚ_LIVE-GYM.md)该封面包含的角色：
+- [九十九弁弁](./九十九弁弁.md)
+- [九十九八桥](./九十九八桥.md)
+- [堀川雷鼓](./堀川雷鼓.md)
 
 
 ---

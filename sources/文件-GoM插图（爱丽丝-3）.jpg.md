@@ -1,12 +1,8 @@
 # 文件:GoM插图（爱丽丝-3）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8b\ns6%3AGoM%E6%8F%92%E5%9B%BE%EF%BC%88%E7%88%B1%E4%B8%BD%E4%B8%9D-3%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8b\ns6%3AGoM%E6%8F%92%E5%9B%BE%EF%BC%88%E7%88%B1%E4%B8%BD%E4%B8%9D-3%EF%BC%89%2Ejpg.html -->
 
 爱丽丝·玛格特洛依德 | 魔理沙的魔法书
-
-
-
-
 
 
 ---

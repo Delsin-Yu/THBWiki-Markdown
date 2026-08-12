@@ -1,14 +1,11 @@
 # 文件:旋牌「Eastern_Garbage_Patch」（无现里）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a8\ns6%3A%E6%97%8B%E7%89%8C%E3%80%8CEastern_Garbage_Patch%E3%80%8D%EF%BC%88%E6%97%A0%E7%8E%B0%E9%87%8C%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a8\ns6%3A%E6%97%8B%E7%89%8C%E3%80%8CEastern_Garbage_Patch%E3%80%8D%EF%BC%88%E6%97%A0%E7%8E%B0%E9%87%8C%EF%BC%89%2Ejpg.html -->
 
 连缘Project官方符牌 | 连缘无现里 | 鹀蒿雀
 
 
 ## 文件说明
-
-
-
 
 ---
 

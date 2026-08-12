@@ -1,6 +1,6 @@
 # 文件:p_＞_.05封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d4\ns6%3Ap_%EF%BC%9E_%2E05%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d4\ns6%3Ap_%EF%BC%9E_%2E05%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 The_Perfect_Insiders | 专辑封面 | 封面图片
 
@@ -8,12 +8,9 @@ The_Perfect_Insiders | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [p ＞ .05](./p_＞_.05.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)源地址：[[1]](https://booth.pximg.net/3c0ef235-7852-4c63-bbe7-43ffb73c76bf/i/207354/f68fd0d9-b82c-4530-afce-73f6701cf47b.png)
-
-
-
-
+- [p ＞ .05](./p_＞_.05.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+源地址：[\[1\]](https://booth.pximg.net/3c0ef235-7852-4c63-bbe7-43ffb73c76bf/i/207354/f68fd0d9-b82c-4530-afce-73f6701cf47b.png)
 
 ---
 

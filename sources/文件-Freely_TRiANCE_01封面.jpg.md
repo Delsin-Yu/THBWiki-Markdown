@@ -1,6 +1,6 @@
 # 文件:Freely_TRiANCE_01封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d5\ns6%3AFreely_TRiANCE_01%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d5\ns6%3AFreely_TRiANCE_01%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 TRiANCE_CODE | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ TRiANCE_CODE | 专辑封面 | 封面图片
   
 
 - [Freely TRiANCE 01](./Freely_TRiANCE_01.md)
-
-
-
 
 
 ---

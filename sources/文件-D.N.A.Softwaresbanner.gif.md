@@ -1,12 +1,8 @@
 # 文件:D.N.A.Softwaresbanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f7\ns6%3AD%2EN%2EA%2ESoftwaresbanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f7\ns6%3AD%2EN%2EA%2ESoftwaresbanner%2Egif.html -->
 
 D.N.A.Softwares | 社团LOGO
-
-
-
-
 
 
 ---

@@ -1,16 +1,12 @@
 # 文件:THBWiki第二代Logo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\49\ns6%3ATHBWiki%E7%AC%AC%E4%BA%8C%E4%BB%A3Logo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\49\ns6%3ATHBWiki%E7%AC%AC%E4%BA%8C%E4%BB%A3Logo%2Epng.html -->
 
 THBWiki
 
   
 THBWiki的第二代Logo，去掉了TBSG标志
   
-
-
-
-
 
 ---
 

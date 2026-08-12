@@ -1,14 +1,11 @@
 # 文件:Thrive_at_Thricebanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6f\ns6%3AThrive_at_Thricebanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6f\ns6%3AThrive_at_Thricebanner%2Egif.html -->
 
 Thrive_at_Thrice | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

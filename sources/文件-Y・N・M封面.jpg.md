@@ -1,6 +1,6 @@
 # 文件:Y・N・M封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\11\ns6%3AY%E3%83%BBN%E3%83%BBM%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\11\ns6%3AY%E3%83%BBN%E3%83%BBM%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ハイウェイオアシス | 同人志封面 | 封面图片
 
@@ -13,12 +13,7 @@
 - [Y・N・M](./Y・N・M.md)
 
   
-[Pixiv artwork ID: 54208273 (original size)](https://www.pixiv.net/artworks/54208273)
-  
-
-
-
-
+[Pixiv artwork ID: 54208273 (original size)](https://www.pixiv.net/artworks/54208273)  
 
 ---
 

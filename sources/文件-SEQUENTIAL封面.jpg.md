@@ -1,6 +1,6 @@
 # 文件:SEQUENTIAL封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2f\ns6%3ASEQUENTIAL%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2f\ns6%3ASEQUENTIAL%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 doublingworks | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ doublingworks | 专辑封面 | 封面图片
   
 
 - [SEQUENTIAL](./SEQUENTIAL.md)
-
-
-
 
 
 ---

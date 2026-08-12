@@ -1,6 +1,6 @@
 # 文件:Ephemeral_gift封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bc\ns6%3AEphemeral_gift%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bc\ns6%3AEphemeral_gift%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 manitaso*pink | 专辑封面 | 封面图片 | 星花クリオネロジカル
 
@@ -10,11 +10,8 @@ manitaso*pink | 专辑封面 | 封面图片 | 星花クリオネロジカル
 使用了本文件作封面图片的作品：
   
 
-- [Ephemeral gift](./Ephemeral_gift.md)  
-该封面包含的角色：- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
-
-
-
+- [Ephemeral gift](./Ephemeral_gift.md)该封面包含的角色：
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:monoROSETTAbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\97\ns6%3AmonoROSETTAbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\97\ns6%3AmonoROSETTAbanner%2Ejpg.html -->
 
 monoROSETTA | 社团LOGO
-
-
-
-
 
 
 ---

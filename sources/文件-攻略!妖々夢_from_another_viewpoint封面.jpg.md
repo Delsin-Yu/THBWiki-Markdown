@@ -1,6 +1,6 @@
 # 文件:攻略!妖々夢_from_another_viewpoint封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\00\ns6%3A%E6%94%BB%E7%95%A5%21%E5%A6%96%E3%80%85%E5%A4%A2_from_another_viewpoint%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\00\ns6%3A%E6%94%BB%E7%95%A5%21%E5%A6%96%E3%80%85%E5%A4%A2_from_another_viewpoint%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 丸D2 | 同人志封面 | 封面图片
 
@@ -8,11 +8,15 @@
 使用了本文件作封面图片的作品：
   
 
-- [攻略!妖々夢 from another viewpoint](./攻略!妖々夢_from_another_viewpoint.md)  
-该封面包含的角色：- [蕾蒂·霍瓦特洛克](./蕾蒂·霍瓦特洛克.md)- [橙](./橙.md)- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [露娜萨·普莉兹姆利巴](./露娜萨·普莉兹姆利巴.md)- [梅露兰·普莉兹姆利巴](./梅露兰·普莉兹姆利巴.md)- [莉莉卡·普莉兹姆利巴](./莉莉卡·普莉兹姆利巴.md)- [魂魄妖梦](./魂魄妖梦.md)- [西行寺幽幽子](./西行寺幽幽子.md)
-
-
-
+- [攻略!妖々夢 from another viewpoint](./攻略!妖々夢_from_another_viewpoint.md)该封面包含的角色：
+- [蕾蒂·霍瓦特洛克](./蕾蒂·霍瓦特洛克.md)
+- [橙](./橙.md)
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [露娜萨·普莉兹姆利巴](./露娜萨·普莉兹姆利巴.md)
+- [梅露兰·普莉兹姆利巴](./梅露兰·普莉兹姆利巴.md)
+- [莉莉卡·普莉兹姆利巴](./莉莉卡·普莉兹姆利巴.md)
+- [魂魄妖梦](./魂魄妖梦.md)
+- [西行寺幽幽子](./西行寺幽幽子.md)
 
 
 ---

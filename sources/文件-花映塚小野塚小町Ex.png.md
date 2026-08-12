@@ -1,12 +1,8 @@
 # 文件:花映塚小野塚小町Ex.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6d\ns6%3A%E8%8A%B1%E6%98%A0%E5%A1%9A%E5%B0%8F%E9%87%8E%E5%A1%9A%E5%B0%8F%E7%94%BAEx%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6d\ns6%3A%E8%8A%B1%E6%98%A0%E5%A1%9A%E5%B0%8F%E9%87%8E%E5%A1%9A%E5%B0%8F%E7%94%BAEx%2Epng.html -->
 
 东方花映塚 | 小野塚小町
-
-
-
-
 
 
 ---

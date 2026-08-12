@@ -1,12 +1,8 @@
 # 文件:姬海棠果（TF立绘）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fb\ns6%3A%E5%A7%AC%E6%B5%B7%E6%A3%A0%E6%9E%9C%EF%BC%88TF%E7%AB%8B%E7%BB%98%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fb\ns6%3A%E5%A7%AC%E6%B5%B7%E6%A3%A0%E6%9E%9C%EF%BC%88TF%E7%AB%8B%E7%BB%98%EF%BC%89%2Epng.html -->
 
 二次角色立绘 | 姬海棠果（TF） | 東方邪星章製作チーム
-
-
-
-
 
 
 ---

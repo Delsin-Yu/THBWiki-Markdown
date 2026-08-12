@@ -1,6 +1,6 @@
 # 游戏攻略/STG机体说明/东方天空璋
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\e\e0\ns0%3A%E6%B8%B8%E6%88%8F%E6%94%BB%E7%95%A5%2FSTG%E6%9C%BA%E4%BD%93%E8%AF%B4%E6%98%8E%2F%E4%B8%9C%E6%96%B9%E5%A4%A9%E7%A9%BA%E7%92%8B.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\e\e0\ns0%3A%E6%B8%B8%E6%88%8F%E6%94%BB%E7%95%A5%2FSTG%E6%9C%BA%E4%BD%93%E8%AF%B4%E6%98%8E%2F%E4%B8%9C%E6%96%B9%E5%A4%A9%E7%A9%BA%E7%92%8B.html -->
 
 游戏攻略
 
@@ -9,13 +9,8 @@
 
 - [1 综述及系统简介](#综述及系统简介)
 - [2 机体火力数据](#机体火力数据)
-
   - [2.1 主机](#主机)
   - [2.2 支援](#支援)
-
-
-
-
 
 
 
@@ -39,7 +34,6 @@
 夏C比较偏保命和连续C速攻，冬C偏向射击重视型速攻，秋C是纯粹的循环保命(子机用处不大)，春是子机火力和循环都存在但循环效果稍差的配置。
   
 
-
 ### 机体火力数据
 
 #### 主机
@@ -53,9 +47,7 @@
 符卡阶段雷与射击伤害均为1/7  
 
 0p时所有机体主炮火力均为16*2*20=640  
-
   
-
 
 <table>
 
@@ -160,8 +152,6 @@
 <td>2.0
 </td></tr></tbody></table>
 
-
-
 综合
 : 天空璋全机体主炮均可尻击，主子机全部不行(不算灵梦)。鉴于主炮伤害不俗，可以利用这个速攻璋EX道中2符和关底非符。  
 
@@ -182,7 +172,6 @@
 
 bomb说明：表中bomb存在时间等于无敌时间-38f,数据来自日文wiki(秒)*60；⑨和文的炸会停留在原地，用炸弹效果堵发弹点或者利用无敌时间擦弹不失为一个好的选择。
 
-
 <table>
 
 <tbody><tr>
@@ -193,11 +182,10 @@ bomb说明：表中bomb存在时间等于无敌时间-38f,数据来自日文wiki
 </td></tr></tbody></table>
 
 
-
 #### 支援
   
-数据来自twitter@NNN_shooter(推特主页：[@NNN_shooter](http://twitter.com/NNN_shooter)，nico主页：[@NNN_shooter](https://nicovideo.jp/user/14675512),bilibili主页：[@NNN_shooter](https://space.bilibili.com/171464134?from=search&amp;seid=4339731418996565595))。  
- **提一句这个半径我怀疑这个比是按最高分辨率测的，暂时别当回事** 
+数据来自twitter@NNN_shooter(推特主页：[@NNN_shooter](http://twitter.com/NNN_shooter)，nico主页：[@NNN_shooter](https://nicovideo.jp/user/14675512),bilibili主页：[@NNN_shooter](https://space.bilibili.com/171464134?from=search&seid=4339731418996565595))。  
+**提一句这个半径我怀疑这个比是按最高分辨率测的，暂时别当回事**
 解放伤害单位为dmg/f（伤害每帧），范围半径单位为px（像素），持续时间单位为f（帧）。游戏设定1秒=60帧。  
 
 解放冷却时间45f，从解放结束(解放圈消失)后开始计算。季节解放时会回收所有道具。  
@@ -208,7 +196,6 @@ bomb说明：表中bomb存在时间等于无敌时间-38f,数据来自日文wiki
 
 解放bug3：在EX时符中，使用解放会移除boss的时符无敌，然后就可以击破了(甚至可以收取)。
   
-
 
 <table>
 
@@ -355,10 +342,10 @@ bomb说明：表中bomb存在时间等于无敌时间-38f,数据来自日文wiki
 <tr>
 <td>范围半径</td>
 <td>50</td>
-<td>55<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">1</a></sup></td>
+<td>55<span>[^cite_note-1]</span></td>
 <td>60</td>
 <td>65</td>
-<td>70<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">2</a></sup></td>
+<td>70<span>[^cite_note-2]</span></td>
 <td>80
 </td></tr>
 <tr>
@@ -409,13 +396,8 @@ bomb说明：表中bomb存在时间等于无敌时间-38f,数据来自日文wiki
 <td colspan="6">发动后向下移动48.5px，60f时停止移动。仅限EX且EX强制使用。<br>发动只消耗1个LV(可以和夏C一样bomb换C)。声音恰好<b>完全停止</b>时解放CD结束，在EX混关谨记这一点。<br>EX关很多地方(如4符)你是不得不使用土用子机火力的，这些地方即便混关也必须NC(包括灵梦诱导弹板顶也打不下去)。<br>boss开非符判定点在脸上扔1c可造成不少伤害并回收足够的季节点。符卡内扔c会造成boss无敌，但扔c以后会造成boss无敌解除。
 </td></tr></tbody></table>
 
-
-
 [^cite_note-1]: 度量下来半径是35/45像素（内圈深蓝/外圈浅蓝）
-
-
-
-
+[^cite_note-2]: 度量下来半径是50/60像素（内圈深蓝/外圈浅蓝）
 
 ---
 

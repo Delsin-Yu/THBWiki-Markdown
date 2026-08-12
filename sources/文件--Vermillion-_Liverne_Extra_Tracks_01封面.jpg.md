@@ -1,6 +1,6 @@
 # 文件:"Vermillion"_Liverne_Extra_Tracks_01封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5e\ns6%3A%22Vermillion%22_Liverne_Extra_Tracks_01%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5e\ns6%3A%22Vermillion%22_Liverne_Extra_Tracks_01%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 sound_sepher | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ sound_sepher | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- ["Vermillion" Liverne Extra Tracks 01](./-Vermillion-_Liverne_Extra_Tracks_01.md)  
-该封面包含的角色：- [梅蒂欣·梅兰可莉](./梅蒂欣·梅兰可莉.md)
+- ["Vermillion" Liverne Extra Tracks 01](./-Vermillion-_Liverne_Extra_Tracks_01.md)该封面包含的角色：
+- [梅蒂欣·梅兰可莉](./梅蒂欣·梅兰可莉.md)
 
   
-源地址：[[1]](http://sepher.jp/image/doujin/jacket/LIVE-0004.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://sepher.jp/image/doujin/jacket/LIVE-0004.jpg)  
 
 ---
 

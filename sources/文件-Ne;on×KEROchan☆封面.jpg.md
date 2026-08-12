@@ -1,6 +1,6 @@
 # 文件:Ne;on×KEROchan☆封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\91\ns6%3ANe%3Bon%C3%97KEROchan%E2%98%86%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\91\ns6%3ANe%3Bon%C3%97KEROchan%E2%98%86%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 KRASTERII | 专辑封面 | 封面图片
 
@@ -8,11 +8,10 @@ KRASTERII | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Ne;on×KEROchan☆](./Ne;on×KEROchan☆.md)  
-该封面包含的角色：- [东风谷早苗](./东风谷早苗.md)- [八坂神奈子](./八坂神奈子.md)- [洩矢诹访子](./洩矢诹访子.md)
-
-
-
+- [Ne;on×KEROchan☆](./Ne;on×KEROchan☆.md)该封面包含的角色：
+- [东风谷早苗](./东风谷早苗.md)
+- [八坂神奈子](./八坂神奈子.md)
+- [洩矢诹访子](./洩矢诹访子.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:嘆_-SORROW-封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0c\ns6%3A%E5%98%86_-SORROW-%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0c\ns6%3A%E5%98%86_-SORROW-%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 俺++(Includeore) | 封面图片
 
@@ -8,11 +8,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [嘆 -SORROW-](./嘆_-SORROW-.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [嘆 -SORROW-](./嘆_-SORROW-.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

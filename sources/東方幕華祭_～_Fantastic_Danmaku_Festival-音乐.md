@@ -1,6 +1,6 @@
 # 東方幕華祭_～_Fantastic_Danmaku_Festival/音乐
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\43\ns0%3A%E6%9D%B1%E6%96%B9%E5%B9%95%E8%8F%AF%E7%A5%AD_%EF%BD%9E_Fantastic_Danmaku_Festival%2F%E9%9F%B3%E4%B9%90.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\43\ns0%3A%E6%9D%B1%E6%96%B9%E5%B9%95%E8%8F%AF%E7%A5%AD_%EF%BD%9E_Fantastic_Danmaku_Festival%2F%E9%9F%B3%E4%B9%90.html -->
 
 东方幕华祭制作组
 
@@ -24,7 +24,6 @@
 </td></tr></tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
@@ -40,7 +39,6 @@
 </p><p>不过可惜原工程遗失了_(:3」∠)_
 </p>
 </td></tr></tbody></table>
-
 
 
 <table>
@@ -60,7 +58,6 @@
 </td></tr></tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
@@ -72,11 +69,10 @@
 </td></tr>
 <tr valign="top">
 <td colspan="3" style="padding:1em; padding-left:2em;" lang="zh" width="30%">
-<p>原曲：<a href="./ルーネイトエルフ.md" class="mw-redirect" title="ルーネイトエルフ">ルーネイトエルフ</a>
+<p>原曲：<a href="./Lunate_Elf.md" class="mw-redirect" title="ルーネイトエルフ">ルーネイトエルフ</a>
 </p><p>想要表现冰的质感所以用了清脆的乐器，整体也有着欢快的气氛
 </p>
 </td></tr></tbody></table>
-
 
 
 <table>
@@ -90,12 +86,11 @@
 </td></tr>
 <tr valign="top">
 <td colspan="3" style="padding:1em; padding-left:2em;" lang="zh" width="30%">
-<p>原曲：<a href="./おてんば恋娘.md" class="mw-redirect" title="おてんば恋娘">おてんば恋娘</a>
+<p>原曲：<a href="./活泼的纯情小姑娘.md" class="mw-redirect" title="おてんば恋娘">おてんば恋娘</a>
 </p><p>最强的家伙出现了！什么？！对方似乎也不好对付啊~
 </p><p>于是想描绘妖精努力战斗的场景
 </p>
 </td></tr></tbody></table>
-
 
 
 <table>
@@ -109,12 +104,11 @@
 </td></tr>
 <tr valign="top">
 <td colspan="3" style="padding:1em; padding-left:2em;" lang="zh" width="30%">
-<p>原曲：<a href="./上海紅茶館_～_Chinese_Tea.md" class="mw-redirect" title="上海紅茶館 ～ Chinese Tea">上海紅茶館　～ Chinese Tea</a>
+<p>原曲：<a href="./上海红茶馆_～_Chinese_Tea.md" class="mw-redirect" title="上海紅茶館 ～ Chinese Tea">上海紅茶館　～ Chinese Tea</a>
 </p><p>星空之下伴随着悠扬的曲调，气质十足
 </p><p>因为很想让中国传统的乐器出现所以变得十分中国风~
 </p>
 </td></tr></tbody></table>
-
 
 
 <table>
@@ -128,12 +122,11 @@
 </td></tr>
 <tr valign="top">
 <td colspan="3" style="padding:1em; padding-left:2em;" lang="zh" width="30%">
-<p>原曲：<a href="./明治十七年の上海アリス.md" class="mw-redirect" title="明治十七年の上海アリス">明治十七年の上海アリス</a>
+<p>原曲：<a href="./明治十七年的上海爱丽丝.md" class="mw-redirect" title="明治十七年の上海アリス">明治十七年の上海アリス</a>
 </p><p>作为一个带有中国符号的人物，自然要将中国风进行下去！
 </p><p>其实和道中曲是一套的
 </p>
 </td></tr></tbody></table>
-
 
 
 <table>
@@ -147,12 +140,11 @@
 </td></tr>
 <tr valign="top">
 <td colspan="3" style="padding:1em; padding-left:2em;" lang="zh" width="30%">
-<p>原曲：<a href="./ヴワル魔法図書館.md" class="mw-redirect" title="ヴワル魔法図書館">ヴワル魔法図書館</a>
+<p>原曲：<a href="./伏瓦鲁魔法图书馆.md" class="mw-redirect" title="ヴワル魔法図書館">ヴワル魔法図書館</a>
 </p><p>场景从室外转向室内，因此曲风也发生了变化
 </p><p>为了表现宏大的感觉采用了交响乐的风格
 </p>
 </td></tr></tbody></table>
-
 
 
 <table>
@@ -172,7 +164,6 @@
 </td></tr></tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
@@ -184,17 +175,16 @@
 </td></tr>
 <tr valign="top">
 <td colspan="3" style="padding:1em; padding-left:2em;" lang="zh" width="30%">
-<p>原曲：<a href="./メイドと血の懐中時計.md" class="mw-redirect" title="メイドと血の懐中時計">メイドと血の懐中時計</a>
+<p>原曲：<a href="./女仆与血之怀表.md" class="mw-redirect" title="メイドと血の懐中時計">メイドと血の懐中時計</a>
 </p><p>一直在用钢琴表现时间流动的感觉，同时也在提醒玩家进入了危险地带喔！
 </p>
 </td></tr></tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
-<td style="background: #dde6ff;" align="center" width="15%"><h6><span id=".E4.BA.94.E9.9D.A2.E5.A4.B4.E7.9B.AE-.E5.8D.81.E5.85.AD.E5.A4.9C.E5.92.B2.E5.A4.9C.E4.B8.BB.E9.A2.98.E6.9B.B2"></span><span class="mw-headline" id="五面头目-十六夜咲夜主题曲">五面头目-<a href="/%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C" title="十六夜咲夜">十六夜咲夜</a>主题曲</span></h6>
+<td style="background: #dde6ff;" align="center" width="15%"><h6><span id=".E4.BA.94.E9.9D.A2.E5.A4.B4.E7.9B.AE-.E5.8D.81.E5.85.AD.E5.A4.9C.E5.92.B2.E5.A4.9C.E4.B8.BB.E9.A2.98.E6.9B.B2"></span><span class="mw-headline" id="五面头目-十六夜咲夜主题曲">五面头目-<a href="./十六夜咲夜.md" title="十六夜咲夜">十六夜咲夜</a>主题曲</span></h6>
 </td>
 <td style="background: #FFFFCC;" align="center" width="55%">钟楼战场 ～ Bell tower
 </td>
@@ -206,7 +196,6 @@
 </p><p>十分霸气的一首曲子，相信不会让喜欢原曲的朋友失望
 </p>
 </td></tr></tbody></table>
-
 
 
 <table>
@@ -226,7 +215,6 @@
 </td></tr></tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
@@ -238,12 +226,11 @@
 </td></tr>
 <tr valign="top">
 <td colspan="3" style="padding:1em; padding-left:2em;" lang="zh" width="30%">
-<p>原曲：<a href="./亡き王女の為のセプテット.md" class="mw-redirect" title="亡き王女の為のセプテット">亡き王女の為のセプテット</a>
+<p>原曲：<a href="./献给已逝公主的七重奏.md" class="mw-redirect" title="亡き王女の為のセプテット">亡き王女の為のセプテット</a>
 </p><p>作为游戏的最终战，想要展现出史诗般的感觉
 </p><p>虽然被批评不适合在游戏时播放，但确实是一首很好的曲子不是吗
 </p>
 </td></tr></tbody></table>
-
 
 
 <table>
@@ -257,12 +244,11 @@
 </td></tr>
 <tr valign="top">
 <td colspan="3" style="padding:1em; padding-left:2em;" lang="zh" width="30%">
-<p>原曲：<a href="./魔法少女達の百年祭.md" class="mw-redirect" title="魔法少女達の百年祭">魔法少女達の百年祭</a>
+<p>原曲：<a href="./魔法少女们的百年祭.md" class="mw-redirect" title="魔法少女達の百年祭">魔法少女達の百年祭</a>
 </p><p>非常活泼的曲子呢（诶，是活泼吗？
 </p><p>感觉又有点让人不安，是在暗示什么呢
 </p>
 </td></tr></tbody></table>
-
 
 
 <table>
@@ -276,12 +262,11 @@
 </td></tr>
 <tr valign="top">
 <td colspan="3" style="padding:1em; padding-left:2em;" lang="zh" width="30%">
-<p>原曲：<a href="./U.N.オーエンは彼女なのか？.md" class="mw-redirect" title="U.N.オーエンは彼女なのか？">U.N.オーエンは彼女なのか？</a>
+<p>原曲：<a href="./U.N.OWEN就是她吗？.md" class="mw-redirect" title="U.N.オーエンは彼女なのか？">U.N.オーエンは彼女なのか？</a>
 </p><p>因为曲目的制作早于关卡设定，所以对名字不是很满意
 </p><p>但确实是很疯狂的一首曲子
 </p>
 </td></tr></tbody></table>
-
 
 
 <table>
@@ -295,15 +280,11 @@
 </td></tr>
 <tr valign="top">
 <td colspan="3" style="padding:1em; padding-left:2em;" lang="zh" width="30%">
-<p>前段原曲：<a href="./紅楼_～_Eastern_Dream....md" class="mw-redirect" title="紅楼 ～ Eastern Dream...">紅楼　～ Eastern Dream...</a>
+<p>前段原曲：<a href="./红楼_～_Eastern_Dream....md" class="mw-redirect" title="紅楼 ～ Eastern Dream...">紅楼　～ Eastern Dream...</a>
 </p><p>同时兼具改编和原创的曲子，描述着宴会即将开始的热闹景象
 </p><p>最后旋律戛然而止，其实是想说“未完待续”吗？
 </p>
 </td></tr></tbody></table>
-
-
-
-
 
 
 ---

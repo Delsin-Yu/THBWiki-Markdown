@@ -1,12 +1,8 @@
 # 文件:散符「荣华之梦(Luna_Megalopolis)」3.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\ba\ns6%3A%E6%95%A3%E7%AC%A6%E3%80%8C%E8%8D%A3%E5%8D%8E%E4%B9%8B%E6%A2%A6%28Luna_Megalopolis%29%E3%80%8D3%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\ba\ns6%3A%E6%95%A3%E7%AC%A6%E3%80%8C%E8%8D%A3%E5%8D%8E%E4%B9%8B%E6%A2%A6%28Luna_Megalopolis%29%E3%80%8D3%2Epng.html -->
 
 东方花映塚 | 铃仙·优昙华院·因幡
-
-
-
-
 
 
 ---

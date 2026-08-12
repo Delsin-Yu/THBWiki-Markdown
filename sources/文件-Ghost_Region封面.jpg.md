@@ -1,6 +1,6 @@
 # 文件:Ghost_Region封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e1\ns6%3AGhost_Region%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e1\ns6%3AGhost_Region%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ALiCE'S_EMOTiON | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ ALiCE'S_EMOTiON | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Ghost Region](./Ghost_Region.md)  
-该封面包含的角色：- [物部布都](./物部布都.md)- [丰聪耳神子](./丰聪耳神子.md)
-
-
-
+- [Ghost Region](./Ghost_Region.md)该封面包含的角色：
+- [物部布都](./物部布都.md)
+- [丰聪耳神子](./丰聪耳神子.md)
 
 
 ---

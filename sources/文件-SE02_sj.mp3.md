@@ -1,12 +1,8 @@
 # 文件:SE02_sj.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\89\ns6%3ASE02_sj%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\89\ns6%3ASE02_sj%2Emp3.html -->
 
 稀翁玉
-
-
-
-
 
 
 ---

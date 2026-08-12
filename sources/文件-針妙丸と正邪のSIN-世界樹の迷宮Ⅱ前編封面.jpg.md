@@ -1,6 +1,6 @@
 # 文件:針妙丸と正邪のSIN-世界樹の迷宮Ⅱ前編封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1f\ns6%3A%E9%87%9D%E5%A6%99%E4%B8%B8%E3%81%A8%E6%AD%A3%E9%82%AA%E3%81%AESIN-%E4%B8%96%E7%95%8C%E6%A8%B9%E3%81%AE%E8%BF%B7%E5%AE%AE%E2%85%A1%E5%89%8D%E7%B7%A8%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1f\ns6%3A%E9%87%9D%E5%A6%99%E4%B8%B8%E3%81%A8%E6%AD%A3%E9%82%AA%E3%81%AESIN-%E4%B8%96%E7%95%8C%E6%A8%B9%E3%81%AE%E8%BF%B7%E5%AE%AE%E2%85%A1%E5%89%8D%E7%B7%A8%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ビッグアイランド | 同人志封面 | 封面图片
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [針妙丸と正邪のSIN-世界樹の迷宮Ⅱ前編](./針妙丸と正邪のSIN-世界樹の迷宮Ⅱ前編.md)  
-该封面包含的角色：- [鬼人正邪](./鬼人正邪.md)- [少名针妙丸](./少名针妙丸.md)
-
-
-
+- [針妙丸と正邪のSIN-世界樹の迷宮Ⅱ前編](./針妙丸と正邪のSIN-世界樹の迷宮Ⅱ前編.md)该封面包含的角色：
+- [鬼人正邪](./鬼人正邪.md)
+- [少名针妙丸](./少名针妙丸.md)
 
 
 ---

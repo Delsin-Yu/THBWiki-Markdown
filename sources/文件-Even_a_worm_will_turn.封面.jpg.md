@@ -1,6 +1,6 @@
 # 文件:Even_a_worm_will_turn.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a6\ns6%3AEven_a_worm_will_turn%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a6\ns6%3AEven_a_worm_will_turn%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 No_Gimmick_No_Life | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ No_Gimmick_No_Life | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Even a worm will turn.](./Even_a_worm_will_turn..md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)
+- [Even a worm will turn.](./Even_a_worm_will_turn..md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
 
   
-源地址：[[1]](http://static.tumblr.com/8ae30a38360b7de679acd861cd114784/s0dxskf/iBpoi8bm3/tumblr_static_mdk2u76dvk00scskkwgogso0.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://static.tumblr.com/8ae30a38360b7de679acd861cd114784/s0dxskf/iBpoi8bm3/tumblr_static_mdk2u76dvk00scskkwgogso0.jpg)  
 
 ---
 

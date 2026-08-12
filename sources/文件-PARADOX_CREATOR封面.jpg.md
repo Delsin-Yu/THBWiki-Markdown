@@ -1,6 +1,6 @@
 # 文件:PARADOX_CREATOR封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b1\ns6%3APARADOX_CREATOR%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b1\ns6%3APARADOX_CREATOR%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 紺碧studio
 
@@ -10,16 +10,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [PARADOX CREATOR](./PARADOX_CREATOR.md)  
-该封面包含的角色：- [埴安神袿姬](./埴安神袿姬.md)- [杖刀偶磨弓](./杖刀偶磨弓.md)
+- [PARADOX CREATOR](./PARADOX_CREATOR.md)该封面包含的角色：
+- [埴安神袿姬](./埴安神袿姬.md)
+- [杖刀偶磨弓](./杖刀偶磨弓.md)
 
   
-源地址：[图片链接](https://melonbooks.akamaized.net/upload/save_image/213001029374.jpg) [蜜瓜通贩](https://www.melonbooks.co.jp/detail/detail.php?product_id=640232)
-  
-
-
-
-
+源地址：[图片链接](https://melonbooks.akamaized.net/upload/save_image/213001029374.jpg) [蜜瓜通贩](https://www.melonbooks.co.jp/detail/detail.php?product_id=640232)  
 
 ---
 

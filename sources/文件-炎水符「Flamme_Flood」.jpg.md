@@ -1,12 +1,8 @@
 # 文件:炎水符「Flamme_Flood」.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a3\ns6%3A%E7%82%8E%E6%B0%B4%E7%AC%A6%E3%80%8CFlamme_Flood%E3%80%8D%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a3\ns6%3A%E7%82%8E%E6%B0%B4%E7%AC%A6%E3%80%8CFlamme_Flood%E3%80%8D%2Ejpg.html -->
 
 東方邪星章製作チーム
-
-
-
-
 
 
 ---

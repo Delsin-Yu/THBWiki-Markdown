@@ -1,6 +1,6 @@
 # 文件:季刊Alice_～Winter_Garden～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2c\ns6%3A%E5%AD%A3%E5%88%8AAlice_%EF%BD%9EWinter_Garden%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2c\ns6%3A%E5%AD%A3%E5%88%8AAlice_%EF%BD%9EWinter_Garden%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Lunade_Luna | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@ Lunade_Luna | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [季刊Alice ～Winter Garden～](./季刊Alice_～Winter_Garden～.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
-
-
-
+- [季刊Alice ～Winter Garden～](./季刊Alice_～Winter_Garden～.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
 
 
 ---

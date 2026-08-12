@@ -1,6 +1,6 @@
 # 文件:Labyrinth_Suite_-TABLETALK_ROLE_PLAY_TOHO_11-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\02\ns6%3ALabyrinth_Suite_-TABLETALK_ROLE_PLAY_TOHO_11-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\02\ns6%3ALabyrinth_Suite_-TABLETALK_ROLE_PLAY_TOHO_11-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 天秤亭 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Labyrinth Suite -TABLETALK ROLE PLAY TOHO 11-](./Labyrinth_Suite_-TABLETALK_ROLE_PLAY_TOHO_11-.md)  
-该封面包含的角色：- [摩多罗隐岐奈](./摩多罗隐岐奈.md)
-
-
-
+- [Labyrinth Suite -TABLETALK ROLE PLAY TOHO 11-](./Labyrinth_Suite_-TABLETALK_ROLE_PLAY_TOHO_11-.md)该封面包含的角色：
+- [摩多罗隐岐奈](./摩多罗隐岐奈.md)
 
 
 ---

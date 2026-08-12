@@ -1,12 +1,8 @@
 # 文件:THBWiki-LOGO-射命丸文.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\34\ns6%3ATHBWiki-LOGO-%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\34\ns6%3ATHBWiki-LOGO-%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87%2Epng.html -->
 
 THBWiki | Wiki词条分类用图
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Akatsuki_mini_Dream封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ae\ns6%3AAkatsuki_mini_Dream%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ae\ns6%3AAkatsuki_mini_Dream%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 夕焼けコンテナ。 | 封面图片
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Akatsuki mini Dream](./Akatsuki_mini_Dream.md)  
-该封面包含的角色：- [八云紫](./八云紫.md)
+- [Akatsuki mini Dream](./Akatsuki_mini_Dream.md)该封面包含的角色：
+- [八云紫](./八云紫.md)
 
   
-源地址: [[1]](http://concon.yu-yake.com/fig/jack.png)
-  
-
-
-
-
+源地址: [\[1\]](http://concon.yu-yake.com/fig/jack.png)  
 
 ---
 

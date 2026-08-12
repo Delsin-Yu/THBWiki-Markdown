@@ -1,6 +1,6 @@
 # 文件:四季の調べ～秋・冬～_Symphonic_FantasmⅣ封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ef\ns6%3A%E5%9B%9B%E5%AD%A3%E3%81%AE%E8%AA%BF%E3%81%B9%EF%BD%9E%E7%A7%8B%E3%83%BB%E5%86%AC%EF%BD%9E_Symphonic_Fantasm%E2%85%A3%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ef\ns6%3A%E5%9B%9B%E5%AD%A3%E3%81%AE%E8%AA%BF%E3%81%B9%EF%BD%9E%E7%A7%8B%E3%83%BB%E5%86%AC%EF%BD%9E_Symphonic_Fantasm%E2%85%A3%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 幻楽工房
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [四季の調べ～秋・冬～ Symphonic FantasmⅣ](./四季の調べ～秋・冬～_Symphonic_FantasmⅣ.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [射命丸文](./射命丸文.md)
-
-
-
+- [四季の調べ～秋・冬～ Symphonic FantasmⅣ](./四季の調べ～秋・冬～_Symphonic_FantasmⅣ.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [射命丸文](./射命丸文.md)
 
 
 ---

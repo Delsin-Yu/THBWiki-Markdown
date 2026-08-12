@@ -1,6 +1,6 @@
 # 文件:BigFairy_combination_CD封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\12\ns6%3ABigFairy_combination_CD%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\12\ns6%3ABigFairy_combination_CD%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 大妖精合同CD企画 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [BigFairy combination CD](./BigFairy_combination_CD.md)  
-该封面包含的角色：- [大妖精](./大妖精.md)
-
-
-
+- [BigFairy combination CD](./BigFairy_combination_CD.md)该封面包含的角色：
+- [大妖精](./大妖精.md)
 
 
 ---

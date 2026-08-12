@@ -1,16 +1,11 @@
 # 文件:おかのうえlogo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bd\ns6%3A%E3%81%8A%E3%81%8B%E3%81%AE%E3%81%86%E3%81%88logo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bd\ns6%3A%E3%81%8A%E3%81%8B%E3%81%AE%E3%81%86%E3%81%88logo%2Ejpg.html -->
 
 おかのうえ | 社团LOGO
 
   
-源地址：[[1]](https://pbs.twimg.com/profile_images/499654524/ura_400x400.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://pbs.twimg.com/profile_images/499654524/ura_400x400.jpg)  
 
 ---
 

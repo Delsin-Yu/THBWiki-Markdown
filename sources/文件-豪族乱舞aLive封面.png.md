@@ -1,6 +1,6 @@
 # 文件:豪族乱舞aLive封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\58\ns6%3A%E8%B1%AA%E6%97%8F%E4%B9%B1%E8%88%9EaLive%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\58\ns6%3A%E8%B1%AA%E6%97%8F%E4%B9%B1%E8%88%9EaLive%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 サイチル | 同人志封面 | 封面图片
 
@@ -8,11 +8,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [豪族乱舞aLive](./豪族乱舞aLive.md)  
-该封面包含的角色：- [苏我屠自古](./苏我屠自古.md)- [物部布都](./物部布都.md)- [丰聪耳神子](./丰聪耳神子.md)
-
-
-
+- [豪族乱舞aLive](./豪族乱舞aLive.md)该封面包含的角色：
+- [苏我屠自古](./苏我屠自古.md)
+- [物部布都](./物部布都.md)
+- [丰聪耳神子](./丰聪耳神子.md)
 
 
 ---

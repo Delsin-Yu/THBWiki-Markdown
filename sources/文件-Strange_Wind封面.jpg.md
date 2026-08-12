@@ -1,6 +1,6 @@
 # 文件:Strange_Wind封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ed\ns6%3AStrange_Wind%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ed\ns6%3AStrange_Wind%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Elemental_Records | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ Elemental_Records | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Strange Wind](./Strange_Wind.md)  
-该封面包含的角色：- [八云紫](./八云紫.md)- [八坂神奈子](./八坂神奈子.md)
-
-
-
+- [Strange Wind](./Strange_Wind.md)该封面包含的角色：
+- [八云紫](./八云紫.md)
+- [八坂神奈子](./八坂神奈子.md)
 
 
 ---

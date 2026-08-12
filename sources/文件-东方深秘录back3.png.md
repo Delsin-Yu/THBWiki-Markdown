@@ -1,12 +1,8 @@
 # 文件:东方深秘录back3.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7d\ns6%3A%E4%B8%9C%E6%96%B9%E6%B7%B1%E7%A7%98%E5%BD%95back3%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7d\ns6%3A%E4%B8%9C%E6%96%B9%E6%B7%B1%E7%A7%98%E5%BD%95back3%2Epng.html -->
 
 东方深秘录结局图
-
-
-
-
 
 
 ---

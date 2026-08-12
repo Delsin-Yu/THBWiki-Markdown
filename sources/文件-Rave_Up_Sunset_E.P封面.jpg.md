@@ -1,6 +1,6 @@
 # 文件:Rave_Up_Sunset_E.P封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\53\ns6%3ARave_Up_Sunset_E%2EP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\53\ns6%3ARave_Up_Sunset_E%2EP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 MTML＠RANDOM | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ MTML＠RANDOM | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Rave Up Sunset E.P](./Rave_Up_Sunset_E.P.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)
-
-
-
+- [Rave Up Sunset E.P](./Rave_Up_Sunset_E.P.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
 
 
 ---

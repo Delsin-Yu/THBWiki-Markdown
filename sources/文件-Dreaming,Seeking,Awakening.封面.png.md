@@ -1,6 +1,6 @@
 # 文件:Dreaming,Seeking,Awakening.封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f2\ns6%3ADreaming%2CSeeking%2CAwakening%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f2\ns6%3ADreaming%2CSeeking%2CAwakening%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Dxtliant_Child | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ Dxtliant_Child | 专辑封面 | 封面图片
   
 
 - [Dreaming,Seeking,Awakening.](./Dreaming,Seeking,Awakening..md)
-
-
-
 
 
 ---

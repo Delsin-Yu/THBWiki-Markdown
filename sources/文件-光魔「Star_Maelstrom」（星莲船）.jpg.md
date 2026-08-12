@@ -1,12 +1,8 @@
 # 文件:光魔「Star_Maelstrom」（星莲船）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1f\ns6%3A%E5%85%89%E9%AD%94%E3%80%8CStar_Maelstrom%E3%80%8D%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1f\ns6%3A%E5%85%89%E9%AD%94%E3%80%8CStar_Maelstrom%E3%80%8D%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%EF%BC%89%2Ejpg.html -->
 
 东方星莲船 | 圣白莲 | 敌机符卡
-
-
-
-
 
 
 ---

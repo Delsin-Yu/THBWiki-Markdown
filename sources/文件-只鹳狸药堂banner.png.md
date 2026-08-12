@@ -1,14 +1,11 @@
 # 文件:只鹳狸药堂banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6b\ns6%3A%E5%8F%AA%E9%B9%B3%E7%8B%B8%E8%8D%AF%E5%A0%82banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6b\ns6%3A%E5%8F%AA%E9%B9%B3%E7%8B%B8%E8%8D%AF%E5%A0%82banner%2Epng.html -->
 
 只鹳狸药堂
 
 
 ## 文件说明
-
-
-
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:FOUR_STEP_JUMP!!!封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6b\ns6%3AFOUR_STEP_JUMP%21%21%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6b\ns6%3AFOUR_STEP_JUMP%21%21%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Heartful_Zwei_System | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ Heartful_Zwei_System | 专辑封面 | 封面图片
   
 
 - [FOUR STEP JUMP!!!](./FOUR_STEP_JUMP!!!.md)
-
-
-
 
 
 ---

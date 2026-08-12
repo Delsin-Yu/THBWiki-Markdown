@@ -1,6 +1,6 @@
 # 文件:o_bent_o_box封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\be\ns6%3Ao_bent_o_box%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\be\ns6%3Ao_bent_o_box%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 miskyworks | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ miskyworks | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [o bent o box](./o_bent_o_box.md)  
-该封面包含的角色：- [上白泽慧音](./上白泽慧音.md)- [藤原妹红](./藤原妹红.md)
-
-
-
+- [o bent o box](./o_bent_o_box.md)该封面包含的角色：
+- [上白泽慧音](./上白泽慧音.md)
+- [藤原妹红](./藤原妹红.md)
 
 
 ---

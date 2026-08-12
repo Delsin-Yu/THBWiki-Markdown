@@ -1,6 +1,6 @@
 # 文件:TOHO_Autumn_Winter_東方秋冬服合同封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0c\ns6%3ATOHO_Autumn_Winter_%E6%9D%B1%E6%96%B9%E7%A7%8B%E5%86%AC%E6%9C%8D%E5%90%88%E5%90%8C%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0c\ns6%3ATOHO_Autumn_Winter_%E6%9D%B1%E6%96%B9%E7%A7%8B%E5%86%AC%E6%9C%8D%E5%90%88%E5%90%8C%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 kuronecoarts | 同人志封面 | 封面图片
 
@@ -10,11 +10,9 @@ kuronecoarts | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [TOHO Autumn Winter 東方秋冬服合同](./TOHO_Autumn_Winter_東方秋冬服合同.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [TOHO Autumn Winter 東方秋冬服合同](./TOHO_Autumn_Winter_東方秋冬服合同.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

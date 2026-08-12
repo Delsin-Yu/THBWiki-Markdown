@@ -1,8 +1,9 @@
 # Play,Doujin!/新作发表会
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\d\d8\ns0%3APlay%2CDoujin%21%2F%E6%96%B0%E4%BD%9C%E5%8F%91%E8%A1%A8%E4%BC%9A.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\d\d8\ns0%3APlay%2CDoujin%21%2F%E6%96%B0%E4%BD%9C%E5%8F%91%E8%A1%A8%E4%BC%9A.html -->
 
 Play,Doujin! | ZUN
+
 
 - 本文是2016年9月2日Play,Doujin!的生放送内容
 - 资料源是由日本爱好者根据直播视频记录成日文文字版
@@ -12,7 +13,6 @@ Play,Doujin! | ZUN
 
 出场人员
 : [ZUN](./ZUN.md)（[上海爱丽丝幻乐团](./上海爱丽丝幻乐团.md)）、結（MC）、[海原海豚](./海原海豚.md)（[黄昏边境](./黄昏边境.md)）、[あきやまうに](./あきやまうに.md)（黄昏边境）、JYUNYA（[AQUASTYLE](./AQUA_STYLE.md)）、響谷ゆろ（[CUBETYPE](./CUBETYPE.md)）、[江崎望](./D.N.A..md)（[MediaScape](./MediaScape.md)）、伊東章成（SEI）、伴龍一郎（niconico运营）
-
   
 0:00～ 开场。
   
@@ -25,12 +25,13 @@ Play,Doujin! | ZUN
   
 0:30～　PS4版东方深秘录　～ Urban Legend in Linbo.
   
-
-
-
-[](./文件-Play,Doujin!新作发表会1.png.md)[](./文件-Play,Doujin!新作发表会2.png.md)[](./文件-Play,Doujin!新作发表会3.png.md)[](./文件-Play,Doujin!新作发表会4.png.md)[](./文件-Play,Doujin!新作发表会5.png.md)黄昏边境的演示  
-PV上映
-结
+<img alt="" src="https://upload.thwiki.cc/thumb/5/5e/Play%2CDoujin%21%E6%96%B0%E4%BD%9C%E5%8F%91%E8%A1%A8%E4%BC%9A1.png/200px-Play%2CDoujin%21%E6%96%B0%E4%BD%9C%E5%8F%91%E8%A1%A8%E4%BC%9A1.png" decoding="async" loading="lazy" width="200" height="112" srcset="https://upload.thwiki.cc/thumb/5/5e/Play%2CDoujin%21%E6%96%B0%E4%BD%9C%E5%8F%91%E8%A1%A8%E4%BC%9A1.png/300px-Play%2CDoujin%21%E6%96%B0%E4%BD%9C%E5%8F%91%E8%A1%A8%E4%BC%9A1.png 1.5x, https://upload.thwiki.cc/thumb/5/5e/Play%2CDoujin%21%E6%96%B0%E4%BD%9C%E5%8F%91%E8%A1%A8%E4%BC%9A1.png/400px-Play%2CDoujin%21%E6%96%B0%E4%BD%9C%E5%8F%91%E8%A1%A8%E4%BC%9A1.png 2x" data-file-width="820" data-file-height="461">
+<img alt="" src="https://upload.thwiki.cc/thumb/c/c7/Play%2CDoujin%21%E6%96%B0%E4%BD%9C%E5%8F%91%E8%A1%A8%E4%BC%9A2.png/200px-Play%2CDoujin%21%E6%96%B0%E4%BD%9C%E5%8F%91%E8%A1%A8%E4%BC%9A2.png" decoding="async" loading="lazy" width="200" height="113" srcset="https://upload.thwiki.cc/thumb/c/c7/Play%2CDoujin%21%E6%96%B0%E4%BD%9C%E5%8F%91%E8%A1%A8%E4%BC%9A2.png/300px-Play%2CDoujin%21%E6%96%B0%E4%BD%9C%E5%8F%91%E8%A1%A8%E4%BC%9A2.png 1.5x, https://upload.thwiki.cc/thumb/c/c7/Play%2CDoujin%21%E6%96%B0%E4%BD%9C%E5%8F%91%E8%A1%A8%E4%BC%9A2.png/400px-Play%2CDoujin%21%E6%96%B0%E4%BD%9C%E5%8F%91%E8%A1%A8%E4%BC%9A2.png 2x" data-file-width="820" data-file-height="463">
+<img alt="" src="https://upload.thwiki.cc/thumb/2/25/Play%2CDoujin%21%E6%96%B0%E4%BD%9C%E5%8F%91%E8%A1%A8%E4%BC%9A3.png/200px-Play%2CDoujin%21%E6%96%B0%E4%BD%9C%E5%8F%91%E8%A1%A8%E4%BC%9A3.png" decoding="async" loading="lazy" width="200" height="112" srcset="https://upload.thwiki.cc/thumb/2/25/Play%2CDoujin%21%E6%96%B0%E4%BD%9C%E5%8F%91%E8%A1%A8%E4%BC%9A3.png/300px-Play%2CDoujin%21%E6%96%B0%E4%BD%9C%E5%8F%91%E8%A1%A8%E4%BC%9A3.png 1.5x, https://upload.thwiki.cc/thumb/2/25/Play%2CDoujin%21%E6%96%B0%E4%BD%9C%E5%8F%91%E8%A1%A8%E4%BC%9A3.png/400px-Play%2CDoujin%21%E6%96%B0%E4%BD%9C%E5%8F%91%E8%A1%A8%E4%BC%9A3.png 2x" data-file-width="821" data-file-height="461">
+<img alt="" src="https://upload.thwiki.cc/thumb/a/aa/Play%2CDoujin%21%E6%96%B0%E4%BD%9C%E5%8F%91%E8%A1%A8%E4%BC%9A4.png/200px-Play%2CDoujin%21%E6%96%B0%E4%BD%9C%E5%8F%91%E8%A1%A8%E4%BC%9A4.png" decoding="async" loading="lazy" width="200" height="113" srcset="https://upload.thwiki.cc/thumb/a/aa/Play%2CDoujin%21%E6%96%B0%E4%BD%9C%E5%8F%91%E8%A1%A8%E4%BC%9A4.png/300px-Play%2CDoujin%21%E6%96%B0%E4%BD%9C%E5%8F%91%E8%A1%A8%E4%BC%9A4.png 1.5x, https://upload.thwiki.cc/thumb/a/aa/Play%2CDoujin%21%E6%96%B0%E4%BD%9C%E5%8F%91%E8%A1%A8%E4%BC%9A4.png/400px-Play%2CDoujin%21%E6%96%B0%E4%BD%9C%E5%8F%91%E8%A1%A8%E4%BC%9A4.png 2x" data-file-width="816" data-file-height="462">
+<img alt="PV" src="https://upload.thwiki.cc/thumb/6/65/Play%2CDoujin%21%E6%96%B0%E4%BD%9C%E5%8F%91%E8%A1%A8%E4%BC%9A5.png/200px-Play%2CDoujin%21%E6%96%B0%E4%BD%9C%E5%8F%91%E8%A1%A8%E4%BC%9A5.png" decoding="async" loading="lazy" width="200" height="113" srcset="https://upload.thwiki.cc/thumb/6/65/Play%2CDoujin%21%E6%96%B0%E4%BD%9C%E5%8F%91%E8%A1%A8%E4%BC%9A5.png/300px-Play%2CDoujin%21%E6%96%B0%E4%BD%9C%E5%8F%91%E8%A1%A8%E4%BC%9A5.png 1.5x, https://upload.thwiki.cc/thumb/6/65/Play%2CDoujin%21%E6%96%B0%E4%BD%9C%E5%8F%91%E8%A1%A8%E4%BC%9A5.png/400px-Play%2CDoujin%21%E6%96%B0%E4%BD%9C%E5%8F%91%E8%A1%A8%E4%BC%9A5.png 2x" data-file-width="816" data-file-height="459">
+黄昏边境的演示  
+PV上映结
 : （铃仙的）扭来扭去到底是什么呢？
 海原海豚
 : 这次放出的东方深秘录中每个角色都有一个都市传说，是配合各个角色分担的。
@@ -38,9 +39,8 @@ PV上映
 : 所以新角色铃仙的都市传说就是扭来扭去了，因为狂气的梗。
 海原海豚
 : 有人说和姆明很像，但不是一回事。长得有些像但出处不一样。[^cite_note-1]
-
-[](./文件-Play,Doujin!新作发表会6.png.md)  [](./文件-Play,Doujin!新作发表会6.png.md)追加要素介绍
-海原海豚
+<img alt="" src="https://upload.thwiki.cc/thumb/e/ea/Play%2CDoujin%21%E6%96%B0%E4%BD%9C%E5%8F%91%E8%A1%A8%E4%BC%9A6.png/200px-Play%2CDoujin%21%E6%96%B0%E4%BD%9C%E5%8F%91%E8%A1%A8%E4%BC%9A6.png" decoding="async" loading="lazy" width="200" height="112" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/e/ea/Play%2CDoujin%21%E6%96%B0%E4%BD%9C%E5%8F%91%E8%A1%A8%E4%BC%9A6.png/300px-Play%2CDoujin%21%E6%96%B0%E4%BD%9C%E5%8F%91%E8%A1%A8%E4%BC%9A6.png 1.5x, https://upload.thwiki.cc/thumb/e/ea/Play%2CDoujin%21%E6%96%B0%E4%BD%9C%E5%8F%91%E8%A1%A8%E4%BC%9A6.png/400px-Play%2CDoujin%21%E6%96%B0%E4%BD%9C%E5%8F%91%E8%A1%A8%E4%BC%9A6.png 2x" data-file-width="821" data-file-height="460">
+ [放大](./文件-Play,Doujin!新作发表会6.png.md)追加要素介绍海原海豚
 : 本次移植版将追加铃仙·优昙华院·因幡作为新角色，以及围绕她展开的新剧情：EXTRA模式。
 海原海豚
 : 现在也有弹幕在问有没有其他追加角色，在此明确只有铃仙一个人，新剧情也是从铃仙视角来展开的。
@@ -62,9 +62,8 @@ ZUN
 : 啊哈哈，是因为这次发布移植版本，作品是去年的。这次追加的剧情，正是东方绀珠传之后，东方project世界观里正在进行时的故事。也是东方深秘录事件过后，解释了之后发生了什么的故事。
 ZUN
 : 所谓后日谈，也是有些游戏会做成资料片这样的剧情，这次加在了移植版当中。
-
-[](./文件-Play,Doujin!新作发表会7.png.md)  [](./文件-Play,Doujin!新作发表会7.png.md)关于铃仙的都市传说
-海原海豚
+<img alt="" src="https://upload.thwiki.cc/thumb/2/22/Play%2CDoujin%21%E6%96%B0%E4%BD%9C%E5%8F%91%E8%A1%A8%E4%BC%9A7.png/200px-Play%2CDoujin%21%E6%96%B0%E4%BD%9C%E5%8F%91%E8%A1%A8%E4%BC%9A7.png" decoding="async" loading="lazy" width="200" height="113" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/2/22/Play%2CDoujin%21%E6%96%B0%E4%BD%9C%E5%8F%91%E8%A1%A8%E4%BC%9A7.png/300px-Play%2CDoujin%21%E6%96%B0%E4%BD%9C%E5%8F%91%E8%A1%A8%E4%BC%9A7.png 1.5x, https://upload.thwiki.cc/thumb/2/22/Play%2CDoujin%21%E6%96%B0%E4%BD%9C%E5%8F%91%E8%A1%A8%E4%BC%9A7.png/400px-Play%2CDoujin%21%E6%96%B0%E4%BD%9C%E5%8F%91%E8%A1%A8%E4%BC%9A7.png 2x" data-file-width="824" data-file-height="466">
+ [放大](./文件-Play,Doujin!新作发表会7.png.md)关于铃仙的都市传说海原海豚
 : 铃仙的都市传说是扭来扭去。
 海原海豚
 : 性能大约是像这样把扭来扭去设在画面上，触碰到扭来扭去的射击或者必杀技就会变强，另外敌人如果直视这家伙就会变得发疯而不可收拾，这样的性能吧。
@@ -78,11 +77,9 @@ ZUN
 : 还有打击系的招式啊。
 海原海豚
 : 嗯，所谓攻防一体，一边攻击一边让对手混乱的幻术型角色吧。
-
   
 为什么是铃仙呢
   
-
 海原海豚
 : 我也想听ZUN先生说说，为什么这次是铃仙呢，要是有想法的话一定想问问，拜托拜托。
 ZUN
@@ -97,12 +94,6 @@ ZUN
 : 嗯，地上兔和月兔之间有什么区别，希望也能通过本作展现出来。
 ZUN
 : 以前的铃仙还是月兔，现在铃仙本人更多的觉得自己是一只地上的兔子，希望剧情也能表现出这种感觉。当然剧本已经写完了所以这么说很怪啦。
-
-  
-  
-
-  
-
 结
 : 果然剧情和月亮有关的话，我觉得铃仙参战也很自然啊。
 ZUN
@@ -115,32 +106,15 @@ ZUN
 : 其实这次我也是一边做追加剧情，一边怀疑里面是不是又埋伏了ZUN先生的远大计划。
 ZUN
 : 确实，这次的追加要素绝不只是单纯追加了一个人物剧情的感觉，故事情节应该会让人觉得很有趣的。
-
-
-
-
-[](./文件-Play,Doujin!新作发表会8.png.md)
-
+<img alt="限定版介绍" src="https://upload.thwiki.cc/thumb/4/45/Play%2CDoujin%21%E6%96%B0%E4%BD%9C%E5%8F%91%E8%A1%A8%E4%BC%9A8.png/200px-Play%2CDoujin%21%E6%96%B0%E4%BD%9C%E5%8F%91%E8%A1%A8%E4%BC%9A8.png" decoding="async" loading="lazy" width="200" height="113" srcset="https://upload.thwiki.cc/thumb/4/45/Play%2CDoujin%21%E6%96%B0%E4%BD%9C%E5%8F%91%E8%A1%A8%E4%BC%9A8.png/300px-Play%2CDoujin%21%E6%96%B0%E4%BD%9C%E5%8F%91%E8%A1%A8%E4%BC%9A8.png 1.5x, https://upload.thwiki.cc/thumb/4/45/Play%2CDoujin%21%E6%96%B0%E4%BD%9C%E5%8F%91%E8%A1%A8%E4%BC%9A8.png/400px-Play%2CDoujin%21%E6%96%B0%E4%BD%9C%E5%8F%91%E8%A1%A8%E4%BC%9A8.png 2x" data-file-width="847" data-file-height="477">
 限定版介绍
-
-
-[](./文件-Play,Doujin!新作发表会9.png.md)
-
-
-
-
+<img alt="" src="https://upload.thwiki.cc/thumb/3/3a/Play%2CDoujin%21%E6%96%B0%E4%BD%9C%E5%8F%91%E8%A1%A8%E4%BC%9A9.png/200px-Play%2CDoujin%21%E6%96%B0%E4%BD%9C%E5%8F%91%E8%A1%A8%E4%BC%9A9.png" decoding="async" loading="lazy" width="200" height="113" srcset="https://upload.thwiki.cc/thumb/3/3a/Play%2CDoujin%21%E6%96%B0%E4%BD%9C%E5%8F%91%E8%A1%A8%E4%BC%9A9.png/300px-Play%2CDoujin%21%E6%96%B0%E4%BD%9C%E5%8F%91%E8%A1%A8%E4%BC%9A9.png 1.5x, https://upload.thwiki.cc/thumb/3/3a/Play%2CDoujin%21%E6%96%B0%E4%BD%9C%E5%8F%91%E8%A1%A8%E4%BC%9A9.png/400px-Play%2CDoujin%21%E6%96%B0%E4%BD%9C%E5%8F%91%E8%A1%A8%E4%BC%9A9.png 2x" data-file-width="818" data-file-height="462">
 海原海豚
 : CD封面是春河的新作插图，本次制作PS4版时添加的新曲预计会全部收录在里面。
 结
 : 刚刚ZUN先生说到铃仙被优待，在这个封面上也真是洋洋得意啊。
 ZUN
 : 估计会很弱啦，很难操作的……
-
-  
-  
-
-  
-
 结
 : 刚刚宣传视频里的“Occult a la carte”也收录在内吗？
 海原海豚
@@ -149,21 +123,13 @@ ZUN
 : CD还没有做好呢，现在开始才会决定是不是要加什么曲子。
 海原海豚
 : 说到底现在ZUN先生才开始要（
-
-[](./文件-Play,Doujin!新作发表会10.png.md)  [](./文件-Play,Doujin!新作发表会10.png.md)关于深秘录摇杆控制器发售
-ZUN
+<img alt="" src="https://upload.thwiki.cc/thumb/6/6a/Play%2CDoujin%21%E6%96%B0%E4%BD%9C%E5%8F%91%E8%A1%A8%E4%BC%9A10.png/200px-Play%2CDoujin%21%E6%96%B0%E4%BD%9C%E5%8F%91%E8%A1%A8%E4%BC%9A10.png" decoding="async" loading="lazy" width="200" height="112" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/6/6a/Play%2CDoujin%21%E6%96%B0%E4%BD%9C%E5%8F%91%E8%A1%A8%E4%BC%9A10.png/300px-Play%2CDoujin%21%E6%96%B0%E4%BD%9C%E5%8F%91%E8%A1%A8%E4%BC%9A10.png 1.5x, https://upload.thwiki.cc/thumb/6/6a/Play%2CDoujin%21%E6%96%B0%E4%BD%9C%E5%8F%91%E8%A1%A8%E4%BC%9A10.png/400px-Play%2CDoujin%21%E6%96%B0%E4%BD%9C%E5%8F%91%E8%A1%A8%E4%BC%9A10.png 2x" data-file-width="824" data-file-height="462">
+ [放大](./文件-Play,Doujin!新作发表会10.png.md)关于深秘录摇杆控制器发售ZUN
 : （因为在PC上也能用）觉得PS4太贵的人买来也可以用哦。
-
-  
-  
-
-  
-
 ZUN
 : 不知道说起来会不会有点脱线，挺久以前接受过瑞典的某杂志的采访。
 ZUN
 : 拿到杂志以后，发现一起上了杂志的就是制作了HORI自动连射机（俺Commander）的堀君。
-
   
   
 
@@ -171,10 +137,8 @@ ZUN
 
 AQUASTYLE的演示
   
-
 ZUN
 : 好想吐槽啊，特典真是像Galgame一样多啊。
-
   
   
 
@@ -189,16 +153,13 @@ CUBETYPE的演示
 
 关于过去作品移植的问题。
   
-
 ZUN
 : 要是能移植Mega-Marisa就好了。
-
   
   
 
 1:37～	关于在niconico上传和直播游戏视频
   
-
 
 <table>
 <tbody><tr>
@@ -209,7 +170,6 @@ ZUN
 </tr>
 </tbody></table>
 
-
 伴
 : 说到底神主对直播是怎么看的？很多播主和ZUN先生也有交流，对他们的印象如何呢？
 ZUN
@@ -218,12 +178,6 @@ ZUN
 : 嗯嗯，所以请大家随意，这样的？
 ZUN
 : 解说很有趣所以没关系，如果很枯燥的话还是有点尴尬，哈哈。
-
-  
-  
-
-  
-
 
 <table>
 <tbody><tr>
@@ -234,7 +188,6 @@ ZUN
 </tr>
 </tbody></table>
 
-
 ZUN
 : （在niconico上传东方的视频赚钱）我觉得这大概和画同人赚钱没有任何区别。
 ZUN
@@ -243,20 +196,8 @@ ZUN
 : 在niconico的制度里面，有一种叫“育儿补贴”的奖励创作者的制度。一个作品上传的时候可以把有关的作品登记成为“母作品”，当“子作品”获得奖励的时候会连带着分给母作品一部分。
 ZUN
 : 当时听了这个介绍，所以第二个表情是“谢谢”。我也能拿到啊。
-
-  
-  
-
-  
-
 ZUN
 : 很多二次创作或者视频拿钱会被批判，估计是因为没有得到允许。那既然我也能拿到一份的话，这样的批判就应该不是问题了。
-
-  
-  
-
-  
-
 
 <table>
 <tbody><tr>
@@ -266,7 +207,6 @@ ZUN
 <td><b>ZUN</b></td><td>会从现在开始给准备这类视频</td>
 </tr>
 </tbody></table>
-
 
 ZUN
 : 我上传视频以后，估计大家比我更熟悉手续吧。二次创作的时候把这个视频登记成母作品就好了吧。
@@ -280,24 +220,12 @@ ZUN
 : 二十次创作？
 伴
 : 任何与作品有关系的视频，只要愿意都可以结成亲子关系。另外被登记的母作品可以“断绝关系”。
-
-  
-  
-
-  
-
 ZUN
 : （东方二次创作的直播）那是需要二次作者的许可的。
 ZUN
 : 即使东方project认为没问题的事情，如果二次创作的作者表明不可以任意使用，那应该尊重作者的意见。
 ZUN
 : 各个作品估计有不少禁区，关于这些到时候请咨询各自的母作品。
-
-  
-  
-
-  
-
 伴
 : 那虽然以前也没有谁阻止，从现在起，大家算是得到正式认可了。
 ZUN
@@ -312,19 +240,12 @@ ZUN
 : 以前难道不同意吗？
 ZUN
 : 不过确实（作为原作者）也会在意，特别是想到正式许可的影响力，就有点想保留意见再看看情况吧。
-
-  
-  
-
-  
-
 ZUN
 : 如上所述，解说视频没有问题。
 ZUN
 : 嗯，反正大家里面也没有觉得有问题的人吧。
 ZUN
 : 会这么想的只有某某警察这类人吧。
-
   
   
 
@@ -332,10 +253,8 @@ ZUN
 
 ヨイヤミドリーマー（TripperRoom）、まりさとアリスのトラップタワー！（ですの屋）等等。
   
-
 ZUN
 : 这些二次创作的游戏也不错，但希望大家都来买深秘录啊。
-
   
   
 
@@ -344,167 +263,70 @@ ZUN
   
 1:59～	白金会员限定：庆功会、提问环节
   
-
 Q
 : 创作有瓶颈期吗？有的话会怎样度过呢？
 A
 : 瓶颈期啊……每天都是瓶颈期啊。瓶颈期来的太自然都已经分不清楚了。只有绞尽脑汁去想吧，借着酒劲。
-
-  
-  
-
-  
-
 Q
 : 每天用多少时间在创作活动上呢？
 A
 : 平均吗？不是很清楚，忙的时候……不过最近并不长，正在努力提升效率，尽量缩短每天的工作时间。嗯八小时左右吧。
-
-  
-  
-
-  
-
 Q
 : 这次想去长野县旅行，请告诉我ZUN先生推荐的景点。
 A
 : 白马是好地方，去白马的话其实夏天也很好（白马是滑雪胜地）。夏天的山很美。
-
-  
-  
-
-  
-
 Q
 : ZUN先生的座右铭是什么？
 A
 : 出来混总是要还的。[^cite_note-2]
-
-  
-  
-
-  
-
 Q
 : 喝过冲绳的Orion啤酒和泡盛酒吗？
 A
 : 喝过喝过。
-
-  
-  
-
-  
-
 Q
 : 总觉得最近的破衣立绘尺度变小了，下期作品会不会破的厉害一些？
 A
 : 现在的玩家群体变年轻了嘛……而且像有些游戏的SR或者UR卡片很华丽但是露肉很多，这种事情我是真不想做。
-
-  
-  
-
-  
-
 Q
 : 我是大学在校生，比您年轻二十岁。五年之内我想制作自己的游戏，到时候如果ZUN先生允许想亲手送给您，不知道ZUN先生会不会接受？
 A
 : 五年之内太晚了，请一年之内搞定。
-
-  
-  
-
-  
-
 Q
 : 不可思议的幻想乡里给东方的角色配了音，ZUN先生有在原作系列里加入语音的计划吗？
 A
 : 总之不讨厌给角色配声音这样的。
-
-  
-  
-
-  
-
 Q
 : ZUN先生买了PS4吗？
 A
 : 买了啊。买的是DQ的金属史莱姆限定版，那个变种金属史莱姆的。[^cite_note-3]
-
-  
-  
-
-  
-
 Q
 : 作品标题为什么是东方呢？
 A
 : 这个问题只能问大学时代的我……
-
-  
-  
-
-  
-
 Q
 : 今后想怎样发展Play,Doujin计划呢？
 A
 : 我对Play,Doujin很无所谓啊。也没有在上面推出新作的计划啦。
-
-  
-  
-
-  
-
 Q
 : 初为人父对ZUN先生制作游戏有什么影响吗？比如会不会有些表现育儿艰难的符卡？
 A
 : 不是没有影响。包括孩子在内，我平时的生活基本都会反映在游戏里。生活中有越多吃惊或者有趣的事情，游戏也就会越有趣。现在正积攒了不少这种生活经验，所以我觉得下期作品会很有意思的。生活虽然有很多难处，但仍然很开心，而且能反映到创作活动上，岂不妙哉。
-
-  
-  
-
-  
-
 Q
 : 为什么想到了要卖LINE表情？
 A
 : 可以说真心话嘛？说实话，有人未经许可就出了东方类的表情包，在网上也引起争议。这话再说下去LINE公司就要生气了所以还是打住吧。既然有私自出的，那还不如我来做一个。正好也有这样的希望，所以觉得是时候了。
-
-  
-  
-
-  
-
 Q
 : ZUN先生创作的角色里面，构想起来最费劲的是哪一个？
 A
 : 现在回头再看？……没有（费劲的）。
-
-  
-  
-
-  
-
 Q
 : ZUN先生自己有没有在PS4上出什么游戏的想法？
 A
 : 等到我出游戏的时候PS4已经不存在了吧。
-
-  
-  
-
-  
-
 Q
 : 我是喜欢东方的同人作者，怎么才能拿到和公式有关的工作呢？
 A
 : 拿给编辑看就行了吧？请加油哦。不过结果如何我是不知道啦。先拿给出版社，如果作品实在是好那还有些可能性。
-
-  
-  
-
-  
-
 Q
 : 作一首曲子大约花多少时间呢？作曲的时候是怎样思考的呢？
 A
@@ -521,12 +343,6 @@ ZUN
 : 顺便一提，不知道现在说合不合适，但是我喜欢空白少女。
 ZUN
 : 啊啊，好啊好啊。所以是这身打扮啊。[^cite_note-4]
-
-  
-  
-
-  
-
 Q
 : 东方Project里面有很多个性丰富的居民，像妖怪呀神仙呀。登场人物基本都有传说作为原型，那我的问题是ZUN先生会经常去和这些传说有关的地方吗？
 A
@@ -535,24 +351,20 @@ A
 : 会想去月亮吗？
 ZUN
 : 想啊。能去的话还是想去啊。火星也行啊。
-
   
   
 
 2:15～	反省会、黑衣人的真实身份（是U2）
   
-
 结
 : 在电击杂志的采访上看到大家的访谈，里面有很多人说到是先知道二次创作之后才接触东方原作的。不知道ZUN先生听到这些是什么感想。我觉得大家能公开说是这样喜欢上东方的，一定是知道ZUN先生不介意。其实我也是这类人中的一员，很想直接问问神主被这么说的时候会怎么想。
 ZUN
 : 我也不知道二次创作的作者们是觉得有些内疚呢，还是觉得是在替东方做宣传呢，但是有些作者会介意我也是理解的。不过，作为一个创作者，自己的粉丝进行二次创作没有不高兴的道理。我觉得自己做过游戏或者其他什么作品的人，肯定会这么想。再小再无聊的二次创作也是让我很高兴的啊。会去做二次创作，说明是喜欢我的作品。那在此之上，不管是不是二次，能有更多人接触到东方，是特别高兴的事。只有我自己的作品，肯定不会有现在的同人规模。这么说来，虽然二次创作的作者可能也不会觉得我们在宣传东方，其实就是这样啊。没有他们的努力东方不会变得这么大。
-
   
   
 
 2:24～	最后一人一句话
   
-
 U2
 : 现在正在写PS版东方深秘录的曲子，请多多关照。
 ZUN
@@ -563,15 +375,9 @@ ZUN
 : 最坏的情况只有我去写了。
 ZUN
 : 说明一下，追加角色铃仙的曲子本来是计划让Mario写的。
-
   
 （众人大惊：“本来？”黄昏辟谣：“Mario正在写！正在！写了一半了！”）
   
-  
-  
-
-  
-
 ZUN
 : 嗯，虽然听起来有点怪，Play,Doujin在我心中是留下同人游戏文化的唯一办法。
 ZUN
@@ -588,17 +394,13 @@ ZUN
 : 那这么说来，我想在座的人都是敏锐地抓住了一点时代的潮流。在游戏产业里还有很多看不到时代变化的人，所以会失败啦。
 ZUN
 : 嗯，现在是这么评价的，但是一定要注意的是继续发展几年以后的情况。可能也要不了几年，明年Play,Doujin的情况可能也就不一样了，到时候跟不上变化或者固执己见的人，我会毫不留情地抛弃，希望大家牢记这一点。
-
   
 2:33	全员一拍手，直播结束。
   
-
-
 [^cite_note-1]: 扭来扭去是日本都市传说，色白会扭曲蠕动；姆明是芬兰作家笔下的奇幻生物。
-
-
-
-
+[^cite_note-2]: 人を呪わば穴二つ
+[^cite_note-3]: 玩的什么游戏无可奉告
+[^cite_note-4]: 大概是和风神少女搞混了。
 
 ---
 

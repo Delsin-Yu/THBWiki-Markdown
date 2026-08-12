@@ -1,12 +1,8 @@
 # 文件:Attrielectrock_banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4c\ns6%3AAttrielectrock_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4c\ns6%3AAttrielectrock_banner%2Ejpg.html -->
 
 Attrielectrock | 社团LOGO
-
-
-
-
 
 
 ---

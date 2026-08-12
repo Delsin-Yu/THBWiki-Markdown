@@ -1,16 +1,11 @@
 # 文件:平成懐元堂logo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d6\ns6%3A%E5%B9%B3%E6%88%90%E6%87%90%E5%85%83%E5%A0%82logo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d6\ns6%3A%E5%B9%B3%E6%88%90%E6%87%90%E5%85%83%E5%A0%82logo%2Ejpg.html -->
 
 平成懐元堂 | 社团LOGO
 
   
-源地址：[[1]](https://pbs.twimg.com/profile_images/1035530773334376449/3C8fR6Qs_400x400.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://pbs.twimg.com/profile_images/1035530773334376449/3C8fR6Qs_400x400.jpg)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:Go_Slip!封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cc\ns6%3AGo_Slip%21%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cc\ns6%3AGo_Slip%21%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 歌恋人
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Go Slip!](./Go_Slip!.md)  
-该封面包含的角色：- [霍青娥](./霍青娥.md)
+- [Go Slip!](./Go_Slip!.md)该封面包含的角色：
+- [霍青娥](./霍青娥.md)
 
   
-源地址：[[1]](http://www.karento.net/goslip/img/jacket.png)
-  
-
-
-
-
+源地址：[\[1\]](http://www.karento.net/goslip/img/jacket.png)  
 
 ---
 

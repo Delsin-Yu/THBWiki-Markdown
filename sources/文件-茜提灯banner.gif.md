@@ -1,16 +1,11 @@
 # 文件:茜提灯banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ef\ns6%3A%E8%8C%9C%E6%8F%90%E7%81%AFbanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ef\ns6%3A%E8%8C%9C%E6%8F%90%E7%81%AFbanner%2Egif.html -->
 
 社团LOGO | 茜提灯
 
   
-源地址：[[1]](http://file.nitoribass.blog.shinobi.jp/LinkImg/1271793770/)
-  
-
-
-
-
+源地址：[\[1\]](http://file.nitoribass.blog.shinobi.jp/LinkImg/1271793770/)  
 
 ---
 

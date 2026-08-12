@@ -1,6 +1,6 @@
 # 文件:Cyber_Collapse_Vol.2封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9e\ns6%3ACyber_Collapse_Vol%2E2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9e\ns6%3ACyber_Collapse_Vol%2E2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Structure_Sound | 专辑封面 | 封面图片
 
@@ -10,11 +10,9 @@ Structure_Sound | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Cyber Collapse Vol.2](./Cyber_Collapse_Vol.2.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [八云紫](./八云紫.md)
-
-
-
+- [Cyber Collapse Vol.2](./Cyber_Collapse_Vol.2.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [八云紫](./八云紫.md)
 
 
 ---

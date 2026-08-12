@@ -1,14 +1,11 @@
 # 文件:锡器燃（EX面）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\85\ns6%3A%E9%94%A1%E5%99%A8%E7%87%83%EF%BC%88EX%E9%9D%A2%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\85\ns6%3A%E9%94%A1%E5%99%A8%E7%87%83%EF%BC%88EX%E9%9D%A2%EF%BC%89%2Epng.html -->
 
 二次角色立绘 | 锡器燃 | 雛鳥クロニクル
 
 
 ## 摘要
-
-
-
 
 ---
 

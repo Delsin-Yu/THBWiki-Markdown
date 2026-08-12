@@ -1,6 +1,6 @@
 # 文件:To_Clear_The_Discord_From_My_Heart封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3d\ns6%3ATo_Clear_The_Discord_From_My_Heart%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3d\ns6%3ATo_Clear_The_Discord_From_My_Heart%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 DHS | 专辑封面 | 封面图片
 
@@ -13,12 +13,7 @@ DHS | 专辑封面 | 封面图片
 - [To Clear The Discord From My Heart](./To_Clear_The_Discord_From_My_Heart.md)
 
   
-源地址：[direct image link (original size)](https://i1.sndcdn.com/artworks-000069034516-94gftf-original.jpg), [source page (Soundcloud)](https://soundcloud.com/battaaaaaaaaaa/dhs-new-song-to-clear-the)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://i1.sndcdn.com/artworks-000069034516-94gftf-original.jpg), [source page (Soundcloud)](https://soundcloud.com/battaaaaaaaaaa/dhs-new-song-to-clear-the)  
 
 ---
 

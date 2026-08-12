@@ -1,16 +1,12 @@
 # 模板:SSMAS
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\2\28\ns10%3ASSMAS.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\2\28\ns10%3ASSMAS.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

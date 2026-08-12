@@ -1,6 +1,6 @@
 # 文件:candybug封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\91\ns6%3Acandybug%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\91\ns6%3Acandybug%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 D'va;;;;;;;;;;;5 | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ D'va;;;;;;;;;;;5 | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [candybug](./candybug.md)  
-该封面包含的角色：- [莉格露·奈特巴格](./莉格露·奈特巴格.md)
+- [candybug](./candybug.md)该封面包含的角色：
+- [莉格露·奈特巴格](./莉格露·奈特巴格.md)
 
   
-源地址：[[1]](http://www5.pf-x.net/~malie/img/candybug.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://www5.pf-x.net/~malie/img/candybug.jpg)  
 
 ---
 

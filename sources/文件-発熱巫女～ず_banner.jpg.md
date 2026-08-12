@@ -1,12 +1,8 @@
 # 文件:発熱巫女～ず_banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\59\ns6%3A%E7%99%BA%E7%86%B1%E5%B7%AB%E5%A5%B3%EF%BD%9E%E3%81%9A_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\59\ns6%3A%E7%99%BA%E7%86%B1%E5%B7%AB%E5%A5%B3%EF%BD%9E%E3%81%9A_banner%2Ejpg.html -->
 
 発熱巫女～ず | 社团LOGO
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:東方deRO！封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\aa\ns6%3A%E6%9D%B1%E6%96%B9deRO%EF%BC%81%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\aa\ns6%3A%E6%9D%B1%E6%96%B9deRO%EF%BC%81%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 和がらし屋 | 封面图片
 
@@ -10,11 +10,15 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方deRO！](./東方deRO！.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [蓬莱山辉夜](./蓬莱山辉夜.md)- [射命丸文](./射命丸文.md)- [伊吹萃香](./伊吹萃香.md)- [犬走椛](./犬走椛.md)- [东风谷早苗](./东风谷早苗.md)- [雾雨魔理沙](./雾雨魔理沙.md)- [姬海棠果](./姬海棠果.md)
-
-
-
+- [東方deRO！](./東方deRO！.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [蓬莱山辉夜](./蓬莱山辉夜.md)
+- [射命丸文](./射命丸文.md)
+- [伊吹萃香](./伊吹萃香.md)
+- [犬走椛](./犬走椛.md)
+- [东风谷早苗](./东风谷早苗.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
+- [姬海棠果](./姬海棠果.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:RAVER'S_NEST_BEST_2014_TOHO_HYPER_RAVE封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\91\ns6%3ARAVER%27S_NEST_BEST_2014_TOHO_HYPER_RAVE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\91\ns6%3ARAVER%27S_NEST_BEST_2014_TOHO_HYPER_RAVE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 DiGiTAL_WiNG | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ DiGiTAL_WiNG | 专辑封面 | 封面图片
   
 
 - [RAVER'S NEST BEST 2014 TOHO HYPER RAVE](./RAVER'S_NEST_BEST_2014_TOHO_HYPER_RAVE.md)
-
-
-
 
 
 ---

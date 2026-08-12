@@ -1,34 +1,27 @@
 # 東方夢終劇_～_Concealed_the_Conclusion/符卡/Stage_2A
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\a\a2\ns0%3A%E6%9D%B1%E6%96%B9%E5%A4%A2%E7%B5%82%E5%8A%87_%EF%BD%9E_Concealed_the_Conclusion%2F%E7%AC%A6%E5%8D%A1%2FStage_2A.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\a\a2\ns0%3A%E6%9D%B1%E6%96%B9%E5%A4%A2%E7%B5%82%E5%8A%87_%EF%BD%9E_Concealed_the_Conclusion%2F%E7%AC%A6%E5%8D%A1%2FStage_2A.html -->
 
 Danmaq | 含有受损文件链接的页面
 
 <center>
-
 <table>
 <tbody><tr>
-<td>&lt;
+<td><
 </td>
-<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./東方夢終劇_～_Concealed_the_Conclusion-符卡-Stage_1A.md" title="東方夢終劇 ～ Concealed the Conclusion/符卡/Stage 1A">Stage 1A</a>&#160;
+<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./東方夢終劇_～_Concealed_the_Conclusion-符卡-Stage_1A.md" title="東方夢終劇 ～ Concealed the Conclusion/符卡/Stage 1A">Stage 1A</a> 
 </td>
-<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="./東方夢終劇_～_Concealed_the_Conclusion-符卡.md" title="東方夢終劇 ～ Concealed the Conclusion/符卡">符卡</a>&#160;
+<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;"> <a href="./東方夢終劇_～_Concealed_the_Conclusion-符卡.md" title="東方夢終劇 ～ Concealed the Conclusion/符卡">符卡</a> 
 </td>
-<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left">&#160;<a href="./東方夢終劇_～_Concealed_the_Conclusion-符卡-Stage_3A.md" title="東方夢終劇 ～ Concealed the Conclusion/符卡/Stage 3A">Stage 3A</a>
+<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left"> <a href="./東方夢終劇_～_Concealed_the_Conclusion-符卡-Stage_3A.md" title="東方夢終劇 ～ Concealed the Conclusion/符卡/Stage 3A">Stage 3A</a>
 </td>
-<td>&gt;
+<td>>
 </td></tr></tbody></table>
 
   
 </center>
-  
-  
-
-  
-
-
 <table>
-<tbody><tr><td width="80">符卡编号</td><td width="400">014</td><td rowspan="6" width="120"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%BB%88%E5%89%A7%E7%AC%A6%E5%8D%A1014.jpg" class="new" title="文件:东方梦终剧符卡014.jpg">文件:东方梦终剧符卡014.jpg</a></td></tr>
+<tbody><tr><td width="80">符卡编号</td><td width="400">014</td><td rowspan="6" width="120"><a class="new" title="文件:东方梦终剧符卡014.jpg">文件:东方梦终剧符卡014.jpg</a></td></tr>
 <tr><td>符卡原名</td><td>剣符「戦慄の伏線 ～ Easy」</td></tr><tr><td>符卡译名</td><td>剑符「战栗的伏线 ～ Easy」</td></tr><tr><td>出现位置</td><td>Stage 2A
  - Easy（十六夜咲夜）</td></tr><tr><td>说明文本</td><td>超能力者の使う短剣術。
 <p>時間停止により単なる投げナイフを美しく見える
@@ -41,14 +34,8 @@ Danmaq | 含有受损文件链接的页面
 重点更在「魅杀」上。</td></tr></tbody></table>
 
 
-  
-  
-
-  
-
-
 <table>
-<tbody><tr><td width="80">符卡编号</td><td width="400">015</td><td rowspan="6" width="120"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%BB%88%E5%89%A7%E7%AC%A6%E5%8D%A1015.jpg" class="new" title="文件:东方梦终剧符卡015.jpg">文件:东方梦终剧符卡015.jpg</a></td></tr>
+<tbody><tr><td width="80">符卡编号</td><td width="400">015</td><td rowspan="6" width="120"><a class="new" title="文件:东方梦终剧符卡015.jpg">文件:东方梦终剧符卡015.jpg</a></td></tr>
 <tr><td>符卡原名</td><td>剣符「戦慄の伏線」</td></tr><tr><td>符卡译名</td><td>剑符「战栗的伏线」</td></tr><tr><td>出现位置</td><td>Stage 2A
  - Normal（十六夜咲夜）</td></tr><tr><td>说明文本</td><td>超能力者の使う短剣術。
 <p>本来は目の前に大量の剣を出す技なのだが、
@@ -61,14 +48,8 @@ Danmaq | 含有受损文件链接的页面
 就丢掉性命，于是便做了些原创的改变。</td></tr></tbody></table>
 
 
-  
-  
-
-  
-
-
 <table>
-<tbody><tr><td width="80">符卡编号</td><td width="400">016</td><td rowspan="6" width="120"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%BB%88%E5%89%A7%E7%AC%A6%E5%8D%A1016.jpg" class="new" title="文件:东方梦终剧符卡016.jpg">文件:东方梦终剧符卡016.jpg</a></td></tr>
+<tbody><tr><td width="80">符卡编号</td><td width="400">016</td><td rowspan="6" width="120"><a class="new" title="文件:东方梦终剧符卡016.jpg">文件:东方梦终剧符卡016.jpg</a></td></tr>
 <tr><td>符卡原名</td><td>剣符「戦慄の伏線 ～ Hard」</td></tr><tr><td>符卡译名</td><td>剑符「战栗的伏线 ～ Hard」</td></tr><tr><td>出现位置</td><td>Stage 2A
  - Hard（十六夜咲夜）</td></tr><tr><td>说明文本</td><td>超能力者の使う短剣術。
 <p>垂直落下するナイフに合わせ、血の雨の演出が
@@ -81,14 +62,8 @@ Danmaq | 含有受损文件链接的页面
 就只有施术者而已。</td></tr></tbody></table>
 
 
-  
-  
-
-  
-
-
 <table>
-<tbody><tr><td width="80">符卡编号</td><td width="400">017</td><td rowspan="6" width="120"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%BB%88%E5%89%A7%E7%AC%A6%E5%8D%A1017.jpg" class="new" title="文件:东方梦终剧符卡017.jpg">文件:东方梦终剧符卡017.jpg</a></td></tr>
+<tbody><tr><td width="80">符卡编号</td><td width="400">017</td><td rowspan="6" width="120"><a class="new" title="文件:东方梦终剧符卡017.jpg">文件:东方梦终剧符卡017.jpg</a></td></tr>
 <tr><td>符卡原名</td><td>剣符「戦慄の伏線 ～ Lunatic」</td></tr><tr><td>符卡译名</td><td>剑符「战栗的伏线 ～ Lunatic」</td></tr><tr><td>出现位置</td><td>Stage 2A
  - Lunatic（十六夜咲夜）</td></tr><tr><td>说明文本</td><td>超能力者の使う短剣術。
 <p>「魅せて殺す」の要素をより強化するために
@@ -101,14 +76,8 @@ Danmaq | 含有受损文件链接的页面
 但是怎样都不够潇洒所以就放弃了。</td></tr></tbody></table>
 
 
-  
-  
-
-  
-
-
 <table>
-<tbody><tr><td width="80">符卡编号</td><td width="400">018</td><td rowspan="6" width="120"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%BB%88%E5%89%A7%E7%AC%A6%E5%8D%A1018.jpg" class="new" title="文件:东方梦终剧符卡018.jpg">文件:东方梦终剧符卡018.jpg</a></td></tr>
+<tbody><tr><td width="80">符卡编号</td><td width="400">018</td><td rowspan="6" width="120"><a class="new" title="文件:东方梦终剧符卡018.jpg">文件:东方梦终剧符卡018.jpg</a></td></tr>
 <tr><td>符卡原名</td><td>呪符「ツェペシュ·ヴィジョン ～ Easy」</td></tr><tr><td>符卡译名</td><td>咒符「特佩斯幻影 ～ Easy」</td></tr><tr><td>出现位置</td><td>Stage 2A
  - Easy（蕾米莉亚·斯卡蕾特）</td></tr><tr><td>说明文本</td><td>精神に作用し、串刺しの幻視を与える。
 <p>発生する弾幕も全て幻だが、仮想体験という物は
@@ -119,14 +88,8 @@ Danmaq | 含有受损文件链接的页面
 东西只要本人发现不了就是实际体验了。</td></tr></tbody></table>
 
 
-  
-  
-
-  
-
-
 <table>
-<tbody><tr><td width="80">符卡编号</td><td width="400">019</td><td rowspan="6" width="120"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%BB%88%E5%89%A7%E7%AC%A6%E5%8D%A1019.jpg" class="new" title="文件:东方梦终剧符卡019.jpg">文件:东方梦终剧符卡019.jpg</a></td></tr>
+<tbody><tr><td width="80">符卡编号</td><td width="400">019</td><td rowspan="6" width="120"><a class="new" title="文件:东方梦终剧符卡019.jpg">文件:东方梦终剧符卡019.jpg</a></td></tr>
 <tr><td>符卡原名</td><td>呪符「ツェペシュ·ヴィジョン」</td></tr><tr><td>符卡译名</td><td>咒符「特佩斯幻影」</td></tr><tr><td>出现位置</td><td>Stage 2A
  - Normal（蕾米莉亚·斯卡蕾特）</td></tr><tr><td>说明文本</td><td>精神に作用し、串刺しの幻視を与える。
 <p>幻視ではなく普通に攻撃すれば……と言う話も
@@ -139,14 +102,8 @@ Danmaq | 含有受损文件链接的页面
 只是一次性限制大群敌人的行动。</td></tr></tbody></table>
 
 
-  
-  
-
-  
-
-
 <table>
-<tbody><tr><td width="80">符卡编号</td><td width="400">020</td><td rowspan="6" width="120"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%BB%88%E5%89%A7%E7%AC%A6%E5%8D%A1020.jpg" class="new" title="文件:东方梦终剧符卡020.jpg">文件:东方梦终剧符卡020.jpg</a></td></tr>
+<tbody><tr><td width="80">符卡编号</td><td width="400">020</td><td rowspan="6" width="120"><a class="new" title="文件:东方梦终剧符卡020.jpg">文件:东方梦终剧符卡020.jpg</a></td></tr>
 <tr><td>符卡原名</td><td>呪符「ツェペシュ·ヴィジョン ～ Hard」</td></tr><tr><td>符卡译名</td><td>咒符「特佩斯幻影 ～ Hard」</td></tr><tr><td>出现位置</td><td>Stage 2A
  - Hard（蕾米莉亚·斯卡蕾特）</td></tr><tr><td>说明文本</td><td>精神に作用し、串刺しの幻視を与える。
 <p>彼女ならその気になれば本当に串刺し出来る筈
@@ -159,14 +116,8 @@ Danmaq | 含有受损文件链接的页面
 还是说她已经看到命运了呢？</td></tr></tbody></table>
 
 
-  
-  
-
-  
-
-
 <table>
-<tbody><tr><td width="80">符卡编号</td><td width="400">021</td><td rowspan="6" width="120"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%BB%88%E5%89%A7%E7%AC%A6%E5%8D%A1021.jpg" class="new" title="文件:东方梦终剧符卡021.jpg">文件:东方梦终剧符卡021.jpg</a></td></tr>
+<tbody><tr><td width="80">符卡编号</td><td width="400">021</td><td rowspan="6" width="120"><a class="new" title="文件:东方梦终剧符卡021.jpg">文件:东方梦终剧符卡021.jpg</a></td></tr>
 <tr><td>符卡原名</td><td>呪符「ツェペシュ·ヴィジョン ～ Lunatic」</td></tr><tr><td>符卡译名</td><td>咒符「特佩斯幻影 ～ Lunatic」</td></tr><tr><td>出现位置</td><td>Stage 2A
  - Lunatic（蕾米莉亚·斯卡蕾特）</td></tr><tr><td>说明文本</td><td>精神に作用し、串刺しの幻視を与える。
 <p>生きたままで焼き鳥な気分が味わえるらしいので、
@@ -177,15 +128,9 @@ Danmaq | 含有受损文件链接的页面
 说不定对那只夜雀特别有效果。</td></tr></tbody></table>
 
 
-  
-  
-
-  
-
-
 <table>
-<tbody><tr><td width="80">符卡编号</td><td width="400">022</td><td rowspan="6" width="120"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%BB%88%E5%89%A7%E7%AC%A6%E5%8D%A1022.jpg" class="new" title="文件:东方梦终剧符卡022.jpg">文件:东方梦终剧符卡022.jpg</a></td></tr>
-<tr><td>符卡原名</td><td>紅雫「エリュシオンに血の雨 ～ Easy」</td></tr><tr><td>符卡译名</td><td>红雫「在乐土中洒下血雨 ～ Easy」<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">1</a></sup></td></tr><tr><td>出现位置</td><td>Stage 2A
+<tbody><tr><td width="80">符卡编号</td><td width="400">022</td><td rowspan="6" width="120"><a class="new" title="文件:东方梦终剧符卡022.jpg">文件:东方梦终剧符卡022.jpg</a></td></tr>
+<tr><td>符卡原名</td><td>紅雫「エリュシオンに血の雨 ～ Easy」</td></tr><tr><td>符卡译名</td><td>红雫「在乐土中洒下血雨 ～ Easy」<span>[^cite_note-1]</span></td></tr><tr><td>出现位置</td><td>Stage 2A
  - Easy（蕾米莉亚·斯卡蕾特）</td></tr><tr><td>说明文本</td><td>弾幕による血の雨がかつての惨劇を呼び覚ます。
 <p>しかしエリュシオンは500年よりも遥かに昔話
 </p>
@@ -195,14 +140,8 @@ Danmaq | 含有受损文件链接的页面
 过去的故事。为什么她会知道呢？</td></tr></tbody></table>
 
 
-  
-  
-
-  
-
-
 <table>
-<tbody><tr><td width="80">符卡编号</td><td width="400">023</td><td rowspan="6" width="120"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%BB%88%E5%89%A7%E7%AC%A6%E5%8D%A1023.jpg" class="new" title="文件:东方梦终剧符卡023.jpg">文件:东方梦终剧符卡023.jpg</a></td></tr>
+<tbody><tr><td width="80">符卡编号</td><td width="400">023</td><td rowspan="6" width="120"><a class="new" title="文件:东方梦终剧符卡023.jpg">文件:东方梦终剧符卡023.jpg</a></td></tr>
 <tr><td>符卡原名</td><td>紅雫「エリュシオンに血の雨」</td></tr><tr><td>符卡译名</td><td>红雫「在乐土中洒下血雨」</td></tr><tr><td>出现位置</td><td>Stage 2A
  - Normal（蕾米莉亚·斯卡蕾特）</td></tr><tr><td>说明文本</td><td>弾幕による血の雨がかつての惨劇を呼び覚ます。
 <p>しかしエリュシオンは500年よりも遥かに昔話
@@ -213,14 +152,8 @@ Danmaq | 含有受损文件链接的页面
 过去的故事。我怀疑她是在打马虎眼。(ry</td></tr></tbody></table>
 
 
-  
-  
-
-  
-
-
 <table>
-<tbody><tr><td width="80">符卡编号</td><td width="400">024</td><td rowspan="6" width="120"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%BB%88%E5%89%A7%E7%AC%A6%E5%8D%A1024.jpg" class="new" title="文件:东方梦终剧符卡024.jpg">文件:东方梦终剧符卡024.jpg</a></td></tr>
+<tbody><tr><td width="80">符卡编号</td><td width="400">024</td><td rowspan="6" width="120"><a class="new" title="文件:东方梦终剧符卡024.jpg">文件:东方梦终剧符卡024.jpg</a></td></tr>
 <tr><td>符卡原名</td><td>紅雫「エリュシオンに血の雨 ～ Hard」</td></tr><tr><td>符卡译名</td><td>红雫「在乐土中洒下血雨 ～ Hard」</td></tr><tr><td>出现位置</td><td>Stage 2A
  - Hard（蕾米莉亚·斯卡蕾特）</td></tr><tr><td>说明文本</td><td>弾幕による血の雨がかつての惨劇を呼び覚ます。
 <p>しかし500年経っても流石は子供、食事を弾幕に
@@ -233,14 +166,8 @@ Danmaq | 含有受损文件链接的页面
 认真的好好教导礼仪这一点很可疑。</td></tr></tbody></table>
 
 
-  
-  
-
-  
-
-
 <table>
-<tbody><tr><td width="80">符卡编号</td><td width="400">025</td><td rowspan="6" width="120"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%BB%88%E5%89%A7%E7%AC%A6%E5%8D%A1025.jpg" class="new" title="文件:东方梦终剧符卡025.jpg">文件:东方梦终剧符卡025.jpg</a></td></tr>
+<tbody><tr><td width="80">符卡编号</td><td width="400">025</td><td rowspan="6" width="120"><a class="new" title="文件:东方梦终剧符卡025.jpg">文件:东方梦终剧符卡025.jpg</a></td></tr>
 <tr><td>符卡原名</td><td>紅雫「エリュシオンに血の雨 ～ Lunatic」</td></tr><tr><td>符卡译名</td><td>红雫「在乐土中洒下血雨 ～ Lunatic」</td></tr><tr><td>出现位置</td><td>Stage 2A
  - Lunatic（蕾米莉亚·斯卡蕾特）</td></tr><tr><td>说明文本</td><td>幻想郷の紅を古き楽園の惨劇に喩えたスペル。
 <p>……紅に染まったポプラの木。
@@ -251,14 +178,8 @@ Danmaq | 含有受损文件链接的页面
 知晓那乐园的人，已经不存在了……</td></tr></tbody></table>
 
 
-  
-  
-
-  
-
-
 <table>
-<tbody><tr><td width="80">符卡编号</td><td width="400">026</td><td rowspan="6" width="120"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%BB%88%E5%89%A7%E7%AC%A6%E5%8D%A1026.jpg" class="new" title="文件:东方梦终剧符卡026.jpg">文件:东方梦终剧符卡026.jpg</a></td></tr>
+<tbody><tr><td width="80">符卡编号</td><td width="400">026</td><td rowspan="6" width="120"><a class="new" title="文件:东方梦终剧符卡026.jpg">文件:东方梦终剧符卡026.jpg</a></td></tr>
 <tr><td>符卡原名</td><td>赫符「ブラッディ·サーキュレイション ～ Easy」</td></tr><tr><td>符卡译名</td><td>赫符「血色循环 ～ Easy」</td></tr><tr><td>出现位置</td><td>Stage 2A
  - Easy（蕾米莉亚·斯卡蕾特）</td></tr><tr><td>说明文本</td><td>全てを真紅に染めるエネルギーの渦。
 <p>と言うと聞こえはいいが、実は彼女の食べ残しの
@@ -271,14 +192,8 @@ Danmaq | 含有受损文件链接的页面
 被女仆长指责的经验设计而来的。</td></tr></tbody></table>
 
 
-  
-  
-
-  
-
-
 <table>
-<tbody><tr><td width="80">符卡编号</td><td width="400">027</td><td rowspan="6" width="120"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%BB%88%E5%89%A7%E7%AC%A6%E5%8D%A1027.jpg" class="new" title="文件:东方梦终剧符卡027.jpg">文件:东方梦终剧符卡027.jpg</a></td></tr>
+<tbody><tr><td width="80">符卡编号</td><td width="400">027</td><td rowspan="6" width="120"><a class="new" title="文件:东方梦终剧符卡027.jpg">文件:东方梦终剧符卡027.jpg</a></td></tr>
 <tr><td>符卡原名</td><td>赫符「ブラッディ·サーキュレイション」</td></tr><tr><td>符卡译名</td><td>赫符「血色循环」</td></tr><tr><td>出现位置</td><td>Stage 2A
  - Normal（蕾米莉亚·斯卡蕾特）</td></tr><tr><td>说明文本</td><td>全てを真紅に染めるエネルギーの渦。
 <p>狂気の色である赫と、同じく狂気を表す渦は相性
@@ -289,14 +204,8 @@ Danmaq | 含有受损文件链接的页面
 配合良好，将周围一切一口气地变成狂乱的世界。</td></tr></tbody></table>
 
 
-  
-  
-
-  
-
-
 <table>
-<tbody><tr><td width="80">符卡编号</td><td width="400">028</td><td rowspan="6" width="120"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%BB%88%E5%89%A7%E7%AC%A6%E5%8D%A1028.jpg" class="new" title="文件:东方梦终剧符卡028.jpg">文件:东方梦终剧符卡028.jpg</a></td></tr>
+<tbody><tr><td width="80">符卡编号</td><td width="400">028</td><td rowspan="6" width="120"><a class="new" title="文件:东方梦终剧符卡028.jpg">文件:东方梦终剧符卡028.jpg</a></td></tr>
 <tr><td>符卡原名</td><td>赫符「ブラッディ·ヴォルテクス」</td></tr><tr><td>符卡译名</td><td>赫符「血色涡流」</td></tr><tr><td>出现位置</td><td>Stage 2A
  - Hard（蕾米莉亚·斯卡蕾特）</td></tr><tr><td>说明文本</td><td>全てを真紅に染めるエネルギーの渦。
 <p>渦による流れは新たな渦を作り、赫は瞬く間に
@@ -309,14 +218,8 @@ Danmaq | 含有受损文件链接的页面
 染成了现在的颜色。</td></tr></tbody></table>
 
 
-  
-  
-
-  
-
-
 <table>
-<tbody><tr><td width="80">符卡编号</td><td width="400">029</td><td rowspan="6" width="120"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%BB%88%E5%89%A7%E7%AC%A6%E5%8D%A1029.jpg" class="new" title="文件:东方梦终剧符卡029.jpg">文件:东方梦终剧符卡029.jpg</a></td></tr>
+<tbody><tr><td width="80">符卡编号</td><td width="400">029</td><td rowspan="6" width="120"><a class="new" title="文件:东方梦终剧符卡029.jpg">文件:东方梦终剧符卡029.jpg</a></td></tr>
 <tr><td>符卡原名</td><td>赫符「ブラッディ·ヴォルテクス ～ Lunatic」</td></tr><tr><td>符卡译名</td><td>赫符「血色涡流 ～ Lunatic」</td></tr><tr><td>出现位置</td><td>Stage 2A
  - Lunatic（蕾米莉亚·斯卡蕾特）</td></tr><tr><td>说明文本</td><td>全てを真紅に染めるエネルギーの渦。
 <p>その渦に思わず視線が吸い寄せられ、見ている
@@ -327,14 +230,8 @@ Danmaq | 含有受损文件链接的页面
 连观赏着的观众眼睛也会变红充血。</td></tr></tbody></table>
 
 
-  
-  
-
-  
-
-
 <table>
-<tbody><tr><td width="80">符卡编号</td><td width="400">030</td><td rowspan="6" width="120"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%BB%88%E5%89%A7%E7%AC%A6%E5%8D%A1030.jpg" class="new" title="文件:东方梦终剧符卡030.jpg">文件:东方梦终剧符卡030.jpg</a></td></tr>
+<tbody><tr><td width="80">符卡编号</td><td width="400">030</td><td rowspan="6" width="120"><a class="new" title="文件:东方梦终剧符卡030.jpg">文件:东方梦终剧符卡030.jpg</a></td></tr>
 <tr><td>符卡原名</td><td>「エンジェル·マヌーヴァ」</td></tr><tr><td>符卡译名</td><td>「天使的演习」</td></tr><tr><td>出现位置</td><td>Stage 2A
  - Normal（蕾米莉亚·斯卡蕾特）</td></tr><tr><td>说明文本</td><td>「天使の演習」の名を冠した天を翔ける魔剣。
 <p>どちらかが撃ち殺されても誰も助けに来ない。
@@ -347,14 +244,8 @@ Danmaq | 含有受损文件链接的页面
 要说为什么的话，因为这里是红魔馆。</td></tr></tbody></table>
 
 
-  
-  
-
-  
-
-
 <table>
-<tbody><tr><td width="80">符卡编号</td><td width="400">031</td><td rowspan="6" width="120"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%BB%88%E5%89%A7%E7%AC%A6%E5%8D%A1031.jpg" class="new" title="文件:东方梦终剧符卡031.jpg">文件:东方梦终剧符卡031.jpg</a></td></tr>
+<tbody><tr><td width="80">符卡编号</td><td width="400">031</td><td rowspan="6" width="120"><a class="new" title="文件:东方梦终剧符卡031.jpg">文件:东方梦终剧符卡031.jpg</a></td></tr>
 <tr><td>符卡原名</td><td>「エンジェル·マヌーヴァ ～ Hard」</td></tr><tr><td>符卡译名</td><td>「天使的演习 ～ Hard」</td></tr><tr><td>出现位置</td><td>Stage 2A
  - Hard（蕾米莉亚·斯卡蕾特）</td></tr><tr><td>说明文本</td><td>「天使の演習」の名を冠した天を翔ける魔剣。
 <p>吸血鬼がスペルに天使の語を含ませるとは。
@@ -365,14 +256,8 @@ Danmaq | 含有受损文件链接的页面
 正如哪个天狗所说的，是个奇怪的恶魔。</td></tr></tbody></table>
 
 
-  
-  
-
-  
-
-
 <table>
-<tbody><tr><td width="80">符卡编号</td><td width="400">032</td><td rowspan="6" width="120"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%BB%88%E5%89%A7%E7%AC%A6%E5%8D%A1032.jpg" class="new" title="文件:东方梦终剧符卡032.jpg">文件:东方梦终剧符卡032.jpg</a></td></tr>
+<tbody><tr><td width="80">符卡编号</td><td width="400">032</td><td rowspan="6" width="120"><a class="new" title="文件:东方梦终剧符卡032.jpg">文件:东方梦终剧符卡032.jpg</a></td></tr>
 <tr><td>符卡原名</td><td>「エンジェル·マヌーヴァ ～ Lunatic」</td></tr><tr><td>符卡译名</td><td>「天使的演习 ～ Lunatic」</td></tr><tr><td>出现位置</td><td>Stage 2A
  - Lunatic（蕾米莉亚·斯卡蕾特）</td></tr><tr><td>说明文本</td><td>「天使の演習」の名を冠した天を翔ける魔剣。
 <p>空間を捩ることで見かけより遥かに広い容積を
@@ -384,29 +269,22 @@ Danmaq | 含有受损文件链接的页面
 </p>
 只有一点可惜的是，你并不是侦探。而是被害者。</td></tr></tbody></table>
 
-
 <center>
-
 <table>
 <tbody><tr>
-<td>&lt;
+<td><
 </td>
-<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./東方夢終劇_～_Concealed_the_Conclusion-符卡-Stage_1A.md" title="東方夢終劇 ～ Concealed the Conclusion/符卡/Stage 1A">Stage 1A</a>&#160;
+<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./東方夢終劇_～_Concealed_the_Conclusion-符卡-Stage_1A.md" title="東方夢終劇 ～ Concealed the Conclusion/符卡/Stage 1A">Stage 1A</a> 
 </td>
-<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="./東方夢終劇_～_Concealed_the_Conclusion-符卡.md" title="東方夢終劇 ～ Concealed the Conclusion/符卡">符卡</a>&#160;
+<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;"> <a href="./東方夢終劇_～_Concealed_the_Conclusion-符卡.md" title="東方夢終劇 ～ Concealed the Conclusion/符卡">符卡</a> 
 </td>
-<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left">&#160;<a href="./東方夢終劇_～_Concealed_the_Conclusion-符卡-Stage_3A.md" title="東方夢終劇 ～ Concealed the Conclusion/符卡/Stage 3A">Stage 3A</a>
+<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left"> <a href="./東方夢終劇_～_Concealed_the_Conclusion-符卡-Stage_3A.md" title="東方夢終劇 ～ Concealed the Conclusion/符卡/Stage 3A">Stage 3A</a>
 </td>
-<td>&gt;
+<td>>
 </td></tr></tbody></table>
 
   
-</center>
-[^cite_note-1]: 符卡名称与[东方红魔乡](./东方红魔乡.md)中第6关的名字相同。
-
-
-
-
+</center>[^cite_note-1]: 符卡名称与[东方红魔乡](./东方红魔乡.md)中第6关的名字相同。
 
 ---
 

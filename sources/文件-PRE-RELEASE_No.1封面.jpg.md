@@ -1,6 +1,6 @@
 # 文件:PRE-RELEASE_No.1封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1f\ns6%3APRE-RELEASE_No%2E1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1f\ns6%3APRE-RELEASE_No%2E1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 寝ん猫飯店 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [PRE-RELEASE No.1](./PRE-RELEASE_No.1.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
-
-
-
+- [PRE-RELEASE No.1](./PRE-RELEASE_No.1.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
 
 ---

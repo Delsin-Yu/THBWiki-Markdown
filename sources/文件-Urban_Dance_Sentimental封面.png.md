@@ -1,6 +1,6 @@
 # 文件:Urban_Dance_Sentimental封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\53\ns6%3AUrban_Dance_Sentimental%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\53\ns6%3AUrban_Dance_Sentimental%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 東方慶庵郷
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Urban Dance Sentimental](./Urban_Dance_Sentimental.md)  
-该封面包含的角色：- [多多良小伞](./多多良小伞.md)
+- [Urban Dance Sentimental](./Urban_Dance_Sentimental.md)该封面包含的角色：
+- [多多良小伞](./多多良小伞.md)
 
   
-源地址：[direct link](https://pbs.twimg.com/media/CRhUtzfUkAAAsvk.jpg:orig) (edited), [source tweet](https://twitter.com/Keio_k_an/status/655366893725880320)
-  
-
-
-
-
+源地址：[direct link](https://pbs.twimg.com/media/CRhUtzfUkAAAsvk.jpg:orig) (edited), [source tweet](https://twitter.com/Keio_k_an/status/655366893725880320)  
 
 ---
 

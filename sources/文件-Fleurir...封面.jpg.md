@@ -1,6 +1,6 @@
 # 文件:Fleurir...封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\60\ns6%3AFleurir%2E%2E%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\60\ns6%3AFleurir%2E%2E%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Riverside | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Riverside | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Fleurir...](./Fleurir....md)  
-该封面包含的角色：- [小野塚小町](./小野塚小町.md)
-
-
-
+- [Fleurir...](./Fleurir....md)该封面包含的角色：
+- [小野塚小町](./小野塚小町.md)
 
 
 ---

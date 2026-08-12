@@ -1,6 +1,6 @@
 # 文件:部屋と変なTシャツとわたし封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bb\ns6%3A%E9%83%A8%E5%B1%8B%E3%81%A8%E5%A4%89%E3%81%AAT%E3%82%B7%E3%83%A3%E3%83%84%E3%81%A8%E3%82%8F%E3%81%9F%E3%81%97%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bb\ns6%3A%E9%83%A8%E5%B1%8B%E3%81%A8%E5%A4%89%E3%81%AAT%E3%82%B7%E3%83%A3%E3%83%84%E3%81%A8%E3%82%8F%E3%81%9F%E3%81%97%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 荒巻シェイカー
 
@@ -8,16 +8,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [部屋と変なTシャツとわたし](./部屋と変なTシャツとわたし.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [射命丸文](./射命丸文.md)
+- [部屋と変なTシャツとわたし](./部屋と変なTシャツとわたし.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [射命丸文](./射命丸文.md)
 
   
-[Pixiv artwork ID: 52842478](https://www.pixiv.net/artworks/52842478)
-  
-
-
-
-
+[Pixiv artwork ID: 52842478](https://www.pixiv.net/artworks/52842478)  
 
 ---
 

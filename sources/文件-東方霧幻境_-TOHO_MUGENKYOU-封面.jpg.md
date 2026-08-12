@@ -1,6 +1,6 @@
 # 文件:東方霧幻境_-TOHO_MUGENKYOU-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ef\ns6%3A%E6%9D%B1%E6%96%B9%E9%9C%A7%E5%B9%BB%E5%A2%83_-TOHO_MUGENKYOU-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ef\ns6%3A%E6%9D%B1%E6%96%B9%E9%9C%A7%E5%B9%BB%E5%A2%83_-TOHO_MUGENKYOU-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Kraster | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ Kraster | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方霧幻境 -TOHO MUGENKYOU-](./東方霧幻境_-TOHO_MUGENKYOU-.md)  
-该封面包含的角色：- [火焰猫燐](./火焰猫燐.md)- [灵乌路空](./灵乌路空.md)
-
-
-
+- [東方霧幻境 -TOHO MUGENKYOU-](./東方霧幻境_-TOHO_MUGENKYOU-.md)该封面包含的角色：
+- [火焰猫燐](./火焰猫燐.md)
+- [灵乌路空](./灵乌路空.md)
 
 
 ---

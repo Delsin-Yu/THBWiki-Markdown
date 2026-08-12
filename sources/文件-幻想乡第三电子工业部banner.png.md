@@ -1,12 +1,8 @@
 # 文件:幻想乡第三电子工业部banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\df\ns6%3A%E5%B9%BB%E6%83%B3%E4%B9%A1%E7%AC%AC%E4%B8%89%E7%94%B5%E5%AD%90%E5%B7%A5%E4%B8%9A%E9%83%A8banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\df\ns6%3A%E5%B9%BB%E6%83%B3%E4%B9%A1%E7%AC%AC%E4%B8%89%E7%94%B5%E5%AD%90%E5%B7%A5%E4%B8%9A%E9%83%A8banner%2Epng.html -->
 
 幻想乡第三电子工业部 | 社团LOGO
-
-
-
-
 
 
 ---

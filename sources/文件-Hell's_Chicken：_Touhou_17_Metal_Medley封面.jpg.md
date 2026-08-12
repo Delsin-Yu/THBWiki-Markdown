@@ -1,6 +1,6 @@
 # 文件:Hell's_Chicken：_Touhou_17_Metal_Medley封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\42\ns6%3AHell%27s_Chicken%EF%BC%9A_Touhou_17_Metal_Medley%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\42\ns6%3AHell%27s_Chicken%EF%BC%9A_Touhou_17_Metal_Medley%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 YaboiMatoi | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ YaboiMatoi | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Hell's Chicken： Touhou 17 Metal Medley](./Hell's_Chicken：_Touhou_17_Metal_Medley.md)  
-该封面包含的角色：- [庭渡久侘歌](./庭渡久侘歌.md)
-
-
-
+- [Hell's Chicken： Touhou 17 Metal Medley](./Hell's_Chicken：_Touhou_17_Metal_Medley.md)该封面包含的角色：
+- [庭渡久侘歌](./庭渡久侘歌.md)
 
 
 ---

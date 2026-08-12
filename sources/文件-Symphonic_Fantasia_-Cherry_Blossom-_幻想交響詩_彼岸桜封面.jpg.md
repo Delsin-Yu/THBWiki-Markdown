@@ -1,6 +1,6 @@
 # 文件:Symphonic_Fantasia_"Cherry_Blossom"_幻想交響詩_彼岸桜封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\01\ns6%3ASymphonic_Fantasia_%22Cherry_Blossom%22_%E5%B9%BB%E6%83%B3%E4%BA%A4%E9%9F%BF%E8%A9%A9_%E5%BD%BC%E5%B2%B8%E6%A1%9C%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\01\ns6%3ASymphonic_Fantasia_%22Cherry_Blossom%22_%E5%B9%BB%E6%83%B3%E4%BA%A4%E9%9F%BF%E8%A9%A9_%E5%BD%BC%E5%B2%B8%E6%A1%9C%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 WAVE | 专辑封面 | 封面图片
 
@@ -8,11 +8,10 @@ WAVE | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Symphonic Fantasia "Cherry Blossom" 幻想交響詩 彼岸桜](./Symphonic_Fantasia_-Cherry_Blossom-_幻想交響詩_彼岸桜.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- 十六夜咲夜 (未找到链接)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [Symphonic Fantasia "Cherry Blossom" 幻想交響詩 彼岸桜](./Symphonic_Fantasia_-Cherry_Blossom-_幻想交響詩_彼岸桜.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [十六夜咲夜](./十六夜咲夜.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

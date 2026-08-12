@@ -1,16 +1,12 @@
 # 模板:TOUHOU_FRIENDLY_FIRE
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\b\b3\ns10%3ATOUHOU_FRIENDLY_FIRE.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\b\b3\ns10%3ATOUHOU_FRIENDLY_FIRE.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

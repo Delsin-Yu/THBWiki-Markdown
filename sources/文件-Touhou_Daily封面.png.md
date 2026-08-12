@@ -1,6 +1,6 @@
 # 文件:Touhou_Daily封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\30\ns6%3ATouhou_Daily%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\30\ns6%3ATouhou_Daily%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 同人志封面 | 封面图片 | 海中东方社
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [TOUHOU DAILY](./TOUHOU_DAILY.md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)
-
-
-
+- [TOUHOU DAILY](./TOUHOU_DAILY.md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
 
 
 ---

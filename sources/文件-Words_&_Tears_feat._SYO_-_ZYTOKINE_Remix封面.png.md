@@ -1,6 +1,6 @@
 # 文件:Words_&_Tears_feat._SYO_-_ZYTOKINE_Remix封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\28\ns6%3AWords_%26_Tears_feat%2E_SYO_-_ZYTOKINE_Remix%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\28\ns6%3AWords_%26_Tears_feat%2E_SYO_-_ZYTOKINE_Remix%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 ZYTOKINE | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ ZYTOKINE | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Words &amp; Tears feat. SYO - ZYTOKINE Remix](./Words_&_Tears_feat._SYO_-_ZYTOKINE_Remix.md)  
-该封面包含的角色：- [圣白莲](./圣白莲.md)
-
-
-
+- [Words & Tears feat. SYO - ZYTOKINE Remix](./Words_&_Tears_feat._SYO_-_ZYTOKINE_Remix.md)该封面包含的角色：
+- [圣白莲](./圣白莲.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:RAVER'S_NEST_10_TOHO_RAVE_PARTY封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\57\ns6%3ARAVER%27S_NEST_10_TOHO_RAVE_PARTY%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\57\ns6%3ARAVER%27S_NEST_10_TOHO_RAVE_PARTY%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 DiGiTAL_WiNG | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ DiGiTAL_WiNG | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [RAVER'S NEST 10 TOHO RAVE PARTY](./RAVER'S_NEST_10_TOHO_RAVE_PARTY.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
-
-
-
+- [RAVER'S NEST 10 TOHO RAVE PARTY](./RAVER'S_NEST_10_TOHO_RAVE_PARTY.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
 
 ---

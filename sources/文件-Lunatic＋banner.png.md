@@ -1,14 +1,11 @@
 # 文件:Lunatic＋banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\97\ns6%3ALunatic%EF%BC%8Bbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\97\ns6%3ALunatic%EF%BC%8Bbanner%2Epng.html -->
 
 Lunatic＋ | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

@@ -1,38 +1,28 @@
 # Moon_Child_～_Homunculus_Dream
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\a\a6\ns0%3AMoon_Child_%EF%BD%9E_Homunculus_Dream.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\a\a6\ns0%3AMoon_Child_%EF%BD%9E_Homunculus_Dream.html -->
 
 JynX作曲 | Moon_Child_～_Homunculus_Dream | 引用了翻译表的页面 | 连缘Project | 连缘Project官方音乐
 
-本页是关于 **向[东方Project](./东方Project.md)  
-致敬、形式类似的作品** 的词条
-
+本页是关于**向[东方Project](./东方Project.md)致敬、形式类似的作品**  
+的词条
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 出现作品](#出现作品)
 - [3 音乐文件](#音乐文件)
-
   - [3.1 连缘灵烈传](#连缘灵烈传)
   - [3.2 连缘天影战记](#连缘天影战记)
 
 
-
 - [4 说明文本](#说明文本)
-
   - [4.1 连缘灵烈传](#连缘灵烈传_2)
   - [4.2 连缘天影战记](#连缘天影战记_2)
 
 
-
 - [5 其他资料](#其他资料)
-
   - [5.1 乐理资讯](#乐理资讯)
   - [5.2 分析考据](#分析考据)
-
-
-
-
 
 
 
@@ -65,7 +55,6 @@ JynX作曲 | Moon_Child_～_Homunculus_Dream | 引用了翻译表的页面 | 连
 </td></tr></tbody></table>
 
 
-
 ## 出现作品
 
 <table>
@@ -73,7 +62,6 @@ JynX作曲 | Moon_Child_～_Homunculus_Dream | 引用了翻译表的页面 | 连
 <tbody><tr><td>2014年10月2日（非展会）</td><td><b><a href="./连缘灵烈传～Reactivate_majestical_imperial.md" title="连缘灵烈传～Reactivate majestical imperial" unred="">连缘灵烈传</a></b></td><td>5面BOSS-<a href="./平文门.md" title="平文门">平文门</a>主题曲</td><td style="padding-left:5px;">ムーンチャイルド ～ Homunculus Dream（Moon Child ～ Homunculus Dream）</td><td style="padding-left:10px;">作曲：JynX</td></tr>
 <tr><td>2016年12月1日（非展会）</td><td><b><a href="./连缘天影战记～Brilliant_pagoda_or_haze_castle.md" title="连缘天影战记～Brilliant pagoda or haze castle" unred="">连缘天影战记</a></b></td><td>中立线5面Boss-<a href="./平文门.md" title="平文门">平文门</a>主题曲</td><td style="padding-left:5px;">月には届かぬ手 ～ Moon Child（触不到月亮的手 ～ Moon Child）</td><td style="padding-left:10px;">作曲：JynX</td></tr>
 </tbody></table>
-
 
 
 ## 音乐文件
@@ -97,17 +85,16 @@ JynX作曲 | Moon_Child_～_Homunculus_Dream | 引用了翻译表的页面 | 连
 </td></tr></tbody></table>
 
 
-
 ### 连缘天影战记
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>MIDI格式</b></td><td>无播放信息</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-le04_BOSS_Fumikado.mp3.md" title="文件:le04 BOSS Fumikado.mp3">le04_BOSS_Fumikado.mp3</a><br><audio src="https://upload.thwiki.cc/8/80/le04_BOSS_Fumikado.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>未填写</td></tr></tbody></table>
 
 
-
 ## 说明文本
 
 ### 连缘灵烈传
-- Music Room (未找到链接)
+
+- [Music Room](./连缘灵烈传～Reactivate_majestical_imperial-Music.md#5面BOSS-平文门主题曲)
 
 五面头目，平文门的曲子。明明是五面头目怎么这么长啊。  
 曲子不会循环，只会不断重复最后的一个小节。  
@@ -124,9 +111,9 @@ JynX作曲 | Moon_Child_～_Homunculus_Dream | 引用了翻译表的页面 | 连
   
 因为是生化人，所以想要做出生化科技的氛围，  
 效果可好呢？
-
 ### 连缘天影战记
-- Music Room (未找到链接)
+
+- [Music Room](./连缘天影战记～Brilliant_pagoda_or_haze_castle-Music.md#中立线5面Boss-平文门主题曲)
 
 五面BOSS，文门的曲子  
   
@@ -137,15 +124,11 @@ JynX作曲 | Moon_Child_～_Homunculus_Dream | 引用了翻译表的页面 | 连
 增加了和风要素，多少有些气度了吧？  
   
 也希望祂本人能学学啊。
-
 ## 其他资料
 
 ### 乐理资讯
 
 ### 分析考据
-
-
-
 
 ---
 

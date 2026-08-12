@@ -1,12 +1,8 @@
 # 文件:Reverse_Noisebanner1.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\10\ns6%3AReverse_Noisebanner1%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\10\ns6%3AReverse_Noisebanner1%2Epng.html -->
 
 Reverse_Noise | 社团LOGO
-
-
-
-
 
 
 ---

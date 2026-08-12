@@ -1,12 +1,8 @@
 # 文件:Play,Doujin!新作发表会6.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7e\ns6%3APlay%2CDoujin%21%E6%96%B0%E4%BD%9C%E5%8F%91%E8%A1%A8%E4%BC%9A6%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7e\ns6%3APlay%2CDoujin%21%E6%96%B0%E4%BD%9C%E5%8F%91%E8%A1%A8%E4%BC%9A6%2Epng.html -->
 
 Play,Doujin!
-
-
-
-
 
 
 ---

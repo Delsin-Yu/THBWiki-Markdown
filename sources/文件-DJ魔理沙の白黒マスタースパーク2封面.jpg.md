@@ -1,6 +1,6 @@
 # 文件:DJ魔理沙の白黒マスタースパーク2封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\53\ns6%3ADJ%E9%AD%94%E7%90%86%E6%B2%99%E3%81%AE%E7%99%BD%E9%BB%92%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%B9%E3%83%91%E3%83%BC%E3%82%AF2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\53\ns6%3ADJ%E9%AD%94%E7%90%86%E6%B2%99%E3%81%AE%E7%99%BD%E9%BB%92%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%B9%E3%83%91%E3%83%BC%E3%82%AF2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 アールグレイ | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [DJ魔理沙の白黒マスタースパーク2](./DJ魔理沙の白黒マスタースパーク2.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [DJ魔理沙の白黒マスタースパーク2](./DJ魔理沙の白黒マスタースパーク2.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

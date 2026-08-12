@@ -1,12 +1,8 @@
 # 文件:innocent-key_new_logo1.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7e\ns6%3Ainnocent-key_new_logo1%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7e\ns6%3Ainnocent-key_new_logo1%2Epng.html -->
 
 Innocent_Key | 社团LOGO
-
-
-
-
 
 
 ---

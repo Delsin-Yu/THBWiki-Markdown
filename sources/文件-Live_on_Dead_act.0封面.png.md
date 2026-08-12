@@ -1,6 +1,6 @@
 # 文件:Live_on_Dead_act.0封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7e\ns6%3ALive_on_Dead_act%2E0%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7e\ns6%3ALive_on_Dead_act%2E0%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 モノクロ殺人現場写真 | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Live on Dead act.0](./Live_on_Dead_act.0.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
+- [Live on Dead act.0](./Live_on_Dead_act.0.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-源地址：[[1]](http://monokurosatsujin.up.n.seesaa.net/monokurosatsujin/image/LoDE382B8E383A3E382B1E5B8AFE69EA0E7B79Apng.png?d=a3)
-  
-
-
-
-
+源地址：[\[1\]](http://monokurosatsujin.up.n.seesaa.net/monokurosatsujin/image/LoDE382B8E383A3E382B1E5B8AFE69EA0E7B79Apng.png?d=a3)  
 
 ---
 

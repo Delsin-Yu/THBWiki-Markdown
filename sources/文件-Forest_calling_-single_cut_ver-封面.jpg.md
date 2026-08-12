@@ -1,6 +1,6 @@
 # 文件:Forest_calling_-single_cut_ver-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\15\ns6%3AForest_calling_-single_cut_ver-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\15\ns6%3AForest_calling_-single_cut_ver-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 10th_Avenue_Cafe | 专辑封面 | 封面图片
 
@@ -10,19 +10,13 @@
 使用了本文件作封面图片的作品：
   
 
-- [Forest calling -single cut ver-](./Forest_calling_-single_cut_ver-.md)  
-该封面包含的角色：- [键山雏](./键山雏.md)
+- [Forest calling -single cut ver-](./Forest_calling_-single_cut_ver-.md)该封面包含的角色：
+- [键山雏](./键山雏.md)
 
   
-源地址：[suruga-ya](https://www.suruga-ya.jp/product/detail/186125002)
+源地址：[suruga-ya](https://www.suruga-ya.jp/product/detail/186125002)  
   
-  
-full version of the artwork can be found at [Pixiv artwork ID: 27450705](https://www.pixiv.net/artworks/27450705)
-  
-
-
-
-
+full version of the artwork can be found at [Pixiv artwork ID: 27450705](https://www.pixiv.net/artworks/27450705)  
 
 ---
 

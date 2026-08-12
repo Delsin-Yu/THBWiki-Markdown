@@ -1,16 +1,12 @@
 # 模板:COMIC1
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\f\fa\ns10%3ACOMIC1.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\f\fa\ns10%3ACOMIC1.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

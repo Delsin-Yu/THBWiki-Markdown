@@ -1,6 +1,6 @@
 # 文件:神楽（幻想诗篇Xanadu_Canto）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d1\ns6%3A%E7%A5%9E%E6%A5%BD%EF%BC%88%E5%B9%BB%E6%83%B3%E8%AF%97%E7%AF%87Xanadu_Canto%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d1\ns6%3A%E7%A5%9E%E6%A5%BD%EF%BC%88%E5%B9%BB%E6%83%B3%E8%AF%97%E7%AF%87Xanadu_Canto%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 幻想诗篇Xanadu_Canto
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [神楽（幻想诗篇Xanadu Canto）](./神楽（幻想诗篇Xanadu_Canto）.md)  
-该封面包含的角色：- [东风谷早苗](./东风谷早苗.md)
-
-
-
+- [神楽（幻想诗篇Xanadu Canto）](./神楽（幻想诗篇Xanadu_Canto）.md)该封面包含的角色：
+- [东风谷早苗](./东风谷早苗.md)
 
 
 ---

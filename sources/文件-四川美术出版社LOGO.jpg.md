@@ -1,14 +1,11 @@
 # 文件:四川美术出版社LOGO.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a8\ns6%3A%E5%9B%9B%E5%B7%9D%E7%BE%8E%E6%9C%AF%E5%87%BA%E7%89%88%E7%A4%BELOGO%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a8\ns6%3A%E5%9B%9B%E5%B7%9D%E7%BE%8E%E6%9C%AF%E5%87%BA%E7%89%88%E7%A4%BELOGO%2Ejpg.html -->
 
 企业LOGO | 四川美术出版社
 
 
 ## 文件说明
-
-
-
 
 ---
 

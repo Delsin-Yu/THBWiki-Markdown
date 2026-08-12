@@ -1,6 +1,6 @@
 # 文件:COMICMARKET_80_Omake_CD_東方颯封歌版封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d0\ns6%3ACOMICMARKET_80_Omake_CD_%E6%9D%B1%E6%96%B9%E9%A2%AF%E5%B0%81%E6%AD%8C%E7%89%88%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d0\ns6%3ACOMICMARKET_80_Omake_CD_%E6%9D%B1%E6%96%B9%E9%A2%AF%E5%B0%81%E6%AD%8C%E7%89%88%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 いえろ～ぜぶら | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [COMICMARKET 80 Omake CD 東方颯封歌版](./COMICMARKET_80_Omake_CD_東方颯封歌版.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [COMICMARKET 80 Omake CD 東方颯封歌版](./COMICMARKET_80_Omake_CD_東方颯封歌版.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

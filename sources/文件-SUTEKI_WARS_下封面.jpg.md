@@ -1,6 +1,6 @@
 # 文件:SUTEKI_WARS_下封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3c\ns6%3ASUTEKI_WARS_%E4%B8%8B%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3c\ns6%3ASUTEKI_WARS_%E4%B8%8B%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 泥舟海運
 
@@ -8,11 +8,14 @@
 使用了本文件作封面图片的作品：
   
 
-- [SUTEKI WARS 下](./SUTEKI_WARS_下.md)  
-该封面包含的角色：- [露米娅](./露米娅.md)- [琪露诺](./琪露诺.md)- [大妖精](./大妖精.md)- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)- [犬走椛](./犬走椛.md)- [东风谷早苗](./东风谷早苗.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [SUTEKI WARS 下](./SUTEKI_WARS_下.md)该封面包含的角色：
+- [露米娅](./露米娅.md)
+- [琪露诺](./琪露诺.md)
+- [大妖精](./大妖精.md)
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
+- [犬走椛](./犬走椛.md)
+- [东风谷早苗](./东风谷早苗.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

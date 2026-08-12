@@ -1,6 +1,6 @@
 # 文件:Ensemble_of_Gensokyo_5_-_Pentallium封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fa\ns6%3AEnsemble_of_Gensokyo_5_-_Pentallium%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fa\ns6%3AEnsemble_of_Gensokyo_5_-_Pentallium%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Dex_Hexallion | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ Dex_Hexallion | 专辑封面 | 封面图片
   
 
 - [Ensemble of Gensokyo 5 - Pentallium](./Ensemble_of_Gensokyo_5_-_Pentallium.md)
-
-
-
 
 
 ---

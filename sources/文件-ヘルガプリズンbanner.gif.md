@@ -1,14 +1,11 @@
 # 文件:ヘルガプリズンbanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\66\ns6%3A%E3%83%98%E3%83%AB%E3%82%AC%E3%83%97%E3%83%AA%E3%82%BA%E3%83%B3banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\66\ns6%3A%E3%83%98%E3%83%AB%E3%82%AC%E3%83%97%E3%83%AA%E3%82%BA%E3%83%B3banner%2Egif.html -->
 
 ヘルガプリズン | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

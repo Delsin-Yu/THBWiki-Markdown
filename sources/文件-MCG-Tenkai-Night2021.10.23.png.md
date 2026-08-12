@@ -1,16 +1,12 @@
 # 文件:MCG-Tenkai-Night2021.10.23.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\55\ns6%3AMCG-Tenkai-Night2021%2E10%2E23%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\55\ns6%3AMCG-Tenkai-Night2021%2E10%2E23%2Epng.html -->
 
 MineCraft幻想乡
 
   
 MC幻想乡天界夜晚地图
   
-
-
-
-
 
 ---
 

@@ -1,6 +1,6 @@
 # 氷精武勇録～Record_Of_Ice_Fairy_War./成就
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\5\57\ns0%3A%E6%B0%B7%E7%B2%BE%E6%AD%A6%E5%8B%87%E9%8C%B2%EF%BD%9ERecord_Of_Ice_Fairy_War%2E%2F%E6%88%90%E5%B0%B1.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\5\57\ns0%3A%E6%B0%B7%E7%B2%BE%E6%AD%A6%E5%8B%87%E9%8C%B2%EF%BD%9ERecord_Of_Ice_Fairy_War%2E%2F%E6%88%90%E5%B0%B1.html -->
 
 TEAM:SOCIALLY_UNFIT
 
@@ -11,9 +11,6 @@ TEAM:SOCIALLY_UNFIT
 - [2 隐藏成就](#隐藏成就)
 - [3 注释](#注释)
 - [4 词条导航](#词条导航)
-
-
-
 
 
 ## 常规成就
@@ -798,11 +795,9 @@ TEAM:SOCIALLY_UNFIT
 </td></tr></tbody></table>
 
 
-
 ## 隐藏成就
 
--  **以下内容是隐藏成就（未达成前会显示成就解锁位置和提示）的说明，可能带来剧透，请自主决定是否查看该内容。** 
-
+- **以下内容是隐藏成就（未达成前会显示成就解锁位置和提示）的说明，可能带来剧透，请自主决定是否查看该内容。**
 
 
 <table>
@@ -1007,7 +1002,7 @@ TEAM:SOCIALLY_UNFIT
 </th></tr>
 <tr>
 <td class="jadef" width="47%" lang="ja" style="background:#f9f9f9">
-<center>隠しトロフィー「Mission3」SPESCIAL<sup id="cite_ref-tirglish_1-0" class="reference"><a href="#cite_note-tirglish-1">1</a></sup>
+<center>隠しトロフィー「Mission3」SPESCIAL<span>[^cite_note-tirglish-1]</span>
 とあるスペルで広く凍らせよう</center>
 </td>
 <td class="zhdef" width="47%" style="background:#f9f9f9">
@@ -1044,7 +1039,7 @@ TEAM:SOCIALLY_UNFIT
 </th></tr>
 <tr>
 <td class="jadef" width="47%" lang="ja" style="background:#f9f9f9">
-<center>隠しトロフィー「Mission3」SPESCIAL<sup id="cite_ref-tirglish_1-1" class="reference"><a href="#cite_note-tirglish-1">1</a></sup>
+<center>隠しトロフィー「Mission3」SPESCIAL<span>[^cite_note-tirglish-1]</span>
 とあるスペルでボスに急接近して倒そう</center>
 </td>
 <td class="zhdef" width="47%" style="background:#f9f9f9">
@@ -1062,7 +1057,7 @@ TEAM:SOCIALLY_UNFIT
 <td class="zhdef" width="47%" style="background:#f9f9f9">
 <center>在灵符「梦想封印一般的发光体」中靠近Boss周围并击破
 <p>实际上打的过程中无论如何都必须跑到boss旁边
-</p><p>其实以前我做过的以桑尼米尔克为主角的STG<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">2</a></sup>里
+</p><p>其实以前我做过的以桑尼米尔克为主角的STG<span>[^cite_note-2]</span>里
 </p>
 有一张名字一模一样的卡</center>
 </td></tr>
@@ -1155,7 +1150,7 @@ TEAM:SOCIALLY_UNFIT
 </th></tr>
 <tr>
 <td class="jadef" width="47%" lang="ja" style="background:#f9f9f9">
-<center>隠しトロフィー「Seclet<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">3</a></sup>」
+<center>隠しトロフィー「Seclet<span>[^cite_note-3]</span>」
 挑戦者のスペルを全部取得しよう</center>
 </td>
 <td class="zhdef" width="47%" style="background:#f9f9f9">
@@ -1209,24 +1204,9 @@ TEAM:SOCIALLY_UNFIT
 按确定键可以看那什么</center>
 </td></tr></tbody></table>
 
-
-
-
-
 [^cite_note-tirglish-1]: 原文如此。
-
-
-## 词条导航
-  
-  
-
-<table><tbody><tr><td><table cellspacing="0" class="nowraplinks mw-collapsible mw-collapsed" style="width:100%;;;"><tbody><tr><th style=";" colspan="3" class="navbox-title"><div class="navbar"><div class="noprint plainlinksneverexpand" style="background-color:transparent; padding:0; font-weight:normal; font-size:80%; white-space:nowrap;"><a href="./氷精武勇録～Record_Of_Ice_Fairy_War.-导航.md" title="氷精武勇録～Record Of Ice Fairy War./导航"><span style=";;border:none;" title="查看这个模板">查</span></a>&#160;<span style="font-size:80%;">•</span>&#160;<a href="/index.php?title=%E6%B0%B7%E7%B2%BE%E6%AD%A6%E5%8B%87%E9%8C%B2%EF%BD%9ERecord_Of_Ice_Fairy_War./%E5%AF%BC%E8%88%AA&amp;action=edit"><span style=";;border:none;" title="您可以编辑这个模板。请在储存变更之前先预览">编</span></a></div></div><span><a href="./氷精武勇録～Record_Of_Ice_Fairy_War..md" title="氷精武勇録～Record Of Ice Fairy War.">冰精武勇录</a></span></th></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">角色</td><td style=";;" class="navbox-list navbox-odd"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>自机</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./琪露诺（武勇录）.md" title="琪露诺（武勇录）">琪露诺</a> &#8226; <a href="./宾卡瓦兹.md" title="宾卡瓦兹">宾卡瓦兹</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>BOSS</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./莉莉霍瓦特（武勇录）.md" title="莉莉霍瓦特（武勇录）">莉莉霍瓦特</a> &#8226; <a href="./爱塔妮缇拉尔瓦（武勇录）.md" title="爱塔妮缇拉尔瓦（武勇录）">爱塔妮缇拉尔瓦</a> &#8226; <a href="./桑尼米尔克（武勇录）.md" title="桑尼米尔克（武勇录）">桑尼米尔克</a> &#8226; <a href="./露娜切露德（武勇录）.md" title="露娜切露德（武勇录）">露娜切露德</a> &#8226; <a href="./斯塔萨菲雅（武勇录）.md" title="斯塔萨菲雅（武勇录）">斯塔萨菲雅</a> &#8226; <a href="./克劳恩皮丝（武勇录）.md" title="克劳恩皮丝（武勇录）">克劳恩皮丝</a> &#8226; <a href="./大妖精（武勇录）.md" title="大妖精（武勇录）">大妖精</a> &#8226; <a href="./宾卡瓦兹.md" title="宾卡瓦兹">宾卡瓦兹</a> &#8226; <a href="./雾雨魔理沙（武勇录）.md" title="雾雨魔理沙（武勇录）">雾雨魔理沙</a> &#8226; <a href="./博丽灵梦（武勇录）.md" title="博丽灵梦（武勇录）">博丽灵梦</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>挑战BOSS</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./玛莉雪佛德.md" title="玛莉雪佛德">玛莉雪佛德</a> &#8226; <a href="./法布丽蒂丝.md" title="法布丽蒂丝">法布丽蒂丝</a> &#8226; <a href="./伊芙妮娅.md" title="伊芙妮娅">伊芙妮娅</a> &#8226; <a href="./丝诺柯狄亚.md" title="丝诺柯狄亚">丝诺柯狄亚</a> &#8226; <a href="./艾尔芬敏特.md" title="艾尔芬敏特">艾尔芬敏特</a></div></td></tr></tbody></table><div></div></td><td class="navbox-image" style="" rowspan="9"><a href="./文件-氷精武勇録～Record_Of_Ice_Fairy_War.封面.png.md" class="image"><img alt="氷精武勇録～Record Of Ice Fairy War.封面.png" src="https://upload.thwiki.cc/thumb/9/9f/%E6%B0%B7%E7%B2%BE%E6%AD%A6%E5%8B%87%E9%8C%B2%EF%BD%9ERecord_Of_Ice_Fairy_War.%E5%B0%81%E9%9D%A2.png/160px-%E6%B0%B7%E7%B2%BE%E6%AD%A6%E5%8B%87%E9%8C%B2%EF%BD%9ERecord_Of_Ice_Fairy_War.%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="160" height="120" srcset="https://upload.thwiki.cc/thumb/9/9f/%E6%B0%B7%E7%B2%BE%E6%AD%A6%E5%8B%87%E9%8C%B2%EF%BD%9ERecord_Of_Ice_Fairy_War.%E5%B0%81%E9%9D%A2.png/240px-%E6%B0%B7%E7%B2%BE%E6%AD%A6%E5%8B%87%E9%8C%B2%EF%BD%9ERecord_Of_Ice_Fairy_War.%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/9/9f/%E6%B0%B7%E7%B2%BE%E6%AD%A6%E5%8B%87%E9%8C%B2%EF%BD%9ERecord_Of_Ice_Fairy_War.%E5%B0%81%E9%9D%A2.png/320px-%E6%B0%B7%E7%B2%BE%E6%AD%A6%E5%8B%87%E9%8C%B2%EF%BD%9ERecord_Of_Ice_Fairy_War.%E5%B0%81%E9%9D%A2.png 2x" data-file-width="640" data-file-height="480"></a></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">剧情</td><td style=";;" class="navbox-list navbox-even"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>剧情文本</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./氷精武勇録～Record_Of_Ice_Fairy_War.-故事背景.md" title="氷精武勇録～Record Of Ice Fairy War./故事背景">Misson1故事背景</a> &#8226; <a href="./氷精武勇録～Record_Of_Ice_Fairy_War.-Misson2故事背景.md" title="氷精武勇録～Record Of Ice Fairy War./Misson2故事背景">Misson2故事背景</a> &#8226; <a href="./氷精武勇録～Record_Of_Ice_Fairy_War.-Misson1宾卡瓦兹线故事背景.md" title="氷精武勇録～Record Of Ice Fairy War./Misson1宾卡瓦兹线故事背景">Misson1宾卡瓦兹线故事背景</a> &#8226; <a href="./氷精武勇録～Record_Of_Ice_Fairy_War.-Misson3故事背景.md" title="氷精武勇録～Record Of Ice Fairy War./Misson3故事背景">Misson3故事背景</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>游戏对话&amp;结局</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./氷精武勇録～Record_Of_Ice_Fairy_War.-琪露诺.md" title="氷精武勇録～Record Of Ice Fairy War./琪露诺">琪露诺</a> &#8226; <a href="./氷精武勇録～Record_Of_Ice_Fairy_War.-宾卡瓦兹.md" title="氷精武勇録～Record Of Ice Fairy War./宾卡瓦兹">宾卡瓦兹</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>Ex游戏对话</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./氷精武勇録～Record_Of_Ice_Fairy_War.-琪露诺_ExStory.md" title="氷精武勇録～Record Of Ice Fairy War./琪露诺 ExStory">琪露诺</a></div></td></tr></tbody></table><div></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">场景</td><td style=";;" class="navbox-list navbox-odd"><div><a href="./春之小径.md" title="春之小径">春之草原</a> &#8226; <a href="./博丽神社.md" title="博丽神社">博丽神社</a> &#8226; 幻想乡上空湍流 &#8226; <a href="./雾之湖.md" title="雾之湖">雾之湖</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="/%E6%B0%B7%E7%B2%BE%E6%AD%A6%E5%8B%87%E9%8C%B2%EF%BD%9ERecord_Of_Ice_Fairy_War.#其他资料" title="氷精武勇録～Record Of Ice Fairy War.">其他资料</a></td><td style=";;" class="navbox-list navbox-even"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>音乐</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./氷精武勇録～Record_Of_Ice_Fairy_War.-Music.md" title="氷精武勇録～Record Of Ice Fairy War./Music">Music Room</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>其他</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./氷精武勇録～Record_Of_Ice_Fairy_War.-系统.md" title="氷精武勇録～Record Of Ice Fairy War./系统">机体特性与系统说明</a> &#8226; <a class="mw-selflink selflink">成就系统</a> &#8226; <a href="/index.php?title=%E6%B0%B7%E7%B2%BE%E6%AD%A6%E5%8B%87%E9%8C%B2%EF%BD%9ERecord_Of_Ice_Fairy_War./%E5%85%B6%E4%BB%96&amp;action=edit&amp;redlink=1" class="new" title="氷精武勇録～Record Of Ice Fairy War./其他（页面不存在）">其他相关资料</a> &#8226; <a href="./氷精武勇録～Record_Of_Ice_Fairy_War.-符卡.md" title="氷精武勇録～Record Of Ice Fairy War./符卡">符卡列表</a></div></td></tr></tbody></table><div></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="/%E6%B0%B7%E7%B2%BE%E6%AD%A6%E5%8B%87%E9%8C%B2%EF%BD%9ERecord_Of_Ice_Fairy_War.#附带文档" title="氷精武勇録～Record Of Ice Fairy War.">附带文档</a></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./氷精武勇録～Record_Of_Ice_Fairy_War.-游戏内Manual.md" title="氷精武勇録～Record Of Ice Fairy War./游戏内Manual">Manual</a> &#8226; <a href="./氷精武勇録～Record_Of_Ice_Fairy_War.-Readme.md" title="氷精武勇録～Record Of Ice Fairy War./Readme">Readme</a> &#8226; <a href="./氷精武勇録～Record_Of_Ice_Fairy_War.-Omake.md" title="氷精武勇録～Record Of Ice Fairy War./Omake">Omake</a> &#8226; <a href="/index.php?title=%E6%B0%B7%E7%B2%BE%E6%AD%A6%E5%8B%87%E9%8C%B2%EF%BD%9ERecord_Of_Ice_Fairy_War./%E7%B3%BB%E7%BB%9F%E8%A1%A5%E8%B6%B3&amp;action=edit&amp;redlink=1" class="new" title="氷精武勇録～Record Of Ice Fairy War./系统补足（页面不存在）">系统补足</a></div></td></tr></tbody></table></td></tr></tbody></table>
-
-
-
-
-
-
+[^cite_note-2]: 妖精空想花 (未找到链接)
+[^cite_note-3]: 根据Omake，这是シークレット的误写， ~~Tirglish~~ 
 
 ---
 

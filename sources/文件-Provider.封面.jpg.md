@@ -1,6 +1,6 @@
 # 文件:Provider.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\27\ns6%3AProvider%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\27\ns6%3AProvider%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 VA | 同人志封面 | 封面图片
 
@@ -8,16 +8,11 @@ VA | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Provider.](./Provider..md)  
-该封面包含的角色：- [宇佐见堇子](./宇佐见堇子.md)
+- [Provider.](./Provider..md)该封面包含的角色：
+- [宇佐见堇子](./宇佐见堇子.md)
 
   
-源地址：[[1]](https://booth.pximg.net/c/620x620/dc5fd4a1-f0dd-46d4-a6cc-a73ec49808ce/i/866217/70ac55c2-6b67-4648-853a-9b17840a56c2_base_resized.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://booth.pximg.net/c/620x620/dc5fd4a1-f0dd-46d4-a6cc-a73ec49808ce/i/866217/70ac55c2-6b67-4648-853a-9b17840a56c2_base_resized.jpg)  
 
 ---
 

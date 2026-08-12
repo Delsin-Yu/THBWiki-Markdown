@@ -1,6 +1,6 @@
 # 文件:CLOUD_9（Alstroemeria_Records）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ac\ns6%3ACLOUD_9%EF%BC%88Alstroemeria_Records%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ac\ns6%3ACLOUD_9%EF%BC%88Alstroemeria_Records%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Alstroemeria_Records | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Alstroemeria_Records | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [CLOUD 9（Alstroemeria Records）](./CLOUD_9（Alstroemeria_Records）.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [CLOUD 9（Alstroemeria Records）](./CLOUD_9（Alstroemeria_Records）.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

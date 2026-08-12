@@ -1,6 +1,6 @@
 # 文件:kirakira封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\df\ns6%3Akirakira%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\df\ns6%3Akirakira%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 夢中界 | 封面图片
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [kirakira](./kirakira.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [kirakira](./kirakira.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
 
   
-源地址：[direct image link (original size)](https://melonbooks.akamaized.net/upload/save_image/212001205411.jpg), [(Melonbooks ID: 498878)](https://web.archive.org/web/20210722210417/https://www.melonbooks.co.jp/detail/detail.php?product_id=498878)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://melonbooks.akamaized.net/upload/save_image/212001205411.jpg), [(Melonbooks ID: 498878)](https://web.archive.org/web/20210722210417/https://www.melonbooks.co.jp/detail/detail.php?product_id=498878)  
 
 ---
 

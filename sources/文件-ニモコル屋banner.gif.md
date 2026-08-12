@@ -1,14 +1,11 @@
 # 文件:ニモコル屋banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\98\ns6%3A%E3%83%8B%E3%83%A2%E3%82%B3%E3%83%AB%E5%B1%8Bbanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\98\ns6%3A%E3%83%8B%E3%83%A2%E3%82%B3%E3%83%AB%E5%B1%8Bbanner%2Egif.html -->
 
 ニモコル屋 | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

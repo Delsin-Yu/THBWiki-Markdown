@@ -1,12 +1,8 @@
 # 文件:禁忌「Forbidden_Fruits」（红魔乡）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\df\ns6%3A%E7%A6%81%E5%BF%8C%E3%80%8CForbidden_Fruits%E3%80%8D%EF%BC%88%E7%BA%A2%E9%AD%94%E4%B9%A1%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\df\ns6%3A%E7%A6%81%E5%BF%8C%E3%80%8CForbidden_Fruits%E3%80%8D%EF%BC%88%E7%BA%A2%E9%AD%94%E4%B9%A1%EF%BC%89%2Ejpg.html -->
 
 东方文花帖 | 敌机符卡 | 芙兰朵露·斯卡蕾特
-
-
-
-
 
 
 ---

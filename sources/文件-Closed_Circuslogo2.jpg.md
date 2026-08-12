@@ -1,14 +1,11 @@
 # 文件:Closed_Circuslogo2.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\15\ns6%3AClosed_Circuslogo2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\15\ns6%3AClosed_Circuslogo2%2Ejpg.html -->
 
 Closed_Circus | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

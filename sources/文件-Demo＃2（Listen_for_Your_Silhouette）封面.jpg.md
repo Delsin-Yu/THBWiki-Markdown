@@ -1,6 +1,6 @@
 # 文件:Demo＃2（Listen_for_Your_Silhouette）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fe\ns6%3ADemo%EF%BC%832%EF%BC%88Listen_for_Your_Silhouette%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fe\ns6%3ADemo%EF%BC%832%EF%BC%88Listen_for_Your_Silhouette%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Listen_for_Your_Silhouette | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Listen_for_Your_Silhouette | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Demo＃2（Listen for Your Silhouette）](./Demo＃2（Listen_for_Your_Silhouette）.md)  
-该封面包含的角色：- [霍青娥](./霍青娥.md)
-
-
-
+- [Demo＃2（Listen for Your Silhouette）](./Demo＃2（Listen_for_Your_Silhouette）.md)该封面包含的角色：
+- [霍青娥](./霍青娥.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:東方魔宝城_Book_of_Star_Mythology.サウンドトラック封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fb\ns6%3A%E6%9D%B1%E6%96%B9%E9%AD%94%E5%AE%9D%E5%9F%8E_Book_of_Star_Mythology%2E%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fb\ns6%3A%E6%9D%B1%E6%96%B9%E9%AD%94%E5%AE%9D%E5%9F%8E_Book_of_Star_Mythology%2E%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Mace's_Secret_Base | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Mace's_Secret_Base | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方魔宝城 Book of Star Mythology.サウンドトラック](./東方魔宝城_Book_of_Star_Mythology.サウンドトラック.md)  
-该封面包含的角色：- [芙玛·米珊朵拉](./芙玛·米珊朵拉.md)
-
-
-
+- [東方魔宝城 Book of Star Mythology.サウンドトラック](./東方魔宝城_Book_of_Star_Mythology.サウンドトラック.md)该封面包含的角色：
+- [芙玛·米珊朵拉](./芙玛·米珊朵拉.md)
 
 
 ---

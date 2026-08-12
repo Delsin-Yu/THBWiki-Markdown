@@ -1,12 +1,11 @@
 # F.U.M.O._Somniumism_Archive
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\a\a7\ns0%3AF%2EU%2EM%2EO%2E_Somniumism_Archive.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\a\a7\ns0%3AF%2EU%2EM%2EO%2E_Somniumism_Archive.html -->
 
 2024年6月23日 由 fumoism  发布的视觉小说/第三人称STG同人游戏，可在 Windows 系统上运行，游戏人数为 单人，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人软件 (未找到链接)** 的词条
-
+**[二次创作同人软件](./二次创作.md#同人软件)**的词条
 ## 目录
 
 - [1 软件信息](#软件信息)
@@ -18,20 +17,15 @@
 - [7 词条导航](#词条导航)
 
 
-
-
-
 ## 软件信息
 
-<table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=F.U.M.O._Somniumism_Archive%E5%B0%81%E9%9D%A2.jpg" class="new" title="文件:F.U.M.O. Somniumism Archive封面.jpg">封面图片</a></td>
-</tr><tr><td class="label">名称</td><td colspan="2"> F.U.M.O. Somniumism Archive </td></tr><tr><td class="label">译名</td><td colspan="2"> FUMO幻想主义档案 </td></tr><tr><td class="label">制作方</td><td><a href="./fumoism.md" title="fumoism">fumoism</a></td><td class="cover-artwork" rowspan="8" style="min-width:224px;"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=F.U.M.O._Somniumism_Archive%E5%B0%81%E9%9D%A2.jpg" class="new" title="文件:F.U.M.O. Somniumism Archive封面.jpg">封面图片</a></td>
+<table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a class="new" title="文件:F.U.M.O. Somniumism Archive封面.jpg">封面图片</a></td>
+</tr><tr><td class="label">名称</td><td colspan="2"> F.U.M.O. Somniumism Archive </td></tr><tr><td class="label">译名</td><td colspan="2"> FUMO幻想主义档案 </td></tr><tr><td class="label">制作方</td><td><a href="./fumoism.md" title="fumoism">fumoism</a></td><td class="cover-artwork" rowspan="8" style="min-width:224px;"><a class="new" title="文件:F.U.M.O. Somniumism Archive封面.jpg">封面图片</a></td>
 </tr><tr><td class="label">首发日期</td><td>未知</td></tr><tr><td class="label">类型</td><td>游戏</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">游戏人数</td><td>单人</td></tr><tr><td class="label">游戏类型</td><td>视觉小说，第三人称STG</td></tr><tr><td class="label">运行平台</td><td>Windows</td></tr><tr><td class="label">语言</td><td>简体中文</td></tr><tr><td class="label">售价</td><td>免费</td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://fumoism.com/">https://fumoism.com/</a></td></tr><tr><td class="label">备注</td><td colspan="2">游戏内容包含10个故事叙述篇章，预期游玩时间约40分钟；2个异变解决篇章，预期游玩时间约20分钟。</td></tr></tbody></table>
 
 F.U.M.O. Somniumism Archive（同人游戏，fumoism） - 2024年6月24日 由 fumoism  发布的视觉小说/第三人称STG同人游戏，可在 Windows 系统上运行，游戏人数为 单人，分级为 一般向
-
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://fumoism.com/">其他平台早期测试版本</a></td></tr></tbody></table>
-
 
 
 <table>
@@ -40,35 +34,28 @@ F.U.M.O. Somniumism Archive（同人游戏，fumoism） - 2024年6月24日 由 f
 </tbody></table>
 
 
-
 ## Staff
 策划/程序/文案/音频/美术
 : FlutterWings
 美术/立绘
 : 绵羊
 
-
 ## 游戏介绍
-
   
 幻想乡是人类与妖怪共存的，被遗忘者的乐园。即使已经被现世人类发现，幻想乡也和平的存续着。  
-
   
 
 来自另一个世界、拥有和幻想少女相似外观的毛绒绒生物在现世出现，之后，牵连出涉及三个世界的异变。  
-
   
 
 现在，来自不同世界的10者齐聚于此，共有着一段幻想般的旅程。  
-
   
 
 The one who knows everything. The ambidexterity. Both in reality and in somnium.
   
 
-
-
 ## 内容页面
+
 - 游戏设定与剧情 (未找到链接)
 - 攻略 (未找到链接)
 - 使用说明 (未找到链接)
@@ -79,18 +66,9 @@ The one who knows everything. The ambidexterity. Both in reality and in somnium.
 
 ## 宣传视频
   
-[初宣视频](https://fumoism.com/fumo/285)
+[初宣视频](https://fumoism.com/fumo/285)  
   
-
-
-## 词条导航
-  
-F.U.M.O. Somniumism Archive/导航 (未找到链接)
-  
-
-
-
-
+F.U.M.O. Somniumism Archive/导航 (未找到链接)  
 
 ---
 

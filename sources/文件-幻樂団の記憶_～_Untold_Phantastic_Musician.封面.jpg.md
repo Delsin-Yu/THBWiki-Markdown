@@ -1,6 +1,6 @@
 # 文件:幻樂団の記憶_～_Untold_Phantastic_Musician.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\11\ns6%3A%E5%B9%BB%E6%A8%82%E5%9B%A3%E3%81%AE%E8%A8%98%E6%86%B6_%EF%BD%9E_Untold_Phantastic_Musician%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\11\ns6%3A%E5%B9%BB%E6%A8%82%E5%9B%A3%E3%81%AE%E8%A8%98%E6%86%B6_%EF%BD%9E_Untold_Phantastic_Musician%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 かいこ計 | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [幻樂団の記憶 ～ Untold Phantastic Musician.](./幻樂団の記憶_～_Untold_Phantastic_Musician..md)  
-该封面包含的角色：- [冴月麟](./冴月麟.md)
+- [幻樂団の記憶 ～ Untold Phantastic Musician.](./幻樂団の記憶_～_Untold_Phantastic_Musician..md)该封面包含的角色：
+- [冴月麟](./冴月麟.md)
 
   
-[Pixiv artwork ID: 74500908](https://www.pixiv.net/artworks/74500908)
-  
-
-
-
-
+[Pixiv artwork ID: 74500908](https://www.pixiv.net/artworks/74500908)  
 
 ---
 

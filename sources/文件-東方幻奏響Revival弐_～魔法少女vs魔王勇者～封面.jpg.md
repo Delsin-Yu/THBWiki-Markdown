@@ -1,6 +1,6 @@
 # 文件:東方幻奏響Revival弐_～魔法少女vs魔王勇者～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\38\ns6%3A%E6%9D%B1%E6%96%B9%E5%B9%BB%E5%A5%8F%E9%9F%BFRevival%E5%BC%90_%EF%BD%9E%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3vs%E9%AD%94%E7%8E%8B%E5%8B%87%E8%80%85%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\38\ns6%3A%E6%9D%B1%E6%96%B9%E5%B9%BB%E5%A5%8F%E9%9F%BFRevival%E5%BC%90_%EF%BD%9E%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3vs%E9%AD%94%E7%8E%8B%E5%8B%87%E8%80%85%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 虎之穴
 
@@ -8,11 +8,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方幻奏響Revival弐 ～魔法少女vs魔王勇者～](./東方幻奏響Revival弐_～魔法少女vs魔王勇者～.md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)- [射命丸文](./射命丸文.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [東方幻奏響Revival弐 ～魔法少女vs魔王勇者～](./東方幻奏響Revival弐_～魔法少女vs魔王勇者～.md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
+- [射命丸文](./射命丸文.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

@@ -1,18 +1,13 @@
 # 文件:その他大勢banner2.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\88\ns6%3A%E3%81%9D%E3%81%AE%E4%BB%96%E5%A4%A7%E5%8B%A2banner2%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\88\ns6%3A%E3%81%9D%E3%81%AE%E4%BB%96%E5%A4%A7%E5%8B%A2banner2%2Egif.html -->
 
 その他大勢 | 社团LOGO
 
 
 ## 摘要
   
-源地址：[direct image link](https://web.archive.org/web/20110809073206im_/http://soz.noob.jp/bn.gif), [source page](https://web.archive.org/web/20111122140317/http://soz.noob.jp/)
-  
-
-
-
-
+源地址：[direct image link](https://web.archive.org/web/20110809073206im_/http://soz.noob.jp/bn.gif), [source page](https://web.archive.org/web/20111122140317/http://soz.noob.jp/)  
 
 ---
 

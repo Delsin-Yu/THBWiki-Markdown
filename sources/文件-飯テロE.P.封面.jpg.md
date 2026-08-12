@@ -1,6 +1,6 @@
 # 文件:飯テロE.P.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\eb\ns6%3A%E9%A3%AF%E3%83%86%E3%83%ADE%2EP%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\eb\ns6%3A%E9%A3%AF%E3%83%86%E3%83%ADE%2EP%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 dat_file_records | 专辑封面 | 封面图片 | 脱兎屋
 
@@ -11,12 +11,7 @@ dat_file_records | 专辑封面 | 封面图片 | 脱兎屋
 - [飯テロE.P.](./飯テロE.P..md)
 
   
-源地址：[[1]](http://static.tumblr.com/a56e4fe137f4e3ccddd8d92e2d2795a1/e3lazzy/6K1nmdvnb/tumblr_static_7ccmoqwotrwgo04w08sc8gos4.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://static.tumblr.com/a56e4fe137f4e3ccddd8d92e2d2795a1/e3lazzy/6K1nmdvnb/tumblr_static_7ccmoqwotrwgo04w08sc8gos4.jpg)  
 
 ---
 

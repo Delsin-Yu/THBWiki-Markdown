@@ -1,12 +1,8 @@
 # 文件:M-Reimu（熄_废人氏）立绘.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\73\ns6%3AM-Reimu%EF%BC%88%E7%86%84_%E5%BA%9F%E4%BA%BA%E6%B0%8F%EF%BC%89%E7%AB%8B%E7%BB%98%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\73\ns6%3AM-Reimu%EF%BC%88%E7%86%84_%E5%BA%9F%E4%BA%BA%E6%B0%8F%EF%BC%89%E7%AB%8B%E7%BB%98%2Epng.html -->
 
 M-Reimu（熄_废人氏） | MUGEN
-
-
-
-
 
 
 ---

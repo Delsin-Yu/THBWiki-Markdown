@@ -1,6 +1,6 @@
 # 文件:Re_：_Wind封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\83\ns6%3ARe_%EF%BC%9A_Wind%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\83\ns6%3ARe_%EF%BC%9A_Wind%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 スラム_教団 | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@
   
 
 - [Re：Wind](./Re：Wind.md)
-
-
-
 
 
 ---

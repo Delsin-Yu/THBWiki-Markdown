@@ -1,6 +1,6 @@
 # 方解夢異聞_～_Avant-Garde_Discerning_Paralleler/符卡列表
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\d\d3\ns0%3A%E6%96%B9%E8%A7%A3%E5%A4%A2%E7%95%B0%E8%81%9E_%EF%BD%9E_Avant-Garde_Discerning_Paralleler%2F%E7%AC%A6%E5%8D%A1%E5%88%97%E8%A1%A8.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\d\d3\ns0%3A%E6%96%B9%E8%A7%A3%E5%A4%A2%E7%95%B0%E8%81%9E_%EF%BD%9E_Avant-Garde_Discerning_Paralleler%2F%E7%AC%A6%E5%8D%A1%E5%88%97%E8%A1%A8.html -->
 
 含有特殊字符的词条 | 遊色高楼
 
@@ -13,11 +13,9 @@
 </tr>
 </tbody></table>
 
-
   
 注意，游戏记录界面的符卡编号和符卡练习界面的符卡编号并不一样，至于发生了啥我也不知道。
   
-
 
 <table>
 <tbody><tr>
@@ -28,7 +26,7 @@
 <tr>
 <td>1</td>
 <td>蛍符「異郷土蛍」</td>
-<td>萤符「异乡土萤」<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">1</a></sup>
+<td>萤符「异乡土萤」<span>[^cite_note-1]</span>
 </td></tr>
 <tr>
 <td>2</td>
@@ -78,12 +76,12 @@
 <tr>
 <td>11</td>
 <td>穣符「忘れられた櫛名田」</td>
-<td>穰符「被遗忘的栉名田<sup id="cite_ref-kusinada_2-0" class="reference"><a href="#cite_note-kusinada-2">2</a></sup>」
+<td>穰符「被遗忘的栉名田<span>[^cite_note-kusinada-2]</span>」
 </td></tr>
 <tr>
 <td>12</td>
 <td>豊穣「久志伊奈太降臨」</td>
-<td>丰穰「久志伊奈太<sup id="cite_ref-kusinada_2-1" class="reference"><a href="#cite_note-kusinada-2">2</a></sup>降临」
+<td>丰穰「久志伊奈太<span>[^cite_note-kusinada-2]</span>降临」
 </td></tr>
 <tr>
 <td>13</td>
@@ -113,7 +111,7 @@
 <tr>
 <td>18</td>
 <td>月符「刺繍の中に天寿国在り」</td>
-<td>月符「刺绣中有天寿国」<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">3</a></sup>
+<td>月符「刺绣中有天寿国」<span>[^cite_note-3]</span>
 </td></tr>
 <tr>
 <td>19</td>
@@ -123,17 +121,17 @@
 <tr>
 <td>20</td>
 <td>巧符「有用兎兵法」</td>
-<td>巧符「有用兔兵法」<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">4</a></sup>
+<td>巧符「有用兔兵法」<span>[^cite_note-4]</span>
 </td></tr>
 <tr>
 <td>21</td>
 <td>「帝釈天の月移し」</td>
-<td>「帝释天寄月」<sup id="cite_ref-tu_5-0" class="reference"><a href="#cite_note-tu-5">5</a></sup>
+<td>「帝释天寄月」<span>[^cite_note-tu-5]</span>
 </td></tr>
 <tr>
 <td>22</td>
 <td>「帝釈天の月移し」</td>
-<td>「帝释天寄月」<sup id="cite_ref-tu_5-1" class="reference"><a href="#cite_note-tu-5">5</a></sup>
+<td>「帝释天寄月」<span>[^cite_note-tu-5]</span>
 </td></tr>
 <tr>
 <td>23</td>
@@ -168,12 +166,12 @@
 <tr>
 <td>29</td>
 <td>施符「闍多伽献兎」</td>
-<td>施符「阇多伽献兔」<sup id="cite_ref-tu_5-2" class="reference"><a href="#cite_note-tu-5">5</a></sup>
+<td>施符「阇多伽献兔」<span>[^cite_note-tu-5]</span>
 </td></tr>
 <tr>
 <td>30</td>
 <td>施符「闍多伽献兎」</td>
-<td>施符「阇多伽献兔」<sup id="cite_ref-tu_5-3" class="reference"><a href="#cite_note-tu-5">5</a></sup>
+<td>施符「阇多伽献兔」<span>[^cite_note-tu-5]</span>
 </td></tr>
 <tr>
 <td>31</td>
@@ -188,7 +186,7 @@
 <tr>
 <td>33</td>
 <td>最新難題「人造ミシャグジ試作型」</td>
-<td>最新难题「试做型人造御射军神」<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">6</a></sup>
+<td>最新难题「试做型人造御射军神」<span>[^cite_note-6]</span>
 </td></tr>
 <tr>
 <td>34</td>
@@ -248,12 +246,12 @@
 <tr>
 <td>45</td>
 <td>忌符「鍋島の会稽」</td>
-<td>忌符「锅岛在莒」<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">7</a></sup>
+<td>忌符「锅岛在莒」<span>[^cite_note-7]</span>
 </td></tr>
 <tr>
 <td>46</td>
 <td>大忌符「血滴る金花祟り」</td>
-<td>大忌符「滴血金花祟」<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">8</a></sup>
+<td>大忌符「滴血金花祟」<span>[^cite_note-8]</span>
 </td></tr>
 <tr>
 <td>47</td>
@@ -268,12 +266,12 @@
 <tr>
 <td>49</td>
 <td>象符「吉祥喜旋発現す」</td>
-<td>象符「吉祥喜旋之相」<sup id="cite_ref-卍_9-0" class="reference"><a href="#cite_note-卍-9">9</a></sup>
+<td>象符「吉祥喜旋之相」<span>[^cite_note-卍-9]</span>
 </td></tr>
 <tr>
 <td>50</td>
 <td>反象「力宿りし瑞相」</td>
-<td>反象「寄宿力量的瑞相」<sup id="cite_ref-卍_9-1" class="reference"><a href="#cite_note-卍-9">9</a></sup>
+<td>反象「寄宿力量的瑞相」<span>[^cite_note-卍-9]</span>
 </td></tr>
 <tr>
 <td>51</td>
@@ -293,7 +291,7 @@
 <tr>
 <td>54</td>
 <td>炎符「ピュラリスブレイズ」</td>
-<td>炎符「Puralis Blaze」（巨火虫烈焰）<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">10</a></sup>
+<td>炎符「Puralis Blaze」（巨火虫烈焰）<span>[^cite_note-10]</span>
 </td></tr>
 <tr>
 <td>55</td>
@@ -303,12 +301,12 @@
 <tr>
 <td>56</td>
 <td>魔天「フェネクスの魂」</td>
-<td>魔天「Phenex之魂」（邪凤之魂）<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">11</a></sup>
+<td>魔天「Phenex之魂」（邪凤之魂）<span>[^cite_note-11]</span>
 </td></tr>
 <tr>
 <td>57</td>
 <td>廻符「興福寺に迫る兵火」</td>
-<td>回符「战火临近兴福寺」<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">12</a></sup>
+<td>回符「战火临近兴福寺」<span>[^cite_note-12]</span>
 </td></tr>
 <tr>
 <td>58</td>
@@ -328,12 +326,12 @@
 <tr>
 <td>61</td>
 <td>「山下白雨　-フジヤマイラプション-」</td>
-<td>「山下白雨<sup id="cite_ref-fuji_13-0" class="reference"><a href="#cite_note-fuji-13">13</a></sup>　-Fujiyama Eruption-」（富士山爆发）
+<td>「山下白雨<span>[^cite_note-fuji-13]</span>　-Fujiyama Eruption-」（富士山爆发）
 </td></tr>
 <tr>
 <td>62</td>
 <td>「山下白雨　-フジヤマイラプション-」</td>
-<td>「山下白雨<sup id="cite_ref-fuji_13-1" class="reference"><a href="#cite_note-fuji-13">13</a></sup>　-Fujiyama Eruption-」（富士山爆发）
+<td>「山下白雨<span>[^cite_note-fuji-13]</span>　-Fujiyama Eruption-」（富士山爆发）
 </td></tr>
 <tr>
 <td>63</td>
@@ -393,7 +391,7 @@
 <tr>
 <td>74</td>
 <td>兎符「ワイルドラビットカーペット」</td>
-<td>兔符「Wild Rabbit Carpet」（野生的兔地毯）<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">14</a></sup>
+<td>兔符「Wild Rabbit Carpet」（野生的兔地毯）<span>[^cite_note-14]</span>
 </td></tr>
 <tr>
 <td>75</td>
@@ -408,12 +406,12 @@
 <tr>
 <td>77</td>
 <td>工具「ハラハラのこぎり」</td>
-<td>工具「惊险钢锯」<sup id="cite_ref-ripsaw_rage_15-0" class="reference"><a href="#cite_note-ripsaw_rage-15">15</a></sup>
+<td>工具「惊险钢锯」<span>[^cite_note-ripsaw_rage-15]</span>
 </td></tr>
 <tr>
 <td>78</td>
 <td>工具「ハラハラのこぎり」</td>
-<td>工具「惊险钢锯」<sup id="cite_ref-ripsaw_rage_15-1" class="reference"><a href="#cite_note-ripsaw_rage-15">15</a></sup>
+<td>工具「惊险钢锯」<span>[^cite_note-ripsaw_rage-15]</span>
 </td></tr>
 <tr>
 <td>79</td>
@@ -468,7 +466,7 @@
 <tr>
 <td>89</td>
 <td>雷符「避雷桑原」</td>
-<td>雷符「避雷桑原」<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">16</a></sup>
+<td>雷符「避雷桑原」<span>[^cite_note-16]</span>
 </td></tr>
 <tr>
 <td>90</td>
@@ -593,7 +591,7 @@
 <tr>
 <td>114</td>
 <td>「モザイキングバレットヘル」</td>
-<td>「Mosaicing Bullet Hell」（马赛克弹幕地狱）<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">17</a></sup>
+<td>「Mosaicing Bullet Hell」（马赛克弹幕地狱）<span>[^cite_note-17]</span>
 </td></tr>
 <tr>
 <td>115</td>
@@ -698,12 +696,12 @@
 <tr>
 <td>135</td>
 <td>廠符「カントリーファクトリー」</td>
-<td>厂符「Country Factory」（王国工厂）<sup id="cite_ref-factory_18-0" class="reference"><a href="#cite_note-factory-18">18</a></sup>
+<td>厂符「Country Factory」（王国工厂）<span>[^cite_note-factory-18]</span>
 </td></tr>
 <tr>
 <td>136</td>
 <td>廠符「カントリーファクトリー」</td>
-<td>厂符「Country Factory」（王国工厂）<sup id="cite_ref-factory_18-1" class="reference"><a href="#cite_note-factory-18">18</a></sup>
+<td>厂符「Country Factory」（王国工厂）<span>[^cite_note-factory-18]</span>
 </td></tr>
 <tr>
 <td>137</td>
@@ -718,12 +716,12 @@
 <tr>
 <td>139</td>
 <td>兵器「エヴァッカニア・トランプ」</td>
-<td>兵器「Evaccaneer TRUMP」（王牌重机动战斗要塞）<sup id="cite_ref-evac_19-0" class="reference"><a href="#cite_note-evac-19">19</a></sup>
+<td>兵器「Evaccaneer TRUMP」（王牌重机动战斗要塞）<span>[^cite_note-evac-19]</span>
 </td></tr>
 <tr>
 <td>140</td>
 <td>兵器「エヴァッカニア・トランプ」</td>
-<td>兵器「Evaccaneer TRUMP」（王牌重机动战斗要塞）<sup id="cite_ref-evac_19-1" class="reference"><a href="#cite_note-evac-19">19</a></sup>
+<td>兵器「Evaccaneer TRUMP」（王牌重机动战斗要塞）<span>[^cite_note-evac-19]</span>
 </td></tr>
 <tr>
 <td>141</td>
@@ -858,12 +856,12 @@
 <tr>
 <td>167</td>
 <td>薩座「尼公は魔法僧侶」</td>
-<td>萨座「尼公式魔法僧侣」<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">20</a></sup>
+<td>萨座「尼公式魔法僧侣」<span>[^cite_note-20]</span>
 </td></tr>
 <tr>
 <td>168</td>
 <td>加持祈祷「剣鎧乱舞」</td>
-<td>加持祈祷「剑铠乱舞」<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">21</a></sup>
+<td>加持祈祷「剑铠乱舞」<span>[^cite_note-21]</span>
 </td></tr>
 <tr>
 <td>169</td>
@@ -873,22 +871,22 @@
 <tr>
 <td>170</td>
 <td>「尼公の奇妙な冒険」</td>
-<td>「尼公的奇妙冒险」<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">22</a></sup>
+<td>「尼公的奇妙冒险」<span>[^cite_note-22]</span>
 </td></tr>
 <tr>
 <td>171</td>
 <td>「星仏の宴　宴の思索」</td>
-<td>「星佛之宴　宴之思索」<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">23</a></sup>
+<td>「星佛之宴　宴之思索」<span>[^cite_note-23]</span>
 </td></tr>
 <tr>
 <td>172</td>
 <td>「異時同図白蓮」</td>
-<td>「异时同图白莲」<sup id="cite_ref-time_24-0" class="reference"><a href="#cite_note-time-24">24</a></sup>
+<td>「异时同图白莲」<span>[^cite_note-time-24]</span>
 </td></tr>
 <tr>
 <td>173</td>
 <td>「異時同図白蓮」</td>
-<td>「异时同图白莲」<sup id="cite_ref-time_24-1" class="reference"><a href="#cite_note-time-24">24</a></sup>
+<td>「异时同图白莲」<span>[^cite_note-time-24]</span>
 </td></tr>
 <tr>
 <td>174</td>
@@ -993,7 +991,7 @@
 <tr>
 <td>194</td>
 <td>「泡宇宙に浮かぶ幻想郷」</td>
-<td>「漂浮于泡泡宇宙之中的幻想乡」<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">25</a></sup>
+<td>「漂浮于泡泡宇宙之中的幻想乡」<span>[^cite_note-25]</span>
 </td></tr>
 <tr>
 <td>195</td>
@@ -1003,7 +1001,7 @@
 <tr>
 <td>196</td>
 <td>罔両「セーフとアウトの矛夾」</td>
-<td>罔两「过关与出局的矛夹」<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">26</a></sup>
+<td>罔两「过关与出局的矛夹」<span>[^cite_note-26]</span>
 </td></tr>
 <tr>
 <td>197</td>
@@ -1033,12 +1031,12 @@
 <tr>
 <td>202</td>
 <td>「有限の高速飛行物体」</td>
-<td>「有限的高速飞行物体」<sup id="cite_ref-esa_27-0" class="reference"><a href="#cite_note-esa-27">27</a></sup>
+<td>「有限的高速飞行物体」<span>[^cite_note-esa-27]</span>
 </td></tr>
 <tr>
 <td>203</td>
 <td>「幽現の超高速飛行体」</td>
-<td>「幽现的超高速飞行物」<sup id="cite_ref-esa_27-1" class="reference"><a href="#cite_note-esa-27">27</a></sup>
+<td>「幽现的超高速飞行物」<span>[^cite_note-esa-27]</span>
 </td></tr>
 <tr>
 <td>204</td>
@@ -1133,7 +1131,7 @@
 <tr>
 <td>222</td>
 <td>家鳴「フィジカルラップサウンド」</td>
-<td>家鸣<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">28</a></sup>「Physical Rap Sound」（实体节奏鸣响）
+<td>家鸣<span>[^cite_note-28]</span>「Physical Rap Sound」（实体节奏鸣响）
 </td></tr>
 <tr>
 <td>223</td>
@@ -1153,12 +1151,12 @@
 <tr>
 <td>226</td>
 <td>「幻想の大怪鳥ルフ」</td>
-<td>「幻想中的大怪鸟 大鹏」<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">29</a></sup>
+<td>「幻想中的大怪鸟 大鹏」<span>[^cite_note-29]</span>
 </td></tr>
 <tr>
 <td>227</td>
 <td>「伝説の巨大怪鳥ジャターユ」</td>
-<td>「传说中的巨大怪鸟 阇吒优私」<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">30</a></sup>
+<td>「传说中的巨大怪鸟 阇吒优私」<span>[^cite_note-30]</span>
 </td></tr>
 <tr>
 <td>228</td>
@@ -1173,7 +1171,7 @@
 <tr>
 <td>230</td>
 <td>深掘「プレイヤードリルダウン」</td>
-<td>深掘「Player Drill-Down」（玩家钻取）<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">31</a></sup>
+<td>深掘「Player Drill-Down」（玩家钻取）<span>[^cite_note-31]</span>
 </td></tr>
 <tr>
 <td>231</td>
@@ -1198,27 +1196,27 @@
 <tr>
 <td>235</td>
 <td>拘束「哲学者の円卓」</td>
-<td>拘束「哲学家的餐桌」<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">32</a></sup>
+<td>拘束「哲学家的餐桌」<span>[^cite_note-32]</span>
 </td></tr>
 <tr>
 <td>236</td>
 <td>虚軸「低自由度ジンバル」</td>
-<td>虚轴「低自由度Gimbal」（低自由度万向节）<sup id="cite_ref-33" class="reference"><a href="#cite_note-33">33</a></sup>
+<td>虚轴「低自由度Gimbal」（低自由度万向节）<span>[^cite_note-33]</span>
 </td></tr>
 <tr>
 <td>237</td>
 <td>「妖体反応マトリクススイッチ」</td>
-<td>「妖体反应Matrix Switch」（妖体反应矩阵开关）<sup id="cite_ref-matrix_34-0" class="reference"><a href="#cite_note-matrix-34">34</a></sup>
+<td>「妖体反应Matrix Switch」（妖体反应矩阵开关）<span>[^cite_note-matrix-34]</span>
 </td></tr>
 <tr>
 <td>238</td>
 <td>「妖体反応マトリクススイッチ」</td>
-<td>「妖体反应Matrix Switch」（妖体反应矩阵开关）<sup id="cite_ref-matrix_34-1" class="reference"><a href="#cite_note-matrix-34">34</a></sup>
+<td>「妖体反应Matrix Switch」（妖体反应矩阵开关）<span>[^cite_note-matrix-34]</span>
 </td></tr>
 <tr>
 <td>239</td>
 <td>破滅「超収束環体群」</td>
-<td>破灭「超收敛群环域」<sup id="cite_ref-35" class="reference"><a href="#cite_note-35">35</a></sup>
+<td>破灭「超收敛群环域」<span>[^cite_note-35]</span>
 </td></tr>
 <tr>
 <td>240</td>
@@ -1228,7 +1226,7 @@
 <tr>
 <td>241</td>
 <td>死滅「ディストリビューテッドアタック」</td>
-<td>死灭「Distributed Attack」（分布式攻击）<sup id="cite_ref-36" class="reference"><a href="#cite_note-36">36</a></sup>
+<td>死灭「Distributed Attack」（分布式攻击）<span>[^cite_note-36]</span>
 </td></tr>
 <tr>
 <td>242</td>
@@ -1258,12 +1256,12 @@
 <tr>
 <td>247</td>
 <td>「ダイバージェンス・オブ・フォース」</td>
-<td>「Divergence of Force」（力量的差距）<sup id="cite_ref-37" class="reference"><a href="#cite_note-37">37</a></sup>
+<td>「Divergence of Force」（力量的差距）<span>[^cite_note-37]</span>
 </td></tr>
 <tr>
 <td>248</td>
 <td>「赤き大狂飆」</td>
-<td>「赤红大狂飙」<sup id="cite_ref-38" class="reference"><a href="#cite_note-38">38</a></sup>
+<td>「赤红大狂飙」<span>[^cite_note-38]</span>
 </td></tr>
 <tr>
 <td>249</td>
@@ -1273,7 +1271,7 @@
 <tr>
 <td>250</td>
 <td>星符「超準ギャラクシー」</td>
-<td>星符「非标准Galaxy」（非标准星系）<sup id="cite_ref-39" class="reference"><a href="#cite_note-39">39</a></sup>
+<td>星符「非标准Galaxy」（非标准星系）<span>[^cite_note-39]</span>
 </td></tr>
 <tr>
 <td>251</td>
@@ -1288,26 +1286,61 @@
 <tr>
 <td>253</td>
 <td>「晦冥に舞うエテム」</td>
-<td>「于晦冥之中起舞的魂灵」<sup id="cite_ref-40" class="reference"><a href="#cite_note-40">40</a></sup>
+<td>「于晦冥之中起舞的魂灵」<span>[^cite_note-40]</span>
 </td></tr>
 <tr>
 <td>254</td>
 <td>「プロミスキャスアナライザ」</td>
-<td>「Promiscuous Analyzer」（混杂分析器）<sup id="cite_ref-41" class="reference"><a href="#cite_note-41">41</a></sup>
+<td>「Promiscuous Analyzer」（混杂分析器）<span>[^cite_note-41]</span>
 </td></tr>
 <tr>
 <td>255</td>
 <td>「デッドスマーフリフレクター」</td>
-<td>「Dead Smurf Reflector」（Smurf攻击绝对反射）<sup id="cite_ref-42" class="reference"><a href="#cite_note-42">42</a></sup>
+<td>「Dead Smurf Reflector」（Smurf攻击绝对反射）<span>[^cite_note-42]</span>
 </td></tr></tbody></table>
 
-
-
 [^cite_note-1]: 土萤为萤火虫的幼虫。
-
-
-
-
+[^cite_note-kusinada-2]: 即奇稻田姬，参见[秋穰子/分析考据](./秋穰子-分析考据.md)。
+[^cite_note-3]: 参[天寿国绣帐](https://ja.wikipedia.org/wiki/天寿国繡帳)。相传圣德太子死后去往天寿国，这张绣帐即描绘了想象中的这一景象。
+[^cite_note-4]: 「兔兵法」，日语用来形容馊主意。来自因幡素兔的故事。
+[^cite_note-tu-5]: 即佛经中的兔本生故事，讲兔子自焚以肉供养仙人，帝释天感动而将其拔为月兔的故事。「阇多伽」（जातक）即「本生」，表示前世故事的意思。
+[^cite_note-6]: 取[御社宫司大人](./御社宫司大人.md)一卡的捏他。
+[^cite_note-7]: 「会稽」化用卧薪尝胆典故，日本人表示「耻辱」或者「复仇」。这里指的是[锅岛怪猫骚动](https://ja.wikipedia.org/wiki/鍋島騒動)，为猫替冤死的主人复仇的传说。
+[^cite_note-8]: 日本所谓「金花猫」，来自中国的「[金华猫](https://www.cbaigui.com/post-153.html)」传说。
+[^cite_note-卍-9]: 「吉祥喜旋」即「卍」（或卐）字。一说左旋卍代表仁爱，右旋卐代表力量。
+[^cite_note-10]: Puralis据说是一种生活在火中的幻想生物。有说法将其与萨拉曼达混同。
+[^cite_note-11]: 出自《机动战士高达UC》中，独角兽系列的三号机菲尼克斯。
+[^cite_note-12]: 指[南都烧讨](https://ja.wikipedia.org/wiki/南都焼討)。
+[^cite_note-fuji-13]: [山下白雨](https://ja.wikipedia.org/wiki/山下白雨)和「[凯风快晴](./凯风快晴_-Fujiyama_Volcano-.md)」同为富岳三十六景之一。
+[^cite_note-14]: 捏他[「Wild Carpet」](./野生的离岛.md)（野生地毯）
+[^cite_note-ripsaw_rage-15]: 出自SFC游戏《スーパードンキーコング3》（超级大金刚3）的World 4, Stage 3
+[^cite_note-16]: 据说[菅原道真](./祸原命庙.md)的领地桑原没有遭受过雷击，后来传说演变为桑树旁边不会落雷。
+[^cite_note-17]: 1.10c版本前为光学「ガウスの枷」（光学「高斯之枷」）
+[^cite_note-factory-18]: 出自SFC游戏《スーパードンキーコング》（超级大金刚）的World 5
+[^cite_note-evac-19]: 捏他cave社STG《绊地狱》的5 boss，「试做型重机动战斗要塞 Evaccaneer（試作型重機動戦闘要塞 エヴァッカニア）」（俗称电饭锅的那位）。顺带一提，该作的真boss“光翼”全名为「光翼型近接支援残酷战斗机 Evaccaneer Doom（光翼型近接支援残酷戦闘機 エヴァッカニア・ドゥーム）」。
+[^cite_note-20]: 捏他cave社的手游，《ゴシックは魔法乙女》（哥特式魔法少女）
+[^cite_note-21]: 《信贵山缘起》中载毗沙门天有“剑铠护法童子”。另捏他游戏《刀剑乱舞》。
+[^cite_note-22]: 捏他著名漫画《Jojo的奇妙冒险》
+[^cite_note-23]: 捏他京极夏彦的上下部妖怪推理小说，《涂佛之宴 宴之支度》（意为「备宴」）及《涂佛之宴 宴之始末》（意为「撤宴」）
+[^cite_note-time-24]: 「异时同图」是一种常用于佛教画作的作画手法，将不同时间的同一个登场人物画在同一张图上。
+[^cite_note-25]: 参见[漂浮于宇宙之中的幻想乡](./漂浮于宇宙之中的幻想乡.md)
+[^cite_note-26]: 「矛夾」或谐音「夢境」
+[^cite_note-esa-27]: 参[外力「无限的超高速飞行体」](./无限的超高速飞行体.md)
+[^cite_note-28]: 见[wja:家鳴](https://ja.wikipedia.org/wiki/家鳴)
+[^cite_note-29]: 阿拉伯神话中的[大鹏](https://zh.wikipedia.org/wiki/大鹏_（阿拉伯神话）)（رخ）
+[^cite_note-30]: 印度神话中的[阇吒优私](https://zh.wikipedia.org/wiki/阇吒优私)（जटायुः）
+[^cite_note-31]: 「Drill-Down」为数据挖掘技术中，对精细分析具体数据的称呼。可参[知乎简介](https://www.zhihu.com/question/19955124)
+[^cite_note-32]: 计算机科学中著名的[哲学家就餐问题](https://zh.wikipedia.org/wiki/哲学家就餐问题)
+[^cite_note-33]: Gimbal Lock（万向节死锁）是计算机图形学中的一个佯谬。可参见这篇[介绍文章](http://www.zwqxin.com/archives/arithmetic/gimballock-and-quaternion.html)或[维基介绍](https://zh.wikipedia.org/wiki/環架鎖定)
+[^cite_note-matrix-34]: 电信行业指以矩阵形式控制接线的开关。参见[wja:マトリックススイッチャ](https://ja.wikipedia.org/wiki/マトリックススイッチャ)
+[^cite_note-35]: 「[超收敛](https://baike.baidu.com/item/超收敛/19070167?fr=aladdin)」是一种收敛速度超出预期的数学性质。
+[^cite_note-36]: 即著名的DDoS攻击。
+[^cite_note-37]: divergence就是大家都很熟悉的[散度](https://zh.wikipedia.org/wiki/散度)。因此这张卡也可以翻作「力的散度」。
+[^cite_note-38]: 捏[幡紫龙](./幡紫龙.md)故事中的RedStorm
+[^cite_note-39]: 参见[非标准分析](https://zh.wikipedia.org/wiki/非标准分析)。
+[^cite_note-40]: "eṭemmu"（希伯来转写：אטים）是阿卡德语的“鬼魂”，借自苏美尔语gidim（𒄇）。可参见[oracc整理](http://oracc.museum.upenn.edu/epsd2/o0028131)
+[^cite_note-41]: 「[混杂模式](https://zh.wikipedia.org/wiki/混杂模式)」是计算机网络术语，指网卡无差别处理经过其的所有数据。
+[^cite_note-42]: [Smurf攻击](https://en.wikipedia.org/wiki/Smurf_attack)是一种古典的DoS攻击。
 
 ---
 

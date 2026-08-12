@@ -1,16 +1,12 @@
 # 文件:精米Record's_社团logo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ad\ns6%3A%E7%B2%BE%E7%B1%B3Record%27s_%E7%A4%BE%E5%9B%A2logo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ad\ns6%3A%E7%B2%BE%E7%B1%B3Record%27s_%E7%A4%BE%E5%9B%A2logo%2Ejpg.html -->
 
 社团LOGO | 精米Record's
 
   
 精米Record's的社团logo，来自官网
   
-
-
-
-
 
 ---
 

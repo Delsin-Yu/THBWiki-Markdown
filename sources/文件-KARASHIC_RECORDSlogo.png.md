@@ -1,18 +1,13 @@
 # 文件:KARASHIC_RECORDSlogo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fe\ns6%3AKARASHIC_RECORDSlogo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fe\ns6%3AKARASHIC_RECORDSlogo%2Epng.html -->
 
 KARASHIC_RECORDS | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[direct image link](https://oameya.com/images/screens/karashicrecords.png), [source page](https://oameya.com/works/)
-  
-
-
-
-
+源地址：[direct image link](https://oameya.com/images/screens/karashicrecords.png), [source page](https://oameya.com/works/)  
 
 ---
 

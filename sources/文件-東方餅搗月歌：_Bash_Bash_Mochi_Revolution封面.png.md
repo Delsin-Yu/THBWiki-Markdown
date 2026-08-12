@@ -1,6 +1,6 @@
 # 文件:東方餅搗月歌：_Bash_Bash_Mochi_Revolution封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8a\ns6%3A%E6%9D%B1%E6%96%B9%E9%A4%85%E6%90%97%E6%9C%88%E6%AD%8C%EF%BC%9A_Bash_Bash_Mochi_Revolution%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8a\ns6%3A%E6%9D%B1%E6%96%B9%E9%A4%85%E6%90%97%E6%9C%88%E6%AD%8C%EF%BC%9A_Bash_Bash_Mochi_Revolution%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Guessy | Jaumander | JerryStuff_-_Ro | Kastel | Lever | 封面图片 | 软件封面
 
@@ -13,12 +13,7 @@ Guessy | Jaumander | JerryStuff_-_Ro | Kastel | Lever | 封面图片 | 软件封
 - [東方餅搗月歌： Bash Bash Mochi Revolution](./東方餅搗月歌：_Bash_Bash_Mochi_Revolution.md)
 
   
-源地址：[direct image link](https://img.itch.zone/aW1nLzI5NjI1NDMucG5n/315x250#c/tp/57u.png), [source page](https://kastelpls.itch.io/)
-  
-
-
-
-
+源地址：[direct image link](https://img.itch.zone/aW1nLzI5NjI1NDMucG5n/315x250#c/tp/57u.png), [source page](https://kastelpls.itch.io/)  
 
 ---
 

@@ -1,16 +1,11 @@
 # 文件:东方萃梦想八云紫ED3.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2d\ns6%3A%E4%B8%9C%E6%96%B9%E8%90%83%E6%A2%A6%E6%83%B3%E5%85%AB%E4%BA%91%E7%B4%ABED3%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2d\ns6%3A%E4%B8%9C%E6%96%B9%E8%90%83%E6%A2%A6%E6%83%B3%E5%85%AB%E4%BA%91%E7%B4%ABED3%2Epng.html -->
 
 东方萃梦想结局图
 
   
-东方萃梦想结局图 (未找到链接)
-  
-
-
-
-
+东方萃梦想结局图 (未找到链接)  
 
 ---
 

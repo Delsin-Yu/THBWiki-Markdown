@@ -1,18 +1,13 @@
 # 文件:Prj-Φ'thlogo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a7\ns6%3APrj-%CE%A6%27thlogo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a7\ns6%3APrj-%CE%A6%27thlogo%2Epng.html -->
 
 Prj：Φ'th | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[Twitter avatar](https://pbs.twimg.com/profile_images/1118859723208413186/03HQiq-k_400x400.png)
-  
-
-
-
-
+源地址：[Twitter avatar](https://pbs.twimg.com/profile_images/1118859723208413186/03HQiq-k_400x400.png)  
 
 ---
 

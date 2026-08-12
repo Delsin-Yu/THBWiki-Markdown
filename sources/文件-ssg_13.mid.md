@@ -1,16 +1,12 @@
 # 文件:ssg_13.mid
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a2\ns6%3Assg_13%2Emid.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a2\ns6%3Assg_13%2Emid.html -->
 
 东方幻想的音乐 | 官方MIDI | 梦机械_～_Innocent_Power | 秋霜玉
 
   
 夢機械　~Innocent_Power 秋霜玉6面Boss，VIVIT第1阶段的主题曲。 东方的幻想音乐版，与原秋霜玉版本有出入！
   
-
-
-
-
 
 ---
 

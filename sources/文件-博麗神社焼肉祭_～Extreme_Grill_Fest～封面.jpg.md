@@ -1,6 +1,6 @@
 # 文件:博麗神社焼肉祭_～Extreme_Grill_Fest～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a2\ns6%3A%E5%8D%9A%E9%BA%97%E7%A5%9E%E7%A4%BE%E7%84%BC%E8%82%89%E7%A5%AD_%EF%BD%9EExtreme_Grill_Fest%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a2\ns6%3A%E5%8D%9A%E9%BA%97%E7%A5%9E%E7%A4%BE%E7%84%BC%E8%82%89%E7%A5%AD_%EF%BD%9EExtreme_Grill_Fest%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 極東海賊団
 
@@ -8,11 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [博麗神社焼肉祭 ～Extreme Grill Fest～](./博麗神社焼肉祭_～Extreme_Grill_Fest～.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)- [伊吹萃香](./伊吹萃香.md)- [洩矢诹访子](./洩矢诹访子.md)
-
-
-
+- [博麗神社焼肉祭 ～Extreme Grill Fest～](./博麗神社焼肉祭_～Extreme_Grill_Fest～.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [伊吹萃香](./伊吹萃香.md)
+- [洩矢诹访子](./洩矢诹访子.md)
 
 
 ---

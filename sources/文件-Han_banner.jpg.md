@@ -1,12 +1,8 @@
 # 文件:Han_banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\96\ns6%3AHan_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\96\ns6%3AHan_banner%2Ejpg.html -->
 
 榛ノ木書室 | 社团LOGO
-
-
-
-
 
 
 ---

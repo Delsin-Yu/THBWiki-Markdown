@@ -1,14 +1,11 @@
 # 文件:AzeLyebanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\42\ns6%3AAzeLyebanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\42\ns6%3AAzeLyebanner%2Ejpg.html -->
 
 AzeLye | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

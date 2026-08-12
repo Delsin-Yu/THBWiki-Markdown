@@ -1,12 +1,11 @@
 # 河童所说的单向通道_～_One-way_Accelerator
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\bc\ns0%3A%E6%B2%B3%E7%AB%A5%E6%89%80%E8%AF%B4%E7%9A%84%E5%8D%95%E5%90%91%E9%80%9A%E9%81%93_%EF%BD%9E_One-way_Accelerator.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\bc\ns0%3A%E6%B2%B3%E7%AB%A5%E6%89%80%E8%AF%B4%E7%9A%84%E5%8D%95%E5%90%91%E9%80%9A%E9%81%93_%EF%BD%9E_One-way_Accelerator.html -->
 
 由 桐生 创作的东方风自作曲，原名 河童様の云う通り ～ One-way Accelerator
 
 本页是关于东方Project  
- **东方风自作曲** 的词条
-
+**东方风自作曲**的词条
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -14,14 +13,9 @@
 - [3 音乐文件](#音乐文件)
 - [4 说明文本](#说明文本)
 - [5 其他资料](#其他资料)
-
   - [5.1 乐理资讯](#乐理资讯)
   - [5.2 分析考据](#分析考据)
   - [5.3 三次同人数据](#三次同人数据)
-
-
-
-
 
 
 
@@ -31,7 +25,6 @@
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">河童様の云う通り ～ One-way Accelerator</td></tr><tr><td><b>译名</b></td><td>河童所说的单向通道 ～ One-way Accelerator</td></tr><tr><td><b>作曲</b></td><td><a href="./桐生.md" title="桐生">桐生</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 河童所说的单向通道 ～ One-way Accelerator（曲目） - 由 桐生 创作的东方风自作曲，原名 河童様の云う通り ～ One-way Accelerator
-
 ## 出现作品
 
 <table>
@@ -40,11 +33,9 @@
 </tbody></table>
 
 
-
 ## 音乐文件
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>MIDI格式</b></td><td>无播放信息</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-河童様の言う通り_～_One-way_Accelerator.mp3.md" title="文件:河童様の言う通り ～ One-way Accelerator.mp3">河童様の言う通り ～ One-way Accelerator.mp3</a><br><audio src="https://upload.thwiki.cc/4/46/%E6%B2%B3%E7%AB%A5%E6%A7%98%E3%81%AE%E8%A8%80%E3%81%86%E9%80%9A%E3%82%8A_%EF%BD%9E_One-way_Accelerator.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>BGM\河童様の言う通り ～ One-way Accelerator.mp3</td></tr></tbody></table>
-
 
 
 ## 说明文本
@@ -67,17 +58,6 @@
 <tr><td>Arrange</td><td>16</td></tr>
 <tr><td>Vocal率</td><td>0%</td></tr>
 </tbody></table>
-
-
-
-
-  
-  
-
-  
-
-
-
 
 
 ---

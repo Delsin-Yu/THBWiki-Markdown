@@ -1,6 +1,6 @@
 # 文件:Strangers_EP封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\57\ns6%3AStrangers_EP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\57\ns6%3AStrangers_EP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 StudioMonoLite | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ StudioMonoLite | 专辑封面 | 封面图片
   
 
 - [Strangers EP](./Strangers_EP.md)
-
-
-
 
 
 ---

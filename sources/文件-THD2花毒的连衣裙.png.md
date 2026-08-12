@@ -1,12 +1,8 @@
 # 文件:THD2花毒的连衣裙.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b7\ns6%3ATHD2%E8%8A%B1%E6%AF%92%E7%9A%84%E8%BF%9E%E8%A1%A3%E8%A3%99%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b7\ns6%3ATHD2%E8%8A%B1%E6%AF%92%E7%9A%84%E8%BF%9E%E8%A1%A3%E8%A3%99%2Epng.html -->
 
 THD2
-
-
-
-
 
 
 ---

@@ -1,16 +1,11 @@
 # 文件:System_Cafebanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\64\ns6%3ASystem_Cafebanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\64\ns6%3ASystem_Cafebanner%2Epng.html -->
 
 System_Cafe | 社团LOGO
 
   
-源地址：[[1]](https://web.archive.org/web/20111105015021im_/http://system-cafe.net/img/banner/banner.png)
-  
-
-
-
-
+源地址：[\[1\]](https://web.archive.org/web/20111105015021im_/http://system-cafe.net/img/banner/banner.png)  
 
 ---
 

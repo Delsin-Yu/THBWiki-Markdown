@@ -1,27 +1,21 @@
 # 天邪鬼夜行/Tou_Hou_Saber妖梦主题挂画
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\fd\ns0%3A%E5%A4%A9%E9%82%AA%E9%AC%BC%E5%A4%9C%E8%A1%8C%2FTou_Hou_Saber%E5%A6%96%E6%A2%A6%E4%B8%BB%E9%A2%98%E6%8C%82%E7%94%BB.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\fd\ns0%3A%E5%A4%A9%E9%82%AA%E9%AC%BC%E5%A4%9C%E8%A1%8C%2FTou_Hou_Saber%E5%A6%96%E6%A2%A6%E4%B8%BB%E9%A2%98%E6%8C%82%E7%94%BB.html -->
 
 2023年4月30日 由 天邪鬼夜行  发布的挂画周边，分级为 一般向
 
 本页是关于东方Project  
- **相关实体周边 (未找到链接)** 的词条
-
+**相关实体周边 (未找到链接)**的词条
 ## 目录
 
 - [1 周边信息](#周边信息)
 - [2 参考图](#参考图)
-
   - [2.1 预览图](#预览图)
   - [2.2 实物图](#实物图)
 
 
-
 - [3 Staff](#Staff)
 - [4 评论](#评论)
-
-
-
 
 
 ## 周边信息
@@ -29,19 +23,19 @@
 <table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> Tou Hou Saber妖梦主题挂画 </td></tr><tr><td class="label">系列</td><td> Tou Hou Saber </td></tr><tr><td class="label">制作方</td><td><a href="./天邪鬼夜行.md" title="天邪鬼夜行">天邪鬼夜行</a></td></tr><tr><td class="label">首发日期</td><td>2023-04-30</td></tr><tr><td class="label">类型</td><td>挂画</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>40×60cm</td></tr><tr><td class="label">材质</td><td>丝绢布，实木卷轴</td></tr><tr><td class="label">角色</td><td><a href="./魂魄妖梦.md" title="魂魄妖梦">魂魄妖梦</a></td></tr><tr><td class="label">售价</td><td>50人民币</td></tr></tbody></table>
 
 天邪鬼夜行/Tou Hou Saber妖梦主题挂画（周边，天邪鬼夜行，2023） - 2023年4月30日 由 天邪鬼夜行  发布的挂画周边，分级为 一般向
-
 ## 参考图
   
 周边宣传、售卖时使用的作为参考图的预览图或实物图的图片。
   
 
-
 ### 预览图
-- [](./文件-天邪鬼夜行／Tou_Hou_Saber妖梦主题挂画预览图1.jpg.md)
+
+- <img alt="天邪鬼夜行／Tou Hou Saber妖梦主题挂画预览图1.jpg" src="https://upload.thwiki.cc/thumb/a/ad/%E5%A4%A9%E9%82%AA%E9%AC%BC%E5%A4%9C%E8%A1%8C%EF%BC%8FTou_Hou_Saber%E5%A6%96%E6%A2%A6%E4%B8%BB%E9%A2%98%E6%8C%82%E7%94%BB%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg/265px-%E5%A4%A9%E9%82%AA%E9%AC%BC%E5%A4%9C%E8%A1%8C%EF%BC%8FTou_Hou_Saber%E5%A6%96%E6%A2%A6%E4%B8%BB%E9%A2%98%E6%8C%82%E7%94%BB%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg" decoding="async" loading="lazy" width="177" height="250" srcset="https://upload.thwiki.cc/thumb/a/ad/%E5%A4%A9%E9%82%AA%E9%AC%BC%E5%A4%9C%E8%A1%8C%EF%BC%8FTou_Hou_Saber%E5%A6%96%E6%A2%A6%E4%B8%BB%E9%A2%98%E6%8C%82%E7%94%BB%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg/397px-%E5%A4%A9%E9%82%AA%E9%AC%BC%E5%A4%9C%E8%A1%8C%EF%BC%8FTou_Hou_Saber%E5%A6%96%E6%A2%A6%E4%B8%BB%E9%A2%98%E6%8C%82%E7%94%BB%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg 1.5x, https://upload.thwiki.cc/thumb/a/ad/%E5%A4%A9%E9%82%AA%E9%AC%BC%E5%A4%9C%E8%A1%8C%EF%BC%8FTou_Hou_Saber%E5%A6%96%E6%A2%A6%E4%B8%BB%E9%A2%98%E6%8C%82%E7%94%BB%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg/530px-%E5%A4%A9%E9%82%AA%E9%AC%BC%E5%A4%9C%E8%A1%8C%EF%BC%8FTou_Hou_Saber%E5%A6%96%E6%A2%A6%E4%B8%BB%E9%A2%98%E6%8C%82%E7%94%BB%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg 2x" data-file-width="1356" data-file-height="1920"> 
 
 
 ### 实物图
-- [](./文件-天邪鬼夜行／Tou_Hou_Saber妖梦主题挂画实物图1.jpg.md)
+
+- <img alt="天邪鬼夜行／Tou Hou Saber妖梦主题挂画实物图1.jpg" src="https://upload.thwiki.cc/thumb/a/a6/%E5%A4%A9%E9%82%AA%E9%AC%BC%E5%A4%9C%E8%A1%8C%EF%BC%8FTou_Hou_Saber%E5%A6%96%E6%A2%A6%E4%B8%BB%E9%A2%98%E6%8C%82%E7%94%BB%E5%AE%9E%E7%89%A9%E5%9B%BE1.jpg/266px-%E5%A4%A9%E9%82%AA%E9%AC%BC%E5%A4%9C%E8%A1%8C%EF%BC%8FTou_Hou_Saber%E5%A6%96%E6%A2%A6%E4%B8%BB%E9%A2%98%E6%8C%82%E7%94%BB%E5%AE%9E%E7%89%A9%E5%9B%BE1.jpg" decoding="async" loading="lazy" width="178" height="250" srcset="https://upload.thwiki.cc/thumb/a/a6/%E5%A4%A9%E9%82%AA%E9%AC%BC%E5%A4%9C%E8%A1%8C%EF%BC%8FTou_Hou_Saber%E5%A6%96%E6%A2%A6%E4%B8%BB%E9%A2%98%E6%8C%82%E7%94%BB%E5%AE%9E%E7%89%A9%E5%9B%BE1.jpg/399px-%E5%A4%A9%E9%82%AA%E9%AC%BC%E5%A4%9C%E8%A1%8C%EF%BC%8FTou_Hou_Saber%E5%A6%96%E6%A2%A6%E4%B8%BB%E9%A2%98%E6%8C%82%E7%94%BB%E5%AE%9E%E7%89%A9%E5%9B%BE1.jpg 1.5x, https://upload.thwiki.cc/thumb/a/a6/%E5%A4%A9%E9%82%AA%E9%AC%BC%E5%A4%9C%E8%A1%8C%EF%BC%8FTou_Hou_Saber%E5%A6%96%E6%A2%A6%E4%B8%BB%E9%A2%98%E6%8C%82%E7%94%BB%E5%AE%9E%E7%89%A9%E5%9B%BE1.jpg/531px-%E5%A4%A9%E9%82%AA%E9%AC%BC%E5%A4%9C%E8%A1%8C%EF%BC%8FTou_Hou_Saber%E5%A6%96%E6%A2%A6%E4%B8%BB%E9%A2%98%E6%8C%82%E7%94%BB%E5%AE%9E%E7%89%A9%E5%9B%BE1.jpg 2x" data-file-width="550" data-file-height="776"> 
 
 
 ## Staff
@@ -52,11 +46,7 @@
 画师
 : 艾露
 
-
 ## 评论
-
-
-
 
 ---
 

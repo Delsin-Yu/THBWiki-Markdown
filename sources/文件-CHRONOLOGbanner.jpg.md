@@ -1,12 +1,8 @@
 # 文件:CHRONOLOGbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\35\ns6%3ACHRONOLOGbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\35\ns6%3ACHRONOLOGbanner%2Ejpg.html -->
 
 CHRONOLOG | 社团LOGO
-
-
-
-
 
 
 ---

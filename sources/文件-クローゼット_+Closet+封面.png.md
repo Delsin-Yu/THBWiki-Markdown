@@ -1,6 +1,6 @@
 # 文件:クローゼット_+Closet+封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\28\ns6%3A%E3%82%AF%E3%83%AD%E3%83%BC%E3%82%BC%E3%83%83%E3%83%88_%2BCloset%2B%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\28\ns6%3A%E3%82%AF%E3%83%AD%E3%83%BC%E3%82%BC%E3%83%83%E3%83%88_%2BCloset%2B%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 ちよりずむ | エトセトラ | 同人志封面 | 封面图片
 
@@ -8,12 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [クローゼット +Closet+](./クローゼット_+Closet+.md)  
-该封面包含的角色：- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)源地址：[[1]](https://blog-imgs-44-origin.fc2.com/e/t/c/etc000/201005021540410a9.png)
-
-
-
-
+- [クローゼット +Closet+](./クローゼット_+Closet+.md)该封面包含的角色：
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
+源地址：[\[1\]](https://blog-imgs-44-origin.fc2.com/e/t/c/etc000/201005021540410a9.png)
 
 ---
 

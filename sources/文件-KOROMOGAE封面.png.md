@@ -1,6 +1,6 @@
 # 文件:KOROMOGAE封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d8\ns6%3AKOROMOGAE%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d8\ns6%3AKOROMOGAE%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 NERCO | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@ NERCO | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [KOROMOGAE](./KOROMOGAE.md)  
-该封面包含的角色：- [古明地觉](./古明地觉.md)
+- [KOROMOGAE](./KOROMOGAE.md)该封面包含的角色：
+- [古明地觉](./古明地觉.md)
 
   
-[Pixiv artwork ID: 47479283 (via Danbooru ID: 1868504)](https://danbooru.donmai.us/posts/1868504)
-  
-
-
-
-
+[Pixiv artwork ID: 47479283 (via Danbooru ID: 1868504)](https://danbooru.donmai.us/posts/1868504)  
 
 ---
 

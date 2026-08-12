@@ -1,13 +1,12 @@
 # R_Miyamoto（视频）
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\0a\ns0%3AR_Miyamoto%EF%BC%88%E8%A7%86%E9%A2%91%EF%BC%89.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\0a\ns0%3AR_Miyamoto%EF%BC%88%E8%A7%86%E9%A2%91%EF%BC%89.html -->
 
 东方Project同人视频列表。
 
   
 本页面用于收录R_Miyamoto的东方视频作品
   
-
 
 <table>
 
@@ -60,12 +59,7 @@
 <th colspan="7" align="center"><b>同人视频共有分类：<a href="./分类-同人视频.md" title="分类:同人视频">同人视频</a></b>
 </th></tr></tbody></table>
 
-
 R Miyamoto - 东方Project同人视频列表。
-
-
-
-
 ---
 
 此文档由 [THBWiki-Markdown-Builder](https://github.com/Delsin-Yu/THBWiki-Markdown-Builder) 构建。

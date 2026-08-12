@@ -1,12 +1,8 @@
 # 文件:Two_Hearts_Projectbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1c\ns6%3ATwo_Hearts_Projectbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1c\ns6%3ATwo_Hearts_Projectbanner%2Ejpg.html -->
 
 Two_Hearts_Project | 社团LOGO
-
-
-
-
 
 
 ---

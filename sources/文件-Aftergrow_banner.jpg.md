@@ -1,12 +1,8 @@
 # 文件:Aftergrow_banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f0\ns6%3AAftergrow_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f0\ns6%3AAftergrow_banner%2Ejpg.html -->
 
 Aftergrow | 社团LOGO
-
-
-
-
 
 
 ---

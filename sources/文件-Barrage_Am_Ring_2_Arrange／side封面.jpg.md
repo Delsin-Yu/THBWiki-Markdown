@@ -1,6 +1,6 @@
 # 文件:Barrage_Am_Ring_2_Arrange／side封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\36\ns6%3ABarrage_Am_Ring_2_Arrange%EF%BC%8Fside%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\36\ns6%3ABarrage_Am_Ring_2_Arrange%EF%BC%8Fside%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Barrage_Am_Ring | 专辑封面 | 封面图片
 
@@ -8,11 +8,13 @@ Barrage_Am_Ring | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Barrage Am Ring 2 Arrange／side](./Barrage_Am_Ring_2_Arrange／side.md)  
-该封面包含的角色：- [上白泽慧音](./上白泽慧音.md)- [因幡帝](./因幡帝.md)- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)- [八意永琳](./八意永琳.md)- [蓬莱山辉夜](./蓬莱山辉夜.md)- [藤原妹红](./藤原妹红.md)
-
-
-
+- [Barrage Am Ring 2 Arrange／side](./Barrage_Am_Ring_2_Arrange／side.md)该封面包含的角色：
+- [上白泽慧音](./上白泽慧音.md)
+- [因幡帝](./因幡帝.md)
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
+- [八意永琳](./八意永琳.md)
+- [蓬莱山辉夜](./蓬莱山辉夜.md)
+- [藤原妹红](./藤原妹红.md)
 
 
 ---

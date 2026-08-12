@@ -1,6 +1,6 @@
 # 文件:toho_trance_mix_1封面.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\91\ns6%3Atoho_trance_mix_1%E5%B0%81%E9%9D%A2%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\91\ns6%3Atoho_trance_mix_1%E5%B0%81%E9%9D%A2%2Egif.html -->
 
 NeutraL | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ NeutraL | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [toho trance mix 1](./toho_trance_mix_1.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)
-
-
-
+- [toho trance mix 1](./toho_trance_mix_1.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
 
 
 ---

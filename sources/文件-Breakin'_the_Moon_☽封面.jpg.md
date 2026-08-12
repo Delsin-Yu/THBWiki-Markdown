@@ -1,6 +1,6 @@
 # 文件:Breakin'_the_Moon_☽封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\41\ns6%3ABreakin%27_the_Moon_%E2%98%BD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\41\ns6%3ABreakin%27_the_Moon_%E2%98%BD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Astral_Records | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Astral_Records | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Breakin' the Moon ☽](./Breakin'_the_Moon_☽.md)  
-该封面包含的角色：- [伊吹萃香](./伊吹萃香.md)
-
-
-
+- [Breakin' the Moon ☽](./Breakin'_the_Moon_☽.md)该封面包含的角色：
+- [伊吹萃香](./伊吹萃香.md)
 
 
 ---

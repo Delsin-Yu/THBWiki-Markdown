@@ -1,12 +1,8 @@
 # 文件:死符「Ghastly_Dream」（永夜抄）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4a\ns6%3A%E6%AD%BB%E7%AC%A6%E3%80%8CGhastly_Dream%E3%80%8D%EF%BC%88%E6%B0%B8%E5%A4%9C%E6%8A%84%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4a\ns6%3A%E6%AD%BB%E7%AC%A6%E3%80%8CGhastly_Dream%E3%80%8D%EF%BC%88%E6%B0%B8%E5%A4%9C%E6%8A%84%EF%BC%89%2Ejpg.html -->
 
 东方永夜抄 | 自机符卡 | 西行寺幽幽子
-
-
-
-
 
 
 ---

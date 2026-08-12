@@ -1,6 +1,6 @@
 # 文件:愁響旋奏_～Tono_Devus_Adori封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c6\ns6%3A%E6%84%81%E9%9F%BF%E6%97%8B%E5%A5%8F_%EF%BD%9ETono_Devus_Adori%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c6\ns6%3A%E6%84%81%E9%9F%BF%E6%97%8B%E5%A5%8F_%EF%BD%9ETono_Devus_Adori%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 作画法界 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [愁響旋奏 ～Tono Devus Adori](./愁響旋奏_～Tono_Devus_Adori.md)  
-该封面包含的角色：- [圣白莲](./圣白莲.md)
-
-
-
+- [愁響旋奏 ～Tono Devus Adori](./愁響旋奏_～Tono_Devus_Adori.md)该封面包含的角色：
+- [圣白莲](./圣白莲.md)
 
 
 ---

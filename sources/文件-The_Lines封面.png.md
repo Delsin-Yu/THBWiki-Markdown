@@ -1,6 +1,6 @@
 # 文件:The_Lines封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c5\ns6%3AThe_Lines%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c5\ns6%3AThe_Lines%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Micazuki-Mo | 同人志封面 | 封面图片
 
@@ -10,16 +10,15 @@ Micazuki-Mo | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [The Lines](./The_Lines.md)  
-该封面包含的角色：- [黑谷山女](./黑谷山女.md)- [水桥帕露西](./水桥帕露西.md)- [星熊勇仪](./星熊勇仪.md)- [火焰猫燐](./火焰猫燐.md)- [灵乌路空](./灵乌路空.md)
+- [The Lines](./The_Lines.md)该封面包含的角色：
+- [黑谷山女](./黑谷山女.md)
+- [水桥帕露西](./水桥帕露西.md)
+- [星熊勇仪](./星熊勇仪.md)
+- [火焰猫燐](./火焰猫燐.md)
+- [灵乌路空](./灵乌路空.md)
 
   
-[Pixiv artwork ID: 88561308 (original size)](https://www.pixiv.net/artworks/88561308)
-  
-
-
-
-
+[Pixiv artwork ID: 88561308 (original size)](https://www.pixiv.net/artworks/88561308)  
 
 ---
 

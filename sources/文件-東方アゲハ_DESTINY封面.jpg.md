@@ -1,6 +1,6 @@
 # 文件:東方アゲハ_DESTINY封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e1\ns6%3A%E6%9D%B1%E6%96%B9%E3%82%A2%E3%82%B2%E3%83%8F_DESTINY%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e1\ns6%3A%E6%9D%B1%E6%96%B9%E3%82%A2%E3%82%B2%E3%83%8F_DESTINY%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 IOSYS | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ IOSYS | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方アゲハ DESTINY](./東方アゲハ_DESTINY.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [东风谷早苗](./东风谷早苗.md)
-
-
-
+- [東方アゲハ DESTINY](./東方アゲハ_DESTINY.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [东风谷早苗](./东风谷早苗.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Toho_Sound_System_Begonia封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\40\ns6%3AToho_Sound_System_Begonia%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\40\ns6%3AToho_Sound_System_Begonia%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 White_Falls | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ White_Falls | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Toho Sound System Begonia](./Toho_Sound_System_Begonia.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)
-
-
-
+- [Toho Sound System Begonia](./Toho_Sound_System_Begonia.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
 
 
 ---

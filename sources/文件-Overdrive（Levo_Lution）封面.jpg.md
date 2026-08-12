@@ -1,6 +1,6 @@
 # 文件:Overdrive（Levo_Lution）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6d\ns6%3AOverdrive%EF%BC%88Levo_Lution%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6d\ns6%3AOverdrive%EF%BC%88Levo_Lution%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Levo_Lution | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ Levo_Lution | 专辑封面 | 封面图片
   
 
 - [Overdrive（Levo Lution）](./Overdrive（Levo_Lution）.md)
-
-
-
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:Liberal_Sparkbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\25\ns6%3ALiberal_Sparkbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\25\ns6%3ALiberal_Sparkbanner%2Ejpg.html -->
 
 Liberal_Spark | 社团LOGO
-
-
-
-
 
 
 ---

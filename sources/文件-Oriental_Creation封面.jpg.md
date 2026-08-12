@@ -1,6 +1,6 @@
 # 文件:Oriental_Creation封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\be\ns6%3AOriental_Creation%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\be\ns6%3AOriental_Creation%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Rico_Rico_Alice | 专辑封面 | 封面图片
 
@@ -8,16 +8,12 @@ Rico_Rico_Alice | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Oriental Creation](./Oriental_Creation.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [西行寺幽幽子](./西行寺幽幽子.md)
+- [Oriental Creation](./Oriental_Creation.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [西行寺幽幽子](./西行寺幽幽子.md)
 
   
-源地址：[[1]](http://www.pixiv.net/member_illust.php?mode=medium&amp;illust_id=46451739)
-  
-
-
-
-
+源地址：[\[1\]](http://www.pixiv.net/member_illust.php?mode=medium&illust_id=46451739)  
 
 ---
 

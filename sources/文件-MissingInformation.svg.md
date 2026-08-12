@@ -1,16 +1,12 @@
 # 文件:MissingInformation.svg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6f\ns6%3AMissingInformation%2Esvg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6f\ns6%3AMissingInformation%2Esvg.html -->
 
 帮助文档
 
   
 用于缺损少量信息的页面头部
   
-
-
-
-
 
 ---
 

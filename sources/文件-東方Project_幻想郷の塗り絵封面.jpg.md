@@ -1,6 +1,6 @@
 # 文件:東方Project_幻想郷の塗り絵封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cd\ns6%3A%E6%9D%B1%E6%96%B9Project_%E5%B9%BB%E6%83%B3%E9%83%B7%E3%81%AE%E5%A1%97%E3%82%8A%E7%B5%B5%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cd\ns6%3A%E6%9D%B1%E6%96%B9Project_%E5%B9%BB%E6%83%B3%E9%83%B7%E3%81%AE%E5%A1%97%E3%82%8A%E7%B5%B5%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 粗茶る
 
@@ -10,16 +10,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方Project 幻想郷の塗り絵](./東方Project_幻想郷の塗り絵.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
+- [東方Project 幻想郷の塗り絵](./東方Project_幻想郷の塗り絵.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
   
 源地址：[from Amazon](https://www.amazon.co.jp/dp/4798629065/) (best quality image encoded in base64, no direct link available)
   
-
-
-
-
 
 ---
 

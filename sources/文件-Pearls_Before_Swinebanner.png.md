@@ -1,16 +1,11 @@
 # 文件:Pearls_Before_Swinebanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4c\ns6%3APearls_Before_Swinebanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4c\ns6%3APearls_Before_Swinebanner%2Epng.html -->
 
 Pearls_Before_Swine | 社团LOGO
 
   
-源地址：[[1]](http://pbswine.jp/images/20040B.png)
-  
-
-
-
-
+源地址：[\[1\]](http://pbswine.jp/images/20040B.png)  
 
 ---
 

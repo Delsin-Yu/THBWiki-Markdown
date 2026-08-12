@@ -1,12 +1,8 @@
 # 文件:铃仙·优昙华院·因幡（绀珠传立绘_happy）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bf\ns6%3A%E9%93%83%E4%BB%99%C2%B7%E4%BC%98%E6%98%99%E5%8D%8E%E9%99%A2%C2%B7%E5%9B%A0%E5%B9%A1%EF%BC%88%E7%BB%80%E7%8F%A0%E4%BC%A0%E7%AB%8B%E7%BB%98_happy%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bf\ns6%3A%E9%93%83%E4%BB%99%C2%B7%E4%BC%98%E6%98%99%E5%8D%8E%E9%99%A2%C2%B7%E5%9B%A0%E5%B9%A1%EF%BC%88%E7%BB%80%E7%8F%A0%E4%BC%A0%E7%AB%8B%E7%BB%98_happy%EF%BC%89%2Epng.html -->
 
 ZUN绘 | 东方绀珠传 | 官方游戏立绘 | 铃仙·优昙华院·因幡
-
-
-
-
 
 
 ---

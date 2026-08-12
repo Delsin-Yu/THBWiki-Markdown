@@ -1,12 +1,8 @@
 # 文件:TOHO_JAZZ_MESSENGERS_banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\26\ns6%3ATOHO_JAZZ_MESSENGERS_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\26\ns6%3ATOHO_JAZZ_MESSENGERS_banner%2Ejpg.html -->
 
 TOHO_JAZZ_MESSENGERS | 社团LOGO
-
-
-
-
 
 
 ---

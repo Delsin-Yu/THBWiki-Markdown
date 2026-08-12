@@ -1,30 +1,27 @@
 # Chen-U
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\2d\ns0%3AChen-U.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\2d\ns0%3AChen-U.html -->
 
 现实人物
 
 本页是关于东方Project  
- **二次同人创作者** 的词条
+**二次同人创作者**的词条
 ## 基本信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="label"><b>名称</b></td><td> Chen-U </td></tr><tr><td class="label"><b>别名</b></td><td>宇田敬子</td></tr><tr><td class="label"><b>所属社团</b></td><td><b>当前</b><div style="margin-left:2em;"><a href="./発熱巫女～ず.md" title="発熱巫女～ず">発熱巫女～ず</a></div></td></tr><tr><td class="label"><b>职位</b></td><td>演唱，作词</td></tr><tr><td class="label"><b>参与社团</b></td><td><a href="./chipion.md" title="chipion">chipion</a> （演唱，作词）<br><a href="./発熱巫女～ず.md" title="発熱巫女～ず">発熱巫女～ず</a> （演唱，作词）</td></tr><tr><td class="label"><b>个人页面</b></td><td><table border="0" cellspacing="0" cellpadding="0"></table></td></tr></tbody></table>
 
 Chen-U（人物） - 现实人物
 ## 介绍
+
 ## 参与作品
+
 ### 同人音乐
   
-模板:人物曲目列表 (未找到链接)
-  
+模板:人物曲目列表 (未找到链接)  
 
 ## 人际关系
 人名
 : 关系
-
-
-
-
 
 ---
 

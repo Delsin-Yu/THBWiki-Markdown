@@ -1,16 +1,12 @@
 # 模板:COS痛与宴
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\9\9c\ns10%3ACOS%E7%97%9B%E4%B8%8E%E5%AE%B4.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\9\9c\ns10%3ACOS%E7%97%9B%E4%B8%8E%E5%AE%B4.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

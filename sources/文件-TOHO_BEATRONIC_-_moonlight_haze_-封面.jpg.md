@@ -1,6 +1,6 @@
 # 文件:TOHO_BEATRONIC_-_moonlight_haze_-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\53\ns6%3ATOHO_BEATRONIC_-_moonlight_haze_-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\53\ns6%3ATOHO_BEATRONIC_-_moonlight_haze_-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 M3tamix_Records | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ M3tamix_Records | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [TOHO BEATRONIC - moonlight haze -](./TOHO_BEATRONIC_-_moonlight_haze_-.md)  
-该封面包含的角色：- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
+- [TOHO BEATRONIC - moonlight haze -](./TOHO_BEATRONIC_-_moonlight_haze_-.md)该封面包含的角色：
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
 
   
-源地址：[[1]](http://www.m3tamix.com/images/beatro_moonlight_480.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://www.m3tamix.com/images/beatro_moonlight_480.jpg)  
 
 ---
 

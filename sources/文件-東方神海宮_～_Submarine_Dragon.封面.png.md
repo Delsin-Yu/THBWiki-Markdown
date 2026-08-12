@@ -1,6 +1,6 @@
 # 文件:東方神海宮_～_Submarine_Dragon.封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\30\ns6%3A%E6%9D%B1%E6%96%B9%E7%A5%9E%E6%B5%B7%E5%AE%AE_%EF%BD%9E_Submarine_Dragon%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\30\ns6%3A%E6%9D%B1%E6%96%B9%E7%A5%9E%E6%B5%B7%E5%AE%AE_%EF%BD%9E_Submarine_Dragon%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Melody_Harmonia | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Melody_Harmonia | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方神海宮 ～ Submarine Dragon.](./東方神海宮_～_Submarine_Dragon..md)  
-该封面包含的角色：- 神池龟龙姬 (未找到链接)
-
-
-
+- [東方神海宮 ～ Submarine Dragon.](./東方神海宮_～_Submarine_Dragon..md)该封面包含的角色：
+- 神池龟龙姬 (未找到链接)
 
 
 ---

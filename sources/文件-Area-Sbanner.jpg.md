@@ -1,14 +1,11 @@
 # 文件:Area-Sbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\04\ns6%3AArea-Sbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\04\ns6%3AArea-Sbanner%2Ejpg.html -->
 
 Area-S | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

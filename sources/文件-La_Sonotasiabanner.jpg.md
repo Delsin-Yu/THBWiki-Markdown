@@ -1,16 +1,11 @@
 # 文件:La_Sonotasiabanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c8\ns6%3ALa_Sonotasiabanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c8\ns6%3ALa_Sonotasiabanner%2Ejpg.html -->
 
 La_Sonotasia | 社团LOGO
 
   
-源地址：[[1]](http://bluefulcrum.web.fc2.com/linkbanar.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://bluefulcrum.web.fc2.com/linkbanar.jpg)  
 
 ---
 

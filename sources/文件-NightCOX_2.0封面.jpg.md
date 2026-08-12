@@ -1,6 +1,6 @@
 # 文件:NightCOX_2.0封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\72\ns6%3ANightCOX_2%2E0%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\72\ns6%3ANightCOX_2%2E0%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 DFM | 专辑封面 | 封面图片
 
@@ -10,16 +10,12 @@ DFM | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [NightCOX 2.0](./NightCOX_2.0.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [雾雨魔理沙](./雾雨魔理沙.md)
+- [NightCOX 2.0](./NightCOX_2.0.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-源地址：[[1]](http://img-cdn.jg.jugem.jp/4f6/1407446/20100802_1466181.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://img-cdn.jg.jugem.jp/4f6/1407446/20100802_1466181.jpg)  
 
 ---
 

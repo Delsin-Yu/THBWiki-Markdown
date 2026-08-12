@@ -1,6 +1,6 @@
 # 文件:TEC_BOX_VOL.2_～_"紅魔STYLE!!"封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3a\ns6%3ATEC_BOX_VOL%2E2_%EF%BD%9E_%22%E7%B4%85%E9%AD%94STYLE%21%21%22%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3a\ns6%3ATEC_BOX_VOL%2E2_%EF%BD%9E_%22%E7%B4%85%E9%AD%94STYLE%21%21%22%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 SoundChaos | 专辑封面 | 封面图片
 
@@ -8,12 +8,13 @@ SoundChaos | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [TEC BOX VOL.2 ～ "紅魔STYLE!!"](./TEC_BOX_VOL.2_～_-紅魔STYLE!!-.md)  
-该封面包含的角色：- [红美铃](./红美铃.md)- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)- 十六夜咲夜 (未找到链接)- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)源地址：[[1]](https://web.archive.org/web/20090129080115/http://members2.jcom.home.ne.jp:80/lond-umigame777/HP/sub.html)
-
-
-
-
+- [TEC BOX VOL.2 ～ "紅魔STYLE!!"](./TEC_BOX_VOL.2_～_-紅魔STYLE!!-.md)该封面包含的角色：
+- [红美铃](./红美铃.md)
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
+- [十六夜咲夜](./十六夜咲夜.md)
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+源地址：[\[1\]](https://web.archive.org/web/20090129080115/http://members2.jcom.home.ne.jp:80/lond-umigame777/HP/sub.html)
 
 ---
 

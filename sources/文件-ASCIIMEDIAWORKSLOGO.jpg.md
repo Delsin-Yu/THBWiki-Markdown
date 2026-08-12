@@ -1,12 +1,8 @@
 # 文件:ASCIIMEDIAWORKSLOGO.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e5\ns6%3AASCIIMEDIAWORKSLOGO%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e5\ns6%3AASCIIMEDIAWORKSLOGO%2Ejpg.html -->
 
 ASCII_MEDIA_WORK | 企业LOGO
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Nightmare_Drivin'封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8e\ns6%3ANightmare_Drivin%27%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8e\ns6%3ANightmare_Drivin%27%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Netcavy_Records | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Netcavy_Records | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Nightmare Drivin'](./Nightmare_Drivin'.md)  
-该封面包含的角色：- [宇佐见堇子](./宇佐见堇子.md)
+- [Nightmare Drivin'](./Nightmare_Drivin'.md)该封面包含的角色：
+- [宇佐见堇子](./宇佐见堇子.md)
 
   
-源地址：[[1]](https://shinkonet.bandcamp.com/releases)
-  
-
-
-
-
+源地址：[\[1\]](https://shinkonet.bandcamp.com/releases)  
 
 ---
 

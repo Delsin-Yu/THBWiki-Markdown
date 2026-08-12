@@ -1,37 +1,39 @@
 # IN_THE_MIRROR
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\3\31\ns0%3AIN_THE_MIRROR.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\3\31\ns0%3AIN_THE_MIRROR.html -->
 
 2022年9月11日 由 梅雨明けの日 于 科学世纪的露天咖啡座11 发布的漫画同人志，B5尺寸一共54页，登场人物有 宇佐见莲子、玛艾露贝莉·赫恩，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人志 (未找到链接)** 的词条
-
+**[二次创作同人志](./二次创作.md#同人志)**的词条
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-IN_THE_MIRROR封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/2/2c/IN_THE_MIRROR%E5%B0%81%E9%9D%A2.jpg/157px-IN_THE_MIRROR%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="157" height="224" srcset="https://upload.thwiki.cc/thumb/2/2c/IN_THE_MIRROR%E5%B0%81%E9%9D%A2.jpg/235px-IN_THE_MIRROR%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/2/2c/IN_THE_MIRROR%E5%B0%81%E9%9D%A2.jpg/314px-IN_THE_MIRROR%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="447" data-file-height="638"></a><div class="cover-char">角色：<a href="./玛艾露贝莉·赫恩.md" title="玛艾露贝莉·赫恩">玛艾露贝莉·赫恩</a></div></td>
 </tr><tr><td class="label">名称</td><td colspan="2"> IN THE MIRROR </td></tr><tr><td class="label">制作方</td><td><a href="./梅雨明けの日.md" title="梅雨明けの日">梅雨明けの日</a></td><td class="cover-artwork" rowspan="8" style="min-width:224px;"><a href="./文件-IN_THE_MIRROR封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/2/2c/IN_THE_MIRROR%E5%B0%81%E9%9D%A2.jpg/157px-IN_THE_MIRROR%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="157" height="224" srcset="https://upload.thwiki.cc/thumb/2/2c/IN_THE_MIRROR%E5%B0%81%E9%9D%A2.jpg/235px-IN_THE_MIRROR%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/2/2c/IN_THE_MIRROR%E5%B0%81%E9%9D%A2.jpg/314px-IN_THE_MIRROR%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="447" data-file-height="638"></a><div class="cover-char">角色：<a href="./玛艾露贝莉·赫恩.md" title="玛艾露贝莉·赫恩">玛艾露贝莉·赫恩</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2022-09-11&#160;（<a href="/展会作品列表?e=%E7%A7%91%E5%AD%A6%E4%B8%96%E7%BA%AA%E7%9A%84%E9%9C%B2%E5%A4%A9%E5%92%96%E5%95%A1%E5%BA%A7%2311">科学世紀のカフェテラス（第11回）</a>）</td></tr><tr><td class="label">类型</td><td>漫画</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>B5</td></tr><tr><td class="label">页数</td><td>54P</td></tr><tr><td class="label">登场人物</td><td><a href="./宇佐见莲子.md" title="宇佐见莲子">宇佐见莲子</a>，<a href="./玛艾露贝莉·赫恩.md" title="玛艾露贝莉·赫恩">玛艾露贝莉·赫恩</a></td></tr><tr><td class="label">售价</td><td>会场售价：700日元<br>通贩售价：700日元</td></tr>
+</tr><tr><td class="label">首发日期</td><td>2022-09-11 （<a href="./展会作品列表.md#11">科学世紀のカフェテラス（第11回）</a>）</td></tr><tr><td class="label">类型</td><td>漫画</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>B5</td></tr><tr><td class="label">页数</td><td>54P</td></tr><tr><td class="label">登场人物</td><td><a href="./宇佐见莲子.md" title="宇佐见莲子">宇佐见莲子</a>，<a href="./玛艾露贝莉·赫恩.md" title="玛艾露贝莉·赫恩">玛艾露贝莉·赫恩</a></td></tr><tr><td class="label">售价</td><td>会场售价：700日元<br>通贩售价：700日元</td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/enutarosu53/status/1566742943993499648">https://twitter.com/enutarosu53/status/1566742943993499648</a><br><a rel="nofollow" class="external free" href="https://twitter.com/enutarosu53/status/1568394914043670528">https://twitter.com/enutarosu53/status/1568394914043670528</a></td></tr></tbody></table>
 
 IN THE MIRROR（同人志，梅雨明けの日，2022） - 2022年9月11日 由 梅雨明けの日 于 科学世纪的露天咖啡座11 发布的漫画同人志，B5尺寸一共54页，登场人物有 宇佐见莲子、玛艾露贝莉·赫恩，分级为 一般向
-
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://enutino.booth.pm/items/4167089">Booth</a></td></tr></tbody></table>
 
 
-
 ## 预览
-- [](./文件-IN_THE_MIRROR预览图1.png.md)- [](./文件-IN_THE_MIRROR预览图2.png.md)- [](./文件-IN_THE_MIRROR预览图3.png.md)- [](./文件-IN_THE_MIRROR预览图4.png.md)- [](./文件-IN_THE_MIRROR预览图5.png.md)- [](./文件-IN_THE_MIRROR预览图6.png.md)- [](./文件-IN_THE_MIRROR预览图7.png.md)
+
+- <img alt="IN THE MIRROR预览图1.png" src="https://upload.thwiki.cc/thumb/6/63/IN_THE_MIRROR%E9%A2%84%E8%A7%88%E5%9B%BE1.png/268px-IN_THE_MIRROR%E9%A2%84%E8%A7%88%E5%9B%BE1.png" decoding="async" loading="lazy" width="179" height="250" srcset="https://upload.thwiki.cc/thumb/6/63/IN_THE_MIRROR%E9%A2%84%E8%A7%88%E5%9B%BE1.png/402px-IN_THE_MIRROR%E9%A2%84%E8%A7%88%E5%9B%BE1.png 1.5x, https://upload.thwiki.cc/thumb/6/63/IN_THE_MIRROR%E9%A2%84%E8%A7%88%E5%9B%BE1.png/536px-IN_THE_MIRROR%E9%A2%84%E8%A7%88%E5%9B%BE1.png 2x" data-file-width="2221" data-file-height="3107"> 
+- <img alt="IN THE MIRROR预览图2.png" src="https://upload.thwiki.cc/thumb/8/8b/IN_THE_MIRROR%E9%A2%84%E8%A7%88%E5%9B%BE2.png/268px-IN_THE_MIRROR%E9%A2%84%E8%A7%88%E5%9B%BE2.png" decoding="async" loading="lazy" width="179" height="250" srcset="https://upload.thwiki.cc/thumb/8/8b/IN_THE_MIRROR%E9%A2%84%E8%A7%88%E5%9B%BE2.png/402px-IN_THE_MIRROR%E9%A2%84%E8%A7%88%E5%9B%BE2.png 1.5x, https://upload.thwiki.cc/thumb/8/8b/IN_THE_MIRROR%E9%A2%84%E8%A7%88%E5%9B%BE2.png/536px-IN_THE_MIRROR%E9%A2%84%E8%A7%88%E5%9B%BE2.png 2x" data-file-width="2221" data-file-height="3107"> 
+- <img alt="IN THE MIRROR预览图3.png" src="https://upload.thwiki.cc/thumb/3/35/IN_THE_MIRROR%E9%A2%84%E8%A7%88%E5%9B%BE3.png/268px-IN_THE_MIRROR%E9%A2%84%E8%A7%88%E5%9B%BE3.png" decoding="async" loading="lazy" width="179" height="250" srcset="https://upload.thwiki.cc/thumb/3/35/IN_THE_MIRROR%E9%A2%84%E8%A7%88%E5%9B%BE3.png/402px-IN_THE_MIRROR%E9%A2%84%E8%A7%88%E5%9B%BE3.png 1.5x, https://upload.thwiki.cc/thumb/3/35/IN_THE_MIRROR%E9%A2%84%E8%A7%88%E5%9B%BE3.png/536px-IN_THE_MIRROR%E9%A2%84%E8%A7%88%E5%9B%BE3.png 2x" data-file-width="2221" data-file-height="3107"> 
+- <img alt="IN THE MIRROR预览图4.png" src="https://upload.thwiki.cc/thumb/d/d1/IN_THE_MIRROR%E9%A2%84%E8%A7%88%E5%9B%BE4.png/268px-IN_THE_MIRROR%E9%A2%84%E8%A7%88%E5%9B%BE4.png" decoding="async" loading="lazy" width="179" height="250" srcset="https://upload.thwiki.cc/thumb/d/d1/IN_THE_MIRROR%E9%A2%84%E8%A7%88%E5%9B%BE4.png/402px-IN_THE_MIRROR%E9%A2%84%E8%A7%88%E5%9B%BE4.png 1.5x, https://upload.thwiki.cc/thumb/d/d1/IN_THE_MIRROR%E9%A2%84%E8%A7%88%E5%9B%BE4.png/536px-IN_THE_MIRROR%E9%A2%84%E8%A7%88%E5%9B%BE4.png 2x" data-file-width="2221" data-file-height="3107"> 
+- <img alt="IN THE MIRROR预览图5.png" src="https://upload.thwiki.cc/thumb/7/7f/IN_THE_MIRROR%E9%A2%84%E8%A7%88%E5%9B%BE5.png/268px-IN_THE_MIRROR%E9%A2%84%E8%A7%88%E5%9B%BE5.png" decoding="async" loading="lazy" width="179" height="250" srcset="https://upload.thwiki.cc/thumb/7/7f/IN_THE_MIRROR%E9%A2%84%E8%A7%88%E5%9B%BE5.png/402px-IN_THE_MIRROR%E9%A2%84%E8%A7%88%E5%9B%BE5.png 1.5x, https://upload.thwiki.cc/thumb/7/7f/IN_THE_MIRROR%E9%A2%84%E8%A7%88%E5%9B%BE5.png/536px-IN_THE_MIRROR%E9%A2%84%E8%A7%88%E5%9B%BE5.png 2x" data-file-width="2221" data-file-height="3107"> 
+- <img alt="IN THE MIRROR预览图6.png" src="https://upload.thwiki.cc/thumb/6/66/IN_THE_MIRROR%E9%A2%84%E8%A7%88%E5%9B%BE6.png/268px-IN_THE_MIRROR%E9%A2%84%E8%A7%88%E5%9B%BE6.png" decoding="async" loading="lazy" width="179" height="250" srcset="https://upload.thwiki.cc/thumb/6/66/IN_THE_MIRROR%E9%A2%84%E8%A7%88%E5%9B%BE6.png/402px-IN_THE_MIRROR%E9%A2%84%E8%A7%88%E5%9B%BE6.png 1.5x, https://upload.thwiki.cc/thumb/6/66/IN_THE_MIRROR%E9%A2%84%E8%A7%88%E5%9B%BE6.png/536px-IN_THE_MIRROR%E9%A2%84%E8%A7%88%E5%9B%BE6.png 2x" data-file-width="2221" data-file-height="3107"> 
+- <img alt="IN THE MIRROR预览图7.png" src="https://upload.thwiki.cc/thumb/6/6b/IN_THE_MIRROR%E9%A2%84%E8%A7%88%E5%9B%BE7.png/268px-IN_THE_MIRROR%E9%A2%84%E8%A7%88%E5%9B%BE7.png" decoding="async" loading="lazy" width="179" height="250" srcset="https://upload.thwiki.cc/thumb/6/6b/IN_THE_MIRROR%E9%A2%84%E8%A7%88%E5%9B%BE7.png/402px-IN_THE_MIRROR%E9%A2%84%E8%A7%88%E5%9B%BE7.png 1.5x, https://upload.thwiki.cc/thumb/6/6b/IN_THE_MIRROR%E9%A2%84%E8%A7%88%E5%9B%BE7.png/536px-IN_THE_MIRROR%E9%A2%84%E8%A7%88%E5%9B%BE7.png 2x" data-file-width="2221" data-file-height="3107"> 
 
 
 ## Staff
+
 - ゑぬち (未找到链接)
 
 
 ## 评论
-
-
-
 
 ---
 

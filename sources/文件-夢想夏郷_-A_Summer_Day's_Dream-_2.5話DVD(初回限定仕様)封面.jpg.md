@@ -1,6 +1,6 @@
 # 文件:夢想夏郷_-A_Summer_Day's_Dream-_2.5話DVD(初回限定仕様)封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ad\ns6%3A%E5%A4%A2%E6%83%B3%E5%A4%8F%E9%83%B7_-A_Summer_Day%27s_Dream-_2%2E5%E8%A9%B1DVD%28%E5%88%9D%E5%9B%9E%E9%99%90%E5%AE%9A%E4%BB%95%E6%A7%98%29%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ad\ns6%3A%E5%A4%A2%E6%83%B3%E5%A4%8F%E9%83%B7_-A_Summer_Day%27s_Dream-_2%2E5%E8%A9%B1DVD%28%E5%88%9D%E5%9B%9E%E9%99%90%E5%AE%9A%E4%BB%95%E6%A7%98%29%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 封面图片 | 舞风 | 视频封面
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [夢想夏郷 -A Summer Day's Dream- 2.5話DVD(初回限定仕様)](./夢想夏郷_-A_Summer_Day's_Dream-_2.5話DVD(初回限定仕様).md)  
-该封面包含的角色：- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
-
-
-
+- [夢想夏郷 -A Summer Day's Dream- 2.5話DVD(初回限定仕様)](./夢想夏郷_-A_Summer_Day's_Dream-_2.5話DVD(初回限定仕様%29.md)该封面包含的角色：
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
 
 
 ---

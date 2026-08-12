@@ -1,6 +1,6 @@
 # 文件:超魔理沙_EPISODE_I_THE_ZAYAKU_MENACE封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3a\ns6%3A%E8%B6%85%E9%AD%94%E7%90%86%E6%B2%99_EPISODE_I_THE_ZAYAKU_MENACE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3a\ns6%3A%E8%B6%85%E9%AD%94%E7%90%86%E6%B2%99_EPISODE_I_THE_ZAYAKU_MENACE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Wi-Z_GARAGE | 同人志封面 | 喜栄座cmp | 封面图片
 
@@ -8,11 +8,15 @@ Wi-Z_GARAGE | 同人志封面 | 喜栄座cmp | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [超魔理沙 EPISODE I THE ZAYAKU MENACE](./超魔理沙_EPISODE_I_THE_ZAYAKU_MENACE.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [八云紫](./八云紫.md)- [因幡帝](./因幡帝.md)- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)- [八意永琳](./八意永琳.md)- [蓬莱山辉夜](./蓬莱山辉夜.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [超魔理沙 EPISODE I THE ZAYAKU MENACE](./超魔理沙_EPISODE_I_THE_ZAYAKU_MENACE.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [八云紫](./八云紫.md)
+- [因幡帝](./因幡帝.md)
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
+- [八意永琳](./八意永琳.md)
+- [蓬莱山辉夜](./蓬莱山辉夜.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

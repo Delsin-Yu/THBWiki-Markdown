@@ -1,12 +1,8 @@
 # 文件:＿bazaar_recordslogo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9f\ns6%3A%EF%BC%BFbazaar_recordslogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9f\ns6%3A%EF%BC%BFbazaar_recordslogo%2Ejpg.html -->
 
 社团LOGO | ＿bazaar_records
-
-
-
-
 
 
 ---

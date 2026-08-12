@@ -1,18 +1,13 @@
 # 文件:月面玩具箱banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\52\ns6%3A%E6%9C%88%E9%9D%A2%E7%8E%A9%E5%85%B7%E7%AE%B1banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\52\ns6%3A%E6%9C%88%E9%9D%A2%E7%8E%A9%E5%85%B7%E7%AE%B1banner%2Epng.html -->
 
 月面玩具箱 | 社团LOGO
 
 
 ## 摘要
   
-源地址：[direct image link](http://kirsi.web.fc2.com/_src/sc105/getumen_bn.png), [source page](http://kirsi.web.fc2.com/link.html)
-  
-
-
-
-
+源地址：[direct image link](http://kirsi.web.fc2.com/_src/sc105/getumen_bn.png), [source page](http://kirsi.web.fc2.com/link.html)  
 
 ---
 

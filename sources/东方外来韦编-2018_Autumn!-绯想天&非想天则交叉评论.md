@@ -1,15 +1,14 @@
 # 东方外来韦编/2018_Autumn!/绯想天&非想天则交叉评论
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\7\7e\ns0%3A%E4%B8%9C%E6%96%B9%E5%A4%96%E6%9D%A5%E9%9F%A6%E7%BC%96%2F2018_Autumn%21%2F%E7%BB%AF%E6%83%B3%E5%A4%A9%26%E9%9D%9E%E6%83%B3%E5%A4%A9%E5%88%99%E4%BA%A4%E5%8F%89%E8%AF%84%E8%AE%BA.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\7\7e\ns0%3A%E4%B8%9C%E6%96%B9%E5%A4%96%E6%9D%A5%E9%9F%A6%E7%BC%96%2F2018_Autumn%21%2F%E7%BB%AF%E6%83%B3%E5%A4%A9%26%E9%9D%9E%E6%83%B3%E5%A4%A9%E5%88%99%E4%BA%A4%E5%8F%89%E8%AF%84%E8%AE%BA.html -->
 
 东方外来韦编 | 引用了翻译表的页面
 
-- 本词条为中文翻译版，如需要日文对照请参见 **[中日对照](./东方外来韦编-2018_Autumn!-绯想天&非想天则交叉评论-中日对照.md)** 。
+
+- 本词条为中文翻译版，如需要日文对照请参见**[中日对照](./东方外来韦编-2018_Autumn!-绯想天&非想天则交叉评论-中日对照.md)**。
 - 该内容于杂志中页数：022-023
 
- **<big><big>独断&amp;偏见排名！「东方绯想天」＆「东方非想天则」篇</big></big>** 
-在「绯想天」以及「非想天则」登场的角色们以她们独特的观点进行了角色排行并公布了出来。本号的各位评分者的随心所欲之势依然无可阻挡。
-
+**<big><big>独断&偏见排名！「东方绯想天」＆「东方非想天则」篇</big></big>**在「绯想天」以及「非想天则」登场的角色们以她们独特的观点进行了角色排行并公布了出来。本号的各位评分者的随心所欲之势依然无可阻挡。
 <table>
 
 <tbody><tr>
@@ -35,7 +34,7 @@
 <td><div class="tt-zh tt-type-dialogue" lang="zh"><div class="poem">已然离于浮世之外</div></div>
 </td></tr>
 <tr>
-<th><div class="tt-char tt-type-dialogue" lang="zh"><div class="poem"><a href="./东风谷早苗.md" title="东风谷早苗">东风谷早苗</a><br><a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>&amp;<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a>&amp;<a href="/%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C" title="十六夜咲夜">十六夜咲夜</a></div></div>
+<th><div class="tt-char tt-type-dialogue" lang="zh"><div class="poem"><a href="./东风谷早苗.md" title="东风谷早苗">东风谷早苗</a><br><a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>&<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a>&<a href="./十六夜咲夜.md" title="十六夜咲夜">十六夜咲夜</a></div></div>
 </th>
 <td><div class="tt-zh tt-type-dialogue" lang="zh"><div class="poem">作为人类非常豁达若想成为仙人也是分分钟的事</div></div>
 </td></tr>
@@ -45,7 +44,7 @@
 <td><div class="tt-zh tt-type-dialogue" lang="zh"><div class="poem">太弱</div></div>
 </td></tr>
 <tr>
-<th><div class="tt-char tt-type-dialogue" lang="zh"><div class="poem"><a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a><br><a href="./帕秋莉·诺蕾姬.md" title="帕秋莉·诺蕾姬">帕秋莉·诺蕾姬</a>&amp;<a href="./红美铃.md" title="红美铃">红美铃</a>&amp;<a href="./爱丽丝·玛格特洛依德.md" title="爱丽丝·玛格特洛依德">爱丽丝·玛格特洛依德</a><br><a href="./伊吹萃香.md" title="伊吹萃香">伊吹萃香</a><br><a href="./八云紫.md" title="八云紫">八云紫</a></div></div>
+<th><div class="tt-char tt-type-dialogue" lang="zh"><div class="poem"><a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a><br><a href="./帕秋莉·诺蕾姬.md" title="帕秋莉·诺蕾姬">帕秋莉·诺蕾姬</a>&<a href="./红美铃.md" title="红美铃">红美铃</a>&<a href="./爱丽丝·玛格特洛依德.md" title="爱丽丝·玛格特洛依德">爱丽丝·玛格特洛依德</a><br><a href="./伊吹萃香.md" title="伊吹萃香">伊吹萃香</a><br><a href="./八云紫.md" title="八云紫">八云紫</a></div></div>
 </th>
 <td><div class="tt-zh tt-type-dialogue" lang="zh"><div class="poem">血腥味儿太重跟天界气质不符</div></div>
 </td></tr>
@@ -144,12 +143,6 @@
 </th>
 <td><div class="tt-zh tt-type-dialogue" lang="zh"><div class="poem">若是请她会被露骨地讨厌</div></div>
 </td></tr></tbody></table>
-
-
-
-
-
-
 
 
 ---

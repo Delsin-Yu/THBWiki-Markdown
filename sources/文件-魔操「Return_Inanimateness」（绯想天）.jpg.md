@@ -1,12 +1,8 @@
 # 文件:魔操「Return_Inanimateness」（绯想天）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\44\ns6%3A%E9%AD%94%E6%93%8D%E3%80%8CReturn_Inanimateness%E3%80%8D%EF%BC%88%E7%BB%AF%E6%83%B3%E5%A4%A9%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\44\ns6%3A%E9%AD%94%E6%93%8D%E3%80%8CReturn_Inanimateness%E3%80%8D%EF%BC%88%E7%BB%AF%E6%83%B3%E5%A4%A9%EF%BC%89%2Ejpg.html -->
 
 东方绯想天 | 爱丽丝·玛格特洛依德 | 自机符卡
-
-
-
-
 
 
 ---

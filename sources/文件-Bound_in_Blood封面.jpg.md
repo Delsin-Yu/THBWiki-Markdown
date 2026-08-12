@@ -1,6 +1,6 @@
 # 文件:Bound_in_Blood封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4e\ns6%3ABound_in_Blood%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4e\ns6%3ABound_in_Blood%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Driving_Kitchen | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Driving_Kitchen | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Bound in Blood](./Bound_in_Blood.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
-
-
-
+- [Bound in Blood](./Bound_in_Blood.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
 
 ---

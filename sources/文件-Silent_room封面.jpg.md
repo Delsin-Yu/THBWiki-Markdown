@@ -1,6 +1,6 @@
 # 文件:Silent_room封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5f\ns6%3ASilent_room%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5f\ns6%3ASilent_room%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 洛都少女
 
@@ -11,12 +11,8 @@
 - [Silent room](./Silent_room.md)
 
   
-源地址：[[%E6%9B%B4%E6%96%B0%E6%B8%88%E3%81%BF](http://files.fantasy-garden6.webnode.jp/200000009-2897f29913/dvdya-2tsuori4pjk )%20(2).jpg]
+源地址：[\[%E6%9B%B4%E6%96%B0%E6%B8%88%E3%81%BF](http://files.fantasy-garden6.webnode.jp/200000009-2897f29913/dvdya-2tsuori4pjk%20)%20(2).jpg]
   
-
-
-
-
 
 ---
 

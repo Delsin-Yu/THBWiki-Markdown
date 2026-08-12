@@ -1,6 +1,6 @@
 # 文件:∃y∈S封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\87\ns6%3A%E2%88%83y%E2%88%88S%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\87\ns6%3A%E2%88%83y%E2%88%88S%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 硫酸ポリオミノ
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [∃y∈S](./∃y∈S.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [∃y∈S](./∃y∈S.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

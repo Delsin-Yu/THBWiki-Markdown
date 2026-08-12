@@ -1,12 +1,8 @@
 # 文件:幻想乡地理_史纪A.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7e\ns6%3A%E5%B9%BB%E6%83%B3%E4%B9%A1%E5%9C%B0%E7%90%86_%E5%8F%B2%E7%BA%AAA%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7e\ns6%3A%E5%B9%BB%E6%83%B3%E4%B9%A1%E5%9C%B0%E7%90%86_%E5%8F%B2%E7%BA%AAA%2Ejpg.html -->
 
 东方外来韦编 | 幻想乡
-
-
-
-
 
 
 ---

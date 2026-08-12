@@ -1,6 +1,6 @@
 # 文件:東方コピー本!!Lv.10_-may_happiness_lead_your_life_always-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b3\ns6%3A%E6%9D%B1%E6%96%B9%E3%82%B3%E3%83%94%E3%83%BC%E6%9C%AC%21%21Lv%2E10_-may_happiness_lead_your_life_always-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b3\ns6%3A%E6%9D%B1%E6%96%B9%E3%82%B3%E3%83%94%E3%83%BC%E6%9C%AC%21%21Lv%2E10_-may_happiness_lead_your_life_always-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 落ち葉
 
@@ -10,11 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方コピー本!!Lv.10 -may happiness lead your life always-](./東方コピー本!!Lv.10_-may_happiness_lead_your_life_always-.md)  
-该封面包含的角色：- [橙](./橙.md)- [多多良小伞](./多多良小伞.md)- [幽谷响子](./幽谷响子.md)- [二岩猯藏](./二岩猯藏.md)
-
-
-
+- [東方コピー本!!Lv.10 -may happiness lead your life always-](./東方コピー本!!Lv.10_-may_happiness_lead_your_life_always-.md)该封面包含的角色：
+- [橙](./橙.md)
+- [多多良小伞](./多多良小伞.md)
+- [幽谷响子](./幽谷响子.md)
+- [二岩猯藏](./二岩猯藏.md)
 
 
 ---

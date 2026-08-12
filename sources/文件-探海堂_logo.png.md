@@ -1,16 +1,12 @@
 # 文件:探海堂_logo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\06\ns6%3A%E6%8E%A2%E6%B5%B7%E5%A0%82_logo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\06\ns6%3A%E6%8E%A2%E6%B5%B7%E5%A0%82_logo%2Epng.html -->
 
 探海堂 | 社团LOGO
 
   
 logo
   
-
-
-
-
 
 ---
 

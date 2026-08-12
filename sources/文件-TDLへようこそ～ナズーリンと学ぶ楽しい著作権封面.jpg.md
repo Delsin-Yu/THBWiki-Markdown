@@ -1,6 +1,6 @@
 # 文件:TDLへようこそ～ナズーリンと学ぶ楽しい著作権封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b0\ns6%3ATDL%E3%81%B8%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%EF%BD%9E%E3%83%8A%E3%82%BA%E3%83%BC%E3%83%AA%E3%83%B3%E3%81%A8%E5%AD%A6%E3%81%B6%E6%A5%BD%E3%81%97%E3%81%84%E8%91%97%E4%BD%9C%E6%A8%A9%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b0\ns6%3ATDL%E3%81%B8%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%EF%BD%9E%E3%83%8A%E3%82%BA%E3%83%BC%E3%83%AA%E3%83%B3%E3%81%A8%E5%AD%A6%E3%81%B6%E6%A5%BD%E3%81%97%E3%81%84%E8%91%97%E4%BD%9C%E6%A8%A9%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 うにまっしぐら | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [TDLへようこそ～ナズーリンと学ぶ楽しい著作権](./TDLへようこそ～ナズーリンと学ぶ楽しい著作権.md)  
-该封面包含的角色：- [娜兹玲](./娜兹玲.md)
-
-
-
+- [TDLへようこそ～ナズーリンと学ぶ楽しい著作権](./TDLへようこそ～ナズーリンと学ぶ楽しい著作権.md)该封面包含的角色：
+- [娜兹玲](./娜兹玲.md)
 
 
 ---

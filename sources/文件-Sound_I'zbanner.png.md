@@ -1,12 +1,8 @@
 # 文件:Sound_I'zbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0f\ns6%3ASound_I%27zbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0f\ns6%3ASound_I%27zbanner%2Epng.html -->
 
 Sound_I'z | 社团LOGO
-
-
-
-
 
 
 ---

@@ -1,16 +1,12 @@
 # 文件:le04_STAGE_11.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f7\ns6%3Ale04_STAGE_11%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f7\ns6%3Ale04_STAGE_11%2Emp3.html -->
 
 焚烧小鸟们的黑羽 | 连缘Project官方音乐MP3 | 连缘天影战记
 
   
 连缘天影战记阐里神社参道(4面起)主题曲
   
-
-
-
-
 
 ---
 

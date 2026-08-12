@@ -1,6 +1,6 @@
 # 文件:紅月（BestLink）封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2b\ns6%3A%E7%B4%85%E6%9C%88%EF%BC%88BestLink%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2b\ns6%3A%E7%B4%85%E6%9C%88%EF%BC%88BestLink%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 BestLink | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ BestLink | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [紅月（BestLink）](./紅月（BestLink）.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
-
-
-
+- [紅月（BestLink）](./紅月（BestLink）.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
 
 ---

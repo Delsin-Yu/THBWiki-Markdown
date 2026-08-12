@@ -1,6 +1,6 @@
 # 文件:Prism（同人志）封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\76\ns6%3APrism%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\76\ns6%3APrism%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 同人志封面 | 封面图片 | 海中ステレオ
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Prism（同人志）](./Prism（同人志）.md)  
-该封面包含的角色：- [键山雏](./键山雏.md)
+- [Prism（同人志）](./Prism（同人志）.md)该封面包含的角色：
+- [键山雏](./键山雏.md)
 
   
-源地址：[direct image link (original size; cropped)](https://pbs.twimg.com/media/FCIkBucVUAUSCNk?format=jpg&amp;name=orig), [source tweet](https://twitter.com/kageharu/status/1450764341985222661)
-  
-
-
-
-
+源地址：[direct image link (original size; cropped)](https://pbs.twimg.com/media/FCIkBucVUAUSCNk?format=jpg&name=orig), [source tweet](https://twitter.com/kageharu/status/1450764341985222661)  
 
 ---
 

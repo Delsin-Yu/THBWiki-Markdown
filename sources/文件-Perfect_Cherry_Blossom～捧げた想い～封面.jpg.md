@@ -1,6 +1,6 @@
 # 文件:Perfect_Cherry_Blossom～捧げた想い～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6a\ns6%3APerfect_Cherry_Blossom%EF%BD%9E%E6%8D%A7%E3%81%92%E3%81%9F%E6%83%B3%E3%81%84%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6a\ns6%3APerfect_Cherry_Blossom%EF%BD%9E%E6%8D%A7%E3%81%92%E3%81%9F%E6%83%B3%E3%81%84%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 舞々
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Perfect Cherry Blossom～捧げた想い～](./Perfect_Cherry_Blossom～捧げた想い～.md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)
-
-
-
+- [Perfect Cherry Blossom～捧げた想い～](./Perfect_Cherry_Blossom～捧げた想い～.md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
 
 
 ---

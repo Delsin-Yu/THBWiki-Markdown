@@ -1,6 +1,6 @@
 # 文件:湯Tuberしか100%いない封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\64\ns6%3A%E6%B9%AFTuber%E3%81%97%E3%81%8B100%25%E3%81%84%E3%81%AA%E3%81%84%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\64\ns6%3A%E6%B9%AFTuber%E3%81%97%E3%81%8B100%25%E3%81%84%E3%81%AA%E3%81%84%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 控えめに言ってちやほやされたい
 
@@ -10,16 +10,13 @@
 使用了本文件作封面图片的作品：
   
 
-- [湯Tuberしか100%いない](./湯Tuberしか100%いない.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)- [莉格露·奈特巴格](./莉格露·奈特巴格.md)- [米斯蒂娅·萝蕾拉](./米斯蒂娅·萝蕾拉.md)
+- [湯Tuberしか100%いない](./湯Tuberしか100%いない.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
+- [莉格露·奈特巴格](./莉格露·奈特巴格.md)
+- [米斯蒂娅·萝蕾拉](./米斯蒂娅·萝蕾拉.md)
 
   
-源地址：[direct image link (original size)](https://melonbooks.akamaized.net/upload/save_image/212001348593.jpg), [source page (Melonbooks ID: 1471098)](https://www.melonbooks.co.jp/detail/detail.php?product_id=1471098)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://melonbooks.akamaized.net/upload/save_image/212001348593.jpg), [source page (Melonbooks ID: 1471098)](https://www.melonbooks.co.jp/detail/detail.php?product_id=1471098)  
 
 ---
 

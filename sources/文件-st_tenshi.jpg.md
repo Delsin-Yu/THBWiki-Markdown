@@ -1,12 +1,8 @@
 # 文件:st_tenshi.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b1\ns6%3Ast_tenshi%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b1\ns6%3Ast_tenshi%2Ejpg.html -->
 
 未完童話
-
-
-
-
 
 
 ---

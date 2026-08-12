@@ -1,16 +1,12 @@
 # 模板:CL
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\6\66\ns10%3ACL.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\6\66\ns10%3ACL.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

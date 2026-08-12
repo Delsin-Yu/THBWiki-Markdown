@@ -1,6 +1,6 @@
 # 文件:Touhou_Chillout封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5c\ns6%3ATouhou_Chillout%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5c\ns6%3ATouhou_Chillout%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Grape_Jam | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@ Grape_Jam | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Touhou Chillout](./Touhou_Chillout.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
+- [Touhou Chillout](./Touhou_Chillout.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
   
-源地址：[[1]](https://f4.bcbits.com/img/a0431849202_10.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://f4.bcbits.com/img/a0431849202_10.jpg)  
 
 ---
 

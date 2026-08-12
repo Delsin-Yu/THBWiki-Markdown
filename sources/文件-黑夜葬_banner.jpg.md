@@ -1,12 +1,8 @@
 # 文件:黑夜葬_banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\30\ns6%3A%E9%BB%91%E5%A4%9C%E8%91%AC_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\30\ns6%3A%E9%BB%91%E5%A4%9C%E8%91%AC_banner%2Ejpg.html -->
 
 社团LOGO | 黑夜葬
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:DOWNTOWN_-7_イースト封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\81\ns6%3ADOWNTOWN_-7_%E3%82%A4%E3%83%BC%E3%82%B9%E3%83%88%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\81\ns6%3ADOWNTOWN_-7_%E3%82%A4%E3%83%BC%E3%82%B9%E3%83%88%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 茜音色タウン
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [DOWNTOWN -7 イースト](./DOWNTOWN_-7_イースト.md)  
-该封面包含的角色：- 原创角色 (未找到链接)
-
-
-
+- [DOWNTOWN -7 イースト](./DOWNTOWN_-7_イースト.md)该封面包含的角色：
+- 原创角色 (未找到链接)
 
 
 ---

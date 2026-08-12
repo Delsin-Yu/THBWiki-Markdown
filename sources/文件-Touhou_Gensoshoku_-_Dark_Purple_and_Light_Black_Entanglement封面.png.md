@@ -1,6 +1,6 @@
 # 文件:Touhou_Gensoshoku_-_Dark_Purple_and_Light_Black_Entanglement封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c2\ns6%3ATouhou_Gensoshoku_-_Dark_Purple_and_Light_Black_Entanglement%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c2\ns6%3ATouhou_Gensoshoku_-_Dark_Purple_and_Light_Black_Entanglement%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 mewarrow | 封面图片 | 软件封面
 
@@ -10,16 +10,11 @@ mewarrow | 封面图片 | 软件封面
 使用了本文件作封面图片的作品：
   
 
-- [Touhou Gensoshoku - Dark Purple and Light Black Entanglement](./Touhou_Gensoshoku_-_Dark_Purple_and_Light_Black_Entanglement.md)  
-该封面包含的角色：- [灵乌路空](./灵乌路空.md)
+- [Touhou Gensoshoku - Dark Purple and Light Black Entanglement](./Touhou_Gensoshoku_-_Dark_Purple_and_Light_Black_Entanglement.md)该封面包含的角色：
+- [灵乌路空](./灵乌路空.md)
 
   
-源地址：[direct image link (max size)](https://ic.pics.livejournal.com/seto_arrow/21188551/2534/2534_original.png), [source page](https://dice-ki.livejournal.com/530.html)
-  
-
-
-
-
+源地址：[direct image link (max size)](https://ic.pics.livejournal.com/seto_arrow/21188551/2534/2534_original.png), [source page](https://dice-ki.livejournal.com/530.html)  
 
 ---
 

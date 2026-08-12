@@ -1,16 +1,11 @@
 # 文件:Stratiotesbanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\99\ns6%3AStratiotesbanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\99\ns6%3AStratiotesbanner%2Egif.html -->
 
 Stratiotes | 社团LOGO
 
   
-源地址:[[1]](http://mrsweden.com/image1.gif)
-  
-
-
-
-
+源地址:[\[1\]](http://mrsweden.com/image1.gif)  
 
 ---
 

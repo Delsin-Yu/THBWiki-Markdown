@@ -1,12 +1,8 @@
 # 文件:paseribanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\84\ns6%3Apaseribanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\84\ns6%3Apaseribanner%2Egif.html -->
 
 paseri | 社团LOGO
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:お風呂妖怪かぽ～ん_SANBON_date!!封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\aa\ns6%3A%E3%81%8A%E9%A2%A8%E5%91%82%E5%A6%96%E6%80%AA%E3%81%8B%E3%81%BD%EF%BD%9E%E3%82%93_SANBON_date%21%21%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\aa\ns6%3A%E3%81%8A%E9%A2%A8%E5%91%82%E5%A6%96%E6%80%AA%E3%81%8B%E3%81%BD%EF%BD%9E%E3%82%93_SANBON_date%21%21%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 TeamInazuma | 同人志封面 | 封面图片
 
@@ -10,11 +10,10 @@ TeamInazuma | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [お風呂妖怪かぽ～ん SANBON date!!](./お風呂妖怪かぽ～ん_SANBON_date!!.md)  
-该封面包含的角色：- [露米娅](./露米娅.md)- [村纱水蜜](./村纱水蜜.md)- [二岩猯藏](./二岩猯藏.md)
-
-
-
+- [お風呂妖怪かぽ～ん SANBON date!!](./お風呂妖怪かぽ～ん_SANBON_date!!.md)该封面包含的角色：
+- [露米娅](./露米娅.md)
+- [村纱水蜜](./村纱水蜜.md)
+- [二岩猯藏](./二岩猯藏.md)
 
 
 ---

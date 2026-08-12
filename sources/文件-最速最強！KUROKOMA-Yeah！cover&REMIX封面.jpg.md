@@ -1,6 +1,6 @@
 # 文件:最速最強！KUROKOMA-Yeah！cover&REMIX封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c9\ns6%3A%E6%9C%80%E9%80%9F%E6%9C%80%E5%BC%B7%EF%BC%81KUROKOMA-Yeah%EF%BC%81cover%26REMIX%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c9\ns6%3A%E6%9C%80%E9%80%9F%E6%9C%80%E5%BC%B7%EF%BC%81KUROKOMA-Yeah%EF%BC%81cover%26REMIX%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ちょこふぁん | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [最速最強！KUROKOMA-Yeah！cover&amp;REMIX](./最速最強！KUROKOMA-Yeah！cover&REMIX.md)  
-该封面包含的角色：- [骊驹早鬼](./骊驹早鬼.md)
-
-
-
+- [最速最強！KUROKOMA-Yeah！cover&REMIX](./最速最強！KUROKOMA-Yeah！cover&REMIX.md)该封面包含的角色：
+- [骊驹早鬼](./骊驹早鬼.md)
 
 
 ---

@@ -1,30 +1,31 @@
 # rakugakimatometayatu
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\5\5d\ns0%3Arakugakimatometayatu.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\5\5d\ns0%3Arakugakimatometayatu.html -->
 
 2019年10月6日 由 ラパパメリカ 于 博丽神社秋季例大祭6 发布的画集同人志，B5尺寸一共16页，登场人物有 古明地恋，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人志 (未找到链接)** 的词条
-
+**[二次创作同人志](./二次创作.md#同人志)**的词条
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-rakugakimatometayatu封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/e/ee/rakugakimatometayatu%E5%B0%81%E9%9D%A2.jpg/159px-rakugakimatometayatu%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="159" height="224" srcset="https://upload.thwiki.cc/thumb/e/ee/rakugakimatometayatu%E5%B0%81%E9%9D%A2.jpg/238px-rakugakimatometayatu%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/e/ee/rakugakimatometayatu%E5%B0%81%E9%9D%A2.jpg/317px-rakugakimatometayatu%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1433" data-file-height="2023"></a><div class="cover-char">角色：<a href="./古明地恋.md" title="古明地恋">古明地恋</a></div></td>
 </tr><tr><td class="label">名称</td><td colspan="2"> rakugakimatometayatu </td></tr><tr><td class="label">制作方</td><td><a href="./ラパパメリカ.md" title="ラパパメリカ">ラパパメリカ</a></td><td class="cover-artwork" rowspan="8" style="min-width:224px;"><a href="./文件-rakugakimatometayatu封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/e/ee/rakugakimatometayatu%E5%B0%81%E9%9D%A2.jpg/159px-rakugakimatometayatu%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="159" height="224" srcset="https://upload.thwiki.cc/thumb/e/ee/rakugakimatometayatu%E5%B0%81%E9%9D%A2.jpg/238px-rakugakimatometayatu%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/e/ee/rakugakimatometayatu%E5%B0%81%E9%9D%A2.jpg/317px-rakugakimatometayatu%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1433" data-file-height="2023"></a><div class="cover-char">角色：<a href="./古明地恋.md" title="古明地恋">古明地恋</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2019-10-06&#160;（<a href="/展会作品列表?e=%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E7%A7%8B%E5%AD%A3%E4%BE%8B%E5%A4%A7%E7%A5%AD%236">第六回 博麗神社秋季例大祭</a>）</td></tr><tr><td class="label">类型</td><td>画集</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>B5</td></tr><tr><td class="label">页数</td><td>16P</td></tr><tr><td class="label">登场人物</td><td><a href="./古明地恋.md" title="古明地恋">古明地恋</a></td></tr><tr><td class="label">售价</td><td>通贩售价：600日元</td></tr>
-<tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/member_illust.php?mode=medium&amp;illust_id=76975519">https://www.pixiv.net/member_illust.php?mode=medium&amp;illust_id=76975519</a></td></tr></tbody></table>
+</tr><tr><td class="label">首发日期</td><td>2019-10-06 （<a href="./展会作品列表.md#6">第六回 博麗神社秋季例大祭</a>）</td></tr><tr><td class="label">类型</td><td>画集</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>B5</td></tr><tr><td class="label">页数</td><td>16P</td></tr><tr><td class="label">登场人物</td><td><a href="./古明地恋.md" title="古明地恋">古明地恋</a></td></tr><tr><td class="label">售价</td><td>通贩售价：600日元</td></tr>
+<tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/member_illust.php?mode=medium&illust_id=76975519">https://www.pixiv.net/member_illust.php?mode=medium&illust_id=76975519</a></td></tr></tbody></table>
 
 rakugakimatometayatu（同人志，ラパパメリカ，2019） - 2019年10月6日 由 ラパパメリカ 于 博丽神社秋季例大祭6 发布的画集同人志，B5尺寸一共16页，登场人物有 古明地恋，分级为 一般向
-
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=566375">蜜瓜</a></td></tr></tbody></table>
 
 
-
 ## 预览
-- [](./文件-rakugakimatometayatu预览图1.jpg.md)- [](./文件-rakugakimatometayatu预览图2.jpg.md)- [](./文件-rakugakimatometayatu预览图3.jpg.md)
+
+- <img alt="rakugakimatometayatu预览图1.jpg" src="https://upload.thwiki.cc/thumb/d/d9/rakugakimatometayatu%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg/263px-rakugakimatometayatu%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg" decoding="async" loading="lazy" width="176" height="250" srcset="https://upload.thwiki.cc/thumb/d/d9/rakugakimatometayatu%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg/395px-rakugakimatometayatu%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg 1.5x, https://upload.thwiki.cc/thumb/d/d9/rakugakimatometayatu%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg/526px-rakugakimatometayatu%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg 2x" data-file-width="631" data-file-height="900"> 
+- <img alt="rakugakimatometayatu预览图2.jpg" src="https://upload.thwiki.cc/thumb/f/f1/rakugakimatometayatu%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg/268px-rakugakimatometayatu%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg" decoding="async" loading="lazy" width="179" height="250" srcset="https://upload.thwiki.cc/thumb/f/f1/rakugakimatometayatu%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg/402px-rakugakimatometayatu%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg 1.5x, https://upload.thwiki.cc/thumb/f/f1/rakugakimatometayatu%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg/536px-rakugakimatometayatu%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg 2x" data-file-width="643" data-file-height="900"> 
+- <img alt="rakugakimatometayatu预览图3.jpg" src="https://upload.thwiki.cc/thumb/9/94/rakugakimatometayatu%E9%A2%84%E8%A7%88%E5%9B%BE3.jpg/268px-rakugakimatometayatu%E9%A2%84%E8%A7%88%E5%9B%BE3.jpg" decoding="async" loading="lazy" width="179" height="250" srcset="https://upload.thwiki.cc/thumb/9/94/rakugakimatometayatu%E9%A2%84%E8%A7%88%E5%9B%BE3.jpg/402px-rakugakimatometayatu%E9%A2%84%E8%A7%88%E5%9B%BE3.jpg 1.5x, https://upload.thwiki.cc/thumb/9/94/rakugakimatometayatu%E9%A2%84%E8%A7%88%E5%9B%BE3.jpg/536px-rakugakimatometayatu%E9%A2%84%E8%A7%88%E5%9B%BE3.jpg 2x" data-file-width="643" data-file-height="900"> 
 
 
 ## Staff
+
 - [ラパメリ](./ラパメリ.md)
 
 
@@ -32,16 +33,7 @@ rakugakimatometayatu（同人志，ラパパメリカ，2019） - 2019年10月6�
   
 twitterなどにUPしたイラストを雑多に詰め込んだ本です。  
 
-こいしちゃんの落書きが多めです。
-  
-  
-  
-
-  
-
-
-
-
+こいしちゃんの落書きが多めです。  
 
 ---
 

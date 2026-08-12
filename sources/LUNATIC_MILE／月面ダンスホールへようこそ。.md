@@ -1,53 +1,46 @@
 # LUNATIC_MILE／月面ダンスホールへようこそ。
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\d\d9\ns0%3ALUNATIC_MILE%EF%BC%8F%E6%9C%88%E9%9D%A2%E3%83%80%E3%83%B3%E3%82%B9%E3%83%9B%E3%83%BC%E3%83%AB%E3%81%B8%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%E3%80%82.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\d\d9\ns0%3ALUNATIC_MILE%EF%BC%8F%E6%9C%88%E9%9D%A2%E3%83%80%E3%83%B3%E3%82%B9%E3%83%9B%E3%83%BC%E3%83%AB%E3%81%B8%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%E3%80%82.html -->
 
 2017年10月15日 由 魂音泉，歌恋人 于 博丽神社秋季例大祭4 发布的单曲同人专辑，曲目主要风格是 嘻哈、Jpop，内容以 秘封俱乐部为题材，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人专辑 (未找到链接)** 的词条
-
+**[二次创作同人专辑](./二次创作.md#同人音乐)**的词条
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-LUNATIC_MILE／月面ダンスホールへようこそ。封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/b/b7/LUNATIC_MILE%EF%BC%8F%E6%9C%88%E9%9D%A2%E3%83%80%E3%83%B3%E3%82%B9%E3%83%9B%E3%83%BC%E3%83%AB%E3%81%B8%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%E3%80%82%E5%B0%81%E9%9D%A2.jpg/308px-LUNATIC_MILE%EF%BC%8F%E6%9C%88%E9%9D%A2%E3%83%80%E3%83%B3%E3%82%B9%E3%83%9B%E3%83%BC%E3%83%AB%E3%81%B8%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%E3%80%82%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="308" height="304" srcset="https://upload.thwiki.cc/thumb/b/b7/LUNATIC_MILE%EF%BC%8F%E6%9C%88%E9%9D%A2%E3%83%80%E3%83%B3%E3%82%B9%E3%83%9B%E3%83%BC%E3%83%AB%E3%81%B8%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%E3%80%82%E5%B0%81%E9%9D%A2.jpg/462px-LUNATIC_MILE%EF%BC%8F%E6%9C%88%E9%9D%A2%E3%83%80%E3%83%B3%E3%82%B9%E3%83%9B%E3%83%BC%E3%83%AB%E3%81%B8%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%E3%80%82%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/b/b7/LUNATIC_MILE%EF%BC%8F%E6%9C%88%E9%9D%A2%E3%83%80%E3%83%B3%E3%82%B9%E3%83%9B%E3%83%BC%E3%83%AB%E3%81%B8%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%E3%80%82%E5%B0%81%E9%9D%A2.jpg/616px-LUNATIC_MILE%EF%BC%8F%E6%9C%88%E9%9D%A2%E3%83%80%E3%83%B3%E3%82%B9%E3%83%9B%E3%83%BC%E3%83%AB%E3%81%B8%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%E3%80%82%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1716" data-file-height="1693"></a><div class="cover-char">角色：<a href="./玛艾露贝莉·赫恩.md" title="玛艾露贝莉·赫恩">玛艾露贝莉·赫恩</a>，<a href="./宇佐见莲子.md" title="宇佐见莲子">宇佐见莲子</a></div></td>
 </tr><tr><td class="label">名称</td><td colspan="2"> LUNATIC MILE / 月面ダンスホールへようこそ。 </td></tr><tr><td class="label">制作方</td><td><a href="./魂音泉.md" title="魂音泉">魂音泉</a><br><a href="./歌恋人.md" title="歌恋人">歌恋人</a></td><td class="cover-artwork" rowspan="11" style="min-width:308px;"><a href="./文件-LUNATIC_MILE／月面ダンスホールへようこそ。封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/b/b7/LUNATIC_MILE%EF%BC%8F%E6%9C%88%E9%9D%A2%E3%83%80%E3%83%B3%E3%82%B9%E3%83%9B%E3%83%BC%E3%83%AB%E3%81%B8%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%E3%80%82%E5%B0%81%E9%9D%A2.jpg/308px-LUNATIC_MILE%EF%BC%8F%E6%9C%88%E9%9D%A2%E3%83%80%E3%83%B3%E3%82%B9%E3%83%9B%E3%83%BC%E3%83%AB%E3%81%B8%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%E3%80%82%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="308" height="304" srcset="https://upload.thwiki.cc/thumb/b/b7/LUNATIC_MILE%EF%BC%8F%E6%9C%88%E9%9D%A2%E3%83%80%E3%83%B3%E3%82%B9%E3%83%9B%E3%83%BC%E3%83%AB%E3%81%B8%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%E3%80%82%E5%B0%81%E9%9D%A2.jpg/462px-LUNATIC_MILE%EF%BC%8F%E6%9C%88%E9%9D%A2%E3%83%80%E3%83%B3%E3%82%B9%E3%83%9B%E3%83%BC%E3%83%AB%E3%81%B8%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%E3%80%82%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/b/b7/LUNATIC_MILE%EF%BC%8F%E6%9C%88%E9%9D%A2%E3%83%80%E3%83%B3%E3%82%B9%E3%83%9B%E3%83%BC%E3%83%AB%E3%81%B8%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%E3%80%82%E5%B0%81%E9%9D%A2.jpg/616px-LUNATIC_MILE%EF%BC%8F%E6%9C%88%E9%9D%A2%E3%83%80%E3%83%B3%E3%82%B9%E3%83%9B%E3%83%BC%E3%83%AB%E3%81%B8%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%E3%80%82%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1716" data-file-height="1693"></a><div class="cover-char">角色：<a href="./玛艾露贝莉·赫恩.md" title="玛艾露贝莉·赫恩">玛艾露贝莉·赫恩</a>，<a href="./宇佐见莲子.md" title="宇佐见莲子">宇佐见莲子</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2017-10-15&#160;（<a href="/展会作品列表?e=%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E7%A7%8B%E5%AD%A3%E4%BE%8B%E5%A4%A7%E7%A5%AD%234">第四回 博麗神社秋季例大祭</a>）</td></tr><tr><td class="label">类型</td><td>单曲</td></tr><tr><td class="label">编号</td><td>TMKR-002</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>2</td></tr><tr><td class="label">总时长</td><td>08:38</td></tr><tr><td class="label">风格类型</td><td>嘻哈，Jpop</td></tr><tr><td class="label">特定选材</td><td>秘封俱乐部</td></tr><tr><td class="label">售价</td><td>会场售价：500日元<br>通贩售价：756日元（含税）</td></tr></tbody></table>
+</tr><tr><td class="label">首发日期</td><td>2017-10-15 （<a href="./展会作品列表.md#4">第四回 博麗神社秋季例大祭</a>）</td></tr><tr><td class="label">类型</td><td>单曲</td></tr><tr><td class="label">编号</td><td>TMKR-002</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>2</td></tr><tr><td class="label">总时长</td><td>08:38</td></tr><tr><td class="label">风格类型</td><td>嘻哈，Jpop</td></tr><tr><td class="label">特定选材</td><td>秘封俱乐部</td></tr><tr><td class="label">售价</td><td>会场售价：500日元<br>通贩售价：756日元（含税）</td></tr></tbody></table>
 
 LUNATIC MILE／月面ダンスホールへようこそ。（同人专辑，魂音泉，歌恋人，2017） - 2017年10月15日 由 魂音泉，歌恋人 于 博丽神社秋季例大祭4 发布的单曲同人专辑，曲目主要风格是 嘻哈、Jpop，内容以 秘封俱乐部为题材，分级为 一般向
-
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=290571">蜜瓜专售</a></td></tr></tbody></table>
-
 
 
 ## Staff
   
- **Arrangement**   
+**Arrangement**  
 
-<table><tbody><tr><td><a href="./Coro.md" title="Coro">Coro</a></td><td><a href="./魂音泉.md" title="魂音泉">魂音泉</a></td><td>Tr.1</td></tr><tr><td><a href="/index.php?title=%E3%81%AD%E3%81%A3%E3%81%B4&amp;action=edit&amp;redlink=1" class="new" title="ねっぴ（页面不存在）">ねっぴ</a></td><td><a href="./歌恋人.md" title="歌恋人">歌恋人</a></td><td>Tr.2</td></tr></tbody></table>
+<table><tbody><tr><td><a href="./Coro.md" title="Coro">Coro</a></td><td><a href="./魂音泉.md" title="魂音泉">魂音泉</a></td><td>Tr.1</td></tr><tr><td><a class="new" title="ねっぴ（页面不存在）">ねっぴ</a></td><td><a href="./歌恋人.md" title="歌恋人">歌恋人</a></td><td>Tr.2</td></tr></tbody></table>
 
   
- **Vocal**   
+**Vocal**  
 
 <table><tbody><tr><td><a href="./抹.md" title="抹">抹</a></td><td><a href="./魂音泉.md" title="魂音泉">魂音泉</a></td><td>Tr.1/2</td></tr><tr><td><a href="./まめみ.md" title="まめみ">まめみ</a></td><td><a href="./歌恋人.md" title="歌恋人">歌恋人</a></td><td>Tr.1/2</td></tr></tbody></table>
 
   
- **Lyrics**   
+**Lyrics**  
 
 <table><tbody><tr><td><a href="./抹.md" title="抹">抹</a></td><td><a href="./魂音泉.md" title="魂音泉">魂音泉</a></td><td>Tr.1/2</td></tr><tr><td><a href="./まめみ.md" title="まめみ">まめみ</a></td><td><a href="./歌恋人.md" title="歌恋人">歌恋人</a></td><td>Tr.2</td></tr></tbody></table>
-
 
 Illustration
 : まめみ
 Design
 : だぁまん （[歌恋人](./歌恋人.md)）
 
-
 ## 试听
   
 <iframe width="100%" height="180" src="https://ext.nicovideo.jp/thumb/sm32080002" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/watch/sm32080002">,</a></iframe>
-
   
-
 
 <table>
 
@@ -59,18 +52,13 @@ Design
 </td></tr></tbody></table>
 
 
-
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoRD"><b>01</b></td><td id="LUNATIC_MILE" colspan="2" class="title"><a href="./歌词-LUNATIC_MILE.md" title="歌词:LUNATIC MILE">LUNATIC MILE</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=kokorobeats&amp;vocal=まめみ，抹&amp;lyric=抹，&amp;ogmusic=大空魔術　～ Magical Astronomy&amp;fromwiki=LUNATIC_MILE／月面ダンスホールへようこそ。"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:00</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./kokorobeats.md" class="mw-redirect" title="kokorobeats">kokorobeats</a>(a.k.a. K's / Coro)<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，kokorobeats&amp;fromwiki=LUNATIC_MILE／月面ダンスホールへようこそ。"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="./まめみ.md" title="まめみ">まめみ</a>，<a href="./抹.md" title="抹">抹</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=まめみ，抹，&amp;fromwiki=LUNATIC_MILE／月面ダンスホールへようこそ。"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="./抹.md" title="抹">抹</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?lyric=抹，&amp;fromwiki=LUNATIC_MILE／月面ダンスホールへようこそ。"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=大空魔術　～ Magical Astronomy&amp;fromwiki=LUNATIC_MILE／月面ダンスホールへようこそ。"><span></span></a></span><div class="ogmusic"><a href="./大空魔術_～_Magical_Astronomy.md" class="mw-redirect" title="大空魔術 ～ Magical Astronomy">大空魔術　～ Magical Astronomy</a></div><div class="source"><a href="./大空魔术_～_Magical_Astronomy.md" class="mw-redirect" title="大空魔术 ～ Magical Astronomy">大空魔术　～ Magical Astronomy</a></div></td></tr>
-<tr><td id="2" class="infoRD"><b>02</b></td><td id="月面ダンスホールへようこそ。" colspan="2" class="title"><a href="./歌词-月面ダンスホールへようこそ。.md" title="歌词:月面ダンスホールへようこそ。">月面ダンスホールへようこそ。</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=ねっぴ&amp;vocal=まめみ，抹&amp;lyric=まめみ，抹，&amp;ogmusic=月面ツアーへようこそ&amp;fromwiki=LUNATIC_MILE／月面ダンスホールへようこそ。"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:38</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E3%81%AD%E3%81%A3%E3%81%B4&amp;action=edit&amp;redlink=1" class="new" title="ねっぴ（页面不存在）">ねっぴ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，ねっぴ，&amp;fromwiki=LUNATIC_MILE／月面ダンスホールへようこそ。"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="./まめみ.md" title="まめみ">まめみ</a>，<a href="./抹.md" title="抹">抹</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=まめみ，抹，&amp;fromwiki=LUNATIC_MILE／月面ダンスホールへようこそ。"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="./まめみ.md" title="まめみ">まめみ</a>，<a href="./抹.md" title="抹">抹</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?lyric=まめみ，抹，&amp;fromwiki=LUNATIC_MILE／月面ダンスホールへようこそ。"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=月面ツアーへようこそ&amp;fromwiki=LUNATIC_MILE／月面ダンスホールへようこそ。"><span></span></a></span><div class="ogmusic"><a href="./月面ツアーへようこそ.md" class="mw-redirect" title="月面ツアーへようこそ">月面ツアーへようこそ</a></div><div class="source"><a href="./大空魔术_～_Magical_Astronomy.md" class="mw-redirect" title="大空魔术 ～ Magical Astronomy">大空魔术　～ Magical Astronomy</a></div></td></tr></tbody></table>
-
+<table><tbody><tr><td id="1" class="infoRD"><b>01</b></td><td id="LUNATIC_MILE" colspan="2" class="title"><a href="./歌词-LUNATIC_MILE.md" title="歌词:LUNATIC MILE">LUNATIC MILE</a></td><td class="time">04:00</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Coro.md" class="mw-redirect" title="kokorobeats">kokorobeats</a>(a.k.a. K's / Coro)</td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="./まめみ.md" title="まめみ">まめみ</a>，<a href="./抹.md" title="抹">抹</a></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="./抹.md" title="抹">抹</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./大空魔术_～_Magical_Astronomy（曲目）.md" class="mw-redirect" title="大空魔術 ～ Magical Astronomy">大空魔術　～ Magical Astronomy</a></div><div class="source"><a href="./大空魔术.md" class="mw-redirect" title="大空魔术 ～ Magical Astronomy">大空魔术　～ Magical Astronomy</a></div></td></tr>
+<tr><td id="2" class="infoRD"><b>02</b></td><td id="月面ダンスホールへようこそ。" colspan="2" class="title"><a href="./歌词-月面ダンスホールへようこそ。.md" title="歌词:月面ダンスホールへようこそ。">月面ダンスホールへようこそ。</a></td><td class="time">04:38</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="ねっぴ（页面不存在）">ねっぴ</a></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="./まめみ.md" title="まめみ">まめみ</a>，<a href="./抹.md" title="抹">抹</a></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="./まめみ.md" title="まめみ">まめみ</a>，<a href="./抹.md" title="抹">抹</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./欢迎来到月面旅行团.md" class="mw-redirect" title="月面ツアーへようこそ">月面ツアーへようこそ</a></div><div class="source"><a href="./大空魔术.md" class="mw-redirect" title="大空魔术 ～ Magical Astronomy">大空魔术　～ Magical Astronomy</a></div></td></tr></tbody></table>
 
 
 ## 评论
-
-
-
 
 ---
 

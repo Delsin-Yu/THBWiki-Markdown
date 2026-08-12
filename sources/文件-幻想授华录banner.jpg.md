@@ -1,6 +1,6 @@
 # 文件:幻想授华录banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8f\ns6%3A%E5%B9%BB%E6%83%B3%E6%8E%88%E5%8D%8E%E5%BD%95banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8f\ns6%3A%E5%B9%BB%E6%83%B3%E6%8E%88%E5%8D%8E%E5%BD%95banner%2Ejpg.html -->
 
 幻想授华录
 
@@ -9,10 +9,6 @@
   
 重新上传
   
-
-
-
-
 
 ---
 

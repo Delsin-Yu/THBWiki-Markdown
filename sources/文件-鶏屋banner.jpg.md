@@ -1,12 +1,8 @@
 # 文件:鶏屋banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5a\ns6%3A%E9%B6%8F%E5%B1%8Bbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5a\ns6%3A%E9%B6%8F%E5%B1%8Bbanner%2Ejpg.html -->
 
 社团LOGO | 鶏屋
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:cataclysm_suite封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a0\ns6%3Acataclysm_suite%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a0\ns6%3Acataclysm_suite%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 11th_hour | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [cataclysm suite](./cataclysm_suite.md)  
-该封面包含的角色：- [神绮](./神绮.md)
+- [cataclysm suite](./cataclysm_suite.md)该封面包含的角色：
+- [神绮](./神绮.md)
 
   
-源地址：[[1]](https://f4.bcbits.com/img/a1784145428_10.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://f4.bcbits.com/img/a1784145428_10.jpg)  
 
 ---
 

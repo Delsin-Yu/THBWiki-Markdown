@@ -1,6 +1,6 @@
 # 文件:Star_Of_Freckles封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\00\ns6%3AStar_Of_Freckles%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\00\ns6%3AStar_Of_Freckles%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Cafe_MounTAIN_ToNe | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Cafe_MounTAIN_ToNe | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Star Of Freckles](./Star_Of_Freckles.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [Star Of Freckles](./Star_Of_Freckles.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:CPY～はじめてのサンプルCD～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\16\ns6%3ACPY%EF%BD%9E%E3%81%AF%E3%81%98%E3%82%81%E3%81%A6%E3%81%AE%E3%82%B5%E3%83%B3%E3%83%97%E3%83%ABCD%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\16\ns6%3ACPY%EF%BD%9E%E3%81%AF%E3%81%98%E3%82%81%E3%81%A6%E3%81%AE%E3%82%B5%E3%83%B3%E3%83%97%E3%83%ABCD%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 CPY | 专辑封面 | 封面图片
 
@@ -8,11 +8,11 @@ CPY | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [CPY～はじめてのサンプルCD～](./CPY～はじめてのサンプルCD～.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- 十六夜咲夜 (未找到链接)- [东风谷早苗](./东风谷早苗.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [CPY～はじめてのサンプルCD～](./CPY～はじめてのサンプルCD～.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [十六夜咲夜](./十六夜咲夜.md)
+- [东风谷早苗](./东风谷早苗.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

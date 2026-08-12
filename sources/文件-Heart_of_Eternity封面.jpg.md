@@ -1,6 +1,6 @@
 # 文件:Heart_of_Eternity封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\68\ns6%3AHeart_of_Eternity%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\68\ns6%3AHeart_of_Eternity%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ALiCE'S_EMOTiON | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ ALiCE'S_EMOTiON | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Heart of Eternity](./Heart_of_Eternity.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [Heart of Eternity](./Heart_of_Eternity.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

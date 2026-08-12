@@ -1,6 +1,6 @@
 # 文件:Campus_life_／_Skyscraper_(Acoustic_Edit.)封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\80\ns6%3ACampus_life_%EF%BC%8F_Skyscraper_%28Acoustic_Edit%2E%29%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\80\ns6%3ACampus_life_%EF%BC%8F_Skyscraper_%28Acoustic_Edit%2E%29%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 以呂波屋 | 封面图片
 
@@ -8,16 +8,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [Campus life ／ Skyscraper (Acoustic Edit.)](./Campus_life_／_Skyscraper_(Acoustic_Edit.).md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
+- [Campus life ／ Skyscraper (Acoustic Edit.)](./Campus_life_／_Skyscraper_(Acoustic_Edit.%29.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
   
-源地址：[[1]](https://pbs.twimg.com/media/EJVs7SpU8AEiY0y.jpg:orig)
-  
-
-
-
-
+源地址：[\[1\]](https://pbs.twimg.com/media/EJVs7SpU8AEiY0y.jpg:orig)  
 
 ---
 

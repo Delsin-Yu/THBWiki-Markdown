@@ -1,6 +1,6 @@
 # 文件:超最強！最終鬼畜妹フランドール・S封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f7\ns6%3A%E8%B6%85%E6%9C%80%E5%BC%B7%EF%BC%81%E6%9C%80%E7%B5%82%E9%AC%BC%E7%95%9C%E5%A6%B9%E3%83%95%E3%83%A9%E3%83%B3%E3%83%89%E3%83%BC%E3%83%AB%E3%83%BBS%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f7\ns6%3A%E8%B6%85%E6%9C%80%E5%BC%B7%EF%BC%81%E6%9C%80%E7%B5%82%E9%AC%BC%E7%95%9C%E5%A6%B9%E3%83%95%E3%83%A9%E3%83%B3%E3%83%89%E3%83%BC%E3%83%AB%E3%83%BBS%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 COOL&CREATE | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@ COOL&CREATE | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [超最強！最終鬼畜妹フランドール・S](./超最強！最終鬼畜妹フランドール・S.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [超最強！最終鬼畜妹フランドール・S](./超最強！最終鬼畜妹フランドール・S.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
   
-源地址：[[1]](http://cool-create.cc/cd/cccd73/image/cccd73_jak.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://cool-create.cc/cd/cccd73/image/cccd73_jak.jpg)  
 
 ---
 

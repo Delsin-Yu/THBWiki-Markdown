@@ -1,12 +1,8 @@
 # 文件:火狂符「人体燃烧秘匿弹幕（Burning_Hidden_Bullet）」3（凭依华）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\67\ns6%3A%E7%81%AB%E7%8B%82%E7%AC%A6%E3%80%8C%E4%BA%BA%E4%BD%93%E7%87%83%E7%83%A7%E7%A7%98%E5%8C%BF%E5%BC%B9%E5%B9%95%EF%BC%88Burning_Hidden_Bullet%EF%BC%89%E3%80%8D3%EF%BC%88%E5%87%AD%E4%BE%9D%E5%8D%8E%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\67\ns6%3A%E7%81%AB%E7%8B%82%E7%AC%A6%E3%80%8C%E4%BA%BA%E4%BD%93%E7%87%83%E7%83%A7%E7%A7%98%E5%8C%BF%E5%BC%B9%E5%B9%95%EF%BC%88Burning_Hidden_Bullet%EF%BC%89%E3%80%8D3%EF%BC%88%E5%87%AD%E4%BE%9D%E5%8D%8E%EF%BC%89%2Epng.html -->
 
 东方凭依华 | 敌机符卡 | 藤原妹红 | 铃仙·优昙华院·因幡
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:the_chimera_e.p.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\db\ns6%3Athe_chimera_e%2Ep%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\db\ns6%3Athe_chimera_e%2Ep%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 味ノ素密売所 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [the chimera e.p.](./the_chimera_e.p..md)  
-该封面包含的角色：- [封兽鵺](./封兽鵺.md)
-
-
-
+- [the chimera e.p.](./the_chimera_e.p..md)该封面包含的角色：
+- [封兽鵺](./封兽鵺.md)
 
 
 ---

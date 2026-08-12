@@ -1,16 +1,12 @@
 # 文件:薮雨FEO.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\99\ns6%3A%E8%96%AE%E9%9B%A8FEO%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\99\ns6%3A%E8%96%AE%E9%9B%A8FEO%2Epng.html -->
 
 トリック・ノスタルジー | 二次角色立绘 | 薮雨（FEO） | 连缘咖啡厅
 
   
 连缘咖啡厅主线剧情角色
   
-
-
-
-
 
 ---
 

@@ -1,12 +1,8 @@
 # 文件:幻宴ProjectLOGO.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b4\ns6%3A%E5%B9%BB%E5%AE%B4ProjectLOGO%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b4\ns6%3A%E5%B9%BB%E5%AE%B4ProjectLOGO%2Epng.html -->
 
 幻宴Project | 活动LOGO
-
-
-
-
 
 
 ---

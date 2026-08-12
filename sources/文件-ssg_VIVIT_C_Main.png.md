@@ -1,16 +1,12 @@
 # 文件:ssg_VIVIT_C_Main.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d5\ns6%3Assg_VIVIT_C_Main%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d5\ns6%3Assg_VIVIT_C_Main%2Epng.html -->
 
 秋霜玉
 
   
 《秋霜玉》机体Laser的主炮弹幕。
   
-
-
-
-
 
 ---
 

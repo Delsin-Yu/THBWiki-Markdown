@@ -1,12 +1,8 @@
 # 文件:Sounds_of_Liberation_banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\30\ns6%3ASounds_of_Liberation_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\30\ns6%3ASounds_of_Liberation_banner%2Ejpg.html -->
 
 Sounds_of_Liberation | 社团LOGO
-
-
-
-
 
 
 ---

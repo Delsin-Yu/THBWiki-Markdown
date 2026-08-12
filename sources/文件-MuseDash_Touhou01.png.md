@@ -1,16 +1,12 @@
 # 文件:MuseDash_Touhou01.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\67\ns6%3AMuseDash_Touhou01%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\67\ns6%3AMuseDash_Touhou01%2Epng.html -->
 
 PeroPeroGames
 
   
 MuseDash_Touhou01
   
-
-
-
-
 
 ---
 

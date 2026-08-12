@@ -1,13 +1,11 @@
 # 東方”騒”_-single_act-
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\5\58\ns0%3A%E6%9D%B1%E6%96%B9%E2%80%9D%E9%A8%92%E2%80%9D_-single_act-.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\5\58\ns0%3A%E6%9D%B1%E6%96%B9%E2%80%9D%E9%A8%92%E2%80%9D_-single_act-.html -->
 
 2009年5月5日 由 なんだこりゃーず 于 M3-2009春 发布的EP同人专辑，曲目主要风格是 Rock、金属，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人专辑 (未找到链接)** 的词条
-<center>
-
+**[二次创作同人专辑](./二次创作.md#同人音乐)**的词条<center>
 <table>
 <tbody><tr>
 <td class="mbox-image"><div style="width: 52px;">
@@ -16,41 +14,32 @@
 </tr>
 </tbody></table>
 
-
 </center>
-
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-東方”騒”_-single_act-封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/b/b4/%E6%9D%B1%E6%96%B9%E2%80%9D%E9%A8%92%E2%80%9D_-single_act-%E5%B0%81%E9%9D%A2.jpg/224px-%E6%9D%B1%E6%96%B9%E2%80%9D%E9%A8%92%E2%80%9D_-single_act-%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="221" srcset="https://upload.thwiki.cc/thumb/b/b4/%E6%9D%B1%E6%96%B9%E2%80%9D%E9%A8%92%E2%80%9D_-single_act-%E5%B0%81%E9%9D%A2.jpg/336px-%E6%9D%B1%E6%96%B9%E2%80%9D%E9%A8%92%E2%80%9D_-single_act-%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/b/b4/%E6%9D%B1%E6%96%B9%E2%80%9D%E9%A8%92%E2%80%9D_-single_act-%E5%B0%81%E9%9D%A2.jpg/448px-%E6%9D%B1%E6%96%B9%E2%80%9D%E9%A8%92%E2%80%9D_-single_act-%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="2860" data-file-height="2828"></a><div class="cover-char">角色：<a href="./水桥帕露西.md" title="水桥帕露西">水桥帕露西</a></div></td>
 </tr><tr><td class="label">名称</td><td colspan="2"> 東方”騒” -single act- </td></tr><tr><td class="label">制作方</td><td><a href="./なんだこりゃーず.md" title="なんだこりゃーず">なんだこりゃーず</a></td><td class="cover-artwork" rowspan="8" style="min-width:224px;"><a href="./文件-東方”騒”_-single_act-封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/b/b4/%E6%9D%B1%E6%96%B9%E2%80%9D%E9%A8%92%E2%80%9D_-single_act-%E5%B0%81%E9%9D%A2.jpg/224px-%E6%9D%B1%E6%96%B9%E2%80%9D%E9%A8%92%E2%80%9D_-single_act-%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="221" srcset="https://upload.thwiki.cc/thumb/b/b4/%E6%9D%B1%E6%96%B9%E2%80%9D%E9%A8%92%E2%80%9D_-single_act-%E5%B0%81%E9%9D%A2.jpg/336px-%E6%9D%B1%E6%96%B9%E2%80%9D%E9%A8%92%E2%80%9D_-single_act-%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/b/b4/%E6%9D%B1%E6%96%B9%E2%80%9D%E9%A8%92%E2%80%9D_-single_act-%E5%B0%81%E9%9D%A2.jpg/448px-%E6%9D%B1%E6%96%B9%E2%80%9D%E9%A8%92%E2%80%9D_-single_act-%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="2860" data-file-height="2828"></a><div class="cover-char">角色：<a href="./水桥帕露西.md" title="水桥帕露西">水桥帕露西</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2009-05-05&#160;（<a href="/展会作品列表?e=M3%2323">M3-2009春</a>）</td></tr><tr><td class="label">类型</td><td>EP</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>3</td></tr><tr><td class="label">总时长</td><td>08:28</td></tr><tr><td class="label">风格类型</td><td>Rock，金属</td></tr>
+</tr><tr><td class="label">首发日期</td><td>2009-05-05 （<a href="./展会作品列表.md#23">M3-2009春</a>）</td></tr><tr><td class="label">类型</td><td>EP</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>3</td></tr><tr><td class="label">总时长</td><td>08:28</td></tr><tr><td class="label">风格类型</td><td>Rock，金属</td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://nanndakorya-z.rakurakuhp.net/i_600469,si_125354.htm">http://nanndakorya-z.rakurakuhp.net/i_600469,si_125354.htm</a><br><span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span><small>（<a rel="nofollow" class="external text" href="https://web.archive.org/web/20091006023428/http://nanndakorya-z.rakurakuhp.net/i_600469.htm">缓存页面</a>）</small></td></tr></tbody></table>
 
 東方”騒” -single act-（同人专辑，なんだこりゃーず，2009） - 2009年5月5日 由 なんだこりゃーず 于 M3-2009春 发布的EP同人专辑，曲目主要风格是 Rock、金属，分级为 一般向
-
 ## Staff
   
- **Arrangement**   
+**Arrangement**  
 
 <table><tbody><tr><td><a href="./なんだこりゃーず.md" title="なんだこりゃーず">なんだこりゃーず</a></td><td><a href="./なんだこりゃーず.md" title="なんだこりゃーず">なんだこりゃーず</a></td><td>Tr.1-3</td></tr></tbody></table>
-
 
 Illustration
 : はやも
 
-
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="妬" colspan="2" class="title">妬<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=なんだこりゃーず&amp;ogmusic=緑眼のジェラシー&amp;fromwiki=東方”騒”_-single_act-"><span title="搜索相似同人曲"></span></a></span></td><td class="time">02:32</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./なんだこりゃーず.md" title="なんだこりゃーず">なんだこりゃーず</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，なんだこりゃーず&amp;fromwiki=東方”騒”_-single_act-"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=緑眼のジェラシー&amp;fromwiki=東方”騒”_-single_act-"><span></span></a></span><div class="ogmusic"><a href="./緑眼のジェラシー.md" class="mw-redirect" title="緑眼のジェラシー">緑眼のジェラシー</a></div><div class="source"><a href="./东方地灵殿_～_Subterranean_Animism..md" class="mw-redirect" title="东方地灵殿 ～ Subterranean Animism.">东方地灵殿　～ Subterranean Animism.</a></div></td></tr>
-<tr><td id="2" class="infoYD"><b>02</b></td><td id="騒雪" colspan="2" class="title">騒雪<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=なんだこりゃーず&amp;ogmusic=クリスタライズシルバー&amp;fromwiki=東方”騒”_-single_act-"><span title="搜索相似同人曲"></span></a></span></td><td class="time">02:38</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./なんだこりゃーず.md" title="なんだこりゃーず">なんだこりゃーず</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，なんだこりゃーず&amp;fromwiki=東方”騒”_-single_act-"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=クリスタライズシルバー&amp;fromwiki=東方”騒”_-single_act-"><span></span></a></span><div class="ogmusic"><a href="./クリスタライズシルバー.md" class="mw-redirect" title="クリスタライズシルバー">クリスタライズシルバー</a></div><div class="source"><a href="./东方妖妖梦_～_Perfect_Cherry_Blossom..md" class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr>
-<tr><td id="3" class="infoYD"><b>03</b></td><td id="舞桜" colspan="2" class="title">舞桜<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=なんだこりゃーず&amp;ogmusic=さくらさくら　～ Japanize Dream...&amp;fromwiki=東方”騒”_-single_act-"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:18</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./なんだこりゃーず.md" title="なんだこりゃーず">なんだこりゃーず</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，なんだこりゃーず&amp;fromwiki=東方”騒”_-single_act-"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=さくらさくら　～ Japanize Dream...&amp;fromwiki=東方”騒”_-single_act-"><span></span></a></span><div class="ogmusic"><a href="./さくらさくら_～_Japanize_Dream....md" class="mw-redirect" title="さくらさくら ～ Japanize Dream...">さくらさくら　～ Japanize Dream...</a></div><div class="source"><a href="./东方妖妖梦_～_Perfect_Cherry_Blossom..md" class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr></tbody></table>
-
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="妬" colspan="2" class="title">妬</td><td class="time">02:32</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./なんだこりゃーず.md" title="なんだこりゃーず">なんだこりゃーず</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./绿眼的嫉妒.md" class="mw-redirect" title="緑眼のジェラシー">緑眼のジェラシー</a></div><div class="source"><a href="./东方地灵殿.md" class="mw-redirect" title="东方地灵殿 ～ Subterranean Animism.">东方地灵殿　～ Subterranean Animism.</a></div></td></tr>
+<tr><td id="2" class="infoYD"><b>02</b></td><td id="騒雪" colspan="2" class="title">騒雪</td><td class="time">02:38</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./なんだこりゃーず.md" title="なんだこりゃーず">なんだこりゃーず</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./Crystallize_Silver.md" class="mw-redirect" title="クリスタライズシルバー">クリスタライズシルバー</a></div><div class="source"><a href="./东方妖妖梦.md" class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr>
+<tr><td id="3" class="infoYD"><b>03</b></td><td id="舞桜" colspan="2" class="title">舞桜</td><td class="time">03:18</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./なんだこりゃーず.md" title="なんだこりゃーず">なんだこりゃーず</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./樱花樱花_～_Japanize_Dream....md" class="mw-redirect" title="さくらさくら ～ Japanize Dream...">さくらさくら　～ Japanize Dream...</a></div><div class="source"><a href="./东方妖妖梦.md" class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr></tbody></table>
 
 
 ## 评论
-
-
-
 
 ---
 

@@ -1,11 +1,10 @@
 # 东方三月精_～_Strange_and_Bright_Nature_Deity./其他
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\bc\ns0%3A%E4%B8%9C%E6%96%B9%E4%B8%89%E6%9C%88%E7%B2%BE_%EF%BD%9E_Strange_and_Bright_Nature_Deity%2E%2F%E5%85%B6%E4%BB%96.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\bc\ns0%3A%E4%B8%9C%E6%96%B9%E4%B8%89%E6%9C%88%E7%B2%BE_%EF%BD%9E_Strange_and_Bright_Nature_Deity%2E%2F%E5%85%B6%E4%BB%96.html -->
 
 东方三月精_～_Strange_and_Bright_Nature_Deity. | 使用了翻译表的页面 | 待完成页面
 
 <center>
-
 <table>
 <tbody><tr>
 <td class="mbox-image"><div style="width: 52px;">
@@ -14,21 +13,13 @@
 </tr>
 </tbody></table>
 
-
 </center>
-
 ## 其他设定点
   
 （图片）
   
 
-
 <table><tbody><tr class="tt-content" id="其他设定点-1" data-pos="&#91;&quot;\u5176\u4ed6\u8bbe\u5b9a\u70b9&quot;,1&#93;"><td class="tt-ja" lang="ja"><div class="poem"></div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr></tbody></table>
-
-
-
-
-
 
 
 ---

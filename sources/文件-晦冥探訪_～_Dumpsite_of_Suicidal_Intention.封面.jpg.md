@@ -1,6 +1,6 @@
 # 文件:晦冥探訪_～_Dumpsite_of_Suicidal_Intention.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4c\ns6%3A%E6%99%A6%E5%86%A5%E6%8E%A2%E8%A8%AA_%EF%BD%9E_Dumpsite_of_Suicidal_Intention%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4c\ns6%3A%E6%99%A6%E5%86%A5%E6%8E%A2%E8%A8%AA_%EF%BD%9E_Dumpsite_of_Suicidal_Intention%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 悠久ホロウ
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [晦冥探訪 ～ Dumpsite of Suicidal Intention.](./晦冥探訪_～_Dumpsite_of_Suicidal_Intention..md)  
-该封面包含的角色：- 原创角色 (未找到链接)
-
-
-
+- [晦冥探訪 ～ Dumpsite of Suicidal Intention.](./晦冥探訪_～_Dumpsite_of_Suicidal_Intention..md)该封面包含的角色：
+- 原创角色 (未找到链接)
 
 
 ---

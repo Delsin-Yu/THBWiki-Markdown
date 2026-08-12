@@ -1,18 +1,13 @@
 # 文件:さくらんぼ亭banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\54\ns6%3A%E3%81%95%E3%81%8F%E3%82%89%E3%82%93%E3%81%BC%E4%BA%ADbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\54\ns6%3A%E3%81%95%E3%81%8F%E3%82%89%E3%82%93%E3%81%BC%E4%BA%ADbanner%2Epng.html -->
 
 さくらんぼ亭 | 社团LOGO
 
 
 ## 摘要
   
-源地址：[direct image link](https://light-of-moe.ddo.jp/~skrtei/img/banner.png), [source page](https://light-of-moe.ddo.jp/~skrtei/info.php)
-  
-
-
-
-
+源地址：[direct image link](https://light-of-moe.ddo.jp/~skrtei/img/banner.png), [source page](https://light-of-moe.ddo.jp/~skrtei/info.php)  
 
 ---
 

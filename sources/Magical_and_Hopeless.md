@@ -1,43 +1,31 @@
 # Magical_and_Hopeless
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\d\da\ns0%3AMagical_and_Hopeless.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\d\da\ns0%3AMagical_and_Hopeless.html -->
 
 由 ZUN 创作的官方曲目，原名 Magical and Hopeless
 
 本页是关于东方Project  
- **原作音乐** 的词条
-
+**原作音乐**的词条
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 出现作品](#出现作品)
 - [3 音乐文件](#音乐文件)
-
   - [3.1 Torte Le Magic](#Torte_Le_Magic)
   - [3.2 东方幻想的音乐](#东方幻想的音乐)
 
 
-
 - [4 说明文本](#说明文本)
-
   - [4.1 东方幻想的音乐](#东方幻想的音乐_2)
-
     - [4.1.1 Torte Le Magic](#Torte_Le_Magic_2)
 
 
 
 
-
-
 - [5 其他资料](#其他资料)
-
   - [5.1 乐理资讯](#乐理资讯)
   - [5.2 分析考据](#分析考据)
   - [5.3 二次同人数据](#二次同人数据)
-
-
-
-
 
 
 
@@ -47,14 +35,12 @@
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">Magical and Hopeless</td></tr><tr><td><b>译名</b></td><td>Magical and Hopeless</td></tr><tr><td><b>其他译名</b></td><td>魔幻与绝望</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 Magical and Hopeless（曲目） - 由 ZUN 创作的官方曲目，原名 Magical and Hopeless
-
 ## 出现作品
 
 <table>
 <tbody><tr><td>2001年5月4日（非展会）</td><td><b><a href="./Torte_Le_Magic.md" title="Torte Le Magic">Torte Le Magic</a></b></td><td><a href="./苏.md" title="苏">苏</a>的主题曲</td><td style="padding-left:5px;">Magical and Hopeless（Magical and Hopeless）</td><td style="padding-left:10px;">作曲：ZUN</td></tr>
 <tr><td>2001年5月20日（非展会）</td><td><b><a href="./东方幻想的音乐.md" title="东方幻想的音乐">东方幻想的音乐</a></b></td><td>トルテ ル マジック</td><td style="padding-left:5px;">Magical and Hopeless（Magical and Hopeless）</td><td style="padding-left:10px;">作曲：ZUN</td></tr>
 </tbody></table>
-
 
 
 ## 音乐文件
@@ -64,11 +50,9 @@ Magical and Hopeless（曲目） - 由 ZUN 创作的官方曲目，原名 Magica
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td><a href="./文件-TLM_02.mid.md" title="文件:TLM 02.mid">TLM_02.mid</a></td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-TLM_02.mp3.md" title="文件:TLM 02.mp3">TLM_02.mp3</a><br><audio src="https://upload.thwiki.cc/9/94/TLM_02.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>midi2.mid</td></tr><tr><td><b>音轨时长</b></td><td>4:17</td></tr></tbody></table>
 
 
-
 ### 东方幻想的音乐
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td><a href="./文件-TLM_02.mid.md" title="文件:TLM 02.mid">TLM_02.mid</a></td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-trt_01.mp3.md" title="文件:trt 01.mp3">trt_01.mp3</a><br><audio src="https://upload.thwiki.cc/0/0a/trt_01.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>trt_01.mid</td></tr><tr><td><b>音轨时长</b></td><td>4:17</td></tr></tbody></table>
-
 
 
 ## 说明文本
@@ -76,7 +60,8 @@ Magical and Hopeless（曲目） - 由 ZUN 创作的官方曲目，原名 Magica
 ### 东方幻想的音乐
 
 #### Torte Le Magic
-- 东方幻想的音乐 (未找到链接)
+
+- [东方幻想的音乐](./东方幻想的音乐-过去的曲子-Torte_Le_Magic.md#Magical_and_Hopeless)
 
 +----------------------------------------------------------------------------+  
 |【 　 曲名　　】| 【 Magical and Hopeless 】  
@@ -112,7 +97,6 @@ Magical and Hopeless（曲目） - 由 ZUN 创作的官方曲目，原名 Magica
 曲子的感想、请求等，请这边  
 　东方幻想空间　「博丽神社」 [http://www16.big.or.jp/~zun/](http://www16.big.or.jp/~zun/)  
 　e-Mail                     zun@big.or.jp
-
 ## 其他资料
 
 ### 乐理资讯
@@ -131,17 +115,6 @@ Magical and Hopeless（曲目） - 由 ZUN 创作的官方曲目，原名 Magica
 <tr><td>Arrange</td><td>10</td></tr>
 <tr><td>Vocal率</td><td>0%</td></tr>
 </tbody></table>
-
-
-
-
-  
-  
-
-  
-
-
-
 
 
 ---

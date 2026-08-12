@@ -1,6 +1,6 @@
 # 文件:RED_ALERT_LANA_／_徹底探索ダウジンガーのテーマ封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\65\ns6%3ARED_ALERT_LANA_%EF%BC%8F_%E5%BE%B9%E5%BA%95%E6%8E%A2%E7%B4%A2%E3%83%80%E3%82%A6%E3%82%B8%E3%83%B3%E3%82%AC%E3%83%BC%E3%81%AE%E3%83%86%E3%83%BC%E3%83%9E%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\65\ns6%3ARED_ALERT_LANA_%EF%BC%8F_%E5%BE%B9%E5%BA%95%E6%8E%A2%E7%B4%A2%E3%83%80%E3%82%A6%E3%82%B8%E3%83%B3%E3%82%AC%E3%83%BC%E3%81%AE%E3%83%86%E3%83%BC%E3%83%9E%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Afternoon*Tea | おかかとんかつ | 专辑封面 | 封面图片
 
@@ -10,11 +10,9 @@ Afternoon*Tea | おかかとんかつ | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [RED ALERT LANA ／ 徹底探索ダウジンガーのテーマ](./RED_ALERT_LANA_／_徹底探索ダウジンガーのテーマ.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)- [赤蛮奇](./赤蛮奇.md)
-
-
-
+- [RED ALERT LANA ／ 徹底探索ダウジンガーのテーマ](./RED_ALERT_LANA_／_徹底探索ダウジンガーのテーマ.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
+- [赤蛮奇](./赤蛮奇.md)
 
 
 ---

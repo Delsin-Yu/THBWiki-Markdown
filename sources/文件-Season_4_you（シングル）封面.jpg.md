@@ -1,6 +1,6 @@
 # 文件:Season_4_you（シングル）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\99\ns6%3ASeason_4_you%EF%BC%88%E3%82%B7%E3%83%B3%E3%82%B0%E3%83%AB%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\99\ns6%3ASeason_4_you%EF%BC%88%E3%82%B7%E3%83%B3%E3%82%B0%E3%83%AB%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 森羅万象
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Season 4 you（シングル）](./Season_4_you（シングル）.md)  
-该封面包含的角色：- [摩多罗隐岐奈](./摩多罗隐岐奈.md)
-
-
-
+- [Season 4 you（シングル）](./Season_4_you（シングル）.md)该封面包含的角色：
+- [摩多罗隐岐奈](./摩多罗隐岐奈.md)
 
 
 ---

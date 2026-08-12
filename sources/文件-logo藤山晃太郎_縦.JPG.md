@@ -1,12 +1,8 @@
 # 文件:logo藤山晃太郎_縦.JPG
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c3\ns6%3Alogo%E8%97%A4%E5%B1%B1%E6%99%83%E5%A4%AA%E9%83%8E_%E7%B8%A6%2EJPG.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c3\ns6%3Alogo%E8%97%A4%E5%B1%B1%E6%99%83%E5%A4%AA%E9%83%8E_%E7%B8%A6%2EJPG.html -->
 
 社团LOGO | 藤山晃太郎
-
-
-
-
 
 
 ---

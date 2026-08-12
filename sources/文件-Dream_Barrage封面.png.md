@@ -1,6 +1,6 @@
 # 文件:Dream_Barrage封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\72\ns6%3ADream_Barrage%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\72\ns6%3ADream_Barrage%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 YEKproject | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ YEKproject | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Dream Barrage](./Dream_Barrage.md)  
-该封面包含的角色：- [八云紫](./八云紫.md)
-
-
-
+- [Dream Barrage](./Dream_Barrage.md)该封面包含的角色：
+- [八云紫](./八云紫.md)
 
 
 ---

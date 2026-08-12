@@ -1,12 +1,8 @@
 # 文件:灰烬天国banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7b\ns6%3A%E7%81%B0%E7%83%AC%E5%A4%A9%E5%9B%BDbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7b\ns6%3A%E7%81%B0%E7%83%AC%E5%A4%A9%E5%9B%BDbanner%2Ejpg.html -->
 
 灰烬天国 | 社团LOGO
-
-
-
-
 
 
 ---

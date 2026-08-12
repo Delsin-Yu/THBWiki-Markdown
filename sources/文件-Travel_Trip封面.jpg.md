@@ -1,6 +1,6 @@
 # 文件:Travel_Trip封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\90\ns6%3ATravel_Trip%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\90\ns6%3ATravel_Trip%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 みどりねこ | 同人志封面 | 封面图片
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Travel Trip](./Travel_Trip.md)  
-该封面包含的角色：- [莉格露·奈特巴格](./莉格露·奈特巴格.md)
+- [Travel Trip](./Travel_Trip.md)该封面包含的角色：
+- [莉格露·奈特巴格](./莉格露·奈特巴格.md)
 
   
-源地址：[Pixiv illustration ID: 13570656](https://i.pximg.net/img-master/img/2010/09/30/01/49/28/13570656_p0_master1200.jpg)
-  
-
-
-
-
+源地址：[Pixiv illustration ID: 13570656](https://i.pximg.net/img-master/img/2010/09/30/01/49/28/13570656_p0_master1200.jpg)  
 
 ---
 

@@ -1,18 +1,13 @@
 # 文件:AtRustEralogo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\24\ns6%3AAtRustEralogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\24\ns6%3AAtRustEralogo%2Ejpg.html -->
 
 AtRustEra | 社团LOGO
 
 
 ## 摘要
   
-源地址：[direct image link (original size)](https://pbs.twimg.com/profile_banners/1648691028533317633/1697425216), [from circle twitter header image](https://twitter.com/AtRustEra/header_photo)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://pbs.twimg.com/profile_banners/1648691028533317633/1697425216), [from circle twitter header image](https://twitter.com/AtRustEra/header_photo)  
 
 ---
 

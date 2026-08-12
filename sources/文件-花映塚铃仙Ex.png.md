@@ -1,12 +1,8 @@
 # 文件:花映塚铃仙Ex.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\01\ns6%3A%E8%8A%B1%E6%98%A0%E5%A1%9A%E9%93%83%E4%BB%99Ex%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\01\ns6%3A%E8%8A%B1%E6%98%A0%E5%A1%9A%E9%93%83%E4%BB%99Ex%2Epng.html -->
 
 东方花映塚 | 铃仙·优昙华院·因幡
-
-
-
-
 
 
 ---

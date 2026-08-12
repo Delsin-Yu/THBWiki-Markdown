@@ -1,6 +1,6 @@
 # 文件:SORCERESS_SUMMER封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\11\ns6%3ASORCERESS_SUMMER%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\11\ns6%3ASORCERESS_SUMMER%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 FOX_RAVEL | Frozen_System_Records | KINZOK_ON | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ FOX_RAVEL | Frozen_System_Records | KINZOK_ON | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [SORCERESS SUMMER](./SORCERESS_SUMMER.md)  
-该封面包含的角色：- [红美铃](./红美铃.md)- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
-
-
-
+- [SORCERESS SUMMER](./SORCERESS_SUMMER.md)该封面包含的角色：
+- [红美铃](./红美铃.md)
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
 
 
 ---

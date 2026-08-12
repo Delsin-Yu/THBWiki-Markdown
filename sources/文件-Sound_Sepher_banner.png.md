@@ -1,12 +1,8 @@
 # 文件:Sound_Sepher_banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\db\ns6%3ASound_Sepher_banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\db\ns6%3ASound_Sepher_banner%2Epng.html -->
 
 sound_sepher | 社团LOGO
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:ENCYCLOPEDIA_〈妖〉_monstrous_beings封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\60\ns6%3AENCYCLOPEDIA_%E3%80%88%E5%A6%96%E3%80%89_monstrous_beings%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\60\ns6%3AENCYCLOPEDIA_%E3%80%88%E5%A6%96%E3%80%89_monstrous_beings%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ユウノウミ | 专辑封面 | 封面图片
 
@@ -8,16 +8,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [ENCYCLOPEDIA 〈妖〉 monstrous beings](./ENCYCLOPEDIA_〈妖〉_monstrous_beings.md)  
-该封面包含的角色：- [八云紫](./八云紫.md)- [风见幽香](./风见幽香.md)
+- [ENCYCLOPEDIA 〈妖〉 monstrous beings](./ENCYCLOPEDIA_〈妖〉_monstrous_beings.md)该封面包含的角色：
+- [八云紫](./八云紫.md)
+- [风见幽香](./风见幽香.md)
 
   
-源地址：[[1]](http://younoumi.com/wp/wp-content/uploads/2013/09/ency03_jacket_600px.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://younoumi.com/wp/wp-content/uploads/2013/09/ency03_jacket_600px.jpg)  
 
 ---
 

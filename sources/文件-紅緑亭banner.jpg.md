@@ -1,18 +1,13 @@
 # 文件:紅緑亭banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cd\ns6%3A%E7%B4%85%E7%B7%91%E4%BA%ADbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cd\ns6%3A%E7%B4%85%E7%B7%91%E4%BA%ADbanner%2Ejpg.html -->
 
 社团LOGO | 紅緑亭
 
 
 ## 文件说明
   
-源地址：[[1]](http://kouryokutei.web.fc2.com/kouryokutei_b.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://kouryokutei.web.fc2.com/kouryokutei_b.jpg)  
 
 ---
 

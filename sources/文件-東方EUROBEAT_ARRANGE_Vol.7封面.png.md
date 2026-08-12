@@ -1,6 +1,6 @@
 # 文件:東方EUROBEAT_ARRANGE_Vol.7封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9e\ns6%3A%E6%9D%B1%E6%96%B9EUROBEAT_ARRANGE_Vol%2E7%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9e\ns6%3A%E6%9D%B1%E6%96%B9EUROBEAT_ARRANGE_Vol%2E7%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 SuganoMusic | 专辑封面 | 封面图片
 
@@ -11,12 +11,7 @@ SuganoMusic | 专辑封面 | 封面图片
 - [東方EUROBEAT ARRANGE Vol.7](./東方EUROBEAT_ARRANGE_Vol.7.md)
 
   
-源地址：[[1]](http://suganomusic.com/wp/wp-content/uploads/2015/09/SM_TEBA_vol.7_mid.png)
-  
-
-
-
-
+源地址：[\[1\]](http://suganomusic.com/wp/wp-content/uploads/2015/09/SM_TEBA_vol.7_mid.png)  
 
 ---
 

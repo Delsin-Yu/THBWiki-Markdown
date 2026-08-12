@@ -1,12 +1,8 @@
 # 文件:UnLimited_Questionsbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\80\ns6%3AUnLimited_Questionsbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\80\ns6%3AUnLimited_Questionsbanner%2Epng.html -->
 
 UnLimited_Questions | 社团LOGO
-
-
-
-
 
 
 ---

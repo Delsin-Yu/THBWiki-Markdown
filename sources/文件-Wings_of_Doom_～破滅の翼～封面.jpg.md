@@ -1,6 +1,6 @@
 # 文件:Wings_of_Doom_～破滅の翼～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\88\ns6%3AWings_of_Doom_%EF%BD%9E%E7%A0%B4%E6%BB%85%E3%81%AE%E7%BF%BC%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\88\ns6%3AWings_of_Doom_%EF%BD%9E%E7%A0%B4%E6%BB%85%E3%81%AE%E7%BF%BC%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Ruins_on_the_Lotus_Position | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Ruins_on_the_Lotus_Position | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Wings of Doom ～破滅の翼～](./Wings_of_Doom_～破滅の翼～.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [Wings of Doom ～破滅の翼～](./Wings_of_Doom_～破滅の翼～.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
   
-源地址:[[1]](http://rlp.rgr.jp/circle/arr/wod/wod1.jpg)
-  
-
-
-
-
+源地址:[\[1\]](http://rlp.rgr.jp/circle/arr/wod/wod1.jpg)  
 
 ---
 

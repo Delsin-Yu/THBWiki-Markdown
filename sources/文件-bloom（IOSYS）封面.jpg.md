@@ -1,6 +1,6 @@
 # 文件:bloom（IOSYS）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e7\ns6%3Abloom%EF%BC%88IOSYS%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e7\ns6%3Abloom%EF%BC%88IOSYS%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 IOSYS | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ IOSYS | 专辑封面 | 封面图片
   
 
 - [bloom（IOSYS）](./bloom（IOSYS）.md)
-
-
-
 
 
 ---

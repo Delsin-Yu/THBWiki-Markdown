@@ -1,6 +1,6 @@
 # 文件:Dirty_Deeds_Done_Dirt_Cheep封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e4\ns6%3ADirty_Deeds_Done_Dirt_Cheep%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e4\ns6%3ADirty_Deeds_Done_Dirt_Cheep%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 やし屋 | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Dirty Deeds Done Dirt Cheep](./Dirty_Deeds_Done_Dirt_Cheep.md)  
-该封面包含的角色：- [河城荷取](./河城荷取.md)
+- [Dirty Deeds Done Dirt Cheep](./Dirty_Deeds_Done_Dirt_Cheep.md)该封面包含的角色：
+- [河城荷取](./河城荷取.md)
 
   
-[https://www.pixiv.net/artworks/70705624](https://www.pixiv.net/artworks/70705624)
-  
-
-
-
-
+[https://www.pixiv.net/artworks/70705624](https://www.pixiv.net/artworks/70705624)  
 
 ---
 

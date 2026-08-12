@@ -1,12 +1,8 @@
 # 文件:K2E†Cradlebanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5e\ns6%3AK2E%E2%80%A0Cradlebanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5e\ns6%3AK2E%E2%80%A0Cradlebanner%2Epng.html -->
 
 K2E†Cradle | 社团LOGO
-
-
-
-
 
 
 ---

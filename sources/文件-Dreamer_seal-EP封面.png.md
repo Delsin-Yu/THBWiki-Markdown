@@ -1,6 +1,6 @@
 # 文件:Dreamer_seal-EP封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7e\ns6%3ADreamer_seal-EP%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7e\ns6%3ADreamer_seal-EP%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 mors_mos | 专辑封面 | 封面图片
 
@@ -8,10 +8,7 @@ mors_mos | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Dreamer seal-EP](./Dreamer_seal-EP.md)源地址：[[1]](https://booth.pximg.net/2a24e667-570d-4cae-9fba-fb035881be3d/i/894939/a170e0aa-3662-4e8e-83df-7b5a624fad37.png)
-
-
-
+- [Dreamer seal-EP](./Dreamer_seal-EP.md)源地址：[\[1\]](https://booth.pximg.net/2a24e667-570d-4cae-9fba-fb035881be3d/i/894939/a170e0aa-3662-4e8e-83df-7b5a624fad37.png)
 
 
 ---

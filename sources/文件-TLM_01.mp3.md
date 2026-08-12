@@ -1,12 +1,8 @@
 # 文件:TLM_01.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c5\ns6%3ATLM_01%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c5\ns6%3ATLM_01%2Emp3.html -->
 
 Torte_Le_Magic | Witch_of_Love_Potion | 原曲MP3
-
-
-
-
 
 
 ---

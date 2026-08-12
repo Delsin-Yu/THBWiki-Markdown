@@ -1,16 +1,11 @@
 # 文件:the_Yutorizmbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\20\ns6%3Athe_Yutorizmbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\20\ns6%3Athe_Yutorizmbanner%2Epng.html -->
 
 the_Yutorizm | 社团LOGO
 
   
-源地址：[[1]](http://livedoor.blogimg.jp/yutorizm/imgs/d/8/d8af852b.png)
-  
-
-
-
-
+源地址：[\[1\]](http://livedoor.blogimg.jp/yutorizm/imgs/d/8/d8af852b.png)  
 
 ---
 

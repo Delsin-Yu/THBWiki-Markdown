@@ -1,14 +1,11 @@
 # 文件:東条らーめんlogo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\76\ns6%3A%E6%9D%B1%E6%9D%A1%E3%82%89%E3%83%BC%E3%82%81%E3%82%93logo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\76\ns6%3A%E6%9D%B1%E6%9D%A1%E3%82%89%E3%83%BC%E3%82%81%E3%82%93logo%2Ejpg.html -->
 
 東条らーめん | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

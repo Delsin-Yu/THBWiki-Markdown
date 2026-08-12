@@ -1,18 +1,16 @@
 # D@i
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\3\36\ns0%3AD%40i.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\3\36\ns0%3AD%40i.html -->
 
 现实人物
 
 本页是关于东方Project  
- **二次同人创作者** 的词条
-
+**二次同人创作者**的词条
 ## 基本信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="label"><b>名称</b></td><td> D@i </td></tr><tr><td class="label"><b>所属社团</b></td><td><b>当前</b><div style="margin-left:2em;"><a href="./そらばたけ.md" title="そらばたけ">そらばたけ</a></div></td></tr><tr><td class="label"><b>职位</b></td><td>漫画家</td></tr><tr><td class="label"><b>个人页面</b></td><td><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><b>Twitter</b></td><td><a rel="nofollow" class="external free" href="https://twitter.com/dood1er">https://twitter.com/dood1er</a></td></tr><tr><td><b>Pixiv</b></td><td><a rel="nofollow" class="external free" href="https://www.pixiv.net/users/9179">https://www.pixiv.net/users/9179</a></td></tr></tbody></table></td></tr></tbody></table>
 
 D@i（人物） - 现实人物
-
 ## 介绍
 
 ## 参与作品
@@ -20,10 +18,6 @@ D@i（人物） - 现实人物
 ## 人际关系
 人名
 : 关系
-
-
-
-
 
 ---
 

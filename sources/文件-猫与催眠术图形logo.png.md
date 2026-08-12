@@ -1,16 +1,12 @@
 # 文件:猫与催眠术图形logo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ae\ns6%3A%E7%8C%AB%E4%B8%8E%E5%82%AC%E7%9C%A0%E6%9C%AF%E5%9B%BE%E5%BD%A2logo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ae\ns6%3A%E7%8C%AB%E4%B8%8E%E5%82%AC%E7%9C%A0%E6%9C%AF%E5%9B%BE%E5%BD%A2logo%2Epng.html -->
 
 猫与催眠术 | 社团LOGO
 
   
 图形logo
   
-
-
-
-
 
 ---
 

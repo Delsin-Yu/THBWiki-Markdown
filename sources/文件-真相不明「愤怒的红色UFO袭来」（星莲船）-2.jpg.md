@@ -1,12 +1,8 @@
 # 文件:真相不明「愤怒的红色UFO袭来」（星莲船）-2.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ae\ns6%3A%E7%9C%9F%E7%9B%B8%E4%B8%8D%E6%98%8E%E3%80%8C%E6%84%A4%E6%80%92%E7%9A%84%E7%BA%A2%E8%89%B2UFO%E8%A2%AD%E6%9D%A5%E3%80%8D%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%EF%BC%89-2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ae\ns6%3A%E7%9C%9F%E7%9B%B8%E4%B8%8D%E6%98%8E%E3%80%8C%E6%84%A4%E6%80%92%E7%9A%84%E7%BA%A2%E8%89%B2UFO%E8%A2%AD%E6%9D%A5%E3%80%8D%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%EF%BC%89-2%2Ejpg.html -->
 
 东方星莲船 | 封兽鵺 | 敌机符卡
-
-
-
-
 
 
 ---

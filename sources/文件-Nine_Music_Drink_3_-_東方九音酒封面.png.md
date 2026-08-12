@@ -1,6 +1,6 @@
 # 文件:Nine_Music_Drink_3_-_東方九音酒封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\43\ns6%3ANine_Music_Drink_3_-_%E6%9D%B1%E6%96%B9%E4%B9%9D%E9%9F%B3%E9%85%92%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\43\ns6%3ANine_Music_Drink_3_-_%E6%9D%B1%E6%96%B9%E4%B9%9D%E9%9F%B3%E9%85%92%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Nine_Connect | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ Nine_Connect | 专辑封面 | 封面图片
   
 
 - [Nine Music Drink 3 - 東方九音酒](./Nine_Music_Drink_3_-_東方九音酒.md)
-
-
-
 
 
 ---

@@ -1,16 +1,11 @@
 # 文件:CielArcbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1d\ns6%3ACielArcbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1d\ns6%3ACielArcbanner%2Epng.html -->
 
 CielArc | 社团LOGO
 
   
-源地址：[[1]](http://cielarc.konjiki.jp/img/logo_b.png)
-  
-
-
-
-
+源地址：[\[1\]](http://cielarc.konjiki.jp/img/logo_b.png)  
 
 ---
 

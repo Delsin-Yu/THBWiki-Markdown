@@ -1,6 +1,6 @@
 # 文件:［Ele(Pi］ano)_Session封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f6\ns6%3A%EF%BC%BBEle%28Pi%EF%BC%BDano%29_Session%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f6\ns6%3A%EF%BC%BBEle%28Pi%EF%BC%BDano%29_Session%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 As／Hi_Soundworks | Unity-Gain | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ As／Hi_Soundworks | Unity-Gain | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [［Ele(Pi］ano) Session](./［Ele(Pi］ano)_Session.md)  
-该封面包含的角色：- [蓬莱山辉夜](./蓬莱山辉夜.md)
+- [［Ele(Pi］ano) Session](./［Ele(Pi］ano%29_Session.md)该封面包含的角色：
+- [蓬莱山辉夜](./蓬莱山辉夜.md)
 
   
-源地址：[[1]](https://secure.static.tumblr.com/99adeb0836170053a92679e77ab37ad3/0ahxako/Jveoi0vk4/tumblr_static_1fq6r9h0ppogw4w04kkokgcgg.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://secure.static.tumblr.com/99adeb0836170053a92679e77ab37ad3/0ahxako/Jveoi0vk4/tumblr_static_1fq6r9h0ppogw4w04kkokgcgg.jpg)  
 
 ---
 

@@ -1,12 +1,8 @@
 # 文件:新帝梅（N站视频）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d4\ns6%3A%E6%96%B0%E5%B8%9D%E6%A2%85%EF%BC%88N%E7%AB%99%E8%A7%86%E9%A2%91%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d4\ns6%3A%E6%96%B0%E5%B8%9D%E6%A2%85%EF%BC%88N%E7%AB%99%E8%A7%86%E9%A2%91%EF%BC%89%2Ejpg.html -->
 
 新帝梅 | 東方宝天京制作委员会
-
-
-
-
 
 
 ---

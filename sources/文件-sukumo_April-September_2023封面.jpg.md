@@ -1,6 +1,6 @@
 # 文件:sukumo_April-September_2023封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fe\ns6%3Asukumo_April-September_2023%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fe\ns6%3Asukumo_April-September_2023%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 更紗灯団
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [sukumo April-September 2023](./sukumo_April-September_2023.md)  
-该封面包含的角色：- [八云蓝](./八云蓝.md)
-
-
-
+- [sukumo April-September 2023](./sukumo_April-September_2023.md)该封面包含的角色：
+- [八云蓝](./八云蓝.md)
 
 
 ---

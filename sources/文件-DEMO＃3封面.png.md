@@ -1,6 +1,6 @@
 # 文件:DEMO＃3封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f5\ns6%3ADEMO%EF%BC%833%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f5\ns6%3ADEMO%EF%BC%833%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Aqua_Blend_Server | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ Aqua_Blend_Server | 专辑封面 | 封面图片
   
 
 - [DEMO＃3](./DEMO＃3.md)
-
-
-
 
 
 ---

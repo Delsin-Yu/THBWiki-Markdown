@@ -1,6 +1,6 @@
 # 文件:LASCAUX_V_another_entrance封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1c\ns6%3ALASCAUX_V_another_entrance%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1c\ns6%3ALASCAUX_V_another_entrance%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 ごんばこんなか | 专辑封面 | 封面图片
 
@@ -10,17 +10,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [LASCAUX V another entrance](./LASCAUX_V_another_entrance.md)  
-该封面包含的角色：- [古明地觉](./古明地觉.md)
+- [LASCAUX V another entrance](./LASCAUX_V_another_entrance.md)该封面包含的角色：
+- [古明地觉](./古明地觉.md)
 
   
-源地址：[BOOTH](https://booth.pm/zh-cn/items/1900199)
-[官网](http://www.eonet.ne.jp/~torash/LASCAUX5_another.html)封面图上的古明地觉是灰的，不知道是压图压坏了还是故意为之。
+源地址：[BOOTH](https://booth.pm/zh-cn/items/1900199)[官网](http://www.eonet.ne.jp/~torash/LASCAUX5_another.html)封面图上的古明地觉是灰的，不知道是压图压坏了还是故意为之。
   
-
-
-
-
 
 ---
 

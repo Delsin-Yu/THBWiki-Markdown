@@ -1,6 +1,6 @@
 # 文件:moonlight_tablet封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\06\ns6%3Amoonlight_tablet%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\06\ns6%3Amoonlight_tablet%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 歌恋人
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [moonlight tablet](./moonlight_tablet.md)  
-该封面包含的角色：- [八意永琳](./八意永琳.md)
+- [moonlight tablet](./moonlight_tablet.md)该封面包含的角色：
+- [八意永琳](./八意永琳.md)
 
   
-源地址：[[1]](https://i1.sndcdn.com/artworks-000189422651-3mhiva-t500x500.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://i1.sndcdn.com/artworks-000189422651-3mhiva-t500x500.jpg)  
 
 ---
 

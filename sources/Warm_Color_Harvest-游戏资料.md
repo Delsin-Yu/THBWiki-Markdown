@@ -1,6 +1,6 @@
 # Warm_Color_Harvest/游戏资料
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\c\c3\ns0%3AWarm_Color_Harvest%2F%E6%B8%B8%E6%88%8F%E8%B5%84%E6%96%99.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\c\c3\ns0%3AWarm_Color_Harvest%2F%E6%B8%B8%E6%88%8F%E8%B5%84%E6%96%99.html -->
 
 秋穰子 | 符卡
 
@@ -17,17 +17,11 @@
 </td></tr></tbody></table>
 
 
-
 ## 东方文花帖DS
 
 <table>
 <tbody><tr><td style="min-width:200px" colspan="4" align="center"><b>实符「Warm Color Harvest」</b></td></tr><tr><td style="min-width:100px" colspan="2" align="center"><b>符卡使用者</b></td><td style="min-width:250px" colspan="2" align="center"><a href="./秋穰子.md" title="秋穰子">秋穰子</a></td></tr><tr><td style="min-width:100px" colspan="2" align="center"><b>符卡血量</b></td><td style="min-width:250px" colspan="2" align="center">3张</td></tr><tr><td style="min-width:100px" colspan="2" align="center"><b>符卡时间</b></td><td style="min-width:250px" colspan="2" align="center">100s</td></tr><tr><td style="min-width:100px" colspan="2" align="center"><b>弹幕类型</b></td><td style="min-width:250px" colspan="2" align="center">3波红小玉都是自机依存弹，必定有一股是自机狙。</td></tr><tr><td style="min-width:100px" colspan="2" align="center"><b>应对建议</b></td><td style="min-width:250px" colspan="2" align="center">射命丸文晃过之后连同激光给予摄影即可<br>姬海棠果积极的往前冲吧,不要被红弹事故了</td></tr><tr><td style="min-width:100px" colspan="2" align="center"><b>补充说明</b></td><td style="min-width:250px" colspan="2" align="center">及格分为20000</td></tr>
 </tbody></table>
-
-
-
-
-
 
 
 ---

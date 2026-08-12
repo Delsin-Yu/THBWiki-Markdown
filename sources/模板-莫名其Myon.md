@@ -1,16 +1,12 @@
 # 模板:莫名其Myon
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\8\86\ns10%3A%E8%8E%AB%E5%90%8D%E5%85%B6Myon.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\8\86\ns10%3A%E8%8E%AB%E5%90%8D%E5%85%B6Myon.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

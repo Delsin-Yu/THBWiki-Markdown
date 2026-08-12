@@ -1,6 +1,6 @@
 # 文件:FoundLoudness_-_EP封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\57\ns6%3AFoundLoudness_-_EP%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\57\ns6%3AFoundLoudness_-_EP%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 RoundLoudness | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ RoundLoudness | 专辑封面 | 封面图片
   
 
 - [FoundLoudness - EP](./FoundLoudness_-_EP.md)
-
-
-
 
 
 ---

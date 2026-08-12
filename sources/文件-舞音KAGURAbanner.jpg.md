@@ -1,16 +1,11 @@
 # 文件:舞音KAGURAbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9c\ns6%3A%E8%88%9E%E9%9F%B3KAGURAbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9c\ns6%3A%E8%88%9E%E9%9F%B3KAGURAbanner%2Ejpg.html -->
 
 社团LOGO | 舞音KAGURA
 
   
-源地址：[[1]](https://pbs.twimg.com/profile_banners/2220915265/1475564804/1500x500)
-  
-
-
-
-
+源地址：[\[1\]](https://pbs.twimg.com/profile_banners/2220915265/1475564804/1500x500)  
 
 ---
 

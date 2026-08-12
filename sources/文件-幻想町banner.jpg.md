@@ -1,18 +1,13 @@
 # 文件:幻想町banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3e\ns6%3A%E5%B9%BB%E6%83%B3%E7%94%BAbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3e\ns6%3A%E5%B9%BB%E6%83%B3%E7%94%BAbanner%2Ejpg.html -->
 
 幻想町 | 社团LOGO
 
 
 ## 摘要
   
-源地址：[direct image link (original size)](http://blog.cnobi.jp/v1/blog/user/0c16402d7fad8f807e582629cc931eaf/1220666722), [source page](https://web.archive.org/web/20151105025937/http://gensouchou.blog.shinobi.jp/)
-  
-
-
-
-
+源地址：[direct image link (original size)](http://blog.cnobi.jp/v1/blog/user/0c16402d7fad8f807e582629cc931eaf/1220666722), [source page](https://web.archive.org/web/20151105025937/http://gensouchou.blog.shinobi.jp/)  
 
 ---
 

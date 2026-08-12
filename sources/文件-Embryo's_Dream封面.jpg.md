@@ -1,6 +1,6 @@
 # 文件:Embryo's_Dream封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ac\ns6%3AEmbryo%27s_Dream%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ac\ns6%3AEmbryo%27s_Dream%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 PURE | 同人志封面 | 封面图片 | 遊閑地
 
@@ -8,16 +8,11 @@ PURE | 同人志封面 | 封面图片 | 遊閑地
 使用了本文件作封面图片的作品：
   
 
-- [Embryo's Dream](./Embryo's_Dream.md)  
-该封面包含的角色：- [古明地觉](./古明地觉.md)
+- [Embryo's Dream](./Embryo's_Dream.md)该封面包含的角色：
+- [古明地觉](./古明地觉.md)
 
   
-源地址：[[1]](https://www.suruga-ya.jp/database/pics/game/zhore67327.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://www.suruga-ya.jp/database/pics/game/zhore67327.jpg)  
 
 ---
 

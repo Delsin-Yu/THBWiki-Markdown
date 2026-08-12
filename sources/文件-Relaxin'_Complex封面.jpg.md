@@ -1,6 +1,6 @@
 # 文件:Relaxin'_Complex封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7d\ns6%3ARelaxin%27_Complex%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7d\ns6%3ARelaxin%27_Complex%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Aqua_Blend_Server | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Aqua_Blend_Server | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Relaxin' Complex](./Relaxin'_Complex.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
+- [Relaxin' Complex](./Relaxin'_Complex.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
   
-源地址：[[1]](http://aquablendserver.mizusasi.net/images/Relaxin&#39; Complex.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://aquablendserver.mizusasi.net/images/Relaxin'%20Complex.jpg)  
 
 ---
 

@@ -1,12 +1,8 @@
 # 文件:月相_banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f7\ns6%3A%E6%9C%88%E7%9B%B8_banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f7\ns6%3A%E6%9C%88%E7%9B%B8_banner%2Epng.html -->
 
 月相 | 社团LOGO
-
-
-
-
 
 
 ---

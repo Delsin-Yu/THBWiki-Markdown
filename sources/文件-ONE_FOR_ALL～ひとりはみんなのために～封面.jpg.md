@@ -1,6 +1,6 @@
 # 文件:ONE_FOR_ALL～ひとりはみんなのために～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b5\ns6%3AONE_FOR_ALL%EF%BD%9E%E3%81%B2%E3%81%A8%E3%82%8A%E3%81%AF%E3%81%BF%E3%82%93%E3%81%AA%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AB%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b5\ns6%3AONE_FOR_ALL%EF%BD%9E%E3%81%B2%E3%81%A8%E3%82%8A%E3%81%AF%E3%81%BF%E3%82%93%E3%81%AA%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AB%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 えび★ぴらふ | 同人志封面 | 封面图片
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [ONE FOR ALL～ひとりはみんなのために～](./ONE_FOR_ALL～ひとりはみんなのために～.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- 原创角色 (未找到链接)
-
-
-
+- [ONE FOR ALL～ひとりはみんなのために～](./ONE_FOR_ALL～ひとりはみんなのために～.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- 原创角色 (未找到链接)
 
 
 ---

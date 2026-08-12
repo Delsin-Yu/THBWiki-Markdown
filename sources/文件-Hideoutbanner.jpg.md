@@ -1,14 +1,11 @@
 # 文件:Hideoutbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\be\ns6%3AHideoutbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\be\ns6%3AHideoutbanner%2Ejpg.html -->
 
 Hideout | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

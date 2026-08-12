@@ -1,6 +1,6 @@
 # 文件:Fiesta_de_la_Luna_～月兎の望郷封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4d\ns6%3AFiesta_de_la_Luna_%EF%BD%9E%E6%9C%88%E5%85%8E%E3%81%AE%E6%9C%9B%E9%83%B7%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4d\ns6%3AFiesta_de_la_Luna_%EF%BD%9E%E6%9C%88%E5%85%8E%E3%81%AE%E6%9C%9B%E9%83%B7%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 tsundeRECords | ジャージと愉快な仲間たち | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ tsundeRECords | ジャージと愉快な仲間たち | 专辑封面 | 封面图�
 使用了本文件作封面图片的作品：
   
 
-- [Fiesta de la Luna ～月兎の望郷](./Fiesta_de_la_Luna_～月兎の望郷.md)  
-该封面包含的角色：- [因幡帝](./因幡帝.md)- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
-
-
-
+- [Fiesta de la Luna ～月兎の望郷](./Fiesta_de_la_Luna_～月兎の望郷.md)该封面包含的角色：
+- [因幡帝](./因幡帝.md)
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Last_Voice封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\83\ns6%3ALast_Voice%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\83\ns6%3ALast_Voice%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ⑨ウリバタケ | 专辑封面 | 封面图片
 
@@ -8,12 +8,13 @@
 使用了本文件作封面图片的作品：
   
 
-- [Last Voice](./Last_Voice.md)  
-该封面包含的角色：- [魅魔](./魅魔.md)- [矜羯罗](./矜羯罗.md)- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [八意永琳](./八意永琳.md)- [八坂神奈子](./八坂神奈子.md)源地址：[[1]](https://web.archive.org/web/20100621125601im_/http://www.9uri.com/lastjake.jpg)
-
-
-
-
+- [Last Voice](./Last_Voice.md)该封面包含的角色：
+- [魅魔](./魅魔.md)
+- [矜羯罗](./矜羯罗.md)
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [八意永琳](./八意永琳.md)
+- [八坂神奈子](./八坂神奈子.md)
+源地址：[\[1\]](https://web.archive.org/web/20100621125601im_/http://www.9uri.com/lastjake.jpg)
 
 ---
 

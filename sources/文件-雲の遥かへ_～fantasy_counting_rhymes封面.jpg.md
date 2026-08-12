@@ -1,6 +1,6 @@
 # 文件:雲の遥かへ_～fantasy_counting_rhymes封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e9\ns6%3A%E9%9B%B2%E3%81%AE%E9%81%A5%E3%81%8B%E3%81%B8_%EF%BD%9Efantasy_counting_rhymes%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e9\ns6%3A%E9%9B%B2%E3%81%AE%E9%81%A5%E3%81%8B%E3%81%B8_%EF%BD%9Efantasy_counting_rhymes%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Golden_City_Factory | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Golden_City_Factory | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [雲の遥かへ ～fantasy counting rhymes](./雲の遥かへ_～fantasy_counting_rhymes.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [雲の遥かへ ～fantasy counting rhymes](./雲の遥かへ_～fantasy_counting_rhymes.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

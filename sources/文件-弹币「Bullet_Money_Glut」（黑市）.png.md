@@ -1,14 +1,11 @@
 # 文件:弹币「Bullet_Money_Glut」（黑市）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a4\ns6%3A%E5%BC%B9%E5%B8%81%E3%80%8CBullet_Money_Glut%E3%80%8D%EF%BC%88%E9%BB%91%E5%B8%82%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a4\ns6%3A%E5%BC%B9%E5%B8%81%E3%80%8CBullet_Money_Glut%E3%80%8D%EF%BC%88%E9%BB%91%E5%B8%82%EF%BC%89%2Epng.html -->
 
 山城高岭 | 弹幕狂们的黑市 | 敌机符卡
 
 
 ## 摘要
-
-
-
 
 ---
 

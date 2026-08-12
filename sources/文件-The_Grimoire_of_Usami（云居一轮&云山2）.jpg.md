@@ -1,14 +1,11 @@
 # 文件:The_Grimoire_of_Usami（云居一轮&云山2）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3d\ns6%3AThe_Grimoire_of_Usami%EF%BC%88%E4%BA%91%E5%B1%85%E4%B8%80%E8%BD%AE%26%E4%BA%91%E5%B1%B12%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3d\ns6%3AThe_Grimoire_of_Usami%EF%BC%88%E4%BA%91%E5%B1%85%E4%B8%80%E8%BD%AE%26%E4%BA%91%E5%B1%B12%EF%BC%89%2Ejpg.html -->
 
 云居一轮 | 云山 | 宇佐见的魔法书
 
 
 ## 摘要
-
-
-
 
 ---
 

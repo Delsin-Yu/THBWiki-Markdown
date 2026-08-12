@@ -1,6 +1,6 @@
 # 文件:New_Age_Swager封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d9\ns6%3ANew_Age_Swager%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d9\ns6%3ANew_Age_Swager%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Mods_Crisis_∞ | Register6 | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ Mods_Crisis_∞ | Register6 | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [New Age Swager](./New_Age_Swager.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
-
-
-
+- [New Age Swager](./New_Age_Swager.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
 
 
 ---

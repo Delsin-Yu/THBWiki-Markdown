@@ -1,6 +1,6 @@
 # 文件:JEALOUSY（Redial_Arts）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ea\ns6%3AJEALOUSY%EF%BC%88Redial_Arts%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ea\ns6%3AJEALOUSY%EF%BC%88Redial_Arts%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Redial_Arts | 专辑封面 | 封面图片
 
@@ -9,11 +9,8 @@ JEALOUSY
 使用了本文件作封面图片的作品：
   
 
-- [JEALOUSY（Redial Arts）](./JEALOUSY（Redial_Arts）.md)  
-该封面包含的角色：- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [JEALOUSY（Redial Arts）](./JEALOUSY（Redial_Arts）.md)该封面包含的角色：
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

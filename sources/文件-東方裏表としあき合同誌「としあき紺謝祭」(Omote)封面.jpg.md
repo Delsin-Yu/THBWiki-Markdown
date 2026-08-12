@@ -1,6 +1,6 @@
 # 文件:東方裏表としあき合同誌「としあき紺謝祭」(Omote)封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\25\ns6%3A%E6%9D%B1%E6%96%B9%E8%A3%8F%E8%A1%A8%E3%81%A8%E3%81%97%E3%81%82%E3%81%8D%E5%90%88%E5%90%8C%E8%AA%8C%E3%80%8C%E3%81%A8%E3%81%97%E3%81%82%E3%81%8D%E7%B4%BA%E8%AC%9D%E7%A5%AD%E3%80%8D%28Omote%29%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\25\ns6%3A%E6%9D%B1%E6%96%B9%E8%A3%8F%E8%A1%A8%E3%81%A8%E3%81%97%E3%81%82%E3%81%8D%E5%90%88%E5%90%8C%E8%AA%8C%E3%80%8C%E3%81%A8%E3%81%97%E3%81%82%E3%81%8D%E7%B4%BA%E8%AC%9D%E7%A5%AD%E3%80%8D%28Omote%29%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 グラコロちゃん準備会 | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方裏表としあき合同誌「としあき紺謝祭」(Omote)](./東方裏表としあき合同誌「としあき紺謝祭」(Omote).md)  
-该封面包含的角色：- [赫卡提亚·拉碧斯拉祖利](./赫卡提亚·拉碧斯拉祖利.md)
-
-
-
+- [東方裏表としあき合同誌「としあき紺謝祭」(Omote)](./東方裏表としあき合同誌「としあき紺謝祭」(Omote%29.md)该封面包含的角色：
+- [赫卡提亚·拉碧斯拉祖利](./赫卡提亚·拉碧斯拉祖利.md)
 
 
 ---

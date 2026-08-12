@@ -1,13 +1,11 @@
 # Fairies_Dance
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\05\ns0%3AFairies_Dance.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\05\ns0%3AFairies_Dance.html -->
 
 2019年5月5日 由 くらっしゅハウス 于 博丽神社例大祭16 发布的漫画/总集同人志，B5尺寸一共70页，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人志 (未找到链接)** 的词条
-<center>
-
+**[二次创作同人志](./二次创作.md#同人志)**的词条<center>
 <table>
 <tbody><tr>
 <td class="mbox-image"><div style="width: 52px;">
@@ -16,30 +14,24 @@
 </tr>
 </tbody></table>
 
-
 </center>
-
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Fairies_Dance封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/8/87/Fairies_Dance%E5%B0%81%E9%9D%A2.jpg/139px-Fairies_Dance%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="139" height="196" srcset="https://upload.thwiki.cc/thumb/8/87/Fairies_Dance%E5%B0%81%E9%9D%A2.jpg/208px-Fairies_Dance%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/8/87/Fairies_Dance%E5%B0%81%E9%9D%A2.jpg/277px-Fairies_Dance%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="716" data-file-height="1012"></a><div class="cover-char">角色：<a href="./克劳恩皮丝.md" title="克劳恩皮丝">克劳恩皮丝</a></div></td>
 </tr><tr><td class="label">名称</td><td colspan="2"> Fairies Dance </td></tr><tr><td class="label">制作方</td><td><a href="./くらっしゅハウス.md" title="くらっしゅハウス">くらっしゅハウス</a></td><td class="cover-artwork" rowspan="7" style="min-width:196px;"><a href="./文件-Fairies_Dance封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/8/87/Fairies_Dance%E5%B0%81%E9%9D%A2.jpg/139px-Fairies_Dance%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="139" height="196" srcset="https://upload.thwiki.cc/thumb/8/87/Fairies_Dance%E5%B0%81%E9%9D%A2.jpg/208px-Fairies_Dance%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/8/87/Fairies_Dance%E5%B0%81%E9%9D%A2.jpg/277px-Fairies_Dance%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="716" data-file-height="1012"></a><div class="cover-char">角色：<a href="./克劳恩皮丝.md" title="克劳恩皮丝">克劳恩皮丝</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2019-05-05&#160;（<a href="/展会作品列表?e=%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD%2316">第十六回 博麗神社例大祭</a>）</td></tr><tr><td class="label">类型</td><td>漫画，总集</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>B5</td></tr><tr><td class="label">页数</td><td>70P</td></tr><tr><td class="label">售价</td><td>会场售价：1000日元<br>通贩售价：1235日元</td></tr>
+</tr><tr><td class="label">首发日期</td><td>2019-05-05 （<a href="./展会作品列表.md#16">第十六回 博麗神社例大祭</a>）</td></tr><tr><td class="label">类型</td><td>漫画，总集</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>B5</td></tr><tr><td class="label">页数</td><td>70P</td></tr><tr><td class="label">售价</td><td>会场售价：1000日元<br>通贩售价：1235日元</td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/hirasaka8/status/1124209376326078464">https://twitter.com/hirasaka8/status/1124209376326078464</a></td></tr></tbody></table>
 
 Fairies Dance（同人志，くらっしゅハウス，2019） - 2019年5月5日 由 くらっしゅハウス 于 博丽神社例大祭16 发布的漫画/总集同人志，B5尺寸一共70页，分级为 一般向
-
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=508500">蜜瓜</a>，<a rel="nofollow" class="external text" href="https://ec.toranoana.jp/tora_r/ec/item/040030730303">虎穴</a></td></tr></tbody></table>
 
 
-
 ## Staff
+
 - [比良坂真琴](./比良坂真琴.md)
 
 
 ## 评论
-
-
-
 
 ---
 

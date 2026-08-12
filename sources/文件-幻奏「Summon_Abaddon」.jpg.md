@@ -1,12 +1,8 @@
 # 文件:幻奏「Summon_Abaddon」.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f4\ns6%3A%E5%B9%BB%E5%A5%8F%E3%80%8CSummon_Abaddon%E3%80%8D%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f4\ns6%3A%E5%B9%BB%E5%A5%8F%E3%80%8CSummon_Abaddon%E3%80%8D%2Ejpg.html -->
 
 東方邪星章製作チーム
-
-
-
-
 
 
 ---

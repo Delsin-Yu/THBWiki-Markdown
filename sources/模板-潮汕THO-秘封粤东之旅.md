@@ -1,16 +1,12 @@
 # 模板:潮汕THO-秘封粤东之旅
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\1\11\ns10%3A%E6%BD%AE%E6%B1%95THO-%E7%A7%98%E5%B0%81%E7%B2%A4%E4%B8%9C%E4%B9%8B%E6%97%85.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\1\11\ns10%3A%E6%BD%AE%E6%B1%95THO-%E7%A7%98%E5%B0%81%E7%B2%A4%E4%B8%9C%E4%B9%8B%E6%97%85.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

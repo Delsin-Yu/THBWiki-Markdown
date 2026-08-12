@@ -1,12 +1,8 @@
 # 文件:Art_of_Heartbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\38\ns6%3AArt_of_Heartbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\38\ns6%3AArt_of_Heartbanner%2Epng.html -->
 
 Art_of_Heart | 社团LOGO
-
-
-
-
 
 
 ---

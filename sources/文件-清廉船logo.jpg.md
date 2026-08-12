@@ -1,18 +1,13 @@
 # 文件:清廉船logo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\60\ns6%3A%E6%B8%85%E5%BB%89%E8%88%B9logo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\60\ns6%3A%E6%B8%85%E5%BB%89%E8%88%B9logo%2Ejpg.html -->
 
 清廉船 | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[南無三's NicoNico avatar](https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/3031/30316165.jpg)
-  
-
-
-
-
+源地址：[南無三's NicoNico avatar](https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/3031/30316165.jpg)  
 
 ---
 

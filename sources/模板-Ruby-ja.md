@@ -1,10 +1,6 @@
 # 模板:Ruby-ja
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\a\a1\ns10%3ARuby-ja.html -->
-
-
-
-
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\a\a1\ns10%3ARuby-ja.html -->
 
 
 

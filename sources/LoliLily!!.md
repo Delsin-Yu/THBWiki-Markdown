@@ -1,30 +1,31 @@
 # LoliLily!!
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\f7\ns0%3ALoliLily%21%21.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\f7\ns0%3ALoliLily%21%21.html -->
 
 2023年10月15日 由 夢見里 于 东方红楼梦19 发布的漫画同人志，B5尺寸一共16页，登场人物有 莉莉霍瓦特、琪露诺、大妖精，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人志 (未找到链接)** 的词条
-
+**[二次创作同人志](./二次创作.md#同人志)**的词条
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-LoliLily!!封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/1/19/LoliLily%21%21%E5%B0%81%E9%9D%A2.jpg/159px-LoliLily%21%21%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="159" height="224" srcset="https://upload.thwiki.cc/thumb/1/19/LoliLily%21%21%E5%B0%81%E9%9D%A2.jpg/238px-LoliLily%21%21%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/1/19/LoliLily%21%21%E5%B0%81%E9%9D%A2.jpg/317px-LoliLily%21%21%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="850" data-file-height="1200"></a><div class="cover-char">角色：<a href="./莉莉霍瓦特.md" title="莉莉霍瓦特">莉莉霍瓦特</a></div></td>
 </tr><tr><td class="label">名称</td><td colspan="2"> LoliLily!! </td></tr><tr><td class="label">制作方</td><td><a href="./夢見里.md" title="夢見里">夢見里</a></td><td class="cover-artwork" rowspan="8" style="min-width:224px;"><a href="./文件-LoliLily!!封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/1/19/LoliLily%21%21%E5%B0%81%E9%9D%A2.jpg/159px-LoliLily%21%21%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="159" height="224" srcset="https://upload.thwiki.cc/thumb/1/19/LoliLily%21%21%E5%B0%81%E9%9D%A2.jpg/238px-LoliLily%21%21%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/1/19/LoliLily%21%21%E5%B0%81%E9%9D%A2.jpg/317px-LoliLily%21%21%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="850" data-file-height="1200"></a><div class="cover-char">角色：<a href="./莉莉霍瓦特.md" title="莉莉霍瓦特">莉莉霍瓦特</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2023-10-15&#160;（<a href="/展会作品列表?e=%E4%B8%9C%E6%96%B9%E7%BA%A2%E6%A5%BC%E6%A2%A6%2319">東方紅楼夢19</a>）</td></tr><tr><td class="label">类型</td><td>漫画</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>B5</td></tr><tr><td class="label">页数</td><td>16P</td></tr><tr><td class="label">登场人物</td><td><a href="./莉莉霍瓦特.md" title="莉莉霍瓦特">莉莉霍瓦特</a>，<a href="./琪露诺.md" title="琪露诺">琪露诺</a>，<a href="./大妖精.md" title="大妖精">大妖精</a></td></tr><tr><td class="label">售价</td><td>会场售价：300日元<br>通贩售价：427日元</td></tr>
+</tr><tr><td class="label">首发日期</td><td>2023-10-15 （<a href="./展会作品列表.md#19">東方紅楼夢19</a>）</td></tr><tr><td class="label">类型</td><td>漫画</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>B5</td></tr><tr><td class="label">页数</td><td>16P</td></tr><tr><td class="label">登场人物</td><td><a href="./莉莉霍瓦特.md" title="莉莉霍瓦特">莉莉霍瓦特</a>，<a href="./琪露诺.md" title="琪露诺">琪露诺</a>，<a href="./大妖精.md" title="大妖精">大妖精</a></td></tr><tr><td class="label">售价</td><td>会场售价：300日元<br>通贩售价：427日元</td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/bakuPA/status/1712970379147551054">https://twitter.com/bakuPA/status/1712970379147551054</a></td></tr></tbody></table>
 
 LoliLily!!（同人志，夢見里，2023） - 2023年10月15日 由 夢見里 于 东方红楼梦19 发布的漫画同人志，B5尺寸一共16页，登场人物有 莉莉霍瓦特、琪露诺、大妖精，分级为 一般向
-
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=2120077">蜜瓜</a></td></tr></tbody></table>
 
 
-
 ## 预览
-- [](./文件-LoliLily!!预览图1.jpg.md)- [](./文件-LoliLily!!预览图2.jpg.md)- [](./文件-LoliLily!!预览图3.jpg.md)
+
+- <img alt="LoliLily!!预览图1.jpg" src="https://upload.thwiki.cc/thumb/5/58/LoliLily%21%21%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg/265px-LoliLily%21%21%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg" decoding="async" loading="lazy" width="177" height="250" srcset="https://upload.thwiki.cc/thumb/5/58/LoliLily%21%21%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg/399px-LoliLily%21%21%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg 1.5x, https://upload.thwiki.cc/thumb/5/58/LoliLily%21%21%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg/531px-LoliLily%21%21%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg 2x" data-file-width="850" data-file-height="1200"> 
+- <img alt="LoliLily!!预览图2.jpg" src="https://upload.thwiki.cc/thumb/e/ee/LoliLily%21%21%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg/265px-LoliLily%21%21%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg" decoding="async" loading="lazy" width="177" height="250" srcset="https://upload.thwiki.cc/thumb/e/ee/LoliLily%21%21%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg/399px-LoliLily%21%21%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg 1.5x, https://upload.thwiki.cc/thumb/e/ee/LoliLily%21%21%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg/531px-LoliLily%21%21%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg 2x" data-file-width="850" data-file-height="1200"> 
+- <img alt="LoliLily!!预览图3.jpg" src="https://upload.thwiki.cc/thumb/a/a3/LoliLily%21%21%E9%A2%84%E8%A7%88%E5%9B%BE3.jpg/265px-LoliLily%21%21%E9%A2%84%E8%A7%88%E5%9B%BE3.jpg" decoding="async" loading="lazy" width="177" height="250" srcset="https://upload.thwiki.cc/thumb/a/a3/LoliLily%21%21%E9%A2%84%E8%A7%88%E5%9B%BE3.jpg/399px-LoliLily%21%21%E9%A2%84%E8%A7%88%E5%9B%BE3.jpg 1.5x, https://upload.thwiki.cc/thumb/a/a3/LoliLily%21%21%E9%A2%84%E8%A7%88%E5%9B%BE3.jpg/531px-LoliLily%21%21%E9%A2%84%E8%A7%88%E5%9B%BE3.jpg 2x" data-file-width="850" data-file-height="1200"> 
 
 
 ## Staff
+
 - [ばくP](./ばくP.md)
 
 
@@ -32,14 +33,6 @@ LoliLily!!（同人志，夢見里，2023） - 2023年10月15日 由 夢見里 �
   
 リリーホワイトが小さくなる短編漫画です。
   
-  
-  
-
-  
-
-
-
-
 
 ---
 

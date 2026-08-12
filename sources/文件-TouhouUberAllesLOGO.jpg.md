@@ -1,16 +1,12 @@
 # 文件:TouhouUberAllesLOGO.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\da\ns6%3ATouhouUberAllesLOGO%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\da\ns6%3ATouhouUberAllesLOGO%2Ejpg.html -->
 
 TouhouUberAlles | 社团LOGO
 
   
 社团主催上传的社徽
   
-
-
-
-
 
 ---
 

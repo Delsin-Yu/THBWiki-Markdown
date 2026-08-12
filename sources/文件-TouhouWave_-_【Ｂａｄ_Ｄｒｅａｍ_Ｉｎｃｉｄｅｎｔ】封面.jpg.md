@@ -1,6 +1,6 @@
 # 文件:TouhouWave_-_【Ｂａｄ_Ｄｒｅａｍ_Ｉｎｃｉｄｅｎｔ】封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a1\ns6%3ATouhouWave_-_%E3%80%90%EF%BC%A2%EF%BD%81%EF%BD%84_%EF%BC%A4%EF%BD%92%EF%BD%85%EF%BD%81%EF%BD%8D_%EF%BC%A9%EF%BD%8E%EF%BD%83%EF%BD%89%EF%BD%84%EF%BD%85%EF%BD%8E%EF%BD%94%E3%80%91%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a1\ns6%3ATouhouWave_-_%E3%80%90%EF%BC%A2%EF%BD%81%EF%BD%84_%EF%BC%A4%EF%BD%92%EF%BD%85%EF%BD%81%EF%BD%8D_%EF%BC%A9%EF%BD%8E%EF%BD%83%EF%BD%89%EF%BD%84%EF%BD%85%EF%BD%8E%EF%BD%94%E3%80%91%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Stas_Gavrik | 专辑封面 | 封面图片
 
@@ -8,16 +8,12 @@ Stas_Gavrik | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [TouhouWave - 【Ｂａｄ Ｄｒｅａｍ Ｉｎｃｉｄｅｎｔ】](./TouhouWave_-_【Ｂａｄ_Ｄｒｅａｍ_Ｉｎｃｉｄｅｎｔ】.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [雾雨魔理沙](./雾雨魔理沙.md)
+- [TouhouWave - 【Ｂａｄ Ｄｒｅａｍ Ｉｎｃｉｄｅｎｔ】](./TouhouWave_-_【Ｂａｄ_Ｄｒｅａｍ_Ｉｎｃｉｄｅｎｔ】.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-源地址：[[1]](https://f4.bcbits.com/img/a0253406967_10.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://f4.bcbits.com/img/a0253406967_10.jpg)  
 
 ---
 

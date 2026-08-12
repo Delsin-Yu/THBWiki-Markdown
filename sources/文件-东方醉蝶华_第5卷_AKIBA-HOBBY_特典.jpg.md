@@ -1,18 +1,13 @@
 # 文件:东方醉蝶华_第5卷_AKIBA-HOBBY_特典.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\56\ns6%3A%E4%B8%9C%E6%96%B9%E9%86%89%E8%9D%B6%E5%8D%8E_%E7%AC%AC5%E5%8D%B7_AKIBA-HOBBY_%E7%89%B9%E5%85%B8%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\56\ns6%3A%E4%B8%9C%E6%96%B9%E9%86%89%E8%9D%B6%E5%8D%8E_%E7%AC%AC5%E5%8D%B7_AKIBA-HOBBY_%E7%89%B9%E5%85%B8%2Ejpg.html -->
 
 AKIBA-HOBBY | 东方醉蝶华 | 官方特典
 
 
 ## 摘要
   
-源地址：[AKIBA-HOBBY](https://cdn.shopify.com/s/files/1/0270/2812/7807/products/4580371415260_1.jpg)
-  
-
-
-
-
+源地址：[AKIBA-HOBBY](https://cdn.shopify.com/s/files/1/0270/2812/7807/products/4580371415260_1.jpg)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:東方スク水ウォーズ3rd_impact封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\85\ns6%3A%E6%9D%B1%E6%96%B9%E3%82%B9%E3%82%AF%E6%B0%B4%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BA3rd_impact%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\85\ns6%3A%E6%9D%B1%E6%96%B9%E3%82%B9%E3%82%AF%E6%B0%B4%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BA3rd_impact%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Gallery_Culter | 同人志封面 | 封面图片
 
@@ -8,11 +8,9 @@ Gallery_Culter | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方スク水ウォーズ3rd impact](./東方スク水ウォーズ3rd_impact.md)  
-该封面包含的角色：- [上白泽慧音](./上白泽慧音.md)- [稗田阿求](./稗田阿求.md)
-
-
-
+- [東方スク水ウォーズ3rd impact](./東方スク水ウォーズ3rd_impact.md)该封面包含的角色：
+- [上白泽慧音](./上白泽慧音.md)
+- [稗田阿求](./稗田阿求.md)
 
 
 ---

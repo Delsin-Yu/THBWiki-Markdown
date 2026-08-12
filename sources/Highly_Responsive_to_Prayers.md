@@ -1,40 +1,30 @@
 # Highly_Responsive_to_Prayers
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\c\cb\ns0%3AHighly_Responsive_to_Prayers.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\c\cb\ns0%3AHighly_Responsive_to_Prayers.html -->
 
 由 ZUN 创作的官方曲目，原名 Highly Responsive to Prayers
 
 本页是关于东方Project  
- **原作音乐** 的词条
-
+**原作音乐**的词条
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 出现作品](#出现作品)
 - [3 音乐文件](#音乐文件)
-
   - [3.1 东方灵异传](#东方灵异传)
   - [3.2 东方怪绮谈](#东方怪绮谈)
   - [3.3 幺乐团的历史 vol.5](#幺乐团的历史_vol.5)
 
 
-
 - [4 说明文本](#说明文本)
-
   - [4.1 东方灵异传](#东方灵异传_2)
   - [4.2 东方怪绮谈](#东方怪绮谈_2)
 
 
-
 - [5 其他资料](#其他资料)
-
   - [5.1 乐理资讯](#乐理资讯)
   - [5.2 分析考据](#分析考据)
   - [5.3 二次同人数据](#二次同人数据)
-
-
-
-
 
 
 
@@ -44,7 +34,6 @@
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">Highly Responsive to Prayers</td></tr><tr><td><b>译名</b></td><td>Highly Responsive to Prayers</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 Highly Responsive to Prayers（曲目） - 由 ZUN 创作的官方曲目，原名 Highly Responsive to Prayers
-
 ## 出现作品
 
 <table>
@@ -54,7 +43,6 @@ Highly Responsive to Prayers（曲目） - 由 ZUN 创作的官方曲目，原�
 </tbody></table>
 
 
-
 ## 音乐文件
 
 ### 东方灵异传
@@ -62,23 +50,18 @@ Highly Responsive to Prayers（曲目） - 由 ZUN 创作的官方曲目，原�
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-Highly_Responsive.mp3.md" title="文件:Highly Responsive.mp3">Highly Responsive.mp3</a><br><audio src="https://upload.thwiki.cc/a/a9/Highly_Responsive.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>ST1.MDT</td></tr><tr><td><b>音轨时长</b></td><td>4:13</td></tr></tbody></table>
 
 
-
 ### 东方怪绮谈
   
 YM2203(OPN)，FM26K音源版。
   
 
-
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th05_R_04_1.ogg.md" title="文件:th05 R 04 1.ogg">th05_R_04_1.ogg</a><br><audio src="https://upload.thwiki.cc/3/30/th05_R_04_1.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>R_03.M</td></tr><tr><td><b>音轨时长</b></td><td>1:28.413</td></tr></tbody></table>
-
 
   
 YM2608(OPNA)，FM86音源版。
   
 
-
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th05_R_04_2.ogg.md" title="文件:th05 R 04 2.ogg">th05_R_04_2.ogg</a><br><audio src="https://upload.thwiki.cc/4/45/th05_R_04_2.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>R_03.M2</td></tr><tr><td><b>音轨时长</b></td><td>1:28.413</td></tr></tbody></table>
-
 
 
 ### 幺乐团的历史 vol.5
@@ -86,16 +69,16 @@ YM2608(OPNA)，FM86音源版。
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-ha05_04.mp3.md" title="文件:ha05 04.mp3">ha05_04.mp3</a><br><audio src="https://upload.thwiki.cc/7/7b/ha05_04.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track04.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>3:26</td></tr></tbody></table>
 
 
-
 ## 说明文本
 
 ### 东方灵异传
-- Music Test (未找到链接)
+
+- [Music Test](./东方灵异传-Music.md#魔界6至9面主题曲)
 
 　献给神明之魂　　～Highly Responsive to Prayers     　　　　　　　　　　　　　                                                               Composer  ZUN
-
 ### 东方怪绮谈
-- Music Room (未找到链接)
+
+- [Music Room](./东方怪绮谈-Music.md#魔界6至9面主题曲)
 
 　　　东方灵异传  轻微Arrange版  
 　　　　　魔界６～９面主题曲  
@@ -107,40 +90,45 @@ YM2608(OPNA)，FM86音源版。
 ＺＵＮ（太田）  
 灵异传曲目。  
 特别Arrange版
-
 ## 其他资料
 
 ### 乐理资讯
-- BPM
+
+- BPM 
   - 157.57
+
 
 
 
 ### 分析考据
   
- **Highly Responsive to Prayers** 
-  
+**Highly Responsive to Prayers**  
 对祈愿者的嘉奖
   
 
 - 曲名直译为“对祈祷反应灵敏”，意译为“有求必应”。
 - 曲名也是灵异传的游戏标题。
-- PMD版曲名为「献给神明之魂　～ Highly Responsive to Prayers」。
-- responsive：响应的；应答的；回答的。
-  - 对XX积极回应。
+- PMD版曲名为「献给神明之魂 ～ Highly Responsive to Prayers」。
+- responsive：响应的；应答的；回答的。 
+  - 对XX积极回应。 
     - 奖残？
     - 结局是对努力通关的玩家的馈赠？
 
 
-- prayer：祈祷，祷告；恳求。
+
+
+- prayer：祈祷，祷告；恳求。 
   - 少女祈祷中？
-  - 祈求通关的玩家？
+  - 祈求通关的玩家？ 
     - 此外，「prayer」如果看作「player」的话，就是“要求玩家拥有高度反应能力”。
 
 
-- 神へ捧げる魂（献给神明之魂）
+
+
+- 神へ捧げる魂（献给神明之魂） 
   - （玩家）献给神明（游戏制作者）之魂？
   - （博丽的巫女，灵梦）献给神明（未知）之魂？
+
 
 
 
@@ -156,17 +144,6 @@ YM2608(OPNA)，FM86音源版。
 <tr><td>Arrange</td><td>13</td></tr>
 <tr><td>Vocal率</td><td>31.58%</td></tr>
 </tbody></table>
-
-
-
-
-  
-  
-
-  
-
-
-
 
 
 ---

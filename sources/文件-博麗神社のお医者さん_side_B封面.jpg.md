@@ -1,6 +1,6 @@
 # 文件:博麗神社のお医者さん_side_B封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6e\ns6%3A%E5%8D%9A%E9%BA%97%E7%A5%9E%E7%A4%BE%E3%81%AE%E3%81%8A%E5%8C%BB%E8%80%85%E3%81%95%E3%82%93_side_B%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6e\ns6%3A%E5%8D%9A%E9%BA%97%E7%A5%9E%E7%A4%BE%E3%81%AE%E3%81%8A%E5%8C%BB%E8%80%85%E3%81%95%E3%82%93_side_B%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 さぷり | 同人志封面 | 封面图片
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [博麗神社のお医者さん side B](./博麗神社のお医者さん_side_B.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [博麗神社のお医者さん side B](./博麗神社のお医者さん_side_B.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

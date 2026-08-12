@@ -1,6 +1,6 @@
 # 文件:CYTOKINE_ZYTOKINE_TOUHOU_DOUJIN_ARTWORKS_2016_-_2021封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5d\ns6%3ACYTOKINE_ZYTOKINE_TOUHOU_DOUJIN_ARTWORKS_2016_-_2021%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5d\ns6%3ACYTOKINE_ZYTOKINE_TOUHOU_DOUJIN_ARTWORKS_2016_-_2021%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 CYTOKINE | ZYTOKINE | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@ CYTOKINE | ZYTOKINE | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [CYTOKINE ZYTOKINE TOUHOU DOUJIN ARTWORKS 2016 - 2021](./CYTOKINE_ZYTOKINE_TOUHOU_DOUJIN_ARTWORKS_2016_-_2021.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [CYTOKINE ZYTOKINE TOUHOU DOUJIN ARTWORKS 2016 - 2021](./CYTOKINE_ZYTOKINE_TOUHOU_DOUJIN_ARTWORKS_2016_-_2021.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

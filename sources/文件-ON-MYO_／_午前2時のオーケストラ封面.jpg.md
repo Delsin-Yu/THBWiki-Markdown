@@ -1,6 +1,6 @@
 # 文件:ON-MYO_／_午前2時のオーケストラ封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\53\ns6%3AON-MYO_%EF%BC%8F_%E5%8D%88%E5%89%8D2%E6%99%82%E3%81%AE%E3%82%AA%E3%83%BC%E3%82%B1%E3%82%B9%E3%83%88%E3%83%A9%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\53\ns6%3AON-MYO_%EF%BC%8F_%E5%8D%88%E5%89%8D2%E6%99%82%E3%81%AE%E3%82%AA%E3%83%BC%E3%82%B1%E3%82%B9%E3%83%88%E3%83%A9%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 A-One | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ A-One | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [ON-MYO ／ 午前2時のオーケストラ](./ON-MYO_／_午前2時のオーケストラ.md)  
-该封面包含的角色：- [饭纲丸龙](./饭纲丸龙.md)
-
-
-
+- [ON-MYO ／ 午前2時のオーケストラ](./ON-MYO_／_午前2時のオーケストラ.md)该封面包含的角色：
+- [饭纲丸龙](./饭纲丸龙.md)
 
 
 ---

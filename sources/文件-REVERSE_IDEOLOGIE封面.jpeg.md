@@ -1,6 +1,6 @@
 # 文件:REVERSE_IDEOLOGIE封面.jpeg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ae\ns6%3AREVERSE_IDEOLOGIE%E5%B0%81%E9%9D%A2%2Ejpeg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ae\ns6%3AREVERSE_IDEOLOGIE%E5%B0%81%E9%9D%A2%2Ejpeg.html -->
 
 A-One | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ A-One | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [REVERSE IDEOLOGIE](./REVERSE_IDEOLOGIE.md)  
-该封面包含的角色：- [鬼人正邪](./鬼人正邪.md)- [少名针妙丸](./少名针妙丸.md)
-
-
-
+- [REVERSE IDEOLOGIE](./REVERSE_IDEOLOGIE.md)该封面包含的角色：
+- [鬼人正邪](./鬼人正邪.md)
+- [少名针妙丸](./少名针妙丸.md)
 
 
 ---

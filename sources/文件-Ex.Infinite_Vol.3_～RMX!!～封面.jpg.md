@@ -1,6 +1,6 @@
 # 文件:Ex.Infinite_Vol.3_～RMX!!～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4a\ns6%3AEx%2EInfinite_Vol%2E3_%EF%BD%9ERMX%21%21%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4a\ns6%3AEx%2EInfinite_Vol%2E3_%EF%BD%9ERMX%21%21%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Sound∞Infinity | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ Sound∞Infinity | 专辑封面 | 封面图片
   
 
 - [Ex.Infinite Vol.3 ～RMX!!～](./Ex.Infinite_Vol.3_～RMX!!～.md)
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:東方夢魔境_Half_asleep_and_Half_awake封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f2\ns6%3A%E6%9D%B1%E6%96%B9%E5%A4%A2%E9%AD%94%E5%A2%83_Half_asleep_and_Half_awake%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f2\ns6%3A%E6%9D%B1%E6%96%B9%E5%A4%A2%E9%AD%94%E5%A2%83_Half_asleep_and_Half_awake%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Re：Volte | 专辑封面 | 封面图片
 
@@ -8,11 +8,10 @@ Re：Volte | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方夢魔境 Half asleep and Half awake](./東方夢魔境_Half_asleep_and_Half_awake.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [八云紫](./八云紫.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [東方夢魔境 Half asleep and Half awake](./東方夢魔境_Half_asleep_and_Half_awake.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [八云紫](./八云紫.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

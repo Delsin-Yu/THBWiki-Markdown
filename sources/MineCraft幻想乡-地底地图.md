@@ -1,11 +1,10 @@
 # MineCraft幻想乡/地底地图
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\29\ns0%3AMineCraft%E5%B9%BB%E6%83%B3%E4%B9%A1%2F%E5%9C%B0%E5%BA%95%E5%9C%B0%E5%9B%BE.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\29\ns0%3AMineCraft%E5%B9%BB%E6%83%B3%E4%B9%A1%2F%E5%9C%B0%E5%BA%95%E5%9C%B0%E5%9B%BE.html -->
 
 MineCraft幻想乡 | 待完成页面
 
 <center>
-
 <table>
 <tbody><tr>
 <td class="mbox-image"><div style="width: 52px;">
@@ -14,13 +13,7 @@ MineCraft幻想乡 | 待完成页面
 </tr>
 </tbody></table>
 
-
 </center>
-
-
-
-
-
 ---
 
 此文档由 [THBWiki-Markdown-Builder](https://github.com/Delsin-Yu/THBWiki-Markdown-Builder) 构建。

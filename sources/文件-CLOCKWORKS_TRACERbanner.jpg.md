@@ -1,12 +1,8 @@
 # 文件:CLOCKWORKS_TRACERbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f9\ns6%3ACLOCKWORKS_TRACERbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f9\ns6%3ACLOCKWORKS_TRACERbanner%2Ejpg.html -->
 
 CLOCKWORKS_TRACER | 社团LOGO
-
-
-
-
 
 
 ---

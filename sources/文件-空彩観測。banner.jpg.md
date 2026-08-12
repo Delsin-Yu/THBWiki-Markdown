@@ -1,12 +1,8 @@
 # 文件:空彩観測。banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\52\ns6%3A%E7%A9%BA%E5%BD%A9%E8%A6%B3%E6%B8%AC%E3%80%82banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\52\ns6%3A%E7%A9%BA%E5%BD%A9%E8%A6%B3%E6%B8%AC%E3%80%82banner%2Ejpg.html -->
 
 社团LOGO | 空彩観測。
-
-
-
-
 
 
 ---

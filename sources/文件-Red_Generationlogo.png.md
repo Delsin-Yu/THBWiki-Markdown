@@ -1,18 +1,13 @@
 # 文件:Red_Generationlogo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6e\ns6%3ARed_Generationlogo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6e\ns6%3ARed_Generationlogo%2Epng.html -->
 
 Red_Generation | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[[1]](http://redgeneration.web.fc2.com/img/rogo.png)
-  
-
-
-
-
+源地址：[\[1\]](http://redgeneration.web.fc2.com/img/rogo.png)  
 
 ---
 

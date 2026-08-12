@@ -1,6 +1,6 @@
 # 文件:Oracle_of_Forgotten_Testament封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\01\ns6%3AOracle_of_Forgotten_Testament%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\01\ns6%3AOracle_of_Forgotten_Testament%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Dragon_Emperors | 封面图片 | 软件封面
 
@@ -8,12 +8,10 @@ Dragon_Emperors | 封面图片 | 软件封面
 使用了本文件作封面图片的作品：
   
 
-- [Oracle of Forgotten Testament](./Oracle_of_Forgotten_Testament.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [雾雨魔理沙](./雾雨魔理沙.md)源地址：[[1]](https://steamcdn-a.akamaihd.net/steam/apps/786510/header.jpg?t=1534035515)
-
-
-
-
+- [Oracle of Forgotten Testament](./Oracle_of_Forgotten_Testament.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
+源地址：[\[1\]](https://steamcdn-a.akamaihd.net/steam/apps/786510/header.jpg?t=1534035515)
 
 ---
 

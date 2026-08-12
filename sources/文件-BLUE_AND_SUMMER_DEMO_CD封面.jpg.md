@@ -1,6 +1,6 @@
 # 文件:BLUE_AND_SUMMER_DEMO_CD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4a\ns6%3ABLUE_AND_SUMMER_DEMO_CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4a\ns6%3ABLUE_AND_SUMMER_DEMO_CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 chipion | 专辑封面 | 封面图片
 
@@ -8,11 +8,10 @@ chipion | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [BLUE AND SUMMER DEMO CD](./BLUE_AND_SUMMER_DEMO_CD.md)  
-该封面包含的角色：- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)- [射命丸文](./射命丸文.md)
-
-
-
+- [BLUE AND SUMMER DEMO CD](./BLUE_AND_SUMMER_DEMO_CD.md)该封面包含的角色：
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [射命丸文](./射命丸文.md)
 
 
 ---

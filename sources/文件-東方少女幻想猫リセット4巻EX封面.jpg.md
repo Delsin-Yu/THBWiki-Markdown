@@ -1,6 +1,6 @@
 # 文件:東方少女幻想猫リセット4巻EX封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9f\ns6%3A%E6%9D%B1%E6%96%B9%E5%B0%91%E5%A5%B3%E5%B9%BB%E6%83%B3%E7%8C%AB%E3%83%AA%E3%82%BB%E3%83%83%E3%83%884%E5%B7%BBEX%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9f\ns6%3A%E6%9D%B1%E6%96%B9%E5%B0%91%E5%A5%B3%E5%B9%BB%E6%83%B3%E7%8C%AB%E3%83%AA%E3%82%BB%E3%83%83%E3%83%884%E5%B7%BBEX%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Quarter_Iceshop | 同人志封面 | 封面图片
 
@@ -8,11 +8,8 @@ Quarter_Iceshop | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方少女幻想猫リセット4巻EX](./東方少女幻想猫リセット4巻EX.md)  
-该封面包含的角色：- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
-
-
-
+- [東方少女幻想猫リセット4巻EX](./東方少女幻想猫リセット4巻EX.md)该封面包含的角色：
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
 
 
 ---

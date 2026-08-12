@@ -1,6 +1,6 @@
 # 文件:畜生_Damn_and_Bless封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\35\ns6%3A%E7%95%9C%E7%94%9F_Damn_and_Bless%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\35\ns6%3A%E7%95%9C%E7%94%9F_Damn_and_Bless%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ごんばこんなか | 专辑封面 | 封面图片
 
@@ -10,16 +10,14 @@
 使用了本文件作封面图片的作品：
   
 
-- [畜生 Damn and Bless](./畜生_Damn_and_Bless.md)  
-该封面包含的角色：- [橙](./橙.md)- [米斯蒂娅·萝蕾拉](./米斯蒂娅·萝蕾拉.md)- [若鹭姬](./若鹭姬.md)- [爱塔妮缇拉尔瓦](./爱塔妮缇拉尔瓦.md)
+- [畜生 Damn and Bless](./畜生_Damn_and_Bless.md)该封面包含的角色：
+- [橙](./橙.md)
+- [米斯蒂娅·萝蕾拉](./米斯蒂娅·萝蕾拉.md)
+- [若鹭姬](./若鹭姬.md)
+- [爱塔妮缇拉尔瓦](./爱塔妮缇拉尔瓦.md)
 
   
-源地址：[[1]](http://www.eonet.ne.jp/~torash/rgb_title_jpg_3.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://www.eonet.ne.jp/~torash/rgb_title_jpg_3.jpg)  
 
 ---
 

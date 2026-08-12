@@ -1,45 +1,35 @@
 # YUUSHIN-TOURI_0.5
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\fb\ns0%3AYUUSHIN-TOURI_0%2E5.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\fb\ns0%3AYUUSHIN-TOURI_0%2E5.html -->
 
 2011年8月13日 由 疲労熊 于 Comic Market 80 发布的画集同人志，B5尺寸一共12页，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人志 (未找到链接)** 的词条
-
+**[二次创作同人志](./二次创作.md#同人志)**的词条
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-YUUSHIN-TOURI_0.5封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/a/aa/YUUSHIN-TOURI_0.5%E5%B0%81%E9%9D%A2.jpg/196px-YUUSHIN-TOURI_0.5%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="196" height="136" srcset="https://upload.thwiki.cc/thumb/a/aa/YUUSHIN-TOURI_0.5%E5%B0%81%E9%9D%A2.jpg/294px-YUUSHIN-TOURI_0.5%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/a/aa/YUUSHIN-TOURI_0.5%E5%B0%81%E9%9D%A2.jpg/392px-YUUSHIN-TOURI_0.5%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="746" data-file-height="519"></a><div class="cover-char">角色：<a href="./古明地觉.md" title="古明地觉">古明地觉</a>，<a href="./古明地恋.md" title="古明地恋">古明地恋</a></div></td>
 </tr><tr><td class="label">名称</td><td colspan="2"> YUUSHIN-TOURI 0.5 </td></tr><tr><td class="label">译名</td><td colspan="2"> 遊心☆透理 0.5 </td></tr><tr><td class="label">制作方</td><td><a href="./疲労熊.md" title="疲労熊">疲労熊</a></td><td class="cover-artwork" rowspan="7" style="min-width:196px;"><a href="./文件-YUUSHIN-TOURI_0.5封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/a/aa/YUUSHIN-TOURI_0.5%E5%B0%81%E9%9D%A2.jpg/196px-YUUSHIN-TOURI_0.5%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="196" height="136" srcset="https://upload.thwiki.cc/thumb/a/aa/YUUSHIN-TOURI_0.5%E5%B0%81%E9%9D%A2.jpg/294px-YUUSHIN-TOURI_0.5%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/a/aa/YUUSHIN-TOURI_0.5%E5%B0%81%E9%9D%A2.jpg/392px-YUUSHIN-TOURI_0.5%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="746" data-file-height="519"></a><div class="cover-char">角色：<a href="./古明地觉.md" title="古明地觉">古明地觉</a>，<a href="./古明地恋.md" title="古明地恋">古明地恋</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2011-08-13&#160;（<a href="/展会作品列表?e=Comic+Market%2380">Comic Market 80</a>）</td></tr><tr><td class="label">类型</td><td>画集</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>B5单色</td></tr><tr><td class="label">页数</td><td>12P</td></tr><tr><td class="label">售价</td><td>会场售价：200日元</td></tr>
+</tr><tr><td class="label">首发日期</td><td>2011-08-13 （<a href="./展会作品列表.md#80">Comic Market 80</a>）</td></tr><tr><td class="label">类型</td><td>画集</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>B5单色</td></tr><tr><td class="label">页数</td><td>12P</td></tr><tr><td class="label">售价</td><td>会场售价：200日元</td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://ayamiguma.exblog.jp/16094796/">https://ayamiguma.exblog.jp/16094796/</a><br><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/20964122">https://www.pixiv.net/artworks/20964122</a></td></tr></tbody></table>
 
 YUUSHIN-TOURI 0.5（同人志，疲労熊，2011） - 2011年8月13日 由 疲労熊 于 Comic Market 80 发布的画集同人志，B5尺寸一共12页，分级为 一般向
-
 ## 预览
   
-[Pixiv](https://www.pixiv.net/artworks/20964122)
-  
-
+[Pixiv](https://www.pixiv.net/artworks/20964122)  
 
 ## Staff
+
 - [綾見ちは](./綾見ちは.md)
 
 
 ## 评论
+
 - 作者
 
+
 ```
-東方のモノクロイラスト本。ちょっぴりシュタゲが入ってますｗ
-```
-
-  
-  
-
-  
-
-
-
+東方のモノクロイラスト本。ちょっぴりシュタゲが入ってますｗ ```
 
 
 ---

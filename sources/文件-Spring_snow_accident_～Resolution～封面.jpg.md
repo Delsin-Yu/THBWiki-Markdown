@@ -1,6 +1,6 @@
 # 文件:Spring_snow_accident_～Resolution～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\24\ns6%3ASpring_snow_accident_%EF%BD%9EResolution%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\24\ns6%3ASpring_snow_accident_%EF%BD%9EResolution%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 狐の居る湖
 
@@ -8,16 +8,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [Spring snow accident ～Resolution～](./Spring_snow_accident_～Resolution～.md)  
-该封面包含的角色：- [橙](./橙.md)- [八云蓝](./八云蓝.md)
+- [Spring snow accident ～Resolution～](./Spring_snow_accident_～Resolution～.md)该封面包含的角色：
+- [橙](./橙.md)
+- [八云蓝](./八云蓝.md)
 
   
-源地址：[[1]](https://booth.pm/ja/items/523692)
-  
-
-
-
-
+源地址：[\[1\]](https://booth.pm/ja/items/523692)  
 
 ---
 

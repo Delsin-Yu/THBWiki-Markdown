@@ -1,6 +1,6 @@
 # 文件:Symposia封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\52\ns6%3ASymposia%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\52\ns6%3ASymposia%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 StarGazer_C+ | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ StarGazer_C+ | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Symposia](./Symposia.md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)
-
-
-
+- [Symposia](./Symposia.md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
 
 
 ---

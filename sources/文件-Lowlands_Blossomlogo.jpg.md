@@ -1,16 +1,11 @@
 # 文件:Lowlands_Blossomlogo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7c\ns6%3ALowlands_Blossomlogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7c\ns6%3ALowlands_Blossomlogo%2Ejpg.html -->
 
 Lowlands_Blossom | 社团LOGO
 
   
-源地址：[[1]](https://f4.bcbits.com/img/0008364427_10.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://f4.bcbits.com/img/0008364427_10.jpg)  
 
 ---
 

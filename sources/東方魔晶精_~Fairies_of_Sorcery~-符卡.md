@@ -1,6 +1,6 @@
 # 東方魔晶精_~Fairies_of_Sorcery~/符卡
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\9\9f\ns0%3A%E6%9D%B1%E6%96%B9%E9%AD%94%E6%99%B6%E7%B2%BE_%7EFairies_of_Sorcery%7E%2F%E7%AC%A6%E5%8D%A1.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\9\9f\ns0%3A%E6%9D%B1%E6%96%B9%E9%AD%94%E6%99%B6%E7%B2%BE_%7EFairies_of_Sorcery%7E%2F%E7%AC%A6%E5%8D%A1.html -->
 
 Nono_443
 
@@ -10,8 +10,8 @@ Nono_443
   
 每一个条目包含相关截图、中日文（必要的话会包含英文）、在哪一关出现等。
   
-
-: - [Stage 1 符卡](./東方魔晶精_~Fairies_of_Sorcery~-符卡-Stage_1.md)
+: 
+- [Stage 1 符卡](./東方魔晶精_~Fairies_of_Sorcery~-符卡-Stage_1.md)
 - [Stage 2 符卡](./東方魔晶精_~Fairies_of_Sorcery~-符卡-Stage_2.md)
 - [Stage 3 符卡](./東方魔晶精_~Fairies_of_Sorcery~-符卡-Stage_3.md)
 - [Extra关卡 符卡](./東方魔晶精_~Fairies_of_Sorcery~-符卡-Extra.md)
@@ -20,12 +20,11 @@ Nono_443
 
   
 备注：
- **Double Burst** 符卡为Spell Practice模式下特有，类似于永夜抄Last Word，需要一定条件解锁。
+**Double Burst**符卡为Spell Practice模式下特有，类似于永夜抄Last Word，需要一定条件解锁。
   
   
 此模式的符卡练习存rep播放时会出错。
   
-
 
 <table>
 
@@ -40,10 +39,6 @@ Nono_443
 </p><p>即可修复rep播放弹错。
 </p>
 </td></tr></tbody></table>
-
-
-
-
 
 
 ---

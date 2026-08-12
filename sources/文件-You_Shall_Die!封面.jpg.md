@@ -1,6 +1,6 @@
 # 文件:You_Shall_Die!封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0c\ns6%3AYou_Shall_Die%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0c\ns6%3AYou_Shall_Die%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 As／Hi_Soundworks | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ As／Hi_Soundworks | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [You Shall Die!](./You_Shall_Die!.md)  
-该封面包含的角色：- [赫卡提亚·拉碧斯拉祖利](./赫卡提亚·拉碧斯拉祖利.md)
+- [You Shall Die!](./You_Shall_Die!.md)该封面包含的角色：
+- [赫卡提亚·拉碧斯拉祖利](./赫卡提亚·拉碧斯拉祖利.md)
 
   
-源地址：[[1]](http://static.tumblr.com/5b1948ccb0490187bf8f3e426d7ca2ea/0ahxako/9a0oao8dz/tumblr_static_a13mqcuv5jk8kg4kswg888kkk.png)
-  
-
-
-
-
+源地址：[\[1\]](http://static.tumblr.com/5b1948ccb0490187bf8f3e426d7ca2ea/0ahxako/9a0oao8dz/tumblr_static_a13mqcuv5jk8kg4kswg888kkk.png)  
 
 ---
 

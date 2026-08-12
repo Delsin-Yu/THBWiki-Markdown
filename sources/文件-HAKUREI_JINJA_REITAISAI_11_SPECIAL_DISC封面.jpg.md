@@ -1,6 +1,6 @@
 # 文件:HAKUREI_JINJA_REITAISAI_11_SPECIAL_DISC封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d6\ns6%3AHAKUREI_JINJA_REITAISAI_11_SPECIAL_DISC%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d6\ns6%3AHAKUREI_JINJA_REITAISAI_11_SPECIAL_DISC%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 俺++(Includeore) | 封面图片 | 音召缶
 
@@ -11,9 +11,6 @@
   
 
 - [HAKUREI JINJA REITAISAI 11 SPECIAL DISC](./HAKUREI_JINJA_REITAISAI_11_SPECIAL_DISC.md)
-
-
-
 
 
 ---

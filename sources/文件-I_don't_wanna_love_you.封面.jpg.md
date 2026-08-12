@@ -1,6 +1,6 @@
 # 文件:I_don't_wanna_love_you.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\47\ns6%3AI_don%27t_wanna_love_you%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\47\ns6%3AI_don%27t_wanna_love_you%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 A.M.A | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@ A.M.A | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [I don't wanna love you.](./I_don't_wanna_love_you..md)  
-该封面包含的角色：- [古明地恋](./古明地恋.md)
-
-
-
+- [I don't wanna love you.](./I_don't_wanna_love_you..md)该封面包含的角色：
+- [古明地恋](./古明地恋.md)
 
 
 ---

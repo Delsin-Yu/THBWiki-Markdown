@@ -1,6 +1,6 @@
 # 文件:fragment_of_the_world封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\51\ns6%3Afragment_of_the_world%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\51\ns6%3Afragment_of_the_world%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 型K式 | 封面图片
 
@@ -8,11 +8,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [fragment of the world](./fragment_of_the_world.md)  
-该封面包含的角色：- [爱丽丝（旧作角色）](./爱丽丝（旧作角色）.md)- [神绮](./神绮.md)- [梦子](./梦子.md)- [雪](./雪.md)- [舞](./舞.md)
-
-
-
+- [fragment of the world](./fragment_of_the_world.md)该封面包含的角色：
+- [爱丽丝（旧作角色）](./爱丽丝（旧作角色）.md)
+- [神绮](./神绮.md)
+- [梦子](./梦子.md)
+- [雪](./雪.md)
+- [舞](./舞.md)
 
 
 ---

@@ -1,25 +1,23 @@
 # Echo_Rs
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\d\d0\ns0%3AEcho_Rs.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\d\d0\ns0%3AEcho_Rs.html -->
 
 现实人物
 
 本页是关于东方Project  
- **二次同人创作者** 的词条
+**二次同人创作者**的词条
 ## 基本信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="label"><b>名称</b></td><td> Echo Rs </td></tr><tr><td class="label"><b>所属社团</b></td><td><b>当前</b><div style="margin-left:2em;"><a href="./二色幽紫蝶.md" title="二色幽紫蝶">二色幽紫蝶</a></div></td></tr><tr><td class="label"><b>职位</b></td><td>财务，人事，文案，策划</td></tr><tr><td class="label"><b>性别</b></td><td>女</td></tr><tr><td class="label"><b>个人页面</b></td><td><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><b>bilibili</b></td><td><a rel="nofollow" class="external free" href="https://space.bilibili.com/94260">https://space.bilibili.com/94260</a></td></tr></tbody></table></td></tr></tbody></table>
 
 Echo Rs（人物） - 现实人物
 ## 介绍
+
 ## 参与作品
+
 ## 人际关系
 人名
 : 关系
-
-
-
-
 
 ---
 

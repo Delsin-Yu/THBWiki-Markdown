@@ -1,27 +1,27 @@
 # 东方系列人气投票/EXTRA/角色部门
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\6e\ns0%3A%E4%B8%9C%E6%96%B9%E7%B3%BB%E5%88%97%E4%BA%BA%E6%B0%94%E6%8A%95%E7%A5%A8%2FEXTRA%2F%E8%A7%92%E8%89%B2%E9%83%A8%E9%97%A8.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\6e\ns0%3A%E4%B8%9C%E6%96%B9%E7%B3%BB%E5%88%97%E4%BA%BA%E6%B0%94%E6%8A%95%E7%A5%A8%2FEXTRA%2F%E8%A7%92%E8%89%B2%E9%83%A8%E9%97%A8.html -->
 
 东方系列人气投票
 
 <center>
-
 <table>
 <tbody><tr>
-<td>&lt;
+<td><
 </td>
-<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./东方系列人气投票-第二回-角色部门.md" title="东方系列人气投票/第二回/角色部门">第二回</a>&#160;
+<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./东方系列人气投票-第二回-角色部门.md" title="东方系列人气投票/第二回/角色部门">第二回</a> 
 </td>
-<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="./东方系列人气投票.md" title="东方系列人气投票">东方系列人气投票</a>（角色部门）&#160;
+<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;"> <a href="./东方系列人气投票.md" title="东方系列人气投票">东方系列人气投票</a>（角色部门） 
 </td>
-<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left">&#160;<a href="./东方系列人气投票-第三回-角色部门.md" title="东方系列人气投票/第三回/角色部门">第三回</a>
+<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left"> <a href="./东方系列人气投票-第三回-角色部门.md" title="东方系列人气投票/第三回/角色部门">第三回</a>
 </td>
-<td>&gt;
+<td>>
 </td></tr></tbody></table>
 
   
 </center>
 - 本页面为东方人气投票角色部分的票数排行简表。
+
 
 - 总票数为52114票
 
@@ -34,7 +34,6 @@
 <tr>
 <td>本回投票比较特殊，选项和前后回差异较大，因此不做标记。
 </td></tr></tbody></table>
-
 
 
 <table>
@@ -278,7 +277,7 @@
 <tr>
 <td>26</td>
 <td>ξ･∀･)めるぽ</td>
-<td>梅露普<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">1</a></sup></td>
+<td>梅露普<span>[^cite_note-1]</span></td>
 <td>226</td>
 <td>-</td>
 <td>-</td>
@@ -350,7 +349,7 @@
 <tr>
 <td>34</td>
 <td>メイベル</td>
-<td>梅贝露<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">2</a></sup></td>
+<td>梅贝露<span>[^cite_note-2]</span></td>
 <td>137</td>
 <td>-</td>
 <td>-</td>
@@ -368,7 +367,7 @@
 <tr>
 <td>36</td>
 <td>首吊り蓬莱人形</td>
-<td>上吊的蓬莱人偶<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">3</a></sup></td>
+<td>上吊的蓬莱人偶<span>[^cite_note-3]</span></td>
 <td>96</td>
 <td>-</td>
 <td>-</td>
@@ -413,7 +412,7 @@
 <tr>
 <td>41</td>
 <td>VIVIT</td>
-<td>VIVIT<sup id="cite_ref-西方_4-0" class="reference"><a href="#cite_note-西方-4">4</a></sup></td>
+<td>VIVIT<span>[^cite_note-西方-4]</span></td>
 <td>49</td>
 <td>28</td>
 <td>70</td>
@@ -512,7 +511,7 @@
 <tr>
 <td>50</td>
 <td>ゲイツ</td>
-<td>盖茨<sup id="cite_ref-西方_4-1" class="reference"><a href="#cite_note-西方-4">4</a></sup></td>
+<td>盖茨<span>[^cite_note-西方-4]</span></td>
 <td>15</td>
 <td>23</td>
 <td>112</td>
@@ -521,7 +520,7 @@
 <tr>
 <td>53</td>
 <td>ミリア</td>
-<td>米莉亚<sup id="cite_ref-西方_4-2" class="reference"><a href="#cite_note-西方-4">4</a></sup></td>
+<td>米莉亚<span>[^cite_note-西方-4]</span></td>
 <td>13</td>
 <td>-</td>
 <td>-</td>
@@ -674,7 +673,7 @@
 <tr>
 <td>69</td>
 <td>マリー</td>
-<td>玛丽<sup id="cite_ref-西方_4-3" class="reference"><a href="#cite_note-西方-4">4</a></sup></td>
+<td>玛丽<span>[^cite_note-西方-4]</span></td>
 <td>3</td>
 <td>-</td>
 <td>-</td>
@@ -710,7 +709,7 @@
 <tr>
 <td>73</td>
 <td>モーガン</td>
-<td>摩根<sup id="cite_ref-西方_4-4" class="reference"><a href="#cite_note-西方-4">4</a></sup></td>
+<td>摩根<span>[^cite_note-西方-4]</span></td>
 <td>1</td>
 <td>-</td>
 <td>-</td>
@@ -744,12 +743,10 @@
 <td>0
 </td></tr></tbody></table>
 
-
 [^cite_note-1]: 在2ch流行的一种文化“ぬるぽ”和梅露兰的结合物
-
-
-
-
+[^cite_note-2]: [叶庭](./葉庭.md)创作的同人漫画中登场的原创角色
+[^cite_note-3]: 出自2chAA
+[^cite_note-西方-4]: 西方角色
 
 ---
 

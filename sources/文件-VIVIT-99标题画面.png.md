@@ -1,14 +1,11 @@
 # 文件:VIVIT-99标题画面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\45\ns6%3AVIVIT-99%E6%A0%87%E9%A2%98%E7%94%BB%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\45\ns6%3AVIVIT-99%E6%A0%87%E9%A2%98%E7%94%BB%E9%9D%A2%2Epng.html -->
 
 VIVIT-99
 
 
 ## 摘要
-
-
-
 
 ---
 

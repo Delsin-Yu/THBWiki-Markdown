@@ -1,6 +1,6 @@
 # 文件:Best_of_FUN＿webjectF封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9d\ns6%3ABest_of_FUN%EF%BC%BFwebjectF%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9d\ns6%3ABest_of_FUN%EF%BC%BFwebjectF%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 FUN_webjectF | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ FUN_webjectF | 专辑封面 | 封面图片
   
 
 - [Best of FUN＿webjectF](./Best_of_FUN＿webjectF.md)
-
-
-
 
 
 ---

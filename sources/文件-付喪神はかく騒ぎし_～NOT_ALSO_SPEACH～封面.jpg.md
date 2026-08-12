@@ -1,6 +1,6 @@
 # 文件:付喪神はかく騒ぎし_～NOT_ALSO_SPEACH～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\97\ns6%3A%E4%BB%98%E5%96%AA%E7%A5%9E%E3%81%AF%E3%81%8B%E3%81%8F%E9%A8%92%E3%81%8E%E3%81%97_%EF%BD%9ENOT_ALSO_SPEACH%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\97\ns6%3A%E4%BB%98%E5%96%AA%E7%A5%9E%E3%81%AF%E3%81%8B%E3%81%8F%E9%A8%92%E3%81%8E%E3%81%97_%EF%BD%9ENOT_ALSO_SPEACH%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 転がり霞
 
@@ -8,11 +8,13 @@
 使用了本文件作封面图片的作品：
   
 
-- [付喪神はかく騒ぎし ～NOT ALSO SPEACH～](./付喪神はかく騒ぎし_～NOT_ALSO_SPEACH～.md)  
-该封面包含的角色：- [梅蒂欣·梅兰可莉](./梅蒂欣·梅兰可莉.md)- [多多良小伞](./多多良小伞.md)- [秦心](./秦心.md)- [九十九弁弁](./九十九弁弁.md)- [九十九八桥](./九十九八桥.md)- [堀川雷鼓](./堀川雷鼓.md)
-
-
-
+- [付喪神はかく騒ぎし ～NOT ALSO SPEACH～](./付喪神はかく騒ぎし_～NOT_ALSO_SPEACH～.md)该封面包含的角色：
+- [梅蒂欣·梅兰可莉](./梅蒂欣·梅兰可莉.md)
+- [多多良小伞](./多多良小伞.md)
+- [秦心](./秦心.md)
+- [九十九弁弁](./九十九弁弁.md)
+- [九十九八桥](./九十九八桥.md)
+- [堀川雷鼓](./堀川雷鼓.md)
 
 
 ---

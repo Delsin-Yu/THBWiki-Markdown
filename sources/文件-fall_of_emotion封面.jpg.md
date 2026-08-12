@@ -1,6 +1,6 @@
 # 文件:fall_of_emotion封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f6\ns6%3Afall_of_emotion%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f6\ns6%3Afall_of_emotion%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 扶養家族
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [fall of emotion](./fall_of_emotion.md)  
-该封面包含的角色：- [犬走椛](./犬走椛.md)
+- [fall of emotion](./fall_of_emotion.md)该封面包含的角色：
+- [犬走椛](./犬走椛.md)
 
   
-[Pixiv artwork ID: 50097623 (original size)](https://www.pixiv.net/artworks/50097623)
-  
-
-
-
-
+[Pixiv artwork ID: 50097623 (original size)](https://www.pixiv.net/artworks/50097623)  
 
 ---
 

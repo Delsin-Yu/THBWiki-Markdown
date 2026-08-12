@@ -1,6 +1,6 @@
 # 文件:PIE_IN_THE_SKY封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fe\ns6%3APIE_IN_THE_SKY%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fe\ns6%3APIE_IN_THE_SKY%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Axion_Channel | 同人志封面 | 封面图片
 
@@ -8,11 +8,9 @@ Axion_Channel | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [PIE IN THE SKY](./PIE_IN_THE_SKY.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [PIE IN THE SKY](./PIE_IN_THE_SKY.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

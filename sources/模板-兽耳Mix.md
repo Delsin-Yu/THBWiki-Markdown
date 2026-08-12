@@ -1,16 +1,12 @@
 # 模板:兽耳Mix
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\d\dc\ns10%3A%E5%85%BD%E8%80%B3Mix.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\d\dc\ns10%3A%E5%85%BD%E8%80%B3Mix.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

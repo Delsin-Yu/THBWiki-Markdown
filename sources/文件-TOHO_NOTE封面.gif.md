@@ -1,6 +1,6 @@
 # 文件:TOHO_NOTE封面.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\30\ns6%3ATOHO_NOTE%E5%B0%81%E9%9D%A2%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\30\ns6%3ATOHO_NOTE%E5%B0%81%E9%9D%A2%2Egif.html -->
 
 同人志封面 | 封面图片 | 白線の内側
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [TOHO NOTE](./TOHO_NOTE.md)  
-该封面包含的角色：- [东风谷早苗](./东风谷早苗.md)
+- [TOHO NOTE](./TOHO_NOTE.md)该封面包含的角色：
+- [东风谷早苗](./东风谷早苗.md)
 
   
-源地址：[direct image link (original size)](https://blog-imgs-27-origin.fc2.com/w/h/i/whitelineinside/20090805184202f45.gif), [source page](http://whitelineinside.blog45.fc2.com/blog-entry-1.html)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://blog-imgs-27-origin.fc2.com/w/h/i/whitelineinside/20090805184202f45.gif), [source page](http://whitelineinside.blog45.fc2.com/blog-entry-1.html)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:PRAY（ジャク）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6f\ns6%3APRAY%EF%BC%88%E3%82%B8%E3%83%A3%E3%82%AF%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6f\ns6%3APRAY%EF%BC%88%E3%82%B8%E3%83%A3%E3%82%AF%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ジャク | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [PRAY（ジャク）](./PRAY（ジャク）.md)  
-该封面包含的角色：- [鬼人正邪](./鬼人正邪.md)
+- [PRAY（ジャク）](./PRAY（ジャク）.md)该封面包含的角色：
+- [鬼人正邪](./鬼人正邪.md)
 
   
-源地址：[direct image link](https://www.suruga-ya.jp/database/pics_light/game/186128353.jpg), [source page (suruga-ya ID: 186128353)](https://www.suruga-ya.jp/product/detail/186128353)
-  
-
-
-
-
+源地址：[direct image link](https://www.suruga-ya.jp/database/pics_light/game/186128353.jpg), [source page (suruga-ya ID: 186128353)](https://www.suruga-ya.jp/product/detail/186128353)  
 
 ---
 

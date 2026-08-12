@@ -1,12 +1,8 @@
 # 文件:Last_Dream_banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\69\ns6%3ALast_Dream_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\69\ns6%3ALast_Dream_banner%2Ejpg.html -->
 
 Last_Dream | 社团LOGO
-
-
-
-
 
 
 ---

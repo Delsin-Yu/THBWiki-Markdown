@@ -1,6 +1,6 @@
 # 文件:──and,I_am_AlicE.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fa\ns6%3A%E2%94%80%E2%94%80and%2CI_am_AlicE%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fa\ns6%3A%E2%94%80%E2%94%80and%2CI_am_AlicE%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 A-HEAD | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ A-HEAD | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [──and,I am AlicE.](./──and,I_am_AlicE..md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
-
-
-
+- [──and,I am AlicE.](./──and,I_am_AlicE..md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
 
 
 ---

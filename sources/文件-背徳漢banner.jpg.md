@@ -1,12 +1,8 @@
 # 文件:背徳漢banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4f\ns6%3A%E8%83%8C%E5%BE%B3%E6%BC%A2banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4f\ns6%3A%E8%83%8C%E5%BE%B3%E6%BC%A2banner%2Ejpg.html -->
 
 社团LOGO | 背徳漢
-
-
-
-
 
 
 ---

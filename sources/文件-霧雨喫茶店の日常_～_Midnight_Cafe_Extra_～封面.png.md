@@ -1,6 +1,6 @@
 # 文件:霧雨喫茶店の日常_～_Midnight_Cafe_Extra_～封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\84\ns6%3A%E9%9C%A7%E9%9B%A8%E5%96%AB%E8%8C%B6%E5%BA%97%E3%81%AE%E6%97%A5%E5%B8%B8_%EF%BD%9E_Midnight_Cafe_Extra_%EF%BD%9E%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\84\ns6%3A%E9%9C%A7%E9%9B%A8%E5%96%AB%E8%8C%B6%E5%BA%97%E3%81%AE%E6%97%A5%E5%B8%B8_%EF%BD%9E_Midnight_Cafe_Extra_%EF%BD%9E%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Stardust.Memories | 专辑封面 | 封面图片
 
@@ -8,10 +8,7 @@ Stardust.Memories | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [霧雨喫茶店の日常 ～ Midnight Cafe Extra ～](./霧雨喫茶店の日常_～_Midnight_Cafe_Extra_～.md)源地址：[[1]](http://stardustmemories.web.fc2.com/works/images/CDSAMPLE007.png)
-
-
-
+- [霧雨喫茶店の日常 ～ Midnight Cafe Extra ～](./霧雨喫茶店の日常_～_Midnight_Cafe_Extra_～.md)源地址：[\[1\]](http://stardustmemories.web.fc2.com/works/images/CDSAMPLE007.png)
 
 
 ---

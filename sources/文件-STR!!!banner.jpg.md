@@ -1,16 +1,11 @@
 # 文件:STR!!!banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\16\ns6%3ASTR%21%21%21banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\16\ns6%3ASTR%21%21%21banner%2Ejpg.html -->
 
 STR!!! | 社团LOGO
 
   
-源地址：[[1]](https://farm4.static.flickr.com/3160/2849811973_10e39be273.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://farm4.static.flickr.com/3160/2849811973_10e39be273.jpg)  
 
 ---
 

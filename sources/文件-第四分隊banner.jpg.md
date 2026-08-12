@@ -1,12 +1,8 @@
 # 文件:第四分隊banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\49\ns6%3A%E7%AC%AC%E5%9B%9B%E5%88%86%E9%9A%8Abanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\49\ns6%3A%E7%AC%AC%E5%9B%9B%E5%88%86%E9%9A%8Abanner%2Ejpg.html -->
 
 社团LOGO | 第四分隊
-
-
-
-
 
 
 ---

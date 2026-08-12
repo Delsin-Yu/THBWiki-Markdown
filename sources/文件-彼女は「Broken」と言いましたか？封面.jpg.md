@@ -1,6 +1,6 @@
 # 文件:彼女は「Broken」と言いましたか？封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ea\ns6%3A%E5%BD%BC%E5%A5%B3%E3%81%AF%E3%80%8CBroken%E3%80%8D%E3%81%A8%E8%A8%80%E3%81%84%E3%81%BE%E3%81%97%E3%81%9F%E3%81%8B%EF%BC%9F%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ea\ns6%3A%E5%BD%BC%E5%A5%B3%E3%81%AF%E3%80%8CBroken%E3%80%8D%E3%81%A8%E8%A8%80%E3%81%84%E3%81%BE%E3%81%97%E3%81%9F%E3%81%8B%EF%BC%9F%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Our_Heartless_Decline | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@ Our_Heartless_Decline | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [彼女は「Broken」と言いましたか？](./彼女は「Broken」と言いましたか？.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [彼女は「Broken」と言いましたか？](./彼女は「Broken」と言いましたか？.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
   
-源地址：[[1]](https://f4.bcbits.com/img/a3408372676_10.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://f4.bcbits.com/img/a3408372676_10.jpg)  
 
 ---
 

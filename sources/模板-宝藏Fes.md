@@ -1,16 +1,12 @@
 # 模板:宝藏Fes
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\e\ec\ns10%3A%E5%AE%9D%E8%97%8FFes.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\e\ec\ns10%3A%E5%AE%9D%E8%97%8FFes.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

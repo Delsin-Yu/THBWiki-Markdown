@@ -1,12 +1,8 @@
 # 文件:星符「Meteonic_Shower」（绯想天）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e4\ns6%3A%E6%98%9F%E7%AC%A6%E3%80%8CMeteonic_Shower%E3%80%8D%EF%BC%88%E7%BB%AF%E6%83%B3%E5%A4%A9%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e4\ns6%3A%E6%98%9F%E7%AC%A6%E3%80%8CMeteonic_Shower%E3%80%8D%EF%BC%88%E7%BB%AF%E6%83%B3%E5%A4%A9%EF%BC%89%2Epng.html -->
 
 东方绯想天 | 自机符卡 | 雾雨魔理沙
-
-
-
-
 
 
 ---

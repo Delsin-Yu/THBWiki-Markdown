@@ -1,12 +1,8 @@
 # 文件:魂魄妖梦b（花映塚像素绘）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\38\ns6%3A%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6b%EF%BC%88%E8%8A%B1%E6%98%A0%E5%A1%9A%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\38\ns6%3A%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6b%EF%BC%88%E8%8A%B1%E6%98%A0%E5%A1%9A%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89%2Epng.html -->
 
 东方花映塚 | 官方游戏像素绘 | 魂魄妖梦
-
-
-
-
 
 
 ---

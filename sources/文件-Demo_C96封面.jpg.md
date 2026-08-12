@@ -1,6 +1,6 @@
 # 文件:Demo_C96封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9e\ns6%3ADemo_C96%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9e\ns6%3ADemo_C96%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 AGENT_0 | 专辑封面 | 封面图片
 
@@ -15,10 +15,6 @@ AGENT_0 | 专辑封面 | 封面图片
   
 from temporary bandcamp download provided by circle
   
-
-
-
-
 
 ---
 

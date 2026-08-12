@@ -1,14 +1,11 @@
 # 文件:TouhouVideo弹幕视频网（γ）2015年02月16日截图.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\23\ns6%3ATouhouVideo%E5%BC%B9%E5%B9%95%E8%A7%86%E9%A2%91%E7%BD%91%EF%BC%88%CE%B3%EF%BC%892015%E5%B9%B402%E6%9C%8816%E6%97%A5%E6%88%AA%E5%9B%BE%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\23\ns6%3ATouhouVideo%E5%BC%B9%E5%B9%95%E8%A7%86%E9%A2%91%E7%BD%91%EF%BC%88%CE%B3%EF%BC%892015%E5%B9%B402%E6%9C%8816%E6%97%A5%E6%88%AA%E5%9B%BE%2Epng.html -->
 
 TouhouVideo弹幕视频网
 
 
 ## 摘要
-
-
-
 
 ---
 

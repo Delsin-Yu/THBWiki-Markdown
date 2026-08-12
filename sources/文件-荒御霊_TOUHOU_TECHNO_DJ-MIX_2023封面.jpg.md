@@ -1,6 +1,6 @@
 # 文件:荒御霊_TOUHOU_TECHNO_DJ-MIX_2023封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e0\ns6%3A%E8%8D%92%E5%BE%A1%E9%9C%8A_TOUHOU_TECHNO_DJ-MIX_2023%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e0\ns6%3A%E8%8D%92%E5%BE%A1%E9%9C%8A_TOUHOU_TECHNO_DJ-MIX_2023%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 荒御灵
 
@@ -11,9 +11,6 @@
   
 
 - [荒御霊 TOUHOU TECHNO DJ-MIX 2023](./荒御霊_TOUHOU_TECHNO_DJ-MIX_2023.md)
-
-
-
 
 
 ---

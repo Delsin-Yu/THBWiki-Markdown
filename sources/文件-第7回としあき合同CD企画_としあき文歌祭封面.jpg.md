@@ -1,6 +1,6 @@
 # 文件:第7回としあき合同CD企画_としあき文歌祭封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7a\ns6%3A%E7%AC%AC7%E5%9B%9E%E3%81%A8%E3%81%97%E3%81%82%E3%81%8D%E5%90%88%E5%90%8CCD%E4%BC%81%E7%94%BB_%E3%81%A8%E3%81%97%E3%81%82%E3%81%8D%E6%96%87%E6%AD%8C%E7%A5%AD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7a\ns6%3A%E7%AC%AC7%E5%9B%9E%E3%81%A8%E3%81%97%E3%81%82%E3%81%8D%E5%90%88%E5%90%8CCD%E4%BC%81%E7%94%BB_%E3%81%A8%E3%81%97%E3%81%82%E3%81%8D%E6%96%87%E6%AD%8C%E7%A5%AD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 心輝楼
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [第7回としあき合同CD企画 としあき文歌祭](./第7回としあき合同CD企画_としあき文歌祭.md)  
-该封面包含的角色：- [尔子田里乃](./尔子田里乃.md)- [丁礼田舞](./丁礼田舞.md)
-
-
-
+- [第7回としあき合同CD企画 としあき文歌祭](./第7回としあき合同CD企画_としあき文歌祭.md)该封面包含的角色：
+- [尔子田里乃](./尔子田里乃.md)
+- [丁礼田舞](./丁礼田舞.md)
 
 
 ---

@@ -1,14 +1,11 @@
 # 文件:东方八百万商店LOGO.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\63\ns6%3A%E4%B8%9C%E6%96%B9%E5%85%AB%E7%99%BE%E4%B8%87%E5%95%86%E5%BA%97LOGO%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\63\ns6%3A%E4%B8%9C%E6%96%B9%E5%85%AB%E7%99%BE%E4%B8%87%E5%95%86%E5%BA%97LOGO%2Epng.html -->
 
 东方Project×百货商场活动 | 东方八百万商店 | 活动LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

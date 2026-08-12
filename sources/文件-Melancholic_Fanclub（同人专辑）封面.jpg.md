@@ -1,6 +1,6 @@
 # 文件:Melancholic_Fanclub（同人专辑）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1e\ns6%3AMelancholic_Fanclub%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1e\ns6%3AMelancholic_Fanclub%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Melancholic_Fanclub | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Melancholic_Fanclub | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Melancholic Fanclub（同人专辑）](./Melancholic_Fanclub（同人专辑）.md)  
-该封面包含的角色：- [米斯蒂娅·萝蕾拉](./米斯蒂娅·萝蕾拉.md)
-
-
-
+- [Melancholic Fanclub（同人专辑）](./Melancholic_Fanclub（同人专辑）.md)该封面包含的角色：
+- [米斯蒂娅·萝蕾拉](./米斯蒂娅·萝蕾拉.md)
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:THE_OTHER_FLOWERbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\34\ns6%3ATHE_OTHER_FLOWERbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\34\ns6%3ATHE_OTHER_FLOWERbanner%2Ejpg.html -->
 
 THE_OTHER_FLOWER | 社团LOGO
-
-
-
-
 
 
 ---

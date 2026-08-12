@@ -1,6 +1,6 @@
 # 文件:agent's_happiness封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9a\ns6%3Aagent%27s_happiness%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9a\ns6%3Aagent%27s_happiness%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 MONOMIND | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ MONOMIND | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [agent's happiness](./agent's_happiness.md)  
-该封面包含的角色：- [苏我屠自古](./苏我屠自古.md)
-
-
-
+- [agent's happiness](./agent's_happiness.md)该封面包含的角色：
+- [苏我屠自古](./苏我屠自古.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Spilled_Milk封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c4\ns6%3ASpilled_Milk%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c4\ns6%3ASpilled_Milk%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 パルピテリア | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Spilled Milk](./Spilled_Milk.md)  
-该封面包含的角色：- 原创角色 (未找到链接)
+- [Spilled Milk](./Spilled_Milk.md)该封面包含的角色：
+- 原创角色 (未找到链接)
 
   
-源地址：[source page](https://www.melonbooks.co.jp/detail/detail.php?product_id=163102), [direct image link](https://melonbooks.akamaized.net/user_data/packages/resize_image.php?image=212001097685.jpg)
-  
-
-
-
-
+源地址：[source page](https://www.melonbooks.co.jp/detail/detail.php?product_id=163102), [direct image link](https://melonbooks.akamaized.net/user_data/packages/resize_image.php?image=212001097685.jpg)  
 
 ---
 

@@ -1,14 +1,11 @@
 # 文件:Diatonic_Recordslogo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f4\ns6%3ADiatonic_Recordslogo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f4\ns6%3ADiatonic_Recordslogo%2Epng.html -->
 
 Diatonic_Records | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

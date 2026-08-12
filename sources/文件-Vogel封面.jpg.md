@@ -1,6 +1,6 @@
 # 文件:Vogel封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e1\ns6%3AVogel%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e1\ns6%3AVogel%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 とりいんふる | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Vogel](./Vogel.md)  
-该封面包含的角色：- [露米娅](./露米娅.md)
+- [Vogel](./Vogel.md)该封面包含的角色：
+- [露米娅](./露米娅.md)
 
   
-源地址：[direct image link](https://img.doujinshi.org/big/208/417047.jpg?ver=3), [source page (doujinshi.org ID: B417047 V3)](https://www.doujinshi.org/book/417047/Vogel/)
-  
-
-
-
-
+源地址：[direct image link](https://img.doujinshi.org/big/208/417047.jpg?ver=3), [source page (doujinshi.org ID: B417047 V3)](https://www.doujinshi.org/book/417047/Vogel/)  
 
 ---
 

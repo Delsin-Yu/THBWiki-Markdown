@@ -1,6 +1,6 @@
 # 文件:咲夜さんが寄り目になるCD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8f\ns6%3A%E5%92%B2%E5%A4%9C%E3%81%95%E3%82%93%E3%81%8C%E5%AF%84%E3%82%8A%E7%9B%AE%E3%81%AB%E3%81%AA%E3%82%8BCD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8f\ns6%3A%E5%92%B2%E5%A4%9C%E3%81%95%E3%82%93%E3%81%8C%E5%AF%84%E3%82%8A%E7%9B%AE%E3%81%AB%E3%81%AA%E3%82%8BCD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 焼菓一心
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [咲夜さんが寄り目になるCD](./咲夜さんが寄り目になるCD.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [咲夜さんが寄り目になるCD](./咲夜さんが寄り目になるCD.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

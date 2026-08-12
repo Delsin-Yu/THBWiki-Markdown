@@ -1,6 +1,6 @@
 # 文件:ShotShell_I封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\42\ns6%3AShotShell_I%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\42\ns6%3AShotShell_I%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 LOST_IN_THE_DARKNESS | PHOENIX_Project | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ LOST_IN_THE_DARKNESS | PHOENIX_Project | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [ShotShell I](./ShotShell_I.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [ShotShell I](./ShotShell_I.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

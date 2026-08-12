@@ -1,6 +1,6 @@
 # 文件:Providence_e.p.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fb\ns6%3AProvidence_e%2Ep%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fb\ns6%3AProvidence_e%2Ep%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 夢幻燈 | 封面图片
 
@@ -8,12 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [Providence e.p.](./Providence_e.p..md)  
-该封面包含的角色：- [火焰猫燐](./火焰猫燐.md)源地址：[[1]](http://mugentou.web.fc2.com/ct14.jpg)
-
-
-
-
+- [Providence e.p.](./Providence_e.p..md)该封面包含的角色：
+- [火焰猫燐](./火焰猫燐.md)
+源地址：[\[1\]](http://mugentou.web.fc2.com/ct14.jpg)
 
 ---
 

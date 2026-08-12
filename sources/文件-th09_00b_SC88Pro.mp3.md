@@ -1,12 +1,8 @@
 # 文件:th09_00b_SC88Pro.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f3\ns6%3Ath09_00b_SC88Pro%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f3\ns6%3Ath09_00b_SC88Pro%2Emp3.html -->
 
 Oriental_Dark_Flight | 东方花映塚
-
-
-
-
 
 
 ---

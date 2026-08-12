@@ -1,12 +1,8 @@
 # 文件:外来韦编ZUN签名（灵梦）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9e\ns6%3A%E5%A4%96%E6%9D%A5%E9%9F%A6%E7%BC%96ZUN%E7%AD%BE%E5%90%8D%EF%BC%88%E7%81%B5%E6%A2%A6%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9e\ns6%3A%E5%A4%96%E6%9D%A5%E9%9F%A6%E7%BC%96ZUN%E7%AD%BE%E5%90%8D%EF%BC%88%E7%81%B5%E6%A2%A6%EF%BC%89%2Ejpg.html -->
 
 京大演讲会
-
-
-
-
 
 
 ---

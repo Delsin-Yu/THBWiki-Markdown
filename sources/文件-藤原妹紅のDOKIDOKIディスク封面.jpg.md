@@ -1,6 +1,6 @@
 # 文件:藤原妹紅のDOKIDOKIディスク封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\79\ns6%3A%E8%97%A4%E5%8E%9F%E5%A6%B9%E7%B4%85%E3%81%AEDOKIDOKI%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\79\ns6%3A%E8%97%A4%E5%8E%9F%E5%A6%B9%E7%B4%85%E3%81%AEDOKIDOKI%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 アールグレイ | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [藤原妹紅のDOKIDOKIディスク](./藤原妹紅のDOKIDOKIディスク.md)  
-该封面包含的角色：- [藤原妹红](./藤原妹红.md)
-
-
-
+- [藤原妹紅のDOKIDOKIディスク](./藤原妹紅のDOKIDOKIディスク.md)该封面包含的角色：
+- [藤原妹红](./藤原妹红.md)
 
 
 ---

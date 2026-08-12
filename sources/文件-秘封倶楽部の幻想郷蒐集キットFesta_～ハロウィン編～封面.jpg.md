@@ -1,6 +1,6 @@
 # 文件:秘封倶楽部の幻想郷蒐集キットFesta_～ハロウィン編～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0d\ns6%3A%E7%A7%98%E5%B0%81%E5%80%B6%E6%A5%BD%E9%83%A8%E3%81%AE%E5%B9%BB%E6%83%B3%E9%83%B7%E8%92%90%E9%9B%86%E3%82%AD%E3%83%83%E3%83%88Festa_%EF%BD%9E%E3%83%8F%E3%83%AD%E3%82%A6%E3%82%A3%E3%83%B3%E7%B7%A8%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0d\ns6%3A%E7%A7%98%E5%B0%81%E5%80%B6%E6%A5%BD%E9%83%A8%E3%81%AE%E5%B9%BB%E6%83%B3%E9%83%B7%E8%92%90%E9%9B%86%E3%82%AD%E3%83%83%E3%83%88Festa_%EF%BD%9E%E3%83%8F%E3%83%AD%E3%82%A6%E3%82%A3%E3%83%B3%E7%B7%A8%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 すい～と・らぴーぬ | 封面图片 | 软件封面
 
@@ -8,11 +8,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [秘封倶楽部の幻想郷蒐集キットFesta ～ハロウィン編～](./秘封倶楽部の幻想郷蒐集キットFesta_～ハロウィン編～.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
-
-
-
+- [秘封倶楽部の幻想郷蒐集キットFesta ～ハロウィン編～](./秘封倶楽部の幻想郷蒐集キットFesta_～ハロウィン編～.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
 
 ---

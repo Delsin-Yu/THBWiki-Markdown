@@ -1,6 +1,6 @@
 # 文件:ルナティックNo.⑨_デモCD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3a\ns6%3A%E3%83%AB%E3%83%8A%E3%83%86%E3%82%A3%E3%83%83%E3%82%AFNo%2E%E2%91%A8_%E3%83%87%E3%83%A2CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3a\ns6%3A%E3%83%AB%E3%83%8A%E3%83%86%E3%82%A3%E3%83%83%E3%82%AFNo%2E%E2%91%A8_%E3%83%87%E3%83%A2CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ルナティックNo.⑨ | 专辑封面 | 封面图片
 
@@ -13,12 +13,7 @@
 - [ルナティックNo.⑨ デモCD](./ルナティックNo.⑨_デモCD.md)
 
   
-源地址：[suruga-ya](https://www.suruga-ya.jp/product/detail/186127905)
-  
-
-
-
-
+源地址：[suruga-ya](https://www.suruga-ya.jp/product/detail/186127905)  
 
 ---
 

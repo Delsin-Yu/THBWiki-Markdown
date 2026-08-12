@@ -1,35 +1,27 @@
 # Frontal_Attack
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\b0\ns0%3AFrontal_Attack.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\b0\ns0%3AFrontal_Attack.html -->
 
 由 ZUN 创作的官方曲目，原名 Frontal Attack
 
 本页是关于东方Project  
- **原作音乐** 的词条
-
+**原作音乐**的词条
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 出现作品](#出现作品)
 - [3 音乐文件](#音乐文件)
-
   - [3.1 游戏原声](#游戏原声)
   - [3.2 Arrange作品](#Arrange作品)
 
 
-
 - [4 其他资料](#其他资料)
-
   - [4.1 乐理资讯](#乐理资讯)
   - [4.2 分析考据](#分析考据)
   - [4.3 二次同人数据](#二次同人数据)
 
 
-
 - [5 注释](#注释)
-
-
-
 
 
 ## 基本信息
@@ -37,7 +29,6 @@
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">Frontal Attack</td></tr><tr><td><b>译名</b></td><td>Frontal Attack</td></tr><tr><td><b>其他译名</b></td><td>正面攻击</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 Frontal Attack（曲目） - 由 ZUN 创作的官方曲目，原名 Frontal Attack
-
 ## 出现作品
 
 <table>
@@ -45,12 +36,10 @@ Frontal Attack（曲目） - 由 ZUN 创作的官方曲目，原名 Frontal Atta
 </tbody></table>
 
 
-
 ## 音乐文件
   
 至今为止，ZUN没有在任何地方公开过该曲目的音乐文件，原作秋霜玉'99也因为各种原因“失传”。下面提供一些可以听到该曲的途径：
   
-
 
 ### 游戏原声
   
@@ -59,44 +48,29 @@ Frontal Attack（曲目） - 由 ZUN 创作的官方曲目，原名 Frontal Atta
   
 
 <table>
-<tr><th style="text-align: center;"><a class="bilibili-title external text" href="//www.bilibili.com/video/av25139738?p=1" target="_blank" rel="nofollow" style="margin: 0 0.4em 0 0.2em;"></a><input type="button" class="bilibili-toggle" value="显示视频" style="float: right;"></th></tr>
+<tr><th style="text-align: center;"><a class="bilibili-title external text" href="https://www.bilibili.com/video/av25139738?p=1" target="_blank" rel="nofollow" style="margin: 0 0.4em 0 0.2em;"></a><input type="button" class="bilibili-toggle" value="显示视频" style="float: right;"></th></tr>
 <tr class="bilibili-video" style="display: none;"><td>
 <iframe src="//player.bilibili.com/player.html?aid=25139738&page=1&autoplay=0" height="421" width="600" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" sandbox="allow-scripts allow-same-origin"></iframe>
 </td></tr>
 </table>
 
 
-
-
-
-
 ### Arrange作品
-  
-
-  
 
 <table>
-<tr><th style="text-align: center;"><a class="bilibili-title external text" href="//www.bilibili.com/video/av31231046?p=1" target="_blank" rel="nofollow" style="margin: 0 0.4em 0 0.2em;"></a><input type="button" class="bilibili-toggle" value="显示视频" style="float: right;"></th></tr>
+<tr><th style="text-align: center;"><a class="bilibili-title external text" href="https://www.bilibili.com/video/av31231046?p=1" target="_blank" rel="nofollow" style="margin: 0 0.4em 0 0.2em;"></a><input type="button" class="bilibili-toggle" value="显示视频" style="float: right;"></th></tr>
 <tr class="bilibili-video" style="display: none;"><td>
 <iframe src="//player.bilibili.com/player.html?aid=31231046&page=1&autoplay=0" height="421" width="600" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" sandbox="allow-scripts allow-same-origin"></iframe>
 </td></tr>
 </table>
 
 
-
-  
-
-  
-
 <table>
-<tr><th style="text-align: center;"><a class="bilibili-title external text" href="//www.bilibili.com/video/av34474603?p=1" target="_blank" rel="nofollow" style="margin: 0 0.4em 0 0.2em;"></a><input type="button" class="bilibili-toggle" value="显示视频" style="float: right;"></th></tr>
+<tr><th style="text-align: center;"><a class="bilibili-title external text" href="https://www.bilibili.com/video/av34474603?p=1" target="_blank" rel="nofollow" style="margin: 0 0.4em 0 0.2em;"></a><input type="button" class="bilibili-toggle" value="显示视频" style="float: right;"></th></tr>
 <tr class="bilibili-video" style="display: none;"><td>
 <iframe src="//player.bilibili.com/player.html?aid=34474603&page=1&autoplay=0" height="421" width="600" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" sandbox="allow-scripts allow-same-origin"></iframe>
 </td></tr>
 </table>
-
-
-
 
 
 ## 其他资料
@@ -117,18 +91,6 @@ Frontal Attack（曲目） - 由 ZUN 创作的官方曲目，原名 Frontal Atta
 <tr><td>Arrange</td><td>3</td></tr>
 <tr><td>Vocal率</td><td>0%</td></tr>
 </tbody></table>
-
-
-
-
-
-  
-  
-
-  
-
-
-
 
 
 ---

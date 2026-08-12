@@ -1,6 +1,6 @@
 # 文件:tohomaniaⅡDX_13_Ghost_Rivival封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\53\ns6%3Atohomania%E2%85%A1DX_13_Ghost_Rivival%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\53\ns6%3Atohomania%E2%85%A1DX_13_Ghost_Rivival%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Yelled_Toward_Highest | 专辑封面 | 封面图片
 
@@ -8,11 +8,10 @@ Yelled_Toward_Highest | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [tohomaniaⅡDX 13 Ghost Rivival](./tohomaniaⅡDX_13_Ghost_Rivival.md)  
-该封面包含的角色：- [苏我屠自古](./苏我屠自古.md)- [物部布都](./物部布都.md)- [丰聪耳神子](./丰聪耳神子.md)
-
-
-
+- [tohomaniaⅡDX 13 Ghost Rivival](./tohomaniaⅡDX_13_Ghost_Rivival.md)该封面包含的角色：
+- [苏我屠自古](./苏我屠自古.md)
+- [物部布都](./物部布都.md)
+- [丰聪耳神子](./丰聪耳神子.md)
 
 
 ---

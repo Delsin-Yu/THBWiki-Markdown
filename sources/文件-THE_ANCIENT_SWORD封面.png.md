@@ -1,6 +1,6 @@
 # 文件:THE_ANCIENT_SWORD封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c6\ns6%3ATHE_ANCIENT_SWORD%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c6\ns6%3ATHE_ANCIENT_SWORD%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Orpheus_of_Flame | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Orpheus_of_Flame | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [THE ANCIENT SWORD](./THE_ANCIENT_SWORD.md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)
+- [THE ANCIENT SWORD](./THE_ANCIENT_SWORD.md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
 
   
-源地址：[[1]](https://static.wixstatic.com/media/241c62_002ff5f0cfe948a9af46cbad38aa8241~mv2_d_1653_1653_s_2.png)
-  
-
-
-
-
+源地址：[\[1\]](https://static.wixstatic.com/media/241c62_002ff5f0cfe948a9af46cbad38aa8241~mv2_d_1653_1653_s_2.png)  
 
 ---
 

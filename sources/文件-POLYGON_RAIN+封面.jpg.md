@@ -1,6 +1,6 @@
 # 文件:POLYGON_RAIN+封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6a\ns6%3APOLYGON_RAIN%2B%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6a\ns6%3APOLYGON_RAIN%2B%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ERIMO | 同人志封面 | 封面图片
 
@@ -10,16 +10,12 @@ ERIMO | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [POLYGON RAIN+](./POLYGON_RAIN+.md)  
-该封面包含的角色：- [古明地觉](./古明地觉.md)- [火焰猫燐](./火焰猫燐.md)
+- [POLYGON RAIN+](./POLYGON_RAIN+.md)该封面包含的角色：
+- [古明地觉](./古明地觉.md)
+- [火焰猫燐](./火焰猫燐.md)
 
   
-源地址：[direct image link](https://www.suruga-ya.jp/database/pics_light/game/zhore93042.jpg), [source page (suruga-ya ID: ZHORE93042)](https://www.suruga-ya.jp/product/detail/ZHORE93042)
-  
-
-
-
-
+源地址：[direct image link](https://www.suruga-ya.jp/database/pics_light/game/zhore93042.jpg), [source page (suruga-ya ID: ZHORE93042)](https://www.suruga-ya.jp/product/detail/ZHORE93042)  
 
 ---
 

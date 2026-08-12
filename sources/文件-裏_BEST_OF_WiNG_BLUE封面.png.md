@@ -1,6 +1,6 @@
 # 文件:裏_BEST_OF_WiNG_BLUE封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cf\ns6%3A%E8%A3%8F_BEST_OF_WiNG_BLUE%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cf\ns6%3A%E8%A3%8F_BEST_OF_WiNG_BLUE%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 DiGiTAL_WiNG | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ DiGiTAL_WiNG | 专辑封面 | 封面图片
   
 
 - [裏 BEST OF WiNG BLUE](./裏_BEST_OF_WiNG_BLUE.md)
-
-
-
 
 
 ---

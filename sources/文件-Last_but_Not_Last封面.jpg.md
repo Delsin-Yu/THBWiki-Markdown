@@ -1,6 +1,6 @@
 # 文件:Last_but_Not_Last封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\28\ns6%3ALast_but_Not_Last%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\28\ns6%3ALast_but_Not_Last%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 No_Corner | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@ No_Corner | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Last but Not Last](./Last_but_Not_Last.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [Last but Not Last](./Last_but_Not_Last.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
   
-源地址：[[1]](https://scontent.fyvr3-1.fna.fbcdn.net/v/t1.6435-9/52582638_2289040701373894_4807713239259414528_n.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://scontent.fyvr3-1.fna.fbcdn.net/v/t1.6435-9/52582638_2289040701373894_4807713239259414528_n.jpg)  
 
 ---
 

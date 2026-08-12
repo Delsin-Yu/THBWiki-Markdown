@@ -1,6 +1,6 @@
 # 文件:東方糞動画_~_Pop_Team_Epic（同人游戏）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ab\ns6%3A%E6%9D%B1%E6%96%B9%E7%B3%9E%E5%8B%95%E7%94%BB_%7E_Pop_Team_Epic%EF%BC%88%E5%90%8C%E4%BA%BA%E6%B8%B8%E6%88%8F%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ab\ns6%3A%E6%9D%B1%E6%96%B9%E7%B3%9E%E5%8B%95%E7%94%BB_%7E_Pop_Team_Epic%EF%BC%88%E5%90%8C%E4%BA%BA%E6%B8%B8%E6%88%8F%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 RedstoneGate | 封面图片 | 软件封面
 
@@ -8,11 +8,9 @@ RedstoneGate | 封面图片 | 软件封面
 使用了本文件作封面图片的作品：
   
 
-- [東方糞動画 ~ Pop Team Epic（同人游戏）](./東方糞動画_~_Pop_Team_Epic（同人游戏）.md)  
-该封面包含的角色：- POP子 (未找到链接)- PIPI美 (未找到链接)
-
-
-
+- [東方糞動画 ~ Pop Team Epic（同人游戏）](./東方糞動画_~_Pop_Team_Epic（同人游戏）.md)该封面包含的角色：
+- POP子 (未找到链接)
+- PIPI美 (未找到链接)
 
 
 ---

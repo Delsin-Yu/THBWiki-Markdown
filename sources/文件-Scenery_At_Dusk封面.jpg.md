@@ -1,6 +1,6 @@
 # 文件:Scenery_At_Dusk封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\58\ns6%3AScenery_At_Dusk%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\58\ns6%3AScenery_At_Dusk%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 剥色徒領 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Scenery At Dusk](./Scenery_At_Dusk.md)  
-该封面包含的角色：- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [Scenery At Dusk](./Scenery_At_Dusk.md)该封面包含的角色：
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

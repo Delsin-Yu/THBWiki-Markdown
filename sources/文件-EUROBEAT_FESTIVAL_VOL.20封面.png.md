@@ -1,6 +1,6 @@
 # 文件:EUROBEAT_FESTIVAL_VOL.20封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2b\ns6%3AEUROBEAT_FESTIVAL_VOL%2E20%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2b\ns6%3AEUROBEAT_FESTIVAL_VOL%2E20%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 SuganoMusic | 专辑封面 | 封面图片
 
@@ -13,11 +13,7 @@ SuganoMusic | 专辑封面 | 封面图片
 - [EUROBEAT FESTIVAL VOL.20](./EUROBEAT_FESTIVAL_VOL.20.md)
 
 源地址
-: [[1]](https://suganomusic.com/wp-content/uploads/2023/07/EBF20-1024x1011.png)
-
-
-
-
+: [\[1\]](https://suganomusic.com/wp-content/uploads/2023/07/EBF20-1024x1011.png)
 
 ---
 

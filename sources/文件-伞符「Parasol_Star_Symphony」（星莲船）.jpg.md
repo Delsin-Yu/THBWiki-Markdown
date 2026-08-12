@@ -1,12 +1,8 @@
 # 文件:伞符「Parasol_Star_Symphony」（星莲船）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5b\ns6%3A%E4%BC%9E%E7%AC%A6%E3%80%8CParasol_Star_Symphony%E3%80%8D%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5b\ns6%3A%E4%BC%9E%E7%AC%A6%E3%80%8CParasol_Star_Symphony%E3%80%8D%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%EF%BC%89%2Ejpg.html -->
 
 东方星莲船 | 多多良小伞 | 敌机符卡
-
-
-
-
 
 
 ---

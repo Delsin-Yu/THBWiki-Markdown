@@ -1,14 +1,11 @@
 # 文件:蛇丛剑EX面场景.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0a\ns6%3A%E8%9B%87%E4%B8%9B%E5%89%91EX%E9%9D%A2%E5%9C%BA%E6%99%AF%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0a\ns6%3A%E8%9B%87%E4%B8%9B%E5%89%91EX%E9%9D%A2%E5%9C%BA%E6%99%AF%2Epng.html -->
 
 トリック・ノスタルジー | 连缘蛇丛剑
 
 
 ## 文件说明
-
-
-
 
 ---
 

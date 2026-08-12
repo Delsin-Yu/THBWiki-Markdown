@@ -1,6 +1,6 @@
 # 文件:Rest_in_peace-総集編-【再販版】封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c7\ns6%3ARest_in_peace-%E7%B7%8F%E9%9B%86%E7%B7%A8-%E3%80%90%E5%86%8D%E8%B2%A9%E7%89%88%E3%80%91%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c7\ns6%3ARest_in_peace-%E7%B7%8F%E9%9B%86%E7%B7%A8-%E3%80%90%E5%86%8D%E8%B2%A9%E7%89%88%E3%80%91%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 KirororO | 同人志封面 | 封面图片
 
@@ -10,11 +10,9 @@ KirororO | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Rest in peace-総集編-【再販版】](./Rest_in_peace-総集編-【再販版】.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
-
-
-
+- [Rest in peace-総集編-【再販版】](./Rest_in_peace-総集編-【再販版】.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
 
 ---

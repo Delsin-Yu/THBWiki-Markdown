@@ -1,6 +1,6 @@
 # 文件:TOHO_TECH_SYMPHONIA封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2d\ns6%3ATOHO_TECH_SYMPHONIA%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2d\ns6%3ATOHO_TECH_SYMPHONIA%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Die_Symphonie_des_AZURES | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Die_Symphonie_des_AZURES | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [TOHO TECH SYMPHONIA](./TOHO_TECH_SYMPHONIA.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
-
-
-
+- [TOHO TECH SYMPHONIA](./TOHO_TECH_SYMPHONIA.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:flower_feat._aki_-_2021_ver.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f5\ns6%3Aflower_feat%2E_aki_-_2021_ver%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f5\ns6%3Aflower_feat%2E_aki_-_2021_ver%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ZYTOKINE | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ ZYTOKINE | 专辑封面 | 封面图片
   
 
 - [flower feat. aki - 2021 ver.](./flower_feat._aki_-_2021_ver..md)
-
-
-
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:THD2死神渡河船桨.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\95\ns6%3ATHD2%E6%AD%BB%E7%A5%9E%E6%B8%A1%E6%B2%B3%E8%88%B9%E6%A1%A8%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\95\ns6%3ATHD2%E6%AD%BB%E7%A5%9E%E6%B8%A1%E6%B2%B3%E8%88%B9%E6%A1%A8%2Epng.html -->
 
 AvalonStudioOfficial
-
-
-
-
 
 
 ---

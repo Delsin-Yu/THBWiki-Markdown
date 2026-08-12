@@ -1,12 +1,8 @@
 # 文件:THD2丰收之摇篮.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\02\ns6%3ATHD2%E4%B8%B0%E6%94%B6%E4%B9%8B%E6%91%87%E7%AF%AE%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\02\ns6%3ATHD2%E4%B8%B0%E6%94%B6%E4%B9%8B%E6%91%87%E7%AF%AE%2Epng.html -->
 
 东方DOTS玩家社群
-
-
-
-
 
 
 ---

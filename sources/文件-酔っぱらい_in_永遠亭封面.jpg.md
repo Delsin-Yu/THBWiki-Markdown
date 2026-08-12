@@ -1,6 +1,6 @@
 # 文件:酔っぱらい_in_永遠亭封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a4\ns6%3A%E9%85%94%E3%81%A3%E3%81%B1%E3%82%89%E3%81%84_in_%E6%B0%B8%E9%81%A0%E4%BA%AD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a4\ns6%3A%E9%85%94%E3%81%A3%E3%81%B1%E3%82%89%E3%81%84_in_%E6%B0%B8%E9%81%A0%E4%BA%AD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 オムチキン | 同人志封面 | 封面图片
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [酔っぱらい in 永遠亭](./酔っぱらい_in_永遠亭.md)  
-该封面包含的角色：- [蓬莱山辉夜](./蓬莱山辉夜.md)- [藤原妹红](./藤原妹红.md)
-
-
-
+- [酔っぱらい in 永遠亭](./酔っぱらい_in_永遠亭.md)该封面包含的角色：
+- [蓬莱山辉夜](./蓬莱山辉夜.md)
+- [藤原妹红](./藤原妹红.md)
 
 
 ---

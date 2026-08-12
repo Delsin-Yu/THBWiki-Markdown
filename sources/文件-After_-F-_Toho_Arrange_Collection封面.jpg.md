@@ -1,6 +1,6 @@
 # 文件:After_"F"_Toho_Arrange_Collection封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\03\ns6%3AAfter_%22F%22_Toho_Arrange_Collection%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\03\ns6%3AAfter_%22F%22_Toho_Arrange_Collection%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Digitalic_Party | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Digitalic_Party | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [After "F" Toho Arrange Collection](./After_-F-_Toho_Arrange_Collection.md)  
-该封面包含的角色：- [灵乌路空](./灵乌路空.md)
-
-
-
+- [After "F" Toho Arrange Collection](./After_-F-_Toho_Arrange_Collection.md)该封面包含的角色：
+- [灵乌路空](./灵乌路空.md)
 
 
 ---

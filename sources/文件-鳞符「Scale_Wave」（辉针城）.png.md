@@ -1,12 +1,8 @@
 # 文件:鳞符「Scale_Wave」（辉针城）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e0\ns6%3A%E9%B3%9E%E7%AC%A6%E3%80%8CScale_Wave%E3%80%8D%EF%BC%88%E8%BE%89%E9%92%88%E5%9F%8E%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e0\ns6%3A%E9%B3%9E%E7%AC%A6%E3%80%8CScale_Wave%E3%80%8D%EF%BC%88%E8%BE%89%E9%92%88%E5%9F%8E%EF%BC%89%2Epng.html -->
 
 东方辉针城 | 敌机符卡 | 若鹭姬
-
-
-
-
 
 
 ---

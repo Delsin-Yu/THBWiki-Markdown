@@ -1,6 +1,6 @@
 # 文件:nyannyan_gensokyo封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\78\ns6%3Anyannyan_gensokyo%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\78\ns6%3Anyannyan_gensokyo%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 kuronecoarts | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@ kuronecoarts | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [nyannyan gensokyo](./nyannyan_gensokyo.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)
-
-
-
+- [nyannyan gensokyo](./nyannyan_gensokyo.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
 
 
 ---

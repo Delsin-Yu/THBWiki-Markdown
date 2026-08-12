@@ -1,45 +1,40 @@
 # ELECTRIC_GARDEN_typeA
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\7\7b\ns0%3AELECTRIC_GARDEN_typeA.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\7\7b\ns0%3AELECTRIC_GARDEN_typeA.html -->
 
 2018年4月29日 由 TatshMusicCircle 于 M3-2018春 发布的全长同人专辑，曲目主要风格是 其他电子，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人专辑 (未找到链接)** 的词条
-
+**[二次创作同人专辑](./二次创作.md#同人音乐)**的词条
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-ELECTRIC_GARDEN_typeA封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/8/8d/ELECTRIC_GARDEN_typeA%E5%B0%81%E9%9D%A2.jpg/280px-ELECTRIC_GARDEN_typeA%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="280" height="278" srcset="https://upload.thwiki.cc/8/8d/ELECTRIC_GARDEN_typeA%E5%B0%81%E9%9D%A2.jpg 1.5x" data-file-width="320" data-file-height="318"></a></td>
 </tr><tr><td class="label">名称</td><td colspan="2"> ELECTRIC GARDEN </td></tr><tr><td class="label">制作方</td><td><a href="./TatshMusicCircle.md" title="TatshMusicCircle">TatshMusicCircle</a></td><td class="cover-artwork" rowspan="10" style="min-width:280px;"><a href="./文件-ELECTRIC_GARDEN_typeA封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/8/8d/ELECTRIC_GARDEN_typeA%E5%B0%81%E9%9D%A2.jpg/280px-ELECTRIC_GARDEN_typeA%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="280" height="278" srcset="https://upload.thwiki.cc/8/8d/ELECTRIC_GARDEN_typeA%E5%B0%81%E9%9D%A2.jpg 1.5x" data-file-width="320" data-file-height="318"></a></td>
-</tr><tr><td class="label">首发日期</td><td>2018-04-29&#160;（<a href="/展会作品列表?e=M3%2341">M3-2018春</a>）</td></tr><tr><td class="label">类型</td><td>全长</td></tr><tr><td class="label">编号</td><td>TMCCD-031A</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>8</td></tr><tr><td class="label">总时长</td><td>32:39</td></tr><tr><td class="label">风格类型</td><td>其他电子</td></tr><tr><td class="label">售价</td><td>会场售价：1000日元<br>通贩售价：1548日元含税</td></tr>
+</tr><tr><td class="label">首发日期</td><td>2018-04-29 （<a href="./展会作品列表.md#41">M3-2018春</a>）</td></tr><tr><td class="label">类型</td><td>全长</td></tr><tr><td class="label">编号</td><td>TMCCD-031A</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>8</td></tr><tr><td class="label">总时长</td><td>32:39</td></tr><tr><td class="label">风格类型</td><td>其他电子</td></tr><tr><td class="label">售价</td><td>会场售价：1000日元<br>通贩售价：1548日元含税</td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://yaplog.jp/tatsh_blog/archive/693">http://yaplog.jp/tatsh_blog/archive/693</a></td></tr></tbody></table>
 
 ELECTRIC GARDEN typeA（同人专辑，TatshMusicCircle，2018） - 2018年4月29日 由 TatshMusicCircle 于 M3-2018春 发布的全长同人专辑，曲目主要风格是 其他电子，分级为 一般向
-
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">授权代理</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=353197">蜜瓜</a></td></tr></tbody></table>
-
 
 
 ## Staff
   
- **Compose**   
+**Compose**  
 
-<table><tbody><tr><td><a href="./DJ_MURASAME.md" class="mw-redirect" title="DJ MURASAME">DJ MURASAME</a></td><td><a href="./TatshMusicCircle.md" title="TatshMusicCircle">TatshMusicCircle</a></td><td>Tr.2/5/7/8</td></tr></tbody></table>
-
-  
- **Arrangement**   
-
-<table><tbody><tr><td><a href="./DJ_MURASAME.md" class="mw-redirect" title="DJ MURASAME">DJ MURASAME</a></td><td><a href="./TatshMusicCircle.md" title="TatshMusicCircle">TatshMusicCircle</a></td><td>Tr.1/3/4/6</td></tr></tbody></table>
+<table><tbody><tr><td><a href="./Tatsh.md" class="mw-redirect" title="DJ MURASAME">DJ MURASAME</a></td><td><a href="./TatshMusicCircle.md" title="TatshMusicCircle">TatshMusicCircle</a></td><td>Tr.2/5/7/8</td></tr></tbody></table>
 
   
- **Vocal**   
+**Arrangement**  
+
+<table><tbody><tr><td><a href="./Tatsh.md" class="mw-redirect" title="DJ MURASAME">DJ MURASAME</a></td><td><a href="./TatshMusicCircle.md" title="TatshMusicCircle">TatshMusicCircle</a></td><td>Tr.1/3/4/6</td></tr></tbody></table>
+
+  
+**Vocal**  
 
 <table><tbody><tr><td><a href="./小田ユウ.md" title="小田ユウ">小田ユウ</a></td><td></td><td>Tr.5</td></tr></tbody></table>
 
-
 Illustration
 : AO （[LAZWARD](http://aonoe.blogspot.hk/)）
-
 
 ## 试听
 
@@ -53,18 +48,16 @@ Illustration
 </td></tr></tbody></table>
 
 
-
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYL"><b>01</b></td><td id="Awake,Speedy_-LongMix-" colspan="2" class="title">Awake,Speedy -LongMix-<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=DJ MURASAME&amp;ogmusic=Awake,Speedy&amp;fromwiki=ELECTRIC_GARDEN_typeA"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:32</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./DJ_MURASAME.md" class="mw-redirect" title="DJ MURASAME">DJ MURASAME</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，DJ MURASAME&amp;fromwiki=ELECTRIC_GARDEN_typeA"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=Awake,Speedy&amp;fromwiki=ELECTRIC_GARDEN_typeA"><span></span></a></span><div class="ogmusic">Awake,Speedy</div><div class="source">crossbeats REV.SUNRiSE</div></td></tr>
-<tr><td id="2" class="infoYL"><b>02</b></td><td id="NewASIA" colspan="2" class="title">NewASIA<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=DJ MURASAME&amp;fromwiki=ELECTRIC_GARDEN_typeA"><span title="搜索相似同人曲"></span></a></span></td><td class="time">05:47</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./DJ_MURASAME.md" class="mw-redirect" title="DJ MURASAME">DJ MURASAME</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，DJ MURASAME&amp;fromwiki=ELECTRIC_GARDEN_typeA"><span></span></a></span></td></tr>
-<tr><td id="3" class="infoYD"><b>03</b></td><td id="キャプテン・ムラサメ" colspan="2" class="title">キャプテン・ムラサメ<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=DJ MURASAME&amp;ogmusic=幽霊客船の時空を越えた旅&amp;fromwiki=ELECTRIC_GARDEN_typeA"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:44</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./DJ_MURASAME.md" class="mw-redirect" title="DJ MURASAME">DJ MURASAME</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，DJ MURASAME&amp;fromwiki=ELECTRIC_GARDEN_typeA"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">初发布</td><td class="text" colspan="2"><a href="/FAR_EAST_OF_EAST_V_-%E6%9D%B1%E6%96%B9%E5%A4%A7%E6%B8%85%E6%8E%83-#7" title="FAR EAST OF EAST V -東方大清掃-">キャプテン・ムラサメ</a><div class="source"><a href="./FAR_EAST_OF_EAST_V_-東方大清掃-.md" title="FAR EAST OF EAST V -東方大清掃-">FAR EAST OF EAST V -東方大清掃-</a></div></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=幽霊客船の時空を越えた旅&amp;fromwiki=ELECTRIC_GARDEN_typeA"><span></span></a></span><div class="ogmusic"><a href="./幽霊客船の時空を越えた旅.md" class="mw-redirect" title="幽霊客船の時空を越えた旅">幽霊客船の時空を越えた旅</a></div><div class="source"><a href="./东方星莲船_～_Undefined_Fantastic_Object..md" class="mw-redirect" title="东方星莲船 ～ Undefined Fantastic Object.">东方星莲船　～ Undefined Fantastic Object.</a></div></td></tr>
-<tr><td id="4" class="infoYL"><b>04</b></td><td id="TECHNO_COMPLEX_-LongMix-" colspan="2" class="title">TECHNO COMPLEX -LongMix-<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=DJ MURASAME&amp;ogmusic=TECHNO COMPLEX&amp;fromwiki=ELECTRIC_GARDEN_typeA"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:56</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./DJ_MURASAME.md" class="mw-redirect" title="DJ MURASAME">DJ MURASAME</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，DJ MURASAME&amp;fromwiki=ELECTRIC_GARDEN_typeA"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=TECHNO COMPLEX&amp;fromwiki=ELECTRIC_GARDEN_typeA"><span></span></a></span><div class="ogmusic">TECHNO COMPLEX</div><div class="source">GROOVE COASTER 3EX DREAM PARTY</div></td></tr>
-<tr><td id="5" class="infoRL"><b>05</b></td><td id="Tropics_feat.小田ユウ" colspan="2" class="title">Tropics　feat.小田ユウ<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=DJ MURASAME&amp;vocal=小田ユウ&amp;fromwiki=ELECTRIC_GARDEN_typeA"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:49</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./DJ_MURASAME.md" class="mw-redirect" title="DJ MURASAME">DJ MURASAME</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，DJ MURASAME&amp;fromwiki=ELECTRIC_GARDEN_typeA"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="./小田ユウ.md" title="小田ユウ">小田ユウ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=小田ユウ&amp;fromwiki=ELECTRIC_GARDEN_typeA"><span></span></a></span></td></tr>
-<tr><td id="6" class="infoYD"><b>06</b></td><td id="瞬甲" colspan="2" class="title">瞬甲<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=DJ MURASAME&amp;ogmusic=門前の妖怪小娘&amp;fromwiki=ELECTRIC_GARDEN_typeA"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:37</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./DJ_MURASAME.md" class="mw-redirect" title="DJ MURASAME">DJ MURASAME</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，DJ MURASAME&amp;fromwiki=ELECTRIC_GARDEN_typeA"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">初发布</td><td class="text" colspan="2"><a href="/FAR_EAST_OF_EAST_VI#7" title="FAR EAST OF EAST VI">瞬甲-DJ MURASAME TEKK MIX-</a><div class="source"><a href="./FAR_EAST_OF_EAST_VI.md" title="FAR EAST OF EAST VI">FAR EAST OF EAST VI</a></div></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=門前の妖怪小娘&amp;fromwiki=ELECTRIC_GARDEN_typeA"><span></span></a></span><div class="ogmusic"><a href="./門前の妖怪小娘.md" class="mw-redirect" title="門前の妖怪小娘">門前の妖怪小娘</a></div><div class="source"><a href="./东方神灵庙_～_Ten_Desires..md" class="mw-redirect" title="东方神灵庙 ～ Ten Desires.">东方神灵庙　～ Ten Desires.</a></div></td></tr>
-<tr><td id="7" class="infoYL"><b>07</b></td><td id="IMAGINARY_DAY" colspan="2" class="title">IMAGINARY DAY<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=DJ MURASAME&amp;fromwiki=ELECTRIC_GARDEN_typeA"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:14</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./DJ_MURASAME.md" class="mw-redirect" title="DJ MURASAME">DJ MURASAME</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，DJ MURASAME&amp;fromwiki=ELECTRIC_GARDEN_typeA"><span></span></a></span></td></tr>
-<tr><td id="8" class="infoYL"><b>08</b></td><td id="ELECTRICE_GARDEN_-ZenhanMix-" colspan="2" class="title">ELECTRICE GARDEN -ZenhanMix-<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=DJ MURASAME&amp;fromwiki=ELECTRIC_GARDEN_typeA"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./DJ_MURASAME.md" class="mw-redirect" title="DJ MURASAME">DJ MURASAME</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，DJ MURASAME&amp;fromwiki=ELECTRIC_GARDEN_typeA"><span></span></a></span></td></tr></tbody></table>
-
+<table><tbody><tr><td id="1" class="infoYL"><b>01</b></td><td id="Awake,Speedy_-LongMix-" colspan="2" class="title">Awake,Speedy -LongMix-</td><td class="time">04:32</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Tatsh.md" class="mw-redirect" title="DJ MURASAME">DJ MURASAME</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic">Awake,Speedy</div><div class="source">crossbeats REV.SUNRiSE</div></td></tr>
+<tr><td id="2" class="infoYL"><b>02</b></td><td id="NewASIA" colspan="2" class="title">NewASIA</td><td class="time">05:47</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./Tatsh.md" class="mw-redirect" title="DJ MURASAME">DJ MURASAME</a></td></tr>
+<tr><td id="3" class="infoYD"><b>03</b></td><td id="キャプテン・ムラサメ" colspan="2" class="title">キャプテン・ムラサメ</td><td class="time">04:44</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Tatsh.md" class="mw-redirect" title="DJ MURASAME">DJ MURASAME</a></td></tr><tr><td class="left"></td><td class="label">初发布</td><td class="text" colspan="2"><a href="./FAR_EAST_OF_EAST_V_-東方大清掃-.md#7" title="FAR EAST OF EAST V -東方大清掃-">キャプテン・ムラサメ</a><div class="source"><a href="./FAR_EAST_OF_EAST_V_-東方大清掃-.md" title="FAR EAST OF EAST V -東方大清掃-">FAR EAST OF EAST V -東方大清掃-</a></div></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./幽灵客船的穿越时空之旅.md" class="mw-redirect" title="幽霊客船の時空を越えた旅">幽霊客船の時空を越えた旅</a></div><div class="source"><a href="./东方星莲船.md" class="mw-redirect" title="东方星莲船 ～ Undefined Fantastic Object.">东方星莲船　～ Undefined Fantastic Object.</a></div></td></tr>
+<tr><td id="4" class="infoYL"><b>04</b></td><td id="TECHNO_COMPLEX_-LongMix-" colspan="2" class="title">TECHNO COMPLEX -LongMix-</td><td class="time">03:56</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Tatsh.md" class="mw-redirect" title="DJ MURASAME">DJ MURASAME</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic">TECHNO COMPLEX</div><div class="source">GROOVE COASTER 3EX DREAM PARTY</div></td></tr>
+<tr><td id="5" class="infoRL"><b>05</b></td><td id="Tropics_feat.小田ユウ" colspan="2" class="title">Tropics　feat.小田ユウ</td><td class="time">04:49</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./Tatsh.md" class="mw-redirect" title="DJ MURASAME">DJ MURASAME</a></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="./小田ユウ.md" title="小田ユウ">小田ユウ</a></td></tr>
+<tr><td id="6" class="infoYD"><b>06</b></td><td id="瞬甲" colspan="2" class="title">瞬甲</td><td class="time">04:37</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Tatsh.md" class="mw-redirect" title="DJ MURASAME">DJ MURASAME</a></td></tr><tr><td class="left"></td><td class="label">初发布</td><td class="text" colspan="2"><a href="./FAR_EAST_OF_EAST_VI.md#7" title="FAR EAST OF EAST VI">瞬甲-DJ MURASAME TEKK MIX-</a><div class="source"><a href="./FAR_EAST_OF_EAST_VI.md" title="FAR EAST OF EAST VI">FAR EAST OF EAST VI</a></div></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./门前的妖怪小姑娘.md" class="mw-redirect" title="門前の妖怪小娘">門前の妖怪小娘</a></div><div class="source"><a href="./东方神灵庙.md" class="mw-redirect" title="东方神灵庙 ～ Ten Desires.">东方神灵庙　～ Ten Desires.</a></div></td></tr>
+<tr><td id="7" class="infoYL"><b>07</b></td><td id="IMAGINARY_DAY" colspan="2" class="title">IMAGINARY DAY</td><td class="time">04:14</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./Tatsh.md" class="mw-redirect" title="DJ MURASAME">DJ MURASAME</a></td></tr>
+<tr><td id="8" class="infoYL"><b>08</b></td><td id="ELECTRICE_GARDEN_-ZenhanMix-" colspan="2" class="title">ELECTRICE GARDEN -ZenhanMix-</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./Tatsh.md" class="mw-redirect" title="DJ MURASAME">DJ MURASAME</a></td></tr></tbody></table>
 
 
 ## 评论
@@ -74,14 +67,6 @@ Illustration
   
 该专辑有两种版本，封面没有人物的，以及封面人物是[GROOVE COASTER](./GROOVE_COASTER.md)收录曲目[TECHNO COMPLEX](http://groovecoaster.jp/music/490-techno_complex.html)以及[聖者の覚醒](http://groovecoaster.jp/music/552-seija-no-kakusei.html)的封面人物Xenoa（ゼノア）的[ELECTRIC GARDEN typeB](./ELECTRIC_GARDEN_typeB.md)。两种版本除了封面和设计不同之外，最后一首曲目ELECTRIC GARDEN的编曲版本也不同。
   
-  
-  
-
-  
-
-
-
-
 
 ---
 

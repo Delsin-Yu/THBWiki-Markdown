@@ -1,12 +1,8 @@
 # 文件:脱ﾄ屋banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\06\ns6%3A%E8%84%B1%EF%BE%84%E5%B1%8Bbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\06\ns6%3A%E8%84%B1%EF%BE%84%E5%B1%8Bbanner%2Epng.html -->
 
 社团LOGO | 脱ﾄ屋
-
-
-
-
 
 
 ---

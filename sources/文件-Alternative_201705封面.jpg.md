@@ -1,6 +1,6 @@
 # 文件:Alternative_201705封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\71\ns6%3AAlternative_201705%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\71\ns6%3AAlternative_201705%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 SYNC.ART'S | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ SYNC.ART'S | 专辑封面 | 封面图片
   
 
 - [Alternative 201705](./Alternative_201705.md)
-
-
-
 
 
 ---

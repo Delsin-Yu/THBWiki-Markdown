@@ -1,12 +1,8 @@
 # 文件:se_changeitem.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ab\ns6%3Ase_changeitem%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ab\ns6%3Ase_changeitem%2Emp3.html -->
 
 游戏音效
-
-
-
-
 
 
 ---

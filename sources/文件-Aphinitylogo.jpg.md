@@ -1,18 +1,13 @@
 # 文件:Aphinitylogo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\22\ns6%3AAphinitylogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\22\ns6%3AAphinitylogo%2Ejpg.html -->
 
 Aphinity | 社团LOGO
 
 
 ## 摘要
   
-源地址：[direct image link (original size)](https://i1.sndcdn.com/avatars-IqdH7rOtJ2ppQU83-pWrVHg-original.jpg), [source page (Soundcloud avatar)](https://soundcloud.com/aphinitymusic)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://i1.sndcdn.com/avatars-IqdH7rOtJ2ppQU83-pWrVHg-original.jpg), [source page (Soundcloud avatar)](https://soundcloud.com/aphinitymusic)  
 
 ---
 

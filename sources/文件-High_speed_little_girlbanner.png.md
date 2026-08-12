@@ -1,16 +1,11 @@
 # 文件:High_speed_little_girlbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ef\ns6%3AHigh_speed_little_girlbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ef\ns6%3AHigh_speed_little_girlbanner%2Epng.html -->
 
 High_speed_little_girl | 社团LOGO
 
   
-源地址：[[1]](http://hslg.web.fc2.com/images/banner.png)
-  
-
-
-
-
+源地址：[\[1\]](http://hslg.web.fc2.com/images/banner.png)  
 
 ---
 

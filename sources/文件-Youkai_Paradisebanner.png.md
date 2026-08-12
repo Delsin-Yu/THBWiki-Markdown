@@ -1,12 +1,8 @@
 # 文件:Youkai_Paradisebanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\05\ns6%3AYoukai_Paradisebanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\05\ns6%3AYoukai_Paradisebanner%2Epng.html -->
 
 Youkai_Paradise | 社团LOGO
-
-
-
-
 
 
 ---

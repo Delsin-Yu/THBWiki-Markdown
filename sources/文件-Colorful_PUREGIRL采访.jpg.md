@@ -1,12 +1,8 @@
 # 文件:Colorful_PUREGIRL采访.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f0\ns6%3AColorful_PUREGIRL%E9%87%87%E8%AE%BF%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f0\ns6%3AColorful_PUREGIRL%E9%87%87%E8%AE%BF%2Ejpg.html -->
 
 Colorful_PUREGIRL | ZUN
-
-
-
-
 
 
 ---

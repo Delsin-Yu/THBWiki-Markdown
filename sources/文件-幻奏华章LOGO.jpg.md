@@ -1,14 +1,11 @@
 # 文件:幻奏华章LOGO.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\90\ns6%3A%E5%B9%BB%E5%A5%8F%E5%8D%8E%E7%AB%A0LOGO%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\90\ns6%3A%E5%B9%BB%E5%A5%8F%E5%8D%8E%E7%AB%A0LOGO%2Ejpg.html -->
 
 幻奏华章·华彩的民族音乐会 | 活动LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

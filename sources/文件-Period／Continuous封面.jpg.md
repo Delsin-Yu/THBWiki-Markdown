@@ -1,6 +1,6 @@
 # 文件:Period／Continuous封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cd\ns6%3APeriod%EF%BC%8FContinuous%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cd\ns6%3APeriod%EF%BC%8FContinuous%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 赤黄色向日葵
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Period／Continuous](./Period／Continuous.md)  
-该封面包含的角色：- [娜兹玲](./娜兹玲.md)
-
-
-
+- [Period／Continuous](./Period／Continuous.md)该封面包含的角色：
+- [娜兹玲](./娜兹玲.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Pの奇行録封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\34\ns6%3AP%E3%81%AE%E5%A5%87%E8%A1%8C%E9%8C%B2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\34\ns6%3AP%E3%81%AE%E5%A5%87%E8%A1%8C%E9%8C%B2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ゆむしえん | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Pの奇行録](./Pの奇行録.md)  
-该封面包含的角色：- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
-
-
-
+- [Pの奇行録](./Pの奇行録.md)该封面包含的角色：
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
 
 
 ---

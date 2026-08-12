@@ -1,12 +1,8 @@
 # 文件:√_8_BEATbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\90\ns6%3A%E2%88%9A_8_BEATbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\90\ns6%3A%E2%88%9A_8_BEATbanner%2Epng.html -->
 
 √_8_BEAT | 社团LOGO
-
-
-
-
 
 
 ---

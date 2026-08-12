@@ -1,12 +1,8 @@
 # 文件:细索「犍陀多绳索」（DS文花帖）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\99\ns6%3A%E7%BB%86%E7%B4%A2%E3%80%8C%E7%8A%8D%E9%99%80%E5%A4%9A%E7%BB%B3%E7%B4%A2%E3%80%8D%EF%BC%88DS%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\99\ns6%3A%E7%BB%86%E7%B4%A2%E3%80%8C%E7%8A%8D%E9%99%80%E5%A4%9A%E7%BB%B3%E7%B4%A2%E3%80%8D%EF%BC%88DS%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Ejpg.html -->
 
 东方文花帖DS | 敌机符卡 | 黑谷山女
-
-
-
-
 
 
 ---

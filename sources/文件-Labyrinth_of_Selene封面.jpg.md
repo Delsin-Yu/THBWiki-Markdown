@@ -1,6 +1,6 @@
 # 文件:Labyrinth_of_Selene封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c8\ns6%3ALabyrinth_of_Selene%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c8\ns6%3ALabyrinth_of_Selene%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Kissing_the_Mirror | LA_KIA | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Kissing_the_Mirror | LA_KIA | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Labyrinth of Selene](./Labyrinth_of_Selene.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)
+- [Labyrinth of Selene](./Labyrinth_of_Selene.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
 
   
-源地址：[[1]](http://kissingthemirror.com/disco/aod026/img/aod026_j_s.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://kissingthemirror.com/disco/aod026/img/aod026_j_s.jpg)  
 
 ---
 

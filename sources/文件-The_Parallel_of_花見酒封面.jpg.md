@@ -1,6 +1,6 @@
 # 文件:The_Parallel_of_花見酒封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e6\ns6%3AThe_Parallel_of_%E8%8A%B1%E8%A6%8B%E9%85%92%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e6\ns6%3AThe_Parallel_of_%E8%8A%B1%E8%A6%8B%E9%85%92%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Nostalgic_Crescent | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ Nostalgic_Crescent | 专辑封面 | 封面图片
   
 
 - [The Parallel of 花見酒](./The_Parallel_of_花見酒.md)
-
-
-
 
 
 ---

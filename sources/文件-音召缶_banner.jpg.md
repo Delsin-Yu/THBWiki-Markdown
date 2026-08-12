@@ -1,12 +1,8 @@
 # 文件:音召缶_banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\df\ns6%3A%E9%9F%B3%E5%8F%AC%E7%BC%B6_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\df\ns6%3A%E9%9F%B3%E5%8F%AC%E7%BC%B6_banner%2Ejpg.html -->
 
 社团LOGO | 音召缶
-
-
-
-
 
 
 ---

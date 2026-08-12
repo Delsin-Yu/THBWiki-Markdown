@@ -1,6 +1,6 @@
 # 文件:Blue（同人视频）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f9\ns6%3ABlue%EF%BC%88%E5%90%8C%E4%BA%BA%E8%A7%86%E9%A2%91%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f9\ns6%3ABlue%EF%BC%88%E5%90%8C%E4%BA%BA%E8%A7%86%E9%A2%91%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Liz_Triangle | 封面图片 | 视频封面
 
@@ -8,11 +8,15 @@ Liz_Triangle | 封面图片 | 视频封面
 使用了本文件作封面图片的作品：
   
 
-- [Blue（同人视频）](./Blue（同人视频）.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)- [露米娅](./露米娅.md)- [东风谷早苗](./东风谷早苗.md)- [圣白莲](./圣白莲.md)- [秦心](./秦心.md)- [少名针妙丸](./少名针妙丸.md)- [克劳恩皮丝](./克劳恩皮丝.md)
-
-
-
+- [Blue（同人视频）](./Blue（同人视频）.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
+- [露米娅](./露米娅.md)
+- [东风谷早苗](./东风谷早苗.md)
+- [圣白莲](./圣白莲.md)
+- [秦心](./秦心.md)
+- [少名针妙丸](./少名针妙丸.md)
+- [克劳恩皮丝](./克劳恩皮丝.md)
 
 
 ---

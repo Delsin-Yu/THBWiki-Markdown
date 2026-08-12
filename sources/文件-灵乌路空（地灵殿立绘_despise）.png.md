@@ -1,12 +1,8 @@
 # 文件:灵乌路空（地灵殿立绘_despise）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e5\ns6%3A%E7%81%B5%E4%B9%8C%E8%B7%AF%E7%A9%BA%EF%BC%88%E5%9C%B0%E7%81%B5%E6%AE%BF%E7%AB%8B%E7%BB%98_despise%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e5\ns6%3A%E7%81%B5%E4%B9%8C%E8%B7%AF%E7%A9%BA%EF%BC%88%E5%9C%B0%E7%81%B5%E6%AE%BF%E7%AB%8B%E7%BB%98_despise%EF%BC%89%2Epng.html -->
 
 ZUN绘 | 东方地灵殿 | 官方游戏立绘 | 灵乌路空
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Revery~The_prelude~封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\09\ns6%3ARevery%7EThe_prelude%7E%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\09\ns6%3ARevery%7EThe_prelude%7E%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 La_Sonotasia | 专辑封面 | 封面图片
 
@@ -10,11 +10,9 @@ La_Sonotasia | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Revery~The prelude~](./Revery~The_prelude~.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [河城荷取](./河城荷取.md)
-
-
-
+- [Revery~The prelude~](./Revery~The_prelude~.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [河城荷取](./河城荷取.md)
 
 
 ---

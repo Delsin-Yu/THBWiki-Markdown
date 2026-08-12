@@ -1,6 +1,6 @@
 # 文件:Fantasising_Death封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\59\ns6%3AFantasising_Death%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\59\ns6%3AFantasising_Death%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Alchemists'_Revenge | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Alchemists'_Revenge | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Fantasising Death](./Fantasising_Death.md)  
-该封面包含的角色：- [灵乌路空](./灵乌路空.md)
-
-
-
+- [Fantasising Death](./Fantasising_Death.md)该封面包含的角色：
+- [灵乌路空](./灵乌路空.md)
 
 
 ---

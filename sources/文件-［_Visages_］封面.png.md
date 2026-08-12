@@ -1,6 +1,6 @@
 # 文件:［_Visages_］封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3a\ns6%3A%EF%BC%BB_Visages_%EF%BC%BD%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3a\ns6%3A%EF%BC%BB_Visages_%EF%BC%BD%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Ecriss | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Ecriss | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [［ Visages ］](./［_Visages_］.md)  
-该封面包含的角色：- 原创角色 (未找到链接)
-
-
-
+- [［ Visages ］](./［_Visages_］.md)该封面包含的角色：
+- 原创角色 (未找到链接)
 
 
 ---

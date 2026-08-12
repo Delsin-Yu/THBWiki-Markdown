@@ -1,14 +1,11 @@
 # 文件:月面着陸ファージbanner2.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\65\ns6%3A%E6%9C%88%E9%9D%A2%E7%9D%80%E9%99%B8%E3%83%95%E3%82%A1%E3%83%BC%E3%82%B8banner2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\65\ns6%3A%E6%9C%88%E9%9D%A2%E7%9D%80%E9%99%B8%E3%83%95%E3%82%A1%E3%83%BC%E3%82%B8banner2%2Epng.html -->
 
 月面着陸ファージ | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:結界戦線EX_-オカルト・オブジェクト-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\38\ns6%3A%E7%B5%90%E7%95%8C%E6%88%A6%E7%B7%9AEX_-%E3%82%AA%E3%82%AB%E3%83%AB%E3%83%88%E3%83%BB%E3%82%AA%E3%83%96%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\38\ns6%3A%E7%B5%90%E7%95%8C%E6%88%A6%E7%B7%9AEX_-%E3%82%AA%E3%82%AB%E3%83%AB%E3%83%88%E3%83%BB%E3%82%AA%E3%83%96%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 白上さん家
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [結界戦線EX -オカルト・オブジェクト-](./結界戦線EX_-オカルト・オブジェクト-.md)  
-该封面包含的角色：- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [結界戦線EX -オカルト・オブジェクト-](./結界戦線EX_-オカルト・オブジェクト-.md)该封面包含的角色：
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

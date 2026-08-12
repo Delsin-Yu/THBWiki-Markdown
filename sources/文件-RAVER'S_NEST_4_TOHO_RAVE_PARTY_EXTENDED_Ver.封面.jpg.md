@@ -1,6 +1,6 @@
 # 文件:RAVER'S_NEST_4_TOHO_RAVE_PARTY_EXTENDED_Ver.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e5\ns6%3ARAVER%27S_NEST_4_TOHO_RAVE_PARTY_EXTENDED_Ver%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e5\ns6%3ARAVER%27S_NEST_4_TOHO_RAVE_PARTY_EXTENDED_Ver%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 DiGiTAL_WiNG | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ DiGiTAL_WiNG | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [RAVER'S NEST 4 TOHO RAVE PARTY EXTENDED Ver.](./RAVER'S_NEST_4_TOHO_RAVE_PARTY_EXTENDED_Ver..md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
-
-
-
+- [RAVER'S NEST 4 TOHO RAVE PARTY EXTENDED Ver.](./RAVER'S_NEST_4_TOHO_RAVE_PARTY_EXTENDED_Ver..md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
 
 ---

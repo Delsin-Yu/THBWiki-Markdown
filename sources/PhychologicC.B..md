@@ -1,35 +1,28 @@
 # PhychologicC.B.
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\8\8b\ns0%3APhychologicC%2EB%2E.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\8\8b\ns0%3APhychologicC%2EB%2E.html -->
 
 PhychologicC.B. ，主要制作 同人音乐，同人动画 的日本同人社团，主催是 新那涼，当前状态为 休止
 
-本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
-
+本页是关于**[同人社团](./二次创作.md#同人社团)**的词条
 ## 目录
 
 - [1 社团信息](#社团信息)
 - [2 成员名单](#成员名单)
 - [3 作品列表](#作品列表)
-
   - [3.1 同人专辑](#同人专辑)
-
 
 
 - [4 参展信息](#参展信息)
 
 
-
-
-
 ## 社团信息
-文件:PhychologicC.B.banner.jpg (未找到链接)  banner
-
-<table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> PhychologicC.B. </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐，同人动画</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=%E6%96%B0%E9%82%A3%E6%B6%BC&amp;action=edit&amp;redlink=1" class="new" title="新那涼（页面不存在）">新那涼</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr></tbody></table>
+文件:PhychologicC.B.banner.jpg (未找到链接) banner
+<table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> PhychologicC.B. </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐，同人动画</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>主催</b></td><td> <a class="new" title="新那涼（页面不存在）">新那涼</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr></tbody></table>
 
 PhychologicC.B.（同人社团，同人音乐社团，同人动画社团） - PhychologicC.B. ，主要制作 同人音乐，同人动画 的日本同人社团，主催是 新那涼，当前状态为 休止
-
 ## 成员名单
+
 - 新那涼 (未找到链接)
 - FUYUKKY (未找到链接)：Camera
 - きりん (未找到链接)
@@ -43,18 +36,10 @@ PhychologicC.B.（同人社团，同人音乐社团，同人动画社团） - Ph
 ## 作品列表
 
 ### 同人专辑
-[](./myth_mint・体験版.md)[myth mint・体験版](./myth_mint・体験版.md)首发日期：未知 Demo （一般向）[](./Ich-psychologie_und_Anpassungs_probleme.md)[Ich-psychologie und Anpassungs probleme](./Ich-psychologie_und_Anpassungs_probleme.md)首发日期：未知 EP （一般向）
-<table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
-
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
-</table>
-
-
+- **[myth mint・体験版](./myth_mint・体験版.md)** — 首发日期：未知；Demo （一般向）
+- **[Ich-psychologie und Anpassungs probleme](./Ich-psychologie_und_Anpassungs_probleme.md)** — 首发日期：未知；EP （一般向）
 
 ## 参展信息
-
-
-
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:WorkShop_-東方創作界隈DiscordServerCompilation-封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cc\ns6%3AWorkShop_-%E6%9D%B1%E6%96%B9%E5%89%B5%E4%BD%9C%E7%95%8C%E9%9A%88DiscordServerCompilation-%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cc\ns6%3AWorkShop_-%E6%9D%B1%E6%96%B9%E5%89%B5%E4%BD%9C%E7%95%8C%E9%9A%88DiscordServerCompilation-%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 dat_file_records | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ dat_file_records | 专辑封面 | 封面图片
   
 
 - [WorkShop -東方創作界隈DiscordServerCompilation-](./WorkShop_-東方創作界隈DiscordServerCompilation-.md)
-
-
-
 
 
 ---

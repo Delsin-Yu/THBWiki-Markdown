@@ -1,18 +1,13 @@
 # 文件:Skyline_Soundlogo2.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4e\ns6%3ASkyline_Soundlogo2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4e\ns6%3ASkyline_Soundlogo2%2Ejpg.html -->
 
 Skyline_Sound | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[bandcamp avatar](https://f4.bcbits.com/img/0014257807_10.jpg)
-  
-
-
-
-
+源地址：[bandcamp avatar](https://f4.bcbits.com/img/0014257807_10.jpg)  
 
 ---
 

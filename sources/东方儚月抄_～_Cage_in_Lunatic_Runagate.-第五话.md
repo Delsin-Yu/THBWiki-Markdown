@@ -1,43 +1,33 @@
 # 东方儚月抄_～_Cage_in_Lunatic_Runagate./第五话
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\d\d5\ns0%3A%E4%B8%9C%E6%96%B9%E5%84%9A%E6%9C%88%E6%8A%84_%EF%BD%9E_Cage_in_Lunatic_Runagate%2E%2F%E7%AC%AC%E4%BA%94%E8%AF%9D.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\d\d5\ns0%3A%E4%B8%9C%E6%96%B9%E5%84%9A%E6%9C%88%E6%8A%84_%EF%BD%9E_Cage_in_Lunatic_Runagate%2E%2F%E7%AC%AC%E4%BA%94%E8%AF%9D.html -->
 
 东方儚月抄_～_Cage_in_Lunatic_Runagate.
 
 <center>
-
 <table>
 <tbody><tr>
-<td>&lt;
+<td><
 </td>
-<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./东方儚月抄_～_Cage_in_Lunatic_Runagate.-第四话.md" title="东方儚月抄 ～ Cage in Lunatic Runagate./第四话">第四话</a>&#160;
+<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./东方儚月抄_～_Cage_in_Lunatic_Runagate.-第四话.md" title="东方儚月抄 ～ Cage in Lunatic Runagate./第四话">第四话</a> 
 </td>
-<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="./东方儚月抄_～_Cage_in_Lunatic_Runagate..md" title="东方儚月抄 ～ Cage in Lunatic Runagate.">东方儚月抄 ～ Cage in Lunatic Runagate.</a>&#160;
+<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;"> <a href="./东方儚月抄_～_Cage_in_Lunatic_Runagate..md" title="东方儚月抄 ～ Cage in Lunatic Runagate.">东方儚月抄 ～ Cage in Lunatic Runagate.</a> 
 </td>
-<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left">&#160;<a href="./东方儚月抄_～_Cage_in_Lunatic_Runagate.-第六话.md" title="东方儚月抄 ～ Cage in Lunatic Runagate./第六话">第六话</a>
+<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left"> <a href="./东方儚月抄_～_Cage_in_Lunatic_Runagate.-第六话.md" title="东方儚月抄 ～ Cage in Lunatic Runagate./第六话">第六话</a>
 </td>
-<td>&gt;
+<td>>
 </td></tr></tbody></table>
 
   
 </center>
-- 本词条为中文翻译版，如需要日文对照请参见 **[中日对照](./东方儚月抄_～_Cage_in_Lunatic_Runagate.-第五话-中日对照.md)** 
+- 本词条为中文翻译版，如需要日文对照请参见**[中日对照](./东方儚月抄_～_Cage_in_Lunatic_Runagate.-第五话-中日对照.md)**
 - 本话连载时间：2008年6月25日，Chara☆Mel Vol.5
 - 本话于单行本中页数：96-117
 
-  
-  
-
-  
-
-[](./文件-儚月抄小说封面5.jpg.md)  [](./文件-儚月抄小说封面5.jpg.md)
-  
- **<big><big>第五话 自无比低矮的地上</big></big>**   
-
-<big>黑幕·紫终于登场！　第二次月面战争的真意究竟是——！？</big>
-  
-
-
+<img alt="儚月抄小说封面5.jpg" src="https://upload.thwiki.cc/thumb/e/ef/%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E5%B0%81%E9%9D%A25.jpg/200px-%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E5%B0%81%E9%9D%A25.jpg" decoding="async" loading="lazy" width="200" height="281" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/e/ef/%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E5%B0%81%E9%9D%A25.jpg/300px-%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E5%B0%81%E9%9D%A25.jpg 1.5x, https://upload.thwiki.cc/thumb/e/ef/%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E5%B0%81%E9%9D%A25.jpg/400px-%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E5%B0%81%E9%9D%A25.jpg 2x" data-file-width="1422" data-file-height="2000">
+ [放大](./文件-儚月抄小说封面5.jpg.md)  
+**<big><big>第五话 自无比低矮的地上</big></big>**  
+<big>黑幕·紫终于登场！ 第二次月面战争的真意究竟是——！？</big>  
   
 　　正如生活在这个地球之上的所有人都知道的那样，月亮在围绕地球转动的时候总是以同一面朝向地球。所以当你身处地球之上，不管什么时候在任何位置看到的月亮都是一样的。  
 
@@ -99,11 +89,10 @@
 
 　　说是调查，其实就是想让她自己去思考一下。只是调查的话，<ruby><rb>式神</rb><rp> (</rp><rt>电脑</rt><rp>) </rp></ruby>
 也能做到。在外面的世界中，过于依赖式神，仿佛丢了魂一样的人也多了起来。我希望通过给予式神超过式神本分以外的工作，使每天无聊的生活，得到哪怕只有一点点的改善。  
-
   
 
-　　「哈，也行。比起那个，关于吸血鬼的火箭的事……」[](./文件-儚月抄小说插图5-1.jpg.md)  [](./文件-儚月抄小说插图5-1.jpg.md)  
-
+　　「哈，也行。比起那个，关于吸血鬼的火箭的事……」<img alt="儚月抄小说插图5-1.jpg" src="https://upload.thwiki.cc/thumb/a/af/%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE5-1.jpg/200px-%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE5-1.jpg" decoding="async" loading="lazy" width="200" height="141" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/a/af/%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE5-1.jpg/300px-%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE5-1.jpg 1.5x, https://upload.thwiki.cc/thumb/a/af/%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE5-1.jpg/400px-%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE5-1.jpg 2x" data-file-width="1412" data-file-height="992">
+ [放大](./文件-儚月抄小说插图5-1.jpg.md)  
   
 　　——三日月之夜。  
 
@@ -179,7 +168,7 @@
 
 　　「是吗，谢谢了。果然这就是式神的缺点呢。」  
 
-&#160;&#160;&#160;&#160;「嗨？」  
+    「嗨？」  
 
 　　「调查之后立刻就可以得出答案。」  
 
@@ -241,11 +230,10 @@
 　　反之，假如没有了供妖怪袭击的人类的话，妖怪也将丧失自身的存在意义。因此，妖怪虽然袭击人类，但绝不会胡乱捕食。按规定，一般来说不能吃村子里的居民。  
 
 　　「新住下的月之民，没有选择妖怪而是站到了人类那一边。就是说，永远亭那些人选择了人类哦。」  
-
   
 
-　　我随后又加了一句，除去那些兔子呢。那些实在难以冒充人类。[](./文件-儚月抄小说插图5-2.jpg.md)  [](./文件-儚月抄小说插图5-2.jpg.md)  
-
+　　我随后又加了一句，除去那些兔子呢。那些实在难以冒充人类。<img alt="儚月抄小说插图5-2.jpg" src="https://upload.thwiki.cc/thumb/b/bb/%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE5-2.jpg/200px-%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE5-2.jpg" decoding="async" loading="lazy" width="200" height="152" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/b/bb/%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE5-2.jpg/300px-%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE5-2.jpg 1.5x, https://upload.thwiki.cc/thumb/b/bb/%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE5-2.jpg/400px-%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE5-2.jpg 2x" data-file-width="1754" data-file-height="1335">
+ [放大](./文件-儚月抄小说插图5-2.jpg.md)  
   
 　　「人类……吗？那外星人一家子？嗯，虽然不管怎么看我都看不出他们像是人类的样子……」  
 
@@ -374,11 +362,10 @@
 　　「举个……例子对吧？」  
 
 　　「同样的话我不会再重复几遍了。接着这个妖怪又开始寻找突破月之都结界的办法。这个比想象之中还要花费了更多的时间。」  
-
   
 
-　　我开始向目的地移动。蓝急忙跟在我的身后。[](./文件-儚月抄小说插图5-3.jpg.md)  [](./文件-儚月抄小说插图5-3.jpg.md)  
-
+　　我开始向目的地移动。蓝急忙跟在我的身后。<img alt="儚月抄小说插图5-3.jpg" src="https://upload.thwiki.cc/thumb/e/ed/%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE5-3.jpg/200px-%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE5-3.jpg" decoding="async" loading="lazy" width="200" height="245" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/e/ed/%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE5-3.jpg/300px-%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE5-3.jpg 1.5x, https://upload.thwiki.cc/thumb/e/ed/%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE5-3.jpg/400px-%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE5-3.jpg 2x" data-file-width="1320" data-file-height="1616">
+ [放大](./文件-儚月抄小说插图5-3.jpg.md)  
   
 　　「最后妖怪终于找到了突破结界的办法，就在她即将进入的时候，却发现月之民的防御十分坚固，凭借她现在的能力完全无法与之相抗衡，而且强攻也需要花费很多的时间，于是聪明的妖怪决定暂时撤退再想办法。」  
 
@@ -417,11 +404,10 @@
 　　蓝露出一脸难以回答的表情。仿佛在仔细挑选要说出口的话语。虽然她的计算能力非常高，但是对于文字的处理能力似乎还差得很远呢。  
 
 　　「现在……我们不就正在月之贤者所设下的圈套之中吗？如果要到达月之都需要花费很长时间的话，等我们回来的时候我想已经不再是满月之夜了啊。那样一来的话当然就回不去了吧。实际上，要破坏月之都的结界是需要花费很长时间的对吧？」  
-
   
 
-　　「哎呀真讨厌，我竟然一点也没有察觉到。」[](./文件-儚月抄小说插图5-4.jpg.md)  [](./文件-儚月抄小说插图5-4.jpg.md)  
-
+　　「哎呀真讨厌，我竟然一点也没有察觉到。」<img alt="儚月抄小说插图5-4.jpg" src="https://upload.thwiki.cc/thumb/0/02/%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE5-4.jpg/200px-%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE5-4.jpg" decoding="async" loading="lazy" width="200" height="245" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/0/02/%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE5-4.jpg/300px-%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE5-4.jpg 1.5x, https://upload.thwiki.cc/thumb/0/02/%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE5-4.jpg/400px-%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE5-4.jpg 2x" data-file-width="1179" data-file-height="1447">
+ [放大](./文件-儚月抄小说插图5-4.jpg.md)  
   
 　　「拜托不要开这种玩笑啊。现在我们可是身处敌人的领地，稍有判断失误都会引起致命的后果。当然，我想您应该有对策的吧……」  
 
@@ -442,37 +428,32 @@
 　　衰退也好极乐净土也好。不管哪个我都不喜欢。对于我来说都市的喧闹是必不可少的。  
 
 　　这样想着，想到在这宁静的月亮上的某处，吸血鬼们正在引发骚乱，我不禁有点怀念起来。  
-
   
-
- **第五话 自无比低矮的地上 / 完** 
-  
-
-
-
+**第五话 自无比低矮的地上 / 完**  
 [^cite_note-1]: 中文里叫“娥眉月”。
-
+[^cite_note-2]: 火箭上凭依着住吉三神。
+[^cite_note-3]: 中文是“弦月”。
+[^cite_note-4]: 永琳。
+[^cite_note-5]: 参见东方儚月抄 ～ Silent Sinner in Blue.第11话《飞向蔚蓝的宇宙》。
+[^cite_note-6]: 多体问题。三体问题是其特例。关于三体问题，推荐看刘慈欣的《三体》。
+[^cite_note-7]: 式神指电脑。
+[^cite_note-8]: 蓝的这句话，前面是过去时，后面是非过去时。意思你懂的。
 <center>
-
 <table>
 <tbody><tr>
-<td>&lt;
+<td><
 </td>
-<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./东方儚月抄_～_Cage_in_Lunatic_Runagate.-第四话.md" title="东方儚月抄 ～ Cage in Lunatic Runagate./第四话">第四话</a>&#160;
+<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./东方儚月抄_～_Cage_in_Lunatic_Runagate.-第四话.md" title="东方儚月抄 ～ Cage in Lunatic Runagate./第四话">第四话</a> 
 </td>
-<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="./东方儚月抄_～_Cage_in_Lunatic_Runagate..md" title="东方儚月抄 ～ Cage in Lunatic Runagate.">东方儚月抄 ～ Cage in Lunatic Runagate.</a>&#160;
+<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;"> <a href="./东方儚月抄_～_Cage_in_Lunatic_Runagate..md" title="东方儚月抄 ～ Cage in Lunatic Runagate.">东方儚月抄 ～ Cage in Lunatic Runagate.</a> 
 </td>
-<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left">&#160;<a href="./东方儚月抄_～_Cage_in_Lunatic_Runagate.-第六话.md" title="东方儚月抄 ～ Cage in Lunatic Runagate./第六话">第六话</a>
+<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left"> <a href="./东方儚月抄_～_Cage_in_Lunatic_Runagate.-第六话.md" title="东方儚月抄 ～ Cage in Lunatic Runagate./第六话">第六话</a>
 </td>
-<td>&gt;
+<td>>
 </td></tr></tbody></table>
 
   
 </center>
-
-
-
-
 ---
 
 此文档由 [THBWiki-Markdown-Builder](https://github.com/Delsin-Yu/THBWiki-Markdown-Builder) 构建。

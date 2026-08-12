@@ -1,6 +1,6 @@
 # 文件:Bright_Star_～_孤独な月_～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e9\ns6%3ABright_Star_%EF%BD%9E_%E5%AD%A4%E7%8B%AC%E3%81%AA%E6%9C%88_%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e9\ns6%3ABright_Star_%EF%BD%9E_%E5%AD%A4%E7%8B%AC%E3%81%AA%E6%9C%88_%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 L-ZONE | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ L-ZONE | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Bright Star ～ 孤独な月 ～](./Bright_Star_～_孤独な月_～.md)  
-该封面包含的角色：- [今泉影狼](./今泉影狼.md)
-
-
-
+- [Bright Star ～ 孤独な月 ～](./Bright_Star_～_孤独な月_～.md)该封面包含的角色：
+- [今泉影狼](./今泉影狼.md)
 
 
 ---

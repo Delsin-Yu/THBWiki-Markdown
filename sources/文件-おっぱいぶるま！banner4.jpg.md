@@ -1,12 +1,8 @@
 # 文件:おっぱいぶるま！banner4.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\78\ns6%3A%E3%81%8A%E3%81%A3%E3%81%B1%E3%81%84%E3%81%B6%E3%82%8B%E3%81%BE%EF%BC%81banner4%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\78\ns6%3A%E3%81%8A%E3%81%A3%E3%81%B1%E3%81%84%E3%81%B6%E3%82%8B%E3%81%BE%EF%BC%81banner4%2Ejpg.html -->
 
 おっぱいぶるま！ | 社团LOGO
-
-
-
-
 
 
 ---

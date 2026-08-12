@@ -1,12 +1,8 @@
 # 文件:THD2死神之大镰刀.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a9\ns6%3ATHD2%E6%AD%BB%E7%A5%9E%E4%B9%8B%E5%A4%A7%E9%95%B0%E5%88%80%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a9\ns6%3ATHD2%E6%AD%BB%E7%A5%9E%E4%B9%8B%E5%A4%A7%E9%95%B0%E5%88%80%2Epng.html -->
 
 THD2
-
-
-
-
 
 
 ---

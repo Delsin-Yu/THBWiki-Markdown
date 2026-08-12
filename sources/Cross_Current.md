@@ -1,11 +1,10 @@
 # Cross_Current
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\1\1d\ns0%3ACross_Current.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\1\1d\ns0%3ACross_Current.html -->
 
 Cross Current ，于 2010 年成立，主要制作 同人音乐 的日本同人社团，主催是 馬島昇，当前状态为 休止
 
-本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
-
+本页是关于**[同人社团](./二次创作.md#同人社团)**的词条
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -14,33 +13,22 @@ Cross Current ，于 2010 年成立，主要制作 同人音乐 的日本同人�
 - [4 其他信息](#其他信息)
 
 
-
-
-
 ## 社团信息
-[](./文件-Cross_Current_banner.png.md)  [](./文件-Cross_Current_banner.png.md)Banner
-
-<table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Cross Current </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2010</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>主催</b></td><td> <a href="./馬島昇.md" class="mw-redirect" title="馬島昇">馬島昇</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://mose.client.jp/">http://mose.client.jp/</a> <br><a rel="nofollow" class="external free" href="http://www.noboru-mashima.com/">http://www.noboru-mashima.com/</a></td></tr></tbody></table>
+<img alt="" src="https://upload.thwiki.cc/thumb/7/78/Cross_Current_banner.png/200px-Cross_Current_banner.png" decoding="async" loading="lazy" width="200" height="49" class="thumbimage" srcset="https://upload.thwiki.cc/7/78/Cross_Current_banner.png 1.5x" data-file-width="249" data-file-height="61">
+ [放大](./文件-Cross_Current_banner.png.md)Banner
+<table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Cross Current </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2010</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>主催</b></td><td> <a href="./孟世.md" class="mw-redirect" title="馬島昇">馬島昇</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://mose.client.jp/">http://mose.client.jp/</a> <br><a rel="nofollow" class="external free" href="http://www.noboru-mashima.com/">http://www.noboru-mashima.com/</a></td></tr></tbody></table>
 
 Cross Current（同人社团，同人音乐社团） - Cross Current ，于 2010 年成立，主要制作 同人音乐 的日本同人社团，主催是 馬島昇，当前状态为 休止
-
 ## 成员名单
-- [馬島昇](./馬島昇.md)
+
+- [馬島昇](./孟世.md)
 
 
 ## 作品列表
-[](./Stream.md)[Stream](./Stream.md)首发日期：2010-08-14 （Comic Market 78 (未找到链接)）CRSS-0001全长 （一般向）[](./Mirror.md)[Mirror](./Mirror.md)首发日期：2010-12-30 （Comic Market 79 (未找到链接)）CRSS-0002全长 （一般向）
-<table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
-
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
-</table>
-
-
+- **[Stream](./Stream.md)** — 首发日期：2010-08-14 （Comic Market 78）；CRSS-0001；全长 （一般向）
+- **[Mirror](./Mirror.md)** — 首发日期：2010-12-30 （Comic Market 79）；CRSS-0002；全长 （一般向）
 
 ## 其他信息
-
-
-
 
 ---
 

@@ -1,18 +1,13 @@
 # 文件:参ヶ崎banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fd\ns6%3A%E5%8F%82%E3%83%B6%E5%B4%8Ebanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fd\ns6%3A%E5%8F%82%E3%83%B6%E5%B4%8Ebanner%2Ejpg.html -->
 
 参ヶ崎 | 社团LOGO
 
 
 ## 摘要
   
-源地址：[[1]](http://www.sangasaki.com/images/top_bannar.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://www.sangasaki.com/images/top_bannar.jpg)  
 
 ---
 

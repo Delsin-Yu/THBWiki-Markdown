@@ -1,6 +1,6 @@
 # 文件:Extended_play封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\eb\ns6%3AExtended_play%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\eb\ns6%3AExtended_play%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 at_the_mercy_of_sounds | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ at_the_mercy_of_sounds | 专辑封面 | 封面图片
   
 
 - [extended play](./extended_play.md)
-
-
-
 
 
 ---

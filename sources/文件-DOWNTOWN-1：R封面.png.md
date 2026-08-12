@@ -1,6 +1,6 @@
 # 文件:DOWNTOWN-1：R封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\83\ns6%3ADOWNTOWN-1%EF%BC%9AR%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\83\ns6%3ADOWNTOWN-1%EF%BC%9AR%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 茜音色タウン
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [DOWNTOWN-1：R](./DOWNTOWN-1：R.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [DOWNTOWN-1：R](./DOWNTOWN-1：R.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

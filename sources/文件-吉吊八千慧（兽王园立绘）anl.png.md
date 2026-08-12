@@ -1,14 +1,11 @@
 # 文件:吉吊八千慧（兽王园立绘）anl.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a7\ns6%3A%E5%90%89%E5%90%8A%E5%85%AB%E5%8D%83%E6%85%A7%EF%BC%88%E5%85%BD%E7%8E%8B%E5%9B%AD%E7%AB%8B%E7%BB%98%EF%BC%89anl%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a7\ns6%3A%E5%90%89%E5%90%8A%E5%85%AB%E5%8D%83%E6%85%A7%EF%BC%88%E5%85%BD%E7%8E%8B%E5%9B%AD%E7%AB%8B%E7%BB%98%EF%BC%89anl%2Epng.html -->
 
 ZUN绘 | 东方兽王园 | 吉吊八千慧 | 官方游戏立绘
 
 
 ## 摘要
-
-
-
 
 ---
 

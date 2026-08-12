@@ -1,12 +1,8 @@
 # 文件:梦符「Dream_Catcher」（绀珠传）-2.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\66\ns6%3A%E6%A2%A6%E7%AC%A6%E3%80%8CDream_Catcher%E3%80%8D%EF%BC%88%E7%BB%80%E7%8F%A0%E4%BC%A0%EF%BC%89-2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\66\ns6%3A%E6%A2%A6%E7%AC%A6%E3%80%8CDream_Catcher%E3%80%8D%EF%BC%88%E7%BB%80%E7%8F%A0%E4%BC%A0%EF%BC%89-2%2Epng.html -->
 
 东方绀珠传 | 哆来咪·苏伊特 | 敌机符卡
-
-
-
-
 
 
 ---

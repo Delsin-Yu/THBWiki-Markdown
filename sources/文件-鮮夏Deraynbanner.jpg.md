@@ -1,14 +1,11 @@
 # 文件:鮮夏Deraynbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\19\ns6%3A%E9%AE%AE%E5%A4%8FDeraynbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\19\ns6%3A%E9%AE%AE%E5%A4%8FDeraynbanner%2Ejpg.html -->
 
 社团LOGO | 鮮夏Derayn
 
 
 ## 文件说明
-
-
-
 
 ---
 

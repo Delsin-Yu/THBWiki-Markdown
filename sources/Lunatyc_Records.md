@@ -1,11 +1,10 @@
 # Lunatyc_Records
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\e\e3\ns0%3ALunatyc_Records.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\e\e3\ns0%3ALunatyc_Records.html -->
 
 Lunatyc Records ，于 2015 年成立，主要制作 同人音乐 的加拿大同人社团，主催是 YannickGosselin
 
-本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
-
+本页是关于**[同人社团](./二次创作.md#同人社团)**的词条
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -14,33 +13,20 @@ Lunatyc Records ，于 2015 年成立，主要制作 同人音乐 的加拿大�
 - [4 其他信息](#其他信息)
 
 
-
-
-
 ## 社团信息
-文件:Lunatyc Recordsbanner.jpg (未找到链接)  banner
-
-<table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Lunatyc Records </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2015</td></tr><tr><td><b>当前状态</b></td><td>未知</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=YannickGosselin&amp;action=edit&amp;redlink=1" class="new" title="YannickGosselin（页面不存在）">YannickGosselin</a> </td></tr><tr><td><b>地区</b></td><td>加拿大</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://lunatycrecords.bandcamp.com/">http://lunatycrecords.bandcamp.com/</a> </td></tr></tbody></table>
+文件:Lunatyc Recordsbanner.jpg (未找到链接) banner
+<table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Lunatyc Records </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2015</td></tr><tr><td><b>当前状态</b></td><td>未知</td></tr><tr><td><b>主催</b></td><td> <a class="new" title="YannickGosselin（页面不存在）">YannickGosselin</a> </td></tr><tr><td><b>地区</b></td><td>加拿大</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://lunatycrecords.bandcamp.com/">http://lunatycrecords.bandcamp.com/</a> </td></tr></tbody></table>
 
 Lunatyc Records（同人社团，同人音乐社团） - Lunatyc Records ，于 2015 年成立，主要制作 同人音乐 的加拿大同人社团，主催是 YannickGosselin
-
 ## 成员名单
   
 YannickGosselin
   
 
-
 ## 作品列表
-[](./Silent_Night,_Magus_Night.md)[Silent Night, Magus Night](./Silent_Night,_Magus_Night.md)首发日期：2015-07-26 EP （一般向）CD在[Otakuthon 2015](https://en.wikipedia.org/wiki/Otakuthon)发售
-<table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
-</table>
-
-
+- **[Silent Night, Magus Night](./Silent_Night,_Magus_Night.md)** — 首发日期：2015-07-26；EP （一般向）；CD在Otakuthon 2015发售
 
 ## 其他信息
-
-
-
 
 ---
 

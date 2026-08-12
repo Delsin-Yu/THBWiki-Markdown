@@ -1,16 +1,12 @@
 # 模板:VAPE_Night
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\b\b1\ns10%3AVAPE_Night.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\b\b1\ns10%3AVAPE_Night.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

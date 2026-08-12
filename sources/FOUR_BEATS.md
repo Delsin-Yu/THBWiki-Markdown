@@ -1,52 +1,39 @@
 # FOUR_BEATS
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\e\e4\ns0%3AFOUR_BEATS.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\e\e4\ns0%3AFOUR_BEATS.html -->
 
 2009年12月30日 由 Languid space 于 Comic Market 77 发布的EP同人专辑，曲目主要风格是 House，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人专辑 (未找到链接)** 的词条
-
+**[二次创作同人专辑](./二次创作.md#同人音乐)**的词条
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-FOUR_BEATS封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/2/2c/FOUR_BEATS%E5%B0%81%E9%9D%A2.jpg/252px-FOUR_BEATS%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="252" height="252" srcset="https://upload.thwiki.cc/thumb/2/2c/FOUR_BEATS%E5%B0%81%E9%9D%A2.jpg/378px-FOUR_BEATS%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/2/2c/FOUR_BEATS%E5%B0%81%E9%9D%A2.jpg/504px-FOUR_BEATS%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="600" data-file-height="600"></a><div class="cover-char">角色：<a href="./古明地觉.md" title="古明地觉">古明地觉</a></div></td>
 </tr><tr><td class="label">名称</td><td colspan="2"> FOUR BEATS </td></tr><tr><td class="label">制作方</td><td><a href="./Languid_space.md" title="Languid space">Languid space</a></td><td class="cover-artwork" rowspan="9" style="min-width:252px;"><a href="./文件-FOUR_BEATS封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/2/2c/FOUR_BEATS%E5%B0%81%E9%9D%A2.jpg/252px-FOUR_BEATS%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="252" height="252" srcset="https://upload.thwiki.cc/thumb/2/2c/FOUR_BEATS%E5%B0%81%E9%9D%A2.jpg/378px-FOUR_BEATS%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/2/2c/FOUR_BEATS%E5%B0%81%E9%9D%A2.jpg/504px-FOUR_BEATS%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="600" data-file-height="600"></a><div class="cover-char">角色：<a href="./古明地觉.md" title="古明地觉">古明地觉</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2009-12-30&#160;（<a href="/展会作品列表?e=Comic+Market%2377">Comic Market 77</a>）</td></tr><tr><td class="label">类型</td><td>EP</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>4</td></tr><tr><td class="label">总时长</td><td>00:00</td></tr><tr><td class="label">风格类型</td><td>House</td></tr><tr><td class="label">售价</td><td>会场售价：200日元</td></tr>
+</tr><tr><td class="label">首发日期</td><td>2009-12-30 （<a href="./展会作品列表.md#77">Comic Market 77</a>）</td></tr><tr><td class="label">类型</td><td>EP</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>4</td></tr><tr><td class="label">总时长</td><td>00:00</td></tr><tr><td class="label">风格类型</td><td>House</td></tr><tr><td class="label">售价</td><td>会场售价：200日元</td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://languidspace.seesaa.net/article/136350023.html">http://languidspace.seesaa.net/article/136350023.html</a></td></tr></tbody></table>
 
 FOUR BEATS（同人专辑，Languid space，2009） - 2009年12月30日 由 Languid space 于 Comic Market 77 发布的EP同人专辑，曲目主要风格是 House，分级为 一般向
-
 ## Staff
   
- **Arrangement**   
+**Arrangement**  
 
 <table><tbody><tr><td><a href="./daru.md" title="daru">daru</a></td><td></td><td>Tr.1-4</td></tr></tbody></table>
-
 
 Illustration
 : FAY
 
-
 ## 试听
-  
-<audio src="http://languidspace.up.seesaa.net/music/c77_crossfade.mp3" loop="" controls="" preload="none"></audio>
-
-  
-
 
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="渡る者の途絶えた橋" colspan="2" class="title">渡る者の途絶えた橋<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=daru&amp;ogmusic=渡る者の途絶えた橋&amp;fromwiki=FOUR_BEATS"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./daru.md" title="daru">daru</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，daru&amp;fromwiki=FOUR_BEATS"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=渡る者の途絶えた橋&amp;fromwiki=FOUR_BEATS"><span></span></a></span><div class="ogmusic"><a href="./渡る者の途絶えた橋.md" class="mw-redirect" title="渡る者の途絶えた橋">渡る者の途絶えた橋</a></div><div class="source"><a href="./东方地灵殿_～_Subterranean_Animism..md" class="mw-redirect" title="东方地灵殿 ～ Subterranean Animism.">东方地灵殿　～ Subterranean Animism.</a></div></td></tr>
-<tr><td id="2" class="infoYD"><b>02</b></td><td id="Noachian_Deluge" colspan="2" class="title">Noachian Deluge<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=daru&amp;ogmusic=ラクトガール　～ 少女密室&amp;fromwiki=FOUR_BEATS"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./daru.md" title="daru">daru</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，daru&amp;fromwiki=FOUR_BEATS"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=ラクトガール　～ 少女密室&amp;fromwiki=FOUR_BEATS"><span></span></a></span><div class="ogmusic"><a href="./ラクトガール_～_少女密室.md" class="mw-redirect" title="ラクトガール ～ 少女密室">ラクトガール　～ 少女密室</a></div><div class="source"><a href="./东方红魔乡_～_the_Embodiment_of_Scarlet_Devil..md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr>
-<tr><td id="3" class="infoYD"><b>03</b></td><td id="Lightbug" colspan="2" class="title">Lightbug<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=daru&amp;ogmusic=蠢々秋月　～ Mooned Insect&amp;fromwiki=FOUR_BEATS"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./daru.md" title="daru">daru</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，daru&amp;fromwiki=FOUR_BEATS"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=蠢々秋月　～ Mooned Insect&amp;fromwiki=FOUR_BEATS"><span></span></a></span><div class="ogmusic"><a href="./蠢々秋月_～_Mooned_Insect.md" class="mw-redirect" title="蠢々秋月 ～ Mooned Insect">蠢々秋月　～ Mooned Insect</a></div><div class="source"><a href="./东方永夜抄_～_Imperishable_Night..md" class="mw-redirect" title="东方永夜抄 ～ Imperishable Night.">东方永夜抄　～ Imperishable Night.</a></div></td></tr>
-<tr><td id="4" class="infoYD"><b>04</b></td><td id="ハートフルファンシー" colspan="2" class="title">ハートフルファンシー<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=daru&amp;ogmusic=ハートフェルトファンシー&amp;fromwiki=FOUR_BEATS"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./daru.md" title="daru">daru</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，daru&amp;fromwiki=FOUR_BEATS"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=ハートフェルトファンシー&amp;fromwiki=FOUR_BEATS"><span></span></a></span><div class="ogmusic"><a href="./ハートフェルトファンシー.md" class="mw-redirect" title="ハートフェルトファンシー">ハートフェルトファンシー</a></div><div class="source"><a href="./东方地灵殿_～_Subterranean_Animism..md" class="mw-redirect" title="东方地灵殿 ～ Subterranean Animism.">东方地灵殿　～ Subterranean Animism.</a></div></td></tr></tbody></table>
-
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="渡る者の途絶えた橋" colspan="2" class="title">渡る者の途絶えた橋</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./daru.md" title="daru">daru</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./阻绝人迹之桥.md" class="mw-redirect" title="渡る者の途絶えた橋">渡る者の途絶えた橋</a></div><div class="source"><a href="./东方地灵殿.md" class="mw-redirect" title="东方地灵殿 ～ Subterranean Animism.">东方地灵殿　～ Subterranean Animism.</a></div></td></tr>
+<tr><td id="2" class="infoYD"><b>02</b></td><td id="Noachian_Deluge" colspan="2" class="title">Noachian Deluge</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./daru.md" title="daru">daru</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./Locked_Girl_～_少女密室.md" class="mw-redirect" title="ラクトガール ～ 少女密室">ラクトガール　～ 少女密室</a></div><div class="source"><a href="./东方红魔乡.md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr>
+<tr><td id="3" class="infoYD"><b>03</b></td><td id="Lightbug" colspan="2" class="title">Lightbug</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./daru.md" title="daru">daru</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./蠢蠢的秋月_～_Mooned_Insect.md" class="mw-redirect" title="蠢々秋月 ～ Mooned Insect">蠢々秋月　～ Mooned Insect</a></div><div class="source"><a href="./东方永夜抄.md" class="mw-redirect" title="东方永夜抄 ～ Imperishable Night.">东方永夜抄　～ Imperishable Night.</a></div></td></tr>
+<tr><td id="4" class="infoYD"><b>04</b></td><td id="ハートフルファンシー" colspan="2" class="title">ハートフルファンシー</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./daru.md" title="daru">daru</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./Heartfelt_Fancy.md" class="mw-redirect" title="ハートフェルトファンシー">ハートフェルトファンシー</a></div><div class="source"><a href="./东方地灵殿.md" class="mw-redirect" title="东方地灵殿 ～ Subterranean Animism.">东方地灵殿　～ Subterranean Animism.</a></div></td></tr></tbody></table>
 
 
 ## 评论
-
-
-
 
 ---
 

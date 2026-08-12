@@ -1,12 +1,8 @@
 # 文件:THD2魔力灵符.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b5\ns6%3ATHD2%E9%AD%94%E5%8A%9B%E7%81%B5%E7%AC%A6%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b5\ns6%3ATHD2%E9%AD%94%E5%8A%9B%E7%81%B5%E7%AC%A6%2Epng.html -->
 
 AvalonStudioOfficial
-
-
-
-
 
 
 ---

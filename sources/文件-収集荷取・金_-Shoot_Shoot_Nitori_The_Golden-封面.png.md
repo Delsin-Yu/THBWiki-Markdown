@@ -1,6 +1,6 @@
 # 文件:収集荷取・金_-Shoot_Shoot_Nitori_The_Golden-封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b2\ns6%3A%E5%8F%8E%E9%9B%86%E8%8D%B7%E5%8F%96%E3%83%BB%E9%87%91_-Shoot_Shoot_Nitori_The_Golden-%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b2\ns6%3A%E5%8F%8E%E9%9B%86%E8%8D%B7%E5%8F%96%E3%83%BB%E9%87%91_-Shoot_Shoot_Nitori_The_Golden-%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 封面图片 | 软件封面 | 黄昏边境
 
@@ -8,11 +8,16 @@
 使用了本文件作封面图片的作品：
   
 
-- [収集荷取・金 -Shoot Shoot Nitori The Golden-](./収集荷取・金_-Shoot_Shoot_Nitori_The_Golden-.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- 十六夜咲夜 (未找到链接)- [魂魄妖梦](./魂魄妖梦.md)- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)- [河城荷取](./河城荷取.md)- [东风谷早苗](./东风谷早苗.md)- [寅丸星](./寅丸星.md)- [物部布都](./物部布都.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [収集荷取・金 -Shoot Shoot Nitori The Golden-](./収集荷取・金_-Shoot_Shoot_Nitori_The_Golden-.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [十六夜咲夜](./十六夜咲夜.md)
+- [魂魄妖梦](./魂魄妖梦.md)
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
+- [河城荷取](./河城荷取.md)
+- [东风谷早苗](./东风谷早苗.md)
+- [寅丸星](./寅丸星.md)
+- [物部布都](./物部布都.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

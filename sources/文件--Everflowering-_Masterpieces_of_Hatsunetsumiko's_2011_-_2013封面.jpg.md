@@ -1,6 +1,6 @@
 # 文件:"Everflowering"_Masterpieces_of_Hatsunetsumiko's_2011_-_2013封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cb\ns6%3A%22Everflowering%22_Masterpieces_of_Hatsunetsumiko%27s_2011_-_2013%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cb\ns6%3A%22Everflowering%22_Masterpieces_of_Hatsunetsumiko%27s_2011_-_2013%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 発熱巫女～ず
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- ["Everflowering" Masterpieces of Hatsunetsumiko's 2011 - 2013](./-Everflowering-_Masterpieces_of_Hatsunetsumiko's_2011_-_2013.md)  
-该封面包含的角色：- [风见幽香](./风见幽香.md)
-
-
-
+- ["Everflowering" Masterpieces of Hatsunetsumiko's 2011 - 2013](./-Everflowering-_Masterpieces_of_Hatsunetsumiko's_2011_-_2013.md)该封面包含的角色：
+- [风见幽香](./风见幽香.md)
 
 
 ---

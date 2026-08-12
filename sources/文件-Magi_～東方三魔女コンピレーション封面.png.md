@@ -1,6 +1,6 @@
 # 文件:Magi_～東方三魔女コンピレーション封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7f\ns6%3AMagi_%EF%BD%9E%E6%9D%B1%E6%96%B9%E4%B8%89%E9%AD%94%E5%A5%B3%E3%82%B3%E3%83%B3%E3%83%94%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7f\ns6%3AMagi_%EF%BD%9E%E6%9D%B1%E6%96%B9%E4%B8%89%E9%AD%94%E5%A5%B3%E3%82%B3%E3%83%B3%E3%83%94%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 suwawa_Records | 专辑封面 | 封面图片
 
@@ -8,11 +8,10 @@ suwawa_Records | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Magi ～東方三魔女コンピレーション](./Magi_～東方三魔女コンピレーション.md)  
-该封面包含的角色：- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [Magi ～東方三魔女コンピレーション](./Magi_～東方三魔女コンピレーション.md)该封面包含的角色：
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

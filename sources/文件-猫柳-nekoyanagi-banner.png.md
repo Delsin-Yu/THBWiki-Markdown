@@ -1,14 +1,11 @@
 # 文件:猫柳-nekoyanagi-banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f8\ns6%3A%E7%8C%AB%E6%9F%B3-nekoyanagi-banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f8\ns6%3A%E7%8C%AB%E6%9F%B3-nekoyanagi-banner%2Epng.html -->
 
 猫柳-nekoyanagi- | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

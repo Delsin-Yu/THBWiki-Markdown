@@ -1,12 +1,8 @@
 # 文件:奇术「幻惑Misdirection」（红魔乡）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\52\ns6%3A%E5%A5%87%E6%9C%AF%E3%80%8C%E5%B9%BB%E6%83%91Misdirection%E3%80%8D%EF%BC%88%E7%BA%A2%E9%AD%94%E4%B9%A1%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\52\ns6%3A%E5%A5%87%E6%9C%AF%E3%80%8C%E5%B9%BB%E6%83%91Misdirection%E3%80%8D%EF%BC%88%E7%BA%A2%E9%AD%94%E4%B9%A1%EF%BC%89%2Ejpg.html -->
 
 东方红魔乡 | 十六夜咲夜 | 敌机符卡
-
-
-
-
 
 
 ---

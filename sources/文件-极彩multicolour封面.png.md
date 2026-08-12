@@ -1,6 +1,6 @@
 # 文件:极彩multicolour封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9e\ns6%3A%E6%9E%81%E5%BD%A9multicolour%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9e\ns6%3A%E6%9E%81%E5%BD%A9multicolour%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 The_495th_Complex | 封面图片 | 软件封面
 
@@ -11,9 +11,6 @@ The_495th_Complex | 封面图片 | 软件封面
   
 
 - [极彩multicolour](./极彩multicolour.md)
-
-
-
 
 
 ---

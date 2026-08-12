@@ -1,6 +1,6 @@
 # 文件:Fearless_Desire封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\98\ns6%3AFearless_Desire%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\98\ns6%3AFearless_Desire%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Sieudiver | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ Sieudiver | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Fearless Desire](./Fearless_Desire.md)  
-该封面包含的角色：- [宫古芳香](./宫古芳香.md)- [霍青娥](./霍青娥.md)
-
-
-
+- [Fearless Desire](./Fearless_Desire.md)该封面包含的角色：
+- [宫古芳香](./宫古芳香.md)
+- [霍青娥](./霍青娥.md)
 
 
 ---

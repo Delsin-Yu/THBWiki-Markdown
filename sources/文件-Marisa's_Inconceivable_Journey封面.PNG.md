@@ -1,6 +1,6 @@
 # 文件:Marisa's_Inconceivable_Journey封面.PNG
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6c\ns6%3AMarisa%27s_Inconceivable_Journey%E5%B0%81%E9%9D%A2%2EPNG.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6c\ns6%3AMarisa%27s_Inconceivable_Journey%E5%B0%81%E9%9D%A2%2EPNG.html -->
 
 Dark_Sky_Empire | 封面图片 | 软件封面
 
@@ -11,9 +11,6 @@ Dark_Sky_Empire | 封面图片 | 软件封面
   
 
 - [Marisa's Inconceivable Journey](./Marisa's_Inconceivable_Journey.md)
-
-
-
 
 
 ---

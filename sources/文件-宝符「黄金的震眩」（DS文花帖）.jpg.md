@@ -1,12 +1,8 @@
 # 文件:宝符「黄金的震眩」（DS文花帖）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\07\ns6%3A%E5%AE%9D%E7%AC%A6%E3%80%8C%E9%BB%84%E9%87%91%E7%9A%84%E9%9C%87%E7%9C%A9%E3%80%8D%EF%BC%88DS%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\07\ns6%3A%E5%AE%9D%E7%AC%A6%E3%80%8C%E9%BB%84%E9%87%91%E7%9A%84%E9%9C%87%E7%9C%A9%E3%80%8D%EF%BC%88DS%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Ejpg.html -->
 
 东方文花帖DS | 寅丸星 | 敌机符卡
-
-
-
-
 
 
 ---

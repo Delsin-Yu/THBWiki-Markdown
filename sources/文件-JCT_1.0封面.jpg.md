@@ -1,6 +1,6 @@
 # 文件:JCT_1.0封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b8\ns6%3AJCT_1%2E0%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b8\ns6%3AJCT_1%2E0%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 マンダライン | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [JCT 1.0](./JCT_1.0.md)  
-该封面包含的角色：- 原创角色 (未找到链接)
-
-
-
+- [JCT 1.0](./JCT_1.0.md)该封面包含的角色：
+- 原创角色 (未找到链接)
 
 
 ---

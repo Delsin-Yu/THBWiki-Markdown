@@ -1,43 +1,33 @@
 # The_Positive_and_Negative
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\3\39\ns0%3AThe_Positive_and_Negative.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\3\39\ns0%3AThe_Positive_and_Negative.html -->
 
 由 ZUN 创作的官方曲目，原名 The Positive and Negative
 
 本页是关于东方Project  
- **原作音乐** 的词条
-
+**原作音乐**的词条
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 出现作品](#出现作品)
 - [3 音乐文件](#音乐文件)
-
   - [3.1 东方灵异传](#东方灵异传)
   - [3.2 东方怪绮谈](#东方怪绮谈)
   - [3.3 幺乐团的历史 vol.5](#幺乐团的历史_vol.5)
 
 
-
 - [4 说明文本](#说明文本)
-
   - [4.1 东方灵异传](#东方灵异传_2)
   - [4.2 东方怪绮谈](#东方怪绮谈_2)
 
 
-
 - [5 其他资料](#其他资料)
-
   - [5.1 乐理资讯](#乐理资讯)
   - [5.2 分析考据](#分析考据)
   - [5.3 二次同人数据](#二次同人数据)
 
 
-
 - [6 注释](#注释)
-
-
-
 
 
 ## 基本信息
@@ -45,7 +35,6 @@
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">The Positive and Negative</td></tr><tr><td><b>译名</b></td><td>The Positive and Negative</td></tr><tr><td><b>其他译名</b></td><td>阴与阳</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 The Positive and Negative（曲目） - 由 ZUN 创作的官方曲目，原名 The Positive and Negative
-
 ## 出现作品
 
 <table>
@@ -55,7 +44,6 @@ The Positive and Negative（曲目） - 由 ZUN 创作的官方曲目，原名 T
 </tbody></table>
 
 
-
 ## 音乐文件
 
 ### 东方灵异传
@@ -63,23 +51,18 @@ The Positive and Negative（曲目） - 由 ZUN 创作的官方曲目，原名 T
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-陰陽_~_The_Positive_and_Negative.mp3.md" title="文件:陰陽 ~ The Positive and Negative.mp3">陰陽_~_The_Positive_and_Negative.mp3</a><br><audio src="https://upload.thwiki.cc/a/ac/%E9%99%B0%E9%99%BD_~_The_Positive_and_Negative.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>POSITIVE.MDT</td></tr><tr><td><b>音轨时长</b></td><td>2:07</td></tr></tbody></table>
 
 
-
 ### 东方怪绮谈
   
 YM2203(OPN)，FM26K音源版。
   
 
-
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th05_R_03_1.ogg.md" title="文件:th05 R 03 1.ogg">th05_R_03_1.ogg</a><br><audio src="https://upload.thwiki.cc/2/21/th05_R_03_1.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>R_02.M</td></tr><tr><td><b>音轨时长</b></td><td>0:56.525</td></tr></tbody></table>
-
 
   
 YM2608(OPNA)，FM86音源版。
   
 
-
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th05_R_03_2.ogg.md" title="文件:th05 R 03 2.ogg">th05_R_03_2.ogg</a><br><audio src="https://upload.thwiki.cc/b/ba/th05_R_03_2.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>R_02.M2</td></tr><tr><td><b>音轨时长</b></td><td>0:56.525</td></tr></tbody></table>
-
 
 
 ### 幺乐团的历史 vol.5
@@ -87,16 +70,16 @@ YM2608(OPNA)，FM86音源版。
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-ha05_03.mp3.md" title="文件:ha05 03.mp3">ha05_03.mp3</a><br><audio src="https://upload.thwiki.cc/1/16/ha05_03.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track03.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>2:15</td></tr></tbody></table>
 
 
-
 ## 说明文本
 
 ### 东方灵异传
-- Music Test (未找到链接)
+
+- [Music Test](./东方灵异传-Music.md#5面主题曲神玉角色曲)
 
 　阴阳　 -The Positive and Negative　　　　　　　　　　　　　Composer  ZUN
-
 ### 东方怪绮谈
-- Music Room (未找到链接)
+
+- [Music Room](./东方怪绮谈-Music.md#5面主题曲神玉角色曲)
 
 　　　东方灵异传  快速Arrange版  
 　　　　　　５面主题曲  
@@ -108,30 +91,31 @@ YM2608(OPNA)，FM86音源版。
 ＺＵＮ（太田）  
 灵异传曲目。  
 特别Arrange版
-
 ## 其他资料
 
 ### 乐理资讯
 
 ### 分析考据
   
- **Positive and Negative** 
-  
+**Positive and Negative**  
 阴与阳
   
 
-- 灵异传Music Test (未找到链接)中的曲名为「Positive and Negative」，而怪绮谈Music Room (未找到链接)及[幺乐团5](./幺乐团的历史5.md)中的曲名均为「The Positive and Negative」。
-- positive：积极的；阳性的。
+- 灵异传[Music Test](./东方灵异传-Music.md#5面主题曲神玉角色曲)中的曲名为「Positive and Negative」，而怪绮谈[Music Room](./东方怪绮谈-Music.md#5面主题曲神玉角色曲)及[幺乐团5](./幺乐团的历史5.md)中的曲名均为「The Positive and Negative」。
+- positive：积极的；阳性的。 
   - [神玉](./神玉.md)（阴阳玉）的阳仪。
 
-- negative：消极的；阴性的。
+
+- negative：消极的；阴性的。 
   - [神玉](./神玉.md)（阴阳玉）的阴仪。
 
-- positive and negative：此消彼长；积极的与消极的。
+
+- positive and negative：此消彼长；积极的与消极的。 
   - 阴阳玉两极此消彼长不断变化。
   - 在游戏中神玉会出现三种形态，包括女性（阴）男性（阳）阴阳师。
   - 玩家的斗志会随着方块数量减少而增加？
   - 此消彼长，即太极图的内涵。
+
 
 
 
@@ -148,15 +132,7 @@ YM2608(OPNA)，FM86音源版。
 <tr><td>Vocal率</td><td>23.4%</td></tr>
 </tbody></table>
 
-
-
-
-
 [^cite_note-1]: 和弦（英语：chord）在音乐理论里，是指组合在一起的两个或更多不同音高的音。
-
-
-
-
 
 ---
 

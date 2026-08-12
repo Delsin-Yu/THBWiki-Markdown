@@ -1,12 +1,8 @@
 # 文件:灵符「梦想封印」（星莲船Manual）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d1\ns6%3A%E7%81%B5%E7%AC%A6%E3%80%8C%E6%A2%A6%E6%83%B3%E5%B0%81%E5%8D%B0%E3%80%8D%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9Manual%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d1\ns6%3A%E7%81%B5%E7%AC%A6%E3%80%8C%E6%A2%A6%E6%83%B3%E5%B0%81%E5%8D%B0%E3%80%8D%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9Manual%EF%BC%89%2Epng.html -->
 
 Manual配图 | 东方星莲船 | 博丽灵梦
-
-
-
-
 
 
 ---

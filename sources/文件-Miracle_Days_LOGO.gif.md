@@ -1,12 +1,8 @@
 # 文件:Miracle_Days_LOGO.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f8\ns6%3AMiracle_Days_LOGO%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f8\ns6%3AMiracle_Days_LOGO%2Egif.html -->
 
 Miracle_Days | 活动LOGO
-
-
-
-
 
 
 ---

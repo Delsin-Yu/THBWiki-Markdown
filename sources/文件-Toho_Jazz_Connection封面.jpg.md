@@ -1,6 +1,6 @@
 # 文件:Toho_Jazz_Connection封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\08\ns6%3AToho_Jazz_Connection%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\08\ns6%3AToho_Jazz_Connection%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Baguettes_Ensemble | 专辑封面 | 封面图片
 
@@ -11,12 +11,7 @@ Baguettes_Ensemble | 专辑封面 | 封面图片
 - [Toho Jazz Connection](./Toho_Jazz_Connection.md)
 
   
-源地址：[[1]](http://stat.ameba.jp/user_images/20161003/07/ichi-session/5b/88/j/o1736173613763476997.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://stat.ameba.jp/user_images/20161003/07/ichi-session/5b/88/j/o1736173613763476997.jpg)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:復活の「S」封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fb\ns6%3A%E5%BE%A9%E6%B4%BB%E3%81%AE%E3%80%8CS%E3%80%8D%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fb\ns6%3A%E5%BE%A9%E6%B4%BB%E3%81%AE%E3%80%8CS%E3%80%8D%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 舌打カーニバル
 
@@ -8,11 +8,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [復活の「S」](./復活の「S」.md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)- [伊吹萃香](./伊吹萃香.md)- [霍青娥](./霍青娥.md)
-
-
-
+- [復活の「S」](./復活の「S」.md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
+- [伊吹萃香](./伊吹萃香.md)
+- [霍青娥](./霍青娥.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Flowering_Night_2007_～月まで届け、最強のあたい～_ライブDVD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ae\ns6%3AFlowering_Night_2007_%EF%BD%9E%E6%9C%88%E3%81%BE%E3%81%A7%E5%B1%8A%E3%81%91%E3%80%81%E6%9C%80%E5%BC%B7%E3%81%AE%E3%81%82%E3%81%9F%E3%81%84%EF%BD%9E_%E3%83%A9%E3%82%A4%E3%83%96DVD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ae\ns6%3AFlowering_Night_2007_%EF%BD%9E%E6%9C%88%E3%81%BE%E3%81%A7%E5%B1%8A%E3%81%91%E3%80%81%E6%9C%80%E5%BC%B7%E3%81%AE%E3%81%82%E3%81%9F%E3%81%84%EF%BD%9E_%E3%83%A9%E3%82%A4%E3%83%96DVD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Flowering_Night_実行委員会 | 封面图片 | 视频封面
 
@@ -8,11 +8,9 @@ Flowering_Night_実行委員会 | 封面图片 | 视频封面
 使用了本文件作封面图片的作品：
   
 
-- [Flowering Night 2007 ～月まで届け、最強のあたい～ ライブDVD](./Flowering_Night_2007_～月まで届け、最強のあたい～_ライブDVD.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [Flowering Night 2007 ～月まで届け、最強のあたい～ ライブDVD](./Flowering_Night_2007_～月まで届け、最強のあたい～_ライブDVD.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

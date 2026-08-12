@@ -1,6 +1,6 @@
 # 文件:I.N.D.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2d\ns6%3AI%2EN%2ED%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2d\ns6%3AI%2EN%2ED%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 (空)がたらくぽんほ | 专辑封面 | 封面图片
 
@@ -11,12 +11,7 @@
 - [I.N.D.](./I.N.D..md)
 
   
-源地址：[[1]](http://www.geocities.jp/nekoyora/pic/ind.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://www.geocities.jp/nekoyora/pic/ind.jpg)  
 
 ---
 

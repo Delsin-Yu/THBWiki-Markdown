@@ -1,14 +1,11 @@
 # 文件:漠然Dreamer_banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\de\ns6%3A%E6%BC%A0%E7%84%B6Dreamer_banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\de\ns6%3A%E6%BC%A0%E7%84%B6Dreamer_banner%2Epng.html -->
 
 漠然Dreamer | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

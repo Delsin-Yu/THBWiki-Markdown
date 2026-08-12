@@ -1,12 +1,8 @@
 # 文件:ESQUARIA_banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cd\ns6%3AESQUARIA_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cd\ns6%3AESQUARIA_banner%2Ejpg.html -->
 
 ESQUARIA | 社团LOGO
-
-
-
-
 
 
 ---

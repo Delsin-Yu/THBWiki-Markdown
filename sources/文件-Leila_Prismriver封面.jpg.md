@@ -1,6 +1,6 @@
 # 文件:Leila_Prismriver封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\07\ns6%3ALeila_Prismriver%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\07\ns6%3ALeila_Prismriver%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Danmaq | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@ Danmaq | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Leila Prismriver](./Leila_Prismriver.md)  
-该封面包含的角色：- [蕾拉·普莉兹姆利巴](./蕾拉·普莉兹姆利巴.md)
+- [Leila Prismriver](./Leila_Prismriver.md)该封面包含的角色：
+- [蕾拉·普莉兹姆利巴](./蕾拉·普莉兹姆利巴.md)
 
   
-源地址：[from Touhou Wiki](https://en.touhouwiki.net/wiki/File:CDMQ-0001.jpg)
-  
-
-
-
-
+源地址：[from Touhou Wiki](https://en.touhouwiki.net/wiki/File:CDMQ-0001.jpg)  
 
 ---
 

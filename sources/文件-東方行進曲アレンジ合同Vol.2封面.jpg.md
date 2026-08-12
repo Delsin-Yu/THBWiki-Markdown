@@ -1,6 +1,6 @@
 # 文件:東方行進曲アレンジ合同Vol.2封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3e\ns6%3A%E6%9D%B1%E6%96%B9%E8%A1%8C%E9%80%B2%E6%9B%B2%E3%82%A2%E3%83%AC%E3%83%B3%E3%82%B8%E5%90%88%E5%90%8CVol%2E2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3e\ns6%3A%E6%9D%B1%E6%96%B9%E8%A1%8C%E9%80%B2%E6%9B%B2%E3%82%A2%E3%83%AC%E3%83%B3%E3%82%B8%E5%90%88%E5%90%8CVol%2E2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 もりのあるまち | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方行進曲アレンジ合同Vol.2](./東方行進曲アレンジ合同Vol.2.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)
+- [東方行進曲アレンジ合同Vol.2](./東方行進曲アレンジ合同Vol.2.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
 
   
-源地址：[BOOTH](https://yamu413.booth.pm/items/1355558)
-  
-
-
-
-
+源地址：[BOOTH](https://yamu413.booth.pm/items/1355558)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:PHANTASY_STAR_SYMPHONY_～夢幻境界封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\88\ns6%3APHANTASY_STAR_SYMPHONY_%EF%BD%9E%E5%A4%A2%E5%B9%BB%E5%A2%83%E7%95%8C%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\88\ns6%3APHANTASY_STAR_SYMPHONY_%EF%BD%9E%E5%A4%A2%E5%B9%BB%E5%A2%83%E7%95%8C%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 緋月ノ雫
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [PHANTASY STAR SYMPHONY ～夢幻境界](./PHANTASY_STAR_SYMPHONY_～夢幻境界.md)  
-该封面包含的角色：- [西行寺幽幽子](./西行寺幽幽子.md)- [八云紫](./八云紫.md)
-
-
-
+- [PHANTASY STAR SYMPHONY ～夢幻境界](./PHANTASY_STAR_SYMPHONY_～夢幻境界.md)该封面包含的角色：
+- [西行寺幽幽子](./西行寺幽幽子.md)
+- [八云紫](./八云紫.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:HARD_GENERATION封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bf\ns6%3AHARD_GENERATION%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bf\ns6%3AHARD_GENERATION%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Heartful_Zwei_System | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ Heartful_Zwei_System | 专辑封面 | 封面图片
   
 
 - [HARD GENERATION](./HARD_GENERATION.md)
-
-
-
 
 
 ---

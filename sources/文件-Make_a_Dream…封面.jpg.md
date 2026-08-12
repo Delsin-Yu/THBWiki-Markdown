@@ -1,6 +1,6 @@
 # 文件:Make_a_Dream…封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\42\ns6%3AMake_a_Dream%E2%80%A6%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\42\ns6%3AMake_a_Dream%E2%80%A6%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Reset_All_Controllers | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Reset_All_Controllers | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Make a Dream…](./Make_a_Dream….md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)
+- [Make a Dream…](./Make_a_Dream….md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
 
   
-源地址：[[1]](https://twitter.com/adazakura_midi/status/549098324276432896)
-  
-
-
-
-
+源地址：[\[1\]](https://twitter.com/adazakura_midi/status/549098324276432896)  
 
 ---
 

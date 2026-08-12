@@ -1,6 +1,6 @@
 # 文件:Toho_Walker_東方ウォーカー_1／3封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f8\ns6%3AToho_Walker_%E6%9D%B1%E6%96%B9%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%AB%E3%83%BC_1%EF%BC%8F3%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f8\ns6%3AToho_Walker_%E6%9D%B1%E6%96%B9%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%AB%E3%83%BC_1%EF%BC%8F3%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 鶏屋
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Toho Walker 東方ウォーカー 1／3](./Toho_Walker_東方ウォーカー_1／3.md)  
-该封面包含的角色：- [西行寺幽幽子](./西行寺幽幽子.md)
-
-
-
+- [Toho Walker 東方ウォーカー 1／3](./Toho_Walker_東方ウォーカー_1／3.md)该封面包含的角色：
+- [西行寺幽幽子](./西行寺幽幽子.md)
 
 
 ---

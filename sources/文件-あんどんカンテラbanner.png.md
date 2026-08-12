@@ -1,18 +1,13 @@
 # 文件:あんどんカンテラbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\74\ns6%3A%E3%81%82%E3%82%93%E3%81%A9%E3%82%93%E3%82%AB%E3%83%B3%E3%83%86%E3%83%A9banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\74\ns6%3A%E3%81%82%E3%82%93%E3%81%A9%E3%82%93%E3%82%AB%E3%83%B3%E3%83%86%E3%83%A9banner%2Epng.html -->
 
 あんどんカンテラ | 社团LOGO
 
 
 ## 摘要
   
-源地址：[direct image link](https://web.archive.org/web/20220329234847im_/http://orange.ap.teacup.com/andon-kandelaar/timg/middle_1288891586.png), [source page](https://web.archive.org/web/20201027223419/https://orange.ap.teacup.com/andon-kandelaar/)
-  
-
-
-
-
+源地址：[direct image link](https://web.archive.org/web/20220329234847im_/http://orange.ap.teacup.com/andon-kandelaar/timg/middle_1288891586.png), [source page](https://web.archive.org/web/20201027223419/https://orange.ap.teacup.com/andon-kandelaar/)  
 
 ---
 

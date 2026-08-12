@@ -1,16 +1,12 @@
 # 文件:ssg_Ex_Boss_2.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\50\ns6%3Assg_Ex_Boss_2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\50\ns6%3Assg_Ex_Boss_2%2Epng.html -->
 
 秋霜玉
 
   
 秋霜玉Ex面2Boss像素图。
   
-
-
-
-
 
 ---
 

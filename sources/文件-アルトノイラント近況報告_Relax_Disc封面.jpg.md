@@ -1,6 +1,6 @@
 # 文件:アルトノイラント近況報告_Relax_Disc封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d6\ns6%3A%E3%82%A2%E3%83%AB%E3%83%88%E3%83%8E%E3%82%A4%E3%83%A9%E3%83%B3%E3%83%88%E8%BF%91%E6%B3%81%E5%A0%B1%E5%91%8A_Relax_Disc%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d6\ns6%3A%E3%82%A2%E3%83%AB%E3%83%88%E3%83%8E%E3%82%A4%E3%83%A9%E3%83%B3%E3%83%88%E8%BF%91%E6%B3%81%E5%A0%B1%E5%91%8A_Relax_Disc%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 アルトノイラント | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [アルトノイラント近況報告 Relax Disc](./アルトノイラント近況報告_Relax_Disc.md)  
-该封面包含的角色：- 原创角色 (未找到链接)
-
-
-
+- [アルトノイラント近況報告 Relax Disc](./アルトノイラント近況報告_Relax_Disc.md)该封面包含的角色：
+- 原创角色 (未找到链接)
 
 
 ---

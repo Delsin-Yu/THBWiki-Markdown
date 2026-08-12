@@ -1,12 +1,8 @@
 # 文件:秘术「Gray_Thaumaturgy」（神灵庙）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fe\ns6%3A%E7%A7%98%E6%9C%AF%E3%80%8CGray_Thaumaturgy%E3%80%8D%EF%BC%88%E7%A5%9E%E7%81%B5%E5%BA%99%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fe\ns6%3A%E7%A7%98%E6%9C%AF%E3%80%8CGray_Thaumaturgy%E3%80%8D%EF%BC%88%E7%A5%9E%E7%81%B5%E5%BA%99%EF%BC%89%2Ejpg.html -->
 
 东方神灵庙 | 东风谷早苗 | 自机符卡
-
-
-
-
 
 
 ---

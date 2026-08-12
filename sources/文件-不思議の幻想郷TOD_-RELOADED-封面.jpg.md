@@ -1,6 +1,6 @@
 # 文件:不思議の幻想郷TOD_-RELOADED-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9a\ns6%3A%E4%B8%8D%E6%80%9D%E8%AD%B0%E3%81%AE%E5%B9%BB%E6%83%B3%E9%83%B7TOD_-RELOADED-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9a\ns6%3A%E4%B8%8D%E6%80%9D%E8%AD%B0%E3%81%AE%E5%B9%BB%E6%83%B3%E9%83%B7TOD_-RELOADED-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 AQUA_STYLE | 封面图片 | 软件封面
 
@@ -8,11 +8,13 @@ AQUA_STYLE | 封面图片 | 软件封面
 使用了本文件作封面图片的作品：
   
 
-- [不思議の幻想郷TOD -RELOADED-](./不思議の幻想郷TOD_-RELOADED-.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [东风谷早苗](./东风谷早苗.md)- [洩矢诹访子](./洩矢诹访子.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [不思議の幻想郷TOD -RELOADED-](./不思議の幻想郷TOD_-RELOADED-.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [东风谷早苗](./东风谷早苗.md)
+- [洩矢诹访子](./洩矢诹访子.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Raising_Nostalgia封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a0\ns6%3ARaising_Nostalgia%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a0\ns6%3ARaising_Nostalgia%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ICON音楽班 | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ ICON音楽班 | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Raising Nostalgia](./Raising_Nostalgia.md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)
-
-
-
+- [Raising Nostalgia](./Raising_Nostalgia.md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
 
 
 ---

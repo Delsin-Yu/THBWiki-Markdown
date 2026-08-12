@@ -1,12 +1,8 @@
 # 文件:幻世「The_World」（红魔乡2）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\34\ns6%3A%E5%B9%BB%E4%B8%96%E3%80%8CThe_World%E3%80%8D%EF%BC%88%E7%BA%A2%E9%AD%94%E4%B9%A12%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\34\ns6%3A%E5%B9%BB%E4%B8%96%E3%80%8CThe_World%E3%80%8D%EF%BC%88%E7%BA%A2%E9%AD%94%E4%B9%A12%EF%BC%89%2Ejpg.html -->
 
 东方红魔乡 | 十六夜咲夜 | 敌机符卡
-
-
-
-
 
 
 ---

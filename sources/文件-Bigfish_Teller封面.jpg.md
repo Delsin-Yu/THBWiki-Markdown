@@ -1,6 +1,6 @@
 # 文件:Bigfish_Teller封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d6\ns6%3ABigfish_Teller%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d6\ns6%3ABigfish_Teller%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 フレキシ | 同人志封面 | 封面图片
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [Bigfish Teller](./Bigfish_Teller.md)  
-该封面包含的角色：- [宇佐见莲子](./宇佐见莲子.md)- [八云紫](./八云紫.md)
-
-
-
+- [Bigfish Teller](./Bigfish_Teller.md)该封面包含的角色：
+- [宇佐见莲子](./宇佐见莲子.md)
+- [八云紫](./八云紫.md)
 
 
 ---

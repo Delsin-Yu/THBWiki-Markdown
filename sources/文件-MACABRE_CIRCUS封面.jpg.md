@@ -1,6 +1,6 @@
 # 文件:MACABRE_CIRCUS封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d3\ns6%3AMACABRE_CIRCUS%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d3\ns6%3AMACABRE_CIRCUS%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ゐた・せくすありあ | 同人志封面 | 封面图片
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [MACABRE CIRCUS](./MACABRE_CIRCUS.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [MACABRE CIRCUS](./MACABRE_CIRCUS.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
 
   
-来源：[[1]](https://twitter.com/vita_sexualya/status/681720337864601601)
-  
-
-
-
-
+来源：[\[1\]](https://twitter.com/vita_sexualya/status/681720337864601601)  
 
 ---
 

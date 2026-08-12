@@ -1,6 +1,6 @@
 # 文件:AMAOTO_-東方入眠抄音楽弦奏_4-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ef\ns6%3AAMAOTO_-%E6%9D%B1%E6%96%B9%E5%85%A5%E7%9C%A0%E6%8A%84%E9%9F%B3%E6%A5%BD%E5%BC%A6%E5%A5%8F_4-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ef\ns6%3AAMAOTO_-%E6%9D%B1%E6%96%B9%E5%85%A5%E7%9C%A0%E6%8A%84%E9%9F%B3%E6%A5%BD%E5%BC%A6%E5%A5%8F_4-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Re：Volte | TAMUSIC | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Re：Volte | TAMUSIC | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [AMAOTO -東方入眠抄音楽弦奏 4-](./AMAOTO_-東方入眠抄音楽弦奏_4-.md)  
-该封面包含的角色：- [多多良小伞](./多多良小伞.md)
-
-
-
+- [AMAOTO -東方入眠抄音楽弦奏 4-](./AMAOTO_-東方入眠抄音楽弦奏_4-.md)该封面包含的角色：
+- [多多良小伞](./多多良小伞.md)
 
 
 ---

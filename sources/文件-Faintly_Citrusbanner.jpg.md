@@ -1,12 +1,8 @@
 # 文件:Faintly_Citrusbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\89\ns6%3AFaintly_Citrusbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\89\ns6%3AFaintly_Citrusbanner%2Ejpg.html -->
 
 Faintly_Citrus | 社团LOGO
-
-
-
-
 
 
 ---

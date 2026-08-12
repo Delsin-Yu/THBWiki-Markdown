@@ -1,6 +1,6 @@
 # 文件:2020_ARAMITAMA_TOHO_TECHNO_DJ-MIX封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f6\ns6%3A2020_ARAMITAMA_TOHO_TECHNO_DJ-MIX%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f6\ns6%3A2020_ARAMITAMA_TOHO_TECHNO_DJ-MIX%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 荒御灵
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [2020 ARAMITAMA TOHO TECHNO DJ-MIX](./2020_ARAMITAMA_TOHO_TECHNO_DJ-MIX.md)  
-该封面包含的角色：- [依神紫苑](./依神紫苑.md)
-
-
-
+- [2020 ARAMITAMA TOHO TECHNO DJ-MIX](./2020_ARAMITAMA_TOHO_TECHNO_DJ-MIX.md)该封面包含的角色：
+- [依神紫苑](./依神紫苑.md)
 
 
 ---

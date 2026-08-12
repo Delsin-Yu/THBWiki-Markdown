@@ -1,12 +1,8 @@
 # 文件:緋月ノ雫banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\23\ns6%3A%E7%B7%8B%E6%9C%88%E3%83%8E%E9%9B%ABbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\23\ns6%3A%E7%B7%8B%E6%9C%88%E3%83%8E%E9%9B%ABbanner%2Epng.html -->
 
 社团LOGO | 緋月ノ雫
-
-
-
-
 
 
 ---

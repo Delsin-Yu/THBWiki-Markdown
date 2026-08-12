@@ -1,6 +1,6 @@
 # 文件:Mari_Ali_MAGIC封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6b\ns6%3AMari_Ali_MAGIC%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6b\ns6%3AMari_Ali_MAGIC%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 同人志封面 | 封面图片 | 狐の嫁入り
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [Mari Ali MAGIC](./Mari_Ali_MAGIC.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [Mari Ali MAGIC](./Mari_Ali_MAGIC.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

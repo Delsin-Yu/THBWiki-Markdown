@@ -1,12 +1,8 @@
 # 文件:丸D2banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\63\ns6%3A%E4%B8%B8D2banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\63\ns6%3A%E4%B8%B8D2banner%2Ejpg.html -->
 
 丸D2 | 社团LOGO
-
-
-
-
 
 
 ---

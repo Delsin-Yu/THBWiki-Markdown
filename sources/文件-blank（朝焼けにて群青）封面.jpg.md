@@ -1,6 +1,6 @@
 # 文件:blank（朝焼けにて群青）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\21\ns6%3Ablank%EF%BC%88%E6%9C%9D%E7%84%BC%E3%81%91%E3%81%AB%E3%81%A6%E7%BE%A4%E9%9D%92%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\21\ns6%3Ablank%EF%BC%88%E6%9C%9D%E7%84%BC%E3%81%91%E3%81%AB%E3%81%A6%E7%BE%A4%E9%9D%92%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 朝焼けにて群青
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [blank（朝焼けにて群青）](./blank（朝焼けにて群青）.md)  
-该封面包含的角色：- [古明地恋](./古明地恋.md)
-
-
-
+- [blank（朝焼けにて群青）](./blank（朝焼けにて群青）.md)该封面包含的角色：
+- [古明地恋](./古明地恋.md)
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:Alice_in_the_hole!banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9c\ns6%3AAlice_in_the_hole%21banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9c\ns6%3AAlice_in_the_hole%21banner%2Epng.html -->
 
 Alice_in_the_hole! | 社团LOGO
-
-
-
-
 
 
 ---

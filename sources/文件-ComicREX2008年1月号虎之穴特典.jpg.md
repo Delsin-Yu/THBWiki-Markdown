@@ -1,12 +1,8 @@
 # 文件:ComicREX2008年1月号虎之穴特典.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ed\ns6%3AComicREX2008%E5%B9%B41%E6%9C%88%E5%8F%B7%E8%99%8E%E4%B9%8B%E7%A9%B4%E7%89%B9%E5%85%B8%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ed\ns6%3AComicREX2008%E5%B9%B41%E6%9C%88%E5%8F%B7%E8%99%8E%E4%B9%8B%E7%A9%B4%E7%89%B9%E5%85%B8%2Ejpg.html -->
 
 ComicREX | 东方儚月抄
-
-
-
-
 
 
 ---

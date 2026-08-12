@@ -1,6 +1,6 @@
 # 文件:东方桨灯影_会场限定无料CD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\02\ns6%3A%E4%B8%9C%E6%96%B9%E6%A1%A8%E7%81%AF%E5%BD%B1_%E4%BC%9A%E5%9C%BA%E9%99%90%E5%AE%9A%E6%97%A0%E6%96%99CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\02\ns6%3A%E4%B8%9C%E6%96%B9%E6%A1%A8%E7%81%AF%E5%BD%B1_%E4%BC%9A%E5%9C%BA%E9%99%90%E5%AE%9A%E6%97%A0%E6%96%99CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Static_World | 专辑封面 | 南京THO组委会 | 封面图片
 
@@ -8,11 +8,9 @@ Static_World | 专辑封面 | 南京THO组委会 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [东方桨灯影 会场限定无料CD](./东方桨灯影_会场限定无料CD.md)  
-该封面包含的角色：- [霍青娥](./霍青娥.md)- [茨木华扇](./茨木华扇.md)
-
-
-
+- [东方桨灯影 会场限定无料CD](./东方桨灯影_会场限定无料CD.md)该封面包含的角色：
+- [霍青娥](./霍青娥.md)
+- [茨木华扇](./茨木华扇.md)
 
 
 ---

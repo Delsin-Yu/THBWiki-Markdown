@@ -1,12 +1,8 @@
 # 文件:th17_unvisible_reimu.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d8\ns6%3Ath17_unvisible_reimu%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d8\ns6%3Ath17_unvisible_reimu%2Epng.html -->
 
 技术性图片
-
-
-
-
 
 
 ---

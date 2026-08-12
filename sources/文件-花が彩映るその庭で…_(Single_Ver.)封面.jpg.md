@@ -1,6 +1,6 @@
 # 文件:花が彩映るその庭で…_(Single_Ver.)封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\db\ns6%3A%E8%8A%B1%E3%81%8C%E5%BD%A9%E6%98%A0%E3%82%8B%E3%81%9D%E3%81%AE%E5%BA%AD%E3%81%A7%E2%80%A6_%28Single_Ver%2E%29%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\db\ns6%3A%E8%8A%B1%E3%81%8C%E5%BD%A9%E6%98%A0%E3%82%8B%E3%81%9D%E3%81%AE%E5%BA%AD%E3%81%A7%E2%80%A6_%28Single_Ver%2E%29%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 弦奏水琴乐章
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [花が彩映るその庭で… (Single Ver.)](./花が彩映るその庭で…_(Single_Ver.).md)  
-该封面包含的角色：- [小野塚小町](./小野塚小町.md)
-
-
-
+- [花が彩映るその庭で… (Single Ver.)](./花が彩映るその庭で…_(Single_Ver.%29.md)该封面包含的角色：
+- [小野塚小町](./小野塚小町.md)
 
 
 ---

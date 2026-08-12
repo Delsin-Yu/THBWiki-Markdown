@@ -1,27 +1,24 @@
 # Jazzりぞこない
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\24\ns0%3AJazz%E3%82%8A%E3%81%9E%E3%81%93%E3%81%AA%E3%81%84.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\24\ns0%3AJazz%E3%82%8A%E3%81%9E%E3%81%93%E3%81%AA%E3%81%84.html -->
 
 2011年5月8日 由 ChaoticDawn 于 博丽神社例大祭8 发布的单曲同人专辑，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人专辑 (未找到链接)** 的词条
-
+**[二次创作同人专辑](./二次创作.md#同人音乐)**的词条
 ## 专辑信息
 
-<table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=Jazz%E3%82%8A%E3%81%9E%E3%81%93%E3%81%AA%E3%81%84%E5%B0%81%E9%9D%A2.jpg" class="new" title="文件:Jazzりぞこない封面.jpg">封面图片</a></td>
-</tr><tr><td class="label">名称</td><td colspan="2"> Jazzりぞこない </td></tr><tr><td class="label">制作方</td><td><a href="./ChaoticDawn.md" title="ChaoticDawn">ChaoticDawn</a></td><td class="cover-artwork" rowspan="8" style="min-width:224px;"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=Jazz%E3%82%8A%E3%81%9E%E3%81%93%E3%81%AA%E3%81%84%E5%B0%81%E9%9D%A2.jpg" class="new" title="文件:Jazzりぞこない封面.jpg">封面图片</a></td>
-</tr><tr><td class="label">首发日期</td><td>2011-05-08&#160;（<a href="/展会作品列表?e=%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD%238">第八回 博麗神社例大祭</a>）</td></tr><tr><td class="label">类型</td><td>单曲</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>2</td></tr><tr><td class="label">总时长</td><td>00:00</td></tr><tr><td class="label">售价</td><td>会场售价：免费</td></tr>
+<table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a class="new" title="文件:Jazzりぞこない封面.jpg">封面图片</a></td>
+</tr><tr><td class="label">名称</td><td colspan="2"> Jazzりぞこない </td></tr><tr><td class="label">制作方</td><td><a href="./ChaoticDawn.md" title="ChaoticDawn">ChaoticDawn</a></td><td class="cover-artwork" rowspan="8" style="min-width:224px;"><a class="new" title="文件:Jazzりぞこない封面.jpg">封面图片</a></td>
+</tr><tr><td class="label">首发日期</td><td>2011-05-08 （<a href="./展会作品列表.md#8">第八回 博麗神社例大祭</a>）</td></tr><tr><td class="label">类型</td><td>单曲</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>2</td></tr><tr><td class="label">总时长</td><td>00:00</td></tr><tr><td class="label">售价</td><td>会场售价：免费</td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://mys-no.saiin.net/doujin.html#07">http://mys-no.saiin.net/doujin.html#07</a></td></tr></tbody></table>
 
 Jazzりぞこない（同人专辑，ChaoticDawn，2011） - 2011年5月8日 由 ChaoticDawn 于 博丽神社例大祭8 发布的单曲同人专辑，分级为 一般向
-
 ## Staff
   
- **Arrangement**   
+**Arrangement**  
 
-<table><tbody><tr><td><a href="/index.php?title=daitem&amp;action=edit&amp;redlink=1" class="new" title="daitem（页面不存在）">daitem</a></td><td><a href="./ChaoticDawn.md" title="ChaoticDawn">ChaoticDawn</a></td><td>Tr.1</td></tr><tr><td><a href="/index.php?title=POW&amp;action=edit&amp;redlink=1" class="new" title="POW（页面不存在）">POW</a></td><td><a href="./ピコクマ.md" title="ピコクマ">ピコクマ</a></td><td>Tr.2</td></tr></tbody></table>
-
+<table><tbody><tr><td><a class="new" title="daitem（页面不存在）">daitem</a></td><td><a href="./ChaoticDawn.md" title="ChaoticDawn">ChaoticDawn</a></td><td>Tr.1</td></tr><tr><td><a class="new" title="POW（页面不存在）">POW</a></td><td><a href="./ピコクマ.md" title="ピコクマ">ピコクマ</a></td><td>Tr.2</td></tr></tbody></table>
 
 
 ## 试听
@@ -29,18 +26,13 @@ Jazzりぞこない（同人专辑，ChaoticDawn，2011） - 2011年5月8日 由
 暂不支援此类型
   
 
-
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="暗闇の風穴（8BitJazzりぞこない）" colspan="2" class="title">暗闇の風穴（8BitJazzりぞこない）<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=daitem&amp;ogmusic=暗闇の風穴&amp;fromwiki=Jazzりぞこない"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=daitem&amp;action=edit&amp;redlink=1" class="new" title="daitem（页面不存在）">daitem</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，daitem，&amp;fromwiki=Jazzりぞこない"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=暗闇の風穴&amp;fromwiki=Jazzりぞこない"><span></span></a></span><div class="ogmusic"><a href="./暗闇の風穴.md" class="mw-redirect" title="暗闇の風穴">暗闇の風穴</a></div><div class="source"><a href="./东方地灵殿_～_Subterranean_Animism..md" class="mw-redirect" title="东方地灵殿 ～ Subterranean Animism.">东方地灵殿　～ Subterranean Animism.</a></div></td></tr>
-<tr><td id="2" class="infoYD"><b>02</b></td><td id="ゆかりのラグタイム（仮）" colspan="2" class="title">ゆかりのラグタイム（仮）<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=POW&amp;ogmusic=ネクロファンタジア&amp;fromwiki=Jazzりぞこない"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=POW&amp;action=edit&amp;redlink=1" class="new" title="POW（页面不存在）">POW</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，POW，&amp;fromwiki=Jazzりぞこない"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=ネクロファンタジア&amp;fromwiki=Jazzりぞこない"><span></span></a></span><div class="ogmusic"><a href="./ネクロファンタジア.md" class="mw-redirect" title="ネクロファンタジア">ネクロファンタジア</a></div><div class="source"><a href="./东方妖妖梦_～_Perfect_Cherry_Blossom..md" class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr></tbody></table>
-
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="暗闇の風穴（8BitJazzりぞこない）" colspan="2" class="title">暗闇の風穴（8BitJazzりぞこない）</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="daitem（页面不存在）">daitem</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./昏暗的风穴.md" class="mw-redirect" title="暗闇の風穴">暗闇の風穴</a></div><div class="source"><a href="./东方地灵殿.md" class="mw-redirect" title="东方地灵殿 ～ Subterranean Animism.">东方地灵殿　～ Subterranean Animism.</a></div></td></tr>
+<tr><td id="2" class="infoYD"><b>02</b></td><td id="ゆかりのラグタイム（仮）" colspan="2" class="title">ゆかりのラグタイム（仮）</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="POW（页面不存在）">POW</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./Necro-Fantasia.md" class="mw-redirect" title="ネクロファンタジア">ネクロファンタジア</a></div><div class="source"><a href="./东方妖妖梦.md" class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr></tbody></table>
 
 
 ## 评论
-
-
-
 
 ---
 

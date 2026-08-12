@@ -1,6 +1,6 @@
 # 文件:Orrery's_universe_～銀河系儀～封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4e\ns6%3AOrrery%27s_universe_%EF%BD%9E%E9%8A%80%E6%B2%B3%E7%B3%BB%E5%84%80%EF%BD%9E%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4e\ns6%3AOrrery%27s_universe_%EF%BD%9E%E9%8A%80%E6%B2%B3%E7%B3%BB%E5%84%80%EF%BD%9E%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 MA☆SPARK!_RECORDS | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ MA☆SPARK!_RECORDS | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Orrery's universe ～銀河系儀～](./Orrery's_universe_～銀河系儀～.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [Orrery's universe ～銀河系儀～](./Orrery's_universe_～銀河系儀～.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

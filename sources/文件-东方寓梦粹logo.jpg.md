@@ -1,16 +1,12 @@
 # 文件:东方寓梦粹logo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\aa\ns6%3A%E4%B8%9C%E6%96%B9%E5%AF%93%E6%A2%A6%E7%B2%B9logo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\aa\ns6%3A%E4%B8%9C%E6%96%B9%E5%AF%93%E6%A2%A6%E7%B2%B9logo%2Ejpg.html -->
 
 东方寓梦粹 | 社团LOGO
 
   
 社团logo：东方寓梦粹
   
-
-
-
-
 
 ---
 

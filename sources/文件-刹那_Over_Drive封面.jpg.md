@@ -1,6 +1,6 @@
 # 文件:刹那_Over_Drive封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\db\ns6%3A%E5%88%B9%E9%82%A3_Over_Drive%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\db\ns6%3A%E5%88%B9%E9%82%A3_Over_Drive%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Silver_Forest | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Silver_Forest | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [刹那 Over Drive](./刹那_Over_Drive.md)  
-该封面包含的角色：- [今泉影狼](./今泉影狼.md)
-
-
-
+- [刹那 Over Drive](./刹那_Over_Drive.md)该封面包含的角色：
+- [今泉影狼](./今泉影狼.md)
 
 
 ---

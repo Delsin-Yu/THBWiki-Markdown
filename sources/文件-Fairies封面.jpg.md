@@ -1,6 +1,6 @@
 # 文件:Fairies封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0a\ns6%3AFairies%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0a\ns6%3AFairies%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Sound_Refil | 专辑封面 | 封面图片
 
@@ -8,17 +8,14 @@ Sound_Refil | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Fairies](./Fairies.md)  
-该封面包含的角色：- [露娜切露德](./露娜切露德.md)- [桑尼米尔克](./桑尼米尔克.md)- [斯塔萨菲雅](./斯塔萨菲雅.md)
+- [Fairies](./Fairies.md)该封面包含的角色：
+- [露娜切露德](./露娜切露德.md)
+- [桑尼米尔克](./桑尼米尔克.md)
+- [斯塔萨菲雅](./斯塔萨菲雅.md)
 
   
 <img src="https://cdn.melonbooks.co.jp/user_data/packages/resize_image.php?image=213001015835.jpg" alt="resize_image.php?image=213001015835.jpg">
-
   
-
-
-
-
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:-_Dress_-封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\69\ns6%3A-_Dress_-%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\69\ns6%3A-_Dress_-%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 BlackEditionFX | 同人志封面 | 封面图片
 
@@ -10,16 +10,14 @@ BlackEditionFX | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [- Dress -](./-_Dress_-.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [射命丸文](./射命丸文.md)- [灵乌路空](./灵乌路空.md)- [圣白莲](./圣白莲.md)
+- [- Dress -](./-_Dress_-.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [射命丸文](./射命丸文.md)
+- [灵乌路空](./灵乌路空.md)
+- [圣白莲](./圣白莲.md)
 
   
-[Nico Seiga ID: im4536292 (original size)](https://seiga.nicovideo.jp/seiga/im4536292)
-  
-
-
-
-
+[Nico Seiga ID: im4536292 (original size)](https://seiga.nicovideo.jp/seiga/im4536292)  
 
 ---
 

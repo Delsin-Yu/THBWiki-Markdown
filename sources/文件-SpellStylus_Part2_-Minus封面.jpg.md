@@ -1,6 +1,6 @@
 # 文件:SpellStylus_Part2_-Minus封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bb\ns6%3ASpellStylus_Part2_-Minus%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bb\ns6%3ASpellStylus_Part2_-Minus%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 荒御灵
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [SpellStylus Part2 -Minus](./SpellStylus_Part2_-Minus.md)  
-该封面包含的角色：- [火焰猫燐](./火焰猫燐.md)
-
-
-
+- [SpellStylus Part2 -Minus](./SpellStylus_Part2_-Minus.md)该封面包含的角色：
+- [火焰猫燐](./火焰猫燐.md)
 
 
 ---

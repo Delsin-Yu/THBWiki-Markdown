@@ -1,6 +1,6 @@
 # 文件:绽于枝垂樱下~Flowering_Across_the_Hakugyokurou封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3f\ns6%3A%E7%BB%BD%E4%BA%8E%E6%9E%9D%E5%9E%82%E6%A8%B1%E4%B8%8B%7EFlowering_Across_the_Hakugyokurou%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3f\ns6%3A%E7%BB%BD%E4%BA%8E%E6%9E%9D%E5%9E%82%E6%A8%B1%E4%B8%8B%7EFlowering_Across_the_Hakugyokurou%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 凝冰剑斩 | 封面图片 | 软件封面
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [绽于枝垂樱下~Flowering Across the Hakugyokurou](./绽于枝垂樱下~Flowering_Across_the_Hakugyokurou.md)  
-该封面包含的角色：- [西行寺幽幽子](./西行寺幽幽子.md)- [八云紫](./八云紫.md)
-
-
-
+- [绽于枝垂樱下~Flowering Across the Hakugyokurou](./绽于枝垂樱下~Flowering_Across_the_Hakugyokurou.md)该封面包含的角色：
+- [西行寺幽幽子](./西行寺幽幽子.md)
+- [八云紫](./八云紫.md)
 
 
 ---

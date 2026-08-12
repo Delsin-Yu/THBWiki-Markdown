@@ -1,6 +1,6 @@
 # 文件:HAPPY_NEW_YEAR_2009封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b4\ns6%3AHAPPY_NEW_YEAR_2009%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b4\ns6%3AHAPPY_NEW_YEAR_2009%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 NeutraL | 专辑封面 | 封面图片
 
@@ -8,11 +8,10 @@ NeutraL | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [HAPPY NEW YEAR 2009](./HAPPY_NEW_YEAR_2009.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)- [博丽灵梦](./博丽灵梦.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [HAPPY NEW YEAR 2009](./HAPPY_NEW_YEAR_2009.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
+- [博丽灵梦](./博丽灵梦.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

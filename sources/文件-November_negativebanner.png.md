@@ -1,18 +1,13 @@
 # 文件:November_negativebanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\aa\ns6%3ANovember_negativebanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\aa\ns6%3ANovember_negativebanner%2Epng.html -->
 
 November_negative | 社团LOGO
 
 
 ## 摘要
   
-源地址：[direct image link](http://rosac.ukime.org/link/nones.png), [source page](http://rosac.ukime.org/Link.html)
-  
-
-
-
-
+源地址：[direct image link](http://rosac.ukime.org/link/nones.png), [source page](http://rosac.ukime.org/Link.html)  
 
 ---
 

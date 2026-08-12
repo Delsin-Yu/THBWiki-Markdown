@@ -1,44 +1,36 @@
 # RITUAL_MERRY_WEDDING
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\23\ns0%3ARITUAL_MERRY_WEDDING.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\23\ns0%3ARITUAL_MERRY_WEDDING.html -->
 
 2017年10月15日 由 マグロ一本釣り 于 博丽神社秋季例大祭4 发布的漫画同人志，B5尺寸一共28页，登场人物有 宇佐见莲子、玛艾露贝莉·赫恩，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人志 (未找到链接)** 的词条
-
+**[二次创作同人志](./二次创作.md#同人志)**的词条
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-RITUAL_MERRY_WEDDING封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/4/40/RITUAL_MERRY_WEDDING%E5%B0%81%E9%9D%A2.jpg/161px-RITUAL_MERRY_WEDDING%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="161" height="224" srcset="https://upload.thwiki.cc/thumb/4/40/RITUAL_MERRY_WEDDING%E5%B0%81%E9%9D%A2.jpg/241px-RITUAL_MERRY_WEDDING%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/4/40/RITUAL_MERRY_WEDDING%E5%B0%81%E9%9D%A2.jpg/322px-RITUAL_MERRY_WEDDING%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="647" data-file-height="900"></a><div class="cover-char">角色：<a href="./玛艾露贝莉·赫恩.md" title="玛艾露贝莉·赫恩">玛艾露贝莉·赫恩</a>，<a href="./宇佐见莲子.md" title="宇佐见莲子">宇佐见莲子</a></div></td>
 </tr><tr><td class="label">名称</td><td colspan="2"> RITUAL MERRY WEDDING </td></tr><tr><td class="label">制作方</td><td><a href="./マグロ一本釣り.md" title="マグロ一本釣り">マグロ一本釣り</a></td><td class="cover-artwork" rowspan="8" style="min-width:224px;"><a href="./文件-RITUAL_MERRY_WEDDING封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/4/40/RITUAL_MERRY_WEDDING%E5%B0%81%E9%9D%A2.jpg/161px-RITUAL_MERRY_WEDDING%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="161" height="224" srcset="https://upload.thwiki.cc/thumb/4/40/RITUAL_MERRY_WEDDING%E5%B0%81%E9%9D%A2.jpg/241px-RITUAL_MERRY_WEDDING%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/4/40/RITUAL_MERRY_WEDDING%E5%B0%81%E9%9D%A2.jpg/322px-RITUAL_MERRY_WEDDING%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="647" data-file-height="900"></a><div class="cover-char">角色：<a href="./玛艾露贝莉·赫恩.md" title="玛艾露贝莉·赫恩">玛艾露贝莉·赫恩</a>，<a href="./宇佐见莲子.md" title="宇佐见莲子">宇佐见莲子</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2017-10-15&#160;（<a href="/展会作品列表?e=%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E7%A7%8B%E5%AD%A3%E4%BE%8B%E5%A4%A7%E7%A5%AD%234">第四回 博麗神社秋季例大祭</a>）</td></tr><tr><td class="label">类型</td><td>漫画</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>B5</td></tr><tr><td class="label">页数</td><td>28P</td></tr><tr><td class="label">登场人物</td><td><a href="./宇佐见莲子.md" title="宇佐见莲子">宇佐见莲子</a>，<a href="./玛艾露贝莉·赫恩.md" title="玛艾露贝莉·赫恩">玛艾露贝莉·赫恩</a></td></tr><tr><td class="label">售价</td><td>通贩售价：400日元</td></tr></tbody></table>
+</tr><tr><td class="label">首发日期</td><td>2017-10-15 （<a href="./展会作品列表.md#4">第四回 博麗神社秋季例大祭</a>）</td></tr><tr><td class="label">类型</td><td>漫画</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>B5</td></tr><tr><td class="label">页数</td><td>28P</td></tr><tr><td class="label">登场人物</td><td><a href="./宇佐见莲子.md" title="宇佐见莲子">宇佐见莲子</a>，<a href="./玛艾露贝莉·赫恩.md" title="玛艾露贝莉·赫恩">玛艾露贝莉·赫恩</a></td></tr><tr><td class="label">售价</td><td>通贩售价：400日元</td></tr></tbody></table>
 
 RITUAL MERRY WEDDING（同人志，マグロ一本釣り，2017） - 2017年10月15日 由 マグロ一本釣り 于 博丽神社秋季例大祭4 发布的漫画同人志，B5尺寸一共28页，登场人物有 宇佐见莲子、玛艾露贝莉·赫恩，分级为 一般向
-
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=1952785">蜜瓜</a>，<a rel="nofollow" class="external text" href="https://booth.pm/ja/items/4774711">Booth</a></td></tr></tbody></table>
 
 
-
 ## 预览
-- [](./文件-RITUAL_MERRY_WEDDING预览图1.jpg.md)- [](./文件-RITUAL_MERRY_WEDDING预览图2.jpg.md)- [](./文件-RITUAL_MERRY_WEDDING预览图3.jpg.md)
+
+- <img alt="RITUAL MERRY WEDDING预览图1.jpg" src="https://upload.thwiki.cc/thumb/3/30/RITUAL_MERRY_WEDDING%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg/265px-RITUAL_MERRY_WEDDING%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg" decoding="async" loading="lazy" width="177" height="250" srcset="https://upload.thwiki.cc/thumb/3/30/RITUAL_MERRY_WEDDING%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg/398px-RITUAL_MERRY_WEDDING%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg 1.5x, https://upload.thwiki.cc/thumb/3/30/RITUAL_MERRY_WEDDING%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg/531px-RITUAL_MERRY_WEDDING%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg 2x" data-file-width="637" data-file-height="900"> 
+- <img alt="RITUAL MERRY WEDDING预览图2.jpg" src="https://upload.thwiki.cc/thumb/7/79/RITUAL_MERRY_WEDDING%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg/265px-RITUAL_MERRY_WEDDING%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg" decoding="async" loading="lazy" width="177" height="250" srcset="https://upload.thwiki.cc/thumb/7/79/RITUAL_MERRY_WEDDING%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg/398px-RITUAL_MERRY_WEDDING%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg 1.5x, https://upload.thwiki.cc/thumb/7/79/RITUAL_MERRY_WEDDING%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg/531px-RITUAL_MERRY_WEDDING%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg 2x" data-file-width="637" data-file-height="900"> 
+- <img alt="RITUAL MERRY WEDDING预览图3.jpg" src="https://upload.thwiki.cc/thumb/f/f2/RITUAL_MERRY_WEDDING%E9%A2%84%E8%A7%88%E5%9B%BE3.jpg/265px-RITUAL_MERRY_WEDDING%E9%A2%84%E8%A7%88%E5%9B%BE3.jpg" decoding="async" loading="lazy" width="177" height="250" srcset="https://upload.thwiki.cc/thumb/f/f2/RITUAL_MERRY_WEDDING%E9%A2%84%E8%A7%88%E5%9B%BE3.jpg/398px-RITUAL_MERRY_WEDDING%E9%A2%84%E8%A7%88%E5%9B%BE3.jpg 1.5x, https://upload.thwiki.cc/thumb/f/f2/RITUAL_MERRY_WEDDING%E9%A2%84%E8%A7%88%E5%9B%BE3.jpg/531px-RITUAL_MERRY_WEDDING%E9%A2%84%E8%A7%88%E5%9B%BE3.jpg 2x" data-file-width="637" data-file-height="900"> 
 
 
 ## Staff
+
 - 鰆缶の (未找到链接)
 
 
 ## 评论
   
-蓮メリがちゅっちゅしていけない境界を開いてしまう話です。百合です。
-  
-  
-  
-
-  
-
-
-
-
+蓮メリがちゅっちゅしていけない境界を開いてしまう話です。百合です。  
 
 ---
 

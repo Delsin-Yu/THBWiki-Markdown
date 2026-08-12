@@ -1,6 +1,6 @@
 # 文件:参星童皇_~Town_of_Illusions~封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d9\ns6%3A%E5%8F%82%E6%98%9F%E7%AB%A5%E7%9A%87_%7ETown_of_Illusions%7E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d9\ns6%3A%E5%8F%82%E6%98%9F%E7%AB%A5%E7%9A%87_%7ETown_of_Illusions%7E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 幻想のカペリェー_~illusion_hatters~
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [参星童皇 ~Town of Illusions~](./参星童皇_~Town_of_Illusions~.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)
-
-
-
+- [参星童皇 ~Town of Illusions~](./参星童皇_~Town_of_Illusions~.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
 
 
 ---

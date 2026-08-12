@@ -1,6 +1,6 @@
 # 文件:Beloved_Birthday_Girl_~_The_Strongest封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\50\ns6%3ABeloved_Birthday_Girl_%7E_The_Strongest%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\50\ns6%3ABeloved_Birthday_Girl_%7E_The_Strongest%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Maiden's_Capriccio | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Maiden's_Capriccio | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Beloved Birthday Girl ~ The Strongest](./Beloved_Birthday_Girl_~_The_Strongest.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)
+- [Beloved Birthday Girl ~ The Strongest](./Beloved_Birthday_Girl_~_The_Strongest.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
 
   
-源地址：[[1]](https://kuroblood.bandcamp.com/track/beloved-birthday-girl-the-strongest)
-  
-
-
-
-
+源地址：[\[1\]](https://kuroblood.bandcamp.com/track/beloved-birthday-girl-the-strongest)  
 
 ---
 

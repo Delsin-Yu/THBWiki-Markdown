@@ -1,6 +1,6 @@
 # 文件:Quiche×Prank×だいへんしん!封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cf\ns6%3AQuiche%C3%97Prank%C3%97%E3%81%A0%E3%81%84%E3%81%B8%E3%82%93%E3%81%97%E3%82%93%21%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cf\ns6%3AQuiche%C3%97Prank%C3%97%E3%81%A0%E3%81%84%E3%81%B8%E3%82%93%E3%81%97%E3%82%93%21%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 同人志封面 | 封面图片 | 深海のかぜ
 
@@ -8,11 +8,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [Quiche×Prank×だいへんしん!](./Quiche×Prank×だいへんしん!.md)  
-该封面包含的角色：- [娜兹玲](./娜兹玲.md)- [封兽鵺](./封兽鵺.md)- [幽谷响子](./幽谷响子.md)
-
-
-
+- [Quiche×Prank×だいへんしん!](./Quiche×Prank×だいへんしん!.md)该封面包含的角色：
+- [娜兹玲](./娜兹玲.md)
+- [封兽鵺](./封兽鵺.md)
+- [幽谷响子](./幽谷响子.md)
 
 
 ---

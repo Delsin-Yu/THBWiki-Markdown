@@ -1,6 +1,6 @@
 # 文件:犬走椛と闇のTPO封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8e\ns6%3A%E7%8A%AC%E8%B5%B0%E6%A4%9B%E3%81%A8%E9%97%87%E3%81%AETPO%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8e\ns6%3A%E7%8A%AC%E8%B5%B0%E6%A4%9B%E3%81%A8%E9%97%87%E3%81%AETPO%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 さくSaku亭 | 同人志封面 | 封面图片
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [犬走椛と闇のTPO](./犬走椛と闇のTPO.md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)- [犬走椛](./犬走椛.md)
-
-
-
+- [犬走椛と闇のTPO](./犬走椛と闇のTPO.md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
+- [犬走椛](./犬走椛.md)
 
 
 ---

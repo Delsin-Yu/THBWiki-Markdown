@@ -1,16 +1,12 @@
 # 模板:TMRF
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\f\f2\ns10%3ATMRF.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\f\f2\ns10%3ATMRF.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

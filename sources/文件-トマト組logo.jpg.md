@@ -1,16 +1,11 @@
 # 文件:トマト組logo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a8\ns6%3A%E3%83%88%E3%83%9E%E3%83%88%E7%B5%84logo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a8\ns6%3A%E3%83%88%E3%83%9E%E3%83%88%E7%B5%84logo%2Ejpg.html -->
 
 トマト組 | 社团LOGO
 
   
-源地址：[[1]](https://booth.pximg.net/c/128x128/users/80380/icon_image/0c8c9339-08f1-481f-bbb0-2376b965b8ba_base_resized.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://booth.pximg.net/c/128x128/users/80380/icon_image/0c8c9339-08f1-481f-bbb0-2376b965b8ba_base_resized.jpg)  
 
 ---
 

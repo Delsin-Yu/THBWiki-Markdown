@@ -1,6 +1,6 @@
 # 文件:From..._To...封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\06\ns6%3AFrom%2E%2E%2E_To%2E%2E%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\06\ns6%3AFrom%2E%2E%2E_To%2E%2E%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 以呂波屋 | 封面图片
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [From... To...](./From..._To....md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [From... To...](./From..._To....md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
 
   
-源地址：[[1]](http://www.iroha-ya.info/works/iroh0007/iroh0007_jacket_01.png)
-  
-
-
-
-
+源地址：[\[1\]](http://www.iroha-ya.info/works/iroh0007/iroh0007_jacket_01.png)  
 
 ---
 

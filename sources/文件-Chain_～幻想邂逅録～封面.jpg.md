@@ -1,6 +1,6 @@
 # 文件:Chain_～幻想邂逅録～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c1\ns6%3AChain_%EF%BD%9E%E5%B9%BB%E6%83%B3%E9%82%82%E9%80%85%E9%8C%B2%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c1\ns6%3AChain_%EF%BD%9E%E5%B9%BB%E6%83%B3%E9%82%82%E9%80%85%E9%8C%B2%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 子猫夺回屋 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Chain ～幻想邂逅録～](./Chain_～幻想邂逅録～.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [Chain ～幻想邂逅録～](./Chain_～幻想邂逅録～.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

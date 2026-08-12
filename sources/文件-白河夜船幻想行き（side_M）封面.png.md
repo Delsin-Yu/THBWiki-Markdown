@@ -1,6 +1,6 @@
 # 文件:白河夜船幻想行き（side_M）封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b1\ns6%3A%E7%99%BD%E6%B2%B3%E5%A4%9C%E8%88%B9%E5%B9%BB%E6%83%B3%E8%A1%8C%E3%81%8D%EF%BC%88side_M%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b1\ns6%3A%E7%99%BD%E6%B2%B3%E5%A4%9C%E8%88%B9%E5%B9%BB%E6%83%B3%E8%A1%8C%E3%81%8D%EF%BC%88side_M%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 同人志封面 | 封面图片 | 青夢倶楽部
 
@@ -10,16 +10,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [白河夜船幻想行き（side M）](./白河夜船幻想行き（side_M）.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
+- [白河夜船幻想行き（side M）](./白河夜船幻想行き（side_M）.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
   
-源地址：[direct image link (original uploaded image)](https://pbs.twimg.com/media/EwhaofPVEAUy-Z4?format=png&amp;name=orig), [source tweet](https://twitter.com/yuzuru_cb/status/1371448900272283652)
-  
-
-
-
-
+源地址：[direct image link (original uploaded image)](https://pbs.twimg.com/media/EwhaofPVEAUy-Z4?format=png&name=orig), [source tweet](https://twitter.com/yuzuru_cb/status/1371448900272283652)  
 
 ---
 

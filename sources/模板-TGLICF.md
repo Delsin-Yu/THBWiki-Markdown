@@ -1,16 +1,12 @@
 # 模板:TGLICF
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\a\a6\ns10%3ATGLICF.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\a\a6\ns10%3ATGLICF.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

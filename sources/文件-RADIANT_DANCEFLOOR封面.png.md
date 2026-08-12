@@ -1,6 +1,6 @@
 # 文件:RADIANT_DANCEFLOOR封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c5\ns6%3ARADIANT_DANCEFLOOR%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c5\ns6%3ARADIANT_DANCEFLOOR%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Babbe_Music | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Babbe_Music | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [RADIANT DANCEFLOOR](./RADIANT_DANCEFLOOR.md)  
-该封面包含的角色：- [古明地恋](./古明地恋.md)
-
-
-
+- [RADIANT DANCEFLOOR](./RADIANT_DANCEFLOOR.md)该封面包含的角色：
+- [古明地恋](./古明地恋.md)
 
 
 ---

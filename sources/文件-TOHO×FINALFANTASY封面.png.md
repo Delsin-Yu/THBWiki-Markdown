@@ -1,6 +1,6 @@
 # 文件:TOHO×FINALFANTASY封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\40\ns6%3ATOHO%C3%97FINALFANTASY%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\40\ns6%3ATOHO%C3%97FINALFANTASY%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Ridil | 同人志封面 | 封面图片
 
@@ -8,11 +8,18 @@ Ridil | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [TOHO×FINALFANTASY](./TOHO×FINALFANTASY.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- 十六夜咲夜 (未找到链接)- [橙](./橙.md)- [八云紫](./八云紫.md)- [射命丸文](./射命丸文.md)- [比那名居天子](./比那名居天子.md)- [八坂神奈子](./八坂神奈子.md)- [古明地觉](./古明地觉.md)- [古明地恋](./古明地恋.md)- [多多良小伞](./多多良小伞.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [TOHO×FINALFANTASY](./TOHO×FINALFANTASY.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [十六夜咲夜](./十六夜咲夜.md)
+- [橙](./橙.md)
+- [八云紫](./八云紫.md)
+- [射命丸文](./射命丸文.md)
+- [比那名居天子](./比那名居天子.md)
+- [八坂神奈子](./八坂神奈子.md)
+- [古明地觉](./古明地觉.md)
+- [古明地恋](./古明地恋.md)
+- [多多良小伞](./多多良小伞.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

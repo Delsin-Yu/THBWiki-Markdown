@@ -1,16 +1,12 @@
 # 模板:WF
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\7\72\ns10%3AWF.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\7\72\ns10%3AWF.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

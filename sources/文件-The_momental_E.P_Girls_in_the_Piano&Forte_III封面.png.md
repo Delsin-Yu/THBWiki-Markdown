@@ -1,6 +1,6 @@
 # 文件:The_momental_E.P_Girls_in_the_Piano&Forte_III封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\72\ns6%3AThe_momental_E%2EP_Girls_in_the_Piano%26Forte_III%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\72\ns6%3AThe_momental_E%2EP_Girls_in_the_Piano%26Forte_III%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Lunatico_fEs | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Lunatico_fEs | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [The momental E.P Girls in the Piano&amp;Forte III](./The_momental_E.P_Girls_in_the_Piano&Forte_III.md)  
-该封面包含的角色：- [稗田阿求](./稗田阿求.md)
-
-
-
+- [The momental E.P Girls in the Piano&Forte III](./The_momental_E.P_Girls_in_the_Piano&Forte_III.md)该封面包含的角色：
+- [稗田阿求](./稗田阿求.md)
 
 
 ---

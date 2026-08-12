@@ -1,12 +1,8 @@
 # 文件:东方真珠岛StageEx场景四.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c2\ns6%3A%E4%B8%9C%E6%96%B9%E7%9C%9F%E7%8F%A0%E5%B2%9BStageEx%E5%9C%BA%E6%99%AF%E5%9B%9B%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c2\ns6%3A%E4%B8%9C%E6%96%B9%E7%9C%9F%E7%8F%A0%E5%B2%9BStageEx%E5%9C%BA%E6%99%AF%E5%9B%9B%2Ejpg.html -->
 
 東方邪星章製作チーム
-
-
-
-
 
 
 ---

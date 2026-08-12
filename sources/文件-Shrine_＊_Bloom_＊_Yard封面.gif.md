@@ -1,6 +1,6 @@
 # 文件:Shrine_＊_Bloom_＊_Yard封面.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3d\ns6%3AShrine_%EF%BC%8A_Bloom_%EF%BC%8A_Yard%E5%B0%81%E9%9D%A2%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3d\ns6%3AShrine_%EF%BC%8A_Bloom_%EF%BC%8A_Yard%E5%B0%81%E9%9D%A2%2Egif.html -->
 
 Siestail | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Siestail | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Shrine ＊ Bloom ＊ Yard](./Shrine_＊_Bloom_＊_Yard.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [Shrine ＊ Bloom ＊ Yard](./Shrine_＊_Bloom_＊_Yard.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

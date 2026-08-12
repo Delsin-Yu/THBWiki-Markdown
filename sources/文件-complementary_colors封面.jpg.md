@@ -1,6 +1,6 @@
 # 文件:complementary_colors封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6f\ns6%3Acomplementary_colors%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6f\ns6%3Acomplementary_colors%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 PURE | 同人志封面 | 封面图片 | 遊閑地
 
@@ -8,16 +8,11 @@ PURE | 同人志封面 | 封面图片 | 遊閑地
 使用了本文件作封面图片的作品：
   
 
-- [complementary colors](./complementary_colors.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
+- [complementary colors](./complementary_colors.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
   
-源地址：[[1]](https://blog-imgs-55-origin.fc2.com/m/i/n/minakatasunao/complementarycolors.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://blog-imgs-55-origin.fc2.com/m/i/n/minakatasunao/complementarycolors.jpg)  
 
 ---
 

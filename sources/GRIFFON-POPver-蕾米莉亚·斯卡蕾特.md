@@ -1,37 +1,21 @@
 # GRIFFON/POPver/蕾米莉亚·斯卡蕾特
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\1\11\ns0%3AGRIFFON%2FPOPver%2F%E8%95%BE%E7%B1%B3%E8%8E%89%E4%BA%9A%C2%B7%E6%96%AF%E5%8D%A1%E8%95%BE%E7%89%B9.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\1\11\ns0%3AGRIFFON%2FPOPver%2F%E8%95%BE%E7%B1%B3%E8%8E%89%E4%BA%9A%C2%B7%E6%96%AF%E5%8D%A1%E8%95%BE%E7%89%B9.html -->
 
 蕾米莉亚·斯卡蕾特PVCFigure手办模型
 
 本页是关于东方Project  
- **相关实体周边 (未找到链接)** 的词条
-
+**相关实体周边 (未找到链接)**的词条
 ## 模型信息
 
-<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 蕾米莉亚·斯卡蕾特 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>POPver</td></tr><tr><td class="label">角色</td><td><a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a></td></tr><tr><td class="label">原型师</td><td><a href="/index.php?title=%E6%A3%AE%E5%B7%9D%E8%A3%95%E5%85%89&amp;action=edit&amp;redlink=1" class="new" title="森川裕光（页面不存在）">森川裕光</a></td></tr><tr><td class="label">原画师</td><td><a href="./ポップ（豚乙女）.md" title="ポップ（豚乙女）" unred="">ぽっぷ</a></td></tr><tr><td class="label">尺寸</td><td>130mm</td></tr><tr><td class="label">状态</td><td>已发售</td></tr><tr><td class="label">售价</td><td>7600日元</td></tr><tr><td class="label">首发日期</td><td>2011-10-12</td></tr><tr><td class="label">发售方</td><td><a href="/index.php?title=GRIFFON&amp;action=edit&amp;redlink=1" class="new" title="GRIFFON（页面不存在）">GRIFFON</a></td></tr></tbody></table>
+<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 蕾米莉亚·斯卡蕾特 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>POPver</td></tr><tr><td class="label">角色</td><td><a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a></td></tr><tr><td class="label">原型师</td><td><a class="new" title="森川裕光（页面不存在）">森川裕光</a></td></tr><tr><td class="label">原画师</td><td><a href="./ポップ（豚乙女）.md" title="ポップ（豚乙女）" unred="">ぽっぷ</a></td></tr><tr><td class="label">尺寸</td><td>130mm</td></tr><tr><td class="label">状态</td><td>已发售</td></tr><tr><td class="label">售价</td><td>7600日元</td></tr><tr><td class="label">首发日期</td><td>2011-10-12</td></tr><tr><td class="label">发售方</td><td><a class="new" title="GRIFFON（页面不存在）">GRIFFON</a></td></tr></tbody></table>
 
 GRIFFON/POPver/蕾米莉亚·斯卡蕾特（周边） - 蕾米莉亚·斯卡蕾特PVCFigure手办模型
-
 ## 参考图片
-
-
-
-[](./文件-GRIFFONPOPver蕾米莉亚·斯卡蕾特-1.jpg.md)
-
-
-[](./文件-GRIFFONPOPver蕾米莉亚·斯卡蕾特-2.jpg.md)
-
-
-[](./文件-GRIFFONPOPver蕾米莉亚·斯卡蕾特-3.jpg.md)
-
+<img alt="GRIFFONPOPver蕾米莉亚·斯卡蕾特" src="https://upload.thwiki.cc/thumb/f/f3/GRIFFONPOPver%E8%95%BE%E7%B1%B3%E8%8E%89%E4%BA%9A%C2%B7%E6%96%AF%E5%8D%A1%E8%95%BE%E7%89%B9-1.jpg/160px-GRIFFONPOPver%E8%95%BE%E7%B1%B3%E8%8E%89%E4%BA%9A%C2%B7%E6%96%AF%E5%8D%A1%E8%95%BE%E7%89%B9-1.jpg" decoding="async" loading="lazy" width="160" height="106" srcset="https://upload.thwiki.cc/thumb/f/f3/GRIFFONPOPver%E8%95%BE%E7%B1%B3%E8%8E%89%E4%BA%9A%C2%B7%E6%96%AF%E5%8D%A1%E8%95%BE%E7%89%B9-1.jpg/240px-GRIFFONPOPver%E8%95%BE%E7%B1%B3%E8%8E%89%E4%BA%9A%C2%B7%E6%96%AF%E5%8D%A1%E8%95%BE%E7%89%B9-1.jpg 1.5x, https://upload.thwiki.cc/thumb/f/f3/GRIFFONPOPver%E8%95%BE%E7%B1%B3%E8%8E%89%E4%BA%9A%C2%B7%E6%96%AF%E5%8D%A1%E8%95%BE%E7%89%B9-1.jpg/320px-GRIFFONPOPver%E8%95%BE%E7%B1%B3%E8%8E%89%E4%BA%9A%C2%B7%E6%96%AF%E5%8D%A1%E8%95%BE%E7%89%B9-1.jpg 2x" data-file-width="600" data-file-height="399">
+<img alt="GRIFFONPOPver蕾米莉亚·斯卡蕾特" src="https://upload.thwiki.cc/thumb/6/6a/GRIFFONPOPver%E8%95%BE%E7%B1%B3%E8%8E%89%E4%BA%9A%C2%B7%E6%96%AF%E5%8D%A1%E8%95%BE%E7%89%B9-2.jpg/160px-GRIFFONPOPver%E8%95%BE%E7%B1%B3%E8%8E%89%E4%BA%9A%C2%B7%E6%96%AF%E5%8D%A1%E8%95%BE%E7%89%B9-2.jpg" decoding="async" loading="lazy" width="160" height="107" srcset="https://upload.thwiki.cc/thumb/6/6a/GRIFFONPOPver%E8%95%BE%E7%B1%B3%E8%8E%89%E4%BA%9A%C2%B7%E6%96%AF%E5%8D%A1%E8%95%BE%E7%89%B9-2.jpg/240px-GRIFFONPOPver%E8%95%BE%E7%B1%B3%E8%8E%89%E4%BA%9A%C2%B7%E6%96%AF%E5%8D%A1%E8%95%BE%E7%89%B9-2.jpg 1.5x, https://upload.thwiki.cc/thumb/6/6a/GRIFFONPOPver%E8%95%BE%E7%B1%B3%E8%8E%89%E4%BA%9A%C2%B7%E6%96%AF%E5%8D%A1%E8%95%BE%E7%89%B9-2.jpg/320px-GRIFFONPOPver%E8%95%BE%E7%B1%B3%E8%8E%89%E4%BA%9A%C2%B7%E6%96%AF%E5%8D%A1%E8%95%BE%E7%89%B9-2.jpg 2x" data-file-width="650" data-file-height="433">
+<img alt="GRIFFONPOPver蕾米莉亚·斯卡蕾特" src="https://upload.thwiki.cc/thumb/b/b6/GRIFFONPOPver%E8%95%BE%E7%B1%B3%E8%8E%89%E4%BA%9A%C2%B7%E6%96%AF%E5%8D%A1%E8%95%BE%E7%89%B9-3.jpg/160px-GRIFFONPOPver%E8%95%BE%E7%B1%B3%E8%8E%89%E4%BA%9A%C2%B7%E6%96%AF%E5%8D%A1%E8%95%BE%E7%89%B9-3.jpg" decoding="async" loading="lazy" width="160" height="107" srcset="https://upload.thwiki.cc/thumb/b/b6/GRIFFONPOPver%E8%95%BE%E7%B1%B3%E8%8E%89%E4%BA%9A%C2%B7%E6%96%AF%E5%8D%A1%E8%95%BE%E7%89%B9-3.jpg/240px-GRIFFONPOPver%E8%95%BE%E7%B1%B3%E8%8E%89%E4%BA%9A%C2%B7%E6%96%AF%E5%8D%A1%E8%95%BE%E7%89%B9-3.jpg 1.5x, https://upload.thwiki.cc/thumb/b/b6/GRIFFONPOPver%E8%95%BE%E7%B1%B3%E8%8E%89%E4%BA%9A%C2%B7%E6%96%AF%E5%8D%A1%E8%95%BE%E7%89%B9-3.jpg/320px-GRIFFONPOPver%E8%95%BE%E7%B1%B3%E8%8E%89%E4%BA%9A%C2%B7%E6%96%AF%E5%8D%A1%E8%95%BE%E7%89%B9-3.jpg 2x" data-file-width="650" data-file-height="433">
 公式图
-
-
-
-
-
-
 
 ---
 

@@ -1,17 +1,19 @@
 # 东方三月精_～_Eastern_and_Little_Nature_Deity./月之妖精
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\06\ns0%3A%E4%B8%9C%E6%96%B9%E4%B8%89%E6%9C%88%E7%B2%BE_%EF%BD%9E_Eastern_and_Little_Nature_Deity%2E%2F%E6%9C%88%E4%B9%8B%E5%A6%96%E7%B2%BE.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\06\ns0%3A%E4%B8%9C%E6%96%B9%E4%B8%89%E6%9C%88%E7%B2%BE_%EF%BD%9E_Eastern_and_Little_Nature_Deity%2E%2F%E6%9C%88%E4%B9%8B%E5%A6%96%E7%B2%BE.html -->
 
 官方漫画东方三月精系列的官方小说。
 
+
 ## 概述
-
-
-[](./文件-月之妖精封面.jpg.md)月之妖精封面[](./文件-月之妖精插图1.jpg.md)月之妖精插图1[](./文件-月之妖精插图2.jpg.md)月之妖精插图2[](./文件-月之妖精插图3.jpg.md)月之妖精插图3[](./文件-月之妖精插图4.jpg.md)月之妖精插图4
-  
-<big> **月之妖精 **   
-</big>
-月の妖精 <small>（つきのようせい， *Tsuki no Yousei* ）</small>  
+<img alt="月之妖精封面" src="https://upload.thwiki.cc/thumb/6/6f/%E6%9C%88%E4%B9%8B%E5%A6%96%E7%B2%BE%E5%B0%81%E9%9D%A2.jpg/250px-%E6%9C%88%E4%B9%8B%E5%A6%96%E7%B2%BE%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="250" height="362" srcset="https://upload.thwiki.cc/thumb/6/6f/%E6%9C%88%E4%B9%8B%E5%A6%96%E7%B2%BE%E5%B0%81%E9%9D%A2.jpg/375px-%E6%9C%88%E4%B9%8B%E5%A6%96%E7%B2%BE%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/6/6f/%E6%9C%88%E4%B9%8B%E5%A6%96%E7%B2%BE%E5%B0%81%E9%9D%A2.jpg/500px-%E6%9C%88%E4%B9%8B%E5%A6%96%E7%B2%BE%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1105" data-file-height="1600">
+月之妖精封面<img alt="月之妖精插图1" src="https://upload.thwiki.cc/thumb/7/73/%E6%9C%88%E4%B9%8B%E5%A6%96%E7%B2%BE%E6%8F%92%E5%9B%BE1.jpg/250px-%E6%9C%88%E4%B9%8B%E5%A6%96%E7%B2%BE%E6%8F%92%E5%9B%BE1.jpg" decoding="async" loading="lazy" width="250" height="242" srcset="https://upload.thwiki.cc/thumb/7/73/%E6%9C%88%E4%B9%8B%E5%A6%96%E7%B2%BE%E6%8F%92%E5%9B%BE1.jpg/375px-%E6%9C%88%E4%B9%8B%E5%A6%96%E7%B2%BE%E6%8F%92%E5%9B%BE1.jpg 1.5x, https://upload.thwiki.cc/thumb/7/73/%E6%9C%88%E4%B9%8B%E5%A6%96%E7%B2%BE%E6%8F%92%E5%9B%BE1.jpg/500px-%E6%9C%88%E4%B9%8B%E5%A6%96%E7%B2%BE%E6%8F%92%E5%9B%BE1.jpg 2x" data-file-width="942" data-file-height="910">
+月之妖精插图1<img alt="月之妖精插图2" src="https://upload.thwiki.cc/thumb/a/ac/%E6%9C%88%E4%B9%8B%E5%A6%96%E7%B2%BE%E6%8F%92%E5%9B%BE2.jpg/250px-%E6%9C%88%E4%B9%8B%E5%A6%96%E7%B2%BE%E6%8F%92%E5%9B%BE2.jpg" decoding="async" loading="lazy" width="250" height="241" srcset="https://upload.thwiki.cc/thumb/a/ac/%E6%9C%88%E4%B9%8B%E5%A6%96%E7%B2%BE%E6%8F%92%E5%9B%BE2.jpg/375px-%E6%9C%88%E4%B9%8B%E5%A6%96%E7%B2%BE%E6%8F%92%E5%9B%BE2.jpg 1.5x, https://upload.thwiki.cc/thumb/a/ac/%E6%9C%88%E4%B9%8B%E5%A6%96%E7%B2%BE%E6%8F%92%E5%9B%BE2.jpg/500px-%E6%9C%88%E4%B9%8B%E5%A6%96%E7%B2%BE%E6%8F%92%E5%9B%BE2.jpg 2x" data-file-width="944" data-file-height="910">
+月之妖精插图2<img alt="月之妖精插图3" src="https://upload.thwiki.cc/thumb/2/20/%E6%9C%88%E4%B9%8B%E5%A6%96%E7%B2%BE%E6%8F%92%E5%9B%BE3.jpg/250px-%E6%9C%88%E4%B9%8B%E5%A6%96%E7%B2%BE%E6%8F%92%E5%9B%BE3.jpg" decoding="async" loading="lazy" width="250" height="362" srcset="https://upload.thwiki.cc/thumb/2/20/%E6%9C%88%E4%B9%8B%E5%A6%96%E7%B2%BE%E6%8F%92%E5%9B%BE3.jpg/375px-%E6%9C%88%E4%B9%8B%E5%A6%96%E7%B2%BE%E6%8F%92%E5%9B%BE3.jpg 1.5x, https://upload.thwiki.cc/thumb/2/20/%E6%9C%88%E4%B9%8B%E5%A6%96%E7%B2%BE%E6%8F%92%E5%9B%BE3.jpg/500px-%E6%9C%88%E4%B9%8B%E5%A6%96%E7%B2%BE%E6%8F%92%E5%9B%BE3.jpg 2x" data-file-width="1105" data-file-height="1600">
+月之妖精插图3<img alt="月之妖精插图4" src="https://upload.thwiki.cc/thumb/f/fc/%E6%9C%88%E4%B9%8B%E5%A6%96%E7%B2%BE%E6%8F%92%E5%9B%BE4.jpg/250px-%E6%9C%88%E4%B9%8B%E5%A6%96%E7%B2%BE%E6%8F%92%E5%9B%BE4.jpg" decoding="async" loading="lazy" width="250" height="362" srcset="https://upload.thwiki.cc/thumb/f/fc/%E6%9C%88%E4%B9%8B%E5%A6%96%E7%B2%BE%E6%8F%92%E5%9B%BE4.jpg/375px-%E6%9C%88%E4%B9%8B%E5%A6%96%E7%B2%BE%E6%8F%92%E5%9B%BE4.jpg 1.5x, https://upload.thwiki.cc/thumb/f/fc/%E6%9C%88%E4%B9%8B%E5%A6%96%E7%B2%BE%E6%8F%92%E5%9B%BE4.jpg/500px-%E6%9C%88%E4%B9%8B%E5%A6%96%E7%B2%BE%E6%8F%92%E5%9B%BE4.jpg 2x" data-file-width="1105" data-file-height="1600">
+月之妖精插图4  
+<big>**月之妖精 **</big>
+月の妖精 <small>（つきのようせい，*Tsuki no Yousei*）</small>  
 
 官方漫画[东方三月精](./东方三月精.md)的第一部（[东方三月精 ～ Eastern and Little Nature Deity.](./东方三月精_～_Eastern_and_Little_Nature_Deity..md)）单行本中附带的小说。  
 
@@ -20,8 +22,9 @@
 该单行本于2007年1月26日发售。
   
 
-- 本词条为中文翻译版，如需要日文对照请参见 **[中日对照](./东方三月精_～_Eastern_and_Little_Nature_Deity.-月之妖精-中日对照.md)** 
+- 本词条为中文翻译版，如需要日文对照请参见**[中日对照](./东方三月精_～_Eastern_and_Little_Nature_Deity.-月之妖精-中日对照.md)**
 - 本话于单行本中页数：115-132
+
 
 ## 内容
 
@@ -47,7 +50,7 @@
 <td style="text-align: center;"><div class="tt-header tt-type-omake" lang="zh"><div class="poem">＊</div></div>
 </td></tr>
 <tr>
-<td><div class="tt-zh tt-type-omake" lang="zh"><div class="poem">　　十分阴暗冷清的店内，被奇妙的工具和空气中肆意飘扬的灰尘所填满。男人为了采光，拉开了窗帘。<br>　　外面的世界一片雪白，冬季的日光在雪地上反射后，往店内射入了过多的光线，于是男人又把窗帘拉回了一半。<br>　　他想到因孙康映雪而广为人知的用雪收集的光，此光并不是日光而是月光，日光会融化雪的表面，使反射角度略微变化，反射出刺眼的光芒。所以他思忖着，日光反射的光是无法读书的吧。<br>　“三只妖精。真是稀客啊。最近越来越冷所以你们要买点什么东西吗？”<br>　　幻想乡的旧货店：香霖堂的店主森近霖之助说道。<br>　“额，不。不是来买东西的。”<br>　　桑尼说完紧接着斯塔又补充道“也没带着钱”。<br>　“嗐，我想也是只看不买。店里全是需要智慧才能用的器具，妖精怎么会在这里买东西。”<br>　　霖之助早已见惯了这样的顾客，但因为不是买主，他还是感到有些失望。见状桑尼赶忙说。<br>　“虽说是只看不买，但也不完全是。刚才在森林里寻宝，捡到了个稀罕玩意，因为不知道是什么所以拿来店里了。”<br>　“啊，那你早说嘛。是什么东西？”<br>　　奇怪的东西——那是一根细长笔直的白色棒状物，一眼就能看出不是天然形成的形状。粗细大概一只手能握住，重量比看起来远远要轻，表面似乎是玻璃做的。<br>　　三妖精把这个奇怪的东西，小心翼翼地捧着递给霖之助。<br>　　在接过那个奇怪东西的瞬间，霖之助就露出了已经理解了一切的表情，然后轻轻地放在了桌子上。三妖精露出一副坐立不安又十分期待的神情，等着香霖宣布她们找到的东西是否是价值极高的珍宝。而霖之助这边正烦恼着，该如何向对面前的东西抱有过分的期待的三妖精进行说明。<br>　“非常遗憾这并不是什么稀罕玩意儿。这东西，是外面世界用来发光的工具。在外面世界被称为‘荧光灯’，是最为普通的东西。只不过，我这里并没有能使这东西发光的工具……”<br>　　他想着既然说了这并非什么珍稀之物那三妖精一定会大失所望吧，就离开去泡茶了。但是，三妖精反而一下欢腾起来。<br>　“萤光灯<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">1</a></sup>啊。用来发光？桑尼你怎么看。”<br>　“这不是捡到了很了不得的东西吗。”<br>　“那今天的功臣，就是找到这个的露娜了。”<br>　　面对意料之外的正面反馈，霖之助说道“是，是这样的吗。找到了好东西真是不错”。<br>　“不过，按刚才说的，现在没办法让它发光。”<br>　“这样吗。那咱们就让它亮起来吧。”<br>　“多试几次总能成的吧。”<br>　“只要方法对了肯定能亮。”<br>　　典型的妖精式无脑回答。男人手上擦着荧光灯上的污渍，神色显得放下心来，又仍带着些许错愕。<br>　“不过，荧光灯很容易破损……这个却完好无损也挺难得的。”<br>　　他说很难得哎，桑尼戳了一下露娜说。<br>　“疼。不要那么大力戳哇。这个，是不是<span class="emphasize">像</span><span class="emphasize">萤</span><span class="emphasize">火</span><span class="emphasize">虫</span><span class="emphasize">一</span><span class="emphasize">样</span><span class="emphasize">的</span><span class="emphasize">光</span>。嗯——好期待。”</div></div><br>
+<td><div class="tt-zh tt-type-omake" lang="zh"><div class="poem">　　十分阴暗冷清的店内，被奇妙的工具和空气中肆意飘扬的灰尘所填满。男人为了采光，拉开了窗帘。<br>　　外面的世界一片雪白，冬季的日光在雪地上反射后，往店内射入了过多的光线，于是男人又把窗帘拉回了一半。<br>　　他想到因孙康映雪而广为人知的用雪收集的光，此光并不是日光而是月光，日光会融化雪的表面，使反射角度略微变化，反射出刺眼的光芒。所以他思忖着，日光反射的光是无法读书的吧。<br>　“三只妖精。真是稀客啊。最近越来越冷所以你们要买点什么东西吗？”<br>　　幻想乡的旧货店：香霖堂的店主森近霖之助说道。<br>　“额，不。不是来买东西的。”<br>　　桑尼说完紧接着斯塔又补充道“也没带着钱”。<br>　“嗐，我想也是只看不买。店里全是需要智慧才能用的器具，妖精怎么会在这里买东西。”<br>　　霖之助早已见惯了这样的顾客，但因为不是买主，他还是感到有些失望。见状桑尼赶忙说。<br>　“虽说是只看不买，但也不完全是。刚才在森林里寻宝，捡到了个稀罕玩意，因为不知道是什么所以拿来店里了。”<br>　“啊，那你早说嘛。是什么东西？”<br>　　奇怪的东西——那是一根细长笔直的白色棒状物，一眼就能看出不是天然形成的形状。粗细大概一只手能握住，重量比看起来远远要轻，表面似乎是玻璃做的。<br>　　三妖精把这个奇怪的东西，小心翼翼地捧着递给霖之助。<br>　　在接过那个奇怪东西的瞬间，霖之助就露出了已经理解了一切的表情，然后轻轻地放在了桌子上。三妖精露出一副坐立不安又十分期待的神情，等着香霖宣布她们找到的东西是否是价值极高的珍宝。而霖之助这边正烦恼着，该如何向对面前的东西抱有过分的期待的三妖精进行说明。<br>　“非常遗憾这并不是什么稀罕玩意儿。这东西，是外面世界用来发光的工具。在外面世界被称为‘荧光灯’，是最为普通的东西。只不过，我这里并没有能使这东西发光的工具……”<br>　　他想着既然说了这并非什么珍稀之物那三妖精一定会大失所望吧，就离开去泡茶了。但是，三妖精反而一下欢腾起来。<br>　“萤光灯<span>[^cite_note-1]</span>啊。用来发光？桑尼你怎么看。”<br>　“这不是捡到了很了不得的东西吗。”<br>　“那今天的功臣，就是找到这个的露娜了。”<br>　　面对意料之外的正面反馈，霖之助说道“是，是这样的吗。找到了好东西真是不错”。<br>　“不过，按刚才说的，现在没办法让它发光。”<br>　“这样吗。那咱们就让它亮起来吧。”<br>　“多试几次总能成的吧。”<br>　“只要方法对了肯定能亮。”<br>　　典型的妖精式无脑回答。男人手上擦着荧光灯上的污渍，神色显得放下心来，又仍带着些许错愕。<br>　“不过，荧光灯很容易破损……这个却完好无损也挺难得的。”<br>　　他说很难得哎，桑尼戳了一下露娜说。<br>　“疼。不要那么大力戳哇。这个，是不是<span class="emphasize">像</span><span class="emphasize">萤</span><span class="emphasize">火</span><span class="emphasize">虫</span><span class="emphasize">一</span><span class="emphasize">样</span><span class="emphasize">的</span><span class="emphasize">光</span>。嗯——好期待。”</div></div><br>
 </td></tr>
 <tr>
 <td><div class="tt-zh tt-type-omake" lang="zh"><div class="poem">　　能捕捉到男人的表情似乎闪过一丝阴沉。因为其中一个妖精说出来很离谱的发言。也许是因为她说荧光就是像萤火虫一样的光。<br>　“并不是这样，虽说叫荧光灯但不是像萤火虫那样的光。荧光这个词是从故事中来的。‘车胤囊萤’——中国的名人连买灯油的钱都没有，收集萤火虫来照明读书。读着读着最终当上了大官。为了提倡他努力的精神，荧光灯因此得名。还有一个词能和它凑成一对——”<br>　　还有一个叫“孙康映雪”的词语。也是同样劝诫要刻苦努力的。霖之助得意地说道。<br>　“对你们妖精说这些不过是对牛弹琴吧？不过，如果你们要真能<span class="emphasize">通</span><span class="emphasize">过</span><span class="emphasize">努</span><span class="emphasize">力</span>能让这个荧光灯发光的话，那一定能明白努力的重要性吧。你们是光之妖精来着吧？”<br>　　霖之助喝着茶说。<br>　“哈？我们有这样说过吗？”露娜问道。<br>　“我听灵梦他们说的哦。森林附近有喜欢恶作剧的净给别人添麻烦的光之三妖精。因为是光之妖精，所以才对荧光灯感兴趣吧。说来，找到荧光灯的你，是……月光之妖精？月光下白雪皑皑配上萤火虫的光。不管怎么说，你们朝着让它发光去努力，总归不是坏事。”<br>　　努力……这个词让我想起来一些事。那就是今早烦闷的理由。昨天巫女也说起了同样的事情。古人用雪收集月光读书学习，而在同一片月光下我们却只是恶作剧吗，如果更多地学习是不是更好，等等。<br>　　妖精自身来说不懂得学习的重要性。但若通过学习能够做到高级的恶作剧的话，妖精们也会不遗余力地学习吧。也就是说，学习也变成了恶作剧的一环。<br>　　不，不管是学习也好努力也好。总归都是恶作剧——也就是有趣的事中的一环。学习什么的没有意义，努力什么的都是白费。也不是基于这种错误的学习观带来的烦恼。<br>　　啊……这份烦闷的根源，正是孙康映雪啊。</div></div>
@@ -77,23 +80,8 @@
 <td><div class="tt-zhr tt-type-omake" lang="zh"><div class="poem">完</div></div>
 </td></tr></tbody></table>
 
-
-
 [^cite_note-1]: 此处原文为片假名，翻译用词选择了“妖精式的理解方式”。
-
-  
-  
-
-  
-
-  
-  
-
 东方三月精 ～ Eastern and Little Nature Deity./月之妖精 - 官方漫画东方三月精系列的官方小说。
-
-
-
-
 ---
 
 此文档由 [THBWiki-Markdown-Builder](https://github.com/Delsin-Yu/THBWiki-Markdown-Builder) 构建。

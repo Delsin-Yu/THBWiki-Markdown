@@ -1,16 +1,11 @@
 # 文件:DINOSAUR'S_HEAVENbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3f\ns6%3ADINOSAUR%27S_HEAVENbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3f\ns6%3ADINOSAUR%27S_HEAVENbanner%2Epng.html -->
 
 DINOSAUR'S_HEAVEN | 社团LOGO
 
   
-源地址：[[1]](http://ky0ryu.web.fc2.com/g/banner.png)
-  
-
-
-
-
+源地址：[\[1\]](http://ky0ryu.web.fc2.com/g/banner.png)  
 
 ---
 

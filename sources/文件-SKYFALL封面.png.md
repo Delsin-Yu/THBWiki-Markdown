@@ -1,6 +1,6 @@
 # 文件:SKYFALL封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\66\ns6%3ASKYFALL%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\66\ns6%3ASKYFALL%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 QUINTET | 专辑封面 | 封面图片
 
@@ -8,16 +8,12 @@ QUINTET | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [SKYFALL](./SKYFALL.md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)- 初音未来 (未找到链接)
+- [SKYFALL](./SKYFALL.md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
+- 初音未来 (未找到链接)
 
   
-源地址：[[1]](http://lostcollection.net/img/1K/lcd19.png)
-  
-
-
-
-
+源地址：[\[1\]](http://lostcollection.net/img/1K/lcd19.png)  
 
 ---
 

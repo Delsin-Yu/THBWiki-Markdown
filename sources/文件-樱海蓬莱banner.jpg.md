@@ -1,12 +1,8 @@
 # 文件:樱海蓬莱banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5c\ns6%3A%E6%A8%B1%E6%B5%B7%E8%93%AC%E8%8E%B1banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5c\ns6%3A%E6%A8%B1%E6%B5%B7%E8%93%AC%E8%8E%B1banner%2Ejpg.html -->
 
 樱海蓬莱 | 社团LOGO
-
-
-
-
 
 
 ---

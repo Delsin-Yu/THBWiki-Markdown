@@ -1,14 +1,11 @@
 # 文件:火焰猫燐（兽王园立绘）hpl.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a0\ns6%3A%E7%81%AB%E7%84%B0%E7%8C%AB%E7%87%90%EF%BC%88%E5%85%BD%E7%8E%8B%E5%9B%AD%E7%AB%8B%E7%BB%98%EF%BC%89hpl%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a0\ns6%3A%E7%81%AB%E7%84%B0%E7%8C%AB%E7%87%90%EF%BC%88%E5%85%BD%E7%8E%8B%E5%9B%AD%E7%AB%8B%E7%BB%98%EF%BC%89hpl%2Epng.html -->
 
 ZUN绘 | 东方兽王园 | 官方游戏立绘 | 火焰猫燐
 
 
 ## 摘要
-
-
-
 
 ---
 

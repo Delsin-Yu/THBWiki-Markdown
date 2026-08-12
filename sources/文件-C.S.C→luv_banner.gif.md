@@ -1,12 +1,8 @@
 # 文件:C.S.C→luv_banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5c\ns6%3AC%2ES%2EC%E2%86%92luv_banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5c\ns6%3AC%2ES%2EC%E2%86%92luv_banner%2Egif.html -->
 
 C.S.C→luv | 社团LOGO
-
-
-
-
 
 
 ---

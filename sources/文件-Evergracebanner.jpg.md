@@ -1,14 +1,11 @@
 # 文件:Evergracebanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4b\ns6%3AEvergracebanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4b\ns6%3AEvergracebanner%2Ejpg.html -->
 
 Evergrace | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

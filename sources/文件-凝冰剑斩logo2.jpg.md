@@ -1,12 +1,8 @@
 # 文件:凝冰剑斩logo2.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c2\ns6%3A%E5%87%9D%E5%86%B0%E5%89%91%E6%96%A9logo2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c2\ns6%3A%E5%87%9D%E5%86%B0%E5%89%91%E6%96%A9logo2%2Ejpg.html -->
 
 凝冰剑斩 | 社团LOGO
-
-
-
-
 
 
 ---

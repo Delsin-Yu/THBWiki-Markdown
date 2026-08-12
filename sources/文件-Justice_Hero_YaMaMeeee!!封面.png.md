@@ -1,6 +1,6 @@
 # 文件:Justice_Hero_YaMaMeeee!!封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\18\ns6%3AJustice_Hero_YaMaMeeee%21%21%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\18\ns6%3AJustice_Hero_YaMaMeeee%21%21%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 ういろう大好きッ娘 | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Justice Hero YaMaMeeee!!](./Justice_Hero_YaMaMeeee!!.md)  
-该封面包含的角色：- [黑谷山女](./黑谷山女.md)
-
-
-
+- [Justice Hero YaMaMeeee!!](./Justice_Hero_YaMaMeeee!!.md)该封面包含的角色：
+- [黑谷山女](./黑谷山女.md)
 
 
 ---

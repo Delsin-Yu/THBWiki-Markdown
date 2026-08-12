@@ -1,6 +1,6 @@
 # 文件:Plastic_smile封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\15\ns6%3APlastic_smile%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\15\ns6%3APlastic_smile%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 万里の少女 | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Plastic smile](./Plastic_smile.md)  
-该封面包含的角色：- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)
+- [Plastic smile](./Plastic_smile.md)该封面包含的角色：
+- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)
 
   
-[Pixiv artwork ID: 45189945 (image 2/24)](https://www.pixiv.net/artworks/45189945)
-  
-
-
-
-
+[Pixiv artwork ID: 45189945 (image 2/24)](https://www.pixiv.net/artworks/45189945)  
 
 ---
 

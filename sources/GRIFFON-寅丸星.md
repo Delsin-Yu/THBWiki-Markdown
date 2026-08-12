@@ -1,37 +1,21 @@
 # GRIFFON/寅丸星
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\fe\ns0%3AGRIFFON%2F%E5%AF%85%E4%B8%B8%E6%98%9F.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\fe\ns0%3AGRIFFON%2F%E5%AF%85%E4%B8%B8%E6%98%9F.html -->
 
 寅丸星PVCFigure手办模型
 
 本页是关于东方Project  
- **相关实体周边 (未找到链接)** 的词条
-
+**相关实体周边 (未找到链接)**的词条
 ## 模型信息
 
-<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 寅丸星 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>无</td></tr><tr><td class="label">角色</td><td><a href="./寅丸星.md" title="寅丸星">寅丸星</a></td></tr><tr><td class="label">原型师</td><td><a href="/index.php?title=%E3%81%82%E3%81%8D%E3%82%84%E3%81%BE%E3%81%82%E3%81%8D%E3%81%8A&amp;action=edit&amp;redlink=1" class="new" title="あきやまあきお（页面不存在）">あきやまあきお</a></td></tr><tr><td class="label">比例</td><td>1/8</td></tr><tr><td class="label">尺寸</td><td>225mm</td></tr><tr><td class="label">状态</td><td>已发售</td></tr><tr><td class="label">售价</td><td>7992円</td></tr><tr><td class="label">首发日期</td><td>2012-02</td></tr><tr><td class="label">发售方</td><td><a href="/index.php?title=GRIFFON&amp;action=edit&amp;redlink=1" class="new" title="GRIFFON（页面不存在）">GRIFFON</a></td></tr><tr><td class="label">官网页面</td><td><a rel="nofollow" class="external free" href="http://www.griffon.co.jp/toho/">http://www.griffon.co.jp/toho/</a></td></tr></tbody></table>
+<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 寅丸星 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>无</td></tr><tr><td class="label">角色</td><td><a href="./寅丸星.md" title="寅丸星">寅丸星</a></td></tr><tr><td class="label">原型师</td><td><a class="new" title="あきやまあきお（页面不存在）">あきやまあきお</a></td></tr><tr><td class="label">比例</td><td>1/8</td></tr><tr><td class="label">尺寸</td><td>225mm</td></tr><tr><td class="label">状态</td><td>已发售</td></tr><tr><td class="label">售价</td><td>7992円</td></tr><tr><td class="label">首发日期</td><td>2012-02</td></tr><tr><td class="label">发售方</td><td><a class="new" title="GRIFFON（页面不存在）">GRIFFON</a></td></tr><tr><td class="label">官网页面</td><td><a rel="nofollow" class="external free" href="http://www.griffon.co.jp/toho/">http://www.griffon.co.jp/toho/</a></td></tr></tbody></table>
 
 GRIFFON/寅丸星（周边） - 寅丸星PVCFigure手办模型
-
 ## 参考图片
-
-
-
-[](./文件-GRIFFON寅丸星-1.jpg.md)
-
-
-[](./文件-GRIFFON寅丸星-2.jpg.md)
-
-
-[](./文件-GRIFFON寅丸星-3.jpg.md)
-
+<img alt="GRIFFON寅丸星" src="https://upload.thwiki.cc/thumb/3/38/GRIFFON%E5%AF%85%E4%B8%B8%E6%98%9F-1.jpg/160px-GRIFFON%E5%AF%85%E4%B8%B8%E6%98%9F-1.jpg" decoding="async" loading="lazy" width="160" height="240" srcset="https://upload.thwiki.cc/thumb/3/38/GRIFFON%E5%AF%85%E4%B8%B8%E6%98%9F-1.jpg/240px-GRIFFON%E5%AF%85%E4%B8%B8%E6%98%9F-1.jpg 1.5x, https://upload.thwiki.cc/thumb/3/38/GRIFFON%E5%AF%85%E4%B8%B8%E6%98%9F-1.jpg/320px-GRIFFON%E5%AF%85%E4%B8%B8%E6%98%9F-1.jpg 2x" data-file-width="533" data-file-height="800">
+<img alt="GRIFFON寅丸星" src="https://upload.thwiki.cc/thumb/6/65/GRIFFON%E5%AF%85%E4%B8%B8%E6%98%9F-2.jpg/160px-GRIFFON%E5%AF%85%E4%B8%B8%E6%98%9F-2.jpg" decoding="async" loading="lazy" width="160" height="240" srcset="https://upload.thwiki.cc/thumb/6/65/GRIFFON%E5%AF%85%E4%B8%B8%E6%98%9F-2.jpg/240px-GRIFFON%E5%AF%85%E4%B8%B8%E6%98%9F-2.jpg 1.5x, https://upload.thwiki.cc/thumb/6/65/GRIFFON%E5%AF%85%E4%B8%B8%E6%98%9F-2.jpg/320px-GRIFFON%E5%AF%85%E4%B8%B8%E6%98%9F-2.jpg 2x" data-file-width="533" data-file-height="800">
+<img alt="GRIFFON寅丸星" src="https://upload.thwiki.cc/thumb/3/36/GRIFFON%E5%AF%85%E4%B8%B8%E6%98%9F-3.jpg/160px-GRIFFON%E5%AF%85%E4%B8%B8%E6%98%9F-3.jpg" decoding="async" loading="lazy" width="160" height="240" srcset="https://upload.thwiki.cc/thumb/3/36/GRIFFON%E5%AF%85%E4%B8%B8%E6%98%9F-3.jpg/240px-GRIFFON%E5%AF%85%E4%B8%B8%E6%98%9F-3.jpg 1.5x, https://upload.thwiki.cc/thumb/3/36/GRIFFON%E5%AF%85%E4%B8%B8%E6%98%9F-3.jpg/320px-GRIFFON%E5%AF%85%E4%B8%B8%E6%98%9F-3.jpg 2x" data-file-width="533" data-file-height="800">
 公式图
-
-
-
-
-
-
 
 ---
 

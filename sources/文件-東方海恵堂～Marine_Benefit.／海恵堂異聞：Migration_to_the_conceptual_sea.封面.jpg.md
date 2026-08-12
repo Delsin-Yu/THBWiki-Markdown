@@ -1,6 +1,6 @@
 # 文件:東方海恵堂～Marine_Benefit.／海恵堂異聞：Migration_to_the_conceptual_sea.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1e\ns6%3A%E6%9D%B1%E6%96%B9%E6%B5%B7%E6%81%B5%E5%A0%82%EF%BD%9EMarine_Benefit%2E%EF%BC%8F%E6%B5%B7%E6%81%B5%E5%A0%82%E7%95%B0%E8%81%9E%EF%BC%9AMigration_to_the_conceptual_sea%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1e\ns6%3A%E6%9D%B1%E6%96%B9%E6%B5%B7%E6%81%B5%E5%A0%82%EF%BD%9EMarine_Benefit%2E%EF%BC%8F%E6%B5%B7%E6%81%B5%E5%A0%82%E7%95%B0%E8%81%9E%EF%BC%9AMigration_to_the_conceptual_sea%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 海神書房
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方海恵堂～Marine Benefit.／海恵堂異聞：Migration to the conceptual sea.](./東方海恵堂～Marine_Benefit.／海恵堂異聞：Migration_to_the_conceptual_sea..md)  
-该封面包含的角色：- [观福宫乙姬](./观福宫乙姬.md)
-
-
-
+- [東方海恵堂～Marine Benefit.／海恵堂異聞：Migration to the conceptual sea.](./東方海恵堂～Marine_Benefit.／海恵堂異聞：Migration_to_the_conceptual_sea..md)该封面包含的角色：
+- [观福宫乙姬](./观福宫乙姬.md)
 
 
 ---

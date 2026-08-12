@@ -1,6 +1,6 @@
 # 文件:ぐるりぐるぐる_先着オマケCD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4f\ns6%3A%E3%81%90%E3%82%8B%E3%82%8A%E3%81%90%E3%82%8B%E3%81%90%E3%82%8B_%E5%85%88%E7%9D%80%E3%82%AA%E3%83%9E%E3%82%B1CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4f\ns6%3A%E3%81%90%E3%82%8B%E3%82%8A%E3%81%90%E3%82%8B%E3%81%90%E3%82%8B_%E5%85%88%E7%9D%80%E3%82%AA%E3%83%9E%E3%82%B1CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 鋲の人
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [ぐるりぐるぐる 先着オマケCD](./ぐるりぐるぐる_先着オマケCD.md)  
-该封面包含的角色：- [莉格露·奈特巴格](./莉格露·奈特巴格.md)
-
-
-
+- [ぐるりぐるぐる 先着オマケCD](./ぐるりぐるぐる_先着オマケCD.md)该封面包含的角色：
+- [莉格露·奈特巴格](./莉格露·奈特巴格.md)
 
 
 ---

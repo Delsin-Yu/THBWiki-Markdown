@@ -1,12 +1,8 @@
 # 文件:虹色論理banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\20\ns6%3A%E8%99%B9%E8%89%B2%E8%AB%96%E7%90%86banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\20\ns6%3A%E8%99%B9%E8%89%B2%E8%AB%96%E7%90%86banner%2Epng.html -->
 
 社团LOGO | 虹色論理
-
-
-
-
 
 
 ---

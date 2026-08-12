@@ -1,6 +1,6 @@
 # 文件:Double_Spark_e.p.封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\96\ns6%3ADouble_Spark_e%2Ep%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\96\ns6%3ADouble_Spark_e%2Ep%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 モノクロ殺人現場写真 | 专辑封面 | 封面图片
 
@@ -8,12 +8,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [Double Spark e.p.](./Double_Spark_e.p..md)  
-该封面包含的角色：- [风见幽香](./风见幽香.md)- [雾雨魔理沙](./雾雨魔理沙.md)源地址：[[1]](https://static.wixstatic.com/media/0f4185_4041a7e762f790c20fd8240c29cc3af4.png)
-
-
-
-
+- [Double Spark e.p.](./Double_Spark_e.p..md)该封面包含的角色：
+- [风见幽香](./风见幽香.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
+源地址：[\[1\]](https://static.wixstatic.com/media/0f4185_4041a7e762f790c20fd8240c29cc3af4.png)
 
 ---
 

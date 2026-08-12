@@ -1,6 +1,6 @@
 # 文件:Sunday_Lounge封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\99\ns6%3ASunday_Lounge%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\99\ns6%3ASunday_Lounge%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Music_Mix_Organization | 专辑封面 | 封面图片
 
@@ -8,12 +8,9 @@ Music_Mix_Organization | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Sunday Lounge](./Sunday_Lounge.md)  
-该封面包含的角色：- [灵乌路空](./灵乌路空.md)源地址：[[1]](http://mmo-cir.sakura.ne.jp/circle/sundaylounge/img/SLjacket.jpg)
-
-
-
-
+- [Sunday Lounge](./Sunday_Lounge.md)该封面包含的角色：
+- [灵乌路空](./灵乌路空.md)
+源地址：[\[1\]](http://mmo-cir.sakura.ne.jp/circle/sundaylounge/img/SLjacket.jpg)
 
 ---
 

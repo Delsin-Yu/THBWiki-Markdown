@@ -1,6 +1,6 @@
 # 文件:東方虹華薬_The_Game封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\47\ns6%3A%E6%9D%B1%E6%96%B9%E8%99%B9%E8%8F%AF%E8%96%AC_The_Game%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\47\ns6%3A%E6%9D%B1%E6%96%B9%E8%99%B9%E8%8F%AF%E8%96%AC_The_Game%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 peposoft | 封面图片 | 软件封面
 
@@ -10,16 +10,11 @@ peposoft | 封面图片 | 软件封面
 使用了本文件作封面图片的作品：
   
 
-- [東方虹華薬 The Game](./東方虹華薬_The_Game.md)  
-该封面包含的角色：- [圣白莲](./圣白莲.md)
+- [東方虹華薬 The Game](./東方虹華薬_The_Game.md)该封面包含的角色：
+- [圣白莲](./圣白莲.md)
 
   
-源地址：[direct image link](http://www.peposoft.com/old/peposoft2010/IMAGE_/peposoft_image/cona/conaAA.png), [source page](http://www.peposoft.com/old/index_game.html)
-  
-
-
-
-
+源地址：[direct image link](http://www.peposoft.com/old/peposoft2010/IMAGE_/peposoft_image/cona/conaAA.png), [source page](http://www.peposoft.com/old/index_game.html)  
 
 ---
 

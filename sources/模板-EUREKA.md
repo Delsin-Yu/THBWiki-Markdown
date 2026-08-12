@@ -1,16 +1,12 @@
 # 模板:EUREKA
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\1\18\ns10%3AEUREKA.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\1\18\ns10%3AEUREKA.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

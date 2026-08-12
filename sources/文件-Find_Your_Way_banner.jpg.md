@@ -1,12 +1,8 @@
 # 文件:Find_Your_Way_banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b2\ns6%3AFind_Your_Way_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b2\ns6%3AFind_Your_Way_banner%2Ejpg.html -->
 
 Find_Your_Way | 社团LOGO
-
-
-
-
 
 
 ---

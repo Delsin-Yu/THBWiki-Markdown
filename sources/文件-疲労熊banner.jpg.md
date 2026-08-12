@@ -1,14 +1,11 @@
 # 文件:疲労熊banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6b\ns6%3A%E7%96%B2%E5%8A%B4%E7%86%8Abanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6b\ns6%3A%E7%96%B2%E5%8A%B4%E7%86%8Abanner%2Ejpg.html -->
 
 疲労熊 | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

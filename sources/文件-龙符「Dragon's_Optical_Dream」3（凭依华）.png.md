@@ -1,12 +1,8 @@
 # 文件:龙符「Dragon's_Optical_Dream」3（凭依华）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1d\ns6%3A%E9%BE%99%E7%AC%A6%E3%80%8CDragon%27s_Optical_Dream%E3%80%8D3%EF%BC%88%E5%87%AD%E4%BE%9D%E5%8D%8E%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1d\ns6%3A%E9%BE%99%E7%AC%A6%E3%80%8CDragon%27s_Optical_Dream%E3%80%8D3%EF%BC%88%E5%87%AD%E4%BE%9D%E5%8D%8E%EF%BC%89%2Epng.html -->
 
 东方凭依华 | 哆来咪·苏伊特 | 敌机符卡 | 茨木华扇
-
-
-
-
 
 
 ---

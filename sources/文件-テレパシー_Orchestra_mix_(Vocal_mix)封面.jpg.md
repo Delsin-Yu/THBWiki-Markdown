@@ -1,6 +1,6 @@
 # 文件:テレパシー_Orchestra_mix_(Vocal_mix)封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3b\ns6%3A%E3%83%86%E3%83%AC%E3%83%91%E3%82%B7%E3%83%BC_Orchestra_mix_%28Vocal_mix%29%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3b\ns6%3A%E3%83%86%E3%83%AC%E3%83%91%E3%82%B7%E3%83%BC_Orchestra_mix_%28Vocal_mix%29%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ナイフ | 专辑封面 | 封面图片
 
@@ -8,10 +8,7 @@
 使用了本文件作封面图片的作品：
   
 
-- [テレパシー Orchestra mix (Vocal mix)](./テレパシー_Orchestra_mix_(Vocal_mix).md)
-
-
-
+- [テレパシー Orchestra mix (Vocal mix)](./テレパシー_Orchestra_mix_(Vocal_mix%29.md)
 
 
 ---

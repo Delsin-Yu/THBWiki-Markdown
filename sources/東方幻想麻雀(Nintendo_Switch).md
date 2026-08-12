@@ -1,29 +1,23 @@
 # 東方幻想麻雀(Nintendo_Switch)
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\7\79\ns0%3A%E6%9D%B1%E6%96%B9%E5%B9%BB%E6%83%B3%E9%BA%BB%E9%9B%80%28Nintendo_Switch%29.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\7\79\ns0%3A%E6%9D%B1%E6%96%B9%E5%B9%BB%E6%83%B3%E9%BA%BB%E9%9B%80%28Nintendo_Switch%29.html -->
 
 2020年1月30日 由 D.N.A.Softwares  发布的TAB同人游戏，可在 NS 系统上运行，游戏人数为 单人模式，双人模式，多人模式，，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人软件 (未找到链接)** 的词条
-
+**[二次创作同人软件](./二次创作.md#同人软件)**的词条
 ## 目录
 
 - [1 软件信息](#软件信息)
 - [2 宣传视频](#宣传视频)
 - [3 制作人员](#制作人员)
-
   - [3.1 画师](#画师)
   - [3.2 Staff](#Staff)
-
 
 
 - [4 内容页面](#内容页面)
 - [5 音乐](#音乐)
 - [6 评论](#评论)
-
-
-
 
 
 ## 软件信息
@@ -34,15 +28,11 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://thmj.dna-softwares.com/">http://thmj.dna-softwares.com/</a></td></tr></tbody></table>
 
 東方幻想麻雀(Nintendo Switch)（同人游戏，D.N.A.Softwares，同人专辑，2020） - 2020年1月30日 由 D.N.A.Softwares  发布的TAB同人游戏，可在 NS 系统上运行，游戏人数为 单人模式，双人模式，多人模式，，分级为 一般向
-
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://ec.nintendo.com/JP/ja/titles/70010000018402">eShop</a></td></tr></tbody></table>
-
 
 
 ## 宣传视频
   
-
-
   
 
 <table>
@@ -51,9 +41,10 @@
 </table>
 
 
-
-
-
+<table>
+<tr><th style="text-align: center;"><a class="bilibili-title external text" target="_blank" rel="nofollow" style="margin: 0 0.4em 0 0.2em;"></a><input type="button" class="bilibili-toggle" value="显示视频" style="float: right;"></th></tr>
+<tr class="bilibili-video" style="display: none;"><td></td></tr>
+</table>
 
 
 <table>
@@ -62,8 +53,10 @@
 </table>
 
 
-
-
+<table>
+<tr><th style="text-align: center;"><a class="bilibili-title external text" target="_blank" rel="nofollow" style="margin: 0 0.4em 0 0.2em;"></a><input type="button" class="bilibili-toggle" value="显示视频" style="float: right;"></th></tr>
+<tr class="bilibili-video" style="display: none;"><td></td></tr>
+</table>
 
 
 <table>
@@ -72,8 +65,10 @@
 </table>
 
 
-
-
+<table>
+<tr><th style="text-align: center;"><a class="bilibili-title external text" target="_blank" rel="nofollow" style="margin: 0 0.4em 0 0.2em;"></a><input type="button" class="bilibili-toggle" value="显示视频" style="float: right;"></th></tr>
+<tr class="bilibili-video" style="display: none;"><td></td></tr>
+</table>
 
 
 <table>
@@ -82,8 +77,10 @@
 </table>
 
 
-
-
+<table>
+<tr><th style="text-align: center;"><a class="bilibili-title external text" target="_blank" rel="nofollow" style="margin: 0 0.4em 0 0.2em;"></a><input type="button" class="bilibili-toggle" value="显示视频" style="float: right;"></th></tr>
+<tr class="bilibili-video" style="display: none;"><td></td></tr>
+</table>
 
 
 <table>
@@ -92,8 +89,10 @@
 </table>
 
 
-
-
+<table>
+<tr><th style="text-align: center;"><a class="bilibili-title external text" target="_blank" rel="nofollow" style="margin: 0 0.4em 0 0.2em;"></a><input type="button" class="bilibili-toggle" value="显示视频" style="float: right;"></th></tr>
+<tr class="bilibili-video" style="display: none;"><td></td></tr>
+</table>
 
 
 <table>
@@ -102,8 +101,10 @@
 </table>
 
 
-
-
+<table>
+<tr><th style="text-align: center;"><a class="bilibili-title external text" target="_blank" rel="nofollow" style="margin: 0 0.4em 0 0.2em;"></a><input type="button" class="bilibili-toggle" value="显示视频" style="float: right;"></th></tr>
+<tr class="bilibili-video" style="display: none;"><td></td></tr>
+</table>
 
 
 <table>
@@ -112,8 +113,10 @@
 </table>
 
 
-
-
+<table>
+<tr><th style="text-align: center;"><a class="bilibili-title external text" target="_blank" rel="nofollow" style="margin: 0 0.4em 0 0.2em;"></a><input type="button" class="bilibili-toggle" value="显示视频" style="float: right;"></th></tr>
+<tr class="bilibili-video" style="display: none;"><td></td></tr>
+</table>
 
 
 <table>
@@ -122,87 +125,10 @@
 </table>
 
 
-
-
-
-
 <table>
 <tr><th style="text-align: center;"><a class="bilibili-title external text" target="_blank" rel="nofollow" style="margin: 0 0.4em 0 0.2em;"></a><input type="button" class="bilibili-toggle" value="显示视频" style="float: right;"></th></tr>
 <tr class="bilibili-video" style="display: none;"><td></td></tr>
 </table>
-
-
-
-
-
-
-<table>
-<tr><th style="text-align: center;"><a class="bilibili-title external text" target="_blank" rel="nofollow" style="margin: 0 0.4em 0 0.2em;"></a><input type="button" class="bilibili-toggle" value="显示视频" style="float: right;"></th></tr>
-<tr class="bilibili-video" style="display: none;"><td></td></tr>
-</table>
-
-
-
-
-
-
-<table>
-<tr><th style="text-align: center;"><a class="bilibili-title external text" target="_blank" rel="nofollow" style="margin: 0 0.4em 0 0.2em;"></a><input type="button" class="bilibili-toggle" value="显示视频" style="float: right;"></th></tr>
-<tr class="bilibili-video" style="display: none;"><td></td></tr>
-</table>
-
-
-
-
-
-
-<table>
-<tr><th style="text-align: center;"><a class="bilibili-title external text" target="_blank" rel="nofollow" style="margin: 0 0.4em 0 0.2em;"></a><input type="button" class="bilibili-toggle" value="显示视频" style="float: right;"></th></tr>
-<tr class="bilibili-video" style="display: none;"><td></td></tr>
-</table>
-
-
-
-
-
-
-<table>
-<tr><th style="text-align: center;"><a class="bilibili-title external text" target="_blank" rel="nofollow" style="margin: 0 0.4em 0 0.2em;"></a><input type="button" class="bilibili-toggle" value="显示视频" style="float: right;"></th></tr>
-<tr class="bilibili-video" style="display: none;"><td></td></tr>
-</table>
-
-
-
-
-
-
-<table>
-<tr><th style="text-align: center;"><a class="bilibili-title external text" target="_blank" rel="nofollow" style="margin: 0 0.4em 0 0.2em;"></a><input type="button" class="bilibili-toggle" value="显示视频" style="float: right;"></th></tr>
-<tr class="bilibili-video" style="display: none;"><td></td></tr>
-</table>
-
-
-
-
-
-
-<table>
-<tr><th style="text-align: center;"><a class="bilibili-title external text" target="_blank" rel="nofollow" style="margin: 0 0.4em 0 0.2em;"></a><input type="button" class="bilibili-toggle" value="显示视频" style="float: right;"></th></tr>
-<tr class="bilibili-video" style="display: none;"><td></td></tr>
-</table>
-
-
-
-
-
-
-<table>
-<tr><th style="text-align: center;"><a class="bilibili-title external text" target="_blank" rel="nofollow" style="margin: 0 0.4em 0 0.2em;"></a><input type="button" class="bilibili-toggle" value="显示视频" style="float: right;"></th></tr>
-<tr class="bilibili-video" style="display: none;"><td></td></tr>
-</table>
-
-
-
 
 
 ## 制作人员
@@ -217,31 +143,31 @@
 </td></tr>
 <tr>
 <td><a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a></td>
-<td><a href="/index.php?title=%E3%81%84%E3%81%9A%E3%81%BF%E3%81%B9%E3%82%8B&amp;action=edit&amp;redlink=1" class="new" title="いずみべる（页面不存在）">いずみべる</a>
+<td><a class="new" title="いずみべる（页面不存在）">いずみべる</a>
 </td></tr>
 <tr>
 <td><a href="./琪露诺.md" title="琪露诺">琪露诺</a></td>
-<td><a href="/index.php?title=%E6%82%A0%E9%A3%9B%E3%81%82%E3%82%8B%E3%81%B5%E3%81%81&amp;action=edit&amp;redlink=1" class="new" title="悠飛あるふぁ（页面不存在）">悠飛あるふぁ</a>
+<td><a class="new" title="悠飛あるふぁ（页面不存在）">悠飛あるふぁ</a>
 </td></tr>
 <tr>
-<td><a href="./蕾米莉亚·斯卡雷特.md" class="mw-redirect" title="蕾米莉亚·斯卡雷特">蕾米莉亚·斯卡雷特</a></td>
-<td><a href="/index.php?title=%E3%83%9F%E3%83%A4%E3%82%B9%E3%83%AA%E3%82%B5&amp;action=edit&amp;redlink=1" class="new" title="ミヤスリサ（页面不存在）">ミヤスリサ</a>
+<td><a href="./蕾米莉亚·斯卡蕾特.md" class="mw-redirect" title="蕾米莉亚·斯卡雷特">蕾米莉亚·斯卡雷特</a></td>
+<td><a class="new" title="ミヤスリサ（页面不存在）">ミヤスリサ</a>
 </td></tr>
 <tr>
 <td><a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰朵露·斯卡蕾特</a></td>
-<td><a href="/index.php?title=%E3%83%AB%E3%83%92%E3%82%AB&amp;action=edit&amp;redlink=1" class="new" title="ルヒカ（页面不存在）">ルヒカ</a>
+<td><a class="new" title="ルヒカ（页面不存在）">ルヒカ</a>
 </td></tr>
 <tr>
 <td><a href="./西行寺幽幽子.md" title="西行寺幽幽子">西行寺幽幽子</a></td>
-<td><a href="/index.php?title=%E7%B2%97%E8%8C%B6&amp;action=edit&amp;redlink=1" class="new" title="粗茶（页面不存在）">粗茶</a>
+<td><a class="new" title="粗茶（页面不存在）">粗茶</a>
 </td></tr>
 <tr>
 <td><a href="./东风谷早苗.md" title="东风谷早苗">东风谷早苗</a></td>
-<td><a href="/index.php?title=%E3%81%82%E3%81%A5%E3%81%BF%E4%B8%80%E6%A8%B9&amp;action=edit&amp;redlink=1" class="new" title="あづみ一樹（页面不存在）">あづみ一樹</a>
+<td><a class="new" title="あづみ一樹（页面不存在）">あづみ一樹</a>
 </td></tr>
 <tr>
 <td><a href="./蓬莱山辉夜.md" title="蓬莱山辉夜">蓬莱山辉夜</a></td>
-<td><a href="/index.php?title=%E3%83%95%E3%82%B8%E3%83%8E%E3%82%AD&amp;action=edit&amp;redlink=1" class="new" title="フジノキ（页面不存在）">フジノキ</a>
+<td><a class="new" title="フジノキ（页面不存在）">フジノキ</a>
 </td></tr>
 <tr>
 <td><a href="./四季映姬·夜摩仙那度.md" title="四季映姬·夜摩仙那度">四季映姬·夜摩仙那度</a></td>
@@ -249,7 +175,7 @@
 </td></tr>
 <tr>
 <td><a href="./比那名居天子.md" title="比那名居天子">比那名居天子</a></td>
-<td><a href="/index.php?title=%E7%B5%90%E5%B9%B3%E6%98%8E%E6%97%A5&amp;action=edit&amp;redlink=1" class="new" title="結平明日（页面不存在）">結平明日</a>
+<td><a class="new" title="結平明日（页面不存在）">結平明日</a>
 </td></tr>
 <tr>
 <td><a href="./丰聪耳神子.md" title="丰聪耳神子">丰聪耳神子</a></td>
@@ -257,7 +183,7 @@
 </td></tr>
 <tr>
 <td><a href="./少名针妙丸.md" title="少名针妙丸">少名针妙丸</a></td>
-<td><a href="/index.php?title=%E3%82%8A%E3%82%93%E3%81%A9%E3%81%86&amp;action=edit&amp;redlink=1" class="new" title="りんどう（页面不存在）">りんどう</a>
+<td><a class="new" title="りんどう（页面不存在）">りんどう</a>
 </td></tr>
 <tr>
 <td><a href="./摩多罗隐岐奈.md" title="摩多罗隐岐奈">摩多罗隐岐奈</a></td>
@@ -265,7 +191,7 @@
 </td></tr>
 <tr>
 <td><a href="./宇佐见堇子.md" title="宇佐见堇子">宇佐见堇子</a></td>
-<td><a href="/index.php?title=%E3%81%8F%E3%81%BE%E3%81%AE%E3%81%A8%E3%81%8A%E3%82%8B&amp;action=edit&amp;redlink=1" class="new" title="くまのとおる（页面不存在）">くまのとおる</a>
+<td><a class="new" title="くまのとおる（页面不存在）">くまのとおる</a>
 </td></tr>
 <tr>
 <td><a href="./露米娅.md" title="露米娅">露米娅</a></td>
@@ -285,19 +211,19 @@
 </td></tr>
 <tr>
 <td><a href="./帕秋莉·诺蕾姬.md" title="帕秋莉·诺蕾姬">帕秋莉·诺蕾姬</a></td>
-<td><a href="/index.php?title=%E3%81%B5%E3%81%BF%E3%81%A4%E3%81%8D&amp;action=edit&amp;redlink=1" class="new" title="ふみつき（页面不存在）">ふみつき</a>
+<td><a class="new" title="ふみつき（页面不存在）">ふみつき</a>
 </td></tr>
 <tr>
-<td><a href="/%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C" title="十六夜咲夜">十六夜咲夜</a></td>
+<td><a href="./十六夜咲夜.md" title="十六夜咲夜">十六夜咲夜</a></td>
 <td><a href="./ののこ.md" title="ののこ">ののこ</a>
 </td></tr>
 <tr>
 <td><a href="./蕾蒂·霍瓦特洛克.md" title="蕾蒂·霍瓦特洛克">蕾蒂·霍瓦特洛克</a></td>
-<td><a href="/index.php?title=%E3%81%AE%E3%81%AE&amp;action=edit&amp;redlink=1" class="new" title="のの（页面不存在）">のの</a>
+<td><a class="new" title="のの（页面不存在）">のの</a>
 </td></tr>
 <tr>
 <td><a href="./橙.md" title="橙">橙</a></td>
-<td><a href="/index.php?title=%E3%82%80%E3%82%80%E3%82%80&amp;action=edit&amp;redlink=1" class="new" title="むむむ（页面不存在）">むむむ</a>
+<td><a class="new" title="むむむ（页面不存在）">むむむ</a>
 </td></tr>
 <tr>
 <td><a href="./爱丽丝·玛格特洛依德.md" title="爱丽丝·玛格特洛依德">爱丽丝·玛格特洛依德</a></td>
@@ -309,7 +235,7 @@
 </td></tr>
 <tr>
 <td><a href="./露娜萨·普莉兹姆利巴.md" title="露娜萨·普莉兹姆利巴">露娜萨·普莉兹姆利巴</a></td>
-<td><a href="/index.php?title=%E6%98%A5%E9%9B%A8&amp;action=edit&amp;redlink=1" class="new" title="春雨（页面不存在）">春雨</a>
+<td><a class="new" title="春雨（页面不存在）">春雨</a>
 </td></tr>
 <tr>
 <td><a href="./梅露兰·普莉兹姆利巴.md" title="梅露兰·普莉兹姆利巴">梅露兰·普莉兹姆利巴</a></td>
@@ -325,15 +251,15 @@
 </td></tr>
 <tr>
 <td><a href="./八云蓝.md" title="八云蓝">八云蓝</a></td>
-<td><a href="/index.php?title=%E4%B8%80%E8%91%89%E3%83%A2%E3%82%AB&amp;action=edit&amp;redlink=1" class="new" title="一葉モカ（页面不存在）">一葉モカ</a>
+<td><a class="new" title="一葉モカ（页面不存在）">一葉モカ</a>
 </td></tr>
 <tr>
 <td><a href="./八云紫.md" title="八云紫">八云紫</a></td>
-<td><a href="/index.php?title=%E5%A4%A2%E9%87%8C%E3%81%BE%E3%81%8F%E3%82%89&amp;action=edit&amp;redlink=1" class="new" title="夢里まくら（页面不存在）">夢里まくら</a>
+<td><a class="new" title="夢里まくら（页面不存在）">夢里まくら</a>
 </td></tr>
 <tr>
 <td><a href="./莉格露·奈特巴格.md" title="莉格露·奈特巴格">莉格露·奈特巴格</a></td>
-<td><a href="/index.php?title=%E9%83%BD%E5%B0%BE%E7%90%89&amp;action=edit&amp;redlink=1" class="new" title="都尾琉（页面不存在）">都尾琉</a>
+<td><a class="new" title="都尾琉（页面不存在）">都尾琉</a>
 </td></tr>
 <tr>
 <td><a href="./米斯蒂娅·萝蕾拉.md" title="米斯蒂娅·萝蕾拉">米斯蒂娅·萝蕾拉</a></td>
@@ -341,15 +267,15 @@
 </td></tr>
 <tr>
 <td><a href="./上白泽慧音.md" title="上白泽慧音">上白泽慧音</a></td>
-<td><a href="/index.php?title=%E7%B4%85%E8%96%99%E3%82%88%E3%81%86%E3%81%A8&amp;action=edit&amp;redlink=1" class="new" title="紅薙ようと（页面不存在）">紅薙ようと</a>
+<td><a class="new" title="紅薙ようと（页面不存在）">紅薙ようと</a>
 </td></tr>
 <tr>
 <td><a href="./上白泽慧音.md" title="上白泽慧音">上白泽慧音</a>（白泽形态）</td>
-<td><a href="/index.php?title=%E6%B5%B7%E9%B5%9C%E3%81%92%E3%81%9D&amp;action=edit&amp;redlink=1" class="new" title="海鵜げそ（页面不存在）">海鵜げそ</a>
+<td><a class="new" title="海鵜げそ（页面不存在）">海鵜げそ</a>
 </td></tr>
 <tr>
-<td><a href="./因幡天为.md" class="mw-redirect" title="因幡天为">因幡天为</a></td>
-<td><a href="/index.php?title=%E3%81%97%E3%81%82&amp;action=edit&amp;redlink=1" class="new" title="しあ（页面不存在）">しあ</a>
+<td><a href="./因幡帝.md" class="mw-redirect" title="因幡天为">因幡天为</a></td>
+<td><a class="new" title="しあ（页面不存在）">しあ</a>
 </td></tr>
 <tr>
 <td><a href="./铃仙·优昙华院·因幡.md" title="铃仙·优昙华院·因幡">铃仙·优昙华院·因幡</a></td>
@@ -357,11 +283,11 @@
 </td></tr>
 <tr>
 <td><a href="./八意永琳.md" title="八意永琳">八意永琳</a></td>
-<td><a href="/index.php?title=%E9%9C%A7%E5%92%B2%E7%99%BD%E7%8B%90&amp;action=edit&amp;redlink=1" class="new" title="霧咲白狐（页面不存在）">霧咲白狐</a>
+<td><a class="new" title="霧咲白狐（页面不存在）">霧咲白狐</a>
 </td></tr>
 <tr>
 <td><a href="./藤原妹红.md" title="藤原妹红">藤原妹红</a></td>
-<td><a href="/index.php?title=%E3%81%BC%E3%81%B6&amp;action=edit&amp;redlink=1" class="new" title="ぼぶ（页面不存在）">ぼぶ</a>
+<td><a class="new" title="ぼぶ（页面不存在）">ぼぶ</a>
 </td></tr>
 <tr>
 <td><a href="./梅蒂欣·梅兰可莉.md" title="梅蒂欣·梅兰可莉">梅蒂欣·梅兰可莉</a></td>
@@ -369,31 +295,31 @@
 </td></tr>
 <tr>
 <td><a href="./风见幽香.md" title="风见幽香">风见幽香</a></td>
-<td><a href="/index.php?title=Roki&amp;action=edit&amp;redlink=1" class="new" title="Roki（页面不存在）">Roki</a>
+<td><a class="new" title="Roki（页面不存在）">Roki</a>
 </td></tr>
 <tr>
 <td><a href="./小野塚小町.md" title="小野塚小町">小野塚小町</a></td>
-<td><a href="/index.php?title=%E6%A2%B5%E8%BE%9B&amp;action=edit&amp;redlink=1" class="new" title="梵辛（页面不存在）">梵辛</a>
+<td><a class="new" title="梵辛（页面不存在）">梵辛</a>
 </td></tr>
 <tr>
 <td><a href="./秋静叶.md" title="秋静叶">秋静叶</a></td>
-<td><a href="/index.php?title=%E3%82%A2%E3%83%AA%E3%83%8C&amp;action=edit&amp;redlink=1" class="new" title="アリヌ（页面不存在）">アリヌ</a>
+<td><a class="new" title="アリヌ（页面不存在）">アリヌ</a>
 </td></tr>
 <tr>
 <td><a href="./秋穰子.md" title="秋穰子">秋穰子</a></td>
-<td><a href="/index.php?title=%E3%82%A2%E3%83%AA%E3%83%8C&amp;action=edit&amp;redlink=1" class="new" title="アリヌ（页面不存在）">アリヌ</a>
+<td><a class="new" title="アリヌ（页面不存在）">アリヌ</a>
 </td></tr>
 <tr>
 <td><a href="./键山雏.md" title="键山雏">键山雏</a></td>
-<td><a href="/index.php?title=%E3%81%A4%E3%81%8F%E3%81%97%E3%81%95%E3%81%AA%E3%82%8A&amp;action=edit&amp;redlink=1" class="new" title="つくしさなり（页面不存在）">つくしさなり</a>
+<td><a class="new" title="つくしさなり（页面不存在）">つくしさなり</a>
 </td></tr>
 <tr>
 <td><a href="./河城荷取.md" title="河城荷取">河城荷取</a></td>
-<td><a href="/index.php?title=%E6%A4%8E%E5%90%8D%E3%82%A8%E3%82%AF%E3%82%BB%E3%83%AB&amp;action=edit&amp;redlink=1" class="new" title="椎名エクセル（页面不存在）">椎名エクセル</a>
+<td><a class="new" title="椎名エクセル（页面不存在）">椎名エクセル</a>
 </td></tr>
 <tr>
 <td><a href="./犬走椛.md" title="犬走椛">犬走椛</a></td>
-<td><a href="/index.php?title=%E5%95%93%E3%80%85&amp;action=edit&amp;redlink=1" class="new" title="啓々（页面不存在）">啓々</a>
+<td><a class="new" title="啓々（页面不存在）">啓々</a>
 </td></tr>
 <tr>
 <td><a href="./八坂神奈子.md" title="八坂神奈子">八坂神奈子</a></td>
@@ -405,31 +331,31 @@
 </td></tr>
 <tr>
 <td><a href="./琪斯美.md" title="琪斯美">琪斯美</a></td>
-<td><a href="/index.php?title=%E5%BF%AB%E6%A5%BD%E5%9C%92%E6%A2%85%E9%A6%99&amp;action=edit&amp;redlink=1" class="new" title="快楽園梅香（页面不存在）">快楽園梅香</a>
+<td><a class="new" title="快楽園梅香（页面不存在）">快楽園梅香</a>
 </td></tr>
 <tr>
 <td><a href="./黑谷山女.md" title="黑谷山女">黑谷山女</a></td>
-<td><a href="/index.php?title=%E3%81%86%E3%81%8C%E3%81%A4%E3%81%BE%E3%81%A4%E3%81%8D&amp;action=edit&amp;redlink=1" class="new" title="うがつまつき（页面不存在）">うがつまつき</a>
+<td><a class="new" title="うがつまつき（页面不存在）">うがつまつき</a>
 </td></tr>
 <tr>
 <td><a href="./水桥帕露西.md" title="水桥帕露西">水桥帕露西</a></td>
-<td><a href="/index.php?title=%E3%81%9B%E3%81%8D&amp;action=edit&amp;redlink=1" class="new" title="せき（页面不存在）">せき</a>
+<td><a class="new" title="せき（页面不存在）">せき</a>
 </td></tr>
 <tr>
 <td><a href="./星熊勇仪.md" title="星熊勇仪">星熊勇仪</a></td>
-<td><a href="/index.php?title=vivi&amp;action=edit&amp;redlink=1" class="new" title="vivi（页面不存在）">vivi</a>
+<td><a class="new" title="vivi（页面不存在）">vivi</a>
 </td></tr>
 <tr>
 <td><a href="./古明地觉.md" title="古明地觉">古明地觉</a></td>
-<td><a href="/index.php?title=%E6%9C%89%E9%A6%AC%E5%95%93%E5%A4%AA%E9%83%8E&amp;action=edit&amp;redlink=1" class="new" title="有馬啓太郎（页面不存在）">有馬啓太郎</a>
+<td><a class="new" title="有馬啓太郎（页面不存在）">有馬啓太郎</a>
 </td></tr>
 <tr>
 <td><a href="./火焰猫燐.md" title="火焰猫燐">火焰猫燐</a></td>
-<td><a href="/index.php?title=%E5%92%B2%E8%89%AF%E3%82%86%E3%81%8D&amp;action=edit&amp;redlink=1" class="new" title="咲良ゆき（页面不存在）">咲良ゆき</a>
+<td><a class="new" title="咲良ゆき（页面不存在）">咲良ゆき</a>
 </td></tr>
 <tr>
 <td><a href="./灵乌路空.md" title="灵乌路空">灵乌路空</a></td>
-<td><a href="/index.php?title=%E4%B9%83%E6%A8%B9%E5%9D%82%E3%81%8F%E3%81%97%E3%81%8A&amp;action=edit&amp;redlink=1" class="new" title="乃樹坂くしお（页面不存在）">乃樹坂くしお</a>
+<td><a class="new" title="乃樹坂くしお（页面不存在）">乃樹坂くしお</a>
 </td></tr>
 <tr>
 <td><a href="./古明地恋.md" title="古明地恋">古明地恋</a></td>
@@ -437,15 +363,15 @@
 </td></tr>
 <tr>
 <td><a href="./娜兹玲.md" title="娜兹玲">娜兹玲</a></td>
-<td><a href="/index.php?title=%E3%81%95%E3%81%88%E3%81%B0%E3%81%97&amp;action=edit&amp;redlink=1" class="new" title="さえばし（页面不存在）">さえばし</a>
+<td><a class="new" title="さえばし（页面不存在）">さえばし</a>
 </td></tr>
 <tr>
 <td><a href="./多多良小伞.md" title="多多良小伞">多多良小伞</a></td>
-<td><a href="/index.php?title=%E3%81%9F%E3%81%8F%E3%81%9A%E3%81%83%E3%83%BC&amp;action=edit&amp;redlink=1" class="new" title="たくずぃー（页面不存在）">たくずぃー</a>
+<td><a class="new" title="たくずぃー（页面不存在）">たくずぃー</a>
 </td></tr>
 <tr>
 <td><a href="./云居一轮.md" title="云居一轮">云居一轮</a></td>
-<td><a href="/index.php?title=%E9%87%8C%E6%9D%91%E9%9F%BF&amp;action=edit&amp;redlink=1" class="new" title="里村響（页面不存在）">里村響</a>
+<td><a class="new" title="里村響（页面不存在）">里村響</a>
 </td></tr>
 <tr>
 <td><a href="./村纱水蜜.md" title="村纱水蜜">村纱水蜜</a></td>
@@ -453,11 +379,11 @@
 </td></tr>
 <tr>
 <td><a href="./寅丸星.md" title="寅丸星">寅丸星</a></td>
-<td><a href="/index.php?title=%E3%81%93%E3%81%96%E3%81%8F%E3%82%89&amp;action=edit&amp;redlink=1" class="new" title="こざくら（页面不存在）">こざくら</a>
+<td><a class="new" title="こざくら（页面不存在）">こざくら</a>
 </td></tr>
 <tr>
 <td><a href="./圣白莲.md" title="圣白莲">圣白莲</a></td>
-<td><a href="/index.php?title=%E6%9E%A1%E7%8B%90&amp;action=edit&amp;redlink=1" class="new" title="枡狐（页面不存在）">枡狐</a>
+<td><a class="new" title="枡狐（页面不存在）">枡狐</a>
 </td></tr>
 <tr>
 <td><a href="./封兽鵺.md" title="封兽鵺">封兽鵺</a></td>
@@ -465,7 +391,7 @@
 </td></tr>
 <tr>
 <td><a href="./幽谷响子.md" title="幽谷响子">幽谷响子</a></td>
-<td><a href="/index.php?title=%E3%81%97%E3%82%8D%E3%81%84%E3%81%AF%E3%81%8F%E3%81%A8&amp;action=edit&amp;redlink=1" class="new" title="しろいはくと（页面不存在）">しろいはくと</a>
+<td><a class="new" title="しろいはくと（页面不存在）">しろいはくと</a>
 </td></tr>
 <tr>
 <td><a href="./宫古芳香.md" title="宫古芳香">宫古芳香</a></td>
@@ -473,11 +399,11 @@
 </td></tr>
 <tr>
 <td><a href="./霍青娥.md" title="霍青娥">霍青娥</a></td>
-<td><a href="/index.php?title=%E3%82%AD%E3%83%A6%E3%83%BC&amp;action=edit&amp;redlink=1" class="new" title="キユー（页面不存在）">キユー</a>
+<td><a class="new" title="キユー（页面不存在）">キユー</a>
 </td></tr>
 <tr>
 <td><a href="./苏我屠自古.md" title="苏我屠自古">苏我屠自古</a></td>
-<td><a href="/index.php?title=%E7%B2%97%E8%8C%B6&amp;action=edit&amp;redlink=1" class="new" title="粗茶（页面不存在）">粗茶</a>
+<td><a class="new" title="粗茶（页面不存在）">粗茶</a>
 </td></tr>
 <tr>
 <td><a href="./物部布都.md" title="物部布都">物部布都</a></td>
@@ -485,15 +411,15 @@
 </td></tr>
 <tr>
 <td><a href="./二岩猯藏.md" title="二岩猯藏">二岩猯藏</a></td>
-<td><a href="/index.php?title=%E5%B0%8F%E8%B1%86%E9%95%B7%E5%85%89&amp;action=edit&amp;redlink=1" class="new" title="小豆長光（页面不存在）">小豆長光</a>
+<td><a class="new" title="小豆長光（页面不存在）">小豆長光</a>
 </td></tr>
 <tr>
 <td><a href="./若鹭姬.md" title="若鹭姬">若鹭姬</a></td>
-<td><a href="/index.php?title=%E6%A0%97%E6%A0%96%E6%AD%B3&amp;action=edit&amp;redlink=1" class="new" title="栗栖歳（页面不存在）">栗栖歳</a>
+<td><a class="new" title="栗栖歳（页面不存在）">栗栖歳</a>
 </td></tr>
 <tr>
 <td><a href="./赤蛮奇.md" title="赤蛮奇">赤蛮奇</a></td>
-<td><a href="/index.php?title=%E3%81%82%E3%81%95%E3%81%B0%E2%98%86%E3%81%B2%E3%82%8D%E3%82%80&amp;action=edit&amp;redlink=1" class="new" title="あさば☆ひろむ（页面不存在）">あさば☆ひろむ</a>
+<td><a class="new" title="あさば☆ひろむ（页面不存在）">あさば☆ひろむ</a>
 </td></tr>
 <tr>
 <td><a href="./今泉影狼.md" title="今泉影狼">今泉影狼</a></td>
@@ -501,15 +427,15 @@
 </td></tr>
 <tr>
 <td><a href="./九十九弁弁.md" title="九十九弁弁">九十九弁弁</a></td>
-<td><a href="/index.php?title=%E3%82%A8%E3%83%93%E3%82%BE%E3%83%A1&amp;action=edit&amp;redlink=1" class="new" title="エビゾメ（页面不存在）">エビゾメ</a>
+<td><a class="new" title="エビゾメ（页面不存在）">エビゾメ</a>
 </td></tr>
 <tr>
 <td><a href="./九十九八桥.md" title="九十九八桥">九十九八桥</a></td>
-<td><a href="/index.php?title=%E3%82%A8%E3%83%93%E3%82%BE%E3%83%A1&amp;action=edit&amp;redlink=1" class="new" title="エビゾメ（页面不存在）">エビゾメ</a>
+<td><a class="new" title="エビゾメ（页面不存在）">エビゾメ</a>
 </td></tr>
 <tr>
 <td><a href="./鬼人正邪.md" title="鬼人正邪">鬼人正邪</a></td>
-<td><a href="/index.php?title=%E6%A1%9C%E5%B1%85%E6%98%A5%E6%96%97&amp;action=edit&amp;redlink=1" class="new" title="桜居春斗（页面不存在）">桜居春斗</a>
+<td><a class="new" title="桜居春斗（页面不存在）">桜居春斗</a>
 </td></tr>
 <tr>
 <td><a href="./堀川雷鼓.md" title="堀川雷鼓">堀川雷鼓</a></td>
@@ -517,11 +443,11 @@
 </td></tr>
 <tr>
 <td><a href="./清兰.md" title="清兰">清兰</a></td>
-<td><a href="/index.php?title=%E3%82%A4%E3%82%AF&amp;action=edit&amp;redlink=1" class="new" title="イク（页面不存在）">イク</a>
+<td><a class="new" title="イク（页面不存在）">イク</a>
 </td></tr>
 <tr>
 <td><a href="./铃瑚.md" title="铃瑚">铃瑚</a></td>
-<td><a href="/index.php?title=%E5%A4%8F%E6%B5%B7%E3%81%82%E3%81%8D%E3%82%89&amp;action=edit&amp;redlink=1" class="new" title="夏海あきら（页面不存在）">夏海あきら</a>
+<td><a class="new" title="夏海あきら（页面不存在）">夏海あきら</a>
 </td></tr>
 <tr>
 <td><a href="./哆来咪·苏伊特.md" title="哆来咪·苏伊特">哆来咪·苏伊特</a></td>
@@ -537,7 +463,7 @@
 </td></tr>
 <tr>
 <td><a href="./纯狐.md" title="纯狐">纯狐</a></td>
-<td><a href="/index.php?title=%E3%81%95%E3%82%84%E3%81%8B%E3%81%9F%E3%81%8B%E3%81%A4%E3%81%BF&amp;action=edit&amp;redlink=1" class="new" title="さやかたかつみ（页面不存在）">さやかたかつみ</a>
+<td><a class="new" title="さやかたかつみ（页面不存在）">さやかたかつみ</a>
 </td></tr>
 <tr>
 <td><a href="./赫卡提亚·拉碧斯拉祖利.md" title="赫卡提亚·拉碧斯拉祖利">赫卡提亚·拉碧斯拉祖利</a></td>
@@ -549,11 +475,11 @@
 </td></tr>
 <tr>
 <td><a href="./坂田合欢.md" title="坂田合欢">坂田合欢</a></td>
-<td><a href="/index.php?title=%E7%B2%97%E8%8C%B6&amp;action=edit&amp;redlink=1" class="new" title="粗茶（页面不存在）">粗茶</a>
+<td><a class="new" title="粗茶（页面不存在）">粗茶</a>
 </td></tr>
 <tr>
 <td><a href="./高丽野阿吽.md" title="高丽野阿吽">高丽野阿吽</a></td>
-<td><a href="/index.php?title=%E3%82%BF%E3%82%AB%E3%83%8F%E3%83%AB&amp;action=edit&amp;redlink=1" class="new" title="タカハル（页面不存在）">タカハル</a>
+<td><a class="new" title="タカハル（页面不存在）">タカハル</a>
 </td></tr>
 <tr>
 <td><a href="./矢田寺成美.md" title="矢田寺成美">矢田寺成美</a></td>
@@ -561,15 +487,15 @@
 </td></tr>
 <tr>
 <td><a href="./丁礼田舞.md" title="丁礼田舞">丁礼田舞</a></td>
-<td><a href="/index.php?title=%E3%81%82%E3%81%8B%E3%81%8E%E3%82%86%E3%83%BC%E3%81%A8&amp;action=edit&amp;redlink=1" class="new" title="あかぎゆーと（页面不存在）">あかぎゆーと</a>
+<td><a class="new" title="あかぎゆーと（页面不存在）">あかぎゆーと</a>
 </td></tr>
 <tr>
 <td><a href="./尔子田里乃.md" title="尔子田里乃">尔子田里乃</a></td>
-<td><a href="/index.php?title=%E3%81%82%E3%81%8B%E3%81%8E%E3%82%86%E3%83%BC%E3%81%A8&amp;action=edit&amp;redlink=1" class="new" title="あかぎゆーと（页面不存在）">あかぎゆーと</a>
+<td><a class="new" title="あかぎゆーと（页面不存在）">あかぎゆーと</a>
 </td></tr>
 <tr>
 <td><a href="./伊吹萃香.md" title="伊吹萃香">伊吹萃香</a></td>
-<td><a href="/index.php?title=%E3%81%AA%E3%81%AA%E3%81%A6%E3%82%8B&amp;action=edit&amp;redlink=1" class="new" title="ななてる（页面不存在）">ななてる</a>
+<td><a class="new" title="ななてる（页面不存在）">ななてる</a>
 </td></tr>
 <tr>
 <td><a href="./永江衣玖.md" title="永江衣玖">永江衣玖</a></td>
@@ -581,7 +507,7 @@
 </td></tr>
 <tr>
 <td><a href="./茨木华扇.md" title="茨木华扇">茨木华扇</a></td>
-<td><a href="/index.php?title=%E5%A4%A7%E5%87%BA%E3%83%AA%E3%82%B3&amp;action=edit&amp;redlink=1" class="new" title="大出リコ（页面不存在）">大出リコ</a>
+<td><a class="new" title="大出リコ（页面不存在）">大出リコ</a>
 </td></tr>
 <tr>
 <td><a href="./依神女苑.md" title="依神女苑">依神女苑</a></td>
@@ -597,19 +523,19 @@
 </td></tr>
 <tr>
 <td><a href="./姬海棠果.md" title="姬海棠果">姬海棠果</a></td>
-<td><a href="/index.php?title=%E8%99%BB&amp;action=edit&amp;redlink=1" class="new" title="虻（页面不存在）">虻</a>
+<td><a class="new" title="虻（页面不存在）">虻</a>
 </td></tr>
 <tr>
 <td><a href="./桑尼米尔克.md" title="桑尼米尔克">桑尼米尔克</a></td>
-<td><a href="/index.php?title=%E8%92%BC%E9%A6%AC%E3%81%BF%E3%81%9A%E3%81%8D&amp;action=edit&amp;redlink=1" class="new" title="蒼馬みずき（页面不存在）">蒼馬みずき</a>
+<td><a class="new" title="蒼馬みずき（页面不存在）">蒼馬みずき</a>
 </td></tr>
 <tr>
 <td><a href="./斯塔萨菲雅.md" title="斯塔萨菲雅">斯塔萨菲雅</a></td>
-<td><a href="/index.php?title=%E8%92%BC%E9%A6%AC%E3%81%BF%E3%81%9A%E3%81%8D&amp;action=edit&amp;redlink=1" class="new" title="蒼馬みずき（页面不存在）">蒼馬みずき</a>
+<td><a class="new" title="蒼馬みずき（页面不存在）">蒼馬みずき</a>
 </td></tr>
 <tr>
 <td><a href="./露娜切露德.md" title="露娜切露德">露娜切露德</a></td>
-<td><a href="/index.php?title=%E8%92%BC%E9%A6%AC%E3%81%BF%E3%81%9A%E3%81%8D&amp;action=edit&amp;redlink=1" class="new" title="蒼馬みずき（页面不存在）">蒼馬みずき</a>
+<td><a class="new" title="蒼馬みずき（页面不存在）">蒼馬みずき</a>
 </td></tr>
 <tr>
 <td><a href="./宇佐见莲子.md" title="宇佐见莲子">宇佐见莲子</a></td>
@@ -621,33 +547,32 @@
 </td></tr>
 <tr>
 <td><a href="./森近霖之助.md" title="森近霖之助">森近霖之助</a></td>
-<td><a href="/index.php?title=%E5%A3%AB%E8%B2%B4%E6%99%BA%E5%BF%97&amp;action=edit&amp;redlink=1" class="new" title="士貴智志（页面不存在）">士貴智志</a>
+<td><a class="new" title="士貴智志（页面不存在）">士貴智志</a>
 </td></tr>
 <tr>
 <td><a href="./稗田阿求.md" title="稗田阿求">稗田阿求</a></td>
-<td><a href="/index.php?title=OrGA&amp;action=edit&amp;redlink=1" class="new" title="OrGA（页面不存在）">OrGA</a>
+<td><a class="new" title="OrGA（页面不存在）">OrGA</a>
 </td></tr>
 <tr>
 <td><a href="./绵月依姬.md" title="绵月依姬">绵月依姬</a></td>
-<td><a href="/index.php?title=%E6%9C%B1%E3%82%B7%E3%82%AA&amp;action=edit&amp;redlink=1" class="new" title="朱シオ（页面不存在）">朱シオ</a>
+<td><a class="new" title="朱シオ（页面不存在）">朱シオ</a>
 </td></tr>
 <tr>
 <td><a href="./绵月丰姬.md" title="绵月丰姬">绵月丰姬</a></td>
-<td><a href="/index.php?title=%E6%9C%B1%E3%82%B7%E3%82%AA&amp;action=edit&amp;redlink=1" class="new" title="朱シオ（页面不存在）">朱シオ</a>
+<td><a class="new" title="朱シオ（页面不存在）">朱シオ</a>
 </td></tr>
 <tr>
 <td><a href="./本居小铃.md" title="本居小铃">本居小铃</a></td>
-<td><a href="/index.php?title=%E3%81%93%E3%82%8B%E3%82%8A&amp;action=edit&amp;redlink=1" class="new" title="こるり（页面不存在）">こるり</a>
+<td><a class="new" title="こるり（页面不存在）">こるり</a>
 </td></tr>
 </tbody></table>
-
 
 
 ### Staff
 制作总指挥
 : [D.N.A.](./D.N.A..md)
 程序
-: [D.N.A.](./D.N.A..md)，[ルー](./ルー.md)，ぺけ (未找到链接)，Ichijo (未找到链接)
+: [D.N.A.](./D.N.A..md)，[ルー](./Ruw.md)，ぺけ (未找到链接)，Ichijo (未找到链接)
 设计
 : サカイマサトシ (未找到链接)，カキヤザクロ (未找到链接)（[前転受け身友の会](./前転受け身友の会.md)）
 作画总监
@@ -663,8 +588,8 @@
 制作协力
 : 株式会社フレンドシード
 
-
 ## 内容页面
+
 - 游戏设定与剧情 (未找到链接)
 - 攻略 (未找到链接)
 - 其他信息 (未找到链接)
@@ -672,14 +597,10 @@
 
 ## 音乐
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Astronautenreise" colspan="2" class="title">Astronautenreise<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=和泉幸奇&amp;ogmusic=ヴォヤージュ1969&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./和泉幸奇.md" title="和泉幸奇">和泉幸奇</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，和泉幸奇&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=ヴォヤージュ1969&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span></span></a></span><div class="ogmusic"><a href="./ヴォヤージュ1969.md" class="mw-redirect" title="ヴォヤージュ1969">ヴォヤージュ1969</a></div><div class="source"><a href="./东方永夜抄_～_Imperishable_Night..md" class="mw-redirect" title="东方永夜抄 ～ Imperishable Night.">东方永夜抄　～ Imperishable Night.</a></div></td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">永遠亭のテーマ</td></tr><tr><td id="2" class="infoYD"><b>02</b></td><td id="The_End_of_Fate_-_Last_Judgement_-" colspan="2" class="title">The End of Fate - Last Judgement -<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=えくす&amp;ogmusic=the Last Judgement&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E3%81%88%E3%81%8F%E3%81%99&amp;action=edit&amp;redlink=1" class="new" title="えくす（页面不存在）">えくす</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，えくす&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=the Last Judgement&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span></span></a></span><div class="ogmusic"><a href="./the_Last_Judgement.md" title="the Last Judgement">the Last Judgement</a></div><div class="source"><a href="./东方怪绮谈_～_Mystic_Square..md" class="mw-redirect" title="东方怪绮谈 ～ Mystic Square.">东方怪绮谈　～ Mystic Square.</a></div></td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">魔界のテーマ</td></tr><tr><td id="3" class="infoYD"><b>03</b></td><td id="Try_Next_Stage!" colspan="2" class="title">Try Next Stage!<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=えくす&amp;ogmusic=プレイヤーズスコア&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E3%81%88%E3%81%8F%E3%81%99&amp;action=edit&amp;redlink=1" class="new" title="えくす（页面不存在）">えくす</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，えくす&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=プレイヤーズスコア&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span></span></a></span><div class="ogmusic"><a href="./プレイヤーズスコア.md" class="mw-redirect" title="プレイヤーズスコア">プレイヤーズスコア</a></div><div class="source"><a href="./东方天空璋_～_Hidden_Star_in_Four_Seasons..md" class="mw-redirect" title="东方天空璋 ～ Hidden Star in Four Seasons.">东方天空璋　～ Hidden Star in Four Seasons.</a></div></td></tr><tr><td id="4" class="infoYD"><b>04</b></td><td id="六十年目の東方裁判_～_Fate_of_Sixty_Years／Driven_Flat-Out_Mix" colspan="2" class="title">六十年目の東方裁判 ～ Fate of Sixty Years／Driven Flat-Out Mix<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=good-cool&amp;ogmusic=六十年目の東方裁判　～ Fate of Sixty Years&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=good-cool&amp;action=edit&amp;redlink=1" class="new" title="good-cool（页面不存在）">good-cool</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，good-cool&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=六十年目の東方裁判　～ Fate of Sixty Years&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span></span></a></span><div class="ogmusic"><a href="./六十年目の東方裁判_～_Fate_of_Sixty_Years.md" class="mw-redirect" title="六十年目の東方裁判 ～ Fate of Sixty Years">六十年目の東方裁判　～ Fate of Sixty Years</a></div><div class="source"><a href="./东方花映塚_～_Phantasmagoria_of_Flower_View..md" class="mw-redirect" title="东方花映塚 ～ Phantasmagoria of Flower View.">东方花映塚　～ Phantasmagoria of Flower View.</a></div></td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">無縁塚のテーマ</td></tr><tr><td id="5" class="infoYD"><b>05</b></td><td id="HAKUREISM" colspan="2" class="title">HAKUREISM<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=此糸ウルヱ&amp;ogmusic=桜色の海を泳いで&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./此糸ウルヱ.md" title="此糸ウルヱ">此糸ウルヱ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，此糸ウルヱ&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=桜色の海を泳いで&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span></span></a></span><div class="ogmusic"><a href="./桜色の海を泳いで.md" class="mw-redirect" title="桜色の海を泳いで">桜色の海を泳いで</a></div><div class="source"><a href="./东方天空璋_～_Hidden_Star_in_Four_Seasons..md" class="mw-redirect" title="东方天空璋 ～ Hidden Star in Four Seasons.">东方天空璋　～ Hidden Star in Four Seasons.</a></div></td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">博麗神社のテーマ</td></tr><tr><td id="6" class="infoYD"><b>06</b></td><td id="ハイパイダンス" colspan="2" class="title">ハイパイダンス<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=コンプ&amp;ogmusic=上海紅茶館　～ Chinese Tea&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./コンプ.md" title="コンプ">コンプ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，コンプ&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=上海紅茶館　～ Chinese Tea&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span></span></a></span><div class="ogmusic"><a href="./上海紅茶館_～_Chinese_Tea.md" class="mw-redirect" title="上海紅茶館 ～ Chinese Tea">上海紅茶館　～ Chinese Tea</a></div><div class="source"><a href="./东方红魔乡_～_the_Embodiment_of_Scarlet_Devil..md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">紅魔館のテーマ</td></tr><tr><td id="7" class="infoYD"><b>07</b></td><td id="CEMETERY_ON_VAZIIRA" colspan="2" class="title">CEMETERY ON VAZIIRA<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=SOUND HOLIC&amp;ogmusic=御柱の墓場　～ Grave of Being&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./SOUND_HOLIC.md" title="SOUND HOLIC">SOUND HOLIC</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，SOUND HOLIC&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=御柱の墓場　～ Grave of Being&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span></span></a></span><div class="ogmusic"><a href="./御柱の墓場_～_Grave_of_Being.md" class="mw-redirect" title="御柱の墓場 ～ Grave of Being">御柱の墓場　～ Grave of Being</a></div><div class="source"><a href="./东方风神录_～_Mountain_of_Faith..md" class="mw-redirect" title="东方风神录 ～ Mountain of Faith.">东方风神录　～ Mountain of Faith.</a></div></td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">守矢神社のテーマ</td></tr><tr><td id="8" class="infoYD"><b>08</b></td><td id="妖々夢～一華開五葉" colspan="2" class="title">妖々夢～一華開五葉<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=坂本慎一&amp;ogmusic=東方妖々夢　～ Ancient Temple&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E5%9D%82%E6%9C%AC%E6%85%8E%E4%B8%80&amp;action=edit&amp;redlink=1" class="new" title="坂本慎一（页面不存在）">坂本慎一</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，坂本慎一&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=東方妖々夢　～ Ancient Temple&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span></span></a></span><div class="ogmusic"><a href="./東方妖々夢_～_Ancient_Temple.md" class="mw-redirect" title="東方妖々夢 ～ Ancient Temple">東方妖々夢　～ Ancient Temple</a></div><div class="source"><a href="./东方妖妖梦_～_Perfect_Cherry_Blossom..md" class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">白玉楼のテーマ</td></tr><tr><td id="9" class="infoYD"><b>09</b></td><td id="Re::Wonderful_Heaven" colspan="2" class="title">Re::Wonderful Heaven<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Shade&amp;ogmusic=有頂天変　～ Wonderful Heaven&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=Shade&amp;action=edit&amp;redlink=1" class="new" title="Shade（页面不存在）">Shade</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Shade&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=有頂天変　～ Wonderful Heaven&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span></span></a></span><div class="ogmusic"><a href="./有頂天変_～_Wonderful_Heaven.md" class="mw-redirect" title="有頂天変 ～ Wonderful Heaven">有頂天変　～ Wonderful Heaven</a></div><div class="source"><a href="./东方绯想天_～_Scarlet_Weather_Rhapsody..md" class="mw-redirect" title="东方绯想天 ～ Scarlet Weather Rhapsody.">东方绯想天　～ Scarlet Weather Rhapsody.</a></div></td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">天界の石舞台のテーマ</td></tr><tr><td id="10" class="infoYD"><b>10</b></td><td id="Dread_Cat" colspan="2" class="title">Dread Cat<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Jerico&amp;ogmusic=ハートフェルトファンシー&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Jerico.md" title="Jerico">Jerico</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Jerico&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=ハートフェルトファンシー&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span></span></a></span><div class="ogmusic"><a href="./ハートフェルトファンシー.md" class="mw-redirect" title="ハートフェルトファンシー">ハートフェルトファンシー</a></div><div class="source"><a href="./东方地灵殿_～_Subterranean_Animism..md" class="mw-redirect" title="东方地灵殿 ～ Subterranean Animism.">东方地灵殿　～ Subterranean Animism.</a></div></td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">地霊殿のテーマ</td></tr><tr><td id="11" class="infoYD"><b>11</b></td><td id="キュアリアス上海古牌" colspan="2" class="title">キュアリアス上海古牌<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=ZUN&amp;ogmusic=キュアリアス上海古牌&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./ZUN.md" title="ZUN">ZUN</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，ZUN&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">初发布</td><td class="text" colspan="2"><a href="/%E6%9D%B1%E6%96%B9%E5%B9%BB%E6%83%B3%E9%BA%BB%E9%9B%80%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF#17" title="東方幻想麻雀オリジナルサウンドトラック">キュアリアス上海古牌</a><div class="source"><a href="./東方幻想麻雀オリジナルサウンドトラック.md" title="東方幻想麻雀オリジナルサウンドトラック">東方幻想麻雀オリジナルサウンドトラック</a></div></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=キュアリアス上海古牌&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span></span></a></span><div class="ogmusic"><a href="./キュアリアス上海古牌.md" class="mw-redirect" title="キュアリアス上海古牌">キュアリアス上海古牌</a></div><div class="source"><a href="./东方幻想麻将_-_Touhou_Unreal_Mahjong.md" class="mw-redirect" title="东方幻想麻将 - Touhou Unreal Mahjong">东方幻想麻将 - Touhou Unreal Mahjong</a></div></td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">香霖堂のテーマ</td></tr><tr><td id="12" class="infoYL"><b>12</b></td><td id="hard_off" colspan="2" class="title">hard off<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=DEKU&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=DEKU&amp;action=edit&amp;redlink=1" class="new" title="DEKU（页面不存在）">DEKU</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，DEKU&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">通常ルール卓のテーマ</td></tr><tr><td id="13" class="infoYD"><b>13</b></td><td id="ふわり、辛辣、夢うつつ" colspan="2" class="title">ふわり、辛辣、夢うつつ<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=t+pazolite&amp;ogmusic=宇宙を飛ぶ不思議な巫女&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./t+pazolite.md" title="t+pazolite">t+pazolite</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，t+pazolite&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=宇宙を飛ぶ不思議な巫女&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span></span></a></span><div class="ogmusic"><a href="./宇宙を飛ぶ不思議な巫女.md" class="mw-redirect" title="宇宙を飛ぶ不思議な巫女">宇宙を飛ぶ不思議な巫女</a></div><div class="source"><a href="./东方绀珠传_～_Legacy_of_Lunatic_Kingdom..md" class="mw-redirect" title="东方绀珠传 ～ Legacy of Lunatic Kingdom.">东方绀珠传　～ Legacy of Lunatic Kingdom.</a></div></td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">夢の世界のテーマ</td></tr><tr><td id="14" class="infoYD"><b>14</b></td><td id="U.N.オーエンは彼女なのか？_-_Greater_Scarlet" colspan="2" class="title">U.N.オーエンは彼女なのか？ - Greater Scarlet<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=並木 学&amp;ogmusic=U.N.オーエンは彼女なのか？&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E4%B8%A6%E6%9C%A8_%E5%AD%A6&amp;action=edit&amp;redlink=1" class="new" title="並木 学（页面不存在）">並木 学</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，並木 学&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=U.N.オーエンは彼女なのか？&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span></span></a></span><div class="ogmusic"><a href="./U.N.オーエンは彼女なのか？.md" class="mw-redirect" title="U.N.オーエンは彼女なのか？">U.N.オーエンは彼女なのか？</a></div><div class="source"><a href="./东方红魔乡_～_the_Embodiment_of_Scarlet_Devil..md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">紅魔館地下室のテーマ</td></tr><tr><td id="15" class="infoYD"><b>15</b></td><td id="華狭間会戦（仙）地" colspan="2" class="title">華狭間会戦（仙）地<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=花岡拓也&amp;ogmusic=華狭間のバトルフィールド&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E8%8A%B1%E5%B2%A1%E6%8B%93%E4%B9%9F&amp;action=edit&amp;redlink=1" class="new" title="花岡拓也（页面不存在）">花岡拓也</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，花岡拓也&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=華狭間のバトルフィールド&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span></span></a></span><div class="ogmusic"><a href="./華狭間のバトルフィールド.md" class="mw-redirect" title="華狭間のバトルフィールド">華狭間のバトルフィールド</a></div><div class="source"><a href="./东方深秘录_～_Urban_Legend_in_Limbo..md" class="mw-redirect" title="东方深秘录 ～ Urban Legend in Limbo.">东方深秘录　～ Urban Legend in Limbo.</a></div></td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">隙間の向こう側のテーマ</td></tr><tr><td id="16" class="infoYD"><b>16</b></td><td id="少女綺想曲（少女はファミコン実機グルーヴにステレオの夢を見るかmix）" colspan="2" class="title">少女綺想曲（少女はファミコン実機グルーヴにステレオの夢を見るかmix）<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=hally&amp;ogmusic=少女綺想曲　～ Dream Battle&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=hally&amp;action=edit&amp;redlink=1" class="new" title="hally（页面不存在）">hally</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，hally&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=少女綺想曲　～ Dream Battle&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span></span></a></span><div class="ogmusic"><a href="./少女綺想曲_～_Dream_Battle.md" class="mw-redirect" title="少女綺想曲 ～ Dream Battle">少女綺想曲　～ Dream Battle</a></div><div class="source"><a href="./东方永夜抄_～_Imperishable_Night..md" class="mw-redirect" title="东方永夜抄 ～ Imperishable Night.">东方永夜抄　～ Imperishable Night.</a></div></td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">博麗神社裏庭のテーマ</td></tr><tr><td id="17" class="infoYD"><b>17</b></td><td id="星と六弦の語らい" colspan="2" class="title">星と六弦の語らい<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=古川もとあき&amp;ogmusic=感情の摩天楼　～ Cosmic Mind&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E5%8F%A4%E5%B7%9D%E3%82%82%E3%81%A8%E3%81%82%E3%81%8D&amp;action=edit&amp;redlink=1" class="new" title="古川もとあき（页面不存在）">古川もとあき</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，古川もとあき&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=感情の摩天楼　～ Cosmic Mind&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span></span></a></span><div class="ogmusic"><a href="./感情の摩天楼_～_Cosmic_Mind.md" class="mw-redirect" title="感情の摩天楼 ～ Cosmic Mind">感情の摩天楼　～ Cosmic Mind</a></div><div class="source"><a href="./东方星莲船_～_Undefined_Fantastic_Object..md" class="mw-redirect" title="东方星莲船 ～ Undefined Fantastic Object.">东方星莲船　～ Undefined Fantastic Object.</a></div></td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">命蓮寺のテーマ</td></tr><tr><td id="18" class="infoYD"><b>18</b></td><td id="山姥の風牌に色は無い" colspan="2" class="title">山姥の風牌に色は無い<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=松山弘世&amp;ogmusic=色無き風は妖怪の山に&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./松山弘世.md" class="mw-redirect" title="松山弘世">松山弘世</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，松山弘世&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=色無き風は妖怪の山に&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span></span></a></span><div class="ogmusic"><a href="./色無き風は妖怪の山に.md" class="mw-redirect" title="色無き風は妖怪の山に">色無き風は妖怪の山に</a></div><div class="source"><a href="./东方天空璋_～_Hidden_Star_in_Four_Seasons..md" class="mw-redirect" title="东方天空璋 ～ Hidden Star in Four Seasons.">东方天空璋　～ Hidden Star in Four Seasons.</a></div></td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">妖怪の山のテーマ</td></tr><tr><td id="19" class="infoYD"><b>19</b></td><td id="Mirage_Dance" colspan="2" class="title">Mirage Dance<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Masayoshi Minoshima&amp;ogmusic=心綺楼囃子&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Masayoshi_Minoshima.md" title="Masayoshi Minoshima">Masayoshi Minoshima</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Masayoshi Minoshima&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=心綺楼囃子&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span></span></a></span><div class="ogmusic"><a href="./心綺楼囃子.md" class="mw-redirect" title="心綺楼囃子">心綺楼囃子</a></div><div class="source"><a href="./东方心绮楼_～_Hopeless_Masquerade..md" class="mw-redirect" title="东方心绮楼 ～ Hopeless Masquerade.">东方心绮楼　～ Hopeless Masquerade.</a></div></td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">能舞台のテーマ</td></tr><tr><td id="20" class="infoYD"><b>20</b></td><td id="考えすぎのマジシャン" colspan="2" class="title">考えすぎのマジシャン<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Euchaeta&amp;ogmusic=魔法使いの憂鬱&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=Euchaeta&amp;action=edit&amp;redlink=1" class="new" title="Euchaeta（页面不存在）">Euchaeta</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Euchaeta&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=魔法使いの憂鬱&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span></span></a></span><div class="ogmusic"><a href="./魔法使いの憂鬱.md" class="mw-redirect" title="魔法使いの憂鬱">魔法使いの憂鬱</a></div><div class="source"><a href="./The_Grimoire_of_Marisa_附属CD.md" class="mw-redirect" title="The Grimoire of Marisa 附属CD">The Grimoire of Marisa 附属CD</a></div></td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">霧雨魔法店のテーマ</td></tr><tr><td id="21" class="infoYD"><b>21</b></td><td id="パンデモニックプラネット_-_Goddess_Apocalypse_-" colspan="2" class="title">パンデモニックプラネット - Goddess Apocalypse -<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=ヨナオケイシ&amp;ogmusic=パンデモニックプラネット&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E3%83%A8%E3%83%8A%E3%82%AA%E3%82%B1%E3%82%A4%E3%82%B7&amp;action=edit&amp;redlink=1" class="new" title="ヨナオケイシ（页面不存在）">ヨナオケイシ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，ヨナオケイシ&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=パンデモニックプラネット&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span></span></a></span><div class="ogmusic"><a href="./パンデモニックプラネット.md" class="mw-redirect" title="パンデモニックプラネット">パンデモニックプラネット</a></div><div class="source"><a href="./东方绀珠传_～_Legacy_of_Lunatic_Kingdom..md" class="mw-redirect" title="东方绀珠传 ～ Legacy of Lunatic Kingdom.">东方绀珠传　～ Legacy of Lunatic Kingdom.</a></div></td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">灼熱地獄のテーマ</td></tr><tr><td id="22" class="infoYD"><b>22</b></td><td id="ForestWitch" colspan="2" class="title">ForestWitch<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Ruffnecky&amp;ogmusic=ヴワル魔法図書館&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=Ruffnecky&amp;action=edit&amp;redlink=1" class="new" title="Ruffnecky（页面不存在）">Ruffnecky</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Ruffnecky&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=ヴワル魔法図書館&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span></span></a></span><div class="ogmusic"><a href="./ヴワル魔法図書館.md" class="mw-redirect" title="ヴワル魔法図書館">ヴワル魔法図書館</a></div><div class="source"><a href="./东方红魔乡_～_the_Embodiment_of_Scarlet_Devil..md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">大図書館のテーマ</td></tr><tr><td id="23" class="infoYD"><b>23</b></td><td id="SuzunaAn_set_〜_判読眼のビブロフィリア" colspan="2" class="title">SuzunaAn set 〜 判読眼のビブロフィリア<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Rin&amp;ogmusic=判読眼のビブロフィリア&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Rin.md" title="Rin">Rin</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Rin&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=判読眼のビブロフィリア&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span></span></a></span><div class="ogmusic"><a href="./判読眼のビブロフィリア.md" class="mw-redirect" title="判読眼のビブロフィリア">判読眼のビブロフィリア</a></div><div class="source"><a href="./东方铃奈庵_～_Forbidden_Scrollery._附属CD.md" class="mw-redirect" title="东方铃奈庵 ～ Forbidden Scrollery. 附属CD">东方铃奈庵 ～ Forbidden Scrollery. 附属CD</a></div></td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">人間の里のテーマ</td></tr><tr><td id="24" class="infoYD"><b>24</b></td><td id="Singing_to_the_gods" colspan="2" class="title">Singing to the gods<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=来兎&amp;ogmusic=偶像に世界を委ねて　～ Idoratrize World&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E6%9D%A5%E5%85%8E&amp;action=edit&amp;redlink=1" class="new" title="来兎（页面不存在）">来兎</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，来兎&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=偶像に世界を委ねて　～ Idoratrize World&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span></span></a></span><div class="ogmusic"><a href="./偶像に世界を委ねて_～_Idoratrize_World.md" class="mw-redirect" title="偶像に世界を委ねて ～ Idoratrize World">偶像に世界を委ねて　～ Idoratrize World</a></div><div class="source"><a href="./东方鬼形兽_～_Wily_Beast_and_Weakest_Creature..md" class="mw-redirect" title="东方鬼形兽 ～ Wily Beast and Weakest Creature.">东方鬼形兽　～ Wily Beast and Weakest Creature.</a></div></td></tr><tr><td class="left"></td><td class="label">首发日期</td><td class="text" colspan="2">2020-10-23</td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">畜生界のテーマ</td></tr><tr><td id="25" class="infoYD"><b>25</b></td><td id="疾走夢遊列車_in_幻想の地下大線路網" colspan="2" class="title">疾走夢遊列車 in 幻想の地下大線路網<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=COSIO&amp;ogmusic=幻想の地下大線路網&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./COSIO.md" title="COSIO">COSIO</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，COSIO&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=幻想の地下大線路網&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span></span></a></span><div class="ogmusic"><a href="./幻想の地下大線路網.md" class="mw-redirect" title="幻想の地下大線路網">幻想の地下大線路網</a></div><div class="source"><a href="./东方虹龙洞_～_Unconnected_Marketeers..md" class="mw-redirect" title="东方虹龙洞 ～ Unconnected Marketeers.">东方虹龙洞　～ Unconnected Marketeers.</a></div></td></tr><tr><td class="left"></td><td class="label">首发日期</td><td class="text" colspan="2">2021-12-16</td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">虹龍洞のテーマ</td></tr><tr><td id="26" class="infoYD"><b>26</b></td><td id="龍王殺しのプリンセス_-_Poison_of_Thunder_-" colspan="2" class="title">龍王殺しのプリンセス - Poison of Thunder -<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=佐藤豪&amp;ogmusic=龍王殺しのプリンセス&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E4%BD%90%E8%97%A4%E8%B1%AA&amp;action=edit&amp;redlink=1" class="new" title="佐藤豪（页面不存在）">佐藤豪</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，佐藤豪&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=龍王殺しのプリンセス&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span></span></a></span><div class="ogmusic"><a href="./龍王殺しのプリンセス.md" class="mw-redirect" title="龍王殺しのプリンセス">龍王殺しのプリンセス</a></div><div class="source"><a href="./东方虹龙洞_～_Unconnected_Marketeers..md" class="mw-redirect" title="东方虹龙洞 ～ Unconnected Marketeers.">东方虹龙洞　～ Unconnected Marketeers.</a></div></td></tr><tr><td class="left"></td><td class="label">首发日期</td><td class="text" colspan="2">2021-12-16</td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">虹龍洞のテーマ</td></tr><tr><td id="27" class="infoYD"><b>27</b></td><td id="Dragon_Bomb" colspan="2" class="title">Dragon Bomb<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=A-One&amp;ogmusic=星降る天魔の山&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./A-One.md" title="A-One">A-One</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，A-One&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=星降る天魔の山&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span></span></a></span><div class="ogmusic"><a href="./星降る天魔の山.md" class="mw-redirect" title="星降る天魔の山">星降る天魔の山</a></div><div class="source"><a href="./东方虹龙洞_～_Unconnected_Marketeers..md" class="mw-redirect" title="东方虹龙洞 ～ Unconnected Marketeers.">东方虹龙洞　～ Unconnected Marketeers.</a></div></td></tr><tr><td class="left"></td><td class="label">首发日期</td><td class="text" colspan="2">2021-12-16</td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">月虹市場のテーマ</td></tr><tr><td id="28" class="infoYD"><b>28</b></td><td id="Tales_of_Far_East_Soul" colspan="2" class="title">Tales of Far East Soul<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=TECHNOuchi，林沙希&amp;ogmusic=あの賑やかな市場は今どこに　～ Immemorial Marketeers&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=TECHNOuchi&amp;action=edit&amp;redlink=1" class="new" title="TECHNOuchi（页面不存在）">TECHNOuchi</a>，<a href="/index.php?title=%E6%9E%97%E6%B2%99%E5%B8%8C&amp;action=edit&amp;redlink=1" class="new" title="林沙希（页面不存在）">林沙希</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，TECHNOuchi，林沙希&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=あの賑やかな市場は今どこに　～ Immemorial Marketeers&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span></span></a></span><div class="ogmusic"><a href="./あの賑やかな市場は今どこに_～_Immemorial_Marketeers.md" class="mw-redirect" title="あの賑やかな市場は今どこに ～ Immemorial Marketeers">あの賑やかな市場は今どこに　～ Immemorial Marketeers</a></div><div class="source"><a href="./东方虹龙洞_～_Unconnected_Marketeers..md" class="mw-redirect" title="东方虹龙洞 ～ Unconnected Marketeers.">东方虹龙洞　～ Unconnected Marketeers.</a></div></td></tr><tr><td class="left"></td><td class="label">首发日期</td><td class="text" colspan="2">2021-12-16</td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">月虹市場のテーマ</td></tr><tr><td id="29" class="infoYL"><b>29</b></td><td id="催花雨薫る" colspan="2" class="title">催花雨薫る<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=bermei.inazawa&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=bermei.inazawa&amp;action=edit&amp;redlink=1" class="new" title="bermei.inazawa（页面不存在）">bermei.inazawa</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，bermei.inazawa&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">首发日期</td><td class="text" colspan="2">2022-03-03</td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">エントランス</td></tr><tr><td id="30" class="infoYD"><b>30</b></td><td id="Last_Run" colspan="2" class="title">Last Run<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=削除&amp;ogmusic=プレインエイジア&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E5%89%8A%E9%99%A4&amp;action=edit&amp;redlink=1" class="new" title="削除（页面不存在）">削除</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，削除&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=プレインエイジア&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span></span></a></span><div class="ogmusic"><a href="./プレインエイジア.md" class="mw-redirect" title="プレインエイジア">プレインエイジア</a></div><div class="source"><a href="./东方永夜抄_～_Imperishable_Night..md" class="mw-redirect" title="东方永夜抄 ～ Imperishable Night.">东方永夜抄　～ Imperishable Night.</a></div></td></tr><tr><td class="left"></td><td class="label">首发日期</td><td class="text" colspan="2">2022-03-03</td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">リーチBGM</td></tr><tr><td id="31" class="infoYD"><b>31</b></td><td id="魂の休らむ場所" colspan="2" class="title">魂の休らむ場所<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=水奈瀬いつき&amp;ogmusic=魂の休らむ所&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E6%B0%B4%E5%A5%88%E7%80%AC%E3%81%84%E3%81%A4%E3%81%8D&amp;action=edit&amp;redlink=1" class="new" title="水奈瀬いつき（页面不存在）">水奈瀬いつき</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，水奈瀬いつき&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=魂の休らむ所&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span></span></a></span><div class="ogmusic"><a href="./魂の休らむ所.md" class="mw-redirect" title="魂の休らむ所">魂の休らむ所</a></div><div class="source"><a href="./东方怪绮谈_～_Mystic_Square..md" class="mw-redirect" title="东方怪绮谈 ～ Mystic Square.">东方怪绮谈　～ Mystic Square.</a></div></td></tr><tr><td class="left"></td><td class="label">首发日期</td><td class="text" colspan="2">2022-03-03</td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">対局リザルト</td></tr><tr><td id="32" class="infoYL"><b>32</b></td><td id="龍の華" colspan="2" class="title">龍の華<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Rin&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./Rin.md" title="Rin">Rin</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Rin&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">首发日期</td><td class="text" colspan="2">2022-03-03</td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">対局リザルト</td></tr><tr><td id="33" class="infoYL"><b>33</b></td><td id="幻想伏魔殿" colspan="2" class="title">幻想伏魔殿<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=きくお&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./きくお.md" title="きくお">きくお</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，きくお&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">首发日期</td><td class="text" colspan="2">2022-03-03</td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">通常ルール卓</td></tr><tr><td id="34" class="infoYL"><b>34</b></td><td id="嶺上開花" colspan="2" class="title">嶺上開花<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=かいこまゆ&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=%E3%81%8B%E3%81%84%E3%81%93%E3%81%BE%E3%82%86&amp;action=edit&amp;redlink=1" class="new" title="かいこまゆ（页面不存在）">かいこまゆ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，かいこまゆ&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">首发日期</td><td class="text" colspan="2">2022-03-03</td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">通常ルール卓</td></tr><tr><td id="35" class="infoYL"><b>35</b></td><td id="Good_Morning_Brazil" colspan="2" class="title">Good Morning Brazil<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=松雪友恵&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=%E6%9D%BE%E9%9B%AA%E5%8F%8B%E6%81%B5&amp;action=edit&amp;redlink=1" class="new" title="松雪友恵（页面不存在）">松雪友恵</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，松雪友恵&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">首发日期</td><td class="text" colspan="2">2022-03-03</td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">通常ルール卓</td></tr><tr><td id="36" class="infoYD"><b>36</b></td><td id="紅白式神のための幻奏蓮花蝶" colspan="2" class="title">紅白式神のための幻奏蓮花蝶<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=蓬屋ふらん&amp;ogmusic=二色蓮花蝶　～ Red and White&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E8%93%AC%E5%B1%8B%E3%81%B5%E3%82%89%E3%82%93&amp;action=edit&amp;redlink=1" class="new" title="蓬屋ふらん（页面不存在）">蓬屋ふらん</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，蓬屋ふらん&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=二色蓮花蝶　～ Red and White&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span></span></a></span><div class="ogmusic"><a href="./二色蓮花蝶_～_Red_and_White.md" class="mw-redirect" title="二色蓮花蝶 ～ Red and White">二色蓮花蝶　～ Red and White</a></div><div class="source"><a href="./蓬莱人形_～_Dolls_in_Pseudo_Paradise.md" class="mw-redirect" title="蓬莱人形 ～ Dolls in Pseudo Paradise">蓬莱人形　～ Dolls in Pseudo Paradise</a></div></td></tr><tr><td class="left"></td><td class="label">首发日期</td><td class="text" colspan="2">2022-03-03</td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">博麗神社裏庭</td></tr><tr><td id="37" class="infoYD"><b>37</b></td><td id="Air_stroll:_2.A.M." colspan="2" class="title">Air stroll: 2.A.M.<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Escarmew&amp;ogmusic=オリエンタルダークフライト&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Escarmew.md" title="Escarmew">Escarmew</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Escarmew&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=オリエンタルダークフライト&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span></span></a></span><div class="ogmusic"><a href="./オリエンタルダークフライト.md" class="mw-redirect" title="オリエンタルダークフライト">オリエンタルダークフライト</a></div><div class="source"><a href="./东方花映塚_～_Phantasmagoria_of_Flower_View..md" class="mw-redirect" title="东方花映塚 ～ Phantasmagoria of Flower View.">东方花映塚　～ Phantasmagoria of Flower View.</a></div></td></tr><tr><td class="left"></td><td class="label">首发日期</td><td class="text" colspan="2">2022-03-03</td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">霧雨魔法店</td></tr><tr><td id="38" class="infoYD"><b>38</b></td><td id="ゆるふわ図書館" colspan="2" class="title">ゆるふわ図書館<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=此糸ウルヱ&amp;ogmusic=ラクトガール　～ 少女密室&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./此糸ウルヱ.md" title="此糸ウルヱ">此糸ウルヱ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，此糸ウルヱ&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=ラクトガール　～ 少女密室&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span></span></a></span><div class="ogmusic"><a href="./ラクトガール_～_少女密室.md" class="mw-redirect" title="ラクトガール ～ 少女密室">ラクトガール　～ 少女密室</a></div><div class="source"><a href="./东方红魔乡_～_the_Embodiment_of_Scarlet_Devil..md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr><tr><td class="left"></td><td class="label">首发日期</td><td class="text" colspan="2">2022-03-03</td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">大図書館</td></tr><tr><td id="39" class="infoYD"><b>39</b></td><td id="Veritas" colspan="2" class="title">Veritas<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=いてむ&amp;ogmusic=アルティメットトゥルース&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./いてむ.md" class="mw-redirect" title="いてむ">いてむ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，いてむ&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=アルティメットトゥルース&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span></span></a></span><div class="ogmusic"><a href="./アルティメットトゥルース.md" class="mw-redirect" title="アルティメットトゥルース">アルティメットトゥルース</a></div><div class="source"><a href="./东方妖妖梦_～_Perfect_Cherry_Blossom..md" class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr><tr><td class="left"></td><td class="label">首发日期</td><td class="text" colspan="2">2022-03-03</td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">白玉楼</td></tr><tr><td id="40" class="infoYD"><b>40</b></td><td id="Pride_of_the_Higher～天狗道～" colspan="2" class="title">Pride of the Higher～天狗道～<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=ak&amp;ogmusic=妖怪の山　～ Mysterious Mountain&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=ak&amp;action=edit&amp;redlink=1" class="new" title="ak（页面不存在）">ak</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，ak&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=妖怪の山　～ Mysterious Mountain&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span></span></a></span><div class="ogmusic"><a href="./妖怪の山_～_Mysterious_Mountain.md" class="mw-redirect" title="妖怪の山 ～ Mysterious Mountain">妖怪の山　～ Mysterious Mountain</a></div><div class="source"><a href="./东方风神录_～_Mountain_of_Faith..md" class="mw-redirect" title="东方风神录 ～ Mountain of Faith.">东方风神录　～ Mountain of Faith.</a></div></td></tr><tr><td class="left"></td><td class="label">首发日期</td><td class="text" colspan="2">2022-03-03</td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">妖怪の山</td></tr><tr><td id="41" class="infoYD"><b>41</b></td><td id="Lucent_Sphere(Gensou_Mahjong_Edit)" colspan="2" class="title">Lucent Sphere(Gensou Mahjong Edit)<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Dee!&amp;ogmusic=フォールオブフォール　～ 秋めく滝&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Dee!.md" title="Dee!">Dee!</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Dee!&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">社团</td><td class="text" colspan="2"><a href="./俺++(Includeore).md" title="俺++(Includeore)">俺++(Includeore)</a></td></tr><tr><td class="left"></td><td class="label">初发布</td><td class="text" colspan="2"><a href="/%E6%85%A3_-TRADITION-#4" title="慣 -TRADITION-">Lucent Sphere</a><div class="source"><a href="./慣_-TRADITION-.md" title="慣 -TRADITION-">慣 -TRADITION-</a></div></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=フォールオブフォール　～ 秋めく滝&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span></span></a></span><div class="ogmusic"><a href="./フォールオブフォール_～_秋めく滝.md" class="mw-redirect" title="フォールオブフォール ～ 秋めく滝">フォールオブフォール　～ 秋めく滝</a></div><div class="source"><a href="./东方风神录_～_Mountain_of_Faith..md" class="mw-redirect" title="东方风神录 ～ Mountain of Faith.">东方风神录　～ Mountain of Faith.</a></div></td></tr><tr><td class="left"></td><td class="label">首发日期</td><td class="text" colspan="2">2022-03-03</td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">妖怪の山</td></tr><tr><td id="42" class="infoYD"><b>42</b></td><td id="毒か毒毒" colspan="2" class="title">毒か毒毒<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=hiiiima&amp;ogmusic=ポイズンボディ　～ Forsaken Doll&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=hiiiima&amp;action=edit&amp;redlink=1" class="new" title="hiiiima（页面不存在）">hiiiima</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，hiiiima&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=ポイズンボディ　～ Forsaken Doll&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span></span></a></span><div class="ogmusic"><a href="./ポイズンボディ_～_Forsaken_Doll.md" class="mw-redirect" title="ポイズンボディ ～ Forsaken Doll">ポイズンボディ　～ Forsaken Doll</a></div><div class="source"><a href="./东方花映塚_～_Phantasmagoria_of_Flower_View..md" class="mw-redirect" title="东方花映塚 ～ Phantasmagoria of Flower View.">东方花映塚　～ Phantasmagoria of Flower View.</a></div></td></tr><tr><td class="left"></td><td class="label">首发日期</td><td class="text" colspan="2">2022-03-03</td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">無縁塚</td></tr><tr><td id="43" class="infoYD"><b>43</b></td><td id="tip_top_flop" colspan="2" class="title">tip top flop<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=ginrei&amp;ogmusic=少女が見た日本の原風景&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=ginrei&amp;action=edit&amp;redlink=1" class="new" title="ginrei（页面不存在）">ginrei</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，ginrei&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=少女が見た日本の原風景&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span></span></a></span><div class="ogmusic"><a href="./少女が見た日本の原風景.md" class="mw-redirect" title="少女が見た日本の原風景">少女が見た日本の原風景</a></div><div class="source"><a href="./东方风神录_～_Mountain_of_Faith..md" class="mw-redirect" title="东方风神录 ～ Mountain of Faith.">东方风神录　～ Mountain of Faith.</a></div></td></tr><tr><td class="left"></td><td class="label">首发日期</td><td class="text" colspan="2">2022-03-03</td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">守矢神社</td></tr><tr><td id="44" class="infoYD"><b>44</b></td><td id="MTL～輝跡～" colspan="2" class="title">MTL～輝跡～<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=ak&amp;ogmusic=少女が見た日本の原風景&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=ak&amp;action=edit&amp;redlink=1" class="new" title="ak（页面不存在）">ak</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，ak&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=少女が見た日本の原風景&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span></span></a></span><div class="ogmusic"><a href="./少女が見た日本の原風景.md" class="mw-redirect" title="少女が見た日本の原風景">少女が見た日本の原風景</a></div><div class="source"><a href="./东方风神录_～_Mountain_of_Faith..md" class="mw-redirect" title="东方风神录 ～ Mountain of Faith.">东方风神录　～ Mountain of Faith.</a></div></td></tr><tr><td class="left"></td><td class="label">首发日期</td><td class="text" colspan="2">2022-03-03</td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">守矢神社</td></tr><tr><td id="45" class="infoYD"><b>45</b></td><td id="地獄巡るは八咫烏" colspan="2" class="title">地獄巡るは八咫烏<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=菊田裕樹&amp;ogmusic=霊知の太陽信仰　～ Nuclear Fusion&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./菊田裕樹.md" title="菊田裕樹">菊田裕樹</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，菊田裕樹&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=霊知の太陽信仰　～ Nuclear Fusion&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span></span></a></span><div class="ogmusic"><a href="./霊知の太陽信仰_～_Nuclear_Fusion.md" class="mw-redirect" title="霊知の太陽信仰 ～ Nuclear Fusion">霊知の太陽信仰　～ Nuclear Fusion</a></div><div class="source"><a href="./东方地灵殿_～_Subterranean_Animism..md" class="mw-redirect" title="东方地灵殿 ～ Subterranean Animism.">东方地灵殿　～ Subterranean Animism.</a></div></td></tr><tr><td class="left"></td><td class="label">首发日期</td><td class="text" colspan="2">2022-03-03</td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">灼熱地獄</td></tr><tr><td id="46" class="infoYD"><b>46</b></td><td id="Monstre_Charmant" colspan="2" class="title">Monstre Charmant<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=ぺた&amp;ogmusic=ハルトマンの妖怪少女&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E3%81%BA%E3%81%9F&amp;action=edit&amp;redlink=1" class="new" title="ぺた（页面不存在）">ぺた</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，ぺた&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=ハルトマンの妖怪少女&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span></span></a></span><div class="ogmusic"><a href="./ハルトマンの妖怪少女.md" class="mw-redirect" title="ハルトマンの妖怪少女">ハルトマンの妖怪少女</a></div><div class="source"><a href="./东方地灵殿_～_Subterranean_Animism..md" class="mw-redirect" title="东方地灵殿 ～ Subterranean Animism.">东方地灵殿　～ Subterranean Animism.</a></div></td></tr><tr><td class="left"></td><td class="label">首发日期</td><td class="text" colspan="2">2022-03-03</td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">地霊殿</td></tr><tr><td id="47" class="infoYD"><b>47</b></td><td id="ドラねこ" colspan="2" class="title">ドラねこ<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=すぺらんかー&amp;ogmusic=死体旅行　～ Be of good cheer!&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./すぺらんかー.md" title="すぺらんかー">すぺらんかー</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，すぺらんかー&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=死体旅行　～ Be of good cheer!&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span></span></a></span><div class="ogmusic"><a href="./死体旅行_～_Be_of_good_cheer!.md" class="mw-redirect" title="死体旅行 ～ Be of good cheer!">死体旅行　～ Be of good cheer!</a></div><div class="source"><a href="./东方地灵殿_～_Subterranean_Animism..md" class="mw-redirect" title="东方地灵殿 ～ Subterranean Animism.">东方地灵殿　～ Subterranean Animism.</a></div></td></tr><tr><td class="left"></td><td class="label">首发日期</td><td class="text" colspan="2">2022-03-03</td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">地霊殿</td></tr><tr><td id="48" class="infoYD"><b>48</b></td><td id="Blaze_of_World&#39;s_end" colspan="2" class="title">Blaze of World&#39;s end<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=SIV&amp;ogmusic=法界の火，感情の摩天楼　～ Cosmic Mind，世界の果て　～ World's End&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=SIV&amp;action=edit&amp;redlink=1" class="new" title="SIV（页面不存在）">SIV</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，SIV&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=法界の火，感情の摩天楼　～ Cosmic Mind，世界の果て　～ World's End&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span></span></a></span><div class="ogmusic"><a href="./法界の火.md" class="mw-redirect" title="法界の火">法界の火</a></div><div class="ogmusic"><a href="./感情の摩天楼_～_Cosmic_Mind.md" class="mw-redirect" title="感情の摩天楼 ～ Cosmic Mind">感情の摩天楼　～ Cosmic Mind</a></div><div class="source"><a href="./东方星莲船_～_Undefined_Fantastic_Object..md" class="mw-redirect" title="东方星莲船 ～ Undefined Fantastic Object.">东方星莲船　～ Undefined Fantastic Object.</a></div><hr><div class="ogmusic"><a href="./世界の果て_～_World's_End.md" class="mw-redirect" title="世界の果て ～ World&#39;s End">世界の果て　～ World's End</a></div><div class="source"><a href="./东方怪绮谈_～_Mystic_Square..md" class="mw-redirect" title="东方怪绮谈 ～ Mystic Square.">东方怪绮谈　～ Mystic Square.</a></div></td></tr><tr><td class="left"></td><td class="label">首发日期</td><td class="text" colspan="2">2022-03-03</td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">魔界</td></tr><tr><td id="49" class="infoYD"><b>49</b></td><td id="嶺上人形～Doll_of_Rin_Shyan" colspan="2" class="title">嶺上人形～Doll of Rin Shyan<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=MUZIK SERVANT&amp;ogmusic=悲しき人形　～ Doll of Misery&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./MUZIK_SERVANT.md" title="MUZIK SERVANT">MUZIK SERVANT</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，MUZIK SERVANT&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=悲しき人形　～ Doll of Misery&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span></span></a></span><div class="ogmusic"><a href="./悲しき人形_～_Doll_of_Misery.md" class="mw-redirect" title="悲しき人形 ～ Doll of Misery">悲しき人形　～ Doll of Misery</a></div><div class="source"><a href="./东方怪绮谈_～_Mystic_Square..md" class="mw-redirect" title="东方怪绮谈 ～ Mystic Square.">东方怪绮谈　～ Mystic Square.</a></div></td></tr><tr><td class="left"></td><td class="label">首发日期</td><td class="text" colspan="2">2022-03-03</td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">魔界</td></tr><tr><td id="50" class="infoYD"><b>50</b></td><td id="あなたのまちはかいじけん" colspan="2" class="title">あなたのまちはかいじけん<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=t+pazolite&amp;ogmusic=あなたの町の怪事件&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./t+pazolite.md" title="t+pazolite">t+pazolite</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，t+pazolite&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=あなたの町の怪事件&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span></span></a></span><div class="ogmusic"><a href="./あなたの町の怪事件.md" class="mw-redirect" title="あなたの町の怪事件">あなたの町の怪事件</a></div><div class="source"><a href="./Double_Spoiler_～_东方文花帖.md" class="mw-redirect" title="Double Spoiler ～ 东方文花帖">Double Spoiler　～ 东方文花帖</a></div></td></tr><tr><td class="left"></td><td class="label">首发日期</td><td class="text" colspan="2">2022-03-03</td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">人間の里</td></tr><tr><td id="51" class="infoYL"><b>51</b></td><td id="ゆるくまわって" colspan="2" class="title">ゆるくまわって<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Bizen&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./Bizen.md" class="mw-redirect" title="Bizen">Bizen</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Bizen&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演奏</td><td class="text" colspan="2">Guitar：<a href="/index.php?title=Takayan&amp;action=edit&amp;redlink=1" class="new" title="Takayan（页面不存在）">Takayan</a></td></tr><tr><td class="left"></td><td class="label">首发日期</td><td class="text" colspan="2">2022-03-03</td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">人間の里</td></tr><tr><td id="52" class="infoYD"><b>52</b></td><td id="Training_Mode" colspan="2" class="title">Training Mode<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=削除&amp;ogmusic=東方妖怪小町&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E5%89%8A%E9%99%A4&amp;action=edit&amp;redlink=1" class="new" title="削除（页面不存在）">削除</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，削除&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=東方妖怪小町&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span></span></a></span><div class="ogmusic"><a href="./東方妖怪小町.md" class="mw-redirect" title="東方妖怪小町">東方妖怪小町</a></div><div class="source"><a href="./东方永夜抄_～_Imperishable_Night..md" class="mw-redirect" title="东方永夜抄 ～ Imperishable Night.">东方永夜抄　～ Imperishable Night.</a></div></td></tr><tr><td class="left"></td><td class="label">首发日期</td><td class="text" colspan="2">2022-03-03</td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">永遠亭</td></tr><tr><td id="53" class="infoYD"><b>53</b></td><td id="霊人の休日_～rythmique_arrange～" colspan="2" class="title">霊人の休日 ～rythmique arrange～<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=nijeil&amp;ogmusic=霊人の休日&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=nijeil&amp;action=edit&amp;redlink=1" class="new" title="nijeil（页面不存在）">nijeil</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，nijeil&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=霊人の休日&amp;fromwiki=東方幻想麻雀(Nintendo_Switch)"><span></span></a></span><div class="ogmusic"><a href="./霊人の休日.md" class="mw-redirect" title="霊人の休日">霊人の休日</a></div><div class="source"><a href="./东方梦时空_～_Phantasmagoria_of_Dim._Dream..md" class="mw-redirect" title="东方梦时空 ～ Phantasmagoria of Dim. Dream.">东方梦时空　～ Phantasmagoria of Dim. Dream.</a></div></td></tr><tr><td class="left"></td><td class="label">首发日期</td><td class="text" colspan="2">2022-03-03</td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">対局リザルト</td></tr></tbody></table>
-
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Astronautenreise" colspan="2" class="title">Astronautenreise</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./和泉幸奇.md" title="和泉幸奇">和泉幸奇</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./Voyage1969.md" class="mw-redirect" title="ヴォヤージュ1969">ヴォヤージュ1969</a></div><div class="source"><a href="./东方永夜抄.md" class="mw-redirect" title="东方永夜抄 ～ Imperishable Night.">东方永夜抄　～ Imperishable Night.</a></div></td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">永遠亭のテーマ</td></tr><tr><td id="2" class="infoYD"><b>02</b></td><td id="The_End_of_Fate_-_Last_Judgement_-" colspan="2" class="title">The End of Fate - Last Judgement -</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="えくす（页面不存在）">えくす</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./the_Last_Judgement.md" title="the Last Judgement">the Last Judgement</a></div><div class="source"><a href="./东方怪绮谈.md" class="mw-redirect" title="东方怪绮谈 ～ Mystic Square.">东方怪绮谈　～ Mystic Square.</a></div></td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">魔界のテーマ</td></tr><tr><td id="3" class="infoYD"><b>03</b></td><td id="Try_Next_Stage!" colspan="2" class="title">Try Next Stage!</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="えくす（页面不存在）">えくす</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./Player's_Score.md" class="mw-redirect" title="プレイヤーズスコア">プレイヤーズスコア</a></div><div class="source"><a href="./东方天空璋.md" class="mw-redirect" title="东方天空璋 ～ Hidden Star in Four Seasons.">东方天空璋　～ Hidden Star in Four Seasons.</a></div></td></tr><tr><td id="4" class="infoYD"><b>04</b></td><td id="六十年目の東方裁判_～_Fate_of_Sixty_Years／Driven_Flat-Out_Mix" colspan="2" class="title">六十年目の東方裁判 ～ Fate of Sixty Years／Driven Flat-Out Mix</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="good-cool（页面不存在）">good-cool</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./第六十年的东方审判_～_Fate_of_Sixty_Years.md" class="mw-redirect" title="六十年目の東方裁判 ～ Fate of Sixty Years">六十年目の東方裁判　～ Fate of Sixty Years</a></div><div class="source"><a href="./东方花映塚.md" class="mw-redirect" title="东方花映塚 ～ Phantasmagoria of Flower View.">东方花映塚　～ Phantasmagoria of Flower View.</a></div></td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">無縁塚のテーマ</td></tr><tr><td id="5" class="infoYD"><b>05</b></td><td id="HAKUREISM" colspan="2" class="title">HAKUREISM</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./此糸ウルヱ.md" title="此糸ウルヱ">此糸ウルヱ</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./徜徉于樱色之海.md" class="mw-redirect" title="桜色の海を泳いで">桜色の海を泳いで</a></div><div class="source"><a href="./东方天空璋.md" class="mw-redirect" title="东方天空璋 ～ Hidden Star in Four Seasons.">东方天空璋　～ Hidden Star in Four Seasons.</a></div></td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">博麗神社のテーマ</td></tr><tr><td id="6" class="infoYD"><b>06</b></td><td id="ハイパイダンス" colspan="2" class="title">ハイパイダンス</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./コンプ.md" title="コンプ">コンプ</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./上海红茶馆_～_Chinese_Tea.md" class="mw-redirect" title="上海紅茶館 ～ Chinese Tea">上海紅茶館　～ Chinese Tea</a></div><div class="source"><a href="./东方红魔乡.md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">紅魔館のテーマ</td></tr><tr><td id="7" class="infoYD"><b>07</b></td><td id="CEMETERY_ON_VAZIIRA" colspan="2" class="title">CEMETERY ON VAZIIRA</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./SOUND_HOLIC.md" title="SOUND HOLIC">SOUND HOLIC</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./御柱的墓场_～_Grave_of_Being.md" class="mw-redirect" title="御柱の墓場 ～ Grave of Being">御柱の墓場　～ Grave of Being</a></div><div class="source"><a href="./东方风神录.md" class="mw-redirect" title="东方风神录 ～ Mountain of Faith.">东方风神录　～ Mountain of Faith.</a></div></td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">守矢神社のテーマ</td></tr><tr><td id="8" class="infoYD"><b>08</b></td><td id="妖々夢～一華開五葉" colspan="2" class="title">妖々夢～一華開五葉</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="坂本慎一（页面不存在）">坂本慎一</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./东方妖妖梦_～_Ancient_Temple.md" class="mw-redirect" title="東方妖々夢 ～ Ancient Temple">東方妖々夢　～ Ancient Temple</a></div><div class="source"><a href="./东方妖妖梦.md" class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">白玉楼のテーマ</td></tr><tr><td id="9" class="infoYD"><b>09</b></td><td id="Re::Wonderful_Heaven" colspan="2" class="title">Re::Wonderful Heaven</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="Shade（页面不存在）">Shade</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./有顶天变_～_Wonderful_Heaven.md" class="mw-redirect" title="有頂天変 ～ Wonderful Heaven">有頂天変　～ Wonderful Heaven</a></div><div class="source"><a href="./东方绯想天.md" class="mw-redirect" title="东方绯想天 ～ Scarlet Weather Rhapsody.">东方绯想天　～ Scarlet Weather Rhapsody.</a></div></td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">天界の石舞台のテーマ</td></tr><tr><td id="10" class="infoYD"><b>10</b></td><td id="Dread_Cat" colspan="2" class="title">Dread Cat</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Jerico.md" title="Jerico">Jerico</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./Heartfelt_Fancy.md" class="mw-redirect" title="ハートフェルトファンシー">ハートフェルトファンシー</a></div><div class="source"><a href="./东方地灵殿.md" class="mw-redirect" title="东方地灵殿 ～ Subterranean Animism.">东方地灵殿　～ Subterranean Animism.</a></div></td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">地霊殿のテーマ</td></tr><tr><td id="11" class="infoYD"><b>11</b></td><td id="キュアリアス上海古牌" colspan="2" class="title">キュアリアス上海古牌</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><td class="left"></td><td class="label">初发布</td><td class="text" colspan="2"><a href="./東方幻想麻雀オリジナルサウンドトラック.md#17" title="東方幻想麻雀オリジナルサウンドトラック">キュアリアス上海古牌</a><div class="source"><a href="./東方幻想麻雀オリジナルサウンドトラック.md" title="東方幻想麻雀オリジナルサウンドトラック">東方幻想麻雀オリジナルサウンドトラック</a></div></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./珍奇的上海古牌.md" class="mw-redirect" title="キュアリアス上海古牌">キュアリアス上海古牌</a></div><div class="source"><a href="./東方幻想麻雀.md" class="mw-redirect" title="东方幻想麻将 - Touhou Unreal Mahjong">东方幻想麻将 - Touhou Unreal Mahjong</a></div></td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">香霖堂のテーマ</td></tr><tr><td id="12" class="infoYL"><b>12</b></td><td id="hard_off" colspan="2" class="title">hard off</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a class="new" title="DEKU（页面不存在）">DEKU</a></td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">通常ルール卓のテーマ</td></tr><tr><td id="13" class="infoYD"><b>13</b></td><td id="ふわり、辛辣、夢うつつ" colspan="2" class="title">ふわり、辛辣、夢うつつ</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./t+pazolite.md" title="t+pazolite">t+pazolite</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./飞翔于宇宙的不可思议巫女.md" class="mw-redirect" title="宇宙を飛ぶ不思議な巫女">宇宙を飛ぶ不思議な巫女</a></div><div class="source"><a href="./东方绀珠传.md" class="mw-redirect" title="东方绀珠传 ～ Legacy of Lunatic Kingdom.">东方绀珠传　～ Legacy of Lunatic Kingdom.</a></div></td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">夢の世界のテーマ</td></tr><tr><td id="14" class="infoYD"><b>14</b></td><td id="U.N.オーエンは彼女なのか？_-_Greater_Scarlet" colspan="2" class="title">U.N.オーエンは彼女なのか？ - Greater Scarlet</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="並木 学（页面不存在）">並木 学</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./U.N.OWEN就是她吗？.md" class="mw-redirect" title="U.N.オーエンは彼女なのか？">U.N.オーエンは彼女なのか？</a></div><div class="source"><a href="./东方红魔乡.md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">紅魔館地下室のテーマ</td></tr><tr><td id="15" class="infoYD"><b>15</b></td><td id="華狭間会戦（仙）地" colspan="2" class="title">華狭間会戦（仙）地</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="花岡拓也（页面不存在）">花岡拓也</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./华狭间的战场.md" class="mw-redirect" title="華狭間のバトルフィールド">華狭間のバトルフィールド</a></div><div class="source"><a href="./东方深秘录.md" class="mw-redirect" title="东方深秘录 ～ Urban Legend in Limbo.">东方深秘录　～ Urban Legend in Limbo.</a></div></td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">隙間の向こう側のテーマ</td></tr><tr><td id="16" class="infoYD"><b>16</b></td><td id="少女綺想曲（少女はファミコン実機グルーヴにステレオの夢を見るかmix）" colspan="2" class="title">少女綺想曲（少女はファミコン実機グルーヴにステレオの夢を見るかmix）</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="hally（页面不存在）">hally</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./少女绮想曲_～_Capriccio.md" class="mw-redirect" title="少女綺想曲 ～ Dream Battle">少女綺想曲　～ Dream Battle</a></div><div class="source"><a href="./东方永夜抄.md" class="mw-redirect" title="东方永夜抄 ～ Imperishable Night.">东方永夜抄　～ Imperishable Night.</a></div></td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">博麗神社裏庭のテーマ</td></tr><tr><td id="17" class="infoYD"><b>17</b></td><td id="星と六弦の語らい" colspan="2" class="title">星と六弦の語らい</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="古川もとあき（页面不存在）">古川もとあき</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./感情的摩天楼_～_Cosmic_Mind.md" class="mw-redirect" title="感情の摩天楼 ～ Cosmic Mind">感情の摩天楼　～ Cosmic Mind</a></div><div class="source"><a href="./东方星莲船.md" class="mw-redirect" title="东方星莲船 ～ Undefined Fantastic Object.">东方星莲船　～ Undefined Fantastic Object.</a></div></td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">命蓮寺のテーマ</td></tr><tr><td id="18" class="infoYD"><b>18</b></td><td id="山姥の風牌に色は無い" colspan="2" class="title">山姥の風牌に色は無い</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./弘世.md" class="mw-redirect" title="松山弘世">松山弘世</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./妖怪山间无色风.md" class="mw-redirect" title="色無き風は妖怪の山に">色無き風は妖怪の山に</a></div><div class="source"><a href="./东方天空璋.md" class="mw-redirect" title="东方天空璋 ～ Hidden Star in Four Seasons.">东方天空璋　～ Hidden Star in Four Seasons.</a></div></td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">妖怪の山のテーマ</td></tr><tr><td id="19" class="infoYD"><b>19</b></td><td id="Mirage_Dance" colspan="2" class="title">Mirage Dance</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Masayoshi_Minoshima.md" title="Masayoshi Minoshima">Masayoshi Minoshima</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./心绮楼囃子.md" class="mw-redirect" title="心綺楼囃子">心綺楼囃子</a></div><div class="source"><a href="./东方心绮楼.md" class="mw-redirect" title="东方心绮楼 ～ Hopeless Masquerade.">东方心绮楼　～ Hopeless Masquerade.</a></div></td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">能舞台のテーマ</td></tr><tr><td id="20" class="infoYD"><b>20</b></td><td id="考えすぎのマジシャン" colspan="2" class="title">考えすぎのマジシャン</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="Euchaeta（页面不存在）">Euchaeta</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./魔法使的忧郁.md" class="mw-redirect" title="魔法使いの憂鬱">魔法使いの憂鬱</a></div><div class="source"><a href="./The_Grimoire_of_Marisa-附属CD.md" class="mw-redirect" title="The Grimoire of Marisa 附属CD">The Grimoire of Marisa 附属CD</a></div></td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">霧雨魔法店のテーマ</td></tr><tr><td id="21" class="infoYD"><b>21</b></td><td id="パンデモニックプラネット_-_Goddess_Apocalypse_-" colspan="2" class="title">パンデモニックプラネット - Goddess Apocalypse -</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="ヨナオケイシ（页面不存在）">ヨナオケイシ</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./Pandemonic_Planet.md" class="mw-redirect" title="パンデモニックプラネット">パンデモニックプラネット</a></div><div class="source"><a href="./东方绀珠传.md" class="mw-redirect" title="东方绀珠传 ～ Legacy of Lunatic Kingdom.">东方绀珠传　～ Legacy of Lunatic Kingdom.</a></div></td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">灼熱地獄のテーマ</td></tr><tr><td id="22" class="infoYD"><b>22</b></td><td id="ForestWitch" colspan="2" class="title">ForestWitch</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="Ruffnecky（页面不存在）">Ruffnecky</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./伏瓦鲁魔法图书馆.md" class="mw-redirect" title="ヴワル魔法図書館">ヴワル魔法図書館</a></div><div class="source"><a href="./东方红魔乡.md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">大図書館のテーマ</td></tr><tr><td id="23" class="infoYD"><b>23</b></td><td id="SuzunaAn_set_〜_判読眼のビブロフィリア" colspan="2" class="title">SuzunaAn set 〜 判読眼のビブロフィリア</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Rin.md" title="Rin">Rin</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./识文解意的爱书人.md" class="mw-redirect" title="判読眼のビブロフィリア">判読眼のビブロフィリア</a></div><div class="source"><a href="./东方铃奈庵-附属CD.md" class="mw-redirect" title="东方铃奈庵 ～ Forbidden Scrollery. 附属CD">东方铃奈庵 ～ Forbidden Scrollery. 附属CD</a></div></td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">人間の里のテーマ</td></tr><tr><td id="24" class="infoYD"><b>24</b></td><td id="Singing_to_the_gods" colspan="2" class="title">Singing to the gods</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="来兎（页面不存在）">来兎</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./寄世界于偶像_～_Idoratrize_World.md" class="mw-redirect" title="偶像に世界を委ねて ～ Idoratrize World">偶像に世界を委ねて　～ Idoratrize World</a></div><div class="source"><a href="./东方鬼形兽.md" class="mw-redirect" title="东方鬼形兽 ～ Wily Beast and Weakest Creature.">东方鬼形兽　～ Wily Beast and Weakest Creature.</a></div></td></tr><tr><td class="left"></td><td class="label">首发日期</td><td class="text" colspan="2">2020-10-23</td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">畜生界のテーマ</td></tr><tr><td id="25" class="infoYD"><b>25</b></td><td id="疾走夢遊列車_in_幻想の地下大線路網" colspan="2" class="title">疾走夢遊列車 in 幻想の地下大線路網</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./COSIO.md" title="COSIO">COSIO</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./幻想地下大轨道网.md" class="mw-redirect" title="幻想の地下大線路網">幻想の地下大線路網</a></div><div class="source"><a href="./东方虹龙洞.md" class="mw-redirect" title="东方虹龙洞 ～ Unconnected Marketeers.">东方虹龙洞　～ Unconnected Marketeers.</a></div></td></tr><tr><td class="left"></td><td class="label">首发日期</td><td class="text" colspan="2">2021-12-16</td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">虹龍洞のテーマ</td></tr><tr><td id="26" class="infoYD"><b>26</b></td><td id="龍王殺しのプリンセス_-_Poison_of_Thunder_-" colspan="2" class="title">龍王殺しのプリンセス - Poison of Thunder -</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="佐藤豪（页面不存在）">佐藤豪</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./灭杀龙王的公主.md" class="mw-redirect" title="龍王殺しのプリンセス">龍王殺しのプリンセス</a></div><div class="source"><a href="./东方虹龙洞.md" class="mw-redirect" title="东方虹龙洞 ～ Unconnected Marketeers.">东方虹龙洞　～ Unconnected Marketeers.</a></div></td></tr><tr><td class="left"></td><td class="label">首发日期</td><td class="text" colspan="2">2021-12-16</td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">虹龍洞のテーマ</td></tr><tr><td id="27" class="infoYD"><b>27</b></td><td id="Dragon_Bomb" colspan="2" class="title">Dragon Bomb</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./A-One.md" title="A-One">A-One</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./天魔之山漫天星.md" class="mw-redirect" title="星降る天魔の山">星降る天魔の山</a></div><div class="source"><a href="./东方虹龙洞.md" class="mw-redirect" title="东方虹龙洞 ～ Unconnected Marketeers.">东方虹龙洞　～ Unconnected Marketeers.</a></div></td></tr><tr><td class="left"></td><td class="label">首发日期</td><td class="text" colspan="2">2021-12-16</td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">月虹市場のテーマ</td></tr><tr><td id="28" class="infoYD"><b>28</b></td><td id="Tales_of_Far_East_Soul" colspan="2" class="title">Tales of Far East Soul</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="TECHNOuchi（页面不存在）">TECHNOuchi</a>，<a class="new" title="林沙希（页面不存在）">林沙希</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./熙攘市场今何在_～_Immemorial_Marketeers.md" class="mw-redirect" title="あの賑やかな市場は今どこに ～ Immemorial Marketeers">あの賑やかな市場は今どこに　～ Immemorial Marketeers</a></div><div class="source"><a href="./东方虹龙洞.md" class="mw-redirect" title="东方虹龙洞 ～ Unconnected Marketeers.">东方虹龙洞　～ Unconnected Marketeers.</a></div></td></tr><tr><td class="left"></td><td class="label">首发日期</td><td class="text" colspan="2">2021-12-16</td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">月虹市場のテーマ</td></tr><tr><td id="29" class="infoYL"><b>29</b></td><td id="催花雨薫る" colspan="2" class="title">催花雨薫る</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a class="new" title="bermei.inazawa（页面不存在）">bermei.inazawa</a></td></tr><tr><td class="left"></td><td class="label">首发日期</td><td class="text" colspan="2">2022-03-03</td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">エントランス</td></tr><tr><td id="30" class="infoYD"><b>30</b></td><td id="Last_Run" colspan="2" class="title">Last Run</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="削除（页面不存在）">削除</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./Plain_Asia.md" class="mw-redirect" title="プレインエイジア">プレインエイジア</a></div><div class="source"><a href="./东方永夜抄.md" class="mw-redirect" title="东方永夜抄 ～ Imperishable Night.">东方永夜抄　～ Imperishable Night.</a></div></td></tr><tr><td class="left"></td><td class="label">首发日期</td><td class="text" colspan="2">2022-03-03</td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">リーチBGM</td></tr><tr><td id="31" class="infoYD"><b>31</b></td><td id="魂の休らむ場所" colspan="2" class="title">魂の休らむ場所</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="水奈瀬いつき（页面不存在）">水奈瀬いつき</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./灵魂安息之所.md" class="mw-redirect" title="魂の休らむ所">魂の休らむ所</a></div><div class="source"><a href="./东方怪绮谈.md" class="mw-redirect" title="东方怪绮谈 ～ Mystic Square.">东方怪绮谈　～ Mystic Square.</a></div></td></tr><tr><td class="left"></td><td class="label">首发日期</td><td class="text" colspan="2">2022-03-03</td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">対局リザルト</td></tr><tr><td id="32" class="infoYL"><b>32</b></td><td id="龍の華" colspan="2" class="title">龍の華</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./Rin.md" title="Rin">Rin</a></td></tr><tr><td class="left"></td><td class="label">首发日期</td><td class="text" colspan="2">2022-03-03</td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">対局リザルト</td></tr><tr><td id="33" class="infoYL"><b>33</b></td><td id="幻想伏魔殿" colspan="2" class="title">幻想伏魔殿</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./きくお.md" title="きくお">きくお</a></td></tr><tr><td class="left"></td><td class="label">首发日期</td><td class="text" colspan="2">2022-03-03</td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">通常ルール卓</td></tr><tr><td id="34" class="infoYL"><b>34</b></td><td id="嶺上開花" colspan="2" class="title">嶺上開花</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a class="new" title="かいこまゆ（页面不存在）">かいこまゆ</a></td></tr><tr><td class="left"></td><td class="label">首发日期</td><td class="text" colspan="2">2022-03-03</td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">通常ルール卓</td></tr><tr><td id="35" class="infoYL"><b>35</b></td><td id="Good_Morning_Brazil" colspan="2" class="title">Good Morning Brazil</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a class="new" title="松雪友恵（页面不存在）">松雪友恵</a></td></tr><tr><td class="left"></td><td class="label">首发日期</td><td class="text" colspan="2">2022-03-03</td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">通常ルール卓</td></tr><tr><td id="36" class="infoYD"><b>36</b></td><td id="紅白式神のための幻奏蓮花蝶" colspan="2" class="title">紅白式神のための幻奏蓮花蝶</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="蓬屋ふらん（页面不存在）">蓬屋ふらん</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./二色莲花蝶_～_Ancients.md" class="mw-redirect" title="二色蓮花蝶 ～ Red and White">二色蓮花蝶　～ Red and White</a></div><div class="source"><a href="./蓬莱人形.md" class="mw-redirect" title="蓬莱人形 ～ Dolls in Pseudo Paradise">蓬莱人形　～ Dolls in Pseudo Paradise</a></div></td></tr><tr><td class="left"></td><td class="label">首发日期</td><td class="text" colspan="2">2022-03-03</td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">博麗神社裏庭</td></tr><tr><td id="37" class="infoYD"><b>37</b></td><td id="Air_stroll:_2.A.M." colspan="2" class="title">Air stroll: 2.A.M.</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Escarmew.md" title="Escarmew">Escarmew</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./Oriental_Dark_Flight.md" class="mw-redirect" title="オリエンタルダークフライト">オリエンタルダークフライト</a></div><div class="source"><a href="./东方花映塚.md" class="mw-redirect" title="东方花映塚 ～ Phantasmagoria of Flower View.">东方花映塚　～ Phantasmagoria of Flower View.</a></div></td></tr><tr><td class="left"></td><td class="label">首发日期</td><td class="text" colspan="2">2022-03-03</td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">霧雨魔法店</td></tr><tr><td id="38" class="infoYD"><b>38</b></td><td id="ゆるふわ図書館" colspan="2" class="title">ゆるふわ図書館</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./此糸ウルヱ.md" title="此糸ウルヱ">此糸ウルヱ</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./Locked_Girl_～_少女密室.md" class="mw-redirect" title="ラクトガール ～ 少女密室">ラクトガール　～ 少女密室</a></div><div class="source"><a href="./东方红魔乡.md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr><tr><td class="left"></td><td class="label">首发日期</td><td class="text" colspan="2">2022-03-03</td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">大図書館</td></tr><tr><td id="39" class="infoYD"><b>39</b></td><td id="Veritas" colspan="2" class="title">Veritas</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./ITM.md" class="mw-redirect" title="いてむ">いてむ</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./Ultimate_Truth.md" class="mw-redirect" title="アルティメットトゥルース">アルティメットトゥルース</a></div><div class="source"><a href="./东方妖妖梦.md" class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr><tr><td class="left"></td><td class="label">首发日期</td><td class="text" colspan="2">2022-03-03</td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">白玉楼</td></tr><tr><td id="40" class="infoYD"><b>40</b></td><td id="Pride_of_the_Higher～天狗道～" colspan="2" class="title">Pride of the Higher～天狗道～</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="ak（页面不存在）">ak</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./妖怪之山_～_Mysterious_Mountain.md" class="mw-redirect" title="妖怪の山 ～ Mysterious Mountain">妖怪の山　～ Mysterious Mountain</a></div><div class="source"><a href="./东方风神录.md" class="mw-redirect" title="东方风神录 ～ Mountain of Faith.">东方风神录　～ Mountain of Faith.</a></div></td></tr><tr><td class="left"></td><td class="label">首发日期</td><td class="text" colspan="2">2022-03-03</td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">妖怪の山</td></tr><tr><td id="41" class="infoYD"><b>41</b></td><td id="Lucent_Sphere(Gensou_Mahjong_Edit)" colspan="2" class="title">Lucent Sphere(Gensou Mahjong Edit)</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Dee!.md" title="Dee!">Dee!</a></td></tr><tr><td class="left"></td><td class="label">社团</td><td class="text" colspan="2"><a href="./俺++(Includeore).md" title="俺++(Includeore)">俺++(Includeore)</a></td></tr><tr><td class="left"></td><td class="label">初发布</td><td class="text" colspan="2"><a href="./慣_-TRADITION-.md#4" title="慣 -TRADITION-">Lucent Sphere</a><div class="source"><a href="./慣_-TRADITION-.md" title="慣 -TRADITION-">慣 -TRADITION-</a></div></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./Fall_of_Fall_～_秋意渐浓之瀑.md" class="mw-redirect" title="フォールオブフォール ～ 秋めく滝">フォールオブフォール　～ 秋めく滝</a></div><div class="source"><a href="./东方风神录.md" class="mw-redirect" title="东方风神录 ～ Mountain of Faith.">东方风神录　～ Mountain of Faith.</a></div></td></tr><tr><td class="left"></td><td class="label">首发日期</td><td class="text" colspan="2">2022-03-03</td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">妖怪の山</td></tr><tr><td id="42" class="infoYD"><b>42</b></td><td id="毒か毒毒" colspan="2" class="title">毒か毒毒</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="hiiiima（页面不存在）">hiiiima</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./剧毒身体_～_Forsaken_Doll.md" class="mw-redirect" title="ポイズンボディ ～ Forsaken Doll">ポイズンボディ　～ Forsaken Doll</a></div><div class="source"><a href="./东方花映塚.md" class="mw-redirect" title="东方花映塚 ～ Phantasmagoria of Flower View.">东方花映塚　～ Phantasmagoria of Flower View.</a></div></td></tr><tr><td class="left"></td><td class="label">首发日期</td><td class="text" colspan="2">2022-03-03</td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">無縁塚</td></tr><tr><td id="43" class="infoYD"><b>43</b></td><td id="tip_top_flop" colspan="2" class="title">tip top flop</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="ginrei（页面不存在）">ginrei</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./少女曾见的日本原风景.md" class="mw-redirect" title="少女が見た日本の原風景">少女が見た日本の原風景</a></div><div class="source"><a href="./东方风神录.md" class="mw-redirect" title="东方风神录 ～ Mountain of Faith.">东方风神录　～ Mountain of Faith.</a></div></td></tr><tr><td class="left"></td><td class="label">首发日期</td><td class="text" colspan="2">2022-03-03</td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">守矢神社</td></tr><tr><td id="44" class="infoYD"><b>44</b></td><td id="MTL～輝跡～" colspan="2" class="title">MTL～輝跡～</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="ak（页面不存在）">ak</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./少女曾见的日本原风景.md" class="mw-redirect" title="少女が見た日本の原風景">少女が見た日本の原風景</a></div><div class="source"><a href="./东方风神录.md" class="mw-redirect" title="东方风神录 ～ Mountain of Faith.">东方风神录　～ Mountain of Faith.</a></div></td></tr><tr><td class="left"></td><td class="label">首发日期</td><td class="text" colspan="2">2022-03-03</td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">守矢神社</td></tr><tr><td id="45" class="infoYD"><b>45</b></td><td id="地獄巡るは八咫烏" colspan="2" class="title">地獄巡るは八咫烏</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./菊田裕樹.md" title="菊田裕樹">菊田裕樹</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./灵知的太阳信仰_～_Nuclear_Fusion.md" class="mw-redirect" title="霊知の太陽信仰 ～ Nuclear Fusion">霊知の太陽信仰　～ Nuclear Fusion</a></div><div class="source"><a href="./东方地灵殿.md" class="mw-redirect" title="东方地灵殿 ～ Subterranean Animism.">东方地灵殿　～ Subterranean Animism.</a></div></td></tr><tr><td class="left"></td><td class="label">首发日期</td><td class="text" colspan="2">2022-03-03</td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">灼熱地獄</td></tr><tr><td id="46" class="infoYD"><b>46</b></td><td id="Monstre_Charmant" colspan="2" class="title">Monstre Charmant</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="ぺた（页面不存在）">ぺた</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./哈德曼的妖怪少女.md" class="mw-redirect" title="ハルトマンの妖怪少女">ハルトマンの妖怪少女</a></div><div class="source"><a href="./东方地灵殿.md" class="mw-redirect" title="东方地灵殿 ～ Subterranean Animism.">东方地灵殿　～ Subterranean Animism.</a></div></td></tr><tr><td class="left"></td><td class="label">首发日期</td><td class="text" colspan="2">2022-03-03</td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">地霊殿</td></tr><tr><td id="47" class="infoYD"><b>47</b></td><td id="ドラねこ" colspan="2" class="title">ドラねこ</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./すぺらんかー.md" title="すぺらんかー">すぺらんかー</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./尸体旅行_～_Be_of_good_cheer!.md" class="mw-redirect" title="死体旅行 ～ Be of good cheer!">死体旅行　～ Be of good cheer!</a></div><div class="source"><a href="./东方地灵殿.md" class="mw-redirect" title="东方地灵殿 ～ Subterranean Animism.">东方地灵殿　～ Subterranean Animism.</a></div></td></tr><tr><td class="left"></td><td class="label">首发日期</td><td class="text" colspan="2">2022-03-03</td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">地霊殿</td></tr><tr><td id="48" class="infoYD"><b>48</b></td><td id="Blaze_of_World&#39;s_end" colspan="2" class="title">Blaze of World's end</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="SIV（页面不存在）">SIV</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./法界之火.md" class="mw-redirect" title="法界の火">法界の火</a></div><div class="ogmusic"><a href="./感情的摩天楼_～_Cosmic_Mind.md" class="mw-redirect" title="感情の摩天楼 ～ Cosmic Mind">感情の摩天楼　～ Cosmic Mind</a></div><div class="source"><a href="./东方星莲船.md" class="mw-redirect" title="东方星莲船 ～ Undefined Fantastic Object.">东方星莲船　～ Undefined Fantastic Object.</a></div><hr><div class="ogmusic"><a href="./世界的尽头_～_World's_End.md" class="mw-redirect" title="世界の果て ～ World&#39;s End">世界の果て　～ World's End</a></div><div class="source"><a href="./东方怪绮谈.md" class="mw-redirect" title="东方怪绮谈 ～ Mystic Square.">东方怪绮谈　～ Mystic Square.</a></div></td></tr><tr><td class="left"></td><td class="label">首发日期</td><td class="text" colspan="2">2022-03-03</td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">魔界</td></tr><tr><td id="49" class="infoYD"><b>49</b></td><td id="嶺上人形～Doll_of_Rin_Shyan" colspan="2" class="title">嶺上人形～Doll of Rin Shyan</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./MUZIK_SERVANT.md" title="MUZIK SERVANT">MUZIK SERVANT</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./可悲的人偶_～_Doll_of_Misery.md" class="mw-redirect" title="悲しき人形 ～ Doll of Misery">悲しき人形　～ Doll of Misery</a></div><div class="source"><a href="./东方怪绮谈.md" class="mw-redirect" title="东方怪绮谈 ～ Mystic Square.">东方怪绮谈　～ Mystic Square.</a></div></td></tr><tr><td class="left"></td><td class="label">首发日期</td><td class="text" colspan="2">2022-03-03</td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">魔界</td></tr><tr><td id="50" class="infoYD"><b>50</b></td><td id="あなたのまちはかいじけん" colspan="2" class="title">あなたのまちはかいじけん</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./t+pazolite.md" title="t+pazolite">t+pazolite</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./你所在之城的怪事.md" class="mw-redirect" title="あなたの町の怪事件">あなたの町の怪事件</a></div><div class="source"><a href="./东方文花帖DS.md" class="mw-redirect" title="Double Spoiler ～ 东方文花帖">Double Spoiler　～ 东方文花帖</a></div></td></tr><tr><td class="left"></td><td class="label">首发日期</td><td class="text" colspan="2">2022-03-03</td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">人間の里</td></tr><tr><td id="51" class="infoYL"><b>51</b></td><td id="ゆるくまわって" colspan="2" class="title">ゆるくまわって</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./小柳備前.md" class="mw-redirect" title="Bizen">Bizen</a></td></tr><tr><td class="left"></td><td class="label">演奏</td><td class="text" colspan="2">Guitar：<a class="new" title="Takayan（页面不存在）">Takayan</a></td></tr><tr><td class="left"></td><td class="label">首发日期</td><td class="text" colspan="2">2022-03-03</td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">人間の里</td></tr><tr><td id="52" class="infoYD"><b>52</b></td><td id="Training_Mode" colspan="2" class="title">Training Mode</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="削除（页面不存在）">削除</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./东方妖怪小町.md" class="mw-redirect" title="東方妖怪小町">東方妖怪小町</a></div><div class="source"><a href="./东方永夜抄.md" class="mw-redirect" title="东方永夜抄 ～ Imperishable Night.">东方永夜抄　～ Imperishable Night.</a></div></td></tr><tr><td class="left"></td><td class="label">首发日期</td><td class="text" colspan="2">2022-03-03</td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">永遠亭</td></tr><tr><td id="53" class="infoYD"><b>53</b></td><td id="霊人の休日_～rythmique_arrange～" colspan="2" class="title">霊人の休日 ～rythmique arrange～</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="nijeil（页面不存在）">nijeil</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./灵人的休息日.md" class="mw-redirect" title="霊人の休日">霊人の休日</a></div><div class="source"><a href="./东方梦时空.md" class="mw-redirect" title="东方梦时空 ～ Phantasmagoria of Dim. Dream.">东方梦时空　～ Phantasmagoria of Dim. Dream.</a></div></td></tr><tr><td class="left"></td><td class="label">首发日期</td><td class="text" colspan="2">2022-03-03</td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">対局リザルト</td></tr></tbody></table>
 
 
 ## 评论
-
-
-
 
 ---
 

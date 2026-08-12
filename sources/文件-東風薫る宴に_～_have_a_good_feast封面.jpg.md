@@ -1,6 +1,6 @@
 # 文件:東風薫る宴に_～_have_a_good_feast封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\90\ns6%3A%E6%9D%B1%E9%A2%A8%E8%96%AB%E3%82%8B%E5%AE%B4%E3%81%AB_%EF%BD%9E_have_a_good_feast%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\90\ns6%3A%E6%9D%B1%E9%A2%A8%E8%96%AB%E3%82%8B%E5%AE%B4%E3%81%AB_%EF%BD%9E_have_a_good_feast%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 onionclub | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ onionclub | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東風薫る宴に ～ have a good feast](./東風薫る宴に_～_have_a_good_feast.md)  
-该封面包含的角色：- [东风谷早苗](./东风谷早苗.md)
-
-
-
+- [東風薫る宴に ～ have a good feast](./東風薫る宴に_～_have_a_good_feast.md)该封面包含的角色：
+- [东风谷早苗](./东风谷早苗.md)
 
 
 ---

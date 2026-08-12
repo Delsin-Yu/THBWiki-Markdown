@@ -1,12 +1,8 @@
 # 文件:SHI之境界Logo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\ba\ns6%3ASHI%E4%B9%8B%E5%A2%83%E7%95%8CLogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\ba\ns6%3ASHI%E4%B9%8B%E5%A2%83%E7%95%8CLogo%2Ejpg.html -->
 
 SHI之境界 | 社团LOGO
-
-
-
-
 
 
 ---

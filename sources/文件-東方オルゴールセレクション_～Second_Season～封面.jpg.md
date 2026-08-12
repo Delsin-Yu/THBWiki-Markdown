@@ -1,6 +1,6 @@
 # 文件:東方オルゴールセレクション_～Second_Season～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\32\ns6%3A%E6%9D%B1%E6%96%B9%E3%82%AA%E3%83%AB%E3%82%B4%E3%83%BC%E3%83%AB%E3%82%BB%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3_%EF%BD%9ESecond_Season%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\32\ns6%3A%E6%9D%B1%E6%96%B9%E3%82%AA%E3%83%AB%E3%82%B4%E3%83%BC%E3%83%AB%E3%82%BB%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3_%EF%BD%9ESecond_Season%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 りすたる屋 | 专辑封面 | 封面图片
 
@@ -10,11 +10,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方オルゴールセレクション ～Second Season～](./東方オルゴールセレクション_～Second_Season～.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [东风谷早苗](./东风谷早苗.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [東方オルゴールセレクション ～Second Season～](./東方オルゴールセレクション_～Second_Season～.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [东风谷早苗](./东风谷早苗.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

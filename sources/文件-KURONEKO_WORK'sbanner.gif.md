@@ -1,14 +1,11 @@
 # 文件:KURONEKO_WORK'sbanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\76\ns6%3AKURONEKO_WORK%27sbanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\76\ns6%3AKURONEKO_WORK%27sbanner%2Egif.html -->
 
 KURONEKO_WORK's | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

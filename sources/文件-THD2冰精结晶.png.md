@@ -1,12 +1,8 @@
 # 文件:THD2冰精结晶.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1f\ns6%3ATHD2%E5%86%B0%E7%B2%BE%E7%BB%93%E6%99%B6%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1f\ns6%3ATHD2%E5%86%B0%E7%B2%BE%E7%BB%93%E6%99%B6%2Epng.html -->
 
 AvalonStudioOfficial
-
-
-
-
 
 
 ---

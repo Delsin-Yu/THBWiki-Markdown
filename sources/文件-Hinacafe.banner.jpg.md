@@ -1,14 +1,11 @@
 # 文件:Hinacafe.banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\99\ns6%3AHinacafe%2Ebanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\99\ns6%3AHinacafe%2Ebanner%2Ejpg.html -->
 
 Hinacafe. | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

@@ -1,37 +1,20 @@
 # GRIFFON/非想天则ver灰色/雾雨魔理沙
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\f5\ns0%3AGRIFFON%2F%E9%9D%9E%E6%83%B3%E5%A4%A9%E5%88%99ver%E7%81%B0%E8%89%B2%2F%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\f5\ns0%3AGRIFFON%2F%E9%9D%9E%E6%83%B3%E5%A4%A9%E5%88%99ver%E7%81%B0%E8%89%B2%2F%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99.html -->
 
 雾雨魔理沙PVCFigure手办模型
 
 本页是关于东方Project  
- **相关实体周边 (未找到链接)** 的词条
-
+**相关实体周边 (未找到链接)**的词条
 ## 模型信息
 
-<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 雾雨魔理沙 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>非想天则ver灰色</td></tr><tr><td class="label">角色</td><td><a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a></td></tr><tr><td class="label">原型师</td><td><a href="/index.php?title=I-con&amp;action=edit&amp;redlink=1" class="new" title="I-con（页面不存在）">I-con</a></td></tr><tr><td class="label">比例</td><td>1/8</td></tr><tr><td class="label">尺寸</td><td>205mm</td></tr><tr><td class="label">状态</td><td>已发售</td></tr><tr><td class="label">售价</td><td>5714日元</td></tr><tr><td class="label">首发日期</td><td>2010-03</td></tr><tr><td class="label">发售方</td><td><a href="/index.php?title=GRIFFON&amp;action=edit&amp;redlink=1" class="new" title="GRIFFON（页面不存在）">GRIFFON</a></td></tr><tr><td class="label">官网页面</td><td>2010-05</td></tr><tr><td class="label">备注</td><td>限定发售100个<span class="inside" title="你知道的太多了">一边说着限定一边再版了不知道现在到底出过了多少个（</span></td></tr></tbody></table>
+<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 雾雨魔理沙 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>非想天则ver灰色</td></tr><tr><td class="label">角色</td><td><a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a></td></tr><tr><td class="label">原型师</td><td><a class="new" title="I-con（页面不存在）">I-con</a></td></tr><tr><td class="label">比例</td><td>1/8</td></tr><tr><td class="label">尺寸</td><td>205mm</td></tr><tr><td class="label">状态</td><td>已发售</td></tr><tr><td class="label">售价</td><td>5714日元</td></tr><tr><td class="label">首发日期</td><td>2010-03</td></tr><tr><td class="label">发售方</td><td><a class="new" title="GRIFFON（页面不存在）">GRIFFON</a></td></tr><tr><td class="label">官网页面</td><td>2010-05</td></tr><tr><td class="label">备注</td><td>限定发售100个<span class="inside" title="你知道的太多了">一边说着限定一边再版了不知道现在到底出过了多少个（</span></td></tr></tbody></table>
 
 GRIFFON/非想天则ver灰色/雾雨魔理沙（周边） - 雾雨魔理沙PVCFigure手办模型
-
 ## 参考图片
-
-
-
-[](./文件-GRIFFON非想天则ver灰色雾雨魔理沙-1.jpg.md)
-
-
-[](./文件-GRIFFON非想天则ver灰色雾雨魔理沙-2.jpg.md)
-
-
-文件:GRIFFON非想天则ver灰色雾雨魔理沙-3.jpg (未找到链接)
-
-公式图
-
-
-
-
-
-
+<img alt="GRIFFON非想天则ver灰色雾雨魔理沙" src="https://upload.thwiki.cc/thumb/9/9d/GRIFFON%E9%9D%9E%E6%83%B3%E5%A4%A9%E5%88%99ver%E7%81%B0%E8%89%B2%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99-1.jpg/160px-GRIFFON%E9%9D%9E%E6%83%B3%E5%A4%A9%E5%88%99ver%E7%81%B0%E8%89%B2%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99-1.jpg" decoding="async" loading="lazy" width="160" height="193" srcset="https://upload.thwiki.cc/thumb/9/9d/GRIFFON%E9%9D%9E%E6%83%B3%E5%A4%A9%E5%88%99ver%E7%81%B0%E8%89%B2%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99-1.jpg/240px-GRIFFON%E9%9D%9E%E6%83%B3%E5%A4%A9%E5%88%99ver%E7%81%B0%E8%89%B2%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99-1.jpg 1.5x, https://upload.thwiki.cc/thumb/9/9d/GRIFFON%E9%9D%9E%E6%83%B3%E5%A4%A9%E5%88%99ver%E7%81%B0%E8%89%B2%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99-1.jpg/320px-GRIFFON%E9%9D%9E%E6%83%B3%E5%A4%A9%E5%88%99ver%E7%81%B0%E8%89%B2%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99-1.jpg 2x" data-file-width="539" data-file-height="650">
+<img alt="GRIFFON非想天则ver灰色雾雨魔理沙" src="https://upload.thwiki.cc/thumb/0/00/GRIFFON%E9%9D%9E%E6%83%B3%E5%A4%A9%E5%88%99ver%E7%81%B0%E8%89%B2%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99-2.jpg/166px-GRIFFON%E9%9D%9E%E6%83%B3%E5%A4%A9%E5%88%99ver%E7%81%B0%E8%89%B2%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99-2.jpg" decoding="async" loading="lazy" width="166" height="193" srcset="https://upload.thwiki.cc/thumb/0/00/GRIFFON%E9%9D%9E%E6%83%B3%E5%A4%A9%E5%88%99ver%E7%81%B0%E8%89%B2%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99-2.jpg/249px-GRIFFON%E9%9D%9E%E6%83%B3%E5%A4%A9%E5%88%99ver%E7%81%B0%E8%89%B2%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99-2.jpg 1.5x, https://upload.thwiki.cc/thumb/0/00/GRIFFON%E9%9D%9E%E6%83%B3%E5%A4%A9%E5%88%99ver%E7%81%B0%E8%89%B2%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99-2.jpg/332px-GRIFFON%E9%9D%9E%E6%83%B3%E5%A4%A9%E5%88%99ver%E7%81%B0%E8%89%B2%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99-2.jpg 2x" data-file-width="560" data-file-height="650">
+文件:GRIFFON非想天则ver灰色雾雨魔理沙-3.jpg (未找到链接)公式图
 
 ---
 

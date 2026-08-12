@@ -1,12 +1,8 @@
 # 文件:まらしぃ_banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6a\ns6%3A%E3%81%BE%E3%82%89%E3%81%97%E3%81%83_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6a\ns6%3A%E3%81%BE%E3%82%89%E3%81%97%E3%81%83_banner%2Ejpg.html -->
 
 まらしぃ | 社团LOGO
-
-
-
-
 
 
 ---

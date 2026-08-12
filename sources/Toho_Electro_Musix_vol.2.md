@@ -1,53 +1,42 @@
 # Toho_Electro_Musix_vol.2
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\8\84\ns0%3AToho_Electro_Musix_vol%2E2.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\8\84\ns0%3AToho_Electro_Musix_vol%2E2.html -->
 
 2018年10月14日 由 Entrance Floor 于 博丽神社秋季例大祭5 发布的EP同人专辑，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人专辑 (未找到链接)** 的词条
-
+**[二次创作同人专辑](./二次创作.md#同人音乐)**的词条
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Toho_Electro_Musix_vol.2封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/b/b5/Toho_Electro_Musix_vol.2%E5%B0%81%E9%9D%A2.jpg/196px-Toho_Electro_Musix_vol.2%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="196" height="196" srcset="https://upload.thwiki.cc/thumb/b/b5/Toho_Electro_Musix_vol.2%E5%B0%81%E9%9D%A2.jpg/294px-Toho_Electro_Musix_vol.2%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/b/b5/Toho_Electro_Musix_vol.2%E5%B0%81%E9%9D%A2.jpg/392px-Toho_Electro_Musix_vol.2%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="500" data-file-height="500"></a></td>
 </tr><tr><td class="label">名称</td><td colspan="2"> Toho Electro Musix vol.2 </td></tr><tr><td class="label">制作方</td><td><a href="./Entrance_Floor.md" title="Entrance Floor">Entrance Floor</a></td><td class="cover-artwork" rowspan="7" style="min-width:196px;"><a href="./文件-Toho_Electro_Musix_vol.2封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/b/b5/Toho_Electro_Musix_vol.2%E5%B0%81%E9%9D%A2.jpg/196px-Toho_Electro_Musix_vol.2%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="196" height="196" srcset="https://upload.thwiki.cc/thumb/b/b5/Toho_Electro_Musix_vol.2%E5%B0%81%E9%9D%A2.jpg/294px-Toho_Electro_Musix_vol.2%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/b/b5/Toho_Electro_Musix_vol.2%E5%B0%81%E9%9D%A2.jpg/392px-Toho_Electro_Musix_vol.2%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="500" data-file-height="500"></a></td>
-</tr><tr><td class="label">首发日期</td><td>2018-10-14&#160;（<a href="/展会作品列表?e=%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E7%A7%8B%E5%AD%A3%E4%BE%8B%E5%A4%A7%E7%A5%AD%235">第五回 博麗神社秋季例大祭</a>）</td></tr><tr><td class="label">类型</td><td>EP</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>4</td></tr><tr><td class="label">总时长</td><td>00:00</td></tr></tbody></table>
+</tr><tr><td class="label">首发日期</td><td>2018-10-14 （<a href="./展会作品列表.md#5">第五回 博麗神社秋季例大祭</a>）</td></tr><tr><td class="label">类型</td><td>EP</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>4</td></tr><tr><td class="label">总时长</td><td>00:00</td></tr></tbody></table>
 
 Toho Electro Musix vol.2（同人专辑，Entrance Floor，2018） - 2018年10月14日 由 Entrance Floor 于 博丽神社秋季例大祭5 发布的EP同人专辑，分级为 一般向
-
 ## Staff
   
- **Arrangement**   
+**Arrangement**  
 
-<table><tbody><tr><td><a href="/index.php?title=Maneki*Neko&amp;action=edit&amp;redlink=1" class="new" title="Maneki*Neko（页面不存在）">Maneki*Neko</a></td><td><a href="./Entrance_Floor.md" title="Entrance Floor">Entrance Floor</a></td><td>Tr.1-4</td></tr></tbody></table>
-
+<table><tbody><tr><td><a class="new" title="Maneki*Neko（页面不存在）">Maneki*Neko</a></td><td><a href="./Entrance_Floor.md" title="Entrance Floor">Entrance Floor</a></td><td>Tr.1-4</td></tr></tbody></table>
 
 Design
 : Maneki*Neko (未找到链接)
 
-
 ## 试听
   
 <iframe width="100%" height="180" src="https://ext.nicovideo.jp/thumb/sm36755927" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/watch/sm36755927">,</a></iframe>
-
 <iframe width="100%" height="180" src="https://ext.nicovideo.jp/thumb/sm35312889" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/watch/sm35312889">,</a></iframe>
-
   
-
 
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Chronos_Ruler" colspan="2" class="title">Chronos Ruler<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Maneki*Neko&amp;ogmusic=月時計　～ ルナ・ダイアル&amp;fromwiki=Toho_Electro_Musix_vol.2"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=Maneki*Neko&amp;action=edit&amp;redlink=1" class="new" title="Maneki*Neko（页面不存在）">Maneki*Neko</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Maneki*Neko&amp;fromwiki=Toho_Electro_Musix_vol.2"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=月時計　～ ルナ・ダイアル&amp;fromwiki=Toho_Electro_Musix_vol.2"><span></span></a></span><div class="ogmusic"><a href="./月時計_～_ルナ・ダイアル.md" class="mw-redirect" title="月時計 ～ ルナ・ダイアル">月時計　～ ルナ・ダイアル</a></div><div class="source"><a href="./东方红魔乡_～_the_Embodiment_of_Scarlet_Devil..md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr>
-<tr><td id="2" class="infoYD"><b>02</b></td><td id="GRIN-idge_of_UnderGround" colspan="2" class="title">GRIN-idge of UnderGround<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Maneki*Neko&amp;ogmusic=天空のグリニッジ&amp;fromwiki=Toho_Electro_Musix_vol.2"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=Maneki*Neko&amp;action=edit&amp;redlink=1" class="new" title="Maneki*Neko（页面不存在）">Maneki*Neko</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Maneki*Neko&amp;fromwiki=Toho_Electro_Musix_vol.2"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=天空のグリニッジ&amp;fromwiki=Toho_Electro_Musix_vol.2"><span></span></a></span><div class="ogmusic"><a href="./天空のグリニッジ.md" class="mw-redirect" title="天空のグリニッジ">天空のグリニッジ</a></div><div class="source"><a href="./大空魔术_～_Magical_Astronomy.md" class="mw-redirect" title="大空魔术 ～ Magical Astronomy">大空魔术　～ Magical Astronomy</a></div></td></tr>
-<tr><td id="3" class="infoYD"><b>03</b></td><td id="Strawberry_Crisis_!!_-M#N_RMX-" colspan="2" class="title">Strawberry Crisis&#160;!! -M#N RMX-<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Maneki*Neko&amp;ogmusic=Strawberry Crisis!!&amp;fromwiki=Toho_Electro_Musix_vol.2"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=Maneki*Neko&amp;action=edit&amp;redlink=1" class="new" title="Maneki*Neko（页面不存在）">Maneki*Neko</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Maneki*Neko&amp;fromwiki=Toho_Electro_Musix_vol.2"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=Strawberry Crisis!!&amp;fromwiki=Toho_Electro_Musix_vol.2"><span></span></a></span><div class="ogmusic"><a href="./Strawberry_Crisis!!.md" title="Strawberry Crisis!!">Strawberry Crisis!!</a></div><div class="source"><a href="./东方梦时空_～_Phantasmagoria_of_Dim._Dream..md" class="mw-redirect" title="东方梦时空 ～ Phantasmagoria of Dim. Dream.">东方梦时空　～ Phantasmagoria of Dim. Dream.</a></div></td></tr>
-<tr><td id="4" class="infoYD"><b>04</b></td><td id="少女が見た日本の原風景_-Philosophy_RMX-" colspan="2" class="title">少女が見た日本の原風景 -Philosophy RMX-<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Maneki*Neko&amp;ogmusic=少女が見た日本の原風景&amp;fromwiki=Toho_Electro_Musix_vol.2"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=Maneki*Neko&amp;action=edit&amp;redlink=1" class="new" title="Maneki*Neko（页面不存在）">Maneki*Neko</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Maneki*Neko&amp;fromwiki=Toho_Electro_Musix_vol.2"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=少女が見た日本の原風景&amp;fromwiki=Toho_Electro_Musix_vol.2"><span></span></a></span><div class="ogmusic"><a href="./少女が見た日本の原風景.md" class="mw-redirect" title="少女が見た日本の原風景">少女が見た日本の原風景</a></div><div class="source"><a href="./东方风神录_～_Mountain_of_Faith..md" class="mw-redirect" title="东方风神录 ～ Mountain of Faith.">东方风神录　～ Mountain of Faith.</a></div></td></tr></tbody></table>
-
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Chronos_Ruler" colspan="2" class="title">Chronos Ruler</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="Maneki*Neko（页面不存在）">Maneki*Neko</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./月时计_～_Luna_Dial.md" class="mw-redirect" title="月時計 ～ ルナ・ダイアル">月時計　～ ルナ・ダイアル</a></div><div class="source"><a href="./东方红魔乡.md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr>
+<tr><td id="2" class="infoYD"><b>02</b></td><td id="GRIN-idge_of_UnderGround" colspan="2" class="title">GRIN-idge of UnderGround</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="Maneki*Neko（页面不存在）">Maneki*Neko</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./天空的格林尼治.md" class="mw-redirect" title="天空のグリニッジ">天空のグリニッジ</a></div><div class="source"><a href="./大空魔术.md" class="mw-redirect" title="大空魔术 ～ Magical Astronomy">大空魔术　～ Magical Astronomy</a></div></td></tr>
+<tr><td id="3" class="infoYD"><b>03</b></td><td id="Strawberry_Crisis_!!_-M#N_RMX-" colspan="2" class="title">Strawberry Crisis !! -M#N RMX-</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="Maneki*Neko（页面不存在）">Maneki*Neko</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./Strawberry_Crisis!!.md" title="Strawberry Crisis!!">Strawberry Crisis!!</a></div><div class="source"><a href="./东方梦时空.md" class="mw-redirect" title="东方梦时空 ～ Phantasmagoria of Dim. Dream.">东方梦时空　～ Phantasmagoria of Dim. Dream.</a></div></td></tr>
+<tr><td id="4" class="infoYD"><b>04</b></td><td id="少女が見た日本の原風景_-Philosophy_RMX-" colspan="2" class="title">少女が見た日本の原風景 -Philosophy RMX-</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="Maneki*Neko（页面不存在）">Maneki*Neko</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./少女曾见的日本原风景.md" class="mw-redirect" title="少女が見た日本の原風景">少女が見た日本の原風景</a></div><div class="source"><a href="./东方风神录.md" class="mw-redirect" title="东方风神录 ～ Mountain of Faith.">东方风神录　～ Mountain of Faith.</a></div></td></tr></tbody></table>
 
 
 ## 评论
-
-
-
 
 ---
 

@@ -1,12 +1,8 @@
 # 文件:梦现彼岸结界社LOGO.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\73\ns6%3A%E6%A2%A6%E7%8E%B0%E5%BD%BC%E5%B2%B8%E7%BB%93%E7%95%8C%E7%A4%BELOGO%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\73\ns6%3A%E6%A2%A6%E7%8E%B0%E5%BD%BC%E5%B2%B8%E7%BB%93%E7%95%8C%E7%A4%BELOGO%2Epng.html -->
 
 梦现彼岸结界社 | 社团LOGO
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:NESARIA封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\11\ns6%3ANESARIA%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\11\ns6%3ANESARIA%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Colorful_Umbrella | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Colorful_Umbrella | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [NESARIA](./NESARIA.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
+- [NESARIA](./NESARIA.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
   
-源地址：[[1]](http://static.tumblr.com/17c8ca51cf0a07e25b4116b523155496/k2o4z3i/M3Un4pn19/tumblr_static_efu14kr7hh4w80cs04wggs08s.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://static.tumblr.com/17c8ca51cf0a07e25b4116b523155496/k2o4z3i/M3Un4pn19/tumblr_static_efu14kr7hh4w80cs04wggs08s.jpg)  
 
 ---
 

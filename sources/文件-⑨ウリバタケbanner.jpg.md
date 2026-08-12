@@ -1,14 +1,11 @@
 # 文件:⑨ウリバタケbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\ba\ns6%3A%E2%91%A8%E3%82%A6%E3%83%AA%E3%83%90%E3%82%BF%E3%82%B1banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\ba\ns6%3A%E2%91%A8%E3%82%A6%E3%83%AA%E3%83%90%E3%82%BF%E3%82%B1banner%2Ejpg.html -->
 
 ⑨ウリバタケ | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

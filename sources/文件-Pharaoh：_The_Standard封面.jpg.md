@@ -1,6 +1,6 @@
 # 文件:Pharaoh：_The_Standard封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\89\ns6%3APharaoh%EF%BC%9A_The_Standard%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\89\ns6%3APharaoh%EF%BC%9A_The_Standard%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 fractanisharmonicoo | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ fractanisharmonicoo | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Pharaoh： The Standard](./Pharaoh：_The_Standard.md)  
-该封面包含的角色：- [古明地恋](./古明地恋.md)
-
-
-
+- [Pharaoh： The Standard](./Pharaoh：_The_Standard.md)该封面包含的角色：
+- [古明地恋](./古明地恋.md)
 
 
 ---

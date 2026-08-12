@@ -1,6 +1,6 @@
 # 文件:TOHO×POKEMON_ex封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9e\ns6%3ATOHO%C3%97POKEMON_ex%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9e\ns6%3ATOHO%C3%97POKEMON_ex%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ちくわ群青ドライブ | 同人志封面 | 封面图片
 
@@ -10,16 +10,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [TOHO×POKEMON ex](./TOHO×POKEMON_ex.md)  
-该封面包含的角色：- [古明地恋](./古明地恋.md)- 霜奶仙 (未找到链接)
+- [TOHO×POKEMON ex](./TOHO×POKEMON_ex.md)该封面包含的角色：
+- [古明地恋](./古明地恋.md)
+- 霜奶仙 (未找到链接)
 
   
-源地址：[[1]](https://pbs.twimg.com/media/F755FJLaMAAz1Tc?format=jpg&amp;name=orig)
-  
-
-
-
-
+源地址：[\[1\]](https://pbs.twimg.com/media/F755FJLaMAAz1Tc?format=jpg&name=orig)  
 
 ---
 

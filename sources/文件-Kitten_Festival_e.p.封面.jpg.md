@@ -1,6 +1,6 @@
 # 文件:Kitten_Festival_e.p.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a6\ns6%3AKitten_Festival_e%2Ep%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a6\ns6%3AKitten_Festival_e%2Ep%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Amateras_Records | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ Amateras_Records | 专辑封面 | 封面图片
   
 
 - [Kitten Festival e.p.](./Kitten_Festival_e.p..md)
-
-
-
 
 
 ---

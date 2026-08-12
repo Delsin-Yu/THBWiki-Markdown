@@ -1,11 +1,10 @@
 # Stone_Woods
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\44\ns0%3AStone_Woods.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\44\ns0%3AStone_Woods.html -->
 
 官方符卡
 
-本页是关于 **符卡 (未找到链接)（SpellCard）** 的词条Stone Woods（符卡） - 官方符卡
-
+本页是关于**[符卡](./游戏攻略-STG术语.md#符卡)（SpellCard）**的词条Stone Woods（符卡） - 官方符卡
 <table>
 
 <tbody><tr>
@@ -29,26 +28,21 @@
 ## 目录
 
 - [1 登场](#登场)
-
   - [1.1 东方鬼形兽](#东方鬼形兽)
   - [1.2 弹幕狂们的黑市](#弹幕狂们的黑市)
 
 
-
 - [2 符卡说明](#符卡说明)
 - [3 其他内容](#其他内容)
-
   - [3.1 游戏资料](#游戏资料)
   - [3.2 分析考据](#分析考据)
-
 
 
 - [4 导航](#导航)
 
 
-
-
 ## 登场
+
 ### 东方鬼形兽
 
 <table>
@@ -62,13 +56,6 @@
 </td></tr></tbody></table>
 
 
-
-  
-  
-
-  
-
-
 <table>
 
 <tbody><tr>
@@ -78,7 +65,6 @@
 <p>1面BOSS<a href="./戎璎花.md" title="戎璎花">戎璎花</a>Hard/Lunatic难度符卡。
 </p>
 </td></tr></tbody></table>
-
 
 
 ### 弹幕狂们的黑市
@@ -94,36 +80,20 @@
 </td></tr></tbody></table>
 
 
-
 ## 符卡说明
+
 ## 其他内容
+
 ### 游戏资料
-  
 <big>
-</big>  
-<big>- 游戏资料 (未找到链接)
-</big><big></big>  
-<big></big>
-  
+- 游戏资料 (未找到链接)
 
+</big>
 ### 分析考据
-  
 <big>
-</big>  
-<big>- [分析与考据](./Stone_Woods-分析与考据.md)
-</big><big></big>  
-<big></big>
-  
+- [分析与考据](./Stone_Woods-分析与考据.md)
 
-## 导航
-
-<table><tbody><tr><td><table cellspacing="0" class="nowraplinks mw-collapsible mw-collapsed" style="width:100%;;;"><tbody><tr><th style=";" colspan="3" class="navbox-title"><div class="navbar"><div class="noprint plainlinksneverexpand" style="background-color:transparent; padding:0; font-weight:normal; font-size:80%; white-space:nowrap;"><a href="./模板-戎璎花符卡导航.md" title="模板:戎璎花符卡导航"><span style=";;border:none;" title="查看这个模板">查</span></a>&#160;<span style="font-size:80%;">•</span>&#160;<a href="/index.php?title=%E6%A8%A1%E6%9D%BF:%E6%88%8E%E7%92%8E%E8%8A%B1%E7%AC%A6%E5%8D%A1%E5%AF%BC%E8%88%AA&amp;action=edit"><span style=";;border:none;" title="您可以编辑这个模板。请在储存变更之前先预览">编</span></a></div></div><span><a href="./戎璎花.md" title="戎璎花">戎璎花</a>符卡</span></th></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">射击游戏</td><td style=";;" class="navbox-list navbox-odd"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div><a href="./东方鬼形兽.md" title="东方鬼形兽">东方鬼形兽</a></div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./Stone_Woods.md" title="Stone Woods" unred="">石符「Stone Woods」</a> &#8226; <a href="./Stone_Woods.md" title="Stone Woods" unred="">石符「Stone Conifer」</a> &#8226; <a href="./Children's_Limbo.md" title="Children&#39;s Limbo" unred="">石符「Children's Limbo」</a> &#8226; <a href="./Children's_Limbo.md" title="Children&#39;s Limbo" unred="">石符「Adult Children's Limbo」</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div><a href="./弹幕狂们的黑市.md" title="弹幕狂们的黑市">弹幕狂们的黑市</a></div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./Stone_Woods.md" title="Stone Woods" unred="">石符「艾哲垒石」</a></div></td></tr></tbody></table><div></div></td><td class="navbox-image" style="" rowspan="1"><a href="./文件-戎璎花（Q版立绘）.png.md" class="image"><img alt="戎璎花（Q版立绘）.png" src="https://upload.thwiki.cc/thumb/8/86/%E6%88%8E%E7%92%8E%E8%8A%B1%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png/160px-%E6%88%8E%E7%92%8E%E8%8A%B1%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="160" height="160" srcset="https://upload.thwiki.cc/thumb/8/86/%E6%88%8E%E7%92%8E%E8%8A%B1%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png/240px-%E6%88%8E%E7%92%8E%E8%8A%B1%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/8/86/%E6%88%8E%E7%92%8E%E8%8A%B1%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png/320px-%E6%88%8E%E7%92%8E%E8%8A%B1%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="500" data-file-height="500"></a></td></tr></tbody></table></td></tr></tbody></table>
-
-
-
-
-
-
+</big>
 ---
 
 此文档由 [THBWiki-Markdown-Builder](https://github.com/Delsin-Yu/THBWiki-Markdown-Builder) 构建。

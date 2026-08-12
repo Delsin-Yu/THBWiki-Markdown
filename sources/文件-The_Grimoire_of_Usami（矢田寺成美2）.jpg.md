@@ -1,14 +1,11 @@
 # 文件:The_Grimoire_of_Usami（矢田寺成美2）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ce\ns6%3AThe_Grimoire_of_Usami%EF%BC%88%E7%9F%A2%E7%94%B0%E5%AF%BA%E6%88%90%E7%BE%8E2%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ce\ns6%3AThe_Grimoire_of_Usami%EF%BC%88%E7%9F%A2%E7%94%B0%E5%AF%BA%E6%88%90%E7%BE%8E2%EF%BC%89%2Ejpg.html -->
 
 宇佐见的魔法书 | 矢田寺成美
 
 
 ## 摘要
-
-
-
 
 ---
 

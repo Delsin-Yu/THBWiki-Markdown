@@ -1,12 +1,11 @@
 # Ensemble_of_Gensokyo_13_-_UNLEASHED_PURGATORY
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\5\57\ns0%3AEnsemble_of_Gensokyo_13_-_UNLEASHED_PURGATORY.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\5\57\ns0%3AEnsemble_of_Gensokyo_13_-_UNLEASHED_PURGATORY.html -->
 
 2016年8月28日 由 Dex Hexallion  发布的EP同人专辑，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人专辑 (未找到链接)** 的词条
-
+**[二次创作同人专辑](./二次创作.md#同人音乐)**的词条
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Ensemble_of_Gensokyo_13_-_UNLEASHED_PURGATORY封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/e/ed/Ensemble_of_Gensokyo_13_-_UNLEASHED_PURGATORY%E5%B0%81%E9%9D%A2.png/224px-Ensemble_of_Gensokyo_13_-_UNLEASHED_PURGATORY%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="224" height="224" srcset="https://upload.thwiki.cc/thumb/e/ed/Ensemble_of_Gensokyo_13_-_UNLEASHED_PURGATORY%E5%B0%81%E9%9D%A2.png/336px-Ensemble_of_Gensokyo_13_-_UNLEASHED_PURGATORY%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/e/ed/Ensemble_of_Gensokyo_13_-_UNLEASHED_PURGATORY%E5%B0%81%E9%9D%A2.png/448px-Ensemble_of_Gensokyo_13_-_UNLEASHED_PURGATORY%E5%B0%81%E9%9D%A2.png 2x" data-file-width="1453" data-file-height="1453"></a><div class="cover-char">角色：<a href="./圣白莲.md" title="圣白莲">圣白莲</a></div></td>
@@ -15,17 +14,14 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://dexhexallion.bandcamp.com/album/ensemble-of-gensokyo-13-unleashed-purgatory">https://dexhexallion.bandcamp.com/album/ensemble-of-gensokyo-13-unleashed-purgatory</a></td></tr></tbody></table>
 
 Ensemble of Gensokyo 13 - UNLEASHED PURGATORY（同人专辑，Dex Hexallion，2016） - 2016年8月28日 由 Dex Hexallion  发布的EP同人专辑，分级为 一般向
-
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://dexhexallion.bandcamp.com/album/ensemble-of-gensokyo-13-unleashed-purgatory">bandcamp</a></td></tr></tbody></table>
-
 
 
 ## Staff
   
- **Compose**   
+**Compose**  
 
-<table><tbody><tr><td><a href="/index.php?title=Kazami_Shintaro&amp;action=edit&amp;redlink=1" class="new" title="Kazami Shintaro（页面不存在）">Kazami Shintaro</a></td><td></td><td>Tr.1-6</td></tr></tbody></table>
-
+<table><tbody><tr><td><a class="new" title="Kazami Shintaro（页面不存在）">Kazami Shintaro</a></td><td></td><td>Tr.1-6</td></tr></tbody></table>
 
 
 ## 试听
@@ -33,22 +29,17 @@ Ensemble of Gensokyo 13 - UNLEASHED PURGATORY（同人专辑，Dex Hexallion，2
 暂不支援此类型
   
 
-
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYL"><b>01</b></td><td id="(OP)_Unleashed_Purgatory" colspan="2" class="title">(OP) Unleashed Purgatory<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Kazami Shintaro&amp;fromwiki=Ensemble_of_Gensokyo_13_-_UNLEASHED_PURGATORY"><span title="搜索相似同人曲"></span></a></span></td><td class="time">02:32</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=Kazami_Shintaro&amp;action=edit&amp;redlink=1" class="new" title="Kazami Shintaro（页面不存在）">Kazami Shintaro</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Kazami Shintaro&amp;fromwiki=Ensemble_of_Gensokyo_13_-_UNLEASHED_PURGATORY"><span></span></a></span></td></tr>
-<tr><td id="2" class="infoYL"><b>02</b></td><td id="I_Just_Hate_You" colspan="2" class="title">I Just Hate You<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Kazami Shintaro&amp;fromwiki=Ensemble_of_Gensokyo_13_-_UNLEASHED_PURGATORY"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:05</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=Kazami_Shintaro&amp;action=edit&amp;redlink=1" class="new" title="Kazami Shintaro（页面不存在）">Kazami Shintaro</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Kazami Shintaro&amp;fromwiki=Ensemble_of_Gensokyo_13_-_UNLEASHED_PURGATORY"><span></span></a></span></td></tr>
-<tr><td id="3" class="infoYL"><b>03</b></td><td id="Radioactive_Diva_&#91;2016_AGEMONO_MIX&#93;" colspan="2" class="title">Radioactive Diva &#91;2016 AGEMONO MIX&#93;<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Kazami Shintaro&amp;fromwiki=Ensemble_of_Gensokyo_13_-_UNLEASHED_PURGATORY"><span title="搜索相似同人曲"></span></a></span></td><td class="time">05:43</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=Kazami_Shintaro&amp;action=edit&amp;redlink=1" class="new" title="Kazami Shintaro（页面不存在）">Kazami Shintaro</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Kazami Shintaro&amp;fromwiki=Ensemble_of_Gensokyo_13_-_UNLEASHED_PURGATORY"><span></span></a></span></td></tr>
-<tr><td id="4" class="infoYL"><b>04</b></td><td id="Fish_and_Chips" colspan="2" class="title">Fish and Chips<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Kazami Shintaro&amp;fromwiki=Ensemble_of_Gensokyo_13_-_UNLEASHED_PURGATORY"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:30</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=Kazami_Shintaro&amp;action=edit&amp;redlink=1" class="new" title="Kazami Shintaro（页面不存在）">Kazami Shintaro</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Kazami Shintaro&amp;fromwiki=Ensemble_of_Gensokyo_13_-_UNLEASHED_PURGATORY"><span></span></a></span></td></tr>
-<tr><td id="5" class="infoYL"><b>05</b></td><td id="Onigokko" colspan="2" class="title">Onigokko<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Kazami Shintaro&amp;fromwiki=Ensemble_of_Gensokyo_13_-_UNLEASHED_PURGATORY"><span title="搜索相似同人曲"></span></a></span></td><td class="time">02:21</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=Kazami_Shintaro&amp;action=edit&amp;redlink=1" class="new" title="Kazami Shintaro（页面不存在）">Kazami Shintaro</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Kazami Shintaro&amp;fromwiki=Ensemble_of_Gensokyo_13_-_UNLEASHED_PURGATORY"><span></span></a></span></td></tr>
-<tr><td id="6" class="infoYL"><b>06</b></td><td id="(ED)_KOISCHEESE_DOUBLE" colspan="2" class="title">(ED) KOISCHEESE DOUBLE<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Kazami Shintaro&amp;fromwiki=Ensemble_of_Gensokyo_13_-_UNLEASHED_PURGATORY"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:41</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=Kazami_Shintaro&amp;action=edit&amp;redlink=1" class="new" title="Kazami Shintaro（页面不存在）">Kazami Shintaro</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Kazami Shintaro&amp;fromwiki=Ensemble_of_Gensokyo_13_-_UNLEASHED_PURGATORY"><span></span></a></span></td></tr></tbody></table>
-
+<table><tbody><tr><td id="1" class="infoYL"><b>01</b></td><td id="(OP)_Unleashed_Purgatory" colspan="2" class="title">(OP) Unleashed Purgatory</td><td class="time">02:32</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a class="new" title="Kazami Shintaro（页面不存在）">Kazami Shintaro</a></td></tr>
+<tr><td id="2" class="infoYL"><b>02</b></td><td id="I_Just_Hate_You" colspan="2" class="title">I Just Hate You</td><td class="time">04:05</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a class="new" title="Kazami Shintaro（页面不存在）">Kazami Shintaro</a></td></tr>
+<tr><td id="3" class="infoYL"><b>03</b></td><td id="Radioactive_Diva_&#91;2016_AGEMONO_MIX&#93;" colspan="2" class="title">Radioactive Diva [2016 AGEMONO MIX]</td><td class="time">05:43</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a class="new" title="Kazami Shintaro（页面不存在）">Kazami Shintaro</a></td></tr>
+<tr><td id="4" class="infoYL"><b>04</b></td><td id="Fish_and_Chips" colspan="2" class="title">Fish and Chips</td><td class="time">03:30</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a class="new" title="Kazami Shintaro（页面不存在）">Kazami Shintaro</a></td></tr>
+<tr><td id="5" class="infoYL"><b>05</b></td><td id="Onigokko" colspan="2" class="title">Onigokko</td><td class="time">02:21</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a class="new" title="Kazami Shintaro（页面不存在）">Kazami Shintaro</a></td></tr>
+<tr><td id="6" class="infoYL"><b>06</b></td><td id="(ED)_KOISCHEESE_DOUBLE" colspan="2" class="title">(ED) KOISCHEESE DOUBLE</td><td class="time">03:41</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a class="new" title="Kazami Shintaro（页面不存在）">Kazami Shintaro</a></td></tr></tbody></table>
 
 
 ## 评论
-
-
-
 
 ---
 

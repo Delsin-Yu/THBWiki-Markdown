@@ -1,6 +1,6 @@
 # 文件:TOHO_MUSIC_VIDEO_PARTY封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\74\ns6%3ATOHO_MUSIC_VIDEO_PARTY%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\74\ns6%3ATOHO_MUSIC_VIDEO_PARTY%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 DiGiTAL_WiNG | Nava_de_Alice | 封面图片 | 视频封面
 
@@ -8,11 +8,8 @@ DiGiTAL_WiNG | Nava_de_Alice | 封面图片 | 视频封面
 使用了本文件作封面图片的作品：
   
 
-- [TOHO MUSIC VIDEO PARTY](./TOHO_MUSIC_VIDEO_PARTY.md)  
-该封面包含的角色：- [灵乌路空](./灵乌路空.md)
-
-
-
+- [TOHO MUSIC VIDEO PARTY](./TOHO_MUSIC_VIDEO_PARTY.md)该封面包含的角色：
+- [灵乌路空](./灵乌路空.md)
 
 
 ---

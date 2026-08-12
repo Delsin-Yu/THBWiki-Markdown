@@ -1,6 +1,6 @@
 # 文件:みょん速HARIKIRI_Girl封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f7\ns6%3A%E3%81%BF%E3%82%87%E3%82%93%E9%80%9FHARIKIRI_Girl%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f7\ns6%3A%E3%81%BF%E3%82%87%E3%82%93%E9%80%9FHARIKIRI_Girl%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 泥舟海運
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [みょん速HARIKIRI Girl](./みょん速HARIKIRI_Girl.md)  
-该封面包含的角色：- [梅露兰·普莉兹姆利巴](./梅露兰·普莉兹姆利巴.md)- [魂魄妖梦](./魂魄妖梦.md)
-
-
-
+- [みょん速HARIKIRI Girl](./みょん速HARIKIRI_Girl.md)该封面包含的角色：
+- [梅露兰·普莉兹姆利巴](./梅露兰·普莉兹姆利巴.md)
+- [魂魄妖梦](./魂魄妖梦.md)
 
 
 ---

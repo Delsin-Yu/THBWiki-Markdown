@@ -1,12 +1,8 @@
 # 文件:Coloured_Glaze（琉光溢彩）banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\87\ns6%3AColoured_Glaze%EF%BC%88%E7%90%89%E5%85%89%E6%BA%A2%E5%BD%A9%EF%BC%89banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\87\ns6%3AColoured_Glaze%EF%BC%88%E7%90%89%E5%85%89%E6%BA%A2%E5%BD%A9%EF%BC%89banner%2Epng.html -->
 
 Coloured_Glaze（琉光溢彩） | 社团LOGO
-
-
-
-
 
 
 ---

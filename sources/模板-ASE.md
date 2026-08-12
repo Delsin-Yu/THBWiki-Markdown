@@ -1,16 +1,12 @@
 # 模板:ASE
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\9\94\ns10%3AASE.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\9\94\ns10%3AASE.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

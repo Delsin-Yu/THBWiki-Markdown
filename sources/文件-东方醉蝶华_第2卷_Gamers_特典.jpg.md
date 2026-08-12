@@ -1,18 +1,13 @@
 # 文件:东方醉蝶华_第2卷_Gamers_特典.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a5\ns6%3A%E4%B8%9C%E6%96%B9%E9%86%89%E8%9D%B6%E5%8D%8E_%E7%AC%AC2%E5%8D%B7_Gamers_%E7%89%B9%E5%85%B8%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a5\ns6%3A%E4%B8%9C%E6%96%B9%E9%86%89%E8%9D%B6%E5%8D%8E_%E7%AC%AC2%E5%8D%B7_Gamers_%E7%89%B9%E5%85%B8%2Ejpg.html -->
 
 Gamers | 东方醉蝶华 | 官方特典
 
 
 ## 文件说明
   
-[[1]](https://www.gamers.co.jp/resize_image.php?image=04091442_606fe9286c498.jpg)
-  
-
-
-
-
+[\[1\]](https://www.gamers.co.jp/resize_image.php?image=04091442_606fe9286c498.jpg)  
 
 ---
 

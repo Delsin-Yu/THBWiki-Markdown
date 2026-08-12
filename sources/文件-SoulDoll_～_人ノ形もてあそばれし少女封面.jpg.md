@@ -1,6 +1,6 @@
 # 文件:SoulDoll_～_人ノ形もてあそばれし少女封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\08\ns6%3ASoulDoll_%EF%BD%9E_%E4%BA%BA%E3%83%8E%E5%BD%A2%E3%82%82%E3%81%A6%E3%81%82%E3%81%9D%E3%81%B0%E3%82%8C%E3%81%97%E5%B0%91%E5%A5%B3%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\08\ns6%3ASoulDoll_%EF%BD%9E_%E4%BA%BA%E3%83%8E%E5%BD%A2%E3%82%82%E3%81%A6%E3%81%82%E3%81%9D%E3%81%B0%E3%82%8C%E3%81%97%E5%B0%91%E5%A5%B3%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 るくしあ大陸 | 同人志封面 | 封面图片
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [SoulDoll ～ 人ノ形もてあそばれし少女](./SoulDoll_～_人ノ形もてあそばれし少女.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
-
-
-
+- [SoulDoll ～ 人ノ形もてあそばれし少女](./SoulDoll_～_人ノ形もてあそばれし少女.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
 
 
 ---

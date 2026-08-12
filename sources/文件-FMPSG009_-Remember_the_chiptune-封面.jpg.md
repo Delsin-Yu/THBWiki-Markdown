@@ -1,6 +1,6 @@
 # 文件:FMPSG009_-Remember_the_chiptune-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f1\ns6%3AFMPSG009_-Remember_the_chiptune-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f1\ns6%3AFMPSG009_-Remember_the_chiptune-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 FMPSG | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ FMPSG | 专辑封面 | 封面图片
   
 
 - [FMPSG009 -Remember the chiptune-](./FMPSG009_-Remember_the_chiptune-.md)
-
-
-
 
 
 ---

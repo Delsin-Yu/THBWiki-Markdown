@@ -1,37 +1,21 @@
 # GRIFFON/限定色/琪露诺
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\a\ad\ns0%3AGRIFFON%2F%E9%99%90%E5%AE%9A%E8%89%B2%2F%E7%90%AA%E9%9C%B2%E8%AF%BA.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\a\ad\ns0%3AGRIFFON%2F%E9%99%90%E5%AE%9A%E8%89%B2%2F%E7%90%AA%E9%9C%B2%E8%AF%BA.html -->
 
 琪露诺PVCFigure手办模型
 
 本页是关于东方Project  
- **相关实体周边 (未找到链接)** 的词条
-
+**相关实体周边 (未找到链接)**的词条
 ## 模型信息
 
-<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 琪露诺 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>限定色</td></tr><tr><td class="label">角色</td><td><a href="./琪露诺.md" title="琪露诺">琪露诺</a></td></tr><tr><td class="label">原型师</td><td><a href="/index.php?title=I-con&amp;action=edit&amp;redlink=1" class="new" title="I-con（页面不存在）">I-con</a></td></tr><tr><td class="label">比例</td><td>1/8</td></tr><tr><td class="label">尺寸</td><td>160mm</td></tr><tr><td class="label">状态</td><td>已发售</td></tr><tr><td class="label">展会限定</td><td>WF2012 冬，例大祭5</td></tr><tr><td class="label">售价</td><td>6500日元</td></tr><tr><td class="label">首发日期</td><td>2012-01-29</td></tr><tr><td class="label">发售方</td><td><a href="/index.php?title=GRIFFON&amp;action=edit&amp;redlink=1" class="new" title="GRIFFON（页面不存在）">GRIFFON</a></td></tr><tr><td class="label">再版日期</td><td>2012-02-14</td></tr><tr><td class="label">备注</td><td>红之广场展会限定20体</td></tr></tbody></table>
+<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 琪露诺 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>限定色</td></tr><tr><td class="label">角色</td><td><a href="./琪露诺.md" title="琪露诺">琪露诺</a></td></tr><tr><td class="label">原型师</td><td><a class="new" title="I-con（页面不存在）">I-con</a></td></tr><tr><td class="label">比例</td><td>1/8</td></tr><tr><td class="label">尺寸</td><td>160mm</td></tr><tr><td class="label">状态</td><td>已发售</td></tr><tr><td class="label">展会限定</td><td>WF2012 冬，例大祭5</td></tr><tr><td class="label">售价</td><td>6500日元</td></tr><tr><td class="label">首发日期</td><td>2012-01-29</td></tr><tr><td class="label">发售方</td><td><a class="new" title="GRIFFON（页面不存在）">GRIFFON</a></td></tr><tr><td class="label">再版日期</td><td>2012-02-14</td></tr><tr><td class="label">备注</td><td>红之广场展会限定20体</td></tr></tbody></table>
 
 GRIFFON/限定色/琪露诺（周边） - 琪露诺PVCFigure手办模型
-
 ## 参考图片
-
-
-
-[](./文件-GRIFFON限定色琪露诺-1.jpg.md)
-
-
-[](./文件-GRIFFON限定色琪露诺-2.jpg.md)
-
-
-[](./文件-GRIFFON限定色琪露诺-3.jpg.md)
-
+<img alt="GRIFFON限定色琪露诺" src="https://upload.thwiki.cc/thumb/8/8f/GRIFFON%E9%99%90%E5%AE%9A%E8%89%B2%E7%90%AA%E9%9C%B2%E8%AF%BA-1.jpg/160px-GRIFFON%E9%99%90%E5%AE%9A%E8%89%B2%E7%90%AA%E9%9C%B2%E8%AF%BA-1.jpg" decoding="async" loading="lazy" width="160" height="212" srcset="https://upload.thwiki.cc/thumb/8/8f/GRIFFON%E9%99%90%E5%AE%9A%E8%89%B2%E7%90%AA%E9%9C%B2%E8%AF%BA-1.jpg/240px-GRIFFON%E9%99%90%E5%AE%9A%E8%89%B2%E7%90%AA%E9%9C%B2%E8%AF%BA-1.jpg 1.5x, https://upload.thwiki.cc/thumb/8/8f/GRIFFON%E9%99%90%E5%AE%9A%E8%89%B2%E7%90%AA%E9%9C%B2%E8%AF%BA-1.jpg/320px-GRIFFON%E9%99%90%E5%AE%9A%E8%89%B2%E7%90%AA%E9%9C%B2%E8%AF%BA-1.jpg 2x" data-file-width="479" data-file-height="635">
+<img alt="GRIFFON限定色琪露诺" src="https://upload.thwiki.cc/thumb/e/e7/GRIFFON%E9%99%90%E5%AE%9A%E8%89%B2%E7%90%AA%E9%9C%B2%E8%AF%BA-2.jpg/160px-GRIFFON%E9%99%90%E5%AE%9A%E8%89%B2%E7%90%AA%E9%9C%B2%E8%AF%BA-2.jpg" decoding="async" loading="lazy" width="160" height="211" srcset="https://upload.thwiki.cc/thumb/e/e7/GRIFFON%E9%99%90%E5%AE%9A%E8%89%B2%E7%90%AA%E9%9C%B2%E8%AF%BA-2.jpg/240px-GRIFFON%E9%99%90%E5%AE%9A%E8%89%B2%E7%90%AA%E9%9C%B2%E8%AF%BA-2.jpg 1.5x, https://upload.thwiki.cc/thumb/e/e7/GRIFFON%E9%99%90%E5%AE%9A%E8%89%B2%E7%90%AA%E9%9C%B2%E8%AF%BA-2.jpg/320px-GRIFFON%E9%99%90%E5%AE%9A%E8%89%B2%E7%90%AA%E9%9C%B2%E8%AF%BA-2.jpg 2x" data-file-width="479" data-file-height="632">
+<img alt="GRIFFON限定色琪露诺" src="https://upload.thwiki.cc/thumb/0/0c/GRIFFON%E9%99%90%E5%AE%9A%E8%89%B2%E7%90%AA%E9%9C%B2%E8%AF%BA-3.jpg/160px-GRIFFON%E9%99%90%E5%AE%9A%E8%89%B2%E7%90%AA%E9%9C%B2%E8%AF%BA-3.jpg" decoding="async" loading="lazy" width="160" height="212" srcset="https://upload.thwiki.cc/thumb/0/0c/GRIFFON%E9%99%90%E5%AE%9A%E8%89%B2%E7%90%AA%E9%9C%B2%E8%AF%BA-3.jpg/240px-GRIFFON%E9%99%90%E5%AE%9A%E8%89%B2%E7%90%AA%E9%9C%B2%E8%AF%BA-3.jpg 1.5x, https://upload.thwiki.cc/thumb/0/0c/GRIFFON%E9%99%90%E5%AE%9A%E8%89%B2%E7%90%AA%E9%9C%B2%E8%AF%BA-3.jpg/320px-GRIFFON%E9%99%90%E5%AE%9A%E8%89%B2%E7%90%AA%E9%9C%B2%E8%AF%BA-3.jpg 2x" data-file-width="479" data-file-height="635">
 公式图
-
-
-
-
-
-
 
 ---
 

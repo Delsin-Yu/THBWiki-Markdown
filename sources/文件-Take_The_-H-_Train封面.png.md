@@ -1,6 +1,6 @@
 # 文件:Take_The_"H"_Train封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e3\ns6%3ATake_The_%22H%22_Train%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e3\ns6%3ATake_The_%22H%22_Train%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 ココナツプリン | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@
   
 
 - [Take The "H" Train](./Take_The_-H-_Train.md)
-
-
-
 
 
 ---

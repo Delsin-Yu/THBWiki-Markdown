@@ -1,6 +1,6 @@
 # 東方千夜帖~Thousand_Night_Anamnesis./敌机符卡/红魔乡关卡符卡
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\a\a4\ns0%3A%E6%9D%B1%E6%96%B9%E5%8D%83%E5%A4%9C%E5%B8%96%7EThousand_Night_Anamnesis%2E%2F%E6%95%8C%E6%9C%BA%E7%AC%A6%E5%8D%A1%2F%E7%BA%A2%E9%AD%94%E4%B9%A1%E5%85%B3%E5%8D%A1%E7%AC%A6%E5%8D%A1.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\a\a4\ns0%3A%E6%9D%B1%E6%96%B9%E5%8D%83%E5%A4%9C%E5%B8%96%7EThousand_Night_Anamnesis%2E%2F%E6%95%8C%E6%9C%BA%E7%AC%A6%E5%8D%A1%2F%E7%BA%A2%E9%AD%94%E4%B9%A1%E5%85%B3%E5%8D%A1%E7%AC%A6%E5%8D%A1.html -->
 
 サラダ
 
@@ -8,7 +8,6 @@
 ## 目录
 
 - [1 红魔乡](#红魔乡)
-
   - [1.1 露米娅](#露米娅)
   - [1.2 琪露诺](#琪露诺)
   - [1.3 红美铃](#红美铃)
@@ -18,11 +17,7 @@
   - [1.7 蕾米莉亚·斯卡蕾特](#蕾米莉亚·斯卡蕾特)
 
 
-
 - [2 注释](#注释)
-
-
-
 
 
 ## 红魔乡
@@ -55,7 +50,6 @@
 </td></tr></tbody></table>
 
 
-
 ### 琪露诺
 
 <table>
@@ -82,7 +76,6 @@
 <td>Hard以上的话，间隙会变窄，琪露诺自己能避开吗？</td>
 <td>高难度和视觉华丽难以并存，这是张重视美感的符卡。
 </td></tr></tbody></table>
-
 
 
 ### 红美铃
@@ -118,7 +111,6 @@
 <td>美铃用气功发出激光，到底是什么原理？</td>
 <td>激光来的正好，她会根据自机的位置发动。
 </td></tr></tbody></table>
-
 
 
 ### 帕秋莉·诺蕾姬
@@ -169,11 +161,9 @@
 <td>来自土星卫星，我喜欢这种中弹高密度弹幕。
 </td></tr></tbody></table>
 
-
   
 ※：每个玩家角色的选择卡
   
-
 
 <table>
 <tbody><tr>
@@ -275,7 +265,6 @@
 </td></tr></tbody></table>
 
 
-
 ### 十六夜咲夜
 
 <table>
@@ -316,7 +305,6 @@
 <td>时停时飞刀迫在眉睫的符卡。在现实中是活不下来的。</td>
 <td>在暂停时投掷飞刀是最强的，但是因为不合理所以变更了。温柔的符卡。
 </td></tr></tbody></table>
-
 
 
 ### 芙兰朵露·斯卡蕾特
@@ -361,7 +349,6 @@
 </td></tr></tbody></table>
 
 
-
 ### 蕾米莉亚·斯卡蕾特
 
 <table>
@@ -402,12 +389,6 @@
 <td>全屏弹幕 这样对峙时会迷失自机的位置</td>
 <td>用飞刀和激光缩小行动范围 并用大玉追击目标 这是我经过深思熟虑设计的弹幕
 </td></tr></tbody></table>
-
-
-
-
-
-
 
 
 ---

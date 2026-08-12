@@ -1,6 +1,6 @@
 # 文件:Reimu_Plays_LSDJ封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\85\ns6%3AReimu_Plays_LSDJ%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\85\ns6%3AReimu_Plays_LSDJ%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Kommisar | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Kommisar | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Reimu Plays LSDJ](./Reimu_Plays_LSDJ.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [Reimu Plays LSDJ](./Reimu_Plays_LSDJ.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

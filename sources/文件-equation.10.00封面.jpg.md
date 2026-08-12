@@ -1,6 +1,6 @@
 # 文件:equation.10.00封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e6\ns6%3Aequation%2E10%2E00%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e6\ns6%3Aequation%2E10%2E00%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ALADDIN | Studio_“Syrup_Comfiture” | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ ALADDIN | Studio_“Syrup_Comfiture” | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [equation.10.00](./equation.10.00.md)  
-该封面包含的角色：- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
+- [equation.10.00](./equation.10.00.md)该封面包含的角色：
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
 
   
-源地址：[[1]](http://sscaldn.net/wp-content/uploads/2016/07/1P-692x696.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://sscaldn.net/wp-content/uploads/2016/07/1P-692x696.jpg)  
 
 ---
 

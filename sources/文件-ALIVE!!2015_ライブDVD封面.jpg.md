@@ -1,6 +1,6 @@
 # 文件:ALIVE!!2015_ライブDVD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5c\ns6%3AALIVE%21%212015_%E3%83%A9%E3%82%A4%E3%83%96DVD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5c\ns6%3AALIVE%21%212015_%E3%83%A9%E3%82%A4%E3%83%96DVD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 A-One | 封面图片 | 视频封面
 
@@ -9,9 +9,6 @@ A-One | 封面图片 | 视频封面
   
 
 - [ALIVE!!2015 ライブDVD](./ALIVE!!2015_ライブDVD.md)
-
-
-
 
 
 ---

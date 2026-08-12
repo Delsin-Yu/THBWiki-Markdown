@@ -1,6 +1,6 @@
 # 文件:Alice-worlD封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c4\ns6%3AAlice-worlD%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c4\ns6%3AAlice-worlD%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Colorful_Umbrella | 专辑封面 | 封面图片
 
@@ -8,16 +8,12 @@ Colorful_Umbrella | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Alice-worlD](./Alice-worlD.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [爱丽丝（旧作角色）](./爱丽丝（旧作角色）.md)
+- [Alice-worlD](./Alice-worlD.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [爱丽丝（旧作角色）](./爱丽丝（旧作角色）.md)
 
   
-源地址：[[1]](http://static.tumblr.com/6e3e38619b9bbf4bbecc6ae38b21660f/k2o4z3i/uxZmtqpxd/tumblr_static_a_w.png)
-  
-
-
-
-
+源地址：[\[1\]](http://static.tumblr.com/6e3e38619b9bbf4bbecc6ae38b21660f/k2o4z3i/uxZmtqpxd/tumblr_static_a_w.png)  
 
 ---
 

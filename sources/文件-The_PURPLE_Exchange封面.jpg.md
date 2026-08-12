@@ -1,6 +1,6 @@
 # 文件:The_PURPLE_Exchange封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f2\ns6%3AThe_PURPLE_Exchange%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f2\ns6%3AThe_PURPLE_Exchange%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Studio_K.N.S. | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Studio_K.N.S. | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [The PURPLE Exchange](./The_PURPLE_Exchange.md)  
-该封面包含的角色：- [八云紫](./八云紫.md)
-
-
-
+- [The PURPLE Exchange](./The_PURPLE_Exchange.md)该封面包含的角色：
+- [八云紫](./八云紫.md)
 
 
 ---

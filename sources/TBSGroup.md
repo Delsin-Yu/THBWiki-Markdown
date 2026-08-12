@@ -1,23 +1,22 @@
 # TBSGroup
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\4c\ns0%3ATBSGroup.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\4c\ns0%3ATBSGroup.html -->
 
 TBSGroup
 
-[](./文件-TBSGroup_logo_（标准）.png.md)
+<img alt="TBSGroup" src="https://upload.thwiki.cc/thumb/8/8e/TBSGroup_logo_%EF%BC%88%E6%A0%87%E5%87%86%EF%BC%89.png/100px-TBSGroup_logo_%EF%BC%88%E6%A0%87%E5%87%86%EF%BC%89.png" decoding="async" loading="lazy" width="100" height="100" srcset="https://upload.thwiki.cc/thumb/8/8e/TBSGroup_logo_%EF%BC%88%E6%A0%87%E5%87%86%EF%BC%89.png/150px-TBSGroup_logo_%EF%BC%88%E6%A0%87%E5%87%86%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/8/8e/TBSGroup_logo_%EF%BC%88%E6%A0%87%E5%87%86%EF%BC%89.png/200px-TBSGroup_logo_%EF%BC%88%E6%A0%87%E5%87%86%EF%BC%89.png 2x" data-file-width="256" data-file-height="256">
   
- **TBSGroup —— Touhou Black Secret Group** 
-  
+**TBSGroup —— Touhou Black Secret Group**  
   
 最初是一个于2011年2月27日建立的群体，主要由贴吧、论坛及其他东方project爱好者组成，以囧仙 (未找到链接)为群主。  
 
 群成员在能力范围内帮助喜爱东方的人们。其前身为东方吧WIKI管理群，原本只是作为WIKI的维护群而存在。但是，随着群规模的不断壮大及职能的不断增加，负责的范围和内容不仅仅局限于东方吧Wiki，因此经过一段时间的讨论和研究，正式将群名改为Touhou Bar Service Group（该名称已停止使用），TBSGroup这个名字因此诞生。
-然而在之后的过程中，群成员认为不应将范围局限在贴吧，因此将TBSG更名为 **Touhou Black Secret Group** 。
+然而在之后的过程中，群成员认为不应将范围局限在贴吧，因此将TBSG更名为**Touhou Black Secret Group**。
   
   
 从那之后，TBSGroup最初的那个群逐渐变成了聊天群，不再处理任何事务，而其负责的项目也由其他不同的组织或群体来完成。  
 
-然而，TBSG这个共同的名字却继承了下来， **成为了一个虚构的组织，作为所有共通项目的发起方** 。
+然而，TBSG这个共同的名字却继承了下来，**成为了一个虚构的组织，作为所有共通项目的发起方**。
   
   
 目前，TBSGroup主要管理THBWIKI（本站）、举办中文东方人气投票、维护ZUN的非公式新浪微博、管理喵玉殿论坛以及相关的附属站点以及对东方九町论坛以及其他站点的服务器维护，同时也为东方project爱好者们提供其他类型的服务。
@@ -33,13 +32,11 @@ THBWiki系列站点是2012年由TBSGroup建立并不断完善的以THBWiki（本
   
 TBSGroup的支出由成员担负，由于没有固定的收入，因此属于完全的贴钱运行状态。  
 
-相关收支记录参见： **[收支情况](./THBWiki-收支.md)** 词条的记载。  
+相关收支记录参见：**[收支情况](./THBWiki-收支.md)**词条的记载。  
 
 整个运行过程并不是良性可发展式的，能够坚持到今天实属不易。
   
-
 <center>
-
 <table>
 
 <tbody><tr>
@@ -98,7 +95,7 @@ TBSGroup的支出由成员担负，由于没有固定的收入，因此属于完
 <td><a rel="nofollow" class="external free" href="https://cd.thwiki.cc/">https://cd.thwiki.cc/</a>
 </td></tr>
 <tr>
-<td><s><a href="./TouhouVideo.md" class="mw-redirect" title="TouhouVideo">THVideo</a></s></td>
+<td><s><a href="./TouhouVideo弹幕视频网.md" class="mw-redirect" title="TouhouVideo">THVideo</a></s></td>
 <td>TouhouVideo弹幕视频网（已停止运营）</td>
 <td><a rel="nofollow" class="external free" href="http://thvideo.tv/">http://thvideo.tv/</a>
 </td></tr>
@@ -141,12 +138,7 @@ TBSGroup的支出由成员担负，由于没有固定的收入，因此属于完
 <td colspan="3">为有需求的网站提供服务器支持
 </td></tr></tbody></table>
 
-
 </center>
-
-
-
-
 ---
 
 此文档由 [THBWiki-Markdown-Builder](https://github.com/Delsin-Yu/THBWiki-Markdown-Builder) 构建。

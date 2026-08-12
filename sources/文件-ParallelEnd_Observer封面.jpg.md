@@ -1,6 +1,6 @@
 # 文件:ParallelEnd_Observer封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\47\ns6%3AParallelEnd_Observer%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\47\ns6%3AParallelEnd_Observer%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 少女理論観測所
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [ParallelEnd Observer](./ParallelEnd_Observer.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [ParallelEnd Observer](./ParallelEnd_Observer.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
 
   
-源地址：[[1]](http://static.tumblr.com/c8e3fab53088cd853685a0b9c1ff06e5/mlcopkp/WtOob1pve/tumblr_static_8sccndw3x748c0coksogwwokg.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://static.tumblr.com/c8e3fab53088cd853685a0b9c1ff06e5/mlcopkp/WtOob1pve/tumblr_static_8sccndw3x748c0coksogwwokg.jpg)  
 
 ---
 

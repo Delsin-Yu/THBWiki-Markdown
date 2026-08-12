@@ -1,6 +1,6 @@
 # 文件:ピアノと唄『黄昏エレジー』version封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6e\ns6%3A%E3%83%94%E3%82%A2%E3%83%8E%E3%81%A8%E5%94%84%E3%80%8E%E9%BB%84%E6%98%8F%E3%82%A8%E3%83%AC%E3%82%B8%E3%83%BC%E3%80%8Fversion%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6e\ns6%3A%E3%83%94%E3%82%A2%E3%83%8E%E3%81%A8%E5%94%84%E3%80%8E%E9%BB%84%E6%98%8F%E3%82%A8%E3%83%AC%E3%82%B8%E3%83%BC%E3%80%8Fversion%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 豚乙女
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [ピアノと唄『黄昏エレジー』version](./ピアノと唄『黄昏エレジー』version.md)  
-该封面包含的角色：- [蓬莱山辉夜](./蓬莱山辉夜.md)- [藤原妹红](./藤原妹红.md)
-
-
-
+- [ピアノと唄『黄昏エレジー』version](./ピアノと唄『黄昏エレジー』version.md)该封面包含的角色：
+- [蓬莱山辉夜](./蓬莱山辉夜.md)
+- [藤原妹红](./藤原妹红.md)
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:菊符「小宇宙Marguerite」.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d9\ns6%3A%E8%8F%8A%E7%AC%A6%E3%80%8C%E5%B0%8F%E5%AE%87%E5%AE%99Marguerite%E3%80%8D%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d9\ns6%3A%E8%8F%8A%E7%AC%A6%E3%80%8C%E5%B0%8F%E5%AE%87%E5%AE%99Marguerite%E3%80%8D%2Ejpg.html -->
 
 東方邪星章製作チーム
-
-
-
-
 
 
 ---

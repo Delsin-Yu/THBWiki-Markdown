@@ -1,14 +1,11 @@
 # 文件:度数96「Spirytus（斯皮亚图斯）的大银河」（黄昏酒场）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bb\ns6%3A%E5%BA%A6%E6%95%B096%E3%80%8CSpirytus%EF%BC%88%E6%96%AF%E7%9A%AE%E4%BA%9A%E5%9B%BE%E6%96%AF%EF%BC%89%E7%9A%84%E5%A4%A7%E9%93%B6%E6%B2%B3%E3%80%8D%EF%BC%88%E9%BB%84%E6%98%8F%E9%85%92%E5%9C%BA%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bb\ns6%3A%E5%BA%A6%E6%95%B096%E3%80%8CSpirytus%EF%BC%88%E6%96%AF%E7%9A%AE%E4%BA%9A%E5%9B%BE%E6%96%AF%EF%BC%89%E7%9A%84%E5%A4%A7%E9%93%B6%E6%B2%B3%E3%80%8D%EF%BC%88%E9%BB%84%E6%98%8F%E9%85%92%E5%9C%BA%EF%BC%89%2Epng.html -->
 
 敌机符卡 | 甘粕·巴里·天治 | 黄昏酒场
 
 
 ## 文件说明
-
-
-
 
 ---
 

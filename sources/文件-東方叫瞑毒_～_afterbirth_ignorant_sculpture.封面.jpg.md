@@ -1,6 +1,6 @@
 # 文件:東方叫瞑毒_～_afterbirth_ignorant_sculpture.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2b\ns6%3A%E6%9D%B1%E6%96%B9%E5%8F%AB%E7%9E%91%E6%AF%92_%EF%BD%9E_afterbirth_ignorant_sculpture%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2b\ns6%3A%E6%9D%B1%E6%96%B9%E5%8F%AB%E7%9E%91%E6%AF%92_%EF%BD%9E_afterbirth_ignorant_sculpture%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Engage_Blue | 专辑封面 | 封面图片
 
@@ -10,16 +10,12 @@ Engage_Blue | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方叫瞑毒 ～ afterbirth ignorant sculpture.](./東方叫瞑毒_～_afterbirth_ignorant_sculpture..md)  
-该封面包含的角色：- [梅蒂欣·梅兰可莉](./梅蒂欣·梅兰可莉.md)
+- [東方叫瞑毒 ～ afterbirth ignorant sculpture.](./東方叫瞑毒_～_afterbirth_ignorant_sculpture..md)该封面包含的角色：
+- [梅蒂欣·梅兰可莉](./梅蒂欣·梅兰可莉.md)
 
   
 from TLMC scans (cropped and resized)
   
-
-
-
-
 
 ---
 

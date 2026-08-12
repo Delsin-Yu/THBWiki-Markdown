@@ -1,6 +1,6 @@
 # Little_Marisa's_Disaster_Journey/设定与剧情
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\7\7b\ns0%3ALittle_Marisa%27s_Disaster_Journey%2F%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\7\7b\ns0%3ALittle_Marisa%27s_Disaster_Journey%2F%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85.html -->
 
 Dark_Sky_Empire
 
@@ -9,7 +9,6 @@ Dark_Sky_Empire
   
 魔理沙总是到帕秋莉的图书馆去偷书，但这次却不慎踩中了一个魔法陷阱，变成了很小的魔理沙！为了恢复正常的身体，小魔理沙不得不在危机四伏的红魔馆中展开一场冒险之旅！
   
-
 
 ## 游戏设定
   
@@ -33,10 +32,6 @@ Dark_Sky_Empire
   
 5. 多结局设计（包括四个死亡结局、一个良好结局和一个完美结局）。
   
-
-
-
-
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:第6回_森羅万象ノ宴_記念CD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2a\ns6%3A%E7%AC%AC6%E5%9B%9E_%E6%A3%AE%E7%BE%85%E4%B8%87%E8%B1%A1%E3%83%8E%E5%AE%B4_%E8%A8%98%E5%BF%B5CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2a\ns6%3A%E7%AC%AC6%E5%9B%9E_%E6%A3%AE%E7%BE%85%E4%B8%87%E8%B1%A1%E3%83%8E%E5%AE%B4_%E8%A8%98%E5%BF%B5CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 森罗万象之宴
 
@@ -8,11 +8,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [第6回 森羅万象ノ宴 記念CD](./第6回_森羅万象ノ宴_記念CD.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [东风谷早苗](./东风谷早苗.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [第6回 森羅万象ノ宴 記念CD](./第6回_森羅万象ノ宴_記念CD.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [东风谷早苗](./东风谷早苗.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

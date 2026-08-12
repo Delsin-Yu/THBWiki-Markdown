@@ -1,16 +1,12 @@
 # 模板:⑨_Jam
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\5\5c\ns10%3A%E2%91%A8_Jam.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\5\5c\ns10%3A%E2%91%A8_Jam.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

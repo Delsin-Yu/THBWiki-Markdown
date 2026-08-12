@@ -1,16 +1,12 @@
 # 模板:SNF
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\e\e9\ns10%3ASNF.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\e\e9\ns10%3ASNF.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

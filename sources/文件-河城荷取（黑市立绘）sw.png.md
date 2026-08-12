@@ -1,12 +1,8 @@
 # 文件:河城荷取（黑市立绘）sw.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b5\ns6%3A%E6%B2%B3%E5%9F%8E%E8%8D%B7%E5%8F%96%EF%BC%88%E9%BB%91%E5%B8%82%E7%AB%8B%E7%BB%98%EF%BC%89sw%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b5\ns6%3A%E6%B2%B3%E5%9F%8E%E8%8D%B7%E5%8F%96%EF%BC%88%E9%BB%91%E5%B8%82%E7%AB%8B%E7%BB%98%EF%BC%89sw%2Epng.html -->
 
 ZUN绘 | 官方游戏立绘 | 弹幕狂们的黑市 | 河城荷取
-
-
-
-
 
 
 ---

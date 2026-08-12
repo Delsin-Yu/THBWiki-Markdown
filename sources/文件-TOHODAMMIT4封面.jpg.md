@@ -1,6 +1,6 @@
 # 文件:TOHODAMMIT4封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2e\ns6%3ATOHODAMMIT4%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2e\ns6%3ATOHODAMMIT4%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Team-Bearhug | 专辑封面 | 封面图片
 
@@ -10,11 +10,10 @@ Team-Bearhug | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [TOHODAMMIT4](./TOHODAMMIT4.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [八云蓝](./八云蓝.md)- 原创角色 (未找到链接)
-
-
-
+- [TOHODAMMIT4](./TOHODAMMIT4.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [八云蓝](./八云蓝.md)
+- 原创角色 (未找到链接)
 
 
 ---

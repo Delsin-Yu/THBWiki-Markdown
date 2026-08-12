@@ -1,88 +1,57 @@
 # TOUHOU_ROCK_FES
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\b8\ns0%3ATOUHOU_ROCK_FES.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\b8\ns0%3ATOUHOU_ROCK_FES.html -->
 
 TOUHOU ROCK FES 在 日本东京 举办的  东方同人LIVE活动，目前共举办了1届
 
-本页是关于 **[同人展会](./同人展会.md#展会类活动)**   
-及 **[相关活动](./相关活动.md)** 的词条
-
+本页是关于**[同人展会](./活动.md#展会类活动)**  
+及**[相关活动](./活动.md)**的词条
 ## 目录
 
 - [1 概述](#概述)
 - [2 历届信息](#历届信息)
 - [3 演出社团及人员](#演出社团及人员)
 - [4 作品列表](#作品列表)
-
   - [4.1 同人专辑](#同人专辑)
-
 
 
 - [5 注释](#注释)
 
 
-
-
-
 ## 概述
-[](./文件-TOUHOU_ROCK_FES_LOGO.png.md)  [](./文件-TOUHOU_ROCK_FES_LOGO.png.md)TOUHOU ROCK FES LOGO
+<img alt="" src="https://upload.thwiki.cc/thumb/f/fc/TOUHOU_ROCK_FES_LOGO.png/300px-TOUHOU_ROCK_FES_LOGO.png" decoding="async" loading="lazy" width="300" height="80" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/f/fc/TOUHOU_ROCK_FES_LOGO.png/450px-TOUHOU_ROCK_FES_LOGO.png 1.5x, https://upload.thwiki.cc/thumb/f/fc/TOUHOU_ROCK_FES_LOGO.png/600px-TOUHOU_ROCK_FES_LOGO.png 2x" data-file-width="2871" data-file-height="765">
+ [放大](./文件-TOUHOU_ROCK_FES_LOGO.png.md)TOUHOU ROCK FES LOGO  
+<big>**TOUHOU ROCK FES**</big>。  
   
-<big> **TOUHOU ROCK FES** </big>。  
-  
-  
-  
-  
-日本 **东京** 的东方Project Only **同人拼盘[LIVE类活动](./LIVE类活动.md#LIVE类活动)** 。  
+日本**东京**的东方Project Only**同人拼盘[LIVE类活动](./活动.md#LIVE类活动)**。  
   
 在东京举办。  
 直到目前为止，已经举办了1届（包含已决定将会举办）。  
-  
-  
-  
   
 活动官方网站： [https://torofesinfo.wixsite.com/2019](https://torofesinfo.wixsite.com/2019)   
 官方推特： [https://twitter.com/touhou_rock](https://twitter.com/touhou_rock) （需要翻墙）  
   
 TOUHOU ROCK FES（活动，LIVE活动） - TOUHOU ROCK FES 在 日本东京 举办的  东方同人LIVE活动，目前共举办了1届
-
 ## 历届信息
+
 - 点击届数可进入对应分类页面。
 - 举办日期以当地日期为准。
 
 
 <table>
 <tbody><tr><th> </th><th>日期</th><th>地点</th><th>演出社团及人员</th></tr>
-<tr><td id="2019"><b><a href="/展会作品列表?e=TOUHOU+ROCK+FES%232019">TOUHOU ROCK FES 2019</a></b></td><td id="ev-1">2019年10月05日</td><td>东京都 高円寺Club ROOTS!<br><small><span style="color:grey;">東京都杉並区高円寺北 高円寺 Club ROOTS!</span></small></td><td><a href="#第1届">参见</a></td></tr>
+<tr><td id="2019"><b><a href="./展会作品列表.md#2019">TOUHOU ROCK FES 2019</a></b></td><td id="ev-1">2019年10月05日</td><td>东京都 高円寺Club ROOTS!<br><small><span style="color:grey;">東京都杉並区高円寺北 高円寺 Club ROOTS!</span></small></td><td><a href="#第1届">参见</a></td></tr>
 </tbody></table>
-
 
 
 ## 演出社团及人员
 TOUHOU ROCK FES 2019
 : [サンライズハイスクール](./サンライズハイスクール.md)、[はにーぽけっと](./はにーぽけっと.md)、[Spoo and Nick](./Spoo_and_Nick.md)、[Cry Of The Soul](./Cry_Of_The_Soul.md)、[Hungry Tiger](./Hungry_Tiger.md)
 
-
 ## 作品列表
 
 ### 同人专辑
-[](./TOUHOU_ROCK_FES_VOL.1.md)[TOUHOU ROCK FES VOL.1](./TOUHOU_ROCK_FES_VOL.1.md)首发日期：2018-10-14 （第五回 博麗神社秋季例大祭 (未找到链接)）全长 （一般向）
-<table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
-</table>
-
-
-
-  
-  
-
-  
-
-  
-  
-
-
-
-
-
+- **[TOUHOU ROCK FES VOL.1](./TOUHOU_ROCK_FES_VOL.1.md)** — 首发日期：2018-10-14 （第五回 博麗神社秋季例大祭）；全长 （一般向）
 
 ---
 

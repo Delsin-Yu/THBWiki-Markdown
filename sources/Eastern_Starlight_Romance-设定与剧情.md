@@ -1,17 +1,16 @@
 # Eastern_Starlight_Romance/设定与剧情
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\2f\ns0%3AEastern_Starlight_Romance%2F%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\2f\ns0%3AEastern_Starlight_Romance%2F%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85.html -->
 
 Dai-Sukima_Dan
 
 
 ## 分类
   
- **Eastern Starlight Romance** 是Dai-Sukima Dan (未找到链接)目前正在开发的免费英文视觉小说真的还在，说2021年底会有更新具体见杂项  
+**Eastern Starlight Romance**是Dai-Sukima Dan (未找到链接)目前正在开发的免费英文视觉小说真的还在，说2021年底会有更新具体见杂项  
 
-发行在  *[Subterranean Animism](./东方地灵殿.md)*  之后，
+发行在 *[Subterranean Animism](./东方地灵殿.md)* 之后，
   
-
 
 ## 剧情
   
@@ -21,10 +20,6 @@ Dai-Sukima_Dan
 
 《东方星光恋》的剧情围绕着[魔理沙](./雾雨魔理沙.md)对不老不死的研究而展开，随着她研究的深入，她与[灵梦](./博丽灵梦.md)、[爱丽丝](./爱丽丝·玛格特洛依德.md)、[帕秋莉](./帕秋莉·诺蕾姬.md)、以及[芙兰朵露](./芙兰朵露·斯卡蕾特.md)的关系也开始因此而改变。
   
-
-
-
-
 
 ---
 

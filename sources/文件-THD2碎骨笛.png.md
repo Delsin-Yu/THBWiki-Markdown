@@ -1,12 +1,8 @@
 # 文件:THD2碎骨笛.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5c\ns6%3ATHD2%E7%A2%8E%E9%AA%A8%E7%AC%9B%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5c\ns6%3ATHD2%E7%A2%8E%E9%AA%A8%E7%AC%9B%2Epng.html -->
 
 THD2
-
-
-
-
 
 
 ---

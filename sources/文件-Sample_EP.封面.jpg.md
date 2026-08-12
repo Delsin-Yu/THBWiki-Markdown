@@ -1,6 +1,6 @@
 # 文件:Sample_EP.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\eb\ns6%3ASample_EP%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\eb\ns6%3ASample_EP%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ありのす。 | 专辑封面 | 封面图片
 
@@ -13,12 +13,7 @@
 - [Sample EP.](./Sample_EP..md)
 
   
-源地址：[direct image link (original size)](https://i1.sndcdn.com/artworks-000383698500-ebeia7-original.jpg), [source page (Soundcloud)](https://soundcloud.com/arinosu_dojin/oblivion-of-life)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://i1.sndcdn.com/artworks-000383698500-ebeia7-original.jpg), [source page (Soundcloud)](https://soundcloud.com/arinosu_dojin/oblivion-of-life)  
 
 ---
 

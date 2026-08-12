@@ -1,6 +1,6 @@
 # 文件:fragments：SR封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\18\ns6%3Afragments%EF%BC%9ASR%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\18\ns6%3Afragments%EF%BC%9ASR%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Re：Volte | 专辑封面 | 封面图片
 
@@ -8,11 +8,13 @@ Re：Volte | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [fragments：SR](./fragments：SR.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)- [西行寺幽幽子](./西行寺幽幽子.md)- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)- [洩矢诹访子](./洩矢诹访子.md)- [火焰猫燐](./火焰猫燐.md)
-
-
-
+- [fragments：SR](./fragments：SR.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [西行寺幽幽子](./西行寺幽幽子.md)
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
+- [洩矢诹访子](./洩矢诹访子.md)
+- [火焰猫燐](./火焰猫燐.md)
 
 
 ---

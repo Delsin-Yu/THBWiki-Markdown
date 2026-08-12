@@ -1,6 +1,6 @@
 # 文件:A-One_ALL_TIME_BEST_Ⅰ_～NON_STOP_MEGA_MIX～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\23\ns6%3AA-One_ALL_TIME_BEST_%E2%85%A0_%EF%BD%9ENON_STOP_MEGA_MIX%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\23\ns6%3AA-One_ALL_TIME_BEST_%E2%85%A0_%EF%BD%9ENON_STOP_MEGA_MIX%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 A-One | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ A-One | 专辑封面 | 封面图片
   
 
 - [A-One ALL TIME BEST Ⅰ ～NON STOP MEGA MIX～](./A-One_ALL_TIME_BEST_Ⅰ_～NON_STOP_MEGA_MIX～.md)
-
-
-
 
 
 ---

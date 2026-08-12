@@ -1,6 +1,6 @@
 # 文件:iDTC_-TOUHOU_RO-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b0\ns6%3AiDTC_-TOUHOU_RO-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b0\ns6%3AiDTC_-TOUHOU_RO-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Wind_of_being_peaceful | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ Wind_of_being_peaceful | 专辑封面 | 封面图片
   
 
 - [iDTC -TOUHOU RO-](./iDTC_-TOUHOU_RO-.md)
-
-
-
 
 
 ---

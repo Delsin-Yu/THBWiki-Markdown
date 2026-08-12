@@ -1,6 +1,6 @@
 # 文件:Frisby_and_the_WereWolf封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\86\ns6%3AFrisby_and_the_WereWolf%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\86\ns6%3AFrisby_and_the_WereWolf%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Unity-Gain | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Unity-Gain | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Frisby and the WereWolf](./Frisby_and_the_WereWolf.md)  
-该封面包含的角色：- [今泉影狼](./今泉影狼.md)
+- [Frisby and the WereWolf](./Frisby_and_the_WereWolf.md)该封面包含的角色：
+- [今泉影狼](./今泉影狼.md)
 
   
-源地址：[[1]](https://cdn.melonbooks.co.jp/user_data/packages/resize_image.php?image=213001016300.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://cdn.melonbooks.co.jp/user_data/packages/resize_image.php?image=213001016300.jpg)  
 
 ---
 

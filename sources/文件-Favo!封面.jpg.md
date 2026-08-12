@@ -1,6 +1,6 @@
 # 文件:Favo!封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3b\ns6%3AFavo%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3b\ns6%3AFavo%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 plum@pple | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@ plum@pple | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Favo!](./Favo!.md)  
-该封面包含的角色：- [藤原妹红](./藤原妹红.md)
+- [Favo!](./Favo!.md)该封面包含的角色：
+- [藤原妹红](./藤原妹红.md)
 
   
-源地址：[direct image link (original size)](https://s2.booth.pm/a8d7d117-a630-4209-bb74-766ae4a82adf/i/3924263/6219c827-6252-4e88-b671-95332fbfd56c.JPG), [source page (circle Booth)](https://plumapple.booth.pm/items/3924263)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://s2.booth.pm/a8d7d117-a630-4209-bb74-766ae4a82adf/i/3924263/6219c827-6252-4e88-b671-95332fbfd56c.JPG), [source page (circle Booth)](https://plumapple.booth.pm/items/3924263)  
 
 ---
 

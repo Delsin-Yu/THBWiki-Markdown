@@ -1,6 +1,6 @@
 # 文件:Trident_World封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7c\ns6%3ATrident_World%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7c\ns6%3ATrident_World%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 AbsoЯute_Zero | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ AbsoЯute_Zero | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Trident World](./Trident_World.md)  
-该封面包含的角色：- [赫卡提亚·拉碧斯拉祖利](./赫卡提亚·拉碧斯拉祖利.md)
+- [Trident World](./Trident_World.md)该封面包含的角色：
+- [赫卡提亚·拉碧斯拉祖利](./赫卡提亚·拉碧斯拉祖利.md)
 
   
-源地址：[[1]](http://absorute-zero.net/tridentworld/common/images/jacket.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://absorute-zero.net/tridentworld/common/images/jacket.jpg)  
 
 ---
 

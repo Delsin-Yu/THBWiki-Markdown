@@ -1,6 +1,6 @@
 # 文件:シングルズベストVol.1「果てなき風の軌跡さえ」封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d8\ns6%3A%E3%82%B7%E3%83%B3%E3%82%B0%E3%83%AB%E3%82%BA%E3%83%99%E3%82%B9%E3%83%88Vol%2E1%E3%80%8C%E6%9E%9C%E3%81%A6%E3%81%AA%E3%81%8D%E9%A2%A8%E3%81%AE%E8%BB%8C%E8%B7%A1%E3%81%95%E3%81%88%E3%80%8D%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d8\ns6%3A%E3%82%B7%E3%83%B3%E3%82%B0%E3%83%AB%E3%82%BA%E3%83%99%E3%82%B9%E3%83%88Vol%2E1%E3%80%8C%E6%9E%9C%E3%81%A6%E3%81%AA%E3%81%8D%E9%A2%A8%E3%81%AE%E8%BB%8C%E8%B7%A1%E3%81%95%E3%81%88%E3%80%8D%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 少女フラクタル
 
@@ -10,11 +10,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [シングルズベストVol.1「果てなき風の軌跡さえ」](./シングルズベストVol.1「果てなき風の軌跡さえ」.md)  
-该封面包含的角色：- [蓬莱山辉夜](./蓬莱山辉夜.md)- [东风谷早苗](./东风谷早苗.md)- [秦心](./秦心.md)
-
-
-
+- [シングルズベストVol.1「果てなき風の軌跡さえ」](./シングルズベストVol.1「果てなき風の軌跡さえ」.md)该封面包含的角色：
+- [蓬莱山辉夜](./蓬莱山辉夜.md)
+- [东风谷早苗](./东风谷早苗.md)
+- [秦心](./秦心.md)
 
 
 ---

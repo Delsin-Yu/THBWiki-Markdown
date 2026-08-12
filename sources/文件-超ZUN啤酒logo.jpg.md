@@ -1,14 +1,11 @@
 # 文件:超ZUN啤酒logo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e2\ns6%3A%E8%B6%85ZUN%E5%95%A4%E9%85%92logo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e2\ns6%3A%E8%B6%85ZUN%E5%95%A4%E9%85%92logo%2Ejpg.html -->
 
 ZUN自制啤酒
 
 
 ## 摘要
-
-
-
 
 ---
 

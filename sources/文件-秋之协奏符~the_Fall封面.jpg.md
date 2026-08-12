@@ -1,6 +1,6 @@
 # 文件:秋之协奏符~the_Fall封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c0\ns6%3A%E7%A7%8B%E4%B9%8B%E5%8D%8F%E5%A5%8F%E7%AC%A6%7Ethe_Fall%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c0\ns6%3A%E7%A7%8B%E4%B9%8B%E5%8D%8F%E5%A5%8F%E7%AC%A6%7Ethe_Fall%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 NFT_conFuoco_orchestra | 专辑封面 | 封面图片
 
@@ -9,11 +9,8 @@ NFT_conFuoco_orchestra | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [秋之协奏符~The Fall](./秋之协奏符~The_Fall.md)  
-该封面包含的角色：- [键山雏](./键山雏.md)
-
-
-
+- [秋之协奏符~The Fall](./秋之协奏符~The_Fall.md)该封面包含的角色：
+- [键山雏](./键山雏.md)
 
 
 ---

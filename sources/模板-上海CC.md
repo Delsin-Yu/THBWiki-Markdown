@@ -1,16 +1,12 @@
 # 模板:上海CC
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\5\54\ns10%3A%E4%B8%8A%E6%B5%B7CC.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\5\54\ns10%3A%E4%B8%8A%E6%B5%B7CC.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

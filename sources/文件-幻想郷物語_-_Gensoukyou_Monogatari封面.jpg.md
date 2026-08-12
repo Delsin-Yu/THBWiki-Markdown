@@ -1,6 +1,6 @@
 # 文件:幻想郷物語_-_Gensoukyou_Monogatari封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d6\ns6%3A%E5%B9%BB%E6%83%B3%E9%83%B7%E7%89%A9%E8%AA%9E_-_Gensoukyou_Monogatari%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d6\ns6%3A%E5%B9%BB%E6%83%B3%E9%83%B7%E7%89%A9%E8%AA%9E_-_Gensoukyou_Monogatari%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 100% | 专辑封面 | 封面图片
 
@@ -8,16 +8,16 @@
 使用了本文件作封面图片的作品：
   
 
-- [幻想郷物語 - Gensoukyou Monogatari](./幻想郷物語_-_Gensoukyou_Monogatari.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)- [博丽灵梦](./博丽灵梦.md)- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)- [风见幽香](./风见幽香.md)- [雾雨魔理沙](./雾雨魔理沙.md)
+- [幻想郷物語 - Gensoukyou Monogatari](./幻想郷物語_-_Gensoukyou_Monogatari.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
+- [博丽灵梦](./博丽灵梦.md)
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [风见幽香](./风见幽香.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-源地址：[[1]](https://hyakupa.bandcamp.com/album/gensoukyou-monogatari)
-  
-
-
-
-
+源地址：[\[1\]](https://hyakupa.bandcamp.com/album/gensoukyou-monogatari)  
 
 ---
 

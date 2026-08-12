@@ -1,12 +1,8 @@
 # 文件:宇佐见堇子（噩梦日记立绘）prl.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8b\ns6%3A%E5%AE%87%E4%BD%90%E8%A7%81%E5%A0%87%E5%AD%90%EF%BC%88%E5%99%A9%E6%A2%A6%E6%97%A5%E8%AE%B0%E7%AB%8B%E7%BB%98%EF%BC%89prl%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8b\ns6%3A%E5%AE%87%E4%BD%90%E8%A7%81%E5%A0%87%E5%AD%90%EF%BC%88%E5%99%A9%E6%A2%A6%E6%97%A5%E8%AE%B0%E7%AB%8B%E7%BB%98%EF%BC%89prl%2Epng.html -->
 
 ZUN绘 | 宇佐见堇子 | 官方游戏立绘 | 秘封噩梦日记
-
-
-
-
 
 
 ---

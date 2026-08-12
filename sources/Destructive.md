@@ -1,12 +1,11 @@
 # Destructive
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\27\ns0%3ADestructive.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\27\ns0%3ADestructive.html -->
 
 2024年1月19日 由 Necollex Music  发布的EP同人专辑，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人专辑 (未找到链接)** 的词条
-
+**[二次创作同人专辑](./二次创作.md#同人音乐)**的词条
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Destructive封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/7/7c/Destructive%E5%B0%81%E9%9D%A2.png/224px-Destructive%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="224" height="224" srcset="https://upload.thwiki.cc/thumb/7/7c/Destructive%E5%B0%81%E9%9D%A2.png/336px-Destructive%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/7/7c/Destructive%E5%B0%81%E9%9D%A2.png/448px-Destructive%E5%B0%81%E9%9D%A2.png 2x" data-file-width="800" data-file-height="800"></a><div class="cover-char">角色：<a href="./幽谷响子.md" title="幽谷响子">幽谷响子</a></div></td>
@@ -15,21 +14,17 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.youtube.com/watch?v=gmv5TNshC4U">https://www.youtube.com/watch?v=gmv5TNshC4U</a></td></tr></tbody></table>
 
 Destructive（同人专辑，Necollex Music，2024） - 2024年1月19日 由 Necollex Music  发布的EP同人专辑，分级为 一般向
-
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://necollexmusic.booth.pm/items/5433091">Booth</a>，<a rel="nofollow" class="external text" href="http://www.dlsite.com/home/work/=/product_id/RJ01144781.html">DLsite</a></td></tr></tbody></table>
-
 
 
 ## Staff
   
- **Arrangement**   
+**Arrangement**  
 
-<table><tbody><tr><td><a href="/index.php?title=Necollex&amp;action=edit&amp;redlink=1" class="new" title="Necollex（页面不存在）">Necollex</a></td><td></td><td>Tr.1-4</td></tr></tbody></table>
-
+<table><tbody><tr><td><a class="new" title="Necollex（页面不存在）">Necollex</a></td><td></td><td>Tr.1-4</td></tr></tbody></table>
 
 Illustration
 : moca (未找到链接)
-
 
 ## 试听
 
@@ -43,20 +38,15 @@ Illustration
 </td></tr></tbody></table>
 
 
-
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Inane_Library" colspan="2" class="title">Inane Library<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Necollex&amp;ogmusic=ヴワル魔法図書館&amp;fromwiki=Destructive"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=Necollex&amp;action=edit&amp;redlink=1" class="new" title="Necollex（页面不存在）">Necollex</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Necollex&amp;fromwiki=Destructive"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=ヴワル魔法図書館&amp;fromwiki=Destructive"><span></span></a></span><div class="ogmusic"><a href="./ヴワル魔法図書館.md" class="mw-redirect" title="ヴワル魔法図書館">ヴワル魔法図書館</a></div><div class="source"><a href="./东方红魔乡_～_the_Embodiment_of_Scarlet_Devil..md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr>
-<tr><td id="2" class="infoYD"><b>02</b></td><td id="Destructive_Ultrasound" colspan="2" class="title">Destructive Ultrasound<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Necollex&amp;ogmusic=妖怪寺へようこそ&amp;fromwiki=Destructive"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=Necollex&amp;action=edit&amp;redlink=1" class="new" title="Necollex（页面不存在）">Necollex</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Necollex&amp;fromwiki=Destructive"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=妖怪寺へようこそ&amp;fromwiki=Destructive"><span></span></a></span><div class="ogmusic"><a href="./妖怪寺へようこそ.md" class="mw-redirect" title="妖怪寺へようこそ">妖怪寺へようこそ</a></div><div class="source"><a href="./东方神灵庙_～_Ten_Desires..md" class="mw-redirect" title="东方神灵庙 ～ Ten Desires.">东方神灵庙　～ Ten Desires.</a></div></td></tr>
-<tr><td id="3" class="infoYD"><b>03</b></td><td id="Twin_Flower" colspan="2" class="title">Twin Flower<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Necollex&amp;ogmusic=眠れる恐怖　～Sleeping Terror&amp;fromwiki=Destructive"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=Necollex&amp;action=edit&amp;redlink=1" class="new" title="Necollex（页面不存在）">Necollex</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Necollex&amp;fromwiki=Destructive"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=眠れる恐怖　～Sleeping Terror&amp;fromwiki=Destructive"><span></span></a></span><div class="ogmusic"><a href="./眠れる恐怖_～Sleeping_Terror.md" class="mw-redirect" title="眠れる恐怖 ～Sleeping Terror">眠れる恐怖　～Sleeping Terror</a></div><div class="source"><a href="./东方幻想乡_～_Lotus_Land_Story..md" class="mw-redirect" title="东方幻想乡 ～ Lotus Land Story.">东方幻想乡　～ Lotus Land Story.</a></div></td></tr>
-<tr><td id="4" class="infoYD"><b>04</b></td><td id="Solomon" colspan="2" class="title">Solomon<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Necollex&amp;ogmusic=魔法使いの憂鬱&amp;fromwiki=Destructive"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=Necollex&amp;action=edit&amp;redlink=1" class="new" title="Necollex（页面不存在）">Necollex</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Necollex&amp;fromwiki=Destructive"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=魔法使いの憂鬱&amp;fromwiki=Destructive"><span></span></a></span><div class="ogmusic"><a href="./魔法使いの憂鬱.md" class="mw-redirect" title="魔法使いの憂鬱">魔法使いの憂鬱</a></div><div class="source"><a href="./The_Grimoire_of_Marisa_附属CD.md" class="mw-redirect" title="The Grimoire of Marisa 附属CD">The Grimoire of Marisa 附属CD</a></div></td></tr></tbody></table>
-
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Inane_Library" colspan="2" class="title">Inane Library</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="Necollex（页面不存在）">Necollex</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./伏瓦鲁魔法图书馆.md" class="mw-redirect" title="ヴワル魔法図書館">ヴワル魔法図書館</a></div><div class="source"><a href="./东方红魔乡.md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr>
+<tr><td id="2" class="infoYD"><b>02</b></td><td id="Destructive_Ultrasound" colspan="2" class="title">Destructive Ultrasound</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="Necollex（页面不存在）">Necollex</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./欢迎来到妖怪寺.md" class="mw-redirect" title="妖怪寺へようこそ">妖怪寺へようこそ</a></div><div class="source"><a href="./东方神灵庙.md" class="mw-redirect" title="东方神灵庙 ～ Ten Desires.">东方神灵庙　～ Ten Desires.</a></div></td></tr>
+<tr><td id="3" class="infoYD"><b>03</b></td><td id="Twin_Flower" colspan="2" class="title">Twin Flower</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="Necollex（页面不存在）">Necollex</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./沉睡的恐怖_～_Sleeping_Terror.md" class="mw-redirect" title="眠れる恐怖 ～Sleeping Terror">眠れる恐怖　～Sleeping Terror</a></div><div class="source"><a href="./东方幻想乡.md" class="mw-redirect" title="东方幻想乡 ～ Lotus Land Story.">东方幻想乡　～ Lotus Land Story.</a></div></td></tr>
+<tr><td id="4" class="infoYD"><b>04</b></td><td id="Solomon" colspan="2" class="title">Solomon</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="Necollex（页面不存在）">Necollex</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./魔法使的忧郁.md" class="mw-redirect" title="魔法使いの憂鬱">魔法使いの憂鬱</a></div><div class="source"><a href="./The_Grimoire_of_Marisa-附属CD.md" class="mw-redirect" title="The Grimoire of Marisa 附属CD">The Grimoire of Marisa 附属CD</a></div></td></tr></tbody></table>
 
 
 ## 评论
-
-
-
 
 ---
 

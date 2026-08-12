@@ -1,6 +1,6 @@
 # 文件:Fragments_of_Gensokyo_~_Bonus_Pack封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\37\ns6%3AFragments_of_Gensokyo_%7E_Bonus_Pack%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\37\ns6%3AFragments_of_Gensokyo_%7E_Bonus_Pack%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Babbe_Music | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Babbe_Music | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Fragments of Gensokyo ~ Bonus Pack](./Fragments_of_Gensokyo_~_Bonus_Pack.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [Fragments of Gensokyo ~ Bonus Pack](./Fragments_of_Gensokyo_~_Bonus_Pack.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

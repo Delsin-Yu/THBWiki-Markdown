@@ -1,12 +1,11 @@
 # SECRET_MlND_EP
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\e\e8\ns0%3ASECRET_MlND_EP.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\e\e8\ns0%3ASECRET_MlND_EP.html -->
 
 2016年4月1日 由 Find Your Way  发布的EP同人专辑，曲目主要风格是 Rock，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人专辑 (未找到链接)** 的词条
-
+**[二次创作同人专辑](./二次创作.md#同人音乐)**的词条
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-SECRET_MlND_EP封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/a/a3/SECRET_MlND_EP%E5%B0%81%E9%9D%A2.jpg/280px-SECRET_MlND_EP%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="280" height="280" srcset="https://upload.thwiki.cc/thumb/a/a3/SECRET_MlND_EP%E5%B0%81%E9%9D%A2.jpg/420px-SECRET_MlND_EP%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/a/a3/SECRET_MlND_EP%E5%B0%81%E9%9D%A2.jpg/560px-SECRET_MlND_EP%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1200" data-file-height="1200"></a></td>
@@ -15,32 +14,29 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://youwillfindyourway.bandcamp.com/album/secret-mlnd-ep">https://youwillfindyourway.bandcamp.com/album/secret-mlnd-ep</a></td></tr><tr><td class="label">备注</td><td colspan="2">愚人节EP</td></tr></tbody></table>
 
 SECRET MlND EP（同人专辑，Find Your Way，2016） - 2016年4月1日 由 Find Your Way  发布的EP同人专辑，曲目主要风格是 Rock，分级为 一般向
-
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://youwillfindyourway.bandcamp.com/album/secret-mlnd-ep">bandcamp</a></td></tr></tbody></table>
-
 
 
 ## Staff
   
- **Arrangement**   
+**Arrangement**  
 
 <table><tbody><tr><td><a href="./Veto.md" title="Veto">Veto</a></td><td><a href="./Find_Your_Way.md" title="Find Your Way">Find Your Way</a></td><td>Tr.1-3</td></tr></tbody></table>
 
   
- **Vocal**   
+**Vocal**  
 
 <table><tbody><tr><td><a href="./Veto.md" title="Veto">Veto</a></td><td><a href="./Find_Your_Way.md" title="Find Your Way">Find Your Way</a></td><td>Tr.1-3</td></tr></tbody></table>
 
   
- **Voice**   
+**Voice**  
 
-<table><tbody><tr><td><a href="./Veto.md" title="Veto">Veto</a></td><td><a href="./Find_Your_Way.md" title="Find Your Way">Find Your Way</a></td><td>Tr.4</td></tr><tr><td><a href="/index.php?title=hags&amp;action=edit&amp;redlink=1" class="new" title="hags（页面不存在）">hags</a></td><td><a href="/index.php?title=CS9_Pro.&amp;action=edit&amp;redlink=1" class="new" title="CS9 Pro.（页面不存在）">CS9 Pro.</a></td><td>Tr.4</td></tr></tbody></table>
+<table><tbody><tr><td><a href="./Veto.md" title="Veto">Veto</a></td><td><a href="./Find_Your_Way.md" title="Find Your Way">Find Your Way</a></td><td>Tr.4</td></tr><tr><td><a class="new" title="hags（页面不存在）">hags</a></td><td><a class="new" title="CS9 Pro.（页面不存在）">CS9 Pro.</a></td><td>Tr.4</td></tr></tbody></table>
 
   
- **Lyrics**   
+**Lyrics**  
 
 <table><tbody><tr><td><a href="./Veto.md" title="Veto">Veto</a></td><td><a href="./Find_Your_Way.md" title="Find Your Way">Find Your Way</a></td><td>Tr.1-3</td></tr></tbody></table>
-
 
 Mix，Design
 : [Veto](./Veto.md)（[Find Your Way](./Find_Your_Way.md)）
@@ -50,24 +46,20 @@ Original Images Manipulated
 : Iwan Gabovitch（[Public Domain](https://www.flickr.com/photos/qubodup/3210765439/)）
 : Cesar I. Martins（[Creative Commons 2.0](https://creativecommons.org/licenses/by/2.0/legalcode)）
 
-
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoRD"><b>01</b></td><td id="The_Hunter_／_Hunter_Affect" colspan="2" class="title"><a href="./歌词-The_Hunter_／_Hunter_Effect.md" title="歌词:The Hunter ／ Hunter Effect">The Hunter ／ Hunter Affect</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Veto&amp;vocal=Veto&amp;lyric=Veto&amp;ogmusic=ヒロシゲ36号　～ Neo Super-Express&amp;fromwiki=SECRET_MlND_EP"><span title="搜索相似同人曲"></span></a></span></td><td class="time">02:10</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Veto.md" title="Veto">Veto</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Veto&amp;fromwiki=SECRET_MlND_EP"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="./Veto.md" title="Veto">Veto</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=Veto&amp;fromwiki=SECRET_MlND_EP"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="./Veto.md" title="Veto">Veto</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?lyric=Veto&amp;fromwiki=SECRET_MlND_EP"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">初发布</td><td class="text" colspan="2"><a href="/SECRET_MIND_EP#1" title="SECRET MIND EP">The Hunter ／ Hunter Effect</a><div class="source"><a href="./SECRET_MIND_EP.md" title="SECRET MIND EP">SECRET MIND EP</a></div></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=ヒロシゲ36号　～ Neo Super-Express&amp;fromwiki=SECRET_MlND_EP"><span></span></a></span><div class="ogmusic"><a href="./ヒロシゲ36号_～_Neo_Super-Express.md" class="mw-redirect" title="ヒロシゲ36号 ～ Neo Super-Express">ヒロシゲ36号　～ Neo Super-Express</a></div><div class="source"><a href="./卯酉东海道_～_Retrospective_53_minutes.md" class="mw-redirect" title="卯酉东海道 ～ Retrospective 53 minutes">卯酉东海道　～ Retrospective 53 minutes</a></div></td></tr>
-<tr><td id="2" class="infoRD"><b>02</b></td><td id="Shine_White_Snow_Boarding" colspan="2" class="title"><a href="./歌词-Tiny_Hawk_Pro_Skater.md" title="歌词:Tiny Hawk Pro Skater">Shine White Snow Boarding</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Veto&amp;vocal=Veto&amp;lyric=Veto&amp;ogmusic=死霊の夜桜&amp;fromwiki=SECRET_MlND_EP"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:58</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Veto.md" title="Veto">Veto</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Veto&amp;fromwiki=SECRET_MlND_EP"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="./Veto.md" title="Veto">Veto</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=Veto&amp;fromwiki=SECRET_MlND_EP"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="./Veto.md" title="Veto">Veto</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?lyric=Veto&amp;fromwiki=SECRET_MlND_EP"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">初发布</td><td class="text" colspan="2"><a href="/SECRET_MIND_EP#2" title="SECRET MIND EP">Tiny Hawk Pro Skater</a><div class="source"><a href="./SECRET_MIND_EP.md" title="SECRET MIND EP">SECRET MIND EP</a></div></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=死霊の夜桜&amp;fromwiki=SECRET_MlND_EP"><span></span></a></span><div class="ogmusic"><a href="./死霊の夜桜.md" class="mw-redirect" title="死霊の夜桜">死霊の夜桜</a></div><div class="source"><a href="./东方神灵庙_～_Ten_Desires..md" class="mw-redirect" title="东方神灵庙 ～ Ten Desires.">东方神灵庙　～ Ten Desires.</a></div></td></tr>
-<tr><td id="3" class="infoRD"><b>03</b></td><td id="EXTREME_DODECA_SUPER_MOON" colspan="2" class="title"><a href="./歌词-EXTREME_DOUBLE_SUPER_MOON.md" title="歌词:EXTREME DOUBLE SUPER MOON">EXTREME DODECA SUPER MOON</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Veto&amp;vocal=Veto&amp;lyric=Veto&amp;ogmusic=月まで届け、不死の煙&amp;fromwiki=SECRET_MlND_EP"><span title="搜索相似同人曲"></span></a></span></td><td class="time">28:31</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Veto.md" title="Veto">Veto</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Veto&amp;fromwiki=SECRET_MlND_EP"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="./Veto.md" title="Veto">Veto</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=Veto&amp;fromwiki=SECRET_MlND_EP"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="./Veto.md" title="Veto">Veto</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?lyric=Veto&amp;fromwiki=SECRET_MlND_EP"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">初发布</td><td class="text" colspan="2"><a href="/SECRET_MIND_EP#3" title="SECRET MIND EP">EXTREME DOUBLE SUPER MOON</a><div class="source"><a href="./SECRET_MIND_EP.md" title="SECRET MIND EP">SECRET MIND EP</a></div></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=月まで届け、不死の煙&amp;fromwiki=SECRET_MlND_EP"><span></span></a></span><div class="ogmusic"><a href="./月まで届け、不死の煙.md" class="mw-redirect" title="月まで届け、不死の煙">月まで届け、不死の煙</a></div><div class="source"><a href="./东方永夜抄_～_Imperishable_Night..md" class="mw-redirect" title="东方永夜抄 ～ Imperishable Night.">东方永夜抄　～ Imperishable Night.</a></div></td></tr>
-<tr><td id="4" class="infoG"><b>04</b></td><td id="「スーペス告密」" colspan="2" class="title">「スーペス告密」<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?dub=Veto，hags&amp;fromwiki=SECRET_MlND_EP"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:48</td></tr><tr><td class="left"></td><td class="label">配音</td><td class="text" colspan="2"><a href="./Veto.md" title="Veto">Veto</a>，<a href="/index.php?title=hags&amp;action=edit&amp;redlink=1" class="new" title="hags（页面不存在）">hags</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?dub=Veto，hags&amp;fromwiki=SECRET_MlND_EP"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">初发布</td><td class="text" colspan="2"><a href="/SECRET_MIND_EP#4" title="SECRET MIND EP">「密告スペース」</a><div class="source"><a href="./SECRET_MIND_EP.md" title="SECRET MIND EP">SECRET MIND EP</a></div></td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">谈聊节目</td></tr></tbody></table>
-
+<table><tbody><tr><td id="1" class="infoRD"><b>01</b></td><td id="The_Hunter_／_Hunter_Affect" colspan="2" class="title"><a href="./歌词-The_Hunter_／_Hunter_Effect.md" title="歌词:The Hunter ／ Hunter Effect">The Hunter ／ Hunter Affect</a></td><td class="time">02:10</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Veto.md" title="Veto">Veto</a></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="./Veto.md" title="Veto">Veto</a></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="./Veto.md" title="Veto">Veto</a></td></tr><tr><td class="left"></td><td class="label">初发布</td><td class="text" colspan="2"><a href="./SECRET_MIND_EP.md#1" title="SECRET MIND EP">The Hunter ／ Hunter Effect</a><div class="source"><a href="./SECRET_MIND_EP.md" title="SECRET MIND EP">SECRET MIND EP</a></div></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./广重36号_～_Neo_Super-Express.md" class="mw-redirect" title="ヒロシゲ36号 ～ Neo Super-Express">ヒロシゲ36号　～ Neo Super-Express</a></div><div class="source"><a href="./卯酉东海道.md" class="mw-redirect" title="卯酉东海道 ～ Retrospective 53 minutes">卯酉东海道　～ Retrospective 53 minutes</a></div></td></tr>
+<tr><td id="2" class="infoRD"><b>02</b></td><td id="Shine_White_Snow_Boarding" colspan="2" class="title"><a href="./歌词-Tiny_Hawk_Pro_Skater.md" title="歌词:Tiny Hawk Pro Skater">Shine White Snow Boarding</a></td><td class="time">03:58</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Veto.md" title="Veto">Veto</a></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="./Veto.md" title="Veto">Veto</a></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="./Veto.md" title="Veto">Veto</a></td></tr><tr><td class="left"></td><td class="label">初发布</td><td class="text" colspan="2"><a href="./SECRET_MIND_EP.md#2" title="SECRET MIND EP">Tiny Hawk Pro Skater</a><div class="source"><a href="./SECRET_MIND_EP.md" title="SECRET MIND EP">SECRET MIND EP</a></div></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./死灵的夜樱.md" class="mw-redirect" title="死霊の夜桜">死霊の夜桜</a></div><div class="source"><a href="./东方神灵庙.md" class="mw-redirect" title="东方神灵庙 ～ Ten Desires.">东方神灵庙　～ Ten Desires.</a></div></td></tr>
+<tr><td id="3" class="infoRD"><b>03</b></td><td id="EXTREME_DODECA_SUPER_MOON" colspan="2" class="title"><a href="./歌词-EXTREME_DOUBLE_SUPER_MOON.md" title="歌词:EXTREME DOUBLE SUPER MOON">EXTREME DODECA SUPER MOON</a></td><td class="time">28:31</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Veto.md" title="Veto">Veto</a></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="./Veto.md" title="Veto">Veto</a></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="./Veto.md" title="Veto">Veto</a></td></tr><tr><td class="left"></td><td class="label">初发布</td><td class="text" colspan="2"><a href="./SECRET_MIND_EP.md#3" title="SECRET MIND EP">EXTREME DOUBLE SUPER MOON</a><div class="source"><a href="./SECRET_MIND_EP.md" title="SECRET MIND EP">SECRET MIND EP</a></div></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./飘上月球，不死之烟.md" class="mw-redirect" title="月まで届け、不死の煙">月まで届け、不死の煙</a></div><div class="source"><a href="./东方永夜抄.md" class="mw-redirect" title="东方永夜抄 ～ Imperishable Night.">东方永夜抄　～ Imperishable Night.</a></div></td></tr>
+<tr><td id="4" class="infoG"><b>04</b></td><td id="「スーペス告密」" colspan="2" class="title">「スーペス告密」</td><td class="time">03:48</td></tr><tr><td class="left"></td><td class="label">配音</td><td class="text" colspan="2"><a href="./Veto.md" title="Veto">Veto</a>，<a class="new" title="hags（页面不存在）">hags</a></td></tr><tr><td class="left"></td><td class="label">初发布</td><td class="text" colspan="2"><a href="./SECRET_MIND_EP.md#4" title="SECRET MIND EP">「密告スペース」</a><div class="source"><a href="./SECRET_MIND_EP.md" title="SECRET MIND EP">SECRET MIND EP</a></div></td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">谈聊节目</td></tr></tbody></table>
 
 
 ## 其他信息
+
 - 专辑名与[SECRET MIND EP](./SECRET_MIND_EP.md)只差了一个字母，MIND 的 I 在这张专辑里是小写的 L。
 
 
 ## 评论
-
-
-
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:Easterly_Stones封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\48\ns6%3AEasterly_Stones%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\48\ns6%3AEasterly_Stones%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 凸凹えんた～ていんめんとすたじお | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Easterly Stones](./Easterly_Stones.md)  
-该封面包含的角色：- [古明地恋](./古明地恋.md)
-
-
-
+- [Easterly Stones](./Easterly_Stones.md)该封面包含的角色：
+- [古明地恋](./古明地恋.md)
 
 
 ---

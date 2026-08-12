@@ -1,6 +1,6 @@
 # 文件:玉響-TAMAYURA-Vol._1封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9f\ns6%3A%E7%8E%89%E9%9F%BF-TAMAYURA-Vol%2E_1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9f\ns6%3A%E7%8E%89%E9%9F%BF-TAMAYURA-Vol%2E_1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 タシナミズム | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [玉響-TAMAYURA-Vol. 1](./玉響-TAMAYURA-Vol._1.md)  
-该封面包含的角色：- [藤原妹红](./藤原妹红.md)
+- [玉響-TAMAYURA-Vol. 1](./玉響-TAMAYURA-Vol._1.md)该封面包含的角色：
+- [藤原妹红](./藤原妹红.md)
 
   
-[Pixiv artwork ID: 98156874 (original size)](https://www.pixiv.net/artworks/98156874)
-  
-
-
-
-
+[Pixiv artwork ID: 98156874 (original size)](https://www.pixiv.net/artworks/98156874)  
 
 ---
 

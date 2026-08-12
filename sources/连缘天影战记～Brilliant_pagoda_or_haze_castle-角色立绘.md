@@ -1,11 +1,10 @@
 # 连缘天影战记～Brilliant_pagoda_or_haze_castle/角色立绘
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\fa\ns0%3A%E8%BF%9E%E7%BC%98%E5%A4%A9%E5%BD%B1%E6%88%98%E8%AE%B0%EF%BD%9EBrilliant_pagoda_or_haze_castle%2F%E8%A7%92%E8%89%B2%E7%AB%8B%E7%BB%98.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\fa\ns0%3A%E8%BF%9E%E7%BC%98%E5%A4%A9%E5%BD%B1%E6%88%98%E8%AE%B0%EF%BD%9EBrilliant_pagoda_or_haze_castle%2F%E8%A7%92%E8%89%B2%E7%AB%8B%E7%BB%98.html -->
 
 トリック・ノスタルジー | 待完成页面 | 连缘天影战记
 
 <center>
-
 <table>
 <tbody><tr>
 <td class="mbox-image"><div style="width: 52px;">
@@ -14,9 +13,8 @@
 </tr>
 </tbody></table>
 
-
 </center>
--  **本词条内容为[连缘天影战记～Brilliant pagoda or haze castle](./连缘天影战记～Brilliant_pagoda_or_haze_castle.md)的所有角色立绘** 
+- **本词条内容为[连缘天影战记～Brilliant pagoda or haze castle](./连缘天影战记～Brilliant_pagoda_or_haze_castle.md)的所有角色立绘**
 
 
 <table>
@@ -85,17 +83,17 @@
     <td><a href="./文件-鹀蒿雀（天影战记）.png.md" class="image"><img alt="鹀蒿雀（天影战记）.png" src="https://upload.thwiki.cc/thumb/a/a3/%E9%B9%80%E8%92%BF%E9%9B%80%EF%BC%88%E5%A4%A9%E5%BD%B1%E6%88%98%E8%AE%B0%EF%BC%89.png/200px-%E9%B9%80%E8%92%BF%E9%9B%80%EF%BC%88%E5%A4%A9%E5%BD%B1%E6%88%98%E8%AE%B0%EF%BC%89.png" decoding="async" loading="lazy" width="200" height="297" srcset="https://upload.thwiki.cc/a/a3/%E9%B9%80%E8%92%BF%E9%9B%80%EF%BC%88%E5%A4%A9%E5%BD%B1%E6%88%98%E8%AE%B0%EF%BC%89.png 1.5x" data-file-width="298" data-file-height="442"></a>
   </td></tr>
   <tr>
-    <th><a href="./国主雀巳（Hamee）.md" class="mw-redirect" title="国主雀巳（Hamee）">国主雀巳（Hamee）</a></th>
+    <th><a href="./国主雀巳.md" class="mw-redirect" title="国主雀巳（Hamee）">国主雀巳（Hamee）</a></th>
     <td><a href="./文件-国主雀巳（Hamee）（天影战记自机像素绘）.png.md" class="image"><img alt="国主雀巳（Hamee）（天影战记自机像素绘）.png" src="https://upload.thwiki.cc/e/e5/%E5%9B%BD%E4%B8%BB%E9%9B%80%E5%B7%B3%EF%BC%88Hamee%EF%BC%89%EF%BC%88%E5%A4%A9%E5%BD%B1%E6%88%98%E8%AE%B0%E8%87%AA%E6%9C%BA%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="90" height="160" data-file-width="27" data-file-height="48"></a></td>
     <td><a href="./文件-国主雀巳（Hamee）（天影战记）.png.md" class="image"><img alt="国主雀巳（Hamee）（天影战记）.png" src="https://upload.thwiki.cc/thumb/5/53/%E5%9B%BD%E4%B8%BB%E9%9B%80%E5%B7%B3%EF%BC%88Hamee%EF%BC%89%EF%BC%88%E5%A4%A9%E5%BD%B1%E6%88%98%E8%AE%B0%EF%BC%89.png/200px-%E5%9B%BD%E4%B8%BB%E9%9B%80%E5%B7%B3%EF%BC%88Hamee%EF%BC%89%EF%BC%88%E5%A4%A9%E5%BD%B1%E6%88%98%E8%AE%B0%EF%BC%89.png" decoding="async" loading="lazy" width="200" height="363" srcset="https://upload.thwiki.cc/5/53/%E5%9B%BD%E4%B8%BB%E9%9B%80%E5%B7%B3%EF%BC%88Hamee%EF%BC%89%EF%BC%88%E5%A4%A9%E5%BD%B1%E6%88%98%E8%AE%B0%EF%BC%89.png 1.5x" data-file-width="240" data-file-height="436"></a>
   </td></tr>
   <tr>
-    <th><a href="./国主雀巳（Ardey）.md" class="mw-redirect" title="国主雀巳（Ardey）">国主雀巳（Ardey）</a></th>
+    <th><a href="./国主雀巳.md" class="mw-redirect" title="国主雀巳（Ardey）">国主雀巳（Ardey）</a></th>
     <td><a href="./文件-国主雀巳（Hamee）（天影战记自机像素绘）.png.md" class="image"><img alt="国主雀巳（Hamee）（天影战记自机像素绘）.png" src="https://upload.thwiki.cc/e/e5/%E5%9B%BD%E4%B8%BB%E9%9B%80%E5%B7%B3%EF%BC%88Hamee%EF%BC%89%EF%BC%88%E5%A4%A9%E5%BD%B1%E6%88%98%E8%AE%B0%E8%87%AA%E6%9C%BA%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="90" height="160" data-file-width="27" data-file-height="48"></a></td>
     <td><a href="./文件-国主雀巳（Ardey）（天影战记）.png.md" class="image"><img alt="国主雀巳（Ardey）（天影战记）.png" src="https://upload.thwiki.cc/thumb/e/ee/%E5%9B%BD%E4%B8%BB%E9%9B%80%E5%B7%B3%EF%BC%88Ardey%EF%BC%89%EF%BC%88%E5%A4%A9%E5%BD%B1%E6%88%98%E8%AE%B0%EF%BC%89.png/200px-%E5%9B%BD%E4%B8%BB%E9%9B%80%E5%B7%B3%EF%BC%88Ardey%EF%BC%89%EF%BC%88%E5%A4%A9%E5%BD%B1%E6%88%98%E8%AE%B0%EF%BC%89.png" decoding="async" loading="lazy" width="200" height="202" srcset="https://upload.thwiki.cc/thumb/e/ee/%E5%9B%BD%E4%B8%BB%E9%9B%80%E5%B7%B3%EF%BC%88Ardey%EF%BC%89%EF%BC%88%E5%A4%A9%E5%BD%B1%E6%88%98%E8%AE%B0%EF%BC%89.png/300px-%E5%9B%BD%E4%B8%BB%E9%9B%80%E5%B7%B3%EF%BC%88Ardey%EF%BC%89%EF%BC%88%E5%A4%A9%E5%BD%B1%E6%88%98%E8%AE%B0%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/e/ee/%E5%9B%BD%E4%B8%BB%E9%9B%80%E5%B7%B3%EF%BC%88Ardey%EF%BC%89%EF%BC%88%E5%A4%A9%E5%BD%B1%E6%88%98%E8%AE%B0%EF%BC%89.png/400px-%E5%9B%BD%E4%B8%BB%E9%9B%80%E5%B7%B3%EF%BC%88Ardey%EF%BC%89%EF%BC%88%E5%A4%A9%E5%BD%B1%E6%88%98%E8%AE%B0%EF%BC%89.png 2x" data-file-width="499" data-file-height="505"></a>
   </td></tr>
   <tr>
-    <th><a href="./国主雀巳（Benny）.md" class="mw-redirect" title="国主雀巳（Benny）">国主雀巳（Benny）</a></th>
+    <th><a href="./国主雀巳.md" class="mw-redirect" title="国主雀巳（Benny）">国主雀巳（Benny）</a></th>
     <td><a href="./文件-国主雀巳（Hamee）（天影战记自机像素绘）.png.md" class="image"><img alt="国主雀巳（Hamee）（天影战记自机像素绘）.png" src="https://upload.thwiki.cc/e/e5/%E5%9B%BD%E4%B8%BB%E9%9B%80%E5%B7%B3%EF%BC%88Hamee%EF%BC%89%EF%BC%88%E5%A4%A9%E5%BD%B1%E6%88%98%E8%AE%B0%E8%87%AA%E6%9C%BA%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="90" height="160" data-file-width="27" data-file-height="48"></a></td>
     <td><a href="./文件-国主雀巳（Benny）（天影战记）.png.md" class="image"><img alt="国主雀巳（Benny）（天影战记）.png" src="https://upload.thwiki.cc/thumb/5/5d/%E5%9B%BD%E4%B8%BB%E9%9B%80%E5%B7%B3%EF%BC%88Benny%EF%BC%89%EF%BC%88%E5%A4%A9%E5%BD%B1%E6%88%98%E8%AE%B0%EF%BC%89.png/200px-%E5%9B%BD%E4%B8%BB%E9%9B%80%E5%B7%B3%EF%BC%88Benny%EF%BC%89%EF%BC%88%E5%A4%A9%E5%BD%B1%E6%88%98%E8%AE%B0%EF%BC%89.png" decoding="async" loading="lazy" width="200" height="288" srcset="https://upload.thwiki.cc/thumb/5/5d/%E5%9B%BD%E4%B8%BB%E9%9B%80%E5%B7%B3%EF%BC%88Benny%EF%BC%89%EF%BC%88%E5%A4%A9%E5%BD%B1%E6%88%98%E8%AE%B0%EF%BC%89.png/300px-%E5%9B%BD%E4%B8%BB%E9%9B%80%E5%B7%B3%EF%BC%88Benny%EF%BC%89%EF%BC%88%E5%A4%A9%E5%BD%B1%E6%88%98%E8%AE%B0%EF%BC%89.png 1.5x, https://upload.thwiki.cc/5/5d/%E5%9B%BD%E4%B8%BB%E9%9B%80%E5%B7%B3%EF%BC%88Benny%EF%BC%89%EF%BC%88%E5%A4%A9%E5%BD%B1%E6%88%98%E8%AE%B0%EF%BC%89.png 2x" data-file-width="370" data-file-height="533"></a>
   </td></tr>
@@ -279,10 +277,6 @@
     <td><a href="./文件-阐里鹤喰（无现里敌机像素绘）.png.md" class="image"><img alt="阐里鹤喰（无现里敌机像素绘）.png" src="https://upload.thwiki.cc/2/2b/%E9%98%90%E9%87%8C%E9%B9%A4%E5%96%B0%EF%BC%88%E6%97%A0%E7%8E%B0%E9%87%8C%E6%95%8C%E6%9C%BA%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="90" height="136" data-file-width="64" data-file-height="97"></a></td>
     <td><a href="./文件-阐里鹤喰（天影战记）.png.md" class="image"><img alt="阐里鹤喰（天影战记）.png" src="https://upload.thwiki.cc/thumb/8/85/%E9%98%90%E9%87%8C%E9%B9%A4%E5%96%B0%EF%BC%88%E5%A4%A9%E5%BD%B1%E6%88%98%E8%AE%B0%EF%BC%89.png/190px-%E9%98%90%E9%87%8C%E9%B9%A4%E5%96%B0%EF%BC%88%E5%A4%A9%E5%BD%B1%E6%88%98%E8%AE%B0%EF%BC%89.png" decoding="async" loading="lazy" width="190" height="335" srcset="https://upload.thwiki.cc/thumb/8/85/%E9%98%90%E9%87%8C%E9%B9%A4%E5%96%B0%EF%BC%88%E5%A4%A9%E5%BD%B1%E6%88%98%E8%AE%B0%EF%BC%89.png/285px-%E9%98%90%E9%87%8C%E9%B9%A4%E5%96%B0%EF%BC%88%E5%A4%A9%E5%BD%B1%E6%88%98%E8%AE%B0%EF%BC%89.png 1.5x, https://upload.thwiki.cc/8/85/%E9%98%90%E9%87%8C%E9%B9%A4%E5%96%B0%EF%BC%88%E5%A4%A9%E5%BD%B1%E6%88%98%E8%AE%B0%EF%BC%89.png 2x" data-file-width="290" data-file-height="512"></a></td>
   </tr></tbody></table>
-
-
-
-
 
 
 ---

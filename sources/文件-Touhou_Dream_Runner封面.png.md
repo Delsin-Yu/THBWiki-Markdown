@@ -1,6 +1,6 @@
 # 文件:Touhou_Dream_Runner封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e4\ns6%3ATouhou_Dream_Runner%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e4\ns6%3ATouhou_Dream_Runner%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 THDR_Dev._Dept. | 封面图片 | 软件封面
 
@@ -10,16 +10,11 @@ THDR_Dev._Dept. | 封面图片 | 软件封面
 使用了本文件作封面图片的作品：
   
 
-- [Touhou Dream Runner](./Touhou_Dream_Runner.md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)
+- [Touhou Dream Runner](./Touhou_Dream_Runner.md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
 
   
-源地址：[direct image link](https://img.itch.zone/aW1nLzg2OTkxNjkucG5n/315x250#c/y+9PG/.png), [source page](https://itch.io/jam/touhou-jam-8/rate/1491182)
-  
-
-
-
-
+源地址：[direct image link](https://img.itch.zone/aW1nLzg2OTkxNjkucG5n/315x250#c/y+9PG/.png), [source page](https://itch.io/jam/touhou-jam-8/rate/1491182)  
 
 ---
 

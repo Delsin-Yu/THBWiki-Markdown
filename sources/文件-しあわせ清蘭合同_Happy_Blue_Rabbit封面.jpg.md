@@ -1,6 +1,6 @@
 # 文件:しあわせ清蘭合同_Happy_Blue_Rabbit封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\39\ns6%3A%E3%81%97%E3%81%82%E3%82%8F%E3%81%9B%E6%B8%85%E8%98%AD%E5%90%88%E5%90%8C_Happy_Blue_Rabbit%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\39\ns6%3A%E3%81%97%E3%81%82%E3%82%8F%E3%81%9B%E6%B8%85%E8%98%AD%E5%90%88%E5%90%8C_Happy_Blue_Rabbit%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 海之天切
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [しあわせ清蘭合同 Happy Blue Rabbit](./しあわせ清蘭合同_Happy_Blue_Rabbit.md)  
-该封面包含的角色：- [清兰](./清兰.md)- [铃瑚](./铃瑚.md)
-
-
-
+- [しあわせ清蘭合同 Happy Blue Rabbit](./しあわせ清蘭合同_Happy_Blue_Rabbit.md)该封面包含的角色：
+- [清兰](./清兰.md)
+- [铃瑚](./铃瑚.md)
 
 
 ---

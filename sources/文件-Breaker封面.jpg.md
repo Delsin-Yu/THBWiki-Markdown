@@ -1,6 +1,6 @@
 # 文件:Breaker封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9c\ns6%3ABreaker%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9c\ns6%3ABreaker%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Reset_All_Controllers | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Reset_All_Controllers | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Breaker](./Breaker.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [Breaker](./Breaker.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
   
-源地址：[[1]](https://twitter.com/adazakura_midi/status/943425325479763968)
-  
-
-
-
-
+源地址：[\[1\]](https://twitter.com/adazakura_midi/status/943425325479763968)  
 
 ---
 

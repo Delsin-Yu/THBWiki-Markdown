@@ -1,6 +1,6 @@
 # 文件:Metal_Fantasy_Apocalypse_II_-Regeneration-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e4\ns6%3AMetal_Fantasy_Apocalypse_II_-Regeneration-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e4\ns6%3AMetal_Fantasy_Apocalypse_II_-Regeneration-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 惰音ライフ
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Metal Fantasy Apocalypse II -Regeneration-](./Metal_Fantasy_Apocalypse_II_-Regeneration-.md)  
-该封面包含的角色：- [小野塚小町](./小野塚小町.md)
-
-
-
+- [Metal Fantasy Apocalypse II -Regeneration-](./Metal_Fantasy_Apocalypse_II_-Regeneration-.md)该封面包含的角色：
+- [小野塚小町](./小野塚小町.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:UNION_Ⅲ封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7d\ns6%3AUNION_%E2%85%A2%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7d\ns6%3AUNION_%E2%85%A2%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Sound_Refil | 专辑封面 | 封面图片
 
@@ -10,16 +10,12 @@ Sound_Refil | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [UNION Ⅲ](./UNION_Ⅲ.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
+- [UNION Ⅲ](./UNION_Ⅲ.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
   
-源地址：[图片链接](https://booth.pximg.net/001009b9-6c4d-4cda-a509-9901ffa7a178/i/1706250/9c4c1be4-beba-47f6-bb84-6a37483074cc.png) [BOOTH](https://booth.pm/zh-cn/items/1706250)
-  
-
-
-
-
+源地址：[图片链接](https://booth.pximg.net/001009b9-6c4d-4cda-a509-9901ffa7a178/i/1706250/9c4c1be4-beba-47f6-bb84-6a37483074cc.png) [BOOTH](https://booth.pm/zh-cn/items/1706250)  
 
 ---
 

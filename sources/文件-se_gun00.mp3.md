@@ -1,12 +1,8 @@
 # 文件:se_gun00.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\95\ns6%3Ase_gun00%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\95\ns6%3Ase_gun00%2Emp3.html -->
 
 游戏音效
-
-
-
-
 
 
 ---

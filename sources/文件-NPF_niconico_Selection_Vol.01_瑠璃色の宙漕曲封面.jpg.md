@@ -1,6 +1,6 @@
 # 文件:NPF_niconico_Selection_Vol.01_瑠璃色の宙漕曲封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3b\ns6%3ANPF_niconico_Selection_Vol%2E01_%E7%91%A0%E7%92%83%E8%89%B2%E3%81%AE%E5%AE%99%E6%BC%95%E6%9B%B2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3b\ns6%3ANPF_niconico_Selection_Vol%2E01_%E7%91%A0%E7%92%83%E8%89%B2%E3%81%AE%E5%AE%99%E6%BC%95%E6%9B%B2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 北方幻視林_～_Northern_Primeval_Forest | 封面图片
 
@@ -11,9 +11,6 @@
   
 
 - [NPF niconico Selection Vol.01 瑠璃色の宙漕曲](./NPF_niconico_Selection_Vol.01_瑠璃色の宙漕曲.md)
-
-
-
 
 
 ---

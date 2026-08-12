@@ -1,12 +1,8 @@
 # 文件:Hallucinative_Abyssbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\03\ns6%3AHallucinative_Abyssbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\03\ns6%3AHallucinative_Abyssbanner%2Ejpg.html -->
 
 Hallucinative_Abyss | 社团LOGO
-
-
-
-
 
 
 ---

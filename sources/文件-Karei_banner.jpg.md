@@ -1,16 +1,12 @@
 # 文件:Karei_banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\02\ns6%3AKarei_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\02\ns6%3AKarei_banner%2Ejpg.html -->
 
 Karei_&_ooo | 社团LOGO
 
   
 Karei_banner
   
-
-
-
-
 
 ---
 

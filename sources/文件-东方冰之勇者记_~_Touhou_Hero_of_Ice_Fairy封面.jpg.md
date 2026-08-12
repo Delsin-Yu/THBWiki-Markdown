@@ -1,6 +1,6 @@
 # 文件:东方冰之勇者记_~_Touhou_Hero_of_Ice_Fairy封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5c\ns6%3A%E4%B8%9C%E6%96%B9%E5%86%B0%E4%B9%8B%E5%8B%87%E8%80%85%E8%AE%B0_%7E_Touhou_Hero_of_Ice_Fairy%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5c\ns6%3A%E4%B8%9C%E6%96%B9%E5%86%B0%E4%B9%8B%E5%8B%87%E8%80%85%E8%AE%B0_%7E_Touhou_Hero_of_Ice_Fairy%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 GAMEPULSE_游戏脉冲 | 封面图片 | 软件封面
 
@@ -10,16 +10,11 @@ GAMEPULSE_游戏脉冲 | 封面图片 | 软件封面
 使用了本文件作封面图片的作品：
   
 
-- [东方冰之勇者记 ~ Touhou Hero of Ice Fairy](./东方冰之勇者记_~_Touhou_Hero_of_Ice_Fairy.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)
+- [东方冰之勇者记 ~ Touhou Hero of Ice Fairy](./东方冰之勇者记_~_Touhou_Hero_of_Ice_Fairy.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
 
   
-[[1]](https://cdn.akamai.steamstatic.com/steam/apps/1955830/header.jpg?t=1677250036)
-  
-
-
-
-
+[\[1\]](https://cdn.akamai.steamstatic.com/steam/apps/1955830/header.jpg?t=1677250036)  
 
 ---
 

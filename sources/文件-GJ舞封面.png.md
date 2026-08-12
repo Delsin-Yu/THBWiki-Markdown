@@ -1,6 +1,6 @@
 # 文件:GJ舞封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bd\ns6%3AGJ%E8%88%9E%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bd\ns6%3AGJ%E8%88%9E%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 中途半端機構 | 同人志封面 | 封面图片
 
@@ -10,11 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [GJ舞](./GJ舞.md)  
-该封面包含的角色：- [蕾蒂·霍瓦特洛克](./蕾蒂·霍瓦特洛克.md)- [米斯蒂娅·萝蕾拉](./米斯蒂娅·萝蕾拉.md)- [射命丸文](./射命丸文.md)- [风见幽香](./风见幽香.md)
-
-
-
+- [GJ舞](./GJ舞.md)该封面包含的角色：
+- [蕾蒂·霍瓦特洛克](./蕾蒂·霍瓦特洛克.md)
+- [米斯蒂娅·萝蕾拉](./米斯蒂娅·萝蕾拉.md)
+- [射命丸文](./射命丸文.md)
+- [风见幽香](./风见幽香.md)
 
 
 ---

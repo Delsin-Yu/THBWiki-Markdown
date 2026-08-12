@@ -1,12 +1,8 @@
 # 文件:舍符「Cotton_Glacier」.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cd\ns6%3A%E8%88%8D%E7%AC%A6%E3%80%8CCotton_Glacier%E3%80%8D%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cd\ns6%3A%E8%88%8D%E7%AC%A6%E3%80%8CCotton_Glacier%E3%80%8D%2Ejpg.html -->
 
 東方邪星章製作チーム
-
-
-
-
 
 
 ---

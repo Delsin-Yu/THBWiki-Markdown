@@ -1,6 +1,6 @@
 # 文件:Time_Again封面.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6c\ns6%3ATime_Again%E5%B0%81%E9%9D%A2%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6c\ns6%3ATime_Again%E5%B0%81%E9%9D%A2%2Egif.html -->
 
 AIR_WINDOW | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ AIR_WINDOW | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Time Again](./Time_Again.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)
-
-
-
+- [Time Again](./Time_Again.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
 
 
 ---

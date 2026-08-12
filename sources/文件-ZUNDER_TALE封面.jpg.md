@@ -1,6 +1,6 @@
 # 文件:ZUNDER_TALE封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\51\ns6%3AZUNDER_TALE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\51\ns6%3AZUNDER_TALE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ナナシノ十字星団 | 同人志封面 | 封面图片
 
@@ -10,16 +10,16 @@
 使用了本文件作封面图片的作品：
   
 
-- [ZUNDER TALE](./ZUNDER_TALE.md)  
-该封面包含的角色：- [红美铃](./红美铃.md)- [博丽灵梦](./博丽灵梦.md)- [魂魄妖梦](./魂魄妖梦.md)- [多多良小伞](./多多良小伞.md)- [雾雨魔理沙](./雾雨魔理沙.md)- 原创角色 (未找到链接)
+- [ZUNDER TALE](./ZUNDER_TALE.md)该封面包含的角色：
+- [红美铃](./红美铃.md)
+- [博丽灵梦](./博丽灵梦.md)
+- [魂魄妖梦](./魂魄妖梦.md)
+- [多多良小伞](./多多良小伞.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
+- 原创角色 (未找到链接)
 
   
-源地址：[direct image link (original uploaded image)](https://pbs.twimg.com/media/Ew1WsY9VoAIIeST?format=jpg&amp;name=orig), [source tweet](https://twitter.com/nanasi3000/status/1372848943634079745)
-  
-
-
-
-
+源地址：[direct image link (original uploaded image)](https://pbs.twimg.com/media/Ew1WsY9VoAIIeST?format=jpg&name=orig), [source tweet](https://twitter.com/nanasi3000/status/1372848943634079745)  
 
 ---
 

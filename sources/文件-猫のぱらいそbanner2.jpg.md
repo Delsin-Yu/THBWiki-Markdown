@@ -1,12 +1,8 @@
 # 文件:猫のぱらいそbanner2.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\aa\ns6%3A%E7%8C%AB%E3%81%AE%E3%81%B1%E3%82%89%E3%81%84%E3%81%9Dbanner2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\aa\ns6%3A%E7%8C%AB%E3%81%AE%E3%81%B1%E3%82%89%E3%81%84%E3%81%9Dbanner2%2Ejpg.html -->
 
 猫のぱらいそ | 社团LOGO
-
-
-
-
 
 
 ---

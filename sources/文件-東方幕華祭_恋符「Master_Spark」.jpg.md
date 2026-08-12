@@ -1,16 +1,12 @@
 # 文件:東方幕華祭_恋符「Master_Spark」.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\89\ns6%3A%E6%9D%B1%E6%96%B9%E5%B9%95%E8%8F%AF%E7%A5%AD_%E6%81%8B%E7%AC%A6%E3%80%8CMaster_Spark%E3%80%8D%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\89\ns6%3A%E6%9D%B1%E6%96%B9%E5%B9%95%E8%8F%AF%E7%A5%AD_%E6%81%8B%E7%AC%A6%E3%80%8CMaster_Spark%E3%80%8D%2Ejpg.html -->
 
 东方幕华祭制作组
 
   
 東方幕華祭 ～ Fantastic Danmaku Festival 中 雾雨魔理沙 自机符卡
   
-
-
-
-
 
 ---
 

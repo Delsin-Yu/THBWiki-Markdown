@@ -1,6 +1,6 @@
 # 文件:A_Color_of_Minds封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f2\ns6%3AA_Color_of_Minds%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f2\ns6%3AA_Color_of_Minds%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Innocence_Records | 专辑封面 | 封面图片
 
@@ -8,11 +8,10 @@ Innocence_Records | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [A Color of Minds](./A_Color_of_Minds.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [舞](./舞.md)
-
-
-
+- [A Color of Minds](./A_Color_of_Minds.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [舞](./舞.md)
 
 
 ---

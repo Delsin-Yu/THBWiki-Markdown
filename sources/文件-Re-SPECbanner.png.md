@@ -1,16 +1,11 @@
 # 文件:Re-SPECbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0d\ns6%3ARe-SPECbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0d\ns6%3ARe-SPECbanner%2Epng.html -->
 
 Re：SPEC | 社团LOGO
 
   
-源地址：[[1]](http://kbwnk.net/circle.htm)
-  
-
-
-
-
+源地址：[\[1\]](http://kbwnk.net/circle.htm)  
 
 ---
 

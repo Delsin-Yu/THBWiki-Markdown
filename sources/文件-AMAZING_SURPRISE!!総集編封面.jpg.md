@@ -1,6 +1,6 @@
 # 文件:AMAZING_SURPRISE!!総集編封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2f\ns6%3AAMAZING_SURPRISE%21%21%E7%B7%8F%E9%9B%86%E7%B7%A8%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2f\ns6%3AAMAZING_SURPRISE%21%21%E7%B7%8F%E9%9B%86%E7%B7%A8%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 はちみつぷりん | 同人志封面 | 封面图片
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [AMAZING SURPRISE!!総集編](./AMAZING_SURPRISE!!総集編.md)  
-该封面包含的角色：- [多多良小伞](./多多良小伞.md)- [赤蛮奇](./赤蛮奇.md)
-
-
-
+- [AMAZING SURPRISE!!総集編](./AMAZING_SURPRISE!!総集編.md)该封面包含的角色：
+- [多多良小伞](./多多良小伞.md)
+- [赤蛮奇](./赤蛮奇.md)
 
 
 ---

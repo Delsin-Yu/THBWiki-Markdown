@@ -1,6 +1,6 @@
 # 文件:東方月見奏_-demo_ver.-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\38\ns6%3A%E6%9D%B1%E6%96%B9%E6%9C%88%E8%A6%8B%E5%A5%8F_-demo_ver%2E-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\38\ns6%3A%E6%9D%B1%E6%96%B9%E6%9C%88%E8%A6%8B%E5%A5%8F_-demo_ver%2E-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ロクプラス | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方月見奏 -demo ver.-](./東方月見奏_-demo_ver.-.md)  
-该封面包含的角色：- [因幡帝](./因幡帝.md)- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
-
-
-
+- [東方月見奏 -demo ver.-](./東方月見奏_-demo_ver.-.md)该封面包含的角色：
+- [因幡帝](./因幡帝.md)
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
 
 
 ---

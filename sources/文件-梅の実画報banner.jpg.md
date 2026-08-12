@@ -1,12 +1,8 @@
 # 文件:梅の実画報banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\81\ns6%3A%E6%A2%85%E3%81%AE%E5%AE%9F%E7%94%BB%E5%A0%B1banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\81\ns6%3A%E6%A2%85%E3%81%AE%E5%AE%9F%E7%94%BB%E5%A0%B1banner%2Ejpg.html -->
 
 梅の実画報 | 社团LOGO
-
-
-
-
 
 
 ---

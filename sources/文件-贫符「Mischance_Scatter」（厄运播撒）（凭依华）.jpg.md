@@ -1,12 +1,8 @@
 # 文件:贫符「Mischance_Scatter」（厄运播撒）（凭依华）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\17\ns6%3A%E8%B4%AB%E7%AC%A6%E3%80%8CMischance_Scatter%E3%80%8D%EF%BC%88%E5%8E%84%E8%BF%90%E6%92%AD%E6%92%92%EF%BC%89%EF%BC%88%E5%87%AD%E4%BE%9D%E5%8D%8E%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\17\ns6%3A%E8%B4%AB%E7%AC%A6%E3%80%8CMischance_Scatter%E3%80%8D%EF%BC%88%E5%8E%84%E8%BF%90%E6%92%AD%E6%92%92%EF%BC%89%EF%BC%88%E5%87%AD%E4%BE%9D%E5%8D%8E%EF%BC%89%2Ejpg.html -->
 
 东方凭依华 | 依神紫苑 | 八云紫 | 敌机符卡
-
-
-
-
 
 
 ---

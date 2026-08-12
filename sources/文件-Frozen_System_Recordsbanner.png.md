@@ -1,14 +1,11 @@
 # 文件:Frozen_System_Recordsbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\29\ns6%3AFrozen_System_Recordsbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\29\ns6%3AFrozen_System_Recordsbanner%2Epng.html -->
 
 Frozen_System_Records | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

@@ -1,16 +1,12 @@
 # 模板:SC
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\3\32\ns10%3ASC.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\3\32\ns10%3ASC.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

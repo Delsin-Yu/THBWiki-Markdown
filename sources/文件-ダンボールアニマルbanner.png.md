@@ -1,14 +1,11 @@
 # 文件:ダンボールアニマルbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b4\ns6%3A%E3%83%80%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%A2%E3%83%8B%E3%83%9E%E3%83%ABbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b4\ns6%3A%E3%83%80%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%A2%E3%83%8B%E3%83%9E%E3%83%ABbanner%2Epng.html -->
 
 ダンボールアニマル | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

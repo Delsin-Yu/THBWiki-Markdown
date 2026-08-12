@@ -1,12 +1,8 @@
 # 文件:little_white_snow_banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3a\ns6%3Alittle_white_snow_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3a\ns6%3Alittle_white_snow_banner%2Ejpg.html -->
 
 little_white_snow | 社团LOGO
-
-
-
-
 
 
 ---

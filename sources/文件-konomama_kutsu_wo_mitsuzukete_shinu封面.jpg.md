@@ -1,6 +1,6 @@
 # 文件:konomama_kutsu_wo_mitsuzukete_shinu封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fb\ns6%3Akonomama_kutsu_wo_mitsuzukete_shinu%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fb\ns6%3Akonomama_kutsu_wo_mitsuzukete_shinu%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 モノクロスタジオ | 专辑封面 | 封面图片
 
@@ -11,12 +11,7 @@
 - [konomama kutsu wo mitsuzukete shinu](./konomama_kutsu_wo_mitsuzukete_shinu.md)
 
   
-源地址：[direct image link (original size)](https://i1.sndcdn.com/avatars-000002844267-zj6d7a-original.jpg), [source page (Soundcloud)](https://soundcloud.com/39ame/zdowxlliy0b8)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://i1.sndcdn.com/avatars-000002844267-zj6d7a-original.jpg), [source page (Soundcloud)](https://soundcloud.com/39ame/zdowxlliy0b8)  
 
 ---
 

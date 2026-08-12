@@ -1,16 +1,11 @@
 # 文件:Cineraria_Studiologo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\ff\ns6%3ACineraria_Studiologo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\ff\ns6%3ACineraria_Studiologo%2Epng.html -->
 
 Cineraria_Studio | 社团LOGO
 
   
-源地址：[[1]](http://cineraria-studio.com/wp/wp-content/uploads/2014/10/csnewlogotextbk2-300x71.png)
-  
-
-
-
-
+源地址：[\[1\]](http://cineraria-studio.com/wp/wp-content/uploads/2014/10/csnewlogotextbk2-300x71.png)  
 
 ---
 

@@ -1,12 +1,8 @@
 # 文件:GoM_01.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\99\ns6%3AGoM_01%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\99\ns6%3AGoM_01%2Emp3.html -->
 
 原曲MP3 | 魔法使的忧郁 | 魔理沙的魔法书
-
-
-
-
 
 
 ---

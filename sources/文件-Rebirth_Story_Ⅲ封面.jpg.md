@@ -1,6 +1,6 @@
 # 文件:Rebirth_Story_Ⅲ封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0a\ns6%3ARebirth_Story_%E2%85%A2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0a\ns6%3ARebirth_Story_%E2%85%A2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 FELT | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ FELT | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Rebirth Story Ⅲ](./Rebirth_Story_Ⅲ.md)  
-该封面包含的角色：- [秦心](./秦心.md)
+- [Rebirth Story Ⅲ](./Rebirth_Story_Ⅲ.md)该封面包含的角色：
+- [秦心](./秦心.md)
 
   
-源地址：[[1]](http://feltmusic.net/FELT019/i/jacket.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://feltmusic.net/FELT019/i/jacket.jpg)  
 
 ---
 

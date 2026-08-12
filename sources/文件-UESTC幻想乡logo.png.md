@@ -1,12 +1,8 @@
 # 文件:UESTC幻想乡logo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\41\ns6%3AUESTC%E5%B9%BB%E6%83%B3%E4%B9%A1logo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\41\ns6%3AUESTC%E5%B9%BB%E6%83%B3%E4%B9%A1logo%2Epng.html -->
 
 UESTC幻想乡 | 社团LOGO
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:ベックマンのケーナ～東方編_vol_1～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\39\ns6%3A%E3%83%99%E3%83%83%E3%82%AF%E3%83%9E%E3%83%B3%E3%81%AE%E3%82%B1%E3%83%BC%E3%83%8A%EF%BD%9E%E6%9D%B1%E6%96%B9%E7%B7%A8_vol_1%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\39\ns6%3A%E3%83%99%E3%83%83%E3%82%AF%E3%83%9E%E3%83%B3%E3%81%AE%E3%82%B1%E3%83%BC%E3%83%8A%EF%BD%9E%E6%9D%B1%E6%96%B9%E7%B7%A8_vol_1%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ベックマンの廃屋 | 专辑封面 | 封面图片
 
@@ -11,12 +11,7 @@
 - [ベックマンのケーナ～東方編 vol 1～](./ベックマンのケーナ～東方編_vol_1～.md)
 
   
-源地址：[[1]](https://web.archive.org/web/20120730132117im_/http://music.geocities.jp/balsa_perdida/haioku/toho1.JPG)
-  
-
-
-
-
+源地址：[\[1\]](https://web.archive.org/web/20120730132117im_/http://music.geocities.jp/balsa_perdida/haioku/toho1.JPG)  
 
 ---
 

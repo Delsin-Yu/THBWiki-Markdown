@@ -1,16 +1,11 @@
 # 文件:SAVE_THE_QUEENbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fb\ns6%3ASAVE_THE_QUEENbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fb\ns6%3ASAVE_THE_QUEENbanner%2Ejpg.html -->
 
 SAVE_THE_QUEEN | 社团LOGO
 
   
-源地址: [[1]](https://web.archive.org/web/20130806230318/http://savethequeen.ninja-web.net/img/HP3.jpg)
-  
-
-
-
-
+源地址: [\[1\]](https://web.archive.org/web/20130806230318/http://savethequeen.ninja-web.net/img/HP3.jpg)  
 
 ---
 

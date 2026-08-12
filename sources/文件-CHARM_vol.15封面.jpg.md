@@ -1,6 +1,6 @@
 # 文件:CHARM_vol.15封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9d\ns6%3ACHARM_vol%2E15%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9d\ns6%3ACHARM_vol%2E15%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 フミンバイン | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [CHARM vol.15](./CHARM_vol.15.md)  
-该封面包含的角色：- [橙](./橙.md)
-
-
-
+- [CHARM vol.15](./CHARM_vol.15.md)该封面包含的角色：
+- [橙](./橙.md)
 
 
 ---

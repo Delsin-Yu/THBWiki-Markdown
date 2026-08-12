@@ -1,18 +1,13 @@
 # 文件:inuyasis.banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3f\ns6%3Ainuyasis%2Ebanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3f\ns6%3Ainuyasis%2Ebanner%2Ejpg.html -->
 
 inuyasis. | 社团LOGO
 
 
 ## 摘要
   
-源地址：[direct image link](http://inuyasis.web.fc2.com/bannar1.jpg), [source page](http://inuyasis.web.fc2.com/)
-  
-
-
-
-
+源地址：[direct image link](http://inuyasis.web.fc2.com/bannar1.jpg), [source page](http://inuyasis.web.fc2.com/)  
 
 ---
 

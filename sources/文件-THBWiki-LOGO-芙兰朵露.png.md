@@ -1,12 +1,8 @@
 # 文件:THBWiki-LOGO-芙兰朵露.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3d\ns6%3ATHBWiki-LOGO-%E8%8A%99%E5%85%B0%E6%9C%B5%E9%9C%B2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3d\ns6%3ATHBWiki-LOGO-%E8%8A%99%E5%85%B0%E6%9C%B5%E9%9C%B2%2Epng.html -->
 
 THBWiki | Wiki词条分类用图
-
-
-
-
 
 
 ---

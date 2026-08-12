@@ -1,6 +1,6 @@
 # 文件:闇深祭_～darkness_illusion～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a3\ns6%3A%E9%97%87%E6%B7%B1%E7%A5%AD_%EF%BD%9Edarkness_illusion%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a3\ns6%3A%E9%97%87%E6%B7%B1%E7%A5%AD_%EF%BD%9Edarkness_illusion%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Kota-rocK | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ Kota-rocK | 专辑封面 | 封面图片
   
 
 - [闇深祭 ～darkness illusion～](./闇深祭_～darkness_illusion～.md)
-
-
-
 
 
 ---

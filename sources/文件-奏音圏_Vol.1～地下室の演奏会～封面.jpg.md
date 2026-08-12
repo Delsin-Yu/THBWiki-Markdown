@@ -1,6 +1,6 @@
 # 文件:奏音圏_Vol.1～地下室の演奏会～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\60\ns6%3A%E5%A5%8F%E9%9F%B3%E5%9C%8F_Vol%2E1%EF%BD%9E%E5%9C%B0%E4%B8%8B%E5%AE%A4%E3%81%AE%E6%BC%94%E5%A5%8F%E4%BC%9A%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\60\ns6%3A%E5%A5%8F%E9%9F%B3%E5%9C%8F_Vol%2E1%EF%BD%9E%E5%9C%B0%E4%B8%8B%E5%AE%A4%E3%81%AE%E6%BC%94%E5%A5%8F%E4%BC%9A%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 大東亜研 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [奏音圏 Vol.1～地下室の演奏会～](./奏音圏_Vol.1～地下室の演奏会～.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
-
-
-
+- [奏音圏 Vol.1～地下室の演奏会～](./奏音圏_Vol.1～地下室の演奏会～.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
 
 ---

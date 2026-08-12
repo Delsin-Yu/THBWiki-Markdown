@@ -1,6 +1,6 @@
 # 文件:C91東方MP3♡HS封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c7\ns6%3AC91%E6%9D%B1%E6%96%B9MP3%E2%99%A1HS%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c7\ns6%3AC91%E6%9D%B1%E6%96%B9MP3%E2%99%A1HS%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ほりっくさーびす | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@
   
 
 - [C91東方MP3♡HS](./C91東方MP3♡HS.md)
-
-
-
 
 
 ---

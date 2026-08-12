@@ -1,53 +1,41 @@
 # 机械马戏团_～_Reverie
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\4a\ns0%3A%E6%9C%BA%E6%A2%B0%E9%A9%AC%E6%88%8F%E5%9B%A2_%EF%BD%9E_Reverie.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\4a\ns0%3A%E6%9C%BA%E6%A2%B0%E9%A9%AC%E6%88%8F%E5%9B%A2_%EF%BD%9E_Reverie.html -->
 
 由 ZUN 创作的官方曲目，原名 機械サーカス　～ Reverie
 
 本页是关于东方Project  
- **原作音乐** 的词条
+**原作音乐**的词条
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 出现作品](#出现作品)
 - [3 音乐文件](#音乐文件)
-
   - [3.1 秋霜玉](#秋霜玉)
   - [3.2 东方幻想的音乐](#东方幻想的音乐)
   - [3.3 蓬莱人形](#蓬莱人形)
 
 
-
 - [4 说明文本](#说明文本)
-
   - [4.1 秋霜玉](#秋霜玉_2)
-
     - [4.1.1 Music Room](#Music_Room)
     - [4.1.2 创曲幻想](#创曲幻想)
 
 
-
   - [4.2 东方幻想的音乐](#东方幻想的音乐_2)
-
     - [4.2.1 秋霜玉](#秋霜玉_3)
-
 
 
   - [4.3 东方文花帖（书籍）](#东方文花帖（书籍）)
 
 
-
 - [5 其他资料](#其他资料)
-
   - [5.1 乐理资讯](#乐理资讯)
   - [5.2 分析考据](#分析考据)
   - [5.3 二次同人数据](#二次同人数据)
 
 
-
 - [6 注释](#注释)
-
-
 
 
 ## 基本信息
@@ -65,11 +53,11 @@
 
 
 ## 音乐文件
+
 ### 秋霜玉
   
 MP3由Roland SC-88Pro 实机录制。官方只发布MIDI而未发布MP3，故音轨长度以从游戏中提取的原MIDI文件为准。
   
-
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td><a href="./文件-sh01_09.mid.md" title="文件:sh01 09.mid">sh01_09.mid</a></td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-SE01_09.mp3.md" title="文件:SE01 09.mp3">SE01_09.mp3</a><br><audio src="https://upload.thwiki.cc/a/a8/SE01_09.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>MUSIC\DATA0008（MIDI）</td></tr><tr><td><b>音轨时长</b></td><td>3:50</td></tr></tbody></table>
 
@@ -78,7 +66,6 @@ MP3由Roland SC-88Pro 实机录制。官方只发布MIDI而未发布MP3，故音
   
 MP3由Roland SC-88Pro 实机录制。官方只发布MIDI而未发布MP3，故音轨长度以原MIDI文件为准。
   
-
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td><a href="./文件-ssg_09.mid.md" title="文件:ssg 09.mid">ssg_09.mid</a></td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-ssg_09.mp3.md" title="文件:ssg 09.mp3">ssg_09.mp3</a><br><audio src="https://upload.thwiki.cc/4/4a/ssg_09.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td><a rel="nofollow" class="external free" href="http://www16.big.or.jp/~zun/html/music_old.html">http://www16.big.or.jp/~zun/html/music_old.html</a></td></tr><tr><td><b>音轨时长</b></td><td>3:28</td></tr></tbody></table>
 
@@ -89,9 +76,12 @@ MP3由Roland SC-88Pro 实机录制。官方只发布MIDI而未发布MP3，故音
 
 
 ## 说明文本
+
 ### 秋霜玉
+
 #### Music Room
-- Music Room (未找到链接)
+
+- [Music Room](./秋霜玉-Music.md#4面boss玛丽的主题曲)
 
 ４面Boss，玛丽的主题曲。  
   
@@ -104,15 +94,18 @@ MP3由Roland SC-88Pro 实机录制。官方只发布MIDI而未发布MP3，故音
 尽管如此，旋律很简单容易记住呢。  
 也许在Boss战中会留在脑中机械马戏团 ～ Reverie
 #### 创曲幻想
-- 创曲幻想 (未找到链接)
+
+- [创曲幻想](./附带文档-秋霜玉-创曲幻想.md#曲名解说-10)
 
 【 机械马戏团 ～ Reverie 】4面Boss主题曲  
   
 因为是大型Boss，所以我打算取个机械味的标题，就很直接地起了“机械”。马戏团则是因为最初最终Boss的主题曲曲名打算命名为杀人马戏团，但感觉很糟（汗），就用在这里了。  
 彻底无视了游戏气氛的曲名（笑）
 ### 东方幻想的音乐
+
 #### 秋霜玉
-- 东方幻想的音乐 (未找到链接)
+
+- [东方幻想的音乐](./东方幻想的音乐-过去的曲子-秋霜玉.md#机械马戏团_～_Reverie)
 
 +----------------------------------------------------------------------------+  
 |【 　 曲名　　】| 【 机械马戏团　～ Reverie 】  
@@ -126,7 +119,7 @@ MP3由Roland SC-88Pro 实机录制。官方只发布MIDI而未发布MP3，故音
 |                | 这种时候，请不要更动压缩包内部文件。  
 |【　 著作权 　】| ＺＵＮ (太田顺也）  
 |【演奏上的注意】| 用sc-88Pro 的人在演奏时请不要按88Map。  
-|                                          &#126;&#126;&#126;&#126;~   
+|                                          ~~~~~   
 +-----------------------------------------------------------------------------+  
 感谢您下载本文件。  
   
@@ -146,48 +139,61 @@ MP3由Roland SC-88Pro 实机录制。官方只发布MIDI而未发布MP3，故音
 　东方幻想空间　「博丽神社」 [http://www16.big.or.jp/~zun/](http://www16.big.or.jp/~zun/)  
 　e-Mail                     zun@big.or.jp
 ### 东方文花帖（书籍）
-- 幻想的音觉 (未找到链接)
+
+- [幻想的音觉](./东方文花帖（书籍）-幻想的音觉-中日对照.md#9)
 
 （『[蓬莱人形](./蓬莱人形.md)』收录曲）　　这首曲子有着现在的游戏曲中完全无法想象的黑暗和沉重……请多加注意。目前东方的曲子大体上以和情景相配合的幻觉为主，而这首曲子让人产生的是没有背景的幻觉。完全的黑暗。这种风格并不是我的喜好，我也想知道作曲的时候是怎样的心境。  
 　　不过，几乎都是钢琴的这首曲子，也并没有什么更深的印象而只是唰唰地弹着键盘的时候做出的曲子，感觉只是旋律拼凑起来的东西。现在听起来倒感觉是有什么纠缠在一起般的曲子，弹来弹去乒乒乓乓的也没法收拾不知道怎么才好的这种感觉很容易想象。
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
   
- **機械サーカス　～ Reverie**   机械马戏团　～ Reverie
+**機械サーカス ～ Reverie**  机械马戏团　～ Reverie
   
 
-- 机械
+- 机械 
   - 秋霜玉4面Boss玛丽驾驶着巨大的座机
 
-- サーカス
-  - ‎Circus，马戏团
+
+- サーカス 
+  - ‎Circus，马戏团 
     - 原本秋霜玉最终Boss的主题曲打算命名为殺人サーカス（杀人马戏团），但ZUN觉得不妥，便将该词用在本曲上了。
+
+
 
 
 - Reverie，幻想、白日梦
 
   
- **サーカスレヴァリエ**  
-  
+**サーカスレヴァリエ**  
 Circus Reverie，马戏团幻想
   
 
-- サーカス
-  - ‎Circus，马戏团
-    - 在很多恐怖作品，如《寂静岭》中都有马戏团（或者说游乐园）的出场
+- サーカス 
+  - ‎Circus，马戏团 
+    - 在很多恐怖作品，如《寂静岭》中都有马戏团（或者说游乐园）的出场 
       - ZUN觉得本曲有一种黑暗的感觉
 
-    - 小丑的恐怖谷效应
+
+    - 小丑的恐怖谷效应 
       - 蓬莱人形C62版本的故事中，小丑为杀人者
+
 
     - 蓬莱人形C63版本的故事中，主角似乎是某个剧团的成员？
 
 
-- レヴァリエ
-  - Reverie，白日梦
-    - 极乐鸟与人类的孩子
+
+
+- レヴァリエ 
+  - Reverie，白日梦 
+    - 极乐鸟与人类的孩子 
       - 极乐鸟生活在南半球人迹罕至的高山中，踪迹很难寻觅，因其美丽被称为“天堂之鸟”
+
+
+
+
 
 
 
@@ -205,20 +211,7 @@ Circus Reverie，马戏团幻想
 <tr><td>Vocal率</td><td>12.5%</td></tr>
 </tbody></table>
 
-
-
-
-
 [^cite_note-1]: 应为玛丽（マリー）；
-
-  
-  
-
-  
-
-
-
-
 
 ---
 

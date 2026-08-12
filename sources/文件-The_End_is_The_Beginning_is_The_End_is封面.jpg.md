@@ -1,6 +1,6 @@
 # 文件:The_End_is_The_Beginning_is_The_End_is封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\07\ns6%3AThe_End_is_The_Beginning_is_The_End_is%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\07\ns6%3AThe_End_is_The_Beginning_is_The_End_is%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 フレキシ | 同人志封面 | 封面图片
 
@@ -8,11 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [The End is The Beginning is The End is](./The_End_is_The_Beginning_is_The_End_is.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [东风谷早苗](./东风谷早苗.md)- [物部布都](./物部布都.md)- [森近霖之助](./森近霖之助.md)
-
-
-
+- [The End is The Beginning is The End is](./The_End_is_The_Beginning_is_The_End_is.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [东风谷早苗](./东风谷早苗.md)
+- [物部布都](./物部布都.md)
+- [森近霖之助](./森近霖之助.md)
 
 
 ---

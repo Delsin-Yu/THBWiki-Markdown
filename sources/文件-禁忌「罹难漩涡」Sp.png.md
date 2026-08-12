@@ -1,6 +1,6 @@
 # 文件:禁忌「罹难漩涡」Sp.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\ff\ns6%3A%E7%A6%81%E5%BF%8C%E3%80%8C%E7%BD%B9%E9%9A%BE%E6%BC%A9%E6%B6%A1%E3%80%8DSp%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\ff\ns6%3A%E7%A6%81%E5%BF%8C%E3%80%8C%E7%BD%B9%E9%9A%BE%E6%BC%A9%E6%B6%A1%E3%80%8DSp%2Epng.html -->
 
 东方幕华祭制作组
 
@@ -11,10 +11,6 @@
 
 另外，尽量正下输出。
   
-
-
-
-
 
 ---
 

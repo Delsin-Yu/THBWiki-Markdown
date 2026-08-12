@@ -1,6 +1,6 @@
 # 文件:PsychoPhysics_20211024AR8封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cc\ns6%3APsychoPhysics_20211024AR8%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cc\ns6%3APsychoPhysics_20211024AR8%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 PsychoPhysics | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ PsychoPhysics | 专辑封面 | 封面图片
   
 
 - [PsychoPhysics 20211024AR8](./PsychoPhysics_20211024AR8.md)
-
-
-
 
 
 ---

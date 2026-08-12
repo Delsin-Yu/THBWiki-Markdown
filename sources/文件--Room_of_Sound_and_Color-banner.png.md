@@ -1,12 +1,8 @@
 # 文件:-Room_of_Sound_and_Color-banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f7\ns6%3A-Room_of_Sound_and_Color-banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f7\ns6%3A-Room_of_Sound_and_Color-banner%2Epng.html -->
 
 -Room_of_Sound_and_Color- | 社团LOGO
-
-
-
-
 
 
 ---

@@ -1,27 +1,26 @@
 # 游戏攻略/东方天空璋/Stage1
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\9\90\ns0%3A%E6%B8%B8%E6%88%8F%E6%94%BB%E7%95%A5%2F%E4%B8%9C%E6%96%B9%E5%A4%A9%E7%A9%BA%E7%92%8B%2FStage1.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\9\90\ns0%3A%E6%B8%B8%E6%88%8F%E6%94%BB%E7%95%A5%2F%E4%B8%9C%E6%96%B9%E5%A4%A9%E7%A9%BA%E7%92%8B%2FStage1.html -->
 
 
 
 <center>
-
 <table>
 <tbody><tr>
 <td>
 </td>
 <td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right">
 </td>
-<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="/%E7%AC%A6%E5%8D%A1%E5%88%97%E8%A1%A8#东方天空璋" title="符卡列表">符卡</a>&#160;
+<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;"> <a href="./符卡列表.md#东方天空璋" title="符卡列表">符卡</a> 
 </td>
-<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left">&#160;<a href="./游戏攻略-东方天空璋-Stage2.md" title="游戏攻略/东方天空璋/Stage2" unred="">Stage 2</a>
+<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left"> <a href="./游戏攻略-东方天空璋-Stage2.md" title="游戏攻略/东方天空璋/Stage2" unred="">Stage 2</a>
 </td>
-<td>&gt;
+<td>>
 </td></tr></tbody></table>
 
   
 </center>
-- 本词条内容为官方游戏TH16 **东方天空璋** 的敌机符卡
+- 本词条内容为官方游戏TH16**东方天空璋**的敌机符卡
 
 
 ## 爱塔妮缇拉尔瓦
@@ -37,27 +36,20 @@
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zhh1" width="50%">
-<p><a href="./蝶符「凤蝶的鳞粉」.md" class="mw-redirect" title="蝶符「凤蝶的鳞粉」">蝶符「凤蝶的鳞粉」</a>
+<p><a href="./Minute_Scales.md" class="mw-redirect" title="蝶符「凤蝶的鳞粉」">蝶符「凤蝶的鳞粉」</a>
 </p>
 </th></tr></tbody></table>
 
 
-
 ### 蝶符「凤蝶的鳞粉」
-[](./文件-蝶符「凤蝶的鳞粉」（天空璋）.png.md)  [](./文件-蝶符「凤蝶的鳞粉」（天空璋）.png.md)
-  
+<img alt="蝶符「凤蝶的鳞粉」（天空璋）.png" src="https://upload.thwiki.cc/thumb/3/30/%E8%9D%B6%E7%AC%A6%E3%80%8C%E5%87%A4%E8%9D%B6%E7%9A%84%E9%B3%9E%E7%B2%89%E3%80%8D%EF%BC%88%E5%A4%A9%E7%A9%BA%E7%92%8B%EF%BC%89.png/300px-%E8%9D%B6%E7%AC%A6%E3%80%8C%E5%87%A4%E8%9D%B6%E7%9A%84%E9%B3%9E%E7%B2%89%E3%80%8D%EF%BC%88%E5%A4%A9%E7%A9%BA%E7%92%8B%EF%BC%89.png" decoding="async" loading="lazy" width="300" height="350" class="thumbimage" srcset="https://upload.thwiki.cc/3/30/%E8%9D%B6%E7%AC%A6%E3%80%8C%E5%87%A4%E8%9D%B6%E7%9A%84%E9%B3%9E%E7%B2%89%E3%80%8D%EF%BC%88%E5%A4%A9%E7%A9%BA%E7%92%8B%EF%BC%89.png 1.5x" data-file-width="384" data-file-height="448">
+ [放大](./文件-蝶符「凤蝶的鳞粉」（天空璋）.png.md)  
 由米弹和小玉构成，米弹随boss固定，在正下固定有大缝  
 
 站位不要过低，积极上钻，防止被小玉封位  
 
 如果可以，请追着boss打 以尽快击破  
-
   
-  
-  
-
-  
-
 
 <table>
 
@@ -70,24 +62,18 @@
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zhh1" width="50%">
-<p><a href="./蝶符「盛夏振翅」.md" class="mw-redirect" title="蝶符「盛夏振翅」">蝶符「盛夏振翅」</a>
+<p><a href="./Fluttering_Summer.md" class="mw-redirect" title="蝶符「盛夏振翅」">蝶符「盛夏振翅」</a>
 </p>
 </th></tr></tbody></table>
 
 
-
 ### 蝶符「盛夏振翅」
-[](./文件-蝶符「盛夏振翅」（天空璋）.jpg.md)  [](./文件-蝶符「盛夏振翅」（天空璋）.jpg.md)
-  
+<img alt="蝶符「盛夏振翅」（天空璋）.jpg" src="https://upload.thwiki.cc/thumb/9/9a/%E8%9D%B6%E7%AC%A6%E3%80%8C%E7%9B%9B%E5%A4%8F%E6%8C%AF%E7%BF%85%E3%80%8D%EF%BC%88%E5%A4%A9%E7%A9%BA%E7%92%8B%EF%BC%89.jpg/300px-%E8%9D%B6%E7%AC%A6%E3%80%8C%E7%9B%9B%E5%A4%8F%E6%8C%AF%E7%BF%85%E3%80%8D%EF%BC%88%E5%A4%A9%E7%A9%BA%E7%92%8B%EF%BC%89.jpg" decoding="async" loading="lazy" width="300" height="350" class="thumbimage" srcset="https://upload.thwiki.cc/9/9a/%E8%9D%B6%E7%AC%A6%E3%80%8C%E7%9B%9B%E5%A4%8F%E6%8C%AF%E7%BF%85%E3%80%8D%EF%BC%88%E5%A4%A9%E7%A9%BA%E7%92%8B%EF%BC%89.jpg 1.5x" data-file-width="384" data-file-height="448">
+ [放大](./文件-蝶符「盛夏振翅」（天空璋）.jpg.md)  
 由米弹和椭弹构成，米弹是自机相关，椭弹是自机狙  
 
 可以选择先在正下输出，椭弹出来之后跑到一边，慢慢往另一边走，同时躲避米弹即可  
-
   
-
-
-
-
 
 ---
 

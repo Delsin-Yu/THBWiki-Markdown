@@ -1,6 +1,6 @@
 # 文件:Blossom's_Night_(EP)封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1c\ns6%3ABlossom%27s_Night_%28EP%29%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1c\ns6%3ABlossom%27s_Night_%28EP%29%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 BlossomNightfall | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ BlossomNightfall | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Blossom's Night (EP)](./Blossom's_Night_(EP).md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
+- [Blossom's Night (EP)](./Blossom's_Night_(EP%29.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-源地址：[[1]](https://f4.bcbits.com/img/a0686921584_10.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://f4.bcbits.com/img/a0686921584_10.jpg)  
 
 ---
 

@@ -1,16 +1,11 @@
 # 文件:Silently_Shooting_Traitorslogo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\05\ns6%3ASilently_Shooting_Traitorslogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\05\ns6%3ASilently_Shooting_Traitorslogo%2Ejpg.html -->
 
 Silently_Shooting_Traitors | 社团LOGO
 
   
-源地址：[[1]](https://pbs.twimg.com/profile_images/684048162089115649/c9KbfNsB_400x400.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://pbs.twimg.com/profile_images/684048162089115649/c9KbfNsB_400x400.jpg)  
 
 ---
 

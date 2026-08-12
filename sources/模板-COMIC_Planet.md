@@ -1,16 +1,12 @@
 # 模板:COMIC_Planet
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\5\56\ns10%3ACOMIC_Planet.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\5\56\ns10%3ACOMIC_Planet.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

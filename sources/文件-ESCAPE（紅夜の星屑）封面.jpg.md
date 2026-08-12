@@ -1,6 +1,6 @@
 # 文件:ESCAPE（紅夜の星屑）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2e\ns6%3AESCAPE%EF%BC%88%E7%B4%85%E5%A4%9C%E3%81%AE%E6%98%9F%E5%B1%91%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2e\ns6%3AESCAPE%EF%BC%88%E7%B4%85%E5%A4%9C%E3%81%AE%E6%98%9F%E5%B1%91%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 紅夜の星屑
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [ESCAPE（紅夜の星屑）](./ESCAPE（紅夜の星屑）.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [ESCAPE（紅夜の星屑）](./ESCAPE（紅夜の星屑）.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
   
-[Pixiv artwork ID: 18691034](https://www.pixiv.net/artworks/18691034)
-  
-
-
-
-
+[Pixiv artwork ID: 18691034](https://www.pixiv.net/artworks/18691034)  
 
 ---
 

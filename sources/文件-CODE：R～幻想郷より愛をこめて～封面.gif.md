@@ -1,6 +1,6 @@
 # 文件:CODE：R～幻想郷より愛をこめて～封面.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\71\ns6%3ACODE%EF%BC%9AR%EF%BD%9E%E5%B9%BB%E6%83%B3%E9%83%B7%E3%82%88%E3%82%8A%E6%84%9B%E3%82%92%E3%81%93%E3%82%81%E3%81%A6%EF%BD%9E%E5%B0%81%E9%9D%A2%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\71\ns6%3ACODE%EF%BC%9AR%EF%BD%9E%E5%B9%BB%E6%83%B3%E9%83%B7%E3%82%88%E3%82%8A%E6%84%9B%E3%82%92%E3%81%93%E3%82%81%E3%81%A6%EF%BD%9E%E5%B0%81%E9%9D%A2%2Egif.html -->
 
 BlueMica | 封面图片 | 软件封面
 
@@ -8,11 +8,8 @@ BlueMica | 封面图片 | 软件封面
 使用了本文件作封面图片的作品：
   
 
-- [CODE：R～幻想郷より愛をこめて～](./CODE：R～幻想郷より愛をこめて～.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [CODE：R～幻想郷より愛をこめて～](./CODE：R～幻想郷より愛をこめて～.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

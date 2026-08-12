@@ -1,6 +1,6 @@
 # 文件:東方蟒酒宴_～Age_of_Ethanols～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4a\ns6%3A%E6%9D%B1%E6%96%B9%E8%9F%92%E9%85%92%E5%AE%B4_%EF%BD%9EAge_of_Ethanols%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4a\ns6%3A%E6%9D%B1%E6%96%B9%E8%9F%92%E9%85%92%E5%AE%B4_%EF%BD%9EAge_of_Ethanols%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Neetpia | 封面图片 | 软件封面
 
@@ -8,11 +8,16 @@ Neetpia | 封面图片 | 软件封面
 使用了本文件作封面图片的作品：
   
 
-- [東方蟒酒宴 ～Age of Ethanols～](./東方蟒酒宴_～Age_of_Ethanols～.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)- [风见幽香](./风见幽香.md)- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)- [比那名居天子](./比那名居天子.md)- [伊吹萃香](./伊吹萃香.md)- [八坂神奈子](./八坂神奈子.md)- [雾雨魔理沙](./雾雨魔理沙.md)- [桑尼米尔克](./桑尼米尔克.md)
-
-
-
+- [東方蟒酒宴 ～Age of Ethanols～](./東方蟒酒宴_～Age_of_Ethanols～.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
+- [风见幽香](./风见幽香.md)
+- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)
+- [比那名居天子](./比那名居天子.md)
+- [伊吹萃香](./伊吹萃香.md)
+- [八坂神奈子](./八坂神奈子.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
+- [桑尼米尔克](./桑尼米尔克.md)
 
 
 ---

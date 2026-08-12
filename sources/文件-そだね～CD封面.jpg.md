@@ -1,6 +1,6 @@
 # 文件:そだね～CD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2f\ns6%3A%E3%81%9D%E3%81%A0%E3%81%AD%EF%BD%9ECD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2f\ns6%3A%E3%81%9D%E3%81%A0%E3%81%AD%EF%BD%9ECD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 IOSYS | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ IOSYS | 专辑封面 | 封面图片
   
 
 - [そだね～CD](./そだね～CD.md)
-
-
-
 
 
 ---

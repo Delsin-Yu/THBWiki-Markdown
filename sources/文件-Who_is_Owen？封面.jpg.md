@@ -1,6 +1,6 @@
 # 文件:Who_is_Owen？封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\13\ns6%3AWho_is_Owen%EF%BC%9F%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\13\ns6%3AWho_is_Owen%EF%BC%9F%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Lapis_lanta_Rose | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Lapis_lanta_Rose | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Who is Owen？](./Who_is_Owen？.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
-
-
-
+- [Who is Owen？](./Who_is_Owen？.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
 
 ---

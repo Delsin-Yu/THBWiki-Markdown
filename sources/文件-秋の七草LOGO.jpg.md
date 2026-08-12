@@ -1,12 +1,8 @@
 # 文件:秋の七草LOGO.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\49\ns6%3A%E7%A7%8B%E3%81%AE%E4%B8%83%E8%8D%89LOGO%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\49\ns6%3A%E7%A7%8B%E3%81%AE%E4%B8%83%E8%8D%89LOGO%2Ejpg.html -->
 
 社团LOGO | 秋の七草
-
-
-
-
 
 
 ---

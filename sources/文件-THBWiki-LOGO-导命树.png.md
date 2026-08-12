@@ -1,12 +1,8 @@
 # 文件:THBWiki-LOGO-导命树.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6f\ns6%3ATHBWiki-LOGO-%E5%AF%BC%E5%91%BD%E6%A0%91%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6f\ns6%3ATHBWiki-LOGO-%E5%AF%BC%E5%91%BD%E6%A0%91%2Epng.html -->
 
 THBWiki | Wiki词条分类用图
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:E.F.M._Preview_Disc封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b1\ns6%3AE%2EF%2EM%2E_Preview_Disc%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b1\ns6%3AE%2EF%2EM%2E_Preview_Disc%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 宇部ソフトウェア技術研究所 | 封面图片
 
@@ -11,9 +11,6 @@
   
 
 - [E.F.M. Preview Disc](./E.F.M._Preview_Disc.md)
-
-
-
 
 
 ---

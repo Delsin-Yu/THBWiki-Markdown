@@ -1,40 +1,27 @@
 # Eclipse_06
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\05\ns0%3AEclipse_06.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\05\ns0%3AEclipse_06.html -->
 
 2010年12月30日 由 エトセトラ 于 Comic Market 79 发布的绘本同人志，B5尺寸一共16页，登场人物有 圣白莲，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人志 (未找到链接)** 的词条
-
+**[二次创作同人志](./二次创作.md#同人志)**的词条
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Eclipse_06封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/e/e7/Eclipse_06%E5%B0%81%E9%9D%A2.jpg/159px-Eclipse_06%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="159" height="224" srcset="https://upload.thwiki.cc/thumb/e/e7/Eclipse_06%E5%B0%81%E9%9D%A2.jpg/238px-Eclipse_06%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/e/e7/Eclipse_06%E5%B0%81%E9%9D%A2.jpg/317px-Eclipse_06%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="567" data-file-height="800"></a><div class="cover-char">角色：<a href="./圣白莲.md" title="圣白莲">圣白莲</a></div></td>
 </tr><tr><td class="label">名称</td><td colspan="2"> Eclipse 06 </td></tr><tr><td class="label">制作方</td><td><a href="./エトセトラ.md" title="エトセトラ">エトセトラ</a></td><td class="cover-artwork" rowspan="8" style="min-width:224px;"><a href="./文件-Eclipse_06封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/e/e7/Eclipse_06%E5%B0%81%E9%9D%A2.jpg/159px-Eclipse_06%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="159" height="224" srcset="https://upload.thwiki.cc/thumb/e/e7/Eclipse_06%E5%B0%81%E9%9D%A2.jpg/238px-Eclipse_06%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/e/e7/Eclipse_06%E5%B0%81%E9%9D%A2.jpg/317px-Eclipse_06%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="567" data-file-height="800"></a><div class="cover-char">角色：<a href="./圣白莲.md" title="圣白莲">圣白莲</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2010-12-30&#160;（<a href="/展会作品列表?e=Comic+Market%2379">Comic Market 79</a>）</td></tr><tr><td class="label">类型</td><td>绘本</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>B5</td></tr><tr><td class="label">页数</td><td>16P</td></tr><tr><td class="label">登场人物</td><td><a href="./圣白莲.md" title="圣白莲">圣白莲</a></td></tr><tr><td class="label">售价</td><td>200日元</td></tr>
+</tr><tr><td class="label">首发日期</td><td>2010-12-30 （<a href="./展会作品列表.md#79">Comic Market 79</a>）</td></tr><tr><td class="label">类型</td><td>绘本</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>B5</td></tr><tr><td class="label">页数</td><td>16P</td></tr><tr><td class="label">登场人物</td><td><a href="./圣白莲.md" title="圣白莲">圣白莲</a></td></tr><tr><td class="label">售价</td><td>200日元</td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://etc000.blog59.fc2.com/blog-entry-118.html">http://etc000.blog59.fc2.com/blog-entry-118.html</a></td></tr></tbody></table>
 
 Eclipse 06（同人志，エトセトラ，2010） - 2010年12月30日 由 エトセトラ 于 Comic Market 79 发布的绘本同人志，B5尺寸一共16页，登场人物有 圣白莲，分级为 一般向
-
 ## Staff
 Illustration
 : Cetera （[エトセトラ](./エトセトラ.md)）
 
-
 ## 评论
+
 ```
-毎度毎度恒例のラクガキ本「Eclipse」
-いつも通り制作中です。orz
-本当にキャラ縛りなしのらくがきの寄せ集めになりそうです。
-```
-
-  
-  
-
-  
-
-
-
+毎度毎度恒例のラクガキ本「Eclipse」 いつも通り制作中です。orz 本当にキャラ縛りなしのらくがきの寄せ集めになりそうです。 ```
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Carats_of_the_Moon封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e7\ns6%3ACarats_of_the_Moon%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e7\ns6%3ACarats_of_the_Moon%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Moonlight_Magic | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Moonlight_Magic | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Carats of the Moon](./Carats_of_the_Moon.md)  
-该封面包含的角色：- [八意永琳](./八意永琳.md)
-
-
-
+- [Carats of the Moon](./Carats_of_the_Moon.md)该封面包含的角色：
+- [八意永琳](./八意永琳.md)
 
 
 ---

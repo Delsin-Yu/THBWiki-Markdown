@@ -1,6 +1,6 @@
 # 文件:TOHO_SCHRANZ_AGGRESSION封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1b\ns6%3ATOHO_SCHRANZ_AGGRESSION%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1b\ns6%3ATOHO_SCHRANZ_AGGRESSION%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 猫乃塚
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [TOHO SCHRANZ AGGRESSION](./TOHO_SCHRANZ_AGGRESSION.md)  
-该封面包含的角色：- [秦心](./秦心.md)
-
-
-
+- [TOHO SCHRANZ AGGRESSION](./TOHO_SCHRANZ_AGGRESSION.md)该封面包含的角色：
+- [秦心](./秦心.md)
 
 
 ---

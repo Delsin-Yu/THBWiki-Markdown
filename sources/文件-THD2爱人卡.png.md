@@ -1,12 +1,8 @@
 # 文件:THD2爱人卡.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\aa\ns6%3ATHD2%E7%88%B1%E4%BA%BA%E5%8D%A1%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\aa\ns6%3ATHD2%E7%88%B1%E4%BA%BA%E5%8D%A1%2Epng.html -->
 
 THD2
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Spacerując_Ulicami_Byłego_Piekła封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\51\ns6%3ASpaceruj%C4%85c_Ulicami_By%C5%82ego_Piek%C5%82a%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\51\ns6%3ASpaceruj%C4%85c_Ulicami_By%C5%82ego_Piek%C5%82a%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Youkai_Paradise | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Youkai_Paradise | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Spacerując Ulicami Byłego Piekła](./Spacerując_Ulicami_Byłego_Piekła.md)  
-该封面包含的角色：- [星熊勇仪](./星熊勇仪.md)
-
-
-
+- [Spacerując Ulicami Byłego Piekła](./Spacerując_Ulicami_Byłego_Piekła.md)该封面包含的角色：
+- [星熊勇仪](./星熊勇仪.md)
 
 
 ---

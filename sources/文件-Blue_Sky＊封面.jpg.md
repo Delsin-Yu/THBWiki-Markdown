@@ -1,6 +1,6 @@
 # 文件:Blue_Sky＊封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\44\ns6%3ABlue_Sky%EF%BC%8A%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\44\ns6%3ABlue_Sky%EF%BC%8A%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Star_Servant＊ | 专辑封面 | 封面图片
 
@@ -8,12 +8,9 @@ Star_Servant＊ | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Blue Sky＊](./Blue_Sky＊.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)源地址：[[1]](http://music.geocities.jp/ss_asterisk/bluesky/BlueSky_jacket.jpg)
-
-
-
-
+- [Blue Sky＊](./Blue_Sky＊.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
+源地址：[\[1\]](http://music.geocities.jp/ss_asterisk/bluesky/BlueSky_jacket.jpg)
 
 ---
 

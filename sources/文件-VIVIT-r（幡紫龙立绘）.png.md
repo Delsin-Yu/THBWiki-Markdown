@@ -1,12 +1,8 @@
 # 文件:VIVIT-r（幡紫龙立绘）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\88\ns6%3AVIVIT-r%EF%BC%88%E5%B9%A1%E7%B4%AB%E9%BE%99%E7%AB%8B%E7%BB%98%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\88\ns6%3AVIVIT-r%EF%BC%88%E5%B9%A1%E7%B4%AB%E9%BE%99%E7%AB%8B%E7%BB%98%EF%BC%89%2Epng.html -->
 
 幡紫龙 | 西方Project | 西方角色立绘
-
-
-
-
 
 
 ---

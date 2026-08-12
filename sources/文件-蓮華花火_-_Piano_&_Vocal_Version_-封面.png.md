@@ -1,6 +1,6 @@
 # 文件:蓮華花火_-_Piano_&_Vocal_Version_-封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b7\ns6%3A%E8%93%AE%E8%8F%AF%E8%8A%B1%E7%81%AB_-_Piano_%26_Vocal_Version_-%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b7\ns6%3A%E8%93%AE%E8%8F%AF%E8%8A%B1%E7%81%AB_-_Piano_%26_Vocal_Version_-%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Liz_Triangle | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Liz_Triangle | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [蓮華花火 - Piano &amp; Vocal Version -](./蓮華花火_-_Piano_&_Vocal_Version_-.md)  
-该封面包含的角色：- [圣白莲](./圣白莲.md)
-
-
-
+- [蓮華花火 - Piano & Vocal Version -](./蓮華花火_-_Piano_&_Vocal_Version_-.md)该封面包含的角色：
+- [圣白莲](./圣白莲.md)
 
 
 ---

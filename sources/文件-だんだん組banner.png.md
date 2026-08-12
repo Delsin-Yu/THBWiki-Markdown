@@ -1,12 +1,8 @@
 # 文件:だんだん組banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\87\ns6%3A%E3%81%A0%E3%82%93%E3%81%A0%E3%82%93%E7%B5%84banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\87\ns6%3A%E3%81%A0%E3%82%93%E3%81%A0%E3%82%93%E7%B5%84banner%2Epng.html -->
 
 だんだん組 | 社团LOGO
-
-
-
-
 
 
 ---

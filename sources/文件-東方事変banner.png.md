@@ -1,12 +1,8 @@
 # 文件:東方事変banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\27\ns6%3A%E6%9D%B1%E6%96%B9%E4%BA%8B%E5%A4%89banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\27\ns6%3A%E6%9D%B1%E6%96%B9%E4%BA%8B%E5%A4%89banner%2Epng.html -->
 
 東方事変 | 社团LOGO
-
-
-
-
 
 
 ---

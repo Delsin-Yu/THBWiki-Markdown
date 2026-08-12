@@ -1,14 +1,11 @@
 # 文件:はるしぐれbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3e\ns6%3A%E3%81%AF%E3%82%8B%E3%81%97%E3%81%90%E3%82%8Cbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3e\ns6%3A%E3%81%AF%E3%82%8B%E3%81%97%E3%81%90%E3%82%8Cbanner%2Ejpg.html -->
 
 はるしぐれ | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

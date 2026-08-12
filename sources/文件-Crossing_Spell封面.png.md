@@ -1,6 +1,6 @@
 # 文件:Crossing_Spell封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a6\ns6%3ACrossing_Spell%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a6\ns6%3ACrossing_Spell%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Necollex_Music | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Necollex_Music | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Crossing Spell](./Crossing_Spell.md)  
-该封面包含的角色：- [赫卡提亚·拉碧斯拉祖利](./赫卡提亚·拉碧斯拉祖利.md)
-
-
-
+- [Crossing Spell](./Crossing_Spell.md)该封面包含的角色：
+- [赫卡提亚·拉碧斯拉祖利](./赫卡提亚·拉碧斯拉祖利.md)
 
 
 ---

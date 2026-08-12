@@ -1,6 +1,6 @@
 # 文件:Mithril_Ether封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c4\ns6%3AMithril_Ether%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c4\ns6%3AMithril_Ether%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 ちくたくとーん | みかん箱 | 专辑封面 | 封面图片
 
@@ -8,12 +8,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [Mithril Ether](./Mithril_Ether.md)  
-该封面包含的角色：- [八意永琳](./八意永琳.md)- [蓬莱山辉夜](./蓬莱山辉夜.md)源地址：[[1]](https://web.archive.org/web/20181130021233if_/http://mandarin.dojin.com:80/mikanbox/MBTK-0001/img/jacket1.png)
-
-
-
-
+- [Mithril Ether](./Mithril_Ether.md)该封面包含的角色：
+- [八意永琳](./八意永琳.md)
+- [蓬莱山辉夜](./蓬莱山辉夜.md)
+源地址：[\[1\]](https://web.archive.org/web/20181130021233if_/http://mandarin.dojin.com:80/mikanbox/MBTK-0001/img/jacket1.png)
 
 ---
 

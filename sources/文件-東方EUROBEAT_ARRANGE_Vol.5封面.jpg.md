@@ -1,6 +1,6 @@
 # 文件:東方EUROBEAT_ARRANGE_Vol.5封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d1\ns6%3A%E6%9D%B1%E6%96%B9EUROBEAT_ARRANGE_Vol%2E5%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d1\ns6%3A%E6%9D%B1%E6%96%B9EUROBEAT_ARRANGE_Vol%2E5%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 SuganoMusic | 专辑封面 | 封面图片
 
@@ -8,15 +8,10 @@ SuganoMusic | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- 東方EUROBEAT ARRANGE Vol.5 (未找到链接)
+- [東方EUROBEAT ARRANGE Vol.5](./東方EUROBEAT_ARRANGE_Vol.5.md)
 
   
-源地址：[[1]](http://suganomusic.sakura.ne.jp/wp/wp-content/uploads/2015/01/sm_theb_5.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://suganomusic.sakura.ne.jp/wp/wp-content/uploads/2015/01/sm_theb_5.jpg)  
 
 ---
 

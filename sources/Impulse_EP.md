@@ -1,12 +1,11 @@
 # Impulse_EP
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\0e\ns0%3AImpulse_EP.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\0e\ns0%3AImpulse_EP.html -->
 
 2017年9月22日 由 ychzi  发布的EP同人专辑，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人专辑 (未找到链接)** 的词条
-
+**[二次创作同人专辑](./二次创作.md#同人音乐)**的词条
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Impulse_EP封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/6/6a/Impulse_EP%E5%B0%81%E9%9D%A2.jpg/224px-Impulse_EP%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="224" srcset="https://upload.thwiki.cc/thumb/6/6a/Impulse_EP%E5%B0%81%E9%9D%A2.jpg/336px-Impulse_EP%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/6/6a/Impulse_EP%E5%B0%81%E9%9D%A2.jpg/448px-Impulse_EP%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1200" data-file-height="1200"></a><div class="cover-char">角色：<a href="./霍青娥.md" title="霍青娥">霍青娥</a></div></td>
@@ -15,42 +14,33 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://ychzi.bandcamp.com/album/impulse-ep">https://ychzi.bandcamp.com/album/impulse-ep</a></td></tr></tbody></table>
 
 Impulse EP（同人专辑，ychzi，2017） - 2017年9月22日 由 ychzi  发布的EP同人专辑，分级为 一般向
-
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://ychzi.bandcamp.com/album/impulse-ep">bandcamp</a></td></tr></tbody></table>
-
 
 
 ## Staff
   
- **Arrangement**   
+**Arrangement**  
 
 <table><tbody><tr><td><a href="./ychzi.md" title="ychzi">ychzi</a></td><td></td><td>Tr.1-5</td></tr></tbody></table>
 
-
 Design
 : ychzi
-
 
 ## 试听
   
 暂不支援此类型
   
 
-
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Willkommen" colspan="2" class="title">Willkommen<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=ychzi&amp;ogmusic=妖怪寺へようこそ&amp;fromwiki=Impulse_EP"><span title="搜索相似同人曲"></span></a></span></td><td class="time">02:13</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./ychzi.md" title="ychzi">ychzi</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，ychzi&amp;fromwiki=Impulse_EP"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=妖怪寺へようこそ&amp;fromwiki=Impulse_EP"><span></span></a></span><div class="ogmusic"><a href="./妖怪寺へようこそ.md" class="mw-redirect" title="妖怪寺へようこそ">妖怪寺へようこそ</a></div><div class="source"><a href="./东方神灵庙_～_Ten_Desires..md" class="mw-redirect" title="东方神灵庙 ～ Ten Desires.">东方神灵庙　～ Ten Desires.</a></div></td></tr>
-<tr><td id="2" class="infoYD"><b>02</b></td><td id="Desire_Dive" colspan="2" class="title">Desire Dive<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=ychzi&amp;ogmusic=デザイアドライブ&amp;fromwiki=Impulse_EP"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:08</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./ychzi.md" title="ychzi">ychzi</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，ychzi&amp;fromwiki=Impulse_EP"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=デザイアドライブ&amp;fromwiki=Impulse_EP"><span></span></a></span><div class="ogmusic"><a href="./デザイアドライブ.md" class="mw-redirect" title="デザイアドライブ">デザイアドライブ</a></div><div class="source"><a href="./东方神灵庙_～_Ten_Desires..md" class="mw-redirect" title="东方神灵庙 ～ Ten Desires.">东方神灵庙　～ Ten Desires.</a></div></td></tr>
-<tr><td id="3" class="infoYD"><b>03</b></td><td id="Small_Starry_Sky" colspan="2" class="title">Small Starry Sky<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=ychzi&amp;ogmusic=小さな小さな賢将&amp;fromwiki=Impulse_EP"><span title="搜索相似同人曲"></span></a></span></td><td class="time">02:46</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./ychzi.md" title="ychzi">ychzi</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，ychzi&amp;fromwiki=Impulse_EP"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=小さな小さな賢将&amp;fromwiki=Impulse_EP"><span></span></a></span><div class="ogmusic"><a href="./小さな小さな賢将.md" class="mw-redirect" title="小さな小さな賢将">小さな小さな賢将</a></div><div class="source"><a href="./东方星莲船_～_Undefined_Fantastic_Object..md" class="mw-redirect" title="东方星莲船 ～ Undefined Fantastic Object.">东方星莲船　～ Undefined Fantastic Object.</a></div></td></tr>
-<tr><td id="4" class="infoYD"><b>04</b></td><td id="Shrine_Alley" colspan="2" class="title">Shrine Alley<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=ychzi&amp;ogmusic=妖怪裏参道&amp;fromwiki=Impulse_EP"><span title="搜索相似同人曲"></span></a></span></td><td class="time">02:44</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./ychzi.md" title="ychzi">ychzi</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，ychzi&amp;fromwiki=Impulse_EP"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=妖怪裏参道&amp;fromwiki=Impulse_EP"><span></span></a></span><div class="ogmusic"><a href="./妖怪裏参道.md" class="mw-redirect" title="妖怪裏参道">妖怪裏参道</a></div><div class="source"><a href="./东方神灵庙_～_Ten_Desires..md" class="mw-redirect" title="东方神灵庙 ～ Ten Desires.">东方神灵庙　～ Ten Desires.</a></div></td></tr>
-<tr><td id="5" class="infoYD"><b>05</b></td><td id="Passing_Gas_at_the_Shrine" colspan="2" class="title">Passing Gas at the Shrine<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=ychzi&amp;ogmusic=神社の新しい風&amp;fromwiki=Impulse_EP"><span title="搜索相似同人曲"></span></a></span></td><td class="time">01:29</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./ychzi.md" title="ychzi">ychzi</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，ychzi&amp;fromwiki=Impulse_EP"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=神社の新しい風&amp;fromwiki=Impulse_EP"><span></span></a></span><div class="ogmusic"><a href="./神社の新しい風.md" class="mw-redirect" title="神社の新しい風">神社の新しい風</a></div><div class="source"><a href="./东方神灵庙_～_Ten_Desires..md" class="mw-redirect" title="东方神灵庙 ～ Ten Desires.">东方神灵庙　～ Ten Desires.</a></div></td></tr></tbody></table>
-
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Willkommen" colspan="2" class="title">Willkommen</td><td class="time">02:13</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./ychzi.md" title="ychzi">ychzi</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./欢迎来到妖怪寺.md" class="mw-redirect" title="妖怪寺へようこそ">妖怪寺へようこそ</a></div><div class="source"><a href="./东方神灵庙.md" class="mw-redirect" title="东方神灵庙 ～ Ten Desires.">东方神灵庙　～ Ten Desires.</a></div></td></tr>
+<tr><td id="2" class="infoYD"><b>02</b></td><td id="Desire_Dive" colspan="2" class="title">Desire Dive</td><td class="time">03:08</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./ychzi.md" title="ychzi">ychzi</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./Desire_Drive.md" class="mw-redirect" title="デザイアドライブ">デザイアドライブ</a></div><div class="source"><a href="./东方神灵庙.md" class="mw-redirect" title="东方神灵庙 ～ Ten Desires.">东方神灵庙　～ Ten Desires.</a></div></td></tr>
+<tr><td id="3" class="infoYD"><b>03</b></td><td id="Small_Starry_Sky" colspan="2" class="title">Small Starry Sky</td><td class="time">02:46</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./ychzi.md" title="ychzi">ychzi</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./小小的贤将.md" class="mw-redirect" title="小さな小さな賢将">小さな小さな賢将</a></div><div class="source"><a href="./东方星莲船.md" class="mw-redirect" title="东方星莲船 ～ Undefined Fantastic Object.">东方星莲船　～ Undefined Fantastic Object.</a></div></td></tr>
+<tr><td id="4" class="infoYD"><b>04</b></td><td id="Shrine_Alley" colspan="2" class="title">Shrine Alley</td><td class="time">02:44</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./ychzi.md" title="ychzi">ychzi</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./后院的妖怪参拜道.md" class="mw-redirect" title="妖怪裏参道">妖怪裏参道</a></div><div class="source"><a href="./东方神灵庙.md" class="mw-redirect" title="东方神灵庙 ～ Ten Desires.">东方神灵庙　～ Ten Desires.</a></div></td></tr>
+<tr><td id="5" class="infoYD"><b>05</b></td><td id="Passing_Gas_at_the_Shrine" colspan="2" class="title">Passing Gas at the Shrine</td><td class="time">01:29</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./ychzi.md" title="ychzi">ychzi</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./神社的新风.md" class="mw-redirect" title="神社の新しい風">神社の新しい風</a></div><div class="source"><a href="./东方神灵庙.md" class="mw-redirect" title="东方神灵庙 ～ Ten Desires.">东方神灵庙　～ Ten Desires.</a></div></td></tr></tbody></table>
 
 
 ## 评论
-
-
-
 
 ---
 

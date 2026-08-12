@@ -1,31 +1,24 @@
 # The_back_universe_of_a_pupil
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\5\5e\ns0%3AThe_back_universe_of_a_pupil.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\5\5e\ns0%3AThe_back_universe_of_a_pupil.html -->
 
 2018年11月11日 由 しうまいを継ぐ者 于 科学世纪的露天咖啡座8 发布的漫画同人志，B5尺寸一共28页，登场人物有 宇佐见莲子、玛艾露贝莉·赫恩，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人志 (未找到链接)** 的词条
-
+**[二次创作同人志](./二次创作.md#同人志)**的词条
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-The_back_universe_of_a_pupil封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/c/cc/The_back_universe_of_a_pupil%E5%B0%81%E9%9D%A2.jpg/160px-The_back_universe_of_a_pupil%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="160" height="224" srcset="https://upload.thwiki.cc/thumb/c/cc/The_back_universe_of_a_pupil%E5%B0%81%E9%9D%A2.jpg/240px-The_back_universe_of_a_pupil%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/c/cc/The_back_universe_of_a_pupil%E5%B0%81%E9%9D%A2.jpg/320px-The_back_universe_of_a_pupil%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="800" data-file-height="1119"></a><div class="cover-char">角色：<a href="./宇佐见莲子.md" title="宇佐见莲子">宇佐见莲子</a>，<a href="./玛艾露贝莉·赫恩.md" title="玛艾露贝莉·赫恩">玛艾露贝莉·赫恩</a></div></td>
 </tr><tr><td class="label">名称</td><td colspan="2"> The back universe of a pupil </td></tr><tr><td class="label">制作方</td><td><a href="./しうまいを継ぐ者.md" title="しうまいを継ぐ者">しうまいを継ぐ者</a></td><td class="cover-artwork" rowspan="8" style="min-width:224px;"><a href="./文件-The_back_universe_of_a_pupil封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/c/cc/The_back_universe_of_a_pupil%E5%B0%81%E9%9D%A2.jpg/160px-The_back_universe_of_a_pupil%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="160" height="224" srcset="https://upload.thwiki.cc/thumb/c/cc/The_back_universe_of_a_pupil%E5%B0%81%E9%9D%A2.jpg/240px-The_back_universe_of_a_pupil%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/c/cc/The_back_universe_of_a_pupil%E5%B0%81%E9%9D%A2.jpg/320px-The_back_universe_of_a_pupil%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="800" data-file-height="1119"></a><div class="cover-char">角色：<a href="./宇佐见莲子.md" title="宇佐见莲子">宇佐见莲子</a>，<a href="./玛艾露贝莉·赫恩.md" title="玛艾露贝莉·赫恩">玛艾露贝莉·赫恩</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2018-11-11&#160;（<a href="/展会作品列表?e=%E7%A7%91%E5%AD%A6%E4%B8%96%E7%BA%AA%E7%9A%84%E9%9C%B2%E5%A4%A9%E5%92%96%E5%95%A1%E5%BA%A7%238">科学世紀のカフェテラス（第8回）</a>）</td></tr><tr><td class="label">类型</td><td>漫画</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>B5</td></tr><tr><td class="label">页数</td><td>28P</td></tr><tr><td class="label">登场人物</td><td><a href="./宇佐见莲子.md" title="宇佐见莲子">宇佐见莲子</a>，<a href="./玛艾露贝莉·赫恩.md" title="玛艾露贝莉·赫恩">玛艾露贝莉·赫恩</a></td></tr><tr><td class="label">售价</td><td>500日元</td></tr>
+</tr><tr><td class="label">首发日期</td><td>2018-11-11 （<a href="./展会作品列表.md#8">科学世紀のカフェテラス（第8回）</a>）</td></tr><tr><td class="label">类型</td><td>漫画</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>B5</td></tr><tr><td class="label">页数</td><td>28P</td></tr><tr><td class="label">登场人物</td><td><a href="./宇佐见莲子.md" title="宇佐见莲子">宇佐见莲子</a>，<a href="./玛艾露贝莉·赫恩.md" title="玛艾露贝莉·赫恩">玛艾露贝莉·赫恩</a></td></tr><tr><td class="label">售价</td><td>500日元</td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/yutakasiumai/status/1060510070964809728">https://twitter.com/yutakasiumai/status/1060510070964809728</a></td></tr></tbody></table>
 
 The back universe of a pupil（同人志，しうまいを継ぐ者，2018） - 2018年11月11日 由 しうまいを継ぐ者 于 科学世纪的露天咖啡座8 发布的漫画同人志，B5尺寸一共28页，登场人物有 宇佐见莲子、玛艾露贝莉·赫恩，分级为 一般向
-
 ## Staff
   
-小出豊 (未找到链接)
-  
-
+小出豊 (未找到链接)  
 
 ## 评论
-
-
-
 
 ---
 

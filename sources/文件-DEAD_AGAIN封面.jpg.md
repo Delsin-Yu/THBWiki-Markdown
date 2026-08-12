@@ -1,6 +1,6 @@
 # 文件:DEAD_AGAIN封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d8\ns6%3ADEAD_AGAIN%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d8\ns6%3ADEAD_AGAIN%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 死際サテライト
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [DEAD AGAIN](./DEAD_AGAIN.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
+- [DEAD AGAIN](./DEAD_AGAIN.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-源地址：[[1]](https://static.wixstatic.com/media/133e6c_866de44e9dae4cdd8f9cc64c40ab3f95~mv2_d_2083_1864_s_2.jpg/v1/fill/w_546,h_517,al_c,q_80,usm_0.66_1.00_0.01/133e6c_866de44e9dae4cdd8f9cc64c40ab3f95~mv2_d_2083_1864_s_2.webp)
-  
-
-
-
-
+源地址：[\[1\]](https://static.wixstatic.com/media/133e6c_866de44e9dae4cdd8f9cc64c40ab3f95~mv2_d_2083_1864_s_2.jpg/v1/fill/w_546,h_517,al_c,q_80,usm_0.66_1.00_0.01/133e6c_866de44e9dae4cdd8f9cc64c40ab3f95~mv2_d_2083_1864_s_2.webp)  
 
 ---
 

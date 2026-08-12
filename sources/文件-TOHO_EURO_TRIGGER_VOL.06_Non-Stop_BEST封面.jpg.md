@@ -1,6 +1,6 @@
 # 文件:TOHO_EURO_TRIGGER_VOL.06_Non-Stop_BEST封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\98\ns6%3ATOHO_EURO_TRIGGER_VOL%2E06_Non-Stop_BEST%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\98\ns6%3ATOHO_EURO_TRIGGER_VOL%2E06_Non-Stop_BEST%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 K2E†Cradle | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ K2E†Cradle | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [TOHO EURO TRIGGER VOL.06 Non-Stop BEST](./TOHO_EURO_TRIGGER_VOL.06_Non-Stop_BEST.md)  
-该封面包含的角色：- [古明地觉](./古明地觉.md)
-
-
-
+- [TOHO EURO TRIGGER VOL.06 Non-Stop BEST](./TOHO_EURO_TRIGGER_VOL.06_Non-Stop_BEST.md)该封面包含的角色：
+- [古明地觉](./古明地觉.md)
 
 
 ---

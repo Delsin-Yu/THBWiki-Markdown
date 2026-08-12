@@ -1,6 +1,6 @@
 # 文件:TH_Schranz_Complex_02封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0f\ns6%3ATH_Schranz_Complex_02%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0f\ns6%3ATH_Schranz_Complex_02%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 C9 | 专辑封面 | 封面图片
 
@@ -8,18 +8,13 @@ C9 | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [TH Schranz Complex 02](./TH_Schranz_Complex_02.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
+- [TH Schranz Complex 02](./TH_Schranz_Complex_02.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ## 文件说明
   
-源地址：[图片链接](https://f4.bcbits.com/img/a2438209339_0.jpg) [bandcamp](https://cirwo.bandcamp.com/album/th-schranz-complex-02)
-  
-
-
-
-
+源地址：[图片链接](https://f4.bcbits.com/img/a2438209339_0.jpg) [bandcamp](https://cirwo.bandcamp.com/album/th-schranz-complex-02)  
 
 ---
 

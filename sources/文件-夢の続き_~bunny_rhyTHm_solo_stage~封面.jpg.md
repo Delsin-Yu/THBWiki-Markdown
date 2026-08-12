@@ -1,6 +1,6 @@
 # 文件:夢の続き_~bunny_rhyTHm_solo_stage~封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f9\ns6%3A%E5%A4%A2%E3%81%AE%E7%B6%9A%E3%81%8D_%7Ebunny_rhyTHm_solo_stage%7E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f9\ns6%3A%E5%A4%A2%E3%81%AE%E7%B6%9A%E3%81%8D_%7Ebunny_rhyTHm_solo_stage%7E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 bunny_rhyTHm | 专辑封面 | 封面图片
 
@@ -10,11 +10,9 @@ bunny_rhyTHm | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [夢の続き ~bunny rhyTHm solo stage~](./夢の続き_~bunny_rhyTHm_solo_stage~.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [夢の続き ~bunny rhyTHm solo stage~](./夢の続き_~bunny_rhyTHm_solo_stage~.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

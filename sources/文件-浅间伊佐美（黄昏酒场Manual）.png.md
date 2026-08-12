@@ -1,12 +1,8 @@
 # 文件:浅间伊佐美（黄昏酒场Manual）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4b\ns6%3A%E6%B5%85%E9%97%B4%E4%BC%8A%E4%BD%90%E7%BE%8E%EF%BC%88%E9%BB%84%E6%98%8F%E9%85%92%E5%9C%BAManual%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4b\ns6%3A%E6%B5%85%E9%97%B4%E4%BC%8A%E4%BD%90%E7%BE%8E%EF%BC%88%E9%BB%84%E6%98%8F%E9%85%92%E5%9C%BAManual%EF%BC%89%2Epng.html -->
 
 浅间伊佐美 | 黄昏酒场
-
-
-
-
 
 
 ---

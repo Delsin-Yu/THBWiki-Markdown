@@ -1,6 +1,6 @@
 # 文件:CROSS_犬走椛設定本封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\19\ns6%3ACROSS_%E7%8A%AC%E8%B5%B0%E6%A4%9B%E8%A8%AD%E5%AE%9A%E6%9C%AC%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\19\ns6%3ACROSS_%E7%8A%AC%E8%B5%B0%E6%A4%9B%E8%A8%AD%E5%AE%9A%E6%9C%AC%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 OriginZero | 同人志封面 | 封面图片
 
@@ -8,12 +8,9 @@ OriginZero | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [CROSS 犬走椛設定本](./CROSS_犬走椛設定本.md)  
-该封面包含的角色：- [犬走椛](./犬走椛.md)源地址：[[1]](http://www.origin-zero.com/OriginZero/346.jpg)
-
-
-
-
+- [CROSS 犬走椛設定本](./CROSS_犬走椛設定本.md)该封面包含的角色：
+- [犬走椛](./犬走椛.md)
+源地址：[\[1\]](http://www.origin-zero.com/OriginZero/346.jpg)
 
 ---
 

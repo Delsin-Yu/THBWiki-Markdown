@@ -1,6 +1,6 @@
 # 文件:SANA×AYA～ミラクル☆フラッシュ～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\98\ns6%3ASANA%C3%97AYA%EF%BD%9E%E3%83%9F%E3%83%A9%E3%82%AF%E3%83%AB%E2%98%86%E3%83%95%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\98\ns6%3ASANA%C3%97AYA%EF%BD%9E%E3%83%9F%E3%83%A9%E3%82%AF%E3%83%AB%E2%98%86%E3%83%95%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ビビットグレー | 即席魔王 | 同人志封面 | 封面图片
 
@@ -10,11 +10,15 @@
 使用了本文件作封面图片的作品：
   
 
-- [SANA×AYA～ミラクル☆フラッシュ～](./SANA×AYA～ミラクル☆フラッシュ～.md)  
-该封面包含的角色：- [红美铃](./红美铃.md)- 十六夜咲夜 (未找到链接)- [上白泽慧音](./上白泽慧音.md)- [藤原妹红](./藤原妹红.md)- [射命丸文](./射命丸文.md)- [键山雏](./键山雏.md)- [河城荷取](./河城荷取.md)- [东风谷早苗](./东风谷早苗.md)
-
-
-
+- [SANA×AYA～ミラクル☆フラッシュ～](./SANA×AYA～ミラクル☆フラッシュ～.md)该封面包含的角色：
+- [红美铃](./红美铃.md)
+- [十六夜咲夜](./十六夜咲夜.md)
+- [上白泽慧音](./上白泽慧音.md)
+- [藤原妹红](./藤原妹红.md)
+- [射命丸文](./射命丸文.md)
+- [键山雏](./键山雏.md)
+- [河城荷取](./河城荷取.md)
+- [东风谷早苗](./东风谷早苗.md)
 
 
 ---

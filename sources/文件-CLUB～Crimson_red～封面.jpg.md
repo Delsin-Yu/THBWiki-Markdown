@@ -1,6 +1,6 @@
 # 文件:CLUB～Crimson_red～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\de\ns6%3ACLUB%EF%BD%9ECrimson_red%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\de\ns6%3ACLUB%EF%BD%9ECrimson_red%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Red_Generation | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Red_Generation | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [CLUB～Crimson red～](./CLUB～Crimson_red～.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
-
-
-
+- [CLUB～Crimson red～](./CLUB～Crimson_red～.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
 
 ---

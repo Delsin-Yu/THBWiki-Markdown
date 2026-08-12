@@ -1,6 +1,6 @@
 # 文件:Divine_Roar封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\25\ns6%3ADivine_Roar%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\25\ns6%3ADivine_Roar%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 PhantomMist | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ PhantomMist | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Divine Roar](./Divine_Roar.md)  
-该封面包含的角色：- [灵乌路空](./灵乌路空.md)- [丰聪耳神子](./丰聪耳神子.md)
-
-
-
+- [Divine Roar](./Divine_Roar.md)该封面包含的角色：
+- [灵乌路空](./灵乌路空.md)
+- [丰聪耳神子](./丰聪耳神子.md)
 
 
 ---

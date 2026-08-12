@@ -1,6 +1,6 @@
 # 文件:THE_BLACK_LABEL_E.P.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8c\ns6%3ATHE_BLACK_LABEL_E%2EP%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8c\ns6%3ATHE_BLACK_LABEL_E%2EP%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Midicondria | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Midicondria | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [THE BLACK LABEL E.P.](./THE_BLACK_LABEL_E.P..md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)
-
-
-
+- [THE BLACK LABEL E.P.](./THE_BLACK_LABEL_E.P..md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
 
 
 ---

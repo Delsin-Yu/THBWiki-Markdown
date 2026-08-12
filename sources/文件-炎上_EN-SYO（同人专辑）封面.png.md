@@ -1,6 +1,6 @@
 # 文件:炎上_EN-SYO（同人专辑）封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2c\ns6%3A%E7%82%8E%E4%B8%8A_EN-SYO%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2c\ns6%3A%E7%82%8E%E4%B8%8A_EN-SYO%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 四面楚歌 | 封面图片 | 梶迫小道具店
 
@@ -8,11 +8,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [炎上 EN-SYO（同人专辑）](./炎上_EN-SYO（同人专辑）.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [本居小铃](./本居小铃.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [炎上 EN-SYO（同人专辑）](./炎上_EN-SYO（同人专辑）.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [本居小铃](./本居小铃.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:KPCR-120＆121_Special封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9e\ns6%3AKPCR-120%EF%BC%86121_Special%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9e\ns6%3AKPCR-120%EF%BC%86121_Special%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 岡垣正志＆フレンズ
 
@@ -11,9 +11,6 @@
   
 
 - [KPCR-120＆121 Special](./KPCR-120＆121_Special.md)
-
-
-
 
 
 ---

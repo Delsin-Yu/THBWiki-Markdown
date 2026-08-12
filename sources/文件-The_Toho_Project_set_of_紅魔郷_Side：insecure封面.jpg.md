@@ -1,6 +1,6 @@
 # 文件:The_Toho_Project_set_of_紅魔郷_Side：insecure封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9d\ns6%3AThe_Toho_Project_set_of_%E7%B4%85%E9%AD%94%E9%83%B7_Side%EF%BC%9Ainsecure%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9d\ns6%3AThe_Toho_Project_set_of_%E7%B4%85%E9%AD%94%E9%83%B7_Side%EF%BC%9Ainsecure%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 自己崩壊性LOGiC
 
@@ -11,12 +11,7 @@
 - [The Toho Project set of 紅魔郷 Side：insecure](./The_Toho_Project_set_of_紅魔郷_Side：insecure.md)
 
   
-源地址：[[1]](https://jicohoukaiseilogic.files.wordpress.com/2015/10/e7b485e6a5bce5a4a23-01.jpg?w=780&amp;h=780)
-  
-
-
-
-
+源地址：[\[1\]](https://jicohoukaiseilogic.files.wordpress.com/2015/10/e7b485e6a5bce5a4a23-01.jpg?w=780&h=780)  
 
 ---
 

@@ -1,16 +1,12 @@
 # 模板:FEJN
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\6\6f\ns10%3AFEJN.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\6\6f\ns10%3AFEJN.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

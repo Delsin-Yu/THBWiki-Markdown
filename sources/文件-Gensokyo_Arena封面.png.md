@@ -1,6 +1,6 @@
 # 文件:Gensokyo_Arena封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\15\ns6%3AGensokyo_Arena%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\15\ns6%3AGensokyo_Arena%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Drinkwater | 封面图片 | 软件封面
 
@@ -13,12 +13,7 @@ Drinkwater | 封面图片 | 软件封面
 - [Gensokyo Arena](./Gensokyo_Arena.md)
 
   
-源地址：[direct image link (original size)](https://tr.rbxcdn.com/3683b0f1138b7b061727c400cd864c25/768/432/Image/Png), [source page](https://www.roblox.com/games/5907683946/Gensokyo-Arena)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://tr.rbxcdn.com/3683b0f1138b7b061727c400cd864c25/768/432/Image/Png), [source page](https://www.roblox.com/games/5907683946/Gensokyo-Arena)  
 
 ---
 

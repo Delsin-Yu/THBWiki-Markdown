@@ -1,12 +1,8 @@
 # 文件:东方萃梦想动作试验版cover1.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9f\ns6%3A%E4%B8%9C%E6%96%B9%E8%90%83%E6%A2%A6%E6%83%B3%E5%8A%A8%E4%BD%9C%E8%AF%95%E9%AA%8C%E7%89%88cover1%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9f\ns6%3A%E4%B8%9C%E6%96%B9%E8%90%83%E6%A2%A6%E6%83%B3%E5%8A%A8%E4%BD%9C%E8%AF%95%E9%AA%8C%E7%89%88cover1%2Ejpg.html -->
 
 东方萃梦想 | 官方游戏体验版光盘扫图
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Maniacal_Annals封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b4\ns6%3AManiacal_Annals%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b4\ns6%3AManiacal_Annals%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 AGENT_0 | 专辑封面 | 封面图片
 
@@ -8,11 +8,14 @@ AGENT_0 | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Maniacal Annals](./Maniacal_Annals.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- 十六夜咲夜 (未找到链接)- [藤原妹红](./藤原妹红.md)- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)- [古明地觉](./古明地觉.md)- [封兽鵺](./封兽鵺.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [Maniacal Annals](./Maniacal_Annals.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [十六夜咲夜](./十六夜咲夜.md)
+- [藤原妹红](./藤原妹红.md)
+- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)
+- [古明地觉](./古明地觉.md)
+- [封兽鵺](./封兽鵺.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:東方AAA!_REVENGE!!封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6b\ns6%3A%E6%9D%B1%E6%96%B9AAA%21_REVENGE%21%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6b\ns6%3A%E6%9D%B1%E6%96%B9AAA%21_REVENGE%21%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 UtAGe | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ UtAGe | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方AAA! REVENGE!!](./東方AAA!_REVENGE!!.md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)
-
-
-
+- [東方AAA! REVENGE!!](./東方AAA!_REVENGE!!.md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
 
 
 ---

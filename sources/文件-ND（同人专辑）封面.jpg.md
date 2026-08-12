@@ -1,6 +1,6 @@
 # 文件:ND（同人专辑）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e6\ns6%3AND%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e6\ns6%3AND%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 まゆげストリーム | ノーストリリア | 专辑封面 | 六四蜘蛛 | 封面图片 | 群青リボン
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [ND（同人专辑）](./ND（同人专辑）.md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)
+- [ND（同人专辑）](./ND（同人专辑）.md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
 
   
-源地址：[[1]](http://japonica-univarsity.tumblr.com/)
-  
-
-
-
-
+源地址：[\[1\]](http://japonica-univarsity.tumblr.com/)  
 
 ---
 

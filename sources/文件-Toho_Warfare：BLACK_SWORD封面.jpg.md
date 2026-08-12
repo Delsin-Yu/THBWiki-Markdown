@@ -1,6 +1,6 @@
 # 文件:Toho_Warfare：BLACK_SWORD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\88\ns6%3AToho_Warfare%EF%BC%9ABLACK_SWORD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\88\ns6%3AToho_Warfare%EF%BC%9ABLACK_SWORD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ユウノウミ | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Toho Warfare：BLACK SWORD](./Toho_Warfare：BLACK_SWORD.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
+- [Toho Warfare：BLACK SWORD](./Toho_Warfare：BLACK_SWORD.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-源地址：[[1]](http://younoumi.com/wp/wp-content/uploads/2013/09/warfare3_black_600px1.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://younoumi.com/wp/wp-content/uploads/2013/09/warfare3_black_600px1.jpg)  
 
 ---
 

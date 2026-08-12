@@ -1,6 +1,6 @@
 # 文件:Inception封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6b\ns6%3AInception%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6b\ns6%3AInception%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 dat_file_records | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ dat_file_records | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Inception](./Inception.md)  
-该封面包含的角色：- [圣白莲](./圣白莲.md)
-
-
-
+- [Inception](./Inception.md)该封面包含的角色：
+- [圣白莲](./圣白莲.md)
 
 
 ---

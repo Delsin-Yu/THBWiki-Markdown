@@ -1,6 +1,6 @@
 # 文件:EterNal_Desire封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\69\ns6%3AEterNal_Desire%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\69\ns6%3AEterNal_Desire%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 CrossGear | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ CrossGear | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [EterNal Desire](./EterNal_Desire.md)  
-该封面包含的角色：- [莉格露·奈特巴格](./莉格露·奈特巴格.md)
-
-
-
+- [EterNal Desire](./EterNal_Desire.md)该封面包含的角色：
+- [莉格露·奈特巴格](./莉格露·奈特巴格.md)
 
 
 ---

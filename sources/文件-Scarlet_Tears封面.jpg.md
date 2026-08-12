@@ -1,6 +1,6 @@
 # 文件:Scarlet_Tears封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\34\ns6%3AScarlet_Tears%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\34\ns6%3AScarlet_Tears%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Sound_I'z | 专辑封面 | 封面图片
 
@@ -8,8 +8,8 @@ Sound_I'z | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Scarlet Tears](./Scarlet_Tears.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [Scarlet Tears](./Scarlet_Tears.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
   
 源地址：[direct image link (original size)](https://i1.sndcdn.com/artworks-000116038552-upkca1-original.jpg) (from [Soundcloud crossfade](https://soundcloud.com/ai-z-1/12xfdscarlet-tearssound-iz))
@@ -17,10 +17,6 @@ Sound_I'z | 专辑封面 | 封面图片
   
 Also available on the illustrator's Pixiv ([artwork ID: 50270714](https://www.pixiv.net/artworks/50270714))
   
-
-
-
-
 
 ---
 

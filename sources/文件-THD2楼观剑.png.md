@@ -1,12 +1,8 @@
 # 文件:THD2楼观剑.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8d\ns6%3ATHD2%E6%A5%BC%E8%A7%82%E5%89%91%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8d\ns6%3ATHD2%E6%A5%BC%E8%A7%82%E5%89%91%2Epng.html -->
 
 AvalonStudioOfficial
-
-
-
-
 
 
 ---

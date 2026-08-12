@@ -1,6 +1,6 @@
 # 东方小学森_～_Beloved_primary_school_textbook/对话/魂魄妖梦（普通）
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\06\ns0%3A%E4%B8%9C%E6%96%B9%E5%B0%8F%E5%AD%A6%E6%A3%AE_%EF%BD%9E_Beloved_primary_school_textbook%2F%E5%AF%B9%E8%AF%9D%2F%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6%EF%BC%88%E6%99%AE%E9%80%9A%EF%BC%89.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\06\ns0%3A%E4%B8%9C%E6%96%B9%E5%B0%8F%E5%AD%A6%E6%A3%AE_%EF%BD%9E_Beloved_primary_school_textbook%2F%E5%AF%B9%E8%AF%9D%2F%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6%EF%BC%88%E6%99%AE%E9%80%9A%EF%BC%89.html -->
 
 尹棱DANE
 
@@ -17,9 +17,6 @@
 - [8 Good Ending](#Good_Ending)
 - [9 Normal Ending](#Normal_Ending)
 - [10 Bad Ending](#Bad_Ending)
-
-
-
 
 
 ## Stage 1
@@ -231,7 +228,6 @@
 <p>就在博丽神社附近……
 </p>
 </td></tr></tbody></table>
-
 
 
 ## Stage 2
@@ -487,7 +483,6 @@
 <p>诶……？
 </p>
 </td></tr></tbody></table>
-
 
 
 ## Stage 3
@@ -822,7 +817,6 @@
 </td></tr></tbody></table>
 
 
-
 ## Stage 4
 
 <table>
@@ -1144,7 +1138,6 @@
 </td></tr></tbody></table>
 
 
-
 ## Stage 5
 
 <table>
@@ -1420,7 +1413,6 @@
 <p>但是，如果打扰了她会很生气的呢……
 </p>
 </td></tr></tbody></table>
-
 
 
 ## Stage 6
@@ -1731,7 +1723,7 @@
 <td>
 </td>
 <th colspan="2">
-<p><a href="/%E4%B8%9C%E6%96%B9%E5%B0%8F%E5%AD%A6%E6%A3%AE_%EF%BD%9E_Beloved_primary_school_textbook/%E5%AF%B9%E8%AF%9D/%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6%EF%BC%88%E6%99%AE%E9%80%9A%EF%BC%89#True_Ending" title="东方小学森 ～ Beloved primary school textbook/对话/魂魄妖梦（普通）">True Ending</a>
+<p><a href="./东方小学森_～_Beloved_primary_school_textbook-对话-魂魄妖梦（普通）.md#True_Ending" title="东方小学森 ～ Beloved primary school textbook/对话/魂魄妖梦（普通）">True Ending</a>
 </p>
 </th></tr>
 <tr>
@@ -1745,7 +1737,7 @@
 <td>
 </td>
 <th colspan="2">
-<p><a href="/%E4%B8%9C%E6%96%B9%E5%B0%8F%E5%AD%A6%E6%A3%AE_%EF%BD%9E_Beloved_primary_school_textbook/%E5%AF%B9%E8%AF%9D/%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6%EF%BC%88%E6%99%AE%E9%80%9A%EF%BC%89#Good_Ending" title="东方小学森 ～ Beloved primary school textbook/对话/魂魄妖梦（普通）">Good Ending</a>
+<p><a href="./东方小学森_～_Beloved_primary_school_textbook-对话-魂魄妖梦（普通）.md#Good_Ending" title="东方小学森 ～ Beloved primary school textbook/对话/魂魄妖梦（普通）">Good Ending</a>
 </p>
 </th></tr>
 <tr>
@@ -1759,7 +1751,7 @@
 <td>
 </td>
 <th colspan="2">
-<p><a href="/%E4%B8%9C%E6%96%B9%E5%B0%8F%E5%AD%A6%E6%A3%AE_%EF%BD%9E_Beloved_primary_school_textbook/%E5%AF%B9%E8%AF%9D/%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6%EF%BC%88%E6%99%AE%E9%80%9A%EF%BC%89#Normal_Ending" title="东方小学森 ～ Beloved primary school textbook/对话/魂魄妖梦（普通）">Normal Ending</a>
+<p><a href="./东方小学森_～_Beloved_primary_school_textbook-对话-魂魄妖梦（普通）.md#Normal_Ending" title="东方小学森 ～ Beloved primary school textbook/对话/魂魄妖梦（普通）">Normal Ending</a>
 </p>
 </th></tr>
 <tr>
@@ -1773,16 +1765,14 @@
 <td>
 </td>
 <th colspan="2">
-<p><a href="/%E4%B8%9C%E6%96%B9%E5%B0%8F%E5%AD%A6%E6%A3%AE_%EF%BD%9E_Beloved_primary_school_textbook/%E5%AF%B9%E8%AF%9D/%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6%EF%BC%88%E6%99%AE%E9%80%9A%EF%BC%89#Bad_Ending" title="东方小学森 ～ Beloved primary school textbook/对话/魂魄妖梦（普通）">Bad Ending</a>
+<p><a href="./东方小学森_～_Beloved_primary_school_textbook-对话-魂魄妖梦（普通）.md#Bad_Ending" title="东方小学森 ～ Beloved primary school textbook/对话/魂魄妖梦（普通）">Bad Ending</a>
 </p>
 </th></tr></tbody></table>
 
 
-
 ## True Ending
 
-- <font color="Red"> **剧透提示:  *以下内容包含详细故事情节，请自行决定是否继续阅读* ** </font>
-
+- <font color="Red">**剧透提示: *以下内容包含详细故事情节，请自行决定是否继续阅读***</font>
 
 
 <table>
@@ -2012,13 +2002,9 @@
 </th></tr></tbody></table>
 
 
-
-
-
 ## Good Ending
 
-- <font color="Red"> **剧透提示:  *以下内容包含详细故事情节，请自行决定是否继续阅读* ** </font>
-
+- <font color="Red">**剧透提示: *以下内容包含详细故事情节，请自行决定是否继续阅读***</font>
 
 
 <table>
@@ -2275,13 +2261,9 @@
 </th></tr></tbody></table>
 
 
-
-
-
 ## Normal Ending
 
-- <font color="Red"> **剧透提示:  *以下内容包含详细故事情节，请自行决定是否继续阅读* ** </font>
-
+- <font color="Red">**剧透提示: *以下内容包含详细故事情节，请自行决定是否继续阅读***</font>
 
 
 <table>
@@ -2416,13 +2398,9 @@
 </th></tr></tbody></table>
 
 
-
-
-
 ## Bad Ending
 
-- <font color="Red"> **剧透提示:  *以下内容包含详细故事情节，请自行决定是否继续阅读* ** </font>
-
+- <font color="Red">**剧透提示: *以下内容包含详细故事情节，请自行决定是否继续阅读***</font>
 
 
 <table>
@@ -2534,13 +2512,6 @@
 <p>Ending 34 扶她出去<br>你需要多练练提高水平。
 </p>
 </th></tr></tbody></table>
-
-
-
-
-
-
-
 
 
 ---

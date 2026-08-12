@@ -1,16 +1,11 @@
 # 文件:Medicine_Faktorybanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\30\ns6%3AMedicine_Faktorybanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\30\ns6%3AMedicine_Faktorybanner%2Ejpg.html -->
 
 Medicine_Faktory | 社团LOGO
 
   
-源地址：[[1]](https://medicinefaktory.bandcamp.com)
-  
-
-
-
-
+源地址：[\[1\]](https://medicinefaktory.bandcamp.com)  
 
 ---
 

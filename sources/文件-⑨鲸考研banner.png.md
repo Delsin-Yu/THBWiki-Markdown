@@ -1,12 +1,8 @@
 # 文件:⑨鲸考研banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\37\ns6%3A%E2%91%A8%E9%B2%B8%E8%80%83%E7%A0%94banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\37\ns6%3A%E2%91%A8%E9%B2%B8%E8%80%83%E7%A0%94banner%2Epng.html -->
 
 ⑨鲸考研 | 社团LOGO
-
-
-
-
 
 
 ---

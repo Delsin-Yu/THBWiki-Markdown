@@ -1,14 +1,11 @@
 # 文件:RomeroLOGO.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\80\ns6%3ARomeroLOGO%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\80\ns6%3ARomeroLOGO%2Ejpg.html -->
 
 Romero | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

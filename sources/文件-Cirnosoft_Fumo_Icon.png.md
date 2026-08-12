@@ -1,12 +1,8 @@
 # 文件:Cirnosoft_Fumo_Icon.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fd\ns6%3ACirnosoft_Fumo_Icon%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fd\ns6%3ACirnosoft_Fumo_Icon%2Epng.html -->
 
 东方幻想空间琪软公司
-
-
-
-
 
 
 ---

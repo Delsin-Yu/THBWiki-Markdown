@@ -1,16 +1,12 @@
 # 文件:fumo12.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e7\ns6%3Afumo12%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e7\ns6%3Afumo12%2Ejpg.html -->
 
 ふもふも
 
   
 西行寺幽幽子
   
-
-
-
-
 
 ---
 

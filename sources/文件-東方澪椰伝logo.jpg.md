@@ -1,18 +1,13 @@
 # 文件:東方澪椰伝logo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\46\ns6%3A%E6%9D%B1%E6%96%B9%E6%BE%AA%E6%A4%B0%E4%BC%9Dlogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\46\ns6%3A%E6%9D%B1%E6%96%B9%E6%BE%AA%E6%A4%B0%E4%BC%9Dlogo%2Ejpg.html -->
 
 東方澪椰伝 | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[direct image link (max size)](https://static.wixstatic.com/media/954fd3_d2df23a062c34000a18e8f94d2f59f60~mv2.jpg), [source page](https://tohoreiyaden.wixsite.com/mysite)
-  
-
-
-
-
+源地址：[direct image link (max size)](https://static.wixstatic.com/media/954fd3_d2df23a062c34000a18e8f94d2f59f60~mv2.jpg), [source page](https://tohoreiyaden.wixsite.com/mysite)  
 
 ---
 

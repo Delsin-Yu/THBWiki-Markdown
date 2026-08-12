@@ -1,6 +1,6 @@
 # 文件:Cloud_Surf_Ark_e.p._-トリプル・スタァ-封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f0\ns6%3ACloud_Surf_Ark_e%2Ep%2E_-%E3%83%88%E3%83%AA%E3%83%97%E3%83%AB%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%A1-%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f0\ns6%3ACloud_Surf_Ark_e%2Ep%2E_-%E3%83%88%E3%83%AA%E3%83%97%E3%83%AB%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%A1-%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 モノクロ殺人現場写真 | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Cloud Surf Ark e.p. -トリプル・スタァ-](./Cloud_Surf_Ark_e.p._-トリプル・スタァ-.md)  
-该封面包含的角色：- [云居一轮](./云居一轮.md)
+- [Cloud Surf Ark e.p. -トリプル・スタァ-](./Cloud_Surf_Ark_e.p._-トリプル・スタァ-.md)该封面包含的角色：
+- [云居一轮](./云居一轮.md)
 
   
-源地址：[[1]](https://static.wixstatic.com/media/0f4185_b1ff0a7863c349bda9f7f0a4fd1afac9~mv2.png)
-  
-
-
-
-
+源地址：[\[1\]](https://static.wixstatic.com/media/0f4185_b1ff0a7863c349bda9f7f0a4fd1afac9~mv2.png)  
 
 ---
 

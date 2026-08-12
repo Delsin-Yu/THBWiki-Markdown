@@ -1,12 +1,8 @@
 # 文件:Windancerbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f1\ns6%3AWindancerbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f1\ns6%3AWindancerbanner%2Ejpg.html -->
 
 Windancer | 社团LOGO
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:struggle_rusty_red封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e8\ns6%3Astruggle_rusty_red%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e8\ns6%3Astruggle_rusty_red%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 扶養家族
 
@@ -10,16 +10,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [struggle rusty red](./struggle_rusty_red.md)  
-该封面包含的角色：- [藤原妹红](./藤原妹红.md)- [犬走椛](./犬走椛.md)
+- [struggle rusty red](./struggle_rusty_red.md)该封面包含的角色：
+- [藤原妹红](./藤原妹红.md)
+- [犬走椛](./犬走椛.md)
 
   
-[Pixiv artwork ID: 53622567 (original size)](https://www.pixiv.net/artworks/53622567)
-  
-
-
-
-
+[Pixiv artwork ID: 53622567 (original size)](https://www.pixiv.net/artworks/53622567)  
 
 ---
 

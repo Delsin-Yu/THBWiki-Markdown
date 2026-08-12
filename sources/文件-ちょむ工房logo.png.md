@@ -1,18 +1,13 @@
 # 文件:ちょむ工房logo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\98\ns6%3A%E3%81%A1%E3%82%87%E3%82%80%E5%B7%A5%E6%88%BFlogo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\98\ns6%3A%E3%81%A1%E3%82%87%E3%82%80%E5%B7%A5%E6%88%BFlogo%2Epng.html -->
 
 ちょむ工房 | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[[1]](https://chomstudio.com/img/chom_logo200.png)
-  
-
-
-
-
+源地址：[\[1\]](https://chomstudio.com/img/chom_logo200.png)  
 
 ---
 

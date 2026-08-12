@@ -1,12 +1,8 @@
 # 文件:THD2伊奘诺物质.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\10\ns6%3ATHD2%E4%BC%8A%E5%A5%98%E8%AF%BA%E7%89%A9%E8%B4%A8%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\10\ns6%3ATHD2%E4%BC%8A%E5%A5%98%E8%AF%BA%E7%89%A9%E8%B4%A8%2Epng.html -->
 
 AvalonStudioOfficial
-
-
-
-
 
 
 ---

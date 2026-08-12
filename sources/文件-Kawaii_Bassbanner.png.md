@@ -1,12 +1,8 @@
 # 文件:Kawaii_Bassbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d3\ns6%3AKawaii_Bassbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d3\ns6%3AKawaii_Bassbanner%2Epng.html -->
 
 Kawaii_Bass | 社团LOGO
-
-
-
-
 
 
 ---

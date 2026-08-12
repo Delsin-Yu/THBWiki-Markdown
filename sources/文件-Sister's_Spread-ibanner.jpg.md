@@ -1,12 +1,8 @@
 # 文件:Sister's_Spread-ibanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\59\ns6%3ASister%27s_Spread-ibanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\59\ns6%3ASister%27s_Spread-ibanner%2Ejpg.html -->
 
 Sister's_Spread-i | 社团LOGO
-
-
-
-
 
 
 ---

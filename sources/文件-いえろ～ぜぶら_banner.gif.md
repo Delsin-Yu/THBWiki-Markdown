@@ -1,12 +1,8 @@
 # 文件:いえろ～ぜぶら_banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\16\ns6%3A%E3%81%84%E3%81%88%E3%82%8D%EF%BD%9E%E3%81%9C%E3%81%B6%E3%82%89_banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\16\ns6%3A%E3%81%84%E3%81%88%E3%82%8D%EF%BD%9E%E3%81%9C%E3%81%B6%E3%82%89_banner%2Egif.html -->
 
 いえろ～ぜぶら | 社团LOGO
-
-
-
-
 
 
 ---

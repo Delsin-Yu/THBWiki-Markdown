@@ -1,6 +1,6 @@
 # 文件:wafture封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\03\ns6%3Awafture%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\03\ns6%3Awafture%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Eight-Million | 专辑封面 | 封面图片
 
@@ -10,11 +10,9 @@ Eight-Million | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [wafture](./wafture.md)  
-该封面包含的角色：- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)- [因幡帝](./因幡帝.md)
-
-
-
+- [wafture](./wafture.md)该封面包含的角色：
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
+- [因幡帝](./因幡帝.md)
 
 
 ---

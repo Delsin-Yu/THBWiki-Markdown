@@ -1,6 +1,6 @@
 # 文件:EastNewSound_Alternative_Outside_2010_Summer封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ee\ns6%3AEastNewSound_Alternative_Outside_2010_Summer%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ee\ns6%3AEastNewSound_Alternative_Outside_2010_Summer%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 EastNewSound | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ EastNewSound | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [EastNewSound Alternative Outside 2010 Summer](./EastNewSound_Alternative_Outside_2010_Summer.md)  
-该封面包含的角色：- [风见幽香](./风见幽香.md)
-
-
-
+- [EastNewSound Alternative Outside 2010 Summer](./EastNewSound_Alternative_Outside_2010_Summer.md)该封面包含的角色：
+- [风见幽香](./风见幽香.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:BBB_EP封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\51\ns6%3ABBB_EP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\51\ns6%3ABBB_EP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Find_Your_Way | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ Find_Your_Way | 专辑封面 | 封面图片
   
 
 - [BBB EP](./BBB_EP.md)
-
-
-
 
 
 ---

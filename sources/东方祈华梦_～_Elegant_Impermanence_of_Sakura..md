@@ -1,21 +1,19 @@
 # 东方祈华梦_～_Elegant_Impermanence_of_Sakura.
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\f3\ns0%3A%E4%B8%9C%E6%96%B9%E7%A5%88%E5%8D%8E%E6%A2%A6_%EF%BD%9E_Elegant_Impermanence_of_Sakura%2E.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\f3\ns0%3A%E4%B8%9C%E6%96%B9%E7%A5%88%E5%8D%8E%E6%A2%A6_%EF%BD%9E_Elegant_Impermanence_of_Sakura%2E.html -->
 
 2020年4月16日 由 东方祈华梦制作组  发布的STG同人游戏，可在 Windows 系统上运行，游戏人数为 单人模式，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人软件 (未找到链接)** 的词条
+**[二次创作同人软件](./二次创作.md#同人软件)**的词条
 ## 目录
 
 - [1 软件信息](#软件信息)
 - [2 Staff](#Staff)
 - [3 作品介绍](#作品介绍)
 - [4 角色](#角色)
-
   - [4.1 自机](#自机)
   - [4.2 BOSS](#BOSS)
-
 
 
 - [5 其他资料](#其他资料)
@@ -25,8 +23,6 @@
 - [9 词条导航](#词条导航)
 
 
-
-
 ## 软件信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-东方祈华梦_～_Elegant_Impermanence_of_Sakura.封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/8/8b/%E4%B8%9C%E6%96%B9%E7%A5%88%E5%8D%8E%E6%A2%A6_%EF%BD%9E_Elegant_Impermanence_of_Sakura.%E5%B0%81%E9%9D%A2.png/252px-%E4%B8%9C%E6%96%B9%E7%A5%88%E5%8D%8E%E6%A2%A6_%EF%BD%9E_Elegant_Impermanence_of_Sakura.%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="252" height="252" srcset="https://upload.thwiki.cc/thumb/8/8b/%E4%B8%9C%E6%96%B9%E7%A5%88%E5%8D%8E%E6%A2%A6_%EF%BD%9E_Elegant_Impermanence_of_Sakura.%E5%B0%81%E9%9D%A2.png/378px-%E4%B8%9C%E6%96%B9%E7%A5%88%E5%8D%8E%E6%A2%A6_%EF%BD%9E_Elegant_Impermanence_of_Sakura.%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/8/8b/%E4%B8%9C%E6%96%B9%E7%A5%88%E5%8D%8E%E6%A2%A6_%EF%BD%9E_Elegant_Impermanence_of_Sakura.%E5%B0%81%E9%9D%A2.png/504px-%E4%B8%9C%E6%96%B9%E7%A5%88%E5%8D%8E%E6%A2%A6_%EF%BD%9E_Elegant_Impermanence_of_Sakura.%E5%B0%81%E9%9D%A2.png 2x" data-file-width="1280" data-file-height="1280"></a><div class="cover-char">角色：<a href="./樱华院静.md" title="樱华院静">樱华院静</a></div></td>
@@ -34,9 +30,7 @@
 </tr><tr><td class="label">发行方</td><td><a href="./东方祈华梦制作组.md" title="东方祈华梦制作组">东方祈华梦制作组</a><br><a href="./东游鉴.md" title="东游鉴">东游鉴</a></td></tr><tr><td class="label">首发日期</td><td>2020-04-16</td></tr><tr><td class="label">类型</td><td>游戏</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">游戏人数</td><td>单人模式</td></tr><tr><td class="label">游戏类型</td><td>STG</td></tr><tr><td class="label">运行平台</td><td>Windows</td></tr><tr><td class="label">语言</td><td>简体中文</td></tr><tr><td class="label">售价</td><td>45人民币</td></tr></tbody></table>
 
 东方祈华梦 ～ Elegant Impermanence of Sakura.（同人游戏，东方祈华梦制作组，2020） - 2020年4月16日 由 东方祈华梦制作组  发布的STG同人游戏，可在 Windows 系统上运行，游戏人数为 单人模式，分级为 一般向
-
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://store.steampowered.com/app/1252320">Steam</a></td></tr><tr><td class="label">授权代理</td><td colspan="2"><a rel="nofollow" class="external text" href="https://item.taobao.com/item.htm?id=616620774367">淘宝激活码</a></td></tr></tbody></table>
-
 
 
 <table>
@@ -46,9 +40,9 @@
 
 
 ## Staff
-策划&amp;作曲&amp;编剧
+策划&作曲&编剧
 : 灵猫子 (未找到链接)
-主催&amp;关卡设计
+主催&关卡设计
 : S7UPID (未找到链接)
 程序
 : Xiliusha (未找到链接)
@@ -66,7 +60,7 @@
 : 霞之谷的神风
 编剧
 : 青山散人 (未找到链接)
-测试&amp;关卡设计顾问
+测试&关卡设计顾问
 : LYX
 测试
 : 星海天下  
@@ -84,7 +78,6 @@ Arcas
 XYXYCoord (未找到链接)
 
 ## 作品介绍
-
   
 冬末春初的幻想乡，异常现象在悄然漫延。  
 
@@ -101,13 +94,15 @@ XYXYCoord (未找到链接)
 强梁霸道终殄灭,偏似风前尘土扬，千年之后，盛衰循环能否再次被打破呢？
   
 
-
 - 本作为中国东方爱好者制作的东方二次同人STG。
 - 本作目前已发布了正式版。
 
+
 - 详细剧情参见[故事背景](./东方祈华梦_～_Elegant_Impermanence_of_Sakura.-设定与剧情-故事背景.md)
 
+
 ## 角色
+
 ### 自机
 
 <table><tbody><tr><td style="min-width:40px;" rowspan="2"><div class="center"><div class="floatnone"><a href="./文件-博丽灵梦&八云紫（祈华梦）.png.md" class="image" title="幻想乡的维护者"><img alt="幻想乡的维护者" src="https://upload.thwiki.cc/thumb/7/74/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%26%E5%85%AB%E4%BA%91%E7%B4%AB%EF%BC%88%E7%A5%88%E5%8D%8E%E6%A2%A6%EF%BC%89.png/28px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%26%E5%85%AB%E4%BA%91%E7%B4%AB%EF%BC%88%E7%A5%88%E5%8D%8E%E6%A2%A6%EF%BC%89.png" decoding="async" loading="lazy" width="28" height="40" srcset="https://upload.thwiki.cc/thumb/7/74/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%26%E5%85%AB%E4%BA%91%E7%B4%AB%EF%BC%88%E7%A5%88%E5%8D%8E%E6%A2%A6%EF%BC%89.png/42px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%26%E5%85%AB%E4%BA%91%E7%B4%AB%EF%BC%88%E7%A5%88%E5%8D%8E%E6%A2%A6%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/7/74/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%26%E5%85%AB%E4%BA%91%E7%B4%AB%EF%BC%88%E7%A5%88%E5%8D%8E%E6%A2%A6%EF%BC%89.png/57px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%26%E5%85%AB%E4%BA%91%E7%B4%AB%EF%BC%88%E7%A5%88%E5%8D%8E%E6%A2%A6%EF%BC%89.png 2x" data-file-width="328" data-file-height="462"></a></div></div></td> <td style="width:150px;padding:3px 9px 3px 7px;" rowspan="2">幻想乡的维护者</td><td style="width:180px;padding:3px 9px 3px 7px;"> <a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></td><td rowspan="2"><a href="./东方祈华梦_～_Elegant_Impermanence_of_Sakura.-幻想乡的维护者.md" title="东方祈华梦 ～ Elegant Impermanence of Sakura./幻想乡的维护者">游戏对话/结局</a><br><a href="./东方祈华梦_～_Elegant_Impermanence_of_Sakura.-幻想乡的维护者_ExStory.md" title="东方祈华梦 ～ Elegant Impermanence of Sakura./幻想乡的维护者 ExStory">Extra游戏对话</a></td></tr><tr><td style="width:150px;padding:3px 9px 3px 7px;"><a href="./八云紫.md" title="八云紫">八云紫</a></td></tr>
@@ -116,9 +111,10 @@ XYXYCoord (未找到链接)
 
 
 ### BOSS
-- 若自机选择博丽灵梦&amp;八云紫，则进入3C面。
-- 若自机选择雾雨魔理沙&amp;西行寺幽幽子，则进入3A面。
-- 若自机选择藤原妹红&amp;上白泽慧音，则进入3B面。
+
+- 若自机选择博丽灵梦&八云紫，则进入3C面。
+- 若自机选择雾雨魔理沙&西行寺幽幽子，则进入3A面。
+- 若自机选择藤原妹红&上白泽慧音，则进入3B面。
 
 
 <table><tbody><tr><td rowspan="1" class="bg-color-info-10" style="min-width:100px"><b>一面道中</b><br><i><a href="./幽竹远梦.md" title="幽竹远梦">幽竹远梦</a></i></td>  <td style="width:150px;padding:3px 9px 3px 7px;" colspan="3" rowspan="1"> - （无名妖精）</td></tr><tr><td rowspan="1" class="bg-color-info-10" style="min-width:100px"><b>一面BOSS</b><br><i><a href="./辉夜的指引.md" title="辉夜的指引">辉夜的指引</a></i></td><td style="min-width:35px" rowspan="1"><div class="center"><div class="floatnone"><a href="./文件-蓬莱山辉夜（祈华梦立绘）normal.png.md" class="image"><img alt="蓬莱山辉夜（祈华梦立绘）normal.png" src="https://upload.thwiki.cc/thumb/7/70/%E8%93%AC%E8%8E%B1%E5%B1%B1%E8%BE%89%E5%A4%9C%EF%BC%88%E7%A5%88%E5%8D%8E%E6%A2%A6%E7%AB%8B%E7%BB%98%EF%BC%89normal.png/33px-%E8%93%AC%E8%8E%B1%E5%B1%B1%E8%BE%89%E5%A4%9C%EF%BC%88%E7%A5%88%E5%8D%8E%E6%A2%A6%E7%AB%8B%E7%BB%98%EF%BC%89normal.png" decoding="async" loading="lazy" width="33" height="40" srcset="https://upload.thwiki.cc/thumb/7/70/%E8%93%AC%E8%8E%B1%E5%B1%B1%E8%BE%89%E5%A4%9C%EF%BC%88%E7%A5%88%E5%8D%8E%E6%A2%A6%E7%AB%8B%E7%BB%98%EF%BC%89normal.png/50px-%E8%93%AC%E8%8E%B1%E5%B1%B1%E8%BE%89%E5%A4%9C%EF%BC%88%E7%A5%88%E5%8D%8E%E6%A2%A6%E7%AB%8B%E7%BB%98%EF%BC%89normal.png 1.5x, https://upload.thwiki.cc/thumb/7/70/%E8%93%AC%E8%8E%B1%E5%B1%B1%E8%BE%89%E5%A4%9C%EF%BC%88%E7%A5%88%E5%8D%8E%E6%A2%A6%E7%AB%8B%E7%BB%98%EF%BC%89normal.png/67px-%E8%93%AC%E8%8E%B1%E5%B1%B1%E8%BE%89%E5%A4%9C%EF%BC%88%E7%A5%88%E5%8D%8E%E6%A2%A6%E7%AB%8B%E7%BB%98%EF%BC%89normal.png 2x" data-file-width="2543" data-file-height="3035"></a></div></div></td>  <td style="width:150px;padding:3px 9px 3px 7px;" rowspan="1"> 永远与须臾的公主</td><td style="width:180px;padding:3px 9px 3px 7px;" rowspan="1"> <a href="./蓬莱山辉夜.md" title="蓬莱山辉夜">蓬莱山辉夜</a> </td></tr>
@@ -165,13 +161,12 @@ XYXYCoord (未找到链接)
 
 
 ## 评论
+
 ## 下载
   
 请注意：  
- **所有的二次同人软件的下载地址均为站外资源，本站并不保证其来源的合法性以及资源的有效性和安全性**   
-
+**所有的二次同人软件的下载地址均为站外资源，本站并不保证其来源的合法性以及资源的有效性和安全性**  
   
-
 
 <table>
 
@@ -185,24 +180,7 @@ XYXYCoord (未找到链接)
 
 ## 外部链接
   
-[贴吧体验版发布地址](https://tieba.baidu.com/p/5886024288?red_tag=0563780355)
-  
-
-## 词条导航
-  
-  
-
-<table><tbody><tr><td><table cellspacing="0" class="nowraplinks mw-collapsible mw-collapsed" style="width:100%;;;"><tbody><tr><th style=";" colspan="3" class="navbox-title"><div class="navbar"><div class="noprint plainlinksneverexpand" style="background-color:transparent; padding:0; font-weight:normal; font-size:80%; white-space:nowrap;"><a href="./东方祈华梦_～_Elegant_Impermanence_of_Sakura.-导航.md" title="东方祈华梦 ～ Elegant Impermanence of Sakura./导航"><span style=";;border:none;" title="查看这个模板">查</span></a>&#160;<span style="font-size:80%;">•</span>&#160;<a href="/index.php?title=%E4%B8%9C%E6%96%B9%E7%A5%88%E5%8D%8E%E6%A2%A6_%EF%BD%9E_Elegant_Impermanence_of_Sakura./%E5%AF%BC%E8%88%AA&amp;action=edit"><span style=";;border:none;" title="您可以编辑这个模板。请在储存变更之前先预览">编</span></a></div></div><span><a class="mw-selflink selflink">东方祈华梦 ～ Elegant Impermanence of Sakura.</a></span></th></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="./东方祈华梦_～_Elegant_Impermanence_of_Sakura.-角色设定.md" title="东方祈华梦 ～ Elegant Impermanence of Sakura./角色设定">角色</a></td><td style=";;" class="navbox-list navbox-odd"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>自机</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./东方祈华梦_～_Elegant_Impermanence_of_Sakura.-角色设定.md" title="东方祈华梦 ～ Elegant Impermanence of Sakura./角色设定">博丽灵梦</a> &#8226; <a href="./东方祈华梦_～_Elegant_Impermanence_of_Sakura.-角色设定.md" title="东方祈华梦 ～ Elegant Impermanence of Sakura./角色设定">八云紫</a> &#8226; <a href="./东方祈华梦_～_Elegant_Impermanence_of_Sakura.-角色设定.md" title="东方祈华梦 ～ Elegant Impermanence of Sakura./角色设定">雾雨魔理沙</a> &#8226; <a href="./东方祈华梦_～_Elegant_Impermanence_of_Sakura.-角色设定.md" title="东方祈华梦 ～ Elegant Impermanence of Sakura./角色设定">西行寺幽幽子</a> &#8226; <a href="./东方祈华梦_～_Elegant_Impermanence_of_Sakura.-角色设定.md" title="东方祈华梦 ～ Elegant Impermanence of Sakura./角色设定">藤原妹红</a> &#8226; <a href="./东方祈华梦_～_Elegant_Impermanence_of_Sakura.-角色设定.md" title="东方祈华梦 ～ Elegant Impermanence of Sakura./角色设定">上白泽慧音</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>BOSS</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./蓬莱山辉夜.md" title="蓬莱山辉夜">蓬莱山辉夜</a> &#8226; <a href="./神无月绘光.md" title="神无月绘光">神无月绘光</a> &#8226; <a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a> &#8226; <a href="./八云紫.md" title="八云紫">八云紫</a> &#8226; <a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a> &#8226; <a href="./西行寺幽幽子.md" title="西行寺幽幽子">西行寺幽幽子</a> &#8226; <a href="./藤原妹红.md" title="藤原妹红">藤原妹红</a> &#8226; <a href="./上白泽慧音.md" title="上白泽慧音">上白泽慧音</a> &#8226; <a href="./虚城妃奏华.md" title="虚城妃奏华">虚城妃奏华</a> &#8226; <a href="./莉莉霍瓦特.md" title="莉莉霍瓦特">莉莉霍瓦特</a> &#8226; <a href="./神宫寺祈.md" title="神宫寺祈">神宫寺祈</a> &#8226; <a href="./樱华院静.md" title="樱华院静">樱华院静</a> &#8226; <a href="./岩渊永.md" title="岩渊永">岩渊永</a></div></td></tr></tbody></table><div></div></td><td class="navbox-image" style="" rowspan="13"><a href="./文件-东方祈华梦_～_Elegant_Impermanence_of_Sakura.封面.png.md" class="image"><img alt="东方祈华梦 ～ Elegant Impermanence of Sakura.封面.png" src="https://upload.thwiki.cc/thumb/8/8b/%E4%B8%9C%E6%96%B9%E7%A5%88%E5%8D%8E%E6%A2%A6_%EF%BD%9E_Elegant_Impermanence_of_Sakura.%E5%B0%81%E9%9D%A2.png/160px-%E4%B8%9C%E6%96%B9%E7%A5%88%E5%8D%8E%E6%A2%A6_%EF%BD%9E_Elegant_Impermanence_of_Sakura.%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="160" height="160" srcset="https://upload.thwiki.cc/thumb/8/8b/%E4%B8%9C%E6%96%B9%E7%A5%88%E5%8D%8E%E6%A2%A6_%EF%BD%9E_Elegant_Impermanence_of_Sakura.%E5%B0%81%E9%9D%A2.png/240px-%E4%B8%9C%E6%96%B9%E7%A5%88%E5%8D%8E%E6%A2%A6_%EF%BD%9E_Elegant_Impermanence_of_Sakura.%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/8/8b/%E4%B8%9C%E6%96%B9%E7%A5%88%E5%8D%8E%E6%A2%A6_%EF%BD%9E_Elegant_Impermanence_of_Sakura.%E5%B0%81%E9%9D%A2.png/320px-%E4%B8%9C%E6%96%B9%E7%A5%88%E5%8D%8E%E6%A2%A6_%EF%BD%9E_Elegant_Impermanence_of_Sakura.%E5%B0%81%E9%9D%A2.png 2x" data-file-width="1280" data-file-height="1280"></a></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="./东方祈华梦_～_Elegant_Impermanence_of_Sakura.-设定与剧情.md" title="东方祈华梦 ～ Elegant Impermanence of Sakura./设定与剧情">剧情</a></td><td style=";;" class="navbox-list navbox-even"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>剧情文本</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./东方祈华梦_～_Elegant_Impermanence_of_Sakura.-设定与剧情-故事背景.md" title="东方祈华梦 ～ Elegant Impermanence of Sakura./设定与剧情/故事背景">故事背景</a> &#8226; <a href="/%E4%B8%9C%E6%96%B9%E7%A5%88%E5%8D%8E%E6%A2%A6_%EF%BD%9E_Elegant_Impermanence_of_Sakura./%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85/%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A#Extra_Story" title="东方祈华梦 ～ Elegant Impermanence of Sakura./设定与剧情/角色设定">Ex 故事背景</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>游戏对话&amp;结局</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="/%E4%B8%9C%E6%96%B9%E7%A5%88%E5%8D%8E%E6%A2%A6_%EF%BD%9E_Elegant_Impermanence_of_Sakura./%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%26%E5%85%AB%E4%BA%91%E7%B4%AB" class="mw-redirect" title="东方祈华梦 ～ Elegant Impermanence of Sakura./设定与剧情/博丽灵梦&amp;八云紫">博丽灵梦&amp;八云紫</a> &#8226; <a href="/%E4%B8%9C%E6%96%B9%E7%A5%88%E5%8D%8E%E6%A2%A6_%EF%BD%9E_Elegant_Impermanence_of_Sakura./%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85/%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%26%E8%A5%BF%E8%A1%8C%E5%AF%BA%E5%B9%BD%E5%B9%BD%E5%AD%90" class="mw-redirect" title="东方祈华梦 ～ Elegant Impermanence of Sakura./设定与剧情/雾雨魔理沙&amp;西行寺幽幽子">雾雨魔理沙&amp;西行寺幽幽子</a> &#8226; <a href="/%E4%B8%9C%E6%96%B9%E7%A5%88%E5%8D%8E%E6%A2%A6_%EF%BD%9E_Elegant_Impermanence_of_Sakura./%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85/%E8%97%A4%E5%8E%9F%E5%A6%B9%E7%BA%A2%26%E4%B8%8A%E7%99%BD%E6%B3%BD%E6%85%A7%E9%9F%B3" class="mw-redirect" title="东方祈华梦 ～ Elegant Impermanence of Sakura./设定与剧情/藤原妹红&amp;上白泽慧音">藤原妹红&amp;上白泽慧音</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>EX游戏对话</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="/%E4%B8%9C%E6%96%B9%E7%A5%88%E5%8D%8E%E6%A2%A6_%EF%BD%9E_Elegant_Impermanence_of_Sakura./%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%26%E5%85%AB%E4%BA%91%E7%B4%ABEX" class="mw-redirect" title="东方祈华梦 ～ Elegant Impermanence of Sakura./设定与剧情/博丽灵梦&amp;八云紫EX">博丽灵梦&amp;八云紫</a> &#8226; <a href="/%E4%B8%9C%E6%96%B9%E7%A5%88%E5%8D%8E%E6%A2%A6_%EF%BD%9E_Elegant_Impermanence_of_Sakura./%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85/%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%26%E8%A5%BF%E8%A1%8C%E5%AF%BA%E5%B9%BD%E5%B9%BD%E5%AD%90EX" class="mw-redirect" title="东方祈华梦 ～ Elegant Impermanence of Sakura./设定与剧情/雾雨魔理沙&amp;西行寺幽幽子EX">雾雨魔理沙&amp;西行寺幽幽子</a> &#8226; <a href="/%E4%B8%9C%E6%96%B9%E7%A5%88%E5%8D%8E%E6%A2%A6_%EF%BD%9E_Elegant_Impermanence_of_Sakura./%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85/%E8%97%A4%E5%8E%9F%E5%A6%B9%E7%BA%A2%26%E4%B8%8A%E7%99%BD%E6%B3%BD%E6%85%A7%E9%9F%B3EX" class="mw-redirect" title="东方祈华梦 ～ Elegant Impermanence of Sakura./设定与剧情/藤原妹红&amp;上白泽慧音EX">藤原妹红&amp;上白泽慧音</a></div></td></tr></tbody></table><div></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">场景</td><td style=";;" class="navbox-list navbox-odd"><div><a href="./迷途竹林.md" title="迷途竹林">迷途竹林</a> &#8226; <a href="./妖怪兽道.md" title="妖怪兽道">迷途竹林外兽道</a> &#8226; <a href="./妖怪之山.md" title="妖怪之山">妖怪之山小径</a> &#8226; <a href="./玄云海.md" title="玄云海">玄云海</a> &#8226; 樱庭悬苑 &#8226; 浅间神社 &#8226; 大结界边境  &#8226; <a href="./外界.md" title="外界">外界</a>（八岳山）</div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">音乐</td><td style=";;" class="navbox-list navbox-even"><div><a href="./东方祈华梦_～_Elegant_Impermanence_of_Sakura.-音乐.md" title="东方祈华梦 ～ Elegant Impermanence of Sakura./音乐">Music Room</a> &#8226; <a href="/%E4%B8%9C%E6%96%B9%E7%A5%88%E5%8D%8E%E6%A2%A6_%EF%BD%9E_Elegant_Impermanence_of_Sakura._Soundtrack" class="mw-redirect" title="东方祈华梦 ～ Elegant Impermanence of Sakura. Soundtrack">Original Sound Track</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="/%E4%B8%9C%E6%96%B9%E7%A5%88%E5%8D%8E%E6%A2%A6_%EF%BD%9E_Elegant_Impermanence_of_Sakura./%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85#附带文档" title="东方祈华梦 ～ Elegant Impermanence of Sakura./设定与剧情">附带文档</a></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./东方祈华梦_～_Elegant_Impermanence_of_Sakura.-设定与剧情-角色设定.md" title="东方祈华梦 ～ Elegant Impermanence of Sakura./设定与剧情/角色设定">角色设定</a> &#8226; <a href="./东方祈华梦_～_Elegant_Impermanence_of_Sakura.-设定与剧情-Omake.md" title="东方祈华梦 ～ Elegant Impermanence of Sakura./设定与剧情/Omake">Omake</a> &#8226; <a href="./东方祈华梦_～_Elegant_Impermanence_of_Sakura.-设定与剧情-Manual.md" title="东方祈华梦 ～ Elegant Impermanence of Sakura./设定与剧情/Manual">Manual</a> &#8226; <a href="./东方祈华梦_～_Elegant_Impermanence_of_Sakura.-设定与剧情-疑难解答.md" title="东方祈华梦 ～ Elegant Impermanence of Sakura./设定与剧情/疑难解答">疑难解答</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="./东方祈华梦_～_Elegant_Impermanence_of_Sakura.-系统.md" title="东方祈华梦 ～ Elegant Impermanence of Sakura./系统">系统</a></td><td style=";;" class="navbox-list navbox-even"><div><a href="./东方祈华梦_～_Elegant_Impermanence_of_Sakura.-系统.md" title="东方祈华梦 ～ Elegant Impermanence of Sakura./系统">系统</a> &#8226; <a href="./东方祈华梦_～_Elegant_Impermanence_of_Sakura.-其他.md" title="东方祈华梦 ～ Elegant Impermanence of Sakura./其他">其他相关资料</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="./东方祈华梦_～_Elegant_Impermanence_of_Sakura.-符卡.md" title="东方祈华梦 ～ Elegant Impermanence of Sakura./符卡">符卡</a></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./东方祈华梦_～_Elegant_Impermanence_of_Sakura.-符卡-Stage_1.md" title="东方祈华梦 ～ Elegant Impermanence of Sakura./符卡/Stage 1">Stage 1</a> &#8226; <a href="./东方祈华梦_～_Elegant_Impermanence_of_Sakura.-符卡-Stage_2.md" title="东方祈华梦 ～ Elegant Impermanence of Sakura./符卡/Stage 2">Stage 2</a> &#8226; <a href="./东方祈华梦_～_Elegant_Impermanence_of_Sakura.-符卡-Stage_3A.md" title="东方祈华梦 ～ Elegant Impermanence of Sakura./符卡/Stage 3A">Stage 3A</a> &#8226; <a href="./东方祈华梦_～_Elegant_Impermanence_of_Sakura.-符卡-Stage_3B.md" title="东方祈华梦 ～ Elegant Impermanence of Sakura./符卡/Stage 3B">Stage 3B</a> &#8226; <a href="./东方祈华梦_～_Elegant_Impermanence_of_Sakura.-符卡-Stage_3C.md" title="东方祈华梦 ～ Elegant Impermanence of Sakura./符卡/Stage 3C">Stage 3C</a> &#8226; <a href="./东方祈华梦_～_Elegant_Impermanence_of_Sakura.-符卡-Stage_4.md" title="东方祈华梦 ～ Elegant Impermanence of Sakura./符卡/Stage 4">Stage 4</a> &#8226; <a href="./东方祈华梦_～_Elegant_Impermanence_of_Sakura.-符卡-Stage_5.md" title="东方祈华梦 ～ Elegant Impermanence of Sakura./符卡/Stage 5">Stage 5</a> &#8226; <a href="./东方祈华梦_～_Elegant_Impermanence_of_Sakura.-符卡-Stage_6.md" title="东方祈华梦 ～ Elegant Impermanence of Sakura./符卡/Stage 6">Stage 6</a> &#8226; <a href="./东方祈华梦_～_Elegant_Impermanence_of_Sakura.-符卡-Extra.md" title="东方祈华梦 ～ Elegant Impermanence of Sakura./符卡/Extra">Extra</a></div></td></tr></tbody></table></td></tr></tbody></table>
-
-
-  
-  
-
-  
-
-
-
-
+[贴吧体验版发布地址](https://tieba.baidu.com/p/5886024288?red_tag=0563780355)  
 
 ---
 

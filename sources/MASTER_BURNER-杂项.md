@@ -1,18 +1,13 @@
 # MASTER_BURNER/杂项
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\3\3e\ns0%3AMASTER_BURNER%2F%E6%9D%82%E9%A1%B9.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\3\3e\ns0%3AMASTER_BURNER%2F%E6%9D%82%E9%A1%B9.html -->
 
 D.N.A.Softwares
 
 
 ## 关联
   
-[MASTER BURNER](./MASTER_BURNER.md)几乎是 SEGA 的旧街机游戏 After Burner的翻版，但主角换成了[魔理沙](./雾雨魔理沙.md)
-  
-
-
-
-
+[MASTER BURNER](./MASTER_BURNER.md)几乎是 SEGA 的旧街机游戏 After Burner的翻版，但主角换成了[魔理沙](./雾雨魔理沙.md)  
 
 ---
 

@@ -1,16 +1,12 @@
 # 模板:TOHO_BEAT_LARIAT
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\6\6b\ns10%3ATOHO_BEAT_LARIAT.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\6\6b\ns10%3ATOHO_BEAT_LARIAT.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

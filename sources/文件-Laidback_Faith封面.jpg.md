@@ -1,6 +1,6 @@
 # 文件:Laidback_Faith封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ca\ns6%3ALaidback_Faith%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ca\ns6%3ALaidback_Faith%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 MA.S_ATTACK | 专辑封面 | 封面图片
 
@@ -8,16 +8,12 @@ MA.S_ATTACK | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Laidback Faith](./Laidback_Faith.md)  
-该封面包含的角色：- [键山雏](./键山雏.md)- [河城荷取](./河城荷取.md)
+- [Laidback Faith](./Laidback_Faith.md)该封面包含的角色：
+- [键山雏](./键山雏.md)
+- [河城荷取](./河城荷取.md)
 
   
-源地址：[[1]](https://web.archive.org/web/20111014073141im_/http://masattack.flier.jp/LFsmall.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://web.archive.org/web/20111014073141im_/http://masattack.flier.jp/LFsmall.jpg)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:Choose_your_way封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\93\ns6%3AChoose_your_way%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\93\ns6%3AChoose_your_way%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Spoo_and_Nick | 专辑封面 | 封面图片
 
@@ -13,12 +13,7 @@ Spoo_and_Nick | 专辑封面 | 封面图片
 - [Choose your way](./Choose_your_way.md)
 
   
-源地址：[direct image link](https://www.suruga-ya.jp/database/pics_light/game/186158412.jpg), [source page (suruga-ya ID: 186158412)](https://www.suruga-ya.jp/product/detail/186158412)
-  
-
-
-
-
+源地址：[direct image link](https://www.suruga-ya.jp/database/pics_light/game/186158412.jpg), [source page (suruga-ya ID: 186158412)](https://www.suruga-ya.jp/product/detail/186158412)  
 
 ---
 

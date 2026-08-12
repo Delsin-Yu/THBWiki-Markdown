@@ -1,6 +1,6 @@
 # 文件:寄_~_Across_the_river封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bf\ns6%3A%E5%AF%84_%7E_Across_the_river%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bf\ns6%3A%E5%AF%84_%7E_Across_the_river%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Mount_Mysterious_Team | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Mount_Mysterious_Team | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [寄 ~ Across the river](./寄_~_Across_the_river.md)  
-该封面包含的角色：- [本居小铃](./本居小铃.md)
-
-
-
+- [寄 ~ Across the river](./寄_~_Across_the_river.md)该封面包含的角色：
+- [本居小铃](./本居小铃.md)
 
 
 ---

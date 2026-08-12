@@ -1,12 +1,8 @@
 # 文件:瑞风天堺BOSS（天影战记）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7e\ns6%3A%E7%91%9E%E9%A3%8E%E5%A4%A9%E5%A0%BABOSS%EF%BC%88%E5%A4%A9%E5%BD%B1%E6%88%98%E8%AE%B0%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7e\ns6%3A%E7%91%9E%E9%A3%8E%E5%A4%A9%E5%A0%BABOSS%EF%BC%88%E5%A4%A9%E5%BD%B1%E6%88%98%E8%AE%B0%EF%BC%89%2Epng.html -->
 
 トリック・ノスタルジー | 二次角色立绘 | 瑞风天堺 | 连缘天影战记
-
-
-
-
 
 
 ---

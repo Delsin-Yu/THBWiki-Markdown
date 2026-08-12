@@ -1,6 +1,6 @@
 # 文件:Youkai_-_Touhou_Metal封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c4\ns6%3AYoukai_-_Touhou_Metal%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c4\ns6%3AYoukai_-_Touhou_Metal%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 YaboiMatoi | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@ YaboiMatoi | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Youkai - Touhou Metal](./Youkai_-_Touhou_Metal.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
+- [Youkai - Touhou Metal](./Youkai_-_Touhou_Metal.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
   
-源地址：[[1]](https://f4.bcbits.com/img/a2486572950_10.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://f4.bcbits.com/img/a2486572950_10.jpg)  
 
 ---
 

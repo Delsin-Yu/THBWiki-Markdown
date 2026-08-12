@@ -1,6 +1,6 @@
 # 文件:弾幕のシエスタ_zwei封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ec\ns6%3A%E5%BC%BE%E5%B9%95%E3%81%AE%E3%82%B7%E3%82%A8%E3%82%B9%E3%82%BF_zwei%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ec\ns6%3A%E5%BC%BE%E5%B9%95%E3%81%AE%E3%82%B7%E3%82%A8%E3%82%B9%E3%82%BF_zwei%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Siestail | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Siestail | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [弾幕のシエスタ zwei](./弾幕のシエスタ_zwei.md)  
-该封面包含的角色：- [赤蛮奇](./赤蛮奇.md)
-
-
-
+- [弾幕のシエスタ zwei](./弾幕のシエスタ_zwei.md)该封面包含的角色：
+- [赤蛮奇](./赤蛮奇.md)
 
 
 ---

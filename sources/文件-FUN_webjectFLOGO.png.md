@@ -1,18 +1,13 @@
 # 文件:FUN_webjectFLOGO.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2d\ns6%3AFUN_webjectFLOGO%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2d\ns6%3AFUN_webjectFLOGO%2Epng.html -->
 
 FUN_webjectF | 社团LOGO
 
 
 ## 文件说明
   
-[[1]](https://cdn.dizzylab.net/media/label_cover/头图1.0服役中.png)
-  
-
-
-
-
+[\[1\]](https://cdn.dizzylab.net/media/label_cover/头图1.0服役中.png)  
 
 ---
 

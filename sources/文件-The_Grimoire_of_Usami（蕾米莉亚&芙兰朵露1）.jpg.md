@@ -1,14 +1,11 @@
 # 文件:The_Grimoire_of_Usami（蕾米莉亚&芙兰朵露1）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b6\ns6%3AThe_Grimoire_of_Usami%EF%BC%88%E8%95%BE%E7%B1%B3%E8%8E%89%E4%BA%9A%26%E8%8A%99%E5%85%B0%E6%9C%B5%E9%9C%B21%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b6\ns6%3AThe_Grimoire_of_Usami%EF%BC%88%E8%95%BE%E7%B1%B3%E8%8E%89%E4%BA%9A%26%E8%8A%99%E5%85%B0%E6%9C%B5%E9%9C%B21%EF%BC%89%2Ejpg.html -->
 
 宇佐见的魔法书 | 芙兰朵露·斯卡蕾特 | 蕾米莉亚·斯卡蕾特
 
 
 ## 摘要
-
-
-
 
 ---
 

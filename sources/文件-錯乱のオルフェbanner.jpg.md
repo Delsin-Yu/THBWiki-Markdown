@@ -1,12 +1,8 @@
 # 文件:錯乱のオルフェbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d2\ns6%3A%E9%8C%AF%E4%B9%B1%E3%81%AE%E3%82%AA%E3%83%AB%E3%83%95%E3%82%A7banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d2\ns6%3A%E9%8C%AF%E4%B9%B1%E3%81%AE%E3%82%AA%E3%83%AB%E3%83%95%E3%82%A7banner%2Ejpg.html -->
 
 社团LOGO | 錯乱のオルフェ
-
-
-
-
 
 
 ---

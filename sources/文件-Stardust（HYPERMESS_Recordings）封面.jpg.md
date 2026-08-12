@@ -1,6 +1,6 @@
 # 文件:Stardust（HYPERMESS_Recordings）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2f\ns6%3AStardust%EF%BC%88HYPERMESS_Recordings%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2f\ns6%3AStardust%EF%BC%88HYPERMESS_Recordings%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 HYPERMESS_Recordings | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ HYPERMESS_Recordings | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Stardust（HYPERMESS Recordings）](./Stardust（HYPERMESS_Recordings）.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [Stardust（HYPERMESS Recordings）](./Stardust（HYPERMESS_Recordings）.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

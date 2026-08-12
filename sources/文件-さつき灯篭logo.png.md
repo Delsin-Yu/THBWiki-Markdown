@@ -1,14 +1,11 @@
 # 文件:さつき灯篭logo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\66\ns6%3A%E3%81%95%E3%81%A4%E3%81%8D%E7%81%AF%E7%AF%ADlogo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\66\ns6%3A%E3%81%95%E3%81%A4%E3%81%8D%E7%81%AF%E7%AF%ADlogo%2Epng.html -->
 
 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

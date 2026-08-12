@@ -1,14 +1,11 @@
 # 文件:UNTIES_LOGO.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\44\ns6%3AUNTIES_LOGO%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\44\ns6%3AUNTIES_LOGO%2Epng.html -->
 
 企业LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

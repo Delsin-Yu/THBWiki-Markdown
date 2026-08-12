@@ -1,6 +1,6 @@
 # 文件:東方低弦弾_Vol.2_～ベストテンの巻～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\65\ns6%3A%E6%9D%B1%E6%96%B9%E4%BD%8E%E5%BC%A6%E5%BC%BE_Vol%2E2_%EF%BD%9E%E3%83%99%E3%82%B9%E3%83%88%E3%83%86%E3%83%B3%E3%81%AE%E5%B7%BB%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\65\ns6%3A%E6%9D%B1%E6%96%B9%E4%BD%8E%E5%BC%A6%E5%BC%BE_Vol%2E2_%EF%BD%9E%E3%83%99%E3%82%B9%E3%83%88%E3%83%86%E3%83%B3%E3%81%AE%E5%B7%BB%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 H.J.Freaks | ぼいじゃあ | ジュクチョー | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ H.J.Freaks | ぼいじゃあ | ジュクチョー | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方低弦弾 Vol.2 ～ベストテンの巻～](./東方低弦弾_Vol.2_～ベストテンの巻～.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
-
-
-
+- [東方低弦弾 Vol.2 ～ベストテンの巻～](./東方低弦弾_Vol.2_～ベストテンの巻～.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
 
 ---

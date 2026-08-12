@@ -1,6 +1,6 @@
 # 文件:trt_02.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\83\ns6%3Atrt_02%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\83\ns6%3Atrt_02%2Emp3.html -->
 
 Sacred_Battle | 东方幻想的音乐
 
@@ -8,10 +8,6 @@ Sacred_Battle | 东方幻想的音乐
 [https://www.shrinemaiden.org/forum/index.php/topic,18989.0.html](https://www.shrinemaiden.org/forum/index.php/topic,18989.0.html)
 SC-88Pro实录MIDI
   
-
-
-
-
 
 ---
 

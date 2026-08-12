@@ -1,12 +1,8 @@
 # 文件:荣术丸樱（谜缘塔）pr.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\39\ns6%3A%E8%8D%A3%E6%9C%AF%E4%B8%B8%E6%A8%B1%EF%BC%88%E8%B0%9C%E7%BC%98%E5%A1%94%EF%BC%89pr%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\39\ns6%3A%E8%8D%A3%E6%9C%AF%E4%B8%B8%E6%A8%B1%EF%BC%88%E8%B0%9C%E7%BC%98%E5%A1%94%EF%BC%89pr%2Epng.html -->
 
 二次角色立绘 | 荣术丸樱 | 阐幽赜书房
-
-
-
-
 
 
 ---

@@ -1,53 +1,42 @@
 # Boundary_Satellite_Cafe/イベントロゴ/コースター
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\42\ns0%3ABoundary_Satellite_Cafe%2F%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%83%AD%E3%82%B4%2F%E3%82%B3%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%BC.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\42\ns0%3ABoundary_Satellite_Cafe%2F%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%83%AD%E3%82%B4%2F%E3%82%B3%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%BC.html -->
 
 2018年5月5日 由 Boundary Satellite Cafe 于 Boundary Satellite Cafe1 发布的餐具/家居用品周边，分级为 一般向
 
 本页是关于东方Project  
- **相关实体周边 (未找到链接)** 的词条
-
+**相关实体周边 (未找到链接)**的词条
 ## 目录
 
 - [1 周边信息](#周边信息)
 - [2 参考图](#参考图)
-
   - [2.1 实物图](#实物图)
-
 
 
 - [3 Staff](#Staff)
 - [4 评论](#评论)
 
 
-
-
-
 ## 周边信息
 
-<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> イベントロゴコースター </td></tr><tr><td class="label">译名</td><td> 活动LOGO杯垫 </td></tr><tr><td class="label">系列</td><td> イベントロゴ </td></tr><tr><td class="label">制作方</td><td><a href="./Boundary_Satellite_Cafe.md" title="Boundary Satellite Cafe">Boundary Satellite Cafe</a></td></tr><tr><td class="label">首发日期</td><td>2018-05-05&#160;（<a href="/展会作品列表?e=Boundary+Satellite+Cafe%231">Boundary Satellite Cafe</a>）</td></tr><tr><td class="label">类型</td><td>餐具，家居用品</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>大约直径12.5cm</td></tr><tr><td class="label">材质</td><td>纸</td></tr><tr><td class="label">售价</td><td>免费</td></tr><tr><td class="label">备注</td><td>在<a href="./Boundary_Satellite_Cafe.md" title="Boundary Satellite Cafe">Boundary Satellite Cafe</a>活动中，每点一杯冷饮会免费获得印有<a href="./Boundary_Satellite_Cafe.md" title="Boundary Satellite Cafe">Boundary Satellite Cafe</a>活动LOGO的杯垫一枚。</td></tr></tbody></table>
+<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> イベントロゴコースター </td></tr><tr><td class="label">译名</td><td> 活动LOGO杯垫 </td></tr><tr><td class="label">系列</td><td> イベントロゴ </td></tr><tr><td class="label">制作方</td><td><a href="./Boundary_Satellite_Cafe.md" title="Boundary Satellite Cafe">Boundary Satellite Cafe</a></td></tr><tr><td class="label">首发日期</td><td>2018-05-05 （<a href="./展会作品列表.md#1">Boundary Satellite Cafe</a>）</td></tr><tr><td class="label">类型</td><td>餐具，家居用品</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>大约直径12.5cm</td></tr><tr><td class="label">材质</td><td>纸</td></tr><tr><td class="label">售价</td><td>免费</td></tr><tr><td class="label">备注</td><td>在<a href="./Boundary_Satellite_Cafe.md" title="Boundary Satellite Cafe">Boundary Satellite Cafe</a>活动中，每点一杯冷饮会免费获得印有<a href="./Boundary_Satellite_Cafe.md" title="Boundary Satellite Cafe">Boundary Satellite Cafe</a>活动LOGO的杯垫一枚。</td></tr></tbody></table>
 
 Boundary Satellite Cafe/イベントロゴ/コースター（周边，Boundary Satellite Cafe，2018） - 2018年5月5日 由 Boundary Satellite Cafe 于 Boundary Satellite Cafe1 发布的餐具/家居用品周边，分级为 一般向
-
 ## 参考图
   
 周边宣传、售卖时使用的作为参考图的预览图或实物图的图片。
   
 
-
 ### 实物图
-- [](./文件-Boundary_Satellite_Cafe／イベントロゴ／コースター实物图1.jpg.md)
+
+- <img alt="Boundary Satellite Cafe／イベントロゴ／コースター实物图1.jpg" src="https://upload.thwiki.cc/thumb/5/53/Boundary_Satellite_Cafe%EF%BC%8F%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%83%AD%E3%82%B4%EF%BC%8F%E3%82%B3%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%BC%E5%AE%9E%E7%89%A9%E5%9B%BE1.jpg/281px-Boundary_Satellite_Cafe%EF%BC%8F%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%83%AD%E3%82%B4%EF%BC%8F%E3%82%B3%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%BC%E5%AE%9E%E7%89%A9%E5%9B%BE1.jpg" decoding="async" loading="lazy" width="188" height="250" srcset="https://upload.thwiki.cc/thumb/5/53/Boundary_Satellite_Cafe%EF%BC%8F%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%83%AD%E3%82%B4%EF%BC%8F%E3%82%B3%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%BC%E5%AE%9E%E7%89%A9%E5%9B%BE1.jpg/422px-Boundary_Satellite_Cafe%EF%BC%8F%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%83%AD%E3%82%B4%EF%BC%8F%E3%82%B3%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%BC%E5%AE%9E%E7%89%A9%E5%9B%BE1.jpg 1.5x, https://upload.thwiki.cc/thumb/5/53/Boundary_Satellite_Cafe%EF%BC%8F%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%83%AD%E3%82%B4%EF%BC%8F%E3%82%B3%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%BC%E5%AE%9E%E7%89%A9%E5%9B%BE1.jpg/562px-Boundary_Satellite_Cafe%EF%BC%8F%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%83%AD%E3%82%B4%EF%BC%8F%E3%82%B3%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%BC%E5%AE%9E%E7%89%A9%E5%9B%BE1.jpg 2x" data-file-width="1536" data-file-height="2048"> 
 
 
 ## Staff
 Design
 : [菊壱モンジ](./菊壱モンジ.md)
 
-
 ## 评论
-
-
-
 
 ---
 

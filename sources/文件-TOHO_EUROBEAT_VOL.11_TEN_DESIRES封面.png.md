@@ -1,6 +1,6 @@
 # 文件:TOHO_EUROBEAT_VOL.11_TEN_DESIRES封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\df\ns6%3ATOHO_EUROBEAT_VOL%2E11_TEN_DESIRES%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\df\ns6%3ATOHO_EUROBEAT_VOL%2E11_TEN_DESIRES%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 A-One | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ A-One | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [TOHO EUROBEAT VOL.11 TEN DESIRES](./TOHO_EUROBEAT_VOL.11_TEN_DESIRES.md)  
-该封面包含的角色：- [宫古芳香](./宫古芳香.md)
-
-
-
+- [TOHO EUROBEAT VOL.11 TEN DESIRES](./TOHO_EUROBEAT_VOL.11_TEN_DESIRES.md)该封面包含的角色：
+- [宫古芳香](./宫古芳香.md)
 
 
 ---

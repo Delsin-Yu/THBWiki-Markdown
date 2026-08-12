@@ -1,6 +1,6 @@
 # 文件:wither.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cc\ns6%3Awither%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cc\ns6%3Awither%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Takamachi_Walk | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Takamachi_Walk | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [wither.](./wither..md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [wither.](./wither..md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
 
   
-源地址：[[1]](https://f4.bcbits.com/img/a3290301077_10.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://f4.bcbits.com/img/a3290301077_10.jpg)  
 
 ---
 

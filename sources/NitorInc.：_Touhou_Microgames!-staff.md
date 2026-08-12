@@ -1,6 +1,6 @@
 # NitorInc.：_Touhou_Microgames!/staff
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\fb\ns0%3ANitorInc%2E%EF%BC%9A_Touhou_Microgames%21%2Fstaff.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\fb\ns0%3ANitorInc%2E%EF%BC%9A_Touhou_Microgames%21%2Fstaff.html -->
 
 NitorInc._Collab
 
@@ -308,10 +308,6 @@ Touhou Road Shou Arcade
 Touhou Project的Discord服务器  
 我们的游戏测试玩家  
 还有一直帮我们努力宣传的粉丝们！
-
-
-
-
 
 ---
 

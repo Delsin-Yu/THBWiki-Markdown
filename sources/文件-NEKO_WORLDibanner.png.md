@@ -1,12 +1,8 @@
 # 文件:NEKO_WORLDibanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c6\ns6%3ANEKO_WORLDibanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c6\ns6%3ANEKO_WORLDibanner%2Epng.html -->
 
 NEKO_WORLDi | 社团LOGO
-
-
-
-
 
 
 ---

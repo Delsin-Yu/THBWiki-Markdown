@@ -1,28 +1,26 @@
 # Adorable
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\ff\ns0%3AAdorable.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\ff\ns0%3AAdorable.html -->
 
 2015年5月10日 由 銀の鳥かご 于 博丽神社例大祭12 发布的画集同人志，B5尺寸一共16页，登场人物有 蕾米莉亚·斯卡蕾特、芙兰朵露·斯卡蕾特、古明地觉、古明地恋、十六夜咲夜，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人志 (未找到链接)** 的词条
-
+**[二次创作同人志](./二次创作.md#同人志)**的词条
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Adorable封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/c/ce/Adorable%E5%B0%81%E9%9D%A2.jpg/159px-Adorable%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="159" height="224" srcset="https://upload.thwiki.cc/thumb/c/ce/Adorable%E5%B0%81%E9%9D%A2.jpg/239px-Adorable%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/c/ce/Adorable%E5%B0%81%E9%9D%A2.jpg/319px-Adorable%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="641" data-file-height="900"></a><div class="cover-char">角色：<a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a></div></td>
 </tr><tr><td class="label">名称</td><td colspan="2"> Adorable </td></tr><tr><td class="label">制作方</td><td><a href="./銀の鳥かご.md" title="銀の鳥かご">銀の鳥かご</a></td><td class="cover-artwork" rowspan="8" style="min-width:224px;"><a href="./文件-Adorable封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/c/ce/Adorable%E5%B0%81%E9%9D%A2.jpg/159px-Adorable%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="159" height="224" srcset="https://upload.thwiki.cc/thumb/c/ce/Adorable%E5%B0%81%E9%9D%A2.jpg/239px-Adorable%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/c/ce/Adorable%E5%B0%81%E9%9D%A2.jpg/319px-Adorable%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="641" data-file-height="900"></a><div class="cover-char">角色：<a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2015-05-10&#160;（<a href="/展会作品列表?e=%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD%2312">第十二回 博麗神社例大祭</a>）</td></tr><tr><td class="label">类型</td><td>画集</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>B5</td></tr><tr><td class="label">页数</td><td>16P</td></tr><tr><td class="label">登场人物</td><td><a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a>，<a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰朵露·斯卡蕾特</a>，<a href="./古明地觉.md" title="古明地觉">古明地觉</a>，<a href="./古明地恋.md" title="古明地恋">古明地恋</a>，<a href="/%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C" title="十六夜咲夜">十六夜咲夜</a></td></tr><tr><td class="label">售价</td><td>通贩售价：714日元</td></tr>
+</tr><tr><td class="label">首发日期</td><td>2015-05-10 （<a href="./展会作品列表.md#12">第十二回 博麗神社例大祭</a>）</td></tr><tr><td class="label">类型</td><td>画集</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>B5</td></tr><tr><td class="label">页数</td><td>16P</td></tr><tr><td class="label">登场人物</td><td><a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a>，<a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰朵露·斯卡蕾特</a>，<a href="./古明地觉.md" title="古明地觉">古明地觉</a>，<a href="./古明地恋.md" title="古明地恋">古明地恋</a>，<a href="./十六夜咲夜.md" title="十六夜咲夜">十六夜咲夜</a></td></tr><tr><td class="label">售价</td><td>通贩售价：714日元</td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/gindukiringo/status/594650102720909312">https://twitter.com/gindukiringo/status/594650102720909312</a></td></tr></tbody></table>
 
 Adorable（同人志，銀の鳥かご，2015） - 2015年5月10日 由 銀の鳥かご 于 博丽神社例大祭12 发布的画集同人志，B5尺寸一共16页，登场人物有 蕾米莉亚·斯卡蕾特、芙兰朵露·斯卡蕾特、古明地觉、古明地恋、十六夜咲夜，分级为 一般向
-
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=130132">蜜瓜</a></td></tr></tbody></table>
-
 
 
 ## 预览
 
 ## Staff
+
 - 銀月りんご (未找到链接)
 - 城雅 (未找到链接)
 - よー清水 (未找到链接)
@@ -32,9 +30,6 @@ Adorable（同人志，銀の鳥かご，2015） - 2015年5月10日 由 銀の�
 
 
 ## 评论
-
-
-
 
 ---
 

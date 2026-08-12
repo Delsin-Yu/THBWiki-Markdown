@@ -1,6 +1,6 @@
 # 文件:AneMone（船底船長室）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4f\ns6%3AAneMone%EF%BC%88%E8%88%B9%E5%BA%95%E8%88%B9%E9%95%B7%E5%AE%A4%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4f\ns6%3AAneMone%EF%BC%88%E8%88%B9%E5%BA%95%E8%88%B9%E9%95%B7%E5%AE%A4%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 船底船長室
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [AneMone（船底船長室）](./AneMone（船底船長室）.md)  
-该封面包含的角色：- [古明地觉](./古明地觉.md)
-
-
-
+- [AneMone（船底船長室）](./AneMone（船底船長室）.md)该封面包含的角色：
+- [古明地觉](./古明地觉.md)
 
 
 ---

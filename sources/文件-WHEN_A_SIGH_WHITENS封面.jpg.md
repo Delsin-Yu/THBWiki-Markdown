@@ -1,6 +1,6 @@
 # 文件:WHEN_A_SIGH_WHITENS封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\06\ns6%3AWHEN_A_SIGH_WHITENS%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\06\ns6%3AWHEN_A_SIGH_WHITENS%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 AND_THEN_IT_PASSES | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ AND_THEN_IT_PASSES | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [WHEN A SIGH WHITENS](./WHEN_A_SIGH_WHITENS.md)  
-该封面包含的角色：- [红美铃](./红美铃.md)
-
-
-
+- [WHEN A SIGH WHITENS](./WHEN_A_SIGH_WHITENS.md)该封面包含的角色：
+- [红美铃](./红美铃.md)
 
 
 ---

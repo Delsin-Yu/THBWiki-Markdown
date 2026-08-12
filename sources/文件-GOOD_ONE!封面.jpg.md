@@ -1,6 +1,6 @@
 # 文件:GOOD_ONE!封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\58\ns6%3AGOOD_ONE%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\58\ns6%3AGOOD_ONE%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 こげコロッケ | 同人志封面 | 封面图片
 
@@ -8,11 +8,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [GOOD ONE!](./GOOD_ONE!.md)  
-该封面包含的角色：- [宫古芳香](./宫古芳香.md)- [霍青娥](./霍青娥.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [GOOD ONE!](./GOOD_ONE!.md)该封面包含的角色：
+- [宫古芳香](./宫古芳香.md)
+- [霍青娥](./霍青娥.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

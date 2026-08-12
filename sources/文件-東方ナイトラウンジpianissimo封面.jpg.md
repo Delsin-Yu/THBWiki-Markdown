@@ -1,6 +1,6 @@
 # 文件:東方ナイトラウンジpianissimo封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dd\ns6%3A%E6%9D%B1%E6%96%B9%E3%83%8A%E3%82%A4%E3%83%88%E3%83%A9%E3%82%A6%E3%83%B3%E3%82%B8pianissimo%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dd\ns6%3A%E6%9D%B1%E6%96%B9%E3%83%8A%E3%82%A4%E3%83%88%E3%83%A9%E3%82%A6%E3%83%B3%E3%82%B8pianissimo%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Circle-S | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ Circle-S | 专辑封面 | 封面图片
   
 
 - [東方ナイトラウンジpianissimo](./東方ナイトラウンジpianissimo.md)
-
-
-
 
 
 ---

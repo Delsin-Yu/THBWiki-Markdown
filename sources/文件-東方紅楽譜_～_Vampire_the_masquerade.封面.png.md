@@ -1,6 +1,6 @@
 # 文件:東方紅楽譜_～_Vampire_the_masquerade.封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b5\ns6%3A%E6%9D%B1%E6%96%B9%E7%B4%85%E6%A5%BD%E8%AD%9C_%EF%BD%9E_Vampire_the_masquerade%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b5\ns6%3A%E6%9D%B1%E6%96%B9%E7%B4%85%E6%A5%BD%E8%AD%9C_%EF%BD%9E_Vampire_the_masquerade%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 転々。新聞
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方紅楽譜 ～ Vampire the masquerade.](./東方紅楽譜_～_Vampire_the_masquerade..md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [東方紅楽譜 ～ Vampire the masquerade.](./東方紅楽譜_～_Vampire_the_masquerade..md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
   
-源地址：[[1]](http://tentenmaru.web.fc2.com/kourakunosirabe.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://tentenmaru.web.fc2.com/kourakunosirabe.jpg)  
 
 ---
 

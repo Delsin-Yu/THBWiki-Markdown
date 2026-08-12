@@ -1,6 +1,6 @@
 # 文件:Dreaming_River封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\03\ns6%3ADreaming_River%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\03\ns6%3ADreaming_River%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Kissing_the_Mirror | 专辑封面 | 封面图片 | 魂音泉
 
@@ -8,11 +8,9 @@ Kissing_the_Mirror | 专辑封面 | 封面图片 | 魂音泉
 使用了本文件作封面图片的作品：
   
 
-- [Dreaming River](./Dreaming_River.md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)- [小野塚小町](./小野塚小町.md)
-
-
-
+- [Dreaming River](./Dreaming_River.md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
+- [小野塚小町](./小野塚小町.md)
 
 
 ---

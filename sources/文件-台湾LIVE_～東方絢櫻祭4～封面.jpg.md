@@ -1,6 +1,6 @@
 # 文件:台湾LIVE_～東方絢櫻祭4～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b5\ns6%3A%E5%8F%B0%E6%B9%BELIVE_%EF%BD%9E%E6%9D%B1%E6%96%B9%E7%B5%A2%E6%AB%BB%E7%A5%AD4%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b5\ns6%3A%E5%8F%B0%E6%B9%BELIVE_%EF%BD%9E%E6%9D%B1%E6%96%B9%E7%B5%A2%E6%AB%BB%E7%A5%AD4%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 TAMUSIC | 专辑封面 | 封面图片
 
@@ -8,11 +8,10 @@ TAMUSIC | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [台湾LIVE ～東方絢櫻祭4～](./台湾LIVE_～東方絢櫻祭4～.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [东风谷早苗](./东风谷早苗.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [台湾LIVE ～東方絢櫻祭4～](./台湾LIVE_～東方絢櫻祭4～.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [东风谷早苗](./东风谷早苗.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

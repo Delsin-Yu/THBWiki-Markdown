@@ -1,6 +1,6 @@
 # 文件:Borderline（梶迫小道具店）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e1\ns6%3ABorderline%EF%BC%88%E6%A2%B6%E8%BF%AB%E5%B0%8F%E9%81%93%E5%85%B7%E5%BA%97%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e1\ns6%3ABorderline%EF%BC%88%E6%A2%B6%E8%BF%AB%E5%B0%8F%E9%81%93%E5%85%B7%E5%BA%97%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 梶迫小道具店
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [borderline（梶迫小道具店）](./borderline（梶迫小道具店）.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [borderline（梶迫小道具店）](./borderline（梶迫小道具店）.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

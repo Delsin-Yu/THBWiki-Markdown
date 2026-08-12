@@ -1,6 +1,6 @@
 # 文件:NANA_HOLIC_VI封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e7\ns6%3ANANA_HOLIC_VI%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e7\ns6%3ANANA_HOLIC_VI%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 SOUND_HOLIC | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ SOUND_HOLIC | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [NANA HOLIC VI](./NANA_HOLIC_VI.md)  
-该封面包含的角色：- [东风谷早苗](./东风谷早苗.md)
-
-
-
+- [NANA HOLIC VI](./NANA_HOLIC_VI.md)该封面包含的角色：
+- [东风谷早苗](./东风谷早苗.md)
 
 
 ---

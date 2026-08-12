@@ -1,12 +1,8 @@
 # 文件:东方茨歌仙第六卷waist.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c0\ns6%3A%E4%B8%9C%E6%96%B9%E8%8C%A8%E6%AD%8C%E4%BB%99%E7%AC%AC%E5%85%AD%E5%8D%B7waist%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c0\ns6%3A%E4%B8%9C%E6%96%B9%E8%8C%A8%E6%AD%8C%E4%BB%99%E7%AC%AC%E5%85%AD%E5%8D%B7waist%2Ejpg.html -->
 
 东方茨歌仙
-
-
-
-
 
 
 ---

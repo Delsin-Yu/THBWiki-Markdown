@@ -1,6 +1,6 @@
 # 文件:Ghost_dignity封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9f\ns6%3AGhost_dignity%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9f\ns6%3AGhost_dignity%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Kota-rocK | 专辑封面 | 封面图片
 
@@ -8,16 +8,12 @@ Kota-rocK | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Ghost dignity](./Ghost_dignity.md)  
-该封面包含的角色：- [灵乌路空](./灵乌路空.md)
+- [Ghost dignity](./Ghost_dignity.md)该封面包含的角色：
+- [灵乌路空](./灵乌路空.md)
 
   
 源地址:TLMC扫描改编
   
-
-
-
-
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:ESCAPE_FROM_WEST封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\97\ns6%3AESCAPE_FROM_WEST%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\97\ns6%3AESCAPE_FROM_WEST%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 東方事変
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [ESCAPE FROM WEST](./ESCAPE_FROM_WEST.md)  
-该封面包含的角色：- [宇佐见莲子](./宇佐见莲子.md)
+- [ESCAPE FROM WEST](./ESCAPE_FROM_WEST.md)该封面包含的角色：
+- [宇佐见莲子](./宇佐见莲子.md)
 
   
-源地址：[图片链接](https://booth.pximg.net/fd2484ad-10d9-445a-a56e-12bb63f0962d/i/2610691/0d0c1b8e-0464-4dd4-bfc7-7d11cc3a772d.jpg) [BOOTH通贩](https://booth.pm/zh-cn/items/2610691)
-  
-
-
-
-
+源地址：[图片链接](https://booth.pximg.net/fd2484ad-10d9-445a-a56e-12bb63f0962d/i/2610691/0d0c1b8e-0464-4dd4-bfc7-7d11cc3a772d.jpg) [BOOTH通贩](https://booth.pm/zh-cn/items/2610691)  
 
 ---
 

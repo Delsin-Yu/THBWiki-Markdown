@@ -1,43 +1,33 @@
 # 东方儚月抄_～_Cage_in_Lunatic_Runagate./第四话
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\8\81\ns0%3A%E4%B8%9C%E6%96%B9%E5%84%9A%E6%9C%88%E6%8A%84_%EF%BD%9E_Cage_in_Lunatic_Runagate%2E%2F%E7%AC%AC%E5%9B%9B%E8%AF%9D.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\8\81\ns0%3A%E4%B8%9C%E6%96%B9%E5%84%9A%E6%9C%88%E6%8A%84_%EF%BD%9E_Cage_in_Lunatic_Runagate%2E%2F%E7%AC%AC%E5%9B%9B%E8%AF%9D.html -->
 
 东方儚月抄_～_Cage_in_Lunatic_Runagate.
 
 <center>
-
 <table>
 <tbody><tr>
-<td>&lt;
+<td><
 </td>
-<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./东方儚月抄_～_Cage_in_Lunatic_Runagate.-第三话.md" title="东方儚月抄 ～ Cage in Lunatic Runagate./第三话">第三话</a>&#160;
+<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./东方儚月抄_～_Cage_in_Lunatic_Runagate.-第三话.md" title="东方儚月抄 ～ Cage in Lunatic Runagate./第三话">第三话</a> 
 </td>
-<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="./东方儚月抄_～_Cage_in_Lunatic_Runagate..md" title="东方儚月抄 ～ Cage in Lunatic Runagate.">东方儚月抄 ～ Cage in Lunatic Runagate.</a>&#160;
+<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;"> <a href="./东方儚月抄_～_Cage_in_Lunatic_Runagate..md" title="东方儚月抄 ～ Cage in Lunatic Runagate.">东方儚月抄 ～ Cage in Lunatic Runagate.</a> 
 </td>
-<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left">&#160;<a href="./东方儚月抄_～_Cage_in_Lunatic_Runagate.-第五话.md" title="东方儚月抄 ～ Cage in Lunatic Runagate./第五话">第五话</a>
+<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left"> <a href="./东方儚月抄_～_Cage_in_Lunatic_Runagate.-第五话.md" title="东方儚月抄 ～ Cage in Lunatic Runagate./第五话">第五话</a>
 </td>
-<td>&gt;
+<td>>
 </td></tr></tbody></table>
 
   
 </center>
-- 本词条为中文翻译版，如需要日文对照请参见 **[中日对照](./东方儚月抄_～_Cage_in_Lunatic_Runagate.-第四话-中日对照.md)** 
+- 本词条为中文翻译版，如需要日文对照请参见**[中日对照](./东方儚月抄_～_Cage_in_Lunatic_Runagate.-第四话-中日对照.md)**
 - 本话连载时间：2008年3月25日，Chara☆Mel Vol.4
 - 本话于单行本中页数：74-95
 
-  
-  
-
-  
-
-[](./文件-儚月抄小说封面4.jpg.md)  [](./文件-儚月抄小说封面4.jpg.md)
-  
- **<big><big>第四话 无尽之火</big></big>**   
-
-<big>超越永夜的不死之人　在那无尽之烟中看到了什么……</big>
-  
-
-
+<img alt="儚月抄小说封面4.jpg" src="https://upload.thwiki.cc/thumb/6/67/%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E5%B0%81%E9%9D%A24.jpg/200px-%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E5%B0%81%E9%9D%A24.jpg" decoding="async" loading="lazy" width="200" height="279" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/6/67/%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E5%B0%81%E9%9D%A24.jpg/300px-%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E5%B0%81%E9%9D%A24.jpg 1.5x, https://upload.thwiki.cc/thumb/6/67/%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E5%B0%81%E9%9D%A24.jpg/400px-%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E5%B0%81%E9%9D%A24.jpg 2x" data-file-width="1433" data-file-height="2000">
+ [放大](./文件-儚月抄小说封面4.jpg.md)  
+**<big><big>第四话 无尽之火</big></big>**  
+<big>超越永夜的不死之人 在那无尽之烟中看到了什么……</big>  
   
 　　妖怪之山静静地向上面冒出浓烟。虽然山顶并没有剧烈地喷出火焰，但是却经常将上空熏得漆黑一片。  
 
@@ -116,11 +106,9 @@
 　　归途中，不由得再次想起几年前和慧音之间的对话。妖怪之山上的烟雾，隐藏着一个只有我知道的秘密。  
 
 　　最近天黑的很早，家里已经有些看不清楚了。已经是雪花纷纷落下的季节，天气也明显寒冷了起来，可是我还没有准备任何取暖的用具。  
-
   
-
-[](./文件-儚月抄小说插图4-1.jpg.md)  [](./文件-儚月抄小说插图4-1.jpg.md)  
-
+<img alt="儚月抄小说插图4-1.jpg" src="https://upload.thwiki.cc/thumb/a/af/%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE4-1.jpg/200px-%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE4-1.jpg" decoding="async" loading="lazy" width="200" height="134" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/a/af/%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE4-1.jpg/300px-%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE4-1.jpg 1.5x, https://upload.thwiki.cc/thumb/a/af/%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE4-1.jpg/400px-%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE4-1.jpg 2x" data-file-width="1176" data-file-height="789">
+ [放大](./文件-儚月抄小说插图4-1.jpg.md)  
   
 　　整个屋子里面寒冷到让人无法相信这里也有生命居住。不过我已经习惯了。因为不管多么冷我都不会死。稍微忍耐一下寒冷的话，很快温暖的季节就会来到了。  
 
@@ -219,11 +207,10 @@
 　　今天晚上的晚饭还没有准备。虽然我是不老不死，不过还是会感觉到饿，冰冷的身体也会让关节疼痛。不过，比起使身体感到温暖，吃有营养的饭，注意身体，这种多少忍受一点痛苦的生话方式更适合我的个性。  
 
 　　是的。因为不管怎样我都不会死掉。  
-
   
 
-　　不管我是睡到不想再睡也好，还是被睡魔吞噬也好，反正都对身体没有任何的影响。[](./文件-儚月抄小说插图4-2.jpg.md)  [](./文件-儚月抄小说插图4-2.jpg.md)  
-
+　　不管我是睡到不想再睡也好，还是被睡魔吞噬也好，反正都对身体没有任何的影响。<img alt="儚月抄小说插图4-2.jpg" src="https://upload.thwiki.cc/thumb/9/99/%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE4-2.jpg/200px-%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE4-2.jpg" decoding="async" loading="lazy" width="200" height="246" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/9/99/%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE4-2.jpg/300px-%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE4-2.jpg 1.5x, https://upload.thwiki.cc/thumb/9/99/%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE4-2.jpg/400px-%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE4-2.jpg 2x" data-file-width="1309" data-file-height="1609">
+ [放大](./文件-儚月抄小说插图4-2.jpg.md)  
   
 　　幻想乡的妖怪们也都活了很久。甚至有不少妖怪比我活的时间还要长。但是他们、她们与我之间有着一个根本性的不同。那就是不管他们的身躯多么的结实，最后都必定会灭亡。  
 
@@ -280,11 +267,10 @@
 　　咲耶姬也将岩笠叫了起来。岩笠因为过于震惊而说不出话来，当领悟到已经无法再完成圣旨后也轻信了咲耶姬的话。  
 
 　　咲耶姬对在她面前被包裹在黑暗之中的岩笠和我说道。  
-
   
 
-　　「这个药是能够令愚蠢的人类疯狂的东西。你看，还没有一个人服下就已经给周围带来了如此的不幸。虽说将这个药供奉起来我也十分赞成……但这不是我的力量能够做到的。所以希望你们不要将药供奉在这座山上。」[](./文件-儚月抄小说插图4-3.jpg.md)  [](./文件-儚月抄小说插图4-3.jpg.md)  
-
+　　「这个药是能够令愚蠢的人类疯狂的东西。你看，还没有一个人服下就已经给周围带来了如此的不幸。虽说将这个药供奉起来我也十分赞成……但这不是我的力量能够做到的。所以希望你们不要将药供奉在这座山上。」<img alt="儚月抄小说插图4-3.jpg" src="https://upload.thwiki.cc/thumb/6/6e/%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE4-3.jpg/200px-%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE4-3.jpg" decoding="async" loading="lazy" width="200" height="134" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/6/6e/%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE4-3.jpg/300px-%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE4-3.jpg 1.5x, https://upload.thwiki.cc/thumb/6/6e/%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE4-3.jpg/400px-%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE4-3.jpg 2x" data-file-width="1175" data-file-height="786">
+ [放大](./文件-儚月抄小说插图4-3.jpg.md)  
   
 　　岩笠稍微考虑了一会儿之后，对咲耶姬将圣旨的内容说了出来。  
 
@@ -420,14 +406,13 @@
 
 　　从她们谈话的内容来看，吸血鬼的火箭似乎不是永远亭的那些家伙所设计出来的，而是有什么人给吸血鬼从旁指点完成的。  
 
-&#160;&#160;&#160;&#160;目的是让她们当月面侵略——的诱饵吗。也就是说吸血鬼们不过是被某个人操纵了而已。  
+    目的是让她们当月面侵略——的诱饵吗。也就是说吸血鬼们不过是被某个人操纵了而已。  
 
 　　「……登上月亮以后一定会后悔的吧。吸血鬼那帮人。」  
-
   
 
-　　「……嘛，就算不采取任何的对策，从一开始战斗力的差距也是绝对的。依姬和吸血鬼还有那笨蛋三人组的话。」[](./文件-儚月抄小说插图4-4.jpg.md)  [](./文件-儚月抄小说插图4-4.jpg.md)  
-
+　　「……嘛，就算不采取任何的对策，从一开始战斗力的差距也是绝对的。依姬和吸血鬼还有那笨蛋三人组的话。」<img alt="儚月抄小说插图4-4.jpg" src="https://upload.thwiki.cc/thumb/8/80/%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE4-4.jpg/200px-%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE4-4.jpg" decoding="async" loading="lazy" width="200" height="151" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/8/80/%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE4-4.jpg/300px-%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE4-4.jpg 1.5x, https://upload.thwiki.cc/thumb/8/80/%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE4-4.jpg/400px-%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE4-4.jpg 2x" data-file-width="1174" data-file-height="889">
+ [放大](./文件-儚月抄小说插图4-4.jpg.md)  
   
 　　笨蛋三人组？脑中浮现出那个巫女与魔法使还有女仆的样子差点笑出声来。看起来确实没头脑。  
 
@@ -458,37 +443,28 @@
 　　登上那里，向她阐述我变成不死身的全部经过，并为这迟到了一千三百年的登顶，以及岩笠的事情向她道歉。  
 
 　　我带着一种莫名的轻松心情离开了永远亭。  
-
   
-
- **第四话 无尽之火 / 完** 
-  
-
-
-
+**第四话 无尽之火 / 完**  
 [^cite_note-1]: 柱状节理，几组不同方向的节理将岩石切割成多边形柱状体，柱体垂直于火山岩的基底面。如熔岩均匀冷却，应形成六方柱状，上细下粗，二者由顶柱盘面隔开。
-
+[^cite_note-2]: 日语“山”有“山”和“紧要关头”的意思。
+[^cite_note-3]: 森林界线。在富士山是五合目，也就是一半左右的地方。
+[^cite_note-4]: 山岳用语。主要用于能用于信仰的山脉（比如富士山）。从登山口到山顶被分成10份。登山口就是“一合目”，山顶是“十合目”，所以八合目应该是接近山顶的山腰。
 <center>
-
 <table>
 <tbody><tr>
-<td>&lt;
+<td><
 </td>
-<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./东方儚月抄_～_Cage_in_Lunatic_Runagate.-第三话.md" title="东方儚月抄 ～ Cage in Lunatic Runagate./第三话">第三话</a>&#160;
+<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./东方儚月抄_～_Cage_in_Lunatic_Runagate.-第三话.md" title="东方儚月抄 ～ Cage in Lunatic Runagate./第三话">第三话</a> 
 </td>
-<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="./东方儚月抄_～_Cage_in_Lunatic_Runagate..md" title="东方儚月抄 ～ Cage in Lunatic Runagate.">东方儚月抄 ～ Cage in Lunatic Runagate.</a>&#160;
+<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;"> <a href="./东方儚月抄_～_Cage_in_Lunatic_Runagate..md" title="东方儚月抄 ～ Cage in Lunatic Runagate.">东方儚月抄 ～ Cage in Lunatic Runagate.</a> 
 </td>
-<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left">&#160;<a href="./东方儚月抄_～_Cage_in_Lunatic_Runagate.-第五话.md" title="东方儚月抄 ～ Cage in Lunatic Runagate./第五话">第五话</a>
+<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left"> <a href="./东方儚月抄_～_Cage_in_Lunatic_Runagate.-第五话.md" title="东方儚月抄 ～ Cage in Lunatic Runagate./第五话">第五话</a>
 </td>
-<td>&gt;
+<td>>
 </td></tr></tbody></table>
 
   
 </center>
-
-
-
-
 ---
 
 此文档由 [THBWiki-Markdown-Builder](https://github.com/Delsin-Yu/THBWiki-Markdown-Builder) 构建。

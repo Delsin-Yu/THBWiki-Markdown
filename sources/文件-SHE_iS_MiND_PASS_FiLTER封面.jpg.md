@@ -1,6 +1,6 @@
 # 文件:SHE_iS_MiND_PASS_FiLTER封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\98\ns6%3ASHE_iS_MiND_PASS_FiLTER%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\98\ns6%3ASHE_iS_MiND_PASS_FiLTER%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 chipion | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ chipion | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [SHE iS MiND PASS FiLTER](./SHE_iS_MiND_PASS_FiLTER.md)  
-该封面包含的角色：- [古明地觉](./古明地觉.md)
-
-
-
+- [SHE iS MiND PASS FiLTER](./SHE_iS_MiND_PASS_FiLTER.md)该封面包含的角色：
+- [古明地觉](./古明地觉.md)
 
 
 ---

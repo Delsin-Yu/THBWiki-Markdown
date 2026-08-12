@@ -1,6 +1,6 @@
 # 文件:Spring_snow_accident_～Full_story～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\75\ns6%3ASpring_snow_accident_%EF%BD%9EFull_story%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\75\ns6%3ASpring_snow_accident_%EF%BD%9EFull_story%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 狐の居る湖
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Spring snow accident ～Full story～](./Spring_snow_accident_～Full_story～.md)  
-该封面包含的角色：- [八云紫](./八云紫.md)
+- [Spring snow accident ～Full story～](./Spring_snow_accident_～Full_story～.md)该封面包含的角色：
+- [八云紫](./八云紫.md)
 
   
-源地址：[[1]](http://foxlake.webcrow.jp/html/news.html)
-  
-
-
-
-
+源地址：[\[1\]](http://foxlake.webcrow.jp/html/news.html)  
 
 ---
 

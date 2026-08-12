@@ -1,16 +1,12 @@
 # 模板:东V大战
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\e\e5\ns10%3A%E4%B8%9CV%E5%A4%A7%E6%88%98.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\e\e5\ns10%3A%E4%B8%9CV%E5%A4%A7%E6%88%98.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

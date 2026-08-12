@@ -1,6 +1,6 @@
 # 文件:永夜幻想奇譚_～_ZUN絵合同誌封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fa\ns6%3A%E6%B0%B8%E5%A4%9C%E5%B9%BB%E6%83%B3%E5%A5%87%E8%AD%9A_%EF%BD%9E_ZUN%E7%B5%B5%E5%90%88%E5%90%8C%E8%AA%8C%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fa\ns6%3A%E6%B0%B8%E5%A4%9C%E5%B9%BB%E6%83%B3%E5%A5%87%E8%AD%9A_%EF%BD%9E_ZUN%E7%B5%B5%E5%90%88%E5%90%8C%E8%AA%8C%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 えす＆たこ | 同人志封面 | 封面图片
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [永夜幻想奇譚 ～ ZUN絵合同誌](./永夜幻想奇譚_～_ZUN絵合同誌.md)  
-该封面包含的角色：- [蓬莱山辉夜](./蓬莱山辉夜.md)
+- [永夜幻想奇譚 ～ ZUN絵合同誌](./永夜幻想奇譚_～_ZUN絵合同誌.md)该封面包含的角色：
+- [蓬莱山辉夜](./蓬莱山辉夜.md)
 
   
-源地址：[[1]](https://booth.pximg.net/c/620x620/d5e59b6d-ffb5-4503-af8e-6170f373246c/i/1364097/e2e54ad4-e1c7-4d08-8380-822faab7f5bd_base_resized.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://booth.pximg.net/c/620x620/d5e59b6d-ffb5-4503-af8e-6170f373246c/i/1364097/e2e54ad4-e1c7-4d08-8380-822faab7f5bd_base_resized.jpg)  
 
 ---
 

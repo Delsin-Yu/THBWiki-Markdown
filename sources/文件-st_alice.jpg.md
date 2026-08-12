@@ -1,12 +1,8 @@
 # 文件:st_alice.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1b\ns6%3Ast_alice%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1b\ns6%3Ast_alice%2Ejpg.html -->
 
 未完童話
-
-
-
-
 
 
 ---

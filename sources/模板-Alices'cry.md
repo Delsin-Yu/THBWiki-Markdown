@@ -1,16 +1,12 @@
 # 模板:Alices'cry
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\2\2f\ns10%3AAlices%27cry.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\2\2f\ns10%3AAlices%27cry.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

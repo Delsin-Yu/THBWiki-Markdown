@@ -1,18 +1,13 @@
 # 文件:いぬみぎさうんどlogo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9f\ns6%3A%E3%81%84%E3%81%AC%E3%81%BF%E3%81%8E%E3%81%95%E3%81%86%E3%82%93%E3%81%A9logo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9f\ns6%3A%E3%81%84%E3%81%AC%E3%81%BF%E3%81%8E%E3%81%95%E3%81%86%E3%82%93%E3%81%A9logo%2Epng.html -->
 
 いぬみぎさうんど | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[[1]](https://static.wixstatic.com/media/32b0aa_0c1539de27e44d3da92ab4730f4976b0~mv2.png)
-  
-
-
-
-
+源地址：[\[1\]](https://static.wixstatic.com/media/32b0aa_0c1539de27e44d3da92ab4730f4976b0~mv2.png)  
 
 ---
 

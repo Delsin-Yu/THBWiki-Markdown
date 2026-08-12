@@ -1,16 +1,11 @@
 # 文件:Nocturnal_Auralogo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\54\ns6%3ANocturnal_Auralogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\54\ns6%3ANocturnal_Auralogo%2Ejpg.html -->
 
 Nocturnal_Aura | 社团LOGO
 
   
-源地址：[[1]](https://f4.bcbits.com/img/0016785072_10.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://f4.bcbits.com/img/0016785072_10.jpg)  
 
 ---
 

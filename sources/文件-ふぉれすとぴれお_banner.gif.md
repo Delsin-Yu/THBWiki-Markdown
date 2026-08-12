@@ -1,12 +1,8 @@
 # 文件:ふぉれすとぴれお_banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d8\ns6%3A%E3%81%B5%E3%81%89%E3%82%8C%E3%81%99%E3%81%A8%E3%81%B4%E3%82%8C%E3%81%8A_banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d8\ns6%3A%E3%81%B5%E3%81%89%E3%82%8C%E3%81%99%E3%81%A8%E3%81%B4%E3%82%8C%E3%81%8A_banner%2Egif.html -->
 
 ふぉれすとぴれお | 社团LOGO
-
-
-
-
 
 
 ---

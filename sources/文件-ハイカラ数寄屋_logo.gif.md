@@ -1,14 +1,11 @@
 # 文件:ハイカラ数寄屋_logo.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d0\ns6%3A%E3%83%8F%E3%82%A4%E3%82%AB%E3%83%A9%E6%95%B0%E5%AF%84%E5%B1%8B_logo%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d0\ns6%3A%E3%83%8F%E3%82%A4%E3%82%AB%E3%83%A9%E6%95%B0%E5%AF%84%E5%B1%8B_logo%2Egif.html -->
 
 ハイカラ数寄屋 | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

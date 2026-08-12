@@ -1,6 +1,6 @@
 # 文件:MELTY_幻想乡时尚杂志封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2d\ns6%3AMELTY_%E5%B9%BB%E6%83%B3%E4%B9%A1%E6%97%B6%E5%B0%9A%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2d\ns6%3AMELTY_%E5%B9%BB%E6%83%B3%E4%B9%A1%E6%97%B6%E5%B0%9A%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 SUN-STYLE | 同人志封面 | 封面图片
 
@@ -8,11 +8,8 @@ SUN-STYLE | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [MELTY 幻想乡时尚杂志](./MELTY_幻想乡时尚杂志.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [MELTY 幻想乡时尚杂志](./MELTY_幻想乡时尚杂志.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

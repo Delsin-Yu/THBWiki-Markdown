@@ -1,16 +1,12 @@
 # 模板:HatsuKoi
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\a\ad\ns10%3AHatsuKoi.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\a\ad\ns10%3AHatsuKoi.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

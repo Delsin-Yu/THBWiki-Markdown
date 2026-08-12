@@ -1,12 +1,8 @@
 # 文件:ふすま喫茶banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a5\ns6%3A%E3%81%B5%E3%81%99%E3%81%BE%E5%96%AB%E8%8C%B6banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a5\ns6%3A%E3%81%B5%E3%81%99%E3%81%BE%E5%96%AB%E8%8C%B6banner%2Ejpg.html -->
 
 ふすま喫茶 | 社团LOGO
-
-
-
-
 
 
 ---

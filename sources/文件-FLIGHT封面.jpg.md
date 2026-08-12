@@ -1,6 +1,6 @@
 # 文件:FLIGHT封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5b\ns6%3AFLIGHT%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5b\ns6%3AFLIGHT%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 あらいぐまファクトリー | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [FLIGHT](./FLIGHT.md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)
-
-
-
+- [FLIGHT](./FLIGHT.md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
 
 
 ---

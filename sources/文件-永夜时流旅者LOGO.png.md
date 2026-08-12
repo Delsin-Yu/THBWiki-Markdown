@@ -1,16 +1,12 @@
 # 文件:永夜时流旅者LOGO.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c2\ns6%3A%E6%B0%B8%E5%A4%9C%E6%97%B6%E6%B5%81%E6%97%85%E8%80%85LOGO%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c2\ns6%3A%E6%B0%B8%E5%A4%9C%E6%97%B6%E6%B5%81%E6%97%85%E8%80%85LOGO%2Epng.html -->
 
 永夜时流旅者 | 社团LOGO
 
   
 永夜时流旅者的logo
   
-
-
-
-
 
 ---
 

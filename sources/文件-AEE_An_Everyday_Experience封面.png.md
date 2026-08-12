@@ -1,6 +1,6 @@
 # 文件:AEE_An_Everyday_Experience封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b8\ns6%3AAEE_An_Everyday_Experience%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b8\ns6%3AAEE_An_Everyday_Experience%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 .sitE | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [AEE An Everyday Experience](./AEE_An_Everyday_Experience.md)  
-该封面包含的角色：- [藤原妹红](./藤原妹红.md)
+- [AEE An Everyday Experience](./AEE_An_Everyday_Experience.md)该封面包含的角色：
+- [藤原妹红](./藤原妹红.md)
 
   
-源地址：[[1]](https://blog-imgs-36-origin.fc2.com/d/o/t/dotsite/up_c78.png)
-  
-
-
-
-
+源地址：[\[1\]](https://blog-imgs-36-origin.fc2.com/d/o/t/dotsite/up_c78.png)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:UNDER_COVER_SAGUME_～覆面リサーチ・サグメ潜入～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a8\ns6%3AUNDER_COVER_SAGUME_%EF%BD%9E%E8%A6%86%E9%9D%A2%E3%83%AA%E3%82%B5%E3%83%BC%E3%83%81%E3%83%BB%E3%82%B5%E3%82%B0%E3%83%A1%E6%BD%9C%E5%85%A5%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a8\ns6%3AUNDER_COVER_SAGUME_%EF%BD%9E%E8%A6%86%E9%9D%A2%E3%83%AA%E3%82%B5%E3%83%BC%E3%83%81%E3%83%BB%E3%82%B5%E3%82%B0%E3%83%A1%E6%BD%9C%E5%85%A5%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Red_Snow_倶楽部 | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@ Red_Snow_倶楽部 | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [UNDER COVER SAGUME ～覆面リサーチ・サグメ潜入～](./UNDER_COVER_SAGUME_～覆面リサーチ・サグメ潜入～.md)  
-该封面包含的角色：- [稀神探女](./稀神探女.md)
-
-
-
+- [UNDER COVER SAGUME ～覆面リサーチ・サグメ潜入～](./UNDER_COVER_SAGUME_～覆面リサーチ・サグメ潜入～.md)该封面包含的角色：
+- [稀神探女](./稀神探女.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Solitaria_Gelosia_Principessa封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2b\ns6%3ASolitaria_Gelosia_Principessa%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2b\ns6%3ASolitaria_Gelosia_Principessa%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Gods_A_Ghos | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Gods_A_Ghos | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Solitaria Gelosia Principessa](./Solitaria_Gelosia_Principessa.md)  
-该封面包含的角色：- [水桥帕露西](./水桥帕露西.md)
-
-
-
+- [Solitaria Gelosia Principessa](./Solitaria_Gelosia_Principessa.md)该封面包含的角色：
+- [水桥帕露西](./水桥帕露西.md)
 
 
 ---

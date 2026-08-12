@@ -1,12 +1,8 @@
 # 文件:桑原「Mulberry_Barrage」.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6e\ns6%3A%E6%A1%91%E5%8E%9F%E3%80%8CMulberry_Barrage%E3%80%8D%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6e\ns6%3A%E6%A1%91%E5%8E%9F%E3%80%8CMulberry_Barrage%E3%80%8D%2Ejpg.html -->
 
 東方邪星章製作チーム
-
-
-
-
 
 
 ---

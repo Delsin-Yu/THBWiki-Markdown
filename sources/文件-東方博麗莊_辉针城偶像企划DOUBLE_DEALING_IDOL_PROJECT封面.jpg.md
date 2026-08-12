@@ -1,6 +1,6 @@
 # 文件:東方博麗莊_辉针城偶像企划DOUBLE_DEALING_IDOL_PROJECT封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cf\ns6%3A%E6%9D%B1%E6%96%B9%E5%8D%9A%E9%BA%97%E8%8E%8A_%E8%BE%89%E9%92%88%E5%9F%8E%E5%81%B6%E5%83%8F%E4%BC%81%E5%88%92DOUBLE_DEALING_IDOL_PROJECT%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cf\ns6%3A%E6%9D%B1%E6%96%B9%E5%8D%9A%E9%BA%97%E8%8E%8A_%E8%BE%89%E9%92%88%E5%9F%8E%E5%81%B6%E5%83%8F%E4%BC%81%E5%88%92DOUBLE_DEALING_IDOL_PROJECT%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 弐維鏡像
 
@@ -8,11 +8,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方博麗莊 辉针城偶像企划DOUBLE DEALING IDOL PROJECT](./東方博麗莊_辉针城偶像企划DOUBLE_DEALING_IDOL_PROJECT.md)  
-该封面包含的角色：- [九十九弁弁](./九十九弁弁.md)- [九十九八桥](./九十九八桥.md)- [鬼人正邪](./鬼人正邪.md)- [少名针妙丸](./少名针妙丸.md)- [堀川雷鼓](./堀川雷鼓.md)
-
-
-
+- [東方博麗莊 辉针城偶像企划DOUBLE DEALING IDOL PROJECT](./東方博麗莊_辉针城偶像企划DOUBLE_DEALING_IDOL_PROJECT.md)该封面包含的角色：
+- [九十九弁弁](./九十九弁弁.md)
+- [九十九八桥](./九十九八桥.md)
+- [鬼人正邪](./鬼人正邪.md)
+- [少名针妙丸](./少名针妙丸.md)
+- [堀川雷鼓](./堀川雷鼓.md)
 
 
 ---

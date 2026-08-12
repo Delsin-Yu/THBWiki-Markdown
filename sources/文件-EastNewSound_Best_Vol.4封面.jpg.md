@@ -1,6 +1,6 @@
 # 文件:EastNewSound_Best_Vol.4封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fd\ns6%3AEastNewSound_Best_Vol%2E4%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fd\ns6%3AEastNewSound_Best_Vol%2E4%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 EastNewSound | 专辑封面 | 封面图片
 
@@ -10,11 +10,13 @@ EastNewSound | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [EastNewSound Best Vol.4](./EastNewSound_Best_Vol.4.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)- [八坂神奈子](./八坂神奈子.md)- [雾雨魔理沙](./雾雨魔理沙.md)- [纯狐](./纯狐.md)- [埴安神袿姬](./埴安神袿姬.md)
-
-
-
+- [EastNewSound Best Vol.4](./EastNewSound_Best_Vol.4.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [八坂神奈子](./八坂神奈子.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
+- [纯狐](./纯狐.md)
+- [埴安神袿姬](./埴安神袿姬.md)
 
 
 ---

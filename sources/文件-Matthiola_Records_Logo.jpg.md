@@ -1,16 +1,12 @@
 # 文件:Matthiola_Records_Logo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2e\ns6%3AMatthiola_Records_Logo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2e\ns6%3AMatthiola_Records_Logo%2Ejpg.html -->
 
 Matthiola_Records | 社团LOGO
 
   
 Matthiola Records Logo
   
-
-
-
-
 
 ---
 

@@ -1,12 +1,8 @@
 # 文件:三连摄「Tri-Focuser」.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6c\ns6%3A%E4%B8%89%E8%BF%9E%E6%91%84%E3%80%8CTri-Focuser%E3%80%8D%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6c\ns6%3A%E4%B8%89%E8%BF%9E%E6%91%84%E3%80%8CTri-Focuser%E3%80%8D%2Ejpg.html -->
 
 東方邪星章製作チーム
-
-
-
-
 
 
 ---

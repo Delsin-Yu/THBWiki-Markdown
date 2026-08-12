@@ -1,14 +1,11 @@
 # 文件:花昙书社logo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\26\ns6%3A%E8%8A%B1%E6%98%99%E4%B9%A6%E7%A4%BElogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\26\ns6%3A%E8%8A%B1%E6%98%99%E4%B9%A6%E7%A4%BElogo%2Ejpg.html -->
 
 社团LOGO | 花昙书社
 
 
 ## 文件说明
-
-
-
 
 ---
 

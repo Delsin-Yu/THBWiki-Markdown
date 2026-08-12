@@ -1,6 +1,6 @@
 # 文件:漆黒の投影は月夜に_-TABLETALE_ROLE_PLAY_in_TOHO_18-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ec\ns6%3A%E6%BC%86%E9%BB%92%E3%81%AE%E6%8A%95%E5%BD%B1%E3%81%AF%E6%9C%88%E5%A4%9C%E3%81%AB_-TABLETALE_ROLE_PLAY_in_TOHO_18-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ec\ns6%3A%E6%BC%86%E9%BB%92%E3%81%AE%E6%8A%95%E5%BD%B1%E3%81%AF%E6%9C%88%E5%A4%9C%E3%81%AB_-TABLETALE_ROLE_PLAY_in_TOHO_18-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 天秤亭 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [漆黒の投影は月夜に -TABLETALE ROLE PLAY in TOHO 18-](./漆黒の投影は月夜に_-TABLETALE_ROLE_PLAY_in_TOHO_18-.md)  
-该封面包含的角色：- [骊驹早鬼](./骊驹早鬼.md)
-
-
-
+- [漆黒の投影は月夜に -TABLETALE ROLE PLAY in TOHO 18-](./漆黒の投影は月夜に_-TABLETALE_ROLE_PLAY_in_TOHO_18-.md)该封面包含的角色：
+- [骊驹早鬼](./骊驹早鬼.md)
 
 
 ---

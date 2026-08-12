@@ -1,6 +1,6 @@
 # 文件:TOHOBU_EP_＃13封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cb\ns6%3ATOHOBU_EP_%EF%BC%8313%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cb\ns6%3ATOHOBU_EP_%EF%BC%8313%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 ついったー東方部 | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [TOHOBU EP ＃13](./TOHOBU_EP_＃13.md)  
-该封面包含的角色：- [八云紫](./八云紫.md)
-
-
-
+- [TOHOBU EP ＃13](./TOHOBU_EP_＃13.md)该封面包含的角色：
+- [八云紫](./八云紫.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:SECRET_DESIRE封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c1\ns6%3ASECRET_DESIRE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c1\ns6%3ASECRET_DESIRE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 小豆粥
 
@@ -8,16 +8,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [SECRET DESIRE](./SECRET_DESIRE.md)  
-该封面包含的角色：- [八云蓝](./八云蓝.md)- [八云紫](./八云紫.md)
+- [SECRET DESIRE](./SECRET_DESIRE.md)该封面包含的角色：
+- [八云蓝](./八云蓝.md)
+- [八云紫](./八云紫.md)
 
   
-源地址：[[1]](https://blog-imgs-44.fc2.com/a/z/u/azukiosamitu/secretdhyoushi01a.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://blog-imgs-44.fc2.com/a/z/u/azukiosamitu/secretdhyoushi01a.jpg)  
 
 ---
 

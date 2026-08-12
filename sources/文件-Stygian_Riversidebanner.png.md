@@ -1,14 +1,11 @@
 # 文件:Stygian_Riversidebanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7b\ns6%3AStygian_Riversidebanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7b\ns6%3AStygian_Riversidebanner%2Epng.html -->
 
 Stygian_Riverside | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

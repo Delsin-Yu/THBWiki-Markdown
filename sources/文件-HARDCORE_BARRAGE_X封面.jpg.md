@@ -1,6 +1,6 @@
 # 文件:HARDCORE_BARRAGE_X封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e3\ns6%3AHARDCORE_BARRAGE_X%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e3\ns6%3AHARDCORE_BARRAGE_X%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Rolling_Contact | 专辑封面 | 封面图片
 
@@ -10,11 +10,17 @@ Rolling_Contact | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [HARDCORE BARRAGE X](./HARDCORE_BARRAGE_X.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)- [红美铃](./红美铃.md)- [东风谷早苗](./东风谷早苗.md)- [古明地觉](./古明地觉.md)- [多多良小伞](./多多良小伞.md)- [霍青娥](./霍青娥.md)- [雾雨魔理沙](./雾雨魔理沙.md)- [秦心](./秦心.md)- [稀神探女](./稀神探女.md)
-
-
-
+- [HARDCORE BARRAGE X](./HARDCORE_BARRAGE_X.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
+- [红美铃](./红美铃.md)
+- [东风谷早苗](./东风谷早苗.md)
+- [古明地觉](./古明地觉.md)
+- [多多良小伞](./多多良小伞.md)
+- [霍青娥](./霍青娥.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
+- [秦心](./秦心.md)
+- [稀神探女](./稀神探女.md)
 
 
 ---

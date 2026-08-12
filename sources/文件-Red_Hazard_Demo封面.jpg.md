@@ -1,6 +1,6 @@
 # 文件:Red_Hazard_Demo封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\63\ns6%3ARed_Hazard_Demo%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\63\ns6%3ARed_Hazard_Demo%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ELECTRIC_RED | 专辑封面 | 封面图片
 
@@ -8,12 +8,9 @@ ELECTRIC_RED | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Red Hazard Demo](./Red_Hazard_Demo.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)源地址：[pixiv id: 6067078](https://i.pximg.net/c/600x600/img-master/img/2009/09/09/15/00/16/6067078_p0_master1200.jpg)
-
-
-
-
+- [Red Hazard Demo](./Red_Hazard_Demo.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
+源地址：[pixiv id: 6067078](https://i.pximg.net/c/600x600/img-master/img/2009/09/09/15/00/16/6067078_p0_master1200.jpg)
 
 ---
 

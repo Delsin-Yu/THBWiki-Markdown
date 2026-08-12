@@ -1,6 +1,6 @@
 # 文件:夏が終わる前に水着!-紅魔館EX-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6b\ns6%3A%E5%A4%8F%E3%81%8C%E7%B5%82%E3%82%8F%E3%82%8B%E5%89%8D%E3%81%AB%E6%B0%B4%E7%9D%80%21-%E7%B4%85%E9%AD%94%E9%A4%A8EX-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6b\ns6%3A%E5%A4%8F%E3%81%8C%E7%B5%82%E3%82%8F%E3%82%8B%E5%89%8D%E3%81%AB%E6%B0%B4%E7%9D%80%21-%E7%B4%85%E9%AD%94%E9%A4%A8EX-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 DPSの奴隷達 | 同人志封面 | 封面图片
 
@@ -8,11 +8,8 @@ DPSの奴隷達 | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [夏が終わる前に水着!-紅魔館EX-](./夏が終わる前に水着!-紅魔館EX-.md)  
-该封面包含的角色：- [红美铃](./红美铃.md)
-
-
-
+- [夏が終わる前に水着!-紅魔館EX-](./夏が終わる前に水着!-紅魔館EX-.md)该封面包含的角色：
+- [红美铃](./红美铃.md)
 
 
 ---

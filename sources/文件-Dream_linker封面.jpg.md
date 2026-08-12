@@ -1,6 +1,6 @@
 # 文件:Dream_linker封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5f\ns6%3ADream_linker%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5f\ns6%3ADream_linker%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 TUMENECO | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ TUMENECO | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Dream linker](./Dream_linker.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [Dream linker](./Dream_linker.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

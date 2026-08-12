@@ -1,30 +1,22 @@
 # 東方霊尋夢~Journey_for_the_Half-Spirit/设定与剧情/故事背景
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\5\5d\ns0%3A%E6%9D%B1%E6%96%B9%E9%9C%8A%E5%B0%8B%E5%A4%A2%7EJourney_for_the_Half-Spirit%2F%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85%2F%E6%95%85%E4%BA%8B%E8%83%8C%E6%99%AF.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\5\5d\ns0%3A%E6%9D%B1%E6%96%B9%E9%9C%8A%E5%B0%8B%E5%A4%A2%7EJourney_for_the_Half-Spirit%2F%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85%2F%E6%95%85%E4%BA%8B%E8%83%8C%E6%99%AF.html -->
 
 菜酱
 
 
 ## 故事背景
-
   
 清晨，白玉楼  
 
 总之，魂魄妖梦醒来后再次发现半灵不见了…  
-
   
 
 但是，不同于以往，如果又是被幽幽子抱走“食用”的话，是能够感觉到其存在的。这次，半人半灵的庭师似乎真的只剩下半个人了…周围的一切渐渐变得飘渺起来，这背后究竟隐藏着什么样的秘密？  
-
   
 
 于是，一场寻找半灵的“旅程”就此展开…
   
-
-
-
-
-
 
 ---
 

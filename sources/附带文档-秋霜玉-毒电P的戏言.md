@@ -1,10 +1,11 @@
 # 附带文档:秋霜玉/毒电P的戏言
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\7\7d\ns506%3A%E7%A7%8B%E9%9C%9C%E7%8E%89%2F%E6%AF%92%E7%94%B5P%E7%9A%84%E6%88%8F%E8%A8%80.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\7\7d\ns506%3A%E7%A7%8B%E9%9C%9C%E7%8E%89%2F%E6%AF%92%E7%94%B5P%E7%9A%84%E6%88%8F%E8%A8%80.html -->
 
 秋霜玉
 
-- 本词条内容为 **[秋霜玉](./秋霜玉.md)** 的附带文档之一
+
+- 本词条内容为**[秋霜玉](./秋霜玉.md)**的附带文档之一
 - 如果发现翻译问题可进行改正
 
 
@@ -153,7 +154,7 @@
 　关于主人公，启动游戏的话就能看到了，在此就从略了。<br>
 只有这个角色的存在感不淡薄呢…。<br>
 关于标题画面，这和体验版的时候所画的一样，完全没做修正等。<br>
-所以满是有点奇怪的地方，但请将其作为「本来就是那样」<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">1</a></sup>来考虑吧。<br>
+所以满是有点奇怪的地方，但请将其作为「本来就是那样」<span>[^cite_note-1]</span>来考虑吧。<br>
 哎呀，不是偷工减料啊，说真的。（汗
 </p>
 </div>
@@ -187,13 +188,7 @@
 </div>
 </td></tr></tbody></table>
 
-
-
 [^cite_note-1]: “仕様”、“仕様です”，在电脑程序界被广泛使用，后来发展成日常生活用语。比如游戏出现Bug等等，就用这句套话来敷衍。
-
-
-
-
 
 ---
 

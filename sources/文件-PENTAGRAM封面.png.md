@@ -1,6 +1,6 @@
 # 文件:PENTAGRAM封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\ba\ns6%3APENTAGRAM%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\ba\ns6%3APENTAGRAM%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Active_Sounds_Zone | 专辑封面 | 封面图片
 
@@ -11,12 +11,7 @@ Active_Sounds_Zone | 专辑封面 | 封面图片
 - [PENTAGRAM](./PENTAGRAM.md)
 
   
-源地址：[[1]](https://s.booth.pm/624078f7-8062-4ac4-9337-4cee1fb04c7c/i/250232/1154a3a8-ab0c-440c-9f34-e6c4d68a1399.png)
-  
-
-
-
-
+源地址：[\[1\]](https://s.booth.pm/624078f7-8062-4ac4-9337-4cee1fb04c7c/i/250232/1154a3a8-ab0c-440c-9f34-e6c4d68a1399.png)  
 
 ---
 

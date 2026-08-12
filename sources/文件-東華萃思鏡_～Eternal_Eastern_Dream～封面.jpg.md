@@ -1,6 +1,6 @@
 # 文件:東華萃思鏡_～Eternal_Eastern_Dream～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\21\ns6%3A%E6%9D%B1%E8%8F%AF%E8%90%83%E6%80%9D%E9%8F%A1_%EF%BD%9EEternal_Eastern_Dream%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\21\ns6%3A%E6%9D%B1%E8%8F%AF%E8%90%83%E6%80%9D%E9%8F%A1_%EF%BD%9EEternal_Eastern_Dream%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 华绢花 | 封面图片
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [東華萃思鏡 ～Eternal Eastern Dream～](./東華萃思鏡_～Eternal_Eastern_Dream～.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [伊吹萃香](./伊吹萃香.md)
-
-
-
+- [東華萃思鏡 ～Eternal Eastern Dream～](./東華萃思鏡_～Eternal_Eastern_Dream～.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [伊吹萃香](./伊吹萃香.md)
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:神宫寺祈（祈华梦立绘）happy.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\39\ns6%3A%E7%A5%9E%E5%AE%AB%E5%AF%BA%E7%A5%88%EF%BC%88%E7%A5%88%E5%8D%8E%E6%A2%A6%E7%AB%8B%E7%BB%98%EF%BC%89happy%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\39\ns6%3A%E7%A5%9E%E5%AE%AB%E5%AF%BA%E7%A5%88%EF%BC%88%E7%A5%88%E5%8D%8E%E6%A2%A6%E7%AB%8B%E7%BB%98%EF%BC%89happy%2Epng.html -->
 
 OSY搞事组 | 东方祈华梦制作组 | 二次角色立绘 | 神宫寺祈
-
-
-
-
 
 
 ---

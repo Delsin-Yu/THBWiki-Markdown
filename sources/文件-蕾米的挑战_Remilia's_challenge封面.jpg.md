@@ -1,6 +1,6 @@
 # 文件:蕾米的挑战_Remilia's_challenge封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\52\ns6%3A%E8%95%BE%E7%B1%B3%E7%9A%84%E6%8C%91%E6%88%98_Remilia%27s_challenge%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\52\ns6%3A%E8%95%BE%E7%B1%B3%E7%9A%84%E6%8C%91%E6%88%98_Remilia%27s_challenge%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 16air | 封面图片 | 软件封面
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [蕾米的挑战 Remilia's challenge](./蕾米的挑战_Remilia's_challenge.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
-
-
-
+- [蕾米的挑战 Remilia's challenge](./蕾米的挑战_Remilia's_challenge.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
 
 ---

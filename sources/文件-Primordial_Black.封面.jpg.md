@@ -1,6 +1,6 @@
 # 文件:Primordial_Black.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a7\ns6%3APrimordial_Black%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a7\ns6%3APrimordial_Black%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 No_Corner | 专辑封面 | 封面图片
 
@@ -10,16 +10,12 @@ No_Corner | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Primordial Black.](./Primordial_Black..md)  
-该封面包含的角色：- [八云紫](./八云紫.md)- 阿比盖尔·威廉姆斯（Fate） (未找到链接)
+- [Primordial Black.](./Primordial_Black..md)该封面包含的角色：
+- [八云紫](./八云紫.md)
+- 阿比盖尔·威廉姆斯（Fate） (未找到链接)
 
   
-[Pixiv artwork ID: 73135831](https://www.pixiv.net/artworks/73135831)
-  
-
-
-
-
+[Pixiv artwork ID: 73135831](https://www.pixiv.net/artworks/73135831)  
 
 ---
 

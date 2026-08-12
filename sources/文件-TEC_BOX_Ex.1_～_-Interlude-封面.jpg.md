@@ -1,6 +1,6 @@
 # 文件:TEC_BOX_Ex.1_～_"Interlude"封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\01\ns6%3ATEC_BOX_Ex%2E1_%EF%BD%9E_%22Interlude%22%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\01\ns6%3ATEC_BOX_Ex%2E1_%EF%BD%9E_%22Interlude%22%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 SoundChaos | 专辑封面 | 封面图片
 
@@ -8,12 +8,10 @@ SoundChaos | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [TEC BOX Ex.1 ～ "Interlude"](./TEC_BOX_Ex.1_～_-Interlude-.md)  
-该封面包含的角色：- [风见幽香](./风见幽香.md)- [东风谷早苗](./东风谷早苗.md)来源：TLMC
-
-
-
-
+- [TEC BOX Ex.1 ～ "Interlude"](./TEC_BOX_Ex.1_～_-Interlude-.md)该封面包含的角色：
+- [风见幽香](./风见幽香.md)
+- [东风谷早苗](./东风谷早苗.md)
+来源：TLMC
 
 ---
 

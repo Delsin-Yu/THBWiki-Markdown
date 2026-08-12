@@ -1,6 +1,6 @@
 # 文件:デジウィ_DELiGHT_instrumental封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\af\ns6%3A%E3%83%87%E3%82%B8%E3%82%A6%E3%82%A3_DELiGHT_instrumental%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\af\ns6%3A%E3%83%87%E3%82%B8%E3%82%A6%E3%82%A3_DELiGHT_instrumental%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 DiGiTAL_WiNG | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ DiGiTAL_WiNG | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [デジウィ DELiGHT instrumental](./デジウィ_DELiGHT_instrumental.md)  
-该封面包含的角色：- [东风谷早苗](./东风谷早苗.md)
-
-
-
+- [デジウィ DELiGHT instrumental](./デジウィ_DELiGHT_instrumental.md)该封面包含的角色：
+- [东风谷早苗](./东风谷早苗.md)
 
 
 ---

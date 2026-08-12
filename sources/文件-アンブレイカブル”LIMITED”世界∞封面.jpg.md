@@ -1,6 +1,6 @@
 # 文件:アンブレイカブル”LIMITED”世界∞封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1e\ns6%3A%E3%82%A2%E3%83%B3%E3%83%96%E3%83%AC%E3%82%A4%E3%82%AB%E3%83%96%E3%83%AB%E2%80%9DLIMITED%E2%80%9D%E4%B8%96%E7%95%8C%E2%88%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1e\ns6%3A%E3%82%A2%E3%83%B3%E3%83%96%E3%83%AC%E3%82%A4%E3%82%AB%E3%83%96%E3%83%AB%E2%80%9DLIMITED%E2%80%9D%E4%B8%96%E7%95%8C%E2%88%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 KRASTERII | 专辑封面 | 封面图片
 
@@ -8,16 +8,12 @@ KRASTERII | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [アンブレイカブル”LIMITED”世界∞](./アンブレイカブル”LIMITED”世界∞.md)  
-该封面包含的角色：- [圣白莲](./圣白莲.md)- [封兽鵺](./封兽鵺.md)
+- [アンブレイカブル”LIMITED”世界∞](./アンブレイカブル”LIMITED”世界∞.md)该封面包含的角色：
+- [圣白莲](./圣白莲.md)
+- [封兽鵺](./封兽鵺.md)
 
   
-源地址：[[1]](http://kraster.jp/toho_ulw/jacket2.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://kraster.jp/toho_ulw/jacket2.jpg)  
 
 ---
 

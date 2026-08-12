@@ -1,12 +1,8 @@
 # 文件:三头「Cerberus_Fire」（兽王园）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a1\ns6%3A%E4%B8%89%E5%A4%B4%E3%80%8CCerberus_Fire%E3%80%8D%EF%BC%88%E5%85%BD%E7%8E%8B%E5%9B%AD%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a1\ns6%3A%E4%B8%89%E5%A4%B4%E3%80%8CCerberus_Fire%E3%80%8D%EF%BC%88%E5%85%BD%E7%8E%8B%E5%9B%AD%EF%BC%89%2Epng.html -->
 
 三头慧之子 | 东方兽王园 | 自机符卡
-
-
-
-
 
 
 ---

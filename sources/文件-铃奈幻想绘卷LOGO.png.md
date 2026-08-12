@@ -1,12 +1,8 @@
 # 文件:铃奈幻想绘卷LOGO.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\db\ns6%3A%E9%93%83%E5%A5%88%E5%B9%BB%E6%83%B3%E7%BB%98%E5%8D%B7LOGO%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\db\ns6%3A%E9%93%83%E5%A5%88%E5%B9%BB%E6%83%B3%E7%BB%98%E5%8D%B7LOGO%2Epng.html -->
 
 活动LOGO | 铃奈幻想绘卷
-
-
-
-
 
 
 ---

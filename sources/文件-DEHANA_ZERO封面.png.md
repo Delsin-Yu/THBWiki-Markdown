@@ -1,6 +1,6 @@
 # 文件:DEHANA_ZERO封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5d\ns6%3ADEHANA_ZERO%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5d\ns6%3ADEHANA_ZERO%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 DEHANA | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@ DEHANA | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [DEHANA ZERO](./DEHANA_ZERO.md)  
-该封面包含的角色：- [小野塚小町](./小野塚小町.md)
+- [DEHANA ZERO](./DEHANA_ZERO.md)该封面包含的角色：
+- [小野塚小町](./小野塚小町.md)
 
   
-源地址：[direct image link](https://cdn-ak.f.st-hatena.com/images/fotolife/m/medd/20200312/20200312164848.png), [source page](https://dehana.hatenablog.com/entry/2020/03/13/201440)
-  
-
-
-
-
+源地址：[direct image link](https://cdn-ak.f.st-hatena.com/images/fotolife/m/medd/20200312/20200312164848.png), [source page](https://dehana.hatenablog.com/entry/2020/03/13/201440)  
 
 ---
 

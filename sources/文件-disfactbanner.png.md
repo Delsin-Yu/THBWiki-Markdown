@@ -1,12 +1,8 @@
 # 文件:disfactbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9b\ns6%3Adisfactbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9b\ns6%3Adisfactbanner%2Epng.html -->
 
 disfact | 社团LOGO
-
-
-
-
 
 
 ---

@@ -1,16 +1,11 @@
 # 文件:居酒屋さんlogo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\99\ns6%3A%E5%B1%85%E9%85%92%E5%B1%8B%E3%81%95%E3%82%93logo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\99\ns6%3A%E5%B1%85%E9%85%92%E5%B1%8B%E3%81%95%E3%82%93logo%2Ejpg.html -->
 
 居酒屋さん | 社团LOGO
 
   
-源地址：[[1]](https://blog-imgs-47.fc2.com/i/z/a/izakayasan/20110902184038ae1s.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://blog-imgs-47.fc2.com/i/z/a/izakayasan/20110902184038ae1s.jpg)  
 
 ---
 

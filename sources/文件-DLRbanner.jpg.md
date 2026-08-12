@@ -1,16 +1,11 @@
 # 文件:DLRbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\97\ns6%3ADLRbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\97\ns6%3ADLRbanner%2Ejpg.html -->
 
 DLR | 社团LOGO
 
   
-源地址：[[1]](http://blog-imgs-42.fc2.com/d/l/r/dlr/2010111206461797e.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://blog-imgs-42.fc2.com/d/l/r/dlr/2010111206461797e.jpg)  
 
 ---
 

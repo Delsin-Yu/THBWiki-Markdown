@@ -1,12 +1,8 @@
 # 文件:幻幽「Jack_the_Ludo_Bile」（红魔乡）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\49\ns6%3A%E5%B9%BB%E5%B9%BD%E3%80%8CJack_the_Ludo_Bile%E3%80%8D%EF%BC%88%E7%BA%A2%E9%AD%94%E4%B9%A1%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\49\ns6%3A%E5%B9%BB%E5%B9%BD%E3%80%8CJack_the_Ludo_Bile%E3%80%8D%EF%BC%88%E7%BA%A2%E9%AD%94%E4%B9%A1%EF%BC%89%2Ejpg.html -->
 
 东方红魔乡 | 十六夜咲夜 | 敌机符卡
-
-
-
-
 
 
 ---

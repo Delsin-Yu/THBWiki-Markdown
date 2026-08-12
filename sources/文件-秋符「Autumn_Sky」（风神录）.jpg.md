@@ -1,12 +1,8 @@
 # 文件:秋符「Autumn_Sky」（风神录）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\82\ns6%3A%E7%A7%8B%E7%AC%A6%E3%80%8CAutumn_Sky%E3%80%8D%EF%BC%88%E9%A3%8E%E7%A5%9E%E5%BD%95%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\82\ns6%3A%E7%A7%8B%E7%AC%A6%E3%80%8CAutumn_Sky%E3%80%8D%EF%BC%88%E9%A3%8E%E7%A5%9E%E5%BD%95%EF%BC%89%2Ejpg.html -->
 
 东方风神录 | 敌机符卡 | 秋穰子
-
-
-
-
 
 
 ---

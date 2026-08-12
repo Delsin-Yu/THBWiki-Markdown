@@ -1,6 +1,6 @@
 # 文件:REBIRTH_Revisited封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7f\ns6%3AREBIRTH_Revisited%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7f\ns6%3AREBIRTH_Revisited%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Unlucky_Morpheus | 专辑封面 | 封面图片
 
@@ -8,16 +8,12 @@ Unlucky_Morpheus | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [REBIRTH Revisited](./REBIRTH_Revisited.md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)- [犬走椛](./犬走椛.md)
+- [REBIRTH Revisited](./REBIRTH_Revisited.md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
+- [犬走椛](./犬走椛.md)
 
   
-源地址：[[1]](http://sound.jp/ankimo/RR_800.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://sound.jp/ankimo/RR_800.jpg)  
 
 ---
 

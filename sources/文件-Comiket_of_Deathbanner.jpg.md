@@ -1,16 +1,11 @@
 # 文件:Comiket_of_Deathbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9c\ns6%3AComiket_of_Deathbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9c\ns6%3AComiket_of_Deathbanner%2Ejpg.html -->
 
 Comiket_of_Death | 社团LOGO
 
   
-源地址：[[1]](http://akiba.geocities.jp/comiketofdeath/top.banner.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://akiba.geocities.jp/comiketofdeath/top.banner.jpg)  
 
 ---
 

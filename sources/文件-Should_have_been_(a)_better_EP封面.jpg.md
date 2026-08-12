@@ -1,6 +1,6 @@
 # 文件:Should_have_been_(a)_better_EP封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\49\ns6%3AShould_have_been_%28a%29_better_EP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\49\ns6%3AShould_have_been_%28a%29_better_EP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 NCMR | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ NCMR | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Should have been (a) better EP](./Should_have_been_(a)_better_EP.md)  
-该封面包含的角色：- [宇佐见莲子](./宇佐见莲子.md)
+- [Should have been (a) better EP](./Should_have_been_(a%29_better_EP.md)该封面包含的角色：
+- [宇佐见莲子](./宇佐见莲子.md)
 
   
-源地址：[[1]](https://ncmr.bandcamp.com/album/should-have-been-a-better-ep)
-  
-
-
-
-
+源地址：[\[1\]](https://ncmr.bandcamp.com/album/should-have-been-a-better-ep)  
 
 ---
 

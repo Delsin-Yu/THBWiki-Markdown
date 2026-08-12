@@ -1,6 +1,6 @@
 # 文件:雪消月_-_Square_of_the_moon_-封面.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\21\ns6%3A%E9%9B%AA%E6%B6%88%E6%9C%88_-_Square_of_the_moon_-%E5%B0%81%E9%9D%A2%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\21\ns6%3A%E9%9B%AA%E6%B6%88%E6%9C%88_-_Square_of_the_moon_-%E5%B0%81%E9%9D%A2%2Egif.html -->
 
 LOVEマシーン | にくや | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ LOVEマシーン | にくや | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [雪消月 - Square of the moon -](./雪消月_-_Square_of_the_moon_-.md)  
-该封面包含的角色：- [蕾蒂·霍瓦特洛克](./蕾蒂·霍瓦特洛克.md)
-
-
-
+- [雪消月 - Square of the moon -](./雪消月_-_Square_of_the_moon_-.md)该封面包含的角色：
+- [蕾蒂·霍瓦特洛克](./蕾蒂·霍瓦特洛克.md)
 
 
 ---

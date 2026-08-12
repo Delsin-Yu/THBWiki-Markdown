@@ -1,6 +1,6 @@
 # 文件:Skyrocket_to_Harmony封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6e\ns6%3ASkyrocket_to_Harmony%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6e\ns6%3ASkyrocket_to_Harmony%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 LTEDTX | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ LTEDTX | 专辑封面 | 封面图片
   
 
 - [Skyrocket to Harmony](./Skyrocket_to_Harmony.md)
-
-
-
 
 
 ---

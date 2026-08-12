@@ -1,12 +1,8 @@
 # 文件:蝶符「Fluttering_Summer」（天空璋）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9f\ns6%3A%E8%9D%B6%E7%AC%A6%E3%80%8CFluttering_Summer%E3%80%8D%EF%BC%88%E5%A4%A9%E7%A9%BA%E7%92%8B%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9f\ns6%3A%E8%9D%B6%E7%AC%A6%E3%80%8CFluttering_Summer%E3%80%8D%EF%BC%88%E5%A4%A9%E7%A9%BA%E7%92%8B%EF%BC%89%2Ejpg.html -->
 
 东方天空璋 | 敌机符卡 | 爱塔妮缇拉尔瓦
-
-
-
-
 
 
 ---

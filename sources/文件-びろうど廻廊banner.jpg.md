@@ -1,12 +1,8 @@
 # 文件:びろうど廻廊banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\97\ns6%3A%E3%81%B3%E3%82%8D%E3%81%86%E3%81%A9%E5%BB%BB%E5%BB%8Abanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\97\ns6%3A%E3%81%B3%E3%82%8D%E3%81%86%E3%81%A9%E5%BB%BB%E5%BB%8Abanner%2Ejpg.html -->
 
 びろうど廻廊 | 社团LOGO
-
-
-
-
 
 
 ---

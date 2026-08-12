@@ -1,12 +1,8 @@
 # 文件:ねこタンクbanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\77\ns6%3A%E3%81%AD%E3%81%93%E3%82%BF%E3%83%B3%E3%82%AFbanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\77\ns6%3A%E3%81%AD%E3%81%93%E3%82%BF%E3%83%B3%E3%82%AFbanner%2Egif.html -->
 
 ねこタンク | 社团LOGO
-
-
-
-
 
 
 ---

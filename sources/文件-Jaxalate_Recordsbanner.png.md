@@ -1,16 +1,11 @@
 # 文件:Jaxalate_Recordsbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1a\ns6%3AJaxalate_Recordsbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1a\ns6%3AJaxalate_Recordsbanner%2Epng.html -->
 
 Jaxalate_Records | 社团LOGO
 
   
-源地址：[[1]](https://jaxalaterec.jimdo.com/)
-  
-
-
-
-
+源地址：[\[1\]](https://jaxalaterec.jimdo.com/)  
 
 ---
 

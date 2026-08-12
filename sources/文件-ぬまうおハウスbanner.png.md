@@ -1,16 +1,11 @@
 # 文件:ぬまうおハウスbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\ba\ns6%3A%E3%81%AC%E3%81%BE%E3%81%86%E3%81%8A%E3%83%8F%E3%82%A6%E3%82%B9banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\ba\ns6%3A%E3%81%AC%E3%81%BE%E3%81%86%E3%81%8A%E3%83%8F%E3%82%A6%E3%82%B9banner%2Epng.html -->
 
 ぬまうおハウス | 社团LOGO
 
   
-源地址：[[1]](https://static.wixstatic.com/media/e47e90_64e1db53fb074d7b9037d0cfe96c3f90~mv2.png/v1/fill/w_203,h_81,al_c,usm_0.66_1.00_0.01/e47e90_64e1db53fb074d7b9037d0cfe96c3f90~mv2.png)
-  
-
-
-
-
+源地址：[\[1\]](https://static.wixstatic.com/media/e47e90_64e1db53fb074d7b9037d0cfe96c3f90~mv2.png/v1/fill/w_203,h_81,al_c,usm_0.66_1.00_0.01/e47e90_64e1db53fb074d7b9037d0cfe96c3f90~mv2.png)  
 
 ---
 

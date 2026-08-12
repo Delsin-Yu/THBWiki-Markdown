@@ -1,16 +1,12 @@
 # 文件:WACCA_Sweet_Requiem_封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1e\ns6%3AWACCA_Sweet_Requiem_%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1e\ns6%3AWACCA_Sweet_Requiem_%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Marvelous
 
   
 WACCA_Sweet Requiem_封面
   
-
-
-
-
 
 ---
 

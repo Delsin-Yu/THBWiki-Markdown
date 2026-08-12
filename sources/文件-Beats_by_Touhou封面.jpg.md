@@ -1,6 +1,6 @@
 # 文件:Beats_by_Touhou封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f3\ns6%3ABeats_by_Touhou%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f3\ns6%3ABeats_by_Touhou%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Leonovsky7 | 专辑封面 | 封面图片
 
@@ -13,12 +13,7 @@ Leonovsky7 | 专辑封面 | 封面图片
 - [Beats by Touhou](./Beats_by_Touhou.md)
 
   
-源地址：[direct image link (10 size)](https://f4.bcbits.com/img/a3215021312_10.jpg), [source page (artist Bandcamp)](https://leonovsky7.bandcamp.com/album/beats-by-touhou)
-  
-
-
-
-
+源地址：[direct image link (10 size)](https://f4.bcbits.com/img/a3215021312_10.jpg), [source page (artist Bandcamp)](https://leonovsky7.bandcamp.com/album/beats-by-touhou)  
 
 ---
 

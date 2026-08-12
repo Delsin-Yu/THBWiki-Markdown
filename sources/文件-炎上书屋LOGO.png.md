@@ -1,6 +1,6 @@
 # 文件:炎上书屋LOGO.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0a\ns6%3A%E7%82%8E%E4%B8%8A%E4%B9%A6%E5%B1%8BLOGO%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0a\ns6%3A%E7%82%8E%E4%B8%8A%E4%B9%A6%E5%B1%8BLOGO%2Epng.html -->
 
 炎上书屋
 
@@ -9,10 +9,6 @@
   
 东方同人网站[炎上书屋](./炎上书屋.md)的LOGO，用于制作其词条。
   
-
-
-
-
 
 ---
 

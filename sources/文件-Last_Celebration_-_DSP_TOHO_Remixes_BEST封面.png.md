@@ -1,6 +1,6 @@
 # 文件:Last_Celebration_-_DSP_TOHO_Remixes_BEST封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c5\ns6%3ALast_Celebration_-_DSP_TOHO_Remixes_BEST%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c5\ns6%3ALast_Celebration_-_DSP_TOHO_Remixes_BEST%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Golden_City_Factory | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Golden_City_Factory | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Last Celebration - DSP TOHO Remixes BEST](./Last_Celebration_-_DSP_TOHO_Remixes_BEST.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)
-
-
-
+- [Last Celebration - DSP TOHO Remixes BEST](./Last_Celebration_-_DSP_TOHO_Remixes_BEST.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
 
 
 ---

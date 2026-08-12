@@ -1,12 +1,8 @@
 # 文件:eS=S_banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\17\ns6%3AeS%3DS_banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\17\ns6%3AeS%3DS_banner%2Epng.html -->
 
 eS=S | 社团LOGO
-
-
-
-
 
 
 ---

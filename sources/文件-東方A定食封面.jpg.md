@@ -1,6 +1,6 @@
 # 文件:東方A定食封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7d\ns6%3A%E6%9D%B1%E6%96%B9A%E5%AE%9A%E9%A3%9F%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7d\ns6%3A%E6%9D%B1%E6%96%B9A%E5%AE%9A%E9%A3%9F%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 UtAGe | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ UtAGe | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方A定食](./東方A定食.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)
-
-
-
+- [東方A定食](./東方A定食.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
 
 
 ---

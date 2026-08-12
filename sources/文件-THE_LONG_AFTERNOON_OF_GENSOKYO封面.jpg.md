@@ -1,6 +1,6 @@
 # 文件:THE_LONG_AFTERNOON_OF_GENSOKYO封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6c\ns6%3ATHE_LONG_AFTERNOON_OF_GENSOKYO%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6c\ns6%3ATHE_LONG_AFTERNOON_OF_GENSOKYO%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 StarlessTrilogy | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ StarlessTrilogy | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [THE LONG AFTERNOON OF GENSOKYO](./THE_LONG_AFTERNOON_OF_GENSOKYO.md)  
-该封面包含的角色：- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
-
-
-
+- [THE LONG AFTERNOON OF GENSOKYO](./THE_LONG_AFTERNOON_OF_GENSOKYO.md)该封面包含的角色：
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
 
 
 ---

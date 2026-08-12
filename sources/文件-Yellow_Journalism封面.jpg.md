@@ -1,6 +1,6 @@
 # 文件:Yellow_Journalism封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c1\ns6%3AYellow_Journalism%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c1\ns6%3AYellow_Journalism%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 月猫工房
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Yellow Journalism](./Yellow_Journalism.md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)
-
-
-
+- [Yellow Journalism](./Yellow_Journalism.md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
 
 
 ---

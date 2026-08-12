@@ -1,6 +1,6 @@
 # 文件:Toho_Starlight_Club封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c7\ns6%3AToho_Starlight_Club%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c7\ns6%3AToho_Starlight_Club%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Starlight_Garden | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ Starlight_Garden | 专辑封面 | 封面图片
   
 
 - [Toho Starlight Club](./Toho_Starlight_Club.md)
-
-
-
 
 
 ---

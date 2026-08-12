@@ -1,6 +1,6 @@
 # 文件:蜡笔の幻想乡-幻想乡地名图鉴Extra封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4e\ns6%3A%E8%9C%A1%E7%AC%94%E3%81%AE%E5%B9%BB%E6%83%B3%E4%B9%A1-%E5%B9%BB%E6%83%B3%E4%B9%A1%E5%9C%B0%E5%90%8D%E5%9B%BE%E9%89%B4Extra%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4e\ns6%3A%E8%9C%A1%E7%AC%94%E3%81%AE%E5%B9%BB%E6%83%B3%E4%B9%A1-%E5%B9%BB%E6%83%B3%E4%B9%A1%E5%9C%B0%E5%90%8D%E5%9B%BE%E9%89%B4Extra%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 麻薯小作坊
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [蜡笔の幻想乡-幻想乡地名图鉴Extra](./蜡笔の幻想乡-幻想乡地名图鉴Extra.md)  
-该封面包含的角色：- [博丽灵梦（旧作角色）](./博丽灵梦（旧作角色）.md)- [雾雨魔理沙（旧作角色）](./雾雨魔理沙（旧作角色）.md)
-
-
-
+- [蜡笔の幻想乡-幻想乡地名图鉴Extra](./蜡笔の幻想乡-幻想乡地名图鉴Extra.md)该封面包含的角色：
+- [博丽灵梦（旧作角色）](./博丽灵梦（旧作角色）.md)
+- [雾雨魔理沙（旧作角色）](./雾雨魔理沙（旧作角色）.md)
 
 
 ---

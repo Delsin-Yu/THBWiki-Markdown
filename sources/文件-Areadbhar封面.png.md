@@ -1,6 +1,6 @@
 # 文件:Areadbhar封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d8\ns6%3AAreadbhar%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d8\ns6%3AAreadbhar%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 同人志封面 | 封面图片 | 扶養家族
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Areadbhar](./Areadbhar.md)  
-该封面包含的角色：- [犬走椛](./犬走椛.md)
+- [Areadbhar](./Areadbhar.md)该封面包含的角色：
+- [犬走椛](./犬走椛.md)
 
   
-源地址：[direct image link (original size; cropped)](https://pbs.twimg.com/media/D5jwwI3WwAMJ3Rl?format=jpg&amp;name=orig), [source tweet](https://twitter.com/ameno_naka/status/1123912845299781632)
-  
-
-
-
-
+源地址：[direct image link (original size; cropped)](https://pbs.twimg.com/media/D5jwwI3WwAMJ3Rl?format=jpg&name=orig), [source tweet](https://twitter.com/ameno_naka/status/1123912845299781632)  
 
 ---
 

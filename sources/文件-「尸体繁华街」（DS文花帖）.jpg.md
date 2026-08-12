@@ -1,12 +1,8 @@
 # 文件:「尸体繁华街」（DS文花帖）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d0\ns6%3A%E3%80%8C%E5%B0%B8%E4%BD%93%E7%B9%81%E5%8D%8E%E8%A1%97%E3%80%8D%EF%BC%88DS%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d0\ns6%3A%E3%80%8C%E5%B0%B8%E4%BD%93%E7%B9%81%E5%8D%8E%E8%A1%97%E3%80%8D%EF%BC%88DS%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Ejpg.html -->
 
 东方文花帖DS | 敌机符卡 | 火焰猫燐
-
-
-
-
 
 
 ---

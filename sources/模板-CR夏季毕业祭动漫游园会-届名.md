@@ -1,12 +1,8 @@
 # 模板:CR夏季毕业祭动漫游园会/届名
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\7\79\ns10%3ACR%E5%A4%8F%E5%AD%A3%E6%AF%95%E4%B8%9A%E7%A5%AD%E5%8A%A8%E6%BC%AB%E6%B8%B8%E5%9B%AD%E4%BC%9A%2F%E5%B1%8A%E5%90%8D.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\7\79\ns10%3ACR%E5%A4%8F%E5%AD%A3%E6%AF%95%E4%B8%9A%E7%A5%AD%E5%8A%A8%E6%BC%AB%E6%B8%B8%E5%9B%AD%E4%BC%9A%2F%E5%B1%8A%E5%90%8D.html -->
 
 活动届名模板
-
-
-
-
 
 
 ---

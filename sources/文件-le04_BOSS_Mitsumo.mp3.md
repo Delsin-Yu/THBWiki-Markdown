@@ -1,16 +1,12 @@
 # 文件:le04_BOSS_Mitsumo.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\59\ns6%3Ale04_BOSS_Mitsumo%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\59\ns6%3Ale04_BOSS_Mitsumo%2Emp3.html -->
 
 Nightmare_Syndrome | 连缘Project官方音乐MP3 | 连缘天影战记
 
   
 连缘天影战记都线1面Boss-照云主题曲
   
-
-
-
-
 
 ---
 

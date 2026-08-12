@@ -1,6 +1,6 @@
 # 文件:Touhou_Music_I封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cb\ns6%3ATouhou_Music_I%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cb\ns6%3ATouhou_Music_I%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 yunum | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ yunum | 专辑封面 | 封面图片
   
 
 - [Touhou Music I](./Touhou_Music_I.md)
-
-
-
 
 
 ---

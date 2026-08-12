@@ -1,38 +1,30 @@
 # poprication/ちびアクリルフィギュア(霊夢&魔理沙)
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\8\87\ns0%3Apoprication%2F%E3%81%A1%E3%81%B3%E3%82%A2%E3%82%AF%E3%83%AA%E3%83%AB%E3%83%95%E3%82%A3%E3%82%AE%E3%83%A5%E3%82%A2%28%E9%9C%8A%E5%A4%A2%26%E9%AD%94%E7%90%86%E6%B2%99%29.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\8\87\ns0%3Apoprication%2F%E3%81%A1%E3%81%B3%E3%82%A2%E3%82%AF%E3%83%AA%E3%83%AB%E3%83%95%E3%82%A3%E3%82%AE%E3%83%A5%E3%82%A2%28%E9%9C%8A%E5%A4%A2%26%E9%AD%94%E7%90%86%E6%B2%99%29.html -->
 
 2020年10月17日 由 poprication  发布的立牌周边，分级为 一般向
 
 本页是关于东方Project  
- **相关实体周边 (未找到链接)** 的词条
-
+**相关实体周边 (未找到链接)**的词条
 ## 目录
 
 - [1 周边信息](#周边信息)
 - [2 参考图](#参考图)
-
   - [2.1 预览图](#预览图)
   - [2.2 实物图](#实物图)
-
 
 
 - [3 Staff](#Staff)
 - [4 评论](#评论)
 
 
-
-
-
 ## 周边信息
 
-<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> ちびアクリルフィギュア(霊夢&#38;魔理沙) </td></tr><tr><td class="label">制作方</td><td><a href="./poprication.md" title="poprication">poprication</a></td></tr><tr><td class="label">首发日期</td><td>2020-10-17</td></tr><tr><td class="label">类型</td><td>立牌</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">材质</td><td>亚克力</td></tr><tr><td class="label">角色</td><td><a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a><br><a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a></td></tr><tr><td class="label">售价</td><td>通贩售价：941日元</td></tr>
+<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> ちびアクリルフィギュア(霊夢&魔理沙) </td></tr><tr><td class="label">制作方</td><td><a href="./poprication.md" title="poprication">poprication</a></td></tr><tr><td class="label">首发日期</td><td>2020-10-17</td></tr><tr><td class="label">类型</td><td>立牌</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">材质</td><td>亚克力</td></tr><tr><td class="label">角色</td><td><a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a><br><a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a></td></tr><tr><td class="label">售价</td><td>通贩售价：941日元</td></tr>
 <tr><td class="label">官网页面</td><td><a rel="nofollow" class="external free" href="https://twitter.com/benisyakedon/status/1323961105966772226">https://twitter.com/benisyakedon/status/1323961105966772226</a></td></tr></tbody></table>
 
-poprication/ちびアクリルフィギュア(霊夢&amp;魔理沙)（周边，poprication，2020） - 2020年10月17日 由 poprication  发布的立牌周边，分级为 一般向
-
+poprication/ちびアクリルフィギュア(霊夢&魔理沙)（周边，poprication，2020） - 2020年10月17日 由 poprication  发布的立牌周边，分级为 一般向
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=743176">蜜瓜</a></td></tr></tbody></table>
-
 
 
 ## 参考图
@@ -40,29 +32,25 @@ poprication/ちびアクリルフィギュア(霊夢&amp;魔理沙)（周边，p
 周边宣传、售卖时使用的作为参考图的预览图或实物图的图片。
   
 
-
 ### 预览图
-- [](./文件-poprication／ちびアクリルフィギュア(霊夢&魔理沙)预览图1.jpg.md)
+
+- <img alt="poprication／ちびアクリルフィギュア(霊夢&amp;魔理沙)预览图1.jpg" src="https://upload.thwiki.cc/thumb/7/7e/poprication%EF%BC%8F%E3%81%A1%E3%81%B3%E3%82%A2%E3%82%AF%E3%83%AA%E3%83%AB%E3%83%95%E3%82%A3%E3%82%AE%E3%83%A5%E3%82%A2%28%E9%9C%8A%E5%A4%A2%26%E9%AD%94%E7%90%86%E6%B2%99%29%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg/537px-poprication%EF%BC%8F%E3%81%A1%E3%81%B3%E3%82%A2%E3%82%AF%E3%83%AA%E3%83%AB%E3%83%95%E3%82%A3%E3%82%AE%E3%83%A5%E3%82%A2%28%E9%9C%8A%E5%A4%A2%26%E9%AD%94%E7%90%86%E6%B2%99%29%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg" decoding="async" loading="lazy" width="358" height="250" srcset="https://upload.thwiki.cc/thumb/7/7e/poprication%EF%BC%8F%E3%81%A1%E3%81%B3%E3%82%A2%E3%82%AF%E3%83%AA%E3%83%AB%E3%83%95%E3%82%A3%E3%82%AE%E3%83%A5%E3%82%A2%28%E9%9C%8A%E5%A4%A2%26%E9%AD%94%E7%90%86%E6%B2%99%29%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg/806px-poprication%EF%BC%8F%E3%81%A1%E3%81%B3%E3%82%A2%E3%82%AF%E3%83%AA%E3%83%AB%E3%83%95%E3%82%A3%E3%82%AE%E3%83%A5%E3%82%A2%28%E9%9C%8A%E5%A4%A2%26%E9%AD%94%E7%90%86%E6%B2%99%29%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg 1.5x, https://upload.thwiki.cc/7/7e/poprication%EF%BC%8F%E3%81%A1%E3%81%B3%E3%82%A2%E3%82%AF%E3%83%AA%E3%83%AB%E3%83%95%E3%82%A3%E3%82%AE%E3%83%A5%E3%82%A2%28%E9%9C%8A%E5%A4%A2%26%E9%AD%94%E7%90%86%E6%B2%99%29%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg 2x" data-file-width="900" data-file-height="629"> 
 
 
 ### 实物图
-- [](./文件-poprication／ちびアクリルフィギュア(霊夢&魔理沙)实物图1.jpg.md)
+
+- <img alt="poprication／ちびアクリルフィギュア(霊夢&amp;魔理沙)实物图1.jpg" src="https://upload.thwiki.cc/thumb/3/32/poprication%EF%BC%8F%E3%81%A1%E3%81%B3%E3%82%A2%E3%82%AF%E3%83%AA%E3%83%AB%E3%83%95%E3%82%A3%E3%82%AE%E3%83%A5%E3%82%A2%28%E9%9C%8A%E5%A4%A2%26%E9%AD%94%E7%90%86%E6%B2%99%29%E5%AE%9E%E7%89%A9%E5%9B%BE1.jpg/470px-poprication%EF%BC%8F%E3%81%A1%E3%81%B3%E3%82%A2%E3%82%AF%E3%83%AA%E3%83%AB%E3%83%95%E3%82%A3%E3%82%AE%E3%83%A5%E3%82%A2%28%E9%9C%8A%E5%A4%A2%26%E9%AD%94%E7%90%86%E6%B2%99%29%E5%AE%9E%E7%89%A9%E5%9B%BE1.jpg" decoding="async" loading="lazy" width="314" height="250" srcset="https://upload.thwiki.cc/thumb/3/32/poprication%EF%BC%8F%E3%81%A1%E3%81%B3%E3%82%A2%E3%82%AF%E3%83%AA%E3%83%AB%E3%83%95%E3%82%A3%E3%82%AE%E3%83%A5%E3%82%A2%28%E9%9C%8A%E5%A4%A2%26%E9%AD%94%E7%90%86%E6%B2%99%29%E5%AE%9E%E7%89%A9%E5%9B%BE1.jpg/706px-poprication%EF%BC%8F%E3%81%A1%E3%81%B3%E3%82%A2%E3%82%AF%E3%83%AA%E3%83%AB%E3%83%95%E3%82%A3%E3%82%AE%E3%83%A5%E3%82%A2%28%E9%9C%8A%E5%A4%A2%26%E9%AD%94%E7%90%86%E6%B2%99%29%E5%AE%9E%E7%89%A9%E5%9B%BE1.jpg 1.5x, https://upload.thwiki.cc/thumb/3/32/poprication%EF%BC%8F%E3%81%A1%E3%81%B3%E3%82%A2%E3%82%AF%E3%83%AA%E3%83%AB%E3%83%95%E3%82%A3%E3%82%AE%E3%83%A5%E3%82%A2%28%E9%9C%8A%E5%A4%A2%26%E9%AD%94%E7%90%86%E6%B2%99%29%E5%AE%9E%E7%89%A9%E5%9B%BE1.jpg/941px-poprication%EF%BC%8F%E3%81%A1%E3%81%B3%E3%82%A2%E3%82%AF%E3%83%AA%E3%83%AB%E3%83%95%E3%82%A3%E3%82%AE%E3%83%A5%E3%82%A2%28%E9%9C%8A%E5%A4%A2%26%E9%AD%94%E7%90%86%E6%B2%99%29%E5%AE%9E%E7%89%A9%E5%9B%BE1.jpg 2x" data-file-width="2048" data-file-height="1633"> 
 
 
 ## Staff
+
 - [べにしゃけ](./べにしゃけ.md)
 
 
 ## 评论
-
   
 生活のおともになるレイマリのちびフィギュアのセットです。星型の台座がついています。
   
-
-
-
-
-
 
 ---
 

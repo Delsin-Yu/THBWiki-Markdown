@@ -1,6 +1,6 @@
 # 文件:Blanche×Rouge封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\03\ns6%3ABlanche%C3%97Rouge%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\03\ns6%3ABlanche%C3%97Rouge%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 MOFUYA | 专辑封面 | 封面图片
 
@@ -8,16 +8,12 @@ MOFUYA | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Blanche×Rouge](./Blanche×Rouge.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [Blanche×Rouge](./Blanche×Rouge.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
   
-源地址：[[1]](http://www.pixiv.net/member_illust.php?mode=medium&amp;illust_id=20409846)
-  
-
-
-
-
+源地址：[\[1\]](http://www.pixiv.net/member_illust.php?mode=medium&illust_id=20409846)  
 
 ---
 

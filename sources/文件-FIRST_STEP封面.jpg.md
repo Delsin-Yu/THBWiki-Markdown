@@ -1,6 +1,6 @@
 # 文件:FIRST_STEP封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f9\ns6%3AFIRST_STEP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f9\ns6%3AFIRST_STEP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 フロッピーアルパカ | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [FIRST STEP](./FIRST_STEP.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [FIRST STEP](./FIRST_STEP.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

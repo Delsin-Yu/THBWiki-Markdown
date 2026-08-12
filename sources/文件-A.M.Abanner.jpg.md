@@ -1,16 +1,11 @@
 # 文件:A.M.Abanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\44\ns6%3AA%2EM%2EAbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\44\ns6%3AA%2EM%2EAbanner%2Ejpg.html -->
 
 A.M.A | 社团LOGO
 
   
-源地址：[[1]](https://image.jimcdn.com/app/cms/image/transf/dimension=200x1024:format=jpg/path/s02e5403688d01182/image/i3ac81e90c8a2c0cc/version/1320165323/image.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://image.jimcdn.com/app/cms/image/transf/dimension=200x1024:format=jpg/path/s02e5403688d01182/image/i3ac81e90c8a2c0cc/version/1320165323/image.jpg)  
 
 ---
 

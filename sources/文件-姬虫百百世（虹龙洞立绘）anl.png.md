@@ -1,12 +1,8 @@
 # 文件:姬虫百百世（虹龙洞立绘）anl.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9e\ns6%3A%E5%A7%AC%E8%99%AB%E7%99%BE%E7%99%BE%E4%B8%96%EF%BC%88%E8%99%B9%E9%BE%99%E6%B4%9E%E7%AB%8B%E7%BB%98%EF%BC%89anl%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9e\ns6%3A%E5%A7%AC%E8%99%AB%E7%99%BE%E7%99%BE%E4%B8%96%EF%BC%88%E8%99%B9%E9%BE%99%E6%B4%9E%E7%AB%8B%E7%BB%98%EF%BC%89anl%2Epng.html -->
 
 ZUN绘 | 东方虹龙洞 | 姬虫百百世 | 官方游戏立绘
-
-
-
-
 
 
 ---

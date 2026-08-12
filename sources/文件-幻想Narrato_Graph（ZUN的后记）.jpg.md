@@ -1,14 +1,11 @@
 # 文件:幻想Narrato_Graph（ZUN的后记）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3d\ns6%3A%E5%B9%BB%E6%83%B3Narrato_Graph%EF%BC%88ZUN%E7%9A%84%E5%90%8E%E8%AE%B0%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3d\ns6%3A%E5%B9%BB%E6%83%B3Narrato_Graph%EF%BC%88ZUN%E7%9A%84%E5%90%8E%E8%AE%B0%EF%BC%89%2Ejpg.html -->
 
 幻想Narrato_Graph
 
 
 ## 摘要
-
-
-
 
 ---
 

@@ -1,12 +1,8 @@
 # 文件:光鬼「金刚螺旋」（DS文花帖）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\13\ns6%3A%E5%85%89%E9%AC%BC%E3%80%8C%E9%87%91%E5%88%9A%E8%9E%BA%E6%97%8B%E3%80%8D%EF%BC%88DS%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\13\ns6%3A%E5%85%89%E9%AC%BC%E3%80%8C%E9%87%91%E5%88%9A%E8%9E%BA%E6%97%8B%E3%80%8D%EF%BC%88DS%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Ejpg.html -->
 
 东方文花帖DS | 敌机符卡 | 星熊勇仪
-
-
-
-
 
 
 ---

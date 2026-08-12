@@ -1,6 +1,6 @@
 # 文件:Ataraxia_-_願うは儚き幻想の_-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e0\ns6%3AAtaraxia_-_%E9%A1%98%E3%81%86%E3%81%AF%E5%84%9A%E3%81%8D%E5%B9%BB%E6%83%B3%E3%81%AE_-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e0\ns6%3AAtaraxia_-_%E9%A1%98%E3%81%86%E3%81%AF%E5%84%9A%E3%81%8D%E5%B9%BB%E6%83%B3%E3%81%AE_-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 君の美術館 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [ataraxia - 願うは儚き幻想の -](./ataraxia_-_願うは儚き幻想の_-.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
-
-
-
+- [ataraxia - 願うは儚き幻想の -](./ataraxia_-_願うは儚き幻想の_-.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
 
 ---

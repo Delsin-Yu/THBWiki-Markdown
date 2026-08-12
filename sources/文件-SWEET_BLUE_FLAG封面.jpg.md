@@ -1,6 +1,6 @@
 # 文件:SWEET_BLUE_FLAG封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\95\ns6%3ASWEET_BLUE_FLAG%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\95\ns6%3ASWEET_BLUE_FLAG%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ぱれっとぱれーど | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [SWEET BLUE FLAG](./SWEET_BLUE_FLAG.md)  
-该封面包含的角色：- [古明地觉](./古明地觉.md)
+- [SWEET BLUE FLAG](./SWEET_BLUE_FLAG.md)该封面包含的角色：
+- [古明地觉](./古明地觉.md)
 
   
-源地址：[direct image link (max size)](https://paletteparade.up.seesaa.net/image/E8A1A8E7B499-06010.jpg), [source page](http://paletteparade.seesaa.net/article/361111912.html)
-  
-
-
-
-
+源地址：[direct image link (max size)](https://paletteparade.up.seesaa.net/image/E8A1A8E7B499-06010.jpg), [source page](http://paletteparade.seesaa.net/article/361111912.html)  
 
 ---
 

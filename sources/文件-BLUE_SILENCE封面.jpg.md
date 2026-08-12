@@ -1,6 +1,6 @@
 # 文件:BLUE_SILENCE封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ac\ns6%3ABLUE_SILENCE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ac\ns6%3ABLUE_SILENCE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 D.I.C.S. | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ D.I.C.S. | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [BLUE SILENCE](./BLUE_SILENCE.md)  
-该封面包含的角色：- [比那名居天子](./比那名居天子.md)
-
-
-
+- [BLUE SILENCE](./BLUE_SILENCE.md)该封面包含的角色：
+- [比那名居天子](./比那名居天子.md)
 
 
 ---

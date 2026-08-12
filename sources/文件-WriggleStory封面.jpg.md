@@ -1,6 +1,6 @@
 # 文件:WriggleStory封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ea\ns6%3AWriggleStory%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ea\ns6%3AWriggleStory%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 GlowGloat | 封面图片 | 软件封面
 
@@ -10,16 +10,14 @@ GlowGloat | 封面图片 | 软件封面
 使用了本文件作封面图片的作品：
   
 
-- [WriggleStory](./WriggleStory.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [莉格露·奈特巴格](./莉格露·奈特巴格.md)- [雾雨魔理沙](./雾雨魔理沙.md)- 原创角色 (未找到链接)
+- [WriggleStory](./WriggleStory.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [莉格露·奈特巴格](./莉格露·奈特巴格.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
+- 原创角色 (未找到链接)
 
   
-源地址：[direct image link (original size)](https://pbs.twimg.com/media/EGp8s7jUwAEdVLS?format=jpg&amp;name=orig), [source tweet](https://twitter.com/C0rPoD0jLdQpfh6/status/1182894971826761729)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://pbs.twimg.com/media/EGp8s7jUwAEdVLS?format=jpg&name=orig), [source tweet](https://twitter.com/C0rPoD0jLdQpfh6/status/1182894971826761729)  
 
 ---
 

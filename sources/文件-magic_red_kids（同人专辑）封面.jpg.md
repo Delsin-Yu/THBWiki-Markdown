@@ -1,6 +1,6 @@
 # 文件:magic_red_kids（同人专辑）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\22\ns6%3Amagic_red_kids%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\22\ns6%3Amagic_red_kids%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 magic_red_kids（同人专辑） | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ magic_red_kids（同人专辑） | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [magic red kids（同人专辑）](./magic_red_kids（同人专辑）.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
-
-
-
+- [magic red kids（同人专辑）](./magic_red_kids（同人专辑）.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
 
 ---

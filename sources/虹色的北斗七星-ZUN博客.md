@@ -1,18 +1,20 @@
 # 虹色的北斗七星/ZUN博客
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\2d\ns0%3A%E8%99%B9%E8%89%B2%E7%9A%84%E5%8C%97%E6%96%97%E4%B8%83%E6%98%9F%2FZUN%E5%8D%9A%E5%AE%A2.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\2d\ns0%3A%E8%99%B9%E8%89%B2%E7%9A%84%E5%8C%97%E6%96%97%E4%B8%83%E6%98%9F%2FZUN%E5%8D%9A%E5%AE%A2.html -->
 
 引用了翻译表的页面 | 虹色的北斗七星
 
+
 - 原文地址：[丹波山村のPR曲 ＆ 冬コミ情報 | 東方Projectよもやまニュース](https://touhou-project.news/news/6165/)
-- 如需要日文对照请参见 **中日对照 (未找到链接)** 
+- 如需要日文对照请参见**[中日对照](./东方四方山新闻-ZUN博客.md#2021年12月15日)**
 
 2021.12.15 ZUN丹波山村的印象曲 ＆ 冬CM情报　你好，我是ZUN。  
 　回过神来已经是年末了。但是，今年也发生了很多事情，有种转瞬而逝又有种过了很久的奇妙感觉。　不知为何，[山梨县丹波山村旅游宣传](https://tabayama.info/)的相关人士委托我为他们作曲，容我与他们合作了。[Twitter：丹波山村文化財担当 (@tabayama_1) December 15, 2021](https://twitter.com/tabayama_1/status/1470997950382100484)　曲名是「七石之狼、登天吞云」。  
 　这是只有五百多人口的，在山中的一间小小的村庄。  
 　我为了取材和家人们一起去了那里露营，那是能欣赏星空并悠闲生活的村庄。在那我还奢侈地享受了一边喝酒一边用火取暖的生活。  
 　我也是出身自山里的，所以作曲的时候很开心。曲子的解说请点击[链接](https://tabayama.info/wolfship/works/releasekyokuehoncover/)查看。  
-　曲子的主题是七石神社这一家不登山就无法拜访的神社，因为这次还带了小孩子，所以爬山实在是有点难，就没能去成。希望总有一天我能挑战拜访这家神社。　那么差不多也该聊聊其它了，约两年没举办的CM回来了！本该在今年5月举办的ComicMarket99终于将在12月30、31日举办。为纪念CM的复活，上海爱丽丝幻乐团也将参加本次CM！　本次的新作，是这张纪念市场复活音乐CD。[](./文件-东方四方山新闻附图9.jpg.md)　「虹色的北斗七星」  
+　曲子的主题是七石神社这一家不登山就无法拜访的神社，因为这次还带了小孩子，所以爬山实在是有点难，就没能去成。希望总有一天我能挑战拜访这家神社。　那么差不多也该聊聊其它了，约两年没举办的CM回来了！本该在今年5月举办的ComicMarket99终于将在12月30、31日举办。为纪念CM的复活，上海爱丽丝幻乐团也将参加本次CM！　本次的新作，是这张纪念市场复活音乐CD。<img alt="东方四方山新闻附图9.jpg" src="https://upload.thwiki.cc/thumb/8/8f/%E4%B8%9C%E6%96%B9%E5%9B%9B%E6%96%B9%E5%B1%B1%E6%96%B0%E9%97%BB%E9%99%84%E5%9B%BE9.jpg/300px-%E4%B8%9C%E6%96%B9%E5%9B%9B%E6%96%B9%E5%B1%B1%E6%96%B0%E9%97%BB%E9%99%84%E5%9B%BE9.jpg" decoding="async" loading="lazy" width="300" height="235" srcset="https://upload.thwiki.cc/thumb/8/8f/%E4%B8%9C%E6%96%B9%E5%9B%9B%E6%96%B9%E5%B1%B1%E6%96%B0%E9%97%BB%E9%99%84%E5%9B%BE9.jpg/450px-%E4%B8%9C%E6%96%B9%E5%9B%9B%E6%96%B9%E5%B1%B1%E6%96%B0%E9%97%BB%E9%99%84%E5%9B%BE9.jpg 1.5x, https://upload.thwiki.cc/8/8f/%E4%B8%9C%E6%96%B9%E5%9B%9B%E6%96%B9%E5%B1%B1%E6%96%B0%E9%97%BB%E9%99%84%E5%9B%BE9.jpg 2x" data-file-width="512" data-file-height="401">
+　「虹色的北斗七星」  
 　收录在本CD的曲中就有刚刚介绍的「七石之狼、登天吞云」。  
 （丹波山村的人说收录进CD中也可以。  
 　另外也说了和东方的曲子一样，也可以二次创作。哎呀，真的是太感谢了）　1.七石之狼、登天吞云　　（丹波山村　印象曲）  
@@ -21,10 +23,6 @@
 　这次是特别CD，不会附带文档等内容，但是非常优美所以请各位留作纪念或护身符。　摊位在31日東ク-13a 「上海爱丽丝幻乐团」。  
 　当天请有多指教。  
 （*参加本次的CM必须要购票。其他也还有各种各样的注意事项，请前往[CM官方网站](https://www.comiket.co.jp/)确认）　那么祝大家过一个好年末。​​​​
-
-
-
-
 ---
 
 此文档由 [THBWiki-Markdown-Builder](https://github.com/Delsin-Yu/THBWiki-Markdown-Builder) 构建。

@@ -1,18 +1,13 @@
 # 文件:suwawa_Recordslogo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5e\ns6%3Asuwawa_Recordslogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5e\ns6%3Asuwawa_Recordslogo%2Ejpg.html -->
 
 suwawa_Records | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[[1]](https://booth.pximg.net/c/128x128/users/2183901/icon_image/b7493723-dc59-49ff-8e62-c3a15423c520_base_resized.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://booth.pximg.net/c/128x128/users/2183901/icon_image/b7493723-dc59-49ff-8e62-c3a15423c520_base_resized.jpg)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:Ranunculus封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5d\ns6%3ARanunculus%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5d\ns6%3ARanunculus%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 FRACTCL | 专辑封面 | 封面图片
 
@@ -8,12 +8,9 @@ FRACTCL | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Ranunculus](./Ranunculus.md)  
-该封面包含的角色：- [古明地恋](./古明地恋.md)源地址：[[1]](http://www.nicovideo.jp/watch/sm29495791)(XFD截图)
-
-
-
-
+- [Ranunculus](./Ranunculus.md)该封面包含的角色：
+- [古明地恋](./古明地恋.md)
+源地址：[\[1\]](http://www.nicovideo.jp/watch/sm29495791)(XFD截图)
 
 ---
 

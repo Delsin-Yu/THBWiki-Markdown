@@ -1,6 +1,6 @@
 # 文件:Greedy;(cry)封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f3\ns6%3AGreedy%3B%28cry%29%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f3\ns6%3AGreedy%3B%28cry%29%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Remember_memories. | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Remember_memories. | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Greedy;(cry)](./Greedy;(cry).md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)
+- [Greedy;(cry)](./Greedy;(cry%29.md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
 
   
-源地址：[[1]](http://static.tumblr.com/c0c3c5762a2f9febd1f6e81a435041e9/imht57o/4H8nz7699/tumblr_static_9wcp5qxizjksssk8s800w4ggw.png)
-  
-
-
-
-
+源地址：[\[1\]](http://static.tumblr.com/c0c3c5762a2f9febd1f6e81a435041e9/imht57o/4H8nz7699/tumblr_static_9wcp5qxizjksssk8s800w4ggw.png)  
 
 ---
 

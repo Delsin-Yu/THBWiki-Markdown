@@ -1,12 +1,11 @@
 # 少女作業中_～_Perfect_Cherry_Blossom.
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\5\50\ns0%3A%E5%B0%91%E5%A5%B3%E4%BD%9C%E6%A5%AD%E4%B8%AD_%EF%BD%9E_Perfect_Cherry_Blossom%2E.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\5\50\ns0%3A%E5%B0%91%E5%A5%B3%E4%BD%9C%E6%A5%AD%E4%B8%AD_%EF%BD%9E_Perfect_Cherry_Blossom%2E.html -->
 
 2022年3月25日 由 mondorium  发布的全长/合作同人专辑，曲目主要风格是 House、其他电子，内容以 东方妖妖梦为题材，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人专辑 (未找到链接)** 的词条
-
+**[二次创作同人专辑](./二次创作.md#同人音乐)**的词条
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-少女作業中_～_Perfect_Cherry_Blossom.封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/d/d2/%E5%B0%91%E5%A5%B3%E4%BD%9C%E6%A5%AD%E4%B8%AD_%EF%BD%9E_Perfect_Cherry_Blossom.%E5%B0%81%E9%9D%A2.png/280px-%E5%B0%91%E5%A5%B3%E4%BD%9C%E6%A5%AD%E4%B8%AD_%EF%BD%9E_Perfect_Cherry_Blossom.%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="280" height="280" srcset="https://upload.thwiki.cc/thumb/d/d2/%E5%B0%91%E5%A5%B3%E4%BD%9C%E6%A5%AD%E4%B8%AD_%EF%BD%9E_Perfect_Cherry_Blossom.%E5%B0%81%E9%9D%A2.png/420px-%E5%B0%91%E5%A5%B3%E4%BD%9C%E6%A5%AD%E4%B8%AD_%EF%BD%9E_Perfect_Cherry_Blossom.%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/d/d2/%E5%B0%91%E5%A5%B3%E4%BD%9C%E6%A5%AD%E4%B8%AD_%EF%BD%9E_Perfect_Cherry_Blossom.%E5%B0%81%E9%9D%A2.png/560px-%E5%B0%91%E5%A5%B3%E4%BD%9C%E6%A5%AD%E4%B8%AD_%EF%BD%9E_Perfect_Cherry_Blossom.%E5%B0%81%E9%9D%A2.png 2x" data-file-width="2800" data-file-height="2800"></a><div class="cover-char">角色：<a href="./爱丽丝·玛格特洛依德.md" title="爱丽丝·玛格特洛依德">爱丽丝·玛格特洛依德</a></div></td>
@@ -15,42 +14,32 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/Elle_suwawa/status/1507326791547256840">https://twitter.com/Elle_suwawa/status/1507326791547256840</a></td></tr></tbody></table>
 
 少女作業中 ～ Perfect Cherry Blossom.（同人专辑，mondorium，2022） - 2022年3月25日 由 mondorium  发布的全长/合作同人专辑，曲目主要风格是 House、其他电子，内容以 东方妖妖梦为题材，分级为 一般向
-
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://mondorium.booth.pm/items/3747711">Booth</a></td></tr></tbody></table>
-
 
 
 ## Staff
   
- **Arrangement**   
+**Arrangement**  
 
 <table><tbody><tr><td><a href="./mayoi.md" title="mayoi">mayoi</a></td><td><a rel="nofollow" class="external text" href="https://twitter.com/mayo_shogayaki">Twitter: @mayo_shogayaki</a></td><td>Tr.1</td></tr><tr><td><a href="./aocha.md" title="aocha">aocha</a></td><td><a rel="nofollow" class="external text" href="https://twitter.com/blnbr_">Twitter: @blnbr_</a></td><td>Tr.2</td></tr><tr><td><a href="./NIBI.md" title="NIBI">NIBI</a></td><td><a href="./渦状セントラル.md" title="渦状セントラル">渦状セントラル</a></td><td>Tr.3</td></tr><tr><td><a href="./ぱらどっと.md" title="ぱらどっと">ぱらどっと</a></td><td><a href="./給食頭蛮.md" title="給食頭蛮">給食頭蛮</a></td><td>Tr.4/5</td></tr></tbody></table>
-
 
 Jacket illustration
 : [ねるぞう](./ねるぞう.md) （[スタジオシープ](./スタジオシープ.md)）
 
-
 ## 试听
   
-[Twitter XFD](https://twitter.com/Elle_suwawa/status/1507326791547256840)
-  
-
+[Twitter XFD](https://twitter.com/Elle_suwawa/status/1507326791547256840)  
 
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Ghostpia" colspan="2" class="title">Ghostpia<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=mayoi&amp;ogmusic=東方妖々夢　～ Ancient Temple&amp;fromwiki=少女作業中_～_Perfect_Cherry_Blossom."><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:39</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./mayoi.md" title="mayoi">mayoi</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，mayoi&amp;fromwiki=少女作業中_～_Perfect_Cherry_Blossom."><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=東方妖々夢　～ Ancient Temple&amp;fromwiki=少女作業中_～_Perfect_Cherry_Blossom."><span></span></a></span><div class="ogmusic"><a href="./東方妖々夢_～_Ancient_Temple.md" class="mw-redirect" title="東方妖々夢 ～ Ancient Temple">東方妖々夢　～ Ancient Temple</a></div><div class="source"><a href="./东方妖妖梦_～_Perfect_Cherry_Blossom..md" class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr>
-<tr><td id="2" class="infoYD"><b>02</b></td><td id="Half_right" colspan="2" class="title">Half right<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=aocha&amp;ogmusic=広有射怪鳥事　～ Till When?&amp;fromwiki=少女作業中_～_Perfect_Cherry_Blossom."><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:36</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./aocha.md" title="aocha">aocha</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，aocha&amp;fromwiki=少女作業中_～_Perfect_Cherry_Blossom."><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=広有射怪鳥事　～ Till When?&amp;fromwiki=少女作業中_～_Perfect_Cherry_Blossom."><span></span></a></span><div class="ogmusic"><a href="./広有射怪鳥事_～_Till_When-.md" class="mw-redirect" title="広有射怪鳥事 ～ Till When?">広有射怪鳥事　～ Till When?</a></div><div class="source"><a href="./东方妖妖梦_～_Perfect_Cherry_Blossom..md" class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr>
-<tr><td id="3" class="infoYD"><b>03</b></td><td id="thaw" colspan="2" class="title">thaw<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=NIBI&amp;ogmusic=さくらさくら　～ Japanize Dream...&amp;fromwiki=少女作業中_～_Perfect_Cherry_Blossom."><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:46</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./NIBI.md" title="NIBI">NIBI</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，NIBI&amp;fromwiki=少女作業中_～_Perfect_Cherry_Blossom."><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=さくらさくら　～ Japanize Dream...&amp;fromwiki=少女作業中_～_Perfect_Cherry_Blossom."><span></span></a></span><div class="ogmusic"><a href="./さくらさくら_～_Japanize_Dream....md" class="mw-redirect" title="さくらさくら ～ Japanize Dream...">さくらさくら　～ Japanize Dream...</a></div><div class="source"><a href="./东方妖妖梦_～_Perfect_Cherry_Blossom..md" class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr>
-<tr><td id="4" class="infoYD"><b>04</b></td><td id="wet_day" colspan="2" class="title">wet day<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=ぱらどっと&amp;ogmusic=無何有の郷　～ Deep Mountain&amp;fromwiki=少女作業中_～_Perfect_Cherry_Blossom."><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:10</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./ぱらどっと.md" title="ぱらどっと">ぱらどっと</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，ぱらどっと&amp;fromwiki=少女作業中_～_Perfect_Cherry_Blossom."><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=無何有の郷　～ Deep Mountain&amp;fromwiki=少女作業中_～_Perfect_Cherry_Blossom."><span></span></a></span><div class="ogmusic"><a href="./無何有の郷_～_Deep_Mountain.md" class="mw-redirect" title="無何有の郷 ～ Deep Mountain">無何有の郷　～ Deep Mountain</a></div><div class="source"><a href="./东方妖妖梦_～_Perfect_Cherry_Blossom..md" class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr>
-<tr><td id="5" class="infoYD"><b>05</b></td><td id="next." colspan="2" class="title">next.<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=ぱらどっと&amp;ogmusic=ネクロファンタジア&amp;fromwiki=少女作業中_～_Perfect_Cherry_Blossom."><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:21</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./ぱらどっと.md" title="ぱらどっと">ぱらどっと</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，ぱらどっと&amp;fromwiki=少女作業中_～_Perfect_Cherry_Blossom."><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=ネクロファンタジア&amp;fromwiki=少女作業中_～_Perfect_Cherry_Blossom."><span></span></a></span><div class="ogmusic"><a href="./ネクロファンタジア.md" class="mw-redirect" title="ネクロファンタジア">ネクロファンタジア</a></div><div class="source"><a href="./东方妖妖梦_～_Perfect_Cherry_Blossom..md" class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr></tbody></table>
-
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Ghostpia" colspan="2" class="title">Ghostpia</td><td class="time">03:39</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./mayoi.md" title="mayoi">mayoi</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./东方妖妖梦_～_Ancient_Temple.md" class="mw-redirect" title="東方妖々夢 ～ Ancient Temple">東方妖々夢　～ Ancient Temple</a></div><div class="source"><a href="./东方妖妖梦.md" class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr>
+<tr><td id="2" class="infoYD"><b>02</b></td><td id="Half_right" colspan="2" class="title">Half right</td><td class="time">03:36</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./aocha.md" title="aocha">aocha</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a class="mw-redirect" title="広有射怪鳥事 ～ Till When?">広有射怪鳥事　～ Till When?</a></div><div class="source"><a href="./东方妖妖梦.md" class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr>
+<tr><td id="3" class="infoYD"><b>03</b></td><td id="thaw" colspan="2" class="title">thaw</td><td class="time">03:46</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./NIBI.md" title="NIBI">NIBI</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./樱花樱花_～_Japanize_Dream....md" class="mw-redirect" title="さくらさくら ～ Japanize Dream...">さくらさくら　～ Japanize Dream...</a></div><div class="source"><a href="./东方妖妖梦.md" class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr>
+<tr><td id="4" class="infoYD"><b>04</b></td><td id="wet_day" colspan="2" class="title">wet day</td><td class="time">03:10</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./ぱらどっと.md" title="ぱらどっと">ぱらどっと</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./无何有之乡_～_Deep_Mountain.md" class="mw-redirect" title="無何有の郷 ～ Deep Mountain">無何有の郷　～ Deep Mountain</a></div><div class="source"><a href="./东方妖妖梦.md" class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr>
+<tr><td id="5" class="infoYD"><b>05</b></td><td id="next." colspan="2" class="title">next.</td><td class="time">03:21</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./ぱらどっと.md" title="ぱらどっと">ぱらどっと</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./Necro-Fantasia.md" class="mw-redirect" title="ネクロファンタジア">ネクロファンタジア</a></div><div class="source"><a href="./东方妖妖梦.md" class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr></tbody></table>
 
 
 ## 评论
-
-
-
 
 ---
 

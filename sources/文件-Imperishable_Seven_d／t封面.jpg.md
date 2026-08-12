@@ -1,6 +1,6 @@
 # 文件:Imperishable_Seven_d／t封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9e\ns6%3AImperishable_Seven_d%EF%BC%8Ft%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9e\ns6%3AImperishable_Seven_d%EF%BC%8Ft%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 trim | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ trim | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Imperishable Seven d／t](./Imperishable_Seven_d／t.md)  
-该封面包含的角色：- [宫古芳香](./宫古芳香.md)
-
-
-
+- [Imperishable Seven d／t](./Imperishable_Seven_d／t.md)该封面包含的角色：
+- [宫古芳香](./宫古芳香.md)
 
 
 ---

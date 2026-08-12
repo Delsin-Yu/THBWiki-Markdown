@@ -1,14 +1,11 @@
 # 文件:DTXFiles.nmkbanner2.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5f\ns6%3ADTXFiles%2Enmkbanner2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5f\ns6%3ADTXFiles%2Enmkbanner2%2Ejpg.html -->
 
 DTXFiles.nmk | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

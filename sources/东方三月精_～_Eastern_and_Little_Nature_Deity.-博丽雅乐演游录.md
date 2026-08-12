@@ -1,20 +1,17 @@
 # 东方三月精_～_Eastern_and_Little_Nature_Deity./博丽雅乐演游录
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\66\ns0%3A%E4%B8%9C%E6%96%B9%E4%B8%89%E6%9C%88%E7%B2%BE_%EF%BD%9E_Eastern_and_Little_Nature_Deity%2E%2F%E5%8D%9A%E4%B8%BD%E9%9B%85%E4%B9%90%E6%BC%94%E6%B8%B8%E5%BD%95.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\66\ns0%3A%E4%B8%9C%E6%96%B9%E4%B8%89%E6%9C%88%E7%B2%BE_%EF%BD%9E_Eastern_and_Little_Nature_Deity%2E%2F%E5%8D%9A%E4%B8%BD%E9%9B%85%E4%B9%90%E6%BC%94%E6%B8%B8%E5%BD%95.html -->
 
 东方三月精_～_Eastern_and_Little_Nature_Deity.
 
-- 该内容仅出现在单行本中，该栏目 **并非ZUN编写** 。
-- 本词条为中文翻译版，如需要日文对照请参见 **中日对照 (未找到链接)** 
+
+- 该内容仅出现在单行本中，该栏目**并非ZUN编写**。
+- 本词条为中文翻译版，如需要日文对照请参见**中日对照 (未找到链接)**
 - 该内容于单行本中页数：106-107
 
   
   
-
- **<big><big>博丽雅乐演游录</big></big>** 
-  
-
-
+**<big><big>博丽雅乐演游录</big></big>**  
   
 音乐是创造「东方」的世界观的过程中不可或缺的要素。  
 
@@ -22,20 +19,14 @@
 
 记载作品的价格为2006年12月当前的价格。
   
-
-
   
   
-
- **<big>蓬莱人形 ～ Dolls in Pseudo Paradise</big>**   
+**<big>蓬莱人形 ～ Dolls in Pseudo Paradise</big>**  
 
 价格：700日元 于Comic Market 63发表
   
   
- **曲目** 
-  
-
-
+**曲目**  
   
 1、蓬莱传说  
 
@@ -63,20 +54,14 @@
 
 13、空中飞翔的巫女不可思议的每天
   
-
-
   
   
-
- **<big>莲台野夜行 ～ Ghostly Field Club</big>**   
+**<big>莲台野夜行 ～ Ghostly Field Club</big>**  
 
 价格：700日元 于Comic Market 65发表
   
   
- **曲目** 
-  
-
-
+**曲目**  
   
 1、走在夜晚的莲台野  
 
@@ -100,20 +85,14 @@
 
 11、幻想的永远祭
   
-
-
   
   
-
- **<big>梦违科学世纪 ～ Changeability of Strange Dream</big>**   
+**<big>梦违科学世纪 ～ Changeability of Strange Dream</big>**  
 
 价格：700日元 于Comic Market 67发表
   
   
- **曲目** 
-  
-
-
+**曲目**  
   
 1、童祭　～ Innocent Treasures  
 
@@ -137,20 +116,14 @@
 
 11、幽玄的枫树　～ Eternal Dream
   
-
-
   
   
-
- **<big>卯酉东海道 ～ Retrospective 53 minutes</big>**   
+**<big>卯酉东海道 ～ Retrospective 53 minutes</big>**  
 
 价格：700日元 于博丽神社例大祭2006发表
   
   
- **曲目** 
-  
-
-
+**曲目**  
   
 1、广重36号　～ Neo Super-Express  
 
@@ -174,20 +147,14 @@
 
 11、最澄澈的空与海
   
-
-
   
   
-
- **<big>大空魔术 ～ Magical Astronomy</big>**   
+**<big>大空魔术 ～ Magical Astronomy</big>**  
 
 价格：700日元 于Comic Market 70发表
   
   
- **曲目** 
-  
-
-
+**曲目**  
   
 1、欢迎来到月面旅行团  
 
@@ -209,48 +176,30 @@
 
 10、另一侧的月
   
-
-
   
   
-
- **<big>通过音乐了解的 另一个东方</big>** 
+**<big>通过音乐了解的 另一个东方</big>**  
   
   
-  
-
- **<big>幺乐团的历史1 ～ Akyu's Untouched Score vol.1</big>**   
+**<big>幺乐团的历史1 ～ Akyu's Untouched Score vol.1</big>**  
 
 价格：1000日元 于博丽神社例大祭2006发表
   
   
   
-
- **<big>幺乐团的历史2 ～ Akyu's Untouched Score vol.2</big>**   
-
-价格：500日元 于Comic Market 71发表
-  
-  
-  
-
- **<big>幺乐团的历史3 ～ Akyu's Untouched Score vol.3</big>**   
+**<big>幺乐团的历史2 ～ Akyu's Untouched Score vol.2</big>**  
 
 价格：500日元 于Comic Market 71发表
   
   
   
+**<big>幺乐团的历史3 ～ Akyu's Untouched Score vol.3</big>**  
 
+价格：500日元 于Comic Market 71发表
   
-
-
   
 原本作为PC98的同人游戏出发的「东方」系列，在现在可以入手的Windows版以前还发表过总共5部作品。传达如今已不可能入手的这些作品的气息的就是这个「幺乐团的历史」系列。如今已经想玩也玩不到的幻想中的「东方」，通过这些专辑回顾一遍也是别有一番韵味。
   
-
-
-
-
-
 
 ---
 

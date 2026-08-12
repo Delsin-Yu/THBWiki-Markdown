@@ -1,6 +1,6 @@
 # 文件:Another_Orbit封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\67\ns6%3AAnother_Orbit%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\67\ns6%3AAnother_Orbit%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Forest306 | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ Forest306 | 专辑封面 | 封面图片
   
 
 - [Another Orbit](./Another_Orbit.md)
-
-
-
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:SUN-STYLEbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c4\ns6%3ASUN-STYLEbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c4\ns6%3ASUN-STYLEbanner%2Ejpg.html -->
 
 SUN-STYLE | 社团LOGO
-
-
-
-
 
 
 ---

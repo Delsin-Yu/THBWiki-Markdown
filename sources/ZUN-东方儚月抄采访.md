@@ -1,14 +1,15 @@
 # ZUN/东方儚月抄采访
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\6a\ns0%3AZUN%2F%E4%B8%9C%E6%96%B9%E5%84%9A%E6%9C%88%E6%8A%84%E9%87%87%E8%AE%BF.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\6a\ns0%3AZUN%2F%E4%B8%9C%E6%96%B9%E5%84%9A%E6%9C%88%E6%8A%84%E9%87%87%E8%AE%BF.html -->
 
 ZUN | 东方儚月抄 | 采访
+
 
 - 本次访谈刊载于ComicREX 2007年7月号（即东方儚月抄漫画第一话刊载杂志）
 - 翻译：京都人形
 
-[](./文件-东方儚月抄采访.jpg.md)  [](./文件-东方儚月抄采访.jpg.md)东方儚月抄采访
-
+<img alt="" src="https://upload.thwiki.cc/thumb/0/01/%E4%B8%9C%E6%96%B9%E5%84%9A%E6%9C%88%E6%8A%84%E9%87%87%E8%AE%BF.jpg/200px-%E4%B8%9C%E6%96%B9%E5%84%9A%E6%9C%88%E6%8A%84%E9%87%87%E8%AE%BF.jpg" decoding="async" loading="lazy" width="200" height="291" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/0/01/%E4%B8%9C%E6%96%B9%E5%84%9A%E6%9C%88%E6%8A%84%E9%87%87%E8%AE%BF.jpg/300px-%E4%B8%9C%E6%96%B9%E5%84%9A%E6%9C%88%E6%8A%84%E9%87%87%E8%AE%BF.jpg 1.5x, https://upload.thwiki.cc/thumb/0/01/%E4%B8%9C%E6%96%B9%E5%84%9A%E6%9C%88%E6%8A%84%E9%87%87%E8%AE%BF.jpg/400px-%E4%B8%9C%E6%96%B9%E5%84%9A%E6%9C%88%E6%8A%84%E9%87%87%E8%AE%BF.jpg 2x" data-file-width="1043" data-file-height="1517">
+ [放大](./文件-东方儚月抄采访.jpg.md)东方儚月抄采访
 <table>
 <tbody><tr>
 <td style="width:10%;">
@@ -171,10 +172,6 @@ ZUN | 东方儚月抄 | 采访
 </td>
 <td>另外，这个故事的构成是从不同的妖怪或人类的视角来看同一个事件，不同的人对真相的把握是不一样的，也会有错误认识。有些地方并没有明显表现出登场人物知道些什么或者不知道些什么。希望大家能够一边对这些复杂的地方展开想象，一边享受这部作品。
 </td></tr></tbody></table>
-
-
-
-
 
 
 ---

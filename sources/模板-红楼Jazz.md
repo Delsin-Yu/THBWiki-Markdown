@@ -1,16 +1,12 @@
 # 模板:红楼Jazz
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\0\09\ns10%3A%E7%BA%A2%E6%A5%BCJazz.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\0\09\ns10%3A%E7%BA%A2%E6%A5%BCJazz.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

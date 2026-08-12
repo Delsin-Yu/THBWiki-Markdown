@@ -1,6 +1,6 @@
 # 文件:precious_-singing_beautiful_girls-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9f\ns6%3Aprecious_-singing_beautiful_girls-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9f\ns6%3Aprecious_-singing_beautiful_girls-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 556ミリメートル | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [precious -singing beautiful girls-](./precious_-singing_beautiful_girls-.md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)- [物部布都](./物部布都.md)
-
-
-
+- [precious -singing beautiful girls-](./precious_-singing_beautiful_girls-.md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
+- [物部布都](./物部布都.md)
 
 
 ---

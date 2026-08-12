@@ -1,12 +1,8 @@
 # 文件:THBWiki-LOGO-留琴错误.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d6\ns6%3ATHBWiki-LOGO-%E7%95%99%E7%90%B4%E9%94%99%E8%AF%AF%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d6\ns6%3ATHBWiki-LOGO-%E7%95%99%E7%90%B4%E9%94%99%E8%AF%AF%2Epng.html -->
 
 THBWiki | Wiki页面装修用图
-
-
-
-
 
 
 ---

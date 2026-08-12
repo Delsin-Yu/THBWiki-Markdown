@@ -1,12 +1,8 @@
 # 文件:こなぐすり_banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dd\ns6%3A%E3%81%93%E3%81%AA%E3%81%90%E3%81%99%E3%82%8A_banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dd\ns6%3A%E3%81%93%E3%81%AA%E3%81%90%E3%81%99%E3%82%8A_banner%2Epng.html -->
 
 こなぐすり | 社团LOGO
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 神魔討綺伝_～_Magus_in_Mystic_Geometries./设定与剧情
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\5\50\ns0%3A%E7%A5%9E%E9%AD%94%E8%A8%8E%E7%B6%BA%E4%BC%9D_%EF%BD%9E_Magus_in_Mystic_Geometries%2E%2F%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\5\50\ns0%3A%E7%A5%9E%E9%AD%94%E8%A8%8E%E7%B6%BA%E4%BC%9D_%EF%BD%9E_Magus_in_Mystic_Geometries%2E%2F%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85.html -->
 
 D.N.A.Softwares
 
@@ -10,7 +10,6 @@ D.N.A.Softwares
 - [1 游戏介绍](#游戏介绍)
 - [2 基本操作](#基本操作)
 - [3 游戏流程](#游戏流程)
-
   - [3.1 第一关 SMASH THEM ALL](#第一关_SMASH_THEM_ALL)
   - [3.2 第二关 FORM A RING](#第二关_FORM_A_RING)
   - [3.3 第三关 JIG ZAG](#第三关_JIG_ZAG)
@@ -21,17 +20,13 @@ D.N.A.Softwares
 
 
 
-
-
-
-
 ## 游戏介绍
   
 [魔界](./魔界.md)居民突然开始在[幻想乡](./幻想乡.md)周边地区潜伏，直到[帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)将这些敌人通通粉碎。
   
 
-
 ## 基本操作
+
 - 方向键：键盘WASD
 - 瞄准：鼠标
 - 射击：鼠标左键
@@ -43,18 +38,15 @@ D.N.A.Softwares
 关卡的名称也是线索之一。
   
 
-
 ### 第一关 SMASH THEM ALL
   
 一个相当大的封闭式竞技场，只有一些基础类型的敌人，用于展示、练习游戏的基本操作。
   
 
-
 ### 第二关 FORM A RING
   
 一个更接近矩形的封闭式竞技场，各种类型的敌人会在自机周围出生，难度开始上升。
   
-
 
 ### 第三关 JIG ZAG
   
@@ -63,7 +55,6 @@ D.N.A.Softwares
   
 出现类似自机狙的红色人偶。
   
-
 
 ### 第四关 SUDDEN DEATH
   
@@ -76,7 +67,6 @@ D.N.A.Softwares
 可以在场地的大小和形状的配合下通关。
   
 
-
 ### 第五关 AN ORDEAL FROM GOD
   
 一个更大的矩形竞技场。登场BOSS是[神绮](./神绮.md)。
@@ -88,7 +78,6 @@ D.N.A.Softwares
 需要击败神绮才能得到奖牌，但是如果目标是得到银牌或金牌的话则需要消灭更多的普通敌人，不能太快地击败神绮。
   
 
-
 ### 第六关 CROSSING
   
 一个十字形竞技场。四端和中心分布有五个Quindrant，任何时候都有其中一个在产生小型敌人或大型敌人。
@@ -96,10 +85,6 @@ D.N.A.Softwares
   
 自机很容易被困住，要小心。
   
-
-
-
-
 
 ---
 

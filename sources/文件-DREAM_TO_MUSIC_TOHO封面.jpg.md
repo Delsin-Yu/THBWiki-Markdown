@@ -1,6 +1,6 @@
 # 文件:DREAM_TO_MUSIC_TOHO封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d8\ns6%3ADREAM_TO_MUSIC_TOHO%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d8\ns6%3ADREAM_TO_MUSIC_TOHO%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 IOSYS | 专辑封面 | 封面图片
 
@@ -8,16 +8,12 @@ IOSYS | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [DREAM TO MUSIC TOHO](./DREAM_TO_MUSIC_TOHO.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [纯狐](./纯狐.md)
+- [DREAM TO MUSIC TOHO](./DREAM_TO_MUSIC_TOHO.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [纯狐](./纯狐.md)
 
   
-源地址：[[1]](http://www.iosysos.com/cd/tohodtmt/img/IO-0301_jacket_1000px.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://www.iosysos.com/cd/tohodtmt/img/IO-0301_jacket_1000px.jpg)  
 
 ---
 

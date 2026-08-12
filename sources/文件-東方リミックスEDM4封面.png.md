@@ -1,6 +1,6 @@
 # 文件:東方リミックスEDM4封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0b\ns6%3A%E6%9D%B1%E6%96%B9%E3%83%AA%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9EDM4%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0b\ns6%3A%E6%9D%B1%E6%96%B9%E3%83%AA%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9EDM4%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 SPACELECTRO | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ SPACELECTRO | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方リミックスEDM4](./東方リミックスEDM4.md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)
-
-
-
+- [東方リミックスEDM4](./東方リミックスEDM4.md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:伪弦「Pseudo_Stradivarius」（妖妖梦）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dd\ns6%3A%E4%BC%AA%E5%BC%A6%E3%80%8CPseudo_Stradivarius%E3%80%8D%EF%BC%88%E5%A6%96%E5%A6%96%E6%A2%A6%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dd\ns6%3A%E4%BC%AA%E5%BC%A6%E3%80%8CPseudo_Stradivarius%E3%80%8D%EF%BC%88%E5%A6%96%E5%A6%96%E6%A2%A6%EF%BC%89%2Ejpg.html -->
 
 东方妖妖梦 | 敌机符卡 | 露娜萨·普莉兹姆利巴
-
-
-
-
 
 
 ---

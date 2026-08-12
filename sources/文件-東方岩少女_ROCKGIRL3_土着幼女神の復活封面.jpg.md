@@ -1,6 +1,6 @@
 # 文件:東方岩少女_ROCKGIRL3_土着幼女神の復活封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\68\ns6%3A%E6%9D%B1%E6%96%B9%E5%B2%A9%E5%B0%91%E5%A5%B3_ROCKGIRL3_%E5%9C%9F%E7%9D%80%E5%B9%BC%E5%A5%B3%E7%A5%9E%E3%81%AE%E5%BE%A9%E6%B4%BB%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\68\ns6%3A%E6%9D%B1%E6%96%B9%E5%B2%A9%E5%B0%91%E5%A5%B3_ROCKGIRL3_%E5%9C%9F%E7%9D%80%E5%B9%BC%E5%A5%B3%E7%A5%9E%E3%81%AE%E5%BE%A9%E6%B4%BB%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 趣味工房にんじんわいん
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方岩少女 ROCKGIRL3 土着幼女神の復活](./東方岩少女_ROCKGIRL3_土着幼女神の復活.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [东风谷早苗](./东风谷早苗.md)
-
-
-
+- [東方岩少女 ROCKGIRL3 土着幼女神の復活](./東方岩少女_ROCKGIRL3_土着幼女神の復活.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [东风谷早苗](./东风谷早苗.md)
 
 
 ---

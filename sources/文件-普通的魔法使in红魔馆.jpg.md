@@ -1,12 +1,8 @@
 # 文件:普通的魔法使in红魔馆.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a0\ns6%3A%E6%99%AE%E9%80%9A%E7%9A%84%E9%AD%94%E6%B3%95%E4%BD%BFin%E7%BA%A2%E9%AD%94%E9%A6%86%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a0\ns6%3A%E6%99%AE%E9%80%9A%E7%9A%84%E9%AD%94%E6%B3%95%E4%BD%BFin%E7%BA%A2%E9%AD%94%E9%A6%86%2Ejpg.html -->
 
 ZUN绘 | 蓬莱少女绘幻想
-
-
-
-
 
 
 ---

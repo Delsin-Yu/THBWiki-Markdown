@@ -1,12 +1,8 @@
 # 文件:懒符「生神停止(Idling_Wave)」（永夜抄）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d6\ns6%3A%E6%87%92%E7%AC%A6%E3%80%8C%E7%94%9F%E7%A5%9E%E5%81%9C%E6%AD%A2%28Idling_Wave%29%E3%80%8D%EF%BC%88%E6%B0%B8%E5%A4%9C%E6%8A%84%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d6\ns6%3A%E6%87%92%E7%AC%A6%E3%80%8C%E7%94%9F%E7%A5%9E%E5%81%9C%E6%AD%A2%28Idling_Wave%29%E3%80%8D%EF%BC%88%E6%B0%B8%E5%A4%9C%E6%8A%84%EF%BC%89%2Ejpg.html -->
 
 东方永夜抄 | 敌机符卡 | 铃仙·优昙华院·因幡
-
-
-
-
 
 
 ---

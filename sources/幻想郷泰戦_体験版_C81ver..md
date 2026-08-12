@@ -1,12 +1,11 @@
 # 幻想郷泰戦_体験版_C81ver.
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\62\ns0%3A%E5%B9%BB%E6%83%B3%E9%83%B7%E6%B3%B0%E6%88%A6_%E4%BD%93%E9%A8%93%E7%89%88_C81ver%2E.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\62\ns0%3A%E5%B9%BB%E6%83%B3%E9%83%B7%E6%B3%B0%E6%88%A6_%E4%BD%93%E9%A8%93%E7%89%88_C81ver%2E.html -->
 
 2011年12月30日 由 Under the Gun 于 Comic Market 81 发布的RPG同人游戏，可在 Windows 系统上运行，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人软件 (未找到链接)** 的词条
-
+**[二次创作同人软件](./二次创作.md#同人软件)**的词条
 ## 目录
 
 - [1 软件信息](#软件信息)
@@ -15,33 +14,25 @@
 - [4 评论](#评论)
 
 
-
-
-
 ## 软件信息
 
-<table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E5%B9%BB%E6%83%B3%E9%83%B7%E6%B3%B0%E6%88%A6_%E4%BD%93%E9%A8%93%E7%89%88_C81ver.%E5%B0%81%E9%9D%A2.jpg" class="new" title="文件:幻想郷泰戦 体験版 C81ver.封面.jpg">封面图片</a></td>
-</tr><tr><td class="label">名称</td><td colspan="2"> 幻想郷泰戦 体験版 C81ver. </td></tr><tr><td class="label">制作方</td><td><a href="./Under_the_Gun.md" title="Under the Gun">Under the Gun</a></td><td class="cover-artwork" rowspan="6" style="min-width:168px;"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E5%B9%BB%E6%83%B3%E9%83%B7%E6%B3%B0%E6%88%A6_%E4%BD%93%E9%A8%93%E7%89%88_C81ver.%E5%B0%81%E9%9D%A2.jpg" class="new" title="文件:幻想郷泰戦 体験版 C81ver.封面.jpg">封面图片</a></td>
-</tr><tr><td class="label">首发日期</td><td>2011-12-30&#160;（<a href="/展会作品列表?e=Comic+Market%2381">Comic Market 81</a>）</td></tr><tr><td class="label">类型</td><td>游戏</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">游戏类型</td><td>RPG</td></tr><tr><td class="label">运行平台</td><td>Windows</td></tr><tr><td class="label">语言</td><td>日文</td></tr></tbody></table>
+<table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a class="new" title="文件:幻想郷泰戦 体験版 C81ver.封面.jpg">封面图片</a></td>
+</tr><tr><td class="label">名称</td><td colspan="2"> 幻想郷泰戦 体験版 C81ver. </td></tr><tr><td class="label">制作方</td><td><a href="./Under_the_Gun.md" title="Under the Gun">Under the Gun</a></td><td class="cover-artwork" rowspan="6" style="min-width:168px;"><a class="new" title="文件:幻想郷泰戦 体験版 C81ver.封面.jpg">封面图片</a></td>
+</tr><tr><td class="label">首发日期</td><td>2011-12-30 （<a href="./展会作品列表.md#81">Comic Market 81</a>）</td></tr><tr><td class="label">类型</td><td>游戏</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">游戏类型</td><td>RPG</td></tr><tr><td class="label">运行平台</td><td>Windows</td></tr><tr><td class="label">语言</td><td>日文</td></tr></tbody></table>
 
 幻想郷泰戦 体験版 C81ver.（同人游戏，Under the Gun，2011） - 2011年12月30日 由 Under the Gun 于 Comic Market 81 发布的RPG同人游戏，可在 Windows 系统上运行，分级为 一般向
-  
-  
-
-  
-
-
 <table>
 <tbody><tr><th colspan="2">配置需求</th></tr>
 </tbody></table>
 
 
-
 ## Staff
+
 - Under the Gun（人物） (未找到链接)
 
 
 ## 内容页面
+
 - 游戏设定与剧情 (未找到链接)
 - 攻略 (未找到链接)
 - 使用说明 (未找到链接)
@@ -49,9 +40,6 @@
 
 
 ## 评论
-
-
-
 
 ---
 

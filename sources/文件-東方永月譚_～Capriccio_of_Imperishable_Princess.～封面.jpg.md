@@ -1,12 +1,8 @@
 # 文件:東方永月譚_～Capriccio_of_Imperishable_Princess.～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\84\ns6%3A%E6%9D%B1%E6%96%B9%E6%B0%B8%E6%9C%88%E8%AD%9A_%EF%BD%9ECapriccio_of_Imperishable_Princess%2E%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\84\ns6%3A%E6%9D%B1%E6%96%B9%E6%B0%B8%E6%9C%88%E8%AD%9A_%EF%BD%9ECapriccio_of_Imperishable_Princess%2E%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 封面图片 | 没有被使用的封面文件
-
-
-
-
 
 
 ---

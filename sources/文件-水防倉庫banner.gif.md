@@ -1,12 +1,8 @@
 # 文件:水防倉庫banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f0\ns6%3A%E6%B0%B4%E9%98%B2%E5%80%89%E5%BA%ABbanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f0\ns6%3A%E6%B0%B4%E9%98%B2%E5%80%89%E5%BA%ABbanner%2Egif.html -->
 
 水防倉庫 | 社团LOGO
-
-
-
-
 
 
 ---

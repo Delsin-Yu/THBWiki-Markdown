@@ -1,14 +1,11 @@
 # 文件:th15_reisen_ufpower_by_dist.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\38\ns6%3Ath15_reisen_ufpower_by_dist%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\38\ns6%3Ath15_reisen_ufpower_by_dist%2Epng.html -->
 
 游戏攻略
 
 
 ## 摘要
-
-
-
 
 ---
 

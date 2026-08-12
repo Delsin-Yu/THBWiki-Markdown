@@ -1,16 +1,12 @@
 # 模板:CCG
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\9\9d\ns10%3ACCG.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\9\9d\ns10%3ACCG.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

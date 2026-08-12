@@ -1,43 +1,33 @@
 # 东方儚月抄_～_Cage_in_Lunatic_Runagate./第二话
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\8\89\ns0%3A%E4%B8%9C%E6%96%B9%E5%84%9A%E6%9C%88%E6%8A%84_%EF%BD%9E_Cage_in_Lunatic_Runagate%2E%2F%E7%AC%AC%E4%BA%8C%E8%AF%9D.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\8\89\ns0%3A%E4%B8%9C%E6%96%B9%E5%84%9A%E6%9C%88%E6%8A%84_%EF%BD%9E_Cage_in_Lunatic_Runagate%2E%2F%E7%AC%AC%E4%BA%8C%E8%AF%9D.html -->
 
 东方儚月抄_～_Cage_in_Lunatic_Runagate.
 
 <center>
-
 <table>
 <tbody><tr>
-<td>&lt;
+<td><
 </td>
-<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./东方儚月抄_～_Cage_in_Lunatic_Runagate.-第一话.md" title="东方儚月抄 ～ Cage in Lunatic Runagate./第一话">第一话</a>&#160;
+<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./东方儚月抄_～_Cage_in_Lunatic_Runagate.-第一话.md" title="东方儚月抄 ～ Cage in Lunatic Runagate./第一话">第一话</a> 
 </td>
-<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="./东方儚月抄_～_Cage_in_Lunatic_Runagate..md" title="东方儚月抄 ～ Cage in Lunatic Runagate.">东方儚月抄 ～ Cage in Lunatic Runagate.</a>&#160;
+<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;"> <a href="./东方儚月抄_～_Cage_in_Lunatic_Runagate..md" title="东方儚月抄 ～ Cage in Lunatic Runagate.">东方儚月抄 ～ Cage in Lunatic Runagate.</a> 
 </td>
-<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left">&#160;<a href="./东方儚月抄_～_Cage_in_Lunatic_Runagate.-第三话.md" title="东方儚月抄 ～ Cage in Lunatic Runagate./第三话">第三话</a>
+<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left"> <a href="./东方儚月抄_～_Cage_in_Lunatic_Runagate.-第三话.md" title="东方儚月抄 ～ Cage in Lunatic Runagate./第三话">第三话</a>
 </td>
-<td>&gt;
+<td>>
 </td></tr></tbody></table>
 
   
 </center>
-- 本词条为中文翻译版，如需要日文对照请参见 **[中日对照](./东方儚月抄_～_Cage_in_Lunatic_Runagate.-第二话-中日对照.md)** 
+- 本词条为中文翻译版，如需要日文对照请参见**[中日对照](./东方儚月抄_～_Cage_in_Lunatic_Runagate.-第二话-中日对照.md)**
 - 本话连载时间：2007年9月25日，Chara☆Mel Vol.2
 - 本话于单行本中页数：30-51
 
-  
-  
-
-  
-
-[](./文件-儚月抄小说封面2.jpg.md)  [](./文件-儚月抄小说封面2.jpg.md)
-  
- **<big><big>第二话 三千年之玉</big></big>**   
-
-<big>永远亭的时刻悄然无息地开始流逝　辉夜以付出永远为代价抓住的东西是——</big>
-  
-
-
+<img alt="儚月抄小说封面2.jpg" src="https://upload.thwiki.cc/thumb/c/cd/%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E5%B0%81%E9%9D%A22.jpg/200px-%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E5%B0%81%E9%9D%A22.jpg" decoding="async" loading="lazy" width="200" height="286" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/c/cd/%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E5%B0%81%E9%9D%A22.jpg/300px-%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E5%B0%81%E9%9D%A22.jpg 1.5x, https://upload.thwiki.cc/thumb/c/cd/%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E5%B0%81%E9%9D%A22.jpg/400px-%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E5%B0%81%E9%9D%A22.jpg 2x" data-file-width="1227" data-file-height="1752">
+ [放大](./文件-儚月抄小说封面2.jpg.md)  
+**<big><big>第二话 三千年之玉</big></big>**  
+<big>永远亭的时刻悄然无息地开始流逝 辉夜以付出永远为代价抓住的东西是——</big>  
   
 　　这片被浓雾笼罩的竹林，在迷失其中的人看来，仿佛无限广大。竹子高矮不一，地表起伏不大，可以当作标记的物体几乎没有。即使一直朝前方走，也会在不知不觉间回到原来的地方，因此，这片竹林被称为迷途竹林。  
 
@@ -86,11 +76,10 @@
 　　说起来，刚被流放到地上的时候，我到达的就是这片被浓雾笼罩的竹林，在这里发现我的老夫妇一开始也觉得我非常奇异。  
 
 　　那是自然的。毕竟，我被装进竹林中一棵发光的竹子里，身体也小得不像人类，被当作妖怪也是没办法的事。在妖怪捕食人类的事如家常便饭般的时代，为什么那对老夫妇还把我捡回家呢。  
-
   
 
-　　老夫妇收留我的原因，我认为是月之都的监视官定期给予他们财富。月之都的监视官如同当初对我那样，把黄金藏于发光的竹子中，让老夫妇认为这是上天对他们收留我的行为的感谢。当然，老夫妇也认为只要我住在他们家，他们就能得到财富，所以，他们不允许我离开这个受到眷顾的家，也不愿意我被其他人抢走。[](./文件-儚月抄小说插图2-1.jpg.md)  [](./文件-儚月抄小说插图2-1.jpg.md)  
-
+　　老夫妇收留我的原因，我认为是月之都的监视官定期给予他们财富。月之都的监视官如同当初对我那样，把黄金藏于发光的竹子中，让老夫妇认为这是上天对他们收留我的行为的感谢。当然，老夫妇也认为只要我住在他们家，他们就能得到财富，所以，他们不允许我离开这个受到眷顾的家，也不愿意我被其他人抢走。<img alt="儚月抄小说插图2-1.jpg" src="https://upload.thwiki.cc/thumb/3/3c/%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE2-1.jpg/200px-%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE2-1.jpg" decoding="async" loading="lazy" width="200" height="135" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/3/3c/%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE2-1.jpg/300px-%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE2-1.jpg 1.5x, https://upload.thwiki.cc/thumb/3/3c/%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE2-1.jpg/400px-%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE2-1.jpg 2x" data-file-width="1019" data-file-height="686">
+ [放大](./文件-儚月抄小说插图2-1.jpg.md)  
   
 　　而且，我在地上显得特别引人注目，不管做什么，都会传出流言。我也不想在地上公开活动，而且，不知从什么时候开始，我萌生了对收留我的老夫妇的感激和眷恋之情。感谢老夫妇收留了我。  
 
@@ -191,11 +180,10 @@
 　　其他月之使者来到地上时，也随身带着这种优昙花的枝。当把树枝交给一名当权者后，这名当权者满身的污秽立刻使它结出了七色的果实。权势越大，结出的果实越美丽，这种果实自然成为了当权者权力的象征。  
 
 　　可是，存在于地上之物必灭。盛者必衰，力量迟早有衰落的时候。到那时，优昙花枝就成了争夺的对象，地上的和平被打破，变为乱世。  
-
   
 
-　　也就是说，优昙花是月之民用来挑起地上战乱的植物。只要看一看人类历史，就很容易明白为什么要挑起战乱了。因为，人类的历史与成长，就是战争的历史与成长。没有纷争，就没有成长。满足于现状，就等于人类放弃了生存。月之民每天都为地上人考虑着。地上人的历史，就是月之民创造的。[](./文件-儚月抄小说插图2-2.jpg.md)  [](./文件-儚月抄小说插图2-2.jpg.md)  
-
+　　也就是说，优昙花是月之民用来挑起地上战乱的植物。只要看一看人类历史，就很容易明白为什么要挑起战乱了。因为，人类的历史与成长，就是战争的历史与成长。没有纷争，就没有成长。满足于现状，就等于人类放弃了生存。月之民每天都为地上人考虑着。地上人的历史，就是月之民创造的。<img alt="儚月抄小说插图2-2.jpg" src="https://upload.thwiki.cc/thumb/d/d9/%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE2-2.jpg/200px-%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE2-2.jpg" decoding="async" loading="lazy" width="200" height="288" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/d/d9/%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE2-2.jpg/300px-%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE2-2.jpg 1.5x, https://upload.thwiki.cc/thumb/d/d9/%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE2-2.jpg/400px-%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE2-2.jpg 2x" data-file-width="1025" data-file-height="1475">
+ [放大](./文件-儚月抄小说插图2-2.jpg.md)  
   
 　　「辉夜。雨停了，从云端可以看到满月了哦。」  
 
@@ -262,11 +250,10 @@
 　　「在两个月之前，知道妖怪兔是月兔的人还一个都没有。」  
 
 　　「我想，这是意料之外的事故。」  
-
   
 
-　　「事故？」[](./文件-儚月抄小说插图2-3.jpg.md)  [](./文件-儚月抄小说插图2-3.jpg.md)  
-
+　　「事故？」<img alt="儚月抄小说插图2-3.jpg" src="https://upload.thwiki.cc/thumb/5/5b/%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE2-3.jpg/200px-%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE2-3.jpg" decoding="async" loading="lazy" width="200" height="213" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/5/5b/%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE2-3.jpg/300px-%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE2-3.jpg 1.5x, https://upload.thwiki.cc/thumb/5/5b/%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE2-3.jpg/400px-%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE2-3.jpg 2x" data-file-width="1023" data-file-height="1090">
+ [放大](./文件-儚月抄小说插图2-3.jpg.md)  
   
 　　「就是说，真正的黑幕也没有想到。」  
 
@@ -353,11 +340,10 @@
 　　开诊所的理由，据永琳说是「今后要和地上人一同生活，所以，地上人的工作不可怠慢，相互之间为别人劳动，就是地上人的工作。」，也就是说，不劳者不得食。  
 
 　　这我也能理解。收留了我的老夫妇偶尔能从月之都获得财富，也因此失去了平稳的生活。地上人不可期待高于工作的回报，因为那将带来不幸。  
-
   
 
-　　虽然我能理解，但不能实践。不光是我，幻想乡里还有许多无法做地上人的工作的人。我把自己的这一烦恼告诉永琳，她却敷衍一样地回答说：「辉夜只要做自己想做的事就好。如果没有想做的事，就把寻找想做的事当作工作吧。」[](./文件-儚月抄小说插图2-4.jpg.md)  [](./文件-儚月抄小说插图2-4.jpg.md)  
-
+　　虽然我能理解，但不能实践。不光是我，幻想乡里还有许多无法做地上人的工作的人。我把自己的这一烦恼告诉永琳，她却敷衍一样地回答说：「辉夜只要做自己想做的事就好。如果没有想做的事，就把寻找想做的事当作工作吧。」<img alt="儚月抄小说插图2-4.jpg" src="https://upload.thwiki.cc/thumb/7/7f/%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE2-4.jpg/200px-%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE2-4.jpg" decoding="async" loading="lazy" width="200" height="174" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/7/7f/%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE2-4.jpg/300px-%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE2-4.jpg 1.5x, https://upload.thwiki.cc/thumb/7/7f/%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE2-4.jpg/400px-%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE2-4.jpg 2x" data-file-width="1019" data-file-height="884">
+ [放大](./文件-儚月抄小说插图2-4.jpg.md)  
   
 　　现在我虽然还没有找到身为地上人的自己应该做的事，但优昙花的花开放的时候，我应该开始了某种事吧。又或者，当我找到想做的事的时候，优昙花的花就会开放。  
 
@@ -386,40 +372,24 @@
 　　「哈哈，不是的。是因为我们已经不再是月之民，而是普通的地上之民类和妖怪了，所以，用不着担心月之都了。」  
 
 　　听到这句话，我也笑了起来。同时，我决定把现在发生的不可思议的事交给永琳去处理。   
-
   
-
- **第二话 三千年之玉 / 完** 
-  
-
-
-
-  
-  
-
-  
-
+**第二话 三千年之玉 / 完**  
 <center>
-
 <table>
 <tbody><tr>
-<td>&lt;
+<td><
 </td>
-<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./东方儚月抄_～_Cage_in_Lunatic_Runagate.-第一话.md" title="东方儚月抄 ～ Cage in Lunatic Runagate./第一话">第一话</a>&#160;
+<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./东方儚月抄_～_Cage_in_Lunatic_Runagate.-第一话.md" title="东方儚月抄 ～ Cage in Lunatic Runagate./第一话">第一话</a> 
 </td>
-<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="./东方儚月抄_～_Cage_in_Lunatic_Runagate..md" title="东方儚月抄 ～ Cage in Lunatic Runagate.">东方儚月抄 ～ Cage in Lunatic Runagate.</a>&#160;
+<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;"> <a href="./东方儚月抄_～_Cage_in_Lunatic_Runagate..md" title="东方儚月抄 ～ Cage in Lunatic Runagate.">东方儚月抄 ～ Cage in Lunatic Runagate.</a> 
 </td>
-<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left">&#160;<a href="./东方儚月抄_～_Cage_in_Lunatic_Runagate.-第三话.md" title="东方儚月抄 ～ Cage in Lunatic Runagate./第三话">第三话</a>
+<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left"> <a href="./东方儚月抄_～_Cage_in_Lunatic_Runagate.-第三话.md" title="东方儚月抄 ～ Cage in Lunatic Runagate./第三话">第三话</a>
 </td>
-<td>&gt;
+<td>>
 </td></tr></tbody></table>
 
   
 </center>
-
-
-
-
 ---
 
 此文档由 [THBWiki-Markdown-Builder](https://github.com/Delsin-Yu/THBWiki-Markdown-Builder) 构建。

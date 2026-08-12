@@ -1,6 +1,6 @@
 # 文件:SYNCHRONICITY（Eternal_Melody）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c3\ns6%3ASYNCHRONICITY%EF%BC%88Eternal_Melody%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c3\ns6%3ASYNCHRONICITY%EF%BC%88Eternal_Melody%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Eternal_Melody | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Eternal_Melody | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [SYNCHRONICITY（Eternal Melody）](./SYNCHRONICITY（Eternal_Melody）.md)  
-该封面包含的角色：- [纯狐](./纯狐.md)
+- [SYNCHRONICITY（Eternal Melody）](./SYNCHRONICITY（Eternal_Melody）.md)该封面包含的角色：
+- [纯狐](./纯狐.md)
 
   
-源地址：[[1]](https://1.bp.blogspot.com/-Ov4gEAqi14Y/WFTLr0l-ZoI/AAAAAAAAApg/PXAu77Ck00ISg07r8wZiemG-a1HWzQjuwCLcB/s1600/EMCD-0009_1777.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://1.bp.blogspot.com/-Ov4gEAqi14Y/WFTLr0l-ZoI/AAAAAAAAApg/PXAu77Ck00ISg07r8wZiemG-a1HWzQjuwCLcB/s1600/EMCD-0009_1777.jpg)  
 
 ---
 

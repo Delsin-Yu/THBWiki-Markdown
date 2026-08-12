@@ -1,12 +1,11 @@
 # TOUHOU_OLYMPUS
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\06\ns0%3ATOUHOU_OLYMPUS.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\06\ns0%3ATOUHOU_OLYMPUS.html -->
 
 2021年10月1日 由 乌有社  发布的画集同人志，A4尺寸一共84页，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人志 (未找到链接)** 的词条
-
+**[二次创作同人志](./二次创作.md#同人志)**的词条
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-TOUHOU_OLYMPUS封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/2/22/TOUHOU_OLYMPUS%E5%B0%81%E9%9D%A2.jpg/142px-TOUHOU_OLYMPUS%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="142" height="196" srcset="https://upload.thwiki.cc/thumb/2/22/TOUHOU_OLYMPUS%E5%B0%81%E9%9D%A2.jpg/213px-TOUHOU_OLYMPUS%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/2/22/TOUHOU_OLYMPUS%E5%B0%81%E9%9D%A2.jpg/284px-TOUHOU_OLYMPUS%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="730" data-file-height="1008"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>，<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a>，<a href="./八云紫.md" title="八云紫">八云紫</a>，<a href="./八云蓝.md" title="八云蓝">八云蓝</a></div></td>
@@ -15,19 +14,15 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://weibo.com/3188120510/KAAKZAtrC">https://weibo.com/3188120510/KAAKZAtrC</a></td></tr><tr><td class="label">备注</td><td colspan="2">东方×<a href="https://zh.wikipedia.org/wiki/希腊神话" class="extiw" title="wzh:希腊神话">希腊神话</a></td></tr></tbody></table>
 
 TOUHOU OLYMPUS（同人志，乌有社，2021） - 2021年10月1日 由 乌有社  发布的画集同人志，A4尺寸一共84页，分级为 一般向
-
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.taobao.com/list/item/655987432155.htm">淘宝</a></td></tr></tbody></table>
 
 
-
 ## Staff
+
 - [Amibazh](./Amibazh.md)
 
 
 ## 评论
-
-
-
 
 ---
 

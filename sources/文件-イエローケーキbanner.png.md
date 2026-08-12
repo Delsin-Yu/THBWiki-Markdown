@@ -1,14 +1,11 @@
 # 文件:イエローケーキbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2f\ns6%3A%E3%82%A4%E3%82%A8%E3%83%AD%E3%83%BC%E3%82%B1%E3%83%BC%E3%82%ADbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2f\ns6%3A%E3%82%A4%E3%82%A8%E3%83%AD%E3%83%BC%E3%82%B1%E3%83%BC%E3%82%ADbanner%2Epng.html -->
 
 イエローケーキ | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

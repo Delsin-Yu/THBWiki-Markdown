@@ -1,6 +1,6 @@
 # 文件:This_girl(あの娘)の枕を手に入れろ！封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\49\ns6%3AThis_girl%28%E3%81%82%E3%81%AE%E5%A8%98%29%E3%81%AE%E6%9E%95%E3%82%92%E6%89%8B%E3%81%AB%E5%85%A5%E3%82%8C%E3%82%8D%EF%BC%81%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\49\ns6%3AThis_girl%28%E3%81%82%E3%81%AE%E5%A8%98%29%E3%81%AE%E6%9E%95%E3%82%92%E6%89%8B%E3%81%AB%E5%85%A5%E3%82%8C%E3%82%8D%EF%BC%81%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 スプリンタム | 同人志封面 | 封面图片
 
@@ -8,16 +8,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [This girl(あの娘)の枕を手に入れろ！](./This_girl(あの娘)の枕を手に入れろ！.md)  
-该封面包含的角色：- [宇佐见堇子](./宇佐见堇子.md)- [稀神探女](./稀神探女.md)
+- [This girl(あの娘)の枕を手に入れろ！](./This_girl(あの娘%29の枕を手に入れろ！.md)该封面包含的角色：
+- [宇佐见堇子](./宇佐见堇子.md)
+- [稀神探女](./稀神探女.md)
 
   
-[Pixiv artwork ID: 62746218](https://www.pixiv.net/artworks/62746218)
-  
-
-
-
-
+[Pixiv artwork ID: 62746218](https://www.pixiv.net/artworks/62746218)  
 
 ---
 

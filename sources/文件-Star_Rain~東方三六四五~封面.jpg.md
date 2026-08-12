@@ -1,6 +1,6 @@
 # 文件:Star_Rain~東方三六四五~封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5a\ns6%3AStar_Rain%7E%E6%9D%B1%E6%96%B9%E4%B8%89%E5%85%AD%E5%9B%9B%E4%BA%94%7E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5a\ns6%3AStar_Rain%7E%E6%9D%B1%E6%96%B9%E4%B8%89%E5%85%AD%E5%9B%9B%E4%BA%94%7E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Jellyfish_Factory | 同人志封面 | 封面图片
 
@@ -8,11 +8,10 @@ Jellyfish_Factory | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Star Rain~東方三六四五~](./Star_Rain~東方三六四五~.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [Star Rain~東方三六四五~](./Star_Rain~東方三六四五~.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

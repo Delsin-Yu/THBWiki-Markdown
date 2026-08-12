@@ -1,6 +1,6 @@
 # 文件:VisitBit_EP封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\26\ns6%3AVisitBit_EP%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\26\ns6%3AVisitBit_EP%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Frozen_System_Records | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Frozen_System_Records | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [VisitBit EP](./VisitBit_EP.md)  
-该封面包含的角色：- [蓬莱山辉夜](./蓬莱山辉夜.md)
-
-
-
+- [VisitBit EP](./VisitBit_EP.md)该封面包含的角色：
+- [蓬莱山辉夜](./蓬莱山辉夜.md)
 
 
 ---

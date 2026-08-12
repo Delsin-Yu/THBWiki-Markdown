@@ -1,12 +1,8 @@
 # 文件:Яiseliedbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\31\ns6%3A%D0%AFiseliedbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\31\ns6%3A%D0%AFiseliedbanner%2Epng.html -->
 
 Яiselied | 社团LOGO
-
-
-
-
 
 
 ---

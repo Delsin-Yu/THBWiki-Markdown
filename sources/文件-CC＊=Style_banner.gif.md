@@ -1,12 +1,8 @@
 # 文件:CC＊=Style_banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\02\ns6%3ACC%EF%BC%8A%3DStyle_banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\02\ns6%3ACC%EF%BC%8A%3DStyle_banner%2Egif.html -->
 
 CC＊=Style | 社团LOGO
-
-
-
-
 
 
 ---

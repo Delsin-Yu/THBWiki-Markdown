@@ -1,12 +1,8 @@
 # 文件:EastNewSound_banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\20\ns6%3AEastNewSound_banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\20\ns6%3AEastNewSound_banner%2Epng.html -->
 
 EastNewSound | 社团LOGO
-
-
-
-
 
 
 ---

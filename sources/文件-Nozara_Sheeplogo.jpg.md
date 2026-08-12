@@ -1,16 +1,11 @@
 # 文件:Nozara_Sheeplogo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4c\ns6%3ANozara_Sheeplogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4c\ns6%3ANozara_Sheeplogo%2Ejpg.html -->
 
 Nozara_Sheep | 社团LOGO
 
   
-源地址：[[1]](https://i1.sndcdn.com/avatars-000258664865-qe5m33-t500x500.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://i1.sndcdn.com/avatars-000258664865-qe5m33-t500x500.jpg)  
 
 ---
 

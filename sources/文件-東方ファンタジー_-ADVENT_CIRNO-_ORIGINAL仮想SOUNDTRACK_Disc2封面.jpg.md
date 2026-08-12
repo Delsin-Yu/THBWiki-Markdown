@@ -1,6 +1,6 @@
 # 文件:東方ファンタジー_-ADVENT_CIRNO-_ORIGINAL仮想SOUNDTRACK_Disc2封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f7\ns6%3A%E6%9D%B1%E6%96%B9%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC_-ADVENT_CIRNO-_ORIGINAL%E4%BB%AE%E6%83%B3SOUNDTRACK_Disc2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f7\ns6%3A%E6%9D%B1%E6%96%B9%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC_-ADVENT_CIRNO-_ORIGINAL%E4%BB%AE%E6%83%B3SOUNDTRACK_Disc2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 mistbell | 专辑封面 | 封面图片
 
@@ -8,16 +8,13 @@ mistbell | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方ファンタジー -ADVENT CIRNO- ORIGINAL仮想SOUNDTRACK Disc2](./東方ファンタジー_-ADVENT_CIRNO-_ORIGINAL仮想SOUNDTRACK_Disc2.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)- [红美铃](./红美铃.md)- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
+- [東方ファンタジー -ADVENT CIRNO- ORIGINAL仮想SOUNDTRACK Disc2](./東方ファンタジー_-ADVENT_CIRNO-_ORIGINAL仮想SOUNDTRACK_Disc2.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
+- [红美铃](./红美铃.md)
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
 
   
-源地址：[[1]](https://web.archive.org/web/20060616185012im_/http://www.mistbell.com/official/image/album009/mistbell_009_jacket_1.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://web.archive.org/web/20060616185012im_/http://www.mistbell.com/official/image/album009/mistbell_009_jacket_1.jpg)  
 
 ---
 

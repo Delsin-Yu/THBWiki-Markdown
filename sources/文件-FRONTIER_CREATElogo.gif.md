@@ -1,18 +1,13 @@
 # 文件:FRONTIER_CREATElogo.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f7\ns6%3AFRONTIER_CREATElogo%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f7\ns6%3AFRONTIER_CREATElogo%2Egif.html -->
 
 FRONTIER_CREATE | 社团LOGO
 
 
 ## 摘要
   
-源地址：[direct image link](https://web.archive.org/web/20110816141828im_/http://www.frontier-create.com/images/common/logo.gif), [source page](https://web.archive.org/web/20110906022340/http://www.frontier-create.com/)
-  
-
-
-
-
+源地址：[direct image link](https://web.archive.org/web/20110816141828im_/http://www.frontier-create.com/images/common/logo.gif), [source page](https://web.archive.org/web/20110906022340/http://www.frontier-create.com/)  
 
 ---
 

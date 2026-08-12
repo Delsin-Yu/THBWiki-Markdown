@@ -1,6 +1,6 @@
 # 文件:恋色マスタースパーク6アレンジCD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5b\ns6%3A%E6%81%8B%E8%89%B2%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%B9%E3%83%91%E3%83%BC%E3%82%AF6%E3%82%A2%E3%83%AC%E3%83%B3%E3%82%B8CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5b\ns6%3A%E6%81%8B%E8%89%B2%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%B9%E3%83%91%E3%83%BC%E3%82%AF6%E3%82%A2%E3%83%AC%E3%83%B3%E3%82%B8CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 まいしんドリラー | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [恋色マスタースパーク6アレンジCD](./恋色マスタースパーク6アレンジCD.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
+- [恋色マスタースパーク6アレンジCD](./恋色マスタースパーク6アレンジCD.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-源地址：[direct image link](https://www.suruga-ya.jp/database/pics_light/game/186154393.jpg), [source page (suruga-ya ID: 186154393)](https://www.suruga-ya.jp/product/detail/186154393)
-  
-
-
-
-
+源地址：[direct image link](https://www.suruga-ya.jp/database/pics_light/game/186154393.jpg), [source page (suruga-ya ID: 186154393)](https://www.suruga-ya.jp/product/detail/186154393)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:Toho_Outfit（秋季例大祭8）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f5\ns6%3AToho_Outfit%EF%BC%88%E7%A7%8B%E5%AD%A3%E4%BE%8B%E5%A4%A7%E7%A5%AD8%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f5\ns6%3AToho_Outfit%EF%BC%88%E7%A7%8B%E5%AD%A3%E4%BE%8B%E5%A4%A7%E7%A5%AD8%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 遊文亭
 
@@ -10,16 +10,18 @@
 使用了本文件作封面图片的作品：
   
 
-- [Toho Outfit（秋季例大祭8）](./Toho_Outfit（秋季例大祭8）.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [橙](./橙.md)- [藤原妹红](./藤原妹红.md)- [伊吹萃香](./伊吹萃香.md)- [雾雨魔理沙](./雾雨魔理沙.md)- [宇佐见堇子](./宇佐见堇子.md)- [饭纲丸龙](./饭纲丸龙.md)- [天弓千亦](./天弓千亦.md)
+- [Toho Outfit（秋季例大祭8）](./Toho_Outfit（秋季例大祭8）.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [橙](./橙.md)
+- [藤原妹红](./藤原妹红.md)
+- [伊吹萃香](./伊吹萃香.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
+- [宇佐见堇子](./宇佐见堇子.md)
+- [饭纲丸龙](./饭纲丸龙.md)
+- [天弓千亦](./天弓千亦.md)
 
   
-[Pixiv artwork ID: 93402159](https://www.pixiv.net/artworks/93402159)
-  
-
-
-
-
+[Pixiv artwork ID: 93402159](https://www.pixiv.net/artworks/93402159)  
 
 ---
 

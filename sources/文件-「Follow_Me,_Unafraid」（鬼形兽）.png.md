@@ -1,14 +1,11 @@
 # 文件:「Follow_Me,_Unafraid」（鬼形兽）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f5\ns6%3A%E3%80%8CFollow_Me%2C_Unafraid%E3%80%8D%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f5\ns6%3A%E3%80%8CFollow_Me%2C_Unafraid%E3%80%8D%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%EF%BC%89%2Epng.html -->
 
 东方鬼形兽 | 敌机符卡 | 骊驹早鬼
 
 
 ## 文件说明
-
-
-
 
 ---
 

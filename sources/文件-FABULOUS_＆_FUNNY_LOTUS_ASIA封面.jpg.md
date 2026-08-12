@@ -1,6 +1,6 @@
 # 文件:FABULOUS_＆_FUNNY_LOTUS_ASIA封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1c\ns6%3AFABULOUS_%EF%BC%86_FUNNY_LOTUS_ASIA%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1c\ns6%3AFABULOUS_%EF%BC%86_FUNNY_LOTUS_ASIA%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ヘルメットが直せません | 同人志封面 | 封面图片
 
@@ -8,11 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [FABULOUS ＆ FUNNY LOTUS ASIA](./FABULOUS_＆_FUNNY_LOTUS_ASIA.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)- [蓬莱山辉夜](./蓬莱山辉夜.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [FABULOUS ＆ FUNNY LOTUS ASIA](./FABULOUS_＆_FUNNY_LOTUS_ASIA.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
+- [蓬莱山辉夜](./蓬莱山辉夜.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

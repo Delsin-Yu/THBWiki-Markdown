@@ -1,14 +1,11 @@
 # 文件:柳瀬川banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a7\ns6%3A%E6%9F%B3%E7%80%AC%E5%B7%9Dbanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a7\ns6%3A%E6%9F%B3%E7%80%AC%E5%B7%9Dbanner%2Egif.html -->
 
 柳瀬川 | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

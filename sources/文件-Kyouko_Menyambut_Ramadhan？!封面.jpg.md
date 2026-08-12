@@ -1,6 +1,6 @@
 # 文件:Kyouko_Menyambut_Ramadhan？!封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f2\ns6%3AKyouko_Menyambut_Ramadhan%EF%BC%9F%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f2\ns6%3AKyouko_Menyambut_Ramadhan%EF%BC%9F%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Duodesimal | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@ Duodesimal | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Kyouko Menyambut Ramadhan？!](./Kyouko_Menyambut_Ramadhan？!.md)  
-该封面包含的角色：- [幽谷响子](./幽谷响子.md)
+- [Kyouko Menyambut Ramadhan？!](./Kyouko_Menyambut_Ramadhan？!.md)该封面包含的角色：
+- [幽谷响子](./幽谷响子.md)
 
   
-源地址：[direct image link (original size)](https://scontent.fyvr4-1.fna.fbcdn.net/v/t39.30808-6/344185964_245500558035528_7575400662822751185_n.jpg?_nc_cat=105&amp;ccb=1-7&amp;_nc_sid=5f2048&amp;_nc_ohc=_86D7XmtsvoAX-58sM1&amp;_nc_ht=scontent.fyvr4-1.fna&amp;oh=00_AfDMtQOvGI_w9FL6fccsTVzuIoiND_8ROPfXAfQ3t1UOsw&amp;oe=655CFA45), [source page](https://www.facebook.com/photo/?fbid=931224631174443&amp;set=pb.100028607454825.-2207520000)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://scontent.fyvr4-1.fna.fbcdn.net/v/t39.30808-6/344185964_245500558035528_7575400662822751185_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_ohc=_86D7XmtsvoAX-58sM1&_nc_ht=scontent.fyvr4-1.fna&oh=00_AfDMtQOvGI_w9FL6fccsTVzuIoiND_8ROPfXAfQ3t1UOsw&oe=655CFA45), [source page](https://www.facebook.com/photo/?fbid=931224631174443&set=pb.100028607454825.-2207520000)  
 
 ---
 

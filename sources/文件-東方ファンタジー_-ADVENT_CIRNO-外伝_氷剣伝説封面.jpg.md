@@ -1,6 +1,6 @@
 # 文件:東方ファンタジー_-ADVENT_CIRNO-外伝_氷剣伝説封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\61\ns6%3A%E6%9D%B1%E6%96%B9%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC_-ADVENT_CIRNO-%E5%A4%96%E4%BC%9D_%E6%B0%B7%E5%89%A3%E4%BC%9D%E8%AA%AC%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\61\ns6%3A%E6%9D%B1%E6%96%B9%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC_-ADVENT_CIRNO-%E5%A4%96%E4%BC%9D_%E6%B0%B7%E5%89%A3%E4%BC%9D%E8%AA%AC%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 mistbell | 专辑封面 | 封面图片
 
@@ -8,16 +8,13 @@ mistbell | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方ファンタジー -ADVENT CIRNO-外伝 氷剣伝説](./東方ファンタジー_-ADVENT_CIRNO-外伝_氷剣伝説.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)- [红美铃](./红美铃.md)- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
+- [東方ファンタジー -ADVENT CIRNO-外伝 氷剣伝説](./東方ファンタジー_-ADVENT_CIRNO-外伝_氷剣伝説.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
+- [红美铃](./红美铃.md)
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
 
   
-源地址：[direct image link](https://www.suruga-ya.jp/database/pics/game/186102407.jpg), [origin page](https://www.suruga-ya.jp/product/detail/186102407)
-  
-
-
-
-
+源地址：[direct image link](https://www.suruga-ya.jp/database/pics/game/186102407.jpg), [origin page](https://www.suruga-ya.jp/product/detail/186102407)  
 
 ---
 

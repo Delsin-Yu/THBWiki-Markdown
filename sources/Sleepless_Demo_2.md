@@ -1,13 +1,11 @@
 # Sleepless_Demo_2
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\43\ns0%3ASleepless_Demo_2.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\43\ns0%3ASleepless_Demo_2.html -->
 
 2017年10月21日 由 Sleepless  发布的Demo/EP同人专辑，曲目主要风格是 Trance，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人专辑 (未找到链接)** 的词条
-<center>
-
+**[二次创作同人专辑](./二次创作.md#同人音乐)**的词条<center>
 <table>
 <tbody><tr>
 <td class="mbox-image"><div style="width: 52px;">
@@ -16,9 +14,7 @@
 </tr>
 </tbody></table>
 
-
 </center>
-
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Sleepless_Demo_2封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/f/fd/Sleepless_Demo_2%E5%B0%81%E9%9D%A2.jpg/252px-Sleepless_Demo_2%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="252" height="252" srcset="https://upload.thwiki.cc/thumb/f/fd/Sleepless_Demo_2%E5%B0%81%E9%9D%A2.jpg/378px-Sleepless_Demo_2%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/f/fd/Sleepless_Demo_2%E5%B0%81%E9%9D%A2.jpg/504px-Sleepless_Demo_2%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="819" data-file-height="819"></a></td>
@@ -27,40 +23,29 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://soundcloud.com/sctspl/sleepless-demo-2-crossfade">https://soundcloud.com/sctspl/sleepless-demo-2-crossfade</a><br><a rel="nofollow" class="external free" href="https://sctspl.tumblr.com/post/166632422239/sleepless-demo-2">https://sctspl.tumblr.com/post/166632422239/sleepless-demo-2</a><br><span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span><small>（无缓存页面）</small></td></tr></tbody></table>
 
 Sleepless Demo 2（同人专辑，Sleepless，2017） - 2017年10月21日 由 Sleepless  发布的Demo/EP同人专辑，曲目主要风格是 Trance，分级为 一般向
-
 ## Staff
   
- **Compose**   
+**Compose**  
 
-<table><tbody><tr><td><a href="/index.php?title=Seppel&amp;action=edit&amp;redlink=1" class="new" title="Seppel（页面不存在）">Seppel</a></td><td><a href="./Sleepless.md" title="Sleepless">Sleepless</a></td><td>Tr.1-3</td></tr></tbody></table>
+<table><tbody><tr><td><a class="new" title="Seppel（页面不存在）">Seppel</a></td><td><a href="./Sleepless.md" title="Sleepless">Sleepless</a></td><td>Tr.1-3</td></tr></tbody></table>
 
   
- **Arrangement**   
+**Arrangement**  
 
-<table><tbody><tr><td><a href="/index.php?title=Seppel&amp;action=edit&amp;redlink=1" class="new" title="Seppel（页面不存在）">Seppel</a></td><td><a href="./Sleepless.md" title="Sleepless">Sleepless</a></td><td>Tr.4</td></tr></tbody></table>
-
+<table><tbody><tr><td><a class="new" title="Seppel（页面不存在）">Seppel</a></td><td><a href="./Sleepless.md" title="Sleepless">Sleepless</a></td><td>Tr.4</td></tr></tbody></table>
 
 
 ## 试听
-  
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/347902659&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=false"></iframe>
-
-  
-
 
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYL"><b>01</b></td><td id="US_AND_LIES" colspan="2" class="title">US AND LIES<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Seppel&amp;fromwiki=Sleepless_Demo_2"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=Seppel&amp;action=edit&amp;redlink=1" class="new" title="Seppel（页面不存在）">Seppel</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Seppel&amp;fromwiki=Sleepless_Demo_2"><span></span></a></span></td></tr>
-<tr><td id="2" class="infoYL"><b>02</b></td><td id="Never_Forget" colspan="2" class="title">Never Forget<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Seppel&amp;fromwiki=Sleepless_Demo_2"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=Seppel&amp;action=edit&amp;redlink=1" class="new" title="Seppel（页面不存在）">Seppel</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Seppel&amp;fromwiki=Sleepless_Demo_2"><span></span></a></span></td></tr>
-<tr><td id="3" class="infoYL"><b>03</b></td><td id="LOST_WORLD" colspan="2" class="title">LOST WORLD<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Seppel&amp;fromwiki=Sleepless_Demo_2"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=Seppel&amp;action=edit&amp;redlink=1" class="new" title="Seppel（页面不存在）">Seppel</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Seppel&amp;fromwiki=Sleepless_Demo_2"><span></span></a></span></td></tr>
-<tr><td id="4" class="infoYD"><b>04</b></td><td id="ONLY_YOU" colspan="2" class="title">ONLY YOU<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Seppel&amp;ogmusic=少女綺想曲　～ Dream Battle&amp;fromwiki=Sleepless_Demo_2"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=Seppel&amp;action=edit&amp;redlink=1" class="new" title="Seppel（页面不存在）">Seppel</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Seppel&amp;fromwiki=Sleepless_Demo_2"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=少女綺想曲　～ Dream Battle&amp;fromwiki=Sleepless_Demo_2"><span></span></a></span><div class="ogmusic"><a href="./少女綺想曲_～_Dream_Battle.md" class="mw-redirect" title="少女綺想曲 ～ Dream Battle">少女綺想曲　～ Dream Battle</a></div><div class="source"><a href="./东方永夜抄_～_Imperishable_Night..md" class="mw-redirect" title="东方永夜抄 ～ Imperishable Night.">东方永夜抄　～ Imperishable Night.</a></div></td></tr></tbody></table>
-
+<table><tbody><tr><td id="1" class="infoYL"><b>01</b></td><td id="US_AND_LIES" colspan="2" class="title">US AND LIES</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a class="new" title="Seppel（页面不存在）">Seppel</a></td></tr>
+<tr><td id="2" class="infoYL"><b>02</b></td><td id="Never_Forget" colspan="2" class="title">Never Forget</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a class="new" title="Seppel（页面不存在）">Seppel</a></td></tr>
+<tr><td id="3" class="infoYL"><b>03</b></td><td id="LOST_WORLD" colspan="2" class="title">LOST WORLD</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a class="new" title="Seppel（页面不存在）">Seppel</a></td></tr>
+<tr><td id="4" class="infoYD"><b>04</b></td><td id="ONLY_YOU" colspan="2" class="title">ONLY YOU</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="Seppel（页面不存在）">Seppel</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./少女绮想曲_～_Capriccio.md" class="mw-redirect" title="少女綺想曲 ～ Dream Battle">少女綺想曲　～ Dream Battle</a></div><div class="source"><a href="./东方永夜抄.md" class="mw-redirect" title="东方永夜抄 ～ Imperishable Night.">东方永夜抄　～ Imperishable Night.</a></div></td></tr></tbody></table>
 
 
 ## 评论
-
-
-
 
 ---
 

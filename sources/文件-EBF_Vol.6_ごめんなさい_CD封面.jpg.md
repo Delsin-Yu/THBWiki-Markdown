@@ -1,6 +1,6 @@
 # 文件:EBF_Vol.6_ごめんなさい_CD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\14\ns6%3AEBF_Vol%2E6_%E3%81%94%E3%82%81%E3%82%93%E3%81%AA%E3%81%95%E3%81%84_CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\14\ns6%3AEBF_Vol%2E6_%E3%81%94%E3%82%81%E3%82%93%E3%81%AA%E3%81%95%E3%81%84_CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 SuganoMusic | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ SuganoMusic | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [EBF Vol.6 ごめんなさい CD](./EBF_Vol.6_ごめんなさい_CD.md)  
-该封面包含的角色：- [红美铃](./红美铃.md)
-
-
-
+- [EBF Vol.6 ごめんなさい CD](./EBF_Vol.6_ごめんなさい_CD.md)该封面包含的角色：
+- [红美铃](./红美铃.md)
 
 
 ---

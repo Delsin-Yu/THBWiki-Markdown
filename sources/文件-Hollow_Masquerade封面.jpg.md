@@ -1,6 +1,6 @@
 # 文件:Hollow_Masquerade封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\90\ns6%3AHollow_Masquerade%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\90\ns6%3AHollow_Masquerade%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 少女理論観測所
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Hollow Masquerade](./Hollow_Masquerade.md)  
-该封面包含的角色：- [秦心](./秦心.md)
+- [Hollow Masquerade](./Hollow_Masquerade.md)该封面包含的角色：
+- [秦心](./秦心.md)
 
   
-源地址：[[1]](https://static.wixstatic.com/media/bb1401_c37c397b167b43c4bebe6cf101fe5dec.jpg/v1/fill/w_600,h_595,al_c,q_80,usm_0.66_1.00_0.01/bb1401_c37c397b167b43c4bebe6cf101fe5dec.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://static.wixstatic.com/media/bb1401_c37c397b167b43c4bebe6cf101fe5dec.jpg/v1/fill/w_600,h_595,al_c,q_80,usm_0.66_1.00_0.01/bb1401_c37c397b167b43c4bebe6cf101fe5dec.jpg)  
 
 ---
 

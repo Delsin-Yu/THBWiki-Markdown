@@ -1,6 +1,6 @@
 # 文件:A_Lollypop_And_A_Bullet封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\36\ns6%3AA_Lollypop_And_A_Bullet%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\36\ns6%3AA_Lollypop_And_A_Bullet%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 MATILDA | 同人志封面 | 封面图片
 
@@ -8,11 +8,9 @@ MATILDA | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [A Lollypop And A Bullet](./A_Lollypop_And_A_Bullet.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [A Lollypop And A Bullet](./A_Lollypop_And_A_Bullet.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:MAZE_of_gradation封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\96\ns6%3AMAZE_of_gradation%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\96\ns6%3AMAZE_of_gradation%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 IRON_ATTACK! | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ IRON_ATTACK! | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [MAZE of gradation](./MAZE_of_gradation.md)  
-该封面包含的角色：- [键山雏](./键山雏.md)
-
-
-
+- [MAZE of gradation](./MAZE_of_gradation.md)该封面包含的角色：
+- [键山雏](./键山雏.md)
 
 
 ---

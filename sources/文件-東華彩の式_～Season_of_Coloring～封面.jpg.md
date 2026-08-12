@@ -1,6 +1,6 @@
 # 文件:東華彩の式_～Season_of_Coloring～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3b\ns6%3A%E6%9D%B1%E8%8F%AF%E5%BD%A9%E3%81%AE%E5%BC%8F_%EF%BD%9ESeason_of_Coloring%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3b\ns6%3A%E6%9D%B1%E8%8F%AF%E5%BD%A9%E3%81%AE%E5%BC%8F_%EF%BD%9ESeason_of_Coloring%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 华绢花 | 封面图片
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [東華彩の式 ～Season of Coloring～](./東華彩の式_～Season_of_Coloring～.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [梅蒂欣·梅兰可莉](./梅蒂欣·梅兰可莉.md)
-
-
-
+- [東華彩の式 ～Season of Coloring～](./東華彩の式_～Season_of_Coloring～.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [梅蒂欣·梅兰可莉](./梅蒂欣·梅兰可莉.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Instant（同人志）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c5\ns6%3AInstant%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c5\ns6%3AInstant%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Milksea | 同人志封面 | 封面图片
 
@@ -8,16 +8,11 @@ Milksea | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Instant（同人志）](./Instant（同人志）.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)
+- [Instant（同人志）](./Instant（同人志）.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
 
   
-源地址：[[1]](https://i241.photobucket.com/albums/ff240/milksea/01-31.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://i241.photobucket.com/albums/ff240/milksea/01-31.jpg)  
 
 ---
 

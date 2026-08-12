@@ -1,14 +1,11 @@
 # 文件:Interweave_Recordsbanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c5\ns6%3AInterweave_Recordsbanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c5\ns6%3AInterweave_Recordsbanner%2Egif.html -->
 
 Interweave_Records | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

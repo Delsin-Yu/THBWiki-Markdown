@@ -1,6 +1,6 @@
 # 文件:Summer_of_Noisy_Ravens封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e8\ns6%3ASummer_of_Noisy_Ravens%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e8\ns6%3ASummer_of_Noisy_Ravens%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 S／N_Ravens | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ S／N_Ravens | 专辑封面 | 封面图片
   
 
 - [Summer of Noisy Ravens](./Summer_of_Noisy_Ravens.md)
-
-
-
 
 
 ---

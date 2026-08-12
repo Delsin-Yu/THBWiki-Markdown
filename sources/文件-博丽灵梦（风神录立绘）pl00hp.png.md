@@ -1,12 +1,8 @@
 # 文件:博丽灵梦（风神录立绘）pl00hp.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c9\ns6%3A%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E9%A3%8E%E7%A5%9E%E5%BD%95%E7%AB%8B%E7%BB%98%EF%BC%89pl00hp%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c9\ns6%3A%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E9%A3%8E%E7%A5%9E%E5%BD%95%E7%AB%8B%E7%BB%98%EF%BC%89pl00hp%2Epng.html -->
 
 ZUN绘 | 东方风神录 | 博丽灵梦 | 官方游戏立绘
-
-
-
-
 
 
 ---

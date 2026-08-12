@@ -1,11 +1,10 @@
 # 東方幕華祭_～_Fantastic_Danmaku_Festival/其他
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\3\3f\ns0%3A%E6%9D%B1%E6%96%B9%E5%B9%95%E8%8F%AF%E7%A5%AD_%EF%BD%9E_Fantastic_Danmaku_Festival%2F%E5%85%B6%E4%BB%96.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\3\3f\ns0%3A%E6%9D%B1%E6%96%B9%E5%B9%95%E8%8F%AF%E7%A5%AD_%EF%BD%9E_Fantastic_Danmaku_Festival%2F%E5%85%B6%E4%BB%96.html -->
 
 东方幕华祭制作组 | 待完成页面
 
 <center>
-
 <table>
 <tbody><tr>
 <td class="mbox-image"><div style="width: 52px;">
@@ -14,9 +13,7 @@
 </tr>
 </tbody></table>
 
-
 </center>
-
 ## 难度标题及说明文字
 
 <table>
@@ -41,7 +38,6 @@
 <td>LUNATIC</td>
 <td><center><big>弹幕凶华的程度</big><br>LUNATIC MODE<br><small>打完这盘就去幻想乡</small>
 </center></td></tr></tbody></table>
-
 
 
 ## 关卡标题
@@ -80,10 +76,6 @@
 <td>Extra</td>
 <td>来玩吧！笼中鸟
 </td></tr></tbody></table>
-
-
-
-
 
 
 ---

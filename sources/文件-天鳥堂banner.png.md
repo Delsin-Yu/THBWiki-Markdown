@@ -1,12 +1,8 @@
 # 文件:天鳥堂banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2d\ns6%3A%E5%A4%A9%E9%B3%A5%E5%A0%82banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2d\ns6%3A%E5%A4%A9%E9%B3%A5%E5%A0%82banner%2Epng.html -->
 
 天鳥堂 | 社团LOGO
-
-
-
-
 
 
 ---

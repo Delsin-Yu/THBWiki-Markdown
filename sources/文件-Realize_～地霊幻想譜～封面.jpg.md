@@ -1,6 +1,6 @@
 # 文件:Realize_～地霊幻想譜～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\19\ns6%3ARealize_%EF%BD%9E%E5%9C%B0%E9%9C%8A%E5%B9%BB%E6%83%B3%E8%AD%9C%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\19\ns6%3ARealize_%EF%BD%9E%E5%9C%B0%E9%9C%8A%E5%B9%BB%E6%83%B3%E8%AD%9C%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 子猫夺回屋 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Realize ～地霊幻想譜～](./Realize_～地霊幻想譜～.md)  
-该封面包含的角色：- [灵乌路空](./灵乌路空.md)
-
-
-
+- [Realize ～地霊幻想譜～](./Realize_～地霊幻想譜～.md)该封面包含的角色：
+- [灵乌路空](./灵乌路空.md)
 
 
 ---

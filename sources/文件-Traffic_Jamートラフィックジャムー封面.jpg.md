@@ -1,6 +1,6 @@
 # 文件:Traffic_Jamートラフィックジャムー封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\26\ns6%3ATraffic_Jam%E3%83%BC%E3%83%88%E3%83%A9%E3%83%95%E3%82%A3%E3%83%83%E3%82%AF%E3%82%B8%E3%83%A3%E3%83%A0%E3%83%BC%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\26\ns6%3ATraffic_Jam%E3%83%BC%E3%83%88%E3%83%A9%E3%83%95%E3%82%A3%E3%83%83%E3%82%AF%E3%82%B8%E3%83%A3%E3%83%A0%E3%83%BC%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 GP-KIDS | 同人志封面 | 封面图片
 
@@ -10,16 +10,14 @@ GP-KIDS | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Traffic Jamートラフィックジャムー](./Traffic_Jamートラフィックジャムー.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [东风谷早苗](./东风谷早苗.md)- [雾雨魔理沙](./雾雨魔理沙.md)
+- [Traffic Jamートラフィックジャムー](./Traffic_Jamートラフィックジャムー.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [东风谷早苗](./东风谷早苗.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-[Pixiv artwork ID: 29133891](https://www.pixiv.net/artworks/29133891)
-  
-
-
-
-
+[Pixiv artwork ID: 29133891](https://www.pixiv.net/artworks/29133891)  
 
 ---
 

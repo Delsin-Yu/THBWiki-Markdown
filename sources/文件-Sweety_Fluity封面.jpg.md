@@ -1,6 +1,6 @@
 # 文件:Sweety_Fluity封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b2\ns6%3ASweety_Fluity%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b2\ns6%3ASweety_Fluity%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 狐の工作室
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Sweety Fluity](./Sweety_Fluity.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)
-
-
-
+- [Sweety Fluity](./Sweety_Fluity.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
 
 
 ---

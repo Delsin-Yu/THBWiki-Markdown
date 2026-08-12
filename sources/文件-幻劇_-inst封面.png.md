@@ -1,6 +1,6 @@
 # 文件:幻劇_-inst封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3f\ns6%3A%E5%B9%BB%E5%8A%87_-inst%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3f\ns6%3A%E5%B9%BB%E5%8A%87_-inst%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 亡郷夜行 | 封面图片
 
@@ -13,12 +13,7 @@
 - [幻劇 -inst](./幻劇_-inst.md)
 
   
-源地址：[direct image link (cropped from original)](https://pbs.twimg.com/media/FFIlgPdaQAA8gI0?format=jpg&amp;name=orig), [source tweet](https://twitter.com/inaba_kei1969/status/1464275341841604614)
-  
-
-
-
-
+源地址：[direct image link (cropped from original)](https://pbs.twimg.com/media/FFIlgPdaQAA8gI0?format=jpg&name=orig), [source tweet](https://twitter.com/inaba_kei1969/status/1464275341841604614)  
 
 ---
 

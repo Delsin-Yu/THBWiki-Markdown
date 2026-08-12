@@ -1,14 +1,11 @@
 # 文件:金魚オリジン_banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6f\ns6%3A%E9%87%91%E9%AD%9A%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%B3_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6f\ns6%3A%E9%87%91%E9%AD%9A%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%B3_banner%2Ejpg.html -->
 
 社团LOGO | 金魚オリジン
 
 
 ## 摘要
-
-
-
 
 ---
 

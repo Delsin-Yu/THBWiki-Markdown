@@ -1,6 +1,6 @@
 # 文件:2010博麗神社例大祭SP_SharpEight_新作デモCD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a8\ns6%3A2010%E5%8D%9A%E9%BA%97%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%ADSP_SharpEight_%E6%96%B0%E4%BD%9C%E3%83%87%E3%83%A2CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a8\ns6%3A2010%E5%8D%9A%E9%BA%97%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%ADSP_SharpEight_%E6%96%B0%E4%BD%9C%E3%83%87%E3%83%A2CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Sharp_Eight | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ Sharp_Eight | 专辑封面 | 封面图片
   
 
 - [2010博麗神社例大祭SP SharpEight 新作デモCD](./2010博麗神社例大祭SP_SharpEight_新作デモCD.md)
-
-
-
 
 
 ---

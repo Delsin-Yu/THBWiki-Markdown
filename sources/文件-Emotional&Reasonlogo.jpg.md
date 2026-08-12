@@ -1,18 +1,13 @@
 # 文件:Emotional&Reasonlogo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\52\ns6%3AEmotional%26Reasonlogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\52\ns6%3AEmotional%26Reasonlogo%2Ejpg.html -->
 
 Emotional&Reason | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[[1]](https://64.media.tumblr.com/ba76e2a1245af8c823d96cb73b82ed51/tumblr_mjfuc7oHcN1s856vbo1_1280.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://64.media.tumblr.com/ba76e2a1245af8c823d96cb73b82ed51/tumblr_mjfuc7oHcN1s856vbo1_1280.jpg)  
 
 ---
 

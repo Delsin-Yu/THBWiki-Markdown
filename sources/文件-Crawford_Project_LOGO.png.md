@@ -1,12 +1,8 @@
 # 文件:Crawford_Project_LOGO.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\97\ns6%3ACrawford_Project_LOGO%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\97\ns6%3ACrawford_Project_LOGO%2Epng.html -->
 
 Crawford_Project | 社团LOGO
-
-
-
-
 
 
 ---

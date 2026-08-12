@@ -1,6 +1,6 @@
 # 文件:-Club_RoSaC-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\88\ns6%3A-Club_RoSaC-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\88\ns6%3A-Club_RoSaC-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 -Room_of_Sound_and_Color- | 专辑封面 | 封面图片
 
@@ -10,19 +10,13 @@
 使用了本文件作封面图片的作品：
   
 
-- [-Club RoSaC-](./-Club_RoSaC-.md)  
-该封面包含的角色：- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
+- [-Club RoSaC-](./-Club_RoSaC-.md)该封面包含的角色：
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
 
   
-源地址：[direct image link (original size)](https://pbs.twimg.com/media/DlYJyU0U8AEvUsM?format=jpg&amp;name=orig), [source tweet](https://twitter.com/Minagi_Ichirino/status/1033025352824569858)
+源地址：[direct image link (original size)](https://pbs.twimg.com/media/DlYJyU0U8AEvUsM?format=jpg&name=orig), [source tweet](https://twitter.com/Minagi_Ichirino/status/1033025352824569858)  
   
-  
-[actual cover from suru for reference](https://www.suruga-ya.jp/product/detail/186131866)
-  
-
-
-
-
+[actual cover from suru for reference](https://www.suruga-ya.jp/product/detail/186131866)  
 
 ---
 

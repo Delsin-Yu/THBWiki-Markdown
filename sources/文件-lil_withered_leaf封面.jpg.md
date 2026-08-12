@@ -1,6 +1,6 @@
 # 文件:lil_withered_leaf封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\67\ns6%3Alil_withered_leaf%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\67\ns6%3Alil_withered_leaf%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Maison_white_sheep_admired. | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Maison_white_sheep_admired. | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [lil withered leaf](./lil_withered_leaf.md)  
-该封面包含的角色：- [蕾蒂·霍瓦特洛克](./蕾蒂·霍瓦特洛克.md)
-
-
-
+- [lil withered leaf](./lil_withered_leaf.md)该封面包含的角色：
+- [蕾蒂·霍瓦特洛克](./蕾蒂·霍瓦特洛克.md)
 
 
 ---

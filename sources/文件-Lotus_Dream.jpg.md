@@ -1,12 +1,8 @@
 # 文件:Lotus_Dream.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d3\ns6%3ALotus_Dream%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d3\ns6%3ALotus_Dream%2Ejpg.html -->
 
 Top绘 | ZUN绘 | 蓬莱少女绘幻想
-
-
-
-
 
 
 ---

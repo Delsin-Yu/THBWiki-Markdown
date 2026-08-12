@@ -1,13 +1,11 @@
 # Three_piece_night
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\1\17\ns0%3AThree_piece_night.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\1\17\ns0%3AThree_piece_night.html -->
 
 2016年3月21日 由 P.O.S.T. 于 东方骏河祭4 发布的EP同人专辑，曲目主要风格是 Rock，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人专辑 (未找到链接)** 的词条
-<center>
-
+**[二次创作同人专辑](./二次创作.md#同人音乐)**的词条<center>
 <table>
 <tbody><tr>
 <td class="mbox-image"><div style="width: 52px;">
@@ -16,43 +14,30 @@
 </tr>
 </tbody></table>
 
-
 </center>
-
 ## 专辑信息
 
-<table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=Three_piece_night%E5%B0%81%E9%9D%A2.jpg" class="new" title="文件:Three piece night封面.jpg">封面图片</a><div class="cover-char">角色：<a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰朵露·斯卡蕾特</a></div></td>
-</tr><tr><td class="label">名称</td><td colspan="2"> Three piece night </td></tr><tr><td class="label">制作方</td><td><a href="./P.O.S.T..md" title="P.O.S.T.">P.O.S.T.</a></td><td class="cover-artwork" rowspan="8" style="min-width:224px;"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=Three_piece_night%E5%B0%81%E9%9D%A2.jpg" class="new" title="文件:Three piece night封面.jpg">封面图片</a><div class="cover-char">角色：<a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰朵露·斯卡蕾特</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2016-03-21&#160;（<a href="/展会作品列表?e=%E4%B8%9C%E6%96%B9%E9%AA%8F%E6%B2%B3%E7%A5%AD%234">東方駿河祭・2016前编（第4幕）</a>）</td></tr><tr><td class="label">类型</td><td>EP</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>3</td></tr><tr><td class="label">总时长</td><td>00:00</td></tr><tr><td class="label">风格类型</td><td>Rock</td></tr><tr><td class="label">备注</td><td colspan="2">社团在<a href="/%E4%B8%9C%E6%96%B9%E7%94%B2%E5%B7%9E%E7%A5%AD#7" title="东方甲州祭">东方甲州祭・第7幕</a>上发布了该专辑的remastered版本</td></tr></tbody></table>
+<table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a class="new" title="文件:Three piece night封面.jpg">封面图片</a><div class="cover-char">角色：<a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰朵露·斯卡蕾特</a></div></td>
+</tr><tr><td class="label">名称</td><td colspan="2"> Three piece night </td></tr><tr><td class="label">制作方</td><td><a href="./P.O.S.T..md" title="P.O.S.T.">P.O.S.T.</a></td><td class="cover-artwork" rowspan="8" style="min-width:224px;"><a class="new" title="文件:Three piece night封面.jpg">封面图片</a><div class="cover-char">角色：<a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰朵露·斯卡蕾特</a></div></td>
+</tr><tr><td class="label">首发日期</td><td>2016-03-21 （<a href="./展会作品列表.md#4">東方駿河祭・2016前编（第4幕）</a>）</td></tr><tr><td class="label">类型</td><td>EP</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>3</td></tr><tr><td class="label">总时长</td><td>00:00</td></tr><tr><td class="label">风格类型</td><td>Rock</td></tr><tr><td class="label">备注</td><td colspan="2">社团在<a href="./东方甲州祭.md#7" title="东方甲州祭">东方甲州祭・第7幕</a>上发布了该专辑的remastered版本</td></tr></tbody></table>
 
 Three piece night（同人专辑，P.O.S.T.，2016） - 2016年3月21日 由 P.O.S.T. 于 东方骏河祭4 发布的EP同人专辑，曲目主要风格是 Rock，分级为 一般向
-
 ## Staff
 Design
 : 设计师 （[网址 社团]）
 Illustration
 : 画师 （[网址 社团]）
 
-
 ## 试听
-  
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/251359146&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=false"></iframe>
-
-  
-
 
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="info"><b>01</b></td><td id="世界の果てまでフランちゃん" colspan="2" class="title">世界の果てまでフランちゃん<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=U.N.オーエンは彼女なのか？&amp;fromwiki=Three_piece_night"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=U.N.オーエンは彼女なのか？&amp;fromwiki=Three_piece_night"><span></span></a></span><div class="ogmusic"><a href="./U.N.オーエンは彼女なのか？.md" class="mw-redirect" title="U.N.オーエンは彼女なのか？">U.N.オーエンは彼女なのか？</a></div><div class="source"><a href="./东方红魔乡_～_the_Embodiment_of_Scarlet_Devil..md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr>
-<tr><td id="2" class="info"><b>02</b></td><td id="えいやと！" colspan="2" class="title">えいやと！<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=狂気の瞳　～ Invisible Full Moon&amp;fromwiki=Three_piece_night"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=狂気の瞳　～ Invisible Full Moon&amp;fromwiki=Three_piece_night"><span></span></a></span><div class="ogmusic"><a href="./狂気の瞳_～_Invisible_Full_Moon.md" class="mw-redirect" title="狂気の瞳 ～ Invisible Full Moon">狂気の瞳　～ Invisible Full Moon</a></div><div class="source"><a href="./东方永夜抄_～_Imperishable_Night..md" class="mw-redirect" title="东方永夜抄 ～ Imperishable Night.">东方永夜抄　～ Imperishable Night.</a></div></td></tr>
-<tr><td id="3" class="info"><b>03</b></td><td id="星屑ウィッチ魔理沙～千葉県に住みたい～" colspan="2" class="title">星屑ウィッチ魔理沙～千葉県に住みたい～<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=恋色マスタースパーク&amp;fromwiki=Three_piece_night"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=恋色マスタースパーク&amp;fromwiki=Three_piece_night"><span></span></a></span><div class="ogmusic"><a href="./恋色マスタースパーク.md" class="mw-redirect" title="恋色マスタースパーク">恋色マスタースパーク</a></div><div class="source"><a href="./东方永夜抄_～_Imperishable_Night..md" class="mw-redirect" title="东方永夜抄 ～ Imperishable Night.">东方永夜抄　～ Imperishable Night.</a></div></td></tr></tbody></table>
-
+<table><tbody><tr><td id="1" class="info"><b>01</b></td><td id="世界の果てまでフランちゃん" colspan="2" class="title">世界の果てまでフランちゃん</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./U.N.OWEN就是她吗？.md" class="mw-redirect" title="U.N.オーエンは彼女なのか？">U.N.オーエンは彼女なのか？</a></div><div class="source"><a href="./东方红魔乡.md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr>
+<tr><td id="2" class="info"><b>02</b></td><td id="えいやと！" colspan="2" class="title">えいやと！</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./狂气之瞳_～_Invisible_Full_Moon.md" class="mw-redirect" title="狂気の瞳 ～ Invisible Full Moon">狂気の瞳　～ Invisible Full Moon</a></div><div class="source"><a href="./东方永夜抄.md" class="mw-redirect" title="东方永夜抄 ～ Imperishable Night.">东方永夜抄　～ Imperishable Night.</a></div></td></tr>
+<tr><td id="3" class="info"><b>03</b></td><td id="星屑ウィッチ魔理沙～千葉県に住みたい～" colspan="2" class="title">星屑ウィッチ魔理沙～千葉県に住みたい～</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./恋色Magic.md" class="mw-redirect" title="恋色マスタースパーク">恋色マスタースパーク</a></div><div class="source"><a href="./东方永夜抄.md" class="mw-redirect" title="东方永夜抄 ～ Imperishable Night.">东方永夜抄　～ Imperishable Night.</a></div></td></tr></tbody></table>
 
 
 ## 评论
-
-
-
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:東方インストEDM封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f3\ns6%3A%E6%9D%B1%E6%96%B9%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88EDM%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f3\ns6%3A%E6%9D%B1%E6%96%B9%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88EDM%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 SPACELECTRO | 专辑封面 | 封面图片
 
@@ -8,18 +8,13 @@ SPACELECTRO | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方インストEDM](./東方インストEDM.md)  
-该封面包含的角色：- [古明地觉](./古明地觉.md)
+- [東方インストEDM](./東方インストEDM.md)该封面包含的角色：
+- [古明地觉](./古明地觉.md)
 
 
 ## 文件说明
   
-源地址：[来源网页](https://soundcloud.com/specelectro/11-edm-spacelectro) [图片链接](https://i1.sndcdn.com/artworks-000078916788-cb4kv3-original.jpg)
-  
-
-
-
-
+源地址：[来源网页](https://soundcloud.com/specelectro/11-edm-spacelectro) [图片链接](https://i1.sndcdn.com/artworks-000078916788-cb4kv3-original.jpg)  
 
 ---
 

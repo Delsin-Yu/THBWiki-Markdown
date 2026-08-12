@@ -1,6 +1,6 @@
 # 文件:TOSX_TOKYO_at_clubasia封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4e\ns6%3ATOSX_TOKYO_at_clubasia%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4e\ns6%3ATOSX_TOKYO_at_clubasia%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 魂音泉
 
@@ -8,12 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [TOSX TOKYO at clubasia](./TOSX_TOKYO_at_clubasia.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md) 源地址：[[1]](https://pbs.twimg.com/media/ECoS239UIAIHR7W?format=png&amp;name=orig)
-
-
-
-
+- [TOSX TOKYO at clubasia](./TOSX_TOKYO_at_clubasia.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
+ 源地址：[\[1\]](https://pbs.twimg.com/media/ECoS239UIAIHR7W?format=png&name=orig)
 
 ---
 

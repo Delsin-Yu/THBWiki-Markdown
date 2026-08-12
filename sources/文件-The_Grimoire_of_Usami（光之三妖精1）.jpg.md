@@ -1,14 +1,11 @@
 # 文件:The_Grimoire_of_Usami（光之三妖精1）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8b\ns6%3AThe_Grimoire_of_Usami%EF%BC%88%E5%85%89%E4%B9%8B%E4%B8%89%E5%A6%96%E7%B2%BE1%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8b\ns6%3AThe_Grimoire_of_Usami%EF%BC%88%E5%85%89%E4%B9%8B%E4%B8%89%E5%A6%96%E7%B2%BE1%EF%BC%89%2Ejpg.html -->
 
 宇佐见的魔法书 | 斯塔萨菲雅 | 桑尼米尔克 | 露娜切露德
 
 
 ## 摘要
-
-
-
 
 ---
 

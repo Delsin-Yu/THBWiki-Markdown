@@ -1,6 +1,6 @@
 # 文件:東方合成雅懐_Demo_CD封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4c\ns6%3A%E6%9D%B1%E6%96%B9%E5%90%88%E6%88%90%E9%9B%85%E6%87%90_Demo_CD%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4c\ns6%3A%E6%9D%B1%E6%96%B9%E5%90%88%E6%88%90%E9%9B%85%E6%87%90_Demo_CD%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 俺は十進法を採用しました。 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方合成雅懐 Demo CD](./東方合成雅懐_Demo_CD.md)  
-该封面包含的角色：- [姬海棠果](./姬海棠果.md)
-
-
-
+- [東方合成雅懐 Demo CD](./東方合成雅懐_Demo_CD.md)该封面包含的角色：
+- [姬海棠果](./姬海棠果.md)
 
 
 ---

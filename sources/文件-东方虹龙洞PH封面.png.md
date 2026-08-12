@@ -1,6 +1,6 @@
 # 文件:东方虹龙洞PH封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a7\ns6%3A%E4%B8%9C%E6%96%B9%E8%99%B9%E9%BE%99%E6%B4%9EPH%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a7\ns6%3A%E4%B8%9C%E6%96%B9%E8%99%B9%E9%BE%99%E6%B4%9EPH%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 4胖子 | 封面图片 | 软件封面
 
@@ -10,9 +10,6 @@
   
 
 - [东方虹龙洞PH](./东方虹龙洞PH.md)
-
-
-
 
 
 ---

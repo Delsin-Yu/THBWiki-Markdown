@@ -1,6 +1,6 @@
 # 文件:無名の楽園_～_Piano_Arrange_Collection_Vol.1封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\64\ns6%3A%E7%84%A1%E5%90%8D%E3%81%AE%E6%A5%BD%E5%9C%92_%EF%BD%9E_Piano_Arrange_Collection_Vol%2E1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\64\ns6%3A%E7%84%A1%E5%90%8D%E3%81%AE%E6%A5%BD%E5%9C%92_%EF%BD%9E_Piano_Arrange_Collection_Vol%2E1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Yonder_Voice | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Yonder_Voice | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [無名の楽園 ～ Piano Arrange Collection Vol.1](./無名の楽園_～_Piano_Arrange_Collection_Vol.1.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [無名の楽園 ～ Piano Arrange Collection Vol.1](./無名の楽園_～_Piano_Arrange_Collection_Vol.1.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

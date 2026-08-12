@@ -1,38 +1,28 @@
 # Mono_Eye_～_Ironic_FATE
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\05\ns0%3AMono_Eye_%EF%BD%9E_Ironic_FATE.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\05\ns0%3AMono_Eye_%EF%BD%9E_Ironic_FATE.html -->
 
 JynX作曲 | Mono_Eye_～_Ironic_FATE | 引用了翻译表的页面 | 连缘Project | 连缘Project官方音乐
 
-本页是关于 **向[东方Project](./东方Project.md)  
-致敬、形式类似的作品** 的词条
-
+本页是关于**向[东方Project](./东方Project.md)致敬、形式类似的作品**  
+的词条
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 出现作品](#出现作品)
 - [3 音乐文件](#音乐文件)
-
   - [3.1 连缘蛇丛剑](#连缘蛇丛剑)
   - [3.2 连缘天影战记](#连缘天影战记)
 
 
-
 - [4 说明文本](#说明文本)
-
   - [4.1 连缘蛇丛剑](#连缘蛇丛剑_2)
   - [4.2 连缘天影战记](#连缘天影战记_2)
 
 
-
 - [5 其他资料](#其他资料)
-
   - [5.1 乐理资讯](#乐理资讯)
   - [5.2 分析考据](#分析考据)
-
-
-
-
 
 
 
@@ -61,7 +51,6 @@ JynX作曲 | Mono_Eye_～_Ironic_FATE | 引用了翻译表的页面 | 连缘Proj
 </td></tr></tbody></table>
 
 
-
 ## 出现作品
 
 <table>
@@ -71,7 +60,6 @@ JynX作曲 | Mono_Eye_～_Ironic_FATE | 引用了翻译表的页面 | 连缘Proj
 </tbody></table>
 
 
-
 ## 音乐文件
 
 ### 连缘蛇丛剑
@@ -79,17 +67,16 @@ JynX作曲 | Mono_Eye_～_Ironic_FATE | 引用了翻译表的页面 | 连缘Proj
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>MIDI格式</b></td><td>无播放信息</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-le02_16.mp3.md" title="文件:le02 16.mp3">le02_16.mp3</a><br><audio src="https://upload.thwiki.cc/c/c0/le02_16.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>未填写</td></tr></tbody></table>
 
 
-
 ### 连缘天影战记
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>MIDI格式</b></td><td>无播放信息</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-le04_BOSS_Saragimaru.mp3.md" title="文件:le04 BOSS Saragimaru.mp3">le04_BOSS_Saragimaru.mp3</a><br><audio src="https://upload.thwiki.cc/5/5e/le04_BOSS_Saragimaru.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>未填写</td></tr></tbody></table>
 
 
-
 ## 说明文本
 
 ### 连缘蛇丛剑
-- Music Room (未找到链接)
+
+- [Music Room](./连缘蛇丛剑～Earthen_Miraculous_Sword-Music.md#EXboss-徒云蛇穴丸主题曲)
 
 EX头目 徒云蛇穴丸的主题曲。  
 这曲子毫无stg氛围，至少称不上是ex boss曲。  
@@ -105,9 +92,9 @@ EX头目 徒云蛇穴丸的主题曲。
   
 自相矛盾地生存着的人，不可能没有两面性。  
 全是八嘎的故事中，正常人华丽地登场！
-
 ### 连缘天影战记
-- Music Room (未找到链接)
+
+- [Music Room](./连缘天影战记～Brilliant_pagoda_or_haze_castle-Music.md#中立线4面Boss-徒云蛇穴丸主题曲)
 
 四面BOSS蛇穴丸的曲子。  
   
@@ -118,40 +105,45 @@ EX头目 徒云蛇穴丸的主题曲。
 但从实力上来算可能差不多？  
   
 因为原来的曲子很长，花了一番功夫去缩短
-
 ## 其他资料
 
 ### 乐理资讯
 
 ### 分析考据
-- モノアイ
-  - Mono Eye
+
+- モノアイ 
+  - Mono Eye 
     - 单眼，由希腊语前缀“mono”（单一的）与英语“eye”（眼）拼合而成。为日式外来语，希腊语和英语中均无此用法。
-    - Eye
+    - Eye 
       - [蛇穴丸](./徒云蛇穴丸.md)是由眼（Eye）化成的妖怪
-      - 蛇之目是是日本常见的图纹，在日本气象中是阴天、雾霾的意思。
+      - 蛇之目是是日本常见的图纹，在日本气象中是阴天、雾霾的意思。 
         - 蛇穴丸有操纵阴天之类的能力
 
 
 
-  - モノ愛（mono + 愛）
+
+
+
+  - モノ愛（mono + 愛） 
     - 即单恋，指蛇穴丸对八尾吕智的恋情
 
-  - 物愛（もの + 愛）
+
+  - 物愛（もの + 愛） 
     - 指八尾吕智对蛇丛剑之爱。
 
 
-- Ironic FATE
+
+
+- Ironic FATE 
   - 意为讽刺的命运
   - 蛇穴丸为了让八尾吕智重拾希望，而又不解开蛇丛剑的封印，而向宿祢提交了委托，引发了本作的异变。但结果蛇丛剑把祂们之间的因缘斩断，两人难以相认。
   - 八尾吕智以为蛇丛剑复活，但最后发现这只是一个开瓶器。
 
 
+
 [^cite_note-1]: モノアイ（monoeye）：单眼，由希腊语前缀“mono”（单一的）与英语“eye”（眼）拼合而成。为日式外来语，希腊语和英语中均无此用法。
-
-
-
-
+[^cite_note-2]: モノアイ也可写作モノ愛（mono + 愛），即为单恋。
+[^cite_note-3]: モノアイ也可写作物愛（もの + 愛），指八尾吕智对蛇丛剑之爱。
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:天狗BEST封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\97\ns6%3A%E5%A4%A9%E7%8B%97BEST%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\97\ns6%3A%E5%A4%A9%E7%8B%97BEST%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 K2E†Cradle | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ K2E†Cradle | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [天狗BEST](./天狗BEST.md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)
-
-
-
+- [天狗BEST](./天狗BEST.md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
 
 
 ---

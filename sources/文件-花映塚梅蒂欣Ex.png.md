@@ -1,12 +1,8 @@
 # 文件:花映塚梅蒂欣Ex.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b1\ns6%3A%E8%8A%B1%E6%98%A0%E5%A1%9A%E6%A2%85%E8%92%82%E6%AC%A3Ex%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b1\ns6%3A%E8%8A%B1%E6%98%A0%E5%A1%9A%E6%A2%85%E8%92%82%E6%AC%A3Ex%2Epng.html -->
 
 东方花映塚 | 梅蒂欣·梅兰可莉
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Little_Devil_~吸血少女の憂鬱~封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\68\ns6%3ALittle_Devil_%7E%E5%90%B8%E8%A1%80%E5%B0%91%E5%A5%B3%E3%81%AE%E6%86%82%E9%AC%B1%7E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\68\ns6%3ALittle_Devil_%7E%E5%90%B8%E8%A1%80%E5%B0%91%E5%A5%B3%E3%81%AE%E6%86%82%E9%AC%B1%7E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 DPSの奴隷達 | 同人志封面 | 封面图片
 
@@ -8,11 +8,11 @@ DPSの奴隷達 | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Little Devil ~吸血少女の憂鬱~](./Little_Devil_~吸血少女の憂鬱~.md)  
-该封面包含的角色：- [红美铃](./红美铃.md)- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)- 十六夜咲夜 (未找到链接)- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
-
-
-
+- [Little Devil ~吸血少女の憂鬱~](./Little_Devil_~吸血少女の憂鬱~.md)该封面包含的角色：
+- [红美铃](./红美铃.md)
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
+- [十六夜咲夜](./十六夜咲夜.md)
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
 
 ---

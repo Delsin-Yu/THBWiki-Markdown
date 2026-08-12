@@ -1,6 +1,6 @@
 # 文件:TOHO_EUROBEAT_VOL.19_地霊殿封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5a\ns6%3ATOHO_EUROBEAT_VOL%2E19_%E5%9C%B0%E9%9C%8A%E6%AE%BF%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5a\ns6%3ATOHO_EUROBEAT_VOL%2E19_%E5%9C%B0%E9%9C%8A%E6%AE%BF%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 A-One | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ A-One | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [TOHO EUROBEAT VOL.19 地霊殿](./TOHO_EUROBEAT_VOL.19_地霊殿.md)  
-该封面包含的角色：- [古明地恋](./古明地恋.md)
-
-
-
+- [TOHO EUROBEAT VOL.19 地霊殿](./TOHO_EUROBEAT_VOL.19_地霊殿.md)该封面包含的角色：
+- [古明地恋](./古明地恋.md)
 
 
 ---

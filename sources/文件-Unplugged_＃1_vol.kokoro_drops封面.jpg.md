@@ -1,6 +1,6 @@
 # 文件:Unplugged_＃1_vol.kokoro_drops封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f3\ns6%3AUnplugged_%EF%BC%831_vol%2Ekokoro_drops%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f3\ns6%3AUnplugged_%EF%BC%831_vol%2Ekokoro_drops%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 overTuner | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ overTuner | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Unplugged ＃1 vol.kokoro drops](./Unplugged_＃1_vol.kokoro_drops.md)  
-该封面包含的角色：- [古明地觉](./古明地觉.md)
-
-
-
+- [Unplugged ＃1 vol.kokoro drops](./Unplugged_＃1_vol.kokoro_drops.md)该封面包含的角色：
+- [古明地觉](./古明地觉.md)
 
 
 ---

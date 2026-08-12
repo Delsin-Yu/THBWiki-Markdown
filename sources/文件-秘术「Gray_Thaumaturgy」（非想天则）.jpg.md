@@ -1,12 +1,8 @@
 # 文件:秘术「Gray_Thaumaturgy」（非想天则）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7a\ns6%3A%E7%A7%98%E6%9C%AF%E3%80%8CGray_Thaumaturgy%E3%80%8D%EF%BC%88%E9%9D%9E%E6%83%B3%E5%A4%A9%E5%88%99%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7a\ns6%3A%E7%A7%98%E6%9C%AF%E3%80%8CGray_Thaumaturgy%E3%80%8D%EF%BC%88%E9%9D%9E%E6%83%B3%E5%A4%A9%E5%88%99%EF%BC%89%2Ejpg.html -->
 
 东方非想天则 | 东风谷早苗 | 自机符卡
-
-
-
-
 
 
 ---

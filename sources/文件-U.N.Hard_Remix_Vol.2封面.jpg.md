@@ -1,6 +1,6 @@
 # 文件:U.N.Hard_Remix_Vol.2封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\91\ns6%3AU%2EN%2EHard_Remix_Vol%2E2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\91\ns6%3AU%2EN%2EHard_Remix_Vol%2E2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 じょべすたいる | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [U.N.Hard Remix Vol.2](./U.N.Hard_Remix_Vol.2.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
-
-
-
+- [U.N.Hard Remix Vol.2](./U.N.Hard_Remix_Vol.2.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
 
 ---

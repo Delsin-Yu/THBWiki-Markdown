@@ -1,6 +1,6 @@
 # 文件:SCARLET_PHENOMENON封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\60\ns6%3ASCARLET_PHENOMENON%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\60\ns6%3ASCARLET_PHENOMENON%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 秘教機械
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [SCARLET PHENOMENON](./SCARLET_PHENOMENON.md)  
-该封面包含的角色：- [胡桃](./胡桃.md)
-
-
-
+- [SCARLET PHENOMENON](./SCARLET_PHENOMENON.md)该封面包含的角色：
+- [胡桃](./胡桃.md)
 
 
 ---

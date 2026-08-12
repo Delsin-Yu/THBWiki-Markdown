@@ -1,6 +1,6 @@
 # 文件:TOUHOU_REMEMBER封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\35\ns6%3ATOUHOU_REMEMBER%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\35\ns6%3ATOUHOU_REMEMBER%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 淡麗
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [TOUHOU REMEMBER](./TOUHOU_REMEMBER.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
+- [TOUHOU REMEMBER](./TOUHOU_REMEMBER.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
   
-源地址：[direct image link (original size)](https://i1.sndcdn.com/artworks-000005241349-5y5a68-original.jpg), [source page (Soundcloud)](https://soundcloud.com/c3000/trcd-0002mix)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://i1.sndcdn.com/artworks-000005241349-5y5a68-original.jpg), [source page (Soundcloud)](https://soundcloud.com/c3000/trcd-0002mix)  
 
 ---
 

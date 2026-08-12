@@ -1,32 +1,26 @@
 # Akiha
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\49\ns0%3AAkiha.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\49\ns0%3AAkiha.html -->
 
 现实人物
 
 本页是关于东方Project  
- **二次同人创作者** 的词条
-
+**二次同人创作者**的词条
 ## 基本信息
 
-<table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="label"><b>名称</b></td><td> Akiha </td></tr><tr><td class="label"><b>所属社团</b></td><td><b>当前</b><div style="margin-left:2em;"><a href="./SUN-STYLE.md" title="SUN-STYLE">SUN-STYLE</a></div></td></tr><tr><td class="label"><b>职位</b></td><td>SUN-STYLE主催（现社团或因学业缘故休止）</td></tr><tr><td class="label"><b>性别</b></td><td>女</td></tr><tr><td class="label"><b>个人页面</b></td><td><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><b>Weibo</b></td><td><a rel="nofollow" class="external free" href="https://weibo.com/akiusagi?from=myfollow_all&amp;is_all=1">https://weibo.com/akiusagi?from=myfollow_all&amp;is_all=1</a></td></tr></tbody></table></td></tr></tbody></table>
+<table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="label"><b>名称</b></td><td> Akiha </td></tr><tr><td class="label"><b>所属社团</b></td><td><b>当前</b><div style="margin-left:2em;"><a href="./SUN-STYLE.md" title="SUN-STYLE">SUN-STYLE</a></div></td></tr><tr><td class="label"><b>职位</b></td><td>SUN-STYLE主催（现社团或因学业缘故休止）</td></tr><tr><td class="label"><b>性别</b></td><td>女</td></tr><tr><td class="label"><b>个人页面</b></td><td><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><b>Weibo</b></td><td><a rel="nofollow" class="external free" href="https://weibo.com/akiusagi?from=myfollow_all&is_all=1">https://weibo.com/akiusagi?from=myfollow_all&is_all=1</a></td></tr></tbody></table></td></tr></tbody></table>
 
 Akiha（人物） - 现实人物
-
 ## 介绍
   
 非常可爱滴妹子一枚！目前于美国留学
   
-
 
 ## 参与作品
 
 ### 同人音乐
 
 ## 人际关系
-
-
-
 
 ---
 

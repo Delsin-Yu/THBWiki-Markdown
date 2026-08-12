@@ -1,6 +1,6 @@
 # 文件:chiptunion_-DemoVersion-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fb\ns6%3Achiptunion_-DemoVersion-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fb\ns6%3Achiptunion_-DemoVersion-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 悦楽舎
 
@@ -11,9 +11,6 @@
   
 
 - [chiptunion -DemoVersion-](./chiptunion_-DemoVersion-.md)
-
-
-
 
 
 ---

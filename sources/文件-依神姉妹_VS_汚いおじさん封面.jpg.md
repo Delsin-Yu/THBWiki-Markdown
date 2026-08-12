@@ -1,6 +1,6 @@
 # 文件:依神姉妹_VS_汚いおじさん封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e9\ns6%3A%E4%BE%9D%E7%A5%9E%E5%A7%89%E5%A6%B9_VS_%E6%B1%9A%E3%81%84%E3%81%8A%E3%81%98%E3%81%95%E3%82%93%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e9\ns6%3A%E4%BE%9D%E7%A5%9E%E5%A7%89%E5%A6%B9_VS_%E6%B1%9A%E3%81%84%E3%81%8A%E3%81%98%E3%81%95%E3%82%93%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 EYE_SPLICE | げるまにうむ | 同人志封面 | 封面图片
 
@@ -10,11 +10,9 @@ EYE_SPLICE | げるまにうむ | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [依神姉妹 VS 汚いおじさん](./依神姉妹_VS_汚いおじさん.md)  
-该封面包含的角色：- [依神女苑](./依神女苑.md)- [依神紫苑](./依神紫苑.md)
-
-
-
+- [依神姉妹 VS 汚いおじさん](./依神姉妹_VS_汚いおじさん.md)该封面包含的角色：
+- [依神女苑](./依神女苑.md)
+- [依神紫苑](./依神紫苑.md)
 
 
 ---

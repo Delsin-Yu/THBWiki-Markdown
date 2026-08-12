@@ -1,16 +1,12 @@
 # 模板:LUNATIC_FESTIVAL
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\e\ec\ns10%3ALUNATIC_FESTIVAL.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\e\ec\ns10%3ALUNATIC_FESTIVAL.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

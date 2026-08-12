@@ -1,6 +1,6 @@
 # 文件:Toho_Jazz_Connection_Vol.2封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5c\ns6%3AToho_Jazz_Connection_Vol%2E2%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5c\ns6%3AToho_Jazz_Connection_Vol%2E2%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Baguettes_Ensemble | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ Baguettes_Ensemble | 专辑封面 | 封面图片
   
 
 - [Toho Jazz Connection Vol.2](./Toho_Jazz_Connection_Vol.2.md)
-
-
-
 
 
 ---

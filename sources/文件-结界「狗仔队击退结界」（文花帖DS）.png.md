@@ -1,12 +1,8 @@
 # 文件:结界「狗仔队击退结界」（文花帖DS）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\54\ns6%3A%E7%BB%93%E7%95%8C%E3%80%8C%E7%8B%97%E4%BB%94%E9%98%9F%E5%87%BB%E9%80%80%E7%BB%93%E7%95%8C%E3%80%8D%EF%BC%88%E6%96%87%E8%8A%B1%E5%B8%96DS%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\54\ns6%3A%E7%BB%93%E7%95%8C%E3%80%8C%E7%8B%97%E4%BB%94%E9%98%9F%E5%87%BB%E9%80%80%E7%BB%93%E7%95%8C%E3%80%8D%EF%BC%88%E6%96%87%E8%8A%B1%E5%B8%96DS%EF%BC%89%2Epng.html -->
 
 东方文花帖DS | 博丽灵梦 | 敌机符卡
-
-
-
-
 
 
 ---

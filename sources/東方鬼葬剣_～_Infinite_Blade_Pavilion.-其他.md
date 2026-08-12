@@ -1,6 +1,6 @@
 # 東方鬼葬剣_～_Infinite_Blade_Pavilion./其他
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\1\1e\ns0%3A%E6%9D%B1%E6%96%B9%E9%AC%BC%E8%91%AC%E5%89%A3_%EF%BD%9E_Infinite_Blade_Pavilion%2E%2F%E5%85%B6%E4%BB%96.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\1\1e\ns0%3A%E6%9D%B1%E6%96%B9%E9%AC%BC%E8%91%AC%E5%89%A3_%EF%BD%9E_Infinite_Blade_Pavilion%2E%2F%E5%85%B6%E4%BB%96.html -->
 
 東方邪星章製作チーム
 
@@ -43,13 +43,13 @@
 </td></tr>
 <tr>
 <td>LUNATIC</td>
-<td><center><big>山铜级</big><br>LUNATIC MODE<br><small>不断！不碎！不悔！<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">1</a></sup>如想挑战我们不负任何责任</small></center></td>
+<td><center><big>山铜级</big><br>LUNATIC MODE<br><small>不断！不碎！不悔！<span>[^cite_note-1]</span>如想挑战我们不负任何责任</small></center></td>
 <td><center><big>オリハルコン級</big><br>LUNATIC MODE<br><small>折れぬ！砕けぬ！省みぬ！挑戦は自己責任でお願いします。</small></center>
 </td></tr>
 <tr>
 <td>EXTRA</td>
 <td><center><big>绯绯色金级</big><br>EXTRA MODE<br><small>不要啊！你真的要玩这个么？</small></center></td>
-<td><center><big>ヒヒイロカネ級</big><br>EXTRA MODE<br><small>やめときな！気がふれるぜ！？<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">2</a></sup></small></center>
+<td><center><big>ヒヒイロカネ級</big><br>EXTRA MODE<br><small>やめときな！気がふれるぜ！？<span>[^cite_note-2]</span></small></center>
 </td></tr>
 <tr>
 <td>Practice Start</td>
@@ -83,12 +83,8 @@
 </td></tr>
 </tbody></table>
 
-
 [^cite_note-1]: 北斗神拳中南斗圣帝撒奥瑟的名言「退かぬ! 媚びぬ! 省みぬ!」（不退！不降！不悔！）和北斗拳王拉欧的名言「拳王の肉体は砕けぬ！折れぬ！朽ちぬ！」（拳王的肉体是打不碎！折不断！不朽的！）的结合。
-
-
-
-
+[^cite_note-2]: [红魔乡](./东方红魔乡-其他.md)同款EX关卡描述
 
 ---
 

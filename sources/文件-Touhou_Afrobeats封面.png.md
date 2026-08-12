@@ -1,6 +1,6 @@
 # 文件:Touhou_Afrobeats封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f8\ns6%3ATouhou_Afrobeats%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f8\ns6%3ATouhou_Afrobeats%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Quark | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@ Quark | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Touhou Afrobeats](./Touhou_Afrobeats.md)  
-该封面包含的角色：- [古明地恋](./古明地恋.md)
+- [Touhou Afrobeats](./Touhou_Afrobeats.md)该封面包含的角色：
+- [古明地恋](./古明地恋.md)
 
   
-源地址：[direct image link (original uploaded image)](https://pbs.twimg.com/media/FRV5AsPacAEKtkh?format=png&amp;name=orig), [source tweet](https://twitter.com/akgm3i/status/1519256205717569537)
-  
-
-
-
-
+源地址：[direct image link (original uploaded image)](https://pbs.twimg.com/media/FRV5AsPacAEKtkh?format=png&name=orig), [source tweet](https://twitter.com/akgm3i/status/1519256205717569537)  
 
 ---
 

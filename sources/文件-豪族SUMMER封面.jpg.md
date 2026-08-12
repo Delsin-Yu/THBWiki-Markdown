@@ -1,6 +1,6 @@
 # 文件:豪族SUMMER封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\63\ns6%3A%E8%B1%AA%E6%97%8FSUMMER%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\63\ns6%3A%E8%B1%AA%E6%97%8FSUMMER%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 雨洩り宿
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [豪族SUMMER](./豪族SUMMER.md)  
-该封面包含的角色：- [物部布都](./物部布都.md)
-
-
-
+- [豪族SUMMER](./豪族SUMMER.md)该封面包含的角色：
+- [物部布都](./物部布都.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:叛弾奏結界_正邪受難曲_Passion_of_Mutiny封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\da\ns6%3A%E5%8F%9B%E5%BC%BE%E5%A5%8F%E7%B5%90%E7%95%8C_%E6%AD%A3%E9%82%AA%E5%8F%97%E9%9B%A3%E6%9B%B2_Passion_of_Mutiny%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\da\ns6%3A%E5%8F%9B%E5%BC%BE%E5%A5%8F%E7%B5%90%E7%95%8C_%E6%AD%A3%E9%82%AA%E5%8F%97%E9%9B%A3%E6%9B%B2_Passion_of_Mutiny%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 dBu_music | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ dBu_music | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [叛弾奏結界 正邪受難曲 Passion of Mutiny](./叛弾奏結界_正邪受難曲_Passion_of_Mutiny.md)  
-该封面包含的角色：- [鬼人正邪](./鬼人正邪.md)
+- [叛弾奏結界 正邪受難曲 Passion of Mutiny](./叛弾奏結界_正邪受難曲_Passion_of_Mutiny.md)该封面包含的角色：
+- [鬼人正邪](./鬼人正邪.md)
 
   
-源地址：[[1]](https://pbs.twimg.com/media/ConEpc-UEAAefWH.jpg:large)
-  
-
-
-
-
+源地址：[\[1\]](https://pbs.twimg.com/media/ConEpc-UEAAefWH.jpg:large)  
 
 ---
 

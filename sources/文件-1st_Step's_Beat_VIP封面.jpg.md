@@ -1,6 +1,6 @@
 # 文件:1st_Step's_Beat_VIP封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\20\ns6%3A1st_Step%27s_Beat_VIP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\20\ns6%3A1st_Step%27s_Beat_VIP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Illusionary_Projections | 专辑封面 | 封面图片
 
@@ -10,11 +10,12 @@ Illusionary_Projections | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [1st Step's Beat VIP](./1st_Step's_Beat_VIP.md)  
-该封面包含的角色：- [多多良小伞](./多多良小伞.md)- [物部布都](./物部布都.md)- [茨木华扇](./茨木华扇.md)- [依神女苑](./依神女苑.md)- [依神紫苑](./依神紫苑.md)
-
-
-
+- [1st Step's Beat VIP](./1st_Step's_Beat_VIP.md)该封面包含的角色：
+- [多多良小伞](./多多良小伞.md)
+- [物部布都](./物部布都.md)
+- [茨木华扇](./茨木华扇.md)
+- [依神女苑](./依神女苑.md)
+- [依神紫苑](./依神紫苑.md)
 
 
 ---

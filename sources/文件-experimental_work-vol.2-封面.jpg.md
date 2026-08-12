@@ -1,6 +1,6 @@
 # 文件:experimental_work-vol.2-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f8\ns6%3Aexperimental_work-vol%2E2-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f8\ns6%3Aexperimental_work-vol%2E2-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 circle-rw | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ circle-rw | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [experimental work-vol.2-](./experimental_work-vol.2-.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
+- [experimental work-vol.2-](./experimental_work-vol.2-.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-源地址：[[1]](https://pbs.twimg.com/media/C-5V2btXUAAJjEy.jpg:large)
-  
-
-
-
-
+源地址：[\[1\]](https://pbs.twimg.com/media/C-5V2btXUAAJjEy.jpg:large)  
 
 ---
 

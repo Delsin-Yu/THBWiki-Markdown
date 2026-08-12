@@ -1,37 +1,26 @@
 # World_With_Me
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\a\ac\ns0%3AWorld_With_Me.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\a\ac\ns0%3AWorld_With_Me.html -->
 
 2011年5月8日 由 EnHANCE HEART 于 博丽神社例大祭8 发布的画集同人志，登场人物有 魂魄妖梦、小野塚小町、风见幽香，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人志 (未找到链接)** 的词条
-
+**[二次创作同人志](./二次创作.md#同人志)**的词条
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-World_With_Me封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/d/df/World_With_Me%E5%B0%81%E9%9D%A2.jpg/99px-World_With_Me%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="99" height="140" srcset="https://upload.thwiki.cc/thumb/d/df/World_With_Me%E5%B0%81%E9%9D%A2.jpg/148px-World_With_Me%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/d/df/World_With_Me%E5%B0%81%E9%9D%A2.jpg/197px-World_With_Me%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="282" data-file-height="400"></a><div class="cover-char">角色：<a href="./魂魄妖梦.md" title="魂魄妖梦">魂魄妖梦</a></div></td>
 </tr><tr><td class="label">名称</td><td colspan="2"> World With Me </td></tr><tr><td class="label">制作方</td><td><a href="./EnHANCE_HEART.md" title="EnHANCE HEART">EnHANCE HEART</a></td><td class="cover-artwork" rowspan="5" style="min-width:140px;"><a href="./文件-World_With_Me封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/d/df/World_With_Me%E5%B0%81%E9%9D%A2.jpg/99px-World_With_Me%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="99" height="140" srcset="https://upload.thwiki.cc/thumb/d/df/World_With_Me%E5%B0%81%E9%9D%A2.jpg/148px-World_With_Me%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/d/df/World_With_Me%E5%B0%81%E9%9D%A2.jpg/197px-World_With_Me%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="282" data-file-height="400"></a><div class="cover-char">角色：<a href="./魂魄妖梦.md" title="魂魄妖梦">魂魄妖梦</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2011-05-08&#160;（<a href="/展会作品列表?e=%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD%238">第八回 博麗神社例大祭</a>）</td></tr><tr><td class="label">类型</td><td>画集</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">登场人物</td><td><a href="./魂魄妖梦.md" title="魂魄妖梦">魂魄妖梦</a>，<a href="./小野塚小町.md" title="小野塚小町">小野塚小町</a>，<a href="./风见幽香.md" title="风见幽香">风见幽香</a></td></tr>
+</tr><tr><td class="label">首发日期</td><td>2011-05-08 （<a href="./展会作品列表.md#8">第八回 博麗神社例大祭</a>）</td></tr><tr><td class="label">类型</td><td>画集</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">登场人物</td><td><a href="./魂魄妖梦.md" title="魂魄妖梦">魂魄妖梦</a>，<a href="./小野塚小町.md" title="小野塚小町">小野塚小町</a>，<a href="./风见幽香.md" title="风见幽香">风见幽香</a></td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.voldenuit.info/同人誌2/">https://www.voldenuit.info/%E5%90%8C%E4%BA%BA%E8%AA%8C2/</a></td></tr></tbody></table>
 
 World With Me（同人志，EnHANCE HEART，2011） - 2011年5月8日 由 EnHANCE HEART 于 博丽神社例大祭8 发布的画集同人志，登场人物有 魂魄妖梦、小野塚小町、风见幽香，分级为 一般向
-
 ## Staff
 : [六羽田トモエ](./六羽田トモエ.md)
-
 
 ## 评论
   
 妖夢、小町、幽香等のイラストを収録
   
-  
-  
-
-  
-
-
-
-
 
 ---
 

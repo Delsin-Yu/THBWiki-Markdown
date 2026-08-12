@@ -1,6 +1,6 @@
 # 文件:RAINMAKER_(2)_風の又三郎封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\23\ns6%3ARAINMAKER_%282%29_%E9%A2%A8%E3%81%AE%E5%8F%88%E4%B8%89%E9%83%8E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\23\ns6%3ARAINMAKER_%282%29_%E9%A2%A8%E3%81%AE%E5%8F%88%E4%B8%89%E9%83%8E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 雨山電信社
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [RAINMAKER (2) 風の又三郎](./RAINMAKER_(2)_風の又三郎.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [RAINMAKER (2) 風の又三郎](./RAINMAKER_(2%29_風の又三郎.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

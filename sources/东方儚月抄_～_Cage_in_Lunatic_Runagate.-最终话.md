@@ -1,44 +1,34 @@
 # 东方儚月抄_～_Cage_in_Lunatic_Runagate./最终话
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\01\ns0%3A%E4%B8%9C%E6%96%B9%E5%84%9A%E6%9C%88%E6%8A%84_%EF%BD%9E_Cage_in_Lunatic_Runagate%2E%2F%E6%9C%80%E7%BB%88%E8%AF%9D.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\01\ns0%3A%E4%B8%9C%E6%96%B9%E5%84%9A%E6%9C%88%E6%8A%84_%EF%BD%9E_Cage_in_Lunatic_Runagate%2E%2F%E6%9C%80%E7%BB%88%E8%AF%9D.html -->
 
 东方儚月抄_～_Cage_in_Lunatic_Runagate.
 
 <center>
-
 <table>
 <tbody><tr>
-<td>&lt;
+<td><
 </td>
-<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./东方儚月抄_～_Cage_in_Lunatic_Runagate.-第七话.md" title="东方儚月抄 ～ Cage in Lunatic Runagate./第七话">第七话</a>&#160;
+<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./东方儚月抄_～_Cage_in_Lunatic_Runagate.-第七话.md" title="东方儚月抄 ～ Cage in Lunatic Runagate./第七话">第七话</a> 
 </td>
-<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="./东方儚月抄_～_Cage_in_Lunatic_Runagate..md" title="东方儚月抄 ～ Cage in Lunatic Runagate.">东方儚月抄 ～ Cage in Lunatic Runagate.</a>&#160;
+<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;"> <a href="./东方儚月抄_～_Cage_in_Lunatic_Runagate..md" title="东方儚月抄 ～ Cage in Lunatic Runagate.">东方儚月抄 ～ Cage in Lunatic Runagate.</a> 
 </td>
-<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left">&#160;<a href="./东方儚月抄_～_Cage_in_Lunatic_Runagate.-后记.md" title="东方儚月抄 ～ Cage in Lunatic Runagate./后记">后记</a>
+<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left"> <a href="./东方儚月抄_～_Cage_in_Lunatic_Runagate.-后记.md" title="东方儚月抄 ～ Cage in Lunatic Runagate./后记">后记</a>
 </td>
-<td>&gt;
+<td>>
 </td></tr></tbody></table>
 
   
 </center>
-- 本词条为中文翻译版，如需要日文对照请参见 **[中日对照](./东方儚月抄_～_Cage_in_Lunatic_Runagate.-最终话-中日对照.md)** 
+- 本词条为中文翻译版，如需要日文对照请参见**[中日对照](./东方儚月抄_～_Cage_in_Lunatic_Runagate.-最终话-中日对照.md)**
 - 本话连载时间：前半部分连载于2009年3月25日，Chara☆Mel Vol.8；后半部分连载于2009年6月25日，Chara☆Mel Vol.9
 - 本话于单行本中页数：160-187
 - 连载版分为前后两篇连载，而在单行本中则合并为一话
 
-  
-  
-
-  
-
-[](./文件-儚月抄小说封面8-1.jpg.md)  [](./文件-儚月抄小说封面8-1.jpg.md)
-  
- **<big><big>最终话 两个望乡 前篇</big></big>**   
-
-<big>被留在月之都的灵梦　她独自想的是什么——。</big>
-  
-
-
+<img alt="儚月抄小说封面8-1.jpg" src="https://upload.thwiki.cc/thumb/3/39/%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E5%B0%81%E9%9D%A28-1.jpg/200px-%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E5%B0%81%E9%9D%A28-1.jpg" decoding="async" loading="lazy" width="200" height="282" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/3/39/%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E5%B0%81%E9%9D%A28-1.jpg/300px-%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E5%B0%81%E9%9D%A28-1.jpg 1.5x, https://upload.thwiki.cc/thumb/3/39/%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E5%B0%81%E9%9D%A28-1.jpg/400px-%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E5%B0%81%E9%9D%A28-1.jpg 2x" data-file-width="1418" data-file-height="2000">
+ [放大](./文件-儚月抄小说封面8-1.jpg.md)  
+**<big><big>最终话 两个望乡 前篇</big></big>**  
+<big>被留在月之都的灵梦 她独自想的是什么——。</big>  
   
 　　如果是平时的话，这里是年迈的自称棋士们的社交场，往来人流如织。  
 
@@ -117,11 +107,10 @@
 　　灵梦嘟起了嘴。  
 
 　　——从巨大的东洋房屋的窗子向外看去，能看到桃树。  
-
   
 
-　　窗户上没有装玻璃类的东西。虽然就这么开着，但却没有虫子进入。还是说到底，像虫子这样蒙昧的生物在月之都根本不存在吗。就连温度也常保持着适温。[](./文件-儚月抄小说插图8-1.png.md)  [](./文件-儚月抄小说插图8-1.png.md)  
-
+　　窗户上没有装玻璃类的东西。虽然就这么开着，但却没有虫子进入。还是说到底，像虫子这样蒙昧的生物在月之都根本不存在吗。就连温度也常保持着适温。<img alt="儚月抄小说插图8-1.png" src="https://upload.thwiki.cc/thumb/2/2f/%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE8-1.png/200px-%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE8-1.png" decoding="async" loading="lazy" width="200" height="142" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/2/2f/%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE8-1.png/300px-%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE8-1.png 1.5x, https://upload.thwiki.cc/thumb/2/2f/%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE8-1.png/400px-%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE8-1.png 2x" data-file-width="2169" data-file-height="1544">
+ [放大](./文件-儚月抄小说插图8-1.png.md)  
   
 　　研究者能够埋头于自己的研究中，对可能存在的理想进行辩论。没有衣食的困扰，也不需要为死亡而恐惧，能够永永远远地从事研究。  
 
@@ -155,20 +144,19 @@
 
 　　「你为什么役使住吉三神来到月球上呢。希望你能告知其中的原委。」  
 
-&#160;&#160;&#160;&#160;「嗯？　嗯——说起来为什么会发展成这种情况？」  
+    「嗯？　嗯——说起来为什么会发展成这种情况？」  
 
 　　灵梦放下了筷子，回想着到月球为止所发生的事。  
 
 　　首先，说想到月亮上来的是蕾米莉亚。一切的开始是她邂逅了住在竹林里的月之民，从而对月亮上的都市产生了兴趣，想要自己到月亮上看看。然后经过一年的时间，终于造出了可以登月的火箭。  
 
-&#160;&#160;&#160;&#160;灵梦对此并没有什么兴趣。因为她认为无论如何也不可能前往月之都。但是，如果能去就是另外的话题了。果然她也希望能亲自去瞧瞧。  
+    灵梦对此并没有什么兴趣。因为她认为无论如何也不可能前往月之都。但是，如果能去就是另外的话题了。果然她也希望能亲自去瞧瞧。  
 
 　　蕾米莉亚也请灵梦帮了不少忙。虽然说是蕾米莉亚倒不如说是咲夜，问她要制造火箭用的材料。  
-
   
 
-　　「火箭材料什么尽是些我不知道的东西呢。拿着什么干鳖壳跳舞什么的。那样怎么想也不可能登上月球吧？吸血鬼说是活了五百年，脑子还是不灵光呢。」[](./文件-儚月抄小说插图8-2.png.md)  [](./文件-儚月抄小说插图8-2.png.md)  
-
+　　「火箭材料什么尽是些我不知道的东西呢。拿着什么干鳖壳跳舞什么的。那样怎么想也不可能登上月球吧？吸血鬼说是活了五百年，脑子还是不灵光呢。」<img alt="儚月抄小说插图8-2.png" src="https://upload.thwiki.cc/thumb/d/d4/%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE8-2.png/200px-%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE8-2.png" decoding="async" loading="lazy" width="200" height="245" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/d/d4/%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE8-2.png/300px-%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE8-2.png 1.5x, https://upload.thwiki.cc/thumb/d/d4/%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE8-2.png/400px-%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE8-2.png 2x" data-file-width="1185" data-file-height="1449">
+ [放大](./文件-儚月抄小说插图8-2.png.md)  
   
 　　灵梦一副来劲了的样子向两人征求同意。  
 
@@ -261,11 +249,10 @@
 　　夜晚的神社，柳树下，曾经人声鼎沸的废校遗迹，废医院……要是熟悉的人的话，即使在白天，也能在街道或者在自己的家里等各处地方看到。  
 
 　　那是亡灵。  
-
   
 
-　　但是绵月姐妹完全没有注意到从窗边窥探的亡灵。也许是因为月之都不存在亡灵吧。[](./文件-儚月抄小说插图8-3.png.md)  [](./文件-儚月抄小说插图8-3.png.md)  
-
+　　但是绵月姐妹完全没有注意到从窗边窥探的亡灵。也许是因为月之都不存在亡灵吧。<img alt="儚月抄小说插图8-3.png" src="https://upload.thwiki.cc/thumb/c/c8/%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE8-3.png/200px-%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE8-3.png" decoding="async" loading="lazy" width="200" height="141" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/c/c8/%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE8-3.png/300px-%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE8-3.png 1.5x, https://upload.thwiki.cc/thumb/c/c8/%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE8-3.png/400px-%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE8-3.png 2x" data-file-width="2012" data-file-height="1420">
+ [放大](./文件-儚月抄小说插图8-3.png.md)  
   
 　　「幽幽子大人，为什么灵梦会在这里？」  
 
@@ -308,21 +295,16 @@
 　　不，这绝非偶然，任谁都可以一目了然。这是某个妖怪——八云紫所一手导演的。  
 
 　　平安潜入月之都的亡灵采取了什么行动呢。  
-
   
 
-　　那会对紫的计划的结果产生什么影响吗，究竟。[](./文件-儚月抄小说封面8-2.jpg.md)  [](./文件-儚月抄小说封面8-2.jpg.md)  
-
+　　那会对紫的计划的结果产生什么影响吗，究竟。<img alt="儚月抄小说封面8-2.jpg" src="https://upload.thwiki.cc/thumb/3/3c/%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E5%B0%81%E9%9D%A28-2.jpg/200px-%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E5%B0%81%E9%9D%A28-2.jpg" decoding="async" loading="lazy" width="200" height="280" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/3/3c/%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E5%B0%81%E9%9D%A28-2.jpg/300px-%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E5%B0%81%E9%9D%A28-2.jpg 1.5x, https://upload.thwiki.cc/thumb/3/3c/%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E5%B0%81%E9%9D%A28-2.jpg/400px-%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E5%B0%81%E9%9D%A28-2.jpg 2x" data-file-width="1430" data-file-height="2000">
+ [放大](./文件-儚月抄小说封面8-2.jpg.md)  
   
   
-
- *（在连载版中，本话从这里分为了前后两篇）*   
-
+*（在连载版中，本话从这里分为了前后两篇）*  
   
-
- **<big><big>最终话 两个望乡 后篇</big></big>**   
+**<big><big>最终话 两个望乡 后篇</big></big>**  
 <big>第二次月面战争完全结束！紫那浮出水面的意图是——</big>  
-
   
 
 　　——存在于幻想乡的境界的神社。  
@@ -333,7 +315,7 @@
 
 　　只是因为没人住着，建筑物一下子就显得十分衰败。这样一来就会自然地回归了废墟状态。  
 
-&#160;&#160;&#160;&#160;不知是不是想要抗拒这样的风化，有人踏着落叶，踢着薄薄的白粉而来。  
+    不知是不是想要抗拒这样的风化，有人踏着落叶，踢着薄薄的白粉而来。  
 
 　　「今天好像也没来呢。」  
 
@@ -367,7 +349,7 @@
 
 　　这也是吸血鬼所特有的回礼。因为她们能够如愿以偿地到达月亮上，都是多亏了巫女的帮忙。所以吸血鬼们准备在灵梦回来之前造一个海，等她回来以后邀请她过来玩。  
 
-&#160;&#160;&#160;&#160;在幻想乡中没有的海。准备了这个的话人类就会高兴，她是这样想的。  
+    在幻想乡中没有的海。准备了这个的话人类就会高兴，她是这样想的。  
 
 　　她听到巫女已经回来了，是自那以后过了数日的事了。  
 
@@ -382,11 +364,11 @@
 　　「话说明明这么冷，却玩水。啊ー啊，月之都好温暖的说。想不到神社竟然这么冷……」  
 
 　　「没人住的话，建筑物好像会一口气冷下去呐。怎么说呢，总觉得人类拥有能够让建筑物温暖起来的力量吧。」  
-
   
 
-　　「哼。没人住的建筑物里因为有幽灵住，所以会变冷哦。啊ー啊，不得不做扫除了啊，还有，必须做正月的准备了。」灵梦一边说着，一边做玩水的准备。说来说去，就是她还没有完全适应日常状态。[](./文件-儚月抄小说插图8-4.png.md)  [](./文件-儚月抄小说插图8-4.png.md)[](./文件-儚月抄小说插图8-5.png.md)  [](./文件-儚月抄小说插图8-5.png.md)  
-
+　　「哼。没人住的建筑物里因为有幽灵住，所以会变冷哦。啊ー啊，不得不做扫除了啊，还有，必须做正月的准备了。」灵梦一边说着，一边做玩水的准备。说来说去，就是她还没有完全适应日常状态。<img alt="儚月抄小说插图8-4.png" src="https://upload.thwiki.cc/thumb/0/00/%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE8-4.png/200px-%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE8-4.png" decoding="async" loading="lazy" width="200" height="141" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/0/00/%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE8-4.png/300px-%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE8-4.png 1.5x, https://upload.thwiki.cc/thumb/0/00/%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE8-4.png/400px-%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE8-4.png 2x" data-file-width="1211" data-file-height="852">
+ [放大](./文件-儚月抄小说插图8-4.png.md)<img alt="儚月抄小说插图8-5.png" src="https://upload.thwiki.cc/thumb/b/bb/%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE8-5.png/200px-%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE8-5.png" decoding="async" loading="lazy" width="200" height="251" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/b/bb/%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE8-5.png/300px-%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE8-5.png 1.5x, https://upload.thwiki.cc/thumb/b/bb/%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE8-5.png/400px-%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE8-5.png 2x" data-file-width="1416" data-file-height="1776">
+ [放大](./文件-儚月抄小说插图8-5.png.md)  
   
 　　「话说回来，明明那些家伙连去月球旅行的愿望都实现了，却还要造海。怎么不想个到地上有海的地方去的方法呢。」  
 
@@ -463,11 +445,10 @@
 　　蕾米莉亚扑哧一笑，然后开始谈起去月球时发生的事。  
 
 　　虽然对于火箭结构的说明几乎都不能理解，但她对于空中的英雄事迹，月之海的景色，在与绵月依姬的战斗中失败这些事，都滑稽有趣地告诉了众人。  
-
   
 
-　　令人惊讶的是蕾米莉亚对于落败的事似乎并没有感到太遗憾。也许她一开始就没想过会赢吧。毕竟，她是知道连紫对妖怪进行总动员都没有获胜呢。[](./文件-儚月抄小说插图8-6.png.md)  [](./文件-儚月抄小说插图8-6.png.md)  
-
+　　令人惊讶的是蕾米莉亚对于落败的事似乎并没有感到太遗憾。也许她一开始就没想过会赢吧。毕竟，她是知道连紫对妖怪进行总动员都没有获胜呢。<img alt="儚月抄小说插图8-6.png" src="https://upload.thwiki.cc/thumb/8/8f/%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE8-6.png/200px-%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE8-6.png" decoding="async" loading="lazy" width="200" height="143" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/8/8f/%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE8-6.png/300px-%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE8-6.png 1.5x, https://upload.thwiki.cc/thumb/8/8f/%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE8-6.png/400px-%E5%84%9A%E6%9C%88%E6%8A%84%E5%B0%8F%E8%AF%B4%E6%8F%92%E5%9B%BE8-6.png 2x" data-file-width="1495" data-file-height="1068">
+ [放大](./文件-儚月抄小说插图8-6.png.md)  
   
 　　那为什么她还会特意制造火箭到月亮上去呢？  
 
@@ -592,37 +573,26 @@
 　　这笑容深深地印在了永琳的心底，带来了不可能忘却的恐惧感。给予不死者的，意味着生的烦恼。对于正体不明者的恐惧。  
 
 　　这才是八云紫所计划的第二次月面战争的真面目。  
-
   
-
- **最终话 两个望乡 / 完** 
-  
-
-
-
+**最终话 两个望乡 / 完**  
 [^cite_note-1]: 这里用了现在时。
-
+[^cite_note-2]: 卡纳维拉尔角——卡纳维拉尔角所在地是众人皆知的航空海岸，附近有肯尼迪航天中心和卡纳维拉尔空军基地，美国的航天飞机都是从这两个地方发射升空的，所以卡纳维拉尔角成了它们的代名词。
 <center>
-
 <table>
 <tbody><tr>
-<td>&lt;
+<td><
 </td>
-<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./东方儚月抄_～_Cage_in_Lunatic_Runagate.-第七话.md" title="东方儚月抄 ～ Cage in Lunatic Runagate./第七话">第七话</a>&#160;
+<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./东方儚月抄_～_Cage_in_Lunatic_Runagate.-第七话.md" title="东方儚月抄 ～ Cage in Lunatic Runagate./第七话">第七话</a> 
 </td>
-<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="./东方儚月抄_～_Cage_in_Lunatic_Runagate..md" title="东方儚月抄 ～ Cage in Lunatic Runagate.">东方儚月抄 ～ Cage in Lunatic Runagate.</a>&#160;
+<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;"> <a href="./东方儚月抄_～_Cage_in_Lunatic_Runagate..md" title="东方儚月抄 ～ Cage in Lunatic Runagate.">东方儚月抄 ～ Cage in Lunatic Runagate.</a> 
 </td>
-<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left">&#160;<a href="./东方儚月抄_～_Cage_in_Lunatic_Runagate.-后记.md" title="东方儚月抄 ～ Cage in Lunatic Runagate./后记">后记</a>
+<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left"> <a href="./东方儚月抄_～_Cage_in_Lunatic_Runagate.-后记.md" title="东方儚月抄 ～ Cage in Lunatic Runagate./后记">后记</a>
 </td>
-<td>&gt;
+<td>>
 </td></tr></tbody></table>
 
   
 </center>
-
-
-
-
 ---
 
 此文档由 [THBWiki-Markdown-Builder](https://github.com/Delsin-Yu/THBWiki-Markdown-Builder) 构建。

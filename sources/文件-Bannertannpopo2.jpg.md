@@ -1,12 +1,8 @@
 # 文件:Bannertannpopo2.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\67\ns6%3ABannertannpopo2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\67\ns6%3ABannertannpopo2%2Ejpg.html -->
 
 Dandelion_Trio | 社团LOGO
-
-
-
-
 
 
 ---

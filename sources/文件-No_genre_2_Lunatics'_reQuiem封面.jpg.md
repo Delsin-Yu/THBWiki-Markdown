@@ -1,6 +1,6 @@
 # 文件:No_genre_2_Lunatics'_reQuiem封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\05\ns6%3ANo_genre_2_Lunatics%27_reQuiem%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\05\ns6%3ANo_genre_2_Lunatics%27_reQuiem%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Light？Staff | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ Light？Staff | 专辑封面 | 封面图片
   
 
 - [No genre 2 Lunatics' reQuiem](./No_genre_2_Lunatics'_reQuiem.md)
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Another_World（TUMENECO_VS_GET_IN_THE_RING）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ab\ns6%3AAnother_World%EF%BC%88TUMENECO_VS_GET_IN_THE_RING%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ab\ns6%3AAnother_World%EF%BC%88TUMENECO_VS_GET_IN_THE_RING%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 GET_IN_THE_RING | TUMENECO | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ GET_IN_THE_RING | TUMENECO | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Another World（TUMENECO VS GET IN THE RING）](./Another_World（TUMENECO_VS_GET_IN_THE_RING）.md)  
-该封面包含的角色：- [古明地觉](./古明地觉.md)- [古明地恋](./古明地恋.md)
-
-
-
+- [Another World（TUMENECO VS GET IN THE RING）](./Another_World（TUMENECO_VS_GET_IN_THE_RING）.md)该封面包含的角色：
+- [古明地觉](./古明地觉.md)
+- [古明地恋](./古明地恋.md)
 
 
 ---

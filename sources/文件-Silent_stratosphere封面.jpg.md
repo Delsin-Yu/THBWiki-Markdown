@@ -1,6 +1,6 @@
 # 文件:Silent_stratosphere封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bb\ns6%3ASilent_stratosphere%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bb\ns6%3ASilent_stratosphere%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Aether | 专辑封面 | 埼玉最終兵器 | 封面图片
 
@@ -8,11 +8,8 @@ Aether | 专辑封面 | 埼玉最終兵器 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Silent stratosphere](./Silent_stratosphere.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [Silent stratosphere](./Silent_stratosphere.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

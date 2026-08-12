@@ -1,6 +1,6 @@
 # 文件:月虹エンカウンター_preview封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ad\ns6%3A%E6%9C%88%E8%99%B9%E3%82%A8%E3%83%B3%E3%82%AB%E3%82%A6%E3%83%B3%E3%82%BF%E3%83%BC_preview%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ad\ns6%3A%E6%9C%88%E8%99%B9%E3%82%A8%E3%83%B3%E3%82%AB%E3%82%A6%E3%83%B3%E3%82%BF%E3%83%BC_preview%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Travel_girl | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Travel_girl | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [月虹エンカウンター preview](./月虹エンカウンター_preview.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
-
-
-
+- [月虹エンカウンター preview](./月虹エンカウンター_preview.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
 
 ---

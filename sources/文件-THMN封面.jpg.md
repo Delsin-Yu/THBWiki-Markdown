@@ -1,6 +1,6 @@
 # 文件:THMN封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\20\ns6%3ATHMN%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\20\ns6%3ATHMN%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 FirstEye | 同人志封面 | 封面图片
 
@@ -10,16 +10,12 @@ FirstEye | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [THMN](./THMN.md)  
-该封面包含的角色：- [古明地恋](./古明地恋.md)- [多多良小伞](./多多良小伞.md)
+- [THMN](./THMN.md)该封面包含的角色：
+- [古明地恋](./古明地恋.md)
+- [多多良小伞](./多多良小伞.md)
 
   
-[Pixiv ID: 27263928](https://www.pixiv.net/artworks/27263928)
-  
-
-
-
-
+[Pixiv ID: 27263928](https://www.pixiv.net/artworks/27263928)  
 
 ---
 

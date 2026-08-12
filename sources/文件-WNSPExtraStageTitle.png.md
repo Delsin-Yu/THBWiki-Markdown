@@ -1,12 +1,8 @@
 # 文件:WNSPExtraStageTitle.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\80\ns6%3AWNSPExtraStageTitle%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\80\ns6%3AWNSPExtraStageTitle%2Epng.html -->
 
 東方邪星章製作チーム
-
-
-
-
 
 
 ---

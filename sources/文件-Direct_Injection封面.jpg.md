@@ -1,6 +1,6 @@
 # 文件:Direct_Injection封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dc\ns6%3ADirect_Injection%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dc\ns6%3ADirect_Injection%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 山紫水明
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Direct Injection](./Direct_Injection.md)  
-该封面包含的角色：- [奥莲姬](./奥莲姬.md)
+- [Direct Injection](./Direct_Injection.md)该封面包含的角色：
+- [奥莲姬](./奥莲姬.md)
 
   
-源地址：[[1]](http://sanshisuimei.ho-zuki.com/image/direct_injection.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://sanshisuimei.ho-zuki.com/image/direct_injection.jpg)  
 
 ---
 

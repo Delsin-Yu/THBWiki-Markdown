@@ -1,12 +1,8 @@
 # 文件:君の美術館_banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\66\ns6%3A%E5%90%9B%E3%81%AE%E7%BE%8E%E8%A1%93%E9%A4%A8_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\66\ns6%3A%E5%90%9B%E3%81%AE%E7%BE%8E%E8%A1%93%E9%A4%A8_banner%2Ejpg.html -->
 
 君の美術館 | 社团LOGO
-
-
-
-
 
 
 ---

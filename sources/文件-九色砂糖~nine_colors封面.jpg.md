@@ -1,6 +1,6 @@
 # 文件:九色砂糖~nine_colors封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\68\ns6%3A%E4%B9%9D%E8%89%B2%E7%A0%82%E7%B3%96%7Enine_colors%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\68\ns6%3A%E4%B9%9D%E8%89%B2%E7%A0%82%E7%B3%96%7Enine_colors%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 星光現象-Asterism-
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [九色砂糖~nine colors](./九色砂糖~nine_colors.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [九色砂糖~nine colors](./九色砂糖~nine_colors.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

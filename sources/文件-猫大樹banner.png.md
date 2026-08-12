@@ -1,16 +1,11 @@
 # 文件:猫大樹banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\53\ns6%3A%E7%8C%AB%E5%A4%A7%E6%A8%B9banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\53\ns6%3A%E7%8C%AB%E5%A4%A7%E6%A8%B9banner%2Epng.html -->
 
 猫大樹 | 社团LOGO
 
   
-源地址：[[1]](https://static.wixstatic.com/media/7de8a0_a47445471bcb4d4ab559027839a98d71.png/v1/fill/w_424,h_130,al_c,usm_0.66_1.00_0.01/7de8a0_a47445471bcb4d4ab559027839a98d71.png)
-  
-
-
-
-
+源地址：[\[1\]](https://static.wixstatic.com/media/7de8a0_a47445471bcb4d4ab559027839a98d71.png/v1/fill/w_424,h_130,al_c,usm_0.66_1.00_0.01/7de8a0_a47445471bcb4d4ab559027839a98d71.png)  
 
 ---
 

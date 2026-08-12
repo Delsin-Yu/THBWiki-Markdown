@@ -1,6 +1,6 @@
 # 文件:東方蓬千響_～Trap_of_Labyrinth～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\39\ns6%3A%E6%9D%B1%E6%96%B9%E8%93%AC%E5%8D%83%E9%9F%BF_%EF%BD%9ETrap_of_Labyrinth%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\39\ns6%3A%E6%9D%B1%E6%96%B9%E8%93%AC%E5%8D%83%E9%9F%BF_%EF%BD%9ETrap_of_Labyrinth%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 R-note | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ R-note | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方蓬千響 ～Trap of Labyrinth～](./東方蓬千響_～Trap_of_Labyrinth～.md)  
-该封面包含的角色：- [丰聪耳神子](./丰聪耳神子.md)
-
-
-
+- [東方蓬千響 ～Trap of Labyrinth～](./東方蓬千響_～Trap_of_Labyrinth～.md)该封面包含的角色：
+- [丰聪耳神子](./丰聪耳神子.md)
 
 
 ---

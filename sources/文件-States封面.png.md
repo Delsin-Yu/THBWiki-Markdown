@@ -1,6 +1,6 @@
 # 文件:States封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\90\ns6%3AStates%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\90\ns6%3AStates%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Satellite_Himawari（同人社团） | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Satellite_Himawari（同人社团） | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [States](./States.md)  
-该封面包含的角色：- [藤原妹红](./藤原妹红.md)
-
-
-
+- [States](./States.md)该封面包含的角色：
+- [藤原妹红](./藤原妹红.md)
 
 
 ---

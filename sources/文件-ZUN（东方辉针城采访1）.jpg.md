@@ -1,12 +1,8 @@
 # 文件:ZUN（东方辉针城采访1）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\79\ns6%3AZUN%EF%BC%88%E4%B8%9C%E6%96%B9%E8%BE%89%E9%92%88%E5%9F%8E%E9%87%87%E8%AE%BF1%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\79\ns6%3AZUN%EF%BC%88%E4%B8%9C%E6%96%B9%E8%BE%89%E9%92%88%E5%9F%8E%E9%87%87%E8%AE%BF1%EF%BC%89%2Ejpg.html -->
 
 ZUN | 东方辉针城
-
-
-
-
 
 
 ---

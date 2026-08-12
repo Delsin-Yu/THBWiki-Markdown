@@ -1,12 +1,8 @@
 # 文件:「Wild_Carpet」（神灵庙）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\09\ns6%3A%E3%80%8CWild_Carpet%E3%80%8D%EF%BC%88%E7%A5%9E%E7%81%B5%E5%BA%99%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\09\ns6%3A%E3%80%8CWild_Carpet%E3%80%8D%EF%BC%88%E7%A5%9E%E7%81%B5%E5%BA%99%EF%BC%89%2Epng.html -->
 
 东方神灵庙 | 二岩猯藏 | 敌机符卡
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:ユーロバカ一代_VOL.13封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c5\ns6%3A%E3%83%A6%E3%83%BC%E3%83%AD%E3%83%90%E3%82%AB%E4%B8%80%E4%BB%A3_VOL%2E13%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c5\ns6%3A%E3%83%A6%E3%83%BC%E3%83%AD%E3%83%90%E3%82%AB%E4%B8%80%E4%BB%A3_VOL%2E13%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Eurobeat_Union | 专辑封面 | 封面图片
 
@@ -8,11 +8,11 @@ Eurobeat_Union | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [ユーロバカ一代 VOL.13](./ユーロバカ一代_VOL.13.md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)- [风见幽香](./风见幽香.md)- [古明地觉](./古明地觉.md)- [古明地恋](./古明地恋.md)
-
-
-
+- [ユーロバカ一代 VOL.13](./ユーロバカ一代_VOL.13.md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
+- [风见幽香](./风见幽香.md)
+- [古明地觉](./古明地觉.md)
+- [古明地恋](./古明地恋.md)
 
 
 ---

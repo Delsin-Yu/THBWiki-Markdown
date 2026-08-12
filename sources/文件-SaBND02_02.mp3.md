@@ -1,12 +1,8 @@
 # 文件:SaBND02_02.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c3\ns6%3ASaBND02_02%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c3\ns6%3ASaBND02_02%2Emp3.html -->
 
 Sunny_Rutile_Flection | 东方三月精_～_Strange_and_Bright_Nature_Deity. | 原曲MP3
-
-
-
-
 
 
 ---

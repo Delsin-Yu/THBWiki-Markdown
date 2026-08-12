@@ -1,13 +1,8 @@
 # 東方魔宝城_～_Book_of_Star_Mythology./音乐
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\05\ns0%3A%E6%9D%B1%E6%96%B9%E9%AD%94%E5%AE%9D%E5%9F%8E_%EF%BD%9E_Book_of_Star_Mythology%2E%2F%E9%9F%B3%E4%B9%90.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\05\ns0%3A%E6%9D%B1%E6%96%B9%E9%AD%94%E5%AE%9D%E5%9F%8E_%EF%BD%9E_Book_of_Star_Mythology%2E%2F%E9%9F%B3%E4%B9%90.html -->
 
 Mace's_Secret_Base | 東方邪星章製作チーム
-
-  
-  
-
-  
 
 
 <table>
@@ -42,7 +37,6 @@ Mace's_Secret_Base | 東方邪星章製作チーム
 </tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
@@ -75,7 +69,6 @@ Mace's_Secret_Base | 東方邪星章製作チーム
 </tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
@@ -106,7 +99,6 @@ Mace's_Secret_Base | 東方邪星章製作チーム
 </tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
@@ -121,7 +113,7 @@ Mace's_Secret_Base | 東方邪星章製作チーム
 <tr valign="top">
 <td colspan="2" style="padding:1em; padding-left:2em;" lang="ja" width="50%">
 <p>2面のテーマです。<br>
-タイトル通り、宵闇時の節操感<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">1</a></sup>そのものをイメージしつつ、<br>
+タイトル通り、宵闇時の節操感<span>[^cite_note-1]</span>そのものをイメージしつつ、<br>
 単純ですがトンビの鳴き声を演出として入れてみました。<br>
 関係ないですが僕は最近カラスに糞を落とされました。頭に。
 </p>
@@ -135,7 +127,6 @@ Mace's_Secret_Base | 東方邪星章製作チーム
 </td></tr>
 
 </tbody></table>
-
 
 
 <table>
@@ -168,7 +159,6 @@ Mace's_Secret_Base | 東方邪星章製作チーム
 </tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
@@ -199,7 +189,6 @@ Mace's_Secret_Base | 東方邪星章製作チーム
 </tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
@@ -207,7 +196,7 @@ Mace's_Secret_Base | 東方邪星章製作チーム
 </td>
 <td style="background: #FFFFCC;" align="center" width="35%">レインティアケージ
 </td>
-<td style="background: #FFFFCC;" align="center" width="40%"><i><a href="./Raintear_Cage.md" title="Raintear Cage">Raintear Cage</a><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">2</a></sup></i>
+<td style="background: #FFFFCC;" align="center" width="40%"><i><a href="./Raintear_Cage.md" title="Raintear Cage">Raintear Cage</a><span>[^cite_note-2]</span></i>
 </td>
 <td style="background: #dde6ff;" align="center" width="15%">♪ <i>水月</i>
 </td></tr>
@@ -228,7 +217,6 @@ Mace's_Secret_Base | 東方邪星章製作チーム
 </td></tr>
 
 </tbody></table>
-
 
 
 <table>
@@ -261,7 +249,6 @@ Mace's_Secret_Base | 東方邪星章製作チーム
 </tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
@@ -292,13 +279,12 @@ Mace's_Secret_Base | 東方邪星章製作チーム
 </tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
 <td style="background: #dde6ff;" align="center" width="15%"><h6><span id="5.E9.9D.A2.E9.81.93.E4.B8.AD.E4.B8.BB.E9.A2.98.E6.9B.B2"></span><span class="mw-headline" id="5面道中主题曲">5面道中主题曲</span></h6>
 </td>
-<td style="background: #FFFFCC;" align="center" width="35%">進撃の相州喇叭<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">3</a></sup>
+<td style="background: #FFFFCC;" align="center" width="35%">進撃の相州喇叭<span>[^cite_note-3]</span>
 </td>
 <td style="background: #FFFFCC;" align="center" width="40%"><i><a href="./进击的相州喇叭.md" title="进击的相州喇叭">进击的相州喇叭</a></i>
 </td>
@@ -323,7 +309,6 @@ Mace's_Secret_Base | 東方邪星章製作チーム
 </td></tr>
 
 </tbody></table>
-
 
 
 <table>
@@ -354,7 +339,6 @@ Mace's_Secret_Base | 東方邪星章製作チーム
 </td></tr>
 
 </tbody></table>
-
 
 
 <table>
@@ -389,7 +373,6 @@ Mace's_Secret_Base | 東方邪星章製作チーム
 </tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
@@ -418,7 +401,6 @@ Mace's_Secret_Base | 東方邪星章製作チーム
 </td></tr>
 
 </tbody></table>
-
 
 
 <table>
@@ -451,7 +433,6 @@ Mace's_Secret_Base | 東方邪星章製作チーム
 </tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
@@ -459,7 +440,7 @@ Mace's_Secret_Base | 東方邪星章製作チーム
 </td>
 <td style="background: #FFFFCC;" align="center" width="35%">アケローン彼岸旅行
 </td>
-<td style="background: #FFFFCC;" align="center" width="40%"><i><a href="./阿刻戎彼岸旅行.md" title="阿刻戎彼岸旅行">阿刻戎彼岸旅行</a><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">4</a></sup></i>
+<td style="background: #FFFFCC;" align="center" width="40%"><i><a href="./阿刻戎彼岸旅行.md" title="阿刻戎彼岸旅行">阿刻戎彼岸旅行</a><span>[^cite_note-4]</span></i>
 </td>
 <td style="background: #dde6ff;" align="center" width="15%">♪ <i>プリズム</i>
 </td></tr>
@@ -482,7 +463,6 @@ Mace's_Secret_Base | 東方邪星章製作チーム
 </td></tr>
 
 </tbody></table>
-
 
 
 <table>
@@ -517,7 +497,6 @@ Mace's_Secret_Base | 東方邪星章製作チーム
 </tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
@@ -550,7 +529,6 @@ Mace's_Secret_Base | 東方邪星章製作チーム
 </tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
@@ -581,7 +559,6 @@ Mace's_Secret_Base | 東方邪星章製作チーム
 </tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
@@ -605,21 +582,10 @@ Mace's_Secret_Base | 東方邪星章製作チーム
 
 </tbody></table>
 
-
-
 [^cite_note-1]: 当为同音的「節奏感」。
-
-
-## 词条导航
-  
-  
-
-<table><tbody><tr><td><table cellspacing="0" class="nowraplinks mw-collapsible mw-collapsed" style="width:100%;;;"><tbody><tr><th style=";" colspan="3" class="navbox-title"><div class="navbar"><div class="noprint plainlinksneverexpand" style="background-color:transparent; padding:0; font-weight:normal; font-size:80%; white-space:nowrap;"><a href="./東方魔宝城_～_Book_of_Star_Mythology.-导航.md" title="東方魔宝城 ～ Book of Star Mythology./导航"><span style=";;border:none;" title="查看这个模板">查</span></a>&#160;<span style="font-size:80%;">•</span>&#160;<a href="/index.php?title=%E6%9D%B1%E6%96%B9%E9%AD%94%E5%AE%9D%E5%9F%8E_%EF%BD%9E_Book_of_Star_Mythology./%E5%AF%BC%E8%88%AA&amp;action=edit"><span style=";;border:none;" title="您可以编辑这个模板。请在储存变更之前先预览">编</span></a></div></div><span><a href="./东方魔宝城.md" class="mw-redirect" title="东方魔宝城">东方魔宝城</a></span></th></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="./東方魔宝城_～_Book_of_Star_Mythology.-角色设定.md" title="東方魔宝城 ～ Book of Star Mythology./角色设定">角色</a></td><td style=";;" class="navbox-list navbox-odd"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>自机</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./東方魔宝城_～_Book_of_Star_Mythology.-设定与剧情-设定文档.md" title="東方魔宝城 ～ Book of Star Mythology./设定与剧情/设定文档">博丽灵梦</a> &#8226; <a href="./東方魔宝城_～_Book_of_Star_Mythology.-设定与剧情-设定文档.md" title="東方魔宝城 ～ Book of Star Mythology./设定与剧情/设定文档">雾雨魔理沙</a> &#8226; <a href="./東方魔宝城_～_Book_of_Star_Mythology.-设定与剧情-设定文档.md" title="東方魔宝城 ～ Book of Star Mythology./设定与剧情/设定文档">东风谷早苗</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>BOSS</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./法布丽蒂丝.md" title="法布丽蒂丝">法布丽蒂丝</a> &#8226; <a href="./伊芙妮娅.md" title="伊芙妮娅">伊芙妮娅</a> &#8226; <a href="./鹰藤鸢子.md" title="鹰藤鸢子">鹰藤鸢子</a> &#8226; <a href="./谢莉亚·莱拉克.md" title="谢莉亚·莱拉克">谢莉亚·莱拉克</a> &#8226; <a href="./藤原妹红（魔宝城）.md" title="藤原妹红（魔宝城）">藤原妹红</a> &#8226; <a href="./望月一曜.md" title="望月一曜">望月一曜</a> &#8226; <a href="./明津祢津.md" title="明津祢津">明津祢津‎</a> &#8226; <a href="./芙玛·米珊朵拉.md" title="芙玛·米珊朵拉">芙玛·米珊朵拉</a> &#8226; <a href="./真田千子.md" title="真田千子">真田千子</a></div></td></tr></tbody></table><div></div></td><td class="navbox-image" style="" rowspan="11"><a href="./文件-東方魔宝城_～_Book_of_Star_Mythology.封面.jpg.md" class="image"><img alt="東方魔宝城 ～ Book of Star Mythology.封面.jpg" src="https://upload.thwiki.cc/thumb/7/76/%E6%9D%B1%E6%96%B9%E9%AD%94%E5%AE%9D%E5%9F%8E_%EF%BD%9E_Book_of_Star_Mythology.%E5%B0%81%E9%9D%A2.jpg/160px-%E6%9D%B1%E6%96%B9%E9%AD%94%E5%AE%9D%E5%9F%8E_%EF%BD%9E_Book_of_Star_Mythology.%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="160" height="159" srcset="https://upload.thwiki.cc/thumb/7/76/%E6%9D%B1%E6%96%B9%E9%AD%94%E5%AE%9D%E5%9F%8E_%EF%BD%9E_Book_of_Star_Mythology.%E5%B0%81%E9%9D%A2.jpg/240px-%E6%9D%B1%E6%96%B9%E9%AD%94%E5%AE%9D%E5%9F%8E_%EF%BD%9E_Book_of_Star_Mythology.%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/7/76/%E6%9D%B1%E6%96%B9%E9%AD%94%E5%AE%9D%E5%9F%8E_%EF%BD%9E_Book_of_Star_Mythology.%E5%B0%81%E9%9D%A2.jpg/320px-%E6%9D%B1%E6%96%B9%E9%AD%94%E5%AE%9D%E5%9F%8E_%EF%BD%9E_Book_of_Star_Mythology.%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="451" data-file-height="447"></a></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="./東方魔宝城_～_Book_of_Star_Mythology.-设定与剧情.md" title="東方魔宝城 ～ Book of Star Mythology./设定与剧情">剧情</a></td><td style=";;" class="navbox-list navbox-even"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>剧情文本</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./東方魔宝城_～_Book_of_Star_Mythology.-设定与剧情-故事背景.md" title="東方魔宝城 ～ Book of Star Mythology./设定与剧情/故事背景">故事背景</a> &#8226; <a href="./東方魔宝城_～_Book_of_Star_Mythology.-设定与剧情-设定文档.md" title="東方魔宝城 ～ Book of Star Mythology./设定与剧情/设定文档">Ex 故事背景</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>游戏对话&amp;结局</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./東方魔宝城_～_Book_of_Star_Mythology.-设定与剧情-博丽灵梦.md" title="東方魔宝城 ～ Book of Star Mythology./设定与剧情/博丽灵梦">博丽灵梦</a> &#8226; <a href="./東方魔宝城_～_Book_of_Star_Mythology.-设定与剧情-雾雨魔理沙.md" title="東方魔宝城 ～ Book of Star Mythology./设定与剧情/雾雨魔理沙">雾雨魔理沙</a> &#8226; <a href="./東方魔宝城_～_Book_of_Star_Mythology.-设定与剧情-东风谷早苗.md" title="東方魔宝城 ～ Book of Star Mythology./设定与剧情/东风谷早苗">东风谷早苗</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>Ex游戏对话</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./東方魔宝城_～_Book_of_Star_Mythology.-设定与剧情-博丽灵梦Ex.md" title="東方魔宝城 ～ Book of Star Mythology./设定与剧情/博丽灵梦Ex">博丽灵梦</a> &#8226; <a href="./東方魔宝城_～_Book_of_Star_Mythology.-设定与剧情-雾雨魔理沙Ex.md" title="東方魔宝城 ～ Book of Star Mythology./设定与剧情/雾雨魔理沙Ex">雾雨魔理沙</a> &#8226; <a href="./東方魔宝城_～_Book_of_Star_Mythology.-设定与剧情-东风谷早苗Ex.md" title="東方魔宝城 ～ Book of Star Mythology./设定与剧情/东风谷早苗Ex">东风谷早苗</a></div></td></tr></tbody></table><div></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">场景</td><td style=";;" class="navbox-list navbox-odd"><div><a href="./妖怪之山.md" title="妖怪之山">妖怪之山</a> &#8226; <a href="./幻想乡上空.md" title="幻想乡上空">天河</a> &#8226; <a href="./迷途竹林.md" title="迷途竹林">迷途竹林</a> &#8226; 不归谷 &#8226; 魔宝城 &#8226; <a href="./三途河.md" title="三途河">三途河</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">音乐</td><td style=";;" class="navbox-list navbox-even"><div><a class="mw-selflink selflink">Music Room</a> &#8226; <a href="./東方魔宝城_Book_of_Star_Mythology.サウンドトラック.md" title="東方魔宝城 Book of Star Mythology.サウンドトラック" unred="">Original Soundtrack</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="/%E6%9D%B1%E6%96%B9%E9%AD%94%E5%AE%9D%E5%9F%8E_%EF%BD%9E_Book_of_Star_Mythology./%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85#附带文档" title="東方魔宝城 ～ Book of Star Mythology./设定与剧情">附带文档</a></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./東方魔宝城_～_Book_of_Star_Mythology.-设定与剧情-设定文档.md" title="東方魔宝城 ～ Book of Star Mythology./设定与剧情/设定文档">设定文档</a> &#8226; <a href="./東方魔宝城_～_Book_of_Star_Mythology.-设定与剧情-素材相关.md" title="東方魔宝城 ～ Book of Star Mythology./设定与剧情/素材相关">素材相关</a> &#8226; <a href="./東方魔宝城_～_Book_of_Star_Mythology.-设定与剧情-readme.md" title="東方魔宝城 ～ Book of Star Mythology./设定与剧情/readme">readme</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">系统</td><td style=";;" class="navbox-list navbox-even"><div><a href="./東方魔宝城_～_Book_of_Star_Mythology.-系统.md" title="東方魔宝城 ～ Book of Star Mythology./系统">机体特性与系统说明</a> &#8226; <a href="./東方魔宝城_～_Book_of_Star_Mythology.-其他.md" title="東方魔宝城 ～ Book of Star Mythology./其他">其他</a></div></td></tr></tbody></table></td></tr></tbody></table>
-
-
-
-
-
+[^cite_note-2]: 捏他自东方泪琴推 (未找到链接)的角色，蕾因蒂尔 (未找到链接)。
+[^cite_note-3]: 「喇叭」「乱破」日语音近，后者是忍者的别名之一。而风魔家因为根据地在相模，当主风魔小太郎有诨名“相州乱破”。
+[^cite_note-4]: 阿刻戎：即阿刻戎河，希腊传说中的一条横在冥界的河流。
 
 ---
 

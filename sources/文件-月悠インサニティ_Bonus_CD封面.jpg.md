@@ -1,6 +1,6 @@
 # 文件:月悠インサニティ_Bonus_CD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\08\ns6%3A%E6%9C%88%E6%82%A0%E3%82%A4%E3%83%B3%E3%82%B5%E3%83%8B%E3%83%86%E3%82%A3_Bonus_CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\08\ns6%3A%E6%9C%88%E6%82%A0%E3%82%A4%E3%83%B3%E3%82%B5%E3%83%8B%E3%83%86%E3%82%A3_Bonus_CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Crest | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ Crest | 专辑封面 | 封面图片
   
 
 - [月悠インサニティ Bonus CD](./月悠インサニティ_Bonus_CD.md)
-
-
-
 
 
 ---

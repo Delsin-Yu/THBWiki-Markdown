@@ -1,6 +1,6 @@
 # 文件:THE_ANTINOMY封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e7\ns6%3ATHE_ANTINOMY%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e7\ns6%3ATHE_ANTINOMY%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 刹那パラドックス | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [THE ANTINOMY](./THE_ANTINOMY.md)  
-该封面包含的角色：- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
-
-
-
+- [THE ANTINOMY](./THE_ANTINOMY.md)该封面包含的角色：
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
 
 
 ---

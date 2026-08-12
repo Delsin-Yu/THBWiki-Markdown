@@ -1,12 +1,8 @@
 # 文件:精神電波SOSbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c3\ns6%3A%E7%B2%BE%E7%A5%9E%E9%9B%BB%E6%B3%A2SOSbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c3\ns6%3A%E7%B2%BE%E7%A5%9E%E9%9B%BB%E6%B3%A2SOSbanner%2Ejpg.html -->
 
 社团LOGO | 精神電波SOS
-
-
-
-
 
 
 ---

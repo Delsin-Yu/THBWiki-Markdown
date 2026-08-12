@@ -1,14 +1,11 @@
 # 文件:自称清純派banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7a\ns6%3A%E8%87%AA%E7%A7%B0%E6%B8%85%E7%B4%94%E6%B4%BEbanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7a\ns6%3A%E8%87%AA%E7%A7%B0%E6%B8%85%E7%B4%94%E6%B4%BEbanner%2Egif.html -->
 
 社团LOGO | 自称清純派
 
 
 ## 摘要
-
-
-
 
 ---
 

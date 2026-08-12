@@ -1,16 +1,11 @@
 # 文件:wujiu～うーじう～banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\53\ns6%3Awujiu%EF%BD%9E%E3%81%86%E3%83%BC%E3%81%98%E3%81%86%EF%BD%9Ebanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\53\ns6%3Awujiu%EF%BD%9E%E3%81%86%E3%83%BC%E3%81%98%E3%81%86%EF%BD%9Ebanner%2Epng.html -->
 
 wujiu～うーじう～ | 社团LOGO
 
   
-源地址：[[1]](http://wujiu-gao.com/images/banner_pc.png)
-  
-
-
-
-
+源地址：[\[1\]](http://wujiu-gao.com/images/banner_pc.png)  
 
 ---
 

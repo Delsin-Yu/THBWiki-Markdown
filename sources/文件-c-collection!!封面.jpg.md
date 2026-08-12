@@ -1,6 +1,6 @@
 # 文件:c-collection!!封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d1\ns6%3Ac-collection%21%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d1\ns6%3Ac-collection%21%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 kuronecoarts | 同人志封面 | 封面图片
 
@@ -8,11 +8,15 @@ kuronecoarts | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [c-collection!!](./c-collection!!.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)- [大妖精](./大妖精.md)- [莉莉霍瓦特](./莉莉霍瓦特.md)- [露娜切露德](./露娜切露德.md)- [桑尼米尔克](./桑尼米尔克.md)- [斯塔萨菲雅](./斯塔萨菲雅.md)- [克劳恩皮丝](./克劳恩皮丝.md)- [爱塔妮缇拉尔瓦](./爱塔妮缇拉尔瓦.md)
-
-
-
+- [c-collection!!](./c-collection!!.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
+- [大妖精](./大妖精.md)
+- [莉莉霍瓦特](./莉莉霍瓦特.md)
+- [露娜切露德](./露娜切露德.md)
+- [桑尼米尔克](./桑尼米尔克.md)
+- [斯塔萨菲雅](./斯塔萨菲雅.md)
+- [克劳恩皮丝](./克劳恩皮丝.md)
+- [爱塔妮缇拉尔瓦](./爱塔妮缇拉尔瓦.md)
 
 
 ---

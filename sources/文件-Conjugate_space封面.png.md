@@ -1,6 +1,6 @@
 # 文件:Conjugate_space封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f7\ns6%3AConjugate_space%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f7\ns6%3AConjugate_space%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Neo_Fiction | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Neo_Fiction | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Conjugate space](./Conjugate_space.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [Conjugate space](./Conjugate_space.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:My_Fury_Purer_than_the_Purest_Furies封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8e\ns6%3AMy_Fury_Purer_than_the_Purest_Furies%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8e\ns6%3AMy_Fury_Purer_than_the_Purest_Furies%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Craving_DFC | 专辑封面 | 封面图片
 
@@ -8,12 +8,9 @@ Craving_DFC | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [My Fury Purer than the Purest Furies](./My_Fury_Purer_than_the_Purest_Furies.md)  
-该封面包含的角色：- [纯狐](./纯狐.md)源地址：[[1]](https://f4.bcbits.com/img/a4241154921_10.jpg)
-
-
-
-
+- [My Fury Purer than the Purest Furies](./My_Fury_Purer_than_the_Purest_Furies.md)该封面包含的角色：
+- [纯狐](./纯狐.md)
+源地址：[\[1\]](https://f4.bcbits.com/img/a4241154921_10.jpg)
 
 ---
 

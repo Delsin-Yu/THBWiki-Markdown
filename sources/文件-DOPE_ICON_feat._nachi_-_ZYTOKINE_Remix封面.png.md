@@ -1,6 +1,6 @@
 # 文件:DOPE_ICON_feat._nachi_-_ZYTOKINE_Remix封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\de\ns6%3ADOPE_ICON_feat%2E_nachi_-_ZYTOKINE_Remix%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\de\ns6%3ADOPE_ICON_feat%2E_nachi_-_ZYTOKINE_Remix%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 ZYTOKINE | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ ZYTOKINE | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [DOPE ICON feat. nachi - ZYTOKINE Remix](./DOPE_ICON_feat._nachi_-_ZYTOKINE_Remix.md)  
-该封面包含的角色：- [埴安神袿姬](./埴安神袿姬.md)
-
-
-
+- [DOPE ICON feat. nachi - ZYTOKINE Remix](./DOPE_ICON_feat._nachi_-_ZYTOKINE_Remix.md)该封面包含的角色：
+- [埴安神袿姬](./埴安神袿姬.md)
 
 
 ---

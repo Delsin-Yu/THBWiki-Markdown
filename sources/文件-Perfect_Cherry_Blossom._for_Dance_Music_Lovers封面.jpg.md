@@ -1,6 +1,6 @@
 # 文件:Perfect_Cherry_Blossom._for_Dance_Music_Lovers封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6c\ns6%3APerfect_Cherry_Blossom%2E_for_Dance_Music_Lovers%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6c\ns6%3APerfect_Cherry_Blossom%2E_for_Dance_Music_Lovers%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 PPK_Works | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ PPK_Works | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Perfect Cherry Blossom. for Dance Music Lovers](./Perfect_Cherry_Blossom._for_Dance_Music_Lovers.md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)
-
-
-
+- [Perfect Cherry Blossom. for Dance Music Lovers](./Perfect_Cherry_Blossom._for_Dance_Music_Lovers.md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
 
 
 ---

@@ -1,14 +1,11 @@
 # 文件:柚子桃ジャムbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e3\ns6%3A%E6%9F%9A%E5%AD%90%E6%A1%83%E3%82%B8%E3%83%A3%E3%83%A0banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e3\ns6%3A%E6%9F%9A%E5%AD%90%E6%A1%83%E3%82%B8%E3%83%A3%E3%83%A0banner%2Epng.html -->
 
 柚子桃ジャム | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

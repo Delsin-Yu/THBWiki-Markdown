@@ -1,6 +1,6 @@
 # 文件:東方どうしましょうVol.1アリシアVS幻想郷封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9f\ns6%3A%E6%9D%B1%E6%96%B9%E3%81%A9%E3%81%86%E3%81%97%E3%81%BE%E3%81%97%E3%82%87%E3%81%86Vol%2E1%E3%82%A2%E3%83%AA%E3%82%B7%E3%82%A2VS%E5%B9%BB%E6%83%B3%E9%83%B7%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9f\ns6%3A%E6%9D%B1%E6%96%B9%E3%81%A9%E3%81%86%E3%81%97%E3%81%BE%E3%81%97%E3%82%87%E3%81%86Vol%2E1%E3%82%A2%E3%83%AA%E3%82%B7%E3%82%A2VS%E5%B9%BB%E6%83%B3%E9%83%B7%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Wi-Z_GARAGE | 同人志封面 | 大熊猫飯店 | 封面图片
 
@@ -10,11 +10,10 @@ Wi-Z_GARAGE | 同人志封面 | 大熊猫飯店 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方どうしましょうVol.1アリシアVS幻想郷](./東方どうしましょうVol.1アリシアVS幻想郷.md)  
-该封面包含的角色：- [米斯蒂娅·萝蕾拉](./米斯蒂娅·萝蕾拉.md)- [雾雨魔理沙](./雾雨魔理沙.md)- アリシア (未找到链接)
-
-
-
+- [東方どうしましょうVol.1アリシアVS幻想郷](./東方どうしましょうVol.1アリシアVS幻想郷.md)该封面包含的角色：
+- [米斯蒂娅·萝蕾拉](./米斯蒂娅·萝蕾拉.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
+- アリシア (未找到链接)
 
 
 ---

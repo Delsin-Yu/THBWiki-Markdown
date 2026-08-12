@@ -1,12 +1,8 @@
 # 文件:Danmaq_banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8a\ns6%3ADanmaq_banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8a\ns6%3ADanmaq_banner%2Epng.html -->
 
 Danmaq | 社团LOGO
-
-
-
-
 
 
 ---

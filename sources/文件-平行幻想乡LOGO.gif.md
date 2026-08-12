@@ -1,12 +1,8 @@
 # 文件:平行幻想乡LOGO.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\47\ns6%3A%E5%B9%B3%E8%A1%8C%E5%B9%BB%E6%83%B3%E4%B9%A1LOGO%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\47\ns6%3A%E5%B9%B3%E8%A1%8C%E5%B9%BB%E6%83%B3%E4%B9%A1LOGO%2Egif.html -->
 
 平行幻想乡 | 幻乐团官网
-
-
-
-
 
 
 ---

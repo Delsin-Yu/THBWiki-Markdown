@@ -1,6 +1,6 @@
 # 文件:夢想夏郷－A_Summer_Day's_Dream－2話オープニングPV封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9d\ns6%3A%E5%A4%A2%E6%83%B3%E5%A4%8F%E9%83%B7%EF%BC%8DA_Summer_Day%27s_Dream%EF%BC%8D2%E8%A9%B1%E3%82%AA%E3%83%BC%E3%83%97%E3%83%8B%E3%83%B3%E3%82%B0PV%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9d\ns6%3A%E5%A4%A2%E6%83%B3%E5%A4%8F%E9%83%B7%EF%BC%8DA_Summer_Day%27s_Dream%EF%BC%8D2%E8%A9%B1%E3%82%AA%E3%83%BC%E3%83%97%E3%83%8B%E3%83%B3%E3%82%B0PV%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 封面图片 | 舞风 | 视频封面
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [夢想夏郷－A Summer Day's Dream－2話オープニングPV](./夢想夏郷－A_Summer_Day's_Dream－2話オープニングPV.md)  
-该封面包含的角色：- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
-
-
-
+- [夢想夏郷－A Summer Day's Dream－2話オープニングPV](./夢想夏郷－A_Summer_Day's_Dream－2話オープニングPV.md)该封面包含的角色：
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
 
 
 ---

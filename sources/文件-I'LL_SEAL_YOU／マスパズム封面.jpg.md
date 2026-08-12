@@ -1,6 +1,6 @@
 # 文件:I'LL_SEAL_YOU／マスパズム封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6c\ns6%3AI%27LL_SEAL_YOU%EF%BC%8F%E3%83%9E%E3%82%B9%E3%83%91%E3%82%BA%E3%83%A0%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6c\ns6%3AI%27LL_SEAL_YOU%EF%BC%8F%E3%83%9E%E3%82%B9%E3%83%91%E3%82%BA%E3%83%A0%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 速鋼鉄-Speed_Metal_Sound-
 
@@ -8,16 +8,13 @@
 使用了本文件作封面图片的作品：
   
 
-- [I'LL SEAL YOU／マスパズム](./I'LL_SEAL_YOU／マスパズム.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [雾雨魔理沙](./雾雨魔理沙.md)
+- [I'LL SEAL YOU／マスパズム](./I'LL_SEAL_YOU／マスパズム.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
 源地址:TLMC扫描改编
   
-
-
-
-
 
 ---
 

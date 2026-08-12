@@ -1,12 +1,8 @@
 # 文件:东方铃奈庵（CD）封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\67\ns6%3A%E4%B8%9C%E6%96%B9%E9%93%83%E5%A5%88%E5%BA%B5%EF%BC%88CD%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\67\ns6%3A%E4%B8%9C%E6%96%B9%E9%93%83%E5%A5%88%E5%BA%B5%EF%BC%88CD%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 东方铃奈庵 | 官方音乐CD封面
-
-
-
-
 
 
 ---

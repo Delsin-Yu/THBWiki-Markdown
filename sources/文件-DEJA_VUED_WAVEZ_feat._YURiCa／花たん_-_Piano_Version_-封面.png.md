@@ -1,6 +1,6 @@
 # 文件:DEJA_VUED_WAVEZ_feat._YURiCa／花たん_-_Piano_Version_-封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\09\ns6%3ADEJA_VUED_WAVEZ_feat%2E_YURiCa%EF%BC%8F%E8%8A%B1%E3%81%9F%E3%82%93_-_Piano_Version_-%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\09\ns6%3ADEJA_VUED_WAVEZ_feat%2E_YURiCa%EF%BC%8F%E8%8A%B1%E3%81%9F%E3%82%93_-_Piano_Version_-%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 ZYTOKINE | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ ZYTOKINE | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [DEJA VUED WAVEZ feat. YURiCa／花たん - Piano Version -](./DEJA_VUED_WAVEZ_feat._YURiCa／花たん_-_Piano_Version_-.md)  
-该封面包含的角色：- [菅牧典](./菅牧典.md)
-
-
-
+- [DEJA VUED WAVEZ feat. YURiCa／花たん - Piano Version -](./DEJA_VUED_WAVEZ_feat._YURiCa／花たん_-_Piano_Version_-.md)该封面包含的角色：
+- [菅牧典](./菅牧典.md)
 
 
 ---

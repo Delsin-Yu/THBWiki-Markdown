@@ -1,6 +1,6 @@
 # 文件:姫城碧海スペシャル限定CD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f9\ns6%3A%E5%A7%AB%E5%9F%8E%E7%A2%A7%E6%B5%B7%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%E9%99%90%E5%AE%9ACD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f9\ns6%3A%E5%A7%AB%E5%9F%8E%E7%A2%A7%E6%B5%B7%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%E9%99%90%E5%AE%9ACD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 少女フラクタル
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [姫城碧海スペシャル限定CD](./姫城碧海スペシャル限定CD.md)  
-该封面包含的角色：- 原创角色 (未找到链接)
-
-
-
+- [姫城碧海スペシャル限定CD](./姫城碧海スペシャル限定CD.md)该封面包含的角色：
+- 原创角色 (未找到链接)
 
 
 ---

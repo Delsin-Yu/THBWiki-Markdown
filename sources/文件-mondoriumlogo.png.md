@@ -1,12 +1,8 @@
 # 文件:mondoriumlogo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\38\ns6%3Amondoriumlogo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\38\ns6%3Amondoriumlogo%2Epng.html -->
 
 mondorium | 社团LOGO
-
-
-
-
 
 
 ---

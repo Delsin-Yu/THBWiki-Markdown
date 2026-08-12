@@ -1,6 +1,6 @@
 # 文件:Maze封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e0\ns6%3AMaze%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e0\ns6%3AMaze%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 ガネメ | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Maze](./Maze.md)  
-该封面包含的角色：- [八云紫](./八云紫.md)
+- [Maze](./Maze.md)该封面包含的角色：
+- [八云紫](./八云紫.md)
 
   
-源地址：[[1]](http://static.tumblr.com/70e68d23f1fb62ac554bce8c2c48fcf3/lircoia/uNEnyb5mi/tumblr_static_2dfkont8g24go0co44wokgwgc.png)
-  
-
-
-
-
+源地址：[\[1\]](http://static.tumblr.com/70e68d23f1fb62ac554bce8c2c48fcf3/lircoia/uNEnyb5mi/tumblr_static_2dfkont8g24go0co44wokgwgc.png)  
 
 ---
 

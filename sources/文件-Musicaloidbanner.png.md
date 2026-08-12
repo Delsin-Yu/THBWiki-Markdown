@@ -1,16 +1,12 @@
 # 文件:Musicaloidbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\53\ns6%3AMusicaloidbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\53\ns6%3AMusicaloidbanner%2Epng.html -->
 
 Musicaloid
 
   
 [分类:社团LOGO]]
   
-
-
-
-
 
 ---
 

@@ -1,16 +1,12 @@
 # 模板:SDM
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\7\74\ns10%3ASDM.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\7\74\ns10%3ASDM.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

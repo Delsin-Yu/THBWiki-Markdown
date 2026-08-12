@@ -1,6 +1,6 @@
 # 文件:Demolition_Work封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\34\ns6%3ADemolition_Work%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\34\ns6%3ADemolition_Work%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Behind_You（同人社团） | salt_sPot | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@ Behind_You（同人社团） | salt_sPot | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Demolition Work](./Demolition_Work.md)  
-该封面包含的角色：- [河城荷取](./河城荷取.md)
+- [Demolition Work](./Demolition_Work.md)该封面包含的角色：
+- [河城荷取](./河城荷取.md)
 
   
-源地址：[direct image link (original size)](https://i1.sndcdn.com/artworks-000101516325-h5ncqw-original.jpg), [source page (soundcloud crossfade)](https://soundcloud.com/sbanananne/xfd-demolition-work)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://i1.sndcdn.com/artworks-000101516325-h5ncqw-original.jpg), [source page (soundcloud crossfade)](https://soundcloud.com/sbanananne/xfd-demolition-work)  
 
 ---
 

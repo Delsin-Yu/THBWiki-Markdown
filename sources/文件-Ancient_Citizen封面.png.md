@@ -1,6 +1,6 @@
 # 文件:Ancient_Citizen封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ac\ns6%3AAncient_Citizen%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ac\ns6%3AAncient_Citizen%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Crain | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Crain | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Ancient Citizen](./Ancient_Citizen.md)  
-该封面包含的角色：- [永江衣玖](./永江衣玖.md)
-
-
-
+- [Ancient Citizen](./Ancient_Citizen.md)该封面包含的角色：
+- [永江衣玖](./永江衣玖.md)
 
 
 ---

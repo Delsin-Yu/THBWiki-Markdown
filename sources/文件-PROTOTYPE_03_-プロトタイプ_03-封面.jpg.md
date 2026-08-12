@@ -1,6 +1,6 @@
 # 文件:PROTOTYPE_03_-プロトタイプ_03-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\33\ns6%3APROTOTYPE_03_-%E3%83%97%E3%83%AD%E3%83%88%E3%82%BF%E3%82%A4%E3%83%97_03-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\33\ns6%3APROTOTYPE_03_-%E3%83%97%E3%83%AD%E3%83%88%E3%82%BF%E3%82%A4%E3%83%97_03-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 彩音_～xi-on～
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [PROTOTYPE 03 -プロトタイプ 03-](./PROTOTYPE_03_-プロトタイプ_03-.md)  
-该封面包含的角色：- [摩多罗隐岐奈](./摩多罗隐岐奈.md)
-
-
-
+- [PROTOTYPE 03 -プロトタイプ 03-](./PROTOTYPE_03_-プロトタイプ_03-.md)该封面包含的角色：
+- [摩多罗隐岐奈](./摩多罗隐岐奈.md)
 
 
 ---

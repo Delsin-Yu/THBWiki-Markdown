@@ -1,12 +1,8 @@
 # 文件:THD2四叶草.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6a\ns6%3ATHD2%E5%9B%9B%E5%8F%B6%E8%8D%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6a\ns6%3ATHD2%E5%9B%9B%E5%8F%B6%E8%8D%89%2Epng.html -->
 
 AvalonStudioOfficial
-
-
-
-
 
 
 ---

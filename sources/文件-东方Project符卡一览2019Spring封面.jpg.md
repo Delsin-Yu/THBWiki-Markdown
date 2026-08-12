@@ -1,14 +1,11 @@
 # 文件:东方Project符卡一览2019Spring封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3d\ns6%3A%E4%B8%9C%E6%96%B9Project%E7%AC%A6%E5%8D%A1%E4%B8%80%E8%A7%882019Spring%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3d\ns6%3A%E4%B8%9C%E6%96%B9Project%E7%AC%A6%E5%8D%A1%E4%B8%80%E8%A7%882019Spring%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 东方外来韦编
 
 
 ## 文件说明
-
-
-
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:東方謎域関_~_Puzzles_from_the_Mystic_Dimension封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\af\ns6%3A%E6%9D%B1%E6%96%B9%E8%AC%8E%E5%9F%9F%E9%96%A2_%7E_Puzzles_from_the_Mystic_Dimension%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\af\ns6%3A%E6%9D%B1%E6%96%B9%E8%AC%8E%E5%9F%9F%E9%96%A2_%7E_Puzzles_from_the_Mystic_Dimension%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 RedstoneGate | 封面图片 | 软件封面
 
@@ -8,11 +8,8 @@ RedstoneGate | 封面图片 | 软件封面
 使用了本文件作封面图片的作品：
   
 
-- [東方謎域関 ~ Puzzles from the Mystic Dimension](./東方謎域関_~_Puzzles_from_the_Mystic_Dimension.md)  
-该封面包含的角色：- [丰聪耳神子](./丰聪耳神子.md)
-
-
-
+- [東方謎域関 ~ Puzzles from the Mystic Dimension](./東方謎域関_~_Puzzles_from_the_Mystic_Dimension.md)该封面包含的角色：
+- [丰聪耳神子](./丰聪耳神子.md)
 
 
 ---

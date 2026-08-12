@@ -1,6 +1,6 @@
 # 文件:KETTE_LIEBE封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\86\ns6%3AKETTE_LIEBE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\86\ns6%3AKETTE_LIEBE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 罠75
 
@@ -10,16 +10,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [KETTE LIEBE](./KETTE_LIEBE.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)- [古明地恋](./古明地恋.md)
+- [KETTE LIEBE](./KETTE_LIEBE.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [古明地恋](./古明地恋.md)
 
   
-源地址：[direct image link](https://img.doujinshi.org/big/204/408217.jpg?ver=3), [doujinshi.org ID: B408217 (V3)](https://www.doujinshi.org/book/408217/KETTE-LIEBE/)
-  
-
-
-
-
+源地址：[direct image link](https://img.doujinshi.org/big/204/408217.jpg?ver=3), [doujinshi.org ID: B408217 (V3)](https://www.doujinshi.org/book/408217/KETTE-LIEBE/)  
 
 ---
 

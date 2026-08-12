@@ -1,12 +1,8 @@
 # 文件:chipion_banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1b\ns6%3Achipion_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1b\ns6%3Achipion_banner%2Ejpg.html -->
 
 chipion | 社团LOGO
-
-
-
-
 
 
 ---

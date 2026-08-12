@@ -1,12 +1,8 @@
 # 文件:Bullet_IXbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\73\ns6%3ABullet_IXbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\73\ns6%3ABullet_IXbanner%2Ejpg.html -->
 
 Bullet_IX | 社团LOGO
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:八雲紫の幼々跋扈～I'm_Lovin'_it封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\86\ns6%3A%E5%85%AB%E9%9B%B2%E7%B4%AB%E3%81%AE%E5%B9%BC%E3%80%85%E8%B7%8B%E6%89%88%EF%BD%9EI%27m_Lovin%27_it%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\86\ns6%3A%E5%85%AB%E9%9B%B2%E7%B4%AB%E3%81%AE%E5%B9%BC%E3%80%85%E8%B7%8B%E6%89%88%EF%BD%9EI%27m_Lovin%27_it%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 龍々信玖
 
@@ -8,16 +8,19 @@
 使用了本文件作封面图片的作品：
   
 
-- [八雲紫の幼々跋扈～I'm Lovin' it](./八雲紫の幼々跋扈～I'm_Lovin'_it.md)  
-该封面包含的角色：- [八云紫](./八云紫.md)- [星熊勇仪](./星熊勇仪.md)- [圣白莲](./圣白莲.md)- 原创角色 (未找到链接)- 娜兹玲油库里 (未找到链接)- 二岩猯藏油库里 (未找到链接)- 黑谷山女油库里 (未找到链接)- 古明地觉油库里 (未找到链接)- 物部布都油库里 (未找到链接)
+- [八雲紫の幼々跋扈～I'm Lovin' it](./八雲紫の幼々跋扈～I'm_Lovin'_it.md)该封面包含的角色：
+- [八云紫](./八云紫.md)
+- [星熊勇仪](./星熊勇仪.md)
+- [圣白莲](./圣白莲.md)
+- 原创角色 (未找到链接)
+- [娜兹玲油库里](./馒馒来.md#娜兹玲)
+- [二岩猯藏油库里](./馒馒来.md#二岩猯藏)
+- [黑谷山女油库里](./馒馒来.md#黑谷山女)
+- [古明地觉油库里](./馒馒来.md#古明地觉)
+- [物部布都油库里](./馒馒来.md#物部布都)
 
   
-源地址：[Pixiv illust ID 27460972](https://www.pixiv.net/member_illust.php?mode=medium&amp;illust_id=27460972)
-  
-
-
-
-
+源地址：[Pixiv illust ID 27460972](https://www.pixiv.net/member_illust.php?mode=medium&illust_id=27460972)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:The_shout_which_swallowed_silence_EP封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\57\ns6%3AThe_shout_which_swallowed_silence_EP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\57\ns6%3AThe_shout_which_swallowed_silence_EP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 As_Killing_your_Breakdown | 专辑封面 | 封面图片
 
@@ -11,12 +11,7 @@ As_Killing_your_Breakdown | 专辑封面 | 封面图片
 - [The shout which swallowed silence EP](./The_shout_which_swallowed_silence_EP.md)
 
   
-源地址：[[1]](https://i1.sndcdn.com/artworks-000032967063-f1cqtf-t500x500.jpg), [source track](https://soundcloud.com/as-killing-your-breakdown/the-shout-which-swallowed)
-  
-
-
-
-
+源地址：[\[1\]](https://i1.sndcdn.com/artworks-000032967063-f1cqtf-t500x500.jpg), [source track](https://soundcloud.com/as-killing-your-breakdown/the-shout-which-swallowed)  
 
 ---
 

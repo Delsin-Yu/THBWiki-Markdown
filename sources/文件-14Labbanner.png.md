@@ -1,12 +1,8 @@
 # 文件:14Labbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f7\ns6%3A14Labbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f7\ns6%3A14Labbanner%2Epng.html -->
 
 14Lab | 社团LOGO
-
-
-
-
 
 
 ---

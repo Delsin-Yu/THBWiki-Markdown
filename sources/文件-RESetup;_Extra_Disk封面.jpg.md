@@ -1,6 +1,6 @@
 # 文件:RESetup;_Extra_Disk封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a3\ns6%3ARESetup%3B_Extra_Disk%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a3\ns6%3ARESetup%3B_Extra_Disk%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 C.H.S | 专辑封面 | 封面图片
 
@@ -10,16 +10,12 @@ C.H.S | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [RESetup; Extra Disk](./RESetup;_Extra_Disk.md)  
-该封面包含的角色：- [娜兹玲](./娜兹玲.md)- [寅丸星](./寅丸星.md)
+- [RESetup; Extra Disk](./RESetup;_Extra_Disk.md)该封面包含的角色：
+- [娜兹玲](./娜兹玲.md)
+- [寅丸星](./寅丸星.md)
 
   
-源地址：[direct image link](https://www.suruga-ya.jp/database/pics_light/game/186129182.jpg), [source page (suruga-ya ID: 186129182)](https://www.suruga-ya.jp/product/detail/186129182)
-  
-
-
-
-
+源地址：[direct image link](https://www.suruga-ya.jp/database/pics_light/game/186129182.jpg), [source page (suruga-ya ID: 186129182)](https://www.suruga-ya.jp/product/detail/186129182)  
 
 ---
 

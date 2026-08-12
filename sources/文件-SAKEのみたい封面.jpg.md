@@ -1,6 +1,6 @@
 # 文件:SAKEのみたい封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\50\ns6%3ASAKE%E3%81%AE%E3%81%BF%E3%81%9F%E3%81%84%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\50\ns6%3ASAKE%E3%81%AE%E3%81%BF%E3%81%9F%E3%81%84%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 うかいぷ | 同人志封面 | 封面图片
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [SAKEのみたい](./SAKEのみたい.md)  
-该封面包含的角色：- [霍青娥](./霍青娥.md)- [茨木华扇](./茨木华扇.md)
-
-
-
+- [SAKEのみたい](./SAKEのみたい.md)该封面包含的角色：
+- [霍青娥](./霍青娥.md)
+- [茨木华扇](./茨木华扇.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:TouWHO？？_3封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\65\ns6%3ATouWHO%EF%BC%9F%EF%BC%9F_3%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\65\ns6%3ATouWHO%EF%BC%9F%EF%BC%9F_3%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Grazepoint | 专辑封面 | 封面图片
 
@@ -10,16 +10,14 @@ Grazepoint | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [TouWHO？？ 3](./TouWHO？？_3.md)  
-该封面包含的角色：- [藤原妹红](./藤原妹红.md)- [永江衣玖](./永江衣玖.md)- [古明地恋](./古明地恋.md)- [秦心](./秦心.md)
+- [TouWHO？？ 3](./TouWHO？？_3.md)该封面包含的角色：
+- [藤原妹红](./藤原妹红.md)
+- [永江衣玖](./永江衣玖.md)
+- [古明地恋](./古明地恋.md)
+- [秦心](./秦心.md)
 
   
-源地址：[direct image link (10 size)](https://f4.bcbits.com/img/a0687534096_10.jpg), [source page (circle Bandcamp)](https://grazepoint.bandcamp.com/album/touwho-3)
-  
-
-
-
-
+源地址：[direct image link (10 size)](https://f4.bcbits.com/img/a0687534096_10.jpg), [source page (circle Bandcamp)](https://grazepoint.bandcamp.com/album/touwho-3)  
 
 ---
 

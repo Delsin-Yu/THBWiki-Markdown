@@ -1,16 +1,11 @@
 # 文件:Kyandoru_Raito_No_Konranbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ea\ns6%3AKyandoru_Raito_No_Konranbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ea\ns6%3AKyandoru_Raito_No_Konranbanner%2Ejpg.html -->
 
 Kyandoru_Raito_No_Konran | 社团LOGO
 
   
-源地址：[[1]](https://kyandoruraitonokonranofficial.files.wordpress.com/2013/05/cropped-sin-tc3adtulo-11.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://kyandoruraitonokonranofficial.files.wordpress.com/2013/05/cropped-sin-tc3adtulo-11.jpg)  
 
 ---
 

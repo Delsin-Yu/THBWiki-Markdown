@@ -1,6 +1,6 @@
 # 文件:MOM_EP封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7f\ns6%3AMOM_EP%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7f\ns6%3AMOM_EP%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Find_Your_Way | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Find_Your_Way | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [MOM EP](./MOM_EP.md)  
-该封面包含的角色：- [茨木华扇](./茨木华扇.md)
+- [MOM EP](./MOM_EP.md)该封面包含的角色：
+- [茨木华扇](./茨木华扇.md)
 
   
-源地址：[[1]](http://findyourway.kanyu.me/images/albumart/0014B.png)
-  
-
-
-
-
+源地址：[\[1\]](http://findyourway.kanyu.me/images/albumart/0014B.png)  
 
 ---
 

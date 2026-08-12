@@ -1,6 +1,6 @@
 # 文件:ʎɓoloǝpI_ǝsɹǝʌǝᴚ封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0a\ns6%3A%CA%8E%C9%93olo%C7%9DpI_%C7%9Ds%C9%B9%C7%9D%CA%8C%C7%9D%E1%B4%9A%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0a\ns6%3A%CA%8E%C9%93olo%C7%9DpI_%C7%9Ds%C9%B9%C7%9D%CA%8C%C7%9D%E1%B4%9A%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 モルちん斬 | 同人志封面 | 封面图片
 
@@ -9,9 +9,6 @@
   
 
 - [ʎɓoloǝpI ǝsɹǝʌǝᴚ](./ʎɓoloǝpI_ǝsɹǝʌǝᴚ.md)
-
-
-
 
 
 ---

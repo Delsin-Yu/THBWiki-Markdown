@@ -1,14 +1,11 @@
 # 文件:マリそば制作委員会banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5b\ns6%3A%E3%83%9E%E3%83%AA%E3%81%9D%E3%81%B0%E5%88%B6%E4%BD%9C%E5%A7%94%E5%93%A1%E4%BC%9Abanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5b\ns6%3A%E3%83%9E%E3%83%AA%E3%81%9D%E3%81%B0%E5%88%B6%E4%BD%9C%E5%A7%94%E5%93%A1%E4%BC%9Abanner%2Ejpg.html -->
 
 マリそば制作委員会 | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

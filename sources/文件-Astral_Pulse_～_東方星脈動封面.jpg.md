@@ -1,6 +1,6 @@
 # 文件:Astral_Pulse_～_東方星脈動封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4f\ns6%3AAstral_Pulse_%EF%BD%9E_%E6%9D%B1%E6%96%B9%E6%98%9F%E8%84%88%E5%8B%95%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4f\ns6%3AAstral_Pulse_%EF%BD%9E_%E6%9D%B1%E6%96%B9%E6%98%9F%E8%84%88%E5%8B%95%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 TRICHROMATIC | 专辑封面 | 封面图片
 
@@ -10,16 +10,12 @@ TRICHROMATIC | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Astral Pulse ～ 東方星脈動](./Astral_Pulse_～_東方星脈動.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)
+- [Astral Pulse ～ 東方星脈動](./Astral_Pulse_～_東方星脈動.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
 
   
 from TLMC scans (cropped and resized)
   
-
-
-
-
 
 ---
 

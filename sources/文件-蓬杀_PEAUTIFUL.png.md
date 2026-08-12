@@ -1,12 +1,8 @@
 # 文件:蓬杀_PEAUTIFUL.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ce\ns6%3A%E8%93%AC%E6%9D%80_PEAUTIFUL%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ce\ns6%3A%E8%93%AC%E6%9D%80_PEAUTIFUL%2Epng.html -->
 
 donjuan
-
-
-
-
 
 
 ---

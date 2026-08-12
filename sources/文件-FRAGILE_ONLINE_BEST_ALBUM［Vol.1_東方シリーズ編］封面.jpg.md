@@ -1,6 +1,6 @@
 # 文件:FRAGILE_ONLINE_BEST_ALBUM［Vol.1_東方シリーズ編］封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\67\ns6%3AFRAGILE_ONLINE_BEST_ALBUM%EF%BC%BBVol%2E1_%E6%9D%B1%E6%96%B9%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%E7%B7%A8%EF%BC%BD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\67\ns6%3AFRAGILE_ONLINE_BEST_ALBUM%EF%BC%BBVol%2E1_%E6%9D%B1%E6%96%B9%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%E7%B7%A8%EF%BC%BD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 FragileOnline | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ FragileOnline | 专辑封面 | 封面图片
   
 
 - [FRAGILE ONLINE BEST ALBUM［Vol.1 東方シリーズ編］](./FRAGILE_ONLINE_BEST_ALBUM［Vol.1_東方シリーズ編］.md)
-
-
-
 
 
 ---

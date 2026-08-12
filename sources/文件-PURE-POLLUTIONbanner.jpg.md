@@ -1,16 +1,11 @@
 # 文件:PURE-POLLUTIONbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\07\ns6%3APURE-POLLUTIONbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\07\ns6%3APURE-POLLUTIONbanner%2Ejpg.html -->
 
 PURE-POLLUTION | 社团LOGO
 
   
-源地址：[[1]](http://www.snv.jp/img/material/banner.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://www.snv.jp/img/material/banner.jpg)  
 
 ---
 

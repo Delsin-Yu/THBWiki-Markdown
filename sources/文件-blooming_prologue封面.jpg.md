@@ -1,6 +1,6 @@
 # 文件:blooming_prologue封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4d\ns6%3Ablooming_prologue%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4d\ns6%3Ablooming_prologue%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ゆめいろごろも | 同人志封面 | 封面图片
 
@@ -10,16 +10,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [blooming prologue](./blooming_prologue.md)  
-该封面包含的角色：- [风见幽香](./风见幽香.md)- [雾雨魔理沙](./雾雨魔理沙.md)
+- [blooming prologue](./blooming_prologue.md)该封面包含的角色：
+- [风见幽香](./风见幽香.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-源地址：[direct image link](http://yumegoro.sumomo.ne.jp/doujin/yuma01.jpg), [source page](http://yumegoro.sumomo.ne.jp/kokuti03.html)
-  
-
-
-
-
+源地址：[direct image link](http://yumegoro.sumomo.ne.jp/doujin/yuma01.jpg), [source page](http://yumegoro.sumomo.ne.jp/kokuti03.html)  
 
 ---
 

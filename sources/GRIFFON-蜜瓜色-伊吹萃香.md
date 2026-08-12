@@ -1,37 +1,20 @@
 # GRIFFON/蜜瓜色/伊吹萃香
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\4a\ns0%3AGRIFFON%2F%E8%9C%9C%E7%93%9C%E8%89%B2%2F%E4%BC%8A%E5%90%B9%E8%90%83%E9%A6%99.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\4a\ns0%3AGRIFFON%2F%E8%9C%9C%E7%93%9C%E8%89%B2%2F%E4%BC%8A%E5%90%B9%E8%90%83%E9%A6%99.html -->
 
 伊吹萃香PVCFigure手办模型
 
 本页是关于东方Project  
- **相关实体周边 (未找到链接)** 的词条
-
+**相关实体周边 (未找到链接)**的词条
 ## 模型信息
 
-<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 伊吹萃香 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>蜜瓜色</td></tr><tr><td class="label">角色</td><td><a href="./伊吹萃香.md" title="伊吹萃香">伊吹萃香</a></td></tr><tr><td class="label">原型师</td><td><a href="/index.php?title=I-con&amp;action=edit&amp;redlink=1" class="new" title="I-con（页面不存在）">I-con</a></td></tr><tr><td class="label">比例</td><td>1/8</td></tr><tr><td class="label">尺寸</td><td>170mm</td></tr><tr><td class="label">状态</td><td>已发售</td></tr><tr><td class="label">展会限定</td><td>Wonder Festival-2012夏</td></tr><tr><td class="label">售价</td><td>7619日元</td></tr><tr><td class="label">首发日期</td><td>2012-07-29</td></tr><tr><td class="label">发售方</td><td><a href="/index.php?title=GRIFFON&amp;action=edit&amp;redlink=1" class="new" title="GRIFFON（页面不存在）">GRIFFON</a></td></tr><tr><td class="label">官网页面</td><td><a rel="nofollow" class="external free" href="http://www.griffon.co.jp/toho/">http://www.griffon.co.jp/toho/</a></td></tr><tr><td class="label">备注</td><td>限定300体</td></tr></tbody></table>
+<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 伊吹萃香 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>蜜瓜色</td></tr><tr><td class="label">角色</td><td><a href="./伊吹萃香.md" title="伊吹萃香">伊吹萃香</a></td></tr><tr><td class="label">原型师</td><td><a class="new" title="I-con（页面不存在）">I-con</a></td></tr><tr><td class="label">比例</td><td>1/8</td></tr><tr><td class="label">尺寸</td><td>170mm</td></tr><tr><td class="label">状态</td><td>已发售</td></tr><tr><td class="label">展会限定</td><td>Wonder Festival-2012夏</td></tr><tr><td class="label">售价</td><td>7619日元</td></tr><tr><td class="label">首发日期</td><td>2012-07-29</td></tr><tr><td class="label">发售方</td><td><a class="new" title="GRIFFON（页面不存在）">GRIFFON</a></td></tr><tr><td class="label">官网页面</td><td><a rel="nofollow" class="external free" href="http://www.griffon.co.jp/toho/">http://www.griffon.co.jp/toho/</a></td></tr><tr><td class="label">备注</td><td>限定300体</td></tr></tbody></table>
 
 GRIFFON/蜜瓜色/伊吹萃香（周边） - 伊吹萃香PVCFigure手办模型
-
 ## 参考图片
-
-
-
-[](./文件-GRIFFON蜜瓜色伊吹萃香-1.jpg.md)
-
-
-[](./文件-GRIFFON蜜瓜色伊吹萃香-2.jpg.md)
-
-
-文件:GRIFFON蜜瓜色伊吹萃香-3.jpg (未找到链接)
-
-公式图
-
-
-
-
-
-
+<img alt="GRIFFON蜜瓜色伊吹萃香" src="https://upload.thwiki.cc/thumb/8/8d/GRIFFON%E8%9C%9C%E7%93%9C%E8%89%B2%E4%BC%8A%E5%90%B9%E8%90%83%E9%A6%99-1.jpg/160px-GRIFFON%E8%9C%9C%E7%93%9C%E8%89%B2%E4%BC%8A%E5%90%B9%E8%90%83%E9%A6%99-1.jpg" decoding="async" loading="lazy" width="160" height="160" srcset="https://upload.thwiki.cc/thumb/8/8d/GRIFFON%E8%9C%9C%E7%93%9C%E8%89%B2%E4%BC%8A%E5%90%B9%E8%90%83%E9%A6%99-1.jpg/240px-GRIFFON%E8%9C%9C%E7%93%9C%E8%89%B2%E4%BC%8A%E5%90%B9%E8%90%83%E9%A6%99-1.jpg 1.5x, https://upload.thwiki.cc/thumb/8/8d/GRIFFON%E8%9C%9C%E7%93%9C%E8%89%B2%E4%BC%8A%E5%90%B9%E8%90%83%E9%A6%99-1.jpg/320px-GRIFFON%E8%9C%9C%E7%93%9C%E8%89%B2%E4%BC%8A%E5%90%B9%E8%90%83%E9%A6%99-1.jpg 2x" data-file-width="873" data-file-height="875">
+<img alt="GRIFFON蜜瓜色伊吹萃香" src="https://upload.thwiki.cc/thumb/0/09/GRIFFON%E8%9C%9C%E7%93%9C%E8%89%B2%E4%BC%8A%E5%90%B9%E8%90%83%E9%A6%99-2.jpg/240px-GRIFFON%E8%9C%9C%E7%93%9C%E8%89%B2%E4%BC%8A%E5%90%B9%E8%90%83%E9%A6%99-2.jpg" decoding="async" loading="lazy" width="240" height="160" srcset="https://upload.thwiki.cc/thumb/0/09/GRIFFON%E8%9C%9C%E7%93%9C%E8%89%B2%E4%BC%8A%E5%90%B9%E8%90%83%E9%A6%99-2.jpg/360px-GRIFFON%E8%9C%9C%E7%93%9C%E8%89%B2%E4%BC%8A%E5%90%B9%E8%90%83%E9%A6%99-2.jpg 1.5x, https://upload.thwiki.cc/thumb/0/09/GRIFFON%E8%9C%9C%E7%93%9C%E8%89%B2%E4%BC%8A%E5%90%B9%E8%90%83%E9%A6%99-2.jpg/480px-GRIFFON%E8%9C%9C%E7%93%9C%E8%89%B2%E4%BC%8A%E5%90%B9%E8%90%83%E9%A6%99-2.jpg 2x" data-file-width="640" data-file-height="427">
+文件:GRIFFON蜜瓜色伊吹萃香-3.jpg (未找到链接)公式图
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:幻想郷番外地2_会場限定CD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2f\ns6%3A%E5%B9%BB%E6%83%B3%E9%83%B7%E7%95%AA%E5%A4%96%E5%9C%B02_%E4%BC%9A%E5%A0%B4%E9%99%90%E5%AE%9ACD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2f\ns6%3A%E5%B9%BB%E6%83%B3%E9%83%B7%E7%95%AA%E5%A4%96%E5%9C%B02_%E4%BC%9A%E5%A0%B4%E9%99%90%E5%AE%9ACD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Pizuya's_Cell | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Pizuya's_Cell | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [幻想郷番外地2 会場限定CD](./幻想郷番外地2_会場限定CD.md)  
-该封面包含的角色：- [VIVIT](./VIVIT.md)
-
-
-
+- [幻想郷番外地2 会場限定CD](./幻想郷番外地2_会場限定CD.md)该封面包含的角色：
+- [VIVIT](./VIVIT.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 五つの難題MOD/物品/工具
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\1\12\ns0%3A%E4%BA%94%E3%81%A4%E3%81%AE%E9%9B%A3%E9%A1%8CMOD%2F%E7%89%A9%E5%93%81%2F%E5%B7%A5%E5%85%B7.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\1\12\ns0%3A%E4%BA%94%E3%81%A4%E3%81%AE%E9%9B%A3%E9%A1%8CMOD%2F%E7%89%A9%E5%93%81%2F%E5%B7%A5%E5%85%B7.html -->
 
 くろあんこ | 五つの難題MOD
 
@@ -23,10 +23,6 @@
 <p>拥有石剑的攻击力，石稿的挖掘等级与速度，石铲和石斧的挖掘速度<br>
 </p>
 无限耐久</td></tr><tr><td style="width:120px;padding-left:7px;"><b>备注</b></td><td>不能格挡，不能耕地，不能收集树叶和雪</td></tr></tbody></table>
-
-
-
-
 
 
 ---

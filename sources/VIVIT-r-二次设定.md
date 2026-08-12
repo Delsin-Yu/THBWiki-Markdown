@@ -1,11 +1,10 @@
 # VIVIT-r/二次设定
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\a\a9\ns0%3AVIVIT-r%2F%E4%BA%8C%E6%AC%A1%E8%AE%BE%E5%AE%9A.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\a\a9\ns0%3AVIVIT-r%2F%E4%BA%8C%E6%AC%A1%E8%AE%BE%E5%AE%9A.html -->
 
 VIVIT-r | 二次设定 | 待完成页面
 
 <center>
-
 <table>
 <tbody><tr>
 <td class="mbox-image"><div style="width: 52px;">
@@ -14,14 +13,10 @@ VIVIT-r | 二次设定 | 待完成页面
 </tr>
 </tbody></table>
 
-
 </center>
-
 ## 二次设定
+
 - 由于设定文档中有提及VIVIT-r比起VIVIT“品行有着极大的歪曲”，所以有着毒舌的属性。原版嘴已经毒成那样了，量产版岂不是素质爆炸
-
-
-
 
 
 ---

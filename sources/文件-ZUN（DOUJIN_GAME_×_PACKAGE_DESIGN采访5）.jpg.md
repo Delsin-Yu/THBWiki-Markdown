@@ -1,12 +1,8 @@
 # 文件:ZUN（DOUJIN_GAME_×_PACKAGE_DESIGN采访5）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c0\ns6%3AZUN%EF%BC%88DOUJIN_GAME_%C3%97_PACKAGE_DESIGN%E9%87%87%E8%AE%BF5%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c0\ns6%3AZUN%EF%BC%88DOUJIN_GAME_%C3%97_PACKAGE_DESIGN%E9%87%87%E8%AE%BF5%EF%BC%89%2Ejpg.html -->
 
 ZUN
-
-
-
-
 
 
 ---

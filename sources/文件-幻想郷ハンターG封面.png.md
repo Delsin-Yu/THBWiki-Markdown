@@ -1,6 +1,6 @@
 # 文件:幻想郷ハンターG封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\aa\ns6%3A%E5%B9%BB%E6%83%B3%E9%83%B7%E3%83%8F%E3%83%B3%E3%82%BF%E3%83%BCG%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\aa\ns6%3A%E5%B9%BB%E6%83%B3%E9%83%B7%E3%83%8F%E3%83%B3%E3%82%BF%E3%83%BCG%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Golden_City_Factory | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ Golden_City_Factory | 专辑封面 | 封面图片
   
 
 - [幻想郷ハンターG](./幻想郷ハンターG.md)
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:だるもみ_THE_BEST封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\df\ns6%3A%E3%81%A0%E3%82%8B%E3%82%82%E3%81%BF_THE_BEST%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\df\ns6%3A%E3%81%A0%E3%82%8B%E3%82%82%E3%81%BF_THE_BEST%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 同人志封面 | 封面图片 | 見切り発車
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [だるもみ THE BEST](./だるもみ_THE_BEST.md)  
-该封面包含的角色：- [犬走椛](./犬走椛.md)
-
-
-
+- [だるもみ THE BEST](./だるもみ_THE_BEST.md)该封面包含的角色：
+- [犬走椛](./犬走椛.md)
 
 
 ---

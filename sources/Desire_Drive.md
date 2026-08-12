@@ -1,37 +1,29 @@
 # Desire_Drive
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\9\99\ns0%3ADesire_Drive.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\9\99\ns0%3ADesire_Drive.html -->
 
 由 ZUN 创作的官方曲目，原名 デザイアドライブ
 
 本页是关于东方Project  
- **原作音乐** 的词条
-
+**原作音乐**的词条
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 出现作品](#出现作品)
 - [3 音乐文件](#音乐文件)
-
   - [3.1 东方神灵庙](#东方神灵庙)
-
     - [3.1.1 常规](#常规)
     - [3.1.2 灵界](#灵界)
-
 
 
   - [3.2 鸟船遗迹](#鸟船遗迹)
 
 
-
 - [4 说明文本](#说明文本)
-
   - [4.1 东方神灵庙](#东方神灵庙_2)
 
 
-
 - [5 其他资料](#其他资料)
-
   - [5.1 乐理资讯](#乐理资讯)
   - [5.2 分析考据](#分析考据)
   - [5.3 二次同人数据](#二次同人数据)
@@ -39,23 +31,17 @@
 
 
 
-
-
-
-
 ## 基本信息
 
-<table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">デザイアドライブ</td></tr><tr><td><b>译名</b></td><td>Desire Drive</td></tr><tr><td><b>其他译名</b></td><td>欲望驱动<br>欲望加速</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>关联</td></tr><tr><td style="padding-left:15px"><b>相关曲</b></td><td><a href="./魂の休らむ所.md" class="mw-redirect" title="魂の休らむ所">魂の休らむ所</a></td></tr><tr><td style="padding-left:15px"><b>　来源</b></td><td>东方怪绮谈　～ Mystic Square.</td></tr></tbody></table>
+<table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">デザイアドライブ</td></tr><tr><td><b>译名</b></td><td>Desire Drive</td></tr><tr><td><b>其他译名</b></td><td>欲望驱动<br>欲望加速</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>关联</td></tr><tr><td style="padding-left:15px"><b>相关曲</b></td><td><a href="./灵魂安息之所.md" class="mw-redirect" title="魂の休らむ所">魂の休らむ所</a></td></tr><tr><td style="padding-left:15px"><b>　来源</b></td><td>东方怪绮谈　～ Mystic Square.</td></tr></tbody></table>
 
 Desire Drive（曲目） - 由 ZUN 创作的官方曲目，原名 デザイアドライブ
-
 ## 出现作品
 
 <table>
 <tbody><tr><td>2011年8月13日（Comic Market 80）</td><td><b><a href="./东方神灵庙.md" title="东方神灵庙">东方神灵庙</a>正式版</b></td><td>4面主题曲</td><td style="padding-left:5px;">デザイアドライブ（Desire Drive）</td><td style="padding-left:10px;">作曲：ZUN</td></tr>
 <tr><td>2012年4月30日（COMIC1☆6）</td><td><b><a href="./鸟船遗迹.md" title="鸟船遗迹">鸟船遗迹</a></b></td><td>第3轨</td><td style="padding-left:5px;">デザイアドライブ（Desire Drive）</td><td style="padding-left:10px;">编曲：ZUN</td></tr>
 </tbody></table>
-
 
 
 ## 音乐文件
@@ -72,7 +58,6 @@ Desire Drive（曲目） - 由 ZUN 创作的官方曲目，原名 デザイア�
 </td></tr></tbody></table>
 
 
-
 #### 灵界
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th13l_08.mp3.md" title="文件:th13l 08.mp3">th13l_08.mp3</a><br><audio src="https://upload.thwiki.cc/0/0e/th13l_08.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>BGM\th13_08.wav</td></tr><tr><td><b>BGMForAll</b></td><td><div class="mw-collapsible mw-collapsed">
@@ -83,17 +68,16 @@ Desire Drive（曲目） - 由 ZUN 创作的官方曲目，原名 デザイア�
 </td></tr></tbody></table>
 
 
-
 ### 鸟船遗迹
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-hr07_03.mp3.md" title="文件:hr07 03.mp3">hr07_03.mp3</a><br><audio src="https://upload.thwiki.cc/9/91/hr07_03.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track03.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>3:40</td></tr></tbody></table>
 
 
-
 ## 说明文本
 
 ### 东方神灵庙
-- Music Room (未找到链接)
+
+- [Music Room](./东方神灵庙-Music.md#4面主题曲)
 
 　４面的主题曲。  
   
@@ -101,28 +85,31 @@ Desire Drive（曲目） - 由 ZUN 创作的官方曲目，原名 デザイア�
 　在狭窄的空间中超高速疾驰的感觉真是非常舒服呢。  
 　不过虽然洞窟内无所谓，但在学校和公司内可不要奔跑。  
 　洞窟真好呢。（在钟乳洞内也不能够奔跑）
-
 ## 其他资料
 
 ### 乐理资讯
 
 ### 分析考据
   
- **デザイアドライブ**  Desire Drive
+**デザイアドライブ** Desire Drive
   
 
-- デザイア（desire）
-  - 欲望。
+- デザイア（desire） 
+  - 欲望。 
     - 神灵庙的故事主题即是「欲望」。
     - 神子等人复活的欲望。
     - 霍青娥希望获得永生的欲望。
     - 《鸟船遗迹》中梅莉探险的欲望。
 
 
-- ドライブ（drive）
-  - 驱使；动机；（心理学）欲望。
+
+
+- ドライブ（drive） 
+  - 驱使；动机；（心理学）欲望。 
     - 曲子的前半部分非常有加速的感觉，与游戏流程相匹配。
     - 在好奇心的驱使下梅莉希望探索鸟船遗迹。
+
+
 
 
 
@@ -139,17 +126,6 @@ Desire Drive（曲目） - 由 ZUN 创作的官方曲目，原名 デザイア�
 <tr><td>Arrange</td><td>1110</td></tr>
 <tr><td>Vocal率</td><td>32.56%</td></tr>
 </tbody></table>
-
-
-
-
-  
-  
-
-  
-
-
-
 
 
 ---

@@ -1,14 +1,11 @@
 # 文件:The_Grimoire_of_Usami（多多良小伞1）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0a\ns6%3AThe_Grimoire_of_Usami%EF%BC%88%E5%A4%9A%E5%A4%9A%E8%89%AF%E5%B0%8F%E4%BC%9E1%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0a\ns6%3AThe_Grimoire_of_Usami%EF%BC%88%E5%A4%9A%E5%A4%9A%E8%89%AF%E5%B0%8F%E4%BC%9E1%EF%BC%89%2Ejpg.html -->
 
 多多良小伞 | 宇佐见的魔法书
 
 
 ## 摘要
-
-
-
 
 ---
 

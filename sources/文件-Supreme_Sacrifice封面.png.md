@@ -1,6 +1,6 @@
 # 文件:Supreme_Sacrifice封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ea\ns6%3ASupreme_Sacrifice%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ea\ns6%3ASupreme_Sacrifice%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 suny_chocolat | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ suny_chocolat | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Supreme Sacrifice](./Supreme_Sacrifice.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
-
-
-
+- [Supreme Sacrifice](./Supreme_Sacrifice.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
 
 ---

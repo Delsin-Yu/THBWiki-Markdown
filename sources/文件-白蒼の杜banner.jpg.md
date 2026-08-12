@@ -1,12 +1,8 @@
 # 文件:白蒼の杜banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e0\ns6%3A%E7%99%BD%E8%92%BC%E3%81%AE%E6%9D%9Cbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e0\ns6%3A%E7%99%BD%E8%92%BC%E3%81%AE%E6%9D%9Cbanner%2Ejpg.html -->
 
 a_HEAL | 社团LOGO
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Void_Ocean_Promotion_Disc封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2e\ns6%3AVoid_Ocean_Promotion_Disc%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2e\ns6%3AVoid_Ocean_Promotion_Disc%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Nami_Haven | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Nami_Haven | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Void Ocean Promotion Disc](./Void_Ocean_Promotion_Disc.md)  
-该封面包含的角色：- [九十九弁弁](./九十九弁弁.md)
-
-
-
+- [Void Ocean Promotion Disc](./Void_Ocean_Promotion_Disc.md)该封面包含的角色：
+- [九十九弁弁](./九十九弁弁.md)
 
 
 ---

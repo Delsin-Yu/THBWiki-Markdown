@@ -1,6 +1,6 @@
 # Nuclear_Fusion/游戏资料
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\40\ns0%3ANuclear_Fusion%2F%E6%B8%B8%E6%88%8F%E8%B5%84%E6%96%99.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\40\ns0%3ANuclear_Fusion%2F%E6%B8%B8%E6%88%8F%E8%B5%84%E6%96%99.html -->
 
 灵乌路空 | 符卡
 
@@ -25,7 +25,6 @@
 </td></tr></tbody></table>
 
 
-
 ## 东方地灵殿
 
 ### Hard
@@ -33,11 +32,6 @@
 <table>
 <tbody><tr><td style="min-width:200px" colspan="4" align="center"><b>核热「Nuclear Excursion」</b></td></tr><tr><td style="min-width:100px" colspan="2" align="center"><b>符卡使用者</b></td><td style="min-width:250px" colspan="2" align="center"><a href="./灵乌路空.md" title="灵乌路空">灵乌路空</a></td></tr><tr><td style="min-width:100px" colspan="2" align="center"><b>符卡血量</b></td><td style="min-width:250px" colspan="2" align="center">3000</td></tr><tr><td style="min-width:100px" colspan="2" align="center"><b>符卡分数</b></td><td style="min-width:250px" colspan="2" align="center">8,000,000</td></tr><tr><td style="min-width:100px" colspan="2" align="center"><b>符卡时间</b></td><td style="min-width:250px" colspan="2" align="center">60s</td></tr><tr><td style="min-width:100px" colspan="2" align="center"><b>弹幕类型</b></td><td style="min-width:250px" colspan="2" align="center">1. 先向外爆发出6枚核弹,随即爆发出4枚核弹。<br>2.然后Boss放出3条以自身为中心旋转并扩散开来的蓝色小玉条。<br>3.此符中的核弹为奇数自机狙。</td></tr><tr><td style="min-width:100px" colspan="2" align="center"><b>应对建议</b></td><td style="min-width:250px" colspan="2" align="center">引开第一波核弹，然后放2~3B混过。</td></tr>
 </tbody></table>
-
-
-
-
-
 
 
 ---

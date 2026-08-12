@@ -1,12 +1,8 @@
 # 文件:东方心梦游-人物-石井樱子（Q版）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\02\ns6%3A%E4%B8%9C%E6%96%B9%E5%BF%83%E6%A2%A6%E6%B8%B8-%E4%BA%BA%E7%89%A9-%E7%9F%B3%E4%BA%95%E6%A8%B1%E5%AD%90%EF%BC%88Q%E7%89%88%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\02\ns6%3A%E4%B8%9C%E6%96%B9%E5%BF%83%E6%A2%A6%E6%B8%B8-%E4%BA%BA%E7%89%A9-%E7%9F%B3%E4%BA%95%E6%A8%B1%E5%AD%90%EF%BC%88Q%E7%89%88%EF%BC%89%2Epng.html -->
 
 二次角色立绘 | 夢星琉璃 | 石井樱子
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:東方_SCHRANZ_WARS封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9f\ns6%3A%E6%9D%B1%E6%96%B9_SCHRANZ_WARS%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9f\ns6%3A%E6%9D%B1%E6%96%B9_SCHRANZ_WARS%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ダシマキレコード | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方 SCHRANZ WARS](./東方_SCHRANZ_WARS.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)
+- [東方 SCHRANZ WARS](./東方_SCHRANZ_WARS.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
 
   
-源地址：[图片链接](https://f4.bcbits.com/img/a0316165026_0.jpg)[Bandcamp](https://tkgmusic2.bandcamp.com/album/schranz-wars)
-  
-
-
-
-
+源地址：[图片链接](https://f4.bcbits.com/img/a0316165026_0.jpg)[Bandcamp](https://tkgmusic2.bandcamp.com/album/schranz-wars)  
 
 ---
 

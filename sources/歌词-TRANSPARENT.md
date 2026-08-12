@@ -1,26 +1,17 @@
 # 歌词:Transparent
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\8\88\ns512%3ATransparent.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\8\88\ns512%3ATransparent.html -->
 
 使用了翻译表的页面 | 歌词 | 没有翻译的歌词 | 発熱巫女～ず | 英文歌词
 
 
-<table><tbody><tr><th colspan="2">曲目信息</th></tr><tr><td colspan="2" style="padding-left: 1em;"><div class="floatright"><a href="./文件-Starlight_Prelude封面.jpg.md" class="image" title="Starlight Prelude"><img alt="Starlight Prelude" src="https://upload.thwiki.cc/thumb/a/a1/Starlight_Prelude%E5%B0%81%E9%9D%A2.jpg/200px-Starlight_Prelude%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="200" height="172" srcset="https://upload.thwiki.cc/thumb/a/a1/Starlight_Prelude%E5%B0%81%E9%9D%A2.jpg/300px-Starlight_Prelude%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/a/a1/Starlight_Prelude%E5%B0%81%E9%9D%A2.jpg/400px-Starlight_Prelude%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="600" data-file-height="515"></a></div><b><a href="/Starlight_Prelude#6" title="Starlight Prelude">Transparent</a></b> &#91;06:27&#93;<dl><dd><a href="./Starlight_Prelude.md" title="Starlight Prelude">Starlight Prelude</a> （2012-08-11）<br>社团：<a href="./発熱巫女～ず.md" title="発熱巫女～ず">発熱巫女～ず</a><br>编曲：<a href="./Maurits-禅-Cornelis.md" title="Maurits&quot;禅&quot;Cornelis">Maurits"禅"Cornelis</a><br>演唱：<a href="/index.php?title=millie&amp;action=edit&amp;redlink=1" class="new" title="millie（页面不存在）">millie</a><br>作词：<a href="/index.php?title=Laura_April&amp;action=edit&amp;redlink=1" class="new" title="Laura April（页面不存在）">Laura April</a><br>原曲：<a href="./狂气之瞳_～_Invisible_Full_Moon.md" title="狂气之瞳 ～ Invisible Full Moon" unred="">狂気の瞳　～ Invisible Full Moon</a><br></dd></dl></td></tr></tbody></table>
+<table><tbody><tr><th colspan="2">曲目信息</th></tr><tr><td colspan="2" style="padding-left: 1em;"><div class="floatright"><a href="./文件-Starlight_Prelude封面.jpg.md" class="image" title="Starlight Prelude"><img alt="Starlight Prelude" src="https://upload.thwiki.cc/thumb/a/a1/Starlight_Prelude%E5%B0%81%E9%9D%A2.jpg/200px-Starlight_Prelude%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="200" height="172" srcset="https://upload.thwiki.cc/thumb/a/a1/Starlight_Prelude%E5%B0%81%E9%9D%A2.jpg/300px-Starlight_Prelude%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/a/a1/Starlight_Prelude%E5%B0%81%E9%9D%A2.jpg/400px-Starlight_Prelude%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="600" data-file-height="515"></a></div><b><a href="./Starlight_Prelude.md#6" title="Starlight Prelude">Transparent</a></b> [06:27]<dl><dd><a href="./Starlight_Prelude.md" title="Starlight Prelude">Starlight Prelude</a> （2012-08-11）<br>社团：<a href="./発熱巫女～ず.md" title="発熱巫女～ず">発熱巫女～ず</a><br>编曲：<a href="./Maurits-禅-Cornelis.md" title="Maurits&quot;禅&quot;Cornelis">Maurits"禅"Cornelis</a><br>演唱：<a class="new" title="millie（页面不存在）">millie</a><br>作词：<a class="new" title="Laura April（页面不存在）">Laura April</a><br>原曲：<a href="./狂气之瞳_～_Invisible_Full_Moon.md" title="狂气之瞳 ～ Invisible Full Moon" unred="">狂気の瞳　～ Invisible Full Moon</a><br></dd></dl></td></tr></tbody></table>
+
 
 - 歌词语言：英文
 
-  
-  
-
-  
-
 
 <table><tbody><tr class="tt-lyrics-header" id="=-1" data-pos="&#91;&quot;=&quot;,1&#93;"><td class="tt-lyrics" lang="zh"><div class="poem"></div></td><td class="tt-mainh" lang="zh"><div class="poem"></div></td><td class="tt-tranh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-main-ja" id="=-2" data-pos="&#91;&quot;=&quot;,2&#93;"><td class="tt-time" lang="zh"><div class="poem"></div></td><td class="tt-ja" lang="ja"><div class="poem"></div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-main-en" id="=-3" data-pos="&#91;&quot;=&quot;,3&#93;"><td class="tt-time" lang="zh"><div class="poem"></div></td><td class="tt-en" lang="en"><div class="poem">I can see right through you like you're not here</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-main-en" id="=-4" data-pos="&#91;&quot;=&quot;,4&#93;"><td class="tt-time" lang="zh"><div class="poem"></div></td><td class="tt-en" lang="en"><div class="poem">You can look at me and never see</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-lyrics-sep" id="=-5" data-pos="&#91;&quot;=&quot;,5&#93;"><td class="tt-sep" lang="zh"><div class="poem"></div></td><td class="tt-text" lang="zh"><div class="poem"></div></td><td class="tt-tran" lang="zh"><div class="poem"></div></td></tr><tr class="tt-main-ja" id="=-6" data-pos="&#91;&quot;=&quot;,6&#93;"><td class="tt-time" lang="zh"><div class="poem"></div></td><td class="tt-ja" lang="ja"><div class="poem"></div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-main-en" id="=-7" data-pos="&#91;&quot;=&quot;,7&#93;"><td class="tt-time" lang="zh"><div class="poem"></div></td><td class="tt-en" lang="en"><div class="poem">I can tell you a thousand times that I love you</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-main-en" id="=-8" data-pos="&#91;&quot;=&quot;,8&#93;"><td class="tt-time" lang="zh"><div class="poem"></div></td><td class="tt-en" lang="en"><div class="poem">but I don't know love</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-main-en" id="=-9" data-pos="&#91;&quot;=&quot;,9&#93;"><td class="tt-time" lang="zh"><div class="poem"></div></td><td class="tt-en" lang="en"><div class="poem">I'm here still trying to believe</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-main-en" id="=-10" data-pos="&#91;&quot;=&quot;,10&#93;"><td class="tt-time" lang="zh"><div class="poem"></div></td><td class="tt-en" lang="en"><div class="poem">Never know the reason why</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr></tbody></table>
-
-
-
-
-
 
 
 ---

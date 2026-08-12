@@ -1,6 +1,6 @@
 # 文件:JONSAW封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\86\ns6%3AJONSAW%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\86\ns6%3AJONSAW%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 サルネスコ | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [JONSAW](./JONSAW.md)  
-该封面包含的角色：- [依神女苑](./依神女苑.md)
+- [JONSAW](./JONSAW.md)该封面包含的角色：
+- [依神女苑](./依神女苑.md)
 
   
-[Pixiv artwork ID: 74470526 (original size)](https://www.pixiv.net/artworks/74470526)
-  
-
-
-
-
+[Pixiv artwork ID: 74470526 (original size)](https://www.pixiv.net/artworks/74470526)  
 
 ---
 

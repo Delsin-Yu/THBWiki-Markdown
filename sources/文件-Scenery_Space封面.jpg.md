@@ -1,6 +1,6 @@
 # 文件:Scenery_Space封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\15\ns6%3AScenery_Space%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\15\ns6%3AScenery_Space%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 上海镜面爱丽丝旅游团 | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Scenery Space](./Scenery_Space.md)  
-该封面包含的角色：- [蓬莱人形](./蓬莱人形.md)
-
-
-
+- [Scenery Space](./Scenery_Space.md)该封面包含的角色：
+- [蓬莱人形](./蓬莱人形.md)
 
 
 ---

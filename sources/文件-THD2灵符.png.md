@@ -1,12 +1,8 @@
 # 文件:THD2灵符.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\85\ns6%3ATHD2%E7%81%B5%E7%AC%A6%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\85\ns6%3ATHD2%E7%81%B5%E7%AC%A6%2Epng.html -->
 
 AvalonStudioOfficial
-
-
-
-
 
 
 ---

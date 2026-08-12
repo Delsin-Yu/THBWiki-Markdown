@@ -1,16 +1,12 @@
 # 文件:赤狐社社团logo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\02\ns6%3A%E8%B5%A4%E7%8B%90%E7%A4%BE%E7%A4%BE%E5%9B%A2logo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\02\ns6%3A%E8%B5%A4%E7%8B%90%E7%A4%BE%E7%A4%BE%E5%9B%A2logo%2Ejpg.html -->
 
 社团LOGO | 赤狐社
 
   
 社团logo
   
-
-
-
-
 
 ---
 

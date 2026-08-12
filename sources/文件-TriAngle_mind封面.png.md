@@ -1,6 +1,6 @@
 # 文件:TriAngle_mind封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a1\ns6%3ATriAngle_mind%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a1\ns6%3ATriAngle_mind%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 pastyle | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ pastyle | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [TriAngle mind](./TriAngle_mind.md)  
-该封面包含的角色：- [古明地觉](./古明地觉.md)
-
-
-
+- [TriAngle mind](./TriAngle_mind.md)该封面包含的角色：
+- [古明地觉](./古明地觉.md)
 
 
 ---

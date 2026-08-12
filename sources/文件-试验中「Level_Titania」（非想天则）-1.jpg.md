@@ -1,12 +1,8 @@
 # 文件:试验中「Level_Titania」（非想天则）-1.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f0\ns6%3A%E8%AF%95%E9%AA%8C%E4%B8%AD%E3%80%8CLevel_Titania%E3%80%8D%EF%BC%88%E9%9D%9E%E6%83%B3%E5%A4%A9%E5%88%99%EF%BC%89-1%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f0\ns6%3A%E8%AF%95%E9%AA%8C%E4%B8%AD%E3%80%8CLevel_Titania%E3%80%8D%EF%BC%88%E9%9D%9E%E6%83%B3%E5%A4%A9%E5%88%99%EF%BC%89-1%2Ejpg.html -->
 
 东方非想天则 | 敌机符卡 | 爱丽丝·玛格特洛依德
-
-
-
-
 
 
 ---

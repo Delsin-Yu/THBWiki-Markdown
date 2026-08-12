@@ -1,16 +1,11 @@
 # 文件:楽団ロマンティシズムbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7d\ns6%3A%E6%A5%BD%E5%9B%A3%E3%83%AD%E3%83%9E%E3%83%B3%E3%83%86%E3%82%A3%E3%82%B7%E3%82%BA%E3%83%A0banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7d\ns6%3A%E6%A5%BD%E5%9B%A3%E3%83%AD%E3%83%9E%E3%83%B3%E3%83%86%E3%82%A3%E3%82%B7%E3%82%BA%E3%83%A0banner%2Epng.html -->
 
 楽団ロマンティシズム | 社团LOGO
 
   
-源地址：[[1]](http://gakuroma.dokkoisho.com/image/gakuroma.png)
-  
-
-
-
-
+源地址：[\[1\]](http://gakuroma.dokkoisho.com/image/gakuroma.png)  
 
 ---
 

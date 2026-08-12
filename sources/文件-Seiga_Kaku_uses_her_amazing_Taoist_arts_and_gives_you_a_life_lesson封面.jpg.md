@@ -1,6 +1,6 @@
 # 文件:Seiga_Kaku_uses_her_amazing_Taoist_arts_and_gives_you_a_life_lesson封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d9\ns6%3ASeiga_Kaku_uses_her_amazing_Taoist_arts_and_gives_you_a_life_lesson%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d9\ns6%3ASeiga_Kaku_uses_her_amazing_Taoist_arts_and_gives_you_a_life_lesson%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Skuhataagyall_dev | 封面图片 | 软件封面
 
@@ -10,11 +10,8 @@ Skuhataagyall_dev | 封面图片 | 软件封面
 使用了本文件作封面图片的作品：
   
 
-- [Seiga Kaku uses her amazing Taoist arts and gives you a life lesson](./Seiga_Kaku_uses_her_amazing_Taoist_arts_and_gives_you_a_life_lesson.md)  
-该封面包含的角色：- [霍青娥](./霍青娥.md)
-
-
-
+- [Seiga Kaku uses her amazing Taoist arts and gives you a life lesson](./Seiga_Kaku_uses_her_amazing_Taoist_arts_and_gives_you_a_life_lesson.md)该封面包含的角色：
+- [霍青娥](./霍青娥.md)
 
 
 ---

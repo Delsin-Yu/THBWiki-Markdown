@@ -1,6 +1,6 @@
 # 文件:MLab封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cc\ns6%3AMLab%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cc\ns6%3AMLab%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Mentaiko_Lab | 同人志封面 | 封面图片
 
@@ -8,16 +8,14 @@ Mentaiko_Lab | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [MLab](./MLab.md)  
-该封面包含的角色：- [露米娅](./露米娅.md)- [射命丸文](./射命丸文.md)- [洩矢诹访子](./洩矢诹访子.md)- [古明地觉](./古明地觉.md)
+- [MLab](./MLab.md)该封面包含的角色：
+- [露米娅](./露米娅.md)
+- [射命丸文](./射命丸文.md)
+- [洩矢诹访子](./洩矢诹访子.md)
+- [古明地觉](./古明地觉.md)
 
   
-源地址：[[1]](https://twitter.com/unimoti/status/761853309493706753)
-  
-
-
-
-
+源地址：[\[1\]](https://twitter.com/unimoti/status/761853309493706753)  
 
 ---
 

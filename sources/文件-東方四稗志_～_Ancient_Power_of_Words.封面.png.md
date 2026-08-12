@@ -1,6 +1,6 @@
 # 文件:東方四稗志_～_Ancient_Power_of_Words.封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\58\ns6%3A%E6%9D%B1%E6%96%B9%E5%9B%9B%E7%A8%97%E5%BF%97_%EF%BD%9E_Ancient_Power_of_Words%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\58\ns6%3A%E6%9D%B1%E6%96%B9%E5%9B%9B%E7%A8%97%E5%BF%97_%EF%BD%9E_Ancient_Power_of_Words%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 天穂 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方四稗志 ～ Ancient Power of Words.](./東方四稗志_～_Ancient_Power_of_Words..md)  
-该封面包含的角色：- 原创角色 (未找到链接)
-
-
-
+- [東方四稗志 ～ Ancient Power of Words.](./東方四稗志_～_Ancient_Power_of_Words..md)该封面包含的角色：
+- 原创角色 (未找到链接)
 
 
 ---

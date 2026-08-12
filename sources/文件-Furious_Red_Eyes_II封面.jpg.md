@@ -1,6 +1,6 @@
 # 文件:Furious_Red_Eyes_II封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\62\ns6%3AFurious_Red_Eyes_II%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\62\ns6%3AFurious_Red_Eyes_II%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 -Sakimiya- | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Furious Red Eyes II](./Furious_Red_Eyes_II.md)  
-该封面包含的角色：- [红美铃](./红美铃.md)
-
-
-
+- [Furious Red Eyes II](./Furious_Red_Eyes_II.md)该封面包含的角色：
+- [红美铃](./红美铃.md)
 
 
 ---

@@ -1,16 +1,11 @@
 # 文件:月猫工房banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\58\ns6%3A%E6%9C%88%E7%8C%AB%E5%B7%A5%E6%88%BFbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\58\ns6%3A%E6%9C%88%E7%8C%AB%E5%B7%A5%E6%88%BFbanner%2Epng.html -->
 
 月猫工房 | 社团LOGO
 
   
-源地址：[[1]](https://static.wixstatic.com/media/1561b7_05270c97a6564d229115091111c63ceb~mv2_d_2500_1600_s_2.png/v1/fill/w_859,h_550,al_c,q_85,usm_0.66_1.00_0.01/1561b7_05270c97a6564d229115091111c63ceb~mv2_d_2500_1600_s_2.webp)
-  
-
-
-
-
+源地址：[\[1\]](https://static.wixstatic.com/media/1561b7_05270c97a6564d229115091111c63ceb~mv2_d_2500_1600_s_2.png/v1/fill/w_859,h_550,al_c,q_85,usm_0.66_1.00_0.01/1561b7_05270c97a6564d229115091111c63ceb~mv2_d_2500_1600_s_2.webp)  
 
 ---
 

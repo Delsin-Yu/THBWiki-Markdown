@@ -1,14 +1,11 @@
 # 文件:いろえんぴつ。banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e7\ns6%3A%E3%81%84%E3%82%8D%E3%81%88%E3%82%93%E3%81%B4%E3%81%A4%E3%80%82banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e7\ns6%3A%E3%81%84%E3%82%8D%E3%81%88%E3%82%93%E3%81%B4%E3%81%A4%E3%80%82banner%2Ejpg.html -->
 
 いろえんぴつ。 | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

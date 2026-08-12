@@ -1,6 +1,6 @@
 # 文件:Thought_of_Dolls_空疎ノ人形と護るモノ封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\af\ns6%3AThought_of_Dolls_%E7%A9%BA%E7%96%8E%E3%83%8E%E4%BA%BA%E5%BD%A2%E3%81%A8%E8%AD%B7%E3%82%8B%E3%83%A2%E3%83%8E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\af\ns6%3AThought_of_Dolls_%E7%A9%BA%E7%96%8E%E3%83%8E%E4%BA%BA%E5%BD%A2%E3%81%A8%E8%AD%B7%E3%82%8B%E3%83%A2%E3%83%8E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 葉庭の出店
 
@@ -10,16 +10,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [Thought of Dolls 空疎ノ人形と護るモノ](./Thought_of_Dolls_空疎ノ人形と護るモノ.md)  
-该封面包含的角色：- 原创角色 (未找到链接)
+- [Thought of Dolls 空疎ノ人形と護るモノ](./Thought_of_Dolls_空疎ノ人形と護るモノ.md)该封面包含的角色：
+- 原创角色 (未找到链接)
 
   
 作品的前缀“Thought of Dolls”是否算作标题的一部分存在争议
   
-
-
-
-
 
 ---
 

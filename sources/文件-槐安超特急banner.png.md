@@ -1,12 +1,8 @@
 # 文件:槐安超特急banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f1\ns6%3A%E6%A7%90%E5%AE%89%E8%B6%85%E7%89%B9%E6%80%A5banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f1\ns6%3A%E6%A7%90%E5%AE%89%E8%B6%85%E7%89%B9%E6%80%A5banner%2Epng.html -->
 
 槐安超特急 | 社团LOGO
-
-
-
-
 
 
 ---

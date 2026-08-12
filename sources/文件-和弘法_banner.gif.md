@@ -1,12 +1,8 @@
 # 文件:和弘法_banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\51\ns6%3A%E5%92%8C%E5%BC%98%E6%B3%95_banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\51\ns6%3A%E5%92%8C%E5%BC%98%E6%B3%95_banner%2Egif.html -->
 
 和弘法 | 社团LOGO
-
-
-
-
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:Mundi_renovatiobanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a6\ns6%3AMundi_renovatiobanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a6\ns6%3AMundi_renovatiobanner%2Ejpg.html -->
 
 Mundi_renovatio | 社团LOGO
-
-
-
-
 
 
 ---

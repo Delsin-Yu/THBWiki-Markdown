@@ -1,12 +1,8 @@
 # 文件:(有)はしやすめwithオンパシラオールスターズbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cd\ns6%3A%28%E6%9C%89%29%E3%81%AF%E3%81%97%E3%82%84%E3%81%99%E3%82%81with%E3%82%AA%E3%83%B3%E3%83%91%E3%82%B7%E3%83%A9%E3%82%AA%E3%83%BC%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BAbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cd\ns6%3A%28%E6%9C%89%29%E3%81%AF%E3%81%97%E3%82%84%E3%81%99%E3%82%81with%E3%82%AA%E3%83%B3%E3%83%91%E3%82%B7%E3%83%A9%E3%82%AA%E3%83%BC%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BAbanner%2Ejpg.html -->
 
 (有)はしやすめwithオンパシラオールスターズ | 社团LOGO
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Her_day封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7e\ns6%3AHer_day%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7e\ns6%3AHer_day%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 gaton. | 同人志封面 | 封面图片
 
@@ -8,11 +8,10 @@ gaton. | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Her day](./Her_day.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [Her day](./Her_day.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

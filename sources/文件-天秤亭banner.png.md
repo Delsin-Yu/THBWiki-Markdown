@@ -1,16 +1,11 @@
 # 文件:天秤亭banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b2\ns6%3A%E5%A4%A9%E7%A7%A4%E4%BA%ADbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b2\ns6%3A%E5%A4%A9%E7%A7%A4%E4%BA%ADbanner%2Epng.html -->
 
 天秤亭 | 社团LOGO
 
   
-源地址：[[1]](http://10bintei.com/images/banner.png)
-  
-
-
-
-
+源地址：[\[1\]](http://10bintei.com/images/banner.png)  
 
 ---
 

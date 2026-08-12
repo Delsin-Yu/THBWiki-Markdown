@@ -1,6 +1,6 @@
 # 文件:HAPPY_WINTER（同人志）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6f\ns6%3AHAPPY_WINTER%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6f\ns6%3AHAPPY_WINTER%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 MMU2000 | 同人志封面 | 封面图片
 
@@ -8,11 +8,9 @@ MMU2000 | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [HAPPY WINTER（同人志）](./HAPPY_WINTER（同人志）.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)- [蕾蒂·霍瓦特洛克](./蕾蒂·霍瓦特洛克.md)
-
-
-
+- [HAPPY WINTER（同人志）](./HAPPY_WINTER（同人志）.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
+- [蕾蒂·霍瓦特洛克](./蕾蒂·霍瓦特洛克.md)
 
 
 ---

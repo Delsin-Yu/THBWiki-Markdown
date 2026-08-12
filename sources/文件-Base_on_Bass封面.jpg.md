@@ -1,6 +1,6 @@
 # 文件:Base_on_Bass封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\07\ns6%3ABase_on_Bass%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\07\ns6%3ABase_on_Bass%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Glassy：oceaN | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@ Glassy：oceaN | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Base on Bass](./Base_on_Bass.md)  
-该封面包含的角色：- [铃瑚](./铃瑚.md)
+- [Base on Bass](./Base_on_Bass.md)该封面包含的角色：
+- [铃瑚](./铃瑚.md)
 
   
-源地址：[图片链接](https://i1.sndcdn.com/artworks-000607202413-4rehf2-original.jpg) [SoundCloud](https://soundcloud.com/adaptor166/15base-on-bassxfd)
-  
-
-
-
-
+源地址：[图片链接](https://i1.sndcdn.com/artworks-000607202413-4rehf2-original.jpg) [SoundCloud](https://soundcloud.com/adaptor166/15base-on-bassxfd)  
 
 ---
 

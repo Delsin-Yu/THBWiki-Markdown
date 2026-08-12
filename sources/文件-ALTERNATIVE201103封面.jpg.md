@@ -1,6 +1,6 @@
 # 文件:ALTERNATIVE201103封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\83\ns6%3AALTERNATIVE201103%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\83\ns6%3AALTERNATIVE201103%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 SYNC.ART'S | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ SYNC.ART'S | 专辑封面 | 封面图片
   
 
 - [ALTERNATIVE201103](./ALTERNATIVE201103.md)
-
-
-
 
 
 ---

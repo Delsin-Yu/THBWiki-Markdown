@@ -1,16 +1,10 @@
 # 东方三月精_～_Oriental_Sacred_Place./第十三话
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\9\9d\ns0%3A%E4%B8%9C%E6%96%B9%E4%B8%89%E6%9C%88%E7%B2%BE_%EF%BD%9E_Oriental_Sacred_Place%2E%2F%E7%AC%AC%E5%8D%81%E4%B8%89%E8%AF%9D.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\9\9d\ns0%3A%E4%B8%9C%E6%96%B9%E4%B8%89%E6%9C%88%E7%B2%BE_%EF%BD%9E_Oriental_Sacred_Place%2E%2F%E7%AC%AC%E5%8D%81%E4%B8%89%E8%AF%9D.html -->
 
 东方三月精_～_Oriental_Sacred_Place. | 使用了翻译表的页面 | 待完成页面
 
-  
-  
-
-  
-
 <center>
-
 <table>
 <tbody><tr>
 <td class="mbox-image"><div style="width: 52px;">
@@ -19,27 +13,24 @@
 </tr>
 </tbody></table>
 
-
-</center>
-<center>
-
+</center><center>
 <table>
 <tbody><tr>
-<td>&lt;
+<td><
 </td>
-<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./东方三月精_～_Oriental_Sacred_Place.-第十二话.md" title="东方三月精 ～ Oriental Sacred Place./第十二话">第十二话</a>&#160;
+<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./东方三月精_～_Oriental_Sacred_Place.-第十二话.md" title="东方三月精 ～ Oriental Sacred Place./第十二话">第十二话</a> 
 </td>
-<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="./东方三月精_～_Oriental_Sacred_Place..md" title="东方三月精 ～ Oriental Sacred Place.">东方三月精O</a>&#160;
+<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;"> <a href="./东方三月精_～_Oriental_Sacred_Place..md" title="东方三月精 ～ Oriental Sacred Place.">东方三月精O</a> 
 </td>
-<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left">&#160;<a href="./东方三月精_～_Oriental_Sacred_Place.-第十四话.md" title="东方三月精 ～ Oriental Sacred Place./第十四话">第十四话</a>
+<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left"> <a href="./东方三月精_～_Oriental_Sacred_Place.-第十四话.md" title="东方三月精 ～ Oriental Sacred Place./第十四话">第十四话</a>
 </td>
-<td>&gt;
+<td>>
 </td></tr></tbody></table>
 
   
 </center>
-- 本词条内容为官方漫画 **东方三月精 ～ Oriental Sacred Place.** 的剧情对话文字版。
-- 观看在线漫画请点击[这里](http://bbs.nyasama.com/forum.php?mod=viewthread&amp;tid=12667)。
+- 本词条内容为官方漫画**东方三月精 ～ Oriental Sacred Place.**的剧情对话文字版。
+- 观看在线漫画请点击[这里](http://bbs.nyasama.com/forum.php?mod=viewthread&tid=12667)。
 
 
 ## P1
@@ -47,46 +38,28 @@
 <table><tbody><tr class="tt-narrator" id="P1-1" data-pos="&#91;&quot;P1&quot;,1&#93;"><td id="" class="tt-narrator" lang="zh"><div class="poem"></div></td><td class="tt-ja" lang="ja"><div class="poem"></div></td><td class="tt-zh" lang="zh"><div class="poem">拉着货摊在雪中前行的是……谁？</div></td></tr><tr class="tt-status-header" id="P1-2" data-pos="&#91;&quot;P1&quot;,2&#93;"><td class="tt-s" lang="zh"><div class="poem"></div></td><td colspan="2" class="tt-status" lang="zh"><div class="poem">米斯蒂娅在雪中拉着货摊</div></td></tr></tbody></table>
 
 
-
 ## P2
 
 <table><tbody><tr class="tt-header" id="P2-1" data-pos="&#91;&quot;P2&quot;,1&#93;"><td id="" class="tt-h" lang="zh"><div class="poem"></div></td><td class="tt-ja" lang="ja"><div class="poem"><big>東方三月精</big><br>～  Oriental Sacred Place.</div></td><td class="tt-zh" lang="zh"><div class="poem"><big>东方三月精</big><br>～  Oriental Sacred Place.</div></td></tr><tr class="tt-header" id="P2-2" data-pos="&#91;&quot;P2&quot;,2&#93;"><td id="" class="tt-h" lang="zh"><div class="poem"></div></td><td class="tt-ja" lang="ja"><div class="poem">第十三話　すずめ百まで</div></td><td class="tt-zh" lang="zh"><div class="poem">第十三话 麻雀百岁不忘舞</div></td></tr><tr class="tt-status-header" id="P2-3" data-pos="&#91;&quot;P2&quot;,3&#93;"><td class="tt-s" lang="zh"><div class="poem"></div></td><td colspan="2" class="tt-status" lang="zh"><div class="poem">原作：ZUN　漫画：比良坂真琴</div></td></tr></tbody></table>
 
 
-
 ## P3
-
-  
-  
-
-  
-
 <center>
-
 <table>
 <tbody><tr>
-<td>&lt;
+<td><
 </td>
-<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./东方三月精_～_Oriental_Sacred_Place.-第十二话.md" title="东方三月精 ～ Oriental Sacred Place./第十二话">第十二话</a>&#160;
+<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./东方三月精_～_Oriental_Sacred_Place.-第十二话.md" title="东方三月精 ～ Oriental Sacred Place./第十二话">第十二话</a> 
 </td>
-<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="./东方三月精_～_Oriental_Sacred_Place..md" title="东方三月精 ～ Oriental Sacred Place.">东方三月精O</a>&#160;
+<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;"> <a href="./东方三月精_～_Oriental_Sacred_Place..md" title="东方三月精 ～ Oriental Sacred Place.">东方三月精O</a> 
 </td>
-<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left">&#160;<a href="./东方三月精_～_Oriental_Sacred_Place.-第十四话.md" title="东方三月精 ～ Oriental Sacred Place./第十四话">第十四话</a>
+<td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left"> <a href="./东方三月精_～_Oriental_Sacred_Place.-第十四话.md" title="东方三月精 ～ Oriental Sacred Place./第十四话">第十四话</a>
 </td>
-<td>&gt;
+<td>>
 </td></tr></tbody></table>
 
   
 </center>
-  
-  
-
-  
-
-
-
-
-
 ---
 
 此文档由 [THBWiki-Markdown-Builder](https://github.com/Delsin-Yu/THBWiki-Markdown-Builder) 构建。

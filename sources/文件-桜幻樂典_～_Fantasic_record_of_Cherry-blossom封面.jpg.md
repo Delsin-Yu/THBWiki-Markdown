@@ -1,6 +1,6 @@
 # 文件:桜幻樂典_～_Fantasic_record_of_Cherry-blossom封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2c\ns6%3A%E6%A1%9C%E5%B9%BB%E6%A8%82%E5%85%B8_%EF%BD%9E_Fantasic_record_of_Cherry-blossom%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2c\ns6%3A%E6%A1%9C%E5%B9%BB%E6%A8%82%E5%85%B8_%EF%BD%9E_Fantasic_record_of_Cherry-blossom%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Sensitive_Heart | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Sensitive_Heart | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [桜幻樂典 ～ Fantasic record of Cherry-blossom](./桜幻樂典_～_Fantasic_record_of_Cherry-blossom.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [桜幻樂典 ～ Fantasic record of Cherry-blossom](./桜幻樂典_～_Fantasic_record_of_Cherry-blossom.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

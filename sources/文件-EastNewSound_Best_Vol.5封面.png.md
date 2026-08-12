@@ -1,6 +1,6 @@
 # 文件:EastNewSound_Best_Vol.5封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6e\ns6%3AEastNewSound_Best_Vol%2E5%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6e\ns6%3AEastNewSound_Best_Vol%2E5%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 EastNewSound | 专辑封面 | 封面图片
 
@@ -10,11 +10,9 @@ EastNewSound | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [EastNewSound Best Vol.5](./EastNewSound_Best_Vol.5.md)  
-该封面包含的角色：- [八意永琳](./八意永琳.md)- [埴安神袿姬](./埴安神袿姬.md)
-
-
-
+- [EastNewSound Best Vol.5](./EastNewSound_Best_Vol.5.md)该封面包含的角色：
+- [八意永琳](./八意永琳.md)
+- [埴安神袿姬](./埴安神袿姬.md)
 
 
 ---

@@ -1,16 +1,11 @@
 # 文件:Cursed_Monasterybanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a2\ns6%3ACursed_Monasterybanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a2\ns6%3ACursed_Monasterybanner%2Egif.html -->
 
 Cursed_Monastery | 社团LOGO
 
   
-源地址：[[1]](https://blog-imgs-44-origin.fc2.com/c/u/r/cursedmonastery/minibanner.gif)
-  
-
-
-
-
+源地址：[\[1\]](https://blog-imgs-44-origin.fc2.com/c/u/r/cursedmonastery/minibanner.gif)  
 
 ---
 

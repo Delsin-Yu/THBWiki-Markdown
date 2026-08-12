@@ -1,6 +1,6 @@
 # 文件:Evening_Wind_Bonus_CD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\16\ns6%3AEvening_Wind_Bonus_CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\16\ns6%3AEvening_Wind_Bonus_CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 EdelSounds | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ EdelSounds | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Evening Wind Bonus CD](./Evening_Wind_Bonus_CD.md)  
-该封面包含的角色：- [蓬莱山辉夜](./蓬莱山辉夜.md)
-
-
-
+- [Evening Wind Bonus CD](./Evening_Wind_Bonus_CD.md)该封面包含的角色：
+- [蓬莱山辉夜](./蓬莱山辉夜.md)
 
 
 ---

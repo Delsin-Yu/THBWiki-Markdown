@@ -1,6 +1,6 @@
 # 文件:Gallery_Culterのお花見封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\27\ns6%3AGallery_Culter%E3%81%AE%E3%81%8A%E8%8A%B1%E8%A6%8B%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\27\ns6%3AGallery_Culter%E3%81%AE%E3%81%8A%E8%8A%B1%E8%A6%8B%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Gallery_Culter | 同人志封面 | 封面图片
 
@@ -8,11 +8,15 @@ Gallery_Culter | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Gallery Culterのお花見](./Gallery_Culterのお花見.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [射命丸文](./射命丸文.md)- [伊吹萃香](./伊吹萃香.md)- [古明地觉](./古明地觉.md)- [古明地恋](./古明地恋.md)- [雾雨魔理沙](./雾雨魔理沙.md)- [鬼人正邪](./鬼人正邪.md)
-
-
-
+- [Gallery Culterのお花見](./Gallery_Culterのお花見.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [射命丸文](./射命丸文.md)
+- [伊吹萃香](./伊吹萃香.md)
+- [古明地觉](./古明地觉.md)
+- [古明地恋](./古明地恋.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
+- [鬼人正邪](./鬼人正邪.md)
 
 
 ---

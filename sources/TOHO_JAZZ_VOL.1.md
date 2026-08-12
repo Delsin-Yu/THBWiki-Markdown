@@ -1,62 +1,49 @@
 # TOHO_JAZZ_VOL.1
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\d\da\ns0%3ATOHO_JAZZ_VOL%2E1.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\d\da\ns0%3ATOHO_JAZZ_VOL%2E1.html -->
 
 2014年8月16日 由 NoChordTrio 于 Comic Market 86 发布的EP同人专辑，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人专辑 (未找到链接)** 的词条
-
+**[二次创作同人专辑](./二次创作.md#同人音乐)**的词条
 ## 专辑信息
 
-<table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=TOHO_JAZZ_VOL.1%E5%B0%81%E9%9D%A2.jpg" class="new" title="文件:TOHO JAZZ VOL.1封面.jpg">封面图片</a><div class="cover-char">角色：<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a></div></td>
-</tr><tr><td class="label">名称</td><td colspan="2"> TOHO JAZZ VOL.1 </td></tr><tr><td class="label">制作方</td><td><a href="./NoChordTrio.md" title="NoChordTrio">NoChordTrio</a></td><td class="cover-artwork" rowspan="7" style="min-width:196px;"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=TOHO_JAZZ_VOL.1%E5%B0%81%E9%9D%A2.jpg" class="new" title="文件:TOHO JAZZ VOL.1封面.jpg">封面图片</a><div class="cover-char">角色：<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2014-08-16&#160;（<a href="/展会作品列表?e=Comic+Market%2386">Comic Market 86</a>）</td></tr><tr><td class="label">类型</td><td>EP</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>4</td></tr><tr><td class="label">总时长</td><td>00:00</td></tr></tbody></table>
+<table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a class="new" title="文件:TOHO JAZZ VOL.1封面.jpg">封面图片</a><div class="cover-char">角色：<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a></div></td>
+</tr><tr><td class="label">名称</td><td colspan="2"> TOHO JAZZ VOL.1 </td></tr><tr><td class="label">制作方</td><td><a href="./NoChordTrio.md" title="NoChordTrio">NoChordTrio</a></td><td class="cover-artwork" rowspan="7" style="min-width:196px;"><a class="new" title="文件:TOHO JAZZ VOL.1封面.jpg">封面图片</a><div class="cover-char">角色：<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a></div></td>
+</tr><tr><td class="label">首发日期</td><td>2014-08-16 （<a href="./展会作品列表.md#86">Comic Market 86</a>）</td></tr><tr><td class="label">类型</td><td>EP</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>4</td></tr><tr><td class="label">总时长</td><td>00:00</td></tr></tbody></table>
 
 TOHO JAZZ VOL.1（同人专辑，NoChordTrio，2014） - 2014年8月16日 由 NoChordTrio 于 Comic Market 86 发布的EP同人专辑，分级为 一般向
-
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="http://www.dlsite.com/home/work/=/product_id/RJ141618.html">DLsite</a></td></tr></tbody></table>
-
 
 
 ## Staff
   
- **Arrangement**   
+**Arrangement**  
 
-<table><tbody><tr><td><a href="/index.php?title=K46&amp;action=edit&amp;redlink=1" class="new" title="K46（页面不存在）">K46</a></td><td></td><td>Tr.1-4</td></tr></tbody></table>
-
+<table><tbody><tr><td><a class="new" title="K46（页面不存在）">K46</a></td><td></td><td>Tr.1-4</td></tr></tbody></table>
 
 
 ## 试听
   
 <iframe width="100%" height="180" src="https://ext.nicovideo.jp/thumb/sm24146544" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/watch/sm24146544">,</a></iframe>
-
 <iframe width="100%" height="180" src="https://ext.nicovideo.jp/thumb/sm24225744" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/watch/sm24225744">,</a></iframe>
-
   
   
 <iframe width="100%" height="180" src="https://ext.nicovideo.jp/thumb/sm24125672" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/watch/sm24125672">,</a></iframe>
-
   
   
 <iframe width="100%" height="180" src="https://ext.nicovideo.jp/thumb/sm24155784" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/watch/sm24155784">,</a></iframe>
-
   
-
 
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Otenba_Koi-Musume" colspan="2" class="title">Otenba Koi-Musume<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=K46&amp;ogmusic=おてんば恋娘&amp;fromwiki=TOHO_JAZZ_VOL.1"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=K46&amp;action=edit&amp;redlink=1" class="new" title="K46（页面不存在）">K46</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，K46&amp;fromwiki=TOHO_JAZZ_VOL.1"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=おてんば恋娘&amp;fromwiki=TOHO_JAZZ_VOL.1"><span></span></a></span><div class="ogmusic"><a href="./おてんば恋娘.md" class="mw-redirect" title="おてんば恋娘">おてんば恋娘</a></div><div class="source"><a href="./东方红魔乡_～_the_Embodiment_of_Scarlet_Devil..md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr>
-<tr><td id="2" class="infoYD"><b>02</b></td><td id="Koi-iro_Master_Spark" colspan="2" class="title">Koi-iro Master Spark<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=K46&amp;ogmusic=恋色マスタースパーク&amp;fromwiki=TOHO_JAZZ_VOL.1"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=K46&amp;action=edit&amp;redlink=1" class="new" title="K46（页面不存在）">K46</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，K46&amp;fromwiki=TOHO_JAZZ_VOL.1"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=恋色マスタースパーク&amp;fromwiki=TOHO_JAZZ_VOL.1"><span></span></a></span><div class="ogmusic"><a href="./恋色マスタースパーク.md" class="mw-redirect" title="恋色マスタースパーク">恋色マスタースパーク</a></div><div class="source"><a href="./东方永夜抄_～_Imperishable_Night..md" class="mw-redirect" title="东方永夜抄 ～ Imperishable Night.">东方永夜抄　～ Imperishable Night.</a></div></td></tr>
-<tr><td id="3" class="infoYD"><b>03</b></td><td id="Fu-jin_Syojo" colspan="2" class="title">Fu-jin Syojo<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=K46&amp;ogmusic=風神少女(Short Version)&amp;fromwiki=TOHO_JAZZ_VOL.1"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=K46&amp;action=edit&amp;redlink=1" class="new" title="K46（页面不存在）">K46</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，K46&amp;fromwiki=TOHO_JAZZ_VOL.1"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=風神少女(Short Version)&amp;fromwiki=TOHO_JAZZ_VOL.1"><span></span></a></span><div class="ogmusic"><a href="./風神少女(Short_Version).md" class="mw-redirect" title="風神少女(Short Version)">風神少女(Short Version)</a></div><div class="source"><a href="./东方花映塚_～_Phantasmagoria_of_Flower_View..md" class="mw-redirect" title="东方花映塚 ～ Phantasmagoria of Flower View.">东方花映塚　～ Phantasmagoria of Flower View.</a></div></td></tr>
-<tr><td id="4" class="infoYD"><b>04</b></td><td id="Necro_Fantasia" colspan="2" class="title">Necro Fantasia<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=K46&amp;ogmusic=ネクロファンタジア&amp;fromwiki=TOHO_JAZZ_VOL.1"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=K46&amp;action=edit&amp;redlink=1" class="new" title="K46（页面不存在）">K46</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，K46&amp;fromwiki=TOHO_JAZZ_VOL.1"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=ネクロファンタジア&amp;fromwiki=TOHO_JAZZ_VOL.1"><span></span></a></span><div class="ogmusic"><a href="./ネクロファンタジア.md" class="mw-redirect" title="ネクロファンタジア">ネクロファンタジア</a></div><div class="source"><a href="./东方妖妖梦_～_Perfect_Cherry_Blossom..md" class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr></tbody></table>
-
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Otenba_Koi-Musume" colspan="2" class="title">Otenba Koi-Musume</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="K46（页面不存在）">K46</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./活泼的纯情小姑娘.md" class="mw-redirect" title="おてんば恋娘">おてんば恋娘</a></div><div class="source"><a href="./东方红魔乡.md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr>
+<tr><td id="2" class="infoYD"><b>02</b></td><td id="Koi-iro_Master_Spark" colspan="2" class="title">Koi-iro Master Spark</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="K46（页面不存在）">K46</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./恋色Magic.md" class="mw-redirect" title="恋色マスタースパーク">恋色マスタースパーク</a></div><div class="source"><a href="./东方永夜抄.md" class="mw-redirect" title="东方永夜抄 ～ Imperishable Night.">东方永夜抄　～ Imperishable Night.</a></div></td></tr>
+<tr><td id="3" class="infoYD"><b>03</b></td><td id="Fu-jin_Syojo" colspan="2" class="title">Fu-jin Syojo</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="K46（页面不存在）">K46</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./风神少女.md" class="mw-redirect" title="風神少女(Short Version)">風神少女(Short Version)</a></div><div class="source"><a href="./东方花映塚.md" class="mw-redirect" title="东方花映塚 ～ Phantasmagoria of Flower View.">东方花映塚　～ Phantasmagoria of Flower View.</a></div></td></tr>
+<tr><td id="4" class="infoYD"><b>04</b></td><td id="Necro_Fantasia" colspan="2" class="title">Necro Fantasia</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="K46（页面不存在）">K46</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./Necro-Fantasia.md" class="mw-redirect" title="ネクロファンタジア">ネクロファンタジア</a></div><div class="source"><a href="./东方妖妖梦.md" class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr></tbody></table>
 
 
 ## 评论
-
-
-
 
 ---
 

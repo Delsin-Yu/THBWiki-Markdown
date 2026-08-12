@@ -1,12 +1,8 @@
 # 文件:茅台芳香b.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7d\ns6%3A%E8%8C%85%E5%8F%B0%E8%8A%B3%E9%A6%99b%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7d\ns6%3A%E8%8C%85%E5%8F%B0%E8%8A%B3%E9%A6%99b%2Ejpg.html -->
 
 宫古芳香
-
-
-
-
 
 
 ---

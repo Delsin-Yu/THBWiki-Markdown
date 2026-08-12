@@ -1,16 +1,12 @@
 # 模板:桃弦响LIVE
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\d\d0\ns10%3A%E6%A1%83%E5%BC%A6%E5%93%8DLIVE.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\d\d0\ns10%3A%E6%A1%83%E5%BC%A6%E5%93%8DLIVE.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

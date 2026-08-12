@@ -1,6 +1,6 @@
 # 文件:DINOSAUR'S_HEAVEN_1st_demo封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2c\ns6%3ADINOSAUR%27S_HEAVEN_1st_demo%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2c\ns6%3ADINOSAUR%27S_HEAVEN_1st_demo%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 DINOSAUR'S_HEAVEN | 专辑封面 | 封面图片
 
@@ -8,12 +8,9 @@ DINOSAUR'S_HEAVEN | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [DINOSAUR'S HEAVEN 1st demo](./DINOSAUR'S_HEAVEN_1st_demo.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)源地址：[[1]](http://ky0ryu.web.fc2.com/gazou/jyake)
-
-
-
-
+- [DINOSAUR'S HEAVEN 1st demo](./DINOSAUR'S_HEAVEN_1st_demo.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+源地址：[\[1\]](http://ky0ryu.web.fc2.com/gazou/jyake)
 
 ---
 

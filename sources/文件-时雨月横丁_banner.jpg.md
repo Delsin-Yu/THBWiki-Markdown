@@ -1,12 +1,8 @@
 # 文件:时雨月横丁_banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\46\ns6%3A%E6%97%B6%E9%9B%A8%E6%9C%88%E6%A8%AA%E4%B8%81_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\46\ns6%3A%E6%97%B6%E9%9B%A8%E6%9C%88%E6%A8%AA%E4%B8%81_banner%2Ejpg.html -->
 
 时雨月横丁 | 社团LOGO
-
-
-
-
 
 
 ---

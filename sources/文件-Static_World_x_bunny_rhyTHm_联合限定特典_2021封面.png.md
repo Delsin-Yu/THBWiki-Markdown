@@ -1,6 +1,6 @@
 # 文件:Static_World_x_bunny_rhyTHm_联合限定特典_2021封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\ba\ns6%3AStatic_World_x_bunny_rhyTHm_%E8%81%94%E5%90%88%E9%99%90%E5%AE%9A%E7%89%B9%E5%85%B8_2021%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\ba\ns6%3AStatic_World_x_bunny_rhyTHm_%E8%81%94%E5%90%88%E9%99%90%E5%AE%9A%E7%89%B9%E5%85%B8_2021%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Static_World | bunny_rhyTHm | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ Static_World | bunny_rhyTHm | 专辑封面 | 封面图片
   
 
 - [Static World x bunny rhyTHm 联合限定特典 2021](./Static_World_x_bunny_rhyTHm_联合限定特典_2021.md)
-
-
-
 
 
 ---

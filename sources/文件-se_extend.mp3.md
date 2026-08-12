@@ -1,12 +1,8 @@
 # 文件:se_extend.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\55\ns6%3Ase_extend%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\55\ns6%3Ase_extend%2Emp3.html -->
 
 游戏音效
-
-
-
-
 
 
 ---

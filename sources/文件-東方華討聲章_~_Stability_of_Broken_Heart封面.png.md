@@ -1,14 +1,11 @@
 # 文件:東方華討聲章_~_Stability_of_Broken_Heart封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\89\ns6%3A%E6%9D%B1%E6%96%B9%E8%8F%AF%E8%A8%8E%E8%81%B2%E7%AB%A0_%7E_Stability_of_Broken_Heart%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\89\ns6%3A%E6%9D%B1%E6%96%B9%E8%8F%AF%E8%A8%8E%E8%81%B2%E7%AB%A0_%7E_Stability_of_Broken_Heart%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 封面图片 | 没有被使用的封面文件
 
 
 ## 摘要
-
-
-
 
 ---
 

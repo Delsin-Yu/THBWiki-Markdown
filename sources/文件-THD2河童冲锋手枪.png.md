@@ -1,12 +1,8 @@
 # 文件:THD2河童冲锋手枪.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4a\ns6%3ATHD2%E6%B2%B3%E7%AB%A5%E5%86%B2%E9%94%8B%E6%89%8B%E6%9E%AA%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4a\ns6%3ATHD2%E6%B2%B3%E7%AB%A5%E5%86%B2%E9%94%8B%E6%89%8B%E6%9E%AA%2Epng.html -->
 
 THD2
-
-
-
-
 
 
 ---

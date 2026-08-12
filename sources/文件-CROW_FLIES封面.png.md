@@ -1,6 +1,6 @@
 # 文件:CROW_FLIES封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\43\ns6%3ACROW_FLIES%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\43\ns6%3ACROW_FLIES%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Find_Your_Way | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Find_Your_Way | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [CROW FLIES](./CROW_FLIES.md)  
-该封面包含的角色：- [灵乌路空](./灵乌路空.md)
+- [CROW FLIES](./CROW_FLIES.md)该封面包含的角色：
+- [灵乌路空](./灵乌路空.md)
 
   
-源地址：[[1]](http://findyourway.kanyu.me/images/albumart/0015B.png)
-  
-
-
-
-
+源地址：[\[1\]](http://findyourway.kanyu.me/images/albumart/0015B.png)  
 
 ---
 

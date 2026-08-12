@@ -1,11 +1,10 @@
 # Yen_Press
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\d\d0\ns0%3AYen_Press.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\d\d0\ns0%3AYen_Press.html -->
 
 Yen Press，有限责任公司
 
 <center>
-
 <table>
 <tbody><tr>
 <td class="mbox-image"><div style="width: 52px;">
@@ -14,36 +13,27 @@ Yen Press，有限责任公司
 </tr>
 </tbody></table>
 
-
-</center>
-本页是关于东方Project  
- **相关公司会社** 的词条
-
+</center>本页是关于东方Project  
+**相关公司会社**的词条
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 与东方Project的关联](#与东方Project的关联)
-
   - [2.1 单行本与书籍](#单行本与书籍)
-
 
 
 - [3 其他说明](#其他说明)
 
 
-
-
-
 ## 基本信息
-[](./文件-Yen_PressLOGO.png.md)  D&amp;C MediaLOGO
-  
-<big> **Yen Press** </big>  
+<img alt="" src="https://upload.thwiki.cc/9/9f/Yen_PressLOGO.png" decoding="async" loading="lazy" width="250" height="172" class="thumbimage" data-file-width="250" data-file-height="172">
+ D&C MediaLOGO  
+<big>**Yen Press**</big>  
 是美国的一家出版社，是[KADOKAWA](./角川集团.md)和Hachette Book Group的合资企业。
   
   
 主要经营漫画、小说等书籍的出版，面向北美（美国、加拿大）发行。引进并翻译日本及韩国作品是其业务之一。
   
-
 
 <table>
 <tbody><tr>
@@ -53,12 +43,13 @@ Yen Press，有限责任公司
 <td style="width:140px"><b>正式名称</b></td><td style="min-width:300px">Yen Press</td></tr><tr><td><b>公司现状</b></td><td>持续营业中</td></tr><tr><td><b>公司种类</b></td><td>有限责任公司</td></tr><tr><td><b>成立日期</b></td><td>2006年</td></tr><tr><td><b>公司代表</b></td><td>创始人：Kurt Hassler、Rich Johnson</td></tr><tr><td><b>本社地址</b></td><td>纽约</td></tr><tr><td><b>官网地址</b></td><td><a rel="nofollow" class="external free" href="http://www.yenpress.com/">http://www.yenpress.com/</a></td></tr></tbody></table>
 
 Yen Press（公司会社） - Yen Press，有限责任公司
-
 ## 与东方Project的关联
+
 - Yen Press代理了少量官方商业出版物。
 
 
 ### 单行本与书籍
+
 - [东方铃奈庵 ～ Forbidden Scrollery. 1](./东方铃奈庵.md)（2017年11月21日出版的官方漫画单行本）
 - [东方铃奈庵 ～ Forbidden Scrollery. 2](./东方铃奈庵.md)（2018年3月27日出版的官方漫画单行本）
 - [东方铃奈庵 ～ Forbidden Scrollery. 3](./东方铃奈庵.md)（2018年5月22日出版的官方漫画单行本）
@@ -69,9 +60,6 @@ Yen Press（公司会社） - Yen Press，有限责任公司
 
 
 ## 其他说明
-
-
-
 
 ---
 

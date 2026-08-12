@@ -1,6 +1,6 @@
 # 文件:草の根_SOUL_LIKE_1.5：親切と放浪封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d0\ns6%3A%E8%8D%89%E3%81%AE%E6%A0%B9_SOUL_LIKE_1%2E5%EF%BC%9A%E8%A6%AA%E5%88%87%E3%81%A8%E6%94%BE%E6%B5%AA%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d0\ns6%3A%E8%8D%89%E3%81%AE%E6%A0%B9_SOUL_LIKE_1%2E5%EF%BC%9A%E8%A6%AA%E5%88%87%E3%81%A8%E6%94%BE%E6%B5%AA%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 カサガミサン | 同人志封面 | 封面图片
 
@@ -10,11 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [草の根 SOUL LIKE 1.5：親切と放浪](./草の根_SOUL_LIKE_1.5：親切と放浪.md)  
-该封面包含的角色：- [因幡帝](./因幡帝.md)- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)- [赤蛮奇](./赤蛮奇.md)- [今泉影狼](./今泉影狼.md)
-
-
-
+- [草の根 SOUL LIKE 1.5：親切と放浪](./草の根_SOUL_LIKE_1.5：親切と放浪.md)该封面包含的角色：
+- [因幡帝](./因幡帝.md)
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
+- [赤蛮奇](./赤蛮奇.md)
+- [今泉影狼](./今泉影狼.md)
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:THD2血晶石.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\df\ns6%3ATHD2%E8%A1%80%E6%99%B6%E7%9F%B3%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\df\ns6%3ATHD2%E8%A1%80%E6%99%B6%E7%9F%B3%2Epng.html -->
 
 东方DOTS玩家社群
-
-
-
-
 
 
 ---

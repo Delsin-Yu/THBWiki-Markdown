@@ -1,6 +1,6 @@
 # 文件:東方ミッドナイト_MAXIMUM_TUNEⅡ封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3b\ns6%3A%E6%9D%B1%E6%96%B9%E3%83%9F%E3%83%83%E3%83%89%E3%83%8A%E3%82%A4%E3%83%88_MAXIMUM_TUNE%E2%85%A1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3b\ns6%3A%E6%9D%B1%E6%96%B9%E3%83%9F%E3%83%83%E3%83%89%E3%83%8A%E3%82%A4%E3%83%88_MAXIMUM_TUNE%E2%85%A1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Golden_City_Factory | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Golden_City_Factory | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方ミッドナイト MAXIMUM TUNEⅡ](./東方ミッドナイト_MAXIMUM_TUNEⅡ.md)  
-该封面包含的角色：- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
-
-
-
+- [東方ミッドナイト MAXIMUM TUNEⅡ](./東方ミッドナイト_MAXIMUM_TUNEⅡ.md)该封面包含的角色：
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
 
 
 ---

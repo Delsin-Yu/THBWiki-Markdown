@@ -1,6 +1,6 @@
 # 文件:blue_window封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\62\ns6%3Ablue_window%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\62\ns6%3Ablue_window%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Spiral_Music | 专辑封面 | 封面图片
 
@@ -13,12 +13,7 @@ Spiral_Music | 专辑封面 | 封面图片
 - [blue window](./blue_window.md)
 
   
-源地址：[suruga-ya](https://www.suruga-ya.jp/product/detail/186107228)
-  
-
-
-
-
+源地址：[suruga-ya](https://www.suruga-ya.jp/product/detail/186107228)  
 
 ---
 

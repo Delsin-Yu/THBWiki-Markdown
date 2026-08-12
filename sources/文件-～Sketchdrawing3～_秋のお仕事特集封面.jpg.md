@@ -1,6 +1,6 @@
 # 文件:～Sketchdrawing3～_秋のお仕事特集封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\44\ns6%3A%EF%BD%9ESketchdrawing3%EF%BD%9E_%E7%A7%8B%E3%81%AE%E3%81%8A%E4%BB%95%E4%BA%8B%E7%89%B9%E9%9B%86%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\44\ns6%3A%EF%BD%9ESketchdrawing3%EF%BD%9E_%E7%A7%8B%E3%81%AE%E3%81%8A%E4%BB%95%E4%BA%8B%E7%89%B9%E9%9B%86%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 あぶら畑グランテッド | 同人志封面 | 封面图片
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [～Sketchdrawing3～ 秋のお仕事特集](./～Sketchdrawing3～_秋のお仕事特集.md)  
-该封面包含的角色：- [比那名居天子](./比那名居天子.md)- [灵乌路空](./灵乌路空.md)
-
-
-
+- [～Sketchdrawing3～ 秋のお仕事特集](./～Sketchdrawing3～_秋のお仕事特集.md)该封面包含的角色：
+- [比那名居天子](./比那名居天子.md)
+- [灵乌路空](./灵乌路空.md)
 
 
 ---

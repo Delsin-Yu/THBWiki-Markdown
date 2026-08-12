@@ -1,14 +1,11 @@
 # 文件:Crest_banner2.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ec\ns6%3ACrest_banner2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ec\ns6%3ACrest_banner2%2Ejpg.html -->
 
 Crest | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

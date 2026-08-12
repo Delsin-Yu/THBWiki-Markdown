@@ -1,12 +1,8 @@
 # 文件:Sound∞Infinity_banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0e\ns6%3ASound%E2%88%9EInfinity_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0e\ns6%3ASound%E2%88%9EInfinity_banner%2Ejpg.html -->
 
 Sound∞Infinity | 社团LOGO
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:境界生命物语_Touhou_Biochem封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\43\ns6%3A%E5%A2%83%E7%95%8C%E7%94%9F%E5%91%BD%E7%89%A9%E8%AF%AD_Touhou_Biochem%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\43\ns6%3A%E5%A2%83%E7%95%8C%E7%94%9F%E5%91%BD%E7%89%A9%E8%AF%AD_Touhou_Biochem%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 U235核燃动力 | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ U235核燃动力 | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [境界生命物语 Touhou Biochem](./境界生命物语_Touhou_Biochem.md)  
-该封面包含的角色：- [八意永琳](./八意永琳.md)
-
-
-
+- [境界生命物语 Touhou Biochem](./境界生命物语_Touhou_Biochem.md)该封面包含的角色：
+- [八意永琳](./八意永琳.md)
 
 
 ---

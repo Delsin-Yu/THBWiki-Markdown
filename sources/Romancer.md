@@ -1,30 +1,26 @@
 # Romancer
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\6c\ns0%3ARomancer.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\6c\ns0%3ARomancer.html -->
 
 2010年8月14日 由 ゆめかばん 于 Comic Market 78 发布的小说同人志，一共142页，登场人物有 玛艾露贝莉·赫恩、宇佐见莲子，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人志 (未找到链接)** 的词条
-
+**[二次创作同人志](./二次创作.md#同人志)**的词条
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Romancer封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/9/94/Romancer%E5%B0%81%E9%9D%A2.jpg/113px-Romancer%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="113" height="196" srcset="https://upload.thwiki.cc/thumb/9/94/Romancer%E5%B0%81%E9%9D%A2.jpg/170px-Romancer%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/9/94/Romancer%E5%B0%81%E9%9D%A2.jpg/227px-Romancer%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="301" data-file-height="519"></a><div class="cover-char">角色：<a href="./玛艾露贝莉·赫恩.md" title="玛艾露贝莉·赫恩">玛艾露贝莉·赫恩</a>，<a href="./宇佐见莲子.md" title="宇佐见莲子">宇佐见莲子</a></div></td>
 </tr><tr><td class="label">名称</td><td colspan="2"> Romancer </td></tr><tr><td class="label">制作方</td><td><a href="./ゆめかばん.md" title="ゆめかばん">ゆめかばん</a></td><td class="cover-artwork" rowspan="7" style="min-width:196px;"><a href="./文件-Romancer封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/9/94/Romancer%E5%B0%81%E9%9D%A2.jpg/113px-Romancer%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="113" height="196" srcset="https://upload.thwiki.cc/thumb/9/94/Romancer%E5%B0%81%E9%9D%A2.jpg/170px-Romancer%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/9/94/Romancer%E5%B0%81%E9%9D%A2.jpg/227px-Romancer%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="301" data-file-height="519"></a><div class="cover-char">角色：<a href="./玛艾露贝莉·赫恩.md" title="玛艾露贝莉·赫恩">玛艾露贝莉·赫恩</a>，<a href="./宇佐见莲子.md" title="宇佐见莲子">宇佐见莲子</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2010-08-14&#160;（<a href="/展会作品列表?e=Comic+Market%2378">Comic Market 78</a>）</td></tr><tr><td class="label">类型</td><td>小说</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">页数</td><td>142P</td></tr><tr><td class="label">登场人物</td><td><a href="./玛艾露贝莉·赫恩.md" title="玛艾露贝莉·赫恩">玛艾露贝莉·赫恩</a>，<a href="./宇佐见莲子.md" title="宇佐见莲子">宇佐见莲子</a></td></tr><tr><td class="label">售价</td><td>1500日元</td></tr>
+</tr><tr><td class="label">首发日期</td><td>2010-08-14 （<a href="./展会作品列表.md#78">Comic Market 78</a>）</td></tr><tr><td class="label">类型</td><td>小说</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">页数</td><td>142P</td></tr><tr><td class="label">登场人物</td><td><a href="./玛艾露贝莉·赫恩.md" title="玛艾露贝莉·赫恩">玛艾露贝莉·赫恩</a>，<a href="./宇佐见莲子.md" title="宇佐见莲子">宇佐见莲子</a></td></tr><tr><td class="label">售价</td><td>1500日元</td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://dreambag.web.fc2.com/c78/c78.html">http://dreambag.web.fc2.com/c78/c78.html</a></td></tr></tbody></table>
 
 Romancer（同人志，ゆめかばん，2010） - 2010年8月14日 由 ゆめかばん 于 Comic Market 78 发布的小说同人志，一共142页，登场人物有 玛艾露贝莉·赫恩、宇佐见莲子，分级为 一般向
-
 ## Staff
+
 - A-20 (未找到链接)
 - [みや](./みや.md)
 
 
 ## 评论
-
-
-
 
 ---
 

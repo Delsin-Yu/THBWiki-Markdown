@@ -1,12 +1,8 @@
 # 文件:st_reimu.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fe\ns6%3Ast_reimu%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fe\ns6%3Ast_reimu%2Ejpg.html -->
 
 未完童話
-
-
-
-
 
 
 ---

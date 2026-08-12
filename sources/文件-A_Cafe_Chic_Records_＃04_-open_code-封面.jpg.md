@@ -1,6 +1,6 @@
 # 文件:A_Cafe_Chic_Records_＃04_-open_code-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\25\ns6%3AA_Cafe_Chic_Records_%EF%BC%8304_-open_code-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\25\ns6%3AA_Cafe_Chic_Records_%EF%BC%8304_-open_code-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Attrielectrock | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ Attrielectrock | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [A Cafe Chic Records ＃04 -open code-](./A_Cafe_Chic_Records_＃04_-open_code-.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
-
-
-
+- [A Cafe Chic Records ＃04 -open code-](./A_Cafe_Chic_Records_＃04_-open_code-.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
 
 ---

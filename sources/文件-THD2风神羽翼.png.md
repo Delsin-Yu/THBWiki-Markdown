@@ -1,12 +1,8 @@
 # 文件:THD2风神羽翼.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\69\ns6%3ATHD2%E9%A3%8E%E7%A5%9E%E7%BE%BD%E7%BF%BC%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\69\ns6%3ATHD2%E9%A3%8E%E7%A5%9E%E7%BE%BD%E7%BF%BC%2Epng.html -->
 
 AvalonStudioOfficial
-
-
-
-
 
 
 ---

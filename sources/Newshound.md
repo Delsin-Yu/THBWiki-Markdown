@@ -1,30 +1,24 @@
 # Newshound
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\f8\ns0%3ANewshound.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\f8\ns0%3ANewshound.html -->
 
 由 ZUN 创作的官方曲目，原名 ニュースハウンド
 
 本页是关于东方Project  
- **原作音乐** 的词条
-
+**原作音乐**的词条
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 出现作品](#出现作品)
 - [3 音乐文件](#音乐文件)
-
   - [3.1 东方文花帖DS](#东方文花帖DS)
 
 
-
 - [4 说明文本](#说明文本)
-
   - [4.1 东方文花帖DS](#东方文花帖DS_2)
 
 
-
 - [5 其他资料](#其他资料)
-
   - [5.1 乐理资讯](#乐理资讯)
   - [5.2 分析考据](#分析考据)
   - [5.3 二次同人数据](#二次同人数据)
@@ -32,22 +26,16 @@
 
 
 
-
-
-
-
 ## 基本信息
 
-<table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">ニュースハウンド</td></tr><tr><td><b>译名</b></td><td>Newshound</td></tr><tr><td><b>其他译名</b></td><td>狗仔队</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>关联</td></tr><tr><td style="padding-left:15px"><b>相关曲</b></td><td><a href="./テーマ・オブ・イースタンストーリー.md" class="mw-redirect" title="テーマ・オブ・イースタンストーリー">テーマ・オブ・イースタンストーリー</a></td></tr><tr><td style="padding-left:15px"><b>　来源</b></td><td>幺乐团的历史　～ Akyu's Untouched Score vol.5</td></tr></tbody></table>
+<table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">ニュースハウンド</td></tr><tr><td><b>译名</b></td><td>Newshound</td></tr><tr><td><b>其他译名</b></td><td>狗仔队</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>关联</td></tr><tr><td style="padding-left:15px"><b>相关曲</b></td><td><a href="./Theme_of_Eastern_Story.md" class="mw-redirect" title="テーマ・オブ・イースタンストーリー">テーマ・オブ・イースタンストーリー</a></td></tr><tr><td style="padding-left:15px"><b>　来源</b></td><td>幺乐团的历史　～ Akyu's Untouched Score vol.5</td></tr></tbody></table>
 
 Newshound（曲目） - 由 ZUN 创作的官方曲目，原名 ニュースハウンド
-
 ## 出现作品
 
 <table>
 <tbody><tr><td>2010年3月14日（第七回 博丽神社例大祭）</td><td><b><a href="./东方文花帖DS.md" title="东方文花帖DS">东方文花帖DS</a></b></td><td>标题画面主题曲</td><td style="padding-left:5px;">ニュースハウンド（Newshound）</td><td style="padding-left:10px;">编曲：ZUN</td></tr>
 </tbody></table>
-
 
 
 ## 音乐文件
@@ -62,38 +50,41 @@ Newshound（曲目） - 由 ZUN 创作的官方曲目，原名 ニュースハ�
 </td></tr></tbody></table>
 
 
-
 ## 说明文本
 
 ### 东方文花帖DS
-- Music Room (未找到链接)
+
+- [Music Room](./东方文花帖DS-Music.md#标题画面)
 
 　标题画面的主题。  
   
 　虽然依旧是那首曲子  
 　但在其中我还混入了随时都能出击的感觉。  
 　玩家盯着菜单画面的频率会比进行通常游戏的还要高呢——
-
 ## 其他资料
 
 ### 乐理资讯
 
 ### 分析考据
   
- **ニュースハウンド**  Newshound
+**ニュースハウンド** Newshound
   
 
-- news
-  - 新闻。
+- news 
+  - 新闻。 
     - 本作是取材系列的作品。
 
 
-- hound
-  - 猎犬。
-    - 狗仔。
-    - 天 **狗** ?
 
-  - [结界「狗仔队击退结界」](./结界「狗仔队击退结界」.md)。
+
+- hound 
+  - 猎犬。 
+    - 狗仔。
+    - 天**狗**?
+
+
+  - [结界「狗仔队击退结界」](./狗仔队击退结界.md)。
+
 
 
 
@@ -109,17 +100,6 @@ Newshound（曲目） - 由 ZUN 创作的官方曲目，原名 ニュースハ�
 <tr><td>Arrange</td><td>58</td></tr>
 <tr><td>Vocal率</td><td>13.43%</td></tr>
 </tbody></table>
-
-
-
-
-  
-  
-
-  
-
-
-
 
 
 ---

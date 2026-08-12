@@ -1,37 +1,21 @@
 # GRIFFON/洩矢诹访子
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\e\e4\ns0%3AGRIFFON%2F%E6%B4%A9%E7%9F%A2%E8%AF%B9%E8%AE%BF%E5%AD%90.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\e\e4\ns0%3AGRIFFON%2F%E6%B4%A9%E7%9F%A2%E8%AF%B9%E8%AE%BF%E5%AD%90.html -->
 
 洩矢诹访子PVCFigure手办模型
 
 本页是关于东方Project  
- **相关实体周边 (未找到链接)** 的词条
-
+**相关实体周边 (未找到链接)**的词条
 ## 模型信息
 
-<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 洩矢诹访子 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>无</td></tr><tr><td class="label">角色</td><td><a href="./洩矢诹访子.md" title="洩矢诹访子">洩矢诹访子</a></td></tr><tr><td class="label">原型师</td><td><a href="/index.php?title=%E5%B0%8F%E5%94%84&amp;action=edit&amp;redlink=1" class="new" title="小唄（页面不存在）">小唄</a></td></tr><tr><td class="label">比例</td><td>1/8</td></tr><tr><td class="label">尺寸</td><td>165mm</td></tr><tr><td class="label">状态</td><td>已发售</td></tr><tr><td class="label">售价</td><td>6800円</td></tr><tr><td class="label">首发日期</td><td>2011-07</td></tr><tr><td class="label">发售方</td><td><a href="/index.php?title=GRIFFON&amp;action=edit&amp;redlink=1" class="new" title="GRIFFON（页面不存在）">GRIFFON</a></td></tr><tr><td class="label">官网页面</td><td><a rel="nofollow" class="external free" href="http://www.griffon.co.jp/toho/">http://www.griffon.co.jp/toho/</a></td></tr></tbody></table>
+<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 洩矢诹访子 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>无</td></tr><tr><td class="label">角色</td><td><a href="./洩矢诹访子.md" title="洩矢诹访子">洩矢诹访子</a></td></tr><tr><td class="label">原型师</td><td><a class="new" title="小唄（页面不存在）">小唄</a></td></tr><tr><td class="label">比例</td><td>1/8</td></tr><tr><td class="label">尺寸</td><td>165mm</td></tr><tr><td class="label">状态</td><td>已发售</td></tr><tr><td class="label">售价</td><td>6800円</td></tr><tr><td class="label">首发日期</td><td>2011-07</td></tr><tr><td class="label">发售方</td><td><a class="new" title="GRIFFON（页面不存在）">GRIFFON</a></td></tr><tr><td class="label">官网页面</td><td><a rel="nofollow" class="external free" href="http://www.griffon.co.jp/toho/">http://www.griffon.co.jp/toho/</a></td></tr></tbody></table>
 
 GRIFFON/洩矢诹访子（周边） - 洩矢诹访子PVCFigure手办模型
-
 ## 参考图片
-
-
-
-[](./文件-GRIFFON洩矢诹访子-1.jpg.md)
-
-
-[](./文件-GRIFFON洩矢诹访子-2.jpg.md)
-
-
-[](./文件-GRIFFON洩矢诹访子-3.jpg.md)
-
+<img alt="GRIFFON洩矢诹访子" src="https://upload.thwiki.cc/thumb/f/f0/GRIFFON%E6%B4%A9%E7%9F%A2%E8%AF%B9%E8%AE%BF%E5%AD%90-1.jpg/160px-GRIFFON%E6%B4%A9%E7%9F%A2%E8%AF%B9%E8%AE%BF%E5%AD%90-1.jpg" decoding="async" loading="lazy" width="160" height="230" srcset="https://upload.thwiki.cc/thumb/f/f0/GRIFFON%E6%B4%A9%E7%9F%A2%E8%AF%B9%E8%AE%BF%E5%AD%90-1.jpg/240px-GRIFFON%E6%B4%A9%E7%9F%A2%E8%AF%B9%E8%AE%BF%E5%AD%90-1.jpg 1.5x, https://upload.thwiki.cc/thumb/f/f0/GRIFFON%E6%B4%A9%E7%9F%A2%E8%AF%B9%E8%AE%BF%E5%AD%90-1.jpg/320px-GRIFFON%E6%B4%A9%E7%9F%A2%E8%AF%B9%E8%AE%BF%E5%AD%90-1.jpg 2x" data-file-width="556" data-file-height="800">
+<img alt="GRIFFON洩矢诹访子" src="https://upload.thwiki.cc/thumb/0/08/GRIFFON%E6%B4%A9%E7%9F%A2%E8%AF%B9%E8%AE%BF%E5%AD%90-2.jpg/160px-GRIFFON%E6%B4%A9%E7%9F%A2%E8%AF%B9%E8%AE%BF%E5%AD%90-2.jpg" decoding="async" loading="lazy" width="160" height="230" srcset="https://upload.thwiki.cc/thumb/0/08/GRIFFON%E6%B4%A9%E7%9F%A2%E8%AF%B9%E8%AE%BF%E5%AD%90-2.jpg/240px-GRIFFON%E6%B4%A9%E7%9F%A2%E8%AF%B9%E8%AE%BF%E5%AD%90-2.jpg 1.5x, https://upload.thwiki.cc/thumb/0/08/GRIFFON%E6%B4%A9%E7%9F%A2%E8%AF%B9%E8%AE%BF%E5%AD%90-2.jpg/320px-GRIFFON%E6%B4%A9%E7%9F%A2%E8%AF%B9%E8%AE%BF%E5%AD%90-2.jpg 2x" data-file-width="556" data-file-height="800">
+<img alt="GRIFFON洩矢诹访子" src="https://upload.thwiki.cc/thumb/1/19/GRIFFON%E6%B4%A9%E7%9F%A2%E8%AF%B9%E8%AE%BF%E5%AD%90-3.jpg/160px-GRIFFON%E6%B4%A9%E7%9F%A2%E8%AF%B9%E8%AE%BF%E5%AD%90-3.jpg" decoding="async" loading="lazy" width="160" height="230" srcset="https://upload.thwiki.cc/thumb/1/19/GRIFFON%E6%B4%A9%E7%9F%A2%E8%AF%B9%E8%AE%BF%E5%AD%90-3.jpg/240px-GRIFFON%E6%B4%A9%E7%9F%A2%E8%AF%B9%E8%AE%BF%E5%AD%90-3.jpg 1.5x, https://upload.thwiki.cc/thumb/1/19/GRIFFON%E6%B4%A9%E7%9F%A2%E8%AF%B9%E8%AE%BF%E5%AD%90-3.jpg/320px-GRIFFON%E6%B4%A9%E7%9F%A2%E8%AF%B9%E8%AE%BF%E5%AD%90-3.jpg 2x" data-file-width="556" data-file-height="800">
 公式图
-
-
-
-
-
-
 
 ---
 

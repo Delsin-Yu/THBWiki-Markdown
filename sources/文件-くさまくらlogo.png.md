@@ -1,18 +1,13 @@
 # 文件:くさまくらlogo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\90\ns6%3A%E3%81%8F%E3%81%95%E3%81%BE%E3%81%8F%E3%82%89logo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\90\ns6%3A%E3%81%8F%E3%81%95%E3%81%BE%E3%81%8F%E3%82%89logo%2Epng.html -->
 
 くさまくら | 社团LOGO
 
 
 ## 摘要
   
-源地址：[direct image link](http://kusamakura88.web.fc2.com/image/kusa_.png), [source page](http://kusamakura88.web.fc2.com/)
-  
-
-
-
-
+源地址：[direct image link](http://kusamakura88.web.fc2.com/image/kusa_.png), [source page](http://kusamakura88.web.fc2.com/)  
 
 ---
 

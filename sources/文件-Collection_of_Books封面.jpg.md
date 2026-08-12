@@ -1,6 +1,6 @@
 # 文件:Collection_of_Books封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\94\ns6%3ACollection_of_Books%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\94\ns6%3ACollection_of_Books%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 テレピン1000ml | 封面图片 | 软件封面
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Collection of Books](./Collection_of_Books.md)  
-该封面包含的角色：- [稗田阿求](./稗田阿求.md)
-
-
-
+- [Collection of Books](./Collection_of_Books.md)该封面包含的角色：
+- [稗田阿求](./稗田阿求.md)
 
 
 ---

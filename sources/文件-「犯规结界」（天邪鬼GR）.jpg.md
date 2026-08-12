@@ -1,12 +1,8 @@
 # 文件:「犯规结界」（天邪鬼GR）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a2\ns6%3A%E3%80%8C%E7%8A%AF%E8%A7%84%E7%BB%93%E7%95%8C%E3%80%8D%EF%BC%88%E5%A4%A9%E9%82%AA%E9%AC%BCGR%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a2\ns6%3A%E3%80%8C%E7%8A%AF%E8%A7%84%E7%BB%93%E7%95%8C%E3%80%8D%EF%BC%88%E5%A4%A9%E9%82%AA%E9%AC%BCGR%EF%BC%89%2Ejpg.html -->
 
 博丽灵梦 | 弹幕天邪鬼 | 敌机符卡
-
-
-
-
 
 
 ---

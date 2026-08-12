@@ -1,12 +1,8 @@
 # 文件:ssg_Ending_3.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\37\ns6%3Assg_Ending_3%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\37\ns6%3Assg_Ending_3%2Epng.html -->
 
 秋霜玉 | 西方Project | 西方角色立绘
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Maiden's_Capriccio（同人专辑）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\79\ns6%3AMaiden%27s_Capriccio%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\79\ns6%3AMaiden%27s_Capriccio%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 YaboiMatoi | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ YaboiMatoi | 专辑封面 | 封面图片
   
 
 - [Maiden's Capriccio（同人专辑）](./Maiden's_Capriccio（同人专辑）.md)
-
-
-
 
 
 ---

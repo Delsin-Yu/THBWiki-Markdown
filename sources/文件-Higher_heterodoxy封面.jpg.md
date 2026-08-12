@@ -1,6 +1,6 @@
 # 文件:Higher_heterodoxy封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fc\ns6%3AHigher_heterodoxy%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fc\ns6%3AHigher_heterodoxy%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Aether | 专辑封面 | 埼玉最終兵器 | 封面图片
 
@@ -9,9 +9,6 @@ Aether | 专辑封面 | 埼玉最終兵器 | 封面图片
   
 
 - [Higher heterodoxy](./Higher_heterodoxy.md)
-
-
-
 
 
 ---

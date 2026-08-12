@@ -1,6 +1,6 @@
 # 文件:東方DX_EMPRESS封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d4\ns6%3A%E6%9D%B1%E6%96%B9DX_EMPRESS%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d4\ns6%3A%E6%9D%B1%E6%96%B9DX_EMPRESS%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Rico_Rico_Alice | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Rico_Rico_Alice | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方DX EMPRESS](./東方DX_EMPRESS.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [東方DX EMPRESS](./東方DX_EMPRESS.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
   
-源地址：[[1]](http://www.pixiv.net/member_illust.php?mode=medium&amp;illust_id=35922795)
-  
-
-
-
-
+源地址：[\[1\]](http://www.pixiv.net/member_illust.php?mode=medium&illust_id=35922795)  
 
 ---
 

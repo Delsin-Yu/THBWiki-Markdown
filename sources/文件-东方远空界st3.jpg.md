@@ -1,14 +1,11 @@
 # 文件:东方远空界st3.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\67\ns6%3A%E4%B8%9C%E6%96%B9%E8%BF%9C%E7%A9%BA%E7%95%8Cst3%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\67\ns6%3A%E4%B8%9C%E6%96%B9%E8%BF%9C%E7%A9%BA%E7%95%8Cst3%2Ejpg.html -->
 
 东方远空界制作组
 
 
 ## 文件说明
-
-
-
 
 ---
 

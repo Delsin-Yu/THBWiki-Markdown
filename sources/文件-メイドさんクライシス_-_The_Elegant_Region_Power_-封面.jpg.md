@@ -1,6 +1,6 @@
 # 文件:メイドさんクライシス_-_The_Elegant_Region_Power_-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a8\ns6%3A%E3%83%A1%E3%82%A4%E3%83%89%E3%81%95%E3%82%93%E3%82%AF%E3%83%A9%E3%82%A4%E3%82%B7%E3%82%B9_-_The_Elegant_Region_Power_-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a8\ns6%3A%E3%83%A1%E3%82%A4%E3%83%89%E3%81%95%E3%82%93%E3%82%AF%E3%83%A9%E3%82%A4%E3%82%B7%E3%82%B9_-_The_Elegant_Region_Power_-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 コココソフト | 封面图片 | 软件封面
 
@@ -8,11 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [メイドさんクライシス - The Elegant Region Power -](./メイドさんクライシス_-_The_Elegant_Region_Power_-.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)- [魂魄妖梦](./魂魄妖梦.md)- [火焰猫燐](./火焰猫燐.md)- 原创角色 (未找到链接)
-
-
-
+- [メイドさんクライシス - The Elegant Region Power -](./メイドさんクライシス_-_The_Elegant_Region_Power_-.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
+- [魂魄妖梦](./魂魄妖梦.md)
+- [火焰猫燐](./火焰猫燐.md)
+- 原创角色 (未找到链接)
 
 
 ---

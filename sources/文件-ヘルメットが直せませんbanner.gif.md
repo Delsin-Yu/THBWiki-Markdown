@@ -1,12 +1,8 @@
 # 文件:ヘルメットが直せませんbanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ac\ns6%3A%E3%83%98%E3%83%AB%E3%83%A1%E3%83%83%E3%83%88%E3%81%8C%E7%9B%B4%E3%81%9B%E3%81%BE%E3%81%9B%E3%82%93banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ac\ns6%3A%E3%83%98%E3%83%AB%E3%83%A1%E3%83%83%E3%83%88%E3%81%8C%E7%9B%B4%E3%81%9B%E3%81%BE%E3%81%9B%E3%82%93banner%2Egif.html -->
 
 ヘルメットが直せません | 社团LOGO
-
-
-
-
 
 
 ---

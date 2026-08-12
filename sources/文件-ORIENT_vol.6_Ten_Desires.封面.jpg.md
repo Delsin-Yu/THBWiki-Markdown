@@ -1,6 +1,6 @@
 # 文件:ORIENT_vol.6_Ten_Desires.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5e\ns6%3AORIENT_vol%2E6_Ten_Desires%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5e\ns6%3AORIENT_vol%2E6_Ten_Desires%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 まっとかん。 | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [ORIENT vol.6 Ten Desires.](./ORIENT_vol.6_Ten_Desires..md)  
-该封面包含的角色：- [宫古芳香](./宫古芳香.md)
-
-
-
+- [ORIENT vol.6 Ten Desires.](./ORIENT_vol.6_Ten_Desires..md)该封面包含的角色：
+- [宫古芳香](./宫古芳香.md)
 
 
 ---

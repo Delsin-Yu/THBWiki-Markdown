@@ -1,12 +1,8 @@
 # 文件:二次元の日常banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ca\ns6%3A%E4%BA%8C%E6%AC%A1%E5%85%83%E3%81%AE%E6%97%A5%E5%B8%B8banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ca\ns6%3A%E4%BA%8C%E6%AC%A1%E5%85%83%E3%81%AE%E6%97%A5%E5%B8%B8banner%2Ejpg.html -->
 
 二次元の日常 | 社团LOGO
-
-
-
-
 
 
 ---

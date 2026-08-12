@@ -1,16 +1,12 @@
 # 文件:幻想诗篇Xanadu_CantoLOGO2.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\aa\ns6%3A%E5%B9%BB%E6%83%B3%E8%AF%97%E7%AF%87Xanadu_CantoLOGO2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\aa\ns6%3A%E5%B9%BB%E6%83%B3%E8%AF%97%E7%AF%87Xanadu_CantoLOGO2%2Epng.html -->
 
 幻想诗篇Xanadu_Canto | 社团LOGO
 
   
 幻想诗篇的社团logo
   
-
-
-
-
 
 ---
 

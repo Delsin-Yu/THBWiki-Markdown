@@ -1,6 +1,6 @@
 # 文件:东方信仰战_~_Gensokyo_Duel封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5e\ns6%3A%E4%B8%9C%E6%96%B9%E4%BF%A1%E4%BB%B0%E6%88%98_%7E_Gensokyo_Duel%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5e\ns6%3A%E4%B8%9C%E6%96%B9%E4%BF%A1%E4%BB%B0%E6%88%98_%7E_Gensokyo_Duel%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 封面图片 | 软件封面 | 鸽屋谷
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [东方信仰战 ~ Gensokyo Duel](./东方信仰战_~_Gensokyo_Duel.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [东方信仰战 ~ Gensokyo Duel](./东方信仰战_~_Gensokyo_Duel.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

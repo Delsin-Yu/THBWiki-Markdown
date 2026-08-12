@@ -1,12 +1,8 @@
 # 文件:トッパツプランbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2d\ns6%3A%E3%83%88%E3%83%83%E3%83%91%E3%83%84%E3%83%97%E3%83%A9%E3%83%B3banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2d\ns6%3A%E3%83%88%E3%83%83%E3%83%91%E3%83%84%E3%83%97%E3%83%A9%E3%83%B3banner%2Epng.html -->
 
 トッパツプラン | 社团LOGO
-
-
-
-
 
 
 ---

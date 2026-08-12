@@ -1,16 +1,12 @@
 # 模板:幻想乡Minimalism
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\0\0c\ns10%3A%E5%B9%BB%E6%83%B3%E4%B9%A1Minimalism.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\0\0c\ns10%3A%E5%B9%BB%E6%83%B3%E4%B9%A1Minimalism.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

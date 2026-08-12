@@ -1,12 +1,8 @@
 # 文件:THD2十字架.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\67\ns6%3ATHD2%E5%8D%81%E5%AD%97%E6%9E%B6%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\67\ns6%3ATHD2%E5%8D%81%E5%AD%97%E6%9E%B6%2Epng.html -->
 
 AvalonStudioOfficial
-
-
-
-
 
 
 ---

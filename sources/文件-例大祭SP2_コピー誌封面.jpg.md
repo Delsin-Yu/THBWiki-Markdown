@@ -1,6 +1,6 @@
 # 文件:例大祭SP2_コピー誌封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e7\ns6%3A%E4%BE%8B%E5%A4%A7%E7%A5%ADSP2_%E3%82%B3%E3%83%94%E3%83%BC%E8%AA%8C%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e7\ns6%3A%E4%BE%8B%E5%A4%A7%E7%A5%ADSP2_%E3%82%B3%E3%83%94%E3%83%BC%E8%AA%8C%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 フレキシ | 同人志封面 | 封面图片
 
@@ -10,11 +10,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [例大祭SP2 コピー誌](./例大祭SP2_コピー誌.md)  
-该封面包含的角色：- [圣白莲](./圣白莲.md)- [雾雨魔理沙](./雾雨魔理沙.md)- [森近霖之助](./森近霖之助.md)
-
-
-
+- [例大祭SP2 コピー誌](./例大祭SP2_コピー誌.md)该封面包含的角色：
+- [圣白莲](./圣白莲.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
+- [森近霖之助](./森近霖之助.md)
 
 
 ---

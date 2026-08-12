@@ -1,6 +1,6 @@
 # 文件:dogmatic_VAMPIRE_GIRL封面.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\56\ns6%3Adogmatic_VAMPIRE_GIRL%E5%B0%81%E9%9D%A2%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\56\ns6%3Adogmatic_VAMPIRE_GIRL%E5%B0%81%E9%9D%A2%2Egif.html -->
 
 专辑封面 | 封面图片 | 錯乱のオルフェ
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [dogmatic VAMPIRE GIRL](./dogmatic_VAMPIRE_GIRL.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [dogmatic VAMPIRE GIRL](./dogmatic_VAMPIRE_GIRL.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
   
-源地址：[[1]](http://www.sakuran-no-orphe.com/images/c86jacket.gif)
-  
-
-
-
-
+源地址：[\[1\]](http://www.sakuran-no-orphe.com/images/c86jacket.gif)  
 
 ---
 

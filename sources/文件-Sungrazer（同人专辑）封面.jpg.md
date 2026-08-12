@@ -1,6 +1,6 @@
 # 文件:Sungrazer（同人专辑）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ce\ns6%3ASungrazer%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ce\ns6%3ASungrazer%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 denshūto | 专辑封面 | 封面图片
 
@@ -13,12 +13,7 @@ denshūto | 专辑封面 | 封面图片
 - [Sungrazer（同人专辑）](./Sungrazer（同人专辑）.md)
 
   
-源地址：[图片链接](https://f4.bcbits.com/img/a3236569188_0.jpg) [Bandcamp](https://denshuto.bandcamp.com/album/sungrazer-2)
-  
-
-
-
-
+源地址：[图片链接](https://f4.bcbits.com/img/a3236569188_0.jpg) [Bandcamp](https://denshuto.bandcamp.com/album/sungrazer-2)  
 
 ---
 

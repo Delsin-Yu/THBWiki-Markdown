@@ -1,6 +1,6 @@
 # 文件:Border（Mikagura_Records）封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\46\ns6%3ABorder%EF%BC%88Mikagura_Records%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\46\ns6%3ABorder%EF%BC%88Mikagura_Records%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Mikagura_Records | 专辑封面 | 封面图片
 
@@ -10,11 +10,9 @@ Mikagura_Records | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Border（Mikagura Records）](./Border（Mikagura_Records）.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [Border（Mikagura Records）](./Border（Mikagura_Records）.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

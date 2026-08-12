@@ -1,12 +1,8 @@
 # 文件:Highly_Responsive.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\88\ns6%3AHighly_Responsive%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\88\ns6%3AHighly_Responsive%2Emp3.html -->
 
 Highly_Responsive_to_Prayers | 东方灵异传 | 原曲MP3
-
-
-
-
 
 
 ---

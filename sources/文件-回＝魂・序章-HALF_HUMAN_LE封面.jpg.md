@@ -1,6 +1,6 @@
 # 文件:回＝魂・序章-HALF_HUMAN_LE封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1c\ns6%3A%E5%9B%9E%EF%BC%9D%E9%AD%82%E3%83%BB%E5%BA%8F%E7%AB%A0-HALF_HUMAN_LE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1c\ns6%3A%E5%9B%9E%EF%BC%9D%E9%AD%82%E3%83%BB%E5%BA%8F%E7%AB%A0-HALF_HUMAN_LE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 マルゴクラバット_or_Die | 同人志封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [回＝魂・序章-HALF HUMAN LE](./回＝魂・序章-HALF_HUMAN_LE.md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)
-
-
-
+- [回＝魂・序章-HALF HUMAN LE](./回＝魂・序章-HALF_HUMAN_LE.md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
 
 
 ---

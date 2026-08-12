@@ -1,6 +1,6 @@
 # 文件:下剋上異変シリーズ⑤_Ruthless_Destroyer封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\30\ns6%3A%E4%B8%8B%E5%89%8B%E4%B8%8A%E7%95%B0%E5%A4%89%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%E2%91%A4_Ruthless_Destroyer%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\30\ns6%3A%E4%B8%8B%E5%89%8B%E4%B8%8A%E7%95%B0%E5%A4%89%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%E2%91%A4_Ruthless_Destroyer%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 黒豆屋
 
@@ -10,11 +10,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [下剋上異変シリーズ⑤ Ruthless Destroyer](./下剋上異変シリーズ⑤_Ruthless_Destroyer.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)- [鬼人正邪](./鬼人正邪.md)
-
-
-
+- [下剋上異変シリーズ⑤ Ruthless Destroyer](./下剋上異変シリーズ⑤_Ruthless_Destroyer.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
+- [鬼人正邪](./鬼人正邪.md)
 
 
 ---

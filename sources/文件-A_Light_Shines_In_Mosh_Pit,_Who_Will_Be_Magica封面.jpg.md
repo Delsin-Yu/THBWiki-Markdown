@@ -1,6 +1,6 @@
 # 文件:A_Light_Shines_In_Mosh_Pit,_Who_Will_Be_Magica封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fb\ns6%3AA_Light_Shines_In_Mosh_Pit%2C_Who_Will_Be_Magica%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fb\ns6%3AA_Light_Shines_In_Mosh_Pit%2C_Who_Will_Be_Magica%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 なんとかかんとかロザンゼルス | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [A Light Shines In Mosh Pit, Who Will Be Magica](./A_Light_Shines_In_Mosh_Pit,_Who_Will_Be_Magica.md)  
-该封面包含的角色：- [古明地恋](./古明地恋.md)
+- [A Light Shines In Mosh Pit, Who Will Be Magica](./A_Light_Shines_In_Mosh_Pit,_Who_Will_Be_Magica.md)该封面包含的角色：
+- [古明地恋](./古明地恋.md)
 
   
-源地址：[[1]](https://f4.bcbits.com/img/a0314600683_10.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://f4.bcbits.com/img/a0314600683_10.jpg)  
 
 ---
 

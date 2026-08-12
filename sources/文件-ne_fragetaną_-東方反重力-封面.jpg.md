@@ -1,6 +1,6 @@
 # 文件:ne_fragetaną_-東方反重力-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3f\ns6%3Ane_fragetan%C4%85_-%E6%9D%B1%E6%96%B9%E5%8F%8D%E9%87%8D%E5%8A%9B-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3f\ns6%3Ane_fragetan%C4%85_-%E6%9D%B1%E6%96%B9%E5%8F%8D%E9%87%8D%E5%8A%9B-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Deścent_Family | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Deścent_Family | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [ne fragetaną -東方反重力-](./ne_fragetaną_-東方反重力-.md)  
-该封面包含的角色：- [藤原妹红](./藤原妹红.md)
+- [ne fragetaną -東方反重力-](./ne_fragetaną_-東方反重力-.md)该封面包含的角色：
+- [藤原妹红](./藤原妹红.md)
 
   
-源地址：[[1]](https://s.booth.pm/fa2bc207-5b39-4a97-b3e6-2f613252daad/i/413274/e359a843-a46e-4fb4-a496-0cb09dcaecd5.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://s.booth.pm/fa2bc207-5b39-4a97-b3e6-2f613252daad/i/413274/e359a843-a46e-4fb4-a496-0cb09dcaecd5.jpg)  
 
 ---
 

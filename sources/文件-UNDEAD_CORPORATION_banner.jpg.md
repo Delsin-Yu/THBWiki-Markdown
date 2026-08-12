@@ -1,12 +1,8 @@
 # 文件:UNDEAD_CORPORATION_banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7a\ns6%3AUNDEAD_CORPORATION_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7a\ns6%3AUNDEAD_CORPORATION_banner%2Ejpg.html -->
 
 UNDEAD_CORPORATION | 社团LOGO
-
-
-
-
 
 
 ---

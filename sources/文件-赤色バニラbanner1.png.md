@@ -1,12 +1,8 @@
 # 文件:赤色バニラbanner1.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ab\ns6%3A%E8%B5%A4%E8%89%B2%E3%83%90%E3%83%8B%E3%83%A9banner1%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ab\ns6%3A%E8%B5%A4%E8%89%B2%E3%83%90%E3%83%8B%E3%83%A9banner1%2Epng.html -->
 
 社团LOGO | 赤色バニラ
-
-
-
-
 
 
 ---

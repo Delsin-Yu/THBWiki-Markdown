@@ -1,14 +1,11 @@
 # 文件:The_Grimoire_of_Usami（里乃&舞1）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\04\ns6%3AThe_Grimoire_of_Usami%EF%BC%88%E9%87%8C%E4%B9%83%26%E8%88%9E1%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\04\ns6%3AThe_Grimoire_of_Usami%EF%BC%88%E9%87%8C%E4%B9%83%26%E8%88%9E1%EF%BC%89%2Ejpg.html -->
 
 丁礼田舞 | 宇佐见的魔法书 | 尔子田里乃
 
 
 ## 摘要
-
-
-
 
 ---
 

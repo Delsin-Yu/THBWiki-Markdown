@@ -1,12 +1,8 @@
 # 文件:煙霞LOGO.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\98\ns6%3A%E7%85%99%E9%9C%9ELOGO%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\98\ns6%3A%E7%85%99%E9%9C%9ELOGO%2Epng.html -->
 
 煙霞 | 社团LOGO
-
-
-
-
 
 
 ---

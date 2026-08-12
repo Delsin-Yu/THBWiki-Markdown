@@ -1,12 +1,8 @@
 # 文件:flap+frog_banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\53\ns6%3Aflap%2Bfrog_banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\53\ns6%3Aflap%2Bfrog_banner%2Epng.html -->
 
 flap+frog | 社团LOGO
-
-
-
-
 
 
 ---

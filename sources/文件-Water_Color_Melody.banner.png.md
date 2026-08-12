@@ -1,12 +1,8 @@
 # 文件:Water_Color_Melody.banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\28\ns6%3AWater_Color_Melody%2Ebanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\28\ns6%3AWater_Color_Melody%2Ebanner%2Epng.html -->
 
 Water_Color_Melody. | 社团LOGO
-
-
-
-
 
 
 ---

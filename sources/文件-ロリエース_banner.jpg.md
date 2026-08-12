@@ -1,14 +1,11 @@
 # 文件:ロリエース_banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\52\ns6%3A%E3%83%AD%E3%83%AA%E3%82%A8%E3%83%BC%E3%82%B9_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\52\ns6%3A%E3%83%AD%E3%83%AA%E3%82%A8%E3%83%BC%E3%82%B9_banner%2Ejpg.html -->
 
 ロリエース | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

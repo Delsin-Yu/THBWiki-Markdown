@@ -1,11 +1,10 @@
 # 秋霜玉/攻略/Stage2
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\60\ns0%3A%E7%A7%8B%E9%9C%9C%E7%8E%89%2F%E6%94%BB%E7%95%A5%2FStage2.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\60\ns0%3A%E7%A7%8B%E9%9C%9C%E7%8E%89%2F%E6%94%BB%E7%95%A5%2FStage2.html -->
 
 待完成页面
 
 <center>
-
 <table>
 <tbody><tr>
 <td class="mbox-image"><div style="width: 52px;">
@@ -14,50 +13,33 @@
 </tr>
 </tbody></table>
 
-
 </center>
-
 ## 目录
 
 - [1 总述](#总述)
 - [2 前半道中](#前半道中)
-
-  - [2.1 (1)](#(1))
-
+  - [2.1 (1)](#(1%29)
     - [2.1.1 低Rank](#低Rank)
     - [2.1.2 高Rank](#高Rank)
 
 
 
 
-
-
 - [3 道中boss](#道中boss)
-
   - [3.1 1身](#1身)
-
     - [3.1.1 低Rank](#低Rank_2)
     - [3.1.2 高Rank](#高Rank_2)
 
 
-
   - [3.2 2身](#2身)
-
     - [3.2.1 低Rank](#低Rank_3)
     - [3.2.2 高Rank](#高Rank_3)
 
 
 
 
-
-
 - [4 关底boss](#关底boss)
-
   - [4.1 1身](#1身_2)
-
-
-
-
 
 
 
@@ -75,7 +57,7 @@
 ## 道中boss
 
 <table>
-<caption>boss:<a href="/index.php?title=%E7%A7%8B%E9%9C%9C%E7%8E%89/%E5%85%B6%E4%BB%96%E8%A7%92%E8%89%B2&amp;action=edit&amp;redlink=1" class="new" title="秋霜玉/其他角色（页面不存在）">二面道中</a>
+<caption>boss:<a class="new" title="秋霜玉/其他角色（页面不存在）">二面道中</a>
 </caption>
 <tbody><tr>
 <td align="center" colspan="4">Boss共有2身。
@@ -99,10 +81,8 @@
 <td>?
 </td></tr></tbody></table>
 
-
-[](./文件-ssg_2_MidBoss.png.md)  [](./文件-ssg_2_MidBoss.png.md)机体
-
-
+<img alt="" src="https://upload.thwiki.cc/thumb/4/4c/ssg_2_MidBoss.png/100px-ssg_2_MidBoss.png" decoding="async" loading="lazy" width="100" height="100" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/4/4c/ssg_2_MidBoss.png/150px-ssg_2_MidBoss.png 1.5x, https://upload.thwiki.cc/thumb/4/4c/ssg_2_MidBoss.png/200px-ssg_2_MidBoss.png 2x" data-file-width="640" data-file-height="640">
+ [放大](./文件-ssg_2_MidBoss.png.md)机体
 ### 1身
 
 #### 低Rank
@@ -148,22 +128,10 @@
 <td>?
 </td></tr></tbody></table>
 
-
-
-
-
-[](./文件-冥（秋霜玉立绘）.png.md)
-
+<img alt="秋霜玉立绘" src="https://upload.thwiki.cc/1/10/%E5%86%A5%EF%BC%88%E7%A7%8B%E9%9C%9C%E7%8E%89%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="100" height="100" data-file-width="96" data-file-height="96">
 冥
-
-
-[](./文件-ssg_2_Boss_1.png.md)
+<img alt="秋霜玉立绘" src="https://upload.thwiki.cc/thumb/e/e0/ssg_2_Boss_1.png/254px-ssg_2_Boss_1.png" decoding="async" loading="lazy" width="254" height="100" srcset="https://upload.thwiki.cc/thumb/e/e0/ssg_2_Boss_1.png/381px-ssg_2_Boss_1.png 1.5x, https://upload.thwiki.cc/thumb/e/e0/ssg_2_Boss_1.png/508px-ssg_2_Boss_1.png 2x" data-file-width="1120" data-file-height="440">
 机体
-
-
-
-
-
 
 <table>
 <caption>boss:<a href="./冥&舞.md" title="冥&amp;舞">舞</a>
@@ -196,27 +164,12 @@
 <td>?
 </td></tr></tbody></table>
 
-
-
-
-
-[](./文件-舞（秋霜玉立绘）.png.md)
-
+<img alt="秋霜玉立绘" src="https://upload.thwiki.cc/9/91/%E8%88%9E%EF%BC%88%E7%A7%8B%E9%9C%9C%E7%8E%89%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="100" height="100" data-file-width="96" data-file-height="96">
 舞
-
-
-[](./文件-ssg_2_Boss_2.png.md)
+<img alt="秋霜玉立绘" src="https://upload.thwiki.cc/thumb/3/35/ssg_2_Boss_2.png/136px-ssg_2_Boss_2.png" decoding="async" loading="lazy" width="136" height="100" srcset="https://upload.thwiki.cc/thumb/3/35/ssg_2_Boss_2.png/204px-ssg_2_Boss_2.png 1.5x, https://upload.thwiki.cc/thumb/3/35/ssg_2_Boss_2.png/272px-ssg_2_Boss_2.png 2x" data-file-width="640" data-file-height="470">
 机体
 
-
-
-
-
-
 ### 1身
-
-
-
 
 ---
 

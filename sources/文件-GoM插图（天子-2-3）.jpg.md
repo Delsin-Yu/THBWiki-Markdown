@@ -1,12 +1,8 @@
 # 文件:GoM插图（天子-2-3）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\74\ns6%3AGoM%E6%8F%92%E5%9B%BE%EF%BC%88%E5%A4%A9%E5%AD%90-2-3%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\74\ns6%3AGoM%E6%8F%92%E5%9B%BE%EF%BC%88%E5%A4%A9%E5%AD%90-2-3%EF%BC%89%2Ejpg.html -->
 
 比那名居天子 | 魔理沙的魔法书
-
-
-
-
 
 
 ---

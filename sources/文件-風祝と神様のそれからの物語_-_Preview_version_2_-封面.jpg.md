@@ -1,6 +1,6 @@
 # 文件:風祝と神様のそれからの物語_-_Preview_version_2_-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\29\ns6%3A%E9%A2%A8%E7%A5%9D%E3%81%A8%E7%A5%9E%E6%A7%98%E3%81%AE%E3%81%9D%E3%82%8C%E3%81%8B%E3%82%89%E3%81%AE%E7%89%A9%E8%AA%9E_-_Preview_version_2_-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\29\ns6%3A%E9%A2%A8%E7%A5%9D%E3%81%A8%E7%A5%9E%E6%A7%98%E3%81%AE%E3%81%9D%E3%82%8C%E3%81%8B%E3%82%89%E3%81%AE%E7%89%A9%E8%AA%9E_-_Preview_version_2_-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 まぐなむお～ぱす | 专辑封面 | 封面图片
 
@@ -11,12 +11,7 @@
 - [風祝と神様のそれからの物語 - Preview version 2 -](./風祝と神様のそれからの物語_-_Preview_version_2_-.md)
 
   
-源地址：[[1]](http://takasemagpass.blogspot.jp/2015/01/c87.html)
-  
-
-
-
-
+源地址：[\[1\]](http://takasemagpass.blogspot.jp/2015/01/c87.html)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:Red_Roses封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9c\ns6%3ARed_Roses%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9c\ns6%3ARed_Roses%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 RTTF_Records | 专辑封面 | 封面图片
 
@@ -8,16 +8,12 @@ RTTF_Records | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Red Roses](./Red_Roses.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [Red Roses](./Red_Roses.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
   
-源地址：[[1]](http://rttfrecords.com/works/rttf_0009/red_roses.png)
-  
-
-
-
-
+源地址：[\[1\]](http://rttfrecords.com/works/rttf_0009/red_roses.png)  
 
 ---
 

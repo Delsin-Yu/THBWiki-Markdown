@@ -1,6 +1,6 @@
 # 文件:Re-Signing（東方名華祭13）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\70\ns6%3ARe-Signing%EF%BC%88%E6%9D%B1%E6%96%B9%E5%90%8D%E8%8F%AF%E7%A5%AD13%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\70\ns6%3ARe-Signing%EF%BC%88%E6%9D%B1%E6%96%B9%E5%90%8D%E8%8F%AF%E7%A5%AD13%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ランダムランド | 同人志封面 | 封面图片
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [Re-Signing（東方名華祭13）](./Re-Signing（東方名華祭13）.md)  
-该封面包含的角色：- [小恶魔](./小恶魔.md)- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
-
-
-
+- [Re-Signing（東方名華祭13）](./Re-Signing（東方名華祭13）.md)该封面包含的角色：
+- [小恶魔](./小恶魔.md)
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
 
 
 ---

@@ -1,14 +1,11 @@
 # 文件:Lunatic_Gun.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1c\ns6%3ALunatic_Gun%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1c\ns6%3ALunatic_Gun%2Epng.html -->
 
 东方凭依华 | 东方深秘录 | 原作物品
 
 
 ## 文件说明
-
-
-
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:TOHO_BEATRONIC_-_organized_green_-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\eb\ns6%3ATOHO_BEATRONIC_-_organized_green_-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\eb\ns6%3ATOHO_BEATRONIC_-_organized_green_-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 M3tamix_Records | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ M3tamix_Records | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [TOHO BEATRONIC - organized green -](./TOHO_BEATRONIC_-_organized_green_-.md)  
-该封面包含的角色：- [洩矢诹访子](./洩矢诹访子.md)
+- [TOHO BEATRONIC - organized green -](./TOHO_BEATRONIC_-_organized_green_-.md)该封面包含的角色：
+- [洩矢诹访子](./洩矢诹访子.md)
 
   
-源地址：[[1]](http://www.m3tamix.com/images/beatro_green_480.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://www.m3tamix.com/images/beatro_green_480.jpg)  
 
 ---
 

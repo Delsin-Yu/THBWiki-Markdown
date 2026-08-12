@@ -1,6 +1,6 @@
 # 文件:Crerp's_TOHO_Comicalize_Assortment封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\56\ns6%3ACrerp%27s_TOHO_Comicalize_Assortment%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\56\ns6%3ACrerp%27s_TOHO_Comicalize_Assortment%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 CrerpSucre | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@ CrerpSucre | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Crerp's TOHO Comicalize Assortment](./Crerp's_TOHO_Comicalize_Assortment.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
-
-
-
+- [Crerp's TOHO Comicalize Assortment](./Crerp's_TOHO_Comicalize_Assortment.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
 
 ---

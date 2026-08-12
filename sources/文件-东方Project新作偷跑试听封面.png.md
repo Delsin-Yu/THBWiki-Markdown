@@ -1,6 +1,6 @@
 # 文件:东方Project新作偷跑试听封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\39\ns6%3A%E4%B8%9C%E6%96%B9Project%E6%96%B0%E4%BD%9C%E5%81%B7%E8%B7%91%E8%AF%95%E5%90%AC%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\39\ns6%3A%E4%B8%9C%E6%96%B9Project%E6%96%B0%E4%BD%9C%E5%81%B7%E8%B7%91%E8%AF%95%E5%90%AC%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Electric_Ginger | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Electric_Ginger | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [东方Project新作偷跑试听](./东方Project新作偷跑试听.md)  
-该封面包含的角色：- [ZUN](./ZUN.md)
-
-
-
+- [东方Project新作偷跑试听](./东方Project新作偷跑试听.md)该封面包含的角色：
+- [ZUN](./ZUN.md)
 
 
 ---

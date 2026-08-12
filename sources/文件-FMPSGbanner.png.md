@@ -1,14 +1,11 @@
 # 文件:FMPSGbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\57\ns6%3AFMPSGbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\57\ns6%3AFMPSGbanner%2Epng.html -->
 
 FMPSG | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

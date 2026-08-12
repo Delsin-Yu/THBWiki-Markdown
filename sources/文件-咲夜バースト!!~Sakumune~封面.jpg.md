@@ -1,6 +1,6 @@
 # 文件:咲夜バースト!!~Sakumune~封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\77\ns6%3A%E5%92%B2%E5%A4%9C%E3%83%90%E3%83%BC%E3%82%B9%E3%83%88%21%21%7ESakumune%7E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\77\ns6%3A%E5%92%B2%E5%A4%9C%E3%83%90%E3%83%BC%E3%82%B9%E3%83%88%21%21%7ESakumune%7E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 れいてぃ屋 | 同人志封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [咲夜バースト!!~Sakumune~](./咲夜バースト!!~Sakumune~.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)
-
-
-
+- [咲夜バースト!!~Sakumune~](./咲夜バースト!!~Sakumune~.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
 
 
 ---

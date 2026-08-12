@@ -1,18 +1,13 @@
 # 文件:TRICHROMATIClogo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c3\ns6%3ATRICHROMATIClogo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c3\ns6%3ATRICHROMATIClogo%2Epng.html -->
 
 TRICHROMATIC | 社团LOGO
 
 
 ## 摘要
   
-源地址：[direct image link (removed empty space from original)](https://web.archive.org/web/20170205090833im_/http://www.trichromatic.net/assets_ver3/img/common/header_h1.png), [source page](https://web.archive.org/web/20100107205017/http://www.trichromatic.net/)
-  
-
-
-
-
+源地址：[direct image link (removed empty space from original)](https://web.archive.org/web/20170205090833im_/http://www.trichromatic.net/assets_ver3/img/common/header_h1.png), [source page](https://web.archive.org/web/20100107205017/http://www.trichromatic.net/)  
 
 ---
 

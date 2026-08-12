@@ -1,16 +1,12 @@
 # 模板:名古屋COMITIA
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\7\71\ns10%3A%E5%90%8D%E5%8F%A4%E5%B1%8BCOMITIA.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\7\71\ns10%3A%E5%90%8D%E5%8F%A4%E5%B1%8BCOMITIA.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

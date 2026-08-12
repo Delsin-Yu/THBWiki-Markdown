@@ -1,12 +1,8 @@
 # 文件:a-TTTempo_banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9f\ns6%3Aa-TTTempo_banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9f\ns6%3Aa-TTTempo_banner%2Egif.html -->
 
 a-TTTempo | 社团LOGO
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:イベント限定おまけCD①封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\65\ns6%3A%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E9%99%90%E5%AE%9A%E3%81%8A%E3%81%BE%E3%81%91CD%E2%91%A0%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\65\ns6%3A%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E9%99%90%E5%AE%9A%E3%81%8A%E3%81%BE%E3%81%91CD%E2%91%A0%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ちょこふぁん | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [イベント限定おまけCD①](./イベント限定おまけCD①.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
-
-
-
+- [イベント限定おまけCD①](./イベント限定おまけCD①.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
 
 ---

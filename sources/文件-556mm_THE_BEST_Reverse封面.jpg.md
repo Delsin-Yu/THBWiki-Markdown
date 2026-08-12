@@ -1,6 +1,6 @@
 # 文件:556mm_THE_BEST_Reverse封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5f\ns6%3A556mm_THE_BEST_Reverse%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5f\ns6%3A556mm_THE_BEST_Reverse%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 556ミリメートル | 专辑封面 | 封面图片
 
@@ -8,16 +8,18 @@
 使用了本文件作封面图片的作品：
   
 
-- [556mm THE BEST Reverse](./556mm_THE_BEST_Reverse.md)  
-该封面包含的角色：- [露米娅](./露米娅.md)- [琪露诺](./琪露诺.md)- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [射命丸文](./射命丸文.md)- [雾雨魔理沙](./雾雨魔理沙.md)- [姬海棠果](./姬海棠果.md)
+- [556mm THE BEST Reverse](./556mm_THE_BEST_Reverse.md)该封面包含的角色：
+- [露米娅](./露米娅.md)
+- [琪露诺](./琪露诺.md)
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [射命丸文](./射命丸文.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
+- [姬海棠果](./姬海棠果.md)
 
   
-源地址：[[1]](http://blog-imgs-80-origin.fc2.com/5/5/6/556mm/h1.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://blog-imgs-80-origin.fc2.com/5/5/6/556mm/h1.jpg)  
 
 ---
 

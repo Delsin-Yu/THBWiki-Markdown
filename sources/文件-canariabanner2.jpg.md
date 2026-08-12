@@ -1,12 +1,8 @@
 # 文件:canariabanner2.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5d\ns6%3Acanariabanner2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5d\ns6%3Acanariabanner2%2Ejpg.html -->
 
 canaria | 社团LOGO
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:ノースショア・ティキ・ドールズEP封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e0\ns6%3A%E3%83%8E%E3%83%BC%E3%82%B9%E3%82%B7%E3%83%A7%E3%82%A2%E3%83%BB%E3%83%86%E3%82%A3%E3%82%AD%E3%83%BB%E3%83%89%E3%83%BC%E3%83%AB%E3%82%BAEP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e0\ns6%3A%E3%83%8E%E3%83%BC%E3%82%B9%E3%82%B7%E3%83%A7%E3%82%A2%E3%83%BB%E3%83%86%E3%82%A3%E3%82%AD%E3%83%BB%E3%83%89%E3%83%BC%E3%83%AB%E3%82%BAEP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 さくらゆっけ | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [ノースショア・ティキ・ドールズEP](./ノースショア・ティキ・ドールズEP.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
-
-
-
+- [ノースショア・ティキ・ドールズEP](./ノースショア・ティキ・ドールズEP.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
 
 
 ---

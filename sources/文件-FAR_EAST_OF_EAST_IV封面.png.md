@@ -1,6 +1,6 @@
 # 文件:FAR_EAST_OF_EAST_IV封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\88\ns6%3AFAR_EAST_OF_EAST_IV%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\88\ns6%3AFAR_EAST_OF_EAST_IV%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 TatshMusicCircle | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ TatshMusicCircle | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [FAR EAST OF EAST IV](./FAR_EAST_OF_EAST_IV.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
-
-
-
+- [FAR EAST OF EAST IV](./FAR_EAST_OF_EAST_IV.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
 
 
 ---

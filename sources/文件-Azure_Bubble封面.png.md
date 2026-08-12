@@ -1,6 +1,6 @@
 # 文件:Azure_Bubble封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bc\ns6%3AAzure_Bubble%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bc\ns6%3AAzure_Bubble%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 常綠樹林
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Azure Bubble](./Azure_Bubble.md)  
-该封面包含的角色：- [稗田阿求](./稗田阿求.md)
+- [Azure Bubble](./Azure_Bubble.md)该封面包含的角色：
+- [稗田阿求](./稗田阿求.md)
 
   
-源地址：[[1]](https://web.archive.org/web/20130420145033/http://pds27.egloos.com/pds/201303/02/37/a0070037_51319cabb6d18.png)
-  
-
-
-
-
+源地址：[\[1\]](https://web.archive.org/web/20130420145033/http://pds27.egloos.com/pds/201303/02/37/a0070037_51319cabb6d18.png)  
 
 ---
 

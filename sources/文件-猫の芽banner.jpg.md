@@ -1,12 +1,8 @@
 # 文件:猫の芽banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4a\ns6%3A%E7%8C%AB%E3%81%AE%E8%8A%BDbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4a\ns6%3A%E7%8C%AB%E3%81%AE%E8%8A%BDbanner%2Ejpg.html -->
 
 猫の芽 | 社团LOGO
-
-
-
-
 
 
 ---

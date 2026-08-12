@@ -1,18 +1,13 @@
 # 文件:Mad_Tea_Partylogo.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ce\ns6%3AMad_Tea_Partylogo%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ce\ns6%3AMad_Tea_Partylogo%2Egif.html -->
 
 Mad_Tea_Party | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[[1]](https://blog-imgs-44.fc2.com/c/z/7/cz75sr/mtp_logos.gif)
-  
-
-
-
-
+源地址：[\[1\]](https://blog-imgs-44.fc2.com/c/z/7/cz75sr/mtp_logos.gif)  
 
 ---
 

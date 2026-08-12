@@ -1,12 +1,8 @@
 # 文件:蟹符「Marine_Invader」.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\71\ns6%3A%E8%9F%B9%E7%AC%A6%E3%80%8CMarine_Invader%E3%80%8D%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\71\ns6%3A%E8%9F%B9%E7%AC%A6%E3%80%8CMarine_Invader%E3%80%8D%2Ejpg.html -->
 
 東方邪星章製作チーム
-
-
-
-
 
 
 ---

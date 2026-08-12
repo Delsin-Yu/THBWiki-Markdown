@@ -1,12 +1,8 @@
 # 文件:四季映姬·夜摩仙那度b（花映塚自机像素绘）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\39\ns6%3A%E5%9B%9B%E5%AD%A3%E6%98%A0%E5%A7%AC%C2%B7%E5%A4%9C%E6%91%A9%E4%BB%99%E9%82%A3%E5%BA%A6b%EF%BC%88%E8%8A%B1%E6%98%A0%E5%A1%9A%E8%87%AA%E6%9C%BA%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\39\ns6%3A%E5%9B%9B%E5%AD%A3%E6%98%A0%E5%A7%AC%C2%B7%E5%A4%9C%E6%91%A9%E4%BB%99%E9%82%A3%E5%BA%A6b%EF%BC%88%E8%8A%B1%E6%98%A0%E5%A1%9A%E8%87%AA%E6%9C%BA%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89%2Epng.html -->
 
 STG自机像素绘 | 东方花映塚 | 四季映姬·夜摩仙那度 | 官方游戏像素绘
-
-
-
-
 
 
 ---

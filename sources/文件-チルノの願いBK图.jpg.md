@@ -1,12 +1,8 @@
 # 文件:チルノの願いBK图.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\15\ns6%3A%E3%83%81%E3%83%AB%E3%83%8E%E3%81%AE%E9%A1%98%E3%81%84BK%E5%9B%BE%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\15\ns6%3A%E3%83%81%E3%83%AB%E3%83%8E%E3%81%AE%E9%A1%98%E3%81%84BK%E5%9B%BE%2Ejpg.html -->
 
 Variable_Museum | 同人专辑预览图片
-
-
-
-
 
 
 ---

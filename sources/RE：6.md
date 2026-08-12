@@ -1,35 +1,38 @@
 # RE：6
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\9\9a\ns0%3ARE%EF%BC%9A6.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\9\9a\ns0%3ARE%EF%BC%9A6.html -->
 
 2017年8月11日 由 星屑ドルチェ 于 Comic Market 92 发布的漫画同人志，B5尺寸一共54页，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人志 (未找到链接)** 的词条
-
+**[二次创作同人志](./二次创作.md#同人志)**的词条
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-RE：6封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/6/66/RE%EF%BC%9A6%E5%B0%81%E9%9D%A2.jpg/139px-RE%EF%BC%9A6%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="139" height="196" srcset="https://upload.thwiki.cc/thumb/6/66/RE%EF%BC%9A6%E5%B0%81%E9%9D%A2.jpg/209px-RE%EF%BC%9A6%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/6/66/RE%EF%BC%9A6%E5%B0%81%E9%9D%A2.jpg/278px-RE%EF%BC%9A6%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="604" data-file-height="850"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>，<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a></div></td>
 </tr><tr><td class="label">名称</td><td colspan="2"> RE:6 </td></tr><tr><td class="label">制作方</td><td><a href="./星屑ドルチェ.md" title="星屑ドルチェ">星屑ドルチェ</a></td><td class="cover-artwork" rowspan="7" style="min-width:196px;"><a href="./文件-RE：6封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/6/66/RE%EF%BC%9A6%E5%B0%81%E9%9D%A2.jpg/139px-RE%EF%BC%9A6%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="139" height="196" srcset="https://upload.thwiki.cc/thumb/6/66/RE%EF%BC%9A6%E5%B0%81%E9%9D%A2.jpg/209px-RE%EF%BC%9A6%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/6/66/RE%EF%BC%9A6%E5%B0%81%E9%9D%A2.jpg/278px-RE%EF%BC%9A6%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="604" data-file-height="850"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>，<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2017-08-11&#160;（<a href="/展会作品列表?e=Comic+Market%2392">Comic Market 92</a>）</td></tr><tr><td class="label">类型</td><td>漫画</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>B5</td></tr><tr><td class="label">页数</td><td>54P</td></tr><tr><td class="label">售价</td><td>会场售价：600日元<br>通贩售价：857日元</td></tr>
+</tr><tr><td class="label">首发日期</td><td>2017-08-11 （<a href="./展会作品列表.md#92">Comic Market 92</a>）</td></tr><tr><td class="label">类型</td><td>漫画</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>B5</td></tr><tr><td class="label">页数</td><td>54P</td></tr><tr><td class="label">售价</td><td>会场售价：600日元<br>通贩售价：857日元</td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/64162771">https://www.pixiv.net/artworks/64162771</a></td></tr></tbody></table>
 
 RE：6（同人志，星屑ドルチェ，2017） - 2017年8月11日 由 星屑ドルチェ 于 Comic Market 92 发布的漫画同人志，B5尺寸一共54页，分级为 一般向
-
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=271986">蜜瓜</a>，<a rel="nofollow" class="external text" href="https://tdxxxk.booth.pm/items/1145451">Booth</a></td></tr></tbody></table>
 
 
-
 ## 预览
-- [](./文件-RE：6预览图1.jpg.md)- [](./文件-RE：6预览图2.jpg.md)- [](./文件-RE：6预览图3.jpg.md)- [](./文件-RE：6预览图4.jpg.md)- [](./文件-RE：6预览图5.jpg.md)- [](./文件-RE：6预览图6.jpg.md)
+
+- <img alt="RE：6预览图1.jpg" src="https://upload.thwiki.cc/thumb/a/ac/RE%EF%BC%9A6%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg/265px-RE%EF%BC%9A6%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg" decoding="async" loading="lazy" width="177" height="250" srcset="https://upload.thwiki.cc/thumb/a/ac/RE%EF%BC%9A6%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg/398px-RE%EF%BC%9A6%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg 1.5x, https://upload.thwiki.cc/thumb/a/ac/RE%EF%BC%9A6%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg/531px-RE%EF%BC%9A6%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg 2x" data-file-width="637" data-file-height="900"> 
+- <img alt="RE：6预览图2.jpg" src="https://upload.thwiki.cc/thumb/6/61/RE%EF%BC%9A6%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg/265px-RE%EF%BC%9A6%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg" decoding="async" loading="lazy" width="177" height="250" srcset="https://upload.thwiki.cc/thumb/6/61/RE%EF%BC%9A6%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg/398px-RE%EF%BC%9A6%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg 1.5x, https://upload.thwiki.cc/thumb/6/61/RE%EF%BC%9A6%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg/531px-RE%EF%BC%9A6%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg 2x" data-file-width="637" data-file-height="900"> 
+- <img alt="RE：6预览图3.jpg" src="https://upload.thwiki.cc/thumb/d/d3/RE%EF%BC%9A6%E9%A2%84%E8%A7%88%E5%9B%BE3.jpg/265px-RE%EF%BC%9A6%E9%A2%84%E8%A7%88%E5%9B%BE3.jpg" decoding="async" loading="lazy" width="177" height="250" srcset="https://upload.thwiki.cc/thumb/d/d3/RE%EF%BC%9A6%E9%A2%84%E8%A7%88%E5%9B%BE3.jpg/398px-RE%EF%BC%9A6%E9%A2%84%E8%A7%88%E5%9B%BE3.jpg 1.5x, https://upload.thwiki.cc/thumb/d/d3/RE%EF%BC%9A6%E9%A2%84%E8%A7%88%E5%9B%BE3.jpg/531px-RE%EF%BC%9A6%E9%A2%84%E8%A7%88%E5%9B%BE3.jpg 2x" data-file-width="637" data-file-height="900"> 
+- <img alt="RE：6预览图4.jpg" src="https://upload.thwiki.cc/thumb/8/80/RE%EF%BC%9A6%E9%A2%84%E8%A7%88%E5%9B%BE4.jpg/265px-RE%EF%BC%9A6%E9%A2%84%E8%A7%88%E5%9B%BE4.jpg" decoding="async" loading="lazy" width="177" height="250" srcset="https://upload.thwiki.cc/thumb/8/80/RE%EF%BC%9A6%E9%A2%84%E8%A7%88%E5%9B%BE4.jpg/398px-RE%EF%BC%9A6%E9%A2%84%E8%A7%88%E5%9B%BE4.jpg 1.5x, https://upload.thwiki.cc/thumb/8/80/RE%EF%BC%9A6%E9%A2%84%E8%A7%88%E5%9B%BE4.jpg/531px-RE%EF%BC%9A6%E9%A2%84%E8%A7%88%E5%9B%BE4.jpg 2x" data-file-width="637" data-file-height="900"> 
+- <img alt="RE：6预览图5.jpg" src="https://upload.thwiki.cc/thumb/f/f6/RE%EF%BC%9A6%E9%A2%84%E8%A7%88%E5%9B%BE5.jpg/265px-RE%EF%BC%9A6%E9%A2%84%E8%A7%88%E5%9B%BE5.jpg" decoding="async" loading="lazy" width="177" height="250" srcset="https://upload.thwiki.cc/thumb/f/f6/RE%EF%BC%9A6%E9%A2%84%E8%A7%88%E5%9B%BE5.jpg/398px-RE%EF%BC%9A6%E9%A2%84%E8%A7%88%E5%9B%BE5.jpg 1.5x, https://upload.thwiki.cc/thumb/f/f6/RE%EF%BC%9A6%E9%A2%84%E8%A7%88%E5%9B%BE5.jpg/531px-RE%EF%BC%9A6%E9%A2%84%E8%A7%88%E5%9B%BE5.jpg 2x" data-file-width="637" data-file-height="900"> 
+- <img alt="RE：6预览图6.jpg" src="https://upload.thwiki.cc/thumb/b/b4/RE%EF%BC%9A6%E9%A2%84%E8%A7%88%E5%9B%BE6.jpg/265px-RE%EF%BC%9A6%E9%A2%84%E8%A7%88%E5%9B%BE6.jpg" decoding="async" loading="lazy" width="177" height="250" srcset="https://upload.thwiki.cc/thumb/b/b4/RE%EF%BC%9A6%E9%A2%84%E8%A7%88%E5%9B%BE6.jpg/398px-RE%EF%BC%9A6%E9%A2%84%E8%A7%88%E5%9B%BE6.jpg 1.5x, https://upload.thwiki.cc/thumb/b/b4/RE%EF%BC%9A6%E9%A2%84%E8%A7%88%E5%9B%BE6.jpg/531px-RE%EF%BC%9A6%E9%A2%84%E8%A7%88%E5%9B%BE6.jpg 2x" data-file-width="637" data-file-height="900"> 
 
 
 ## Staff
+
 - かやこ (未找到链接)
 
 
 ## 评论
-
   
 REシリーズ第6巻。最終巻。  
 
@@ -41,9 +44,6 @@ REシリーズ第6巻。最終巻。
 
 彼女らの決断、結末、未来は…。
   
-
-
-
   
 RE系列第六卷。最终卷。  
 
@@ -55,16 +55,6 @@ RE系列第六卷。最终卷。
 
 她们的抉择、结局、未来又将如何…
   
-
-
-  
-  
-
-  
-
-
-
-
 
 ---
 

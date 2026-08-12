@@ -1,6 +1,6 @@
 # 文件:燃えよ橙ちゃん_情熱のHIPHOPSOUL封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\75\ns6%3A%E7%87%83%E3%81%88%E3%82%88%E6%A9%99%E3%81%A1%E3%82%83%E3%82%93_%E6%83%85%E7%86%B1%E3%81%AEHIPHOPSOUL%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\75\ns6%3A%E7%87%83%E3%81%88%E3%82%88%E6%A9%99%E3%81%A1%E3%82%83%E3%82%93_%E6%83%85%E7%86%B1%E3%81%AEHIPHOPSOUL%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 いなりの中 | 同人志封面 | 封面图片
 
@@ -10,16 +10,14 @@
 使用了本文件作封面图片的作品：
   
 
-- [燃えよ橙ちゃん 情熱のHIPHOPSOUL](./燃えよ橙ちゃん_情熱のHIPHOPSOUL.md)  
-该封面包含的角色：- [橙](./橙.md)- [八云蓝](./八云蓝.md)- [八云紫](./八云紫.md)- 原创角色 (未找到链接)
+- [燃えよ橙ちゃん 情熱のHIPHOPSOUL](./燃えよ橙ちゃん_情熱のHIPHOPSOUL.md)该封面包含的角色：
+- [橙](./橙.md)
+- [八云蓝](./八云蓝.md)
+- [八云紫](./八云紫.md)
+- 原创角色 (未找到链接)
 
   
-源地址：[[1]](https://www.pixiv.net/artworks/68222790)
-  
-
-
-
-
+源地址：[\[1\]](https://www.pixiv.net/artworks/68222790)  
 
 ---
 

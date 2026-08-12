@@ -1,6 +1,6 @@
 # 文件:BestPartnerGIRLS封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\64\ns6%3ABestPartnerGIRLS%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\64\ns6%3ABestPartnerGIRLS%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 お月見団子 | 同人志封面 | 封面图片
 
@@ -10,16 +10,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [BestPartnerGIRLS](./BestPartnerGIRLS.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [雾雨魔理沙](./雾雨魔理沙.md)
+- [BestPartnerGIRLS](./BestPartnerGIRLS.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-[Pixiv artwork ID: 32397813 (cropped from original)](https://www.pixiv.net/artworks/32397813)
-  
-
-
-
-
+[Pixiv artwork ID: 32397813 (cropped from original)](https://www.pixiv.net/artworks/32397813)  
 
 ---
 

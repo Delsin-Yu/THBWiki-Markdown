@@ -1,12 +1,8 @@
 # 文件:赤音羽banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dd\ns6%3A%E8%B5%A4%E9%9F%B3%E7%BE%BDbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dd\ns6%3A%E8%B5%A4%E9%9F%B3%E7%BE%BDbanner%2Epng.html -->
 
 社团LOGO | 赤音羽
-
-
-
-
 
 
 ---

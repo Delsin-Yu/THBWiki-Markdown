@@ -1,12 +1,8 @@
 # 文件:Deep_Slowbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\86\ns6%3ADeep_Slowbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\86\ns6%3ADeep_Slowbanner%2Ejpg.html -->
 
 Deep_Slow | 社团LOGO
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Hell_Destruction封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\29\ns6%3AHell_Destruction%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\29\ns6%3AHell_Destruction%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 AGENT_0 | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ AGENT_0 | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Hell Destruction](./Hell_Destruction.md)  
-该封面包含的角色：- [灵乌路空](./灵乌路空.md)
+- [Hell Destruction](./Hell_Destruction.md)该封面包含的角色：
+- [灵乌路空](./灵乌路空.md)
 
   
-源地址：[Pixiv artwork ID: 60631761 (image 2/2)](https://www.pixiv.net/artworks/60631761)
-  
-
-
-
-
+源地址：[Pixiv artwork ID: 60631761 (image 2/2)](https://www.pixiv.net/artworks/60631761)  
 
 ---
 

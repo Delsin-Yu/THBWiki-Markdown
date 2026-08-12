@@ -1,6 +1,6 @@
 # 文件:Pride（同人专辑）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fb\ns6%3APride%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fb\ns6%3APride%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Dimension's_Gate | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Dimension's_Gate | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Pride（同人专辑）](./Pride（同人专辑）.md)  
-该封面包含的角色：- [八云紫](./八云紫.md)
+- [Pride（同人专辑）](./Pride（同人专辑）.md)该封面包含的角色：
+- [八云紫](./八云紫.md)
 
   
-源地址：[[1]](http://stat.ameba.jp/user_images/20130529/18/melonubiquitous/f5/f2/j/o0600057812556789502.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://stat.ameba.jp/user_images/20130529/18/melonubiquitous/f5/f2/j/o0600057812556789502.jpg)  
 
 ---
 

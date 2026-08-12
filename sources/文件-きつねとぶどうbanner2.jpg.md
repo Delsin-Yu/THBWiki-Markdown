@@ -1,12 +1,8 @@
 # 文件:きつねとぶどうbanner2.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\19\ns6%3A%E3%81%8D%E3%81%A4%E3%81%AD%E3%81%A8%E3%81%B6%E3%81%A9%E3%81%86banner2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\19\ns6%3A%E3%81%8D%E3%81%A4%E3%81%AD%E3%81%A8%E3%81%B6%E3%81%A9%E3%81%86banner2%2Ejpg.html -->
 
 きつねとぶどう | 社团LOGO
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Song_for_You封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fa\ns6%3ASong_for_You%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fa\ns6%3ASong_for_You%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Human_Error | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ Human_Error | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Song for You](./Song_for_You.md)  
-该封面包含的角色：- [米斯蒂娅·萝蕾拉](./米斯蒂娅·萝蕾拉.md)- 原创角色 (未找到链接)
-
-
-
+- [Song for You](./Song_for_You.md)该封面包含的角色：
+- [米斯蒂娅·萝蕾拉](./米斯蒂娅·萝蕾拉.md)
+- 原创角色 (未找到链接)
 
 
 ---

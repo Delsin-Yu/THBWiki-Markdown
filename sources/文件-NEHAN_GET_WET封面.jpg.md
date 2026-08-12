@@ -1,6 +1,6 @@
 # 文件:NEHAN_GET_WET封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5d\ns6%3ANEHAN_GET_WET%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5d\ns6%3ANEHAN_GET_WET%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 涅槃で待て！
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [NEHAN GET WET](./NEHAN_GET_WET.md)  
-该封面包含的角色：- [八云蓝](./八云蓝.md)
-
-
-
+- [NEHAN GET WET](./NEHAN_GET_WET.md)该封面包含的角色：
+- [八云蓝](./八云蓝.md)
 
 
 ---

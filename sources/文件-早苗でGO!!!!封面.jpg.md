@@ -1,6 +1,6 @@
 # 文件:早苗でGO!!!!封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4f\ns6%3A%E6%97%A9%E8%8B%97%E3%81%A7GO%21%21%21%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4f\ns6%3A%E6%97%A9%E8%8B%97%E3%81%A7GO%21%21%21%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Bococho-farm | LM | 同人志封面 | 封面图片
 
@@ -8,11 +8,10 @@ Bococho-farm | LM | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [早苗でGO!!!!](./早苗でGO!!!!.md)  
-该封面包含的角色：- [东风谷早苗](./东风谷早苗.md)- [八坂神奈子](./八坂神奈子.md)- [洩矢诹访子](./洩矢诹访子.md)
-
-
-
+- [早苗でGO!!!!](./早苗でGO!!!!.md)该封面包含的角色：
+- [东风谷早苗](./东风谷早苗.md)
+- [八坂神奈子](./八坂神奈子.md)
+- [洩矢诹访子](./洩矢诹访子.md)
 
 
 ---

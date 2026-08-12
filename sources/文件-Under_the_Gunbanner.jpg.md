@@ -1,12 +1,8 @@
 # 文件:Under_the_Gunbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\28\ns6%3AUnder_the_Gunbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\28\ns6%3AUnder_the_Gunbanner%2Ejpg.html -->
 
 Under_the_Gun | 社团LOGO
-
-
-
-
 
 
 ---

@@ -1,12 +1,11 @@
 # Alphes风立绘素材
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\9\97\ns0%3AAlphes%E9%A3%8E%E7%AB%8B%E7%BB%98%E7%B4%A0%E6%9D%90.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\9\97\ns0%3AAlphes%E9%A3%8E%E7%AB%8B%E7%BB%98%E7%B4%A0%E6%9D%90.html -->
 
 其他软件
 
 本页是关于东方Project  
- **二次创作同人软件 (未找到链接)** 的词条
-
+**[二次创作同人软件](./二次创作.md#东方Project的二次同人创作)**的词条
 ## 目录
 
 - [1 信息](#信息)
@@ -21,12 +20,9 @@
 - [10 下载地址](#下载地址)
 
 
-
-
-
 ## 信息
-[](./文件-CharacterManaJ.png.md)  [](./文件-CharacterManaJ.png.md)图标
-
+<img alt="" src="https://upload.thwiki.cc/5/54/CharacterManaJ.png" decoding="async" loading="lazy" width="32" height="32" class="thumbimage" data-file-width="32" data-file-height="32">
+ [放大](./文件-CharacterManaJ.png.md)图标
 <table>
   <tbody><tr>
     <th colspan="3" bgcolor="#DDDDDD" scope="col">软件信息</th>
@@ -115,7 +111,6 @@
 </tbody></table>
 
 
-
 ## 关于CharacterNentoka机/CharacterManaJ
   
 CharacterNentoka机/CharacterManaJ是一种可以通过已有素材方便导出不同姿态/服饰/配色等的立绘的程序，其操作方式也非常的简单。程序原来的使用目的是为了简便的制作伪春菜人格的立绘，当然它的泛用性也决定着他也可以利用到其他方面去，前提是你有足够的素材。
@@ -126,7 +121,6 @@ CNM原作使用C++编写，只能运行于Windows平台并且难以汉化，不�
   
 而CMJ则使用了Java编写，可以很轻松的跨平台运行，而且功能性比原作强上不少(例如更强的色彩变化、翻转功能、透明通道处理等)，但是素材导入比较复杂，从而得到了比较强大的素材库管理功能。Java程序的汉化也比较方便(当然作者也很贴心的给出了本地化功能，可以轻松地自行进行本地化操作)。
   
-
 
 ## 关于Alphes风素材包
   
@@ -142,12 +136,10 @@ Alphes风，即黄昏边境风，由[黄昏边境](./黄昏边境.md)的主画�
 另：黄昏边境与ZUN合作的官方游戏《[东方深秘录](./东方深秘录.md)》《[东方凭依华](./东方凭依华.md)》的主画师为官方出版物[东方铃奈庵](./东方铃奈庵.md)的画师[春河萌](./春河萌.md)，《[东方刚欲异闻](./东方刚欲异闻.md)》的主画师为[东方儚月抄（小说）](./东方儚月抄_～_Cage_in_Lunatic_Runagate..md)的画师兼[求闻史纪](./东方求闻史纪.md)、[求闻口授](./东方求闻口授.md)部分插画的作者[TOKIAME](./TOKIAME.md)，因此称alphes风为“黄昏风”并不一定准确。
   
 
-
 ## 东方黄昏录
   
- **东方黄昏录 ~ Character Resourse** 是中国使用者的习惯叫法，来源不明。
+**东方黄昏录 ~ Character Resourse**是中国使用者的习惯叫法，来源不明。
   
-
 
 ## 如何使用CMJ
   
@@ -159,17 +151,15 @@ Alphes风，即黄昏边境风，由[黄昏边境](./黄昏边境.md)的主画�
   
 如果你是自行安装的CMJ，则会出现以下界面
   
-
-[](./文件-CMJTech1.png.md)  [](./文件-CMJTech1.png.md)
-  
+<img alt="CMJTech1.png" src="https://upload.thwiki.cc/thumb/5/52/CMJTech1.png/300px-CMJTech1.png" decoding="async" loading="lazy" width="300" height="79" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/5/52/CMJTech1.png/450px-CMJTech1.png 1.5x, https://upload.thwiki.cc/5/52/CMJTech1.png 2x" data-file-width="569" data-file-height="150">
+ [放大](./文件-CMJTech1.png.md)  
 这时候在工作路径中输入素材包的根目录地址即可点击确认，如果以后不更改工作目录可以将下面的不再询问打勾
   
   
 如果你使用了我整理的素材包，那么你就会进入以下界面(如果自行下载安装的请参考下面的如何让导入素材分段)
   
-
-[](./文件-CMJTech2.png.md)  [](./文件-CMJTech2.png.md)
-  
+<img alt="CMJTech2.png" src="https://upload.thwiki.cc/thumb/2/27/CMJTech2.png/300px-CMJTech2.png" decoding="async" loading="lazy" width="300" height="163" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/2/27/CMJTech2.png/450px-CMJTech2.png 1.5x, https://upload.thwiki.cc/thumb/2/27/CMJTech2.png/600px-CMJTech2.png 2x" data-file-width="1366" data-file-height="744">
+ [放大](./文件-CMJTech2.png.md)  
 这里的界面我来说明一下：
   
   
@@ -185,29 +175,26 @@ Alphes风，即黄昏边境风，由[黄昏边境](./黄昏边境.md)的主画�
 ·右上方的按钮从左至右依次为水平翻转、复制图像到剪贴板、保卫图像、更改背景、增加到预设、显示当前信息
   
 
-
 ## 如何导入素材
   
 如果你并没有使用我整理的素材包，或者像新添加素材包，那么你需要导入功能。请注意：被导入的压缩包或者文件夹内部目录构造必须是CMM的标准格式，否则将无法正常自动导入！
   
   
-点击文件-&gt;导入，这里可以选择导入到当前配置或者新建一个配置，进入以下界面
+点击文件->导入，这里可以选择导入到当前配置或者新建一个配置，进入以下界面
   
-
-[](./文件-CMJTech3.png.md)  [](./文件-CMJTech3.png.md)
-  
+<img alt="CMJTech3.png" src="https://upload.thwiki.cc/thumb/4/43/CMJTech3.png/300px-CMJTech3.png" decoding="async" loading="lazy" width="300" height="330" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/4/43/CMJTech3.png/450px-CMJTech3.png 1.5x, https://upload.thwiki.cc/4/43/CMJTech3.png 2x" data-file-width="500" data-file-height="550">
+ [放大](./文件-CMJTech3.png.md)  
 可以选择导入压缩文件或者导入目录，选好后点击下一步，软件会自动检索素材并分类
   
-
-[](./文件-CMJTech4.png.md)  [](./文件-CMJTech4.png.md)
-  
+<img alt="CMJTech4.png" src="https://upload.thwiki.cc/thumb/8/89/CMJTech4.png/300px-CMJTech4.png" decoding="async" loading="lazy" width="300" height="330" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/8/89/CMJTech4.png/450px-CMJTech4.png 1.5x, https://upload.thwiki.cc/8/89/CMJTech4.png 2x" data-file-width="500" data-file-height="550">
+ [放大](./文件-CMJTech4.png.md)  
 在这个页面可以填写配置名称(将会用来命名配置的文件夹)、作者以及描述信息。
   
   
 然后依次选择要导入的部件和要导入的预设，点击完成即可导入配置。
   
   
-导入配置之后点击文件-&gt;编辑当前配置可以对配置进行编辑，例如更改ID、更该版本等信息。
+导入配置之后点击文件->编辑当前配置可以对配置进行编辑，例如更改ID、更该版本等信息。
   
   
 导出流程类似于导入，可以导出标准的CMJ格式的压缩包。
@@ -216,9 +203,8 @@ Alphes风，即黄昏边境风，由[黄昏边境](./黄昏边境.md)的主画�
 管理部件可以管理部件的作者、版本等信息
   
   
-在编辑-&gt;设置为例图，可以将当前的形象设置为配置的封面图。
+在编辑->设置为例图，可以将当前的形象设置为配置的封面图。
   
-
 
 ## 其他功能
   
@@ -231,21 +217,20 @@ Alphes风，即黄昏边境风，由[黄昏边境](./黄昏边境.md)的主画�
 ·预设功能
   
   
-　　CMJ可以将当前形象保存为预设，可以快速的加载。点击预设-&gt;添加到预设，命名后即可将当前形象保存为预设。点击预设下面保存好的形象可以快速夹在形象。
+　　CMJ可以将当前形象保存为预设，可以快速的加载。点击预设->添加到预设，命名后即可将当前形象保存为预设。点击预设下面保存好的形象可以快速夹在形象。
   
   
 ·背景图
   
   
-　　点击编辑-&gt;背景设置可以为形象设置背景，可以是背景色、壁纸、或者网格。壁纸目前貌似只能平铺，无法拉伸。
+　　点击编辑->背景设置可以为形象设置背景，可以是背景色、壁纸、或者网格。壁纸目前貌似只能平铺，无法拉伸。
   
   
 ·随机功能
   
   
-　　点击工具-&gt;随机生成可以打开随机生成菜单，设定好条件后可以随机生成形象
+　　点击工具->随机生成可以打开随机生成菜单，设定好条件后可以随机生成形象
   
-
 
 ## 关于整理与汉化
   
@@ -258,9 +243,8 @@ kaoru原始发布的素材包是按照时间更新的一个个的压缩包，且
 对于CharacterManaJ，由于对其中几项设置把握不准确，因此并没有完整汉化，不过大部分都汉化完毕了(感谢程序作者提供了方便的汉化方式)，以后或许会继续更新。另外，由于汉化者日语水平不足，CMJ的注意事项和许可也没有汉化，如果有热心人或者有什么建议可以联系，汉化者联系方式在软件内有提供。如果对程序有疑问，也可以像CMM一样操作，不过有可能丢失配置信息，需要自己重新导入。
   
   
-关于另一个附带的软件MMDZip则是天朝有名的解压转码软件，由天知道制作，首发地址在[这里](http://www.moe5.net/forum.php?mod=viewthread&amp;tid=3065)。
+关于另一个附带的软件MMDZip则是天朝有名的解压转码软件，由天知道制作，首发地址在[这里](http://www.moe5.net/forum.php?mod=viewthread&tid=3065)。
   
-
 
 ## 资源列表
   
@@ -268,7 +252,6 @@ kaoru原始发布的素材包是按照时间更新的一个个的压缩包，且
 
 （非原整理者更新时间：2021/7/6）
   
-
 
 <table>
 
@@ -560,10 +543,10 @@ kaoru原始发布的素材包是按照时间更新的一个个的压缩包，且
 　　├──E06幻想人形演舞<br>
 　　├──F東方無關<br>
 　　└─┬Z工具<br>
-　　　　├CharacterManaJ-&gt;<br>
+　　　　├CharacterManaJ-><br>
 　　　　├MMDZip<br>
-　　　　└キャラクターなんとか機-&gt;<br>
-　　　　　　-&gt;┐<br>
+　　　　└キャラクターなんとか機-><br>
+　　　　　　->┐<br>
 　　　　　　　├(Ex)アリスVer<br>
 　　　　　　　├(Ex)さとりVer<br>
 　　　　　　　├(EX)ぬえVer<br>
@@ -738,7 +721,7 @@ kaoru原始发布的素材包是按照时间更新的一个个的压缩包，且
 　多多良小伞<br>
 　多多良小伞2<br>
 　寅丸星<br>
-　云居一轮&amp;云山<br>
+　云居一轮&云山<br>
 　云山<br>
 首次在东方非想天则(Th12.3)出现的人物(或者有特殊设定/新版设定的人物)<br>
 　大鲶鱼<br>
@@ -865,10 +848,10 @@ niconico童祭用形象(下略)<br>
 幻想人形演舞形象(下略)<br>
 其他东方无关的素材(下略)<br>
 实用工具<br>
-　Java版CM　-&gt;素材列表见下<br>
+　Java版CM　->素材列表见下<br>
 　解压转码工具<br>
-　原版CM　-&gt;素材列表见下<br>
--&gt;┐<br>
+　原版CM　->素材列表见下<br>
+->┐<br>
 　├爱丽丝·玛格特洛依德<br>
 　├古明地觉<br>
 　├封兽鵺<br>
@@ -889,7 +872,6 @@ niconico童祭用形象(下略)<br>
 </td></tr></tbody></table>
 
 
-
 ## 下载地址
   
 原版下载地址见头部信息栏
@@ -897,7 +879,6 @@ niconico童祭用形象(下略)<br>
   
 整理版下载地址(站外地址)
   
-
 
 <table>
 
@@ -914,19 +895,16 @@ niconico童祭用形象(下略)<br>
 </p>
 </td></tr></tbody></table>
 
-
   
   
 
 版本区别：Lite版不带有制作完成的png文件，需要自己用photoshop制作保存，因此减少了一半的体积  
-
   
   
   
 
 新版（非本人）补档 请下载《ThCRP.7z》提取码：th99
   
-
 
 <table>
 
@@ -940,10 +918,6 @@ niconico童祭用形象(下略)<br>
   
   
 注：无Lite版、更新了鬼形兽与虹龙洞  
-
-
-
-
 
 ---
 

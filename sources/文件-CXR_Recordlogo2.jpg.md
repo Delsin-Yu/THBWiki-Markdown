@@ -1,18 +1,13 @@
 # 文件:CXR_Recordlogo2.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\89\ns6%3ACXR_Recordlogo2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\89\ns6%3ACXR_Recordlogo2%2Ejpg.html -->
 
 CXR_Record | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[direct image link (max size)](https://pbs.twimg.com/profile_images/1476563304776859648/lT6jw1cd.jpg), [source: Twitter avatar](https://twitter.com/CXR_Record/photo)
-  
-
-
-
-
+源地址：[direct image link (max size)](https://pbs.twimg.com/profile_images/1476563304776859648/lT6jw1cd.jpg), [source: Twitter avatar](https://twitter.com/CXR_Record/photo)  
 
 ---
 

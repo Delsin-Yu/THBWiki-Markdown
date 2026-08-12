@@ -1,14 +1,11 @@
 # 文件:リュージのサークルbanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e7\ns6%3A%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B8%E3%81%AE%E3%82%B5%E3%83%BC%E3%82%AF%E3%83%ABbanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e7\ns6%3A%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B8%E3%81%AE%E3%82%B5%E3%83%BC%E3%82%AF%E3%83%ABbanner%2Egif.html -->
 
 リュージのサークル | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:Caprice＋封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b0\ns6%3ACaprice%EF%BC%8B%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b0\ns6%3ACaprice%EF%BC%8B%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 2nd_Flush | 专辑封面 | 封面图片 | 音乃葉
 
@@ -13,12 +13,7 @@
 - [Caprice＋](./Caprice＋.md)
 
   
-源地址：[suruga-ya](https://www.suruga-ya.jp/product/detail/186138133)
-  
-
-
-
-
+源地址：[suruga-ya](https://www.suruga-ya.jp/product/detail/186138133)  
 
 ---
 

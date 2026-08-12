@@ -1,6 +1,6 @@
 # 文件:Landschaft_in_Gensokyo封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\00\ns6%3ALandschaft_in_Gensokyo%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\00\ns6%3ALandschaft_in_Gensokyo%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ぷちの写真屋 | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Landschaft in Gensokyo](./Landschaft_in_Gensokyo.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
+- [Landschaft in Gensokyo](./Landschaft_in_Gensokyo.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
   
-源地址：[direct image link (original uploaded image)](https://pbs.twimg.com/media/FBa1LVZVcAMzDuQ?format=jpg&amp;name=orig), [source tweet](https://twitter.com/lithaduki/status/1447545321827958788)
-  
-
-
-
-
+源地址：[direct image link (original uploaded image)](https://pbs.twimg.com/media/FBa1LVZVcAMzDuQ?format=jpg&name=orig), [source tweet](https://twitter.com/lithaduki/status/1447545321827958788)  
 
 ---
 

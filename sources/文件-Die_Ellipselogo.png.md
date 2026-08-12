@@ -1,16 +1,11 @@
 # 文件:Die_Ellipselogo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0b\ns6%3ADie_Ellipselogo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0b\ns6%3ADie_Ellipselogo%2Epng.html -->
 
 Die_Ellipse | 社团LOGO
 
   
-源地址：[[1]](http://www.dieellipse.com/image/logo.png)
-  
-
-
-
-
+源地址：[\[1\]](http://www.dieellipse.com/image/logo.png)  
 
 ---
 

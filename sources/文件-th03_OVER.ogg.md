@@ -1,6 +1,6 @@
 # 文件:th03_OVER.ogg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2c\ns6%3Ath03_OVER%2Eogg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2c\ns6%3Ath03_OVER%2Eogg.html -->
 
 Game_Over | 东方梦时空
 
@@ -9,10 +9,6 @@ Game_Over | 东方梦时空
 
 原游戏FM版，由PMDPlay导出。
   
-
-
-
-
 
 ---
 

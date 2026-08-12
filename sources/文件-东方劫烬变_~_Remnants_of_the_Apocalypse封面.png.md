@@ -1,6 +1,6 @@
 # 文件:东方劫烬变_~_Remnants_of_the_Apocalypse封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\da\ns6%3A%E4%B8%9C%E6%96%B9%E5%8A%AB%E7%83%AC%E5%8F%98_%7E_Remnants_of_the_Apocalypse%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\da\ns6%3A%E4%B8%9C%E6%96%B9%E5%8A%AB%E7%83%AC%E5%8F%98_%7E_Remnants_of_the_Apocalypse%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 NC | 封面图片 | 软件封面
 
@@ -9,9 +9,6 @@ NC | 封面图片 | 软件封面
   
 
 - [东方劫烬变 ~ Remnants of the Apocalypse](./东方劫烬变_~_Remnants_of_the_Apocalypse.md)
-
-
-
 
 
 ---

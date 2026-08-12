@@ -1,12 +1,8 @@
 # 文件:东方Project角色表情贴图第2弹1.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\75\ns6%3A%E4%B8%9C%E6%96%B9Project%E8%A7%92%E8%89%B2%E8%A1%A8%E6%83%85%E8%B4%B4%E5%9B%BE%E7%AC%AC2%E5%BC%B91%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\75\ns6%3A%E4%B8%9C%E6%96%B9Project%E8%A7%92%E8%89%B2%E8%A1%A8%E6%83%85%E8%B4%B4%E5%9B%BE%E7%AC%AC2%E5%BC%B91%2Epng.html -->
 
 东方Project角色表情贴图
-
-
-
-
 
 
 ---

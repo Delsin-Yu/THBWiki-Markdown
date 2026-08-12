@@ -1,6 +1,6 @@
 # 文件:デモCD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\31\ns6%3A%E3%83%87%E3%83%A2CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\31\ns6%3A%E3%83%87%E3%83%A2CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Miniature_Dachs | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Miniature_Dachs | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [デモCD](./デモCD.md)  
-该封面包含的角色：- [灵乌路空](./灵乌路空.md)
-
-
-
+- [デモCD](./デモCD.md)该封面包含的角色：
+- [灵乌路空](./灵乌路空.md)
 
 
 ---

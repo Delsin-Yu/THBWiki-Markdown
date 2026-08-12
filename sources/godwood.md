@@ -1,21 +1,16 @@
 # godwood
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\f3\ns0%3Agodwood.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\f3\ns0%3Agodwood.html -->
 
 现实人物
 
 本页是关于东方Project  
- **二次同人创作者** 的词条
-
+**二次同人创作者**的词条
 ## 基本信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="label"><b>名称</b></td><td> godwood </td></tr><tr><td class="label"><b>所属社团</b></td><td><b>当前</b><div style="margin-left:2em;"><a href="./Pizuya's_Cell.md" title="Pizuya&#39;s Cell">Pizuya's Cell</a></div></td></tr><tr><td class="label"><b>职位</b></td><td>Piano，Strings，演奏</td></tr><tr><td class="label"><b>参与社团</b></td><td><a href="./Pizuya's_Cell.md" title="Pizuya&#39;s Cell">Pizuya's Cell</a> （演奏）</td></tr><tr><td class="label"><b>性别</b></td><td>男</td></tr><tr><td class="label"><b>个人页面</b></td><td><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><b>Twitter</b></td><td><a rel="nofollow" class="external free" href="https://twitter.com/godwood_pf">https://twitter.com/godwood_pf</a></td></tr></tbody></table></td></tr></tbody></table>
 
 godwood（人物） - 现实人物
-
-
-
-
 ---
 
 此文档由 [THBWiki-Markdown-Builder](https://github.com/Delsin-Yu/THBWiki-Markdown-Builder) 构建。

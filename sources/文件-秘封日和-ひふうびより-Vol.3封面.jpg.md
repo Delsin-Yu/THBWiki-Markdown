@@ -1,6 +1,6 @@
 # 文件:秘封日和-ひふうびより-Vol.3封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2c\ns6%3A%E7%A7%98%E5%B0%81%E6%97%A5%E5%92%8C-%E3%81%B2%E3%81%B5%E3%81%86%E3%81%B3%E3%82%88%E3%82%8A-Vol%2E3%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2c\ns6%3A%E7%A7%98%E5%B0%81%E6%97%A5%E5%92%8C-%E3%81%B2%E3%81%B5%E3%81%86%E3%81%B3%E3%82%88%E3%82%8A-Vol%2E3%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 さーくるばんばんしー | 专辑封面 | 封面图片
 
@@ -8,16 +8,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [秘封日和-ひふうびより-Vol.3](./秘封日和-ひふうびより-Vol.3.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
+- [秘封日和-ひふうびより-Vol.3](./秘封日和-ひふうびより-Vol.3.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
   
-源地址：[[1]](http://blog-imgs-59-origin.fc2.com/b/a/n/banbanshi/201310061941387b7.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://blog-imgs-59-origin.fc2.com/b/a/n/banbanshi/201310061941387b7.jpg)  
 
 ---
 

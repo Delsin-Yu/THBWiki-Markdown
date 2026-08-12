@@ -1,12 +1,8 @@
 # 文件:くらっしゅハウスbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\61\ns6%3A%E3%81%8F%E3%82%89%E3%81%A3%E3%81%97%E3%82%85%E3%83%8F%E3%82%A6%E3%82%B9banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\61\ns6%3A%E3%81%8F%E3%82%89%E3%81%A3%E3%81%97%E3%82%85%E3%83%8F%E3%82%A6%E3%82%B9banner%2Ejpg.html -->
 
 くらっしゅハウス | 社团LOGO
-
-
-
-
 
 
 ---

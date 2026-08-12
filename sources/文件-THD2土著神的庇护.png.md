@@ -1,12 +1,8 @@
 # 文件:THD2土著神的庇护.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ae\ns6%3ATHD2%E5%9C%9F%E8%91%97%E7%A5%9E%E7%9A%84%E5%BA%87%E6%8A%A4%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ae\ns6%3ATHD2%E5%9C%9F%E8%91%97%E7%A5%9E%E7%9A%84%E5%BA%87%E6%8A%A4%2Epng.html -->
 
 东方DOTS玩家社群
-
-
-
-
 
 
 ---

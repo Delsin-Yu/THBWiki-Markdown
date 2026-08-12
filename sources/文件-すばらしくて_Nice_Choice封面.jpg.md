@@ -1,6 +1,6 @@
 # 文件:すばらしくて_Nice_Choice封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\33\ns6%3A%E3%81%99%E3%81%B0%E3%82%89%E3%81%97%E3%81%8F%E3%81%A6_Nice_Choice%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\33\ns6%3A%E3%81%99%E3%81%B0%E3%82%89%E3%81%97%E3%81%8F%E3%81%A6_Nice_Choice%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 フレキシ | 同人志封面 | 封面图片
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [すばらしくて Nice Choice](./すばらしくて_Nice_Choice.md)  
-该封面包含的角色：- [九十九弁弁](./九十九弁弁.md)- [九十九八桥](./九十九八桥.md)
-
-
-
+- [すばらしくて Nice Choice](./すばらしくて_Nice_Choice.md)该封面包含的角色：
+- [九十九弁弁](./九十九弁弁.md)
+- [九十九八桥](./九十九八桥.md)
 
 
 ---

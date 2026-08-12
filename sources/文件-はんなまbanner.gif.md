@@ -1,14 +1,11 @@
 # 文件:はんなまbanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e3\ns6%3A%E3%81%AF%E3%82%93%E3%81%AA%E3%81%BEbanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e3\ns6%3A%E3%81%AF%E3%82%93%E3%81%AA%E3%81%BEbanner%2Egif.html -->
 
 はんなま | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

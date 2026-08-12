@@ -1,6 +1,6 @@
 # 文件:THE_SELECTED_WORKS_OF_TAMAONSEN_3封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1a\ns6%3ATHE_SELECTED_WORKS_OF_TAMAONSEN_3%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1a\ns6%3ATHE_SELECTED_WORKS_OF_TAMAONSEN_3%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 魂音泉
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [THE SELECTED WORKS OF TAMAONSEN 3](./THE_SELECTED_WORKS_OF_TAMAONSEN_3.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [THE SELECTED WORKS OF TAMAONSEN 3](./THE_SELECTED_WORKS_OF_TAMAONSEN_3.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

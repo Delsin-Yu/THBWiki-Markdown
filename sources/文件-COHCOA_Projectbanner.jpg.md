@@ -1,14 +1,11 @@
 # 文件:COHCOA_Projectbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6a\ns6%3ACOHCOA_Projectbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6a\ns6%3ACOHCOA_Projectbanner%2Ejpg.html -->
 
 COHCOA_Project | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

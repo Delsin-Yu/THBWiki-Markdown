@@ -1,6 +1,6 @@
 # 文件:椛～Fall_of_Fall～封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f6\ns6%3A%E6%A4%9B%EF%BD%9EFall_of_Fall%EF%BD%9E%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f6\ns6%3A%E6%A4%9B%EF%BD%9EFall_of_Fall%EF%BD%9E%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 The_Last_Battalion | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ The_Last_Battalion | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [椛～Fall of Fall～](./椛～Fall_of_Fall～.md)  
-该封面包含的角色：- [犬走椛](./犬走椛.md)
-
-
-
+- [椛～Fall of Fall～](./椛～Fall_of_Fall～.md)该封面包含的角色：
+- [犬走椛](./犬走椛.md)
 
 
 ---

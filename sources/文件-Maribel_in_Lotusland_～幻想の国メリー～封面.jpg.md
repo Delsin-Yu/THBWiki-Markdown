@@ -1,6 +1,6 @@
 # 文件:Maribel_in_Lotusland_～幻想の国メリー～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b2\ns6%3AMaribel_in_Lotusland_%EF%BD%9E%E5%B9%BB%E6%83%B3%E3%81%AE%E5%9B%BD%E3%83%A1%E3%83%AA%E3%83%BC%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b2\ns6%3AMaribel_in_Lotusland_%EF%BD%9E%E5%B9%BB%E6%83%B3%E3%81%AE%E5%9B%BD%E3%83%A1%E3%83%AA%E3%83%BC%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ゆめかばん | 同人志封面 | 封面图片
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [Maribel in Lotusland ～幻想の国メリー～](./Maribel_in_Lotusland_～幻想の国メリー～.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [Maribel in Lotusland ～幻想の国メリー～](./Maribel_in_Lotusland_～幻想の国メリー～.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

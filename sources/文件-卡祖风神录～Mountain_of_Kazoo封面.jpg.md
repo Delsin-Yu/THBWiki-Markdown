@@ -1,6 +1,6 @@
 # 文件:卡祖风神录～Mountain_of_Kazoo封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\40\ns6%3A%E5%8D%A1%E7%A5%96%E9%A3%8E%E7%A5%9E%E5%BD%95%EF%BD%9EMountain_of_Kazoo%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\40\ns6%3A%E5%8D%A1%E7%A5%96%E9%A3%8E%E7%A5%9E%E5%BD%95%EF%BD%9EMountain_of_Kazoo%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 萌萌哒的韭菜盒子
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [卡祖风神录～Mountain of Kazoo](./卡祖风神录～Mountain_of_Kazoo.md)  
-该封面包含的角色：- [八坂神奈子](./八坂神奈子.md)
-
-
-
+- [卡祖风神录～Mountain of Kazoo](./卡祖风神录～Mountain_of_Kazoo.md)该封面包含的角色：
+- [八坂神奈子](./八坂神奈子.md)
 
 
 ---

@@ -1,18 +1,16 @@
 # chin
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\7\72\ns0%3Achin.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\7\72\ns0%3Achin.html -->
 
 现实人物
 
 本页是关于东方Project  
- **二次同人创作者** 的词条
-
+**二次同人创作者**的词条
 ## 基本信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="label"><b>名称</b></td><td> chin </td></tr><tr><td class="label"><b>所属社团</b></td><td><b>当前</b><div style="margin-left:2em;"><a href="./ちんちん亭.md" title="ちんちん亭">ちんちん亭</a></div></td></tr><tr><td class="label"><b>职位</b></td><td>漫画家</td></tr><tr><td class="label"><b>个人页面</b></td><td><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><b>Official</b></td><td><a rel="nofollow" class="external free" href="http://motio7201.syuriken.jp/index.html">http://motio7201.syuriken.jp/index.html</a></td></tr><tr><td><b>Twitter</b></td><td><a rel="nofollow" class="external free" href="https://twitter.com/chin7201">https://twitter.com/chin7201</a></td></tr><tr><td><b>Pixiv</b></td><td><a rel="nofollow" class="external free" href="https://www.pixiv.net/member.php?id=100069">https://www.pixiv.net/member.php?id=100069</a></td></tr></tbody></table></td></tr></tbody></table>
 
 chin（人物） - 现实人物
-
 ## 介绍
 
 ## 参与作品
@@ -20,10 +18,6 @@ chin（人物） - 现实人物
 ## 人际关系
 人名
 : 关系
-
-
-
-
 
 ---
 

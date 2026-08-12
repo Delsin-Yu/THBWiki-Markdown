@@ -1,6 +1,6 @@
 # 文件:Triple_Axel封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1a\ns6%3ATriple_Axel%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1a\ns6%3ATriple_Axel%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 楽団ロマンティシズム
 
@@ -8,11 +8,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [Triple Axel](./Triple_Axel.md)  
-该封面包含的角色：- [上白泽慧音](./上白泽慧音.md)- [星熊勇仪](./星熊勇仪.md)- [云居一轮](./云居一轮.md)- [宫古芳香](./宫古芳香.md)- [爱丽丝（旧作角色）](./爱丽丝（旧作角色）.md)
-
-
-
+- [Triple Axel](./Triple_Axel.md)该封面包含的角色：
+- [上白泽慧音](./上白泽慧音.md)
+- [星熊勇仪](./星熊勇仪.md)
+- [云居一轮](./云居一轮.md)
+- [宫古芳香](./宫古芳香.md)
+- [爱丽丝（旧作角色）](./爱丽丝（旧作角色）.md)
 
 
 ---

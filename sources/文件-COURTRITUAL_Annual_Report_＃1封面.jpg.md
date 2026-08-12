@@ -1,6 +1,6 @@
 # 文件:COURTRITUAL_Annual_Report_＃1封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dd\ns6%3ACOURTRITUAL_Annual_Report_%EF%BC%831%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dd\ns6%3ACOURTRITUAL_Annual_Report_%EF%BC%831%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Traumerei_Fabrik | 专辑封面 | 封面图片
 
@@ -10,11 +10,9 @@ Traumerei_Fabrik | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [COURTRITUAL Annual Report ＃1](./COURTRITUAL_Annual_Report_＃1.md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
-
-
-
+- [COURTRITUAL Annual Report ＃1](./COURTRITUAL_Annual_Report_＃1.md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
 
 
 ---

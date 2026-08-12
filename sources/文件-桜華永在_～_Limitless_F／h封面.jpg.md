@@ -1,6 +1,6 @@
 # 文件:桜華永在_～_Limitless_F／h封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\88\ns6%3A%E6%A1%9C%E8%8F%AF%E6%B0%B8%E5%9C%A8_%EF%BD%9E_Limitless_F%EF%BC%8Fh%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\88\ns6%3A%E6%A1%9C%E8%8F%AF%E6%B0%B8%E5%9C%A8_%EF%BD%9E_Limitless_F%EF%BC%8Fh%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 NoCturne | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ NoCturne | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [桜華永在 ～ Limitless F／h](./桜華永在_～_Limitless_F／h.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)
-
-
-
+- [桜華永在 ～ Limitless F／h](./桜華永在_～_Limitless_F／h.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
 
 
 ---

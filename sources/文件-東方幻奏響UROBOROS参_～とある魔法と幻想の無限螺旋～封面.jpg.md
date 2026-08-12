@@ -1,6 +1,6 @@
 # 文件:東方幻奏響UROBOROS参_～とある魔法と幻想の無限螺旋～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a3\ns6%3A%E6%9D%B1%E6%96%B9%E5%B9%BB%E5%A5%8F%E9%9F%BFUROBOROS%E5%8F%82_%EF%BD%9E%E3%81%A8%E3%81%82%E3%82%8B%E9%AD%94%E6%B3%95%E3%81%A8%E5%B9%BB%E6%83%B3%E3%81%AE%E7%84%A1%E9%99%90%E8%9E%BA%E6%97%8B%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a3\ns6%3A%E6%9D%B1%E6%96%B9%E5%B9%BB%E5%A5%8F%E9%9F%BFUROBOROS%E5%8F%82_%EF%BD%9E%E3%81%A8%E3%81%82%E3%82%8B%E9%AD%94%E6%B3%95%E3%81%A8%E5%B9%BB%E6%83%B3%E3%81%AE%E7%84%A1%E9%99%90%E8%9E%BA%E6%97%8B%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 虎之穴
 
@@ -8,11 +8,13 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方幻奏響UROBOROS参 ～とある魔法と幻想の無限螺旋～](./東方幻奏響UROBOROS参_～とある魔法と幻想の無限螺旋～.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [小恶魔](./小恶魔.md)- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)- [东风谷早苗](./东风谷早苗.md)- [八坂神奈子](./八坂神奈子.md)- [洩矢诹访子](./洩矢诹访子.md)
-
-
-
+- [東方幻奏響UROBOROS参 ～とある魔法と幻想の無限螺旋～](./東方幻奏響UROBOROS参_～とある魔法と幻想の無限螺旋～.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [小恶魔](./小恶魔.md)
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
+- [东风谷早苗](./东风谷早苗.md)
+- [八坂神奈子](./八坂神奈子.md)
+- [洩矢诹访子](./洩矢诹访子.md)
 
 
 ---

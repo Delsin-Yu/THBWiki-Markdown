@@ -1,6 +1,6 @@
 # 文件:Preview_＃001封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\57\ns6%3APreview_%EF%BC%83001%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\57\ns6%3APreview_%EF%BC%83001%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 XL_Project | 专辑封面 | 封面图片
 
@@ -10,9 +10,6 @@ Preview ＃001
   
 
 - [Preview ＃001](./Preview_＃001.md)
-
-
-
 
 
 ---

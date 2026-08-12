@@ -1,12 +1,8 @@
 # 文件:THBWiki-LOGO-博丽神社.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cb\ns6%3ATHBWiki-LOGO-%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cb\ns6%3ATHBWiki-LOGO-%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%2Epng.html -->
 
 THBWiki | Wiki词条分类用图
-
-
-
-
 
 
 ---

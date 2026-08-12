@@ -1,14 +1,11 @@
 # 文件:灯笼坂爱美（EX）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\32\ns6%3A%E7%81%AF%E7%AC%BC%E5%9D%82%E7%88%B1%E7%BE%8E%EF%BC%88EX%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\32\ns6%3A%E7%81%AF%E7%AC%BC%E5%9D%82%E7%88%B1%E7%BE%8E%EF%BC%88EX%EF%BC%89%2Epng.html -->
 
 Analogue_Reverie | 二次角色立绘 | 灯笼坂爱美
 
 
 ## 文件说明
-
-
-
 
 ---
 

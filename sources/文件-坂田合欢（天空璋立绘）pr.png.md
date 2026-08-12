@@ -1,12 +1,8 @@
 # 文件:坂田合欢（天空璋立绘）pr.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1f\ns6%3A%E5%9D%82%E7%94%B0%E5%90%88%E6%AC%A2%EF%BC%88%E5%A4%A9%E7%A9%BA%E7%92%8B%E7%AB%8B%E7%BB%98%EF%BC%89pr%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1f\ns6%3A%E5%9D%82%E7%94%B0%E5%90%88%E6%AC%A2%EF%BC%88%E5%A4%A9%E7%A9%BA%E7%92%8B%E7%AB%8B%E7%BB%98%EF%BC%89pr%2Epng.html -->
 
 ZUN绘 | 东方天空璋 | 坂田合欢 | 官方游戏立绘
-
-
-
-
 
 
 ---

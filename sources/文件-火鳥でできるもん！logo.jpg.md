@@ -1,14 +1,11 @@
 # 文件:火鳥でできるもん！logo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\46\ns6%3A%E7%81%AB%E9%B3%A5%E3%81%A7%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%82%E3%82%93%EF%BC%81logo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\46\ns6%3A%E7%81%AB%E9%B3%A5%E3%81%A7%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%82%E3%82%93%EF%BC%81logo%2Ejpg.html -->
 
 火鳥でできるもん！ | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

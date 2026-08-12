@@ -1,6 +1,6 @@
 # 文件:DANMAKUHEROINESα封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5f\ns6%3ADANMAKUHEROINES%CE%B1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5f\ns6%3ADANMAKUHEROINES%CE%B1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ECLIPSE-Create | 同人志封面 | 封面图片 | 粗茶る
 
@@ -8,11 +8,8 @@ ECLIPSE-Create | 同人志封面 | 封面图片 | 粗茶る
 使用了本文件作封面图片的作品：
   
 
-- [DANMAKUHEROINESα](./DANMAKUHEROINESα.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [DANMAKUHEROINESα](./DANMAKUHEROINESα.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

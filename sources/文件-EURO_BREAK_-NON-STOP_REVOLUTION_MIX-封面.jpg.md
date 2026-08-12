@@ -1,6 +1,6 @@
 # 文件:EURO_BREAK_-NON-STOP_REVOLUTION_MIX-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\24\ns6%3AEURO_BREAK_-NON-STOP_REVOLUTION_MIX-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\24\ns6%3AEURO_BREAK_-NON-STOP_REVOLUTION_MIX-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 dot_shock. | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ dot_shock. | 专辑封面 | 封面图片
   
 
 - [EURO BREAK -NON-STOP REVOLUTION MIX-](./EURO_BREAK_-NON-STOP_REVOLUTION_MIX-.md)
-
-
-
 
 
 ---

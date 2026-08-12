@@ -1,12 +1,8 @@
 # 文件:结界「幻想Boundary_Crack」3（深秘录）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\22\ns6%3A%E7%BB%93%E7%95%8C%E3%80%8C%E5%B9%BB%E6%83%B3Boundary_Crack%E3%80%8D3%EF%BC%88%E6%B7%B1%E7%A7%98%E5%BD%95%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\22\ns6%3A%E7%BB%93%E7%95%8C%E3%80%8C%E5%B9%BB%E6%83%B3Boundary_Crack%E3%80%8D3%EF%BC%88%E6%B7%B1%E7%A7%98%E5%BD%95%EF%BC%89%2Epng.html -->
 
 东方深秘录 | 博丽灵梦 | 敌机符卡
-
-
-
-
 
 
 ---

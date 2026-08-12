@@ -1,6 +1,6 @@
 # 文件:TxRixPx_ｰ秘ｰ封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\64\ns6%3ATxRixPx_%EF%BD%B0%E7%A7%98%EF%BD%B0%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\64\ns6%3ATxRixPx_%EF%BD%B0%E7%A7%98%EF%BD%B0%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Parallel_Station | 同人志封面 | 封面图片
 
@@ -13,12 +13,7 @@ Parallel_Station | 同人志封面 | 封面图片
 - [TxRixPx ｰ秘ｰ](./TxRixPx_ｰ秘ｰ.md)
 
   
-源地址：[direct image link (original uploaded image)](https://pbs.twimg.com/media/D1NlOLDU4AECqtH?format=png&amp;name=orig), [source tweet](https://twitter.com/tennnoumi/status/1104337650398388225)
-  
-
-
-
-
+源地址：[direct image link (original uploaded image)](https://pbs.twimg.com/media/D1NlOLDU4AECqtH?format=png&name=orig), [source tweet](https://twitter.com/tennnoumi/status/1104337650398388225)  
 
 ---
 

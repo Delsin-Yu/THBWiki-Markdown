@@ -1,23 +1,21 @@
 # 东方Project旧作CD
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\e\e0\ns0%3A%E4%B8%9C%E6%96%B9Project%E6%97%A7%E4%BD%9CCD.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\e\e0\ns0%3A%E4%B8%9C%E6%96%B9Project%E6%97%A7%E4%BD%9CCD.html -->
 
 官方新作游戏
 
-本页是关于东方Project **官方弹幕射击游戏 (未找到链接)** 的词条
-
+本页是关于东方Project**[官方弹幕射击游戏](./官方游戏.md#弹幕射击类游戏)**的词条
 ## 概述
   
-<big> **东方Project CD** </big>
-東方Project CD<small>（とうほう， *Touhou Project CD* ）</small>  
+<big>**东方Project CD**</big>
+東方Project CD<small>（とうほう，*Touhou Project CD*）</small>  
 
-本作是东方Project[官方游戏](./官方游戏.md)系列的旧作五作全收录的CD-ROM版，运行在[PC-98](./PC-98.md)平台上，属于（旧作 (未找到链接)）。  
+本作是东方Project[官方游戏](./官方游戏.md)系列的旧作五作全收录的CD-ROM版，运行在[PC-98](./PC-98.md)平台上，属于（[旧作](./官方游戏.md#旧作)）。  
 
 旧作五作的整合版。
   
-
-[](./文件-东方Project旧作CDdisc.jpg.md)  [](./文件-东方Project旧作CDdisc.jpg.md)东方Project旧作CD碟面
-
+<img alt="" src="https://upload.thwiki.cc/thumb/7/76/%E4%B8%9C%E6%96%B9Project%E6%97%A7%E4%BD%9CCDdisc.jpg/300px-%E4%B8%9C%E6%96%B9Project%E6%97%A7%E4%BD%9CCDdisc.jpg" decoding="async" loading="lazy" width="300" height="300" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/7/76/%E4%B8%9C%E6%96%B9Project%E6%97%A7%E4%BD%9CCDdisc.jpg/450px-%E4%B8%9C%E6%96%B9Project%E6%97%A7%E4%BD%9CCDdisc.jpg 1.5x, https://upload.thwiki.cc/thumb/7/76/%E4%B8%9C%E6%96%B9Project%E6%97%A7%E4%BD%9CCDdisc.jpg/600px-%E4%B8%9C%E6%96%B9Project%E6%97%A7%E4%BD%9CCDdisc.jpg 2x" data-file-width="1486" data-file-height="1486">
+ [放大](./文件-东方Project旧作CDdisc.jpg.md)东方Project旧作CD碟面
 <table>
 <tbody><tr>
 <th colspan="2">基本信息</th>
@@ -25,11 +23,9 @@
 <tr><td style="width:150px"><b>制作方</b></td><td style="width:350px"><a href="./ZUNSoft.md" title="ZUNSoft">ZUNSoft</a></td></tr><tr><td><b>出版方</b></td><td><a href="./Amusement_Makers.md" title="Amusement Makers">Amusement Makers</a> </td></tr><tr><td><b>正式版发行日期</b></td><td>2002年5月1日 </td></tr><tr><td><b>运行平台</b></td><td>NEC PC-98 / EPSON PC-486/586</td></tr><tr><td><b>游戏类型</b></td><td>固定版面动作类游戏，纵版卷轴弹幕射击游戏</td></tr><tr><td><b>售价</b></td><td>通贩售价：2000日元</td></tr></tbody></table>
 
 东方Project旧作CD（官方游戏） - 官方新作游戏
-
 ## 游戏内容
   
- **详见** 
-  
+**详见**  
 
 - [东方灵异传 ～ Highly Responsive to Prayers.](./东方灵异传.md)
 - [东方封魔录 ～ the Story of Eastern Wonderland.](./东方封魔录.md)
@@ -39,16 +35,8 @@
 
 
 ## Booklet
-
-
-
-[](./文件-东方Project旧作CDBooklet.png.md)
-
+<img alt="Booklet" src="https://upload.thwiki.cc/thumb/0/03/%E4%B8%9C%E6%96%B9Project%E6%97%A7%E4%BD%9CCDBooklet.png/307px-%E4%B8%9C%E6%96%B9Project%E6%97%A7%E4%BD%9CCDBooklet.png" decoding="async" loading="lazy" width="307" height="391" srcset="https://upload.thwiki.cc/thumb/0/03/%E4%B8%9C%E6%96%B9Project%E6%97%A7%E4%BD%9CCDBooklet.png/461px-%E4%B8%9C%E6%96%B9Project%E6%97%A7%E4%BD%9CCDBooklet.png 1.5x, https://upload.thwiki.cc/thumb/0/03/%E4%B8%9C%E6%96%B9Project%E6%97%A7%E4%BD%9CCDBooklet.png/614px-%E4%B8%9C%E6%96%B9Project%E6%97%A7%E4%BD%9CCDBooklet.png 2x" data-file-width="1810" data-file-height="2308">
 Booklet
-
-
-
-
 
 <table>
 
@@ -271,10 +259,6 @@ Amusement Makers 原主催<br>
 </p>
 </div>
 </td></tr></tbody></table>
-
-
-
-
 
 
 ---

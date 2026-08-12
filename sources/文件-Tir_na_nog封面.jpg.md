@@ -1,6 +1,6 @@
 # 文件:Tir_na_nog封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\67\ns6%3ATir_na_nog%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\67\ns6%3ATir_na_nog%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Ajatomi | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Ajatomi | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Tir na nog](./Tir_na_nog.md)  
-该封面包含的角色：- [古明地恋](./古明地恋.md)
-
-
-
+- [Tir na nog](./Tir_na_nog.md)该封面包含的角色：
+- [古明地恋](./古明地恋.md)
 
 
 ---

@@ -1,14 +1,11 @@
 # 文件:刹那パラドックスbanner2.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e7\ns6%3A%E5%88%B9%E9%82%A3%E3%83%91%E3%83%A9%E3%83%89%E3%83%83%E3%82%AF%E3%82%B9banner2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e7\ns6%3A%E5%88%B9%E9%82%A3%E3%83%91%E3%83%A9%E3%83%89%E3%83%83%E3%82%AF%E3%82%B9banner2%2Ejpg.html -->
 
 刹那パラドックス | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

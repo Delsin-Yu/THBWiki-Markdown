@@ -1,16 +1,11 @@
 # 文件:Closed_Circuslogo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3d\ns6%3AClosed_Circuslogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3d\ns6%3AClosed_Circuslogo%2Ejpg.html -->
 
 社团LOGO
 
   
-源地址：[[1]](https://blog-imgs-48.fc2.com/c/l/o/closedcircus/ClosedCircus_LOGOTYPE01s.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://blog-imgs-48.fc2.com/c/l/o/closedcircus/ClosedCircus_LOGOTYPE01s.jpg)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:Concerted_Gensoukyou_-_五線譜の上の幻想封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\11\ns6%3AConcerted_Gensoukyou_-_%E4%BA%94%E7%B7%9A%E8%AD%9C%E3%81%AE%E4%B8%8A%E3%81%AE%E5%B9%BB%E6%83%B3%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\11\ns6%3AConcerted_Gensoukyou_-_%E4%BA%94%E7%B7%9A%E8%AD%9C%E3%81%AE%E4%B8%8A%E3%81%AE%E5%B9%BB%E6%83%B3%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ELField | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ ELField | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Concerted Gensoukyou - 五線譜の上の幻想](./Concerted_Gensoukyou_-_五線譜の上の幻想.md)  
-该封面包含的角色：- [圣白莲](./圣白莲.md)
-
-
-
+- [Concerted Gensoukyou - 五線譜の上の幻想](./Concerted_Gensoukyou_-_五線譜の上の幻想.md)该封面包含的角色：
+- [圣白莲](./圣白莲.md)
 
 
 ---

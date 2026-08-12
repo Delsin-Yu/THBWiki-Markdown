@@ -1,37 +1,21 @@
 # GRIFFON/Nanorich/蕾米莉亚·斯卡蕾特
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\1\1f\ns0%3AGRIFFON%2FNanorich%2F%E8%95%BE%E7%B1%B3%E8%8E%89%E4%BA%9A%C2%B7%E6%96%AF%E5%8D%A1%E8%95%BE%E7%89%B9.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\1\1f\ns0%3AGRIFFON%2FNanorich%2F%E8%95%BE%E7%B1%B3%E8%8E%89%E4%BA%9A%C2%B7%E6%96%AF%E5%8D%A1%E8%95%BE%E7%89%B9.html -->
 
 蕾米莉亚·斯卡蕾特PVCFigure手办模型
 
 本页是关于东方Project  
- **相关实体周边 (未找到链接)** 的词条
-
+**相关实体周边 (未找到链接)**的词条
 ## 模型信息
 
-<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 蕾米莉亚·斯卡蕾特 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>Nanorich</td></tr><tr><td class="label">角色</td><td><a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a></td></tr><tr><td class="label">原型师</td><td><a href="/index.php?title=%E3%81%B3%E3%83%BC%E3%81%B5%E3%82%8B&amp;action=edit&amp;redlink=1" class="new" title="びーふる（页面不存在）">びーふる</a></td></tr><tr><td class="label">尺寸</td><td>115mm</td></tr><tr><td class="label">状态</td><td>已发售</td></tr><tr><td class="label">售价</td><td>3900日元</td></tr><tr><td class="label">首发日期</td><td>2014-05-29</td></tr><tr><td class="label">发售方</td><td><a href="/index.php?title=GRIFFON&amp;action=edit&amp;redlink=1" class="new" title="GRIFFON（页面不存在）">GRIFFON</a></td></tr><tr><td class="label">官网页面</td><td><a rel="nofollow" class="external free" href="http://www.griffon.co.jp/nanorich/products/remilia.html">http://www.griffon.co.jp/nanorich/products/remilia.html</a></td></tr><tr><td class="label">备注</td><td>底座不可发声</td></tr></tbody></table>
+<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 蕾米莉亚·斯卡蕾特 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>Nanorich</td></tr><tr><td class="label">角色</td><td><a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a></td></tr><tr><td class="label">原型师</td><td><a class="new" title="びーふる（页面不存在）">びーふる</a></td></tr><tr><td class="label">尺寸</td><td>115mm</td></tr><tr><td class="label">状态</td><td>已发售</td></tr><tr><td class="label">售价</td><td>3900日元</td></tr><tr><td class="label">首发日期</td><td>2014-05-29</td></tr><tr><td class="label">发售方</td><td><a class="new" title="GRIFFON（页面不存在）">GRIFFON</a></td></tr><tr><td class="label">官网页面</td><td><a rel="nofollow" class="external free" href="http://www.griffon.co.jp/nanorich/products/remilia.html">http://www.griffon.co.jp/nanorich/products/remilia.html</a></td></tr><tr><td class="label">备注</td><td>底座不可发声</td></tr></tbody></table>
 
 GRIFFON/Nanorich/蕾米莉亚·斯卡蕾特（周边） - 蕾米莉亚·斯卡蕾特PVCFigure手办模型
-
 ## 参考图片
-
-
-
-[](./文件-GRIFFONNanorich蕾米莉亚·斯卡蕾特-1.jpg.md)
-
-
-[](./文件-GRIFFONNanorich蕾米莉亚·斯卡蕾特-2.jpg.md)
-
-
-[](./文件-GRIFFONNanorich蕾米莉亚·斯卡蕾特-3.jpg.md)
-
+<img alt="GRIFFONNanorich蕾米莉亚·斯卡蕾特" src="https://upload.thwiki.cc/thumb/1/1f/GRIFFONNanorich%E8%95%BE%E7%B1%B3%E8%8E%89%E4%BA%9A%C2%B7%E6%96%AF%E5%8D%A1%E8%95%BE%E7%89%B9-1.jpg/160px-GRIFFONNanorich%E8%95%BE%E7%B1%B3%E8%8E%89%E4%BA%9A%C2%B7%E6%96%AF%E5%8D%A1%E8%95%BE%E7%89%B9-1.jpg" decoding="async" loading="lazy" width="160" height="240" srcset="https://upload.thwiki.cc/thumb/1/1f/GRIFFONNanorich%E8%95%BE%E7%B1%B3%E8%8E%89%E4%BA%9A%C2%B7%E6%96%AF%E5%8D%A1%E8%95%BE%E7%89%B9-1.jpg/240px-GRIFFONNanorich%E8%95%BE%E7%B1%B3%E8%8E%89%E4%BA%9A%C2%B7%E6%96%AF%E5%8D%A1%E8%95%BE%E7%89%B9-1.jpg 1.5x, https://upload.thwiki.cc/thumb/1/1f/GRIFFONNanorich%E8%95%BE%E7%B1%B3%E8%8E%89%E4%BA%9A%C2%B7%E6%96%AF%E5%8D%A1%E8%95%BE%E7%89%B9-1.jpg/320px-GRIFFONNanorich%E8%95%BE%E7%B1%B3%E8%8E%89%E4%BA%9A%C2%B7%E6%96%AF%E5%8D%A1%E8%95%BE%E7%89%B9-1.jpg 2x" data-file-width="433" data-file-height="650">
+<img alt="GRIFFONNanorich蕾米莉亚·斯卡蕾特" src="https://upload.thwiki.cc/thumb/a/aa/GRIFFONNanorich%E8%95%BE%E7%B1%B3%E8%8E%89%E4%BA%9A%C2%B7%E6%96%AF%E5%8D%A1%E8%95%BE%E7%89%B9-2.jpg/160px-GRIFFONNanorich%E8%95%BE%E7%B1%B3%E8%8E%89%E4%BA%9A%C2%B7%E6%96%AF%E5%8D%A1%E8%95%BE%E7%89%B9-2.jpg" decoding="async" loading="lazy" width="160" height="240" srcset="https://upload.thwiki.cc/thumb/a/aa/GRIFFONNanorich%E8%95%BE%E7%B1%B3%E8%8E%89%E4%BA%9A%C2%B7%E6%96%AF%E5%8D%A1%E8%95%BE%E7%89%B9-2.jpg/240px-GRIFFONNanorich%E8%95%BE%E7%B1%B3%E8%8E%89%E4%BA%9A%C2%B7%E6%96%AF%E5%8D%A1%E8%95%BE%E7%89%B9-2.jpg 1.5x, https://upload.thwiki.cc/thumb/a/aa/GRIFFONNanorich%E8%95%BE%E7%B1%B3%E8%8E%89%E4%BA%9A%C2%B7%E6%96%AF%E5%8D%A1%E8%95%BE%E7%89%B9-2.jpg/320px-GRIFFONNanorich%E8%95%BE%E7%B1%B3%E8%8E%89%E4%BA%9A%C2%B7%E6%96%AF%E5%8D%A1%E8%95%BE%E7%89%B9-2.jpg 2x" data-file-width="433" data-file-height="650">
+<img alt="GRIFFONNanorich蕾米莉亚·斯卡蕾特" src="https://upload.thwiki.cc/thumb/7/7d/GRIFFONNanorich%E8%95%BE%E7%B1%B3%E8%8E%89%E4%BA%9A%C2%B7%E6%96%AF%E5%8D%A1%E8%95%BE%E7%89%B9-3.jpg/160px-GRIFFONNanorich%E8%95%BE%E7%B1%B3%E8%8E%89%E4%BA%9A%C2%B7%E6%96%AF%E5%8D%A1%E8%95%BE%E7%89%B9-3.jpg" decoding="async" loading="lazy" width="160" height="240" srcset="https://upload.thwiki.cc/thumb/7/7d/GRIFFONNanorich%E8%95%BE%E7%B1%B3%E8%8E%89%E4%BA%9A%C2%B7%E6%96%AF%E5%8D%A1%E8%95%BE%E7%89%B9-3.jpg/240px-GRIFFONNanorich%E8%95%BE%E7%B1%B3%E8%8E%89%E4%BA%9A%C2%B7%E6%96%AF%E5%8D%A1%E8%95%BE%E7%89%B9-3.jpg 1.5x, https://upload.thwiki.cc/thumb/7/7d/GRIFFONNanorich%E8%95%BE%E7%B1%B3%E8%8E%89%E4%BA%9A%C2%B7%E6%96%AF%E5%8D%A1%E8%95%BE%E7%89%B9-3.jpg/320px-GRIFFONNanorich%E8%95%BE%E7%B1%B3%E8%8E%89%E4%BA%9A%C2%B7%E6%96%AF%E5%8D%A1%E8%95%BE%E7%89%B9-3.jpg 2x" data-file-width="433" data-file-height="650">
 公式图
-
-
-
-
-
-
 
 ---
 

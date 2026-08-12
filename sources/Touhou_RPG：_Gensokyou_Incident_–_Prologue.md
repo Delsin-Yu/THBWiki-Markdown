@@ -1,21 +1,17 @@
 # Touhou_RPG：_Gensokyou_Incident_–_Prologue
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\1\14\ns0%3ATouhou_RPG%EF%BC%9A_Gensokyou_Incident_%E2%80%93_Prologue.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\1\14\ns0%3ATouhou_RPG%EF%BC%9A_Gensokyou_Incident_%E2%80%93_Prologue.html -->
 
 2024年6月24日 由 DoD Team  发布的RPG同人游戏，游戏人数为 单人模式，分级为 R15
 
 本页是关于东方Project  
- **二次创作同人软件 (未找到链接)** 的词条
-
+**[二次创作同人软件](./二次创作.md#同人软件)**的词条
 ## 目录
 
 - [1 软件信息](#软件信息)
 - [2 Staff](#Staff)
 - [3 内容页面](#内容页面)
 - [4 评论](#评论)
-
-
-
 
 
 ## 软件信息
@@ -26,31 +22,22 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://dod.4otaku.ru/projects">http://dod.4otaku.ru/projects</a><br><span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span><small>（<a rel="nofollow" class="external text" href="https://web.archive.org/web/20120504181524/http://dod.4otaku.ru/projects">缓存页面</a>）</small></td></tr></tbody></table>
 
 Touhou RPG： Gensokyou Incident – Prologue（同人游戏，DoD Team，2010） - 2024年6月22日 由 DoD Team  发布的RPG同人游戏，游戏人数为 单人模式，分级为 R15
-  
-  
-
-  
-
-
 <table>
 <tbody><tr><th colspan="2">配置需求</th></tr>
 <tr><td style="width:120px;padding-left:7px;"><b>硬盘需求</b></td><td>83MB</td></tr><tr><td style="width:120px;padding-left:7px;"><b>其他</b></td><td>RPG Maker XP RTP</td></tr>
 </tbody></table>
 
 
-
 ## Staff
 
 ## 内容页面
+
 - 游戏设定与剧情 (未找到链接)
 - 攻略 (未找到链接)
 - 其他信息 (未找到链接)
 
 
 ## 评论
-
-
-
 
 ---
 

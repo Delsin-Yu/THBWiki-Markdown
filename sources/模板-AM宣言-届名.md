@@ -1,16 +1,12 @@
 # 模板:AM宣言/届名
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\7\7a\ns10%3AAM%E5%AE%A3%E8%A8%80%2F%E5%B1%8A%E5%90%8D.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\7\7a\ns10%3AAM%E5%AE%A3%E8%A8%80%2F%E5%B1%8A%E5%90%8D.html -->
 
 活动届名模板
 
   
 AM宣言
   
-
-
-
-
 
 ---
 

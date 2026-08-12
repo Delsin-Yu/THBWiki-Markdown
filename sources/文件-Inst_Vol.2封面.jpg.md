@@ -1,6 +1,6 @@
 # 文件:Inst_Vol.2封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\45\ns6%3AInst_Vol%2E2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\45\ns6%3AInst_Vol%2E2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 38BEETS | 专辑封面 | 封面图片
 
@@ -8,11 +8,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [Inst Vol.2](./Inst_Vol.2.md)  
-该封面包含的角色：- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)- [西行寺幽幽子](./西行寺幽幽子.md)- [村纱水蜜](./村纱水蜜.md)
-
-
-
+- [Inst Vol.2](./Inst_Vol.2.md)该封面包含的角色：
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
+- [西行寺幽幽子](./西行寺幽幽子.md)
+- [村纱水蜜](./村纱水蜜.md)
 
 
 ---

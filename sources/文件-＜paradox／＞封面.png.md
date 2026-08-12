@@ -1,6 +1,6 @@
 # 文件:＜paradox／＞封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ac\ns6%3A%EF%BC%9Cparadox%EF%BC%8F%EF%BC%9E%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ac\ns6%3A%EF%BC%9Cparadox%EF%BC%8F%EF%BC%9E%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 酸素魚雷
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [＜paradox／＞](./＜paradox／＞.md)  
-该封面包含的角色：- [封兽鵺](./封兽鵺.md)
-
-
-
+- [＜paradox／＞](./＜paradox／＞.md)该封面包含的角色：
+- [封兽鵺](./封兽鵺.md)
 
 
 ---

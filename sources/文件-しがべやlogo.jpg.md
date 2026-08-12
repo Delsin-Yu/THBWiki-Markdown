@@ -1,18 +1,13 @@
 # 文件:しがべやlogo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\54\ns6%3A%E3%81%97%E3%81%8C%E3%81%B9%E3%82%84logo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\54\ns6%3A%E3%81%97%E3%81%8C%E3%81%B9%E3%82%84logo%2Ejpg.html -->
 
 しがべや | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[direct image link (original size)](https://i1.sndcdn.com/avatars-000320349620-zlbupi-original.jpg), [source page](https://soundcloud.com/naquaji)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://i1.sndcdn.com/avatars-000320349620-zlbupi-original.jpg), [source page](https://soundcloud.com/naquaji)  
 
 ---
 

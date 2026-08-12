@@ -1,16 +1,12 @@
 # 文件:秘封幻想logo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\60\ns6%3A%E7%A7%98%E5%B0%81%E5%B9%BB%E6%83%B3logo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\60\ns6%3A%E7%A7%98%E5%B0%81%E5%B9%BB%E6%83%B3logo%2Ejpg.html -->
 
 社团LOGO | 秘封幻想
 
   
 1
   
-
-
-
-
 
 ---
 

@@ -1,16 +1,12 @@
 # 模板:纵L
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\c\c2\ns10%3A%E7%BA%B5L.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\c\c2\ns10%3A%E7%BA%B5L.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

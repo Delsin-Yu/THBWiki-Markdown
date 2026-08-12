@@ -1,16 +1,12 @@
 # 模板:GL
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\7\71\ns10%3AGL.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\7\71\ns10%3AGL.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

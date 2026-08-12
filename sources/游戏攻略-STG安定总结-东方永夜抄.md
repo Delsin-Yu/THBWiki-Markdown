@@ -1,6 +1,6 @@
 # 游戏攻略/STG安定总结/东方永夜抄
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\e\ee\ns0%3A%E6%B8%B8%E6%88%8F%E6%94%BB%E7%95%A5%2FSTG%E5%AE%89%E5%AE%9A%E6%80%BB%E7%BB%93%2F%E4%B8%9C%E6%96%B9%E6%B0%B8%E5%A4%9C%E6%8A%84.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\e\ee\ns0%3A%E6%B8%B8%E6%88%8F%E6%94%BB%E7%95%A5%2FSTG%E5%AE%89%E5%AE%9A%E6%80%BB%E7%BB%93%2F%E4%B8%9C%E6%96%B9%E6%B0%B8%E5%A4%9C%E6%8A%84.html -->
 
 
 
@@ -37,7 +37,7 @@
 </td>
 <td>4B道中1符 魔符「Milky Way」（银河）/ 魔空「Asteroid Belt」（小行星带），全难度适用。
 <p>贴脸，弹雾中伪安定。无法看到自机，需要在两边的小星星接近时丢b，1b混过此卡。<br>
-<del>可以在对话时定位，</del><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">1</a></sup>高度约为graze字样中心线，不可使判定点最下端离开boss点阵图。
+<del>可以在对话时定位，</del><span>[^cite_note-1]</span>高度约为graze字样中心线，不可使判定点最下端离开boss点阵图。
 </p>
 </td></tr>
 <tr>
@@ -45,7 +45,7 @@
 </td>
 <td>4B关底1符 恋风「Starlight Typhoon」（星光台风），<b>HL难度限定</b>。
 <p>boss水平线上方，需要躲避高速自机狙。<br>
-如果自机高度比boss高，则boss会使用高速自机狙，反之则使用低速自机狙。在这个高度可以无视固定大星弹和激光的影响。结界组/单八云紫需要八云蓝锁定boss之后再上去，红魔组/单蕾米<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">2</a></sup>需要切低速使子机对准boss之后再上去，单妖梦需要切低速使半灵向右（偏下）方射击，否则无法击破。
+如果自机高度比boss高，则boss会使用高速自机狙，反之则使用低速自机狙。在这个高度可以无视固定大星弹和激光的影响。结界组/单八云紫需要八云蓝锁定boss之后再上去，红魔组/单蕾米<span>[^cite_note-2]</span>需要切低速使子机对准boss之后再上去，单妖梦需要切低速使半灵向右（偏下）方射击，否则无法击破。
 </p>
 </td></tr>
 <tr>
@@ -147,12 +147,8 @@ L难度下，需要击破左侧杂鱼才可完全安定(幽冥/红魔限定)。�
 </p>
 </td></tr></tbody></table>
 
-
 [^cite_note-1]: 但是该符卡前并没有对话，这段儿到底谁写的。
-
-
-
-
+[^cite_note-2]: 红魔组正常流程不会进入4B面，但可在练习模式或符卡练习中挑战该卡。
 
 ---
 

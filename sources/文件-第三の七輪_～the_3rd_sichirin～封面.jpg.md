@@ -1,6 +1,6 @@
 # 文件:第三の七輪_～the_3rd_sichirin～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9a\ns6%3A%E7%AC%AC%E4%B8%89%E3%81%AE%E4%B8%83%E8%BC%AA_%EF%BD%9Ethe_3rd_sichirin%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9a\ns6%3A%E7%AC%AC%E4%B8%89%E3%81%AE%E4%B8%83%E8%BC%AA_%EF%BD%9Ethe_3rd_sichirin%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 七輪大社 | 同人志封面 | 封面图片
 
@@ -10,11 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [第三の七輪 ～the 3rd sichirin～](./第三の七輪_～the_3rd_sichirin～.md)  
-该封面包含的角色：- [古明地觉](./古明地觉.md)- [火焰猫燐](./火焰猫燐.md)- [灵乌路空](./灵乌路空.md)- [古明地恋](./古明地恋.md)
-
-
-
+- [第三の七輪 ～the 3rd sichirin～](./第三の七輪_～the_3rd_sichirin～.md)该封面包含的角色：
+- [古明地觉](./古明地觉.md)
+- [火焰猫燐](./火焰猫燐.md)
+- [灵乌路空](./灵乌路空.md)
+- [古明地恋](./古明地恋.md)
 
 
 ---

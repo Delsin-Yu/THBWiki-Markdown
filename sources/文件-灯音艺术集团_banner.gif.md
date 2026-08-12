@@ -1,12 +1,8 @@
 # 文件:灯音艺术集团_banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\80\ns6%3A%E7%81%AF%E9%9F%B3%E8%89%BA%E6%9C%AF%E9%9B%86%E5%9B%A2_banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\80\ns6%3A%E7%81%AF%E9%9F%B3%E8%89%BA%E6%9C%AF%E9%9B%86%E5%9B%A2_banner%2Egif.html -->
 
 灯音艺术集团 | 社团LOGO
-
-
-
-
 
 
 ---

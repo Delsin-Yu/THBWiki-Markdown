@@ -1,16 +1,11 @@
 # 文件:TTL_SOUNDlogo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\20\ns6%3ATTL_SOUNDlogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\20\ns6%3ATTL_SOUNDlogo%2Ejpg.html -->
 
 社团LOGO
 
   
-源地址：[[1]](https://static.wixstatic.com/media/708f29_52ee4c6a4a2740ec97b65387b919578c.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://static.wixstatic.com/media/708f29_52ee4c6a4a2740ec97b65387b919578c.jpg)  
 
 ---
 

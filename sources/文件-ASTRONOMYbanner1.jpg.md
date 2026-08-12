@@ -1,12 +1,8 @@
 # 文件:ASTRONOMYbanner1.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c2\ns6%3AASTRONOMYbanner1%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c2\ns6%3AASTRONOMYbanner1%2Ejpg.html -->
 
 ASTRONOMY | 社团LOGO
-
-
-
-
 
 
 ---

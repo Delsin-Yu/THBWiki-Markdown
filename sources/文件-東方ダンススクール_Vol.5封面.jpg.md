@@ -1,6 +1,6 @@
 # 文件:東方ダンススクール_Vol.5封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e2\ns6%3A%E6%9D%B1%E6%96%B9%E3%83%80%E3%83%B3%E3%82%B9%E3%82%B9%E3%82%AF%E3%83%BC%E3%83%AB_Vol%2E5%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e2\ns6%3A%E6%9D%B1%E6%96%B9%E3%83%80%E3%83%B3%E3%82%B9%E3%82%B9%E3%82%AF%E3%83%BC%E3%83%AB_Vol%2E5%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 DiGiTAL_WiNG | 封面图片 | 视频封面
 
@@ -8,16 +8,11 @@ DiGiTAL_WiNG | 封面图片 | 视频封面
 使用了本文件作封面图片的作品：
   
 
-- [東方ダンススクール Vol.5](./東方ダンススクール_Vol.5.md)  
-该封面包含的角色：- [八云紫](./八云紫.md)
+- [東方ダンススクール Vol.5](./東方ダンススクール_Vol.5.md)该封面包含的角色：
+- [八云紫](./八云紫.md)
 
   
-源地址：[[1]](http://www.toranoana.jp/mailorder/article/04/0030/19/54/040030195449.html)
-  
-
-
-
-
+源地址：[\[1\]](http://www.toranoana.jp/mailorder/article/04/0030/19/54/040030195449.html)  
 
 ---
 

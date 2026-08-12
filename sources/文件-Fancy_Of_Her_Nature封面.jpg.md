@@ -1,6 +1,6 @@
 # 文件:Fancy_Of_Her_Nature封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\13\ns6%3AFancy_Of_Her_Nature%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\13\ns6%3AFancy_Of_Her_Nature%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 wujiu～うーじう～ | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ wujiu～うーじう～ | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Fancy Of Her Nature](./Fancy_Of_Her_Nature.md)  
-该封面包含的角色：- [蓬莱人形](./蓬莱人形.md)- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [Fancy Of Her Nature](./Fancy_Of_Her_Nature.md)该封面包含的角色：
+- [蓬莱人形](./蓬莱人形.md)
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

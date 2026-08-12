@@ -1,6 +1,6 @@
 # 文件:Falling_To_My_Dream,_Falling_To_My_Hope封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d5\ns6%3AFalling_To_My_Dream%2C_Falling_To_My_Hope%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d5\ns6%3AFalling_To_My_Dream%2C_Falling_To_My_Hope%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Further_Ahead_Of_Warp | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Further_Ahead_Of_Warp | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Falling To My Dream, Falling To My Hope](./Falling_To_My_Dream,_Falling_To_My_Hope.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
-
-
-
+- [Falling To My Dream, Falling To My Hope](./Falling_To_My_Dream,_Falling_To_My_Hope.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
 
 ---

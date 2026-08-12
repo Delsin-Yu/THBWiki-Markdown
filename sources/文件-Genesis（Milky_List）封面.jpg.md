@@ -1,6 +1,6 @@
 # 文件:Genesis（Milky_List）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c1\ns6%3AGenesis%EF%BC%88Milky_List%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c1\ns6%3AGenesis%EF%BC%88Milky_List%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Milky_List | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ Milky_List | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Genesis（Milky List）](./Genesis（Milky_List）.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
-
-
-
+- [Genesis（Milky List）](./Genesis（Milky_List）.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
 
 ---

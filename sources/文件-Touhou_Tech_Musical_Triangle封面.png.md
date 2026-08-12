@@ -1,6 +1,6 @@
 # 文件:Touhou_Tech_Musical_Triangle封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\86\ns6%3ATouhou_Tech_Musical_Triangle%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\86\ns6%3ATouhou_Tech_Musical_Triangle%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Tech-nation_Records | 专辑封面 | 封面图片 | 東京工業大学デジタル創作同好会traP | 東工プロジェクト
 
@@ -8,11 +8,9 @@ Tech-nation_Records | 专辑封面 | 封面图片 | 東京工業大学デジタ�
 使用了本文件作封面图片的作品：
   
 
-- [Touhou Tech Musical Triangle](./Touhou_Tech_Musical_Triangle.md)  
-该封面包含的角色：- [八意永琳](./八意永琳.md)- [铃瑚](./铃瑚.md)
-
-
-
+- [Touhou Tech Musical Triangle](./Touhou_Tech_Musical_Triangle.md)该封面包含的角色：
+- [八意永琳](./八意永琳.md)
+- [铃瑚](./铃瑚.md)
 
 
 ---

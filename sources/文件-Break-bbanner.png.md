@@ -1,18 +1,13 @@
 # 文件:Break-bbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\25\ns6%3ABreak-bbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\25\ns6%3ABreak-bbanner%2Epng.html -->
 
 Break-b | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[[1]](https://web.archive.org/web/20110704130921im_/http://2style.jp/bxxx/banner.PNG)
-  
-
-
-
-
+源地址：[\[1\]](https://web.archive.org/web/20110704130921im_/http://2style.jp/bxxx/banner.PNG)  
 
 ---
 

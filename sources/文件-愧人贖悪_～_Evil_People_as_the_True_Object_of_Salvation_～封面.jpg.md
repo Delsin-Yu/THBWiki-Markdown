@@ -1,6 +1,6 @@
 # 文件:愧人贖悪_～_Evil_People_as_the_True_Object_of_Salvation_～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fe\ns6%3A%E6%84%A7%E4%BA%BA%E8%B4%96%E6%82%AA_%EF%BD%9E_Evil_People_as_the_True_Object_of_Salvation_%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fe\ns6%3A%E6%84%A7%E4%BA%BA%E8%B4%96%E6%82%AA_%EF%BD%9E_Evil_People_as_the_True_Object_of_Salvation_%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Demetori | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Demetori | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [愧人贖悪 ～ Evil People as the True Object of Salvation ～](./愧人贖悪_～_Evil_People_as_the_True_Object_of_Salvation_～.md)  
-该封面包含的角色：- [鬼人正邪](./鬼人正邪.md)
-
-
-
+- [愧人贖悪 ～ Evil People as the True Object of Salvation ～](./愧人贖悪_～_Evil_People_as_the_True_Object_of_Salvation_～.md)该封面包含的角色：
+- [鬼人正邪](./鬼人正邪.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:古事幻定抄_-_"Ancient_Chronicle"_Number_4.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9f\ns6%3A%E5%8F%A4%E4%BA%8B%E5%B9%BB%E5%AE%9A%E6%8A%84_-_%22Ancient_Chronicle%22_Number_4%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9f\ns6%3A%E5%8F%A4%E4%BA%8B%E5%B9%BB%E5%AE%9A%E6%8A%84_-_%22Ancient_Chronicle%22_Number_4%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 AncientChronicle | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ AncientChronicle | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [古事幻定抄 - "Ancient Chronicle" Number 4.](./古事幻定抄_-_-Ancient_Chronicle-_Number_4..md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [古事幻定抄 - "Ancient Chronicle" Number 4.](./古事幻定抄_-_-Ancient_Chronicle-_Number_4..md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

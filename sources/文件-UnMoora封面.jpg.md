@@ -1,6 +1,6 @@
 # 文件:UnMoora封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\22\ns6%3AUnMoora%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\22\ns6%3AUnMoora%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Re：Volte | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Re：Volte | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [UnMoora](./UnMoora.md)  
-该封面包含的角色：- [娜兹玲](./娜兹玲.md)
+- [UnMoora](./UnMoora.md)该封面包含的角色：
+- [娜兹玲](./娜兹玲.md)
 
   
-源地址：[[1]](http://re-volte.net/images/Jacket/jacket_SRLX-059.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://re-volte.net/images/Jacket/jacket_SRLX-059.jpg)  
 
 ---
 

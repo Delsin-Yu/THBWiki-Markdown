@@ -1,12 +1,8 @@
 # 文件:石鹸屋_banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\13\ns6%3A%E7%9F%B3%E9%B9%B8%E5%B1%8B_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\13\ns6%3A%E7%9F%B3%E9%B9%B8%E5%B1%8B_banner%2Ejpg.html -->
 
 石鹸屋 | 社团LOGO
-
-
-
-
 
 
 ---

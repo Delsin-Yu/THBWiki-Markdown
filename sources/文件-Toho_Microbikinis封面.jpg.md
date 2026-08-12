@@ -1,6 +1,6 @@
 # 文件:Toho_Microbikinis封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\79\ns6%3AToho_Microbikinis%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\79\ns6%3AToho_Microbikinis%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 いんどの宮殿！ | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Toho Microbikinis](./Toho_Microbikinis.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)
-
-
-
+- [Toho Microbikinis](./Toho_Microbikinis.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Imperishable_Night_Artbook封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f3\ns6%3AImperishable_Night_Artbook%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f3\ns6%3AImperishable_Night_Artbook%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 CYCLIC★REDUNDANCY | 同人志封面 | 封面图片
 
@@ -10,16 +10,12 @@ CYCLIC★REDUNDANCY | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Imperishable Night Artbook](./Imperishable_Night_Artbook.md)  
-该封面包含的角色：- [蓬莱山辉夜](./蓬莱山辉夜.md)- [藤原妹红](./藤原妹红.md)
+- [Imperishable Night Artbook](./Imperishable_Night_Artbook.md)该封面包含的角色：
+- [蓬莱山辉夜](./蓬莱山辉夜.md)
+- [藤原妹红](./藤原妹红.md)
 
   
-源地址：[[1]](https://web.archive.org/web/20160526124157im_/http://img3.doujinpress.com/2013/01/19-0/83475/1.jpg), [source page](https://web.archive.org/web/20160320175500/http://www.doujinpress.com/products/83475~touhou-imperishable-night-artbook-ninamo-aiwa/)
-  
-
-
-
-
+源地址：[\[1\]](https://web.archive.org/web/20160526124157im_/http://img3.doujinpress.com/2013/01/19-0/83475/1.jpg), [source page](https://web.archive.org/web/20160320175500/http://www.doujinpress.com/products/83475~touhou-imperishable-night-artbook-ninamo-aiwa/)  
 
 ---
 

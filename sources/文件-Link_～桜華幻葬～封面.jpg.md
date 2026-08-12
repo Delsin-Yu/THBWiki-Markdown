@@ -1,6 +1,6 @@
 # 文件:Link_～桜華幻葬～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2a\ns6%3ALink_%EF%BD%9E%E6%A1%9C%E8%8F%AF%E5%B9%BB%E8%91%AC%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2a\ns6%3ALink_%EF%BD%9E%E6%A1%9C%E8%8F%AF%E5%B9%BB%E8%91%AC%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Sharp_Eight | 专辑封面 | 封面图片
 
@@ -10,11 +10,9 @@ Sharp_Eight | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Link ～桜華幻葬～](./Link_～桜華幻葬～.md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)- [八云蓝](./八云蓝.md)
-
-
-
+- [Link ～桜華幻葬～](./Link_～桜華幻葬～.md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
+- [八云蓝](./八云蓝.md)
 
 
 ---

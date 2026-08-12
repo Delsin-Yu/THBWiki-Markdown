@@ -1,6 +1,6 @@
 # 文件:客人RELOAD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\74\ns6%3A%E5%AE%A2%E4%BA%BARELOAD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\74\ns6%3A%E5%AE%A2%E4%BA%BARELOAD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 WAVEDRIVE | 同人志封面 | 封面图片
 
@@ -8,12 +8,12 @@ WAVEDRIVE | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [客人RELOAD](./客人RELOAD.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)- [冈崎梦美](./冈崎梦美.md)- [北白河千百合](./北白河千百合.md)源地址：[[1]](https://i.pximg.net/img-master/img/2014/08/10/11/57/49/45251848_p0_master1200.jpg)
-
-
-
-
+- [客人RELOAD](./客人RELOAD.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
+- [冈崎梦美](./冈崎梦美.md)
+- [北白河千百合](./北白河千百合.md)
+源地址：[\[1\]](https://i.pximg.net/img-master/img/2014/08/10/11/57/49/45251848_p0_master1200.jpg)
 
 ---
 

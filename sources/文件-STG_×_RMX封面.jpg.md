@@ -1,6 +1,6 @@
 # 文件:STG_×_RMX封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\37\ns6%3ASTG_%C3%97_RMX%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\37\ns6%3ASTG_%C3%97_RMX%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 お湯かけ３分 | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@
   
 
 - [STG × RMX](./STG_×_RMX.md)
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Abendrot封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a3\ns6%3AAbendrot%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a3\ns6%3AAbendrot%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Cloister_Notes | 专辑封面 | 封面图片
 
@@ -8,12 +8,9 @@ Cloister_Notes | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Abendrot](./Abendrot.md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)源地址：[[1]](http://whitewingofrushana.web.fc2.com/img/cd3.png)
-
-
-
-
+- [Abendrot](./Abendrot.md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
+源地址：[\[1\]](http://whitewingofrushana.web.fc2.com/img/cd3.png)
 
 ---
 

@@ -1,18 +1,13 @@
 # 文件:ATTRACT_ACTRISElogo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8b\ns6%3AATTRACT_ACTRISElogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8b\ns6%3AATTRACT_ACTRISElogo%2Ejpg.html -->
 
 ATTRACT_ACTRISE | 社团LOGO
 
 
 ## 摘要
   
-源地址：[direct image link (original size)](https://pbs.twimg.com/profile_banners/1738374133300543488/1704375310), [circle twitter header](https://twitter.com/AT_AC24)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://pbs.twimg.com/profile_banners/1738374133300543488/1704375310), [circle twitter header](https://twitter.com/AT_AC24)  
 
 ---
 

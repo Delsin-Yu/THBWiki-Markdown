@@ -1,13 +1,11 @@
 # ゆゆさま_～hungry_for_life～_MMDデータCD
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\e\e6\ns0%3A%E3%82%86%E3%82%86%E3%81%95%E3%81%BE_%EF%BD%9Ehungry_for_life%EF%BD%9E_MMD%E3%83%87%E3%83%BC%E3%82%BFCD.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\e\e6\ns0%3A%E3%82%86%E3%82%86%E3%81%95%E3%81%BE_%EF%BD%9Ehungry_for_life%EF%BD%9E_MMD%E3%83%87%E3%83%BC%E3%82%BFCD.html -->
 
 2011年12月30日 由 スレイプニル 于 Comic Market 81 发布的单曲同人专辑，曲目主要风格是 电波萌系，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人专辑 (未找到链接)** 的词条
-<center>
-
+**[二次创作同人专辑](./二次创作.md#同人音乐)**的词条<center>
 <table>
 <tbody><tr>
 <td class="mbox-image"><div style="width: 52px;">
@@ -16,41 +14,31 @@
 </tr>
 </tbody></table>
 
-
 </center>
-
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-ゆゆさま_～hungry_for_life～_MMDデータCD封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/c/cf/%E3%82%86%E3%82%86%E3%81%95%E3%81%BE_%EF%BD%9Ehungry_for_life%EF%BD%9E_MMD%E3%83%87%E3%83%BC%E3%82%BFCD%E5%B0%81%E9%9D%A2.jpg/224px-%E3%82%86%E3%82%86%E3%81%95%E3%81%BE_%EF%BD%9Ehungry_for_life%EF%BD%9E_MMD%E3%83%87%E3%83%BC%E3%82%BFCD%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="222" srcset="https://upload.thwiki.cc/thumb/c/cf/%E3%82%86%E3%82%86%E3%81%95%E3%81%BE_%EF%BD%9Ehungry_for_life%EF%BD%9E_MMD%E3%83%87%E3%83%BC%E3%82%BFCD%E5%B0%81%E9%9D%A2.jpg/336px-%E3%82%86%E3%82%86%E3%81%95%E3%81%BE_%EF%BD%9Ehungry_for_life%EF%BD%9E_MMD%E3%83%87%E3%83%BC%E3%82%BFCD%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/c/cf/%E3%82%86%E3%82%86%E3%81%95%E3%81%BE_%EF%BD%9Ehungry_for_life%EF%BD%9E_MMD%E3%83%87%E3%83%BC%E3%82%BFCD%E5%B0%81%E9%9D%A2.jpg/448px-%E3%82%86%E3%82%86%E3%81%95%E3%81%BE_%EF%BD%9Ehungry_for_life%EF%BD%9E_MMD%E3%83%87%E3%83%BC%E3%82%BFCD%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="2867" data-file-height="2838"></a><div class="cover-char">角色：<a href="./西行寺幽幽子.md" title="西行寺幽幽子">西行寺幽幽子</a></div></td>
 </tr><tr><td class="label">名称</td><td colspan="2"> ゆゆさま ～hungry for life～ MMDデータCD </td></tr><tr><td class="label">制作方</td><td><a href="./スレイプニル.md" title="スレイプニル">スレイプニル</a></td><td class="cover-artwork" rowspan="8" style="min-width:224px;"><a href="./文件-ゆゆさま_～hungry_for_life～_MMDデータCD封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/c/cf/%E3%82%86%E3%82%86%E3%81%95%E3%81%BE_%EF%BD%9Ehungry_for_life%EF%BD%9E_MMD%E3%83%87%E3%83%BC%E3%82%BFCD%E5%B0%81%E9%9D%A2.jpg/224px-%E3%82%86%E3%82%86%E3%81%95%E3%81%BE_%EF%BD%9Ehungry_for_life%EF%BD%9E_MMD%E3%83%87%E3%83%BC%E3%82%BFCD%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="222" srcset="https://upload.thwiki.cc/thumb/c/cf/%E3%82%86%E3%82%86%E3%81%95%E3%81%BE_%EF%BD%9Ehungry_for_life%EF%BD%9E_MMD%E3%83%87%E3%83%BC%E3%82%BFCD%E5%B0%81%E9%9D%A2.jpg/336px-%E3%82%86%E3%82%86%E3%81%95%E3%81%BE_%EF%BD%9Ehungry_for_life%EF%BD%9E_MMD%E3%83%87%E3%83%BC%E3%82%BFCD%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/c/cf/%E3%82%86%E3%82%86%E3%81%95%E3%81%BE_%EF%BD%9Ehungry_for_life%EF%BD%9E_MMD%E3%83%87%E3%83%BC%E3%82%BFCD%E5%B0%81%E9%9D%A2.jpg/448px-%E3%82%86%E3%82%86%E3%81%95%E3%81%BE_%EF%BD%9Ehungry_for_life%EF%BD%9E_MMD%E3%83%87%E3%83%BC%E3%82%BFCD%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="2867" data-file-height="2838"></a><div class="cover-char">角色：<a href="./西行寺幽幽子.md" title="西行寺幽幽子">西行寺幽幽子</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2011-12-30&#160;（<a href="/展会作品列表?e=Comic+Market%2381">Comic Market 81</a>）</td></tr><tr><td class="label">类型</td><td>单曲</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>2</td></tr><tr><td class="label">总时长</td><td>10:24</td></tr><tr><td class="label">风格类型</td><td>电波萌系</td></tr>
+</tr><tr><td class="label">首发日期</td><td>2011-12-30 （<a href="./展会作品列表.md#81">Comic Market 81</a>）</td></tr><tr><td class="label">类型</td><td>单曲</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>2</td></tr><tr><td class="label">总时长</td><td>10:24</td></tr><tr><td class="label">风格类型</td><td>电波萌系</td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://blog2.surpara.com/sleipnir/archive/2011/11/88321.html">http://blog2.surpara.com/sleipnir/archive/2011/11/88321.html</a><br><span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span><small>（<a rel="nofollow" class="external text" href="https://web.archive.org/web/20120202115246/http://blog2.surpara.com:80/sleipnir/archive/2011/11/88321.html">缓存页面</a>）</small></td></tr><tr><td class="label">备注</td><td colspan="2">CD的主要内容是<a href="./ゆゆさま_～hungry_for_life～.md" title="ゆゆさま ～hungry for life～">ゆゆさま ～hungry for life～</a>的PV所使用的<a href="./东方MMD.md" title="东方MMD">MMD</a>数据。</td></tr></tbody></table>
 
 ゆゆさま ～hungry for life～ MMDデータCD（同人专辑，スレイプニル，2011） - 2011年12月30日 由 スレイプニル 于 Comic Market 81 发布的单曲同人专辑，曲目主要风格是 电波萌系，分级为 一般向
-
 ## Staff
 Illustration
 : コーポ （地獄駄目人間+魚 (未找到链接)）
 
-
 ## 试听
   
 <iframe width="100%" height="180" src="https://ext.nicovideo.jp/thumb/nm14215731" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/watch/nm14215731">,</a></iframe>
-
   
-
 
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="info"><b>01</b></td><td id="ゆゆさま_～hungry_for_life～" colspan="2" class="title">ゆゆさま ～hungry for life～<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=幽雅に咲かせ、墨染の桜　～ Border of Life&amp;fromwiki=ゆゆさま_～hungry_for_life～_MMDデータCD"><span title="搜索相似同人曲"></span></a></span></td><td class="time">05:13</td></tr><tr><td class="left"></td><td class="label">初发布</td><td class="text" colspan="2"><a href="/%E3%82%86%E3%82%86%E3%81%95%E3%81%BE_%EF%BD%9Ehungry_for_life%EF%BD%9E#1" title="ゆゆさま ～hungry for life～">ゆゆさま ～hungry for life～</a><div class="source"><a href="./ゆゆさま_～hungry_for_life～.md" title="ゆゆさま ～hungry for life～">ゆゆさま ～hungry for life～</a></div></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=幽雅に咲かせ、墨染の桜　～ Border of Life&amp;fromwiki=ゆゆさま_～hungry_for_life～_MMDデータCD"><span></span></a></span><div class="ogmusic"><a href="./幽雅に咲かせ、墨染の桜_～_Border_of_Life.md" class="mw-redirect" title="幽雅に咲かせ、墨染の桜 ～ Border of Life">幽雅に咲かせ、墨染の桜　～ Border of Life</a></div><div class="source"><a href="./东方妖妖梦_～_Perfect_Cherry_Blossom..md" class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr>
-<tr><td id="2" class="info"><b>02</b></td><td id="ゆゆさま_～hungry_for_life～_(Instrumental)" colspan="2" class="title">ゆゆさま ～hungry for life～ (Instrumental)<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=幽雅に咲かせ、墨染の桜　～ Border of Life&amp;fromwiki=ゆゆさま_～hungry_for_life～_MMDデータCD"><span title="搜索相似同人曲"></span></a></span></td><td class="time">05:11</td></tr><tr><td class="left"></td><td class="label">初发布</td><td class="text" colspan="2"><a href="/%E3%82%86%E3%82%86%E3%81%95%E3%81%BE_%EF%BD%9Ehungry_for_life%EF%BD%9E#1" title="ゆゆさま ～hungry for life～">ゆゆさま ～hungry for life～</a><div class="source"><a href="./ゆゆさま_～hungry_for_life～.md" title="ゆゆさま ～hungry for life～">ゆゆさま ～hungry for life～</a></div></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=幽雅に咲かせ、墨染の桜　～ Border of Life&amp;fromwiki=ゆゆさま_～hungry_for_life～_MMDデータCD"><span></span></a></span><div class="ogmusic"><a href="./幽雅に咲かせ、墨染の桜_～_Border_of_Life.md" class="mw-redirect" title="幽雅に咲かせ、墨染の桜 ～ Border of Life">幽雅に咲かせ、墨染の桜　～ Border of Life</a></div><div class="source"><a href="./东方妖妖梦_～_Perfect_Cherry_Blossom..md" class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr></tbody></table>
-
+<table><tbody><tr><td id="1" class="info"><b>01</b></td><td id="ゆゆさま_～hungry_for_life～" colspan="2" class="title">ゆゆさま ～hungry for life～</td><td class="time">05:13</td></tr><tr><td class="left"></td><td class="label">初发布</td><td class="text" colspan="2"><a href="./ゆゆさま_～hungry_for_life～.md#1" title="ゆゆさま ～hungry for life～">ゆゆさま ～hungry for life～</a><div class="source"><a href="./ゆゆさま_～hungry_for_life～.md" title="ゆゆさま ～hungry for life～">ゆゆさま ～hungry for life～</a></div></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./幽雅地绽放吧，墨染的樱花_～_Border_of_Life.md" class="mw-redirect" title="幽雅に咲かせ、墨染の桜 ～ Border of Life">幽雅に咲かせ、墨染の桜　～ Border of Life</a></div><div class="source"><a href="./东方妖妖梦.md" class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr>
+<tr><td id="2" class="info"><b>02</b></td><td id="ゆゆさま_～hungry_for_life～_(Instrumental)" colspan="2" class="title">ゆゆさま ～hungry for life～ (Instrumental)</td><td class="time">05:11</td></tr><tr><td class="left"></td><td class="label">初发布</td><td class="text" colspan="2"><a href="./ゆゆさま_～hungry_for_life～.md#1" title="ゆゆさま ～hungry for life～">ゆゆさま ～hungry for life～</a><div class="source"><a href="./ゆゆさま_～hungry_for_life～.md" title="ゆゆさま ～hungry for life～">ゆゆさま ～hungry for life～</a></div></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./幽雅地绽放吧，墨染的樱花_～_Border_of_Life.md" class="mw-redirect" title="幽雅に咲かせ、墨染の桜 ～ Border of Life">幽雅に咲かせ、墨染の桜　～ Border of Life</a></div><div class="source"><a href="./东方妖妖梦.md" class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr></tbody></table>
 
 
 ## 评论
-
-
-
 
 ---
 

@@ -1,27 +1,22 @@
 # ComicCreation
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\43\ns0%3AComicCreation.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\43\ns0%3AComicCreation.html -->
 
 コミッククリエイション 在 日本东京 举办的  全类型同人展会活动，目前共举办了2届
 
-本页是关于 **[同人展会](./同人展会.md#展会类活动)**   
-及 **[相关活动](./相关活动.md)** 的词条
-
+本页是关于**[同人展会](./活动.md#展会类活动)**  
+及**[相关活动](./活动.md)**的词条
 ## 概述
-文件:ComicCreation LOGO.jpg (未找到链接)  ComicCreation LOGO
+文件:ComicCreation LOGO.jpg (未找到链接) ComicCreation LOGO  
+<big>**ComicCreation**</big>（コミッククリエイション）。  
   
-<big> **ComicCreation** </big>（コミッククリエイション）。  
-  
-  
-  
-  
-日本 **东京** 的全类型 **同人[展会类活动](./展会类活动.md#展会类活动)** 。  
+日本**东京**的全类型**同人[展会类活动](./活动.md#展会类活动)**。  
   
 在东京举办。  
 直到目前为止，已经举办了2届（包含已决定将会举办）。  
 ComicCreation（活动，展会活动） - コミッククリエイション 在 日本东京 举办的  全类型同人展会活动，目前共举办了2届
-
 ## 历届信息
+
 - 点击届数可进入对应分类页面。
 - 请注意，摊位数统计可能不准确。
 - 举办日期以当地日期为准。
@@ -29,23 +24,9 @@ ComicCreation（活动，展会活动） - コミッククリエイション 在
 
 <table>
 <tbody><tr><th> </th><th>日期</th><th>地点</th><th>摊位数</th><th>全部摊位数</th><th>东方二次摊位占比</th></tr>
-<tr><td id="16"><b><a href="/展会作品列表?e=ComicCreation%2316">ComicCreation16</a></b></td><td id="ev-1">2004年11月03日</td><td>东京都 大田区产业广场PiO<br><small><span style="color:grey;">東京都 大田区産業プラザ PiO</span></small></td><td></td><td>-</td><td>-</td></tr>
-<tr><td id="18"><b><a href="/展会作品列表?e=ComicCreation%2318">ComicCreation18</a></b></td><td id="ev-2">2006年11月12日</td><td>东京都 大田区产业广场PiO<br><small><span style="color:grey;">東京都 大田区産業プラザ PiO</span></small></td><td></td><td>-</td><td>-</td></tr>
+<tr><td id="16"><b><a href="./展会作品列表.md#16">ComicCreation16</a></b></td><td id="ev-1">2004年11月03日</td><td>东京都 大田区产业广场PiO<br><small><span style="color:grey;">東京都 大田区産業プラザ PiO</span></small></td><td></td><td>-</td><td>-</td></tr>
+<tr><td id="18"><b><a href="./展会作品列表.md#18">ComicCreation18</a></b></td><td id="ev-2">2006年11月12日</td><td>东京都 大田区产业广场PiO<br><small><span style="color:grey;">東京都 大田区産業プラザ PiO</span></small></td><td></td><td>-</td><td>-</td></tr>
 </tbody></table>
-
-
-
-  
-  
-
-  
-
-  
-  
-
-
-
-
 
 
 ---

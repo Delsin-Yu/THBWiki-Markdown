@@ -1,12 +1,8 @@
 # 文件:T.H_INDUSTRYbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2b\ns6%3AT%2EH_INDUSTRYbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2b\ns6%3AT%2EH_INDUSTRYbanner%2Ejpg.html -->
 
 T.H_INDUSTRY | 社团LOGO
-
-
-
-
 
 
 ---

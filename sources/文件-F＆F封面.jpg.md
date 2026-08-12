@@ -1,6 +1,6 @@
 # 文件:F＆F封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8f\ns6%3AF%EF%BC%86F%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8f\ns6%3AF%EF%BC%86F%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 SYNCTRON | 专辑封面 | 封面图片
 
@@ -10,16 +10,12 @@ SYNCTRON | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [F＆F](./F＆F.md)  
-该封面包含的角色：- [梅蒂欣·梅兰可莉](./梅蒂欣·梅兰可莉.md)- [风见幽香](./风见幽香.md)
+- [F＆F](./F＆F.md)该封面包含的角色：
+- [梅蒂欣·梅兰可莉](./梅蒂欣·梅兰可莉.md)
+- [风见幽香](./风见幽香.md)
 
   
-源地址：[direct image link](https://www.suruga-ya.jp/database/pics_light/game/186118914.jpg), [source page (suruga-ya ID: 186118914)](https://www.suruga-ya.jp/product/detail/186118914)
-  
-
-
-
-
+源地址：[direct image link](https://www.suruga-ya.jp/database/pics_light/game/186118914.jpg), [source page (suruga-ya ID: 186118914)](https://www.suruga-ya.jp/product/detail/186118914)  
 
 ---
 

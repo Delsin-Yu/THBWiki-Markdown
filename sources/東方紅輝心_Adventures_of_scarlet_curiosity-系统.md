@@ -1,6 +1,6 @@
 # 東方紅輝心_Adventures_of_scarlet_curiosity/系统
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\27\ns0%3A%E6%9D%B1%E6%96%B9%E7%B4%85%E8%BC%9D%E5%BF%83_Adventures_of_scarlet_curiosity%2F%E7%B3%BB%E7%BB%9F.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\27\ns0%3A%E6%9D%B1%E6%96%B9%E7%B4%85%E8%BC%9D%E5%BF%83_Adventures_of_scarlet_curiosity%2F%E7%B3%BB%E7%BB%9F.html -->
 
 あんかけスパ
 
@@ -8,33 +8,25 @@
 点击图片可以看大图
   
 
-
 ## 目录
 
 - [1 环境设定](#环境设定)
 - [2 基本操作](#基本操作)
 - [3 画面要素](#画面要素)
 - [4 菜单画面](#菜单画面)
-
   - [4.1 技能选择](#技能选择)
   - [4.2 装备选择](#装备选择)
 
 
-
 - [5 其他](#其他)
-
   - [5.1 储存进度](#储存进度)
   - [5.2 香霖堂](#香霖堂)
 
 
 
 
-
-
-
-
 ## 环境设定
-[](./文件-东方红辉心系统说明1.jpg.md)
+<img alt="东方红辉心系统说明1.jpg" src="https://upload.thwiki.cc/thumb/c/ce/%E4%B8%9C%E6%96%B9%E7%BA%A2%E8%BE%89%E5%BF%83%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E1.jpg/200px-%E4%B8%9C%E6%96%B9%E7%BA%A2%E8%BE%89%E5%BF%83%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E1.jpg" decoding="async" loading="lazy" width="200" height="211" srcset="https://upload.thwiki.cc/thumb/c/ce/%E4%B8%9C%E6%96%B9%E7%BA%A2%E8%BE%89%E5%BF%83%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E1.jpg/300px-%E4%B8%9C%E6%96%B9%E7%BA%A2%E8%BE%89%E5%BF%83%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E1.jpg 1.5x, https://upload.thwiki.cc/thumb/c/ce/%E4%B8%9C%E6%96%B9%E7%BA%A2%E8%BE%89%E5%BF%83%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E1.jpg/400px-%E4%B8%9C%E6%96%B9%E7%BA%A2%E8%BE%89%E5%BF%83%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E1.jpg 2x" data-file-width="410" data-file-height="432">
 左侧-画质选项
 : 分辨率  
 画质（下拉菜单-自定义、低、中、高、最高）  
@@ -55,30 +47,25 @@ ShaderModel3.0（插件）
 关闭windows视觉主题  
 抗锯齿  
 强制使fps上限为30
-
   
 如果可以的话请使用applocale加载游戏以避免乱码。  
 
-设定以及存档存放于以下文件中，可以直接在地址栏输入 **%appdata%\AnnkakeSpa\Kokishin** 来跳转。  
+设定以及存档存放于以下文件中，可以直接在地址栏输入**%appdata%\AnnkakeSpa\Kokishin**来跳转。  
 
 （XP）C:\Documents and Settings\用户名\Application Data\AnnkakeSpa\Kokishin  
 
 （8/7/VISTA）C:\Users\用户名\AppData\Roaming\AnnkakeSpa\Kokishin  
-
   
 
-
-
 ## 基本操作
-[](./文件-东方红辉心系统说明2.jpg.md)
+<img alt="东方红辉心系统说明2.jpg" src="https://upload.thwiki.cc/thumb/9/95/%E4%B8%9C%E6%96%B9%E7%BA%A2%E8%BE%89%E5%BF%83%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E2.jpg/200px-%E4%B8%9C%E6%96%B9%E7%BA%A2%E8%BE%89%E5%BF%83%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E2.jpg" decoding="async" loading="lazy" width="200" height="211" srcset="https://upload.thwiki.cc/thumb/9/95/%E4%B8%9C%E6%96%B9%E7%BA%A2%E8%BE%89%E5%BF%83%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E2.jpg/300px-%E4%B8%9C%E6%96%B9%E7%BA%A2%E8%BE%89%E5%BF%83%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E2.jpg 1.5x, https://upload.thwiki.cc/thumb/9/95/%E4%B8%9C%E6%96%B9%E7%BA%A2%E8%BE%89%E5%BF%83%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E2.jpg/400px-%E4%B8%9C%E6%96%B9%E7%BA%A2%E8%BE%89%E5%BF%83%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E2.jpg 2x" data-file-width="410" data-file-height="432">
   
 注意，请务必先打开AnkakeConfig.exe，设置好按键再进入游戏。  
 
-支持手柄，需要使用键盘操作的话，请点击 **ゲームパッド** 并切换为 **キーボード** 。  
+支持手柄，需要使用键盘操作的话，请点击**ゲームパッド**并切换为**キーボード**。  
 
 可以点击相应操作右侧的下拉箭头来自定义按键。
   
-
 右侧-方向键
 : (游戏中)控制角色移动。(菜单中)控制光标移动。
 攻击/决定键(通常斬り)
@@ -94,10 +81,8 @@ ShaderModel3.0（插件）
 暂停键（ポーズ）
 : (游戏中)跳转到菜单界面。
 
-
-
 ## 画面要素
-[](./文件-东方红辉心系统说明3.jpg.md)
+<img alt="东方红辉心系统说明3.jpg" src="https://upload.thwiki.cc/thumb/b/b9/%E4%B8%9C%E6%96%B9%E7%BA%A2%E8%BE%89%E5%BF%83%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E3.jpg/200px-%E4%B8%9C%E6%96%B9%E7%BA%A2%E8%BE%89%E5%BF%83%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E3.jpg" decoding="async" loading="lazy" width="200" height="113" srcset="https://upload.thwiki.cc/thumb/b/b9/%E4%B8%9C%E6%96%B9%E7%BA%A2%E8%BE%89%E5%BF%83%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E3.jpg/300px-%E4%B8%9C%E6%96%B9%E7%BA%A2%E8%BE%89%E5%BF%83%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E3.jpg 1.5x, https://upload.thwiki.cc/thumb/b/b9/%E4%B8%9C%E6%96%B9%E7%BA%A2%E8%BE%89%E5%BF%83%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E3.jpg/400px-%E4%B8%9C%E6%96%B9%E7%BA%A2%E8%BE%89%E5%BF%83%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E3.jpg 2x" data-file-width="1000" data-file-height="563">
 角色（プレイヤーキャラ）
 : 本游戏的主角，操作她来进行游戏。
 敌人（敵キャラクター）
@@ -119,58 +104,47 @@ ShaderModel3.0（插件）
 FPS表示
 : 当前FPS数值，如果过低则需要降低显示设置（正常情况下为绿色）。config中可以关闭此数值的显示。
 
-
-
 ## 菜单画面
   
-四个选项为 **技能选择** ， **装备选择** ， **阅读新闻** ， **返回大地图** 。返回游戏请使用之前设定的“跳跃（ジャンプ）”键。  
+四个选项为**技能选择**，**装备选择**，**阅读新闻**，**返回大地图**。返回游戏请使用之前设定的“跳跃（ジャンプ）”键。  
 
 游戏中任何时候都可以使用第四个选项来回到大地图界面。  
 
-大地图中使用第五个选项可以 **返回游戏主菜单** 。
+大地图中使用第五个选项可以**返回游戏主菜单**。
   
 
-
 ### 技能选择
-[](./文件-东方红辉心系统说明4.jpg.md)
+<img alt="东方红辉心系统说明4.jpg" src="https://upload.thwiki.cc/thumb/a/aa/%E4%B8%9C%E6%96%B9%E7%BA%A2%E8%BE%89%E5%BF%83%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E4.jpg/200px-%E4%B8%9C%E6%96%B9%E7%BA%A2%E8%BE%89%E5%BF%83%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E4.jpg" decoding="async" loading="lazy" width="200" height="112" srcset="https://upload.thwiki.cc/thumb/a/aa/%E4%B8%9C%E6%96%B9%E7%BA%A2%E8%BE%89%E5%BF%83%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E4.jpg/300px-%E4%B8%9C%E6%96%B9%E7%BA%A2%E8%BE%89%E5%BF%83%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E4.jpg 1.5x, https://upload.thwiki.cc/thumb/a/aa/%E4%B8%9C%E6%96%B9%E7%BA%A2%E8%BE%89%E5%BF%83%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E4.jpg/400px-%E4%B8%9C%E6%96%B9%E7%BA%A2%E8%BE%89%E5%BF%83%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E4.jpg 2x" data-file-width="1028" data-file-height="577">
   
 详细的技能说明请参考[技能说明](./東方紅輝心_Adventures_of_scarlet_curiosity-技能.md)页面。
   
   
-中间为已习得技能列表以及技能的消耗，带有 **[E]** 字样的技能表示技能装备中，带有 **（スペル）** 字样的表示符卡。最多可以同时装备三个技能。  
+中间为已习得技能列表以及技能的消耗，带有**[E]**字样的技能表示技能装备中，带有**（スペル）**字样的表示符卡。最多可以同时装备三个技能。  
 
 下方为当前选定技能的说明以及攻击力（ダメージ），会随着角色本身的属性变化而变化。  
 
-右侧为已装备技能列表。选定之后按确定键则会出现 **更换、解除、返回** 三个选项。  
+右侧为已装备技能列表。选定之后按确定键则会出现**更换、解除、返回**三个选项。  
 
 右下方为角色的基本属性。左侧：血量、灵力、符力、下一级所需经验。右侧：基础攻击力、灵力（スキル）恢复速度、暴击率、暴击伤害、道具掉落率加成（アイテムドロップ）。
   
 
-
-
 ### 装备选择
-[](./文件-东方红辉心系统说明5.jpg.md)
+<img alt="东方红辉心系统说明5.jpg" src="https://upload.thwiki.cc/thumb/0/06/%E4%B8%9C%E6%96%B9%E7%BA%A2%E8%BE%89%E5%BF%83%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E5.jpg/200px-%E4%B8%9C%E6%96%B9%E7%BA%A2%E8%BE%89%E5%BF%83%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E5.jpg" decoding="async" loading="lazy" width="200" height="113" srcset="https://upload.thwiki.cc/thumb/0/06/%E4%B8%9C%E6%96%B9%E7%BA%A2%E8%BE%89%E5%BF%83%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E5.jpg/300px-%E4%B8%9C%E6%96%B9%E7%BA%A2%E8%BE%89%E5%BF%83%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E5.jpg 1.5x, https://upload.thwiki.cc/thumb/0/06/%E4%B8%9C%E6%96%B9%E7%BA%A2%E8%BE%89%E5%BF%83%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E5.jpg/400px-%E4%B8%9C%E6%96%B9%E7%BA%A2%E8%BE%89%E5%BF%83%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E5.jpg 2x" data-file-width="1025" data-file-height="577">
   
 详细的装备说明请参考装备说明 (未找到链接)页面。
   
   
 打开箱子或者击倒敌人后会掉落物品袋，站在附近按攻击键可以捡起物品。
-物品分为 **武器** 、 **身体** 、 **饰品** 三类，每种类别的装备只能放在对应栏位，同时只能装备一件。  
+物品分为**武器**、**身体**、**饰品**三类，每种类别的装备只能放在对应栏位，同时只能装备一件。  
 
 在最右侧选定栏位之后，中间的列表就会出现可以替换的装备列表。粉色和金色字体显示的装备为稀有装备。  
 
 光标悬停在新的装备上时，角色的属性栏后会显示替换掉装备中的物品之后的属性，便于对比。  
-
-注意：即使是同名的装备，属性也可能有不少差别，不要随手给卖了。
-  
-
-
+注意：即使是同名的装备，属性也可能有不少差别，不要随手给卖了。  
 
 ## 其他
   
-[官方游戏说明书页面](http://ankake.iza-yoi.net/kouki/manual.htm)
-  
-
+[官方游戏说明书页面](http://ankake.iza-yoi.net/kouki/manual.htm)  
 
 ### 储存进度
   
@@ -184,7 +158,6 @@ FPS表示
 大地图中暂停菜单最后一个选项则可以回到游戏主菜单。
   
 
-
 ### 香霖堂
   
 图书馆剧情结束后，在地图上会出现香霖堂。可以用金币购买道具。  
@@ -192,15 +165,10 @@ FPS表示
 虽然道具数量有限，但是每次出门再进去的话，道具会重新刷新一遍属性。  
 
 卖出去的道具可以在购买界面找到，但是同样的，出门再回来的话就会全部消失。  
-
 那几个黄金色标示的道具是挑战型道具，带上扣属性的。  
 
 1.30版本中新增加了扭蛋机。一些特殊装备在扭蛋机中有较大几率抽出。
   
-
-
-
-
 
 ---
 

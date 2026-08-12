@@ -1,12 +1,8 @@
 # 文件:娜兹玲_通常弹幕（DS文花帖）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\14\ns6%3A%E5%A8%9C%E5%85%B9%E7%8E%B2_%E9%80%9A%E5%B8%B8%E5%BC%B9%E5%B9%95%EF%BC%88DS%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\14\ns6%3A%E5%A8%9C%E5%85%B9%E7%8E%B2_%E9%80%9A%E5%B8%B8%E5%BC%B9%E5%B9%95%EF%BC%88DS%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Ejpg.html -->
 
 东方文花帖DS | 娜兹玲
-
-
-
-
 
 
 ---

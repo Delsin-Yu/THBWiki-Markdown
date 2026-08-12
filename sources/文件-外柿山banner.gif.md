@@ -1,12 +1,8 @@
 # 文件:外柿山banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\ba\ns6%3A%E5%A4%96%E6%9F%BF%E5%B1%B1banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\ba\ns6%3A%E5%A4%96%E6%9F%BF%E5%B1%B1banner%2Egif.html -->
 
 外柿山 | 社团LOGO
-
-
-
-
 
 
 ---

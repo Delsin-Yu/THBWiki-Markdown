@@ -1,6 +1,6 @@
 # 文件:5AM_in_GENSOUKYO_TO-HO_ChillOut_Arrange_Package封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\83\ns6%3A5AM_in_GENSOUKYO_TO-HO_ChillOut_Arrange_Package%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\83\ns6%3A5AM_in_GENSOUKYO_TO-HO_ChillOut_Arrange_Package%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 dat_file_records | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ dat_file_records | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [5AM in GENSOUKYO TO-HO ChillOut Arrange Package](./5AM_in_GENSOUKYO_TO-HO_ChillOut_Arrange_Package.md)  
-该封面包含的角色：- 原创角色 (未找到链接)
-
-
-
+- [5AM in GENSOUKYO TO-HO ChillOut Arrange Package](./5AM_in_GENSOUKYO_TO-HO_ChillOut_Arrange_Package.md)该封面包含的角色：
+- 原创角色 (未找到链接)
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:直立不動で愚者の認定を受ける_banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b4\ns6%3A%E7%9B%B4%E7%AB%8B%E4%B8%8D%E5%8B%95%E3%81%A7%E6%84%9A%E8%80%85%E3%81%AE%E8%AA%8D%E5%AE%9A%E3%82%92%E5%8F%97%E3%81%91%E3%82%8B_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b4\ns6%3A%E7%9B%B4%E7%AB%8B%E4%B8%8D%E5%8B%95%E3%81%A7%E6%84%9A%E8%80%85%E3%81%AE%E8%AA%8D%E5%AE%9A%E3%82%92%E5%8F%97%E3%81%91%E3%82%8B_banner%2Ejpg.html -->
 
 直立不動で愚者の認定を受ける | 社团LOGO
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:556mm_THE_BEST_Vol.01_-Dancing_Girls_Best-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f6\ns6%3A556mm_THE_BEST_Vol%2E01_-Dancing_Girls_Best-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f6\ns6%3A556mm_THE_BEST_Vol%2E01_-Dancing_Girls_Best-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 556ミリメートル | 专辑封面 | 封面图片
 
@@ -8,11 +8,15 @@
 使用了本文件作封面图片的作品：
   
 
-- [556mm THE BEST Vol.01 -Dancing Girls Best-](./556mm_THE_BEST_Vol.01_-Dancing_Girls_Best-.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- 十六夜咲夜 (未找到链接)- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)- [魂魄妖梦](./魂魄妖梦.md)- [西行寺幽幽子](./西行寺幽幽子.md)- [八云紫](./八云紫.md)- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)- [物部布都](./物部布都.md)
-
-
-
+- [556mm THE BEST Vol.01 -Dancing Girls Best-](./556mm_THE_BEST_Vol.01_-Dancing_Girls_Best-.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [十六夜咲夜](./十六夜咲夜.md)
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [魂魄妖梦](./魂魄妖梦.md)
+- [西行寺幽幽子](./西行寺幽幽子.md)
+- [八云紫](./八云紫.md)
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
+- [物部布都](./物部布都.md)
 
 
 ---

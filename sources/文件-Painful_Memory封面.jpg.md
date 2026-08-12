@@ -1,6 +1,6 @@
 # 文件:Painful_Memory封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7e\ns6%3APainful_Memory%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7e\ns6%3APainful_Memory%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Re：glimmer | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Re：glimmer | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Painful Memory](./Painful_Memory.md)  
-该封面包含的角色：- [古明地觉](./古明地觉.md)
-
-
-
+- [Painful Memory](./Painful_Memory.md)该封面包含的角色：
+- [古明地觉](./古明地觉.md)
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:冥加「Behind_You」（天空璋）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\79\ns6%3A%E5%86%A5%E5%8A%A0%E3%80%8CBehind_You%E3%80%8D%EF%BC%88%E5%A4%A9%E7%A9%BA%E7%92%8B%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\79\ns6%3A%E5%86%A5%E5%8A%A0%E3%80%8CBehind_You%E3%80%8D%EF%BC%88%E5%A4%A9%E7%A9%BA%E7%92%8B%EF%BC%89%2Ejpg.html -->
 
 东方天空璋 | 尔子田里乃 | 敌机符卡
-
-
-
-
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:时符「Mysterious_Jack」（花映塚）1.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e2\ns6%3A%E6%97%B6%E7%AC%A6%E3%80%8CMysterious_Jack%E3%80%8D%EF%BC%88%E8%8A%B1%E6%98%A0%E5%A1%9A%EF%BC%891%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e2\ns6%3A%E6%97%B6%E7%AC%A6%E3%80%8CMysterious_Jack%E3%80%8D%EF%BC%88%E8%8A%B1%E6%98%A0%E5%A1%9A%EF%BC%891%2Epng.html -->
 
 东方花映塚 | 十六夜咲夜
-
-
-
-
 
 
 ---

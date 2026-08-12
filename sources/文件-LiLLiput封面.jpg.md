@@ -1,6 +1,6 @@
 # 文件:LiLLiput封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a7\ns6%3ALiLLiput%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a7\ns6%3ALiLLiput%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 MICMNIS | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ MICMNIS | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [LiLLiput](./LiLLiput.md)  
-该封面包含的角色：- [少名针妙丸](./少名针妙丸.md)
+- [LiLLiput](./LiLLiput.md)该封面包含的角色：
+- [少名针妙丸](./少名针妙丸.md)
 
   
-源地址：[[1]](http://micmnis.net/wp-content/uploads/2015/04/LiLLiput.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://micmnis.net/wp-content/uploads/2015/04/LiLLiput.jpg)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:RecipRoomba_5th_part封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\87\ns6%3ARecipRoomba_5th_part%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\87\ns6%3ARecipRoomba_5th_part%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 IMINIC | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@ IMINIC | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [RecipRoomba 5th part](./RecipRoomba_5th_part.md)  
-该封面包含的角色：- [因幡帝](./因幡帝.md)
-
-
-
+- [RecipRoomba 5th part](./RecipRoomba_5th_part.md)该封面包含的角色：
+- [因幡帝](./因幡帝.md)
 
 
 ---

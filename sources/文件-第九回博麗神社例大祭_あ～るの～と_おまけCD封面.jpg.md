@@ -1,6 +1,6 @@
 # 文件:第九回博麗神社例大祭_あ～るの～と_おまけCD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b9\ns6%3A%E7%AC%AC%E4%B9%9D%E5%9B%9E%E5%8D%9A%E9%BA%97%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD_%E3%81%82%EF%BD%9E%E3%82%8B%E3%81%AE%EF%BD%9E%E3%81%A8_%E3%81%8A%E3%81%BE%E3%81%91CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b9\ns6%3A%E7%AC%AC%E4%B9%9D%E5%9B%9E%E5%8D%9A%E9%BA%97%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD_%E3%81%82%EF%BD%9E%E3%82%8B%E3%81%AE%EF%BD%9E%E3%81%A8_%E3%81%8A%E3%81%BE%E3%81%91CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 R-note | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ R-note | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [第九回博麗神社例大祭 あ～るの～と おまけCD](./第九回博麗神社例大祭_あ～るの～と_おまけCD.md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)- [西行寺幽幽子](./西行寺幽幽子.md)
-
-
-
+- [第九回博麗神社例大祭 あ～るの～と おまけCD](./第九回博麗神社例大祭_あ～るの～と_おまけCD.md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
+- [西行寺幽幽子](./西行寺幽幽子.md)
 
 
 ---

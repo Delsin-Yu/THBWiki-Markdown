@@ -1,6 +1,6 @@
 # 文件:BREAKIN'_FEAST封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4d\ns6%3ABREAKIN%27_FEAST%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4d\ns6%3ABREAKIN%27_FEAST%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ごりら公園 | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [BREAKIN' FEAST](./BREAKIN'_FEAST.md)  
-该封面包含的角色：- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
-
-
-
+- [BREAKIN' FEAST](./BREAKIN'_FEAST.md)该封面包含的角色：
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
 
 
 ---

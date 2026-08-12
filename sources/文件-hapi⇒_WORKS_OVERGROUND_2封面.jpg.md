@@ -1,6 +1,6 @@
 # 文件:hapi⇒_WORKS_OVERGROUND_2封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bd\ns6%3Ahapi%E2%87%92_WORKS_OVERGROUND_2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bd\ns6%3Ahapi%E2%87%92_WORKS_OVERGROUND_2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 SBFR | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ SBFR | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [hapi⇒ WORKS OVERGROUND 2](./hapi⇒_WORKS_OVERGROUND_2.md)  
-该封面包含的角色：- 原创角色 (未找到链接)
-
-
-
+- [hapi⇒ WORKS OVERGROUND 2](./hapi⇒_WORKS_OVERGROUND_2.md)该封面包含的角色：
+- 原创角色 (未找到链接)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:BEST_selection_Ⅲ_-彩音_～xi-on～ベスト-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\82\ns6%3ABEST_selection_%E2%85%A2_-%E5%BD%A9%E9%9F%B3_%EF%BD%9Exi-on%EF%BD%9E%E3%83%99%E3%82%B9%E3%83%88-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\82\ns6%3ABEST_selection_%E2%85%A2_-%E5%BD%A9%E9%9F%B3_%EF%BD%9Exi-on%EF%BD%9E%E3%83%99%E3%82%B9%E3%83%88-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 彩音_～xi-on～
 
@@ -10,11 +10,19 @@
 使用了本文件作封面图片的作品：
   
 
-- [BEST selection Ⅲ -彩音 ～xi-on～ベスト-](./BEST_selection_Ⅲ_-彩音_～xi-on～ベスト-.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)- 十六夜咲夜 (未找到链接)- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [魂魄妖梦](./魂魄妖梦.md)- [八云紫](./八云紫.md)- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)- [风见幽香](./风见幽香.md)- [东风谷早苗](./东风谷早苗.md)- [古明地觉](./古明地觉.md)- [霍青娥](./霍青娥.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [BEST selection Ⅲ -彩音 ～xi-on～ベスト-](./BEST_selection_Ⅲ_-彩音_～xi-on～ベスト-.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
+- [十六夜咲夜](./十六夜咲夜.md)
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [魂魄妖梦](./魂魄妖梦.md)
+- [八云紫](./八云紫.md)
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
+- [风见幽香](./风见幽香.md)
+- [东风谷早苗](./东风谷早苗.md)
+- [古明地觉](./古明地觉.md)
+- [霍青娥](./霍青娥.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

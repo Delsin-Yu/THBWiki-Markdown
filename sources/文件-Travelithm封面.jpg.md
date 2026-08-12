@@ -1,6 +1,6 @@
 # 文件:Travelithm封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bd\ns6%3ATravelithm%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bd\ns6%3ATravelithm%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Antipole_Sounds | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ Antipole_Sounds | 专辑封面 | 封面图片
   
 
 - [Travelithm](./Travelithm.md)
-
-
-
 
 
 ---

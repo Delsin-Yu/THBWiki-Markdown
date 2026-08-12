@@ -1,12 +1,8 @@
 # 文件:D.N.A..jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d6\ns6%3AD%2EN%2EA%2E%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d6\ns6%3AD%2EN%2EA%2E%2Ejpg.html -->
 
 D.N.A.
-
-
-
-
 
 
 ---

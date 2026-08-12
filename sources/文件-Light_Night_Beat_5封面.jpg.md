@@ -1,6 +1,6 @@
 # 文件:Light_Night_Beat_5封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fb\ns6%3ALight_Night_Beat_5%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fb\ns6%3ALight_Night_Beat_5%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 はちみつれもん | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Light Night Beat 5](./Light_Night_Beat_5.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [Light Night Beat 5](./Light_Night_Beat_5.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
 
   
-源地址：[[1]](https://secure.static.tumblr.com/ed7292d0a40b502ee749517a37402133/yj4vca2/kn3oi7wsr/tumblr_static_ehw5un4r09kco0gsc0csocgg8.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://secure.static.tumblr.com/ed7292d0a40b502ee749517a37402133/yj4vca2/kn3oi7wsr/tumblr_static_ehw5un4r09kco0gsc0csocgg8.jpg)  
 
 ---
 

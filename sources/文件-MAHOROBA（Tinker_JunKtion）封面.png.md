@@ -1,6 +1,6 @@
 # 文件:MAHOROBA（Tinker_JunKtion）封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\41\ns6%3AMAHOROBA%EF%BC%88Tinker_JunKtion%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\41\ns6%3AMAHOROBA%EF%BC%88Tinker_JunKtion%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Tinker_JunKtion | 专辑封面 | 封面图片
 
@@ -11,12 +11,7 @@ Tinker_JunKtion | 专辑封面 | 封面图片
 - [MAHOROBA（Tinker JunKtion）](./MAHOROBA（Tinker_JunKtion）.md)
 
   
-源地址：[[1]](http://static.tumblr.com/a60c10ca74517177f5ed81c54ecee169/i6lsuvq/cnKnwcgcu/tumblr_static_4ceqhi9elias4k4wck080ckc.png)
-  
-
-
-
-
+源地址：[\[1\]](http://static.tumblr.com/a60c10ca74517177f5ed81c54ecee169/i6lsuvq/cnKnwcgcu/tumblr_static_4ceqhi9elias4k4wck080ckc.png)  
 
 ---
 

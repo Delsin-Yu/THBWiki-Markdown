@@ -1,6 +1,6 @@
 # 文件:EcHo！_-エコー！-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\87\ns6%3AEcHo%EF%BC%81_-%E3%82%A8%E3%82%B3%E3%83%BC%EF%BC%81-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\87\ns6%3AEcHo%EF%BC%81_-%E3%82%A8%E3%82%B3%E3%83%BC%EF%BC%81-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 K2_SOUND | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ K2_SOUND | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [EcHo！ -エコー！-](./EcHo！_-エコー！-.md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)- [物部布都](./物部布都.md)
-
-
-
+- [EcHo！ -エコー！-](./EcHo！_-エコー！-.md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
+- [物部布都](./物部布都.md)
 
 
 ---

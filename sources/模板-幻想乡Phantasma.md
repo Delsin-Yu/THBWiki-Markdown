@@ -1,16 +1,12 @@
 # 模板:幻想乡Phantasma
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\e\e6\ns10%3A%E5%B9%BB%E6%83%B3%E4%B9%A1Phantasma.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\e\e6\ns10%3A%E5%B9%BB%E6%83%B3%E4%B9%A1Phantasma.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:8bit+Band+Dance東方アレンジCD_～霧雨魔法典3～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cb\ns6%3A8bit%2BBand%2BDance%E6%9D%B1%E6%96%B9%E3%82%A2%E3%83%AC%E3%83%B3%E3%82%B8CD_%EF%BD%9E%E9%9C%A7%E9%9B%A8%E9%AD%94%E6%B3%95%E5%85%B83%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cb\ns6%3A8bit%2BBand%2BDance%E6%9D%B1%E6%96%B9%E3%82%A2%E3%83%AC%E3%83%B3%E3%82%B8CD_%EF%BD%9E%E9%9C%A7%E9%9B%A8%E9%AD%94%E6%B3%95%E5%85%B83%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 PHOENIX_Project | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ PHOENIX_Project | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [8bit+Band+Dance東方アレンジCD ～霧雨魔法典3～](./8bit+Band+Dance東方アレンジCD_～霧雨魔法典3～.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [8bit+Band+Dance東方アレンジCD ～霧雨魔法典3～](./8bit+Band+Dance東方アレンジCD_～霧雨魔法典3～.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

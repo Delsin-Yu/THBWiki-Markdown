@@ -1,12 +1,8 @@
 # 文件:ついったー東方部banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5b\ns6%3A%E3%81%A4%E3%81%84%E3%81%A3%E3%81%9F%E3%83%BC%E6%9D%B1%E6%96%B9%E9%83%A8banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5b\ns6%3A%E3%81%A4%E3%81%84%E3%81%A3%E3%81%9F%E3%83%BC%E6%9D%B1%E6%96%B9%E9%83%A8banner%2Epng.html -->
 
 ついったー東方部 | 社团LOGO
-
-
-
-
 
 
 ---

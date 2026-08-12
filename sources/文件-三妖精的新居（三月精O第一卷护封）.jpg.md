@@ -1,12 +1,8 @@
 # 文件:三妖精的新居（三月精O第一卷护封）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6a\ns6%3A%E4%B8%89%E5%A6%96%E7%B2%BE%E7%9A%84%E6%96%B0%E5%B1%85%EF%BC%88%E4%B8%89%E6%9C%88%E7%B2%BEO%E7%AC%AC%E4%B8%80%E5%8D%B7%E6%8A%A4%E5%B0%81%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6a\ns6%3A%E4%B8%89%E5%A6%96%E7%B2%BE%E7%9A%84%E6%96%B0%E5%B1%85%EF%BC%88%E4%B8%89%E6%9C%88%E7%B2%BEO%E7%AC%AC%E4%B8%80%E5%8D%B7%E6%8A%A4%E5%B0%81%EF%BC%89%2Ejpg.html -->
 
 三妖精的家 | 东方三月精
-
-
-
-
 
 
 ---

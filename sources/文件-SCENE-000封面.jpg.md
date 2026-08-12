@@ -1,6 +1,6 @@
 # 文件:SCENE-000封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2e\ns6%3ASCENE-000%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2e\ns6%3ASCENE-000%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 GP-KIDS | 同人志封面 | 封面图片
 
@@ -10,16 +10,14 @@ GP-KIDS | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [SCENE-000](./SCENE-000.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)- [博丽灵梦](./博丽灵梦.md)- [东风谷早苗](./东风谷早苗.md)
+- [SCENE-000](./SCENE-000.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
+- [博丽灵梦](./博丽灵梦.md)
+- [东风谷早苗](./东风谷早苗.md)
 
   
-[Pixiv artwork ID: 37575682](https://www.pixiv.net/artworks/37575682)
-  
-
-
-
-
+[Pixiv artwork ID: 37575682](https://www.pixiv.net/artworks/37575682)  
 
 ---
 

@@ -1,16 +1,11 @@
 # 文件:ぜのさいどbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\01\ns6%3A%E3%81%9C%E3%81%AE%E3%81%95%E3%81%84%E3%81%A9banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\01\ns6%3A%E3%81%9C%E3%81%AE%E3%81%95%E3%81%84%E3%81%A9banner%2Ejpg.html -->
 
 ぜのさいど | 社团LOGO
 
   
-源地址：[[1]](http://blog-imgs-47-origin.fc2.com/z/e/n/zenoside/2011110607355548e.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://blog-imgs-47-origin.fc2.com/z/e/n/zenoside/2011110607355548e.jpg)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:シークレットリンケージ-Secret_Linkage-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\14\ns6%3A%E3%82%B7%E3%83%BC%E3%82%AF%E3%83%AC%E3%83%83%E3%83%88%E3%83%AA%E3%83%B3%E3%82%B1%E3%83%BC%E3%82%B8-Secret_Linkage-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\14\ns6%3A%E3%82%B7%E3%83%BC%E3%82%AF%E3%83%AC%E3%83%83%E3%83%88%E3%83%AA%E3%83%B3%E3%82%B1%E3%83%BC%E3%82%B8-Secret_Linkage-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 SYNC.ART'S | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ SYNC.ART'S | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [シークレットリンケージ-Secret Linkage-](./シークレットリンケージ-Secret_Linkage-.md)  
-该封面包含的角色：- [古明地恋](./古明地恋.md)
-
-
-
+- [シークレットリンケージ-Secret Linkage-](./シークレットリンケージ-Secret_Linkage-.md)该封面包含的角色：
+- [古明地恋](./古明地恋.md)
 
 
 ---

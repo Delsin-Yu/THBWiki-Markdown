@@ -1,14 +1,10 @@
 # 分类:官方音乐CD
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\1\1c\ns14%3A%E5%AE%98%E6%96%B9%E9%9F%B3%E4%B9%90CD.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\1\1c\ns14%3A%E5%AE%98%E6%96%B9%E9%9F%B3%E4%B9%90CD.html -->
 
 官方音乐
 
-: 此分类页面的主词条是 **[官方音乐CD](./官方音乐CD.md)** 。
-
-
-
-
+: 此分类页面的主词条是**[官方音乐CD](./官方音乐CD.md)**。
 
 ---
 

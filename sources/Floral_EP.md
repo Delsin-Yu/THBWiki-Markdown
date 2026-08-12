@@ -1,12 +1,11 @@
 # Floral_EP
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\8\8e\ns0%3AFloral_EP.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\8\8e\ns0%3AFloral_EP.html -->
 
 2023年4月9日 由 月華社  发布的EP同人专辑，曲目主要风格是 其他电子，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人专辑 (未找到链接)** 的词条
-
+**[二次创作同人专辑](./二次创作.md#同人音乐)**的词条
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Floral_EP封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/0/0b/Floral_EP%E5%B0%81%E9%9D%A2.jpg/280px-Floral_EP%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="280" height="280" srcset="https://upload.thwiki.cc/thumb/0/0b/Floral_EP%E5%B0%81%E9%9D%A2.jpg/420px-Floral_EP%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/0/0b/Floral_EP%E5%B0%81%E9%9D%A2.jpg/560px-Floral_EP%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1200" data-file-height="1200"></a><div class="cover-char">角色：<a href="./莉莉霍瓦特.md" title="莉莉霍瓦特">莉莉霍瓦特</a></div></td>
@@ -15,28 +14,22 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://www.dizzylab.net/d/GKCD-005/">http://www.dizzylab.net/d/GKCD-005/</a><br><a rel="nofollow" class="external free" href="https://gekkasound.booth.pm/items/4678169">https://gekkasound.booth.pm/items/4678169</a></td></tr><tr><td class="label">备注</td><td colspan="2">5th Album</td></tr></tbody></table>
 
 Floral EP（同人专辑，月華社，2023） - 2023年4月9日 由 月華社  发布的EP同人专辑，曲目主要风格是 其他电子，分级为 一般向
-
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.dizzylab.net/d/GKCD-005">dizzylab</a>，<a rel="nofollow" class="external text" href="https://item.taobao.com/item.htm?id=711522628408">淘宝</a>，<a rel="nofollow" class="external text" href="https://gekkasound.booth.pm/items/4678169">Booth</a></td></tr></tbody></table>
-
 
 
 ## Staff
   
- **Arrangement**   
+**Arrangement**  
 
 <table><tbody><tr><td><a href="./Khrisma.md" title="Khrisma">Khrisma</a></td><td><a href="./月華社.md" title="月華社">月華社</a></td><td>Tr.1-5</td></tr></tbody></table>
-
 
 Design
 : Khrisma
 Illustration
 : 行方不明（封面），稗野（内页特典）
 
-
 ## 试听
   
-
-
   
 
 <table>
@@ -45,22 +38,16 @@ Illustration
 </table>
 
 
-
-
-
-
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="春の木漏れ日" colspan="2" class="title">春の木漏れ日<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Khrisma&amp;ogmusic=春の湊に&amp;fromwiki=Floral_EP"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:35</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Khrisma.md" title="Khrisma">Khrisma</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Khrisma，&amp;fromwiki=Floral_EP"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=春の湊に&amp;fromwiki=Floral_EP"><span></span></a></span><div class="ogmusic"><a href="./春の湊に.md" class="mw-redirect" title="春の湊に">春の湊に</a></div><div class="source"><a href="./东方星莲船_～_Undefined_Fantastic_Object..md" class="mw-redirect" title="东方星莲船 ～ Undefined Fantastic Object.">东方星莲船　～ Undefined Fantastic Object.</a></div></td></tr>
-<tr><td id="2" class="infoYD"><b>02</b></td><td id="Lluvia" colspan="2" class="title">Lluvia<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Khrisma&amp;ogmusic=さくらさくら　～ Japanize Dream...&amp;fromwiki=Floral_EP"><span title="搜索相似同人曲"></span></a></span></td><td class="time">06:37</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Khrisma.md" title="Khrisma">Khrisma</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Khrisma&amp;fromwiki=Floral_EP"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=さくらさくら　～ Japanize Dream...&amp;fromwiki=Floral_EP"><span></span></a></span><div class="ogmusic"><a href="./さくらさくら_～_Japanize_Dream....md" class="mw-redirect" title="さくらさくら ～ Japanize Dream...">さくらさくら　～ Japanize Dream...</a></div><div class="source"><a href="./东方妖妖梦_～_Perfect_Cherry_Blossom..md" class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr>
-<tr><td id="3" class="infoYD"><b>03</b></td><td id="Make_it_Better_With_Me_Now" colspan="2" class="title">Make it Better With Me Now<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Khrisma&amp;ogmusic=風神少女&amp;fromwiki=Floral_EP"><span title="搜索相似同人曲"></span></a></span></td><td class="time">05:05</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Khrisma.md" title="Khrisma">Khrisma</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Khrisma&amp;fromwiki=Floral_EP"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=風神少女&amp;fromwiki=Floral_EP"><span></span></a></span><div class="ogmusic"><a href="./風神少女.md" class="mw-redirect" title="風神少女">風神少女</a></div><div class="source"><a href="./东方文花帖_～_Shoot_the_Bullet..md" class="mw-redirect" title="东方文花帖 ～ Shoot the Bullet.">东方文花帖　～ Shoot the Bullet.</a></div></td></tr>
-<tr><td id="4" class="infoYD"><b>04</b></td><td id="Floral_Spring" colspan="2" class="title">Floral Spring<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Khrisma&amp;ogmusic=天空の花の都&amp;fromwiki=Floral_EP"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:55</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Khrisma.md" title="Khrisma">Khrisma</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Khrisma&amp;fromwiki=Floral_EP"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=天空の花の都&amp;fromwiki=Floral_EP"><span></span></a></span><div class="ogmusic"><a href="./天空の花の都.md" class="mw-redirect" title="天空の花の都">天空の花の都</a></div><div class="source"><a href="./东方妖妖梦_～_Perfect_Cherry_Blossom..md" class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr>
-<tr><td id="5" class="infoYD"><b>05</b></td><td id="月と夜桜" colspan="2" class="title">月と夜桜<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Khrisma&amp;ogmusic=幽雅に咲かせ、墨染の桜　～ Border of Life&amp;fromwiki=Floral_EP"><span title="搜索相似同人曲"></span></a></span></td><td class="time">05:10</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Khrisma.md" title="Khrisma">Khrisma</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Khrisma，&amp;fromwiki=Floral_EP"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=幽雅に咲かせ、墨染の桜　～ Border of Life&amp;fromwiki=Floral_EP"><span></span></a></span><div class="ogmusic"><a href="./幽雅に咲かせ、墨染の桜_～_Border_of_Life.md" class="mw-redirect" title="幽雅に咲かせ、墨染の桜 ～ Border of Life">幽雅に咲かせ、墨染の桜　～ Border of Life</a></div><div class="source"><a href="./东方妖妖梦_～_Perfect_Cherry_Blossom..md" class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr></tbody></table>
-
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="春の木漏れ日" colspan="2" class="title">春の木漏れ日</td><td class="time">04:35</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Khrisma.md" title="Khrisma">Khrisma</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./春之港湾.md" class="mw-redirect" title="春の湊に">春の湊に</a></div><div class="source"><a href="./东方星莲船.md" class="mw-redirect" title="东方星莲船 ～ Undefined Fantastic Object.">东方星莲船　～ Undefined Fantastic Object.</a></div></td></tr>
+<tr><td id="2" class="infoYD"><b>02</b></td><td id="Lluvia" colspan="2" class="title">Lluvia</td><td class="time">06:37</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Khrisma.md" title="Khrisma">Khrisma</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./樱花樱花_～_Japanize_Dream....md" class="mw-redirect" title="さくらさくら ～ Japanize Dream...">さくらさくら　～ Japanize Dream...</a></div><div class="source"><a href="./东方妖妖梦.md" class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr>
+<tr><td id="3" class="infoYD"><b>03</b></td><td id="Make_it_Better_With_Me_Now" colspan="2" class="title">Make it Better With Me Now</td><td class="time">05:05</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Khrisma.md" title="Khrisma">Khrisma</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./风神少女.md" class="mw-redirect" title="風神少女">風神少女</a></div><div class="source"><a href="./东方文花帖.md" class="mw-redirect" title="东方文花帖 ～ Shoot the Bullet.">东方文花帖　～ Shoot the Bullet.</a></div></td></tr>
+<tr><td id="4" class="infoYD"><b>04</b></td><td id="Floral_Spring" colspan="2" class="title">Floral Spring</td><td class="time">04:55</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Khrisma.md" title="Khrisma">Khrisma</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./天空的花都.md" class="mw-redirect" title="天空の花の都">天空の花の都</a></div><div class="source"><a href="./东方妖妖梦.md" class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr>
+<tr><td id="5" class="infoYD"><b>05</b></td><td id="月と夜桜" colspan="2" class="title">月と夜桜</td><td class="time">05:10</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Khrisma.md" title="Khrisma">Khrisma</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./幽雅地绽放吧，墨染的樱花_～_Border_of_Life.md" class="mw-redirect" title="幽雅に咲かせ、墨染の桜 ～ Border of Life">幽雅に咲かせ、墨染の桜　～ Border of Life</a></div><div class="source"><a href="./东方妖妖梦.md" class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr></tbody></table>
 
 
 ## 评论
-
   
 「Floral EP」Present by 月華社  
 
@@ -79,17 +66,10 @@ B站试听链接： [https://www.bilibili.com/video/BV1BV4y1f7qZ/](https://www.b
 也欢迎关注我们社团的dizzylab： [https://dzl.pw/_zpKK](https://dzl.pw/_zpKK)  
 
 了解更多本专辑的担当曲师Khrisma： [https://dzl.pw/TCJT](https://dzl.pw/TCJT)  
-
   
 
-- 实体专辑不含运费35一张。有意购买者可先进社团QQ水友群：307927419，然后去淘宝店下单。先前的三张专辑也可购买。  
-
+- 实体专辑不含运费35一张。有意购买者可先进社团QQ水友群：307927419，然后去淘宝店下单。先前的三张专辑也可购买。
 - Bonus Track的钢琴谱已经作为特典发布，请下载特典以获取钢琴谱。
-
-
-
-
-
 
 
 ---

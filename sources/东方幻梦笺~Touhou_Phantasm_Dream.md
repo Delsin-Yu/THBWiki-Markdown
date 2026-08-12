@@ -1,12 +1,11 @@
 # 东方幻梦笺~Touhou_Phantasm_Dream
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\03\ns0%3A%E4%B8%9C%E6%96%B9%E5%B9%BB%E6%A2%A6%E7%AC%BA%7ETouhou_Phantasm_Dream.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\03\ns0%3A%E4%B8%9C%E6%96%B9%E5%B9%BB%E6%A2%A6%E7%AC%BA%7ETouhou_Phantasm_Dream.html -->
 
 2015年8月1日 由 龙皇社 于 Anime Power武汉动漫展3 发布的STG/AVG同人游戏，可在 Windows 系统上运行，游戏人数为 单人模式，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人软件 (未找到链接)** 的词条
-
+**[二次创作同人软件](./二次创作.md#同人软件)**的词条
 ## 目录
 
 - [1 软件信息](#软件信息)
@@ -16,20 +15,15 @@
 - [5 下载](#下载)
 
 
-
-
-
 ## 软件信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-东方幻梦笺~Touhou_Phantasm_Dream封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/8/8f/%E4%B8%9C%E6%96%B9%E5%B9%BB%E6%A2%A6%E7%AC%BA~Touhou_Phantasm_Dream%E5%B0%81%E9%9D%A2.jpg/252px-%E4%B8%9C%E6%96%B9%E5%B9%BB%E6%A2%A6%E7%AC%BA~Touhou_Phantasm_Dream%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="252" height="251" srcset="https://upload.thwiki.cc/8/8f/%E4%B8%9C%E6%96%B9%E5%B9%BB%E6%A2%A6%E7%AC%BA~Touhou_Phantasm_Dream%E5%B0%81%E9%9D%A2.jpg 1.5x" data-file-width="373" data-file-height="372"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>，<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a>，<a href="./九鬼梦沙罗.md" title="九鬼梦沙罗">九鬼梦沙罗</a></div></td>
 </tr><tr><td class="label">名称</td><td colspan="2"> 东方幻梦笺~Touhou Phantasm Dream </td></tr><tr><td class="label">制作方</td><td><a href="./龙皇社.md" title="龙皇社">龙皇社</a></td><td class="cover-artwork" rowspan="9" style="min-width:252px;"><a href="./文件-东方幻梦笺~Touhou_Phantasm_Dream封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/8/8f/%E4%B8%9C%E6%96%B9%E5%B9%BB%E6%A2%A6%E7%AC%BA~Touhou_Phantasm_Dream%E5%B0%81%E9%9D%A2.jpg/252px-%E4%B8%9C%E6%96%B9%E5%B9%BB%E6%A2%A6%E7%AC%BA~Touhou_Phantasm_Dream%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="252" height="251" srcset="https://upload.thwiki.cc/8/8f/%E4%B8%9C%E6%96%B9%E5%B9%BB%E6%A2%A6%E7%AC%BA~Touhou_Phantasm_Dream%E5%B0%81%E9%9D%A2.jpg 1.5x" data-file-width="373" data-file-height="372"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>，<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a>，<a href="./九鬼梦沙罗.md" title="九鬼梦沙罗">九鬼梦沙罗</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2015-08-01&#160;（<a href="/展会作品列表?e=Anime+Power%E6%AD%A6%E6%B1%89%E5%8A%A8%E6%BC%AB%E5%B1%95%233">Anime Power武汉动漫展3</a>，<a href="/展会作品列表?e=YACA%2346">YACA46</a>）</td></tr><tr><td class="label">类型</td><td>游戏</td></tr><tr><td class="label">编号</td><td>DF-01</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">游戏人数</td><td>单人模式</td></tr><tr><td class="label">游戏类型</td><td>STG，AVG</td></tr><tr><td class="label">运行平台</td><td>Windows</td></tr><tr><td class="label">语言</td><td>简体中文</td></tr><tr><td class="label">售价</td><td>79人民币</td></tr>
+</tr><tr><td class="label">首发日期</td><td>2015-08-01 （<a href="./展会作品列表.md#3">Anime Power武汉动漫展3</a>，<a href="./展会作品列表.md#46">YACA46</a>）</td></tr><tr><td class="label">类型</td><td>游戏</td></tr><tr><td class="label">编号</td><td>DF-01</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">游戏人数</td><td>单人模式</td></tr><tr><td class="label">游戏类型</td><td>STG，AVG</td></tr><tr><td class="label">运行平台</td><td>Windows</td></tr><tr><td class="label">语言</td><td>简体中文</td></tr><tr><td class="label">售价</td><td>79人民币</td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://www.lonhong.com">http://www.lonhong.com</a></td></tr></tbody></table>
 
 东方幻梦笺~Touhou Phantasm Dream（同人游戏，龙皇社，2015） - 2015年8月1日 由 龙皇社 于 Anime Power武汉动漫展3 发布的STG/AVG同人游戏，可在 Windows 系统上运行，游戏人数为 单人模式，分级为 一般向
-
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://store.steampowered.com/app/1161930">Steam</a></td></tr></tbody></table>
-
 
 
 ## Staff
@@ -37,7 +31,7 @@
 出品社团：龙皇社
   
   
-执行总监&amp;策划人：优阳炒鸽
+执行总监&策划人：优阳炒鸽
   
   
 发行人：Murcie
@@ -67,9 +61,9 @@
 视频制作人：葵鼠的重生、小劫
   
 
-
 ## 内容页面
--  **游戏设定与剧情** 
+
+- **游戏设定与剧情**
 
   
 幻想乡的初夏，距离太阳从博丽神社外的地平线升起还有很长的时间。
@@ -93,11 +87,10 @@
 自己已经被看不见的爪子，紧紧的勒住了咽喉。
   
 
--  **说明-游戏系统** 
+- **说明-游戏系统**
 
   
- **噩梦点** 
-  
+**噩梦点**  
   
 玩家可以通过擦弹，收卡，消弹收集游戏中的噩梦点，噩梦点会汇入游戏左下方的噩梦槽中，每当噩梦槽被填满一次，玩家便会获得碎片奖励，集齐四个相应的碎片可获得一个残机或者一个Bomb。
   
@@ -119,7 +112,8 @@
 
 - [人物设定](./东方幻梦笺~Touhou_Phantasm_Dream-说明.md)
 
--  **说明-使用说明** 
+
+- **说明-使用说明**
 
   
 方向键：控制移动
@@ -134,7 +128,7 @@ X键：撤销/发动符卡
 Shift键：低速移动
   
   
-Shift+Z键：切换角色（仅限选择蕾米莉亚&amp;芙兰朵露，且通过一面时）
+Shift+Z键：切换角色（仅限选择蕾米莉亚&芙兰朵露，且通过一面时）
   
   
 Esc键：退出/调出菜单
@@ -148,9 +142,7 @@ Esc键：退出/调出菜单
 ## 下载
   
 请注意：  
- **所有的二次同人软件的下载地址均为站外资源，本站并不保证其来源的合法性以及资源的有效性和安全性** 
-  
-
+**所有的二次同人软件的下载地址均为站外资源，本站并不保证其来源的合法性以及资源的有效性和安全性**  
 
 <table>
 
@@ -160,15 +152,6 @@ Esc键：退出/调出菜单
 <tr>
 <td>下载地址的链接
 </td></tr></tbody></table>
-
-
-  
-  
-
-  
-
-
-
 
 
 ---

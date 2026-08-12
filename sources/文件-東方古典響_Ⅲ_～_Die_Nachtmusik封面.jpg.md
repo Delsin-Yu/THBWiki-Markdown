@@ -1,6 +1,6 @@
 # 文件:東方古典響_Ⅲ_～_Die_Nachtmusik封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\95\ns6%3A%E6%9D%B1%E6%96%B9%E5%8F%A4%E5%85%B8%E9%9F%BF_%E2%85%A2_%EF%BD%9E_Die_Nachtmusik%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\95\ns6%3A%E6%9D%B1%E6%96%B9%E5%8F%A4%E5%85%B8%E9%9F%BF_%E2%85%A2_%EF%BD%9E_Die_Nachtmusik%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 DDとMPの同人工房 | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ DDとMPの同人工房 | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方古典響 Ⅲ ～ Die Nachtmusik](./東方古典響_Ⅲ_～_Die_Nachtmusik.md)  
-该封面包含的角色：- [圣白莲](./圣白莲.md)- [封兽鵺](./封兽鵺.md)
-
-
-
+- [東方古典響 Ⅲ ～ Die Nachtmusik](./東方古典響_Ⅲ_～_Die_Nachtmusik.md)该封面包含的角色：
+- [圣白莲](./圣白莲.md)
+- [封兽鵺](./封兽鵺.md)
 
 
 ---

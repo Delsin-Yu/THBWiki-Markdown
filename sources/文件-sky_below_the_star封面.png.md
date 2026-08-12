@@ -1,6 +1,6 @@
 # 文件:sky_below_the_star封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\eb\ns6%3Asky_below_the_star%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\eb\ns6%3Asky_below_the_star%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 めんつゆパレード | 同人志封面 | 封面图片
 
@@ -10,11 +10,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [sky below the star](./sky_below_the_star.md)  
-该封面包含的角色：- [娜兹玲](./娜兹玲.md)- [村纱水蜜](./村纱水蜜.md)- [寅丸星](./寅丸星.md)
-
-
-
+- [sky below the star](./sky_below_the_star.md)该封面包含的角色：
+- [娜兹玲](./娜兹玲.md)
+- [村纱水蜜](./村纱水蜜.md)
+- [寅丸星](./寅丸星.md)
 
 
 ---

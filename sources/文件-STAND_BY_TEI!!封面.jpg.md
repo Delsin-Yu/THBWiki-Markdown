@@ -1,6 +1,6 @@
 # 文件:STAND_BY_TEI!!封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cb\ns6%3ASTAND_BY_TEI%21%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cb\ns6%3ASTAND_BY_TEI%21%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 天壌Kuchen | 封面图片
 
@@ -8,11 +8,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [STAND BY TEI!!](./STAND_BY_TEI!!.md)  
-该封面包含的角色：- [因幡帝](./因幡帝.md)- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)- [稀神探女](./稀神探女.md)
-
-
-
+- [STAND BY TEI!!](./STAND_BY_TEI!!.md)该封面包含的角色：
+- [因幡帝](./因幡帝.md)
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
+- [稀神探女](./稀神探女.md)
 
 
 ---

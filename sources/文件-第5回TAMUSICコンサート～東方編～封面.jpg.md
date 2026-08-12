@@ -1,6 +1,6 @@
 # 文件:第5回TAMUSICコンサート～東方編～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d0\ns6%3A%E7%AC%AC5%E5%9B%9ETAMUSIC%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%BC%E3%83%88%EF%BD%9E%E6%9D%B1%E6%96%B9%E7%B7%A8%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d0\ns6%3A%E7%AC%AC5%E5%9B%9ETAMUSIC%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%BC%E3%83%88%EF%BD%9E%E6%9D%B1%E6%96%B9%E7%B7%A8%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 TAMUSIC | 专辑封面 | 封面图片
 
@@ -8,11 +8,10 @@ TAMUSIC | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [第5回TAMUSICコンサート～東方編～](./第5回TAMUSICコンサート～東方編～.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)- [西行寺幽幽子](./西行寺幽幽子.md)- [射命丸文](./射命丸文.md)
-
-
-
+- [第5回TAMUSICコンサート～東方編～](./第5回TAMUSICコンサート～東方編～.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [西行寺幽幽子](./西行寺幽幽子.md)
+- [射命丸文](./射命丸文.md)
 
 
 ---

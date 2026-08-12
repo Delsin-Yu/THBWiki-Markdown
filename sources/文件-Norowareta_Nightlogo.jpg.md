@@ -1,12 +1,8 @@
 # 文件:Norowareta_Nightlogo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\57\ns6%3ANorowareta_Nightlogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\57\ns6%3ANorowareta_Nightlogo%2Ejpg.html -->
 
 Norowareta_Night | 社团LOGO
-
-
-
-
 
 
 ---

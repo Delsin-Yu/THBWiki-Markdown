@@ -1,6 +1,6 @@
 # 文件:風薫る信仰_～_One_Thousand_Breeze封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\49\ns6%3A%E9%A2%A8%E8%96%AB%E3%82%8B%E4%BF%A1%E4%BB%B0_%EF%BD%9E_One_Thousand_Breeze%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\49\ns6%3A%E9%A2%A8%E8%96%AB%E3%82%8B%E4%BF%A1%E4%BB%B0_%EF%BD%9E_One_Thousand_Breeze%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Like_a_rabbit | 专辑封面 | 封面图片
 
@@ -8,11 +8,10 @@ Like_a_rabbit | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [風薫る信仰 ～ One Thousand Breeze](./風薫る信仰_～_One_Thousand_Breeze.md)  
-该封面包含的角色：- [键山雏](./键山雏.md)- [东风谷早苗](./东风谷早苗.md)- [洩矢诹访子](./洩矢诹访子.md)
-
-
-
+- [風薫る信仰 ～ One Thousand Breeze](./風薫る信仰_～_One_Thousand_Breeze.md)该封面包含的角色：
+- [键山雏](./键山雏.md)
+- [东风谷早苗](./东风谷早苗.md)
+- [洩矢诹访子](./洩矢诹访子.md)
 
 
 ---

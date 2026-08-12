@@ -1,6 +1,6 @@
 # 文件:緋色月下、狂咲ノ絶_15th_Anniversary_Remix封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\56\ns6%3A%E7%B7%8B%E8%89%B2%E6%9C%88%E4%B8%8B%E3%80%81%E7%8B%82%E5%92%B2%E3%83%8E%E7%B5%B6_15th_Anniversary_Remix%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\56\ns6%3A%E7%B7%8B%E8%89%B2%E6%9C%88%E4%B8%8B%E3%80%81%E7%8B%82%E5%92%B2%E3%83%8E%E7%B5%B6_15th_Anniversary_Remix%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 EastNewSound | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ EastNewSound | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [緋色月下、狂咲ノ絶 15th Anniversary Remix](./緋色月下、狂咲ノ絶_15th_Anniversary_Remix.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
-
-
-
+- [緋色月下、狂咲ノ絶 15th Anniversary Remix](./緋色月下、狂咲ノ絶_15th_Anniversary_Remix.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
 
 ---

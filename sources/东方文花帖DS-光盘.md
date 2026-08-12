@@ -1,6 +1,6 @@
 # 东方文花帖DS/光盘
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\5\5b\ns0%3A%E4%B8%9C%E6%96%B9%E6%96%87%E8%8A%B1%E5%B8%96DS%2F%E5%85%89%E7%9B%98.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\5\5b\ns0%3A%E4%B8%9C%E6%96%B9%E6%96%87%E8%8A%B1%E5%B8%96DS%2F%E5%85%89%E7%9B%98.html -->
 
 上海爱丽丝幻乐团 | 东方文花帖DS | 姬海棠果 | 官方游戏光盘 | 射命丸文
 
@@ -9,14 +9,9 @@
 
 - [1 包含角色](#包含角色)
 - [2 正式版](#正式版)
-
   - [2.1 外面](#外面)
   - [2.2 内面](#内面)
   - [2.3 碟面](#碟面)
-
-
-
-
 
 
 
@@ -27,30 +22,18 @@
 <tbody><tr><th colspan="2">包含角色信息</th></tr><tr><td><b>作品序号</b></td><td>th12.5</td></tr><tr><td><b>正式版封面角色</b></td><td><a href="./姬海棠果.md" title="姬海棠果">姬海棠果</a></td></tr><tr><td><b>正式版背面角色</b></td><td><a href="./射命丸文.md" title="射命丸文">射命丸文</a></td></tr></tbody></table>
 
 
-
 ## 正式版
--  **[东方文花帖DS](./东方文花帖DS.md)** 光盘扫图页面。
+
+- **[东方文花帖DS](./东方文花帖DS.md)**光盘扫图页面。
 
 
 ### 外面
-
-
-
-[](./文件-东方文花帖DScover4.jpg.md)
-
+<img alt="后面" src="https://upload.thwiki.cc/thumb/a/ae/%E4%B8%9C%E6%96%B9%E6%96%87%E8%8A%B1%E5%B8%96DScover4.jpg/305px-%E4%B8%9C%E6%96%B9%E6%96%87%E8%8A%B1%E5%B8%96DScover4.jpg" decoding="async" loading="lazy" width="305" height="241" srcset="https://upload.thwiki.cc/thumb/a/ae/%E4%B8%9C%E6%96%B9%E6%96%87%E8%8A%B1%E5%B8%96DScover4.jpg/458px-%E4%B8%9C%E6%96%B9%E6%96%87%E8%8A%B1%E5%B8%96DScover4.jpg 1.5x, https://upload.thwiki.cc/thumb/a/ae/%E4%B8%9C%E6%96%B9%E6%96%87%E8%8A%B1%E5%B8%96DScover4.jpg/610px-%E4%B8%9C%E6%96%B9%E6%96%87%E8%8A%B1%E5%B8%96DScover4.jpg 2x" data-file-width="1520" data-file-height="1200">
 后面
-
-
-[](./文件-东方文花帖DSside.jpg.md)
+<img alt="侧封" src="https://upload.thwiki.cc/thumb/c/c1/%E4%B8%9C%E6%96%B9%E6%96%87%E8%8A%B1%E5%B8%96DSside.jpg/141px-%E4%B8%9C%E6%96%B9%E6%96%87%E8%8A%B1%E5%B8%96DSside.jpg" decoding="async" loading="lazy" width="141" height="241" srcset="https://upload.thwiki.cc/thumb/c/c1/%E4%B8%9C%E6%96%B9%E6%96%87%E8%8A%B1%E5%B8%96DSside.jpg/212px-%E4%B8%9C%E6%96%B9%E6%96%87%E8%8A%B1%E5%B8%96DSside.jpg 1.5x, https://upload.thwiki.cc/thumb/c/c1/%E4%B8%9C%E6%96%B9%E6%96%87%E8%8A%B1%E5%B8%96DSside.jpg/282px-%E4%B8%9C%E6%96%B9%E6%96%87%E8%8A%B1%E5%B8%96DSside.jpg 2x" data-file-width="701" data-file-height="1200">
 侧封
-
-
-[](./文件-东方文花帖DScover1.jpg.md)
+<img alt="前面" src="https://upload.thwiki.cc/thumb/e/ef/%E4%B8%9C%E6%96%B9%E6%96%87%E8%8A%B1%E5%B8%96DScover1.jpg/244px-%E4%B8%9C%E6%96%B9%E6%96%87%E8%8A%B1%E5%B8%96DScover1.jpg" decoding="async" loading="lazy" width="244" height="241" srcset="https://upload.thwiki.cc/thumb/e/ef/%E4%B8%9C%E6%96%B9%E6%96%87%E8%8A%B1%E5%B8%96DScover1.jpg/366px-%E4%B8%9C%E6%96%B9%E6%96%87%E8%8A%B1%E5%B8%96DScover1.jpg 1.5x, https://upload.thwiki.cc/thumb/e/ef/%E4%B8%9C%E6%96%B9%E6%96%87%E8%8A%B1%E5%B8%96DScover1.jpg/488px-%E4%B8%9C%E6%96%B9%E6%96%87%E8%8A%B1%E5%B8%96DScover1.jpg 2x" data-file-width="1215" data-file-height="1200">
 前面
-
-
-
-
 
 <table>
 
@@ -148,37 +131,15 @@
 </td></tr></tbody></table>
 
 
-
 ### 内面
-
-
-
-[](./文件-东方文花帖DScover3.jpg.md)
-
+<img alt="后面" src="https://upload.thwiki.cc/thumb/9/9d/%E4%B8%9C%E6%96%B9%E6%96%87%E8%8A%B1%E5%B8%96DScover3.jpg/302px-%E4%B8%9C%E6%96%B9%E6%96%87%E8%8A%B1%E5%B8%96DScover3.jpg" decoding="async" loading="lazy" width="302" height="237" srcset="https://upload.thwiki.cc/thumb/9/9d/%E4%B8%9C%E6%96%B9%E6%96%87%E8%8A%B1%E5%B8%96DScover3.jpg/453px-%E4%B8%9C%E6%96%B9%E6%96%87%E8%8A%B1%E5%B8%96DScover3.jpg 1.5x, https://upload.thwiki.cc/thumb/9/9d/%E4%B8%9C%E6%96%B9%E6%96%87%E8%8A%B1%E5%B8%96DScover3.jpg/604px-%E4%B8%9C%E6%96%B9%E6%96%87%E8%8A%B1%E5%B8%96DScover3.jpg 2x" data-file-width="1527" data-file-height="1200">
 后面
-
-
-[](./文件-东方文花帖DScover2.jpg.md)
+<img alt="前面" src="https://upload.thwiki.cc/thumb/1/1d/%E4%B8%9C%E6%96%B9%E6%96%87%E8%8A%B1%E5%B8%96DScover2.jpg/240px-%E4%B8%9C%E6%96%B9%E6%96%87%E8%8A%B1%E5%B8%96DScover2.jpg" decoding="async" loading="lazy" width="240" height="238" srcset="https://upload.thwiki.cc/thumb/1/1d/%E4%B8%9C%E6%96%B9%E6%96%87%E8%8A%B1%E5%B8%96DScover2.jpg/360px-%E4%B8%9C%E6%96%B9%E6%96%87%E8%8A%B1%E5%B8%96DScover2.jpg 1.5x, https://upload.thwiki.cc/thumb/1/1d/%E4%B8%9C%E6%96%B9%E6%96%87%E8%8A%B1%E5%B8%96DScover2.jpg/480px-%E4%B8%9C%E6%96%B9%E6%96%87%E8%8A%B1%E5%B8%96DScover2.jpg 2x" data-file-width="1211" data-file-height="1200">
 前面
 
-
-
-
-
 ### 碟面
-
-
-
-[](./文件-东方文花帖DSdisc.jpg.md)
-
+<img alt="碟面" src="https://upload.thwiki.cc/thumb/f/fc/%E4%B8%9C%E6%96%B9%E6%96%87%E8%8A%B1%E5%B8%96DSdisc.jpg/240px-%E4%B8%9C%E6%96%B9%E6%96%87%E8%8A%B1%E5%B8%96DSdisc.jpg" decoding="async" loading="lazy" width="240" height="240" srcset="https://upload.thwiki.cc/thumb/f/fc/%E4%B8%9C%E6%96%B9%E6%96%87%E8%8A%B1%E5%B8%96DSdisc.jpg/360px-%E4%B8%9C%E6%96%B9%E6%96%87%E8%8A%B1%E5%B8%96DSdisc.jpg 1.5x, https://upload.thwiki.cc/thumb/f/fc/%E4%B8%9C%E6%96%B9%E6%96%87%E8%8A%B1%E5%B8%96DSdisc.jpg/480px-%E4%B8%9C%E6%96%B9%E6%96%87%E8%8A%B1%E5%B8%96DSdisc.jpg 2x" data-file-width="1200" data-file-height="1200">
 碟面
-
-
-
-
-
-
-
 
 ---
 

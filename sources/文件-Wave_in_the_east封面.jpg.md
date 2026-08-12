@@ -1,6 +1,6 @@
 # 文件:Wave_in_the_east封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\49\ns6%3AWave_in_the_east%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\49\ns6%3AWave_in_the_east%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Violet_Fizz | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Violet_Fizz | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Wave in the east](./Wave_in_the_east.md)  
-该封面包含的角色：- [村纱水蜜](./村纱水蜜.md)
-
-
-
+- [Wave in the east](./Wave_in_the_east.md)该封面包含的角色：
+- [村纱水蜜](./村纱水蜜.md)
 
 
 ---

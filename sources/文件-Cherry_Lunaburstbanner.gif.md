@@ -1,14 +1,11 @@
 # 文件:Cherry_Lunaburstbanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0d\ns6%3ACherry_Lunaburstbanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0d\ns6%3ACherry_Lunaburstbanner%2Egif.html -->
 
 Cherry_Lunaburst | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:Throbbing_Hearts封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\41\ns6%3AThrobbing_Hearts%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\41\ns6%3AThrobbing_Hearts%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Echoes_Construction | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Echoes_Construction | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Throbbing Hearts](./Throbbing_Hearts.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
+- [Throbbing Hearts](./Throbbing_Hearts.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
   
-源地址：[[1]](http://static.tumblr.com/c9cda40934b7eb5bac5533186665f86d/k8ubhjd/QdVnsllx5/tumblr_static_e1t04qioixsks48ko848gkow4.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://static.tumblr.com/c9cda40934b7eb5bac5533186665f86d/k8ubhjd/QdVnsllx5/tumblr_static_e1t04qioixsks48ko848gkow4.jpg)  
 
 ---
 

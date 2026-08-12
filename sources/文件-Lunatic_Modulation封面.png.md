@@ -1,6 +1,6 @@
 # 文件:Lunatic_Modulation封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8c\ns6%3ALunatic_Modulation%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8c\ns6%3ALunatic_Modulation%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 東工プロジェクト
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Lunatic Modulation](./Lunatic_Modulation.md)  
-该封面包含的角色：- [克劳恩皮丝](./克劳恩皮丝.md)
-
-
-
+- [Lunatic Modulation](./Lunatic_Modulation.md)该封面包含的角色：
+- [克劳恩皮丝](./克劳恩皮丝.md)
 
 
 ---

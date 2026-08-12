@@ -1,6 +1,6 @@
 # 文件:愚か者ランドスケープDEMO封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5c\ns6%3A%E6%84%9A%E3%81%8B%E8%80%85%E3%83%A9%E3%83%B3%E3%83%89%E3%82%B9%E3%82%B1%E3%83%BC%E3%83%97DEMO%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5c\ns6%3A%E6%84%9A%E3%81%8B%E8%80%85%E3%83%A9%E3%83%B3%E3%83%89%E3%82%B9%E3%82%B1%E3%83%BC%E3%83%97DEMO%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ぶるっくりん☆すてーしょん | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [愚か者ランドスケープDEMO](./愚か者ランドスケープDEMO.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [愚か者ランドスケープDEMO](./愚か者ランドスケープDEMO.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

@@ -1,55 +1,45 @@
 # Fantastic_Third
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\05\ns0%3AFantastic_Third.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\05\ns0%3AFantastic_Third.html -->
 
 2012年12月30日 由 MIRACLE EUROS 于 Comic Market 83 发布的EP同人专辑，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人专辑 (未找到链接)** 的词条
-
+**[二次创作同人专辑](./二次创作.md#同人音乐)**的词条
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Fantastic_Third封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/2/27/Fantastic_Third%E5%B0%81%E9%9D%A2.jpg/196px-Fantastic_Third%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="196" height="196" srcset="https://upload.thwiki.cc/thumb/2/27/Fantastic_Third%E5%B0%81%E9%9D%A2.jpg/294px-Fantastic_Third%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/2/27/Fantastic_Third%E5%B0%81%E9%9D%A2.jpg/392px-Fantastic_Third%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="415" data-file-height="415"></a><div class="cover-char">角色：<a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰朵露·斯卡蕾特</a></div></td>
 </tr><tr><td class="label">名称</td><td colspan="2"> Fantastic Third </td></tr><tr><td class="label">制作方</td><td><a href="./MIRACLE_EUROS.md" title="MIRACLE EUROS">MIRACLE EUROS</a></td><td class="cover-artwork" rowspan="7" style="min-width:196px;"><a href="./文件-Fantastic_Third封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/2/27/Fantastic_Third%E5%B0%81%E9%9D%A2.jpg/196px-Fantastic_Third%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="196" height="196" srcset="https://upload.thwiki.cc/thumb/2/27/Fantastic_Third%E5%B0%81%E9%9D%A2.jpg/294px-Fantastic_Third%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/2/27/Fantastic_Third%E5%B0%81%E9%9D%A2.jpg/392px-Fantastic_Third%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="415" data-file-height="415"></a><div class="cover-char">角色：<a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰朵露·斯卡蕾特</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2012-12-30&#160;（<a href="/展会作品列表?e=Comic+Market%2383">Comic Market 83</a>）</td></tr><tr><td class="label">类型</td><td>EP</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>3</td></tr><tr><td class="label">总时长</td><td>00:00</td></tr></tbody></table>
+</tr><tr><td class="label">首发日期</td><td>2012-12-30 （<a href="./展会作品列表.md#83">Comic Market 83</a>）</td></tr><tr><td class="label">类型</td><td>EP</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>3</td></tr><tr><td class="label">总时长</td><td>00:00</td></tr></tbody></table>
 
 Fantastic Third（同人专辑，MIRACLE EUROS，2012） - 2012年12月30日 由 MIRACLE EUROS 于 Comic Market 83 发布的EP同人专辑，分级为 一般向
-
-<table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.com/index.php?main_page=product_info&amp;products_id=http://www.melonbooks.com/index.php?main_page=product_info&amp;products_id=IT0000161989">蜜瓜DL蜜瓜DL</a></td></tr></tbody></table>
-
+<table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.com/index.php?main_page=product_info&products_id=http://www.melonbooks.com/index.php?main_page=product_info&products_id=IT0000161989">蜜瓜DL蜜瓜DL</a></td></tr></tbody></table>
 
 
 ## Staff
   
- **Arrangement**   
+**Arrangement**  
 
-<table><tbody><tr><td><a href="/index.php?title=%E9%8A%80%E6%9D%8F&amp;action=edit&amp;redlink=1" class="new" title="銀杏（页面不存在）">銀杏</a></td><td><a href="./MIRACLE_EUROS.md" title="MIRACLE EUROS">MIRACLE EUROS</a></td><td>Tr.1-3</td></tr></tbody></table>
-
+<table><tbody><tr><td><a class="new" title="銀杏（页面不存在）">銀杏</a></td><td><a href="./MIRACLE_EUROS.md" title="MIRACLE EUROS">MIRACLE EUROS</a></td><td>Tr.1-3</td></tr></tbody></table>
 
 Design
 : 设计师 （[网址 社团]）
 Illustration
 : 画师 （[网址 社团]）
 
-
 ## 试听
   
 暂不支援此类型
   
 
-
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Infant_Destroyer" colspan="2" class="title">Infant Destroyer<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=銀杏&amp;ogmusic=U.N.オーエンは彼女なのか？&amp;fromwiki=Fantastic_Third"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E9%8A%80%E6%9D%8F&amp;action=edit&amp;redlink=1" class="new" title="銀杏（页面不存在）">銀杏</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，銀杏，&amp;fromwiki=Fantastic_Third"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=U.N.オーエンは彼女なのか？&amp;fromwiki=Fantastic_Third"><span></span></a></span><div class="ogmusic"><a href="./U.N.オーエンは彼女なのか？.md" class="mw-redirect" title="U.N.オーエンは彼女なのか？">U.N.オーエンは彼女なのか？</a></div><div class="source"><a href="./东方红魔乡_～_the_Embodiment_of_Scarlet_Devil..md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr>
-<tr><td id="2" class="infoYD"><b>02</b></td><td id="IGNIS" colspan="2" class="title">IGNIS<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=銀杏&amp;ogmusic=エクステンドアッシュ　～ 蓬莱人&amp;fromwiki=Fantastic_Third"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E9%8A%80%E6%9D%8F&amp;action=edit&amp;redlink=1" class="new" title="銀杏（页面不存在）">銀杏</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，銀杏，&amp;fromwiki=Fantastic_Third"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=エクステンドアッシュ　～ 蓬莱人&amp;fromwiki=Fantastic_Third"><span></span></a></span><div class="ogmusic"><a href="./エクステンドアッシュ_～_蓬莱人.md" class="mw-redirect" title="エクステンドアッシュ ～ 蓬莱人">エクステンドアッシュ　～ 蓬莱人</a></div><div class="source"><a href="./东方永夜抄_～_Imperishable_Night..md" class="mw-redirect" title="东方永夜抄 ～ Imperishable Night.">东方永夜抄　～ Imperishable Night.</a></div></td></tr>
-<tr><td id="3" class="infoYD"><b>03</b></td><td id="Queen_of_the_Heart" colspan="2" class="title">Queen of the Heart<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=銀杏&amp;ogmusic=ハートフェルトファンシー，ラストリモート&amp;fromwiki=Fantastic_Third"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E9%8A%80%E6%9D%8F&amp;action=edit&amp;redlink=1" class="new" title="銀杏（页面不存在）">銀杏</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，銀杏，&amp;fromwiki=Fantastic_Third"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=ハートフェルトファンシー，ラストリモート&amp;fromwiki=Fantastic_Third"><span></span></a></span><div class="ogmusic"><a href="./ハートフェルトファンシー.md" class="mw-redirect" title="ハートフェルトファンシー">ハートフェルトファンシー</a></div><div class="ogmusic"><a href="./ラストリモート.md" class="mw-redirect" title="ラストリモート">ラストリモート</a></div><div class="source"><a href="./东方地灵殿_～_Subterranean_Animism..md" class="mw-redirect" title="东方地灵殿 ～ Subterranean Animism.">东方地灵殿　～ Subterranean Animism.</a></div></td></tr></tbody></table>
-
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Infant_Destroyer" colspan="2" class="title">Infant Destroyer</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="銀杏（页面不存在）">銀杏</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./U.N.OWEN就是她吗？.md" class="mw-redirect" title="U.N.オーエンは彼女なのか？">U.N.オーエンは彼女なのか？</a></div><div class="source"><a href="./东方红魔乡.md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr>
+<tr><td id="2" class="infoYD"><b>02</b></td><td id="IGNIS" colspan="2" class="title">IGNIS</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="銀杏（页面不存在）">銀杏</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./Extend_Ash_～_蓬莱人.md" class="mw-redirect" title="エクステンドアッシュ ～ 蓬莱人">エクステンドアッシュ　～ 蓬莱人</a></div><div class="source"><a href="./东方永夜抄.md" class="mw-redirect" title="东方永夜抄 ～ Imperishable Night.">东方永夜抄　～ Imperishable Night.</a></div></td></tr>
+<tr><td id="3" class="infoYD"><b>03</b></td><td id="Queen_of_the_Heart" colspan="2" class="title">Queen of the Heart</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="銀杏（页面不存在）">銀杏</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./Heartfelt_Fancy.md" class="mw-redirect" title="ハートフェルトファンシー">ハートフェルトファンシー</a></div><div class="ogmusic"><a href="./Last_Remote.md" class="mw-redirect" title="ラストリモート">ラストリモート</a></div><div class="source"><a href="./东方地灵殿.md" class="mw-redirect" title="东方地灵殿 ～ Subterranean Animism.">东方地灵殿　～ Subterranean Animism.</a></div></td></tr></tbody></table>
 
 
 ## 评论
-
-
-
 
 ---
 

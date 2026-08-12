@@ -1,6 +1,6 @@
 # Play,Doujin!
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\2a\ns0%3APlay%2CDoujin%21.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\2a\ns0%3APlay%2CDoujin%21.html -->
 
 Play,Doujin! | 含有受损文件链接的页面
 
@@ -11,9 +11,6 @@ Play,Doujin! | 含有受损文件链接的页面
 - [2 Play,Doujin!](#Play,Doujin!)
 - [3 参与者](#参与者)
 - [4 参与作品](#参与作品)
-
-
-
 
 
 ## ZUN×PlayStation
@@ -28,9 +25,8 @@ ZUN×PlayStation是Play,Doujin!的前身。
   
 不仅东方的二次同人在这个企划中有足够的机会登陆PS平台，其他的同人游戏也有可能会登陆PS。
   
-
-[](./文件-ZUN对ZUN×PS项目的推特.png.md)  ZUN对ZUN×PS项目的推特
-  
+<img alt="" src="https://upload.thwiki.cc/f/fe/ZUN%E5%AF%B9ZUN%C3%97PS%E9%A1%B9%E7%9B%AE%E7%9A%84%E6%8E%A8%E7%89%B9.png" decoding="async" loading="lazy" width="571" height="187" class="thumbimage" data-file-width="571" data-file-height="187">
+ ZUN对ZUN×PS项目的推特  
 也就是说，只要做的够好，身为没有完全版权的二次创作，也可以登陆家用机。
   
 
@@ -38,8 +34,8 @@ ZUN×PlayStation是Play,Doujin!的前身。
 
 
 ## Play,Doujin!
-[](./文件-Play,Doujin!LOGO.png.md)  [](./文件-Play,Doujin!LOGO.png.md)Play,Doujin!LOGO
-  
+<img alt="" src="https://upload.thwiki.cc/5/5e/Play%2CDoujin%21LOGO.png" decoding="async" loading="lazy" width="200" height="40" class="thumbimage" data-file-width="200" data-file-height="40">
+ [放大](./文件-Play,Doujin!LOGO.png.md)Play,Doujin!LOGO  
 2014年12月18日，企划改名为Play,Doujin!并公布信息。  
 
 同时公布的还有新加入企划的两个PSVita的主题。
@@ -160,8 +156,8 @@ Play,Doujin!不仅有索尼的PlayStation4，还有PSVita。
 </tbody></table>
 
 
-
 ## 参与作品
+
 - ZUN×PS企划初期就参与的游戏作品
 
 
@@ -219,7 +215,7 @@ Play,Doujin!不仅有索尼的PlayStation4，还有PSVita。
 </tr>
 <tr style="border:#AAAAAA;border-left-style: solid;border-left-width: 2px;border-right-style: solid;border-right-width: 2px;border-top-style: solid;border-top-width: 2px;">
 <td rowspan="2"><a href="./文件-ダブルフォーカス-文と椛の弾丸取材紀行-_PlayStation®Vita_Edition封面.jpg.md" class="image"><img alt="ダブルフォーカス-文と椛の弾丸取材紀行- PlayStation®Vita Edition封面.jpg" src="https://upload.thwiki.cc/thumb/5/5c/%E3%83%80%E3%83%96%E3%83%AB%E3%83%95%E3%82%A9%E3%83%BC%E3%82%AB%E3%82%B9-%E6%96%87%E3%81%A8%E6%A4%9B%E3%81%AE%E5%BC%BE%E4%B8%B8%E5%8F%96%E6%9D%90%E7%B4%80%E8%A1%8C-_PlayStation%C2%AEVita_Edition%E5%B0%81%E9%9D%A2.jpg/100px-%E3%83%80%E3%83%96%E3%83%AB%E3%83%95%E3%82%A9%E3%83%BC%E3%82%AB%E3%82%B9-%E6%96%87%E3%81%A8%E6%A4%9B%E3%81%AE%E5%BC%BE%E4%B8%B8%E5%8F%96%E6%9D%90%E7%B4%80%E8%A1%8C-_PlayStation%C2%AEVita_Edition%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="100" height="137" srcset="https://upload.thwiki.cc/thumb/5/5c/%E3%83%80%E3%83%96%E3%83%AB%E3%83%95%E3%82%A9%E3%83%BC%E3%82%AB%E3%82%B9-%E6%96%87%E3%81%A8%E6%A4%9B%E3%81%AE%E5%BC%BE%E4%B8%B8%E5%8F%96%E6%9D%90%E7%B4%80%E8%A1%8C-_PlayStation%C2%AEVita_Edition%E5%B0%81%E9%9D%A2.jpg/150px-%E3%83%80%E3%83%96%E3%83%AB%E3%83%95%E3%82%A9%E3%83%BC%E3%82%AB%E3%82%B9-%E6%96%87%E3%81%A8%E6%A4%9B%E3%81%AE%E5%BC%BE%E4%B8%B8%E5%8F%96%E6%9D%90%E7%B4%80%E8%A1%8C-_PlayStation%C2%AEVita_Edition%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/5/5c/%E3%83%80%E3%83%96%E3%83%AB%E3%83%95%E3%82%A9%E3%83%BC%E3%82%AB%E3%82%B9-%E6%96%87%E3%81%A8%E6%A4%9B%E3%81%AE%E5%BC%BE%E4%B8%B8%E5%8F%96%E6%9D%90%E7%B4%80%E8%A1%8C-_PlayStation%C2%AEVita_Edition%E5%B0%81%E9%9D%A2.jpg/200px-%E3%83%80%E3%83%96%E3%83%AB%E3%83%95%E3%82%A9%E3%83%BC%E3%82%AB%E3%82%B9-%E6%96%87%E3%81%A8%E6%A4%9B%E3%81%AE%E5%BC%BE%E4%B8%B8%E5%8F%96%E6%9D%90%E7%B4%80%E8%A1%8C-_PlayStation%C2%AEVita_Edition%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="300" data-file-height="411"></a></td>
-<th>作品名</th><td><a href="/index.php?title=Double_Focus-%E6%96%87%E4%B8%8E%E6%A4%9B%E7%9A%84%E9%AB%98%E9%80%9F%E5%8F%96%E6%9D%90%E6%B8%B8%E8%AE%B0-_PlayStation%C2%AEVita_Edition&amp;action=edit&amp;redlink=1" class="new" title="Double Focus-文与椛的高速取材游记- PlayStation®Vita Edition（页面不存在）">Double Focus-文与椛的高速取材游记- PlayStation®Vita Edition</a></td>
+<th>作品名</th><td><a class="new" title="Double Focus-文与椛的高速取材游记- PlayStation®Vita Edition（页面不存在）">Double Focus-文与椛的高速取材游记- PlayStation®Vita Edition</a></td>
 <th>制作方</th><td><a href="./AQUA_STYLE.md" title="AQUA STYLE" unred="">AQUASTYLE</a></td>
 <th>发售日期</th><td colspan="3">2016年1月28日</td>
 </tr> 
@@ -254,7 +250,7 @@ Play,Doujin!不仅有索尼的PlayStation4，还有PSVita。
 <tr style="border:#AAAAAA;border-left-style: solid;border-left-width: 2px;border-right-style: solid;border-right-width: 2px;border-top-style: solid;border-top-width: 2px;">
 <td rowspan="2"><a href="./文件-チェルシーさんは７の魔神をブッ殺さねばならない。封面.jpg.md" class="image"><img alt="チェルシーさんは７の魔神をブッ殺さねばならない。封面.jpg" src="https://upload.thwiki.cc/thumb/7/77/%E3%83%81%E3%82%A7%E3%83%AB%E3%82%B7%E3%83%BC%E3%81%95%E3%82%93%E3%81%AF%EF%BC%97%E3%81%AE%E9%AD%94%E7%A5%9E%E3%82%92%E3%83%96%E3%83%83%E6%AE%BA%E3%81%95%E3%81%AD%E3%81%B0%E3%81%AA%E3%82%89%E3%81%AA%E3%81%84%E3%80%82%E5%B0%81%E9%9D%A2.jpg/100px-%E3%83%81%E3%82%A7%E3%83%AB%E3%82%B7%E3%83%BC%E3%81%95%E3%82%93%E3%81%AF%EF%BC%97%E3%81%AE%E9%AD%94%E7%A5%9E%E3%82%92%E3%83%96%E3%83%83%E6%AE%BA%E3%81%95%E3%81%AD%E3%81%B0%E3%81%AA%E3%82%89%E3%81%AA%E3%81%84%E3%80%82%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="100" height="100" srcset="https://upload.thwiki.cc/thumb/7/77/%E3%83%81%E3%82%A7%E3%83%AB%E3%82%B7%E3%83%BC%E3%81%95%E3%82%93%E3%81%AF%EF%BC%97%E3%81%AE%E9%AD%94%E7%A5%9E%E3%82%92%E3%83%96%E3%83%83%E6%AE%BA%E3%81%95%E3%81%AD%E3%81%B0%E3%81%AA%E3%82%89%E3%81%AA%E3%81%84%E3%80%82%E5%B0%81%E9%9D%A2.jpg/150px-%E3%83%81%E3%82%A7%E3%83%AB%E3%82%B7%E3%83%BC%E3%81%95%E3%82%93%E3%81%AF%EF%BC%97%E3%81%AE%E9%AD%94%E7%A5%9E%E3%82%92%E3%83%96%E3%83%83%E6%AE%BA%E3%81%95%E3%81%AD%E3%81%B0%E3%81%AA%E3%82%89%E3%81%AA%E3%81%84%E3%80%82%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/7/77/%E3%83%81%E3%82%A7%E3%83%AB%E3%82%B7%E3%83%BC%E3%81%95%E3%82%93%E3%81%AF%EF%BC%97%E3%81%AE%E9%AD%94%E7%A5%9E%E3%82%92%E3%83%96%E3%83%83%E6%AE%BA%E3%81%95%E3%81%AD%E3%81%B0%E3%81%AA%E3%82%89%E3%81%AA%E3%81%84%E3%80%82%E5%B0%81%E9%9D%A2.jpg/200px-%E3%83%81%E3%82%A7%E3%83%AB%E3%82%B7%E3%83%BC%E3%81%95%E3%82%93%E3%81%AF%EF%BC%97%E3%81%AE%E9%AD%94%E7%A5%9E%E3%82%92%E3%83%96%E3%83%83%E6%AE%BA%E3%81%95%E3%81%AD%E3%81%B0%E3%81%AA%E3%82%89%E3%81%AA%E3%81%84%E3%80%82%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="900" data-file-height="900"></a></td>
 <th>作品名</th><td>切尔西必须要杀7魔神。</td>
-<th>制作方</th><td><a href="/index.php?title=PlatineDispositif&amp;action=edit&amp;redlink=1" class="new" title="PlatineDispositif（页面不存在）">PlatineDispositif</a></td>
+<th>制作方</th><td><a class="new" title="PlatineDispositif（页面不存在）">PlatineDispositif</a></td>
 <th>发售日期</th><td colspan="3">2016年7月21日（PSV版）<br>2016年10月20日（PS4版）</td>
 </tr> 
 <tr style="border:#AAAAAA;border-left-style: solid;border-left-width: 2px;border-right-style: solid;border-right-width: 2px;border-bottom-style: solid;border-bottom-width: 2px;">
@@ -320,8 +316,8 @@ Play,Doujin!不仅有索尼的PlayStation4，还有PSVita。
 <th>价格</th><td colspan="3">6400日元（PS4、PSV版）<br>4500日元（NS版）</td>
 </tr>
 <tr style="border:#AAAAAA;border-left-style: solid;border-left-width: 2px;border-right-style: solid;border-right-width: 2px;border-top-style: solid;border-top-width: 2px;">
-<td rowspan="2"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E3%83%A8%E3%82%A4%E3%83%A4%E3%83%9F%E3%83%89%E3%83%AA%E3%83%BC%E3%83%9E%E3%83%BC%E5%B0%81%E9%9D%A2.jpg" class="new" title="文件:ヨイヤミドリーマー封面.jpg">文件:ヨイヤミドリーマー封面.jpg</a></td>
-<th>作品名</th><td><a href="/index.php?title=Yoiyami%C2%B7Dreamer&amp;action=edit&amp;redlink=1" class="new" title="Yoiyami·Dreamer（页面不存在）">Yoiyami·Dreamer</a></td>
+<td rowspan="2"><a class="new" title="文件:ヨイヤミドリーマー封面.jpg">文件:ヨイヤミドリーマー封面.jpg</a></td>
+<th>作品名</th><td><a class="new" title="Yoiyami·Dreamer（页面不存在）">Yoiyami·Dreamer</a></td>
 <th>制作方</th><td><a href="./tripper_room.md" title="tripper room">tripper_room</a></td>
 <th>发售日期</th><td colspan="3">2017年2月17日</td>
 </tr> 
@@ -342,7 +338,7 @@ Play,Doujin!不仅有索尼的PlayStation4，还有PSVita。
 <th>价格</th><td colspan="3">2778日元</td>
 </tr>
 <tr style="border:#AAAAAA;border-left-style: solid;border-left-width: 2px;border-right-style: solid;border-right-width: 2px;border-top-style: solid;border-top-width: 2px;">
-<td rowspan="2"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E3%83%87%E3%82%A3%E3%82%A2%E3%83%89%E3%83%A9%E3%82%A8%E3%83%B3%E3%83%97%E3%83%86%E3%82%A3%E5%B0%81%E9%9D%A2.jpg" class="new" title="文件:ディアドラエンプティ封面.jpg">文件:ディアドラエンプティ封面.jpg</a></td>
+<td rowspan="2"><a class="new" title="文件:ディアドラエンプティ封面.jpg">文件:ディアドラエンプティ封面.jpg</a></td>
 <th>作品名</th><td>DiadraEmpty</td>
 <th>制作方</th><td>ふろーずんおーぶ</td>
 <th>发售日期</th><td colspan="3">2017年8月31日</td>
@@ -354,7 +350,7 @@ Play,Doujin!不仅有索尼的PlayStation4，还有PSVita。
 <th>备注</th><td>非东方</td>
 </tr>
 <tr style="border:#AAAAAA;border-left-style: solid;border-left-width: 2px;border-right-style: solid;border-right-width: 2px;border-top-style: solid;border-top-width: 2px;">
-<td rowspan="2"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E8%BF%B7%E5%AE%AE%E7%B5%8C%E5%96%B6SLG_-ZombieVital_DG-_OfflineVer.%E5%B0%81%E9%9D%A2.jpg" class="new" title="文件:迷宮経営SLG -ZombieVital DG- OfflineVer.封面.jpg">文件:迷宮経営SLG -ZombieVital DG- OfflineVer.封面.jpg</a></td>
+<td rowspan="2"><a class="new" title="文件:迷宮経営SLG -ZombieVital DG- OfflineVer.封面.jpg">文件:迷宮経営SLG -ZombieVital DG- OfflineVer.封面.jpg</a></td>
 <th>作品名</th><td>迷宫经营SLG -ZombieVital DG- OfflineVer.</td>
 <th>制作方</th><td>StudioGIW</td>
 <th>发售日期</th><td colspan="3">2017年11月22日</td>
@@ -377,9 +373,9 @@ Play,Doujin!不仅有索尼的PlayStation4，还有PSVita。
 <th>价格</th><td colspan="3">2759日元</td>
 </tr>
 <tr style="border:#AAAAAA;border-left-style: solid;border-left-width: 2px;border-right-style: solid;border-right-width: 2px;border-top-style: solid;border-top-width: 2px;">
-<td rowspan="2"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=GUNDEMONIUMS%E5%B0%81%E9%9D%A2.jpg" class="new" title="文件:GUNDEMONIUMS封面.jpg">文件:GUNDEMONIUMS封面.jpg</a></td>
+<td rowspan="2"><a class="new" title="文件:GUNDEMONIUMS封面.jpg">文件:GUNDEMONIUMS封面.jpg</a></td>
 <th>作品名</th><td>GUNDEMONIUMS</td>
-<th>制作方</th><td><a href="/index.php?title=PlatineDispositif&amp;action=edit&amp;redlink=1" class="new" title="PlatineDispositif（页面不存在）">PlatineDispositif</a></td>
+<th>制作方</th><td><a class="new" title="PlatineDispositif（页面不存在）">PlatineDispositif</a></td>
 <th>发售日期</th><td colspan="3">2018年2月1日</td>
 </tr> 
 <tr style="border:#AAAAAA;border-left-style: solid;border-left-width: 2px;border-right-style: solid;border-right-width: 2px;border-bottom-style: solid;border-bottom-width: 2px;">
@@ -389,7 +385,7 @@ Play,Doujin!不仅有索尼的PlayStation4，还有PSVita。
 <th>备注</th><td>非东方</td>
 </tr>
 <tr style="border:#AAAAAA;border-left-style: solid;border-left-width: 2px;border-right-style: solid;border-right-width: 2px;border-top-style: solid;border-top-width: 2px;">
-<td rowspan="2"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=Back_in_199564%E5%B0%81%E9%9D%A2.jpg" class="new" title="文件:Back in 199564封面.jpg">文件:Back in 199564封面.jpg</a></td>
+<td rowspan="2"><a class="new" title="文件:Back in 199564封面.jpg">文件:Back in 199564封面.jpg</a></td>
 <th>作品名</th><td>Back in 199564</td>
 <th>制作方</th><td>Throw the warped code out</td>
 <th>发售日期</th><td colspan="3">2018年3月14日</td>
@@ -401,8 +397,8 @@ Play,Doujin!不仅有索尼的PlayStation4，还有PSVita。
 <th>备注</th><td>非东方</td>
 </tr>
 <tr style="border:#AAAAAA;border-left-style: solid;border-left-width: 2px;border-right-style: solid;border-right-width: 2px;border-top-style: solid;border-top-width: 2px;">
-<td rowspan="2"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E5%B9%BB%E6%83%B3%E9%83%B7%E3%83%87%E3%82%A3%E3%83%95%E3%82%A7%E3%83%B3%E3%83%80%E3%83%BC%E3%82%BA%E5%B0%81%E9%9D%A2.jpg" class="new" title="文件:幻想郷ディフェンダーズ封面.jpg">文件:幻想郷ディフェンダーズ封面.jpg</a></td>
-<th>作品名</th><td><a href="/index.php?title=%E5%B9%BB%E6%83%B3%E4%B9%A1%E5%AE%88%E5%8D%AB%E8%80%85&amp;action=edit&amp;redlink=1" class="new" title="幻想乡守卫者（页面不存在）">幻想乡守卫者</a></td>
+<td rowspan="2"><a class="new" title="文件:幻想郷ディフェンダーズ封面.jpg">文件:幻想郷ディフェンダーズ封面.jpg</a></td>
+<th>作品名</th><td><a class="new" title="幻想乡守卫者（页面不存在）">幻想乡守卫者</a></td>
 <th>制作方</th><td><a href="./Neetpia.md" title="Neetpia">Neetpia</a></td>
 <th>发售日期</th><td colspan="3">2018年5月1日</td>
 </tr> 
@@ -412,7 +408,7 @@ Play,Doujin!不仅有索尼的PlayStation4，还有PSVita。
 <th>价格</th><td colspan="3">2000日元</td>
 </tr>
 <tr style="border:#AAAAAA;border-left-style: solid;border-left-width: 2px;border-right-style: solid;border-right-width: 2px;border-top-style: solid;border-top-width: 2px;">
-<td rowspan="2"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E5%90%BE%E5%A6%BB%E9%82%B8%E3%81%8F%E3%82%8F%E3%81%84%E3%81%A0%E3%82%93%E5%B0%81%E9%9D%A2.jpg" class="new" title="文件:吾妻邸くわいだん封面.jpg">文件:吾妻邸くわいだん封面.jpg</a></td>
+<td rowspan="2"><a class="new" title="文件:吾妻邸くわいだん封面.jpg">文件:吾妻邸くわいだん封面.jpg</a></td>
 <th>作品名</th><td>吾妻邸怪谈</td>
 <th>制作方</th><td>求道庵</td>
 <th>发售日期</th><td colspan="3">2018年6月15日</td>
@@ -537,10 +533,6 @@ Play,Doujin!不仅有索尼的PlayStation4，还有PSVita。
 <th>发售日期</th><td>2017年9月5日（英文-北美）<br>2017年9月8日（英文-欧洲）</td>
 <th>价格</th><td>实体版（PS4）：29.99美元（普通版）、49.99美元（豪华版）<br><br>实体版（NS）：29.99美元（普通版）、49.99美元（豪华版）</td>
 </tr></tbody></table>
-
-
-
-
 
 
 ---

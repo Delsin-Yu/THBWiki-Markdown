@@ -1,16 +1,11 @@
 # 文件:幻想工務店banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a7\ns6%3A%E5%B9%BB%E6%83%B3%E5%B7%A5%E5%8B%99%E5%BA%97banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a7\ns6%3A%E5%B9%BB%E6%83%B3%E5%B7%A5%E5%8B%99%E5%BA%97banner%2Epng.html -->
 
 幻想工務店 | 社团LOGO
 
   
-源地址：[[1]](http://blog-imgs-12.fc2.com/t/o/h/tohodaisuki2008/20120303182214c14.png)
-  
-
-
-
-
+源地址：[\[1\]](http://blog-imgs-12.fc2.com/t/o/h/tohodaisuki2008/20120303182214c14.png)  
 
 ---
 

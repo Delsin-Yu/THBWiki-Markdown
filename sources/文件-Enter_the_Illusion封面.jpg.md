@@ -1,6 +1,6 @@
 # 文件:Enter_the_Illusion封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\35\ns6%3AEnter_the_Illusion%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\35\ns6%3AEnter_the_Illusion%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 BlossomNightfall | 专辑封面 | 封面图片
 
@@ -8,16 +8,12 @@ BlossomNightfall | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Enter the Illusion](./Enter_the_Illusion.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)- [博丽灵梦](./博丽灵梦.md)
+- [Enter the Illusion](./Enter_the_Illusion.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
+- [博丽灵梦](./博丽灵梦.md)
 
   
-源地址：[[1]](https://blossomnightfall.bandcamp.com/album/enter-the-illusion)
-  
-
-
-
-
+源地址：[\[1\]](https://blossomnightfall.bandcamp.com/album/enter-the-illusion)  
 
 ---
 

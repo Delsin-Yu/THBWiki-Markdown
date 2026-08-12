@@ -1,6 +1,6 @@
 # 文件:七色星彩-Colorfor_Starlight-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d3\ns6%3A%E4%B8%83%E8%89%B2%E6%98%9F%E5%BD%A9-Colorfor_Starlight-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d3\ns6%3A%E4%B8%83%E8%89%B2%E6%98%9F%E5%BD%A9-Colorfor_Starlight-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Twilight~日月之境~ | 同人志封面 | 封面图片
 
@@ -8,11 +8,9 @@ Twilight~日月之境~ | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [七色星彩-Colorfor Starlight-](./七色星彩-Colorfor_Starlight-.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [七色星彩-Colorfor Starlight-](./七色星彩-Colorfor_Starlight-.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

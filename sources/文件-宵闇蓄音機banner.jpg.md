@@ -1,12 +1,8 @@
 # 文件:宵闇蓄音機banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d0\ns6%3A%E5%AE%B5%E9%97%87%E8%93%84%E9%9F%B3%E6%A9%9Fbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d0\ns6%3A%E5%AE%B5%E9%97%87%E8%93%84%E9%9F%B3%E6%A9%9Fbanner%2Ejpg.html -->
 
 宵闇蓄音機 | 社团LOGO
-
-
-
-
 
 
 ---

@@ -1,16 +1,12 @@
 # 文件:MCG-Tenkai-Day2021.10.23.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2f\ns6%3AMCG-Tenkai-Day2021%2E10%2E23%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2f\ns6%3AMCG-Tenkai-Day2021%2E10%2E23%2Epng.html -->
 
 MineCraft幻想乡
 
   
 MC幻想乡天界白天地图
   
-
-
-
-
 
 ---
 

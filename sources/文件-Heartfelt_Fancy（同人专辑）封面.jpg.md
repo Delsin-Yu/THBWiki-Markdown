@@ -1,6 +1,6 @@
 # 文件:Heartfelt_Fancy（同人专辑）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b6\ns6%3AHeartfelt_Fancy%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b6\ns6%3AHeartfelt_Fancy%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Studio_*.izumi | 专辑封面 | 封面图片
 
@@ -10,11 +10,9 @@ Studio_*.izumi | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Heartfelt Fancy（同人专辑）](./Heartfelt_Fancy（同人专辑）.md)  
-该封面包含的角色：- [古明地觉](./古明地觉.md)- [古明地恋](./古明地恋.md)
-
-
-
+- [Heartfelt Fancy（同人专辑）](./Heartfelt_Fancy（同人专辑）.md)该封面包含的角色：
+- [古明地觉](./古明地觉.md)
+- [古明地恋](./古明地恋.md)
 
 
 ---

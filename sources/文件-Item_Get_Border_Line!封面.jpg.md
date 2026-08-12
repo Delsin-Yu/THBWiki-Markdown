@@ -1,6 +1,6 @@
 # 文件:Item_Get_Border_Line!封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c4\ns6%3AItem_Get_Border_Line%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c4\ns6%3AItem_Get_Border_Line%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 めておすたじお | 专辑封面 | 封面图片
 
@@ -10,11 +10,14 @@
 使用了本文件作封面图片的作品：
   
 
-- [Item Get Border Line!](./Item_Get_Border_Line!.md)  
-该封面包含的角色：- [露米娅](./露米娅.md)- [琪露诺](./琪露诺.md)- [琪斯美](./琪斯美.md)- [莉格露·奈特巴格](./莉格露·奈特巴格.md)- [秋静叶](./秋静叶.md)- [娜兹玲](./娜兹玲.md)- 东方神灵庙一面道中BOSS (未找到链接)
-
-
-
+- [Item Get Border Line!](./Item_Get_Border_Line!.md)该封面包含的角色：
+- [露米娅](./露米娅.md)
+- [琪露诺](./琪露诺.md)
+- [琪斯美](./琪斯美.md)
+- [莉格露·奈特巴格](./莉格露·奈特巴格.md)
+- [秋静叶](./秋静叶.md)
+- [娜兹玲](./娜兹玲.md)
+- 东方神灵庙一面道中BOSS (未找到链接)
 
 
 ---

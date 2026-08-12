@@ -1,16 +1,12 @@
 # 模板:COMITIA
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\e\e3\ns10%3ACOMITIA.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\e\e3\ns10%3ACOMITIA.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:Andante（同人专辑）封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\24\ns6%3AAndante%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\24\ns6%3AAndante%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Angelicca | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@ Angelicca | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Andante（同人专辑）](./Andante（同人专辑）.md)  
-该封面包含的角色：- [多多良小伞](./多多良小伞.md)
+- [Andante（同人专辑）](./Andante（同人专辑）.md)该封面包含的角色：
+- [多多良小伞](./多多良小伞.md)
 
   
-源地址：[图片链接](https://s2.booth.pm/142e55b4-5370-4434-9ca3-6861b2772d22/i/3233061/b7abff0b-3fa7-4e7b-b69d-eb6b8468de0e.png) [BOOTH](https://angelicca.booth.pm/items/3233061)
-  
-
-
-
-
+源地址：[图片链接](https://s2.booth.pm/142e55b4-5370-4434-9ca3-6861b2772d22/i/3233061/b7abff0b-3fa7-4e7b-b69d-eb6b8468de0e.png) [BOOTH](https://angelicca.booth.pm/items/3233061)  
 
 ---
 

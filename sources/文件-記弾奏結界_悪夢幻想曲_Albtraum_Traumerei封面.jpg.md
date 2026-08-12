@@ -1,6 +1,6 @@
 # 文件:記弾奏結界_悪夢幻想曲_Albtraum_Traumerei封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6a\ns6%3A%E8%A8%98%E5%BC%BE%E5%A5%8F%E7%B5%90%E7%95%8C_%E6%82%AA%E5%A4%A2%E5%B9%BB%E6%83%B3%E6%9B%B2_Albtraum_Traumerei%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6a\ns6%3A%E8%A8%98%E5%BC%BE%E5%A5%8F%E7%B5%90%E7%95%8C_%E6%82%AA%E5%A4%A2%E5%B9%BB%E6%83%B3%E6%9B%B2_Albtraum_Traumerei%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 dBu_music | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ dBu_music | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [記弾奏結界 悪夢幻想曲 Albtraum Traumerei](./記弾奏結界_悪夢幻想曲_Albtraum_Traumerei.md)  
-该封面包含的角色：- [宇佐见堇子](./宇佐见堇子.md)
-
-
-
+- [記弾奏結界 悪夢幻想曲 Albtraum Traumerei](./記弾奏結界_悪夢幻想曲_Albtraum_Traumerei.md)该封面包含的角色：
+- [宇佐见堇子](./宇佐见堇子.md)
 
 
 ---

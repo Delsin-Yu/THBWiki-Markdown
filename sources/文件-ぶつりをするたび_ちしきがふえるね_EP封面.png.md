@@ -1,6 +1,6 @@
 # 文件:ぶつりをするたび_ちしきがふえるね_EP封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e1\ns6%3A%E3%81%B6%E3%81%A4%E3%82%8A%E3%82%92%E3%81%99%E3%82%8B%E3%81%9F%E3%81%B3_%E3%81%A1%E3%81%97%E3%81%8D%E3%81%8C%E3%81%B5%E3%81%88%E3%82%8B%E3%81%AD_EP%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e1\ns6%3A%E3%81%B6%E3%81%A4%E3%82%8A%E3%82%92%E3%81%99%E3%82%8B%E3%81%9F%E3%81%B3_%E3%81%A1%E3%81%97%E3%81%8D%E3%81%8C%E3%81%B5%E3%81%88%E3%82%8B%E3%81%AD_EP%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 schwarzwald | 专辑封面 | 封面图片
 
@@ -8,16 +8,12 @@ schwarzwald | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [ぶつりをするたび ちしきがふえるね EP](./ぶつりをするたび_ちしきがふえるね_EP.md)  
-该封面包含的角色：- [宇佐见莲子](./宇佐见莲子.md)
+- [ぶつりをするたび ちしきがふえるね EP](./ぶつりをするたび_ちしきがふえるね_EP.md)该封面包含的角色：
+- [宇佐见莲子](./宇佐见莲子.md)
 
   
 源地址未知
   
-
-
-
-
 
 ---
 

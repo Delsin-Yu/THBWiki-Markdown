@@ -1,14 +1,11 @@
 # 文件:MineCraft幻想乡-鬼族入侵活动.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f2\ns6%3AMineCraft%E5%B9%BB%E6%83%B3%E4%B9%A1-%E9%AC%BC%E6%97%8F%E5%85%A5%E4%BE%B5%E6%B4%BB%E5%8A%A8%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f2\ns6%3AMineCraft%E5%B9%BB%E6%83%B3%E4%B9%A1-%E9%AC%BC%E6%97%8F%E5%85%A5%E4%BE%B5%E6%B4%BB%E5%8A%A8%2Ejpg.html -->
 
 MineCraft幻想乡
 
 
 ## 文件说明
-
-
-
 
 ---
 

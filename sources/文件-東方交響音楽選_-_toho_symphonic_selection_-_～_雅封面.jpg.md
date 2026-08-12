@@ -1,6 +1,6 @@
 # 文件:東方交響音楽選_-_toho_symphonic_selection_-_～_雅封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\22\ns6%3A%E6%9D%B1%E6%96%B9%E4%BA%A4%E9%9F%BF%E9%9F%B3%E6%A5%BD%E9%81%B8_-_toho_symphonic_selection_-_%EF%BD%9E_%E9%9B%85%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\22\ns6%3A%E6%9D%B1%E6%96%B9%E4%BA%A4%E9%9F%BF%E9%9F%B3%E6%A5%BD%E9%81%B8_-_toho_symphonic_selection_-_%EF%BD%9E_%E9%9B%85%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Tutti_Sound | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Tutti_Sound | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方交響音楽選 - toho symphonic selection - ～ 雅](./東方交響音楽選_-_toho_symphonic_selection_-_～_雅.md)  
-该封面包含的角色：- [西行寺幽幽子](./西行寺幽幽子.md)
-
-
-
+- [東方交響音楽選 - toho symphonic selection - ～ 雅](./東方交響音楽選_-_toho_symphonic_selection_-_～_雅.md)该封面包含的角色：
+- [西行寺幽幽子](./西行寺幽幽子.md)
 
 
 ---

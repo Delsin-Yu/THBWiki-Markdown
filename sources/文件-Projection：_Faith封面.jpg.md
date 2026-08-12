@@ -1,6 +1,6 @@
 # 文件:Projection：_Faith封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b0\ns6%3AProjection%EF%BC%9A_Faith%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b0\ns6%3AProjection%EF%BC%9A_Faith%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 fractanisharmonicoo | 专辑封面 | 封面图片
 
@@ -10,19 +10,14 @@ fractanisharmonicoo | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Projection： Faith](./Projection：_Faith.md)  
-该封面包含的角色：- [洩矢诹访子](./洩矢诹访子.md)
+- [Projection： Faith](./Projection：_Faith.md)该封面包含的角色：
+- [洩矢诹访子](./洩矢诹访子.md)
 
   
-源地址：[direct image link (max size)](https://64.media.tumblr.com/ce56720b40b5e64bbe301fb09ca6d3cf/d1f6e050666ba2ea-96/s2048x3072/38e7636a89956592f7b9c790a6c5afdbceee3d24.png), [source page (tumblr)](https://fractanisharmonicoo-projection.tumblr.com/)
-  
+源地址：[direct image link (max size)](https://64.media.tumblr.com/ce56720b40b5e64bbe301fb09ca6d3cf/d1f6e050666ba2ea-96/s2048x3072/38e7636a89956592f7b9c790a6c5afdbceee3d24.png), [source page (tumblr)](https://fractanisharmonicoo-projection.tumblr.com/)  
   
 Note: Soundcloud cover is about the same size but looks a bit blurry
   
-
-
-
-
 
 ---
 

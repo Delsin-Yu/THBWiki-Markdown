@@ -1,12 +1,8 @@
 # 文件:虹符「Umbrella_Cyclone」（神灵庙）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\36\ns6%3A%E8%99%B9%E7%AC%A6%E3%80%8CUmbrella_Cyclone%E3%80%8D%EF%BC%88%E7%A5%9E%E7%81%B5%E5%BA%99%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\36\ns6%3A%E8%99%B9%E7%AC%A6%E3%80%8CUmbrella_Cyclone%E3%80%8D%EF%BC%88%E7%A5%9E%E7%81%B5%E5%BA%99%EF%BC%89%2Epng.html -->
 
 东方神灵庙 | 多多良小伞 | 敌机符卡
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:E,R,P～emotional,romantic,pianoforte～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c7\ns6%3AE%2CR%2CP%EF%BD%9Eemotional%2Cromantic%2Cpianoforte%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c7\ns6%3AE%2CR%2CP%EF%BD%9Eemotional%2Cromantic%2Cpianoforte%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Pizuya's_Cell | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ Pizuya's_Cell | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [E,R,P～emotional,romantic,pianoforte～](./E,R,P～emotional,romantic,pianoforte～.md)  
-该封面包含的角色：- [八意永琳](./八意永琳.md)- [蓬莱山辉夜](./蓬莱山辉夜.md)
-
-
-
+- [E,R,P～emotional,romantic,pianoforte～](./E,R,P～emotional,romantic,pianoforte～.md)该封面包含的角色：
+- [八意永琳](./八意永琳.md)
+- [蓬莱山辉夜](./蓬莱山辉夜.md)
 
 
 ---

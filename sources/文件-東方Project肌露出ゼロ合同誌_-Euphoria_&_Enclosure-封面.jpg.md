@@ -1,6 +1,6 @@
 # 文件:東方Project肌露出ゼロ合同誌_-Euphoria_&_Enclosure-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\ba\ns6%3A%E6%9D%B1%E6%96%B9Project%E8%82%8C%E9%9C%B2%E5%87%BA%E3%82%BC%E3%83%AD%E5%90%88%E5%90%8C%E8%AA%8C_-Euphoria_%26_Enclosure-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\ba\ns6%3A%E6%9D%B1%E6%96%B9Project%E8%82%8C%E9%9C%B2%E5%87%BA%E3%82%BC%E3%83%AD%E5%90%88%E5%90%8C%E8%AA%8C_-Euphoria_%26_Enclosure-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 八寺発電所 | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方Project肌露出ゼロ合同誌 -Euphoria &amp; Enclosure-](./東方Project肌露出ゼロ合同誌_-Euphoria_&_Enclosure-.md)  
-该封面包含的角色：- [堀川雷鼓](./堀川雷鼓.md)
-
-
-
+- [東方Project肌露出ゼロ合同誌 -Euphoria & Enclosure-](./東方Project肌露出ゼロ合同誌_-Euphoria_&_Enclosure-.md)该封面包含的角色：
+- [堀川雷鼓](./堀川雷鼓.md)
 
 
 ---

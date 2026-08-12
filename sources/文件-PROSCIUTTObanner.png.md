@@ -1,14 +1,11 @@
 # 文件:PROSCIUTTObanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2d\ns6%3APROSCIUTTObanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2d\ns6%3APROSCIUTTObanner%2Epng.html -->
 
 PROSCIUTTO | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

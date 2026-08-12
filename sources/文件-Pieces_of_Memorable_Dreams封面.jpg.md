@@ -1,6 +1,6 @@
 # 文件:Pieces_of_Memorable_Dreams封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ac\ns6%3APieces_of_Memorable_Dreams%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ac\ns6%3APieces_of_Memorable_Dreams%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Colorful_Cube | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Colorful_Cube | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Pieces of Memorable Dreams](./Pieces_of_Memorable_Dreams.md)  
-该封面包含的角色：- [幽香](./幽香.md)
-
-
-
+- [Pieces of Memorable Dreams](./Pieces_of_Memorable_Dreams.md)该封面包含的角色：
+- [幽香](./幽香.md)
 
 
 ---

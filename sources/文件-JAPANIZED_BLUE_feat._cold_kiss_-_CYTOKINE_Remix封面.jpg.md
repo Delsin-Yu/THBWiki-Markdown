@@ -1,6 +1,6 @@
 # 文件:JAPANIZED_BLUE_feat._cold_kiss_-_CYTOKINE_Remix封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\15\ns6%3AJAPANIZED_BLUE_feat%2E_cold_kiss_-_CYTOKINE_Remix%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\15\ns6%3AJAPANIZED_BLUE_feat%2E_cold_kiss_-_CYTOKINE_Remix%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ZYTOKINE | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ ZYTOKINE | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [JAPANIZED BLUE feat. cold kiss - CYTOKINE Remix](./JAPANIZED_BLUE_feat._cold_kiss_-_CYTOKINE_Remix.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [JAPANIZED BLUE feat. cold kiss - CYTOKINE Remix](./JAPANIZED_BLUE_feat._cold_kiss_-_CYTOKINE_Remix.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

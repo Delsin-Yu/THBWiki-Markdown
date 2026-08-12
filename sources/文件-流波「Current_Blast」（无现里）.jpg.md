@@ -1,14 +1,11 @@
 # 文件:流波「Current_Blast」（无现里）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\43\ns6%3A%E6%B5%81%E6%B3%A2%E3%80%8CCurrent_Blast%E3%80%8D%EF%BC%88%E6%97%A0%E7%8E%B0%E9%87%8C%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\43\ns6%3A%E6%B5%81%E6%B3%A2%E3%80%8CCurrent_Blast%E3%80%8D%EF%BC%88%E6%97%A0%E7%8E%B0%E9%87%8C%EF%BC%89%2Ejpg.html -->
 
 连缘Project官方符牌 | 连缘无现里 | 鹀蒿雀
 
 
 ## 文件说明
-
-
-
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:東方夢幻録_Vol3_永き罪咎の夜想唄封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c9\ns6%3A%E6%9D%B1%E6%96%B9%E5%A4%A2%E5%B9%BB%E9%8C%B2_Vol3_%E6%B0%B8%E3%81%8D%E7%BD%AA%E5%92%8E%E3%81%AE%E5%A4%9C%E6%83%B3%E5%94%84%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c9\ns6%3A%E6%9D%B1%E6%96%B9%E5%A4%A2%E5%B9%BB%E9%8C%B2_Vol3_%E6%B0%B8%E3%81%8D%E7%BD%AA%E5%92%8E%E3%81%AE%E5%A4%9C%E6%83%B3%E5%94%84%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Re：Volte | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ Re：Volte | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方夢幻録 Vol3 永き罪咎の夜想唄](./東方夢幻録_Vol3_永き罪咎の夜想唄.md)  
-该封面包含的角色：- [八意永琳](./八意永琳.md)- [蓬莱山辉夜](./蓬莱山辉夜.md)
-
-
-
+- [東方夢幻録 Vol3 永き罪咎の夜想唄](./東方夢幻録_Vol3_永き罪咎の夜想唄.md)该封面包含的角色：
+- [八意永琳](./八意永琳.md)
+- [蓬莱山辉夜](./蓬莱山辉夜.md)
 
 
 ---

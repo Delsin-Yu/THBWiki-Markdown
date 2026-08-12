@@ -1,6 +1,6 @@
 # 文件:The_Lounge_Map_Extra_-_night_latte_macchiato_set封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\23\ns6%3AThe_Lounge_Map_Extra_-_night_latte_macchiato_set%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\23\ns6%3AThe_Lounge_Map_Extra_-_night_latte_macchiato_set%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 OrangeCoffee | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ OrangeCoffee | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [The Lounge Map Extra - night latte macchiato set](./The_Lounge_Map_Extra_-_night_latte_macchiato_set.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [The Lounge Map Extra - night latte macchiato set](./The_Lounge_Map_Extra_-_night_latte_macchiato_set.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
 
   
-源地址：[[1]](http://orangecoffee.sarashi.com/lmex/img/lmex_jacket.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://orangecoffee.sarashi.com/lmex/img/lmex_jacket.jpg)  
 
 ---
 

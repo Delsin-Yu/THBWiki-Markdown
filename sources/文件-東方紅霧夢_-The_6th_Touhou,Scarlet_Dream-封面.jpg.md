@@ -1,6 +1,6 @@
 # 文件:東方紅霧夢_-The_6th_Touhou,Scarlet_Dream-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3e\ns6%3A%E6%9D%B1%E6%96%B9%E7%B4%85%E9%9C%A7%E5%A4%A2_-The_6th_Touhou%2CScarlet_Dream-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3e\ns6%3A%E6%9D%B1%E6%96%B9%E7%B4%85%E9%9C%A7%E5%A4%A2_-The_6th_Touhou%2CScarlet_Dream-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 久夢界 | 同人志封面 | 封面图片
 
@@ -10,16 +10,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方紅霧夢 -The 6th Touhou,Scarlet Dream-](./東方紅霧夢_-The_6th_Touhou,Scarlet_Dream-.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [東方紅霧夢 -The 6th Touhou,Scarlet Dream-](./東方紅霧夢_-The_6th_Touhou,Scarlet_Dream-.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
   
-源地址：[direct image link](https://web.archive.org/web/20131023041356im_/http://i1083.photobucket.com/albums/j387/1091011/20120200.jpg), [source page](https://web.archive.org/web/20131008064034/http://90idream.blog.fc2.com/blog-entry-22.html)
-  
-
-
-
-
+源地址：[direct image link](https://web.archive.org/web/20131023041356im_/http://i1083.photobucket.com/albums/j387/1091011/20120200.jpg), [source page](https://web.archive.org/web/20131008064034/http://90idream.blog.fc2.com/blog-entry-22.html)  
 
 ---
 

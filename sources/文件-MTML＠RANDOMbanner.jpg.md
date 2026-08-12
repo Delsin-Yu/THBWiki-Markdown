@@ -1,16 +1,11 @@
 # 文件:MTML＠RANDOMbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cd\ns6%3AMTML%EF%BC%A0RANDOMbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cd\ns6%3AMTML%EF%BC%A0RANDOMbanner%2Ejpg.html -->
 
 MTML＠RANDOM | 社团LOGO
 
   
-源地址：[[1]](https://image.jimcdn.com/app/cms/image/transf/none/path/s6bea254d87141ff6/image/i8408474f4958faed/version/1356663807/image.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://image.jimcdn.com/app/cms/image/transf/none/path/s6bea254d87141ff6/image/i8408474f4958faed/version/1356663807/image.jpg)  
 
 ---
 

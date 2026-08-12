@@ -1,14 +1,11 @@
 # 文件:玉将「Queen_of_Yin_Yang_Sphere」（虹龙洞）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\97\ns6%3A%E7%8E%89%E5%B0%86%E3%80%8CQueen_of_Yin_Yang_Sphere%E3%80%8D%EF%BC%88%E8%99%B9%E9%BE%99%E6%B4%9E%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\97\ns6%3A%E7%8E%89%E5%B0%86%E3%80%8CQueen_of_Yin_Yang_Sphere%E3%80%8D%EF%BC%88%E8%99%B9%E9%BE%99%E6%B4%9E%EF%BC%89%2Epng.html -->
 
 东方虹龙洞 | 敌机符卡 | 玉造魅须丸
 
 
 ## 文件说明
-
-
-
 
 ---
 

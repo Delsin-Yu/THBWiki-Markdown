@@ -1,30 +1,30 @@
 # Remilia_ComplexVol.6
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\c\cb\ns0%3ARemilia_ComplexVol%2E6.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\c\cb\ns0%3ARemilia_ComplexVol%2E6.html -->
 
 2016年6月26日 由 Cardenal 于 东方幻想红魔祭1 发布的画集同人志，B5尺寸一共16页，登场人物有 蕾米莉亚·斯卡蕾特，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人志 (未找到链接)** 的词条
-
+**[二次创作同人志](./二次创作.md#同人志)**的词条
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Remilia_ComplexVol.6封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/e/ed/Remilia_ComplexVol.6%E5%B0%81%E9%9D%A2.jpg/159px-Remilia_ComplexVol.6%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="159" height="224" srcset="https://upload.thwiki.cc/thumb/e/ed/Remilia_ComplexVol.6%E5%B0%81%E9%9D%A2.jpg/239px-Remilia_ComplexVol.6%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/e/ed/Remilia_ComplexVol.6%E5%B0%81%E9%9D%A2.jpg/319px-Remilia_ComplexVol.6%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="641" data-file-height="900"></a><div class="cover-char">角色：<a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a></div></td>
 </tr><tr><td class="label">名称</td><td colspan="2"> Remilia ComplexVol.6 </td></tr><tr><td class="label">制作方</td><td><a href="./Cardenal.md" title="Cardenal">Cardenal</a></td><td class="cover-artwork" rowspan="8" style="min-width:224px;"><a href="./文件-Remilia_ComplexVol.6封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/e/ed/Remilia_ComplexVol.6%E5%B0%81%E9%9D%A2.jpg/159px-Remilia_ComplexVol.6%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="159" height="224" srcset="https://upload.thwiki.cc/thumb/e/ed/Remilia_ComplexVol.6%E5%B0%81%E9%9D%A2.jpg/239px-Remilia_ComplexVol.6%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/e/ed/Remilia_ComplexVol.6%E5%B0%81%E9%9D%A2.jpg/319px-Remilia_ComplexVol.6%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="641" data-file-height="900"></a><div class="cover-char">角色：<a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2016-06-26&#160;（<a href="/展会作品列表?e=%E4%B8%9C%E6%96%B9%E5%B9%BB%E6%83%B3%E7%BA%A2%E9%AD%94%E7%A5%AD%231">東方幻想紅魔祭1</a>）</td></tr><tr><td class="label">类型</td><td>画集</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>B5</td></tr><tr><td class="label">页数</td><td>16P</td></tr><tr><td class="label">登场人物</td><td><a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a></td></tr><tr><td class="label">售价</td><td>通贩售价：580日元</td></tr>
+</tr><tr><td class="label">首发日期</td><td>2016-06-26 （<a href="./展会作品列表.md#1">東方幻想紅魔祭1</a>）</td></tr><tr><td class="label">类型</td><td>画集</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>B5</td></tr><tr><td class="label">页数</td><td>16P</td></tr><tr><td class="label">登场人物</td><td><a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a></td></tr><tr><td class="label">售价</td><td>通贩售价：580日元</td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/i/web/status/746856269470797824">https://twitter.com/i/web/status/746856269470797824</a><br><a rel="nofollow" class="external free" href="https://twitter.com/i/web/status/747038644746100738">https://twitter.com/i/web/status/747038644746100738</a><br><a rel="nofollow" class="external free" href="https://twitter.com/i/web/status/744194762706542592">https://twitter.com/i/web/status/744194762706542592</a></td></tr></tbody></table>
 
 Remilia ComplexVol.6（同人志，Cardenal，2016） - 2016年6月26日 由 Cardenal 于 东方幻想红魔祭1 发布的画集同人志，B5尺寸一共16页，登场人物有 蕾米莉亚·斯卡蕾特，分级为 一般向
-
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=167736">蜜瓜</a></td></tr></tbody></table>
 
 
-
 ## 预览
-- [](./文件-Remilia_ComplexVol.6预览图1.jpg.md)- [](./文件-Remilia_ComplexVol.6预览图2.jpg.md)
+
+- <img alt="Remilia ComplexVol.6预览图1.jpg" src="https://upload.thwiki.cc/thumb/e/e0/Remilia_ComplexVol.6%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg/275px-Remilia_ComplexVol.6%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg" decoding="async" loading="lazy" width="184" height="250" srcset="https://upload.thwiki.cc/thumb/e/e0/Remilia_ComplexVol.6%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg/413px-Remilia_ComplexVol.6%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg 1.5x, https://upload.thwiki.cc/thumb/e/e0/Remilia_ComplexVol.6%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg/551px-Remilia_ComplexVol.6%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg 2x" data-file-width="661" data-file-height="900"> 
+- <img alt="Remilia ComplexVol.6预览图2.jpg" src="https://upload.thwiki.cc/thumb/f/f9/Remilia_ComplexVol.6%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg/265px-Remilia_ComplexVol.6%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg" decoding="async" loading="lazy" width="177" height="250" srcset="https://upload.thwiki.cc/thumb/f/f9/Remilia_ComplexVol.6%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg/398px-Remilia_ComplexVol.6%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg 1.5x, https://upload.thwiki.cc/thumb/f/f9/Remilia_ComplexVol.6%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg/531px-Remilia_ComplexVol.6%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg 2x" data-file-width="637" data-file-height="900"> 
 
 
 ## Staff
+
 - [秋染ハツカ](./秋染ハツカ.md)
 
 
@@ -32,14 +32,6 @@ Remilia ComplexVol.6（同人志，Cardenal，2016） - 2016年6月26日 由 Car
   
 軍服風衣装なレミリアオンリーフルカラーイラスト本です。
   
-  
-  
-
-  
-
-
-
-
 
 ---
 

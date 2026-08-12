@@ -1,16 +1,12 @@
 # 模板:幽闭星光Solo_Live
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\8\83\ns10%3A%E5%B9%BD%E9%97%AD%E6%98%9F%E5%85%89Solo_Live.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\8\83\ns10%3A%E5%B9%BD%E9%97%AD%E6%98%9F%E5%85%89Solo_Live.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

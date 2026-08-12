@@ -1,16 +1,11 @@
 # 文件:井戸屋banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7b\ns6%3A%E4%BA%95%E6%88%B8%E5%B1%8Bbanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7b\ns6%3A%E4%BA%95%E6%88%B8%E5%B1%8Bbanner%2Egif.html -->
 
 井戸屋 | 社团LOGO
 
   
-源地址：[[1]](http://www.geocities.jp/idoyanekohachi/idoyan-banner.gif)
-  
-
-
-
-
+源地址：[\[1\]](http://www.geocities.jp/idoyanekohachi/idoyan-banner.gif)  
 
 ---
 

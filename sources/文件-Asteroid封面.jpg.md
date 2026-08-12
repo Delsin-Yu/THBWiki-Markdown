@@ -1,6 +1,6 @@
 # 文件:Asteroid封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\15\ns6%3AAsteroid%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\15\ns6%3AAsteroid%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 墨斯卡林之翼 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Asteroid](./Asteroid.md)  
-该封面包含的角色：- [大妖精](./大妖精.md)
-
-
-
+- [Asteroid](./Asteroid.md)该封面包含的角色：
+- [大妖精](./大妖精.md)
 
 
 ---

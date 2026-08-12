@@ -1,12 +1,8 @@
 # 文件:夜符「Midnight_Bird」（文花帖）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\11\ns6%3A%E5%A4%9C%E7%AC%A6%E3%80%8CMidnight_Bird%E3%80%8D%EF%BC%88%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\11\ns6%3A%E5%A4%9C%E7%AC%A6%E3%80%8CMidnight_Bird%E3%80%8D%EF%BC%88%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Epng.html -->
 
 东方文花帖 | 敌机符卡 | 露米娅
-
-
-
-
 
 
 ---

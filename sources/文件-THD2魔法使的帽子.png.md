@@ -1,12 +1,8 @@
 # 文件:THD2魔法使的帽子.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\30\ns6%3ATHD2%E9%AD%94%E6%B3%95%E4%BD%BF%E7%9A%84%E5%B8%BD%E5%AD%90%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\30\ns6%3ATHD2%E9%AD%94%E6%B3%95%E4%BD%BF%E7%9A%84%E5%B8%BD%E5%AD%90%2Epng.html -->
 
 THD2
-
-
-
-
 
 
 ---

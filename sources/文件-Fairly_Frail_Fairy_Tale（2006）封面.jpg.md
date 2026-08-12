@@ -1,6 +1,6 @@
 # 文件:Fairly_Frail_Fairy_Tale（2006）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\ff\ns6%3AFairly_Frail_Fairy_Tale%EF%BC%882006%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\ff\ns6%3AFairly_Frail_Fairy_Tale%EF%BC%882006%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 FelisOvum | 同人志封面 | 封面图片
 
@@ -8,16 +8,13 @@ FelisOvum | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Fairly Frail Fairy Tale（2006）](./Fairly_Frail_Fairy_Tale（2006）.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)- [莉格露·奈特巴格](./莉格露·奈特巴格.md)- 原创角色 (未找到链接)
+- [Fairly Frail Fairy Tale（2006）](./Fairly_Frail_Fairy_Tale（2006）.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
+- [莉格露·奈特巴格](./莉格露·奈特巴格.md)
+- 原创角色 (未找到链接)
 
   
-源地址：[direct image link](https://www.suruga-ya.jp/database/pics/game/zhore2097.jpg), [base page](https://www.suruga-ya.jp/product/detail/ZHORE2097)
-  
-
-
-
-
+源地址：[direct image link](https://www.suruga-ya.jp/database/pics/game/zhore2097.jpg), [base page](https://www.suruga-ya.jp/product/detail/ZHORE2097)  
 
 ---
 

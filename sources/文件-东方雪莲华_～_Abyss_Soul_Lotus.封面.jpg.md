@@ -1,6 +1,6 @@
 # 文件:东方雪莲华_～_Abyss_Soul_Lotus.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b2\ns6%3A%E4%B8%9C%E6%96%B9%E9%9B%AA%E8%8E%B2%E5%8D%8E_%EF%BD%9E_Abyss_Soul_Lotus%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b2\ns6%3A%E4%B8%9C%E6%96%B9%E9%9B%AA%E8%8E%B2%E5%8D%8E_%EF%BD%9E_Abyss_Soul_Lotus%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 封面图片 | 软件封面 | 雨夜枫雪制作组
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [东方雪莲华 ～ Abyss Soul Lotus.](./东方雪莲华_～_Abyss_Soul_Lotus..md)  
-该封面包含的角色：- [妙严宫雪华](./妙严宫雪华.md)
-
-
-
+- [东方雪莲华 ～ Abyss Soul Lotus.](./东方雪莲华_～_Abyss_Soul_Lotus..md)该封面包含的角色：
+- [妙严宫雪华](./妙严宫雪华.md)
 
 
 ---

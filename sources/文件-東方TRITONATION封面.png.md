@@ -1,6 +1,6 @@
 # 文件:東方TRITONATION封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2b\ns6%3A%E6%9D%B1%E6%96%B9TRITONATION%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2b\ns6%3A%E6%9D%B1%E6%96%B9TRITONATION%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 FALSE&TRUES | いえろ～ぜぶら | 专辑封面 | 封面图片 | 有限会社るざりん
 
@@ -8,11 +8,8 @@ FALSE&TRUES | いえろ～ぜぶら | 专辑封面 | 封面图片 | 有限会社
 使用了本文件作封面图片的作品：
   
 
-- [東方TRITONATION](./東方TRITONATION.md)  
-该封面包含的角色：- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)
-
-
-
+- [東方TRITONATION](./東方TRITONATION.md)该封面包含的角色：
+- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)
 
 
 ---

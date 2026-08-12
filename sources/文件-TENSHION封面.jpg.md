@@ -1,6 +1,6 @@
 # 文件:TENSHION封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2b\ns6%3ATENSHION%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2b\ns6%3ATENSHION%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 No_Corner | 同人志封面 | 封面图片
 
@@ -10,16 +10,12 @@ No_Corner | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [TENSHION](./TENSHION.md)  
-该封面包含的角色：- [比那名居天子](./比那名居天子.md)- [依神紫苑](./依神紫苑.md)
+- [TENSHION](./TENSHION.md)该封面包含的角色：
+- [比那名居天子](./比那名居天子.md)
+- [依神紫苑](./依神紫苑.md)
 
   
-源地址：[[1]](https://scontent.fyvr3-1.fna.fbcdn.net/v/t1.6435-9/69870581_2873499142664589_1963628600708038656_n.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://scontent.fyvr3-1.fna.fbcdn.net/v/t1.6435-9/69870581_2873499142664589_1963628600708038656_n.jpg)  
 
 ---
 

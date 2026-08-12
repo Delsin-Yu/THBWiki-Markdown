@@ -1,16 +1,11 @@
 # 文件:Audio_Serratabanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\44\ns6%3AAudio_Serratabanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\44\ns6%3AAudio_Serratabanner%2Epng.html -->
 
 Audio_Serrata | 社团LOGO
 
   
-源地址：[[1]](https://audioserrata.files.wordpress.com/2014/11/small-banner1.png)
-  
-
-
-
-
+源地址：[\[1\]](https://audioserrata.files.wordpress.com/2014/11/small-banner1.png)  
 
 ---
 

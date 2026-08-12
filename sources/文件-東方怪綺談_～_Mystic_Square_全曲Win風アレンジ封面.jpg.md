@@ -1,6 +1,6 @@
 # 文件:東方怪綺談_～_Mystic_Square_全曲Win風アレンジ封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e6\ns6%3A%E6%9D%B1%E6%96%B9%E6%80%AA%E7%B6%BA%E8%AB%87_%EF%BD%9E_Mystic_Square_%E5%85%A8%E6%9B%B2Win%E9%A2%A8%E3%82%A2%E3%83%AC%E3%83%B3%E3%82%B8%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e6\ns6%3A%E6%9D%B1%E6%96%B9%E6%80%AA%E7%B6%BA%E8%AB%87_%EF%BD%9E_Mystic_Square_%E5%85%A8%E6%9B%B2Win%E9%A2%A8%E3%82%A2%E3%83%AC%E3%83%B3%E3%82%B8%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 FDesk | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ FDesk | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方怪綺談 ～ Mystic Square 全曲Win風アレンジ](./東方怪綺談_～_Mystic_Square_全曲Win風アレンジ.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [神绮](./神绮.md)
-
-
-
+- [東方怪綺談 ～ Mystic Square 全曲Win風アレンジ](./東方怪綺談_～_Mystic_Square_全曲Win風アレンジ.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [神绮](./神绮.md)
 
 
 ---

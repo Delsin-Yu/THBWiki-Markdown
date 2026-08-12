@@ -1,16 +1,11 @@
 # 文件:EcN_-エロクナイ-logo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e7\ns6%3AEcN_-%E3%82%A8%E3%83%AD%E3%82%AF%E3%83%8A%E3%82%A4-logo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e7\ns6%3AEcN_-%E3%82%A8%E3%83%AD%E3%82%AF%E3%83%8A%E3%82%A4-logo%2Ejpg.html -->
 
 EcN_-エロクナイ- | 社团LOGO
 
   
-源地址：[[1]](https://web.archive.org/web/20120301061213im_/http://www37.tok2.com/home/ito10ra/index.files/image001.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://web.archive.org/web/20120301061213im_/http://www37.tok2.com/home/ito10ra/index.files/image001.jpg)  
 
 ---
 

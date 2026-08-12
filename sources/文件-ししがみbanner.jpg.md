@@ -1,12 +1,8 @@
 # 文件:ししがみbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\47\ns6%3A%E3%81%97%E3%81%97%E3%81%8C%E3%81%BFbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\47\ns6%3A%E3%81%97%E3%81%97%E3%81%8C%E3%81%BFbanner%2Ejpg.html -->
 
 ししがみ | 社团LOGO
-
-
-
-
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:THD2坏人卡.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\25\ns6%3ATHD2%E5%9D%8F%E4%BA%BA%E5%8D%A1%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\25\ns6%3ATHD2%E5%9D%8F%E4%BA%BA%E5%8D%A1%2Epng.html -->
 
 AvalonStudioOfficial | THD2
-
-
-
-
 
 
 ---

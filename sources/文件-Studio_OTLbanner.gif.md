@@ -1,14 +1,11 @@
 # 文件:Studio_OTLbanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5d\ns6%3AStudio_OTLbanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5d\ns6%3AStudio_OTLbanner%2Egif.html -->
 
 Studio_OTL
 
 
 ## 文件说明
-
-
-
 
 ---
 

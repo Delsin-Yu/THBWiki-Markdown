@@ -1,29 +1,25 @@
 # Oh!PAIぱらだいす_ラフ本
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\2e\ns0%3AOh%21PAI%E3%81%B1%E3%82%89%E3%81%A0%E3%81%84%E3%81%99_%E3%83%A9%E3%83%95%E6%9C%AC.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\2e\ns0%3AOh%21PAI%E3%81%B1%E3%82%89%E3%81%A0%E3%81%84%E3%81%99_%E3%83%A9%E3%83%95%E6%9C%AC.html -->
 
 2019年5月5日 由 七色御伽草子 于 博丽神社例大祭16 发布的画集同人志，B5尺寸一共8页，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人志 (未找到链接)** 的词条
-
+**[二次创作同人志](./二次创作.md#同人志)**的词条
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Oh!PAIぱらだいす_ラフ本封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/8/81/Oh%21PAI%E3%81%B1%E3%82%89%E3%81%A0%E3%81%84%E3%81%99_%E3%83%A9%E3%83%95%E6%9C%AC%E5%B0%81%E9%9D%A2.jpg/126px-Oh%21PAI%E3%81%B1%E3%82%89%E3%81%A0%E3%81%84%E3%81%99_%E3%83%A9%E3%83%95%E6%9C%AC%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="126" height="168" srcset="https://upload.thwiki.cc/thumb/8/81/Oh%21PAI%E3%81%B1%E3%82%89%E3%81%A0%E3%81%84%E3%81%99_%E3%83%A9%E3%83%95%E6%9C%AC%E5%B0%81%E9%9D%A2.jpg/189px-Oh%21PAI%E3%81%B1%E3%82%89%E3%81%A0%E3%81%84%E3%81%99_%E3%83%A9%E3%83%95%E6%9C%AC%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/8/81/Oh%21PAI%E3%81%B1%E3%82%89%E3%81%A0%E3%81%84%E3%81%99_%E3%83%A9%E3%83%95%E6%9C%AC%E5%B0%81%E9%9D%A2.jpg/252px-Oh%21PAI%E3%81%B1%E3%82%89%E3%81%A0%E3%81%84%E3%81%99_%E3%83%A9%E3%83%95%E6%9C%AC%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="768" data-file-height="1024"></a><div class="cover-char">角色：<a href="./东风谷早苗.md" title="东风谷早苗">东风谷早苗</a></div></td>
 </tr><tr><td class="label">名称</td><td colspan="2"> Oh!PAIぱらだいす　　ラフ本 </td></tr><tr><td class="label">制作方</td><td><a href="./七色御伽草子.md" title="七色御伽草子">七色御伽草子</a></td><td class="cover-artwork" rowspan="6" style="min-width:168px;"><a href="./文件-Oh!PAIぱらだいす_ラフ本封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/8/81/Oh%21PAI%E3%81%B1%E3%82%89%E3%81%A0%E3%81%84%E3%81%99_%E3%83%A9%E3%83%95%E6%9C%AC%E5%B0%81%E9%9D%A2.jpg/126px-Oh%21PAI%E3%81%B1%E3%82%89%E3%81%A0%E3%81%84%E3%81%99_%E3%83%A9%E3%83%95%E6%9C%AC%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="126" height="168" srcset="https://upload.thwiki.cc/thumb/8/81/Oh%21PAI%E3%81%B1%E3%82%89%E3%81%A0%E3%81%84%E3%81%99_%E3%83%A9%E3%83%95%E6%9C%AC%E5%B0%81%E9%9D%A2.jpg/189px-Oh%21PAI%E3%81%B1%E3%82%89%E3%81%A0%E3%81%84%E3%81%99_%E3%83%A9%E3%83%95%E6%9C%AC%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/8/81/Oh%21PAI%E3%81%B1%E3%82%89%E3%81%A0%E3%81%84%E3%81%99_%E3%83%A9%E3%83%95%E6%9C%AC%E5%B0%81%E9%9D%A2.jpg/252px-Oh%21PAI%E3%81%B1%E3%82%89%E3%81%A0%E3%81%84%E3%81%99_%E3%83%A9%E3%83%95%E6%9C%AC%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="768" data-file-height="1024"></a><div class="cover-char">角色：<a href="./东风谷早苗.md" title="东风谷早苗">东风谷早苗</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2019-05-05&#160;（<a href="/展会作品列表?e=%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD%2316">第十六回 博麗神社例大祭</a>）</td></tr><tr><td class="label">类型</td><td>画集</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>B5</td></tr><tr><td class="label">页数</td><td>8P</td></tr>
-<tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/member_illust.php?mode=medium&amp;illust_id=74510146">https://www.pixiv.net/member_illust.php?mode=medium&amp;illust_id=74510146</a></td></tr></tbody></table>
+</tr><tr><td class="label">首发日期</td><td>2019-05-05 （<a href="./展会作品列表.md#16">第十六回 博麗神社例大祭</a>）</td></tr><tr><td class="label">类型</td><td>画集</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>B5</td></tr><tr><td class="label">页数</td><td>8P</td></tr>
+<tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/member_illust.php?mode=medium&illust_id=74510146">https://www.pixiv.net/member_illust.php?mode=medium&illust_id=74510146</a></td></tr></tbody></table>
 
 Oh!PAIぱらだいす ラフ本（同人志，七色御伽草子，2019） - 2019年5月5日 由 七色御伽草子 于 博丽神社例大祭16 发布的画集同人志，B5尺寸一共8页，分级为 一般向
-
 ## Staff
+
 - [宮瀬まひろ](./宮瀬まひろ.md)
 
 
 ## 评论
-
-
-
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:エキストラッシュ！_～_Stories_after_Stories封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0e\ns6%3A%E3%82%A8%E3%82%AD%E3%82%B9%E3%83%88%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%EF%BC%81_%EF%BD%9E_Stories_after_Stories%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0e\ns6%3A%E3%82%A8%E3%82%AD%E3%82%B9%E3%83%88%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%EF%BC%81_%EF%BD%9E_Stories_after_Stories%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 あーとす | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [エキストラッシュ！ ～ Stories after Stories](./エキストラッシュ！_～_Stories_after_Stories.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
-
-
-
+- [エキストラッシュ！ ～ Stories after Stories](./エキストラッシュ！_～_Stories_after_Stories.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
 
 ---

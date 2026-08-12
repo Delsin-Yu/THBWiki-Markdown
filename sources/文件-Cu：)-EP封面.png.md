@@ -1,6 +1,6 @@
 # 文件:Cu：)-EP封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3d\ns6%3ACu%EF%BC%9A%29-EP%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3d\ns6%3ACu%EF%BC%9A%29-EP%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Redox_Reaction | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Redox_Reaction | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Cu：)-EP](./Cu：)-EP.md)  
-该封面包含的角色：- [河城荷取](./河城荷取.md)
-
-
-
+- [Cu：)-EP](./Cu：%29-EP.md)该封面包含的角色：
+- [河城荷取](./河城荷取.md)
 
 
 ---

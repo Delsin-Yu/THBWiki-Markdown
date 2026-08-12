@@ -1,6 +1,6 @@
 # 文件:We_are_on_the_same_wavelength.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\43\ns6%3AWe_are_on_the_same_wavelength%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\43\ns6%3AWe_are_on_the_same_wavelength%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 灯火浮遊戦
 
@@ -10,11 +10,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [We are on the same wavelength.](./We_are_on_the_same_wavelength..md)  
-该封面包含的角色：- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)- 十六夜咲夜 (未找到链接)- [键山雏](./键山雏.md)- [古明地恋](./古明地恋.md)- [多多良小伞](./多多良小伞.md)
-
-
-
+- [We are on the same wavelength.](./We_are_on_the_same_wavelength..md)该封面包含的角色：
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
+- [十六夜咲夜](./十六夜咲夜.md)
+- [键山雏](./键山雏.md)
+- [古明地恋](./古明地恋.md)
+- [多多良小伞](./多多良小伞.md)
 
 
 ---

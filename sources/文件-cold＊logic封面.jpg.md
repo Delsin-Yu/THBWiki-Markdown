@@ -1,6 +1,6 @@
 # 文件:cold＊logic封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\31\ns6%3Acold%EF%BC%8Alogic%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\31\ns6%3Acold%EF%BC%8Alogic%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 お月見団子 | 同人志封面 | 封面图片
 
@@ -10,16 +10,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [cold＊logic](./cold＊logic.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [雾雨魔理沙](./雾雨魔理沙.md)
+- [cold＊logic](./cold＊logic.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-[Pixiv artwork ID: 38959709](https://www.pixiv.net/artworks/38959709)
-  
-
-
-
-
+[Pixiv artwork ID: 38959709](https://www.pixiv.net/artworks/38959709)  
 
 ---
 

@@ -1,16 +1,11 @@
 # 文件:woolycloudsbanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5e\ns6%3Awoolycloudsbanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5e\ns6%3Awoolycloudsbanner%2Egif.html -->
 
 woolyclouds | 社团LOGO
 
   
-源地址：[[1]](http://woolycloudsmain.web.fc2.com/images/banner.gif)
-  
-
-
-
-
+源地址：[\[1\]](http://woolycloudsmain.web.fc2.com/images/banner.gif)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:富士新興講～The_Overwritten_God.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d4\ns6%3A%E5%AF%8C%E5%A3%AB%E6%96%B0%E8%88%88%E8%AC%9B%EF%BD%9EThe_Overwritten_God%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d4\ns6%3A%E5%AF%8C%E5%A3%AB%E6%96%B0%E8%88%88%E8%AC%9B%EF%BD%9EThe_Overwritten_God%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 硫酸ポリオミノ
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [富士新興講～The Overwritten God.](./富士新興講～The_Overwritten_God..md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [富士新興講～The Overwritten God.](./富士新興講～The_Overwritten_God..md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

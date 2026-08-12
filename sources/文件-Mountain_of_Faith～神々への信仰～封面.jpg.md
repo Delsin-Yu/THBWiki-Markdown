@@ -1,6 +1,6 @@
 # 文件:Mountain_of_Faith～神々への信仰～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\45\ns6%3AMountain_of_Faith%EF%BD%9E%E7%A5%9E%E3%80%85%E3%81%B8%E3%81%AE%E4%BF%A1%E4%BB%B0%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\45\ns6%3AMountain_of_Faith%EF%BD%9E%E7%A5%9E%E3%80%85%E3%81%B8%E3%81%AE%E4%BF%A1%E4%BB%B0%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 MyonMyon | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ MyonMyon | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Mountain of Faith～神々への信仰～](./Mountain_of_Faith～神々への信仰～.md)  
-该封面包含的角色：- [东风谷早苗](./东风谷早苗.md)
-
-
-
+- [Mountain of Faith～神々への信仰～](./Mountain_of_Faith～神々への信仰～.md)该封面包含的角色：
+- [东风谷早苗](./东风谷早苗.md)
 
 
 ---

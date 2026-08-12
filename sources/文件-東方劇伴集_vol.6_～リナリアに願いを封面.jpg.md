@@ -1,6 +1,6 @@
 # 文件:東方劇伴集_vol.6_～リナリアに願いを封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\66\ns6%3A%E6%9D%B1%E6%96%B9%E5%8A%87%E4%BC%B4%E9%9B%86_vol%2E6_%EF%BD%9E%E3%83%AA%E3%83%8A%E3%83%AA%E3%82%A2%E3%81%AB%E9%A1%98%E3%81%84%E3%82%92%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\66\ns6%3A%E6%9D%B1%E6%96%B9%E5%8A%87%E4%BC%B4%E9%9B%86_vol%2E6_%EF%BD%9E%E3%83%AA%E3%83%8A%E3%83%AA%E3%82%A2%E3%81%AB%E9%A1%98%E3%81%84%E3%82%92%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 西向く侍
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方劇伴集 vol.6 ～リナリアに願いを](./東方劇伴集_vol.6_～リナリアに願いを.md)  
-该封面包含的角色：- [古明地恋](./古明地恋.md)
-
-
-
+- [東方劇伴集 vol.6 ～リナリアに願いを](./東方劇伴集_vol.6_～リナリアに願いを.md)该封面包含的角色：
+- [古明地恋](./古明地恋.md)
 
 
 ---

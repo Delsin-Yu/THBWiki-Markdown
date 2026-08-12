@@ -1,13 +1,11 @@
 # Solar_Deity
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\9\9f\ns0%3ASolar_Deity.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\9\9f\ns0%3ASolar_Deity.html -->
 
 2017年6月20日 由 Ghoulio  发布的全长同人专辑，曲目主要风格是 Rock、其他，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人专辑 (未找到链接)** 的词条
-<center>
-
+**[二次创作同人专辑](./二次创作.md#同人音乐)**的词条<center>
 <table>
 <tbody><tr>
 <td class="mbox-image"><div style="width: 52px;">
@@ -16,9 +14,7 @@
 </tr>
 </tbody></table>
 
-
 </center>
-
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Solar_Deity封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/c/cd/Solar_Deity%E5%B0%81%E9%9D%A2.jpg/252px-Solar_Deity%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="252" height="252" srcset="https://upload.thwiki.cc/thumb/c/cd/Solar_Deity%E5%B0%81%E9%9D%A2.jpg/378px-Solar_Deity%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/c/cd/Solar_Deity%E5%B0%81%E9%9D%A2.jpg/504px-Solar_Deity%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1200" data-file-height="1200"></a></td>
@@ -27,40 +23,33 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://ghouliberto.bandcamp.com/album/solar-deity">https://ghouliberto.bandcamp.com/album/solar-deity</a></td></tr></tbody></table>
 
 Solar Deity（同人专辑，Ghoulio，2017） - 2017年6月20日 由 Ghoulio  发布的全长同人专辑，曲目主要风格是 Rock、其他，分级为 一般向
-
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://ghouliberto.bandcamp.com/album/solar-deity">bandcamp</a></td></tr></tbody></table>
-
 
 
 ## Staff
   
- **Compose**   
+**Compose**  
 
-<table><tbody><tr><td><a href="./Ghoulio.md" title="Ghoulio">Ghoulio</a></td><td><a href="./Ghoulio_Deficiente.md" class="mw-redirect" title="Ghoulio Deficiente">Ghoulio Deficiente</a></td><td>Tr.1</td></tr></tbody></table>
+<table><tbody><tr><td><a href="./Ghoulio.md" title="Ghoulio">Ghoulio</a></td><td><a href="./Ghoulio.md" class="mw-redirect" title="Ghoulio Deficiente">Ghoulio Deficiente</a></td><td>Tr.1</td></tr></tbody></table>
 
   
- **Arrangement**   
+**Arrangement**  
 
-<table><tbody><tr><td><a href="./Ghoulio.md" title="Ghoulio">Ghoulio</a></td><td><a href="./Ghoulio_Deficiente.md" class="mw-redirect" title="Ghoulio Deficiente">Ghoulio Deficiente</a></td><td>Tr.2-7</td></tr></tbody></table>
-
+<table><tbody><tr><td><a href="./Ghoulio.md" title="Ghoulio">Ghoulio</a></td><td><a href="./Ghoulio.md" class="mw-redirect" title="Ghoulio Deficiente">Ghoulio Deficiente</a></td><td>Tr.2-7</td></tr></tbody></table>
 
 
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYL"><b>01</b></td><td id="Totemism" colspan="2" class="title">Totemism<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Ghoulio&amp;fromwiki=Solar_Deity"><span title="搜索相似同人曲"></span></a></span></td><td class="time">07:50</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./Ghoulio.md" title="Ghoulio">Ghoulio</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Ghoulio&amp;fromwiki=Solar_Deity"><span></span></a></span></td></tr>
-<tr><td id="2" class="infoYD"><b>02</b></td><td id="Veneficae_Potionem" colspan="2" class="title">Veneficae Potionem<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Ghoulio&amp;ogmusic=メイガスナイト&amp;fromwiki=Solar_Deity"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:21</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Ghoulio.md" title="Ghoulio">Ghoulio</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Ghoulio&amp;fromwiki=Solar_Deity"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=メイガスナイト&amp;fromwiki=Solar_Deity"><span></span></a></span><div class="ogmusic"><a href="./メイガスナイト.md" class="mw-redirect" title="メイガスナイト">メイガスナイト</a></div><div class="source"><a href="./妖精大战争_～_东方三月精.md" class="mw-redirect" title="妖精大战争 ～ 东方三月精">妖精大战争　～ 东方三月精</a></div></td></tr>
-<tr><td id="3" class="infoYD"><b>03</b></td><td id="Phosphorus" colspan="2" class="title">Phosphorus<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Ghoulio&amp;ogmusic=死体旅行　～ Be of good cheer!&amp;fromwiki=Solar_Deity"><span title="搜索相似同人曲"></span></a></span></td><td class="time">06:17</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Ghoulio.md" title="Ghoulio">Ghoulio</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Ghoulio&amp;fromwiki=Solar_Deity"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=死体旅行　～ Be of good cheer!&amp;fromwiki=Solar_Deity"><span></span></a></span><div class="ogmusic"><a href="./死体旅行_～_Be_of_good_cheer!.md" class="mw-redirect" title="死体旅行 ～ Be of good cheer!">死体旅行　～ Be of good cheer!</a></div><div class="source"><a href="./东方地灵殿_～_Subterranean_Animism..md" class="mw-redirect" title="东方地灵殿 ～ Subterranean Animism.">东方地灵殿　～ Subterranean Animism.</a></div></td></tr>
-<tr><td id="4" class="infoYD"><b>04</b></td><td id="Solar_Deity" colspan="2" class="title">Solar Deity<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Ghoulio&amp;ogmusic=霊知の太陽信仰　～ Nuclear Fusion&amp;fromwiki=Solar_Deity"><span title="搜索相似同人曲"></span></a></span></td><td class="time">06:14</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Ghoulio.md" title="Ghoulio">Ghoulio</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Ghoulio&amp;fromwiki=Solar_Deity"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=霊知の太陽信仰　～ Nuclear Fusion&amp;fromwiki=Solar_Deity"><span></span></a></span><div class="ogmusic"><a href="./霊知の太陽信仰_～_Nuclear_Fusion.md" class="mw-redirect" title="霊知の太陽信仰 ～ Nuclear Fusion">霊知の太陽信仰　～ Nuclear Fusion</a></div><div class="source"><a href="./东方地灵殿_～_Subterranean_Animism..md" class="mw-redirect" title="东方地灵殿 ～ Subterranean Animism.">东方地灵殿　～ Subterranean Animism.</a></div></td></tr>
-<tr><td id="5" class="infoYD"><b>05</b></td><td id="Chimera&#39;s_Laughter" colspan="2" class="title">Chimera&#39;s Laughter<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Ghoulio&amp;ogmusic=平安のエイリアン&amp;fromwiki=Solar_Deity"><span title="搜索相似同人曲"></span></a></span></td><td class="time">05:00</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Ghoulio.md" title="Ghoulio">Ghoulio</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Ghoulio&amp;fromwiki=Solar_Deity"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=平安のエイリアン&amp;fromwiki=Solar_Deity"><span></span></a></span><div class="ogmusic"><a href="./平安のエイリアン.md" class="mw-redirect" title="平安のエイリアン">平安のエイリアン</a></div><div class="source"><a href="./东方星莲船_～_Undefined_Fantastic_Object..md" class="mw-redirect" title="东方星莲船 ～ Undefined Fantastic Object.">东方星莲船　～ Undefined Fantastic Object.</a></div></td></tr>
-<tr><td id="6" class="infoYD"><b>06</b></td><td id="Mindreader" colspan="2" class="title">Mindreader<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Ghoulio&amp;ogmusic=少女さとり　～ 3rd eye&amp;fromwiki=Solar_Deity"><span title="搜索相似同人曲"></span></a></span></td><td class="time">10:47</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Ghoulio.md" title="Ghoulio">Ghoulio</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Ghoulio&amp;fromwiki=Solar_Deity"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=少女さとり　～ 3rd eye&amp;fromwiki=Solar_Deity"><span></span></a></span><div class="ogmusic"><a href="./少女さとり_～_3rd_eye.md" class="mw-redirect" title="少女さとり ～ 3rd eye">少女さとり　～ 3rd eye</a></div><div class="source"><a href="./东方地灵殿_～_Subterranean_Animism..md" class="mw-redirect" title="东方地灵殿 ～ Subterranean Animism.">东方地灵殿　～ Subterranean Animism.</a></div></td></tr>
-<tr><td id="7" class="infoYD"><b>07</b></td><td id="Perfection&amp;Elegance" colspan="2" class="title">Perfection&#38;Elegance<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Ghoulio&amp;ogmusic=月時計　～ ルナ・ダイアル&amp;fromwiki=Solar_Deity"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:56</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Ghoulio.md" title="Ghoulio">Ghoulio</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Ghoulio&amp;fromwiki=Solar_Deity"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=月時計　～ ルナ・ダイアル&amp;fromwiki=Solar_Deity"><span></span></a></span><div class="ogmusic"><a href="./月時計_～_ルナ・ダイアル.md" class="mw-redirect" title="月時計 ～ ルナ・ダイアル">月時計　～ ルナ・ダイアル</a></div><div class="source"><a href="./东方红魔乡_～_the_Embodiment_of_Scarlet_Devil..md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr></tbody></table>
-
+<table><tbody><tr><td id="1" class="infoYL"><b>01</b></td><td id="Totemism" colspan="2" class="title">Totemism</td><td class="time">07:50</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./Ghoulio.md" title="Ghoulio">Ghoulio</a></td></tr>
+<tr><td id="2" class="infoYD"><b>02</b></td><td id="Veneficae_Potionem" colspan="2" class="title">Veneficae Potionem</td><td class="time">04:21</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Ghoulio.md" title="Ghoulio">Ghoulio</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./Magus_Night.md" class="mw-redirect" title="メイガスナイト">メイガスナイト</a></div><div class="source"><a href="./妖精大战争.md" class="mw-redirect" title="妖精大战争 ～ 东方三月精">妖精大战争　～ 东方三月精</a></div></td></tr>
+<tr><td id="3" class="infoYD"><b>03</b></td><td id="Phosphorus" colspan="2" class="title">Phosphorus</td><td class="time">06:17</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Ghoulio.md" title="Ghoulio">Ghoulio</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./尸体旅行_～_Be_of_good_cheer!.md" class="mw-redirect" title="死体旅行 ～ Be of good cheer!">死体旅行　～ Be of good cheer!</a></div><div class="source"><a href="./东方地灵殿.md" class="mw-redirect" title="东方地灵殿 ～ Subterranean Animism.">东方地灵殿　～ Subterranean Animism.</a></div></td></tr>
+<tr><td id="4" class="infoYD"><b>04</b></td><td id="Solar_Deity" colspan="2" class="title">Solar Deity</td><td class="time">06:14</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Ghoulio.md" title="Ghoulio">Ghoulio</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./灵知的太阳信仰_～_Nuclear_Fusion.md" class="mw-redirect" title="霊知の太陽信仰 ～ Nuclear Fusion">霊知の太陽信仰　～ Nuclear Fusion</a></div><div class="source"><a href="./东方地灵殿.md" class="mw-redirect" title="东方地灵殿 ～ Subterranean Animism.">东方地灵殿　～ Subterranean Animism.</a></div></td></tr>
+<tr><td id="5" class="infoYD"><b>05</b></td><td id="Chimera&#39;s_Laughter" colspan="2" class="title">Chimera's Laughter</td><td class="time">05:00</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Ghoulio.md" title="Ghoulio">Ghoulio</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./平安时代的外星人.md" class="mw-redirect" title="平安のエイリアン">平安のエイリアン</a></div><div class="source"><a href="./东方星莲船.md" class="mw-redirect" title="东方星莲船 ～ Undefined Fantastic Object.">东方星莲船　～ Undefined Fantastic Object.</a></div></td></tr>
+<tr><td id="6" class="infoYD"><b>06</b></td><td id="Mindreader" colspan="2" class="title">Mindreader</td><td class="time">10:47</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Ghoulio.md" title="Ghoulio">Ghoulio</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./少女觉_～_3rd_eye.md" class="mw-redirect" title="少女さとり ～ 3rd eye">少女さとり　～ 3rd eye</a></div><div class="source"><a href="./东方地灵殿.md" class="mw-redirect" title="东方地灵殿 ～ Subterranean Animism.">东方地灵殿　～ Subterranean Animism.</a></div></td></tr>
+<tr><td id="7" class="infoYD"><b>07</b></td><td id="Perfection&amp;Elegance" colspan="2" class="title">Perfection&Elegance</td><td class="time">04:56</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Ghoulio.md" title="Ghoulio">Ghoulio</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./月时计_～_Luna_Dial.md" class="mw-redirect" title="月時計 ～ ルナ・ダイアル">月時計　～ ルナ・ダイアル</a></div><div class="source"><a href="./东方红魔乡.md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr></tbody></table>
 
 
 ## 评论
-
-
-
 
 ---
 

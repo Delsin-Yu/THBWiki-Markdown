@@ -1,6 +1,6 @@
 # 文件:Fairy_Crusaders_VS_Cadd⑨th封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\64\ns6%3AFairy_Crusaders_VS_Cadd%E2%91%A8th%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\64\ns6%3AFairy_Crusaders_VS_Cadd%E2%91%A8th%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Cadd⑨th | Fairy_Crusaders | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ Cadd⑨th | Fairy_Crusaders | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Fairy Crusaders VS Cadd⑨th](./Fairy_Crusaders_VS_Cadd⑨th.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)- [古明地恋](./古明地恋.md)
-
-
-
+- [Fairy Crusaders VS Cadd⑨th](./Fairy_Crusaders_VS_Cadd⑨th.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
+- [古明地恋](./古明地恋.md)
 
 
 ---

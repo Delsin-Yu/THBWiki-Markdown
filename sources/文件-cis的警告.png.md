@@ -1,12 +1,8 @@
 # 文件:cis的警告.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\10\ns6%3Acis%E7%9A%84%E8%AD%A6%E5%91%8A%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\10\ns6%3Acis%E7%9A%84%E8%AD%A6%E5%91%8A%2Epng.html -->
 
 东方警察
-
-
-
-
 
 
 ---

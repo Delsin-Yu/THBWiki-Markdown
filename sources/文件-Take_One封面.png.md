@@ -1,6 +1,6 @@
 # 文件:Take_One封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b0\ns6%3ATake_One%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b0\ns6%3ATake_One%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Echoes_Construction | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Echoes_Construction | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Take One](./Take_One.md)  
-该封面包含的角色：- [露米娅](./露米娅.md)
+- [Take One](./Take_One.md)该封面包含的角色：
+- [露米娅](./露米娅.md)
 
   
-源地址：[[1]](http://67.media.tumblr.com/309d0b5722600899758fa2ee40118f53/tumblr_inline_nhwbwtCp2v1t50xlz.png)
-  
-
-
-
-
+源地址：[\[1\]](http://67.media.tumblr.com/309d0b5722600899758fa2ee40118f53/tumblr_inline_nhwbwtCp2v1t50xlz.png)  
 
 ---
 

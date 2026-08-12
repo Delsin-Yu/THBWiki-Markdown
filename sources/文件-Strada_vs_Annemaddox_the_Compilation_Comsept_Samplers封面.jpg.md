@@ -1,6 +1,6 @@
 # 文件:Strada_vs_Annemaddox_the_Compilation_Comsept_Samplers封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c4\ns6%3AStrada_vs_Annemaddox_the_Compilation_Comsept_Samplers%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c4\ns6%3AStrada_vs_Annemaddox_the_Compilation_Comsept_Samplers%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 MARS_Tracks | 专辑封面 | 封面图片
 
@@ -13,12 +13,7 @@ MARS_Tracks | 专辑封面 | 封面图片
 - [Strada vs Annemaddox the Compilation Comsept Samplers](./Strada_vs_Annemaddox_the_Compilation_Comsept_Samplers.md)
 
   
-源地址：[direct image link (max size)](https://blog-imgs-43-origin.fc2.com/m/a/r/marstracks/20110430032617db0.jpg), [source page](http://marstracks.blog111.fc2.com/blog-entry-4.html)
-  
-
-
-
-
+源地址：[direct image link (max size)](https://blog-imgs-43-origin.fc2.com/m/a/r/marstracks/20110430032617db0.jpg), [source page](http://marstracks.blog111.fc2.com/blog-entry-4.html)  
 
 ---
 

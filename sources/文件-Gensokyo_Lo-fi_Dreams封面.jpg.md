@@ -1,6 +1,6 @@
 # 文件:Gensokyo_Lo-fi_Dreams封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8e\ns6%3AGensokyo_Lo-fi_Dreams%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8e\ns6%3AGensokyo_Lo-fi_Dreams%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Sastra_Moment | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@ Sastra_Moment | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Gensokyo Lo-fi Dreams](./Gensokyo_Lo-fi_Dreams.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
+- [Gensokyo Lo-fi Dreams](./Gensokyo_Lo-fi_Dreams.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
   
-源地址：[direct image link (10 size)](https://f4.bcbits.com/img/a1527555667_10.jpg), [source page (artist Bandcamp)](https://sastramoment.bandcamp.com/album/gensokyo-lo-fi-dreams)
-  
-
-
-
-
+源地址：[direct image link (10 size)](https://f4.bcbits.com/img/a1527555667_10.jpg), [source page (artist Bandcamp)](https://sastramoment.bandcamp.com/album/gensokyo-lo-fi-dreams)  
 
 ---
 

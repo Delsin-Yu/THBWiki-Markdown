@@ -1,16 +1,12 @@
 # 文件:le04_BOSS_Sukune.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8f\ns6%3Ale04_BOSS_Sukune%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8f\ns6%3Ale04_BOSS_Sukune%2Emp3.html -->
 
 连缘Project官方音乐MP3
 
   
 连缘天影战记中立线5面Boss-片野宿祢主题曲
   
-
-
-
-
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:Secret_Prank封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\65\ns6%3ASecret_Prank%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\65\ns6%3ASecret_Prank%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 いたずらねこはうす。 | 同人志封面 | 封面图片
 
@@ -10,16 +10,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [Secret Prank](./Secret_Prank.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [雾雨魔理沙](./雾雨魔理沙.md)
+- [Secret Prank](./Secret_Prank.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-[Pixiv artwork ID: 101689498 (original size)](https://www.pixiv.net/artworks/101689498)
-  
-
-
-
-
+[Pixiv artwork ID: 101689498 (original size)](https://www.pixiv.net/artworks/101689498)  
 
 ---
 

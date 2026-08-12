@@ -1,6 +1,6 @@
 # 文件:TRATRA_-Extra_Track-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d4\ns6%3ATRATRA_-Extra_Track-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d4\ns6%3ATRATRA_-Extra_Track-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 SYNC.ART'S | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ SYNC.ART'S | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [TRATRA -Extra Track-](./TRATRA_-Extra_Track-.md)  
-该封面包含的角色：- [寅丸星](./寅丸星.md)
-
-
-
+- [TRATRA -Extra Track-](./TRATRA_-Extra_Track-.md)该封面包含的角色：
+- [寅丸星](./寅丸星.md)
 
 
 ---

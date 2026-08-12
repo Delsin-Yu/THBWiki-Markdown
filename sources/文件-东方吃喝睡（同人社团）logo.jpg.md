@@ -1,12 +1,8 @@
 # 文件:东方吃喝睡（同人社团）logo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ae\ns6%3A%E4%B8%9C%E6%96%B9%E5%90%83%E5%96%9D%E7%9D%A1%EF%BC%88%E5%90%8C%E4%BA%BA%E7%A4%BE%E5%9B%A2%EF%BC%89logo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ae\ns6%3A%E4%B8%9C%E6%96%B9%E5%90%83%E5%96%9D%E7%9D%A1%EF%BC%88%E5%90%8C%E4%BA%BA%E7%A4%BE%E5%9B%A2%EF%BC%89logo%2Ejpg.html -->
 
 东方吃喝睡（同人社团） | 社团LOGO
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:TOHO_ANTHEM_TRACKS_-BPM100(±10)_or_BPM200(±10)-封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e5\ns6%3ATOHO_ANTHEM_TRACKS_-BPM100%28%C2%B110%29_or_BPM200%28%C2%B110%29-%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e5\ns6%3ATOHO_ANTHEM_TRACKS_-BPM100%28%C2%B110%29_or_BPM200%28%C2%B110%29-%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 非可逆リズム
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [TOHO ANTHEM TRACKS -BPM100(±10) or BPM200(±10)-](./TOHO_ANTHEM_TRACKS_-BPM100(±10)_or_BPM200(±10)-.md)  
-该封面包含的角色：- [东风谷早苗](./东风谷早苗.md)
-
-
-
+- [TOHO ANTHEM TRACKS -BPM100(±10) or BPM200(±10)-](./TOHO_ANTHEM_TRACKS_-BPM100(±10%29_or_BPM200(±10%29-.md)该封面包含的角色：
+- [东风谷早苗](./东风谷早苗.md)
 
 
 ---

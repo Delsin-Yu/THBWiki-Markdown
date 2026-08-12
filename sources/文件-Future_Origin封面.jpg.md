@@ -1,6 +1,6 @@
 # 文件:Future_Origin封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1b\ns6%3AFuture_Origin%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1b\ns6%3AFuture_Origin%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 MA☆SPARK!_RECORDS | 专辑封面 | 封面图片
 
@@ -8,11 +8,11 @@ MA☆SPARK!_RECORDS | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Future Origin](./Future_Origin.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [若鹭姬](./若鹭姬.md)- [赤蛮奇](./赤蛮奇.md)- [今泉影狼](./今泉影狼.md)
-
-
-
+- [Future Origin](./Future_Origin.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [若鹭姬](./若鹭姬.md)
+- [赤蛮奇](./赤蛮奇.md)
+- [今泉影狼](./今泉影狼.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:TENG_SOLDIER封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\51\ns6%3ATENG_SOLDIER%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\51\ns6%3ATENG_SOLDIER%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 GATLING_CAT | 封面图片 | 软件封面
 
@@ -8,11 +8,10 @@ GATLING_CAT | 封面图片 | 软件封面
 使用了本文件作封面图片的作品：
   
 
-- [TENG SOLDIER](./TENG_SOLDIER.md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)- [犬走椛](./犬走椛.md)- [姬海棠果](./姬海棠果.md)
-
-
-
+- [TENG SOLDIER](./TENG_SOLDIER.md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
+- [犬走椛](./犬走椛.md)
+- [姬海棠果](./姬海棠果.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Abyss_Nova.封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\48\ns6%3AAbyss_Nova%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\48\ns6%3AAbyss_Nova%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 BlackEditionFX | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@ BlackEditionFX | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Abyss Nova.](./Abyss_Nova..md)  
-该封面包含的角色：- [灵乌路空](./灵乌路空.md)
+- [Abyss Nova.](./Abyss_Nova..md)该封面包含的角色：
+- [灵乌路空](./灵乌路空.md)
 
   
-[Pixiv artwork ID: 50041348 (via Danbooru ID: 1995543)](https://danbooru.donmai.us/posts/1995543)
-  
-
-
-
-
+[Pixiv artwork ID: 50041348 (via Danbooru ID: 1995543)](https://danbooru.donmai.us/posts/1995543)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:叢霞_-神奏楽曲集IV-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a3\ns6%3A%E5%8F%A2%E9%9C%9E_-%E7%A5%9E%E5%A5%8F%E6%A5%BD%E6%9B%B2%E9%9B%86IV-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a3\ns6%3A%E5%8F%A2%E9%9C%9E_-%E7%A5%9E%E5%A5%8F%E6%A5%BD%E6%9B%B2%E9%9B%86IV-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 神楽庭園
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [叢霞 -神奏楽曲集IV-](./叢霞_-神奏楽曲集IV-.md)  
-该封面包含的角色：- [风见幽香](./风见幽香.md)
-
-
-
+- [叢霞 -神奏楽曲集IV-](./叢霞_-神奏楽曲集IV-.md)该封面包含的角色：
+- [风见幽香](./风见幽香.md)
 
 
 ---

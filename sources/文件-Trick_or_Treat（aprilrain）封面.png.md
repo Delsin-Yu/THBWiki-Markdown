@@ -1,6 +1,6 @@
 # 文件:Trick_or_Treat（aprilrain）封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a4\ns6%3ATrick_or_Treat%EF%BC%88aprilrain%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a4\ns6%3ATrick_or_Treat%EF%BC%88aprilrain%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 aprilrain | 同人志封面 | 封面图片
 
@@ -10,16 +10,14 @@ aprilrain | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Trick or Treat（aprilrain）](./Trick_or_Treat（aprilrain）.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)- [露娜切露德](./露娜切露德.md)- [桑尼米尔克](./桑尼米尔克.md)- [斯塔萨菲雅](./斯塔萨菲雅.md)
+- [Trick or Treat（aprilrain）](./Trick_or_Treat（aprilrain）.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
+- [露娜切露德](./露娜切露德.md)
+- [桑尼米尔克](./桑尼米尔克.md)
+- [斯塔萨菲雅](./斯塔萨菲雅.md)
 
   
-源地址：[direct image link](http://aprilrain.michikusa.jp/art/mary_doujin_08.png), [source page](http://aprilrain.michikusa.jp/doujin.html)
-  
-
-
-
-
+源地址：[direct image link](http://aprilrain.michikusa.jp/art/mary_doujin_08.png), [source page](http://aprilrain.michikusa.jp/doujin.html)  
 
 ---
 

@@ -1,12 +1,8 @@
 # 文件:THBWiki-LOGO-角川书店.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8f\ns6%3ATHBWiki-LOGO-%E8%A7%92%E5%B7%9D%E4%B9%A6%E5%BA%97%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8f\ns6%3ATHBWiki-LOGO-%E8%A7%92%E5%B7%9D%E4%B9%A6%E5%BA%97%2Epng.html -->
 
 THBWiki | Wiki词条分类用图
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:TOHO_EUROBEAT_秘_Discover_the_Life封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\30\ns6%3ATOHO_EUROBEAT_%E7%A7%98_Discover_the_Life%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\30\ns6%3ATOHO_EUROBEAT_%E7%A7%98_Discover_the_Life%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 A-One | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ A-One | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [TOHO EUROBEAT 秘 Discover the Life](./TOHO_EUROBEAT_秘_Discover_the_Life.md)  
-该封面包含的角色：- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [TOHO EUROBEAT 秘 Discover the Life](./TOHO_EUROBEAT_秘_Discover_the_Life.md)该封面包含的角色：
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

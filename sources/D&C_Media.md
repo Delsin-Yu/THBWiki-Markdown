@@ -1,51 +1,45 @@
 # D&C_Media
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\63\ns0%3AD%26C_Media.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\63\ns0%3AD%26C_Media.html -->
 
 D&C Media，股份有限公司
 
 本页是关于东方Project  
- **相关公司会社** 的词条
-
+**相关公司会社**的词条
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 与东方Project的关联](#与东方Project的关联)
-
   - [2.1 单行本与书籍](#单行本与书籍)
-
 
 
 - [3 其他说明](#其他说明)
 
 
-
-
-
 ## 基本信息
-[](./文件-D&C_MediaLOGO.png.md)  D&amp;C MediaLOGO
-  
-<big> **D&amp;C Media** </big>（디앤씨미디어）  
+<img alt="" src="https://upload.thwiki.cc/5/58/D%26C_MediaLOGO.png" decoding="async" loading="lazy" width="175" height="104" class="thumbimage" data-file-width="175" data-file-height="104">
+ D&C MediaLOGO  
+<big>**D&C Media**</big>（디앤씨미디어）  
 是韩国的一家出版社。  
 
 主要经营漫画、小说等书籍的出版发行。引进并翻译日本作品是其业务之一。
   
-
 
 <table>
 <tbody><tr>
 <th colspan="2">基本信息</th>
 </tr>
 <tr>
-<td style="width:140px"><b>正式名称</b></td><td style="min-width:300px">D&amp;C Media</td></tr><tr><td><b>公司现状</b></td><td>持续营业中</td></tr><tr><td><b>公司种类</b></td><td>股份有限公司</td></tr><tr><td><b>成立日期</b></td><td>2002年6月</td></tr><tr><td><b>公司代表</b></td><td>代表：申贤浩</td></tr><tr><td><b>本社地址</b></td><td>首尔市九老区九老洞222-3 Jnk数字大楼503号</td></tr><tr><td><b>官网地址</b></td><td><a rel="nofollow" class="external free" href="http://www.dncmedia.co.kr/">http://www.dncmedia.co.kr/</a><br><a rel="nofollow" class="external free" href="http://dncmedia.co.kr/dnc/">http://dncmedia.co.kr/dnc/</a> <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span> <br><a rel="nofollow" class="external free" href="http://www.lnovel.co.kr">http://www.lnovel.co.kr</a></td></tr></tbody></table>
+<td style="width:140px"><b>正式名称</b></td><td style="min-width:300px">D&C Media</td></tr><tr><td><b>公司现状</b></td><td>持续营业中</td></tr><tr><td><b>公司种类</b></td><td>股份有限公司</td></tr><tr><td><b>成立日期</b></td><td>2002年6月</td></tr><tr><td><b>公司代表</b></td><td>代表：申贤浩</td></tr><tr><td><b>本社地址</b></td><td>首尔市九老区九老洞222-3 Jnk数字大楼503号</td></tr><tr><td><b>官网地址</b></td><td><a rel="nofollow" class="external free" href="http://www.dncmedia.co.kr/">http://www.dncmedia.co.kr/</a><br><a rel="nofollow" class="external free" href="http://dncmedia.co.kr/dnc/">http://dncmedia.co.kr/dnc/</a> <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span> <br><a rel="nofollow" class="external free" href="http://www.lnovel.co.kr">http://www.lnovel.co.kr</a></td></tr></tbody></table>
 
-D&amp;C Media（公司会社） - D&amp;C Media，股份有限公司
-
+D&C Media（公司会社） - D&C Media，股份有限公司
 ## 与东方Project的关联
-- D&amp;C Media代理了多数[官方书籍](./官方出版物.md)(商业出版物)
+
+- D&C Media代理了多数[官方书籍](./官方出版物.md)(商业出版物)
 
 
 ### 单行本与书籍
+
 - [东方儚月抄 ～ Silent Sinner in Blue. 上](./东方儚月抄_～_Silent_Sinner_in_Blue..md)（2011年2月10日出版的官方漫画单行本）
 - [东方儚月抄 ～ Silent Sinner in Blue. 中](./东方儚月抄_～_Silent_Sinner_in_Blue..md)（2011年2月10日出版的官方漫画单行本）
 - [东方儚月抄 ～ Silent Sinner in Blue. 底](./东方儚月抄_～_Silent_Sinner_in_Blue..md)（2011年2月10日出版的官方漫画单行本）
@@ -70,9 +64,6 @@ D&amp;C Media（公司会社） - D&amp;C Media，股份有限公司
 
 
 ## 其他说明
-
-
-
 
 ---
 

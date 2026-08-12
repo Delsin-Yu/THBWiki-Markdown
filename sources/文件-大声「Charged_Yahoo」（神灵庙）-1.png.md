@@ -1,12 +1,8 @@
 # 文件:大声「Charged_Yahoo」（神灵庙）-1.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\74\ns6%3A%E5%A4%A7%E5%A3%B0%E3%80%8CCharged_Yahoo%E3%80%8D%EF%BC%88%E7%A5%9E%E7%81%B5%E5%BA%99%EF%BC%89-1%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\74\ns6%3A%E5%A4%A7%E5%A3%B0%E3%80%8CCharged_Yahoo%E3%80%8D%EF%BC%88%E7%A5%9E%E7%81%B5%E5%BA%99%EF%BC%89-1%2Epng.html -->
 
 东方神灵庙 | 幽谷响子 | 敌机符卡
-
-
-
-
 
 
 ---

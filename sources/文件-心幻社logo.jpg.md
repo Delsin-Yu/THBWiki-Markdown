@@ -1,12 +1,8 @@
 # 文件:心幻社logo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\74\ns6%3A%E5%BF%83%E5%B9%BB%E7%A4%BElogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\74\ns6%3A%E5%BF%83%E5%B9%BB%E7%A4%BElogo%2Ejpg.html -->
 
 心幻社 | 社团LOGO
-
-
-
-
 
 
 ---

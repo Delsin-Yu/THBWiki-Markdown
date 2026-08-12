@@ -1,12 +1,8 @@
 # 文件:恋魔理LOGO.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\45\ns6%3A%E6%81%8B%E9%AD%94%E7%90%86LOGO%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\45\ns6%3A%E6%81%8B%E9%AD%94%E7%90%86LOGO%2Ejpg.html -->
 
 恋爱的魔法就交给魔理沙吧！ | 活动LOGO
-
-
-
-
 
 
 ---

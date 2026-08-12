@@ -1,16 +1,12 @@
 # 文件:铃集无名之丘st6梅蒂欣.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\99\ns6%3A%E9%93%83%E9%9B%86%E6%97%A0%E5%90%8D%E4%B9%8B%E4%B8%98st6%E6%A2%85%E8%92%82%E6%AC%A3%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\99\ns6%3A%E9%93%83%E9%9B%86%E6%97%A0%E5%90%8D%E4%B9%8B%E4%B8%98st6%E6%A2%85%E8%92%82%E6%AC%A3%2Epng.html -->
 
 幸归铃园
 
   
 6面场景梅蒂欣线
   
-
-
-
-
 
 ---
 

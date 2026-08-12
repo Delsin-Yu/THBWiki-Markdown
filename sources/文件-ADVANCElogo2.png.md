@@ -1,18 +1,13 @@
 # 文件:ADVANCElogo2.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\db\ns6%3AADVANCElogo2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\db\ns6%3AADVANCElogo2%2Epng.html -->
 
 ADVANCE | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[Booth banner (original size)](https://s2.booth.pm/ec9e6e2d-4caa-4795-806d-010fd1633977/2ba0d92f-d184-4dde-846a-aabb073f0de1.png)
-  
-
-
-
-
+源地址：[Booth banner (original size)](https://s2.booth.pm/ec9e6e2d-4caa-4795-806d-010fd1633977/2ba0d92f-d184-4dde-846a-aabb073f0de1.png)  
 
 ---
 

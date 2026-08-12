@@ -1,18 +1,13 @@
 # 文件:Elemental_notebanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\31\ns6%3AElemental_notebanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\31\ns6%3AElemental_notebanner%2Ejpg.html -->
 
 Elemental_note | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[[1]](http://www.elemental-note.com/elemental/bana.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://www.elemental-note.com/elemental/bana.jpg)  
 
 ---
 

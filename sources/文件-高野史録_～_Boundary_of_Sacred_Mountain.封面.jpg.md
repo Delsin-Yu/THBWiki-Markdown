@@ -1,6 +1,6 @@
 # 文件:高野史録_～_Boundary_of_Sacred_Mountain.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fb\ns6%3A%E9%AB%98%E9%87%8E%E5%8F%B2%E9%8C%B2_%EF%BD%9E_Boundary_of_Sacred_Mountain%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fb\ns6%3A%E9%AB%98%E9%87%8E%E5%8F%B2%E9%8C%B2_%EF%BD%9E_Boundary_of_Sacred_Mountain%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 幻想グリモワール
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [高野史録 ～ Boundary of Sacred Mountain.](./高野史録_～_Boundary_of_Sacred_Mountain..md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [高野史録 ～ Boundary of Sacred Mountain.](./高野史録_～_Boundary_of_Sacred_Mountain..md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

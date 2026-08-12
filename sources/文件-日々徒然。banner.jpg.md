@@ -1,16 +1,11 @@
 # 文件:日々徒然。banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f2\ns6%3A%E6%97%A5%E3%80%85%E5%BE%92%E7%84%B6%E3%80%82banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f2\ns6%3A%E6%97%A5%E3%80%85%E5%BE%92%E7%84%B6%E3%80%82banner%2Ejpg.html -->
 
 日々徒然。 | 社团LOGO
 
   
-源地址：[[1]](http://hbtd16.sakura.ne.jp/images/banner/banner.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://hbtd16.sakura.ne.jp/images/banner/banner.jpg)  
 
 ---
 

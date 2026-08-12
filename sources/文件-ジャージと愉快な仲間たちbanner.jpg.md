@@ -1,12 +1,8 @@
 # 文件:ジャージと愉快な仲間たちbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\61\ns6%3A%E3%82%B8%E3%83%A3%E3%83%BC%E3%82%B8%E3%81%A8%E6%84%89%E5%BF%AB%E3%81%AA%E4%BB%B2%E9%96%93%E3%81%9F%E3%81%A1banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\61\ns6%3A%E3%82%B8%E3%83%A3%E3%83%BC%E3%82%B8%E3%81%A8%E6%84%89%E5%BF%AB%E3%81%AA%E4%BB%B2%E9%96%93%E3%81%9F%E3%81%A1banner%2Ejpg.html -->
 
 ジャージと愉快な仲間たち | 社团LOGO
-
-
-
-
 
 
 ---

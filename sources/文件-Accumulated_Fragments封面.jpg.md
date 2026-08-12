@@ -1,6 +1,6 @@
 # 文件:Accumulated_Fragments封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\09\ns6%3AAccumulated_Fragments%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\09\ns6%3AAccumulated_Fragments%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Colorful_Cube | 专辑封面 | 封面图片
 
@@ -8,11 +8,15 @@ Colorful_Cube | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Accumulated Fragments](./Accumulated_Fragments.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [蓬莱山辉夜](./蓬莱山辉夜.md)- [小野塚小町](./小野塚小町.md)- [博丽灵梦（旧作角色）](./博丽灵梦（旧作角色）.md)- [雾雨魔理沙（旧作角色）](./雾雨魔理沙（旧作角色）.md)- [爱丽丝（旧作角色）](./爱丽丝（旧作角色）.md)- [神绮](./神绮.md)- [幽香](./幽香.md)
-
-
-
+- [Accumulated Fragments](./Accumulated_Fragments.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [蓬莱山辉夜](./蓬莱山辉夜.md)
+- [小野塚小町](./小野塚小町.md)
+- [博丽灵梦（旧作角色）](./博丽灵梦（旧作角色）.md)
+- [雾雨魔理沙（旧作角色）](./雾雨魔理沙（旧作角色）.md)
+- [爱丽丝（旧作角色）](./爱丽丝（旧作角色）.md)
+- [神绮](./神绮.md)
+- [幽香](./幽香.md)
 
 
 ---

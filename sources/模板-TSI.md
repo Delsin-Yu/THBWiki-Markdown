@@ -1,16 +1,12 @@
 # 模板:TSI
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\f\f3\ns10%3ATSI.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\f\f3\ns10%3ATSI.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

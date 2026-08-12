@@ -1,6 +1,6 @@
 # 文件:THE_PREMIUM_ZEKKEN封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6f\ns6%3ATHE_PREMIUM_ZEKKEN%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6f\ns6%3ATHE_PREMIUM_ZEKKEN%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 ゼッケン屋 | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@
   
 
 - [THE PREMIUM ZEKKEN](./THE_PREMIUM_ZEKKEN.md)
-
-
-
 
 
 ---

@@ -1,16 +1,11 @@
 # 文件:サンライズハイスクールbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\df\ns6%3A%E3%82%B5%E3%83%B3%E3%83%A9%E3%82%A4%E3%82%BA%E3%83%8F%E3%82%A4%E3%82%B9%E3%82%AF%E3%83%BC%E3%83%ABbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\df\ns6%3A%E3%82%B5%E3%83%B3%E3%83%A9%E3%82%A4%E3%82%BA%E3%83%8F%E3%82%A4%E3%82%B9%E3%82%AF%E3%83%BC%E3%83%ABbanner%2Epng.html -->
 
 サンライズハイスクール | 社团LOGO
 
   
-源地址：[[1]](http://static.tumblr.com/156ec25f0f767964672a38dff948172a/g2tmrzl/qRFoec8xj/tumblr_static_4rb048dtwiw4s4kss4o4cggsk.png)
-  
-
-
-
-
+源地址：[\[1\]](http://static.tumblr.com/156ec25f0f767964672a38dff948172a/g2tmrzl/qRFoec8xj/tumblr_static_4rb048dtwiw4s4kss4o4cggsk.png)  
 
 ---
 

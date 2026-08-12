@@ -1,6 +1,6 @@
 # 文件:Fantasm_Chord_Of_Hermit封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4a\ns6%3AFantasm_Chord_Of_Hermit%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4a\ns6%3AFantasm_Chord_Of_Hermit%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 迫真鍵盤部
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [Fantasm Chord Of Hermit](./Fantasm_Chord_Of_Hermit.md)  
-该封面包含的角色：- [八意永琳](./八意永琳.md)- [蓬莱山辉夜](./蓬莱山辉夜.md)
-
-
-
+- [Fantasm Chord Of Hermit](./Fantasm_Chord_Of_Hermit.md)该封面包含的角色：
+- [八意永琳](./八意永琳.md)
+- [蓬莱山辉夜](./蓬莱山辉夜.md)
 
 
 ---

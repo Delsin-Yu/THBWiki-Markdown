@@ -1,12 +1,8 @@
 # 文件:GoM插图（秋姐妹-LOGO）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0c\ns6%3AGoM%E6%8F%92%E5%9B%BE%EF%BC%88%E7%A7%8B%E5%A7%90%E5%A6%B9-LOGO%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0c\ns6%3AGoM%E6%8F%92%E5%9B%BE%EF%BC%88%E7%A7%8B%E5%A7%90%E5%A6%B9-LOGO%EF%BC%89%2Ejpg.html -->
 
 秋静叶 | 魔理沙的魔法书
-
-
-
-
 
 
 ---

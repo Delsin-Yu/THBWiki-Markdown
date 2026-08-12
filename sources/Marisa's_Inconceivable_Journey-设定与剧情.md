@@ -1,6 +1,6 @@
 # Marisa's_Inconceivable_Journey/设定与剧情
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\5\5f\ns0%3AMarisa%27s_Inconceivable_Journey%2F%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\5\5f\ns0%3AMarisa%27s_Inconceivable_Journey%2F%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85.html -->
 
 Dark_Sky_Empire
 
@@ -10,14 +10,9 @@ Dark_Sky_Empire
 魔理沙突然被召唤到异世界！这个世界似乎遭到外星人的侵略，但事情的真相并不简单。孤立无援的魔理沙必须努力求生，她能否揭开幕后的真相、拯救异世界和博丽灵梦并返回幻想乡？
   
 
-
 ## 游戏设定
   
 本游戏是《小魔理沙的灾难之旅》的续集。当雾雨魔理沙从红魔馆拿到了大量的珍贵书籍后，她决定尝试其中的一个魔法。然而，这个魔法却导致魔理沙突然被召唤到异世界！面对完全陌生的世界、外星人的侵略、以及真正的黑幕，魔理沙必须努力活下去。同时她还要揭开幕后的真相、救出博丽灵梦、成功返回幻想乡并达成最佳的完美结局！
-  
-  
-  
-
   
   
 主要游戏特点
@@ -49,10 +44,6 @@ Dark_Sky_Empire
   
 9. 支持Steam云。
   
-
-
-
-
 
 ---
 

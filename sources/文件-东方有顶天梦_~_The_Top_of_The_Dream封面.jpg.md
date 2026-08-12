@@ -1,6 +1,6 @@
 # 文件:东方有顶天梦_~_The_Top_of_The_Dream封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\42\ns6%3A%E4%B8%9C%E6%96%B9%E6%9C%89%E9%A1%B6%E5%A4%A9%E6%A2%A6_%7E_The_Top_of_The_Dream%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\42\ns6%3A%E4%B8%9C%E6%96%B9%E6%9C%89%E9%A1%B6%E5%A4%A9%E6%A2%A6_%7E_The_Top_of_The_Dream%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 东方有顶天制作组 | 封面图片 | 软件封面
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [东方有顶天梦 ~ The Top of The Dream](./东方有顶天梦_~_The_Top_of_The_Dream.md)  
-该封面包含的角色：- 原创角色 (未找到链接)
-
-
-
+- [东方有顶天梦 ~ The Top of The Dream](./东方有顶天梦_~_The_Top_of_The_Dream.md)该封面包含的角色：
+- 原创角色 (未找到链接)
 
 
 ---

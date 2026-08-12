@@ -1,16 +1,12 @@
 # 文件:le04_BOSS_Kaoru.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1f\ns6%3Ale04_BOSS_Kaoru%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1f\ns6%3Ale04_BOSS_Kaoru%2Emp3.html -->
 
 绚烂至死_～_Toxic_gem | 连缘Project官方音乐MP3 | 连缘天影战记
 
   
 连缘天影战记都线4面Boss-柏木薰主题曲
   
-
-
-
-
 
 ---
 

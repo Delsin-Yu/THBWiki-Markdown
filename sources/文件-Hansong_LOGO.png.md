@@ -1,6 +1,6 @@
 # 文件:Hansong_LOGO.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ab\ns6%3AHansong_LOGO%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ab\ns6%3AHansong_LOGO%2Epng.html -->
 
 寒松社
 
@@ -9,10 +9,6 @@
   
 寒松社LOGO
   
-
-
-
-
 
 ---
 

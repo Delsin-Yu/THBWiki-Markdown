@@ -1,12 +1,8 @@
 # 文件:琪露诺（天空璋立绘）an.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ae\ns6%3A%E7%90%AA%E9%9C%B2%E8%AF%BA%EF%BC%88%E5%A4%A9%E7%A9%BA%E7%92%8B%E7%AB%8B%E7%BB%98%EF%BC%89an%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ae\ns6%3A%E7%90%AA%E9%9C%B2%E8%AF%BA%EF%BC%88%E5%A4%A9%E7%A9%BA%E7%92%8B%E7%AB%8B%E7%BB%98%EF%BC%89an%2Epng.html -->
 
 ZUN绘 | 东方天空璋 | 官方游戏立绘 | 琪露诺
-
-
-
-
 
 
 ---

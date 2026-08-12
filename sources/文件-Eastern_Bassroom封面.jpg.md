@@ -1,6 +1,6 @@
 # 文件:Eastern_Bassroom封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\20\ns6%3AEastern_Bassroom%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\20\ns6%3AEastern_Bassroom%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Primrose_Records | 专辑封面 | 封面图片
 
@@ -13,12 +13,7 @@ Primrose_Records | 专辑封面 | 封面图片
 - [Eastern Bassroom](./Eastern_Bassroom.md)
 
   
-源地址：[direct image link](http://pri-rec.net/wp-content/uploads/2017/05/onmyo2-1.jpg), [source page](http://pri-rec.net/?p=359)
-  
-
-
-
-
+源地址：[direct image link](http://pri-rec.net/wp-content/uploads/2017/05/onmyo2-1.jpg), [source page](http://pri-rec.net/?p=359)  
 
 ---
 

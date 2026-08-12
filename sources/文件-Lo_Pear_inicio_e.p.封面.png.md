@@ -1,6 +1,6 @@
 # 文件:Lo_Pear_inicio_e.p.封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4a\ns6%3ALo_Pear_inicio_e%2Ep%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4a\ns6%3ALo_Pear_inicio_e%2Ep%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 MORATORIUM | 专辑封面 | 封面图片
 
@@ -8,12 +8,11 @@ MORATORIUM | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Lo Pear inicio e.p.](./Lo_Pear_inicio_e.p..md)  
-该封面包含的角色：- [露娜萨·普莉兹姆利巴](./露娜萨·普莉兹姆利巴.md)- [梅露兰·普莉兹姆利巴](./梅露兰·普莉兹姆利巴.md)- [莉莉卡·普莉兹姆利巴](./莉莉卡·普莉兹姆利巴.md)源地址：[[1]](http://moratorium.soudesune.net/zixyake.png)
-
-
-
-
+- [Lo Pear inicio e.p.](./Lo_Pear_inicio_e.p..md)该封面包含的角色：
+- [露娜萨·普莉兹姆利巴](./露娜萨·普莉兹姆利巴.md)
+- [梅露兰·普莉兹姆利巴](./梅露兰·普莉兹姆利巴.md)
+- [莉莉卡·普莉兹姆利巴](./莉莉卡·普莉兹姆利巴.md)
+源地址：[\[1\]](http://moratorium.soudesune.net/zixyake.png)
 
 ---
 

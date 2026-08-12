@@ -1,21 +1,19 @@
 # The_Night_of_Eternity
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\1\15\ns0%3AThe_Night_of_Eternity.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\1\15\ns0%3AThe_Night_of_Eternity.html -->
 
 2010年8月14日 由 Kissing the Mirror 于 Comic Market 78 发布的单曲同人专辑，曲目主要风格是 金属，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人专辑 (未找到链接)** 的词条
-
+**[二次创作同人专辑](./二次创作.md#同人音乐)**的词条
 ## 专辑信息
 
-<table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-The_Night_of_Eternity封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/3/32/The_Night_of_Eternity%E5%B0%81%E9%9D%A2.jpg/224px-The_Night_of_Eternity%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="224" srcset="https://upload.thwiki.cc/thumb/3/32/The_Night_of_Eternity%E5%B0%81%E9%9D%A2.jpg/336px-The_Night_of_Eternity%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/3/32/The_Night_of_Eternity%E5%B0%81%E9%9D%A2.jpg/448px-The_Night_of_Eternity%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="501" data-file-height="500"></a><div class="cover-char">角色：<a href="/%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C" title="十六夜咲夜">十六夜咲夜</a></div></td>
-</tr><tr><td class="label">名称</td><td colspan="2"> The Night of Eternity </td></tr><tr><td class="label">制作方</td><td><a href="./Kissing_the_Mirror.md" title="Kissing the Mirror">Kissing the Mirror</a></td><td class="cover-artwork" rowspan="8" style="min-width:224px;"><a href="./文件-The_Night_of_Eternity封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/3/32/The_Night_of_Eternity%E5%B0%81%E9%9D%A2.jpg/224px-The_Night_of_Eternity%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="224" srcset="https://upload.thwiki.cc/thumb/3/32/The_Night_of_Eternity%E5%B0%81%E9%9D%A2.jpg/336px-The_Night_of_Eternity%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/3/32/The_Night_of_Eternity%E5%B0%81%E9%9D%A2.jpg/448px-The_Night_of_Eternity%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="501" data-file-height="500"></a><div class="cover-char">角色：<a href="/%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C" title="十六夜咲夜">十六夜咲夜</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2010-08-14&#160;（<a href="/展会作品列表?e=Comic+Market%2378">Comic Market 78</a>）</td></tr><tr><td class="label">类型</td><td>单曲</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>1</td></tr><tr><td class="label">总时长</td><td>03:57</td></tr><tr><td class="label">风格类型</td><td>金属</td></tr>
+<table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-The_Night_of_Eternity封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/3/32/The_Night_of_Eternity%E5%B0%81%E9%9D%A2.jpg/224px-The_Night_of_Eternity%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="224" srcset="https://upload.thwiki.cc/thumb/3/32/The_Night_of_Eternity%E5%B0%81%E9%9D%A2.jpg/336px-The_Night_of_Eternity%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/3/32/The_Night_of_Eternity%E5%B0%81%E9%9D%A2.jpg/448px-The_Night_of_Eternity%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="501" data-file-height="500"></a><div class="cover-char">角色：<a href="./十六夜咲夜.md" title="十六夜咲夜">十六夜咲夜</a></div></td>
+</tr><tr><td class="label">名称</td><td colspan="2"> The Night of Eternity </td></tr><tr><td class="label">制作方</td><td><a href="./Kissing_the_Mirror.md" title="Kissing the Mirror">Kissing the Mirror</a></td><td class="cover-artwork" rowspan="8" style="min-width:224px;"><a href="./文件-The_Night_of_Eternity封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/3/32/The_Night_of_Eternity%E5%B0%81%E9%9D%A2.jpg/224px-The_Night_of_Eternity%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="224" srcset="https://upload.thwiki.cc/thumb/3/32/The_Night_of_Eternity%E5%B0%81%E9%9D%A2.jpg/336px-The_Night_of_Eternity%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/3/32/The_Night_of_Eternity%E5%B0%81%E9%9D%A2.jpg/448px-The_Night_of_Eternity%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="501" data-file-height="500"></a><div class="cover-char">角色：<a href="./十六夜咲夜.md" title="十六夜咲夜">十六夜咲夜</a></div></td>
+</tr><tr><td class="label">首发日期</td><td>2010-08-14 （<a href="./展会作品列表.md#78">Comic Market 78</a>）</td></tr><tr><td class="label">类型</td><td>单曲</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>1</td></tr><tr><td class="label">总时长</td><td>03:57</td></tr><tr><td class="label">风格类型</td><td>金属</td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://www.aod666.com/">http://www.aod666.com/</a></td></tr></tbody></table>
 
 The Night of Eternity（同人专辑，Kissing the Mirror，2010） - 2010年8月14日 由 Kissing the Mirror 于 Comic Market 78 发布的单曲同人专辑，曲目主要风格是 金属，分级为 一般向
-
 ## Staff
 Kissing the Mirror
 : Wooming / Arrangement (M-1)  
@@ -23,19 +21,14 @@ Wooming / Lyrics (M-1)
 Guest Artists
 : AKIRA / Vocal (M-1)
 Cover Artwork
-: AKIRA （[[1]](http://lakia.zouri.jp/)）
-
+: AKIRA （[\[1\]](http://lakia.zouri.jp/)）
 
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoRD"><b>01</b></td><td id="The_Night_of_Eternity" colspan="2" class="title"><span class="new" title="（歌词页面不存在）"><a href="/index.php?title=%E6%AD%8C%E8%AF%8D:The_Night_of_Eternity&amp;boilerplate=模板:页面模板/曲目歌词&amp;action=edit">The Night of Eternity</a></span><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Wooming&amp;vocal=AKIRA&amp;lyric=Wooming&amp;ogmusic=月時計　～ ルナ・ダイアル&amp;fromwiki=The_Night_of_Eternity"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:57</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Wooming.md" title="Wooming">Wooming</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Wooming&amp;fromwiki=The_Night_of_Eternity"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="/AKIRA" class="mw-redirect" title="AKIRA">AKIRA</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=AKIRA&amp;fromwiki=The_Night_of_Eternity"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="./Wooming.md" title="Wooming">Wooming</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?lyric=Wooming&amp;fromwiki=The_Night_of_Eternity"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=月時計　～ ルナ・ダイアル&amp;fromwiki=The_Night_of_Eternity"><span></span></a></span><div class="ogmusic"><a href="./月時計_～_ルナ・ダイアル.md" class="mw-redirect" title="月時計 ～ ルナ・ダイアル">月時計　～ ルナ・ダイアル</a></div><div class="source"><a href="./东方红魔乡_～_the_Embodiment_of_Scarlet_Devil..md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr></tbody></table>
-
+<table><tbody><tr><td id="1" class="infoRD"><b>01</b></td><td id="The_Night_of_Eternity" colspan="2" class="title"><span class="new" title="（歌词页面不存在）"><a>The Night of Eternity</a></span></td><td class="time">03:57</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Wooming.md" title="Wooming">Wooming</a></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a class="mw-redirect" title="AKIRA">AKIRA</a></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="./Wooming.md" title="Wooming">Wooming</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./月时计_～_Luna_Dial.md" class="mw-redirect" title="月時計 ～ ルナ・ダイアル">月時計　～ ルナ・ダイアル</a></div><div class="source"><a href="./东方红魔乡.md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr></tbody></table>
 
 
 ## 评论
-
-
-
 
 ---
 

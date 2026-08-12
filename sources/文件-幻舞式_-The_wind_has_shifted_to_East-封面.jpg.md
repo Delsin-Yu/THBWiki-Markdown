@@ -1,6 +1,6 @@
 # 文件:幻舞式_-The_wind_has_shifted_to_East-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\26\ns6%3A%E5%B9%BB%E8%88%9E%E5%BC%8F_-The_wind_has_shifted_to_East-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\26\ns6%3A%E5%B9%BB%E8%88%9E%E5%BC%8F_-The_wind_has_shifted_to_East-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Lost_Garden | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Lost_Garden | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [幻舞式 -The wind has shifted to East-](./幻舞式_-The_wind_has_shifted_to_East-.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [幻舞式 -The wind has shifted to East-](./幻舞式_-The_wind_has_shifted_to_East-.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

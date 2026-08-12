@@ -1,6 +1,6 @@
 # 文件:Star_Dust_Little_Box封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\95\ns6%3AStar_Dust_Little_Box%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\95\ns6%3AStar_Dust_Little_Box%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Private_Square | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ Private_Square | 专辑封面 | 封面图片
   
 
 - [Star Dust Little Box](./Star_Dust_Little_Box.md)
-
-
-
 
 
 ---

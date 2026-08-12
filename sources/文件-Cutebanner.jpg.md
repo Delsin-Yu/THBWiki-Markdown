@@ -1,14 +1,11 @@
 # 文件:Cutebanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\58\ns6%3ACutebanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\58\ns6%3ACutebanner%2Ejpg.html -->
 
 Cute | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

@@ -1,12 +1,8 @@
 # 文件:阿哦厄伪ZUN绘.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\67\ns6%3A%E9%98%BF%E5%93%A6%E5%8E%84%E4%BC%AAZUN%E7%BB%98%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\67\ns6%3A%E9%98%BF%E5%93%A6%E5%8E%84%E4%BC%AAZUN%E7%BB%98%2Ejpg.html -->
 
 二次角色立绘 | 尹棱DANE | 阿哦厄
-
-
-
-
 
 
 ---

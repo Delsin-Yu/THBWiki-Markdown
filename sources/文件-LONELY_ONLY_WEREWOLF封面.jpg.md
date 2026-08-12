@@ -1,6 +1,6 @@
 # 文件:LONELY_ONLY_WEREWOLF封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e6\ns6%3ALONELY_ONLY_WEREWOLF%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e6\ns6%3ALONELY_ONLY_WEREWOLF%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 石鹸屋
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [LONELY ONLY WEREWOLF](./LONELY_ONLY_WEREWOLF.md)  
-该封面包含的角色：- [今泉影狼](./今泉影狼.md)
-
-
-
+- [LONELY ONLY WEREWOLF](./LONELY_ONLY_WEREWOLF.md)该封面包含的角色：
+- [今泉影狼](./今泉影狼.md)
 
 
 ---

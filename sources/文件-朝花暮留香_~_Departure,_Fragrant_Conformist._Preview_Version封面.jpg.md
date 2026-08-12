@@ -1,6 +1,6 @@
 # 文件:朝花暮留香_~_Departure,_Fragrant_Conformist._Preview_Version封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\58\ns6%3A%E6%9C%9D%E8%8A%B1%E6%9A%AE%E7%95%99%E9%A6%99_%7E_Departure%2C_Fragrant_Conformist%2E_Preview_Version%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\58\ns6%3A%E6%9C%9D%E8%8A%B1%E6%9A%AE%E7%95%99%E9%A6%99_%7E_Departure%2C_Fragrant_Conformist%2E_Preview_Version%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 梦现彼岸结界社
 
@@ -9,9 +9,6 @@
   
 
 - [朝花暮留香 ~ Departure, Fragrant Conformist. Preview Version](./朝花暮留香_~_Departure,_Fragrant_Conformist._Preview_Version.md)
-
-
-
 
 
 ---

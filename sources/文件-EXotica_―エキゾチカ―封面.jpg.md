@@ -1,6 +1,6 @@
 # 文件:EXotica_―エキゾチカ―封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d4\ns6%3AEXotica_%E2%80%95%E3%82%A8%E3%82%AD%E3%82%BE%E3%83%81%E3%82%AB%E2%80%95%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d4\ns6%3AEXotica_%E2%80%95%E3%82%A8%E3%82%AD%E3%82%BE%E3%83%81%E3%82%AB%E2%80%95%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 さばーい出版 | 同人志封面 | 封面图片
 
@@ -10,16 +10,18 @@
 使用了本文件作封面图片的作品：
   
 
-- [EXotica ―エキゾチカ―](./EXotica_―エキゾチカ―.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [八云紫](./八云紫.md)- [射命丸文](./射命丸文.md)- [伊吹萃香](./伊吹萃香.md)- [东风谷早苗](./东风谷早苗.md)- [雾雨魔理沙](./雾雨魔理沙.md)
+- [EXotica ―エキゾチカ―](./EXotica_―エキゾチカ―.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [八云紫](./八云紫.md)
+- [射命丸文](./射命丸文.md)
+- [伊吹萃香](./伊吹萃香.md)
+- [东风谷早苗](./东风谷早苗.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-源地址：[direct image link (max size)](https://livedoor.blogimg.jp/sabai_thai/imgs/4/4/440b851f.jpg), [source page](https://www.saba-i.com/archives/50221961.html)
-  
-
-
-
-
+源地址：[direct image link (max size)](https://livedoor.blogimg.jp/sabai_thai/imgs/4/4/440b851f.jpg), [source page](https://www.saba-i.com/archives/50221961.html)  
 
 ---
 

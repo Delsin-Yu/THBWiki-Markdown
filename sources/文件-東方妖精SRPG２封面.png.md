@@ -1,6 +1,6 @@
 # 文件:東方妖精SRPG２封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\68\ns6%3A%E6%9D%B1%E6%96%B9%E5%A6%96%E7%B2%BESRPG%EF%BC%92%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\68\ns6%3A%E6%9D%B1%E6%96%B9%E5%A6%96%E7%B2%BESRPG%EF%BC%92%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 封面图片 | 東横とこ | 软件封面
 
@@ -10,16 +10,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方妖精SRPG２](./東方妖精SRPG２.md)  
-该封面包含的角色：- [大妖精](./大妖精.md)- 原创角色 (未找到链接)
+- [東方妖精SRPG２](./東方妖精SRPG２.md)该封面包含的角色：
+- [大妖精](./大妖精.md)
+- 原创角色 (未找到链接)
 
   
-源地址：[direct image link](https://freegame-mugen.jp/images/item-20210808194333.png), [source page](https://freegame-mugen.jp/simulation/game_9678.html)
-  
-
-
-
-
+源地址：[direct image link](https://freegame-mugen.jp/images/item-20210808194333.png), [source page](https://freegame-mugen.jp/simulation/game_9678.html)  
 
 ---
 

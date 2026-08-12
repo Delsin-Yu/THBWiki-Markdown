@@ -1,18 +1,13 @@
 # 文件:俺のマスタースパークlogo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9e\ns6%3A%E4%BF%BA%E3%81%AE%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%B9%E3%83%91%E3%83%BC%E3%82%AFlogo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9e\ns6%3A%E4%BF%BA%E3%81%AE%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%B9%E3%83%91%E3%83%BC%E3%82%AFlogo%2Epng.html -->
 
 俺のマスタースパーク | 社团LOGO
 
 
 ## 摘要
   
-源地址：[direct image link](http://orenomasterspark.web.fc2.com/img/logo.png), [source page](http://orenomasterspark.web.fc2.com/)
-  
-
-
-
-
+源地址：[direct image link](http://orenomasterspark.web.fc2.com/img/logo.png), [source page](http://orenomasterspark.web.fc2.com/)  
 
 ---
 

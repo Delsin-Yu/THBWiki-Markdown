@@ -1,6 +1,6 @@
 # 文件:Shout_at_The_Devil封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\14\ns6%3AShout_at_The_Devil%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\14\ns6%3AShout_at_The_Devil%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Demetori | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Demetori | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Shout at The Devil](./Shout_at_The_Devil.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [Shout at The Devil](./Shout_at_The_Devil.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

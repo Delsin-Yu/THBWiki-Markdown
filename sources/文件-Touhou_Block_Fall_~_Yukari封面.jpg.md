@@ -1,6 +1,6 @@
 # 文件:Touhou_Block_Fall_~_Yukari封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6a\ns6%3ATouhou_Block_Fall_%7E_Yukari%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6a\ns6%3ATouhou_Block_Fall_%7E_Yukari%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ShmoeSoft | 封面图片 | 软件封面
 
@@ -11,9 +11,6 @@ ShmoeSoft | 封面图片 | 软件封面
   
 
 - [Touhou Block Fall ~ Yukari](./Touhou_Block_Fall_~_Yukari.md)
-
-
-
 
 
 ---

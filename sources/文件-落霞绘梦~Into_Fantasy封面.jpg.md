@@ -1,6 +1,6 @@
 # 文件:落霞绘梦~Into_Fantasy封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\94\ns6%3A%E8%90%BD%E9%9C%9E%E7%BB%98%E6%A2%A6%7EInto_Fantasy%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\94\ns6%3A%E8%90%BD%E9%9C%9E%E7%BB%98%E6%A2%A6%7EInto_Fantasy%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 江西THO-梦违赣鄱荟萃
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [落霞绘梦~Into Fantasy](./落霞绘梦~Into_Fantasy.md)  
-该封面包含的角色：- [少名针妙丸](./少名针妙丸.md)
-
-
-
+- [落霞绘梦~Into Fantasy](./落霞绘梦~Into_Fantasy.md)该封面包含的角色：
+- [少名针妙丸](./少名针妙丸.md)
 
 
 ---

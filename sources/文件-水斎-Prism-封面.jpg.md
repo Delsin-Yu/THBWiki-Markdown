@@ -1,6 +1,6 @@
 # 文件:水斎-Prism-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e5\ns6%3A%E6%B0%B4%E6%96%8E-Prism-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e5\ns6%3A%E6%B0%B4%E6%96%8E-Prism-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 C-CLAYS | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ C-CLAYS | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [水斎-Prism-](./水斎-Prism-.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [古明地觉](./古明地觉.md)
-
-
-
+- [水斎-Prism-](./水斎-Prism-.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [古明地觉](./古明地觉.md)
 
 
 ---

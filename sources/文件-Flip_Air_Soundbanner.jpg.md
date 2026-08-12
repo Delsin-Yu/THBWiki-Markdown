@@ -1,12 +1,8 @@
 # 文件:Flip_Air_Soundbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cf\ns6%3AFlip_Air_Soundbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cf\ns6%3AFlip_Air_Soundbanner%2Ejpg.html -->
 
 Flip_Air_Sound | 社团LOGO
-
-
-
-
 
 
 ---

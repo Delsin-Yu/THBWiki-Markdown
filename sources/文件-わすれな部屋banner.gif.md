@@ -1,18 +1,13 @@
 # 文件:わすれな部屋banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6c\ns6%3A%E3%82%8F%E3%81%99%E3%82%8C%E3%81%AA%E9%83%A8%E5%B1%8Bbanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6c\ns6%3A%E3%82%8F%E3%81%99%E3%82%8C%E3%81%AA%E9%83%A8%E5%B1%8Bbanner%2Egif.html -->
 
 わすれな部屋 | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[[1]](https://web.archive.org/web/20130516072431im_/http://www.maroon.dti.ne.jp/wasurenabeya/banner/wasurena200.gif)
-  
-
-
-
-
+源地址：[\[1\]](https://web.archive.org/web/20130516072431im_/http://www.maroon.dti.ne.jp/wasurenabeya/banner/wasurena200.gif)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:恋トラ-KOIIRO_MASTER_TRANCE-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5b\ns6%3A%E6%81%8B%E3%83%88%E3%83%A9-KOIIRO_MASTER_TRANCE-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5b\ns6%3A%E6%81%8B%E3%83%88%E3%83%A9-KOIIRO_MASTER_TRANCE-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Amateras_Records | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Amateras_Records | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [恋トラ-KOIIRO MASTER TRANCE-](./恋トラ-KOIIRO_MASTER_TRANCE-.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [恋トラ-KOIIRO MASTER TRANCE-](./恋トラ-KOIIRO_MASTER_TRANCE-.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

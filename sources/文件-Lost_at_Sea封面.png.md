@@ -1,6 +1,6 @@
 # 文件:Lost_at_Sea封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bb\ns6%3ALost_at_Sea%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bb\ns6%3ALost_at_Sea%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 pointyshades | sharkinfishnets | 封面图片 | 软件封面
 
@@ -10,16 +10,12 @@ pointyshades | sharkinfishnets | 封面图片 | 软件封面
 使用了本文件作封面图片的作品：
   
 
-- [Lost at Sea](./Lost_at_Sea.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
+- [Lost at Sea](./Lost_at_Sea.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
   
-源地址：[direct image link (max size)](https://64.media.tumblr.com/66bb4a51c77b00960610f7e527470d56/35db8b9e649751cc-c5/s640x960/224e98ee3e49939238964822a54ec9b78621a77d.png), [source page](https://sharkinfishnetz.tumblr.com/post/688542483719798784/oughtnots-and-i-worked-on-a-game-together-this)
-  
-
-
-
-
+源地址：[direct image link (max size)](https://64.media.tumblr.com/66bb4a51c77b00960610f7e527470d56/35db8b9e649751cc-c5/s640x960/224e98ee3e49939238964822a54ec9b78621a77d.png), [source page](https://sharkinfishnetz.tumblr.com/post/688542483719798784/oughtnots-and-i-worked-on-a-game-together-this)  
 
 ---
 

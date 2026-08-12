@@ -1,38 +1,28 @@
 # Melanin_in_Black_～_Colt_Snake
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\a\ab\ns0%3AMelanin_in_Black_%EF%BD%9E_Colt_Snake.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\a\ab\ns0%3AMelanin_in_Black_%EF%BD%9E_Colt_Snake.html -->
 
 JynX作曲 | Melanin_in_Black_～_Colt_Snake | 引用了翻译表的页面 | 连缘Project | 连缘Project官方音乐
 
-本页是关于 **向[东方Project](./东方Project.md)  
-致敬、形式类似的作品** 的词条
-
+本页是关于**向[东方Project](./东方Project.md)致敬、形式类似的作品**  
+的词条
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 出现作品](#出现作品)
 - [3 音乐文件](#音乐文件)
-
   - [3.1 连缘无现里](#连缘无现里)
   - [3.2 连缘天影战记](#连缘天影战记)
 
 
-
 - [4 说明文本](#说明文本)
-
   - [4.1 连缘无现里](#连缘无现里_2)
   - [4.2 连缘天影战记](#连缘天影战记_2)
 
 
-
 - [5 其他资料](#其他资料)
-
   - [5.1 乐理资讯](#乐理资讯)
   - [5.2 分析考据](#分析考据)
-
-
-
-
 
 
 
@@ -65,7 +55,6 @@ JynX作曲 | Melanin_in_Black_～_Colt_Snake | 引用了翻译表的页面 | 连
 </td></tr></tbody></table>
 
 
-
 ## 出现作品
 
 <table>
@@ -74,11 +63,9 @@ JynX作曲 | Melanin_in_Black_～_Colt_Snake | 引用了翻译表的页面 | 连
 <tr><td>2016年12月1日（非展会）</td><td><b><a href="./连缘天影战记～Brilliant_pagoda_or_haze_castle.md" title="连缘天影战记～Brilliant pagoda or haze castle" unred="">连缘天影战记</a></b></td><td>中立线1面Boss-<a href="./乌蛇.md" title="乌蛇">乌蛇</a>主题曲</td><td style="padding-left:5px;">メイドインブラック ～ Double Snake（Made in Black ～ Double Snake）</td><td style="padding-left:10px;">作曲：JynX</td></tr>
 </tbody></table>
 
-
   
 }}
   
-
 
 ## 音乐文件
 
@@ -101,7 +88,6 @@ JynX作曲 | Melanin_in_Black_～_Colt_Snake | 引用了翻译表的页面 | 连
 </td></tr></tbody></table>
 
 
-
 ### 连缘天影战记
 
 <table>
@@ -121,11 +107,11 @@ JynX作曲 | Melanin_in_Black_～_Colt_Snake | 引用了翻译表的页面 | 连
 </td></tr></tbody></table>
 
 
-
 ## 说明文本
 
 ### 连缘无现里
-- Music Room (未找到链接)
+
+- [Music Room](./连缘无现里～Evanescent_Existence-Music.md#1面BOSS-乌蛇主题曲)
 
 一面头目乌蛇的曲子。  
 我想谱一首轻快且爽快的曲子。  
@@ -137,9 +123,9 @@ JynX作曲 | Melanin_in_Black_～_Colt_Snake | 引用了翻译表的页面 | 连
 而且你看，嗯，我把那个单词换掉了，不算侵权吧。  
   
 总之，这里还不是乌蛇该活跃的场合。
-
 ### 连缘天影战记
-- Music Room (未找到链接)
+
+- [Music Room](./连缘天影战记～Brilliant_pagoda_or_haze_castle-Music.md#中立线1面Boss-乌蛇主题曲)
 
 一面BOSS，乌蛇的曲子。  
 第一作的曲子稍微改编了一下，  
@@ -151,51 +137,55 @@ JynX作曲 | Melanin_in_Black_～_Colt_Snake | 引用了翻译表的页面 | 连
   
   
 说起来明明是蛇，和其它的蛇没什么交集呢
-
 ## 其他资料
 
 ### 乐理资讯
 
 ### 分析考据
   
- **メラニンインブラック ～ Colt Snake**   
+**メラニンインブラック ～ Colt Snake**  
 
 Melanin in Black ～ Colt Snake
   
 
-- Melanin in Black
-  - melanin
+- Melanin in Black 
+  - melanin 
     - 黑色素
-    - 在希腊语中，也有black和dark的意思
+    - 在希腊语中，也有black和dark的意思 
       - 乌蛇有隐藏气息之类的能力，生物以及机械无法通过光学层面外的方式感知到乌蛇。弹幕战表现为大片围绕自机的黑影。
       - 祂有一张符牌叫暗牌「Melanistic Shot」（黑素射击）
 
 
-  - in black
+
+
+  - in black 
     - 乌蛇身着黑色衣服
 
-  - black
+
+  - black 
     - 参见melanin
 
 
-- Colt Snake
-  - SOLID SNAKE
+
+
+- Colt Snake 
+  - SOLID SNAKE 
     - 乌蛇与名为SOLID SNAKE的合金装备3男主角很相似。
 
-  - Colt Python
+
+  - Colt Python 
     - 柯尔特蟒蛇（Colt Python）是一把由美国康乃狄克州哈特福的柯尔特制造的左轮手枪。
 
-  - Colt Anaconda
+
+  - Colt Anaconda 
     - 柯尔特巨蟒(Colt Anaconda)，是由美国柯尔特公司设计并生产的一款大框架，双动转轮手枪，于1990年起推出市场。在外观上极似其同厂前辈柯尔特大蟒。
+
 
   - Jynx在曲评中提到“我把那个单词换掉了，不算侵权吧”。
 
 
+
 [^cite_note-1]: 〇梦梗，指小学生般的感想。
-
-
-
-
 
 ---
 

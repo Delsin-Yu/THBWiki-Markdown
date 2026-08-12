@@ -1,14 +1,11 @@
 # 文件:オムチキンbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7a\ns6%3A%E3%82%AA%E3%83%A0%E3%83%81%E3%82%AD%E3%83%B3banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7a\ns6%3A%E3%82%AA%E3%83%A0%E3%83%81%E3%82%AD%E3%83%B3banner%2Ejpg.html -->
 
 オムチキン | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

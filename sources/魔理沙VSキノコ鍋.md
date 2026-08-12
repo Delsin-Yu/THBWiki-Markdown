@@ -1,29 +1,25 @@
 # 魔理沙VSキノコ鍋
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\7\70\ns0%3A%E9%AD%94%E7%90%86%E6%B2%99VS%E3%82%AD%E3%83%8E%E3%82%B3%E9%8D%8B.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\7\70\ns0%3A%E9%AD%94%E7%90%86%E6%B2%99VS%E3%82%AD%E3%83%8E%E3%82%B3%E9%8D%8B.html -->
 
 2017年1月29日 由 有機化合物 于 恋爱的魔法就交给魔理沙吧！8 发布的漫画同人志，B5尺寸一共12页，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人志 (未找到链接)** 的词条
-
+**[二次创作同人志](./二次创作.md#同人志)**的词条
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-魔理沙VSキノコ鍋封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/0/00/%E9%AD%94%E7%90%86%E6%B2%99VS%E3%82%AD%E3%83%8E%E3%82%B3%E9%8D%8B%E5%B0%81%E9%9D%A2.jpg/140px-%E9%AD%94%E7%90%86%E6%B2%99VS%E3%82%AD%E3%83%8E%E3%82%B3%E9%8D%8B%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="140" height="196" srcset="https://upload.thwiki.cc/thumb/0/00/%E9%AD%94%E7%90%86%E6%B2%99VS%E3%82%AD%E3%83%8E%E3%82%B3%E9%8D%8B%E5%B0%81%E9%9D%A2.jpg/210px-%E9%AD%94%E7%90%86%E6%B2%99VS%E3%82%AD%E3%83%8E%E3%82%B3%E9%8D%8B%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/0/00/%E9%AD%94%E7%90%86%E6%B2%99VS%E3%82%AD%E3%83%8E%E3%82%B3%E9%8D%8B%E5%B0%81%E9%9D%A2.jpg/280px-%E9%AD%94%E7%90%86%E6%B2%99VS%E3%82%AD%E3%83%8E%E3%82%B3%E9%8D%8B%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="600" data-file-height="839"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>，<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a>，<a href="./森近霖之助.md" title="森近霖之助">森近霖之助</a></div></td>
 </tr><tr><td class="label">名称</td><td colspan="2"> 魔理沙VSキノコ鍋 </td></tr><tr><td class="label">制作方</td><td><a href="./有機化合物.md" title="有機化合物">有機化合物</a></td><td class="cover-artwork" rowspan="7" style="min-width:196px;"><a href="./文件-魔理沙VSキノコ鍋封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/0/00/%E9%AD%94%E7%90%86%E6%B2%99VS%E3%82%AD%E3%83%8E%E3%82%B3%E9%8D%8B%E5%B0%81%E9%9D%A2.jpg/140px-%E9%AD%94%E7%90%86%E6%B2%99VS%E3%82%AD%E3%83%8E%E3%82%B3%E9%8D%8B%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="140" height="196" srcset="https://upload.thwiki.cc/thumb/0/00/%E9%AD%94%E7%90%86%E6%B2%99VS%E3%82%AD%E3%83%8E%E3%82%B3%E9%8D%8B%E5%B0%81%E9%9D%A2.jpg/210px-%E9%AD%94%E7%90%86%E6%B2%99VS%E3%82%AD%E3%83%8E%E3%82%B3%E9%8D%8B%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/0/00/%E9%AD%94%E7%90%86%E6%B2%99VS%E3%82%AD%E3%83%8E%E3%82%B3%E9%8D%8B%E5%B0%81%E9%9D%A2.jpg/280px-%E9%AD%94%E7%90%86%E6%B2%99VS%E3%82%AD%E3%83%8E%E3%82%B3%E9%8D%8B%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="600" data-file-height="839"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>，<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a>，<a href="./森近霖之助.md" title="森近霖之助">森近霖之助</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2017-01-29&#160;（<a href="/展会作品列表?e=%E6%81%8B%E7%88%B1%E7%9A%84%E9%AD%94%E6%B3%95%E5%B0%B1%E4%BA%A4%E7%BB%99%E9%AD%94%E7%90%86%E6%B2%99%E5%90%A7%EF%BC%81%238">恋のまほうは魔理沙におまかせ！8</a>）</td></tr><tr><td class="label">类型</td><td>漫画</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>B5</td></tr><tr><td class="label">页数</td><td>12P</td></tr><tr><td class="label">售价</td><td>100日元</td></tr>
-<tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/member_illust.php?mode=medium&amp;illust_id=61138789">https://www.pixiv.net/member_illust.php?mode=medium&amp;illust_id=61138789</a></td></tr></tbody></table>
+</tr><tr><td class="label">首发日期</td><td>2017-01-29 （<a href="./展会作品列表.md#8">恋のまほうは魔理沙におまかせ！8</a>）</td></tr><tr><td class="label">类型</td><td>漫画</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>B5</td></tr><tr><td class="label">页数</td><td>12P</td></tr><tr><td class="label">售价</td><td>100日元</td></tr>
+<tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/member_illust.php?mode=medium&illust_id=61138789">https://www.pixiv.net/member_illust.php?mode=medium&illust_id=61138789</a></td></tr></tbody></table>
 
 魔理沙VSキノコ鍋（同人志，有機化合物，2017） - 2017年1月29日 由 有機化合物 于 恋爱的魔法就交给魔理沙吧！8 发布的漫画同人志，B5尺寸一共12页，分级为 一般向
-
 ## Staff
+
 - [さとうユーキ](./さとうユーキ.md)
 
 
 ## 评论
-
-
-
 
 ---
 

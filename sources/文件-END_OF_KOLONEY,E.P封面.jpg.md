@@ -1,6 +1,6 @@
 # 文件:END_OF_KOLONEY,E.P封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\da\ns6%3AEND_OF_KOLONEY%2CE%2EP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\da\ns6%3AEND_OF_KOLONEY%2CE%2EP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Faith_ov_Gestalgt | 专辑封面 | 封面图片
 
@@ -10,16 +10,12 @@ Faith_ov_Gestalgt | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [END OF KOLONEY,E.P](./END_OF_KOLONEY,E.P.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)- 原创角色 (未找到链接)
+- [END OF KOLONEY,E.P](./END_OF_KOLONEY,E.P.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- 原创角色 (未找到链接)
 
   
-源地址：[[1]](https://f4.bcbits.com/img/a1975382795_10.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://f4.bcbits.com/img/a1975382795_10.jpg)  
 
 ---
 

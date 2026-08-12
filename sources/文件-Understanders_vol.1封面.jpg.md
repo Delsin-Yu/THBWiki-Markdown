@@ -1,6 +1,6 @@
 # 文件:Understanders_vol.1封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\ff\ns6%3AUnderstanders_vol%2E1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\ff\ns6%3AUnderstanders_vol%2E1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Wakaru_Records | 专辑封面 | 封面图片
 
@@ -8,11 +8,12 @@ Wakaru_Records | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Understanders vol.1](./Understanders_vol.1.md)  
-该封面包含的角色：- [蕾蒂·霍瓦特洛克](./蕾蒂·霍瓦特洛克.md)- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [魂魄妖梦](./魂魄妖梦.md)- [古明地恋](./古明地恋.md)- [圣白莲](./圣白莲.md)
-
-
-
+- [Understanders vol.1](./Understanders_vol.1.md)该封面包含的角色：
+- [蕾蒂·霍瓦特洛克](./蕾蒂·霍瓦特洛克.md)
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [魂魄妖梦](./魂魄妖梦.md)
+- [古明地恋](./古明地恋.md)
+- [圣白莲](./圣白莲.md)
 
 
 ---

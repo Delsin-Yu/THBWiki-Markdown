@@ -1,16 +1,12 @@
 # 文件:恋符「Master_Spark」（绀珠传）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a7\ns6%3A%E6%81%8B%E7%AC%A6%E3%80%8CMaster_Spark%E3%80%8D%EF%BC%88%E7%BB%80%E7%8F%A0%E4%BC%A0%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a7\ns6%3A%E6%81%8B%E7%AC%A6%E3%80%8CMaster_Spark%E3%80%8D%EF%BC%88%E7%BB%80%E7%8F%A0%E4%BC%A0%EF%BC%89%2Epng.html -->
 
 东方绀珠传 | 自机符卡 | 雾雨魔理沙
 
   
 东方绀珠传自机角色雾雨魔理沙的Bomb。
   
-
-
-
-
 
 ---
 

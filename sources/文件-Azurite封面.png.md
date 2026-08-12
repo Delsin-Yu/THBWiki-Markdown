@@ -1,6 +1,6 @@
 # 文件:Azurite封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\77\ns6%3AAzurite%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\77\ns6%3AAzurite%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Moonsoul | 专辑封面 | 封面图片
 
@@ -15,10 +15,6 @@ Moonsoul | 专辑封面 | 封面图片
   
 included in download
   
-
-
-
-
 
 ---
 

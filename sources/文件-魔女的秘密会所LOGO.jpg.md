@@ -1,14 +1,11 @@
 # 文件:魔女的秘密会所LOGO.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\23\ns6%3A%E9%AD%94%E5%A5%B3%E7%9A%84%E7%A7%98%E5%AF%86%E4%BC%9A%E6%89%80LOGO%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\23\ns6%3A%E9%AD%94%E5%A5%B3%E7%9A%84%E7%A7%98%E5%AF%86%E4%BC%9A%E6%89%80LOGO%2Ejpg.html -->
 
 社团LOGO | 魔女的秘密会所
 
 
 ## 摘要
-
-
-
 
 ---
 

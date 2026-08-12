@@ -1,6 +1,6 @@
 # 文件:PARTY_IN_STYLE!封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dd\ns6%3APARTY_IN_STYLE%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dd\ns6%3APARTY_IN_STYLE%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Winter_Cannelle | 同人志封面 | 封面图片
 
@@ -10,16 +10,15 @@ Winter_Cannelle | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [PARTY IN STYLE!](./PARTY_IN_STYLE!.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [西行寺幽幽子](./西行寺幽幽子.md)- [圣白莲](./圣白莲.md)- [雾雨魔理沙](./雾雨魔理沙.md)
+- [PARTY IN STYLE!](./PARTY_IN_STYLE!.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [西行寺幽幽子](./西行寺幽幽子.md)
+- [圣白莲](./圣白莲.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-源地址：[[1]](https://scontent.fyvr3-1.fna.fbcdn.net/v/t31.18172-8/14352331_1144717508947764_5931803835530401277_o.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://scontent.fyvr3-1.fna.fbcdn.net/v/t31.18172-8/14352331_1144717508947764_5931803835530401277_o.jpg)  
 
 ---
 

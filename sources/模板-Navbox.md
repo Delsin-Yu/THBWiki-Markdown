@@ -1,14 +1,6 @@
 # 模板:Navbox
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\3\3d\ns10%3ANavbox.html -->
-
-
-
-
-<table><tbody><tr><td><table cellspacing="0" class="nowraplinks" style="width:100%;;;"></table></td></tr></tbody></table>
-
-
-
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\3\3d\ns10%3ANavbox.html -->
 
 
 

@@ -1,44 +1,33 @@
 # Altanative_Fantasy
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\9\92\ns0%3AAltanative_Fantasy.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\9\92\ns0%3AAltanative_Fantasy.html -->
 
 2023年5月7日 由 T.H INDUSTRY 于 博丽神社例大祭20 发布的EP同人专辑，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人专辑 (未找到链接)** 的词条
-
+**[二次创作同人专辑](./二次创作.md#同人音乐)**的词条
 ## 专辑信息
 
-<table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=Altanative_Fantasy%E5%B0%81%E9%9D%A2.jpg" class="new" title="文件:Altanative Fantasy封面.jpg">封面图片</a><div class="cover-char">角色：<a href="./霍青娥.md" title="霍青娥">霍青娥</a></div></td>
-</tr><tr><td class="label">名称</td><td colspan="2"> Altanative Fantasy </td></tr><tr><td class="label">制作方</td><td><a href="./T.H_INDUSTRY.md" title="T.H INDUSTRY">T.H INDUSTRY</a></td><td class="cover-artwork" rowspan="7" style="min-width:196px;"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=Altanative_Fantasy%E5%B0%81%E9%9D%A2.jpg" class="new" title="文件:Altanative Fantasy封面.jpg">封面图片</a><div class="cover-char">角色：<a href="./霍青娥.md" title="霍青娥">霍青娥</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2023-05-07&#160;（<a href="/展会作品列表?e=%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD%2320">第二十回 博麗神社例大祭</a>）</td></tr><tr><td class="label">类型</td><td>EP</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>0</td></tr><tr><td class="label">总时长</td><td>00:00</td></tr>
+<table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a class="new" title="文件:Altanative Fantasy封面.jpg">封面图片</a><div class="cover-char">角色：<a href="./霍青娥.md" title="霍青娥">霍青娥</a></div></td>
+</tr><tr><td class="label">名称</td><td colspan="2"> Altanative Fantasy </td></tr><tr><td class="label">制作方</td><td><a href="./T.H_INDUSTRY.md" title="T.H INDUSTRY">T.H INDUSTRY</a></td><td class="cover-artwork" rowspan="7" style="min-width:196px;"><a class="new" title="文件:Altanative Fantasy封面.jpg">封面图片</a><div class="cover-char">角色：<a href="./霍青娥.md" title="霍青娥">霍青娥</a></div></td>
+</tr><tr><td class="label">首发日期</td><td>2023-05-07 （<a href="./展会作品列表.md#20">第二十回 博麗神社例大祭</a>）</td></tr><tr><td class="label">类型</td><td>EP</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>0</td></tr><tr><td class="label">总时长</td><td>00:00</td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/asthma_kita/status/1653376689165172736">https://twitter.com/asthma_kita/status/1653376689165172736</a></td></tr></tbody></table>
 
 Altanative Fantasy（同人专辑，T.H INDUSTRY，2023） - 2023年5月7日 由 T.H INDUSTRY 于 博丽神社例大祭20 发布的EP同人专辑，分级为 一般向
-
 ## Staff
 Design
 : 设计师 （[网址 社团]）
 Illustration
 : 画师 （[网址 社团]）
 
-
 ## 试听
   
 暂不支援此类型
   
 
-
 ## 曲目列表
 
-<table></table>
-
-
-
 ## 评论
-
-
-
 
 ---
 

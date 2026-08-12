@@ -1,18 +1,13 @@
 # 文件:东方智灵奇传_第1卷_Gamers_特典.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bb\ns6%3A%E4%B8%9C%E6%96%B9%E6%99%BA%E7%81%B5%E5%A5%87%E4%BC%A0_%E7%AC%AC1%E5%8D%B7_Gamers_%E7%89%B9%E5%85%B8%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bb\ns6%3A%E4%B8%9C%E6%96%B9%E6%99%BA%E7%81%B5%E5%A5%87%E4%BC%A0_%E7%AC%AC1%E5%8D%B7_Gamers_%E7%89%B9%E5%85%B8%2Ejpg.html -->
 
 Gamers | 东方智灵奇传 | 官方特典
 
 
 ## 摘要
   
-源地址：[[1]](https://pbs.twimg.com/media/EfRlEjvUwAEuZ-9?format=jpg&amp;name=orig)
-  
-
-
-
-
+源地址：[\[1\]](https://pbs.twimg.com/media/EfRlEjvUwAEuZ-9?format=jpg&name=orig)  
 
 ---
 

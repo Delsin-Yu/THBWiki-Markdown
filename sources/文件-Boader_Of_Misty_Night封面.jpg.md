@@ -1,6 +1,6 @@
 # 文件:Boader_Of_Misty_Night封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cf\ns6%3ABoader_Of_Misty_Night%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cf\ns6%3ABoader_Of_Misty_Night%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 L-ZONE | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ L-ZONE | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Boader Of Misty Night](./Boader_Of_Misty_Night.md)  
-该封面包含的角色：- [八云紫](./八云紫.md)
+- [Boader Of Misty Night](./Boader_Of_Misty_Night.md)该封面包含的角色：
+- [八云紫](./八云紫.md)
 
   
-源地址：[[1]](http://heiwasou.info/l-zone/application/files/7614/7903/9717/j1.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://heiwasou.info/l-zone/application/files/7614/7903/9717/j1.jpg)  
 
 ---
 

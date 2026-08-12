@@ -1,6 +1,6 @@
 # 文件:ESCHATOLOGY_CODA-Refrain-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b1\ns6%3AESCHATOLOGY_CODA-Refrain-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b1\ns6%3AESCHATOLOGY_CODA-Refrain-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 月蝕燈
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [ESCHATOLOGY CODA-Refrain-](./ESCHATOLOGY_CODA-Refrain-.md)  
-该封面包含的角色：- [小野塚小町](./小野塚小町.md)- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)
-
-
-
+- [ESCHATOLOGY CODA-Refrain-](./ESCHATOLOGY_CODA-Refrain-.md)该封面包含的角色：
+- [小野塚小町](./小野塚小町.md)
+- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)
 
 
 ---

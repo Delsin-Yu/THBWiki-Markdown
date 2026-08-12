@@ -1,16 +1,12 @@
 # 文件:MCG-Gensoukyo-Night2021.10.23.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ac\ns6%3AMCG-Gensoukyo-Night2021%2E10%2E23%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ac\ns6%3AMCG-Gensoukyo-Night2021%2E10%2E23%2Ejpg.html -->
 
 MineCraft幻想乡
 
   
 MC幻想乡主世界夜晚地图
   
-
-
-
-
 
 ---
 

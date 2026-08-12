@@ -1,6 +1,6 @@
 # 文件:Ipse_dixit封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\71\ns6%3AIpse_dixit%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\71\ns6%3AIpse_dixit%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Frozen_Starfall | Shisuka | 专辑封面 | 封面图片
 
@@ -13,12 +13,7 @@ Frozen_Starfall | Shisuka | 专辑封面 | 封面图片
 - [Ipse dixit](./Ipse_dixit.md)
 
   
-源地址：[图片链接](https://f4.bcbits.com/img/a2508756686_0.jpg) [Bandcamp页面](https://shisuka.bandcamp.com/album/ipse-dixit)
-  
-
-
-
-
+源地址：[图片链接](https://f4.bcbits.com/img/a2508756686_0.jpg) [Bandcamp页面](https://shisuka.bandcamp.com/album/ipse-dixit)  
 
 ---
 

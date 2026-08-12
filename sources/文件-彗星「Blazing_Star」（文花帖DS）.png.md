@@ -1,12 +1,8 @@
 # 文件:彗星「Blazing_Star」（文花帖DS）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\06\ns6%3A%E5%BD%97%E6%98%9F%E3%80%8CBlazing_Star%E3%80%8D%EF%BC%88%E6%96%87%E8%8A%B1%E5%B8%96DS%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\06\ns6%3A%E5%BD%97%E6%98%9F%E3%80%8CBlazing_Star%E3%80%8D%EF%BC%88%E6%96%87%E8%8A%B1%E5%B8%96DS%EF%BC%89%2Epng.html -->
 
 东方文花帖DS | 敌机符卡 | 雾雨魔理沙
-
-
-
-
 
 
 ---

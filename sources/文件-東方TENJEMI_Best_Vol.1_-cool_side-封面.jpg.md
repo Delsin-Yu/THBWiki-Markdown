@@ -1,6 +1,6 @@
 # 文件:東方TENJEMI_Best_Vol.1_-cool_side-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ae\ns6%3A%E6%9D%B1%E6%96%B9TENJEMI_Best_Vol%2E1_-cool_side-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ae\ns6%3A%E6%9D%B1%E6%96%B9TENJEMI_Best_Vol%2E1_-cool_side-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 天然ジェミニ | 封面图片
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方TENJEMI Best Vol.1 -cool side-](./東方TENJEMI_Best_Vol.1_-cool_side-.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [東方TENJEMI Best Vol.1 -cool side-](./東方TENJEMI_Best_Vol.1_-cool_side-.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

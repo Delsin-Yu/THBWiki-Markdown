@@ -1,12 +1,11 @@
 # Joseon_Relic_In_the_Sky
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\8\8d\ns0%3AJoseon_Relic_In_the_Sky.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\8\8d\ns0%3AJoseon_Relic_In_the_Sky.html -->
 
 2020年6月16日 由 greenscarf  发布的单曲同人专辑，曲目主要风格是 House，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人专辑 (未找到链接)** 的词条
-
+**[二次创作同人专辑](./二次创作.md#同人音乐)**的词条
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Joseon_Relic_In_the_Sky封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/8/85/Joseon_Relic_In_the_Sky%E5%B0%81%E9%9D%A2.jpg/252px-Joseon_Relic_In_the_Sky%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="252" height="250" srcset="https://upload.thwiki.cc/thumb/8/85/Joseon_Relic_In_the_Sky%E5%B0%81%E9%9D%A2.jpg/378px-Joseon_Relic_In_the_Sky%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/8/85/Joseon_Relic_In_the_Sky%E5%B0%81%E9%9D%A2.jpg/504px-Joseon_Relic_In_the_Sky%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1200" data-file-height="1190"></a><div class="cover-char">角色：<a href="./玛艾露贝莉·赫恩.md" title="玛艾露贝莉·赫恩">玛艾露贝莉·赫恩</a></div></td>
@@ -15,19 +14,16 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://greenscarf.bandcamp.com/track/joseon-relic-in-the-sky">https://greenscarf.bandcamp.com/track/joseon-relic-in-the-sky</a></td></tr></tbody></table>
 
 Joseon Relic In the Sky（同人专辑，greenscarf，2020） - 2020年6月16日 由 greenscarf  发布的单曲同人专辑，曲目主要风格是 House，分级为 一般向
-
 ## Staff
   
- **Arrangement**   
+**Arrangement**  
 
 <table><tbody><tr><td><a href="./greenscarf.md" title="greenscarf">greenscarf</a></td><td></td><td>Tr.1</td></tr></tbody></table>
-
 
 Design
 : 
 Illustration
 : 
-
 
 ## 试听
 
@@ -41,17 +37,12 @@ Illustration
 </td></tr></tbody></table>
 
 
-
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Joseon_Relic_In_the_Sky" colspan="2" class="title">Joseon Relic In the Sky<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=greenscarf&amp;ogmusic=天鳥船神社の結界&amp;fromwiki=Joseon_Relic_In_the_Sky"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:52</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./greenscarf.md" title="greenscarf">greenscarf</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，greenscarf，&amp;fromwiki=Joseon_Relic_In_the_Sky"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=天鳥船神社の結界&amp;fromwiki=Joseon_Relic_In_the_Sky"><span></span></a></span><div class="ogmusic"><a href="./天鳥船神社の結界.md" class="mw-redirect" title="天鳥船神社の結界">天鳥船神社の結界</a></div><div class="source"><a href="./鸟船遗迹_～_Trojan_Green_Asteroid.md" class="mw-redirect" title="鸟船遗迹 ～ Trojan Green Asteroid">鸟船遗迹　～ Trojan Green Asteroid</a></div></td></tr></tbody></table>
-
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Joseon_Relic_In_the_Sky" colspan="2" class="title">Joseon Relic In the Sky</td><td class="time">03:52</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./greenscarf.md" title="greenscarf">greenscarf</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./天鸟船神社的结界.md" class="mw-redirect" title="天鳥船神社の結界">天鳥船神社の結界</a></div><div class="source"><a href="./鸟船遗迹.md" class="mw-redirect" title="鸟船遗迹 ～ Trojan Green Asteroid">鸟船遗迹　～ Trojan Green Asteroid</a></div></td></tr></tbody></table>
 
 
 ## 评论
-
-
-
 
 ---
 

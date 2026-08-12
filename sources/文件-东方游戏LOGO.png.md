@@ -1,12 +1,8 @@
 # 文件:东方游戏LOGO.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\53\ns6%3A%E4%B8%9C%E6%96%B9%E6%B8%B8%E6%88%8FLOGO%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\53\ns6%3A%E4%B8%9C%E6%96%B9%E6%B8%B8%E6%88%8FLOGO%2Epng.html -->
 
 东方游戏 | 幻乐团官网
-
-
-
-
 
 
 ---

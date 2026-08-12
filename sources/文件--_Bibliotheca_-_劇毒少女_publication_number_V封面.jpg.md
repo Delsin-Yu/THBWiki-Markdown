@@ -1,6 +1,6 @@
 # 文件:-_Bibliotheca_-_劇毒少女_publication_number_V封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4b\ns6%3A-_Bibliotheca_-_%E5%8A%87%E6%AF%92%E5%B0%91%E5%A5%B3_publication_number_V%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4b\ns6%3A-_Bibliotheca_-_%E5%8A%87%E6%AF%92%E5%B0%91%E5%A5%B3_publication_number_V%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 劇毒少女 | 同人志封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [- Bibliotheca - 劇毒少女 publication number V](./-_Bibliotheca_-_劇毒少女_publication_number_V.md)  
-该封面包含的角色：- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
-
-
-
+- [- Bibliotheca - 劇毒少女 publication number V](./-_Bibliotheca_-_劇毒少女_publication_number_V.md)该封面包含的角色：
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
 
 
 ---

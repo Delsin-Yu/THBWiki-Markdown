@@ -1,6 +1,6 @@
 # 文件:アインスリング_SOUND_TRACK封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4e\ns6%3A%E3%82%A2%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%AA%E3%83%B3%E3%82%B0_SOUND_TRACK%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4e\ns6%3A%E3%82%A2%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%AA%E3%83%B3%E3%82%B0_SOUND_TRACK%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ZWEi | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ ZWEi | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [アインスリング SOUND TRACK](./アインスリング_SOUND_TRACK.md)  
-该封面包含的角色：- [云居一轮](./云居一轮.md)
-
-
-
+- [アインスリング SOUND TRACK](./アインスリング_SOUND_TRACK.md)该封面包含的角色：
+- [云居一轮](./云居一轮.md)
 
 
 ---

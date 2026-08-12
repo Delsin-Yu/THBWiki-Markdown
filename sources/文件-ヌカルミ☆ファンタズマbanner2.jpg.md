@@ -1,16 +1,11 @@
 # 文件:ヌカルミ☆ファンタズマbanner2.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8d\ns6%3A%E3%83%8C%E3%82%AB%E3%83%AB%E3%83%9F%E2%98%86%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%BA%E3%83%9Ebanner2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8d\ns6%3A%E3%83%8C%E3%82%AB%E3%83%AB%E3%83%9F%E2%98%86%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%BA%E3%83%9Ebanner2%2Ejpg.html -->
 
 ヌカルミ☆ファンタズマ | 社团LOGO
 
   
-源地址：[[1]](http://ababababa.nukarumi.net/img/nkrm_bunner2.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://ababababa.nukarumi.net/img/nkrm_bunner2.jpg)  
 
 ---
 

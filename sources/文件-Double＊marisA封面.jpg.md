@@ -1,6 +1,6 @@
 # 文件:Double＊marisA封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3c\ns6%3ADouble%EF%BC%8AmarisA%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3c\ns6%3ADouble%EF%BC%8AmarisA%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 全壊チャット | 同人志封面 | 封面图片
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Double＊marisA](./Double＊marisA.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
+- [Double＊marisA](./Double＊marisA.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-源地址：[[1]](http://souffle12.web.fc2.com/aganaibito/e/sanpuruhyousi.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://souffle12.web.fc2.com/aganaibito/e/sanpuruhyousi.jpg)  
 
 ---
 

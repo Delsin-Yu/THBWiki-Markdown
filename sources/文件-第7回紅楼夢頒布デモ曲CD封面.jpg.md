@@ -1,6 +1,6 @@
 # 文件:第7回紅楼夢頒布デモ曲CD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\74\ns6%3A%E7%AC%AC7%E5%9B%9E%E7%B4%85%E6%A5%BC%E5%A4%A2%E9%A0%92%E5%B8%83%E3%83%87%E3%83%A2%E6%9B%B2CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\74\ns6%3A%E7%AC%AC7%E5%9B%9E%E7%B4%85%E6%A5%BC%E5%A4%A2%E9%A0%92%E5%B8%83%E3%83%87%E3%83%A2%E6%9B%B2CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Cloister_Notes | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ Cloister_Notes | 专辑封面 | 封面图片
   
 
 - [第7回紅楼夢頒布デモ曲CD](./第7回紅楼夢頒布デモ曲CD.md)
-
-
-
 
 
 ---

@@ -1,16 +1,12 @@
 # 文件:le04_STAGE_12.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\66\ns6%3Ale04_STAGE_12%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\66\ns6%3Ale04_STAGE_12%2Emp3.html -->
 
 必须前进的道路 | 连缘Project官方音乐MP3 | 连缘天影战记
 
   
 连缘天影战记EX面道中主题曲
   
-
-
-
-
 
 ---
 

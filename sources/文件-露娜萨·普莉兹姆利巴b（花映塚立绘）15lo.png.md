@@ -1,12 +1,8 @@
 # 文件:露娜萨·普莉兹姆利巴b（花映塚立绘）15lo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\02\ns6%3A%E9%9C%B2%E5%A8%9C%E8%90%A8%C2%B7%E6%99%AE%E8%8E%89%E5%85%B9%E5%A7%86%E5%88%A9%E5%B7%B4b%EF%BC%88%E8%8A%B1%E6%98%A0%E5%A1%9A%E7%AB%8B%E7%BB%98%EF%BC%8915lo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\02\ns6%3A%E9%9C%B2%E5%A8%9C%E8%90%A8%C2%B7%E6%99%AE%E8%8E%89%E5%85%B9%E5%A7%86%E5%88%A9%E5%B7%B4b%EF%BC%88%E8%8A%B1%E6%98%A0%E5%A1%9A%E7%AB%8B%E7%BB%98%EF%BC%8915lo%2Epng.html -->
 
 ZUN绘 | 东方花映塚 | 官方游戏立绘 | 露娜萨·普莉兹姆利巴
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # Flying_Fantastica/分析与考据
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\d\d3\ns0%3AFlying_Fantastica%2F%E5%88%86%E6%9E%90%E4%B8%8E%E8%80%83%E6%8D%AE.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\d\d3\ns0%3AFlying_Fantastica%2F%E5%88%86%E6%9E%90%E4%B8%8E%E8%80%83%E6%8D%AE.html -->
 
 圣白莲 | 符卡
 
@@ -8,10 +8,8 @@
 ## 目录
 
 - [1 分析考据](#分析考据)
-
   - [1.1 飛鉢「フライングファンタスティカ」](#飛鉢「フライングファンタスティカ」)
   - [1.2 「スターソードの護法」](#「スターソードの護法」)
-
 
 
 - [2 注释](#注释)
@@ -19,28 +17,28 @@
 - [4 导航](#导航)
 
 
-
-
-
 ## 分析考据
 
 ### 飛鉢「フライングファンタスティカ」
   
- **飛鉢「フライングファンタスティカ」**  飞钵「Flying Fantastica」
+**飛鉢「フライングファンタスティカ」** 飞钵「Flying Fantastica」
   
   
- **飛鉢「伝説の飛空円盤」**  飞钵「传说的飞空圆盘」
+**飛鉢「伝説の飛空円盤」** 飞钵「传说的飞空圆盘」
   
 
-- 飛鉢（ひはつ）
+- 飛鉢（ひはつ） 
   - 《信贵山缘起》中有关于「命莲」以法力驱使钵在空中飞行的故事。
-  - 《信贵山缘起》中的《飞仓之卷》，故事中命莲以法力托起钵，钵飞到附近村镇富户家中化缘。
+  - 《信贵山缘起》中的《飞仓之卷》，故事中命莲以法力托起钵，钵飞到附近村镇富户家中化缘。 
     - 有一富户不愿意施舍，将钵锁进米仓，没想到钵竟然将整个米仓托起，飞回命莲身边。
     - 富户只得登上信贵山向命莲哀求，命莲留下了米仓，把空米袋送还。
     - 送还时，钵载着一个米袋飞在前，其他米袋一个一个跟着像一长串念珠，飞回了富户家中。
 
-  - 「飛鉢」也可以读作「ひばち」。
+
+  - 「飛鉢」也可以读作「ひばち」。 
     - 与《怒首领蜂》系列中的BOSS「火蜂」、「绯蜂」同音。
+
+
 
 
 
@@ -68,14 +66,19 @@
 </td></tr></tbody></table>
 
 
-- [](./文件-钵被放入米仓（信贵山缘起绘卷）.jpg.md)托钵被放入米仓（信贵山缘起绘卷）- [](./文件-钵将米仓托起飞空（信贵山缘起绘卷）.jpg.md)钵将米仓托起飞空（信贵山缘起绘卷）- [](./文件-命莲归还米袋（信贵山缘起绘卷）.jpg.md)命莲归还米袋（信贵山缘起绘卷）
+- <img alt="托钵被放入米仓（信贵山缘起绘卷）" src="https://upload.thwiki.cc/thumb/4/4c/%E9%92%B5%E8%A2%AB%E6%94%BE%E5%85%A5%E7%B1%B3%E4%BB%93%EF%BC%88%E4%BF%A1%E8%B4%B5%E5%B1%B1%E7%BC%98%E8%B5%B7%E7%BB%98%E5%8D%B7%EF%BC%89.jpg/200px-%E9%92%B5%E8%A2%AB%E6%94%BE%E5%85%A5%E7%B1%B3%E4%BB%93%EF%BC%88%E4%BF%A1%E8%B4%B5%E5%B1%B1%E7%BC%98%E8%B5%B7%E7%BB%98%E5%8D%B7%EF%BC%89.jpg" decoding="async" loading="lazy" width="200" height="140" srcset="https://upload.thwiki.cc/thumb/4/4c/%E9%92%B5%E8%A2%AB%E6%94%BE%E5%85%A5%E7%B1%B3%E4%BB%93%EF%BC%88%E4%BF%A1%E8%B4%B5%E5%B1%B1%E7%BC%98%E8%B5%B7%E7%BB%98%E5%8D%B7%EF%BC%89.jpg/300px-%E9%92%B5%E8%A2%AB%E6%94%BE%E5%85%A5%E7%B1%B3%E4%BB%93%EF%BC%88%E4%BF%A1%E8%B4%B5%E5%B1%B1%E7%BC%98%E8%B5%B7%E7%BB%98%E5%8D%B7%EF%BC%89.jpg 1.5x, https://upload.thwiki.cc/thumb/4/4c/%E9%92%B5%E8%A2%AB%E6%94%BE%E5%85%A5%E7%B1%B3%E4%BB%93%EF%BC%88%E4%BF%A1%E8%B4%B5%E5%B1%B1%E7%BC%98%E8%B5%B7%E7%BB%98%E5%8D%B7%EF%BC%89.jpg/400px-%E9%92%B5%E8%A2%AB%E6%94%BE%E5%85%A5%E7%B1%B3%E4%BB%93%EF%BC%88%E4%BF%A1%E8%B4%B5%E5%B1%B1%E7%BC%98%E8%B5%B7%E7%BB%98%E5%8D%B7%EF%BC%89.jpg 2x" data-file-width="605" data-file-height="422"> 托钵被放入米仓（信贵山缘起绘卷）
+- <img alt="钵将米仓托起飞空（信贵山缘起绘卷）" src="https://upload.thwiki.cc/thumb/8/8a/%E9%92%B5%E5%B0%86%E7%B1%B3%E4%BB%93%E6%89%98%E8%B5%B7%E9%A3%9E%E7%A9%BA%EF%BC%88%E4%BF%A1%E8%B4%B5%E5%B1%B1%E7%BC%98%E8%B5%B7%E7%BB%98%E5%8D%B7%EF%BC%89.jpg/200px-%E9%92%B5%E5%B0%86%E7%B1%B3%E4%BB%93%E6%89%98%E8%B5%B7%E9%A3%9E%E7%A9%BA%EF%BC%88%E4%BF%A1%E8%B4%B5%E5%B1%B1%E7%BC%98%E8%B5%B7%E7%BB%98%E5%8D%B7%EF%BC%89.jpg" decoding="async" loading="lazy" width="200" height="177" srcset="https://upload.thwiki.cc/thumb/8/8a/%E9%92%B5%E5%B0%86%E7%B1%B3%E4%BB%93%E6%89%98%E8%B5%B7%E9%A3%9E%E7%A9%BA%EF%BC%88%E4%BF%A1%E8%B4%B5%E5%B1%B1%E7%BC%98%E8%B5%B7%E7%BB%98%E5%8D%B7%EF%BC%89.jpg/300px-%E9%92%B5%E5%B0%86%E7%B1%B3%E4%BB%93%E6%89%98%E8%B5%B7%E9%A3%9E%E7%A9%BA%EF%BC%88%E4%BF%A1%E8%B4%B5%E5%B1%B1%E7%BC%98%E8%B5%B7%E7%BB%98%E5%8D%B7%EF%BC%89.jpg 1.5x, https://upload.thwiki.cc/thumb/8/8a/%E9%92%B5%E5%B0%86%E7%B1%B3%E4%BB%93%E6%89%98%E8%B5%B7%E9%A3%9E%E7%A9%BA%EF%BC%88%E4%BF%A1%E8%B4%B5%E5%B1%B1%E7%BC%98%E8%B5%B7%E7%BB%98%E5%8D%B7%EF%BC%89.jpg/400px-%E9%92%B5%E5%B0%86%E7%B1%B3%E4%BB%93%E6%89%98%E8%B5%B7%E9%A3%9E%E7%A9%BA%EF%BC%88%E4%BF%A1%E8%B4%B5%E5%B1%B1%E7%BC%98%E8%B5%B7%E7%BB%98%E5%8D%B7%EF%BC%89.jpg 2x" data-file-width="471" data-file-height="418"> 钵将米仓托起飞空（信贵山缘起绘卷）
+- <img alt="命莲归还米袋（信贵山缘起绘卷）" src="https://upload.thwiki.cc/thumb/7/7f/%E5%91%BD%E8%8E%B2%E5%BD%92%E8%BF%98%E7%B1%B3%E8%A2%8B%EF%BC%88%E4%BF%A1%E8%B4%B5%E5%B1%B1%E7%BC%98%E8%B5%B7%E7%BB%98%E5%8D%B7%EF%BC%89.jpg/200px-%E5%91%BD%E8%8E%B2%E5%BD%92%E8%BF%98%E7%B1%B3%E8%A2%8B%EF%BC%88%E4%BF%A1%E8%B4%B5%E5%B1%B1%E7%BC%98%E8%B5%B7%E7%BB%98%E5%8D%B7%EF%BC%89.jpg" decoding="async" loading="lazy" width="200" height="126" srcset="https://upload.thwiki.cc/thumb/7/7f/%E5%91%BD%E8%8E%B2%E5%BD%92%E8%BF%98%E7%B1%B3%E8%A2%8B%EF%BC%88%E4%BF%A1%E8%B4%B5%E5%B1%B1%E7%BC%98%E8%B5%B7%E7%BB%98%E5%8D%B7%EF%BC%89.jpg/300px-%E5%91%BD%E8%8E%B2%E5%BD%92%E8%BF%98%E7%B1%B3%E8%A2%8B%EF%BC%88%E4%BF%A1%E8%B4%B5%E5%B1%B1%E7%BC%98%E8%B5%B7%E7%BB%98%E5%8D%B7%EF%BC%89.jpg 1.5x, https://upload.thwiki.cc/thumb/7/7f/%E5%91%BD%E8%8E%B2%E5%BD%92%E8%BF%98%E7%B1%B3%E8%A2%8B%EF%BC%88%E4%BF%A1%E8%B4%B5%E5%B1%B1%E7%BC%98%E8%B5%B7%E7%BB%98%E5%8D%B7%EF%BC%89.jpg/400px-%E5%91%BD%E8%8E%B2%E5%BD%92%E8%BF%98%E7%B1%B3%E8%A2%8B%EF%BC%88%E4%BF%A1%E8%B4%B5%E5%B1%B1%E7%BC%98%E8%B5%B7%E7%BB%98%E5%8D%B7%EF%BC%89.jpg 2x" data-file-width="661" data-file-height="416"> 命莲归还米袋（信贵山缘起绘卷）
 
-- フライングファンタスティカ
-  - 英语：Flying Fantastica，飞行幻想。
+
+- フライングファンタスティカ 
+  - 英语：Flying Fantastica，飞行幻想。 
     - [星莲船](./东方星莲船.md)标题后缀即「Undefined Fantastic Object」。
 
 
-- 伝説の飛空円盤
+
+
+- 伝説の飛空円盤 
   - 《飞仓之卷》中命莲驱使的能飞在空中的托钵。
   - 联系了「不明飞行物」（Unidentified Flying Object，缩写UFO）。[^cite_note-1]
     - 实际上目击记录中UFO存在多种形态，但飞碟状UFO最为经典。
@@ -83,38 +86,46 @@
 
 
 
-```
-不明的因子是一种小蛇一般的飞行物，在不同人的眼中具有不同的形象。
-当有人看到它时，会按照自己的常识，把它看成自己认识的、认为合理的东西。
-灵梦等人并不认为木片能在空中飞行，因此把木片看成不明飞行物的代表形——碟状ＵＦＯ。
-```
 
-- 符卡中符札弹幕串在圆的边线上。
-  - 圆形的轮廓可能代指托钵？
+
+
+```
+不明的因子是一种小蛇一般的飞行物，在不同人的眼中具有不同的形象。 当有人看到它时，会按照自己的常识，把它看成自己认识的、认为合理的东西。 灵梦等人并不认为木片能在空中飞行，因此把木片看成不明飞行物的代表形——碟状ＵＦＯ。 ```
+
+
+- 符卡中符札弹幕串在圆的边线上。 
+  - 圆形的轮廓可能代指托钵？ 
     - 一个一个串在线上的符札弹可能象征念珠？
     - 圆形也联系了经典的飞碟状UFO。
 
 
 
-- [](./文件-飞钵「传说的飞空圆盘」（星莲船）-1.jpg.md)弹幕样式
+
+
+
+- <img alt="弹幕样式" src="https://upload.thwiki.cc/thumb/0/00/%E9%A3%9E%E9%92%B5%E3%80%8C%E4%BC%A0%E8%AF%B4%E7%9A%84%E9%A3%9E%E7%A9%BA%E5%9C%86%E7%9B%98%E3%80%8D%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%EF%BC%89-1.jpg/171px-%E9%A3%9E%E9%92%B5%E3%80%8C%E4%BC%A0%E8%AF%B4%E7%9A%84%E9%A3%9E%E7%A9%BA%E5%9C%86%E7%9B%98%E3%80%8D%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%EF%BC%89-1.jpg" decoding="async" loading="lazy" width="171" height="200" srcset="https://upload.thwiki.cc/thumb/0/00/%E9%A3%9E%E9%92%B5%E3%80%8C%E4%BC%A0%E8%AF%B4%E7%9A%84%E9%A3%9E%E7%A9%BA%E5%9C%86%E7%9B%98%E3%80%8D%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%EF%BC%89-1.jpg/257px-%E9%A3%9E%E9%92%B5%E3%80%8C%E4%BC%A0%E8%AF%B4%E7%9A%84%E9%A3%9E%E7%A9%BA%E5%9C%86%E7%9B%98%E3%80%8D%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%EF%BC%89-1.jpg 1.5x, https://upload.thwiki.cc/thumb/0/00/%E9%A3%9E%E9%92%B5%E3%80%8C%E4%BC%A0%E8%AF%B4%E7%9A%84%E9%A3%9E%E7%A9%BA%E5%9C%86%E7%9B%98%E3%80%8D%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%EF%BC%89-1.jpg/343px-%E9%A3%9E%E9%92%B5%E3%80%8C%E4%BC%A0%E8%AF%B4%E7%9A%84%E9%A3%9E%E7%A9%BA%E5%9C%86%E7%9B%98%E3%80%8D%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%EF%BC%89-1.jpg 2x" data-file-width="384" data-file-height="448"> 弹幕样式
 
 
 ### 「スターソードの護法」
   
- **「スターソードの護法」**  「星之剑护法」
+**「スターソードの護法」** 「星之剑护法」
   
 
-- 護法
+- 護法 
   - 佛教用语，护卫佛法。
-  - 佛教概念「护法童子」，指守护佛法僧三宝的鬼神。
+  - 佛教概念「护法童子」，指守护佛法僧三宝的鬼神。 
     - 密教相关传说中称，得到高僧可以凭咒语使役鬼神。
 
 
-- ソード
+
+
+- ソード 
   - 英语：Sword，剑。
-  - 《信贵山缘起》中的《延喜加持之卷》，故事中醍醐天皇大病，无人能医治。
+  - 《信贵山缘起》中的《延喜加持之卷》，故事中醍醐天皇大病，无人能医治。 
     - 宫中听闻命莲法师有神通，遣使请命莲救助，命莲在信贵山中施法。
     - 三天后夜里，醍醐天皇梦见空中飞来「持剑护法童子」，醒来后便病愈康复。
+
+
 
 
 
@@ -141,31 +152,25 @@
 </td></tr></tbody></table>
 
 
-- [](./文件-天皇使者向命莲求助（信贵山缘起绘卷）.jpg.md)天皇使者向命莲求助（信贵山缘起绘卷）- [](./文件-天皇梦见持剑护法童子（信贵山缘起绘卷）.jpg.md)天皇梦见持剑护法童子（信贵山缘起绘卷）
+- <img alt="天皇使者向命莲求助（信贵山缘起绘卷）" src="https://upload.thwiki.cc/thumb/e/ec/%E5%A4%A9%E7%9A%87%E4%BD%BF%E8%80%85%E5%90%91%E5%91%BD%E8%8E%B2%E6%B1%82%E5%8A%A9%EF%BC%88%E4%BF%A1%E8%B4%B5%E5%B1%B1%E7%BC%98%E8%B5%B7%E7%BB%98%E5%8D%B7%EF%BC%89.jpg/200px-%E5%A4%A9%E7%9A%87%E4%BD%BF%E8%80%85%E5%90%91%E5%91%BD%E8%8E%B2%E6%B1%82%E5%8A%A9%EF%BC%88%E4%BF%A1%E8%B4%B5%E5%B1%B1%E7%BC%98%E8%B5%B7%E7%BB%98%E5%8D%B7%EF%BC%89.jpg" decoding="async" loading="lazy" width="200" height="193" srcset="https://upload.thwiki.cc/thumb/e/ec/%E5%A4%A9%E7%9A%87%E4%BD%BF%E8%80%85%E5%90%91%E5%91%BD%E8%8E%B2%E6%B1%82%E5%8A%A9%EF%BC%88%E4%BF%A1%E8%B4%B5%E5%B1%B1%E7%BC%98%E8%B5%B7%E7%BB%98%E5%8D%B7%EF%BC%89.jpg/300px-%E5%A4%A9%E7%9A%87%E4%BD%BF%E8%80%85%E5%90%91%E5%91%BD%E8%8E%B2%E6%B1%82%E5%8A%A9%EF%BC%88%E4%BF%A1%E8%B4%B5%E5%B1%B1%E7%BC%98%E8%B5%B7%E7%BB%98%E5%8D%B7%EF%BC%89.jpg 1.5x, https://upload.thwiki.cc/e/ec/%E5%A4%A9%E7%9A%87%E4%BD%BF%E8%80%85%E5%90%91%E5%91%BD%E8%8E%B2%E6%B1%82%E5%8A%A9%EF%BC%88%E4%BF%A1%E8%B4%B5%E5%B1%B1%E7%BC%98%E8%B5%B7%E7%BB%98%E5%8D%B7%EF%BC%89.jpg 2x" data-file-width="360" data-file-height="347"> 天皇使者向命莲求助（信贵山缘起绘卷）
+- <img alt="天皇梦见持剑护法童子（信贵山缘起绘卷）" src="https://upload.thwiki.cc/thumb/5/57/%E5%A4%A9%E7%9A%87%E6%A2%A6%E8%A7%81%E6%8C%81%E5%89%91%E6%8A%A4%E6%B3%95%E7%AB%A5%E5%AD%90%EF%BC%88%E4%BF%A1%E8%B4%B5%E5%B1%B1%E7%BC%98%E8%B5%B7%E7%BB%98%E5%8D%B7%EF%BC%89.jpg/200px-%E5%A4%A9%E7%9A%87%E6%A2%A6%E8%A7%81%E6%8C%81%E5%89%91%E6%8A%A4%E6%B3%95%E7%AB%A5%E5%AD%90%EF%BC%88%E4%BF%A1%E8%B4%B5%E5%B1%B1%E7%BC%98%E8%B5%B7%E7%BB%98%E5%8D%B7%EF%BC%89.jpg" decoding="async" loading="lazy" width="200" height="137" srcset="https://upload.thwiki.cc/thumb/5/57/%E5%A4%A9%E7%9A%87%E6%A2%A6%E8%A7%81%E6%8C%81%E5%89%91%E6%8A%A4%E6%B3%95%E7%AB%A5%E5%AD%90%EF%BC%88%E4%BF%A1%E8%B4%B5%E5%B1%B1%E7%BC%98%E8%B5%B7%E7%BB%98%E5%8D%B7%EF%BC%89.jpg/300px-%E5%A4%A9%E7%9A%87%E6%A2%A6%E8%A7%81%E6%8C%81%E5%89%91%E6%8A%A4%E6%B3%95%E7%AB%A5%E5%AD%90%EF%BC%88%E4%BF%A1%E8%B4%B5%E5%B1%B1%E7%BC%98%E8%B5%B7%E7%BB%98%E5%8D%B7%EF%BC%89.jpg 1.5x, https://upload.thwiki.cc/thumb/5/57/%E5%A4%A9%E7%9A%87%E6%A2%A6%E8%A7%81%E6%8C%81%E5%89%91%E6%8A%A4%E6%B3%95%E7%AB%A5%E5%AD%90%EF%BC%88%E4%BF%A1%E8%B4%B5%E5%B1%B1%E7%BC%98%E8%B5%B7%E7%BB%98%E5%8D%B7%EF%BC%89.jpg/400px-%E5%A4%A9%E7%9A%87%E6%A2%A6%E8%A7%81%E6%8C%81%E5%89%91%E6%8A%A4%E6%B3%95%E7%AB%A5%E5%AD%90%EF%BC%88%E4%BF%A1%E8%B4%B5%E5%B1%B1%E7%BC%98%E8%B5%B7%E7%BB%98%E5%8D%B7%EF%BC%89.jpg 2x" data-file-width="460" data-file-height="314"> 天皇梦见持剑护法童子（信贵山缘起绘卷）
 
-- スター
+
+- スター 
   - 英语：Star，星星。
-  - 日语中「聖」的音读「せい」，和「星」同音。
+  - 日语中「聖」的音读「せい」，和「星」同音。 
     - 可能指[圣白莲](./圣白莲.md)？
     - [圣白莲](./圣白莲.md)驱使的持剑护法。
 
 
 
 
+
 [^cite_note-1]: 中文维基百科：[UFO](https://en.wikipedia.org/wiki/zh:UFO)
 
-
 ## 参见
+
 - [圣白莲/分析考据](./圣白莲-分析考据.md)
-
-
-## 导航
-
-<table><tbody><tr><td><table cellspacing="0" class="nowraplinks mw-collapsible mw-collapsed" style="width:100%;;;"><tbody><tr><th style=";" colspan="3" class="navbox-title"><div class="navbar"><div class="noprint plainlinksneverexpand" style="background-color:transparent; padding:0; font-weight:normal; font-size:80%; white-space:nowrap;"><a href="./模板-圣白莲符卡导航.md" title="模板:圣白莲符卡导航"><span style=";;border:none;" title="查看这个模板">查</span></a>&#160;<span style="font-size:80%;">•</span>&#160;<a href="/index.php?title=%E6%A8%A1%E6%9D%BF:%E5%9C%A3%E7%99%BD%E8%8E%B2%E7%AC%A6%E5%8D%A1%E5%AF%BC%E8%88%AA&amp;action=edit"><span style=";;border:none;" title="您可以编辑这个模板。请在储存变更之前先预览">编</span></a></div></div><span><a href="./圣白莲.md" title="圣白莲">圣白莲</a>符卡</span></th></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">射击游戏</td><td style=";;" class="navbox-list navbox-odd"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div><a href="./东方星莲船.md" title="东方星莲船">东方星莲船</a></div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./紫云之兆.md" title="紫云之兆" unred="">魔法「紫云之兆」</a> &#8226; <a href="./紫云之兆.md" title="紫云之兆" unred="">吉兆「紫色云路」</a> &#8226; <a href="./紫云之兆.md" title="紫云之兆" unred="">吉兆「极乐的紫色云路」</a> &#8226; <a href="./魔界蝶之妖香.md" title="魔界蝶之妖香" unred="">魔法「魔界蝶之妖香」</a> &#8226; <a href="./魔界蝶之妖香.md" title="魔界蝶之妖香" unred="">魔法「Magic Butterfly」</a> &#8226; <a href="./Star_Maelstrom.md" title="Star Maelstrom" unred="">光魔「Star Maelstrom」</a> &#8226; <a href="./Star_Maelstrom.md" title="Star Maelstrom" unred="">光魔「魔法银河系」</a> &#8226; <a href="./魔神复诵.md" title="魔神复诵" unred="">大魔法「魔神复诵」</a> &#8226; <a href="./圣尼公之大空卷轴.md" title="圣尼公之大空卷轴" unred="">「圣尼公之大空卷轴」</a> &#8226; <a href="./圣尼公之大空卷轴.md" title="圣尼公之大空卷轴" unred="">超人「圣白莲」</a> &#8226; <a href="./Flying_Fantastica.md" title="Flying Fantastica" unred="">飞钵「Flying Fantastica」</a> &#8226; <a href="./Flying_Fantastica.md" title="Flying Fantastica" unred="">飞钵「传说的飞空圆盘」</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div><a href="./东方文花帖DS.md" title="东方文花帖DS">东方文花帖DS</a></div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./游行圣.md" title="游行圣" unred="">「游行圣」</a> &#8226; <a href="./垂迹大日如来.md" title="垂迹大日如来" unred="">习合「垂迹大日如来」</a> &#8226; <a href="./Flying_Fantastica.md" title="Flying Fantastica" unred="">「星之剑护法」</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div><a href="./弹幕天邪鬼.md" title="弹幕天邪鬼">弹幕天邪鬼</a></div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./黑天的束缚.md" title="黑天的束缚" unred="">「黑天的束缚」</a> &#8226; <a href="./黑天的束缚.md" title="黑天的束缚" unred="">「梵天之瞳」</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div><a href="./秘封噩梦日记.md" title="秘封噩梦日记">秘封噩梦日记</a></div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./十七条的超人.md" title="十七条的超人" unred="">星神符「十七条的超人」</a> &#8226; <a href="./超人血刀.md" title="超人血刀" unred="">红星符「超人血刀」</a> &#8226; <a href="./超人大灾变行脚.md" title="超人大灾变行脚" unred="">红星符「超人大灾变行脚」</a></div></td></tr></tbody></table><div></div></td><td class="navbox-image" style="" rowspan="5"><a href="./文件-圣白莲（Q版立绘）.png.md" class="image"><img alt="圣白莲（Q版立绘）.png" src="https://upload.thwiki.cc/thumb/4/4d/%E5%9C%A3%E7%99%BD%E8%8E%B2%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png/160px-%E5%9C%A3%E7%99%BD%E8%8E%B2%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="160" height="160" srcset="https://upload.thwiki.cc/thumb/4/4d/%E5%9C%A3%E7%99%BD%E8%8E%B2%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png/240px-%E5%9C%A3%E7%99%BD%E8%8E%B2%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/4/4d/%E5%9C%A3%E7%99%BD%E8%8E%B2%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png/320px-%E5%9C%A3%E7%99%BD%E8%8E%B2%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="500" data-file-height="500"></a></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">格斗游戏</td><td style=";;" class="navbox-list navbox-even"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div><a href="./东方心绮楼.md" title="东方心绮楼">东方心绮楼</a></div></td><td style=";;" class="navbox-list navbox-odd"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>对战符卡</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./三千大千世界之主.md" title="三千大千世界之主" unred="">天符「三千大千世界之主」</a> &#8226; <a href="./大日如来的光辉.md" title="大日如来的光辉" unred="">天符「大日如来的光辉」</a> &#8226; <a href="./释迦牟尼的五行山.md" title="释迦牟尼的五行山" unred="">天符「释迦牟尼的五行山」</a> &#8226; <a href="./Angirasa_Veda.md" title="Angirasa Veda" unred="">「Angirasa Veda」</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>故事符卡</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./金刚手菩萨的咒文.md" title="金刚手菩萨的咒文" unred="">杵符「金刚手菩萨的咒文」</a> &#8226; <a href="./迦楼罗之翼.md" title="迦楼罗之翼" unred="">超人「迦楼罗之翼」</a></div></td></tr></tbody></table><div></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div><a href="./东方深秘录.md" title="东方深秘录">东方深秘录</a></div></td><td style=";;" class="navbox-list navbox-even"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>对战符卡</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./三千大千世界之主.md" title="三千大千世界之主" unred="">天符「三千大千世界之主」</a> &#8226; <a href="./大日如来的光辉.md" title="大日如来的光辉" unred="">天符「大日如来的光辉」</a> &#8226; <a href="./释迦牟尼的五行山.md" title="释迦牟尼的五行山" unred="">天符「释迦牟尼的五行山」</a> &#8226; <a href="./以100迈驰骋天际！.md" title="以100迈驰骋天际！" unred="">＊以100迈驰骋天际！＊</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>故事符卡</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./老妇人的冲刺.md" title="老妇人的冲刺" unred="">超音速「老妇人的冲刺」</a> &#8226; <a href="./高速路涡轮空中转向.md" title="高速路涡轮空中转向" unred="">＊高速路涡轮空中转向＊</a> &#8226; <a href="./涡轮老太婆走死走爱.md" title="涡轮老太婆走死走爱" unred="">＊涡轮老太婆走死走爱＊</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>Extra故事符卡</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./因陀罗的金刚杵.md" title="因陀罗的金刚杵" unred="">光符「因陀罗的金刚杵」</a> &#8226; <a href="./圣尼公之大空卷轴.md" title="圣尼公之大空卷轴" unred="">超人「圣白莲」</a> &#8226; <a href="./大追踪！Buddhist_Rider.md" title="大追踪！Buddhist Rider" unred="">超人「大追踪！Buddhist Rider」</a></div></td></tr></tbody></table><div></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div><a href="./东方凭依华.md" title="东方凭依华">东方凭依华</a></div></td><td style=";;" class="navbox-list navbox-odd"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>对战符卡</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./三千大千世界之主.md" title="三千大千世界之主" unred="">天符「三千大千世界之主」</a> &#8226; <a href="./大日如来的光辉.md" title="大日如来的光辉" unred="">天符「大日如来的光辉」</a> &#8226; <a href="./释迦牟尼的五行山.md" title="释迦牟尼的五行山" unred="">天符「释迦牟尼的五行山」</a> &#8226; <a href="./以100迈驰骋天际！.md" title="以100迈驰骋天际！" unred="">＊以100迈驰骋天际！＊</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>故事符卡</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./引导着你的王道的金刚杵射击.md" title="引导着你的王道的金刚杵射击" unred="">光击符「引导着你的王道的金刚杵射击」</a> &#8226; <a href="./韦驮天的怪云拳.md" title="韦驮天的怪云拳" unred="">击拳符「韦驮天的怪云拳」</a> &#8226; <a href="./韦驮天的王道威光.md" title="韦驮天的王道威光" unred="">击光符「韦驮天的王道威光」</a> &#8226; <a href="./迦楼罗的圣德斩.md" title="迦楼罗的圣德斩" unred="">蹴斩符「迦楼罗的圣德斩」</a> &#8226; <a href="./日出之国的僧侣和道士.md" title="日出之国的僧侣和道士" unred="">光仙符「日出之国的僧侣和道士」</a> &#8226; <a href="./因陀罗的金刚杵怪云拳.md" title="因陀罗的金刚杵怪云拳" unred="">光拳符「因陀罗的金刚杵怪云拳」</a> &#8226; <a href="./被韦驮天追逐的正梦.md" title="被韦驮天追逐的正梦" unred="">击符「被韦驮天追逐的正梦」</a></div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">出版物</td><td style=";;" class="navbox-list navbox-odd"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div><a href="./The_Grimoire_of_Usami.md" title="The Grimoire of Usami" unred="">宇佐见的魔法书</a></div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./Star_Maelstrom.md" title="Star Maelstrom" unred="">光魔「魔法银河系」</a> &#8226; <a href="./黑天的束缚.md" title="黑天的束缚" unred="">「梵天之瞳」</a> &#8226; <a href="./魔神复诵.md" title="魔神复诵" unred="">大魔法「魔神复诵」</a></div></td></tr></tbody></table><div></div></td></tr></tbody></table></td></tr></tbody></table>
-
-
-
-
 
 
 ---

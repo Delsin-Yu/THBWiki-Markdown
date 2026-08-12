@@ -1,6 +1,6 @@
 # 文件:Sweet_Sweet,Blossom封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f7\ns6%3ASweet_Sweet%2CBlossom%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f7\ns6%3ASweet_Sweet%2CBlossom%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Cappella | Nijusei | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@ Cappella | Nijusei | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Sweet Sweet,Blossom](./Sweet_Sweet,Blossom.md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)
+- [Sweet Sweet,Blossom](./Sweet_Sweet,Blossom.md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
 
   
-源地址：[direct image link](http://jum.genin.jp/top_sozai/ssb_omte.jpg), [source page](http://jum.genin.jp/)
-  
-
-
-
-
+源地址：[direct image link](http://jum.genin.jp/top_sozai/ssb_omte.jpg), [source page](http://jum.genin.jp/)  
 
 ---
 

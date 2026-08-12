@@ -1,6 +1,6 @@
 # 文件:9HI_／_待宵_／_貴方の明日を封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\23\ns6%3A9HI_%EF%BC%8F_%E5%BE%85%E5%AE%B5_%EF%BC%8F_%E8%B2%B4%E6%96%B9%E3%81%AE%E6%98%8E%E6%97%A5%E3%82%92%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\23\ns6%3A9HI_%EF%BC%8F_%E5%BE%85%E5%AE%B5_%EF%BC%8F_%E8%B2%B4%E6%96%B9%E3%81%AE%E6%98%8E%E6%97%A5%E3%82%92%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 味玉定食 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [9HI ／ 待宵 ／ 貴方の明日を](./9HI_／_待宵_／_貴方の明日を.md)  
-该封面包含的角色：- [赤蛮奇](./赤蛮奇.md)
-
-
-
+- [9HI ／ 待宵 ／ 貴方の明日を](./9HI_／_待宵_／_貴方の明日を.md)该封面包含的角色：
+- [赤蛮奇](./赤蛮奇.md)
 
 
 ---

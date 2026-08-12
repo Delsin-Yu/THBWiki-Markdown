@@ -1,18 +1,13 @@
 # 文件:Spiral_Musicbanner2.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\98\ns6%3ASpiral_Musicbanner2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\98\ns6%3ASpiral_Musicbanner2%2Epng.html -->
 
 Spiral_Music | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[[1]](http://tsubu.ath.cx/~spiralmusic/banner/banner.png)
-  
-
-
-
-
+源地址：[\[1\]](http://tsubu.ath.cx/~spiralmusic/banner/banner.png)  
 
 ---
 

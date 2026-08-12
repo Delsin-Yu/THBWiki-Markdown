@@ -1,6 +1,6 @@
 # 文件:FLYING_ARTILLERIST_-_get_ready,_already.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\84\ns6%3AFLYING_ARTILLERIST_-_get_ready%2C_already%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\84\ns6%3AFLYING_ARTILLERIST_-_get_ready%2C_already%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 CLOSED／UNDERGROUND | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ CLOSED／UNDERGROUND | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [FLYING ARTILLERIST - get ready, already.](./FLYING_ARTILLERIST_-_get_ready,_already..md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [FLYING ARTILLERIST - get ready, already.](./FLYING_ARTILLERIST_-_get_ready,_already..md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

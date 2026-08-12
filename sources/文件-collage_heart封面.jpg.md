@@ -1,6 +1,6 @@
 # 文件:collage_heart封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f8\ns6%3Acollage_heart%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f8\ns6%3Acollage_heart%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 inuyasis. | 同人志封面 | 封面图片
 
@@ -13,12 +13,7 @@ inuyasis. | 同人志封面 | 封面图片
 - [collage heart](./collage_heart.md)
 
   
-[Pixiv artwork ID: 43312277 (original size)](https://www.pixiv.net/artworks/43312277)
-  
-
-
-
-
+[Pixiv artwork ID: 43312277 (original size)](https://www.pixiv.net/artworks/43312277)  
 
 ---
 

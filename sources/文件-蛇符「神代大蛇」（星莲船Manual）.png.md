@@ -1,12 +1,8 @@
 # 文件:蛇符「神代大蛇」（星莲船Manual）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0b\ns6%3A%E8%9B%87%E7%AC%A6%E3%80%8C%E7%A5%9E%E4%BB%A3%E5%A4%A7%E8%9B%87%E3%80%8D%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9Manual%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0b\ns6%3A%E8%9B%87%E7%AC%A6%E3%80%8C%E7%A5%9E%E4%BB%A3%E5%A4%A7%E8%9B%87%E3%80%8D%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9Manual%EF%BC%89%2Epng.html -->
 
 Manual配图 | 东方星莲船 | 东风谷早苗
-
-
-
-
 
 
 ---

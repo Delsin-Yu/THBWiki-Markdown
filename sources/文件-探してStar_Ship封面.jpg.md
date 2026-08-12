@@ -1,6 +1,6 @@
 # 文件:探してStar_Ship封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\65\ns6%3A%E6%8E%A2%E3%81%97%E3%81%A6Star_Ship%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\65\ns6%3A%E6%8E%A2%E3%81%97%E3%81%A6Star_Ship%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 YEKproject | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ YEKproject | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [探してStar Ship](./探してStar_Ship.md)  
-该封面包含的角色：- [多多良小伞](./多多良小伞.md)
-
-
-
+- [探してStar Ship](./探してStar_Ship.md)该封面包含的角色：
+- [多多良小伞](./多多良小伞.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Presence∝fTVA_2009_spring封面.webp
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5a\ns6%3APresence%E2%88%9DfTVA_2009_spring%E5%B0%81%E9%9D%A2%2Ewebp.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5a\ns6%3APresence%E2%88%9DfTVA_2009_spring%E5%B0%81%E9%9D%A2%2Ewebp.html -->
 
 Presence∝fTVA | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ Presence∝fTVA | 专辑封面 | 封面图片
   
 
 - [Presence∝fTVA 2009 spring](./Presence∝fTVA_2009_spring.md)
-
-
-
 
 
 ---

@@ -1,18 +1,13 @@
 # 文件:RoarAddictionbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0f\ns6%3ARoarAddictionbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0f\ns6%3ARoarAddictionbanner%2Epng.html -->
 
 RoarAddiction | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[direct image link](https://web.archive.org/web/20140803144556im_/http://roaraddiction.mods.jp/BANNER.PNG), [source page](https://web.archive.org/web/20140803144554/http://roaraddiction.mods.jp/)
-  
-
-
-
-
+源地址：[direct image link](https://web.archive.org/web/20140803144556im_/http://roaraddiction.mods.jp/BANNER.PNG), [source page](https://web.archive.org/web/20140803144554/http://roaraddiction.mods.jp/)  
 
 ---
 

@@ -1,27 +1,21 @@
 # 白玉家/武汉THO器乐合奏纪念钥匙扣
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\68\ns0%3A%E7%99%BD%E7%8E%89%E5%AE%B6%2F%E6%AD%A6%E6%B1%89THO%E5%99%A8%E4%B9%90%E5%90%88%E5%A5%8F%E7%BA%AA%E5%BF%B5%E9%92%A5%E5%8C%99%E6%89%A3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\68\ns0%3A%E7%99%BD%E7%8E%89%E5%AE%B6%2F%E6%AD%A6%E6%B1%89THO%E5%99%A8%E4%B9%90%E5%90%88%E5%A5%8F%E7%BA%AA%E5%BF%B5%E9%92%A5%E5%8C%99%E6%89%A3.html -->
 
 2024年6月24日 由 白玉家  发布的钥匙扣周边，分级为 一般向
 
 本页是关于东方Project  
- **相关实体周边 (未找到链接)** 的词条
-
+**相关实体周边 (未找到链接)**的词条
 ## 目录
 
 - [1 周边信息](#周边信息)
 - [2 参考图](#参考图)
-
   - [2.1 预览图](#预览图)
   - [2.2 实物图](#实物图)
 
 
-
 - [3 Staff](#Staff)
 - [4 评论](#评论)
-
-
-
 
 
 ## 周边信息
@@ -29,15 +23,14 @@
 <table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 武汉THO器乐合奏纪念钥匙扣 </td></tr><tr><td class="label">制作方</td><td><a href="./白玉家.md" title="白玉家">白玉家</a></td></tr><tr><td class="label">首发日期</td><td>未知</td></tr><tr><td class="label">类型</td><td>钥匙扣</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>7cm</td></tr><tr><td class="label">材质</td><td>亚克力覆彩膜</td></tr><tr><td class="label">角色</td><td><a href="./堀川雷鼓.md" title="堀川雷鼓">堀川雷鼓</a><br><a href="./九十九弁弁.md" title="九十九弁弁">九十九弁弁</a><br><a href="./九十九八桥.md" title="九十九八桥">九十九八桥</a></td></tr><tr><td class="label">售价</td><td>10人民币</td></tr><tr><td class="label">备注</td><td>25人民币一套</td></tr></tbody></table>
 
 白玉家/武汉THO器乐合奏纪念钥匙扣（周边，白玉家） - 2024年6月22日 由 白玉家  发布的钥匙扣周边，分级为 一般向
-
 ## 参考图
   
 周边宣传、售卖时使用的作为参考图的预览图或实物图的图片。
   
 
-
 ### 预览图
-- [](./文件-白玉家／武汉THO器乐合奏纪念钥匙扣预览图1.jpg.md)
+
+- <img alt="白玉家／武汉THO器乐合奏纪念钥匙扣预览图1.jpg" src="https://upload.thwiki.cc/thumb/0/01/%E7%99%BD%E7%8E%89%E5%AE%B6%EF%BC%8F%E6%AD%A6%E6%B1%89THO%E5%99%A8%E4%B9%90%E5%90%88%E5%A5%8F%E7%BA%AA%E5%BF%B5%E9%92%A5%E5%8C%99%E6%89%A3%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg/497px-%E7%99%BD%E7%8E%89%E5%AE%B6%EF%BC%8F%E6%AD%A6%E6%B1%89THO%E5%99%A8%E4%B9%90%E5%90%88%E5%A5%8F%E7%BA%AA%E5%BF%B5%E9%92%A5%E5%8C%99%E6%89%A3%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg" decoding="async" loading="lazy" width="332" height="250" srcset="https://upload.thwiki.cc/0/01/%E7%99%BD%E7%8E%89%E5%AE%B6%EF%BC%8F%E6%AD%A6%E6%B1%89THO%E5%99%A8%E4%B9%90%E5%90%88%E5%A5%8F%E7%BA%AA%E5%BF%B5%E9%92%A5%E5%8C%99%E6%89%A3%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg 1.5x" data-file-width="624" data-file-height="471"> 
 
 
 ### 实物图
@@ -46,11 +39,7 @@
 作者
 : 露露雷拉
 
-
 ## 评论
-
-
-
 
 ---
 

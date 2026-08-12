@@ -1,12 +1,8 @@
 # 文件:地底主义banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c8\ns6%3A%E5%9C%B0%E5%BA%95%E4%B8%BB%E4%B9%89banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c8\ns6%3A%E5%9C%B0%E5%BA%95%E4%B8%BB%E4%B9%89banner%2Ejpg.html -->
 
 地底主义 | 社团LOGO
-
-
-
-
 
 
 ---

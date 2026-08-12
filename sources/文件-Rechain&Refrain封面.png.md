@@ -1,6 +1,6 @@
 # 文件:Rechain&Refrain封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7d\ns6%3ARechain%26Refrain%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7d\ns6%3ARechain%26Refrain%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Over_Forte | maximedia | ワカサギツリ。 | 专辑封面 | 封面图片
 
@@ -8,11 +8,10 @@ Over_Forte | maximedia | ワカサギツリ。 | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Rechain&amp;Refrain](./Rechain&Refrain.md)  
-该封面包含的角色：- [橙](./橙.md)- [魂魄妖梦](./魂魄妖梦.md)- [小野塚小町](./小野塚小町.md)
-
-
-
+- [Rechain&Refrain](./Rechain&Refrain.md)该封面包含的角色：
+- [橙](./橙.md)
+- [魂魄妖梦](./魂魄妖梦.md)
+- [小野塚小町](./小野塚小町.md)
 
 
 ---

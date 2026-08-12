@@ -1,12 +1,8 @@
 # 文件:锚符「幽灵船长期停泊」（DS文花帖）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\70\ns6%3A%E9%94%9A%E7%AC%A6%E3%80%8C%E5%B9%BD%E7%81%B5%E8%88%B9%E9%95%BF%E6%9C%9F%E5%81%9C%E6%B3%8A%E3%80%8D%EF%BC%88DS%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\70\ns6%3A%E9%94%9A%E7%AC%A6%E3%80%8C%E5%B9%BD%E7%81%B5%E8%88%B9%E9%95%BF%E6%9C%9F%E5%81%9C%E6%B3%8A%E3%80%8D%EF%BC%88DS%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Ejpg.html -->
 
 东方文花帖DS | 敌机符卡 | 村纱水蜜
-
-
-
-
 
 
 ---

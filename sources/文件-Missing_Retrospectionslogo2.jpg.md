@@ -1,18 +1,13 @@
 # 文件:Missing_Retrospectionslogo2.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ae\ns6%3AMissing_Retrospectionslogo2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ae\ns6%3AMissing_Retrospectionslogo2%2Ejpg.html -->
 
 Missing_Retrospections | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[[1]](https://f4.bcbits.com/img/0020692862_10.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://f4.bcbits.com/img/0020692862_10.jpg)  
 
 ---
 

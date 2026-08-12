@@ -1,6 +1,6 @@
 # 文件:Rebirth_StoryⅡ封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7c\ns6%3ARebirth_Story%E2%85%A1%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7c\ns6%3ARebirth_Story%E2%85%A1%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 FELT | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ FELT | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Rebirth StoryⅡ](./Rebirth_StoryⅡ.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [Rebirth StoryⅡ](./Rebirth_StoryⅡ.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

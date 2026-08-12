@@ -1,6 +1,6 @@
 # 文件:夢現紀行_-_［_］_Traveler.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4a\ns6%3A%E5%A4%A2%E7%8F%BE%E7%B4%80%E8%A1%8C_-_%EF%BC%BB_%EF%BC%BD_Traveler%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4a\ns6%3A%E5%A4%A2%E7%8F%BE%E7%B4%80%E8%A1%8C_-_%EF%BC%BB_%EF%BC%BD_Traveler%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 AncientChronicle | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ AncientChronicle | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [夢現紀行 - ［ ］ Traveler.](./夢現紀行_-_［_］_Traveler..md)  
-该封面包含的角色：- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [夢現紀行 - ［ ］ Traveler.](./夢現紀行_-_［_］_Traveler..md)该封面包含的角色：
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

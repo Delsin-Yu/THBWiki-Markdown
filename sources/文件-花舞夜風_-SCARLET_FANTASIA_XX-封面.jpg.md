@@ -1,6 +1,6 @@
 # 文件:花舞夜風_-SCARLET_FANTASIA_XX-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e9\ns6%3A%E8%8A%B1%E8%88%9E%E5%A4%9C%E9%A2%A8_-SCARLET_FANTASIA_XX-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e9\ns6%3A%E8%8A%B1%E8%88%9E%E5%A4%9C%E9%A2%A8_-SCARLET_FANTASIA_XX-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 岡垣正志＆フレンズ
 
@@ -11,9 +11,6 @@
   
 
 - [花舞夜風 -SCARLET FANTASIA XX-](./花舞夜風_-SCARLET_FANTASIA_XX-.md)
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Re'write～完全至上イデオロギー～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b7\ns6%3ARe%27write%EF%BD%9E%E5%AE%8C%E5%85%A8%E8%87%B3%E4%B8%8A%E3%82%A4%E3%83%87%E3%82%AA%E3%83%AD%E3%82%AE%E3%83%BC%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b7\ns6%3ARe%27write%EF%BD%9E%E5%AE%8C%E5%85%A8%E8%87%B3%E4%B8%8A%E3%82%A4%E3%83%87%E3%82%AA%E3%83%AD%E3%82%AE%E3%83%BC%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ALiCe_BoX | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ ALiCe_BoX | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Re'write～完全至上イデオロギー～](./Re'write～完全至上イデオロギー～.md)  
-该封面包含的角色：- [鬼人正邪](./鬼人正邪.md)
+- [Re'write～完全至上イデオロギー～](./Re'write～完全至上イデオロギー～.md)该封面包含的角色：
+- [鬼人正邪](./鬼人正邪.md)
 
   
-源地址：[[1]](http://img.toranoana.jp/popup_img/04/0030/48/31/040030483170-1p.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://img.toranoana.jp/popup_img/04/0030/48/31/040030483170-1p.jpg)  
 
 ---
 

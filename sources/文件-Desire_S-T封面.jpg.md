@@ -1,6 +1,6 @@
 # 文件:Desire_S-T封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e0\ns6%3ADesire_S-T%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e0\ns6%3ADesire_S-T%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Eve_Hates_Me | Sharp_Eight | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ Eve_Hates_Me | Sharp_Eight | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Desire S-T](./Desire_S-T.md)  
-该封面包含的角色：- [宫古芳香](./宫古芳香.md)- [霍青娥](./霍青娥.md)
-
-
-
+- [Desire S-T](./Desire_S-T.md)该封面包含的角色：
+- [宫古芳香](./宫古芳香.md)
+- [霍青娥](./霍青娥.md)
 
 
 ---

@@ -1,18 +1,13 @@
 # 文件:星の妄想乡logo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7e\ns6%3A%E6%98%9F%E3%81%AE%E5%A6%84%E6%83%B3%E4%B9%A1logo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7e\ns6%3A%E6%98%9F%E3%81%AE%E5%A6%84%E6%83%B3%E4%B9%A1logo%2Ejpg.html -->
 
 星の妄想乡 | 社团LOGO
 
 
 ## 摘要
   
-源地址：[direct image link](https://lain.bgm.tv/pic/club/icon/l/000/00/51/5195.jpg), [source page](https://doujin.bgm.tv/club/STD)
-  
-
-
-
-
+源地址：[direct image link](https://lain.bgm.tv/pic/club/icon/l/000/00/51/5195.jpg), [source page](https://doujin.bgm.tv/club/STD)  
 
 ---
 

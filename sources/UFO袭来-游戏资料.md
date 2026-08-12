@@ -1,6 +1,6 @@
 # UFO袭来/游戏资料
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\22\ns0%3AUFO%E8%A2%AD%E6%9D%A5%2F%E6%B8%B8%E6%88%8F%E8%B5%84%E6%96%99.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\22\ns0%3AUFO%E8%A2%AD%E6%9D%A5%2F%E6%B8%B8%E6%88%8F%E8%B5%84%E6%96%99.html -->
 
 封兽鵺 | 符卡
 
@@ -29,7 +29,6 @@
 </td></tr></tbody></table>
 
 
-
 ## 东方星莲船
 
 <table>
@@ -37,11 +36,9 @@
 </tbody></table>
 
 
-
 <table>
 <tbody><tr><td style="min-width:200px" colspan="4" align="center"><b>真相不明「哀愁的蓝色UFO袭来」</b></td></tr><tr><td style="min-width:100px" colspan="2" align="center"><b>符卡使用者</b></td><td style="min-width:250px" colspan="2" align="center"><a href="./封兽鵺.md" title="封兽鵺">封兽鵺</a></td></tr><tr><td style="min-width:100px" colspan="2" align="center"><b>符卡血量</b></td><td style="min-width:250px" colspan="2" align="center">1700</td></tr><tr><td style="min-width:100px" colspan="2" align="center"><b>符卡时间</b></td><td style="min-width:250px" colspan="2" align="center">60s</td></tr><tr><td style="min-width:100px" colspan="2" align="center"><b>弹幕类型</b></td><td style="min-width:250px" colspan="2" align="center">待补充</td></tr><tr><td style="min-width:100px" colspan="2" align="center"><b>应对建议</b></td><td style="min-width:250px" colspan="2" align="center">同上，注意背后的偷袭</td></tr><tr><td style="min-width:100px" colspan="2" align="center"><b>补充说明</b></td><td style="min-width:250px" colspan="2" align="center">待补充</td></tr>
 </tbody></table>
-
 
 
 <table>
@@ -49,14 +46,9 @@
 </tbody></table>
 
 
-
 <table>
 <tbody><tr><td style="min-width:200px" colspan="4" align="center"><b>真相不明「恐怖的虹色UFO袭来」</b></td></tr><tr><td style="min-width:100px" colspan="2" align="center"><b>符卡使用者</b></td><td style="min-width:250px" colspan="2" align="center"><a href="./封兽鵺.md" title="封兽鵺">封兽鵺</a></td></tr><tr><td style="min-width:100px" colspan="2" align="center"><b>符卡血量</b></td><td style="min-width:250px" colspan="2" align="center">2200</td></tr><tr><td style="min-width:100px" colspan="2" align="center"><b>符卡时间</b></td><td style="min-width:250px" colspan="2" align="center">70s</td></tr><tr><td style="min-width:100px" colspan="2" align="center"><b>弹幕类型</b></td><td style="min-width:250px" colspan="2" align="center">待补充</td></tr><tr><td style="min-width:100px" colspan="2" align="center"><b>应对建议</b></td><td style="min-width:250px" colspan="2" align="center">待补充</td></tr><tr><td style="min-width:100px" colspan="2" align="center"><b>补充说明</b></td><td style="min-width:250px" colspan="2" align="center">待补充</td></tr>
 </tbody></table>
-
-
-
-
 
 
 ---

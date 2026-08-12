@@ -1,6 +1,6 @@
 # 文件:卡祖红魔乡~the_kazoo_homo_home封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\67\ns6%3A%E5%8D%A1%E7%A5%96%E7%BA%A2%E9%AD%94%E4%B9%A1%7Ethe_kazoo_homo_home%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\67\ns6%3A%E5%8D%A1%E7%A5%96%E7%BA%A2%E9%AD%94%E4%B9%A1%7Ethe_kazoo_homo_home%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 萌萌哒的韭菜盒子
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [卡祖红魔乡~the kazoo homo home](./卡祖红魔乡~the_kazoo_homo_home.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
-
-
-
+- [卡祖红魔乡~the kazoo homo home](./卡祖红魔乡~the_kazoo_homo_home.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
 
 ---

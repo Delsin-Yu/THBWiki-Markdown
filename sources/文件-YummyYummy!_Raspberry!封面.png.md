@@ -1,6 +1,6 @@
 # 文件:YummyYummy!_Raspberry!封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\22\ns6%3AYummyYummy%21_Raspberry%21%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\22\ns6%3AYummyYummy%21_Raspberry%21%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 森羅万象
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [YummyYummy! Raspberry!](./YummyYummy!_Raspberry!.md)  
-该封面包含的角色：- [露米娅](./露米娅.md)
-
-
-
+- [YummyYummy! Raspberry!](./YummyYummy!_Raspberry!.md)该封面包含的角色：
+- [露米娅](./露米娅.md)
 
 
 ---

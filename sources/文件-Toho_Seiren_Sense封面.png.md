@@ -1,6 +1,6 @@
 # 文件:Toho_Seiren_Sense封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8e\ns6%3AToho_Seiren_Sense%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8e\ns6%3AToho_Seiren_Sense%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 CC＊=Style | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ CC＊=Style | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Toho Seiren Sense](./Toho_Seiren_Sense.md)  
-该封面包含的角色：- [圣白莲](./圣白莲.md)
-
-
-
+- [Toho Seiren Sense](./Toho_Seiren_Sense.md)该封面包含的角色：
+- [圣白莲](./圣白莲.md)
 
 
 ---

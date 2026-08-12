@@ -1,6 +1,6 @@
 # 文件:TOYBOX_Anniversary!!封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\01\ns6%3ATOYBOX_Anniversary%21%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\01\ns6%3ATOYBOX_Anniversary%21%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Innocent_Key | M.H.S | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Innocent_Key | M.H.S | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [TOYBOX Anniversary!!](./TOYBOX_Anniversary!!.md)  
-该封面包含的角色：- 原创角色 (未找到链接)
-
-
-
+- [TOYBOX Anniversary!!](./TOYBOX_Anniversary!!.md)该封面包含的角色：
+- 原创角色 (未找到链接)
 
 
 ---

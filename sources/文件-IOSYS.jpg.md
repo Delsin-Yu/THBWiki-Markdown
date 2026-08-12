@@ -1,12 +1,8 @@
 # 文件:IOSYS.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c9\ns6%3AIOSYS%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c9\ns6%3AIOSYS%2Ejpg.html -->
 
 IOSYS | 社团LOGO
-
-
-
-
 
 
 ---

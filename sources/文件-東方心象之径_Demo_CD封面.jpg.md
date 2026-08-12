@@ -1,6 +1,6 @@
 # 文件:東方心象之径_Demo_CD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a4\ns6%3A%E6%9D%B1%E6%96%B9%E5%BF%83%E8%B1%A1%E4%B9%8B%E5%BE%84_Demo_CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a4\ns6%3A%E6%9D%B1%E6%96%B9%E5%BF%83%E8%B1%A1%E4%B9%8B%E5%BE%84_Demo_CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 俺は十進法を採用しました。 | 封面图片
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方心象之径 Demo CD](./東方心象之径_Demo_CD.md)  
-该封面包含的角色：- [古明地觉](./古明地觉.md)- [古明地恋](./古明地恋.md)
-
-
-
+- [東方心象之径 Demo CD](./東方心象之径_Demo_CD.md)该封面包含的角色：
+- [古明地觉](./古明地觉.md)
+- [古明地恋](./古明地恋.md)
 
 
 ---

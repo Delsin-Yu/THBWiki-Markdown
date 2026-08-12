@@ -1,12 +1,8 @@
 # 文件:黄昏边境_banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bb\ns6%3A%E9%BB%84%E6%98%8F%E8%BE%B9%E5%A2%83_banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bb\ns6%3A%E9%BB%84%E6%98%8F%E8%BE%B9%E5%A2%83_banner%2Egif.html -->
 
 社团LOGO | 黄昏边境
-
-
-
-
 
 
 ---

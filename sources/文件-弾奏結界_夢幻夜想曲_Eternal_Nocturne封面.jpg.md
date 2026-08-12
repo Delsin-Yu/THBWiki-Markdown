@@ -1,6 +1,6 @@
 # 文件:弾奏結界_夢幻夜想曲_Eternal_Nocturne封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6a\ns6%3A%E5%BC%BE%E5%A5%8F%E7%B5%90%E7%95%8C_%E5%A4%A2%E5%B9%BB%E5%A4%9C%E6%83%B3%E6%9B%B2_Eternal_Nocturne%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6a\ns6%3A%E5%BC%BE%E5%A5%8F%E7%B5%90%E7%95%8C_%E5%A4%A2%E5%B9%BB%E5%A4%9C%E6%83%B3%E6%9B%B2_Eternal_Nocturne%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 dBu_music | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ dBu_music | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [弾奏結界 夢幻夜想曲 Eternal Nocturne](./弾奏結界_夢幻夜想曲_Eternal_Nocturne.md)  
-该封面包含的角色：- [八意永琳](./八意永琳.md)- [蓬莱山辉夜](./蓬莱山辉夜.md)
-
-
-
+- [弾奏結界 夢幻夜想曲 Eternal Nocturne](./弾奏結界_夢幻夜想曲_Eternal_Nocturne.md)该封面包含的角色：
+- [八意永琳](./八意永琳.md)
+- [蓬莱山辉夜](./蓬莱山辉夜.md)
 
 
 ---

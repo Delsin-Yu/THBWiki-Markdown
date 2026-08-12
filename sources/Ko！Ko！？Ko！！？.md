@@ -1,29 +1,25 @@
 # Ko！Ko！？Ko！！？
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\04\ns0%3AKo%EF%BC%81Ko%EF%BC%81%EF%BC%9FKo%EF%BC%81%EF%BC%81%EF%BC%9F.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\04\ns0%3AKo%EF%BC%81Ko%EF%BC%81%EF%BC%9FKo%EF%BC%81%EF%BC%81%EF%BC%9F.html -->
 
 2017年10月15日 由 七輪大社 于 博丽神社秋季例大祭4 发布的漫画同人志，一共8页，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人志 (未找到链接)** 的词条
-
+**[二次创作同人志](./二次创作.md#同人志)**的词条
 ## 作品信息
 
-<table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Ko!_Ko!-_Ko!!-封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/c/cd/Ko%21_Ko%21%3F_Ko%21%21%3F%E5%B0%81%E9%9D%A2.jpg/119px-Ko%21_Ko%21%3F_Ko%21%21%3F%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="119" height="168" srcset="https://upload.thwiki.cc/thumb/c/cd/Ko%21_Ko%21%3F_Ko%21%21%3F%E5%B0%81%E9%9D%A2.jpg/178px-Ko%21_Ko%21%3F_Ko%21%21%3F%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/c/cd/Ko%21_Ko%21%3F_Ko%21%21%3F%E5%B0%81%E9%9D%A2.jpg/238px-Ko%21_Ko%21%3F_Ko%21%21%3F%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="550" data-file-height="777"></a><div class="cover-char">角色：<a href="./古明地恋.md" title="古明地恋">古明地恋</a>，<a href="./多多良小伞.md" title="多多良小伞">多多良小伞</a>，<a href="./秦心.md" title="秦心">秦心</a></div></td>
-</tr><tr><td class="label">名称</td><td colspan="2"> Ko! Ko!? Ko!!? </td></tr><tr><td class="label">制作方</td><td><a href="./七輪大社.md" title="七輪大社">七輪大社</a></td><td class="cover-artwork" rowspan="6" style="min-width:168px;"><a href="./文件-Ko!_Ko!-_Ko!!-封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/c/cd/Ko%21_Ko%21%3F_Ko%21%21%3F%E5%B0%81%E9%9D%A2.jpg/119px-Ko%21_Ko%21%3F_Ko%21%21%3F%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="119" height="168" srcset="https://upload.thwiki.cc/thumb/c/cd/Ko%21_Ko%21%3F_Ko%21%21%3F%E5%B0%81%E9%9D%A2.jpg/178px-Ko%21_Ko%21%3F_Ko%21%21%3F%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/c/cd/Ko%21_Ko%21%3F_Ko%21%21%3F%E5%B0%81%E9%9D%A2.jpg/238px-Ko%21_Ko%21%3F_Ko%21%21%3F%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="550" data-file-height="777"></a><div class="cover-char">角色：<a href="./古明地恋.md" title="古明地恋">古明地恋</a>，<a href="./多多良小伞.md" title="多多良小伞">多多良小伞</a>，<a href="./秦心.md" title="秦心">秦心</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2017-10-15&#160;（<a href="/展会作品列表?e=%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E7%A7%8B%E5%AD%A3%E4%BE%8B%E5%A4%A7%E7%A5%AD%234">第四回 博麗神社秋季例大祭</a>）</td></tr><tr><td class="label">类型</td><td>漫画</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">页数</td><td>8P</td></tr><tr><td class="label">售价</td><td>会场售价：100日元</td></tr>
+<table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/c/cd/Ko%21_Ko%21%3F_Ko%21%21%3F%E5%B0%81%E9%9D%A2.jpg/119px-Ko%21_Ko%21%3F_Ko%21%21%3F%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="119" height="168" srcset="https://upload.thwiki.cc/thumb/c/cd/Ko%21_Ko%21%3F_Ko%21%21%3F%E5%B0%81%E9%9D%A2.jpg/178px-Ko%21_Ko%21%3F_Ko%21%21%3F%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/c/cd/Ko%21_Ko%21%3F_Ko%21%21%3F%E5%B0%81%E9%9D%A2.jpg/238px-Ko%21_Ko%21%3F_Ko%21%21%3F%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="550" data-file-height="777"></a><div class="cover-char">角色：<a href="./古明地恋.md" title="古明地恋">古明地恋</a>，<a href="./多多良小伞.md" title="多多良小伞">多多良小伞</a>，<a href="./秦心.md" title="秦心">秦心</a></div></td>
+</tr><tr><td class="label">名称</td><td colspan="2"> Ko! Ko!? Ko!!? </td></tr><tr><td class="label">制作方</td><td><a href="./七輪大社.md" title="七輪大社">七輪大社</a></td><td class="cover-artwork" rowspan="6" style="min-width:168px;"><a class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/c/cd/Ko%21_Ko%21%3F_Ko%21%21%3F%E5%B0%81%E9%9D%A2.jpg/119px-Ko%21_Ko%21%3F_Ko%21%21%3F%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="119" height="168" srcset="https://upload.thwiki.cc/thumb/c/cd/Ko%21_Ko%21%3F_Ko%21%21%3F%E5%B0%81%E9%9D%A2.jpg/178px-Ko%21_Ko%21%3F_Ko%21%21%3F%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/c/cd/Ko%21_Ko%21%3F_Ko%21%21%3F%E5%B0%81%E9%9D%A2.jpg/238px-Ko%21_Ko%21%3F_Ko%21%21%3F%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="550" data-file-height="777"></a><div class="cover-char">角色：<a href="./古明地恋.md" title="古明地恋">古明地恋</a>，<a href="./多多良小伞.md" title="多多良小伞">多多良小伞</a>，<a href="./秦心.md" title="秦心">秦心</a></div></td>
+</tr><tr><td class="label">首发日期</td><td>2017-10-15 （<a href="./展会作品列表.md#4">第四回 博麗神社秋季例大祭</a>）</td></tr><tr><td class="label">类型</td><td>漫画</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">页数</td><td>8P</td></tr><tr><td class="label">售价</td><td>会场售价：100日元</td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://sichirin.blog45.fc2.com/blog-entry-202.html">http://sichirin.blog45.fc2.com/blog-entry-202.html</a><br><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/65417417">https://www.pixiv.net/artworks/65417417</a></td></tr></tbody></table>
 
 Ko！Ko！？Ko！！？（同人志，七輪大社，2017） - 2017年10月15日 由 七輪大社 于 博丽神社秋季例大祭4 发布的漫画同人志，一共8页，分级为 一般向
-
 ## Staff
+
 - Y2 (未找到链接)
 
 
 ## 评论
-
-
-
 
 ---
 

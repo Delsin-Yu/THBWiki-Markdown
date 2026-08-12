@@ -1,12 +1,8 @@
 # 文件:4gamer_43.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c1\ns6%3A4gamer_43%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c1\ns6%3A4gamer_43%2Egif.html -->
 
 东方永夜抄 | 采访
-
-
-
-
 
 
 ---

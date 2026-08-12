@@ -1,12 +1,11 @@
 # Touhou_Heardle
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\7\7f\ns0%3ATouhou_Heardle.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\7\7f\ns0%3ATouhou_Heardle.html -->
 
 2022年4月8日 由 mugumugu  发布的MUG同人游戏，可在 通用 系统上运行，游戏人数为 单人模式，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人软件 (未找到链接)** 的词条
-
+**[二次创作同人软件](./二次创作.md#同人软件)**的词条
 ## 目录
 
 - [1 软件信息](#软件信息)
@@ -15,43 +14,32 @@
 - [4 评论](#评论)
 
 
-
-
-
 ## 软件信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2">无封面</td>
-</tr><tr><td class="label">名称</td><td colspan="2"> Touhou Heardle </td></tr><tr><td class="label">制作方</td><td><a href="/index.php?title=mugumugu&amp;action=edit&amp;redlink=1" class="new" title="mugumugu（页面不存在）">mugumugu</a></td><td class="cover-artwork" rowspan="8" style="min-width:224px;">无封面</td>
+</tr><tr><td class="label">名称</td><td colspan="2"> Touhou Heardle </td></tr><tr><td class="label">制作方</td><td><a class="new" title="mugumugu（页面不存在）">mugumugu</a></td><td class="cover-artwork" rowspan="8" style="min-width:224px;">无封面</td>
 </tr><tr><td class="label">首发日期</td><td>2022-04-08</td></tr><tr><td class="label">类型</td><td>游戏</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">游戏人数</td><td>单人模式</td></tr><tr><td class="label">游戏类型</td><td>MUG</td></tr><tr><td class="label">运行平台</td><td>通用</td></tr><tr><td class="label">语言</td><td>英文</td></tr><tr><td class="label">售价</td><td>免费</td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://touhou-heardle.glitch.me/">https://touhou-heardle.glitch.me/</a><br><a rel="nofollow" class="external free" href="https://twitter.com/mugumugu_/status/1512479009724317696">https://twitter.com/mugumugu_/status/1512479009724317696</a></td></tr><tr><td class="label">备注</td><td colspan="2">东方版<a rel="nofollow" class="external text" href="https://www.heardle.app/">Heardle</a></td></tr></tbody></table>
 
 Touhou Heardle（同人游戏，mugumugu，2022） - 2022年4月8日 由 mugumugu  发布的MUG同人游戏，可在 通用 系统上运行，游戏人数为 单人模式，分级为 一般向
-  
-  
-
-  
-
-
 <table>
 <tbody><tr><th colspan="2">配置需求</th></tr>
 <tr><td style="width:120px;padding-left:7px;"><b>其他</b></td><td>浏览器</td></tr>
 </tbody></table>
 
 
-
 ## Staff
+
 - mugumugu （[Twitter: @mugumugu_](https://twitter.com/mugumugu_)）
 
 
 ## 内容页面
+
 - 攻略 (未找到链接)
 - 其他信息 (未找到链接)
 
 
 ## 评论
-
-
-
 
 ---
 

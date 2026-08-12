@@ -1,18 +1,13 @@
 # 文件:水性banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\92\ns6%3A%E6%B0%B4%E6%80%A7banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\92\ns6%3A%E6%B0%B4%E6%80%A7banner%2Egif.html -->
 
 水性 | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[[1]](https://web.archive.org/web/20060630075345im_/http://homepage3.nifty.com/suisei01/item/banner.gif)
-  
-
-
-
-
+源地址：[\[1\]](https://web.archive.org/web/20060630075345im_/http://homepage3.nifty.com/suisei01/item/banner.gif)  
 
 ---
 

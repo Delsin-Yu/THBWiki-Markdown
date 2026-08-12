@@ -1,12 +1,8 @@
 # 文件:地狱超甜banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b8\ns6%3A%E5%9C%B0%E7%8B%B1%E8%B6%85%E7%94%9Cbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b8\ns6%3A%E5%9C%B0%E7%8B%B1%E8%B6%85%E7%94%9Cbanner%2Ejpg.html -->
 
 地狱超甜 | 社团LOGO
-
-
-
-
 
 
 ---

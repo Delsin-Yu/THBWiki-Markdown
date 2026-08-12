@@ -1,6 +1,6 @@
 # 文件:東華湊の調_～Eastern_Symphort～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7b\ns6%3A%E6%9D%B1%E8%8F%AF%E6%B9%8A%E3%81%AE%E8%AA%BF_%EF%BD%9EEastern_Symphort%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7b\ns6%3A%E6%9D%B1%E8%8F%AF%E6%B9%8A%E3%81%AE%E8%AA%BF_%EF%BD%9EEastern_Symphort%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 华绢花 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [東華湊の調 ～Eastern Symphort～](./東華湊の調_～Eastern_Symphort～.md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)
-
-
-
+- [東華湊の調 ～Eastern Symphort～](./東華湊の調_～Eastern_Symphort～.md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
 
 
 ---

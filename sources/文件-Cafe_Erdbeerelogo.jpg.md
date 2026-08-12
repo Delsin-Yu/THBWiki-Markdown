@@ -1,14 +1,11 @@
 # 文件:Cafe_Erdbeerelogo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9c\ns6%3ACafe_Erdbeerelogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9c\ns6%3ACafe_Erdbeerelogo%2Ejpg.html -->
 
 Cafe_Erdbeere | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

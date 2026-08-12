@@ -1,12 +1,8 @@
 # 文件:CHEMICAL_SYSTEMbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\90\ns6%3ACHEMICAL_SYSTEMbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\90\ns6%3ACHEMICAL_SYSTEMbanner%2Epng.html -->
 
 CHEMICAL_SYSTEM | 社团LOGO
-
-
-
-
 
 
 ---

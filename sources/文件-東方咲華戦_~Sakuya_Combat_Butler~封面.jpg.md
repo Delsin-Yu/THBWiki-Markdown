@@ -1,6 +1,6 @@
 # 文件:東方咲華戦_~Sakuya_Combat_Butler~封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c0\ns6%3A%E6%9D%B1%E6%96%B9%E5%92%B2%E8%8F%AF%E6%88%A6_%7ESakuya_Combat_Butler%7E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c0\ns6%3A%E6%9D%B1%E6%96%B9%E5%92%B2%E8%8F%AF%E6%88%A6_%7ESakuya_Combat_Butler%7E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Maid_in_China | 同人志封面 | 封面图片
 
@@ -10,16 +10,12 @@ Maid_in_China | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方咲華戦 ~Sakuya Combat Butler~](./東方咲華戦_~Sakuya_Combat_Butler~.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [東方咲華戦 ~Sakuya Combat Butler~](./東方咲華戦_~Sakuya_Combat_Butler~.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
   
-源地址：[DeviantArt (original size)](https://www.deviantart.com/yo-chaosangel/art/Doujinshi-Cover-Final-62652611)
-  
-
-
-
-
+源地址：[DeviantArt (original size)](https://www.deviantart.com/yo-chaosangel/art/Doujinshi-Cover-Final-62652611)  
 
 ---
 

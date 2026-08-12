@@ -1,12 +1,8 @@
 # 文件:激辛spicebanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4d\ns6%3A%E6%BF%80%E8%BE%9Bspicebanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4d\ns6%3A%E6%BF%80%E8%BE%9Bspicebanner%2Ejpg.html -->
 
 激辛spice | 社团LOGO
-
-
-
-
 
 
 ---

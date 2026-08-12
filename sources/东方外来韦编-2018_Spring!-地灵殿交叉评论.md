@@ -1,21 +1,20 @@
 # 东方外来韦编/2018_Spring!/地灵殿交叉评论
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\c\c5\ns0%3A%E4%B8%9C%E6%96%B9%E5%A4%96%E6%9D%A5%E9%9F%A6%E7%BC%96%2F2018_Spring%21%2F%E5%9C%B0%E7%81%B5%E6%AE%BF%E4%BA%A4%E5%8F%89%E8%AF%84%E8%AE%BA.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\c\c5\ns0%3A%E4%B8%9C%E6%96%B9%E5%A4%96%E6%9D%A5%E9%9F%A6%E7%BC%96%2F2018_Spring%21%2F%E5%9C%B0%E7%81%B5%E6%AE%BF%E4%BA%A4%E5%8F%89%E8%AF%84%E8%AE%BA.html -->
 
 东方外来韦编 | 引用了翻译表的页面
 
-- 本词条为中文翻译版，如需要日文对照请参见 **[中日对照](./东方外来韦编-2018_Spring!-地灵殿交叉评论-中日对照.md)** 。
+
+- 本词条为中文翻译版，如需要日文对照请参见**[中日对照](./东方外来韦编-2018_Spring!-地灵殿交叉评论-中日对照.md)**。
 - 该内容于杂志中页数：028-029
 
- **<big><big>东方地灵殿全关卡Cross Review</big></big>** 
-关于「地灵殿」的关卡与BOSS，有识之士的回顾。觉小姐是不是完全进入到不同次元的话题了？
-
+**<big><big>东方地灵殿全关卡Cross Review</big></big>**关于「地灵殿」的关卡与BOSS，有识之士的回顾。觉小姐是不是完全进入到不同次元的话题了？
 <table>
 
 <tbody><tr>
 <th style="width: 9%">Stage<br>Reviewer
 </th>
-<th style="width: 13%">Stage 1<br><div class="tt-zh tt-type-dialogue" lang="zh"><div class="poem"><a href="./黑谷山女.md" title="黑谷山女">山女</a>&amp;<a href="./琪斯美.md" title="琪斯美">琪斯美</a></div></div>
+<th style="width: 13%">Stage 1<br><div class="tt-zh tt-type-dialogue" lang="zh"><div class="poem"><a href="./黑谷山女.md" title="黑谷山女">山女</a>&<a href="./琪斯美.md" title="琪斯美">琪斯美</a></div></div>
 </th>
 <th style="width: 13%">Stage 2<br><div class="tt-zh tt-type-dialogue" lang="zh"><div class="poem"><a href="./水桥帕露西.md" title="水桥帕露西">水桥帕露西</a></div></div>
 </th>
@@ -97,12 +96,6 @@
 </td>
 <td><div class="tt-zh tt-type-dialogue" lang="zh"><div class="poem">虽然已经让身为被厌恶者的各种各样的BOSS登场了，不过在这边也有着不同形式的被厌恶者呢，这样的展开。封闭心灵的人受到了厌恶，将这样的事情暗地里……完全不是暗地里（笑）地搬了出来。因为害怕会被周遭厌恶的这件事而封闭了心灵，会不会反而比封闭之前更加地被厌恶了呢。</div></div>
 </td></tr></tbody></table>
-
-
-
-
-
-
 
 
 ---

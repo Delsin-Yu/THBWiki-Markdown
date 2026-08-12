@@ -1,6 +1,6 @@
 # 文件:THESAURUS封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a2\ns6%3ATHESAURUS%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a2\ns6%3ATHESAURUS%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Crystallize | 专辑封面 | 封面图片
 
@@ -8,11 +8,13 @@ Crystallize | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [THESAURUS](./THESAURUS.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)- [风见幽香](./风见幽香.md)- [东风谷早苗](./东风谷早苗.md)- [封兽鵺](./封兽鵺.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [THESAURUS](./THESAURUS.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [风见幽香](./风见幽香.md)
+- [东风谷早苗](./东风谷早苗.md)
+- [封兽鵺](./封兽鵺.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

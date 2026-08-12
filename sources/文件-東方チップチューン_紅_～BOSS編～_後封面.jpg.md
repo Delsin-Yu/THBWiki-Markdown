@@ -1,6 +1,6 @@
 # 文件:東方チップチューン_紅_～BOSS編～_後封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\05\ns6%3A%E6%9D%B1%E6%96%B9%E3%83%81%E3%83%83%E3%83%97%E3%83%81%E3%83%A5%E3%83%BC%E3%83%B3_%E7%B4%85_%EF%BD%9EBOSS%E7%B7%A8%EF%BD%9E_%E5%BE%8C%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\05\ns6%3A%E6%9D%B1%E6%96%B9%E3%83%81%E3%83%83%E3%83%97%E3%83%81%E3%83%A5%E3%83%BC%E3%83%B3_%E7%B4%85_%EF%BD%9EBOSS%E7%B7%A8%EF%BD%9E_%E5%BE%8C%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 S-wab | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ S-wab | 专辑封面 | 封面图片
   
 
 - [東方チップチューン 紅 ～BOSS編～ 後](./東方チップチューン_紅_～BOSS編～_後.md)
-
-
-
 
 
 ---

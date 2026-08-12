@@ -1,16 +1,11 @@
 # 文件:Shingo_Djbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c5\ns6%3AShingo_Djbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c5\ns6%3AShingo_Djbanner%2Epng.html -->
 
 Shingo_Dj | 社团LOGO
 
   
-源地址: [Facebook profile picture](https://scontent-sea1-1.xx.fbcdn.net/v/t1.0-9/575787_531620003555785_1359636224_n.png?oh=6e2d65075e2349d727d37a232f843ff6&amp;oe=589F52DF)
-  
-
-
-
-
+源地址: [Facebook profile picture](https://scontent-sea1-1.xx.fbcdn.net/v/t1.0-9/575787_531620003555785_1359636224_n.png?oh=6e2d65075e2349d727d37a232f843ff6&oe=589F52DF)  
 
 ---
 

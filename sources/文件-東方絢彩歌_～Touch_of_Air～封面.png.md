@@ -1,6 +1,6 @@
 # 文件:東方絢彩歌_～Touch_of_Air～封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4a\ns6%3A%E6%9D%B1%E6%96%B9%E7%B5%A2%E5%BD%A9%E6%AD%8C_%EF%BD%9ETouch_of_Air%EF%BD%9E%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4a\ns6%3A%E6%9D%B1%E6%96%B9%E7%B5%A2%E5%BD%A9%E6%AD%8C_%EF%BD%9ETouch_of_Air%EF%BD%9E%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 いえろ～ぜぶら | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方絢彩歌 ～Touch of Air～](./東方絢彩歌_～Touch_of_Air～.md)  
-该封面包含的角色：- [因幡帝](./因幡帝.md)
-
-
-
+- [東方絢彩歌 ～Touch of Air～](./東方絢彩歌_～Touch_of_Air～.md)该封面包含的角色：
+- [因幡帝](./因幡帝.md)
 
 
 ---

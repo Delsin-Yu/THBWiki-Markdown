@@ -1,6 +1,6 @@
 # 幻想郷_Tower_Defense/杂项
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\1\1f\ns0%3A%E5%B9%BB%E6%83%B3%E9%83%B7_Tower_Defense%2F%E6%9D%82%E9%A1%B9.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\1\1f\ns0%3A%E5%B9%BB%E6%83%B3%E9%83%B7_Tower_Defense%2F%E6%9D%82%E9%A1%B9.html -->
 
 @N-Factory
 
@@ -24,12 +24,7 @@
 2009年3月22日 发布补丁Ver1.05  
 
 2009年12月19日 开始DL贩卖  
-
   
-
-
-
-
 
 ---
 

@@ -1,12 +1,8 @@
 # 文件:萃珠符「Mist_Ray」（噩梦日记）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d2\ns6%3A%E8%90%83%E7%8F%A0%E7%AC%A6%E3%80%8CMist_Ray%E3%80%8D%EF%BC%88%E5%99%A9%E6%A2%A6%E6%97%A5%E8%AE%B0%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d2\ns6%3A%E8%90%83%E7%8F%A0%E7%AC%A6%E3%80%8CMist_Ray%E3%80%8D%EF%BC%88%E5%99%A9%E6%A2%A6%E6%97%A5%E8%AE%B0%EF%BC%89%2Epng.html -->
 
 伊吹萃香 | 敌机符卡 | 秘封噩梦日记 | 赫卡提亚·拉碧斯拉祖利
-
-
-
-
 
 
 ---

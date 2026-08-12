@@ -1,12 +1,8 @@
 # 文件:时符「Changeling_Magic」（天邪鬼）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\64\ns6%3A%E6%97%B6%E7%AC%A6%E3%80%8CChangeling_Magic%E3%80%8D%EF%BC%88%E5%A4%A9%E9%82%AA%E9%AC%BC%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\64\ns6%3A%E6%97%B6%E7%AC%A6%E3%80%8CChangeling_Magic%E3%80%8D%EF%BC%88%E5%A4%A9%E9%82%AA%E9%AC%BC%EF%BC%89%2Ejpg.html -->
 
 十六夜咲夜 | 弹幕天邪鬼 | 敌机符卡
-
-
-
-
 
 
 ---

@@ -1,18 +1,13 @@
 # 文件:phase_trax_recordsbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d6\ns6%3Aphase_trax_recordsbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d6\ns6%3Aphase_trax_recordsbanner%2Epng.html -->
 
 phase_trax_records | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[direct image link](https://web.archive.org/web/20150222211407im_/http://phase-trax-records.weebly.com/uploads/2/4/8/6/24860347/8970257_orig.png), [source page](https://web.archive.org/web/20150222185053/http://phase-trax-records.weebly.com/link.html)
-  
-
-
-
-
+源地址：[direct image link](https://web.archive.org/web/20150222211407im_/http://phase-trax-records.weebly.com/uploads/2/4/8/6/24860347/8970257_orig.png), [source page](https://web.archive.org/web/20150222185053/http://phase-trax-records.weebly.com/link.html)  
 
 ---
 

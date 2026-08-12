@@ -1,14 +1,11 @@
 # 文件:une_fille_du_la_campagnebanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c6\ns6%3Aune_fille_du_la_campagnebanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c6\ns6%3Aune_fille_du_la_campagnebanner%2Epng.html -->
 
 une_fille_du_la_campagne | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

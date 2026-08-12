@@ -1,12 +1,8 @@
 # 文件:Variable_Museumlogo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\25\ns6%3AVariable_Museumlogo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\25\ns6%3AVariable_Museumlogo%2Epng.html -->
 
 Variable_Museum | 社团LOGO
-
-
-
-
 
 
 ---

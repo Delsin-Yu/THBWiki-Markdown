@@ -1,6 +1,6 @@
 # 文件:落下傘Fly_Away!!封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fb\ns6%3A%E8%90%BD%E4%B8%8B%E5%82%98Fly_Away%21%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fb\ns6%3A%E8%90%BD%E4%B8%8B%E5%82%98Fly_Away%21%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 雨降りダウザー
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [落下傘Fly Away!!](./落下傘Fly_Away!!.md)  
-该封面包含的角色：- [娜兹玲](./娜兹玲.md)- [多多良小伞](./多多良小伞.md)
-
-
-
+- [落下傘Fly Away!!](./落下傘Fly_Away!!.md)该封面包含的角色：
+- [娜兹玲](./娜兹玲.md)
+- [多多良小伞](./多多良小伞.md)
 
 
 ---

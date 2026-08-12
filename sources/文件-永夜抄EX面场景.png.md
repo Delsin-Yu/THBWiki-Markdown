@@ -1,12 +1,8 @@
 # 文件:永夜抄EX面场景.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c1\ns6%3A%E6%B0%B8%E5%A4%9C%E6%8A%84EX%E9%9D%A2%E5%9C%BA%E6%99%AF%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c1\ns6%3A%E6%B0%B8%E5%A4%9C%E6%8A%84EX%E9%9D%A2%E5%9C%BA%E6%99%AF%2Epng.html -->
 
 东方永夜抄 | 游戏关卡标题
-
-
-
-
 
 
 ---

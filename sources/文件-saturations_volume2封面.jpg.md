@@ -1,6 +1,6 @@
 # 文件:saturations_volume2封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1c\ns6%3Asaturations_volume2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1c\ns6%3Asaturations_volume2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 5150 | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [saturations volume2](./saturations_volume2.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [saturations volume2](./saturations_volume2.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
 
   
-源地址：[[1]](http://static.tumblr.com/5fb0d1941d1dcecb1101a67de09867b9/gfqav2e/XMBohva1v/tumblr_static_6i9avsvha9csgckc8co00w0wo.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://static.tumblr.com/5fb0d1941d1dcecb1101a67de09867b9/gfqav2e/XMBohva1v/tumblr_static_6i9avsvha9csgckc8co00w0wo.jpg)  
 
 ---
 

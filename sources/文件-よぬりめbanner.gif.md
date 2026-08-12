@@ -1,12 +1,8 @@
 # 文件:よぬりめbanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\be\ns6%3A%E3%82%88%E3%81%AC%E3%82%8A%E3%82%81banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\be\ns6%3A%E3%82%88%E3%81%AC%E3%82%8A%E3%82%81banner%2Egif.html -->
 
 よぬりめ | 社团LOGO
-
-
-
-
 
 
 ---

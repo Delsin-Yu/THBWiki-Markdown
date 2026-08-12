@@ -1,6 +1,6 @@
 # 文件:LIFE_LIKE_LIVE!!封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bf\ns6%3ALIFE_LIKE_LIVE%21%21%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bf\ns6%3ALIFE_LIKE_LIVE%21%21%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 As／Hi_Soundworks | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ As／Hi_Soundworks | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [LIFE LIKE LIVE!!](./LIFE_LIKE_LIVE!!.md)  
-该封面包含的角色：- [宇佐见堇子](./宇佐见堇子.md)
+- [LIFE LIKE LIVE!!](./LIFE_LIKE_LIVE!!.md)该封面包含的角色：
+- [宇佐见堇子](./宇佐见堇子.md)
 
   
-源地址：[[1]](http://static.tumblr.com/8db5333036bdd7ce173fe529efe25c51/0ahxako/uVeo6awfq/tumblr_static_1iwra0ts8e4g8ko0gkwo0wwcs.png)
-  
-
-
-
-
+源地址：[\[1\]](http://static.tumblr.com/8db5333036bdd7ce173fe529efe25c51/0ahxako/uVeo6awfq/tumblr_static_1iwra0ts8e4g8ko0gkwo0wwcs.png)  
 
 ---
 

@@ -1,8 +1,9 @@
 # 蓬莱人形杀人事件/hint
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\e\e7\ns0%3A%E8%93%AC%E8%8E%B1%E4%BA%BA%E5%BD%A2%E6%9D%80%E4%BA%BA%E4%BA%8B%E4%BB%B6%2Fhint.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\e\e7\ns0%3A%E8%93%AC%E8%8E%B1%E4%BA%BA%E5%BD%A2%E6%9D%80%E4%BA%BA%E4%BA%8B%E4%BB%B6%2Fhint.html -->
 
 シャレコーベ草原
+
 
 - 本页面纯属听译，很可能是错误的。
 
@@ -18,7 +19,7 @@
 <tr>
 <td>第一话</td>
 <td>判子 <br> 印章</td>
-<td>みんな蓬莱人形って知ってる？ <br> 関西の中華料理屋だろう <br> 豚まんおいしいですよね<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">1</a></sup></td>
+<td>みんな蓬莱人形って知ってる？ <br> 関西の中華料理屋だろう <br> 豚まんおいしいですよね<span>[^cite_note-1]</span></td>
 <td>大家知道<a href="./蓬莱人形.md" title="蓬莱人形">蓬莱人形</a>吗？ <br> 是关西的中华饭店吧？ <br> 猪肉包子好吃</td>
 <td>在第二话中用来解说血书的效力问题
 </td></tr>
@@ -135,18 +136,13 @@
 <tr>
 <td>第十六话</td>
 <td>RACHE</td>
-<td>复仇<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">2</a></sup></td>
+<td>复仇<span>[^cite_note-2]</span></td>
 <td>本案真凶的动机之一
 </td></tr>
 </tbody></table>
 
-
-
 [^cite_note-1]: 关西著名中华饭店「551蓬莱」，其拿手菜为猪肉包子。
-
-
-
-
+[^cite_note-2]: 德语。《血字的研究》中写在墙上的血字。
 
 ---
 

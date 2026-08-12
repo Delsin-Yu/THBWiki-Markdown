@@ -1,6 +1,6 @@
 # 文件:東方三番街_～_3rd_Ave._3rd_St._E,_Bailamos_Samba!封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\16\ns6%3A%E6%9D%B1%E6%96%B9%E4%B8%89%E7%95%AA%E8%A1%97_%EF%BD%9E_3rd_Ave%2E_3rd_St%2E_E%2C_Bailamos_Samba%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\16\ns6%3A%E6%9D%B1%E6%96%B9%E4%B8%89%E7%95%AA%E8%A1%97_%EF%BD%9E_3rd_Ave%2E_3rd_St%2E_E%2C_Bailamos_Samba%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 かも | 专辑封面 | 封面图片
 
@@ -8,11 +8,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方三番街 ～ 3rd Ave. 3rd St. E, Bailamos Samba!](./東方三番街_～_3rd_Ave._3rd_St._E,_Bailamos_Samba!.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [云居一轮](./云居一轮.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [東方三番街 ～ 3rd Ave. 3rd St. E, Bailamos Samba!](./東方三番街_～_3rd_Ave._3rd_St._E,_Bailamos_Samba!.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [云居一轮](./云居一轮.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

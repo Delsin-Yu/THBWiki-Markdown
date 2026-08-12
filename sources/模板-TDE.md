@@ -1,16 +1,12 @@
 # 模板:TDE
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\5\5a\ns10%3ATDE.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\5\5a\ns10%3ATDE.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

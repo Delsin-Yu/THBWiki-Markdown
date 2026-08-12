@@ -1,6 +1,6 @@
 # 文件:東方project劇中曲アレンジCD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\39\ns6%3A%E6%9D%B1%E6%96%B9project%E5%8A%87%E4%B8%AD%E6%9B%B2%E3%82%A2%E3%83%AC%E3%83%B3%E3%82%B8CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\39\ns6%3A%E6%9D%B1%E6%96%B9project%E5%8A%87%E4%B8%AD%E6%9B%B2%E3%82%A2%E3%83%AC%E3%83%B3%E3%82%B8CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 深夜放送
 
@@ -9,9 +9,6 @@
   
 
 - [東方project劇中曲アレンジCD](./東方project劇中曲アレンジCD.md)
-
-
-
 
 
 ---

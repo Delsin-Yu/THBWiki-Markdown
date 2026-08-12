@@ -1,12 +1,8 @@
 # 文件:THBWiki-LOGO-米斯蒂娅.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\40\ns6%3ATHBWiki-LOGO-%E7%B1%B3%E6%96%AF%E8%92%82%E5%A8%85%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\40\ns6%3ATHBWiki-LOGO-%E7%B1%B3%E6%96%AF%E8%92%82%E5%A8%85%2Epng.html -->
 
 THBWiki | Wiki词条分类用图
-
-
-
-
 
 
 ---

@@ -1,17 +1,12 @@
 # 文件:tomoya1.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d3\ns6%3Atomoya1%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d3\ns6%3Atomoya1%2Ejpg.html -->
 
 tomoya
 
   
 源于公开情报
-[https://twitter.com/yuzyuz_x/status/946537113230589953](https://twitter.com/yuzyuz_x/status/946537113230589953)
-  
-
-
-
-
+[https://twitter.com/yuzyuz_x/status/946537113230589953](https://twitter.com/yuzyuz_x/status/946537113230589953)  
 
 ---
 

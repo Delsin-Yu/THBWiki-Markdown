@@ -1,6 +1,6 @@
 # 文件:FUSION=CAUTION封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bb\ns6%3AFUSION%3DCAUTION%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bb\ns6%3AFUSION%3DCAUTION%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Reset_All_Controllers | ちょこふぁん | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Reset_All_Controllers | ちょこふぁん | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [FUSION=CAUTION](./FUSION=CAUTION.md)  
-该封面包含的角色：- [灵乌路空](./灵乌路空.md)
-
-
-
+- [FUSION=CAUTION](./FUSION=CAUTION.md)该封面包含的角色：
+- [灵乌路空](./灵乌路空.md)
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:秋霜玉C59版cover1.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\18\ns6%3A%E7%A7%8B%E9%9C%9C%E7%8E%89C59%E7%89%88cover1%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\18\ns6%3A%E7%A7%8B%E9%9C%9C%E7%8E%89C59%E7%89%88cover1%2Ejpg.html -->
 
 秋霜玉
-
-
-
-
 
 
 ---

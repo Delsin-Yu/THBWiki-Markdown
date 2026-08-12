@@ -1,6 +1,6 @@
 # 文件:carnaval_des_animaux封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bb\ns6%3Acarnaval_des_animaux%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bb\ns6%3Acarnaval_des_animaux%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 11th_hour | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [carnaval des animaux](./carnaval_des_animaux.md)  
-该封面包含的角色：- [秦心](./秦心.md)
+- [carnaval des animaux](./carnaval_des_animaux.md)该封面包含的角色：
+- [秦心](./秦心.md)
 
   
-源地址：[图片链接](https://f4.bcbits.com/img/a0617121772_0.jpg) [Bandcamp页面](https://crescentia.bandcamp.com/album/carnaval-des-animaux)
-  
-
-
-
-
+源地址：[图片链接](https://f4.bcbits.com/img/a0617121772_0.jpg) [Bandcamp页面](https://crescentia.bandcamp.com/album/carnaval-des-animaux)  
 
 ---
 

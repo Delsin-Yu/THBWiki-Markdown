@@ -1,6 +1,6 @@
 # 文件:東方三重奏_～Sound_of_Phantoms_Ensemble～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f5\ns6%3A%E6%9D%B1%E6%96%B9%E4%B8%89%E9%87%8D%E5%A5%8F_%EF%BD%9ESound_of_Phantoms_Ensemble%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f5\ns6%3A%E6%9D%B1%E6%96%B9%E4%B8%89%E9%87%8D%E5%A5%8F_%EF%BD%9ESound_of_Phantoms_Ensemble%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 東京アクティブNEETs
 
@@ -9,9 +9,6 @@
   
 
 - [東方三重奏 ～Sound of Phantoms Ensemble～](./東方三重奏_～Sound_of_Phantoms_Ensemble～.md)
-
-
-
 
 
 ---

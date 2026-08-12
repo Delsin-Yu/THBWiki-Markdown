@@ -1,12 +1,8 @@
 # 文件:GoM插图（莉格露-LOGO）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a8\ns6%3AGoM%E6%8F%92%E5%9B%BE%EF%BC%88%E8%8E%89%E6%A0%BC%E9%9C%B2-LOGO%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a8\ns6%3AGoM%E6%8F%92%E5%9B%BE%EF%BC%88%E8%8E%89%E6%A0%BC%E9%9C%B2-LOGO%EF%BC%89%2Ejpg.html -->
 
 莉格露·奈特巴格 | 魔理沙的魔法书
-
-
-
-
 
 
 ---

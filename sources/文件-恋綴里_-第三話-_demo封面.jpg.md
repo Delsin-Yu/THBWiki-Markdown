@@ -1,6 +1,6 @@
 # 文件:恋綴里_-第三話-_demo封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\db\ns6%3A%E6%81%8B%E7%B6%B4%E9%87%8C_-%E7%AC%AC%E4%B8%89%E8%A9%B1-_demo%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\db\ns6%3A%E6%81%8B%E7%B6%B4%E9%87%8C_-%E7%AC%AC%E4%B8%89%E8%A9%B1-_demo%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 はにーぽけっと | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@
   
 
 - [恋綴里 -第三話- demo](./恋綴里_-第三話-_demo.md)
-
-
-
 
 
 ---

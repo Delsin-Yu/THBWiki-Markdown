@@ -1,12 +1,8 @@
 # 文件:隙间方程banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9e\ns6%3A%E9%9A%99%E9%97%B4%E6%96%B9%E7%A8%8Bbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9e\ns6%3A%E9%9A%99%E9%97%B4%E6%96%B9%E7%A8%8Bbanner%2Ejpg.html -->
 
 社团LOGO | 隙间方程
-
-
-
-
 
 
 ---

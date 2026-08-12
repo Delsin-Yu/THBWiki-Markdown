@@ -1,6 +1,6 @@
 # 文件:SARGENT_ORANGE封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ac\ns6%3ASARGENT_ORANGE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ac\ns6%3ASARGENT_ORANGE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 EXCESS_STANDARD | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ EXCESS_STANDARD | 专辑封面 | 封面图片
   
 
 - [SARGENT ORANGE](./SARGENT_ORANGE.md)
-
-
-
 
 
 ---

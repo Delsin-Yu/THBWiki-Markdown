@@ -1,6 +1,6 @@
 # 文件:Gallery_Culterのお年玉封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\49\ns6%3AGallery_Culter%E3%81%AE%E3%81%8A%E5%B9%B4%E7%8E%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\49\ns6%3AGallery_Culter%E3%81%AE%E3%81%8A%E5%B9%B4%E7%8E%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Gallery_Culter | 同人志封面 | 封面图片
 
@@ -8,11 +8,15 @@ Gallery_Culter | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Gallery Culterのお年玉](./Gallery_Culterのお年玉.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [射命丸文](./射命丸文.md)- [古明地觉](./古明地觉.md)- [古明地恋](./古明地恋.md)- [雾雨魔理沙](./雾雨魔理沙.md)- [卡娜·安娜贝拉尔](./卡娜·安娜贝拉尔.md)- [鬼人正邪](./鬼人正邪.md)
-
-
-
+- [Gallery Culterのお年玉](./Gallery_Culterのお年玉.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [射命丸文](./射命丸文.md)
+- [古明地觉](./古明地觉.md)
+- [古明地恋](./古明地恋.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
+- [卡娜·安娜贝拉尔](./卡娜·安娜贝拉尔.md)
+- [鬼人正邪](./鬼人正邪.md)
 
 
 ---

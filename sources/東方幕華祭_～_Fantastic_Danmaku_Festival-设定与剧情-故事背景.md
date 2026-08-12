@@ -1,6 +1,6 @@
 # 東方幕華祭_～_Fantastic_Danmaku_Festival/设定与剧情/故事背景
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\20\ns0%3A%E6%9D%B1%E6%96%B9%E5%B9%95%E8%8F%AF%E7%A5%AD_%EF%BD%9E_Fantastic_Danmaku_Festival%2F%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85%2F%E6%95%85%E4%BA%8B%E8%83%8C%E6%99%AF.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\20\ns0%3A%E6%9D%B1%E6%96%B9%E5%B9%95%E8%8F%AF%E7%A5%AD_%EF%BD%9E_Fantastic_Danmaku_Festival%2F%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85%2F%E6%95%85%E4%BA%8B%E8%83%8C%E6%99%AF.html -->
 
 东方幕华祭制作组
 
@@ -15,10 +15,6 @@
 “又是异变吗？”带着这样的想法，少女们展开了调查。
 而那红色洋馆的主人，似乎正准备着什么……
   
-
-
-
-
 
 ---
 

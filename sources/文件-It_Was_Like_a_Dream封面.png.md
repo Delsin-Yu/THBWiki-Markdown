@@ -1,6 +1,6 @@
 # 文件:It_Was_Like_a_Dream封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\59\ns6%3AIt_Was_Like_a_Dream%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\59\ns6%3AIt_Was_Like_a_Dream%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 RoundLoudness | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ RoundLoudness | 专辑封面 | 封面图片
   
 
 - [It Was Like a Dream](./It_Was_Like_a_Dream.md)
-
-
-
 
 
 ---

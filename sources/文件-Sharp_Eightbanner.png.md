@@ -1,14 +1,11 @@
 # 文件:Sharp_Eightbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\45\ns6%3ASharp_Eightbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\45\ns6%3ASharp_Eightbanner%2Epng.html -->
 
 Sharp_Eight | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

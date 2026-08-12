@@ -1,16 +1,12 @@
 # 文件:ssg_08.mid
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\18\ns6%3Assg_08%2Emid.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\18\ns6%3Assg_08%2Emid.html -->
 
 东方幻想的音乐 | 官方MIDI | 斯普特尼克幻夜 | 秋霜玉
 
   
 スプートニク幻夜 秋霜玉4面道中主题曲。 东方的幻想音乐版，与原秋霜玉版本有出入！
   
-
-
-
-
 
 ---
 

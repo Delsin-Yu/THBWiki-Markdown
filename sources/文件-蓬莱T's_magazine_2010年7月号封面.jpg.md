@@ -1,6 +1,6 @@
 # 文件:蓬莱T's_magazine_2010年7月号封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bc\ns6%3A%E8%93%AC%E8%8E%B1T%27s_magazine_2010%E5%B9%B47%E6%9C%88%E5%8F%B7%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bc\ns6%3A%E8%93%AC%E8%8E%B1T%27s_magazine_2010%E5%B9%B47%E6%9C%88%E5%8F%B7%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 鶏屋
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [蓬莱T's magazine 2010年7月号](./蓬莱T's_magazine_2010年7月号.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [蓬莱T's magazine 2010年7月号](./蓬莱T's_magazine_2010年7月号.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

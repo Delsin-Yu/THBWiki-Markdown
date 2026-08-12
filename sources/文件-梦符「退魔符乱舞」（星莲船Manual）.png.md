@@ -1,12 +1,8 @@
 # 文件:梦符「退魔符乱舞」（星莲船Manual）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\63\ns6%3A%E6%A2%A6%E7%AC%A6%E3%80%8C%E9%80%80%E9%AD%94%E7%AC%A6%E4%B9%B1%E8%88%9E%E3%80%8D%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9Manual%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\63\ns6%3A%E6%A2%A6%E7%AC%A6%E3%80%8C%E9%80%80%E9%AD%94%E7%AC%A6%E4%B9%B1%E8%88%9E%E3%80%8D%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9Manual%EF%BC%89%2Epng.html -->
 
 Manual配图 | 东方星莲船 | 博丽灵梦
-
-
-
-
 
 
 ---

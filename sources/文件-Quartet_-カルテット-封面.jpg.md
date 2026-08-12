@@ -1,6 +1,6 @@
 # 文件:Quartet_-カルテット-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\31\ns6%3AQuartet_-%E3%82%AB%E3%83%AB%E3%83%86%E3%83%83%E3%83%88-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\31\ns6%3AQuartet_-%E3%82%AB%E3%83%AB%E3%83%86%E3%83%83%E3%83%88-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 彩音_～xi-on～
 
@@ -8,11 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Quartet -カルテット-](./Quartet_-カルテット-.md)  
-该封面包含的角色：- [宫古芳香](./宫古芳香.md)- [霍青娥](./霍青娥.md)- [丰聪耳神子](./丰聪耳神子.md)- [二岩猯藏](./二岩猯藏.md)
-
-
-
+- [Quartet -カルテット-](./Quartet_-カルテット-.md)该封面包含的角色：
+- [宫古芳香](./宫古芳香.md)
+- [霍青娥](./霍青娥.md)
+- [丰聪耳神子](./丰聪耳神子.md)
+- [二岩猯藏](./二岩猯藏.md)
 
 
 ---

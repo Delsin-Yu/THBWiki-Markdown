@@ -1,12 +1,8 @@
 # 文件:RED_FOREST_METAL_ORCHESTRAbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a0\ns6%3ARED_FOREST_METAL_ORCHESTRAbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a0\ns6%3ARED_FOREST_METAL_ORCHESTRAbanner%2Ejpg.html -->
 
 RED_FOREST_METAL_ORCHESTRA | 社团LOGO
-
-
-
-
 
 
 ---

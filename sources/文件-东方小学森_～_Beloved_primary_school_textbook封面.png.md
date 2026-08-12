@@ -1,6 +1,6 @@
 # 文件:东方小学森_～_Beloved_primary_school_textbook封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\16\ns6%3A%E4%B8%9C%E6%96%B9%E5%B0%8F%E5%AD%A6%E6%A3%AE_%EF%BD%9E_Beloved_primary_school_textbook%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\16\ns6%3A%E4%B8%9C%E6%96%B9%E5%B0%8F%E5%AD%A6%E6%A3%AE_%EF%BD%9E_Beloved_primary_school_textbook%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 同人志封面 | 封面图片 | 尹棱DANE
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [东方小学森 ～ Beloved primary school textbook](./东方小学森_～_Beloved_primary_school_textbook.md)  
-该封面包含的角色：- [姬路迅言](./姬路迅言.md)
-
-
-
+- [东方小学森 ～ Beloved primary school textbook](./东方小学森_～_Beloved_primary_school_textbook.md)该封面包含的角色：
+- [姬路迅言](./姬路迅言.md)
 
 
 ---

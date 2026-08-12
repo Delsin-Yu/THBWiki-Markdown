@@ -1,6 +1,6 @@
 # 文件:Overcoming_Soul_TOHO封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\60\ns6%3AOvercoming_Soul_TOHO%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\60\ns6%3AOvercoming_Soul_TOHO%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 DiGiTAL_WiNG | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ DiGiTAL_WiNG | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Overcoming Soul TOHO](./Overcoming_Soul_TOHO.md)  
-该封面包含的角色：- [驹草山如](./驹草山如.md)
-
-
-
+- [Overcoming Soul TOHO](./Overcoming_Soul_TOHO.md)该封面包含的角色：
+- [驹草山如](./驹草山如.md)
 
 
 ---

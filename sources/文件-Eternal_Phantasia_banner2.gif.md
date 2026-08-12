@@ -1,14 +1,11 @@
 # 文件:Eternal_Phantasia_banner2.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\16\ns6%3AEternal_Phantasia_banner2%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\16\ns6%3AEternal_Phantasia_banner2%2Egif.html -->
 
 Eternal_Phantasia | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

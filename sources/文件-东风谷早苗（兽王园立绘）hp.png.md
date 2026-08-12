@@ -1,14 +1,11 @@
 # 文件:东风谷早苗（兽王园立绘）hp.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\29\ns6%3A%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97%EF%BC%88%E5%85%BD%E7%8E%8B%E5%9B%AD%E7%AB%8B%E7%BB%98%EF%BC%89hp%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\29\ns6%3A%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97%EF%BC%88%E5%85%BD%E7%8E%8B%E5%9B%AD%E7%AB%8B%E7%BB%98%EF%BC%89hp%2Epng.html -->
 
 ZUN绘 | 东方兽王园 | 东风谷早苗 | 官方游戏立绘
 
 
 ## 摘要
-
-
-
 
 ---
 

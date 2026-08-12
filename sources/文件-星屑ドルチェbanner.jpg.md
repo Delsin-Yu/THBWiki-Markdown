@@ -1,12 +1,8 @@
 # 文件:星屑ドルチェbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\db\ns6%3A%E6%98%9F%E5%B1%91%E3%83%89%E3%83%AB%E3%83%81%E3%82%A7banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\db\ns6%3A%E6%98%9F%E5%B1%91%E3%83%89%E3%83%AB%E3%83%81%E3%82%A7banner%2Ejpg.html -->
 
 星屑ドルチェ | 社团LOGO
-
-
-
-
 
 
 ---

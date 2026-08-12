@@ -1,6 +1,6 @@
 # 文件:ME.HER封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d5\ns6%3AME%2EHER%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d5\ns6%3AME%2EHER%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Water_Color_Melody. | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Water_Color_Melody. | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [ME.HER](./ME.HER.md)  
-该封面包含的角色：- [姬海棠果](./姬海棠果.md)
-
-
-
+- [ME.HER](./ME.HER.md)该封面包含的角色：
+- [姬海棠果](./姬海棠果.md)
 
 
 ---

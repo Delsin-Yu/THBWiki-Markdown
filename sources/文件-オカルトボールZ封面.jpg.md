@@ -1,6 +1,6 @@
 # 文件:オカルトボールZ封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\69\ns6%3A%E3%82%AA%E3%82%AB%E3%83%AB%E3%83%88%E3%83%9C%E3%83%BC%E3%83%ABZ%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\69\ns6%3A%E3%82%AA%E3%82%AB%E3%83%AB%E3%83%88%E3%83%9C%E3%83%BC%E3%83%ABZ%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 さやかた紅茶館 | 同人志封面 | 封面图片
 
@@ -10,11 +10,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [オカルトボールZ](./オカルトボールZ.md)  
-该封面包含的角色：- [小野塚小町](./小野塚小町.md)- [霍青娥](./霍青娥.md)- [茨木华扇](./茨木华扇.md)
-
-
-
+- [オカルトボールZ](./オカルトボールZ.md)该封面包含的角色：
+- [小野塚小町](./小野塚小町.md)
+- [霍青娥](./霍青娥.md)
+- [茨木华扇](./茨木华扇.md)
 
 
 ---

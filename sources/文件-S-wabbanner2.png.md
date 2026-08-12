@@ -1,14 +1,11 @@
 # 文件:S-wabbanner2.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\58\ns6%3AS-wabbanner2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\58\ns6%3AS-wabbanner2%2Epng.html -->
 
 S-wab | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

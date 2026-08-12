@@ -1,14 +1,11 @@
 # 文件:叶技「Super_Green_Spiral」（黑市）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\38\ns6%3A%E5%8F%B6%E6%8A%80%E3%80%8CSuper_Green_Spiral%E3%80%8D%EF%BC%88%E9%BB%91%E5%B8%82%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\38\ns6%3A%E5%8F%B6%E6%8A%80%E3%80%8CSuper_Green_Spiral%E3%80%8D%EF%BC%88%E9%BB%91%E5%B8%82%EF%BC%89%2Epng.html -->
 
 山城高岭 | 弹幕狂们的黑市 | 敌机符卡
 
 
 ## 摘要
-
-
-
 
 ---
 

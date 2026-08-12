@@ -1,6 +1,6 @@
 # 文件:Unknown_Climax封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\22\ns6%3AUnknown_Climax%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\22\ns6%3AUnknown_Climax%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 PHOENIX_Project | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ PHOENIX_Project | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Unknown Climax](./Unknown_Climax.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [Unknown Climax](./Unknown_Climax.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

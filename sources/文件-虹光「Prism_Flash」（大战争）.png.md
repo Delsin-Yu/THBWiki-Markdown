@@ -1,14 +1,11 @@
 # 文件:虹光「Prism_Flash」（大战争）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8a\ns6%3A%E8%99%B9%E5%85%89%E3%80%8CPrism_Flash%E3%80%8D%EF%BC%88%E5%A4%A7%E6%88%98%E4%BA%89%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8a\ns6%3A%E8%99%B9%E5%85%89%E3%80%8CPrism_Flash%E3%80%8D%EF%BC%88%E5%A4%A7%E6%88%98%E4%BA%89%EF%BC%89%2Epng.html -->
 
 妖精大战争 | 敌机符卡 | 桑尼米尔克
 
 
 ## 文件说明
-
-
-
 
 ---
 

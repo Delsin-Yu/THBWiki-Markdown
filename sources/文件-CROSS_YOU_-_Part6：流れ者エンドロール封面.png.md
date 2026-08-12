@@ -1,6 +1,6 @@
 # 文件:CROSS_YOU_-_Part6：流れ者エンドロール封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\52\ns6%3ACROSS_YOU_-_Part6%EF%BC%9A%E6%B5%81%E3%82%8C%E8%80%85%E3%82%A8%E3%83%B3%E3%83%89%E3%83%AD%E3%83%BC%E3%83%AB%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\52\ns6%3ACROSS_YOU_-_Part6%EF%BC%9A%E6%B5%81%E3%82%8C%E8%80%85%E3%82%A8%E3%83%B3%E3%83%89%E3%83%AD%E3%83%BC%E3%83%AB%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 空騒中継点
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [CROSS YOU - Part6：流れ者エンドロール](./CROSS_YOU_-_Part6：流れ者エンドロール.md)  
-该封面包含的角色：- [风见幽香](./风见幽香.md)
-
-
-
+- [CROSS YOU - Part6：流れ者エンドロール](./CROSS_YOU_-_Part6：流れ者エンドロール.md)该封面包含的角色：
+- [风见幽香](./风见幽香.md)
 
 
 ---

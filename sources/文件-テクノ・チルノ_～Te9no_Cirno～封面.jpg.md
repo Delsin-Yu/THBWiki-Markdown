@@ -1,6 +1,6 @@
 # 文件:テクノ・チルノ_～Te9no_Cirno～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4e\ns6%3A%E3%83%86%E3%82%AF%E3%83%8E%E3%83%BB%E3%83%81%E3%83%AB%E3%83%8E_%EF%BD%9ETe9no_Cirno%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4e\ns6%3A%E3%83%86%E3%82%AF%E3%83%8E%E3%83%BB%E3%83%81%E3%83%AB%E3%83%8E_%EF%BD%9ETe9no_Cirno%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 LunarComet | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@ LunarComet | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [テクノ・チルノ ～Te9no Cirno～](./テクノ・チルノ_～Te9no_Cirno～.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)
+- [テクノ・チルノ ～Te9no Cirno～](./テクノ・チルノ_～Te9no_Cirno～.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
 
   
-源地址：[direct image link](https://kstd.net/img/lcmc002_jk.jpg), [source page](https://kstd.net/c77-te9nocirno.html)
-  
-
-
-
-
+源地址：[direct image link](https://kstd.net/img/lcmc002_jk.jpg), [source page](https://kstd.net/c77-te9nocirno.html)  
 
 ---
 

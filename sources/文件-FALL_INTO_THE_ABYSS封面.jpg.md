@@ -1,6 +1,6 @@
 # 文件:FALL_INTO_THE_ABYSS封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\89\ns6%3AFALL_INTO_THE_ABYSS%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\89\ns6%3AFALL_INTO_THE_ABYSS%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 凪の匣庭 | 封面图片
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [FALL INTO THE ABYSS](./FALL_INTO_THE_ABYSS.md)  
-该封面包含的角色：- [古明地觉](./古明地觉.md)
+- [FALL INTO THE ABYSS](./FALL_INTO_THE_ABYSS.md)该封面包含的角色：
+- [古明地觉](./古明地觉.md)
 
   
-源地址：[[1]](https://cdn.melonbooks.co.jp/user_data/packages/resize_image.php?image=213001017352.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://cdn.melonbooks.co.jp/user_data/packages/resize_image.php?image=213001017352.jpg)  
 
 ---
 

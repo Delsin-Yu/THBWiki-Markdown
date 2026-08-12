@@ -1,6 +1,6 @@
 # 文件:街灯星霜_～_Who_Break_a_Signpost封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\ba\ns6%3A%E8%A1%97%E7%81%AF%E6%98%9F%E9%9C%9C_%EF%BD%9E_Who_Break_a_Signpost%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\ba\ns6%3A%E8%A1%97%E7%81%AF%E6%98%9F%E9%9C%9C_%EF%BD%9E_Who_Break_a_Signpost%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 夢想夏月郷 | 封面图片
 
@@ -9,9 +9,6 @@
   
 
 - [街灯星霜 ～ Who Break a Signpost](./街灯星霜_～_Who_Break_a_Signpost.md)
-
-
-
 
 
 ---

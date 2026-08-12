@@ -1,6 +1,6 @@
 # 文件:東方PARTYBOX_博麗神社ver.02封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\53\ns6%3A%E6%9D%B1%E6%96%B9PARTYBOX_%E5%8D%9A%E9%BA%97%E7%A5%9E%E7%A4%BEver%2E02%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\53\ns6%3A%E6%9D%B1%E6%96%B9PARTYBOX_%E5%8D%9A%E9%BA%97%E7%A5%9E%E7%A4%BEver%2E02%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Melonbooks_Records | 专辑封面 | 封面图片
 
@@ -8,16 +8,19 @@ Melonbooks_Records | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方PARTYBOX 博麗神社ver.02](./東方PARTYBOX_博麗神社ver.02.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)- [博丽灵梦](./博丽灵梦.md)- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [蓬莱山辉夜](./蓬莱山辉夜.md)- [犬走椛](./犬走椛.md)- [雾雨魔理沙](./雾雨魔理沙.md)- [姬海棠果](./姬海棠果.md)- [若鹭姬](./若鹭姬.md)- [鬼人正邪](./鬼人正邪.md)
+- [東方PARTYBOX 博麗神社ver.02](./東方PARTYBOX_博麗神社ver.02.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
+- [博丽灵梦](./博丽灵梦.md)
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [蓬莱山辉夜](./蓬莱山辉夜.md)
+- [犬走椛](./犬走椛.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
+- [姬海棠果](./姬海棠果.md)
+- [若鹭姬](./若鹭姬.md)
+- [鬼人正邪](./鬼人正邪.md)
 
   
-源地址：[[1]](https://pbs.twimg.com/media/DEF6Ou_UMAAAEDQ.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://pbs.twimg.com/media/DEF6Ou_UMAAAEDQ.jpg)  
 
 ---
 

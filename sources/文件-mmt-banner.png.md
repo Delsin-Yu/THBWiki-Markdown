@@ -1,14 +1,11 @@
 # 文件:mmt-banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\73\ns6%3Ammt-banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\73\ns6%3Ammt-banner%2Epng.html -->
 
 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

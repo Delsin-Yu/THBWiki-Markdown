@@ -1,12 +1,8 @@
 # 文件:サイハテ堂banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\88\ns6%3A%E3%82%B5%E3%82%A4%E3%83%8F%E3%83%86%E5%A0%82banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\88\ns6%3A%E3%82%B5%E3%82%A4%E3%83%8F%E3%83%86%E5%A0%82banner%2Ejpg.html -->
 
 サイハテ堂 | 社团LOGO
-
-
-
-
 
 
 ---

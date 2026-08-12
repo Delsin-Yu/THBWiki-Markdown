@@ -1,6 +1,6 @@
 # 文件:東方名華祭18_茜音色タウン×さくらびっと。_特典CD_M-Side封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\43\ns6%3A%E6%9D%B1%E6%96%B9%E5%90%8D%E8%8F%AF%E7%A5%AD18_%E8%8C%9C%E9%9F%B3%E8%89%B2%E3%82%BF%E3%82%A6%E3%83%B3%C3%97%E3%81%95%E3%81%8F%E3%82%89%E3%81%B3%E3%81%A3%E3%81%A8%E3%80%82_%E7%89%B9%E5%85%B8CD_M-Side%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\43\ns6%3A%E6%9D%B1%E6%96%B9%E5%90%8D%E8%8F%AF%E7%A5%AD18_%E8%8C%9C%E9%9F%B3%E8%89%B2%E3%82%BF%E3%82%A6%E3%83%B3%C3%97%E3%81%95%E3%81%8F%E3%82%89%E3%81%B3%E3%81%A3%E3%81%A8%E3%80%82_%E7%89%B9%E5%85%B8CD_M-Side%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 さくらびっと。 | 专辑封面 | 封面图片 | 茜音色タウン
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方名華祭18 茜音色タウン×さくらびっと。 特典CD M-Side](./東方名華祭18_茜音色タウン×さくらびっと。_特典CD_M-Side.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [東方名華祭18 茜音色タウン×さくらびっと。 特典CD M-Side](./東方名華祭18_茜音色タウン×さくらびっと。_特典CD_M-Side.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

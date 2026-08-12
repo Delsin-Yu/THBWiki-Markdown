@@ -1,6 +1,6 @@
 # 文件:Herstory_／_WONDERFUL_EXCiTERS封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4a\ns6%3AHerstory_%EF%BC%8F_WONDERFUL_EXCiTERS%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4a\ns6%3AHerstory_%EF%BC%8F_WONDERFUL_EXCiTERS%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 サイハテ堂 | 专辑封面 | 封面图片
 
@@ -8,11 +8,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [Herstory ／ WONDERFUL EXCiTERS](./Herstory_／_WONDERFUL_EXCiTERS.md)  
-该封面包含的角色：- [犬走椛](./犬走椛.md)- [东风谷早苗](./东风谷早苗.md)- [洩矢诹访子](./洩矢诹访子.md)
-
-
-
+- [Herstory ／ WONDERFUL EXCiTERS](./Herstory_／_WONDERFUL_EXCiTERS.md)该封面包含的角色：
+- [犬走椛](./犬走椛.md)
+- [东风谷早苗](./东风谷早苗.md)
+- [洩矢诹访子](./洩矢诹访子.md)
 
 
 ---

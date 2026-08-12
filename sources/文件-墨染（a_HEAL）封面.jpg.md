@@ -1,6 +1,6 @@
 # 文件:墨染（a_HEAL）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f7\ns6%3A%E5%A2%A8%E6%9F%93%EF%BC%88a_HEAL%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f7\ns6%3A%E5%A2%A8%E6%9F%93%EF%BC%88a_HEAL%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 a_HEAL | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ a_HEAL | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [墨染（a HEAL）](./墨染（a_HEAL）.md)  
-该封面包含的角色：- [西行寺幽幽子](./西行寺幽幽子.md)
-
-
-
+- [墨染（a HEAL）](./墨染（a_HEAL）.md)该封面包含的角色：
+- [西行寺幽幽子](./西行寺幽幽子.md)
 
 
 ---

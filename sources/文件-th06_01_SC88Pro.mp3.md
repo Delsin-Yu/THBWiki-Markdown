@@ -1,6 +1,6 @@
 # 文件:th06_01_SC88Pro.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5b\ns6%3Ath06_01_SC88Pro%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5b\ns6%3Ath06_01_SC88Pro%2Emp3.html -->
 
 东方红魔乡 | 原曲MP3 | 比赤色更红的梦
 
@@ -8,10 +8,6 @@
 [https://www.shrinemaiden.org/forum/index.php/topic,18989.0.html](https://www.shrinemaiden.org/forum/index.php/topic,18989.0.html)
 SC-88Pro实录MIDI
   
-
-
-
-
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:盈月紀年～Plenilune_Annals封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d3\ns6%3A%E7%9B%88%E6%9C%88%E7%B4%80%E5%B9%B4%EF%BD%9EPlenilune_Annals%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d3\ns6%3A%E7%9B%88%E6%9C%88%E7%B4%80%E5%B9%B4%EF%BD%9EPlenilune_Annals%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ComicFishing | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ ComicFishing | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [盈月紀年～Plenilune Annals](./盈月紀年～Plenilune_Annals.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [盈月紀年～Plenilune Annals](./盈月紀年～Plenilune_Annals.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

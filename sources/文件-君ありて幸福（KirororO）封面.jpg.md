@@ -1,6 +1,6 @@
 # 文件:君ありて幸福（KirororO）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cf\ns6%3A%E5%90%9B%E3%81%82%E3%82%8A%E3%81%A6%E5%B9%B8%E7%A6%8F%EF%BC%88KirororO%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cf\ns6%3A%E5%90%9B%E3%81%82%E3%82%8A%E3%81%A6%E5%B9%B8%E7%A6%8F%EF%BC%88KirororO%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 KirororO | 同人志封面 | 封面图片
 
@@ -8,11 +8,9 @@ KirororO | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [君ありて幸福（KirororO）](./君ありて幸福（KirororO）.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
-
-
-
+- [君ありて幸福（KirororO）](./君ありて幸福（KirororO）.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
 
 ---

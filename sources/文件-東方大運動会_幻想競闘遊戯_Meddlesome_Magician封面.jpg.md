@@ -1,6 +1,6 @@
 # 文件:東方大運動会_幻想競闘遊戯_Meddlesome_Magician封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7f\ns6%3A%E6%9D%B1%E6%96%B9%E5%A4%A7%E9%81%8B%E5%8B%95%E4%BC%9A_%E5%B9%BB%E6%83%B3%E7%AB%B6%E9%97%98%E9%81%8A%E6%88%AF_Meddlesome_Magician%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7f\ns6%3A%E6%9D%B1%E6%96%B9%E5%A4%A7%E9%81%8B%E5%8B%95%E4%BC%9A_%E5%B9%BB%E6%83%B3%E7%AB%B6%E9%97%98%E9%81%8A%E6%88%AF_Meddlesome_Magician%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 トッパツプラン | 封面图片 | 软件封面
 
@@ -10,16 +10,16 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方大運動会 幻想競闘遊戯 Meddlesome Magician](./東方大運動会_幻想競闘遊戯_Meddlesome_Magician.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [西行寺幽幽子](./西行寺幽幽子.md)- [蓬莱山辉夜](./蓬莱山辉夜.md)- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)- [八坂神奈子](./八坂神奈子.md)
+- [東方大運動会 幻想競闘遊戯 Meddlesome Magician](./東方大運動会_幻想競闘遊戯_Meddlesome_Magician.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [西行寺幽幽子](./西行寺幽幽子.md)
+- [蓬莱山辉夜](./蓬莱山辉夜.md)
+- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)
+- [八坂神奈子](./八坂神奈子.md)
 
   
-源地址：[[1]](http://totupura.sakura.ne.jp/thd_sps/parts/thd_box.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://totupura.sakura.ne.jp/thd_sps/parts/thd_box.jpg)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:东方红茶馆_～_the_Embodiment_of_Scarlet_Devil封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\95\ns6%3A%E4%B8%9C%E6%96%B9%E7%BA%A2%E8%8C%B6%E9%A6%86_%EF%BD%9E_the_Embodiment_of_Scarlet_Devil%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\95\ns6%3A%E4%B8%9C%E6%96%B9%E7%BA%A2%E8%8C%B6%E9%A6%86_%EF%BD%9E_the_Embodiment_of_Scarlet_Devil%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 冰川寒焰 | 封面图片 | 幻想乡第三电子工业部 | 软件封面
 
@@ -10,11 +10,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [东方红茶馆 ～ the Embodiment of Scarlet Devil](./东方红茶馆_～_the_Embodiment_of_Scarlet_Devil.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [东方红茶馆 ～ the Embodiment of Scarlet Devil](./东方红茶馆_～_the_Embodiment_of_Scarlet_Devil.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

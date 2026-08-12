@@ -1,6 +1,6 @@
 # 文件:wakuraba_distribution封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cc\ns6%3Awakuraba_distribution%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cc\ns6%3Awakuraba_distribution%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ウラメンソウル | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@
   
 
 - [wakuraba distribution](./wakuraba_distribution.md)
-
-
-
 
 
 ---

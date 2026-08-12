@@ -1,38 +1,28 @@
 # 超越时空之翼_～_M_theory
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\b5\ns0%3A%E8%B6%85%E8%B6%8A%E6%97%B6%E7%A9%BA%E4%B9%8B%E7%BF%BC_%EF%BD%9E_M_theory.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\b5\ns0%3A%E8%B6%85%E8%B6%8A%E6%97%B6%E7%A9%BA%E4%B9%8B%E7%BF%BC_%EF%BD%9E_M_theory.html -->
 
 JynX作曲 | 引用了翻译表的页面 | 超越时空之翼_～_M_theory | 连缘Project | 连缘Project官方音乐
 
-本页是关于 **向[东方Project](./东方Project.md)  
-致敬、形式类似的作品** 的词条
-
+本页是关于**向[东方Project](./东方Project.md)致敬、形式类似的作品**  
+的词条
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 出现作品](#出现作品)
 - [3 音乐文件](#音乐文件)
-
   - [3.1 连缘无现里](#连缘无现里)
   - [3.2 连缘天影战记](#连缘天影战记)
 
 
-
 - [4 说明文本](#说明文本)
-
   - [4.1 连缘无现里](#连缘无现里_2)
   - [4.2 连缘天影战记](#连缘天影战记_2)
 
 
-
 - [5 其他资料](#其他资料)
-
   - [5.1 乐理资讯](#乐理资讯)
   - [5.2 分析考据](#分析考据)
-
-
-
-
 
 
 
@@ -61,7 +51,6 @@ JynX作曲 | 引用了翻译表的页面 | 超越时空之翼_～_M_theory | 连
 </td></tr></tbody></table>
 
 
-
 ## 出现作品
 
 <table>
@@ -71,7 +60,6 @@ JynX作曲 | 引用了翻译表的页面 | 超越时空之翼_～_M_theory | 连
 </tbody></table>
 
 
-
 ## 音乐文件
 
 ### 连缘无现里
@@ -79,26 +67,25 @@ JynX作曲 | 引用了翻译表的页面 | 超越时空之翼_～_M_theory | 连
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>MIDI格式</b></td><td>无播放信息</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-le01_08.mp3.md" title="文件:le01 08.mp3">le01_08.mp3</a><br><audio src="https://upload.thwiki.cc/0/03/le01_08.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>未填写</td></tr></tbody></table>
 
 
-
 ### 连缘天影战记
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>MIDI格式</b></td><td>无播放信息</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-le04_BOSS_Yabusame.mp3.md" title="文件:le04 BOSS Yabusame.mp3">le04_BOSS_Yabusame.mp3</a><br><audio src="https://upload.thwiki.cc/d/d4/le04_BOSS_Yabusame.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>未填写</td></tr></tbody></table>
 
 
-
 ## 说明文本
 
 ### 连缘无现里
-- Music Room (未找到链接)
+
+- [Music Room](./连缘无现里～Evanescent_Existence-Music.md#3面BOSS-凤联薮雨主题曲)
 
 凤联薮雨的曲子。  
 姑且也是主人公，想做点与众不同的曲子，  
 确实挺别致的。  
 诡异中或许能瞥见少少蠢笨？  
 元气满满、诡秘满满。
-
 ### 连缘天影战记
-- Music Room (未找到链接)
+
+- [Music Room](./连缘天影战记～Brilliant_pagoda_or_haze_castle-Music.md#中立线6面Boss-凤联薮雨主题曲)
 
 六面BOSS，薮雨的曲子。  
   
@@ -108,30 +95,30 @@ JynX作曲 | 引用了翻译表的页面 | 超越时空之翼_～_M_theory | 连
   
 毛骨悚然与幼小并存，不可理解的存在。  
 正是一首很适合薮雨的曲子也说不定
-
 ## 其他资料
 
 ### 乐理资讯
 
 ### 分析考据
   
- **時空を越える翼 ～ M_theory**   
+**時空を越える翼 ～ M_theory**  
 
 超越时空之翼 ～ M_theory
   
 
-- 超越时空之翼
-  - 超越时空
+- 超越时空之翼 
+  - 超越时空 
     - 指薮雨穿越次元之类的能力
 
-  - 翼
+
+  - 翼 
     - 薮雨持有鸟之名
 
 
-- M_theory
+
+
+- M_theory 
   - M理论(M theory)是物理的终极理论，它希望能借由单一个理论来解释所有物质与能源的本质与交互关系。M理论最核心的内容是多维空间。
-
-
 
 
 

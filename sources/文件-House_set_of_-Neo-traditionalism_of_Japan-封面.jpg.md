@@ -1,6 +1,6 @@
 # 文件:House_set_of_"Neo-traditionalism_of_Japan"封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c6\ns6%3AHouse_set_of_%22Neo-traditionalism_of_Japan%22%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c6\ns6%3AHouse_set_of_%22Neo-traditionalism_of_Japan%22%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 クロネコラウンジ | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@
   
 
 - [House set of "Neo-traditionalism of Japan"](./House_set_of_-Neo-traditionalism_of_Japan-.md)
-
-
-
 
 
 ---

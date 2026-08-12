@@ -1,14 +1,11 @@
 # 文件:thEIoS_17.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d0\ns6%3AthEIoS_17%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d0\ns6%3AthEIoS_17%2Emp3.html -->
 
 东方祈华梦制作组 | 灵空猝灭雨
 
 
 ## 文件说明
-
-
-
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:Immortality_Paradox封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\10\ns6%3AImmortality_Paradox%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\10\ns6%3AImmortality_Paradox%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 EasternMouse | 封面图片 | 软件封面
 
@@ -10,16 +10,11 @@ EasternMouse | 封面图片 | 软件封面
 使用了本文件作封面图片的作品：
   
 
-- [Immortality Paradox](./Immortality_Paradox.md)  
-该封面包含的角色：- [藤原妹红](./藤原妹红.md)
+- [Immortality Paradox](./Immortality_Paradox.md)该封面包含的角色：
+- [藤原妹红](./藤原妹红.md)
 
   
-源地址：[direct image link](https://img.itch.zone/aW1nLzEzMzI2NDU5LnBuZw==/315x250#c/wtSKfF.png), [source page](https://easternmouse.itch.io/)
-  
-
-
-
-
+源地址：[direct image link](https://img.itch.zone/aW1nLzEzMzI2NDU5LnBuZw==/315x250#c/wtSKfF.png), [source page](https://easternmouse.itch.io/)  
 
 ---
 

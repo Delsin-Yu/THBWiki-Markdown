@@ -1,14 +1,11 @@
 # 文件:まさかど☆くらいしすっ！banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\28\ns6%3A%E3%81%BE%E3%81%95%E3%81%8B%E3%81%A9%E2%98%86%E3%81%8F%E3%82%89%E3%81%84%E3%81%97%E3%81%99%E3%81%A3%EF%BC%81banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\28\ns6%3A%E3%81%BE%E3%81%95%E3%81%8B%E3%81%A9%E2%98%86%E3%81%8F%E3%82%89%E3%81%84%E3%81%97%E3%81%99%E3%81%A3%EF%BC%81banner%2Epng.html -->
 
 まさかど☆くらいしすっ！ | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

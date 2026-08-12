@@ -1,12 +1,8 @@
 # 文件:Team_Device_banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0c\ns6%3ATeam_Device_banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0c\ns6%3ATeam_Device_banner%2Egif.html -->
 
 Team_Device | 社团LOGO
-
-
-
-
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:rack_pinionbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c1\ns6%3Arack_pinionbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c1\ns6%3Arack_pinionbanner%2Epng.html -->
 
 rack_pinion | 社团LOGO
-
-
-
-
 
 
 ---

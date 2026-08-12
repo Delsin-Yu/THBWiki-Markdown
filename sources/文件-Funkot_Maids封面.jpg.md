@@ -1,6 +1,6 @@
 # 文件:Funkot_Maids封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\67\ns6%3AFunkot_Maids%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\67\ns6%3AFunkot_Maids%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Future_Is_Offline | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Future_Is_Offline | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Funkot Maids](./Funkot_Maids.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)
-
-
-
+- [Funkot Maids](./Funkot_Maids.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
 
 
 ---

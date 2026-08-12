@@ -1,6 +1,6 @@
 # 文件:Gensokyo_Underground_Funk封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1e\ns6%3AGensokyo_Underground_Funk%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1e\ns6%3AGensokyo_Underground_Funk%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Zextillion | 专辑封面 | 封面图片
 
@@ -8,12 +8,9 @@ Zextillion | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Gensokyo Underground Funk](./Gensokyo_Underground_Funk.md)  
-该封面包含的角色：- 原创角色 (未找到链接)源地址：[[1]](https://f4.bcbits.com/img/a1530689751_10.jpg)
-
-
-
-
+- [Gensokyo Underground Funk](./Gensokyo_Underground_Funk.md)该封面包含的角色：
+- 原创角色 (未找到链接)
+源地址：[\[1\]](https://f4.bcbits.com/img/a1530689751_10.jpg)
 
 ---
 

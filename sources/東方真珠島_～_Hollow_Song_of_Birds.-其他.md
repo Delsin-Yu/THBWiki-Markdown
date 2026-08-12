@@ -1,6 +1,6 @@
 # 東方真珠島_～_Hollow_Song_of_Birds./其他
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\9\9c\ns0%3A%E6%9D%B1%E6%96%B9%E7%9C%9F%E7%8F%A0%E5%B3%B6_%EF%BD%9E_Hollow_Song_of_Birds%2E%2F%E5%85%B6%E4%BB%96.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\9\9c\ns0%3A%E6%9D%B1%E6%96%B9%E7%9C%9F%E7%8F%A0%E5%B3%B6_%EF%BD%9E_Hollow_Song_of_Birds%2E%2F%E5%85%B6%E4%BB%96.html -->
 
 東方邪星章製作チーム
 
@@ -16,10 +16,8 @@
 - [7 词条导航](#词条导航)
 
 
-
-
-
 ## 游戏内标题及说明文字
+
 - 复制的，暂时没改
 
 
@@ -37,7 +35,7 @@
 </td></tr>
 <tr>
 <td>EASY</td>
-<td><center><big>梅级</big><br>EASY MODE<br><small>令人自信的难度。<br>每日一梅，远离灾难。<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">1</a></sup></small></center></td>
+<td><center><big>梅级</big><br>EASY MODE<br><small>令人自信的难度。<br>每日一梅，远离灾难。<span>[^cite_note-1]</span></small></center></td>
 <td><center><big>梅級</big><br>EASY MODE<br><small>自信のつく難易度。<br>梅はその日の難逃れ。</small></center>
 </td></tr>
 <tr>
@@ -85,7 +83,6 @@
 <td><center><big><big>Music Room</big></big><br>导命树音乐层</center></td>
 <td><center><big><big>Music Room</big></big><br>導命樹音楽層</center>
 </td></tr></tbody></table>
-
 
 
 ## 暂停界面提示文字
@@ -257,10 +254,9 @@
 <td>私は、そんな「優しい世界」である幻想郷が嫌いじゃない。<br>（ハツナメモ 040/040）
 </td></tr>
 <tr>
-<td>喵<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">2</a></sup></td>
+<td>喵<span>[^cite_note-2]</span></td>
 <td>にゃーん
 </td></tr></tbody></table>
-
 
 
 ## 疮痍界面提示文字
@@ -352,7 +348,7 @@
 <td>【霊撃解説：皇】<br>オプションが追加され、時空霊撃の回転率が上がる。<br>迷ったら、とりあえずこの装備を選ぼう。
 </td></tr>
 <tr>
-<td>【灵击说明：橙<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">3</a></sup>】<br>大幅增加擦弹范围。<br>如果在时空灵击的无敌时间内大量擦弹的话……</td>
+<td>【灵击说明：橙<span>[^cite_note-3]</span>】<br>大幅增加擦弹范围。<br>如果在时空灵击的无敌时间内大量擦弹的话……</td>
 <td>【霊撃解説：橙】<br>グレイズ範囲も大幅に広がる。<br>時空霊撃の無敵時間でカリカリカスると…。
 </td></tr>
 <tr>
@@ -372,7 +368,7 @@
 <th>
 </th></tr>
 <tr>
-<td>恭喜通关！<br>可以用新自机再打一遍哦咚！<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">4</a></sup></td>
+<td>恭喜通关！<br>可以用新自机再打一遍哦咚！<span>[^cite_note-4]</span></td>
 <td>オールクリアおめでとう！<br>新しい自機でもう１回遊べるドン！
 </td></tr>
 <tr>
@@ -383,7 +379,6 @@
 <td>恭喜通关！<br>在灵击选择画面按上或下键的话会……？</td>
 <td>オールクリアおめでとう！<br>霊撃選択画面で上下キーを押してみると…？
 </td></tr></tbody></table>
-
 
 
 ## EX关卡暂停界面提示文字
@@ -484,7 +479,6 @@
 </td></tr></tbody></table>
 
 
-
 ## EX关卡疮痍界面提示文字
 
 <table>
@@ -494,11 +488,11 @@
 <th>日文
 </th></tr>
 <tr>
-<td>Extra关太难了噜……<br>那么，您可以尝试在难度选择画面按一下方向右键。<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">5</a></sup></td>
+<td>Extra关太难了噜……<br>那么，您可以尝试在难度选择画面按一下方向右键。<span>[^cite_note-5]</span></td>
 <td>エキストラステージ難しすぎりゅう…。<br>そんなアナタはランク選択画面で右キーを押してみよう。
 </td></tr>
 <tr>
-<td>【攻略提示】<br>ExtraEasy模式下boss没有bomb保护。<br>有什么问题就炸，不够再炸！<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">6</a></sup></td>
+<td>【攻略提示】<br>ExtraEasy模式下boss没有bomb保护。<br>有什么问题就炸，不够再炸！<span>[^cite_note-6]</span></td>
 <td>【攻略のヒント】<br>ExtraEasyモードではボムバリアが無効化される。<br>困ったらボム、そしてボムだ！
 </td></tr>
 <tr>
@@ -542,7 +536,7 @@
 <td>【霊撃解説：玄】<br>ショットも弱いボムも弱い禁呪返しも使えない。<br>素人にはお勧めできない。君なら出来るよ？
 </td></tr>
 <tr>
-<td>【隐藏模式】<br>在副灵击选择画面长按用户键2.<br>我可不保证真能用啊！<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">7</a></sup></td>
+<td>【隐藏模式】<br>在副灵击选择画面长按用户键2.<br>我可不保证真能用啊！<span>[^cite_note-7]</span></td>
 <td>【隠しモード】<br>サブ霊撃選択画面でユーザーキー2を長押ししよう。<br>まともに使いこなせる保証はないぞ！
 </td></tr>
 <tr>
@@ -554,21 +548,13 @@
 <td>エキストラステージクリアおめでとう！<br>一時停止中のTipsが変化している事に気づいているかな？
 </td></tr></tbody></table>
 
-
-
 [^cite_note-1]: “梅はその日の難逃れ”为日本的一句俗语。
-
-
-## 词条导航
-  
-  
-
-<table><tbody><tr><td><table cellspacing="0" class="nowraplinks mw-collapsible mw-collapsed" style="width:100%;;;"><tbody><tr><th style=";" colspan="3" class="navbox-title"><div class="navbar"><div class="noprint plainlinksneverexpand" style="background-color:transparent; padding:0; font-weight:normal; font-size:80%; white-space:nowrap;"><a href="./東方真珠島_～_Hollow_Song_of_Birds.-导航.md" title="東方真珠島 ～ Hollow Song of Birds./导航"><span style=";;border:none;" title="查看这个模板">查</span></a>&#160;<span style="font-size:80%;">•</span>&#160;<a href="/index.php?title=%E6%9D%B1%E6%96%B9%E7%9C%9F%E7%8F%A0%E5%B3%B6_%EF%BD%9E_Hollow_Song_of_Birds./%E5%AF%BC%E8%88%AA&amp;action=edit"><span style=";;border:none;" title="您可以编辑这个模板。请在储存变更之前先预览">编</span></a></div></div><span><a href="./东方真珠岛.md" class="mw-redirect" title="东方真珠岛">东方真珠岛</a></span></th></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">角色</td><td style=";;" class="navbox-list navbox-odd"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>自机</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="/%E6%9D%B1%E6%96%B9%E7%9C%9F%E7%8F%A0%E5%B3%B6_%EF%BD%9E_Hollow_Song_of_Birds./Omake#博丽灵梦" title="東方真珠島 ～ Hollow Song of Birds./Omake">博丽灵梦</a> &#8226; <a href="/%E6%9D%B1%E6%96%B9%E7%9C%9F%E7%8F%A0%E5%B3%B6_%EF%BD%9E_Hollow_Song_of_Birds./Omake#雾雨魔理沙" title="東方真珠島 ～ Hollow Song of Birds./Omake">雾雨魔理沙</a> &#8226; <a href="/%E6%9D%B1%E6%96%B9%E7%9C%9F%E7%8F%A0%E5%B3%B6_%EF%BD%9E_Hollow_Song_of_Birds./Omake#十六夜咲夜" title="東方真珠島 ～ Hollow Song of Birds./Omake">十六夜咲夜</a> &#8226; <a href="/%E6%9D%B1%E6%96%B9%E7%9C%9F%E7%8F%A0%E5%B3%B6_%EF%BD%9E_Hollow_Song_of_Birds./Omake#蓬莱山辉夜" title="東方真珠島 ～ Hollow Song of Birds./Omake">蓬莱山辉夜</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>BOSS</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./绯神乱乱.md" title="绯神乱乱">绯神乱乱</a> &#8226; <a href="./白袴幺.md" title="白袴幺">白袴幺</a> &#8226; <a href="./青鹭光子.md" title="青鹭光子">青鹭光子</a> &#8226; <a href="./德雀坊紫鸾.md" title="德雀坊紫鸾">德雀坊紫鸾</a> &#8226; <a href="./米斯蒂娅·萝蕾拉（真珠岛）.md" title="米斯蒂娅·萝蕾拉（真珠岛）">米斯蒂娅·萝蕾拉</a> &#8226; <a href="./奈贝特泰菲特.md" title="奈贝特泰菲特">奈贝特泰菲特</a> &#8226; <a href="./赛特大将.md" title="赛特大将">赛特大将</a> &#8226; <a href="./鸟澄珠乌.md" title="鸟澄珠乌">鸟澄珠乌</a> &#8226; <a href="./藤壶无名异.md" title="藤壶无名异">藤壶无名异</a></div></td></tr></tbody></table><div></div></td><td class="navbox-image" style="" rowspan="11"><a href="./文件-東方真珠島_～_Hollow_Song_of_Birds.封面.jpg.md" class="image"><img alt="東方真珠島 ～ Hollow Song of Birds.封面.jpg" src="https://upload.thwiki.cc/thumb/e/e1/%E6%9D%B1%E6%96%B9%E7%9C%9F%E7%8F%A0%E5%B3%B6_%EF%BD%9E_Hollow_Song_of_Birds.%E5%B0%81%E9%9D%A2.jpg/160px-%E6%9D%B1%E6%96%B9%E7%9C%9F%E7%8F%A0%E5%B3%B6_%EF%BD%9E_Hollow_Song_of_Birds.%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="160" height="160" srcset="https://upload.thwiki.cc/thumb/e/e1/%E6%9D%B1%E6%96%B9%E7%9C%9F%E7%8F%A0%E5%B3%B6_%EF%BD%9E_Hollow_Song_of_Birds.%E5%B0%81%E9%9D%A2.jpg/240px-%E6%9D%B1%E6%96%B9%E7%9C%9F%E7%8F%A0%E5%B3%B6_%EF%BD%9E_Hollow_Song_of_Birds.%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/e/e1/%E6%9D%B1%E6%96%B9%E7%9C%9F%E7%8F%A0%E5%B3%B6_%EF%BD%9E_Hollow_Song_of_Birds.%E5%B0%81%E9%9D%A2.jpg/320px-%E6%9D%B1%E6%96%B9%E7%9C%9F%E7%8F%A0%E5%B3%B6_%EF%BD%9E_Hollow_Song_of_Birds.%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="512" data-file-height="512"></a></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">剧情</td><td style=";;" class="navbox-list navbox-even"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>剧情文本</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./東方真珠島_～_Hollow_Song_of_Birds.-故事背景.md" title="東方真珠島 ～ Hollow Song of Birds./故事背景">故事背景</a> &#8226; <a href="./東方真珠島_～_Hollow_Song_of_Birds.-ExStory.md" title="東方真珠島 ～ Hollow Song of Birds./ExStory">Ex 故事背景</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>游戏对话&amp;结局</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./東方真珠島_～_Hollow_Song_of_Birds.-博丽灵梦.md" title="東方真珠島 ～ Hollow Song of Birds./博丽灵梦">博丽灵梦</a> &#8226; <a href="./東方真珠島_～_Hollow_Song_of_Birds.-雾雨魔理沙.md" title="東方真珠島 ～ Hollow Song of Birds./雾雨魔理沙">雾雨魔理沙</a> &#8226; <a href="./東方真珠島_～_Hollow_Song_of_Birds.-十六夜咲夜.md" title="東方真珠島 ～ Hollow Song of Birds./十六夜咲夜">十六夜咲夜</a> &#8226; <a href="./東方真珠島_～_Hollow_Song_of_Birds.-蓬莱山辉夜.md" title="東方真珠島 ～ Hollow Song of Birds./蓬莱山辉夜">蓬莱山辉夜</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>Ex游戏对话</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./東方真珠島_～_Hollow_Song_of_Birds.-博丽灵梦_ExStory.md" title="東方真珠島 ～ Hollow Song of Birds./博丽灵梦 ExStory">博丽灵梦</a> &#8226; <a href="./東方真珠島_～_Hollow_Song_of_Birds.-雾雨魔理沙_ExStory.md" title="東方真珠島 ～ Hollow Song of Birds./雾雨魔理沙 ExStory">雾雨魔理沙</a> &#8226; <a href="./東方真珠島_～_Hollow_Song_of_Birds.-十六夜咲夜_ExStory.md" title="東方真珠島 ～ Hollow Song of Birds./十六夜咲夜 ExStory">十六夜咲夜</a> &#8226; <a href="./東方真珠島_～_Hollow_Song_of_Birds.-蓬莱山辉夜_ExStory.md" title="東方真珠島 ～ Hollow Song of Birds./蓬莱山辉夜 ExStory">蓬莱山辉夜</a></div></td></tr></tbody></table><div></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">场景</td><td style=";;" class="navbox-list navbox-odd"><div><a href="./人类村落.md" title="人类村落">失色的人类村落</a> &#8226; <a href="./命莲寺.md" title="命莲寺">命莲寺参拜道</a> &#8226; <a href="./大蛤蟆之池.md" title="大蛤蟆之池">大蛤蟆之池</a> &#8226; <a href="./魔法之森.md" class="mw-redirect" title="魔法之森">魔法之森</a> &#8226; 沙漠 &#8226; 禁咒塔 &#8226; 陶瓷器的墓地</div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">音乐</td><td style=";;" class="navbox-list navbox-even"><div><a href="./東方真珠島_～_Hollow_Song_of_Birds.-Music.md" title="東方真珠島 ～ Hollow Song of Birds./Music">Music Room</a> &#8226; <a href="./神授ノ書_Hollow_Song_of_Birds_-_Original_Soundtrack.md" title="神授ノ書 Hollow Song of Birds - Original Soundtrack">Original Soundtrack</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">附带文档</td><td style=";;" class="navbox-list navbox-odd"><div><a href="./東方真珠島_～_Hollow_Song_of_Birds.-Readme.md" title="東方真珠島 ～ Hollow Song of Birds./Readme">Readme</a> &#8226; <a href="./東方真珠島_～_Hollow_Song_of_Birds.-Omake.md" title="東方真珠島 ～ Hollow Song of Birds./Omake">设定文档</a> &#8226; <a class="mw-selflink selflink">其他</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="./東方邪星章製作チーム.md" title="東方邪星章製作チーム">团队作品</a></td><td style=";;" class="navbox-list navbox-even"><div><a href="./東方偽神霊廟.md" title="東方偽神霊廟">東方偽神霊廟</a> &#8226; <a href="./東方邪星章_～_The_Last_Comer..md" title="東方邪星章 ～ The Last Comer.">東方邪星章 ～ The Last Comer.</a> &#8226; <a href="./東方導命樹_～_Mystical_Power_Plant..md" title="東方導命樹 ～ Mystical Power Plant.">東方導命樹 ～ Mystical Power Plant.</a> &#8226; <a href="./東方桃源宮_～_Riverbed_Soul_Saver..md" title="東方桃源宮 ～ Riverbed Soul Saver.">東方桃源宮 ～ Riverbed Soul Saver.</a> &#8226; <a href="./東方白塵記_～_White_names_spoiled_past..md" class="mw-redirect" title="東方白塵記 ～ White names spoiled past.">東方白塵記 ～ White names spoiled past.</a>（支援） &#8226; <a href="./東方魔宝城_～_Book_of_Star_Mythology..md" title="東方魔宝城 ～ Book of Star Mythology.">東方魔宝城 ～ Book of Star Mythology.</a>（支援） &#8226; <a href="./トライフォーカサー_～_Outside_the_Traditional_World..md" title="トライフォーカサー ～ Outside the Traditional World.">トライフォーカサー ～ Outside the Traditional World.</a> &#8226; <a href="./東方真珠島_～_Hollow_Song_of_Birds..md" title="東方真珠島 ～ Hollow Song of Birds.">東方真珠島 ～ Hollow Song of Birds.</a> &#8226; <a href="./東方鬼葬剣_～_Infinite_Blade_Pavilion..md" title="東方鬼葬剣 ～ Infinite Blade Pavilion.">東方鬼葬剣 ～ Infinite Blade Pavilion.</a> &#8226; <a href="./妖精小迷宮_～_Fairies_Odyssey..md" title="妖精小迷宮 ～ Fairies Odyssey.">妖精小迷宮 ～ Fairies Odyssey.</a></div></td></tr></tbody></table></td></tr></tbody></table>
-
-
-
-
-
+[^cite_note-2]: 仅在Lunatic难度赛特的符卡[援军「一方有难芭丝特援手」](./赛特大将.md#符卡)中，猫爪把版面拉小时出现，且所有提示全部替换为这一句。
+[^cite_note-3]: 其实配置选择页面是“朱”
+[^cite_note-4]: 《太鼓达人》中吉祥物和田咚、和田咔的口癖。
+[^cite_note-5]: 特有
+[^cite_note-6]: ExtraEasy模式下特有
+[^cite_note-7]: （在默认键位下）在选择副灵击界面长按V键，伴随音效，所有颜色的选项全部亮起，进入游戏之后按C可以按顺序切换所有颜色的灵击
 
 ---
 

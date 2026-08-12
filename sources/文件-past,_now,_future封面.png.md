@@ -1,6 +1,6 @@
 # 文件:past,_now,_future封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e3\ns6%3Apast%2C_now%2C_future%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e3\ns6%3Apast%2C_now%2C_future%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Our_Last_Day | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Our_Last_Day | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [past, now, future](./past,_now,_future.md)  
-该封面包含的角色：- [红美铃](./红美铃.md)
-
-
-
+- [past, now, future](./past,_now,_future.md)该封面包含的角色：
+- [红美铃](./红美铃.md)
 
 
 ---

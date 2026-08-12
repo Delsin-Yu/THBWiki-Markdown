@@ -1,6 +1,6 @@
 # 文件:手焼きパン_ver.1.5封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d6\ns6%3A%E6%89%8B%E7%84%BC%E3%81%8D%E3%83%91%E3%83%B3_ver%2E1%2E5%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d6\ns6%3A%E6%89%8B%E7%84%BC%E3%81%8D%E3%83%91%E3%83%B3_ver%2E1%2E5%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 生パン庫
 
@@ -9,9 +9,6 @@
   
 
 - [手焼きパン ver.1.5](./手焼きパン_ver.1.5.md)
-
-
-
 
 
 ---

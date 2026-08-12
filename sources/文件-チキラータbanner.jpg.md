@@ -1,18 +1,13 @@
 # 文件:チキラータbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\32\ns6%3A%E3%83%81%E3%82%AD%E3%83%A9%E3%83%BC%E3%82%BFbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\32\ns6%3A%E3%83%81%E3%82%AD%E3%83%A9%E3%83%BC%E3%82%BFbanner%2Ejpg.html -->
 
 チキラータ | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[direct image link](https://web.archive.org/web/20140108020828im_/http://d.hatena.ne.jp/images/diary/c/c-f-m/titleimg.jpg), [source page](https://web.archive.org/web/20120227093127/http://d.hatena.ne.jp/c-f-m/)
-  
-
-
-
-
+源地址：[direct image link](https://web.archive.org/web/20140108020828im_/http://d.hatena.ne.jp/images/diary/c/c-f-m/titleimg.jpg), [source page](https://web.archive.org/web/20120227093127/http://d.hatena.ne.jp/c-f-m/)  
 
 ---
 

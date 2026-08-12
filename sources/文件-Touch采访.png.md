@@ -1,12 +1,8 @@
 # 文件:Touch采访.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\68\ns6%3ATouch%E9%87%87%E8%AE%BF%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\68\ns6%3ATouch%E9%87%87%E8%AE%BF%2Epng.html -->
 
 ZUN
-
-
-
-
 
 
 ---

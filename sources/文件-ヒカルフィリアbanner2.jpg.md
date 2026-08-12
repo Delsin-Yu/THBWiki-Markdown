@@ -1,18 +1,13 @@
 # 文件:ヒカルフィリアbanner2.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\39\ns6%3A%E3%83%92%E3%82%AB%E3%83%AB%E3%83%95%E3%82%A3%E3%83%AA%E3%82%A2banner2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\39\ns6%3A%E3%83%92%E3%82%AB%E3%83%AB%E3%83%95%E3%82%A3%E3%83%AA%E3%82%A2banner2%2Ejpg.html -->
 
 ヒカルフィリア | 社团LOGO
 
 
 ## 摘要
   
-源地址：[direct image link](https://bookmark.wox.cc/app/firsteye_2/article/5.jpg), [source page](https://firsteye.web.wox.cc/bookmark2)
-  
-
-
-
-
+源地址：[direct image link](https://bookmark.wox.cc/app/firsteye_2/article/5.jpg), [source page](https://firsteye.web.wox.cc/bookmark2)  
 
 ---
 

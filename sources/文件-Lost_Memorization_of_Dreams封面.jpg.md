@@ -1,6 +1,6 @@
 # 文件:Lost_Memorization_of_Dreams封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\02\ns6%3ALost_Memorization_of_Dreams%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\02\ns6%3ALost_Memorization_of_Dreams%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 BlossomNightfall | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ BlossomNightfall | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Lost Memorization of Dreams](./Lost_Memorization_of_Dreams.md)  
-该封面包含的角色：- [上白泽慧音](./上白泽慧音.md)
+- [Lost Memorization of Dreams](./Lost_Memorization_of_Dreams.md)该封面包含的角色：
+- [上白泽慧音](./上白泽慧音.md)
 
   
-源地址：[[1]](https://f1.bcbits.com/img/a2077367278_10.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://f1.bcbits.com/img/a2077367278_10.jpg)  
 
 ---
 

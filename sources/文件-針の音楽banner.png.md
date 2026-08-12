@@ -1,16 +1,11 @@
 # 文件:針の音楽banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a7\ns6%3A%E9%87%9D%E3%81%AE%E9%9F%B3%E6%A5%BDbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a7\ns6%3A%E9%87%9D%E3%81%AE%E9%9F%B3%E6%A5%BDbanner%2Epng.html -->
 
 社团LOGO | 針の音楽
 
   
-源地址：[[1]](http://harimusic.net/images/logo.png)
-  
-
-
-
-
+源地址：[\[1\]](http://harimusic.net/images/logo.png)  
 
 ---
 

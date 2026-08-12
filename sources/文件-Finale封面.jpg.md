@@ -1,6 +1,6 @@
 # 文件:Finale封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1f\ns6%3AFinale%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1f\ns6%3AFinale%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 A-One | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ A-One | 专辑封面 | 封面图片
   
 
 - [Finale](./Finale.md)
-
-
-
 
 
 ---

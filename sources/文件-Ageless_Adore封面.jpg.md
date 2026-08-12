@@ -1,6 +1,6 @@
 # 文件:Ageless_Adore封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ca\ns6%3AAgeless_Adore%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ca\ns6%3AAgeless_Adore%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Abandoned_Antique_Moon_Faktoria | 专辑封面 | 封面图片
 
@@ -8,12 +8,10 @@ Abandoned_Antique_Moon_Faktoria | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Ageless Adore](./Ageless_Adore.md)  
-该封面包含的角色：- [八意永琳](./八意永琳.md)- [蓬莱山辉夜](./蓬莱山辉夜.md)源地址：[[1]](http://livedoor.blogimg.jp/moon_faktoria/imgs/b/0/b0086563.jpg)
-
-
-
-
+- [Ageless Adore](./Ageless_Adore.md)该封面包含的角色：
+- [八意永琳](./八意永琳.md)
+- [蓬莱山辉夜](./蓬莱山辉夜.md)
+源地址：[\[1\]](http://livedoor.blogimg.jp/moon_faktoria/imgs/b/0/b0086563.jpg)
 
 ---
 

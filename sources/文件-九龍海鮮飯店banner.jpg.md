@@ -1,12 +1,8 @@
 # 文件:九龍海鮮飯店banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\07\ns6%3A%E4%B9%9D%E9%BE%8D%E6%B5%B7%E9%AE%AE%E9%A3%AF%E5%BA%97banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\07\ns6%3A%E4%B9%9D%E9%BE%8D%E6%B5%B7%E9%AE%AE%E9%A3%AF%E5%BA%97banner%2Ejpg.html -->
 
 九龍海鮮飯店 | 社团LOGO
-
-
-
-
 
 
 ---

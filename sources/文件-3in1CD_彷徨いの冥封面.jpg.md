@@ -1,6 +1,6 @@
 # 文件:3in1CD_彷徨いの冥封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\91\ns6%3A3in1CD_%E5%BD%B7%E5%BE%A8%E3%81%84%E3%81%AE%E5%86%A5%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\91\ns6%3A3in1CD_%E5%BD%B7%E5%BE%A8%E3%81%84%E3%81%AE%E5%86%A5%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 少女フラクタル
 
@@ -8,11 +8,13 @@
 使用了本文件作封面图片的作品：
   
 
-- [3in1CD 彷徨いの冥](./3in1CD_彷徨いの冥.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)- [魂魄妖梦](./魂魄妖梦.md)- [西行寺幽幽子](./西行寺幽幽子.md)- [八云紫](./八云紫.md)- 原创角色 (未找到链接)
-
-
-
+- [3in1CD 彷徨いの冥](./3in1CD_彷徨いの冥.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [魂魄妖梦](./魂魄妖梦.md)
+- [西行寺幽幽子](./西行寺幽幽子.md)
+- [八云紫](./八云紫.md)
+- 原创角色 (未找到链接)
 
 
 ---

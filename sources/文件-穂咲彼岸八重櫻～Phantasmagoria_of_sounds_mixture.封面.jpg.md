@@ -1,6 +1,6 @@
 # 文件:穂咲彼岸八重櫻～Phantasmagoria_of_sounds_mixture.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\14\ns6%3A%E7%A9%82%E5%92%B2%E5%BD%BC%E5%B2%B8%E5%85%AB%E9%87%8D%E6%AB%BB%EF%BD%9EPhantasmagoria_of_sounds_mixture%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\14\ns6%3A%E7%A9%82%E5%92%B2%E5%BD%BC%E5%B2%B8%E5%85%AB%E9%87%8D%E6%AB%BB%EF%BD%9EPhantasmagoria_of_sounds_mixture%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Studio_*.izumi | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Studio_*.izumi | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [穂咲彼岸八重櫻～Phantasmagoria of sounds mixture.](./穂咲彼岸八重櫻～Phantasmagoria_of_sounds_mixture..md)  
-该封面包含的角色：- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)
-
-
-
+- [穂咲彼岸八重櫻～Phantasmagoria of sounds mixture.](./穂咲彼岸八重櫻～Phantasmagoria_of_sounds_mixture..md)该封面包含的角色：
+- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)
 
 
 ---

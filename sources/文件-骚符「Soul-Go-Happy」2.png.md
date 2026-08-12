@@ -1,12 +1,8 @@
 # 文件:骚符「Soul-Go-Happy」2.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a4\ns6%3A%E9%AA%9A%E7%AC%A6%E3%80%8CSoul-Go-Happy%E3%80%8D2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a4\ns6%3A%E9%AA%9A%E7%AC%A6%E3%80%8CSoul-Go-Happy%E3%80%8D2%2Epng.html -->
 
 东方花映塚 | 梅露兰·普莉兹姆利巴
-
-
-
-
 
 
 ---

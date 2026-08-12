@@ -1,12 +1,8 @@
 # 文件:White_Elephant_banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a0\ns6%3AWhite_Elephant_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a0\ns6%3AWhite_Elephant_banner%2Ejpg.html -->
 
 White_Elephant | 社团LOGO
-
-
-
-
 
 
 ---

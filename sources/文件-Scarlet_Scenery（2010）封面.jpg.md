@@ -1,6 +1,6 @@
 # 文件:Scarlet_Scenery（2010）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ab\ns6%3AScarlet_Scenery%EF%BC%882010%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ab\ns6%3AScarlet_Scenery%EF%BC%882010%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 MISTY_RAIN | 专辑封面 | 封面图片
 
@@ -8,11 +8,11 @@ MISTY_RAIN | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Scarlet Scenery（2010）](./Scarlet_Scenery（2010）.md)  
-该封面包含的角色：- [红美铃](./红美铃.md)- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)- 十六夜咲夜 (未找到链接)- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
-
-
-
+- [Scarlet Scenery（2010）](./Scarlet_Scenery（2010）.md)该封面包含的角色：
+- [红美铃](./红美铃.md)
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
+- [十六夜咲夜](./十六夜咲夜.md)
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
 
 ---

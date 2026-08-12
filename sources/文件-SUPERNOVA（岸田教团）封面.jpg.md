@@ -1,6 +1,6 @@
 # 文件:SUPERNOVA（岸田教团）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ac\ns6%3ASUPERNOVA%EF%BC%88%E5%B2%B8%E7%94%B0%E6%95%99%E5%9B%A2%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ac\ns6%3ASUPERNOVA%EF%BC%88%E5%B2%B8%E7%94%B0%E6%95%99%E5%9B%A2%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 岸田教团
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [SUPERNOVA（岸田教团）](./SUPERNOVA（岸田教团）.md)  
-该封面包含的角色：- 原创角色 (未找到链接)
-
-
-
+- [SUPERNOVA（岸田教团）](./SUPERNOVA（岸田教团）.md)该封面包含的角色：
+- 原创角色 (未找到链接)
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:うみねこ亭banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e0\ns6%3A%E3%81%86%E3%81%BF%E3%81%AD%E3%81%93%E4%BA%ADbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e0\ns6%3A%E3%81%86%E3%81%BF%E3%81%AD%E3%81%93%E4%BA%ADbanner%2Ejpg.html -->
 
 うみねこ亭 | 社团LOGO
-
-
-
-
 
 
 ---

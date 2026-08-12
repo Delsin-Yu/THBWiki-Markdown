@@ -1,6 +1,6 @@
 # 文件:YORU_no_SAKENOMI._-纏-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e6\ns6%3AYORU_no_SAKENOMI%2E_-%E7%BA%8F-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e6\ns6%3AYORU_no_SAKENOMI%2E_-%E7%BA%8F-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 SWAY_WIND | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@ SWAY_WIND | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [YORU no SAKENOMI. -纏-](./YORU_no_SAKENOMI._-纏-.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
+- [YORU no SAKENOMI. -纏-](./YORU_no_SAKENOMI._-纏-.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
   
-[doujinshi.org: B805616](https://www.doujinshi.org/book/805616/YORU-no-SAKENOMI--Matome-/)
-  
-
-
-
-
+[doujinshi.org: B805616](https://www.doujinshi.org/book/805616/YORU-no-SAKENOMI--Matome-/)  
 
 ---
 

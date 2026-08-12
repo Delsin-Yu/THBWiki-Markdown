@@ -1,12 +1,8 @@
 # 文件:THD2绯想剑.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\61\ns6%3ATHD2%E7%BB%AF%E6%83%B3%E5%89%91%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\61\ns6%3ATHD2%E7%BB%AF%E6%83%B3%E5%89%91%2Epng.html -->
 
 东方DOTS玩家社群
-
-
-
-
 
 
 ---

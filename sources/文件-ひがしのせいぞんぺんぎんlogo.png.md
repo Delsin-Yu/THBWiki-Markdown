@@ -1,12 +1,8 @@
 # 文件:ひがしのせいぞんぺんぎんlogo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\46\ns6%3A%E3%81%B2%E3%81%8C%E3%81%97%E3%81%AE%E3%81%9B%E3%81%84%E3%81%9E%E3%82%93%E3%81%BA%E3%82%93%E3%81%8E%E3%82%93logo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\46\ns6%3A%E3%81%B2%E3%81%8C%E3%81%97%E3%81%AE%E3%81%9B%E3%81%84%E3%81%9E%E3%82%93%E3%81%BA%E3%82%93%E3%81%8E%E3%82%93logo%2Epng.html -->
 
 ひがしのせいぞんぺんぎん | 社团LOGO
-
-
-
-
 
 
 ---

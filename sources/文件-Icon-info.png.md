@@ -1,12 +1,8 @@
 # 文件:Icon-info.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b3\ns6%3AIcon-info%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b3\ns6%3AIcon-info%2Epng.html -->
 
 帮助文档
-
-
-
-
 
 
 ---

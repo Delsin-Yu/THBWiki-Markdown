@@ -1,6 +1,6 @@
 # 文件:동방_라디오_음악방송_~_on_Air!封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9f\ns6%3A%EB%8F%99%EB%B0%A9_%EB%9D%BC%EB%94%94%EC%98%A4_%EC%9D%8C%EC%95%85%EB%B0%A9%EC%86%A1_%7E_on_Air%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9f\ns6%3A%EB%8F%99%EB%B0%A9_%EB%9D%BC%EB%94%94%EC%98%A4_%EC%9D%8C%EC%95%85%EB%B0%A9%EC%86%A1_%7E_on_Air%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Studio_OTL | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Studio_OTL | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [동방 라디오 음악방송 ~ on Air!](./동방_라디오_음악방송_~_on_Air!.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [동방 라디오 음악방송 ~ on Air!](./동방_라디오_음악방송_~_on_Air!.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

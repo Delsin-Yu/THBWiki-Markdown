@@ -1,6 +1,6 @@
 # 文件:Memory（Reset_All_Controllers）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d0\ns6%3AMemory%EF%BC%88Reset_All_Controllers%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d0\ns6%3AMemory%EF%BC%88Reset_All_Controllers%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Reset_All_Controllers | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Reset_All_Controllers | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Memory（Reset All Controllers）](./Memory（Reset_All_Controllers）.md)  
-该封面包含的角色：- [古明地觉](./古明地觉.md)
+- [Memory（Reset All Controllers）](./Memory（Reset_All_Controllers）.md)该封面包含的角色：
+- [古明地觉](./古明地觉.md)
 
   
-源地址：[[1]](https://twitter.com/adazakura_midi/status/595930015440773120)
-  
-
-
-
-
+源地址：[\[1\]](https://twitter.com/adazakura_midi/status/595930015440773120)  
 
 ---
 

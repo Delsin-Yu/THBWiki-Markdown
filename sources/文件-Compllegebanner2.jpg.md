@@ -1,14 +1,11 @@
 # 文件:Compllegebanner2.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\20\ns6%3ACompllegebanner2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\20\ns6%3ACompllegebanner2%2Ejpg.html -->
 
 Compllege | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

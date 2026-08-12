@@ -1,14 +1,11 @@
 # 文件:Force_shield（心绮楼系统卡）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e6\ns6%3AForce_shield%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E7%B3%BB%E7%BB%9F%E5%8D%A1%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e6\ns6%3AForce_shield%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E7%B3%BB%E7%BB%9F%E5%8D%A1%EF%BC%89%2Epng.html -->
 
 东方心绮楼
 
 
 ## 摘要
-
-
-
 
 ---
 

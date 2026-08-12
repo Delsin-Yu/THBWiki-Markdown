@@ -1,6 +1,6 @@
 # 文件:Re.baro'_10th_Anniversary_Best_Remix_&_Reworks封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e7\ns6%3ARe%2Ebaro%27_10th_Anniversary_Best_Remix_%26_Reworks%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e7\ns6%3ARe%2Ebaro%27_10th_Anniversary_Best_Remix_%26_Reworks%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Re.baro' | 专辑封面 | 封面图片
 
@@ -10,10 +10,7 @@ Re.baro' | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Re.baro' 10th Anniversary Best Remix &amp; Reworks](./Re.baro'_10th_Anniversary_Best_Remix_&_Reworks.md)
-
-
-
+- [Re.baro' 10th Anniversary Best Remix & Reworks](./Re.baro'_10th_Anniversary_Best_Remix_&_Reworks.md)
 
 
 ---

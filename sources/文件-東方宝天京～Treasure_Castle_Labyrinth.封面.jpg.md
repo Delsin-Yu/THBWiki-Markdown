@@ -1,6 +1,6 @@
 # 文件:東方宝天京～Treasure_Castle_Labyrinth.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\31\ns6%3A%E6%9D%B1%E6%96%B9%E5%AE%9D%E5%A4%A9%E4%BA%AC%EF%BD%9ETreasure_Castle_Labyrinth%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\31\ns6%3A%E6%9D%B1%E6%96%B9%E5%AE%9D%E5%A4%A9%E4%BA%AC%EF%BD%9ETreasure_Castle_Labyrinth%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 封面图片 | 東方宝天京制作委员会 | 色色堂 | 软件封面
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方宝天京 ～ Treasure Castle Labyrinth.](./東方宝天京_～_Treasure_Castle_Labyrinth..md)  
-该封面包含的角色：- [心天音](./心天音.md)
-
-
-
+- [東方宝天京 ～ Treasure Castle Labyrinth.](./東方宝天京_～_Treasure_Castle_Labyrinth..md)该封面包含的角色：
+- [心天音](./心天音.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:神聖エンストゥルカ_-_Hún_er_enn_stúlka封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1a\ns6%3A%E7%A5%9E%E8%81%96%E3%82%A8%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A5%E3%83%AB%E3%82%AB_-_H%C3%BAn_er_enn_st%C3%BAlka%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1a\ns6%3A%E7%A5%9E%E8%81%96%E3%82%A8%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A5%E3%83%AB%E3%82%AB_-_H%C3%BAn_er_enn_st%C3%BAlka%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 R18文件 | マッコ屋 | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ R18文件 | マッコ屋 | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [神聖エンストゥルカ - Hún er enn stúlka](./神聖エンストゥルカ_-_Hún_er_enn_stúlka.md)  
-该封面包含的角色：- [爱塔妮缇拉尔瓦](./爱塔妮缇拉尔瓦.md)
-
-
-
+- [神聖エンストゥルカ - Hún er enn stúlka](./神聖エンストゥルカ_-_Hún_er_enn_stúlka.md)该封面包含的角色：
+- [爱塔妮缇拉尔瓦](./爱塔妮缇拉尔瓦.md)
 
 
 ---

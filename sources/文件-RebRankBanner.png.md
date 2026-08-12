@@ -1,12 +1,8 @@
 # 文件:RebRankBanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\01\ns6%3ARebRankBanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\01\ns6%3ARebRankBanner%2Epng.html -->
 
 RebRank | 社团LOGO
-
-
-
-
 
 
 ---

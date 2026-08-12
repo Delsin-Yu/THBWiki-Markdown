@@ -1,6 +1,6 @@
 # 文件:DayDreams（GP-KIDS）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\12\ns6%3ADayDreams%EF%BC%88GP-KIDS%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\12\ns6%3ADayDreams%EF%BC%88GP-KIDS%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 GP-KIDS | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@ GP-KIDS | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [DayDreams（GP-KIDS）](./DayDreams（GP-KIDS）.md)  
-该封面包含的角色：- [东风谷早苗](./东风谷早苗.md)
+- [DayDreams（GP-KIDS）](./DayDreams（GP-KIDS）.md)该封面包含的角色：
+- [东风谷早苗](./东风谷早苗.md)
 
   
-[Pixiv artwork ID: 51961626](https://www.pixiv.net/artworks/51961626)
-  
-
-
-
-
+[Pixiv artwork ID: 51961626](https://www.pixiv.net/artworks/51961626)  
 
 ---
 

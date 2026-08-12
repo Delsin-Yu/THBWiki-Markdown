@@ -1,6 +1,6 @@
 # 文件:幻想怪談_-_gensoukaidan_-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4e\ns6%3A%E5%B9%BB%E6%83%B3%E6%80%AA%E8%AB%87_-_gensoukaidan_-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4e\ns6%3A%E5%B9%BB%E6%83%B3%E6%80%AA%E8%AB%87_-_gensoukaidan_-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 FRACTCL | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ FRACTCL | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [幻想怪談 - gensoukaidan -](./幻想怪談_-_gensoukaidan_-.md)  
-该封面包含的角色：- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [幻想怪談 - gensoukaidan -](./幻想怪談_-_gensoukaidan_-.md)该封面包含的角色：
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

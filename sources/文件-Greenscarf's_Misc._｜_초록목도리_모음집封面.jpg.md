@@ -1,6 +1,6 @@
 # 文件:Greenscarf's_Misc._｜_초록목도리_모음집封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cf\ns6%3AGreenscarf%27s_Misc%2E_%EF%BD%9C_%EC%B4%88%EB%A1%9D%EB%AA%A9%EB%8F%84%EB%A6%AC_%EB%AA%A8%EC%9D%8C%EC%A7%91%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cf\ns6%3AGreenscarf%27s_Misc%2E_%EF%BD%9C_%EC%B4%88%EB%A1%9D%EB%AA%A9%EB%8F%84%EB%A6%AC_%EB%AA%A8%EC%9D%8C%EC%A7%91%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 greenscarf | 专辑封面 | 封面图片
 
@@ -10,11 +10,9 @@ greenscarf | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Greenscarf's Misc. ｜ 초록목도리 모음집](./Greenscarf's_Misc._｜_초록목도리_모음집.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [Greenscarf's Misc. ｜ 초록목도리 모음집](./Greenscarf's_Misc._｜_초록목도리_모음집.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

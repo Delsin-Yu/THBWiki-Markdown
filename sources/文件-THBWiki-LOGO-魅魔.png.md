@@ -1,12 +1,8 @@
 # 文件:THBWiki-LOGO-魅魔.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4c\ns6%3ATHBWiki-LOGO-%E9%AD%85%E9%AD%94%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4c\ns6%3ATHBWiki-LOGO-%E9%AD%85%E9%AD%94%2Epng.html -->
 
 THBWiki | Wiki词条分类用图
-
-
-
-
 
 
 ---

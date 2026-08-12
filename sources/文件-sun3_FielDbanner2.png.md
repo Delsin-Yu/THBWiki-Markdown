@@ -1,14 +1,11 @@
 # 文件:sun3_FielDbanner2.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\27\ns6%3Asun3_FielDbanner2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\27\ns6%3Asun3_FielDbanner2%2Epng.html -->
 
 sun3_FielD | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

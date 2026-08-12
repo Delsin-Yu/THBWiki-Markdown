@@ -1,6 +1,6 @@
 # 文件:TOHO_PIANISM_VI封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f8\ns6%3ATOHO_PIANISM_VI%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f8\ns6%3ATOHO_PIANISM_VI%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 SOUND_HOLIC | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@ SOUND_HOLIC | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [TOHO PIANISM VI](./TOHO_PIANISM_VI.md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)
+- [TOHO PIANISM VI](./TOHO_PIANISM_VI.md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
 
   
-源地址：[图片链接](https://pbs.twimg.com/media/Ej4ypMzU8AA1HvG?format=jpg&amp;name=orig) [Twitter](https://twitter.com/SOUND_HOLIC_/status/1314546223643156481)
-  
-
-
-
-
+源地址：[图片链接](https://pbs.twimg.com/media/Ej4ypMzU8AA1HvG?format=jpg&name=orig) [Twitter](https://twitter.com/SOUND_HOLIC_/status/1314546223643156481)  
 
 ---
 

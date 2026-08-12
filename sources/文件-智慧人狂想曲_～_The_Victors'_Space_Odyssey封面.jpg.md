@@ -1,6 +1,6 @@
 # 文件:智慧人狂想曲_～_The_Victors'_Space_Odyssey封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\eb\ns6%3A%E6%99%BA%E6%85%A7%E4%BA%BA%E7%8B%82%E6%83%B3%E6%9B%B2_%EF%BD%9E_The_Victors%27_Space_Odyssey%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\eb\ns6%3A%E6%99%BA%E6%85%A7%E4%BA%BA%E7%8B%82%E6%83%B3%E6%9B%B2_%EF%BD%9E_The_Victors%27_Space_Odyssey%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 夢想吟遊詩人 | 封面图片
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [智慧人狂想曲 ～ The Victors' Space Odyssey](./智慧人狂想曲_～_The_Victors'_Space_Odyssey.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [智慧人狂想曲 ～ The Victors' Space Odyssey](./智慧人狂想曲_～_The_Victors'_Space_Odyssey.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

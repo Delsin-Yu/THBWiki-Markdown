@@ -1,12 +1,8 @@
 # 文件:MoCoCobanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\df\ns6%3AMoCoCobanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\df\ns6%3AMoCoCobanner%2Egif.html -->
 
 MoCoCo | 社团LOGO
-
-
-
-
 
 
 ---

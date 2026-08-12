@@ -1,6 +1,6 @@
 # 文件:東方軽楽幻響_Touhou_Soothing_Music_Collection_＃2封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\39\ns6%3A%E6%9D%B1%E6%96%B9%E8%BB%BD%E6%A5%BD%E5%B9%BB%E9%9F%BF_Touhou_Soothing_Music_Collection_%EF%BC%832%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\39\ns6%3A%E6%9D%B1%E6%96%B9%E8%BB%BD%E6%A5%BD%E5%B9%BB%E9%9F%BF_Touhou_Soothing_Music_Collection_%EF%BC%832%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 FUN_webjectF | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ FUN_webjectF | 专辑封面 | 封面图片
   
 
 - [東方軽楽幻響 Touhou Soothing Music Collection ＃2](./東方軽楽幻響_Touhou_Soothing_Music_Collection_＃2.md)
-
-
-
 
 
 ---

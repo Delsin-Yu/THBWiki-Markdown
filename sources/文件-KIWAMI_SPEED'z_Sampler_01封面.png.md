@@ -1,6 +1,6 @@
 # 文件:KIWAMI_SPEED'z_Sampler_01封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\91\ns6%3AKIWAMI_SPEED%27z_Sampler_01%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\91\ns6%3AKIWAMI_SPEED%27z_Sampler_01%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 極SPEED'z
 
@@ -11,9 +11,6 @@
   
 
 - [KIWAMI SPEED'z Sampler 01](./KIWAMI_SPEED'z_Sampler_01.md)
-
-
-
 
 
 ---

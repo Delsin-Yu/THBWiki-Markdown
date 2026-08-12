@@ -1,12 +1,8 @@
 # 文件:射皮组logo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a3\ns6%3A%E5%B0%84%E7%9A%AE%E7%BB%84logo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a3\ns6%3A%E5%B0%84%E7%9A%AE%E7%BB%84logo%2Ejpg.html -->
 
 射皮组 | 社团LOGO
-
-
-
-
 
 
 ---

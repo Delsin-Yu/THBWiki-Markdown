@@ -1,6 +1,6 @@
 # 文件:S.Kstart'封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e7\ns6%3AS%2EKstart%27%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e7\ns6%3AS%2EKstart%27%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 S.K'/Sound | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ S.K'/Sound | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [S.Kstart'](./S.Kstart'.md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)
-
-
-
+- [S.Kstart'](./S.Kstart'.md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
 
 
 ---

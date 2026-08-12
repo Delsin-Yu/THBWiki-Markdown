@@ -1,6 +1,6 @@
 # 文件:MIARE封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\43\ns6%3AMIARE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\43\ns6%3AMIARE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Public_Planet | 同人志封面 | 封面图片
 
@@ -10,11 +10,12 @@ Public_Planet | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [MIARE](./MIARE.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [八云紫](./八云紫.md)- [上白泽慧音](./上白泽慧音.md)- [藤原妹红](./藤原妹红.md)- [稗田阿求](./稗田阿求.md)
-
-
-
+- [MIARE](./MIARE.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [八云紫](./八云紫.md)
+- [上白泽慧音](./上白泽慧音.md)
+- [藤原妹红](./藤原妹红.md)
+- [稗田阿求](./稗田阿求.md)
 
 
 ---

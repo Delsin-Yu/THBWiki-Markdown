@@ -1,16 +1,12 @@
 # 模板:东方SOS
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\0\0c\ns10%3A%E4%B8%9C%E6%96%B9SOS.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\0\0c\ns10%3A%E4%B8%9C%E6%96%B9SOS.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

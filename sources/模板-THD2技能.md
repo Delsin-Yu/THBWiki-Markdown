@@ -1,9 +1,8 @@
 # 模板:THD2技能
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\7\7c\ns10%3ATHD2%E6%8A%80%E8%83%BD.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\7\7c\ns10%3ATHD2%E6%8A%80%E8%83%BD.html -->
 
 AvalonStudioOfficial | 信息模板
-
 
 
 <table>
@@ -115,18 +114,15 @@ AvalonStudioOfficial | 信息模板
 <td colspan="4"><i> </i>
 </td></tr></tbody></table>
 </td>
-<td style="border-left: 1px solid black; padding: 3px 5px; margin-left: 5px; display:none;">&#160;
+<td style="border-left: 1px solid black; padding: 3px 5px; margin-left: 5px; display:none;"> 
 </td></tr></tbody></table>
 </td>
 <td valign="top" style="min-width:200px;">
 </td></tr></tbody></table>
 
-
   
 编辑提示（六给坐椅抽烟银哭表情）
   
-
-
   
 {{THD2技能  
 
@@ -172,12 +168,6 @@ AvalonStudioOfficial | 信息模板
 
 }}
   
-
-
-
-
-
-
 
 ---
 

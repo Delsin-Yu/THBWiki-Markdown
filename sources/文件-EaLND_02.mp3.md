@@ -1,12 +1,8 @@
 # 文件:EaLND_02.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e3\ns6%3AEaLND_02%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e3\ns6%3AEaLND_02%2Emp3.html -->
 
 东方三月精_～_Eastern_and_Little_Nature_Deity. | 原曲MP3 | 因夜失眠
-
-
-
-
 
 
 ---

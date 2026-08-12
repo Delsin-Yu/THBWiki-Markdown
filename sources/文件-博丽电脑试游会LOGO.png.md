@@ -1,14 +1,11 @@
 # 文件:博丽电脑试游会LOGO.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\27\ns6%3A%E5%8D%9A%E4%B8%BD%E7%94%B5%E8%84%91%E8%AF%95%E6%B8%B8%E4%BC%9ALOGO%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\27\ns6%3A%E5%8D%9A%E4%B8%BD%E7%94%B5%E8%84%91%E8%AF%95%E6%B8%B8%E4%BC%9ALOGO%2Epng.html -->
 
 博丽电脑试游会 | 活动LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

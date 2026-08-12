@@ -1,18 +1,13 @@
 # 文件:MARS_Trackslogo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9f\ns6%3AMARS_Trackslogo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9f\ns6%3AMARS_Trackslogo%2Epng.html -->
 
 MARS_Tracks | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[direct image link](https://blog-imgs-43-origin.fc2.com/m/a/r/marstracks/MARSrogo.png), [source page](http://marstracks.blog111.fc2.com/)
-  
-
-
-
-
+源地址：[direct image link](https://blog-imgs-43-origin.fc2.com/m/a/r/marstracks/MARSrogo.png), [source page](http://marstracks.blog111.fc2.com/)  
 
 ---
 

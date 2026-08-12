@@ -1,6 +1,6 @@
 # 文件:東方角笛奏_vol.1～Sound_of_Suwa.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1b\ns6%3A%E6%9D%B1%E6%96%B9%E8%A7%92%E7%AC%9B%E5%A5%8F_vol%2E1%EF%BD%9ESound_of_Suwa%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1b\ns6%3A%E6%9D%B1%E6%96%B9%E8%A7%92%E7%AC%9B%E5%A5%8F_vol%2E1%EF%BD%9ESound_of_Suwa%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 はるまめ工房 | 专辑封面 | 封面图片
 
@@ -8,12 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方角笛奏 vol.1～Sound of Suwa.](./東方角笛奏_vol.1～Sound_of_Suwa..md)  
-该封面包含的角色：- [洩矢诹访子](./洩矢诹访子.md)源地址：[[1]](https://pbs.twimg.com/media/DoaWs9QVsAAMU0i.jpg)
-
-
-
-
+- [東方角笛奏 vol.1～Sound of Suwa.](./東方角笛奏_vol.1～Sound_of_Suwa..md)该封面包含的角色：
+- [洩矢诹访子](./洩矢诹访子.md)
+源地址：[\[1\]](https://pbs.twimg.com/media/DoaWs9QVsAAMU0i.jpg)
 
 ---
 

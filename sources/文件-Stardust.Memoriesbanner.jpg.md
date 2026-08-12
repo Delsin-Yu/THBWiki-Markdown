@@ -1,16 +1,11 @@
 # 文件:Stardust.Memoriesbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d8\ns6%3AStardust%2EMemoriesbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d8\ns6%3AStardust%2EMemoriesbanner%2Ejpg.html -->
 
 Stardust.Memories | 社团LOGO
 
   
-源地址：[[1]](http://stardustmemories.web.fc2.com/images/link-raiki001.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://stardustmemories.web.fc2.com/images/link-raiki001.jpg)  
 
 ---
 

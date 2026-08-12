@@ -1,14 +1,11 @@
 # 文件:八云蓝（兽王园立绘）swl.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e6\ns6%3A%E5%85%AB%E4%BA%91%E8%93%9D%EF%BC%88%E5%85%BD%E7%8E%8B%E5%9B%AD%E7%AB%8B%E7%BB%98%EF%BC%89swl%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e6\ns6%3A%E5%85%AB%E4%BA%91%E8%93%9D%EF%BC%88%E5%85%BD%E7%8E%8B%E5%9B%AD%E7%AB%8B%E7%BB%98%EF%BC%89swl%2Epng.html -->
 
 ZUN绘 | 东方兽王园 | 八云蓝 | 官方游戏立绘
 
 
 ## 摘要
-
-
-
 
 ---
 

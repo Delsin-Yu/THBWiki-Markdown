@@ -1,6 +1,6 @@
 # 文件:EUCHARIS_8th封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\35\ns6%3AEUCHARIS_8th%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\35\ns6%3AEUCHARIS_8th%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 EnHANCE_HEART | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@ EnHANCE_HEART | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [EUCHARIS 8th](./EUCHARIS_8th.md)  
-该封面包含的角色：- [丰聪耳神子](./丰聪耳神子.md)
-
-
-
+- [EUCHARIS 8th](./EUCHARIS_8th.md)该封面包含的角色：
+- [丰聪耳神子](./丰聪耳神子.md)
 
 
 ---

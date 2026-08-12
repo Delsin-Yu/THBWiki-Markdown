@@ -1,14 +1,11 @@
 # 文件:夜符「Night_Fairies」（大战争）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\07\ns6%3A%E5%A4%9C%E7%AC%A6%E3%80%8CNight_Fairies%E3%80%8D%EF%BC%88%E5%A4%A7%E6%88%98%E4%BA%89%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\07\ns6%3A%E5%A4%9C%E7%AC%A6%E3%80%8CNight_Fairies%E3%80%8D%EF%BC%88%E5%A4%A7%E6%88%98%E4%BA%89%EF%BC%89%2Epng.html -->
 
 妖精大战争 | 敌机符卡 | 露娜切露德
 
 
 ## 文件说明
-
-
-
 
 ---
 

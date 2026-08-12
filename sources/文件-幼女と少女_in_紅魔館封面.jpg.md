@@ -1,6 +1,6 @@
 # 文件:幼女と少女_in_紅魔館封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\53\ns6%3A%E5%B9%BC%E5%A5%B3%E3%81%A8%E5%B0%91%E5%A5%B3_in_%E7%B4%85%E9%AD%94%E9%A4%A8%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\53\ns6%3A%E5%B9%BC%E5%A5%B3%E3%81%A8%E5%B0%91%E5%A5%B3_in_%E7%B4%85%E9%AD%94%E9%A4%A8%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 PERSONAL_COLOR | 同人志封面 | 封面图片
 
@@ -8,11 +8,11 @@ PERSONAL_COLOR | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [幼女と少女 in 紅魔館](./幼女と少女_in_紅魔館.md)  
-该封面包含的角色：- [红美铃](./红美铃.md)- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)- 十六夜咲夜 (未找到链接)- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
-
-
-
+- [幼女と少女 in 紅魔館](./幼女と少女_in_紅魔館.md)该封面包含的角色：
+- [红美铃](./红美铃.md)
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
+- [十六夜咲夜](./十六夜咲夜.md)
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:霞色_Vol.1封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b9\ns6%3A%E9%9C%9E%E8%89%B2_Vol%2E1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b9\ns6%3A%E9%9C%9E%E8%89%B2_Vol%2E1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 華霞魅
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [霞色 Vol.1](./霞色_Vol.1.md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)
-
-
-
+- [霞色 Vol.1](./霞色_Vol.1.md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
 
 
 ---

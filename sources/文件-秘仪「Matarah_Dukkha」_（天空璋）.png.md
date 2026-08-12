@@ -1,12 +1,8 @@
 # 文件:秘仪「Matarah_Dukkha」_（天空璋）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1f\ns6%3A%E7%A7%98%E4%BB%AA%E3%80%8CMatarah_Dukkha%E3%80%8D_%EF%BC%88%E5%A4%A9%E7%A9%BA%E7%92%8B%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1f\ns6%3A%E7%A7%98%E4%BB%AA%E3%80%8CMatarah_Dukkha%E3%80%8D_%EF%BC%88%E5%A4%A9%E7%A9%BA%E7%92%8B%EF%BC%89%2Epng.html -->
 
 东方天空璋 | 摩多罗隐岐奈 | 敌机符卡
-
-
-
-
 
 
 ---

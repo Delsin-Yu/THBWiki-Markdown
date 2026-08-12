@@ -1,6 +1,6 @@
 # 文件:Early_works封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ab\ns6%3AEarly_works%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ab\ns6%3AEarly_works%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 White_Falls | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ White_Falls | 专辑封面 | 封面图片
   
 
 - [Early works](./Early_works.md)
-
-
-
 
 
 ---

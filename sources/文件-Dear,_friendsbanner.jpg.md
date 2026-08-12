@@ -1,18 +1,13 @@
 # 文件:Dear,_friendsbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\29\ns6%3ADear%2C_friendsbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\29\ns6%3ADear%2C_friendsbanner%2Ejpg.html -->
 
 Dear,_friends | 社团LOGO
 
 
 ## 摘要
   
-源地址：[direct image link](https://web.archive.org/web/20061013120929im_/http://www.dearfriends.sakura.ne.jp/img/banner.jpg), [source page](https://web.archive.org/web/20061010145257/http://www.dearfriends.sakura.ne.jp/link.htm)
-  
-
-
-
-
+源地址：[direct image link](https://web.archive.org/web/20061013120929im_/http://www.dearfriends.sakura.ne.jp/img/banner.jpg), [source page](https://web.archive.org/web/20061010145257/http://www.dearfriends.sakura.ne.jp/link.htm)  
 
 ---
 

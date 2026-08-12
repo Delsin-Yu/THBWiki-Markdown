@@ -1,6 +1,6 @@
 # 文件:幻想パラノイア（ALiCe_BoX）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b9\ns6%3A%E5%B9%BB%E6%83%B3%E3%83%91%E3%83%A9%E3%83%8E%E3%82%A4%E3%82%A2%EF%BC%88ALiCe_BoX%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b9\ns6%3A%E5%B9%BB%E6%83%B3%E3%83%91%E3%83%A9%E3%83%8E%E3%82%A4%E3%82%A2%EF%BC%88ALiCe_BoX%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ALiCe_BoX | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ ALiCe_BoX | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [幻想パラノイア（ALiCe BoX）](./幻想パラノイア（ALiCe_BoX）.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
+- [幻想パラノイア（ALiCe BoX）](./幻想パラノイア（ALiCe_BoX）.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-源地址：[[1]](http://img.toranoana.jp/popup_img/04/0030/43/36/040030433619-1p.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://img.toranoana.jp/popup_img/04/0030/43/36/040030433619-1p.jpg)  
 
 ---
 

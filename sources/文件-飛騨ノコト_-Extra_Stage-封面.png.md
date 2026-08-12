@@ -1,6 +1,6 @@
 # 文件:飛騨ノコト_-Extra_Stage-封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\03\ns6%3A%E9%A3%9B%E9%A8%A8%E3%83%8E%E3%82%B3%E3%83%88_-Extra_Stage-%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\03\ns6%3A%E9%A3%9B%E9%A8%A8%E3%83%8E%E3%82%B3%E3%83%88_-Extra_Stage-%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 はりたまご | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [飛騨ノコト -Extra Stage-](./飛騨ノコト_-Extra_Stage-.md)  
-该封面包含的角色：- [古明地恋](./古明地恋.md)
-
-
-
+- [飛騨ノコト -Extra Stage-](./飛騨ノコト_-Extra_Stage-.md)该封面包含的角色：
+- [古明地恋](./古明地恋.md)
 
 
 ---

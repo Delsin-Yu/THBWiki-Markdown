@@ -1,6 +1,6 @@
 # 文件:Hysteric_Histrick_E.P封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5a\ns6%3AHysteric_Histrick_E%2EP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5a\ns6%3AHysteric_Histrick_E%2EP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Long_Skirt_Distortion | 专辑封面 | 封面图片
 
@@ -8,12 +8,10 @@ Long_Skirt_Distortion | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Hysteric Histrick E.P](./Hysteric_Histrick_E.P.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [上白泽慧音](./上白泽慧音.md)源地址：[[1]](https://static.wixstatic.com/media/3a5e78_04e29b210f594e3ba101ad8d47afb400.jpg)
-
-
-
-
+- [Hysteric Histrick E.P](./Hysteric_Histrick_E.P.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [上白泽慧音](./上白泽慧音.md)
+源地址：[\[1\]](https://static.wixstatic.com/media/3a5e78_04e29b210f594e3ba101ad8d47afb400.jpg)
 
 ---
 

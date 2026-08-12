@@ -1,6 +1,6 @@
 # 文件:Keeping_the_lights_on封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b8\ns6%3AKeeping_the_lights_on%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b8\ns6%3AKeeping_the_lights_on%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Moon-Tone | 专辑封面 | 封面图片
 
@@ -11,12 +11,7 @@ Moon-Tone | 专辑封面 | 封面图片
 - [Keeping the lights on](./Keeping_the_lights_on.md)
 
   
-源地址：[[1]](https://moon-tone.bandcamp.com/album/keeping-the-lights-on)
-  
-
-
-
-
+源地址：[\[1\]](https://moon-tone.bandcamp.com/album/keeping-the-lights-on)  
 
 ---
 

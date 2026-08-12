@@ -1,6 +1,6 @@
 # 文件:東方潮聖書_～_Sapphire_Panlogism.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\35\ns6%3A%E6%9D%B1%E6%96%B9%E6%BD%AE%E8%81%96%E6%9B%B8_%EF%BD%9E_Sapphire_Panlogism%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\35\ns6%3A%E6%9D%B1%E6%96%B9%E6%BD%AE%E8%81%96%E6%9B%B8_%EF%BD%9E_Sapphire_Panlogism%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Team_Urban_Magic | 封面图片 | 软件封面
 
@@ -8,11 +8,8 @@ Team_Urban_Magic | 封面图片 | 软件封面
 使用了本文件作封面图片的作品：
   
 
-- [東方潮聖書 ～ Sapphire Panlogism.](./東方潮聖書_～_Sapphire_Panlogism..md)  
-该封面包含的角色：- [水混祐毋](./水混祐毋.md)
-
-
-
+- [東方潮聖書 ～ Sapphire Panlogism.](./東方潮聖書_～_Sapphire_Panlogism..md)该封面包含的角色：
+- [水混祐毋](./水混祐毋.md)
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:PopKorn_banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\31\ns6%3APopKorn_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\31\ns6%3APopKorn_banner%2Ejpg.html -->
 
 PopKorn | 社团LOGO
-
-
-
-
 
 
 ---

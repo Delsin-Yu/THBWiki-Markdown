@@ -1,6 +1,6 @@
 # 文件:PC-98_EP封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\83\ns6%3APC-98_EP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\83\ns6%3APC-98_EP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 yunum | 专辑封面 | 封面图片
 
@@ -8,16 +8,12 @@ yunum | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [PC-98 EP](./PC-98_EP.md)  
-该封面包含的角色：- [冈崎梦美](./冈崎梦美.md)
+- [PC-98 EP](./PC-98_EP.md)该封面包含的角色：
+- [冈崎梦美](./冈崎梦美.md)
 
   
 Cover included as part of download
   
-
-
-
-
 
 ---
 

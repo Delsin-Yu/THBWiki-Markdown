@@ -1,16 +1,11 @@
 # 文件:闇討ちProjectbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\13\ns6%3A%E9%97%87%E8%A8%8E%E3%81%A1Projectbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\13\ns6%3A%E9%97%87%E8%A8%8E%E3%81%A1Projectbanner%2Ejpg.html -->
 
 社团LOGO | 闇討ちProject
 
   
-源地址：[[1]](http://yproject.sakura.ne.jp/image/banner.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://yproject.sakura.ne.jp/image/banner.jpg)  
 
 ---
 

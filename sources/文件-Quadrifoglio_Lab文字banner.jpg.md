@@ -1,12 +1,8 @@
 # 文件:Quadrifoglio_Lab文字banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d3\ns6%3AQuadrifoglio_Lab%E6%96%87%E5%AD%97banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d3\ns6%3AQuadrifoglio_Lab%E6%96%87%E5%AD%97banner%2Ejpg.html -->
 
 Quadrifoglio_Lab | 社团LOGO
-
-
-
-
 
 
 ---

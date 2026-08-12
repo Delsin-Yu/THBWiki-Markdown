@@ -1,12 +1,11 @@
 # 東方紅魔鄉_the_Embodiment_of_Scarlet_Devil_3D再現版
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\bd\ns0%3A%E6%9D%B1%E6%96%B9%E7%B4%85%E9%AD%94%E9%84%89_the_Embodiment_of_Scarlet_Devil_3D%E5%86%8D%E7%8F%BE%E7%89%88.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\bd\ns0%3A%E6%9D%B1%E6%96%B9%E7%B4%85%E9%AD%94%E9%84%89_the_Embodiment_of_Scarlet_Devil_3D%E5%86%8D%E7%8F%BE%E7%89%88.html -->
 
 2009年9月13日 由 カスタム団  发布的3D STG同人游戏，可在 Windows 系统上运行，游戏人数为 单人模式，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人软件 (未找到链接)** 的词条
-
+**[二次创作同人软件](./二次创作.md#同人软件)**的词条
 ## 目录
 
 - [1 软件信息](#软件信息)
@@ -17,18 +16,14 @@
 - [6 视频](#视频)
 
 
-
-
-
 ## 软件信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-東方紅魔鄉_the_Embodiment_of_Scarlet_Devil_3D再現版封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/6/6f/%E6%9D%B1%E6%96%B9%E7%B4%85%E9%AD%94%E9%84%89_the_Embodiment_of_Scarlet_Devil_3D%E5%86%8D%E7%8F%BE%E7%89%88%E5%B0%81%E9%9D%A2.jpg/196px-%E6%9D%B1%E6%96%B9%E7%B4%85%E9%AD%94%E9%84%89_the_Embodiment_of_Scarlet_Devil_3D%E5%86%8D%E7%8F%BE%E7%89%88%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="196" height="147" srcset="https://upload.thwiki.cc/thumb/6/6f/%E6%9D%B1%E6%96%B9%E7%B4%85%E9%AD%94%E9%84%89_the_Embodiment_of_Scarlet_Devil_3D%E5%86%8D%E7%8F%BE%E7%89%88%E5%B0%81%E9%9D%A2.jpg/294px-%E6%9D%B1%E6%96%B9%E7%B4%85%E9%AD%94%E9%84%89_the_Embodiment_of_Scarlet_Devil_3D%E5%86%8D%E7%8F%BE%E7%89%88%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/6/6f/%E6%9D%B1%E6%96%B9%E7%B4%85%E9%AD%94%E9%84%89_the_Embodiment_of_Scarlet_Devil_3D%E5%86%8D%E7%8F%BE%E7%89%88%E5%B0%81%E9%9D%A2.jpg/392px-%E6%9D%B1%E6%96%B9%E7%B4%85%E9%AD%94%E9%84%89_the_Embodiment_of_Scarlet_Devil_3D%E5%86%8D%E7%8F%BE%E7%89%88%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="600" data-file-height="450"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></div></td>
-</tr><tr><td class="label">名称</td><td colspan="2"> 東方紅魔鄉 the Embodiment of Scarlet Devil 3D再現版 </td></tr><tr><td class="label">译名</td><td colspan="2"> 东方红魔乡 the Embodiment of Scarlet Devil 3D再现版 </td></tr><tr><td class="label">制作方</td><td><a href="/index.php?title=%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%A0%E5%9B%A3&amp;action=edit&amp;redlink=1" class="new" title="カスタム団（页面不存在）">カスタム団</a></td><td class="cover-artwork" rowspan="7" style="min-width:196px;"><a href="./文件-東方紅魔鄉_the_Embodiment_of_Scarlet_Devil_3D再現版封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/6/6f/%E6%9D%B1%E6%96%B9%E7%B4%85%E9%AD%94%E9%84%89_the_Embodiment_of_Scarlet_Devil_3D%E5%86%8D%E7%8F%BE%E7%89%88%E5%B0%81%E9%9D%A2.jpg/196px-%E6%9D%B1%E6%96%B9%E7%B4%85%E9%AD%94%E9%84%89_the_Embodiment_of_Scarlet_Devil_3D%E5%86%8D%E7%8F%BE%E7%89%88%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="196" height="147" srcset="https://upload.thwiki.cc/thumb/6/6f/%E6%9D%B1%E6%96%B9%E7%B4%85%E9%AD%94%E9%84%89_the_Embodiment_of_Scarlet_Devil_3D%E5%86%8D%E7%8F%BE%E7%89%88%E5%B0%81%E9%9D%A2.jpg/294px-%E6%9D%B1%E6%96%B9%E7%B4%85%E9%AD%94%E9%84%89_the_Embodiment_of_Scarlet_Devil_3D%E5%86%8D%E7%8F%BE%E7%89%88%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/6/6f/%E6%9D%B1%E6%96%B9%E7%B4%85%E9%AD%94%E9%84%89_the_Embodiment_of_Scarlet_Devil_3D%E5%86%8D%E7%8F%BE%E7%89%88%E5%B0%81%E9%9D%A2.jpg/392px-%E6%9D%B1%E6%96%B9%E7%B4%85%E9%AD%94%E9%84%89_the_Embodiment_of_Scarlet_Devil_3D%E5%86%8D%E7%8F%BE%E7%89%88%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="600" data-file-height="450"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></div></td>
+</tr><tr><td class="label">名称</td><td colspan="2"> 東方紅魔鄉 the Embodiment of Scarlet Devil 3D再現版 </td></tr><tr><td class="label">译名</td><td colspan="2"> 东方红魔乡 the Embodiment of Scarlet Devil 3D再现版 </td></tr><tr><td class="label">制作方</td><td><a class="new" title="カスタム団（页面不存在）">カスタム団</a></td><td class="cover-artwork" rowspan="7" style="min-width:196px;"><a href="./文件-東方紅魔鄉_the_Embodiment_of_Scarlet_Devil_3D再現版封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/6/6f/%E6%9D%B1%E6%96%B9%E7%B4%85%E9%AD%94%E9%84%89_the_Embodiment_of_Scarlet_Devil_3D%E5%86%8D%E7%8F%BE%E7%89%88%E5%B0%81%E9%9D%A2.jpg/196px-%E6%9D%B1%E6%96%B9%E7%B4%85%E9%AD%94%E9%84%89_the_Embodiment_of_Scarlet_Devil_3D%E5%86%8D%E7%8F%BE%E7%89%88%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="196" height="147" srcset="https://upload.thwiki.cc/thumb/6/6f/%E6%9D%B1%E6%96%B9%E7%B4%85%E9%AD%94%E9%84%89_the_Embodiment_of_Scarlet_Devil_3D%E5%86%8D%E7%8F%BE%E7%89%88%E5%B0%81%E9%9D%A2.jpg/294px-%E6%9D%B1%E6%96%B9%E7%B4%85%E9%AD%94%E9%84%89_the_Embodiment_of_Scarlet_Devil_3D%E5%86%8D%E7%8F%BE%E7%89%88%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/6/6f/%E6%9D%B1%E6%96%B9%E7%B4%85%E9%AD%94%E9%84%89_the_Embodiment_of_Scarlet_Devil_3D%E5%86%8D%E7%8F%BE%E7%89%88%E5%B0%81%E9%9D%A2.jpg/392px-%E6%9D%B1%E6%96%B9%E7%B4%85%E9%AD%94%E9%84%89_the_Embodiment_of_Scarlet_Devil_3D%E5%86%8D%E7%8F%BE%E7%89%88%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="600" data-file-height="450"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></div></td>
 </tr><tr><td class="label">首发日期</td><td>2009-09-13</td></tr><tr><td class="label">类型</td><td>游戏</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">游戏人数</td><td>单人模式</td></tr><tr><td class="label">游戏类型</td><td>3D STG</td></tr><tr><td class="label">运行平台</td><td>Windows</td></tr><tr><td class="label">语言</td><td>日文</td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://3dgm.blog137.fc2.com/">http://3dgm.blog137.fc2.com/</a></td></tr></tbody></table>
 
 東方紅魔鄉 the Embodiment of Scarlet Devil 3D再現版（同人游戏，カスタム団，2009） - 2009年9月13日 由 カスタム団  发布的3D STG同人游戏，可在 Windows 系统上运行，游戏人数为 单人模式，分级为 一般向
-
 ## Staff
 
 <table>
@@ -135,18 +130,15 @@ Shig様<br>
 咲夜さんのナイフ<br>
 鍛冶屋黒胡椒＠Wiki(<a rel="nofollow" class="external free" href="http://www15.atwiki.jp/smith_blp/m/pages/1.html?guid=on">http://www15.atwiki.jp/smith_blp/m/pages/1.html?guid=on</a>)<br>
 のものを改造させていただきました。<br>
-&#160;
+ 
 </p>
 </div>
 </td></tr></tbody></table>
 
 
-
 ## 介绍
   
-如果出现乱码请挂载applocale启动
-[设置说明](http://tieba.baidu.com/p/1297442158)
-  
+如果出现乱码请挂载applocale启动[设置说明](http://tieba.baidu.com/p/1297442158)  
   
 2012年01月9日出的1.0f版(游戏界面仍显示1.0）
   
@@ -181,8 +173,8 @@ reply小技巧：reply选项中设置自由相机，采用顶视图观看reply�
 新添加BGM： 妖魔飞翔（原曲：rumia.wav都懂吧)  See←|→manipulates（原曲：魔术师メリー） 无间の钟　～ Infinite Nightmare
   
 
-
 ## 内容页面
+
 - 其他相关资料 (未找到链接)
 
 
@@ -191,18 +183,9 @@ reply小技巧：reply选项中设置自由相机，采用顶视图观看reply�
 ## 视频
   
 请注意：  
- **所有的相关视频地址均为站外链接，本站并不保证其来源的合法性以及链接的有效性和安全性** 
+**所有的相关视频地址均为站外链接，本站并不保证其来源的合法性以及链接的有效性和安全性**  
   
-  
-[Stage1~6](https://www.bilibili.com/video/av78213)
-[Extra面](https://www.bilibili.com/video/av107642)
-[Phantasm面](https://www.bilibili.com/video/av399556)
-[Phantasm面](https://www.bilibili.com/video/av2641618)
-  
-
-
-
-
+[Stage1~6](https://www.bilibili.com/video/av78213)[Extra面](https://www.bilibili.com/video/av107642)[Phantasm面](https://www.bilibili.com/video/av399556)[Phantasm面](https://www.bilibili.com/video/av2641618)  
 
 ---
 

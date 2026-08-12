@@ -1,12 +1,8 @@
 # 文件:THD2读心之心眼.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\63\ns6%3ATHD2%E8%AF%BB%E5%BF%83%E4%B9%8B%E5%BF%83%E7%9C%BC%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\63\ns6%3ATHD2%E8%AF%BB%E5%BF%83%E4%B9%8B%E5%BF%83%E7%9C%BC%2Epng.html -->
 
 东方DOTS玩家社群
-
-
-
-
 
 
 ---

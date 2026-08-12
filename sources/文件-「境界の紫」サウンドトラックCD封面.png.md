@@ -1,6 +1,6 @@
 # 文件:「境界の紫」サウンドトラックCD封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\81\ns6%3A%E3%80%8C%E5%A2%83%E7%95%8C%E3%81%AE%E7%B4%AB%E3%80%8D%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%83%88%E3%83%A9%E3%83%83%E3%82%AFCD%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\81\ns6%3A%E3%80%8C%E5%A2%83%E7%95%8C%E3%81%AE%E7%B4%AB%E3%80%8D%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%83%88%E3%83%A9%E3%83%83%E3%82%AFCD%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 荒御灵
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [「境界の紫」サウンドトラックCD](./「境界の紫」サウンドトラックCD.md)  
-该封面包含的角色：- [八云紫](./八云紫.md)
-
-
-
+- [「境界の紫」サウンドトラックCD](./「境界の紫」サウンドトラックCD.md)该封面包含的角色：
+- [八云紫](./八云紫.md)
 
 
 ---

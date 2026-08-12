@@ -1,12 +1,11 @@
 # 彼女は「Broken」と言いましたか？
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\3\3a\ns0%3A%E5%BD%BC%E5%A5%B3%E3%81%AF%E3%80%8CBroken%E3%80%8D%E3%81%A8%E8%A8%80%E3%81%84%E3%81%BE%E3%81%97%E3%81%9F%E3%81%8B%EF%BC%9F.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\3\3a\ns0%3A%E5%BD%BC%E5%A5%B3%E3%81%AF%E3%80%8CBroken%E3%80%8D%E3%81%A8%E8%A8%80%E3%81%84%E3%81%BE%E3%81%97%E3%81%9F%E3%81%8B%EF%BC%9F.html -->
 
 2019年12月31日 由 Our Heartless Decline  发布的单曲同人专辑，曲目主要风格是 金属，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人专辑 (未找到链接)** 的词条
-
+**[二次创作同人专辑](./二次创作.md#同人音乐)**的词条
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-彼女は「Broken」と言いましたか？封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/7/72/%E5%BD%BC%E5%A5%B3%E3%81%AF%E3%80%8CBroken%E3%80%8D%E3%81%A8%E8%A8%80%E3%81%84%E3%81%BE%E3%81%97%E3%81%9F%E3%81%8B%EF%BC%9F%E5%B0%81%E9%9D%A2.jpg/252px-%E5%BD%BC%E5%A5%B3%E3%81%AF%E3%80%8CBroken%E3%80%8D%E3%81%A8%E8%A8%80%E3%81%84%E3%81%BE%E3%81%97%E3%81%9F%E3%81%8B%EF%BC%9F%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="252" height="252" srcset="https://upload.thwiki.cc/thumb/7/72/%E5%BD%BC%E5%A5%B3%E3%81%AF%E3%80%8CBroken%E3%80%8D%E3%81%A8%E8%A8%80%E3%81%84%E3%81%BE%E3%81%97%E3%81%9F%E3%81%8B%EF%BC%9F%E5%B0%81%E9%9D%A2.jpg/378px-%E5%BD%BC%E5%A5%B3%E3%81%AF%E3%80%8CBroken%E3%80%8D%E3%81%A8%E8%A8%80%E3%81%84%E3%81%BE%E3%81%97%E3%81%9F%E3%81%8B%EF%BC%9F%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/7/72/%E5%BD%BC%E5%A5%B3%E3%81%AF%E3%80%8CBroken%E3%80%8D%E3%81%A8%E8%A8%80%E3%81%84%E3%81%BE%E3%81%97%E3%81%9F%E3%81%8B%EF%BC%9F%E5%B0%81%E9%9D%A2.jpg/504px-%E5%BD%BC%E5%A5%B3%E3%81%AF%E3%80%8CBroken%E3%80%8D%E3%81%A8%E8%A8%80%E3%81%84%E3%81%BE%E3%81%97%E3%81%9F%E3%81%8B%EF%BC%9F%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1200" data-file-height="1200"></a><div class="cover-char">角色：<a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰朵露·斯卡蕾特</a></div></td>
@@ -15,32 +14,24 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://ourheartlessdecline.bandcamp.com/track/broken">https://ourheartlessdecline.bandcamp.com/track/broken</a></td></tr></tbody></table>
 
 彼女は「Broken」と言いましたか？（同人专辑，Our Heartless Decline，2019） - 2019年12月31日 由 Our Heartless Decline  发布的单曲同人专辑，曲目主要风格是 金属，分级为 一般向
-
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://ourheartlessdecline.bandcamp.com/track/broken">bandcamp</a></td></tr></tbody></table>
-
 
 
 ## Staff
   
- **Arrangement**   
+**Arrangement**  
 
 <table><tbody><tr><td><a href="./kita.md" title="kita">kita</a></td><td><a href="./Our_Heartless_Decline.md" title="Our Heartless Decline">Our Heartless Decline</a></td><td>Tr.1</td></tr></tbody></table>
-
 
 Art
 : 甲虫 （[Twitter: @train_yakumo](https://twitter.com/train_yakumo)）
 
-
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="彼女は「Broken」と言いましたか？" colspan="2" class="title">彼女は「Broken」と言いましたか？<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=kita&amp;ogmusic=U.N.オーエンは彼女なのか？&amp;fromwiki=彼女は「Broken」と言いましたか？"><span title="搜索相似同人曲"></span></a></span></td><td class="time">02:56</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./kita.md" title="kita">kita</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，kita&amp;fromwiki=彼女は「Broken」と言いましたか？"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=U.N.オーエンは彼女なのか？&amp;fromwiki=彼女は「Broken」と言いましたか？"><span></span></a></span><div class="ogmusic"><a href="./U.N.オーエンは彼女なのか？.md" class="mw-redirect" title="U.N.オーエンは彼女なのか？">U.N.オーエンは彼女なのか？</a></div><div class="source"><a href="./东方红魔乡_～_the_Embodiment_of_Scarlet_Devil..md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr></tbody></table>
-
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="彼女は「Broken」と言いましたか？" colspan="2" class="title">彼女は「Broken」と言いましたか？</td><td class="time">02:56</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./kita.md" title="kita">kita</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./U.N.OWEN就是她吗？.md" class="mw-redirect" title="U.N.オーエンは彼女なのか？">U.N.オーエンは彼女なのか？</a></div><div class="source"><a href="./东方红魔乡.md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr></tbody></table>
 
 
 ## 评论
-
-
-
 
 ---
 

@@ -1,16 +1,12 @@
 # 模板:Sunrise_Creation
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\b\ba\ns10%3ASunrise_Creation.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\b\ba\ns10%3ASunrise_Creation.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

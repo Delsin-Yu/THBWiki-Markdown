@@ -1,14 +1,11 @@
 # 文件:斬banner2.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\83\ns6%3A%E6%96%ACbanner2%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\83\ns6%3A%E6%96%ACbanner2%2Egif.html -->
 
 斬 | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

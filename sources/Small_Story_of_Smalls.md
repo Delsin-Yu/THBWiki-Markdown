@@ -1,43 +1,37 @@
 # Small_Story_of_Smalls
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\8\80\ns0%3ASmall_Story_of_Smalls.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\8\80\ns0%3ASmall_Story_of_Smalls.html -->
 
 2017年3月26日 由 第九分岐点 于 境界所见到的外界4 发布的漫画同人志，B5尺寸一共24页，登场人物有 宇佐见莲子、玛艾露贝莉·赫恩，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人志 (未找到链接)** 的词条
-
+**[二次创作同人志](./二次创作.md#同人志)**的词条
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><div class="cover-char">角色：<a href="./玛艾露贝莉·赫恩.md" title="玛艾露贝莉·赫恩">玛艾露贝莉·赫恩</a>，<a href="./宇佐见莲子.md" title="宇佐见莲子">宇佐见莲子</a></div></td>
 </tr><tr><td class="label">名称</td><td colspan="2"> Small Story of Smalls </td></tr><tr><td class="label">制作方</td><td><a href="./第九分岐点.md" title="第九分岐点">第九分岐点</a></td><td class="cover-artwork" rowspan="8" style="min-width:224px;"><div class="cover-char">角色：<a href="./玛艾露贝莉·赫恩.md" title="玛艾露贝莉·赫恩">玛艾露贝莉·赫恩</a>，<a href="./宇佐见莲子.md" title="宇佐见莲子">宇佐见莲子</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2017-03-26&#160;（<a href="/展会作品列表?e=%E5%A2%83%E7%95%8C%E6%89%80%E8%A7%81%E5%88%B0%E7%9A%84%E5%A4%96%E7%95%8C%234">境界から視えた外界 -至-</a>）</td></tr><tr><td class="label">类型</td><td>漫画</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>B5</td></tr><tr><td class="label">页数</td><td>24P</td></tr><tr><td class="label">登场人物</td><td><a href="./宇佐见莲子.md" title="宇佐见莲子">宇佐见莲子</a>，<a href="./玛艾露贝莉·赫恩.md" title="玛艾露贝莉·赫恩">玛艾露贝莉·赫恩</a></td></tr><tr><td class="label">售价</td><td>会场售价：400日元<br>通贩售价：556日元</td></tr>
+</tr><tr><td class="label">首发日期</td><td>2017-03-26 （<a href="./展会作品列表.md#4">境界から視えた外界 -至-</a>）</td></tr><tr><td class="label">类型</td><td>漫画</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>B5</td></tr><tr><td class="label">页数</td><td>24P</td></tr><tr><td class="label">登场人物</td><td><a href="./宇佐见莲子.md" title="宇佐见莲子">宇佐见莲子</a>，<a href="./玛艾露贝莉·赫恩.md" title="玛艾露贝莉·赫恩">玛艾露贝莉·赫恩</a></td></tr><tr><td class="label">售价</td><td>会场售价：400日元<br>通贩售价：556日元</td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/61973903">https://www.pixiv.net/artworks/61973903</a></td></tr></tbody></table>
 
 Small Story of Smalls（同人志，第九分岐点，2017） - 2017年3月26日 由 第九分岐点 于 境界所见到的外界4 发布的漫画同人志，B5尺寸一共24页，登场人物有 宇佐见莲子、玛艾露贝莉·赫恩，分级为 一般向
-
 ## 预览
-- [](./文件-Small_Story_of_Smalls预览图1.jpg.md)- [](./文件-Small_Story_of_Smalls预览图2.jpg.md)- [](./文件-Small_Story_of_Smalls预览图3.jpg.md)- [](./文件-Small_Story_of_Smalls预览图4.jpg.md)- [](./文件-Small_Story_of_Smalls预览图5.jpg.md)
+
+- <img alt="Small Story of Smalls预览图1.jpg" src="https://upload.thwiki.cc/thumb/6/6d/Small_Story_of_Smalls%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg/265px-Small_Story_of_Smalls%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg" decoding="async" loading="lazy" width="177" height="250" srcset="https://upload.thwiki.cc/thumb/6/6d/Small_Story_of_Smalls%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg/399px-Small_Story_of_Smalls%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg 1.5x, https://upload.thwiki.cc/thumb/6/6d/Small_Story_of_Smalls%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg/531px-Small_Story_of_Smalls%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg 2x" data-file-width="850" data-file-height="1200"> 
+- <img alt="Small Story of Smalls预览图2.jpg" src="https://upload.thwiki.cc/thumb/1/11/Small_Story_of_Smalls%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg/265px-Small_Story_of_Smalls%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg" decoding="async" loading="lazy" width="177" height="250" srcset="https://upload.thwiki.cc/thumb/1/11/Small_Story_of_Smalls%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg/399px-Small_Story_of_Smalls%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg 1.5x, https://upload.thwiki.cc/thumb/1/11/Small_Story_of_Smalls%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg/531px-Small_Story_of_Smalls%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg 2x" data-file-width="850" data-file-height="1200"> 
+- <img alt="Small Story of Smalls预览图3.jpg" src="https://upload.thwiki.cc/thumb/6/61/Small_Story_of_Smalls%E9%A2%84%E8%A7%88%E5%9B%BE3.jpg/265px-Small_Story_of_Smalls%E9%A2%84%E8%A7%88%E5%9B%BE3.jpg" decoding="async" loading="lazy" width="177" height="250" srcset="https://upload.thwiki.cc/thumb/6/61/Small_Story_of_Smalls%E9%A2%84%E8%A7%88%E5%9B%BE3.jpg/399px-Small_Story_of_Smalls%E9%A2%84%E8%A7%88%E5%9B%BE3.jpg 1.5x, https://upload.thwiki.cc/thumb/6/61/Small_Story_of_Smalls%E9%A2%84%E8%A7%88%E5%9B%BE3.jpg/531px-Small_Story_of_Smalls%E9%A2%84%E8%A7%88%E5%9B%BE3.jpg 2x" data-file-width="850" data-file-height="1200"> 
+- <img alt="Small Story of Smalls预览图4.jpg" src="https://upload.thwiki.cc/thumb/d/d9/Small_Story_of_Smalls%E9%A2%84%E8%A7%88%E5%9B%BE4.jpg/265px-Small_Story_of_Smalls%E9%A2%84%E8%A7%88%E5%9B%BE4.jpg" decoding="async" loading="lazy" width="177" height="250" srcset="https://upload.thwiki.cc/thumb/d/d9/Small_Story_of_Smalls%E9%A2%84%E8%A7%88%E5%9B%BE4.jpg/399px-Small_Story_of_Smalls%E9%A2%84%E8%A7%88%E5%9B%BE4.jpg 1.5x, https://upload.thwiki.cc/thumb/d/d9/Small_Story_of_Smalls%E9%A2%84%E8%A7%88%E5%9B%BE4.jpg/531px-Small_Story_of_Smalls%E9%A2%84%E8%A7%88%E5%9B%BE4.jpg 2x" data-file-width="850" data-file-height="1200"> 
+- <img alt="Small Story of Smalls预览图5.jpg" src="https://upload.thwiki.cc/thumb/e/e2/Small_Story_of_Smalls%E9%A2%84%E8%A7%88%E5%9B%BE5.jpg/265px-Small_Story_of_Smalls%E9%A2%84%E8%A7%88%E5%9B%BE5.jpg" decoding="async" loading="lazy" width="177" height="250" srcset="https://upload.thwiki.cc/thumb/e/e2/Small_Story_of_Smalls%E9%A2%84%E8%A7%88%E5%9B%BE5.jpg/399px-Small_Story_of_Smalls%E9%A2%84%E8%A7%88%E5%9B%BE5.jpg 1.5x, https://upload.thwiki.cc/thumb/e/e2/Small_Story_of_Smalls%E9%A2%84%E8%A7%88%E5%9B%BE5.jpg/531px-Small_Story_of_Smalls%E9%A2%84%E8%A7%88%E5%9B%BE5.jpg 2x" data-file-width="850" data-file-height="1200"> 
 
 
 ## Staff
+
 - 篠原九 (未找到链接)
 
 
 ## 评论
+
 ```
-[蜜瓜/社团评论](https://www.melonbooks.co.jp/detail/detail.php?product_id=211624)：秘封倶楽部が下着を買いに行くだけのほんわか漫画です。こんな表紙ですが全年齢向け。やや蓮メリ。
-秘封好きはもちろん、ブラジャーのカップサイズとはなんぞや?
-ランジェリーショップではどんな風に買い物するのか?等に興味がある方にもオススメです! 
-```
-
-  
-  
-
-  
-
-
-
+[蜜瓜/社团评论](https://www.melonbooks.co.jp/detail/detail.php?product_id=211624)：秘封倶楽部が下着を買いに行くだけのほんわか漫画です。こんな表紙ですが全年齢向け。やや蓮メリ。 秘封好きはもちろん、ブラジャーのカップサイズとはなんぞや? ランジェリーショップではどんな風に買い物するのか?等に興味がある方にもオススメです! ```
 
 
 ---

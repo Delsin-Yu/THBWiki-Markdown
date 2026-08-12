@@ -1,12 +1,8 @@
 # 文件:东方凭依华体验版秋准备篇disc.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ee\ns6%3A%E4%B8%9C%E6%96%B9%E5%87%AD%E4%BE%9D%E5%8D%8E%E4%BD%93%E9%AA%8C%E7%89%88%E7%A7%8B%E5%87%86%E5%A4%87%E7%AF%87disc%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ee\ns6%3A%E4%B8%9C%E6%96%B9%E5%87%AD%E4%BE%9D%E5%8D%8E%E4%BD%93%E9%AA%8C%E7%89%88%E7%A7%8B%E5%87%86%E5%A4%87%E7%AF%87disc%2Epng.html -->
 
 东方凭依华 | 官方游戏体验版光盘扫图
-
-
-
-
 
 
 ---

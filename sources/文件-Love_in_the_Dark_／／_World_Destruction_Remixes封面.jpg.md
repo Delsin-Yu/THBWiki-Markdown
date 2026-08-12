@@ -1,6 +1,6 @@
 # 文件:Love_in_the_Dark_／／_World_Destruction_Remixes封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5a\ns6%3ALove_in_the_Dark_%EF%BC%8F%EF%BC%8F_World_Destruction_Remixes%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5a\ns6%3ALove_in_the_Dark_%EF%BC%8F%EF%BC%8F_World_Destruction_Remixes%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Violet_Delta | 专辑封面 | 封面图片
 
@@ -11,12 +11,7 @@ Violet_Delta | 专辑封面 | 封面图片
 - [Love in the Dark ／／ World Destruction Remixes](./Love_in_the_Dark_／／_World_Destruction_Remixes.md)
 
   
-源地址：[[1]](https://f4.bcbits.com/img/a3426394317_10.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://f4.bcbits.com/img/a3426394317_10.jpg)  
 
 ---
 

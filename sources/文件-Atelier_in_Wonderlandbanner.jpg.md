@@ -1,14 +1,11 @@
 # 文件:Atelier_in_Wonderlandbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f0\ns6%3AAtelier_in_Wonderlandbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f0\ns6%3AAtelier_in_Wonderlandbanner%2Ejpg.html -->
 
 Atelier_in_Wonderland | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

@@ -1,14 +1,11 @@
 # 文件:朱鷺時雨_banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\07\ns6%3A%E6%9C%B1%E9%B7%BA%E6%99%82%E9%9B%A8_banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\07\ns6%3A%E6%9C%B1%E9%B7%BA%E6%99%82%E9%9B%A8_banner%2Epng.html -->
 
 朱鷺時雨 | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

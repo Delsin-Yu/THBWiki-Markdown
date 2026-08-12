@@ -1,6 +1,6 @@
 # 文件:Eyes_On_You_Remix_Compilation封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\de\ns6%3AEyes_On_You_Remix_Compilation%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\de\ns6%3AEyes_On_You_Remix_Compilation%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Nami_Haven | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Nami_Haven | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Eyes On You Remix Compilation](./Eyes_On_You_Remix_Compilation.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
-
-
-
+- [Eyes On You Remix Compilation](./Eyes_On_You_Remix_Compilation.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
 
 
 ---

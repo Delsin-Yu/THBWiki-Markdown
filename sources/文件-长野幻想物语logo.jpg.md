@@ -1,12 +1,8 @@
 # 文件:长野幻想物语logo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5c\ns6%3A%E9%95%BF%E9%87%8E%E5%B9%BB%E6%83%B3%E7%89%A9%E8%AF%ADlogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5c\ns6%3A%E9%95%BF%E9%87%8E%E5%B9%BB%E6%83%B3%E7%89%A9%E8%AF%ADlogo%2Ejpg.html -->
 
 社团LOGO | 长野幻想物语
-
-
-
-
 
 
 ---

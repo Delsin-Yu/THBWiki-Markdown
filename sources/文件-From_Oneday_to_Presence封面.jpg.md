@@ -1,6 +1,6 @@
 # 文件:From_Oneday_to_Presence封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\75\ns6%3AFrom_Oneday_to_Presence%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\75\ns6%3AFrom_Oneday_to_Presence%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Cherry_Lunaburst | 专辑封面 | 封面图片
 
@@ -10,11 +10,9 @@ Cherry_Lunaburst | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [From Oneday to Presence](./From_Oneday_to_Presence.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)- [伊吹萃香](./伊吹萃香.md)
-
-
-
+- [From Oneday to Presence](./From_Oneday_to_Presence.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
+- [伊吹萃香](./伊吹萃香.md)
 
 
 ---

@@ -1,14 +1,11 @@
 # 文件:Defiant_Groovingslogo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9b\ns6%3ADefiant_Groovingslogo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9b\ns6%3ADefiant_Groovingslogo%2Epng.html -->
 
 Defiant_Groovings | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

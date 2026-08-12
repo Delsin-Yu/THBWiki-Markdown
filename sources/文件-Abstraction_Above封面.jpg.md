@@ -1,6 +1,6 @@
 # 文件:Abstraction_Above封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\61\ns6%3AAbstraction_Above%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\61\ns6%3AAbstraction_Above%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 TSUKUMO_RECORD | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ TSUKUMO_RECORD | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Abstraction Above](./Abstraction_Above.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
-
-
-
+- [Abstraction Above](./Abstraction_Above.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:過逆性虚構史_-OverSpace_FalseTime-封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c9\ns6%3A%E9%81%8E%E9%80%86%E6%80%A7%E8%99%9A%E6%A7%8B%E5%8F%B2_-OverSpace_FalseTime-%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c9\ns6%3A%E9%81%8E%E9%80%86%E6%80%A7%E8%99%9A%E6%A7%8B%E5%8F%B2_-OverSpace_FalseTime-%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 幻界プロミネンス
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [過逆性虚構史 -OverSpace FalseTime-](./過逆性虚構史_-OverSpace_FalseTime-.md)  
-该封面包含的角色：- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [過逆性虚構史 -OverSpace FalseTime-](./過逆性虚構史_-OverSpace_FalseTime-.md)该封面包含的角色：
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

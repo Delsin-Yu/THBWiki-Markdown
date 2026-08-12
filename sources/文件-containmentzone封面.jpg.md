@@ -1,6 +1,6 @@
 # 文件:containmentzone封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\10\ns6%3Acontainmentzone%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\10\ns6%3Acontainmentzone%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Genetic_Memory_Orchestra | 专辑封面 | 封面图片
 
@@ -8,16 +8,13 @@ Genetic_Memory_Orchestra | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [containmentzone](./containmentzone.md)  
-该封面包含的角色：- [灵乌路空](./灵乌路空.md)- [赤蛮奇](./赤蛮奇.md)- 原创角色 (未找到链接)
+- [containmentzone](./containmentzone.md)该封面包含的角色：
+- [灵乌路空](./灵乌路空.md)
+- [赤蛮奇](./赤蛮奇.md)
+- 原创角色 (未找到链接)
 
   
-源地址：[[1]](https://f4.bcbits.com/img/a1445924618_10.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://f4.bcbits.com/img/a1445924618_10.jpg)  
 
 ---
 

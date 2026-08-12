@@ -1,6 +1,6 @@
 # 文件:東方神楽祭_成_～_Last_Grand_Merodica封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\49\ns6%3A%E6%9D%B1%E6%96%B9%E7%A5%9E%E6%A5%BD%E7%A5%AD_%E6%88%90_%EF%BD%9E_Last_Grand_Merodica%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\49\ns6%3A%E6%9D%B1%E6%96%B9%E7%A5%9E%E6%A5%BD%E7%A5%AD_%E6%88%90_%EF%BD%9E_Last_Grand_Merodica%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 純愛吹雪
 
@@ -13,12 +13,7 @@
 - [東方神楽祭 成 ～ Last Grand Merodica](./東方神楽祭_成_～_Last_Grand_Merodica.md)
 
   
-源地址：[[1]](https://f4.bcbits.com/img/a2725600134_10.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://f4.bcbits.com/img/a2725600134_10.jpg)  
 
 ---
 

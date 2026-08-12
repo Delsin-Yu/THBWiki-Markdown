@@ -1,6 +1,6 @@
 # 文件:Agartha_3封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0d\ns6%3AAgartha_3%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0d\ns6%3AAgartha_3%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Birthday_Party | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@ Birthday_Party | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Agartha 3](./Agartha_3.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [Agartha 3](./Agartha_3.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
 
   
-[Pixiv artwork ID: 45367527 (original size)](https://www.pixiv.net/artworks/45367527)
-  
-
-
-
-
+[Pixiv artwork ID: 45367527 (original size)](https://www.pixiv.net/artworks/45367527)  
 
 ---
 

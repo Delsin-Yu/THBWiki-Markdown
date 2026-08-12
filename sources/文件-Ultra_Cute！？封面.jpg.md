@@ -1,6 +1,6 @@
 # 文件:Ultra_Cute！？封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\94\ns6%3AUltra_Cute%EF%BC%81%EF%BC%9F%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\94\ns6%3AUltra_Cute%EF%BC%81%EF%BC%9F%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 C.H.S | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ C.H.S | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Ultra Cute！？](./Ultra_Cute！？.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)
-
-
-
+- [Ultra Cute！？](./Ultra_Cute！？.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
 
 
 ---

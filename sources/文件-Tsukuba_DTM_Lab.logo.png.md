@@ -1,16 +1,11 @@
 # 文件:Tsukuba_DTM_Lab.logo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c2\ns6%3ATsukuba_DTM_Lab%2Elogo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c2\ns6%3ATsukuba_DTM_Lab%2Elogo%2Epng.html -->
 
 Tsukuba_DTM_Lab. | 社团LOGO
 
   
-源地址：[[1]](https://66.media.tumblr.com/179f2ae16c422e8a5413c4ff56140270/tumblr_inline_nma1rdbE621qfuibu_500.png)
-  
-
-
-
-
+源地址：[\[1\]](https://66.media.tumblr.com/179f2ae16c422e8a5413c4ff56140270/tumblr_inline_nma1rdbE621qfuibu_500.png)  
 
 ---
 

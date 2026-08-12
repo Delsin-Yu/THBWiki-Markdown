@@ -1,16 +1,12 @@
 # 模板:FD
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\e\ea\ns10%3AFD.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\e\ea\ns10%3AFD.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

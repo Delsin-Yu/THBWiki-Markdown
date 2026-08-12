@@ -1,16 +1,12 @@
 # 文件:ssg_17.mid
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\64\ns6%3Assg_17%2Emid.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\64\ns6%3Assg_17%2Emid.html -->
 
 东方幻想的音乐 | 官方MIDI | 秋霜玉 | 魔女们的舞会_～_Magus
 
   
 魔女達の舞踏会　~Magus 秋霜玉Ex面一Boss，霧雨魔理沙的主题曲。 东方的幻想音乐版，与原秋霜玉版本有出入！
   
-
-
-
-
 
 ---
 

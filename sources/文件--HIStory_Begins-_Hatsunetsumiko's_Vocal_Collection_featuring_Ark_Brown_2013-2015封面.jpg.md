@@ -1,6 +1,6 @@
 # 文件:"HIStory_Begins"_Hatsunetsumiko's_Vocal_Collection_featuring_Ark_Brown_2013-2015封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2d\ns6%3A%22HIStory_Begins%22_Hatsunetsumiko%27s_Vocal_Collection_featuring_Ark_Brown_2013-2015%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2d\ns6%3A%22HIStory_Begins%22_Hatsunetsumiko%27s_Vocal_Collection_featuring_Ark_Brown_2013-2015%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 発熱巫女～ず
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- ["HIStory Begins" Hatsunetsumiko's Vocal Collection featuring Ark Brown 2013-2015](./-HIStory_Begins-_Hatsunetsumiko's_Vocal_Collection_featuring_Ark_Brown_2013-2015.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- ["HIStory Begins" Hatsunetsumiko's Vocal Collection featuring Ark Brown 2013-2015](./-HIStory_Begins-_Hatsunetsumiko's_Vocal_Collection_featuring_Ark_Brown_2013-2015.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

@@ -1,14 +1,11 @@
 # 文件:MineCraft幻想乡-首届新年活动.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4c\ns6%3AMineCraft%E5%B9%BB%E6%83%B3%E4%B9%A1-%E9%A6%96%E5%B1%8A%E6%96%B0%E5%B9%B4%E6%B4%BB%E5%8A%A8%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4c\ns6%3AMineCraft%E5%B9%BB%E6%83%B3%E4%B9%A1-%E9%A6%96%E5%B1%8A%E6%96%B0%E5%B9%B4%E6%B4%BB%E5%8A%A8%2Epng.html -->
 
 MineCraft幻想乡
 
 
 ## 文件说明
-
-
-
 
 ---
 

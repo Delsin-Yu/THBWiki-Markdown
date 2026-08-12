@@ -1,6 +1,6 @@
 # 文件:氷精武勇録～Record_Of_Ice_Fairy_War.封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cc\ns6%3A%E6%B0%B7%E7%B2%BE%E6%AD%A6%E5%8B%87%E9%8C%B2%EF%BD%9ERecord_Of_Ice_Fairy_War%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cc\ns6%3A%E6%B0%B7%E7%B2%BE%E6%AD%A6%E5%8B%87%E9%8C%B2%EF%BD%9ERecord_Of_Ice_Fairy_War%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Socially_Unfit | 封面图片 | 软件封面
 
@@ -10,11 +10,8 @@ Socially_Unfit | 封面图片 | 软件封面
 使用了本文件作封面图片的作品：
   
 
-- [氷精武勇録～Record Of Ice Fairy War.](./氷精武勇録～Record_Of_Ice_Fairy_War..md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)
-
-
-
+- [氷精武勇録～Record Of Ice Fairy War.](./氷精武勇録～Record_Of_Ice_Fairy_War..md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
 
 
 ---

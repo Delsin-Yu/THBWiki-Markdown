@@ -1,6 +1,6 @@
 # 文件:終日-Hinemosu-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b3\ns6%3A%E7%B5%82%E6%97%A5-Hinemosu-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b3\ns6%3A%E7%B5%82%E6%97%A5-Hinemosu-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 StarlessTrilogy | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ StarlessTrilogy | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [終日-Hinemosu-](./終日-Hinemosu-.md)  
-该封面包含的角色：- [豫母都日狭美](./豫母都日狭美.md)
-
-
-
+- [終日-Hinemosu-](./終日-Hinemosu-.md)该封面包含的角色：
+- [豫母都日狭美](./豫母都日狭美.md)
 
 
 ---

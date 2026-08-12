@@ -1,6 +1,6 @@
 # 文件:霞色_vol.2封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2f\ns6%3A%E9%9C%9E%E8%89%B2_vol%2E2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2f\ns6%3A%E9%9C%9E%E8%89%B2_vol%2E2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 華霞魅
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [霞色 vol.2](./霞色_vol.2.md)  
-该封面包含的角色：- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)- 十六夜咲夜 (未找到链接)
-
-
-
+- [霞色 vol.2](./霞色_vol.2.md)该封面包含的角色：
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
+- [十六夜咲夜](./十六夜咲夜.md)
 
 
 ---

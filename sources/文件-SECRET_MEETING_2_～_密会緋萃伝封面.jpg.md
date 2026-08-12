@@ -1,6 +1,6 @@
 # 文件:SECRET_MEETING_2_～_密会緋萃伝封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d1\ns6%3ASECRET_MEETING_2_%EF%BD%9E_%E5%AF%86%E4%BC%9A%E7%B7%8B%E8%90%83%E4%BC%9D%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d1\ns6%3ASECRET_MEETING_2_%EF%BD%9E_%E5%AF%86%E4%BC%9A%E7%B7%8B%E8%90%83%E4%BC%9D%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 封面图片 | 猫曼陀羅 | 软件封面
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [SECRET MEETING 2 ～ 密会緋萃伝](./SECRET_MEETING_2_～_密会緋萃伝.md)  
-该封面包含的角色：- 原创角色 (未找到链接)
-
-
-
+- [SECRET MEETING 2 ～ 密会緋萃伝](./SECRET_MEETING_2_～_密会緋萃伝.md)该封面包含的角色：
+- 原创角色 (未找到链接)
 
 
 ---

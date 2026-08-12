@@ -1,12 +1,8 @@
 # 文件:猿击「Monkey_Magic」（兽王园）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\58\ns6%3A%E7%8C%BF%E5%87%BB%E3%80%8CMonkey_Magic%E3%80%8D%EF%BC%88%E5%85%BD%E7%8E%8B%E5%9B%AD%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\58\ns6%3A%E7%8C%BF%E5%87%BB%E3%80%8CMonkey_Magic%E3%80%8D%EF%BC%88%E5%85%BD%E7%8E%8B%E5%9B%AD%EF%BC%89%2Epng.html -->
 
 东方兽王园 | 孙美天 | 自机符卡
-
-
-
-
 
 
 ---

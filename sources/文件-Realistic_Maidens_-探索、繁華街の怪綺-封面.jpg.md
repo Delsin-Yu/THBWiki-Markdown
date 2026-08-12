@@ -1,6 +1,6 @@
 # 文件:Realistic_Maidens_-探索、繁華街の怪綺-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bf\ns6%3ARealistic_Maidens_-%E6%8E%A2%E7%B4%A2%E3%80%81%E7%B9%81%E8%8F%AF%E8%A1%97%E3%81%AE%E6%80%AA%E7%B6%BA-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bf\ns6%3ARealistic_Maidens_-%E6%8E%A2%E7%B4%A2%E3%80%81%E7%B9%81%E8%8F%AF%E8%A1%97%E3%81%AE%E6%80%AA%E7%B6%BA-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Realista_Libro | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@ Realista_Libro | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Realistic Maidens -探索、繁華街の怪綺-](./Realistic_Maidens_-探索、繁華街の怪綺-.md)  
-该封面包含的角色：- 原创角色 (未找到链接)
+- [Realistic Maidens -探索、繁華街の怪綺-](./Realistic_Maidens_-探索、繁華街の怪綺-.md)该封面包含的角色：
+- 原创角色 (未找到链接)
 
   
-[Pixiv artwork ID: 78497270](https://www.pixiv.net/artworks/78497270)
-  
-
-
-
-
+[Pixiv artwork ID: 78497270](https://www.pixiv.net/artworks/78497270)  
 
 ---
 

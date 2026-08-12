@@ -1,14 +1,11 @@
 # 文件:The_Grimoire_of_Usami（稀神探女2）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\65\ns6%3AThe_Grimoire_of_Usami%EF%BC%88%E7%A8%80%E7%A5%9E%E6%8E%A2%E5%A5%B32%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\65\ns6%3AThe_Grimoire_of_Usami%EF%BC%88%E7%A8%80%E7%A5%9E%E6%8E%A2%E5%A5%B32%EF%BC%89%2Ejpg.html -->
 
 宇佐见的魔法书 | 稀神探女
 
 
 ## 摘要
-
-
-
 
 ---
 

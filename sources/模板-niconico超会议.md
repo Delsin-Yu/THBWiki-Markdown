@@ -1,16 +1,12 @@
 # 模板:niconico超会议
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\9\98\ns10%3Aniconico%E8%B6%85%E4%BC%9A%E8%AE%AE.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\9\98\ns10%3Aniconico%E8%B6%85%E4%BC%9A%E8%AE%AE.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

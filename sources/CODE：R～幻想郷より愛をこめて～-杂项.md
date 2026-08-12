@@ -1,6 +1,6 @@
 # CODE：R～幻想郷より愛をこめて～/杂项
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\5\5e\ns0%3ACODE%EF%BC%9AR%EF%BD%9E%E5%B9%BB%E6%83%B3%E9%83%B7%E3%82%88%E3%82%8A%E6%84%9B%E3%82%92%E3%81%93%E3%82%81%E3%81%A6%EF%BD%9E%2F%E6%9D%82%E9%A1%B9.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\5\5e\ns0%3ACODE%EF%BC%9AR%EF%BD%9E%E5%B9%BB%E6%83%B3%E9%83%B7%E3%82%88%E3%82%8A%E6%84%9B%E3%82%92%E3%81%93%E3%82%81%E3%81%A6%EF%BD%9E%2F%E6%9D%82%E9%A1%B9.html -->
 
 BlueMica
 
@@ -8,20 +8,12 @@ BlueMica
 ## 目录
 
 - [1 更新情况](#更新情况)
-
   - [1.1 添加/更改了以下内容](#添加/更改了以下内容)
-
     - [1.1.1 版本1.7.2 的更改](#版本1.7.2_的更改)
-
       - [1.1.1.1 Bug修正](#Bug修正)
 
 
-
     - [1.1.2 版本1.7.1及以前的追加修正](#版本1.7.1及以前的追加修正)
-
-
-
-
 
 
 
@@ -41,9 +33,7 @@ BlueMica
 （注意！现在仍不能保证用手柄能够正常游戏）  
 
 ・修正了重启过程中可能发生的错误。   
-
   
-
 
 ### 版本1.7.1及以前的追加修正
   
@@ -115,9 +105,9 @@ BlueMica
 
 修正了键盘响应的时间  
 
-・修复了一个重放关卡Replay (未找到链接)可能在罕见情况下不显示的bug  
+・修复了一个重放关卡[Replay](./游戏攻略-STG术语.md#Replay)可能在罕见情况下不显示的bug  
 
-・针对受到伤害后立即按下移动键br/&gt;
+・针对受到伤害后立即按下移动键br/>
 修正了即使释放按键，仍走继续行走的bug  
 
 ・修正了行走时用另一个按键改变方向会导致瞬间冲刺的bug  
@@ -155,12 +145,7 @@ BlueMica
 ・修正4-8关卡安装的倒置目标极难被摧毁的bug  
 
 ・修正1-8关卡的目标即使被摧毁也不会被计入的bug  
-
   
-
-
-
-
 
 ---
 

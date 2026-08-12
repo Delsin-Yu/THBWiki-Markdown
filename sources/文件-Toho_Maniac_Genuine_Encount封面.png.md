@@ -1,6 +1,6 @@
 # 文件:Toho_Maniac_Genuine_Encount封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\55\ns6%3AToho_Maniac_Genuine_Encount%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\55\ns6%3AToho_Maniac_Genuine_Encount%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 TMGE | 专辑封面 | 封面图片
 
@@ -8,11 +8,11 @@ TMGE | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Toho Maniac Genuine Encount](./Toho_Maniac_Genuine_Encount.md)  
-该封面包含的角色：- [红美铃](./红美铃.md)- 十六夜咲夜 (未找到链接)- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [Toho Maniac Genuine Encount](./Toho_Maniac_Genuine_Encount.md)该封面包含的角色：
+- [红美铃](./红美铃.md)
+- [十六夜咲夜](./十六夜咲夜.md)
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

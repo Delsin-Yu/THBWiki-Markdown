@@ -1,6 +1,6 @@
 # 文件:She_is_ZUN's_Seasons封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\18\ns6%3AShe_is_ZUN%27s_Seasons%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\18\ns6%3AShe_is_ZUN%27s_Seasons%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 夕焼けコンテナ。 | 封面图片
 
@@ -11,12 +11,7 @@
 - [She is ZUN's Seasons](./She_is_ZUN's_Seasons.md)
 
   
-源地址: [[1]](http://concon.yu-yake.com/season/img/SZS_ja.jpg)
-  
-
-
-
-
+源地址: [\[1\]](http://concon.yu-yake.com/season/img/SZS_ja.jpg)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:TOHO_DRAMATIC_VIOLIN_-enthusiasm-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6e\ns6%3ATOHO_DRAMATIC_VIOLIN_-enthusiasm-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6e\ns6%3ATOHO_DRAMATIC_VIOLIN_-enthusiasm-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 TAMUSIC | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ TAMUSIC | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [TOHO DRAMATIC VIOLIN -enthusiasm-](./TOHO_DRAMATIC_VIOLIN_-enthusiasm-.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [TOHO DRAMATIC VIOLIN -enthusiasm-](./TOHO_DRAMATIC_VIOLIN_-enthusiasm-.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

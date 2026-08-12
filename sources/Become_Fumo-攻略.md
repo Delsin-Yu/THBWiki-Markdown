@@ -1,6 +1,6 @@
 # Become_Fumo/攻略
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\29\ns0%3ABecome_Fumo%2F%E6%94%BB%E7%95%A5.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\29\ns0%3ABecome_Fumo%2F%E6%94%BB%E7%95%A5.html -->
 
 Okuechi
 
@@ -13,99 +13,73 @@ Okuechi
 - [4 后记](#后记)
 
 
-
-
-
 ## 指令
   
 使用方法：在聊天栏输入即可  
-
   
   
 /e dance 坐下开始摆屁股  
-
   
   
 /e dance2 偏向一侧开始跳舞  
-
   
   
 /e dance3 坐下旋转  
-
   
   
 /e abunai 跳舞，然后空中侧转  
-
   
   
 /e sonanoka 经典⑩字架  
-
   
   
 /e scarletpolice 抽搐（）  
-
   
   
 /e caramell 左右手向前，身体摇摆  
-
   
   
 /e swag （难以名状）  
-
   
   
 /e penguin 摆手，鞠躬之类动作  
-
   
   
 /e september 侧向左右做动作  
-
   
   
 /e spooky 手放在前面左右辗转  
-
   
   
 /e california 任何邪恶终将绳之以法  
-
   
   
 /e orin 侧向一边，两手交替上下摆动  
-
   
   
 /e nanodesu 也是摆屁股，幅度更大  
-
   
   
 /e nekomikoreimu 跳舞然后转圈  
-
   
   
 /e chirumiru 两手上下摆动，跺脚  
-
   
 
-- 以下动作只执行一次，不是循环动作  
-
+- 以下动作只执行一次，不是循环动作
 
   
 /e cheer 欢呼雀跃  
-
   
   
 /e wave 跳起来坐下，然后站起来  
-
   
   
 /e laugh 坐下蹦跶，然后站起来  
-
   
   
 /e point 指向前方  
-
   
-
 
 ## 特殊语音
   
@@ -235,7 +209,6 @@ Okuechi
 赤蛮奇 head
   
 
-
 ## 隐藏房间
   
 龙虾房间:在游泳池楼梯正前面
@@ -285,15 +258,9 @@ Okuechi
 3跳舞的:在游戏店/馆后面「旁边那个小山，高的侧面墙里」
   
 
-
 ## 后记
   
-B站网址:[B站文献](https://b23.tv/Ky1t7y)‖喵玉殿网址:[喵玉殿文献](https://bbs.nyasama.com/forum.php?mod=viewthread&amp;tid=1845201)
-  
-
-
-
-
+B站网址:[B站文献](https://b23.tv/Ky1t7y)‖喵玉殿网址:[喵玉殿文献](https://bbs.nyasama.com/forum.php?mod=viewthread&tid=1845201)  
 
 ---
 

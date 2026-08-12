@@ -1,12 +1,8 @@
 # 文件:导命「寒梅Collection」.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\52\ns6%3A%E5%AF%BC%E5%91%BD%E3%80%8C%E5%AF%92%E6%A2%85Collection%E3%80%8D%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\52\ns6%3A%E5%AF%BC%E5%91%BD%E3%80%8C%E5%AF%92%E6%A2%85Collection%E3%80%8D%2Ejpg.html -->
 
 東方邪星章製作チーム
-
-
-
-
 
 
 ---

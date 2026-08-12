@@ -1,6 +1,6 @@
 # 文件:East_Ambience_vol._0.1封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\11\ns6%3AEast_Ambience_vol%2E_0%2E1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\11\ns6%3AEast_Ambience_vol%2E_0%2E1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 人生の気だるさ日和 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [East Ambience vol. 0.1](./East_Ambience_vol._0.1.md)  
-该封面包含的角色：- [东风谷早苗](./东风谷早苗.md)
-
-
-
+- [East Ambience vol. 0.1](./East_Ambience_vol._0.1.md)该封面包含的角色：
+- [东风谷早苗](./东风谷早苗.md)
 
 
 ---

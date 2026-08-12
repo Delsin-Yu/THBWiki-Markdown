@@ -1,13 +1,11 @@
 # tpz_GOMEN_NASAI_ep.
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\f9\ns0%3Atpz_GOMEN_NASAI_ep%2E.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\f9\ns0%3Atpz_GOMEN_NASAI_ep%2E.html -->
 
 2011年12月30日 由 C.H.S 于 Comic Market 81 发布的EP同人专辑，曲目主要风格是 硬核，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人专辑 (未找到链接)** 的词条
-<center>
-
+**[二次创作同人专辑](./二次创作.md#同人音乐)**的词条<center>
 <table>
 <tbody><tr>
 <td class="mbox-image"><div style="width: 52px;">
@@ -16,51 +14,42 @@
 </tr>
 </tbody></table>
 
-
 </center>
-
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-tpz_GOMEN_NASAI_ep.封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/2/28/tpz_GOMEN_NASAI_ep.%E5%B0%81%E9%9D%A2.jpg/252px-tpz_GOMEN_NASAI_ep.%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="252" height="252" srcset="https://upload.thwiki.cc/thumb/2/28/tpz_GOMEN_NASAI_ep.%E5%B0%81%E9%9D%A2.jpg/378px-tpz_GOMEN_NASAI_ep.%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/2/28/tpz_GOMEN_NASAI_ep.%E5%B0%81%E9%9D%A2.jpg/504px-tpz_GOMEN_NASAI_ep.%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="512" data-file-height="512"></a><div class="cover-char">角色：<a href="./古明地恋.md" title="古明地恋">古明地恋</a></div></td>
 </tr><tr><td class="label">名称</td><td colspan="2"> tpz GOMEN NASAI ep. </td></tr><tr><td class="label">制作方</td><td><a href="./C.H.S.md" title="C.H.S">C.H.S</a></td><td class="cover-artwork" rowspan="9" style="min-width:252px;"><a href="./文件-tpz_GOMEN_NASAI_ep.封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/2/28/tpz_GOMEN_NASAI_ep.%E5%B0%81%E9%9D%A2.jpg/252px-tpz_GOMEN_NASAI_ep.%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="252" height="252" srcset="https://upload.thwiki.cc/thumb/2/28/tpz_GOMEN_NASAI_ep.%E5%B0%81%E9%9D%A2.jpg/378px-tpz_GOMEN_NASAI_ep.%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/2/28/tpz_GOMEN_NASAI_ep.%E5%B0%81%E9%9D%A2.jpg/504px-tpz_GOMEN_NASAI_ep.%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="512" data-file-height="512"></a><div class="cover-char">角色：<a href="./古明地恋.md" title="古明地恋">古明地恋</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2011-12-30&#160;（<a href="/展会作品列表?e=Comic+Market%2381">Comic Market 81</a>）</td></tr><tr><td class="label">类型</td><td>EP</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>3</td></tr><tr><td class="label">总时长</td><td>15:49</td></tr><tr><td class="label">风格类型</td><td>硬核</td></tr><tr><td class="label">售价</td><td>会场售价：100日元</td></tr>
+</tr><tr><td class="label">首发日期</td><td>2011-12-30 （<a href="./展会作品列表.md#81">Comic Market 81</a>）</td></tr><tr><td class="label">类型</td><td>EP</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>3</td></tr><tr><td class="label">总时长</td><td>15:49</td></tr><tr><td class="label">风格类型</td><td>硬核</td></tr><tr><td class="label">售价</td><td>会场售价：100日元</td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://c-h-s.me/?p=357">http://c-h-s.me/?p=357</a><br><span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span><small>（<a rel="nofollow" class="external text" href="https://web.archive.org/web/20121230075805/http://c-h-s.me/?m=201112">缓存页面</a>）</small></td></tr></tbody></table>
 
 tpz GOMEN NASAI ep.（同人专辑，C.H.S，2011） - 2011年12月30日 由 C.H.S 于 Comic Market 81 发布的EP同人专辑，曲目主要风格是 硬核，分级为 一般向
-
 ## Staff
   
- **Arrangement**   
+**Arrangement**  
 
 <table><tbody><tr><td><a href="./t+pazolite.md" title="t+pazolite">t+pazolite</a></td><td><a href="./C.H.S.md" title="C.H.S">C.H.S</a></td><td>Tr.1-3</td></tr></tbody></table>
 
   
- **Vocal**   
+**Vocal**  
 
 <table><tbody><tr><td><a href="./あゆ.md" title="あゆ">あゆ</a></td><td><a href="./IOSYS.md" title="IOSYS">IOSYS</a></td><td>Tr.2</td></tr><tr><td><a href="./Coda.md" title="Coda" unred="">coda（人物）</a></td><td><a href="./Antp.md" title="Antp">Antp</a></td><td>Tr.2</td></tr></tbody></table>
 
   
- **Lyrics**   
+**Lyrics**  
 
 <table><tbody><tr><td><a href="./t+pazolite.md" title="t+pazolite">t+pazolite</a></td><td><a href="./C.H.S.md" title="C.H.S">C.H.S</a></td><td>Tr.2</td></tr></tbody></table>
-
 
 Illustration
 : 虎 （すいーとみるくしぇいく (未找到链接)）
 
-
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoO"><b>01</b></td><td id="Luv_the_lUNatic??_(Straight_ReMix)" colspan="2" class="title">Luv the lUNatic?? (Straight ReMix)<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=t+pazolite，t+pazolite&amp;ogmusic=ハルトマンの妖怪少女，U.N.オーエンは彼女なのか？&amp;fromwiki=tpz_GOMEN_NASAI_ep."><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:57</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./t+pazolite.md" title="t+pazolite">t+pazolite</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，t+pazolite&amp;fromwiki=tpz_GOMEN_NASAI_ep."><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">再编曲</td><td class="text" colspan="2"><a href="./t+pazolite.md" title="t+pazolite">t+pazolite</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=t+pazolite&amp;fromwiki=tpz_GOMEN_NASAI_ep."><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">社团</td><td class="text" colspan="2"><a href="./蟲とLumpyとミュージックコンクリート.md" title="蟲とLumpyとミュージックコンクリート">蟲とLumpyとミュージックコンクリート</a></td></tr><tr><td class="left"></td><td class="label">初发布</td><td class="text" colspan="2"><a href="/%E8%9F%B2%E3%81%A8%E6%9D%B1%E6%96%B9%E3%81%A8%E7%B4%94%E8%A1%80%E3%82%B8%E3%83%A3%E3%83%A0#3" title="蟲と東方と純血ジャム">Luv the lUNatic??</a><div class="source"><a href="./蟲と東方と純血ジャム.md" title="蟲と東方と純血ジャム">蟲と東方と純血ジャム</a></div></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=ハルトマンの妖怪少女，U.N.オーエンは彼女なのか？&amp;fromwiki=tpz_GOMEN_NASAI_ep."><span></span></a></span><div class="ogmusic"><a href="./ハルトマンの妖怪少女.md" class="mw-redirect" title="ハルトマンの妖怪少女">ハルトマンの妖怪少女</a></div><div class="source"><a href="./东方地灵殿_～_Subterranean_Animism..md" class="mw-redirect" title="东方地灵殿 ～ Subterranean Animism.">东方地灵殿　～ Subterranean Animism.</a></div><hr><div class="ogmusic"><a href="./U.N.オーエンは彼女なのか？.md" class="mw-redirect" title="U.N.オーエンは彼女なのか？">U.N.オーエンは彼女なのか？</a></div><div class="source"><a href="./东方红魔乡_～_the_Embodiment_of_Scarlet_Devil..md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr>
-<tr><td id="2" class="infoO"><b>02</b></td><td id="Don&#39;t_Stop_This!_(Original_Mix)" colspan="2" class="title"><span class="new" title="（歌词页面不存在）"><a href="/index.php?title=%E6%AD%8C%E8%AF%8D:Don%27t_Stop_this!(Radio_Edit)&amp;boilerplate=模板:页面模板/曲目歌词&amp;action=edit">Don&#39;t Stop This! (Original Mix)</a></span><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=t+pazolite，t+pazolite&amp;vocal=あゆ，coda（人物）&amp;lyric=t+pazolite&amp;ogmusic=月まで届け、不死の煙&amp;fromwiki=tpz_GOMEN_NASAI_ep."><span title="搜索相似同人曲"></span></a></span></td><td class="time">07:47</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./t+pazolite.md" title="t+pazolite">t+pazolite</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，t+pazolite&amp;fromwiki=tpz_GOMEN_NASAI_ep."><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">再编曲</td><td class="text" colspan="2"><a href="./t+pazolite.md" title="t+pazolite">t+pazolite</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=t+pazolite&amp;fromwiki=tpz_GOMEN_NASAI_ep."><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="./あゆ.md" title="あゆ">あゆ</a>，<a href="./Coda.md" title="Coda" unred="">coda（人物）</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=あゆ，coda（人物）&amp;fromwiki=tpz_GOMEN_NASAI_ep."><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="./t+pazolite.md" title="t+pazolite">t+pazolite</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?lyric=t+pazolite&amp;fromwiki=tpz_GOMEN_NASAI_ep."><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">初发布</td><td class="text" colspan="2"><a href="/Samplejunk#4" title="Samplejunk">Don&#39;t Stop this!(Radio Edit)</a><div class="source"><a href="./Samplejunk.md" title="Samplejunk">Samplejunk</a></div></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=月まで届け、不死の煙&amp;fromwiki=tpz_GOMEN_NASAI_ep."><span></span></a></span><div class="ogmusic"><a href="./月まで届け、不死の煙.md" class="mw-redirect" title="月まで届け、不死の煙">月まで届け、不死の煙</a></div><div class="source"><a href="./东方永夜抄_～_Imperishable_Night..md" class="mw-redirect" title="东方永夜抄 ～ Imperishable Night.">东方永夜抄　～ Imperishable Night.</a></div></td></tr>
-<tr><td id="3" class="infoO"><b>03</b></td><td id="Forgotten_Field_(tpz_FunFunRemix)" colspan="2" class="title">Forgotten Field (tpz FunFunRemix)<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=t+pazolite&amp;ogmusic=神さびた古戦場　～ Suwa Foughten Field&amp;fromwiki=tpz_GOMEN_NASAI_ep."><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:05</td></tr><tr><td class="left"></td><td class="label">再编曲</td><td class="text" colspan="2"><a href="./t+pazolite.md" title="t+pazolite">t+pazolite</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=t+pazolite&amp;fromwiki=tpz_GOMEN_NASAI_ep."><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=神さびた古戦場　～ Suwa Foughten Field&amp;fromwiki=tpz_GOMEN_NASAI_ep."><span></span></a></span><div class="ogmusic"><a href="./神さびた古戦場_～_Suwa_Foughten_Field.md" class="mw-redirect" title="神さびた古戦場 ～ Suwa Foughten Field">神さびた古戦場　～ Suwa Foughten Field</a></div><div class="source"><a href="./东方风神录_～_Mountain_of_Faith..md" class="mw-redirect" title="东方风神录 ～ Mountain of Faith.">东方风神录　～ Mountain of Faith.</a></div></td></tr></tbody></table>
-
+<table><tbody><tr><td id="1" class="infoO"><b>01</b></td><td id="Luv_the_lUNatic??_(Straight_ReMix)" colspan="2" class="title">Luv the lUNatic?? (Straight ReMix)</td><td class="time">03:57</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./t+pazolite.md" title="t+pazolite">t+pazolite</a></td></tr><tr><td class="left"></td><td class="label">再编曲</td><td class="text" colspan="2"><a href="./t+pazolite.md" title="t+pazolite">t+pazolite</a></td></tr><tr><td class="left"></td><td class="label">社团</td><td class="text" colspan="2"><a href="./蟲とLumpyとミュージックコンクリート.md" title="蟲とLumpyとミュージックコンクリート">蟲とLumpyとミュージックコンクリート</a></td></tr><tr><td class="left"></td><td class="label">初发布</td><td class="text" colspan="2"><a href="./蟲と東方と純血ジャム.md#3" title="蟲と東方と純血ジャム">Luv the lUNatic??</a><div class="source"><a href="./蟲と東方と純血ジャム.md" title="蟲と東方と純血ジャム">蟲と東方と純血ジャム</a></div></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./哈德曼的妖怪少女.md" class="mw-redirect" title="ハルトマンの妖怪少女">ハルトマンの妖怪少女</a></div><div class="source"><a href="./东方地灵殿.md" class="mw-redirect" title="东方地灵殿 ～ Subterranean Animism.">东方地灵殿　～ Subterranean Animism.</a></div><hr><div class="ogmusic"><a href="./U.N.OWEN就是她吗？.md" class="mw-redirect" title="U.N.オーエンは彼女なのか？">U.N.オーエンは彼女なのか？</a></div><div class="source"><a href="./东方红魔乡.md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr>
+<tr><td id="2" class="infoO"><b>02</b></td><td id="Don&#39;t_Stop_This!_(Original_Mix)" colspan="2" class="title"><span class="new" title="（歌词页面不存在）"><a>Don't Stop This! (Original Mix)</a></span></td><td class="time">07:47</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./t+pazolite.md" title="t+pazolite">t+pazolite</a></td></tr><tr><td class="left"></td><td class="label">再编曲</td><td class="text" colspan="2"><a href="./t+pazolite.md" title="t+pazolite">t+pazolite</a></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="./あゆ.md" title="あゆ">あゆ</a>，<a href="./Coda.md" title="Coda" unred="">coda（人物）</a></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="./t+pazolite.md" title="t+pazolite">t+pazolite</a></td></tr><tr><td class="left"></td><td class="label">初发布</td><td class="text" colspan="2"><a href="./Samplejunk.md#4" title="Samplejunk">Don't Stop this!(Radio Edit)</a><div class="source"><a href="./Samplejunk.md" title="Samplejunk">Samplejunk</a></div></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./飘上月球，不死之烟.md" class="mw-redirect" title="月まで届け、不死の煙">月まで届け、不死の煙</a></div><div class="source"><a href="./东方永夜抄.md" class="mw-redirect" title="东方永夜抄 ～ Imperishable Night.">东方永夜抄　～ Imperishable Night.</a></div></td></tr>
+<tr><td id="3" class="infoO"><b>03</b></td><td id="Forgotten_Field_(tpz_FunFunRemix)" colspan="2" class="title">Forgotten Field (tpz FunFunRemix)</td><td class="time">04:05</td></tr><tr><td class="left"></td><td class="label">再编曲</td><td class="text" colspan="2"><a href="./t+pazolite.md" title="t+pazolite">t+pazolite</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./神圣庄严的古战场_～_Suwa_Foughten_Field.md" class="mw-redirect" title="神さびた古戦場 ～ Suwa Foughten Field">神さびた古戦場　～ Suwa Foughten Field</a></div><div class="source"><a href="./东方风神录.md" class="mw-redirect" title="东方风神录 ～ Mountain of Faith.">东方风神录　～ Mountain of Faith.</a></div></td></tr></tbody></table>
 
 
 ## 评论
-
-
-
 
 ---
 

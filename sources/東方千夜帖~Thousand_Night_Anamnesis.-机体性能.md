@@ -1,11 +1,10 @@
 # 東方千夜帖~Thousand_Night_Anamnesis./机体性能
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\9\92\ns0%3A%E6%9D%B1%E6%96%B9%E5%8D%83%E5%A4%9C%E5%B8%96%7EThousand_Night_Anamnesis%2E%2F%E6%9C%BA%E4%BD%93%E6%80%A7%E8%83%BD.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\9\92\ns0%3A%E6%9D%B1%E6%96%B9%E5%8D%83%E5%A4%9C%E5%B8%96%7EThousand_Night_Anamnesis%2E%2F%E6%9C%BA%E4%BD%93%E6%80%A7%E8%83%BD.html -->
 
 サラダ | 待完成页面
 
 <center>
-
 <table>
 <tbody><tr>
 <td class="mbox-image"><div style="width: 52px;">
@@ -14,12 +13,9 @@
 </tr>
 </tbody></table>
 
-
 </center>
-
 ### 机体分析
 综合
-
   
 本游戏不同机体射击方式及伤害有所不同，不同的角色也有不同的bomb及特性。每个机体特点不同，在不同环境下都可以起作用。  
 
@@ -28,11 +24,8 @@
 机体放b时能够出现立绘，需要去设置中调整。  
 
 机体信息详细可以看[自机列表](./東方千夜帖~Thousand_Night_Anamnesis.-自机列表.md)  
-
   
-
 灵梦
-
   
 特性：中弹判定小  
 
@@ -44,9 +37,7 @@ bomb属性：伤害b，范围b，持久b，稳定a
 
 灵梦的bomb旋转和爆炸都有伤害，不过要注意，该bomb攻击乱跑的boss有一定难度。
   
-
 魔理沙
-
   
 特性：道具收集线低  
 
@@ -58,9 +49,7 @@ bomb属性：伤害a，范围b，持久b，稳定b
 
 魔理沙的bomb伤害可观，远攻伤害更大，可以打掉boss3/4左右的血，不命中boss不产生伤害。但是boss乱跑的话伤害会减低。另外魔理沙在放b时可以移动，但是速度极慢
   
-
 早苗
-
   
 特性：在bomb中收取点符得分更高（注：早苗收蓝点的得分确实比其他机体高，但是是否是在bomb中收点编者也不太确定）  
 
@@ -70,9 +59,7 @@ bomb属性：伤害b，范围a，持久b，稳定a
 
 苗b:扩散攻击，通常情况下火力不错，但是扩散弹的火力较差，因此应当尽可能对着boss打。
   
-
 咲夜
-
   
 特性：在屏幕上方使用bomb伤害提升  
 
@@ -81,13 +68,10 @@ bomb属性：伤害c，范围a，持久c，稳定a
 咲a:诱导弹有一定延迟，但主火力也不高，还是尽量主副共用吧。  
 
 咲b:主火力方向不变，副火力会跟着自机产生角度偏移，比如自机在屏幕左边，子机弹也会往左偏，若自机一直在屏幕左边则一直不改变。  
-
   
-
-[](./文件-東方千夜帖-在顶部放B示意图.png.md)  [](./文件-東方千夜帖-在顶部放B示意图.png.md)在顶部放b
-[](./文件-東方千夜帖-在底部放B示意图.png.md)  [](./文件-東方千夜帖-在底部放B示意图.png.md)在底部放b
-铃仙
-
+<img alt="" src="https://upload.thwiki.cc/thumb/5/53/%E6%9D%B1%E6%96%B9%E5%8D%83%E5%A4%9C%E5%B8%96-%E5%9C%A8%E9%A1%B6%E9%83%A8%E6%94%BEB%E7%A4%BA%E6%84%8F%E5%9B%BE.png/300px-%E6%9D%B1%E6%96%B9%E5%8D%83%E5%A4%9C%E5%B8%96-%E5%9C%A8%E9%A1%B6%E9%83%A8%E6%94%BEB%E7%A4%BA%E6%84%8F%E5%9B%BE.png" decoding="async" loading="lazy" width="300" height="432" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/5/53/%E6%9D%B1%E6%96%B9%E5%8D%83%E5%A4%9C%E5%B8%96-%E5%9C%A8%E9%A1%B6%E9%83%A8%E6%94%BEB%E7%A4%BA%E6%84%8F%E5%9B%BE.png/450px-%E6%9D%B1%E6%96%B9%E5%8D%83%E5%A4%9C%E5%B8%96-%E5%9C%A8%E9%A1%B6%E9%83%A8%E6%94%BEB%E7%A4%BA%E6%84%8F%E5%9B%BE.png 1.5x, https://upload.thwiki.cc/thumb/5/53/%E6%9D%B1%E6%96%B9%E5%8D%83%E5%A4%9C%E5%B8%96-%E5%9C%A8%E9%A1%B6%E9%83%A8%E6%94%BEB%E7%A4%BA%E6%84%8F%E5%9B%BE.png/600px-%E6%9D%B1%E6%96%B9%E5%8D%83%E5%A4%9C%E5%B8%96-%E5%9C%A8%E9%A1%B6%E9%83%A8%E6%94%BEB%E7%A4%BA%E6%84%8F%E5%9B%BE.png 2x" data-file-width="1640" data-file-height="2360">
+ [放大](./文件-東方千夜帖-在顶部放B示意图.png.md)在顶部放b<img alt="" src="https://upload.thwiki.cc/thumb/e/e0/%E6%9D%B1%E6%96%B9%E5%8D%83%E5%A4%9C%E5%B8%96-%E5%9C%A8%E5%BA%95%E9%83%A8%E6%94%BEB%E7%A4%BA%E6%84%8F%E5%9B%BE.png/300px-%E6%9D%B1%E6%96%B9%E5%8D%83%E5%A4%9C%E5%B8%96-%E5%9C%A8%E5%BA%95%E9%83%A8%E6%94%BEB%E7%A4%BA%E6%84%8F%E5%9B%BE.png" decoding="async" loading="lazy" width="300" height="432" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/e/e0/%E6%9D%B1%E6%96%B9%E5%8D%83%E5%A4%9C%E5%B8%96-%E5%9C%A8%E5%BA%95%E9%83%A8%E6%94%BEB%E7%A4%BA%E6%84%8F%E5%9B%BE.png/450px-%E6%9D%B1%E6%96%B9%E5%8D%83%E5%A4%9C%E5%B8%96-%E5%9C%A8%E5%BA%95%E9%83%A8%E6%94%BEB%E7%A4%BA%E6%84%8F%E5%9B%BE.png 1.5x, https://upload.thwiki.cc/thumb/e/e0/%E6%9D%B1%E6%96%B9%E5%8D%83%E5%A4%9C%E5%B8%96-%E5%9C%A8%E5%BA%95%E9%83%A8%E6%94%BEB%E7%A4%BA%E6%84%8F%E5%9B%BE.png/600px-%E6%9D%B1%E6%96%B9%E5%8D%83%E5%A4%9C%E5%B8%96-%E5%9C%A8%E5%BA%95%E9%83%A8%E6%94%BEB%E7%A4%BA%E6%84%8F%E5%9B%BE.png 2x" data-file-width="1640" data-file-height="2360">
+ [放大](./文件-東方千夜帖-在底部放B示意图.png.md)在底部放b铃仙
   
 特性：miss时如持有bomb可造成额外伤害  
 
@@ -97,9 +81,7 @@ bomb属性：伤害b，范围c，持久a，稳定b
 
 铃b：相对来说射击集中一些，射击会贯穿，火力相比铃a要强，射击范围也不大不小。
   
-
 妖梦
-
   
 特性：初始携带bomb为4个  
 
@@ -111,9 +93,7 @@ bomb属性：伤害b，范围a，持久b，稳定c
 
 妖梦的bomb伤害还可以，但是不一定能完全打到敌机身上。由于bomb相对多，拼拼决死也不错。
   
-
 文
-
   
 特性：miss后一定时间内攻击力提升  
 
@@ -125,9 +105,7 @@ bomb属性：伤害a，范围c，持久a，稳定b
 
 文的bomb范围较小，远离敌机的话只能消弹，贴脸发b可以给敌机不少伤害，算是伤害挺高的bomb。
   
-
 正邪
-
   
 特性：非常可爱  
 
@@ -137,9 +115,7 @@ bomb属性：伤害a，范围b，持久b，稳定c
 
 正邪的bomb体现为自己向前方进行扇形轰炸。范围不是特别大，但是伤害很高，如果想给敌机送出高伤害的话就尽量离敌机近一点。该bomb不会跟着自机移动。
   
-
 琪露诺
-
   
 特性：擦弹范围大  
 
@@ -151,9 +127,7 @@ bomb属性：伤害b，范围b，持久b，稳定b
 
 琪露诺的bomb不会跟着自机移动，如果想要炸敌机建议离敌机近一点。刷分的话可以放个b（不要堵住发弹点），然后借着bomb期间无敌冲上去拼命擦弹。
   
-
 八云紫
-
   
 特性：使用bomb后无敌时间长  
 
@@ -165,9 +139,7 @@ bomb属性：伤害b，范围b，持久b，稳定c
 
 紫的bomb如果要给boss伤害，也不一定要对在结界框上，结界内部也有伤害。
   
-
 爱丽丝
-
   
 特性：收道具范围大  
 
@@ -176,11 +148,8 @@ bomb属性：伤害c，范围a，持久b，稳定a
 爱a：远距离火力极强，但是射击范围窄，在一些需要全屏扫的地方可能不利（例如爱丽丝战，爱a如果只对着boss打会导致清理不了人偶从而加大避弹压力，如果专门清理人偶容易打不着boss）。另外，由于爱a火力太强，很多攻击都可以很快击破，不是很方便练习，因此建议在有底力基础以后再使用。  
 
 爱b：扩散射击，火力不咋地，扩散的光线还行。  
-
   
-
 蕾米利亚
-
   
 特性：miss后bomb威力提升  
 
@@ -189,11 +158,8 @@ bomb属性:伤害b，范围b，持久a，稳定b
 蕾a：射击会缓慢且不断改变范围，对boss的伤害也会随着射击的集中程度而改变，总之火力不是很稳定，从而导致输出不是很高  
 
 蕾b：火力在自机不移动的情况下一直都是集中的，相对好一些，但当自机移动后子机会在移动前的位置固定几秒，之后才会回归自机身旁，在子机不在的这段时间里自机只能靠主炮输出，火力遭削。  
-
   
-
 幽幽子
-
   
 特性：击破boss后获得bomb  
 
@@ -207,10 +173,6 @@ bomb属性：伤害c，范围a，持久a，稳定a
 
 关于幽幽子的机体特性，需要注意的是击破boss才能奖b而不是击破一波非符或者符卡攻击，所以总的来看奖的b也不是很多（但得到资源补充还是很不错的）
   
-
-
-
-
 
 ---
 

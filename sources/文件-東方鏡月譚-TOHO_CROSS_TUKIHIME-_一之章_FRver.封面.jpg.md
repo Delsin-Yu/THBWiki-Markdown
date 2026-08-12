@@ -1,6 +1,6 @@
 # 文件:東方鏡月譚-TOHO_CROSS_TUKIHIME-_一之章_FRver.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ec\ns6%3A%E6%9D%B1%E6%96%B9%E9%8F%A1%E6%9C%88%E8%AD%9A-TOHO_CROSS_TUKIHIME-_%E4%B8%80%E4%B9%8B%E7%AB%A0_FRver%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ec\ns6%3A%E6%9D%B1%E6%96%B9%E9%8F%A1%E6%9C%88%E8%AD%9A-TOHO_CROSS_TUKIHIME-_%E4%B8%80%E4%B9%8B%E7%AB%A0_FRver%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 SAVE+MIND | 封面图片 | 软件封面
 
@@ -10,16 +10,12 @@ SAVE+MIND | 封面图片 | 软件封面
 使用了本文件作封面图片的作品：
   
 
-- [東方鏡月譚-TOHO CROSS TUKIHIME- 一之章 FRver.](./東方鏡月譚-TOHO_CROSS_TUKIHIME-_一之章_FRver..md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- 爱尔奎特·布伦史塔德 (未找到链接)
+- [東方鏡月譚-TOHO CROSS TUKIHIME- 一之章 FRver.](./東方鏡月譚-TOHO_CROSS_TUKIHIME-_一之章_FRver..md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- 爱尔奎特·布伦史塔德 (未找到链接)
 
   
-源地址：[direct image link](https://web.archive.org/web/20061230002547im_/http://www13.plala.or.jp/savemind/kyogetsu/image/pa_s.jpg), [source page](https://web.archive.org/web/20060111142820/http://www13.plala.or.jp/savemind/kyogetsu/index.htm)
-  
-
-
-
-
+源地址：[direct image link](https://web.archive.org/web/20061230002547im_/http://www13.plala.or.jp/savemind/kyogetsu/image/pa_s.jpg), [source page](https://web.archive.org/web/20060111142820/http://www13.plala.or.jp/savemind/kyogetsu/index.htm)  
 
 ---
 

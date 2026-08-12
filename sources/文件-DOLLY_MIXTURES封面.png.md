@@ -1,6 +1,6 @@
 # 文件:DOLLY_MIXTURES封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\38\ns6%3ADOLLY_MIXTURES%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\38\ns6%3ADOLLY_MIXTURES%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Meme_in_Wonderland. | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ Meme_in_Wonderland. | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [DOLLY MIXTURES](./DOLLY_MIXTURES.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [东风谷早苗](./东风谷早苗.md)
-
-
-
+- [DOLLY MIXTURES](./DOLLY_MIXTURES.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [东风谷早苗](./东风谷早苗.md)
 
 
 ---

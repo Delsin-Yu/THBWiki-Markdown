@@ -1,14 +1,11 @@
 # 文件:水銀革命banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\07\ns6%3A%E6%B0%B4%E9%8A%80%E9%9D%A9%E5%91%BDbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\07\ns6%3A%E6%B0%B4%E9%8A%80%E9%9D%A9%E5%91%BDbanner%2Ejpg.html -->
 
 水銀革命 | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

@@ -1,12 +1,8 @@
 # 文件:圣水「Dream_Sabão_Blaster」.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e8\ns6%3A%E5%9C%A3%E6%B0%B4%E3%80%8CDream_Sab%C3%A3o_Blaster%E3%80%8D%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e8\ns6%3A%E5%9C%A3%E6%B0%B4%E3%80%8CDream_Sab%C3%A3o_Blaster%E3%80%8D%2Ejpg.html -->
 
 東方邪星章製作チーム
-
-
-
-
 
 
 ---

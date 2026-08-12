@@ -1,6 +1,6 @@
 # 文件:THE_BEST_FROM_電子弦奏_I_-_IV_ファントムマスク・ギフト封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\02\ns6%3ATHE_BEST_FROM_%E9%9B%BB%E5%AD%90%E5%BC%A6%E5%A5%8F_I_-_IV_%E3%83%95%E3%82%A1%E3%83%B3%E3%83%88%E3%83%A0%E3%83%9E%E3%82%B9%E3%82%AF%E3%83%BB%E3%82%AE%E3%83%95%E3%83%88%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\02\ns6%3ATHE_BEST_FROM_%E9%9B%BB%E5%AD%90%E5%BC%A6%E5%A5%8F_I_-_IV_%E3%83%95%E3%82%A1%E3%83%B3%E3%83%88%E3%83%A0%E3%83%9E%E3%82%B9%E3%82%AF%E3%83%BB%E3%82%AE%E3%83%95%E3%83%88%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ゼッケン屋 | 专辑封面 | 封面图片 | 狐梦想屋
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [THE BEST FROM 電子弦奏 I - IV ファントムマスク・ギフト](./THE_BEST_FROM_電子弦奏_I_-_IV_ファントムマスク・ギフト.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)
-
-
-
+- [THE BEST FROM 電子弦奏 I - IV ファントムマスク・ギフト](./THE_BEST_FROM_電子弦奏_I_-_IV_ファントムマスク・ギフト.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Eternal_ICE_Dance封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3c\ns6%3AEternal_ICE_Dance%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3c\ns6%3AEternal_ICE_Dance%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ナトリニウム | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Eternal ICE Dance](./Eternal_ICE_Dance.md)  
-该封面包含的角色：- [神绮](./神绮.md)
+- [Eternal ICE Dance](./Eternal_ICE_Dance.md)该封面包含的角色：
+- [神绮](./神绮.md)
 
   
-源地址：[direct image link](https://static.wixstatic.com/media/5c8784_30a02f30cc424ce1858221f1fdd1e1a7~mv2.jpg), [source page](https://www.natrinium.xyz/doujin-art)
-  
-
-
-
-
+源地址：[direct image link](https://static.wixstatic.com/media/5c8784_30a02f30cc424ce1858221f1fdd1e1a7~mv2.jpg), [source page](https://www.natrinium.xyz/doujin-art)  
 
 ---
 

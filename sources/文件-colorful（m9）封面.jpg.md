@@ -1,6 +1,6 @@
 # 文件:colorful（m9）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e0\ns6%3Acolorful%EF%BC%88m9%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e0\ns6%3Acolorful%EF%BC%88m9%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 m9 | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ m9 | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [colorful（m9）](./colorful（m9）.md)  
-该封面包含的角色：- [小恶魔](./小恶魔.md)
+- [colorful（m9）](./colorful（m9）.md)该封面包含的角色：
+- [小恶魔](./小恶魔.md)
 
   
-源地址：[[1]](http://kidm9.web.fc2.com/img/mqcd0005.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://kidm9.web.fc2.com/img/mqcd0005.jpg)  
 
 ---
 

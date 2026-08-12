@@ -1,14 +1,11 @@
 # 文件:極SPEED'zlogo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\33\ns6%3A%E6%A5%B5SPEED%27zlogo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\33\ns6%3A%E6%A5%B5SPEED%27zlogo%2Epng.html -->
 
 極SPEED'z | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

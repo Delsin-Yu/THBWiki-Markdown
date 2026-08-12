@@ -1,16 +1,12 @@
 # 模板:RTZ
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\3\33\ns10%3ARTZ.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\3\33\ns10%3ARTZ.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:豊聡耳さま！tntn！封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\71\ns6%3A%E8%B1%8A%E8%81%A1%E8%80%B3%E3%81%95%E3%81%BE%EF%BC%81tntn%EF%BC%81%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\71\ns6%3A%E8%B1%8A%E8%81%A1%E8%80%B3%E3%81%95%E3%81%BE%EF%BC%81tntn%EF%BC%81%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 提灯餡子
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [豊聡耳さま！tntn！](./豊聡耳さま！tntn！.md)  
-该封面包含的角色：- [丰聪耳神子](./丰聪耳神子.md)
-
-
-
+- [豊聡耳さま！tntn！](./豊聡耳さま！tntn！.md)该封面包含的角色：
+- [丰聪耳神子](./丰聪耳神子.md)
 
 
 ---

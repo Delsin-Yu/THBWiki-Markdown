@@ -1,6 +1,6 @@
 # 文件:Full_Color_Vol.1_~Flower~封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\84\ns6%3AFull_Color_Vol%2E1_%7EFlower%7E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\84\ns6%3AFull_Color_Vol%2E1_%7EFlower%7E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 LiveLiqueur | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ LiveLiqueur | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Full Color Vol.1 ~Flower~](./Full_Color_Vol.1_~Flower~.md)  
-该封面包含的角色：- [古明地恋](./古明地恋.md)
-
-
-
+- [Full Color Vol.1 ~Flower~](./Full_Color_Vol.1_~Flower~.md)该封面包含的角色：
+- [古明地恋](./古明地恋.md)
 
 
 ---

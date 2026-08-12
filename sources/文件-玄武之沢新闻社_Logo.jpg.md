@@ -1,16 +1,12 @@
 # 文件:玄武之沢新闻社_Logo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\38\ns6%3A%E7%8E%84%E6%AD%A6%E4%B9%8B%E6%B2%A2%E6%96%B0%E9%97%BB%E7%A4%BE_Logo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\38\ns6%3A%E7%8E%84%E6%AD%A6%E4%B9%8B%E6%B2%A2%E6%96%B0%E9%97%BB%E7%A4%BE_Logo%2Ejpg.html -->
 
 玄武之沢新闻社 | 社团LOGO
 
   
 玄武之沢新闻社Logo
   
-
-
-
-
 
 ---
 

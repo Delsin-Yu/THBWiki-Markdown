@@ -1,12 +1,8 @@
 # 文件:Group_of_Doujin_Game_Developers_LOGO.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c7\ns6%3AGroup_of_Doujin_Game_Developers_LOGO%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c7\ns6%3AGroup_of_Doujin_Game_Developers_LOGO%2Epng.html -->
 
 Group_of_Doujin_Game_Developers | 活动LOGO
-
-
-
-
 
 
 ---

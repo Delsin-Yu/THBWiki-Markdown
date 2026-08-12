@@ -1,11 +1,10 @@
 # 童祭_～_for_Wedding
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\f9\ns0%3A%E7%AB%A5%E7%A5%AD_%EF%BD%9E_for_Wedding.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\f9\ns0%3A%E7%AB%A5%E7%A5%AD_%EF%BD%9E_for_Wedding.html -->
 
 引用了翻译表的页面 | 无官方MIDI曲目 | 童祭_～_for_Wedding
 
-本页是关于与ZUN有一定关联的东方同人作品 (未找到链接)的词条
-
+本页是关于[与ZUN有一定关联的东方同人作品](./其他ZUN参与的作品.md#东方Project的二次创作)的词条
 ## 目录
 
 - [1 概述](#概述)
@@ -18,17 +17,13 @@
 - [8 注释](#注释)
 
 
-
-
-
 ## 概述
-[](./文件-童祭_～_for_Wedding合同企划壁纸1.png.md)  [](./文件-童祭_～_for_Wedding合同企划壁纸1.png.md)童祭 ～ for Wedding
-  
-<big> **童祭 ～ for Wedding** </big>（童祭 〜 for Wedding）是[博丽神社事务所](./博丽神社事务所.md)的企划，由多个社团共同创作的[童祭 ～ Innocent Treasures](./童祭_～_Innocent_Treasures.md)的二次同人曲。  
+<img alt="" src="https://upload.thwiki.cc/thumb/8/86/%E7%AB%A5%E7%A5%AD_%EF%BD%9E_for_Wedding%E5%90%88%E5%90%8C%E4%BC%81%E5%88%92%E5%A3%81%E7%BA%B81.png/300px-%E7%AB%A5%E7%A5%AD_%EF%BD%9E_for_Wedding%E5%90%88%E5%90%8C%E4%BC%81%E5%88%92%E5%A3%81%E7%BA%B81.png" decoding="async" loading="lazy" width="300" height="169" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/8/86/%E7%AB%A5%E7%A5%AD_%EF%BD%9E_for_Wedding%E5%90%88%E5%90%8C%E4%BC%81%E5%88%92%E5%A3%81%E7%BA%B81.png/450px-%E7%AB%A5%E7%A5%AD_%EF%BD%9E_for_Wedding%E5%90%88%E5%90%8C%E4%BC%81%E5%88%92%E5%A3%81%E7%BA%B81.png 1.5x, https://upload.thwiki.cc/thumb/8/86/%E7%AB%A5%E7%A5%AD_%EF%BD%9E_for_Wedding%E5%90%88%E5%90%8C%E4%BC%81%E5%88%92%E5%A3%81%E7%BA%B81.png/600px-%E7%AB%A5%E7%A5%AD_%EF%BD%9E_for_Wedding%E5%90%88%E5%90%8C%E4%BC%81%E5%88%92%E5%A3%81%E7%BA%B81.png 2x" data-file-width="1920" data-file-height="1080">
+ [放大](./文件-童祭_～_for_Wedding合同企划壁纸1.png.md)童祭 ～ for Wedding  
+<big>**童祭 ～ for Wedding**</big>（童祭 〜 for Wedding）是[博丽神社事务所](./博丽神社事务所.md)的企划，由多个社团共同创作的[童祭 ～ Innocent Treasures](./童祭_～_Innocent_Treasures.md)的二次同人曲。  
 
 曲子为庆祝[ZUN](./ZUN.md)结婚而创作。
   
-
 
 ## 音乐文件
 
@@ -40,7 +35,6 @@
 </td></tr></tbody></table>
 
 
-
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-童祭_～_for_Wedding_Off_Vocal.mp3.md" title="文件:童祭 ～ for Wedding Off Vocal.mp3">童祭 ～ for Wedding Off Vocal.mp3</a><br><audio src="https://upload.thwiki.cc/0/08/%E7%AB%A5%E7%A5%AD_%EF%BD%9E_for_Wedding_Off_Vocal.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>无</td></tr><tr><td><b>附加信息</b></td><td><div class="mw-collapsible mw-collapsed">
 <p><b>附加信息</b>
 </p>
@@ -49,9 +43,9 @@
 </td></tr></tbody></table>
 
 
-
 ## 公布信息
-[](./文件-童祭_～_for_Wedding合同企划壁纸2.jpg.md)  [](./文件-童祭_～_for_Wedding合同企划壁纸2.jpg.md)童祭 ～ for Wedding
+<img alt="" src="https://upload.thwiki.cc/thumb/1/1d/%E7%AB%A5%E7%A5%AD_%EF%BD%9E_for_Wedding%E5%90%88%E5%90%8C%E4%BC%81%E5%88%92%E5%A3%81%E7%BA%B82.jpg/300px-%E7%AB%A5%E7%A5%AD_%EF%BD%9E_for_Wedding%E5%90%88%E5%90%8C%E4%BC%81%E5%88%92%E5%A3%81%E7%BA%B82.jpg" decoding="async" loading="lazy" width="300" height="169" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/1/1d/%E7%AB%A5%E7%A5%AD_%EF%BD%9E_for_Wedding%E5%90%88%E5%90%8C%E4%BC%81%E5%88%92%E5%A3%81%E7%BA%B82.jpg/450px-%E7%AB%A5%E7%A5%AD_%EF%BD%9E_for_Wedding%E5%90%88%E5%90%8C%E4%BC%81%E5%88%92%E5%A3%81%E7%BA%B82.jpg 1.5x, https://upload.thwiki.cc/thumb/1/1d/%E7%AB%A5%E7%A5%AD_%EF%BD%9E_for_Wedding%E5%90%88%E5%90%8C%E4%BC%81%E5%88%92%E5%A3%81%E7%BA%B82.jpg/600px-%E7%AB%A5%E7%A5%AD_%EF%BD%9E_for_Wedding%E5%90%88%E5%90%8C%E4%BC%81%E5%88%92%E5%A3%81%E7%BA%B82.jpg 2x" data-file-width="1280" data-file-height="720">
+ [放大](./文件-童祭_～_for_Wedding合同企划壁纸2.jpg.md)童祭 ～ for Wedding
 - 2012年4月27日在Youtube上传了On Vocal版[^cite_note-1]。
 - 2012年5月6日在Youtube上传了Off Vocal版[^cite_note-2]。
 - 2012年5月27日在第九回博丽神社例大祭上进行了合唱。
@@ -60,12 +54,9 @@
 : 15:50 合唱开始
 : 16:00 企划结束
 
-
 ## 歌词
   
- **主词条：[歌词:童祭 ～ for Wedding](./歌词-童祭_～_for_Wedding.md)** 
-  
-
+**主词条：[歌词:童祭 ～ for Wedding](./歌词-童祭_～_for_Wedding.md)**  
 ありがとう　ありがとう<ruby lang="ja"><rb>博</rb><rp> (</rp><rt>ひろ</rt><rp>) </rp></ruby>
 く<ruby lang="ja"><rb>麗</rb><rp> (</rp><rt>うるわ</rt><rp>) </rp></ruby>
 しい<ruby lang="ja"><rb>人間</rb><rp> (</rp><rt>にんげん</rt><rp>) </rp></ruby>
@@ -83,14 +74,13 @@
 ります　お<ruby lang="ja"><rb>祝</rb><rp> (</rp><rt>いわ</rt><rp>) </rp></ruby>
 いの<ruby lang="ja"><rb>言葉</rb><rp> (</rp><rt>ことば</rt><rp>) </rp></ruby>
 を
-
 ## Staff
 编曲
 : [あきやまうに](./あきやまうに.md)（[黄昏边境](./黄昏边境.md)）
 作词
 : [どぶウサギ](./どぶウサギ.md)（[dBu music](./dBu_music.md)）
 演唱（On Vocal ver）
-: [ビートまりお](./ビートまりお.md)（[COOL&amp;CREATE](./COOL&CREATE.md)）
+: [ビートまりお](./ビートまりお.md)（[COOL&CREATE](./COOL&CREATE.md)）
 : [hellnian](./hellnian.md)（[石鹸屋](./石鹸屋.md)）
 : 厚志 (未找到链接)（[石鹸屋](./石鹸屋.md)）
 : [あにー](./あにー.md)（[TaNaBaTa](./TaNaBaTa.md)）
@@ -108,7 +98,6 @@ Mix
 Illustration
 : [TOKIAME](./TOKIAME.md)
 
-
 ## 视频
 
 <table>
@@ -121,7 +110,6 @@ Illustration
 </td></tr></tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
@@ -132,21 +120,12 @@ Illustration
 </td></tr></tbody></table>
 
 
-
 ## 外部链接
+
 - [公式特设页面](https://reitaisai.com/event/index.html)（已经失效）<small>（[缓存页面](https://web.archive.org/web/20120619025012/http://reitaisai.com:80/event/index.html)）</small>
 
-
 [^cite_note-1]: YouTube：[童祭 〜 for Wedding On Vocal](https://www.youtube.com/watch?v=8sGgffiuFXY)．
-
-  
-  
-
-  
-
-
-
-
+[^cite_note-2]: YouTube：[童祭 〜 for Wedding Off Vocal](https://www.youtube.com/watch?v=r-jepzKdWwc)．
 
 ---
 

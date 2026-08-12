@@ -1,12 +1,8 @@
 # 文件:GoM插图（四季-2-3）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e7\ns6%3AGoM%E6%8F%92%E5%9B%BE%EF%BC%88%E5%9B%9B%E5%AD%A3-2-3%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e7\ns6%3AGoM%E6%8F%92%E5%9B%BE%EF%BC%88%E5%9B%9B%E5%AD%A3-2-3%EF%BC%89%2Ejpg.html -->
 
 四季映姬·夜摩仙那度 | 魔理沙的魔法书
-
-
-
-
 
 
 ---

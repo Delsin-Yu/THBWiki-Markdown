@@ -1,12 +1,8 @@
 # 文件:双月亭banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bd\ns6%3A%E5%8F%8C%E6%9C%88%E4%BA%ADbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bd\ns6%3A%E5%8F%8C%E6%9C%88%E4%BA%ADbanner%2Ejpg.html -->
 
 双月亭 | 社团LOGO
-
-
-
-
 
 
 ---

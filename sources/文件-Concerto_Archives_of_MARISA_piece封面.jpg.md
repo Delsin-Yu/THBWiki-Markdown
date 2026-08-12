@@ -1,6 +1,6 @@
 # 文件:Concerto_Archives_of_MARISA_piece封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\55\ns6%3AConcerto_Archives_of_MARISA_piece%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\55\ns6%3AConcerto_Archives_of_MARISA_piece%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 弦奏水琴乐章
 
@@ -11,9 +11,6 @@
   
 
 - [Concerto Archives of MARISA piece](./Concerto_Archives_of_MARISA_piece.md)
-
-
-
 
 
 ---

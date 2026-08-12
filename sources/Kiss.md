@@ -1,48 +1,35 @@
 # Kiss
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\41\ns0%3AKiss.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\41\ns0%3AKiss.html -->
 
 2022年10月9日 由 モノクロームシアター 于 东方红楼梦18 发布的漫画同人志，B5尺寸一共24页，登场人物有 雾雨魔理沙、博丽灵梦，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人志 (未找到链接)** 的词条
-
+**[二次创作同人志](./二次创作.md#同人志)**的词条
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Kiss封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/4/4d/Kiss%E5%B0%81%E9%9D%A2.jpg/159px-Kiss%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="159" height="224" srcset="https://upload.thwiki.cc/thumb/4/4d/Kiss%E5%B0%81%E9%9D%A2.jpg/239px-Kiss%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/4/4d/Kiss%E5%B0%81%E9%9D%A2.jpg/319px-Kiss%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="774" data-file-height="1087"></a><div class="cover-char">角色：<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a>，<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></div></td>
 </tr><tr><td class="label">名称</td><td colspan="2"> Kiss </td></tr><tr><td class="label">制作方</td><td><a href="./モノクロームシアター.md" title="モノクロームシアター">モノクロームシアター</a></td><td class="cover-artwork" rowspan="8" style="min-width:224px;"><a href="./文件-Kiss封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/4/4d/Kiss%E5%B0%81%E9%9D%A2.jpg/159px-Kiss%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="159" height="224" srcset="https://upload.thwiki.cc/thumb/4/4d/Kiss%E5%B0%81%E9%9D%A2.jpg/239px-Kiss%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/4/4d/Kiss%E5%B0%81%E9%9D%A2.jpg/319px-Kiss%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="774" data-file-height="1087"></a><div class="cover-char">角色：<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a>，<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2022-10-09&#160;（<a href="/展会作品列表?e=%E4%B8%9C%E6%96%B9%E7%BA%A2%E6%A5%BC%E6%A2%A6%2318">東方紅楼夢18</a>）</td></tr><tr><td class="label">类型</td><td>漫画</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>B5</td></tr><tr><td class="label">页数</td><td>24P</td></tr><tr><td class="label">登场人物</td><td><a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a>，<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></td></tr><tr><td class="label">售价</td><td>通贩售价：1300日元</td></tr>
+</tr><tr><td class="label">首发日期</td><td>2022-10-09 （<a href="./展会作品列表.md#18">東方紅楼夢18</a>）</td></tr><tr><td class="label">类型</td><td>漫画</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>B5</td></tr><tr><td class="label">页数</td><td>24P</td></tr><tr><td class="label">登场人物</td><td><a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a>，<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></td></tr><tr><td class="label">售价</td><td>通贩售价：1300日元</td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/nekurodayo/status/1577629384118194178">https://twitter.com/nekurodayo/status/1577629384118194178</a><br><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/101751263">https://www.pixiv.net/artworks/101751263</a></td></tr></tbody></table>
 
 Kiss（同人志，モノクロームシアター，2022） - 2022年10月9日 由 モノクロームシアター 于 东方红楼梦18 发布的漫画同人志，B5尺寸一共24页，登场人物有 雾雨魔理沙、博丽灵梦，分级为 一般向
-
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=1663880">蜜瓜</a></td></tr></tbody></table>
-
 
 
 ## 预览
 
 ## Staff
+
 - [根黒](./根黒.md)
 
 
 ## 评论
-
   
- **社团在蜜瓜上的评论** ：  
+**社团在蜜瓜上的评论**：  
 
 霊夢と魔理沙のショートカラー漫画とイラスト集です。
   
-
-
-  
-  
-
-  
-
-
-
-
 
 ---
 

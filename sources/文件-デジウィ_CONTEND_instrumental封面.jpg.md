@@ -1,6 +1,6 @@
 # 文件:デジウィ_CONTEND_instrumental封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6a\ns6%3A%E3%83%87%E3%82%B8%E3%82%A6%E3%82%A3_CONTEND_instrumental%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6a\ns6%3A%E3%83%87%E3%82%B8%E3%82%A6%E3%82%A3_CONTEND_instrumental%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 DiGiTAL_WiNG | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ DiGiTAL_WiNG | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [デジウィ CONTEND instrumental](./デジウィ_CONTEND_instrumental.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)
-
-
-
+- [デジウィ CONTEND instrumental](./デジウィ_CONTEND_instrumental.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
 
 
 ---

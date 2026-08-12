@@ -1,6 +1,6 @@
 # 文件:Red_Recollection封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f4\ns6%3ARed_Recollection%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f4\ns6%3ARed_Recollection%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ELECTRIC_RED | 专辑封面 | 封面图片
 
@@ -8,12 +8,9 @@ ELECTRIC_RED | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Red Recollection](./Red_Recollection.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)TLMC scan
-
-
-
-
+- [Red Recollection](./Red_Recollection.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
+TLMC scan
 
 ---
 

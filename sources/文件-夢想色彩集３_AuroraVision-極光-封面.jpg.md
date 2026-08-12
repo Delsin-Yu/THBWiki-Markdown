@@ -1,6 +1,6 @@
 # 文件:夢想色彩集３_AuroraVision-極光-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4e\ns6%3A%E5%A4%A2%E6%83%B3%E8%89%B2%E5%BD%A9%E9%9B%86%EF%BC%93_AuroraVision-%E6%A5%B5%E5%85%89-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4e\ns6%3A%E5%A4%A2%E6%83%B3%E8%89%B2%E5%BD%A9%E9%9B%86%EF%BC%93_AuroraVision-%E6%A5%B5%E5%85%89-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Re：Volte | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Re：Volte | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [夢想色彩集３ AuroraVision-極光-](./夢想色彩集３_AuroraVision-極光-.md)  
-该封面包含的角色：- [比那名居天子](./比那名居天子.md)
+- [夢想色彩集３ AuroraVision-極光-](./夢想色彩集３_AuroraVision-極光-.md)该封面包含的角色：
+- [比那名居天子](./比那名居天子.md)
 
   
-源地址：[[1]](http://re-volte.net/images/Jacket/jacket_SRLX-063.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://re-volte.net/images/Jacket/jacket_SRLX-063.jpg)  
 
 ---
 

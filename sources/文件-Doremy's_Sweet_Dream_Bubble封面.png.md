@@ -1,6 +1,6 @@
 # 文件:Doremy's_Sweet_Dream_Bubble封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\95\ns6%3ADoremy%27s_Sweet_Dream_Bubble%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\95\ns6%3ADoremy%27s_Sweet_Dream_Bubble%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Allison | Glue_Eater | JadTheRadLad | Kassandra | MariSuCho | nepeta420 | 封面图片 | 软件封面
 
@@ -10,16 +10,12 @@ Allison | Glue_Eater | JadTheRadLad | Kassandra | MariSuCho | nepeta420 | 封面
 使用了本文件作封面图片的作品：
   
 
-- [Doremy's Sweet Dream Bubble](./Doremy's_Sweet_Dream_Bubble.md)  
-该封面包含的角色：- [哆来咪·苏伊特](./哆来咪·苏伊特.md)
+- [Doremy's Sweet Dream Bubble](./Doremy's_Sweet_Dream_Bubble.md)该封面包含的角色：
+- [哆来咪·苏伊特](./哆来咪·苏伊特.md)
 
   
 Screenshot of title screen
   
-
-
-
-
 
 ---
 

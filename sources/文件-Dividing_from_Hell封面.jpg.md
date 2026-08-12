@@ -1,6 +1,6 @@
 # 文件:Dividing_from_Hell封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e8\ns6%3ADividing_from_Hell%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e8\ns6%3ADividing_from_Hell%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ad_libitum_records | 专辑封面 | 封面图片
 
@@ -8,12 +8,9 @@ ad_libitum_records | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Dividing from Hell](./Dividing_from_Hell.md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)源地址：[[1]](https://web.archive.org/web/20060620105736im_/http://www.ad-l.net:80/adlb-0004/cd_sample2.jpg)
-
-
-
-
+- [Dividing from Hell](./Dividing_from_Hell.md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
+源地址：[\[1\]](https://web.archive.org/web/20060620105736im_/http://www.ad-l.net:80/adlb-0004/cd_sample2.jpg)
 
 ---
 

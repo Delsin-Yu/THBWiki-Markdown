@@ -1,6 +1,6 @@
 # 文件:SUPERNOVA（De：beL4）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b5\ns6%3ASUPERNOVA%EF%BC%88De%EF%BC%9AbeL4%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b5\ns6%3ASUPERNOVA%EF%BC%88De%EF%BC%9AbeL4%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 De：beL4 | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ De：beL4 | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [SUPERNOVA（De：beL4）](./SUPERNOVA（De：beL4）.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
+- [SUPERNOVA（De：beL4）](./SUPERNOVA（De：beL4）.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-源地址：[[1]](http://de-bel4.net/db4_0001/img/jacket.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://de-bel4.net/db4_0001/img/jacket.jpg)  
 
 ---
 

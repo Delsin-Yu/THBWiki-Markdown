@@ -1,6 +1,6 @@
 # 文件:Chaos_Swirling_In_Your_Heart封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b6\ns6%3AChaos_Swirling_In_Your_Heart%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b6\ns6%3AChaos_Swirling_In_Your_Heart%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Discovering_the_Place | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Discovering_the_Place | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Chaos Swirling In Your Heart](./Chaos_Swirling_In_Your_Heart.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [Chaos Swirling In Your Heart](./Chaos_Swirling_In_Your_Heart.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
   
-源地址：[direct image link (original size)](https://i1.sndcdn.com/artworks-000087857934-iv6o3j-original.jpg), [source page (Soundcloud)](https://soundcloud.com/inumajin/chaos-swirling-in-your-heart-xfd)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://i1.sndcdn.com/artworks-000087857934-iv6o3j-original.jpg), [source page (Soundcloud)](https://soundcloud.com/inumajin/chaos-swirling-in-your-heart-xfd)  
 
 ---
 

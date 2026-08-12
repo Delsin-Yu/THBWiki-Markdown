@@ -1,6 +1,6 @@
 # 文件:東方文華集_~_Aya's_Bauhinia_Anthology封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\39\ns6%3A%E6%9D%B1%E6%96%B9%E6%96%87%E8%8F%AF%E9%9B%86_%7E_Aya%27s_Bauhinia_Anthology%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\39\ns6%3A%E6%9D%B1%E6%96%B9%E6%96%87%E8%8F%AF%E9%9B%86_%7E_Aya%27s_Bauhinia_Anthology%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Tangentg | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Tangentg | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方文華集 ~ Aya's Bauhinia Anthology](./東方文華集_~_Aya's_Bauhinia_Anthology.md)  
-该封面包含的角色：- [露米娅](./露米娅.md)
+- [東方文華集 ~ Aya's Bauhinia Anthology](./東方文華集_~_Aya's_Bauhinia_Anthology.md)该封面包含的角色：
+- [露米娅](./露米娅.md)
 
   
-源地址：[[1]](https://www.reddit.com/r/touhou/comments/dplj12/new_album_東方文華集_ayas_bauhinia_anthology/)
-  
-
-
-
-
+源地址：[\[1\]](https://www.reddit.com/r/touhou/comments/dplj12/new_album_東方文華集_ayas_bauhinia_anthology/)  
 
 ---
 

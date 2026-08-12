@@ -1,12 +1,8 @@
 # 文件:とほほお～けすとら_banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\37\ns6%3A%E3%81%A8%E3%81%BB%E3%81%BB%E3%81%8A%EF%BD%9E%E3%81%91%E3%81%99%E3%81%A8%E3%82%89_banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\37\ns6%3A%E3%81%A8%E3%81%BB%E3%81%BB%E3%81%8A%EF%BD%9E%E3%81%91%E3%81%99%E3%81%A8%E3%82%89_banner%2Egif.html -->
 
 とほほお～けすとら | 社团LOGO
-
-
-
-
 
 
 ---

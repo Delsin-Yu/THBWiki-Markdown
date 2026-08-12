@@ -1,6 +1,6 @@
 # 文件:東方EUROBEAT_ARRANGE_Vol.1（remake）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\62\ns6%3A%E6%9D%B1%E6%96%B9EUROBEAT_ARRANGE_Vol%2E1%EF%BC%88remake%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\62\ns6%3A%E6%9D%B1%E6%96%B9EUROBEAT_ARRANGE_Vol%2E1%EF%BC%88remake%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 SuganoMusic | 专辑封面 | 封面图片
 
@@ -11,12 +11,7 @@ SuganoMusic | 专辑封面 | 封面图片
 - [東方EUROBEAT ARRANGE Vol.1（remake）](./東方EUROBEAT_ARRANGE_Vol.1（remake）.md)
 
   
-源地址：[[1]](http://suganomusic.sakura.ne.jp/wp/wp-content/uploads/2015/01/sm_theb_1.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://suganomusic.sakura.ne.jp/wp/wp-content/uploads/2015/01/sm_theb_1.jpg)  
 
 ---
 

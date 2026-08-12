@@ -1,12 +1,8 @@
 # 文件:姬川「Princess_Jade_Green」（DS文花帖）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f3\ns6%3A%E5%A7%AC%E5%B7%9D%E3%80%8CPrincess_Jade_Green%E3%80%8D%EF%BC%88DS%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f3\ns6%3A%E5%A7%AC%E5%B7%9D%E3%80%8CPrincess_Jade_Green%E3%80%8D%EF%BC%88DS%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Epng.html -->
 
 东方文花帖DS | 敌机符卡 | 洩矢诹访子
-
-
-
-
 
 
 ---

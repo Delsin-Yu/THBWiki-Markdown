@@ -1,6 +1,6 @@
 # 文件:青岛THO02东方绛雪祭纪念CD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\da\ns6%3A%E9%9D%92%E5%B2%9BTHO02%E4%B8%9C%E6%96%B9%E7%BB%9B%E9%9B%AA%E7%A5%AD%E7%BA%AA%E5%BF%B5CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\da\ns6%3A%E9%9D%92%E5%B2%9BTHO02%E4%B8%9C%E6%96%B9%E7%BB%9B%E9%9B%AA%E7%A5%AD%E7%BA%AA%E5%BF%B5CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 幻想诗篇Xanadu_Canto
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [青岛THO02东方绛雪祭纪念CD](./青岛THO02东方绛雪祭纪念CD.md)  
-该封面包含的角色：- [霍青娥](./霍青娥.md)
-
-
-
+- [青岛THO02东方绛雪祭纪念CD](./青岛THO02东方绛雪祭纪念CD.md)该封面包含的角色：
+- [霍青娥](./霍青娥.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:TLM_02.mid
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1b\ns6%3ATLM_02%2Emid.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1b\ns6%3ATLM_02%2Emid.html -->
 
 Magical_and_Hopeless | Torte_Le_Magic | 东方幻想的音乐 | 官方MIDI
 
@@ -9,10 +9,6 @@ Magical and Hopeless トルテ ル マジック1面Bossシュー的主题曲。
 
 备注：游戏版本和东方幻想的音乐版本一样，未作修改。（听力分辨）
   
-
-
-
-
 
 ---
 

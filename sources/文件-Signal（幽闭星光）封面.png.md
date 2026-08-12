@@ -1,6 +1,6 @@
 # 文件:Signal（幽闭星光）封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5e\ns6%3ASignal%EF%BC%88%E5%B9%BD%E9%97%AD%E6%98%9F%E5%85%89%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5e\ns6%3ASignal%EF%BC%88%E5%B9%BD%E9%97%AD%E6%98%9F%E5%85%89%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 少女フラクタル | 幽闭星光
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Signal（幽闭星光）](./Signal（幽闭星光）.md)  
-该封面包含的角色：- [物部布都](./物部布都.md)
-
-
-
+- [Signal（幽闭星光）](./Signal（幽闭星光）.md)该封面包含的角色：
+- [物部布都](./物部布都.md)
 
 
 ---

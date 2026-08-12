@@ -1,12 +1,8 @@
 # 文件:死价「Price_of_Life」（文花帖）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d5\ns6%3A%E6%AD%BB%E4%BB%B7%E3%80%8CPrice_of_Life%E3%80%8D%EF%BC%88%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d5\ns6%3A%E6%AD%BB%E4%BB%B7%E3%80%8CPrice_of_Life%E3%80%8D%EF%BC%88%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Ejpg.html -->
 
 东方文花帖 | 小野塚小町 | 敌机符卡
-
-
-
-
 
 
 ---

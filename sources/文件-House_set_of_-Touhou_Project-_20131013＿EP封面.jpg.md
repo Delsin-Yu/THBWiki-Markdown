@@ -1,6 +1,6 @@
 # 文件:House_set_of_"Touhou_Project"_20131013＿EP封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fe\ns6%3AHouse_set_of_%22Touhou_Project%22_20131013%EF%BC%BFEP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fe\ns6%3AHouse_set_of_%22Touhou_Project%22_20131013%EF%BC%BFEP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 クロネコラウンジ | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@
   
 
 - [House set of "Touhou Project" 20131013＿EP](./House_set_of_-Touhou_Project-_20131013＿EP.md)
-
-
-
 
 
 ---

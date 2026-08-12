@@ -1,6 +1,6 @@
 # 文件:リフレイン（2nd-Phase）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7a\ns6%3A%E3%83%AA%E3%83%95%E3%83%AC%E3%82%A4%E3%83%B3%EF%BC%882nd-Phase%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7a\ns6%3A%E3%83%AA%E3%83%95%E3%83%AC%E3%82%A4%E3%83%B3%EF%BC%882nd-Phase%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 2nd-Phase | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [リフレイン（2nd-Phase）](./リフレイン（2nd-Phase）.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)
-
-
-
+- [リフレイン（2nd-Phase）](./リフレイン（2nd-Phase）.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:A-Toho_Recordsbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7e\ns6%3AA-Toho_Recordsbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7e\ns6%3AA-Toho_Recordsbanner%2Ejpg.html -->
 
 A-Toho_Records | 社团LOGO
-
-
-
-
 
 
 ---

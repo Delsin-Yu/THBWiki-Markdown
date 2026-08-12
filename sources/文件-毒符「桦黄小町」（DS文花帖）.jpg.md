@@ -1,12 +1,8 @@
 # 文件:毒符「桦黄小町」（DS文花帖）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ac\ns6%3A%E6%AF%92%E7%AC%A6%E3%80%8C%E6%A1%A6%E9%BB%84%E5%B0%8F%E7%94%BA%E3%80%8D%EF%BC%88DS%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ac\ns6%3A%E6%AF%92%E7%AC%A6%E3%80%8C%E6%A1%A6%E9%BB%84%E5%B0%8F%E7%94%BA%E3%80%8D%EF%BC%88DS%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Ejpg.html -->
 
 东方文花帖DS | 敌机符卡 | 黑谷山女
-
-
-
-
 
 
 ---

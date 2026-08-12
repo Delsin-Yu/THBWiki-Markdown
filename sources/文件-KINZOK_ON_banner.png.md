@@ -1,14 +1,11 @@
 # 文件:KINZOK_ON_banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0c\ns6%3AKINZOK_ON_banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0c\ns6%3AKINZOK_ON_banner%2Epng.html -->
 
 KINZOK_ON | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

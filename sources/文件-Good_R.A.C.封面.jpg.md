@@ -1,6 +1,6 @@
 # 文件:Good_R.A.C.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\81\ns6%3AGood_R%2EA%2EC%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\81\ns6%3AGood_R%2EA%2EC%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Reset_All_Controllers | 专辑封面 | 封面图片
 
@@ -11,12 +11,7 @@ Reset_All_Controllers | 专辑封面 | 封面图片
 - [Good R.A.C.](./Good_R.A.C..md)
 
   
-源地址：[[1]](https://twitter.com/adazakura_midi/status/681049583540023297)
-  
-
-
-
-
+源地址：[\[1\]](https://twitter.com/adazakura_midi/status/681049583540023297)  
 
 ---
 

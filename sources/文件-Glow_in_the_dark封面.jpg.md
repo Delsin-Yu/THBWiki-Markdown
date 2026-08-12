@@ -1,6 +1,6 @@
 # 文件:Glow_in_the_dark封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2a\ns6%3AGlow_in_the_dark%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2a\ns6%3AGlow_in_the_dark%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 WeekEND. | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@ WeekEND. | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Glow in the dark](./Glow_in_the_dark.md)  
-该封面包含的角色：- [东风谷早苗](./东风谷早苗.md)
+- [Glow in the dark](./Glow_in_the_dark.md)该封面包含的角色：
+- [东风谷早苗](./东风谷早苗.md)
 
   
-源地址：[direct image link (original size)](https://pbs.twimg.com/media/Fe8iSt0VIAEiF2f?format=jpg&amp;name=orig), [source tweet](https://twitter.com/WeekEND_gothic/status/1580519791328038913)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://pbs.twimg.com/media/Fe8iSt0VIAEiF2f?format=jpg&name=orig), [source tweet](https://twitter.com/WeekEND_gothic/status/1580519791328038913)  
 
 ---
 

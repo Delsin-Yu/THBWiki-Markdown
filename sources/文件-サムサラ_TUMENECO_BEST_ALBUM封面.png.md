@@ -1,6 +1,6 @@
 # 文件:サムサラ_TUMENECO_BEST_ALBUM封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dd\ns6%3A%E3%82%B5%E3%83%A0%E3%82%B5%E3%83%A9_TUMENECO_BEST_ALBUM%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dd\ns6%3A%E3%82%B5%E3%83%A0%E3%82%B5%E3%83%A9_TUMENECO_BEST_ALBUM%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 TUMENECO | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ TUMENECO | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [サムサラ TUMENECO BEST ALBUM](./サムサラ_TUMENECO_BEST_ALBUM.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [サムサラ TUMENECO BEST ALBUM](./サムサラ_TUMENECO_BEST_ALBUM.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:諏訪×すわ×SUWA!？封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f2\ns6%3A%E8%AB%8F%E8%A8%AA%C3%97%E3%81%99%E3%82%8F%C3%97SUWA%21%EF%BC%9F%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f2\ns6%3A%E8%AB%8F%E8%A8%AA%C3%97%E3%81%99%E3%82%8F%C3%97SUWA%21%EF%BC%9F%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 GP-KIDS | I'm | すたじお寿司くいねぇ | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@ GP-KIDS | I'm | すたじお寿司くいねぇ | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [諏訪×すわ×SUWA!？](./諏訪×すわ×SUWA!？.md)  
-该封面包含的角色：- [洩矢诹访子](./洩矢诹访子.md)
+- [諏訪×すわ×SUWA!？](./諏訪×すわ×SUWA!？.md)该封面包含的角色：
+- [洩矢诹访子](./洩矢诹访子.md)
 
   
-[Pixiv artwork ID: 1765518](https://www.pixiv.net/artworks/1765518)
-  
-
-
-
-
+[Pixiv artwork ID: 1765518](https://www.pixiv.net/artworks/1765518)  
 
 ---
 

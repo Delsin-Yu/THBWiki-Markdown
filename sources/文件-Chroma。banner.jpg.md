@@ -1,12 +1,8 @@
 # 文件:Chroma。banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\28\ns6%3AChroma%E3%80%82banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\28\ns6%3AChroma%E3%80%82banner%2Ejpg.html -->
 
 Chroma。 | 社团LOGO
-
-
-
-
 
 
 ---

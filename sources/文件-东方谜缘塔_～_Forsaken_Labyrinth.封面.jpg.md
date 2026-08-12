@@ -1,6 +1,6 @@
 # 文件:东方谜缘塔_～_Forsaken_Labyrinth.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5f\ns6%3A%E4%B8%9C%E6%96%B9%E8%B0%9C%E7%BC%98%E5%A1%94_%EF%BD%9E_Forsaken_Labyrinth%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5f\ns6%3A%E4%B8%9C%E6%96%B9%E8%B0%9C%E7%BC%98%E5%A1%94_%EF%BD%9E_Forsaken_Labyrinth%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 封面图片 | 软件封面 | 阐幽赜书房
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [东方谜缘塔 ～ Forsaken Labyrinth.](./东方谜缘塔_～_Forsaken_Labyrinth..md)  
-该封面包含的角色：- 原创角色 (未找到链接)
-
-
-
+- [东方谜缘塔 ～ Forsaken Labyrinth.](./东方谜缘塔_～_Forsaken_Labyrinth..md)该封面包含的角色：
+- 原创角色 (未找到链接)
 
 
 ---

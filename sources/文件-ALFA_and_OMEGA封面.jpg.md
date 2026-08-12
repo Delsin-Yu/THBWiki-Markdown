@@ -1,6 +1,6 @@
 # 文件:ALFA_and_OMEGA封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3f\ns6%3AALFA_and_OMEGA%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3f\ns6%3AALFA_and_OMEGA%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 DEMOUR402 | 同人志封面 | 封面图片
 
@@ -8,11 +8,13 @@ DEMOUR402 | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [ALFA and OMEGA](./ALFA_and_OMEGA.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [西行寺幽幽子](./西行寺幽幽子.md)- [伊吹萃香](./伊吹萃香.md)- [雾雨魔理沙](./雾雨魔理沙.md)- [森近霖之助](./森近霖之助.md)
-
-
-
+- [ALFA and OMEGA](./ALFA_and_OMEGA.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [西行寺幽幽子](./西行寺幽幽子.md)
+- [伊吹萃香](./伊吹萃香.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
+- [森近霖之助](./森近霖之助.md)
 
 
 ---

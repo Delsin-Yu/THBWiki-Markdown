@@ -1,12 +1,8 @@
 # 文件:恶魔「Remilia_Stretch」（非想天则）-1.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6a\ns6%3A%E6%81%B6%E9%AD%94%E3%80%8CRemilia_Stretch%E3%80%8D%EF%BC%88%E9%9D%9E%E6%83%B3%E5%A4%A9%E5%88%99%EF%BC%89-1%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6a\ns6%3A%E6%81%B6%E9%AD%94%E3%80%8CRemilia_Stretch%E3%80%8D%EF%BC%88%E9%9D%9E%E6%83%B3%E5%A4%A9%E5%88%99%EF%BC%89-1%2Ejpg.html -->
 
 东方非想天则 | 自机符卡 | 蕾米莉亚·斯卡蕾特
-
-
-
-
 
 
 ---

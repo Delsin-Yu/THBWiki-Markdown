@@ -1,12 +1,8 @@
 # 文件:遊色高楼LOGO.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\21\ns6%3A%E9%81%8A%E8%89%B2%E9%AB%98%E6%A5%BCLOGO%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\21\ns6%3A%E9%81%8A%E8%89%B2%E9%AB%98%E6%A5%BCLOGO%2Epng.html -->
 
 社团LOGO | 遊色高楼
-
-
-
-
 
 
 ---

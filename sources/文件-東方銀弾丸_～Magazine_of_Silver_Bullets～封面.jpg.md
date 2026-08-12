@@ -1,6 +1,6 @@
 # 文件:東方銀弾丸_～Magazine_of_Silver_Bullets～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\41\ns6%3A%E6%9D%B1%E6%96%B9%E9%8A%80%E5%BC%BE%E4%B8%B8_%EF%BD%9EMagazine_of_Silver_Bullets%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\41\ns6%3A%E6%9D%B1%E6%96%B9%E9%8A%80%E5%BC%BE%E4%B8%B8_%EF%BD%9EMagazine_of_Silver_Bullets%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 文鸟Online。
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方銀弾丸 ～Magazine of Silver Bullets～](./東方銀弾丸_～Magazine_of_Silver_Bullets～.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
-
-
-
+- [東方銀弾丸 ～Magazine of Silver Bullets～](./東方銀弾丸_～Magazine_of_Silver_Bullets～.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
 
 
 ---

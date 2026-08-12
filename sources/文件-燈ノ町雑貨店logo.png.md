@@ -1,18 +1,13 @@
 # 文件:燈ノ町雑貨店logo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\08\ns6%3A%E7%87%88%E3%83%8E%E7%94%BA%E9%9B%91%E8%B2%A8%E5%BA%97logo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\08\ns6%3A%E7%87%88%E3%83%8E%E7%94%BA%E9%9B%91%E8%B2%A8%E5%BA%97logo%2Epng.html -->
 
 燈ノ町雑貨店 | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[direct image link (original size)](https://yt3.ggpht.com/ytc/AKedOLRcKwfOfegtobCIXBOWg2AnbdP5zjf0u6SGWsS9Yw=s0?imgmax=0), [from circle youtube](https://www.youtube.com/user/airskyly)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://yt3.ggpht.com/ytc/AKedOLRcKwfOfegtobCIXBOWg2AnbdP5zjf0u6SGWsS9Yw=s0?imgmax=0), [from circle youtube](https://www.youtube.com/user/airskyly)  
 
 ---
 

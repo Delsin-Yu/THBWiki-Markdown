@@ -1,6 +1,6 @@
 # 新約・東方幻想殺_～_Re.Phantasmagoria_of_Imagine_Breaker./符卡
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\a\a7\ns0%3A%E6%96%B0%E7%B4%84%E3%83%BB%E6%9D%B1%E6%96%B9%E5%B9%BB%E6%83%B3%E6%AE%BA_%EF%BD%9E_Re%2EPhantasmagoria_of_Imagine_Breaker%2E%2F%E7%AC%A6%E5%8D%A1.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\a\a7\ns0%3A%E6%96%B0%E7%B4%84%E3%83%BB%E6%9D%B1%E6%96%B9%E5%B9%BB%E6%83%B3%E6%AE%BA_%EF%BD%9E_Re%2EPhantasmagoria_of_Imagine_Breaker%2E%2F%E7%AC%A6%E5%8D%A1.html -->
 
 Gore
 
@@ -9,8 +9,8 @@ Gore
 
 每一个条目包含相关截图、中日文、在哪一关出现以及注解。
   
-
-: - [Stage 1 符卡](./新約・東方幻想殺_～_Re.Phantasmagoria_of_Imagine_Breaker.-符卡-Stage_1.md)
+: 
+- [Stage 1 符卡](./新約・東方幻想殺_～_Re.Phantasmagoria_of_Imagine_Breaker.-符卡-Stage_1.md)
 - [Stage 2 符卡](./新約・東方幻想殺_～_Re.Phantasmagoria_of_Imagine_Breaker.-符卡-Stage_2.md)
 - [Stage 3 符卡](./新約・東方幻想殺_～_Re.Phantasmagoria_of_Imagine_Breaker.-符卡-Stage_3.md)
 - [Stage 4 符卡](./新約・東方幻想殺_～_Re.Phantasmagoria_of_Imagine_Breaker.-符卡-Stage_4.md)
@@ -19,9 +19,6 @@ Gore
 - [Extra关卡 符卡](./新約・東方幻想殺_～_Re.Phantasmagoria_of_Imagine_Breaker.-符卡-Extra.md)
 - [Miracle关卡 符卡](./新約・東方幻想殺_～_Re.Phantasmagoria_of_Imagine_Breaker.-符卡-Miracle.md)
 - [Last Word 符卡](./新約・東方幻想殺_～_Re.Phantasmagoria_of_Imagine_Breaker.-符卡-Last_Word.md)
-
-
-
 
 
 

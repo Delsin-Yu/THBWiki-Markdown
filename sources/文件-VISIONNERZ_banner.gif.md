@@ -1,14 +1,11 @@
 # 文件:VISIONNERZ_banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\36\ns6%3AVISIONNERZ_banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\36\ns6%3AVISIONNERZ_banner%2Egif.html -->
 
 VISIONNERZ | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:Journey_to_the_dream封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\99\ns6%3AJourney_to_the_dream%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\99\ns6%3AJourney_to_the_dream%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 TUMENECO | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ TUMENECO | 专辑封面 | 封面图片
   
 
 - [Journey to the dream](./Journey_to_the_dream.md)
-
-
-
 
 
 ---

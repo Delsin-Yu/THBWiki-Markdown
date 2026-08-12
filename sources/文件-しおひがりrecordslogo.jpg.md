@@ -1,14 +1,11 @@
 # 文件:しおひがりrecordslogo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f9\ns6%3A%E3%81%97%E3%81%8A%E3%81%B2%E3%81%8C%E3%82%8Arecordslogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f9\ns6%3A%E3%81%97%E3%81%8A%E3%81%B2%E3%81%8C%E3%82%8Arecordslogo%2Ejpg.html -->
 
 しおひがりrecords | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

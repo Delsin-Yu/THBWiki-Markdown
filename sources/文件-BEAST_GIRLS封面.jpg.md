@@ -1,6 +1,6 @@
 # 文件:BEAST_GIRLS封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a8\ns6%3ABEAST_GIRLS%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a8\ns6%3ABEAST_GIRLS%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ちょこふぁん | 同人志封面 | 封面图片
 
@@ -10,11 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [BEAST GIRLS](./BEAST_GIRLS.md)  
-该封面包含的角色：- [骊驹早鬼](./骊驹早鬼.md)- [埴安神袿姬](./埴安神袿姬.md)- [吉吊八千慧](./吉吊八千慧.md)- 野狼灵 (未找到链接)
-
-
-
+- [BEAST GIRLS](./BEAST_GIRLS.md)该封面包含的角色：
+- [骊驹早鬼](./骊驹早鬼.md)
+- [埴安神袿姬](./埴安神袿姬.md)
+- [吉吊八千慧](./吉吊八千慧.md)
+- 野狼灵 (未找到链接)
 
 
 ---

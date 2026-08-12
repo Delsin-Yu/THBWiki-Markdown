@@ -1,6 +1,6 @@
 # 文件:DOT_A_LA_CARTE封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\42\ns6%3ADOT_A_LA_CARTE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\42\ns6%3ADOT_A_LA_CARTE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 わいえむ2612 | 专辑封面 | 封面图片
 
@@ -10,11 +10,18 @@
 使用了本文件作封面图片的作品：
   
 
-- [DOT A LA CARTE](./DOT_A_LA_CARTE.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [莉莉霍瓦特](./莉莉霍瓦特.md)- [西行寺幽幽子](./西行寺幽幽子.md)- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)- [东风谷早苗](./东风谷早苗.md)- [水桥帕露西](./水桥帕露西.md)- [清兰](./清兰.md)- [菅牧典](./菅牧典.md)- [饭纲丸龙](./饭纲丸龙.md)- [天弓千亦](./天弓千亦.md)- [饕餮尤魔](./饕餮尤魔.md)
-
-
-
+- [DOT A LA CARTE](./DOT_A_LA_CARTE.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [莉莉霍瓦特](./莉莉霍瓦特.md)
+- [西行寺幽幽子](./西行寺幽幽子.md)
+- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)
+- [东风谷早苗](./东风谷早苗.md)
+- [水桥帕露西](./水桥帕露西.md)
+- [清兰](./清兰.md)
+- [菅牧典](./菅牧典.md)
+- [饭纲丸龙](./饭纲丸龙.md)
+- [天弓千亦](./天弓千亦.md)
+- [饕餮尤魔](./饕餮尤魔.md)
 
 
 ---

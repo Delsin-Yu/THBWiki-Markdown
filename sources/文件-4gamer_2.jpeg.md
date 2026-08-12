@@ -1,12 +1,8 @@
 # 文件:4gamer_2.jpeg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\27\ns6%3A4gamer_2%2Ejpeg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\27\ns6%3A4gamer_2%2Ejpeg.html -->
 
 ZUN
-
-
-
-
 
 
 ---

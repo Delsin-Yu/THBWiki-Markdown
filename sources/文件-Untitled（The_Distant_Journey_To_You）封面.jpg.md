@@ -1,6 +1,6 @@
 # 文件:Untitled（The_Distant_Journey_To_You）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1f\ns6%3AUntitled%EF%BC%88The_Distant_Journey_To_You%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1f\ns6%3AUntitled%EF%BC%88The_Distant_Journey_To_You%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 denshūto | the_distant_journey_to_you | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ denshūto | the_distant_journey_to_you | 专辑封面 | 封面图片
   
 
 - [untitled（the distant journey to you）](./untitled（the_distant_journey_to_you）.md)
-
-
-
 
 
 ---

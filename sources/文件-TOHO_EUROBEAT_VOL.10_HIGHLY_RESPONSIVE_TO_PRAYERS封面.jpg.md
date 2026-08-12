@@ -1,6 +1,6 @@
 # 文件:TOHO_EUROBEAT_VOL.10_HIGHLY_RESPONSIVE_TO_PRAYERS封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d8\ns6%3ATOHO_EUROBEAT_VOL%2E10_HIGHLY_RESPONSIVE_TO_PRAYERS%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d8\ns6%3ATOHO_EUROBEAT_VOL%2E10_HIGHLY_RESPONSIVE_TO_PRAYERS%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 A-One | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ A-One | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [TOHO EUROBEAT VOL.10 HIGHLY RESPONSIVE TO PRAYERS](./TOHO_EUROBEAT_VOL.10_HIGHLY_RESPONSIVE_TO_PRAYERS.md)  
-该封面包含的角色：- [萨丽爱尔](./萨丽爱尔.md)
-
-
-
+- [TOHO EUROBEAT VOL.10 HIGHLY RESPONSIVE TO PRAYERS](./TOHO_EUROBEAT_VOL.10_HIGHLY_RESPONSIVE_TO_PRAYERS.md)该封面包含的角色：
+- [萨丽爱尔](./萨丽爱尔.md)
 
 
 ---

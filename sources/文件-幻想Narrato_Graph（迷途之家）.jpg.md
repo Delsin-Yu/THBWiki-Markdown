@@ -1,14 +1,11 @@
 # 文件:幻想Narrato_Graph（迷途之家）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dd\ns6%3A%E5%B9%BB%E6%83%B3Narrato_Graph%EF%BC%88%E8%BF%B7%E9%80%94%E4%B9%8B%E5%AE%B6%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dd\ns6%3A%E5%B9%BB%E6%83%B3Narrato_Graph%EF%BC%88%E8%BF%B7%E9%80%94%E4%B9%8B%E5%AE%B6%EF%BC%89%2Ejpg.html -->
 
 幻想Narrato_Graph
 
 
 ## 摘要
-
-
-
 
 ---
 

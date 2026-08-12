@@ -1,6 +1,6 @@
 # 文件:夕陰魔道逸書_古書DISC封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a3\ns6%3A%E5%A4%95%E9%99%B0%E9%AD%94%E9%81%93%E9%80%B8%E6%9B%B8_%E5%8F%A4%E6%9B%B8DISC%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a3\ns6%3A%E5%A4%95%E9%99%B0%E9%AD%94%E9%81%93%E9%80%B8%E6%9B%B8_%E5%8F%A4%E6%9B%B8DISC%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Sounds_of_Liberation | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Sounds_of_Liberation | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [夕陰魔道逸書 古書DISC](./夕陰魔道逸書_古書DISC.md)  
-该封面包含的角色：- [小恶魔](./小恶魔.md)
-
-
-
+- [夕陰魔道逸書 古書DISC](./夕陰魔道逸書_古書DISC.md)该封面包含的角色：
+- [小恶魔](./小恶魔.md)
 
 
 ---

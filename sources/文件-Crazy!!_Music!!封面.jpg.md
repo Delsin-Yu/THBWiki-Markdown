@@ -1,6 +1,6 @@
 # 文件:Crazy!!_Music!!封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0d\ns6%3ACrazy%21%21_Music%21%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0d\ns6%3ACrazy%21%21_Music%21%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Digital_Sound_Project | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Digital_Sound_Project | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Crazy!! Music!!](./Crazy!!_Music!!.md)  
-该封面包含的角色：- [灵乌路空](./灵乌路空.md)
-
-
-
+- [Crazy!! Music!!](./Crazy!!_Music!!.md)该封面包含的角色：
+- [灵乌路空](./灵乌路空.md)
 
 
 ---

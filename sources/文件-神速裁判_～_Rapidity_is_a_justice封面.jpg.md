@@ -1,6 +1,6 @@
 # 文件:神速裁判_～_Rapidity_is_a_justice封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\48\ns6%3A%E7%A5%9E%E9%80%9F%E8%A3%81%E5%88%A4_%EF%BD%9E_Rapidity_is_a_justice%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\48\ns6%3A%E7%A5%9E%E9%80%9F%E8%A3%81%E5%88%A4_%EF%BD%9E_Rapidity_is_a_justice%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 AQUAELIE | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ AQUAELIE | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [神速裁判 ～ Rapidity is a justice](./神速裁判_～_Rapidity_is_a_justice.md)  
-该封面包含的角色：- [小野塚小町](./小野塚小町.md)- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)
-
-
-
+- [神速裁判 ～ Rapidity is a justice](./神速裁判_～_Rapidity_is_a_justice.md)该封面包含的角色：
+- [小野塚小町](./小野塚小町.md)
+- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)
 
 
 ---

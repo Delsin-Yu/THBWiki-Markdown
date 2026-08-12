@@ -1,12 +1,8 @@
 # 文件:东方幕华祭（春雪篇）st4.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7e\ns6%3A%E4%B8%9C%E6%96%B9%E5%B9%95%E5%8D%8E%E7%A5%AD%EF%BC%88%E6%98%A5%E9%9B%AA%E7%AF%87%EF%BC%89st4%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7e\ns6%3A%E4%B8%9C%E6%96%B9%E5%B9%95%E5%8D%8E%E7%A5%AD%EF%BC%88%E6%98%A5%E9%9B%AA%E7%AF%87%EF%BC%89st4%2Ejpg.html -->
 
 东方幕华祭制作组
-
-
-
-
 
 
 ---

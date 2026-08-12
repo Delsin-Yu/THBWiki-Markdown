@@ -1,14 +1,11 @@
 # 文件:Breeze_Sinfoniabanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a8\ns6%3ABreeze_Sinfoniabanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a8\ns6%3ABreeze_Sinfoniabanner%2Epng.html -->
 
 Breeze_Sinfonia | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

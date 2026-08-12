@@ -1,6 +1,6 @@
 # 文件:東方英単語帳_体験版_in_C91封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\02\ns6%3A%E6%9D%B1%E6%96%B9%E8%8B%B1%E5%8D%98%E8%AA%9E%E5%B8%B3_%E4%BD%93%E9%A8%93%E7%89%88_in_C91%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\02\ns6%3A%E6%9D%B1%E6%96%B9%E8%8B%B1%E5%8D%98%E8%AA%9E%E5%B8%B3_%E4%BD%93%E9%A8%93%E7%89%88_in_C91%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 東工プロジェクト
 
@@ -11,9 +11,6 @@
   
 
 - [東方英単語帳 体験版 in C91](./東方英単語帳_体験版_in_C91.md)
-
-
-
 
 
 ---

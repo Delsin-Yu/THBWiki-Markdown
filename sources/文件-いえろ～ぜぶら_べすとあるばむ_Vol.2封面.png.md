@@ -1,6 +1,6 @@
 # 文件:いえろ～ぜぶら_べすとあるばむ_Vol.2封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\78\ns6%3A%E3%81%84%E3%81%88%E3%82%8D%EF%BD%9E%E3%81%9C%E3%81%B6%E3%82%89_%E3%81%B9%E3%81%99%E3%81%A8%E3%81%82%E3%82%8B%E3%81%B0%E3%82%80_Vol%2E2%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\78\ns6%3A%E3%81%84%E3%81%88%E3%82%8D%EF%BD%9E%E3%81%9C%E3%81%B6%E3%82%89_%E3%81%B9%E3%81%99%E3%81%A8%E3%81%82%E3%82%8B%E3%81%B0%E3%82%80_Vol%2E2%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 いえろ～ぜぶら | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [いえろ～ぜぶら べすとあるばむ Vol.2](./いえろ～ぜぶら_べすとあるばむ_Vol.2.md)  
-该封面包含的角色：- [藤原妹红](./藤原妹红.md)
-
-
-
+- [いえろ～ぜぶら べすとあるばむ Vol.2](./いえろ～ぜぶら_べすとあるばむ_Vol.2.md)该封面包含的角色：
+- [藤原妹红](./藤原妹红.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Alternative_Version：_Embodiment_of_Scarlet_Devil封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\94\ns6%3AAlternative_Version%EF%BC%9A_Embodiment_of_Scarlet_Devil%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\94\ns6%3AAlternative_Version%EF%BC%9A_Embodiment_of_Scarlet_Devil%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Paradise_of_Boundaries | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Paradise_of_Boundaries | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Alternative Version： Embodiment of Scarlet Devil](./Alternative_Version：_Embodiment_of_Scarlet_Devil.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
-
-
-
+- [Alternative Version： Embodiment of Scarlet Devil](./Alternative_Version：_Embodiment_of_Scarlet_Devil.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
 
 ---

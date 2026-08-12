@@ -1,12 +1,8 @@
 # 文件:日符「Royal_Flare」（萃梦想1）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9f\ns6%3A%E6%97%A5%E7%AC%A6%E3%80%8CRoyal_Flare%E3%80%8D%EF%BC%88%E8%90%83%E6%A2%A6%E6%83%B31%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9f\ns6%3A%E6%97%A5%E7%AC%A6%E3%80%8CRoyal_Flare%E3%80%8D%EF%BC%88%E8%90%83%E6%A2%A6%E6%83%B31%EF%BC%89%2Ejpg.html -->
 
 东方萃梦想 | 帕秋莉·诺蕾姬 | 自机符卡
-
-
-
-
 
 
 ---

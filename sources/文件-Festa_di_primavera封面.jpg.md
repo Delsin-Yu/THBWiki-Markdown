@@ -1,6 +1,6 @@
 # 文件:Festa_di_primavera封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ca\ns6%3AFesta_di_primavera%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ca\ns6%3AFesta_di_primavera%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 MA☆SPARK!_RECORDS | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ MA☆SPARK!_RECORDS | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Festa di primavera](./Festa_di_primavera.md)  
-该封面包含的角色：- [伊吹萃香](./伊吹萃香.md)
-
-
-
+- [Festa di primavera](./Festa_di_primavera.md)该封面包含的角色：
+- [伊吹萃香](./伊吹萃香.md)
 
 
 ---

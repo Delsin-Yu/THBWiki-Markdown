@@ -1,6 +1,6 @@
 # 文件:白銀の月_-Another_Riverside-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8a\ns6%3A%E7%99%BD%E9%8A%80%E3%81%AE%E6%9C%88_-Another_Riverside-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8a\ns6%3A%E7%99%BD%E9%8A%80%E3%81%AE%E6%9C%88_-Another_Riverside-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Magical_Muse | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ Magical_Muse | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [白銀の月 -Another Riverside-](./白銀の月_-Another_Riverside-.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
-
-
-
+- [白銀の月 -Another Riverside-](./白銀の月_-Another_Riverside-.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
 
 ---

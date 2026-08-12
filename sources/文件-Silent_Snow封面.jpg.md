@@ -1,6 +1,6 @@
 # 文件:Silent_Snow封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3b\ns6%3ASilent_Snow%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3b\ns6%3ASilent_Snow%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Adust_Rain | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Adust_Rain | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Silent Snow](./Silent_Snow.md)  
-该封面包含的角色：- [宫古芳香](./宫古芳香.md)
+- [Silent Snow](./Silent_Snow.md)该封面包含的角色：
+- [宫古芳香](./宫古芳香.md)
 
   
-源地址：[direct image link (original size)](https://image.jimcdn.com/app/cms/image/transf/none/path/s2b48f01cf0d87509/image/id9a28edc8a97750a/version/1493962310/image.jpg), [source page](https://adustrain.jimdofree.com/discography/)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://image.jimcdn.com/app/cms/image/transf/none/path/s2b48f01cf0d87509/image/id9a28edc8a97750a/version/1493962310/image.jpg), [source page](https://adustrain.jimdofree.com/discography/)  
 
 ---
 

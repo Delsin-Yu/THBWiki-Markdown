@@ -1,12 +1,8 @@
 # 文件:小野塚小町b（花映塚立绘）12sp.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f8\ns6%3A%E5%B0%8F%E9%87%8E%E5%A1%9A%E5%B0%8F%E7%94%BAb%EF%BC%88%E8%8A%B1%E6%98%A0%E5%A1%9A%E7%AB%8B%E7%BB%98%EF%BC%8912sp%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f8\ns6%3A%E5%B0%8F%E9%87%8E%E5%A1%9A%E5%B0%8F%E7%94%BAb%EF%BC%88%E8%8A%B1%E6%98%A0%E5%A1%9A%E7%AB%8B%E7%BB%98%EF%BC%8912sp%2Epng.html -->
 
 ZUN绘 | 东方花映塚 | 官方游戏立绘 | 小野塚小町
-
-
-
-
 
 
 ---

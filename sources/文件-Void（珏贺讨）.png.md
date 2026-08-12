@@ -1,14 +1,11 @@
 # 文件:Void（珏贺讨）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bd\ns6%3AVoid%EF%BC%88%E7%8F%8F%E8%B4%BA%E8%AE%A8%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bd\ns6%3AVoid%EF%BC%88%E7%8F%8F%E8%B4%BA%E8%AE%A8%EF%BC%89%2Epng.html -->
 
 Void（珏贺讨） | Void？（珏贺讨） | 二次角色立绘 | 纷鸟境虹谈制作组
 
 
 ## 摘要
-
-
-
 
 ---
 

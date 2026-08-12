@@ -1,12 +1,8 @@
 # 文件:The_Grimoire_of_Marisa封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\73\ns6%3AThe_Grimoire_of_Marisa%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\73\ns6%3AThe_Grimoire_of_Marisa%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 官方出版物封面 | 魔理沙的魔法书
-
-
-
-
 
 
 ---

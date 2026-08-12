@@ -1,6 +1,6 @@
 # 文件:东方百问~TouHouAsked封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\04\ns6%3A%E4%B8%9C%E6%96%B9%E7%99%BE%E9%97%AE%7ETouHouAsked%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\04\ns6%3A%E4%B8%9C%E6%96%B9%E7%99%BE%E9%97%AE%7ETouHouAsked%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Root_Nine_Studio | 封面图片 | 软件封面
 
@@ -9,9 +9,6 @@ Root_Nine_Studio | 封面图片 | 软件封面
   
 
 - [东方百问~TouHouAsked](./东方百问~TouHouAsked.md)
-
-
-
 
 
 ---

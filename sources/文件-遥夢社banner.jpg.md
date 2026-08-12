@@ -1,14 +1,11 @@
 # 文件:遥夢社banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\57\ns6%3A%E9%81%A5%E5%A4%A2%E7%A4%BEbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\57\ns6%3A%E9%81%A5%E5%A4%A2%E7%A4%BEbanner%2Ejpg.html -->
 
 社团LOGO | 遥夢社
 
 
 ## 摘要
-
-
-
 
 ---
 

@@ -1,12 +1,8 @@
 # 文件:MILK_BARbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ac\ns6%3AMILK_BARbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ac\ns6%3AMILK_BARbanner%2Ejpg.html -->
 
 MILK_BAR | 社团LOGO
-
-
-
-
 
 
 ---

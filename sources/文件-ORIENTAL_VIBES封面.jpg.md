@@ -1,6 +1,6 @@
 # 文件:ORIENTAL_VIBES封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1c\ns6%3AORIENTAL_VIBES%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1c\ns6%3AORIENTAL_VIBES%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 INNOCENT_WORKS | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ INNOCENT_WORKS | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [ORIENTAL VIBES](./ORIENTAL_VIBES.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [ORIENTAL VIBES](./ORIENTAL_VIBES.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Mare_Nectaris_-experiment_edition-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5c\ns6%3AMare_Nectaris_-experiment_edition-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5c\ns6%3AMare_Nectaris_-experiment_edition-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Aphrodite | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Aphrodite | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Mare Nectaris -experiment edition-](./Mare_Nectaris_-experiment_edition-.md)  
-该封面包含的角色：- [八意永琳](./八意永琳.md)
-
-
-
+- [Mare Nectaris -experiment edition-](./Mare_Nectaris_-experiment_edition-.md)该封面包含的角色：
+- [八意永琳](./八意永琳.md)
 
 
 ---

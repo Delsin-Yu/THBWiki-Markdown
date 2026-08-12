@@ -1,6 +1,6 @@
 # 文件:Wandering_Souls封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0c\ns6%3AWandering_Souls%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0c\ns6%3AWandering_Souls%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Estheone | 封面图片 | 软件封面
 
@@ -11,9 +11,6 @@ Estheone | 封面图片 | 软件封面
   
 
 - [Wandering Souls](./Wandering_Souls.md)
-
-
-
 
 
 ---

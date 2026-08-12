@@ -1,14 +1,11 @@
 # 文件:幻想夜桜banner2.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\eb\ns6%3A%E5%B9%BB%E6%83%B3%E5%A4%9C%E6%A1%9Cbanner2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\eb\ns6%3A%E5%B9%BB%E6%83%B3%E5%A4%9C%E6%A1%9Cbanner2%2Ejpg.html -->
 
 幻想夜桜 | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

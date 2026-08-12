@@ -1,12 +1,8 @@
 # 文件:Arukaz-Wingbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\84\ns6%3AArukaz-Wingbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\84\ns6%3AArukaz-Wingbanner%2Epng.html -->
 
 Arukaz-Wing | 社团LOGO
-
-
-
-
 
 
 ---

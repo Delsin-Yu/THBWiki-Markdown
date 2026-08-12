@@ -1,6 +1,6 @@
 # 文件:東方逆妙乱_~_Ephemeral_Unnatural_Balance封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f9\ns6%3A%E6%9D%B1%E6%96%B9%E9%80%86%E5%A6%99%E4%B9%B1_%7E_Ephemeral_Unnatural_Balance%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f9\ns6%3A%E6%9D%B1%E6%96%B9%E9%80%86%E5%A6%99%E4%B9%B1_%7E_Ephemeral_Unnatural_Balance%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Ephemeral_Entertainment | 封面图片 | 软件封面
 
@@ -8,11 +8,8 @@ Ephemeral_Entertainment | 封面图片 | 软件封面
 使用了本文件作封面图片的作品：
   
 
-- [東方逆妙乱 ~ Ephemeral Unnatural Balance](./東方逆妙乱_~_Ephemeral_Unnatural_Balance.md)  
-该封面包含的角色：- [莉莉霍瓦特](./莉莉霍瓦特.md)
-
-
-
+- [東方逆妙乱 ~ Ephemeral Unnatural Balance](./東方逆妙乱_~_Ephemeral_Unnatural_Balance.md)该封面包含的角色：
+- [莉莉霍瓦特](./莉莉霍瓦特.md)
 
 
 ---

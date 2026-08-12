@@ -1,14 +1,11 @@
 # 文件:garbanzobanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e3\ns6%3Agarbanzobanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e3\ns6%3Agarbanzobanner%2Ejpg.html -->
 
 garbanzo | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

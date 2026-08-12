@@ -1,12 +1,8 @@
 # 文件:ひえろぐらふbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5e\ns6%3A%E3%81%B2%E3%81%88%E3%82%8D%E3%81%90%E3%82%89%E3%81%B5banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5e\ns6%3A%E3%81%B2%E3%81%88%E3%82%8D%E3%81%90%E3%82%89%E3%81%B5banner%2Epng.html -->
 
 ひえろぐらふ | 社团LOGO
-
-
-
-
 
 
 ---

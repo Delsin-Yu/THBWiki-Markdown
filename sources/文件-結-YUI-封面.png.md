@@ -1,6 +1,6 @@
 # 文件:結-YUI-封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c0\ns6%3A%E7%B5%90-YUI-%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c0\ns6%3A%E7%B5%90-YUI-%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 舞音KAGURA
 
@@ -11,9 +11,6 @@
   
 
 - [結-YUI-](./結-YUI-.md)
-
-
-
 
 
 ---

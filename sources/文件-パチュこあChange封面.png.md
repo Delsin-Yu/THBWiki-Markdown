@@ -1,6 +1,6 @@
 # 文件:パチュこあChange封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c1\ns6%3A%E3%83%91%E3%83%81%E3%83%A5%E3%81%93%E3%81%82Change%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c1\ns6%3A%E3%83%91%E3%83%81%E3%83%A5%E3%81%93%E3%81%82Change%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 同人志封面 | 封面图片 | 踏月
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [パチュこあChange](./パチュこあChange.md)  
-该封面包含的角色：- [小恶魔](./小恶魔.md)- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
-
-
-
+- [パチュこあChange](./パチュこあChange.md)该封面包含的角色：
+- [小恶魔](./小恶魔.md)
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
 
 
 ---

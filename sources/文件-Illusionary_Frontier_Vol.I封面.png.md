@@ -1,6 +1,6 @@
 # 文件:Illusionary_Frontier_Vol.I封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\32\ns6%3AIllusionary_Frontier_Vol%2EI%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\32\ns6%3AIllusionary_Frontier_Vol%2EI%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Illusionary_Frontier | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@ Illusionary_Frontier | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Illusionary Frontier Vol.I](./Illusionary_Frontier_Vol.I.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
+- [Illusionary Frontier Vol.I](./Illusionary_Frontier_Vol.I.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-源地址：[source page (DeviantArt)](https://www.deviantart.com/msnshame/art/Portada-Illusionary-Frontier-1-206354674)
-  
-
-
-
-
+源地址：[source page (DeviantArt)](https://www.deviantart.com/msnshame/art/Portada-Illusionary-Frontier-1-206354674)  
 
 ---
 

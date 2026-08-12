@@ -1,6 +1,6 @@
 # 文件:蓮台野夜音_プレCD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c4\ns6%3A%E8%93%AE%E5%8F%B0%E9%87%8E%E5%A4%9C%E9%9F%B3_%E3%83%97%E3%83%ACCD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c4\ns6%3A%E8%93%AE%E5%8F%B0%E9%87%8E%E5%A4%9C%E9%9F%B3_%E3%83%97%E3%83%ACCD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 狐の工作室
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [蓮台野夜音 プレCD](./蓮台野夜音_プレCD.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [蓮台野夜音 プレCD](./蓮台野夜音_プレCD.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

@@ -1,14 +1,11 @@
 # 文件:Gods_A_Ghosbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\82\ns6%3AGods_A_Ghosbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\82\ns6%3AGods_A_Ghosbanner%2Ejpg.html -->
 
 Gods_A_Ghos | 社团LOGO
 
 
 ## 文件说明
-
-
-
 
 ---
 

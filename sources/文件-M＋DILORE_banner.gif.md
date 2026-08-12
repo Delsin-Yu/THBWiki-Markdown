@@ -1,14 +1,11 @@
 # 文件:M＋DILORE_banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5e\ns6%3AM%EF%BC%8BDILORE_banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5e\ns6%3AM%EF%BC%8BDILORE_banner%2Egif.html -->
 
 M＋DILORE | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

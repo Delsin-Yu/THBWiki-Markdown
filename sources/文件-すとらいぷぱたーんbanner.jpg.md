@@ -1,14 +1,11 @@
 # 文件:すとらいぷぱたーんbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1d\ns6%3A%E3%81%99%E3%81%A8%E3%82%89%E3%81%84%E3%81%B7%E3%81%B1%E3%81%9F%E3%83%BC%E3%82%93banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1d\ns6%3A%E3%81%99%E3%81%A8%E3%82%89%E3%81%84%E3%81%B7%E3%81%B1%E3%81%9F%E3%83%BC%E3%82%93banner%2Ejpg.html -->
 
 すとらいぷぱたーん | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

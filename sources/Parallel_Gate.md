@@ -1,45 +1,40 @@
 # Parallel_Gate
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\7\7f\ns0%3AParallel_Gate.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\7\7f\ns0%3AParallel_Gate.html -->
 
 2017年10月15日 由 CielArc 于 博丽神社秋季例大祭4 发布的EP同人专辑，曲目主要风格是 Rock，内容以 东方天空璋为题材，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人专辑 (未找到链接)** 的词条
-
+**[二次创作同人专辑](./二次创作.md#同人音乐)**的词条
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Parallel_Gate封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/4/4f/Parallel_Gate%E5%B0%81%E9%9D%A2.jpg/308px-Parallel_Gate%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="308" height="308" srcset="https://upload.thwiki.cc/thumb/4/4f/Parallel_Gate%E5%B0%81%E9%9D%A2.jpg/462px-Parallel_Gate%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/4/4f/Parallel_Gate%E5%B0%81%E9%9D%A2.jpg/616px-Parallel_Gate%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1024" data-file-height="1024"></a><div class="cover-char">角色：<a href="./丁礼田舞.md" title="丁礼田舞">丁礼田舞</a>，<a href="./尔子田里乃.md" title="尔子田里乃">尔子田里乃</a></div></td>
 </tr><tr><td class="label">名称</td><td colspan="2"> Parallel Gate </td></tr><tr><td class="label">制作方</td><td><a href="./CielArc.md" title="CielArc">CielArc</a></td><td class="cover-artwork" rowspan="11" style="min-width:308px;"><a href="./文件-Parallel_Gate封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/4/4f/Parallel_Gate%E5%B0%81%E9%9D%A2.jpg/308px-Parallel_Gate%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="308" height="308" srcset="https://upload.thwiki.cc/thumb/4/4f/Parallel_Gate%E5%B0%81%E9%9D%A2.jpg/462px-Parallel_Gate%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/4/4f/Parallel_Gate%E5%B0%81%E9%9D%A2.jpg/616px-Parallel_Gate%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1024" data-file-height="1024"></a><div class="cover-char">角色：<a href="./丁礼田舞.md" title="丁礼田舞">丁礼田舞</a>，<a href="./尔子田里乃.md" title="尔子田里乃">尔子田里乃</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2017-10-15&#160;（<a href="/展会作品列表?e=%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E7%A7%8B%E5%AD%A3%E4%BE%8B%E5%A4%A7%E7%A5%AD%234">第四回 博麗神社秋季例大祭</a>）</td></tr><tr><td class="label">类型</td><td>EP</td></tr><tr><td class="label">编号</td><td>CAEP-0002</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>3</td></tr><tr><td class="label">总时长</td><td>11:22</td></tr><tr><td class="label">风格类型</td><td>Rock</td></tr><tr><td class="label">特定选材</td><td>东方天空璋</td></tr><tr><td class="label">售价</td><td>会场售价：500日元<br>通贩售价：714日元</td></tr>
+</tr><tr><td class="label">首发日期</td><td>2017-10-15 （<a href="./展会作品列表.md#4">第四回 博麗神社秋季例大祭</a>）</td></tr><tr><td class="label">类型</td><td>EP</td></tr><tr><td class="label">编号</td><td>CAEP-0002</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>3</td></tr><tr><td class="label">总时长</td><td>11:22</td></tr><tr><td class="label">风格类型</td><td>Rock</td></tr><tr><td class="label">特定选材</td><td>东方天空璋</td></tr><tr><td class="label">售价</td><td>会场售价：500日元<br>通贩售价：714日元</td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://cielarcmusic.wixsite.com/cielarc/parallelgate">http://cielarcmusic.wixsite.com/cielarc/parallelgate</a></td></tr></tbody></table>
 
 Parallel Gate（同人专辑，CielArc，2017） - 2017年10月15日 由 CielArc 于 博丽神社秋季例大祭4 发布的EP同人专辑，曲目主要风格是 Rock，内容以 东方天空璋为题材，分级为 一般向
-
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=288807">蜜瓜</a>，<a rel="nofollow" class="external text" href="https://shop.akbh.jp/products/detail/5614">AkibaHOBBY（新）</a>，<a rel="nofollow" class="external text" href="https://booth.pm/orders/2180355">Booth</a></td></tr></tbody></table>
-
 
 
 ## Staff
   
- **Arrangement**   
+**Arrangement**  
 
 <table><tbody><tr><td><a href="./MxRxI.md" title="MxRxI">MxRxI</a></td><td><a href="./CielArc.md" title="CielArc">CielArc</a></td><td>Tr.1-3</td></tr></tbody></table>
 
   
- **Vocal**   
+**Vocal**  
 
 <table><tbody><tr><td><a href="./ゆずり.md" title="ゆずり">ゆずり</a></td><td><a href="./CielArc.md" title="CielArc">CielArc</a></td><td>Tr.1-3</td></tr></tbody></table>
 
   
- **Lyrics**   
+**Lyrics**  
 
 <table><tbody><tr><td><a href="./ゆずり.md" title="ゆずり">ゆずり</a></td><td><a href="./CielArc.md" title="CielArc">CielArc</a></td><td>Tr.1-3</td></tr></tbody></table>
 
-
 Illustration
 : うさ叉吉
-
 
 ## 试听
 
@@ -52,25 +47,18 @@ Illustration
 <td><iframe width="560" height="315" src="//www.youtube-nocookie.com/embed/n4AO5NwuDU0?" frameborder="0" allowfullscreen=""></iframe>
 </td></tr></tbody></table>
 
-
   
 <iframe width="100%" height="180" src="https://ext.nicovideo.jp/thumb/sm32027808" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/watch/sm32027808">,</a></iframe>
-
   
-
 
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoRD"><b>01</b></td><td id="Shout!" colspan="2" class="title"><a href="./歌词-Shout!.md" title="歌词:Shout!">Shout!</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=MxRxI&amp;vocal=ゆずり&amp;lyric=ゆずり&amp;ogmusic=真夏の妖精の夢&amp;fromwiki=Parallel_Gate"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:01</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./MxRxI.md" title="MxRxI">MxRxI</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，MxRxI&amp;fromwiki=Parallel_Gate"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="./ゆずり.md" title="ゆずり">ゆずり</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=ゆずり&amp;fromwiki=Parallel_Gate"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="./ゆずり.md" title="ゆずり">ゆずり</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?lyric=ゆずり&amp;fromwiki=Parallel_Gate"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=真夏の妖精の夢&amp;fromwiki=Parallel_Gate"><span></span></a></span><div class="ogmusic"><a href="./真夏の妖精の夢.md" class="mw-redirect" title="真夏の妖精の夢">真夏の妖精の夢</a></div><div class="source"><a href="./东方天空璋_～_Hidden_Star_in_Four_Seasons..md" class="mw-redirect" title="东方天空璋 ～ Hidden Star in Four Seasons.">东方天空璋　～ Hidden Star in Four Seasons.</a></div></td></tr>
-<tr><td id="2" class="infoRD"><b>02</b></td><td id="Parallel_Gate" colspan="2" class="title"><a href="./歌词-Parallel_Gate.md" title="歌词:Parallel Gate">Parallel Gate</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=MxRxI&amp;vocal=ゆずり&amp;lyric=ゆずり&amp;ogmusic=禁断の扉の向こうは、この世かあの世か，クレイジーバックダンサーズ&amp;fromwiki=Parallel_Gate"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:22</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./MxRxI.md" title="MxRxI">MxRxI</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，MxRxI&amp;fromwiki=Parallel_Gate"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="./ゆずり.md" title="ゆずり">ゆずり</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=ゆずり&amp;fromwiki=Parallel_Gate"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="./ゆずり.md" title="ゆずり">ゆずり</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?lyric=ゆずり&amp;fromwiki=Parallel_Gate"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=禁断の扉の向こうは、この世かあの世か，クレイジーバックダンサーズ&amp;fromwiki=Parallel_Gate"><span></span></a></span><div class="ogmusic"><a href="./禁断の扉の向こうは、この世かあの世か.md" class="mw-redirect" title="禁断の扉の向こうは、この世かあの世か">禁断の扉の向こうは、この世かあの世か</a></div><div class="ogmusic"><a href="./クレイジーバックダンサーズ.md" class="mw-redirect" title="クレイジーバックダンサーズ">クレイジーバックダンサーズ</a></div><div class="source"><a href="./东方天空璋_～_Hidden_Star_in_Four_Seasons..md" class="mw-redirect" title="东方天空璋 ～ Hidden Star in Four Seasons.">东方天空璋　～ Hidden Star in Four Seasons.</a></div></td></tr>
-<tr><td id="3" class="infoRD"><b>03</b></td><td id="Starry" colspan="2" class="title"><a href="./歌词-Starry.md" title="歌词:Starry">Starry</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=MxRxI&amp;vocal=ゆずり&amp;lyric=ゆずり&amp;ogmusic=白い旅人&amp;fromwiki=Parallel_Gate"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:59</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./MxRxI.md" title="MxRxI">MxRxI</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，MxRxI&amp;fromwiki=Parallel_Gate"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="./ゆずり.md" title="ゆずり">ゆずり</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=ゆずり&amp;fromwiki=Parallel_Gate"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="./ゆずり.md" title="ゆずり">ゆずり</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?lyric=ゆずり&amp;fromwiki=Parallel_Gate"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=白い旅人&amp;fromwiki=Parallel_Gate"><span></span></a></span><div class="ogmusic"><a href="./白い旅人.md" class="mw-redirect" title="白い旅人">白い旅人</a></div><div class="source"><a href="./东方天空璋_～_Hidden_Star_in_Four_Seasons..md" class="mw-redirect" title="东方天空璋 ～ Hidden Star in Four Seasons.">东方天空璋　～ Hidden Star in Four Seasons.</a></div></td></tr></tbody></table>
-
+<table><tbody><tr><td id="1" class="infoRD"><b>01</b></td><td id="Shout!" colspan="2" class="title"><a href="./歌词-Shout!.md" title="歌词:Shout!">Shout!</a></td><td class="time">04:01</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./MxRxI.md" title="MxRxI">MxRxI</a></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="./ゆずり.md" title="ゆずり">ゆずり</a></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="./ゆずり.md" title="ゆずり">ゆずり</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./仲夏的妖精梦.md" class="mw-redirect" title="真夏の妖精の夢">真夏の妖精の夢</a></div><div class="source"><a href="./东方天空璋.md" class="mw-redirect" title="东方天空璋 ～ Hidden Star in Four Seasons.">东方天空璋　～ Hidden Star in Four Seasons.</a></div></td></tr>
+<tr><td id="2" class="infoRD"><b>02</b></td><td id="Parallel_Gate" colspan="2" class="title"><a href="./歌词-Parallel_Gate.md" title="歌词:Parallel Gate">Parallel Gate</a></td><td class="time">03:22</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./MxRxI.md" title="MxRxI">MxRxI</a></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="./ゆずり.md" title="ゆずり">ゆずり</a></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="./ゆずり.md" title="ゆずり">ゆずり</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./禁忌之门对侧，是此世还是彼世.md" class="mw-redirect" title="禁断の扉の向こうは、この世かあの世か">禁断の扉の向こうは、この世かあの世か</a></div><div class="ogmusic"><a href="./Crazy_Back_Dancers.md" class="mw-redirect" title="クレイジーバックダンサーズ">クレイジーバックダンサーズ</a></div><div class="source"><a href="./东方天空璋.md" class="mw-redirect" title="东方天空璋 ～ Hidden Star in Four Seasons.">东方天空璋　～ Hidden Star in Four Seasons.</a></div></td></tr>
+<tr><td id="3" class="infoRD"><b>03</b></td><td id="Starry" colspan="2" class="title"><a href="./歌词-Starry.md" title="歌词:Starry">Starry</a></td><td class="time">03:59</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./MxRxI.md" title="MxRxI">MxRxI</a></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="./ゆずり.md" title="ゆずり">ゆずり</a></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="./ゆずり.md" title="ゆずり">ゆずり</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./白色旅人.md" class="mw-redirect" title="白い旅人">白い旅人</a></div><div class="source"><a href="./东方天空璋.md" class="mw-redirect" title="东方天空璋 ～ Hidden Star in Four Seasons.">东方天空璋　～ Hidden Star in Four Seasons.</a></div></td></tr></tbody></table>
 
 
 ## 评论
-
-
-
 
 ---
 

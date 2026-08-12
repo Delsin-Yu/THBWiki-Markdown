@@ -1,6 +1,6 @@
 # 文件:TOHODAMMIT2_ツナサシミ封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\45\ns6%3ATOHODAMMIT2_%E3%83%84%E3%83%8A%E3%82%B5%E3%82%B7%E3%83%9F%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\45\ns6%3ATOHODAMMIT2_%E3%83%84%E3%83%8A%E3%82%B5%E3%82%B7%E3%83%9F%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Team-Bearhug | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Team-Bearhug | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [TOHODAMMIT2 ツナサシミ](./TOHODAMMIT2_ツナサシミ.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
-
-
-
+- [TOHODAMMIT2 ツナサシミ](./TOHODAMMIT2_ツナサシミ.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
 
 
 ---

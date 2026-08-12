@@ -1,6 +1,6 @@
 # 文件:Activity_Log_-240503-封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\95\ns6%3AActivity_Log_-240503-%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\95\ns6%3AActivity_Log_-240503-%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 CriCas | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ CriCas | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Activity Log -240503-](./Activity_Log_-240503-.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
-
-
-
+- [Activity Log -240503-](./Activity_Log_-240503-.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
 
 
 ---

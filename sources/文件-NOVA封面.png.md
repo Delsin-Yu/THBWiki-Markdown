@@ -1,6 +1,6 @@
 # 文件:NOVA封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fd\ns6%3ANOVA%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fd\ns6%3ANOVA%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 FOX_UNRAVEL | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ FOX_UNRAVEL | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [NOVA](./NOVA.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
+- [NOVA](./NOVA.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
   
-源地址：[[1]](http://foxunravel.96.lt/wp-content/uploads/2015/12/霊夢-7.png)
-  
-
-
-
-
+源地址：[\[1\]](http://foxunravel.96.lt/wp-content/uploads/2015/12/霊夢-7.png)  
 
 ---
 

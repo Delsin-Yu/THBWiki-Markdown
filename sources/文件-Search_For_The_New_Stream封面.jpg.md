@@ -1,6 +1,6 @@
 # 文件:Search_For_The_New_Stream封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b1\ns6%3ASearch_For_The_New_Stream%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b1\ns6%3ASearch_For_The_New_Stream%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 DHS | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ DHS | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Search For The New Stream](./Search_For_The_New_Stream.md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)
+- [Search For The New Stream](./Search_For_The_New_Stream.md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
 
   
-源地址: [[1]](http://dhstoho.web.fc2.com/omote.jpg)
-  
-
-
-
-
+源地址: [\[1\]](http://dhstoho.web.fc2.com/omote.jpg)  
 
 ---
 

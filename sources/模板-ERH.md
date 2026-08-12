@@ -1,16 +1,12 @@
 # 模板:ERH
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\d\d3\ns10%3AERH.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\d\d3\ns10%3AERH.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

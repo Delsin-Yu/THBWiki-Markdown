@@ -1,12 +1,8 @@
 # 文件:彼岸妖乐团banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cf\ns6%3A%E5%BD%BC%E5%B2%B8%E5%A6%96%E4%B9%90%E5%9B%A2banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cf\ns6%3A%E5%BD%BC%E5%B2%B8%E5%A6%96%E4%B9%90%E5%9B%A2banner%2Epng.html -->
 
 彼岸妖乐团 | 社团LOGO
-
-
-
-
 
 
 ---

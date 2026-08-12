@@ -1,6 +1,6 @@
 # 文件:HAKUREI_RAVE_01_EXTENDED封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\96\ns6%3AHAKUREI_RAVE_01_EXTENDED%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\96\ns6%3AHAKUREI_RAVE_01_EXTENDED%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 LiLA'c_Records | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ LiLA'c_Records | 专辑封面 | 封面图片
   
 
 - [HAKUREI RAVE 01 EXTENDED](./HAKUREI_RAVE_01_EXTENDED.md)
-
-
-
 
 
 ---

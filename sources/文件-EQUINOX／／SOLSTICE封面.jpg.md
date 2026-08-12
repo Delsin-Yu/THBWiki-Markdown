@@ -1,6 +1,6 @@
 # 文件:EQUINOX／／SOLSTICE封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c7\ns6%3AEQUINOX%EF%BC%8F%EF%BC%8FSOLSTICE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c7\ns6%3AEQUINOX%EF%BC%8F%EF%BC%8FSOLSTICE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Alter_Synth | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Alter_Synth | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [EQUINOX／／SOLSTICE](./EQUINOX／／SOLSTICE.md)  
-该封面包含的角色：- [爱塔妮缇拉尔瓦](./爱塔妮缇拉尔瓦.md)
-
-
-
+- [EQUINOX／／SOLSTICE](./EQUINOX／／SOLSTICE.md)该封面包含的角色：
+- [爱塔妮缇拉尔瓦](./爱塔妮缇拉尔瓦.md)
 
 
 ---

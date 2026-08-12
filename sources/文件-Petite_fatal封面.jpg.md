@@ -1,6 +1,6 @@
 # 文件:Petite_fatal封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4c\ns6%3APetite_fatal%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4c\ns6%3APetite_fatal%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 WIND_MAIL | 同人志封面 | 封面图片
 
@@ -10,11 +10,9 @@ WIND_MAIL | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Petite fatal](./Petite_fatal.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)- [风见幽香](./风见幽香.md)
-
-
-
+- [Petite fatal](./Petite_fatal.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [风见幽香](./风见幽香.md)
 
 
 ---

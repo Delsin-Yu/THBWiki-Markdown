@@ -1,6 +1,6 @@
 # 文件:Phantasm_Festa封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\38\ns6%3APhantasm_Festa%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\38\ns6%3APhantasm_Festa%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Floating_Cloud | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Floating_Cloud | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Phantasm Festa](./Phantasm_Festa.md)  
-该封面包含的角色：- [八云紫](./八云紫.md)
-
-
-
+- [Phantasm Festa](./Phantasm_Festa.md)该封面包含的角色：
+- [八云紫](./八云紫.md)
 
 
 ---

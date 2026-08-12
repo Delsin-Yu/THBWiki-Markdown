@@ -1,12 +1,8 @@
 # 文件:恋色屋_banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\10\ns6%3A%E6%81%8B%E8%89%B2%E5%B1%8B_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\10\ns6%3A%E6%81%8B%E8%89%B2%E5%B1%8B_banner%2Ejpg.html -->
 
 恋色屋 | 社团LOGO
-
-
-
-
 
 
 ---

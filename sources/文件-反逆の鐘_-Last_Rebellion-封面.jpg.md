@@ -1,6 +1,6 @@
 # 文件:反逆の鐘_-Last_Rebellion-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a9\ns6%3A%E5%8F%8D%E9%80%86%E3%81%AE%E9%90%98_-Last_Rebellion-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a9\ns6%3A%E5%8F%8D%E9%80%86%E3%81%AE%E9%90%98_-Last_Rebellion-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 暁Records
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [反逆の鐘 -Last Rebellion-](./反逆の鐘_-Last_Rebellion-.md)  
-该封面包含的角色：- [鬼人正邪](./鬼人正邪.md)
-
-
-
+- [反逆の鐘 -Last Rebellion-](./反逆の鐘_-Last_Rebellion-.md)该封面包含的角色：
+- [鬼人正邪](./鬼人正邪.md)
 
 
 ---

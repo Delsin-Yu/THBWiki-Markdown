@@ -1,6 +1,6 @@
 # 文件:パチュリーNOレジ袋封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7d\ns6%3A%E3%83%91%E3%83%81%E3%83%A5%E3%83%AA%E3%83%BCNO%E3%83%AC%E3%82%B8%E8%A2%8B%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7d\ns6%3A%E3%83%91%E3%83%81%E3%83%A5%E3%83%AA%E3%83%BCNO%E3%83%AC%E3%82%B8%E8%A2%8B%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 いんどの宮殿！ | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [パチュリーNOレジ袋](./パチュリーNOレジ袋.md)  
-该封面包含的角色：- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
-
-
-
+- [パチュリーNOレジ袋](./パチュリーNOレジ袋.md)该封面包含的角色：
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
 
 
 ---

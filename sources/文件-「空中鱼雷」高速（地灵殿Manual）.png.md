@@ -1,12 +1,8 @@
 # 文件:「空中鱼雷」高速（地灵殿Manual）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\19\ns6%3A%E3%80%8C%E7%A9%BA%E4%B8%AD%E9%B1%BC%E9%9B%B7%E3%80%8D%E9%AB%98%E9%80%9F%EF%BC%88%E5%9C%B0%E7%81%B5%E6%AE%BFManual%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\19\ns6%3A%E3%80%8C%E7%A9%BA%E4%B8%AD%E9%B1%BC%E9%9B%B7%E3%80%8D%E9%AB%98%E9%80%9F%EF%BC%88%E5%9C%B0%E7%81%B5%E6%AE%BFManual%EF%BC%89%2Epng.html -->
 
 Manual配图 | 东方地灵殿 | 雾雨魔理沙
-
-
-
-
 
 
 ---

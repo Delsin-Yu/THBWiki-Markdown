@@ -1,6 +1,6 @@
 # 文件:Phantasticall_sound_finder封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c2\ns6%3APhantasticall_sound_finder%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c2\ns6%3APhantasticall_sound_finder%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 梶迫小道具店
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [phantasticall sound finder](./phantasticall_sound_finder.md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)
-
-
-
+- [phantasticall sound finder](./phantasticall_sound_finder.md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
 
 
 ---

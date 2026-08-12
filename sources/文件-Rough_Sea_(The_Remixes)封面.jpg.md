@@ -1,6 +1,6 @@
 # 文件:Rough_Sea_(The_Remixes)封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7b\ns6%3ARough_Sea_%28The_Remixes%29%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7b\ns6%3ARough_Sea_%28The_Remixes%29%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Nami_Haven | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Nami_Haven | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Rough Sea (The Remixes)](./Rough_Sea_(The_Remixes).md)  
-该封面包含的角色：- [九十九弁弁](./九十九弁弁.md)
-
-
-
+- [Rough Sea (The Remixes)](./Rough_Sea_(The_Remixes%29.md)该封面包含的角色：
+- [九十九弁弁](./九十九弁弁.md)
 
 
 ---

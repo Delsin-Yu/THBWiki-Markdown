@@ -1,6 +1,6 @@
 # 文件:Pieces_of_Antinomy_Mind封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e7\ns6%3APieces_of_Antinomy_Mind%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e7\ns6%3APieces_of_Antinomy_Mind%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Colorful_Cube | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ Colorful_Cube | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Pieces of Antinomy Mind](./Pieces_of_Antinomy_Mind.md)  
-该封面包含的角色：- [爱丽丝（旧作角色）](./爱丽丝（旧作角色）.md)- [神绮](./神绮.md)
-
-
-
+- [Pieces of Antinomy Mind](./Pieces_of_Antinomy_Mind.md)该封面包含的角色：
+- [爱丽丝（旧作角色）](./爱丽丝（旧作角色）.md)
+- [神绮](./神绮.md)
 
 
 ---

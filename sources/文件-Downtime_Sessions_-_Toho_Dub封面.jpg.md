@@ -1,6 +1,6 @@
 # 文件:Downtime_Sessions_-_Toho_Dub封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a2\ns6%3ADowntime_Sessions_-_Toho_Dub%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a2\ns6%3ADowntime_Sessions_-_Toho_Dub%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Moon-Tone | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Moon-Tone | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Downtime Sessions - Toho Dub](./Downtime_Sessions_-_Toho_Dub.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
+- [Downtime Sessions - Toho Dub](./Downtime_Sessions_-_Toho_Dub.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
   
-源地址：[[1]](https://f4.bcbits.com/img/a1798412644_10.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://f4.bcbits.com/img/a1798412644_10.jpg)  
 
 ---
 

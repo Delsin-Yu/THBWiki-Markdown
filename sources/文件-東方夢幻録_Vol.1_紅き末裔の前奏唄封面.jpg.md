@@ -1,6 +1,6 @@
 # 文件:東方夢幻録_Vol.1_紅き末裔の前奏唄封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\69\ns6%3A%E6%9D%B1%E6%96%B9%E5%A4%A2%E5%B9%BB%E9%8C%B2_Vol%2E1_%E7%B4%85%E3%81%8D%E6%9C%AB%E8%A3%94%E3%81%AE%E5%89%8D%E5%A5%8F%E5%94%84%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\69\ns6%3A%E6%9D%B1%E6%96%B9%E5%A4%A2%E5%B9%BB%E9%8C%B2_Vol%2E1_%E7%B4%85%E3%81%8D%E6%9C%AB%E8%A3%94%E3%81%AE%E5%89%8D%E5%A5%8F%E5%94%84%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Re：Volte | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ Re：Volte | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方夢幻録 Vol.1 紅き末裔の前奏唄](./東方夢幻録_Vol.1_紅き末裔の前奏唄.md)  
-该封面包含的角色：- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [東方夢幻録 Vol.1 紅き末裔の前奏唄](./東方夢幻録_Vol.1_紅き末裔の前奏唄.md)该封面包含的角色：
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

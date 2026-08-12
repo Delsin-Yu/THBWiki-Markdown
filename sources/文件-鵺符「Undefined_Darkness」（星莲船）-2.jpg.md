@@ -1,12 +1,8 @@
 # 文件:鵺符「Undefined_Darkness」（星莲船）-2.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c6\ns6%3A%E9%B5%BA%E7%AC%A6%E3%80%8CUndefined_Darkness%E3%80%8D%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%EF%BC%89-2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c6\ns6%3A%E9%B5%BA%E7%AC%A6%E3%80%8CUndefined_Darkness%E3%80%8D%EF%BC%88%E6%98%9F%E8%8E%B2%E8%88%B9%EF%BC%89-2%2Ejpg.html -->
 
 东方星莲船 | 封兽鵺 | 敌机符卡
-
-
-
-
 
 
 ---

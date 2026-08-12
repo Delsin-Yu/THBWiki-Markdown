@@ -1,16 +1,12 @@
 # 模板:头文字S
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\a\ad\ns10%3A%E5%A4%B4%E6%96%87%E5%AD%97S.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\a\ad\ns10%3A%E5%A4%B4%E6%96%87%E5%AD%97S.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

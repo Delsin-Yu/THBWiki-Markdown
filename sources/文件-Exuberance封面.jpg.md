@@ -1,6 +1,6 @@
 # 文件:Exuberance封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\17\ns6%3AExuberance%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\17\ns6%3AExuberance%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 sun3_FielD | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@ sun3_FielD | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Exuberance](./Exuberance.md)  
-该封面包含的角色：- [橙](./橙.md)
+- [Exuberance](./Exuberance.md)该封面包含的角色：
+- [橙](./橙.md)
 
   
-源地址：[Discogs](https://www.discogs.com/release/6092729-Sun3-Exuberance)
-  
-
-
-
-
+源地址：[Discogs](https://www.discogs.com/release/6092729-Sun3-Exuberance)  
 
 ---
 

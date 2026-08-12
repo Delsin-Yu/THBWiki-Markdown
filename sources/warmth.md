@@ -1,44 +1,36 @@
 # warmth
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\d\df\ns0%3Awarmth.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\d\df\ns0%3Awarmth.html -->
 
 2015年12月30日 由 ハラペーニョチップス 于 Comic Market 89 发布的漫画同人志，B5尺寸，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人志 (未找到链接)** 的词条
-
+**[二次创作同人志](./二次创作.md#同人志)**的词条
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-warmth封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/e/ec/warmth%E5%B0%81%E9%9D%A2.jpg/115px-warmth%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="115" height="168" srcset="https://upload.thwiki.cc/thumb/e/ec/warmth%E5%B0%81%E9%9D%A2.jpg/173px-warmth%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/e/ec/warmth%E5%B0%81%E9%9D%A2.jpg/230px-warmth%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="617" data-file-height="900"></a><div class="cover-char">角色：<a href="./爱丽丝·玛格特洛依德.md" title="爱丽丝·玛格特洛依德">爱丽丝·玛格特洛依德</a></div></td>
 </tr><tr><td class="label">名称</td><td colspan="2"> warmth </td></tr><tr><td class="label">制作方</td><td><a href="./ハラペーニョチップス.md" title="ハラペーニョチップス">ハラペーニョチップス</a></td><td class="cover-artwork" rowspan="6" style="min-width:168px;"><a href="./文件-warmth封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/e/ec/warmth%E5%B0%81%E9%9D%A2.jpg/115px-warmth%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="115" height="168" srcset="https://upload.thwiki.cc/thumb/e/ec/warmth%E5%B0%81%E9%9D%A2.jpg/173px-warmth%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/e/ec/warmth%E5%B0%81%E9%9D%A2.jpg/230px-warmth%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="617" data-file-height="900"></a><div class="cover-char">角色：<a href="./爱丽丝·玛格特洛依德.md" title="爱丽丝·玛格特洛依德">爱丽丝·玛格特洛依德</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2015-12-30&#160;（<a href="/展会作品列表?e=Comic+Market%2389">Comic Market 89</a>）</td></tr><tr><td class="label">类型</td><td>漫画</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>B5</td></tr><tr><td class="label">售价</td><td>会场售价：400日元</td></tr>
+</tr><tr><td class="label">首发日期</td><td>2015-12-30 （<a href="./展会作品列表.md#89">Comic Market 89</a>）</td></tr><tr><td class="label">类型</td><td>漫画</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>B5</td></tr><tr><td class="label">售价</td><td>会场售价：400日元</td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/54296681">https://www.pixiv.net/artworks/54296681</a><br><a rel="nofollow" class="external free" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=150756">https://www.melonbooks.co.jp/detail/detail.php?product_id=150756</a></td></tr></tbody></table>
 
 warmth（同人志，ハラペーニョチップス，2015） - 2015年12月30日 由 ハラペーニョチップス 于 Comic Market 89 发布的漫画同人志，B5尺寸，分级为 一般向
-
 ## 预览
-- [](./文件-warmth预览图1.jpg.md)- [](./文件-warmth预览图2.jpg.md)- [](./文件-warmth预览图3.jpg.md)- [](./文件-warmth预览图4.jpg.md)
+
+- <img alt="warmth预览图1.jpg" src="https://upload.thwiki.cc/thumb/f/fc/warmth%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg/254px-warmth%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg" decoding="async" loading="lazy" width="170" height="250" srcset="https://upload.thwiki.cc/thumb/f/fc/warmth%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg/382px-warmth%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg 1.5x, https://upload.thwiki.cc/thumb/f/fc/warmth%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg/509px-warmth%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg 2x" data-file-width="611" data-file-height="900"> 
+- <img alt="warmth预览图2.jpg" src="https://upload.thwiki.cc/thumb/d/dc/warmth%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg/258px-warmth%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg" decoding="async" loading="lazy" width="172" height="250" srcset="https://upload.thwiki.cc/thumb/d/dc/warmth%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg/387px-warmth%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg 1.5x, https://upload.thwiki.cc/thumb/d/dc/warmth%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg/516px-warmth%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg 2x" data-file-width="619" data-file-height="900"> 
+- <img alt="warmth预览图3.jpg" src="https://upload.thwiki.cc/thumb/7/7a/warmth%E9%A2%84%E8%A7%88%E5%9B%BE3.jpg/257px-warmth%E9%A2%84%E8%A7%88%E5%9B%BE3.jpg" decoding="async" loading="lazy" width="172" height="250" srcset="https://upload.thwiki.cc/thumb/7/7a/warmth%E9%A2%84%E8%A7%88%E5%9B%BE3.jpg/385px-warmth%E9%A2%84%E8%A7%88%E5%9B%BE3.jpg 1.5x, https://upload.thwiki.cc/thumb/7/7a/warmth%E9%A2%84%E8%A7%88%E5%9B%BE3.jpg/513px-warmth%E9%A2%84%E8%A7%88%E5%9B%BE3.jpg 2x" data-file-width="616" data-file-height="900"> 
+- <img alt="warmth预览图4.jpg" src="https://upload.thwiki.cc/thumb/1/10/warmth%E9%A2%84%E8%A7%88%E5%9B%BE4.jpg/254px-warmth%E9%A2%84%E8%A7%88%E5%9B%BE4.jpg" decoding="async" loading="lazy" width="170" height="250" srcset="https://upload.thwiki.cc/thumb/1/10/warmth%E9%A2%84%E8%A7%88%E5%9B%BE4.jpg/381px-warmth%E9%A2%84%E8%A7%88%E5%9B%BE4.jpg 1.5x, https://upload.thwiki.cc/thumb/1/10/warmth%E9%A2%84%E8%A7%88%E5%9B%BE4.jpg/508px-warmth%E9%A2%84%E8%A7%88%E5%9B%BE4.jpg 2x" data-file-width="610" data-file-height="900"> 
 
 
 ## Staff
+
 - ウロ (未找到链接)
 
 
 ## 评论
+
 ```
-雪が降り積もる博麗神社の階段を昇り、朝からずっと待っていたと言う霊夢に迎えられるアリス☆
-雪合戦で冷えた身体をこたつで温めていると、霊夢にみかんの口移しをおねだりされちゃいます♪
-更に持って来たクリスマスケーキを身体にデコレーションされて、赤ちゃんの様に舐め取られる!
-幻想少女達が繰り広げるイチャラブに思わずにやけちゃう、珠玉の1冊をたっぷりとご堪能下さい。 
-```
-
-  
-  
-
-  
-
-
-
+雪が降り積もる博麗神社の階段を昇り、朝からずっと待っていたと言う霊夢に迎えられるアリス☆ 雪合戦で冷えた身体をこたつで温めていると、霊夢にみかんの口移しをおねだりされちゃいます♪ 更に持って来たクリスマスケーキを身体にデコレーションされて、赤ちゃんの様に舐め取られる! 幻想少女達が繰り広げるイチャラブに思わずにやけちゃう、珠玉の1冊をたっぷりとご堪能下さい。 ```
 
 
 ---

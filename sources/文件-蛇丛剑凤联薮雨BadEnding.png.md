@@ -1,16 +1,12 @@
 # 文件:蛇丛剑凤联薮雨BadEnding.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\88\ns6%3A%E8%9B%87%E4%B8%9B%E5%89%91%E5%87%A4%E8%81%94%E8%96%AE%E9%9B%A8BadEnding%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\88\ns6%3A%E8%9B%87%E4%B8%9B%E5%89%91%E5%87%A4%E8%81%94%E8%96%AE%E9%9B%A8BadEnding%2Epng.html -->
 
 トリック・ノスタルジー
 
   
 蛇丛剑BadEnding插图
   
-
-
-
-
 
 ---
 

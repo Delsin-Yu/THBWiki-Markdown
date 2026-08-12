@@ -1,6 +1,6 @@
 # 文件:メイドと血の運命時計_-EXTRA-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3a\ns6%3A%E3%83%A1%E3%82%A4%E3%83%89%E3%81%A8%E8%A1%80%E3%81%AE%E9%81%8B%E5%91%BD%E6%99%82%E8%A8%88_-EXTRA-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3a\ns6%3A%E3%83%A1%E3%82%A4%E3%83%89%E3%81%A8%E8%A1%80%E3%81%AE%E9%81%8B%E5%91%BD%E6%99%82%E8%A8%88_-EXTRA-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 VISIONNERZ | 同人志封面 | 封面图片
 
@@ -8,11 +8,8 @@ VISIONNERZ | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [メイドと血の運命時計 -EXTRA-](./メイドと血の運命時計_-EXTRA-.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)
-
-
-
+- [メイドと血の運命時計 -EXTRA-](./メイドと血の運命時計_-EXTRA-.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:総集編vol.1封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3e\ns6%3A%E7%B7%8F%E9%9B%86%E7%B7%A8vol%2E1%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3e\ns6%3A%E7%B7%8F%E9%9B%86%E7%B7%A8vol%2E1%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 HIDDEN_TREASURE | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ HIDDEN_TREASURE | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [総集編vol.1](./総集編vol.1.md)  
-该封面包含的角色：- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)
-
-
-
+- [総集編vol.1](./総集編vol.1.md)该封面包含的角色：
+- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)
 
 
 ---

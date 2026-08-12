@@ -1,6 +1,6 @@
 # 文件:Laula封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\92\ns6%3ALaula%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\92\ns6%3ALaula%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Silver_Vampire | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Silver_Vampire | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Laula](./Laula.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)
-
-
-
+- [Laula](./Laula.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
 
 
 ---

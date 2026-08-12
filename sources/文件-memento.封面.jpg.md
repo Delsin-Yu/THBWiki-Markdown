@@ -1,6 +1,6 @@
 # 文件:memento.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\31\ns6%3Amemento%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\31\ns6%3Amemento%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 And-of-World. | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@ And-of-World. | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [memento.](./memento..md)  
-该封面包含的角色：- [伊吹萃香](./伊吹萃香.md)
+- [memento.](./memento..md)该封面包含的角色：
+- [伊吹萃香](./伊吹萃香.md)
 
   
-源地址：[direct image link](https://www.suruga-ya.jp/database/pics_light/game/186109871.jpg), [source page (suruga-ya ID: 186109871)](https://www.suruga-ya.jp/product/detail/186109871)
-  
-
-
-
-
+源地址：[direct image link](https://www.suruga-ya.jp/database/pics_light/game/186109871.jpg), [source page (suruga-ya ID: 186109871)](https://www.suruga-ya.jp/product/detail/186109871)  
 
 ---
 

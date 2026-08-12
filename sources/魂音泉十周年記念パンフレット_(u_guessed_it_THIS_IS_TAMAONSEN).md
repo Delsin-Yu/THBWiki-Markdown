@@ -1,26 +1,25 @@
 # 魂音泉十周年記念パンフレット_(u_guessed_it_THIS_IS_TAMAONSEN)
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\f8\ns0%3A%E9%AD%82%E9%9F%B3%E6%B3%89%E5%8D%81%E5%91%A8%E5%B9%B4%E8%A8%98%E5%BF%B5%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88_%28u_guessed_it_THIS_IS_TAMAONSEN%29.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\f8\ns0%3A%E9%AD%82%E9%9F%B3%E6%B3%89%E5%8D%81%E5%91%A8%E5%B9%B4%E8%A8%98%E5%BF%B5%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88_%28u_guessed_it_THIS_IS_TAMAONSEN%29.html -->
 
 2019年6月8日 由 魂音泉 于 魂音泉10周年纪念单独巡回LIVE -TOSX-1 发布的其他同人志，A4尺寸一共36页，登场人物有 琪露诺、博丽灵梦、洩矢诹访子、芙兰朵露·斯卡蕾特、帕秋莉·诺蕾姬、魂魄妖梦、藤原妹红、八云紫、河城荷取、十六夜咲夜、雾雨魔理沙，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人志 (未找到链接)** 的词条
-
+**[二次创作同人志](./二次创作.md#同人志)**的词条
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-魂音泉十周年記念パンフレット_(u_guessed_it_THIS_IS_TAMAONSEN)封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/d/d2/%E9%AD%82%E9%9F%B3%E6%B3%89%E5%8D%81%E5%91%A8%E5%B9%B4%E8%A8%98%E5%BF%B5%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88_%28u_guessed_it_THIS_IS_TAMAONSEN%29%E5%B0%81%E9%9D%A2.jpg/158px-%E9%AD%82%E9%9F%B3%E6%B3%89%E5%8D%81%E5%91%A8%E5%B9%B4%E8%A8%98%E5%BF%B5%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88_%28u_guessed_it_THIS_IS_TAMAONSEN%29%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="158" height="224" srcset="https://upload.thwiki.cc/thumb/d/d2/%E9%AD%82%E9%9F%B3%E6%B3%89%E5%8D%81%E5%91%A8%E5%B9%B4%E8%A8%98%E5%BF%B5%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88_%28u_guessed_it_THIS_IS_TAMAONSEN%29%E5%B0%81%E9%9D%A2.jpg/238px-%E9%AD%82%E9%9F%B3%E6%B3%89%E5%8D%81%E5%91%A8%E5%B9%B4%E8%A8%98%E5%BF%B5%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88_%28u_guessed_it_THIS_IS_TAMAONSEN%29%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/d/d2/%E9%AD%82%E9%9F%B3%E6%B3%89%E5%8D%81%E5%91%A8%E5%B9%B4%E8%A8%98%E5%BF%B5%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88_%28u_guessed_it_THIS_IS_TAMAONSEN%29%E5%B0%81%E9%9D%A2.jpg/317px-%E9%AD%82%E9%9F%B3%E6%B3%89%E5%8D%81%E5%91%A8%E5%B9%B4%E8%A8%98%E5%BF%B5%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88_%28u_guessed_it_THIS_IS_TAMAONSEN%29%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1023" data-file-height="1446"></a><div class="cover-char">角色：<a href="./琪露诺.md" title="琪露诺">琪露诺</a></div></td>
 </tr><tr><td class="label">名称</td><td colspan="2"> 魂音泉十周年記念パンフレット (u guessed it THIS IS TAMAONSEN) </td></tr><tr><td class="label">译名</td><td colspan="2"> 魂音泉十周年纪念小册子 (u guessed it THIS IS TAMAONSEN) </td></tr><tr><td class="label">制作方</td><td><a href="./魂音泉.md" title="魂音泉">魂音泉</a></td><td class="cover-artwork" rowspan="8" style="min-width:224px;"><a href="./文件-魂音泉十周年記念パンフレット_(u_guessed_it_THIS_IS_TAMAONSEN)封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/d/d2/%E9%AD%82%E9%9F%B3%E6%B3%89%E5%8D%81%E5%91%A8%E5%B9%B4%E8%A8%98%E5%BF%B5%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88_%28u_guessed_it_THIS_IS_TAMAONSEN%29%E5%B0%81%E9%9D%A2.jpg/158px-%E9%AD%82%E9%9F%B3%E6%B3%89%E5%8D%81%E5%91%A8%E5%B9%B4%E8%A8%98%E5%BF%B5%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88_%28u_guessed_it_THIS_IS_TAMAONSEN%29%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="158" height="224" srcset="https://upload.thwiki.cc/thumb/d/d2/%E9%AD%82%E9%9F%B3%E6%B3%89%E5%8D%81%E5%91%A8%E5%B9%B4%E8%A8%98%E5%BF%B5%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88_%28u_guessed_it_THIS_IS_TAMAONSEN%29%E5%B0%81%E9%9D%A2.jpg/238px-%E9%AD%82%E9%9F%B3%E6%B3%89%E5%8D%81%E5%91%A8%E5%B9%B4%E8%A8%98%E5%BF%B5%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88_%28u_guessed_it_THIS_IS_TAMAONSEN%29%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/d/d2/%E9%AD%82%E9%9F%B3%E6%B3%89%E5%8D%81%E5%91%A8%E5%B9%B4%E8%A8%98%E5%BF%B5%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88_%28u_guessed_it_THIS_IS_TAMAONSEN%29%E5%B0%81%E9%9D%A2.jpg/317px-%E9%AD%82%E9%9F%B3%E6%B3%89%E5%8D%81%E5%91%A8%E5%B9%B4%E8%A8%98%E5%BF%B5%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88_%28u_guessed_it_THIS_IS_TAMAONSEN%29%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1023" data-file-height="1446"></a><div class="cover-char">角色：<a href="./琪露诺.md" title="琪露诺">琪露诺</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2019-06-08&#160;（<a href="/展会作品列表?e=%E9%AD%82%E9%9F%B3%E6%B3%8910%E5%91%A8%E5%B9%B4%E7%BA%AA%E5%BF%B5%E5%8D%95%E7%8B%AC%E5%B7%A1%E5%9B%9ELIVE+-TOSX-%231">魂音泉10周年記念ワンマンツアー -TOSX- 1</a>）</td></tr><tr><td class="label">类型</td><td>其他</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>A4</td></tr><tr><td class="label">页数</td><td>36（含封面封底4页）</td></tr><tr><td class="label">登场人物</td><td><a href="./琪露诺.md" title="琪露诺">琪露诺</a>，<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>，<a href="./洩矢诹访子.md" title="洩矢诹访子">洩矢诹访子</a>，<a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰朵露·斯卡蕾特</a>，<a href="./帕秋莉·诺蕾姬.md" title="帕秋莉·诺蕾姬">帕秋莉·诺蕾姬</a>，<a href="./魂魄妖梦.md" title="魂魄妖梦">魂魄妖梦</a>，<a href="./藤原妹红.md" title="藤原妹红">藤原妹红</a>，<a href="./八云紫.md" title="八云紫">八云紫</a>，<a href="./河城荷取.md" title="河城荷取">河城荷取</a>，<a href="/%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C" title="十六夜咲夜">十六夜咲夜</a>，<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a></td></tr><tr><td class="label">售价</td><td>1852日元</td></tr></tbody></table>
+</tr><tr><td class="label">首发日期</td><td>2019-06-08 （<a href="./展会作品列表.md#1">魂音泉10周年記念ワンマンツアー -TOSX- 1</a>）</td></tr><tr><td class="label">类型</td><td>其他</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>A4</td></tr><tr><td class="label">页数</td><td>36（含封面封底4页）</td></tr><tr><td class="label">登场人物</td><td><a href="./琪露诺.md" title="琪露诺">琪露诺</a>，<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>，<a href="./洩矢诹访子.md" title="洩矢诹访子">洩矢诹访子</a>，<a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰朵露·斯卡蕾特</a>，<a href="./帕秋莉·诺蕾姬.md" title="帕秋莉·诺蕾姬">帕秋莉·诺蕾姬</a>，<a href="./魂魄妖梦.md" title="魂魄妖梦">魂魄妖梦</a>，<a href="./藤原妹红.md" title="藤原妹红">藤原妹红</a>，<a href="./八云紫.md" title="八云紫">八云紫</a>，<a href="./河城荷取.md" title="河城荷取">河城荷取</a>，<a href="./十六夜咲夜.md" title="十六夜咲夜">十六夜咲夜</a>，<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a></td></tr><tr><td class="label">售价</td><td>1852日元</td></tr></tbody></table>
 
 魂音泉十周年記念パンフレット (u guessed it THIS IS TAMAONSEN)（同人志，魂音泉，2019） - 2019年6月8日 由 魂音泉 于 魂音泉10周年纪念单独巡回LIVE -TOSX-1 发布的其他同人志，A4尺寸一共36页，登场人物有 琪露诺、博丽灵梦、洩矢诹访子、芙兰朵露·斯卡蕾特、帕秋莉·诺蕾姬、魂魄妖梦、藤原妹红、八云紫、河城荷取、十六夜咲夜、雾雨魔理沙，分级为 一般向
-
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://tamaonsen-556.booth.pm/items/1404679">Booth</a></td></tr></tbody></table>
 
 
-
 ## 预览
-- [](./文件-魂音泉十周年記念パンフレット_(u_guessed_it_THIS_IS_TAMAONSEN)预览图1.jpg.md)- [](./文件-魂音泉十周年記念パンフレット_(u_guessed_it_THIS_IS_TAMAONSEN)预览图2.jpg.md)
+
+- <img alt="魂音泉十周年記念パンフレット (u guessed it THIS IS TAMAONSEN)预览图1.jpg" src="https://upload.thwiki.cc/thumb/a/ad/%E9%AD%82%E9%9F%B3%E6%B3%89%E5%8D%81%E5%91%A8%E5%B9%B4%E8%A8%98%E5%BF%B5%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88_%28u_guessed_it_THIS_IS_TAMAONSEN%29%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg/547px-%E9%AD%82%E9%9F%B3%E6%B3%89%E5%8D%81%E5%91%A8%E5%B9%B4%E8%A8%98%E5%BF%B5%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88_%28u_guessed_it_THIS_IS_TAMAONSEN%29%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg" decoding="async" loading="lazy" width="365" height="250" srcset="https://upload.thwiki.cc/thumb/a/ad/%E9%AD%82%E9%9F%B3%E6%B3%89%E5%8D%81%E5%91%A8%E5%B9%B4%E8%A8%98%E5%BF%B5%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88_%28u_guessed_it_THIS_IS_TAMAONSEN%29%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg/821px-%E9%AD%82%E9%9F%B3%E6%B3%89%E5%8D%81%E5%91%A8%E5%B9%B4%E8%A8%98%E5%BF%B5%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88_%28u_guessed_it_THIS_IS_TAMAONSEN%29%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg 1.5x, https://upload.thwiki.cc/thumb/a/ad/%E9%AD%82%E9%9F%B3%E6%B3%89%E5%8D%81%E5%91%A8%E5%B9%B4%E8%A8%98%E5%BF%B5%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88_%28u_guessed_it_THIS_IS_TAMAONSEN%29%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg/1094px-%E9%AD%82%E9%9F%B3%E6%B3%89%E5%8D%81%E5%91%A8%E5%B9%B4%E8%A8%98%E5%BF%B5%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88_%28u_guessed_it_THIS_IS_TAMAONSEN%29%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg 2x" data-file-width="2964" data-file-height="2033"> 
+- <img alt="魂音泉十周年記念パンフレット (u guessed it THIS IS TAMAONSEN)预览图2.jpg" src="https://upload.thwiki.cc/thumb/1/13/%E9%AD%82%E9%9F%B3%E6%B3%89%E5%8D%81%E5%91%A8%E5%B9%B4%E8%A8%98%E5%BF%B5%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88_%28u_guessed_it_THIS_IS_TAMAONSEN%29%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg/667px-%E9%AD%82%E9%9F%B3%E6%B3%89%E5%8D%81%E5%91%A8%E5%B9%B4%E8%A8%98%E5%BF%B5%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88_%28u_guessed_it_THIS_IS_TAMAONSEN%29%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg" decoding="async" loading="lazy" width="445" height="250" srcset="https://upload.thwiki.cc/thumb/1/13/%E9%AD%82%E9%9F%B3%E6%B3%89%E5%8D%81%E5%91%A8%E5%B9%B4%E8%A8%98%E5%BF%B5%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88_%28u_guessed_it_THIS_IS_TAMAONSEN%29%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg/1001px-%E9%AD%82%E9%9F%B3%E6%B3%89%E5%8D%81%E5%91%A8%E5%B9%B4%E8%A8%98%E5%BF%B5%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88_%28u_guessed_it_THIS_IS_TAMAONSEN%29%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg 1.5x, https://upload.thwiki.cc/thumb/1/13/%E9%AD%82%E9%9F%B3%E6%B3%89%E5%8D%81%E5%91%A8%E5%B9%B4%E8%A8%98%E5%BF%B5%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88_%28u_guessed_it_THIS_IS_TAMAONSEN%29%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg/1334px-%E9%AD%82%E9%9F%B3%E6%B3%89%E5%8D%81%E5%91%A8%E5%B9%B4%E8%A8%98%E5%BF%B5%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88_%28u_guessed_it_THIS_IS_TAMAONSEN%29%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg 2x" data-file-width="1920" data-file-height="1080"> 
 
 
 ## Staff
@@ -52,12 +51,9 @@ Special THX
 : [Wooming](./Wooming.md)，[たま](./たま.md)，TNK5% (未找到链接)，笥箪 (未找到链接)
 : アリレム (未找到链接)，[ランコ](./ランコ.md)，[桃箱](./桃箱.md)，kana (未找到链接)，[ココ](./ココ.md)，ゆうかなで (未找到链接)，[Rute](./Rute.md)，[あき](./あき.md)，星川ひつじ (未找到链接)，[みぃ](./みぃ.md)，[ビートまりお](./ビートまりお.md)
 
-
 ## 评论
-
   
 ありがとう。魂音泉10周年。  
-
   
 
 ・kokorobeats a.k.a. K's/Coroが紐解く、自身のルーツと魂音泉   
@@ -86,16 +82,6 @@ Ginryu
 
 抹 a.k.a. ナンブヒトシ
   
-
-
-  
-  
-
-  
-
-
-
-
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:ちょこふぁんフェスVOL.0_記念CD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c7\ns6%3A%E3%81%A1%E3%82%87%E3%81%93%E3%81%B5%E3%81%81%E3%82%93%E3%83%95%E3%82%A7%E3%82%B9VOL%2E0_%E8%A8%98%E5%BF%B5CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c7\ns6%3A%E3%81%A1%E3%82%87%E3%81%93%E3%81%B5%E3%81%81%E3%82%93%E3%83%95%E3%82%A7%E3%82%B9VOL%2E0_%E8%A8%98%E5%BF%B5CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ちょこふぁん | 专辑封面 | 封面图片
 
@@ -10,11 +10,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [ちょこふぁんフェスVOL.0 記念CD](./ちょこふぁんフェスVOL.0_記念CD.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)- [莉莉霍瓦特](./莉莉霍瓦特.md)- [埴安神袿姬](./埴安神袿姬.md)
-
-
-
+- [ちょこふぁんフェスVOL.0 記念CD](./ちょこふぁんフェスVOL.0_記念CD.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [莉莉霍瓦特](./莉莉霍瓦特.md)
+- [埴安神袿姬](./埴安神袿姬.md)
 
 
 ---

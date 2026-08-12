@@ -1,6 +1,6 @@
 # 文件:Compassion封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d0\ns6%3ACompassion%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d0\ns6%3ACompassion%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 みずいろシャボン | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Compassion](./Compassion.md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)
+- [Compassion](./Compassion.md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
 
   
-源地址：[direct image link](https://s2.booth.pm/f9a4cdbc-0653-4ea8-863d-0e95f87f2dfe/i/3379431/96fe466e-20bd-43e5-b6ea-9fdcd0b33aaa_base_resized.jpg), [source page (circle Booth)](https://chocobanana.booth.pm/items/3379431)
-  
-
-
-
-
+源地址：[direct image link](https://s2.booth.pm/f9a4cdbc-0653-4ea8-863d-0e95f87f2dfe/i/3379431/96fe466e-20bd-43e5-b6ea-9fdcd0b33aaa_base_resized.jpg), [source page (circle Booth)](https://chocobanana.booth.pm/items/3379431)  
 
 ---
 

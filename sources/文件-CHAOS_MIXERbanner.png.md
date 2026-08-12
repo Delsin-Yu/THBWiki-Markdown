@@ -1,16 +1,11 @@
 # 文件:CHAOS_MIXERbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\71\ns6%3ACHAOS_MIXERbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\71\ns6%3ACHAOS_MIXERbanner%2Epng.html -->
 
 CHAOS_MIXER | 社团LOGO
 
   
-源地址：[[1]](https://web.archive.org/web/20131211051923/http://chaosmix.net/contents/banner/chaosmix.png)
-  
-
-
-
-
+源地址：[\[1\]](https://web.archive.org/web/20131211051923/http://chaosmix.net/contents/banner/chaosmix.png)  
 
 ---
 

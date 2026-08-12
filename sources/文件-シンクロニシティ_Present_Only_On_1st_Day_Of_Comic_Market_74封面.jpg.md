@@ -1,6 +1,6 @@
 # 文件:シンクロニシティ_Present_Only_On_1st_Day_Of_Comic_Market_74封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8c\ns6%3A%E3%82%B7%E3%83%B3%E3%82%AF%E3%83%AD%E3%83%8B%E3%82%B7%E3%83%86%E3%82%A3_Present_Only_On_1st_Day_Of_Comic_Market_74%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8c\ns6%3A%E3%82%B7%E3%83%B3%E3%82%AF%E3%83%AD%E3%83%8B%E3%82%B7%E3%83%86%E3%82%A3_Present_Only_On_1st_Day_Of_Comic_Market_74%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 発熱巫女～ず
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [シンクロニシティ Present Only On 1st Day Of Comic Market 74](./シンクロニシティ_Present_Only_On_1st_Day_Of_Comic_Market_74.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [シンクロニシティ Present Only On 1st Day Of Comic Market 74](./シンクロニシティ_Present_Only_On_1st_Day_Of_Comic_Market_74.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

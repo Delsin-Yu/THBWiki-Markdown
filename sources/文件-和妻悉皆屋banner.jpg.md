@@ -1,12 +1,8 @@
 # 文件:和妻悉皆屋banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9b\ns6%3A%E5%92%8C%E5%A6%BB%E6%82%89%E7%9A%86%E5%B1%8Bbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9b\ns6%3A%E5%92%8C%E5%A6%BB%E6%82%89%E7%9A%86%E5%B1%8Bbanner%2Ejpg.html -->
 
 和妻悉皆屋 | 社团LOGO
-
-
-
-
 
 
 ---

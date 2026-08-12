@@ -1,41 +1,33 @@
 # 蓬莱Sugar
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\0a\ns0%3A%E8%93%AC%E8%8E%B1Sugar.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\0a\ns0%3A%E8%93%AC%E8%8E%B1Sugar.html -->
 
 蓬莱Sugar (Hourai Sugar) ，主要制作 同人志 的澳大利亚同人社团，主催是 arufa，当前状态为 休止
 
-本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
-
+本页是关于**[同人社团](./二次创作.md#同人社团)**的词条
 ## 目录
 
 - [1 社团信息](#社团信息)
 - [2 成员名单](#成员名单)
 - [3 作品列表](#作品列表)
-
   - [3.1 同人志](#同人志)
-
 
 
 - [4 参展信息](#参展信息)
 - [5 其他信息](#其他信息)
-
   - [5.1 相关社团](#相关社团)
 
 
 
 
-
-
-
-
 ## 社团信息
-[](./文件-蓬莱Sugarlogo.png.md)  [](./文件-蓬莱Sugarlogo.png.md)logo
-
-<table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> 蓬莱Sugar (Hourai Sugar) </td></tr><tr><td><b>中文名称</b></td><td>蓬莱砂糖</td></tr><tr><td><b>主要作品类型</b></td><td>同人志</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=arufa&amp;action=edit&amp;redlink=1" class="new" title="arufa（页面不存在）">arufa</a> </td></tr><tr><td><b>地区</b></td><td>澳大利亚</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://hourai-sugar.blogspot.com/">http://hourai-sugar.blogspot.com/</a> <br><a rel="nofollow" class="external free" href="https://www.pixiv.net/users/2081432">https://www.pixiv.net/users/2081432</a></td></tr></tbody></table>
+<img alt="" src="https://upload.thwiki.cc/thumb/a/ac/%E8%93%AC%E8%8E%B1Sugarlogo.png/200px-%E8%93%AC%E8%8E%B1Sugarlogo.png" decoding="async" loading="lazy" width="200" height="116" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/a/ac/%E8%93%AC%E8%8E%B1Sugarlogo.png/300px-%E8%93%AC%E8%8E%B1Sugarlogo.png 1.5x, https://upload.thwiki.cc/thumb/a/ac/%E8%93%AC%E8%8E%B1Sugarlogo.png/400px-%E8%93%AC%E8%8E%B1Sugarlogo.png 2x" data-file-width="483" data-file-height="279">
+ [放大](./文件-蓬莱Sugarlogo.png.md)logo
+<table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> 蓬莱Sugar (Hourai Sugar) </td></tr><tr><td><b>中文名称</b></td><td>蓬莱砂糖</td></tr><tr><td><b>主要作品类型</b></td><td>同人志</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>主催</b></td><td> <a class="new" title="arufa（页面不存在）">arufa</a> </td></tr><tr><td><b>地区</b></td><td>澳大利亚</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://hourai-sugar.blogspot.com/">http://hourai-sugar.blogspot.com/</a> <br><a rel="nofollow" class="external free" href="https://www.pixiv.net/users/2081432">https://www.pixiv.net/users/2081432</a></td></tr></tbody></table>
 
 蓬莱Sugar（同人社团，同人志社团） - 蓬莱Sugar (Hourai Sugar) ，主要制作 同人志 的澳大利亚同人社团，主催是 arufa，当前状态为 休止
-
 ## 成员名单
+
 - arufa (未找到链接)
 
 : [Pixiv ID: 2391277](https://www.pixiv.net/users/2391277), [DeviantArt: arufa](https://www.deviantart.com/arufa)
@@ -52,33 +44,21 @@
 
 : [Pixiv ID: 1186889](https://www.pixiv.net/users/1186889)
 
-
 ## 作品列表
 
 ### 同人志
-Rumoured Jealousy 封面图片 (未找到链接)[Rumoured Jealousy](./Rumoured_Jealousy.md)首发日期：未知 （Animania 2010 (未找到链接)）- （一般向）
-<table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
-</table>
-
-
+- **[Rumoured Jealousy](./Rumoured_Jealousy.md)** — 首发日期：未知 （Animania 2010）；- （一般向）
 
 ## 参展信息
 
 ## 其他信息
   
-社团有可能在SMASH! (Sydney Manga and Anime Show) 2012发布妖妖梦专题志。[^cite_note-1]
-  
-
+社团有可能在SMASH! (Sydney Manga and Anime Show) 2012发布妖妖梦专题志。[^cite_note-1]  
 
 ### 相关社团
 Alice Overture
-:  **aruca** 在此社团活动。
-
+: **aruca**在此社团活动。
 [^cite_note-1]: [https://www.deviantart.com/arufa/journal/Sydney-Manga-Anime-Show-2012-308705837](https://www.deviantart.com/arufa/journal/Sydney-Manga-Anime-Show-2012-308705837)
-
-
-
-
 
 ---
 

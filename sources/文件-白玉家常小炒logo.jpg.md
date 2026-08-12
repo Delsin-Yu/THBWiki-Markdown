@@ -1,12 +1,8 @@
 # 文件:白玉家常小炒logo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\18\ns6%3A%E7%99%BD%E7%8E%89%E5%AE%B6%E5%B8%B8%E5%B0%8F%E7%82%92logo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\18\ns6%3A%E7%99%BD%E7%8E%89%E5%AE%B6%E5%B8%B8%E5%B0%8F%E7%82%92logo%2Ejpg.html -->
 
 白玉家 | 社团LOGO
-
-
-
-
 
 
 ---

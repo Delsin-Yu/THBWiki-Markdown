@@ -1,6 +1,6 @@
 # 文件:デジウィ_GENERATiON_instrumental封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\be\ns6%3A%E3%83%87%E3%82%B8%E3%82%A6%E3%82%A3_GENERATiON_instrumental%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\be\ns6%3A%E3%83%87%E3%82%B8%E3%82%A6%E3%82%A3_GENERATiON_instrumental%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 DiGiTAL_WiNG | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ DiGiTAL_WiNG | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [デジウィ GENERATiON instrumental](./デジウィ_GENERATiON_instrumental.md)  
-该封面包含的角色：- [藤原妹红](./藤原妹红.md)
+- [デジウィ GENERATiON instrumental](./デジウィ_GENERATiON_instrumental.md)该封面包含的角色：
+- [藤原妹红](./藤原妹红.md)
 
   
-完整版图片链接：[蜜瓜](https://melonbooks.akamaized.net/user_data/packages/resize_image.php?image=213001023675g.jpg)
-  
-
-
-
-
+完整版图片链接：[蜜瓜](https://melonbooks.akamaized.net/user_data/packages/resize_image.php?image=213001023675g.jpg)  
 
 ---
 

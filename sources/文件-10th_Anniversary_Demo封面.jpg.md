@@ -1,6 +1,6 @@
 # 文件:10th_Anniversary_Demo封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a1\ns6%3A10th_Anniversary_Demo%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a1\ns6%3A10th_Anniversary_Demo%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 the_distant_journey_to_you | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ the_distant_journey_to_you | 专辑封面 | 封面图片
   
 
 - [10th Anniversary Demo](./10th_Anniversary_Demo.md)
-
-
-
 
 
 ---

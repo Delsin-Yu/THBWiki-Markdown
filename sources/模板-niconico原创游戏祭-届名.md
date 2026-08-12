@@ -1,12 +1,8 @@
 # 模板:niconico原创游戏祭/届名
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\0\03\ns10%3Aniconico%E5%8E%9F%E5%88%9B%E6%B8%B8%E6%88%8F%E7%A5%AD%2F%E5%B1%8A%E5%90%8D.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\0\03\ns10%3Aniconico%E5%8E%9F%E5%88%9B%E6%B8%B8%E6%88%8F%E7%A5%AD%2F%E5%B1%8A%E5%90%8D.html -->
 
 活动届名模板
-
-
-
-
 
 
 ---

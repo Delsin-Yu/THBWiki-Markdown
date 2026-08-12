@@ -1,6 +1,6 @@
 # 文件:東方風音色_～_Canvas_of_Music-colored_Winds.封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\74\ns6%3A%E6%9D%B1%E6%96%B9%E9%A2%A8%E9%9F%B3%E8%89%B2_%EF%BD%9E_Canvas_of_Music-colored_Winds%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\74\ns6%3A%E6%9D%B1%E6%96%B9%E9%A2%A8%E9%9F%B3%E8%89%B2_%EF%BD%9E_Canvas_of_Music-colored_Winds%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 雛鳥クロニクル
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方風音色 ～ Canvas of Music-colored Winds.](./東方風音色_～_Canvas_of_Music-colored_Winds..md)  
-该封面包含的角色：- 原创角色 (未找到链接)
-
-
-
+- [東方風音色 ～ Canvas of Music-colored Winds.](./東方風音色_～_Canvas_of_Music-colored_Winds..md)该封面包含的角色：
+- 原创角色 (未找到链接)
 
 
 ---

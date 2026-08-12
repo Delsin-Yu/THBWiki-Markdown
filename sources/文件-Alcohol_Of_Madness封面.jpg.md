@@ -1,6 +1,6 @@
 # 文件:Alcohol_Of_Madness封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\37\ns6%3AAlcohol_Of_Madness%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\37\ns6%3AAlcohol_Of_Madness%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Sworn_To_The_Black | 专辑封面 | 封面图片
 
@@ -10,11 +10,9 @@ Sworn_To_The_Black | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Alcohol Of Madness](./Alcohol_Of_Madness.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
-
-
-
+- [Alcohol Of Madness](./Alcohol_Of_Madness.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
 
 ---

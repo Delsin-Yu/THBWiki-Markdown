@@ -1,14 +1,11 @@
 # 文件:朝焼けにて群青banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\af\ns6%3A%E6%9C%9D%E7%84%BC%E3%81%91%E3%81%AB%E3%81%A6%E7%BE%A4%E9%9D%92banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\af\ns6%3A%E6%9C%9D%E7%84%BC%E3%81%91%E3%81%AB%E3%81%A6%E7%BE%A4%E9%9D%92banner%2Ejpg.html -->
 
 朝焼けにて群青 | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

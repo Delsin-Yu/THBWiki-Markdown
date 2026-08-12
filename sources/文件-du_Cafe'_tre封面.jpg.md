@@ -1,6 +1,6 @@
 # 文件:du_Cafe'_tre封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7f\ns6%3Adu_Cafe%27_tre%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7f\ns6%3Adu_Cafe%27_tre%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Attrielectrock | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Attrielectrock | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [du Cafe' tre](./du_Cafe'_tre.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [du Cafe' tre](./du_Cafe'_tre.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

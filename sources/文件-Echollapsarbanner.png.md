@@ -1,12 +1,8 @@
 # 文件:Echollapsarbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\44\ns6%3AEchollapsarbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\44\ns6%3AEchollapsarbanner%2Epng.html -->
 
 Echollapsar | 社团LOGO
-
-
-
-
 
 
 ---

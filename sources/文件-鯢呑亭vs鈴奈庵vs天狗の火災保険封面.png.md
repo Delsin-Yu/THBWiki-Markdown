@@ -1,6 +1,6 @@
 # 文件:鯢呑亭vs鈴奈庵vs天狗の火災保険封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\40\ns6%3A%E9%AF%A2%E5%91%91%E4%BA%ADvs%E9%88%B4%E5%A5%88%E5%BA%B5vs%E5%A4%A9%E7%8B%97%E3%81%AE%E7%81%AB%E7%81%BD%E4%BF%9D%E9%99%BA%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\40\ns6%3A%E9%AF%A2%E5%91%91%E4%BA%ADvs%E9%88%B4%E5%A5%88%E5%BA%B5vs%E5%A4%A9%E7%8B%97%E3%81%AE%E7%81%AB%E7%81%BD%E4%BF%9D%E9%99%BA%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 なかもず火災保険 | 同人志封面 | 封面图片
 
@@ -10,16 +10,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [鯢呑亭vs鈴奈庵vs天狗の火災保険](./鯢呑亭vs鈴奈庵vs天狗の火災保険.md)  
-该封面包含的角色：- [本居小铃](./本居小铃.md)- [奥野田美宵](./奥野田美宵.md)
+- [鯢呑亭vs鈴奈庵vs天狗の火災保険](./鯢呑亭vs鈴奈庵vs天狗の火災保険.md)该封面包含的角色：
+- [本居小铃](./本居小铃.md)
+- [奥野田美宵](./奥野田美宵.md)
 
   
-[Pixiv artwork ID: 88515317](https://www.pixiv.net/artworks/88515317)
-  
-
-
-
-
+[Pixiv artwork ID: 88515317](https://www.pixiv.net/artworks/88515317)  
 
 ---
 

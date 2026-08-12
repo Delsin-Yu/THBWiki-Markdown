@@ -1,6 +1,6 @@
 # 文件:Chanter_of_New_Era封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fe\ns6%3AChanter_of_New_Era%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fe\ns6%3AChanter_of_New_Era%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Azur | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Azur | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Chanter of New Era](./Chanter_of_New_Era.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [Chanter of New Era](./Chanter_of_New_Era.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

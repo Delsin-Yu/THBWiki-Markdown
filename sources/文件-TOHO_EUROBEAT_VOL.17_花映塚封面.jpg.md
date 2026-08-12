@@ -1,6 +1,6 @@
 # 文件:TOHO_EUROBEAT_VOL.17_花映塚封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fb\ns6%3ATOHO_EUROBEAT_VOL%2E17_%E8%8A%B1%E6%98%A0%E5%A1%9A%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fb\ns6%3ATOHO_EUROBEAT_VOL%2E17_%E8%8A%B1%E6%98%A0%E5%A1%9A%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 A-One | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ A-One | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [TOHO EUROBEAT VOL.17 花映塚](./TOHO_EUROBEAT_VOL.17_花映塚.md)  
-该封面包含的角色：- [风见幽香](./风见幽香.md)
+- [TOHO EUROBEAT VOL.17 花映塚](./TOHO_EUROBEAT_VOL.17_花映塚.md)该封面包含的角色：
+- [风见幽香](./风见幽香.md)
 
   
-源地址：[[1]](http://a-one-records.com/special/C93/)
-  
-
-
-
-
+源地址：[\[1\]](http://a-one-records.com/special/C93/)  
 
 ---
 

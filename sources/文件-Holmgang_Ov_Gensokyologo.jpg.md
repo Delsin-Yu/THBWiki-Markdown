@@ -1,18 +1,13 @@
 # 文件:Holmgang_Ov_Gensokyologo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\70\ns6%3AHolmgang_Ov_Gensokyologo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\70\ns6%3AHolmgang_Ov_Gensokyologo%2Ejpg.html -->
 
 Holmgang_Ov_Gensokyo | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[[1]](https://f4.bcbits.com/img/0018173201_10.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://f4.bcbits.com/img/0018173201_10.jpg)  
 
 ---
 

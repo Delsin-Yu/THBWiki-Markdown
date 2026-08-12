@@ -1,6 +1,6 @@
 # 文件:OMNIBUS封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\80\ns6%3AOMNIBUS%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\80\ns6%3AOMNIBUS%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 あわのちから | 同人志封面 | 封面图片
 
@@ -10,16 +10,18 @@
 使用了本文件作封面图片的作品：
   
 
-- [OMNIBUS](./OMNIBUS.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [上白泽慧音](./上白泽慧音.md)- [因幡帝](./因幡帝.md)- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)- [蓬莱山辉夜](./蓬莱山辉夜.md)- [藤原妹红](./藤原妹红.md)- [雾雨魔理沙](./雾雨魔理沙.md)- [宇佐见堇子](./宇佐见堇子.md)
+- [OMNIBUS](./OMNIBUS.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [上白泽慧音](./上白泽慧音.md)
+- [因幡帝](./因幡帝.md)
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
+- [蓬莱山辉夜](./蓬莱山辉夜.md)
+- [藤原妹红](./藤原妹红.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
+- [宇佐见堇子](./宇佐见堇子.md)
 
   
-源地址：[direct image link (original size)](https://melonbooks.akamaized.net/upload/save_image/212001091716.jpg), [source page (Melonbooks ID: 146213)](https://www.melonbooks.co.jp/detail/detail.php?product_id=146213)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://melonbooks.akamaized.net/upload/save_image/212001091716.jpg), [source page (Melonbooks ID: 146213)](https://www.melonbooks.co.jp/detail/detail.php?product_id=146213)  
 
 ---
 

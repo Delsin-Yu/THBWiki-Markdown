@@ -1,6 +1,6 @@
 # 文件:電子弦奏IV_-_hellscape_-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\18\ns6%3A%E9%9B%BB%E5%AD%90%E5%BC%A6%E5%A5%8FIV_-_hellscape_-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\18\ns6%3A%E9%9B%BB%E5%AD%90%E5%BC%A6%E5%A5%8FIV_-_hellscape_-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ゼッケン屋 | 专辑封面 | 封面图片 | 狐梦想屋
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [電子弦奏IV - hellscape -](./電子弦奏IV_-_hellscape_-.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)
+- [電子弦奏IV - hellscape -](./電子弦奏IV_-_hellscape_-.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
 
   
-源地址：[[1]](http://sekken.sakura.ne.jp/works/43denshi4/jacket_500.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://sekken.sakura.ne.jp/works/43denshi4/jacket_500.jpg)  
 
 ---
 

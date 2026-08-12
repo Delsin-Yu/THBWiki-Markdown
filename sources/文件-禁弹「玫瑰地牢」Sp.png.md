@@ -1,6 +1,6 @@
 # 文件:禁弹「玫瑰地牢」Sp.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\75\ns6%3A%E7%A6%81%E5%BC%B9%E3%80%8C%E7%8E%AB%E7%91%B0%E5%9C%B0%E7%89%A2%E3%80%8DSp%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\75\ns6%3A%E7%A6%81%E5%BC%B9%E3%80%8C%E7%8E%AB%E7%91%B0%E5%9C%B0%E7%89%A2%E3%80%8DSp%2Epng.html -->
 
 东方幕华祭制作组
 
@@ -13,10 +13,6 @@ EX关底一符。
 
 没有什么原理，练会了就行了。
   
-
-
-
-
 
 ---
 

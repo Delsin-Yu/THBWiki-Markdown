@@ -1,12 +1,8 @@
 # 文件:东方辉针城体验版disc.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2b\ns6%3A%E4%B8%9C%E6%96%B9%E8%BE%89%E9%92%88%E5%9F%8E%E4%BD%93%E9%AA%8C%E7%89%88disc%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2b\ns6%3A%E4%B8%9C%E6%96%B9%E8%BE%89%E9%92%88%E5%9F%8E%E4%BD%93%E9%AA%8C%E7%89%88disc%2Ejpg.html -->
 
 东方辉针城 | 官方游戏体验版光盘扫图
-
-
-
-
 
 
 ---

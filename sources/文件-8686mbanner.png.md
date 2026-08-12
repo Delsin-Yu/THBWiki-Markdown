@@ -1,12 +1,8 @@
 # 文件:8686mbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3e\ns6%3A8686mbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3e\ns6%3A8686mbanner%2Epng.html -->
 
 8686m | 社团LOGO
-
-
-
-
 
 
 ---

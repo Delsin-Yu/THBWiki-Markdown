@@ -1,12 +1,8 @@
 # 文件:THBWiki-LOGO-祸灵梦.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3e\ns6%3ATHBWiki-LOGO-%E7%A5%B8%E7%81%B5%E6%A2%A6%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3e\ns6%3ATHBWiki-LOGO-%E7%A5%B8%E7%81%B5%E6%A2%A6%2Epng.html -->
 
 THBWiki | Wiki词条分类用图
-
-
-
-
 
 
 ---

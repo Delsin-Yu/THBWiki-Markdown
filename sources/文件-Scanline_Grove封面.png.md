@@ -1,6 +1,6 @@
 # 文件:Scanline_Grove封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\91\ns6%3AScanline_Grove%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\91\ns6%3AScanline_Grove%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 204504bySE | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Scanline Grove](./Scanline_Grove.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
+- [Scanline Grove](./Scanline_Grove.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-源地址：[direct image link](https://blog.204504byse.info/attach/C78%B9%F0%C3%CE+%22Scanline+Grove%22.jak.png), [source page](https://blog.204504byse.info/wiki.cgi?page=C78���� "Scanline Grove")
-  
-
-
-
-
+源地址：[direct image link](https://blog.204504byse.info/attach/C78%B9%F0%C3%CE+%22Scanline+Grove%22.jak.png), [source page](https://blog.204504byse.info/wiki.cgi?page=C78����%20"Scanline%20Grove")  
 
 ---
 

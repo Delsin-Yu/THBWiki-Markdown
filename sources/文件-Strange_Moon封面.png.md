@@ -1,6 +1,6 @@
 # 文件:Strange_Moon封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d9\ns6%3AStrange_Moon%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d9\ns6%3AStrange_Moon%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 XEoN×少女墓石倶楽部 | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ XEoN×少女墓石倶楽部 | 专辑封面 | 封面图片
   
 
 - [Strange Moon](./Strange_Moon.md)
-
-
-
 
 
 ---

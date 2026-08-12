@@ -1,6 +1,6 @@
 # 文件:Against_The_Wind封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0e\ns6%3AAgainst_The_Wind%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0e\ns6%3AAgainst_The_Wind%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 COHCOA_Project | Like_a_rabbit | NeutraL | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ COHCOA_Project | Like_a_rabbit | NeutraL | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Against The Wind](./Against_The_Wind.md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)
-
-
-
+- [Against The Wind](./Against_The_Wind.md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
 
 
 ---

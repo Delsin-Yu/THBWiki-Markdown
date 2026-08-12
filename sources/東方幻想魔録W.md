@@ -1,21 +1,17 @@
 # 東方幻想魔録W
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\9\93\ns0%3A%E6%9D%B1%E6%96%B9%E5%B9%BB%E6%83%B3%E9%AD%94%E9%8C%B2W.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\9\93\ns0%3A%E6%9D%B1%E6%96%B9%E5%B9%BB%E6%83%B3%E9%AD%94%E9%8C%B2W.html -->
 
 2017年6月29日 由 莓坊主  发布的RPG同人游戏，可在 PS4/PSVita/NS 系统上运行，游戏人数为 单人模式，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人软件 (未找到链接)** 的词条
-
+**[二次创作同人软件](./二次创作.md#同人软件)**的词条
 ## 目录
 
 - [1 软件信息](#软件信息)
 - [2 Staff](#Staff)
 - [3 内容页面](#内容页面)
 - [4 评论](#评论)
-
-
-
 
 
 ## 软件信息
@@ -26,23 +22,19 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://wp.gensoukyou.org/marokuw/">https://wp.gensoukyou.org/marokuw/</a></td></tr></tbody></table>
 
 東方幻想魔録W（同人游戏，莓坊主，2017） - 2017年6月29日 由 莓坊主  发布的RPG同人游戏，可在 PS4/PSVita/NS 系统上运行，游戏人数为 单人模式，分级为 一般向
-
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://store.playstation.com/ja-jp/product/JP0704-CUSA06205_00-ICHIGOBOSE001600">PlayStationPS4版</a>，<a rel="nofollow" class="external text" href="https://store.playstation.com/ja-jp/product/JP0704-PCSG00977_00-ICHIGOBOSE001600">PlayStationPSV版</a>，<a rel="nofollow" class="external text" href="https://ec.nintendo.com/JP/ja/titles/70010000015441">eShop</a></td></tr></tbody></table>
-
 
 
 ## Staff
 
 ## 内容页面
+
 - 游戏设定与剧情 (未找到链接)
 - 攻略 (未找到链接)
 - 其他信息 (未找到链接)
 
 
 ## 评论
-
-
-
 
 ---
 

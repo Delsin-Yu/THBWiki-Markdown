@@ -1,6 +1,6 @@
 # 文件:～Sans_Foi_ni_Loi～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dc\ns6%3A%EF%BD%9ESans_Foi_ni_Loi%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dc\ns6%3A%EF%BD%9ESans_Foi_ni_Loi%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Caved_Johnson | Raven's_Jig | 专辑封面 | 封面图片
 
@@ -8,16 +8,13 @@ Caved_Johnson | Raven's_Jig | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [～Sans Foi ni Loi～](./～Sans_Foi_ni_Loi～.md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)- [八坂神奈子](./八坂神奈子.md)- [洩矢诹访子](./洩矢诹访子.md)
+- [～Sans Foi ni Loi～](./～Sans_Foi_ni_Loi～.md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
+- [八坂神奈子](./八坂神奈子.md)
+- [洩矢诹访子](./洩矢诹访子.md)
 
   
-源地址：[[1]](https://cavedjohnson.bandcamp.com)
-  
-
-
-
-
+源地址：[\[1\]](https://cavedjohnson.bandcamp.com)  
 
 ---
 

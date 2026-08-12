@@ -1,6 +1,6 @@
 # 文件:Now_Brewing：封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b9\ns6%3ANow_Brewing%EF%BC%9A%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b9\ns6%3ANow_Brewing%EF%BC%9A%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 UNVALANCE | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ UNVALANCE | 专辑封面 | 封面图片
   
 
 - [Now Brewing：](./Now_Brewing：.md)
-
-
-
 
 
 ---

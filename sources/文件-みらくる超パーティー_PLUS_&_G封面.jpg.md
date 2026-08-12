@@ -1,6 +1,6 @@
 # 文件:みらくる超パーティー_PLUS_&_G封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\54\ns6%3A%E3%81%BF%E3%82%89%E3%81%8F%E3%82%8B%E8%B6%85%E3%83%91%E3%83%BC%E3%83%86%E3%82%A3%E3%83%BC_PLUS_%26_G%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\54\ns6%3A%E3%81%BF%E3%82%89%E3%81%8F%E3%82%8B%E8%B6%85%E3%83%91%E3%83%BC%E3%83%86%E3%82%A3%E3%83%BC_PLUS_%26_G%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 AQUA_STYLE | 封面图片 | 软件封面
 
@@ -8,11 +8,12 @@ AQUA_STYLE | 封面图片 | 软件封面
 使用了本文件作封面图片的作品：
   
 
-- [みらくる超パーティー PLUS &amp; G](./みらくる超パーティー_PLUS_&_G.md)  
-该封面包含的角色：- [小恶魔](./小恶魔.md)- [河城荷取](./河城荷取.md)- [古明地觉](./古明地觉.md)- [古明地恋](./古明地恋.md)- [云居一轮](./云居一轮.md)
-
-
-
+- [みらくる超パーティー PLUS & G](./みらくる超パーティー_PLUS_&_G.md)该封面包含的角色：
+- [小恶魔](./小恶魔.md)
+- [河城荷取](./河城荷取.md)
+- [古明地觉](./古明地觉.md)
+- [古明地恋](./古明地恋.md)
+- [云居一轮](./云居一轮.md)
 
 
 ---

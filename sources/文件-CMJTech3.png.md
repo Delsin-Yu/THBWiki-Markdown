@@ -1,12 +1,8 @@
 # 文件:CMJTech3.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a2\ns6%3ACMJTech3%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a2\ns6%3ACMJTech3%2Epng.html -->
 
 幻想幽玄庵
-
-
-
-
 
 
 ---

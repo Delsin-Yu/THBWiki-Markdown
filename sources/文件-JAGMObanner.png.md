@@ -1,12 +1,8 @@
 # 文件:JAGMObanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\df\ns6%3AJAGMObanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\df\ns6%3AJAGMObanner%2Epng.html -->
 
 JAGMO | 社团LOGO
-
-
-
-
 
 
 ---

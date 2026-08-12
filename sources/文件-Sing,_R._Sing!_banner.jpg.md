@@ -1,12 +1,8 @@
 # 文件:Sing,_R._Sing!_banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c6\ns6%3ASing%2C_R%2E_Sing%21_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c6\ns6%3ASing%2C_R%2E_Sing%21_banner%2Ejpg.html -->
 
 Sing,_R._Sing! | 社团LOGO
-
-
-
-
 
 
 ---

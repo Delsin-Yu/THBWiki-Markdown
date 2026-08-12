@@ -1,18 +1,13 @@
 # 文件:高梨工房logo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\70\ns6%3A%E9%AB%98%E6%A2%A8%E5%B7%A5%E6%88%BFlogo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\70\ns6%3A%E9%AB%98%E6%A2%A8%E5%B7%A5%E6%88%BFlogo%2Epng.html -->
 
 社团LOGO | 高梨工房
 
 
 ## 文件说明
   
-源地址：[[1]](https://static.wixstatic.com/media/34e3c8_2bfc41b67e9d4726893558a391152adb~mv2.png)
-  
-
-
-
-
+源地址：[\[1\]](https://static.wixstatic.com/media/34e3c8_2bfc41b67e9d4726893558a391152adb~mv2.png)  
 
 ---
 

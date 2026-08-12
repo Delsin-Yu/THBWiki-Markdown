@@ -1,6 +1,6 @@
 # 文件:Night_Bird／My_Lorelei封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\65\ns6%3ANight_Bird%EF%BC%8FMy_Lorelei%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\65\ns6%3ANight_Bird%EF%BC%8FMy_Lorelei%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 nyankobrq | 专辑封面 | 封面图片
 
@@ -8,16 +8,12 @@ nyankobrq | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Night Bird／My Lorelei](./Night_Bird／My_Lorelei.md)  
-该封面包含的角色：- [露米娅](./露米娅.md)- [米斯蒂娅·萝蕾拉](./米斯蒂娅·萝蕾拉.md)
+- [Night Bird／My Lorelei](./Night_Bird／My_Lorelei.md)该封面包含的角色：
+- [露米娅](./露米娅.md)
+- [米斯蒂娅·萝蕾拉](./米斯蒂娅·萝蕾拉.md)
 
   
-源地址：[[1]](https://nyankobrq.bandcamp.com/album/night-bird-my-lorelei)
-  
-
-
-
-
+源地址：[\[1\]](https://nyankobrq.bandcamp.com/album/night-bird-my-lorelei)  
 
 ---
 

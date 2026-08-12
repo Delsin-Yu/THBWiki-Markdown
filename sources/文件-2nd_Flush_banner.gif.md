@@ -1,12 +1,8 @@
 # 文件:2nd_Flush_banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8b\ns6%3A2nd_Flush_banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8b\ns6%3A2nd_Flush_banner%2Egif.html -->
 
 2nd_Flush | 社团LOGO
-
-
-
-
 
 
 ---

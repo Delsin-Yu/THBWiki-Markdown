@@ -1,12 +1,8 @@
 # 文件:虚城妃奏华（祈华梦立绘）despise.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9c\ns6%3A%E8%99%9A%E5%9F%8E%E5%A6%83%E5%A5%8F%E5%8D%8E%EF%BC%88%E7%A5%88%E5%8D%8E%E6%A2%A6%E7%AB%8B%E7%BB%98%EF%BC%89despise%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9c\ns6%3A%E8%99%9A%E5%9F%8E%E5%A6%83%E5%A5%8F%E5%8D%8E%EF%BC%88%E7%A5%88%E5%8D%8E%E6%A2%A6%E7%AB%8B%E7%BB%98%EF%BC%89despise%2Epng.html -->
 
 OSY搞事组 | 东方祈华梦制作组 | 二次角色立绘 | 虚城妃奏华
-
-
-
-
 
 
 ---

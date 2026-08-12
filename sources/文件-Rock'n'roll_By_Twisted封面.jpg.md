@@ -1,6 +1,6 @@
 # 文件:Rock'n'roll_By_Twisted封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fb\ns6%3ARock%27n%27roll_By_Twisted%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fb\ns6%3ARock%27n%27roll_By_Twisted%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 MD | 专辑封面 | 封面图片 | 少女理論観測所 | 朝焼けにて群青 | 深夜放送
 
@@ -8,11 +8,8 @@ MD | 专辑封面 | 封面图片 | 少女理論観測所 | 朝焼けにて群青
 使用了本文件作封面图片的作品：
   
 
-- [Rock'n'roll By Twisted](./Rock'n'roll_By_Twisted.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [Rock'n'roll By Twisted](./Rock'n'roll_By_Twisted.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

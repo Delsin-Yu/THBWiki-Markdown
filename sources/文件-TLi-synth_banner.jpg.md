@@ -1,16 +1,11 @@
 # 文件:TLi-synth_banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\21\ns6%3ATLi-synth_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\21\ns6%3ATLi-synth_banner%2Ejpg.html -->
 
 TLi-synth | 社团LOGO
 
   
-源地址：[[1]](http://tli-synth.com/img/logo.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://tli-synth.com/img/logo.jpg)  
 
 ---
 

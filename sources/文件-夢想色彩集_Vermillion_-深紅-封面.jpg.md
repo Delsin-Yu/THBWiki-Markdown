@@ -1,6 +1,6 @@
 # 文件:夢想色彩集_Vermillion_-深紅-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9e\ns6%3A%E5%A4%A2%E6%83%B3%E8%89%B2%E5%BD%A9%E9%9B%86_Vermillion_-%E6%B7%B1%E7%B4%85-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9e\ns6%3A%E5%A4%A2%E6%83%B3%E8%89%B2%E5%BD%A9%E9%9B%86_Vermillion_-%E6%B7%B1%E7%B4%85-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Re：Volte | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Re：Volte | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [夢想色彩集 Vermillion -深紅-](./夢想色彩集_Vermillion_-深紅-.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [夢想色彩集 Vermillion -深紅-](./夢想色彩集_Vermillion_-深紅-.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

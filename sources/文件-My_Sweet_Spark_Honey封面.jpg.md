@@ -1,6 +1,6 @@
 # 文件:My_Sweet_Spark_Honey封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3c\ns6%3AMy_Sweet_Spark_Honey%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3c\ns6%3AMy_Sweet_Spark_Honey%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 カスタムサイズ | 同人志封面 | 封面图片
 
@@ -10,11 +10,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [My Sweet Spark Honey](./My_Sweet_Spark_Honey.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)- [东风谷早苗](./东风谷早苗.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [My Sweet Spark Honey](./My_Sweet_Spark_Honey.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
+- [东风谷早苗](./东风谷早苗.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

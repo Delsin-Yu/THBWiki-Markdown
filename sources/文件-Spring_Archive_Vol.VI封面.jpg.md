@@ -1,6 +1,6 @@
 # 文件:Spring_Archive_Vol.VI封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\90\ns6%3ASpring_Archive_Vol%2EVI%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\90\ns6%3ASpring_Archive_Vol%2EVI%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ice*berry | 同人志封面 | 封面图片
 
@@ -8,11 +8,8 @@ ice*berry | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Spring Archive Vol.VI](./Spring_Archive_Vol.VI.md)  
-该封面包含的角色：- [宇佐见堇子](./宇佐见堇子.md)
-
-
-
+- [Spring Archive Vol.VI](./Spring_Archive_Vol.VI.md)该封面包含的角色：
+- [宇佐见堇子](./宇佐见堇子.md)
 
 
 ---

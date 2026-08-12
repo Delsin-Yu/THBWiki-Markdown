@@ -1,12 +1,8 @@
 # 文件:夕夜歌logo1.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b7\ns6%3A%E5%A4%95%E5%A4%9C%E6%AD%8Clogo1%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b7\ns6%3A%E5%A4%95%E5%A4%9C%E6%AD%8Clogo1%2Ejpg.html -->
 
 夕夜歌 | 社团LOGO
-
-
-
-
 
 
 ---

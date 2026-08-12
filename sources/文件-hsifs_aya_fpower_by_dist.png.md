@@ -1,14 +1,11 @@
 # 文件:hsifs_aya_fpower_by_dist.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\15\ns6%3Ahsifs_aya_fpower_by_dist%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\15\ns6%3Ahsifs_aya_fpower_by_dist%2Epng.html -->
 
 游戏攻略
 
 
 ## 摘要
-
-
-
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:弾奏結界_紅魔狂詩曲_Scarlet_Rapsodia封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6a\ns6%3A%E5%BC%BE%E5%A5%8F%E7%B5%90%E7%95%8C_%E7%B4%85%E9%AD%94%E7%8B%82%E8%A9%A9%E6%9B%B2_Scarlet_Rapsodia%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6a\ns6%3A%E5%BC%BE%E5%A5%8F%E7%B5%90%E7%95%8C_%E7%B4%85%E9%AD%94%E7%8B%82%E8%A9%A9%E6%9B%B2_Scarlet_Rapsodia%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 dBu_music | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ dBu_music | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [弾奏結界 紅魔狂詩曲 Scarlet Rapsodia](./弾奏結界_紅魔狂詩曲_Scarlet_Rapsodia.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
-
-
-
+- [弾奏結界 紅魔狂詩曲 Scarlet Rapsodia](./弾奏結界_紅魔狂詩曲_Scarlet_Rapsodia.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:untitled-2封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4a\ns6%3Auntitled-2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4a\ns6%3Auntitled-2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Hyperdimension! | denshūto | the_distant_journey_to_you | 专辑封面 | 封面图片
 
@@ -11,12 +11,7 @@ Hyperdimension! | denshūto | the_distant_journey_to_you | 专辑封面 | 封面
 - [untitled-2](./untitled-2.md)
 
   
-源地址：[[1]](https://f1.bcbits.com/img/a1029731437_10.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://f1.bcbits.com/img/a1029731437_10.jpg)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:Perfect_Square封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\78\ns6%3APerfect_Square%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\78\ns6%3APerfect_Square%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ゆづき亭 | 专辑封面 | 封面图片
 
@@ -13,12 +13,7 @@
 - [Perfect Square](./Perfect_Square.md)
 
   
-源地址：[direct image link](https://2.bp.blogspot.com/_TOsqnIYjkb4/R0i7LgIBiRI/AAAAAAAAAPk/6tbeI6ims8E/s1600/jacket.jpg), [source page](https://www.sproutburn.net/2007/11/ydkt-discography.html)
-  
-
-
-
-
+源地址：[direct image link](https://2.bp.blogspot.com/_TOsqnIYjkb4/R0i7LgIBiRI/AAAAAAAAAPk/6tbeI6ims8E/s1600/jacket.jpg), [source page](https://www.sproutburn.net/2007/11/ydkt-discography.html)  
 
 ---
 

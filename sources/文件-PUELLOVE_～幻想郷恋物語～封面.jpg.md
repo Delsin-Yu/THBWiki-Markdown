@@ -1,6 +1,6 @@
 # 文件:PUELLOVE_～幻想郷恋物語～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\36\ns6%3APUELLOVE_%EF%BD%9E%E5%B9%BB%E6%83%B3%E9%83%B7%E6%81%8B%E7%89%A9%E8%AA%9E%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\36\ns6%3APUELLOVE_%EF%BD%9E%E5%B9%BB%E6%83%B3%E9%83%B7%E6%81%8B%E7%89%A9%E8%AA%9E%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 R-note | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ R-note | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [PUELLOVE ～幻想郷恋物語～](./PUELLOVE_～幻想郷恋物語～.md)  
-该封面包含的角色：- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
-
-
-
+- [PUELLOVE ～幻想郷恋物語～](./PUELLOVE_～幻想郷恋物語～.md)该封面包含的角色：
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:幻奏乐景·浮世的管弦音乐会LOGO.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d4\ns6%3A%E5%B9%BB%E5%A5%8F%E4%B9%90%E6%99%AF%C2%B7%E6%B5%AE%E4%B8%96%E7%9A%84%E7%AE%A1%E5%BC%A6%E9%9F%B3%E4%B9%90%E4%BC%9ALOGO%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d4\ns6%3A%E5%B9%BB%E5%A5%8F%E4%B9%90%E6%99%AF%C2%B7%E6%B5%AE%E4%B8%96%E7%9A%84%E7%AE%A1%E5%BC%A6%E9%9F%B3%E4%B9%90%E4%BC%9ALOGO%2Epng.html -->
 
 幻奏乐景·浮世的管弦音乐会 | 活动LOGO
-
-
-
-
 
 
 ---

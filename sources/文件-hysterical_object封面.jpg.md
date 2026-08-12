@@ -1,6 +1,6 @@
 # 文件:hysterical_object封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7a\ns6%3Ahysterical_object%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7a\ns6%3Ahysterical_object%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 C.S.C→luv | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ C.S.C→luv | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [hysterical object](./hysterical_object.md)  
-该封面包含的角色：- [蓬莱山辉夜](./蓬莱山辉夜.md)
-
-
-
+- [hysterical object](./hysterical_object.md)该封面包含的角色：
+- [蓬莱山辉夜](./蓬莱山辉夜.md)
 
 
 ---

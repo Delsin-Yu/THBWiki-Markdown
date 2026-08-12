@@ -1,14 +1,11 @@
 # 文件:ビタミンごはんbanner2.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\29\ns6%3A%E3%83%93%E3%82%BF%E3%83%9F%E3%83%B3%E3%81%94%E3%81%AF%E3%82%93banner2%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\29\ns6%3A%E3%83%93%E3%82%BF%E3%83%9F%E3%83%B3%E3%81%94%E3%81%AF%E3%82%93banner2%2Egif.html -->
 
 ビタミンごはん | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:豚BEST5_骨までとろける美味しさ封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\41\ns6%3A%E8%B1%9ABEST5_%E9%AA%A8%E3%81%BE%E3%81%A7%E3%81%A8%E3%82%8D%E3%81%91%E3%82%8B%E7%BE%8E%E5%91%B3%E3%81%97%E3%81%95%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\41\ns6%3A%E8%B1%9ABEST5_%E9%AA%A8%E3%81%BE%E3%81%A7%E3%81%A8%E3%82%8D%E3%81%91%E3%82%8B%E7%BE%8E%E5%91%B3%E3%81%97%E3%81%95%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 豚乙女
 
@@ -11,9 +11,6 @@
   
 
 - [豚BEST5 骨までとろける美味しさ](./豚BEST5_骨までとろける美味しさ.md)
-
-
-
 
 
 ---

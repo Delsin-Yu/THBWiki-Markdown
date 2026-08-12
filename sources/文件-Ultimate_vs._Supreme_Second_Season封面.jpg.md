@@ -1,6 +1,6 @@
 # 文件:Ultimate_vs._Supreme_Second_Season封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\61\ns6%3AUltimate_vs%2E_Supreme_Second_Season%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\61\ns6%3AUltimate_vs%2E_Supreme_Second_Season%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 556ミリメートル | Amateras_Records | 专辑封面 | 封面图片
 
@@ -8,11 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Ultimate vs. Supreme Second Season](./Ultimate_vs._Supreme_Second_Season.md)  
-该封面包含的角色：- [西行寺幽幽子](./西行寺幽幽子.md)- [八云紫](./八云紫.md)- [比那名居天子](./比那名居天子.md)- [古明地觉](./古明地觉.md)
-
-
-
+- [Ultimate vs. Supreme Second Season](./Ultimate_vs._Supreme_Second_Season.md)该封面包含的角色：
+- [西行寺幽幽子](./西行寺幽幽子.md)
+- [八云紫](./八云紫.md)
+- [比那名居天子](./比那名居天子.md)
+- [古明地觉](./古明地觉.md)
 
 
 ---

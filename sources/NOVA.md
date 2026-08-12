@@ -1,13 +1,11 @@
 # NOVA
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\d\dd\ns0%3ANOVA.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\d\dd\ns0%3ANOVA.html -->
 
 2015年12月30日 由 FOX UNRAVEL 于 Comic Market 89 发布的EP同人专辑，曲目主要风格是 Trance、硬核、其他电子，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人专辑 (未找到链接)** 的词条
-<center>
-
+**[二次创作同人专辑](./二次创作.md#同人音乐)**的词条<center>
 <table>
 <tbody><tr>
 <td class="mbox-image"><div style="width: 52px;">
@@ -16,50 +14,36 @@
 </tr>
 </tbody></table>
 
-
 </center>
-
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-NOVA封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/b/b9/NOVA%E5%B0%81%E9%9D%A2.png/224px-NOVA%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="224" height="224" srcset="https://upload.thwiki.cc/thumb/b/b9/NOVA%E5%B0%81%E9%9D%A2.png/336px-NOVA%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/b/b9/NOVA%E5%B0%81%E9%9D%A2.png/448px-NOVA%E5%B0%81%E9%9D%A2.png 2x" data-file-width="1654" data-file-height="1654"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></div></td>
 </tr><tr><td class="label">名称</td><td colspan="2"> NOVA </td></tr><tr><td class="label">制作方</td><td><a href="./FOX_UNRAVEL.md" title="FOX UNRAVEL">FOX UNRAVEL</a></td><td class="cover-artwork" rowspan="8" style="min-width:224px;"><a href="./文件-NOVA封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/b/b9/NOVA%E5%B0%81%E9%9D%A2.png/224px-NOVA%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="224" height="224" srcset="https://upload.thwiki.cc/thumb/b/b9/NOVA%E5%B0%81%E9%9D%A2.png/336px-NOVA%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/b/b9/NOVA%E5%B0%81%E9%9D%A2.png/448px-NOVA%E5%B0%81%E9%9D%A2.png 2x" data-file-width="1654" data-file-height="1654"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2015-12-30&#160;（<a href="/展会作品列表?e=Comic+Market%2389">Comic Market 89</a>）</td></tr><tr><td class="label">类型</td><td>EP</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>5</td></tr><tr><td class="label">总时长</td><td>23:50</td></tr><tr><td class="label">风格类型</td><td>Trance，硬核，其他电子</td></tr>
+</tr><tr><td class="label">首发日期</td><td>2015-12-30 （<a href="./展会作品列表.md#89">Comic Market 89</a>）</td></tr><tr><td class="label">类型</td><td>EP</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>5</td></tr><tr><td class="label">总时长</td><td>23:50</td></tr><tr><td class="label">风格类型</td><td>Trance，硬核，其他电子</td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://foxunravel.96.lt/uncategorized/nova/">http://foxunravel.96.lt/uncategorized/nova/</a></td></tr></tbody></table>
 
 NOVA（同人专辑，FOX UNRAVEL，2015） - 2015年12月30日 由 FOX UNRAVEL 于 Comic Market 89 发布的EP同人专辑，曲目主要风格是 Trance、硬核、其他电子，分级为 一般向
-
 ## Staff
   
- **Arrangement**   
+**Arrangement**  
 
-<table><tbody><tr><td><a href="/index.php?title=nam5&amp;action=edit&amp;redlink=1" class="new" title="nam5（页面不存在）">nam5</a></td><td><a href="./FOX_UNRAVEL.md" title="FOX UNRAVEL">FOX UNRAVEL</a></td><td>Tr.1/3/5</td></tr><tr><td><a href="/index.php?title=Freezer&amp;action=edit&amp;redlink=1" class="new" title="Freezer（页面不存在）">Freezer</a></td><td><a rel="nofollow" class="external text" href="http://lilium-rec.com/">Lilium Records</a></td><td>Tr.2</td></tr><tr><td><a href="/index.php?title=moro&amp;action=edit&amp;redlink=1" class="new" title="moro（页面不存在）">moro</a></td><td><a href="./KINZOK_ON.md" title="KINZOK ON">KINZOK ON</a></td><td>Tr.4</td></tr></tbody></table>
-
+<table><tbody><tr><td><a class="new" title="nam5（页面不存在）">nam5</a></td><td><a href="./FOX_UNRAVEL.md" title="FOX UNRAVEL">FOX UNRAVEL</a></td><td>Tr.1/3/5</td></tr><tr><td><a class="new" title="Freezer（页面不存在）">Freezer</a></td><td><a rel="nofollow" class="external text" href="http://lilium-rec.com/">Lilium Records</a></td><td>Tr.2</td></tr><tr><td><a class="new" title="moro（页面不存在）">moro</a></td><td><a href="./KINZOK_ON.md" title="KINZOK ON">KINZOK ON</a></td><td>Tr.4</td></tr></tbody></table>
 
 Illustration
 : 廿楽きのこ （[twitter](https://twitter.com/kinoko0o0o)，[pixiv](http://www.pixiv.net/member.php?id=357774)）
 
-
 ## 试听
-  
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/239536167&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=false"></iframe>
-
-  
-
 
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Xanthein" colspan="2" class="title">Xanthein<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=nam5&amp;ogmusic=柳の下のデュラハン&amp;fromwiki=NOVA"><span title="搜索相似同人曲"></span></a></span></td><td class="time">05:07</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=nam5&amp;action=edit&amp;redlink=1" class="new" title="nam5（页面不存在）">nam5</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，nam5&amp;fromwiki=NOVA"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=柳の下のデュラハン&amp;fromwiki=NOVA"><span></span></a></span><div class="ogmusic"><a href="./柳の下のデュラハン.md" class="mw-redirect" title="柳の下のデュラハン">柳の下のデュラハン</a></div><div class="source"><a href="./东方辉针城_～_Double_Dealing_Character..md" class="mw-redirect" title="东方辉针城 ～ Double Dealing Character.">东方辉针城　～ Double Dealing Character.</a></div></td></tr>
-<tr><td id="2" class="infoYD"><b>02</b></td><td id="Finna_Get_Crunk" colspan="2" class="title">Finna Get Crunk<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Freezer&amp;ogmusic=亡き王女の為のセプテット&amp;fromwiki=NOVA"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:02</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=Freezer&amp;action=edit&amp;redlink=1" class="new" title="Freezer（页面不存在）">Freezer</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Freezer，&amp;fromwiki=NOVA"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=亡き王女の為のセプテット&amp;fromwiki=NOVA"><span></span></a></span><div class="ogmusic"><a href="./亡き王女の為のセプテット.md" class="mw-redirect" title="亡き王女の為のセプテット">亡き王女の為のセプテット</a></div><div class="source"><a href="./东方红魔乡_～_the_Embodiment_of_Scarlet_Devil..md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr>
-<tr><td id="3" class="infoYD"><b>03</b></td><td id="Authenticity" colspan="2" class="title">Authenticity<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=nam5&amp;ogmusic=東の国の眠らない夜&amp;fromwiki=NOVA"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:17</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=nam5&amp;action=edit&amp;redlink=1" class="new" title="nam5（页面不存在）">nam5</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，nam5，&amp;fromwiki=NOVA"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=東の国の眠らない夜&amp;fromwiki=NOVA"><span></span></a></span><div class="ogmusic"><a href="./東の国の眠らない夜.md" class="mw-redirect" title="東の国の眠らない夜">東の国の眠らない夜</a></div><div class="source"><a href="./东方文花帖_～_Shoot_the_Bullet..md" class="mw-redirect" title="东方文花帖 ～ Shoot the Bullet.">东方文花帖　～ Shoot the Bullet.</a></div></td></tr>
-<tr><td id="4" class="infoYD"><b>04</b></td><td id="Wonder_moon" colspan="2" class="title">Wonder moon<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=moro&amp;ogmusic=竹取飛翔　～ Lunatic Princess&amp;fromwiki=NOVA"><span title="搜索相似同人曲"></span></a></span></td><td class="time">05:50</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=moro&amp;action=edit&amp;redlink=1" class="new" title="moro（页面不存在）">moro</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，moro，&amp;fromwiki=NOVA"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=竹取飛翔　～ Lunatic Princess&amp;fromwiki=NOVA"><span></span></a></span><div class="ogmusic"><a href="./竹取飛翔_～_Lunatic_Princess.md" class="mw-redirect" title="竹取飛翔 ～ Lunatic Princess">竹取飛翔　～ Lunatic Princess</a></div><div class="source"><a href="./东方永夜抄_～_Imperishable_Night..md" class="mw-redirect" title="东方永夜抄 ～ Imperishable Night.">东方永夜抄　～ Imperishable Night.</a></div></td></tr>
-<tr><td id="5" class="infoYD"><b>05</b></td><td id="Chain_Of_Being" colspan="2" class="title">Chain Of Being<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=nam5&amp;ogmusic=竹取飛翔　～ Lunatic Princess&amp;fromwiki=NOVA"><span title="搜索相似同人曲"></span></a></span></td><td class="time">05:34</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=nam5&amp;action=edit&amp;redlink=1" class="new" title="nam5（页面不存在）">nam5</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，nam5，&amp;fromwiki=NOVA"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=竹取飛翔　～ Lunatic Princess&amp;fromwiki=NOVA"><span></span></a></span><div class="ogmusic"><a href="./竹取飛翔_～_Lunatic_Princess.md" class="mw-redirect" title="竹取飛翔 ～ Lunatic Princess">竹取飛翔　～ Lunatic Princess</a></div><div class="source"><a href="./东方永夜抄_～_Imperishable_Night..md" class="mw-redirect" title="东方永夜抄 ～ Imperishable Night.">东方永夜抄　～ Imperishable Night.</a></div></td></tr></tbody></table>
-
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Xanthein" colspan="2" class="title">Xanthein</td><td class="time">05:07</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="nam5（页面不存在）">nam5</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./柳树下的杜拉罕.md" class="mw-redirect" title="柳の下のデュラハン">柳の下のデュラハン</a></div><div class="source"><a href="./东方辉针城.md" class="mw-redirect" title="东方辉针城 ～ Double Dealing Character.">东方辉针城　～ Double Dealing Character.</a></div></td></tr>
+<tr><td id="2" class="infoYD"><b>02</b></td><td id="Finna_Get_Crunk" colspan="2" class="title">Finna Get Crunk</td><td class="time">03:02</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="Freezer（页面不存在）">Freezer</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./献给已逝公主的七重奏.md" class="mw-redirect" title="亡き王女の為のセプテット">亡き王女の為のセプテット</a></div><div class="source"><a href="./东方红魔乡.md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr>
+<tr><td id="3" class="infoYD"><b>03</b></td><td id="Authenticity" colspan="2" class="title">Authenticity</td><td class="time">04:17</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="nam5（页面不存在）">nam5</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./东之国的不眠夜.md" class="mw-redirect" title="東の国の眠らない夜">東の国の眠らない夜</a></div><div class="source"><a href="./东方文花帖.md" class="mw-redirect" title="东方文花帖 ～ Shoot the Bullet.">东方文花帖　～ Shoot the Bullet.</a></div></td></tr>
+<tr><td id="4" class="infoYD"><b>04</b></td><td id="Wonder_moon" colspan="2" class="title">Wonder moon</td><td class="time">05:50</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="moro（页面不存在）">moro</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./竹取飞翔_～_Lunatic_Princess.md" class="mw-redirect" title="竹取飛翔 ～ Lunatic Princess">竹取飛翔　～ Lunatic Princess</a></div><div class="source"><a href="./东方永夜抄.md" class="mw-redirect" title="东方永夜抄 ～ Imperishable Night.">东方永夜抄　～ Imperishable Night.</a></div></td></tr>
+<tr><td id="5" class="infoYD"><b>05</b></td><td id="Chain_Of_Being" colspan="2" class="title">Chain Of Being</td><td class="time">05:34</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="nam5（页面不存在）">nam5</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./竹取飞翔_～_Lunatic_Princess.md" class="mw-redirect" title="竹取飛翔 ～ Lunatic Princess">竹取飛翔　～ Lunatic Princess</a></div><div class="source"><a href="./东方永夜抄.md" class="mw-redirect" title="东方永夜抄 ～ Imperishable Night.">东方永夜抄　～ Imperishable Night.</a></div></td></tr></tbody></table>
 
 
 ## 评论
-
-
-
 
 ---
 

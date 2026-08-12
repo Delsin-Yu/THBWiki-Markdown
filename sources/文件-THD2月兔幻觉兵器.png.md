@@ -1,12 +1,8 @@
 # 文件:THD2月兔幻觉兵器.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\84\ns6%3ATHD2%E6%9C%88%E5%85%94%E5%B9%BB%E8%A7%89%E5%85%B5%E5%99%A8%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\84\ns6%3ATHD2%E6%9C%88%E5%85%94%E5%B9%BB%E8%A7%89%E5%85%B5%E5%99%A8%2Epng.html -->
 
 THD2
-
-
-
-
 
 
 ---

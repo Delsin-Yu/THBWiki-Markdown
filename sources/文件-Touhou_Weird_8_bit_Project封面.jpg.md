@@ -1,6 +1,6 @@
 # 文件:Touhou_Weird_8_bit_Project封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\40\ns6%3ATouhou_Weird_8_bit_Project%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\40\ns6%3ATouhou_Weird_8_bit_Project%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Stas_Gavrik | 专辑封面 | 封面图片
 
@@ -8,16 +8,12 @@ Stas_Gavrik | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Touhou Weird 8 bit Project](./Touhou_Weird_8_bit_Project.md)  
-该封面包含的角色：- [风见幽香](./风见幽香.md)- [ビートまりお](./ビートまりお.md)
+- [Touhou Weird 8 bit Project](./Touhou_Weird_8_bit_Project.md)该封面包含的角色：
+- [风见幽香](./风见幽香.md)
+- [ビートまりお](./ビートまりお.md)
 
   
-源地址：[[1]](https://f4.bcbits.com/img/a1126368549_10.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://f4.bcbits.com/img/a1126368549_10.jpg)  
 
 ---
 

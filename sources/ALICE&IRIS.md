@@ -1,67 +1,48 @@
 # ALICE&IRIS
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\fa\ns0%3AALICE%26IRIS.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\fa\ns0%3AALICE%26IRIS.html -->
 
 ALICE&IRIS ，主要制作 同人音乐 的日本同人社团，主催是 Blueeves，当前状态为 休止
 
-本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
-
+本页是关于**[同人社团](./二次创作.md#同人社团)**的词条
 ## 目录
 
 - [1 社团信息](#社团信息)
 - [2 社团简介](#社团简介)
 - [3 成员名单](#成员名单)
 - [4 作品列表](#作品列表)
-
   - [4.1 同人志](#同人志)
   - [4.2 同人专辑](#同人专辑)
-
 
 
 - [5 其他信息](#其他信息)
 
 
-
-
-
 ## 社团信息
-文件:ALICE&amp;IRISlogo.png (未找到链接)  logo
+文件:ALICE&IRISlogo.png (未找到链接) logo
+<table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> ALICE&IRIS </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>主催</b></td><td> <a class="new" title="Blueeves（页面不存在）">Blueeves</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://alice-iris.cn/">http://alice-iris.cn/</a> </td></tr></tbody></table>
 
-<table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> ALICE&#38;IRIS </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=Blueeves&amp;action=edit&amp;redlink=1" class="new" title="Blueeves（页面不存在）">Blueeves</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://alice-iris.cn/">http://alice-iris.cn/</a> </td></tr></tbody></table>
-
-ALICE&amp;IRIS（同人社团，同人音乐社团） - ALICE&amp;IRIS ，主要制作 同人音乐 的日本同人社团，主催是 Blueeves，当前状态为 休止
-
+ALICE&IRIS（同人社团，同人音乐社团） - ALICE&IRIS ，主要制作 同人音乐 的日本同人社团，主催是 Blueeves，当前状态为 休止
 ## 社团简介
   
 第一至三届[上海THONLY](./上海THONLY.md)的主办方。
   
 
-
 ## 成员名单
+
 - Blueeves (未找到链接)
 
 
 ## 作品列表
 
 ### 同人志
-[](./東方天上花.md)[東方天上花](./東方天上花.md)首发日期：2009-12-20 （第二届上海THONLY 東方天上花～愛と信仰の千年竹取幻想～ (未找到链接)）画集 （一般向） 24&#160;页附带TH02 會場紀念限定CD (未找到链接)
-<table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
-</table>
-
-
+- **[東方天上花](./東方天上花.md)** — 首发日期：2009-12-20 （第二届上海THONLY 東方天上花～愛と信仰の千年竹取幻想～）；画集 （一般向）；24 页；附带TH02 會場紀念限定CD
 
 ### 同人专辑
-TH02 會場紀念限定CD 封面图片 (未找到链接)TH02 會場紀念限定CD (未找到链接)首发日期：未知 - Waltz Of Phantasm 封面图片 (未找到链接)[Waltz Of Phantasm](./Waltz_Of_Phantasm.md)首发日期：2010-10-04 （第三届上海THONLY 東方大往生～夢と生命境界の交響詩篇～ (未找到链接)）全长、​合作 （一般向）该专辑包含 2 张CD
-<table><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
-</table>
-
-
+- **TH02 會場紀念限定CD** — 首发日期：未知；-
+- **[Waltz Of Phantasm](./Waltz_Of_Phantasm.md)** — 首发日期：2010-10-04 （第三届上海THONLY 東方大往生～夢と生命境界の交響詩篇～）；全长、​合作 （一般向）；该专辑包含 2 张CD
 
 ## 其他信息
-
-
-
 
 ---
 

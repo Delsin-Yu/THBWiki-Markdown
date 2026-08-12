@@ -1,12 +1,8 @@
 # 文件:大雪戦banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\49\ns6%3A%E5%A4%A7%E9%9B%AA%E6%88%A6banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\49\ns6%3A%E5%A4%A7%E9%9B%AA%E6%88%A6banner%2Egif.html -->
 
 大雪戦 | 社团LOGO
-
-
-
-
 
 
 ---

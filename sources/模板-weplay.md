@@ -1,16 +1,12 @@
 # 模板:weplay
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\6\6b\ns10%3Aweplay.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\6\6b\ns10%3Aweplay.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:No_Injured,_No_Enemy封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\48\ns6%3ANo_Injured%2C_No_Enemy%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\48\ns6%3ANo_Injured%2C_No_Enemy%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 はちみつとんこつ | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [No Injured, No Enemy](./No_Injured,_No_Enemy.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [No Injured, No Enemy](./No_Injured,_No_Enemy.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
   
-源地址：[direct image link (max size)](https://ecdnimg.toranoana.jp/ec/img/04/0030/95/98/040030959808-1p.jpg), [source page (虎穴 ID: 040030927795)](https://ec.toranoana.jp/tora_r/ec/item/040030927795/)
-  
-
-
-
-
+源地址：[direct image link (max size)](https://ecdnimg.toranoana.jp/ec/img/04/0030/95/98/040030959808-1p.jpg), [source page (虎穴 ID: 040030927795)](https://ec.toranoana.jp/tora_r/ec/item/040030927795/)  
 
 ---
 

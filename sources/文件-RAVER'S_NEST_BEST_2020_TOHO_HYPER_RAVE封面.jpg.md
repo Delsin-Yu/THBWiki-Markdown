@@ -1,6 +1,6 @@
 # 文件:RAVER'S_NEST_BEST_2020_TOHO_HYPER_RAVE封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\53\ns6%3ARAVER%27S_NEST_BEST_2020_TOHO_HYPER_RAVE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\53\ns6%3ARAVER%27S_NEST_BEST_2020_TOHO_HYPER_RAVE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 DiGiTAL_WiNG | 专辑封面 | 封面图片
 
@@ -10,11 +10,11 @@ DiGiTAL_WiNG | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [RAVER'S NEST BEST 2020 TOHO HYPER RAVE](./RAVER'S_NEST_BEST_2020_TOHO_HYPER_RAVE.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- 十六夜咲夜 (未找到链接)- [比那名居天子](./比那名居天子.md)- [古明地觉](./古明地觉.md)
-
-
-
+- [RAVER'S NEST BEST 2020 TOHO HYPER RAVE](./RAVER'S_NEST_BEST_2020_TOHO_HYPER_RAVE.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [十六夜咲夜](./十六夜咲夜.md)
+- [比那名居天子](./比那名居天子.md)
+- [古明地觉](./古明地觉.md)
 
 
 ---

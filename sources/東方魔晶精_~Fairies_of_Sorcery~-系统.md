@@ -1,6 +1,6 @@
 # 東方魔晶精_~Fairies_of_Sorcery~/系统
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\2b\ns0%3A%E6%9D%B1%E6%96%B9%E9%AD%94%E6%99%B6%E7%B2%BE_%7EFairies_of_Sorcery%7E%2F%E7%B3%BB%E7%BB%9F.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\2b\ns0%3A%E6%9D%B1%E6%96%B9%E9%AD%94%E6%99%B6%E7%B2%BE_%7EFairies_of_Sorcery%7E%2F%E7%B3%BB%E7%BB%9F.html -->
 
 Nono_443
 
@@ -12,18 +12,13 @@ Nono_443
 - [3 画面要素](#画面要素)
 - [4 道具说明](#道具说明)
 - [5 结界系统](#结界系统)
-
   - [5.1 Burst](#Burst)
   - [5.2 Double Burst](#Double_Burst)
-
 
 
 - [6 分数系统](#分数系统)
 - [7 成就系统](#成就系统)
 - [8 基本策略](#基本策略)
-
-
-
 
 
 ## 基本操作
@@ -37,15 +32,13 @@ Z：射击
 X：使用bomb
   
   
-C：开启结界 (未找到链接)
-  
+C：开启[结界](./東方魔晶精_~Fairies_of_Sorcery~-系统.md#结界系统)  
   
 shift：低速
   
   
 ctrl：使游戏整体加速。游戏过程中使用可能导致录像出错，建议只在播放录像时使用，不要乱按。
   
-
 
 ## 机体简介
   
@@ -62,7 +55,7 @@ ctrl：使游戏整体加速。游戏过程中使用可能导致录像出错，�
 
 
 ## 画面要素
-[](./文件-东方魔晶精系统说明1.jpg.md)
+<img alt="东方魔晶精系统说明1.jpg" src="https://upload.thwiki.cc/thumb/6/67/%E4%B8%9C%E6%96%B9%E9%AD%94%E6%99%B6%E7%B2%BE%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E1.jpg/300px-%E4%B8%9C%E6%96%B9%E9%AD%94%E6%99%B6%E7%B2%BE%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E1.jpg" decoding="async" loading="lazy" width="300" height="223" srcset="https://upload.thwiki.cc/thumb/6/67/%E4%B8%9C%E6%96%B9%E9%AD%94%E6%99%B6%E7%B2%BE%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E1.jpg/450px-%E4%B8%9C%E6%96%B9%E9%AD%94%E6%99%B6%E7%B2%BE%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E1.jpg 1.5x, https://upload.thwiki.cc/6/67/%E4%B8%9C%E6%96%B9%E9%AD%94%E6%99%B6%E7%B2%BE%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E1.jpg 2x" data-file-width="580" data-file-height="431">
   
 右侧从上到下依次是：
   
@@ -94,7 +87,6 @@ bomb碎片：吃到绿色水晶增加（Story模式下第一个B道具需要30�
 - 每10个擦弹会提升1%魔法。
 
 
-
 ## 道具说明
   
 所有道中敌人的水晶道具均为击破后固定掉落（一般来说什么颜色的敌人就掉落什么颜色的水晶）。
@@ -119,15 +111,12 @@ bomb碎片：吃到绿色水晶增加（Story模式下第一个B道具需要30�
 - 3面boss战中，击破副boss会无条件获得一定的黄色和蓝色水晶。
 
   
-还有一些闪亮星星道具，这些道具增加的数值很高但数量很少，也不会受到结界的影响，请参考manual (未找到链接)
-  
-
+还有一些闪亮星星道具，这些道具增加的数值很高但数量很少，也不会受到结界的影响，请参考manual (未找到链接)  
 
 ## 结界系统
   
 使用C键启动，按照C键按下时间不同分为两种。
   
-
 
 ### Burst
   
@@ -137,9 +126,8 @@ bomb碎片：吃到绿色水晶增加（Story模式下第一个B道具需要30�
 短按C键，自机周围一定区域内消弹。同时当前画面内所有水晶道具变为宝石道具。
   
 
-
 ### Double Burst
-[](./文件-东方魔晶精系统说明2.jpg.md)
+<img alt="东方魔晶精系统说明2.jpg" src="https://upload.thwiki.cc/thumb/9/92/%E4%B8%9C%E6%96%B9%E9%AD%94%E6%99%B6%E7%B2%BE%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E2.jpg/300px-%E4%B8%9C%E6%96%B9%E9%AD%94%E6%99%B6%E7%B2%BE%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E2.jpg" decoding="async" loading="lazy" width="300" height="135" srcset="https://upload.thwiki.cc/thumb/9/92/%E4%B8%9C%E6%96%B9%E9%AD%94%E6%99%B6%E7%B2%BE%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E2.jpg/450px-%E4%B8%9C%E6%96%B9%E9%AD%94%E6%99%B6%E7%B2%BE%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E2.jpg 1.5x, https://upload.thwiki.cc/thumb/9/92/%E4%B8%9C%E6%96%B9%E9%AD%94%E6%99%B6%E7%B2%BE%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E2.jpg/600px-%E4%B8%9C%E6%96%B9%E9%AD%94%E6%99%B6%E7%B2%BE%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E2.jpg 2x" data-file-width="733" data-file-height="331">
   
 需要至少200%魔法才能启动，消耗100%魔法。
   
@@ -147,10 +135,10 @@ bomb碎片：吃到绿色水晶增加（Story模式下第一个B道具需要30�
 长按C键，自机先启动一次burst，然后全屏消弹一次并开启一个结界。
   
   
- **结界持续时间内出现过的** 所有水晶道具以及宝石道具都将变为星星道具，并在画面右下角显示计数（不管是否在结界持续时间内回收，只要是星星都会计入）。
+**结界持续时间内出现过的**所有水晶道具以及宝石道具都将变为星星道具，并在画面右下角显示计数（不管是否在结界持续时间内回收，只要是星星都会计入）。
   
 
-- 结界过程中 **不无敌** ，中弹后照常miss， **并且不会返还正常miss的0.5魔法** 。
+- 结界过程中**不无敌**，中弹后照常miss，**并且不会返还正常miss的0.5魔法**。
 - 某些子弹无法通过结界或者bomb消去。
 - 在Double Burst正常结束（miss和bomb会强制终止结界）时，会再次进行全屏消弹，并根据结界计数给予额外奖励（见下表，n为道具数量除以5，向下取整）。
 
@@ -196,10 +184,8 @@ bomb碎片：吃到绿色水晶增加（Story模式下第一个B道具需要30�
   
 这个游戏没有击破分，击打分以及消弹分，因此分数来源只有三个：黄水晶的分数，SCB，结算分。
   
-
 黄水晶
-: 参见结界 (未找到链接)部分。
-
+: 参见[结界](./東方魔晶精_~Fairies_of_Sorcery~-系统.md#结界系统)部分。
 Spell Card Bonus
 : 
 : 基础分*得点率*结界判定  
@@ -214,9 +200,8 @@ bomb数  x 10,000,000 (剩余绿星星数)
 : 得点率  x 10,000,000 (得点率化为小数，精确到0.1)
 : 难度系数补正：E/N/H/L/U/EX分别为0.5/1.0/1.5/2.0/2.0/1.5。
 
-
 ## 成就系统
-[](./文件-东方魔晶精系统说明3.jpg.md)
+<img alt="东方魔晶精系统说明3.jpg" src="https://upload.thwiki.cc/thumb/f/f7/%E4%B8%9C%E6%96%B9%E9%AD%94%E6%99%B6%E7%B2%BE%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E3.jpg/300px-%E4%B8%9C%E6%96%B9%E9%AD%94%E6%99%B6%E7%B2%BE%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E3.jpg" decoding="async" loading="lazy" width="300" height="225" srcset="https://upload.thwiki.cc/thumb/f/f7/%E4%B8%9C%E6%96%B9%E9%AD%94%E6%99%B6%E7%B2%BE%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E3.jpg/450px-%E4%B8%9C%E6%96%B9%E9%AD%94%E6%99%B6%E7%B2%BE%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E3.jpg 1.5x, https://upload.thwiki.cc/thumb/f/f7/%E4%B8%9C%E6%96%B9%E9%AD%94%E6%99%B6%E7%B2%BE%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E3.jpg/600px-%E4%B8%9C%E6%96%B9%E9%AD%94%E6%99%B6%E7%B2%BE%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E3.jpg 2x" data-file-width="640" data-file-height="480">
   
 在游戏标题画面选择“RESULT”选项，按Z键即可看到。
   
@@ -231,7 +216,6 @@ bomb数  x 10,000,000 (剩余绿星星数)
 - NoBurst：通关过程中未使用burst以及double burst（C封）
 - NoFullPower：通关过程中魔法值未达到过400%
 - SpHalf：通关过程中收取该难度至少一半数目的符卡（共19张）
-
 
 
 ## 基本策略
@@ -253,10 +237,6 @@ bomb数  x 10,000,000 (剩余绿星星数)
   
 如果魔法不够可以通过自杀或者贴脸炸非符等等的方法获得。
   
-
-
-
-
 
 ---
 

@@ -1,12 +1,8 @@
 # 文件:CrerpSucrebanner（曾用）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\18\ns6%3ACrerpSucrebanner%EF%BC%88%E6%9B%BE%E7%94%A8%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\18\ns6%3ACrerpSucrebanner%EF%BC%88%E6%9B%BE%E7%94%A8%EF%BC%89%2Epng.html -->
 
 CrerpSucre | 社团LOGO
-
-
-
-
 
 
 ---

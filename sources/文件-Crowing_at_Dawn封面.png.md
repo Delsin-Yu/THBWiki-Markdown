@@ -1,6 +1,6 @@
 # 文件:Crowing_at_Dawn封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\17\ns6%3ACrowing_at_Dawn%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\17\ns6%3ACrowing_at_Dawn%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 焦燥フラムベルジュ
 
@@ -10,11 +10,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [Crowing at Dawn](./Crowing_at_Dawn.md)  
-该封面包含的角色：- [小野塚小町](./小野塚小町.md)- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)- [庭渡久侘歌](./庭渡久侘歌.md)
-
-
-
+- [Crowing at Dawn](./Crowing_at_Dawn.md)该封面包含的角色：
+- [小野塚小町](./小野塚小町.md)
+- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)
+- [庭渡久侘歌](./庭渡久侘歌.md)
 
 
 ---

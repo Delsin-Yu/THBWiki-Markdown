@@ -1,6 +1,6 @@
 # 文件:私たちの航路図_～_Recorridor_de_los_Dos封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0c\ns6%3A%E7%A7%81%E3%81%9F%E3%81%A1%E3%81%AE%E8%88%AA%E8%B7%AF%E5%9B%B3_%EF%BD%9E_Recorridor_de_los_Dos%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0c\ns6%3A%E7%A7%81%E3%81%9F%E3%81%A1%E3%81%AE%E8%88%AA%E8%B7%AF%E5%9B%B3_%EF%BD%9E_Recorridor_de_los_Dos%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ジャージと愉快な仲間たち | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [私たちの航路図 ～ Recorridor de los Dos](./私たちの航路図_～_Recorridor_de_los_Dos.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [私たちの航路図 ～ Recorridor de los Dos](./私たちの航路図_～_Recorridor_de_los_Dos.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

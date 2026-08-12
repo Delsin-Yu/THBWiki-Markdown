@@ -1,6 +1,6 @@
 # 文件:Obituaries_We(')rE_None...feat.リブユウキ封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\02\ns6%3AObituaries_We%28%27%29rE_None%2E%2E%2Efeat%2E%E3%83%AA%E3%83%96%E3%83%A6%E3%82%A6%E3%82%AD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\02\ns6%3AObituaries_We%28%27%29rE_None%2E%2E%2Efeat%2E%E3%83%AA%E3%83%96%E3%83%A6%E3%82%A6%E3%82%AD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 UNDEAD_CORPORATION | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ UNDEAD_CORPORATION | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Obituaries We(')rE None...feat.リブユウキ](./Obituaries_We(')rE_None...feat.リブユウキ.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
-
-
-
+- [Obituaries We(')rE None...feat.リブユウキ](./Obituaries_We('%29rE_None...feat.リブユウキ.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
 
 ---

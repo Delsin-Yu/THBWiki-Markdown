@@ -1,6 +1,6 @@
 # 文件:水橋パルスィのSSR封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ee\ns6%3A%E6%B0%B4%E6%A9%8B%E3%83%91%E3%83%AB%E3%82%B9%E3%82%A3%E3%81%AESSR%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ee\ns6%3A%E6%B0%B4%E6%A9%8B%E3%83%91%E3%83%AB%E3%82%B9%E3%82%A3%E3%81%AESSR%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 アールグレイ | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [水橋パルスィのSSR](./水橋パルスィのSSR.md)  
-该封面包含的角色：- [水桥帕露西](./水桥帕露西.md)
-
-
-
+- [水橋パルスィのSSR](./水橋パルスィのSSR.md)该封面包含的角色：
+- [水桥帕露西](./水桥帕露西.md)
 
 
 ---

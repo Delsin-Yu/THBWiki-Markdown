@@ -1,12 +1,8 @@
 # 文件:花茶「Fabri-tea」.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1c\ns6%3A%E8%8A%B1%E8%8C%B6%E3%80%8CFabri-tea%E3%80%8D%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1c\ns6%3A%E8%8A%B1%E8%8C%B6%E3%80%8CFabri-tea%E3%80%8D%2Ejpg.html -->
 
 東方邪星章製作チーム
-
-
-
-
 
 
 ---

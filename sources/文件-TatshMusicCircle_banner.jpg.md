@@ -1,12 +1,8 @@
 # 文件:TatshMusicCircle_banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\eb\ns6%3ATatshMusicCircle_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\eb\ns6%3ATatshMusicCircle_banner%2Ejpg.html -->
 
 TatshMusicCircle | 社团LOGO
-
-
-
-
 
 
 ---

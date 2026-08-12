@@ -1,6 +1,6 @@
 # 文件:Secret_Case封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\97\ns6%3ASecret_Case%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\97\ns6%3ASecret_Case%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 豚骨会
 
@@ -8,16 +8,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [Secret Case](./Secret_Case.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
+- [Secret Case](./Secret_Case.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
   
-源地址：[[1]](http://choukahanka.shikisokuzekuu.net/JacketSC.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://choukahanka.shikisokuzekuu.net/JacketSC.jpg)  
 
 ---
 

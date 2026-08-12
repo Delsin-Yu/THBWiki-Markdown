@@ -1,12 +1,8 @@
 # 文件:「诹访大战_～_土著神话_vs_中央神话」（风神录）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\55\ns6%3A%E3%80%8C%E8%AF%B9%E8%AE%BF%E5%A4%A7%E6%88%98_%EF%BD%9E_%E5%9C%9F%E8%91%97%E7%A5%9E%E8%AF%9D_vs_%E4%B8%AD%E5%A4%AE%E7%A5%9E%E8%AF%9D%E3%80%8D%EF%BC%88%E9%A3%8E%E7%A5%9E%E5%BD%95%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\55\ns6%3A%E3%80%8C%E8%AF%B9%E8%AE%BF%E5%A4%A7%E6%88%98_%EF%BD%9E_%E5%9C%9F%E8%91%97%E7%A5%9E%E8%AF%9D_vs_%E4%B8%AD%E5%A4%AE%E7%A5%9E%E8%AF%9D%E3%80%8D%EF%BC%88%E9%A3%8E%E7%A5%9E%E5%BD%95%EF%BC%89%2Ejpg.html -->
 
 东方风神录 | 敌机符卡 | 洩矢诹访子
-
-
-
-
 
 
 ---

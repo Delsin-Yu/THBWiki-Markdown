@@ -1,44 +1,36 @@
 # passion（同人志）
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\8\8d\ns0%3Apassion%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\8\8d\ns0%3Apassion%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89.html -->
 
 2015年8月14日 由 ハラペーニョチップス 于 Comic Market 88 发布的漫画同人志，B5尺寸一共140页，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人志 (未找到链接)** 的词条
-
+**[二次创作同人志](./二次创作.md#同人志)**的词条
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-passion（同人志）封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/1/17/passion%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/141px-passion%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="141" height="196" srcset="https://upload.thwiki.cc/thumb/1/17/passion%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/211px-passion%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/1/17/passion%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/282px-passion%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="623" data-file-height="866"></a><div class="cover-char">角色：<a href="./爱丽丝·玛格特洛依德.md" title="爱丽丝·玛格特洛依德">爱丽丝·玛格特洛依德</a></div></td>
 </tr><tr><td class="label">名称</td><td colspan="2"> passion </td></tr><tr><td class="label">制作方</td><td><a href="./ハラペーニョチップス.md" title="ハラペーニョチップス">ハラペーニョチップス</a></td><td class="cover-artwork" rowspan="7" style="min-width:196px;"><a href="./文件-passion（同人志）封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/1/17/passion%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/141px-passion%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="141" height="196" srcset="https://upload.thwiki.cc/thumb/1/17/passion%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/211px-passion%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/1/17/passion%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/282px-passion%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="623" data-file-height="866"></a><div class="cover-char">角色：<a href="./爱丽丝·玛格特洛依德.md" title="爱丽丝·玛格特洛依德">爱丽丝·玛格特洛依德</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2015-08-14&#160;（<a href="/展会作品列表?e=Comic+Market%2388">Comic Market 88</a>）</td></tr><tr><td class="label">类型</td><td>漫画</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>B5</td></tr><tr><td class="label">页数</td><td>140P</td></tr><tr><td class="label">售价</td><td>通贩售价：1428日元</td></tr>
+</tr><tr><td class="label">首发日期</td><td>2015-08-14 （<a href="./展会作品列表.md#88">Comic Market 88</a>）</td></tr><tr><td class="label">类型</td><td>漫画</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>B5</td></tr><tr><td class="label">页数</td><td>140P</td></tr><tr><td class="label">售价</td><td>通贩售价：1428日元</td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/51895967">https://www.pixiv.net/artworks/51895967</a><br><a rel="nofollow" class="external free" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=135781">https://www.melonbooks.co.jp/detail/detail.php?product_id=135781</a></td></tr></tbody></table>
 
 passion（同人志，ハラペーニョチップス，2015） - 2015年8月14日 由 ハラペーニョチップス 于 Comic Market 88 发布的漫画同人志，B5尺寸一共140页，分级为 一般向
-
 ## 预览
-- [](./文件-passion（同人志）预览图1.jpg.md)- [](./文件-passion（同人志）预览图2.jpg.md)- [](./文件-passion（同人志）预览图3.jpg.md)- [](./文件-passion（同人志）预览图4.jpg.md)
+
+- <img alt="passion（同人志）预览图1.jpg" src="https://upload.thwiki.cc/thumb/9/9f/passion%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg/264px-passion%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg" decoding="async" loading="lazy" width="176" height="250" srcset="https://upload.thwiki.cc/thumb/9/9f/passion%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg/396px-passion%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg 1.5x, https://upload.thwiki.cc/thumb/9/9f/passion%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg/528px-passion%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg 2x" data-file-width="634" data-file-height="900"> 
+- <img alt="passion（同人志）预览图2.jpg" src="https://upload.thwiki.cc/thumb/3/3a/passion%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg/264px-passion%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg" decoding="async" loading="lazy" width="176" height="250" srcset="https://upload.thwiki.cc/thumb/3/3a/passion%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg/396px-passion%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg 1.5x, https://upload.thwiki.cc/thumb/3/3a/passion%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg/528px-passion%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg 2x" data-file-width="634" data-file-height="900"> 
+- <img alt="passion（同人志）预览图3.jpg" src="https://upload.thwiki.cc/thumb/7/75/passion%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E9%A2%84%E8%A7%88%E5%9B%BE3.jpg/264px-passion%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E9%A2%84%E8%A7%88%E5%9B%BE3.jpg" decoding="async" loading="lazy" width="176" height="250" srcset="https://upload.thwiki.cc/thumb/7/75/passion%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E9%A2%84%E8%A7%88%E5%9B%BE3.jpg/396px-passion%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E9%A2%84%E8%A7%88%E5%9B%BE3.jpg 1.5x, https://upload.thwiki.cc/thumb/7/75/passion%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E9%A2%84%E8%A7%88%E5%9B%BE3.jpg/528px-passion%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E9%A2%84%E8%A7%88%E5%9B%BE3.jpg 2x" data-file-width="634" data-file-height="900"> 
+- <img alt="passion（同人志）预览图4.jpg" src="https://upload.thwiki.cc/thumb/6/6d/passion%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E9%A2%84%E8%A7%88%E5%9B%BE4.jpg/264px-passion%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E9%A2%84%E8%A7%88%E5%9B%BE4.jpg" decoding="async" loading="lazy" width="176" height="250" srcset="https://upload.thwiki.cc/thumb/6/6d/passion%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E9%A2%84%E8%A7%88%E5%9B%BE4.jpg/396px-passion%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E9%A2%84%E8%A7%88%E5%9B%BE4.jpg 1.5x, https://upload.thwiki.cc/thumb/6/6d/passion%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E9%A2%84%E8%A7%88%E5%9B%BE4.jpg/528px-passion%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E9%A2%84%E8%A7%88%E5%9B%BE4.jpg 2x" data-file-width="634" data-file-height="900"> 
 
 
 ## Staff
+
 - ウロ (未找到链接)
 
 
 ## 评论
+
 ```
-やって来るなりアリスをベッドに押し倒した霊夢、知的好奇心探求の名の元襲い掛かる!?
-ボンヤリしながらアリスがメディスンを調整、彼女の腕には立派なドリルが生えました♪
-窓を破りダイナミックに霊夢が登場、エログッズを取り出す彼女にアリスの我慢も限界☆
-アリスと霊夢が繰り広げる爆笑必至のドタバタラブコメを、たっぷりとお楽しみ下さい。 
-```
-
-  
-  
-
-  
-
-
-
+やって来るなりアリスをベッドに押し倒した霊夢、知的好奇心探求の名の元襲い掛かる!? ボンヤリしながらアリスがメディスンを調整、彼女の腕には立派なドリルが生えました♪ 窓を破りダイナミックに霊夢が登場、エログッズを取り出す彼女にアリスの我慢も限界☆ アリスと霊夢が繰り広げる爆笑必至のドタバタラブコメを、たっぷりとお楽しみ下さい。 ```
 
 
 ---

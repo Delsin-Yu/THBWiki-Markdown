@@ -1,6 +1,6 @@
 # 文件:Core_Revolution封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9a\ns6%3ACore_Revolution%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9a\ns6%3ACore_Revolution%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 sun3_FielD | 专辑封面 | 封面图片
 
@@ -8,12 +8,9 @@ sun3_FielD | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Core Revolution](./Core_Revolution.md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)源地址：[[1]](https://web.archive.org/web/20060619221905/http://succinicacid.hp.infoseek.co.jp:80/Core_Revolution_info.html)
-
-
-
-
+- [Core Revolution](./Core_Revolution.md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
+源地址：[\[1\]](https://web.archive.org/web/20060619221905/http://succinicacid.hp.infoseek.co.jp:80/Core_Revolution_info.html)
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:Under_a_Crying_Moon封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\80\ns6%3AUnder_a_Crying_Moon%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\80\ns6%3AUnder_a_Crying_Moon%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Red_Bullet_Sequence | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Red_Bullet_Sequence | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Under a Crying Moon](./Under_a_Crying_Moon.md)  
-该封面包含的角色：- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
-
-
-
+- [Under a Crying Moon](./Under_a_Crying_Moon.md)该封面包含的角色：
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
 
 
 ---

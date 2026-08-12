@@ -1,6 +1,6 @@
 # 文件:厄神days封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2f\ns6%3A%E5%8E%84%E7%A5%9Edays%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2f\ns6%3A%E5%8E%84%E7%A5%9Edays%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 さーくるばんばんしー | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [厄神days](./厄神days.md)  
-该封面包含的角色：- [键山雏](./键山雏.md)
+- [厄神days](./厄神days.md)该封面包含的角色：
+- [键山雏](./键山雏.md)
 
   
-源地址：[[1]](https://s.booth.pm/c7915dfd-bf28-4d8c-9bc5-f750d6248f71/i/207247/7771c11c-253c-4996-bb97-d8d634d58d40.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://s.booth.pm/c7915dfd-bf28-4d8c-9bc5-f750d6248f71/i/207247/7771c11c-253c-4996-bb97-d8d634d58d40.jpg)  
 
 ---
 

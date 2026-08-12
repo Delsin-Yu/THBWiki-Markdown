@@ -1,6 +1,6 @@
 # 文件:Incarnation2_LAST_MOMENT封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5d\ns6%3AIncarnation2_LAST_MOMENT%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5d\ns6%3AIncarnation2_LAST_MOMENT%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 しぐれえび | 同人志封面 | 封面图片
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Incarnation2 LAST MOMENT](./Incarnation2_LAST_MOMENT.md)  
-该封面包含的角色：- [小恶魔](./小恶魔.md)
-
-
-
+- [Incarnation2 LAST MOMENT](./Incarnation2_LAST_MOMENT.md)该封面包含的角色：
+- [小恶魔](./小恶魔.md)
 
 
 ---

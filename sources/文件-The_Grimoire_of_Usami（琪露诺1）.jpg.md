@@ -1,14 +1,11 @@
 # 文件:The_Grimoire_of_Usami（琪露诺1）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ad\ns6%3AThe_Grimoire_of_Usami%EF%BC%88%E7%90%AA%E9%9C%B2%E8%AF%BA1%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ad\ns6%3AThe_Grimoire_of_Usami%EF%BC%88%E7%90%AA%E9%9C%B2%E8%AF%BA1%EF%BC%89%2Ejpg.html -->
 
 宇佐见的魔法书 | 琪露诺
 
 
 ## 摘要
-
-
-
 
 ---
 

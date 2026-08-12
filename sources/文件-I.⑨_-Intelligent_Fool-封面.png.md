@@ -1,6 +1,6 @@
 # 文件:I.⑨_-Intelligent_Fool-封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\97\ns6%3AI%2E%E2%91%A8_-Intelligent_Fool-%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\97\ns6%3AI%2E%E2%91%A8_-Intelligent_Fool-%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 illuCalab. | 封面图片 | 软件封面
 
@@ -10,16 +10,11 @@ illuCalab. | 封面图片 | 软件封面
 使用了本文件作封面图片的作品：
   
 
-- [I.⑨ -Intelligent Fool-](./I.⑨_-Intelligent_Fool-.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)
+- [I.⑨ -Intelligent Fool-](./I.⑨_-Intelligent_Fool-.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
 
   
-源地址：[[1]](http://illucalab.com/img/gametitle/i9.png)
-  
-
-
-
-
+源地址：[\[1\]](http://illucalab.com/img/gametitle/i9.png)  
 
 ---
 

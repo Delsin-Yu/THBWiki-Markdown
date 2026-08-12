@@ -1,12 +1,8 @@
 # 文件:THD2星星挂坠.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4c\ns6%3ATHD2%E6%98%9F%E6%98%9F%E6%8C%82%E5%9D%A0%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\4c\ns6%3ATHD2%E6%98%9F%E6%98%9F%E6%8C%82%E5%9D%A0%2Epng.html -->
 
 AvalonStudioOfficial
-
-
-
-
 
 
 ---

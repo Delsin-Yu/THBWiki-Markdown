@@ -1,16 +1,13 @@
 # 文件:石符「Stone_Conifer」（鬼形兽）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\05\ns6%3A%E7%9F%B3%E7%AC%A6%E3%80%8CStone_Conifer%E3%80%8D%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\05\ns6%3A%E7%9F%B3%E7%AC%A6%E3%80%8CStone_Conifer%E3%80%8D%EF%BC%88%E9%AC%BC%E5%BD%A2%E5%85%BD%EF%BC%89%2Epng.html -->
 
 东方鬼形兽 | 戎璎花 | 敌机符卡
 
 
-## 文件说明  
+## 文件说明
+  
 ,,  
-
-
-
-
 
 ---
 

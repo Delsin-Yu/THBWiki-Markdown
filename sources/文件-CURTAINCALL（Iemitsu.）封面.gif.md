@@ -1,6 +1,6 @@
 # 文件:CURTAINCALL（Iemitsu.）封面.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\94\ns6%3ACURTAINCALL%EF%BC%88Iemitsu%2E%EF%BC%89%E5%B0%81%E9%9D%A2%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\94\ns6%3ACURTAINCALL%EF%BC%88Iemitsu%2E%EF%BC%89%E5%B0%81%E9%9D%A2%2Egif.html -->
 
 Iemitsu. | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ Iemitsu. | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [CURTAINCALL（Iemitsu.）](./CURTAINCALL（Iemitsu.）.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
-
-
-
+- [CURTAINCALL（Iemitsu.）](./CURTAINCALL（Iemitsu.）.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
 
 ---

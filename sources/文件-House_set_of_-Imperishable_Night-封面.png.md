@@ -1,6 +1,6 @@
 # 文件:House_set_of_"Imperishable_Night"封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\da\ns6%3AHouse_set_of_%22Imperishable_Night%22%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\da\ns6%3AHouse_set_of_%22Imperishable_Night%22%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 クロネコラウンジ | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@
   
 
 - [House set of "Imperishable Night"](./House_set_of_-Imperishable_Night-.md)
-
-
-
 
 
 ---

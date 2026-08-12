@@ -1,6 +1,6 @@
 # 文件:星降る方舟_～_Stardrop_Noa's_ark封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\56\ns6%3A%E6%98%9F%E9%99%8D%E3%82%8B%E6%96%B9%E8%88%9F_%EF%BD%9E_Stardrop_Noa%27s_ark%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\56\ns6%3A%E6%98%9F%E9%99%8D%E3%82%8B%E6%96%B9%E8%88%9F_%EF%BD%9E_Stardrop_Noa%27s_ark%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Like_a_rabbit | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ Like_a_rabbit | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [星降る方舟 ～ Stardrop Noa's ark](./星降る方舟_～_Stardrop_Noa's_ark.md)  
-该封面包含的角色：- [娜兹玲](./娜兹玲.md)- [村纱水蜜](./村纱水蜜.md)
-
-
-
+- [星降る方舟 ～ Stardrop Noa's ark](./星降る方舟_～_Stardrop_Noa's_ark.md)该封面包含的角色：
+- [娜兹玲](./娜兹玲.md)
+- [村纱水蜜](./村纱水蜜.md)
 
 
 ---

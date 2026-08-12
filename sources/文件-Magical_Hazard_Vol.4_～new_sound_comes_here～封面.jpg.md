@@ -1,6 +1,6 @@
 # 文件:Magical_Hazard_Vol.4_～new_sound_comes_here～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c7\ns6%3AMagical_Hazard_Vol%2E4_%EF%BD%9Enew_sound_comes_here%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c7\ns6%3AMagical_Hazard_Vol%2E4_%EF%BD%9Enew_sound_comes_here%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Magical_Hazard | 专辑封面 | 封面图片
 
@@ -10,16 +10,12 @@ Magical_Hazard | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Magical Hazard Vol.4 ～new sound comes here～](./Magical_Hazard_Vol.4_～new_sound_comes_here～.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
+- [Magical Hazard Vol.4 ～new sound comes here～](./Magical_Hazard_Vol.4_～new_sound_comes_here～.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
   
-[Pixiv artwork ID: 15578488](https://www.pixiv.net/artworks/15578488)
-  
-
-
-
-
+[Pixiv artwork ID: 15578488](https://www.pixiv.net/artworks/15578488)  
 
 ---
 

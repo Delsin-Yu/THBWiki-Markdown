@@ -1,6 +1,6 @@
 # 文件:th02_07_MIDI.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ab\ns6%3Ath02_07_MIDI%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ab\ns6%3Ath02_07_MIDI%2Emp3.html -->
 
 She's_in_a_temper!! | 东方封魔录
 
@@ -9,12 +9,7 @@ She's_in_a_temper!! | 东方封魔录
   
 She's in a temper!! 东方封魔录1面BOSS里香的主题曲MIDI版。由Roland Sound Canvas 88Pro实机录制；MP3采样率44.1KHz，码率192Kbps。  
 
-来源：[ZUN's MIDIs the way they were intended to be heard (100% COMPLETE)](https://www.shrinemaiden.org/forum/index.php/topic,18989.0.html)
-  
-
-
-
-
+来源：[ZUN's MIDIs the way they were intended to be heard (100% COMPLETE)](https://www.shrinemaiden.org/forum/index.php/topic,18989.0.html)  
 
 ---
 

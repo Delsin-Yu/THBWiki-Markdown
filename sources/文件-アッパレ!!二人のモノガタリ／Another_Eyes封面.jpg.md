@@ -1,6 +1,6 @@
 # 文件:アッパレ!!二人のモノガタリ／Another_Eyes封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a8\ns6%3A%E3%82%A2%E3%83%83%E3%83%91%E3%83%AC%21%21%E4%BA%8C%E4%BA%BA%E3%81%AE%E3%83%A2%E3%83%8E%E3%82%AC%E3%82%BF%E3%83%AA%EF%BC%8FAnother_Eyes%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a8\ns6%3A%E3%82%A2%E3%83%83%E3%83%91%E3%83%AC%21%21%E4%BA%8C%E4%BA%BA%E3%81%AE%E3%83%A2%E3%83%8E%E3%82%AC%E3%82%BF%E3%83%AA%EF%BC%8FAnother_Eyes%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 歌恋人 | 魂音泉
 
@@ -8,16 +8,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [アッパレ!!二人のモノガタリ／Another Eyes](./アッパレ!!二人のモノガタリ／Another_Eyes.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
+- [アッパレ!!二人のモノガタリ／Another Eyes](./アッパレ!!二人のモノガタリ／Another_Eyes.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
   
-源地址：[[1]](https://i1.sndcdn.com/artworks-000201053756-c0scie-t500x500.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://i1.sndcdn.com/artworks-000201053756-c0scie-t500x500.jpg)  
 
 ---
 

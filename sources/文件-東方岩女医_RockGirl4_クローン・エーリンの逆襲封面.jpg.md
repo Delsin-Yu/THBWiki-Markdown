@@ -1,6 +1,6 @@
 # 文件:東方岩女医_RockGirl4_クローン・エーリンの逆襲封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2f\ns6%3A%E6%9D%B1%E6%96%B9%E5%B2%A9%E5%A5%B3%E5%8C%BB_RockGirl4_%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%B3%E3%83%BB%E3%82%A8%E3%83%BC%E3%83%AA%E3%83%B3%E3%81%AE%E9%80%86%E8%A5%B2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2f\ns6%3A%E6%9D%B1%E6%96%B9%E5%B2%A9%E5%A5%B3%E5%8C%BB_RockGirl4_%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%B3%E3%83%BB%E3%82%A8%E3%83%BC%E3%83%AA%E3%83%B3%E3%81%AE%E9%80%86%E8%A5%B2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 趣味工房にんじんわいん
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方岩女医 RockGirl4 クローン・エーリンの逆襲](./東方岩女医_RockGirl4_クローン・エーリンの逆襲.md)  
-该封面包含的角色：- [八意永琳](./八意永琳.md)
-
-
-
+- [東方岩女医 RockGirl4 クローン・エーリンの逆襲](./東方岩女医_RockGirl4_クローン・エーリンの逆襲.md)该封面包含的角色：
+- [八意永琳](./八意永琳.md)
 
 
 ---

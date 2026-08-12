@@ -1,6 +1,6 @@
 # 文件:HEADSHOT（豚骨会）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\22\ns6%3AHEADSHOT%EF%BC%88%E8%B1%9A%E9%AA%A8%E4%BC%9A%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\22\ns6%3AHEADSHOT%EF%BC%88%E8%B1%9A%E9%AA%A8%E4%BC%9A%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 豚骨会
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [HEADSHOT（豚骨会）](./HEADSHOT（豚骨会）.md)  
-该封面包含的角色：- [赤蛮奇](./赤蛮奇.md)
-
-
-
+- [HEADSHOT（豚骨会）](./HEADSHOT（豚骨会）.md)该封面包含的角色：
+- [赤蛮奇](./赤蛮奇.md)
 
 
 ---

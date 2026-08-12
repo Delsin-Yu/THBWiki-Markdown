@@ -1,6 +1,6 @@
 # 文件:Eternity封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8c\ns6%3AEternity%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8c\ns6%3AEternity%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Spiral_Music | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@ Spiral_Music | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Eternity](./Eternity.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
+- [Eternity](./Eternity.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
 
   
-源地址：[suruga-ya](https://www.suruga-ya.jp/product/detail/186101862)
-  
-
-
-
-
+源地址：[suruga-ya](https://www.suruga-ya.jp/product/detail/186101862)  
 
 ---
 

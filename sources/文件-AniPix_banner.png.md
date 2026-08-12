@@ -1,12 +1,8 @@
 # 文件:AniPix_banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e5\ns6%3AAniPix_banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e5\ns6%3AAniPix_banner%2Epng.html -->
 
 AniPix | 社团LOGO
-
-
-
-
 
 
 ---

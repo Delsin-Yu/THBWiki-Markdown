@@ -1,16 +1,12 @@
 # 文件:ssg_VIVIT_D.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3f\ns6%3Assg_VIVIT_D%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3f\ns6%3Assg_VIVIT_D%2Epng.html -->
 
 秋霜玉
 
   
 《秋霜玉》疑似取消的机体。
   
-
-
-
-
 
 ---
 

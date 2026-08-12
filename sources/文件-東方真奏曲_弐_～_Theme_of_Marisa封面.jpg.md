@@ -1,6 +1,6 @@
 # 文件:東方真奏曲_弐_～_Theme_of_Marisa封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0d\ns6%3A%E6%9D%B1%E6%96%B9%E7%9C%9F%E5%A5%8F%E6%9B%B2_%E5%BC%90_%EF%BD%9E_Theme_of_Marisa%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0d\ns6%3A%E6%9D%B1%E6%96%B9%E7%9C%9F%E5%A5%8F%E6%9B%B2_%E5%BC%90_%EF%BD%9E_Theme_of_Marisa%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 FORCE_FIELD | 专辑封面 | 封面图片
 
@@ -8,16 +8,12 @@ FORCE_FIELD | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方真奏曲 弐 ～ Theme of Marisa](./東方真奏曲_弐_～_Theme_of_Marisa.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
+- [東方真奏曲 弐 ～ Theme of Marisa](./東方真奏曲_弐_～_Theme_of_Marisa.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
 From TLMC scans (edited)
   
-
-
-
-
 
 ---
 

@@ -1,18 +1,13 @@
 # 文件:セカイノハテbanner2.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a0\ns6%3A%E3%82%BB%E3%82%AB%E3%82%A4%E3%83%8E%E3%83%8F%E3%83%86banner2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a0\ns6%3A%E3%82%BB%E3%82%AB%E3%82%A4%E3%83%8E%E3%83%8F%E3%83%86banner2%2Ejpg.html -->
 
 セカイノハテ | 社团LOGO
 
 
 ## 摘要
   
-源地址：[direct image link](http://www.purple.dti.ne.jp/sekainohate/bana002.jpg), [source page](http://www.purple.dti.ne.jp/sekainohate/links.htm)
-  
-
-
-
-
+源地址：[direct image link](http://www.purple.dti.ne.jp/sekainohate/bana002.jpg), [source page](http://www.purple.dti.ne.jp/sekainohate/links.htm)  
 
 ---
 

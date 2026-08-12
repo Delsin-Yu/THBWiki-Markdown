@@ -1,6 +1,6 @@
 # 文件:誠-MAKOTO-_Singles_Best_vol.5_～善悪の頂にある真実～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b6\ns6%3A%E8%AA%A0-MAKOTO-_Singles_Best_vol%2E5_%EF%BD%9E%E5%96%84%E6%82%AA%E3%81%AE%E9%A0%82%E3%81%AB%E3%81%82%E3%82%8B%E7%9C%9F%E5%AE%9F%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b6\ns6%3A%E8%AA%A0-MAKOTO-_Singles_Best_vol%2E5_%EF%BD%9E%E5%96%84%E6%82%AA%E3%81%AE%E9%A0%82%E3%81%AB%E3%81%82%E3%82%8B%E7%9C%9F%E5%AE%9F%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 幽闭星光
 
@@ -8,11 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [誠-MAKOTO- Singles Best vol.5 ～善悪の頂にある真実～](./誠-MAKOTO-_Singles_Best_vol.5_～善悪の頂にある真実～.md)  
-该封面包含的角色：- [比那名居天子](./比那名居天子.md)- [灵乌路空](./灵乌路空.md)- [古明地恋](./古明地恋.md)- [秦心](./秦心.md)
-
-
-
+- [誠-MAKOTO- Singles Best vol.5 ～善悪の頂にある真実～](./誠-MAKOTO-_Singles_Best_vol.5_～善悪の頂にある真実～.md)该封面包含的角色：
+- [比那名居天子](./比那名居天子.md)
+- [灵乌路空](./灵乌路空.md)
+- [古明地恋](./古明地恋.md)
+- [秦心](./秦心.md)
 
 
 ---

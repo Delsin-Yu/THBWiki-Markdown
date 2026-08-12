@@ -1,6 +1,6 @@
 # 文件:suck_la_sakura封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b4\ns6%3Asuck_la_sakura%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b4\ns6%3Asuck_la_sakura%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ※liquid_lilly's_liar | 专辑封面 | 封面图片
 
@@ -8,12 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [suck la sakura](./suck_la_sakura.md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)源地址：[[1]](https://i1.sndcdn.com/artworks-000079072399-ert2hu-t500x500.jpg)
-
-
-
-
+- [suck la sakura](./suck_la_sakura.md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
+源地址：[\[1\]](https://i1.sndcdn.com/artworks-000079072399-ert2hu-t500x500.jpg)
 
 ---
 

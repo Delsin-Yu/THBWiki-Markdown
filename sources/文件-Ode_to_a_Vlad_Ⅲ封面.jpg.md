@@ -1,6 +1,6 @@
 # 文件:Ode_to_a_Vlad_Ⅲ封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e1\ns6%3AOde_to_a_Vlad_%E2%85%A2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e1\ns6%3AOde_to_a_Vlad_%E2%85%A2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 StarlessTrilogy | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ StarlessTrilogy | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Ode to a Vlad Ⅲ](./Ode_to_a_Vlad_Ⅲ.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
-
-
-
+- [Ode to a Vlad Ⅲ](./Ode_to_a_Vlad_Ⅲ.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
 
 ---

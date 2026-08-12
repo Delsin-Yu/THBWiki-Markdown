@@ -1,12 +1,8 @@
 # 文件:尔子田里乃（天空璋立绘）sp.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\60\ns6%3A%E5%B0%94%E5%AD%90%E7%94%B0%E9%87%8C%E4%B9%83%EF%BC%88%E5%A4%A9%E7%A9%BA%E7%92%8B%E7%AB%8B%E7%BB%98%EF%BC%89sp%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\60\ns6%3A%E5%B0%94%E5%AD%90%E7%94%B0%E9%87%8C%E4%B9%83%EF%BC%88%E5%A4%A9%E7%A9%BA%E7%92%8B%E7%AB%8B%E7%BB%98%EF%BC%89sp%2Epng.html -->
 
 ZUN绘 | 东方天空璋 | 官方游戏立绘 | 尔子田里乃
-
-
-
-
 
 
 ---

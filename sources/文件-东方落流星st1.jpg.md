@@ -1,12 +1,8 @@
 # 文件:东方落流星st1.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\15\ns6%3A%E4%B8%9C%E6%96%B9%E8%90%BD%E6%B5%81%E6%98%9Fst1%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\15\ns6%3A%E4%B8%9C%E6%96%B9%E8%90%BD%E6%B5%81%E6%98%9Fst1%2Ejpg.html -->
 
 Team_Dreamcatcher
-
-
-
-
 
 
 ---

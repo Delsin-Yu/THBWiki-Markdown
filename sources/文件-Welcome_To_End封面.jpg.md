@@ -1,6 +1,6 @@
 # 文件:Welcome_To_End封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ae\ns6%3AWelcome_To_End%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ae\ns6%3AWelcome_To_End%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Kyandoru_Raito_No_Konran | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Kyandoru_Raito_No_Konran | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Welcome To End](./Welcome_To_End.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
+- [Welcome To End](./Welcome_To_End.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
   
-源地址：[[1]](https://i1.wp.com/i723.photobucket.com/albums/ww240/Lina_bucket_100/front-1_zps1f96765d.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://i1.wp.com/i723.photobucket.com/albums/ww240/Lina_bucket_100/front-1_zps1f96765d.jpg)  
 
 ---
 

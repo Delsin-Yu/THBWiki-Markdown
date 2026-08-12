@@ -1,6 +1,6 @@
 # 文件:SpellTech-c封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b4\ns6%3ASpellTech-c%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b4\ns6%3ASpellTech-c%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 As／Hi_Soundworks | 专辑封面 | 封面图片 | 荒御灵
 
@@ -8,16 +8,11 @@ As／Hi_Soundworks | 专辑封面 | 封面图片 | 荒御灵
 使用了本文件作封面图片的作品：
   
 
-- [SpellTech-c](./SpellTech-c.md)  
-该封面包含的角色：- [圣白莲](./圣白莲.md)
+- [SpellTech-c](./SpellTech-c.md)该封面包含的角色：
+- [圣白莲](./圣白莲.md)
 
   
-源地址：[[1]](http://arami.rdy.jp/jacketoftechc.png)
-  
-
-
-
-
+源地址：[\[1\]](http://arami.rdy.jp/jacketoftechc.png)  
 
 ---
 

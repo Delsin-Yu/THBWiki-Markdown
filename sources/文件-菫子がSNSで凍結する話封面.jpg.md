@@ -1,6 +1,6 @@
 # 文件:菫子がSNSで凍結する話封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a7\ns6%3A%E8%8F%AB%E5%AD%90%E3%81%8CSNS%E3%81%A7%E5%87%8D%E7%B5%90%E3%81%99%E3%82%8B%E8%A9%B1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a7\ns6%3A%E8%8F%AB%E5%AD%90%E3%81%8CSNS%E3%81%A7%E5%87%8D%E7%B5%90%E3%81%99%E3%82%8B%E8%A9%B1%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 baba精米所 | 同人志封面 | 封面图片
 
@@ -8,16 +8,11 @@ baba精米所 | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [菫子がSNSで凍結する話](./菫子がSNSで凍結する話.md)  
-该封面包含的角色：- [宇佐见堇子](./宇佐见堇子.md)
+- [菫子がSNSで凍結する話](./菫子がSNSで凍結する話.md)该封面包含的角色：
+- [宇佐见堇子](./宇佐见堇子.md)
 
   
-[Pixiv artwork ID: 71145251](https://www.pixiv.net/artworks/71145251)
-  
-
-
-
-
+[Pixiv artwork ID: 71145251](https://www.pixiv.net/artworks/71145251)  
 
 ---
 

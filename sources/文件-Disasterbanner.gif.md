@@ -1,16 +1,11 @@
 # 文件:Disasterbanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cb\ns6%3ADisasterbanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cb\ns6%3ADisasterbanner%2Egif.html -->
 
 Disaster | 社团LOGO
 
   
-源地址：[[1]](https://web.archive.org/web/20060503225222im_/http://pine.zero.ad.jp:80/disaster/sp/cradle/images/disaster.gif)
-  
-
-
-
-
+源地址：[\[1\]](https://web.archive.org/web/20060503225222im_/http://pine.zero.ad.jp:80/disaster/sp/cradle/images/disaster.gif)  
 
 ---
 

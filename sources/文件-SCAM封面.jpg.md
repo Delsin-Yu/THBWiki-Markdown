@@ -1,6 +1,6 @@
 # 文件:SCAM封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\40\ns6%3ASCAM%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\40\ns6%3ASCAM%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 梅之小町
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [SCAM](./SCAM.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [SCAM](./SCAM.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
   
-源地址：[direct image link (original size)](https://melonbooks.akamaized.net/upload/save_image/212001210943.jpg), [source page (Melonbooks ID: 509806)](https://www.melonbooks.co.jp/detail/detail.php?product_id=509806)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://melonbooks.akamaized.net/upload/save_image/212001210943.jpg), [source page (Melonbooks ID: 509806)](https://www.melonbooks.co.jp/detail/detail.php?product_id=509806)  
 
 ---
 

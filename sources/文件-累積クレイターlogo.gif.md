@@ -1,18 +1,13 @@
 # 文件:累積クレイターlogo.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\58\ns6%3A%E7%B4%AF%E7%A9%8D%E3%82%AF%E3%83%AC%E3%82%A4%E3%82%BF%E3%83%BClogo%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\58\ns6%3A%E7%B4%AF%E7%A9%8D%E3%82%AF%E3%83%AC%E3%82%A4%E3%82%BF%E3%83%BClogo%2Egif.html -->
 
 社团LOGO | 累積クレイター
 
 
 ## 摘要
   
-源地址：[direct image link](https://web.archive.org/web/20190330043340im_/http://www.geocities.jp/re_ifi_er/ruiseki.gif), [source page](https://web.archive.org/web/20190314054850/http://www.geocities.jp/re_ifi_er/)
-  
-
-
-
-
+源地址：[direct image link](https://web.archive.org/web/20190330043340im_/http://www.geocities.jp/re_ifi_er/ruiseki.gif), [source page](https://web.archive.org/web/20190314054850/http://www.geocities.jp/re_ifi_er/)  
 
 ---
 

@@ -1,18 +1,13 @@
 # 東方海恵堂～Marine_Benefit.／海恵堂異聞：Migration_to_the_conceptual_sea./遷宮抄
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\3\32\ns0%3A%E6%9D%B1%E6%96%B9%E6%B5%B7%E6%81%B5%E5%A0%82%EF%BD%9EMarine_Benefit%2E%EF%BC%8F%E6%B5%B7%E6%81%B5%E5%A0%82%E7%95%B0%E8%81%9E%EF%BC%9AMigration_to_the_conceptual_sea%2E%2F%E9%81%B7%E5%AE%AE%E6%8A%84.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\3\32\ns0%3A%E6%9D%B1%E6%96%B9%E6%B5%B7%E6%81%B5%E5%A0%82%EF%BD%9EMarine_Benefit%2E%EF%BC%8F%E6%B5%B7%E6%81%B5%E5%A0%82%E7%95%B0%E8%81%9E%EF%BC%9AMigration_to_the_conceptual_sea%2E%2F%E9%81%B7%E5%AE%AE%E6%8A%84.html -->
 
 海神書房
 
-- [之一](./東方海恵堂～Marine_Benefit.／海恵堂異聞：Migration_to_the_conceptual_sea.-遷宮抄-之一.md)  
 
-- [之二](./東方海恵堂～Marine_Benefit.／海恵堂異聞：Migration_to_the_conceptual_sea.-遷宮抄-之二.md)  
-
-- [之三](./東方海恵堂～Marine_Benefit.／海恵堂異聞：Migration_to_the_conceptual_sea.-遷宮抄-之三.md)  
-
-
-
-
+- [之一](./東方海恵堂～Marine_Benefit.／海恵堂異聞：Migration_to_the_conceptual_sea.-遷宮抄-之一.md)
+- [之二](./東方海恵堂～Marine_Benefit.／海恵堂異聞：Migration_to_the_conceptual_sea.-遷宮抄-之二.md)
+- [之三](./東方海恵堂～Marine_Benefit.／海恵堂異聞：Migration_to_the_conceptual_sea.-遷宮抄-之三.md)
 
 
 ---

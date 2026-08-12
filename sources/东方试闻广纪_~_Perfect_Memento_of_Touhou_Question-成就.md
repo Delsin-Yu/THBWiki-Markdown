@@ -1,25 +1,19 @@
 # 东方试闻广纪_~_Perfect_Memento_of_Touhou_Question/成就
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\9\9d\ns0%3A%E4%B8%9C%E6%96%B9%E8%AF%95%E9%97%BB%E5%B9%BF%E7%BA%AA_%7E_Perfect_Memento_of_Touhou_Question%2F%E6%88%90%E5%B0%B1.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\9\9d\ns0%3A%E4%B8%9C%E6%96%B9%E8%AF%95%E9%97%BB%E5%B9%BF%E7%BA%AA_%7E_Perfect_Memento_of_Touhou_Question%2F%E6%88%90%E5%B0%B1.html -->
 
 八雾游戏制作组
 
 
 ## 成就列表
   
- **铃机一动**   
+**铃机一动**  
 
 以100%的准确率通过快速开始模式  
-
- **稗世之师**   
+**稗世之师**  
 
 以100%的准确率通过完整开始模式  
-
   
-
-
-
-
 
 ---
 

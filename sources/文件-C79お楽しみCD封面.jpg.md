@@ -1,6 +1,6 @@
 # 文件:C79お楽しみCD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\14\ns6%3AC79%E3%81%8A%E6%A5%BD%E3%81%97%E3%81%BFCD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\14\ns6%3AC79%E3%81%8A%E6%A5%BD%E3%81%97%E3%81%BFCD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 鉄腕トカゲ探知機
 
@@ -9,9 +9,6 @@
   
 
 - [C79お楽しみCD](./C79お楽しみCD.md)
-
-
-
 
 
 ---

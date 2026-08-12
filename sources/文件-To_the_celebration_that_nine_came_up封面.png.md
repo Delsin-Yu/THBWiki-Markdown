@@ -1,6 +1,6 @@
 # 文件:To_the_celebration_that_nine_came_up封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9b\ns6%3ATo_the_celebration_that_nine_came_up%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9b\ns6%3ATo_the_celebration_that_nine_came_up%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Red_Bullet_Sequence | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Red_Bullet_Sequence | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [To the celebration that nine came up](./To_the_celebration_that_nine_came_up.md)  
-该封面包含的角色：- [莉莉霍瓦特](./莉莉霍瓦特.md)
-
-
-
+- [To the celebration that nine came up](./To_the_celebration_that_nine_came_up.md)该封面包含的角色：
+- [莉莉霍瓦特](./莉莉霍瓦特.md)
 
 
 ---

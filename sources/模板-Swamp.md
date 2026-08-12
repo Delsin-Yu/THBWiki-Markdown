@@ -1,16 +1,12 @@
 # 模板:Swamp
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\3\3c\ns10%3ASwamp.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\3\3c\ns10%3ASwamp.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

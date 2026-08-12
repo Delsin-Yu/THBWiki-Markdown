@@ -1,14 +1,11 @@
 # 文件:ウミナリbanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ca\ns6%3A%E3%82%A6%E3%83%9F%E3%83%8A%E3%83%AAbanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\ca\ns6%3A%E3%82%A6%E3%83%9F%E3%83%8A%E3%83%AAbanner%2Egif.html -->
 
 ウミナリ | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

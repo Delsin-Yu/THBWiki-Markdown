@@ -1,12 +1,8 @@
 # 文件:Glassy：oceaNbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8c\ns6%3AGlassy%EF%BC%9AoceaNbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8c\ns6%3AGlassy%EF%BC%9AoceaNbanner%2Epng.html -->
 
 Glassy：oceaN | 社团LOGO
-
-
-
-
 
 
 ---

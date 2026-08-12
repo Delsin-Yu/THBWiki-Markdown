@@ -1,6 +1,6 @@
 # 文件:華扇と右腕_in_別府封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8a\ns6%3A%E8%8F%AF%E6%89%87%E3%81%A8%E5%8F%B3%E8%85%95_in_%E5%88%A5%E5%BA%9C%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8a\ns6%3A%E8%8F%AF%E6%89%87%E3%81%A8%E5%8F%B3%E8%85%95_in_%E5%88%A5%E5%BA%9C%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 東西同人舎
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [華扇と右腕 in 別府](./華扇と右腕_in_別府.md)  
-该封面包含的角色：- [茨木华扇](./茨木华扇.md)
-
-
-
+- [華扇と右腕 in 別府](./華扇と右腕_in_別府.md)该封面包含的角色：
+- [茨木华扇](./茨木华扇.md)
 
 
 ---

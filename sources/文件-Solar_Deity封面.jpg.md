@@ -1,6 +1,6 @@
 # 文件:Solar_Deity封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e9\ns6%3ASolar_Deity%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e9\ns6%3ASolar_Deity%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Ghoulio | 专辑封面 | 封面图片
 
@@ -8,10 +8,7 @@ Ghoulio | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Solar Deity](./Solar_Deity.md)源地址：[[1]](https://ghouliodeficiente.bandcamp.com/album/solar-deity)
-
-
-
+- [Solar Deity](./Solar_Deity.md)源地址：[\[1\]](https://ghouliodeficiente.bandcamp.com/album/solar-deity)
 
 
 ---

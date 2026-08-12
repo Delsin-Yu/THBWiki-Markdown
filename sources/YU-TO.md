@@ -1,35 +1,27 @@
 # Yu-to
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\fa\ns0%3AYu-to.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\fa\ns0%3AYu-to.html -->
 
 现实人物
 
 本页是关于东方Project  
- **二次同人创作者** 的词条
-
+**二次同人创作者**的词条
 ## 基本信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="label"><b>名称</b></td><td> Yu-to </td></tr><tr><td class="label"><b>所属社团</b></td><td><b>当前</b><div style="margin-left:2em;">Berg Heißer Frühling</div></td></tr><tr><td class="label"><b>职位</b></td><td>编曲</td></tr><tr><td class="label"><b>参与社团</b></td><td><a href="./Berg_Heißer_Frühling.md" title="Berg Heißer Frühling">Berg Heißer Frühling</a> （编曲）<br><a href="./ガネメ.md" title="ガネメ">ガネメ</a> （编曲）<br><a href="./肝臓大爆発’ｓ.md" title="肝臓大爆発’ｓ">肝臓大爆発’ｓ</a> （编曲）<br><a href="./豚骨会.md" title="豚骨会">豚骨会</a> （编曲）</td></tr></tbody></table>
 
 Yu-to（人物） - 现实人物
-
 ## 介绍
 
 ## 参与作品
 
 ### 同人音乐
   
-模板:人物曲目列表 (未找到链接)
-  
-
+模板:人物曲目列表 (未找到链接)  
 
 ## 人际关系
 人名
 : 关系
-
-
-
-
 
 ---
 

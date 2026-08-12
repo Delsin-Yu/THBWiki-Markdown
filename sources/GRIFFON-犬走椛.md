@@ -1,23 +1,21 @@
 # GRIFFON/犬走椛
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\fd\ns0%3AGRIFFON%2F%E7%8A%AC%E8%B5%B0%E6%A4%9B.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\fd\ns0%3AGRIFFON%2F%E7%8A%AC%E8%B5%B0%E6%A4%9B.html -->
 
 犬走椛PVCFigure手办模型
 
 本页是关于东方Project  
- **相关实体周边 (未找到链接)** 的词条
-
+**相关实体周边 (未找到链接)**的词条
 ## 模型信息
 
-<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 犬走椛 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>无</td></tr><tr><td class="label">角色</td><td><a href="./犬走椛.md" title="犬走椛">犬走椛</a></td></tr><tr><td class="label">原型师</td><td><a href="/index.php?title=%E3%81%82%E3%81%8D%E3%82%84%E3%81%BE%E3%81%82%E3%81%8D%E3%81%8A&amp;action=edit&amp;redlink=1" class="new" title="あきやまあきお（页面不存在）">あきやまあきお</a></td></tr><tr><td class="label">比例</td><td>1/8</td></tr><tr><td class="label">尺寸</td><td>185 mm</td></tr><tr><td class="label">状态</td><td>已发售</td></tr><tr><td class="label">售价</td><td>7776日元</td></tr><tr><td class="label">首发日期</td><td>2011-4</td></tr><tr><td class="label">发售方</td><td><a href="/index.php?title=GRIFFON&amp;action=edit&amp;redlink=1" class="new" title="GRIFFON（页面不存在）">GRIFFON</a></td></tr><tr><td class="label">官网页面</td><td><a rel="nofollow" class="external free" href="http://www.griffon.co.jp/toho">http://www.griffon.co.jp/toho</a></td></tr></tbody></table>
+<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 犬走椛 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>无</td></tr><tr><td class="label">角色</td><td><a href="./犬走椛.md" title="犬走椛">犬走椛</a></td></tr><tr><td class="label">原型师</td><td><a class="new" title="あきやまあきお（页面不存在）">あきやまあきお</a></td></tr><tr><td class="label">比例</td><td>1/8</td></tr><tr><td class="label">尺寸</td><td>185 mm</td></tr><tr><td class="label">状态</td><td>已发售</td></tr><tr><td class="label">售价</td><td>7776日元</td></tr><tr><td class="label">首发日期</td><td>2011-4</td></tr><tr><td class="label">发售方</td><td><a class="new" title="GRIFFON（页面不存在）">GRIFFON</a></td></tr><tr><td class="label">官网页面</td><td><a rel="nofollow" class="external free" href="http://www.griffon.co.jp/toho">http://www.griffon.co.jp/toho</a></td></tr></tbody></table>
 
 GRIFFON/犬走椛（周边） - 犬走椛PVCFigure手办模型
-
 ## 参考图片
-- [](./文件-GRIFFON犬走椛-1.jpg.md)预览图1- [](./文件-GRIFFON犬走椛-2.jpg.md)预览图2- [](./文件-GRIFFON犬走椛-3.jpg.md)预览图3
 
-
-
+- <img alt="预览图1" src="https://upload.thwiki.cc/thumb/f/f5/GRIFFON%E7%8A%AC%E8%B5%B0%E6%A4%9B-1.jpg/281px-GRIFFON%E7%8A%AC%E8%B5%B0%E6%A4%9B-1.jpg" decoding="async" loading="lazy" width="188" height="250" srcset="https://upload.thwiki.cc/f/f5/GRIFFON%E7%8A%AC%E8%B5%B0%E6%A4%9B-1.jpg 1.5x" data-file-width="400" data-file-height="533"> 预览图1
+- <img alt="预览图2" src="https://upload.thwiki.cc/thumb/b/bd/GRIFFON%E7%8A%AC%E8%B5%B0%E6%A4%9B-2.jpg/328px-GRIFFON%E7%8A%AC%E8%B5%B0%E6%A4%9B-2.jpg" decoding="async" loading="lazy" width="219" height="250" srcset="https://upload.thwiki.cc/b/bd/GRIFFON%E7%8A%AC%E8%B5%B0%E6%A4%9B-2.jpg 1.5x" data-file-width="400" data-file-height="457"> 预览图2
+- <img alt="预览图3" src="https://upload.thwiki.cc/thumb/7/71/GRIFFON%E7%8A%AC%E8%B5%B0%E6%A4%9B-3.jpg/328px-GRIFFON%E7%8A%AC%E8%B5%B0%E6%A4%9B-3.jpg" decoding="async" loading="lazy" width="219" height="250" srcset="https://upload.thwiki.cc/7/71/GRIFFON%E7%8A%AC%E8%B5%B0%E6%A4%9B-3.jpg 1.5x" data-file-width="400" data-file-height="457"> 预览图3
 
 
 ---

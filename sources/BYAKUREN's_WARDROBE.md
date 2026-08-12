@@ -1,40 +1,40 @@
 # BYAKUREN's_WARDROBE
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\d\d5\ns0%3ABYAKUREN%27s_WARDROBE.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\d\d5\ns0%3ABYAKUREN%27s_WARDROBE.html -->
 
 2023年2月26日 由 あにす屋 于 命莲聚会9 发布的画集同人志，A5尺寸一共12页，登场人物有 圣白莲，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人志 (未找到链接)** 的词条
-
+**[二次创作同人志](./二次创作.md#同人志)**的词条
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-BYAKUREN's_WARDROBE封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/a/ac/BYAKUREN%27s_WARDROBE%E5%B0%81%E9%9D%A2.jpg/158px-BYAKUREN%27s_WARDROBE%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="158" height="224" srcset="https://upload.thwiki.cc/thumb/a/ac/BYAKUREN%27s_WARDROBE%E5%B0%81%E9%9D%A2.jpg/237px-BYAKUREN%27s_WARDROBE%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/a/ac/BYAKUREN%27s_WARDROBE%E5%B0%81%E9%9D%A2.jpg/316px-BYAKUREN%27s_WARDROBE%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1691" data-file-height="2400"></a><div class="cover-char">角色：<a href="./圣白莲.md" title="圣白莲">圣白莲</a></div></td>
-</tr><tr><td class="label">名称</td><td colspan="2"> BYAKUREN&#39;s WARDROBE </td></tr><tr><td class="label">译名</td><td colspan="2"> 白莲的衣柜 </td></tr><tr><td class="label">制作方</td><td><a href="./あにす屋.md" title="あにす屋">あにす屋</a></td><td class="cover-artwork" rowspan="8" style="min-width:224px;"><a href="./文件-BYAKUREN's_WARDROBE封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/a/ac/BYAKUREN%27s_WARDROBE%E5%B0%81%E9%9D%A2.jpg/158px-BYAKUREN%27s_WARDROBE%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="158" height="224" srcset="https://upload.thwiki.cc/thumb/a/ac/BYAKUREN%27s_WARDROBE%E5%B0%81%E9%9D%A2.jpg/237px-BYAKUREN%27s_WARDROBE%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/a/ac/BYAKUREN%27s_WARDROBE%E5%B0%81%E9%9D%A2.jpg/316px-BYAKUREN%27s_WARDROBE%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1691" data-file-height="2400"></a><div class="cover-char">角色：<a href="./圣白莲.md" title="圣白莲">圣白莲</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2023-02-26&#160;（<a href="/展会作品列表?e=%E5%91%BD%E8%8E%B2%E8%81%9A%E4%BC%9A%239">みょうれんパーティー9</a>）</td></tr><tr><td class="label">类型</td><td>画集</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>A5</td></tr><tr><td class="label">页数</td><td>12P</td></tr><tr><td class="label">登场人物</td><td><a href="./圣白莲.md" title="圣白莲">圣白莲</a></td></tr><tr><td class="label">售价</td><td>会场售价：500日元<br>通贩售价：300日元（DL版）500日元（实体书）</td></tr>
+</tr><tr><td class="label">名称</td><td colspan="2"> BYAKUREN's WARDROBE </td></tr><tr><td class="label">译名</td><td colspan="2"> 白莲的衣柜 </td></tr><tr><td class="label">制作方</td><td><a href="./あにす屋.md" title="あにす屋">あにす屋</a></td><td class="cover-artwork" rowspan="8" style="min-width:224px;"><a href="./文件-BYAKUREN's_WARDROBE封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/a/ac/BYAKUREN%27s_WARDROBE%E5%B0%81%E9%9D%A2.jpg/158px-BYAKUREN%27s_WARDROBE%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="158" height="224" srcset="https://upload.thwiki.cc/thumb/a/ac/BYAKUREN%27s_WARDROBE%E5%B0%81%E9%9D%A2.jpg/237px-BYAKUREN%27s_WARDROBE%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/a/ac/BYAKUREN%27s_WARDROBE%E5%B0%81%E9%9D%A2.jpg/316px-BYAKUREN%27s_WARDROBE%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1691" data-file-height="2400"></a><div class="cover-char">角色：<a href="./圣白莲.md" title="圣白莲">圣白莲</a></div></td>
+</tr><tr><td class="label">首发日期</td><td>2023-02-26 （<a href="./展会作品列表.md#9">みょうれんパーティー9</a>）</td></tr><tr><td class="label">类型</td><td>画集</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>A5</td></tr><tr><td class="label">页数</td><td>12P</td></tr><tr><td class="label">登场人物</td><td><a href="./圣白莲.md" title="圣白莲">圣白莲</a></td></tr><tr><td class="label">售价</td><td>会场售价：500日元<br>通贩售价：300日元（DL版）500日元（实体书）</td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/105553431">https://www.pixiv.net/artworks/105553431</a><br><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/105435997">https://www.pixiv.net/artworks/105435997</a><br><a rel="nofollow" class="external free" href="https://twitter.com/anise_ya/status/1626129257322758147">https://twitter.com/anise_ya/status/1626129257322758147</a><br><a rel="nofollow" class="external free" href="https://twitter.com/anise_ya/status/1628697496146022400">https://twitter.com/anise_ya/status/1628697496146022400</a></td></tr><tr><td class="label">备注</td><td colspan="2">全彩</td></tr></tbody></table>
 
 BYAKUREN's WARDROBE（同人志，あにす屋，2023） - 2023年2月26日 由 あにす屋 于 命莲聚会9 发布的画集同人志，A5尺寸一共12页，登场人物有 圣白莲，分级为 一般向
-
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://anise-kanro.booth.pm/items/4606836">Booth（DL版）</a>，<a rel="nofollow" class="external text" href="https://anise-kanro.booth.pm/items/4579382">Booth（实体书）</a></td></tr></tbody></table>
 
 
-
 ## 预览
-- [](./文件-BYAKUREN's_WARDROBE预览图1.jpg.md)- [](./文件-BYAKUREN's_WARDROBE预览图2.jpg.md)- [](./文件-BYAKUREN's_WARDROBE预览图3.jpg.md)- [](./文件-BYAKUREN's_WARDROBE预览图4.jpg.md)
+
+- <img alt="BYAKUREN&#39;s WARDROBE预览图1.jpg" src="https://upload.thwiki.cc/thumb/e/e8/BYAKUREN%27s_WARDROBE%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg/264px-BYAKUREN%27s_WARDROBE%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg" decoding="async" loading="lazy" width="176" height="250" srcset="https://upload.thwiki.cc/thumb/e/e8/BYAKUREN%27s_WARDROBE%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg/397px-BYAKUREN%27s_WARDROBE%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg 1.5x, https://upload.thwiki.cc/thumb/e/e8/BYAKUREN%27s_WARDROBE%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg/528px-BYAKUREN%27s_WARDROBE%E9%A2%84%E8%A7%88%E5%9B%BE1.jpg 2x" data-file-width="2039" data-file-height="2894"> 
+- <img alt="BYAKUREN&#39;s WARDROBE预览图2.jpg" src="https://upload.thwiki.cc/thumb/d/d6/BYAKUREN%27s_WARDROBE%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg/264px-BYAKUREN%27s_WARDROBE%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg" decoding="async" loading="lazy" width="176" height="250" srcset="https://upload.thwiki.cc/thumb/d/d6/BYAKUREN%27s_WARDROBE%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg/397px-BYAKUREN%27s_WARDROBE%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg 1.5x, https://upload.thwiki.cc/thumb/d/d6/BYAKUREN%27s_WARDROBE%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg/528px-BYAKUREN%27s_WARDROBE%E9%A2%84%E8%A7%88%E5%9B%BE2.jpg 2x" data-file-width="2039" data-file-height="2894"> 
+- <img alt="BYAKUREN&#39;s WARDROBE预览图3.jpg" src="https://upload.thwiki.cc/thumb/e/e2/BYAKUREN%27s_WARDROBE%E9%A2%84%E8%A7%88%E5%9B%BE3.jpg/375px-BYAKUREN%27s_WARDROBE%E9%A2%84%E8%A7%88%E5%9B%BE3.jpg" decoding="async" loading="lazy" width="250" height="250" srcset="https://upload.thwiki.cc/thumb/e/e2/BYAKUREN%27s_WARDROBE%E9%A2%84%E8%A7%88%E5%9B%BE3.jpg/563px-BYAKUREN%27s_WARDROBE%E9%A2%84%E8%A7%88%E5%9B%BE3.jpg 1.5x, https://upload.thwiki.cc/thumb/e/e2/BYAKUREN%27s_WARDROBE%E9%A2%84%E8%A7%88%E5%9B%BE3.jpg/750px-BYAKUREN%27s_WARDROBE%E9%A2%84%E8%A7%88%E5%9B%BE3.jpg 2x" data-file-width="1200" data-file-height="1200"> 
+- <img alt="BYAKUREN&#39;s WARDROBE预览图4.jpg" src="https://upload.thwiki.cc/thumb/6/60/BYAKUREN%27s_WARDROBE%E9%A2%84%E8%A7%88%E5%9B%BE4.jpg/375px-BYAKUREN%27s_WARDROBE%E9%A2%84%E8%A7%88%E5%9B%BE4.jpg" decoding="async" loading="lazy" width="250" height="250" srcset="https://upload.thwiki.cc/thumb/6/60/BYAKUREN%27s_WARDROBE%E9%A2%84%E8%A7%88%E5%9B%BE4.jpg/563px-BYAKUREN%27s_WARDROBE%E9%A2%84%E8%A7%88%E5%9B%BE4.jpg 1.5x, https://upload.thwiki.cc/thumb/6/60/BYAKUREN%27s_WARDROBE%E9%A2%84%E8%A7%88%E5%9B%BE4.jpg/750px-BYAKUREN%27s_WARDROBE%E9%A2%84%E8%A7%88%E5%9B%BE4.jpg 2x" data-file-width="1200" data-file-height="1200"> 
 
 
 ## Staff
+
 - 茴香 (未找到链接)
 
 
 ## 评论
-
   
 様々な衣装を身に纏った白蓮を詰め込みました。  
 
 オールカラー(RGB印刷)イラスト本。  
-
   
 
 BASIC (星蓮船/黄昏/求聞口授)  
@@ -47,12 +47,6 @@ DANMAKUKAGURA (バニースーツ/水着/浴衣)
 
 FANCY DRESS (ハロウィン/クリスマス)
   
-
-
-
-
-
-
 
 ---
 

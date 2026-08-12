@@ -1,6 +1,6 @@
 # 文件:10th_Anniversary_Bad_Apple!!_PHASE3封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8e\ns6%3A10th_Anniversary_Bad_Apple%21%21_PHASE3%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8e\ns6%3A10th_Anniversary_Bad_Apple%21%21_PHASE3%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Alstroemeria_Records | 专辑封面 | 封面图片
 
@@ -8,11 +8,14 @@ Alstroemeria_Records | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [10th Anniversary Bad Apple!! PHASE3](./10th_Anniversary_Bad_Apple!!_PHASE3.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- 十六夜咲夜 (未找到链接)- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)- [犬走椛](./犬走椛.md)- [封兽鵺](./封兽鵺.md)
-
-
-
+- [10th Anniversary Bad Apple!! PHASE3](./10th_Anniversary_Bad_Apple!!_PHASE3.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [十六夜咲夜](./十六夜咲夜.md)
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
+- [犬走椛](./犬走椛.md)
+- [封兽鵺](./封兽鵺.md)
 
 
 ---

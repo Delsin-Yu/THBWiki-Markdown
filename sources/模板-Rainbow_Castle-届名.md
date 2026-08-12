@@ -1,16 +1,12 @@
 # 模板:Rainbow_Castle/届名
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\4\46\ns10%3ARainbow_Castle%2F%E5%B1%8A%E5%90%8D.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\4\46\ns10%3ARainbow_Castle%2F%E5%B1%8A%E5%90%8D.html -->
 
 活动届名模板
 
   
 Rainbow Castle
   
-
-
-
-
 
 ---
 

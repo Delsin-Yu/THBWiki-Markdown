@@ -1,6 +1,6 @@
 # 文件:fantastic_drive_-_CYTOKINE_Remix封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\69\ns6%3Afantastic_drive_-_CYTOKINE_Remix%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\69\ns6%3Afantastic_drive_-_CYTOKINE_Remix%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 ZYTOKINE | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@ ZYTOKINE | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [fantastic drive - CYTOKINE Remix](./fantastic_drive_-_CYTOKINE_Remix.md)  
-该封面包含的角色：- [博丽灵梦（旧作角色）](./博丽灵梦（旧作角色）.md)
+- [fantastic drive - CYTOKINE Remix](./fantastic_drive_-_CYTOKINE_Remix.md)该封面包含的角色：
+- [博丽灵梦（旧作角色）](./博丽灵梦（旧作角色）.md)
 
   
-[https://www.pixiv.net/artworks/50223352](https://www.pixiv.net/artworks/50223352)
-  
-
-
-
-
+[https://www.pixiv.net/artworks/50223352](https://www.pixiv.net/artworks/50223352)  
 
 ---
 

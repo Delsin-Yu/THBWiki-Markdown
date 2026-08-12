@@ -1,6 +1,6 @@
 # 文件:夜のサーカス_-_Piano_Ver._-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f3\ns6%3A%E5%A4%9C%E3%81%AE%E3%82%B5%E3%83%BC%E3%82%AB%E3%82%B9_-_Piano_Ver%2E_-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f3\ns6%3A%E5%A4%9C%E3%81%AE%E3%82%B5%E3%83%BC%E3%82%AB%E3%82%B9_-_Piano_Ver%2E_-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Liz_Triangle | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ Liz_Triangle | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [夜のサーカス - Piano Ver. -](./夜のサーカス_-_Piano_Ver._-.md)  
-该封面包含的角色：- [克劳恩皮丝](./克劳恩皮丝.md)
-
-
-
+- [夜のサーカス - Piano Ver. -](./夜のサーカス_-_Piano_Ver._-.md)该封面包含的角色：
+- [克劳恩皮丝](./克劳恩皮丝.md)
 
 
 ---

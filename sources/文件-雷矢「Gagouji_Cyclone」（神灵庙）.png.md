@@ -1,12 +1,8 @@
 # 文件:雷矢「Gagouji_Cyclone」（神灵庙）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ef\ns6%3A%E9%9B%B7%E7%9F%A2%E3%80%8CGagouji_Cyclone%E3%80%8D%EF%BC%88%E7%A5%9E%E7%81%B5%E5%BA%99%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ef\ns6%3A%E9%9B%B7%E7%9F%A2%E3%80%8CGagouji_Cyclone%E3%80%8D%EF%BC%88%E7%A5%9E%E7%81%B5%E5%BA%99%EF%BC%89%2Epng.html -->
 
 东方神灵庙 | 敌机符卡 | 苏我屠自古
-
-
-
-
 
 
 ---

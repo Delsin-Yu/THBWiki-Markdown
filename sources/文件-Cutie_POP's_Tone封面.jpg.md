@@ -1,6 +1,6 @@
 # 文件:Cutie_POP's_Tone封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6b\ns6%3ACutie_POP%27s_Tone%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6b\ns6%3ACutie_POP%27s_Tone%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 monochrome-coat | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ monochrome-coat | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Cutie POP's Tone](./Cutie_POP's_Tone.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)
-
-
-
+- [Cutie POP's Tone](./Cutie_POP's_Tone.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
 
 
 ---

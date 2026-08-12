@@ -1,6 +1,6 @@
 # 文件:REQUIEM_Re：miniscence～幻葬は追憶の彼方へ～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ab\ns6%3AREQUIEM_Re%EF%BC%9Aminiscence%EF%BD%9E%E5%B9%BB%E8%91%AC%E3%81%AF%E8%BF%BD%E6%86%B6%E3%81%AE%E5%BD%BC%E6%96%B9%E3%81%B8%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ab\ns6%3AREQUIEM_Re%EF%BC%9Aminiscence%EF%BD%9E%E5%B9%BB%E8%91%AC%E3%81%AF%E8%BF%BD%E6%86%B6%E3%81%AE%E5%BD%BC%E6%96%B9%E3%81%B8%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 SYNC.ART'S | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ SYNC.ART'S | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [REQUIEM Re：miniscence～幻葬は追憶の彼方へ～](./REQUIEM_Re：miniscence～幻葬は追憶の彼方へ～.md)  
-该封面包含的角色：- [米斯蒂娅·萝蕾拉](./米斯蒂娅·萝蕾拉.md)
-
-
-
+- [REQUIEM Re：miniscence～幻葬は追憶の彼方へ～](./REQUIEM_Re：miniscence～幻葬は追憶の彼方へ～.md)该封面包含的角色：
+- [米斯蒂娅·萝蕾拉](./米斯蒂娅·萝蕾拉.md)
 
 
 ---

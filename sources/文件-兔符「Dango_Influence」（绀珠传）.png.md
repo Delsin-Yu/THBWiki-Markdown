@@ -1,12 +1,8 @@
 # 文件:兔符「Dango_Influence」（绀珠传）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fb\ns6%3A%E5%85%94%E7%AC%A6%E3%80%8CDango_Influence%E3%80%8D%EF%BC%88%E7%BB%80%E7%8F%A0%E4%BC%A0%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fb\ns6%3A%E5%85%94%E7%AC%A6%E3%80%8CDango_Influence%E3%80%8D%EF%BC%88%E7%BB%80%E7%8F%A0%E4%BC%A0%EF%BC%89%2Epng.html -->
 
 东方绀珠传 | 敌机符卡 | 铃瑚
-
-
-
-
 
 
 ---

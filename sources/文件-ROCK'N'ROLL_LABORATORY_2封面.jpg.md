@@ -1,6 +1,6 @@
 # 文件:ROCK'N'ROLL_LABORATORY_2封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e7\ns6%3AROCK%27N%27ROLL_LABORATORY_2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e7\ns6%3AROCK%27N%27ROLL_LABORATORY_2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 岸田教団&THE明星ロケッツ
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [ROCK'N'ROLL LABORATORY 2](./ROCK'N'ROLL_LABORATORY_2.md)  
-该封面包含的角色：- 原创角色 (未找到链接)
-
-
-
+- [ROCK'N'ROLL LABORATORY 2](./ROCK'N'ROLL_LABORATORY_2.md)该封面包含的角色：
+- 原创角色 (未找到链接)
 
 
 ---

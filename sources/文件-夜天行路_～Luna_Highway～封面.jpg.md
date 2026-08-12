@@ -1,6 +1,6 @@
 # 文件:夜天行路_～Luna_Highway～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\00\ns6%3A%E5%A4%9C%E5%A4%A9%E8%A1%8C%E8%B7%AF_%EF%BD%9ELuna_Highway%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\00\ns6%3A%E5%A4%9C%E5%A4%A9%E8%A1%8C%E8%B7%AF_%EF%BD%9ELuna_Highway%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Studio_Arc | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ Studio_Arc | 专辑封面 | 封面图片
   
 
 - [夜天行路 ～Luna Highway～](./夜天行路_～Luna_Highway～.md)
-
-
-
 
 
 ---

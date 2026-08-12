@@ -1,12 +1,8 @@
 # 文件:圣白莲（心绮楼Last_Word立绘）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a5\ns6%3A%E5%9C%A3%E7%99%BD%E8%8E%B2%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BCLast_Word%E7%AB%8B%E7%BB%98%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a5\ns6%3A%E5%9C%A3%E7%99%BD%E8%8E%B2%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BCLast_Word%E7%AB%8B%E7%BB%98%EF%BC%89%2Epng.html -->
 
 Alphes绘 | 东方心绮楼 | 圣白莲 | 官方游戏立绘
-
-
-
-
 
 
 ---

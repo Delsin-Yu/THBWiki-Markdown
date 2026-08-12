@@ -1,6 +1,6 @@
 # 文件:ほぼまいにち東方作字_vol.2封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a5\ns6%3A%E3%81%BB%E3%81%BC%E3%81%BE%E3%81%84%E3%81%AB%E3%81%A1%E6%9D%B1%E6%96%B9%E4%BD%9C%E5%AD%97_vol%2E2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a5\ns6%3A%E3%81%BB%E3%81%BC%E3%81%BE%E3%81%84%E3%81%AB%E3%81%A1%E6%9D%B1%E6%96%B9%E4%BD%9C%E5%AD%97_vol%2E2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 paroleise | 同人志封面 | 封面图片
 
@@ -9,9 +9,6 @@ paroleise | 同人志封面 | 封面图片
   
 
 - [ほぼまいにち東方作字 vol.2](./ほぼまいにち東方作字_vol.2.md)
-
-
-
 
 
 ---

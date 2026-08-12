@@ -1,8 +1,9 @@
 # 脚本对照表/ECL/后户之国
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\5\57\ns0%3A%E8%84%9A%E6%9C%AC%E5%AF%B9%E7%85%A7%E8%A1%A8%2FECL%2F%E5%90%8E%E6%88%B7%E4%B9%8B%E5%9B%BD.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\5\57\ns0%3A%E8%84%9A%E6%9C%AC%E5%AF%B9%E7%85%A7%E8%A1%A8%2FECL%2F%E5%90%8E%E6%88%B7%E4%B9%8B%E5%9B%BD.html -->
 
 脚本对照表
+
 
 - 炸rep
 - 炸rep
@@ -18,7 +19,8 @@
 - 星莲船魔B把自机子弹贴图尺寸修改以后，播放原版rep会出错，初步怀疑是 ~~影响了自机子弹判定~~ （现理论为影响了随机数）
 - 地灵殿3面关底1非修改阴阳玉生成的米弹，之后通过mode2048的转换变成的环玉分布如下：
 
-[](./文件-neu001.png.md)  [](./文件-neu001.png.md)
+<img alt="neu001.png" src="https://upload.thwiki.cc/thumb/b/ba/neu001.png/300px-neu001.png" decoding="async" loading="lazy" width="300" height="159" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/b/ba/neu001.png/450px-neu001.png 1.5x, https://upload.thwiki.cc/thumb/b/ba/neu001.png/600px-neu001.png 2x" data-file-width="882" data-file-height="466">
+ [放大](./文件-neu001.png.md)
 - 增加脑电波接口,可以读取用户所想,通过神经网络,直接生成.ecl,.msg,.anm,等,大大减少用户制作弹幕的工作量
 
   
@@ -36,9 +38,6 @@
 - ins11的返回值
 - ins11,15,16的无限制输入(继承堆栈)
 - 可以使用[-$A],[%A]这种格式遍历堆栈或变量(如果做出数组了应该就不需要了)
-
-
-
 
 
 ---

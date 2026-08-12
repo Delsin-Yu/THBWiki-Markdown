@@ -1,6 +1,6 @@
 # 文件:The_H.R.D._Redemption_-_Killer_Night_Girls_-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9a\ns6%3AThe_H%2ER%2ED%2E_Redemption_-_Killer_Night_Girls_-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9a\ns6%3AThe_H%2ER%2ED%2E_Redemption_-_Killer_Night_Girls_-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 D.S.K_Recordz | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ D.S.K_Recordz | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [The H.R.D. Redemption - Killer Night Girls -](./The_H.R.D._Redemption_-_Killer_Night_Girls_-.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
-
-
-
+- [The H.R.D. Redemption - Killer Night Girls -](./The_H.R.D._Redemption_-_Killer_Night_Girls_-.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
 
 
 ---

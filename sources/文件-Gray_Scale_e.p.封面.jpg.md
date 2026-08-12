@@ -1,6 +1,6 @@
 # 文件:Gray_Scale_e.p.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\23\ns6%3AGray_Scale_e%2Ep%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\23\ns6%3AGray_Scale_e%2Ep%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 MD | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ MD | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Gray Scale e.p.](./Gray_Scale_e.p..md)  
-该封面包含的角色：- [射命丸文](./射命丸文.md)
-
-
-
+- [Gray Scale e.p.](./Gray_Scale_e.p..md)该封面包含的角色：
+- [射命丸文](./射命丸文.md)
 
 
 ---

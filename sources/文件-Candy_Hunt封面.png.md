@@ -1,6 +1,6 @@
 # 文件:Candy_Hunt封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\53\ns6%3ACandy_Hunt%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\53\ns6%3ACandy_Hunt%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 hakamori | 同人志封面 | 封面图片
 
@@ -8,11 +8,9 @@ hakamori | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Candy Hunt](./Candy_Hunt.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
-
-
-
+- [Candy Hunt](./Candy_Hunt.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
 
 ---

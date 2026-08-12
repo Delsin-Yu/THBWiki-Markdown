@@ -1,6 +1,6 @@
 # 游戏攻略/STG安定总结/东方风神录
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\c\c0\ns0%3A%E6%B8%B8%E6%88%8F%E6%94%BB%E7%95%A5%2FSTG%E5%AE%89%E5%AE%9A%E6%80%BB%E7%BB%93%2F%E4%B8%9C%E6%96%B9%E9%A3%8E%E7%A5%9E%E5%BD%95.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\c\c0\ns0%3A%E6%B8%B8%E6%88%8F%E6%94%BB%E7%95%A5%2FSTG%E5%AE%89%E5%AE%9A%E6%80%BB%E7%BB%93%2F%E4%B8%9C%E6%96%B9%E9%A3%8E%E7%A5%9E%E5%BD%95.html -->
 
 
 
@@ -40,10 +40,6 @@
 <p>1符的激光会在boss的1非魔法阵出现时，对自机所在位置进行定位。如果此时自机位于boss上方，1符的所有激光就会向上发射。<br>只有在魔法阵出现之后才可以下来，否则无效(如果决定引1符，通常直接站头顶炸1非。下来过早可能使激光侧向发射，下来过晚就撞了)。<br>其实1符本身就是纯走位，然后觉得1非较难选择炸掉的人也不少……
 </p>
 </td></tr></tbody></table>
-
-
-
-
 
 
 ---

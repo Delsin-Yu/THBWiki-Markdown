@@ -1,6 +1,6 @@
 # 文件:Deep_Blossom封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\84\ns6%3ADeep_Blossom%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\84\ns6%3ADeep_Blossom%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 FTRecords | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ FTRecords | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Deep Blossom](./Deep_Blossom.md)  
-该封面包含的角色：- [西行寺幽幽子](./西行寺幽幽子.md)
+- [Deep Blossom](./Deep_Blossom.md)该封面包含的角色：
+- [西行寺幽幽子](./西行寺幽幽子.md)
 
   
-源地址：[[1]](http://ftrecords.net/blog/wp-content/uploads/2013m3aki_deep_blossom.png)
-  
-
-
-
-
+源地址：[\[1\]](http://ftrecords.net/blog/wp-content/uploads/2013m3aki_deep_blossom.png)  
 
 ---
 

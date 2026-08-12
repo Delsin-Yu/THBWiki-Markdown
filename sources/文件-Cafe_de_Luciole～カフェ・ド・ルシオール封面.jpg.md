@@ -1,6 +1,6 @@
 # 文件:Cafe_de_Luciole～カフェ・ド・ルシオール封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bc\ns6%3ACafe_de_Luciole%EF%BD%9E%E3%82%AB%E3%83%95%E3%82%A7%E3%83%BB%E3%83%89%E3%83%BB%E3%83%AB%E3%82%B7%E3%82%AA%E3%83%BC%E3%83%AB%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bc\ns6%3ACafe_de_Luciole%EF%BD%9E%E3%82%AB%E3%83%95%E3%82%A7%E3%83%BB%E3%83%89%E3%83%BB%E3%83%AB%E3%82%B7%E3%82%AA%E3%83%BC%E3%83%AB%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 LUCIOLE*CAFE | 专辑封面 | 封面图片
 
@@ -8,11 +8,12 @@ LUCIOLE*CAFE | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Cafe de Luciole～カフェ・ド・ルシオール](./Cafe_de_Luciole～カフェ・ド・ルシオール.md)  
-该封面包含的角色：- [红美铃](./红美铃.md)- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)- 十六夜咲夜 (未找到链接)- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
-
-
-
+- [Cafe de Luciole～カフェ・ド・ルシオール](./Cafe_de_Luciole～カフェ・ド・ルシオール.md)该封面包含的角色：
+- [红美铃](./红美铃.md)
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
+- [十六夜咲夜](./十六夜咲夜.md)
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
 
 ---

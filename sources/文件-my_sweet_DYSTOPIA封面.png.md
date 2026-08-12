@@ -1,6 +1,6 @@
 # 文件:my_sweet_DYSTOPIA封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\24\ns6%3Amy_sweet_DYSTOPIA%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\24\ns6%3Amy_sweet_DYSTOPIA%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 CLOCKWORKS_TRACER | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ CLOCKWORKS_TRACER | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [my sweet DYSTOPIA](./my_sweet_DYSTOPIA.md)  
-该封面包含的角色：- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
-
-
-
+- [my sweet DYSTOPIA](./my_sweet_DYSTOPIA.md)该封面包含的角色：
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
 
 
 ---

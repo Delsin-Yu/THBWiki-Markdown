@@ -1,12 +1,8 @@
 # 文件:东方远空界stExtra.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\38\ns6%3A%E4%B8%9C%E6%96%B9%E8%BF%9C%E7%A9%BA%E7%95%8CstExtra%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\38\ns6%3A%E4%B8%9C%E6%96%B9%E8%BF%9C%E7%A9%BA%E7%95%8CstExtra%2Ejpg.html -->
 
 神心飘游堂
-
-
-
-
 
 
 ---

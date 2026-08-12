@@ -1,6 +1,6 @@
 # 文件:妖怪と鬼の境界-下-preview封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\be\ns6%3A%E5%A6%96%E6%80%AA%E3%81%A8%E9%AC%BC%E3%81%AE%E5%A2%83%E7%95%8C-%E4%B8%8B-preview%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\be\ns6%3A%E5%A6%96%E6%80%AA%E3%81%A8%E9%AC%BC%E3%81%AE%E5%A2%83%E7%95%8C-%E4%B8%8B-preview%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 蒼空市場
 
@@ -8,11 +8,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [妖怪と鬼の境界-下-preview](./妖怪と鬼の境界-下-preview.md)  
-该封面包含的角色：- [红美铃](./红美铃.md)- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [星熊勇仪](./星熊勇仪.md)
-
-
-
+- [妖怪と鬼の境界-下-preview](./妖怪と鬼の境界-下-preview.md)该封面包含的角色：
+- [红美铃](./红美铃.md)
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [星熊勇仪](./星熊勇仪.md)
 
 
 ---

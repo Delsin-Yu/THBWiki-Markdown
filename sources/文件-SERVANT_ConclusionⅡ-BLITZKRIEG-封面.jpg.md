@@ -1,6 +1,6 @@
 # 文件:SERVANT_ConclusionⅡ-BLITZKRIEG-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9d\ns6%3ASERVANT_Conclusion%E2%85%A1-BLITZKRIEG-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9d\ns6%3ASERVANT_Conclusion%E2%85%A1-BLITZKRIEG-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 音召缶
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [SERVANT ConclusionⅡ-BLITZKRIEG-](./SERVANT_ConclusionⅡ-BLITZKRIEG-.md)  
-该封面包含的角色：- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
+- [SERVANT ConclusionⅡ-BLITZKRIEG-](./SERVANT_ConclusionⅡ-BLITZKRIEG-.md)该封面包含的角色：
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
 
   
-源地址：[[1]](http://ec.akbh.jp/upload/save_image/pics/2100000070183.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://ec.akbh.jp/upload/save_image/pics/2100000070183.jpg)  
 
 ---
 

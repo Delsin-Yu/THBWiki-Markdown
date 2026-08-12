@@ -1,12 +1,8 @@
 # 文件:动漫渔场LOGO.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1e\ns6%3A%E5%8A%A8%E6%BC%AB%E6%B8%94%E5%9C%BALOGO%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1e\ns6%3A%E5%8A%A8%E6%BC%AB%E6%B8%94%E5%9C%BALOGO%2Ejpg.html -->
 
 动漫渔场
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:BBA（有機化合物）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2d\ns6%3ABBA%EF%BC%88%E6%9C%89%E6%A9%9F%E5%8C%96%E5%90%88%E7%89%A9%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2d\ns6%3ABBA%EF%BC%88%E6%9C%89%E6%A9%9F%E5%8C%96%E5%90%88%E7%89%A9%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 有機化合物
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [BBA（有機化合物）](./BBA（有機化合物）.md)  
-该封面包含的角色：- [八云紫](./八云紫.md)
-
-
-
+- [BBA（有機化合物）](./BBA（有機化合物）.md)该封面包含的角色：
+- [八云紫](./八云紫.md)
 
 
 ---

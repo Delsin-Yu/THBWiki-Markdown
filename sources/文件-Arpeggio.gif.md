@@ -1,12 +1,8 @@
 # 文件:Arpeggio.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\be\ns6%3AArpeggio%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\be\ns6%3AArpeggio%2Egif.html -->
 
 LABEL_ARPEGGIO-Sound | 社团LOGO
-
-
-
-
 
 
 ---

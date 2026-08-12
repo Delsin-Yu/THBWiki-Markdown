@@ -1,12 +1,8 @@
 # 文件:ALiCE'S_EMOTiON_banner.GIF
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2c\ns6%3AALiCE%27S_EMOTiON_banner%2EGIF.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2c\ns6%3AALiCE%27S_EMOTiON_banner%2EGIF.html -->
 
 ALiCE'S_EMOTiON | 社团LOGO
-
-
-
-
 
 
 ---

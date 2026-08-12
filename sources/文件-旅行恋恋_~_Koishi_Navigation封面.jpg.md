@@ -1,6 +1,6 @@
 # 文件:旅行恋恋_~_Koishi_Navigation封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5a\ns6%3A%E6%97%85%E8%A1%8C%E6%81%8B%E6%81%8B_%7E_Koishi_Navigation%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5a\ns6%3A%E6%97%85%E8%A1%8C%E6%81%8B%E6%81%8B_%7E_Koishi_Navigation%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 封面图片 | 第零研究院 | 软件封面
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [旅行恋恋 ~ Koishi Navigation](./旅行恋恋_~_Koishi_Navigation.md)  
-该封面包含的角色：- [古明地恋](./古明地恋.md)
-
-
-
+- [旅行恋恋 ~ Koishi Navigation](./旅行恋恋_~_Koishi_Navigation.md)该封面包含的角色：
+- [古明地恋](./古明地恋.md)
 
 
 ---

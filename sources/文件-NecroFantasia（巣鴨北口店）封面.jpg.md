@@ -1,6 +1,6 @@
 # 文件:NecroFantasia（巣鴨北口店）封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c0\ns6%3ANecroFantasia%EF%BC%88%E5%B7%A3%E9%B4%A8%E5%8C%97%E5%8F%A3%E5%BA%97%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c0\ns6%3ANecroFantasia%EF%BC%88%E5%B7%A3%E9%B4%A8%E5%8C%97%E5%8F%A3%E5%BA%97%EF%BC%89%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 巣鴨北口店
 
@@ -9,9 +9,6 @@
   
 
 - [NecroFantasia（巣鴨北口店）](./NecroFantasia（巣鴨北口店）.md)
-
-
-
 
 
 ---

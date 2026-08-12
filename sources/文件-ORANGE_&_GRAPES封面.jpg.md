@@ -1,6 +1,6 @@
 # 文件:ORANGE_&_GRAPES封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bd\ns6%3AORANGE_%26_GRAPES%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bd\ns6%3AORANGE_%26_GRAPES%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 笹車
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [ORANGE &amp; GRAPES](./ORANGE_&_GRAPES.md)  
-该封面包含的角色：- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [ORANGE & GRAPES](./ORANGE_&_GRAPES.md)该封面包含的角色：
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

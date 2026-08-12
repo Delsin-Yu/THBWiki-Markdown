@@ -1,6 +1,6 @@
 # 文件:Glitched_Fantasia封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\25\ns6%3AGlitched_Fantasia%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\25\ns6%3AGlitched_Fantasia%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Screw_Sound_Construction | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Screw_Sound_Construction | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Glitched Fantasia](./Glitched_Fantasia.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
-
-
-
+- [Glitched Fantasia](./Glitched_Fantasia.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
 
 ---

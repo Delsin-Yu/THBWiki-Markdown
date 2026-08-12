@@ -1,16 +1,12 @@
 # 模板:Avatar发布会
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\2\2e\ns10%3AAvatar%E5%8F%91%E5%B8%83%E4%BC%9A.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\2\2e\ns10%3AAvatar%E5%8F%91%E5%B8%83%E4%BC%9A.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

@@ -1,16 +1,12 @@
 # 模板:Izanagi_Distribution
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\4\49\ns10%3AIzanagi_Distribution.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\4\49\ns10%3AIzanagi_Distribution.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

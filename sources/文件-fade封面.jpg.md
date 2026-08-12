@@ -1,6 +1,6 @@
 # 文件:fade封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\54\ns6%3Afade%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\54\ns6%3Afade%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 last_little_while | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ last_little_while | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [fade](./fade.md)  
-该封面包含的角色：- [蓬莱山辉夜](./蓬莱山辉夜.md)
+- [fade](./fade.md)该封面包含的角色：
+- [蓬莱山辉夜](./蓬莱山辉夜.md)
 
   
-源地址：[[1]](http://static.tumblr.com/ea469dfd574dbbed9d14d3292245ddaa/rlsd5dr/ssZob8f05/tumblr_static_ac1zfcasctsswcso08s4ggw84.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://static.tumblr.com/ea469dfd574dbbed9d14d3292245ddaa/rlsd5dr/ssZob8f05/tumblr_static_ac1zfcasctsswcso08s4ggw84.jpg)  
 
 ---
 

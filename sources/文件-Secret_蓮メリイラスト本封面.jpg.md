@@ -1,6 +1,6 @@
 # 文件:Secret_蓮メリイラスト本封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fb\ns6%3ASecret_%E8%93%AE%E3%83%A1%E3%83%AA%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E6%9C%AC%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fb\ns6%3ASecret_%E8%93%AE%E3%83%A1%E3%83%AA%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E6%9C%AC%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 なないろしっぽ団 | 同人志封面 | 封面图片
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [Secret 蓮メリイラスト本](./Secret_蓮メリイラスト本.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [Secret 蓮メリイラスト本](./Secret_蓮メリイラスト本.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

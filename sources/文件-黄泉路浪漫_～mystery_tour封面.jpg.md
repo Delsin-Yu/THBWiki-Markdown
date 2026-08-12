@@ -1,6 +1,6 @@
 # 文件:黄泉路浪漫_～mystery_tour封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\06\ns6%3A%E9%BB%84%E6%B3%89%E8%B7%AF%E6%B5%AA%E6%BC%AB_%EF%BD%9Emystery_tour%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\06\ns6%3A%E9%BB%84%E6%B3%89%E8%B7%AF%E6%B5%AA%E6%BC%AB_%EF%BD%9Emystery_tour%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Golden_City_Factory | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Golden_City_Factory | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [黄泉路浪漫 ～mystery tour](./黄泉路浪漫_～mystery_tour.md)  
-该封面包含的角色：- [小野塚小町](./小野塚小町.md)
-
-
-
+- [黄泉路浪漫 ～mystery tour](./黄泉路浪漫_～mystery_tour.md)该封面包含的角色：
+- [小野塚小町](./小野塚小町.md)
 
 
 ---

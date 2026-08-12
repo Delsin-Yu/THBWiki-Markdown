@@ -1,6 +1,6 @@
 # 文件:By_Your_Side封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3d\ns6%3ABy_Your_Side%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3d\ns6%3ABy_Your_Side%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Ruxia | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Ruxia | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [By Your Side](./By_Your_Side.md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)
+- [By Your Side](./By_Your_Side.md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
 
   
-源地址：[direct image link](https://web.archive.org/web/20130919074936im_/http://blog.midnightinsomnia.com/wp-content/uploads/2011/05/folder.jpg), [source page](https://web.archive.org/web/20130925015647/http://blog.midnightinsomnia.com/2011/05/09/album-review-ruxia-by-your-side/)
-  
-
-
-
-
+源地址：[direct image link](https://web.archive.org/web/20130919074936im_/http://blog.midnightinsomnia.com/wp-content/uploads/2011/05/folder.jpg), [source page](https://web.archive.org/web/20130925015647/http://blog.midnightinsomnia.com/2011/05/09/album-review-ruxia-by-your-side/)  
 
 ---
 

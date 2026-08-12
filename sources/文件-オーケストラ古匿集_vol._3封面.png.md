@@ -1,6 +1,6 @@
 # 文件:オーケストラ古匿集_vol._3封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f7\ns6%3A%E3%82%AA%E3%83%BC%E3%82%B1%E3%82%B9%E3%83%88%E3%83%A9%E5%8F%A4%E5%8C%BF%E9%9B%86_vol%2E_3%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f7\ns6%3A%E3%82%AA%E3%83%BC%E3%82%B1%E3%82%B9%E3%83%88%E3%83%A9%E5%8F%A4%E5%8C%BF%E9%9B%86_vol%2E_3%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 外柿山 | 封面图片
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [オーケストラ古匿集 vol. 3](./オーケストラ古匿集_vol._3.md)  
-该封面包含的角色：- [爱丽丝（旧作角色）](./爱丽丝（旧作角色）.md)- [神绮](./神绮.md)
-
-
-
+- [オーケストラ古匿集 vol. 3](./オーケストラ古匿集_vol._3.md)该封面包含的角色：
+- [爱丽丝（旧作角色）](./爱丽丝（旧作角色）.md)
+- [神绮](./神绮.md)
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:Lapis_moss_banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bc\ns6%3ALapis_moss_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bc\ns6%3ALapis_moss_banner%2Ejpg.html -->
 
 Lapis_moss | 社团LOGO
-
-
-
-
 
 
 ---

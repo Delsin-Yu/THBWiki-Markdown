@@ -1,18 +1,13 @@
 # 文件:幻妖雛logo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3f\ns6%3A%E5%B9%BB%E5%A6%96%E9%9B%9Blogo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3f\ns6%3A%E5%B9%BB%E5%A6%96%E9%9B%9Blogo%2Ejpg.html -->
 
 幻妖雛 | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[Bandcamp page logo](https://f4.bcbits.com/img/0016370259_10.jpg)
-  
-
-
-
-
+源地址：[Bandcamp page logo](https://f4.bcbits.com/img/0016370259_10.jpg)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:Rashōmon封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\18\ns6%3ARash%C5%8Dmon%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\18\ns6%3ARash%C5%8Dmon%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 地狱超甜 | 封面图片
 
@@ -10,11 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Rashōmon](./Rashōmon.md)  
-该封面包含的角色：- [上白泽慧音](./上白泽慧音.md)- [风见幽香](./风见幽香.md)- [比那名居天子](./比那名居天子.md)- [山城高岭](./山城高岭.md)
-
-
-
+- [Rashōmon](./Rashōmon.md)该封面包含的角色：
+- [上白泽慧音](./上白泽慧音.md)
+- [风见幽香](./风见幽香.md)
+- [比那名居天子](./比那名居天子.md)
+- [山城高岭](./山城高岭.md)
 
 
 ---

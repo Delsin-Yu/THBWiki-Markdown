@@ -1,12 +1,8 @@
 # 文件:Public_Planetbanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\87\ns6%3APublic_Planetbanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\87\ns6%3APublic_Planetbanner%2Egif.html -->
 
 Public_Planet | 社团LOGO
-
-
-
-
 
 
 ---

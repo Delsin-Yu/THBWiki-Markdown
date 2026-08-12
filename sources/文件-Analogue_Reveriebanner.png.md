@@ -1,12 +1,8 @@
 # 文件:Analogue_Reveriebanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\21\ns6%3AAnalogue_Reveriebanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\21\ns6%3AAnalogue_Reveriebanner%2Epng.html -->
 
 Analogue_Reverie
-
-
-
-
 
 
 ---

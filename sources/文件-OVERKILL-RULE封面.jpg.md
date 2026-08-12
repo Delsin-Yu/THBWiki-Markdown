@@ -1,6 +1,6 @@
 # 文件:OVERKILL-RULE封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\60\ns6%3AOVERKILL-RULE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\60\ns6%3AOVERKILL-RULE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 HIDDEN_TREASURE | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ HIDDEN_TREASURE | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [OVERKILL-RULE](./OVERKILL-RULE.md)  
-该封面包含的角色：- [伊吹萃香](./伊吹萃香.md)
-
-
-
+- [OVERKILL-RULE](./OVERKILL-RULE.md)该封面包含的角色：
+- [伊吹萃香](./伊吹萃香.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Dreams_from_the_World_of_Spirits封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\af\ns6%3ADreams_from_the_World_of_Spirits%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\af\ns6%3ADreams_from_the_World_of_Spirits%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Akane | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@ Akane | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Dreams from the World of Spirits](./Dreams_from_the_World_of_Spirits.md)  
-该封面包含的角色：- 原创角色 (未找到链接)
+- [Dreams from the World of Spirits](./Dreams_from_the_World_of_Spirits.md)该封面包含的角色：
+- 原创角色 (未找到链接)
 
   
-源地址：[direct image link (10 size)](https://f4.bcbits.com/img/a3496962204_10.jpg), [source page (artist Bandcamp)](https://akanethetengu.bandcamp.com/album/dreams-from-the-world-of-spirits)
-  
-
-
-
-
+源地址：[direct image link (10 size)](https://f4.bcbits.com/img/a3496962204_10.jpg), [source page (artist Bandcamp)](https://akanethetengu.bandcamp.com/album/dreams-from-the-world-of-spirits)  
 
 ---
 

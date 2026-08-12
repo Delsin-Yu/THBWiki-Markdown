@@ -1,12 +1,8 @@
 # 文件:河城荷取（风神录立绘）3no.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e6\ns6%3A%E6%B2%B3%E5%9F%8E%E8%8D%B7%E5%8F%96%EF%BC%88%E9%A3%8E%E7%A5%9E%E5%BD%95%E7%AB%8B%E7%BB%98%EF%BC%893no%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e6\ns6%3A%E6%B2%B3%E5%9F%8E%E8%8D%B7%E5%8F%96%EF%BC%88%E9%A3%8E%E7%A5%9E%E5%BD%95%E7%AB%8B%E7%BB%98%EF%BC%893no%2Epng.html -->
 
 ZUN绘 | 东方风神录 | 官方游戏立绘 | 河城荷取
-
-
-
-
 
 
 ---

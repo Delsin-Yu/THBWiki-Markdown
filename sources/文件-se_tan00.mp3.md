@@ -1,12 +1,8 @@
 # 文件:se_tan00.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\14\ns6%3Ase_tan00%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\14\ns6%3Ase_tan00%2Emp3.html -->
 
 游戏音效
-
-
-
-
 
 
 ---

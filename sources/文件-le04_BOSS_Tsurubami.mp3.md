@@ -1,16 +1,12 @@
 # 文件:le04_BOSS_Tsurubami.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\39\ns6%3Ale04_BOSS_Tsurubami%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\39\ns6%3Ale04_BOSS_Tsurubami%2Emp3.html -->
 
 连缘Project官方音乐MP3
 
   
 l连缘天影战记EX+α面 Boss-阐里鹤喰主题曲
   
-
-
-
-
 
 ---
 

@@ -1,12 +1,8 @@
 # 文件:THD2完美跳跃装置.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e4\ns6%3ATHD2%E5%AE%8C%E7%BE%8E%E8%B7%B3%E8%B7%83%E8%A3%85%E7%BD%AE%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e4\ns6%3ATHD2%E5%AE%8C%E7%BE%8E%E8%B7%B3%E8%B7%83%E8%A3%85%E7%BD%AE%2Epng.html -->
 
 东方DOTS玩家社群
-
-
-
-
 
 
 ---

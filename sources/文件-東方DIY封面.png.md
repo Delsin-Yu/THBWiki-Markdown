@@ -1,6 +1,6 @@
 # 文件:東方DIY封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\25\ns6%3A%E6%9D%B1%E6%96%B9DIY%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\25\ns6%3A%E6%9D%B1%E6%96%B9DIY%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 sampling-p | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ sampling-p | 专辑封面 | 封面图片
   
 
 - [東方DIY](./東方DIY.md)
-
-
-
 
 
 ---

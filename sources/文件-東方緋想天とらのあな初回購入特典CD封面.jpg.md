@@ -1,6 +1,6 @@
 # 文件:東方緋想天とらのあな初回購入特典CD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c9\ns6%3A%E6%9D%B1%E6%96%B9%E7%B7%8B%E6%83%B3%E5%A4%A9%E3%81%A8%E3%82%89%E3%81%AE%E3%81%82%E3%81%AA%E5%88%9D%E5%9B%9E%E8%B3%BC%E5%85%A5%E7%89%B9%E5%85%B8CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c9\ns6%3A%E6%9D%B1%E6%96%B9%E7%B7%8B%E6%83%B3%E5%A4%A9%E3%81%A8%E3%82%89%E3%81%AE%E3%81%82%E3%81%AA%E5%88%9D%E5%9B%9E%E8%B3%BC%E5%85%A5%E7%89%B9%E5%85%B8CD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 ViViX | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ ViViX | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方緋想天とらのあな初回購入特典CD](./東方緋想天とらのあな初回購入特典CD.md)  
-该封面包含的角色：- [比那名居天子](./比那名居天子.md)
-
-
-
+- [東方緋想天とらのあな初回購入特典CD](./東方緋想天とらのあな初回購入特典CD.md)该封面包含的角色：
+- [比那名居天子](./比那名居天子.md)
 
 
 ---

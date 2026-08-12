@@ -1,16 +1,12 @@
 # 模板:MAD_HOUSE
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\a\a0\ns10%3AMAD_HOUSE.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\a\a0\ns10%3AMAD_HOUSE.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

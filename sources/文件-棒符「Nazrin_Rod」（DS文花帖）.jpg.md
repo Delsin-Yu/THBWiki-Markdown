@@ -1,12 +1,8 @@
 # 文件:棒符「Nazrin_Rod」（DS文花帖）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\01\ns6%3A%E6%A3%92%E7%AC%A6%E3%80%8CNazrin_Rod%E3%80%8D%EF%BC%88DS%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\01\ns6%3A%E6%A3%92%E7%AC%A6%E3%80%8CNazrin_Rod%E3%80%8D%EF%BC%88DS%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Ejpg.html -->
 
 东方文花帖DS | 娜兹玲 | 敌机符卡
-
-
-
-
 
 
 ---

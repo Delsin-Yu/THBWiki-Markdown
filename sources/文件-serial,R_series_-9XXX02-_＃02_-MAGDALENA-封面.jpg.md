@@ -1,6 +1,6 @@
 # 文件:serial,R_series_"9XXX02"_＃02_-MAGDALENA-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\36\ns6%3Aserial%2CR_series_%229XXX02%22_%EF%BC%8302_-MAGDALENA-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\36\ns6%3Aserial%2CR_series_%229XXX02%22_%EF%BC%8302_-MAGDALENA-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Attrielectrock | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Attrielectrock | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [serial,R series "9XXX02" ＃02 -MAGDALENA-](./serial,R_series_-9XXX02-_＃02_-MAGDALENA-.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)
-
-
-
+- [serial,R series "9XXX02" ＃02 -MAGDALENA-](./serial,R_series_-9XXX02-_＃02_-MAGDALENA-.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
 
 
 ---

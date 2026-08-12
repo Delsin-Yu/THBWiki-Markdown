@@ -1,6 +1,6 @@
 # 文件:夜の水槽～東方夢景色vol.6封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3c\ns6%3A%E5%A4%9C%E3%81%AE%E6%B0%B4%E6%A7%BD%EF%BD%9E%E6%9D%B1%E6%96%B9%E5%A4%A2%E6%99%AF%E8%89%B2vol%2E6%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3c\ns6%3A%E5%A4%9C%E3%81%AE%E6%B0%B4%E6%A7%BD%EF%BD%9E%E6%9D%B1%E6%96%B9%E5%A4%A2%E6%99%AF%E8%89%B2vol%2E6%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Ridil | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Ridil | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [夜の水槽～東方夢景色vol.6](./夜の水槽～東方夢景色vol.6.md)  
-该封面包含的角色：- [宇佐见堇子](./宇佐见堇子.md)
-
-
-
+- [夜の水槽～東方夢景色vol.6](./夜の水槽～東方夢景色vol.6.md)该封面包含的角色：
+- [宇佐见堇子](./宇佐见堇子.md)
 
 
 ---

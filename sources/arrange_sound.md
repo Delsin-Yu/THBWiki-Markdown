@@ -1,12 +1,11 @@
 # arrange_sound
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\e\eb\ns0%3Aarrange_sound.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\e\eb\ns0%3Aarrange_sound.html -->
 
 2006年1月24日 由 MiddleIsland  发布的单曲同人专辑，曲目主要风格是 其他电子，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人专辑 (未找到链接)** 的词条
-
+**[二次创作同人专辑](./二次创作.md#同人音乐)**的词条
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2">无封面</td>
@@ -15,18 +14,13 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://www.middleisland.net/sound.htm">http://www.middleisland.net/sound.htm</a></td></tr></tbody></table>
 
 arrange sound（同人专辑，MiddleIsland，2006） - 2006年1月24日 由 MiddleIsland  发布的单曲同人专辑，曲目主要风格是 其他电子，分级为 一般向
-
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="人形裁判_～_人の形弄びし少女" colspan="2" class="title">人形裁判 ～ 人の形弄びし少女<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=中島岬&amp;ogmusic=人形裁判　～ 人の形弄びし少女&amp;fromwiki=arrange_sound"><span title="搜索相似同人曲"></span></a></span></td><td class="time">02:26</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E4%B8%AD%E5%B3%B6%E5%B2%AC&amp;action=edit&amp;redlink=1" class="new" title="中島岬（页面不存在）">中島岬</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，中島岬&amp;fromwiki=arrange_sound"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=人形裁判　～ 人の形弄びし少女&amp;fromwiki=arrange_sound"><span></span></a></span><div class="ogmusic"><a href="./人形裁判_～_人の形弄びし少女.md" class="mw-redirect" title="人形裁判 ～ 人の形弄びし少女">人形裁判　～ 人の形弄びし少女</a></div><div class="source"><a href="./东方妖妖梦_～_Perfect_Cherry_Blossom..md" class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr><tr><td class="left"></td><td class="label">首发日期</td><td class="text" colspan="2">2006-01-24</td></tr>
-<tr><td id="2" class="infoYD"><b>02</b></td><td id="夜雀の歌声" colspan="2" class="title">夜雀の歌声<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=中島岬&amp;ogmusic=夜雀の歌声　～ Night Bird&amp;fromwiki=arrange_sound"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:00</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E4%B8%AD%E5%B3%B6%E5%B2%AC&amp;action=edit&amp;redlink=1" class="new" title="中島岬（页面不存在）">中島岬</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，中島岬&amp;fromwiki=arrange_sound"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=夜雀の歌声　～ Night Bird&amp;fromwiki=arrange_sound"><span></span></a></span><div class="ogmusic"><a href="./夜雀の歌声_～_Night_Bird.md" class="mw-redirect" title="夜雀の歌声 ～ Night Bird">夜雀の歌声　～ Night Bird</a></div><div class="source"><a href="./东方永夜抄_～_Imperishable_Night..md" class="mw-redirect" title="东方永夜抄 ～ Imperishable Night.">东方永夜抄　～ Imperishable Night.</a></div></td></tr><tr><td class="left"></td><td class="label">首发日期</td><td class="text" colspan="2">2006-03-27</td></tr></tbody></table>
-
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="人形裁判_～_人の形弄びし少女" colspan="2" class="title">人形裁判 ～ 人の形弄びし少女</td><td class="time">02:26</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="中島岬（页面不存在）">中島岬</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./人偶裁判_～_玩弄人形的少女.md" class="mw-redirect" title="人形裁判 ～ 人の形弄びし少女">人形裁判　～ 人の形弄びし少女</a></div><div class="source"><a href="./东方妖妖梦.md" class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr><tr><td class="left"></td><td class="label">首发日期</td><td class="text" colspan="2">2006-01-24</td></tr>
+<tr><td id="2" class="infoYD"><b>02</b></td><td id="夜雀の歌声" colspan="2" class="title">夜雀の歌声</td><td class="time">03:00</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="中島岬（页面不存在）">中島岬</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./夜雀的歌声_～_Night_Bird.md" class="mw-redirect" title="夜雀の歌声 ～ Night Bird">夜雀の歌声　～ Night Bird</a></div><div class="source"><a href="./东方永夜抄.md" class="mw-redirect" title="东方永夜抄 ～ Imperishable Night.">东方永夜抄　～ Imperishable Night.</a></div></td></tr><tr><td class="left"></td><td class="label">首发日期</td><td class="text" colspan="2">2006-03-27</td></tr></tbody></table>
 
 
 ## 评论
-
-
-
 
 ---
 

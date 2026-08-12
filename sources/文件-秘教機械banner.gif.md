@@ -1,14 +1,11 @@
 # 文件:秘教機械banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7c\ns6%3A%E7%A7%98%E6%95%99%E6%A9%9F%E6%A2%B0banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7c\ns6%3A%E7%A7%98%E6%95%99%E6%A9%9F%E6%A2%B0banner%2Egif.html -->
 
 社团LOGO | 秘教機械
 
 
 ## 摘要
-
-
-
 
 ---
 

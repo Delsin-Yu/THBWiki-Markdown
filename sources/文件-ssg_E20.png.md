@@ -1,16 +1,12 @@
 # 文件:ssg_E20.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\de\ns6%3Assg_E20%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\de\ns6%3Assg_E20%2Epng.html -->
 
 秋霜玉
 
   
 秋霜玉敌机20像素图。
   
-
-
-
-
 
 ---
 

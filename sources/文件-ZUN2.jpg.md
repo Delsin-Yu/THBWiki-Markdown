@@ -1,12 +1,8 @@
 # 文件:ZUN2.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\08\ns6%3AZUN2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\08\ns6%3AZUN2%2Ejpg.html -->
 
 ZUN
-
-
-
-
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:MineCraft幻想乡.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f1\ns6%3AMineCraft%E5%B9%BB%E6%83%B3%E4%B9%A1%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f1\ns6%3AMineCraft%E5%B9%BB%E6%83%B3%E4%B9%A1%2Epng.html -->
 
 MineCraft幻想乡
-
-
-
-
 
 
 ---

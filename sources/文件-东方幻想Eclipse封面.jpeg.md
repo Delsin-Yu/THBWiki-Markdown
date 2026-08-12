@@ -1,6 +1,6 @@
 # 文件:东方幻想Eclipse封面.jpeg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\18\ns6%3A%E4%B8%9C%E6%96%B9%E5%B9%BB%E6%83%B3Eclipse%E5%B0%81%E9%9D%A2%2Ejpeg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\18\ns6%3A%E4%B8%9C%E6%96%B9%E5%B9%BB%E6%83%B3Eclipse%E5%B0%81%E9%9D%A2%2Ejpeg.html -->
 
 CAVE | 东方幻想Eclipse | 封面图片 | 授权商业二次创作手机游戏 | 软件封面
 
@@ -10,11 +10,8 @@ CAVE | 东方幻想Eclipse | 封面图片 | 授权商业二次创作手机游戏
 使用了本文件作封面图片的作品：
   
 
-- [东方幻想Eclipse](./东方幻想Eclipse.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [东方幻想Eclipse](./东方幻想Eclipse.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

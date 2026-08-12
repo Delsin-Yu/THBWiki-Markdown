@@ -1,16 +1,12 @@
 # 模板:SFM
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\9\99\ns10%3ASFM.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\9\99\ns10%3ASFM.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

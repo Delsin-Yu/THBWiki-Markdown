@@ -1,12 +1,8 @@
 # 文件:深门「Bermuda_Gate」.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0b\ns6%3A%E6%B7%B1%E9%97%A8%E3%80%8CBermuda_Gate%E3%80%8D%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0b\ns6%3A%E6%B7%B1%E9%97%A8%E3%80%8CBermuda_Gate%E3%80%8D%2Ejpg.html -->
 
 東方邪星章製作チーム
-
-
-
-
 
 
 ---

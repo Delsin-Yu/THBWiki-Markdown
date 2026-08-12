@@ -1,6 +1,6 @@
 # 文件:さちゃ自己紹介CD～祭月～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\37\ns6%3A%E3%81%95%E3%81%A1%E3%82%83%E8%87%AA%E5%B7%B1%E7%B4%B9%E4%BB%8BCD%EF%BD%9E%E7%A5%AD%E6%9C%88%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\37\ns6%3A%E3%81%95%E3%81%A1%E3%82%83%E8%87%AA%E5%B7%B1%E7%B4%B9%E4%BB%8BCD%EF%BD%9E%E7%A5%AD%E6%9C%88%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 幸屋～さちゃ！～
 
@@ -8,12 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [さちゃ自己紹介CD～祭月～](./さちゃ自己紹介CD～祭月～.md)  
-该封面包含的角色：- [伊吹萃香](./伊吹萃香.md)源地址：[[1]](http://id49.fm-p.jp/data/441/sachasacha/pub/1.jpg)
-
-
-
-
+- [さちゃ自己紹介CD～祭月～](./さちゃ自己紹介CD～祭月～.md)该封面包含的角色：
+- [伊吹萃香](./伊吹萃香.md)
+源地址：[\[1\]](http://id49.fm-p.jp/data/441/sachasacha/pub/1.jpg)
 
 ---
 

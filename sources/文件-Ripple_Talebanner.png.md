@@ -1,16 +1,11 @@
 # 文件:Ripple_Talebanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\78\ns6%3ARipple_Talebanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\78\ns6%3ARipple_Talebanner%2Epng.html -->
 
 Ripple_Tale | 社团LOGO
 
   
-源地址：[[1]](https://web.archive.org/web/20060125165403im_/http://rippletale.neko-punch.net/images/rtbana.png)
-  
-
-
-
-
+源地址：[\[1\]](https://web.archive.org/web/20060125165403im_/http://rippletale.neko-punch.net/images/rtbana.png)  
 
 ---
 

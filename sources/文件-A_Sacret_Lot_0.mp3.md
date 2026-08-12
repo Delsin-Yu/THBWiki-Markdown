@@ -1,12 +1,8 @@
 # 文件:A_Sacret_Lot_0.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cd\ns6%3AA_Sacret_Lot_0%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cd\ns6%3AA_Sacret_Lot_0%2Emp3.html -->
 
 A_Sacred_Lot | 东方灵异传 | 原曲MP3
-
-
-
-
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:SCoOW02_03.mp3
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\16\ns6%3ASCoOW02_03%2Emp3.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\16\ns6%3ASCoOW02_03%2Emp3.html -->
 
 Last_Occultism_～_现世的秘术师 | 东方外来韦编 | 原曲MP3
-
-
-
-
 
 
 ---

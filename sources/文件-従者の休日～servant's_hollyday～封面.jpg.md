@@ -1,6 +1,6 @@
 # 文件:従者の休日～servant's_hollyday～封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\37\ns6%3A%E5%BE%93%E8%80%85%E3%81%AE%E4%BC%91%E6%97%A5%EF%BD%9Eservant%27s_hollyday%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\37\ns6%3A%E5%BE%93%E8%80%85%E3%81%AE%E4%BC%91%E6%97%A5%EF%BD%9Eservant%27s_hollyday%EF%BD%9E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 幻楽工房
 
@@ -8,11 +8,14 @@
 使用了本文件作封面图片的作品：
   
 
-- [従者の休日～servant's hollyday～](./従者の休日～servant's_hollyday～.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)- [魂魄妖梦](./魂魄妖梦.md)- [因幡帝](./因幡帝.md)- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)- [东风谷早苗](./东风谷早苗.md)- [火焰猫燐](./火焰猫燐.md)- [寅丸星](./寅丸星.md)
-
-
-
+- [従者の休日～servant's hollyday～](./従者の休日～servant's_hollyday～.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
+- [魂魄妖梦](./魂魄妖梦.md)
+- [因幡帝](./因幡帝.md)
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
+- [东风谷早苗](./东风谷早苗.md)
+- [火焰猫燐](./火焰猫燐.md)
+- [寅丸星](./寅丸星.md)
 
 
 ---

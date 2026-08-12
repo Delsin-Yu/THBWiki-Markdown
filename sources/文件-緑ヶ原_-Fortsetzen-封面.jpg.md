@@ -1,6 +1,6 @@
 # 文件:緑ヶ原_-Fortsetzen-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e0\ns6%3A%E7%B7%91%E3%83%B6%E5%8E%9F_-Fortsetzen-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e0\ns6%3A%E7%B7%91%E3%83%B6%E5%8E%9F_-Fortsetzen-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 有給休暇
 
@@ -11,9 +11,6 @@
   
 
 - [緑ヶ原 -Fortsetzen-](./緑ヶ原_-Fortsetzen-.md)
-
-
-
 
 
 ---

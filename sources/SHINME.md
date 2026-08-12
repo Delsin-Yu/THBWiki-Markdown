@@ -1,26 +1,24 @@
 # SHINME
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\28\ns0%3ASHINME.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\28\ns0%3ASHINME.html -->
 
 2020年10月11日 由 ネジロメイション! 于 东方红楼梦16 发布的漫画同人志，A5尺寸一共22页，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人志 (未找到链接)** 的词条
-
+**[二次创作同人志](./二次创作.md#同人志)**的词条
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-SHINME封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/4/41/SHINME%E5%B0%81%E9%9D%A2.jpg/134px-SHINME%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="134" height="196" srcset="https://upload.thwiki.cc/thumb/4/41/SHINME%E5%B0%81%E9%9D%A2.jpg/202px-SHINME%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/4/41/SHINME%E5%B0%81%E9%9D%A2.jpg/269px-SHINME%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="790" data-file-height="1150"></a><div class="cover-char">角色：<a href="./橙.md" title="橙">橙</a></div></td>
 </tr><tr><td class="label">名称</td><td colspan="2"> SHINME </td></tr><tr><td class="label">译名</td><td colspan="2"> 新芽 </td></tr><tr><td class="label">制作方</td><td><a href="./ネジロメイション!.md" title="ネジロメイション!">ネジロメイション!</a></td><td class="cover-artwork" rowspan="7" style="min-width:196px;"><a href="./文件-SHINME封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/4/41/SHINME%E5%B0%81%E9%9D%A2.jpg/134px-SHINME%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="134" height="196" srcset="https://upload.thwiki.cc/thumb/4/41/SHINME%E5%B0%81%E9%9D%A2.jpg/202px-SHINME%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/4/41/SHINME%E5%B0%81%E9%9D%A2.jpg/269px-SHINME%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="790" data-file-height="1150"></a><div class="cover-char">角色：<a href="./橙.md" title="橙">橙</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2020-10-11&#160;（<a href="/展会作品列表?e=%E4%B8%9C%E6%96%B9%E7%BA%A2%E6%A5%BC%E6%A2%A6%2316">東方紅楼夢16</a>）</td></tr><tr><td class="label">类型</td><td>漫画</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>A5</td></tr><tr><td class="label">页数</td><td>22P</td></tr><tr><td class="label">售价</td><td>会场售价：500日元<br>通贩售价：571日元</td></tr>
+</tr><tr><td class="label">首发日期</td><td>2020-10-11 （<a href="./展会作品列表.md#16">東方紅楼夢16</a>）</td></tr><tr><td class="label">类型</td><td>漫画</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>A5</td></tr><tr><td class="label">页数</td><td>22P</td></tr><tr><td class="label">售价</td><td>会场售价：500日元<br>通贩售价：571日元</td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/84790937">https://www.pixiv.net/artworks/84790937</a><br><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/84828603">https://www.pixiv.net/artworks/84828603</a><br><a rel="nofollow" class="external free" href="https://twitter.com/nejirome/status/1311632020695445505">https://twitter.com/nejirome/status/1311632020695445505</a><br><a rel="nofollow" class="external free" href="https://twitter.com/nejirome/status/1313112939650449408">https://twitter.com/nejirome/status/1313112939650449408</a></td></tr></tbody></table>
 
 SHINME（同人志，ネジロメイション!，2020） - 2020年10月11日 由 ネジロメイション! 于 东方红楼梦16 发布的漫画同人志，A5尺寸一共22页，分级为 一般向
-
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=738508">蜜瓜</a></td></tr></tbody></table>
 
 
-
 ## Staff
+
 - ネジロメ (未找到链接)
 
 
@@ -30,25 +28,14 @@ Twitter:
   
 
 ```
-橙と植物をテーマにした絵本みたいなお話が６つくらい入ってます。
-```
+橙と植物をテーマにした絵本みたいなお話が６つくらい入ってます。 ```
 
   
 蜜瓜：
   
 
 ```
-植物と橙をテーマにした絵本のようなお話が6つくらい入ってるフルカラー本です。
-日常の中で何気なく目にする植物に目を向けて色々考えてみると楽しいかも? 
-```
-
-  
-  
-
-  
-
-
-
+植物と橙をテーマにした絵本のようなお話が6つくらい入ってるフルカラー本です。 日常の中で何気なく目にする植物に目を向けて色々考えてみると楽しいかも? ```
 
 
 ---

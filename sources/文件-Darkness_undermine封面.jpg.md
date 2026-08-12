@@ -1,6 +1,6 @@
 # 文件:Darkness_undermine封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5b\ns6%3ADarkness_undermine%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\5b\ns6%3ADarkness_undermine%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 FirstEye | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@ FirstEye | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Darkness undermine](./Darkness_undermine.md)  
-该封面包含的角色：- [露米娅](./露米娅.md)
+- [Darkness undermine](./Darkness_undermine.md)该封面包含的角色：
+- [露米娅](./露米娅.md)
 
   
-[Pixiv Artwrk ID: 40590643](https://www.pixiv.net/artworks/40590643)
-  
-
-
-
-
+[Pixiv Artwrk ID: 40590643](https://www.pixiv.net/artworks/40590643)  
 
 ---
 

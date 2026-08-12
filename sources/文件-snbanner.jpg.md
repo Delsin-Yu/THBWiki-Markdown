@@ -1,12 +1,8 @@
 # 文件:snbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ed\ns6%3Asnbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ed\ns6%3Asnbanner%2Ejpg.html -->
 
 sn | 社团LOGO
-
-
-
-
 
 
 ---

@@ -1,16 +1,11 @@
 # 文件:Souwer_cherrybanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a6\ns6%3ASouwer_cherrybanner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a6\ns6%3ASouwer_cherrybanner%2Egif.html -->
 
 Souwer_cherry | 社团LOGO
 
   
-源地址：[[1]](http://www.souwer.net/banner_200.gif)
-  
-
-
-
-
+源地址：[\[1\]](http://www.souwer.net/banner_200.gif)  
 
 ---
 

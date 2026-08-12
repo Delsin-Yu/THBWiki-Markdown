@@ -1,12 +1,8 @@
 # 文件:被瞬杀之道？banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8f\ns6%3A%E8%A2%AB%E7%9E%AC%E6%9D%80%E4%B9%8B%E9%81%93%EF%BC%9Fbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8f\ns6%3A%E8%A2%AB%E7%9E%AC%E6%9D%80%E4%B9%8B%E9%81%93%EF%BC%9Fbanner%2Epng.html -->
 
 社团LOGO | 被瞬杀之道？
-
-
-
-
 
 
 ---

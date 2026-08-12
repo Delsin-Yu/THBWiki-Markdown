@@ -1,12 +1,8 @@
 # 文件:華桜banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\24\ns6%3A%E8%8F%AF%E6%A1%9Cbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\24\ns6%3A%E8%8F%AF%E6%A1%9Cbanner%2Epng.html -->
 
 社团LOGO | 華桜
-
-
-
-
 
 
 ---

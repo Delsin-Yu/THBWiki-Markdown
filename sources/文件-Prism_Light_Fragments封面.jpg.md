@@ -1,6 +1,6 @@
 # 文件:Prism_Light_Fragments封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9c\ns6%3APrism_Light_Fragments%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9c\ns6%3APrism_Light_Fragments%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Colorful_Cube | 专辑封面 | 封面图片
 
@@ -8,11 +8,11 @@ Colorful_Cube | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Prism Light Fragments](./Prism_Light_Fragments.md)  
-该封面包含的角色：- [露娜萨·普莉兹姆利巴](./露娜萨·普莉兹姆利巴.md)- [梅露兰·普莉兹姆利巴](./梅露兰·普莉兹姆利巴.md)- [莉莉卡·普莉兹姆利巴](./莉莉卡·普莉兹姆利巴.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [Prism Light Fragments](./Prism_Light_Fragments.md)该封面包含的角色：
+- [露娜萨·普莉兹姆利巴](./露娜萨·普莉兹姆利巴.md)
+- [梅露兰·普莉兹姆利巴](./梅露兰·普莉兹姆利巴.md)
+- [莉莉卡·普莉兹姆利巴](./莉莉卡·普莉兹姆利巴.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

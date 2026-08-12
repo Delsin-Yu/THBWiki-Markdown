@@ -1,6 +1,6 @@
 # 文件:Ploof_of_the_Star封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fb\ns6%3APloof_of_the_Star%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fb\ns6%3APloof_of_the_Star%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 カラスのおうち | 同人志封面 | 封面图片 | 愛欲MOCK
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Ploof of the Star](./Ploof_of_the_Star.md)  
-该封面包含的角色：- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [Ploof of the Star](./Ploof_of_the_Star.md)该封面包含的角色：
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

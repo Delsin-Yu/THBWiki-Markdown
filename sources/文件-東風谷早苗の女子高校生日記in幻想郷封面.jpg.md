@@ -1,6 +1,6 @@
 # 文件:東風谷早苗の女子高校生日記in幻想郷封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\be\ns6%3A%E6%9D%B1%E9%A2%A8%E8%B0%B7%E6%97%A9%E8%8B%97%E3%81%AE%E5%A5%B3%E5%AD%90%E9%AB%98%E6%A0%A1%E7%94%9F%E6%97%A5%E8%A8%98in%E5%B9%BB%E6%83%B3%E9%83%B7%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\be\ns6%3A%E6%9D%B1%E9%A2%A8%E8%B0%B7%E6%97%A9%E8%8B%97%E3%81%AE%E5%A5%B3%E5%AD%90%E9%AB%98%E6%A0%A1%E7%94%9F%E6%97%A5%E8%A8%98in%E5%B9%BB%E6%83%B3%E9%83%B7%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 sonoteido | 同人志封面 | 封面图片
 
@@ -10,11 +10,10 @@ sonoteido | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東風谷早苗の女子高校生日記in幻想郷](./東風谷早苗の女子高校生日記in幻想郷.md)  
-该封面包含的角色：- [东风谷早苗](./东风谷早苗.md)- [八坂神奈子](./八坂神奈子.md)- [洩矢诹访子](./洩矢诹访子.md)
-
-
-
+- [東風谷早苗の女子高校生日記in幻想郷](./東風谷早苗の女子高校生日記in幻想郷.md)该封面包含的角色：
+- [东风谷早苗](./东风谷早苗.md)
+- [八坂神奈子](./八坂神奈子.md)
+- [洩矢诹访子](./洩矢诹访子.md)
 
 
 ---

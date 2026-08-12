@@ -1,12 +1,8 @@
 # 文件:Melodic_Taste_banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ab\ns6%3AMelodic_Taste_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ab\ns6%3AMelodic_Taste_banner%2Ejpg.html -->
 
 Melodic_Taste | 社团LOGO
-
-
-
-
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Zwei（同人专辑）封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dd\ns6%3AZwei%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\dd\ns6%3AZwei%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 おるたねーと | 专辑封面 | 封面图片
 
@@ -10,16 +10,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [Zwei（同人专辑）](./Zwei（同人专辑）.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [雾雨魔理沙](./雾雨魔理沙.md)
+- [Zwei（同人专辑）](./Zwei（同人专辑）.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
   
-源地址：[direct image link (original size)](https://blog-imgs-19-origin.fc2.com/o/r/u/orutaneito/20090810203640de0.png), [source page](http://orutaneito.blog56.fc2.com/blog-entry-8.html)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://blog-imgs-19-origin.fc2.com/o/r/u/orutaneito/20090810203640de0.png), [source page](http://orutaneito.blog56.fc2.com/blog-entry-8.html)  
 
 ---
 

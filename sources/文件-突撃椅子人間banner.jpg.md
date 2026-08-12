@@ -1,14 +1,11 @@
 # 文件:突撃椅子人間banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\12\ns6%3A%E7%AA%81%E6%92%83%E6%A4%85%E5%AD%90%E4%BA%BA%E9%96%93banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\12\ns6%3A%E7%AA%81%E6%92%83%E6%A4%85%E5%AD%90%E4%BA%BA%E9%96%93banner%2Ejpg.html -->
 
 社团LOGO | 突撃椅子人間
 
 
 ## 摘要
-
-
-
 
 ---
 

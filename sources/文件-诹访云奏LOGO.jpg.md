@@ -1,16 +1,12 @@
 # 文件:诹访云奏LOGO.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\38\ns6%3A%E8%AF%B9%E8%AE%BF%E4%BA%91%E5%A5%8FLOGO%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\38\ns6%3A%E8%AF%B9%E8%AE%BF%E4%BA%91%E5%A5%8FLOGO%2Ejpg.html -->
 
 社团LOGO | 诹访云奏
 
   
 封面
   
-
-
-
-
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:Zero_Gravity封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\be\ns6%3AZero_Gravity%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\be\ns6%3AZero_Gravity%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 KAZAMIroute | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ KAZAMIroute | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Zero Gravity](./Zero_Gravity.md)  
-该封面包含的角色：- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [Zero Gravity](./Zero_Gravity.md)该封面包含的角色：
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

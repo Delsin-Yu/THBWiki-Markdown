@@ -1,16 +1,12 @@
 # 文件:THD2替身地藏.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b5\ns6%3ATHD2%E6%9B%BF%E8%BA%AB%E5%9C%B0%E8%97%8F%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b5\ns6%3ATHD2%E6%9B%BF%E8%BA%AB%E5%9C%B0%E8%97%8F%2Epng.html -->
 
 AvalonStudioOfficial | THD2
 
   
 THD2替身地藏
   
-
-
-
-
 
 ---
 

@@ -1,13 +1,11 @@
 # 束方嘘时空～Fools_rush_in
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\6d\ns0%3A%E6%9D%9F%E6%96%B9%E5%98%98%E6%97%B6%E7%A9%BA%EF%BD%9EFools_rush_in.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\6d\ns0%3A%E6%9D%9F%E6%96%B9%E5%98%98%E6%97%B6%E7%A9%BA%EF%BD%9EFools_rush_in.html -->
 
 2017年6月18日 由 トリック・ノスタルジー  发布的STG同人游戏，可在 Windows 系统上运行，游戏人数为 单人模式，双人模式，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人软件 (未找到链接)** 的词条
-<center>
-
+**[二次创作同人软件](./二次创作.md#同人软件)**的词条<center>
 <table>
 <tbody><tr>
 <td class="mbox-image"><div style="width: 52px;">
@@ -16,14 +14,7 @@
 </tr>
 </tbody></table>
 
-
 </center>
-  
-  
-
-  
-
-
 ## 目录
 
 - [1 软件信息](#软件信息)
@@ -31,9 +22,6 @@
 - [3 内容页面](#内容页面)
 - [4 评论](#评论)
 - [5 外部链接](#外部链接)
-
-
-
 
 
 ## 软件信息
@@ -44,12 +32,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.freem.ne.jp/win/game/15082">https://www.freem.ne.jp/win/game/15082</a></td></tr></tbody></table>
 
 束方嘘时空～Fools rush in（同人游戏，トリック・ノスタルジー，2017） - 2017年6月18日 由 トリック・ノスタルジー  发布的STG同人游戏，可在 Windows 系统上运行，游戏人数为 单人模式，双人模式，分级为 一般向
-
 <table>
 <tbody><tr><th colspan="2">配置需求</th></tr>
 <tr><td style="width:120px;padding-left:7px;"><b>操作系统</b></td><td>Win 7 64bit</td></tr><tr><td style="width:120px;padding-left:7px;"><b>其他</b></td><td>DirectX</td></tr>
 </tbody></table>
-
 
 
 ## Staff
@@ -57,8 +43,8 @@
 所有工作由[JynX](./JynX.md)一人完成。
   
 
-
 ## 内容页面
+
 - 角色设定 (未找到链接)
 
 
@@ -69,19 +55,9 @@
 是类似于[东方梦时空](./东方梦时空.md)的对战STG
   
 
-
 ## 外部链接
   
-[官方免费下载地址](https://www.freem.ne.jp/win/game/15082)
-  
-  
-  
-
-  
-
-
-
-
+[官方免费下载地址](https://www.freem.ne.jp/win/game/15082)  
 
 ---
 

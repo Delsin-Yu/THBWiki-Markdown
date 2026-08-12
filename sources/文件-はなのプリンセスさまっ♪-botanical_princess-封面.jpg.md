@@ -1,6 +1,6 @@
 # 文件:はなのプリンセスさまっ♪-botanical_princess-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\87\ns6%3A%E3%81%AF%E3%81%AA%E3%81%AE%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BB%E3%82%B9%E3%81%95%E3%81%BE%E3%81%A3%E2%99%AA-botanical_princess-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\87\ns6%3A%E3%81%AF%E3%81%AA%E3%81%AE%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BB%E3%82%B9%E3%81%95%E3%81%BE%E3%81%A3%E2%99%AA-botanical_princess-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 遊星
 
@@ -10,16 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [はなのプリンセスさまっ♪-botanical princess-](./はなのプリンセスさまっ♪-botanical_princess-.md)  
-该封面包含的角色：- [风见幽香](./风见幽香.md)
+- [はなのプリンセスさまっ♪-botanical princess-](./はなのプリンセスさまっ♪-botanical_princess-.md)该封面包含的角色：
+- [风见幽香](./风见幽香.md)
 
   
-[Pixiv artwork ID: 47698632 (original size)](https://www.pixiv.net/artworks/47698632)
-  
-
-
-
-
+[Pixiv artwork ID: 47698632 (original size)](https://www.pixiv.net/artworks/47698632)  
 
 ---
 

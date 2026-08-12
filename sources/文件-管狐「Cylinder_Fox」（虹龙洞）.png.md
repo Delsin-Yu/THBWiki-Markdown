@@ -1,14 +1,11 @@
 # 文件:管狐「Cylinder_Fox」（虹龙洞）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cc\ns6%3A%E7%AE%A1%E7%8B%90%E3%80%8CCylinder_Fox%E3%80%8D%EF%BC%88%E8%99%B9%E9%BE%99%E6%B4%9E%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cc\ns6%3A%E7%AE%A1%E7%8B%90%E3%80%8CCylinder_Fox%E3%80%8D%EF%BC%88%E8%99%B9%E9%BE%99%E6%B4%9E%EF%BC%89%2Epng.html -->
 
 东方虹龙洞 | 敌机符卡 | 菅牧典
 
 
 ## 文件说明
-
-
-
 
 ---
 

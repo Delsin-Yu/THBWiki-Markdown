@@ -1,6 +1,6 @@
 # 文件:Moonlight_History封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1e\ns6%3AMoonlight_History%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1e\ns6%3AMoonlight_History%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 いぬみぎさうんど | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Moonlight History](./Moonlight_History.md)  
-该封面包含的角色：- [上白泽慧音](./上白泽慧音.md)
-
-
-
+- [Moonlight History](./Moonlight_History.md)该封面包含的角色：
+- [上白泽慧音](./上白泽慧音.md)
 
 
 ---

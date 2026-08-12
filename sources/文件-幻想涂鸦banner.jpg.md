@@ -1,12 +1,8 @@
 # 文件:幻想涂鸦banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\92\ns6%3A%E5%B9%BB%E6%83%B3%E6%B6%82%E9%B8%A6banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\92\ns6%3A%E5%B9%BB%E6%83%B3%E6%B6%82%E9%B8%A6banner%2Ejpg.html -->
 
 幻想涂鸦 | 社团LOGO
-
-
-
-
 
 
 ---

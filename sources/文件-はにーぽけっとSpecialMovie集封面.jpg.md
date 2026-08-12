@@ -1,6 +1,6 @@
 # 文件:はにーぽけっとSpecialMovie集封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\95\ns6%3A%E3%81%AF%E3%81%AB%E3%83%BC%E3%81%BD%E3%81%91%E3%81%A3%E3%81%A8SpecialMovie%E9%9B%86%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\95\ns6%3A%E3%81%AF%E3%81%AB%E3%83%BC%E3%81%BD%E3%81%91%E3%81%A3%E3%81%A8SpecialMovie%E9%9B%86%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 はにーぽけっと | 封面图片 | 视频封面
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [はにーぽけっとSpecialMovie集](./はにーぽけっとSpecialMovie集.md)  
-该封面包含的角色：- [霍青娥](./霍青娥.md)
-
-
-
+- [はにーぽけっとSpecialMovie集](./はにーぽけっとSpecialMovie集.md)该封面包含的角色：
+- [霍青娥](./霍青娥.md)
 
 
 ---

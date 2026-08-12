@@ -1,27 +1,24 @@
 # HARDCORE_KOISHICHANG_Pt.2
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\7\7f\ns0%3AHARDCORE_KOISHICHANG_Pt%2E2.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\7\7f\ns0%3AHARDCORE_KOISHICHANG_Pt%2E2.html -->
 
 2019年5月5日 由 絶望と狂騒のディストピア 于 博丽神社例大祭16 发布的EP同人专辑，曲目主要风格是 硬核，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人专辑 (未找到链接)** 的词条
-
+**[二次创作同人专辑](./二次创作.md#同人音乐)**的词条
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-HARDCORE_KOISHICHANG_Pt.2封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/f/fe/HARDCORE_KOISHICHANG_Pt.2%E5%B0%81%E9%9D%A2.png/224px-HARDCORE_KOISHICHANG_Pt.2%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="224" height="224" srcset="https://upload.thwiki.cc/thumb/f/fe/HARDCORE_KOISHICHANG_Pt.2%E5%B0%81%E9%9D%A2.png/336px-HARDCORE_KOISHICHANG_Pt.2%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/f/fe/HARDCORE_KOISHICHANG_Pt.2%E5%B0%81%E9%9D%A2.png/448px-HARDCORE_KOISHICHANG_Pt.2%E5%B0%81%E9%9D%A2.png 2x" data-file-width="800" data-file-height="800"></a><div class="cover-char">角色：<a href="./古明地恋.md" title="古明地恋">古明地恋</a></div></td>
 </tr><tr><td class="label">名称</td><td colspan="2"> HARDCORE KOISHICHANG Pt.2 </td></tr><tr><td class="label">制作方</td><td><a href="./絶望と狂騒のディストピア.md" title="絶望と狂騒のディストピア">絶望と狂騒のディストピア</a></td><td class="cover-artwork" rowspan="8" style="min-width:224px;"><a href="./文件-HARDCORE_KOISHICHANG_Pt.2封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/f/fe/HARDCORE_KOISHICHANG_Pt.2%E5%B0%81%E9%9D%A2.png/224px-HARDCORE_KOISHICHANG_Pt.2%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="224" height="224" srcset="https://upload.thwiki.cc/thumb/f/fe/HARDCORE_KOISHICHANG_Pt.2%E5%B0%81%E9%9D%A2.png/336px-HARDCORE_KOISHICHANG_Pt.2%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/f/fe/HARDCORE_KOISHICHANG_Pt.2%E5%B0%81%E9%9D%A2.png/448px-HARDCORE_KOISHICHANG_Pt.2%E5%B0%81%E9%9D%A2.png 2x" data-file-width="800" data-file-height="800"></a><div class="cover-char">角色：<a href="./古明地恋.md" title="古明地恋">古明地恋</a></div></td>
-</tr><tr><td class="label">首发日期</td><td>2019-05-05&#160;（<a href="/展会作品列表?e=%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD%2316">第十六回 博麗神社例大祭</a>）</td></tr><tr><td class="label">类型</td><td>EP</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>3</td></tr><tr><td class="label">总时长</td><td>00:00</td></tr><tr><td class="label">风格类型</td><td>硬核</td></tr>
+</tr><tr><td class="label">首发日期</td><td>2019-05-05 （<a href="./展会作品列表.md#16">第十六回 博麗神社例大祭</a>）</td></tr><tr><td class="label">类型</td><td>EP</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>3</td></tr><tr><td class="label">总时长</td><td>00:00</td></tr><tr><td class="label">风格类型</td><td>硬核</td></tr>
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/Nevra_NoEntry/status/1120631363491614721">https://twitter.com/Nevra_NoEntry/status/1120631363491614721</a></td></tr></tbody></table>
 
 HARDCORE KOISHICHANG Pt.2（同人专辑，絶望と狂騒のディストピア，2019） - 2019年5月5日 由 絶望と狂騒のディストピア 于 博丽神社例大祭16 发布的EP同人专辑，曲目主要风格是 硬核，分级为 一般向
-
 ## Staff
   
- **Arrangement**   
+**Arrangement**  
 
-<table><tbody><tr><td><a href="/index.php?title=%E5%85%AB%E5%B6%8B&amp;action=edit&amp;redlink=1" class="new" title="八嶋（页面不存在）">八嶋</a></td><td></td><td>Tr.1-3</td></tr></tbody></table>
-
+<table><tbody><tr><td><a class="new" title="八嶋（页面不存在）">八嶋</a></td><td></td><td>Tr.1-3</td></tr></tbody></table>
 
 
 ## 试听
@@ -29,19 +26,14 @@ HARDCORE KOISHICHANG Pt.2（同人专辑，絶望と狂騒のディストピア�
 暂不支援此类型
   
 
-
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Blind_Rage" colspan="2" class="title">Blind Rage<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=八嶋&amp;ogmusic=ハルトマンの妖怪少女&amp;fromwiki=HARDCORE_KOISHICHANG_Pt.2"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E5%85%AB%E5%B6%8B&amp;action=edit&amp;redlink=1" class="new" title="八嶋（页面不存在）">八嶋</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，八嶋&amp;fromwiki=HARDCORE_KOISHICHANG_Pt.2"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=ハルトマンの妖怪少女&amp;fromwiki=HARDCORE_KOISHICHANG_Pt.2"><span></span></a></span><div class="ogmusic"><a href="./ハルトマンの妖怪少女.md" class="mw-redirect" title="ハルトマンの妖怪少女">ハルトマンの妖怪少女</a></div><div class="source"><a href="./东方地灵殿_～_Subterranean_Animism..md" class="mw-redirect" title="东方地灵殿 ～ Subterranean Animism.">东方地灵殿　～ Subterranean Animism.</a></div></td></tr>
-<tr><td id="2" class="infoYD"><b>02</b></td><td id="Vile_Acceleration" colspan="2" class="title">Vile Acceleration<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=八嶋&amp;ogmusic=ハルトマンの妖怪少女&amp;fromwiki=HARDCORE_KOISHICHANG_Pt.2"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E5%85%AB%E5%B6%8B&amp;action=edit&amp;redlink=1" class="new" title="八嶋（页面不存在）">八嶋</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，八嶋&amp;fromwiki=HARDCORE_KOISHICHANG_Pt.2"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=ハルトマンの妖怪少女&amp;fromwiki=HARDCORE_KOISHICHANG_Pt.2"><span></span></a></span><div class="ogmusic"><a href="./ハルトマンの妖怪少女.md" class="mw-redirect" title="ハルトマンの妖怪少女">ハルトマンの妖怪少女</a></div><div class="source"><a href="./东方地灵殿_～_Subterranean_Animism..md" class="mw-redirect" title="东方地灵殿 ～ Subterranean Animism.">东方地灵殿　～ Subterranean Animism.</a></div></td></tr>
-<tr><td id="3" class="infoYD"><b>03</b></td><td id="Narrow_Minded" colspan="2" class="title">Narrow Minded<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=八嶋&amp;ogmusic=ハルトマンの妖怪少女&amp;fromwiki=HARDCORE_KOISHICHANG_Pt.2"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E5%85%AB%E5%B6%8B&amp;action=edit&amp;redlink=1" class="new" title="八嶋（页面不存在）">八嶋</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，八嶋&amp;fromwiki=HARDCORE_KOISHICHANG_Pt.2"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=ハルトマンの妖怪少女&amp;fromwiki=HARDCORE_KOISHICHANG_Pt.2"><span></span></a></span><div class="ogmusic"><a href="./ハルトマンの妖怪少女.md" class="mw-redirect" title="ハルトマンの妖怪少女">ハルトマンの妖怪少女</a></div><div class="source"><a href="./东方地灵殿_～_Subterranean_Animism..md" class="mw-redirect" title="东方地灵殿 ～ Subterranean Animism.">东方地灵殿　～ Subterranean Animism.</a></div></td></tr></tbody></table>
-
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Blind_Rage" colspan="2" class="title">Blind Rage</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="八嶋（页面不存在）">八嶋</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./哈德曼的妖怪少女.md" class="mw-redirect" title="ハルトマンの妖怪少女">ハルトマンの妖怪少女</a></div><div class="source"><a href="./东方地灵殿.md" class="mw-redirect" title="东方地灵殿 ～ Subterranean Animism.">东方地灵殿　～ Subterranean Animism.</a></div></td></tr>
+<tr><td id="2" class="infoYD"><b>02</b></td><td id="Vile_Acceleration" colspan="2" class="title">Vile Acceleration</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="八嶋（页面不存在）">八嶋</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./哈德曼的妖怪少女.md" class="mw-redirect" title="ハルトマンの妖怪少女">ハルトマンの妖怪少女</a></div><div class="source"><a href="./东方地灵殿.md" class="mw-redirect" title="东方地灵殿 ～ Subterranean Animism.">东方地灵殿　～ Subterranean Animism.</a></div></td></tr>
+<tr><td id="3" class="infoYD"><b>03</b></td><td id="Narrow_Minded" colspan="2" class="title">Narrow Minded</td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="八嶋（页面不存在）">八嶋</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./哈德曼的妖怪少女.md" class="mw-redirect" title="ハルトマンの妖怪少女">ハルトマンの妖怪少女</a></div><div class="source"><a href="./东方地灵殿.md" class="mw-redirect" title="东方地灵殿 ～ Subterranean Animism.">东方地灵殿　～ Subterranean Animism.</a></div></td></tr></tbody></table>
 
 
 ## 评论
-
-
-
 
 ---
 

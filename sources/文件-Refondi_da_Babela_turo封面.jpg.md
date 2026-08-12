@@ -1,6 +1,6 @@
 # 文件:Refondi_da_Babela_turo封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ee\ns6%3ARefondi_da_Babela_turo%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ee\ns6%3ARefondi_da_Babela_turo%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Floresta_Prateada | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Floresta_Prateada | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Refondi da Babela turo](./Refondi_da_Babela_turo.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
-
-
-
+- [Refondi da Babela turo](./Refondi_da_Babela_turo.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
 
 
 ---

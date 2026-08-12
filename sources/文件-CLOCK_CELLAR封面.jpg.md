@@ -1,6 +1,6 @@
 # 文件:CLOCK_CELLAR封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c7\ns6%3ACLOCK_CELLAR%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c7\ns6%3ACLOCK_CELLAR%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Music_Mix_Organization | 专辑封面 | 封面图片
 
@@ -8,12 +8,9 @@ Music_Mix_Organization | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [CLOCK CELLAR](./CLOCK_CELLAR.md)  
-该封面包含的角色：- 十六夜咲夜 (未找到链接)源地址：[[1]](http://mmo-cir.sakura.ne.jp/circle/clockcellar/img/cc_jacket.jpg)
-
-
-
-
+- [CLOCK CELLAR](./CLOCK_CELLAR.md)该封面包含的角色：
+- [十六夜咲夜](./十六夜咲夜.md)
+源地址：[\[1\]](http://mmo-cir.sakura.ne.jp/circle/clockcellar/img/cc_jacket.jpg)
 
 ---
 

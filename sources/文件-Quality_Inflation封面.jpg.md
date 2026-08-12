@@ -1,6 +1,6 @@
 # 文件:Quality_Inflation封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c4\ns6%3AQuality_Inflation%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c4\ns6%3AQuality_Inflation%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 楽団ロマンティシズム
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [Quality Inflation](./Quality_Inflation.md)  
-该封面包含的角色：- [上白泽慧音](./上白泽慧音.md)
-
-
-
+- [Quality Inflation](./Quality_Inflation.md)该封面包含的角色：
+- [上白泽慧音](./上白泽慧音.md)
 
 
 ---

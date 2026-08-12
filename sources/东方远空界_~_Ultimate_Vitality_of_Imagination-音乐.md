@@ -1,6 +1,6 @@
 # 东方远空界_~_Ultimate_Vitality_of_Imagination/音乐
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\e\e9\ns0%3A%E4%B8%9C%E6%96%B9%E8%BF%9C%E7%A9%BA%E7%95%8C_%7E_Ultimate_Vitality_of_Imagination%2F%E9%9F%B3%E4%B9%90.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\e\e9\ns0%3A%E4%B8%9C%E6%96%B9%E8%BF%9C%E7%A9%BA%E7%95%8C_%7E_Ultimate_Vitality_of_Imagination%2F%E9%9F%B3%E4%B9%90.html -->
 
 神心飘游堂
 
@@ -26,7 +26,6 @@
 </td></tr></tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
@@ -46,7 +45,6 @@
 所以偶尔出现一点雾气有什么奇怪的呢？
 </p>
 </td></tr></tbody></table>
-
 
 
 <table>
@@ -69,7 +67,6 @@
 </td></tr></tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
@@ -90,7 +87,6 @@
 </td></tr></tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
@@ -109,7 +105,6 @@
 这个风格写起来还挺顺手的。<br>
 </p>
 </td></tr></tbody></table>
-
 
 
 <table>
@@ -133,7 +128,6 @@
 </td></tr></tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
@@ -151,7 +145,6 @@
 我认为在天上飞的火车是很帅的事物。
 </p>
 </td></tr></tbody></table>
-
 
 
 <table>
@@ -173,7 +166,6 @@
 </td></tr></tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
@@ -191,7 +183,6 @@
 这样的曲子应该很适合STG游戏。
 </p>
 </td></tr></tbody></table>
-
 
 
 <table>
@@ -217,7 +208,6 @@
 </td></tr></tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
@@ -231,14 +221,13 @@
 <td colspan="3" style="padding:1em; padding-left:2em;" lang="zh" width="30%">
 <p>爱赫娜特恩·凝心的主题曲。<br><br>
 写这首曲子的时候前卫摇滚听上头了。5道中也是一样。<br>
-当时也还很喜欢听一些先锋音乐，Philip Glass<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">1</a></sup>，Arvo Part<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">2</a></sup>之类的，<br>
+当时也还很喜欢听一些先锋音乐，Philip Glass<span>[^cite_note-1]</span>，Arvo Part<span>[^cite_note-2]</span>之类的，<br>
 虽然最后也没有太搞懂，还是喜欢其中好听的部分。<br>
 这首曲子有一小段在创作时有想着简约主义。<br>
 我也很喜欢氛围化的音乐……不过东方风的曲子还是要回归旋律。<br>
 太空感，但其实这个游戏并没有跑到地球外面，不要被场景所迷惑。
 </p>
 </td></tr></tbody></table>
-
 
 
 <table>
@@ -264,7 +253,6 @@
 </td></tr></tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
@@ -286,7 +274,6 @@
 她的力量到底有多少呢？我想这不是我这个维度的人能想象的到的。
 </p>
 </td></tr></tbody></table>
-
 
 
 <table>
@@ -312,7 +299,6 @@
 </td></tr></tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
@@ -335,7 +321,6 @@
 </td></tr></tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
@@ -356,7 +341,6 @@
 </td></tr></tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
@@ -375,7 +359,6 @@
 该休息了。
 </p>
 </td></tr></tbody></table>
-
 
 
 <table>
@@ -400,7 +383,6 @@
 </td></tr></tbody></table>
 
 
-
 <table>
 
 <tbody><tr>
@@ -418,7 +400,6 @@
 勇敢地按下Restart吧！
 </p>
 </td></tr></tbody></table>
-
 
 
 <table>
@@ -441,21 +422,8 @@
 </p>
 </td></tr></tbody></table>
 
-
-
 [^cite_note-1]: 菲利普·格拉斯（Philip Glass），美国作曲家。
-
-
-## 词条导航
-  
-  
-
-<table><tbody><tr><td><table cellspacing="0" class="nowraplinks mw-collapsible mw-collapsed" style="width:100%;;;"><tbody><tr><th style=";" colspan="3" class="navbox-title"><div class="navbar"><div class="noprint plainlinksneverexpand" style="background-color:transparent; padding:0; font-weight:normal; font-size:80%; white-space:nowrap;"><a href="./东方远空界_~_Ultimate_Vitality_of_Imagination-导航.md" title="东方远空界 ~ Ultimate Vitality of Imagination/导航"><span style=";;border:none;" title="查看这个模板">查</span></a>&#160;<span style="font-size:80%;">•</span>&#160;<a href="/index.php?title=%E4%B8%9C%E6%96%B9%E8%BF%9C%E7%A9%BA%E7%95%8C_~_Ultimate_Vitality_of_Imagination/%E5%AF%BC%E8%88%AA&amp;action=edit"><span style=";;border:none;" title="您可以编辑这个模板。请在储存变更之前先预览">编</span></a></div></div><span><a href="./东方远空界_~_Ultimate_Vitality_of_Imagination.md" title="东方远空界 ~ Ultimate Vitality of Imagination" unred="">东方远空界</a></span></th></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">角色</td><td style=";;" class="navbox-list navbox-odd"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>自机</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a> &#8226; <a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a> &#8226; <a href="./射命丸文.md" title="射命丸文">射命丸文</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>BOSS</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./晶耀泛纱.md" title="晶耀泛纱">晶耀泛纱</a> &#8226; <a href="./克拉丽贝尔·路易莎.md" title="克拉丽贝尔·路易莎">克拉丽贝尔·路易莎</a> &#8226; <a href="./雾凛凉纪.md" title="雾凛凉纪">雾凛凉纪</a> &#8226; <a href="./梦行远游.md" title="梦行远游">梦行远游</a> &#8226; <a href="./爱赫娜特恩·凝心.md" title="爱赫娜特恩·凝心">爱赫娜特恩·凝心</a> &#8226; <a href="./神欲知现空.md" title="神欲知现空">神欲知现空</a> &#8226; <a href="./明隐玄思.md" title="明隐玄思">明隐玄思</a></div></td></tr></tbody></table><div></div></td><td class="navbox-image" style="" rowspan="11"><a href="./文件-东方远空界_~_Ultimate_Vitality_of_Imagination封面.png.md" class="image"><img alt="东方远空界 ~ Ultimate Vitality of Imagination封面.png" src="https://upload.thwiki.cc/thumb/4/46/%E4%B8%9C%E6%96%B9%E8%BF%9C%E7%A9%BA%E7%95%8C_~_Ultimate_Vitality_of_Imagination%E5%B0%81%E9%9D%A2.png/160px-%E4%B8%9C%E6%96%B9%E8%BF%9C%E7%A9%BA%E7%95%8C_~_Ultimate_Vitality_of_Imagination%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="160" height="160" srcset="https://upload.thwiki.cc/thumb/4/46/%E4%B8%9C%E6%96%B9%E8%BF%9C%E7%A9%BA%E7%95%8C_~_Ultimate_Vitality_of_Imagination%E5%B0%81%E9%9D%A2.png/240px-%E4%B8%9C%E6%96%B9%E8%BF%9C%E7%A9%BA%E7%95%8C_~_Ultimate_Vitality_of_Imagination%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/4/46/%E4%B8%9C%E6%96%B9%E8%BF%9C%E7%A9%BA%E7%95%8C_~_Ultimate_Vitality_of_Imagination%E5%B0%81%E9%9D%A2.png/320px-%E4%B8%9C%E6%96%B9%E8%BF%9C%E7%A9%BA%E7%95%8C_~_Ultimate_Vitality_of_Imagination%E5%B0%81%E9%9D%A2.png 2x" data-file-width="512" data-file-height="512"></a></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">剧情</td><td style=";;" class="navbox-list navbox-even"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>剧情文本</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="/index.php?title=%E9%99%84%E5%B8%A6%E6%96%87%E6%A1%A3:%E4%B8%9C%E6%96%B9%E8%BF%9C%E7%A9%BA%E7%95%8C_%EF%BD%9E_Ultimate_Vitality_of_Imagination/Omake&amp;action=edit&amp;redlink=1" class="new" title="附带文档:东方远空界 ～ Ultimate Vitality of Imagination/Omake（页面不存在）">故事背景</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>游戏对话&amp;结局</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./东方远空界_~_Ultimate_Vitality_of_Imagination-博丽灵梦.md" title="东方远空界 ~ Ultimate Vitality of Imagination/博丽灵梦" unred="">博丽灵梦</a> &#8226; <a href="./东方远空界_~_Ultimate_Vitality_of_Imagination-雾雨魔理沙.md" title="东方远空界 ~ Ultimate Vitality of Imagination/雾雨魔理沙" unred="">雾雨魔理沙</a> &#8226; <a href="./东方远空界_~_Ultimate_Vitality_of_Imagination-射命丸文.md" title="东方远空界 ~ Ultimate Vitality of Imagination/射命丸文" unred="">射命丸文</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>Ex游戏对话</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./东方远空界_~_Ultimate_Vitality_of_Imagination-博丽灵梦_ExStory.md" title="东方远空界 ~ Ultimate Vitality of Imagination/博丽灵梦 ExStory" unred="">博丽灵梦</a> &#8226; <a href="./东方远空界_~_Ultimate_Vitality_of_Imagination-雾雨魔理沙_ExStory.md" title="东方远空界 ~ Ultimate Vitality of Imagination/雾雨魔理沙 ExStory" unred="">雾雨魔理沙</a> &#8226; <a href="./东方远空界_~_Ultimate_Vitality_of_Imagination-射命丸文_ExStory.md" title="东方远空界 ~ Ultimate Vitality of Imagination/射命丸文 ExStory" unred="">射命丸文</a></div></td></tr></tbody></table><div></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">场景</td><td style=";;" class="navbox-list navbox-odd"><div><a href="./幻草原.md" title="幻草原">雾霭的原野</a> &#8226; <a href="./魔法森林.md" title="魔法森林">林中小径</a> &#8226; <a href="./幻想乡上空.md" title="幻想乡上空">直上云霄</a> &#8226; <a href="./幻想乡上空.md" title="幻想乡上空">高度不明的云上</a> &#8226; 远空妄想领域（远空界） &#8226; 光隐通道（远空界的深处） &#8226; <a href="./魔法森林.md" title="魔法森林">雪中山林</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">音乐</td><td style=";;" class="navbox-list navbox-even"><div><a href="./东方远空界_~_Ultimate_Vitality_of_Imagination-音乐.md" title="东方远空界 ~ Ultimate Vitality of Imagination/音乐" unred="">Music Room</a> &#8226; <a href="./东方远空界_~_Ultimate_Vitality_of_Imagination_Soundtrack.md" title="东方远空界 ~ Ultimate Vitality of Imagination Soundtrack" unred="">Original Sound Track</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">附带文档</td><td style=";;" class="navbox-list navbox-odd"><div><a href="/index.php?title=%E9%99%84%E5%B8%A6%E6%96%87%E6%A1%A3:%E4%B8%9C%E6%96%B9%E8%BF%9C%E7%A9%BA%E7%95%8C_%EF%BD%9E_Ultimate_Vitality_of_Imagination/Read_Me&amp;action=edit&amp;redlink=1" class="new" title="附带文档:东方远空界 ～ Ultimate Vitality of Imagination/Read Me（页面不存在）">Read Me</a> &#8226; <a href="/index.php?title=%E9%99%84%E5%B8%A6%E6%96%87%E6%A1%A3:%E4%B8%9C%E6%96%B9%E8%BF%9C%E7%A9%BA%E7%95%8C_%EF%BD%9E_Ultimate_Vitality_of_Imagination/Omake&amp;action=edit&amp;redlink=1" class="new" title="附带文档:东方远空界 ～ Ultimate Vitality of Imagination/Omake（页面不存在）">Omake</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">系统</td><td style=";;" class="navbox-list navbox-even"><div><a href="./东方远空界_~_Ultimate_Vitality_of_Imagination-系统.md" title="东方远空界 ~ Ultimate Vitality of Imagination/系统" unred="">系统</a> &#8226; <a href="./东方远空界_~_Ultimate_Vitality_of_Imagination-其他.md" title="东方远空界 ~ Ultimate Vitality of Imagination/其他" unred="">其他相关资料</a></div></td></tr></tbody></table></td></tr></tbody></table>
-
-
-
-
-
+[^cite_note-2]: 阿沃·帕特（Arvo Part），爱沙尼亚作曲家。
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:会異由有纏_～Il_Suono_Del_Protagonista封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c3\ns6%3A%E4%BC%9A%E7%95%B0%E7%94%B1%E6%9C%89%E7%BA%8F_%EF%BD%9EIl_Suono_Del_Protagonista%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c3\ns6%3A%E4%BC%9A%E7%95%B0%E7%94%B1%E6%9C%89%E7%BA%8F_%EF%BD%9EIl_Suono_Del_Protagonista%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 作画法界 | 封面图片
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [会異由有纏 ～Il Suono Del Protagonista](./会異由有纏_～Il_Suono_Del_Protagonista.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [会異由有纏 ～Il Suono Del Protagonista](./会異由有纏_～Il_Suono_Del_Protagonista.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # 文件:Bura-Koishi封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1f\ns6%3ABura-Koishi%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1f\ns6%3ABura-Koishi%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 IMINIC | 同人志封面 | 封面图片
 
@@ -10,11 +10,8 @@ IMINIC | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Bura-Koishi](./Bura-Koishi.md)  
-该封面包含的角色：- [古明地恋](./古明地恋.md)
-
-
-
+- [Bura-Koishi](./Bura-Koishi.md)该封面包含的角色：
+- [古明地恋](./古明地恋.md)
 
 
 ---

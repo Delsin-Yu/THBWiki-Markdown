@@ -1,6 +1,6 @@
 # 文件:Captain_Anchor封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2b\ns6%3ACaptain_Anchor%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\2b\ns6%3ACaptain_Anchor%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Sleepless | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@ Sleepless | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Captain Anchor](./Captain_Anchor.md)  
-该封面包含的角色：- [村纱水蜜](./村纱水蜜.md)
+- [Captain Anchor](./Captain_Anchor.md)该封面包含的角色：
+- [村纱水蜜](./村纱水蜜.md)
 
   
-源地址：[direct image link (original size)](https://static.wixstatic.com/media/7072af_0842674317174e7a97ae4fbec9a9795b~mv2.jpg), [source page](https://sleeplesscrcid.wixsite.com/sleepless/captain-anchor)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://static.wixstatic.com/media/7072af_0842674317174e7a97ae4fbec9a9795b~mv2.jpg), [source page](https://sleeplesscrcid.wixsite.com/sleepless/captain-anchor)  
 
 ---
 

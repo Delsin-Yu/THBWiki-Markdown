@@ -1,12 +1,8 @@
 # 文件:神宝「Brilliant_Dragon_Bullet」（永夜抄）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\02\ns6%3A%E7%A5%9E%E5%AE%9D%E3%80%8CBrilliant_Dragon_Bullet%E3%80%8D%EF%BC%88%E6%B0%B8%E5%A4%9C%E6%8A%84%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\02\ns6%3A%E7%A5%9E%E5%AE%9D%E3%80%8CBrilliant_Dragon_Bullet%E3%80%8D%EF%BC%88%E6%B0%B8%E5%A4%9C%E6%8A%84%EF%BC%89%2Ejpg.html -->
 
 东方永夜抄 | 敌机符卡 | 蓬莱山辉夜
-
-
-
-
 
 
 ---

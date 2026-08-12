@@ -1,6 +1,6 @@
 # 文件:I_DON'T_OBEY封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d4\ns6%3AI_DON%27T_OBEY%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d4\ns6%3AI_DON%27T_OBEY%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 EASTARS | 专辑封面 | 封面图片
 
@@ -8,11 +8,10 @@ EASTARS | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [I DON'T OBEY](./I_DON'T_OBEY.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)- [大妖精](./大妖精.md)- [莉格露·奈特巴格](./莉格露·奈特巴格.md)
-
-
-
+- [I DON'T OBEY](./I_DON'T_OBEY.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
+- [大妖精](./大妖精.md)
+- [莉格露·奈特巴格](./莉格露·奈特巴格.md)
 
 
 ---

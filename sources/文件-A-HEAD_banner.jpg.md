@@ -1,12 +1,8 @@
 # 文件:A-HEAD_banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f6\ns6%3AA-HEAD_banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f6\ns6%3AA-HEAD_banner%2Ejpg.html -->
 
 A-HEAD | 社团LOGO
-
-
-
-
 
 
 ---

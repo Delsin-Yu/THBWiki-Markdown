@@ -1,6 +1,6 @@
 # 文件:東方コピー本Lv.11~the_legend_of_leaf~封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\71\ns6%3A%E6%9D%B1%E6%96%B9%E3%82%B3%E3%83%94%E3%83%BC%E6%9C%ACLv%2E11%7Ethe_legend_of_leaf%7E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\71\ns6%3A%E6%9D%B1%E6%96%B9%E3%82%B3%E3%83%94%E3%83%BC%E6%9C%ACLv%2E11%7Ethe_legend_of_leaf%7E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 落ち葉
 
@@ -10,11 +10,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方コピー本Lv.11~the legend of leaf~](./東方コピー本Lv.11~the_legend_of_leaf~.md)  
-该封面包含的角色：- [幽谷响子](./幽谷响子.md)- [若鹭姬](./若鹭姬.md)- [赤蛮奇](./赤蛮奇.md)- [今泉影狼](./今泉影狼.md)
-
-
-
+- [東方コピー本Lv.11~the legend of leaf~](./東方コピー本Lv.11~the_legend_of_leaf~.md)该封面包含的角色：
+- [幽谷响子](./幽谷响子.md)
+- [若鹭姬](./若鹭姬.md)
+- [赤蛮奇](./赤蛮奇.md)
+- [今泉影狼](./今泉影狼.md)
 
 
 ---

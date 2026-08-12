@@ -1,12 +1,8 @@
 # 文件:Y-Cubed_banner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\42\ns6%3AY-Cubed_banner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\42\ns6%3AY-Cubed_banner%2Epng.html -->
 
 Y-Cubed | 社团LOGO
-
-
-
-
 
 
 ---

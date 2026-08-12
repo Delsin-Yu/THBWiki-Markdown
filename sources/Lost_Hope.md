@@ -1,46 +1,35 @@
 # Lost_Hope
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\8\8b\ns0%3ALost_Hope.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\8\8b\ns0%3ALost_Hope.html -->
 
 由 穆然皎若 创作的东方风自作曲，原名 Lost Hope
 
 本页是关于东方Project  
- **东方风自作曲** 的词条
-
+**东方风自作曲**的词条
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 出现作品](#出现作品)
 - [3 音乐文件](#音乐文件)
-
   - [3.1 东方山海传](#东方山海传)
 
 
-
 - [4 说明文本](#说明文本)
-
   - [4.1 东方山海传](#东方山海传_2)
 
 
-
 - [5 其他资料](#其他资料)
-
   - [5.1 乐理资讯](#乐理资讯)
   - [5.2 分析考据](#分析考据)
 
 
 
 
-
-
-
-
 ## 基本信息
 
-<table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">Lost Hope</td></tr><tr><td><b>译名</b></td><td>Lost Hope</td></tr><tr><td><b>作曲</b></td><td><a href="/index.php?title=%E7%A9%86%E7%84%B6%E7%9A%8E%E8%8B%A5&amp;action=edit&amp;redlink=1" class="new" title="穆然皎若（页面不存在）">穆然皎若</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
+<table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">Lost Hope</td></tr><tr><td><b>译名</b></td><td>Lost Hope</td></tr><tr><td><b>作曲</b></td><td><a class="new" title="穆然皎若（页面不存在）">穆然皎若</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 Lost Hope（曲目） - 由 穆然皎若 创作的东方风自作曲，原名 Lost Hope
-
 ## 出现作品
 
 <table>
@@ -49,19 +38,18 @@ Lost Hope（曲目） - 由 穆然皎若 创作的东方风自作曲，原名 Lo
 </tbody></table>
 
 
-
 ## 音乐文件
 
 ### 东方山海传
 
-<table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>MIDI格式</b></td><td>无播放信息</td></tr><tr><td><b>MP3格式</b></td><td>无播放信息</td></tr><tr><td><b>OGG格式</b></td><td><a href="/index.php?title=%E6%96%87%E4%BB%B6:thPC_04.ogg&amp;action=edit&amp;redlink=1" class="new" title="文件:thPC 04.ogg（页面不存在）">thPC_04.ogg</a><br><a href="/index.php?title=%E6%96%87%E4%BB%B6:thPC_04.ogg&amp;action=edit&amp;redlink=1" class="new" title="文件:thPC 04.ogg（页面不存在）">文件:thPC 04.ogg</a></td></tr><tr><td><b>源文件格式</b></td><td>BGM\2road.ogg</td></tr></tbody></table>
-
+<table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>MIDI格式</b></td><td>无播放信息</td></tr><tr><td><b>MP3格式</b></td><td>无播放信息</td></tr><tr><td><b>OGG格式</b></td><td><a class="new" title="文件:thPC 04.ogg（页面不存在）">thPC_04.ogg</a><br><a class="new" title="文件:thPC 04.ogg（页面不存在）">文件:thPC 04.ogg</a></td></tr><tr><td><b>源文件格式</b></td><td>BGM\2road.ogg</td></tr></tbody></table>
 
 
 ## 说明文本
 
 ### 东方山海传
-- Music Room (未找到链接)
+
+- [Music Room](./東方山海傳_~_the_Potential_Crisis-Music.md#2面主题曲)
 
   
 2面的主题曲。
@@ -76,15 +64,11 @@ Lost hope这样的名字为何会配着这样一首如此温柔的曲子呢，�
 或许是因为我的道中风格一贯如此吧（笑）
   
 
-
 ## 其他资料
 
 ### 乐理资讯
 
 ### 分析考据
-
-
-
 
 ---
 

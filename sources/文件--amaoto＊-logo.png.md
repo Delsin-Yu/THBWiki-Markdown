@@ -1,18 +1,13 @@
 # 文件:-amaoto＊-logo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c6\ns6%3A-amaoto%EF%BC%8A-logo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c6\ns6%3A-amaoto%EF%BC%8A-logo%2Epng.html -->
 
 -amaoto＊- | 社团LOGO
 
 
 ## 摘要
   
-源地址：[direct image link](https://64.media.tumblr.com/ea3b31205aa6451573266c24142f16ac/tumblr_nvvknxmfX91uhjyzjo1_1280.png), [source page](https://amaotohistory.tumblr.com/)
-  
-
-
-
-
+源地址：[direct image link](https://64.media.tumblr.com/ea3b31205aa6451573266c24142f16ac/tumblr_nvvknxmfX91uhjyzjo1_1280.png), [source page](https://amaotohistory.tumblr.com/)  
 
 ---
 

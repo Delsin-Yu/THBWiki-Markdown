@@ -1,12 +1,8 @@
 # 文件:SlimeSmilebanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0d\ns6%3ASlimeSmilebanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0d\ns6%3ASlimeSmilebanner%2Ejpg.html -->
 
 SlimeSmile | 社团LOGO
-
-
-
-
 
 
 ---

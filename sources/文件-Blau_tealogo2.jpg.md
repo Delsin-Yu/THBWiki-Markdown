@@ -1,18 +1,13 @@
 # 文件:Blau_tealogo2.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\34\ns6%3ABlau_tealogo2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\34\ns6%3ABlau_tealogo2%2Ejpg.html -->
 
 Blau_tea | 社团LOGO
 
 
 ## 摘要
   
-源地址：[direct image link (max size)](https://yt3.ggpht.com/ytc/AKedOLTXMOFSJYWdlQgq7swg6-LcnUJ5tCaP3fRAJxRC=s0?imgmax=0), [source page (circle Youtube)](https://www.youtube.com/channel/UC1pkObZHAl7K3A1d5sCE7SA)
-  
-
-
-
-
+源地址：[direct image link (max size)](https://yt3.ggpht.com/ytc/AKedOLTXMOFSJYWdlQgq7swg6-LcnUJ5tCaP3fRAJxRC=s0?imgmax=0), [source page (circle Youtube)](https://www.youtube.com/channel/UC1pkObZHAl7K3A1d5sCE7SA)  
 
 ---
 

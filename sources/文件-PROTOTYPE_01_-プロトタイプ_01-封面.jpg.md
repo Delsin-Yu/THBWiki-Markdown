@@ -1,6 +1,6 @@
 # 文件:PROTOTYPE_01_-プロトタイプ_01-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3a\ns6%3APROTOTYPE_01_-%E3%83%97%E3%83%AD%E3%83%88%E3%82%BF%E3%82%A4%E3%83%97_01-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3a\ns6%3APROTOTYPE_01_-%E3%83%97%E3%83%AD%E3%83%88%E3%82%BF%E3%82%A4%E3%83%97_01-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 彩音_～xi-on～
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [PROTOTYPE 01 -プロトタイプ 01-](./PROTOTYPE_01_-プロトタイプ_01-.md)  
-该封面包含的角色：- [霍青娥](./霍青娥.md)
-
-
-
+- [PROTOTYPE 01 -プロトタイプ 01-](./PROTOTYPE_01_-プロトタイプ_01-.md)该封面包含的角色：
+- [霍青娥](./霍青娥.md)
 
 
 ---

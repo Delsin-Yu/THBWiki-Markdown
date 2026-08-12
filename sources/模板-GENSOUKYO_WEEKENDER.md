@@ -1,16 +1,12 @@
 # 模板:GENSOUKYO_WEEKENDER
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\3\3c\ns10%3AGENSOUKYO_WEEKENDER.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\3\3c\ns10%3AGENSOUKYO_WEEKENDER.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

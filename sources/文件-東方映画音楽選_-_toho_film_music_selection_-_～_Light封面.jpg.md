@@ -1,6 +1,6 @@
 # 文件:東方映画音楽選_-_toho_film_music_selection_-_～_Light封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ee\ns6%3A%E6%9D%B1%E6%96%B9%E6%98%A0%E7%94%BB%E9%9F%B3%E6%A5%BD%E9%81%B8_-_toho_film_music_selection_-_%EF%BD%9E_Light%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ee\ns6%3A%E6%9D%B1%E6%96%B9%E6%98%A0%E7%94%BB%E9%9F%B3%E6%A5%BD%E9%81%B8_-_toho_film_music_selection_-_%EF%BD%9E_Light%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Tutti_Sound | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ Tutti_Sound | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方映画音楽選 - toho film music selection - ～ Light](./東方映画音楽選_-_toho_film_music_selection_-_～_Light.md)  
-该封面包含的角色：- [琪露诺](./琪露诺.md)
-
-
-
+- [東方映画音楽選 - toho film music selection - ～ Light](./東方映画音楽選_-_toho_film_music_selection_-_～_Light.md)该封面包含的角色：
+- [琪露诺](./琪露诺.md)
 
 
 ---

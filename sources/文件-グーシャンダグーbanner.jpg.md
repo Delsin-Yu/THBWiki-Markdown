@@ -1,12 +1,8 @@
 # 文件:グーシャンダグーbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\86\ns6%3A%E3%82%B0%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%80%E3%82%B0%E3%83%BCbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\86\ns6%3A%E3%82%B0%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%80%E3%82%B0%E3%83%BCbanner%2Ejpg.html -->
 
 グーシャンダグー | 社团LOGO
-
-
-
-
 
 
 ---

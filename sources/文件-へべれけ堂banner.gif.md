@@ -1,12 +1,8 @@
 # 文件:へべれけ堂banner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0a\ns6%3A%E3%81%B8%E3%81%B9%E3%82%8C%E3%81%91%E5%A0%82banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\0\0a\ns6%3A%E3%81%B8%E3%81%B9%E3%82%8C%E3%81%91%E5%A0%82banner%2Egif.html -->
 
 へべれけ堂 | 社团LOGO
-
-
-
-
 
 
 ---

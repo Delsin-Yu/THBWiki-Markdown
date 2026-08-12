@@ -1,6 +1,6 @@
 # 文件:EXLIPCE封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\70\ns6%3AEXLIPCE%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\70\ns6%3AEXLIPCE%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 QUINTET | 专辑封面 | 封面图片
 
@@ -8,16 +8,12 @@ QUINTET | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [EXLIPCE](./EXLIPCE.md)  
-该封面包含的角色：- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)- [八意永琳](./八意永琳.md)
+- [EXLIPCE](./EXLIPCE.md)该封面包含的角色：
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
+- [八意永琳](./八意永琳.md)
 
   
-源地址：[[1]](http://lostcollection.net/img/1K/qmcd-0005.png)
-  
-
-
-
-
+源地址：[\[1\]](http://lostcollection.net/img/1K/qmcd-0005.png)  
 
 ---
 

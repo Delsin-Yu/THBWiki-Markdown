@@ -1,6 +1,6 @@
 # 文件:Poker_Face_feat._itori_-_ZYTOKINE_Remix封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\41\ns6%3APoker_Face_feat%2E_itori_-_ZYTOKINE_Remix%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\41\ns6%3APoker_Face_feat%2E_itori_-_ZYTOKINE_Remix%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 ZYTOKINE | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ ZYTOKINE | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Poker Face feat. itori - ZYTOKINE Remix](./Poker_Face_feat._itori_-_ZYTOKINE_Remix.md)  
-该封面包含的角色：- [秦心](./秦心.md)
-
-
-
+- [Poker Face feat. itori - ZYTOKINE Remix](./Poker_Face_feat._itori_-_ZYTOKINE_Remix.md)该封面包含的角色：
+- [秦心](./秦心.md)
 
 
 ---

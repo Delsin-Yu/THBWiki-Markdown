@@ -1,12 +1,8 @@
 # 文件:DMM.com_logo.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ec\ns6%3ADMM%2Ecom_logo%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\ec\ns6%3ADMM%2Ecom_logo%2Egif.html -->
 
 DMM.com | 企业LOGO
-
-
-
-
 
 
 ---

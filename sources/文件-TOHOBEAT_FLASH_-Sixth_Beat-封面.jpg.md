@@ -1,6 +1,6 @@
 # 文件:TOHOBEAT_FLASH_-Sixth_Beat-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\df\ns6%3ATOHOBEAT_FLASH_-Sixth_Beat-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\df\ns6%3ATOHOBEAT_FLASH_-Sixth_Beat-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 GUNFIRE | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ GUNFIRE | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [TOHOBEAT FLASH -Sixth Beat-](./TOHOBEAT_FLASH_-Sixth_Beat-.md)  
-该封面包含的角色：- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
-
-
-
+- [TOHOBEAT FLASH -Sixth Beat-](./TOHOBEAT_FLASH_-Sixth_Beat-.md)该封面包含的角色：
+- [爱丽丝·玛格特洛依德](./爱丽丝·玛格特洛依德.md)
 
 
 ---

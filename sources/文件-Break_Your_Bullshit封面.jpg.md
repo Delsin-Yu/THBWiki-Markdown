@@ -1,6 +1,6 @@
 # 文件:Break_Your_Bullshit封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f9\ns6%3ABreak_Your_Bullshit%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f9\ns6%3ABreak_Your_Bullshit%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Rice_Records | 专辑封面 | 封面图片
 
@@ -8,11 +8,10 @@ Rice_Records | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Break Your Bullshit](./Break_Your_Bullshit.md)  
-该封面包含的角色：- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [Break Your Bullshit](./Break_Your_Bullshit.md)该封面包含的角色：
+- [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)
+- [四季映姬·夜摩仙那度](./四季映姬·夜摩仙那度.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

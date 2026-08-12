@@ -1,16 +1,12 @@
 # 文件:ssg_10.mid
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\97\ns6%3Assg_10%2Emid.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\97\ns6%3Assg_10%2Emid.html -->
 
 东方幻想的音乐 | 卡纳维拉尔角的梦幻少女 | 官方MIDI | 秋霜玉
 
   
 カナベラルの夢幻少女 秋霜玉5面道中主题曲。 东方的幻想音乐版，与原秋霜玉版本有出入！
   
-
-
-
-
 
 ---
 

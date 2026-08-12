@@ -1,6 +1,6 @@
 # 文件:Kokoro_Mask_of_Labyrinth封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\54\ns6%3AKokoro_Mask_of_Labyrinth%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\54\ns6%3AKokoro_Mask_of_Labyrinth%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 こめおファクトリー | 同人志封面 | 封面图片
 
@@ -10,16 +10,12 @@
 使用了本文件作封面图片的作品：
   
 
-- [Kokoro Mask of Labyrinth](./Kokoro_Mask_of_Labyrinth.md)  
-该封面包含的角色：- [古明地恋](./古明地恋.md)- [秦心](./秦心.md)
+- [Kokoro Mask of Labyrinth](./Kokoro_Mask_of_Labyrinth.md)该封面包含的角色：
+- [古明地恋](./古明地恋.md)
+- [秦心](./秦心.md)
 
   
-[Pixiv artwork ID: 74545189 (original size)](https://www.pixiv.net/artworks/74545189)
-  
-
-
-
-
+[Pixiv artwork ID: 74545189 (original size)](https://www.pixiv.net/artworks/74545189)  
 
 ---
 

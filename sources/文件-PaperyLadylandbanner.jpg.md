@@ -1,12 +1,8 @@
 # 文件:PaperyLadylandbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6b\ns6%3APaperyLadylandbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6b\ns6%3APaperyLadylandbanner%2Ejpg.html -->
 
 PaperyLadyland | 社团LOGO
-
-
-
-
 
 
 ---

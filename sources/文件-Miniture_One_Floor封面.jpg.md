@@ -1,6 +1,6 @@
 # 文件:Miniture_One_Floor封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\53\ns6%3AMiniture_One_Floor%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\5\53\ns6%3AMiniture_One_Floor%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 dat_file_records | 专辑封面 | 封面图片
 
@@ -8,16 +8,12 @@ dat_file_records | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Miniture One Floor](./Miniture_One_Floor.md)  
-该封面包含的角色：- [米斯蒂娅·萝蕾拉](./米斯蒂娅·萝蕾拉.md)- [幽谷响子](./幽谷响子.md)
+- [Miniture One Floor](./Miniture_One_Floor.md)该封面包含的角色：
+- [米斯蒂娅·萝蕾拉](./米斯蒂娅·萝蕾拉.md)
+- [幽谷响子](./幽谷响子.md)
 
   
-源地址：[[1]](http://static.tumblr.com/40e35be11ff2b6c698843bfadf213769/e3lazzy/ZURn97xrl/tumblr_static_82alczcyb58ok88gw4s4o8s4k.jpg)
-  
-
-
-
-
+源地址：[\[1\]](http://static.tumblr.com/40e35be11ff2b6c698843bfadf213769/e3lazzy/ZURn97xrl/tumblr_static_82alczcyb58ok88gw4s4o8s4k.jpg)  
 
 ---
 

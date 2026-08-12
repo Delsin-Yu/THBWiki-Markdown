@@ -1,12 +1,8 @@
 # 文件:樱之幻想LOGO.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\44\ns6%3A%E6%A8%B1%E4%B9%8B%E5%B9%BB%E6%83%B3LOGO%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\44\ns6%3A%E6%A8%B1%E4%B9%8B%E5%B9%BB%E6%83%B3LOGO%2Ejpg.html -->
 
 樱之幻想 | 社团LOGO
-
-
-
-
 
 
 ---

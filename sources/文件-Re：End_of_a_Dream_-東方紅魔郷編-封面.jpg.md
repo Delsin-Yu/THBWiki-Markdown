@@ -1,6 +1,6 @@
 # 文件:Re：End_of_a_Dream_-東方紅魔郷編-封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\22\ns6%3ARe%EF%BC%9AEnd_of_a_Dream_-%E6%9D%B1%E6%96%B9%E7%B4%85%E9%AD%94%E9%83%B7%E7%B7%A8-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\22\ns6%3ARe%EF%BC%9AEnd_of_a_Dream_-%E6%9D%B1%E6%96%B9%E7%B4%85%E9%AD%94%E9%83%B7%E7%B7%A8-%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Astral_Sky | 专辑封面 | 封面图片 | 非可逆リズム
 
@@ -8,16 +8,11 @@ Astral_Sky | 专辑封面 | 封面图片 | 非可逆リズム
 使用了本文件作封面图片的作品：
   
 
-- [Re：End of a Dream -東方紅魔郷編-](./Re：End_of_a_Dream_-東方紅魔郷編-.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [Re：End of a Dream -東方紅魔郷編-](./Re：End_of_a_Dream_-東方紅魔郷編-.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
 
   
-源地址：[[1]](http://sound.jp/nrr/ASRR-0003/)
-  
-
-
-
-
+源地址：[\[1\]](http://sound.jp/nrr/ASRR-0003/)  
 
 ---
 

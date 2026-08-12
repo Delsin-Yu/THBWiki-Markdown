@@ -1,14 +1,11 @@
 # 文件:CODE-49_logo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a9\ns6%3ACODE-49_logo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a9\ns6%3ACODE-49_logo%2Epng.html -->
 
 CODE-49 | 社团LOGO
 
 
 ## 摘要
-
-
-
 
 ---
 

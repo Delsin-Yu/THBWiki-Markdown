@@ -1,6 +1,6 @@
 # 文件:RBRC封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f5\ns6%3ARBRC%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f5\ns6%3ARBRC%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 まめルート工房 | 同人志封面 | 封面图片
 
@@ -10,19 +10,14 @@
 使用了本文件作封面图片的作品：
   
 
-- [RBRC](./RBRC.md)  
-该封面包含的角色：- [灵乌路空](./灵乌路空.md)
+- [RBRC](./RBRC.md)该封面包含的角色：
+- [灵乌路空](./灵乌路空.md)
 
   
-源地址：[direct image link](https://s2.booth.pm/9416fd6e-f7f5-4f9b-aadb-d440c786d675/i/4236280/945d35e9-82f2-4ae4-9763-f76f96efde5a_base_resized.jpg), [source page (circle Booth)](https://mamerutokoubou.booth.pm/items/4236280)
-  
+源地址：[direct image link](https://s2.booth.pm/9416fd6e-f7f5-4f9b-aadb-d440c786d675/i/4236280/945d35e9-82f2-4ae4-9763-f76f96efde5a_base_resized.jpg), [source page (circle Booth)](https://mamerutokoubou.booth.pm/items/4236280)  
   
 note: the cover on Twitter is blurry and has white space at the bottom - don't use that one
   
-
-
-
-
 
 ---
 

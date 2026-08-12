@@ -1,16 +1,12 @@
 # 模板:东方Conference
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\d\df\ns10%3A%E4%B8%9C%E6%96%B9Conference.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\d\df\ns10%3A%E4%B8%9C%E6%96%B9Conference.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

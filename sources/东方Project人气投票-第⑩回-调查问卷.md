@@ -1,18 +1,17 @@
 # 东方Project人气投票/第⑩回/调查问卷
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\e\e9\ns0%3A%E4%B8%9C%E6%96%B9Project%E4%BA%BA%E6%B0%94%E6%8A%95%E7%A5%A8%2F%E7%AC%AC%E2%91%A9%E5%9B%9E%2F%E8%B0%83%E6%9F%A5%E9%97%AE%E5%8D%B7.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\e\e9\ns0%3A%E4%B8%9C%E6%96%B9Project%E4%BA%BA%E6%B0%94%E6%8A%95%E7%A5%A8%2F%E7%AC%AC%E2%91%A9%E5%9B%9E%2F%E8%B0%83%E6%9F%A5%E9%97%AE%E5%8D%B7.html -->
 
 东方Project人气投票 | 待完成页面
 
 <center>
-
 <table>
 <tbody><tr>
 <td>
 </td>
 <td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right">
 </td>
-<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="./东方Project人气投票.md" title="东方Project人气投票">东方Project人气投票</a>（调查问卷）&#160;
+<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;"> <a href="./东方Project人气投票.md" title="东方Project人气投票">东方Project人气投票</a>（调查问卷） 
 </td>
 <td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left">
 </td>
@@ -20,9 +19,7 @@
 </td></tr></tbody></table>
 
   
-</center>
-<center>
-
+</center><center>
 <table>
 <tbody><tr>
 <td class="mbox-image"><div style="width: 52px;">
@@ -31,16 +28,17 @@
 </tr>
 </tbody></table>
 
-
 </center>
 - 本页面为问卷调查结果。
 
-- 总投票人数 25707
+
+- 总投票人数 25707 
   - 角色部门票数 23518
   - 音乐部门票数 17442
   - CP部门票数 17383
   - 作品题名票数 2250
   - 问卷填写情况下述
+
 
 
 
@@ -58,14 +56,10 @@
 - [10 您是第几次参加人气投票活动？](#您是第几次参加人气投票活动？)
 
 
-
-
-
 ## 您的性别是？
   
 总回答数：25707
   
-
 
 <table>
 <caption>性别
@@ -84,12 +78,10 @@
 </td></tr></tbody></table>
 
 
-
 ## 您现在的主要所在地区为？
   
 总回答数：25706
   
-
 
 <table>
 <caption>地区
@@ -114,12 +106,10 @@
 </td></tr></tbody></table>
 
 
-
 ## 您现在的最主要所在地是哪个省级行政区？
   
 总回答数：25096
   
-
 
 ## 您现在的主要所在地位于哪个地区？
   
@@ -134,30 +124,25 @@
 总回答数：25705
   
 
-
 ## 您当前的受教育程度为？
   
 总回答数：25703
   
-
 
 ## 您目前还是学生吗？
   
 总回答数：25703
   
 
-
 ## 您现在的工作情况为？
   
 总回答数：4098
   
 
-
 ## 您是从什么时间段开始对东方Project感兴趣的？
   
 总回答数：25703
   
-
 
 ## 您是第几次参加人气投票活动？
   
@@ -166,10 +151,6 @@
   
 （未完待续）
   
-
-
-
-
 
 ---
 

@@ -1,16 +1,12 @@
 # 文件:MCG-Truemoon-GEO2021.10.17.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1a\ns6%3AMCG-Truemoon-GEO2021%2E10%2E17%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1a\ns6%3AMCG-Truemoon-GEO2021%2E10%2E17%2Epng.html -->
 
 MineCraft幻想乡
 
   
 MC幻想乡里月地形图
   
-
-
-
-
 
 ---
 

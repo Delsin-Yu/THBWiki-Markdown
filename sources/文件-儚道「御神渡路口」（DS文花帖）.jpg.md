@@ -1,12 +1,8 @@
 # 文件:儚道「御神渡路口」（DS文花帖）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\91\ns6%3A%E5%84%9A%E9%81%93%E3%80%8C%E5%BE%A1%E7%A5%9E%E6%B8%A1%E8%B7%AF%E5%8F%A3%E3%80%8D%EF%BC%88DS%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\91\ns6%3A%E5%84%9A%E9%81%93%E3%80%8C%E5%BE%A1%E7%A5%9E%E6%B8%A1%E8%B7%AF%E5%8F%A3%E3%80%8D%EF%BC%88DS%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89%2Ejpg.html -->
 
 东方文花帖DS | 八坂神奈子 | 敌机符卡
-
-
-
-
 
 
 ---

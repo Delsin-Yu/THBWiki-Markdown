@@ -1,6 +1,6 @@
 # 文件:SECRET_MIND_EP封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cf\ns6%3ASECRET_MIND_EP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\cf\ns6%3ASECRET_MIND_EP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Find_Your_Way | 专辑封面 | 封面图片
 
@@ -11,12 +11,7 @@ Find_Your_Way | 专辑封面 | 封面图片
 - [SECRET MIND EP](./SECRET_MIND_EP.md)
 
   
-源地址：[[1]](https://f1.bcbits.com/img/a2203660923_10.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://f1.bcbits.com/img/a2203660923_10.jpg)  
 
 ---
 

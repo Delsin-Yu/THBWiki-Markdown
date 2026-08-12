@@ -1,6 +1,6 @@
 # 文件:きらきら☆げんそうきょう_-_trial_CD封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6f\ns6%3A%E3%81%8D%E3%82%89%E3%81%8D%E3%82%89%E2%98%86%E3%81%92%E3%82%93%E3%81%9D%E3%81%86%E3%81%8D%E3%82%87%E3%81%86_-_trial_CD%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6f\ns6%3A%E3%81%8D%E3%82%89%E3%81%8D%E3%82%89%E2%98%86%E3%81%92%E3%82%93%E3%81%9D%E3%81%86%E3%81%8D%E3%82%87%E3%81%86_-_trial_CD%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Lunatic_Locus | 专辑封面 | 封面图片
 
@@ -10,11 +10,9 @@ Lunatic_Locus | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [きらきら☆げんそうきょう - trial CD](./きらきら☆げんそうきょう_-_trial_CD.md)  
-该封面包含的角色：- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [きらきら☆げんそうきょう - trial CD](./きらきら☆げんそうきょう_-_trial_CD.md)该封面包含的角色：
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

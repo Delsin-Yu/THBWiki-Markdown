@@ -1,12 +1,8 @@
 # 文件:Alice_Overturebanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\82\ns6%3AAlice_Overturebanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\82\ns6%3AAlice_Overturebanner%2Ejpg.html -->
 
 Alice_Overture | 社团LOGO
-
-
-
-
 
 
 ---

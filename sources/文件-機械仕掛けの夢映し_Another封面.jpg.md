@@ -1,6 +1,6 @@
 # 文件:機械仕掛けの夢映し_Another封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\97\ns6%3A%E6%A9%9F%E6%A2%B0%E4%BB%95%E6%8E%9B%E3%81%91%E3%81%AE%E5%A4%A2%E6%98%A0%E3%81%97_Another%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\97\ns6%3A%E6%A9%9F%E6%A2%B0%E4%BB%95%E6%8E%9B%E3%81%91%E3%81%AE%E5%A4%A2%E6%98%A0%E3%81%97_Another%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 同人志封面 | 封面图片 | 棒電気
 
@@ -10,11 +10,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [機械仕掛けの夢映し Another](./機械仕掛けの夢映し_Another.md)  
-该封面包含的角色：- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)- [宇佐见莲子](./宇佐见莲子.md)
-
-
-
+- [機械仕掛けの夢映し Another](./機械仕掛けの夢映し_Another.md)该封面包含的角色：
+- [玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)
+- [宇佐见莲子](./宇佐见莲子.md)
 
 
 ---

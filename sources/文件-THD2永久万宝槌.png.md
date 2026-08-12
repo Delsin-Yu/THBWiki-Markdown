@@ -1,12 +1,8 @@
 # 文件:THD2永久万宝槌.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\88\ns6%3ATHD2%E6%B0%B8%E4%B9%85%E4%B8%87%E5%AE%9D%E6%A7%8C%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\88\ns6%3ATHD2%E6%B0%B8%E4%B9%85%E4%B8%87%E5%AE%9D%E6%A7%8C%2Epng.html -->
 
 东方DOTS玩家社群
-
-
-
-
 
 
 ---

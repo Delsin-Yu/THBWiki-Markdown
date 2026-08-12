@@ -1,6 +1,6 @@
 # 文件:Ukrainian_Folk_(2.0)_for_''The_Embodiment_of_Scarlet_Devil''_–_Big_Concert封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a9\ns6%3AUkrainian_Folk_%282%2E0%29_for_%27%27The_Embodiment_of_Scarlet_Devil%27%27_%E2%80%93_Big_Concert%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a9\ns6%3AUkrainian_Folk_%282%2E0%29_for_%27%27The_Embodiment_of_Scarlet_Devil%27%27_%E2%80%93_Big_Concert%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Erica-Angelina_Kanarska-Sabat | 专辑封面 | 封面图片
 
@@ -8,10 +8,7 @@ Erica-Angelina_Kanarska-Sabat | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Ukrainian Folk (2.0) for ''The Embodiment of Scarlet Devil'' – Big Concert](./Ukrainian_Folk_(2.0)_for_''The_Embodiment_of_Scarlet_Devil''_–_Big_Concert.md)
-
-
-
+- [Ukrainian Folk (2.0) for ''The Embodiment of Scarlet Devil'' – Big Concert](./Ukrainian_Folk_(2.0%29_for_''The_Embodiment_of_Scarlet_Devil''_–_Big_Concert.md)
 
 
 ---

@@ -1,12 +1,8 @@
 # 文件:东方实在相st2.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\49\ns6%3A%E4%B8%9C%E6%96%B9%E5%AE%9E%E5%9C%A8%E7%9B%B8st2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\4\49\ns6%3A%E4%B8%9C%E6%96%B9%E5%AE%9E%E5%9C%A8%E7%9B%B8st2%2Epng.html -->
 
 Analogue_Reverie
-
-
-
-
 
 
 ---

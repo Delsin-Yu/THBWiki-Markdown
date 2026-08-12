@@ -1,12 +1,8 @@
 # 文件:THD2白楼剑.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ad\ns6%3ATHD2%E7%99%BD%E6%A5%BC%E5%89%91%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ad\ns6%3ATHD2%E7%99%BD%E6%A5%BC%E5%89%91%2Epng.html -->
 
 AvalonStudioOfficial
-
-
-
-
 
 
 ---

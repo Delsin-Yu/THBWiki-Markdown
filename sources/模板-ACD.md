@@ -1,16 +1,12 @@
 # 模板:ACD
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\9\94\ns10%3AACD.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\9\94\ns10%3AACD.html -->
 
 活动名模板
 
   
 缺少参数
   
-
-
-
-
 
 ---
 

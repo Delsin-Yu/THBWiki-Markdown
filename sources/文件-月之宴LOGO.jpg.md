@@ -1,12 +1,8 @@
 # 文件:月之宴LOGO.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ad\ns6%3A%E6%9C%88%E4%B9%8B%E5%AE%B4LOGO%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\ad\ns6%3A%E6%9C%88%E4%B9%8B%E5%AE%B4LOGO%2Ejpg.html -->
 
 Project-D | 月之宴 | 活动LOGO
-
-
-
-
 
 
 ---

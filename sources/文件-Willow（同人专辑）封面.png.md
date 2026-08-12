@@ -1,6 +1,6 @@
 # 文件:Willow（同人专辑）封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e7\ns6%3AWillow%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e7\ns6%3AWillow%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 東方明治楼
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [Willow（同人专辑）](./Willow（同人专辑）.md)  
-该封面包含的角色：- [赤蛮奇](./赤蛮奇.md)
+- [Willow（同人专辑）](./Willow（同人专辑）.md)该封面包含的角色：
+- [赤蛮奇](./赤蛮奇.md)
 
   
-源地址：[[1]](https://static.wixstatic.com/media/c1224f_9a7fbdf97cfc4cfb8c02a82e268f0ecc.png)
-  
-
-
-
-
+源地址：[\[1\]](https://static.wixstatic.com/media/c1224f_9a7fbdf97cfc4cfb8c02a82e268f0ecc.png)  
 
 ---
 

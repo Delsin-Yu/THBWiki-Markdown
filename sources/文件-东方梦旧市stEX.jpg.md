@@ -1,14 +1,11 @@
 # 文件:东方梦旧市stEX.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\77\ns6%3A%E4%B8%9C%E6%96%B9%E6%A2%A6%E6%97%A7%E5%B8%82stEX%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\77\ns6%3A%E4%B8%9C%E6%96%B9%E6%A2%A6%E6%97%A7%E5%B8%82stEX%2Ejpg.html -->
 
 Τeam_αlternative_Σnding | 东方梦旧市
 
 
 ## 文件说明
-
-
-
 
 ---
 

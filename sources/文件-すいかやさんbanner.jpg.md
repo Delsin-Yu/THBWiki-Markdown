@@ -1,12 +1,8 @@
 # 文件:すいかやさんbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8c\ns6%3A%E3%81%99%E3%81%84%E3%81%8B%E3%82%84%E3%81%95%E3%82%93banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8c\ns6%3A%E3%81%99%E3%81%84%E3%81%8B%E3%82%84%E3%81%95%E3%82%93banner%2Ejpg.html -->
 
 すいかやさん | 社团LOGO
-
-
-
-
 
 
 ---

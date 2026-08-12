@@ -1,6 +1,6 @@
 # 文件:神～帰ってきたオンバシラ_preview封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\24\ns6%3A%E7%A5%9E%EF%BD%9E%E5%B8%B0%E3%81%A3%E3%81%A6%E3%81%8D%E3%81%9F%E3%82%AA%E3%83%B3%E3%83%90%E3%82%B7%E3%83%A9_preview%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\24\ns6%3A%E7%A5%9E%EF%BD%9E%E5%B8%B0%E3%81%A3%E3%81%A6%E3%81%8D%E3%81%9F%E3%82%AA%E3%83%B3%E3%83%90%E3%82%B7%E3%83%A9_preview%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 戯音楽団
 
@@ -10,11 +10,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [神～帰ってきたオンバシラ preview](./神～帰ってきたオンバシラ_preview.md)  
-该封面包含的角色：- [八坂神奈子](./八坂神奈子.md)
-
-
-
+- [神～帰ってきたオンバシラ preview](./神～帰ってきたオンバシラ_preview.md)该封面包含的角色：
+- [八坂神奈子](./八坂神奈子.md)
 
 
 ---

@@ -1,18 +1,13 @@
 # 文件:Explosante-Fixelogo2.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e6\ns6%3AExplosante-Fixelogo2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e6\ns6%3AExplosante-Fixelogo2%2Epng.html -->
 
 Explosante-Fixe | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[direct image link](https://a.deviantart.net/avatars/e/x/explosante.png?2), [from circle Deviantart](https://www.deviantart.com/explosante/)
-  
-
-
-
-
+源地址：[direct image link](https://a.deviantart.net/avatars/e/x/explosante.png?2), [from circle Deviantart](https://www.deviantart.com/explosante/)  
 
 ---
 

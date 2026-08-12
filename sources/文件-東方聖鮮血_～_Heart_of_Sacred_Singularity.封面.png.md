@@ -1,6 +1,6 @@
 # 文件:東方聖鮮血_～_Heart_of_Sacred_Singularity.封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d1\ns6%3A%E6%9D%B1%E6%96%B9%E8%81%96%E9%AE%AE%E8%A1%80_%EF%BD%9E_Heart_of_Sacred_Singularity%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d1\ns6%3A%E6%9D%B1%E6%96%B9%E8%81%96%E9%AE%AE%E8%A1%80_%EF%BD%9E_Heart_of_Sacred_Singularity%2E%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 AuroraArtz | Consonances&Dissonances | 专辑封面 | 封面图片
 
@@ -10,11 +10,8 @@ AuroraArtz | Consonances&Dissonances | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方聖鮮血 ～ Heart of Sacred Singularity.](./東方聖鮮血_～_Heart_of_Sacred_Singularity..md)  
-该封面包含的角色：- 埃利亚斯·辛克莱尔 (未找到链接)
-
-
-
+- [東方聖鮮血 ～ Heart of Sacred Singularity.](./東方聖鮮血_～_Heart_of_Sacred_Singularity..md)该封面包含的角色：
+- 埃利亚斯·辛克莱尔 (未找到链接)
 
 
 ---

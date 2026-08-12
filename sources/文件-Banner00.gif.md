@@ -1,12 +1,8 @@
 # 文件:Banner00.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\14\ns6%3ABanner00%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\14\ns6%3ABanner00%2Egif.html -->
 
 社团LOGO | 鉄腕トカゲ探知機
-
-
-
-
 
 
 ---

@@ -1,10 +1,11 @@
 # 东方谜缘塔_～_Forsaken_Labyrinth./角色立绘
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\7\7e\ns0%3A%E4%B8%9C%E6%96%B9%E8%B0%9C%E7%BC%98%E5%A1%94_%EF%BD%9E_Forsaken_Labyrinth%2E%2F%E8%A7%92%E8%89%B2%E7%AB%8B%E7%BB%98.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\7\7e\ns0%3A%E4%B8%9C%E6%96%B9%E8%B0%9C%E7%BC%98%E5%A1%94_%EF%BD%9E_Forsaken_Labyrinth%2E%2F%E8%A7%92%E8%89%B2%E7%AB%8B%E7%BB%98.html -->
 
 阐幽赜书房
 
--  **本词条内容为[东方谜缘塔](./东方谜缘塔_～_Forsaken_Labyrinth..md)的角色立绘** 
+
+- **本词条内容为[东方谜缘塔](./东方谜缘塔_～_Forsaken_Labyrinth..md)的角色立绘**
 
 
 <table>
@@ -48,7 +49,7 @@
     <td><a href="./文件-雾雨魔理沙（谜缘塔）sw.png.md" class="image"><img alt="雾雨魔理沙（谜缘塔）sw.png" src="https://upload.thwiki.cc/thumb/6/60/%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%EF%BC%88%E8%B0%9C%E7%BC%98%E5%A1%94%EF%BC%89sw.png/100px-%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%EF%BC%88%E8%B0%9C%E7%BC%98%E5%A1%94%EF%BC%89sw.png" decoding="async" loading="lazy" width="100" height="145" srcset="https://upload.thwiki.cc/thumb/6/60/%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%EF%BC%88%E8%B0%9C%E7%BC%98%E5%A1%94%EF%BC%89sw.png/150px-%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%EF%BC%88%E8%B0%9C%E7%BC%98%E5%A1%94%EF%BC%89sw.png 1.5x, https://upload.thwiki.cc/thumb/6/60/%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%EF%BC%88%E8%B0%9C%E7%BC%98%E5%A1%94%EF%BC%89sw.png/200px-%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%EF%BC%88%E8%B0%9C%E7%BC%98%E5%A1%94%EF%BC%89sw.png 2x" data-file-width="503" data-file-height="730"></a></td>
   </tr>
   <tr>
-    <th><a href="/%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C" title="十六夜咲夜">十六夜咲夜</a></th>
+    <th><a href="./十六夜咲夜.md" title="十六夜咲夜">十六夜咲夜</a></th>
     <td><a href="./文件-十六夜咲夜（谜缘塔）.png.md" class="image"><img alt="十六夜咲夜（谜缘塔）.png" src="https://upload.thwiki.cc/thumb/5/54/%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C%EF%BC%88%E8%B0%9C%E7%BC%98%E5%A1%94%EF%BC%89.png/100px-%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C%EF%BC%88%E8%B0%9C%E7%BC%98%E5%A1%94%EF%BC%89.png" decoding="async" loading="lazy" width="100" height="141" srcset="https://upload.thwiki.cc/thumb/5/54/%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C%EF%BC%88%E8%B0%9C%E7%BC%98%E5%A1%94%EF%BC%89.png/150px-%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C%EF%BC%88%E8%B0%9C%E7%BC%98%E5%A1%94%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/5/54/%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C%EF%BC%88%E8%B0%9C%E7%BC%98%E5%A1%94%EF%BC%89.png/200px-%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C%EF%BC%88%E8%B0%9C%E7%BC%98%E5%A1%94%EF%BC%89.png 2x" data-file-width="620" data-file-height="875"></a></td>
     <td><a href="./文件-十六夜咲夜（谜缘塔）an.png.md" class="image"><img alt="十六夜咲夜（谜缘塔）an.png" src="https://upload.thwiki.cc/thumb/a/ab/%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C%EF%BC%88%E8%B0%9C%E7%BC%98%E5%A1%94%EF%BC%89an.png/100px-%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C%EF%BC%88%E8%B0%9C%E7%BC%98%E5%A1%94%EF%BC%89an.png" decoding="async" loading="lazy" width="100" height="111" srcset="https://upload.thwiki.cc/thumb/a/ab/%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C%EF%BC%88%E8%B0%9C%E7%BC%98%E5%A1%94%EF%BC%89an.png/150px-%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C%EF%BC%88%E8%B0%9C%E7%BC%98%E5%A1%94%EF%BC%89an.png 1.5x, https://upload.thwiki.cc/thumb/a/ab/%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C%EF%BC%88%E8%B0%9C%E7%BC%98%E5%A1%94%EF%BC%89an.png/200px-%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C%EF%BC%88%E8%B0%9C%E7%BC%98%E5%A1%94%EF%BC%89an.png 2x" data-file-width="620" data-file-height="690"></a></td>
     <td><a href="./文件-十六夜咲夜（谜缘塔）dp.png.md" class="image"><img alt="十六夜咲夜（谜缘塔）dp.png" src="https://upload.thwiki.cc/thumb/a/ac/%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C%EF%BC%88%E8%B0%9C%E7%BC%98%E5%A1%94%EF%BC%89dp.png/100px-%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C%EF%BC%88%E8%B0%9C%E7%BC%98%E5%A1%94%EF%BC%89dp.png" decoding="async" loading="lazy" width="100" height="111" srcset="https://upload.thwiki.cc/thumb/a/ac/%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C%EF%BC%88%E8%B0%9C%E7%BC%98%E5%A1%94%EF%BC%89dp.png/150px-%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C%EF%BC%88%E8%B0%9C%E7%BC%98%E5%A1%94%EF%BC%89dp.png 1.5x, https://upload.thwiki.cc/thumb/a/ac/%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C%EF%BC%88%E8%B0%9C%E7%BC%98%E5%A1%94%EF%BC%89dp.png/200px-%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C%EF%BC%88%E8%B0%9C%E7%BC%98%E5%A1%94%EF%BC%89dp.png 2x" data-file-width="620" data-file-height="690"></a></td>
@@ -145,10 +146,6 @@
     <td><a href="./文件-荣术丸樱（谜缘塔）spl.png.md" class="image"><img alt="荣术丸樱（谜缘塔）spl.png" src="https://upload.thwiki.cc/thumb/6/63/%E8%8D%A3%E6%9C%AF%E4%B8%B8%E6%A8%B1%EF%BC%88%E8%B0%9C%E7%BC%98%E5%A1%94%EF%BC%89spl.png/100px-%E8%8D%A3%E6%9C%AF%E4%B8%B8%E6%A8%B1%EF%BC%88%E8%B0%9C%E7%BC%98%E5%A1%94%EF%BC%89spl.png" decoding="async" loading="lazy" width="100" height="112" srcset="https://upload.thwiki.cc/thumb/6/63/%E8%8D%A3%E6%9C%AF%E4%B8%B8%E6%A8%B1%EF%BC%88%E8%B0%9C%E7%BC%98%E5%A1%94%EF%BC%89spl.png/150px-%E8%8D%A3%E6%9C%AF%E4%B8%B8%E6%A8%B1%EF%BC%88%E8%B0%9C%E7%BC%98%E5%A1%94%EF%BC%89spl.png 1.5x, https://upload.thwiki.cc/thumb/6/63/%E8%8D%A3%E6%9C%AF%E4%B8%B8%E6%A8%B1%EF%BC%88%E8%B0%9C%E7%BC%98%E5%A1%94%EF%BC%89spl.png/200px-%E8%8D%A3%E6%9C%AF%E4%B8%B8%E6%A8%B1%EF%BC%88%E8%B0%9C%E7%BC%98%E5%A1%94%EF%BC%89spl.png 2x" data-file-width="667" data-file-height="750"></a></td>
     <td><a href="./文件-荣术丸樱（谜缘塔）swl.png.md" class="image"><img alt="荣术丸樱（谜缘塔）swl.png" src="https://upload.thwiki.cc/thumb/f/f2/%E8%8D%A3%E6%9C%AF%E4%B8%B8%E6%A8%B1%EF%BC%88%E8%B0%9C%E7%BC%98%E5%A1%94%EF%BC%89swl.png/100px-%E8%8D%A3%E6%9C%AF%E4%B8%B8%E6%A8%B1%EF%BC%88%E8%B0%9C%E7%BC%98%E5%A1%94%EF%BC%89swl.png" decoding="async" loading="lazy" width="100" height="112" srcset="https://upload.thwiki.cc/thumb/f/f2/%E8%8D%A3%E6%9C%AF%E4%B8%B8%E6%A8%B1%EF%BC%88%E8%B0%9C%E7%BC%98%E5%A1%94%EF%BC%89swl.png/150px-%E8%8D%A3%E6%9C%AF%E4%B8%B8%E6%A8%B1%EF%BC%88%E8%B0%9C%E7%BC%98%E5%A1%94%EF%BC%89swl.png 1.5x, https://upload.thwiki.cc/thumb/f/f2/%E8%8D%A3%E6%9C%AF%E4%B8%B8%E6%A8%B1%EF%BC%88%E8%B0%9C%E7%BC%98%E5%A1%94%EF%BC%89swl.png/200px-%E8%8D%A3%E6%9C%AF%E4%B8%B8%E6%A8%B1%EF%BC%88%E8%B0%9C%E7%BC%98%E5%A1%94%EF%BC%89swl.png 2x" data-file-width="667" data-file-height="750"></a></td>
   </tr></tbody></table>
-
-
-
-
 
 
 ---

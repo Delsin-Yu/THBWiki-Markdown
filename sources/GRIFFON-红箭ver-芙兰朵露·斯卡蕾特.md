@@ -1,37 +1,21 @@
 # GRIFFON/红箭ver/芙兰朵露·斯卡蕾特
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\f1\ns0%3AGRIFFON%2F%E7%BA%A2%E7%AE%ADver%2F%E8%8A%99%E5%85%B0%E6%9C%B5%E9%9C%B2%C2%B7%E6%96%AF%E5%8D%A1%E8%95%BE%E7%89%B9.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\f1\ns0%3AGRIFFON%2F%E7%BA%A2%E7%AE%ADver%2F%E8%8A%99%E5%85%B0%E6%9C%B5%E9%9C%B2%C2%B7%E6%96%AF%E5%8D%A1%E8%95%BE%E7%89%B9.html -->
 
 芙兰朵露·斯卡蕾特PVCFigure手办模型
 
 本页是关于东方Project  
- **相关实体周边 (未找到链接)** 的词条
-
+**相关实体周边 (未找到链接)**的词条
 ## 模型信息
 
-<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 芙兰朵露·斯卡蕾特 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>红箭ver</td></tr><tr><td class="label">角色</td><td><a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰朵露·斯卡蕾特</a></td></tr><tr><td class="label">原型师</td><td><a href="/index.php?title=%E3%81%82%E3%81%8D%E3%82%84%E3%81%BE_%E3%81%82%E3%81%8D%E3%81%8A&amp;action=edit&amp;redlink=1" class="new" title="あきやま あきお（页面不存在）">あきやま あきお</a></td></tr><tr><td class="label">比例</td><td>1/7</td></tr><tr><td class="label">尺寸</td><td>250mm</td></tr><tr><td class="label">状态</td><td>已发售</td></tr><tr><td class="label">售价</td><td>9800日元</td></tr><tr><td class="label">首发日期</td><td>2011-04-27</td></tr><tr><td class="label">发售方</td><td><a href="/index.php?title=GRIFFON&amp;action=edit&amp;redlink=1" class="new" title="GRIFFON（页面不存在）">GRIFFON</a></td></tr><tr><td class="label">再版日期</td><td>2012-10，2014-06-27</td></tr><tr><td class="label">备注</td><td>有祖国仿版</td></tr></tbody></table>
+<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 芙兰朵露·斯卡蕾特 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>红箭ver</td></tr><tr><td class="label">角色</td><td><a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰朵露·斯卡蕾特</a></td></tr><tr><td class="label">原型师</td><td><a class="new" title="あきやま あきお（页面不存在）">あきやま あきお</a></td></tr><tr><td class="label">比例</td><td>1/7</td></tr><tr><td class="label">尺寸</td><td>250mm</td></tr><tr><td class="label">状态</td><td>已发售</td></tr><tr><td class="label">售价</td><td>9800日元</td></tr><tr><td class="label">首发日期</td><td>2011-04-27</td></tr><tr><td class="label">发售方</td><td><a class="new" title="GRIFFON（页面不存在）">GRIFFON</a></td></tr><tr><td class="label">再版日期</td><td>2012-10，2014-06-27</td></tr><tr><td class="label">备注</td><td>有祖国仿版</td></tr></tbody></table>
 
 GRIFFON/红箭ver/芙兰朵露·斯卡蕾特（周边） - 芙兰朵露·斯卡蕾特PVCFigure手办模型
-
 ## 参考图片
-
-
-
-[](./文件-GRIFFON红箭ver芙兰朵露·斯卡蕾特-1.jpg.md)
-
-
-[](./文件-GRIFFON红箭ver芙兰朵露·斯卡蕾特-2.jpg.md)
-
-
-[](./文件-GRIFFON红箭ver芙兰朵露·斯卡蕾特-3.jpg.md)
-
+<img alt="GRIFFON红箭ver芙兰朵露·斯卡蕾特" src="https://upload.thwiki.cc/thumb/9/91/GRIFFON%E7%BA%A2%E7%AE%ADver%E8%8A%99%E5%85%B0%E6%9C%B5%E9%9C%B2%C2%B7%E6%96%AF%E5%8D%A1%E8%95%BE%E7%89%B9-1.jpg/160px-GRIFFON%E7%BA%A2%E7%AE%ADver%E8%8A%99%E5%85%B0%E6%9C%B5%E9%9C%B2%C2%B7%E6%96%AF%E5%8D%A1%E8%95%BE%E7%89%B9-1.jpg" decoding="async" loading="lazy" width="160" height="178" srcset="https://upload.thwiki.cc/thumb/9/91/GRIFFON%E7%BA%A2%E7%AE%ADver%E8%8A%99%E5%85%B0%E6%9C%B5%E9%9C%B2%C2%B7%E6%96%AF%E5%8D%A1%E8%95%BE%E7%89%B9-1.jpg/240px-GRIFFON%E7%BA%A2%E7%AE%ADver%E8%8A%99%E5%85%B0%E6%9C%B5%E9%9C%B2%C2%B7%E6%96%AF%E5%8D%A1%E8%95%BE%E7%89%B9-1.jpg 1.5x, https://upload.thwiki.cc/thumb/9/91/GRIFFON%E7%BA%A2%E7%AE%ADver%E8%8A%99%E5%85%B0%E6%9C%B5%E9%9C%B2%C2%B7%E6%96%AF%E5%8D%A1%E8%95%BE%E7%89%B9-1.jpg/320px-GRIFFON%E7%BA%A2%E7%AE%ADver%E8%8A%99%E5%85%B0%E6%9C%B5%E9%9C%B2%C2%B7%E6%96%AF%E5%8D%A1%E8%95%BE%E7%89%B9-1.jpg 2x" data-file-width="600" data-file-height="669">
+<img alt="GRIFFON红箭ver芙兰朵露·斯卡蕾特" src="https://upload.thwiki.cc/thumb/8/85/GRIFFON%E7%BA%A2%E7%AE%ADver%E8%8A%99%E5%85%B0%E6%9C%B5%E9%9C%B2%C2%B7%E6%96%AF%E5%8D%A1%E8%95%BE%E7%89%B9-2.jpg/160px-GRIFFON%E7%BA%A2%E7%AE%ADver%E8%8A%99%E5%85%B0%E6%9C%B5%E9%9C%B2%C2%B7%E6%96%AF%E5%8D%A1%E8%95%BE%E7%89%B9-2.jpg" decoding="async" loading="lazy" width="160" height="179" srcset="https://upload.thwiki.cc/thumb/8/85/GRIFFON%E7%BA%A2%E7%AE%ADver%E8%8A%99%E5%85%B0%E6%9C%B5%E9%9C%B2%C2%B7%E6%96%AF%E5%8D%A1%E8%95%BE%E7%89%B9-2.jpg/240px-GRIFFON%E7%BA%A2%E7%AE%ADver%E8%8A%99%E5%85%B0%E6%9C%B5%E9%9C%B2%C2%B7%E6%96%AF%E5%8D%A1%E8%95%BE%E7%89%B9-2.jpg 1.5x, https://upload.thwiki.cc/thumb/8/85/GRIFFON%E7%BA%A2%E7%AE%ADver%E8%8A%99%E5%85%B0%E6%9C%B5%E9%9C%B2%C2%B7%E6%96%AF%E5%8D%A1%E8%95%BE%E7%89%B9-2.jpg/320px-GRIFFON%E7%BA%A2%E7%AE%ADver%E8%8A%99%E5%85%B0%E6%9C%B5%E9%9C%B2%C2%B7%E6%96%AF%E5%8D%A1%E8%95%BE%E7%89%B9-2.jpg 2x" data-file-width="600" data-file-height="670">
+<img alt="GRIFFON红箭ver芙兰朵露·斯卡蕾特" src="https://upload.thwiki.cc/thumb/2/26/GRIFFON%E7%BA%A2%E7%AE%ADver%E8%8A%99%E5%85%B0%E6%9C%B5%E9%9C%B2%C2%B7%E6%96%AF%E5%8D%A1%E8%95%BE%E7%89%B9-3.jpg/160px-GRIFFON%E7%BA%A2%E7%AE%ADver%E8%8A%99%E5%85%B0%E6%9C%B5%E9%9C%B2%C2%B7%E6%96%AF%E5%8D%A1%E8%95%BE%E7%89%B9-3.jpg" decoding="async" loading="lazy" width="160" height="179" srcset="https://upload.thwiki.cc/thumb/2/26/GRIFFON%E7%BA%A2%E7%AE%ADver%E8%8A%99%E5%85%B0%E6%9C%B5%E9%9C%B2%C2%B7%E6%96%AF%E5%8D%A1%E8%95%BE%E7%89%B9-3.jpg/240px-GRIFFON%E7%BA%A2%E7%AE%ADver%E8%8A%99%E5%85%B0%E6%9C%B5%E9%9C%B2%C2%B7%E6%96%AF%E5%8D%A1%E8%95%BE%E7%89%B9-3.jpg 1.5x, https://upload.thwiki.cc/thumb/2/26/GRIFFON%E7%BA%A2%E7%AE%ADver%E8%8A%99%E5%85%B0%E6%9C%B5%E9%9C%B2%C2%B7%E6%96%AF%E5%8D%A1%E8%95%BE%E7%89%B9-3.jpg/320px-GRIFFON%E7%BA%A2%E7%AE%ADver%E8%8A%99%E5%85%B0%E6%9C%B5%E9%9C%B2%C2%B7%E6%96%AF%E5%8D%A1%E8%95%BE%E7%89%B9-3.jpg 2x" data-file-width="600" data-file-height="670">
 公式图
-
-
-
-
-
-
 
 ---
 

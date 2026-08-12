@@ -1,6 +1,6 @@
 # 東方魔宝城_～_Book_of_Star_Mythology./其他
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\5\51\ns0%3A%E6%9D%B1%E6%96%B9%E9%AD%94%E5%AE%9D%E5%9F%8E_%EF%BD%9E_Book_of_Star_Mythology%2E%2F%E5%85%B6%E4%BB%96.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\5\51\ns0%3A%E6%9D%B1%E6%96%B9%E9%AD%94%E5%AE%9D%E5%9F%8E_%EF%BD%9E_Book_of_Star_Mythology%2E%2F%E5%85%B6%E4%BB%96.html -->
 
 Mace's_Secret_Base | 東方邪星章製作チーム
 
@@ -10,16 +10,11 @@ Mace's_Secret_Base | 東方邪星章製作チーム
 - [1 难度标题及说明文字](#难度标题及说明文字)
 - [2 通关后的提示文字](#通关后的提示文字)
 - [3 通关等级评定](#通关等级评定)
-
   - [3.1 通关等级评定方法](#通关等级评定方法)
-
 
 
 - [4 注释](#注释)
 - [5 词条导航](#词条导航)
-
-
-
 
 
 ## 难度标题及说明文字
@@ -109,7 +104,6 @@ Mace's_Secret_Base | 東方邪星章製作チーム
 </tbody></table>
 
 
-
 ## 通关后的提示文字
 
 <table>
@@ -131,17 +125,15 @@ Mace's_Secret_Base | 東方邪星章製作チーム
 </td></tr></tbody></table>
 
 
-
 ## 通关等级评定
   
 通关游戏后获得的评价，以下等级从低至高排列[^cite_note-1]。
   
 
-
 <table>
 
 <tbody><tr>
-<th>级别<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">2</a></sup></th>
+<th>级别<span>[^cite_note-2]</span></th>
 <th>英文</th>
 <th>中文</th>
 <th>说明
@@ -150,25 +142,25 @@ Mace's_Secret_Base | 東方邪星章製作チーム
 <td>ミザール</td>
 <td>Mizar</td>
 <td>开阳星</td>
-<td>这次的结果既没看到<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">3</a></sup>也没听到。<br>下次加油。
+<td>这次的结果既没看到<span>[^cite_note-3]</span>也没听到。<br>下次加油。
 </td></tr>
 <tr>
 <td>ハマル</td>
 <td>Hamal</td>
 <td>娄宿三</td>
-<td>似乎开始明白弹幕的乐趣了呢。<br>你会陷得越来越深的<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">4</a></sup>(*´ω｀*)
+<td>似乎开始明白弹幕的乐趣了呢。<br>你会陷得越来越深的<span>[^cite_note-4]</span>(*´ω｀*)
 </td></tr>
 <tr>
 <td>デネブ</td>
 <td>Deneb</td>
 <td>天津四</td>
-<td>像天鹅<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">5</a></sup>般闪躲，像天鹅般攻击！<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">6</a></sup><br>终于正式成为夏季大三角之一了。
+<td>像天鹅<span>[^cite_note-5]</span>般闪躲，像天鹅般攻击！<span>[^cite_note-6]</span><br>终于正式成为夏季大三角之一了。
 </td></tr>
 <tr>
 <td>スピカ</td>
 <td>Spica</td>
 <td>角宿一</td>
-<td>你已经是可以代表<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">7</a></sup>幻想乡的弹幕少女了。<br>就如同装点春夜的这颗星星一样。
+<td>你已经是可以代表<span>[^cite_note-7]</span>幻想乡的弹幕少女了。<br>就如同装点春夜的这颗星星一样。
 </td></tr>
 <tr>
 <td>アルタイル</td>
@@ -186,7 +178,7 @@ Mace's_Secret_Base | 東方邪星章製作チーム
 <td>カノープス</td>
 <td>Canopus</td>
 <td>老人星（南极仙翁、寿星）</td>
-<td>你的强大正如火焰！<br>是熊熊燃烧的布良星<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">8</a></sup>！
+<td>你的强大正如火焰！<br>是熊熊燃烧的布良星<span>[^cite_note-8]</span>！
 </td></tr>
 <tr>
 <td>シリウス</td>
@@ -203,23 +195,20 @@ Mace's_Secret_Base | 東方邪星章製作チーム
 </tbody></table>
 
 
-
 ### 通关等级评定方法
   
 <small>以下内容来自游戏源代码。</small>  
 
 评价等级与以下几个要素相关：通关分数、miss次数、难度、游戏模式。  
 
-等级分数TMP_SCORE计算公式为： **TMP_SCORE = (score/100000000)-k*death_rate**   
+等级分数TMP_SCORE计算公式为：**TMP_SCORE = (score/100000000)-k*death_rate**  
 
 其中，score即通关时的分数，death_rate在传统遗产模式下等于miss次数，在传奇勇者模式下为(miss次数-5)*2。  
 
 k是一个与难度相关的系数，在Easy/Normal/Hard/Lunatic难度下分别为0.75/1/1.5/2。  
 
 计算得出TMP_SCORE后，对照下表可得出等级。  
-
   
-
 
 <table>
 <caption>通关等级评定表
@@ -295,21 +284,14 @@ k是一个与难度相关的系数，在Easy/Normal/Hard/Lunatic难度下分别�
 <td>TMP_SCORE≥240
 </td></tr></tbody></table>
 
-
-
 [^cite_note-1]: 视星等从高到低排列，也就是越来越亮。
-
-
-## 词条导航
-  
-  
-
-<table><tbody><tr><td><table cellspacing="0" class="nowraplinks mw-collapsible mw-collapsed" style="width:100%;;;"><tbody><tr><th style=";" colspan="3" class="navbox-title"><div class="navbar"><div class="noprint plainlinksneverexpand" style="background-color:transparent; padding:0; font-weight:normal; font-size:80%; white-space:nowrap;"><a href="./東方魔宝城_～_Book_of_Star_Mythology.-导航.md" title="東方魔宝城 ～ Book of Star Mythology./导航"><span style=";;border:none;" title="查看这个模板">查</span></a>&#160;<span style="font-size:80%;">•</span>&#160;<a href="/index.php?title=%E6%9D%B1%E6%96%B9%E9%AD%94%E5%AE%9D%E5%9F%8E_%EF%BD%9E_Book_of_Star_Mythology./%E5%AF%BC%E8%88%AA&amp;action=edit"><span style=";;border:none;" title="您可以编辑这个模板。请在储存变更之前先预览">编</span></a></div></div><span><a href="./東方魔宝城_～_Book_of_Star_Mythology..md" title="東方魔宝城 ～ Book of Star Mythology." unred="">东方魔宝城</a></span></th></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="./東方魔宝城_～_Book_of_Star_Mythology.-角色设定.md" title="東方魔宝城 ～ Book of Star Mythology./角色设定">角色</a></td><td style=";;" class="navbox-list navbox-odd"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>自机</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./東方魔宝城_～_Book_of_Star_Mythology.-设定与剧情-设定文档.md" title="東方魔宝城 ～ Book of Star Mythology./设定与剧情/设定文档">博丽灵梦</a> &#8226; <a href="./東方魔宝城_～_Book_of_Star_Mythology.-设定与剧情-设定文档.md" title="東方魔宝城 ～ Book of Star Mythology./设定与剧情/设定文档">雾雨魔理沙</a> &#8226; <a href="./東方魔宝城_～_Book_of_Star_Mythology.-设定与剧情-设定文档.md" title="東方魔宝城 ～ Book of Star Mythology./设定与剧情/设定文档">东风谷早苗</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>BOSS</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./法布丽蒂丝.md" title="法布丽蒂丝">法布丽蒂丝</a> &#8226; <a href="./伊芙妮娅.md" title="伊芙妮娅">伊芙妮娅</a> &#8226; <a href="./鹰藤鸢子.md" title="鹰藤鸢子">鹰藤鸢子</a> &#8226; <a href="./谢莉亚·莱拉克.md" title="谢莉亚·莱拉克">谢莉亚·莱拉克</a> &#8226; <a href="./藤原妹红（魔宝城）.md" title="藤原妹红（魔宝城）">藤原妹红</a> &#8226; <a href="./望月一曜.md" title="望月一曜">望月一曜</a> &#8226; <a href="./明津祢津.md" title="明津祢津">明津祢津‎</a> &#8226; <a href="./芙玛·米珊朵拉.md" title="芙玛·米珊朵拉">芙玛·米珊朵拉</a> &#8226; <a href="./真田千子.md" title="真田千子">真田千子</a></div></td></tr></tbody></table><div></div></td><td class="navbox-image" style="" rowspan="11"><a href="./文件-東方魔宝城_～_Book_of_Star_Mythology.封面.jpg.md" class="image"><img alt="東方魔宝城 ～ Book of Star Mythology.封面.jpg" src="https://upload.thwiki.cc/thumb/7/76/%E6%9D%B1%E6%96%B9%E9%AD%94%E5%AE%9D%E5%9F%8E_%EF%BD%9E_Book_of_Star_Mythology.%E5%B0%81%E9%9D%A2.jpg/160px-%E6%9D%B1%E6%96%B9%E9%AD%94%E5%AE%9D%E5%9F%8E_%EF%BD%9E_Book_of_Star_Mythology.%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="160" height="159" srcset="https://upload.thwiki.cc/thumb/7/76/%E6%9D%B1%E6%96%B9%E9%AD%94%E5%AE%9D%E5%9F%8E_%EF%BD%9E_Book_of_Star_Mythology.%E5%B0%81%E9%9D%A2.jpg/240px-%E6%9D%B1%E6%96%B9%E9%AD%94%E5%AE%9D%E5%9F%8E_%EF%BD%9E_Book_of_Star_Mythology.%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/7/76/%E6%9D%B1%E6%96%B9%E9%AD%94%E5%AE%9D%E5%9F%8E_%EF%BD%9E_Book_of_Star_Mythology.%E5%B0%81%E9%9D%A2.jpg/320px-%E6%9D%B1%E6%96%B9%E9%AD%94%E5%AE%9D%E5%9F%8E_%EF%BD%9E_Book_of_Star_Mythology.%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="451" data-file-height="447"></a></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="./東方魔宝城_～_Book_of_Star_Mythology.-设定与剧情.md" title="東方魔宝城 ～ Book of Star Mythology./设定与剧情">剧情</a></td><td style=";;" class="navbox-list navbox-even"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>剧情文本</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./東方魔宝城_～_Book_of_Star_Mythology.-设定与剧情-故事背景.md" title="東方魔宝城 ～ Book of Star Mythology./设定与剧情/故事背景">故事背景</a> &#8226; <a href="./東方魔宝城_～_Book_of_Star_Mythology.-设定与剧情-设定文档.md" title="東方魔宝城 ～ Book of Star Mythology./设定与剧情/设定文档">Ex 故事背景</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>游戏对话&amp;结局</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./東方魔宝城_～_Book_of_Star_Mythology.-设定与剧情-博丽灵梦.md" title="東方魔宝城 ～ Book of Star Mythology./设定与剧情/博丽灵梦">博丽灵梦</a> &#8226; <a href="./東方魔宝城_～_Book_of_Star_Mythology.-设定与剧情-雾雨魔理沙.md" title="東方魔宝城 ～ Book of Star Mythology./设定与剧情/雾雨魔理沙">雾雨魔理沙</a> &#8226; <a href="./東方魔宝城_～_Book_of_Star_Mythology.-设定与剧情-东风谷早苗.md" title="東方魔宝城 ～ Book of Star Mythology./设定与剧情/东风谷早苗">东风谷早苗</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>Ex游戏对话</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./東方魔宝城_～_Book_of_Star_Mythology.-设定与剧情-博丽灵梦Ex.md" title="東方魔宝城 ～ Book of Star Mythology./设定与剧情/博丽灵梦Ex">博丽灵梦</a> &#8226; <a href="./東方魔宝城_～_Book_of_Star_Mythology.-设定与剧情-雾雨魔理沙Ex.md" title="東方魔宝城 ～ Book of Star Mythology./设定与剧情/雾雨魔理沙Ex">雾雨魔理沙</a> &#8226; <a href="./東方魔宝城_～_Book_of_Star_Mythology.-设定与剧情-东风谷早苗Ex.md" title="東方魔宝城 ～ Book of Star Mythology./设定与剧情/东风谷早苗Ex">东风谷早苗</a></div></td></tr></tbody></table><div></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">场景</td><td style=";;" class="navbox-list navbox-odd"><div><a href="./妖怪之山.md" title="妖怪之山">妖怪之山</a> &#8226; <a href="./幻想乡上空.md" title="幻想乡上空">天河</a> &#8226; <a href="./迷途竹林.md" title="迷途竹林">迷途竹林</a> &#8226; 不归谷 &#8226; 魔宝城 &#8226; <a href="./三途河.md" title="三途河">三途河</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">音乐</td><td style=";;" class="navbox-list navbox-even"><div><a href="./東方魔宝城_～_Book_of_Star_Mythology.-音乐.md" title="東方魔宝城 ～ Book of Star Mythology./音乐">Music Room</a> &#8226; <a href="./東方魔宝城_Book_of_Star_Mythology.サウンドトラック.md" title="東方魔宝城 Book of Star Mythology.サウンドトラック" unred="">Original Soundtrack</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="/%E6%9D%B1%E6%96%B9%E9%AD%94%E5%AE%9D%E5%9F%8E_%EF%BD%9E_Book_of_Star_Mythology./%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85#附带文档" title="東方魔宝城 ～ Book of Star Mythology./设定与剧情">附带文档</a></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./東方魔宝城_～_Book_of_Star_Mythology.-设定与剧情-设定文档.md" title="東方魔宝城 ～ Book of Star Mythology./设定与剧情/设定文档">设定文档</a> &#8226; <a href="./東方魔宝城_～_Book_of_Star_Mythology.-设定与剧情-素材相关.md" title="東方魔宝城 ～ Book of Star Mythology./设定与剧情/素材相关">素材相关</a> &#8226; <a href="./東方魔宝城_～_Book_of_Star_Mythology.-设定与剧情-readme.md" title="東方魔宝城 ～ Book of Star Mythology./设定与剧情/readme">readme</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">系统</td><td style=";;" class="navbox-list navbox-even"><div><a href="./東方魔宝城_～_Book_of_Star_Mythology.-系统.md" title="東方魔宝城 ～ Book of Star Mythology./系统">机体特性与系统说明</a> &#8226; <a class="mw-selflink selflink">其他</a></div></td></tr></tbody></table></td></tr></tbody></table>
-
-
-
-
-
+[^cite_note-2]: 这里的级别，在游戏文件中由低到高分别被标识为：E/D/C/B/A/S/SS/SSS/X
+[^cite_note-3]: 日语没看到「見ざる」与开阳星「ミザール」音近
+[^cite_note-4]: 日语陷入「嵌る」与娄宿三「ハマル」音近
+[^cite_note-5]: 天津四是天鹅座α星。
+[^cite_note-6]: 拳王阿里的名言，“Float like a butterfly, sting like a bee.”
+[^cite_note-7]: Spica和Speaker的双关。
+[^cite_note-8]: 日语方言中老人星的别名。布良是房总半岛南端的渔港名，读作「めら」，与表示熊熊燃烧的「めらめら」双关。
 
 ---
 

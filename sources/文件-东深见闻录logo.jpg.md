@@ -1,16 +1,12 @@
 # 文件:东深见闻录logo.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e0\ns6%3A%E4%B8%9C%E6%B7%B1%E8%A7%81%E9%97%BB%E5%BD%95logo%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e0\ns6%3A%E4%B8%9C%E6%B7%B1%E8%A7%81%E9%97%BB%E5%BD%95logo%2Ejpg.html -->
 
 东深见闻录 | 社团LOGO
 
   
 东深见logo
   
-
-
-
-
 
 ---
 

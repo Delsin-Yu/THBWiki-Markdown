@@ -1,18 +1,13 @@
 # 文件:カレーライスゲノムbanner.gif
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6f\ns6%3A%E3%82%AB%E3%83%AC%E3%83%BC%E3%83%A9%E3%82%A4%E3%82%B9%E3%82%B2%E3%83%8E%E3%83%A0banner%2Egif.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6f\ns6%3A%E3%82%AB%E3%83%AC%E3%83%BC%E3%83%A9%E3%82%A4%E3%82%B9%E3%82%B2%E3%83%8E%E3%83%A0banner%2Egif.html -->
 
 カレーライスゲノム | 社团LOGO
 
 
 ## 摘要
   
-源地址：[direct image link](https://crg.sakura.ne.jp/dot-e/banner1.gif), [source page](https://crg.sakura.ne.jp/)
-  
-
-
-
-
+源地址：[direct image link](https://crg.sakura.ne.jp/dot-e/banner1.gif), [source page](https://crg.sakura.ne.jp/)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 文件:No_i'll_be_R_!封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\24\ns6%3ANo_i%27ll_be_R_%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\24\ns6%3ANo_i%27ll_be_R_%21%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 MA☆SPARK!_RECORDS | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ MA☆SPARK!_RECORDS | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [No i'll be R&#160;!](./No_i'll_be_R_!.md)  
-该封面包含的角色：- [鬼人正邪](./鬼人正邪.md)
-
-
-
+- [No i'll be R !](./No_i'll_be_R_!.md)该封面包含的角色：
+- [鬼人正邪](./鬼人正邪.md)
 
 
 ---

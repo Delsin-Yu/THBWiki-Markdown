@@ -1,16 +1,12 @@
 # 文件:Our_Oath_Of_Officebanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fc\ns6%3AOur_Oath_Of_Officebanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\fc\ns6%3AOur_Oath_Of_Officebanner%2Ejpg.html -->
 
 Our_Oath_Of_Office | 社团LOGO
 
   
 源地址:http:// heartland.geocities.jp/oo_ooffice/images/newlogo1. jpg
   
-
-
-
-
 
 ---
 

@@ -1,12 +1,11 @@
 # spacemiko
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\8\89\ns0%3Aspacemiko.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\8\89\ns0%3Aspacemiko.html -->
 
 2015年12月25日 由 40music  发布的EP同人专辑，分级为 一般向
 
 本页是关于东方Project  
- **二次创作同人专辑 (未找到链接)** 的词条
-
+**[二次创作同人专辑](./二次创作.md#同人音乐)**的词条
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-spacemiko封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/1/1b/spacemiko%E5%B0%81%E9%9D%A2.jpg/224px-spacemiko%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="224" srcset="https://upload.thwiki.cc/thumb/1/1b/spacemiko%E5%B0%81%E9%9D%A2.jpg/336px-spacemiko%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/1/1b/spacemiko%E5%B0%81%E9%9D%A2.jpg/448px-spacemiko%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="700" data-file-height="700"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></div></td>
@@ -15,31 +14,24 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://40songs.bandcamp.com/album/spacemiko">https://40songs.bandcamp.com/album/spacemiko</a></td></tr></tbody></table>
 
 spacemiko（同人专辑，40music，2015） - 2015年12月25日 由 40music  发布的EP同人专辑，分级为 一般向
-
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://40songs.bandcamp.com/album/spacemiko">bandcamp</a></td></tr></tbody></table>
-
 
 
 ## Staff
   
- **Arrangement**   
+**Arrangement**  
 
-<table><tbody><tr><td><a href="/index.php?title=40chyan&amp;action=edit&amp;redlink=1" class="new" title="40chyan（页面不存在）">40chyan</a></td><td><a href="./40music.md" title="40music">40music</a></td><td>Tr.1-3</td></tr></tbody></table>
-
+<table><tbody><tr><td><a class="new" title="40chyan（页面不存在）">40chyan</a></td><td><a href="./40music.md" title="40music">40music</a></td><td>Tr.1-3</td></tr></tbody></table>
 
 
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="nuclear_fusion" colspan="2" class="title">nuclear fusion<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=40chyan&amp;ogmusic=霊知の太陽信仰　～ Nuclear Fusion&amp;fromwiki=spacemiko"><span title="搜索相似同人曲"></span></a></span></td><td class="time">01:51</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=40chyan&amp;action=edit&amp;redlink=1" class="new" title="40chyan（页面不存在）">40chyan</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，40chyan&amp;fromwiki=spacemiko"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=霊知の太陽信仰　～ Nuclear Fusion&amp;fromwiki=spacemiko"><span></span></a></span><div class="ogmusic"><a href="./霊知の太陽信仰_～_Nuclear_Fusion.md" class="mw-redirect" title="霊知の太陽信仰 ～ Nuclear Fusion">霊知の太陽信仰　～ Nuclear Fusion</a></div><div class="source"><a href="./东方地灵殿_～_Subterranean_Animism..md" class="mw-redirect" title="东方地灵殿 ～ Subterranean Animism.">东方地灵殿　～ Subterranean Animism.</a></div></td></tr>
-<tr><td id="2" class="infoYD"><b>02</b></td><td id="oriental_dark_flight" colspan="2" class="title">oriental dark flight<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=40chyan&amp;ogmusic=オリエンタルダークフライト&amp;fromwiki=spacemiko"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:59</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=40chyan&amp;action=edit&amp;redlink=1" class="new" title="40chyan（页面不存在）">40chyan</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，40chyan&amp;fromwiki=spacemiko"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=オリエンタルダークフライト&amp;fromwiki=spacemiko"><span></span></a></span><div class="ogmusic"><a href="./オリエンタルダークフライト.md" class="mw-redirect" title="オリエンタルダークフライト">オリエンタルダークフライト</a></div><div class="source"><a href="./东方花映塚_～_Phantasmagoria_of_Flower_View..md" class="mw-redirect" title="东方花映塚 ～ Phantasmagoria of Flower View.">东方花映塚　～ Phantasmagoria of Flower View.</a></div></td></tr>
-<tr><td id="3" class="infoYD"><b>03</b></td><td id="Futasuiwa(demo_version)" colspan="2" class="title">Futasuiwa(demo version)<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=40chyan&amp;ogmusic=佐渡の二ッ岩&amp;fromwiki=spacemiko"><span title="搜索相似同人曲"></span></a></span></td><td class="time">02:28</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=40chyan&amp;action=edit&amp;redlink=1" class="new" title="40chyan（页面不存在）">40chyan</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，40chyan&amp;fromwiki=spacemiko"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=佐渡の二ッ岩&amp;fromwiki=spacemiko"><span></span></a></span><div class="ogmusic"><a href="./佐渡の二ッ岩.md" class="mw-redirect" title="佐渡の二ッ岩">佐渡の二ッ岩</a></div><div class="source"><a href="./东方神灵庙_～_Ten_Desires..md" class="mw-redirect" title="东方神灵庙 ～ Ten Desires.">东方神灵庙　～ Ten Desires.</a></div></td></tr></tbody></table>
-
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="nuclear_fusion" colspan="2" class="title">nuclear fusion</td><td class="time">01:51</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="40chyan（页面不存在）">40chyan</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./灵知的太阳信仰_～_Nuclear_Fusion.md" class="mw-redirect" title="霊知の太陽信仰 ～ Nuclear Fusion">霊知の太陽信仰　～ Nuclear Fusion</a></div><div class="source"><a href="./东方地灵殿.md" class="mw-redirect" title="东方地灵殿 ～ Subterranean Animism.">东方地灵殿　～ Subterranean Animism.</a></div></td></tr>
+<tr><td id="2" class="infoYD"><b>02</b></td><td id="oriental_dark_flight" colspan="2" class="title">oriental dark flight</td><td class="time">03:59</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="40chyan（页面不存在）">40chyan</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./Oriental_Dark_Flight.md" class="mw-redirect" title="オリエンタルダークフライト">オリエンタルダークフライト</a></div><div class="source"><a href="./东方花映塚.md" class="mw-redirect" title="东方花映塚 ～ Phantasmagoria of Flower View.">东方花映塚　～ Phantasmagoria of Flower View.</a></div></td></tr>
+<tr><td id="3" class="infoYD"><b>03</b></td><td id="Futasuiwa(demo_version)" colspan="2" class="title">Futasuiwa(demo version)</td><td class="time">02:28</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a class="new" title="40chyan（页面不存在）">40chyan</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><div class="ogmusic"><a href="./佐渡的二岩.md" class="mw-redirect" title="佐渡の二ッ岩">佐渡の二ッ岩</a></div><div class="source"><a href="./东方神灵庙.md" class="mw-redirect" title="东方神灵庙 ～ Ten Desires.">东方神灵庙　～ Ten Desires.</a></div></td></tr></tbody></table>
 
 
 ## 评论
-
-
-
 
 ---
 

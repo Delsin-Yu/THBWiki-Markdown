@@ -1,6 +1,6 @@
 # 文件:Bedroom_on_Shanghai_Spring_E.P封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e7\ns6%3ABedroom_on_Shanghai_Spring_E%2EP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\e\e7\ns6%3ABedroom_on_Shanghai_Spring_E%2EP%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 おかのうえ | 专辑封面 | 封面图片
 
@@ -8,12 +8,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [Bedroom on Shanghai Spring E.P](./Bedroom_on_Shanghai_Spring_E.P.md)  
-该封面包含的角色：- [红美铃](./红美铃.md)- 十六夜咲夜 (未找到链接)源地址：[[1]](https://1.bp.blogspot.com/__wV2U_W3uxE/S5usriVRuVI/AAAAAAAAADs/RdHnT2Fhao8/s1600/test003.jpg)
-
-
-
-
+- [Bedroom on Shanghai Spring E.P](./Bedroom_on_Shanghai_Spring_E.P.md)该封面包含的角色：
+- [红美铃](./红美铃.md)
+- [十六夜咲夜](./十六夜咲夜.md)
+源地址：[\[1\]](https://1.bp.blogspot.com/__wV2U_W3uxE/S5usriVRuVI/AAAAAAAAADs/RdHnT2Fhao8/s1600/test003.jpg)
 
 ---
 

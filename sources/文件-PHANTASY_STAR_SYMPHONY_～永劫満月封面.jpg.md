@@ -1,6 +1,6 @@
 # 文件:PHANTASY_STAR_SYMPHONY_～永劫満月封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d8\ns6%3APHANTASY_STAR_SYMPHONY_%EF%BD%9E%E6%B0%B8%E5%8A%AB%E6%BA%80%E6%9C%88%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d8\ns6%3APHANTASY_STAR_SYMPHONY_%EF%BD%9E%E6%B0%B8%E5%8A%AB%E6%BA%80%E6%9C%88%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 緋月ノ雫
 
@@ -8,11 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [PHANTASY STAR SYMPHONY ～永劫満月](./PHANTASY_STAR_SYMPHONY_～永劫満月.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- [蓬莱山辉夜](./蓬莱山辉夜.md)- [藤原妹红](./藤原妹红.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [PHANTASY STAR SYMPHONY ～永劫満月](./PHANTASY_STAR_SYMPHONY_～永劫満月.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [蓬莱山辉夜](./蓬莱山辉夜.md)
+- [藤原妹红](./藤原妹红.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

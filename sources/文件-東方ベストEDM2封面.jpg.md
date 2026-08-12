@@ -1,6 +1,6 @@
 # 文件:東方ベストEDM2封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\20\ns6%3A%E6%9D%B1%E6%96%B9%E3%83%99%E3%82%B9%E3%83%88EDM2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\20\ns6%3A%E6%9D%B1%E6%96%B9%E3%83%99%E3%82%B9%E3%83%88EDM2%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 SPACELECTRO | 专辑封面 | 封面图片
 
@@ -8,11 +8,11 @@ SPACELECTRO | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方ベストEDM2](./東方ベストEDM2.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)- 十六夜咲夜 (未找到链接)- [东风谷早苗](./东风谷早苗.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [東方ベストEDM2](./東方ベストEDM2.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+- [十六夜咲夜](./十六夜咲夜.md)
+- [东风谷早苗](./东风谷早苗.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

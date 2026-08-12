@@ -1,6 +1,6 @@
 # 文件:東方絢文禄_尾張の巻_第十三弾_会場限定CD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d0\ns6%3A%E6%9D%B1%E6%96%B9%E7%B5%A2%E6%96%87%E7%A6%84_%E5%B0%BE%E5%BC%B5%E3%81%AE%E5%B7%BB_%E7%AC%AC%E5%8D%81%E4%B8%89%E5%BC%BE_%E4%BC%9A%E5%A0%B4%E9%99%90%E5%AE%9ACD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\d\d0\ns6%3A%E6%9D%B1%E6%96%B9%E7%B5%A2%E6%96%87%E7%A6%84_%E5%B0%BE%E5%BC%B5%E3%81%AE%E5%B7%BB_%E7%AC%AC%E5%8D%81%E4%B8%89%E5%BC%BE_%E4%BC%9A%E5%A0%B4%E9%99%90%E5%AE%9ACD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Pizuya's_Cell | 专辑封面 | 封面图片
 
@@ -10,11 +10,10 @@ Pizuya's_Cell | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [東方絢文禄 尾張の巻 第十三弾 会場限定CD](./東方絢文禄_尾張の巻_第十三弾_会場限定CD.md)  
-该封面包含的角色：- [露娜切露德](./露娜切露德.md)- [桑尼米尔克](./桑尼米尔克.md)- [斯塔萨菲雅](./斯塔萨菲雅.md)
-
-
-
+- [東方絢文禄 尾張の巻 第十三弾 会場限定CD](./東方絢文禄_尾張の巻_第十三弾_会場限定CD.md)该封面包含的角色：
+- [露娜切露德](./露娜切露德.md)
+- [桑尼米尔克](./桑尼米尔克.md)
+- [斯塔萨菲雅](./斯塔萨菲雅.md)
 
 
 ---

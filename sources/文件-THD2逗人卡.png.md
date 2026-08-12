@@ -1,12 +1,8 @@
 # 文件:THD2逗人卡.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a7\ns6%3ATHD2%E9%80%97%E4%BA%BA%E5%8D%A1%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a7\ns6%3ATHD2%E9%80%97%E4%BA%BA%E5%8D%A1%2Epng.html -->
 
 东方DOTS玩家社群
-
-
-
-
 
 
 ---

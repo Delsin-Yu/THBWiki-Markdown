@@ -1,6 +1,6 @@
 # 文件:Hiphop_Mix_of_UFO封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\16\ns6%3AHiphop_Mix_of_UFO%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\16\ns6%3AHiphop_Mix_of_UFO%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Moon-Tone | 专辑封面 | 封面图片
 
@@ -10,16 +10,11 @@ Moon-Tone | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [Hiphop Mix of UFO](./Hiphop_Mix_of_UFO.md)  
-该封面包含的角色：- [封兽鵺](./封兽鵺.md)
+- [Hiphop Mix of UFO](./Hiphop_Mix_of_UFO.md)该封面包含的角色：
+- [封兽鵺](./封兽鵺.md)
 
   
-源地址：[图片](https://f4.bcbits.com/img/a2885626591_0.jpg) [官网](https://moon-tone.bandcamp.com/album/hiphop-mix-of-ufo)
-  
-
-
-
-
+源地址：[图片](https://f4.bcbits.com/img/a2885626591_0.jpg) [官网](https://moon-tone.bandcamp.com/album/hiphop-mix-of-ufo)  
 
 ---
 

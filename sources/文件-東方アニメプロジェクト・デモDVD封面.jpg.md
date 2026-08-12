@@ -1,6 +1,6 @@
 # 文件:東方アニメプロジェクト・デモDVD封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b5\ns6%3A%E6%9D%B1%E6%96%B9%E3%82%A2%E3%83%8B%E3%83%A1%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%83%BB%E3%83%87%E3%83%A2DVD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b5\ns6%3A%E6%9D%B1%E6%96%B9%E3%82%A2%E3%83%8B%E3%83%A1%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%83%BB%E3%83%87%E3%83%A2DVD%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 封面图片 | 舞风 | 视频封面
 
@@ -8,11 +8,8 @@
 使用了本文件作封面图片的作品：
   
 
-- [東方アニメプロジェクト・デモDVD](./東方アニメプロジェクト・デモDVD.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [東方アニメプロジェクト・デモDVD](./東方アニメプロジェクト・デモDVD.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

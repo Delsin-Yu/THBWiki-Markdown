@@ -1,16 +1,12 @@
 # 文件:Kota-rocKbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c1\ns6%3AKota-rocKbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c1\ns6%3AKota-rocKbanner%2Ejpg.html -->
 
 Kota-rocK | 社团LOGO
 
   
-源地址:https&#160;:// web.archive.org/web/20131211182817im_/http&#160;://kota-rock.com/data/img/banner_200/k_01. jpg
+源地址:https :// web.archive.org/web/20131211182817im_/http ://kota-rock.com/data/img/banner_200/k_01. jpg
   
-
-
-
-
 
 ---
 

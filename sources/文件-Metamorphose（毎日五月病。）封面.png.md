@@ -1,6 +1,6 @@
 # 文件:Metamorphose（毎日五月病。）封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\81\ns6%3AMetamorphose%EF%BC%88%E6%AF%8E%E6%97%A5%E4%BA%94%E6%9C%88%E7%97%85%E3%80%82%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\81\ns6%3AMetamorphose%EF%BC%88%E6%AF%8E%E6%97%A5%E4%BA%94%E6%9C%88%E7%97%85%E3%80%82%EF%BC%89%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 专辑封面 | 封面图片 | 毎日五月病。
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [Metamorphose（毎日五月病。）](./Metamorphose（毎日五月病。）.md)  
-该封面包含的角色：- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)- [雾雨魔理沙](./雾雨魔理沙.md)
-
-
-
+- [Metamorphose（毎日五月病。）](./Metamorphose（毎日五月病。）.md)该封面包含的角色：
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
 
 
 ---

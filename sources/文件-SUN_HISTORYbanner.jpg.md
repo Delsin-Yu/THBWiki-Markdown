@@ -1,16 +1,11 @@
 # 文件:SUN_HISTORYbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f3\ns6%3ASUN_HISTORYbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f3\ns6%3ASUN_HISTORYbanner%2Ejpg.html -->
 
 SUN_HISTORY | 社团LOGO
 
   
-源地址：[[1]](https://blog-imgs-42-origin.fc2.com/s/u/n/sunhistory/banana.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://blog-imgs-42-origin.fc2.com/s/u/n/sunhistory/banana.jpg)  
 
 ---
 

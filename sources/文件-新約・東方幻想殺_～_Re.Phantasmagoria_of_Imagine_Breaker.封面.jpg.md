@@ -1,6 +1,6 @@
 # 文件:新約・東方幻想殺_～_Re.Phantasmagoria_of_Imagine_Breaker.封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bd\ns6%3A%E6%96%B0%E7%B4%84%E3%83%BB%E6%9D%B1%E6%96%B9%E5%B9%BB%E6%83%B3%E6%AE%BA_%EF%BD%9E_Re%2EPhantasmagoria_of_Imagine_Breaker%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\bd\ns6%3A%E6%96%B0%E7%B4%84%E3%83%BB%E6%9D%B1%E6%96%B9%E5%B9%BB%E6%83%B3%E6%AE%BA_%EF%BD%9E_Re%2EPhantasmagoria_of_Imagine_Breaker%2E%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Gore | 封面图片 | 软件封面
 
@@ -8,12 +8,9 @@ Gore | 封面图片 | 软件封面
 使用了本文件作封面图片的作品：
   
 
-- [新約・東方幻想殺 ～ Re.Phantasmagoria of Imagine Breaker.](./新約・東方幻想殺_～_Re.Phantasmagoria_of_Imagine_Breaker..md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)1
-
-
-
-
+- [新約・東方幻想殺 ～ Re.Phantasmagoria of Imagine Breaker.](./新約・東方幻想殺_～_Re.Phantasmagoria_of_Imagine_Breaker..md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
+1
 
 ---
 

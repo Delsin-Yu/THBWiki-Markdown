@@ -1,6 +1,6 @@
 # 文件:Drops_of_Affection～無伴奏男声合唱による封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\96\ns6%3ADrops_of_Affection%EF%BD%9E%E7%84%A1%E4%BC%B4%E5%A5%8F%E7%94%B7%E5%A3%B0%E5%90%88%E5%94%B1%E3%81%AB%E3%82%88%E3%82%8B%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\96\ns6%3ADrops_of_Affection%EF%BD%9E%E7%84%A1%E4%BC%B4%E5%A5%8F%E7%94%B7%E5%A3%B0%E5%90%88%E5%94%B1%E3%81%AB%E3%82%88%E3%82%8B%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 幻想郷グリークラブ
 
@@ -8,11 +8,9 @@
 使用了本文件作封面图片的作品：
   
 
-- [Drops of Affection～無伴奏男声合唱による](./Drops_of_Affection～無伴奏男声合唱による.md)  
-该封面包含的角色：- [魂魄妖梦](./魂魄妖梦.md)- [八云紫](./八云紫.md)
-
-
-
+- [Drops of Affection～無伴奏男声合唱による](./Drops_of_Affection～無伴奏男声合唱による.md)该封面包含的角色：
+- [魂魄妖梦](./魂魄妖梦.md)
+- [八云紫](./八云紫.md)
 
 
 ---

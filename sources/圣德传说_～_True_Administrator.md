@@ -1,41 +1,31 @@
 # 圣德传说_～_True_Administrator
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\64\ns0%3A%E5%9C%A3%E5%BE%B7%E4%BC%A0%E8%AF%B4_%EF%BD%9E_True_Administrator.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\64\ns0%3A%E5%9C%A3%E5%BE%B7%E4%BC%A0%E8%AF%B4_%EF%BD%9E_True_Administrator.html -->
 
 由 ZUN 创作的官方曲目，原名 聖徳伝説　～ True Administrator
 
 本页是关于东方Project  
- **原作音乐** 的词条
-
+**原作音乐**的词条
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 出现作品](#出现作品)
 - [3 音乐文件](#音乐文件)
-
   - [3.1 东方神灵庙](#东方神灵庙)
   - [3.2 暗黑能乐集心绮楼](#暗黑能乐集心绮楼)
   - [3.3 深秘乐曲集](#深秘乐曲集)
 
 
-
 - [4 说明文本](#说明文本)
-
   - [4.1 东方神灵庙](#东方神灵庙_2)
   - [4.2 东方心绮楼](#东方心绮楼)
   - [4.3 暗黑能乐集心绮楼](#暗黑能乐集心绮楼_2)
 
 
-
 - [5 其他资料](#其他资料)
-
   - [5.1 乐理资讯](#乐理资讯)
   - [5.2 分析考据](#分析考据)
   - [5.3 二次同人数据](#二次同人数据)
-
-
-
-
 
 
 
@@ -45,7 +35,6 @@
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">聖徳伝説　～ True Administrator</td></tr><tr><td><b>译名</b></td><td>圣德传说 ～ True Administrator</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 圣德传说 ～ True Administrator（曲目） - 由 ZUN 创作的官方曲目，原名 聖徳伝説　～ True Administrator
-
 ## 出现作品
 
 <table>
@@ -60,7 +49,6 @@
 </tbody></table>
 
 
-
 ## 音乐文件
 
 ### 东方神灵庙
@@ -73,15 +61,12 @@
 </td></tr></tbody></table>
 
 
-
 ### 暗黑能乐集心绮楼
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-TFM-006a_08.mp3.md" title="文件:TFM-006a 08.mp3">TFM-006a_08.mp3</a><br><audio src="https://upload.thwiki.cc/e/e6/TFM-006a_08.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track08.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>4:41</td></tr></tbody></table>
 
 
-
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-TFM-006b_09.mp3.md" title="文件:TFM-006b 09.mp3">TFM-006b_09.mp3</a><br><audio src="https://upload.thwiki.cc/a/a3/TFM-006b_09.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track09.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>0:22</td></tr></tbody></table>
-
 
 
 ### 深秘乐曲集
@@ -89,11 +74,11 @@
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-TFM-007b_06.mp3.md" title="文件:TFM-007b 06.mp3">TFM-007b_06.mp3</a><br><audio src="https://upload.thwiki.cc/c/c7/TFM-007b_06.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track06.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>4:53</td></tr></tbody></table>
 
 
-
 ## 说明文本
 
 ### 东方神灵庙
-- Music Room (未找到链接)
+
+- [Music Room](./东方神灵庙-Music.md#6面BOSS丰聪耳神子角色曲)
 
 　丰聪耳神子的主题曲。  
   
@@ -101,47 +86,52 @@
 　曲子方面，我觉得不做得又强劲又帅气会很失礼所以就变成这种感觉。  
 　最近突然开始被人们认为是个架空的人物，既然如此那我就  
 　请他搬家来到幻想乡中了。神明保佑啊——
-
 ### 东方心绮楼
-- Music Room (未找到链接)
+
+- [Music Room](./东方心绮楼-Music.md#丰聪耳神子角色曲神灵庙)
 
 因为放弃了当初预定的特效，所以感觉乐器编组有点走形了。基本上乐器使用得还  
 是越少越好呢。适当地用合成背景音色演奏和音只是撒娇而已！小三度上的转调也  
 是撒娇！！　没有时间我就会撒娇！！！　　　　　　　　　　　　吉他. にいむ
-
 ### 暗黑能乐集心绮楼
-- あきやまうに的文本 (未找到链接)
+
+- [あきやまうに的文本](./暗黑能乐集心绮楼-光盘.md#あきやまうに-6)
 
 人气爆发／为了让人知道进入了人气爆发状态，所以全员都是相似的编曲。时间也是固定20秒，所以拍速相同，小节数也相同。
-
 ## 其他资料
 
 ### 乐理资讯
 
 ### 分析考据
   
- **聖徳伝説　～ True Administrator**  圣德传说　～ True Administrator
+**聖徳伝説 ～ True Administrator** 圣德传说　～ True Administrator
   
 
-- 聖徳伝説
+- 聖徳伝説 
   - [神灵庙曲评](./东方神灵庙-Music.md)：
+
 
 
 
 <table><tbody><tr class="tt-comment" id="MusicRoom-39" data-pos="&#91;&quot;MusicRoom&quot;,39&#93;"><td colspan="2" class="tt-ja" lang="ja"><div class="poem">　豊聡耳の神子のテーマです。<br><br>　知らない人はいない歴史上の偉人がモチーフになっています。<br>　曲は力強く、そして格好良くなければ失礼だと思ったのでこんな感じに。<br>　最近になって急に架空の人物にされかかっていますが、そんな事も<br>　あって幻想郷にお引っ越しして頂きました。ありがたやー</div></td><td colspan="2" class="tt-zh" lang="zh"><div class="poem">　丰聪耳神子的主题曲。<br><br>　无人不知无人不晓的历史伟人就是这个角色的原型。<br>　曲子方面，我觉得不做得又强劲又帅气会很失礼所以就变成这种感觉。<br>　最近突然开始被人们认为是个架空的人物，既然如此那我就<br>　请他搬家来到幻想乡中了。神明保佑啊——<br></div></td></tr></tbody></table>
 
 
-- 在现代日本，“圣德太子虚构说”非常有名，那些许多超人的传说正在成为幻想的东西。
+- 在现代日本，“圣德太子虚构说”非常有名，那些许多超人的传说正在成为幻想的东西。 
   - 曲名有一些史克威尔艾尼克斯公司的ARPG系列「圣剑传说」的意思。
 
-- Administer、Administrate
-  - 治理（国家、城市等），进行行政管理。
+
+- Administer、Administrate 
+  - 治理（国家、城市等），进行行政管理。 
     - Administrator即表示「～的人」的名词化后缀。
 
 
-- True Administrator
-  - 参考以上，可翻译为「真正的执政者」。
+
+
+- True Administrator 
+  - 参考以上，可翻译为「真正的执政者」。 
     - 神子的原型圣德太子即飞鸟时代以辅佐推古天皇为名执政的人物。
+
+
 
 
 
@@ -158,17 +148,6 @@
 <tr><td>Arrange</td><td>471</td></tr>
 <tr><td>Vocal率</td><td>32.71%</td></tr>
 </tbody></table>
-
-
-
-
-  
-  
-
-  
-
-
-
 
 
 ---

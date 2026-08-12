@@ -1,6 +1,6 @@
 # 文件:FORLANE_｜_REI封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6f\ns6%3AFORLANE_%EF%BD%9C_REI%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\6f\ns6%3AFORLANE_%EF%BD%9C_REI%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 ALiCE'S_EMOTiON | 专辑封面 | 封面图片
 
@@ -8,11 +8,8 @@ ALiCE'S_EMOTiON | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [FORLANE ｜ REI](./FORLANE_｜_REI.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
-
-
-
+- [FORLANE ｜ REI](./FORLANE_｜_REI.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
 
 ---

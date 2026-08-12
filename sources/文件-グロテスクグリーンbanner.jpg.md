@@ -1,16 +1,11 @@
 # 文件:グロテスクグリーンbanner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\74\ns6%3A%E3%82%B0%E3%83%AD%E3%83%86%E3%82%B9%E3%82%AF%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\74\ns6%3A%E3%82%B0%E3%83%AD%E3%83%86%E3%82%B9%E3%82%AF%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3banner%2Ejpg.html -->
 
 グロテスクグリーン | 社团LOGO
 
   
-源地址：[[1]](https://web.archive.org/web/20140221182239im_/http://grogre.xxxxxxxx.jp/banner.jpg)
-  
-
-
-
-
+源地址：[\[1\]](https://web.archive.org/web/20140221182239im_/http://grogre.xxxxxxxx.jp/banner.jpg)  
 
 ---
 

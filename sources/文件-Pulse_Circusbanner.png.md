@@ -1,18 +1,13 @@
 # 文件:Pulse_Circusbanner.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\28\ns6%3APulse_Circusbanner%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\2\28\ns6%3APulse_Circusbanner%2Epng.html -->
 
 Pulse_Circus | 社团LOGO
 
 
 ## 文件说明
   
-源地址：[direct image link](http://www6.plala.or.jp/maximus/pulsecircus.PNG), [source page](http://www6.plala.or.jp/maximus/index.html)
-  
-
-
-
-
+源地址：[direct image link](http://www6.plala.or.jp/maximus/pulsecircus.PNG), [source page](http://www6.plala.or.jp/maximus/index.html)  
 
 ---
 

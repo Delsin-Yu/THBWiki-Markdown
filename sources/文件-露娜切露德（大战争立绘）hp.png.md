@@ -1,12 +1,8 @@
 # 文件:露娜切露德（大战争立绘）hp.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7a\ns6%3A%E9%9C%B2%E5%A8%9C%E5%88%87%E9%9C%B2%E5%BE%B7%EF%BC%88%E5%A4%A7%E6%88%98%E4%BA%89%E7%AB%8B%E7%BB%98%EF%BC%89hp%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\7\7a\ns6%3A%E9%9C%B2%E5%A8%9C%E5%88%87%E9%9C%B2%E5%BE%B7%EF%BC%88%E5%A4%A7%E6%88%98%E4%BA%89%E7%AB%8B%E7%BB%98%EF%BC%89hp%2Epng.html -->
 
 妖精大战争 | 官方游戏立绘 | 比良坂真琴绘 | 露娜切露德
-
-
-
-
 
 
 ---

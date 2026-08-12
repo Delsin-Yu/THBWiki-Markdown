@@ -1,6 +1,6 @@
 # 文件:DEADLINE_LIMIT_+封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\81\ns6%3ADEADLINE_LIMIT_%2B%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\81\ns6%3ADEADLINE_LIMIT_%2B%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 モーザン倶楽部 | 同人志封面 | 封面图片
 
@@ -8,11 +8,10 @@
 使用了本文件作封面图片的作品：
   
 
-- [DEADLINE LIMIT +](./DEADLINE_LIMIT_+.md)  
-该封面包含的角色：- [橙](./橙.md)- [八云蓝](./八云蓝.md)- [八云紫](./八云紫.md)
-
-
-
+- [DEADLINE LIMIT +](./DEADLINE_LIMIT_+.md)该封面包含的角色：
+- [橙](./橙.md)
+- [八云蓝](./八云蓝.md)
+- [八云紫](./八云紫.md)
 
 
 ---

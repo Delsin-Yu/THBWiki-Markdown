@@ -1,12 +1,8 @@
 # 文件:绯之间banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\86\ns6%3A%E7%BB%AF%E4%B9%8B%E9%97%B4banner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\86\ns6%3A%E7%BB%AF%E4%B9%8B%E9%97%B4banner%2Ejpg.html -->
 
 社团LOGO | 绯之间
-
-
-
-
 
 
 ---

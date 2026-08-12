@@ -1,6 +1,6 @@
 # 文件:CrestⅡ_魂牽夢縈封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f5\ns6%3ACrest%E2%85%A1_%E9%AD%82%E7%89%BD%E5%A4%A2%E7%B8%88%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\f\f5\ns6%3ACrest%E2%85%A1_%E9%AD%82%E7%89%BD%E5%A4%A2%E7%B8%88%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Crest | 专辑封面 | 封面图片
 
@@ -8,11 +8,9 @@ Crest | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [CrestⅡ 魂牽夢縈](./CrestⅡ_魂牽夢縈.md)  
-该封面包含的角色：- [蓬莱山辉夜](./蓬莱山辉夜.md)- [藤原妹红](./藤原妹红.md)
-
-
-
+- [CrestⅡ 魂牽夢縈](./CrestⅡ_魂牽夢縈.md)该封面包含的角色：
+- [蓬莱山辉夜](./蓬莱山辉夜.md)
+- [藤原妹红](./藤原妹红.md)
 
 
 ---

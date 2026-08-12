@@ -1,14 +1,11 @@
 # 文件:鶯壱里banner.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1d\ns6%3A%E9%B6%AF%E5%A3%B1%E9%87%8Cbanner%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\1d\ns6%3A%E9%B6%AF%E5%A3%B1%E9%87%8Cbanner%2Ejpg.html -->
 
 社团LOGO | 鶯壱里
 
 
 ## 摘要
-
-
-
 
 ---
 

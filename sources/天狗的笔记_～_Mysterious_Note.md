@@ -1,30 +1,24 @@
 # 天狗的笔记_～_Mysterious_Note
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\21\ns0%3A%E5%A4%A9%E7%8B%97%E7%9A%84%E7%AC%94%E8%AE%B0_%EF%BD%9E_Mysterious_Note.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\21\ns0%3A%E5%A4%A9%E7%8B%97%E7%9A%84%E7%AC%94%E8%AE%B0_%EF%BD%9E_Mysterious_Note.html -->
 
 由 ZUN 创作的官方曲目，原名 天狗の手帖　～ Mysterious Note
 
 本页是关于东方Project  
- **原作音乐** 的词条
-
+**原作音乐**的词条
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 出现作品](#出现作品)
 - [3 音乐文件](#音乐文件)
-
   - [3.1 东方文花帖](#东方文花帖)
 
 
-
 - [4 说明文本](#说明文本)
-
   - [4.1 东方文花帖](#东方文花帖_2)
 
 
-
 - [5 其他资料](#其他资料)
-
   - [5.1 乐理资讯](#乐理资讯)
   - [5.2 分析考据](#分析考据)
   - [5.3 二次同人数据](#二次同人数据)
@@ -32,22 +26,16 @@
 
 
 
-
-
-
-
 ## 基本信息
 
-<table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">天狗の手帖　～ Mysterious Note</td></tr><tr><td><b>译名</b></td><td>天狗的笔记 ～ Mysterious Note</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>关联</td></tr><tr><td style="padding-left:15px"><b>相关曲</b></td><td><a href="./テーマ・オブ・イースタンストーリー.md" class="mw-redirect" title="テーマ・オブ・イースタンストーリー">テーマ・オブ・イースタンストーリー</a></td></tr><tr><td style="padding-left:15px"><b>　来源</b></td><td>幺乐团的历史　～ Akyu's Untouched Score vol.5</td></tr></tbody></table>
+<table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">天狗の手帖　～ Mysterious Note</td></tr><tr><td><b>译名</b></td><td>天狗的笔记 ～ Mysterious Note</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>关联</td></tr><tr><td style="padding-left:15px"><b>相关曲</b></td><td><a href="./Theme_of_Eastern_Story.md" class="mw-redirect" title="テーマ・オブ・イースタンストーリー">テーマ・オブ・イースタンストーリー</a></td></tr><tr><td style="padding-left:15px"><b>　来源</b></td><td>幺乐团的历史　～ Akyu's Untouched Score vol.5</td></tr></tbody></table>
 
 天狗的笔记 ～ Mysterious Note（曲目） - 由 ZUN 创作的官方曲目，原名 天狗の手帖　～ Mysterious Note
-
 ## 出现作品
 
 <table>
 <tbody><tr><td>2005年12月30日（Comic Market 69）</td><td><b><a href="./东方文花帖.md" title="东方文花帖">东方文花帖</a></b></td><td>标题画面主题曲</td><td style="padding-left:5px;">天狗の手帖　～ Mysterious Note（天狗的笔记 ～ Mysterious Note）</td><td style="padding-left:10px;">编曲：ZUN</td></tr>
 </tbody></table>
-
 
 
 ## 音乐文件
@@ -62,35 +50,37 @@
 </td></tr></tbody></table>
 
 
-
 ## 说明文本
 
 ### 东方文花帖
-- Music Room (未找到链接)
+
+- [Music Room](./东方文花帖-Music.md#标题画面主题曲)
 
 　标题、菜单画面所用的曲目。  
 　一如既往的曲子，这次做得带有少许阴沉复古的感觉，  
 　象是会有妖怪出来。  
 　沙沙作响的噪音是妖怪的神秘所在，  
 　绝对不是显示器或扬声器的问题，请放心。
-
 ## 其他资料
 
 ### 乐理资讯
 
 ### 分析考据
   
- **天狗の手帖　～ Mysterious Note**  天狗的笔记　～ Mysterious Note
+**天狗の手帖 ～ Mysterious Note** 天狗的笔记　～ Mysterious Note
   
 
-- 天狗
+- 天狗 
   - 本作的自机射命丸文。
 
-- 手帖
+
+- 手帖 
   - 天狗的采访笔记就是文花帖。
 
-- Mysterious Note
+
+- Mysterious Note 
   - 神秘笔记。
+
 
 
 
@@ -106,17 +96,6 @@
 <tr><td>Arrange</td><td>128</td></tr>
 <tr><td>Vocal率</td><td>9.86%</td></tr>
 </tbody></table>
-
-
-
-
-  
-  
-
-  
-
-
-
 
 
 ---

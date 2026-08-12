@@ -1,6 +1,6 @@
 # 文件:ANEMOS封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\38\ns6%3AANEMOS%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\38\ns6%3AANEMOS%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 vita | 同人志封面 | 封面图片
 
@@ -10,16 +10,11 @@ vita | 同人志封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [ANEMOS](./ANEMOS.md)  
-该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
+- [ANEMOS](./ANEMOS.md)该封面包含的角色：
+- [博丽灵梦](./博丽灵梦.md)
 
   
-源地址：[direct image link (original size)](https://melonbooks.akamaized.net/upload/save_image/212001083906.jpg), [source page (Melonbooks ID: 125384)](https://www.melonbooks.co.jp/detail/detail.php?product_id=125384)
-  
-
-
-
-
+源地址：[direct image link (original size)](https://melonbooks.akamaized.net/upload/save_image/212001083906.jpg), [source page (Melonbooks ID: 125384)](https://www.melonbooks.co.jp/detail/detail.php?product_id=125384)  
 
 ---
 

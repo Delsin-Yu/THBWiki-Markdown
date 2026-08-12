@@ -1,16 +1,12 @@
 # 文件:香香鸡工作室logo.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\65\ns6%3A%E9%A6%99%E9%A6%99%E9%B8%A1%E5%B7%A5%E4%BD%9C%E5%AE%A4logo%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\6\65\ns6%3A%E9%A6%99%E9%A6%99%E9%B8%A1%E5%B7%A5%E4%BD%9C%E5%AE%A4logo%2Epng.html -->
 
 社团LOGO | 香香鸡工作室
 
   
 logo（第二版）
   
-
-
-
-
 
 ---
 

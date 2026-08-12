@@ -1,6 +1,6 @@
 # 文件:RE：WORLD封面.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b3\ns6%3ARE%EF%BC%9AWORLD%E5%B0%81%E9%9D%A2%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\b\b3\ns6%3ARE%EF%BC%9AWORLD%E5%B0%81%E9%9D%A2%2Epng.html -->
 
 Colorful_Umbrella | 专辑封面 | 封面图片
 
@@ -8,16 +8,11 @@ Colorful_Umbrella | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [RE：WORLD](./RE：WORLD.md)  
-该封面包含的角色：- [东风谷早苗](./东风谷早苗.md)
+- [RE：WORLD](./RE：WORLD.md)该封面包含的角色：
+- [东风谷早苗](./东风谷早苗.md)
 
   
-源地址：[[1]](http://static.tumblr.com/45509af4652dc3b5597ab8ddd7e175a6/k2o4z3i/iiZnvr5r6/tumblr_static_4jx0lukwiy68c84w80s08o0ks.png)
-  
-
-
-
-
+源地址：[\[1\]](http://static.tumblr.com/45509af4652dc3b5597ab8ddd7e175a6/k2o4z3i/iiZnvr5r6/tumblr_static_4jx0lukwiy68c84w80s08o0ks.png)  
 
 ---
 

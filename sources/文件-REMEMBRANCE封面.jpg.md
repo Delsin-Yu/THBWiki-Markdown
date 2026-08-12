@@ -1,6 +1,6 @@
 # 文件:REMEMBRANCE封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\91\ns6%3AREMEMBRANCE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\91\ns6%3AREMEMBRANCE%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Karasu | 专辑封面 | 封面图片
 
@@ -11,9 +11,6 @@ Karasu | 专辑封面 | 封面图片
   
 
 - [REMEMBRANCE](./REMEMBRANCE.md)
-
-
-
 
 
 ---

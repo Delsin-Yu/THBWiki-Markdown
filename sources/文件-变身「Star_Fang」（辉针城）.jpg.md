@@ -1,12 +1,8 @@
 # 文件:变身「Star_Fang」（辉针城）.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9c\ns6%3A%E5%8F%98%E8%BA%AB%E3%80%8CStar_Fang%E3%80%8D%EF%BC%88%E8%BE%89%E9%92%88%E5%9F%8E%EF%BC%89%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\9c\ns6%3A%E5%8F%98%E8%BA%AB%E3%80%8CStar_Fang%E3%80%8D%EF%BC%88%E8%BE%89%E9%92%88%E5%9F%8E%EF%BC%89%2Ejpg.html -->
 
 东方辉针城 | 今泉影狼 | 敌机符卡
-
-
-
-
 
 
 ---

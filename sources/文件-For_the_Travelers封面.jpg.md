@@ -1,6 +1,6 @@
 # 文件:For_the_Travelers封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8f\ns6%3AFor_the_Travelers%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\8\8f\ns6%3AFor_the_Travelers%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Releska | 专辑封面 | 封面图片
 
@@ -8,16 +8,12 @@ Releska | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [For the Travelers](./For_the_Travelers.md)  
-该封面包含的角色：- [坂田合欢](./坂田合欢.md)- [矢田寺成美](./矢田寺成美.md)
+- [For the Travelers](./For_the_Travelers.md)该封面包含的角色：
+- [坂田合欢](./坂田合欢.md)
+- [矢田寺成美](./矢田寺成美.md)
 
   
-源地址：[[1]](https://releska.bandcamp.com/album/for-the-travelers)
-  
-
-
-
-
+源地址：[\[1\]](https://releska.bandcamp.com/album/for-the-travelers)  
 
 ---
 

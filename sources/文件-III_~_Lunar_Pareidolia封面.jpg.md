@@ -1,6 +1,6 @@
 # 文件:III_~_Lunar_Pareidolia封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3f\ns6%3AIII_%7E_Lunar_Pareidolia%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\3\3f\ns6%3AIII_%7E_Lunar_Pareidolia%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Holmgang_Ov_Gensokyo | 专辑封面 | 封面图片
 
@@ -10,16 +10,16 @@ Holmgang_Ov_Gensokyo | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [III ~ Lunar Pareidolia](./III_~_Lunar_Pareidolia.md)  
-该封面包含的角色：- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)- [八意永琳](./八意永琳.md)- [绵月依姬](./绵月依姬.md)- [哆来咪·苏伊特](./哆来咪·苏伊特.md)- [纯狐](./纯狐.md)- [赫卡提亚·拉碧斯拉祖利](./赫卡提亚·拉碧斯拉祖利.md)
+- [III ~ Lunar Pareidolia](./III_~_Lunar_Pareidolia.md)该封面包含的角色：
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
+- [八意永琳](./八意永琳.md)
+- [绵月依姬](./绵月依姬.md)
+- [哆来咪·苏伊特](./哆来咪·苏伊特.md)
+- [纯狐](./纯狐.md)
+- [赫卡提亚·拉碧斯拉祖利](./赫卡提亚·拉碧斯拉祖利.md)
 
   
-源地址：[direct image link (10 size)](https://f4.bcbits.com/img/a0605439965_10.jpg), [source page (artist Bandcamp)](https://holmgangovgensokyo.bandcamp.com/album/iii-lunar-pareidolia)
-  
-
-
-
-
+源地址：[direct image link (10 size)](https://f4.bcbits.com/img/a0605439965_10.jpg), [source page (artist Bandcamp)](https://holmgangovgensokyo.bandcamp.com/album/iii-lunar-pareidolia)  
 
 ---
 

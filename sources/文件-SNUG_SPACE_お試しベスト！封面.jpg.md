@@ -1,6 +1,6 @@
 # 文件:SNUG_SPACE_お試しベスト！封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a4\ns6%3ASNUG_SPACE_%E3%81%8A%E8%A9%A6%E3%81%97%E3%83%99%E3%82%B9%E3%83%88%EF%BC%81%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\a\a4\ns6%3ASNUG_SPACE_%E3%81%8A%E8%A9%A6%E3%81%97%E3%83%99%E3%82%B9%E3%83%88%EF%BC%81%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 SNUG_SPACE | 专辑封面 | 封面图片
 
@@ -8,11 +8,14 @@ SNUG_SPACE | 专辑封面 | 封面图片
 使用了本文件作封面图片的作品：
   
 
-- [SNUG SPACE お試しベスト！](./SNUG_SPACE_お試しベスト！.md)  
-该封面包含的角色：- [红美铃](./红美铃.md)- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)- [河城荷取](./河城荷取.md)- [雾雨魔理沙](./雾雨魔理沙.md)- [矢田寺成美](./矢田寺成美.md)
-
-
-
+- [SNUG SPACE お試しベスト！](./SNUG_SPACE_お試しベスト！.md)该封面包含的角色：
+- [红美铃](./红美铃.md)
+- [帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)
+- [芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)
+- [铃仙·优昙华院·因幡](./铃仙·优昙华院·因幡.md)
+- [河城荷取](./河城荷取.md)
+- [雾雨魔理沙](./雾雨魔理沙.md)
+- [矢田寺成美](./矢田寺成美.md)
 
 
 ---

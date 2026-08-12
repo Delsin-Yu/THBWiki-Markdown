@@ -1,6 +1,6 @@
 # 文件:Touhou_Symphonic_Poem_-_"辉光之针的小人族"_Op.5封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c8\ns6%3ATouhou_Symphonic_Poem_-_%22%E8%BE%89%E5%85%89%E4%B9%8B%E9%92%88%E7%9A%84%E5%B0%8F%E4%BA%BA%E6%97%8F%22_Op%2E5%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c8\ns6%3ATouhou_Symphonic_Poem_-_%22%E8%BE%89%E5%85%89%E4%B9%8B%E9%92%88%E7%9A%84%E5%B0%8F%E4%BA%BA%E6%97%8F%22_Op%2E5%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 Soundcard_Symphony_Orchestra | 专辑封面 | 封面图片
 
@@ -9,9 +9,6 @@ Soundcard_Symphony_Orchestra | 专辑封面 | 封面图片
   
 
 - [Touhou Symphonic Poem - "辉光之针的小人族" Op.5](./Touhou_Symphonic_Poem_-_-辉光之针的小人族-_Op.5.md)
-
-
-
 
 
 ---

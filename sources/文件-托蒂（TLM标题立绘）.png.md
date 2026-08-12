@@ -1,12 +1,8 @@
 # 文件:托蒂（TLM标题立绘）.png
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\15\ns6%3A%E6%89%98%E8%92%82%EF%BC%88TLM%E6%A0%87%E9%A2%98%E7%AB%8B%E7%BB%98%EF%BC%89%2Epng.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\1\15\ns6%3A%E6%89%98%E8%92%82%EF%BC%88TLM%E6%A0%87%E9%A2%98%E7%AB%8B%E7%BB%98%EF%BC%89%2Epng.html -->
 
 Torte_Le_Magic | 托蒂
-
-
-
-
 
 
 ---

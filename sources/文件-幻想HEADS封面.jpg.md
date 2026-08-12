@@ -1,6 +1,6 @@
 # 文件:幻想HEADS封面.jpg
 
-<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c2\ns6%3A%E5%B9%BB%E6%83%B3HEADS%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+<!-- source html: D:\Repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\c\c2\ns6%3A%E5%B9%BB%E6%83%B3HEADS%E5%B0%81%E9%9D%A2%2Ejpg.html -->
 
 专辑封面 | 封面图片 | 明日ryBEATS
 
@@ -8,16 +8,11 @@
 使用了本文件作封面图片的作品：
   
 
-- [幻想HEADS](./幻想HEADS.md)  
-该封面包含的角色：- [伊吹萃香](./伊吹萃香.md)
+- [幻想HEADS](./幻想HEADS.md)该封面包含的角色：
+- [伊吹萃香](./伊吹萃香.md)
 
   
-源地址：[[1]](https://www.pixiv.net/member_illust.php?mode=medium&amp;illust_id=65326672)
-  
-
-
-
-
+源地址：[\[1\]](https://www.pixiv.net/member_illust.php?mode=medium&illust_id=65326672)  
 
 ---
 
